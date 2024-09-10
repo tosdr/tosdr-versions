@@ -12,17 +12,16 @@ This Application uses Trackers managed directly by the Owner (so-called “first
 The validity and expiration periods of Cookies and other similar Trackers may vary depending on the lifetime set by the Owner or the relevant provider. Some of them expire upon termination of the User’s browsing session.  
 In addition to what’s specified in the descriptions within each of the categories below, Users may find more precise and updated information regarding lifetime specification as well as any other relevant information — such as the presence of other Trackers — in the linked privacy policies of the respective third-party providers or by contacting the Owner.
 
-### Activities strictly necessary for the operation of this Application and delivery of the Service
+How this Application uses Trackers
+----------------------------------
+
+### Necessary
 
 This Application uses so-called “technical” Cookies and other similar Trackers to carry out activities that are strictly necessary for the operation or delivery of the Service.
 
-#### Third-party Trackers
+#### Trackers managed by third parties
 
-* ### SPAM protection
-    
-    This type of services analyzes the traffic of this Application, potentially containing Users' Personal Data, with the purpose of filtering it from parts of traffic, messages and content that are recognized as SPAM.
-    
-    #### Google reCAPTCHA (Google Ireland Limited)
+* ### Google reCAPTCHA (Google Ireland Limited)
     
     Google reCAPTCHA is a SPAM protection service provided by Google Ireland Limited.  
     The use of reCAPTCHA is subject to the Google [privacy policy](https://www.google.com/policies/privacy/) and [terms of use](https://www.google.com/intl/en/policies/terms/).
@@ -41,34 +40,13 @@ This Application uses so-called “technical” Cookies and other similar Tracke
     * rc::c: duration of the session
     
 
-### Other activities involving the use of Trackers
-
-#### Experience
+### Experience
 
 This Application uses Trackers to improve the quality of the user experience and enable interactions with external content, networks and platforms.
 
-* ### Content commenting
-    
-    Content commenting services allow Users to make and publish their comments on the contents of this Application.  
-    Depending on the settings chosen by the Owner, Users may also leave anonymous comments. If there is an email address among the Personal Data provided by the User, it may be used to send notifications of comments on the same content. Users are responsible for the content of their own comments.  
-    If a content commenting service provided by third parties is installed, it may still collect web traffic data for the pages where the comment service is installed, even when Users do not use the content commenting service.
-    
-    #### Disqus (Disqus)
-    
-    Disqus is a content commenting service provided by Big Heads Labs Inc.
-    
-    Personal Data processed: Cookies, Usage Data and various types of Data as specified in the privacy policy of the service.
-    
-    Place of processing: US – [Privacy Policy](https://help.disqus.com/customer/portal/articles/466259-privacy-policy) – [Opt out](https://help.disqus.com/customer/portal/articles/1657951).
-    
-* ### Interaction with external social networks and platforms
-    
-    This type of service allows interaction with social networks or other external platforms directly from the pages of this Application.  
-    The interaction and information obtained through this Application are always subject to the User’s privacy settings for each social network.  
-    This type of service might still collect traffic data for the pages where the service is installed, even when Users do not use it.  
-    It is recommended to log out from the respective services in order to make sure that the processed data on this Application isn’t being connected back to the User’s profile.
-    
-    #### Facebook Like button and social widgets (Facebook, Inc.)
+#### Trackers managed by third parties
+
+* ### Facebook Like button and social widgets (Facebook, Inc.)
     
     The Facebook Like button and social widgets are services allowing interaction with the Facebook social network provided by Facebook, Inc.
     
@@ -80,7 +58,7 @@ This Application uses Trackers to improve the quality of the user experience and
     
     * \_fbp: 3 months
     
-    #### Google+ +1 button and social widgets (Google Ireland Limited)
+* ### Google+ +1 button and social widgets (Google Ireland Limited)
     
     The Google+ +1 button and social widgets are services allowing interaction with the Google+ social network provided by Google Inc.
     
@@ -88,7 +66,7 @@ This Application uses Trackers to improve the quality of the user experience and
     
     Place of processing: Ireland – [Privacy Policy](https://policies.google.com/privacy).
     
-    #### Twitter Tweet button and social widgets (X Corp.)
+* ### Twitter Tweet button and social widgets (X Corp.)
     
     The Twitter Tweet button and social widgets are services allowing interaction with the Twitter social network provided by Twitter, Inc.
     
@@ -100,7 +78,7 @@ This Application uses Trackers to improve the quality of the user experience and
     
     * personalization\_id: 2 years
     
-    #### Pinterest “Pin it” button and social widgets (Pinterest)
+* ### Pinterest “Pin it” button and social widgets (Pinterest)
     
     The Pinterest “Pin it” button and social widgets are services allowing interaction with the Pinterest platform provided by Pinterest Inc.
     
@@ -113,16 +91,22 @@ This Application uses Trackers to improve the quality of the user experience and
     * \_pin\_unauth: 1 year
     * \_pinterest\_ct\_ua: duration of the session
     
+* ### Disqus (Disqus)
+    
+    Disqus is a content commenting service provided by Big Heads Labs Inc.
+    
+    Personal Data processed: Cookies, Usage Data and various types of Data as specified in the privacy policy of the service.
+    
+    Place of processing: US – [Privacy Policy](https://help.disqus.com/customer/portal/articles/466259-privacy-policy) – [Opt out](https://help.disqus.com/customer/portal/articles/1657951).
+    
 
-#### Measurement
+### Measurement
 
 This Application uses Trackers to measure traffic and analyse User behaviour to improve the Service.
 
-* ### Analytics
-    
-    The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior.
-    
-    #### Google Analytics (Universal Analytics) (Google Ireland Limited)
+#### Trackers managed by third parties
+
+* ### Google Analytics (Universal Analytics) (Google Ireland Limited)
     
     Google Analytics (Universal Analytics) is a web analysis service provided by Google Ireland Limited (“Google”). Google utilizes the Data collected to track and examine the use of this Application, to prepare reports on its activities and share them with other Google services.  
     Google may use the Data collected to contextualize and personalize the ads of its own advertising network.
@@ -141,11 +125,7 @@ This Application uses Trackers to measure traffic and analyse User behaviour to 
     * \_gat: 1 minute
     * \_gid: 1 day
     
-* ### Content performance and features testing (A/B testing)
-    
-    The services contained in this section allow the Owner to track and analyze the User response concerning web traffic or behavior regarding changes to the structure, text or any other component of this Application.
-    
-    #### Visual Website Optimizer (Wingify)
+* ### Visual Website Optimizer (Wingify)
     
     Visual Website Optimizer is an A/B testing service provided by Wingify Inc.
     
@@ -153,23 +133,128 @@ This Application uses Trackers to measure traffic and analyse User behaviour to 
     
     Place of processing: US – [Privacy Policy](https://vwo.com/privacy-policy/).
     
+* ### Microsoft Clarity (Microsoft Corporation)
+    
+    Microsoft Clarity is a session recording and heat mapping service provided by Microsoft Corporation. Microsoft processes or receives Personal Data via Microsoft Clarity, which in turn may be used for any purpose in accordance with the Microsoft Privacy Statement, including improving and providing Microsoft Advertising.
+    
+    Personal Data processed: Trackers.
+    
+    Place of processing: United States – [Privacy Policy](https://privacy.microsoft.com/en-us/privacystatement).
+    
+    Storage duration:
+    
+    * ANONCHK: 10 minutes
+    * CLID: 1 year
+    * MR: 7 days
+    * MUID: 1 year
+    * SM: duration of the session
+    * \_clck: 1 year
+    * \_clsk: 1 day
+    
 
-#### Marketing
+### Marketing
 
-This Application uses Trackers to deliver personalised marketing content based on User behaviour and to operate, serve and track ads.
+This Application uses Trackers to deliver personalized ads or marketing content, and to measure their performance.
 
 Some of the advertising services used by the Owner adhere to the [IAB Transparency and Consent Framework](https://iabeurope.eu/transparency-consent-framework/), an initiative that facilitates responsible privacy practices across the digital advertising industry - providing Users with enhanced transparency and control over how their data are used for advertising tracking purposes. Users can customize their advertising preferences at any time by accessing the advertising preferences panel from within the cookie notice or via the relevant link on this Application.
 
 This Application participates in the IAB Europe Transparency & Consent Framework and complies with its Specifications and Policies. This Application uses iubenda (identification number 123) as a Consent Management Platform.
 
-* ### Advertising
+#### Trackers managed by third parties
+
+* ### ClickBank (Click Sales Inc.)
     
-    This type of service allows User Data to be utilized for advertising communication purposes. These communications are displayed in the form of banners and other advertisements on this Application, possibly based on User interests.  
-    This does not mean that all Personal Data are used for this purpose. Information and conditions of use are shown below.  
-    Some of the services listed below may use Trackers to identify Users or they may use the behavioral retargeting technique, i.e. displaying ads tailored to the User’s interests and behavior, including those detected outside this Application. For more information, please check the privacy policies of the relevant services.  
-    Services of this kind usually offer the possibility to opt out of such tracking. In addition to any opt-out feature offered by any of the services below, Users may learn more on how to generally opt out of interest-based advertising within the dedicated section "How to opt-out of interest-based advertising" in this document.
+    ClickBank is a banner commercial affiliation service provided by Click Sales Inc.
     
-    #### Google Ad Manager (Google Ireland Limited)
+    Personal Data processed: Cookies and Usage Data.
+    
+    Place of processing: US – [Privacy Policy](https://accounts.clickbank.com/privacy.html).
+    
+* ### Facebook Remarketing (Facebook, Inc.)
+    
+    Facebook Remarketing is a Remarketing and Behavioral Targeting service provided by Facebook, Inc. that connects the activity of this Application with the Facebook advertising network.
+    
+    Personal Data processed: Cookies and Usage Data.
+    
+    Place of processing: US – [Privacy Policy](https://www.facebook.com/about/privacy/) – [Opt Out](https://www.aboutads.info/choices/).
+    
+    Storage duration:
+    
+    * \_fbp: 3 months
+    
+* ### Google Ads Remarketing (Google Ireland Limited)
+    
+    Google Ads Remarketing is a remarketing and behavioral targeting service provided by Google Ireland Limited that connects the activity of this Application with the Google Ads advertising network and the DoubleClick Cookie.
+    
+    Users can opt out of Google's use of cookies for ads personalization by visiting Google's [Ads Settings](https://adssettings.google.com/authenticated).
+    
+    Personal Data processed: Cookies and Usage Data.
+    
+    Place of processing: Ireland – [Privacy Policy](https://policies.google.com/privacy) – [Opt Out](https://adssettings.google.com/authenticated#display_optout).
+    
+    Storage duration:
+    
+    * AID: 2 years
+    * ANID: 2 years
+    * Conversion: 3 months
+    * DSID: 14 days
+    * FCNEC: 1 year
+    * FLC: 10 seconds
+    * FPAU: 3 months
+    * FPGCLAW: 3 months
+    * FPGCLDC: 3 months
+    * FPGCLGB: 3 months
+    * GCL\_AW\_P: 3 months
+    * GED\_PLAYLIST\_ACTIVITY: duration of the session
+    * IDE: 2 years
+    * NID: 6 months
+    * RUL: 1 year
+    * TAID: 14 days
+    * \_\_gads: 2 years
+    * \_\_gpi: 2 years
+    * \_\_gpi\_optout: 2 years
+    * \_\_gsas: 2 years
+    * \_gac\_: 3 months
+    * \_gac\_gb\_: 3 months
+    * \_gcl\_ag: 3 months
+    * \_gcl\_au: 3 months
+    * \_gcl\_aw: 3 months
+    * \_gcl\_dc: 3 months
+    * \_gcl\_gb: 3 months
+    * \_gcl\_gf: 3 months
+    * \_gcl\_gs: 3 months
+    * \_gcl\_ha: 3 months
+    * id: 2 years
+    * receive-cookie-deprecation: 6 months
+    * test\_cookie: 15 minutes
+    
+* ### Remarketing with Google Analytics (Google Ireland Limited)
+    
+    Remarketing with Google Analytics is a remarketing and behavioral targeting service provided by Google Ireland Limited that connects the tracking activity performed by Google Analytics and its Cookies with the Google Ads advertising network and the Doubleclick Cookie.
+    
+    Personal Data processed: Cookies and Usage Data.
+    
+    Place of processing: Ireland – [Privacy Policy](https://policies.google.com/privacy).
+    
+    Storage duration:
+    
+    * test\_cookie: 15 minutes
+    * IDE: 2 years
+    * \_gcl\_\*: 3 months
+    
+* ### Facebook Custom Audience (Facebook, Inc.)
+    
+    Facebook Custom Audience is a Remarketing and Behavioral Targeting service provided by Facebook, Inc. that connects the activity of this Application with the Facebook advertising network.
+    
+    Personal Data processed: Cookies and email address.
+    
+    Place of processing: US – [Privacy Policy](https://www.facebook.com/about/privacy/) – [Opt Out](https://www.aboutads.info/choices/).
+    
+    Storage duration:
+    
+    * \_fbp: 3 months
+    
+* ### Google Ad Manager (Google Ireland Limited)
     
     Google Ad Manager is an advertising service provided by Google Ireland Limited that allows the Owner to run advertising campaigns in conjunction with external advertising networks that the Owner, unless otherwise specified in this document, has no direct relationship with.  
     In order to understand Google's use of Data, consult [Google's partner policy](https://policies.google.com/technologies/partner-sites).  
@@ -193,11 +278,15 @@ This Application participates in the IAB Europe Transparency & Consent Framework
     * FPGCLAW: 3 months
     * FPGCLDC: 3 months
     * FPGCLGB: 3 months
+    * GCL\_AW\_P: 3 months
+    * GED\_PLAYLIST\_ACTIVITY: duration of the session
     * IDE: 2 years
     * NID: 6 months
     * RUL: 1 year
     * TAID: 14 days
     * \_\_gads: 2 years
+    * \_\_gpi: 2 years
+    * \_\_gpi\_optout: 2 years
     * \_\_gsas: 2 years
     * \_gac\_: 3 months
     * \_gac\_gb\_: 3 months
@@ -210,9 +299,10 @@ This Application participates in the IAB Europe Transparency & Consent Framework
     * \_gcl\_gs: 3 months
     * \_gcl\_ha: 3 months
     * id: 2 years
+    * receive-cookie-deprecation: 6 months
     * test\_cookie: 15 minutes
     
-    #### Meta ads conversion tracking (Meta pixel) (Meta Platforms, Inc.)
+* ### Meta ads conversion tracking (Meta pixel) (Meta Platforms, Inc.)
     
     Meta ads conversion tracking (Meta pixel) is an analytics service provided by Meta Platforms, Inc. that connects data from the Meta Audience Network with actions performed on this Application. The Meta pixel tracks conversions that can be attributed to ads on Facebook, Instagram and Meta Audience Network.
     
@@ -225,7 +315,7 @@ This Application participates in the IAB Europe Transparency & Consent Framework
     * \_fbp: 3 months
     * fr: 3 months
     
-    #### Facebook Audience Network (Facebook, Inc.)
+* ### Facebook Audience Network (Facebook, Inc.)
     
     Facebook Audience Network is an advertising service provided by Facebook, Inc. **In order to understand Facebook's use of Data, consult [Facebook's data policy](https://www.facebook.com/about/privacy/).**
     
@@ -237,7 +327,7 @@ This Application participates in the IAB Europe Transparency & Consent Framework
     
     Place of processing: United States – [Privacy Policy](https://www.facebook.com/about/privacy/) – [Opt Out](https://www.facebook.com/settings?tab=ads).
     
-    #### Facebook Lookalike Audience (Facebook, Inc.)
+* ### Facebook Lookalike Audience (Facebook, Inc.)
     
     Facebook Lookalike Audience is an advertising and behavioral targeting service provided by Facebook, Inc. that uses Data collected through Facebook Custom Audience in order to display ads to Users with similar behavior to Users who are already in a Custom Audience list on the base of their past use of this Application or engagement with relevant content across the Facebook apps and services.  
     On the base of these Data, personalized ads will be shown to Users suggested by Facebook Lookalike Audience.
@@ -252,114 +342,12 @@ This Application participates in the IAB Europe Transparency & Consent Framework
     
     * \_fbp: 3 months
     
-* ### Commercial affiliation
-    
-    This type of services allows this Application to display advertisements for third party products or services. Ads can be displayed either as advertising links or as banners using various kinds of graphics.  
-    Clicks on the icon or banner posted on the Application are tracked by the third-party services listed below, and are shared with this Application.  
-    For details of which data are collected, please refer to the privacy policy of each service.
-    
-    #### ClickBank (Click Sales Inc.)
-    
-    ClickBank is a banner commercial affiliation service provided by Click Sales Inc.
-    
-    Personal Data processed: Cookies and Usage Data.
-    
-    Place of processing: US – [Privacy Policy](https://accounts.clickbank.com/privacy.html).
-    
-* ### Remarketing and behavioral targeting
-    
-    This type of service allows this Application and its partners to inform, optimize and serve advertising based on past use of this Application by the User.  
-    This activity is facilitated by tracking Usage Data and by using Trackers to collect information which is then transferred to the partners that manage the remarketing and behavioral targeting activity.  
-    Some services offer a remarketing option based on email address lists.  
-    In addition to any opt-out feature provided by any of the services below, Users may opt out by visiting the [Network Advertising Initiative opt-out page](http://optout.networkadvertising.org/?c=1).
-    
-    **Users may also opt-out of certain advertising features through applicable device settings, such as the device advertising settings for mobile phones or ads settings in general**.
-    
-    #### Facebook Remarketing (Facebook, Inc.)
-    
-    Facebook Remarketing is a Remarketing and Behavioral Targeting service provided by Facebook, Inc. that connects the activity of this Application with the Facebook advertising network.
-    
-    Personal Data processed: Cookies and Usage Data.
-    
-    Place of processing: US – [Privacy Policy](https://www.facebook.com/about/privacy/) – [Opt Out](https://www.aboutads.info/choices/).
-    
-    Storage duration:
-    
-    * \_fbp: 3 months
-    
-    #### Google Ads Remarketing (Google Ireland Limited)
-    
-    Google Ads Remarketing is a remarketing and behavioral targeting service provided by Google Ireland Limited that connects the activity of this Application with the Google Ads advertising network and the DoubleClick Cookie.
-    
-    Users can opt out of Google's use of cookies for ads personalization by visiting Google's [Ads Settings](https://adssettings.google.com/authenticated).
-    
-    Personal Data processed: Cookies and Usage Data.
-    
-    Place of processing: Ireland – [Privacy Policy](https://policies.google.com/privacy) – [Opt Out](https://adssettings.google.com/authenticated#display_optout).
-    
-    Storage duration:
-    
-    * AID: 2 years
-    * ANID: 2 years
-    * Conversion: 3 months
-    * DSID: 14 days
-    * FCNEC: 1 year
-    * FLC: 10 seconds
-    * FPAU: 3 months
-    * FPGCLAW: 3 months
-    * FPGCLDC: 3 months
-    * FPGCLGB: 3 months
-    * IDE: 2 years
-    * NID: 6 months
-    * RUL: 1 year
-    * TAID: 14 days
-    * \_\_gads: 2 years
-    * \_\_gsas: 2 years
-    * \_gac\_: 3 months
-    * \_gac\_gb\_: 3 months
-    * \_gcl\_ag: 3 months
-    * \_gcl\_au: 3 months
-    * \_gcl\_aw: 3 months
-    * \_gcl\_dc: 3 months
-    * \_gcl\_gb: 3 months
-    * \_gcl\_gf: 3 months
-    * \_gcl\_gs: 3 months
-    * \_gcl\_ha: 3 months
-    * id: 2 years
-    * test\_cookie: 15 minutes
-    
-    #### Remarketing with Google Analytics (Google Ireland Limited)
-    
-    Remarketing with Google Analytics is a remarketing and behavioral targeting service provided by Google Ireland Limited that connects the tracking activity performed by Google Analytics and its Cookies with the Google Ads advertising network and the Doubleclick Cookie.
-    
-    Personal Data processed: Cookies and Usage Data.
-    
-    Place of processing: Ireland – [Privacy Policy](https://policies.google.com/privacy).
-    
-    Storage duration:
-    
-    * test\_cookie: 15 minutes
-    * IDE: 2 years
-    * \_gcl\_\*: 3 months
-    
-    #### Facebook Custom Audience (Facebook, Inc.)
-    
-    Facebook Custom Audience is a Remarketing and Behavioral Targeting service provided by Facebook, Inc. that connects the activity of this Application with the Facebook advertising network.
-    
-    Personal Data processed: Cookies and email address.
-    
-    Place of processing: US – [Privacy Policy](https://www.facebook.com/about/privacy/) – [Opt Out](https://www.aboutads.info/choices/).
-    
-    Storage duration:
-    
-    * \_fbp: 3 months
-    
 
 ### How to manage preferences and provide or withdraw consent on this Application
 
 Whenever the use of Trackers is based on consent, users can provide or withdraw such consent by setting or updating their preferences via the relevant privacy choices panel available on this Application.
 
-With regard to any third-party Trackers, Users can manage their preferences and withdraw their consent (TO BE REMOVED) via the related opt-out link (where provided), by using the means indicated in the third party's privacy policy, or by contacting the third party.
+With regard to any third-party Trackers, Users can manage their preferences via the related opt-out link (where provided), by using the means indicated in the third party's privacy policy, or by contacting the third party.
 
 #### How to control or delete Cookies and similar technologies via your device settings
 
@@ -455,7 +443,7 @@ Tracker indicates any technology - e.g Cookies, unique identifiers, web beacons,
 
 This privacy policy relates solely to this Application, if not stated otherwise within this document.
 
-Latest update: March 07, 2024
+Latest update: August 20, 2024
 
 [iubenda](https://www.iubenda.com/en/cookie-solution "iubenda - Cookie Policy and Cookie Solution") hosts this content and only collects [the Personal Data strictly necessary](https://www.iubenda.com/privacy-policy/65675001) for it to be provided.
 
