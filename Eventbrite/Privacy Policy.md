@@ -4,8 +4,6 @@
 
 Help Center](https://www.eventbrite.com/help/en-us/)
 
-Support availability is limited due to extreme weather conditions in areas where representatives are located. We appreciate your understanding and patience.
-
 [Terms and policies](https://www.eventbrite.com/help/en-us/topics/terms-and-policies/)
 
 [Help Center](https://www.eventbrite.com/help/en-us/)
@@ -389,6 +387,6 @@ Still have questions?
 
 * © 2024 Eventbrite
     
-* [About](https://www.eventbrite.com/about/)[Blog](https://www.eventbrite.com/blog/)[Help](https://www.eventbrite.com/help/en-us/)[Careers](https://www.eventbritecareers.com/home)[Press](https://www.eventbrite.com/blog/press/)[Security](https://www.eventbrite.com/security/)[Developers](https://www.eventbrite.com/platform/)[Terms](https://www.eventbrite.com/l/legalterms/)[Privacy](https://www.eventbrite.com/help/en-us/articles/460838/eventbrite-privacy-policy/)[Accessibility](https://www.eventbrite.com/l/accessibility/)[Cookies](https://www.eventbrite.com/help/en-us/articles/666792/eventbrite-cookie-policy/)
+* [About](https://www.eventbrite.com/about/)[Blog](https://www.eventbrite.com/blog/)[Help](https://www.eventbrite.com/help/en-us/)[Careers](https://www.eventbritecareers.com/home)[Press](https://www.eventbrite.com/blog/press/)[Security](https://www.eventbrite.com/security/)[Developers](https://www.eventbrite.com/platform/)[Terms](https://www.eventbrite.com/l/legalterms/)[Privacy](https://www.eventbrite.com/help/en-us/articles/460838/eventbrite-privacy-policy/)[Accessibility](https://www.eventbrite.com/l/accessibility/)[Cookies](https://www.eventbrite.com/help/en-us/articles/666792/eventbrite-cookie-policy/)[Manage Cookie Preferences](#)
     
 * ArgentinaAustraliaBrasilCanada (EN)Canada (FR)ChileColombiaDenmarkDeutschlandEspañaFinlandFranceHong KongIrelandItaliaMéxicoNederlandNew ZealandPerúPortugalSchweizSingaporeSuisseSwedenUnited KingdomUnited States
