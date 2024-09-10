@@ -37,7 +37,7 @@ Hosting documentation
 * [Custom domains](https://docs.readthedocs.io/en/stable/custom-domains.html)
 * [Canonical URLs](https://docs.readthedocs.io/en/stable/canonical-urls.html)
 * [Content Delivery Network (CDN) and caching](https://docs.readthedocs.io/en/stable/reference/cdn.html)
-* [`sitemap.xml` support](https://docs.readthedocs.io/en/stable/reference/sitemaps.html)
+* [Sitemap support](https://docs.readthedocs.io/en/stable/reference/sitemaps.html)
 * [`404 Not Found` pages](https://docs.readthedocs.io/en/stable/reference/404-not-found.html)
 * [`robots.txt` support](https://docs.readthedocs.io/en/stable/reference/robots.html)
 
@@ -129,7 +129,7 @@ Reference
 * [About Read the Docs](https://docs.readthedocs.io/en/stable/about/index.html)
 * [Policies and legal documents](https://docs.readthedocs.io/en/stable/reference/policies.html)
 * Read the Docs Terms of Service
-* [Edit on GitHub](https://github.com/readthedocs/readthedocs.org/blob/35ec3923726c2576c5b688d78fa084770e83486a/docs/user/terms-of-service.rst)
+* [Edit on GitHub](https://github.com/readthedocs/readthedocs.org/blob/2f48c81e9ce162bbd34229e897db84044b00fe31/docs/user/terms-of-service.rst)
 
 * * *
 
@@ -584,6 +584,6 @@ Questions about the Terms of Service? [Get in touch](mailto:support%40readthedoc
 
 * * *
 
-© Copyright Read the Docs, Inc & contributors. Revision `35ec3923`.
+© Copyright Read the Docs, Inc & contributors. Revision `2f48c81e`.
 
 Built with [Sphinx](https://www.sphinx-doc.org/) using a [theme](https://github.com/readthedocs/sphinx_rtd_theme) provided by [Read the Docs](https://readthedocs.org/).
