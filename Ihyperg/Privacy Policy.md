@@ -26,7 +26,7 @@
     * [Pages Sitemap](https://ihyperg.com/sitemap-pages.xml)
 * [Privacy Policy](https://www.ihyperg.com/p/privacy-policy.html)
 
-Follow Our Twitter Account! [Open](https://twitter.com/ihyperg_com)
+We're back to bring you the most interesting news after a long break, and we hope for your continued support. Don't forget to follow us on Twitter to stay updated! [Open](https://twitter.com/ihyperg_com)
 
 [Home](https://www.ihyperg.com/) 
 
@@ -175,5 +175,3 @@ Did someone say … cookies?
 IHYPERG and its partners use cookies to provide you with a better, safer and faster service. Some cookies are necessary to use our services, improve our services, and make sure they work properly.
 
 Accept cookies
-
-\-->
