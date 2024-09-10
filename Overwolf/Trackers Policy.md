@@ -14,8 +14,8 @@
         
     * Desktop Apps
         * [How Does It Work](https://www.overwolf.com/creators/build-an-app/)
-        * [Getting started](https://overwolf.github.io/start/getting-started)
-        * [App documentation](https://overwolf.github.io/)
+        * [Getting started](https://dev.overwolf.com/ow-native/getting-started/overview/)
+        * [App documentation](https://dev.overwolf.com/ow-native/getting-started/overview/)
         * [Supported games](https://www.overwolf.com/supported-games/)
         * [Dev Discord](https://discord.gg/overwolf-developers)
     * [Mods](#)
@@ -150,7 +150,7 @@ For a list of First Party Cookies and a link to a list of Third Party Cookies, p
     * [Publish a mod](https://authors.curseforge.com/welcome/)
     * [Monetize game server](https://www.tebex.io/)
     * [Monetize your website](https://nitropay.com/)
-    * [App documentation](https://overwolf.github.io/docs/start/getting-started)
+    * [App documentation](https://dev.overwolf.com/ow-native/getting-started/overview/)
     * [Mod documentation](https://support.curseforge.com/en/support/solutions/folders/9000194118)
     * [Accelerator](https://www.overwolf.com/acceleration)
     * [Apply for funding](https://www.overwolf.com/fund/home)
@@ -170,11 +170,11 @@ For a list of First Party Cookies and a link to a list of Third Party Cookies, p
     * [Influencers](https://www.overwolf.com/influencers)
 * ##### Company
     
-    * [About us](https://overwolf.com/about-overwolf/)
-    * [Our culture](https://overwolf.com/our-culture/)
-    * [Brand guidelines](https://overwolf.com/brand-guidelines/)
+    * [About us](https://www.overwolf.com/about-overwolf/)
+    * [Our culture](https://www.overwolf.com/our-culture/)
+    * [Brand guidelines](https://www.overwolf.com/brand-guidelines/)
     * [Blog](https://blog.overwolf.com/)
-    * [Careers](https://overwolf.com/careers/)
+    * [Careers](https://www.overwolf.com/careers/)
     * [ISO](https://www.overwolf.com/iso/)
 * ##### Support & Privacy
     
