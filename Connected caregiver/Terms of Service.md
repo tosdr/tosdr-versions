@@ -2,7 +2,7 @@
 
 [![](https://myconnectedcaregiver.com/wp-content/uploads/2024/02/Asset-1-3-300x81.png "Asset-1-3")](https://myconnectedcaregiver.com/)
 
-* [Home](https://myconnectedcaregiver.com/safety/)
+* [Home](https://myconnectedcaregiver.com/)
 * [Our Products](https://myconnectedcaregiver.com/peace-of-mind-silver/)
     * [Safety+](https://myconnectedcaregiver.com/safety/)
     * [Prompter Pillbox](https://myconnectedcaregiver.com/prompter-pillbox/)
@@ -13,7 +13,6 @@
     * [Connected Devices](https://myconnectedcaregiver.com/connected-devices/)
     * [Connected Home](https://myconnectedcaregiver.com/connected-home/)
 * [Packages](https://myconnectedcaregiver.com/pricing/)
-    * [In-Home Passive Monitoring-old](https://myconnectedcaregiver.com/passive-monitoring-old/)
     * [Basic](https://myconnectedcaregiver.com/basic/)
     * [Peace of Mind Silver](https://myconnectedcaregiver.com/peace-of-mind-silver/)
     * [Peace of Mind Gold](https://myconnectedcaregiver.com/peace-of-mind-gold/)
@@ -27,7 +26,7 @@
 
 [![](https://myconnectedcaregiver.com/wp-content/uploads/2024/02/C_C_mobile_logo2.png)](https://myconnectedcaregiver.com/)
 
-* [Home](https://myconnectedcaregiver.com/safety/)
+* [Home](https://myconnectedcaregiver.com/)
 * [Our Products](https://myconnectedcaregiver.com/peace-of-mind-silver/)
     * [Safety+](https://myconnectedcaregiver.com/safety/)
     * [Prompter Pillbox](https://myconnectedcaregiver.com/prompter-pillbox/)
@@ -38,7 +37,6 @@
     * [Connected Devices](https://myconnectedcaregiver.com/connected-devices/)
     * [Connected Home](https://myconnectedcaregiver.com/connected-home/)
 * [Packages](https://myconnectedcaregiver.com/pricing/)
-    * [In-Home Passive Monitoring-old](https://myconnectedcaregiver.com/passive-monitoring-old/)
     * [Basic](https://myconnectedcaregiver.com/basic/)
     * [Peace of Mind Silver](https://myconnectedcaregiver.com/peace-of-mind-silver/)
     * [Peace of Mind Gold](https://myconnectedcaregiver.com/peace-of-mind-gold/)
@@ -261,5 +259,3 @@ We also provide promotional partners with reports about the performance of their
 * [Follow](https://www.youtube.com/channel/UCFF6oOATLyxqLJt-gOJ-DVw "Follow on Youtube")
 
 [About Us](https://myconnectedcaregiver.com/about-us)     [Contact](https://myconnectedcaregiver.com/contact-us)     [Help Center](https://connected-caregiver.helpscoutdocs.com/)     Resources     [For Professional Caregivers](https://myconnectedcaregiver.com/professional-caregivers/)     Open Source Acknowledgements     [Terms & Conditions](https://myconnectedcaregiver.com/terms/)     [Privacy Policy](https://myconnectedcaregiver.com/privacy)     [FAQs](https://myconnectedcaregiver.com/faqs)
-
-![](https://www.facebook.com/tr?id=7037245686379372&ev=PageView&noscript=1&eid=70372456863793722e8f2d4d-dfaf-4fc2-880a-c792770f8f35&cd%5Bpage_title%5D=Terms+%26+Conditions&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=428&cd%5Bplugin%5D=PixelYourSite&cd%5Bevent_url%5D=myconnectedcaregiver.com%2Fterms%2F&cd%5Buser_role%5D=guest)
