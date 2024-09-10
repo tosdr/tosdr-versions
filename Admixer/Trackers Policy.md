@@ -257,7 +257,7 @@ Our products
 * For publishers
     * [SSP](https://admixer.com/ssp/)
     * [Publisher](https://admixer.com/publisher/)
-    * [Network](https://admixer.com/adnetwork/)
+    * [Network](https://admixer.com/?page_id=605)
     * [App Monetization](https://admixer.com/ssp-for-android-and-ios-app-developers/)
     * [Monetization Approach](https://admixer.com/monetization/)
     * [Header Bidding](https://hb.admixer.com/)
