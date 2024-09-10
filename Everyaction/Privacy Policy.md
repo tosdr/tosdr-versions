@@ -378,7 +378,7 @@ At Bonterra, we are the software behind the mission: the tools and technology yo
 
 ![A group of employees working at desks next to each other. ](/sites/default/files/styles/homepage_hero_main_image/public/2023-05/istock-1178529766_0.jpg.webp?itok=XRVt4FJ4)
 
-Our Social Impact Software
+Our Nonprofit Software
 
 ![man placeholder image](/sites/default/files/styles/quilt_image/public/2023-05/istock-1361780078_0.jpg.webp?itok=DW7VvF6v)
 
@@ -408,10 +408,10 @@ Improve community outcomes, simplify business processes, and measure your succes
 
 We power those who power social impact.
 
-Software for social good
-------------------------
+Nonprofit software for social good
+----------------------------------
 
-### Software is just part of our business.  
+### Nonprofit software is just part of our business.  
 We are also changing the world.
 
 ### A vision for change
@@ -463,8 +463,8 @@ Move from basic corporate social responsibility to true strategic philanthropy. 
 
 [Explore solutions for corporations](https://www.bonterratech.com/who-we-serve/corporations)
 
-Social good software you can trust
-----------------------------------
+Nonprofit fundraising software you can trust
+--------------------------------------------
 
 The world's leading causes rely on Bonterra social impact platforms to advance their missions.
 
@@ -494,6 +494,61 @@ Powering CorporationsEducational institutionsEnergyFinancial institutionsFoundat
 
 who power Animal welfareArts & cultureDisaster reliefDiversity, equity, inclusion & belonging (DEIB)EducationEnvironmental changeFaith-basedHealthcareHuman servicesSocial justiceVolunteerismWorkplace developmentsocial impact
 
+![Members of Wilmington Alliance celebrating](/sites/default/files/styles/carousel_square_450x450_/public/2024-09/wilmingtonalliance_main-image.png.webp?itok=7tQTvjhQ)
+
+**Empowering entrepreneurship to build the local economy** 
+
+TBD
+
+[Read their story onEmpowering entrepreneurship to build the local economy](https://www.everyaction.com/case-studies/empowering-entrepreneurship-build-local-economy) 
+
+Impact Powered by:
+
+![Catholic Social Services workers stand together with arms over each other's shoulders](/sites/default/files/styles/carousel_square_450x450_/public/2024-08/catholic-social-services-of-ak_header-photo_0.png.webp?itok=9goOnu_F)
+
+**Powering stronger outcomes for vulnerable populations**
+
+Catholic Social Services of Anchorage, Alaska, knows robust data and powers stronger outcomes for vulnerable populations.
+
+[Read their story onPowering stronger outcomes for vulnerable populations](https://www.everyaction.com/case-studies/catholic-social-services-ak)
+
+Impact Powered by:
+
+* Case Management
+* Human services
+* Nonprofits
+* Public agencies
+* Coordinating social services
+
+![A mother wrapped in a Ukrainian flag kissing her baby.](/sites/default/files/styles/carousel_square_450x450_/public/2024-08/bonterra-cvs-health_header-photo.jpg.webp?itok=lF00p0nH)
+
+**CVS Health: Responding rapidly to an emerging crisis** 
+
+How CVS Health used Bonterra’s Employee Engagement software to quickly deploy a disaster relief campaign, drive colleague participation, and measure impact.
+
+[Read their story onCVS Health: Responding rapidly to an emerging crisis](https://www.everyaction.com/case-studies/cvs-health) 
+
+Impact Powered by:
+
+* Corporate Social Responsibility
+* Healthcare
+* Disaster relief
+* Corporations
+* Foundations & grantmakers
+* Retail
+* Corporate social responsibility
+* Employee giving
+
+![An NVMHF beneficiary receives a hug](/sites/default/files/styles/carousel_square_450x450_/public/2024-08/nvmhf-main-image.png.webp?itok=yMvBGsYH)
+
+**Restoring hope with ‘last resort’ grants** 
+
+Learn how Northern Virginia Mental Health Foundation is delivering last-resort funding to address homelessness and job loss.
+
+[Read their story onRestoring hope with ‘last resort’ grants](https://www.everyaction.com/case-studies/restoring-hope-last-resort-grants) 
+
+Impact Powered by:
+
 ![Staff of Mid-Shore Council on Family Violence](/sites/default/files/styles/carousel_square_450x450_/public/2024-07/midshore-midshore-header-image.png.webp?itok=PD948rEE)
 
 **Empowering victims to self-sufficiency**
@@ -514,52 +569,6 @@ Learn how Deaconess Nurse Ministry improved data management and reporting to enh
 
 Impact Powered by:
 
-![Photo of a woman visiting her doctor](/sites/default/files/styles/carousel_square_450x450_/public/2024-07/mmhn-istock-1495378388-color-bg.png.webp?itok=TVnv54vq)
-
-**Championing perinatal mental health for all**
-
-Serving the birthing and new parent community of Los Angeles since 2007, Maternal Mental Health NOW (MMHN) creates maximum impact with a three-tiered approach to healing.
-
-[Read their story onChampioning perinatal mental health for all](https://www.everyaction.com/case-studies/championing-perinatal-mental-health-all)
-
-Impact Powered by:
-
-![A young child hugs her smiling mother, who is working on a laptop computer and reading handwritten notes.](/sites/default/files/styles/carousel_square_450x450_/public/2023-08/istock-1369908422.jpg.webp?itok=GOos_lYQ)
-
-**First 5 Riverside: Strengthening families with data**
-
-In this case study, discover how Bonterra Impact Management helped First 5 Riverside County dramatically increase efficiency around data.
-
-[Read their story onFirst 5 Riverside: Strengthening families with data](https://www.everyaction.com/case-studies/first-5-riverside-strengthening-families-data)
-
-Impact Powered by:
-
-* Program Management
-* Human services
-* Nonprofits
-* Public agencies
-* Coordinating social services
-
-![Girl smiling at the camera holding a bowl of food](/sites/default/files/styles/carousel_square_450x450_/public/2024-07/bonterra-sonoma-county_header-photo.jpg.webp?itok=we_jLa18)
-
-**Driving evidence-based change in Sonoma County**
-
-How Sonoma County uses data to drive evidence-based change
-
-[Read their story onDriving evidence-based change in Sonoma County](https://www.everyaction.com/case-studies/driving-evidence-based-change-sonoma-county)
-
-Impact Powered by:
-
-![Beneficiaries of A New Leaf](/sites/default/files/styles/carousel_square_450x450_/public/2024-06/new-leaf-main-image.png.webp?itok=egsOOggk)
-
-**Helping Arizonans turn a new leaf**
-
-Read how A New Leaf addresses the needs of Arizonans with the help of Bonterra
-
-[Read their story onHelping Arizonans turn a new leaf](https://www.everyaction.com/case-studies/helping-arizonans-turn-new-leaf)
-
-Impact Powered by:
-
 Previous Next
 
 [See all](https://www.everyaction.com/case-studies)
@@ -567,29 +576,33 @@ Previous Next
 Social impact insights & information
 ------------------------------------
 
-* ![Two nonprofit professionals strategize how to share information about tax-deductible membership dues with supporters.](/sites/default/files/styles/card_image_short/public/2023-05/gettyimages-1171809453.jpg?h=d0633ac3&itok=5Gwb5szS)
+* ![Case study](/sites/default/files/styles/card_image_short/public/2023-01/case-study-hero.jpg?h=b939d4c7&itok=ZeK9xxSu)
     
-    ### [Donor database buyer’s guide: Choosing the best solution](https://www.everyaction.com/blog/donor-database)
+    ### [Bonterra acquires DonorDrive](https://www.everyaction.com/blog/bonterra-acquires-donordrive)
     
-    * Digital communications & marketing
-    * Nonprofits
+    * Capacity building
+    * Coordinating social services
+    * Corporate social responsibility
+    * Corporations
     * Donor Engagement
     
-* ![Two nonprofit professionals strategize how to share information about tax-deductible membership dues with supporters.](/sites/default/files/styles/card_image_short/public/2023-05/gettyimages-1171809453.jpg?h=d0633ac3&itok=5Gwb5szS)
+* ![Coworkers reviewing data on a tablet.](/sites/default/files/styles/card_image_short/public/2024-08/1178155113.jpeg?h=ada05aa9&itok=tLdSxVLr)
     
-    ### [Choosing the best donor database software: A buyer’s guide](https://www.everyaction.com/blog/donor-databases)
+    ### [Impact measurement 101: defining and collecting data](https://www.everyaction.com/blog/impact-measurement-101-defining-and-collecting-data)
     
-    * Digital communications & marketing
+    * Coordinating social services
     * Nonprofits
-    * Donor Engagement
+    * Case Management
+    * Human services
     
-* ![Two nonprofit professionals plan how to collect and use donor testimonials.](/sites/default/files/styles/card_image_short/public/2023-05/bonterra_how-to-collect-and-use-donor-testimonials-for-your-nonprofit_feature-min_0.jpg?h=9855f42d&itok=y2eU0UZo)
+* ![An employee working at a business with a matching gift program smiles while working on her computer.](/sites/default/files/styles/card_image_short/public/2023-06/istock-1180171302.jpg?h=119335f7&itok=l4kA8b6s)
     
-    ### [How to collect and use donor testimonials for your nonprofit](https://www.everyaction.com/blog/collect-and-use-nonprofit-testimonials)
+    ### [Win-win-win workplace giving programs: How to tap in](https://www.everyaction.com/blog/best-workplace-giving-programs)
     
-    * Digital communications & marketing
-    * Nonprofits
-    * Donor Engagement
+    * Corporate social responsibility
+    * Employee giving
+    * Corporations
+    * Corporate Social Responsibility
     
 
 ![Bonterra](/sites/default/files/2022-08/bonterra_footer.svg)
