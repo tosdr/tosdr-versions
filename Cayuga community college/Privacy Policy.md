@@ -631,7 +631,7 @@ _While such categorization of Personal Information is mainly based on California
 
 * ### Internet or other electronic network activity information
     
-    **Personal Information collected or disclosed:** Cookies, Usage data, Various types of data as specified in the privacy policy of the service, Email address, Tracker, Trackers, Number of users, Session statistics, Browser information, Geography/region, Clicks, Browsing history
+    **Personal Information collected or disclosed:** Cookies, Usage Data, various types of Data as specified in the privacy policy of the service, email address, Tracker, Trackers, number of Users, session statistics, browser information, geography/region, clicks, browsing history
     
     **Purposes:**
     
@@ -658,7 +658,7 @@ _While such categorization of Personal Information is mainly based on California
     
 * ### Identifiers
     
-    **Personal Information collected or disclosed:** Address, First name, Last name, Gender, Date of birth, Phone number, State, Email address, Zip/postal code, City, Cookies, Company name, Various types of data as specified in the privacy policy of the service
+    **Personal Information collected or disclosed:** address, first name, last name, gender, date of birth, phone number, state, email address, ZIP/Postal code, city, Cookies, company name, various types of Data as specified in the privacy policy of the service
     
     **Sensitive Personal Information collected or disclosed ℹ️:** Social Security number (SSN)
     
@@ -682,7 +682,7 @@ _While such categorization of Personal Information is mainly based on California
     
 * ### Biometric information
     
-    **Personal Information collected or disclosed:** Address, First name, Last name, Gender, Date of birth, Phone number, State, Email address, Zip/postal code, City
+    **Personal Information collected or disclosed:** address, first name, last name, gender, date of birth, phone number, state, email address, ZIP/Postal code, city
     
     **Purposes:**
     
@@ -698,7 +698,7 @@ _While such categorization of Personal Information is mainly based on California
     
 * ### Commercial information
     
-    **Personal Information collected or disclosed:** Email address, First name, Last name, Phone number, Address, Company name, State, Zip/postal code, City
+    **Personal Information collected or disclosed:** email address, first name, last name, phone number, address, company name, state, ZIP/Postal code, city
     
     **Purposes:**
     
@@ -717,7 +717,7 @@ _While such categorization of Personal Information is mainly based on California
     
 * ### Geolocation data
     
-    **Personal Information collected or disclosed:** Browser information, Geography/region, Clicks, Browsing history
+    **Personal Information collected or disclosed:** browser information, geography/region, clicks, browsing history
     
     **Purposes:**
     
