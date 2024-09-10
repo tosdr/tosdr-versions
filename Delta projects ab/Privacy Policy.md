@@ -1,4 +1,4 @@
- [![Delta Projects](https://deltaprojects.com/wp-content/uploads/2023/06/delta-an-azerion-logo-.png)](https://deltaprojects.com/)[![Delta Projects](https://deltaprojects.com/wp-content/themes/content/dist/images/delta-logo-white.svg)](https://deltaprojects.com/)
+ [![Delta Projects – An Azerion Company](https://deltaprojects.com/wp-content/uploads/2023/06/delta-an-azerion-logo-.png)](https://deltaprojects.com/)[![Delta Projects – An Azerion Company](https://deltaprojects.com/wp-content/themes/content/dist/images/delta-logo-white.svg)](https://deltaprojects.com/)
 
 * [Solutions](https://deltaprojects.com/solutions/)
 * [Technology](https://deltaprojects.com/technology/)
