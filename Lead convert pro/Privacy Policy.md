@@ -1056,7 +1056,7 @@ _While such categorization of Personal Information is mainly based on California
 
 * ### Identifiers
     
-    **Personal Information collected or disclosed:** First name, Last name, Phone number, Company name, Physical address, Country, State, Email address, Zip/postal code, City, Website, Various types of data as specified in the privacy policy of the service, Tracker, Usage data, Billing address, Data communicated while using the service, Unique device identifiers for advertising (google advertiser id or idfa, for example), Date of birth, Gender, Profession, Geographic position, Purchase history, Device information, Screenshots, Workplace, Picture, User id
+    **Personal Information collected or disclosed:** first name, last name, phone number, company name, physical address, country, state, email address, ZIP/Postal code, city, website, various types of Data as specified in the privacy policy of the service, Tracker, Usage Data, billing address, Data communicated while using the service, unique device identifiers for advertising (Google Advertiser ID or IDFA, for example), date of birth, gender, profession, geographic position, purchase history, device information, screenshots, workplace, picture, User ID
     
     **Sensitive Personal Information collected or disclosed ℹ️:** payment info, marital status, username, password, VAT Number
     
@@ -1088,7 +1088,7 @@ _While such categorization of Personal Information is mainly based on California
     
 * ### Commercial information
     
-    **Personal Information collected or disclosed:** First name, Last name, Phone number, Company name, Physical address, Country, State, Email address, Zip/postal code, City, Website, Various types of data as specified in the privacy policy of the service, Tracker, Usage data, Billing address, Data communicated while using the service, Date of birth, Gender, Profession, Geographic position, Purchase history, Device information, Screenshots, Workplace, Picture
+    **Personal Information collected or disclosed:** first name, last name, phone number, company name, physical address, country, state, email address, ZIP/Postal code, city, website, various types of Data as specified in the privacy policy of the service, Tracker, Usage Data, billing address, Data communicated while using the service, date of birth, gender, profession, geographic position, purchase history, device information, screenshots, workplace, picture
     
     **Sensitive Personal Information collected or disclosed ℹ️:** payment info, marital status, username, password, VAT Number
     
@@ -1114,7 +1114,7 @@ _While such categorization of Personal Information is mainly based on California
     
 * ### Internet or other electronic network activity information
     
-    **Personal Information collected or disclosed:** First name, Last name, Phone number, Company name, Physical address, Country, State, Email address, Zip/postal code, City, Website, Website, Read mailbox, Manage pages, Video upload, Publish as page, Pages manage posts, Pages manage instant articles, Managing page advertisements, Tracker, Usage data, Various types of data as specified in the privacy policy of the service, Billing address, Data communicated while using the service, Various types of data, Trackers, Unique device identifiers for advertising (google advertiser id or idfa, for example), Date of birth, Gender, Profession, Geographic position, Purchase history, Device information, Screenshots, Workplace, User id
+    **Personal Information collected or disclosed:** first name, last name, phone number, company name, physical address, country, state, email address, ZIP/Postal code, city, website, Website, Read Mailbox, Manage Pages, Video upload, Publish as Page, Pages manage posts, Pages manage instant articles, Managing Page Advertisements, Tracker, Usage Data, various types of Data as specified in the privacy policy of the service, billing address, Data communicated while using the service, various types of Data, Trackers, unique device identifiers for advertising (Google Advertiser ID or IDFA, for example), date of birth, gender, profession, geographic position, purchase history, device information, screenshots, workplace, User ID
     
     **Sensitive Personal Information collected or disclosed ℹ️:** payment info, marital status, username, password, VAT Number
     
@@ -1155,7 +1155,7 @@ _While such categorization of Personal Information is mainly based on California
     
 * ### Audio, electronic, visual, thermal, olfactory, or similar information
     
-    **Personal Information collected or disclosed:** Website, Read mailbox, Manage pages, Video upload, Publish as page, Pages manage posts, Pages manage instant articles, Managing page advertisements, First name, Last name, Physical address, Gender, Phone number, Email address, Geographic position, Profession, Company name, Country, State, Picture, City
+    **Personal Information collected or disclosed:** Website, Read Mailbox, Manage Pages, Video upload, Publish as Page, Pages manage posts, Pages manage instant articles, Managing Page Advertisements, first name, last name, physical address, gender, phone number, email address, geographic position, profession, company name, country, state, picture, city
     
     **Sensitive Personal Information collected or disclosed ℹ️:** username
     
@@ -1176,7 +1176,7 @@ _While such categorization of Personal Information is mainly based on California
     
 * ### Biometric information
     
-    **Personal Information collected or disclosed:** Tracker, Usage data, First name, Last name, Email address, Date of birth, Physical address, City, Country, Phone number, Zip/postal code, Gender, State, Company name, Profession, Data communicated while using the service, Geographic position, Picture
+    **Personal Information collected or disclosed:** Tracker, Usage Data, first name, last name, email address, date of birth, physical address, city, country, phone number, ZIP/Postal code, gender, state, company name, profession, Data communicated while using the service, geographic position, picture
     
     **Sensitive Personal Information collected or disclosed ℹ️:** marital status, username
     
@@ -1197,7 +1197,7 @@ _While such categorization of Personal Information is mainly based on California
     
 * ### Employment related information
     
-    **Personal Information collected or disclosed:** Tracker, Usage data, First name, Last name, Email address, Date of birth, Physical address, City, Country, Phone number, Zip/postal code, Gender, State, Company name, Profession, Data communicated while using the service, Geographic position, Screenshots, Workplace, Picture
+    **Personal Information collected or disclosed:** Tracker, Usage Data, first name, last name, email address, date of birth, physical address, city, country, phone number, ZIP/Postal code, gender, state, company name, profession, Data communicated while using the service, geographic position, screenshots, workplace, picture
     
     **Sensitive Personal Information collected or disclosed ℹ️:** marital status, username, password, VAT Number
     
@@ -1219,7 +1219,7 @@ _While such categorization of Personal Information is mainly based on California
     
 * ### Inferences drawn from other personal information
     
-    **Personal Information collected or disclosed:** Tracker, Usage data, First name, Last name, Email address, Date of birth, Physical address, City, Country, Phone number, Zip/postal code, Gender, State, Company name, Profession, Data communicated while using the service
+    **Personal Information collected or disclosed:** Tracker, Usage Data, first name, last name, email address, date of birth, physical address, city, country, phone number, ZIP/Postal code, gender, state, company name, profession, Data communicated while using the service
     
     **Sensitive Personal Information collected or disclosed ℹ️:** marital status
     
@@ -1237,7 +1237,7 @@ _While such categorization of Personal Information is mainly based on California
     
 * ### Geolocation data
     
-    **Personal Information collected or disclosed:** Tracker, First name, Last name, Company name, Email address, Country, City, Geographic position, Phone number, Zip/postal code, Data communicated while using the service, Date of birth, Physical address, Screenshots, Workplace, Gender, Profession, State, Picture
+    **Personal Information collected or disclosed:** Tracker, first name, last name, company name, email address, country, city, geographic position, phone number, ZIP/Postal code, Data communicated while using the service, date of birth, physical address, screenshots, workplace, gender, profession, state, picture
     
     **Sensitive Personal Information collected or disclosed ℹ️:** username, password, VAT Number
     
