@@ -86,7 +86,7 @@
     * [All partners](https://www.philips-hue.com/en-us/explore-hue/works-with)
     * [Support](https://www.philips-hue.com/en-us/support/faq)* [Account](https://account.meethue.com/ "Account")
 
- ![](https://www.philips-hue.com/en-us/support/legal/cookie-notice/_jcr_content/root/responsivegrid/section_component/responsivegrid/story_banner_compone.signifyimg.82.300.jpeg/1610009555360.jpeg)
+ ![Cookies Notice](https://www.philips-hue.com/en-us/support/legal/cookie-notice/_jcr_content/root/responsivegrid/section_component/responsivegrid/story_banner_compone.signifyimg.82.300.jpeg/1610009555360.jpeg)
 
 Cookies Notice
 ==============
