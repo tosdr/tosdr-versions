@@ -1,9 +1,13 @@
 [Railway](https://railway.app/ "Dashboard")
 
-[](https://railway.app/)
+[](https://railway.app/)[All systems operational↗](https://status.railway.app/)
+
+* * *
 
 Copyright © 2024 Railway Corp.  
 All rights reserved.
+
+[](https://trust.railway.app/)
 
 Product
 
@@ -12,7 +16,6 @@ Product
 * [Changelog](https://railway.app/changelog)
 * [Pricing](https://railway.app/pricing)
 * [Templates](https://railway.app/templates)
-* [Feedback](https://help.railway.app/feedback)
 * [OSS Kickback](https://railway.app/open-source-kickback)
 * [Migrate from Heroku](https://railway.app/heroku)
 
@@ -22,7 +25,7 @@ Company
 * [Careers](https://railway.app/careers)
 * [Blog](https://blog.railway.app/)
 * [Shop](https://shop.railway.app/)
-* [Status Page](https://status.railway.app/)
+* [Trust](https://trust.railway.app/)
 * [Startup Program](https://startup.railway.app/)
 
 Contact
@@ -32,7 +35,7 @@ Contact
 * [Twitter](https://twitter.com/Railway)
 * [GitHub](https://github.com/railwayapp)
 * [Email](mailto:team@railway.app)
-* [Enterprise](https://cal.com/team/railway/demonew)
+* [Enterprise](https://railway.app/legal/privacy#enterprise-calendar-embed)
 
 Legal
 
