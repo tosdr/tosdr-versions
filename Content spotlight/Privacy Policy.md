@@ -56,17 +56,7 @@ What rights you have over your data
 
 Like Loading...
 
-* * *
-
-### Discover more from CONTENT SPOTLIGHT
-
-Subscribe to get the latest posts sent to your email.
-
-Type your email… 
-
-        Subscribe
-
-[![DMCA.com Protection Status](https://images.dmca.com/Badges/dmca_protected_sml_120g.png?ID=d2228e87-b455-44e4-a401-ff8698cd0998)](https://www.dmca.com/Protection/Status.aspx?ID=d2228e87-b455-44e4-a401-ff8698cd0998 "DMCA.com Protection Status")
+[![DMCA.com Protection Status](https://i0.wp.com/images.dmca.com/Badges/dmca_protected_sml_120g.png?w=640&ssl=1)](https://www.dmca.com/Protection/Status.aspx?ID=d2228e87-b455-44e4-a401-ff8698cd0998 "DMCA.com Protection Status")
 
 Copyright © Content Spotlight 2023
 ----------------------------------
