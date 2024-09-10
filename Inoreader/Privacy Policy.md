@@ -69,11 +69,11 @@ By providing us with your data, you warrant to us that you are over 13 years of 
 
 Full name of legal entity: Innologica Ltd
 
-Email address: [support@inoreader.com](mailto:support@inoreader.com)
+Email address: [\[email protected\]](https://www.inoreader.com/cdn-cgi/l/email-protection)
 
 Postal address: 35 Boris Stefanov str. 1700 Sofia Bulgaria
 
-It is very important that the information we hold about you is accurate and up to date. Please let us know if at any time your personal information changes by emailing us at support@inoreader.com OR go to Preferences > Profile in Inoreader.
+It is very important that the information we hold about you is accurate and up to date. Please let us know if at any time your personal information changes by emailing us at [\[email protected\]](https://www.inoreader.com/cdn-cgi/l/email-protection) OR go to Preferences > Profile in Inoreader.
 
 ### Definitions
 
@@ -93,7 +93,7 @@ Generally, you control the amount and type of data you provide to us when using 
 
 Where we are required to collect personal data by law, or under the terms of the contract between us and you do not provide us with that data when requested, we may not be able to perform the contract (for example, to deliver goods or services to you). If you don't provide us with the requested data, we may have to cancel a product or service you have ordered but if we do, we will notify you at the time.
 
-We will only use your personal data for a purpose it was collected for or a reasonably compatible purpose if necessary. For more information on this please email us at [support@inoreader.com](mailto:support@inoreader.com). In case we need to use your details for an unrelated new purpose we will let you know and explain the legal grounds for processing.
+We will only use your personal data for a purpose it was collected for or a reasonably compatible purpose if necessary. For more information on this please email us at [\[email protected\]](https://www.inoreader.com/cdn-cgi/l/email-protection). In case we need to use your details for an unrelated new purpose we will let you know and explain the legal grounds for processing.
 
 We may process your personal data without your knowledge or consent where this is required or permitted by law.
 
@@ -113,7 +113,7 @@ Under data protection laws you have rights in relation to your personal data tha
 
 You can see more about these rights at: [https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/)
 
-If you wish to exercise any of the rights set out above, please email us at [support@inoreader.com](mailto:support@inoreader.com).
+If you wish to exercise any of the rights set out above, please email us at [\[email protected\]](https://www.inoreader.com/cdn-cgi/l/email-protection).
 
 You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive or refuse to comply with your request in these circumstances.
 
@@ -141,7 +141,7 @@ Under the Privacy and Electronic Communications Regulations, we may send you mar
 
 Before we share your personal data with any third party for their own marketing purposes we will get your express consent.
 
-You can ask us or third parties to stop sending you marketing messages at any time by logging into the website and checking or unchecking relevant boxes to adjust your marketing preferences OR by following the opt-out links on any marketing message sent to you or OR by emailing us at [support@inoreader.com](mailto:support@inoreader.com) at any time.
+You can ask us or third parties to stop sending you marketing messages at any time by logging into the website and checking or unchecking relevant boxes to adjust your marketing preferences OR by following the opt-out links on any marketing message sent to you or OR by emailing us at [\[email protected\]](https://www.inoreader.com/cdn-cgi/l/email-protection) at any time.
 
 If you opt out of receiving marketing communications this opt-out does not apply to personal data provided as a result of other transactions, such as purchases, warranty registrations etc.
 
@@ -197,7 +197,7 @@ We reserve the right to modify this Privacy Policy at any time. You should revie
 
 ### Questions about our privacy practices or this privacy policy
 
-If you have any questions about our Privacy Practices or this Policy, please [contact us](mailto:support@inoreader.com).
+If you have any questions about our Privacy Practices or this Policy, please [\[email protected\]](https://www.inoreader.com/cdn-cgi/l/email-protection).
 
 ##### With Inoreader, content comes to you the minute it's available. Follow websites, social media feeds, podcasts, blogs, and newsletters. Enjoy what’s important to you, all in one place.
 
