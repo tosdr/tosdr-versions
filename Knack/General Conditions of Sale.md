@@ -56,6 +56,10 @@ Try Knack free for 14 days. No credit card required. Never Pay per User.
 
 Choose Plan Types
 
+$49
+
+$19\*
+
 For individual users and small teams
 
 **Unlimited Users**
@@ -70,6 +74,12 @@ No Record Limits Per App
 
 Support Options: AI, Knowledge Base, Forum, Email
 
+\*Valid for the first 3 months and new customers only.
+
+$99
+
+$49\*
+
 For businesses building more complex apps
 
 **Unlimited Users**
@@ -83,6 +93,8 @@ No Record Limits Per App
 5k API Calls/Day
 
 All Support Options in Starter with a 48-hour response time
+
+\*Valid for the first 3 months and new customers only.
 
 For companies looking to transform their business ops.
 
@@ -134,6 +146,10 @@ No Record Limits Per App
 
 All Support Options in Pro with a 24-Hour Response Time
 
+$99
+
+$49\*
+
 For businesses building more complex apps
 
 **Unlimited Users**
@@ -148,6 +164,12 @@ No Record Limits Per App
 
 All Support Options in Starter with a 48-hour response time
 
+\*Valid for the first 3 months and new customers only.
+
+$49
+
+$19\*
+
 For individual users and small teams
 
 **Unlimited Users**
@@ -161,6 +183,8 @@ No Record Limits Per App
 1k API Calls/Day
 
 Support Options: AI, Knowledge Base, Forum, Email
+
+\*Valid for the first 3 months and new customers only.
 
 For companies looking to transform their business ops.
 
