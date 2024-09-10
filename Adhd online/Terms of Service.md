@@ -2,8 +2,6 @@
 
 **[Important Notice to Our Valued Patients](https://adhdonline.com/articles/important-notice-to-our-valued-patients/)** | **[Considering Switching to ADHD Online?](https://adhdonline.com/articles/considering-us-instead-of-your-current-provider/)**
 
-[Labor Day Hours](#labor-day)
-
 [![ADHD Online from Mentavi Health](https://adhdonline.com/wp-content/uploads/2022/09/ADHD-Online-Full-Color-Logo-November-2023.png)](https://adhdonline.com/)
 
 * [Diagnosis](#)
@@ -34,7 +32,6 @@
     * [Webinars](https://adhdonline.com/webinars/)
     * [ADHD in the News](https://adhdonline.com/adhd-news/)
     * [Press Releases](https://adhdonline.com/press-releases/)
-    * [ADHD Awareness Month](https://adhdonline.com/adhd-awareness-month/)
     * [FAQs](https://adhddiagnosis.zendesk.com/hc/en-us)
 * [Patients](#)
     * [Patient Login](https://patients.adhdonline.com/login)
@@ -71,7 +68,6 @@
     * [Webinars](https://adhdonline.com/webinars/)
     * [ADHD in the News](https://adhdonline.com/adhd-news/)
     * [Press Releases](https://adhdonline.com/press-releases/)
-    * [ADHD Awareness Month](https://adhdonline.com/adhd-awareness-month/)
     * [FAQs](https://adhddiagnosis.zendesk.com/hc/en-us)
 * [Patients](#)
     * [Patient Login](https://patients.adhdonline.com/login)
@@ -87,7 +83,7 @@ Terms & Conditions
 
 **Mentavi, Inc.** 
 
-**TERMS AND CONDITIONS**
+#### **TERMS AND CONDITIONS**
 
 I HEREBY CONSENT to the following terms and conditions related to the services that may be provided to me, or the patient for whom I represent and warrant I am the legal guardian.
 
@@ -95,13 +91,15 @@ I HEREBY CONSENT to the following terms and conditions related to the services t
 
 These Terms and Conditions govern your access to the Services and the websites located at [www.adhonline.com](http://www.adhonline.com/) and [www.mentavi.com](http://www.mentavi.com/) and any other U.S. websites on which we post these Terms and Conditions and any affiliated mobile applications on which we post these Terms and Conditions (collectively, the “Platform”). The platform is owned and operated by Mentavi, Inc. and/or its subsidiaries (“Mentavi”).
 
-I understand the services include the completion of an online assessment for ADHD (“Assessment”) and other mental health disorders, which will be reviewed and interpreted by a doctorate-level psychologist, licensed physician, or licensed advanced practice provider (“Provider”) authorized to practice in the state where I am located; plus additional services including but not limited to psychological counseling, medical management, and coaching (“Services”).  All Services (depending on your location at the time you receive the Services) are provided by ADO Medical, P.C., ADO Medical of Kansas, P.A. , ADO Medical of California, P.C., ADO Medical of New Jersey, P.C. or ADO Medical of Texas, P.A. (“Medical Groups”) and their contracted or employed providers (“Providers”). Mentavi does not own or have any ownership interest in any of the Medical Groups and the Medical Groups do not own or have any ownership interest in Mentavi.
+I understand the services may include the completion of an online assessment for ADHD and other mental health disorders (“Assessment”), which will be reviewed and interpreted by a doctorate-level psychologist, licensed physician, or licensed advanced practice provider (“Provider”) authorized to practice in the state where I am located or completion of an online mental wellness snapshot which is evaluated and scored through the use of proprietary scoring systems and diagnostic and treatment protocols (“Snapshot”)l; plus additional services including but not limited to psychological counseling, medical management, and coaching (“Services”).  Some Services (depending on your location at the time you receive the Services and the Service purchased) are provided by ADO Medical, P.C., ADO Medical of Kansas, P.A. , ADO Medical of California, P.C., ADO Medical of New Jersey, P.C. or ADO Medical of Texas, P.A. (“Medical Groups”) and their contracted or employed providers (“Providers”). Mentavi does not own or have any ownership interest in any of the Medical Groups and the Medical Groups do not own or have any ownership interest in Mentavi.
 
-I understand that for an Assessment, the Medical Groups use the Platform to facilitate the collection of my or my child’s (or other individuals for whom I am a legal guardian)(heretofore referred to as “dependent”) medical history through its online platform. The Platform will then match the Assessment with a Provider.  A portion of the assessment fee will be paid to Mentavi Health on behalf of the Medical Groups and the Providers for various administrative services including billing, record management and other non-clinical support services. In consenting to, and agreeing to pay for these services, I understand, knowingly, and willingly accept the following terms and conditions.
+I understand that for a Snapshot, neither I nor my dependent is receiving medical services from the Medical Group or Mentavi. I understand that for the Snapshot, Mentavi uses the Platform to facilitate the collection of   medical history and medical information through its online platform. The Platform will then use proprietary scoring systems and diagnostic and treatment protocols to evaluate my responses. I understand that no health care provider reviews the Snapshot responses or results and that no health care provider and patient relationship is created between myself and Mentavi or the Medical Group. In consenting to, and agreeing to pay for these services, I understand, knowingly, and willingly accept the following terms and conditions.
+
+I understand that for an Assessment, the Medical Groups use the Platform to facilitate the collection of my or my child’s (or other individuals for whom I am a legal guardian)(heretofore referred to as “dependent”) medical history and medical information through its online platform. The Platform will then match the Assessment with a Provider.  A portion of the assessment fee will be paid to Mentavi Health on behalf of the Medical Groups and the Providers for various administrative services including billing, record management and other non-clinical support services. In consenting to, and agreeing to pay for these Services, I understand, knowingly, and willingly accept the following terms and conditions.
 
 **Legal Medical Record**
 
-I understand I or my dependent is receiving online services from the Medical Group, and a legal medical record of the event will be created. I understand the services are strictly confidential and protected by applicable privacy laws. I confirm that the name and health information I provide is true to the best of my knowledge. If completing an Assessment on behalf of a dependent, I confirm that I have the legal right to consent to a medical evaluation for that person. I attest that I or my dependent are present in the state I select for the Assessment. I understand I can request a copy of my or my dependent’s records by submitting a signed records release form found on the ADO website. I may request that ADO correct health information that I feel is incorrect or incomplete. ADO may deny the request, but will provide an explanation within 60 days. I understand that I can review how ADO uses my medical information by reviewing the Notice of Privacy Practices and the ADO Privacy Policy. ADO will complete and provide me an evaluation and assessment for myself or my dependent based on the ADO questionnaire completed by me online. I understand that the Assessment will be the sole basis for the initial evaluation of ADHD unless my Provider requests additional information. I understand or my dependent may not have the opportunity for direct, indirect, or in-person contact with, or follow-up with, the Provider(s) completing, reviewing, and interpreting the Assessment. I or my dependent may not have the opportunity to discuss or challenge any diagnosis made or not made by the Provider. I understand that ADO does not guarantee that I or my dependent will be diagnosed with ADHD and that professional fees paid are exclusively for completion and review of an Assessment for ADHD and other mental health conditions. I understand that if a diagnosis is made, there will be additional fees related to medication management, counseling or other services. Most Assessments are reviewed and completed in 1-5 business days, but I understand that extenuating circumstances may delay the completion of my or my dependent’s Assessment and that a delay in processing the Assessment is not grounds for a refund.
+I understand I or my dependent is receiving online Services from the Medical Group, and, unless the only Service purchased is the Snapshot, a legal medical record of the event will be created. I understand the Services are strictly confidential and protected by applicable privacy laws. I confirm that the name and health information I provide is true to the best of my knowledge. If completing an Assessment or Snapshot on behalf of a dependent, I confirm that I have the legal right to consent on behalf of that person. I attest that I or my dependent are present in the state I select for the Assessment. I understand I can request a copy of my or my dependent’s records by submitting a signed records release form found on the ADO website. I may request that ADO correct health information that I feel is incorrect or incomplete. ADO may deny the request, but will provide an explanation within 60 days. I understand that I can review how ADO uses my medical information by reviewing the Notice of Privacy Practices and the ADO Privacy Policy. ADO will complete and provide me an evaluation and assessment for myself or my dependent based on the ADO questionnaire completed by me online. I understand that the Assessment will be the sole basis for the initial evaluation of ADHD unless my Provider requests additional information. I understand or my dependent may not have the opportunity for direct, indirect, or in-person contact with, or follow-up with, the Provider(s) completing, reviewing, and interpreting the Assessment. I or my dependent may not have the opportunity to discuss or challenge any diagnosis made or not made by the Provider. I understand that ADO does not guarantee that I or my dependent will be diagnosed with ADHD and that professional fees paid are exclusively for completion and review of an Assessment for ADHD and other mental health conditions. I understand that if a diagnosis is made, there will be additional fees related to medication management, counseling or other services. Most Assessments are reviewed and completed in 1-5 business days, but I understand that extenuating circumstances may delay the completion of my or my dependent’s Assessment and that a delay in processing the Assessment is not grounds for a refund.
 
 **Communication**
 
@@ -163,6 +161,28 @@ This Agreement shall be construed broadly to provide a release and waiver to the
 
 I CERTIFY THAT I HAVE READ THIS DOCUMENT AND I FULLY UNDERSTAND ITS CONTENT. I AM AWARE THAT THIS IS A RELEASE OF LIABILITY AND A CONTRACT AND SUBMITTING PAYMENT CONSTITUTES SIGNING THE AGREEMENT OF MY OWN FREE WILL.
 
+**Patient No-Show Policy and Charge Notice** 
+
+We ask patients to reschedule appointments at least 24 hours in advance if unable to attend.
+
+A $50 no-show fee will be charged if a patient arrives more than 10 minutes late for an initial appointment or more than 7 minutes late for a follow-up.
+
+However, this fee is waived if the patient is on time but the provider is not present.
+
+**Refund Policy**
+
+All refund requests must be reviewed and approved by the ADHD Online team. Discharged patients are not eligible for a refund.‍
+
+Once payment has been submitted and access to the assessment has been granted, even if you change your mind and choose not to finish the assessment, all purchases made through [adhdonline.com](https://adhdonline.com/) are final and non-refundable except as prohibited by applicable law. You will not receive a refund if you or your dependent’s assessment do not receive the diagnosis you were expecting.
+
+This policy applies regardless of whether an assessment, medical treatment or therapy services are utilized. You may stop care with us at any time, return, and use the original assessment. Assessments are available in all 50 states. Medical Treatment is available in these states, and therapy is available in these states where we offer these services. Assessments can be used with one of our providers if you or your dependent lives in a state where we offer treatment or the assessment can be taken to your provider. Assessments are accepted by most clinicians in all 50 states. It is the patient’s responsibility to confirm the availability of preferred treatment in their state prior to purchasing the assessment.
+
+In a payment dispute, the patient agrees to submit a ticket before taking any further action or requesting additional services.
+
+[adhdonline.com](https://adhdonline.com/) reserves the right to issue refunds or credits at our sole discretion. If a refund or credit is issued in one instance, we are under no obligation to issue the same refund or credit in the future. The ADHD Online team will review whether a refund request will be considered. 
+
+By using our services, you agree to the terms of this refund policy. 
+
 ### Contact us
 
 [Submit a request](https://adhddiagnosis.zendesk.com/hc/en-us/requests/new)  
@@ -173,22 +193,22 @@ Monday – Friday
 ### Company
 
 * [About us](https://mentavi.com/about-us/)
-* [Careers](https://mentavi.com/careers/)
+* [Careers](https://adhdonline.bamboohr.com/careers)
 * [Partners](https://adhdonline.com/partnerships/)
 * [Powered by Mentavi](http://mentavi.com/)
 
 * [About us](https://mentavi.com/about-us/)
-* [Careers](https://mentavi.com/careers/)
+* [Careers](https://adhdonline.bamboohr.com/careers)
 * [Partners](https://adhdonline.com/partnerships/)
 * [Powered by Mentavi](http://mentavi.com/)
 
 * [About us](https://mentavi.com/about-us/)
-* [Careers](https://mentavi.com/careers/)
+* [Careers](https://adhdonline.bamboohr.com/careers)
 * [Partners](https://adhdonline.com/partnerships/)
 * [Powered by Mentavi](http://mentavi.com/)
 
 * [About us](https://mentavi.com/about-us/)
-* [Careers](https://mentavi.com/careers/)
+* [Careers](https://adhdonline.bamboohr.com/careers)
 * [Partners](https://adhdonline.com/partnerships/)
 * [Powered by Mentavi](http://mentavi.com/)
 
