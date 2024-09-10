@@ -84,7 +84,7 @@ We collect information about visitors who comment on Sites that use our Akismet 
 
 10\. CONTACT INFORMATION
 
-If you have any questions about this Policy or our practices related to this website, please contact us at [\[email protected\]](https://www.dailywritingtips.com/cdn-cgi/l/email-protection).
+If you have any questions about this Policy or our practices related to this website, please contact us at info@dailywritingtips.com.
 
 #### Advertising.
 
@@ -117,7 +117,9 @@ Categories
 * [Word of the Day](https://www.dailywritingtips.com/category/word-of-the-day/)
 * [Writing Basics](https://www.dailywritingtips.com/category/writing-basics/)
 * [Writing Competitions](https://www.dailywritingtips.com/category/competitions/)
+* [Writing Essays](https://www.dailywritingtips.com/category/writing-essays/)
 * [Writing Quizzes](https://www.dailywritingtips.com/category/writing-quizzes/)
+* [Writing Tools](https://www.dailywritingtips.com/category/writing-tools/)
 
 * [Home](https://www.dailywritingtips.com/)
 * [Exercises](https://www.dailywritingtips.com/exercises/)
