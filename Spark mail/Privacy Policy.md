@@ -29,6 +29,7 @@
     *  [![](https://cdn-rdstaticassets.readdle.com/assets/spark/spark3/common/blank.gif?1631697354) Italiano](https://sparkmailapp.com/it/legal/privacy-app "Italiano")
     *  [![](https://cdn-rdstaticassets.readdle.com/assets/spark/spark3/common/blank.gif?1631697354) 日本語](https://sparkmailapp.com/ja/legal/privacy-app "日本語")
     *  [![](https://cdn-rdstaticassets.readdle.com/assets/spark/spark3/common/blank.gif?1631697354) Português](https://sparkmailapp.com/pt/legal/privacy-app "Português")
+    *  [![](https://cdn-rdstaticassets.readdle.com/assets/spark/spark3/common/blank.gif?1631697354) Українська](https://sparkmailapp.com/uk/legal/privacy-app "Українська")
     *  [![](https://cdn-rdstaticassets.readdle.com/assets/spark/spark3/common/blank.gif?1631697354) 简体中文](https://sparkmailapp.com/zh/legal/privacy-app "简体中文")
 
 [](https://readdle.com/)[Free download](https://sparkmailapp.com/download)
@@ -42,7 +43,7 @@ Legal
 Privacy Policy for App
 ======================
 
-**Last updated**: May 21, 2024
+**Last updated**: August 28, 2024
 
 We are Spark Mail Limited ("**we**"), and we provide you services under the [Terms of Service](https://sparkmailapp.com/legal/terms). In the Spark Application ("**App**" or "**Spark**") you can manage your email accounts, chats and conversations from one place ("**Email Accounts**").
 
@@ -245,11 +246,11 @@ We either create new personal data items or receive them from you. For example,
 
 ### Data Processed
 
-We process some personal data for purely business purposes: to enable you to use our services, to notify you of our new products and features, to invite you to participate in our special programs and offers, and to use parts of your data (usually pseudonymized) to monitor the trends and develop our product and business. We collect certain information about you when you provide it directly to us or use our App and Service. We only collect the information necessary to provide you with our services.
+We process some personal data for purely business purposes: to enable you to use our services, to notify you of our new products and features, to invite you to participate in our special programs and offers and beta testing programs, and to use parts of your data (usually pseudonymized) to monitor the trends and develop our product and business. We collect certain information about you when you provide it directly to us or use our App and Service. We only collect the information necessary to provide you with our services.
 
 Unless we specify a particular legal basis, we process your personal data based on the contract (our [Terms of Service](https://sparkmailapp.com/legal/terms)) (Article 6(1)(b) of the GDPR: performance of contract).
 
-**Email address**: As an email client, the core functionality of our Product is based on providing you with the ability to manage your email. For this reason, Spark services access your email account when you start using the App. Your email address is a unique identifier of you as a User within our system and allows us to secure your data. Your email address will also be used as a primary means of communication for us on anything related to changes to the App and Service, such as Privacy Policy, Terms of Service, or core functionality of our App or Service. We may also use your email to sync your data with your third-party accounts (if you request us to do so in the App), or occasionally contact you for marketing purposes (it will be in our legitimate interests to do so). You will always have a chance to opt-out of such sync or any marketing communications for similar products and/or services anytime. Please note that your email is safe with us, and we do not use it for profiling or targeting.
+**Email address**: As an email client, the core functionality of our Product is based on providing you with the ability to manage your email. For this reason, Spark services access your email account when you start using the App. Your email address is a unique identifier of you as a User within our system and allows us to secure your data. Your email address will also be used as a primary means of communication for us on anything related to changes to the App and Service, such as Privacy Policy, Terms of Service, Beta Tester Agreement or core functionality of our App or Service. We may also use your email to sync your data with your third-party accounts (if you request us to do so in the App), or occasionally contact you for marketing purposes (it will be in our legitimate interests to do so). You will always have a chance to opt-out of such sync or any marketing communications for similar products and/or services anytime. Please note that your email is safe with us, and we do not use it for profiling or targeting.
 
 **OAuth login or mail server credentials**: Spark requires your credentials to log into your mail system in order to receive, search, compose and send email messages and other communication. Without such access, our Product will not be able to provide you with the necessary communication experience. In order for you to take full advantage of additional App and Service features, such as “send later”, “sync between devices” and where allowed by Apple – “push notifications” we use Spark Services. Without using these services, none of the features mentioned above will function.
 
@@ -304,6 +305,25 @@ The “Request a feature” form is available in all Spark app versions except S
 **Data from Microsoft Corporation**: When you download and use Spark Mail from the Microsoft Store, we may occasionally receive data, including telemetry or crash data, from Microsoft Corporation. This data is used only to improve the App and to test or troubleshoot quality issues, such as bugs, in accordance with the Microsoft Store App Developer Agreement.
 
 **Your Feedback**. We may publish your feedback, reviews and comments about your experience with our App ("**Feedback**") on our website, in the App or otherwise. This includes the Feedback you provide to us directly or via any platform, including but not limited to online distribution platforms, marketplaces, and social media. We process personal data in your Feedback, which may include your first and last name, username, the text of the Feedback and/or any other information contained in or related to the Feedback. We do not process personal data of children under the age of 16 and/or sensitive types of data in the Feedback. Under the GDPR, we rely on our legitimate interest as the legal basis for processing personal data in the Feedback if your Feedback was collected from the third-party platform (such as online distribution platforms, marketplaces, and social media), and we will ask for your consent to publish the Feedback that you provided to us directly. We use your Feedback to demonstrate the capabilities and features of the App, to share real user experiences with the App and to attract potential customers. For more information about your Feedback, please refer to the "Your Feedback" section of our [Terms of Service](https://sparkmailapp.com/legal/terms).
+
+To enhance the App experience, we collect analytics on the feedback to understand the most frequent inquiries and identify areas for improvement within the App. This analysis is conducted internally within Spark using secure, in-house technologies, including pre-trained machine learning models. Rest assured, we do not use your personal data to test or train these models.
+
+**Data processed during beta testing**. If you choose to participate in our beta testing program as outlined in our Beta Tester Agreement, we will process the following data to provide you with the Service and manage your access to the beta testing:
+
+* **Personal Information**: Email address, OAuth login credentials, or mail server credentials.
+* **Team Identity**: The identity of the team you join.
+* **App Usage Data**: Statistical information related to your usage of the App, including email content while using Spark Services, data from Microsoft Corporation.
+* **Device Information**: IP address, device settings, device information, APNS device token, and an app token we assign to you.
+* **Interaction Data**: Pixel data, link click information, recently accessed email messages, collaboration threads, and shared inboxes.
+* **Feedback and Support**: If you submit customer support requests, feature requests, feedback, or log files during beta testing, we may process the associated data and files provided with such communications.
+
+For specific features such as Spark +AI, My Writing Style, and Smart Notifications, we will process the corresponding data mentioned above.
+
+Additionally, if you participate in the beta testing of the iOS version, we may receive data from Apple, including:
+
+* **Device Information**: Device model, device ID, iOS, iPadOS, or macOS version, time zone, country and/or city, language, connection type, carrier, CPU type, free disk space, battery level, screen resolution, paired Apple Watch model (if applicable), and watchOS version.
+* **App Interaction Data**: Information about your interaction with the App, such as invitation type, invitation status, App name and version, App uptime, number of installs, sessions, crashes, and symbolicated crash logs.
+* **Feedback**: Screenshots and comments you share when providing feedback during beta testing. The processing of this data is based on our legitimate interest. If you choose to provide us with your name, we will process it based on your consent.
 
 **Other information you decide to provide us with**: Based on your decision and consent, we may also process any other personal data provided by you (for example, the information in your email signature or the first couple of lines from the email to show you the push notification) to make your experience of using some of our features more pleasant and tailored to your purposes and needs.
 
@@ -401,10 +421,11 @@ We store your personal data either until you delete the Account or after a certa
 
 | Type of information | Term of storage |
 | --- | --- |
-| Email address, email content, mail server credentials, APNS device token, appToken assigned by us, device info | During the services provision period services + archive time  <br>**If you delete Spark Account**: 3 months after deletion of your Spark Account.  <br>  <br>**If you request the data erasure**: we will erase your data within 30 days of your request. In case the request is complex, or we have received a number of requests from the same individual, we may extend the time to respond to it by a further 2 months. After we delete your data, it will be stored for 1 week in our backups. |
+| Email address, email content, mail server credentials, APNS device token, appToken assigned by us, device info | During the services provision period or the period of beta testing as applicable + archive time  <br>**If you delete Spark Account**: 3 months after deletion of your Spark Account.  <br>  <br>**If you request the data erasure**: we will erase your data within 30 days of your request. In case the request is complex, or we have received a number of requests from the same individual, we may extend the time to respond to it by a further 2 months. After we delete your data, it will be stored for 1 week in our backups. |
 | Recent messages from your inbox | Deleted after 4 hours |
 | Emails pending in the Send Later feature, IP addresses | Deleted once the message is sent |
 | Emails of Shared Inboxes | Stored during the provision of the services and deleted once the Shared Inboxes are deleted. |
+| Device and interaction information received when beta-testing the iOS version of the App | During your participation in the beta testing and for one (1) year after its completion of the testing or termination of your Beta Tester Agreement by you or Spark, whichever occurs earlier. |
 
 After the above respective periods expire, we delete your personal data. It may be stored for statistical and analytical purposes in anonymized form.
 
@@ -457,7 +478,7 @@ We process these personal data only to enable you to use Spark Mail or its parti
 * **Calendly** (Calendly LLC, USA): We use them to schedule calendar appointments with our customers. For more details, please refer to the Subcontractor’s [Privacy Policy](https://calendly.com/privacy).
 * **Helpjuice** (Helpjuice, Inc, USA) is a knowledge base software to help us provide you with the necessary customer support. For more details, please refer to the Subcontractor’s [Privacy Policy](https://help.helpjuice.com/en_US/privacy-policy).
 * **Google** (Google LLC, USA). We use your data for the synchronization of accounts. For more details, please refer to the Subcontractor’s [Privacy Policy](https://policies.google.com/privacy).
-* **Apple Inc** (Apple Inc, USA). We receive the technical data about the iOS systems and general statistics. For more details, please refer to the Subcontractor’s [Privacy Policy](https://www.apple.com/legal/privacy/en-ww/).
+* **Apple Inc** (Apple Inc, USA). We receive the personal data, technical data about the iOS systems and general statistics. For more details, please refer to the Subcontractor’s [Privacy Policy](https://www.apple.com/legal/privacy/en-ww/).
 * **RevenueCat** (RevenueCat, Inc., USA). We use them to monitor personal billing. For more details, please refer to the Subcontractor’s [Privacy Policy](https://www.revenuecat.com/privacy/).
 * **Amplitude** (Amplitude, Inc., USA) is an analytics tool we use to understand how Users experience our App. For more details, please refer to the Subcontractor’s [Privacy Policy](https://amplitude.com/privacy).
 * **AppCenter** (Microsoft-provided tool, USA): we use them to monitor crash logs. For more details, please refer to the Subcontractor’s [Privacy Policy](https://docs.microsoft.com/en-us/appcenter/gdpr/faq).
