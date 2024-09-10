@@ -395,10 +395,6 @@ IF FOR ANY REASON, YOU ARE UNABLE OR UNWILLING TO AGREE TO ALL OUR TERMS OF USE,
 * [Moz](https://www.moz.com/)
 * [IPVanish](https://www.ipvanish.com/)
 
-[![GROUP BLACK logo](/s/images/ookla/group-black/groupblack-white_on_black-1x.png)](https://www.ziffdavis.com/general/group-black-and-ziff-davis-partner-to-amplify-and-scale-black-voices-in-media)
-
-Ookla supports [Group Black](https://www.ziffdavis.com/general/group-black-and-ziff-davis-partner-to-amplify-and-scale-black-voices-in-media) and its mission to increase greater diversity in media ownership. Group Black's collective includes [BlackWomenTalkTech](https://www.blackwomentalktech.com/our-perspective), [Empower Onyx](https://www.empoweronyx.com/), and [Cxmmunity](https://www.cxmmunity.co/).
-
 © 2006-2024 Ookla, LLC., a Ziff Davis company. All Rights Reserved. Ookla®, Speedtest®, and Speedtest Intelligence® are among the federally registered trademarks of Ookla, LLC and may only be used with explicit written permission.
 
 * [Accessibility](https://www.speedtest.net/about/accessibility)
