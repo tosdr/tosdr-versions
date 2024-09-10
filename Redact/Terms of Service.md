@@ -1,3 +1,9 @@
+![mobile preview](/images/svgs/exit_banner.svg)[![mobile preview](/images/svgs/clock.svg)
+
+Expires in \-94:-18:-15
+
+25% OFF SALE with code 'LABOR25'](https://redact.dev/login)
+
 [](https://redact.dev/)
 
 Services 
@@ -8,7 +14,7 @@ Services 
 * [Pricing](https://redact.dev/pricing)
 * [Business](https://redact.dev/business)
 * [Testimonials](https://redact.dev/testimonials)
-* [Contact](https://redact.dev/contact)
+* [How it works](https://redact.dev/how-it-works)
 * [Log in](https://redact.dev/login)
 
 [Download](https://redact.dev/download)
@@ -130,13 +136,7 @@ Redact Holdings, Inc. is an independent company. We are not affiliated, associat
 Any questions about the Terms of Service should be emailed to us at [\[email protected\]](https://redact.dev/cdn-cgi/l/email-protection)  
   
 **LEGAL SERVICE**  
-Legal service should be sent to the following address. **Please make sure to also Email us so we can promptly respond.**  
-Email: [\[email protected\]](https://redact.dev/cdn-cgi/l/email-protection)  
-  
-Address:  
-Redact Holdings, Inc.  
-3921 Alton Road, Suite 159  
-Miami Beach, FL 33140  
+To send us legal requests or service please view the instructions at[https://redact.dev/legal](https://redact.dev/legal)  
   
 
 Got a specific question?
@@ -146,8 +146,8 @@ Join our Discord server and we will directly answer your questions in real time!
 
 [Join Redact Discord](https://redact.dev/discord)
 
-[Home](https://redact.dev/)[Download](https://redact.dev/download)[Services](https://redact.dev/services)[Features](https://redact.dev/features)[Pricing](https://redact.dev/pricing)[Business](https://redact.dev/business)[Testimonials](https://redact.dev/testimonials)[Contact](https://redact.dev/contact)[Log in](https://redact.dev/login)[Press Kit](https://redact.dev/press-kit)[Terms & Conditions](https://redact.dev/terms)[Privacy](https://redact.dev/privacy)
+[Home](https://redact.dev/)[Download](https://redact.dev/download)[Services](https://redact.dev/services)[Features](https://redact.dev/features)[Pricing](https://redact.dev/pricing)[Business](https://redact.dev/business)[Testimonials](https://redact.dev/testimonials)[How it works](https://redact.dev/how-it-works)[Log in](https://redact.dev/login)[Affiliates](https://redact.dev/affiliates)[Press Kit](https://redact.dev/press-kit)[Terms & Conditions](https://redact.dev/terms)[Privacy](https://redact.dev/privacy)[Contact](https://redact.dev/contact)
 
-[Affiliates](https://redact.dev/affiliates)[Press Kit](https://redact.dev/press-kit)[Blog](https://redact.dev/blog)[Privacy Policy](https://redact.dev/privacy)[Terms & Conditions](https://redact.dev/terms)
+[Affiliates](https://redact.dev/affiliates)[Press Kit](https://redact.dev/press-kit)[Blog](https://redact.dev/blog)[Privacy Policy](https://redact.dev/privacy)[Terms & Conditions](https://redact.dev/terms)[Contact](https://redact.dev/contact)
 
 © 2024 Redact - All rights reserved
