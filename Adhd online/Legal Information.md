@@ -2,8 +2,6 @@
 
 **[Important Notice to Our Valued Patients](https://adhdonline.com/articles/important-notice-to-our-valued-patients/)** | **[Considering Switching to ADHD Online?](https://adhdonline.com/articles/considering-us-instead-of-your-current-provider/)**
 
-[Labor Day Hours](#labor-day)
-
 [![ADHD Online from Mentavi Health](https://adhdonline.com/wp-content/uploads/2022/09/ADHD-Online-Full-Color-Logo-November-2023.png)](https://adhdonline.com/)
 
 * [Diagnosis](#)
@@ -34,7 +32,6 @@
     * [Webinars](https://adhdonline.com/webinars/)
     * [ADHD in the News](https://adhdonline.com/adhd-news/)
     * [Press Releases](https://adhdonline.com/press-releases/)
-    * [ADHD Awareness Month](https://adhdonline.com/adhd-awareness-month/)
     * [FAQs](https://adhddiagnosis.zendesk.com/hc/en-us)
 * [Patients](#)
     * [Patient Login](https://patients.adhdonline.com/login)
@@ -71,7 +68,6 @@
     * [Webinars](https://adhdonline.com/webinars/)
     * [ADHD in the News](https://adhdonline.com/adhd-news/)
     * [Press Releases](https://adhdonline.com/press-releases/)
-    * [ADHD Awareness Month](https://adhdonline.com/adhd-awareness-month/)
     * [FAQs](https://adhddiagnosis.zendesk.com/hc/en-us)
 * [Patients](#)
     * [Patient Login](https://patients.adhdonline.com/login)
@@ -273,22 +269,22 @@ Monday – Friday
 ### Company
 
 * [About us](https://mentavi.com/about-us/)
-* [Careers](https://mentavi.com/careers/)
+* [Careers](https://adhdonline.bamboohr.com/careers)
 * [Partners](https://adhdonline.com/partnerships/)
 * [Powered by Mentavi](http://mentavi.com/)
 
 * [About us](https://mentavi.com/about-us/)
-* [Careers](https://mentavi.com/careers/)
+* [Careers](https://adhdonline.bamboohr.com/careers)
 * [Partners](https://adhdonline.com/partnerships/)
 * [Powered by Mentavi](http://mentavi.com/)
 
 * [About us](https://mentavi.com/about-us/)
-* [Careers](https://mentavi.com/careers/)
+* [Careers](https://adhdonline.bamboohr.com/careers)
 * [Partners](https://adhdonline.com/partnerships/)
 * [Powered by Mentavi](http://mentavi.com/)
 
 * [About us](https://mentavi.com/about-us/)
-* [Careers](https://mentavi.com/careers/)
+* [Careers](https://adhdonline.bamboohr.com/careers)
 * [Partners](https://adhdonline.com/partnerships/)
 * [Powered by Mentavi](http://mentavi.com/)
 
