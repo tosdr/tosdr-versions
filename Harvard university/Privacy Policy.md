@@ -6,8 +6,7 @@ Search
 
 **Search Quick Links**
 
-1. [Find a Person](https://www.directory.harvard.edu/)
-2. [A to Z index](https://www.harvard.edu/a-to-z/)
+1. [A to Z index](https://www.harvard.edu/a-to-z/)
 
 Menu
 
@@ -42,7 +41,7 @@ Menu
         5. [**Harvard Faculty of Arts and Sciences**](https://www.fas.harvard.edu/)
         6. [**Harvard Kenneth C. Griffin Graduate School of Arts and Sciences**](https://gsas.harvard.edu/)
         7. [**Harvard Graduate School of Design**](https://www.gsd.harvard.edu/)
-        8. [**Harvard Graduate School of Education**](https://www.gse.harvard.edu/)
+        8. [**Harvard Graduate School of Education**](https://gse.harvard.edu/)
         9. [**Harvard John A. Paulson School of Engineering and Applied Sciences**](https://www.seas.harvard.edu/)
         10. [**Harvard Kennedy School**](https://www.hks.harvard.edu/)
         11. [**Harvard Law School**](https://hls.harvard.edu/)
@@ -75,7 +74,7 @@ Menu
         9. [**Fine Arts Library**](https://library.harvard.edu/libraries/fine-arts)
         10. [**Frances Loeb Library**](https://www.gsd.harvard.edu/frances-loeb-library/)
         11. [**Fung Library**](https://library.harvard.edu/libraries/fung)
-        12. [**Gutman Library**](https://www.gse.harvard.edu/community/library)
+        12. [**Gutman Library**](https://gse.harvard.edu/community/library)
         13. [**Harvard Divinity School Library**](https://library.hds.harvard.edu/)
         14. [**Harvard Film Archive**](https://harvardfilmarchive.org/)
         15. [**Harvard Law School Library**](https://hls.harvard.edu/library/)
@@ -124,35 +123,35 @@ Menu
     
     **Explore and understand the world with Harvard** In Focus is a curated examination of Harvard's research, scholarly work, and community. Recent topics include:
     
-    1. The Olympics
+    1. Housing
         
         In Focus
         
-        **The Olympics** At the 2024 Paris Games, members of the Harvard community will add to the University’s Olympics history, which dates back to the first modern games in 1896. [Explore the games](https://www.harvard.edu/in-focus/the-olympics/)
+        **Housing** In the average lifetime, a person spends 65% of their time inside their home. Harvard scholars are studying how to improve and evolve this critical part of our lives. [Come on in](https://www.harvard.edu/in-focus/housing/)
         
         1. **What's inside?**
-            1. [**Explore all the Olympic coverage from Harvard Athletics**](https://gocrimson.com/feature/paris-2024)
-            2. [**Learn how we can apply Olympic values to everyday life**](https://www.sir.advancedleadership.harvard.edu/articles/reframing-dei-higher-ed-olympic-values-game-theory)
+            1. [**Home prices have far outpaced income**](https://www.jchs.harvard.edu/state-nations-housing-2024)
+            2. [**The difficulty of ending homelessness**](https://news.harvard.edu/gazette/story/2024/01/why-its-so-hard-to-end-homelessness-in-america/)
         
-    2. Book Recommendations
-        
-        In Focus
-        
-        **Book Recommendations** Get reading this summer with classic must-reads, titles from faculty authors, and favorites from across the Harvard community. [Find your next read](https://www.harvard.edu/in-focus/book-recommendations/)
-        
-        1. **What's inside**
-            1. [**Recommendations from Harvard Law School**](https://hls.harvard.edu/today/what-harvard-law-profs-are-reading-this-summer/)
-            2. [**Need a book for a young person?**](https://news.harvard.edu/gazette/story/2020/12/faculty-experts-and-expert-parents-recommend-gift-books-for-children/)
-        
-    3. The Senses
+    2. Welcome to Harvard
         
         In Focus
         
-        **The Senses** Our senses help us experience the world around us. Harvard researchers are working to understand, improve, and replicate these sensory organs. [Feed your sense of curiosity](https://www.harvard.edu/in-focus/the-senses/)
+        **Welcome to Harvard** Where world-class faculty, innovative research, and dynamic students come together to advance education and foster change in the world. [Start exploring](https://www.harvard.edu/in-focus/welcome-to-harvard/)
         
         1. **What's inside**
-            1. [**Read Harvard Medical School's exploration of our senses**](https://magazine.hms.harvard.edu/issues/senses)
-            2. [**Learn the science behind why we itch**](https://news.harvard.edu/gazette/story/2023/11/researchers-identify-whats-behind-that-urge-to-scratch/)
+            1. [**Harvard's history**](https://www.harvard.edu/about/history/)
+            2. [**Harvard's Schools**](https://www.harvard.edu/academics/schools/)
+        
+    3. The Brain
+        
+        In Focus
+        
+        **The Brain** Since founding the world’s first neurobiology department in 1966, Harvard has been a hub for researchers who aspire to understand how the brain works, and clinician-scientists who are driven to fix it when it doesn’t. [Wrap your brain around this research](https://www.harvard.edu/in-focus/the-brain/)
+        
+        1. **What's inside?**
+            1. [**Probiotics to treat multiple sclerosis**](https://news.harvard.edu/gazette/story/2023/08/engineered-probiotic-developed-to-treat-multiple-sclerosis/)
+            2. [**Did fermented foods fuel brain growth in our ancestors?**](https://news.harvard.edu/gazette/story/2024/02/did-fermented-foods-fuel-brain-growth/)
         
     4. [Explore the In Focus archives](https://www.harvard.edu/in-focus/)
     
@@ -212,9 +211,9 @@ Menu
         
         [Read more news](http://news.harvard.edu/)
         
-        1. [**The way forward for Democrats — and the country** Danielle Allen is more worried about identity politics and gaps in civic education than the power of delegates](https://news.harvard.edu/gazette/story/2024/07/the-way-forward-for-democrats-and-the-country/)
-        2. [**17 books to soak up this summer** Harvard Library staff recommendations cover romance, fantasy, sci-fi, mystery, memoir, music, politics, history](https://news.harvard.edu/gazette/story/2024/07/17-books-to-soak-up-this-summer/)
-        3. [**Beginning of end of HIV epidemic?** Scientists cautiously optimistic about trial results of new preventative treatment, prospects for new phase in battle with deadly virus](https://news.harvard.edu/gazette/story/2024/07/beginning-of-end-of-hiv-epidemic-aids-lenacapavir/)
+        1. [**Billions worldwide deficient in essential micronutrients** Inadequate levels carry risk of adverse pregnancy outcomes, blindness](https://news.harvard.edu/gazette/story/2024/08/billions-worldwide-deficient-in-essential-micronutrients/)
+        2. [**You want to be boss. You probably won’t be good at it.** Study pinpoints two measures that predict effective managers](https://news.harvard.edu/gazette/story/2024/08/you-want-to-be-boss-you-probably-wont-be-good-at-it/)
+        3. [**Weight-loss drug linked to fewer COVID deaths** Large-scale study finds Wegovy reduces risk of heart attack, stroke](https://news.harvard.edu/gazette/story/2024/08/weight-loss-drug-linked-to-fewer-covid-deaths/)
         
     2. [Sign up for the Daily Gazette](https://www.pages01.net/harvard/gazette?email=)
     
@@ -222,12 +221,11 @@ Menu
 **Navigation Quick Links**
 
 1. [A to Z index](https://www.harvard.edu/a-to-z/)
-2. [Find a Person](https://www.directory.harvard.edu/)
-3. [Events](https://news.harvard.edu/gazette/harvard-events/)
-4. [Media Relations](https://www.harvard.edu/media-relations)
-5. [Alumni](https://alumni.harvard.edu/)
-6. [Give Now](https://alumni.harvard.edu/giving/givenow)
-7. [Emergency](https://www.harvard.edu/emergency/)
+2. [Events](https://news.harvard.edu/gazette/harvard-events/)
+3. [Media Relations](https://www.harvard.edu/media-relations)
+4. [Alumni](https://alumni.harvard.edu/)
+5. [Give Now](https://alumni.harvard.edu/giving/givenow)
+6. [Emergency](https://www.harvard.edu/emergency/)
 
 [Harvard University](https://www.harvard.edu/)
 
