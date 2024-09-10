@@ -1,8 +1,9 @@
 [](https://www.idrive.com/)
 
-* [Sign up](https://www.idrive.com/idrive/signup)[](https://www.idrive.com/idrive/home)
+* [Sign in](https://www.idrive.com/idrive/login/loginForm)
+* [Sign up](https://www.idrive.com/idrive/signup)
 
-* [Online Backup - IDrive](https://www.idrive.com/)
+* [Online Backup - IDrive](https://www.idrive.com/index.html)
 * [Features](https://www.idrive.com/online-backup-features)
 * [Download](https://www.idrive.com/online-backup-download)
 * [Pricing](https://www.idrive.com/pricing)
@@ -25,7 +26,7 @@ Terms of Service
 Terms of Service
 ----------------
 
-Last Updated:  March 25, 2024
+Last Updated:  September 09, 2024
 
 ### Please carefully read the following Terms of Service before registering for and using the IDrive® Service.
 
@@ -67,24 +68,24 @@ We may send SMS/emails/push notifications to update you on any product reminders
 
 **
 
-In exchange for use of the Services, you authorize a recurring monthly or annual charge to your credit card. The recurring charge will be at the published standard plan that is chosen at the time of sign-up or to a customized quote provided for your specific use. You also agree that the enrollment for the next service period is automatic and paid in advance.
+In exchange for use of the Services, you authorize a recurring monthly or annual charge to your credit card/PayPal account. The recurring charge will be at the published standard plan that is chosen at the time of sign-up or to a customized quote provided for your specific use. You also agree that the enrollment for the next service period is automatic and paid in advance.
 
 **
 
 **We reserve the right to change our subscription plans or adjust pricing for our service or any components thereof in any manner and at any time as we may determine in our sole and absolute discretion. Except as otherwise expressly provided for in these Terms of Use, any price changes or changes to your subscription plan will take effect following notice to you.**
 
-Please note that we may automatically receive updated credit card information from our merchants from time to time in cases where your account is issued a new card number or your credit card expires. However, we still advise you update your card manually from your account screen when changes to your account information occur. We need a credit card on file while the account is active.
+Please note that we may automatically receive updated credit card information from our merchants from time to time in cases where your account is issued a new card number or your credit card expires. However, we still advise you update your card manually from your account screen when changes to your account information occur. We need a credit card/PayPal account on file while the account is active.
 
-If we are unable to execute any applicable charges due to credit card denial or for any other reason, you will be notified via email. In case of non-action by the user, the account may be cancelled. We may delay Account cancellation related to non-payment for the Services and provide a grace period of up to thirty (30) days from the due date to allow for the customer to arrange payment. If the account is cancelled for any reason, user data and its backups will be removed from our storage servers. If you have used the Local Backup feature, you will NOT be able to access data from your external drive as well.
+If we are unable to execute any applicable charges due to credit card/PayPal denial or for any other reason, you will be notified via email. In case of non-action by the user, the account may be canceled. We may delay Account cancellation related to non-payment for the Services and provide a grace period of up to thirty (30) days from the due date to allow for the customer to arrange payment. If the account is canceled for any reason, user data and its backups will be removed from our storage servers. If you have used the Local Backup feature, you will NOT be able to access data from your external drive as well.
 
 Taxes  
 You’re responsible for all applicable taxes, and we’ll charge tax when required to do so. IDrive® can rely on the name and address you provide to IDrive® as being the place of supply for sales tax, income tax, VAT, and GST purposes.
 
 Discrepancies  
-Your right to raise a billing discrepancy and any associated recovery is waived unless reported to us by calling our customer support line or emailing us at [support@idrive.com](mailto:support@idrive.com) within thirty (30) calendar days after such discrepancy is charged to your credit card.
+Your right to raise a billing discrepancy and any associated recovery is waived unless reported to us by calling our customer support line or emailing us at [support@idrive.com](mailto:support@idrive.com) within thirty (30) calendar days after such discrepancy is charged to your credit card/PayPal account.
 
 Cancellation & Refunds  
-You must cancel your Account before it renews each month or year in order to avoid a charge for the next month's or year's fees to your credit card. Please note on cancellation, refunds are issued if account is canceled within fifteen (15) days of its creation date. After 15 days, pro-rated refunds are issued on a case-by-case basis subject to eligibility.
+You must cancel your Account before it renews each month or year in order to avoid a charge for the next month's or year's fees to your credit card/PayPal account. Please note on cancellation, refunds are issued if account is canceled within fifteen (15) days of its creation date. After 15 days, pro-rated refunds are issued on a case-by-case basis subject to eligibility.
 
 We will not issue any pro-rated refunds for the remaining period of a month when an account with a monthly subscription plan ("current plan") is downgraded to a smaller plan ("new plan") (a plan that costs less per month than the current plan) during the middle of a month. However the rate applicable to the new plan will automatically be charged starting the first of the subsequent month.
 
@@ -119,7 +120,7 @@ IDrive® BMR secures data at rest, both local and on the cloud, with AES 256 CCM
 However, for legacy BMR users (BMR 6.0.0 and lower), there is no encryption at rest by default for BMR cloud accounts. This is to ensure faster and more efficient virtualization and recovery. Data is transferred from the local BMR device to the cloud, encrypted with 128-bit SSL. The servers on which the BMR cloud data exists have sufficient protection from intrusion and attacks. We can enable an optional file system encryption on request.
 
 For private key accounts:  
-Should you choose to use a user defined private key for encrypting your data, IDrive® personnel will not have access to this key and it will not be stored on the IDrive® servers. It is very important that you store your user defined private key in a safe place and maintain this key in printed form for reference. Any data backed up using the Services can only be retrieved using your key and if you forget or misplace this key then your data may not be retrievable. IDrive is NOT responsible for loss of data arising as a result of such cases.
+Should you choose to use a user defined private key for encrypting your data, IDrive® personnel will not have access to this key and it will not be stored on the IDrive® servers. It is very important that you store your user defined private key in a safe place and maintain this key in printed form for reference. Any data backed up using the Services can only be retrieved using your key and if you forget or misplace this key then your data may not be retrievable. IDrive® is NOT responsible for loss of data arising as a result of such cases.
 
 When signing in to your account via the desktop client, you will need to enter your private key, but it is only stored on the client and is never sent to the IDrive® servers. In order to verify that the information you enter is correct, a derivative of that key is generated and matched, allowing you to access your account. When you provide your private key while signing in to your account using the web application, the key is sent to our servers for the duration of that session only and the key always remains fully encrypted throughout transmission.
 
@@ -193,7 +194,7 @@ You, as the Account holder, are solely responsible for access to, content in, or
 
 The IDrive® Mini plan can be used to backup the photos and videos on the mobile device and also to backup computers.
 
-### 13\. Google Workspace and Microsoft Office 365 Backup
+### 13\. Google Workspace and Microsoft Office 365 Backup Terms of Service
 
 IDrive® Google Workspace and Microsoft Office 365 Backup application allows the Administrator of a Google Workspace and Microsoft Office 365 account to store their users data on the IDrive® cloud.
 
@@ -201,27 +202,53 @@ You must maintain authorization and access to the Domain account and Backed up S
 
 These Terms mentioned on this page constitute the entire and exclusive legal agreement between you and IDrive Inc.
 
-### 14\. Disclaimer of Warranties
+### 14\. IDrive® Cloud Drive Terms of Service
+
+IDrive® Cloud Drive is a personal cloud storage service designed to provide users with a convenient way to access their data from multiple devices. IDrive® Cloud Drive does not support collaborative editing and renaming the same file simultaneously from multiple devices.
+
+The Cloud Drive storage does not impact your backup storage. It matches your backup storage limits.
+
+### 15\. IDrive® Entire Machine Backup Terms of Service
+
+IDrive® Entire Machine Backup provides comprehensive data protection, securing all data on your computer with the ability to restore it in the event of a disaster. However, please note the following:
+
+_Recovery Limitations_: The restoration and booting of your computer from an entire machine backup may not be successful in all scenarios. Factors such as dissimilar hardware, boot file issues, RAID configurations, or other unforeseen circumstances may cause the restore process to fail. It is not guaranteed that a successful backup will restore the system to its original state under all conditions.
+
+_Alternative Recovery Options_: If a full system restore fails, users can still recover individual files and folders from their backups, ensuring that critical data remains accessible.
+
+Users are advised to regularly test their backups and ensure compatibility with their system's hardware to mitigate potential recovery issues.
+
+### 16\. IDrive® Disk Clone Terms of Service
+
+IDrive® Disk Clone Backup provides comprehensive data protection, securing all data on your computer with the ability to restore it in the event of a disaster. However, please note the following:
+
+_Recovery Limitations_: The restoration and booting of your computer from an image backup may not be successful in all scenarios. Factors such as dissimilar hardware, boot file issues, RAID configurations, or other unforeseen circumstances may cause the restore process to fail. It is not guaranteed that a successful backup will restore the system to its original state under all conditions.
+
+_Alternative Recovery Options_: If a full system restore fails, users can still recover individual files and folders from their backups, ensuring that critical data remains accessible.
+
+Users are advised to regularly test their backups and ensure compatibility with their system's hardware to mitigate potential recovery issues.
+
+### 17\. Disclaimer of Warranties
 
 The transmission, storage, viewing and retrieval of data and files through the World Wide Web is subject to a variety of conditions that make such transmission, storage, viewing and retrieval potentially unreliable. ACCORDINGLY, YOUR ACCOUNT AND THE SERVICE IS PROVIDED TO YOU ON AN "AS IS" AND "AS AVAILABLE" BASIS, AT YOUR OWN RISK. IDRIVE INC., ON BEHALF OF ITSELF AND ITS DISTRIBUTORS, ADVERTISERS AND SUPPLIERS, DISCLAIMS ALL WARRANTIES AND CONDITIONS, EXPRESS OR IMPLIED, ARISING BY LAW OR OTHERWISE, WITH RESPECT TO YOUR ACCOUNT AND THE SERVICE (INCLUDING, WITHOUT LIMITATION, ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT). YOUR ACCOUNT AND THE SERVICE MAY NOT MEET YOUR NEEDS. IDRIVE INC. MAKES NO REPRESENTATION OR WARRANTY: (A) THAT YOUR ACCOUNT OR THE SERVICE WILL MEET YOUR NEEDS; (B) THAT ACCESS TO YOUR ACCOUNT OR THE SERVICE WILL BE TIMELY, ERROR-FREE, UNINTERRUPTED, VIRUS-FREE OR SECURE; (C) THAT THE DATA AND FILES YOU STORE IN YOUR ACCOUNT WILL NOT BE LOST OR DAMAGED; (D) THAT THE DATA ON YOUR DESKTOP OR SERVER WILL NOT BE LOST OR DAMAGED; OR (E) THAT DEFECTS IN THE SERVICE WILL BE CORRECTED. YOU ACKNOWLEDGE THAT ANY MATERIAL OR DATA YOU RETRIEVE THROUGH THE USE OF THE SERVICE IS DONE AT YOUR CHOICE AND RISK AND THAT YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR LOSS OF DATA THAT RESULTS FROM THE RETRIEVAL OF SUCH MATERIAL OR DATA.
 
-### 15\. Limitations of Liability
+### 18\. Limitations of Liability
 
 IN NO EVENT SHALL IDRIVE INC. OR ITS AFFILIATES, AGENTS, ADVERTISERS OR SUPPLIERS HAVE ANY OBLIGATION OR LIABILITY TO YOU FOR (I) THE COST OF PROCUREMENT OF SUBSTITUTE SERVICES OR DATA OR (II) ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE, EXEMPLARY OR CONSEQUENTIAL DAMAGES (INCLUDING, WITHOUT LIMITATION, ANY LOSS OF DATA, REVENUE OR PROFITS OR BUSINESS INTERRUPTION) OR OTHER PECUNIARY LOSS ARISING OUT OF YOUR USE OR INABILITY TO USE YOUR ACCOUNT OR THE SERVICE OR YOUR LOSS OF DATA OR FILES STORED THEREIN REGARDLESS OF LEGAL THEORY, WHETHER OR NOT IDRIVE INC. HAS BEEN WARNED OF THE POSSIBILITY OF SUCH DAMAGES, AND EVEN IF A REMEDY FAILS OF ITS ESSENTIAL PURPOSE. AGGREGATE LIABILITY FOR ALL CLAIMS RELATING TO OUR SERVICES WILL BE LIMITED TO THE GREATER OF $100 OR ANY AMOUNTS PAID BY YOU TO IDRIVE INC. FOR THE PAST THREE MONTHS OF THE SERVICES IN QUESTION.
 
-### 16\. Class Action Clause
+### 19\. Class Action Clause
 
 You agree that Class Actions are not allowed and all disputes with IDrive® must be resolved on an individual basis. You may not bring any claim against IDrive® as a class member. This includes class arbitrations, class actions, private attorney general actions, and consolidation with other arbitrations. Regardless of whether any such dispute, controversy or claim concerns any other individual / entity, multiple individuals / entities, or other persons, classes of individuals, or entities, all cases shall be decided between IDrive® and the individual only.
 
-### 17\. Indemnification
+### 20\. Indemnification
 
 You will, as allowable by law, defend, indemnify and hold IDrive Inc., our subsidiaries, affiliates, agents, officers, licensor, directors and employees, harmless from any claim or demand, including reasonable attorneys' fees and costs, made by any third party due to or arising out of (i) your use of your Account and the Services, (ii) any data files and content stored by you in your Account and otherwise on our servers, and (iii) any violation of these Terms by you. We will be entitled, at our expense, to participate in the defense and settlement of the claim or action with counsel of our own choosing. You may not settle any claims that limit our rights without our prior written consent.
 
-### 18\. Termination
+### 21\. Termination
 
-We may, at our option and in addition to other remedies, immediately and without notice terminate these Terms at any time or suspend your access to the Services: (i) if you breach any provision of these Terms; (ii) if we are required to do so by law; (iii) if we cease to offer any services covered by these Terms; or (iv) for any other reason with thirty (30) days prior written notice to you (or sooner if you are flagrantly violating these Terms or are a threat to users or the Services). You may terminate these Terms at your convenience by delivering at least thirty (30) days prior written notice to us. Should you object to any of these Terms or any subsequent modifications thereto or become dissatisfied with the Services in any way, your only recourse is to immediately: (a) discontinue use of the Services; (b) terminate these Terms; and (c) notify us of such termination as described below in paragraph 17. Upon any termination of these Terms, we will remove stored in IDrive® backup and/or IDrive® sync data files from main storage and archives immediately. Paragraphs 12, 13, 16, 17, 18 and 19 of these Terms (and any other provision that can be reasonably construed to survive termination) will survive termination of these Terms.
+We may, at our option and in addition to other remedies, immediately and without notice terminate these Terms at any time or suspend your access to the Services: (i) if you breach any provision of these Terms; (ii) if we are required to do so by law; (iii) if we cease to offer any services covered by these Terms; or (iv) for any other reason with thirty (30) days prior written notice to you (or sooner if you are flagrantly violating these Terms or are a threat to users or the Services). You may terminate these Terms at your convenience by delivering at least thirty (30) days prior written notice to us. Should you object to any of these Terms or any subsequent modifications thereto or become dissatisfied with the Services in any way, your only recourse is to immediately: (a) discontinue use of the Services; (b) terminate these Terms; and (c) notify us of such termination as described below in paragraph 20. Upon any termination of these Terms, we will remove stored in IDrive® backup and/or IDrive® Cloud Drive files from main storage and archives immediately. Paragraphs 12, 13, 19, 20, 21, and 22 of these Terms (and any other provision that can be reasonably construed to survive termination) will survive termination of these Terms.
 
-### 19\. Notices
+### 22\. Notices
 
 Any notice under these Terms given by IDrive Inc. to you will be deemed to be properly given if sent (i) by email to your email address as set forth in the Registration Information, (ii) by a startup screen that starts before your next use of the Services, (iii) by written communication mailed by first class U.S. mail to your address on record in the Registration Information, or (iv) by a display about the changed information in the Terms on our website. It is important that you maintain a correct working email address and update it if necessary to be able to receive our communications. To ensure proper delivery of email communications, please whitelist '@idrive.com' domain in your email spam filter.
 
@@ -229,15 +256,15 @@ Any notice under these Terms provided by you will be deemed to be properly given
 
 **Fair Use Notice**: Any copyrighted materials used in this website, like third-party logos (Windows, Mac, Linux 'Tux' etc) are the property of their respective owners/companies.
 
-### 20\. Severability
+### 23\. Severability
 
 These Terms will be enforced to the fullest extent permitted by applicable law. If for any reason any provision of the Terms is held to be invalid or unenforceable under applicable law to any extent, then (i) such provision will be interpreted, construed or reformed to the extent reasonably required to render the same valid, enforceable and consistent with the original intent underlying such provision and (ii) such invalidity or unenforceability will not affect any other provision of the Terms.
 
-### 21\. Modifications to this Agreement
+### 24\. Modifications to this Agreement
 
 We may change these Terms from time to time and the most current version will always be posted on our website located at [https://www.idrive.com](https://www.idrive.com/). If we think a revision is material we will notify you (e.g., via email). Other changes may be posted to our blog or terms page, so please check those pages regularly. Your continued use of the Services after such revisions become effective will constitute your acceptance of such changed terms and conditions. If you do not agree to the new terms, please stop using the Services.
 
-### 22\. Miscellaneous
+### 25\. Miscellaneous
 
 THESE TERMS AND THE USE OF THE SERVICES AND SOFTWARE WILL BE GOVERNED BY CALIFORNIA LAW EXCEPT FOR ITS CONFLICTS OF LAWS PRINCIPLES. ALL CLAIMS ARISING OUT OF OR RELATING TO THESE TERMS OR THE SERVICES OR SOFTWARE MUST BE LITIGATED EXCLUSIVELY IN THE FEDERAL OR STATE COURTS OF LOS ANGELES COUNTY, CALIFORNIA, AND BOTH PARTIES CONSENT TO VENUE AND PERSONAL JURISDICTION THERE. The provisions of the U.N. Convention on Contracts for the International Sale of Goods and any successor treaties will not apply. You will commence any claim or cause of action arising under or otherwise occurring by reason of these Terms within one (1) year after the claim or cause of action arises or such claim or cause of action is forever barred. These Terms create no third party beneficiary rights. You may not assign any of your rights in these Terms, and any such attempt is void, but we may assign our rights to any of our affiliates or subsidiaries, or to any successor in interest of any business associated with the Services. IDrive Inc. and you are not legal partners or agents; instead, our relationship is that of independent contractors. Our failure to insist upon or enforce strict performance of any provision or right of these Terms will not be construed as a waiver of any provision or right. These Terms constitute the entire and exclusive agreement between you and IDrive Inc. with respect to the subject matter hereof and supersedes any and all prior and contemporaneous understandings and agreements.
 
