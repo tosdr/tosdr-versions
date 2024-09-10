@@ -1,4 +1,4 @@
-![](https://www.facebook.com/tr?id=749523449402124&ev=PageView&noscript=1)  
+![](https://www.facebook.com/tr?id=749523449402124&ev=PageView&noscript=1) 
 
 * [Products](https://www.mediavine.com/products/)
 * [Events](https://www.mediavine.com/events/)
@@ -176,10 +176,7 @@ NY, NY 10001
 
 [![Google | Certified Publishing Partner](https://www.mediavine.com/wp-content/themes/mediavine-corporate-trellis/dist/img/google-certified-publishing-premier-partner.png)](https://www.google.com/ads/publisher/partners/)
 
-* [Brand Safety Policy](https://www.mediavine.com/brand-safety-policy/)
-* [Privacy Policy](https://www.mediavine.com/privacy-policy/)
-* [US Privacy Notice](https://www.mediavine.com/privacy-notice/)
-* [Terms and Conditions](https://www.mediavine.com/terms-of-service/)
+* [LEGAL AND PRIVACY CENTER](https://www.mediavine.com/legal-and-privacy-center/)
 * © 2024 Mediavine
 
 [Mediavine](https://www.mediavine.com/) Close
@@ -245,6 +242,6 @@ NY, NY 10001
 * [Terms and Conditions](https://www.mediavine.com/terms-of-service/)
 * © 2024 Mediavine
 
-                   
+                    
 
 ![](https://px.ads.linkedin.com/collect/?pid=4067916&fmt=gif)
