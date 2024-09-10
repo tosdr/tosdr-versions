@@ -1,5 +1,5 @@
-Privacy Policy
-==============
+Privacy Policy | iHerb
+======================
 
 iHerb Privacy Policy
 --------------------
@@ -77,7 +77,7 @@ We also will use the information we obtain through the Services if we have a leg
 * responding to your requests and inquiries and providing customer support, such as through our chatbot or other customer support tools;
 * operating, evaluating and improving our business (including developing new services; enhancing and improving our Services; managing our communications; analyzing our user base and Services; performing data analytics and market research; and performing accounting, auditing and other internal functions);
 * protecting against, identifying and preventing fraud and other criminal activity, claims and other liabilities;
-* complying with and enforcing applicable legal requirements, relevant industry standards and our policies, including this Privacy Policy and iHerb’s [Terms of Use](https://uk.iherb.com/info/terms-of-use), [Rewards Program Terms of Use](https://uk.iherb.com/info/rewards); and
+* complying with and enforcing applicable legal requirements, relevant industry standards and our policies, including this Privacy Policy and iHerb’s [Terms of Use](https://www.iherb.com/info/terms-of-use), [Rewards Program Terms of Use](https://www.iherb.com/info/rewards); and
 * communicating with you about changes to our policies.
 
 In addition, we will use your contact information to send you Health Newsletters, emails, SMS, push notifications and in-app notifications about our products, services, sales and special offers if you sign up to receive them and have not opted out. We also may use your email address to display ads for our products, services, sales and special offers through Facebook’s and Google’s sites or networks. For example, if you are on Facebook, you may see our ads on the social media platform, or if you sign in to your Google account, you may see our ads as you use the Google search engine, Instagram, Facebook, Facebook Audience Network, YouTube, Gmail, and the Google Display Network because these third parties will match your email address with you. To the extent provided by applicable law, you can object at any time to the use of your e-mail address for advertising purposes as specified in the [Rights And Choices](#rights-choices) section below.
