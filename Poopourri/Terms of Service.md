@@ -1,16 +1,16 @@
-![](https://ct.pinterest.com/v3/?tid=2613714762118&noscript=1)   Terms and Conditions – ~Pourri                                  
+![](https://ct.pinterest.com/v3/?tid=2613714762118&noscript=1)   Terms and Conditions – ~Pourri                                    
 
       
 
 ![](https://s.amazon-adsystem.com/iu3?pid=67ae216d-997c-4448-b1c3-25887206ec47&event=PageView)
 
-           
+                  
 
    [Skip to Content](#main-content) [Skip to Navigation](#masthead)
 
-[Up to 40% Off - Spritzmas in July](https://www.poopourri.com/pages/christmas-in-july)
+[Free Shipping On All Orders Over $35\*](https://www.poopourri.com/collections/all-products)
 
-[![~Pourri](//pourri.com/cdn/shop/t/748/assets/pourri--logo-150.gif?v=92675186479064556311721766012)](https://www.poopourri.com/)
+[![~Pourri](//pourri.com/cdn/shop/t/769/assets/pourri--logo-150.gif?v=92675186479064556311725386321)](https://www.poopourri.com/)
 
 shop
 
@@ -19,112 +19,119 @@ shop
     ### Odor Fresheners
     
     * [Poo~Pourri](https://www.poopourri.com/collections/toilet-sprays)
-    * [Baby~Pourri](https://www.poopourri.com/products/little-stinker-diaper-pail-odor-eliminator)
-    * [Pet~Pourri](https://www.poopourri.com/collections/pet-pourri)
     * [Home~Pourri](https://www.poopourri.com/collections/home-pourri)
-    * [Pit~Pourri](https://www.poopourri.com/products/pit-pourri-coconut-vanilla-sandalwood)
-    * [Pot~Pourri](https://www.poopourri.com/collections/pot-pourri)
-    * [Car~Pourri](https://www.poopourri.com/collections/car-pourri)
+    * [Pet~Pourri](https://www.poopourri.com/collections/pet-pourri)
+    * [Pot~Pourri](https://www.poopourri.com/products/pot-pourri-high-hopes)
     * [Sole~Pourri](https://www.poopourri.com/collections/sole-pourri)
+    * [Car~Pourri](https://www.poopourri.com/collections/car-pourri)
+    * [Baby~Pourri](https://www.poopourri.com/products/little-stinker-diaper-pail-odor-eliminator)
+    * [Pit~Pourri](https://www.poopourri.com/products/pit-pourri-coconut-vanilla-sandalwood)
     * [Shop All](https://www.poopourri.com/collections/all-products)
-    
-    ### Gifts
-    
-    * [Gift Sets](https://www.poopourri.com/collections/gifts)
-    * [Gift Cards](https://www.poopourri.com/collections/gift-cards)
-    * [The Gift Guide](https://www.poopourri.com/pages/gift-guide)
-    * [Other Sh\*t](https://www.poopourri.com/collections/other-sh-t)
     
     ### Bundle + Save
     
     * [Build Your Own Bundle](https://www.poopourri.com/pages/build-your-own-bundle)
     * [Up to 40% Off Sale](https://www.poopourri.com/collections/sale)
     
+    ### Gifts
+    
+    * [Gift Sets](https://www.poopourri.com/collections/gifts)
+    * [Gift Cards](https://www.poopourri.com/collections/gift-cards)
+    
     ### Trending
     
-    * [New!](https://www.poopourri.com/collections/new)
-    * [Best Sellers](https://www.poopourri.com/collections/best-sellers)
-    * [Sale](https://www.poopourri.com/collections/sale)
-    * [Limited Time Scents](https://www.poopourri.com/collections/seasonal)
     * [The Travel Shop](https://www.poopourri.com/collections/gifts-for-travel)
-    * [Fresh Florals Collection](https://www.poopourri.com/collections/spring)
+    * [Sale](https://www.poopourri.com/collections/sale)
+    * [Best Sellers](https://www.poopourri.com/collections/best-sellers)
+    * [New!](https://www.poopourri.com/collections/new)
+    * [Limited Time Scents](https://www.poopourri.com/collections/seasonal)
     
     [](https://www.poopourri.com/products/lime-zest-matcha-trash-can-odor-spray)
     
     **New Trash Spray**
     
-    [](https://www.poopourri.com/pages/christmas-in-july)
+    [](https://www.poopourri.com/collections/pet-pourri)
     
-    **Shop Spritzmas in July Sale**
+    **New Pet Parent Essentials**
     
 * [Build Your Own Bundle](https://www.poopourri.com/pages/build-your-own-bundle)
 * [Sale](https://www.poopourri.com/collections/sale)
 * Search  
     
-* ![customer account icon](//pourri.com/cdn/shop/t/748/assets/icon--nav-account-v2.svg?v=125546052516818336491721765905)
+* ![customer account icon](//pourri.com/cdn/shop/t/769/assets/icon--nav-account-v2.svg?v=125546052516818336491725386212)
     
     **Sign in** to earn rewards
     
-*  ![shopping bag icon](//pourri.com/cdn/shop/t/748/assets/icon--cart.svg?v=43504665361036498501721765901) **0**
+*  ![shopping bag icon](//pourri.com/cdn/shop/t/769/assets/icon--cart.svg?v=43504665361036498501725386208) **0**
 
-X* [![cat-image](//pourri.com/cdn/shop/t/748/assets/bar-menu--all.jpg?v=127310225224191499861721765773)
-    
-    ### Shop All Products](https://www.poopourri.com/collections/all-products)
-* [![cat-image](//pourri.com/cdn/shop/files/best-smeller-mob_small.jpg?v=18042034792411084763)
+X* [![cat-image](//pourri.com/cdn/shop/files/best-smeller-mob_small.jpg?v=18042034792411084763)
     
     ### Best Smellers
     
     Shop Funk fighting Faves](https://www.poopourri.com/collections/best-sellers)
-* [![cat-image](//pourri.com/cdn/shop/files/new-mob_small.png?v=2362070475230678860)
+* [![cat-image](//pourri.com/cdn/shop/files/build-bundle-mob_small.png?v=17931849954337334734)
     
-    ### New!
+    ### Build A Bundle
     
-    The Latest & Greatest](https://www.poopourri.com/collections/new)
-* [![cat-image](//pourri.com/cdn/shop/t/748/assets/bar-menu--poo.jpg?v=47379815496088024721721765776)
+    Save 20%](https://www.poopourri.com/pages/build-your-own-bundle)
+* [![cat-image](//pourri.com/cdn/shop/files/sale-mob_small.jpg?v=6715679442643199105)
+    
+    ### Sale
+    
+    Save Up to 40%](https://www.poopourri.com/collections/sale)
+* [![cat-image](//pourri.com/cdn/shop/t/769/assets/bar-menu--poo.jpg?v=47379815496088024721725386075)
     
     ### Poo~Pourri
     
     Before-You-Go Toilet Fresheners](https://www.poopourri.com/collections/toilet-sprays)
-* [![cat-image](//pourri.com/cdn/shop/t/748/assets/bar-menu--home.jpg?v=1526822056388772681721765774)
+* [![cat-image](//pourri.com/cdn/shop/t/769/assets/Travel-collection-mob.jpg?v=169265678626251582081725386446)
+    
+    ### Travel Collection
+    
+    Shop Travel-Sized Fresheners](https://www.poopourri.com/collections/gifts-for-travel)
+* [![cat-image](//pourri.com/cdn/shop/t/769/assets/bar-menu--home.jpg?v=1526822056388772681725386073)
     
     ### Home~Pourri
     
     Multi-Purpose Odor Fresheners](https://www.poopourri.com/collections/home-pourri)
-* [![cat-image](//pourri.com/cdn/shop/t/748/assets/bar-menu--pet.jpg?v=181139846575367696271721765775)
+* [![cat-image](//pourri.com/cdn/shop/t/769/assets/bar-menu--pet.jpg?v=181139846575367696271725386074)
     
     ### Pet~Pourri
     
     Pet Odor Fresheners](https://www.poopourri.com/collections/pet-pourri)
+* [![cat-image](//pourri.com/cdn/shop/t/769/assets/bar-menu--pot.jpg?v=37423939330182177851725386076)
+    
+    ### Pot~Pourri
+    
+    Smoke Odor Fresheners](https://www.poopourri.com/products/pot-pourri-high-hopes)
+* [![cat-image](//pourri.com/cdn/shop/t/769/assets/bar-menu--sole.jpg?v=184380636308178010761725386077)
+    
+    ### Sole~Pourri
+    
+    Shoe + Foot Odor Fresheners](https://www.poopourri.com/collections/sole-pourri)
+* [![cat-image](//pourri.com/cdn/shop/files/car-pourri-mob-nav_small.jpg?v=16637315017810513166)
+    
+    ### Car~Pourri
+    
+    Car Odor Fresheners](https://www.poopourri.com/collections/car-pourri)
+* [![cat-image](//pourri.com/cdn/shop/files/little-stinker-mob-nav_small.jpg?v=10851315670732951662)
+    
+    ### Baby~Pourri
+    
+    Diaper Pail Odor Freshener](https://www.poopourri.com/products/little-stinker-diaper-pail-odor-eliminator)
 * [![cat-image](//pourri.com/cdn/shop/files/pit-pourri-mob_small.jpg?v=11164813754287640105)
     
     ### Pit~Pourri
     
     Full Body Deodorant](https://www.poopourri.com/collections/pit-pourri)
-* [![cat-image](//pourri.com/cdn/shop/t/748/assets/bar-menu--pot.jpg?v=37423939330182177851721765776)
+* [![cat-image](//pourri.com/cdn/shop/files/new-mob_small.png?v=2362070475230678860)
     
-    ### Pot~Pourri
+    ### New!
     
-    Smoke Odor Fresheners](https://www.poopourri.com/collections/pot-pourri)
-* [![cat-image](//pourri.com/cdn/shop/t/748/assets/bar-menu--sole.jpg?v=184380636308178010761721765778)
+    The Latest & Greatest](https://www.poopourri.com/collections/new)
+* [![cat-image](//pourri.com/cdn/shop/t/769/assets/bar-menu--all.jpg?v=127310225224191499861725386072)
     
-    ### Sole~Pourri
-    
-    Shoe + Foot Odor Fresheners](https://www.poopourri.com/collections/sole-pourri)
-* [![cat-image](//pourri.com/cdn/shop/t/748/assets/Travel-collection-mob.jpg?v=169265678626251582081721766137)
-    
-    ### Travel Collection
-    
-    Shop Travel-Sized Fresheners](https://www.poopourri.com/collections/gifts-for-travel)
-* [![cat-image](//pourri.com/cdn/shop/files/build-bundle-mob_small.png?v=17931849954337334734)
-    
-    ### Build A Bundle
-    
-    Save When You Bundle](https://www.poopourri.com/pages/build-your-own-bundle)
-* [![cat-image](//pourri.com/cdn/shop/files/sale-mob_small.jpg?v=6715679442643199105)
-    
-    ### Sale
-    
-    Shop Deals and Bundles](https://www.poopourri.com/collections/sale)
+    ### Shop All Products](https://www.poopourri.com/collections/all-products)
 
 ### Let's Talk
 
@@ -171,19 +178,9 @@ Register
 
 Create Account Log In
 
-~Pourri Perks Rewards
+Loading...
 
-### Earn $5 Off Today!
-
-Get early access to new products, exclusive promotions, surprise gifts and more.
-
-join now
-
-Already a member? Log in
-
-![close rewards notification](//pourri.com/cdn/shop/t/748/assets/rewards--dropdown-close--icon.svg?v=102657894136855236941721766037)
-
-![customer account icon](//pourri.com/cdn/shop/t/748/assets/icon--nav-account-v2.svg?v=125546052516818336491721765905)
+![customer account icon](//pourri.com/cdn/shop/t/769/assets/icon--nav-account-v2.svg?v=125546052516818336491725386212)
 
 **Sign in to earn rewards** Don’t have an account? Create an account
 
@@ -191,9 +188,6 @@ Sign In
 
 Terms and Conditions
 ====================
-
-**Spritzmas in July**  
-40% off Spritzmas in July promotion is only available for a limited time on the Christmas in July bundle and the Mystery Bundle. All sales for the 40% off Mystery Bundle are final and not eligible for a refund or return. 25% off limited-time seasonal scents is only available on select seasonal scents. Discount will be reflected on product pricing to reflect that product's discounted percentage. Cannot be combined with other offers or applied to previous purchases. ~Pourri reserves the right to end or modify promotional prices at any time. Exclusions apply. Offer subject to change. Offer valid while supplies last or until expiration of promotion on 7/31/24 at 11:59 pm PST.
 
 **FREE STANDARD SHIPPING**
 
@@ -249,6 +243,10 @@ Except as otherwise provided herein, the arbitrator shall apply the substantive 
 
 Miscellaneous: You warrant and represent to Us that you have all necessary rights, power, and authority to agree to these Terms and perform your obligations hereunder, and nothing contained in this Agreement or in the performance of such obligations will place you in breach of any other contract or obligation. The failure of either party to exercise in any respect any right provided for herein will not be deemed a waiver of any further rights hereunder. If any provision of this Agreement is found to be unenforceable or invalid, that provision will be limited or eliminated to the minimum extent necessary so that this Agreement will otherwise remain in full force and effect and enforceable. Any new features, changes, updates or improvements of the Program shall be subject to this Agreement unless explicitly stated otherwise in writing. We reserve the right to change this Agreement from time to time. Any updates to this Agreement shall be communicated to you. You acknowledge your responsibility to review this Agreement from time to time and to be aware of any such changes. By continuing to participate in the Program after any such changes, you accept this Agreement, as modified.
 
+**UNAUTHORIZED SELLERS**
+
+For Sales on the Amazon UK and DE platform, ~Pourri works hard to ensure that only authentic, high quality products reach consumers in the condition we intend. As such, for all sales on the Amazon UK and DE platform, ~Pourri offers a 45-Day Money Back Stink-Free Guarantee which will NOT be honored without provision of valid proof of purchase directly from a Front Row Amazon UK and DE storefront.
+
 **  
 CUSTOMER RATINGS AND REVIEWS AND QUESTIONS AND ANSWERS TERMS OF USE  
 **These Terms of Use govern your conduct associated with the Customer Ratings and Reviews and/or Questions and Answers service offered by **Scentsible, LLC** (the "CRR Service").
@@ -278,7 +276,7 @@ For any content that you submit, you grant **Scentsible, LLC** a perpetual, ir
 
 All content that you submit may be used at **Scentsible, LLC's** sole discretion. **Scentsible, LLC** reserves the right to change, condense, withhold publication, remove or delete any content on **Scentsible, LLC's** website that **Scentsible, LLC** deems, in its sole discretion, to violate the content guidelines or any other provision of these Terms of Use. **Scentsible, LLC** does not guarantee that you will have any recourse through **Scentsible, LLC** to edit or delete any content you have submitted. Ratings and written comments are generally posted within two to four business days. However, **Scentsible, LLC** reserves the right to remove or to refuse to post any submission to the extent authorized by law. You acknowledge that you, not **Scentsible, LLC**, are responsible for the contents of your submission. None of the content that you submit shall be subject to any obligation of confidence on the part of **Scentsible, LLC**, its agents, subsidiaries, affiliates, partners or third party service providers and their respective directors, officers and employees.
 
-![Poo~Pourri](//pourri.com/cdn/shop/t/748/assets/pourri--logo-300.jpg?v=158840465595963141081721766013)
+![Poo~Pourri](//pourri.com/cdn/shop/t/769/assets/pourri--logo-300.jpg?v=158840465595963141081725386322)
 
 Freshen funky odors without funky ingredients—guaranteed
 
