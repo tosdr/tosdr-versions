@@ -259,11 +259,12 @@ Table of Contents Table of Contents Toggle navigation
         * [Synced knowledge base](https://www.knowledgeowl.com/help/synced-knowledge-base)
     * [Import content](https://www.knowledgeowl.com/help/import-content)
         
-        * [Import best practices](https://www.knowledgeowl.com/help/import-best-practices)
-        * [Import from Zendesk](https://www.knowledgeowl.com/help/import-from-zendesk)
-        * [Import from Freshdesk](https://www.knowledgeowl.com/help/import-from-freshdesk)
+        * [Import from Confluence](https://www.knowledgeowl.com/help/import-from-confluence)New
+        * [Import from Zendesk](https://www.knowledgeowl.com/help/import-from-zendesk)Updated
+        * [Import from Freshdesk](https://www.knowledgeowl.com/help/import-from-freshdesk)Updated
         * [Import with the API](https://www.knowledgeowl.com/help/api-import)
         * [Testing imports](https://www.knowledgeowl.com/help/test-imports)
+        * [Import best practices](https://www.knowledgeowl.com/help/import-best-practices)
     * [Create REST API documentation](https://www.knowledgeowl.com/help/create-api-documentation)
         
         * [REST API documentation in KnowledgeOwl](https://www.knowledgeowl.com/help/rest-api-documentation-knowledgeowl)
@@ -292,6 +293,7 @@ Table of Contents Table of Contents Toggle navigation
         * [Updated Articles list](https://www.knowledgeowl.com/help/updated-articles-list)
         * [Popular Articles list](https://www.knowledgeowl.com/help/popular-articles-list)
         * [Recent Articles list](https://www.knowledgeowl.com/help/recent-articles-list)
+        * [Remove article lists from your homepage](https://www.knowledgeowl.com/help/remove-article-lists-from-your-homepage)New
         * [Create a custom homepage articles list](https://www.knowledgeowl.com/help/create-a-custom-homepage-articles-list)
         * [Add a custom banner with built-in div styles](https://www.knowledgeowl.com/help/add-a-custom-banner-div-styles)
         * [Add a custom icon and header link on your homepage](https://www.knowledgeowl.com/help/add-a-custom-icon-and-header-link)
@@ -316,6 +318,8 @@ Table of Contents Table of Contents Toggle navigation
             * [Undo changes to Settings > Style](https://www.knowledgeowl.com/help/undo-changes-to-settings-style)
             * [Breadcrumbs](https://www.knowledgeowl.com/help/breadcrumbs)
             * [Access to the header via Custom Head](https://www.knowledgeowl.com/help/append-head)
+            * [Reset your theme](https://www.knowledgeowl.com/help/reset-your-theme)New
+            * [Copy a knowledge base's theme](https://www.knowledgeowl.com/help/copy-a-theme)New
         * [Basic Settings](javascript:void(0);)
             
             * [Basic Settings](https://www.knowledgeowl.com/help/basic-settings-basic-settings)
@@ -350,7 +354,7 @@ Table of Contents Table of Contents Toggle navigation
             * [Display a back to top icon when scrolling](https://www.knowledgeowl.com/help/display-a-back-to-top-icon-when-scrolling)
             * [Only play GIFs while hovering](https://www.knowledgeowl.com/help/only-play-gifs-while-hovering)
             * [Use different logos for different reader groups](https://www.knowledgeowl.com/help/different-logos-for-different-reader-groups)
-            * [Set your footer copyright to automatically update](https://www.knowledgeowl.com/help/automatic-copyright-year)
+            * [Set your footer copyright year to automatically update](https://www.knowledgeowl.com/help/automatic-copyright-year)
             * [Fix anchor links hidden by top navigation](https://www.knowledgeowl.com/help/fix-anchor-links-hidden-by-top-navigation)
     * [Article look and feel](javascript:void(0);)
         
@@ -778,18 +782,21 @@ Table of Contents Table of Contents Toggle navigation
         * [Reader-specific analytics](https://www.knowledgeowl.com/help/reader-specific-analytics)
 * [Security and permissions](https://www.knowledgeowl.com/help/security-permissions)
     
-    * [General security options](https://www.knowledgeowl.com/help/general-security-options)
+    * [KB visibility and access](javascript:void(0);)
         
         * [Create a public knowledge base](https://www.knowledgeowl.com/help/create-a-public-knowledge-base)
         * [Create a public knowledge base with some private content](https://www.knowledgeowl.com/help/create-a-public-knowledge-base-with-some-private-content)
         * [Create a private knowledge base](https://www.knowledgeowl.com/help/create-a-private-knowledge-base)
         * [Create a private knowledge base with different content for different readers](https://www.knowledgeowl.com/help/create-a-private-knowledge-base-with-different-content-for-different-readers)
+        * [Restrict content to logged in readers](https://www.knowledgeowl.com/help/restrict-content-to-logged-in-readers)
         * [Restrict by IP address, shared passwords, reader logins, or a combination](https://www.knowledgeowl.com/help/security)
-        * [Restrict Content to Logged In Readers](https://www.knowledgeowl.com/help/restrict-content-to-logged-in-readers)
-        * [Basic authentication](https://www.knowledgeowl.com/help/basic-authentication)
-        * [HTTP response headers](https://www.knowledgeowl.com/help/http-response-headers)
-        * [Requiring login to view files/images](https://www.knowledgeowl.com/help/private-knowledge-bases-file-sharing)
+        * [Convert a private knowledge base to mixed public and private](https://www.knowledgeowl.com/help/convert-a-private-knowledge-base-to-mixed)New
+    * [Advanced security options](https://www.knowledgeowl.com/help/advanced-security-options)
+        
+        * [Requiring login to view files/images](https://www.knowledgeowl.com/help/secure-file-library)
         * [Spam protection](https://www.knowledgeowl.com/help/spam-protection)
+        * [HTTP response headers](https://www.knowledgeowl.com/help/http-response-headers)
+        * [Basic authentication](https://www.knowledgeowl.com/help/basic-authentication)
     * [Author management](https://www.knowledgeowl.com/help/manage-authors)
         
         * [Authors](https://www.knowledgeowl.com/help/authors)
