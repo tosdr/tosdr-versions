@@ -189,299 +189,299 @@ With your support, My Expenses keeps growing in functionality, while being distr
 
 3.8.72024-07-19
 
-[![](https://github.com/favicon.ico)](https://github.com/users/mtotschnig/projects/3) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/112780201819204851) Search for transactions with same properties.
+[![](/visuals/github.ico)](https://github.com/users/mtotschnig/projects/3) [![](/visuals/mastodon.png)](https://mastodon.social/@myexpenses/112780201819204851) Search for transactions with same properties.
 
 3.8.62024-06-14
 
-[![](https://github.com/favicon.ico)](https://github.com/users/mtotschnig/projects/1) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/112611283595024791) Distribution per expenses and distribution per income can be shown together in double-ring donut chart.
+[![](/visuals/github.ico)](https://github.com/users/mtotschnig/projects/1) [![](/visuals/mastodon.png)](https://mastodon.social/@myexpenses/112611283595024791) Distribution per expenses and distribution per income can be shown together in double-ring donut chart.
 
 3.8.52014-05-28
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/143#column-19888171) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/112514030317651128) FinTS: ING-DiBa. Print: Configuration (Paper format, Orientation, Font size)
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/143#column-19888171) [![](/visuals/mastodon.png)](https://mastodon.social/@myexpenses/112514030317651128) FinTS: ING-DiBa. Print: Configuration (Paper format, Orientation, Font size)
 
 3.8.42014-05-17
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/142#column-19861846) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/112449360780010906) Simplified setup of cloud backup
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/142#column-19861846) [![](/visuals/mastodon.png)](https://mastodon.social/@myexpenses/112449360780010906) Simplified setup of cloud backup
 
 3.8.32014-04-29
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/140#column-19850840) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/112343594355860132) Budgeting 4.0
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/140#column-19850840) [![](/visuals/mastodon.png)](https://mastodon.social/@myexpenses/112343594355860132) Budgeting 4.0
 
 3.8.22014-04-15
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/139#column-19841847) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/112277216301034271) Search: Refinement of the user interface. Account widget configuration: Buttons. “Scan receipt” feature can be called from widget “My accounts”.
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/139#column-19841847) [![](/visuals/mastodon.png)](https://mastodon.social/@myexpenses/112277216301034271) Search: Refinement of the user interface. Account widget configuration: Buttons. “Scan receipt” feature can be called from widget “My accounts”.
 
 3.8.12024-04-06
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/138#column-19833828) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/112219195196862569) Print: Configuration (Paper format, Header and Footer)
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/138#column-19833828) [![](/visuals/mastodon.png)](https://mastodon.social/@myexpenses/112219195196862569) Print: Configuration (Paper format, Header and Footer)
 
 3.8.02024-04-01
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/137#column-19814542) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/112191054511340968) Merge Categories
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/137#column-19814542) [![](/visuals/mastodon.png)](https://mastodon.social/@myexpenses/112191054511340968) Merge Categories
 
 3.7.92024-03-25
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/136#column-19813734) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/112145667108731321) Original amount: Refinement of the user interface
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/136#column-19813734) [![](/visuals/mastodon.png)](https://mastodon.social/@myexpenses/112145667108731321) Original amount: Refinement of the user interface
 
 3.7.82024-03-20
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/135#column-19800457) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/112127011143087984) Charts honour search filter.
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/135#column-19800457) [![](/visuals/mastodon.png)](https://mastodon.social/@myexpenses/112127011143087984) Charts honour search filter.
 
 3.7.72024-03-11
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/134#column-19796759) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/112072181909903986) Export to CSV: Original amount, Equivalent amount. Refinement of the user interface
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/134#column-19796759) [![](/visuals/mastodon.png)](https://mastodon.social/@myexpenses/112072181909903986) Export to CSV: Original amount, Equivalent amount. Refinement of the user interface
 
 3.7.62024-03-01
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/132#column-19778148) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/112014211218623273) Clone multiple transactions with new date. Web user interface can be controlled from main screen. Convert to transfer. Export to CSV: MS Excel
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/132#column-19778148) [![](/visuals/mastodon.png)](https://mastodon.social/@myexpenses/112014211218623273) Clone multiple transactions with new date. Web user interface can be controlled from main screen. Convert to transfer. Export to CSV: MS Excel
 
 3.7.52024-02-19
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/131#column-19777096) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/111957697846289706) Unlink transfer
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/131#column-19777096) [![](/visuals/mastodon.png)](https://mastodon.social/@myexpenses/111957697846289706) Unlink transfer
 
 3.7.42024-02-14
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/129#column-19764415) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/111926553139061758) Custom colors for tags
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/129#column-19764415) [![](/visuals/mastodon.png)](https://mastodon.social/@myexpenses/111926553139061758) Custom colors for tags
 
 3.7.32024-02-06
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/126#column-19752329) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/111872528849271182) Synchronization: Stability improvements. Transaction list: Refinement of the user interface
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/126#column-19752329) [![](/visuals/mastodon.png)](https://mastodon.social/@myexpenses/111872528849271182) Synchronization: Stability improvements. Transaction list: Refinement of the user interface
 
 3.7.22024-01-18
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/124#column-19721070) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/111767361607468268) Synchronization: Microsoft OneDrive
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/124#column-19721070) [![](/visuals/mastodon.png)](https://mastodon.social/@myexpenses/111767361607468268) Synchronization: Microsoft OneDrive
 
 3.7.12023-12-20
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/122#column-19711490) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/111613681916953556) Take photo: Refinement of the user interface
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/122#column-19711490) [![](/visuals/mastodon.png)](https://mastodon.social/@myexpenses/111613681916953556) Take photo: Refinement of the user interface
 
 3.7.02023-12-14
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/120#column-19702783) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/111578953480346198) Menu on main screen can be fully customized.
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/120#column-19702783) [![](/visuals/mastodon.png)](https://mastodon.social/@myexpenses/111578953480346198) Menu on main screen can be fully customized.
 
 3.6.92023-12-03
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/118#column-19691508) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/111504468267860332) Transfers can be mapped to categories. When screen lock is enabled, allow to opt-out of disabling screenshots.
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/118#column-19691508) [![](/visuals/mastodon.png)](https://mastodon.social/@myexpenses/111504468267860332) Transfers can be mapped to categories. When screen lock is enabled, allow to opt-out of disabling screenshots.
 
 3.6.82023-11-19
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/116#column-19684067) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/111433728475407148) Distribution, Budgeting: Refinement of the user interface
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/116#column-19684067) [![](/visuals/mastodon.png)](https://mastodon.social/@myexpenses/111433728475407148) Distribution, Budgeting: Refinement of the user interface
 
 3.6.72023-11-08
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/113#column-19675398) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/111375868306290140) Categories can now be configured as expense or income categories, which will impact how the expense and income sums are calculated.
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/113#column-19675398) [![](/visuals/mastodon.png)](https://mastodon.social/@myexpenses/111375868306290140) Categories can now be configured as expense or income categories, which will impact how the expense and income sums are calculated.
 
 3.6.62023-10-28
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/110#column-19652350) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/111302423088949295) Home Screen Widget displaying current state of budget.
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/110#column-19652350) [![](/visuals/mastodon.png)](https://mastodon.social/@myexpenses/111302423088949295) Home Screen Widget displaying current state of budget.
 
 3.6.52023-10-02
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/109#column-19632045) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/111150859961956469) Attach arbitrary number of images and documents (PDF)
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/109#column-19632045) [![](/visuals/mastodon.png)](https://mastodon.social/@myexpenses/111150859961956469) Attach arbitrary number of images and documents (PDF)
 
 3.6.42023-09-16
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/108#column-19611865) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/111062759658083878) Import into multiple accounts from one CSV file. New strategy for managing duplicate payer/payee information.
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/108#column-19611865) [![](/visuals/mastodon.png)](https://mastodon.social/@myexpenses/111062759658083878) Import into multiple accounts from one CSV file. New strategy for managing duplicate payer/payee information.
 
 3.6.32023-09-01
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/107#column-19585199) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/110949567643752857) Multibanking (Germany)
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/107#column-19585199) [![](/visuals/mastodon.png)](https://mastodon.social/@myexpenses/110949567643752857) Multibanking (Germany)
 
 3.6.22023-07-19
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/106#column-19571945) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/110734461075802938) Settings: Refinement of the user interface
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/106#column-19571945) [![](/visuals/mastodon.png)](https://mastodon.social/@myexpenses/110734461075802938) Settings: Refinement of the user interface
 
 3.6.12023-07-03
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/104#column-19552364) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/110643070915366207) Transaction list can be sorted by amount. Files in application folder (backups and exports) can be shared or deleted.
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/104#column-19552364) [![](/visuals/mastodon.png)](https://mastodon.social/@myexpenses/110643070915366207) Transaction list can be sorted by amount. Files in application folder (backups and exports) can be shared or deleted.
 
 3.6.02023-06-23
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/102#column-19526743) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/110583439643088054) Plan calendar view: Refinement of the user interface
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/102#column-19526743) [![](/visuals/mastodon.png)](https://mastodon.social/@myexpenses/110583439643088054) Plan calendar view: Refinement of the user interface
 
 3.5.92023-06-18
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/101#column-19509349) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/110532415552229346) Icons for payment methods can be customized. Grand total: Search: Equivalent amount
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/101#column-19509349) [![](/visuals/mastodon.png)](https://mastodon.social/@myexpenses/110532415552229346) Icons for payment methods can be customized. Grand total: Search: Equivalent amount
 
 3.5.82023-06-09
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/100#column-19502798) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/110514465884566921) Widget follows theme configuration (light/dark). Template shortcut
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/100#column-19502798) [![](/visuals/mastodon.png)](https://mastodon.social/@myexpenses/110514465884566921) Widget follows theme configuration (light/dark). Template shortcut
 
 3.5.72023-06-02
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/99#column-19471892) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/110462014961707092) Material 3
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/99#column-19471892) [![](/visuals/mastodon.png)](https://mastodon.social/@myexpenses/110462014961707092) Material 3
 
 3.5.62023-05-12
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/97#column-19460078) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/110350674321637548) Optimize image file size
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/97#column-19460078) [![](/visuals/mastodon.png)](https://mastodon.social/@myexpenses/110350674321637548) Optimize image file size
 
 3.5.52023-05-02
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/96#column-19437845) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/110278881493299193) Backup file name is now configurable.
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/96#column-19437845) [![](/visuals/mastodon.png)](https://mastodon.social/@myexpenses/110278881493299193) Backup file name is now configurable.
 
 3.5.42023-04-18
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/95#column-19428426) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/110215889500909292) Exchange Rate Provider: https://coinapi.io
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/95#column-19428426) [![](/visuals/mastodon.png)](https://mastodon.social/@myexpenses/110215889500909292) Exchange Rate Provider: https://coinapi.io
 
 3.5.32023-03-25
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/92#column-19394983) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/110056714935372644) Debt management: Refinement of the user interface
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/92#column-19394983) [![](/visuals/mastodon.png)](https://mastodon.social/@myexpenses/110056714935372644) Debt management: Refinement of the user interface
 
 3.5.22023-03-07
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/90#column-19374068) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/109976902058363075) Synchronization: Categories
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/90#column-19374068) [![](/visuals/mastodon.png)](https://mastodon.social/@myexpenses/109976902058363075) Synchronization: Categories
 
 3.5.12023-02-07
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/87#column-19319144) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/109818360069127682) Debt management: Refinement of the user interface
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/87#column-19319144) [![](/visuals/mastodon.png)](https://mastodon.social/@myexpenses/109818360069127682) Debt management: Refinement of the user interface
 
 3.5.02023-01-30
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/86#column-19285466) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/109752659104831459) Encrypt database (Experimental)
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/86#column-19285466) [![](/visuals/mastodon.png)](https://mastodon.social/@myexpenses/109752659104831459) Encrypt database (Experimental)
 
 3.4.92023-01-07
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/85#column-19278068) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/109643054367091295) Synchronization (WebDAV): Reconfigure. Translation: Urdu
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/85#column-19278068) [![](/visuals/mastodon.png)](https://mastodon.social/@myexpenses/109643054367091295) Synchronization (WebDAV): Reconfigure. Translation: Urdu
 
 3.4.82022-12-23
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/84#column-19269697) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/109563991653414173) Translation: Dutch
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/84#column-19269697) [![](/visuals/mastodon.png)](https://mastodon.social/@myexpenses/109563991653414173) Translation: Dutch
 
 3.4.72022-12-10
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/83#column-19256564) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/109483685675967566) Synchronization: Local storage
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/83#column-19256564) [![](/visuals/mastodon.png)](https://mastodon.social/@myexpenses/109483685675967566) Synchronization: Local storage
 
 3.4.62022-11-19
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/77#column-19151870) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/109286685602682940) Transaction list: Redesign
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/77#column-19151870) [![](/visuals/mastodon.png)](https://mastodon.social/@myexpenses/109286685602682940) Transaction list: Redesign
 
 3.4.52022-09-05
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/76#column-19128229) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/108935518422101199) Budgeting 3.0. Web User Interface: https
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/76#column-19128229) [![](/visuals/mastodon.png)](https://mastodon.social/@myexpenses/108935518422101199) Budgeting 3.0. Web User Interface: https
 
 3.4.42022-08-12
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/74#column-19103001) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/108809607824665506) Icons for categories 2.0
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/74#column-19103001) [![](/visuals/mastodon.png)](https://mastodon.social/@myexpenses/108809607824665506) Icons for categories 2.0
 
 3.4.32022-08-01
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/73#column-19080863) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/108747302097004279) Customize: Export to CSV. Export to JSON 2.0
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/73#column-19080863) [![](/visuals/mastodon.png)](https://mastodon.social/@myexpenses/108747302097004279) Customize: Export to CSV. Export to JSON 2.0
 
 3.4.22022-07-20
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/71#column-18889056) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/108646207090890572) Web User Interface 2.0
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/71#column-18889056) [![](/visuals/mastodon.png)](https://mastodon.social/@myexpenses/108646207090890572) Web User Interface 2.0
 
 3.4.12022-06-10
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/69#column-18649612) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/108453949261184111) Split transaction: Refinement of the user interface. Split parts: Original amount
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/69#column-18649612) [![](/visuals/mastodon.png)](https://mastodon.social/@myexpenses/108453949261184111) Split transaction: Refinement of the user interface. Split parts: Original amount
 
 3.4.02022-05-23
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/70#column-18752877) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/108345073884573364) Notes field allows multiple lines. Bug fixes: Synchronization
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/70#column-18752877) [![](/visuals/mastodon.png)](https://mastodon.social/@myexpenses/108345073884573364) Notes field allows multiple lines. Bug fixes: Synchronization
 
 3.3.92022-05-06
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/67#column-18533219) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/108256043745255728) Purge old backups. Share exports and backups: HTTP
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/67#column-18533219) [![](/visuals/mastodon.png)](https://mastodon.social/@myexpenses/108256043745255728) Purge old backups. Share exports and backups: HTTP
 
 3.3.82022-04-19
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/65#column-17887806) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/108159979078178826) Arbitrarily deep category hierarchy. Budgeting: Refinement of the user interface
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/65#column-17887806) [![](/visuals/mastodon.png)](https://mastodon.social/@myexpenses/108159979078178826) Arbitrarily deep category hierarchy. Budgeting: Refinement of the user interface
 
 3.3.72022-03-02
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/64#column-17809661) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/107877987796717018) Synchronization - Setup: Refinement of the user interface.
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/64#column-17809661) [![](/visuals/mastodon.png)](https://mastodon.social/@myexpenses/107877987796717018) Synchronization - Setup: Refinement of the user interface.
 
 3.3.62022-02-07
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/61#column-17032814) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/107745551599621121) Share debt summary. Tags for split parts.
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/61#column-17032814) [![](/visuals/mastodon.png)](https://mastodon.social/@myexpenses/107745551599621121) Share debt summary. Tags for split parts.
 
 3.3.52021-12-11
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/58#column-16107025) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/107389729386210664) Debt management 2.0. Export: JSON. Scan receipt (Chinese, Devanagari, Japanese, Korean)
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/58#column-16107025) [![](/visuals/mastodon.png)](https://mastodon.social/@myexpenses/107389729386210664) Debt management 2.0. Export: JSON. Scan receipt (Chinese, Devanagari, Japanese, Korean)
 
 3.3.42021-09-25
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/57#column-15356254) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/106976016336053121) Debt management
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/57#column-15356254) [![](/visuals/mastodon.png)](https://mastodon.social/@myexpenses/106976016336053121) Debt management
 
 3.3.32021-07-09
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/55#column-14888706) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/106547283868308478) Exchange Rate Provider: https://exchangerate.host. In addition to local storage on the device, the backup file can be copied to a remote backend.
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/55#column-14888706) [![](/visuals/mastodon.png)](https://mastodon.social/@myexpenses/106547283868308478) Exchange Rate Provider: https://exchangerate.host. In addition to local storage on the device, the backup file can be copied to a remote backend.
 
 3.3.22021-06-15
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/54#column-14601926) Translation: Telugu. Currency: Refinement of the user interface.
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/54#column-14601926) Translation: Telugu. Currency: Refinement of the user interface.
 
 3.3.12021-05-31
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/52#column-14150674) Settings - Autofill: Refinement of the user interface.
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/52#column-14150674) Settings - Autofill: Refinement of the user interface.
 
 3.3.02021-04-30
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/50#column-13929647) CSV import: Tags. Active Tags.
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/50#column-13929647) CSV import: Tags. Active Tags.
 
 3.2.92021-04-18
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/49#column-13853714) Duplicate parties can be merged. Remaining amount in split transactions can be copied to clipboard.
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/49#column-13853714) Duplicate parties can be merged. Remaining amount in split transactions can be copied to clipboard.
 
 3.2.82021-04-09
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/48#column-13591495) Account widget can be configured to display single account and to take future transactions into account. Show total amount of selected transactions.
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/48#column-13591495) Account widget can be configured to display single account and to take future transactions into account. Show total amount of selected transactions.
 
 3.2.72021-04-02
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/47#column-13500972) Two existing transactions can be linked as transfer.
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/47#column-13500972) Two existing transactions can be linked as transfer.
 
 3.2.62021-03-20
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/46#column-13353640) Transactions can repeat on last day of month.
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/46#column-13353640) Transactions can repeat on last day of month.
 
 3.2.52021-03-12
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/44#column-13183753) CSV import: Autofill
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/44#column-13183753) CSV import: Autofill
 
 3.2.42021-02-22
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/42#column-12850531) Web User Interface
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/42#column-12850531) Web User Interface
 
 3.2.32021-01-30
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/41#column-12654018) Date button allows quick navigation to previous and next day.
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/41#column-12654018) Date button allows quick navigation to previous and next day.
 
 3.2.22021-01-25
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/38#column-12291166) The sums for expenses, income and transfers in the group headers can be hidden. Calculate the difference between the current balance and a new value. Filter and budgets can be defined for a subset of accounts.
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/38#column-12291166) The sums for expenses, income and transfers in the group headers can be hidden. Calculate the difference between the current balance and a new value. Filter and budgets can be defined for a subset of accounts.
 
 3.2.12020-12-21
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/37#column-11936721) Text recognition now works with more languages.
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/37#column-11936721) Text recognition now works with more languages.
 
 3.2.02020-12-05
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/36#column-11936717) Images can be cropped.
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/36#column-11936717) Images can be cropped.
 
 3.1.92020-11-29
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/33#column-11450748) Refinement of the user interface.
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/33#column-11450748) Refinement of the user interface.
 
 3.1.82020-11-19
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/35#column-11734963) Default click action can be defined per template.
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/35#column-11734963) Default click action can be defined per template.
 
 3.1.72020-11-14
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/34#column-11664847) Templates can be loaded from transaction form.
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/34#column-11664847) Templates can be loaded from transaction form.
 
 3.1.62020-10-30
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/32#column-11377778) Save button in transaction form is more salient. Long press on the floating action button opens a menu that allows to prepare the form for transfer, split transaction or income.
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/32#column-11377778) Save button in transaction form is more salient. Long press on the floating action button opens a menu that allows to prepare the form for transfer, split transaction or income.
 
 3.1.52020-10-22
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/31#column-11152071) Dark theme linked to system default. Refinement of the user interface.
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/31#column-11152071) Dark theme linked to system default. Refinement of the user interface.
 
 3.1.42020-10-03
 
-[![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/30#column-10686300) Scan receipt.
+[![](/visuals/github.ico)](https://github.com/mtotschnig/MyExpenses/projects/30#column-10686300) Scan receipt.
 
 3.1.32020-08-21
 
