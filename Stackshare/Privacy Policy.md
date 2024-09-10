@@ -1,11 +1,9 @@
 [](https://stackshare.io/)
 
-Community
+[Tools](https://stackshare.io/tools/trending)
 
-[](https://stackshare.io/enterprise)
+[Stacks](https://stackshare.io/stacks)
 
-[](https://stackshare.io/enterprise)Enterprise
-
-[Tech Stack File](https://stackshare.io/tech-stack-file)
+[Comparisons](https://stackshare.io/stackups)
 
 Sign up/Login
