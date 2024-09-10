@@ -27,12 +27,11 @@
     
     For installers
     
-    [System builder](https://enphase.com/installers/systems) [System estimator](https://estimator.enphase.com/) [Module calculator](https://enphase.com/installers/microinverters/calculator) [Become an installer](https://enphase.com/installers/signup)
+    [System builder](https://enphase.com/installers/systems) [System estimator](https://estimator.enphase.com/) [Module calculator](https://enphase.com/installers/microinverters/calculator)
     
 * [](javascript:void(0);)
 * [ESG](https://enphase.com/company/sustainability)
 * [ClipperCreek Landing Page](https://enphase.com/ev-chargers/clippercreek)
-* [ESG](https://enphase.com/company/sustainability)
 
 [](#)
 
@@ -254,37 +253,52 @@ We reserve the right to confirm your residence to process your requests and will
 
 The chart below summarizes our relevant data practices during the 12 months preceding the effective date of this Privacy Policy. Categories in the chart refer to the categories described above in the general section of this Privacy Policy.
 
-| Personal information we collected | Personal information source | Purpose for personal information collection | Categories of third parties to whom we “Disclose” the personal information for a business purpose | Categories of third parties to whom we “Sell” or “Share” the personal information |
-| --- | --- | --- | --- | --- |
-| Personal information we collected | Personal information source | Purpose for personal information collection | Categories of third parties to whom we “Disclose” the personal information for a business purpose | Categories of third parties to whom we “Sell” or “Share” the personal information |
-| --- | --- | --- | --- | --- |
-| Personal information we collected | Personal information source | Purpose for personal information collection | Categories of third parties to whom we “Disclose” the personal information for a business purpose | Categories of third parties to whom we “Sell” or “Share” the personal information |
-| --- | --- | --- | --- | --- |
-| Personal information we collected | Personal information source | Purpose for personal information collection | Categories of third parties to whom we “Disclose” the personal information for a business purpose | Categories of third parties to whom we “Sell” or “Share” the personal information |
-| --- | --- | --- | --- | --- |
-| Personal information we collected | Personal information source | Purpose for personal information collection | Categories of third parties to whom we “Disclose” the personal information for a business purpose | Categories of third parties to whom we “Sell” or “Share” the personal information |
-| --- | --- | --- | --- | --- |
-| Personal information we collected | Personal information source | Purpose for personal information collection | Categories of third parties to whom we “Disclose” the personal information for a business purpose | Categories of third parties to whom we “Sell” or “Share” the personal information |
-| --- | --- | --- | --- | --- |
-| Personal information we collected | Personal information source | Purpose for personal information collection | Categories of third parties to whom we “Disclose” the personal information for a business purpose | Categories of third parties to whom we “Sell” or “Share” the personal information |
-| --- | --- | --- | --- | --- |
-| Personal information we collected | Personal information source | Purpose for personal information collection | Categories of third parties to whom we “Disclose” the personal information for a business purpose | Categories of third parties to whom we “Sell” or “Share” the personal information |
-| --- | --- | --- | --- | --- |
 | **Category of personal information:** [**Identifiers**](https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=201720180SB1121&showamends=false) |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| Personal information we collected | Personal information source | Purpose for personal information collection | Categories of third parties to whom we “Disclose” the personal information for a business purpose | Categories of third parties to whom we “Sell” or “Share” the personal information |
+| --- | --- | --- | --- | --- |
 | * Business and personal contact information<br>* Content<br>* Registration information<br>* Feedback or correspondence<br>* Demographic information<br>* Other information | * You<br>* Social media platforms<br>* Third parties<br>* Referrals | * To operate the Service<br>* For research and development<br>* To send you marketing and promotional communications<br>* To comply with law<br>* For protection of rights, fraud prevention, and safety<br>* To create anonymous, aggregated or de-identified data | * Affiliates<br>* Service providers<br>* Third party energy providers<br>* Installers and their partners<br>* Other users of the Service and the public with your consent<br>* Professional advisors<br>* Governmental authorities / private parties<br>* Business transferees | * Developers using our API<br>* Advertising partners (to facilitate online advertising)<br>* Installers or their partners |
+
 | **Category of personal information:** [**Online Identifiers**](https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=201720180SB1121&showamends=false) |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| Personal information we collected | Personal information source | Purpose for personal information collection | Categories of third parties to whom we “Disclose” the personal information for a business purpose | Categories of third parties to whom we “Sell” or “Share” the personal information |
+| --- | --- | --- | --- | --- |
 | * Usage information<br>* Device data | * Automatic data collection | * To operate the Service<br>* For research and development<br>* To send you marketing and promotional communications<br>* To display advertisements<br>* To comply with law<br>* For protection of rights, fraud prevention, and safety<br>* To create anonymous, aggregated or de-identified data | * Affiliates<br>* Service providers<br>* Professional advisors<br>* Governmental authorities / private parties<br>* Business transferees | * Advertising partners (to facilitate online advertising) |
+
 | **Category of personal information:** [**Commercial Information**](https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=201720180SB1121&showamends=false) |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| Personal information we collected | Personal information source | Purpose for personal information collection | Categories of third parties to whom we “Disclose” the personal information for a business purpose | Categories of third parties to whom we “Sell” or “Share” the personal information |
+| --- | --- | --- | --- | --- |
 | * Solar information<br>* Site information<br>* Financial information<br>* Transaction information<br>* Usage information | * You<br>* Third parties<br>* Products | * To operate the Service<br>* For research and development<br>* To send you marketing and promotional communications<br>* To comply with law<br>* For protection of rights, fraud prevention, and safety<br>* To create anonymous, aggregated or de-identified data | * Affiliates<br>* Service providers<br>* Professional advisors<br>* Governmental authorities / private parties<br>* Business transferees<br>* Third party energy providers<br>* Installers and their partners | * Developers using our API<br>* Installers or their partners |
+
 | **Category of personal information:** [**Financial Information**](https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=201720180SB1121&showamends=false) |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| Personal information we collected | Personal information source | Purpose for personal information collection | Categories of third parties to whom we “Disclose” the personal information for a business purpose | Categories of third parties to whom we “Sell” or “Share” the personal information |
+| --- | --- | --- | --- | --- |
 | * Financial information<br>* Transaction information | * You<br>* Third parties | * To operate the Service<br>* To comply with law<br>* For protection of rights, fraud prevention, and safety | * Affiliates<br>* Service providers<br>* Professional advisors<br>* Governmental authorities / private parties<br>* Business transferees | * None |
+
 | **Category of personal information:** [**Internet or Network Information**](https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=201720180SB1121&showamends=false) |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| Personal information we collected | Personal information source | Purpose for personal information collection | Categories of third parties to whom we “Disclose” the personal information for a business purpose | Categories of third parties to whom we “Sell” or “Share” the personal information |
+| --- | --- | --- | --- | --- |
 | * Usage data<br>* Device data | * Automatic data collection | * To operate the Service<br>* For research and development<br>* To send you marketing and promotional communications<br>* To comply with law<br>* For protection of rights, fraud prevention, and safety<br>* To create anonymous, aggregated or de-identified data | * Affiliates<br>* Service providers<br>* Professional advisors<br>* Governmental authorities / private parties<br>* Business transferees | * Advertising partners (to facilitate online advertising) |
+
 | **Category of personal information:** [**Inferences**](https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=201720180SB1121&showamends=false) |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| Personal information we collected | Personal information source | Purpose for personal information collection | Categories of third parties to whom we “Disclose” the personal information for a business purpose | Categories of third parties to whom we “Sell” or “Share” the personal information |
+| --- | --- | --- | --- | --- |
 | May be derived from your:<br><br>* Content<br>* Profile information<br>* Registration information<br>* Feedback or correspondence<br>* Demographic information<br>* Solar information<br>* Financial information<br>* Transaction information<br>* Usage information<br>* Device data<br>* Online identifiers | * You<br>* Third parties | * To operate the Service<br>* For research and development<br>* To send you marketing and promotional communications<br>* To display advertisements<br>* To comply with law<br>* For protection of rights, fraud prevention and safety | * Affiliates<br>* Service providers<br>* Professional advisors | * None |
+
 | **Category of personal information:** [**Professional or Employment Information Relating to Installers**](https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=201720180SB1121&showamends=false) |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| Personal information we collected | Personal information source | Purpose for personal information collection | Categories of third parties to whom we “Disclose” the personal information for a business purpose | Categories of third parties to whom we “Sell” or “Share” the personal information |
+| --- | --- | --- | --- | --- |
 | May be derived from your:<br><br>* Business and personal contact information<br>* Content you choose to upload to the Service<br>* Transaction information | * You<br>* Third Parties | * To operate the Service<br>* To send you marketing and promotional communications<br>* To comply with law<br>* For protection of rights, fraud prevention, and safety<br>* To create anonymous, aggregated or de identified data | * Enphase customers (specifically, home owners)<br>* Affiliates<br>* Service providers<br>* Professional advisors<br>* Governmental authorities / private parties<br>* Business transferees | * None |
+
 | **Category of personal information:** [**Protected Classification Characteristics**](https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=201720180SB1121&showamends=false) |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| Personal information we collected | Personal information source | Purpose for personal information collection | Categories of third parties to whom we “Disclose” the personal information for a business purpose | Categories of third parties to whom we “Sell” or “Share” the personal information |
+| --- | --- | --- | --- | --- |
 | May be derived from your:<br><br>* We do not systematically intentionally collect this information but it may be revealed in identity data or other information we collect | * N/A | * N/A | * N/A | * N/A |
 
 ### Important information for European Economic Area residents
@@ -404,6 +418,8 @@ Products and services
 
 [Installer Network Terms & Conditions](https://enphase.com/legal/installer-network-terms-conditions)
 
+[Labor Protection Program](https://enphase.com/legal/labor-protection-program)
+
 [Permit Assistance & Design Review Services Terms & Conditions](https://enphase.com/legal/permit-assistance-design-review-services-terms-conditions)
 
 [SGIP Incentive Assistance Terms & Conditions](https://enphase.com/legal/sgip-incentive-assistance-terms-conditions)
@@ -452,6 +468,8 @@ Privacy
 
 [Cookie Policy](https://enphase.com/legal/cookie-policy)
 
+[Tesla Vehicle Data Processing Terms and Conditions](https://enphase.com/legal/tesla-vehicle-data-processing-terms-and-conditions)
+
 Sales
 
 [Sales Terms and Conditions](https://enphase.com/legal/sales-terms-and-conditions)
@@ -464,9 +482,15 @@ Sales
 
 [365 Pronto Customer Platform Services Agreement](https://enphase.com/legal/365-pronto-customer-platform-services-agreement)
 
+Enphase Care
+
+[Enphase Care Services Agreement](https://enphase.com/legal/enphase-care-services-agreement)
+
 Solargraf Terms of Use
 
-[United States, Canada, Puerto Rico](https://enphase.com/legal/united-states-canada-puerto-rico)
+[United States, Canada, Puerto Rico](https://enphase.com/legal/solargraf-terms-united-states-canada-puerto-rico)
+
+[Australia and New Zealand](https://enphase.com/legal/solargraf-terms-australia-and-new-zealand)
 
 [Brazil](https://enphase.com/legal/solargraf-terms-brazil)
 
@@ -479,6 +503,8 @@ Solargraf Terms of Use
 [Belgium (Dutch)](https://enphase.com/legal/solargraf-terms-belgium-dutch)
 
 [Belgium (French)](https://enphase.com/legal/solargraf-terms-belgium-french)
+
+[India](https://enphase.com/legal/solargraf-terms-india)
 
 [Philippines](https://enphase.com/legal/solargraf-terms-philippines)
 
@@ -629,12 +655,13 @@ Your session expired. Please login again to continue to purchase.
     * [NEM 3.0](https://enphase.com/installers/nem3)
     * [Commercial](https://enphase.com/installers/commercial)
     * [Critical updates](https://enphase.com/installers/updates)
-    * [Storage](https://enphase.com/installers/storage)
+    * [Storage](https://enphase.com/installers/storage/gen2)
     
 * Support
     
     * [Homeowners](https://enphase.com/support/homeowners)
     * [Installers](https://enphase.com/support/installers)
+    * [SunPower](https://enphase.com/support/sunpower)
     * [Enphase Community](https://support.enphase.com/s/community-home)
     * [Training events](https://enphase.com/installers/training/events)
     * [Warranty and labor](https://enphase.com/installers/resources/warranty)
