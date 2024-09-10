@@ -276,7 +276,3 @@ General Provisions
     
 
 © Copyright Adscore Technologies DMCC 2024. All content and images are copyrighted.
-
-Get in touch
-
-Get to see how Adscore works
