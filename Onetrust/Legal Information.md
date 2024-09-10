@@ -283,9 +283,9 @@ Your partner in trust transformation
 
 ### Resources
 
-* [The ultimate consent strategy for maximizing customer opt-ins in 2024](https://www.onetrust.com/resources/the-ultimate-consent-strategy-for-maximizing-customer-opt-ins-in-2024-webinar/)
-* [Privacy and AI: Bridging the divide](https://www.onetrust.com/resources/privacy-and-ai-bridging-the-divide-webinar/)
-* [OneTrust data privacy maturity self-assessment](https://www.onetrust.com/resources/onetrust-data-privacy-maturity-self-assessment/)
+* [From reactive to proactive: Transforming your ethics & compliance program](https://www.onetrust.com/resources/from-reactive-to-proactive-transforming-your-ethics-and-compliance-program-webinar/)
+* [PDPL and third-party risk](https://www.onetrust.com/resources/pdpl-and-third-party-risk-webinar/)
+* [Navigating the intersection: Third-party risk management in South Africa's evolving data landscape](https://www.onetrust.com/resources/navigating-third-party-risk-management-in-south-africa-webinar/)
 
 ### Platform
 
@@ -304,9 +304,9 @@ Your partner in trust transformation
 
 ### Latest News
 
-* [OneTrust Appoints Former VMware and Docker Executive Roger Egan to Lead Worldwide Sales](https://www.onetrust.com/news/onetrust-appoints-roger-egan-to-lead-worldwide-sales/)
-* [Newsroom | Awards](https://www.onetrust.com/news/awards/)
-* [OneTrust Reaches New Heights with Recent Awards and Accolades](https://www.onetrust.com/news/onetrust-reaches-new-heights-with-recent-awards-and-accolades/)
+* [24i Deploys OneTrust to Tailor Consumer Consent that Balances Personalized Ads and Privacy](https://www.onetrust.com/news/24i-deploys-onetrust-to-tailor-consumer-consent-that-balances-personalized-ads-and-viewer-privacy/)
+* [OneTrust on Track to Surpass $500M in ARR as Demand for Responsible Data and AI Solutions Skyrockets](https://www.onetrust.com/news/onetrust-trustweek-2024-momentum/)
+* [OneTrust Named Winner in the 12th Annual Global InfoSec Awards at RSA Conference 2024](https://www.onetrust.com/news/onetrust-named-winner-in-annual-global-infosec-awards-at-rsa-conference-2024/)
 
 ### Contact Us
 
