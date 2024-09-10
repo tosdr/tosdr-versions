@@ -29,9 +29,11 @@ We therefore reserve the right to change or update information and to correct er
 
 **Content**
 
+Our Service is and always has been a site for Photography topics and content.
+
 Our Service allows you to post, link, store, share and otherwise make available certain information, text, graphics, or other material ("Content"). You are responsible for the Content that you post on or through the Service, including its ownership, legality, reliability, and appropriateness.
 
-By posting Content on or through the Service, You represent and warrant that: (i) the Content is yours (you own it) and/or you have the right to use it and the right to grant us the rights and license as provided in these Terms, and (ii) that the posting of your Content on or through the Service does not violate the privacy rights, publicity rights, copyrights, contract rights or any other rights of any person or entity. We reserve the right to terminate the account of anyone found to be infringing on a copyright.
+By posting Content on or through the Service, You represent and warrant that: (i) the Content is yours (you own it) and you have the right to use it and the right to grant us the rights and license as provided in these Terms, and (ii) that the posting of your Content on or through the Service does not violate the privacy rights, publicity rights, copyrights, contract rights or any other rights of any person or entity, and (iii) the content is not advertising or marketing material and (iv) the content is not pornography and (v) nude and erotic images must be placed only in the Nude and Erotic Gallery. We reserve the right to determine what is advertising, marketing, pornography, nude and erotic content. We reserve the right to terminate the account of anyone found to be infringing on Content Violations (i) to (v) inclusive.
 
 In addition, links may be made to work not your own for the purpose of commentary or exposition.  You agree that the original image will not be posted directly to PHOTO.NET and understand that any such visible image content may be removed by PN staff without notice.  Displayed video through streaming services is permitted as long as it does not violate any other provision of this agreement.
 
@@ -43,13 +45,27 @@ In addition, Content developed by PHOTO.NET and its assigns for use on the websi
 
 **Accounts**
 
-When you create an account with us, you guarantee that you are above the age of 18, and that the information you provide us is accurate, complete, and current always. Inaccurate, incomplete, or obsolete information may result in the immediate termination of your account on the Service.
+When you create your account with us, you guarantee that you are above the age of 18, and that the information you provide us is accurate, complete, and current always. Inaccurate, incomplete, or obsolete information may result in the immediate termination of your account on the Service.
 
-You are responsible for maintaining the confidentiality of your account and password, including but not limited to the restriction of access to your computer and/or account. You agree to accept responsibility for any and all activities or actions that occur under your account and/or password, whether your password is with our Service or a third-party service. You must notify us immediately upon becoming aware of any breach of security or unauthorized use of your account.
+You are responsible for maintaining the confidentiality of your account and password, including but not limited to the restriction of access to your computer and/or account. You agree to accept responsibility for any and all activities or actions that occur under your account and/or password, whether your password is with our Service or a third-party service. You may only have one account. You must notify us immediately upon becoming aware of any breach of security or unauthorized use of your account.
 
-You may not use as a username the name of another person or entity or that is not lawfully available for use, a name or trademark that is subject to any rights of another person or entity other than you, without appropriate authorization. You may not use as a username any name that is offensive, vulgar or obscene.  You also agree not to falsely use a title or other information that might misrepresent being an Administrator, Moderator, or other PHOTO.NET staff member.
+You may not use as a username the name of another person or entity or that is not lawfully available for use, a name or trademark that is subject to any rights of another person or entity other than you. You may not use as a username any name that is offensive, vulgar or obscene. You may not use as a username that acts to advertise a business. You also agree not to falsely use a title or other information that might misrepresent being an Administrator, Moderator, or other PHOTO.NET staff member.
 
 We reserve the right to refuse service, terminate accounts, remove or edit content, or apply moderation actions at our sole discretion.
+
+**User Guidelines**
+
+Topics beyond the scope of the individual Forum titles are not permitted. If you are unsure of the best forum to post, just select the best fit a moderator may move it to a better fit. If in doubt ask a moderator.
+
+Topics, or to move a conversation to a topics which are not Photography related, is not permitted. Examples of non permitted topics and discussions with main themes being: Religion, Politics, Business, etc. This list is not exhaustive.
+
+Moderators at times will provide guidance, post forum rules, modify and/or edit content.
+
+User Guidelines provided by moderators must be adhered and no discussion of moderator actions is to take place in forums.
+
+If a member requires clarification of a moderator’s action or guideline then the member should contact the moderator by personal message        
+
+Commentary should generally follow the title and the opening post. Rebuff commentary is to be contained to the topic being discussed. Offensive, derogatory, person attack, racist, sexist, ageist comments, and the like, are not allowed.   
 
 **Intellectual Property**
 
