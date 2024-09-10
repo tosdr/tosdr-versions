@@ -1,46 +1,73 @@
 [![Rapid7 Home](/Areas/Docs/includes/img/r7-nav/Rapid7_logo.svg)](https://www.rapid7.com/)
 
+* Platform
+    
+    * TECHNOLOGY
+        
+        The Rapid7 Command Platform
+        
+        AI-Powered Cybersecurity Platform
+        
+        [Explore](https://www.rapid7.com/platform/)
+        
+    
+    * PLATFORM
+    * [Platform
+        
+        ELITE TECHNOLOGY](https://www.rapid7.com/platform/)
+    * [AI-Engine
+        
+        INTELLIGENT TOOLS](https://www.rapid7.com/info/ai-hub-page/)
+    * [Rapid7 Labs
+        
+        TRUSTED INTELLIGENCE](https://www.rapid7.com/research/)
+    
+    * SOLUTIONS
+    * [Managed Threat Complete
+        
+        RISK-AWARE MDR](https://www.rapid7.com/services/managed-detection-and-response-mdr/)
+    * [Surface Command
+        
+        ATTACK SURFACE MANAGEMENT](https://www.rapid7.com/products/command/attack-surface-management-asm/)
+    * [Exposure Command
+        
+        EXPOSURE MANAGEMENT](https://www.rapid7.com/products/command/exposure-management/)
+    
 * [Products](https://www.rapid7.com/products/)
     
-    * NEW
+    * NEW!
         
-        Cloud Migration with Unlimited Risk Coverage
+        Exposure Command
         
-        Cloud Risk Complete
+        Take Command of Your Attack Surface
         
-        [Explore Offer](https://www.rapid7.com/solutions/unified-cloudsec-vm-appsec/)
+        [Request Demo](https://www.rapid7.com/products/command/request-demo/)
         
     
-    * Insight Platform Solutions
+    * DETECTION & RESPONSE
     * [Next-Gen SIEM
         
         INSIGHTIDR](https://www.rapid7.com/products/insightidr/)
-    * [Cloud Security
-        
-        INSIGHTCLOUDSEC](https://www.rapid7.com/products/insightcloudsec/)
-    * [Vulnerability Management
-        
-        INSIGHTVM](https://www.rapid7.com/products/insightvm/)
     * [Threat Intelligence
         
         THREAT COMMAND](https://www.rapid7.com/products/threat-command/)
-    * [Dynamic Application Security Testing
+    
+    * EXPOSURE MANAGEMENT
+    * [Exposure Management
+        
+        EXPOSURE COMMAND](https://www.rapid7.com/products/command/exposure-management/)
+    * [Attack Surface Management
+        
+        SURFACE COMMAND](https://www.rapid7.com/products/command/attack-surface-management-asm/)
+    * [Vulnerability Management
+        
+        INSIGHTVM](https://www.rapid7.com/products/insightvm/)
+    * [Cloud-Native Application Protection
+        
+        INSIGHTCLOUDSEC](https://www.rapid7.com/products/insightcloudsec/)
+    * [Application Security Testing
         
         INSIGHTAPPSEC](https://www.rapid7.com/products/insightappsec/)
-    * [Orchestration & Automation (SOAR)
-        
-        INSIGHTCONNECT](https://www.rapid7.com/products/insightconnect/)
-    
-    * More Solutions
-    * [Penetration Testing
-        
-        METASPLOIT](https://www.rapid7.com/products/metasploit/)
-    * [On-Prem Vulnerability Management
-        
-        NEXPOSE](https://www.rapid7.com/products/nexpose/)
-    * [Digital Forensics and Incident Response (DFIR)
-        
-        Velociraptor](https://www.rapid7.com/products/velociraptor/)
     
 * [Services](https://www.rapid7.com/services/)
     
@@ -53,69 +80,72 @@
         [Request Demo](https://www.rapid7.com/solutions/unified-mdr-xdr-vm/get-started/)
         
     
-    * MANAGED SERVICES
+    * DETECTION & RESPONSE
     * [Managed Detection and Response
         
         MANAGED THREAT COMPLETE](https://www.rapid7.com/services/managed-detection-and-response-mdr/)
-    * [Managed Vulnerability Management
+    * [Incident Response Services
         
-        PERFECTLY OPTIMIZED RISK ASSESSMENT](https://www.rapid7.com/services/managed-services/vulnerability-management/)
-    * [Managed Application Security
-        
-        SCAN MANAGEMENT & VULNERABILITY VALIDATION](https://www.rapid7.com/services/managed-services/managed-appsec/)
+        EXPERIENCING A BREACH?](https://www.rapid7.com/services/incident-response-customer-escalation/)
     
     * OTHER SERVICES
-    * [Product Consulting
+    * [Managed Vulnerability Management
         
-        QUICK-START & CONFIGURATION](https://www.rapid7.com/services/product-consulting/)
-    * [Training & Certification
+        OPTIMIZED RISK ASSESSMENT](https://www.rapid7.com/services/managed-services/vulnerability-management/)
+    * [Managed Application Security
         
-        SKILLS & ADVANCEMENT](https://www.rapid7.com/services/training-certification/)
-    * [Penetration Testing
+        MANAGED DAST](https://www.rapid7.com/services/managed-services/managed-appsec/)
+    * [Penetration Testing Services
         
-        TEST YOUR DEFENSES IN REAL-TIME](https://www.rapid7.com/services/security-consulting/penetration-testing-services/)
-    * [IoT Security Testing
-        
-        SECURE EVERYTHING CONNECTED TO A CONNECTED WORLD](https://www.rapid7.com/services/security-consulting/iot-security-services/)
-    * [Premium Support
-        
-        PRIORITY HELP & FASTER SOLUTIONS](https://www.rapid7.com/services/premium-support/)
+        TEST YOUR DEFENSES](https://www.rapid7.com/services/security-consulting/penetration-testing-services/)
     
-* Support & Resources
+* Resources
     
-    * SUPPORT
-    * [Support Portal
+    * NEW
         
-        CONTACT CUSTOMER SUPPORT](https://www.rapid7.com/for-customers/)
-    * [Product Documentation
+        The 2024 Attack Intelligence Report
         
-        EXPLORE PRODUCT GUIDES](https://docs.rapid7.com/)
-    * [Release Notes
+        Read the latest research by Rapid7 Labs
         
-        DISCOVER THE LATEST PRODUCT UPDATES](https://docs.rapid7.com/release-notes/)
-    * [Contact Us
+        [READ NOW](https://www.rapid7.com/research/report/2024-attack-intelligence-report/)
         
-        TALK TO SALES](https://www.rapid7.com/contact/)
     
-    * RESOURCES
-    * [Fundamentals
+    * STAY CURRENT
+    * [About Rapid7 Labs
         
-        FOUNDATIONAL SECURITY KNOWLEDGE](https://www.rapid7.com/fundamentals/)
-    * [Blog
+        MEET THE RESEARCH TEAM](https://www.rapid7.com/research/)
+    * [Events & Webinars
         
-        THE LATEST INDUSTRY NEWS AND SECURITY EXPERTISE](https://www.rapid7.com/blog/)
+        CATCH US LIVE](https://www.rapid7.com/about/events-webcasts/)
     * [Resources Library
         
-        E-BOOKS, WHITE PAPERS, VIDEOS & BRIEFS](https://www.rapid7.com/resources/)
-    * [Extensions Library
+        DIVE INTO THE DETAILS](https://www.rapid7.com/resources/)
+    * [The Rapid7 Blog
         
-        PLUGINS, INTEGRATIONS & DEVELOPER COMMUNITY](https://extensions.rapid7.com/)
-    * [Webcasts & Events
+        STAY UP-TO-DATE](https://www.rapid7.com/blog/)
+    * [Exploit Database
         
-        UPCOMING OPPORTUNITIES TO CONNECT WITH US](https://www.rapid7.com/about/events-webcasts/)
-    * [Vulnerability & Exploit Database
+        SEARCH THOUSANDS OF CVES](https://www.rapid7.com/db/)
+    * [Cybersecurity Fundamentals
         
-        SEARCH THE LATEST SECURITY RESEARCH](https://www.rapid7.com/db/)
+        LEARN THE BASICS](https://www.rapid7.com/fundamentals/)
+    
+    * PRODUCT SUPPORT
+    * [Contact Sales
+        
+        TALK TO AN EXPERT](https://www.rapid7.com/contact/)
+    * [Customer Support Portal
+        
+        CONTACT SUPPORT](https://www.rapid7.com/for-customers/)
+    * [Product Integrations
+        
+        CONNECT EVERYTHING](https://extensions.rapid7.com/)
+    * [Product Documentation
+        
+        PRODUCT AND SERVICES GUIDES](https://docs.rapid7.com/)
+    * [Product Release Notes
+        
+        LATEST FEATURES](https://docs.rapid7.com/release-notes/)
     
 * [Company](https://www.rapid7.com/about/company/)
     
@@ -162,7 +192,7 @@
         
         Our Partnership](https://www.rapid7.com/about/rapid7-cybersecurity-partner-boston-bruins/)
     
-* [RESEARCH](https://www.rapid7.com/research/)
+* [Partners](https://www.rapid7.com/partners/)
 * [en](#)
     
     * [English](#)
@@ -176,47 +206,74 @@
 
 [![Rapid7 Home](/Areas/Docs/includes/img/r7-nav/Rapid7_logo.svg)](https://www.rapid7.com/)
 
+* Platform
+    
+    * TECHNOLOGY
+        
+        The Rapid7 Command Platform
+        
+        AI-Powered Cybersecurity Platform
+        
+        [Explore](https://www.rapid7.com/platform/)
+        
+    
+    * PLATFORM
+    * [Platform
+        
+        ELITE TECHNOLOGY](https://www.rapid7.com/platform/)
+    * [AI-Engine
+        
+        INTELLIGENT TOOLS](https://www.rapid7.com/info/ai-hub-page/)
+    * [Rapid7 Labs
+        
+        TRUSTED INTELLIGENCE](https://www.rapid7.com/research/)
+    
+    * SOLUTIONS
+    * [Managed Threat Complete
+        
+        RISK-AWARE MDR](https://www.rapid7.com/services/managed-detection-and-response-mdr/)
+    * [Surface Command
+        
+        ATTACK SURFACE MANAGEMENT](https://www.rapid7.com/products/command/attack-surface-management-asm/)
+    * [Exposure Command
+        
+        EXPOSURE MANAGEMENT](https://www.rapid7.com/products/command/exposure-management/)
+    
 * [Products](https://www.rapid7.com/products/)
     
-    * NEW
+    * NEW!
         
-        Cloud Migration with Unlimited Risk Coverage
+        Exposure Command
         
-        Cloud Risk Complete
+        Take Command of Your Attack Surface
         
-        [Explore Offer](https://www.rapid7.com/solutions/unified-cloudsec-vm-appsec/)
+        [Request Demo](https://www.rapid7.com/products/command/request-demo/)
         
     
-    * Insight Platform Solutions
+    * DETECTION & RESPONSE
     * [Next-Gen SIEM
         
         INSIGHTIDR](https://www.rapid7.com/products/insightidr/)
-    * [Cloud Security
-        
-        INSIGHTCLOUDSEC](https://www.rapid7.com/products/insightcloudsec/)
-    * [Vulnerability Management
-        
-        INSIGHTVM](https://www.rapid7.com/products/insightvm/)
     * [Threat Intelligence
         
         THREAT COMMAND](https://www.rapid7.com/products/threat-command/)
-    * [Dynamic Application Security Testing
+    
+    * EXPOSURE MANAGEMENT
+    * [Exposure Management
+        
+        EXPOSURE COMMAND](https://www.rapid7.com/products/command/exposure-management/)
+    * [Attack Surface Management
+        
+        SURFACE COMMAND](https://www.rapid7.com/products/command/attack-surface-management-asm/)
+    * [Vulnerability Management
+        
+        INSIGHTVM](https://www.rapid7.com/products/insightvm/)
+    * [Cloud-Native Application Protection
+        
+        INSIGHTCLOUDSEC](https://www.rapid7.com/products/insightcloudsec/)
+    * [Application Security Testing
         
         INSIGHTAPPSEC](https://www.rapid7.com/products/insightappsec/)
-    * [Orchestration & Automation (SOAR)
-        
-        INSIGHTCONNECT](https://www.rapid7.com/products/insightconnect/)
-    
-    * More Solutions
-    * [Penetration Testing
-        
-        METASPLOIT](https://www.rapid7.com/products/metasploit/)
-    * [On-Prem Vulnerability Management
-        
-        NEXPOSE](https://www.rapid7.com/products/nexpose/)
-    * [Digital Forensics and Incident Response (DFIR)
-        
-        Velociraptor](https://www.rapid7.com/products/velociraptor/)
     
 * [Services](https://www.rapid7.com/services/)
     
@@ -229,69 +286,72 @@
         [Request Demo](https://www.rapid7.com/solutions/unified-mdr-xdr-vm/get-started/)
         
     
-    * MANAGED SERVICES
+    * DETECTION & RESPONSE
     * [Managed Detection and Response
         
         MANAGED THREAT COMPLETE](https://www.rapid7.com/services/managed-detection-and-response-mdr/)
-    * [Managed Vulnerability Management
+    * [Incident Response Services
         
-        PERFECTLY OPTIMIZED RISK ASSESSMENT](https://www.rapid7.com/services/managed-services/vulnerability-management/)
-    * [Managed Application Security
-        
-        SCAN MANAGEMENT & VULNERABILITY VALIDATION](https://www.rapid7.com/services/managed-services/managed-appsec/)
+        EXPERIENCING A BREACH?](https://www.rapid7.com/services/incident-response-customer-escalation/)
     
     * OTHER SERVICES
-    * [Product Consulting
+    * [Managed Vulnerability Management
         
-        QUICK-START & CONFIGURATION](https://www.rapid7.com/services/product-consulting/)
-    * [Training & Certification
+        OPTIMIZED RISK ASSESSMENT](https://www.rapid7.com/services/managed-services/vulnerability-management/)
+    * [Managed Application Security
         
-        SKILLS & ADVANCEMENT](https://www.rapid7.com/services/training-certification/)
-    * [Penetration Testing
+        MANAGED DAST](https://www.rapid7.com/services/managed-services/managed-appsec/)
+    * [Penetration Testing Services
         
-        TEST YOUR DEFENSES IN REAL-TIME](https://www.rapid7.com/services/security-consulting/penetration-testing-services/)
-    * [IoT Security Testing
-        
-        SECURE EVERYTHING CONNECTED TO A CONNECTED WORLD](https://www.rapid7.com/services/security-consulting/iot-security-services/)
-    * [Premium Support
-        
-        PRIORITY HELP & FASTER SOLUTIONS](https://www.rapid7.com/services/premium-support/)
+        TEST YOUR DEFENSES](https://www.rapid7.com/services/security-consulting/penetration-testing-services/)
     
-* Support & Resources
+* Resources
     
-    * SUPPORT
-    * [Support Portal
+    * NEW
         
-        CONTACT CUSTOMER SUPPORT](https://www.rapid7.com/for-customers/)
-    * [Product Documentation
+        The 2024 Attack Intelligence Report
         
-        EXPLORE PRODUCT GUIDES](https://docs.rapid7.com/)
-    * [Release Notes
+        Read the latest research by Rapid7 Labs
         
-        DISCOVER THE LATEST PRODUCT UPDATES](https://docs.rapid7.com/release-notes/)
-    * [Contact Us
+        [READ NOW](https://www.rapid7.com/research/report/2024-attack-intelligence-report/)
         
-        TALK TO SALES](https://www.rapid7.com/contact/)
     
-    * RESOURCES
-    * [Fundamentals
+    * STAY CURRENT
+    * [About Rapid7 Labs
         
-        FOUNDATIONAL SECURITY KNOWLEDGE](https://www.rapid7.com/fundamentals/)
-    * [Blog
+        MEET THE RESEARCH TEAM](https://www.rapid7.com/research/)
+    * [Events & Webinars
         
-        THE LATEST INDUSTRY NEWS AND SECURITY EXPERTISE](https://www.rapid7.com/blog/)
+        CATCH US LIVE](https://www.rapid7.com/about/events-webcasts/)
     * [Resources Library
         
-        E-BOOKS, WHITE PAPERS, VIDEOS & BRIEFS](https://www.rapid7.com/resources/)
-    * [Extensions Library
+        DIVE INTO THE DETAILS](https://www.rapid7.com/resources/)
+    * [The Rapid7 Blog
         
-        PLUGINS, INTEGRATIONS & DEVELOPER COMMUNITY](https://extensions.rapid7.com/)
-    * [Webcasts & Events
+        STAY UP-TO-DATE](https://www.rapid7.com/blog/)
+    * [Exploit Database
         
-        UPCOMING OPPORTUNITIES TO CONNECT WITH US](https://www.rapid7.com/about/events-webcasts/)
-    * [Vulnerability & Exploit Database
+        SEARCH THOUSANDS OF CVES](https://www.rapid7.com/db/)
+    * [Cybersecurity Fundamentals
         
-        SEARCH THE LATEST SECURITY RESEARCH](https://www.rapid7.com/db/)
+        LEARN THE BASICS](https://www.rapid7.com/fundamentals/)
+    
+    * PRODUCT SUPPORT
+    * [Contact Sales
+        
+        TALK TO AN EXPERT](https://www.rapid7.com/contact/)
+    * [Customer Support Portal
+        
+        CONTACT SUPPORT](https://www.rapid7.com/for-customers/)
+    * [Product Integrations
+        
+        CONNECT EVERYTHING](https://extensions.rapid7.com/)
+    * [Product Documentation
+        
+        PRODUCT AND SERVICES GUIDES](https://docs.rapid7.com/)
+    * [Product Release Notes
+        
+        LATEST FEATURES](https://docs.rapid7.com/release-notes/)
     
 * [Company](https://www.rapid7.com/about/company/)
     
@@ -338,7 +398,7 @@
         
         Our Partnership](https://www.rapid7.com/about/rapid7-cybersecurity-partner-boston-bruins/)
     
-* [RESEARCH](https://www.rapid7.com/research/)
+* [Partners](https://www.rapid7.com/partners/)
 
 * [en](#)
     
@@ -508,13 +568,23 @@ What are cookies and does Rapid7 use them?
 
 Cookies are small data files that are placed on your computer or mobile device when you visit a website. Cookies are widely used by website owners in order to make their websites work, or to work more efficiently, as well as to provide reporting information.
 
-Cookies set by the website owner (in this case, Rapid7) are called "first party cookies". Cookies set by parties other than the website owner are called "third party cookies". Third party cookies enable third party features or functionality to be provided on or through the website (e.g. like advertising, interactive content and analytics). The parties that set these third party cookies can recognize your computer both when it visits the website in question and also when it visits certain other websites.
+Cookies set by the website owner (in this case, Rapid7) are called "first-party cookies". Cookies set by parties other than the website owner are called "third-party cookies". Third-party cookies enable third party features or functionality to be provided on or through the website (e.g. like advertising, interactive content and analytics). The parties that set these third-party cookies can recognize your computer both when it visits the website in question and also when it visits certain other websites. For instance, we use Google Analytics and Google Ads to help analyze how users use our sites. If you would like to opt-out from the use of your information by Google Analytics, you may use [Google Analytics’ opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/) designed for this purpose.
+
+We also may use other third-party tracking technologies, such as pixels to collect or receive information from our sites and elsewhere on the Internet to use such information to enable us to create targeted advertisements and measure the effectiveness of our ads. For additional information on ad targeting and to opt-out of the collection and use of information for ad targeting, please see the paragraph of this Privacy Policy entitled “Interest Based Advertising”.
 
 **How does Rapid7 use them?**
 
-We use first party and third party cookies for several reasons. Some cookies are required for technical reasons in order for our Websites to operate, and we refer to these as "strictly necessary" cookies. Other cookies also enable us to track and target the interests of our users to enhance the experience on our Websites.  Third parties serve cookies through our Websites for advertising, analytics and other purposes. This is described in more detail below.
+We use first-party and third-party cookies for several reasons. Some cookies are required for technical reasons in order for our sites to operate, and we refer to these as "strictly necessary" cookies. Other cookies also enable us to track and target the interests of our users to enhance the experience on our sites. Third parties serve cookies through our sites for advertising, analytics and other purposes. 
 
-To view and control the specific types of first and third party cookies we serve, please visit our [Cookie Preference Centre](https://cookiepedia.co.uk/giving-consent-to-cookies).
+To view and control the specific types of first and third-party cookies we serve, please visit on the Cookie Preferences link at the bottom of this page.
+
+**Interest Based Advertising**
+
+We may collect information about your online activities on our sites to provide you with advertising about products tailored to your individual interests. We also may obtain information for this purpose from third-party websites on which our advertisements are served. 
+
+You may see certain advertisements on other websites because we work with advertising partners (including advertising networks) to engage in remarketing and retargeting activities. Our advertising partners allow us to target our messaging to users through demographic, interest-based and contextual means. These partners track your online activities over time and across websites, including our sites, by collecting information through automated means, including through the use of third-party cookies, web server logs and web beacons. They use this information to show you advertisements that may be tailored to your individual interests. The information our advertising partners may collect includes data about your visits to websites that participate in the relevant advertising networks, such as the pages or advertisements you view and the actions you take on the websites. This data collection takes place both on our sites and on third-party websites that participate in the ad networks. This process also helps us track the effectiveness of our marketing efforts. For example, we utilize certain of our advertising partners’ targeted advertising services to show you our advertisements on other websites based on your prior visits to our sites and other online activity. 
+
+Provided that a company participates in industry-developed programs designed to provide consumers choices about whether to receive targeted advertising, you may opt out of interest-based advertising generally through the Network Advertising Initiative website or by visiting [http://www.aboutads.info/choices/](http://www.aboutads.info/choices/) (web-based advertising) or [http://www.aboutads.info/appchoices](http://www.aboutads.info/appchoices) (for mobile advertising). To learn more, please visit the websites operated by the Network Advertising Initiative and Digital Advertising Alliance at [www.networkadvertising.org/choices](http://www.networkadvertising.org/choices). Opting-out does not mean that you will stop receiving advertisements from us. It means that you still stop receiving advertisements from us that have been targeted to you based on your visits and browsing activity across websites over time.
 
 [Return to top](#top)
 
@@ -761,7 +831,7 @@ Need to report an Escalation or a Breach?
 
 SOLUTIONS
 
-[Insight Platform](https://www.rapid7.com/products/insight-platform/) [Managed Threat Complete](https://www.rapid7.com/services/managed-detection-and-response-mdr/) [Cloud Risk Complete](https://www.rapid7.com/solutions/unified-cloudsec-vm-appsec/)
+[The Command Platform](https://www.rapid7.com/platform/) [Exposure Command](https://www.rapid7.com/products/command/exposure-management/) [Managed Threat Complete](https://www.rapid7.com/services/managed-detection-and-response-mdr/)
 
 SUPPORT & RESOURCES
 
