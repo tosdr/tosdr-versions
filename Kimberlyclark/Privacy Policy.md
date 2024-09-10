@@ -129,8 +129,8 @@ Menu [![Kimberly Clark Logo](/-/media/kimberly/images/navigation/kimberlyclarklo
         * [Memberships](https://www.kimberly-clark.com/en-us/esg/memberships)
     * * [Making Lives Better](https://www.kimberly-clark.com/en-us/esg/making-lives-better)
         * [Social Impact](https://www.kimberly-clark.com/en-us/esg/2030-ambition/esg-article/social-impact)
-        * [Kotex She Can Initiative](https://www.kimberly-clark.com/en-us/responsibility/social-impact/kotex-she-can-initiative)
-        * [Toilets Change Lives](https://www.kimberly-clark.com/en-us/responsibility/social-impact/toilets-change-lives)
+        * [Kotex She Can Initiative](https://www.kimberly-clark.com/en-us/responsibility/kotex-she-can-initiative)
+        * [Toilets Change Lives](https://www.kimberly-clark.com/en-us/responsibility/toilets-change-lives)
         * [Kimberly-Clark Foundation](https://www.kimberly-clark.com/en-us/esg/kc-foundation)
         * [Inclusion and Diversity](https://www.kimberly-clark.com/en-us/esg/inclusion-and-diversity)
     * * [Safeguarding Natural Systems](https://www.kimberly-clark.com/en-us/esg/safeguarding-natural-systems)
@@ -320,9 +320,9 @@ Menu [![Kimberly Clark Logo](/-/media/kimberly/images/navigation/kimberlyclarklo
 
 [Social ImpactSocial Impact](https://www.kimberly-clark.com/en-us/esg/2030-ambition/esg-article/social-impact)
 
-[Kotex She Can InitiativeKotex She Can Initiative](https://www.kimberly-clark.com/en-us/responsibility/social-impact/kotex-she-can-initiative)
+[Kotex She Can InitiativeKotex She Can Initiative](https://www.kimberly-clark.com/en-us/responsibility/kotex-she-can-initiative)
 
-[Toilets Change LivesToilets Change Lives](https://www.kimberly-clark.com/en-us/responsibility/social-impact/toilets-change-lives)
+[Toilets Change LivesToilets Change Lives](https://www.kimberly-clark.com/en-us/responsibility/toilets-change-lives)
 
 [Kimberly-Clark FoundationKimberly-Clark Foundation](https://www.kimberly-clark.com/en-us/esg/kc-foundation)
 
@@ -468,7 +468,7 @@ We are committed to earning and maintaining trust by honoring the following prin
 GLOBAL PRIVACY POLICY
 =====================
 
-Last Updated : 06/28/2024
+Last Updated : 08/01/2024
 
 [](javascript:void(0))
 
@@ -1308,9 +1308,9 @@ Fax: 62-21-29675850
 
 **Malaysia**  
 Kimberly-Clark Trading (M) Sdn. Bhd.  
-2nd Floor, Tower 2, Wisma AmFirst  
-Jalan SS7/15, Kelana Jaya, 47301  
-Petaling Jaya, Selangor, Malaysia  
+12th Floor, Plaza 33, Tower B  
+Jalan Kemajuan, Seksyen 13  
+46200 Petaling Jaya, Selangor, Malaysia  
 Phone: +603 7806 8288  
 Consumer Service Hotline: 1800821188  
 Fax: +603 7492 2577  
