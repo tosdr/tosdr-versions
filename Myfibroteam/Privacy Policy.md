@@ -1,5 +1,3 @@
-                                                       The social network for those living with fibromyalgia. | MyFibroTeam  
-
 Many features of MyFibroTeam will not work unless you enable JavaScript support in your browser.
 
 ![](https://www.myfibroteam.com/assets/fbr/logo_home-ea86f2593a86a527f2af1d138981963e86244573961e35e1f77b2d145888bf18.png)
@@ -7,7 +5,7 @@ Many features of MyFibroTeam will not work unless you enable JavaScript support 
 Connect with others who understand.
 -----------------------------------
 
-[sign up](https://www.myfibroteam.com/users/signup/start) [Log in](https://www.myfibroteam.com/users/sign_in)
+[Sign up](https://www.myfibroteam.com/users/signup/start) [Log in](https://www.myfibroteam.com/users/sign_in)
 
 Quick Links
 
@@ -19,7 +17,7 @@ Resources
 
 About MyFibroTeam
 
-[What is MyFibroTeam](https://www.myfibroteam.com/about) [Terms of use](https://www.myfibroteam.com/about/tos) [Privacy policy](https://www.myfibroteam.com/about/privacy)
+[What is MyFibroTeam](https://www.myfibroteam.com/about) [Terms of Use](https://www.myfibroteam.com/about/tos) [Privacy policy](https://www.myfibroteam.com/about/privacy)
 
 Powered By ![](https://www.myfibroteam.com/assets/mht/mht_text-f99bc3e4bd3961a44af613d3df87db2b64cd6cc2b15d01317556959b99821628.png)
 
@@ -34,7 +32,7 @@ Want the latest info & tips for fibromyalgia?
 * [![](https://www.myfibroteam.com/assets/default_avatars/silhouettes/avatar_profile0-23ca04cdd95ff55608633895b51ec9464a7f87d7964a65960c21740e232861c0.png)](https://www.myfibroteam.com/users/sign_up)
     
 
-[Yes!](https://www.myfibroteam.com/users/signup/start)
+[Yes!](https://www.myfibroteam.com/email_users)
 
 Our Privacy Policy
 ------------------
@@ -141,6 +139,8 @@ Additionally, in some instances, we may share information that does not identify
 ### Use of Cookies and Other Online Tracking Technologies
 
 As described above, we use cookies and other online tracking technologies to automatically gather, analyze, and store technical information about Platform visitors. We also permit our service providers and advertising partners to use online tracking technologies on the Platform for analytics and advertising, including Google Analytics and the Meta Pixel, to help manage and display advertisements, to provide advertising about products and services tailored to your interests which may appear either on the Platform or on other websites, and to provide visitors to the Platform with a better experience by providing us with insights on how visitors use the Platform.
+
+Our website recognizes the Global Privacy Control (GPC) signal, which enables you to opt-out of certain uses or disclosures of your information. If you notify us of your preference through GPC, we will honor your request only for the browser or device that sends the GPC signal. When you log into your account, the opt-out will extend to your account as well. If you do not have an account or are not logged into your account, your request to opt out through the GPC will not apply to any account information. To learn more about “do not track” signals, you can visit [http://www.allaboutdnt.com](http://www.allaboutdnt.com/). To learn more about Global Privacy Control, you can visit [https://globalprivacycontrol.org](https://globalprivacycontrol.org/).
 
 For more information about the cookies and other tracking technologies used on our Platform, the third-party service providers we use to gather such information, and reports that we receive based on the use of tracking technologies, please refer to our [Cookies Policy](https://www.myfibroteam.com/about/cookies_policy). For further information about Google Analytics, please [click here](https://policies.google.com/technologies/partner-sites).
 
@@ -320,7 +320,7 @@ Help With This Site
 
 About Us
 
-[Partner with us](https://www.myfibroteam.com/about/partner) [Terms of use](https://www.myfibroteam.com/about/tos) [Press/News](https://www.myhealthteam.com/press/) [Privacy policy](https://www.myfibroteam.com/about/privacy) [Health Data Policy](https://www.myfibroteam.com/about/health_data) [Cookie policy](https://www.myfibroteam.com/about/cookies_policy) [What is MyFibroTeam](https://www.myfibroteam.com/about)
+[Partner with us](https://www.myfibroteam.com/about/partner) [Terms of Use](https://www.myfibroteam.com/about/tos) [Press/News](https://www.myhealthteam.com/press/) [Privacy policy](https://www.myfibroteam.com/about/privacy) [Health Data Policy](https://www.myfibroteam.com/about/health_data) [Cookie policy](https://www.myfibroteam.com/about/cookies_policy) [What is MyFibroTeam](https://www.myfibroteam.com/about)
 
 Powered By
 
@@ -331,4 +331,4 @@ Powered By
 MyFibroTeam is not a medical referral site and does not recommend or endorse any particular provider or medical treatment.  
 No information on MyFibroTeam should be construed as medical and/or health advice.
 
-![](https://www.facebook.com/tr?id=360260207500330&ev=PageView&noscript=1)
+![](https://www.facebook.com/tr?id=360260207500330&ev=PageView&noscript=1) ![](https://q.quora.com/_/ad/2ad1736bee704b9fa68aaac2f4e13400/pixel?tag=ViewContent&noscript=1)
