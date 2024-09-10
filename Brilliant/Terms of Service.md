@@ -1,43 +1,4 @@
-[![Brilliant](/site_media/version-0/images/brilliant-wordmark-black.svg)](https://brilliant.org/)
-
-[Home](https://brilliant.org/home/) [Courses](https://brilliant.org/courses/)
-
-[Sign up](https://brilliant.org/account/signup/?next=/terms-of-use/) [Log in](https://brilliant.org/account/login/?next=/terms-of-use/)
-
-The best way to learn math and computer science.
-
-[Log in with Google](https://brilliant.org/account/google/login/?next=/terms-of-use/) [Log in with Facebook](https://brilliant.org/account/facebook/login/?next=/terms-of-use/) [Log in with email](https://brilliant.org/account/login/?next=/terms-of-use/)
-
-[Join using Google](https://brilliant.org/account/google/login/?next=/terms-of-use/) [Join using Facebook](https://brilliant.org/account/facebook/login/?next=/terms-of-use/) [Join using email](https://brilliant.org/account/signup/?signup=true&next=/terms-of-use/)
-
-[Reset password](https://brilliant.org/account/password/reset/) New user? [Sign up](https://brilliant.org/account/signup/?signup=true&next=/terms-of-use/)
-
-Existing user? [Log in](https://brilliant.org/account/login/?next=/terms-of-use/)
-
-#### Jump to...
-
-* [Access](#tou-access)
-* [Site Content](#tou-content)
-* [Fees and Payment](#tou-fees)
-* [User Content](#tou-user-content)
-* [Software](#tou-software)
-* [Restrictions](#tou-restrictions)
-* [Registration; Security](#tou-registration)
-* [Third Party Sites](#tou-third-party)
-* [Indemnification](#tou-indemnification)
-* [Warranty Disclaimer](#tou-warranty)
-* [Limitation of Liability](#tou-limitation)
-* [Termination](#tou-termination)
-* [Export and Trade Controls](#tou-export)
-* [Privacy](#tou-privacy)
-* [Member Disputes](#tou-disputes)
-* [Copyright](#tou-copyright)
-* [Electronic Communications](#tou-communications)
-* [Miscellaneous](#tou-miscellaneous)
-* [Digital Millennium Copyright Act Notice](#tou-dmca)
-    * [Procedure for Reporting Copyright Infringements:](#tou-dmca-a)
-    * [Once Proper Bona Fide Infringement Notification is Received by the Designated Agent:](#tou-dmca-b)
-    * [Procedure to Supply a Counter-Notice to the Designated Agent:](#tou-dmca-c)
+[](https://brilliant.org/)
 
 Terms of Use
 ============
@@ -65,13 +26,13 @@ Brilliant bills users through an online account for use of the Service. User agr
 
 #### B. Automatic Renewal
 
-User's subscription to the Service will continue indefinitely until cancelled by User (via the cancellation mechanisms provided on the Site). After User's initial subscription period, and again after any subsequent subscription period, User's subscription will automatically continue for an additional equivalent period, at the price User agreed to when subscribing. User agrees that User's account will be subject to this automatic renewal feature. If User does not wish User's account to renew automatically, or if User wants to change or terminate User's subscription, please log in and go to the Change / Cancel Membership page. If User cancels a subscription, User may use such subscription until the end of then-current subscription term and the subscription will not be renewed thereafter. However, User will not be eligible for a prorated refund of any portion of the subscription fee paid for the then-current subscription period.
+User's subscription to the Service will continue indefinitely until cancelled by User (via the cancellation mechanisms provided on the Site). After User's initial subscription period, and again after any subsequent subscription period, User's subscription will automatically continue for an additional equivalent period, at the price User agreed to when subscribing. User agrees that User's account will be subject to this automatic renewal feature. If User does not wish User's account to renew automatically, or if User wants to change or terminate User's subscription, please log in and go to the [Change / Cancel Membership page](https://brilliant.org/payment/subscription_setting/). If User cancels a subscription, User may use such subscription until the end of then-current subscription term and the subscription will not be renewed thereafter. However, User will not be eligible for a prorated refund of any portion of the subscription fee paid for the then-current subscription period.
 
 By subscribing, User authorizes Brilliant to charge User's credit card, debit card or other payment method at such time and again at the beginning of any subsequent subscription period, including any sales or similar taxes imposed on User's subscription payments. Upon the renewal of your subscription, if Brilliant does not receive payment, User agrees that Brilliant may either terminate or suspend User's subscription and continue to attempt to charge User's payment method provider until payment is received (upon receipt of payment, User's account will be activated and for purposes of automatic renewal, User's new subscription commitment period will begin as of the day payment was received). If User does not terminate User's subscription and/or if User continues to use the Service, User agrees that Brilliant is authorized to charge the payment method in User's Service account. Brilliant may also seek payment directly from User. Charges may be payable in advance, in arrears, per usage, or as otherwise specified when User initially subscribes to the Service.
 
 #### C. Refunds
 
-Users may be entitled to a refund on their current subscription plan if the charge processed less than or equal to 3 days ago and User hasn't used the product since the charge. If User fits the criteria, they are free to cancel the subscription and request a refund through their subscription settings page. Instructions can be found in our [Help Article](https://help.brilliant.org/en/articles/4045984-if-i-purchase-premium-then-decide-it-s-not-for-me-can-i-get-a-refund). Users may reach out to [Brilliant.org](https://brilliant.org/) Support at [support@brilliant.org](mailto:support@brilliant.org) if they feel their situation may qualify for an exception. Exceptions are made on a case-by-case basis after reviewing the account usage and the date of the charge. These are also one-time courtesies. Users who purchase, cancel, receive a refund (whether through a refund request on their Subscription Settings page or a one-time courtesy exception) and resubscribe at a later date will not have exceptions made for subsequent subscriptions.
+Users may be entitled to a refund on their current subscription plan if the charge processed less than or equal to 3 days ago and User hasn't used the product since the charge. If User fits the criteria, they are free to cancel the subscription and request a refund through their subscription settings page. Instructions can be found in our [Help Article](https://help.brilliant.org/en/articles/4045984-if-i-purchase-premium-then-decide-it-s-not-for-me-can-i-get-a-refund). Users may reach out to [Brilliant.org](https://brilliant.org/) Support at [support@brilliant.org](mailto: mailto:support@brilliant.org) if they feel their situation may qualify for an exception. Exceptions are made on a case-by-case basis after reviewing the account usage and the date of the charge. These are also one-time courtesies. Users who purchase, cancel, receive a refund (whether through a refund request on their Subscription Settings page or a one-time courtesy exception) and resubscribe at a later date will not have exceptions made for subsequent subscriptions.
 
 #### D. Promotions
 
@@ -149,7 +110,7 @@ User agrees not to import, export, re-export, or transfer, directly or indirectl
 
 ### PRIVACY.
 
-Brilliant' current privacy policy is available at [https://brilliant.org/privacy/](https://brilliant.org/privacy/) (the "Privacy Policy"), which is incorporated by this reference.
+Brilliant's current privacy policy is available at [https://brilliant.org/privacy/](https://brilliant.org/privacy/) (the "Privacy Policy"), which is incorporated by this reference.
 
 ### MEMBER DISPUTES.
 
@@ -186,7 +147,7 @@ If User believes that content residing on or accessible through the Brilliant Se
 
 #### B. Once Proper Bona Fide Infringement Notification is Received by the Designated Agent:
 
-It is Brilliant' policy:
+It is Brilliant's policy:
 
 1. to remove or disable access to the infringing content;
 2. to notify the content provider, member or user that it has removed or disabled access to the content;
@@ -212,23 +173,57 @@ Brilliant Worldwide, Inc.
 550 Montgomery Street Suite 800  
 San Francisco, CA 94111  
 
-[Practice math and science questions on the Brilliant iOS app.](https://itunes.apple.com/app/apple-store/id913335252?pt=105095803&ct=brilliant_website_footer&mt=8)
+### Jump to...
 
-* [![Twitter](/site_media/version-01/images/icon-twitter-x-blue.svg)](https://twitter.com/brilliantorg)
-* [](https://www.facebook.com/brilliantorg)
-* [About](https://brilliant.org/about/)
-* [Careers](https://brilliant.org/careers/)
-* [Testimonials](https://brilliant.org/testimonials/)
-* [Help](https://brilliant.org/help/)
-* [Terms](https://brilliant.org/terms-of-use/)
-* [Privacy](https://brilliant.org/privacy/)
-* [California Privacy Policy](https://brilliant.org/ccpa-policy/)
-* © Brilliant 2024
+* [Access](#tou-access)
+* [Site Content](#tou-content)
+* [Fees and Payment](#tou-fees)
+* [User Content](#tou-user-content)
+* [Software](#tou-software)
+* [Restrictions](#tou-restrictions)
+* [Registration; Security](#tou-registration)
+* [Third Party Sites](#tou-third-party)
+* [Indemnification](#tou-indemnification)
+* [Warranty Disclaimer](#tou-warranty)
+* [Limitation of Liability](#tou-limitation)
+* [Termination](#tou-termination)
+* [Export and Trade Controls](#tou-export)
+* [Privacy](#tou-privacy)
+* [Member Disputes](#tou-disputes)
+* [Copyright](#tou-copyright)
+* [Electronic Communications](#tou-communications)
+* [Miscellaneous](#tou-miscellaneous)
+* [Digital Millennium Copyright Act Notice](#tou-dmca)
+    * [Procedure for Reporting Copyright Infringements:](#tou-dmca-a)
+    * [Once Proper Bona Fide Infringement Notification is Received by the Designated Agent:](#tou-dmca-b)
+    * [Procedure to Supply a Counter-Notice to the Designated Agent:](#tou-dmca-c)
 
-×
+[](https://brilliant.org/)
 
-Problem Loading...
+Product
 
-Note Loading...
+[Courses](https://brilliant.org/courses/)
 
-Set Loading...
+[Pricing](https://brilliant.org/subscribe/)
+
+[Testimonials](https://brilliant.org/testimonials/)
+
+[Help](https://brilliant.org/help/)
+
+Company
+
+[About us](https://brilliant.org/about/)
+
+[Careers](https://brilliant.org/careers/)
+
+[Educators](https://brilliant.org/educators/)
+
+[](https://www.facebook.com/brilliantorg)[](https://www.instagram.com/brilliantorg)[](https://twitter.com/brilliantorg)[](https://www.linkedin.com/company/brilliant-org/)
+
+[Terms of service](https://brilliant.org/terms-of-use/)
+
+[Privacy policy](https://brilliant.org/privacy/)
+
+[California privacy policy](https://brilliant.org/ccpa-policy/)
+
+© 2024 Brilliant Worldwide, Inc., Brilliant and the Brilliant Logo are trademarks of Brilliant Worldwide, Inc.
