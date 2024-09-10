@@ -10,7 +10,7 @@ learn more
 
 plans and pricing
 
-[standard](https://keys.casa/standard)[premium](https://keys.casa/premium)[private client](https://keys.casa/private-client)[institutional](http://contact.casa.io/institutional)[compare pricing](https://keys.casa/pricing)
+[standard](https://keys.casa/standard)[premium](https://keys.casa/premium)[private client](https://keys.casa/private-client)[ENTERPRISE](http://contact.casa.io/institutional)[compare pricing](https://keys.casa/pricing)
 
 [blog](https://blog.casa.io/)
 
@@ -26,7 +26,7 @@ plans and pricing
 ‍  
 Remember that your use of Casa’s Services is at all times subject to our** [**Terms of Service**](https://keys.casa/terms-of-service)**, which incorporates this Privacy and Data Protection Policy. Any terms we use in this Policy without defining them have the definitions given to them in the Terms of Service.   
   
-You may print a copy of this Privacy and Data Protection Policy by** [**clicking here**](https://assets.website-files.com/64931939e37b1297d83d6938/64931939e37b1297d83d6c34_Privacy%20and%20Data%20Protection%20Policy%202023-06-21.pdf)**.  
+You may print a copy of this Privacy and Data Protection Policy by** [**clicking here**](https://cdn.prod.website-files.com/64931939e37b1297d83d6938/64931939e37b1297d83d6c34_Privacy%20and%20Data%20Protection%20Policy%202023-06-21.pdf)**.  
 **
 
 **What this Privacy and Data Protection Policy Covers  
