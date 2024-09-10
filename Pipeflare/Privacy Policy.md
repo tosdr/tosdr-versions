@@ -4,39 +4,47 @@
 
  [![VIP Subscription](https://statics.pipeflare.io/assets/pages/layout/vip_sub.png) ![VIP Subscription](https://statics.pipeflare.io/assets/pages/layout/tiers/daily_rewards_i.svg)](#modal-vip-sub-trial)
 
-* [Jouer](#)
+Active Players
+
+1 , 0 6 1 , 6 9 9
+
+* [Play](#)
     
-    [Tank Battle Royale](https://pipeflare.io/game/guest/battle-royal-tank-edition) [Pyro's Mining Rush](https://pipeflare.io/game/pyro-mining) [Subway Run](https://pipeflare.io/game/subway-run) [BeatBox](https://pipeflare.io/game/guest/beat-box) [Space Shooter](https://pipeflare.io/game/guest/space-shooter) [Flare Roller](https://pipeflare.io/game/guest/untwist-road) [Tous les jeux](https://pipeflare.io/all-games)
+    [Pyro's Mining Rush](https://pipeflare.io/game/pyro-mining) [Subway Run](https://pipeflare.io/game/subway-run) [BeatBox](https://pipeflare.io/game/guest/beat-box) [Space Shooter](https://pipeflare.io/game/guest/space-shooter) [Flare Roller](https://pipeflare.io/game/guest/untwist-road) [All Games](https://pipeflare.io/all-games)
     
-* [Gagner](#)
+* [Earn](#)
+    
+    Free Giveaways
+    
+    [BAIR Giveaway](https://gleam.io/8ISPi/500-bair-x-pipeflare-giveaway) [Battleworld Giveaway](https://gleam.io/bsPiC/500-battleworld-x-pipeflare-giveaway) [PipeFlare Giveaway](https://bit.ly/pipeflaregiveaway) [Mega MAGA Giveaway](https://gleam.io/et88I/550-mega-maga-x-pipeflare-giveaway)
     
     My Free Spin
     
     [Free Spin Wheel](https://pipeflare.io/flare2-token/spin)
     
-    [Récompenses de supporters](https://pipeflare.io/user/supporter) [Récompenses quotidiennes](https://pipeflare.io/dailyrewards)
+    [Supporter Rewards](https://pipeflare.io/user/supporter) [Daily Rewards](https://pipeflare.io/dailyrewards)
     
     Referral Program
     
-    [Referral Rewards](https://pipeflare.io/user/referral) [Acheter des références](https://pipeflare.io/user/referral-purchase)
+    [Referral Rewards](https://pipeflare.io/user/referral) [Purchase Referrals](https://pipeflare.io/user/referral-purchase)
     
-    [Aérodromes](https://pipeflare.io/airdrops)
+    [Airdrops](https://pipeflare.io/airdrops)
     
-    Jetons
+    Tokens
     
-    [Jalonnement](https://pipeflare.io/user/staking) [Token Information](https://pipeflare.io/flr-token) [Roadmap](https://docs.pipeflare.io/roadmaps/2022-roadmap) [Withdraw & Deposit](https://pipeflare.io/flare-token/flare-deposit-withdrawal)
+    [Staking](https://pipeflare.io/user/staking) [Token Information](https://pipeflare.io/flr-token) [Roadmap](https://docs.pipeflare.io/roadmaps/2022-roadmap) [Withdraw & Deposit](https://pipeflare.io/flare-token/flare-deposit-withdrawal)
     
-* [BOUTIQUE](#)
+* [SHOP](#)
     
-    [Abonnement VIP](#modal-vip-sub-trial)
+    [VIP Subscription](#modal-vip-sub-trial)
     
     Special Offers
     
-    Offres de gemmes Referral Offers
+    Gem Offers Referral Offers
     
-    Objets de collection
+    Collectibles
     
-    [Marketplace](https://pipeflare.io/nfts-2) [Acheter Pyro](https://opensea.io/collection/pipeflarepyro) [Oeufs mystères](https://pipeflare.io/mystery-egg) [Le repaire de Pyro](https://pipeflare.io/cave)
+    [Marketplace](https://pipeflare.io/nfts-2) [Buy Pyro](https://opensea.io/collection/pipeflarepyro) [Mystery Eggs](https://pipeflare.io/mystery-egg) [Pyro's Lair](https://pipeflare.io/cave)
     
     Loot Boxes
     
@@ -48,9 +56,9 @@
     * Leaderboard Rewards
     PMR Skin
     
-* [S\\'identifier](https://pipeflare.io/auth/login)
-* [S\\'inscrire](https://pipeflare.io/auth/register)
-* [fr](#)
+* [Login](https://pipeflare.io/auth/login)
+* [Register](https://pipeflare.io/auth/register)
+* [en](#)
     
     [English](https://pipeflare.io/change-language/en) [中文](https://pipeflare.io/change-language/zh) [Español](https://pipeflare.io/change-language/es) [Français](https://pipeflare.io/change-language/fr) [Dutch](https://pipeflare.io/change-language/ka) [한국어](https://pipeflare.io/change-language/ko) [Russian](https://pipeflare.io/change-language/ru) [Portuguese](https://pipeflare.io/change-language/pt) [Ukrainian](https://pipeflare.io/change-language/uk)
     
@@ -125,23 +133,23 @@ DAY 7
 
 Upcoming
 
-Ajouter un rappel quotidien à votre calendrier:
+Add a daily reminder to your calendar:
 
-[Google](https://www.google.com/calendar/render?action=TEMPLATE&text=Claim+Free+Crypto&dates=20240731T100000+0000/20240731T103000+0000&details=www.pipeflare.io+-+Claim+Free+ZEC%2C+MATIC%2C+and+1FLR&location=&sf=true&output=xml&recur=RRULE:FREQ%3DDAILY)  \[  [Yahoo](https://calendar.yahoo.com/?v=60&view=d&type=20&title=Claim+Free+Crypto&st=20240731T100000+0000&et=20240731T103000+0000&desc=www.pipeflare.io+-+Claim+Free+ZEC%2C+MATIC%2C+and+1FLR&uid=)  \[  Apple 2024-07-31T10:00:00+00:00 2024-07-31T10:30:00+00:00
+[Google](https://www.google.com/calendar/render?action=TEMPLATE&text=Claim+Free+Crypto&dates=20240910T100000+0000/20240910T103000+0000&details=www.pipeflare.io+-+Claim+Free+ZEC%2C+MATIC%2C+and+1FLR&location=&sf=true&output=xml&recur=RRULE:FREQ%3DDAILY)  \[  [Yahoo](https://calendar.yahoo.com/?v=60&view=d&type=20&title=Claim+Free+Crypto&st=20240910T100000+0000&et=20240910T103000+0000&desc=www.pipeflare.io+-+Claim+Free+ZEC%2C+MATIC%2C+and+1FLR&uid=)  \[  Apple 2024-09-10T10:00:00+00:00 2024-09-10T10:30:00+00:00
 
-Fermer
+Close
 
 ×
 
 Please verify your email
 
-Si vous ne trouvez pas l\\'e-mail, vérifiez votre dossier Spam
+If you can't find the email, check your Spam folder
 
 ![verify your email](https://statics.pipeflare.io/assets/images/modals/email_verify.png)
 
-Si vous n\\'avez pas reçu d\\'e-mail [Cliquez ici](https://pipeflare.io/auth/resend-activation-email?_t=1722437289) pour renvoyer l\\'e-mail d\\'activation.
+If you have not received an email [Please Click Here](https://pipeflare.io/auth/resend-activation-email?_t=1726005288) to resend activation email.
 
-D\\'accord
+OK
 
 Bonus Round
 
@@ -149,164 +157,164 @@ Bonus Round
 
 You get a free spin worth up to $5 for each of your first 5 referrals!
 
-Jouer
+Play
 
-Montrez à vos amis combien de crypto gratuite que vous avez faite. Partagez une capture d\\'écran de votre gamme de bonus!
+Show Your Friends How Much Free Crypto You've Made. Share A Screenshot Of Your Bonus Round!
 
 [![Facebook Bonus](https://statics.pipeflare.io/assets/images/socials/facebook.svg)](https://www.facebook.com/dialog/feed?app_id=197885368235165&link=https://pipeflare.io?bonus-amount=numberamount&redirect_uri=https://pipeflare.io) [![Twitter Bonus](https://statics.pipeflare.io/assets/images/socials/twitter.svg)](https://twitter.com/intent/tweet?&url=https://pipeflare.io?bonus-amount=numberamount) [![Linkedin Bonus](https://statics.pipeflare.io/assets/images/socials/linkedin.svg)](https://www.linkedin.com/shareArticle?mini=true&url=https://pipeflare.io?bonus-amount=numberamount&source=PipeFlare)
 
-Politique de confidentialité de Pipeline Marketing Inc
-======================================================
+Privacy Policy for Pipeline Marketing Inc
+=========================================
 
-Chez Pipeplare, accessible depuis https://pipeflare.io, l\\'une de nos principales priorités est la confidentialité de nos visiteurs. Ce document de politique de confidentialité contient des types de les informations collectées et enregistrées par Pipeplare et comment nous les utilisons.
+At Pipeplare , accessible from https://pipeflare.io, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Pipeplare and how we use it.
 
-Si vous avez des questions supplémentaires ou avez besoin de plus d\\'informations sur notre politique de confidentialité, n\\'hésitez pas à nous contacter.
+If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
 
-Cette politique de confidentialité s\\'applique uniquement à nos activités en ligne et est valable pour les visiteurs de notre site Web en ce qui concerne les informations qu\\'ils ont partagées et / ou collectées dans Pipeplare. Cette politique ne s\\'applique pas aux informations collectées hors ligne ou via des canaux autres que ce site Web.
+This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in Pipeplare . This policy is not applicable to any information collected offline or via channels other than this website.
 
-Consentement
-------------
+Consent
+-------
 
-En utilisant notre site Web, vous acceptez par la présente notre politique de confidentialité et acceptez ses conditions.
+By using our website, you hereby consent to our Privacy Policy and agree to its terms.
 
-Informations que nous collectons
---------------------------------
-
-Les informations personnelles que vous êtes invité à fournir, et les raisons pour lesquelles vous êtes invité à les fournir, vous seront précisées au moment où nous vous demanderons de fournir Vos informations personnelles.
-
-Si vous nous contactez directement, nous pouvons recevoir des informations supplémentaires vous concernant telles que votre nom, votre adresse e-mail, votre numéro de téléphone, le contenu du message et / ou pièces jointes que vous pouvez nous envoyer, et toute autre information que vous pouvez choisir de fournir.
-
-Lorsque vous vous inscrivez pour un compte, nous pouvons vous demander vos coordonnées, y compris des éléments tels que le nom, le nom de l\\'entreprise, l\\'adresse, l\\'adresse e-mail et le numéro de téléphone.
-
-Comment nous utilisons vos informations
----------------------------------------
-
-Nous utilisons les informations que nous collectons de différentes manières, notamment pour:
-
-* Fournir, exploiter et maintenir notre site web
-* Améliorer, personnaliser et développer notre site web
-* Comprendre et analyser comment vous utilisez notre site web
-* Développer de nouveaux produits, services, caractéristiques et fonctionnalités
-* Communiquer avec vous, soit directement, soit par l\\'un de nos partenaires, y compris pour le service clientèle, pour vous fournir des mises à jour et d\\'autres informations relatives à Le site Web, et à des fins de marketing et de promotion
-* Vous envoyer des courriels
-* Trouver et prévenir la fraude
-
-Fichiers journaux
------------------
-
-Pipeplare suit une procédure standard d\\'utilisation des fichiers journaux. Ces fichiers enregistrent les visiteurs lorsqu\\'ils visitent des sites Web. Toutes les sociétés d\\'hébergement font cela et une partie de l\\'hébergement l\\'analyse des services. Les informations collectées par les fichiers journaux comprennent les adresses de protocole Internet (IP), le type de navigateur, le fournisseur d\\'accès Internet (FAI), la date et l\\'heure tampon, pages de renvoi / sortie, et éventuellement le nombre de clics. Ceux-ci ne sont liés à aucune information personnellement identifiable. Le but des informations sert à analyser les tendances, à administrer le site, à suivre les mouvements des utilisateurs sur le site Web et à recueillir des informations démographiques. Notre politique de confidentialité a été créée avec le aide du [Générateur de politique de confidentialité](https://www.privacypolicygenerator.info/) et le [Générateur de politique de confidentialité en ligne](https://www.privacypolicyonline.com/privacy-policy-generator/).
-
-Cookies et balises Web
+Information we collect
 ----------------------
 
-Comme tout autre site Web, Pipeplare utilise des cookies. Ces cookies sont utilisés pour stocker des informations, y compris les préférences des visiteurs, et les pages du site Web que le visiteur consulté ou visité. Les informations sont utilisées pour optimiser l\\'expérience des utilisateurs en personnalisant le contenu de notre page Web en fonction du type de navigateur des visiteurs et / ou d\\'autres information.
+The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.
 
-Pour plus d\\'informations générales sur les cookies, veuillez lire ["Que sont les cookies"](https://www.cookieconsent.com/what-are-cookies/).
+If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide.
 
-Nos partenaires publicitaires
------------------------------
+When you register for an Account, we may ask for your contact information, including items such as name, company name, address, email address, and telephone number.
 
-Certains annonceurs de notre site peuvent utiliser des cookies et des balises Web. Nos partenaires publicitaires sont listés ci-dessous. Chacun de nos partenaires publicitaires a sa propre politique de confidentialité pour leurs politiques sur les données des utilisateurs. Pour un accès plus facile, nous avons un lien hypertexte vers leurs politiques de confidentialité ci-dessous.
+How we use your information
+---------------------------
+
+We use the information we collect in various ways, including to:
+
+* Provide, operate, and maintain our website
+* Improve, personalize, and expand our website
+* Understand and analyze how you use our website
+* Develop new products, services, features, and functionality
+* Communicate with you, either directly or through one of our partners, including for customer service, to provide you with updates and other information relating to the website, and for marketing and promotional purposes
+* Send you emails
+* Find and prevent fraud
+
+Log Files
+---------
+
+Pipeplare follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information. Our Privacy Policy was created with the help of the [Privacy Policy Generator](https://www.privacypolicygenerator.info/) and the [Online Privacy Policy Generator](https://www.privacypolicyonline.com/privacy-policy-generator/).
+
+Cookies and Web Beacons
+-----------------------
+
+Like any other website, Pipeplare uses'cookies. These cookies are used to store information including visitors' preferences, and the pages on the website that the visitor accessed or visited. The information is used to optimize the users' experience by customizing our web page content based on visitors' browser type and/or other information.
+
+For more general information on cookies, please read ["What Are Cookies"](https://www.cookieconsent.com/what-are-cookies/).
+
+Our Advertising Partners
+------------------------
+
+Some of advertisers on our site may use cookies and web beacons. Our advertising partners are listed below. Each of our advertising partners has their own Privacy Policy for their policies on user data. For easier access, we hyperlinked to their Privacy Policies below.
 
 * Google
     
     [https://policies.google.com/technologies/ads](https://policies.google.com/technologies/ads)
     
 
-Partenaires publicitaires Politiques de confidentialité
--------------------------------------------------------
-
-Vous pouvez consulter cette liste pour trouver la politique de confidentialité de chacun des partenaires publicitaires de Pipeplare.
-
-Les serveurs publicitaires ou réseaux publicitaires tiers utilisent des technologies telles que les cookies, JavaScript ou les balises Web qui sont utilisées dans leurs publicités et liens respectifs qui apparaissent sur Pipeplare, qui sont envoyés directement au navigateur des utilisateurs. Ils reçoivent automatiquement votre adresse IP lorsque cela se produit. Ces technologies sont utilisées pour mesurer la l\\'efficacité de leurs campagnes publicitaires et / ou pour personnaliser le contenu publicitaire que vous voyez sur les sites Web que vous visitez.
-
-Notez que Pipeplare n\\'a ni accès ni contrôle sur ces cookies qui sont utilisés par des annonceurs tiers.
-
-Politiques de confidentialité des tiers
----------------------------------------
-
-La politique de confidentialité de Pipeplare ne s\\'applique pas aux autres annonceurs ou sites Web. Ainsi, nous vous conseillons de consulter les politiques de confidentialité respectives de ces publicités tierces serveurs pour des informations plus détaillées. Il peut inclure leurs pratiques et instructions sur la façon de désactiver certaines options.
-
-Vous pouvez choisir de désactiver les cookies via vos options de navigateur individuelles. Pour connaître des informations plus détaillées sur la gestion des cookies avec des navigateurs Web spécifiques, il peut se trouvent sur les sites Web respectifs des navigateurs.
-
-Droits de confidentialité de l\\'ACCP (ne vendez pas mes renseignements personnels)
------------------------------------------------------------------------------------
-
-En vertu de la CCPA, entre autres droits, les consommateurs californiens ont le droit de:
-
-Demander qu\\'une entreprise qui collecte des données personnelles d\\'un consommateur divulgue les catégories et les éléments spécifiques de données personnelles qu\\'une entreprise a collectés sur les consommateurs.
-
-Demander qu\\'une entreprise supprime toutes les données personnelles sur le consommateur qu\\'une entreprise a collectées.
-
-Demander à une entreprise qui vend les données personnelles d\\'un consommateur de ne pas vendre les données personnelles du consommateur.
-
-Si vous faites une demande, nous avons un mois pour vous répondre. Si vous souhaitez exercer l\\'un de ces droits, veuillez nous contacter.
-
-Droits de protection des données GDPR
+Advertising Partners Privacy Policies
 -------------------------------------
 
-Nous souhaitons nous assurer que vous êtes pleinement conscient de tous vos droits en matière de protection des données. Chaque utilisateur a droit aux éléments suivants:
+You may consult this list to find the Privacy Policy for each of the advertising partners of Pipeplare .
 
-Le droit d\\'accès - Vous avez le droit de demander des copies de vos données personnelles. Nous pouvons vous facturer une somme modique pour ce service.
+Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on Pipeplare , which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.
 
-Le droit de rectification - Vous avez le droit de demander que nous corrigions toute information que vous jugez inexacte. Vous avez également le droit de demander que nous complétions les informations que vous jugez incomplètes.
+Note that Pipeplare has no access to or control over these cookies that are used by third-party advertisers.
 
-Le droit à l\\'effacement - Vous avez le droit de demander que nous effacions vos données personnelles, sous certaines conditions.
-
-Le droit de restreindre le traitement - Vous avez le droit de nous demander de restreindre le traitement de vos données personnelles, sous certaines conditions.
-
-Le droit de s\\'opposer au traitement - Vous avez le droit de vous opposer à notre traitement de vos données personnelles, sous certaines conditions.
-
-Le droit à la portabilité des données - Vous avez le droit de demander que nous transférions les données que nous avons collectées à une autre organisation, ou directement à vous, sous certaines conditions. conditions.
-
-Si vous faites une demande, nous avons un mois pour vous répondre. Si vous souhaitez exercer l\\'un de ces droits, veuillez nous contacter.
-
-Information pour les enfants
+Third Party Privacy Policies
 ----------------------------
 
-Une autre partie de notre priorité consiste à ajouter une protection pour les enfants lors de l\\'utilisation d\\'Internet. Nous encourageons les parents et tuteurs à observer, participer et / ou surveiller et guider leur activité en ligne.
+Pipeplare 's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options.
 
-Pipeplare ne recueille sciemment aucune information personnelle identifiable auprès d\\'enfants de moins de 13 ans. Si vous pensez que votre enfant a fourni ce type de informations sur notre site Web, nous vous encourageons vivement à nous contacter immédiatement et nous ferons de notre mieux pour supprimer rapidement ces informations de notre enregistrements.
+You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites.
 
-ATTENDRE!
+CCPA Privacy Rights (Do Not Sell My Personal Information)
+---------------------------------------------------------
 
-Vous n\\'avez pas revendiqué de jetons gratuits de 1flr.
+Under the CCPA, among other rights, California consumers have the right to:
+
+Request that a business that collects a consumer's personal data disclose the categories and specific pieces of personal data that a business has collected about consumers.
+
+Request that a business delete any personal data about the consumer that a business has collected.
+
+Request that a business that sells a consumer's personal data, not sell the consumer's personal data.
+
+If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.
+
+GDPR Data Protection Rights
+---------------------------
+
+We would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:
+
+The right to access – You have the right to request copies of your personal data. We may charge you a small fee for this service.
+
+The right to rectification – You have the right to request that we correct any information you believe is inaccurate. You also have the right to request that we complete the information you believe is incomplete.
+
+The right to erasure – You have the right to request that we erase your personal data, under certain conditions.
+
+The right to restrict processing – You have the right to request that we restrict the processing of your personal data, under certain conditions.
+
+The right to object to processing – You have the right to object to our processing of your personal data, under certain conditions.
+
+The right to data portability – You have the right to request that we transfer the data that we have collected to another organization, or directly to you, under certain conditions.
+
+If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.
+
+Children's Information
+----------------------
+
+Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.
+
+Pipeplare does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.
+
+WAIT!
+
+YOU HAVEN'T CLAIMED ANY FREE 1FLR TOKENS.
 
 ![close-icon](https://statics.pipeflare.io/assets/icon/close-icon.svg)
 
 ![coin](https://statics.pipeflare.io/assets/icon/coin.png)
 
-Cliquez ci-dessous pour obtenir vos récompenses entièrement gratuites.
+Click below to get your completely free rewards.
 
-[Réclamer maintenant](https://pipeflare.io/dailyrewards)
+[CLAIM NOW](https://pipeflare.io/dailyrewards)
 
 ×
 
 Please verify your email
 
-Si vous ne trouvez pas l\\'e-mail, vérifiez votre dossier Spam
+If you can't find the email, check your Spam folder
 
 ![verify your email](https://statics.pipeflare.io/assets/images/modals/email_verify.png)
 
-Si vous n\\'avez pas reçu d\\'e-mail [Cliquez ici](https://pipeflare.io/auth/resend-activation-email?_t=1722437289) pour renvoyer l\\'e-mail d\\'activation.
+If you have not received an email [Please Click Here](https://pipeflare.io/auth/resend-activation-email?_t=1726005288) to resend activation email.
 
-D\\'accord
+OK
 
 ×
 
-Renvoyer l\\'e-mail d\\'activation
+Resent activation email
 
-Si vous ne trouvez pas l\\'e-mail, vérifiez votre dossier Spam
+If you can't find the email, check your Spam folder
 
 ![verify your email](https://statics.pipeflare.io/assets/images/modals/email_verify.png)
 
   
-L\\'e-mail d\\'activation a été renvoyé à votre e-mail  
+Activation email has been resent to your email  
   
-Veuillez vérifier votre boîte de réception pour vérifier votre e-mail  
-Si vous ne trouvez pas l\\'e-mail, vérifiez votre dossier Spam
+Please check your inbox to verify your email  
+If you can't find the email, check your Spam folder
 
-D\\'accord
+OK
 
 ![close-icon](https://statics.pipeflare.io/assets/icon/close-icon.svg)
 
@@ -321,28 +329,28 @@ _Max 2 per 30 days_
 
 ![image](https://statics.pipeflare.io/assets/pages/home/n_image_popup2.png) ![image](https://statics.pipeflare.io/assets/pages/home/v2_n_image_popup_mobile.png)
 
-Merci de vous être abonné!
+Thank You For Subscribing!
 --------------------------
 
 * * *
 
-Commencez dès aujourd\\'hui avec une crypto-monnaie gratuite
+Get started today with some free cryptocurrency
 
-[Réclamer ma ZEC gratuite](https://pipeflare.io/dailyrewards)
+[Claim My Free ZEC](https://pipeflare.io/dailyrewards)
 
 ×
 
 ![image](https://statics.pipeflare.io/assets/pages/home/n_image_popup2.png) ![image](https://statics.pipeflare.io/assets/pages/home/v2_n_image_popup_mobile.png)
 
-Bienvenue à
------------
+Welcome To
+----------
 
 ![logo](https://statics.pipeflare.io/assets/pages/home/PipeFlare-logo_on-light.svg)
 
-Découvrir Les 5 meilleurs NFT utilitaires  
-Vous devez posséder En téléchargeant notre rapport GRATUIT
+Discover The Top 5 Utility NFTs  
+You Need To Own By Downloading Our FREE Report
 
-Envoyez-moi mon rapport
+Send me my report
 
 Bonus Round
 
@@ -350,9 +358,9 @@ Bonus Round
 
 After using the PipeFlare Faucet for 6 consecutive days, you're eligible for a bonus spin that is worth up to $5 USD!
 
-Jouer
+Play
 
-Montrez à vos amis combien de crypto gratuite que vous avez faite. Partagez une capture d\\'écran de votre gamme de bonus!
+Show Your Friends How Much Free Crypto You've Made. Share A Screenshot Of Your Bonus Round!
 
 [![Facebook Bonus](https://statics.pipeflare.io/assets/images/socials/facebook.svg)](https://www.facebook.com/dialog/feed?app_id=197885368235165&link=https://pipeflare.io?bonus-amount=numberamount&redirect_uri=https://pipeflare.io) [![Twitter Bonus](https://statics.pipeflare.io/assets/images/socials/twitter.svg)](https://twitter.com/intent/tweet?&url=https://pipeflare.io?bonus-amount=numberamount) [![Linkedin Bonus](https://statics.pipeflare.io/assets/images/socials/linkedin.svg)](https://www.linkedin.com/shareArticle?mini=true&url=https://pipeflare.io?bonus-amount=numberamount&source=PipeFlare)
 
@@ -360,9 +368,9 @@ Bonus Round
 
 ×
 
-Après avoir utilisé le robinet PipeFlare pendant 6 jours consécutifs, vous avez droit à un tour bonus d\\'une valeur allant jusqu\\'à 5 $ USD!
+After using the PipeFlare Faucet for 6 consecutive days, you're eligible for a bonus spin that is worth up to $5 USD!
 
-Fermer
+Close
 
 ×
 
@@ -453,7 +461,7 @@ You’re almost there. Use gems to speed up your player progression
 
 ×
 
-Toutes nos félicitations
+Congratulations
 
 **Congratulations**, you’ve claimed your secret mystery gift!  
 We’ve added a [Mystery Egg](#.)  
@@ -465,7 +473,7 @@ Come back in 72 hours for an even more amazing mystery gift!
 
 ×
 
-Toutes nos félicitations
+Congratulations
 
 **Congratulations**, you’ve claimed your second secret mystery gift!  
 We’ve added a [Pyro's Mining Rush NFT](#.)  
@@ -489,7 +497,7 @@ Why Did You Join PipeFlare?
 
 ![Staking](https://statics.pipeflare.io/assets/images/modals/survey/staking.svg)
 
-Jalonnement
+Staking
 
 ![claiming](https://statics.pipeflare.io/assets/images/modals/survey/claiming.png)
 
@@ -566,7 +574,7 @@ Access All Faucets
 
 10x Leaderboard Payouts
 
-WEEK $6.99 MOIS $10 ![Mystery Egg](https://statics.pipeflare.io/assets/images/modals/vip/egg.png) +1 Mystery Egg
+WEEK $6.99 MONTH $10 ![Mystery Egg](https://statics.pipeflare.io/assets/images/modals/vip/egg.png) +1 Mystery Egg
 
 This is an auto renewable subscription. Payment will be charged to Google/iTunes Account at confirmation of purchase. Subscription automatically renews unless subscription is turned off at least 24 hours before the end of the current period. Subscription may be managed by the user and auto-renewal turned off by going to the user's Account Setting after purchase.
 
@@ -599,7 +607,7 @@ Access All Faucets
 
 12.5x Leaderboard Payouts
 
-WEEK $11.99 MOIS $25 ![Mystery Egg](https://statics.pipeflare.io/assets/images/modals/vip/egg.png) +1 Mystery Egg
+WEEK $11.99 MONTH $25 ![Mystery Egg](https://statics.pipeflare.io/assets/images/modals/vip/egg.png) +1 Mystery Egg
 
 This is an auto renewable subscription. Payment will be charged to Google/iTunes Account at confirmation of purchase. Subscription automatically renews unless subscription is turned off at least 24 hours before the end of the current period. Subscription may be managed by the user and auto-renewal turned off by going to the user's Account Setting after purchase.
 
@@ -1079,7 +1087,7 @@ x 2
 Limited Coin Offers Limited  
 Coin Offers
 
-Seulement
+Only
 
 100
 
@@ -1092,7 +1100,7 @@ sale
 
 ![1FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr1_2.png)
 
-x 145000
+x 235000
 
 ![2FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr2_2.png)
 
@@ -1108,7 +1116,7 @@ x 5
 
 [17.99 $10.99](https://pipeflare.io/auth/login?redirect=https://pipeflare.io/privacy)
 
-Seulement
+Only
 
 100
 
@@ -1121,7 +1129,7 @@ sale
 
 ![1FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr1_2.png)
 
-x 240000
+x 380000
 
 ![2FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr2_2.png)
 
@@ -1144,7 +1152,7 @@ x 10
 Limited Coin Offers Limited  
 Coin Offers
 
-Seulement
+Only
 
 100
 
@@ -1157,7 +1165,7 @@ sale
 
 ![1FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr1_2.png)
 
-x 145000
+x 235000
 
 ![2FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr2_2.png)
 
@@ -1173,7 +1181,7 @@ x 5
 
 17.99 $10.99
 
-Seulement
+Only
 
 100
 
@@ -1186,7 +1194,7 @@ sale
 
 ![1FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr1_2.png)
 
-x 240000
+x 380000
 
 ![2FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr2_2.png)
 
@@ -1239,7 +1247,7 @@ discount
 
 ![Basic](https://statics.pipeflare.io/assets/images/modals/referral-offer/2_1.png)
 
-2x Références de base
+2x Basic Referrals
 
 ![Platinum](https://statics.pipeflare.io/assets/images/modals/referral-offer/2_2.png)
 
@@ -1254,7 +1262,7 @@ Games Referrals
 ![lottery epic](https://statics.pipeflare.io/assets/images/modals/referral-offer/2_4.png)
 
 1x LOTTERY  
-PACK **(Épique)**
+PACK **(Epic)**
 
 [$18.99 $15.99 (Limited Time Only)](https://pipeflare.io/auth/login?redirect=https://pipeflare.io/privacy)
 
@@ -1277,7 +1285,7 @@ Your Mystery Bonus Reward Is....
 
 ×
 
-Toutes nos félicitations! Faucet claim
+Congratulations! Faucet claim
 
 You Just Claimed
 ----------------
@@ -1289,7 +1297,7 @@ to reveal your claim
 You Just Got
 ------------
 
-12.939383 MATIC
+12.939383 POL
 
 +5 ![award](https://statics.pipeflare.io/assets/images/modals/congrats/coin_win.png) Bonus Award
 
@@ -1299,7 +1307,7 @@ Awesome, thanks
 
 ×
 
-Toutes nos félicitations! Faucet claim
+Congratulations! Faucet claim
 
 You Just Claimed
 ----------------
@@ -1311,7 +1319,7 @@ to reveal your claim
 You Just Got
 ------------
 
-12.939383 MATIC
+12.939383 POL
 
 +5 ![award](https://statics.pipeflare.io/assets/images/modals/congrats/coin_win.png) Bonus Award
 
@@ -1330,7 +1338,7 @@ to reveal your claim
 You Just Got
 ------------
 
-12.939383 MATIC
+12.939383 POL
 
 You didn’t earn a bonus reward. Better luck next time!
 
@@ -1439,19 +1447,6 @@ Save
 
 ×
 
-Enter Our $200 Airdrop
-
-Earn Your Raffle ticket  
-to access $200 USDC airdrop!!
-
-![Pyro](https://statics.pipeflare.io/assets/images/modals/airdrops/raffle.png)
-
-[Get Start Here](https://blog.pipeflare.io/pipeflares-200-usdc-eesee-airdrop/)
-
-$200 USDC/month, divided equally among all raffle holders
-
-×
-
 Mystery Egg  
 Redemption
 
@@ -1472,7 +1467,7 @@ Now Hatching...
 
 ×
 
-Toutes nos félicitations!
+Congratulations!
 
 You Just Hatched A  
 Pyro NFT 1.25x Multiplier
@@ -1485,11 +1480,15 @@ Coming Soon!!
 
 ![Coming Soon!](https://statics.pipeflare.io/assets/images/modals/soon_coin.png)
 
-Rester informé
+×
 
-Rejoignez notre liste de diffusion pour rester au courant de nos dernières sorties de jeux, Gouttes NFT, et trucs et astuces pour naviguer dans PipeFlare
+Coming Soon!!
 
-S'inscrire
+Stay Informed
+
+Join our mailing list to stay in the loop with our newest game releases, NFT drops, and tips and tricks for navigating PipeFlare
+
+Sign Up
 
 JOIN OUR COMMUNITY
 
@@ -1507,21 +1506,21 @@ JOIN OUR COMMUNITY
 
 * [![Market Cap Logo](https://statics.pipeflare.io/assets/logo/marketcap.svg)](https://coinmarketcap.com/community/profile/FlareToken)
 
-[Évaluez-nous sur Trustpilot](https://www.trustpilot.com/review/pipeflare.io)
+[Review Us on Trustpilot](https://www.trustpilot.com/review/pipeflare.io)
 
 ABOUT
 
 * [Our Team](https://pipeflare.io/our-team)
-* [Papier blanc](https://bit.ly/PFpaper)
-* [Programme d\\'ambassadeur](https://pipeflare.io/ambassador-page)
-* [Termes et conditions](https://pipeflare.io/terms)
-* [Politique de confidentialité](https://pipeflare.io/privacy)
+* [Whitepaper](https://bit.ly/PFpaper)
+* [Ambassador Program](https://pipeflare.io/ambassador-page)
+* [Terms and Conditions](https://pipeflare.io/terms)
+* [Privacy Policy](https://pipeflare.io/privacy)
 
 RESOURCES
 
 * [Blog](https://blog.pipeflare.io/)
 * [FAQ](https://docs.pipeflare.io/)
-* [Service client](https://discord.gg/Eu6v76bqkj)
-* [Journal des transactions](https://pipeflare.io/transactions)
-* [Classement](https://pipeflare.io/game/leaderboard)
-* [Classement de référence](https://pipeflare.io/referral/leaderboard)
+* [Customer Support](https://discord.gg/Eu6v76bqkj)
+* [Transaction Log](https://pipeflare.io/transactions)
+* [Game Leaderboard](https://pipeflare.io/game/leaderboard)
+* [Referral Leaderboard](https://pipeflare.io/referral/leaderboard)
