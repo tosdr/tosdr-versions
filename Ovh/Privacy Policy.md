@@ -150,9 +150,9 @@ Log in to order, manage your products and services, and track your orders.
             
         * Eco Dedicated Servers [Explore our Dedicated Servers](https://eco.ovhcloud.com/en/about/)
             
-            * Kimsufi Servers Low-cost servers to get you started
+            * [Kimsufi Servers](https://eco.ovhcloud.com/en/kimsufi/) Low-cost servers to get you started
             * So you Start Servers A range of dedicated servers that are perfect for startups and very small businesses
-            * Rise Servers Tried-and-tested Intel and AMD platforms for competitive performance and price
+            * [Rise Servers](https://eco.ovhcloud.com/en/rise/) Tried-and-tested Intel and AMD platforms for competitive performance and price
             * [Operating systems and distributions](https://www.ovhcloud.com/en/bare-metal/os/) Find the versions compatible with your Eco server
     * [VPS - Virtual Private Servers](https://www.ovhcloud.com/en/vps/)
         * Back to menu
@@ -582,7 +582,7 @@ Log in to order, manage your products and services, and track your orders.
         * Technology
         * Technology
             
-            * [VMware by Broadcom](https://www.ovhcloud.com/en/solutions/uc-cloud-migration/) VMware by Broadcom and OVHcloud solutions for all your projects
+            * [VMware by Broadcom](https://www.ovhcloud.com/en/solutions/vmware/) VMware by Broadcom and OVHcloud solutions for all your projects
             * [Nutanix](https://www.ovhcloud.com/en/solutions/nutanix/) Nutanix and OVHcloud solutions for your hybrid and multi-cloud environments
             * [SAP](https://www.ovhcloud.com/en/solutions/sap/) SAP on OVHcloud solutions for your ERP delivering a smooth, optimal experience
             * [NetApp](https://www.ovhcloud.com/en/solutions/netapp/) NetApp storage solutions with cost control and high performance
@@ -771,18 +771,24 @@ OVHcloud may also contact individuals for marketing purposes who have expressed 
 ### 5\. Enforcement Management
 
 **Description of processing operations**  
-OVHcloud collects Personal Information about its Customers and/or their Agents in order to inform them about OVHcloud activities (and where applicable, its partners), the launch of new products and/or services, offer them services and/or offer them promotions, and/or invite them to OVHcloud events.
-
-OVHcloud uses the Personal Information collected for the purposes of the uses described above only after obtaining the express, free and informed consent of the data subject.
-
-OVHcloud may also contact individuals for marketing purposes who have expressed their consent to receive communications from OVHcloud with OVHcloud partners. In this context, OVHcloud partners collect the Personal Information required to send communications, as well as the consent of the person concerned. OVHcloud ensures that their Personal Information and consent to commercial prospecting has been collected in accordance with applicable laws.
+   
+OVHcloud uses the Personal Information of its Customers and, where applicable,their Agents to ensure the security of payments, and to detect and prevent fraud. Assuch, OVHcloud has also implemented an optional multi-factor authentication feature to enhance the security of your account. As part of this use, Personal Information may be transferred to OVHcloud’s Fraud Prevention Team located in France and Quebec, or to Customer Relationship Teams in France and Quebec regarding a request related to your multi-factor authentication. 
 
 **Categories of Personal Information Used**
 
-* Customer and/or their Agents’ identification data: first name, last name, contact details, email address;
-* Internet browsing data: IP address, user ID, browsing history on OVH websites;
-* Interests of the Client and/or its Agents: data relating to the use of services, order history, consumption habits, participation in events;
-* Customer and/or their agents’ interactions with OVHcloud.
+* Customer and/or their Agents’ identification data: name, surname, contact details,email address, postal address, province, city, country;
+* Payment data: information relating to the bank card and/or bank account;  
+    Connection data: IP address;
+* Tracking data of the business relation: order history, order amount, invoices and, if applicable, outstanding amount;
+* Location data.
+
+In some cases, OVHcloud may be required to request the following documents:
+
+* Customer or their representative’s identification document;
+* proof of address;
+* Certificate of registration of a business;
+* Authority of the leader;
+* Bank details.
 
 ### 6\. Facilitating your future payments
 
@@ -929,7 +935,7 @@ Back to top
     * API
     * Status
     * Domain contact
-    * Report abuse (abuse@ovh.net)
+    * [Report abuse (abuse@ovh.net)](https://www.ovh.com/abuse/#!/)
     * [WHOIS information disclosure request](https://www.ovhcloud.com/en/whois-disclosure/)
     
 
@@ -938,7 +944,7 @@ Back to top
     * [Help centre](https://help.ovhcloud.com/csm/en-home?id=csm_index)
     * [Guides](https://help.ovhcloud.com/csm/en-documentation?id=kb_home)
     * [Glossary](https://www.ovhcloud.com/en/glossary/)
-    * [Community](https://community.ovh.com/en/)
+    * [Community](https://community.ovh.com/)
     * [Support levels](https://www.ovhcloud.com/en/support-levels/)
     
 * Contact us
