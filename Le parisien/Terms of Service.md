@@ -46,20 +46,21 @@ Rechercher sur Le Parisien
 
 * [À la une](https://www.leparisien.fr/)
     
+* [En continu](https://www.leparisien.fr/actualites-en-continu/)
+    
 * [JO Paris 2024](https://www.leparisien.fr/jo-paris-2024/)
     
-    * [Flamme olympique](https://www.leparisien.fr/jo-paris-2024/flamme-olympique/)
-    * [Cérémonie d'ouverture](https://www.leparisien.fr/jo-paris-2024/ceremonie-ouverture/)
-    * [Programme et calendrier](https://www.leparisien.fr/jo-paris-2024/programme/)
-    * [Résultats par discipline](https://www.leparisien.fr/jo-paris-2024/resultats-par-discipline/)
-    * [Résultats JO Paris 2024 en direct](https://www.leparisien.fr/jo-paris-2024/resultats/)
-    * [Tous les directs des JO 2024](https://www.leparisien.fr/jo-paris-2024/directs/)
     * [Tableau des médailles](https://www.leparisien.fr/jo-paris-2024/tableau-des-medailles/)
+    * [Résultats par discipline](https://www.leparisien.fr/jo-paris-2024/resultats-par-discipline/)
     * [Équipe de France olympique](https://www.leparisien.fr/jo-paris-2024/equipe-de-france/)
-    * [Village olympique](https://www.leparisien.fr/jo-paris-2024/village-olympique/)
-    * [Jeux paralympiques de Paris 2024](https://www.leparisien.fr/jo-paralympiques-paris-2024/)
     
-* [En continu](https://www.leparisien.fr/actualites-en-continu/)
+* [Jeux paralympiques 2024](https://www.leparisien.fr/jo-paralympiques-paris-2024/)
+    
+    * [Résultats par discipline](https://www.leparisien.fr/jo-paralympiques-paris-2024/resultats-par-discipline/)
+    * [Calendrier et Programme](https://www.leparisien.fr/jo-paralympiques-paris-2024/calendrier/)
+    * [Tableau des médailles](https://www.leparisien.fr/jo-paralympiques-paris-2024/tableau-des-medailles/)
+    * [Médailles françaises](https://www.leparisien.fr/jo-paralympiques-paris-2024/tableau-des-medailles/france/)
+    * [Résultats en direct](https://www.leparisien.fr/jo-paralympiques-paris-2024/resultats/)
     
 * [Paris & Île-de-France](https://www.leparisien.fr/info-paris-ile-de-france-oise/)
     
@@ -79,12 +80,12 @@ Rechercher sur Le Parisien
     
 * [Politique](https://www.leparisien.fr/politique/)
     
-    * [Législatives 2024](https://www.leparisien.fr/elections/legislatives/)
+    * [Michel Barnier](https://www.leparisien.fr/politique/michel-barnier/)
     * [Résultats législatives 2024](https://www.leparisien.fr/resultats-elections/)
     
 * [International](https://www.leparisien.fr/international/)
     
-    * [États-Unis](https://www.leparisien.fr/international/etats-unis/)
+    * [Présidentielle américaine 2024](https://www.leparisien.fr/international/etats-unis/)
     * [Guerre Israël-Hamas](https://www.leparisien.fr/international/israel/)
     * [Guerre en Ukraine](https://www.leparisien.fr/crise-ukraine-russie/)
     
@@ -98,7 +99,6 @@ Rechercher sur Le Parisien
     * [Basket](https://www.leparisien.fr/sports/basket/)
     * [Tennis](https://www.leparisien.fr/sports/tennis/)
     * [Cyclisme](https://www.leparisien.fr/sports/cyclisme/)
-    * [Tour de France femmes 2024](https://www.leparisien.fr/sports/cyclisme/tour-de-france-feminin/)
     * [Handball](https://www.leparisien.fr/sports/handball/)
     * [Formule 1](https://www.leparisien.fr/sports/formule-1/)
     * [Hippisme](https://www.leparisien.fr/sports/hippisme/)
@@ -824,9 +824,9 @@ Profitez des avantages de l’offre numérique
 
 [Je m'abonne](#)
 
-![](/pf/resources/images/footer_img_abo_desktop.png?d=718)
+![](/pf/resources/images/footer_img_abo_desktop.png?d=726)
 
-![](/pf/resources/images/footer_img_abo_tablet.png?d=718)
+![](/pf/resources/images/footer_img_abo_tablet.png?d=726)
 
 [Centre Français d’Exploitation du Droit de Copie](http://www.cfcopies.com/contrat-autorisation2/)
 
