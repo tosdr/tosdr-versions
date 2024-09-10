@@ -1,4 +1,4 @@
-####   [OnlineGDB beta](https://www.onlinegdb.com/)
+####   [OnlineGDB](https://www.onlinegdb.com/)
 
 online compiler and debugger for c/c++
 ======================================
@@ -28,13 +28,17 @@ code. compile. run. debug. share.
 3. Projects saved on onlinegdb.com account are private to logged in account.  
       
     
-4. onlinegdb.com service comes with no warranty, explicit or implied, of availability, merchantability, or fitness for any purpose whatsoever.  
+4. **Inactive Account**
+    
+    If user doesn't perform any action with onlinegdb.com it is considered inactive. If account is inactive for 6 months of duration, provider of onlinegdb.com reserves the right to delete account and all associated with it including saved projects. This is applicable for free account only. It is not applicable to paid users.
+    
+5. onlinegdb.com service comes with no warranty, explicit or implied, of availability, merchantability, or fitness for any purpose whatsoever.  
       
     
-5. The provider of the onlinegdb.com service takes no responsibility, financial or otherwise, for any damage or loss resulting from the use of the onlinegdb.com service, including but not limited to damage to the user's hardware and software.  
+6. The provider of the onlinegdb.com service takes no responsibility, financial or otherwise, for any damage or loss resulting from the use of the onlinegdb.com service, including but not limited to damage to the user's hardware and software.  
       
     
-6. The provider of the onlinegdb.com service reserves the right to change these Terms of Use at any time.
+7. The provider of the onlinegdb.com service reserves the right to change these Terms of Use at any time.
 
 ×
 
