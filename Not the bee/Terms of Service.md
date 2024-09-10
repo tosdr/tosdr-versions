@@ -1,6 +1,6 @@
  [![Not the Bee logo](https://notthebee.com/img/ntb-full-logo.png)](https://notthebee.com/)[![Not the Bee logo](https://notthebee.com/img/ntb-full-logo-dark.png)](https://notthebee.com/)
 
-[Social](https://notthebee.com/social) [Takes](https://notthebee.com/takes) [Shop](https://shop.notthebee.com/) [Discover](https://notthebee.com/discover)
+[News](https://notthebee.com/) [Takes](https://notthebee.com/takes) [Sports](https://notthebee.com/sports) [Shop](https://shop.notthebee.com/)
 
 [Join](https://notthebee.com/join)
 
