@@ -11,15 +11,15 @@ About
 **Jackpocket Terms of Service**
 ===============================
 
-**Last Modified: June 26, 2024** 
+**Last Modified: August 29, 2024**
 
 **PLEASE READ THE BINDING ARBITRATION CLAUSE IN SECTION 18. IT AFFECTS HOW DISPUTES ARE RESOLVED.**
 
-These terms and conditions ("Terms of Service") govern your use of the Application (as defined below) as provided by Jackpocket, Inc. ("Jackpocket," the "Company," "We" or "Us"). These Terms of Service are a binding legal agreement between you and Jackpocket. Jackpocket may change these Terms of Service at any time without notice to you by posting the revised Terms of Service with the date they were revised.
+These terms and conditions ("Terms of Service") govern your use of the Application (as defined below) as provided by Jackpocket LLC ("Jackpocket," the "Company," "We" or "Us"). These Terms of Service are a binding legal agreement between you and Jackpocket. Jackpocket may change these Terms of Service at any time without notice to you by posting the revised Terms of Service with the date they were revised.
 
 When ordering a lottery ticket through Jackpocket, you are placing an order for a lottery ticket and not purchasing a lottery ticket directly. As a service provider and acting on your behalf, Jackpocket will fulfill that order through a licensed retailer in the jurisdiction where the order was placed. Jackpocket is the retailer's authorized agent for accepting payment from Users (as defined below).
 
-IMPORTANT LEGAL NOTICE: PLEASE READ THESE TERMS OF SERVICE CAREFULLY AS THEY AFFECT YOUR LEGAL RIGHTS AND OBLIGATIONS. JACKPOCKET, INC. IS NOT AFFILIATED, OR ENDORSED BY ANY STATE LOTTERY OR GOVERNMENT AGENCY. IF YOU DO NOT AGREE TO THESE TERMS OF SERVICE IN THEIR ENTIRETY, DO NOT ACCESS OR USE THE SERVICE.
+IMPORTANT LEGAL NOTICE: PLEASE READ THESE TERMS OF SERVICE CAREFULLY AS THEY AFFECT YOUR LEGAL RIGHTS AND OBLIGATIONS. JACKPOCKET LLC IS NOT AFFILIATED, OR ENDORSED BY ANY STATE LOTTERY OR GOVERNMENT AGENCY. IF YOU DO NOT AGREE TO THESE TERMS OF SERVICE IN THEIR ENTIRETY, DO NOT ACCESS OR USE THE SERVICE.
 
 **1\. Defined Terms**
 
@@ -37,7 +37,7 @@ For the purpose of these Terms of Service:
     
 6. "In-Store Redemption Threshold" is the maximum dollar value for which a winning ticket may be redeemed at a retailer for cash. This varies by state. Check your Regulator's official website for this value;
     
-7. "Jackpocket", "we" and "us" means Jackpocket, Inc., including its agents, contractors, and any parties involved in creating, producing, or delivering this Application;
+7. "Jackpocket", "we" and "us" means Jackpocket LLC, including its parents, subsidiaries, affiliates, agents, contractors, and any parties involved in creating, producing, or delivering this Application;
     
 8. "Jackpocket Credits" means any funds in a User's Account. Jackpocket Credits are added when a User wins an amount less than or equal to the In-Store Redemption Threshold of the applicable State Lottery. Jackpocket Credits may be added to a User's account by Jackpocket for promotional or compensation purposes as well;
     
@@ -281,6 +281,8 @@ Pursuant to N.J.A.C. 17:20-12.5(a)9, Jackpocket is required to disclose our insu
         
     * Directors & Officers Liability: $2 million
         
+
+Pursuant to N.J.A.C. 17:20-7.7, holders of winning lottery tickets or shares are anonymous, but may expressly consent to waive their anonymity to allow the following information to be published by the New Jersey Division of the Lottery, its marketing and sales contractors and subcontractors, and lottery couriers, including Jackpocket: (i) name, (ii) town and state of residence, (iii) game name and drawing date, (iv) amount won, and (v) photographic and video-graphic likeness in any medium for purposes of publicity or promotion. In the event a winner remains anonymous, the New Jersey Division of the Lottery, its marketing and sales contractors and subcontractors, and lottery couriers, including Jackpocket, may publish the following: (i) name of the county and state where winner resides, (ii) game name and drawing date, and (iii) amount won. The foregoing does not apply to second chance drawings, contests or giveaways. In such instances, house number, street name, social security numbers, taxpayer ID numbers, driver’s license numbers, passport numbers, and any other identifying information, other than individual’s name and town of residence, shall remain confidential for all purposes.
 
 **Jackpocket is a courier service licensed by the New Jersey Lottery. Please be warned that ordering New Jersey Lottery tickets through a courier service not licensed by the New Jersey Lottery may expose you to fraud or other illegal activity.**
 
@@ -541,7 +543,7 @@ You should note that by using the Application, you grant Jackpocket the non-excl
     
 4. We Both Agree to Arbitrate. You and Jackpocket agree to resolve through final and binding arbitration any claims relating to these Terms of Service, the Application, and any Tickets, prizes or other services offered on or through the Application, except as set forth under Exceptions to Agreement to Arbitrate below. The arbitration shall be held in the state in which you reside. For residents outside the United States, arbitration shall be initiated in New York, New York, and you and Jackpocket agree to submit to the personal jurisdiction of any or state or federal court in New York, New York to compel arbitration, stay proceedings pending arbitration, or to confirm, modify, vacate or enter judgment on the aware entered by the arbitrator.
     
-5. Opt-out of Agreement to Arbitrate. You can decline this agreement to arbitrate by sending a letter to Jackpocket that must be postmarked within 30 days of your first acceptance of these Terms of Service. The letter must specify your first and last names, Account ID, mailing address, and explain that you are opting out of this arbitration provision. The letter should be sent to Jackpocket Inc., Attn: Legal Department, 100 Park Ave, 16th Floor, New York, NY 10017
+5. Opt-out of Agreement to Arbitrate. You can decline this agreement to arbitrate by sending a letter to Jackpocket that must be postmarked within 30 days of your first acceptance of these Terms of Service. The letter must specify your first and last names, Account ID, mailing address, and explain that you are opting out of this arbitration provision. The letter should be sent to Jackpocket LLC, Attn: Jackpocket Legal Department, 222 Berkeley Street, 5th Floor, Boston, MA 02116
     
 6. Arbitration Procedures. The arbitration shall be conducted by a single arbitrator, governed by the rules of JAMS that are in effect at the time the arbitration is initiated available at jamsadr.com or by calling JAMS at 1-800-352-5276 (referred to as the "JAMS Rules") and under the rules set forth in these Terms of Service. We may also mutually agree to have the arbitration conducted by telephone or based on written submissions.
     
@@ -638,7 +640,7 @@ If you need additional support, the National Council on Problem Gambling (NCPG) 
 
 These Terms of Service, our Privacy Policy, the Prize Sharing Agreement, and any applicable Limited Power of Attorney constitute the sole and entire agreement between you and the Company with respect to the Application and supersede all prior and contemporaneous understandings, agreements, representations and warranties, both written and oral, with respect to the Application. Nothing in the Terms of Service, express or implied, shall be deemed to confer any rights or remedies upon, nor obligate any of the parties hereto, to any person or entity other than such parties, unless so stated to the contrary.
 
-© 2024 Jackpocket, Inc.
+© 2024 Jackpocket LLC
 
 [![Jackpocket](https://7j66bvtd.media.zestyio.com/logo_jackpocket_dotcom_on-white.svg)](https://www.jackpocket.com/)
 
