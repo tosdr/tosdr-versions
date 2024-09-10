@@ -1,4 +1,4 @@
-Join us at Compose Conference, October 2-3. [Register now!](https://www.netlify.com/compose/?utm_content=eyebrow)
+Stay ahead - learn what’s new in composable, AI, and beyond at Compose 2024. [Grab your ticket!](https://www.netlify.com/compose/?utm_content=eyebrow)
 
 Close announcement bar
 
