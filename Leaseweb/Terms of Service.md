@@ -1,6 +1,6 @@
 Skip to Header Skip to Main Content Skip to Footer
 
-[Our sizzling summer sale has started! Buy now](https://www.leaseweb.com/en/c/summer-sale-2024?utm_source=website&amp;utm_medium=ribbon&amp;utm_campaign=Summer_Sale&amp;utm_content=Global%22)
+[Shop our Autumn sale and receive 25% off Small, Medium, Large, xLarge, and 2xLarge VPS packages.](https://www.leaseweb.com/en/products-services/cloud/virtual-private-server?utm_source=website&utm_medium=ribbon&utm_campaign=VPS_Autumn&utm_content=Global)
 
 [Blog](https://blog.leaseweb.com/)[Knowledge Base](https://kb.leaseweb.com/)[Developer API](http://developer.leaseweb.com/)[Status](https://www.leasewebstatus.com/)[Customer Portal](https://secure.leaseweb.com/)
 
