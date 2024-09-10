@@ -1,4 +1,4 @@
-![](//fls-na.amazon.com/1/batch/1/OP/A1EVAM02EL8SFB:139-6121630-7395816:NST2630ABC6SDBDKFJV4$uedata=s:%2Frd%2Fuedata%3Fstaticb%26id%3DNST2630ABC6SDBDKFJV4:0)      
+![](//fls-na.amazon.com/1/batch/1/OP/A1EVAM02EL8SFB:137-4841893-5787502:ASC3ASYEJ1CNAY5R3P99$uedata=s:%2Frd%2Fuedata%3Fstaticb%26id%3DASC3ASYEJ1CNAY5R3P99:0)      
 
 Menu
 
@@ -18,7 +18,7 @@ Watch
 
 Awards & Events
 
-[San Diego Comic-Con](https://www.imdb.com/comic-con/?ref_=nv_ev_csegsdcc)[Oscars](https://www.imdb.com/oscars/?ref_=nv_ev_csegosc)[Emmys](https://www.imdb.com/emmys/?ref_=nv_ev_csegemy)[STARmeter Awards](https://www.imdb.com/starmeterawards/?ref_=nv_ev_sma)[Awards Central](https://www.imdb.com/awards-central/?ref_=nv_ev_csegawds)[Festival Central](https://www.imdb.com/festival-central/?ref_=nv_ev_csegfest)[All Events](https://www.imdb.com/event/all/?ref_=nv_ev_all)
+[Oscars](https://www.imdb.com/oscars/?ref_=nv_ev_csegosc)[Emmys](https://www.imdb.com/emmys/?ref_=nv_ev_csegemy)[TIFF](https://www.imdb.com/toronto/?ref_=nv_ev_csegtiff)[Festival Season](https://www.imdb.com/festival-central/?ref_=nv_ev_csegfest)[Hispanic Heritage Month](https://www.imdb.com/spotlight/?ref_=nv_ev_cseghhm)[STARmeter Awards](https://www.imdb.com/starmeterawards/?ref_=nv_ev_sma)[Awards Central](https://www.imdb.com/awards-central/?ref_=nv_ev_csegawds)[All Events](https://www.imdb.com/event/?ref_=nv_ev_all)
 
 Celebs
 
@@ -54,7 +54,7 @@ Community
 
 [](https://www.imdb.com/?ref_=nv_home)
 
-All
+AllAll
 
 [](https://pro.imdb.com/login/ap?u=/login/lwa&imdbPageAction=signUp&rf=cons_nb_hm&ref_=cons_nb_hm)
 
@@ -211,13 +211,28 @@ Additional IMDb Software Terms
 
 Sign in for more accessSign in for more access
 
+Follow IMDb on social
+
 * [](https://www.tiktok.com/@imdb "TikTok")
 * [](https://instagram.com/imdb "Instagram")
 * [](https://twitter.com/imdb "Twitter")
 * [](https://youtube.com/imdb/ "YouTube")
 * [](https://facebook.com/imdb "Facebook")
 
-* [Get the IMDb app](https://slyb.app.link/SKdyQ6A449)
+Get the IMDb app
+
+For Android and iOS
+
+![Get the IMDb app](https://m.media-amazon.com/images/G/01/IMDb/Mobile/DesktopQRCode-png.png)
+
+[](https://slyb.app.link/Aa96cLcBeAb)
+
+* [](https://www.tiktok.com/@imdb "TikTok")
+* [](https://instagram.com/imdb "Instagram")
+* [](https://twitter.com/imdb "Twitter")
+* [](https://youtube.com/imdb/ "YouTube")
+* [](https://facebook.com/imdb "Facebook")
+
 * [Help](https://help.imdb.com/imdb)
 * [Site Index](https://help.imdb.com/article/imdb/general-information/imdb-site-index/GNCX7BHNSPBTFALQ#so)
 * [IMDbPro](https://pro.imdb.com/?ref_=cons_tf_pro&rf=cons_tf_pro)
@@ -236,4 +251,4 @@ IMDb, an Amazon company
 
 © 1990-2024 by IMDb.com, Inc.
 
-![](//fls-na.amazon.com/1/batch/1/OP/A1EVAM02EL8SFB:139-6121630-7395816:NST2630ABC6SDBDKFJV4$uedata=s:%2Frd%2Fuedata%3Fnoscript%26id%3DNST2630ABC6SDBDKFJV4:0)
+![](//fls-na.amazon.com/1/batch/1/OP/A1EVAM02EL8SFB:137-4841893-5787502:ASC3ASYEJ1CNAY5R3P99$uedata=s:%2Frd%2Fuedata%3Fnoscript%26id%3DASC3ASYEJ1CNAY5R3P99:0)
