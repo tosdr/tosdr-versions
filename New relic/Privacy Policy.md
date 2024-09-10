@@ -73,40 +73,17 @@ Submit
 * [Pricing](https://newrelic.com/pricing)
 * Solutions
     
-    Solutions
+    ![Customer Stories](/sites/default/files/2024-08/customer-stories-desktop-jpg.jpg)
     
-    [![APM icon](/sites/default/files/2023-08/solutions-apm.svg)
+    The world's leading companies run on New Relic.
     
-    Customers on APM
-    
-    Customers on managing distributed systems, improving user experience, and more.](https://newrelic.com/blog/how-to-relic/customers-apm-monitoring)
-    
-    [![Kubernetes icon](/sites/default/files/2023-08/solutions-kubernates.svg)
-    
-    IGS Cut Costs
-    
-    How IGS cut costs while improving monitoring.](https://newrelic.com/blog/how-to-relic/igs-cut-costs-observability-monitoring)
-    
-    [![Ecommerce icon](/sites/default/files/2023-08/solutions-ecommerce.svg)
-    
-    William Hill
-    
-    William Hill improves MTTR by 80%.](https://newrelic.com/customers/william-hill)
-    
-    1
-    
-    2
-    
-    3
-    
-    [View Customer Stories View Customer Stories](https://newrelic.com/customers)
+    [Customer Stories Customer Stories](https://newrelic.com/customers)
     
     Use Cases
     
     * [Digital Experience Monitoring](https://newrelic.com/solutions/digital-experience-monitoring)
     * [Go from reactive to responsive](https://newrelic.com/practices/reactive-to-responsive)
     * [DevOps](https://newrelic.com/devops)
-    * [Cloud Adoption](https://newrelic.com/solutions/cloud-adoption)
     * [Tool Consolidation](https://newrelic.com/solutions/tool-consolidation)
     * [Open Source](https://newrelic.com/solutions/open-source)
     
@@ -116,7 +93,7 @@ Submit
     * [Healthcare](https://newrelic.com/solutions/industry/healthcare)
     * [Media & Entertainment](https://newrelic.com/solutions/industry/digital-media-monitoring)
     * [New Relic for Startups](https://newrelic.com/solutions/industry/startups)
-    * [Non Profit](https://newrelic.com/social-impact/signup)
+    * [Nonprofit](https://newrelic.com/social-impact/signup)
     * [Public Sector](https://newrelic.com/solutions/industry/public-sector)
     
     Technologies
@@ -152,6 +129,7 @@ Submit
     
     3
     
+* [Enterprise](https://newrelic.com/solutions/enterprise-monitoring)
 * Developers
     
     Developers
@@ -237,8 +215,6 @@ Submit
     
 * Resources
     
-    Resources
-    
     * [About Us](https://newrelic.com/about)
     * [Leadership](https://newrelic.com/about/leadership)
     * [Careers](https://newrelic.com/about/culture)
@@ -247,25 +223,32 @@ Submit
     * [Newsroom](https://newrelic.com/about/newsroom)
     * [ESG](https://newrelic.com/about/environmental-social-governance)
     * [Community Forum](https://forum.newrelic.com/s)
+    * [Technical Support](https://support.newrelic.com/)
     
+    * [Customer Stories
+        
+        Videos and case studies show how companies win with observability.](https://newrelic.com/customers)
     * [Resource Library
         
         Ebooks, data sheets, and white papers.](https://newrelic.com/resources)
     * [New Relic Blog
         
         Industry updates, tips, and best practices.](https://newrelic.com/blog)
-    * [Observability Value Calculator
-        
-        Learn the value of New Relic to your business.](https://newrelic.com/platform/value-calculator)
     * [Events & Webinars
         
         Join us for an upcoming event or training.](https://newrelic.com/events)
     * [New Relic University
         
         Learning paths and training courses.](https://learn.newrelic.com/)
-    * [Technical Support
+    * [Observability Value Calculator
         
-        Expert support for our global clients.](https://support.newrelic.com/)
+        Learn the value of New Relic to your business.](https://newrelic.com/platform/value-calculator)
+    
+    [![Gartner resource icon](/sites/default/files/2024-08/Gartner%20Leader.svg)
+    
+    2024 Magic Quadrant™️
+    
+    Download your copy of the Gartner®️ Magic Quadrant™️ for Observability Platforms.](https://newrelic.com/resources/gartner-magic-quadrant-observability)
     
     [![APM logo](/sites/default/files/2024-04/1-APM.svg)
     
@@ -279,19 +262,12 @@ Submit
     
     Learn how a unified platform for APM and infrastructure monitoring can streamline operations and reduce costs.](https://newrelic.com/resources/ebooks/single-platform-infrastructure-monitoring-apm)
     
-    [![Architecture icon](/sites/default/files/2024-04/3-architecture.svg)
-    
-    Monitor SaaS apps
-    
-    Maximize your SaaS application's efficiency with New Relic strategic monitoring solutions for multi-tenant environments.](https://newrelic.com/blog/how-to-relic/monitoring-multi-tenant-saas-applications)
-    
     1
     
     2
     
     3
     
-* [Docs](https://docs.newrelic.com/)
 
 Search toggle
 
@@ -304,7 +280,7 @@ New Relic, Inc.
 General Data Privacy Notice
 ===========================
 
-Last updated July 1, 2024\*
+Last updated August 23, 2024\*
 
 Welcome to New Relic! New Relic's full-stack data analysis platform enables businesses to have a clearer view of what’s happening in their software.
 
@@ -318,7 +294,7 @@ For California Residents, please see our [California Applicant Privacy Notice](h
 
 This New Relic General Data Privacy Notice (“General Privacy Notice”) explains who we are, how we collect, share and use personal data about you, and how you can exercise your privacy rights. We are committed to protecting your information and being transparent about the information we collect about you and how we use it.
 
-We recommend that you read this General Privacy Notice in full to ensure you are informed. If you have any questions about this General Privacy Notice please see [Section 16 (How to Contact Us)](#how_to_contact_us). If there’s a particular section you’re interested in reviewing, click on a link below to jump to that spot.
+We recommend that you read this General Privacy Notice in full to ensure you are informed. If you have any questions about this General Privacy Notice please see [Section 17 (How to Contact Us)](#how_to_contact_us). If there’s a particular section you’re interested in reviewing, click on a link below to jump to that spot.
 
 **1\. [Definitions](#definitions)**  
 **2\. [Who We Are](#who_we_are)**  
@@ -332,10 +308,11 @@ We recommend that you read this General Privacy Notice in full to ensure you are
 **10\. [Do Not Track and Global Privacy Control](#do_not_track)**  
 **11\. [Advertising](#advertising)**  
 **12\. [Third Party Websites and Social Media Widgets](#third_party_websites_and_social_media_widgets)**  
-**13\. [Security of Your Personal Data](#security_of_your_personal_data)**  
-**14\. [Children](#children)**  
-**15\. [Changes to this General Privacy Notice](#changes_to_this_privacy_notice)**  
-**16\. [How to Contact Us](#how_to_contact_us)**  
+**13\. [AI Chatbot](#ai_chatbot)**  
+**14\. [Security of Your Personal Data](#security_of_your_personal_data)**  
+**15\. [Children](#children)**  
+**16\. [Changes to this General Privacy Notice](#changes_to_this_privacy_notice)**  
+**17\. [How to Contact Us](#how_to_contact_us)**  
 
 1\. Definitions  
 
@@ -382,11 +359,11 @@ b. Personal Data we collect directly from you includes contact, financial and bi
 |     |     |     |
 | --- | --- | --- |
 | Personal Data category | Examples of how it may be collected by New Relic directly | Collected automatically |
-| Contact information | If you<br><br>* express an interest in obtaining additional information about our Services<br>* request customer support<br>* use our "Contact Us" or similar features<br>* register to use our Sites and other New Relic platforms, such as pixielabs.ai, sign up for or attend an event, webinar or contest<br>* download certain content, such as whitepapers from our Sites or third-party sites<br>* participate in a New Relic research study or promotion<br>* initiate a webchat on the New Relic website | No  |
+| Contact information | If you<br><br>* express an interest in obtaining additional information about our Services<br>* request customer support<br>* use our "Contact Us" or similar features<br>* register to use our Sites and other New Relic platforms, such as pixielabs.ai, sign up for or attend an event, webinar or contest<br>* download certain content, such as whitepapers from our Sites or third-party sites<br>* participate in a New Relic research study or promotion<br>* initiate a chat via the New Relic AI chatbot feature on our Site | No  |
 | Financial & billing information | If you<br><br>* make purchases via our Sites<br>* register for an event or webinar | No  |
 | Event visitor information | If you<br><br>* attend an event | No  |
 | Community profile information | We may collect this data in a variety of contexts.  <br>  <br>If you<br><br>* attend a New Relic promotion or event, your image may be captured in a photo or video<br>* participate in a New Relic research study your research session may be recorded with your consent. | No  |
-| Office visitor information | If you<br><br>* visit our Sites<br><br>  <br>Some of this information may be collected using cookies and similar tracking technology, as explained further in the [New Relic Cookie Policy](https://newrelic.com/termsandconditions/cookie-policy/). | Yes |
+| Web traffic information | If you<br><br>* visit our Sites<br><br>  <br>Some of this information may be collected using cookies and similar tracking technology, as explained further in the [New Relic Cookie Policy](https://newrelic.com/termsandconditions/cookie-policy/). | Yes |
 
 If you provide to us or to our service providers any Personal Data relating to other individuals or third parties (such as your beneficiaries, references for job candidates, or referrals for the purposes of collaboration within the New Relic platform), you represent that you have the authority to do so and permit us to use the Personal Data in accordance with this General Privacy Notice. If you would like to exercise your rights relating to your Personal Data, please see [Section 9 (Your Choices and Data Protection Rights)](#your_choices_and_data_protection_rights).
 
@@ -474,7 +451,7 @@ g. _Other person(s)._ Where you provide consent to the disclosure or as allowed 
 
 When we use your Personal Data, we take care to ensure that it is used in an appropriate way. Our use of Personal Data is done under one of various legal bases, including for our legitimate interest, in performance of a contract or with your consent.
 
-If you have questions about or need further information concerning the legal basis on which we collect and use your Personal Data, please see [Section 16 (How to Contact Us)](#how_to_contact_us).
+If you have questions about or need further information concerning the legal basis on which we collect and use your Personal Data, please see [Section 17 (How to Contact Us)](#how_to_contact_us).
 
 Read More
 
@@ -494,7 +471,7 @@ We retain Personal Data we collect from you where we have an ongoing legitimate 
 
 When we have no ongoing legitimate business need to process your Personal Data, we will either delete or anonymise it or, if this is not possible (for example, because your Personal Data has been stored in backup archives), then we will securely store your Personal Data and isolate it from any further processing until deletion is possible. Where we rely on your consent you have the right to withdraw it at any time in the manner indicated when you consent.
 
-If you have questions about or need further information concerning the retention of your Personal Data, please see [Section 16 (How to Contact Us)](#how_to_contact_us).
+If you have questions about or need further information concerning the retention of your Personal Data, please see [Section 17 (How to Contact Us)](#how_to_contact_us).
 
 8\. International Data Transfers  
 
@@ -550,7 +527,7 @@ e. Nevada
 
 If you are a resident of Nevada, you have the right to submit a request that we do not sell to third parties certain types of personal information that we have collected or will collect about you. You can exercise this right by contacting us at privacy@newrelic.com with the subject line “Nevada Do Not Sell Request” and providing us with your name and the email address. Please note that we do not currently sell your personal information as the term “sale” is defined in Nevada Revised Statutes Chapter 603A.
 
-If you have any questions about New Relic’s privacy practices, you can contact us as described in [Section 16 (How to Contact Us)](#how_to_contact_us)
+If you have any questions about New Relic’s privacy practices, you can contact us as described in [Section 17 (How to Contact Us)](#how_to_contact_us)
 
 f. Virginia
 
@@ -564,7 +541,7 @@ You may opt out of the disclosure of your Personal Data for targeted advertising
 
 If we refuse to take action on a data protection request that you have made, you may appeal our decision within a reasonable period of time by contacting us at privacy@newrelic.com and specifying that you wish to appeal. Within 60 days of our receipt of your appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal is denied, you may submit a complaint to the Virginia Attorney General at the following address [https://www.oag.state.va.us/consumer-protection/index.php/file-a-complaint](https://www.oag.state.va.us/consumer-protection/index.php/file-a-complaint).
 
-If you have any questions about New Relic’s privacy practices, you can contact us as described in [Section 16 (How to Contact Us)](#how_to_contact_us)
+If you have any questions about New Relic’s privacy practices, you can contact us as described in [Section 17 (How to Contact Us)](#how_to_contact_us)
 
 g. Colorado
 
@@ -576,7 +553,7 @@ You may opt out of the disclosure of your Personal Data for targeted advertising
 
 If we refuse to take action on a data protection request that you have made, you may appeal our decision within a reasonable period of time by contacting us at privacy@newrelic.com and specifying that you wish to appeal. Within 45 days of our receipt of your appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal is denied, you may submit a complaint to the Colorado Attorney General by following the instructions here: [https://complaints.coag.gov/s/contact-us](https://complaints.coag.gov/s/contact-us).
 
-If you have any questions about New Relic’s privacy practices, you can contact us as described in [Section 16 (How to Contact Us)](#how_to_contact_us)
+If you have any questions about New Relic’s privacy practices, you can contact us as described in [Section 17 (How to Contact Us)](#how_to_contact_us)
 
 h. Connecticut
 
@@ -588,7 +565,7 @@ You may opt out of the disclosure of your Personal Data for targeted advertising
 
 If we refuse to take action on a data protection request that you have made, you may appeal our decision within a reasonable period of time by contacting us at privacy@newrelic.com and specifying that you wish to appeal. Within 60 days of our receipt of your appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal is denied, you may submit a complaint to the Connecticut Attorney General by following the instructions here: [https://portal.ct.gov/AG/Common/Complaint-Form-Landing-page](https://portal.ct.gov/AG/Common/Complaint-Form-Landing-page).
 
-If you have any questions about New Relic’s privacy practices, you can contact us as described in [Section 16 (How to Contact Us)](#how_to_contact_us)
+If you have any questions about New Relic’s privacy practices, you can contact us as described in [Section 17 (How to Contact Us)](#how_to_contact_us)
 
 i. Utah
 
@@ -598,7 +575,7 @@ You can request that we confirm if we actually process your Personal Data and re
 
 You may opt out of the disclosure of your Personal Data for targeted advertising by clicking on the Your Privacy Choices tab on www.newrelic.com or by contacting us at privacy@newrelic.com with the subject line “Utah Do Not Disclose My Data for Targeted Advertising”. In order to protect your Personal Data from unauthorized access, we may require you to verify your credentials before you can submit a data protection request. If you do not have an account with us, or if we suspect that your account has been accessed without your authorization, we may ask you to provide additional personal information for verification purposes.
 
-If you have any questions about New Relic’s privacy practices, you can contact us as described in [Section 16 (How to Contact Us)](#how_to_contact_us)
+If you have any questions about New Relic’s privacy practices, you can contact us as described in [Section 17 (How to Contact Us)](#how_to_contact_us)
 
 j. Oregon
 
@@ -610,7 +587,7 @@ You may opt out of the disclosure of your personal data for targeted advertising
 
 If we refuse to take action on a data protection request that you have made, you may appeal our decision within a reasonable period of time by contacting us at privacy@newrelic.com and specifying that you wish to appeal. Within 45 days of our receipt of your appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal is denied, you may submit a complaint to the Oregon Attorney General at the following address: [www.doj.state.or.us/consumer-protection/contact-us/](https://www.doj.state.or.us/consumer-protection/contact-us/).
 
-If you have any questions about New Relic’s privacy practices, you can contact us as described in [Section 16 (How to Contact Us)](#how_to_contact_us).
+If you have any questions about New Relic’s privacy practices, you can contact us as described in [Section 17 (How to Contact Us)](#how_to_contact_us).
 
 k. Texas
 
@@ -622,7 +599,7 @@ You may opt out of the disclosure of your personal data for targeted advertising
 
 If we refuse to take action on a data protection request that you have made, you may appeal our decision within a reasonable period of time by contacting us at privacy@newrelic.com and specifying that you wish to appeal. Within 60 days of our receipt of your appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal is denied, you may submit a complaint to the Connecticut Attorney General by following the instructions here: [www.texasattorneygeneral.gov/contact-us](https://texasattorneygeneral.gov/contact-us).
 
-If you have any questions about New Relic’s privacy practices, you can contact us as described in [Section 16 (How to Contact Us).](#how_to_contact_us)
+If you have any questions about New Relic’s privacy practices, you can contact us as described in [Section 17 (How to Contact Us).](#how_to_contact_us)
 
 l. Australia Supplemental Data Protection Law Disclosures. New Relic will process Personal Data under this General Data Privacy Notice in accordance with the Australian Privacy Act 1988 and the Australia Privacy Principles. If you are **an Australian resident** and you are dissatisfied with our handling of a data subject right request or a complaint, you can always contact us at Privacy@newrelic.com. If you disagree with the resolution proposed by us, you may make a complaint to the Office of the Australian Information Commissioner (“OAIC”) by contacting the OAIC using the methods listed on their website http://www.oaic.gov.au.
 
@@ -646,21 +623,25 @@ We have no control over, do not review, and cannot be responsible for, these out
 
 Our Sites also include social media features, such as the Facebook Like button and widgets, such as the “Share this” button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our Sites, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Sites. Your interactions with these features are also governed by the privacy policy of the company providing it.
 
-13\. Security of Your Personal Data  
+13\. AI Chatbot  
 
-New Relic is committed to protecting the security of your Personal Data. We use appropriate technical and organizational measures to protect your Personal Data from unauthorized access, use, or disclosure. For instance, when you enter your credit card number on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). All account accesses require users to provide their username and password. It is the responsibility of each user to maintain this information in a secure manner. Despite these measures, you should know that New Relic cannot fully eliminate security risks associated with Personal Data and mistakes and security breaches may happen. If you have any questions about security on our Sites, you can contact us as described in [Section 16 (How to Contact Us)](#how_to_contact_us).
+New Relic offers a third-party AI chatbot feature on our Site to enable us and our visitors conduct a live chat and/or so New Relic can provide the visitor with information upon request. We use cookies and your IP address to provide the service and to collect information about visitors' behavior on our Site. A chat session may be monitored, recorded or shared with the third party.
 
-14\. Children  
+14\. Security of Your Personal Data  
 
-Our Sites are not directed to children and we do not intentionally gather Personal Data about visitors who are under the age of 16. If you learn that anyone younger than 16 (or of older age as applicable under the laws of your jurisdiction) has provided us with Personal Data, please contact us as described in [Section 16 (How to Contact Us)](#how_to_contact_us), and we will take steps to delete such information. If you are a minor (as per the applicable laws in your jurisdiction) and are using this website, you may only do so with the consent of your parent or guardian.
+New Relic is committed to protecting the security of your Personal Data. We use appropriate technical and organizational measures to protect your Personal Data from unauthorized access, use, or disclosure. For instance, when you enter your credit card number on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). All account accesses require users to provide their username and password. It is the responsibility of each user to maintain this information in a secure manner. Despite these measures, you should know that New Relic cannot fully eliminate security risks associated with Personal Data and mistakes and security breaches may happen. If you have any questions about security on our Sites, you can contact us as described in [Section 17 (How to Contact Us)](#how_to_contact_us).
 
-15\. Changes to this Privacy Notice  
+15\. Children  
+
+Our Sites are not directed to children and we do not intentionally gather Personal Data about visitors who are under the age of 18. If you learn that anyone younger than 18 has provided us with Personal Data, please contact us as described in [Section 17 (How to Contact Us)](#how_to_contact_us), and we will take steps to delete such information.
+
+16\. Changes to this Privacy Notice  
 
 This General Privacy Notice may be changed from time to time, and if we make any substantial changes in the way we use your Personal Data, we will take appropriate measures to inform you, consistent with the significance of the changes we make. You can see when this General Privacy Notice was last updated by checking the “last updated” date displayed at the top of this General Privacy Notice.
 
 This Privacy Notice is effective as of the date set out at the top of this Privacy Notice. It describes the categories of personal information that we have collected, disclosed for a business or commercial purpose and sold over the preceding twelve (12) months.
 
-16\. How to Contact Us
+17\. How to Contact Us
 
 New Relic has a Data Protection Officer and has nominated both local and global Data Protection Officers. If you have questions about how your Personal Data is collected, stored, shared or used, or if you wish to exercise any of your data rights, or if you have a disability and need to access this notice in an alternative format, please contact our Data Protection Officers at:
 
@@ -687,15 +668,14 @@ The data controller of your Personal Data for all countries that New Relic does 
 
 \*Updated on July 1, 2024 with additional information on uses and disclosures on personal data.
 
-You may download a PDF copy of this Privacy Notice [here](https://newrelic.com/sites/default/files/2024-07/July%202024%20-New%20Relic%20General%20Data%20Privacy%20Notice.pdf).
+You may download a PDF copy of this Privacy Notice [here](https://live-d9newrelic.pantheonsite.io/sites/default/files/2024-08/New%20Relic%20General%20Data%20Privacy%20Notice%20Aug%202024.pdf).
 
 Prior Versions
 
+  
+[July 1, 2024](https://newrelic.com/termsandconditions/privacy/1jul2024)  
 [December 20, 2023](https://newrelic.com/termsandconditions/privacy/20dec2023)  
-[November 7, 2023](https://newrelic.com/termsandconditions/privacy/7nov2023)  
-[October 3, 2023](https://newrelic.com/termsandconditions/privacy/3oct2023)  
-[August 10, 2023](https://newrelic.com/termsandconditions/privacy/10aug2022)  
-[July 12, 2023](https://newrelic.com/termsandconditions/privacy/12jul2023)
+[November 7, 2023](https://newrelic.com/termsandconditions/privacy/7nov2023)
 
 Company
 
@@ -734,6 +714,7 @@ Resources
 * [Blog](https://newrelic.com/blog)
 * [Customer Case Studies](https://newrelic.com/customers)
 * [Community Forum](https://forum.newrelic.com/s/)
+* [Documentation](https://docs.newrelic.com/)
 * [Press Releases](https://newrelic.com/about/newsroom)
 * [New Relic University](https://learn.newrelic.com/)
 * [Partner Program](https://newrelic.com/solutions/partners)
@@ -769,6 +750,8 @@ FAQs
 [DMCA Policy](https://newrelic.com/termsandconditions/dmca)
 
 [Privacy Policy](https://newrelic.com/termsandconditions/privacy)
+
+[Website Terms](https://newrelic.com/termsandconditions/website-terms)
 
 Your Privacy Choices ![California Consumer Privacy Act (CCPA) Opt-Out Icon](/themes/custom/erno/assets/images/icons/misc/ccpa.svg) 
 
