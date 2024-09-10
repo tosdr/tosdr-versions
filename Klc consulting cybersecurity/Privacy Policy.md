@@ -1,6 +1,6 @@
 [Skip to content](#content "Skip to content")
 
-[![KLC Consluting: A CMMC Consulting and Assessment Company](https://klcconsulting.net/wp-content/uploads/2023/06/KLC-Consulting.png)](https://klcconsulting.net/)[![KLC Consulting is an authorized C3PAO company. We provide consulting and assessment services: CMMC compliance consultant CMMC consultants NIST 800-171 NIST 800-171 rev 2 CMMC Consulting best cmmc consultant CMMC for Multiple CAGE Codes Joint Surveillance Voluntary Assessment CMMC Readiness Assessment CMMC Assessment](https://klcconsulting.net/wp-content/uploads/2023/05/KLC-Consutling-C3PAO.svg)](https://klcconsulting.net/)[![CMMC Consulting Authorized C3PAO](https://klcconsulting.net/wp-content/uploads/2022/08/KLC-Consulting.svg)](https://klcconsulting.net/)
+[![KLC Consluting: A CMMC Consulting and Assessment Company](https://klcconsulting.net/wp-content/uploads/2023/06/KLC-Consulting.png)](https://klcconsulting.net/)[![KLC Consulting is an authorized C3PAO company. We provide consulting and assessment services: CMMC compliance consultant CMMC consultants NIST 800-171 NIST 800-171 rev 2 CMMC Consulting best cmmc consultant CMMC for Multiple CAGE Codes Joint Surveillance Voluntary Assessment CMMC Readiness Assessment CMMC Assessment](https://klcconsulting.net/wp-content/uploads/2023/05/KLC-Consutling-C3PAO.svg)](https://klcconsulting.net/)
 
 * [CMMC Services](#) Menu Toggle
     * [Gap Analysis](https://klcconsulting.net/cmmc-gap-analysis/)
@@ -19,6 +19,7 @@
     * [Blog](https://klcconsulting.net/cmmc-and-nist-resources/cmmc-education/)
     * [Case Studies](https://klcconsulting.net/cmmc-and-nist-resources/case-studies/)
     * [CMMC Terms & Links](https://klcconsulting.net/cmmc-and-nist-resources/)
+    * [CMMC Resource Tools](https://klcconsulting.net/cmmc-resource-tools/)
     * [Strategic Partners](https://klcconsulting.net/strategic-partners/)
     * [Videos](https://klcconsulting.net/cmmc-and-nist-resources/cmmc-videos/)
 * [About](#) Menu Toggle
@@ -29,7 +30,7 @@
 * [Contact](https://klcconsulting.net/contact/)
 * [617.314.9721  x158](tel:617.314.9721)
 
-[![KLC Consluting: A CMMC Consulting and Assessment Company](https://klcconsulting.net/wp-content/uploads/2023/06/KLC-Consulting.png)](https://klcconsulting.net/)[![KLC Consulting is an authorized C3PAO company. We provide consulting and assessment services: CMMC compliance consultant CMMC consultants NIST 800-171 NIST 800-171 rev 2 CMMC Consulting best cmmc consultant CMMC for Multiple CAGE Codes Joint Surveillance Voluntary Assessment CMMC Readiness Assessment CMMC Assessment](https://klcconsulting.net/wp-content/uploads/2023/05/KLC-Consutling-C3PAO.svg)](https://klcconsulting.net/)[![CMMC Consulting Authorized C3PAO](https://klcconsulting.net/wp-content/uploads/2022/08/KLC-Consulting.svg)](https://klcconsulting.net/)
+[![KLC Consluting: A CMMC Consulting and Assessment Company](https://klcconsulting.net/wp-content/uploads/2023/06/KLC-Consulting.png)](https://klcconsulting.net/)[![KLC Consulting is an authorized C3PAO company. We provide consulting and assessment services: CMMC compliance consultant CMMC consultants NIST 800-171 NIST 800-171 rev 2 CMMC Consulting best cmmc consultant CMMC for Multiple CAGE Codes Joint Surveillance Voluntary Assessment CMMC Readiness Assessment CMMC Assessment](https://klcconsulting.net/wp-content/uploads/2023/05/KLC-Consutling-C3PAO.svg)](https://klcconsulting.net/)
 
 Main Menu
 
@@ -50,6 +51,69 @@ Main Menu
     * [Blog](https://klcconsulting.net/cmmc-and-nist-resources/cmmc-education/)
     * [Case Studies](https://klcconsulting.net/cmmc-and-nist-resources/case-studies/)
     * [CMMC Terms & Links](https://klcconsulting.net/cmmc-and-nist-resources/)
+    * [CMMC Resource Tools](https://klcconsulting.net/cmmc-resource-tools/)
+    * [Strategic Partners](https://klcconsulting.net/strategic-partners/)
+    * [Videos](https://klcconsulting.net/cmmc-and-nist-resources/cmmc-videos/)
+* [About](#) Menu Toggle
+    * [About KLC Consulting](https://klcconsulting.net/about/about-klc-consulting/)
+    * [Contact Us](https://klcconsulting.net/contact/)
+    * [CMMC Events](https://klcconsulting.net/cmmc-and-nist-resources/cmmc-events-and-workshops/)
+    * [Speaking & Training](https://klcconsulting.net/cmmc-and-nist-resources/speaking-training/)
+* [Contact](https://klcconsulting.net/contact/)
+* [617.314.9721  x158](tel:617.314.9721)
+
+[![KLC Consluting: A CMMC Consulting and Assessment Company](https://klcconsulting.net/wp-content/uploads/2023/06/KLC-Consulting.png)](https://klcconsulting.net/)[![KLC Consulting is an authorized C3PAO company. We provide consulting and assessment services: CMMC compliance consultant CMMC consultants NIST 800-171 NIST 800-171 rev 2 CMMC Consulting best cmmc consultant CMMC for Multiple CAGE Codes Joint Surveillance Voluntary Assessment CMMC Readiness Assessment CMMC Assessment](https://klcconsulting.net/wp-content/uploads/2023/05/KLC-Consutling-C3PAO.svg)](https://klcconsulting.net/)
+
+* [CMMC Services](#) Menu Toggle
+    * [Gap Analysis](https://klcconsulting.net/cmmc-gap-analysis/)
+    * [CMMC Compliance Consulting](https://klcconsulting.net/cmmc-compliance-consulting/)
+    * [COTS Exemption](https://klcconsulting.net/cots-exemption-consulting/)
+    * [Readiness Assessment](https://klcconsulting.net/cmmc-readiness-assessment-service/)
+    * [JSVA Assessment](https://klcconsulting.net/joint-surveillance-voluntary-assessment/)
+    * [CMMC Level 2 Assessment](https://klcconsulting.net/cmmc-level-2-assessment/)
+* [Industries Served](#) Menu Toggle
+    * [Aerospace & Defense](https://klcconsulting.net/industries-served/cmmc-for-aerospace/)
+    * [Engineering and Consulting](https://klcconsulting.net/industries-served/cmmc-for-engineering-firms/)
+    * [IT/Managed Service Providers](https://klcconsulting.net/industries-served/cmmc-for-it-msp-companies/)
+    * [Manufacturing Companies](https://klcconsulting.net/industries-served/cmmc-for-manufacturers-machine-shops/)
+    * [Software Development](https://klcconsulting.net/industries-served/cmmc-for-software-development-companies/)
+* [Resources](#) Menu Toggle
+    * [Blog](https://klcconsulting.net/cmmc-and-nist-resources/cmmc-education/)
+    * [Case Studies](https://klcconsulting.net/cmmc-and-nist-resources/case-studies/)
+    * [CMMC Terms & Links](https://klcconsulting.net/cmmc-and-nist-resources/)
+    * [CMMC Resource Tools](https://klcconsulting.net/cmmc-resource-tools/)
+    * [Strategic Partners](https://klcconsulting.net/strategic-partners/)
+    * [Videos](https://klcconsulting.net/cmmc-and-nist-resources/cmmc-videos/)
+* [About](#) Menu Toggle
+    * [About KLC Consulting](https://klcconsulting.net/about/about-klc-consulting/)
+    * [Contact Us](https://klcconsulting.net/contact/)
+    * [CMMC Events](https://klcconsulting.net/cmmc-and-nist-resources/cmmc-events-and-workshops/)
+    * [Speaking & Training](https://klcconsulting.net/cmmc-and-nist-resources/speaking-training/)
+* [Contact](https://klcconsulting.net/contact/)
+* [617.314.9721  x158](tel:617.314.9721)
+
+[![KLC Consluting: A CMMC Consulting and Assessment Company](https://klcconsulting.net/wp-content/uploads/2023/06/KLC-Consulting.png)](https://klcconsulting.net/)[![KLC Consulting is an authorized C3PAO company. We provide consulting and assessment services: CMMC compliance consultant CMMC consultants NIST 800-171 NIST 800-171 rev 2 CMMC Consulting best cmmc consultant CMMC for Multiple CAGE Codes Joint Surveillance Voluntary Assessment CMMC Readiness Assessment CMMC Assessment](https://klcconsulting.net/wp-content/uploads/2023/05/KLC-Consutling-C3PAO.svg)](https://klcconsulting.net/)
+
+Main Menu
+
+* [CMMC Services](#) Menu Toggle
+    * [Gap Analysis](https://klcconsulting.net/cmmc-gap-analysis/)
+    * [CMMC Compliance Consulting](https://klcconsulting.net/cmmc-compliance-consulting/)
+    * [COTS Exemption](https://klcconsulting.net/cots-exemption-consulting/)
+    * [Readiness Assessment](https://klcconsulting.net/cmmc-readiness-assessment-service/)
+    * [JSVA Assessment](https://klcconsulting.net/joint-surveillance-voluntary-assessment/)
+    * [CMMC Level 2 Assessment](https://klcconsulting.net/cmmc-level-2-assessment/)
+* [Industries Served](#) Menu Toggle
+    * [Aerospace & Defense](https://klcconsulting.net/industries-served/cmmc-for-aerospace/)
+    * [Engineering and Consulting](https://klcconsulting.net/industries-served/cmmc-for-engineering-firms/)
+    * [IT/Managed Service Providers](https://klcconsulting.net/industries-served/cmmc-for-it-msp-companies/)
+    * [Manufacturing Companies](https://klcconsulting.net/industries-served/cmmc-for-manufacturers-machine-shops/)
+    * [Software Development](https://klcconsulting.net/industries-served/cmmc-for-software-development-companies/)
+* [Resources](#) Menu Toggle
+    * [Blog](https://klcconsulting.net/cmmc-and-nist-resources/cmmc-education/)
+    * [Case Studies](https://klcconsulting.net/cmmc-and-nist-resources/case-studies/)
+    * [CMMC Terms & Links](https://klcconsulting.net/cmmc-and-nist-resources/)
+    * [CMMC Resource Tools](https://klcconsulting.net/cmmc-resource-tools/)
     * [Strategic Partners](https://klcconsulting.net/strategic-partners/)
     * [Videos](https://klcconsulting.net/cmmc-and-nist-resources/cmmc-videos/)
 * [About](#) Menu Toggle
@@ -129,8 +193,8 @@ CMMC Services
 * [CMMC Compliance Consulting](https://klcconsulting.net/cmmc-compliance-consulting/)
 * [COTS Exemption](https://klcconsulting.net/cots-exemption-consulting/)
 * [Readiness Assessment](https://klcconsulting.net/cmmc-readiness-assessment-service/)
+* [JSVA Assessment](https://klcconsulting.net/joint-surveillance-voluntary-assessment/)
 * [CMMC Level 2 Assessment](https://klcconsulting.net/cmmc-level-2-assessment/)
-* [CUI Marking & Labeling](https://klcconsulting.net/cui-marking/)
 
 Resources
 ---------
