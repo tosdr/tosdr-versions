@@ -37,7 +37,6 @@ Termos e condições de usoPolítica de privacidade
 
 * [Como Usar Cupom de Desconto?](https://www.meliuz.com.br/blog/o-que-e-um-cupom-de-desconto/)
 * [Black Friday 2024](https://www.meliuz.com.br/black-friday)
-* [Dia dos Pais 2024](https://www.meliuz.com.br/blog/presentes-para-o-pai/)
 
 #### Parceria com lojas e indústrias
 
