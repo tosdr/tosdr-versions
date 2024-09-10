@@ -1,14 +1,19 @@
-Free Shipping Over €36.00 | Easy Returns
+Free Shipping Over $35.00
+
+Easy returns within 30 days
+
+24/7 Online customer service
 
 [](https://eur.patpat.com/)
 
-* [Halloween](https://eur.patpat.com/category/halloween.html)
-* [New In](https://eur.patpat.com/category/new-in.html)
-* [Characters](https://eur.patpat.com/category/characters.html)
-* [Baby](https://eur.patpat.com/category/baby-clothes.html)
-* [Toddler](https://eur.patpat.com/category/toddler-clothes.html)
-* [Kids](https://eur.patpat.com/category/kids-clothing.html)
-* [Family Matching](https://eur.patpat.com/category/family-matching-outfits.html)
+* [Halloween](https://eur.patpat.com/halloween-c.html)
+* [Christmas](https://eur.patpat.com/christmas-c.html)
+* [New In](https://eur.patpat.com/new-in-c.html)
+* [Characters](https://eur.patpat.com/characters-c.html)
+* [Baby](https://eur.patpat.com/baby-clothes-c.html)
+* [Toddler](https://eur.patpat.com/toddler-clothes-c.html)
+* [Kids](https://eur.patpat.com/kids-clothing-c.html)
+* [Family Matching](https://eur.patpat.com/family-matching-outfits-c.html)
 * [About](https://eur.patpat.com/about)
 
 Search[](https://eur.patpat.com/account/login)
@@ -188,7 +193,7 @@ Personal Data is collected for the following purposes and using the following se
     
     Pinterest Ads is an advertising service provided by Pinterest, Inc. that allows the Owner to run advertising campaigns on the Pinterest advertising network.
     
-    Users may opt out of behavioral advertising features through their device settings, their Pinterest [personalization settings](https://www.pinterest.com/settings/) or by visiting the [AdChoices opt-out page](https://eur.patpat.com/optout.aboutads.info).
+    Users may opt out of behavioral advertising features through their device settings, their Pinterest [personalization settings](https://www.pinterest.com/settings/) or by visiting the AdChoices opt-out page.
     
     Personal Data processed: Cookies.
     
@@ -1271,7 +1276,7 @@ _While such categorization of Personal Information is mainly based on California
 
 * ### Internet or other electronic network activity information
     
-    **Personal Information collected or disclosed:** Various types of data as specified in the privacy policy of the service, Trackers, Usage data, Cookies, Unique device identifiers for advertising (google advertiser id or idfa, for example), Email address, Geographic position, Language, Tracker, Universally unique identifier (uuid), Data communicated while using the service, Various types of data, Device information
+    **Personal Information collected or disclosed:** various types of Data as specified in the privacy policy of the service, Trackers, Usage Data, Cookies, unique device identifiers for advertising (Google Advertiser ID or IDFA, for example), email address, geographic position, language, Tracker, Universally unique identifier (UUID), Data communicated while using the service, various types of Data, device information
     
     **Purposes:**
     
@@ -1301,7 +1306,7 @@ _While such categorization of Personal Information is mainly based on California
     
 * ### Identifiers
     
-    **Personal Information collected or disclosed:** Contact email, Cookies, Usage data, Unique device identifiers for advertising (google advertiser id or idfa, for example), Email address, Geographic position, Language, Various types of data as specified in the privacy policy of the service, Tracker, Universally unique identifier (uuid), Trackers, Device information
+    **Personal Information collected or disclosed:** Contact email, Cookies, Usage Data, unique device identifiers for advertising (Google Advertiser ID or IDFA, for example), email address, geographic position, language, various types of Data as specified in the privacy policy of the service, Tracker, Universally unique identifier (UUID), Trackers, device information
     
     **Purposes:**
     
@@ -1321,7 +1326,7 @@ _While such categorization of Personal Information is mainly based on California
     
 * ### Geolocation data
     
-    **Personal Information collected or disclosed:** Cookies, Usage data, Unique device identifiers for advertising (google advertiser id or idfa, for example), Email address, Geographic position, Language, Various types of data as specified in the privacy policy of the service
+    **Personal Information collected or disclosed:** Cookies, Usage Data, unique device identifiers for advertising (Google Advertiser ID or IDFA, for example), email address, geographic position, language, various types of Data as specified in the privacy policy of the service
     
     **Purposes:**
     
@@ -1337,7 +1342,7 @@ _While such categorization of Personal Information is mainly based on California
     
 * ### Inferences drawn from other personal information
     
-    **Personal Information collected or disclosed:** Cookies, Usage data, Unique device identifiers for advertising (google advertiser id or idfa, for example), Email address, Geographic position, Language, Various types of data as specified in the privacy policy of the service
+    **Personal Information collected or disclosed:** Cookies, Usage Data, unique device identifiers for advertising (Google Advertiser ID or IDFA, for example), email address, geographic position, language, various types of Data as specified in the privacy policy of the service
     
     **Purposes:**
     
@@ -1531,30 +1536,31 @@ Latest update: March 08, 2024
 
 [Show the simplified Privacy Policy](https://eur.patpat.com/privacy-detail)
 
-* Free ShippingOn Orders €36+
-* Easy ReturnWithin 30 Days
-* 24/7 OnlineCustomer Service
-
 #### Subscribe and Unlock 15% Off Now!
 
 Subscribe to our newsletter and receive a 15% OFF CODE for your next purchase! Plus, enjoy exclusive updates, special deals, and insights into new product launches. Subscribe now and start saving!
 
 JOIN
 
-Thanks for subscribing!
-
-You got
-
 % OFF
 
-Coupon code:
+Thanks for subscribing! You will receive an email with your discount code shortly!
 
 SHOP NOW
+
+##### Products
+
+* [Matching Family Outfits](https://eur.patpat.com/family-matching-outfits-c.html)
+* [Character Clothing](https://eur.patpat.com/characters-c.html)
+* [Kids Clothing](https://eur.patpat.com/kids-clothing-c.html)
+* [Toddler Clothing](https://eur.patpat.com/toddler-clothes-c.html)
+* [Baby Clothing](https://eur.patpat.com/baby-clothes-c.html)
 
 ##### Customer Support
 
 * [Track Your Order](https://eur.patpat.com/guest/orderquery)
 * [Shipping Info](https://eur.patpat.com/delivery)
+* [Start A Return](https://patpat.happyreturns.com/)
 * [Return Policy](https://helpcenter.patpat.com/en/collections/7035429-returns-exchanges)
 * [Shopping Security](https://eur.patpat.com/shopping-security)
 * [Help Center](https://helpcenter.patpat.com/en)
@@ -1571,20 +1577,20 @@ SHOP NOW
 ##### Company Info
 
 * [About Us](https://eur.patpat.com/about)
-* [Blog](https://eur.patpat.com/blog)
+* [Blog](https://www.patpat.com/blog)
 * [Press](https://eur.patpat.com/press)
 * [Sustainability](https://eur.patpat.com/article/sustainability)
 * [PatPat Affiliate Program](https://affiliate.patpat.com/)
 * [Influencer Program](https://eur.patpat.com/celebrity-application)
 * [PatPat Community](https://www.facebook.com/groups/PatPatParentingCommunity)
 
-[Terms](https://eur.patpat.com/terms) [Privacy](https://eur.patpat.com/privacy)[DMCA Policy](https://eur.patpat.com/dmca-notice)[Community Guidelines](https://eur.patpat.com/article/community-guidelines) [Sitemap](https://eur.patpat.com/sitemap)
+[Terms](https://eur.patpat.com/terms) [Privacy](https://eur.patpat.com/privacy)[DMCA Policy](https://eur.patpat.com/dmca-notice)[Community Guidelines](https://eur.patpat.com/article/community-guidelines)[Accessibility Statement](https://eur.patpat.com/statement)Enable Accessibility [Sitemap](https://eur.patpat.com/sitemap)
 
-Belgium
+United States
 
 Shipping to
 
-![PatPat Image](https://image.yfswebstatic.com/origin/other/cms/event/3be0dbf2363918df8c8884d0847f596e.png?f=webp&s=160x160) Belgium
+![PatPat Image](https://image.yfswebstatic.com/origin/event/image-3c4e6b67-c6e8-482c-ae79-e0887cb5124e-1689734720069.png?f=webp&s=160x160) United States
 
 Language
 
@@ -1592,8 +1598,8 @@ English
 
 Currency
 
-EUR
+USD
 
 © 2024 Interfocus, Inc. All Rights Reserved
 
-[](https://www.instagram.com/patpat_europe/)[](https://twitter.com/patpatshopping)[](https://www.youtube.com/@PatPatclothing)[](https://www.facebook.com/patpat.europe/)[](https://www.pinterest.com/patpatshopping)[](https://www.tiktok.com/@patpatclothing)
+[](https://www.instagram.com/patpat_clothing/)[](https://twitter.com/patpatshopping)[](https://www.youtube.com/@PatPatclothing)[](https://www.facebook.com/patpatshopping/)[](https://www.pinterest.com/patpatshopping)[](https://www.tiktok.com/@patpatclothing)
