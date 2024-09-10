@@ -1,3 +1,5 @@
+ [![Logo](https://images.gamebanana.com/static/img/banana.png) ![Logo](https://images.gamebanana.com/static/img/logo.png)](https://gamebanana.com/)
+
 **Ads keep us online.** Without them, we wouldn't exist. We don't have paywalls or sell mods - **we never will.** But every month we have large bills and running ads is our only way to cover them. Please consider unblocking us. Thank you from GameBanana **<3**
 
 Terms of Service \- A Wiki.
@@ -26,7 +28,6 @@ Terms of Service \- A Wiki.
 * [3
     
     Thankers](https://gamebanana.com/wikis/thankers/334)
-* [Flags](https://gamebanana.com/wikis/admin/flags/334)
 * [Report](https://gamebanana.com/support/add?s=Wiki.334)
 
 This site requires JavaScript
