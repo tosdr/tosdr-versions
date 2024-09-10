@@ -1,4 +1,6 @@
-[![cropped-logo.png](https://bearable.app/wp-content/uploads/2020/11/cropped-logo.png "cropped-logo.png")](https://bearable.app/)
+[![cropped-logo.png](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20259%20250'%3E%3C/svg%3E "cropped-logo.png")
+
+![cropped-logo.png](https://bearable.app/wp-content/uploads/2020/11/cropped-logo.png "cropped-logo.png")](https://bearable.app/)
 
 [Bearable](https://bearable.app/)
 ---------------------------------
@@ -171,7 +173,7 @@ Your data is transmitted between your device and Bearable’s servers using the 
 **Disclosure of your personal data** 
 =====================================
 
-We will share some of your personal data with third parties outside Bearable only where it is strictly necessary to provide our services to you, where required by law, where we have another legitimate interest to do so or where you specifically consent to it.  Personal data may be shared in the following circumstances:
+We will share some of your personal data with third parties outside Bearable only where it is strictly necessary to provide our services to you, where required by law, where we have another legitimate interest to do so or where you specifically consent to it.  We will always seek legal advice prior to sharing this data and would always seek to disclose the minimum information necessary.  Personal data may be shared in the following circumstances:
 
 * Third Party Support Service Providers: For example: technology service providers, payment providers, data storage providers, and marketing platforms (e.g. for sending marketing emails),
 * Third Party Apps: some of your personal data may be shared with other Apps but only if you agree to that.  Please see the section below for further information.
@@ -422,7 +424,9 @@ Menu
 [Bearable](https://bearable.app/)
 ---------------------------------
 
-[![](https://bearable.app/wp-content/uploads/2020/11/cropped-logo.png)](https://bearable.app/)
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20259%20250'%3E%3C/svg%3E)
+
+![](https://bearable.app/wp-content/uploads/2020/11/cropped-logo.png)](https://bearable.app/)
 
 ©2024 Bearable Ltd
 
