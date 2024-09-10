@@ -2,7 +2,7 @@
 * [Blog](https://simple.io/blog)
 * [Admation Login](https://www.admation.com/cgi-bin/WebObjects/Admation.woa?configID=yfvv2aCNyy4JEeTtBbARY0)
 
-[![](/images/logo-simple.svg)](https://simple.io/)
+[![Simple Logo](/images/logo-simple.svg)](https://simple.io/)
 
 * [Products](https://simple.io/products/)
     
@@ -267,9 +267,9 @@ We reserve the right to update this privacy policy at any time, and we will prov
     * [Partners](https://simple.io/partners)
     * [Contact](https://simple.io/contact)
     
-    * [![](/images/icon-facebook.png)](https://facebook.com/SimpleHQ)
-    * [![](/images/icon-linkedin.png)](https://www.linkedin.com/company/simplehq)
-    * [![](/images/icon-twitter.png)](https://twitter.com/simplehq)
+    * [![Facebook Icon](/images/icon-facebook.png)](https://facebook.com/SimpleHQ)
+    * [![LinkedIn Icon](/images/icon-linkedin.png)](https://www.linkedin.com/company/simplehq)
+    * [![Twitter Icon](/images/icon-twitter.png)](https://twitter.com/simplehq)
     
 * [Products](https://simple.io/products/)
     
@@ -310,9 +310,9 @@ We reserve the right to update this privacy policy at any time, and we will prov
     * [FAQ](https://simple.io/faq)
     
 
-* [![](/images/icon-facebook.png)](https://facebook.com/SimpleHQ)
-* [![](/images/icon-linkedin.png)](https://www.linkedin.com/company/simplehq)
-* [![](/images/icon-twitter.png)](https://twitter.com/simplehq)
+* [![Facebook Icon](/images/icon-facebook.png)](https://facebook.com/SimpleHQ)
+* [![LinkedIn Icon](/images/icon-linkedin.png)](https://www.linkedin.com/company/simplehq)
+* [![Twitter Icon](/images/icon-twitter.png)](https://twitter.com/simplehq)
 
 © 2024 All rights reserved.
 
