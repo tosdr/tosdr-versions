@@ -45,7 +45,7 @@
     * [Opt-Out Requests](https://1105media.com/pages/customer-service.aspx#optouts)
     * [Media Kits](https://1105media.com/Forms/MediaKit.aspx)
     * [Ad Specs](https://1105media.com/Pages/Ad-Specs.aspx)
-    * [List Rental](https://www.dataaxleusa.com/)
+    * [List Rental](https://1105media.com/Pages/List-Rental.aspx)
     * [Reprints](http://www.1105reprints.com/)
     * [Privacy Policy](https://1105media.com/Pages/Privacy-Policy.aspx)
     * [Cookie Policy](https://1105media.com/Pages/Cookie-Policy.aspx)
