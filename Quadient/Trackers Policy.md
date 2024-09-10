@@ -92,7 +92,7 @@ Industries we serve [Financial services](https://www.quadient.com/en/enterprise-
 
 [Upgrade: Inspire R16](https://www.quadient.com/en/inspire-whats-new)
 
-Overview [AP overview](https://www.quadient.com/en/ap-automation) [Accounting teams](https://www.quadient.com/en/ap-automation/accounting-teams) [Plans](https://www.quadient.com/en/ap-automation/plans)
+Overview [AP overview](https://www.quadient.com/en/ap-automation) [Accounting teams](https://www.quadient.com/en/ap-automation/accounting-teams) [Plans](https://www.quadient.com/en/ap-automation/plans) [Compare](https://www.quadient.com/en/vs/quadient-ap)
 
 Products [Invoice automation](https://www.quadient.com/en/ap-automation/invoice-automation) [Expenses](https://www.quadient.com/en/ap-automation/expense-management) [Payments](https://www.quadient.com/en/ap-automation/payments) [Purchase orders](https://www.quadient.com/en/ap-automation/purchase-orders)
 
@@ -134,31 +134,31 @@ Other Resources [Tax information](https://mail.quadient.com/en/resources/tax-inf
 
 Resources
 
-[![Thumbnail of infographic against background showing cloud application management](https://backend.quadient.com/files/default/2024-07/thumb-infographic-flex-as-managed_v2.jpg "Inspire Flex-as-a-Managed-Service Infographic")
+[![Thumbnail of Inspire Adapt brochure against background showing documents streaming into PDF/UA](https://backend.quadient.com/files/default/2024-08/thumb-inspire-adapt-brochure-720x480.png "Inspire Adapt | Automated PDF Accessibility Solution")
 
-Inspire Flex-as-a-Managed-Service
+Inspire Adapt: Automated PDF Accessibility Solution
 
-A Quadient Managed Services Solution](https://www.quadient.com/en/resources/inspire-flex-managed-service)
+Rapidly adapt your documents for universal access](https://www.quadient.com/en/resources/inspire-adapt-automated-pdf-accessibility-solution)
 
-[![tablet-holding-ebook-13-reasons-to-choose-saas](https://backend.quadient.com/files/default/2024-07/tinified-en-us-thumb-2024-720x480-13_reasons_to_choose_saas.png "ebook-13-reasons-to-choose-saas")
+[![Grid image of the IDC Marketscape Worldwide Accounts Payable Automation Software for Small Businesses](https://backend.quadient.com/files/default/2024-09/idc_marketscape_0.jpg "Grid image of the IDC Marketscape Worldwide Accounts Payable Automation Software for Small Businesses")
 
-Power Up Your Document Management
+IDC MarketScape: Worldwide Accounts Payable Automation Software for Small Businesses
 
-13 Reasons to Choose SaaS](https://www.quadient.com/en/resources/cxm/ebook-13-reasons-choose-saas)
+Complimentary report access provided by Quadient](https://www.quadient.com/en/resources/IDC-marketscape-worldwide-accounts-payable-automation-small-business)
 
 Communications
+
+[![Xplor Technology of the Year Honorable Mention, 2024](https://backend.quadient.com/files/default/2024-09/thumb-blog-iforms-720x480.png)
+
+Inspire iForms Receives Honorable Mention for Technology of the Year
+
+Recognized by Xplor for advancing the CCM industry](https://www.quadient.com/en/blog/inspire-iforms-receives-honorable-mention-technology-year)
 
 [![Headshot of Andrew Stevens against Quadient Connects background](https://backend.quadient.com/files/default/2024-07/thumb-blog-qconnects-ccm-consolidation-720x480.png)
 
 Making the Case for CCM Consolidation
 
 More efficiency—less cost](https://www.quadient.com/en/blog/making-case-ccm-consolidation)
-
-[![Kaspar Roos, CEO & Founder of Aspire CCS at Quadient Connects](https://backend.quadient.com/files/default/2024-06/thumb-qconnects.png)
-
-Why 2024-2025 is Pivotal to the CCM-to-CXM Evolution
-
-Insights from Aspire's keynote presentation](https://www.quadient.com/en/blog/quadient-connects-why-2024-2025-are-pivotal-ccm-cxm-evolution)
 
 About Quadient [News](https://www.quadient.com/en/news) Our story [Standard of excellence](https://www.quadient.com/en/about-us/standard-of-excellence) [A worldwide presence](https://www.quadient.com/en/about-us/worldwide-presence) [Corporate social responsibility](https://invest.quadient.com/en-US/about-us/corporate-social-responsibility)
 
@@ -237,6 +237,7 @@ Because connections matter.
 * [Blog](https://www.quadient.com/en/blog)
 * [News](https://www.quadient.com/en/news)
 * [Events](https://www.quadient.com/en/events)
+* [Compare](https://www.quadient.com/en/vs/quadient-ap)
 * [Preference Center](https://www.quadient.com/en/preferences)
 * [Customer Success](https://www.quadient.com/en/customer-success)
 * [Terms of Service](https://www.quadient.com/en/terms-service)
