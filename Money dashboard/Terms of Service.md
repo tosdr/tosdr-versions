@@ -2,7 +2,7 @@ By using our site you agree with our [cookie policy](https://www.moneydashboard.
 
 Ok, got it
 
-[![Money Dashboard Logo (Black, Horizontal)](https://assets-global.website-files.com/5e383dad7605e041a403002f/5e383dad7605e02a860302af_mdb_horizontal_dark.svg)](https://www.moneydashboard.com/archived-pages/old-home)
+[![Money Dashboard Logo (Black, Horizontal)](https://cdn.prod.website-files.com/5e383dad7605e041a403002f/5e383dad7605e02a860302af_mdb_horizontal_dark.svg)](https://www.moneydashboard.com/archived-pages/old-home)
 
 Log in
 
@@ -214,7 +214,7 @@ Last updated: 23rd June 2020
 ‍
 -
 
-[![](https://assets-global.website-files.com/5e383dad7605e041a403002f/5e383dad7605e050820300a0_mdb_horizontal_dark.svg)](#)
+[![](https://cdn.prod.website-files.com/5e383dad7605e041a403002f/5e383dad7605e050820300a0_mdb_horizontal_dark.svg)](#)
 
 Authorised and regulated by the [Financial Conduct Authority](https://register.fca.org.uk/ShPo_FirmDetailsPage?id=0010X000047U3U5QAK) (reg. 800652) & registered provider on [openbanking.org.uk](https://www.openbanking.org.uk/regulated-providers/the-one-place-capital/)
 
