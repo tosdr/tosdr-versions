@@ -7,6 +7,7 @@ High-Tech Sunglasses Fit Over Prescriptions!
 * [Contact Us](https://getwraparounds.com/Contact-Us)
 * [Privacy Policy](https://getwraparounds.com/Privacy-Policy)
 * [FAQ](https://getwraparounds.com/FAQ)
+* [Wholesale](https://faire.com/direct/battlevision)
 
 * [Home](https://getwraparounds.com/Home)
 * [Contact Us](https://getwraparounds.com/Contact-Us)
@@ -656,6 +657,7 @@ original correspondence may not have been received.
 * [Contact Us](https://getwraparounds.com/Contact-Us)
 * [Privacy Policy](https://getwraparounds.com/Privacy-Policy)
 * [FAQ](https://getwraparounds.com/FAQ)
+* [Wholesale](https://faire.com/direct/battlevision)
 
 [](https://www.facebook.com/BulbHeadIdeas/)
 
