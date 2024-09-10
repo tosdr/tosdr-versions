@@ -1,20 +1,6 @@
-SafeDNS launches a redesigned dashboard with a new menu, faster performance, and improved security features!
-
-[Learn more](https://blog.safedns.com/game-on-safedns-launches-its-next-gen-dashboard/)
-
 [![safedns logo](/_next/static/media/safedns-main-logo.3354086f.svg)](https://www.safedns.com/)
 
-Solutions
-
-Pricing
-
-Features
-
-[Partner Program](https://www.safedns.com/partners/become-a-partner)
-
-Resources
-
-[About](https://www.safedns.com/about-us)
+[Features](https://www.safedns.com/features)[Pricing](https://www.safedns.com/pricing/business)[About](https://www.safedns.com/about-us)
 
 [Log in](https://www.safedns.com/auth/signin/?btn_name=login)[Free trial](https://www.safedns.com/auth/signup/?btn_name=free_trial_header)
 
@@ -160,7 +146,7 @@ Product
 Compare
 
 * [Cisco Umbrella](https://www.safedns.com/resources/compare?competitor=Cisco_Umbrella)
-* [DNS Filter](https://www.safedns.com/resources/compare?competitor=DNS_Filter)
+* [DNSFilter](https://www.safedns.com/resources/compare?competitor=DNS_Filter)
 * [WebTitan](https://www.safedns.com/resources/compare?competitor=WebTitan)
 * [Webroot](https://www.safedns.com/resources/compare?competitor=Webroot)
 * [CleanBrowsing](https://www.safedns.com/resources/compare?competitor=CleanBrowsing)
