@@ -43,7 +43,8 @@ NatWest Group
     
     * [Bank accounts](https://personal.natwest.com/current-accounts.html)
         
-        * [Bank accounts](javascript:void(0))
+        * Bank accounts
+            
             1. [See all our bank accounts](https://personal.natwest.com/current-accounts.html)
             2. [Everyday bank account](https://personal.natwest.com/current-accounts/select_account.html)
             3. [Reward bank account](https://personal.natwest.com/current-accounts/reward_account.html)
@@ -71,7 +72,8 @@ NatWest Group
         
     * [Mortgages](https://personal.natwest.com/mortgages.html)
         
-        * [Mortgages](javascript:void(0))
+        * Mortgages
+            
             1. [See our mortgage options](https://personal.natwest.com/mortgages.html)
             2. [First time buyer mortgage](https://personal.natwest.com/mortgages/first-time-buyers.html)
             3. [Moving home](https://personal.natwest.com/mortgages/moving-home.html)
@@ -105,7 +107,8 @@ NatWest Group
         
     * [Savings](https://personal.natwest.com/savings.html)
         
-        * [Savings](javascript:void(0))
+        * Savings
+            
             1. [View all our savings accounts](https://personal.natwest.com/savings.html)
             2. [Digital Regular Saver](https://personal.natwest.com/savings/digital-regular-saver.html)
             3. [Flexible Saver](https://personal.natwest.com/savings/flexible-saver.html)
@@ -128,7 +131,8 @@ NatWest Group
         
     * [Loans](https://personal.natwest.com/loans.html)
         
-        * [Loans](javascript:void(0))
+        * Loans
+            
             1. [See our loans](https://personal.natwest.com/loans.html)
             2. [Car loans](https://personal.natwest.com/loans/car-loans.html)
             3. [Home improvement loans](https://personal.natwest.com/loans/home-improvement-loans.html)
@@ -146,10 +150,12 @@ NatWest Group
             2. [Quick Quote](https://personal.natwest.com/loans/QuickQuote.html)
             3. [How to apply for a loan](https://personal.natwest.com/loans/how-to-apply-for-a-loan.html)
             4. [Our lending commitments](https://personal.natwest.com/content/dam/natwest/personal/our-lending-commitments.pdf)
+            5. [Check your Credit Score](https://personal.natwest.com/banking-with-natwest/natwest-app/features/know-my-credit-score.html)
         
     * [Child and teen](https://personal.natwest.com/current-accounts/childrens-accounts.html)
         
-        * [Child and teen](javascript:void(0))
+        * Child and teen
+            
             1. [See all our child and teen banking options](https://personal.natwest.com/current-accounts/childrens-accounts.html)
             2. [Pocket money app and card](https://personal.natwest.com/current-accounts/childrens-accounts/kids-prepaid-pocket-money-card.html)
             3. [Child and teen account](https://personal.natwest.com/current-accounts/adapt_account.html)
@@ -173,7 +179,8 @@ NatWest Group
         
     * [Investments](https://personal.natwest.com/investments.html)
         
-        * [Investments](javascript:void(0))
+        * Investments
+            
             1. [View all our Invest accounts](https://personal.natwest.com/investments.html)
             2. [Stocks and Shares ISA](https://personal.natwest.com/investments/natwest-invest.html)
             3. [General Investment Account](https://personal.natwest.com/investments/natwest-invest.html)
@@ -187,7 +194,7 @@ NatWest Group
             1. [Log in to NatWest Invest](https://invest.natwest.com/Root/Login)
             2. [Manage your investments](https://personal.natwest.com/investments/existing-customers.html)
             3. [Manage your Child Trust Fund](https://personal.natwest.com/investments/existing-customers/Child_Trust_Fund.html)
-            4. [Customer documents](https://personal.natwest.com/investments/existing-customers/Key_Customer_Documents.html)
+            4. [Key customer documents](https://personal.natwest.com/investments/existing-customers/Key_Customer_Documents.html)
         * Help with investments
             
             1. [Investing for beginners](https://personal.natwest.com/personal/investments/our-insights.html#beginners)
@@ -197,7 +204,8 @@ NatWest Group
         
     * [Credit cards](https://personal.natwest.com/credit-cards.html)
         
-        * [Credit cards](javascript:void(0))
+        * Credit cards
+            
             1. [See all our credit cards](https://personal.natwest.com/credit-cards.html)
             2. [Purchase & Balance Transfer card](https://personal.natwest.com/credit-cards/purchase-and-balance-transfer.html)
             3. [Longer Balance Transfer card](https://personal.natwest.com/credit-cards/longer-balance-transfer.html)
@@ -217,10 +225,12 @@ NatWest Group
             2. [How do credit cards work?](https://personal.natwest.com/credit-cards/credit-card-help-and-guides.html)
             3. [Credit card repayment calculator](https://personal.natwest.com/credit-cards/tools-calculators/repayment-calculator.html)
             4. [Our lending commitments](https://personal.natwest.com/content/dam/natwest/personal/our-lending-commitments.pdf)
+            5. [Check your Credit Score](https://personal.natwest.com/banking-with-natwest/natwest-app/features/know-my-credit-score.html)
         
     * [Insurance](https://personal.natwest.com/insurance.html)
         
-        * [I'm looking](javascript:void(0))
+        * I'm looking
+            
             1. [For home insurance](https://personal.natwest.com/insurance/home-insurance.html)
             2. [To manage my existing home insurance](https://personal.natwest.com/insurance/existing-customer-home-insurance.html)
         * I'm looking:
@@ -233,7 +243,8 @@ NatWest Group
         
     * [Reward accounts and cards](https://personal.natwest.com/current-accounts.html)
         
-        * [Reward accounts and cards](javascript:void(0))
+        * Reward accounts and cards
+            
             1. [Reward account](https://personal.natwest.com/current-accounts/reward_account.html)
             2. [Reward Silver account](https://personal.natwest.com/current-accounts/reward_silver_account.html)
             3. [Reward Platinum account](https://personal.natwest.com/current-accounts/reward_platinum_account.html)
@@ -254,7 +265,8 @@ NatWest Group
         
     * [Overdrafts](https://personal.natwest.com/current-accounts/overdrafts.html)
         
-        * [Overdrafts](javascript:void(0))
+        * Overdrafts
+            
             1. [Apply or manage your overdraft](https://personal.natwest.com/current-accounts/overdrafts.html)
             2. [Student overdraft](https://personal.natwest.com/current-accounts/overdrafts/student-overdraft.html)
             3. [Graduate overdraft](https://personal.natwest.com/current-accounts/overdrafts/graduate-overdraft.html)
@@ -266,7 +278,8 @@ NatWest Group
         
     * [Travel](https://personal.natwest.com/life-moments/travel.html)
         
-        * [Travel products](javascript:void(0))
+        * Travel products
+            
             1. [Travelling with NatWest](https://personal.natwest.com/life-moments/travel.html)
             2. [Travel account](https://personal.natwest.com/life-moments/travel/spending-abroad/travel-account.html)
             3. [Travel Reward Credit Card](https://personal.natwest.com/credit-cards/travel-reward-credit-card.html)
@@ -288,7 +301,8 @@ NatWest Group
     
     * [Support Centre](https://personal.natwest.com/support-centre.html)
         
-        * [Support Centre](javascript:void(0))
+        * Support Centre
+            
             1. [Explore our Support centre](https://personal.natwest.com/support-centre.html)
             2. [Cost of living](https://personal.natwest.com/life-moments/managing-your-money/cost-of-living.html)
             3. [Card payment support](https://personal.natwest.com/fraud-and-security/card-payment-help.html)
@@ -311,7 +325,8 @@ NatWest Group
         
     * [Security and fraud](https://personal.natwest.com/fraud-and-security.html)
         
-        * [Taking action](javascript:void(0))
+        * Taking action
+            
             1. [Report fraud or scams](https://personal.natwest.com/fraud-and-security/report-fraud.html)
             2. [Raise a dispute](https://personal.natwest.com/fraud-and-security/retaildisputes/card-payment-dispute.html)
             3. [Card payment support](https://personal.natwest.com/fraud-and-security/card-payment-help.html)
@@ -327,7 +342,8 @@ NatWest Group
         
     * [Support with your product](#)
         
-        * [Support with your product](javascript:void(0))
+        * Support with your product
+            
             1. [Access MyRewards](https://personal.natwest.com/myrewards.html)
             2. [Manage your current account](https://personal.natwest.com/current-accounts/existing-customers.html)
             3. [Manage your mortgage](https://personal.natwest.com/mortgages/existing-customers.html)
@@ -340,7 +356,8 @@ NatWest Group
         
     * [Help with everyday banking](#)
         
-        * [Help with everyday banking](javascript:void(0))
+        * Help with everyday banking
+            
             1. [Help with registering on the app](https://personal.natwest.com/banking-with-natwest/natwest-app.html)
             2. [How to use the app](https://personal.natwest.com/banking-with-natwest/natwest-app/how-to-use-the-natwest-app.html)
             3. [Help with registering for online banking](https://personal.natwest.com/banking-with-natwest/register-for-online-banking.html)
@@ -352,7 +369,8 @@ NatWest Group
         
     * [Learning with NatWest](#)
         
-        * [Learning with NatWest](javascript:void(0))
+        * Learning with NatWest
+            
             1. [Learning for you](https://personal.natwest.com/learning/learning-for-you.html)
             2. [Learning for your business](https://personal.natwest.com/business/learning-for-your-business.html)
             3. [Learning for kids, teens and students](https://personal.natwest.com/learning/learning-for-kids-teens-students.html)
@@ -364,7 +382,8 @@ NatWest Group
     
     * [Money Blog](https://personal.natwest.com/money-blog.html)
         
-        * [Latest posts](javascript:void(0))
+        * Latest posts
+            
             1. [5 simple New Year climate resolutions](https://personal.natwest.com/money-blog/energy-saving-tips/5-new-year-climate-resolutions-for-2022.html)
             2. [Autumn Budget: what it means for you](https://personal.natwest.com/money-blog/money-management/autumn-budget-what-it-means-for-you.html)
             3. [Good vs bad debt: what's the difference?](https://personal.natwest.com/money-blog/borrowing-and-debt-management/good-debt-versus-bad-debt.html)
@@ -381,7 +400,8 @@ NatWest Group
         
     * [Managing your money](https://personal.natwest.com/life-moments.html)
         
-        * [Money management guides](javascript:void(0))
+        * Money management guides
+            
             1. [Tips on managing your money](https://personal.natwest.com/life-moments/managing-your-money.html)
             2. [Reducing your household bills](https://personal.natwest.com/life-moments/managing-your-money/household-bills.html)
             3. [Teaching kids about money](https://personal.natwest.com/life-moments/teaching-kids-about-money.html)
@@ -398,7 +418,8 @@ NatWest Group
         
     * [Life Moments](https://personal.natwest.com/life-moments.html)
         
-        * [Supporting you through life events](javascript:void(0))
+        * Supporting you through life events
+            
             1. [Buying your first home](https://personal.natwest.com/mortgages/first-time-buyers.html)
             2. [Buying a car](https://personal.natwest.com/life-moments/buying-a-car.html)
             3. [Going to university](https://personal.natwest.com/life-moments/students-and-graduates.html)
@@ -411,7 +432,8 @@ NatWest Group
         
     * [Dealing with difficult times](https://personal.natwest.com/life-moments.html)
         
-        * [We're here to help](javascript:void(0))
+        * We're here to help
+            
             1. [Struggling financially](https://personal.natwest.com/life-moments/Struggling-financially.html)
             2. [Cost of living](https://personal.natwest.com/life-moments/managing-your-money/cost-of-living.html)
             3. [Bereavement](https://personal.natwest.com/life-moments/bereavement.html)
@@ -422,7 +444,8 @@ NatWest Group
         
     * [Your home](https://personal.natwest.com/life-moments.html)
         
-        * [Making a move](javascript:void(0))
+        * Making a move
+            
             1. [Buying your first home](https://personal.natwest.com/mortgages/first-time-buyers/first-time-buyer-guide.html)
             2. [Buying a new home](https://personal.natwest.com/mortgages.html)
             3. [How much could I borrow?](https://personal.natwest.com/mortgages/mortgage-calculators/how-much-can-i-borrow.html)
@@ -437,7 +460,8 @@ NatWest Group
         
     * [Travel](https://personal.natwest.com/life-moments/travel.html)
         
-        * [Help when travelling abroad](javascript:void(0))
+        * Help when travelling abroad
+            
             1. [Travel guide](https://personal.natwest.com/life-moments/travel.html)
             2. [Spending abroad](https://personal.natwest.com/life-moments/travel/spending-abroad.html)
             3. [How to travel more sustainably](https://personal.natwest.com/climate/sustainable-living/sustainable-travel-ideas.html)
@@ -449,7 +473,8 @@ NatWest Group
     
     * [Banking from home](https://personal.natwest.com/banking-with-natwest/natwest-app.html)
         
-        * [Banking from home](javascript:void(0))
+        * Banking from home
+            
             1. [Download the NatWest app](https://personal.natwest.com/banking-with-natwest/natwest-app.html)
             2. [What is the NatWest app?](https://personal.natwest.com/banking-with-natwest/natwest-app/features.html)
             3. [Register for Online Banking](https://personal.natwest.com/banking-with-natwest/register-for-online-banking.html)
@@ -461,7 +486,8 @@ NatWest Group
         
     * [Over the phone or video](https://personal.natwest.com/banking-with-natwest.html)
         
-        * [Over the phone or video](javascript:void(0))
+        * Over the phone or video
+            
             1. [Our Video Banking service](https://personal.natwest.com/banking-with-natwest/other-ways-to-bank-with-natwest/natwest-video-banking-service.html)
             2. [Call us for telephone banking](https://personal.natwest.com/banking-with-natwest/other-ways-to-bank-with-natwest/natwest-telephone-banking.html)
         
@@ -474,30 +500,30 @@ NatWest Group
     
     [Climate](javascript:void(0))
     
-    * [Our approach to climate change](https://personal.natwest.com/climate/banking-and-climate-change.html)
-        
     * [Save energy at home](https://personal.natwest.com/energy-at-home.html)
         
-        * [Save energy at home](javascript:void(0))
+        * Save energy at home
+            
             1. [Home Energy Hub](https://personal.natwest.com/energy-at-home.html)
             2. [Home Energy Plan](https://personal.natwest.com/energy-at-home.html)
-            3. [Energy saving tips](https://personal.natwest.com/energy-at-home/save-money-on-your-energy-bills.html)
+            3. [Save money on your energy bills](https://personal.natwest.com/energy-at-home/save-money-on-your-energy-bills.html)
             4. [EPC certificate guide](https://personal.natwest.com/energy-at-home/what-is-an-epc-certificate.html)
             5. [Insulation guide](https://personal.natwest.com/energy-at-home/insulate-your-home.html)
-            6. [Solar guide](https://personal.natwest.com/energy-at-home/solar-panels.html)
+            6. [Solar panels guide](https://personal.natwest.com/energy-at-home/solar-panels.html)
             7. [Heat pump guide](https://personal.natwest.com/energy-at-home/heat-pumps.html)
             8. [Smart meter guide](https://personal.natwest.com/energy-at-home/what-is-a-smart-meter.html)
-            9. [Greener Homes Retrofit Project](https://personal.natwest.com/energy-at-home/what-is-a-home-retrofit/home-retrofit-customer-pilot.html)
+            9. [What is a home retrofit?](https://personal.natwest.com/energy-at-home/what-is-a-home-retrofit.html)
         
     * [Sustainable living](https://personal.natwest.com/climate/sustainable-living/reduce-reuse-and-recycle.html)
         
-        * [Sustainable living](javascript:void(0))
-            1. [Calculate your carbon footprint](https://personal.natwest.com/banking-with-natwest/natwest-app/features/carbon-footprint-calculator.html)
-            2. [Ideas to reduce, reuse and recycle](https://personal.natwest.com/climate/sustainable-living/reduce-reuse-and-recycle.html)
-            3. [Reduce waste at home](https://personal.natwest.com/climate/sustainable-living/reduce-household-waste.html)
-            4. [Sustainable fashion](https://personal.natwest.com/climate/sustainable-living/sustainable-fashion.html)
-            5. [Sustainable travel ideas](https://personal.natwest.com/climate/sustainable-living/sustainable-travel-ideas.html)
-            6. [Electric vehicle guide](https://personal.natwest.com/climate/sustainable-living/switch-to-an-electric-vehicle.html)
+        * Sustainable living
+            
+            1. [Ideas to reduce, reuse and recycle](https://personal.natwest.com/climate/sustainable-living/reduce-reuse-and-recycle.html)
+            2. [Reduce waste at home](https://personal.natwest.com/climate/sustainable-living/reduce-household-waste.html)
+            3. [Sustainable travel ideas](https://personal.natwest.com/climate/sustainable-living/sustainable-travel-ideas.html)
+            4. [Electric vehicle guide](https://personal.natwest.com/climate/sustainable-living/switch-to-an-electric-vehicle.html)
+        
+    * [Our approach to climate change](https://personal.natwest.com/climate/banking-and-climate-change.html)
         
     
 * [Ukraine refugees](https://personal.natwest.com/ukraine-refugees.html)
@@ -524,6 +550,8 @@ Overlay
  
 
 * [Privacy & Cookies](javascript:void(0) "Privacy & Cookies")
+*  [. . .](javascript:void(0)) 
+    
 
  
 
