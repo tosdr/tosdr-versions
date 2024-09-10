@@ -218,7 +218,7 @@ Hubspot Form Block
 ![logo](/themes/custom/javelin/logo-white.png)
 
 Proud member of  
-the Escalent family.
+the Escalent group.
 
 #### About Us
 
@@ -254,9 +254,9 @@ the Escalent family.
 
 ©2024 Escalent and/or its affiliates. All right reserved.
 
-* [![LinkedIn](https://javelinstrategy.com/sites/default/files/footer_contact_block/logo__linkedin_3.png)](https://www.linkedin.com/company/javelin-strategy-&-research/)
-* [![Twitter](https://javelinstrategy.com/sites/default/files/footer_contact_block/X_logo_2023_%28white%29.png)](https://twitter.com/JavelinStrategy)
+* [![LinkedIn](https://www.javelinstrategy.com/sites/default/files/footer_contact_block/logo__linkedin_3.png)](https://www.linkedin.com/company/javelin-strategy-&-research/)
+* [![Twitter](https://www.javelinstrategy.com/sites/default/files/footer_contact_block/X_logo_2023_%28white%29.png)](https://twitter.com/JavelinStrategy)
 
-![PART OF THE ESCALENT FAMILY](https://javelinstrategy.com/sites/default/files/footer_contact_block/part__logo_1.png)
+![PART OF THE ESCALENT GROUP](https://www.javelinstrategy.com/sites/default/files/footer_contact_block/Escalent%20Group%20White.png)
 
 [](#)
