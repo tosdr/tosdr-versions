@@ -1,5 +1,7 @@
 [](https://observablehq.com/)
 
+Platform
+
 Docs
 
 Resources
@@ -10,11 +12,13 @@ Resources
 
 Sign inSign up
 
-[![The avatar for @observablehq](/_next/image?url=https%3A%2F%2Favatars-next.observableusercontent.com%2F5a51c3b908225a581d20577e488e2aba8cbc9541c52982c638638c370c3e5e8e&w=96&q=85 "@observablehq")](https://observablehq.com/@observablehq)
+[![The avatar for @observablehq](/_next/image?url=https%3A%2F%2Favatars-next.observableusercontent.com%2F5a51c3b908225a581d20577e488e2aba8cbc9541c52982c638638c370c3e5e8e&w=64&q=85 "@observablehq")](https://observablehq.com/@observablehq)
 
 [Observable](https://observablehq.com/@observablehq)
 
 Use data to think, together.
+
+[Workspace](https://observablehq.com/)
 
 Fork
 
@@ -31,6 +35,11 @@ More from Observable creators
 [](https://observablehq.com/ "Home")
 
 [LinkedIn](https://www.linkedin.com/company/observable)[Twitter](https://twitter.com/observablehq)[GitHub](https://github.com/observablehq/)[YouTube](https://www.youtube.com/c/Observablehq)
+
+Platform
+
+* [Platform overview](https://observablehq.com/platform)
+* [Observable Cloud](https://observablehq.com/platform/cloud)
 
 Docs
 
