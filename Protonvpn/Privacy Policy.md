@@ -35,7 +35,9 @@
     
     Guides and customer support for Proton VPN](https://protonvpn.com/support)[Blog
     
-    Latest news on privacy and the internet](https://protonvpn.com/blog)
+    Latest news on privacy and the internet](https://protonvpn.com/blog)[VPN for streaming
+    
+    Watch what you want, when you want, from wherever you want with Proton VPN](https://protonvpn.com/streaming)
     
 * [Business VPN](https://protonvpn.com/business)
 
@@ -105,10 +107,10 @@ Proton VPN’s strict no-logs policy was tested in a legal case in 2019 where we
 
 Get started
 
+* [Proton VPN plans explained: Proton Free, Proton VPN Plus, and Proton Unlimited](https://protonvpn.com/support/proton-vpn-plans)
+* [SCIM provisioning API](https://protonvpn.com/support/scim-provisioning-api)
 * [How to use Proton VPN Live Chat](https://protonvpn.com/support/live-chat-support)
 * [How to clear browser cache and cookies](https://protonvpn.com/support/clear-browser-cache-cookies)
-* [Why do you need JavaScript, Session Storage, and Cookies?](https://protonvpn.com/support/javascript-session-storage-cookies)
-* [How to turn on JavaScript](https://protonvpn.com/support/enabling-javascript)
 
 Didn’t find what you were looking for?
 
@@ -219,7 +221,6 @@ Horizon 2020 program
 * [Report a problem](https://protonvpn.com/support/report-a-bug/)
 * [Report a security issue(new window)](https://proton.me/security/response-center?ref=pvpncom)
 * [Request a feature(new window)](https://protonmail.uservoice.com/)
-* [Sitemap](https://protonvpn.com/sitemap)
 
 * [Privacy policy](https://protonvpn.com/privacy-policy)
 * [Terms & conditions(new window)](https://proton.me/legal/terms?ref=pvpncom)
