@@ -97,7 +97,7 @@ Switch to
     -------
     
     * [Explore PC](https://www.razer.com/pc)
-    * Laptops
+    * Laptops & Accessories
         
         Explore
         -------
@@ -134,6 +134,8 @@ Switch to
             Explore
             -------
             
+            * [Razer 65W Blade Adapter](https://www.razer.com/gaming-pc-accessories/Razer-65W-Power-Adapter-for-Razer-Blade-Stealth/RC30-02390100-B3U1)
+            * [Razer 100W Blade Adapter](https://www.razer.com/gaming-pc-accessories/Razer-100W-Power-Adapter/RC30-03100200-B3U1)
             * [Razer 130W USB-C GaN charger](https://www.razer.com/gaming/pc/accessories/razer-usb-c-gan-charger)
             * [Razer 230W Blade Adapter](https://www.razer.com/gaming-pc-accessories/Razer-230W-Power-Adapter/RC30-02480100-B3U1)
             * [Razer 280W Blade Adapter](https://www.razer.com/gaming-pc-accessories/Razer-GaN-Power-Adapter-280W/RC30-04230300-B3U1)
@@ -432,6 +434,8 @@ Switch to
             Product Line
             ------------
             
+            * [Razer Kraken V4](https://www.razer.com/gaming-headsets/razer-kraken-v4)
+            * [Razer Kraken V4 X](https://www.razer.com/gaming-headsets/razer-kraken-v4-x)
             * [Razer Kraken V3 Pro](https://www.razer.com/gaming-headsets/razer-kraken-v3-pro)
             * [Razer Kraken V3 HyperSense](https://www.razer.com/gaming-headsets/razer-kraken-v3-hypersense)
             * [Razer Kraken V3](https://www.razer.com/gaming-headsets/razer-kraken-v3)
@@ -474,6 +478,8 @@ Switch to
             ------------
             
             * [View All Kraken](https://www.razer.com/pc/gaming-headsets-and-audio/kraken-line)
+            * [Razer Kraken V4](https://www.razer.com/gaming-headsets/razer-kraken-v4)
+            * [Razer Kraken V4 X](https://www.razer.com/gaming-headsets/razer-kraken-v4-x)
             * [Razer Kraken V3 Pro](https://www.razer.com/gaming-headsets/razer-kraken-v3-pro)
             * [Razer Kraken V3 HyperSense](https://www.razer.com/gaming-headsets/razer-kraken-v3-hypersense)
             * [Razer Kraken V3](https://www.razer.com/gaming-headsets/razer-kraken-v3)
@@ -526,7 +532,6 @@ Switch to
         -------
         
         * [All Desktop & Components](https://www.razer.com/pc/gaming-desktops-and-components)
-        * Monitor
         * [Case Fans](https://www.razer.com/gaming-pc-accessories/razer-kunai-chroma)
         * [Fan & RGB Controller](https://www.razer.com/gaming-pc-accessories/razer-pwm-pc-fan-controller)
         * [Gaming Cases](https://www.razer.com/pc/gaming-desktops-and-components/cases)
@@ -695,7 +700,6 @@ Switch to
             ------------
             
             * [Razer Hammerhead True Wireless](https://www.razer.com/mobile-earphones/razer-hammerhead-true-wireless-earbuds)
-            * [Razer Opus X](https://www.razer.com/mobile-headsets/razer-opus-x)
             
         * Webcams
             
@@ -721,7 +725,6 @@ Switch to
         * [Razer Pro Type](https://www.razer.com/productivity/razer-pro-type)
         * [Razer Blade 14](https://www.razer.com/gaming-laptops/razer-blade-14)
         * [Razer Hammerhead True Wireless](https://www.razer.com/mobile/true-wireless-earbuds)
-        * [Razer Opus X](https://www.razer.com/mobile-headsets/razer-opus)
         * [Razer Kiyo](https://www.razer.com/streaming-cameras/razer-kiyo)
         
     * Chairs
@@ -737,9 +740,7 @@ Switch to
             
             * [View All Ergonomic](https://www.razer.com/shop/chairs/gaming-chairs?query=:newest:category:gaming-chairs:chairs-facets-family:Razer%2BIskur)
             * [Razer Iskur V2](https://www.razer.com/gaming-chairs/razer-iskur-v2)
-            * [Razer Iskur](https://www.razer.com/gaming-chairs/razer-iskur)
             * [Razer Iskur XL](https://www.razer.com/gaming-chairs/razer-iskur-xl)
-            * [Razer Iskur X](https://www.razer.com/gaming-chairs/razer-iskur-x)
             
         * Breathable
             
@@ -769,8 +770,6 @@ Switch to
             * [Razer Enki Pro Automobili Lamborghini Edition](https://www.razer.com/gaming-chairs/razer-enki-pro-automobili-lamborghini)
             * [Razer Enki Pro Williams Esports Edition](https://www.razer.com/gaming-chairs/razer-enki-pro-williams)
             * [Razer Enki Pro Koenigsegg Edition](https://www.razer.com/gaming-chairs/razer-enki-pro-koenigsegg)
-            * [Razer Iskur X Hello Kitty and Friends Edition](https://www.razer.com/gaming-chairs/hello-kitty-razer-iskur-x)
-            * [Razer x \*A Bathing Ape® Iskur X](https://www.razer.com/gaming-chairs/razer-x-bape-iskur-x-black)
             
         
         Product Line
@@ -805,11 +804,7 @@ Switch to
             
             * View All Iskur
             * [Razer Iskur V2](https://www.razer.com/gaming-chairs/razer-iskur-v2)
-            * [Razer Iskur](https://www.razer.com/gaming-chairs/razer-iskur)
             * [Razer Iskur XL](https://www.razer.com/gaming-chairs/razer-iskur-xl)
-            * [Razer Iskur X](https://www.razer.com/gaming-chairs/razer-iskur-x)
-            * [Razer Iskur X Hello Kitty and Friends Edition](https://www.razer.com/gaming-chairs/hello-kitty-razer-iskur-x)
-            * [Razer x \*A Bathing Ape® Iskur X](https://www.razer.com/gaming-chairs/razer-x-bape-iskur-x-black)
             
         * [Accessories](https://www.razer.com/shop/chairs/gaming-chairs-accessories)
         * [Compare](https://www.razer.com/shop/chairs/gaming-chairs)
@@ -854,6 +849,8 @@ Switch to
             Product Line
             ------------
             
+            * [Razer Wolverine V3 Pro](https://www.razer.com/console-controllers/razer-wolverine-v3-pro)
+            * [Razer Wolverine V3 Tournament Edition](https://www.razer.com/console-controllers/razer-wolverine-v3-tournament-edition)
             * [Razer Wolverine V2 Chroma](https://www.razer.com/console-controllers/razer-wolverine-v2-chroma)
             * [Razer Wolverine V2](https://www.razer.com/console-controllers/razer-wolverine-v2)
             
@@ -983,7 +980,6 @@ Switch to
         
         * [All Headphones](https://www.razer.com/mobile/over-ear-headphones)
         * [Razer Opus](https://www.razer.com/mobile-headsets/razer-opus)
-        * [Razer Opus X](https://www.razer.com/mobile-headsets/razer-opus-x)
         * [Razer Barracuda Pro](https://www.razer.com/gaming-headsets/razer-barracuda-pro)
         * [Razer Barracuda](https://www.razer.com/gaming-headsets/razer-barracuda)
         * [Razer Barracuda X](https://www.razer.com/gaming-headsets/razer-barracuda-x)
@@ -1020,8 +1016,6 @@ Switch to
         -------
         
         * [All Accessories](https://www.razer.com/shop/mobile/mobile-accessories)
-        * [Razer Phone Cooler Chroma - Universal Clamp](https://www.razer.com/mobile-accessories/razer-phone-cooler-chroma)
-        * [Razer Phone Cooler Chroma - MagSafe Compatible](https://www.razer.com/mobile-accessories/razer-phone-cooler-chroma)
         * [Razer Gaming Finger Sleeve](https://www.razer.com/gear-accessories/razer-gaming-finger-sleeve)
         * [Razer Anzu - Polarized Sunglass Lenses](https://www.razer.com/mobile-accessories/razer-anzu-lenses)
         
@@ -1047,9 +1041,7 @@ Switch to
             
             * [View All Ergonomic](https://www.razer.com/shop/chairs/gaming-chairs?query=:newest:category:gaming-chairs:chairs-facets-family:Razer%2BIskur)
             * [Razer Iskur V2](https://www.razer.com/gaming-chairs/razer-iskur-v2)
-            * [Razer Iskur](https://www.razer.com/gaming-chairs/razer-iskur)
             * [Razer Iskur XL](https://www.razer.com/gaming-chairs/razer-iskur-xl)
-            * [Razer Iskur X](https://www.razer.com/gaming-chairs/razer-iskur-x)
             
         * Breathable
             
@@ -1079,8 +1071,6 @@ Switch to
             * [Razer Enki Pro Automobili Lamborghini Edition](https://www.razer.com/gaming-chairs/razer-enki-pro-automobili-lamborghini)
             * [Razer Enki Pro Williams Esports Edition](https://www.razer.com/gaming-chairs/razer-enki-pro-williams)
             * [Razer Enki Pro Koenigsegg Edition](https://www.razer.com/gaming-chairs/razer-enki-pro-koenigsegg)
-            * [Razer Iskur X Hello Kitty and Friends Edition](https://www.razer.com/gaming-chairs/hello-kitty-razer-iskur-x)
-            * [Razer x \*A Bathing Ape® Iskur X](https://www.razer.com/gaming-chairs/razer-x-bape-iskur-x-black)
             
         
         Product Line
@@ -1115,11 +1105,7 @@ Switch to
             
             * View All Iskur
             * [Razer Iskur V2](https://www.razer.com/gaming-chairs/razer-iskur-v2)
-            * [Razer Iskur](https://www.razer.com/gaming-chairs/razer-iskur)
             * [Razer Iskur XL](https://www.razer.com/gaming-chairs/razer-iskur-xl)
-            * [Razer Iskur X](https://www.razer.com/gaming-chairs/razer-iskur-x)
-            * [Razer Iskur X Hello Kitty and Friends Edition](https://www.razer.com/gaming-chairs/hello-kitty-razer-iskur-x)
-            * [Razer x \*A Bathing Ape® Iskur X](https://www.razer.com/gaming-chairs/razer-x-bape-iskur-x-black)
             
         * [Accessories](https://www.razer.com/shop/chairs/gaming-chairs-accessories)
         * [Compare](https://www.razer.com/shop/chairs/gaming-chairs)
@@ -1131,11 +1117,27 @@ Switch to
         
         * [View All Collabs](https://www.razer.com/lifestyle/collabs)
         * [Chairs Licensed Editions](https://www.razer.com/lifestyle/collabs/gaming-chairs-licensed-editions)
+        * Razer | Hello Kitty and Friends
+            
+            Product Line
+            ------------
+            
+            * [View All Razer | Hello Kitty and Friends](https://www.razer.com/collabs/hello-kitty-and-friends)
+            * [Razer Enki X](https://www.razer.com/gaming-chairs/hello-kitty-and-friends-razer-enki-x)
+            * [Razer Ornata V3 Tenkeyless](https://www.razer.com/gaming-keyboards/hello-kitty-and-friends-razer-ornata-v3-tenkeyless)
+            * [Razer Kraken Kitty V2 BT](https://www.razer.com/mobile-headsets/hello-kitty-and-friends-razer-kraken-kitty-v2-bt)
+            * [Razer Lumbar Cushion](https://www.razer.com/gaming-chairs-accessories/hello-kitty-razer-lumbar-cushion)
+            * [Razer Customs | Pompompurin](https://www.razer.com/customs/browse/pompompurin/all/mouse-mats/razer-gigantus-v2~medium)
+            * [Razer Customs | Cinnamoroll](https://www.razer.com/customs/browse/cinnamoroll/all/mice/razer-orochi-v2~black)
+            * [Razer Customs | Gudetama](https://www.razer.com/customs/browse/gudetama/all/mice/razer-orochi-v2~black)
+            * [Razer Customs | Hello Kitty 50th Anniversary](https://www.razer.com/customs/browse/hello-kitty-and-friends/all/mice/razer-orochi-v2~black)
+            
         * Razer | Fortnite
             
             Product Line
             ------------
             
+            * [View All Razer | Fortnite](https://www.razer.com/collabs/fortnite)
             * [Razer Kraken V3 X](https://www.razer.com/gaming-headsets/fortnite-razer-kraken-v3-x)
             * [Razer Goliathus Extended Chroma](https://www.razer.com/gaming-mouse-mats/fortnite-razer-goliathus-extended-chroma)
             * [Razer DeathAdder V3 Pro](https://www.razer.com/gaming-mice/fortnite-razer-deathadder-v3-pro)
@@ -1151,46 +1153,12 @@ Switch to
             * [Razer Huntsman V2](https://www.razer.com/gaming-keyboards/pubg-battlegrounds-razer-huntsman-v2)
             * [Razer Viper V2 Pro + HyperPolling Wireless Dongle Bundle](https://www.razer.com/hard-bundles/Razer-Viper-V2-Pro-Razer-HyperPolling-Wireless-Dongle/RZHB-230726-01)
             
-        * Razer | Hello Kitty and Friends
-            
-            Product Line
-            ------------
-            
-            * [Razer Kraken BT](https://www.razer.com/mobile-headsets/razer-kraken-bt-kitty-edition)
-            * [Razer Iskur X](https://www.razer.com/gaming-chairs/hello-kitty-razer-iskur-x)
-            * [Razer Lumbar Cushion](https://www.razer.com/gaming-chairs-accessories/hello-kitty-razer-lumbar-cushion)
-            
-        * Razer | Roblox
-            
-            Product Line
-            ------------
-            
-            * [Razer Orochi V2](https://www.razer.com/gaming-mice/roblox-razer-orochi-v2)
-            * [Razer Barracuda X](https://www.razer.com/gaming-headsets/roblox-razer-barracuda-x)
-            * [Razer BlackWidow V3](https://www.razer.com/gaming-keyboards/roblox-razer-blackwidow-v3)
-            
+        * [Razer | Evisu](https://www.razer.com/collabs/evisu)
+        * [Razer | Retrosuperfuture](https://www.razer.com/gear-accessories/razersuperfuture-matte-black-glasses)
         * [Dolce&Gabbana | Razer](https://www.razer.com/collabs/dolce-gabbana)
+        * [Razer | Panerai](https://www.razer.com/collabs/panerai)
         * [Razer X GilletteLabs](https://gillette.com/razer)
         * [Razer Lexus TX](https://pressroom.lexus.com/lexus-and-razer-debut-the-ultimate-razer-lexus-tx-in-a-three-episode-video-series)
-        * [Razer | Retrosuperfuture](https://www.razer.com/gear-accessories/razersuperfuture-matte-black-glasses)
-        * [Razer | Evisu](https://www.razer.com/collabs/evisu)
-        * TUMI | Razer
-            
-            Product Line
-            ------------
-            
-            * [Razer Carry-on Luggage](https://www.razer.com/gear-apparel-accessories/tumi-razer-international-expandable-4-wheeled-carry-on-luggage)
-            * [Razer Finch Backpack - For 15" Laptop](https://www.razer.com/gear-backpacks/tumi-razer-finch-backpack-for-15-laptops)
-            * [Razer Bozeman Sling Bag](https://www.razer.com/gear-apparel-accessories/tumi-razer-bozeman-sling-bag)
-            * [Razer Laptop Sleeve - For 15" Laptop](https://www.razer.com/gear-apparel-accessories/tumi-razer-laptop-sleeve-for-15-laptops)
-            
-        * [A Gaming Ape Spring/Summer 2022](https://www.razer.com/collabs/a-bathing-ape)
-        * [Razer | Panerai](https://www.razer.com/collabs/panerai)
-        * [Razer | ESL Gaming](https://www.razer.com/collabs/esl)
-        * [Sneki Snek x Cariuma](https://www.razer.com/collabs/razer-sneki-snek-x-cariuma)
-        * [Razer | Genshin Impact](https://www.razer.com/campaigns/genshin-impact)
-        * [Razer | Halo Infinite](https://www.razer.com/campaigns/halo-infinite)
-        * [Licensed Merchandise](https://www.razer.com/lifestyle/licensed-merchandise)
         
     * Apparel
         
@@ -1257,11 +1225,6 @@ Switch to
             ------------
             
             * [View All Unleashed](https://www.razer.com/gear-and-apparel/unleashed)
-            * [Razer Unleashed Oversized Tee](https://www.razer.com/apparel-shirts/razer-unleashed-oversized-tee)
-            * [Razer Unleashed Shorts](https://www.razer.com/apparel-bottoms/razer-unleashed-shorts)
-            * [Razer Unleashed Jogger Pants](https://www.razer.com/apparel-bottoms/razer-unleashed-jogger-pants)
-            * [Razer Unleashed Sweatshirt](https://www.razer.com/apparel-shirts/razer-unleashed-sweatshirt)
-            * [Razer Unleashed Zip Hoodie](https://www.razer.com/apparel-outerwear/razer-unleashed-zip-hoodie)
             * [Razer Unleashed Snapback Cap](https://www.razer.com/gear-accessories/razer-unleashed-snapback-cap)
             * [Razer Unleashed Bucket Hat](https://www.razer.com/gear-accessories/razer-unleashed-bucket-hat)
             
@@ -1439,18 +1402,18 @@ Switch to
         
     * [Developers](https://developer.razer.com/)
     
-* [Support](https://support.razer.com/)Support
+* [Support](https://https//mysupport.razer.com/app/home)Support
     
     Product Line
     ------------
     
-    * [All Support](https://support.razer.com/)
-    * [PC Support](https://support.razer.com/pc)
+    * [All Support](https://https//mysupport.razer.com/app/home)
+    * [PC Support](https://mysupport.razer.com/app/categories/m/pc)
     * [Console Support](https://support.razer.com/console)
     * [Mobile Support](https://support.razer.com/mobile)
     * [Lifestyle Support](https://support.razer.com/lifestyle)
-    * [Services Support](https://support.razer.com/services)
-    * [Gold Support](https://gold.razer.com/)
+    * [Services Support](https://mysupport.razer.com/app/categories/m/services)
+    * [Gold Support](https://gold.razer.com/us/en/help?section=0)
     * [Replacement Parts](https://www.razer.com/shop/replacement-parts/)
     
 
@@ -1480,7 +1443,7 @@ Your Cart is empty.
 * [RazerStore Rewards](https://www.razer.com/store/rewards)
 * [Log In](#)
 
-Mid-Year Gear Up: Discover our prime-time specials with next-day delivery and free shipping with no minimum spend. [Shop Now \>](https://www.razer.com/campaigns/mid-year-gear-up)
+For a limited time, all orders will enjoy free shipping to the United States. [Shop Now \>](https://www.razer.com/store)
 
 RAZER CUSTOMER PRIVACY POLICY
 =============================
@@ -1641,7 +1604,7 @@ Last Modified: 27 Oct 2023
 9. **9\. Transfers Outside of the EEA**  
     Your Personal Information may be accessed by staff, suppliers or other persons in, transferred to, and/or stored at, a destination outside the European Economic Area (EEA) in which data protection laws may be of a lower standard than in the EEA. We will, in all circumstances, safeguard personal information as set out in this Privacy Policy.  
       
-    Where we transfer Personal Information from inside the European Economic Area (the EEA) to outside the EEA, we may be required to take specific additional measures to safeguard the relevant Personal Information. Certain countries outside the EEA have been approved by the European Commission as providing essentially equivalent protections to EEA data protection laws and therefore no additional safeguards are required to export Personal Information to these jurisdictions. In countries which have not had these approvals (see the full list here [https://ec.europa.eu/justice/data-protection/international-transfers/adequacy/index\_en.htm](https://ec.europa.eu/justice/data-protection/international-transfers/adequacy/index_en.htm)), we will establish legal grounds justifying such transfer, such as EU Commission-approved model contractual clauses, or other legal grounds permitted by applicable legal requirements.  
+    Where we transfer Personal Information from inside the European Economic Area (the EEA) to outside the EEA, we may be required to take specific additional measures to safeguard the relevant Personal Information. Certain countries outside the EEA have been approved by the European Commission as providing essentially equivalent protections to EEA data protection laws and therefore no additional safeguards are required to export Personal Information to these jurisdictions. In countries which have not had these approvals (see the full list here [https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions\_en](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en)), we will establish legal grounds justifying such transfer, such as EU Commission-approved model contractual clauses, or other legal grounds permitted by applicable legal requirements.  
       
     If you live outside the EEA, or California, Razer will undertake best efforts to give you a similar degree of control over your privacy.  
       
