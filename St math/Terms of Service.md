@@ -60,7 +60,7 @@ Outcomes
 
 * [ST Math Methodology](https://www.stmath.com/impact)
 * [Third-Party Validation](https://www.stmath.com/impact/studies)
-* [Nationwide Results](https://www.stmath.com/impact/efficacy)
+* [Nationwide Results](https://www.stmath.com/impact/equity-and-outcomes)
 * [Success Stories](https://www.stmath.com/success-stories)
 
  ![2020-stmath-badges](https://www.stmath.com/hs-fs/hubfs/STMath/Graphics/2020-stmath-badges.png?width=1124&name=2020-stmath-badges.png)
@@ -315,6 +315,8 @@ See for yourself why students and educators across the country are taking a radi
 [![Request Demo](https://no-cache.hubspot.com/cta/default/237516/9edc81de-63e6-4eca-a4e7-d93beb5a3478.png)](https://cta-redirect.hubspot.com/cta/redirect/237516/9edc81de-63e6-4eca-a4e7-d93beb5a3478)
 
 [![MIND-Ed_Logo_White-footer](https://www.stmath.com/hubfs/graphics/logos/MIND%20Education/MIND-Ed_Logo_White-footer.svg "MIND-Ed_Logo_White-footer")](http://www.mindeducation.org/)
+
+[](https://www.facebook.com/MindEduORG)[](https://www.x.com/MINDEduOrg)[](https://www.instagram.com/mindeducationorg/)[](https://www.linkedin.com/company/mindeducation)[](https://www.youtube.com/user/mindresearch)
 
 * [](https://x.com/MINDEduOrg)
 * [](https://www.facebook.com/MindEduORG)
