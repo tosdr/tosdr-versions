@@ -1,4 +1,4 @@
-      Privacy Policy - Washington State Local Health Insurance - CHPW                                                          
+      Privacy Policy - Washington State Local Health Insurance - CHPW                                                             
 
 [](#)
 
@@ -272,7 +272,7 @@ DID YOU KNOW...?
 
 * ![NCQA Logo](https://www.chpw.org/wp-content/themes/chpw/images/icons/ncqa_logo_footer.svg)
 
-Last Update Date: January 28, 2021
+Last Update Date: August 27, 2024
 
 Community Health Plan of Washington (CHPW) was founded in 1992 by Washington’s community health centers. CHPW is committed to Washington's health. To enroll in a Community Health Plan of Washington [Apple Health (Medicaid)](https://www.chpw.org/find-health-plan/apple-health-plan/our-regions/), [Medicare Advantage](https://medicare.chpw.org/contact-us/chpw-representatives/), or [Individual & Family Cascade Select](https://individualandfamily.chpw.org/individual-and-family-plans/cascade-select-plan-finder/) plans, you must be eligible and live in the service areas. This is not a complete description of benefit. Please contact us for more information.
 
