@@ -103,4 +103,4 @@ or via email at: info@specialwants.org
 
 Thank you for visiting our site and for your support of our mission to deliver sensory items, gifts and a sense of community to families in the U.S.A. who are caring for loved ones with special needs during the holiday season and throughout the year.
 
-© 2023 - SpecialWants - [Privacy](https://www.specialwants.org/Home/Privacy)
+© 2024 - SpecialWants - [Privacy](https://www.specialwants.org/Home/Privacy)
