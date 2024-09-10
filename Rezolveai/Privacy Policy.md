@@ -40,19 +40,29 @@ These items help the website operator understand how its website performs, how v
 
 [IT Service Desk](https://www.rezolve.ai/automated-it-helpdesk)[HR Service Desk](https://www.rezolve.ai/automated-hr-helpdesk)[![GenAI Sidekick](https://cdn.prod.website-files.com/63e25be3f4b49456411df88b/654e9d87caf576c8f76dfb9f_GenAI%20Sidekick%20Italic%201.png)
 
-New](https://www.rezolve.ai/generative-ai)[Integrations](https://www.rezolve.ai/integrations)
+New](https://www.rezolve.ai/generative-ai)
+
+Platform
+
+Platform:
+
+Where efficiency meets innovation
+
+[AI Automation Studio](https://www.rezolve.ai/automation-studio)[Integrations](https://www.rezolve.ai/integrations)
 
 Industry
 
-Industry
+Industry:
 
 Smart solutions for dynamic industries
 
 [State & Local  
-Government](https://www.rezolve.ai/genai-itsm/state-and-local-government)[Education](https://www.rezolve.ai/genai-itsm/education)[Retail](https://www.rezolve.ai/industry/ai-service-desk-retail)
+Government](https://www.rezolve.ai/genai-itsm/state-and-local-government)[Education](https://www.rezolve.ai/genai-itsm/education)[Retail](https://www.rezolve.ai/industry/ai-service-desk-retail)[Hospitality](https://www.rezolve.ai/genai-itsm/hospitality)
 
 [Credit Unions  
-& Banks](https://www.rezolve.ai/genai-itsm/credit-unions)[HealthCare](https://www.rezolve.ai/genai-itsm/health-care)[MSP](https://www.rezolve.ai/msp)
+& Banks](https://www.rezolve.ai/genai-itsm/credit-unions)[HealthCare](https://www.rezolve.ai/genai-itsm/health-care)[MSP](https://www.rezolve.ai/genai-itsm/msp)[![](https://cdn.prod.website-files.com/63e25be3f4b49456411df88b/66c7804c9b8292b08bf7fa69_icons8-construction-50.png)
+
+Construction](https://www.rezolve.ai/genai-itsm/construction)
 
 Resources
 
@@ -177,6 +187,8 @@ Company
 
 [End User Agreement](https://www.rezolve.ai/legal/end-user-agreement-20240507-v2-1)
 
+[End User Agreement](https://www.rezolve.ai/legal/end-user-agreement-20240820-v2-2)
+
 [HIPAA](https://www.rezolve.ai/legal/hipaa)
 
 [Privacy Policy](https://www.rezolve.ai/legal/privacy-policy)
@@ -188,6 +200,8 @@ Company
 [SAAS DISTRIBUTION AGREEMENT](https://www.rezolve.ai/legal/saas-distribution-agreement) 
 
 [Terms & Conditions](https://www.rezolve.ai/legal/terms-conditions-2-0)
+
+[Terms & Conditions](https://www.rezolve.ai/legal/terms-condition-20240820-v2-2)
 
 [Terms & Conditions](https://www.rezolve.ai/legal/terms-conditions-20231017-v2-0)
 
