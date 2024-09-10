@@ -219,4 +219,4 @@ Organization
 * [LinkedIn](https://www.linkedin.com/company/blender-org/ "Follow Blender on LinkedIn")
 * [Mastodon](https://mastodon.social/@blender "Follow Blender on Mastodon")
 
-Artistic freedom starts with Blender The Free and Open Source 3D Creation Suite
+Artistic freedom starts with Blender [](https://fund.blender.org/?utm_medium=footer-heart)The Free and Open Source 3D Creation Suite
