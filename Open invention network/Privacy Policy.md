@@ -1,11 +1,13 @@
 [Skip to content](#content)
 
-[![Open Invention Network](https://openinventionnetwork.com/wp-content/uploads/2024/01/oin-website-logo.png)](https://openinventionnetwork.com/)
+[![Open Invention Network](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20160%2060'%3E%3C/svg%3E)
+
+![Open Invention Network](https://openinventionnetwork.com/wp-content/uploads/2024/01/oin-website-logo.png)](https://openinventionnetwork.com/)
 
 * About OIN
     
     * * [Overview](#)
-        * [OIN Mission & Values](https://openinventionnetwork.com/about-us/corporate-overview/)
+        * [Corporate Overview](https://openinventionnetwork.com/about-us/corporate-overview/)
         * [How We Work](https://openinventionnetwork.com/about-us/how-we-work/)
         * [Leadership Team](https://openinventionnetwork.com/about-us/leadership-team/)
         * [History & Key Milestones](https://openinventionnetwork.com/about-us/history/)
@@ -31,6 +33,7 @@
         * [Member Directory by Industry / Region](https://openinventionnetwork.com/community-directory/)
         * [Member Directory – Full Listing](https://openinventionnetwork.com/community-directory-alphabetical/)
         * [OIN Funding Members & Licensees](https://openinventionnetwork.com/our-members/funding-members-and-licensees/)
+        * [](#)
         * [](#)
         
     * * [Member Case Studies](#)
@@ -108,11 +111,21 @@
     
 * Linux System
     
-    * * [Overview](#)
-        * [OIN License Agreement](https://openinventionnetwork.com/joining-oin/join-now/license-agreement/)
-        * [Linux System Definition & Components](https://openinventionnetwork.com/linux-system/)
-        * [Linux System Definition Nominations](https://openinventionnetwork.com/media/linux-system-nominations/)
+    * * [OIN License  
+            Agreement](https://openinventionnetwork.com/joining-oin/join-now/license-agreement/)
+        * [The OIN License Agreement agreement states the rights and obligations of all parties, including each OIN community member and OIN.](#)
+        * [Learn More +](https://openinventionnetwork.com/joining-oin/join-now/license-agreement/)
         * [](#)
+        
+    * * [Linux System Definition  
+            & Components](https://openinventionnetwork.com/linux-system/)
+        * [The definition of the Linux System relevant to the OIN license agreement is described on this page and associated tables.](#)
+        * [Learn More +](https://openinventionnetwork.com/linux-system/)
+        
+    * * [Linux System Definition  
+            Nominations](https://openinventionnetwork.com/media/linux-system-nominations/)
+        * [This guide is intended for nominators of new packages for inclusion in the OIN Linux System definition.](#)
+        * [Learn More +](https://openinventionnetwork.com/media/linux-system-nominations/)
         
     
 * [Join the OIN Community](https://openinventionnetwork.com/joining-oin/join-now/)
@@ -171,18 +184,6 @@ This website contains links to other sites. Please be aware that we are not resp
 
 Welcome to our Newest Members!
 
-![NaaS | OIN Community Member](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20250'%3E%3C/svg%3E)
-
-![NaaS | OIN Community Member](https://openinventionnetwork.com/wp-content/uploads/2024/04/naas-logo.jpg)
-
-![Vizio | OIN Community Member](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20250'%3E%3C/svg%3E)
-
-![Vizio | OIN Community Member](https://openinventionnetwork.com/wp-content/uploads/2024/06/vizio-oin-community-member.jpg)
-
-![Bank of Montreal | OIN Community Member](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20250'%3E%3C/svg%3E)
-
-![Bank of Montreal | OIN Community Member](https://openinventionnetwork.com/wp-content/uploads/2024/06/bank-of-montreal-oin-community-member.jpg)
-
 ![SVP Worldwide | OIN Community Member](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20250'%3E%3C/svg%3E)
 
 ![SVP Worldwide | OIN Community Member](https://openinventionnetwork.com/wp-content/uploads/2024/06/svp-worldwide-oin-community-member.jpg)
@@ -199,53 +200,67 @@ Welcome to our Newest Members!
 
 ![Fresenius Medical Care | OIN community member](https://openinventionnetwork.com/wp-content/uploads/2024/06/fresenius-medical-care-oin-community-member-1.jpg)
 
+![China Telecom | OIN Community Member](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20250'%3E%3C/svg%3E)
+
+![China Telecom | OIN Community Member](https://openinventionnetwork.com/wp-content/uploads/2024/08/china-telecom-oin-community-member.jpg)
+
+![CIBC | OIN Community Member](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20250'%3E%3C/svg%3E)
+
+![CIBC | OIN Community Member](https://openinventionnetwork.com/wp-content/uploads/2024/08/cibc-oin-community-member.jpg)
+
+![RSM | OIN Community Member](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20250'%3E%3C/svg%3E)
+
+![RSM | OIN Community Member](https://openinventionnetwork.com/wp-content/uploads/2024/08/rsm-austrailia-logo-oin-community-member-1.jpg)
+
 Testimonials
 
-> Google has been a proud member of OIN since joining the community in 2007. Linux and adjacent open source software power the cloud-based services of today and tomorrow. Throughout, OIN has been there to ensure that open source remains safe for users, consumers, and developers alike to consume and upon which to build.
+> We view OIN as one of the key methods through which open source leaders and innovators can deter patent aggression. We are committed to freedom of action in open source, and have noted OIN’s efforts to actively defend and enable the Linux ecosystem.  
 
-Chris DiBonaDirector of Open SourceGoogle
+Jane SilberCEOCanonical
 
-> Open source technology, especially Linux, drives innovation in areas that are critical to the customers that we serve, including technologies such as servers, storage, cloud, converged applications, big data and IoT. By joining Open Invention Network, we are demonstrating our continued commitment to open source technology, and supporting it with patent non-aggression in Linux.  
+> Philips is proud to be a founder of the Open Invention Network. Over the years, OSS has been an important building block for many of our businesses and is increasingly important for the medical and health tech industries. OSS enables faster development of monitoring, imaging, diagnostic, and informatic platforms, while driving down costs. With more than 4,000 community members, OIN is ensuring that OSS innovation continues its rapid pace, in a safe environment enabled by licensing.  
 
-Norihiro SuzukiVice President and Executive Officer - CTOHitachi
+Jako EleveldHead of IP LicensingRoyal Philips
 
-> NewLink has been committed to the deep integration of digitalization and the energy industry, and continues to explore the best technologies to improve energy utilization in order to better serve partners across the industry chain. Linux systems and open source technologies provide support for digitalization, and we appreciate OIN’s contribution to reducing the risk of open source software patents around the world.  We value the protection of intellectual property rights and also respect the in… [Read more](https://173.230.129.118/testimonial/naas-technology-newlink/ "Complete testimonial by Mingyi Jin")
+> Open Invention Network is a unique organization. For 15 years, it has protected the Linux and open source community from patent aggression, while fostering a community that understands that value of shared technological development. It has been an honor to have worked with the OIN team, and fellow OIN Board members, to plan and implement the strategic initiatives that have provided protection for open source.  
+
+Tim KowalskiChairman of the BoardOpen Invention Network
+
+> Alibaba and Ant congratulate Open Invention Network on this impressive milestone. OIN has taken a leadership role and worked tirelessly to improve intellectual property protection for Linux system and open source software. Alibaba and Ant look forward to continued partnership with OIN and the international open source community to foster innovation and reduce IP risks.  
+
+Roger Shang - Alibaba Group Senior Legal Director // Benjamin Bai - Ant Group VP of Intellectual Property
+
+> We strive to be the top short video social platform and community for all users to record and share their lives. Linux and open source are critical elements in technologies we develop and integrate into our platform. By joining the Open Invention Network, we are demonstrating our continued commitment to innovation, and supporting it with patent non-aggression in core Linux and adjacent open source software.  
+
+Hongyi JiaGeneral CounselKuaishou Group
+
+> _At Amazon, we are constantly looking for ways to innovate on behalf of our customers by investing in systems and technologies that allow us to better serve and understand them. Linux and Open Source are essential to many of our customers and a key driver of innovation across Amazon. We are proud to support a broad range of Open Source projects, foundations, and partners, and we are committed to the long-term success and sustainability of open source as a whole. By joining OIN, we are continuing … [Read more](https://openinventionnetwork.com/testimonial/amazon/ "Complete testimonial by Nithya Ruff")_
+
+Nithya RuffDirector, Amazon Open Source Program Office
+
+> NewLink has been committed to the deep integration of digitalization and the energy industry, and continues to explore the best technologies to improve energy utilization in order to better serve partners across the industry chain. Linux systems and open source technologies provide support for digitalization, and we appreciate OIN’s contribution to reducing the risk of open source software patents around the world.  We value the protection of intellectual property rights and also respect the in… [Read more](https://openinventionnetwork.com/testimonial/naas-technology-newlink/ "Complete testimonial by Mingyi Jin")
 
 Mingyi JinVP & General Legal Counsel at NewLink
 
-> Consistent with OIN’s mission to provide freedom of action in Linux, we believe it is important to reinforce the principle that Intellectual Property (IP) enforcement should be conducted in a manner that is rational and in consonance with the collaborative process that occurs in Open Source Software (OSS). We encourage all of our members to provide their unequivocal support for the GPL Cooperation Commitment.  
+> At the time of OIN’s founding, open source was nascent, and most software was built in silos. During the past 15 years, we have been pleased to watch the OIN community grow from 6 members to more than 3,300. The OIN community’s powerful cross license has enabled businesses to safely develop and sell innovative new systems and platforms that have revolutionized the way the world conducts business.  
 
-Keith BergeltCEOOpen Invention Network
+Peter TotoSenior VP, IP CounselSony Corporation of America
 
-> Today, with open source software, we are quickly creating robust and long-lasting solutions for our customers. In addition to the technical implementation, we also take care that our customers do not worry about potential license violations.  
+> OIN protects the open-source community through a patent cross-license for Linux and related open-source technologies. The license is free and available to companies, organizations, and individual developers if they agree not to assert their own patents against Linux.  
 
-Andreas PfeifferHead of Customer Advice and MarketingGinzinger
+Chris DiBonaDirector of Open SourceGoogle
 
-> Foxconn continuously looks for ways to integrate advances into the design and manufacturing of smart consumer electronics, cloud and networking equipment, computing devices and components, among others. We are pleased to join the Open Invention Network and support its role in protecting open source.
+> The Mercari Group’s systems are supported by a variety of open source software. As a beneficiary of the enormous contributions made by the open source software community, we believe making a contribution to innovation in the world by publishing technology accumulated through the development and operation of our services, such as Mercari and Merpay, as open source is the right choice. Hence, the Mercari Group endorses the activities of OIN which protects innovations with open source from patent… [Read more](https://openinventionnetwork.com/testimonial/mercari/ "Complete testimonial by Mercari")
 
-Mick LimDirector, Foxconn IP Affairs Division
+Mercari
 
-> Embecosm has joined OIN, an industry consortium with an ever-growing patent pool that facilitates cross-licensing, for mutual defense against those who would use patents against the Linux ecosystem. All members are protected, even companies like Embecosm which bring no patents to the table. I don’t like the world we are in, but at least Embecosm is now in a stronger position to protect free software.  
+[![Open Invention Network](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201373%20172'%3E%3C/svg%3E)
 
-Jeremy BennettFounder and Chief ExecutiveEmbecosm
-
-> Although TAIYO YUDEN does not directly incorporate open source software in our products, our customers do, and it is important for us to support open source initiatives that are critical to the continued success of our clients.  
-
-Shigetoshi AkinoGeneral Manager, Intellectual Property DivisionTAIYO YUDEN
-
-> Linux is the largest undertaking of shared innovation in our planet’s history. The OSS community has written and shared billions of lines of code that have transformed the way businesses operate and consumers live. We congratulate OIN for its 15 years, during which it has provided a protective shield against patent aggression. We encourage all open source contributors and users to join OIN and demonstrate their commitment to a safe environment for continued growth in Linux and other OSS proje… [Read more](https://173.230.129.118/testimonial/jim-zemlin-the-linux-foundation/ "Complete testimonial by Jim Zemlin")
-
-Jim ZemlinExecutive DirectorThe Linux Foundation
-
-> China Mobile is committed to becoming a world-class information services and sci-tech innovation enterprise, and understands that Linux System and open source technology is a cornerstone to drive technological innovation and accelerate service innovation. After joining OIN, China Mobile will not only continue to support the innovative practice of open source projects, but also work closely with OIN and its members to promote the high-level implementation of the Linux System and open source techn… [Read more](https://173.230.129.118/testimonial/china-mobile/ "Complete testimonial by Jia Liu")
-
-Jia LiuDeputy GM, Science & Technology Innovation, China Mobile
-
-[![Open Invention Network](https://openinventionnetwork.com/wp-content/uploads/2024/01/oin-website-logo.png)](https://openinventionnetwork.com/)
+![Open Invention Network](https://openinventionnetwork.com/wp-content/uploads/2024/01/oin-website-logo.png)](https://openinventionnetwork.com/)
 
 Don’t miss out on Open Source industry news, events and more! Our **INSIDER eNewsletter** is sent bi-monthly and covers all things Open Source.
 
-                  
+               
 
 "\*" indicates required fields
 
@@ -253,21 +268,15 @@ Your Name\*
 
 Email\*
 
-Email
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
       
 
-#### INFORMATION
-
-* [Linux System definition](https://openinventionnetwork.com/?page_id=49012)
-* [Glossary](https://openinventionnetwork.com/glossary/)
-* [Privacy Policy](https://openinventionnetwork.com/privacy-policy/)
-
 * [Privacy Policy](https://openinventionnetwork.com/privacy-policy/)
 * [OIN License Agreement](https://openinventionnetwork.com/joining-oin/join-now/license-agreement/)
-* [Linux System Definition](https://openinventionnetwork.com/?page_id=49012)
+* [Linux System Definition](https://openinventionnetwork.com/linux-system/)
 
 #### For our members
 
@@ -289,36 +298,11 @@ This field is for validation purposes and should be left unchanged.
 * [Our Services](https://openinventionnetwork.com/about-us/services/)
 * [OIN Patent Portfolio](https://openinventionnetwork.com/oin-owned-patent-portfolio/)
 
-#### Social
+#### INFORMATION
 
-* [Facebook](https://www.facebook.com/openinventionnetwork/)
-* [LinkedIn](https://www.linkedin.com/company/open-invention-network/)
-* [YouTube](https://www.youtube.com/c/Openinventionnetwork)
-* [INSIDER](https://openinventionnetwork.com/sign-up-for-insider-enews/)
-
-#### Sign Up for Insider eNews
-
-×
-
-### SIGN UP FOR INSIDER ENEWS
-
-* Email\*
-    
-* Marketing Consent\*
-    
-    OIN is committed to protecting and respecting your privacy. We are interested in sending OIN's INSIDER bi-monthly eNews and other content that may be of interest to you, but in order for us to do so, you must provide consent by checking the box below.
-    
-    * [ ]  I agree to join OIN's INSIDER eNews and to receive other relevant OIN communications.
-    
-* You may unsubscribe from OIN's communications at any time. For more information on how to unsubscribe, our privacy practices, and how we are committed to protecting and respecting your privacy, please review our [Privacy Policy](https://openinventionnetwork.com/privacy-policy).
-* Email
-    
-    This field is for validation purposes and should be left unchanged.
-    
-
-        
-
-[Subscribe Now](#)
+* [Linux System definition](https://openinventionnetwork.com/?page_id=49012)
+* [Glossary](https://openinventionnetwork.com/glossary/)
+* [Privacy Policy](https://openinventionnetwork.com/privacy-policy/)
 
 * [](https://www.facebook.com/openinventionnetwork/ "Facebook")
 * [](https://www.linkedin.com/company/open-invention-network/ "LinkedIn")
@@ -327,7 +311,5 @@ This field is for validation purposes and should be left unchanged.
 Copyright © 2024 Open Invention Network | All Rights Reserved.
 
 [Page load link](#)
-
-                                                                                                                  
 
 [Go to Top](#)
