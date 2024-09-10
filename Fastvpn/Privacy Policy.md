@@ -48,7 +48,11 @@ Search
 
 [Marketing ToolsNEW](https://www.namecheap.com/apps/)
 
-[Business FormationFREE](https://www.namecheap.com/apps/business-formation/)[Relate](https://www.namecheap.com/relate/)[SocialAI](https://www.namecheap.com/relate/social/)[ReviewsAI](https://www.namecheap.com/relate/reviews/)[LocalNEWAI](https://www.namecheap.com/relate/local/)[SEONEWAI](https://www.namecheap.com/relate/seo/)[AdsNEWAI](https://www.namecheap.com/relate/ads/)[Brand MonitoringNEWAI](https://www.namecheap.com/relate/radar/)[Visual](https://www.namecheap.com/visual/)[Site MakerNEW](https://www.namecheap.com/visual/site-maker/)[Font MakerNEW](https://www.namecheap.com/visual/font-generator/)[Logo MakerAI](https://www.namecheap.com/logo-maker/)[Business Name GeneratorAI](https://www.namecheap.com/visual/business-name-generator/)[Stencil Graphics](https://www.namecheap.com/visual/stencil/) [Business Card Maker](https://www.namecheap.com/visual/card-maker/)
+[Business FormationFREE](https://www.namecheap.com/apps/business-formation/)
+
+[Growth ToolsNEWAI](https://www.namecheap.com/relate/)
+
+[Design ToolsNEWAI](https://www.namecheap.com/visual/)
 
 [SecurityNEW](https://www.namecheap.com/security/)
 
@@ -64,7 +68,7 @@ Search
 
 Account
 
-DashboardExpiring SoonDomain ListHosting ListPrivate EmailSSL Certificates[Subscriptions](https://www.namecheap.com/apps/subscriptions)My OffersProfile
+DashboardExpiring SoonDomain ListHosting ListPrivate EmailSSL Certificates[Subscriptions](https://www.namecheap.com/apps/subscriptions)My OffersNEWProfile
 
 [Legal Pages](https://www.namecheap.com/legal/)FastVPN Privacy Policy
 
@@ -128,7 +132,7 @@ If you need any further assistance, please contact our [Support Team](https://ww
 
 Need help? We're always here for you.
 
-[Go to Live Chat page](https://www.namecheap.com/help-center/live-chat?loc=/hosting.aspx)
+[Go to Live Chat page](https://www.namecheap.com/help-center/live-chat?loc=)
 
 ![Ukraine flag](https://static.nc-img.com/uilayout2/34735a65a0c63bd007fa4c32f67dab4c.svg)We ❤️ Ukraine. Namecheap is a US based registrar. Many of our colleagues originate from or are located within Ukraine. To support Ukraine in their time of need visit this [page](https://war.ukraine.ua/support-ukraine/).
 
@@ -240,10 +244,12 @@ Join
 * [RelateAdsNEWAI](https://www.namecheap.com/relate/ads/)
 * [Brand MonitoringNEWAI](https://www.namecheap.com/relate/radar/)
 * [Visual](https://www.namecheap.com/visual/)
-* [Stencil Graphics](https://www.namecheap.com/visual/stencil/)
+* [Site MakerNEW](https://www.namecheap.com/visual/site-maker/)
+* [Font MakerNEW](https://www.namecheap.com/visual/font-generator/)
 * [Logo MakerAI](https://www.namecheap.com/logo-maker/)
-* [Business Card Maker](https://www.namecheap.com/visual/card-maker/)
 * [Business Name Generator](https://www.namecheap.com/visual/business-name-generator/)
+* [Stencil Graphics](https://www.namecheap.com/visual/stencil/)
+* [Business Card Maker](https://www.namecheap.com/visual/card-maker/)
 
 **[Careers](https://www.namecheap.com/careers/)**
 
