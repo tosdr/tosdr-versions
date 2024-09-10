@@ -1,4 +1,4 @@
-📖 Free eBook: The Digital Services Act Explained. [Get it here →](https://besedo.com/knowledge-hub/library/ebook/the-digital-services-act-explained/) [×](#)
+✨ Free eBook: The Digital Services Act Explained. [Get it here →](https://besedo.com/knowledge-hub/library/ebook/the-digital-services-act-explained/) [×](#)
 
 [![Besedo logo](https://besedo.com/wp-content-ext/themes/besedo/assets/images/logo.svg)](https://besedo.com/)
 
@@ -206,7 +206,7 @@ The Operator’s business changes constantly, and the Policy will thereby also c
 * [Fraud prevention](https://besedo.com/use-cases/fraud-prevention/)
 * [Nudity and NSFW detection](https://besedo.com/use-cases/ai-powered-nudity-detection/)
 * [Profanity filters](https://besedo.com/use-cases/profanity-filters/)
-* [Real-time content moderation](https://besedo.com/use-cases/real-time-content-moderation/)
+* [Real-time chat moderation](https://besedo.com/use-cases/real-time-content-moderation/)
 
 * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20448%20512'%3E%3C/svg%3E)
     
