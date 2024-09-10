@@ -49,6 +49,10 @@ You’re welcome to post content on Kapwing that you have already published else
 
 By posting content to Kapwing, you represent that doing so does not violate any other agreements you may have made. If you post content that you did not create, you must have the right to do so, such as if the content is in the public domain, used under license (including a free license like [Creative Commons](https://creativecommons.org/licenses/)), or falls under the fair use doctrine.
 
+Through our services, you may generate images, audio, and video layers using AI technology (referred to here as “created scenes”). You agree not to use our Services to create, display, or transmit created scenes that are (i) deceptive, illegal, abusive, fraudulent, threatening, or otherwise harmful, including but not limited to impersonation, disinformation, defamation, child-exploitation, or promoting of self harm, discrimination, or violence. Created scenes must respect the rights of others, and you must ensure that you have the necessary rights or consents. Created scenes that represent real individuals without explicit consent or that contain illegal or defamatory content are strictly prohibited. You are responsible for ensuring that any scenes or images you create do not violate our prohibited content guidelines or infringe on the rights of others.
+
+When generating “imaginary scenes” feature supported by Mellis, Inc. you agree to abide by the Pika AUP, available at: [https://pika.art/acceptable-use-policy](https://pika.art/acceptable-use-policy)
+
 We reserve the right to remove any content you post for any reason.
 
 We use YouTube's API services in connection with the Kapwing Service to provide certain features. By using the Kapwing Service, you agree to be bound by the [YouTube Terms of Service](https://www.youtube.com/t/terms). Kapwing is not responsible or liable in any manner for, and we make no endorsement, representations or warranties regarding, the YouTube API services.
@@ -107,7 +111,7 @@ Miscellaneous
 
 **Entire agreement.** These Terms (including any document incorporated by reference into them) are the whole agreement between Kapwing and you concerning the Services.
 
-These Terms were last modified in December, 2022.
+These Terms were last modified in September, 2024.
 
 ![Kapwing Logo](https://cdn-useast1.kapwing.com/static/9XE-logo-small.webp)[KAPWING](https://www.kapwing.com/)
 
