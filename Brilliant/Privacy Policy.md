@@ -1,4 +1,4 @@
-[](https://brilliant.org/home/)
+[](https://brilliant.org/)
 
 1\. Brilliant.org Privacy Statement
 ===================================
@@ -220,7 +220,7 @@ Product
 
 [Courses](https://brilliant.org/courses/)
 
-[Pricing](https://brilliant.org/premium/)
+[Pricing](https://brilliant.org/subscribe/)
 
 [Testimonials](https://brilliant.org/testimonials/)
 
