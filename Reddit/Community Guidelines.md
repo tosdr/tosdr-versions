@@ -28,7 +28,7 @@ Topics
 * [Rules](#text-content1)
 * [Enforcement](#text-content2)
 
-All User Agreement Privacy Policy Content Policy Moderator Code of Conduct Cookie Notice Premium and Virtual Goods Agreement Previews Terms of Use Creator Terms Developer Terms Data API Terms Embeds Terms of Use Trademark Use Policy Transparency Guidelines for Law Enforcement Reddit's Anti-Slavery and Human Trafficking Statement Contributor Monetization Policy Contributor Terms Developer Data Protection Addendum Swedish (SE) English (US) Dutch (NL) Italiano Português (PT) Português (BR) Español (ES) Español (MX) Français (FR) Deutsch (DE)
+All User Agreement Privacy Policy Content Policy Moderator Code of Conduct Cookie Notice Premium and Virtual Goods Agreement Previews Terms of Use Creator Terms Developer Terms Data API Terms Embeds Terms of Use Trademark Use Policy Transparency Guidelines for Law Enforcement Reddit's Anti-Slavery and Human Trafficking Statement Contributor Monetization Policy Contributor Terms Developer Data Protection Addendum Machine Readable Files Swedish (SE) English (US) Dutch (NL) Italiano Português (PT) Português (BR) Español (ES) Español (MX) Français (FR) Deutsch (DE)
 
 Reddit Content Policy
 =====================
@@ -113,7 +113,7 @@ Community*
 * [Reddit.com](https://www.reddit.com/r/reddit/)
 * [Reddit for Community](https://redditforcommunity.com/?utm_source=redditinc&utm_medium=redditinc&utm_campaign=evergreen)
 * [Content Policy](https://www.redditinc.com/policies/content-policy)
-* [Help Center](https://reddit.zendesk.com/hc/en-us)
+* [Help Center](https://support.reddithelp.com/hc?utm_source=redditinc&utm_medium=footer&utm_campaign=evergreen)
 * [Moderator Code of Conduct](https://www.redditinc.com/policies/moderator-code-of-conduct)
 
 Privacy & Safety* 
