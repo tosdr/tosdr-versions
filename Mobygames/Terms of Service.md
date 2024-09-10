@@ -37,7 +37,11 @@
         * [Login](https://www.mobygames.com/user/login/)
         * [Register](https://www.mobygames.com/user/register/)
 
-🕹️ [Enjoy your favorite Atari 2600 and 7800 games on one system, the Atari 2600+](https://atari.com/collections/atari-2600-plus?utm_source=mobygames)
+In memoriam, [James Earl Jones](https://www.mobygames.com/person/7796/james-earl-jones/)
+
+[![Atari 7800+](https://www.mobygames.com/static/img/7800__1180x90.03241eff.jpg)](https://atari.com/products/atari-7800?utm_source=mobygames&utm_medium=referral&utm_campaign=launch)
+
+[![Atari 7800+](https://www.mobygames.com/static/img/7800__300x90.7fed56ff.jpg)](https://atari.com/products/atari-7800?utm_source=mobygames&utm_medium=referral&utm_campaign=launch)
 
 Terms of Service
 ================
@@ -132,4 +136,4 @@ In addition to any other available relief, MobyGames and You agree that any comm
 
 © 1999–2024 MobyGames ™
 
-v2024.07.30b
+v2024.08.31
