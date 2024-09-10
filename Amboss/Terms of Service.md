@@ -2,15 +2,13 @@
 
 Students
 
-[AMBOSS for Students](https://www.amboss.com/us/students)[Study Aid](https://www.amboss.com/us/students/study)[Exam Preparation](https://www.amboss.com/us/students/exams)[Clerkships](https://www.amboss.com/us/students/clerkships)
+[AMBOSS for Students](https://www.amboss.com/us/students)[Pre-Clerkships](https://www.amboss.com/us/students/study)[Clerkships](https://www.amboss.com/us/students/clerkships)
 
-[USMLE](https://www.amboss.com/us/usmle)[Step 1](https://www.amboss.com/us/usmle/step1)[Step 2 CK](https://www.amboss.com/us/usmle/step2)[Self-assessment](https://www.amboss.com/us/usmle/self-assessment)[Score Predictor](https://www.amboss.com/us/usmle/score-predictor)
+[Exam Preparation](https://www.amboss.com/us/students/exams)[USMLE®](https://www.amboss.com/us/usmle)[COMLEX®](https://www.amboss.com/us/comlex)[Shelf Exams](https://www.amboss.com/us/shelf)
 
-[Shelf Exams](https://www.amboss.com/us/shelf)[Surgery](https://www.amboss.com/us/shelf/surgery)[Neurology](https://www.amboss.com/us/shelf/neurology-shelf-exam)[Medicine](https://www.amboss.com/us/shelf/medicine)[Obstetrics & Gynecology](https://www.amboss.com/us/shelf/ob-gyn)[Pediatrics](https://www.amboss.com/us/shelf/pediatrics)[Psychiatry](https://www.amboss.com/us/shelf/psychiatry)
+[Popular Features](https://www.amboss.com/us/tour)[Mobile Apps](https://www.amboss.com/us/mobile-app)[Anki Add-on](https://www.amboss.com/us/anki)[Chrome Extension](https://chromewebstore.google.com/detail/amboss-medical-knowledge/hnlpidgbnmikgkmccephgaljihheckii?hl=en&pli=1) [Score Predictor](https://www.amboss.com/us/score-predictor)
 
-[Anki](https://www.amboss.com/us/anki)[Anki meets Qbank](https://www.amboss.com/us/anki/qbank)[Crash Course](https://www.amboss.com/us/anki/crash-course)
-
-[Success Stories](https://www.amboss.com/us/reviews)
+[Love](https://www.amboss.com/us/reviews)
 
 Clinicians
 
@@ -36,9 +34,9 @@ Institutions
 
 [Institutional Licenses](https://www.amboss.com/us/institutions)
 
-[Usage Report](https://www.amboss.com/us/institutions/usage-report)
+[Institutional Reports](https://www.amboss.com/us/institutions/usage-report)
 
-[Step 2 Impact](https://www.amboss.com/us/usmle/scores)
+[Research & Insights](https://www.amboss.com/us/usmle/scores)
 
 [Pricing](https://www.amboss.com/us/pricing)
 
