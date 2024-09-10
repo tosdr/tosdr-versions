@@ -13,7 +13,7 @@ Have questions about something else? Check out our [Help Center](https://app.mer
 
 Mercury Payment Services Addendum
 
-Last updated: May 2024
+Last updated: Aug 2024
 
 This Mercury Payment Services Addendum ("Addendum") sets out the terms that are applicable to the payment services, including funds transfer and foreign exchange services, we offer to you (the "Payment Services") and is between you, Mercury, and Mercury’s financial services partners (the "Payment Service Providers"). This Addendum is a supplement to the Mercury Terms of Use between you and Mercury. The Payment Services are made available to you through integrations with certain financial services partners. To use the Payment Services, you must accept the terms of this Addendum, any terms and conditions provided by the Payment Services Providers and linked herein, and any changes to this Addendum made from time to time by Mercury or the Payment Service Providers. Your use of the Payment Services is also subject to your continued compliance with the Mercury Terms of Use and the Banking Provider agreements. Capitalized terms used in this Addendum but not defined here have the meanings given in the Mercury Terms of Use.
 
@@ -25,7 +25,7 @@ This Mercury Payment Services Addendum ("Addendum") sets out the terms that are 
 
 To leverage the benefits of ACH Authorization, you are required to provide Mercury with a list of approved recipients and payment criteria that can be posted to your account. Once ACH Authorization is set up, if an item attempts to clear your account, our system will verify the transaction details against the default parameters established for you, using the information you provided us.
 
-Mercury will notify you of any items that may be exceptions to these parameters; however, you are required to review and approve these items before 2:00 pm CT on any business day (excluding weekends and holidays) if you wish for these exceptions to post to your account. You also have the flexibility to add, modify, or remove any ACH authorizations as needed. However, to ensure these updates take effect on your account, you must transmit them to Mercury before 2:00 pm CT on any business day. Failure to update your list of exceptions before the cutoff time will result in an automatic payment of the transaction according to your default settings.
+Mercury will notify you of any items that may be exceptions to these parameters; however, you are required to review and approve these items before 2:00 pm CT on any business day (excluding weekends and holidays) if you wish for these exceptions not to post to your account. You also have the flexibility to add, modify, or remove any ACH authorizations as needed. However, to ensure these updates take effect on your account, you must transmit them to Mercury before 2:00 pm CT on any business day. Failure to update your list of exceptions before the cutoff time will result in an automatic payment of the transaction according to your default settings. You have the option to configure your account to automatically reject transactions not pre-approved by you within the designated cut-off time. You acknowledge that auto-rejected transactions will be treated as stop payment requests.
 
 Please note that this feature is intended solely to block unauthorized or improper transactions and cannot be used to reverse transactions due to insufficient funds or those otherwise authorized by you or your authorized users.
 
@@ -55,15 +55,11 @@ Products
 
 Platform
 
-[Explore Demo](https://demo.mercury.com/dashboard)[Pricing](https://mercury.com/pricing)[Financial Workflows](https://mercury.com/financial-workflows)[Security](https://mercury.com/security)[Vault](https://mercury.com/vault)[API Access](https://mercury.com/api)[How Mercury Works](https://mercury.com/how-mercury-works)[Help Center](https://app.mercury.com/help)
+[Explore Demo](https://demo.mercury.com/dashboard)[Pricing](https://mercury.com/pricing)[Financial Workflows](https://mercury.com/financial-workflows)[Security](https://mercury.com/security)[API Access](https://mercury.com/api)[How Mercury Works](https://mercury.com/how-mercury-works)[Help Center](https://app.mercury.com/help)
 
 Industries
 
 [SaaS](https://mercury.com/saas)[Ecommerce](https://mercury.com/ecommerce)[VC Funds](https://mercury.com/vc-funds)[Web3](https://mercury.com/web3)[Life Science](https://mercury.com/life-science)
-
-Stages
-
-[Pre-Seed & Seed](https://mercury.com/seed-startup-banking)[Series A & Beyond](https://mercury.com/startup-banking)
 
 Grow
 
