@@ -2,13 +2,10 @@
 
 * [Documentation](https://selfprivacy.org/docs/)
 * [Blog](https://selfprivacy.org/blog/)
-* * [en](https://selfprivacy.org/privacy-policy/)
-    * [ru](https://selfprivacy.org/ru/privacy-policy/)
-    
 
 * [Privacy Policy](https://selfprivacy.org/privacy-policy/)
 
-[View page source](https://git.selfprivacy.org/SelfPrivacy/selfprivacy.org/src/branch/master/content/en/privacy-policy/_index.md) [Edit this page](https://git.selfprivacy.org/SelfPrivacy/selfprivacy.org/_edit/master/content/en/privacy-policy/_index.md) [Create child page](https://git.selfprivacy.org/SelfPrivacy/selfprivacy.org/_new/master/content/en/privacy-policy/_index.md?filename=change-me.md&value=---%0Atitle%3A+%22Long+Page+Title%22%0AlinkTitle%3A+%22Short+Nav+Title%22%0Aweight%3A+100%0Adescription%3A+%3E-%0A+++++Page+description+for+heading+and+indexes.%0A---%0A%0A%23%23+Heading%0A%0AEdit+this+template+to+create+your+new+page.%0A%0A%2A+Give+it+a+good+name%2C+ending+in+%60.md%60+-+e.g.+%60getting-started.md%60%0A%2A+Edit+the+%22front+matter%22+section+at+the+top+of+the+page+%28weight+controls+how+its+ordered+amongst+other+pages+in+the+same+directory%3B+lowest+number+first%29.%0A%2A+Add+a+good+commit+message+at+the+bottom+of+the+page+%28%3C80+characters%3B+use+the+extended+description+field+for+more+detail%29.%0A%2A+Create+a+new+branch+so+you+can+preview+your+new+file+and+request+a+review+via+Pull+Request.%0A) [Create documentation issue](https://git.selfprivacy.org/SelfPrivacy/selfprivacy.org/issues/new?title=Privacy%20Policy) [Create project issue](https://git.selfprivacy.org/kherel/selfprivacy.org.app/issues/new) [Print entire section](https://selfprivacy.org/privacy-policy/_print/)
+[View page source](https://git.selfprivacy.org/SelfPrivacy/selfprivacy.org/src/branch/master/content/en/privacy-policy/_index.md) [Edit this page](https://git.selfprivacy.org/SelfPrivacy/selfprivacy.org/_edit/master/content/en/privacy-policy/_index.md) [Create child page](https://git.selfprivacy.org/SelfPrivacy/selfprivacy.org/_new/master/content/en/privacy-policy/_index.md?filename=change-me.md&value=---%0Atitle%3A+%22Long+Page+Title%22%0AlinkTitle%3A+%22Short+Nav+Title%22%0Aweight%3A+100%0Adescription%3A+%3E-%0A+++++Page+description+for+heading+and+indexes.%0A---%0A%0A%23%23+Heading%0A%0AEdit+this+template+to+create+your+new+page.%0A%0A%2A+Give+it+a+good+name%2C+ending+in+%60.md%60+-+e.g.+%60getting-started.md%60%0A%2A+Edit+the+%22front+matter%22+section+at+the+top+of+the+page+%28weight+controls+how+its+ordered+amongst+other+pages+in+the+same+directory%3B+lowest+number+first%29.%0A%2A+Add+a+good+commit+message+at+the+bottom+of+the+page+%28%3C80+characters%3B+use+the+extended+description+field+for+more+detail%29.%0A%2A+Create+a+new+branch+so+you+can+preview+your+new+file+and+request+a+review+via+Pull+Request.%0A) [Report website issue](https://git.selfprivacy.org/SelfPrivacy/selfprivacy.org/issues/new?title=Privacy%20Policy) [Report app issue](https://git.selfprivacy.org/kherel/selfprivacy.org.app/issues/new) [Print entire section](https://selfprivacy.org/privacy-policy/_print/)
 
 * [Collection of Information](#collection-of-information)
 * [Tracking](#tracking)
@@ -95,6 +92,8 @@ Learn more
 * [User guide](https://selfprivacy.org/docs/)
 * [Blog](https://selfprivacy.org/blog/)
 * [Privacy Policy](https://selfprivacy.org/privacy-policy/)
+* [Community forum](https://forum.selfprivacy.org/)
+* [Fediverse account](https://fedi.selfprivacy.org/@selfprivacy)
 
 ### Get help
 
