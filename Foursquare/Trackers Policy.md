@@ -386,7 +386,7 @@ Foursquare has approximately 42,817 monthly average EU users.  This number is t
   
 ****Appeal**:**  
   
-You may appeal our decision with respect to a request you have submitted via the [Privacy Portal](https://foursquare.atlassian.net/servicedesk/customer/portal/25).
+You may appeal our decision with respect to a request you have submitted via the [Privacy Portal](https://foursquare.atlassian.net/servicedesk/customer/portal/25).
 
 Our privacy policies
 --------------------
