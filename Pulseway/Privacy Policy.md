@@ -1,5 +1,7 @@
 [Skip to content](#content)
 
+Join Pulseway's _FIRST EVER_ Online Nexus Conference - Register for [_**IT Departments**_](https://www.pulseway.com/v2/land/webinar-nexus?rfid=nca_banner) and for [_**MSPs**_](https://www.pulseway.com/v2/land/webinar-nexus-msp?rfid=nca_banner)
+
 [](#system-modal) [Sign In](#system-modal) [FREE TRIAL](https://www.pulseway.com/enterprise/evaluation)
 
 ### What type of account do you have?
