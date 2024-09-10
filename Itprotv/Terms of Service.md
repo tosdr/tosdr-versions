@@ -7,7 +7,9 @@
 Site navigation
 ---------------
 
-[Business Solutions](#)
+[Meet myACI](https://www.itpro.tv/myaci-learn/)
+
+[Learning Solutions](#)
 
 [Individuals](#)
 
@@ -21,8 +23,8 @@ Site navigation
 
 Video on-demand IT training courses & labs
 
-Binge-worthy cyber and IT certification training.
-=================================================
+Binge-worthy cybersecurity and IT certification training.
+=========================================================
 
 Stay on top of the dynamic information technology landscape with Cyber & IT training videos, hands-on virtual Skill Labs and IT certification practice tests.
 
@@ -258,7 +260,7 @@ We’re not stuffy. We’re not boring. Our talk-show style format keeps learner
 
 Learners can apply cyber and IT skills within a safe, virtual live-lab environment. Hands-on experiences accelerate skills development and empowers self-directed learners. Practice tests simulate the actual exam environment, providing individuals confidence and insights into areas for improvement before taking the official test.
 
-![Screenshots of the desktop app](https://aci-dev-strapi-bucket.s3.amazonaws.com/prod/lab_image_1ecb9ef0d6.png)
+![Virtual machine skill labs](https://aci-dev-strapi-bucket.s3.amazonaws.com/prod/Overview_Skill_Labs_02_0aba5b8dd8.jpg) [Explore Skill Labs](https://www.itpro.tv/skill-labs/)
 
 ![Inline learning certificate icon](https://aci-dev-strapi-bucket.s3.amazonaws.com/prod/inline_learning_certificate_2_ae63b842f6.svg)
 
@@ -290,7 +292,7 @@ We’re not stuffy. We’re not boring. Our talk-show style format keeps learner
 
 Learners can apply cyber and IT skills within a safe, virtual live-lab environment. Hands-on experiences accelerate skills development and empowers self-directed learners. Practice tests simulate the actual exam environment, providing individuals confidence and insights into areas for improvement before taking the official test.
 
-![Screenshots of the desktop app](https://aci-dev-strapi-bucket.s3.amazonaws.com/prod/lab_image_1ecb9ef0d6.png)
+![Virtual machine skill labs](https://aci-dev-strapi-bucket.s3.amazonaws.com/prod/Overview_Skill_Labs_02_0aba5b8dd8.jpg) [Explore Skill Labs](https://www.itpro.tv/skill-labs/)
 
 ![Inline learning certificate icon](/static/2c2ef22af87ad7e46c195b608d6fa29b/inline_learning_certificate_2_ae63b842f6.svg)Train for popular IT certifications
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -307,19 +309,19 @@ Most popular certifications
 
 “
 
-> myACI is significant and transformative in that it not only meets individuals where they are at in terms of how they best learn today, but it also makes it easier than ever for organizations to train and assess their teams’ skillsets.
+> Our ITPro training videos are more than just content—they're an immersive experience that drives results, evidenced by our industry-leading 80% completion rates. Paired with our innovative Skill Labs, we're not just teaching concepts; we're enabling learners to dive deeper, apply their knowledge, and truly master the skills they need to excel.
 
-![](data:image/svg+xml;charset=utf-8,%3Csvg%20height='328'%20width='328'%20xmlns='http://www.w3.org/2000/svg'%20version='1.1'%3E%3C/svg%3E)
+![](data:image/svg+xml;charset=utf-8,%3Csvg%20height='100'%20width='100'%20xmlns='http://www.w3.org/2000/svg'%20version='1.1'%3E%3C/svg%3E)
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEYUlEQVR42n1Ui09bVRy+s0oUCFMTDS4x22xhfU2ilL4olEfbe0vLGIEyoKNIByvycAgmGtgEhmFEWBZY2UKBDjqL41EcKgtMJZnGQIZxMU4dxPD4N0y5n+fcstgG9STn3pt7ft93vt+TYWJW5zP0KTcaE2VqtkqmtYRkWnaX7LBUYw5Hvsk/ckZtojH/tg7Rh1THVki17JYi0walwcanZJghIVuZWYBUjRXyTBtPz6Rayza1jcbGLodDRFQMUWO53soTNXuSDFNYYynmK101cFcWIS83m1fq2fAJDbunIDYCMcFQbDSVIJm44lVmFYK8w3Idy6dmmFBa7sLw5S74O9pw3VOOD0vUcHIqnNSbiUKWp7b7GG80FyPVctVKgx0yTYRMojLBYivFN8Ne/B4IYjNwGxvefnx/+X2M1ubCnKWChLqvtfAUQ7EkBC6BLC3N+KJcZ90kboK6KdeykKjNGPp0EBsTfmwsLOLPe8t4NNiHxVY3ZupN6KjMIa5aqD1Vt0exch23eZRwMUod51YKsaDqOFBXNWwZvroVxG+Tfux8u4I/ZmfxEyH8uu0cxs/q4GswQ59nRYqaBRVAsZRDoeXOMUTdvCKKUKLKh8FWie/Gb2HNP4a14GdY993Aw+F+hD56Fz5XFsY9ebBY7ST7FqIsQigkk3Axci23Q4mIfF5B3m8QworiKqyNjeLz3h40lBTh/sAV3DxfhmKDChesKvhrjCgyGiFWc4JCio1wcLskIexfkViwoITH0vPRWFGLx5Nj2FyYx893prE1O4O7zWcw0ezE/HulCNVlo1ijglhIDIuneMoVQ0hvEROFtiIn1keGsR0MYnVwCL9OBDDTcIbscjxodSLgfAv2/FySPO4gIZX51GUaj1SS4fScU1j2ejH/QQuuuqsxdfFjNOfp0Gh8G12F2eg7rUR+voUQsjEuk++dmKQIKslOISUx0nMFS/09mGzvxHT3APpcVajPTMNNTxm6S3TQZNPL/8lyJCnsPENTrYwipHE8TuLoqWnCim8ET764i8cjtzFb+w5GnRyuuU/jPKeFUm+hLkZc3S8bGSlB5qhQ2Nx+YZMipaVDatHEORDoG8DS1DTuXx1EqLWJtJ8DDWYFCnVpOKG3C5eTTiEYWtjWSGFHWs/iElqP9qae4ymh3uTAl4M34OvrR9eFNjRXlKO2IBNNOVJoxEeQfFwGaUY+r9DbSD+fImrN1QeHg6GQdIolfFis5VU2N36YDCLY2Ynr7e3oqqtDi51F79kCnEw9BpHoWT4pKSmc/LoYkjcNscNBmF4zDlGyLGfocIoRzBEtn26v21u5Mxeea2nkpy52YLjRg/H6Ot7f/0n41Vde3ouLe56Pj38Bcc+Jhghc9J8D9qUUYwXzmnpbbfdgdf0JH+q+hAe9nbjX04XVuQVMjPn4ONEhxMcnbCUkJPzPgI0d54m5juaqxZVHoaXlh7u/BPzhxZmFcGjhx92ejkshcl4ll8sTD7jJMMzfW1mKS9mXAcIAAAAASUVORK5CYII=)
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsTAAALEwEAmpwYAAAFGElEQVR42nWV7U9TVxzHb8HSok6GOt0ojw50E3yiT7ctRR5que29bSnYDax9foJKCwUmAhM0uGjMooGqMS76YlNxU65uS/ZiZslidIl742Jclo0lIprslfsDyO397rRkjmXZSU7Oyb3n9zmf3zn3nkNR/xSJy+XKz3YYxr1O1+bx6KwhnuYiiwZbTDDYY4KODT3T24K8wR727nXF12bHulxfkBhIqP+Uycm8bEMzB9201fu80RmH0R4UG8wdUNHNUDYwMDjCaOzsExs7DkFviyzq2bB7ZewK1vIDDeOdNtgjJDAqKpscmerqakH9bpVooXeBUddhZ+1OUbmvW9A7ohlDe6/YuD8J2habXsl4RdcynrShPQra4l3SWgNCZVU1WnZvxeneg/huZgrfnz+B4/4OaBr2QefoIaAeQWfvXTLuT0Fr70n/y1TN+Nx6ewhaizejYwOiyuxGa4MBM0k3fp49i5f3bpPK48nVj9F/sAsaxg9dezxrJ9Jcr2Bw9oNm48vpa7IbwAbnaTYImvFnaGsItNWHSLcL/Klh/Dp3ES8ffos/H3yD326mcenoAPQcGevoBW3vgdYWz+jsfdA7EvNKU7SI0lrDfr09lp1VoC0BaKwRcLYuYuLE2ZQfs1ND+P3LK3h84wLmTo/gwpEY2M4wtBxJ236IAPugZuOCviNFjJM+Agzc1tuiBBggwCDUlhCxO4AJjwPXjqXw1alx3JuZwL1zU5g7MYIbx/oRDcSh5LKGfctALiHonEOkn+AptSXwVMuGsoailqSrsgbR0enBYZcZDy9OYX72HO6eHcfjT8/gxe1L4E+k4OqKQmk7lANqbAlS+0Stoz/bX6CUbb6MiqSqtvihJjAVF4PK7EG0k8MdYvPZcAyzx4YwNzmI+2eO4NL4AEk3Ak3OLpFNk7RJAusnpkmBUpp9gorsmtJKKhMghmR2kjZnMmP2+AA+6Q+Bn/wA1w8ncHdmEmPJAQJLQOccJC2x4giMS2RhZC2zwDbfQtawngmIGjZCdqsHlXtYKEq2IUYsP5/sx6PLaTw4dxInEyFs32FE6Q4Gdc0BIhAn32CKfEJDorZ9iEBTTymVxc/T7b1QWSJCrbELm7c1gyqqReEbu9DmjCL+nhPp4ShO9oUR634fWpMPlGQzVhXXobC0AetrWlFe3yEoWbIUjiGe2t3q8dVo7Hi9pF7IK6pD3oZ6yMubQK1XQu0aB+cbge+AFxOhLgyGyXJww5C+1YAChRHSshbkbzZAskEjrCkxooZ2+yiquLhIUrBlPq9oD6SljRmpwgBZlZkAVSjXeGAbv4XuiVs4GgkhkPwIW5lRyBUtKNzCQFZuIjEtGVmZCas2aucpav263N8i3US7C0qbIVU0CXJFg1hYaUK+ohlr37Ygev5HDFybR2jyGnpm7sN9+i5WkXeFNVbIK1pFWYUpk08mIIwDfx82uR+6oKwpLd/CoaCsdamwwiSsruYg2aiHc/Qmjn79B+JXfsIY/xyx8z8QOwsKKvcJ8jLTkrS0FZKSxvRKVvaYyHVkFeZpWXkbyEBxTVVbhtpIC7W2cXGMf4HB67/gwzuLYvLyI6G41pWRVzGivIqF9E3j9ErGypJ7IC/Vu2WVpsXV77STtbSI67bvR/LKY4zOLWCCmI7feS5uUgcJqHFxTTXj/j9Y7gogB3ruCqD2xtfKa+ze1VUWntpkfMaO3BBG5xaFMX7h2cDVJ7xC1+OhqA2vLYflYl5dAX8BriyQZwcKAM0AAAAASUVORK5CYII=)
 
-![Brett Shively](/static/f5716a22527fc398be279a9b9aa1e7b4/f2f10/brett_shively_0096258d6a.png)
+![Scott Horn, CEO of ACI Learning](/static/5cbc24bddfd4942a8b6992ff4845f379/220dd/scott_horn_aci_learning_ceo_7a389567a9.png)
 
-Brett Shively
+Scott Horn
 
 ACI Learning CEO
 
-[![Linkedin icon](/static/47c8d2cc25aa6923e1c315786b42b645/linkedin_b342c36d92.svg)](https://www.linkedin.com/in/brettshively/)
+[![Linkedin icon](/static/47c8d2cc25aa6923e1c315786b42b645/linkedin_b342c36d92.svg)](https://www.linkedin.com/in/scotthorn/)
 
 Popular certifications
 
@@ -356,11 +358,11 @@ Learn at your own pace and get your IT certification training.
 Business Solutions
 
 * [Corporate Training](https://www.itpro.tv/enterprises/)
-* [myACI Learn — Preview](https://www.itpro.tv/myaci-learn/)
-* [Audit Training](https://www.itpro.tv/auditpro/)
-* [Private Bootcamps](https://www.itpro.tv/live-online-training/)
-* [Channel & Reseller](https://www.itpro.tv/channel-reseller/)
-* [Government](https://www.itpro.tv/government/)
+* [Learning & Workforce Management](https://www.itpro.tv/myaci-learn/)
+* [Internal Audit Training](https://www.itpro.tv/auditpro/)
+* [Private IT Training Programs](https://www.itpro.tv/live-online-training/)
+* [Channel, Reseller & Academic](https://www.itpro.tv/channel-reseller/)
+* [Government IT training](https://www.itpro.tv/government/)
 
 Content Packages
 
