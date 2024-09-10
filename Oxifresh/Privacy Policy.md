@@ -222,7 +222,7 @@ Zip Code  QUOTE & SCHEDULE
 
 Enter your zip/postal code above to find carpet cleaning services in your area, get a free quote or book online!
 
-Average 4.7 Stars Based on 289,967 Reviews
+Average 4.7 Stars Based on 296,805 Reviews
 
 * [Home](https://www.oxifresh.com/)
 * \>
@@ -385,31 +385,31 @@ What Customers Are Saying
 
 ### Average 4.7 stars (Out of 5)
 
-Based on 289,967 Carpet Cleaning Services Reviews
+Based on 296,805 Carpet Cleaning Services Reviews
 
-Quick and efficient. Francisco did a good job! **SL.** - Loveland, CO - 06/27/2024
-
-(5.0 Out of 5 stars)
-
-we were pleased from the scheduling call throughout the proccess.... happy with the service tech AND the results **PM.** - Center Township, PA - 06/27/2024
+**GS.** - Reno, NV - 09/01/2024
 
 (5.0 Out of 5 stars)
 
-**DF.** - Argyle, TX - 06/27/2024
+Excellent job, showed up on time. Wyatt was a very nice polite young man. Deanie Leach **WL.** - CEDAR CREEK, TX - 09/01/2024
+
+(5.0 Out of 5 stars)
+
+Quick service response. Very nice associate and happy with the carpet cleaning! **VY.** - SILVER SPRING, MD - 08/31/2024
 
 (5.0 Out of 5 stars)
 
 [MORE REVIEWS](https://www.oxifresh.com/testimonials)
 
-[![The Greenest Carpet Cleaner](data:image/svg+xml;nitro-empty-id=ODQ2OjI2OA==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNjAwIDI4MCIgd2lkdGg9IjYwMCIgaGVpZ2h0PSIyODAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.oxifresh.com/green-carpet-cleaning/)
+[![The Greenest Carpet Cleaner](data:image/svg+xml;nitro-empty-id=ODQ1OjI2OA==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNjAwIDI4MCIgd2lkdGg9IjYwMCIgaGVpZ2h0PSIyODAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.oxifresh.com/green-carpet-cleaning/)
 
 [### Committed to Being Green
 
 We are The World's Greenest Carpet Cleaner®. Our eco-friendly cleaning process and products are better for your family and the environment. Click here to learn why it's important!](https://www.oxifresh.com/green-carpet-cleaning/)
 
-[![Fast one hour dry time](data:image/svg+xml;nitro-empty-id=ODYwOjI2Mw==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNjAwIDI4MCIgd2lkdGg9IjYwMCIgaGVpZ2h0PSIyODAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.oxifresh.com/carpet-cleaning-services/residential-carpet-cleaning/fast-drying-carpet-cleaner/)
+[![Fast one hour dry time](data:image/svg+xml;nitro-empty-id=ODU5OjI2Mw==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNjAwIDI4MCIgd2lkdGg9IjYwMCIgaGVpZ2h0PSIyODAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.oxifresh.com/carpet-cleaning-services/residential-carpet-cleaning/fast-drying-carpet-cleaner/)
 
-[![Water.org](data:image/svg+xml;nitro-empty-id=ODY0OjI0OQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzMzIDEwMyIgd2lkdGg9IjMzMyIgaGVpZ2h0PSIxMDMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
+[![Water.org](data:image/svg+xml;nitro-empty-id=ODYzOjI0OQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzMzIDEwMyIgd2lkdGg9IjMzMyIgaGVpZ2h0PSIxMDMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
 Oxi Fresh Carpet Cleaning is Helping Bring Water to the World. By scheduling online, you can help Water.org bring clean water to the millions of people around the world in need.](https://www.oxifresh.com/water-org/)
 
@@ -475,17 +475,17 @@ We're standing by to help CALL
 
 ### Oxi Fresh Awards & Recognition
 
-[![Forbes](data:image/svg+xml;nitro-empty-id=MTA4NjoxMjI=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUwIDE1MCIgd2lkdGg9IjE1MCIgaGVpZ2h0PSIxNTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.oxifresh.com/company-awards/forbes-magazine/)
+[![Forbes](data:image/svg+xml;nitro-empty-id=MTA4NToxMjI=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUwIDE1MCIgd2lkdGg9IjE1MCIgaGVpZ2h0PSIxNTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.oxifresh.com/company-awards/forbes-magazine/)
 
-[![Entrepreneur](data:image/svg+xml;nitro-empty-id=MTA5MDoxMzc=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUwIDE1MCIgd2lkdGg9IjE1MCIgaGVpZ2h0PSIxNTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.oxifresh.com/company-awards/entrepreneur-magazine/)
+[![Entrepreneur](data:image/svg+xml;nitro-empty-id=MTA4OToxMzc=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUwIDE1MCIgd2lkdGg9IjE1MCIgaGVpZ2h0PSIxNTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.oxifresh.com/company-awards/entrepreneur-magazine/)
 
-[![Inc 5000](data:image/svg+xml;nitro-empty-id=MTA5NDoxMjk=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUwIDE1MCIgd2lkdGg9IjE1MCIgaGVpZ2h0PSIxNTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.oxifresh.com/company-awards/inc-magazine-5005000-award/)
+[![Inc 5000](data:image/svg+xml;nitro-empty-id=MTA5MzoxMjk=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUwIDE1MCIgd2lkdGg9IjE1MCIgaGVpZ2h0PSIxNTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.oxifresh.com/company-awards/inc-magazine-5005000-award/)
 
-[![FBR Top 50](data:image/svg+xml;nitro-empty-id=MTA5ODoxNjA=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUwIDE1MCIgd2lkdGg9IjE1MCIgaGVpZ2h0PSIxNTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.oxifresh.com/company-awards/franchise-business-review/)
+[![FBR Top 50](data:image/svg+xml;nitro-empty-id=MTA5NzoxNjA=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUwIDE1MCIgd2lkdGg9IjE1MCIgaGVpZ2h0PSIxNTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.oxifresh.com/company-awards/franchise-business-review/)
 
-[![Fast 55](data:image/svg+xml;nitro-empty-id=MTEwMjoxNDI=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUwIDE1MCIgd2lkdGg9IjE1MCIgaGVpZ2h0PSIxNTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.oxifresh.com/company-awards/franchise-times/)
+[![Fast 55](data:image/svg+xml;nitro-empty-id=MTEwMToxNDI=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUwIDE1MCIgd2lkdGg9IjE1MCIgaGVpZ2h0PSIxNTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.oxifresh.com/company-awards/franchise-times/)
 
-[![Franchise Gator](data:image/svg+xml;nitro-empty-id=MTEwNjoxNDM=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUwIDE1MCIgd2lkdGg9IjE1MCIgaGVpZ2h0PSIxNTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.oxifresh.com/company-awards/franchise-gator/)
+[![Franchise Gator](data:image/svg+xml;nitro-empty-id=MTEwNToxNDM=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUwIDE1MCIgd2lkdGg9IjE1MCIgaGVpZ2h0PSIxNTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.oxifresh.com/company-awards/franchise-gator/)
 
 ×
 
@@ -518,7 +518,7 @@ GET SPECIALS
 
 ### Own an Oxi Fresh Franchise
 
-![Carpet Cleaning Franchisors](data:image/svg+xml;nitro-empty-id=MTIzNToxOTQ=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNDA5IDE4OSIgd2lkdGg9IjQwOSIgaGVpZ2h0PSIxODkiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
+![Carpet Cleaning Franchisors](data:image/svg+xml;nitro-empty-id=MTIzNDoxOTQ=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNDA5IDE4OSIgd2lkdGg9IjQwOSIgaGVpZ2h0PSIxODkiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
 * Low Investment
 * Home-based
