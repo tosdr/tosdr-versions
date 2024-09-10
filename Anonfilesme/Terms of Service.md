@@ -2,8 +2,8 @@
 
 No expiration Remove after 1 day Remove after 7 days Remove after 31 days 
 
-Upload your files anonymously and free on Anonym File.  
-Visit our friends [GoFile.to](https://gofile.to/)
+Upload your anonfiles anonymously and free on Anonym File.  
+Visit our friends [GoFile.to](https://gofile.to/) or [ShareFile.co](https://sharefile.co/)
 
 Maximum upload file size: 5000MB.
 
