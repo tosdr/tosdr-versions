@@ -1,4 +1,40 @@
-We care about your data, and we'd like to use cookies to give you a smooth browsing experience. Please agree and read more about our [privacy policy](https://www.quantamagazine.org/privacy-policy).Agree
+[Quanta Homepage](https://www.quantamagazine.org/)
+
+* [Physics](https://www.quantamagazine.org/physics/)
+* [Mathematics](https://www.quantamagazine.org/mathematics/)
+* [Biology](https://www.quantamagazine.org/biology/)
+* [Computer Science](https://www.quantamagazine.org/computer-science/)
+* [Topics](https://www.quantamagazine.org/topics)
+* [Archive](https://www.quantamagazine.org/archive/)
+
+* [Blog](https://www.quantamagazine.org/abstractions/)
+* [Columns](https://www.quantamagazine.org/tag/quantized)
+* [Interviews](https://www.quantamagazine.org/qa/)
+* [Podcasts](https://www.quantamagazine.org/podcasts/)
+* [Puzzles](https://www.quantamagazine.org/puzzles/)
+* [Multimedia](https://www.quantamagazine.org/multimedia/)
+* [Videos](https://www.quantamagazine.org/videos)
+* [About Quanta](https://www.quantamagazine.org/about/)
+
+_An editorially independent publication supported by the Simons Foundation._
+
+Follow Quanta
+
+[Facebook](https://www.facebook.com/QuantaNews)[X Twitter](https://twitter.com/QuantaMagazine)[Youtube](https://www.youtube.com/c/QuantaScienceChannel)[Instagram](https://instagram.com/quantamag)[RSS](https://www.quantamagazine.org/feed/)
+
+Newsletter
+
+_Get the latest news delivered to your inbox._
+
+Email 
+
+Subscribe
+
+[Recent newsletters](http://us1.campaign-archive2.com/home/?u=0d6ddf7dc1a0b7297c8e06618&id=f0cb61321c)
+
+Gift Store
+
+[Shop Quanta gear](https://www.quantamagazine.org/gift-store)
 
 [Quanta Homepage](https://www.quantamagazine.org/)
 
@@ -10,8 +46,36 @@ We care about your data, and we'd like to use cookies to give you a smooth brows
 * [Archive](https://www.quantamagazine.org/archive/)
 
 * Saved articles
+    
+    Saved Articles
+    --------------
+    
+    Create a reading list by clicking the Read Later icon next to the articles you wish to save.
+    
+    [See all saved articles](https://www.quantamagazine.org/saved-articles)
+    
 * Login
+    
+    #### Log out
+    
+    * * *
+    
+    #### Change password
+    
 * Search
+
+Type search term(s) and press enter
+
+ What are you looking for?
+
+Search
+
+Popular Searches
+
+* [Mathematics](https://www.quantamagazine.org/?s=math)
+* [Physics](https://www.quantamagazine.org/?s=physics)
+* [Black Holes](https://www.quantamagazine.org/?s=black+holes)
+* [Evolution](https://www.quantamagazine.org/?s=evolution)
 
 Privacy Policy
 ==============
@@ -189,7 +253,7 @@ Follow Quanta
 
 * * *
 
-[Twitter
+[X Twitter
 
 **Twitter**](https://twitter.com/QuantaMagazine)
 
@@ -209,27 +273,59 @@ Follow Quanta
 
 [RSS
 
-**RSS**](https://api.quantamagazine.org/feed/)
+**RSS**](https://www.quantamagazine.org/feed/)
 
 * * *
 
-[**Newsletter**](#newsletter)
+[Newsletter
+
+**Newsletter**](#newsletter)
 
 Past Week
 
 ### Most Read Articles
 
-This Data is Current Loading...
+[![Illustration of a gramophone with particles flying out of it.](https://www.quantamagazine.org/wp-content/uploads/2024/08/HiggsExplainer-crMicheleSclafani-Thumbnail.webp)](https://www.quantamagazine.org/how-the-higgs-field-actually-gives-mass-to-elementary-particles-20240903/)
 
-This Data is Current Loading...
+[#### How the Higgs Field (Actually) Gives Mass to Elementary Particles](https://www.quantamagazine.org/how-the-higgs-field-actually-gives-mass-to-elementary-particles-20240903/)
 
-This Data is Current Loading...
+_By_ [Matt Strassler](https://www.quantamagazine.org/authors/mattstrassler)
+
+[![](https://www.quantamagazine.org/wp-content/uploads/2024/09/WhatIsAGroup-crAdamNickel-Thumbnail.webp)](https://www.quantamagazine.org/groups-underpin-modern-math-heres-how-they-work-20240906/)
+
+[#### ‘Groups’ Underpin Modern Math. Here’s How They Work.](https://www.quantamagazine.org/groups-underpin-modern-math-heres-how-they-work-20240906/)
+
+_By_ [Leila Sloman](https://www.quantamagazine.org/authors/leila-sloman)
+
+[![Illustration of a deconstructed clock where one metal layer is imprinted to look like a thorium atom.](https://www.quantamagazine.org/wp-content/uploads/2024/09/NuclearClock-crNashWeerasekera-Thumbnail.webp)](https://www.quantamagazine.org/the-first-nuclear-clock-will-test-if-fundamental-constants-change-20240904/)
+
+[#### The First Nuclear Clock Will Test if Fundamental Constants Change](https://www.quantamagazine.org/the-first-nuclear-clock-will-test-if-fundamental-constants-change-20240904/)
+
+_By_ [Joseph Howlett](https://www.quantamagazine.org/authors/josephhowlett)
+
+[![](https://www.quantamagazine.org/wp-content/uploads/2024/08/Daniel_Litt-cr.MartaIwanek-Thumbnail.webp)](https://www.quantamagazine.org/perplexing-the-web-one-probability-puzzle-at-a-time-20240829/)
+
+[#### Perplexing the Web, One Probability Puzzle at a Time](https://www.quantamagazine.org/perplexing-the-web-one-probability-puzzle-at-a-time-20240829/)
+
+_By_ [Erica Klarreich](https://www.quantamagazine.org/authors/erica-klarreich)
+
+[![](https://www.quantamagazine.org/wp-content/uploads/2024/08/EntanglementSuddenDeath-crKristinaArmitage-Thumbnail.webp)](https://www.quantamagazine.org/computer-scientists-prove-that-heat-destroys-entanglement-20240828/)
+
+[#### Computer Scientists Prove That Heat Destroys Quantum Entanglement](https://www.quantamagazine.org/computer-scientists-prove-that-heat-destroys-entanglement-20240828/)
+
+_By_ [Ben Brubaker](https://www.quantamagazine.org/authors/brubaker_ben)
+
+[![](https://www.quantamagazine.org/wp-content/uploads/2024/08/MassiveGravity-cr.PeterGreenwood-Thumbnail.webp)](https://www.quantamagazine.org/do-we-need-a-new-theory-of-gravity-20240829/)
+
+[#### Do We Need a New Theory of Gravity?](https://www.quantamagazine.org/do-we-need-a-new-theory-of-gravity-20240829/)
+
+_By_ [Janna Levin](https://www.quantamagazine.org/authors/jannalevin)
 
 The Quanta Newsletter
 
 _Get highlights of the most important news delivered to your email inbox_
 
-Email
+Email 
 
 Subscribe
 
@@ -237,7 +333,7 @@ Subscribe
 
 [Quanta Homepage](https://www.quantamagazine.org/)
 
-[Facebook](https://www.facebook.com/QuantaNews)[Twitter](https://twitter.com/QuantaMagazine)[Youtube](https://www.youtube.com/c/QuantaScienceChannel)[Instagram](https://instagram.com/quantamag)
+[Facebook](https://www.facebook.com/QuantaNews)[X Twitter](https://twitter.com/QuantaMagazine)[Youtube](https://www.youtube.com/c/QuantaScienceChannel)[Instagram](https://instagram.com/quantamag)
 
 * [About Quanta](https://www.quantamagazine.org/about/)
 * [Archive](https://www.quantamagazine.org/archive)
@@ -249,4 +345,64 @@ Subscribe
 
 All Rights Reserved © 2024
 
-_An editorially independent publication supported by the Simons Foundation._[](https://www.simonsfoundation.org/)
+_An editorially independent publication supported by the Simons Foundation._ [Simons Foundation](https://www.simonsfoundation.org/)
+
+Close
+
+Log in to Quanta
+
+Use your social network
+-----------------------
+
+[Facebook Connect with Facebook](https://www.quantamagazine.org/mechanix?loginSocial=facebook)
+
+[Connect with Google](https://www.quantamagazine.org/mechanix?loginSocial=google)
+
+or
+
+ email
+
+ password
+
+ Remember me
+
+Forgot your password ?
+
+Don't have an account yet? Sign up
+
+Close
+
+Forgot your password?
+
+We’ll email you instructions to reset your password
+
+ email
+
+Close
+
+Change your password
+
+Enter your new password
+
+ Password
+
+ Retype new password
+
+Close
+
+Sign Up
+
+ First Name
+
+ Last Name
+
+ Email
+
+ Password
+
+ Retype Password
+
+Creating an account means you accept Quanta Magazine's  
+[Terms & Conditions](https://www.quantamagazine.org/terms-conditions) and [Privacy Policy](https://www.quantamagazine.org/privacy-policy)
+
+We care about your data, and we'd like to use cookies to give you a smooth browsing experience. Please agree and read more about our [privacy policy](https://www.quantamagazine.org/privacy-policy).AGREE
