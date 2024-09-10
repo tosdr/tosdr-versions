@@ -13,17 +13,15 @@
 
 * [![[Products]](/mb-products.gif)](https://www.grc.com/sr/spinrite.htm)
     *  [**\= Upgrade to v6.1 =**](https://www.grc.com/upgrade.htm)
-    *  [General information](https://www.grc.com/sr/spinrite.htm)
+    *  [What is SpinRite?](https://www.grc.com/sr/spinrite.htm)
     *  [What SpinRite Does](https://www.grc.com/sr/whatitdoes.htm)
+    *  [User Manual](https://www.grc.com/sr/user-manual.htm)
     *  [User testimonials](https://www.grc.com/sr/testimonials.htm)
     *  [S.M.A.R.T. Monitor](https://www.grc.com/sr/smart.htm)
-    *  [Purchase SpinRite](https://www.grc.com/cs/prepurch.htm)
     *  [FAQ](https://www.grc.com/sr/faq.htm)
-    *  [Demo Videos](https://www.grc.com/sr/themovie.htm)
-    *  [Knowledgebase: B04E](https://www.grc.com/sr/kb/b04e.htm)
-    *  [Knowledgebase: SATA](https://www.grc.com/sr/kb/sata.htm)
-    *  [Knowledgebase: BIOS](https://www.grc.com/sr/kb/badbios.htm)
-    *  [SpinRite v5.0 pages](https://www.grc.com/sroverview.htm)
+    *  [A Demo Video](https://www.grc.com/sr/themovie.htm)
+    *  [Purchase SpinRite](https://www.grc.com/cs/prepurch.htm)
+    *  [The Future](https://www.grc.com/cs/future.htm)
 
 * [![[Services]](/mb-services.gif)](https://www.grc.com/x/ne.dll?bh0bkyd2)
     *  [ShieldsUP!](https://www.grc.com/x/ne.dll?bh0bkyd2)
@@ -43,6 +41,7 @@
     * Security»
         *  [InSpectre](https://www.grc.com/inspectre.htm)
         *  [Securable](https://www.grc.com/securable.htm)
+        *  [IsBootSecure](https://www.grc.com/isbootsecure.htm)
         *  [Leaktest](https://www.grc.com/lt/leaktest.htm)
         *  [Shoot the messenger](https://www.grc.com/stm/shootthemessenger.htm)
         *  [Unplug n' Pray](https://www.grc.com/unpnp/unpnp.htm)
@@ -211,10 +210,10 @@ To return to the previous page, press your browser's **BACK** button.
 
 |     |     |     |
 | --- | --- | --- |
-| [![Jump to top of page](https://www.grctech.com/_uow0p254kyzen_/image/grc-icon.gif "Jump to top of page")](#top) | Gibson Research Corporation is owned and operated by Steve Gibson.  The contents  <br>of this page are Copyright (c) 2024 Gibson Research Corporation. SpinRite, ShieldsUP,  <br>NanoProbe, and any other indicated trademarks are registered trademarks of Gibson  <br>Research Corporation, Laguna Hills, CA, USA. GRC's web and customer [privacy policy](https://www.grc.com/privacy.htm). | [![Jump to top of page](https://www.grctech.com/_uow0p254kyzen_/image/jumptotop.png "Jump to top of page")](#top) |
+| [![Jump to top of page](https://www.grctech.com/_mu3fslfgqa4ih_/image/grc-icon.gif "Jump to top of page")](#top) | Gibson Research Corporation is owned and operated by Steve Gibson.  The contents  <br>of this page are Copyright (c) 2024 Gibson Research Corporation. SpinRite, ShieldsUP,  <br>NanoProbe, and any other indicated trademarks are registered trademarks of Gibson  <br>Research Corporation, Laguna Hills, CA, USA. GRC's web and customer [privacy policy](https://www.grc.com/privacy.htm). | [![Jump to top of page](https://www.grctech.com/_mu3fslfgqa4ih_/image/jumptotop.png "Jump to top of page")](#top) |
 
   
 
 |     |     |
 | --- | --- |
-| Last Edit: Mar 28, 2008 at 06:46 (5,967.88 days ago) | Viewed 42 times per day |
+| Last Edit: Mar 28, 2008 at 06:46 (6,010.19 days ago) | Viewed 36 times per day |
