@@ -38,6 +38,6 @@ Questo documento è CC-BY-SA. È stato aggiornato l'ultima volta il 12 giugno 20
 
 Originariamente adattato dall'informativa sulla privacy di Mastodon.
 
-[Informazioni](https://pixelfed.uno/site/about) [Aiuto](https://pixelfed.uno/site/help) [Termini](https://pixelfed.uno/site/terms) [Privacy](https://pixelfed.uno/site/privacy) [Lingua](https://pixelfed.uno/site/language)
+[About](https://pixelfed.uno/site/about) [Help](https://pixelfed.uno/site/help) [Terms](https://pixelfed.uno/site/terms) [Privacy](https://pixelfed.uno/site/privacy) [Language](https://pixelfed.uno/site/language)
 
 © 2024 pixelfed.uno · [Powered by Pixelfed](https://pixelfed.org/) · v0.12.3
