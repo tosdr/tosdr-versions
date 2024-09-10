@@ -29,7 +29,7 @@ This cookie temporarily stores session data if you use a third party login proce
   
 **ips4\_member\_id**
 
-This cookie stores the member id of the currently logged in member
+This cookie stores the member id of the currently logged in member.
 
   
 **ips4\_login\_key**
@@ -84,12 +84,17 @@ This cookie stores the cookie consent opt-in status for guests.
   
 **ips4\_guestTermsDismissed**
 
-This cookie is used to identify when the guest terms & conditions bar has been dismissed
+This cookie is used to identify when the guest terms & conditions bar has been dismissed.
 
   
 **ips4\_language**
 
-This cookie is used by guests to store the language preference
+This cookie is used by guests to store the language preference.
+
+  
+**ips4\_codeVerifier**
+
+This cookie is used to temporarily store a security related value for some login methods.
 
   
 **ips4\_forumpass\_\***
@@ -118,7 +123,7 @@ This cookie stores a transaction key for a guest member, it is used to identify 
 
   
 
-### Optional Cookies[](https://forums.grieving.com/index.php?app=core&module=system&controller=cookies&do=cookieConsentToggle&ref=aHR0cHM6Ly9mb3J1bXMuZ3JpZXZpbmcuY29tL2Nvb2tpZXMv&status=1&csrfKey=3db520b71d0ddfa03ec17177400fc93a)
+### Optional Cookies[](https://forums.grieving.com/index.php?app=core&module=system&controller=cookies&do=cookieConsentToggle&ref=aHR0cHM6Ly9mb3J1bXMuZ3JpZXZpbmcuY29tL2Nvb2tpZXMv&status=1&csrfKey=bf8fdd03aac8d43b28b3392d386619af)
 
 These cookies are not required, but can be enabled to enhance your browsing experience.
 
