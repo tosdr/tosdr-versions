@@ -83,6 +83,9 @@
 * [Georgia](https://www.louderwithcrowder.com/Georgia/)
 * [Arizona](https://www.louderwithcrowder.com/Arizona/)
 * [Pennsylvania](https://www.louderwithcrowder.com/Pennsylvania/)
+* [Kamala Harris](https://www.louderwithcrowder.com/Kamala-Harris/)
+* [JD Vance](https://www.louderwithcrowder.com/JD-Vance/)
+* [Tim Walz](https://www.louderwithcrowder.com/Tim-Walz/)
 
 * [Log in](https://www.louderwithcrowder.com/login "Log in")
 
