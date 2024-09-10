@@ -1,20 +1,21 @@
 [Skip to main content](#main-content)
 
-* [For meGo to "itsme® for me"](https://www.itsme.be/en-GB)
+* [For meGo to "itsme® for me"](https://www.itsme.be/en-BE)
 * [For my businessGo to "itsme® for my business"](https://www.itsme.be/en-BE/business)
 
-![](/flags/gb.svg)English
+![](/flags/be.svg)English
 
 My account
 
-[](https://www.itsme.be/en-GB)
+[](https://www.itsme.be/en-BE)
 
-* [Home](https://www.itsme.be/en-GB)
+* [Home](https://www.itsme.be/en-BE)
 * Why itsme®
     
 * Get started
     
-* [Need help?](https://www.itsme.be/en-GB/help)
+* [Where to use?](https://www.itsme.be/en-BE/partners)
+* [Need help?](https://www.itsme.be/en-BE/help)
 
 Privacy Policy
 ==============
@@ -80,31 +81,33 @@ Note that the data that we collected for the use of the App will not be used by 
 About itsme®
 ------------
 
-* [Why itsme®?](https://www.itsme.be/en-GB/why-itsme)
-* [Getting started with itsme®](https://www.itsme.be/en-GB/get-started/nfc)
-* [Partners](https://www.itsme.be/en-GB/partners)
-* [Blog](https://www.itsme.be/en-GB/blog)
+* [Why itsme®?](https://www.itsme.be/en-BE/why-itsme)
+* [Getting started with itsme®](https://www.itsme.be/en-BE/get-started/eid)
+* [Partners](https://www.itsme.be/en-BE/partners)
+* [Blog](https://www.itsme.be/en-BE/blog)
 
 #### My itsme® account
 
-* [Activate your itsme®](https://www.itsme-id.com/en-LU/get-started/nfc)
-* [Block your itsme®](https://my.itsme-id.com/account/block?lng=en_LU)
+* [Activate your itsme® with eID](https://my.itsme-id.com/account/activate?lng=en_BE)
+* [Block your itsme®](https://my.itsme-id.com/account/block?lng=en_BE)
+* [Update your itsme® with eID](https://my.itsme-id.com/account/update?lng=en_BE)
 
 More info
 ---------
 
-* [itsme® for my business](https://www.itsme.be/en-BE/business)
 * [Press](https://brand.belgianmobileid.be/d/YShKZtiEUmGM)
+* [Career](https://www.itsme-id.com/en-BE/business/career)
 
 Legal info
 ----------
 
-* [Terms of use](https://www.itsme.be/en-GB/legal/terms-of-use)
-* [Privacy Policy](https://www.itsme.be/en-GB/legal/privacy-statement)
-* [web - Cookie Policy](https://www.itsme.be/en-GB/legal/cookie-policy)
-* [sign - Document Repository](https://www.itsme.be/en-GB/legal/document-repository)
+* [Terms of use](https://www.itsme.be/en-BE/legal/terms-of-use)
+* [Privacy policy](https://www.itsme.be/en-BE/legal/privacy-statement)
+* [Cookie policy](https://www.itsme.be/en-BE/legal/cookie-policy)
+* [sign - Document Repository](https://www.itsme.be/en-BE/legal/document-repository)
+* Manage privacy preferences
 
-[](https://www.itsme.be/en-GB)
+[](https://www.itsme.be/en-BE)
 
 #### Follow itsme® on
 
