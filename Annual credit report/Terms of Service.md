@@ -46,7 +46,7 @@ Back
 * [Frequently asked questions](https://www.annualcreditreport.com/generalQuestions.action)
 * [Contact us](https://www.annualcreditreport.com/contactUs.action)
 
- ![covid-19 exclamation point](/resources/static/images/warning.png) **Free weekly online credit reports are available from Equifax, Experian and TransUnion. Credit reports play an important role in your financial life and we encourage you to regularly check your credit history.** [Request your free credit reports](https://www.annualcreditreport.com/requestReport/landingPage.action)
+ ![](/resources/static/images/warning.png) **Free weekly online credit reports are available from Equifax, Experian and TransUnion. Credit reports play an important role in your financial life and we encourage you to regularly check your credit history.** [Request your free credit reports](https://www.annualcreditreport.com/requestReport/landingPage.action)
 
 Contact us
 ----------
@@ -70,15 +70,15 @@ Terms of use
 
 When you use any page on this site except the home page, you accept the following policies on site use:
 
-By looking at or using the website, you agree that you have read and understand these policies and that you will follow all laws and regulations that apply to using this site of both the United States and the country from where you are accessing this website. You also promise that the information you provide is accurate and complete. You authorize us (Central Source LLC) to send your information to whichever nationwide credit reporting companies you want a credit report from. We may change or update these policies at any time. Please check this page each time you visit this website for the most current policies.
+By looking at or using the website, you agree that you have read and understand these policies and that you will follow all laws and regulations that apply to using this site. You also promise that the information you provide is accurate and complete. You authorize us (Central Source LLC) to send your information to whichever nationwide credit reporting companies you want a credit report from. We may change or update these policies at any time. Please check this page each time you visit this website for the most current policies.
 
 * [Previous(disabled)](https://www.annualcreditreport.com/privacy.action)
 * Next
 
 * [About this site](https://www.annualcreditreport.com/aboutThisSite.action)
 * [Accessibility](https://www.annualcreditreport.com/accessibility.action)
-* [U.S. Privacy](https://www.annualcreditreport.com/privacy.action)
-* [U.S. Security](https://www.annualcreditreport.com/security.action)
+* [Privacy](https://www.annualcreditreport.com/privacy.action)
+* [Security](https://www.annualcreditreport.com/security.action)
 * [Terms of use](https://www.annualcreditreport.com/termsOfUse.action)
 
 Copyright © 2024 Central Source, LLC
