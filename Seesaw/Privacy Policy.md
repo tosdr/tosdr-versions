@@ -11,9 +11,7 @@
 * [Request a Demo](https://page.seesaw.me/request-quote.html?utm_source=webnav&utm_medium=request-info-button)
 * [Log In](https://app.seesaw.me/#/login)
 
-[![Seesaw | Elementary Learning Experience Platform](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201208%20303'%3E%3C/svg%3E "Seesaw | Elementary Learning Experience Platform")
-
-![Seesaw | Elementary Learning Experience Platform](https://seesaw.com/wp-content/uploads/2024/01/seesaw-logo.svg "Seesaw | Elementary Learning Experience Platform")](https://seesaw.com/)
+[![Seesaw | Elementary Learning Experience Platform](https://seesaw.com/wp-content/uploads/2024/01/seesaw-logo.svg "Seesaw | Elementary Learning Experience Platform")](https://seesaw.com/)
 
 * [Product](#)
     * ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20590%20379'%3E%3C/svg%3E)
@@ -48,14 +46,14 @@
         * [Awards](https://seesaw.com/awards/)
         * [Evidence](https://seesaw.com/evidence/)
     * [Success Stories](#)
-        * [Teachers](https://seesaw.com/seesaw-success/)
+        * [Educators](https://seesaw.com/seesaw-success/)
         * [Impact](https://seesaw.com/impact/)
 * [Community & Support](#)
     * [Teacher Connections](#)
         * [Professionals Community](https://seesaw.com/professionals-community/)
         * [Teacher Scrapbook](https://seesaw.com/seesaw-success/)
         * [Community Library](https://app.seesaw.me/activities)
-        * [The Learning Loop Podcast](https://seesaw.com/the-learning-loop-podcast/)
+        * [The Learning Loop Podcast](https://seesaw.com/podcast/)
     * [Professional Learning](#)
         * [Professional Development](https://seesaw.com/professional-development/)
         * [Learning Hub](https://learn.seesaw.me/)
@@ -79,7 +77,7 @@
     * [Teachers](#)
         * [Try Free!](https://app.seesaw.me/#/login?role=teacher&signup=true)
     * [Schools & Districts](#)
-        * [Tiers/Packages](https://seesaw.com/pricing/)
+        * [Pricing/Packages](https://seesaw.com/pricing-packages/)
         * [Funding Sources](https://seesaw.com/funding-alignment/)
         * [Request Information](https://page.seesaw.me/request-quote.html)
 * [Search](#)
@@ -88,9 +86,7 @@
     * [Administrator](https://web.seesaw.me/contact-us/#admins)
     * [Families](https://web.seesaw.me/contact-us/#parents)
 
-[![Seesaw | Elementary Learning Experience Platform](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201208%20303'%3E%3C/svg%3E "Seesaw | Elementary Learning Experience Platform")
-
-![Seesaw | Elementary Learning Experience Platform](https://seesaw.com/wp-content/uploads/2024/01/seesaw-logo.svg "Seesaw | Elementary Learning Experience Platform")](https://seesaw.com/)
+[![Seesaw | Elementary Learning Experience Platform](https://seesaw.com/wp-content/uploads/2024/01/seesaw-logo.svg "Seesaw | Elementary Learning Experience Platform")](https://seesaw.com/)
 
 * [Product](#)
     * [Why Seesaw?](#)
@@ -119,13 +115,13 @@
         * [Awards](https://seesaw.com/awards/)
         * [Evidence](https://seesaw.com/evidence/)
     * [Success Stories](#)
-        * [Teachers](https://seesaw.com/seesaw-success/)
+        * [Educators](https://seesaw.com/seesaw-success/)
 * [Community & Support](#)
     * [Teacher Connections](#)
         * [Professionals Community](https://seesaw.com/professionals-community/)
         * [Teacher Scrapbook](https://seesaw.com/seesaw-success/)
         * [Community Library](https://app.seesaw.me/activities)
-        * [The Learning Loop Podcast](https://seesaw.com/the-learning-loop-podcast/)
+        * [The Learning Loop Podcast](https://seesaw.com/podcast/)
     * [Professional Learning](#)
         * [Learning Hub](https://learn.seesaw.me/)
         * [Webinars](https://live.seesaw.me/communities/seesaw/conferences)
@@ -141,7 +137,7 @@
     * [Teachers](#)
         * [Try Free!](https://app.seesaw.me/#/login?role=teacher&signup=true)
     * [Schools & Districts](#)
-        * [Tiers/Packages](https://seesaw.com/pricing/)
+        * [Pricing/Packages](https://seesaw.com/pricing-packages/)
         * [Funding Sources](https://seesaw.com/funding-alignment/)
         * [Request Information](https://page.seesaw.me/request-quote.html)
 * [I am a…](#)
@@ -194,6 +190,7 @@ Seesaw
 
 * [Contact](https://seesaw.com/contact-us/)
 * [Careers](https://boards.greenhouse.io/seesaw)
+* [Partnerships](https://seesaw.com/partnerships/)
 
 Tech Resources
 
