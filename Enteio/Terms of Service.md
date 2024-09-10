@@ -11,7 +11,7 @@ Terms and Conditions
 
 **TERMS AND CONDITIONS**
 
-Last Updated: May 12, 2024
+Last Updated: August 26, 2024
 
 These Terms and Conditions ("Agreement", or "Terms") are a legally binding agreement between Ente Technologies, Inc. ("Ente," "we," "us," "our") and
 
@@ -69,7 +69,7 @@ a) **For Visitors**: Access to our websites or apps is currently provided at no 
 
 b) **For Subscribers**:
 
-(i) Free Plan: Subscribers can register to use our Services on a trial basis as per the terms of these Terms ("Free Plan"). Upon Registration, Subscribers will automatically be allowed to use the Free Plan, the storage limit and duration of which are available at [https://ente.io/#pricing](https://ente.io/#pricing) ("Free Storage"). Upon the expiry of the Free Plan, the Subscriber's Data and Files will be deleted in accordance with these Terms. **If Subscribers cancel a Paid Plan Subscription, they shall no longer be entitled to a Free Plan.**
+(i) Free Plan: Subscribers can register to use our Services on a trial basis as per the terms of these Terms ("Free Plan"). Upon Registration, Subscribers will automatically be allowed to use the Free Plan, the storage limit and duration of which are available at [https://ente.io/#pricing](https://ente.io/#pricing) ("Free Storage"). **If Subscribers cancel a Paid Plan Subscription, they shall no longer be entitled to a Free Plan.**
 
 (ii) Paid Plans: Ente offers monthly and yearly paid Subscription plans ("Paid Plans"). Each Paid Plan allows a certain usage/storage limit, that is the amount of Files and Data Subscribers may upload and store on our Platform ("Storage Limit"). These Paid Plans, their Storage Limits and, corresponding fees ("Fees") may be found at [https://ente.io/#pricing](https://ente.io/#pricing). Subscribers may opt to subscribe to a Paid Plan at the time of Registration or at any time during the Free Plan ("Purchase" or "Paid Subscription"). Subscribers may increase their Storage Limit at any time during the duration of their ongoing Paid Plan by updating to a different Paid Plan and consenting to the such different Paid Plan's payment terms and Storage Limits. In the event that we modify the Paid Plans and their respective fees ("Fees") in the future, we will update that on the aforementioned link.
 
@@ -87,7 +87,7 @@ a) **For Visitors**: We reserve the right to cease providing Visitors with acces
 
 b) **For Subscribers**:
 
-(i) Termination by us: We reserve the right to suspend or terminate a Subscriber's Account for any reason, including, but not limited to, if we reasonably believe: (a) they have violated this Agreement or our [Privacy Policy](https://ente.io/privacy), (b) they create risk or possible legal exposure for Ente; or (c) the provision of our Services to them is no longer commercially viable. In all such cases, this Agreement shall terminate, including, without limitation, Subscriber's license to use our Services.
+(i) Termination by us: We reserve the right to suspend or terminate a Subscriber's Account and their license to use our Services for any reason, including, but not limited to, if we reasonably believe: (a) they have violated this Agreement or our [Privacy Policy](https://ente.io/privacy), (b) they create risk or possible legal exposure for Ente; (c) the provision of our Services to them is no longer commercially viable; (d) they are using a free account, without an active paid subscription, that has been inactive for a consecutive period of 12 months. In case of inactivity, notices will be sent 30, 15, and 7 days in advance to the email address associated with the free account. To keep a free account active, a subscriber must log in or use one of our services (e.g., by viewing a photo or code) at least once every 12 months. If you face circumstances preventing activity, contact [Customer Support](mailto:support@ente.io) to avoid account deletion.
 
 (ii) Cancellation and Termination by Subscribers: Subscribers can cancel their Subscription ("Cancellation") at any time by (i) cancelling directly through the relevant app store account; or (iii) selecting the option to cancel Subscription on the Subscriber's Account page. Subscribers can terminate their Account and thereby our Services by (i) writing an email to [account-deletion@ente.io](mailto:account-deletion@ente.io) ("Termination"). Any payments processed after an effective Cancellation or Termination will be promptly refunded by us.
 
@@ -334,7 +334,7 @@ This Agreement along with our [Privacy Policy](https://ente.io/privacy) constitu
 
 Ente is a beautiful, private cloud for your memories, with apps for mobile, desktop and web.
 
-[X (formerly Twitter)](https://twitter.com/enteio "X (formerly Twitter)")[Discord](https://discord.gg/z2YVKkycX3 "Discord")[Reddit](https://reddit.com/r/enteio "Reddit")[Instagram](https://instagram.com/ente.app "Instagram")[Email](mailto:contact@ente.io "Email")[Mastodon](https://mstdn.social/@ente "Mastodon")[Matrix](https://matrix.to/#/#ente:matrix.org "Matrix")[LinkedIn](https://www.linkedin.com/company/ente-io "LinkedIn")[GitHub](https://github.com/ente-io "GitHub")[RSS](https://ente.io/blog/rss.xml "RSS")
+[X (formerly Twitter)](https://twitter.com/enteio "X (formerly Twitter)")[Discord](https://discord.gg/z2YVKkycX3 "Discord")[Reddit](https://reddit.com/r/enteio "Reddit")[Instagram](https://instagram.com/ente.app "Instagram")[Email](mailto:contact@ente.io "Email")[Mastodon](https://fosstodon.org/@ente "Mastodon")[Matrix](https://matrix.to/#/#ente:matrix.org "Matrix")[LinkedIn](https://www.linkedin.com/company/ente-io "LinkedIn")[GitHub](https://github.com/ente-io "GitHub")[RSS](https://ente.io/rss.xml "RSS")
 
 **Open Source**[Mobile](https://github.com/ente-io/ente/tree/main/mobile#readme)[Web](https://github.com/ente-io/ente/tree/main/web#readme)[Desktop](https://github.com/ente-io/ente/tree/main/desktop#readme)[CLI](https://github.com/ente-io/ente/tree/main/cli#readme)
 
