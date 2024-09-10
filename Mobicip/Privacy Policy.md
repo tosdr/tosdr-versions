@@ -1,3 +1,9 @@
+[Back to School SALE **10% OFF** on Premium purchase
+
+Start Free Trial
+
+Hurry up! Ends 9/15](https://www.mobicip.com/pricing)
+
 [](https://www.mobicip.com/ "Mobicip")
 
 * Features
