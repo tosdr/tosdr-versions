@@ -175,9 +175,9 @@
 
 [Contact sales](https://www.sanity.io/contact/sales?ref=navbar)[Get started](https://www.sanity.io/get-started?ref=navbar)
 
-Last updated November 22, 2023
+Last updated August 28, 2024
 
-[Download PDF](https://cdn.sanity.io/files/3do82whm/next/73f761091602d9d8271615bb9a916ca57e3dd56d.pdf)
+[Download PDF](https://cdn.sanity.io/files/3do82whm/next/59020715eb9a46bbbb28aa1bb0f427a3845c8860.pdf)
 
 Privacy Policy
 ==============
@@ -320,9 +320,7 @@ Data may in certain cases remain in the systems of our subprocessor Google Cloud
 
 **2.5 Location of your data**
 
-Sanity is based in Norway and will primarily access your data from our regular place of business in Norway. Your personal data will be stored on servers within the EU/EEA hosted by our subprocessor Google Cloud Platform - primarily in data centers in St. Ghislain, Belgium, but also at other Google data centers throughout the EU. Your data may be stored transiently or cached in any country in which Google or its agents maintain facilities.
-
-Customer-controlled data is always permanently stored within the EU.
+Sanity relies on the Google Cloud Platform as a subprocessor to store collected Personal Data and your uploaded content. Personal data is stored in our EU datacenter. Uploaded content will be stored in the EU/EEA, the US, or in regions where Sanity has an operational footprint, specific by customer. For serving purposes, data may be stored transiently or cached in any country in which Google Cloud or its agents maintain facilities.
 
 **2.6 California Residents**
 
