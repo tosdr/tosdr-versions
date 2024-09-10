@@ -25,7 +25,7 @@
 
 * [Unternehmen](https://www.manitu.de/unternehmen/) [Unternehmen](https://www.manitu.de/unternehmen/)
     
-    Unternehmen [Über uns](https://www.manitu.de/unternehmen/ueber-uns/ "Über uns") [26 Jahre manitu](https://www.manitu.de/unternehmen/26-jahre-manitu/ "26 Jahre manitu") [Rechenzentrum](https://www.manitu.de/unternehmen/rechenzentrum/ "Rechenzentrum") [Ökologie & Klimaschutz](https://www.manitu.de/unternehmen/oekologie-und-klimaschutz/ "Ökologie & Klimaschutz") [Soziale Verantwortung](https://www.manitu.de/unternehmen/soziale-verantwortung/ "Soziale Verantwortung") [Vorratsdatenspeicherung & Zensur](https://www.manitu.de/unternehmen/vorratsdatenspeicherung-und-zensur/ "Vorratsdatenspeicherung & Zensur")
+    Unternehmen [Über uns](https://www.manitu.de/unternehmen/ueber-uns/ "Über uns") [27 Jahre manitu](https://www.manitu.de/unternehmen/27-jahre-manitu/ "27 Jahre manitu") [Rechenzentrum](https://www.manitu.de/unternehmen/rechenzentrum/ "Rechenzentrum") [Ökologie & Klimaschutz](https://www.manitu.de/unternehmen/oekologie-und-klimaschutz/ "Ökologie & Klimaschutz") [Soziale Verantwortung](https://www.manitu.de/unternehmen/soziale-verantwortung/ "Soziale Verantwortung") [Vorratsdatenspeicherung & Zensur](https://www.manitu.de/unternehmen/vorratsdatenspeicherung-und-zensur/ "Vorratsdatenspeicherung & Zensur")
     
     [Auszeichnungen](https://www.manitu.de/unternehmen/auszeichnungen/ "Auszeichnungen") [Kunden-Meinungen](https://www.manitu.de/unternehmen/erfahrungen-mit-manitu/ "Kunden-Meinungen") [Referenzen](https://www.manitu.de/unternehmen/referenzen/ "Referenzen") [Partner & Mitgliedschaften](https://www.manitu.de/unternehmen/partner/ "Partner & Mitgliedschaften")
     
