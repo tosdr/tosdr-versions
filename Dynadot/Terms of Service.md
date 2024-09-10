@@ -2,7 +2,7 @@
 
 ![](https://www.facebook.com/tr?id=1013298092648180&ev=PageView&noscript=1)
 
-[Last chance to save ➡️ secure $3.88 renewals and transfers on .LINK domains until 7/31/2024!](https://www.dynadot.com/domain/transfer?utm_source=Promobar&utm_campaign=LINK%20Promobar%20July%202024&utm_medium=link%20transfer&drefid=4554)
+[We've recently launched .IT.COM for anyone in the Information Technology sector! Now on sale for $11.49 🚀](https://www.dynadot.com/domain/it.com?utm_source=Promobar&utm_campaign=IT%20COM%20Promobar%20Sept%202024&utm_medium=it%20com&drefid=4595)
 
 [](https://www.dynadot.com/)
 
@@ -10,11 +10,11 @@
 * Aftermarket  
 * Support  
 
-* [EN - GBP (£)](javascript:;)  
+* [EN - USD ($)](javascript:;)  
     
     EN Español 中文 العربية Deutsch Português Français Русский हिन्दी Italiano 日本語 한국어 Indonesia Српски
     
-    GBP (£) US Dollar USD ($) Euro EUR (€) 人民币 CNY (¥) Canadian Dollar CAD (C$) Pesos Mexicanos MXN (MX$) British Pound GBP (£) Real Brasileiro BRL (R$) Indian Rupee INR (Rs.) Indonesian Rupiah IDR (Rp) Australian Dollar AUD (AU$)
+    USD ($) US Dollar USD ($) Euro EUR (€) 人民币 CNY (¥) Canadian Dollar CAD (C$) Pesos Mexicanos MXN (MX$) British Pound GBP (£) Real Brasileiro BRL (R$) Indian Rupee INR (Rs.) Indonesian Rupiah IDR (Rp) Australian Dollar AUD (AU$)
     
 * [Login](https://www.dynadot.com/account/sign-in)
 * [](https://www.dynadot.com/order/cart)
@@ -113,7 +113,7 @@ Help Center
 
 Resources
 
-[Blog](https://www.dynadot.com/community/blog)
+[Blog](https://www.dynadot.com/blog)
 
 [Help Files](https://www.dynadot.com/community/help)
 
@@ -149,14 +149,14 @@ EN
 * [Indonesia](https://www.dynadot.com/id/terms-of-use)
 * [Српски](https://www.dynadot.com/sr/terms-of-use)
 
-GBP (£)
+USD ($)
 
-* [US Dollar USD ($)](https://www.dynadot.com/change_currency.html?chg_currency=USD&pg=%2Fterms-of-use)
+* [US Dollar USD ($)](https://www.dynadot.com/terms-of-use)
 * [Euro EUR (€)](https://www.dynadot.com/change_currency.html?chg_currency=EUR&pg=%2Fterms-of-use)
 * [人民币 CNY (¥)](https://www.dynadot.com/change_currency.html?chg_currency=CNY&pg=%2Fterms-of-use)
 * [Canadian Dollar CAD (C$)](https://www.dynadot.com/change_currency.html?chg_currency=CAD&pg=%2Fterms-of-use)
 * [Pesos Mexicanos MXN (MX$)](https://www.dynadot.com/change_currency.html?chg_currency=MXN&pg=%2Fterms-of-use)
-* [British Pound GBP (£)](https://www.dynadot.com/terms-of-use)
+* [British Pound GBP (£)](https://www.dynadot.com/change_currency.html?chg_currency=GBP&pg=%2Fterms-of-use)
 * [Real Brasileiro BRL (R$)](https://www.dynadot.com/change_currency.html?chg_currency=BRL&pg=%2Fterms-of-use)
 * [Indian Rupee INR (Rs.)](https://www.dynadot.com/change_currency.html?chg_currency=INR&pg=%2Fterms-of-use)
 * [Indonesian Rupiah IDR (Rp)](https://www.dynadot.com/change_currency.html?chg_currency=IDR&pg=%2Fterms-of-use)
@@ -262,7 +262,7 @@ Chat: Online
 
 Resources
 
-[Blog](https://www.dynadot.com/community/blog)
+[Blog](https://www.dynadot.com/blog)
 
 [Help Files](https://www.dynadot.com/community/help)
 
@@ -270,7 +270,7 @@ Resources
 
 [Introduction to Domains](https://www.dynadot.com/domain/beginners-guide)
 
-#### Choose Avatar
+Choose Avatar
 
   Upload Image
 
@@ -2113,14 +2113,14 @@ EN  
 * [Indonesia](https://www.dynadot.com/id/terms-of-use)
 * [Српски](https://www.dynadot.com/sr/terms-of-use)
 
-GBP (£)  
+USD ($)  
 
-* [US Dollar USD ($)](https://www.dynadot.com/change_currency.html?chg_currency=USD&pg=%2Fterms-of-use)
+* [US Dollar USD ($)](https://www.dynadot.com/terms-of-use)
 * [Euro EUR (€)](https://www.dynadot.com/change_currency.html?chg_currency=EUR&pg=%2Fterms-of-use)
 * [人民币 CNY (¥)](https://www.dynadot.com/change_currency.html?chg_currency=CNY&pg=%2Fterms-of-use)
 * [Canadian Dollar CAD (C$)](https://www.dynadot.com/change_currency.html?chg_currency=CAD&pg=%2Fterms-of-use)
 * [Pesos Mexicanos MXN (MX$)](https://www.dynadot.com/change_currency.html?chg_currency=MXN&pg=%2Fterms-of-use)
-* [British Pound GBP (£)](https://www.dynadot.com/terms-of-use)
+* [British Pound GBP (£)](https://www.dynadot.com/change_currency.html?chg_currency=GBP&pg=%2Fterms-of-use)
 * [Real Brasileiro BRL (R$)](https://www.dynadot.com/change_currency.html?chg_currency=BRL&pg=%2Fterms-of-use)
 * [Indian Rupee INR (Rs.)](https://www.dynadot.com/change_currency.html?chg_currency=INR&pg=%2Fterms-of-use)
 * [Indonesian Rupiah IDR (Rp)](https://www.dynadot.com/change_currency.html?chg_currency=IDR&pg=%2Fterms-of-use)
@@ -2186,7 +2186,7 @@ Aftermarket
 
 Support
 
-[Blog](https://www.dynadot.com/community/blog)
+[Blog](https://www.dynadot.com/blog)
 
 [Help Files](https://www.dynadot.com/community/help)
 
@@ -2246,14 +2246,14 @@ EN  
 * [Indonesia](https://www.dynadot.com/id/terms-of-use)
 * [Српски](https://www.dynadot.com/sr/terms-of-use)
 
-GBP (£)  
+USD ($)  
 
-* [US Dollar USD ($)](https://www.dynadot.com/change_currency.html?chg_currency=USD&pg=%2Fterms-of-use)
+* [US Dollar USD ($)](https://www.dynadot.com/terms-of-use)
 * [Euro EUR (€)](https://www.dynadot.com/change_currency.html?chg_currency=EUR&pg=%2Fterms-of-use)
 * [人民币 CNY (¥)](https://www.dynadot.com/change_currency.html?chg_currency=CNY&pg=%2Fterms-of-use)
 * [Canadian Dollar CAD (C$)](https://www.dynadot.com/change_currency.html?chg_currency=CAD&pg=%2Fterms-of-use)
 * [Pesos Mexicanos MXN (MX$)](https://www.dynadot.com/change_currency.html?chg_currency=MXN&pg=%2Fterms-of-use)
-* [British Pound GBP (£)](https://www.dynadot.com/terms-of-use)
+* [British Pound GBP (£)](https://www.dynadot.com/change_currency.html?chg_currency=GBP&pg=%2Fterms-of-use)
 * [Real Brasileiro BRL (R$)](https://www.dynadot.com/change_currency.html?chg_currency=BRL&pg=%2Fterms-of-use)
 * [Indian Rupee INR (Rs.)](https://www.dynadot.com/change_currency.html?chg_currency=INR&pg=%2Fterms-of-use)
 * [Indonesian Rupiah IDR (Rp)](https://www.dynadot.com/change_currency.html?chg_currency=IDR&pg=%2Fterms-of-use)
@@ -2337,7 +2337,7 @@ Aftermarket
 
 Support
 
-[Blog](https://www.dynadot.com/community/blog)
+[Blog](https://www.dynadot.com/blog)
 
 [Help Files](https://www.dynadot.com/community/help)
 
