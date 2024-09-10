@@ -50,7 +50,7 @@ Pay so everyone can.
 * [Follow](https://www.linkedin.com/in/michaelwestjournalist/ "Follow on LinkedIn")
 * [Follow](https://www.youtube.com/channel/UCa3kU1spOTWHDmCxterTqIg "Follow on Youtube")
 * [Follow](https://www.tiktok.com/@michaelwestmedia? "Follow on TikTok")
-* [Follow](https://www.instagram.com/Michaelwestjourno/ "Follow on Instagram")
+* [Follow](https://www.instagram.com/thewestreport/ "Follow on Instagram")
 * [Follow](https://michaelwest.com.au/category/latest-posts/feed/ "Follow on RSS")
 
 * [Follow](https://www.facebook.com/michaelwest.journo "Follow on Facebook")
@@ -58,7 +58,7 @@ Pay so everyone can.
 * [Follow](https://www.linkedin.com/in/michaelwestjournalist/ "Follow on LinkedIn")
 * [Follow](https://www.youtube.com/channel/UCa3kU1spOTWHDmCxterTqIg "Follow on Youtube")
 * [Follow](https://www.tiktok.com/@michaelwestmedia? "Follow on TikTok")
-* [Follow](https://www.instagram.com/Michaelwestjourno/ "Follow on Instagram")
+* [Follow](https://www.instagram.com/thewestreport/ "Follow on Instagram")
 
 [BECOME A SUPPORTER](https://www.michaelwest.com.au/support-us/)
 
@@ -103,7 +103,7 @@ Pay so everyone can.
 * [Follow](https://www.linkedin.com/in/michaelwestjournalist/ "Follow on LinkedIn")
 * [Follow](https://www.youtube.com/channel/UCa3kU1spOTWHDmCxterTqIg "Follow on Youtube")
 * [Follow](https://www.tiktok.com/@michaelwestmedia? "Follow on TikTok")
-* [Follow](https://www.instagram.com/Michaelwestjourno/ "Follow on Instagram")
+* [Follow](https://www.instagram.com/thewestreport/ "Follow on Instagram")
 * [Follow](https://michaelwest.com.au/category/latest-posts/feed/ "Follow on RSS")
 
 * [Follow](https://www.facebook.com/michaelwest.journo "Follow on Facebook")
@@ -111,7 +111,7 @@ Pay so everyone can.
 * [Follow](https://www.linkedin.com/in/michaelwestjournalist/ "Follow on LinkedIn")
 * [Follow](https://www.youtube.com/channel/UCa3kU1spOTWHDmCxterTqIg "Follow on Youtube")
 * [Follow](https://www.tiktok.com/@michaelwestmedia? "Follow on TikTok")
-* [Follow](https://www.instagram.com/Michaelwestjourno/ "Follow on Instagram")
+* [Follow](https://www.instagram.com/thewestreport/ "Follow on Instagram")
 
 [BECOME A SUPPORTER](https://www.michaelwest.com.au/support-us/)
 
@@ -201,7 +201,7 @@ Or in writing to Michel West Media, 23 Belgrave St, Manly NSW 2095.
 * [Follow](https://www.linkedin.com/in/michaelwestjournalist/ "Follow on LinkedIn")
 * [Follow](https://www.youtube.com/channel/UCa3kU1spOTWHDmCxterTqIg "Follow on Youtube")
 * [Follow](https://www.tiktok.com/@michaelwestmedia? "Follow on TikTok")
-* [Follow](https://www.instagram.com/Michaelwestjourno/ "Follow on Instagram")
+* [Follow](https://www.instagram.com/thewestreport/ "Follow on Instagram")
 * [Follow](https://michaelwest.com.au/category/latest-posts/feed/ "Follow on RSS")
 
 This website is dedicated to the public interest. Our focus is investigations into big business, particularly multinational tax avoidance, banking and the energy sector.
