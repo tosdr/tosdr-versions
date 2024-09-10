@@ -169,7 +169,7 @@ Get the next-generation of ethical VPN technology. A decentralized VPN is powere
 
 Platforms
 
-[VPN for Android](https://www.mysteriumvpn.com/vpn-for-android)[VPN for iPhone](https://www.mysteriumvpn.com/vpn-ios)[VPN for Mac](https://www.mysteriumvpn.com/vpn-for-mac)[VPN for Windows](https://www.mysteriumvpn.com/mysterium-vpn-for-windows)
+[VPN for Android](https://www.mysteriumvpn.com/vpn-for-android)[VPN for iPhone](https://www.mysteriumvpn.com/vpn-ios)[VPN for Mac](https://www.mysteriumvpn.com/vpn-for-mac)[VPN for Windows](https://www.mysteriumvpn.com/mysterium-vpn-for-windows)[VPN for Chrome](https://www.mysteriumvpn.com/vpn-for-chrome)
 
 VPN for everyone
 
