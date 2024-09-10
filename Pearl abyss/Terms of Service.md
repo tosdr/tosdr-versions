@@ -11,17 +11,6 @@ My Page
 
 [Log in](https://account.pearlabyss.com/en-US/Member/Login) [Create Account](https://account.pearlabyss.com/en-US/Member/Join)
 
-* Games
-    
-    * [_Black Desert_ new](https://www.naeu.playblackdesert.com/)
-    * [_Black Desert Mobile_ new](https://www.world.blackdesertm.com/)
-    * [_Crimson Desert_ new](https://crimsondesert.pearlabyss.com/en-US)
-    * [_DokeV_ new](https://dokev.pearlabyss.com/en/Main/Index)
-    * [_Plan 8_ new](https://plan8.pearlabyss.com/en/Main/Index)
-    
-* [News](https://www.pearlabyss.com/en-US/Board/Report)
-* [Store](https://pearlabyss.gururang.com/en)
-
 © Pearl Abyss Corp. All Rights Reserved.
 
 Pearl Abyss Terms of Service Privacy Policy How to Delete the Data Provided at Sign Up Youth Protection Policy Black Desert Terms of Service Operational Policy Event Rules Fan Content Guidelines DokeV, PLAN 8 Privacy Policy Changes
