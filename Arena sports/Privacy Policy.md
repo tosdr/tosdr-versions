@@ -17,7 +17,6 @@ Questions? Call [(206) 590-3278](tel:2065903278)
     * [Satellite Location](https://www.arenasports.net/satellite-locations/)
 * [Leagues](https://www.arenasports.net/leagues/)
     * [Adult Indoor](https://www.arenasports.net/adult-leagues/)
-    * [Adult 4v4 Outdoor Issaquah](https://www.arenasports.net/issaquah/adult-outdoor-leagues/)
     * [Youth (5-18 yrs)](https://www.arenasports.net/youth-leagues/)
     * [Drop-In (16+ yrs)](https://www.arenasports.net/adult-leagues/#drop_in)
     * [Tournaments](https://www.arenasports.net/soccer-tournaments/)
@@ -285,6 +284,6 @@ This form needs Javascript to display, which your browser doesn't support. [Sign
 
 [Page load link](#)
 
-                 
+              
 
 [Go to Top](#)
