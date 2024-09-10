@@ -11,7 +11,7 @@ DreamBox Reading Plus is now Part of Discovery Education!
 * [Get Support](https://www.readingplus.com/support/)
 * [Log In](https://login.readingplus.com/)
 
-Location GLOBAL
+Location NJ
 
 [Global](#) [Find My Location](#) [Alabama](#) [Alaska](#) [Arizona](#) [Arkansas](#) [California](#) [Colorado](#) [Connecticut](#) [Delaware](#) [District of Columbia](#) [Florida](#) [Georgia](#) [Hawaii](#) [Idaho](#) [Illinois](#) [Indiana](#) [Iowa](#) [Kansas](#) [Kentucky](#) [Louisiana](#) [Maine](#) [Maryland](#) [Massachusetts](#) [Michigan](#) [Minnesota](#) [Mississippi](#) [Missouri](#) [Montana](#) [Nebraska](#) [Nevada](#) [New Hampshire](#) [New Jersey](#) [New Mexico](#) [New York](#) [North Carolina](#) [North Dakota](#) [Ohio](#) [Oklahoma](#) [Oregon](#) [Pennsylvania](#) [Rhode Island](#) [South Carolina](#) [South Dakota](#) [Tennessee](#) [Texas](#) [Utah](#) [Vermont](#) [Virginia](#) [Washington](#) [West Virginia](#) [Wisconsin](#) [Wyoming](#)
 
@@ -20,7 +20,7 @@ Search Menu [Request a Demo](https://www.discoveryeducation.com/help/contact-us/
 * [Get Support](https://www.readingplus.com/support/)
 * [Log In](https://login.readingplus.com/)
 
-Location GLOBAL
+Location NJ
 
 [Global](#) [Find My Location](#) [Rhode Island](#) [North Carolina](#) [North Dakota](#) [Nebraska](#) [New Hampshire](#) [New Jersey](#) [Vermont](#) [New York](#) [New Mexico](#) [Nevada](#) [Ohio](#) [Oklahoma](#) [Oregon](#) [Pennsylvania](#) [Montana](#) [South Carolina](#) [South Dakota](#) [Tennessee](#) [Texas](#) [Utah](#) [Virginia](#) [Washington](#) [Wisconsin](#) [West Virginia](#) [Wyoming](#) [Idaho](#) [Alabama](#) [Arkansas](#) [Arizona](#) [California](#) [Colorado](#) [Connecticut](#) [District of Columbia](#) [Delaware](#) [Florida](#) [Georgia](#) [Hawaii](#) [Iowa](#) [Alaska](#) [Illinois](#) [Indiana](#) [Kansas](#) [Kentucky](#) [Louisiana](#) [Massachusetts](#) [Maryland](#) [Maine](#) [Michigan](#) [Minnesota](#) [Missouri](#) [Mississippi](#)
 
