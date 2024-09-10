@@ -348,25 +348,6 @@ SAVE & ACCEPT
 
 ![Loading...](https://mstechglobal.com/wp-content/plugins/supportcandy/asset/images/loader-white.gif)
 
-### MG Folder Icon Collection
-
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20187%20230'%3E%3C/svg%3E)
-
-![](https://mstechglobal.com/wp-content/uploads/2024/03/Ic.png.webp)
-
-**MG Folder Icon Pro v7.0**  
-\+ 141 Icon Packs, Icon Merges and Folder Mockups  
-**~$1403.65~** now $24.9
-
-[Buy Now](https://mstechglobal.com/wp-content/plugins/mstech_widget/includes/addToCart.php?product=13303&coupon=fip80yahoo&quantity=1&ref=1&campaign=popup)
-
-Or get Folder Icon Pro v7.0 for  
-**~$55.00~** now $16.5
-
-[Buy Now](https://mstechglobal.com/wp-content/plugins/mstech_widget/includes/addToCart.php?product=487&coupon=im23ya51hoo&quantity=1&ref=1&campaign=popup)
-
-×
-
 0
 
 0
@@ -377,7 +358,28 @@ Your cart is empty[Return to Shop](https://mstechglobal.com/shop/)
 
 [Continue Shopping](#)
 
-                                                                                        
+MG Folder Icon Collection
+-------------------------
+
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20187%20230'%3E%3C/svg%3E)
+
+![](https://mstechglobal.com/wp-content/uploads/2024/03/Ic.png.webp)
+
+**MG Folder Icon v7.0 + Complete Icon Collection Pack**
+
+(141 Icon Packs, Icon Merges and Folder Mockups)
+
+**~$1403.65~**   **Now $24.9**
+
+[Buy Now](https://mstechglobal.com/wp-content/plugins/mstech_widget/includes/addToCart.php?product=13303&coupon=fip80yahoo&quantity=1&ref=1&campaign=popup)
+
+**Or get Folder Icon Pro v7.0 for**
+
+**~$55.00~**   **Now $16.50**
+
+[Buy Now](https://mstechglobal.com/wp-content/plugins/mstech_widget/includes/addToCart.php?product=487&coupon=im23ya51hoo&quantity=1&ref=1&campaign=popup)
+
+                                                                                      
 
 Insert/edit link
 ================
