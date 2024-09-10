@@ -26,7 +26,7 @@ E-Mail: [info@hetzner.com](mailto:info@hetzner.com)
 
 Online Dispute Resolution in accordance with Art. 14, para 1 of the EU Online Dispute Resolution Regulations:
 
-The European Commission has established a platform for online dispute resolution (ODR). You can visit the platform at [http://ec.europa.eu/consumers/odr](http://ec.europa.eu/consumers/odr) . We are neither willing nor obligated to participate in a dispute resolution procedure before a consumer arbitration board.
+The European Commission has established a platform for online dispute resolution (ODR). You can visit the platform at [http://ec.europa.eu/consumers/odr](https://ec.europa.eu/consumers/odr) . We are neither willing nor obligated to participate in a dispute resolution procedure before a consumer arbitration board.
 
 Contact Point According to Regulation (EU) 2021/784 of the European Parliament and of the Council:
 
