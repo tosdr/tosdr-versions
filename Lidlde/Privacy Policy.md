@@ -1,6 +1,6 @@
    
 
-[Feier den Sommer - Alles für einen perfekten Abend!](https://www.lidl.de/c/sommerparty-hurra/a10045379)
+[Jetzt sparen: Onlineshop-Highlights im September](https://www.lidl.de/c/shop-highlights/a10053491)
 
 [![Lidl Logo Deutschland](/static/assets/c6855ba1-a17c-468f-b8b0-09fdab67dea7.svg)](https://www.lidl.de/ "Lidl Onlineshop - Online. Immer. Mehr.")2. Menü
 3. [Onlineshop](https://www.lidl.de/)
@@ -21,6 +21,7 @@
         * [Meine Bestellungen](https://www.lidl.de/css/order-history)
         * [Zugangsdaten](https://www.lidl.de/css/manage-account/access-data)
         * [Meine Daten](https://www.lidl.de/css/manage-account/addresses)
+        * [Lidl Connect Kundenkonto](https://kundenkonto.lidl-connect.de/mein-lidl-connect.html)
         
 8. 1. [](https://www.lidl.de/otc/cart)
     
@@ -44,7 +45,7 @@ Um die Website korrekt anzuzeigen, verwende bitte einen der folgenden Browser:
 Main Navigation[Zurück](#)
 
 1. [Onlineshop](https://www.lidl.de/)
-2. [Filial-Angebote](https://www.lidl.de/c/xxl-ab-29-07/a10051500?tabCode=Current_Sales_Week)
+2. [Filial-Angebote](https://www.lidl.de/c/garten-ab-09-09/a10054170?tabCode=Current_Sales_Week)
 3. [Lidl Plus](https://www.lidl.de/c/lidl-plus/s10007388)
 4. [Sale](https://www.lidl.de/q/query/supersale)
 5. [Themenwelten](https://www.lidl.de/c/themenwelten/s10007142)
@@ -71,7 +72,7 @@ Main Navigation[Zurück](#)
 12. [Tierbedarf](https://www.lidl.de/h/tierbedarf/h10006711)
 13. [Guthabenkarten & Gutscheine](https://www.lidl.de/h/guthaben-gutscheinkarten/h10005877)
 
-1. [Filial-AngeboteÖffnen](https://www.lidl.de/c/xxl-ab-29-07/a10051500?tabCode=Current_Sales_Week)
+1. [Filial-AngeboteÖffnen](https://www.lidl.de/c/garten-ab-09-09/a10054170?tabCode=Current_Sales_Week)
 2. [Unsere Prospekte](https://www.lidl.de/c/online-prospekte/s10005610)
 3. [Frische-Angebote](https://www.lidl.de/c/billiger-frische/a10007140)
 4. [Vegane Welt](https://www.lidl.de/c/vegan/s10007709)
@@ -84,8 +85,7 @@ Main Navigation[Zurück](#)
 1. [Lidl PlusÖffnen](https://www.lidl.de/c/lidl-plus/s10007388)
 2. [Wie funktioniert Lidl Plus](https://www.lidl.de/c/wie-funktioniert-lidl-plus/s10011363)
 3. [Lidl Babyboxen](https://www.lidl.de/c/lidl-babyboxen/s10011221)
-4. [Services](https://www.lidl.de/c/services/s10007279)
-5. [Service & Hilfe](https://kundenservice.lidl.de/SelfServiceDE/s/)
+4. [Service & Hilfe](https://kundenservice.lidl.de/SelfServiceDE/s/)
 
 1. [ThemenweltenÖffnen](https://www.lidl.de/c/themenwelten/s10007142)
 2. [Lidl Live](https://www.lidl.de/c/lidl-live/s10007981)
@@ -229,7 +229,7 @@ Brand Navigation
         
     
 
-[Datenschutzhinweise Download](https://www.lidl.de/static/assets/20240710_Datenschutzhinweise_v12_22_2_www_lidl_de-1063343.pdf)
+[Datenschutzhinweise Download](https://www.lidl.de/static/assets/DSH_Online-Shop_07-08-2024-1099961.pdf)
 
 Zum Betrachten des PDF-Dokumentes benötigst du den kostenlosen [Adobe Acrobat Reader](https://get.adobe.com/reader/).
 
@@ -239,7 +239,7 @@ Datenschutz
 Datenschutz auf www.lidl.de
 ---------------------------
 
-(Version 12.22; Stand 10.07.2024)
+(Version 12.24; Stand 07.08.2024)
 ---------------------------------
 
 Datenschutzbestimmungen für den Lidl Online-Shop, das Lidl-Filialgeschäft und Geschäftspartner
@@ -1477,9 +1477,13 @@ Bei Interaktion mit einem Bot nutzen wir die Anliegen, um Fragen und Antworten d
 
   
 
+Bei telefonischer Bearbeitung von Kundenanliegen nutzen wir zur schnellen und effektiven Bearbeitung der Anliegen zudem KI (Künstliche Intelligenz) - gestützte Anwendungen zur Transkription und Zusammenfassung der Gespräche (digitale Sprachassistenten). Zur Verbesserung der KI werden auch hier nur anonyme Daten verwendet
+
+  
+
 Empfänger/ Kategorien von Empfängern:
 
-Ausnahmsweise werden Daten in unserem Auftrag von Auftragsverarbeitern aus dem Bereich Kundenservice verarbeitet. Diese sind jeweils sorgfältig ausgesucht, werden von uns zudem auditiert und vertraglich gemäß Artikel 28 DSGVO verpflichtet.
+Ausnahmsweise werden Daten in unserem Auftrag von Auftragsverarbeitern aus dem Bereich Kundenservice und der Bereitstellung und dem Support von IT-Anwendungen verarbeitet. Diese sind jeweils sorgfältig ausgesucht, werden von uns zudem auditiert und vertraglich gemäß Artikel 28 DSGVO verpflichtet.
 
   
 
@@ -2474,12 +2478,12 @@ Bei Fragen zur Webseite oder zum Lidl Online-Shop oder zur Ausübung Ihrer Recht
 
 [https://kundenservice.lidl.de/SelfServiceDE/s/contactsupport](https://kundenservice.lidl.de/SelfServiceDE/s/contactsupport)
 
-[![](/static/assets/footer_banner-941668.jpg)
+[![](/static/assets/2436_Lidl_Insider_VKF-1141660.jpg)
 
 Werde Lidl Insider
 ------------------
 
-... und sichere dir exklusive Angebote.Jetzt zum Newsletter anmelden!](https://www.lidl.de/c/newsletter-anmeldeseite/s10005754)
+... und sichere dir deinen Gutschein⁷!Jetzt zum Newsletter anmelden!](https://www.lidl.de/c/newsletter-anmeldeseite/s10005754)
 
 Rechtliche Hinweise und Auflösung der Fußnoten
 
@@ -2516,13 +2520,12 @@ Lidl Connect![](/n/footer/icons/arrow-bottom.svg)
 
 * [Handytarife](https://www.lidl.de/c/lidl-connect/s10007717)
 * [Datentarife](https://www.lidl.de/c/mobiles-surfen/s10007726)
-* [DSL & Internet](https://lidl-connect-internet.de/)
 * [Mobilfunk kündigen](https://kundenkonto.lidl-connect.de/k%C3%BCndigungsformular.html)
 * [Festnetz kündigen](https://www.vodafone.de/einfache-kuendigung.html)
 
 ###### Newsletter
 
-Werde jetzt Lidl Insider & sichere dir deinen Zugang zu exklusiven Angeboten & mehr!
+Werde jetzt Lidl Insider & sichere dir dein Willkommensgeschenk⁷!
 
 [Lidl Insider werden](https://www.lidl.de/c/newsletter-anmeldeseite/s10005754)
 
