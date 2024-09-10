@@ -10,11 +10,11 @@ Resilio Active Everywhere Platform
 
 Resilio's premier real-time data sync and transfer solution that provides industry-leading speed, scale & central management.](https://www.resilio.com/active-everywhere-platform/)[![](/images/sync-appicon-blue-bg.svg)
 
-Sync Home (for Personal Use)  
+Sync (for Personal Use)  
 
 ![](/images/right.svg)
 
-Basic file sharing designed for individuals (not for business use) on desktops and mobile devices only (no servers).](https://www.resilio.com/individuals/)
+Basic file sharing designed for individuals (not for business use) on desktops and mobile devices only (no servers).](https://www.resilio.com/sync/)
 
 Solutions
 
@@ -203,7 +203,7 @@ Report Security Vulnerability
 
 ![](/images/right.svg)](https://connect.resilio.com/hc/en-us/articles/360000293380)
 
-Support for Resilio Sync
+Support for Sync
 
 [![](/images/web-help.svg)
 
@@ -211,7 +211,7 @@ Sync Help Center
 
 ![](/images/right.svg)](https://help.resilio.com/hc/en-us)[![](/images/online-support.svg)
 
-Submit a Support Request  
+Submit a Customer Service Request  
 
 ![](/images/right.svg)](https://help.resilio.com/hc/en-us/requests/new?ticket_form_id=91563)[![](/images/communicate.svg)
 
@@ -229,7 +229,7 @@ Report Security Vulnerability
 
 Products
 
-[Resilio Active Everywhere for Enterprises](https://www.resilio.com/active-everywhere-platform/) [Sync for Small Business](https://www.resilio.com/sync-business/) [Sync Home for Personal Use](https://www.resilio.com/individuals/)
+[Resilio Active Everywhere for Enterprises](https://www.resilio.com/active-everywhere-platform/) [Sync for Small Business](https://www.resilio.com/sync-business/) [Sync for Personal Use](https://www.resilio.com/sync/)
 
 Solutions
 
@@ -247,9 +247,9 @@ Support: Resilio Platform
 
 [Resilio Platform Help Center](https://connect.resilio.com/hc/en-us)[Submit a Support Request](https://helpfiles.resilio.com/ConnectTicket) [Report Security Vulnerability](https://connect.resilio.com/hc/en-us/articles/360000293380)
 
-Support: Resilio Sync
+Support: Sync
 
-[Sync Help Center](https://help.resilio.com/hc/en-us) [Submit a Support Request](https://help.resilio.com/hc/en-us/requests/new?ticket_form_id=91563) [User Forums](https://forum.resilio.com/) [Report Security Vulnerability](https://help.resilio.com/hc/en-us/articles/360000294599)
+[Sync Help Center](https://help.resilio.com/hc/en-us) [Submit a Customer Service Request](https://help.resilio.com/hc/en-us/requests/new?ticket_form_id=91563) [User Forums](https://forum.resilio.com/) [Report Security Vulnerability](https://help.resilio.com/hc/en-us/articles/360000294599)
 
 Partner Program
 
@@ -268,7 +268,7 @@ End User License Agreement
 
 #### **Date of last revision: February 26, 2021  
 ‍  
-Resilio Software License and Subscriptions — Resilio Platform, Sync Home Pro, Sync Home Pro Family, Sync Business, and Sync Licensed API  
+Resilio Software License and Subscriptions — Resilio Platform, Sync Pro, Sync Pro Family, Sync Business, and Sync Licensed API  
 **
 
 **IMPORTANT**: PLEASE READ THE TERMS AND CONDITIONS OF THIS END USER LICENSE AGREEMENT (“LICENSE AGREEMENT”) CAREFULLY BEFORE USING THE SOFTWARE (AS DEFINED BELOW). RESILIO, INC. (“RESILIO”) IS WILLING TO LICENSE THE SOFTWARE TO YOU AS THE INDIVIDUAL, THE COMPANY, OR THE LEGAL ENTITY THAT WILL BE UTILIZING THE SOFTWARE (REFERENCED BELOW AS “YOU” OR “YOUR”) ONLY ON THE CONDITION THAT YOU ACCEPT ALL OF THE TERMS OF THIS LICENSE AGREEMENT. THIS IS A LEGAL AND ENFORCEABLE CONTRACT BETWEEN YOU AND RESILIO. BY CLICKING THE “I AGREE” OR “YES” BUTTON OR OTHERWISE INDICATING ASSENT ELECTRONICALLY, OR INSTALLING THE SOFTWARE, YOU AGREE TO THE TERMS AND CONDITIONS OF THIS LICENSE AGREEMENT. IF YOU DO NOT AGREE TO ALL OF THESE TERMS AND CONDITIONS, CLICK THE “I DO NOT AGREE”, “CANCEL” OR “NO” OR “CLOSE WINDOW” BUTTON OR OTHERWISE INDICATE REFUSAL, DO NOT DOWNLOAD, ORDER, OPEN, INSTALL OR USE THE SOFTWARE, AND CONTACT RESILIO CUSTOMER SERVICE, USING THE CONTACT DETAILS IN SECTION 10 OF THIS LICENSE AGREEMENT, FOR INFORMATION ON HOW TO OBTAIN A REFUND OF THE MONEY YOU PAID FOR THE SOFTWARE (LESS SHIPPING, HANDLING, AND ANY APPLICABLE TAXES EXCEPT IN CERTAIN STATES AND COUNTRIES WHERE SHIPPING, HANDLING, AND TAXES ARE REFUNDABLE) AT ANY TIME DURING THE SEVEN (7) DAY PERIOD FOLLOWING THE DATE OF PURCHASE. LICENSEE ALSO CONSENTS TO RESILIO’S USE OF THE E-MAIL ADDRESS PROVIDED BY LICENSEE TO COMMUNICATE WITH LICENSEE ABOUT THE SOFTWARE AND ANY FUTURE VERSIONS OR VARIATIONS THEREOF, INCLUDING BUT NOT LIMITED TO INFORMATION ABOUT A RENEWAL LICENSE IN CONNECTION WITH THE EXPIRATION OR TERMINATION OF THE SERVICE PERIOD HEREUNDER.  
@@ -282,8 +282,8 @@ This License Agreement governs any releases, revisions, updates or enhancements 
 ‍**For Software Licenses Purchased Directly from Resilio:**    
 Resilio’s Product ordering documentation or purchase flow (“Order”) will specify your authorized scope of use for the Software, which may include: (a) numbers of licenses (for Software), (b) term and (c) other restrictions (as applicable, the “Scope of Use”). The term “Order” also includes any applicable Software license renewal, or purchases you make to increase or upgrade your Scope of Use.")  
   
-‍**For Resilio Platform, Sync Home Pro, Sync Home Pro Family and Sync Business Licenses Purchased Directly from Resilio:**    
-During the Service Period, Your subscription is personal and shall cover the devices that are permitted to link under Your same unique user identity managed through “My Devices” within Your settings in the Software. Each unique user and unique user identity requires its own subscription to the Software. For purposes of clarity, a user identity is personal to one individual user (an entity is not considered an individual user but each person within such entity using the Software is considered an individual user) and may not be shared with other users except Sync Home Pro Family, which can be shared with a total of 4 Family members besides the Purchaser.  
+‍**For Resilio Platform, Sync Pro, Sync Pro Family and Sync Business Licenses Purchased Directly from Resilio:**    
+During the Service Period, Your subscription is personal and shall cover the devices that are permitted to link under Your same unique user identity managed through “My Devices” within Your settings in the Software. Each unique user and unique user identity requires its own subscription to the Software. For purposes of clarity, a user identity is personal to one individual user (an entity is not considered an individual user but each person within such entity using the Software is considered an individual user) and may not be shared with other users except Sync Pro Family, which can be shared with a total of 4 Family members besides the Purchaser.  
   
 ‍**For Resilio Platform Licenses Purchased Directly from Resilio:**  
 You need to purchase from Resilio one Resilio Platform license for each device on which you install the Software. During the Service Period, your subscription shall cover the number of devices that you have purchased licenses for.  
@@ -368,9 +368,9 @@ This License Agreement will be governed by the laws of the State of California, 
 
 [Privacy Policy](https://www.resilio.com/legal/privacy/) [Terms Of Use](https://www.resilio.com/legal/terms-of-use/) [EULA - Subscription](https://www.resilio.com/legal/eula-subscription/) [Terms Of Sale](https://www.resilio.com/legal/terms-of-sale/) [Copyright](https://www.resilio.com/legal/copyright/) [Cookie Policy](https://www.resilio.com/legal/cookie-policy/) [Support Plans](https://www.resilio.com/legal/support-plan/)
 
-##### Resilio Sync legal resources
+##### Sync legal resources
 
-[Sync Home EULA](https://www.resilio.com/legal/eula/) [Sync Reseller Agreement](https://www.resilio.com/legal/reseller/)
+[Sync EULA](https://www.resilio.com/legal/eula/) [Sync Reseller Agreement](https://www.resilio.com/legal/reseller/)
 
 ##### Products
 
@@ -390,9 +390,9 @@ Enterprises & Creative Teams
 
 Resilio Personal
 
-[Sync Home
+[Sync
 
-![](/images/right.svg)](https://www.resilio.com/individuals/)
+![](/images/right.svg)](https://www.resilio.com/sync/)
 
 ##### Solutions
 
@@ -484,17 +484,17 @@ For resilio Active Everywhere Platform
 
 ![](/images/web-help.svg)
 
-For resilio sync
+For Sync
 
 [Sync Help Center
 
-![](/images/right.svg)](https://help.resilio.com/hc/en-us)[Sync Support Request
+![](/images/right.svg)](https://help.resilio.com/hc/en-us)[Submit a Customer Service Request
 
 ![](/images/right.svg)](https://help.resilio.com/hc/en-us/requests/new?ticket_form_id=91563)[Sync User Forums
 
 ![](/images/right.svg)](https://forum.resilio.com/)[Report Security Vulnerability
 
-![](/images/right.svg)](https://help.resilio.com/hc/en-us/articles/360000294599)[Sync Tutorials
+![](/images/right.svg)](https://help.resilio.com/hc/en-us/articles/360000294599)[Sync Tutorials & Demos
 
 ![](/images/right.svg)](https://www.resilio.com/tech/sync-tutorials-and-howto/)
 
