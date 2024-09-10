@@ -1,4 +1,4 @@
-8326410660644848ba5a-ee57-4761-89a4-d3f029e2f3cc:191018de7eb19997
+837432067692acac4483-23c5-4aed-b592-cc1f095446c3:191dd0272d819997
 
 [Skip to main content](#mainContent)
 
@@ -32,9 +32,9 @@
     * [Saved Searches](https://www.ebay.com/myb/SavedSearches)
     * [Saved Sellers](https://www.ebay.com/myb/SavedSellers)
     * [My Garage](https://www.ebay.com/g/mygarage)
-    * [My Sizes](https://www.ebay.com/mysize/hub)
+    * [Sizes](https://www.ebay.com/mysize/hub)
+    * [My Collection](https://www.ebay.com/collection/hub)
     * [Messages](https://mesg.ebay.com/mesgweb/ViewMessages/0)
-    * [Collection beta](https://www.ebay.com/collection/hub)
     * [PSA Vault](https://www.ebay.com/collection/category?notionalTypeId=Vault)
     
 
