@@ -53,8 +53,8 @@ We implement a process of continuous improvement of our compliance with the [gen
 
 Being aware of the importance of clear and transparent information in this area, we have included various tables to help you better understand and exercise your rights.
 
-Who is responsible for processing your personal data?
------------------------------------------------------
+[](#who-is-responsible-for-processing-your-personal-data)Who is responsible for processing your personal data?
+--------------------------------------------------------------------------------------------------------------
 
 The controller is, within the meaning of the GDPR, the entity that defines for what purpose(s) and how your personal data is used.
 
@@ -72,10 +72,10 @@ LICHESS notably publishes the website [https://lichess.org/](https://lichess.org
 
 As part of our activities, we may collect and process personal data relating to our users. These different data processing operations are detailed in this Privacy Policy.
 
-What data is collected about you and for what reasons?
-------------------------------------------------------
+[](#what-data-is-collected-about-you-and-for-what-reasons)What data is collected about you and for what reasons?
+----------------------------------------------------------------------------------------------------------------
 
-### 1\. Connection to the lichess.org site
+### [](#1-connection-to-the-lichessorg-site)1\. Connection to the lichess.org site
 
 When you connect to the lichess.org site, a certain amount of data is automatically collected by the site host concerning your terminal (such as a computer, smartphone or tablet) and your browser. This particularly includes your IP address.
 
@@ -85,7 +85,7 @@ The collection and processing of this data are thus justified by LICHESS's legit
 
 These data are kept for one year following their collection, then for the applicable limitation period for the purposes of managing the disputes described in point 7. below.
 
-### 2\. Creation of an account and management of registered users
+### [](#2-creation-of-an-account-and-management-of-registered-users)2\. Creation of an account and management of registered users
 
 Information needed to create an account and manage registered users: we collect the information you provided to us when you registered, such as your last name, first name, email address and username. In order to ensure the proper monitoring of our relationship as well as your relationship with other users and to manage the various aspects of these relationships (including competitions and results), we also keep a copy of our written exchanges as well as public messages or those which you exchanged with other users of the site.
 
@@ -105,7 +105,7 @@ This data processing is based on LICHESS's legitimate interest in improving the 
 
 These data are kept for the duration of the browsing session. You can configure these cookies from your browser settings.
 
-### 3\. Technical support
+### [](#3-technical-support)3\. Technical support
 
 When you ask us to resolve a technical problem, we collect a certain amount of information such as your name, first name, email address and username, the date and time of your request, as well as the circumstances of the reported problem.
 
@@ -115,7 +115,7 @@ This data processing is justified by LICHESS's legitimate interest in offering t
 
 This data is kept until the problem is resolved, then for the applicable limitation period for the purposes of managing disputes described in point 7. below.
 
-### 4\. Improvement of our services
+### [](#4-improvement-of-our-services)4\. Improvement of our services
 
 We use data relating to the use of our teaching and chess services to evolve these services in such a way that they are always more effective for our users.
 
@@ -125,7 +125,7 @@ This data processing is justified by LICHESS's legitimate interest in developing
 
 We only keep this data for as long as necessary for the analysis allowing us to identify areas for improving our services.
 
-### 5\. Fraud prevention
+### [](#5-fraud-prevention)5\. Fraud prevention
 
 In order to prevent fraud on our site and in particular the multiplication of accounts, we collect a certain amount of information such as your last name, first name, email address and username.
 
@@ -133,7 +133,7 @@ This data processing is based on LICHESS's legitimate interest in preventing and
 
 These data are kept for one year following their collection, then for the applicable limitation period for the purposes of managing the disputes described in point 7. below.
 
-### 6\. Donations and purchases of goods
+### [](#6-donations-and-purchases-of-goods)6\. Donations and purchases of goods
 
 * If you donate to our association or purchase goods from our online stores, we will collect your email address, the amount and the transaction number.
 
@@ -147,7 +147,7 @@ This data processing is based, on your consent, in accordance with Article 6.1.a
 
 This data is kept until you withdraw your consent, then for the applicable limitation period for the purposes of managing disputes described in point 7. below.
 
-### 7\. Litigation management (possible or current)
+### [](#7-litigation-management-possible-or-current)7\. Litigation management (possible or current)
 
 We will be likely to keep any data the conservation of which seems necessary or useful to us to prevent a dispute and to manage any litigation or pre-litigation.
 
@@ -157,7 +157,7 @@ This retention is justified by LICHESS's legitimate interest in protecting and d
 
 We will thus keep all relevant data from a probationary point of view for the legally applicable limitation period, i.e. in principle 5 years (civil limitation under common law).
 
-### 8\. Compliance with a legal obligation
+### [](#8-compliance-with-a-legal-obligation)8\. Compliance with a legal obligation
 
 We are likely to keep any data the retention of which appears necessary to us to comply with our legal obligations, for the time necessary to comply with these obligations.
 
@@ -165,14 +165,14 @@ This retention is justified by compliance with a legal obligation to which LICHE
 
 We will keep this data for one year, then for the legally applicable limitation period according to the legal obligations concerned.
 
-### 9\. Further processing of data for statistical purposes
+### [](#9-further-processing-of-data-for-statistical-purposes)9\. Further processing of data for statistical purposes
 
 In order to maintain statistics relating to the games that took place on the lichess.org site and in particular to allow you to know your history of the games played as well as your ranking, we will keep your username and other non-personal information, such as party metadata.
 
 This further processing is compatible with the initial collection of your username, justified by the execution of the contract in accordance with Article 6.1.b of the GDPR as indicated in point 2 above, in accordance with recital 50 and Articles 5 and 89 of the GDPR.
 
-Summary table
--------------
+[](#summary-table)Summary table
+-------------------------------
 
 | Data collected | Purposes (intended or possible use of data) | Justification of the purpose under the GDPR | Maximum data retention period in a form that allows you to be identified |
 | --- | --- | --- | --- |
@@ -193,8 +193,8 @@ As an association, we strive to put all technical and organizational measures in
 
 In any case, you remain in control of your data through the right to erasure mentioned below. We will notify you when a request for erasure does not comply with our legal obligations.
 
-Who has access to your data?
-----------------------------
+[](#who-has-access-to-your-data)Who has access to your data?
+------------------------------------------------------------
 
 Your data is hosted by a secure professional service provider, on servers located in the European Union. LICHESS teams, moderators and employees are likely to access it within the framework and the limits of their functions.
 
@@ -214,8 +214,8 @@ On this point, we are closely following the analyses of the European Data Protec
 
 Regarding your donations that you have authorized us to publish for the sake of transparency, all users can consult them from [this table](https://lichess.org/costs).
 
-What rights do you have to control the processing of your personal data?
-------------------------------------------------------------------------
+[](#what-rights-do-you-have-to-control-the-processing-of-your-personal-data)What rights do you have to control the processing of your personal data?
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
 You have, like any other person whose personal data we collect and process, a number of rights provided for by the regulations.
 
@@ -225,23 +225,23 @@ You can exercise these rights simply by writing directly to the following email 
 
 **Remember to clearly indicate in your e-mail the nature of the right you wish to exercise and the reasons which justify, if applicable, your request to exercise this right.**
 
-### 1\. Right of access
+### [](#1-right-of-access)1\. Right of access
 
 You can ask us for confirmation that personal data concerning you is or is not being processed and, when it is, access to such data. You can access your personal data via this link, by being logged in: [https://lichess.org/account/personal-data](https://lichess.org/account/personal-data).
 
 As such, you have the right to ask us for a copy of the personal data we have about you, in an easily understandable format, as well as a copy of this Policy on a durable medium.
 
-### 2\. Right to rectification
+### [](#2-right-to-rectification)2\. Right to rectification
 
 You can ask us to correct, complete or update the data we have about you, if it seems to you to be inaccurate, incomplete or obsolete.
 
 In this case, we thank you for kindly communicating to us spontaneously, as far as possible, the new information necessary to proceed to the correction, completion or update requested.
 
-### 3\. Right to withdraw consent
+### [](#3-right-to-withdraw-consent)3\. Right to withdraw consent
 
 With regard to processing based on your consent, you can withdraw this consent at any time, without justification. Withdrawal of your consent results in the cessation of processing in the future.
 
-### 4\. Right of objection
+### [](#4-right-of-objection)4\. Right of objection
 
 Data processing based on the legitimate interest of LICHESS: with regard to the data processing listed above which is justified by the legitimate interests of LICHESS, you have the right to oppose it for reasons relating to your particular situation.
 
@@ -253,7 +253,7 @@ Data processed for statistical purposes: with regard to data processing for stat
 
 The opposition (if it is based on valid reasons and there is no compelling legitimate reason or the processing is not necessary for the performance of a task of public interest) will result in the termination processing for the future, but not necessarily destruction of the data concerned: to obtain this destruction, you must exercise your right to erasure under the conditions described below, it being specified that the latter is subject to limitations, set out below after.
 
-### 5\. Right to erasure
+### [](#5-right-to-erasure)5\. Right to erasure
 
 You can ask us to delete all or part of the data we have about you, provided that at least one of the following conditions is met:
 
@@ -273,7 +273,7 @@ Please note, however, that LICHESS is entitled to oppose the deletion of certain
 
 In addition, we may choose, instead of deleting the data, to proceed with their complete and irreversible anonymization. In this way, we will be entitled to keep this data in a format that no longer allows you to be identified (for example: for statistical purposes).
 
-### 6\. Right to restriction of processing
+### [](#6-right-to-restriction-of-processing)6\. Right to restriction of processing
 
 Failing, for example, to exercise your right to erasure, you can also ask LICHESS to "set aside" or "freeze" certain data concerning you, that is to say to keep this data separately, without using them anymore (except legal obligations).
 
@@ -289,13 +289,13 @@ You have exercised your right of opposition in accordance with point 4. above, a
 
 In these cases, we will "freeze" the data for the necessary time, for example by means of a "Do not use - Right to limitation exercised" marking.
 
-### 7\. Right to data portability
+### [](#7-right-to-data-portability)7\. Right to data portability
 
 You can ask us to send you a copy of the data collected on the basis of your consent, allowing their reuse by you or another service provider.
 
 This "right to portability" differs from the right of access mentioned in point 1. above in that its purpose is not to obtain a copy that is necessarily readable by yourself, but a reusable copy of the data. , in particular with a view to a change of service provider.
 
-### 8\. Right to define directives relating to the fate of your data after your death
+### [](#8-right-to-define-directives-relating-to-the-fate-of-your-data-after-your-death)8\. Right to define directives relating to the fate of your data after your death
 
 Finally, you have the right to tell us how you want us to deal with your data in the unfortunate event of your death.
 
@@ -303,8 +303,8 @@ In particular, you can ask us to proceed with the destruction of all your data (
 
 You can also designate any person of your choice to be responsible for the execution of these "last wishes"; this person does not necessarily have to be one of your heirs or even the executor in charge of your estate.
 
-Summary table
--------------
+[](#summary-table-1)Summary table
+---------------------------------
 
 | Your rights | What they let you get | Processing / data concerned | Conditions, exceptions or limitations |
 | --- | --- | --- | --- |
