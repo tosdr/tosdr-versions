@@ -14,39 +14,89 @@
 
 [](#main)
 
-[Get Started](https://www.mimecast.com/quiz/)
+[M365 Threat Scan](https://www.mimecast.com/free-trial/)
 
 [Get a Quote](https://www.mimecast.com/get-a-quote/)
 
-* Products
+* Why Mimecast
     
-    * [![](https://assets.mimecast.com/api/public/content/d0b858c3a1444fa29fc6e22f39022a86?v=60b50f99)
+    * [![](https://assets.mimecast.com/api/public/content/60dd7f151bb148bcafa3827011a9aec0?v=82fac553)
+        
+        Why Mimecast
+        
+        Discover why 42,000 customers rely on Mimecast](https://www.mimecast.com/why-mimecast/)
+    * [![](https://assets.mimecast.com/api/public/content/dc438d5334034bcc921010e1222ed98c?v=848bd6f0)
+        
+        AI-Powered Security
+        
+        Industry-leading threat protection, supercharged by AI](https://www.mimecast.com/ai-cybersecurity/)
+    * [![](https://assets.mimecast.com/api/public/content/938c5cc300214ed2842b27dd3edcf177?v=c2b36271)
+        
+        Customer Success Stories
+        
+        Learn why customers trust Mimecast](https://www.mimecast.com/customer-success/customer-stories/)
+    
+    [Company Overview](https://www.mimecast.com/company/)
+    
+    * [![](https://assets.mimecast.com/api/public/content/8c726670208744a1b981d48931d4d8bd?v=608d0cd7)
+        
+        Awards
+        
+        Recognition from analysts, industry insiders, and more](https://www.mimecast.com/company/awards/)
+    * [![](https://assets.mimecast.com/api/public/content/a9a6053500494d3f8880a5b42e0444ed?v=91498bf6)
+        
+        ESG & Global Impact
+        
+        We're always mindful of having a positive impact](https://www.mimecast.com/company/corporate-social-responsibility/)
+    
+    ![newCFO.png](https://assets.mimecast.com/api/public/content/682272e31e2c49f2824e8f36f05c9aa3?v=2270add9)
+    
+    Mimecast Announces Acquisition of Code42
+    
+    [Learn More](https://www.mimecast.com/resources/press-releases/mimecast-announces-acquisition-of-code42/)
+    
+* Our Platform
+    
+    * [![](https://assets.mimecast.com/api/public/content/9a62d3288e0d4b7a951cd5fe701ae070?v=f38d2f62)
+        
+        Our Platform
+        
+        Transform your approach to human risk management](https://www.mimecast.com/products/our-platform/)
+    * [![](https://assets.mimecast.com/api/public/content/e8b4a094ce9b4a4b82bef72e9c72447e?v=eb31cf67)
         
         Advanced Email Security
         
         Most Popular
         
-        AI-powered, world-class detection with total deployment flexibility — with or without a gateway](https://www.mimecast.com/products/email-security/)
-    * [![](https://assets.mimecast.com/api/public/content/4766441092f24c1d8d5cb65f084680c0?v=98bbab41)
+        Secure your organization with AI-powered solutions](https://www.mimecast.com/products/email-security/)
+    * [![](https://assets.mimecast.com/api/public/content/3bae7cc64ce24f9e9e2a2b6ed4e845c1?v=4d2117e0)
         
-        Cloud Archive
+        Mimecast Engage
         
-        Industry-leading archiving, rapid data restoration, accelerated e-Discovery](https://www.mimecast.com/products/email-archive/)
-    * [![](https://assets.mimecast.com/api/public/content/ba203cf576844201a13385cc94eaf22d?v=2c1b7329)
+        Re-envision security awareness with real human risk signals](https://www.mimecast.com/products/mimecast-engage-awareness-training/)
+    * [![](https://assets.mimecast.com/api/public/content/c4e2b7b5535f44359682cea7bd628bae?v=86292f06)
         
-        Security Awareness Training
+        Collaboration Security
         
-        Human risk assessment & scoring, award-winning training, and effortless administration.](https://www.mimecast.com/products/security-awareness-training/)
+        Allow employees to collaborate securely](https://www.mimecast.com/products/collaboration-security/)
     
-    [All Products](https://www.mimecast.com/products/)
+    [Product Suite](https://www.mimecast.com/products/)
     
-    ![icon_BCircle_AI.png](https://assets.mimecast.com/api/public/content/a63e63b6df7443898bc7a682d78133c3?v=2e7b068c)
-    
-    AI-Powered Security
-    
-    Industry-leading threat protection, supercharged by AI
-    
-    [Learn More](https://www.mimecast.com/ai-cybersecurity/)
+    * [![](https://assets.mimecast.com/api/public/content/51a3c17138a243c49e5a4395746bfbfe?v=e0560dcc)
+        
+        Code42 Incydr
+        
+        Address all forms of insider threats](https://www.mimecast.com/products/code42-incydr/)
+    * [![](https://assets.mimecast.com/api/public/content/4766441092f24c1d8d5cb65f084680c0?v=949aebff)
+        
+        Email Archive
+        
+        Ensure email works and data is never lost](https://www.mimecast.com/products/email-archive/)
+    * [![](https://assets.mimecast.com/api/public/content/9e647b9b2a094c25b859652e5300c303?v=59fff5c7)
+        
+        DMARC Analyzer
+        
+        Protect your brand and reputation](https://www.mimecast.com/products/dmarc-analyzer/)
     
     ![topnav_plans.svg](https://assets.mimecast.com/api/public/content/946d853722194c86bdae8da05e63158a?v=dda04a96)
     
@@ -147,35 +197,6 @@
     
     [Get Report](https://www.mimecast.com/the-state-of-email-and-collaboration-security-2024/)
     
-* Company
-    
-    About Us
-    
-    * [Company Overview](https://www.mimecast.com/company/)
-    * [Leadership Team](https://www.mimecast.com/company/mimecast-leadership/)
-    * [Awards](https://www.mimecast.com/company/awards/)
-    * [ESG & Global Impact](https://www.mimecast.com/company/corporate-social-responsibility/)
-    * [Customer Success Stories](https://www.mimecast.com/customer-success/customer-stories/)
-    * [Trust Center](https://www.mimecast.com/company/mimecast-trust-center/)
-    
-    Careers
-    
-    ![jointheteam.png](https://assets.mimecast.com/api/public/content/d0635f650d1f47db87d21f2928042499?v=ce4369d8)
-    
-    Join the Team
-    
-    Help us build a better business for our people & customers.
-    
-    [Work at Mimecast](https://www.mimecast.com/company/careers-at-mimecast/)
-    
-    News
-    
-    ![newCFO.png](https://assets.mimecast.com/api/public/content/682272e31e2c49f2824e8f36f05c9aa3?v=2270add9)
-    
-    Mimecast Announces Acquisition of Elevate Security
-    
-    [Learn More](https://www.mimecast.com/resources/press-releases/mimecast-acquires-elevate-security/)
-    
 
 Quick Links
 
@@ -191,7 +212,7 @@ Quick Links
     * [français](https://www.mimecast.com/fr/legal/terms-of-use/)
     
 
-[Get Started](https://www.mimecast.com/quiz/)
+[M365 Threat Scan](https://www.mimecast.com/free-trial/)
 
 [Get a Quote](https://www.mimecast.com/get-a-quote/)
 
