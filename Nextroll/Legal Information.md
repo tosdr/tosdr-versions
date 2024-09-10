@@ -1304,12 +1304,9 @@ USA
     * [Privacy Notice](https://www.nextroll.com/privacy)
     * [Infringement Policy](https://www.nextroll.com/infringement-policy)
     * [Employment Data Policy](https://www.nextroll.com/terms/employment-data-policy)
-    * [Ad Opt Out](https://app.adroll.com/optout)
+    * [Opt Out](https://app.adroll.com/optout)
     * [CCPA Notice at Collection](https://www.nextroll.com/privacy#website-13)
-    * [AdChoices](https://app.adroll.com/adchoices)
     
     [Your Privacy Choices ![](/assets/img/your-privacy-choices.png)](https://www.nextroll.com/your-privacy-choices) 
     
     © 2006- NextRoll, Inc. All rights reserved.
-    
-    [Do Not Sell or Share My Personal Information](https://app.adroll.com/optout/email)
