@@ -2,9 +2,13 @@
 
 [VPN](https://octohide.com/vpn) [Servers](https://octohide.com/servers) [Download](https://octohide.com/download) [Support](https://octohide.com/support) [Contacts](https://octohide.com/contacts)
 
+[Buy now](https://octohide.com/shop)
+
 Download our VPN application
 
 [iOS](https://apps.apple.com/app/octohide-vpn/id6443674175)[Android](https://play.google.com/store/apps/details?id=octohide.vpn)[Huawei](https://appgallery.huawei.com/app/C107089123)
+
+[Buy now](https://octohide.com/shop)
 
 User agreement
 ==============
