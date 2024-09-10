@@ -184,8 +184,26 @@ Um zu bestimmen, welche Art von Werbeanzeigen Ihnen innerhalb des Meta-Netzwerke
 [https://de-de.facebook.com/help/247395082112892](https://de-de.facebook.com/help/247395082112892)  
   
 Dort können Sie auch die Meta-Remarketing-Funktion deaktivieren. Dazu müssen Sie in Ihrem Meta-Profil angemeldet sein. Sie können dem Einsatz von Cookies, die der Reichweitenmessung und Werbezwecken dienen, außerdem über die Deaktivierungsseite über die Website der European Interactive Digital Advertising Alliance widersprechen:  
-  
 [http://www.youronlinechoices.com/de/praferenzmanagement/](https://www.youronlinechoices.com/de/praferenzmanagement/)
+
+#### LinkedIn
+
+Unsere Webseite nutzt die Werbedienste der LinkedIn Ireland Unlimited Company, Wilton Place, Dublin 2, Ireland (nachfolgend „LinkedIn“ genannt).  
+Nach Ihrer freiwilligen und jederzeit widerrufbaren Einwilligung ist die Commerzbank berechtigt, auf ihrer Website die „LinkedIn Conversion API“ (Application Programming Interface, eine Programmierschnittstelle, welche einen Datenaustausch zwischen Servern ermöglicht) zu verwenden, um Daten Ihrer Interaktionen mit unserer Website, im sogenannten offenen Bereich, also ausschließlich außerhalb des Login-pflichtigen Angebots mit Hilfe von Servertechnologien an LinkedIn zu übermitteln, wobei LinkedIn damit auch berechtigt ist, Ihre personenbezogenen Daten in den USA – einem Land ohne angemessenes Datenschutzniveau – zu speichern und zu verarbeiten. Zu diesen Interaktionsdaten gehören Website-Aufrufe sowie das Verweilen für einen definierten Zeitraum, Klicks zu Beginn oder zum Abschluss einer Antragsstrecke für Kontoeröffnungen.  
+  
+Der Einsatz der LinkedIn Conversion API erfolgt zum Zweck der Marktforschung, der Erfolgskontrolle von Werbekampagnen sowie den damit verbundenen Aktionen, zur Optimierung der Ausspielung zielgerichteter Werbung und für das Retargeting auf LinkedIn. Beim Retargeting werden Werbeanzeigen an solche Nutzer ausgespielt, die ein potenzielles Interesse auf der Commerzbank Website gezeigt haben, z. B. durch den Besuch einer bestimmten Themenseite, den Fortschritt im Produktantragsprozess, den Abschluss der Antragsstrecke oder einen Produktabschluss. Zudem können diese Interaktionsdaten genutzt werden, um statistische Zwillinge von Nutzerprofilen auf LinkedIn zu erstellen (eine Zielgruppe, von der vorhergesagt wird, dass sie ähnliche Aktionen wie in den Quelldaten ausführt), um potenzielle Interessenten mit personalisierten Werbeanzeigen anzusprechen.  
+  
+Neben Interaktionsdaten übermitteln wir - nur nach Ihrer Einwilligung - eine Click-ID an LinkedIn zurück. Diese Click-ID ist eine Zeichenkombination, welche mit dem Klick auf eine LinkedIn-Werbeanzeige der Commerzbank von LinkedIn generiert, als Parameter an das zugehörige Link-Ziel (URL) angefügt und mit dem Website-Aufruf an die Commerzbank übermittelt wird. .  
+  
+Als Betreiber dieser Website sind die erhobenen Daten für die Commerzbank anonym. Diese Daten (Interaktionsdaten und Click-ID) werden allerdings von LinkedIn gespeichert und verarbeitet und mit dem jeweiligen LinkedIn-Nutzerprofil, das durch die Nutzung der LinkedIn-Plattform erhoben wurde, abgeglichen. Nach der Übermittlung der oben genannten Daten von der Commerzbank an LinkedIn, bleibt LinkedIn für die von LinkedIn vorgenommene Verarbeitung dieser Daten ein unabhängiger Verantwortlicher gemäß Art. 4 Ziffer 7 DSGVO. In diesem Zusammenhang kann LinkedIn, als datenschutzrechtlich Verantwortlicher, personenbezogene Daten über Sie in den USA speichern und verarbeiten. Rechtsgrundlage für diese Datenverarbeitung ist Art. 6 Abs. 1 Buchstabe a) DSGVO (Einwilligung). Bei den USA handelt es sich um ein Land ohne angemessenes Datenschutzniveau, d.h. Behörden könnten auf Basis nationaler Gesetze auf gespeicherte personenbezogene Daten zugreifen. Gegebenenfalls bestehen keine oder keine ausreichenden gesetzlichen Anforderungen an den technischen und organisatorischen Schutz von personenbezogenen Daten, wodurch die Gefahr eines Zugriffes unberechtigter Dritter erhöht ist. Zudem bestehen gegebenenfalls keine oder keine mit den EU-Vorschriften vergleichbaren Betroffenenrechte, wie z.B. das Auskunftsrecht nach Art. 15 DSGVO, oder Ihre Rechte lassen sich nicht gerichtlich durchsetzen.  
+  
+Nähere Informationen zu Datenschutz und Datenverwendung (auch für Werbezwecke) bei LinkedIn erhalten Sie hier: [https://www.linkedin.com/legal/privacy-policy](https://www.linkedin.com/legal/privacy-policy).  
+  
+Der Einsatz der LinkedIn Conversion API und damit die Analyse Ihres Nutzerverhaltens erfolgt auf der Grundlage Ihrer zuvor erteilten Einwilligung, die die Commerzbank über die „Einwilligungseinstellungen“ auf der Commerzbank Website einholt. Sie können diese Einwilligung jederzeit mit Wirkung für die Zukunft widerrufen. Indem Sie die „Einwilligungseinstellungen“ im Footer der Commerzbank-Website öffnen und den gewünschten Schieberegler deaktivieren, können Sie danach mit Klick auf „Einstellungen speichern“ Ihre Auswahl bestätigen. Durch den Widerruf der Einwilligung wird die Rechtmäßigkeit, der aufgrund der Einwilligung bis zum Widerruf erfolgten Verarbeitung, nicht berührt.  
+Um zu bestimmen, welche Art von Werbeanzeigen Ihnen innerhalb des LinkedIn-Netzwerkes ausgespielt werden, können Sie folgende Seite nutzen:  
+[https://www.linkedin.com/help/linkedin/answer/a1342443/anzeigeneinstellungen-verwalten?lang=de](https://www.linkedin.com/help/linkedin/answer/a1342443/anzeigeneinstellungen-verwalten?lang=de).  
+  
+Sie können dem Einsatz von Cookies, die der Reichweitenmessung und Werbezwecken dienen, außerdem über die Deaktivierungsseite über die Website der European Interactive Digital Advertising Alliance widersprechen: [http://www.youronlinechoices.com/de/praferenzmanagement](https://www.youronlinechoices.com/de/praferenzmanagement/).
 
 #### Google Ads
 
@@ -579,7 +597,7 @@ Im Rahmen der Umsetzung des Zahlungskontengesetz (ZKG) stellen wir Ihnen nachfol
     
 * [Vergleichskriterien PremiumKonto (PDF)](https://www.commerzbank.de/portal/media/efw-dokumente/verg_zkgpremiumkonto.pdf)
     
-* [Entgeltinformationen - Kostenloses Girokonto Basic (PDF)](https://www.commerzbank.de/portal/media/efw-dokumente/ent_girokonto.pdf)
+* [Entgeltinformationen - Kostenloses Girokonto (PDF)](https://www.commerzbank.de/portal/media/efw-dokumente/ent_girokonto.pdf)
     
 * [Entgeltinformation - StartKonto (PDF)](https://www.commerzbank.de/portal/media/efw-dokumente/ent_zgk_start.pdf)
     
