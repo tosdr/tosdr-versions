@@ -96,9 +96,9 @@ SHOW MENU
 
 CLOSE
 
-![](https://assetsnffrgf-a.akamaihd.net/assets/ct/f62df3bf2a/images/siteLogo-jworg-print.png)
+![](https://assetsnffrgf-a.akamaihd.net/assets/ct/e781f8601f/images/siteLogo-jworg-print.png)
 
-![](https://assetsnffrgf-a.akamaihd.net/assets/ct/f62df3bf2a/images/siteLogo-jworg-print-rtl.png)
+![](https://assetsnffrgf-a.akamaihd.net/assets/ct/e781f8601f/images/siteLogo-jworg-print-rtl.png)
 
 [JW.ORG](https://www.jw.org/en/ "Go to the JW.ORG home page")
 
@@ -224,7 +224,7 @@ English
 
 Cookies and Similar Technologies Used by Several of Our Websites
 
-https://assetsnffrgf-a.akamaihd.net/assets/ct/f62df3bf2a/images/syn\_placeholder\_sqr.png
+https://assetsnffrgf-a.akamaihd.net/assets/ct/e781f8601f/images/syn\_placeholder\_sqr.png
 
 ### Use of Personal Data
 
@@ -244,6 +244,8 @@ https://assetsnffrgf-a.akamaihd.net/assets/ct/f62df3bf2a/images/syn\_placeholder
 * [Austria](https://www.jw.org/open?docid=1014910&prefer=content)
     
 * [Belgium](https://www.jw.org/open?docid=1014911&prefer=content)
+    
+* [Brazil](https://www.jw.org/open?docid=1014964&prefer=content)
     
 * [Bulgaria](https://www.jw.org/open?docid=1014912&prefer=content)
     
