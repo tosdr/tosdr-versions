@@ -4,9 +4,7 @@
 
 [](https://www.facebook.com/GrandbabyCakes)[](https://instagram.com/grandbabycakes)[](https://www.pinterest.com/grandbabycakes/)[](https://twitter.com/GrandbabyCake)[](https://www.youtube.com/user/grandbabycakes?feature=watch)[](https://www.google.com/url?q=https://www.tiktok.com/@grandbabycakes&sa=D&source=docs&ust=1720626431736074&usg=AOvVaw0XfMVHNIoqkPeLOlSm372Z)[](https://www.google.com/url?q=https://www.threads.net/@grandbabycakes?hl%3Den&sa=D&source=docs&ust=1720626431736146&usg=AOvVaw1x-MdjK6xmQqiK4kBH0F2V)
 
-[![Grandbaby Cakes logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20186%2076'%3E%3C/svg%3E)
-
-![Grandbaby Cakes logo](https://grandbaby-cakes.com/wp-content/uploads/2024/07/gbc-logo-color.svg)](https://grandbaby-cakes.com/)
+[![Grandbaby Cakes logo](https://grandbaby-cakes.com/wp-content/uploads/2024/07/gbc-logo-color.svg)](https://grandbaby-cakes.com/)
 
 * [About](https://grandbaby-cakes.com/about/)
 * [Cookbooks](https://grandbaby-cakes.com/cookbook/)
@@ -77,6 +75,10 @@ Submit
 ![back to top button](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2052%2095'%3E%3C/svg%3E)
 
 ![back to top button](https://grandbaby-cakes.com/wp-content/themes/grandbaby-cakes-2024/assets/images/misc/back-to-top.png)
+
+![back to top button small](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2043%2054'%3E%3C/svg%3E)
+
+![back to top button small](https://grandbaby-cakes.com/wp-content/themes/grandbaby-cakes-2024/assets/images/misc/back-to-top-mobile.png)
 
 © 2024 All rights reserved.
 
