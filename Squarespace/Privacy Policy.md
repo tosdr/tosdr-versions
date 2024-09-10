@@ -24,7 +24,7 @@ New
 
 ### Sell Anything
 
-[Ecommerce Overview→](https://www.squarespace.com/ecommerce-website) [Templates for Sellers→](https://www.squarespace.com/ecommerce/designs-that-sell) [Sell Products→](https://www.squarespace.com/ecommerce/sell-products) [Sell Services→](https://www.squarespace.com/ecommerce/sell-services) [Schedule Appointments→](https://www.squarespace.com/scheduling) [Courses
+[Ecommerce Overview→](https://www.squarespace.com/online-stores) [Templates for Sellers→](https://www.squarespace.com/ecommerce/designs-that-sell) [Sell Products→](https://www.squarespace.com/ecommerce/sell-products) [Sell Services→](https://www.squarespace.com/ecommerce/sell-services) [Schedule Appointments→](https://www.squarespace.com/scheduling) [Courses
 
 New
 
@@ -94,7 +94,7 @@ New
 
 ### Sell Anything
 
-[Ecommerce Overview→](https://www.squarespace.com/ecommerce-website) [Templates for Sellers→](https://www.squarespace.com/ecommerce/designs-that-sell) [Sell Products→](https://www.squarespace.com/ecommerce/sell-products) [Sell Services→](https://www.squarespace.com/ecommerce/sell-services) [Schedule Appointments→](https://www.squarespace.com/scheduling) [Courses
+[Ecommerce Overview→](https://www.squarespace.com/online-stores) [Templates for Sellers→](https://www.squarespace.com/ecommerce/designs-that-sell) [Sell Products→](https://www.squarespace.com/ecommerce/sell-products) [Sell Services→](https://www.squarespace.com/ecommerce/sell-services) [Schedule Appointments→](https://www.squarespace.com/scheduling) [Courses
 
 New
 
@@ -467,6 +467,7 @@ Data traffic protected by SSL encryption
     * [Extensions](https://www.squarespace.com/extensions/home)
     * [Professional Email](https://www.squarespace.com/professional-email)
     * [Logo Maker](https://www.squarespace.com/logo)
+    * [Business Name Generator](https://www.squarespace.com/tools/business-name-generator)
     * [Courses](https://www.squarespace.com/ecommerce/online-courses)
     * [Memberships](https://www.squarespace.com/ecommerce/membership-sites)
     * [Pricing](https://www.squarespace.com/pricing)
