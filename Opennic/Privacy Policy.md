@@ -1,6 +1,3 @@
-Privacy Policy
---------------
-
   
 
 This Privacy Policy explains what information OpenNIC.org and its related entities collect about its users, what we do with that information and how we handle the content you place in our products and services.
