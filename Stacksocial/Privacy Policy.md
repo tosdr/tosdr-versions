@@ -5,7 +5,7 @@ Click below to view deal
 
 [View Deal](https://stacksocial.com/sales/oystervpn-lifetime-subscription)
 
-[FolderFort 1TB For Life! Only $69.99!](https://stacksocial.com/sales/folderfort-1tb-storage-pro-plan-lifetime-subscription)
+[Get OysterVPN Lifetime for $39.99 – Secure Now!](https://stacksocial.com/sales/oystervpn-lifetime-subscription)
 
 [![StackSocial Logo mobile](https://cdnp1.stackassets.com/6e671abaa5d0fe1ecaa134783b0dc291dd778601/store/5028ebcfae8c4e22b8a83fe28feaa0422b45d2aa2bad934961999e4c43f2/StackSocial_2023_Logomark_Black_Knockout.svg)![StackSocial Logo](https://cdnp0.stackassets.com/a3c277997d108b87ef125bea3ae70e8b48766ff1/store/e85890a11ca444bed8792c60bd9ddef9aa34dc9b26f9fabb4714c6a41a0b/StackSocial_2023_Logomark_Black_Knockout.svg)](https://stacksocial.com/)
 
@@ -124,172 +124,222 @@ Click below to view deal
 Privacy Policy
 --------------
 
-**LAST REVISED**: 12/19/2019
+Last Updated: August 1, 2024
+----------------------------
 
-Your privacy is important to us and we are committed to protecting the privacy of our users and the information that you share in connection with our Site. This Privacy Policy identifies: (i) what information we collect; (ii) how we process and manage such information; (iii) your rights with respect to the use and disclosure of the same. If you have any questions about this Privacy Policy please contact us at privacy@stacksocial.com. We are committed to handling your personal information with high standards of information security. We take appropriate physical, electronic, and administrative steps to maintain the security and accuracy of personally identifiable information we collect, including limiting the number of people who have physical access to our database servers, as well as employing electronic security systems and password protections that guard against unauthorized access. Our website uses encryption technology, such as Transport Layer Security (TLS) to protect your personal information during data transport. TLS encrypts ordering information such as your name, address, and credit card number. Our Customer Care center and stores also operate over a private, secure network. Please note that email is not encrypted and is not considered to be a secure means of transmitting any sensitive information, including your credit card information. Personal information provided on the website and online credit card transactions are transmitted through a secure server using TLS encryption technology. When the letters "http" in the URL change to "https," the "s" indicates you are in a secure area employing TLS; also, your browser may give you a pop-up message that you're about to enter a secure area.
+This website is powered by StackSocial, Inc. (**“StackSocial”, “we”, “us”, “our”**). This Privacy Policy describes how **StackSocial** collects, uses, stores, and shares your information when:
 
-1. #### PERSONAL DATA AND NON-PERSONAL DATA
-    
-    1. “Personal Data” means data that allows someone to identify or contact you, including, for example, your name, address, telephone number, email address, Internet Protocol (“IP”) address (a number that is automatically assigned to your computer when you use the Internet, which may vary from session to session), as well as any other non-public information about you that is associated with or linked to any of the foregoing data.
-    2. “Non-Personal Data” means data that is not associated with or linked to your Personal Data; Non-Personal Data does not, by itself, permit the identification of individual persons. We collect Personal Data and Non-Personal Data, as described below.
+* You access and use this website (**"Website"**);
+* You purchase products or services through this Website (“**Services**”);
+* You communicate with us in any manner, including by e-mail, text, social media, or telephone (“**Communications**”); and
+* We interact with our third party partners, brands, publishers, merchants, and service providers.
 
-2. #### COLLECTION OF INFORMATION
-    
-    We receive and store information about you such as:
-    
-    1. Information You Give Us: We receive and store any information you enter on our Web site or give us in any other way. We collect Personal Data that you voluntarily provide us, for example, when you create an Account, register for our newsletter and/or make a purchase we may require your name, email, contact information, billing address, credit card information and/or other information you may provide us. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features.
-    2. Automatic Information: We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses our Site(s). See below for further information on “cookies”.
-    3. Email Communication: To help us make emails more useful and interesting, we often receive a confirmation when you open an email from newsletters if your computer supports such capabilities. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive email or other mail from us, you may unsubscribe from these emails at any time by clicking on the “unsubscribe” link included in any email or by contacting us via email at support@stackcommerce.com with the word “UNSUBSCRIBE” in the subject line.
-    4. Mobile: To help us make emails more useful and interesting, we often receive a confirmation when you open an email from newsletters if your computer supports such capabilities. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive email or other mail from us, you may unsubscribe from these emails at any time by clicking on the “unsubscribe” link included in any email or by contacting us via email at support@stackcommerce.com with the word “UNSUBSCRIBE” in the subject line.
-    5. Information from Other Sources: We also collect information about you from various sources, including from your in-store purchases. We also may collect information about you that we receive from other sources (like public records), to enable us to update and correct the information contained in our database and to provide product recommendations and special offers that we think will interest you.
+For California residents, please see our [California Privacy Notice.](#california-privacy-notice)
 
-3. #### USE OF PERSONAL DATA
-    
-    We use the information to provide, analyze, administer, enhance and personalize our services and marketing efforts, to process your registration, your orders and your payments, and to communicate with you on these and other topics. For example, we use the information to:
-    
-    1. Make the Site available to you;
-    2. Customize future shopping experiences;
-    3. Process and fulfill merchandise orders;
-    4. Enhance the Site;
-    5. Respond to your requests or to manage Accounts;
-    6. Communicate with you (for example by email, web push, push notification, text messaging, online messaging channels, third party messaging channels) so that we can send you news about the Sites, special offers, promotional announcements, and consumer surveys;
-    7. Monitor the security of the Site; and/or
-    8. Provide you with promotional communications.
+For residents of Virginia, Colorado, Connecticut, Utah, and Texas, please see our [Virginia, Colorado, Connecticut, Utah, and Texas Privacy Notice.](#virginia-privacy-notice)
 
-4. #### DISCLOSURE OF PERSONAL INFORMATION
-    
-    We disclose Your Personal Data as described below and as described elsewhere in this Privacy Policy.
-    
-    1. Third-Party Service Provides. We will share your Personal Data with third parties, such as vendors and service providers who provide assistance with billing, payment processing, fraud protection, credit risk reduction, marketing, data analytics support and service associated with the Site and delivery of purchased merchandise.
-    2. Compliance with laws and for other legitimate business purposes. We will share your Personal Data when we believe disclosure is necessary or required by law, regulation, to protect users, the integrity of the Site and to defend or exercise our legal rights. We may also disclose your Personal Data when it may be necessary for other legitimate and lawful purposes as reasonably determined by us.
-    3. Affiliates. We may share some or all of your Personal Data with our parent company, subsidiaries, joint ventures, or other company’s under a common control (“Affiliates”), in which case we will require our Affiliates to honor this Privacy Policy.
-    4. Corporate restructuring. We may share some or all of your Personal Data in connection with or during negotiation of any merger, financing, acquisition or dissolution transaction or proceeding involving sale, transfer, divestiture, or disclosure of all or a portion of our business or assets. In the event of an insolvency, bankruptcy, or receivership, Personal Data may also be transferred as a business asset. If another company acquires our Company, business, or assets, that company will possess the Personal Data collected by us and will assume the rights and obligations regarding your Personal Data as described in this Privacy Policy.
+For Nevada residents, please see our [Nevada Privacy Notice.](#nevada-privacy)
 
-5. #### NON-PERSONAL DATA WE COLLECT
-    
-    1. Information Collected by Our Servers. To make our Site more useful to you, our servers (which may be hosted by a third-party service provider) collect information from you, including your browser type, operating system, domain name, and/or a date/time stamp for your visit.
-    2. Log Files. As is true of most websites, we gather certain information automatically and store it in log files. This information includes IP addresses, browser type, Internet service provider (“ISP”), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information to analyze trends, administer the Site, track users’ movements around the Site, gather demographic information about our user base as a whole, and better tailor our Site to our users’ needs. For example, some of the information may be collected so that when you visit the Site again, it will recognize you and the information could then be used to serve advertisements and other information appropriate to your interests. Except as noted in this Privacy Policy, we do not link this automatically-collected data to Personal Data.
-    3. Cookies. Like many online services, we use cookies to collect information. A "cookie" is a small data file stored by your Web browser on your computer or mobile device \[hard drive\]. It allows us to recognize your computer (but not specifically who is using it) upon entering our site by associating the identification numbers in the cookie with other customer information you have provided us. That customer information is stored on our secured database. Some of the cookies we use are automatically deleted from your hard drive after the end of the browser session (session cookies). We also use cookies that remain on your hard drive for a certain period of time (between one day and five years, depending on the cookie) after the browser session. When you revisit our site, it will automatically recall the country and language you selected at your last visit to our website. These "persistent cookies" are stored on your hard drive and will be deleted by the browser after the given time. You also have the option to delete these cookies at any time through your browser. We may contract with third parties who may use cookies and web beacons and collect information on our behalf or provide services such as credit card processing, shipping, promotional services, or data management. These third parties are prohibited by our contract with them from sharing that information with anyone other than us or our other Customer Care Partners. We use third party retargeting and remarketing features on our website. These technologies allow us to address internet users who previously visited the site by personalized advertising on our partners' websites. For this purpose, the retargeting or remarketing provider will store a cookie on your hard drive. Based on the cookie technology, anonymous user details will be stored - for example, the advertising you received from us or clicked, the products you viewed, or whether you made a purchase. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive user experience. This type of information is collected to make our Site more useful to you and to tailor the experience with us to meet your special interests and needs. Please note that your opt-out status may be maintained by placement of an "opt-out" cookie on your device. If the cookie is removed or deleted, or you upgrade to a new version of your browser, change browsers or visit us from a different device, you will need to repeat this process to indicate your preference.
-    4. Pixel Tags. In addition, we use “Pixel Tags” (also referred to as clear Gifs, Web beacons, or Web bugs). Pixel Tags are tiny graphic images with a unique identifier, similar in function to cookies, that are used to track online movements of Web users. In contrast to Cookies, which are stored on a user’s computer hard drive, Pixel Tags are embedded invisibly in Web pages. Pixel Tags also allow us to send e-mail messages in a format users can read, and they tell us whether e-mails have been opened to ensure that we are sending only messages that are of interest to our users. We may use this information to reduce or eliminate messages sent to users. We do not tie the information gathered by Pixel Tags to Personal Data.
-    5. Flash LSOs. When we post videos, third parties may use local shared objects, known as “Flash Cookies,” to store your preferences for volume control or to personalize certain video features. Flash Cookies are different from browser Cookies because of the amount and type of data and how the data is stored. Cookie management tools provided by your browser will not remove Flash Cookies. To learn how to manage privacy and storage settings for Flash Cookies, click here: [macromedia settings manager](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
-    6. Google Analytics. We may use Google Analytics to help analyze how users use the Site. Google Analytics uses Cookies to collect information such as how often users visit the Site, what pages they visit, and what other sites they used prior to coming to our Site. We use the information we get from Google Analytics only to improve our Site. Google Analytics collects only the IP address assigned to you on the date you visit the Site, rather than your name or other personally identifying information. We do not combine the information generated through the use of Google Analytics with your Personal Data. Although Google Analytics plants a persistent Cookie on Your web browser to identify you as a unique user the next time you visit the Site and use Services, the Cookie cannot be used by anyone but Google. Google’s ability to use and share information collected by Google Analytics about your visits to our Site is governed by the Google Analytics’ Terms of Use and Privacy Policy.
-    7. Social Plugins. We use social plugins of several providers on our website in the respective standard plugin: (a) The Facebook ("Share") button of Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA. The button is marked with the Facebook logo and the addition ("Share"), (b) The social plugin of Twitter, operated by Twitter, Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, USA. This button is marked with the Twitter logo, and (c) The social plugin of Instagram, operated by Facebook Inc. When you access one of our websites containing any of the above plugins, the plugin provider may store a cookie in your browser. We have no control over the scope of the data collected by the provider by means of the plugin. The plugins may provide their hosts with information such as the date and time of your visit to our website(s), your IP address, or the type of browser you use. If you are logged on to your account with the plugin provider while visiting our websites, the provider may match this information and any data you enter to your user account, should you interact with the plugins. - for instance if you click the corresponding button on our website or post a comment. Your recommendations or comments may be displayed as information, together with your profile name and photograph, in the relevant provider's service - for instance in search results or in your user profile, or at other places on websites and in advertisements on the internet. Even if you are not a member of the relevant provider's service, the provider may under certain circumstances nevertheless obtain and store your IP address. For the purpose and scope of data collection and further processing and use of your data by the provider, as well as your related rights and opt-out possibilities to protect your privacy, please see the privacy policies of Facebook and Twitter. If you are a member of the relevant service and do not wish the service provider to collect data on you via our websites and connect them with the member data stored by the provider, you should log off your provider account before visiting our internet sites.
+If you are in the UK, EU, or other country outside of the United States, please see our [Non-US Privacy Notice.](#non-us-privacy)
 
-6. #### SMS/MMS Mobile Message Marketing Program
-    
-    We respect your privacy. We will only use the information you provide through the Program to transmit your mobile messages and respond to you, if necessary. This includes, but is not limited to, sharing information with platform providers, phone companies, and other vendors who assist us in the delivery of mobile messages. WE DO NOT SELL, RENT, LOAN, TRADE, LEASE, OR OTHERWISE TRANSFER FOR PROFIT ANY PHONE NUMBERS OR CUSTOMER INFORMATION COLLECTED THROUGH THE PROGRAM TO ANY THIRD PARTY. Nonetheless, We reserve the right at all times to disclose any information as necessary to satisfy any law, regulation or governmental request, to avoid liability, or to protect Our rights or property. When you complete forms online or otherwise provide Us information in connection with the Program, you agree to provide accurate, complete, and true information. You agree not to use a false or misleading name or a name that you are not authorized to use. If, in Our sole discretion, We believe that any such information is untrue, inaccurate, or incomplete, or you have opted into the Program for an ulterior purpose, We may refuse you access to the Program and pursue any appropriate legal remedies.
-    
-    California Civil Code Section 1798.83 permits Users of the Program that are California residents to request certain information regarding our disclosure of the information you provide through the Program to third parties for their direct marketing purposes. To make such a request, please contact us at support@stackcommerce.com.
+1\. What Type Of Information Do We Collect About You?
+-----------------------------------------------------
 
-7. #### California Privacy Rights
-    
-    The California Consumer Privacy Act (the “CCPA” or “Act”) provides California residents with specific rights regarding their personal information. It should be noted that personal information under the Act does not include publicly available information from governmental records and de-identified or aggregated consumer information. This section describes your rights under the Act and explains how to exercise those rights.
-    
-    **Right to Personal Information.**
-    
-    As required by the Act, we will provide you the following information upon a verifiable consumer request: (1) categories of Personally Identifiable Information that we collect; (2) categories of sources from which the Personally Identifiable Information is collected; (3) the purpose of collecting such Personally Identifiable Information; (4) the categories of third parties with whom we share Personally Identifiable Information; and (5) specific pieces of Personally Identifiable Information collected. If we sold or disclosed your Personally Identifiable Information for a business purpose in the preceding 12 months, we will provide (a) a list of the categories of personal information that was sold, and (b) a list of the categories of personal information that was disclosed for a business purpose.
-    
-    **Right to Request Deletion of Personal Information.**
-    
-    According to the Act, you may request that your Personally Identifiable Information be deleted. We will comply with this request once we are able to confirm that we received a verified consumer request. Please be advised that we may deny your request to delete your Personally Identifiable Information if we need to maintain your Personally Identifiable Information in order to (1) complete a transaction, provide service or goods, or perform a contract for which the Personally Identifiable Information is collected; (2) detect any security incidents, protect against malicious, deceptive, fraudulent, or illegal activity; or prosecute those responsible for these activities; (3) debug products and to identify and repair errors that impair functionality of the Service or Website; (4) exercise free speech, ensure the right of another consumer to exercise his or her right of free speech, or exercise another right provided by law; (5) comply with the California Electronic Communications Privacy Act (Cal. Penal Code § 1546 seq.); (6) engage in public or peer-reviewed scientific, historical, or statistical research in the public interest that adheres to all other applicable ethics and privacy laws, when the information’s deletion may likely render impossible or seriously impair the research’s achievement, if you previously provided informed consent; (7) enable solely internal uses that are reasonably aligned with consumer expectations based on your relationship with us; (8) comply with a legal obligation; or (9) otherwise use your Personally Identifiable Information, for internal use only, that is compatible with the context in you provide the Personally Identifiable Information.
-    
-    **Exercising your CCPA Rights.**
-    
-    To request (a) information about your Personally Identifiable Information collected or (b) deletion of your Personally Identifiable Information, please [click here](https://stacksocial.com/user?show=info-request-tab) to exercise your option, log into your account and make a request, or send a request by email to legal@stacksocial.com or standard mail to the address found below.
-    
-    **We can only respond to verifiable consumer requests.**
-    
-    A verifiable consumer request means a request that is made by consumer, by a consumer on behalf of a consumer’s minor child, or a person registered with the California Secretary of State that is authorized to act on your behalf. Your verifiable consumer request must include (1) sufficient information that allows us to verify your identity or provides sufficient authority to make the request; and (2) describes you request with enough detail to evaluate and respond to your request. We will not respond to any requests if we cannot verify your identity or authority to make the request and confirm that the personal information belongs to you. You are not required to create an account in order to make a verifiable consumer request. We are not required to comply with more than two verifiable requests from the same consumer in a 12-month period of time.
-    
-    **Please allow 45 days to complete your request.**
-    
-    We will inform you if more time is required to complete, but it should take no longer than 90 days. If you have an account, we may provide our response to your account. If you do not have an account, we will provide our response according to your requested format, namely, electronically or by mail. Please note that there is no charge for making a request, but we reserve the right to charge a fee if the request is deemed excessive, repetitive, or manifestly unfounded. We will notify you of any fee and reasons for such fee before completing your request.
-    
-    **Right to Opt-out of the Sale of Personal Information.**
-    
-    According to the Act, you have the right to opt-out of the sale of your Personally Identifiable Information. Should you wish to opt-out of such sale, please click in "Do Not Sell My Personal Information" link in the footer of the page or just [click here to opt-out](https://stacksocial.com/user?show=info-request-tab).
-    
-    **Non-Discrimination.**
-    
-    We will not discriminate against you because you exercised your rights under the CCPA including: (1) denying goods or services; (2) charging different prices or rates for goods or services through discounts, benefits, or imposing penalties; (3) providing different level of quality of goods or services; or (4) suggesting that you will receive a different price, rate, quality, or level of goods or services.
-    
+Depending on how you interact with the Website, our Services, the nature of your Communications, and how we may interact with certain third parties, we may collect the following information about you:
 
-8. #### CALIFORNIA DO NOT TRACK DISCLOSURE
-    
+* **Basic Identifying Information.** Information such as your full name, postal address, e-mail address, phone number, account name and password, username, and other similar identifiers.
+* **Device Identifier and other Unique Identifiers.** Information such as your device identifier, internet protocol (IP) address, cookies, beacons, pixel tags, mobile ad identifier, and other unique identifiers.
+* **Internet or Other Network Activity.** Information such as your browsing or search history, and other information regarding your interactions with our Websites, emails, and advertisements.
+* **Geolocation Data.** Information that permits us to determine your location so that we can determine the best products and services to offer you.
+* **Commercial Information.** Information such as the nature of the Services you’ve considered from us, and related information.
+* **User Content.** Information such as your Communications with us and any other content you provide, such as social media profiles, photographs of receipts, images, videos, survey responses, comments, product reviews, testimonials, and other content.
+* **Inferences.** Information such as inferences drawn from or created based on the information identified above.
 
-Do Not Track is a privacy preference that users can set in their web browsers. When a user turns on the Do Not Track signal, the browser sends a message to websites requesting them not to track the user. At this time, we do not recognize or respond to Do Not Track browser settings or signals and we will still receive information. As a result, we may still collect information about you and your internet activity, even if you have turned on the Do Not Track signal.
+2\. How Do We Collect Your Information?
+---------------------------------------
 
-It is possible that some or all of our third-party advertising partners or members of their affiliate network may participate in a consumer opt-out programs. To learn more about internet-based advertising and consumer opt-out programs go to http://aboutads.info/choices/ or http://www.networkadvertising.org/choices/. We do not operate or control these sites, and are not responsible for the opt-out choices available there.
+We collect your information in three ways: (1) directly from you when you use this Website, engage in our Services, and Communicate with us; (2) automatically using online technologies when you engage with the Website and our Services and Communications; and (3) from third parties.
 
-9. #### INTERNATIONAL TRANSFERS OF INFORMATION
-    
+* **Directly from you.** We collect information directly from you when you visit this Website, engage with our Services, or otherwise access our content, take a survey or a poll or enter a contest, engage in Communications with us, or sign-up to receive emails, text messages, or certain other Communications from us.
+* **Automatically Using Online Technologies.** When you visit this Website, open or click on emails we send you or related Communications, or interact with our advertisements, we or other third parties may automatically collect certain information about you using online tracking technologies such as cookies, pixels, web beacons, software developer kids, and related technologies. For more information, see [How Do We Use Cookies and Similar Online Tracking Technologies below.](#cookies-notice)
+* **From Third Parties.** We collect information from our third party partners, such as distributors, suppliers, other members, partners, data analytics providers, marketing or advertising providers, fraud prevention service providers, and vendors that provide services.
 
-Information, including information collected in the European Economic Area ("EEA") may be transferred, stored and processed by us and our service providers in the United States and other countries whose data protection laws may be different than the laws of your country. We will protect your Personal Data in accordance with this Privacy Policy wherever it is processed and take appropriate steps to protect the information in accordance with applicable laws.
+3\. Cookies and Related Online Tracking Technologies
+----------------------------------------------------
 
-If you live in the EEA, or a similar international area, you may have additional privacy rights available to you under applicable laws. We will process your requests in accordance with applicable data protection laws. If you would like to exercise any of the below rights, please contact privacy@stacksocial.com so that we may consider your request in accordance with applicable law:
+We and our third-party partners use cookies, pixels, web beacons, software development kits, and other similar online tracking technologies to gather information about you when you use this Website, interact with our Services, and engage with our Communications. These technologies may include payment processing, advertising, marketing, and related services. Others are used to maintain the security of our Website, manage your account, prevent crashes, fix bugs, save your preferences, assist with basic Website functions.Our Website uses Google Analytics for analytics purposes. You can learn more about Google Analytics by visiting [How Google uses information from sites or apps that use our services.](https://policies.google.com/technologies/partner-sites)
 
-* Right not to provide or withdraw consent: You have the right not to provide or withdraw your consent at any time.
-    
-* Right of access: You may have the right to access the Personal Data that you provided us.
-    
-* Right of erasure: You may have the right to the erasure of Personal Data that we hold about you.
-    
-* Right to object to processing: You may have the right to request that we stop processing your Personal Data and/or to stop sending you marketing communications.
-    
-* Right to rectification: You may have the right to require us to correct any of your Personal Data.
-    
+4\. How Do We Use Your Information?
+-----------------------------------
 
-10. #### PRIVACY RIGHTS AND DATA PROTECTION OFFICER
-    
+We use your information for a variety of purposes, including to:
 
-1. General. You may modify the information you have provided to us at any time through your Account. You can also opt-out of receiving marketing communications, deactivate, or delete your Account at any time.
-    
-2. Data Protection Officer. We have appointed a Data Protection Officer to ensure continued commitment to privacy and security practices. For further information please contact us at: privacy@stacksocial.com.
-    
+* **Provide our Website and Services to You.** We use your information to provide our Website and Services to you, including to: (1) create and manage your account; (2) allow you to use the Website and purchase products and Services; (3) facilitate your use of our Services; (4) answer your Communications; and (5) perform other related business functions.
+* **Communicate with You.** We use your information for marketing and advertising purposes, including sending marketing, advertising, and promotional communications to you by email, text message, or postal mail. We may also use your information to send you web push notifications, and use your information to show you advertisements for Services and on our Website.
+* **Market and Advertise.** Market and Advertise. We use your information for marketing and advertising purposes, including sending marketing, advertising, and promotional communications to you by email, text message, or postal mail. We may also use your information to send you web push notifications, and use your information to show you advertisements for
+* **Conduct Analytics and Personalization.** We use your information to conduct research and analytics, including to improve our Website and Services. We also use your information to understand your interaction with our Website, advertisements, Services, and our Communications with you. We further use your information to personalize your experience, save you time when you visit our Website and use our Services, better understand your needs, and provide personalized recommendations for our Services.
+* **Security and Fraud Prevention.** We use your information to detect, investigate, prevent, or take action regarding possible malicious, deceptive, fraudulent, or illegal activity, including fraudulent transactions. We also use your information to enforce our terms and procedures, prevent against security incidents, and prevent the harm to other users of our Services.
+* **Legal Obligations.** We use your information to comply with our legal and regulatory obligations, to establish and exercise our rights, and to defend against legal claims.
+* **Business Functions.** We use your information to support our core business functions, including to maintain records related to business management, loss prevent, collecting amounts owed, and identifying and repairing errors or problems in the Websites.
 
-11. #### INFORMATION SECURITY AND CONFIDENTIALITY
-    
+5\. How Do We Disclose Your Information?
+----------------------------------------
 
-We maintain (and requires its subcontractors and service providers to maintain) appropriate organizational and technical measures designed to protect the security and confidentiality of any information we process. However, no organizational or technical measures are 100% secure so you should take care when disclosing information online and act reasonably to protect yourself online.
+We may disclose or share your information with affiliated and non-affiliated third-parties, including in the following scenarios:
 
-12. #### CHILDREN'S PRIVACY
-    
+* **With your Consent.** We may disclose or share your information with your consent, which may be obtained in writing; online, through “click-through” agreements; when you accept the terms of use on our Website; when you accept the setting of cookies and related tracking technologies; orally, either in person or on the phone; or by other means.
+* **In a Business Transfer.** We may disclose or share your information as part of a corporate business transaction, such as a merger or acquisition, joint venture, corporate reorganization, financing, or sale of company assets, or in the unlikely event of insolvency, bankruptcy, or receivership, in which such information could be transferred to third parties as a business asset in the transaction or otherwise during related proceedings.
+* **To Non-Affiliated Third Parties.** We may disclose or share your information with certain non-affiliated third parties to facilitate your access and use of our Websites, our Services, to complete a transaction, and to provide us with certain business functions, including but not limited to sharing your information with partners, internet service providers, advertising networks, data analytics providers, governmental entities, operating systems and platforms, social media networks, and service providers who provide us a service (e.g., customer service, distribution, supply, auditing, marketing, shipping, debugging to identify and repair errors that impair existing intended functionality on our Website, and/or protecting against malicious, deceptive, fraudulent, or illegal activity). We may also disclose your information to third parties for their commercial purposes.
+* **For Legal Process And Protection.** We may disclose or share your information to satisfy any law, regulation, legal process, governmental request, or where we have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to: (1) enforce or apply our agreements; (2) protect our interests, property, or safety of others; (3) in connection with claims, disputes, or litigation; and (4) to protect our Websites and Services.
 
-The Site is a general audience site not directed at children under the age of 13.
+6\. How Do We Protect Your Information?
+---------------------------------------
 
-By using the Sites, you represent that you are at least eighteen years old and understand that you must be at least eighteen years old in order to create an account and purchase the goods or services advertised through the Site. We will promptly delete information associated with any account we obtain actual knowledge is associated with a registered user who is not at least eighteen years old.
+We take all commercially reasonable steps to ensure your information is protected in alignment with all applicable laws and regulations, as appropriate to the sensitivity of your information.
 
-13. #### UPDATES
-    
+7\. How Long Do We Keep Your Information?
+-----------------------------------------
 
-From time to time, this Privacy Policy will be updated in whole or in part, at which time the new date will be reflected above in the “Last Revised” section. The updated Privacy Policy will immediately replace and supersede any prior Agreements, unless otherwise noted. Accordingly, if you use the Site after an update is published, then you will unconditionally agree to be bound by the updated terms and policies.
+We keep your information for as long as is necessary in accordance with the purpose for which it was collected, other noticed purposes, our business needs, and our legal and regulatory obligations. If we dispose of your information, we will do so in a way that is secure and appropriate to the nature of the information subject to disposal.
 
-14. #### UNSUBSCRIBE
-    
+8\. Links To Third Party Sites
+------------------------------
 
-You will have an opportunity to unsubscribe to any emails or mailings by clicking on an "unsubscribe" hyperlink contained in promotional emails we send you. Even if you are removed from any such list, if you use the services provided through the Site, you will continue to receive email correspondence from us related to the services. Any opt-out by you is not deemed valid until processed by us. It is your obligation to verify that you have been opted-out. We will not be liable for problems with the opt-out procedures. Please note that any request to be removed from such mailing lists may take up to one (1) week to become effective. Even if you are removed from any such list, if you order online, we will send you an email confirming your order and may need to contact you by phone, email, or regular mail if we have questions about your order.
+Our Website and Services may contain links to third party websites and services. Please note that these links are provided for your convenience and information, and the websites and services may operate independently from us and have their own privacy policies or notices, which we strongly suggest you review.
 
-If you register for an Account on the Site, you may review and update your account information by logging in to your account with your username and password at www.stacksocial.com or by contacting customer service at support@stackcommerce.com.
+9\. Do Not Track
+----------------
 
-15. #### THIRD PARTY WEBSITES
-    
+Our Website may, from time to time, collect information about your online activities, over time and across our different websites. When you use our Website, third parties may also collect information about your online activities, over time and across different internet websites, online or cloud computing services, online applications, or mobile applications. Some browsers support a “Do Not Track” feature, which is intended to be a signal to websites that you do not wish to be tracked across different websites you visit. Our Websites do not currently change the way they operate based upon detection of a “Do Not Track” or similar signal.
 
-You may have found this Site through a Link located on a third-party website operated by another company or you may choose to click on a link on this Site to websites operated by third parties. For example, we may at times include links to various social media platforms on this Site, but know that if you interact with these social media tools through this Site, then your experience on those social media sites will be governed by the privacy and other policies of those sites and the privacy settings you have chosen on those sites will determine the degree to which your information is made public. In short, please be advised that the practices described in this Privacy Policy do not apply to information gathered through any website operated by other companies. We encourage you to read the privacy policies of each and every website that you visit to understand how they collect, use, secure, and share your information. Further, we encourage you to choose your privacy settings on those websites accordingly.
+10\. Your Rights
+----------------
 
-16. #### CONTACT INFORMATION
-    
+For individuals in California, please see our [California Privacy Notice](#california-privacy-notice) below.
 
-If you have any questions about this Privacy Policy please contact us at privacy@stacksocial.com. For customer service regarding an order please write, call, or e-mail our Customer Service Department at:
+For individuals in Virginia, Colorado, Connecticut, Utah, and Texas, please see our [Virginia, Colorado, Connecticut, Utah, and Texas Privacy Notice](#virginia-privacy-notice) section below.
 
-Customer Service Department  
-StackSocial, Inc.  
-Attn:  Legal Department  
-Re: CA Privacy Rights  
-21 Market Street  
-Venice, CA 90291  
-Telephone: (415) 335-6768  
-Mon. - Fri., 9am to 6pm PST  
-support@stackcommerce.com
+For individuals outside of the US, please see our [Non-US Resident Privacy Notice](#non-us-privacy) section below
+
+For all individuals, regardless of location, you have a right to stop receiving promotional e-mails or other related communications from us at any time by clicking on the “unsubscribe” link at the bottom of any promotional e-mail you receive from us.
+
+You also have the right to manage your preferences as it relates to cookies and related technologies by visiting our Website and exercising your choices.
+
+11\. California Privacy Notice
+------------------------------
+
+The following disclosures are made pursuant to the California Consumer Privacy Act, as amended by the California Privacy Rights Act and its implementing regulations (collectively, the **"CCPA"**).
+
+**Definitions**
+
+* **Personal information.** This is information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, to you or your household.
+* **Sensitive personal information.** This is information such as your social security number, driver’s license number, state identification card, passport number, account log-in and password, financial account and password, debit or credit card number and access code, precise geolocation information, race, ethnic origin, religious or philosophical beliefs, union membership, the content of your mail, email or texts other than those communications you have with us, genetic data, biometric information, health information, or information that concerns your sex life or sexual orientation.
+* **Sell, sale, or sold.** This means the selling, renting, releasing, disclosing, disseminating, making available, transferring, or otherwise communicating orally, in writing, or other means, your personal information to a third party for money or other valuable consideration.
+* **Share, shared, or sharing.** This means the sharing, renting, releasing, disclosing, disseminating, making available, transferring, or otherwise communicating orally, in writing, or other means, your personal information to a third party for cross-context behavioral advertising, whether or not for monetary or other valuable consideration.
+
+**Your Rights**
+
+You or an authorized agent you designate on your behalf may submit the individual requests outlined below. Upon receipt, we will take reasonable steps to verify you and your authorized agent’s identity prior to responding to the request, which may include in certain circumstances you signing a declaration under penalty of perjury. If an authorized agent is submitting a request on your behalf, you must submit a copy of: (1) a written authorization demonstrating you have authorized the agent to submit a request on your behalf; and (2) provide separate proof verifying your identity.
+
+* **Right to Know.** You have a have a right to request that we disclose, subject to certain exceptions, information concerning: (1) the categories of personal information we have collected from or about you; (2) the categories of sources from which we have collected that personal information, and the business or commercial purpose for the collection; (3) the categories of third parties with whom we have shared, sold, or disclosed your personal information, including the business or commercial purpose for said sharing, selling, or disclosure; and (4) specific pieces of your personal information, subject to appropriate exceptions.
+* **Right to Delete.** You have a right to request that we delete your personal information, subject to certain exceptions.
+* **Right to Correct.** You have a right to request that we correct your personal information, subject to certain exceptions.
+* **Right to Opt-Out of the Sale / Sharing.** To submit a request to “opt out” of the “sale” or “sharing” of your “personal information,” you may click the “Do Not Sell or Share My Personal Information” link in our website footer or in our cookie banner, or you may choose to enable online, where available, a universal tool that automatically communicates your opt-out preferences, such as the Global Privacy Control (“GPC”). We will process the GPC signal as a request to opt out. You may also send an e-mail to [privacy@stackcommerce.com](mailto:privacy@stackcommerce.com).
+* **Right to Non-Discrimination.** You have a right to exercise the above rights without being discriminated against under the CCPA.
+* **Exercising Your Rights.** To submit a request, you may send an e-mail to privacy@stackcommerce.com. You may also designate an authorized agent to submit a request on your behalf by sending an e-mail with written proof of such authorization to [privacy@stackcommerce.com](mailto:privacy@stackcommerce.com).
+* **Responding To Requests.** Once you have submitted your request, we will respond within the time frame permitted by applicable law.
+
+**Notice of Collection**
+
+* To learn more about the categories of personal information we collect about California residents, please see [What Type Of Information Do We Collect?](#information-collected) above.
+* For more information about how we use those categories of personal information, please see [How Do We Use Your Information?](#how-do-we-use-your-information) above.
+* For more information about how we collect categories of personal information, please see [How Do We Collect Your Information?](#how-we-collect-your-information) and [Cookies And Related Online Tracking Technologies](#cookies-notice) above.
+* To learn more about how we disclose categories of personal information, and the categories of third parties with whom we disclose such information, please see [How Do We Disclose Your Information?](#disclose-information-notice) above.
+* To learn more about how long we keep your information, please see [How Long Do We Keep Your Information?](#stored-information-duration) above.
+
+**Notice of Disclosure for a Business Purpose**
+
+To learn more about the categories personal information we have disclosed for a business purpose, and the categories of third parties with whom we’ve disclosed such information, please see [How Do We Disclose Your Information?](#disclose-information-notice) above.
+
+**Notice of Use of Sensitive Personal Information”**
+
+We “sell” and “share” your personal information through the use of certain third party tools on the Website, including those relating to analytics and advertising. Specifically, we make available certain of your personal information, online identifiers and other persistent online identifiers with advertising, analytics, and marketing partners that may be considered a “sale” or “sharing” of your personal information, as defined under California law. We may also sell your information to third parties for their own marketing purposes. We don’t knowingly sell or share the personal information or sensitive personal information of any California resident who is 16 years or younger.
+
+**Notice of Use of Sensitive Personal Information**
+
+We do not use California resident sensitive personal information for any purpose other than is permissible under the CCPA. Specifically, we do not use sensitive personal information of California residents to derive characteristics about California residents.
+
+12\. Virginia, Colorado, Connecticut, Utah, and Texas Privacy Notice
+--------------------------------------------------------------------
+
+The following disclosures are made pursuant to the Virginia Consumer Data Protection Act, Colorado Privacy Act, Connecticut Personal Data Privacy and Online Monitoring Act, Utah Consumer Privacy Act, and the Texas Data Privacy and Security Act, as amended from time to time.
+
+**Definitions**
+
+* **Personal data.** Information that is linked or reasonably linkable to an identified or identifiable individual.
+* **Sell, sale, or sold.** The exchange of personal data for monetary or other valuable consideration.
+* **Targeted advertising.** Displaying advertisements to a consumer where the advertisement is selected based on personal data obtained or inferred from that individual’s activities over time and across nonaffiliated Internet web sites or online applications to predict such individual’s preferences or interests.
+
+**Notice of Collection**
+
+To learn more about the categories of personal information we collect about you and how we use it, please see [What Information Do We Collect?](#information-collected) and [How Do We Use Your Information?](#how-do-we-use-your-information) To learn more about the categories of third parties with whom we may share your personal information, please see [How Do We Disclose Your Information?](#disclose-information-notice)
+
+**Your Rights**
+
+* **Right to Know and Access:** Right to Know and Access: You have a right to know whether we process your personal data, access such personal data subject to certain exceptions, and obtain a copy of the personal data in a portable format.
+* **Right to Delete.** Right to Delete. You have a right to request that we delete your personal information, subject to certain exceptions
+* **Right to Correct.** Right to Correct. You have a right to ask that we correct the personal information we have about you, subject to certain exceptions.
+* **Right to Opt-Out of the Sale or Targeted Advertising.** Our use of certain online tracking technologies may be considered a “sale” or “targeted advertising” under applicable law. To submit a request to “opt out” of the “sale” or use of your personal information for “targeted advertising”, you may click the “Your Privacy Choices” link in our website footer, or you may choose to enable online, where available, a universal tool that automatically communicates your opt-out preferences, such as the Global Privacy Control (“GPC”). We will process the GPC signal as a request to opt out. We may also sell your information to third parties for their commercial purposes. You can opt-out by sending an e-mail to [privacy@stackcommerce.com.](mailto:privacy@stackcommerce.com)
+* **Right to Non-Discrimination.** You have a right not to be discriminated against for the exercise of your rights described herein.
+* **Right to Appeal.** You have a right to appeal our denial of any request above. We will respond to your appeal within the timeframe required by law, and provide a written explanation in support of our response and provide additional information as required by law.
+
+Nevada Privacy Notice
+---------------------
+
+If you are a Nevada resident, you have the right to submit a request directing us not to make any sale of your personal information. Please send an email to [privacy@stackcommerce.com](mailto:privacy@stackcommerce.com) with “Nevada Opt-Out of Sale” in the subject line.
+
+Non-US Residents
+----------------
+
+**Data Controller**
+
+StackSocial, Inc., 73 Market Street, Venice, California, 90291
+
+**How Do We Use Your Personal Data?**
+
+Please see [How Do We Use Your Information?](https://stacksocial.com/how-do-we-use-your-information) above.
+
+**What is our lawful basis for processing your information?**
+
+We primarily use your information (which includes personal data under applicable law) to provide you with our Website and Services. Your personal data may also be used to comply with our legal obligations or to fulfill our legitimate interest, such as to personalize your experience, develop and improve our Website and Services, or to detect illegal activity. With your consent, we may also use your information to send you offers and promotions
+
+**Your Rights**
+
+You have a right to access the personal data we have processed about you, ask that certain of that data be removed (i.e., deleted), correct or change your personal data, or change your marketing preferences by withdrawing your consent at any time. To submit any of the requests below, please submit your request to privacy@stackcommerce.com. We may take steps to verify your identity by matching the information you provide with your request with the information we have on file about you. Depending on the sensitivity of the information at issue, we may utilize more stringent verification methods.
+
+**Lodging Complaints**
+
+You may have a right to lodge a complaint with your local Data Protection Supervisory Authority concerning our data practices. To receive information about your local Data Protection Supervisory Authority, [please contact us.](mailto:privacy@stackcommerce.com)
+
+13\. Children
+-------------
+
+Our Websites and Products are not intended for children under the age of 13. This includes any links to other websites that we provide for our convenience. We don’t knowingly collect the information of children under 13 for any reason.
+
+14\. Changes To Our Privacy Policy
+----------------------------------
+
+We may change this Policy from time to time. Any and all changes will be reflected on this page, and where appropriate provided in person or by another electronic method. The effective date will be stated at the top of this Policy. You should regularly check this page for any changes to this Policy.
+
+15\. Accessibility
+------------------
+
+If you require a copy of this Privacy Policy in an alternative format, please [Contact Us](mailto:privacy@stackcommerce.com).
+
+16\. Contact Us
+---------------
+
+[privacy@stackcommerce.com](mailto:privacy@stackcommerce.com)
 
 Your Cart
 
