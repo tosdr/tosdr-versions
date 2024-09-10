@@ -22,7 +22,7 @@ Welcome to the
 * Computing
 * Displays
 * Accessories
-* SmartThings
+* Discover Samsung Sale
 
 * Explore
 * Support
@@ -32,14 +32,14 @@ Search
 
 [Navigate to Cart](https://www.samsung.com/us/web/express/cart/)
 
-Log In
+Manage Account
 
 * [Sign in/Create Account](javascript:;)
 * [Why Create an Account?](https://www.samsung.com/us/samsung-account-benefits/)
 * [Track your orders](https://www.samsung.com/us/web/search-orders/)
 * [Business Account](https://www.samsung.com/us/business/account/login/)
 
-Open My Menu
+Manage Account
 
 * [](https://account.samsung.com/membership/contents/profile/profile-gate)
 * [My Orders](https://www.samsung.com/us/web/my-orders/)
@@ -128,7 +128,7 @@ SAMSUNG PRIVACY POLICY
 
 Samsung Electronics Co., Ltd. and its affiliates (referred to as “Samsung Electronics”, “Samsung”, or “we” in this Privacy Policy) know how important privacy is to our customers. This Privacy Policy applies to all of our Samsung devices and services where we process personal information, from mobile phones, tablets, TVs and home appliances, to the customer services and online services we provide on our Samsung website. We will refer to these devices and services as the “Services” in this Privacy Policy.
 
-It is important that you check back often for updates to the Privacy Policy. We may update this Privacy Policy periodically to reflect changes in our personal information practices with respect to the Services or changes in applicable law. We will post a notice on our website or on your device to notify you in advance of material changes to our Privacy Policy and indicate at the top of the Privacy Policy when it was most recently updated. The most current version of the Privacy Policy will always be available here: [https://account.samsung.com/membership/terms/privacypolicy.](https://account.samsung.com/membership/terms/privacypolicy)
+It is important that you check back often for updates to the Privacy Policy. We may update this Privacy Policy periodically to reflect changes in our personal information practices with respect to the Services or changes in applicable law. We will post a notice on our website or on your device to notify you in advance of material changes to our Privacy Policy and indicate at the top of the Privacy Policy when it was most recently updated. The most current version of the Privacy Policy will always be available here: [https://www.samsung.com/us/account/privacy-policy](https://www.samsung.com/us/account/privacy-policy/).
 
 In addition to this Privacy Policy, Samsung also provides specific privacy notices related to certain products and services, or specific jurisdictions. Where you have a Samsung Account, the Samsung Account Privacy Notice tells you how Samsung uses your personal information, which you can access here: [https://account.samsung.com/membership/policy/privacy.](https://account.samsung.com/membership/policy/privacy) You will be given further specific privacy notices before using Services for which Samsung uses your personal information. In the event of any deviation between the terms of this Privacy Policy and a specific privacy notice, you should refer to the specific privacy notice for details on how Samsung uses your personal information.
 
@@ -244,7 +244,7 @@ For European Economic Area (EEA), UK and Swiss residents only:
 
 We will comply with applicable European data protection law when transferring your personal information outside of Europe. We may transfer your personal information to countries which have been found to provide adequate protection of personal information by the relevant data protection authority, including the Republic of Korea.
 
-The measures we take to safeguard the transfer of your information include the use of standard contractual clauses as approved by the relevant data protection authority. To request more information or to obtain a copy of the standard contractual clauses we rely on, contact us. See the [CONTACT US](#pp_12) section.
+The measures we take to safeguard the transfer of your information include the use of standard contractual clauses as approved by the relevant data protection authority. To request more information or to obtain a copy of the standard contractual clauses we rely on, contact us. See the [CONTACT US](#pp_10) section.
 
 **WHAT ARE YOUR RIGHTS?**
 
@@ -353,7 +353,7 @@ Subject to applicable law, you may appeal our decision with respect to a request
 
 **California Residents**
 
-If you are a California consumer, for more information about your privacy rights, please see our California Consumer Privacy Statement at [www.samsung.com/us/account/privacy-policy/california](https://www.samsung.com/us/account/privacy-policy/www.samsung.com/us/account/privacy-policy/california).
+If you are a California consumer, for more information about your privacy rights, please see our California Consumer Privacy Statement at [https://www.samsung.com/us/account/privacy-policy/california/](https://www.samsung.com/us/account/privacy-policy/california/).
 
 **Washington Residents**
 
@@ -412,6 +412,7 @@ Footer Navigation
 * [Samsung Community](https://us.community.samsung.com/t5/Samsung-Community/ct-p/us)
 * [CEO’s Office](https://www.samsung.com/us/support/contact/email-the-ceo/)
 * [Give Your Opinion](https://survey3.medallia.com/?web&c=1&lng=en)
+* [Slide-in Electric Range Recall](https://www.samsung.com/us/support/range-knob-kit)
 
 ### Offers
 
