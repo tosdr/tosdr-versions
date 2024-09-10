@@ -14,7 +14,7 @@ Individuals & Patients
 
 Providers
 
-[Test Menu](https://www.labcorp.com/test-menu/search) [Provider Login](https://www.labcorplink.com/ui/#/login) [Education & Experts](https://www.labcorp.com/science) [Contact Us](https://www.labcorp.com/contact-labcorp-account-representative)
+[Test Menu](https://www.labcorp.com/test-menu/search) [Provider Login](https://link.labcorp.com/landing.html) [Education & Experts](https://www.labcorp.com/science) [Contact Us](https://www.labcorp.com/contact-labcorp-account-representative)
 
 [View Providers Page](https://www.labcorp.com/providers)
 
@@ -157,8 +157,7 @@ Close Menu
         [Labs & Appointments](https://www.labcorp.com/labs-and-appointments) Toggle Labs & Appointments
         
         * [Manage / Cancel an Appointment](https://express.labcorp.com/manage)
-        * [What to Bring to Your Lab Visit](https://www.labcorp.com/patients/labs-and-appointments/what-to-expect)
-        * [How to Prepare for Your Test](https://www.labcorp.com/patients/labs-and-appointments/test-preparation)
+        * [Prepare for Your Appointment](https://www.labcorp.com/patients/labs-and-appointments/what-to-expect)
         * [Lab Testing FAQ](https://www.labcorp.com/frequently-asked-questions/patient/labs-appointments/all)
         * [Rate Your Visit](https://www.labcorp.com/rate-your-lab-visit)
         
@@ -197,9 +196,7 @@ Close Menu
         
         [Clinical Trials](https://www.labcorp.com/trials) Toggle Clinical Trials
         
-        * [Oncology Trials](https://globaltrialsource.com/en-us/results?keyword=oncology)
-        * [COVID-19 Trials](https://covid-19clinicaltrialconnect.com/)
-        * [Search all Trials](https://www.labcorp.com/trials)
+        * [Learn about trials >>](https://www.labcorp.com/trials)
         
         Individuals & Patients
         
@@ -208,8 +205,7 @@ Close Menu
         [Labs & Appointments](https://www.labcorp.com/labs-and-appointments) Toggle Labs & Appointments
         
         * [Manage / Cancel an Appointment](https://express.labcorp.com/manage)
-        * [What to Bring to Your Lab Visit](https://www.labcorp.com/patients/labs-and-appointments/what-to-expect)
-        * [How to Prepare for Your Test](https://www.labcorp.com/patients/labs-and-appointments/test-preparation)
+        * [Prepare for Your Appointment](https://www.labcorp.com/patients/labs-and-appointments/what-to-expect)
         * [Lab Testing FAQ](https://www.labcorp.com/frequently-asked-questions/patient/labs-appointments/all)
         * [Rate Your Visit](https://www.labcorp.com/rate-your-lab-visit)
         
@@ -232,7 +228,7 @@ Close Menu
         
         * [Search Test Menu](https://www.labcorp.com/test-menu/search)
         * [New & Updated Tests](https://www.labcorp.com/test-menu/new-updated)
-        * [Provider Portal Login](https://www.labcorplink.com/ui/#/login)
+        * [Provider Portal Login](https://link.labcorp.com/landing)
         
         [Testing by Disease & Condition](https://www.labcorp.com/diseases) Toggle Testing by Disease & Condition
         
@@ -276,7 +272,7 @@ Close Menu
         
         * [Search Test Menu](https://www.labcorp.com/test-menu/search)
         * [New & Updated Tests](https://www.labcorp.com/test-menu/new-updated)
-        * [Provider Portal Login](https://www.labcorplink.com/ui/#/login)
+        * [Provider Portal Login](https://link.labcorp.com/landing)
         
 * [Health Systems & Organizations (Press Enter or Space to Go to Landing Page or Press Down to expand Menu)](https://www.labcorp.com/organizations) Health Systems & Organizations expand menu
     * [Health Systems & Organizations](https://www.labcorp.com/organizations)
@@ -310,10 +306,10 @@ Close Menu
         
         [Lab Data Integrations & Tools](https://www.labcorp.com/organizations/data) Toggle Lab Data Integrations & Tools
         
-        * [Technology & EMR/EHR Integrations](https://www.labcorp.com/provider-services/connectivity-solutions/diagnostic-assistant)
+        * [Technology & EMR/EHR Integrations](https://www.labcorp.com/organizations/data/diagnostic-assistant)
         * [Data Insights & Analysis](https://www.labcorp.com/organizations/data/insights-analysis)
         
-        [Employee Wellness & Testing](https://www.labcorp.com/organizations/employers) Toggle Employee Wellness & Testing
+        [Employee Wellness & Testing](https://www.labcorp.com/health-systems-organizations/employers) Toggle Employee Wellness & Testing
         
         * [Employee Biometric Screening](https://www.labcorp.com/organizations/employers/employee-biometric-screenings)
         * [Employee Health Coaching](https://www.labcorp.com/organizations/employers/employee-health-coaching)
@@ -327,10 +323,10 @@ Close Menu
         * [Public Health Services](https://www.cddmedical.com/BusinessSectors/PublicHealth)
         * [Department of Defense](https://www.cddmedical.com/BusinessSectors/USDepartmentOfDefense)
         
-        [Environmental Testing](https://drugdevelopment.labcorp.com/services/chemical-crop-protection.html) Toggle Environmental Testing
+        [Environmental Testing](https://www.labcorp.com/industries) Toggle Environmental Testing
         
-        * [Crop Protection Products](https://crop-protection.labcorp.com/)
-        * [Chemical Products](https://chemical.labcorp.com/)
+        * [Crop Protection Products](https://www.labcorp.com/industries/crop-protection)
+        * [Chemical Products](https://www.labcorp.com/industries/chemical)
         
         Health Systems & Organizations
         
@@ -382,7 +378,7 @@ Close Menu
         * [Cell & Gene Therapies](https://biopharma.labcorp.com/services/clinical-testing/precision-medicine-solutions/cell-and-gene-therapy.html)
         * [Companion Diagnostics](https://biopharma.labcorp.com/services/clinical-testing/precision-medicine-solutions/companion-diagnostics.html)
         * [Precision Medicine Products](https://biopharma.labcorp.com/clinical-testing/precision-medicine-solutions.html)
-        * [Medical Devices](https://medtech.labcorp.com/)
+        * [Medical Devices](https://www.labcorp.com/industries/device)
         * [more >](https://biopharma.labcorp.com/industry-solutions/by-product.html)
         
         [Partnering Solutions](https://biopharma.labcorp.com/services/consulting.html) Toggle Partnering Solutions
@@ -667,6 +663,13 @@ Labcorp
 * [Careers](https://careers.labcorp.com/global/en)
 * [Investors](https://ir.labcorp.com/)
 
+* [Go to the Labcorp Linkedin page](https://www.linkedin.com/company/labcorp/)
+* [![](/themes/custom/labcorp/images/twitterx-white.svg)Go to the Labcorp Twitter page](https://twitter.com/Labcorp)
+* [Go to the Labcorp Facebook page](https://www.facebook.com/Labcorp/)
+* [Go to the Labcorp YouTube page](https://www.youtube.com/c/LabcorpVideo)
+* [Go to the Labcorp Instagram Page](https://www.instagram.com/labcorp/)
+* [Go to the Labcorp Thread Page](https://www.threads.net/@labcorp)
+
 FAQs
 ----
 
@@ -697,12 +700,11 @@ Contact Us
 * [Provider](https://www.labcorp.com/help/contact-info-for-provider/provider-inquiry "Provider Contact")
 * [Biopharma](https://www.labcorp.com/content/labcorp/us/en/biopharma/contact.html)
 
-* [Go to the Labcorp Linkedin page](https://www.linkedin.com/company/labcorp/)
-* [![](/themes/custom/labcorp/images/twitterx-white.svg)Go to the Labcorp Twitter page](https://twitter.com/Labcorp)
-* [Go to the Labcorp Facebook page](https://www.facebook.com/Labcorp/)
-* [Go to the Labcorp YouTube page](https://www.youtube.com/c/LabcorpVideo)
-* [Go to the Labcorp Instagram Page](https://www.instagram.com/labcorp/)
-* [Go to the Labcorp Thread Page](https://www.threads.net/@labcorp)
+Email Preferences
+-----------------
+
+* [Provider](https://go.labcorp.com/preferencecenter)
+* [Biopharma](https://connect.labcorp.com/preference-center)
 
 Mobile Footer Menu
 
@@ -729,6 +731,9 @@ Mobile Footer Menu
     * [Patient](https://www.labcorp.com/help/contact-info-for-patient/patient-inquiry "Patient Contact")
     * [Provider](https://www.labcorp.com/help/contact-info-for-provider/provider-inquiry "Provider Contact")
     * [Biopharma](https://www.labcorp.com/content/labcorp/us/en/biopharma/contact.html)
+* [Email Preferences](#)
+    * [Provider](https://go.labcorp.com/preferencecenter)
+    * [Biopharma](https://connect.labcorp.com/preference-center)
 
 * [Labcorp on Linkedin](https://www.linkedin.com/company/labcorp/)
 * [![](/themes/custom/labcorp/images/twitterx-white.svg)Labcorp on Twitter](https://twitter.com/Labcorp)
