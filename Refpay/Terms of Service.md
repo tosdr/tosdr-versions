@@ -263,7 +263,8 @@ Main navigation
 Footer menu
 -----------
 
-* [Payor Agreement](http://arbitersports.com/payor-agreement)
+* [Payee Agreement](https://assets.arbitersports.com/email-assets/Payee%20Agreement.pdf "Payee Agreement")
+* [Payor Agreement](https://assets.arbitersports.com/email-assets/Payor%20Agreement.pdf "Payor Agreement")
 * [Privacy Policy](https://www.arbitersports.com/privacy)
 * [Terms & Conditions](https://www.arbitersports.com/terms-conditions)
 
