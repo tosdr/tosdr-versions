@@ -260,7 +260,7 @@ They provide valuable insights into site traffic, user behavior, and performance
 
 They gather data to provide customized ads. These cookies enable us to present you with relevant and engaging content.
 
-Manage Hide OK Allow Selected
+OK Allow Selected
 
 Products
 
