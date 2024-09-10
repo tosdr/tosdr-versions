@@ -19,6 +19,7 @@
     * [JWT, JWS, JWE, JWK, and JWA Implementations](https://openid.net/developers/jwt-jws-jwe-jwk-and-jwa-implementations/)
     * [Certified OpenID Connect Implementations](https://openid.net/developers/certified-openid-connect-implementations/)
     * [Uncertified OpenID Connect Implementations](https://openid.net/developers/uncertified-openid-connect-implementations/)
+    * [OpenID Federation Implementations](https://openid.net/developers/openid-federation-implementations/)
 * [CERTIFICATION](https://openid.net/certification/)
     * [OpenID Certification Frequently Asked Questions](https://openid.net/what-is-self-certification-faq/)
         * [About the OpenID Certified Mark](https://openid.net/mark/)
@@ -113,6 +114,7 @@ Menu
     * [JWT, JWS, JWE, JWK, and JWA Implementations](https://openid.net/developers/jwt-jws-jwe-jwk-and-jwa-implementations/)
     * [Certified OpenID Connect Implementations](https://openid.net/developers/certified-openid-connect-implementations/)
     * [Uncertified OpenID Connect Implementations](https://openid.net/developers/uncertified-openid-connect-implementations/)
+    * [OpenID Federation Implementations](https://openid.net/developers/openid-federation-implementations/)
 * [CERTIFICATION](https://openid.net/certification/)
     * [OpenID Certification Frequently Asked Questions](https://openid.net/what-is-self-certification-faq/)
         * [About the OpenID Certified Mark](https://openid.net/mark/)
@@ -332,7 +334,7 @@ The [National Chapters Policy](https://openid.net/foundation/national-chapters-p
 
 #### Privacy Policy
 
-This OpenID Foundation [Privacy Policy](https://openid.net/wp-content/uploads/2023/08/OIDF_Privacy-Policy_Final_2023-08-14.pdf) explains the data collection and usage practices of the OpenID Foundation with respect to personal data that we collect, store, use, transfer, and otherwise process. The OpenID Foundation [Privacy Policy](https://openid.net/wp-content/uploads/2023/08/OIDF_Privacy-Policy_Final_2023-08-14.pdf) adheres to the EU-U.S. DPF Principles with regard to personal data transferred from the European Union and the United Kingdom and the Swiss-U.S. DPF Principles with regard to personal data transferred from Switzerland per the Data Privacy Framework (DPF) Program: [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/). 
+This OpenID Foundation [Privacy Policy](https://openid.net/wp-content/uploads/2024/09/OIDF_Privacy-Policy_Final_2024-09-03.pdf) explains the data collection and usage practices of the OpenID Foundation with respect to personal data that we collect, store, use, transfer, and otherwise process. The OpenID Foundation [Privacy Policy](https://openid.net/wp-content/uploads/2024/09/OIDF_Privacy-Policy_Final_2024-09-03.pdf) complies with the EU-U.S. Data Privacy Framework and the UK Extension to the EU-U.S. DPF, and with the Swiss-U.S. Data Privacy Framework, as set forth at the U.S. Department of Commerce Data Privacy Framework (DPF) Program website: [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/). 
 
 #### Software Grant and Contribution License Agreements
 
@@ -368,6 +370,7 @@ The [Whitepaper Process](https://openid.net/wp-content/uploads/2023/10/OIDF_Whi
 * [About the Foundation](https://openid.net/foundation/)
 * [Board of Directors](https://openid.net/foundation/board/)
 * [Policies and Guidelines](https://openid.net/intellectual-property/policies/)
+* [Privacy Policy](https://openid.net/wp-content/uploads/2024/09/OIDF_Privacy-Policy_Final_2024-09-03.pdf)
 
 #### EXPLORE
 
