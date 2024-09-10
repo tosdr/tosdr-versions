@@ -57,7 +57,7 @@ About
     * [Multidisciplinary Programs](https://www.simonsfoundation.org/multidisciplinary-programs)
 * Funding
     * [Funding Opportunities](https://www.simonsfoundation.org/funding-opportunities)
-    * [Independence Awards](https://www.simonsfoundation.org/funding-opportunities/simons-foundation-independence-awards)
+    * [Fellows-to-Faculty](https://www.simonsfoundation.org/funding-opportunities/fellows-to-faculty)
     * [Policies and Procedures](https://www.simonsfoundation.org/funding-opportunities/policies-and-procedures)
     * [Award Instructions](https://www.simonsfoundation.org/funding-opportunities/policies-and-procedures?tab=award-instructions)
     * [Simons Award Manager (SAM) FAQs and Videos](https://www.simonsfoundation.org/funding-opportunities/simons-award-manager-sam-faq-and-instructional-videos)
@@ -682,7 +682,7 @@ Continue
                 * [Events](#)
                     
                     * [Events](https://www.simonsfoundation.org/flatiron/center-for-computational-quantum-physics/events)
-                    * [DMFT-QE Symposium](https://www.simonsfoundation.org/ccq-dmft-qe-symposium/)
+                    * [2024-2025 DMFT-QE Symposium](https://www.simonsfoundation.org/ccq-dmft-qe-symposium-344/)
                         
                     * [New York City Condensed Matter Physics](https://www.simonsfoundation.org/new-york-city-condensed-matter-physics-calendar/)
                         
@@ -782,9 +782,23 @@ Continue
     
 * [Funding](#)
     
+    [Funding](#)
+    
     * [Funding Opportunities](https://www.simonsfoundation.org/funding-opportunities/)
         
-    * [Independence Awards](https://www.simonsfoundation.org/funding-opportunities/simons-foundation-independence-awards/)
+    * [Fellows-to-Faculty](#)
+        
+        * [Fellows-to-Faculty](https://www.simonsfoundation.org/funding-opportunities/fellows-to-faculty/)
+        * [Fellows](https://www.simonsfoundation.org/funding-opportunities/fellows-to-faculty/fellows/)
+            
+        * [History](https://www.simonsfoundation.org/funding-opportunities/fellows-to-faculty/history/)
+            
+        * [Funding](https://www.simonsfoundation.org/funding-opportunities/fellows-to-faculty/funding/)
+            
+        * [Community](https://www.simonsfoundation.org/funding-opportunities/fellows-to-faculty/community/)
+            
+        * [Contact](https://www.simonsfoundation.org/funding-opportunities/fellows-to-faculty/contact/)
+            
         
     * [Policies and Procedures](https://www.simonsfoundation.org/funding-opportunities/policies-and-procedures/)
         
@@ -855,5 +869,3 @@ Continue
 [](#)
 
 [](#)
-
-We use cookies to analyze web traffic and to improve your browsing experience; full details are in our [privacy policy.](https://www.simonsfoundation.org/privacy-policy-online-publications) Please agree to accept cookies from our site.[AGREE](#)
