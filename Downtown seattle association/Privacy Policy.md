@@ -95,7 +95,7 @@ Mobile Navigation
     
     ###### [Member Directory](https://downtownseattle.org/membership/member-directory/)
     
-    ###### [Join Us](https://downtownseattle.org/membership/join-dsa/)
+    ###### [Join Us](https://downtownseattle.org/membership/join-us/)
     
     ###### [FAQs](https://downtownseattle.org/membership/faqs/)
     
@@ -303,7 +303,7 @@ Fax 206-625-9940
 3. [Corporate / Nonprofit Membership](https://downtownseattle.org/membership/corporate-nonprofit-membership/)
 4. [Resident Membership](https://downtownseattle.org/membership/resident-membership/)
 5. [Member Directory](https://downtownseattle.org/membership/member-directory/)
-6. [Join Us](https://downtownseattle.org/membership/join-dsa/)
+6. [Join Us](https://downtownseattle.org/membership/join-us/)
 7. [FAQs](https://downtownseattle.org/membership/faqs/)
 8. [Subscription Preferences](https://downtownseattle.org/membership/subscription-preferences/)
 9. Search for:  Search Search
@@ -329,3 +329,5 @@ Fax 206-625-9940
     
 
 Close Mobile Navigation
+
+MID Logo
