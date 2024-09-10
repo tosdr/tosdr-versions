@@ -10,7 +10,7 @@ Industry
 
 [Savings Calculator](https://www.span.io/calculator)[Mission & Careers](https://www.span.io/mission-careers)[News](https://www.span.io/news)[Support](https://support.span.io/hc/en-us/)[Legal](https://www.span.io/legal)
 
-[![SPAN logo](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/62d2cce4a73d906e168d3c3a_span-logo-r.svg)](https://www.span.io/)
+[![SPAN logo](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/62d2cce4a73d906e168d3c3a_span-logo-r.svg)](https://www.span.io/old-home-2)
 
 [Learn more
 
@@ -197,12 +197,12 @@ Individual results will vary.
   
 ^ PG&E | Service Upgrades for Electrification Retrofits Study Final Report, May, 2022
 
-[Home](https://www.span.io/)[Panel](https://www.span.io/panel)[Drive](https://www.span.io/drive)[App](https://www.span.io/app)[Installers](https://www.span.io/installers)[Mission & Careers](https://www.span.io/mission-careers)[News](https://www.span.io/news)
+[Home](https://www.span.io/old-home-2)[Panel](https://www.span.io/panel)[Drive](https://www.span.io/drive)[App](https://www.span.io/app)[Installers](https://www.span.io/installers)[Mission & Careers](https://www.span.io/mission-careers)[News](https://www.span.io/news)
 
 [Tech Portal](https://techportal.span.io/s/)[Support](https://support.span.io/hc/en-us/)[Terms of Service](https://www.span.io/terms-of-service)[Privacy Policy](https://www.span.io/privacy)[Legal](https://www.span.io/legal)
 
 [Instagram](https://www.instagram.com/get_span/)[LinkedIn](https://www.linkedin.com/company/spanio)[Youtube](https://www.youtube.com/channel/UClLe-YG5QZKFJAlJhwdYPGA)[Facebook](https://www.facebook.com/Span-100114435667344)[Twitter](https://twitter.com/span_io?lang=en)[TikTok](https://www.tiktok.com/@span.io)
 
-[![SPAN Logo white](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/639616396204a014699cb399_resources-logo-white.png)](https://www.span.io/)
+[![SPAN Logo white](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/639616396204a014699cb399_resources-logo-white.png)](https://www.span.io/old-home-2)
 
 ©2024 SPAN.io, Inc. All rights reserved.
