@@ -490,7 +490,7 @@ _While such categorization of Personal Information is mainly based on California
 
 * ### Internet or other electronic network activity information
     
-    **Personal Information collected or disclosed:** Cookies, Usage data, Various types of data as specified in the privacy policy of the service, Trackers, Email address, Camera permission, Social media accounts permission, Universally unique identifier (uuid), Data communicated while using the service
+    **Personal Information collected or disclosed:** Cookies, Usage Data, various types of Data as specified in the privacy policy of the service, Trackers, email address, Camera permission, Social media accounts permission, Universally unique identifier (UUID), Data communicated while using the service
     
     **Purposes:**
     
@@ -513,7 +513,7 @@ _While such categorization of Personal Information is mainly based on California
     
 * ### Identifiers
     
-    **Personal Information collected or disclosed:** Contact email, Various types of data as specified in the privacy policy of the service, Trackers, Email address, Usage data, Universally unique identifier (uuid), Data communicated while using the service
+    **Personal Information collected or disclosed:** Contact email, various types of Data as specified in the privacy policy of the service, Trackers, email address, Usage Data, Universally unique identifier (UUID), Data communicated while using the service
     
     **Purposes:**
     
