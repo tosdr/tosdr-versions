@@ -1,166 +1,144 @@
 [Skip to content](#main-content)
 
-Announcing The OpenZeppelin Ecosystem Stack: The Secure Environment for Builders in your Ecosystem.[Learn more details![Arrow Icon](https://www.openzeppelin.com/hubfs/raw_assets/public/oz_2022/images/section-previews/arrow-white.svg)](https://www.openzeppelin.com/ecosystems)
+[![OpenZeppelin](https://www.openzeppelin.com/hubfs/oz-nav.svg)](https://openzeppelin.com/) [![OpenZeppelin](https://www.openzeppelin.com/hubfs/oz-logo-white.svg)](https://openzeppelin.com/)
 
-[![OpenZeppelin](https://www.openzeppelin.com/hs-fs/hubfs/OZ_logo_color%20(3)-1.png?width=300&height=47&name=OZ_logo_color%20(3)-1.png "OpenZeppelin")](https://openzeppelin.com/)
+* [Products](#)
+    
+    Open Source Tools
+    
+     [![](https://www.openzeppelin.com/hubfs/contracts-library-nav.svg) ![](https://www.openzeppelin.com/hubfs/contracts-library-dark.svg)
+    
+    Contracts Library
+    
+    Secure smart contract templates](https://www.openzeppelin.com/solidity-contracts) [![](https://www.openzeppelin.com/hubfs/contracts-wizard-nav.svg) ![](https://www.openzeppelin.com/hubfs/wizard-dark.svg)
+    
+    Contracts Wizard
+    
+    Interactive smart contract generator](https://wizard.openzeppelin.com/) [![](https://www.openzeppelin.com/hubfs/upgrade-nav.svg) ![](https://www.openzeppelin.com/hubfs/upgrades-dark.svg)
+    
+    Upgrades Plugin
+    
+    Safe and easy smart contract upgrades](https://docs.openzeppelin.com/upgrades-plugins/1.x/)
+    
+    [Defender Cloud Services](https://www.openzeppelin.com/defender) [![](https://www.openzeppelin.com/hubfs/relayers-nav.svg) ![](https://www.openzeppelin.com/hubfs/relayers-dark.svg)
+    
+    Relayers
+    
+    Send reliable transactions via API](https://www.openzeppelin.com/defender#secure-operations) [![](https://www.openzeppelin.com/hubfs/monitor-nav.svg) ![](https://www.openzeppelin.com/hubfs/monitor-dark.svg)
+    
+    Monitor
+    
+    Gain visibility into your smart contracts](https://www.openzeppelin.com/defender#secure-operations) [![](https://www.openzeppelin.com/hubfs/actions-nav.svg) ![](https://www.openzeppelin.com/hubfs/actions-dark.svg)
+    
+    Actions
+    
+    Automate smart contract operations](https://www.openzeppelin.com/defender#actions) [![](https://www.openzeppelin.com/hubfs/access-control-nav.svg) ![](https://www.openzeppelin.com/hubfs/acces-control-dark.svg)
+    
+    Access Control
+    
+    Manage contract roles and permissions](https://access-manager.openzeppelin.com/explorer/11155111)
+    
+     [![](https://www.openzeppelin.com/hubfs/code-inspector-nav.svg) ![](https://www.openzeppelin.com/hubfs/code-inspector-dark.svg)
+    
+    Code Inspector
+    
+    Find and resolve smart contract vulnerabilities](https://www.openzeppelin.com/defender#secure-code) [![](https://www.openzeppelin.com/hubfs/deploy-nav.svg) ![](https://www.openzeppelin.com/hubfs/deploy-dark.svg)
+    
+    Deploy
+    
+    Launch and upgrade smart contracts safely](https://www.openzeppelin.com/defender#secure-deploy) [![](https://www.openzeppelin.com/hubfs/transaction-nav.svg) ![](https://www.openzeppelin.com/hubfs/transaction-proposals-dark.svg)
+    
+    Transaction Proposals
+    
+    Interactive transaction builder](https://www.openzeppelin.com/defender#secure-operations)
+    
+* [Services](#)
+    
+    Services
+    
+     [![](https://www.openzeppelin.com/hubfs/sa-nav.svg) ![](https://www.openzeppelin.com/hubfs/sa-nav-1.svg)
+    
+    Smart Contract Security Audit
+    
+    Industry standard for securing smart contracts](https://www.openzeppelin.com/security-audits) [![](https://www.openzeppelin.com/hubfs/er-nav.svg) ![](https://www.openzeppelin.com/hubfs/er-nav-1.svg)
+    
+    Emergency Response
+    
+    React with expertise and speed](https://www.openzeppelin.com/incident-response) [![](https://www.openzeppelin.com/hubfs/zkp-nav.svg) ![](https://www.openzeppelin.com/hubfs/zkp-nav-1.svg)
+    
+    ZKP Practice
+    
+    Scalability, Privacy, and Security](https://www.openzeppelin.com/zkp)
+    
+    Solutions
+    
+     [![](https://www.openzeppelin.com/hubfs/es-nav.svg) ![](https://www.openzeppelin.com/hubfs/es-nav-1.svg)
+    
+    Ecosystem Stack
+    
+    Developer acquisition, accelerated](https://www.openzeppelin.com/ecosystems)
+    
+* [Resources](#)
+    
+    Resources
+    
+     [![](https://www.openzeppelin.com/hubfs/docs-nav.svg) ![](https://www.openzeppelin.com/hubfs/docs-nav-1.svg)
+    
+    Documentation](https://docs.openzeppelin.com/) [![](https://www.openzeppelin.com/hubfs/blog-nav.svg) ![](https://www.openzeppelin.com/hubfs/blog-nav-1.svg)
+    
+    Blog](https://blog.openzeppelin.com/) [![](https://www.openzeppelin.com/hubfs/forum-nav.svg) ![](https://www.openzeppelin.com/hubfs/forum-nav-1.svg)
+    
+    Forum](https://forum.openzeppelin.com/) [![](https://www.openzeppelin.com/hubfs/ethernaut-nav.svg) ![](https://www.openzeppelin.com/hubfs/ethernaut-nav-1.svg)
+    
+    Ethernaut CTF](https://ethernaut.openzeppelin.com/)
+    
+    Company
+    
+    [About us](https://www.openzeppelin.com/about)[Careers](https://www.openzeppelin.com/jobs)[Security Center](https://contracts.openzeppelin.com/security)
+    
+* [Pricing](https://www.openzeppelin.com/pricing)
 
-* [Contracts Library _![more](https://www.openzeppelin.com/hubfs/Theme_2022/css/more.svg)_](#) 
+[Login](https://defender.openzeppelin.com/v2/#/auth/sign-in) [Talk to an Expert](https://www.openzeppelin.com/request?id=talk_to_an_expert-navbar) [Sign Up](https://defender.openzeppelin.com/v2/#/auth/sign-up?)
+
+* [Talk to an Expert](https://www.openzeppelin.com/request?id=talk_to_an_expert-navbar)
+* [Sign Up](https://defender.openzeppelin.com/v2/#/auth/sign-up?)
+* [Products](#)
     
-    * [Solidity Contracts Library](https://www.openzeppelin.com/contracts)
-    * [Cairo Contracts Library](https://docs.openzeppelin.com/contracts-cairo/)
-    * [Contracts Wizard](https://wizard.openzeppelin.com/)
-    * [Contract Upgrades](https://docs.openzeppelin.com/upgrades)
-    * [Access Manager Explorer](https://access-manager.openzeppelin.com/explorer/5)
+    * Open Source Tools
+    *  [![](https://www.openzeppelin.com/hubfs/contracts-library-mobile-dark.svg) ![](https://www.openzeppelin.com/hubfs/contracts-library-mobile.svg)Contracts Library](https://www.openzeppelin.com/solidity-contracts)
+    *  [![](https://www.openzeppelin.com/hubfs/wizard-mobile-dark.svg) ![](https://www.openzeppelin.com/hubfs/wizard-mobile.svg)Contracts Wizard](https://wizard.openzeppelin.com/)
+    *  [![](https://www.openzeppelin.com/hubfs/plugins-mobile-dark.svg) ![](https://www.openzeppelin.com/hubfs/plugins-mobile.svg)Upgrades Plugins](https://docs.openzeppelin.com/upgrades-plugins/1.x/)
+    * [Defender Cloud Services](https://www.openzeppelin.com/defender)
+    *  [![](https://www.openzeppelin.com/hubfs/relayers-mobile-dark.svg) ![](https://www.openzeppelin.com/hubfs/relayers-mobile.svg)Relayers](https://www.openzeppelin.com/defender#secure-operations)
+    *  [![](https://www.openzeppelin.com/hubfs/monitor-mobile-dark.svg) ![](https://www.openzeppelin.com/hubfs/monitor-mobile.svg)Monitor](https://www.openzeppelin.com/defender#secure-operations)
+    *  [![](https://www.openzeppelin.com/hubfs/actions-mobile-dark.svg) ![](https://www.openzeppelin.com/hubfs/actions-mobile.svg)Actions](https://www.openzeppelin.com/defender#actions)
+    *  [![](https://www.openzeppelin.com/hubfs/accescontrol-mobile-dark.svg) ![](https://www.openzeppelin.com/hubfs/accescontrol-mobile.svg)Access Control](https://access-manager.openzeppelin.com/explorer/11155111)
+    *  [![](https://www.openzeppelin.com/hubfs/inspector-mobile-dark.svg) ![](https://www.openzeppelin.com/hubfs/inspector-mobile.svg)Code Inspector](https://www.openzeppelin.com/defender#secure-code)
+    *  [![](https://www.openzeppelin.com/hubfs/deploy-mobile-dark.svg) ![](https://www.openzeppelin.com/hubfs/deploy-mobile.svg)Deploy](https://www.openzeppelin.com/defender#secure-deploy)
+    *  [![](https://www.openzeppelin.com/hubfs/transaction-mobile-dark.svg) ![](https://www.openzeppelin.com/hubfs/transaction-mobile.svg)Transaction Proposals](https://www.openzeppelin.com/defender#secure-operations)
     
-    * [Solidity Contracts Library](https://www.openzeppelin.com/contracts)
-    * [Cairo Contracts Library](https://docs.openzeppelin.com/contracts-cairo/)
-    * [Contracts Wizard](https://wizard.openzeppelin.com/)
-    * [Contract Upgrades](https://docs.openzeppelin.com/upgrades)
-    * [Access Manager Explorer](https://access-manager.openzeppelin.com/explorer/5)
+* [Services](#)
     
-    * [Solidity Contracts Library](https://www.openzeppelin.com/contracts)
-    * [Cairo Contracts Library](https://docs.openzeppelin.com/contracts-cairo/)
-    * [Contracts Wizard](https://wizard.openzeppelin.com/)
-    * [Contract Upgrades](https://docs.openzeppelin.com/upgrades)
-    * [Access Manager Explorer](https://access-manager.openzeppelin.com/explorer/5)
+    *  [![](https://www.openzeppelin.com/hubfs/sa-nav-mobile-dark.svg) ![](https://www.openzeppelin.com/hubfs/sa-nav-mobile.svg)Smart Contract Security Audit](https://www.openzeppelin.com/security-audits)
+    *  [![](https://www.openzeppelin.com/hubfs/er-nav-mobile-dark.svg) ![](https://www.openzeppelin.com/hubfs/er-nav-mobile.svg)Emergency Response](https://www.openzeppelin.com/incident-response)
+    *  [![](https://www.openzeppelin.com/hubfs/zkp-nav-mobile-dark.svg) ![](https://www.openzeppelin.com/hubfs/zkp-nav-mobile.svg)ZKP Practice](https://www.openzeppelin.com/zkp)
+    * Solutions
+    *  [![](https://www.openzeppelin.com/hubfs/es-nav-mobile-dark.svg) ![](https://www.openzeppelin.com/hubfs/es-nav-mobile.svg)Ecosystem Stack](https://www.openzeppelin.com/ecosystems)
     
-    * [Solidity Contracts Library](https://www.openzeppelin.com/contracts)
-    * [Cairo Contracts Library](https://docs.openzeppelin.com/contracts-cairo/)
-    * [Contracts Wizard](https://wizard.openzeppelin.com/)
-    * [Contract Upgrades](https://docs.openzeppelin.com/upgrades)
-    * [Access Manager Explorer](https://access-manager.openzeppelin.com/explorer/5)
+* [Resources](#)
     
-    * [Solidity Contracts Library](https://www.openzeppelin.com/contracts)
-    * [Cairo Contracts Library](https://docs.openzeppelin.com/contracts-cairo/)
-    * [Contracts Wizard](https://wizard.openzeppelin.com/)
-    * [Contract Upgrades](https://docs.openzeppelin.com/upgrades)
-    * [Access Manager Explorer](https://access-manager.openzeppelin.com/explorer/5)
+    *  [![](https://www.openzeppelin.com/hubfs/docs-nav-mobile-dark.svg) ![](https://www.openzeppelin.com/hubfs/docs-nav-mobile.svg)Documentation](https://docs.openzeppelin.com/)
+    *  [![](https://www.openzeppelin.com/hubfs/blog-nav-mobile-dark.svg) ![](https://www.openzeppelin.com/hubfs/blog-nav-mobile.svg)Blog](https://blog.openzeppelin.com/)
+    *  [![](https://www.openzeppelin.com/hubfs/forum-nav-mobile-dark.svg) ![](https://www.openzeppelin.com/hubfs/forum-nav-mobile.svg)Forum](https://forum.openzeppelin.com/)
+    *  [![](https://www.openzeppelin.com/hubfs/ethernaut-nav-mobile-dark.svg) ![](https://www.openzeppelin.com/hubfs/ethernaut-nav-mobile.svg)Ethernaut CTF](https://ethernaut.openzeppelin.com/)
     
-* [Defender Platform _![more](https://www.openzeppelin.com/hubfs/Theme_2022/css/more.svg)_](#) 
-    
-    * [Secure Code & Audit](https://www.openzeppelin.com/#secure-code)
-    * [Secure Deploy](https://www.openzeppelin.com/#secure-deploy)
-    * [Threat Monitoring](https://www.openzeppelin.com/#secure-operations)
-    * [Incident Response](https://www.openzeppelin.com/#secure-operations)
-    * [Operation and Automation](https://www.openzeppelin.com/#secure-operations)
-    * [Pricing](https://www.openzeppelin.com/pricing)
-    
-    * [Secure Code & Audit](https://www.openzeppelin.com/#secure-code)
-    * [Secure Deploy](https://www.openzeppelin.com/#secure-deploy)
-    * [Threat Monitoring](https://www.openzeppelin.com/#secure-operations)
-    * [Incident Response](https://www.openzeppelin.com/#secure-operations)
-    * [Operation and Automation](https://www.openzeppelin.com/#secure-operations)
-    * [Pricing](https://www.openzeppelin.com/pricing)
-    
-    * [Secure Code & Audit](https://www.openzeppelin.com/#secure-code)
-    * [Secure Deploy](https://www.openzeppelin.com/#secure-deploy)
-    * [Threat Monitoring](https://www.openzeppelin.com/#secure-operations)
-    * [Incident Response](https://www.openzeppelin.com/#secure-operations)
-    * [Operation and Automation](https://www.openzeppelin.com/#secure-operations)
-    * [Pricing](https://www.openzeppelin.com/pricing)
-    
-    * [Secure Code & Audit](https://www.openzeppelin.com/#secure-code)
-    * [Secure Deploy](https://www.openzeppelin.com/#secure-deploy)
-    * [Threat Monitoring](https://www.openzeppelin.com/#secure-operations)
-    * [Incident Response](https://www.openzeppelin.com/#secure-operations)
-    * [Operation and Automation](https://www.openzeppelin.com/#secure-operations)
-    * [Pricing](https://www.openzeppelin.com/pricing)
-    
-    * [Secure Code & Audit](https://www.openzeppelin.com/#secure-code)
-    * [Secure Deploy](https://www.openzeppelin.com/#secure-deploy)
-    * [Threat Monitoring](https://www.openzeppelin.com/#secure-operations)
-    * [Incident Response](https://www.openzeppelin.com/#secure-operations)
-    * [Operation and Automation](https://www.openzeppelin.com/#secure-operations)
-    * [Pricing](https://www.openzeppelin.com/pricing)
-    
-    * [Secure Code & Audit](https://www.openzeppelin.com/#secure-code)
-    * [Secure Deploy](https://www.openzeppelin.com/#secure-deploy)
-    * [Threat Monitoring](https://www.openzeppelin.com/#secure-operations)
-    * [Incident Response](https://www.openzeppelin.com/#secure-operations)
-    * [Operation and Automation](https://www.openzeppelin.com/#secure-operations)
-    * [Pricing](https://www.openzeppelin.com/pricing)
-    
-* [Services _![more](https://www.openzeppelin.com/hubfs/Theme_2022/css/more.svg)_](#) 
-    
-    * [Smart Contract Security Audit](https://www.openzeppelin.com/security-audits)
-    * [Incident Response](https://www.openzeppelin.com/incident-response)
-    * [Zero Knowledge Proof Practice](https://www.openzeppelin.com/zkp)
-    * [Ecosystem Stack](https://www.openzeppelin.com/ecosystems)
-    
-    * [Smart Contract Security Audit](https://www.openzeppelin.com/security-audits)
-    * [Incident Response](https://www.openzeppelin.com/incident-response)
-    * [Zero Knowledge Proof Practice](https://www.openzeppelin.com/zkp)
-    * [Ecosystem Stack](https://www.openzeppelin.com/ecosystems)
-    
-    * [Smart Contract Security Audit](https://www.openzeppelin.com/security-audits)
-    * [Incident Response](https://www.openzeppelin.com/incident-response)
-    * [Zero Knowledge Proof Practice](https://www.openzeppelin.com/zkp)
-    * [Ecosystem Stack](https://www.openzeppelin.com/ecosystems)
-    
-    * [Smart Contract Security Audit](https://www.openzeppelin.com/security-audits)
-    * [Incident Response](https://www.openzeppelin.com/incident-response)
-    * [Zero Knowledge Proof Practice](https://www.openzeppelin.com/zkp)
-    * [Ecosystem Stack](https://www.openzeppelin.com/ecosystems)
-    
-* [Learn _![more](https://www.openzeppelin.com/hubfs/Theme_2022/css/more.svg)_](#) 
-    
-    * [Docs](https://docs.openzeppelin.com/)
-    * [Ethernaut CTF](https://ethernaut.openzeppelin.com/)
-    * [Blog](https://blog.openzeppelin.com/)
-    
-    * [Docs](https://docs.openzeppelin.com/)
-    * [Ethernaut CTF](https://ethernaut.openzeppelin.com/)
-    * [Blog](https://blog.openzeppelin.com/)
-    
-    * [Docs](https://docs.openzeppelin.com/)
-    * [Ethernaut CTF](https://ethernaut.openzeppelin.com/)
-    * [Blog](https://blog.openzeppelin.com/)
-    
-* [Company _![more](https://www.openzeppelin.com/hubfs/Theme_2022/css/more.svg)_](#) 
+* [Company](#)
     
     * [About us](https://www.openzeppelin.com/about)
-    * [Jobs](https://www.openzeppelin.com/jobs)
-    * [Blog](https://blog.openzeppelin.com/)
+    * [Careers](https://www.openzeppelin.com/jobs)
+    * [Security Center](https://contracts.openzeppelin.com/security)
     
-    * [About us](https://www.openzeppelin.com/about)
-    * [Jobs](https://www.openzeppelin.com/jobs)
-    * [Blog](https://blog.openzeppelin.com/)
-    
-    * [About us](https://www.openzeppelin.com/about)
-    * [Jobs](https://www.openzeppelin.com/jobs)
-    * [Blog](https://blog.openzeppelin.com/)
-    
-
-[Login](http://defender.openzeppelin.com/v2) [Sign Up to Defender](https://defender.openzeppelin.com/v2/#/auth/sign-up)
-
-* Contracts Library Contracts Library Contracts Library Contracts Library Contracts Library [Contracts Library](#)
-    * [Solidity Contracts Library](https://www.openzeppelin.com/contracts)
-    * [Cairo Contracts Library](https://docs.openzeppelin.com/contracts-cairo/)
-    * [Contracts Wizard](https://wizard.openzeppelin.com/)
-    * [Contract Upgrades](https://docs.openzeppelin.com/upgrades)
-    * [Access Manager Explorer](https://access-manager.openzeppelin.com/explorer/5)
-* Defender Platform Defender Platform Defender Platform Defender Platform Defender Platform Defender Platform [Defender Platform](#)
-    * [Secure Code & Audit](https://www.openzeppelin.com/#secure-code)
-    * [Secure Deploy](https://www.openzeppelin.com/#secure-deploy)
-    * [Threat Monitoring](https://www.openzeppelin.com/#secure-operations)
-    * [Incident Response](https://www.openzeppelin.com/#secure-operations)
-    * [Operation and Automation](https://www.openzeppelin.com/#secure-operations)
-    * [Pricing](https://www.openzeppelin.com/pricing)
-* Services Services Services Services [Services](#)
-    * [Smart Contract Security Audit](https://www.openzeppelin.com/security-audits)
-    * [Incident Response](https://www.openzeppelin.com/incident-response)
-    * [Zero Knowledge Proof Practice](https://www.openzeppelin.com/zkp)
-    * [Ecosystem Stack](https://www.openzeppelin.com/ecosystems)
-* Learn Learn Learn [Learn](#)
-    * [Docs](https://docs.openzeppelin.com/)
-    * [Ethernaut CTF](https://ethernaut.openzeppelin.com/)
-    * [Blog](https://blog.openzeppelin.com/)
-* Company Company Company [Company](#)
-    * [About us](https://www.openzeppelin.com/about)
-    * [Jobs](https://www.openzeppelin.com/jobs)
-    * [Blog](https://blog.openzeppelin.com/)
-* [Login](http://defender.openzeppelin.com/v2)
-* [Sign Up to Defender](https://defender.openzeppelin.com/v2/#/auth/sign-up)
+* [Pricing](https://www.openzeppelin.com/pricing)
 
 Terms of Service
 ================
@@ -363,46 +341,38 @@ You agree to indemnify and hold harmless OpenZeppelin and its officers, director
 15.9. Entire Agreement.  These Terms (which includes each Order) is the entire agreement between you and OpenZeppelin related to your use of the Services and supersedes any prior or contemporaneous agreements regarding its subject matter. If you have another valid contractual agreement for the purchase and use of OpenZeppelin products and services, these Terms govern your rights to use any other OpenZeppelin products and services that are not explicitly covered by such separate agreement(s).   
   
 
-![OpenZeppelin](https://www.openzeppelin.com/hubfs/raw_assets/public/oz_2022/images/homepage/openzeppelin_logo.svg)
+[![Openzeppelin](https://www.openzeppelin.com/hubfs/iso-openzeppelin.svg)](https://www.openzeppelin.com/)
 
-### [Contracts Library](#)
+[![Openzeppelin](https://www.openzeppelin.com/hubfs/iso-openzeppelin.svg)](https://www.openzeppelin.com/)
 
-* [Solidity Contracts Library](https://www.openzeppelin.com/contracts)
-* [Cairo Contracts Library](https://docs.openzeppelin.com/contracts-cairo/)
+[](https://github.com/openzeppelin)[](https://twitter.com/OpenZeppelin)
+
+[Privacy Policy](https://www.openzeppelin.com/privacy) ©
+
+Products
+
+* [Contracts Library](https://www.openzeppelin.com/solidity-contracts)
 * [Contracts Wizard](https://wizard.openzeppelin.com/)
-* [Contract Upgrades](https://docs.openzeppelin.com/upgrades)
-* [Access Manager Explorer](https://access-manager.openzeppelin.com/explorer/5)
+* [Upgrade Plugins](https://docs.openzeppelin.com/upgrades-plugins/1.x/)
+* [Defender Cloud Services](https://www.openzeppelin.com/defender)
 
-### [Defender Platform](#)
-
-* [Secure Code & Audit](https://www.openzeppelin.com/#secure-code)
-* [Secure Deploy](https://www.openzeppelin.com/#secure-deploy)
-* [Threat Monitoring](https://www.openzeppelin.com/#secure-operations)
-* [Incident Response](https://www.openzeppelin.com/#secure-operations)
-* [Operation and Automation](https://www.openzeppelin.com/#secure-operations)
-* [Pricing](https://www.openzeppelin.com/pricing)
-
-### [Services](#)
+Services
 
 * [Smart Contract Security Audit](https://www.openzeppelin.com/security-audits)
-* [Incident Response](https://www.openzeppelin.com/incident-response)
-* [Zero Knowledge Proof Practice](https://www.openzeppelin.com/zkp)
+* [Emergency Response](https://www.openzeppelin.com/incident-response)
+* [ZKP Practice](https://www.openzeppelin.com/zkp)
 * [Ecosystem Stack](https://www.openzeppelin.com/ecosystems)
 
-### [Learn](#)
+Resources
 
-* [Docs](https://docs.openzeppelin.com/)
-* [Ethernaut CTF](https://ethernaut.openzeppelin.com/)
+* [Documentation](https://docs.openzeppelin.com/)
 * [Blog](https://blog.openzeppelin.com/)
+* [Forum](https://forum.openzeppelin.com/)
+* [Ethernaut CTF](https://ethernaut.openzeppelin.com/)
 
-### [Company](#)
+Company
 
 * [About us](https://www.openzeppelin.com/about)
-* [Jobs](https://www.openzeppelin.com/jobs)
-* [Blog](https://blog.openzeppelin.com/)
-* [Trust](https://trust.openzeppelin.com/)
+* [Careers](https://www.openzeppelin.com/jobs)
 * [Brand Kit](https://www.openzeppelin.com/brand-kit)
-
-### [Docs](https://docs.openzeppelin.com/)
-
-© Zeppelin Group Limited 2024 [Privacy](https://openzeppelin.com/privacy) [Terms of Service](https://openzeppelin.com/tos) [Service Level Agreement Defender](https://www.openzeppelin.com/service-level-agreement)
+* [Trust](https://trust.openzeppelin.com/)
