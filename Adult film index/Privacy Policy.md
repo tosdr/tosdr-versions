@@ -6,8 +6,6 @@
 
 Loading...
 
-<a href='https://revive.laivue.com/delivery/ck.php?n=a36c370d&amp;cb=7234862378' target='\_blank'><img src='https://revive.laivue.com/delivery/avw.php?zoneid=12&amp;cb=7234862378&amp;n=a36c370d' border='0' alt='' /></a> <a href='https://revive.laivue.com/delivery/ck.php?n=a077a95a&amp;cb=28374233' target='\_blank'><img src='https://revive.laivue.com/delivery/avw.php?zoneid=13&amp;cb=28374233&amp;n=a077a95a' border='0' alt='' /></a>
-
 Terms of Service & Privacy Policy
 =================================
 
@@ -32,4 +30,4 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 **Adult Film Index** © Copyright 2024. All rights reserved. | [Terms of Service](https://adultfilmindex.com/terms) | [Privacy Policy](https://adultfilmindex.com/terms)  
 Find a mistake on our data? Please [report it](https://adultfilmindex.com/about). | [Advertise here](https://trafokit.com/i884.info)
 
-[Porn Pics & Image Galleries](https://pics-x.com/)  |  [FappTime](https://fapptime.com/)  |   [Mature Sex Doll](https://www.hxdoll.com/product-tag/mature-sex-doll/)  |   [Mature Real Doll](https://www.favdoll.com/milf-sex-dolls/)  |   [SD AI Hentai Images](https://sdhentai.com/)  |   [XXX](https://www.freepornvideo.sex/)
+[Porn Pics & Image Galleries](https://pics-x.com/)  |  [FappTime](https://fapptime.com/)  |   [Mature Sex Doll](https://www.hxdoll.com/product-tag/mature-sex-doll/)  |   [Mature Real Doll](https://www.favdoll.com/)  |   [SD AI Hentai Images](https://sdhentai.com/)  |   [XXX](https://www.freepornvideo.sex/)
