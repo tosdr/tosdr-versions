@@ -91,7 +91,6 @@
     
 * [Students](https://www.peta.org/students/ "Students")
     
-    * [Students Opposing Speciesism](https://sos.peta.org/ "Students Opposing Speciesism")
     * [peta2](https://www.peta2.com/ "peta2")
     * [PETA Kids](https://www.petakids.com/ "PETA Kids")
     * [TeachKind](https://www.peta.org/teachkind/ "TeachKind")
@@ -117,7 +116,7 @@
     * [Intern](https://www.peta.org/about-peta/intern-at-peta/ "Intern")
     * [FAQ](https://www.peta.org/about-peta/faq/ "FAQ")
     * [Contact Us](https://www.peta.org/about-peta/contact-peta/ "Contact Us")
-    * [PETA Global](https://www.peta.org/magazine/issue-2-spring-2024/ "PETA Global")
+    * [PETA Global](https://www.peta.org/magazine/issue-3-summer-2024/ "PETA Global")
     
 * [Donate Now](https://headlines.peta.org/donate/?en_txn7=Navigation::top-donate-now-button "Donate Now")
     
@@ -179,7 +178,6 @@
     
 * [Students](https://www.peta.org/students/ "Students")
     
-    * [Students Opposing Speciesism](https://sos.peta.org/ "Students Opposing Speciesism")
     * [peta2](https://www.peta2.com/ "peta2")
     * [PETA Kids](https://www.petakids.com/ "PETA Kids")
     * [TeachKind](https://www.peta.org/teachkind/ "TeachKind")
@@ -205,7 +203,7 @@
     * [Intern](https://www.peta.org/about-peta/intern-at-peta/ "Intern")
     * [FAQ](https://www.peta.org/about-peta/faq/ "FAQ")
     * [Contact Us](https://www.peta.org/about-peta/contact-peta/ "Contact Us")
-    * [PETA Global](https://www.peta.org/magazine/issue-2-spring-2024/ "PETA Global")
+    * [PETA Global](https://www.peta.org/magazine/issue-3-summer-2024/ "PETA Global")
     
 * [Donate Now](https://headlines.peta.org/donate/?en_txn7=Navigation::top-donate-now-button "Donate Now")
     
@@ -217,8 +215,6 @@
     * [Gifts in Wills](https://legacy.peta.org/?en_txn7=Navigation%3A%3ADonation%20SubnavigationPETAorg-Support-PETA-Dropdown-Monthly&supporter.appealCode=IXXXWBXXXXG "Your Legacy for Animals")
     
 
-[Next Article »](https://www.peta.org/about-peta/learn-about-peta/website-policies/subscribe-to-enews/personalize-enews-ty/)
-
 * [About](https://www.peta.org/about-peta/ "About")
 * [Our Story](https://www.peta.org/about-peta/learn-about-peta/ "Our Story")
 * [Our Views](https://www.peta.org/about-peta/why-peta/ "Our Views")
@@ -229,7 +225,7 @@
 * [Intern](https://www.peta.org/about-peta/intern-at-peta/ "Intern")
 * [FAQ](https://www.peta.org/about-peta/faq/ "FAQ")
 * [Contact Us](https://www.peta.org/about-peta/contact-peta/ "Contact Us")
-* [PETA Global](https://www.peta.org/magazine/issue-2-spring-2024/ "PETA Global")
+* [PETA Global](https://www.peta.org/magazine/issue-3-summer-2024/ "PETA Global")
 
 Terms and Conditions
 ====================
@@ -269,9 +265,9 @@ E-Mail Address
 
 Sign me up for the following e-mail:
 
- Membership Updates PETA E-News
+ Membership Updates PETA News
 
-Current subscribers: You will continue to receive e-mails unless you explicitly [opt out here](https://support.peta.org/page/53017/data/1).
+Current subscribers: You will continue to receive e-mail unless you explicitly opt out by clicking [here](https://support.peta.org/page/921/action/1).
 
 By submitting this form, you’re acknowledging that you have read and agree to our [privacy policy](https://www.peta.org/about-peta/learn-about-peta/website-policies/privacy/) and agree to receive e-mails from us.
 
@@ -332,7 +328,7 @@ Sign me up for the following e-mail:
 
  Membership Updates PETA News PETA Living
 
-Current subscribers: You will continue to receive e-mails unless you explicitly [opt out here](https://support.peta.org/page/53017/data/1).
+Current subscribers: You will continue to receive e-mail unless you explicitly opt out by clicking [here](https://support.peta.org/page/921/action/1).
 
 By submitting this form, you’re acknowledging that you have read and agree to our [privacy policy](https://www.peta.org/about-peta/learn-about-peta/website-policies/privacy/) and agree to receive e-mails from us.
 
@@ -346,19 +342,19 @@ Sign me up for the following e-mail:
 
  Membership Updates PETA News PETA Living
 
-Current subscribers: You will continue to receive e-mails unless you explicitly [opt out here](https://support.peta.org/page/53017/data/1).
+Current subscribers: You will continue to receive e-mail unless you explicitly opt out by clicking [here](https://support.peta.org/page/921/action/1).
 
 By submitting this form, you’re acknowledging that you have read and agree to our [privacy policy](https://www.peta.org/about-peta/learn-about-peta/website-policies/privacy/) and agree to receive e-mails from us.
 
-[](https://www.peta.org/about-peta/why-peta/why-animal-rights/ "Read More")
+[](https://www.peta.org/about-peta/why-peta/why-animal-rights/?en_txn7=other::ien-wide-promo-petaorg "Read More")
 
 ![](https://www.peta.org/wp-content/uploads/2018/07/footer-ingrid-bg.jpg)
 
-“Almost all of us grew up eating meat, wearing leather, and going to circuses and zoos. We never considered the impact of these actions on the animals involved. For whatever reason, you are now asking the question: Why should animals have rights?” [READ MORE](https://www.peta.org/about-peta/why-peta/why-animal-rights/)
+“Almost all of us grew up eating meat, wearing leather, and going to circuses and zoos. We never considered the impact of these actions on the animals involved. For whatever reason, you are now asking the question: [Why should animals have rights?](https://www.peta.org/about-peta/why-peta/why-animal-rights/?en_txn7=other::ien-wide-promo-petaorg)”
 
 **— Ingrid E. Newkirk, PETA President and co-author of [_Animalkind_](https://amzn.to/33u8GE2)**
 
-[Read More](https://www.peta.org/about-peta/why-peta/why-animal-rights/ "Read More")
+[Read More](https://www.peta.org/about-peta/why-peta/why-animal-rights/?en_txn7=other::ien-wide-promo-petaorg "Read More")
 
 People for the Ethical Treatment of Animals
 
@@ -381,7 +377,8 @@ About PETA
 * [Sign Up for E-Mails](https://www.peta.org/about-peta/learn-about-peta/website-policies/subscribe-to-enews/ "Subscribe to E-News")
 * [Join PETA’s Text List](https://www.peta.org/about-peta/learn-about-peta/subscribe-to-mobile-alerts/ "Join PETA’s Text List")
 * [Contact PETA](https://www.peta.org/about-peta/contact-peta/ "Contact PETA")
-* [Chat provider: LiveChat](https://www.livechat.com/ "LiveChat")
+* [Chat Provider: LiveChat](https://www.livechat.com/ "LiveChat")
+* [Customer Service: ChatBot](https://www.chatbot.com/ "ChatBot")
 * [International Publications](https://petaglobal.cld.bz/)
 
 Help Animals
@@ -436,9 +433,11 @@ International Sites
 * [Terms of Use](https://www.peta.org/about-peta/learn-about-peta/website-policies/peta-online-community-terms-of-use-agreement/ "Terms of Use")
 * [Report Website Abuse](https://www.peta.org/about-peta/contact-peta/report-website-abuse/ "Report Website Abuse")
 
+[Next Article »](https://www.peta.org/about-peta/learn-about-peta/website-policies/subscribe-to-enews/personalize-enews-ty/)
+
 Share Post [Donate](https://headlines.peta.org/donate/ "Donate")
 
-[Frankie the capuchin is kept in a cage all alone in the middle of the retail store Pet Stop. Text FRANKIE to 73822 to urge Pet Stop to send Frankie to a sanctuary!](sms:73822?&body=FRANKIE)
+[Text CRAZY to 73822 to take action for chimpanzees suffering in human homes & roadside zoos! Then watch Chimp Crazy, HBO’s new docuseries to learn more.](sms:73822?&body=CRAZY)
 
 Terms for automated texts/calls from PETA: [http://peta.vg/txt](https://www.peta.org/about-peta/learn-about-peta/website-policies/texting-terms-and-conditions/). Text STOP to end, HELP for more info. Msg/data rates may apply. U.S. only.
 
