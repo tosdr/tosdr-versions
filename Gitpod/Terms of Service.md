@@ -8,13 +8,13 @@
 * [Customers](https://www.gitpod.io/customers)
 * [Pricing](https://www.gitpod.io/pricing)
 
-[12.6k](https://github.com/gitpod-io/gitpod)
+[12.7k](https://github.com/gitpod-io/gitpod)
 
 * [Login](https://gitpod.io/login/)
 
 [Get a demo](https://www.gitpod.io/contact/get-demo)
 
-[12.6k](https://github.com/gitpod-io/gitpod)
+[12.7k](https://github.com/gitpod-io/gitpod)
 
 [Login](https://gitpod.io/login/)
 
@@ -271,7 +271,7 @@ Date
 * Gitpod
 * [Getting started](https://www.gitpod.io/docs/introduction/getting-started)
 * [CDEs](https://www.gitpod.io/cde)
-* [Enterprise](https://www.gitpod.io/contact/enterprise-self-serve)
+* [Enterprise](https://www.gitpod.io/enterprise)
 * [Pricing](https://www.gitpod.io/pricing)
 * [Ready-to-code](https://www.gitpod.io/ready-to-code)
 * [Support](https://www.gitpod.io/support)
