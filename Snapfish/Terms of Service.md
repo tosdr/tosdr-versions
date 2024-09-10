@@ -162,6 +162,12 @@ Please note that merchandise may include logos or brand elements that are owned 
 
 3\. Please visit [Retail Delivery Fee | Department of Revenue - Taxation](https://tax.colorado.gov/retail-delivery-fee) for more information.
 
+**Minnesota delivery fees**
+
+1\. Effective July 1, 2024, Minnesota imposes a Road Improvement and Food Delivery Fee on transactions of tangible personal property subject to state sales or use tax equal to or exceeding $100
+
+2\. Please visit [Retail Delivery Fee | Department of Revenue - Taxation](https://www.revenue.state.mn.us/retail-delivery-fee) for more information.
+
 [Back to top](#top)
 
 ###### XII. No Right to Withdraw Orders Once Placed
