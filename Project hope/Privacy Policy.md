@@ -1,11 +1,5 @@
 [Skip to main content](#maincontent)
 
-URGENT ALERT
-
-Help Refugees and People in Health Crises
-
-[DONATE](https://secure.projecthope.org/site/SPageNavigator/2024_07_MigrantHealth_web.html "DONATE") Close
-
 [Donate](https://secure.projecthope.org/site/SPageNavigator/2024_Multistep_Main.html?autologin=true&mfc_pref=T&frequency=monthly&amount=50 "Donate")
 
 [![Project Hope Logo](/wp-content/themes/projecthope/assets/images/logo.svg)](https://www.projecthope.org/)
@@ -299,12 +293,10 @@ Proud to be independently verified by:
 
 Close Donation Form
 
-Give with confidence.
----------------------
+World Humanitarian Day Matching Gift Challenge
+----------------------------------------------
 
-Please make a compassionate gift today to help save lives around the world. Your support means more children and families can get the vital medicines and care they need now — and that health workers will have the training and support they need to save lives for years to come.
-
-[Donate](https://secure.projecthope.org/site/SPageNavigator/2024_Multistep_Main.html?autologin=true&mfc_pref=T&frequency=monthly&amount=50 "Donate")
+Today we're celebrating our team of humanitarians—and all they do to save lives. Please make a gift in their honor while our matching gift challenge will double your generosity.
 
 Donation type One Time  Monthly 
 
@@ -316,7 +308,7 @@ Donation amount, other Other donation amount
 
 Donate Now
 
-![Charity Navigator Logo](/wp-content/themes/projecthope/assets/images/credibility-bar/charity-navigator.png) ![Charity Watch Logo](/wp-content/themes/projecthope/assets/images/credibility-bar/charity-watch-2x.png) ![Guidestar Candid Platinum Transparency Logo](/wp-content/themes/projecthope/assets/images/credibility-bar/candid.png) ![Better Business Bureau Logo](/wp-content/themes/projecthope/assets/images/credibility-bar/bbb-bw-cropped.png)
+[Donate](https://secure.projecthope.org/site/SPageNavigator/2024_08_WHDonly_Web.html?autologin=true&mfc_pref=T&frequency=monthly&amount=50 "Donate")
 
 We use cookies to ensure that we give you the best experience on our website. By clicking “Accept”, you consent to us using data collected from the cookies on our website. To learn more, check out our [privacy policy](https://www.projecthope.org/privacy-policy).
 
