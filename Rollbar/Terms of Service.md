@@ -12,6 +12,8 @@ Guides & SDKs
 
 [Log In](https://rollbar.com/login)[Sign Up](https://rollbar.com/signup?ref=docs)
 
+Guides & SDKs
+
 Terms of Service
 
 Terms of Service
@@ -142,7 +144,6 @@ Languages and Frameworks
         * [AWS Lambda](https://docs.rollbar.com/docs/aws-lambda-ruby)
         * [Shoryuken Integration](https://docs.rollbar.com/docs/shoryuken-integration)
         * [sucker\_punch Integration](https://docs.rollbar.com/docs/sucker_punch-integration)
-        * [girl\_friday Integration](https://docs.rollbar.com/docs/girl_friday-integration)
         * [Resque Integration](https://docs.rollbar.com/docs/resque-integration)
         * [Goalie](https://docs.rollbar.com/docs/goalie)
         * [Rack](https://docs.rollbar.com/docs/rack)
@@ -245,6 +246,7 @@ App Guide
     * [Metrics API Occurrence Query Examples](https://docs.rollbar.com/docs/metrics-api-query-examples)
     * [Deleting items & occurrences](https://docs.rollbar.com/docs/deleting-items-occurrences)
     * [Download items & occurrences](https://docs.rollbar.com/docs/download-items-occurrences)
+    * [Item Summarization](https://docs.rollbar.com/docs/summarization)
 * [Guides](https://docs.rollbar.com/docs/enable-github-organization-access-for-rollbar)
     * [Enable GitHub Organization Access for Rollbar](https://docs.rollbar.com/docs/enable-github-organization-access-for-rollbar)
     * [Error Grouping Best Practices](https://docs.rollbar.com/docs/error-grouping-best-practices)
@@ -559,7 +561,7 @@ PLEASE READ THIS AGREEMENT CAREFULLY TO ENSURE THAT YOU UNDERSTAND EACH PROVISIO
 
 [Previous Terms of Service](https://docs.rollbar.com/docs/terms-of-service-archive)
 
-Updated 8 months ago
+Updated 9 months ago
 
 * * *
 
@@ -574,11 +576,11 @@ Updated 8 months ago
 |     | **Products** | **Platform** |     | **Documentation** | **Resources** | **Company** |
 |     | [Product](https://rollbar.com/discover/) | [JavaScript](https://rollbar.com/platforms/javascript-error-tracking/) | [PHP](https://rollbar.com/platforms/php-error-tracking/) | [Docs Overview](https://docs.rollbar.com/docs) | [Blog](https://rollbar.com/blog/) | [About Us](https://rollbar.com/about/) |
 |     | [Pricing](https://rollbar.com/pricing/) | [Ruby](https://rollbar.com/platforms/ruby-error-tracking/) | [Python](https://rollbar.com/platforms/python-error-tracking/) | [Setting up Rollbar](https://docs.rollbar.com/docs/setup) | [Guides](https://rollbar.com/guides/) | [Careers](https://rollbar.com/careers/) |
-|     | [Customers](https://rollbar.com/customers/) | [iOS](https://rollbar.com/platforms/ios-error-tracking/) | [Java](https://rollbar.com/platforms/java-error-tracking/) | [Notifications](https://docs.rollbar.com/docs/notifications) | [Videos](https://resources.rollbar.com/) | [Contact Us](https://rollbar.com/contact/) |
-|     | [Platforms](https://rollbar.com/platforms/) | [.NET](https://rollbar.com/platforms/dotnet-error-tracking/) | [Angular](https://rollbar.com/platforms/angular-error-tracking/) | [Deploy Tracking](https://docs.rollbar.com/docs/deploy-tracking) | [Webinars](https://resources.rollbar.com/webinars) | [Changelog](https://changelog.rollbar.com/) |
+|     | [Customers](https://rollbar.com/customers/) | [iOS](https://rollbar.com/platforms/ios-error-tracking/) | [Java](https://rollbar.com/platforms/java-error-tracking/) | [Notifications](https://docs.rollbar.com/docs/notifications) | [Contact Us](https://rollbar.com/contact/) |     |
+|     | [Platforms](https://rollbar.com/platforms/) | [.NET](https://rollbar.com/platforms/dotnet-error-tracking/) | [Angular](https://rollbar.com/platforms/angular-error-tracking/) | [Deploy Tracking](https://docs.rollbar.com/docs/deploy-tracking) | [Changelog](https://changelog.rollbar.com/) |     |
 |     | [Integrations](https://rollbar.com/integrations/) | [React](https://rollbar.com/platforms/react-native-error-tracking/) | [Laravel](https://rollbar.com/platforms/laravel-error-tracking/) | [Telemetry](https://docs.rollbar.com/docs/telemetry) |     |     |
 |     |     | [Node](https://rollbar.com/platforms/node-error-tracking/) | [Rails](https://rollbar.com/platforms/rails-error-tracking/) | [Security & Compliance](https://docs.rollbar.com/docs/security) |     |     |
-|     |     | [Django](https://rollbar.com/platforms/django-error-tracking/) | [More...](https://rollbar.com/platforms/) | [API](https://explorer.docs.rollbar.com/) |     |     |
+|     |     | [Django](https://rollbar.com/platforms/django-error-tracking/) | [More...](https://rollbar.com/platforms/) | [API](https://docs.rollbar.com/reference/getting-started-1/) |     |     |
 | * * * |     |     |     |     |     |     |
 |     | 2012-24 Rollbar Inc. [Privacy Policy](https://docs.rollbar.com/docs/privacy-policy) [Terms of Service](https://docs.rollbar.com/docs/terms-of-service) |     |     |     |     |     |
 |     |     |     |     |     |     |     |
