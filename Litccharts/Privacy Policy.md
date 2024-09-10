@@ -1,36 +1,26 @@
-Upgrade to LitCharts A+
+[![The LitCharts.com logo.](https://assets.litcharts.com/assets/reskin/small-logo-a5f71ddf742efc8224556c5af660e50a78055adc5f4beaf27d9b589498298326.png)](https://www.litcharts.com/)
 
-[Instant downloads of all 1971 LitChart PDFs.
+[Sign In](https://www.litcharts.com/sign-in) [Sign up for A+](https://www.litcharts.com/sign-up?focus=general)
 
-LitCharts Teacher Editions. Teach your students to analyze literature like LitCharts does.
+[![The LitCharts.com logo.](https://assets.litcharts.com/assets/reskin/small-logo-and-wordmark-d71cd5872ace5b08338457c0c8121a6dff2dc6c96c8d6b1e872cffb38a9a4c84.png)](https://www.litcharts.com/)
 
-Detailed explanations, analysis, and citation info for every important quote on LitCharts.
+AI Tools
 
-The original text plus a side-by-side modern translation of _every_ Shakespeare play.](https://www.litcharts.com/sign-up?utm_source=mobile_menu)
+* [Ask LitCharts AI](https://www.litcharts.com/ai/ask-litcharts-ai)
+* [Discussion Question Generator](https://www.litcharts.com/ai/discussion-question-generator)
+* [Essay Prompt Generator](https://www.litcharts.com/ai/essay-prompt-generator)
+* [Quiz Question Generator](https://www.litcharts.com/ai/quiz-question-generator)
 
-[Sign Up](https://www.litcharts.com/sign-up?utm_source=mobile_menu)
+![Guides](https://assets.litcharts.com/assets/reskin/promo/pdf-downloads-75c06148cea63e2260e73ef26ed7f5a40621da89b65622ab42e07ba5441e8eeb.png) Guides
 
-Already have an account? [Sign in](https://www.litcharts.com/sign-in)
+* [Literature Guides](https://www.litcharts.com/lit)
+* [Poetry Guides](https://www.litcharts.com/poetry)
+* [Shakespeare Translations](https://www.litcharts.com/shakescleare/shakespeare-translations)
+* [Literary Terms](https://www.litcharts.com/literary-devices-and-terms)
 
- [![The LitCharts.com logo.](https://assets.litcharts.com/assets/reskin/small-logo-a5f71ddf742efc8224556c5af660e50a78055adc5f4beaf27d9b589498298326.png) ![The LitCharts.com logo.](https://assets.litcharts.com/assets/reskin/small-logo-and-wordmark-d71cd5872ace5b08338457c0c8121a6dff2dc6c96c8d6b1e872cffb38a9a4c84.png)](https://www.litcharts.com/)
+  
 
-[Literature  
-Guides](https://www.litcharts.com/lit) [Poetry  
-Guides](https://www.litcharts.com/poetry) [Literary  
-Terms](https://www.litcharts.com/literary-devices-and-terms) [Shakespeare  
-Translations](https://www.litcharts.com/shakescleare/shakespeare-translations)[Ask  
-LitCharts AI
-
-Ask  
-AI](https://www.litcharts.com/ai/ask-litcharts-ai)
-
-[Sign In](https://www.litcharts.com/sign-in)[Sign up for A+](https://www.litcharts.com/sign-up?utm_source=header_signup)[Sign up](https://www.litcharts.com/sign-up?utm_source=header_signup)
-
-[Literature
-
-Lit](https://www.litcharts.com/lit)[Poetry](https://www.litcharts.com/poetry)[Lit Terms
-
-Terms](https://www.litcharts.com/literary-devices-and-terms)[Shakescleare](https://www.litcharts.com/shakescleare/shakespeare-translations) [Ask AI](https://www.litcharts.com/ai/ask-litcharts-ai)
+[Sign In](https://www.litcharts.com/sign-in) [Sign up for A+](https://www.litcharts.com/sign-up?focus=general) [Sign up](https://www.litcharts.com/sign-up?focus=general)
 
 Please wait, loading [privacy policy](https://assets.coursehero.com/privacy-policies/privacy_policy_master.html)
 
