@@ -228,11 +228,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-If you like these links, you'll love
+Can't get enough Fark in your life? Try
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-The next best thing to UltraFark
+More threads. More community. More Farking.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -332,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Catholic Church buys former 284-acre Boeing management training facility. Altarpiece to be swapped from Jack Welsh to Jesus](https://www.fark.com/goto/13338424) ( [spectrumlocalnews.com](https://www.fark.com/goto/13338424) ) » [(5 comments)](https://www.fark.com/comments/13338424/Catholic-Church-buys-former-284-acre-Boeing-management-training-facility-Altarpiece-to-be-swapped-from-Jack-Welsh-to-Jesus) |
-| [Discussion](https://www.fark.com/discussion/) | [Some Farker's dad hit 100 trips around the sun, still lives on his own. WWII Army Air Corp Sergeant, radar Op on USS Raven. Earl "Pop pop OG" Malwitz](https://www.fark.com/goto/13337956) ( [baltimoresun.com](https://www.fark.com/goto/13337956) ) » [(9 comments)](https://www.fark.com/comments/13337956/Some-Farkers-dad-hit-100-trips-around-sun-still-lives-on-his-own-WWII-Army-Air-Corp-Sergeant-radar-Op-on-USS-Raven-Earl-Pop-pop-OG-Malwitz) |
-| [Sports](https://www.fark.com/sports/) | [Welcome, surfers, aboard Olympic Cruise Lines, with a single stop in Tahiti](https://www.fark.com/goto/13338386) ( [apnews.com](https://www.fark.com/goto/13338386) ) » [(7 comments)](https://www.fark.com/comments/13338386/Welcome-surfers-aboard-Olympic-Cruise-Lines-with-a-single-stop-in-Tahiti) |
-| [Business](https://www.fark.com/business/) | [I'm going to go out on a limb and say "it costs too much"](https://www.fark.com/goto/13338408) ( [upworthy.com](https://www.fark.com/goto/13338408) ) » [(11 comments)](https://www.fark.com/comments/13338408/Im-going-to-go-out-on-a-limb-say-it-costs-too-much) |
-| [STEM](https://www.fark.com/stem/) | [SpaceX solves the problem of pieces of Dragon capsules landing on land by landing in a bigger ocean](https://www.fark.com/goto/13338466) ( [arstechnica.com](https://www.fark.com/goto/13338466) ) » [(3 comments)](https://www.fark.com/comments/13338466/SpaceX-solves-problem-of-pieces-of-Dragon-capsules-landing-on-land-by-landing-in-a-bigger-ocean) |
-| [Entertainment](https://www.fark.com/entertainment/) | [My Chemical Romance won't be going on the Grey Parade after all](https://www.fark.com/goto/13338048) ( [nme.com](https://www.fark.com/goto/13338048) ) » [(10 comments)](https://www.fark.com/comments/13338048/My-Chemical-Romance-wont-be-going-on-Grey-Parade-after-all) |
-| [Fandom](https://www.fark.com/fandom/) | [The 50 most meta jokes in film history, which you'll have plenty of time to peruse while you're stuck in a chair and so very, very scared](https://www.fark.com/goto/13338484) ( [cracked.com](https://www.fark.com/goto/13338484) ) » [(15 comments)](https://www.fark.com/comments/13338484/The-50-most-meta-jokes-in-film-history-which-youll-have-plenty-of-time-to-peruse-while-youre-stuck-in-a-chair-so-very-very-scared) |
-| [D'awww](https://www.fark.com/dawww/) | [We can't stop here, this is marmot country](https://www.fark.com/goto/13338358) ( [unofficialnetworks.com](https://www.fark.com/goto/13338358) ) » [(8 comments)](https://www.fark.com/comments/13338358/We-cant-stop-here-this-is-marmot-country) |
-| [Food](https://www.fark.com/food/) | [This article will help improve my cooking skills](https://www.fark.com/goto/13338538) ( [thetakeout.com](https://www.fark.com/goto/13338538) ) » [(4 comments)](https://www.fark.com/comments/13338538/This-article-will-help-improve-my-cooking-skills) |
-| [Politics](https://www.fark.com/politics/) | [I can't think of any way to make this funny: Trump Jr. looks like he's going to die pretty soon](https://www.fark.com/goto/13338500) ( [youtube.com](https://www.fark.com/goto/13338500) ) » [(62 comments)](https://www.fark.com/comments/13338500/I-cant-think-of-any-way-to-make-this-funny-Trump-Jr-looks-like-hes-going-to-die-pretty-soon) |
+| [Main](https://www.fark.com/) | [On this day in history, in 2008, the CERN Large Hadron Collider was powered up and immediately destroyed all sane realities, leaving us here in this one](https://www.fark.com/goto/13388208) ( [history.com](https://www.fark.com/goto/13388208) ) » [(7 comments)](https://www.fark.com/comments/13388208/On-this-day-in-history-in-2008-CERN-Large-Hadron-Collider-was-powered-up-immediately-destroyed-all-sane-realities-leaving-us-here-in-this-one) |
+| [Discussion](https://www.fark.com/discussion/) | [Portrait of a real-life Clayton Bigsby](https://www.fark.com/goto/13387718) ( [theguardian.com](https://www.fark.com/goto/13387718) ) » [(7 comments)](https://www.fark.com/comments/13387718/Portrait-of-a-real-life-Clayton-Bigsby) |
+| [Sports](https://www.fark.com/sports/) | [Mom, the 49ers are cheating again](https://www.fark.com/goto/13388194) ( [foxnews.com](https://www.fark.com/goto/13388194) ) » [(6 comments)](https://www.fark.com/comments/13388194/Mom-49ers-are-cheating-again) |
+| [Business](https://www.fark.com/business/) | [So, about that EV sales slump the media has been reporting on so widely](https://www.fark.com/goto/13387940) ( [electrek.co](https://www.fark.com/goto/13387940) ) » [(0 comments)](https://www.fark.com/comments/13387940/So-about-that-EV-sales-slump-media-has-been-reporting-on-so-widely) |
+| [STEM](https://www.fark.com/stem/) | [Did anyone else know since 2018 that Australia is anti-privacy having had the Assistance & Access Act on the books to break encryption & require companies to develop new tools to do so if they can't already? This won't end well if they ever force it](https://www.fark.com/goto/13388054) ( [schneier.com](https://www.fark.com/goto/13388054) ) » [(1 comment)](https://www.fark.com/comments/13388054/Did-anyone-else-know-since-2018-that-Australia-is-anti-privacy-having-had-Assistance-Access-Act-on-books-to-break-encryption-require-companies-to-develop-new-tools-to-do-so-if-they-cant-already-This-wont-end-well-if-they-ever-force-it) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Marty Short is the new Rickles? Sure, he's Canadian, but he's no hockey puck](https://www.fark.com/goto/13388144) ( [avclub.com](https://www.fark.com/goto/13388144) ) » [(6 comments)](https://www.fark.com/comments/13388144/Marty-Short-is-new-Rickles-Sure-hes-Canadian-but-hes-no-hockey-puck) |
+| [Fandom](https://www.fark.com/fandom/) | ["Hi, everyone. Here is the PS5 Pro. Thanks for coming. Bye"](https://www.fark.com/goto/13388020) ( [engadget.com](https://www.fark.com/goto/13388020) ) » [(8 comments)](https://www.fark.com/comments/13388020/Hi-everyone-Here-is-PS5-Pro-Thanks-for-coming-Bye) |
+| [D'awww](https://www.fark.com/dawww/) | [Assistant vergers or assistants to the verger](https://www.fark.com/goto/13387900) ( [goodnewsnetwork.org](https://www.fark.com/goto/13387900) ) » [(1 comment)](https://www.fark.com/comments/13387900/Assistant-vergers-assistants-to-verger) |
+| [Food](https://www.fark.com/food/) | [You read the headline, you don't want to look, but you must, and then you suffer the payoff](https://www.fark.com/goto/13388018) ( [nypost.com](https://www.fark.com/goto/13388018) ) » [(4 comments)](https://www.fark.com/comments/13388018/You-read-headline-you-dont-want-to-look-but-you-must-then-you-suffer-payoff) |
+| [Politics](https://www.fark.com/politics/) | [Missouri attorney general tries to whoopsie away the issue by decertifying ballot measure to legalize abortion one day before state supreme court set to hear case challenging it, after previously certifying it](https://www.fark.com/goto/13388184) ( [kbia.org](https://www.fark.com/goto/13388184) ) » [(12 comments)](https://www.fark.com/comments/13388184/Missouri-attorney-general-tries-to-whoopsie-away-issue-by-decertifying-ballot-measure-to-legalize-abortion-one-day-before-state-supreme-court-set-to-hear-case-challenging-it-after-previously-certifying-it) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -351,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Jul 30 2024 00:43:27  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Sep 10 2024 13:43:29  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
