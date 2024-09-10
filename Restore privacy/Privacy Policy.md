@@ -194,13 +194,13 @@ RestorePrivacy is a digital privacy advocacy group committed to helping you stay
 * [Facebook](https://www.facebook.com/resprivacy/)
 * [Mastodon](https://infosec.exchange/@restoreprivacy)
 
-And for cybersecurity news, check out **[Cyber Insider](https://cyberinsider.com/)**.
+And for cybersecurity news, check out **[CyberInsider](https://cyberinsider.com/)**.
 
 Digital privacy Checklist:
 --------------------------
 
 1. **Secure browser**: [Brave](https://brave.com/) or [Modified Firefox](https://restoreprivacy.com/firefox-privacy/)
-2. **VPN**: [NordVPN](https://restoreprivacy.com/go/nordvpn-deals) ([72% off coupon](https://restoreprivacy.com/go/nordvpn-deals))
+2. **VPN**: [NordVPN](https://restoreprivacy.com/go/nordvpn-deals) ([74% off coupon](https://restoreprivacy.com/go/nordvpn-deals))
 3. **Ad blocker**: [uBlock Origin](https://github.com/gorhill/uBlock/) or [AdGuard](https://adguard.com/)
 4. **Secure email**: [ProtonMail](https://restoreprivacy.com/go/protonmail) or [StartMail](https://restoreprivacy.com/go/startmail)
 5. **Secure messaging**: [Signal](https://restoreprivacy.com/secure-encrypted-messaging-apps/signal/) or [Threema](https://restoreprivacy.com/secure-encrypted-messaging-apps/threema/)
