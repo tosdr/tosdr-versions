@@ -290,7 +290,7 @@ Helpcrunch AI](https://helpcrunch.com/knowledge-base.html)[Popups](https://helpc
 
 © HelpCrunch Corporation
 
-[](https://www.facebook.com/HelpCrunchSolution/ "Helpcrunch Facebook")[](https://twitter.com/HelpCrunchCom "Helpcrunch Twitter")[](https://www.linkedin.com/company/helpcrunch "Helpcrunch Linkedin")[](https://www.instagram.com/helpcrunch_team/ "Helpcrunch Instagram")[](https://www.youtube.com/channel/UC_DagNreIFTEnKcn-0-KXTg/ "Helpcrunch Youtube Channel")
+[](https://www.facebook.com/HelpCrunchSolution/ "Helpcrunch Facebook")[](https://x.com/HelpCrunchCom "Helpcrunch X")[](https://www.linkedin.com/company/helpcrunch "Helpcrunch Linkedin")[](https://www.instagram.com/helpcrunch_team/ "Helpcrunch Instagram")[](https://www.youtube.com/channel/UC_DagNreIFTEnKcn-0-KXTg/ "Helpcrunch Youtube Channel")
 
 1811 Silverside Rd, Wilmington,  
 DE 19810, USA
