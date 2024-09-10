@@ -25,7 +25,7 @@
 
 © 2024 FANDING, Inc. All rights reserved
 
-[뉴스피드](https://fanding.kr/feed) [탐색](https://fanding.kr/explorer/) 로그인
+[뉴스피드](https://fanding.kr/feeds) [탐색](https://fanding.kr/explorer/) 로그인
 
 개인정보처리방침
 ========
