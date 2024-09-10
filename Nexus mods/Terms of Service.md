@@ -250,4 +250,4 @@ Last updated on November 3, 2021
 
 No results found
 
-© [Nexus Mods](https://www.nexusmods.com/) 2024. Powered by [Help Scout](https://www.helpscout.com/knowledge-base/?co=Nexus+Mods&utm_source=docs&utm_medium=footerlink&utm_campaign=Docs+Branding)
+© [Nexus Mods](https://www.nexusmods.com/) 2024. Powered by [Help Scout](https://www.helpscout.com/docs-refer/?co=Nexus+Mods&utm_source=docs&utm_medium=footerlink&utm_campaign=Docs+Branding)
