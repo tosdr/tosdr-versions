@@ -27,12 +27,11 @@
     
     For installers
     
-    [System builder](https://enphase.com/installers/systems) [System estimator](https://estimator.enphase.com/) [Module calculator](https://enphase.com/installers/microinverters/calculator) [Become an installer](https://enphase.com/installers/signup)
+    [System builder](https://enphase.com/installers/systems) [System estimator](https://estimator.enphase.com/) [Module calculator](https://enphase.com/installers/microinverters/calculator)
     
 * [](javascript:void(0);)
 * [ESG](https://enphase.com/company/sustainability)
 * [ClipperCreek Landing Page](https://enphase.com/ev-chargers/clippercreek)
-* [ESG](https://enphase.com/company/sustainability)
 
 [](#)
 
@@ -41,9 +40,13 @@ Enphase legal notices and policies
 
 ### Terms of Service
 
-Updated: April 29, 2024
+Updated: July 1, 2024
 
-THESE TERMS OF SERVICE (THE “**TERMS**”) APPLY TO ALL WEBSITES HOSTED BY ENPHASE ENERGY, INC. AND ITS AFFILIATES ("**ENPHASE**," "**WE**," "**US**," OR "**OUR**") COLLECTIVELY, THE "**WEBSITES**". PLEASE REVIEW THE FOLLOWING TERMS AND CONDITIONS FOR THE USE OF THE WEBSITES AND THE SERVICES PROVIDED THROUGH ANY OF THE WEBSITES, INCLUDING, WITHOUT LIMITATION, THE ENPHASE APP, (SUCH SERVICES, THE "**SERVICES**") YOU AGREE TO BE BOUND BY THESE TERMS OR YOU REPRESENT THAT YOU HAVE THE AUTHORITY TO BIND THE PERSON (INCLUDING ANY RESIDENTIAL, ENTERPRISE OR OTHER OWNER OF ENPHASE PRODUCTS) YOU NAME AS A USER OF ANY OF THE WEBSITES OR THE APPLICABLE SERVICES. IF YOU DO NOT HAVE SUCH AUTHORITY OR YOU DO NOT AGREE WITH THESE TERMS, PLEASE DO NOT USE ANY ENPHASE WEBSITE OR SERVICE .
+IMPORTANT: PLEASE BE ADVISED THAT BY AGREEING TO THESE TERMS YOU ARE WAIVING YOUR RIGHT TO SEEK RELIEF IN A COURT OF LAW AND WAIVING YOUR RIGHT TO HAVE A JURY TRIAL ON YOUR CLAIMS.
+
+PLEASE READ THESE TERMS OF SERVICE (the “**TERMS**”) CAREFULLY AS THEY CONTAIN PROVISIONS THAT GOVERN HOW YOU CAN BRING CLAIMS BETWEEN YOU AND ENPHASE, INCLUDING THE ARBITRATION AGREEMENT IN SECTION 17 BELOW. THE ARBITRATION AGREEMENT REQUIRES YOU TO RESOLVE ALL DISPUTES WITH ENPHASE ON AN INDIVIDUAL BASIS AND, WITH LIMITED EXCEPTIONS, THROUGH FINAL AND BINDING ARBITRATION. 
+
+THESE TERMS APPLY TO ALL WEBSITES HOSTED BY ENPHASE ENERGY, INC. AND ITS AFFILIATES ("**ENPHASE**," "**WE**," "**US**," OR "**OUR**") COLLECTIVELY, THE "**WEBSITES**". PLEASE REVIEW THE FOLLOWING TERMS AND CONDITIONS FOR THE USE OF THE WEBSITES AND THE SERVICES PROVIDED THROUGH ANY OF THE WEBSITES,INCLUDING, WITHOUT LIMITATION, THE ENPHASE APP, 365 PRONTO, SOLARGRAF/ROOFGRAF, AND SOLARLEADFACTORY (SUCH SERVICES, THE "**SERVICES**") YOU AGREE TO BE BOUND BY THESE TERMS OR YOU REPRESENT THAT YOU HAVE THE AUTHORITY TO BIND THE PERSON (INCLUDING ANY RESIDENTIAL, ENTERPRISE OR OTHER OWNER OF ENPHASE PRODUCTS) YOU NAME AS A USER OF ANY OF THE WEBSITES OR THE APPLICABLE SERVICES. IF YOU DO NOT HAVE SUCH AUTHORITY OR YOU DO NOT AGREE WITH THESE TERMS, PLEASE DO NOT USE ANY ENPHASE WEBSITE OR SERVICE. 
 
 ### 1\. Additional Terms
 
@@ -61,7 +64,7 @@ The trademarks, service marks and logos ("**Marks**") displayed on the Websites 
 
 ### 3\. Embedded Software
 
-Enphase products ("**Products**") include Enphase microinverters and any part of an Enphase photovoltaic system ("**PV System**"), an Enphase battery system, an Enphase electric vehicle supply equipment (EVSE) system, or an Enphase home energy management system designed, marketed, sold, installed and supported as a system by one of Enphase’s Customers (defined as installers, authorized distributors and solar system original equipment manufacturers).
+Enphase products ("**Products**") include Enphase microinverters and any part of an Enphase photovoltaic system ("PV System"), an Enphase battery system, an Enphase electric vehicle supply equipment (EVSE) system, or an Enphase home energy management system designed, marketed, sold, installed and supported as a system by one of Enphase’s Customers (defined as installers, authorized distributors and solar system original equipment manufacturers).
 
 Enphase retains ownership of all Intellectual Property Rights (defined as any and all now known or hereafter existing (a) rights associated with works of authorship throughout the universe, including exclusive exploitation rights, copyrights, moral rights, and mask works; (b) trademark and trade name rights; (c) trade secret rights; (d) patents, designs, algorithms, and other industrial property rights; (e) other intellectual property and proprietary rights of every kind and nature throughout the universe, whether arising by operation of law, by contract or license, or otherwise; and (f) all registrations, applications, renewals, extensions, combinations, divisions, or reissues of the foregoing) in the Products, including the Embedded Software (defined as firmware and software embedded in the Products, and any modified, updated, or enhanced versions of such firmware or software provided by Enphase). The Products are offered for sale and sold on the condition in every case that, except as expressly set forth herein, such sale does not convey any license, express or implied, under any Intellectual Property Right of Enphase, and all such rights are reserved. Enphase grants no implied licenses. Embedded Software is not sold and is provided under a non-exclusive, non-sublicensable license to install, commission, execute, and use Enphase Products in accordance with the applicable Enphase Documentation. Customers and System Owners shall not, and shall use all reasonable endeavors to ensure that no third party shall, reverse engineer, decompile, disassemble the Products, or otherwise attempt to derive the source code for the Embedded Software.
 
@@ -71,27 +74,27 @@ In order to use certain Services, you may be required to create an account with 
 
 ### 5\. Acceptable Use
 
-You are solely responsible for any and all of your activities and use of Enphase Websites and Services. You represent and warrant that: (i) your use of the Enphase Community will be consistent with the [terms applicable](https://enphase.com/additional-terms-community) thereto; and (ii) your activities and use of any Website and/or Service will not:
+You are solely responsible for any and all of your activities and use of Enphase Websites and Services. You represent and warrant that: (a) your use of the Enphase Community will be consistent with the [terms applicable](https://enphase.com/additional-terms-community) thereto; and (b) your activities and use of any Website and/or Service will not:
 
-**(i)** violate any law, rule or regulation (including any law regarding the export of data, software or technology to and from the United States and other countries) or these Terms;
+**(i)** violate any law, rule or regulation (including any law regarding the export of data, software or technology to and from the United States and other countries) or these Terms;
 
-**(ii)** access or attempt to access any Website or any web page thereof by any means other than the interface that is provided by Enphase (and specifically, you agree not to access or attempt to access any Website or any web page thereof through any automated means, such as, but not limited to, the use of scripts or web crawlers) and you agree, at all times, to comply with the instructions set out in any robots.txt file provided on any Website;
+**(ii)** access or attempt to access any Website or any web page thereof by any means other than the interface that is provided by Enphase (and specifically, you agree not to access or attempt to access any Website or any web page thereof through any automated means, such as, but not limited to, the use of scripts or web crawlers) and you agree, at all times, to comply with the instructions set out in any robots.txt file provided on any Website;
 
-**(iii)** provide personal information or access to personal information, including site access, to anyone not expressly authorized by the System Owner, and specifically you may not provide site access through your Enphase App account to any third-party email domains for which the System Owner has not provided express consent;
+**(iii)** provide personal information or access to personal information, including site access, to anyone not expressly authorized by the System Owner, and specifically you may not provide site access through your Enphase App account to any third-party email domains for which the System Owner has not provided express consent;
 
-**(iv)**  except where you have an express written agreement signed by Enphase permitting you to do so, engage in any activity of any kind that may interfere with or disrupt the functioning of any Website or Service or the servers and networks used to provide any Website or Service (and specifically you may not disable a system owner’s ability to monitor their system through their Enphase accounts, nor may you use the Enphase App to disable the operation of installed products unless directed to do so for safety reasons by the applicable authorities);
+**(iv)** except where you have an express written agreement signed by Enphase permitting you to do so, engage in any activity of any kind that may interfere with or disrupt the functioning of any Website or Service or the servers and networks used to provide any Website or Service (and specifically you may not disable a system owner’s ability to monitor their system through their Enphase accounts, nor may you use the Enphase App to disable the operation of installed products unless directed to do so for safety reasons by the applicable authorities);
 
-**(v)** involve the transmission of any unsolicited commercial or bulk email and you shall not use your Account or any Website as a return address for unsolicited commercial mail originating elsewhere;
+**(v)** involve the transmission of any unsolicited commercial or bulk email and you shall not use your Account or any Website as a return address for unsolicited commercial mail originating elsewhere;
 
-**(vi)** collect, harvest, mine or engage in any other activity to obtain personal information or any other information about others except with their express written consent and of which consent you shall maintain a written record for a period of three (3) years after any termination of this Agreement;
+**(vi)** collect, harvest, mine or engage in any other activity to obtain personal information or any other information about others except with their express written consent and of which consent you shall maintain a written record for a period of three (3) years after any termination of this Agreement;
 
-**(vii)** remove from any Website Content or falsely add to any Website Content, any copyright, trademark or other legal or proprietary rights notices, author attributions or other information such as origin or source of such Website Content;
+**(vii)** remove from any Website Content or falsely add to any Website Content, any copyright, trademark or other legal or proprietary rights notices, author attributions or other information such as origin or source of such Website Content;
 
-**(viii)** create a false identity for the purpose of misleading others (including, posing as an Enphase employee or agent);
+**(viii)** create a false identity for the purpose of misleading others (including, posing as an Enphase employee or agent);
 
-**(ix)** violate the rights of Enphase or any third party (including other users’ rights) or abuse, defame, harass, stalk or threaten another; or
+**(ix)** violate the rights of Enphase or any third party (including other users’ rights) or abuse, defame, harass, stalk or threaten another; or
 
-**(x)** create liability for Enphase. 
+**(x)** create liability for Enphase. 
 
 ### 6\. Descriptions and Specifications of Products and Services
 
@@ -143,13 +146,25 @@ It is our policy to remove, or disable access to, material that infringes any co
 
 These Terms are subject to occasional revision, and if Enphase makes any substantial changes to these Terms, we will notify you by prominently posting notice of the changes on the Websites or sending you an e-mail to the address that you provided for your Account. Any changes to these Terms will be effective upon the earlier of thirty (30) calendar days following our dispatch of an e-mail notice to you or thirty (30) calendar days following our posting of notice of the changes on the Websites. These changes will be effective immediately for new users of the Websites or Services. If you do not agree to the changes, you must cease your use of the Websites and Services. By using any of the Websites or Services, you agree to be bound by any such changes and, therefore, you should periodically visit the Websites to examine the then-current Terms. Please note that at all times you are responsible for updating any e-mail address that you have provided to us for your Account. If the e-mail address you have provided to us is not valid, or for any reason is not capable of delivering to you the notice described above, our dispatch of the e-mail containing such notice will nonetheless constitute effective notice of the changes described in the notice.
 
-### 17\. Jurisdiction
+### 17\. Arbitration Agreement
 
-These Terms and any action related to these Terms are governed by the laws of the State of California, United States of America, without giving effect to any conflicts of laws principles that would require the application of the law of a different state or jurisdiction. Venue and jurisdiction for any claims arising from these Terms shall be in a federal court in the Northern District of California having jurisdiction or in the California state courts in Santa Clara County, California. By using any of the Websites, Services, or Products you consent to the personal jurisdiction and venue of these courts.
+Applicability of Arbitration Agreement. Any dispute, claim, or controversy arising from or relating to, these Terms or your access or use of the Websites or the Services, shall be submitted to mandatory, final, and binding arbitration, rather than in court, except that (i) you may assert claims in small claims court if your claims qualify; and (ii) you or Enphase may seek equitable relief in court for infringement or other misuse of intellectual property rights (such as trademarks, trade dress, domain names, trade secrets, copyrights, and patents).
+
+Arbitration Rules and Forum. For any dispute, claim, or controversy with Enphase in connection with the Websites or the Services, you shall first contact Enphase at [legal@enphaseenergy.com](mailto:legal@enphaseenergy.com) and attempt to resolve the dispute with us informally. If the dispute has not been resolved after sixty (60) days, both parties shall resolve such dispute through binding arbitration under the Optional Expedited Arbitration Procedures then in effect for the Judicial Arbitration and Mediation Services (“JAMS”). JAMS may be contacted at www.jamsadr.com. The existence, content and result of the arbitration shall be held in confidence by all participants. The arbitration shall be conducted by a single arbitrator selected by agreement of the parties or, failing such agreement, appointed in accordance with the JAMS rules. The arbitration shall be conducted in English and in Santa Clara County, California. If JAMS is not available to arbitrate, the parties shall select an alternative arbitral forum. If the arbitrator finds that you cannot afford to pay JAMS’s filing, administrative, hearing and/or other fees and cannot obtain a waiver from JAMS, Enphase will pay them for you. In addition, Enphase shall reimburse all such JAMS’s filing, administrative, hearing and/or other fees for claims totaling less than $10,000 unless the arbitrator determines the claims are frivolous. Any judgment on the award rendered by the arbitrator may be entered in any court of competent jurisdiction. The arbitrator shall have exclusive authority to (i) determine the scope and enforceability of this Arbitration Agreement, and (ii) resolve any dispute related to the interpretation, applicability, enforceability, or formation of this Arbitration Agreement including, but not limited to any claim that all or any part of this Arbitration Agreement is void or voidable. The arbitration will decide the rights and liabilities, if any, of the parties. The arbitration proceeding will not be consolidated with any other matters or joined with any other cases or parties. The arbitrator shall have the authority to grant motions dispositive of all or part of any claim. The arbitrator shall have the authority to award monetary damages and to grant any non-monetary remedy or relief available to an individual under applicable law, the arbitral forum’s rules, and these Terms. The arbitrator shall issue a written award and statement of decision describing the essential findings and conclusions on which the award is based, including the calculation of any damages awarded. The arbitrator has the same authority to award relief on an individual basis that a judge in a court of law would have. The award of the arbitrator is final and binding upon the you and Enphase.
+
+Waiver of Jury Trial. YOU AND ENPHASE HEREBY WAIVE ANY CONSTITUTIONAL, STATUTORY, OR OTHER LEGAL RIGHTS TO SUE IN COURT AND HAVE A TRIAL IN FRONT OF A JUDGE OR A JURY. You and Enphase are instead electing that all claims and disputes shall be resolved by arbitration under this Arbitration Agreement, except as specified in sections above. An arbitrator can award on an individual basis the same damages and relief as a court and must follow this Agreement as a court would. However, there is no judge or jury in arbitration, and court review of an arbitration award is subject to very limited review.
+
+Waiver of Class or Other Non-Individualized Relief. ALL CLAIMS AND DISPUTES WITHIN THE SCOPE OF THIS ARBITRATION AGREEMENT MUST BE ARBITRATED ON AN INDIVIDUAL BASIS AND NOT ON A CLASS OR COLLECTIVE BASIS; ONLY INDIVIDUAL RELIEF IS AVAILABLE, AND CLAIMS OF MORE THAN ONE INDIVIDUAL CANNOT BE ARBITRATED OR CONSOLIDATED WITH THOSE OF ANY OTHER INDIVIDUAL. If a decision is issued stating that applicable law precludes enforcement of any of this subsection’s limitations as to a given claim for relief, then such claim must be severed from the arbitration and brought into the State or Federal Courts located in San Francisco, California. All other claims shall be arbitrated.
+
+30-Day Right to Opt Out. You have the right to opt out of the provisions of this Arbitration Agreement by sending written notice of your decision to opt out to Enphase Energy, Inc., 47281 Bayside Parkway, Fremont, California, 94538, attention: General Counsel, within thirty (30) days after first becoming subject to this Arbitration Agreement. You may also opt-out of the provisions of this Arbitration Agreement by sending written notice of your decision to the following email address: legal@enphaseenergy.com. Your notice must include your name and address, and an unequivocal statement that you want to opt out of this Arbitration Agreement. If you opt out of this Arbitration Agreement, all other parts of this Agreement will continue to apply to you. Opting out of this Arbitration Agreement has no effect on any other arbitration agreements that you may currently have, or may enter in the future, with us.
+
+Severability. Except as provided above, if any part or parts of this Arbitration Agreement are found under the law to be invalid or unenforceable, then such specific part or parts shall be of no force and effect and shall be severed and the remainder of the Terms shall continue in full force and effect.
+
+Survival of Agreement. This Arbitration Agreement will survive the termination of your relationship with Enphase.
 
 ### 18\. Miscellaneous
 
-These Terms and any additional terms and conditions presented to you by Enphase on the applicable Website or in connection with the applicable Service, constitute the entire agreement between you and Enphase regarding your use of the Websites and Services. Our failure to exercise or enforce any right or provision of these Terms shall not operate as a waiver of such right or provision. If any provision of these Terms is, for any reason, held to be invalid or unenforceable, the other provisions of these Terms will be unimpaired and the invalid or unenforceable provision will be deemed modified so that it is valid and enforceable to the maximum extent permitted by law. As used in these Terms, the word "including" means "including but not limited to." You agree not to export, re-export, or transfer, directly or indirectly, any United States technical data acquired from us, in violation of United States export laws or regulations. Neither the rights nor obligations arising under these Terms are assignable by you, and any such attempted assignment or transfer shall be void and without effect. We may assign this Agreement without restriction.
+These Terms and any action related to these Terms are governed by the laws of the State of California, United States of America, without giving effect to any conflicts of laws principles that would require the application of the law of a different state or jurisdiction. These Terms and any additional terms and conditions presented to you by Enphase on the applicable Website or in connection with the applicable Service, constitute the entire agreement between you and Enphase regarding your use of the Websites and Services. Our failure to exercise or enforce any right or provision of these Terms shall not operate as a waiver of such right or provision. If any provision of these Terms is, for any reason, held to be invalid or unenforceable, the other provisions of these Terms will be unimpaired and the invalid or unenforceable provision will be deemed modified so that it is valid and enforceable to the maximum extent permitted by law. As used in these Terms, the word "including" means "including but not limited to." You agree not to export, re-export, or transfer, directly or indirectly, any United States technical data acquired from us, in violation of United States export laws or regulations. Neither the rights nor obligations arising under these Terms are assignable by you, and any such attempted assignment or transfer shall be void and without effect. We may assign this Agreement without restriction.
 
 ### 19\. Important information for South Australian and Western Australian homeowners
 
@@ -203,6 +218,8 @@ Products and services
 
 [Installer Network Terms & Conditions](https://enphase.com/legal/installer-network-terms-conditions)
 
+[Labor Protection Program](https://enphase.com/legal/labor-protection-program)
+
 [Permit Assistance & Design Review Services Terms & Conditions](https://enphase.com/legal/permit-assistance-design-review-services-terms-conditions)
 
 [SGIP Incentive Assistance Terms & Conditions](https://enphase.com/legal/sgip-incentive-assistance-terms-conditions)
@@ -251,6 +268,8 @@ Privacy
 
 [Cookie Policy](https://enphase.com/legal/cookie-policy)
 
+[Tesla Vehicle Data Processing Terms and Conditions](https://enphase.com/legal/tesla-vehicle-data-processing-terms-and-conditions)
+
 Sales
 
 [Sales Terms and Conditions](https://enphase.com/legal/sales-terms-and-conditions)
@@ -263,9 +282,15 @@ Sales
 
 [365 Pronto Customer Platform Services Agreement](https://enphase.com/legal/365-pronto-customer-platform-services-agreement)
 
+Enphase Care
+
+[Enphase Care Services Agreement](https://enphase.com/legal/enphase-care-services-agreement)
+
 Solargraf Terms of Use
 
-[United States, Canada, Puerto Rico](https://enphase.com/legal/united-states-canada-puerto-rico)
+[United States, Canada, Puerto Rico](https://enphase.com/legal/solargraf-terms-united-states-canada-puerto-rico)
+
+[Australia and New Zealand](https://enphase.com/legal/solargraf-terms-australia-and-new-zealand)
 
 [Brazil](https://enphase.com/legal/solargraf-terms-brazil)
 
@@ -278,6 +303,8 @@ Solargraf Terms of Use
 [Belgium (Dutch)](https://enphase.com/legal/solargraf-terms-belgium-dutch)
 
 [Belgium (French)](https://enphase.com/legal/solargraf-terms-belgium-french)
+
+[India](https://enphase.com/legal/solargraf-terms-india)
 
 [Philippines](https://enphase.com/legal/solargraf-terms-philippines)
 
@@ -428,12 +455,13 @@ Your session expired. Please login again to continue to purchase.
     * [NEM 3.0](https://enphase.com/installers/nem3)
     * [Commercial](https://enphase.com/installers/commercial)
     * [Critical updates](https://enphase.com/installers/updates)
-    * [Storage](https://enphase.com/installers/storage)
+    * [Storage](https://enphase.com/installers/storage/gen2)
     
 * Support
     
     * [Homeowners](https://enphase.com/support/homeowners)
     * [Installers](https://enphase.com/support/installers)
+    * [SunPower](https://enphase.com/support/sunpower)
     * [Enphase Community](https://support.enphase.com/s/community-home)
     * [Training events](https://enphase.com/installers/training/events)
     * [Warranty and labor](https://enphase.com/installers/resources/warranty)
