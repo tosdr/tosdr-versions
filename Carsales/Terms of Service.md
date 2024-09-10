@@ -8,7 +8,6 @@
     * [New cars](https://www.carsales.com.au/cars/new/)
     * [Private seller cars](https://www.carsales.com.au/cars/private/)
     * [Electric cars](https://www.carsales.com.au/cars/electric-fueltype/)
-    * [carsales SELECT](https://www.carsales.com.au/carsales-select/)
     * [Finance](https://www.carsales.com.au/car-finance/)
     
     ##### Popular makes
