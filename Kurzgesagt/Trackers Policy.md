@@ -1,8 +1,8 @@
-[![Image](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fearth-logo.034ae441.png&w=1080&q=75)](https://kurzgesagt.org/)
+[![earth](/_next/image?url=%2Fearth-logo.png&w=64&q=75)](https://kurzgesagt.org/)
 
 [Who we are](https://kurzgesagt.org/who-we-are)[What we do](https://kurzgesagt.org/what-we-do?visit=videos)[Careers](https://kurzgesagt.org/careers)[Sponsors](https://kurzgesagt.org/sponsors)[Help Center](https://kurzgesagt.org/faq)[Shop](https://shop-us.kurzgesagt.org/)
 
-[![Image](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fearth-logo.034ae441.png&w=1080&q=75)](https://kurzgesagt.org/)
+[![Image](/_next/image?url=%2Fearth-logo.png&w=64&q=75)](https://kurzgesagt.org/)
 
 COOKIE POLICY
 =============
@@ -143,5 +143,5 @@ Please contact us if you have any questions about this Cookie Policy or the info
 * [](https://www.reddit.com/r/kurzgesagt/)
 * [](https://www.tiktok.com/@kurz_gesagt)
 * [](https://discord.com/invite/kurzgesagt)
-* [![linkedin](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flinkedin-icon.a7c3e120.png&w=1080&q=75)](https://www.linkedin.com/company/18468378)
-* [![medium](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmedium-icon.57ffeee7.png&w=1080&q=75)](https://medium.com/@Kurzgesagt)
+* [![linkedin](/_next/image?url=%2Flinkedin-icon.png&w=128&q=75)](https://www.linkedin.com/company/18468378)
+* [![Medium](/_next/image?url=%2Fmedium-icon.png&w=128&q=75)](https://medium.com/@Kurzgesagt)
