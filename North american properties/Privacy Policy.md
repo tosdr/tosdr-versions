@@ -285,8 +285,8 @@ Atlanta, Georgia 30361
 Cincinnati, Ohio 45202
 
 [Dallas](https://www.naproperties.com/offices/dallas/)  
-90 Trophy Club Drive, Suite 104  
-Trophy Club, Texas 76262
+2014 Southside Blvd., Suite 4300   
+Allen, Texas 75013
 
 [Ft. Myers](https://www.naproperties.com/offices/fort-myers/)  
 12561 New Brittany Boulevard  
