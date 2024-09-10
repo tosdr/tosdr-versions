@@ -50,7 +50,7 @@ Your cart is empty
 
 You didn't add any item in your cart yet. Browse the website to find amazing deals! [Trending](https://www.instant-gaming.com/en/trending/ "Trending - View all") [Pre-orders](https://www.instant-gaming.com/en/pre-orders/ "Pre-orders") [Bestsellers](https://www.instant-gaming.com/en/bestsellers/ "Bestsellers - View all")[Continue shopping](#)
 
-PC Mac Linux Switch PlayStation 4 PlayStation 5 Xbox One Xbox Series X|S GeForce Now Battle.net Epic Games GOG.com Instant Gaming Microsoft Store Ncsoft Nintendo Eshop EA App Other PlayStation Store Rockstar Steam Ubisoft Connect Action Adventure Arcade Beat'em all Cloud Gaming Coaching Cooperation Cross-Platform Multiplayer Early Access FPS Fighting Free to Play Games for Switch GeForce Now Gift Cards Indies Local Co-op MMO Management Multiplayer Nintendo Eshop Gift Card Nintendo Online Membership Online Co-op Online PVP Other Platformer PlayStation Now Subscription PlayStation Plus Subscription PlayStation Store Gift Card RPG Racing Remote Play Together Shoot'em up Simulation Single-player Software Sports Strategy VR VR only Wargame Xbox Game Pass Subscription Xbox Gift Card Xbox Live Gold Subscription Xbox Microsoft Points Xbox ONE Games Bestsellers Discount: Best Price: Low to High Price: High to Low Release: Recent Release: Old Reviews: Best Reviews: Worst
+PC Mac Linux Switch PlayStation 4 PlayStation 5 Xbox One Xbox Series X|S GeForce Now Battle.net Epic Games GOG.com Instant Gaming Microsoft Store Ncsoft Nintendo Eshop EA App Other PlayStation Store Rockstar Steam Ubisoft Connect Action Adventure Arcade Beat'em all Cloud Gaming Coaching Cooperation Cross-Platform Multiplayer Early Access FPS Fighting Free to Play Games for Switch GeForce Now Gift Cards Indies Local Co-op MMO Management Multiplayer Nintendo Eshop Gift Card Nintendo Online Membership Online Co-op Online PVP Other Platformer PlayStation Now Subscription PlayStation Plus Subscription PlayStation Store Gift Card RPG Racing Remote Play Together Shoot'em up Simulation Single-player Software Sports Strategy VR Wargame Xbox Game Pass Subscription Xbox Gift Card Xbox Live Gold Subscription Xbox Microsoft Points Xbox ONE Games Bestsellers Discount: Best Price: Low to High Price: High to Low Release: Recent Release: Old Reviews: Best Reviews: Worst
 
    
 
@@ -58,7 +58,7 @@ Between
 
 and
 
-£
+$
 
  
 
@@ -222,17 +222,17 @@ We will change this privacy notice from time to time and any changes will be con
 * [Redeem a Gift Card](https://www.instant-gaming.com/en/redeem/)
 * [Find the latest video game news](https://news.instant-gaming.com/)
 
-[](https://www.instant-gaming.com/en/discord "Discord")[](https://twitter.com/InstantGamingEN "X")[](https://www.instagram.com/instantgamingen/ "Instagram")[](https://www.facebook.com/Instant.Gaming "Facebook")[](https://www.youtube.com/channel/UCJ4IjxQrCVSunrWIknciNNg "Youtube")[](https://twitch.tv/instantgamingen "Twitch")[](https://chrome.google.com/webstore/detail/instant-gaming/lbnoedlobifdhbpjkcfhcbdcjhampmne "Chrome Extension")[](https://addons.mozilla.org/firefox/addon/instant-gaming/ "Firefox Extension")
+[](https://www.instant-gaming.com/en/discord "Discord")[](https://x.com/InstantGamingEN "X")[](https://www.instagram.com/instantgamingen/ "Instagram")[](https://www.facebook.com/Instant.Gaming "Facebook")[](https://www.youtube.com/channel/UCJ4IjxQrCVSunrWIknciNNg "Youtube")[](https://twitch.tv/instantgamingen "Twitch")[](https://chrome.google.com/webstore/detail/instant-gaming/lbnoedlobifdhbpjkcfhcbdcjhampmne "Chrome Extension")[](https://addons.mozilla.org/firefox/addon/instant-gaming/ "Firefox Extension")
 
  [![iPhone App](https://gaming-cdn.com/themes/igv2/modules/footer/images/apple.svg)](https://apps.apple.com/app/instant-gaming/id1199040135 "iPhone App")[![Android App](https://gaming-cdn.com/themes/igv2/modules/footer/images/android.svg)](https://play.google.com/store/apps/details?id=com.instantgaming.android "Android App")
 
 Copyright © 2024 Instant Gaming - All rights reserved
 
-United Kingdom
+United States
 
 English
 
-GBP
+USD
 
 Language and currency
 
@@ -251,7 +251,6 @@ Currencies
 [](https://www.instant-gaming.com/)
 
 Log in
-------
 
 [](https://www.instant-gaming.com/en/create-an-account/)[](https://www.instant-gaming.com/en/create-an-account/)[](https://www.instant-gaming.com/en/create-an-account/)[](https://www.instant-gaming.com/en/create-an-account/)
 
@@ -288,7 +287,6 @@ or
 [No account yet?](https://www.instant-gaming.com/en/create-an-account/) [Lost password?](https://www.instant-gaming.com/en/lost-password/)
 
 Two factor authentication
--------------------------
 
 Enter the 6 digits given by your authentication mobile app
 
