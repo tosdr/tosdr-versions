@@ -10,7 +10,6 @@ TOP
 * [Private Banking](https://www.kfh.com/en/home/Private-Banking.html)
 * [Corporate Banking](https://www.kfh.com/en/home/Corporate-Banking.html)
 * [KFH Auto](https://www.kfh.com/en/auto/Home.html)
-* [KFH (formerly AUB)](https://www.kfh.com/en/KFH-formerly-AUB/Personal.html)
 
 ![](/dam/jcr:2f76411f-263c-4ef0-a185-a50511e3eabc/Flags-Group.png)
 
@@ -60,11 +59,7 @@ Private Banking
 
 ### _![](/dam/jcr:0f8c5719-68b7-4344-87d8-5930fe00dbc4/investments.png)_ [Investment](https://www.kfh.com/en/home/Private-Banking/Investment.html)
 
-### _![](/dam/jcr:ba895003-ed2f-4afa-92c4-7dd4c5b0956b/financing.png)_ [Financial Services](https://www.kfh.com/en/home/Private-Banking/Financial-Services.html)
-
-### [TOOLS & SERVICES](https://www.kfh.com/en/home/Private-Banking/Tools-services.html)
-
-### _![](/dam/jcr:451a07b1-7ad7-42a6-9c17-d1fc3998e401/exclusive-privilege.png)_ [About Us](https://www.kfh.com/en/home/Private-Banking/aboutus.html)
+### _![](/dam/jcr:ba895003-ed2f-4afa-92c4-7dd4c5b0956b/financing.png)_ [Financing Services](https://www.kfh.com/en/home/Private-Banking/Financing-Services.html)
 
 Corporate Banking
 
@@ -94,26 +89,13 @@ KFH Auto
 
 ### _![](/dam/jcr:34daf680-a14f-45da-8e0d-c83cf3739c63/Artboard%201%20copy%204-8.png)_ [Our showrooms](https://www.kfh.com/en/auto/Home/Showrooms.html)
 
-KFH (formerly AUB)
-
-### [KFH (formerly AUB)](https://www.kfh.com/en/KFH-formerly-AUB/Personal.html)
-
-### _![](/dam/jcr:38d56ce9-c6ac-4de9-bcd7-a700219566ca/menu-icon1.png)_ [Accounts](https://www.kfh.com/en/KFH-formerly-AUB/Personal/Accounts.html)
-
-### _![](/dam/jcr:905bf91f-53ad-47b9-adcf-41588b6fae68/new%20card%20pic%20icon.png)_ [Cards](https://www.kfh.com/en/KFH-formerly-AUB/Personal/Cards.html)
-
-### _![](/dam/jcr:a5727554-f93a-4a03-9171-d8186d2b8dcf/account.png)_ [Digital Banking Services](https://www.kfh.com/en/KFH-formerly-AUB/Personal/Digital-Banking-Services.html)
-
-### _![](/dam/jcr:b24afde4-17b7-4db8-ad0f-22fd3e7b85d0/Financing.png)_ [Financing](https://www.kfh.com/en/KFH-formerly-AUB/Personal/Financing.html)
-
-### _![](/dam/jcr:de32519c-8f68-460d-87e8-b895d67d9ca4/Tools.png)_ [Tools-services](https://www.kfh.com/en/KFH-formerly-AUB/Personal/Tools-services.html)
-
 ### _![](/dam/jcr:38d56ce9-c6ac-4de9-bcd7-a700219566ca/menu-icon1.png)_ [Accounts](https://www.kfh.com/en/home/Personal/Accounts.html)
 
 * ["Current" Account](https://www.kfh.com/en/home/Personal/Accounts/current-account.html)
 * ["Electron" Account](https://www.kfh.com/en/home/Personal/Accounts/electron-account.html)
 * ["Saving" Account](https://www.kfh.com/en/home/Personal/Accounts/saving-account.html)
 * ["Alrabeh" Account](https://www.kfh.com/en/home/Personal/Accounts/alrabih-account.html)
+* [Al-Hassad Account](https://www.kfh.com/en/home/Personal/Accounts/alhassad-account.html)
 * ["Baiti" Account](https://www.kfh.com/en/home/Personal/Accounts/baiti-account.html)
 * ["Gold" Account](https://www.kfh.com/en/home/Personal/Accounts/gold-account.html)
 * ["AL-AMIL" Account](https://www.kfh.com/en/home/Personal/Accounts/alamil-account.html)
@@ -147,7 +129,6 @@ KFH (formerly AUB)
 * [Currency Rates](https://www.kfh.com/en/home/Personal/Tools-services/Currency-Rates.html)
 * [Additional Banking Tools and Services](https://www.kfh.com/en/home/Personal/Tools-services/Additional-Banking-Tools-and-Services.html)
 * [IBAN number & Swift code](https://www.kfh.com/en/home/Personal/Tools-services/IBAN-Number---Swift-Code.html)
-* [Salaries And Subventions](https://www.kfh.com/en/home/Personal/Tools-services/salaries.html)
 * [Safe Deposits Box Service](https://www.kfh.com/en/home/Personal/Tools-services/Safe-Deposit-Box-Service.html)
 * [KFH Quran App](https://www.kfh.com/en/home/Personal/Tools-services/KFH-Quran-App.html)
 * [Emergency cash "Service"](https://www.kfh.com/en/home/Personal/Tools-services/Emergency-cash.html)
@@ -171,9 +152,9 @@ KFH (formerly AUB)
 
 * [Credit Cards](https://www.kfh.com/en/home/Personal/Cards/credit-cards.html)
 * [Prepaid Cards](https://www.kfh.com/en/home/Personal/Cards/prepaid-cards.html)
-* [Distinctive Offers for KFH Banking Cards](https://www.kfh.com/en/home/Personal/Cards/Offers-Promotions.html)
 * [Card Services](https://www.kfh.com/en/home/Personal/Cards/Card-Services.html)
 * [KFH Travel Tips](https://www.kfh.com/en/home/Personal/Cards/Travel-Tips.html)
+* [Distinctive Offers for KFH Banking Cards](https://www.kfh.com/en/home/Personal/Cards/Offers-Promotions.html)
 * [Baitak Rewards](https://www.kfh.com/en/home/Personal/Cards/Baitak-Rewards.html)
 
 ### _![](/dam/jcr:7c92f0e2-3742-40aa-86d3-f5ae72ee9dad/after-sale-services-icon.png)_ [After Sales Services](https://www.kfh.com/en/home/Personal/After-Sale-Services.html)
@@ -368,7 +349,6 @@ You can contact us by clicking the ‘contact us’ button. We will get back to 
 
 Kuwait Finance House (KFH) is considered a pioneer in the banking phenomenon known as Islamic Finance or Shari’a Compliant Banking. KFH is the first Islamic bank established in 1977 in the State of Kuwait and today it’s one of the foremost Islamic financial institutions in the world.
 
-* [KFH(formerly AUB)](https://www.kfh.com/en/KFH-formerly-AUB/Personal.html)
 * [About Kuwait Finance House (KFH)](https://www.kfh.com/en/home/Personal/aboutus.html)
 * [Board of Directors & Management](https://www.kfh.com/en/home/Personal/aboutus/Islamic-Banking-Pioneers.html)
 * [KUWAIT FINANCE HOUSE DISCLOSURES](https://www.kfh.com/en/home/Personal/Tools-services/KFH-Disclosures.html)
@@ -380,7 +360,7 @@ Kuwait Finance House (KFH) is considered a pioneer in the banking phenomenon kno
 * [Local Real Estate Reports](https://www.kfh.com/en/home/Investor-Relations/Real-estate-Reports.html)
 
 * [Investor Relations](https://www.kfh.com/en/home/Investor-Relations.html)
-* [Corporate Profile](https://www.kfh.com/dam/jcr:2de3f3bb-6d82-4661-8b31-0f96974fa8f3/Corporate%20Profile%20-%20Q1%202024%20-%20English.pdf)
+* [Corporate Profile](https://www.kfh.com/dam/jcr:2de3f3bb-6d82-4661-8b31-0f96974fa8f3/Corporate%20Profile%20-%20H1%202024%20-%20English.pdf)
 * [Customers Complaints](https://www.kfh.com/en/home/Personal/Complaints-and-Consumer-Protection-Unit.html)
 * [Information Security Guide](https://www.kfh.com/en/home/Personal/Information-Security-Guide.html)
 * [Careers](https://www.kfh.com/en/home/Personal/Tools-services/Career.html)
