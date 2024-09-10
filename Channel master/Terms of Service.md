@@ -1,6 +1,6 @@
 [Skip to content](#page-content)
 
-[Click Here - Custom TV Antenna Recommendation](https://www.channelmaster.com/pages/tv-antenna-recommendation)
+[Need help selecting the best antenna, installation options & available channels?](https://www.channelmaster.com/pages/tv-antenna-recommendation)
 
 [Menu](#page-menu)
 
