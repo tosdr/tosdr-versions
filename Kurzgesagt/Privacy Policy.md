@@ -1,13 +1,13 @@
-[![Image](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fearth-logo.034ae441.png&w=1080&q=75)](https://kurzgesagt.org/)
+[![earth](/_next/image?url=%2Fearth-logo.png&w=64&q=75)](https://kurzgesagt.org/)
 
 [Who we are](https://kurzgesagt.org/who-we-are)[What we do](https://kurzgesagt.org/what-we-do?visit=videos)[Careers](https://kurzgesagt.org/careers)[Sponsors](https://kurzgesagt.org/sponsors)[Help Center](https://kurzgesagt.org/faq)[Shop](https://shop-us.kurzgesagt.org/)
 
-[![Image](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fearth-logo.034ae441.png&w=1080&q=75)](https://kurzgesagt.org/)
+[![Image](/_next/image?url=%2Fearth-logo.png&w=64&q=75)](https://kurzgesagt.org/)
 
 PRIVACY POLICY
 ==============
 
-Valid as of 23 March, 2024
+Valid as of August 14th, 2024
 
 1. **INTRODUCTION** 
 
@@ -98,9 +98,7 @@ These personal data will not be passed on to third parties. You are at any time 
 
 **Newsletter Service Provider**
 
-We use an external service provider as a data processor for sending and analyzing our newsletter on the basis of a Data Processing Agreement (“**DPA**”) pursuant to Art. 28 GDPR.  
-We do not transfer your personal data to a third country outside EU in this context.   
-  
+As of August 2024, we use an external service provider as a data processor located in the US for sending and analyzing our newsletter on the basis of a Data Processing Agreement (“**DPA**”) pursuant to Art. 28 GDPR, which obliges the service provider to implement appropriate security measures and grants us comprehensive control powers. Additionally, our service provider is certified in accordance with the EU-U.S. Data Privacy Framework. In this context, the personal data you provided will be transferred to our service provider in the US. This is necessary to continue sending you our newsletter and is therefore based on our legitimate interest pursuant to Art. 6 para. 1 lit. f GDPR. If you do not wish your data to be transferred, you can object at any time by contacting us directly (see Sec. 12)  
  
 
 **5.3 Participation in sweepstakes, competitions or surveys**
@@ -310,5 +308,5 @@ Due to the further development of our website and services or due to changed leg
 * [](https://www.reddit.com/r/kurzgesagt/)
 * [](https://www.tiktok.com/@kurz_gesagt)
 * [](https://discord.com/invite/kurzgesagt)
-* [![linkedin](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flinkedin-icon.a7c3e120.png&w=1080&q=75)](https://www.linkedin.com/company/18468378)
-* [![medium](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmedium-icon.57ffeee7.png&w=1080&q=75)](https://medium.com/@Kurzgesagt)
+* [![linkedin](/_next/image?url=%2Flinkedin-icon.png&w=128&q=75)](https://www.linkedin.com/company/18468378)
+* [![Medium](/_next/image?url=%2Fmedium-icon.png&w=128&q=75)](https://medium.com/@Kurzgesagt)
