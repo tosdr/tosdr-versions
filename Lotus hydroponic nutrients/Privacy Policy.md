@@ -1,34 +1,12 @@
-[**SUMMER SALE!! - Up to 50% Off 🦍**](https://www.gorillagrowtent.com/collections/lotus-nutrients)
+[Skip to content](#main)
 
-[Menu](#nav)[![Lotus Premium Plant Nutrients](//lotusnutrients.com/cdn/shop/files/Lotus-W_copy_400x.webp?v=1721263128)
+[**LABOR DAY SALE!! - Up to 50% Off 🦍**](https://www.gorillagrowtent.com/collections/lotus-nutrients "https://www.gorillagrowtent.com/collections/lotus-nutrients")
 
-![Lotus Premium Plant Nutrients](//lotusnutrients.com/cdn/shop/files/Lotus-W_copy_2000x.webp?v=1721263128)](https://lotusnutrients.com/ "Lotus Premium Plant Nutrients")
+[Lotus Premium Plant Nutrients![](//lotusnutrients.com/cdn/shop/files/Lotus-Logo.webp?v=1683572191&width=409)](https://lotusnutrients.com/)
 
-* [SHOP](https://lotusnutrients.com/pages/best-cannabis-nutrients)
-* [CANNABIS NUTRIENTS](https://lotusnutrients.com/pages/best-cannabis-nutrients)
-* [FEEDING SCHEDULE / CALCULATOR](https://lotusnutrients.com/pages/cannabis-feeding-schedule)
-    * [FEEDING SCHEDULE](https://lotusnutrients.com/pages/cannabis-feeding-schedule)
-    * [NUTRIENT CALCULATOR](https://lotusnutrients.com/pages/nutrient-calculator)
-* [MORE INFO](https://lotusnutrients.com/pages/about)
-    * [THE LOTUS ADVANTAGE](https://lotusnutrients.com/pages/best-hydroponic-nutrients)
-    * [NUTRIENT BASICS](https://lotusnutrients.com/pages/understanding-the-nutrients-your-plants-need)
-    * [DIAGNOSE YOUR PLANTS](https://lotusnutrients.com/pages/cannabis-deficiencies)
-    * [FREQUENTLY ASKED QUESTIONS](https://lotusnutrients.com/pages/frequently-asked-questions)
-    * [STORE LOCATOR](https://lotusnutrients.com/pages/nutrients-near-me)
-    * [Led Grow Lights](https://www.kindledgrowlights.com/)
-    * [ABOUT US](https://lotusnutrients.com/pages/about)
-* [CONTACT](https://lotusnutrients.com/pages/contact-and-support)
-* [Sign in](https://lotusnutrients.com/account/login)
-
-[](https://twitter.com/lotusnutrients "Lotus Premium Plant Nutrients on Twitter")[](https://www.facebook.com/lotusnutrients/ "Lotus Premium Plant Nutrients on Facebook")[](https://www.youtube.com/@LotusNutrients/ "Lotus Premium Plant Nutrients on YouTube")[](https://www.instagram.com/lotusnutrients/ "Lotus Premium Plant Nutrients on Instagram")
-
-* [](#cart)
-* Your Cart is Empty
-
-[![Lotus Premium Plant Nutrients](//lotusnutrients.com/cdn/shop/files/Lotus-Logo_2000x.webp?v=1683572191)](https://lotusnutrients.com/ "Lotus Premium Plant Nutrients")
+Open navigation menu
 
 * [SHOP](https://lotusnutrients.com/pages/best-cannabis-nutrients)
-* [CANNABIS NUTRIENTS](https://lotusnutrients.com/pages/best-cannabis-nutrients)
 * FEEDING SCHEDULE / CALCULATOR
     
     * [FEEDING SCHEDULE](https://lotusnutrients.com/pages/cannabis-feeding-schedule)
@@ -36,6 +14,7 @@
     
 * MORE INFO
     
+    * [CANNABIS NUTRIENTS](https://lotusnutrients.com/pages/best-cannabis-nutrients)
     * [THE LOTUS ADVANTAGE](https://lotusnutrients.com/pages/best-hydroponic-nutrients)
     * [NUTRIENT BASICS](https://lotusnutrients.com/pages/understanding-the-nutrients-your-plants-need)
     * [DIAGNOSE YOUR PLANTS](https://lotusnutrients.com/pages/cannabis-deficiencies)
@@ -45,6 +24,41 @@
     * [ABOUT US](https://lotusnutrients.com/pages/about)
     
 * [CONTACT](https://lotusnutrients.com/pages/contact-and-support)
+
+* [SHOP](https://lotusnutrients.com/pages/best-cannabis-nutrients)
+* FEEDING SCHEDULE / CALCULATOR
+* MORE INFO
+* [CONTACT](https://lotusnutrients.com/pages/contact-and-support)
+
+[Login](https://lotusnutrients.com/account/login)
+
+FEEDING SCHEDULE / CALCULATOR
+
+* [FEEDING SCHEDULE](https://lotusnutrients.com/pages/cannabis-feeding-schedule)
+* [NUTRIENT CALCULATOR](https://lotusnutrients.com/pages/nutrient-calculator)
+
+MORE INFO
+
+* [CANNABIS NUTRIENTS](https://lotusnutrients.com/pages/best-cannabis-nutrients)
+* [THE LOTUS ADVANTAGE](https://lotusnutrients.com/pages/best-hydroponic-nutrients)
+* [NUTRIENT BASICS](https://lotusnutrients.com/pages/understanding-the-nutrients-your-plants-need)
+* [DIAGNOSE YOUR PLANTS](https://lotusnutrients.com/pages/cannabis-deficiencies)
+* [FREQUENTLY ASKED QUESTIONS](https://lotusnutrients.com/pages/frequently-asked-questions)
+* [STORE LOCATOR](https://lotusnutrients.com/pages/nutrients-near-me)
+* [Led Grow Lights](https://www.kindledgrowlights.com/)
+* [ABOUT US](https://lotusnutrients.com/pages/about)
+
+Cart
+
+Your cart is empty
+
+Close
+
+🍪 Cookie policy
+
+We use cookies and similar technologies to provide the best experience on our website. Refer to our Privacy Policy for more information.
+
+Accept Decline
 
 Lotus Hydroponic Nutrients Privacy Policy
 =========================================
@@ -66,23 +80,23 @@ For more information regarding Lotus Nutrients' Terms and Conditions, please con
 PHONE: 1-866-LOTUS-CA  
               (1-866-568-8722)
 
-###### Follow
+Newsletter
 
-[](https://twitter.com/lotusnutrients "Lotus Premium Plant Nutrients on Twitter")[](https://www.facebook.com/lotusnutrients/ "Lotus Premium Plant Nutrients on Facebook")[](https://www.youtube.com/@LotusNutrients/ "Lotus Premium Plant Nutrients on YouTube")[](https://www.instagram.com/lotusnutrients/ "Lotus Premium Plant Nutrients on Instagram")
+Sign up to get the latest on sales, new releases and more…
+
+E-mail
+
+Subscribe
 
 * [Search](https://lotusnutrients.com/search)
 * [Privacy Policy](https://lotusnutrients.com/pages/privacy-policy)
 * [Store Locator](https://lotusnutrients.com/pages/nutrients-near-me)
 
-Sign up to get the latest on sales, new releases and more…
+* [](https://www.facebook.com/lotusnutrients/)
+* [](https://twitter.com/lotusnutrients)
+* [](https://www.instagram.com/lotusnutrients/)
+* [](https://www.pinterest.com/growstrongindustries)
+* [](https://www.youtube.com/@LotusNutrients/)
+* [](https://www.tiktok.com/@growstrongindustries)
 
- 
-
-  
-
-© 2024 [Lotus Premium Plant Nutrients](https://lotusnutrients.com/).  
-[](https://www.shopify.com/?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore)
-
- Search  
-
-{"themeColor":"#351264","iconColor":"#7020bc","showLogo":false,"topBottomPosition":10,"rightLeftPosition":10,"iconSize":"small","iconCustomSize":64,"position":"middle-right"}
+© 2024 - Lotus Premium Plant Nutrients
