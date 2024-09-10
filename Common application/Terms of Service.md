@@ -6,7 +6,7 @@
 
 [Apply to college](https://www.commonapp.org/apply)
 
-[First-year application guide](https://www.commonapp.org/apply/first-year-students)[Essay prompts](https://www.commonapp.org/apply/essay-prompts)[Transfer application guide](https://www.commonapp.org/apply/transfer-students)[Download mobile app](https://www.commonapp.org/mobile)
+[First-year application guide](https://www.commonapp.org/apply/first-year-students)[Guides and resources](https://www.commonapp.org/apply/student-guides-and-resources)[Essay prompts](https://www.commonapp.org/apply/essay-prompts)[Transfer application guide](https://www.commonapp.org/apply/transfer-students)[Download mobile app](https://www.commonapp.org/mobile)
 
 [Support your students](https://www.commonapp.org/counselors-and-recommenders)
 
@@ -65,6 +65,7 @@ Connect with #commonapp
 * [Terms of use](https://www.commonapp.org/terms-of-use)
 * [Privacy policy](https://www.commonapp.org/privacy-policy)
 * [Fraud policy](https://www.commonapp.org/fraud-policy)
+* [Cookie notice](https://www.commonapp.org/cookie-notice)
 * [Application affirmations](https://www.commonapp.org/application-affirmations)
 
 ®  2024 The Common Application, Inc
