@@ -352,7 +352,6 @@ Canada
 
 ##### USEFUL LINKS
 
-* [Eldamar App](https://eldamar-studio.com/eldamar-app/)
 * [Redeem Code](https://eldamar-studio.com/redeem-code/)
 * [Lifetime Access](https://eldamar-studio.com/lifetime-access/)
 * [Products Compatibility](https://eldamar-studio.com/products-compatibility/)
@@ -360,10 +359,9 @@ Canada
 * [How to use LUTs](https://eldamar-studio.com/how-to-use-luts/)
 * [How to use Photo Overlays](https://eldamar-studio.com/how-to-install-photoshop-overlays/)
 * [How to use Photoshop Actions](https://eldamar-studio.com/how-to-use-photoshop-actions/)
-* [Affiliate Dashboard](https://eldamar-studio.com/affiliate-account/)
-* [Affiliate Registration](https://eldamar-studio.com/affiliate-registration/)
 * [Subscribe To Our Newsletter](https://eldamar-studio.com/newsletter/)
 * [Suggestion Box](https://eldamar-studio.com/suggestion-box/)
+* [Our Other Store – Lumin Presets](https://luminpresets.com/)
 
 ##### INFORMATION
 
