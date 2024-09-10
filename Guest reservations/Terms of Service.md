@@ -1,13 +1,13 @@
-[![Guest Reservations - Logo](/assets/f415e69c/images/logo/logo-bell-dark.svg "Guest Reservations - Logo")  
+[![Guest Reservations - Logo](/assets/12c8db29/images/logo/logo-bell-dark.svg "Guest Reservations - Logo")  
 An independent travel network](https://www.guestreservations.com/ "Guest Reservations")
 
 [Groups (9+ Rooms)](https://groups.guestreservations.com/Group-Rate/ "Groups (9+ Rooms)") [Travel Guides](https://www.guestreservations.com/about/news "Travel Guides") [My Booking](https://www.guestreservations.com/about/mybooking "My Booking")
 
-[![call](/assets/f415e69c/images/phone-yellow.svg "call")Call now 020 3966 8654](tel:02039668654)
+[![call](/assets/12c8db29/images/phone-yellow.svg "call")Call now (888) 784-0532](tel:8887840532)
 
-[![call](/assets/f415e69c/images/phone-yellow.svg "call")Call now 020 3966 8654](tel:02039668654)
+[![call](/assets/12c8db29/images/phone-yellow.svg "call")Call now (888) 784-0532](tel:8887840532)
 
-[![call](/assets/f415e69c/images/phone-yellow.svg "call")Call now 020 3874 0518](tel:02038740518)
+[![call](/assets/12c8db29/images/phone-yellow.svg "call")Call now (855) 470-1527](tel:8554701527)
 
 Guest Reservations Terms of Use
 ===============================
@@ -44,7 +44,7 @@ Mandatory Pre-Arbitration Notice Procedure. If the Claim is not resolved through
 Arbitration Agreement. You and Travel Agent agree that any and all Claims, if they cannot be resolved through the Notice Procedure, will be resolved exclusively through final and binding arbitration, except as otherwise expressly provided below.
 
 * This means that you and Travel Agent agree that all Claims will only be resolved through arbitration and not in a court of law. Arbitration offers a less formal and more confidential method for resolving disputes. Rather than appearing in court, the involved parties present their arguments and evidence to an arbitrator. The arbitrator then renders a decision, determining the "winning" party by applying the law, much like a judge would in a courtroom setting.
-* You and Travel Agent agree that any arbitration shall be governed by applicable rules of National Arbitration & Mediation (“NAM”) (including the [Comprehensive Dispute Resolution Rules and Procedures](https://www.namadr.com/content/uploads/2022/04/Comprehensive-Rules-as-of-4.18.2022.pdf) and/or the [Supplemental Rules for Mass Arbitration Filings](#), as applicable) (“NAM Rules”), as modified by the arbitration agreement contained in these terms, and will be administered by NAM. If NAM is unavailable or unwilling to do so, another arbitration provider shall be selected by the parties that will do so, or if the parties are unable to agree on an alternative administrator, by the court pursuant to 9 U.S.C. §5. The NAM Rules are available online at www.NAMADR.com, by calling NAM, or by requesting them in writing at the Notice Address. You may obtain a form to commence an arbitration [here](https://www.namadr.com/content/uploads/2020/09/Comprehensive-Demand-for-Arb-revised-9.18.19.pdf) or by contacting NAM.
+* You and Travel Agent agree that any arbitration shall be governed by applicable rules of National Arbitration & Mediation (“NAM”) (including the [Comprehensive Dispute Resolution Rules and Procedures](https://www.namadr.com/content/uploads/2022/04/Comprehensive-Rules-as-of-4.18.2022.pdf) and/or the [Supplemental Rules for Mass Arbitration Filings](https://www.namadr.com/content/uploads/2023/08/Mass-Filing-Supplemental-Rules-updated-as-of-8.24.23.pdf), as applicable) (“NAM Rules”), as modified by the arbitration agreement contained in these terms, and will be administered by NAM. If NAM is unavailable or unwilling to do so, another arbitration provider shall be selected by the parties that will do so, or if the parties are unable to agree on an alternative administrator, by the court pursuant to 9 U.S.C. §5. The NAM Rules are available online at www.NAMADR.com, by calling NAM, or by requesting them in writing at the Notice Address. You may obtain a form to commence an arbitration [here](https://www.namadr.com/content/uploads/2020/09/Comprehensive-Demand-for-Arb-revised-9.18.19.pdf) or by contacting NAM.
 * Arbitration will be conducted before a single arbitrator who will resolve any Claims between you and Travel Agent (including any disagreements regarding the scope, enforceability, formation, interpretation, applicability, enforceability, voidness, or voidability of this Contract or dispute resolution provision). All remedies shall be available; the arbitrator's award on the Claim(s) shall be final and binding. However, a court of competent jurisdiction may enter judgment on the arbitrator’s award (see further details below).
 * The arbitration will be conducted in person in the county where you live or at another mutually agreed location and, at the request of either party, may be conducted by telephone, videoconference, or written submissions.
 * Payment of fees, including filing, administration, and arbitrator fees will be governed by the NAM Rules, unless you qualify for a fee waiver under applicable law. Each party shall pay its own attorneys’ fees, unless otherwise authorized by statute.
@@ -145,9 +145,9 @@ If you have a good faith belief that we removed your content in error, you may s
 
 Travel Agent may modify the terms of this Contract at any time by posting a new version on the Site, and you should review the Contract each time you use the Site or Services. If you do not agree to the modified terms, you will not be bound by the modified terms if you email [\[email protected\]](https://www.guestreservations.com/cdn-cgi/l/email-protection) within 30 days of the date of the modified terms, outlining your disagreement, and thereafter discontinuing your use of the Site and the Services; if you do so, you will still be bound by any prior version of the terms. This Contract may not otherwise be amended except in writing, signed by you and Travel Agent. This Contract constitutes the entire contract between you and Travel Agent with respect to the subject matters hereof. This Contract is severable. If any provision of this Contract is held to be invalid or unenforceable, such provision shall be enforced to the maximum extent possible, or if not enforceable, then struck, and the remaining provisions shall be enforced to the fullest extent. You agree that Travel Agent may assign this Contract and any incorporated contracts in its sole discretion. Headings are for reference purposes only. Except as expressly set forth herein, nothing in this Contract shall be construed as creating or constituting a partnership, joint venture, or agency relationship between you and Travel Agent (or any Beneficiary). Travel Agent’s failure to insist on strict performance of this Contract or to act with respect to a breach does not waive any of its rights.
 
- ![Guestreservations - Logo](/assets/237ed65f/images/logo-dark-tm.svg "Guestreservations - Logo") An independent travel network
+ ![Guestreservations - Logo](/assets/e059699d/images/logo-dark-tm.svg "Guestreservations - Logo") An independent travel network
 
- [![GuestReservations on Facebook](/assets/237ed65f/images/social-networks/facebook.svg "GuestReservations on Facebook")](https://www.facebook.com/guestreservations "GuestReservations on Facebook")[![GuestReservations on Twitter](/assets/237ed65f/images/social-networks/twitter.svg "GuestReservations on Twitter")](https://twitter.com/guest_res "GuestReservations on Twitter")[![GuestReservations on Instagram](/assets/237ed65f/images/social-networks/instagram.svg "GuestReservations on Instagram")](https://www.instagram.com/guestreservations/ "GuestReservations on Instagram")[![GuestReservations on Pinterest](/assets/237ed65f/images/social-networks/pinterest.svg "GuestReservations on Pinterest")](https://www.pinterest.com/guestreservations/ "GuestReservations on Pinterest")[![GuestReservations on YouTube](/assets/237ed65f/images/social-networks/you-tube.svg "GuestReservations on YouTube")](https://www.youtube.com/@GuestReservations "GuestReservations on YouTube")
+ [![GuestReservations on Facebook](/assets/e059699d/images/social-networks/facebook.svg "GuestReservations on Facebook")](https://www.facebook.com/guestreservations "GuestReservations on Facebook")[![GuestReservations on Twitter](/assets/e059699d/images/social-networks/twitter.svg "GuestReservations on Twitter")](https://twitter.com/guest_res "GuestReservations on Twitter")[![GuestReservations on Instagram](/assets/e059699d/images/social-networks/instagram.svg "GuestReservations on Instagram")](https://www.instagram.com/guestreservations/ "GuestReservations on Instagram")[![GuestReservations on Pinterest](/assets/e059699d/images/social-networks/pinterest.svg "GuestReservations on Pinterest")](https://www.pinterest.com/guestreservations/ "GuestReservations on Pinterest")[![GuestReservations on YouTube](/assets/e059699d/images/social-networks/you-tube.svg "GuestReservations on YouTube")](https://www.youtube.com/@GuestReservations "GuestReservations on YouTube")
 
 ##### Learn More
 
@@ -157,6 +157,7 @@ Travel Agent may modify the terms of this Contract at any time by posting a new 
 * [Customer Reviews](https://www.guestreservations.com/about/reviews "Customer Reviews")
 * [Terms of Service](https://www.guestreservations.com/about/termsofuse "Terms of Service")
 * [Privacy Policy](https://www.guestreservations.com/about/privacy "Privacy Policy")
+* [Sitemap](https://www.guestreservations.com/hotels "Sitemap")
 * [Hotel Non-Affiliation](# "Hotel Non-Affiliation")
 
 ##### Get in Touch
@@ -183,7 +184,7 @@ As an independent travel network and online travel agent (OTA), we can offer roo
 
 This allows us, as an independent travel network, to get you the same deals you expect with larger travel agencies.
 
-Copyright 2024 Guest Reservations, LLC.
+Copyright 2024 **Guest ReservationsTM**.
 
 **Guest ReservationsTM** is an independent travel network  
 offering over 100,000 hotels worldwide.
