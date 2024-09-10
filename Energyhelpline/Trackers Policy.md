@@ -58,7 +58,7 @@ This website uses cookies to ensure you get the best experience on our website. 
     * [Business Energy Help](https://www.energyhelpline.com/business-energy-help)
     
 * [About](https://www.energyhelpline.com/about-us)
-* [Switch Online Now!](https://quotes.energyhelpline.com/comparison/?affiliateid=316&thirdpartyid=EHL_NavButton)
+* [Compare Tariffs Online](https://quotes.energyhelpline.com/comparison/?affiliateid=316&thirdpartyid=EHL_NavButton)
 
 What are cookies?
 =================
