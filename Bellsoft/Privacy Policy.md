@@ -12,11 +12,11 @@
         
         We offer competitive and flexible pricing for large-scale development projects, and long-term support roadmaps.](https://bell-sw.com/alpaquita-support/#pricing)
     
-    [When failing to optimize cloud costs, companies can overspend up to 70%
+    When failing to optimize cloud costs, companies can overspend up to 70%
     
     Read our report to learn more
     
-    ![When failing to optimize cloud costs, companies can overspend up to 70%](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NCIgaGVpZ2h0PSI0NCIgZmlsbD0ibm9uZSI+PGcgc3Ryb2tlPSIjZmZmIiBjbGlwLXBhdGg9InVybCgjYSkiPjxjaXJjbGUgY3g9IjIyIiBjeT0iMjIiIHI9IjIxLjUiIG9wYWNpdHk9Ii40Ii8+PHBhdGggc3Ryb2tlLXdpZHRoPSIyIiBkPSJtMTkgMjkgNy03LTctNyIvPjwvZz48ZGVmcz48Y2xpcFBhdGggaWQ9ImEiPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0wIDBoNDR2NDRIMHoiLz48L2NsaXBQYXRoPjwvZGVmcz48L3N2Zz4=)](javascript:void(0))
+    ![When failing to optimize cloud costs, companies can overspend up to 70%](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NCIgaGVpZ2h0PSI0NCIgZmlsbD0ibm9uZSI+PGcgc3Ryb2tlPSIjZmZmIiBjbGlwLXBhdGg9InVybCgjYSkiPjxjaXJjbGUgY3g9IjIyIiBjeT0iMjIiIHI9IjIxLjUiIG9wYWNpdHk9Ii40Ii8+PHBhdGggc3Ryb2tlLXdpZHRoPSIyIiBkPSJtMTkgMjkgNy03LTctNyIvPjwvZz48ZGVmcz48Y2xpcFBhdGggaWQ9ImEiPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0wIDBoNDR2NDRIMHoiLz48L2NsaXBQYXRoPjwvZGVmcz48L3N2Zz4=)
     
     Linux
     
@@ -329,13 +329,69 @@ Like Our Products?Help us spread the word. Review us on Gartner Peer Insights.[L
 
 ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAAAsTAAALEwEAmpwYAAAB30lEQVQoz23ST08TQRyH8X0h85vd2bbbbv8YA6JoCFJLt9sW1ErAKoWKgtELmigQCInByAUTD5iYHsRgYowX482b0cQX9phtt6VVD8/1k/nOjGXydboV6rj5GiZXxclVMdkKTpQfYGdmsdMltBegvXkks4TKrSKZFSS5gHJDxJ1GzGWsPmbytSEw7IF+MAQG6PQcurCMKW2RXjoisfAGNb6JeLcRt4IyU1gjWL76D2hnyr3SIdq/hT2/h9M8wn3QwWx8wL73HnVlC0ncREwRy/0PFk012eAMTJfRXhV7oo1uHmI/7lD58htn+yuy/Q2ZP0IlFhETYEVIvzMsPp1fjufOor0Q++Iaev01ZueUmU8/cN7+Ql58R4oHSLqJmApWF+k3hDkDrBQ/SIg+fxe79YrEsxOye59xj3+iH35EjW0iqUVUBJoYMUMz+5gzwGLQb6AvrGPP7aPCHZzWMTK1jzq30QXFVLGcARJDI9g1tBdVRmevI2MryOxzpLqLnmyhVjuo5jskeIm69ATJtrAiZATKlOKZEVREp4o9MHcDmWgj9V2kcYCMt1GPTpH7J6jaITL5FMktY3Xv6S+oj9neDDo1g05eRZJFJBUifgPJ3UH5TVRhrXsqlWp0/6GYaf4A8WJOItoPKgoAAAAASUVORK5CYII=)
 
-![Try JDK Performance Edition](https://assets.bell-sw.com/www.bell-sw.com/static/2c75b6b15a14ef202c1470e79f5df0ec/7fa93/try-jdk-performance-edition-banner-bg.png)
+![](https://assets.bell-sw.com/www.bell-sw.com/static/2c75b6b15a14ef202c1470e79f5df0ec/7fa93/try-jdk-performance-edition-banner-bg.png)
 
-![](https://assets.bell-sw.com/www.bell-sw.com/static/liberica-jdk-performance-edition-9a66eb7d79f2b1a1262bb77ffc73e015.svg)
+Limited Offer
 
-Achieve a 10-15% performance boost  with minimal to zero code changes
+Increase the Performance of JDK 8 Simply by Switching to Liberica JDK Performance edition
 
-[Tell Me More](https://bell-sw.com/libericajdk-performance-edition/)
+Work e-mail \*
+
+Subscribe
+
+I agree with Terms and [Privacy](https://bell-sw.com/privacy-policy/) \*
+
+\* This field is required
+
+![](https://assets.bell-sw.com/www.bell-sw.com/static/icon-jdk-p-labeled-e45f019b732eed645d177d5477709af8.svg)
+
+![](data:image/svg+xml;charset=utf-8,%3Csvg height='450' width='890' xmlns='http://www.w3.org/2000/svg' version='1.1'%3E%3C/svg%3E)
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAAAsTAAALEwEAmpwYAAAB30lEQVQoz23ST08TQRyH8X0h85vd2bbbbv8YA6JoCFJLt9sW1ErAKoWKgtELmigQCInByAUTD5iYHsRgYowX482b0cQX9phtt6VVD8/1k/nOjGXydboV6rj5GiZXxclVMdkKTpQfYGdmsdMltBegvXkks4TKrSKZFSS5gHJDxJ1GzGWsPmbytSEw7IF+MAQG6PQcurCMKW2RXjoisfAGNb6JeLcRt4IyU1gjWL76D2hnyr3SIdq/hT2/h9M8wn3QwWx8wL73HnVlC0ncREwRy/0PFk012eAMTJfRXhV7oo1uHmI/7lD58htn+yuy/Q2ZP0IlFhETYEVIvzMsPp1fjufOor0Q++Iaev01ZueUmU8/cN7+Ql58R4oHSLqJmApWF+k3hDkDrBQ/SIg+fxe79YrEsxOye59xj3+iH35EjW0iqUVUBJoYMUMz+5gzwGLQb6AvrGPP7aPCHZzWMTK1jzq30QXFVLGcARJDI9g1tBdVRmevI2MryOxzpLqLnmyhVjuo5jskeIm69ATJtrAiZATKlOKZEVREp4o9MHcDmWgj9V2kcYCMt1GPTpH7J6jaITL5FMktY3Xv6S+oj9neDDo1g05eRZJFJBUifgPJ3UH5TVRhrXsqlWp0/6GYaf4A8WJOItoPKgoAAAAASUVORK5CYII=)
+
+![](https://assets.bell-sw.com/www.bell-sw.com/static/2c75b6b15a14ef202c1470e79f5df0ec/7fa93/try-jdk-performance-edition-banner-bg.png)
+
+Limited Offer
+
+Increase the Performance of JDK 11 Simply by Switching to Liberica JDK Performance edition
+
+Work e-mail \*
+
+Subscribe
+
+I agree with Terms and [Privacy](https://bell-sw.com/privacy-policy/) \*
+
+\* This field is required
+
+![](https://assets.bell-sw.com/www.bell-sw.com/static/icon-jdk-p-labeled-e45f019b732eed645d177d5477709af8.svg)
+
+![](data:image/svg+xml;charset=utf-8,%3Csvg height='450' width='890' xmlns='http://www.w3.org/2000/svg' version='1.1'%3E%3C/svg%3E)
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAAAsTAAALEwEAmpwYAAAB+klEQVQoz23SS08TURjG8YnCBEsBg7Sd1nbmnLYzU9qOFwjIrZ2Z3qDQeImiQsDGGDeNQoxxQ0hcYly4MyyVuGfnzo/gd/qbQocW4uJsf3nO+zyKLLaQxQ2ks0G6uI4sNBGFJjK/hsw3ENN1jFwNw66gWz666aKbZZKZEnFjntv6DHGxQCq9RFIuogSYLK4PgF1s9QIUPdCwfITpoZseifQ8n/c6nBwd4jhzxPMuqUIJ5RJWbF4CxXSQsIqwKtiWR952kfYKs4sV/vw65u/pCZsPW0Tqu+j1HZT0fzAxkK77XWFXsQo+92Z95hdrOAs11h6/4Pf3r5x+OeTt7g7RZx8wtj6idJHgnWNX0tk15J0KdqlBYfURM5s7zGy/5v7WG358O+LnwT6tl69Ibn9Cbr5HEQF0kayPnd+uiuFUEMtriNoT0k/b5NodtOZz9t51OD7Yx3NdJudqpDbaKLKH9EvoYyJX7bebc9Edn+Rdn5sijxqexMqY1N0yWizOsBpidCrRBQOkBwV3G8AMy0PPljFMnyltmiE1xPDIGNfUMIqiMnRjnNGJCKMTt1ACZBDqlhDM5Azrbi9bRlgeI2GNVMZm2WuwUKqw5NV5sOIzPhnjuhpCORvtRaIedBUzy6SyZfRsCdt0iGpJInEDLSlJ6BmiCQM1NIYWjfEPUDU/Xh932QAAAAAASUVORK5CYII=)
+
+![](https://assets.bell-sw.com/www.bell-sw.com/static/16359cb9776bb16306644cfc7b8e115c/7fa93/webinar-popup-bg.png)
+
+Live Webinar
+
+**Mastering Kubernetes:**
+
+Best Practices for Deploying Spring Boot Applications
+
+**Dmitry Chuyko,**
+
+Performance Architect at BellSoft
+
+Wednesday, Aug 28, 2024
+
+At 16:00 (GMT+8) | 10 a.m. CET
+
+E-mail \*
+
+Register Now
+
+I agree with Terms and [Privacy](https://bell-sw.com/privacy-policy/) \*
+
+\* This field is required
 
 ![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMTAiIGhlaWdodD0iMTgiIGZpbGw9Im5vbmUiPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik00MC4wMzYgMTYuODhIMzYuMTlMNDEuOTU5LjAzN2gzLjg0NmwtNS43NyAxNi44NDNaTTQ2LjQ2NSAxNi44OEg0Mi42Mkw0OC4zOS4wMzdoMy44NDVMNDYuNDY1IDE2Ljg4Wk03Ny41MTIgNC44ODdjLTYuMjk4IDAtOC41NzUgMS44NDgtOC41NzUgNi4xMjIgMCA0LjI3MyAyLjI3NyA2LjEyMiA4LjU3NSA2LjEyMiA2LjMgMCA4LjU3NS0xLjg0OSA4LjU3NS02LjEyMiAwLTQuMjc0LTIuMjY3LTYuMTIyLTguNTc1LTYuMTIyWm0tLjAxOCA5Ljg0N2MtMy42MDUgMC00LjkxNS0xLjEzMy00LjkxNS0zLjc0NCAwLTIuNjEgMS4zLTMuNzQ0IDQuOTE1LTMuNzQ0IDMuNjA0IDAgNC45MDUgMS4xMzQgNC45MDUgMy43NDQgMCAyLjYxLTEuMyAzLjc0NC00LjkwNSAzLjc0NFpNMTAuMDE5IDQuODg3Yy0zLjEyMiAwLTUuMDYzLjY5Ny02LjE3OCAyLjA2MlYuMDQ3SC4xOTlWMTYuODloMy42NDJ2LTEuODEyYzEuMTA2IDEuMzY2IDMuMDY2IDIuMDYzIDYuMTc4IDIuMDYzIDUuMzg4IDAgNy4zNC0yLjM5NyA3LjM0LTYuMTIzIDAtMy43MjUtMS45NTItNi4xMzEtNy4zNC02LjEzMVptLTEuMjY0IDkuODQ3Yy0zLjY0MSAwLTQuOTYtMS4xMzMtNC45Ni0zLjc0MyAwLTIuNjExIDEuMzE5LTMuNzQ0IDQuOTYtMy43NDQgMy42NDIgMCA0Ljk2MSAxLjEzMyA0Ljk2MSAzLjc0NCAwIDIuNjEtMS4zMTkgMy43NDMtNC45NiAzLjc0M1pNMzUuMjYgMTEuNTM5YzAtLjE2OC4wMS0uMzQ0LjAxLS41MyAwLTQuMjc0LTIuNDgtNi4xMjItOC4xMi02LjEyMi01LjY0OCAwLTguMTI4IDEuODQ4LTguMTI4IDYuMTIyIDAgNC4yNzMgMi40OCA2LjEyMiA4LjEyOCA2LjEyMiA0LjU0MyAwIDcuMDMzLTEuMTk4IDcuODMyLTMuOTAyaC0zLjg1NWMtLjYyMyAxLjAzMi0xLjg2OCAxLjQ5Ni0zLjk4NiAxLjQ5Ni0zLjA0NyAwLTQuMjgzLS45NzUtNC40Ni0zLjE5NmgxMi41OHYuMDFabS04LjExLTQuMzAyYzIuNTc0IDAgMy44NjUuNjk3IDQuMzAyIDIuMjQ4aC04LjYwM2MuNDM3LTEuNTUxIDEuNzI4LTIuMjQ4IDQuMzAxLTIuMjQ4Wk0xMDYuMDkgMTQuODgzYy0uODY0IDAtMS42MTctLjQtMS42MTctMS42NDRWNy4yNDVoNS4wNjRWNS4xOTNoLTUuMDczVjBoLTMuNjQydjUuMTkzaC03Ljg4N1YzLjY1MWMwLTEuMjQ1Ljc2Mi0xLjY0NCAxLjYyNi0xLjY0NGgzLjkwMlYwaC00Ljc1N2MtMi45OTEgMC00LjQwMyAxLjE5OC00LjQwMyAzLjh2MS4zOTNoLTIuMDI2djIuMDUzaDIuMDI2djkuNjQ0aDMuNjQxVjcuMjM3aDcuODk3djUuODQ0YzAgMi42IDEuNDIxIDMuOCA0LjQwNCAzLjhoNC43NTZ2LTEuOTk4aC0zLjkxMVpNNTUuNDc1IDguMzYxYzAtLjk2NiAxLjAwMy0xLjM3NSA0LjA1LTEuMzc1IDIuNzMyIDAgMy4yOS42MDQgMy40OTQgMS40OTZoNC4wMzJjLS41ODYtMi40NDMtMi43MTMtMy41OTUtNy40OTgtMy41OTUtNi4xNSAwLTcuNjE3IDEuNzQ2LTcuNjE3IDMuNjUgMCA0Ljc0OCAxMS43NDIgMi4yNDkgMTEuNzQyIDQuODIyIDAgLjk2Ni0xLjEwNSAxLjM3NS00LjE1MiAxLjM3NS0zLjAyIDAtMy45NDktLjYwNC00LjE1My0xLjU1MWgtMy43NDRjLjUwMiAyLjg5OCAyLjgxNSAzLjk0OCA3Ljc5NCAzLjk0OCA2LjMgMCA3Ljk0NC0xLjY5IDcuOTQ0LTMuODY0IDAtNS4xMjktMTEuODkyLTIuMjMtMTEuODkyLTQuOTA2WiIvPjwvc3ZnPg==)
 
