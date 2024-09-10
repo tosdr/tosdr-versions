@@ -14,7 +14,7 @@ Help
     * [Information](http://gosupermodel.com/support/parents.jsp)
     * [Safety](http://gosupermodel.com/support/safety.jsp)
 
-[![](https://c76830a4af.mjedge.net/wfr/dologin_en.a)](http://gosupermodel.com/)
+[![](https://c76830a4af.mjedge.net/images/createmodel/language_specific/dologin_2024_en.jpg)](http://gosupermodel.com/)
 
 Privacy policy
 
