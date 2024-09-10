@@ -281,6 +281,14 @@ Please enter phone number.
 
                 
 
+Never miss what's happening on Penana!
+
+Turn on notifications
+
+Later
+
+![Close](https://static2.penana.com/img/close_pop.png)
+
 [×](#)
 
 ##### Interface Language:
