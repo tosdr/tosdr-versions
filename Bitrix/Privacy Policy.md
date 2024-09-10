@@ -1,12 +1,12 @@
-[](https://www.bitrix24.uk/)
+[](https://www.bitrix24.com/)
 
-[Start for free](https://www.bitrix24.uk/create.php)
+[Start for free](https://www.bitrix24.com/create.php)
 
  
 
 [](https://www.bitrix24.com/search/)
 
-[](https://www.bitrix24.uk/)
+[](https://www.bitrix24.com/)
 
 Product
 
@@ -230,43 +230,43 @@ Integrations
 
 Import & Export
 
- [![jira-migration](/upload/optimizer/converted/images/content_en/icons/menu/jira-migration.png.webp?1719827227370)Jira migration](https://www.bitrix24.com/apps/app/integrations24.jira_migration/)
+ [![jira-migration](/upload/optimizer/converted/images/content_en/icons/menu/jira-migration.png.webp?1725521592525)Jira migration](https://www.bitrix24.com/apps/app/integrations24.jira_migration/)
 
- [![trello-data-migration](/upload/optimizer/converted/images/content_en/icons/menu/trello-data-migration.png.webp?1719827227370)Trello data migration](https://www.bitrix24.com/apps/app/integrations24.trello/)
+ [![trello-data-migration](/upload/optimizer/converted/images/content_en/icons/menu/trello-data-migration.png.webp?1725521592525)Trello data migration](https://www.bitrix24.com/apps/app/integrations24.trello/)
 
- [![asana-data-migration](/upload/optimizer/converted/images/content_en/icons/menu/asana-data-migration.png.webp?1719827227370)Asana data migration](https://www.bitrix24.com/apps/app/integrations24.asana/)
+ [![asana-data-migration](/upload/optimizer/converted/images/content_en/icons/menu/asana-data-migration.png.webp?1725521592525)Asana data migration](https://www.bitrix24.com/apps/app/integrations24.asana/)
 
- [![import-from-excel](/upload/optimizer/converted/images/content_en/icons/menu/import-from-excel.png.webp?1719827227370)Import from Excel](https://www.bitrix24.com/apps/app/informunity.excel_west/)
+ [![import-from-excel](/upload/optimizer/converted/images/content_en/icons/menu/import-from-excel.png.webp?1725521592525)Import from Excel](https://www.bitrix24.com/apps/app/informunity.excel_west/)
 
 Sales & CRM
 
- [![stripe-integration](/upload/optimizer/converted/images/content_en/icons/menu/stripe-integration.png.webp?1719827227370)Stripe integration](https://www.bitrix24.com/apps/app/integrations24.stripeintegration/)
+ [![stripe-integration](/upload/optimizer/converted/images/content_en/icons/menu/stripe-integration.png.webp?1725521592525)Stripe integration](https://www.bitrix24.com/apps/app/integrations24.stripeintegration/)
 
- [![salebot](/upload/optimizer/converted/images/content_en/icons/menu/salebot.png.webp?1719827227370)Salebot](https://www.bitrix24.com/apps/app/salebot.chatter/)
+ [![salebot](/upload/optimizer/converted/images/content_en/icons/menu/salebot.png.webp?1725521592525)Salebot](https://www.bitrix24.com/apps/app/salebot.chatter/)
 
- [![call-center-wizard](/upload/optimizer/converted/images/content_en/icons/menu/call-center-wizard.png.webp?1719827227370)Call Center Wizard](https://www.bitrix24.com/apps/app/informunity.callcenterwizard/)
+ [![call-center-wizard](/upload/optimizer/converted/images/content_en/icons/menu/call-center-wizard.png.webp?1725521592525)Call Center Wizard](https://www.bitrix24.com/apps/app/informunity.callcenterwizard/)
 
- [![chat-booster](/upload/optimizer/converted/images/content_en/icons/menu/chat-booster.png.webp?1719827227370)Chat Booster](https://www.bitrix24.com/apps/app/brs4.lead_booster/)
+ [![chat-booster](/upload/optimizer/converted/images/content_en/icons/menu/chat-booster.png.webp?1725521592525)Chat Booster](https://www.bitrix24.com/apps/app/brs4.lead_booster/)
 
 Marketing
 
- [![wazzup](/upload/optimizer/converted/images/content_en/icons/menu/wazzup.png.webp?1719827227370)Wazzup](https://www.bitrix24.com/apps/app/wazzup.app/)
+ [![wazzup](/upload/optimizer/converted/images/content_en/icons/menu/wazzup.png.webp?1725521592525)Wazzup](https://www.bitrix24.com/apps/app/wazzup.app/)
 
- [![whatsapp-business-api](/upload/optimizer/converted/images/content_en/icons/menu/whatsapp-business-api.png.webp?1719827227370)WhatsApp Business API](https://www.bitrix24.com/apps/app/polyakov.ofitsialnoe_whatsapp_business_api/)
+ [![whatsapp-business-api](/upload/optimizer/converted/images/content_en/icons/menu/whatsapp-business-api.png.webp?1725521592525)WhatsApp Business API](https://www.bitrix24.com/apps/app/polyakov.ofitsialnoe_whatsapp_business_api/)
 
- [![plivo-sms](/upload/optimizer/converted/images/content_en/icons/menu/plivo-sms.png.webp?1719827227370)Plivo SMS](https://www.bitrix24.com/apps/app/integrations24.plivosms/)
+ [![plivo-sms](/upload/optimizer/converted/images/content_en/icons/menu/plivo-sms.png.webp?1725521592525)Plivo SMS](https://www.bitrix24.com/apps/app/integrations24.plivosms/)
 
- [![mailchimp-exporter](/upload/optimizer/converted/images/content_en/icons/menu/mailchimp-exporter.png.webp?1719827227370)MailChimp Exporter](https://www.bitrix24.com/apps/app/webbee.bx24tomailchimp/)
+ [![mailchimp-exporter](/upload/optimizer/converted/images/content_en/icons/menu/mailchimp-exporter.png.webp?1725521592525)MailChimp Exporter](https://www.bitrix24.com/apps/app/webbee.bx24tomailchimp/)
 
 Tasks & Projects
 
- [![mind-map](/upload/optimizer/converted/images/content_en/icons/menu/mind-map.png.webp?1719827227370)Mind Map](https://www.bitrix24.com/apps/app/integrations24.mindmap/)
+ [![mind-map](/upload/optimizer/converted/images/content_en/icons/menu/mind-map.png.webp?1725521592525)Mind Map](https://www.bitrix24.com/apps/app/integrations24.mindmap/)
 
- [![miro-boards](/upload/optimizer/converted/images/content_en/icons/menu/miro-boards.png.webp?1719827227370)Miro Boards](https://www.bitrix24.com/apps/app/integrations24.miro/)
+ [![miro-boards](/upload/optimizer/converted/images/content_en/icons/menu/miro-boards.png.webp?1725521592525)Miro Boards](https://www.bitrix24.com/apps/app/integrations24.miro/)
 
- [![billable-hours-for-tasks](/upload/optimizer/converted/images/content_en/icons/menu/billable-hours-for-tasks.png.webp?1719827227370)Billable Hours For Tasks](https://www.bitrix24.com/apps/app/integrations24.billing/)
+ [![billable-hours-for-tasks](/upload/optimizer/converted/images/content_en/icons/menu/billable-hours-for-tasks.png.webp?1725521592525)Billable Hours For Tasks](https://www.bitrix24.com/apps/app/integrations24.billing/)
 
- [![kpi-company-efficiency](/upload/optimizer/converted/images/content_en/icons/menu/kpi-company-efficiency.png.webp?1719827227370)KPI – Company Efficiency](https://www.bitrix24.com/apps/app/apikit.ikpi/)
+ [![kpi-company-efficiency](/upload/optimizer/converted/images/content_en/icons/menu/kpi-company-efficiency.png.webp?1725521592525)KPI – Company Efficiency](https://www.bitrix24.com/apps/app/apikit.ikpi/)
 
 [See 400+ apps & integrations](https://www.bitrix24.com/apps/)
 
@@ -314,23 +314,23 @@ Latest from Bitrix24
 
 [](https://www.bitrix24.com/search/)
 
-[Start for free](https://www.bitrix24.uk/create.php)
+[Start for free](https://www.bitrix24.com/create.php)
 
 Log In
 
-uk
+en
 
 America
 
-[United States (English)](https://www.bitrix24.com/privacy/?moved_from=US) [América Latina (Español)](https://www.bitrix24.es/privacy/?moved_from=ES) [Brasil (Português)](https://www.bitrix24.com.br/privacy/?moved_from=BR) [México (Español)](https://www.bitrix24.mx/privacy/?moved_from=MX) [Colombia (Español)](https://www.bitrix24.co/privacy/?moved_from=CO)
+[United States (English)](https://www.bitrix24.com/?moved_from=US) [América Latina (Español)](https://www.bitrix24.es/?moved_from=ES) [Brasil (Português)](https://www.bitrix24.com.br/?moved_from=BR) [México (Español)](https://www.bitrix24.mx/?moved_from=MX) [Colombia (Español)](https://www.bitrix24.co/?moved_from=CO)
 
 Europe
 
-[Europe (English)](https://www.bitrix24.eu/privacy/?moved_from=EU) [Deutschland (Deutsch)](https://www.bitrix24.de/privacy/?moved_from=DE) [France (Français)](https://www.bitrix24.fr/privacy/?moved_from=FR) [Polska (Polski)](https://www.bitrix24.pl/privacy/?moved_from=PL) [Italia (Italiano)](https://www.bitrix24.it/privacy/?moved_from=IT) [United Kingdom (English)](https://www.bitrix24.uk/privacy/?moved_from=GB)
+[Europe (English)](https://www.bitrix24.eu/?moved_from=EU) [Deutschland (Deutsch)](https://www.bitrix24.de/?moved_from=DE) [France (Français)](https://www.bitrix24.fr/?moved_from=FR) [Polska (Polski)](https://www.bitrix24.pl/?moved_from=PL) [Italia (Italiano)](https://www.bitrix24.it/?moved_from=IT) [United Kingdom (English)](https://www.bitrix24.uk/?moved_from=GB)
 
 Asia
 
-[India (English)](https://www.bitrix24.in/privacy/?moved_from=IN) [Türkiye (Türkçe)](https://www.bitrix24.com.tr/privacy/?moved_from=TR) [中国 (简体中文)](https://www.bitrix24.cn/privacy/?moved_from=CN) [台灣 (繁體中文)](https://www.bitrix24.cn/tc/privacy/?moved_from=TW) [Indonesia (Bahasa Indonesia)](https://www.bitrix24.id/privacy/?moved_from=ID) [Malaysia (Bahasa Melayu)](https://www.bitrix24.com/my/privacy/?moved_from=MY) [ประเทศไทย (ภาษาไทย)](https://www.bitrix24.com/th/privacy/?moved_from=TH) [Việt Nam (Tiếng Việt)](https://www.bitrix24.vn/privacy/?moved_from=VN) [日本 (日本語)](https://www.bitrix24.jp/privacy/?moved_from=JP)
+[India (English)](https://www.bitrix24.in/?moved_from=IN) [Türkiye (Türkçe)](https://www.bitrix24.com.tr/?moved_from=TR) [中国 (简体中文)](https://www.bitrix24.cn/?moved_from=CN) [台灣 (繁體中文)](https://www.bitrix24.cn/tc/?moved_from=TW) [Indonesia (Bahasa Indonesia)](https://www.bitrix24.id/?moved_from=ID) [Malaysia (Bahasa Melayu)](https://www.bitrix24.com/my/?moved_from=MY) [ประเทศไทย (ภาษาไทย)](https://www.bitrix24.com/th/?moved_from=TH) [Việt Nam (Tiếng Việt)](https://www.bitrix24.vn/?moved_from=VN) [日本 (日本語)](https://www.bitrix24.jp/?moved_from=JP)
 
 You can change your region here, if necessary
 
@@ -369,7 +369,7 @@ Bitrix24 Privacy Policy
 
 * [Choices Available to You](#d1)
 * [California, Virginia, Colorado Privacy Rights](#d2)
-* [Cookies and Tracking pixels](#d3)
+* [Cookies and Tracking pixels (Device Data Collection Tools)](#d3)
 
 [E. BITRIX24 INTEGRATIONS, THIRD PARTY LINKS AND EXTENSIONS PRIVACY STATEMENT](#e)
 
@@ -377,11 +377,15 @@ Bitrix24 Privacy Policy
 
 [G. YOUR RIGHTS](#g)
 
-Last Updated: May 6th, 2024
+Last Updated: June 12, 2024
 
 #### A. INTRODUCTION
 
-This Website is operated by Bitrix24. The Data Controllers, depending on your domain zone registration with Bitrix24, are Bitrix24 Limited registered at Frema House, office 102, No. 9, Constantinou Paparigopoulou Str., 3106, Limassol, Cyprus, Bitrix, Inc. a company organized under the laws of the Commonwealth of Virginia, United States of America with its registered address at 700 North Fairfax St., Suite 614-B, Alexandria, VA 22314, USA and Bitrix24 India Private Limited with its registered office address is #66/1, Coles Road, C Stn F4, Benson Town, Bangalore, Bangalore North, Karnataka, India, 560046, and its affiliates (collectively, "Bitrix24", "We", "Us" "Our" or "Bitrix"). Bitrix24 is committed to keeping your information secure and managing it in accordance with our legal responsibilities under the applicable privacy and data protection laws.
+This Website is operated by Bitrix24. The Data Controllers are Bitrix24 legal entities. Bitrix24 will have the meaning according to the Contracting Party section of Bitrix24 Terms of Service ([https://bitrix24.com/terms/](https://bitrix24.com/terms/)) depending on the domain zone registration of your customer account, the following legal entities will be your Data Controllers:  
+a) Bitrix24 Ltd, a company registered under the laws of the Republic of Cyprus with its registered office at Frema House, office 102, No. 9, Constantinou Paparigopoulou Str., 3106, Limassol, Cyprus;  
+b) Bitrix, Inc. a company organized under the laws of the Commonwealth of Virginia, United States of America with its registered address at 700 North Fairfax St., Suite 614-B, Alexandria, VA 22314, USA; and  
+c) Bitrix24 India Private Limited with its registered office address is #66/1, Coles Road, C Stn F4, Benson Town, Bangalore, Bangalore North, Karnataka, India, 560046, and its affiliates (collectively, "Bitrix24", "We", "Us" "Our" or "Bitrix").  
+Bitrix24 is committed to keeping your information secure and managing it in accordance with our legal responsibilities under the applicable privacy and data protection laws.
 
 This Privacy Policy provides information about how we process personal information through the websites [www.bitrix24.eu](https://www.bitrix24.eu/), [www.bitrix24.com](https://www.bitrix24.com/), [www.bitrix24.de](https://www.bitrix24.de/), [www.bitrix24.pl](https://www.bitrix24.pl/), [www.bitrix24.it](https://www.bitrix24.it/), [www.bitrix24.com.tr](https://www.bitrix24.com.tr/), [www.bitrix24.com.br](https://www.bitrix24.com.br/), [www.bitrix24.es](https://www.bitrix24.es/), [www.bitrix24.fr](https://www.bitrix24.fr/), [www.bitrix24.cn](https://www.bitrix24.cn/), [www.bitrix24.cn/tc/](https://www.bitrix24.cn/tc/), [www.bitrix24.com/my/](https://www.bitrix24.com/my/), [www.bitrix24.com/th/](https://www.bitrix24.com/th), [www.bitrix24.in](https://www.bitrix24.in/), [www.bitrix24.co](https://www.bitrix24.co/), [www.bitrix24.mx](https://www.bitrix24.mx/), [www.bitrix24.uk](https://www.bitrix24.uk/), [www.bitrix24.id](https://www.bitrix24.id/), [www.bitrix24.vn](https://www.bitrix24.vn/), [www.bitrix24.jp](https://www.bitrix24.jp/), [mailinternetsub.com](https://mailinternetsub.com/) ("Website"), our mobile apps and our Products and Services.
 
@@ -529,15 +533,23 @@ In the event that all or substantially all of Bitrix24's stock and/or all or sub
 
 #### Where we store your personal data
 
-Data storage geography depending on Bitrix24 domain zone is described in the [Bitrix24 Infrastructure, Sub-processors and joint controllers section](https://www.bitrix24.uk/upload/DPA/Bitrix24_Infrastructure_and_Sub.pdf).
+Data storage geography depending on Bitrix24 domain zone is described in the [Bitrix24 Infrastructure, Sub-processors and joint controllers section](https://www.bitrix24.com/upload/DPA/Bitrix24_Infrastructure_and_Sub.pdf).
 
 Personal Data obtained via Bitrix24.eu, Bitrix24.de, Bitrix.it, Bitrix24.pl, Bitrix24.uk and Bitrix24.fr domain zones is processed by BITRIX24 LIMITED registered on Republic of Cyprus inside the European Union Economic Area and stored inside the European Union in Frankfurt, Germany by Amazon Web Services data centers, which are fully GDPR compliant.
 
-For more information about data processing activities related to Users registered through the domain names Bitrix24.com, Bitrix24.in, Bitrix24.tr, Bitrix24.cn, Bitrix24.mx, Bitrix24.co please consult [Bitrix24 Infrastructure, Sub-processors and joint controllers section](https://www.bitrix24.uk/upload/DPA/Bitrix24_Infrastructure_and_Sub.pdf).
+For more information about data processing activities related to Users registered through the domain names Bitrix24.com, Bitrix24.in, Bitrix24.tr, Bitrix24.cn, Bitrix24.mx, Bitrix24.co please consult [Bitrix24 Infrastructure, Sub-processors and joint controllers section](https://www.bitrix24.com/upload/DPA/Bitrix24_Infrastructure_and_Sub.pdf).
 
 #### International transfers
 
 Bitrix24 may process User Personal Data outside European Union area subject to appropriate safeguards under article 46 GDPR (specifically by the standard data protection clauses adopted by the European Commission in accordance with the examination procedure).
+
+If your contracting party and Data Controller is Bitrix, Inc and you are in the EU, Switzerland or United Kingdom, the following will apply:  
+a) Specific for data transfers from EU, UK and Switzerland to the USA, Bitrix24 complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. Bitrix24 has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF. Bitrix24 has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit [https://www.dataprivacyframework.gov](https://www.dataprivacyframework.gov/). The Data Privacy Framework (DPF) list of participating organisations is available at [https://www.dataprivacyframework.gov/s/participant-search](https://www.dataprivacyframework.gov/s/participant-search). Under certain conditions, you can invoke the corresponding binding arbitration.  
+The Federal Trade Commission has jurisdiction over Bitrix24 compliance with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF).  
+b) Disputes resolution  
+Bitrix24 Internal Complaints MechanismIn compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, Bitrix24 commits to resolve DPF Principles-related complaints about our collection and use of your personal information. EU, UK and Swiss individuals with inquiries or complaints regarding our handling of personal data received in reliance on the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF should first contact Bitrix24 at: privacy@bitrix24.com  
+c) Alternative Dispute Resolution Body  
+In compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, Bitrix24 commits to refer unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF to JAMS, an alternative dispute resolution provider based in the United States. If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit [https://www.jamsadr.com/dpf-dispute-resolution](https://www.jamsadr.com/dpf-dispute-resolution) for more information or to file a complaint. The services of JAMS are provided at no cost to you.
 
 #### D. YOUR CHOICES, CHOICES FOR LIMITING THE USE AND DISCLOSURE OF YOUR PERSONAL DATA, RIGHTS AND PRIVACY-RELATED INQUIRIES AND COMPLAINTS
 
@@ -551,7 +563,7 @@ You can choose at any time to opt out of receiving emails from Bitrix24 or from 
 
 We will not share any Personal Data with third-parties for their direct marketing purposes to the extent prohibited by California, Virginia or Colorado law. If our practices change, we will do so in accordance with applicable laws and will notify you in advance.
 
-#### Cookies and Tracking pixels
+#### Cookies and Tracking pixels (Device Data Collection Tools)
 
 Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site.
 
@@ -562,6 +574,9 @@ We use the following cookies:
 * Strictly necessary cookies. These are cookies that are required for the operation of our website. They include, for example, cookies that enable you to log into secure areas of our website, use a shopping cart or make use of e-billing services.
 * Analytical or performance cookies. These allow us to recognise and count the number of visitors and to see how visitors move around our website when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily.
 * Functionality cookies. These are used to recognise you when you return to our website. This enables us to personalise our content for you, greet you by name and remember your preferences (for example, your choice of language or region).
+
+Web beacons are very small images or small pieces of data embedded in images, also known as “pixel tags” or “clear GIFs”, that can recognize Cookies, the time and date a page is viewed, a description of the page where the pixel tag is placed, and similar information from your computer or device.  
+Some of Bitrix24 domains including bitrix24.com may use Device Data Collection Tools operated by third parties, including TikTok, to collect information about how users use your websites.
 
 Choices About cookie usage
 
@@ -748,10 +763,10 @@ Partners
 [](https://play.google.com/store/apps/details?id=com.bitrix24.android)
 
 * [](https://www.facebook.com/bitrix24)
-* [](https://twitter.com/bitrix24uk)
+* [](https://t.me/Bitrix24Talks)
 * [](https://www.youtube.com/@bitrix24)
 * [](https://www.instagram.com/bitrix24/)
-* [](https://www.linkedin.com/showcase/bitrix24-uk-community/)
+* [](https://www.linkedin.com/company/bitrix24/)
 * [](https://www.pinterest.com/bitrix24/)
 
  
@@ -766,11 +781,11 @@ Cookie Settings
 
  Strictly Necessary Cookies
 
- Analytical Cookies
+ Do Not Sell or Share My Information
 
 Cookie Policy
 
-More information about our [Cookie Policy](https://www.bitrix24.uk/privacy/#d3)
+More information about our [Cookie Policy](https://www.bitrix24.com/privacy/#d3)
 
 We use cookies to enhance your browsing experience - [Find out more](https://www.bitrix24.com/about/cookie-policy/). By continuing to browse this site you are agreeing to our use of cookies. Change your [cookie settings](#).
 
