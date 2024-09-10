@@ -63,8 +63,7 @@
         * [Contact us How to contact O&O](https://www.oo-software.com/en/contact)
         
     
-* [Buy now](https://www.oo-software.com/en/order)
-* [Newsletter](https://www.oo-software.com/en/newsletter)
+* [Get your US$10 voucher](https://www.oo-software.com/en/newsletter?r=tn1.2.0)
 
 O&O Software’s Privacy Policy
 =============================
@@ -148,11 +147,11 @@ Your comments on the data protection guarantee are welcomed by O&O. If you consi
 * [References](https://www.oo-software.com/en/company/references)
 * [Strategic Partners](https://www.oo-software.com/en/company/partnerships)
 * [Privacy](https://www.oo-software.com/en/company/privacy)
-* [Social Commitment](https://www.oo-software.com/en/company/social-commitment)
 * [Report Piracy](https://www.oo-software.com/en/company/anti-piracy)
-* [(German) Karriere bei O&O](https://www.oo-software.com/en/company/karriere-bei-oo)
+* [Social Commitment](https://www.oo-software.com/en/company/social-commitment)
+* [Karriere bei O&O](https://www.oo-software.com/en/company/karriere-bei-oo)
 
-[](https://www.oo-software.com/de/company/privacy)[](https://www.oo-software.com/en/company/privacy)[](https://www.oo-software.com/fr/company/privacy)
+[](https://www.oo-software.com/de/company/datenschutz)[](https://www.oo-software.com/en/company/privacy)[](https://www.oo-software.com/fr/company/protection-des-donnees)
 
 [](https://www.facebook.com/OOSoftware "facebook")[](http://twitter.com/oosoftware "Twitter")[](https://blog.oo-software.com/en "Blog")[](https://www.youtube.com/user/oosoftw "YouTube")
 
