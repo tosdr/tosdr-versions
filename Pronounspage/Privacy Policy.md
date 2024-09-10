@@ -14,6 +14,7 @@ English
 * [Português](https://pt.pronouns.page/)
 * [Română](https://ro.pronouns.page/)
 * [Svenska](https://sv.pronouns.page/)
+* [Türkçe](https://tr.pronouns.page/)
 * [Tiếng Việt](https://vi.pronouns.page/)
 * [العربية (الفصحى)](https://ar.pronouns.page/)
 * [Русский](https://ru.pronouns.page/)
@@ -40,6 +41,7 @@ English
 * [Português](https://pt.pronouns.page/)
 * [Română](https://ro.pronouns.page/)
 * [Svenska](https://sv.pronouns.page/)
+* [Türkçe](https://tr.pronouns.page/)
 * [Tiếng Việt](https://vi.pronouns.page/)
 * [العربية (الفصحى)](https://ar.pronouns.page/)
 * [Русский](https://ru.pronouns.page/)
@@ -89,11 +91,52 @@ Authors of the website:
 
 *  [![](/img/collective-logo.svg) The “Neutral Language Council” collective](https://en.pronouns.page/team)  
     We are a queer collective dedicated to assembling, researching, shaping and promoting gender neutral and nonbinary language. We also support actions towards equality and social justice.
+* Kevin [@kevinn](https://en.pronouns.page/@kevinn)  
+    moderation, technical
+* Szymon Misiek [@szymon](https://en.pronouns.page/@szymon)  
+    language, sources
+* \- Juniper [@botanicalyhuman](https://en.pronouns.page/@botanicalyhuman)  
+    Moderation, Bans, Terminology
+* Claudio Nicoli Pannacci [@kappanneo](https://en.pronouns.page/@kappanneo)  
+    English, Swedish, Italian (work in progress), Upcoming language versions
+* tecc [@tecc](https://en.pronouns.page/@tecc)  
+    programming, sysadmin, nitpicking
+* Asher [@jerryv](https://en.pronouns.page/@jerryv)  
+    moderation
+* Benjamin [@therealbenpai](https://en.pronouns.page/@therealbenpai)  
+    Moderation, Development, Community Programs, Support Services
+* Kory [@kory\_warning](https://en.pronouns.page/@kory_warning)  
+    translation, moderation, administration
+* Jacob [@Fishmael](https://en.pronouns.page/@Fishmael)  
+    English, Russian, moderation
+* Laker T. [@laker](https://en.pronouns.page/@laker)  
+    Moderation, Sources
+* Diego M. [@GreenWithin](https://en.pronouns.page/@GreenWithin)  
+    English, Spanish (Español), Design, Translation, Moderation
+* アンディ [@and.y](https://en.pronouns.page/@and.y)  
+    Moderation, Sources, Reports
+* Andrea Vos [@andrea](https://en.pronouns.page/@andrea)  
+    code, language, blog, project coordination, user support
+* Torryn June 🌟 [@torrynjune](https://en.pronouns.page/@torrynjune)  
+    German (Deutsch), administration, moderation, terminology, language, support
+* Wren [@wrac4242](https://en.pronouns.page/@wrac4242)  
+    Moderation, Technical
+* Avery (They/Them) [@realAvery](https://en.pronouns.page/@realAvery)  
+    Moderation, Technical
+* Thomas Vos [@T\_Vos](https://en.pronouns.page/@T_Vos)  
+    Project manager, User support, social media, English, Polish
+* lucjan [@kaslucji](https://en.pronouns.page/@kaslucji)  
+    moderation, terminology
+* faera ☆ [@celestialflowers](https://en.pronouns.page/@celestialflowers)  
+    moderation, english
+* Paweł Dembowski [@ausir](https://en.pronouns.page/@ausir)  
+    language, sources
 
 Contact & social media:
 
 * [Frequently asked questions](https://en.pronouns.page/faq)
 * [Training and workshops](https://en.pronouns.page/workshops)
+* [Community Discord](https://discord.gg/nvrA4Gcxve)
 * [support@pronouns.page](mailto:support@pronouns.page)
 * [technical@pronouns.page](mailto:technical@pronouns.page)
 * [localisation@pronouns.page](mailto:localisation@pronouns.page)
@@ -114,7 +157,7 @@ Contribute:
 
 Light mode Automatic Dark mode
 
-Version: [be6d0c8c](https://gitlab.com/PronounsPage/PronounsPage/-/commit/be6d0c8c3c0f8c9562cd2924beddd59faf011ecf) /
+Version: [a3d7dd02](https://gitlab.com/PronounsPage/PronounsPage/-/commit/a3d7dd023eac8fc52aa162d3e7304675b193e33c) /
 
 Legal:
 
@@ -138,10 +181,16 @@ Sibling projects:
 *  [![](/img/cmbmg.png) Call me by my gender](https://callmebymygender.top/)
 *  [![](/img/tonetag.png) Tone tags](https://tonetags.astrid.sh/)
 
-**We condemn Israeli war crimes in Gaza.**  
-[Here's a list of trusted charities you can support.](https://www.humanrightscareers.com/issues/charities-helping-civilians-in-palestine/)
+Stats:
 
-**We stand with Ukraine.**  
-[Here's how you can support them.](https://supportukrainenow.org/)
+**all language versions** | [only this version](#)
 
-OK
+* Cards: **1M**
+* Unique visitors: **838.9k** / month
+* Page views: **3.1M** / month
+* Currently online: **175**
+* Registered users: **988.3k**
+* [heartbeat](https://en.pronouns.page/undefined)
+
+**We condemn war crimes.**  
+Here's how you can help innocent people [in Ukraine](https://supportukrainenow.org/), [in Gaza](https://www.humanrightscareers.com/issues/charities-helping-civilians-in-palestine/) and [in other areas of military conflict](https://donate.unhcr.org/int/en/general).
