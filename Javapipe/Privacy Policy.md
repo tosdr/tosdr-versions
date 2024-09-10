@@ -27,9 +27,6 @@
     * [cPanel Web Hosting
         
         Effortless site management with cPanel.](https://javapipe.com/cpanel-hosting)
-    * [Windows Web Hosting
-        
-        Powerful solutions for Windows-based needs.](https://javapipe.com/windows-web-hosting)
     * [Java Tomcat Hosting
         
         Customized hosting optimized for Java.](https://javapipe.com/java-tomcat-hosting)
@@ -65,7 +62,7 @@
     
 * [Support](https://javapipe.com/support)
 
-[Get Started](https://clients.mochahost.com/order/product)[Login](https://clients.mochahost.com/login)
+[Login](https://clients.mochahost.com/login)
 
 [+1 518 250 6166](tel:+1 518 250 6166)
 
@@ -84,7 +81,7 @@
 
 [Facebook](https://www.facebook.com/mochahost)[Twitter](https://twitter.com/mochahost)
 
-[Get Started](https://clients.mochahost.com/order/product)Open main menu
+Open main menu
 
 ![](https://cms.mochahost.com/uploads/BG_Javapipe_4_9fb44bb89e.webp)
 
@@ -308,7 +305,7 @@ Mochahost is a WHG Company
 
 [World Host Group US Inc](https://worldhost.group/)  
 200 Continental Drive, Suite 401  
-Newark, New Jersey, 19713
+Newark, Delaware, 19713
 
 World Host Group is the world's best hosting group. With clients in over 180 countries, every brand we run is dedicated to offering excellent reliable hosting backed by friendly expert technical support.
 
@@ -321,3 +318,5 @@ Privacy Manager | [Terms & Conditions](https://javapipe.com/terms-of-service) | 
 Our website uses cookies for essential functions, analytics, and advertising. By clicking 'Accept', you consent to our [cookie policy](https://javapipe.com/terms-of-service) and data use.
 
 Preferences OK
+
+We're brewing up a little change to your billing cycle! Starting now, we'll bill your preferred payment method 3 days before your renewal date. Nothing changes with your price or billing cycle - just a fresh, new billing date!
