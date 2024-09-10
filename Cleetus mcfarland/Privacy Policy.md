@@ -58,7 +58,7 @@
 Country/region
 --------------
 
-United Kingdom | USD $
+United States | USD $
 
  Search
 
