@@ -41,7 +41,9 @@
 * [Proton for business](https://protonvpn.com/business)
 * Who we are
     
-    [About us
+    [Proton
+    
+    A better internet starts with privacy and freedom.](https://protonvpn.com/)[About us
     
     Proton stands for privacy. Always has, always will.](https://protonvpn.com/about)[Team
     
