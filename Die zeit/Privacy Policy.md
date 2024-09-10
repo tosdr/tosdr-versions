@@ -1,4 +1,4 @@
-![Logo - ZEIT Online](//images.ctfassets.net/9q531vlek15f/22l1WrI5So1znPNOJr2IwA/7cc9193e19396441c14f65a9d87900d4/ZON.svg)
+![Logo - DZ Verlagsgruppe](//images.ctfassets.net/9q531vlek15f/1zR0Ye8mtlJS24DQ5E1pkr/0cd950f8c2a250af308fa75631009f30/DZ-Verlagsgruppe.svg)
 
 ![ZEIT Online](//images.ctfassets.net/9q531vlek15f/22l1WrI5So1znPNOJr2IwA/7cc9193e19396441c14f65a9d87900d4/ZON.svg)
 
@@ -440,7 +440,7 @@ Sie haben auf unseren Internetseiten die Möglichkeit sich für unsere/n Newslet
 
 Die genannten Daten benötigen wir, um Ihnen den Newsletter zusenden zu können. Die entsprechende Verarbeitung Ihrer Daten beruht auf der von Ihnen entsprechend erteilten Einwilligung und damit auf Art. 6 Abs. 1 lit. a) DSGVO.
 
-Registrieren Sie sich für unseren Newsletter, so geben wir Ihre Daten zum Zwecke der Abwicklung weiter an die Episerver GmbH, Wallstr. 16, 10179 Berlin.
+Registrieren Sie sich für unseren Newsletter, so geben wir Ihre Daten zum Zwecke der Abwicklung weiter an die Optimizely GmbH, Wallstr. 16, 10179 Berlin.
 
 Rechtsgrundlage für die Datenverarbeitung ist Art. 6 Abs. 1 lit. f) DSGVO
 
@@ -729,7 +729,7 @@ Webtrekk speichert die IP-Adresse nur in gekürzter, anonymisierter Form. Sie wi
 Wir verwenden Webtrekk zu Marketing- und Optimierungszwecken, insbesondere um die Nutzung unserer Website zu analysieren und um einzelne Funktionen und Angebote sowie das Nutzungserlebnis fortlaufend verbessern zu können.
 
 **Für ZEIT-PUR-Abo-Nutzer findet eine anonymisierte Erhebung statt.**  
-Durch die anonymisierte statistische Auswertung des Aufrufverhaltens unserer Inhzalte können wir unser Angebot verbessern und für Sie als Nutzer interessanter ausgestalten. Hierin liegt auch unser berechtigtes Interesse an der Verarbeitung der vorstehenden Daten durch Webtrekk und MAPP. Die Datenverarbeitung beruht auf Art. 6 Abs. 1 lit. f) DSGVO. Aus wirtschaftlichen Gründen ist das Setzen eines Cookies unbedingt erforderlich (TTDSG).
+Durch die anonymisierte statistische Auswertung des Aufrufverhaltens unserer Inhzalte können wir unser Angebot verbessern und für Sie als Nutzer interessanter ausgestalten. Hierin liegt auch unser berechtigtes Interesse an der Verarbeitung der vorstehenden Daten durch Webtrekk und MAPP. Die Datenverarbeitung beruht auf Art. 6 Abs. 1 lit. f) DSGVO. Aus wirtschaftlichen Gründen ist das Setzen eines Cookies unbedingt erforderlich (TDDDG).
 
 **Für nicht PUR-ABO-Nutzer gilt:**  
 Die Bildung von pseudonymisierten Profildaten findet nur mit ihrer Einwilligung statt bzw. auf der Rechtsgrundlage Art. 6 Abs. 1 lit. a) DSGVO. Sie können der Datenspeicherung ihrer pseudonymisiert erfassten Besucherdaten widersprechen, so dass sie in Zukunft nicht mehr erfasst werden.
@@ -740,6 +740,45 @@ Klicken Sie dazu den Button "INSTALL OPT-OUT COOKIE" unter [https://mapp.com/pri
 Wir weisen Sie darauf hin, dass diese Einstellung gelöscht wird, wenn Sie Ihre Cookies löschen.
 
 [Zum Abschnittsanfang](#webtrekk)
+
+### Snowplow
+
+Zur Verbesserung und Weiterentwicklung unserer Online Seite analysieren wir statistische Kennwerte über die Nutzung unserer Angebote und Dienste. Im Rahmen Ihres Besuchs werden für unsere Entwicklungsabteilung nicht personenbezogene Informationen erhoben, die Ihr Browser übermittelt. Zur Erhebung dieser Daten nutzen wir den Dienst der Firma SnowPlow Analytics Ltd..
+
+Snowplow ermöglicht uns, statistische Daten über die Nutzung unserer Website zu erheben und unser Angebot entsprechend zu verbessern. Snowlpow verwendet hierfür unter anderem Cookies, also kleine Textdateien, die lokal im Zwischenspeicher Ihres Webbrowsers auf Ihrem Endgerät gespeichert werden und die eine Analyse der Benutzung unserer Website durch sie ermöglichen. Die Erhebung der gewonnenen Informationen erfolgt durch einen auf unserer Website eingebundenen Pixel. Bei jedem Zugriff auf unsere Website werden die nachfolgenden Informationen erhoben und ausgewertet, die von Ihrem Webbrowser übermittelt werden:
+
+* Name der abgerufenen konkreten Website
+* Datum und Uhrzeit
+* Webbrowser-Informationen
+* Betriebssystem
+* Bildschirmauflösung und Farbtiefe des Endgeräts
+* Referrer URL (zuvor besuchte Seite)
+* IP-Adresse
+* Klicks
+* eventuell Formularinhalte, z.B. in Freitextfelder eingegebene Inhalte (Name und Passwort, wird nur "ausgefüllt" oder "nicht ausgefüllt" übertragen)
+
+Weitere Informationen zu den übermittelten Inhalten finden Sie unter:  
+[https://snowplow.io/privacy-policy/](https://snowplow.io/privacy-policy/)
+
+Snowplow speichert die IP-Adresse nur in gekürzter, anonymisierter Form. Sie wird nur zur Session-Erkennung, für die Geolokalisierung und für die Abwehr von Cyber-Attacken verwendet. Die IP-Adresse wird dann umgehend wieder gelöscht. Eine Personenbeziehbarkeit ist damit ausgeschlossen. Snowplow setzt folgende Cookies:
+
+* Session Cookie (für Session-Erkennung, Lebensdauer: 30 Minuten)
+* Langzeit-Cookie (zur Erkennung Neu-/Stammkunde: 24 Monate)
+* Opt-out-Cookie (bei Widerspruch gegen das Tracking: Dauer der Session)
+
+Wir verwenden Snowlpow zu Marketing- und Optimierungszwecken, insbesondere um die Nutzung unserer Website zu analysieren und um einzelne Funktionen und Angebote sowie das Nutzungserlebnis fortlaufend verbessern zu können.
+
+**Für ZEIT-PUR-Abo-Nutzer findet eine anonymisierte Erhebung statt.**  
+Durch die anonymisierte statistische Auswertung des Aufrufverhaltens unserer Inhalte können wir unser Angebot verbessern und für Sie als Nutzer interessanter ausgestalten. Hierin liegt auch unser berechtigtes Interesse an der Verarbeitung der vorstehenden Daten durch Snowlpow. Die Datenverarbeitung beruht auf Art. 6 Abs. 1 lit. f) DSGVO. Aus wirtschaftlichen Gründen ist das Setzen eines Cookies unbedingt erforderlich (TDDDG).
+
+**Für nicht PUR-ABO-Nutzer gilt:**  
+Die Bildung von pseudonymisierten Profildaten findet nur mit ihrer Einwilligung statt bzw. auf der Rechtsgrundlage Art. 6 Abs. 1 lit. a) DSGVO. Sie können der Datenspeicherung ihrer pseudonymisiert erfassten Besucherdaten widersprechen, so dass sie in Zukunft nicht mehr erfasst werden.
+
+Die Installation von Cookies können Sie verhindern, indem Sie vorhandene Cookies löschen und eine Speicherung von Cookies in den Einstellungen Ihres Webbrowsers deaktivieren. Wir weisen darauf hin, dass Sie in diesem Fall möglicherweise nicht alle Funktionen unserer Webseite vollumfänglich nutzen können.
+
+Wir weisen Sie darauf hin, dass diese Einstellung gelöscht wird, wenn Sie Ihre Cookies löschen.
+
+[Zum Abschnittsanfang](#snowplow)
 
 ### Freshdesk
 
@@ -853,6 +892,16 @@ Die IP-Adresse, also das einzige Datum, welches einen Bezug zu Ihrer Person hers
 Die genannten Daten werden zu administrativen Zwecken durch uns verarbeitet sowie dazu, um Ihnen einen reibungslosen Verbindungsaufbau und eine komfortable Nutzung unserer Website zu gewährleisten sowie um sicherzustellen, dass unser System sicher und stabil arbeitet. Die Datenverarbeitung beruht auf unserem bestehenden berechtigten Interesse an der Datenverarbeitung zu den genannten Zwecken und damit auf Art. 6 Abs. 1 S. 1 lit. f) DSGVO.
 
 [Zum Abschnittsanfang](#logfiles)
+
+### Storifyme
+
+Auf unserer Webseite verwenden wir die SaaS-Plattform Storifyme zum Erstellen und Ausspielen von Hochkantvideos. Ein Unternehmen mit Sitz in Deutschland:  
+Storifyme GmbH, Blutenburgstraße 68, 80636 München, Deutschland.
+
+Persönliche Informationen, die Sie eindeutig identifizieren könnten, werden zu keinem Zeitpunkt erfasst. Storifyme nutzt lediglich die IP-Adresse, um die Verbindung zum Server herzustellen und technisch funktionieren zu können. Diese wird zu keinem Zeitpunkt gespeichert. Ansonsten werden mit dem Tool keine personenbezogenen Daten verarbeitet. Storifyme verwendet keine Cookies.  
+Die Einbindung von Storifyme ist technisch notwendig. Hierin liegt unser berechtigtes Interesse. Sofern überhaupt von einer personenbezogenen Datenverarbeitung beim Einsatz von Storifyme ausgegangen werden könnte, beruht diese auf Art. 6 Abs. 1 lit. f) DSGVO.
+
+Detaillierte Informationen zum Datenschutz bei Storifyme finden Sie [auf der Seite von Storifyme](https://www.storifyme.com/legal/privacy-policy "Storifyme").
 
 ![Illustration](//images.ctfassets.net/9q531vlek15f/65PTsb1N72tTX3l48lEkON/312228272ea611fae3e0baf1d32c9139/ZV_DSGVO_Illu_03.svg)
 
