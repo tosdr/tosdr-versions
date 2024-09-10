@@ -213,7 +213,7 @@ The texts of the GNU GPL-3 license and the Apache License, Version 2.0 are acces
 2\. License grant
 -----------------
 
-2.1. The Rightholder hereby grants You a non-exclusive license to download and use the Software within the scope of the Software'’s functionality described on the Website, provided that You comply with all requirements, restrictions and terms specified in this EULA.
+2.1. The Rightholder hereby grants You a non-exclusive license to download and use the Software within the scope of the Software’s functionality described on the Website, provided that You comply with all requirements, restrictions and terms specified in this EULA.
 
 2.2. You are entitled, in accordance with the license granted in clause 2.1 herein, to install and use the Software on a certain number of Computers, which is indicated in Your order when You purchased Your license or subscription.
 
@@ -396,7 +396,9 @@ Email: [support@adguard.com](mailto:support@adguard.com) Website: [](https://adg
 
 Other documents:
 
-[End-User License Agreement of AdGuard Temp Mail](https://adguard.com/en/adguard-temp-mail/eula.html) [Terms of Sale](https://adguard.com/en/terms-of-sale.html) [Terms and Conditions of AdGuard Account and AdGuard Websites](https://adguard.com/en/terms-and-conditions.html) [Privacy policy](https://adguard.com/en/privacy.html)
+[Privacy policy](https://adguard.com/en/privacy.html) [End-User License Agreement of AdGuard Temp Mail](https://adguard.com/en/adguard-temp-mail/eula.html) [Terms of Sale](https://adguard.com/en/terms-of-sale.html) [Privacy Policy of AdGuard Websites](https://adguard.com/en/website-privacy.html) [Terms and Conditions of AdGuard Account and AdGuard Websites](https://adguard.com/en/terms-and-conditions.html)
+
+Privacy Notices:
 
 * [AdGuard Browser Extension](https://adguard.com/en/privacy/browser-extension.html)
 * [AdGuard for Android](https://adguard.com/en/privacy/android.html)
@@ -407,12 +409,7 @@ Other documents:
 * [AdGuard Assistant](https://adguard.com/en/privacy/assistant.html)
 * [AdGuard Content Blocker](https://adguard.com/en/privacy/content-blocker.html)
 * [AdGuard Home](https://adguard.com/en/privacy/home.html)
-* [Website & Cookies Privacy Notice](https://adguard.com/en/privacy/website.html)
-* [AdGuard Temp Mail Privacy Notice](https://adguard.com/en/privacy/temp-mail.html)
-
-We use essential cookies only. No ads or trackers. [Privacy Policy](https://adguard.com/en/privacy/website.html)
-
-I agree
+* [AdGuard Temp Mail](https://adguard.com/en/privacy/temp-mail.html)
 
 System theme Light theme Dark theme
 
@@ -446,7 +443,7 @@ License
 
 Legal documents
 
-[EULA](https://adguard.com/en/eula.html) [Privacy policy](https://adguard.com/en/privacy.html) [Cookie policy](https://adguard.com/en/privacy/website.html) [Terms of sale](https://adguard.com/en/terms-of-sale.html) [EULA of AdGuard Temp Mail](https://adguard.com/en/adguard-temp-mail/eula.html) [Terms and conditions](https://adguard.com/en/terms-and-conditions.html)
+[EULA](https://adguard.com/en/eula.html) [Privacy policy](https://adguard.com/en/privacy.html) [Privacy policy of AdGuard websites](https://adguard.com/en/website-privacy.html) [Terms of sale](https://adguard.com/en/terms-of-sale.html) [EULA of AdGuard Temp Mail](https://adguard.com/en/adguard-temp-mail/eula.html) [Terms and conditions](https://adguard.com/en/terms-and-conditions.html)
 
 AdGuard
 
@@ -458,7 +455,7 @@ For Windows For Mac For Android For Android TV For iOS For browsers Version hist
 
 Other products
 
-AdGuard Pro for iOS AdGuard for Safari AdGuard Assistant AdGuard Content Blocker AdGuard Home AdGuard DNS AdGuard VPN AdGuard Temp Mail All products
+AdGuard Pro for iOS AdGuard for Safari AdGuard Assistant AdGuard Content Blocker AdGuard Home [AdGuard DNS](https://adguard-dns.io/welcome.html) [AdGuard VPN](https://adguard-vpn.com/welcome.html) [AdGuard Temp Mail](https://adguard.com/en/adguard-temp-mail/overview.html) All products
 
 Support
 
@@ -470,7 +467,7 @@ Purchase license Recover license Get free license Partner with AdGuard Contribut
 
 Legal documents
 
-EULA Privacy policy Cookie policy Terms of sale EULA of AdGuard Temp Mail Terms and conditions
+EULA Privacy policy Privacy policy of AdGuard websites Terms of sale EULA of AdGuard Temp Mail Terms and conditions
 
 System theme Light theme Dark theme
 
