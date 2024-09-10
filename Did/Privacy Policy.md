@@ -1,12 +1,12 @@
-Introducing Agents: Unlock your 200 Free sessions! [Sign up to get started](https://studio.d-id.com/agents)
-
 [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2066%2053'%3E%3C/svg%3E)
 
 ![](https://www.d-id.com/wp-content/uploads/2023/11/d-id-logo.svg)](https://www.d-id.com/)
 
 * Products
     * [Creative Reality™ Studio](https://www.d-id.com/creative-reality-studio/)
-    * [AI Agents](https://www.d-id.com/agents/)
+    * [Video Translate](https://www.d-id.com/video-translate/)
+    * [Video Campaigns](https://www.d-id.com/video-campaigns/)
+    * [AI Agents](https://www.d-id.com/ai-agents/)
     * [Mobile App](https://www.d-id.com/creative-reality-studio-mobile-app/)
     * [API](https://www.d-id.com/api/)
     * [Integrations](https://www.d-id.com/integrations/)
@@ -241,10 +241,10 @@ We may share your Personal Data as follows:
 
 9. **ANALYTIC TOOLS** 
 
-* **Google Analytics**. The Website uses a tool called “Google Analytics” to collect information about use of the Website. Google Analytics collects information such as how often users visit this Website, what pages they visit when they do so, and what other websites they used prior to coming to this Website. We use the information we get from Google Analytics to maintain and improve the Website and our products. We do not combine the information collected through the use of Google Analytics with personal information we collect. Google’s ability to use and share information collected by Google Analytics about your visits to this Website is restricted by the Google Analytics Terms of Service, available at [https://marketingplatform.google.com/about/analytics/terms/us/](https://marketingplatform.google.com/about/analytics/terms/us/), and the Google Privacy Policy, available at [http://www.google.com/policies/privacy/](http://www.google.com/policies/privacy/). You may learn more about how Google collects and processes data specifically in connection with Google Analytics at [http://www.google.com/policies/privacy/partners/](http://www.google.com/policies/privacy/partners/). You may prevent your data from being used by Google Analytics by downloading and installing the Google Analytics Opt-out Browser Add-on, available at [https://tools.google.com/dlpage/gaoptout/](https://tools.google.com/dlpage/gaoptout/).
+* **Google Analytics**. The Website uses a tool called “Google Analytics” to collect information about use of the Website. Google Analytics collects information such as how often users visit this Website, what pages they visit when they do so, and what other websites they used prior to coming to this Website. We use the information we get from Google Analytics to maintain and improve the Website and our products. We do not combine the information collected through the use of Google Analytics with personal information we collect. Google’s ability to use and share information collected by Google Analytics about your visits to this Website is restricted by the Google Analytics Terms of Service, available at [https://marketingplatform.google.com/about/analytics/terms/us/](https://marketingplatform.google.com/about/analytics/terms/us/), and the Google Privacy Policy, available at [https://www.google.com/policies/privacy/](https://www.google.com/policies/privacy/). You may learn more about how Google collects and processes data specifically in connection with Google Analytics at [https://www.google.com/policies/privacy/partners/](https://www.google.com/policies/privacy/partners/). You may prevent your data from being used by Google Analytics by downloading and installing the Google Analytics Opt-out Browser Add-on, available at [https://tools.google.com/dlpage/gaoptout/](https://tools.google.com/dlpage/gaoptout/).
 * **Facebook Custom Audience** (Website)
 * **Firebase Analytics**. We also use “**Google Analytics for Firebase**” with respect to the Software. By enabling this tool, we enable the collection of data about Software Users, including via [identifiers for mobile devices](https://www.google.com/policies/technologies/ads/), cookies and similar technologies. We use the information we get from Google Analytics for Firebase to maintain and improve our App(s). We do not facilitate the merging of personally-identifiable information with non-personally identifiable information unless we have robust notice of, and your prior affirmative (i.e., opt-in) consent to, that merger. Finally, please note that Google Analytics for Firebase’s terms (available at [https://firebase.google.com/terms/](https://firebase.google.com/terms/)) shall also apply. 
-* **Mixpanel**. As part of the Software, we collect Personal Data such as your email address and your user activity through the use of Mixpanel. Mixpanel’s ability to use and share information is governed by the Mixpanel Terms of Use, available at [https://mixpanel.com/terms/](https://mixpanel.com/terms/), and the Mixpanel Privacy Policy, available at [https://mixpanel.com/privacy/](http://www.cooladata.com/privacy/). You can opt-out of Mixpanel’s services by clicking on the following link: [https://mixpanel.com/optout/](https://mixpanel.com/optout/).
+* **Mixpanel**. As part of the Software, we collect Personal Data such as your email address and your user activity through the use of Mixpanel. Mixpanel’s ability to use and share information is governed by the Mixpanel Terms of Use, available at [https://mixpanel.com/terms/](https://mixpanel.com/terms/), and the Mixpanel Privacy Policy, available at [https://mixpanel.com/privacy/](https://www.cooladata.com/privacy/). You can opt-out of Mixpanel’s services by clicking on the following link: [https://mixpanel.com/optout/](https://mixpanel.com/optout/).
 * **Hubspot**. As part of the Software, some Personal Data may be used on Hubspot, such as support tickets and contact details.
 * **ZenDesk**. As part of the Software, some Personal Data may be used on ZenDesk, such as support tickets and contact details.
 
@@ -262,7 +262,7 @@ We reserve the right to remove or add new analytic tools.
 
 We use commercially reasonable efforts to retain non-customer Personal Data and Applicative Data in accordance with the below:
 
-11. 1\. Applicative Data uploaded through the API which is not deleted by the user upon completion of a job (See [docs.d-id.com](http://docs.d-id.com/)) is erased automatically, through AWS settings, within 24h.
+11. 1\. Applicative Data uploaded through the API which is not deleted by the user upon completion of a job (See [docs.d-id.com](https://docs.d-id.com/)) is erased automatically, through AWS settings, within 24h.
 
 11. 2.  While in the storage, awaiting processing or deletion, the Applicative Data is not accessed for any purpose, including not accessed for model training.
 
@@ -288,9 +288,11 @@ If you have any questions, concerns or complaints regarding our compliance with 
 * [Download PDF File](https://www.d-id.com/wp-content/uploads/2024/07/D-ID-Privacy-Policy-20240624-Clean.pdf)
 
 * Products
-    * [AI Agents](https://www.d-id.com/agents/)
-    * [API for Developers](https://www.d-id.com/api/)
     * [Creative Reality™ Studio](https://www.d-id.com/creative-reality-studio/)
+    * [Video Translate](https://www.d-id.com/video-translate/)
+    * [Video Campaigns](https://www.d-id.com/video-campaigns/)
+    * [AI Agents](https://www.d-id.com/ai-agents/)
+    * [API for Developers](https://www.d-id.com/api/)
     * [Mobile App](https://www.d-id.com/creative-reality-studio-mobile-app/)
     * [Integrations](https://www.d-id.com/integrations/)
 * Solutions
