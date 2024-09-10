@@ -412,6 +412,6 @@ Customers in Nigeria have the ability to conveniently deposit and withdraw funds
 
 \*In locations where available. Please note, Sentz does not use, hold, nor transact in any state sponsored fiat currency. All transactions denoted in USD are conducted in eUSD, a stablecoin backed 1:1 by a basket of top-rated stablecoins which themselves are fully collateralized, 1:1 with USD (or USD equivalents). Even the safest stablecoins carry certain inherent risks. Your results may vary. \*\*Sentz partners with certain third-party entities to provide portions of the above described services.
 
-[Terms of Service](https://www.mobilecoin.com/terms-of-service)[Privacy Policy](https://www.mobilecoin.com/privacy-policy)[Cookie Policy](https://www.mobilecoin.com/cookie-policy)
+[Terms of Service](https://www.mobilecoin.com/terms-of-service)[Privacy Policy](https://www.mobilecoin.com/privacy-policy)[Cookie Policy](https://www.mobilecoin.com/cookie-policy)[Offers](http://www.sentz.com/legal/offers)
 
 © MobileCoin Inc., dba Sentz Global.  All Rights Reserved.
