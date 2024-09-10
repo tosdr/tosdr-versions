@@ -1,4 +1,4 @@
-\=== \*\*Spotify Privacy Policy\*\* ========================== Effective as of 27 June 2024 \[1\\. About this Policy\](#1-about-this-policy) \[2\\. Your personal data rights and controls\](#2-your-personal-data-rights-and-controls) \[3\\. Personal data we collect about you\](#3-personal-data-we-collect-about-you) \[4\\. Our purpose for using your personal data\](#4-our-purpose-for-using-your-personal-data) \[5\\. Disclosing your personal data\](#5-disclosing-your-personal-data) \[6\\. Data retention\](#6-data-retention) \[7\\. Transfer to other countries\](#7-transfer-to-other-countries) \[8\\. Keeping your personal data safe\](#8-keeping-your-personal-data-safe) \[9\\. Children\](#9-children) \[10\\. Privacy Request Metrics\](#10-privacy-request-metrics) \[11\\. Changes to this Policy\](#11-changes-to-this-policy) \[12\\. How to contact us\](#12-how-to-contact-us) \*\*1\\. About this Policy\*\* ------------------------- This Privacy Policy describes how we process your personal data at Spotify USA Inc. From now on, we’ll call it the ‘Policy’. It applies to your use of: \* all Spotify streaming services as a user. For example this includes: \* your use of Spotify on any device \* the personalization of your user experience. Watch \[our personalization explainer video\](https://www.spotify.com/us/safetyandprivacy/learn-more-about-privacy) to learn more about this. \* the infrastructure required to provide our services \* connection of your Spotify account with another application \* both our free or paid streaming options (each a ‘\*\*Service Option\*\*’) \* other Spotify services which include a link to this Policy. These include Spotify websites, Customer Service and the Community Site From now on, we’ll collectively call these the ‘\*\*Spotify Service\*\*’. From time to time, we may develop new or offer additional services. They’ll also be subject to this Policy, unless stated otherwise when we introduce them. IIf you reside in California, our supplemental \[California Notice at Collection\](https://www.spotify.com/us/legal/notice-at-collection/), applies in addition to this Policy. \*\*This Policy is \_not\_...\*\* \* the Spotify \[Terms of Use\](https://www.spotify.com/legal/end-user-agreement/), which is a separate document. The Terms of Use outline the legal contract between you and Spotify for using the Spotify Service. It also describes the rules of Spotify and your user rights \* about your use of other Spotify services which have their own privacy policy, such as Megaphone. \*\*Other resources and settings\*\* Key information about your personal data is right here in this Policy. However, you might want to take a look at our other privacy resources and controls: \* \[Safety & Privacy Center\](https://www.spotify.com/us/safetyandprivacy/): A user-friendly hub with summaries of key topics and helpful videos. It includes the ‘Your Privacy Controls’ video which shows you how to exercise your user rights and make choices about the way we process your data. See \[Section 2 ‘Your personal data rights and controls’\](#/2-your-personal-data-rights-and-controls) for more on user rights. \* \[Privacy Settings\](https://www.spotify.com/account/privacy/): Control the processing of certain personal data, including \[tailored advertising\](#tailored-advertising-controls). \* \[Notification Settings\](https://www.spotify.com/account/notifications/) Set which marketing communications you get from Spotify. \* Settings (found in the Desktop and Mobile versions of Spotify): Control certain aspects of the Spotify Service such as ‘Social’ or ‘Explicit Content’. On the ‘Social’ setting, you can: \* start a Private session \* choose whether to share what you listen to on Spotify with your followers \* choose whether to show your recently played artists on your public profile On the ‘Explicit Content’ setting you can control whether explicit-rated content can be played on your Spotify account. \* \[Cookies Policy\](https://www.spotify.com/legal/cookies-policy/): Information on how we use cookies and how to manage your cookie preferences. Cookies are files saved on your phone, tablet or computer when you visit a website. \*\*2\\. Your personal data rights and controls\*\* ---------------------------------------------- Privacy laws give certain rights to individuals over their personal data. The table below explains: \* your rights \* circumstances when they apply \* how to use them You can also watch our video about \[Your Privacy Controls\](https://www.spotify.com/us/safetyandprivacy/personal-data-collected). You will not receive discriminatory treatment for exercising any of your privacy rights. | \*\*It’s your right to...\*\* | | \*\*How?\*\* | | --- | --- | --- | | \*\*Be informed\*\* | \*\*Be informed of the personal data we process about you and how we process it.\*\* | We inform you:  
+\*\*Spotify Privacy Policy\*\* ========================== Effective as of 15 August 2024 \[1\\. About this Policy\](#1-about-this-policy) \[2\\. Your personal data rights and controls\](#2-your-personal-data-rights-and-controls) \[3\\. Personal data we collect about you\](#3-personal-data-we-collect-about-you) \[4\\. Our purpose for using your personal data\](#4-our-purpose-for-using-your-personal-data) \[5\\. Disclosing your personal data\](#5-disclosing-your-personal-data) \[6\\. Data retention\](#6-data-retention) \[7\\. Transfer to other countries\](#7-transfer-to-other-countries) \[8\\. Keeping your personal data safe\](#8-keeping-your-personal-data-safe) \[9\\. Children\](#9-children) \[10\\. Privacy Request Metrics\](#10-privacy-request-metrics) \[11\\. Changes to this Policy\](#11-changes-to-this-policy) \[12\\. How to contact us\](#12-how-to-contact-us) \*\*1\\. About this Policy\*\* ------------------------- This Privacy Policy describes how we process your personal data at Spotify USA Inc. From now on, we’ll call it the ‘Policy’. It applies to your use of: \* all Spotify streaming services as a user. For example this includes: \* your use of Spotify on any device \* the personalization of your user experience. Watch \[our personalization explainer video\](https://www.spotify.com/us/safetyandprivacy/learn-more-about-privacy) to learn more about this. \* the infrastructure required to provide our services \* connection of your Spotify account with another application \* both our free or paid streaming options (each a ‘\*\*Service Option\*\*’) \* other Spotify services which include a link to this Policy. These include Spotify websites, Customer Service and the Community Site From now on, we’ll collectively call these the ‘\*\*Spotify Service\*\*’. From time to time, we may develop new or offer additional services. They’ll also be subject to this Policy, unless stated otherwise when we introduce them. IIf you reside in California, our supplemental \[California Notice at Collection\](https://www.spotify.com/us/legal/notice-at-collection/), applies in addition to this Policy. \*\*This Policy is \_not\_...\*\* \* the Spotify \[Terms of Use\](https://www.spotify.com/legal/end-user-agreement/), which is a separate document. The Terms of Use outline the legal contract between you and Spotify for using the Spotify Service. It also describes the rules of Spotify and your user rights \* about your use of other Spotify services which have their own privacy policy, such as Megaphone. \*\*Other resources and settings\*\* Key information about your personal data is right here in this Policy. However, you might want to take a look at our other privacy resources and controls: \* \[Safety & Privacy Center\](https://www.spotify.com/us/safetyandprivacy/): A user-friendly hub with summaries of key topics and helpful videos. It includes the ‘Your Privacy Controls’ video which shows you how to exercise your user rights and make choices about the way we process your data. See \[Section 2 ‘Your personal data rights and controls’\](#/2-your-personal-data-rights-and-controls) for more on user rights. \* \[Privacy Settings\](https://www.spotify.com/account/privacy/): Control the processing of certain personal data, including \[tailored advertising\](#tailored-advertising-controls). \* \[Notification Settings\](https://www.spotify.com/account/notifications/) Set which marketing communications you get from Spotify. \* Settings (found in the Desktop and Mobile versions of Spotify): Control certain aspects of the Spotify Service such as ‘Social’ or ‘Explicit Content’. On the ‘Social’ setting, you can: \* start a Private session \* choose whether to share what you listen to on Spotify with your followers \* choose whether to show your recently played artists on your public profile On the ‘Explicit Content’ setting you can control whether explicit-rated content can be played on your Spotify account. \* \[Cookies Policy\](https://www.spotify.com/legal/cookies-policy/): Information on how we use cookies and how to manage your cookie preferences. Cookies are files saved on your phone, tablet or computer when you visit a website. \*\*2\\. Your personal data rights and controls\*\* ---------------------------------------------- Privacy laws give certain rights to individuals over their personal data. The table below explains: \* your rights \* circumstances when they apply \* how to use them You can also watch our video about \[Your Privacy Controls\](https://www.spotify.com/us/safetyandprivacy/personal-data-collected). You will not receive discriminatory treatment for exercising any of your privacy rights. | \*\*It’s your right to...\*\* | | \*\*How?\*\* | | --- | --- | --- | | \*\*Be informed\*\* | \*\*Be informed of the personal data we process about you and how we process it.\*\* | We inform you:  
   
 \* through this Policy  
 \* through information provided to you as you use the Spotify Service  
@@ -239,17 +239,12 @@ For example, when we use your personal data to:
   
 • enable you to share a link to Spotify content with someone else, or  
   
-• provide various optional features of the Spotify Service | • User Data  
-  
-• Street Address Data  
-  
-• Usage Data  
-  
-• Payment and Purchase Data  
-  
-• Survey and Research Data | | To diagnose, troubleshoot, and fix issues with the Spotify Service. | • User Data  
-  
-• Usage Data | | To evaluate and develop new features, technologies, and improvements to the Spotify Service.  
+• provide various optional features of the Spotify Service | \* User Data  
+\* Street Address Data  
+\* Usage Data  
+\* Payment and Purchase Data  
+\* Survey and Research Data | | To diagnose, troubleshoot, and fix issues with the Spotify Service. | \* User Data  
+\* Usage Data | | To evaluate and develop new features, technologies, and improvements to the Spotify Service.  
   
   
   
@@ -257,19 +252,9 @@ For example:
   
 • we use personal data to develop and improve our personalized recommendation algorithms  
   
-• we analyze how our users react to a particular new feature and see whether we should make any changes | • User Data  
-  
-• Usage Data  
-  
-• Survey and Research Data  
-  
-  
-  
-• User Data  
-  
-• Usage Data  
-  
-• Survey and Research Data | | For marketing or advertising purposes.  
+• we analyze how our users react to a particular new feature and see whether we should make any changes | \* User Data  
+\* Usage Data  
+\* Survey and Research Data | | For marketing or advertising purposes.  
   
   
   
@@ -277,11 +262,9 @@ For example:
   
 • when we use your personal data to tailor advertising to your interests, or  
   
-• when we send you email marketing | • User Data  
-  
-• Usage Data  
-  
-• Survey and Research Data | | To comply with a legal obligation that we are subject to.  
+• when we send you email marketing | \* User Data  
+\* Usage Data  
+\* Survey and Research Data | | To comply with a legal obligation that we are subject to.  
   
   
   
@@ -295,23 +278,15 @@ This might be:
   
   
   
-For example, when we use your date of birth when required for age verification purposes. | • User Data  
-  
-• Street Address Data  
-  
-• Usage Data  
-  
-• Payment and Purchase Data  
-  
-• Survey and Research Data | | To comply with a request from law enforcement, courts, or other competent authorities. | • User Data  
-  
-• Street Address Data  
-  
-• Usage Data  
-  
-• Payment and Purchase Data  
-  
-• Survey and Research Data | | To fulfill contractual obligations with third parties.  
+For example, when we use your date of birth when required for age verification purposes. | \* User Data  
+\* Street Address Data  
+\* Usage Data  
+\* Payment and Purchase Data  
+\* Survey and Research Data | | To comply with a request from law enforcement, courts, or other competent authorities. | \* User Data  
+\* Street Address Data  
+\* Usage Data  
+\* Payment and Purchase Data  
+\* Survey and Research Data | | To fulfill contractual obligations with third parties.  
   
   
   
@@ -319,61 +294,44 @@ For example, when we provide pseudonymized data about our users’ listening bec
   
   
   
-Pseudonymized data means that your data is identified by a code rather than your name or other directly identifying information. | • User Data  
-  
-• Usage Data  
-  
-• Payment and Purchase Data | | To take appropriate action with reports of intellectual property infringement and inappropriate content. | • User Data  
-  
-• Usage Data  
-  
-• Payment and Purchase Data | | To establish, exercise, or defend legal claims.  
+Pseudonymized data means that your data is identified by a code rather than your name or other directly identifying information. | \* User Data  
+\* Usage Data  
+\* Payment and Purchase Data | | To take appropriate action with reports of intellectual property infringement and inappropriate content. | \* User Data  
+\* Usage Data  
+\* Payment and Purchase Data | | To establish, exercise, or defend legal claims.  
   
   
   
-For example, if we are involved in litigation, we need to provide information to our lawyers in relation to that legal case. | • User Data  
-  
-• Street Address Data  
-  
-• Usage Data  
-  
-• Payment and Purchase Data  
-  
-• Survey and Research Data | | To conduct business planning, reporting, and forecasting.  
+For example, if we are involved in litigation, we need to provide information to our lawyers in relation to that legal case. | \* User Data  
+\* Street Address Data  
+\* Usage Data  
+\* Payment and Purchase Data  
+\* Survey and Research Data | | To conduct business planning, reporting, and forecasting.  
   
   
   
-For example, when we look at aggregated user data like the number of new sign ups in a country in order to plan new locations to launch our products and features in. | • User Data  
-  
-• Usage Data  
-  
-• Payment and Purchase Data | | To process your payment.  
+For example, when we look at aggregated user data like the number of new sign ups in a country in order to plan new locations to launch our products and features in. | \* User Data  
+\* Usage Data  
+\* Payment and Purchase Data | | To process your payment.  
   
   
   
-For example, when we use your personal data to let you purchase a Spotify subscription. | • User Data  
-  
-• Payment and Purchase Data  
-  
-• Street Address Data | | To keep the Spotify Service secure and to detect and prevent fraud.  
+For example, when we use your personal data to let you purchase a Spotify subscription. | \* User Data  
+\* Payment and Purchase Data  
+\* Street Address Data | | To keep the Spotify Service secure and to detect and prevent fraud.  
   
   
   
-For example, when we analyze Usage Data to check for fraudulent use of the Spotify Service. | • User Data  
-  
-• Street Address Data  
-  
-• Usage Data  
-  
-• Payment and Purchase Data | | To conduct research and surveys.  
+For example, when we analyze Usage Data to check for fraudulent use of the Spotify Service. | \* User Data  
+\* Street Address Data  
+\* Usage Data  
+\* Payment and Purchase Data | | To conduct research and surveys.  
   
   
   
-For example, when we contact our users to ask for your feedback. | • User Data  
-  
-• Usage Data  
-  
-• Survey and Research Data | \*\*5\\. Disclosing your personal data\*\* ------------------------------------- This section sets out who receives personal data which is collected or generated through your use of the Spotify Service. \*\*Publicly available information\*\* The following personal data will always be publicly available on the Spotify Service (except to any user you have blocked): \* your profile name \* your profile photo \* your public playlists \* other content you post on the Spotify Service, and any associated titles, descriptions and images You or another user can share certain information on third party services, like social media or messaging platforms. This includes: \* your profile \* any content you post on Spotify and details about that content \* your playlists and any associated titles, descriptions and images When this sharing occurs, the third party service may store a copy of it to support their features. \*\*Personal data you may choose to disclose\*\* We will only disclose the following personal data with those outlined in the table below \* where you have chosen to use a Spotify Service feature, or a third party application, service or device, and we need to disclose personal data to enable this, or \* if you otherwise grant us your permission to disclose the personal data. For example, you can do it by selecting the appropriate setting in the Spotify Service or by giving your consent. | \*\*Categories of recipients\*\* | \*\*Categories of data you can choose to share\*\* | \*\*Reason for choosing to share\*\* | | --- | --- | --- | | Third party applications, services and devices you connect to your Spotify account | • User Data  
+For example, when we contact our users to ask for your feedback. | \* User Data  
+\* Usage Data  
+\* Survey and Research Data | \*\*5\\. Disclosing your personal data\*\* ------------------------------------- This section sets out who receives personal data which is collected or generated through your use of the Spotify Service. \*\*Publicly available information\*\* The following personal data will always be publicly available on the Spotify Service (except to any user you have blocked): \* your profile name \* your profile photo \* your public playlists \* other content you post on the Spotify Service, and any associated titles, descriptions and images You or another user can share certain information on third party services, like social media or messaging platforms. This includes: \* your profile \* any content you post on Spotify and details about that content \* your playlists and any associated titles, descriptions and images When this sharing occurs, the third party service may store a copy of it to support their features. \*\*Personal data you may choose to disclose\*\* We will only disclose the following personal data with those outlined in the table below \* where you have chosen to use a Spotify Service feature, or a third party application, service or device, and we need to disclose personal data to enable this, or \* if you otherwise grant us your permission to disclose the personal data. For example, you can do it by selecting the appropriate setting in the Spotify Service or by giving your consent. | \*\*Categories of recipients\*\* | \*\*Categories of data you can choose to share\*\* | \*\*Reason for choosing to share\*\* | | --- | --- | --- | | Third party applications, services and devices you connect to your Spotify account | • User Data  
   
 • Usage Data | To connect your Spotify account, or so that you can use the Spotify Service in connection with third party applications, services or devices.  
   
@@ -441,7 +399,7 @@ For example, our ad partners help us facilitate tailored advertising.
   
   
   
-With respect to Spotify Service users under the age of 16, we do not disclose personal data to advertising partners by default. | | Marketing Partners | • User Data  
+With respect to Spotify Service users under the age of 18, we do not disclose personal data to advertising partners by default. | | Marketing Partners | • User Data  
   
 • Usage Data | To promote Spotify with our partners. We disclose certain User Data and Usage Data to these partners where necessary to:  
   
@@ -467,7 +425,7 @@ Our partners may also combine the personal data we disclose to them with other d
   
   
   
-With respect to Spotify Service users under the age of 16, we do not disclose personal data to marketing partners by default. | | Ticketing and event partners | • User Data | For every event for which we sell tickets, we will need to disclose your name, email or other order details to our event partners such as ticketing agent or venue box office where the event is taking place so that you can check-in as a verifiable guest who purchased tickets through Spotify’s ticketing platform. | | Podcast Hosting Platforms | • Usage Data | Hosting platforms host podcasts so that they can deliver them to you. We disclose certain data, such as your IP address, to the podcast hosting platforms when you play a podcast. We also allow you to stream podcasts available from other hosting platforms not owned by Spotify.  
+With respect to Spotify Service users under the age of 18, we do not disclose personal data to marketing partners by default. | | Ticketing and event partners | • User Data | For every event for which we sell tickets, we will need to disclose your name, email or other order details to our event partners such as ticketing agent or venue box office where the event is taking place so that you can check-in as a verifiable guest who purchased tickets through Spotify’s ticketing platform. | | Podcast Hosting Platforms | • Usage Data | Hosting platforms host podcasts so that they can deliver them to you. We disclose certain data, such as your IP address, to the podcast hosting platforms when you play a podcast. We also allow you to stream podcasts available from other hosting platforms not owned by Spotify.  
   
 Podcast providers should explain in the show or episode description which platform is hosting the podcast. See the hosting platform’s own privacy policy for how they use data disclosed to them. | | Academic researchers | • User Data  
   
