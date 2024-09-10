@@ -2,7 +2,7 @@
 
 [Click here to return to Amazon Web Services homepage](https://aws.amazon.com/?nc2=h_lg)
 
-[About AWS](https://aws.amazon.com/about-aws/?nc2=h_header) [Contact Us](https://aws.amazon.com/contact-us/?nc2=h_header) [Support](#)  [English](#)   [My Account](#)  
+[About AWS](https://aws.amazon.com/about-aws/?nc2=h_header) [Contact Us](https://aws.amazon.com/contact-us/?nc2=h_header) [Support](#)   [English](#)   [My Account](#)  
 
 [Sign In](https://console.aws.amazon.com/console/home?nc2=h_ct&src=header-signin)
 
@@ -601,7 +601,9 @@ Customers can access the information above through AWS Offerings, such as the [A
 * [What Is DevOps?](https://aws.amazon.com/devops/what-is-devops/?nc1=f_cc)
 * [What Is a Container?](https://aws.amazon.com/containers/?nc1=f_cc)
 * [What Is a Data Lake?](https://aws.amazon.com/what-is/data-lake/?nc1=f_cc)
+* [What is Artificial Intelligence (AI)?](https://aws.amazon.com/what-is/artificial-intelligence/?nc1=f_cc)
 * [What is Generative AI?](https://aws.amazon.com/what-is/generative-ai/?nc1=f_cc)
+* [What is Machine Learning (ML)?](https://aws.amazon.com/what-is/machine-learning/?nc1=f_cc)
 * [AWS Cloud Security](https://aws.amazon.com/security/?nc1=f_cc)
 * [What's New](https://aws.amazon.com/new/?nc1=f_cc)
 * [Blogs](https://aws.amazon.com/blogs/?nc1=f_cc)
