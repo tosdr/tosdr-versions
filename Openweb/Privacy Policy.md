@@ -10,7 +10,7 @@ It all starts with a conversation](https://www.openweb.com/)
     * [Identity](https://www.openweb.com/openwebos/identity/)
     * [Activate](https://www.openweb.com/openwebos/activate/)
 * Advertisers
-    * [OpenWeb for Advertisers](https://www.openweb.com/find-your-community/)
+    * [OpenWeb for Advertisers](https://www.openweb.com/advertisers/)
     * [Explore our Ad Products](https://www.openweb.com/openweb-ad-products/)
 * [Blog](https://www.openweb.com/blog/)
 * Resources
@@ -217,7 +217,7 @@ Data Protection Officer: OpenWeb has appointed a Data Protection Officer for mo
 
 ### Advertisers:
 
-* [OpenWeb for Advertisers](https://www.openweb.com/find-your-community/)
+* [OpenWeb for Advertisers](https://www.openweb.com/advertisers/)
 
 ### Resources:
 
