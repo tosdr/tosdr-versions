@@ -1,24 +1,16 @@
 You need to enable JavaScript to run Jabra Enhance.
 
-Save $200 on the Enhance Select 500! [Shop](https://retool-qa.jabraenhance.com/product)
+The Enhance Select 500 has arrived! [Shop now](https://www.listenlively.com/product/enhanceselect500)
 
-Save $200 on the Enhance Select 500! [Shop now](https://www.listenlively.com/product)
+The Enhance Select 500 has arrived! [Shop now](https://www.listenlively.com/product/enhanceselect500)
 
-Save $200 on the Enhance Select 500! [Shop now](https://www.listenlively.com/product)
+The Enhance Select 500 has arrived! [Shop now](https://www.listenlively.com/product/enhanceselect500)
 
 Try risk-free for 100 days. [Shop now](https://www.listenlively.com/product)
 
 Try Enhance Select hearing aids risk-free for 100 days. [Shop now](https://www.listenlively.com/product)
 
 Try Enhance Select hearing aids risk-free for 100 days. [Shop now](https://www.listenlively.com/product)
-
-[Summer's cooling off!
-
-Summer's cooling off!
-
-Summer's cooling off!
-
-**Sale ends in 3d : 4h : 7m**](https://www.listenlively.com/product)
 
 [Jabra EnhanceTM](https://www.listenlively.com/)
 
@@ -28,9 +20,20 @@ Summer's cooling off!
 
 [](https://www.listenlively.com/survey)
 
-![Sale Banner Foreground Image](https://cdn.jabraenhance.com/cdn-cgi/image/width=3840,quality=10,format=auto/web/sales/summer-24-sale-foreground-desktop.png)
+![NCOA](/_next/static/media/ncoa-adviser-logo.d5975983.svg)
 
 Previous
+
+![](/cdn-cgi/image/width=1920,quality=80,format=auto/_next/static/media/es500-hiw-poster.46b3f9b9.jpg)Play video
+
+New
+
+It’s your hearing. Let’s make the most of it.
+---------------------------------------------
+
+The Select 500 has the **clearest** sound we offer in the **smallest** hearing aid we make.
+
+[Shop now](https://www.listenlively.com/product)
 
 Hear better with Jabra Enhance
 ==============================
@@ -39,54 +42,18 @@ With our advanced hearing aids and recommended expert care, you'll be hearing be
 
 [Start your 100-day trial](https://www.listenlively.com/survey)[Shop for hearing aids ›](https://www.listenlively.com/product)
 
-![](/cdn-cgi/image/width=1920,quality=80,format=auto/_next/static/media/default-desktop.dae76a02.jpg)[##### Save $200!
+![](/cdn-cgi/image/width=1920,quality=80,format=auto/_next/static/media/default-desktop.dae76a02.jpg)[Our clearest  
+sound, our most discreet design](https://www.listenlively.com/product)[Our clearest  
+sound, our most discreet design _Shop Now_](https://www.listenlively.com/product)[Our clearest  
+sound, our most discreet design _Shop the Select 500_](https://www.listenlively.com/product)
 
-**Shop now**](https://www.listenlively.com/product)[#### Save $200!
+“Best Hearing Aids of 2024 Editor's Pick”
 
-**Shop now**](https://www.listenlively.com/product)[Save $200!
-----------
-
-**Shop now**](https://www.listenlively.com/product)
-
-“Best if you're new to hearing aids”
-
-![Sale Banner Foreground Image](https://cdn.jabraenhance.com/cdn-cgi/image/width=3840,quality=80,format=auto/web/sales/summer-24-sale-foreground-desktop.png)
-
-$200 Off
-========
-
-this summer!
-============
-
-Take $200 off the Select 500 —
-
-while you can!
-
-$200 Off
---------
-
-this summer!
-------------
-
-Take $200 off the Select 500 —
-
-while you can!
-
-$200 Off this
-=============
-
-summer!
-=======
-
-Take $200 off the Select 500 —
-
-while you can!
-
-[Shop now](https://www.listenlively.com/product)
+![NCOA](/_next/static/media/ncoa-adviser-logo.d5975983.svg)
 
 Next
 
-![Sale Banner Foreground Image](https://cdn.jabraenhance.com/cdn-cgi/image/width=3840,quality=10,format=auto/web/sales/summer-24-sale-foreground-desktop.png)
+![NCOA](/_next/static/media/ncoa-adviser-logo.d5975983.svg)
 
 What you get with Jabra Enhance Select
 --------------------------------------
@@ -122,7 +89,7 @@ Try Enhance Select hearing aids for 100 days. If you're not fully satisfied, we'
 90% of customers using Enhance Select Premium report hearing better\*
 ---------------------------------------------------------------------
 
-4.6 out of 5(3545 reviews)
+4.6 out of 5(3723 reviews)
 
 * _**95%** report hearing friends & family better_
 * _**95%** report asking others to repeat themselves less_
@@ -169,7 +136,7 @@ With our **Premium Package**, our Audiology Team works with you remotely to impr
 
 ### Everything you need for better hearing
 
-4.6 out of 5(3545 reviews)
+4.6 out of 5(3723 reviews)
 
 ![](/cdn-cgi/image/width=1920,quality=80,format=auto/_next/static/media/hp-bundle.072d2d18.png)
 
@@ -199,18 +166,10 @@ With our **Premium Package**, our Audiology Team works with you remotely to impr
 
 As low as 0% APR and $0 down\* with See if you prequalify
 
-Our clearest sound comes through SoundScape™ technology
--------------------------------------------------------
+Hear your whole SoundScape™
+---------------------------
 
-![SoundScape](/cdn-cgi/image/width=1920,quality=80,format=auto/_next/static/media/soundscape.3e149c17.jpg)
-
-SoundScape™ technology uses **advanced microphones** to capture all the sounds around you, and a **powerful processing chip** to determine which ones are important to you.
-
-The result is bright, **natural-sounding hearing in noise** — the best we offer!
-
-[Shop now](https://www.listenlively.com/product/enhanceselect500)
-
-### Select 500s employ 3 key features of SoundScape™ technology
+Select 500s employ 3 key features of proprietary speech-clarity technology
 
 Previous
 
@@ -284,7 +243,7 @@ Reach out to our team for help understanding if Enhance Select is right for you.
 
 Shop
 
-[Shop hearing aids](https://www.listenlively.com/product) [Shop accessories](https://www.listenlively.com/accessories) [Shop Jabra Enhance Plus](https://www.listenlively.com/product/enhanceplus)
+[Shop hearing aids](https://www.listenlively.com/product) [Shop accessories](https://www.listenlively.com/accessories)
 
 Why Jabra Enhance
 
