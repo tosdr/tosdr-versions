@@ -6,7 +6,7 @@ Search Ramsey Solutions Search Ramsey Solutions
 
 [Sign In](https://products.ramseysolutions.com/) [Get Started](https://www.ramseysolutions.com/get-started/gs/app/assessment?int_fmt=button&int_lctn=homepage-bottom_cta&int_dscpn=rs_mast_getstarted_button&int_cmpgn=rs_mast_getstarted_button_2024&int_dept=rscom_bu)
 
-* [Topics](https://www.ramseysolutions.com/articles?snid=topics#feed-content)
+* [Topics](https://www.ramseysolutions.com/articles?snid=topics#feed-content) Toggle Topics Submenu
     
     Topics
     
@@ -20,7 +20,7 @@ Search Ramsey Solutions Search Ramsey Solutions
         * [Personal Growth](https://store.ramseysolutions.com/personal-growth/books/building-a-non-anxious-life-by-dr-john-delony/?snid=topics.topics.personal-growth)
         * [Career](https://store.ramseysolutions.com/business-and-career/assessments/get-clear-career-assessment-for-career-change/?snid=topics.topics.career)
     
-* [Products](https://www.ramseysolutions.com/guided-plans?snid=products)
+* [Products](https://www.ramseysolutions.com/guided-plans?snid=products) Toggle Products Submenu
     
     Products
     
@@ -45,7 +45,42 @@ Search Ramsey Solutions Search Ramsey Solutions
     
     * [See All Products](https://www.ramseysolutions.com/guided-plans?snid=products.see-all-products)
     
-* [Shows](https://www.ramseysolutions.com/shows?snid=shows)
+* [Products](https://www.ramseysolutions.com/guided-plans?snid=products) Toggle Products Submenu
+    
+    Products
+    
+    * Pay Off Debt and Build Wealth
+        * [_Financial Peace University_](https://www.ramseysolutions.com/ramseyplus/financial-peace?snid=products.pay-off-debt-and-build-wealth.financial-peace-university)
+            * [Start FPU](https://www.ramseysolutions.com/ramseyplus/financial-peace/whats-included?snid=products.pay-off-debt-and-build-wealth.financial-peace-university.start-fpu)
+            * [Coordinate a Class](https://www.ramseysolutions.com/ramseyplus/coordinator?snid=products.pay-off-debt-and-build-wealth.financial-peace-university.coordinate-a-class)
+            * [Join a Class](https://www.ramseysolutions.com/ramseyplus/financial-peace/class?snid=products.pay-off-debt-and-build-wealth.financial-peace-university.join-a-class)
+            * [FPU for Churches](https://www.ramseysolutions.com/ramseyplus/organization?snid=products.pay-off-debt-and-build-wealth.financial-peace-university.fpu-for-churches)
+        * [Ramsey+](https://www.ramseysolutions.com/ramseyplus?snid=products.pay-off-debt-and-build-wealth.ramsey+)
+        * [EveryDollar Budget App](https://www.ramseysolutions.com/ramseyplus/everydollar?snid=products.pay-off-debt-and-build-wealth.ramsey+.everydollar-budget-app)
+        * [The 7 Baby Steps](https://www.ramseysolutions.com/dave-ramsey-7-baby-steps?snid=products.pay-off-debt-and-build-wealth.ramsey+.the-7-baby-steps)
+        * [Ramsey Education for Schools](https://www.ramseysolutions.com/education?snid=products.pay-off-debt-and-build-wealth.ramsey-education-for-schools)
+        * [Financial Coach Master Training](https://www.ramseysolutions.com/business/coaching/financial-coach-training?snid=products.pay-off-debt-and-build-wealth.financial-coach-master-training)
+        * [Talk to a Coach](https://www.ramseysolutions.com/ramseyplus/financial-coaching?snid=products.pay-off-debt-and-build-wealth.talk-to-a-coach)
+    
+    * Lead Your Business
+        * [EntreLeadership Elite](https://www.ramseysolutions.com/business/entreleadership/elite?snid=products.lead-your-business.entreleadership-elite)
+            * [Advisory Groups](https://www.ramseysolutions.com/business/entreleadership/elite-coaching/advisory-groups?snid=products.lead-your-business.entreleadership-elite.advisory-groups)
+            * [Executive Coaching](https://www.ramseysolutions.com/business/entreleadership/elite-coaching/executive-coaching?snid=products.lead-your-business.entreleadership-elite.executive-coaching)
+        * [SmartDollar Financial Wellness](https://www.ramseysolutions.com/corporate-wellness/smartdollar?snid=products.lead-your-business.smartdollar-financial-wellness)
+    
+    * Store
+        * [Books](https://store.ramseysolutions.com/books/all-books/?snid=store.store.books)
+        * [Digital Courses](https://store.ramseysolutions.com/business-and-career/courses/?snid=store.store.digital-courses)
+        * [Bundles](https://store.ramseysolutions.com/money/bundles/?snid=store.store.bundles)
+        * [Events](https://www.ramseysolutions.com/events?snid=store.store.events)
+        * [Kids and Teens](https://store.ramseysolutions.com/youth/?snid=store.store.kids-and-teens)
+        * [Free Trial of Ramsey+](https://www.ramseysolutions.com/ramseyplus?snid=store.store.free-trial-of-ramsey+)
+        * [Sale](https://store.ramseysolutions.com/sale/?snid=store.store.sale)
+        * [New Arrivals](https://store.ramseysolutions.com/new-arrivals/?snid=store.store.new-arrivals)
+    
+    * [See All Products](https://www.ramseysolutions.com/guided-plans?snid=products.see-all-products)
+    
+* [Shows](https://www.ramseysolutions.com/shows?snid=shows) Toggle Shows Submenu
     
     Shows
     
@@ -67,12 +102,11 @@ Search Ramsey Solutions Search Ramsey Solutions
     * [See All Shows](https://www.ramseysolutions.com/shows?snid=shows-and-events.see-all-shows)
     * [Get the Ramsey Network App](https://www.ramseysolutions.com/shows/app?snid=shows-and-events.get-the-ramsey-network-app)
     
-* [Events](https://www.ramseysolutions.com/events?snid=events)
+* [Events](https://www.ramseysolutions.com/events?snid=events) Toggle Events Submenu
     
     Events
     
     * Events and Conferences
-        * [Investing Essentials](https://www.ramseysolutions.com/events/investing-essentials?snid=events.events-and-conferences.investing-essentials)
         * [Money and Marriage Getaway](https://www.ramseysolutions.com/events/money-and-marriage-getaway-valentines?snid=events.events-and-conferences.money-and-marriage-getaway-valentines)
         * [Live Like No One Else Cruise](https://www.ramseysolutions.com/events/live-like-no-one-else-cruise?snid=events.events-and-conferences.live-like-no-one-else-cruise)
         * [EntreLeadership Summit](https://www.ramseysolutions.com/shows/summit?snid=events.events-and-conferences.entreleadership-summit)
@@ -82,7 +116,7 @@ Search Ramsey Solutions Search Ramsey Solutions
     
     * [See All Events and Conferences](https://www.ramseysolutions.com/events?snid=events.see-all-events-and-conferences)
     
-* [Experts](https://www.ramseysolutions.com/personalities?snid=experts)
+* [Experts](https://www.ramseysolutions.com/personalities?snid=experts) Toggle Experts Submenu
     
     Experts
     
@@ -96,7 +130,7 @@ Search Ramsey Solutions Search Ramsey Solutions
     
     * [See All Experts](https://www.ramseysolutions.com/personalities?snid=experts.see-all-experts)
     
-* [Trusted Services](https://www.ramseysolutions.com/trusted?snid=trusted-services)
+* [Trusted Services](https://www.ramseysolutions.com/trusted?snid=trusted-services) Toggle Trusted Services Submenu
     
     Trusted Services
     
@@ -124,9 +158,9 @@ Search Ramsey Solutions Search Ramsey Solutions
         * [RamseyTrusted](https://www.ramseysolutions.com/trusted/become?snid=trusted-services.be-a-recommended-pro.ramseytrusted)
         * [SmartVestor](https://www.ramseysolutions.com/retirement/investing-pro?snid=trusted-services.be-a-recommended-pro.smartvestor)
     
-    * [Find a RamseyTrusted Pro](https://www.ramseysolutions.com/trusted?snid=ramsey-recommends.find-a-ramseytrusted-pro)
+    * [Find a RamseyTrusted® Pro](https://www.ramseysolutions.com/trusted?snid=ramsey-recommends.find-a-ramseytrusted-pro)
     
-* [Free Tools](https://www.ramseysolutions.com/tools?snid=free-tools)
+* [Free Tools](https://www.ramseysolutions.com/tools?snid=free-tools) Toggle Free Tools Submenu
     
     Free Tools
     
@@ -191,7 +225,7 @@ Search Ramsey Solutions Search Ramsey Solutions
     
     * [See All Free Tools](https://www.ramseysolutions.com/tools?snid=free-tools.see-all-free-tools)
     
-* [Articles](https://www.ramseysolutions.com/articles?snid=articles)
+* [Articles](https://www.ramseysolutions.com/articles?snid=articles) Toggle Articles Submenu
     
     Articles
     
@@ -210,7 +244,7 @@ Search Ramsey Solutions Search Ramsey Solutions
     
     * [See All Articles](https://www.ramseysolutions.com/articles?snid=articles.see-all-articles)
     
-* [Store](https://store.ramseysolutions.com/?snid=store)
+* [Store](https://store.ramseysolutions.com/?snid=store) Toggle Store Submenu
     
     Store
     
@@ -233,6 +267,7 @@ Search Ramsey Solutions Search Ramsey Solutions
     
     * [Shop the Store](https://store.ramseysolutions.com/?snid=store.shop-the-store)
     
+* [Store](https://store.ramseysolutions.com/?snid=store) Toggle Store Submenu
 
 [Sign In](https://products.ramseysolutions.com/) [Get Started](https://www.ramseysolutions.com/get-started/gs/app/assessment?int_fmt=button&int_lctn=homepage-bottom_cta&int_dscpn=rs_mast_getstarted_button&int_cmpgn=rs_mast_getstarted_button_2024&int_dept=rscom_bu)
 
@@ -430,6 +465,10 @@ Attention: **Privacy**
 Franklin, Tennessee 37064
 
 **_Privacy\_Gen\_06.28.2024v10_**
+
+To give you the best online experience, Ramsey Solutions uses cookies and other tracking technologies to collect information about you and your website experience, and shares it with our analytics and advertising partners as described in our Privacy Policy. By continuing to browse or by closing out of this message, you indicate your agreement.
+
+[Accept](#cookie-banner)
 
 [![Ramsey Solutions](https://cdn.ramseysolutions.net/media/rscom/logos/footer-logo-ramsey-blue.svg)](https://www.ramseysolutions.com/)
 
