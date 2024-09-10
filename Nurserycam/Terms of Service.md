@@ -45,7 +45,7 @@ In this Agreement, the following words shall have the following meanings:
 * Means all patents, registered and unregistered designs, copyrights, trademarks, know-how, and all other forms of intellectual property wherever in the world enforceable.
 
 * **“Price”**
-* Means the price set out in the list of prices of th Goods maintained by the Seller as amended from time to time or other such price that the parties may agree in writing plus such carriage, packing, insurance, or other charges or interest on such as may be quoted by the Seller. The Seller reserves the right to modify or amend the price listed in the list or prices of the Goods without prior notification to the Buyer.
+* Means the price set out in the list of prices of the Goods maintained by the Seller as amended from time to time or other such price that the parties may agree in writing plus such carriage, packing, insurance, or other charges or interest on such as may be quoted by the Seller. The Seller reserves the right to modify or amend the price listed in the list or prices of the Goods without prior notification to the Buyer.
 
 * **“Conditions”**
 * Means the terms and conditions set out in this document.
@@ -54,21 +54,21 @@ In this Agreement, the following words shall have the following meanings:
 
 ### 1.0 Application of Terms
 
-The PRODUCT and/or SERVICE is supplied subject to and upon these CONDITIONS to the exclusion of any other terms and conditions.
+The PRODUCT and/or SERVICE is supplied subject to and upon these CONDITIONS, to the exclusion of any other terms and conditions.
 
-The PURCHASE ORDER for the installationand activation of the SERVICE (hereinafter called the “ORDER”) forms part of this CONDITIONS. If there is any conflict between the terms stated in this CONDITIONS and those stated in the ORDER, the terms of the ORDER will take precedent.
+The PURCHASE ORDER for the installation and activation of the SERVICE (hereinafter called the ‘ORDER’) forms part of these CONDITIONS. If there is any conflict between the terms stated in these CONDITIONS and those stated in the ORDER, the terms of the ORDER will take precedence.
 
-This CONDITIONS together with the ORDER contains all the agreed terms between the SUPPLIER and the CLIENT to which no additions or amendments shall have effect unless agreed in writing and signed by the SUPPLIER and the CLIENT
+These CONDITIONS, together with the ORDER, contain all the agreed terms between the SUPPLIER and the CLIENT, to which no additions or amendments shall have effect unless agreed in writing and signed by both the SUPPLIER and the CLIENT.
 
-Any advice, recommendation, or representationgiven by the Supplier or its employees, representatives, or agents to the Client or its employees, representatives, or agents as to the storage, application, price, or use of the Product which is not confirmed in writing by the Supplier is followed or acted upon at the Client’s own risk. Accordingly, the Supplier shall not be liable for any such advice, recommendation, or representation which is not so confirmed. Nothing in these conditions shall affect the statutory rights of any Client dealing as a consumer.
+Any advice, recommendation, or representation given by the Supplier or its employees, representatives, or agents to the Client or its employees, representatives, or agents as to the storage, application, price, or use of the Product, which is not confirmed in writing by the Supplier, is followed or acted upon at the Client’s own risk. Accordingly, the Supplier shall not be liable for any such advice, recommendation, or representation which is not so confirmed. Nothing in these CONDITIONS shall affect the statutory rights of any Client dealing as a consumer.
 
   
 
 ### 2.0 Price
 
-The SUPPLIER reserves the right to review the price of the SERVICE stated on the ORDER at any time in the future. The reviewed price shall take effect 120 days after a written notice is given to the CLIENT.
+The SUPPLIER reserves the right to review the price of the SERVICE stated in the ORDER at any time in the future. The reviewed price shall take effect 120 days after written notice is given to the CLIENT.
 
-Unless the CLIENT terminates the SERVICE and the CONDITIONS by giving the agreed notice stated in the ORDER, this CONDITIONS shall continue to hold and the reviewed price shall be deemed to be accepted by the CLIENT.
+Unless the CLIENT terminates the SERVICE and these CONDITIONS by giving the agreed notice stated in the ORDER, these CONDITIONS shall continue to apply, and the reviewed price shall be deemed accepted by the CLIENT.
 
   
   
@@ -77,7 +77,7 @@ Unless the CLIENT terminates the SERVICE and the CONDITIONS by giving the agreed
 
 All invoices are payable without discount of any kind in pounds sterling within 30 days of the date of the invoice and in no circumstances may the CLIENT make any deduction or withhold payment for any reason at all.
 
-Payment of the price is strictly upfront via bank transfer or online credit card with order unless a credit account has been established with the SUPPLIER in which payment of the price is due in 30 daysor whichever date is agreed upon by both parties following the date of the invoice. The SUPPLIER is not liable to establish a credit account with any whom CLIENT that requested. The SUPPLIER reserves the right to grant, refuse, restrict, cancel, or alter credit terms at its sole discretion at any time.
+Payment of the price is strictly upfront via bank transfer or online credit card with order unless a credit account has been established with the SUPPLIER in which payment of the price is due in 30 days or whichever date is agreed upon by both parties following the date of the invoice. The SUPPLIER is not liable to establish a credit account with any whom CLIENT that requested. The SUPPLIER reserves the right to grant, refuse, restrict, cancel, or alter credit terms at its sole discretion at any time.
 
 The SUPPLIER is not responsible for the following:
 
@@ -89,9 +89,11 @@ Delivery charges incurred for the deliverance of the Goods by the Seller to the 
 
 All sums quoted under or further to the CONDITIONS are deemed to be exclusive of Value Added Tax, Goods and Services Tax, or any and all similar taxation, tariffs, duties which will be added at the rate prevailing at the time of the invoice. The CLIENT shall not be entitled to make a set off and/or counterclaim in respect of any funds owed by the CLIENT to the SUPPLIER and shall pay all amounts due under or further to these CONDITIONS without making any deduction of any kind. All PRODUCTS supplied by the SUPPLIER may be subjected to the export and import controls, restrictions, or regulations imposed by the prevailing country or governing body within the country of the CLIENT. The CLIENT will be responsible for all clearance of import and export regulations as imposed by their governing body in their country of operations. The SUPPLIER reserves the right to grant, refuse, restrict, cancel, or alter credit terms at its sole discretion at any time.
 
+  
+
 ### 3.1 Non-payable
 
-In the event of the CLIENT failed to complete the payment in 30 days or whichever date is agreed upon both parties, following the date of Invoice, the SUPPLIER shall be entitled to charge the CLIENT an interest at the rate of 2.5% per month upon all overdue balances. If the payment is overdue for more than 30 days, the ownership of the item purchased will be transferred to the SUPPLIER. The SUPPLIER reserves the right to disablethe PRODUCT and/or SERVICE immediately and request for the return of the physical equipment. The CLIENT will still be liable for the PRODUCT and/or SERVICE and in the event of the PRODUCT and/or SERVICE being called back by the SUPPLIER, the CLIENT will be liable for dismantling and any cost incurred for the return of equipment to the Seller.
+In the event of the CLIENT failed to complete the payment in 30 days or whichever date is agreed upon both parties, following the date of Invoice, the SUPPLIER shall be entitled to charge the CLIENT an interest at the rate of 2.5% per month upon all overdue balances. If the payment is overdue for more than 30 days, the ownership of the item purchased will be transferred to the SUPPLIER. The SUPPLIER reserves the right to disable the PRODUCT and/or SERVICE immediately and request for the return of the physical equipment. The CLIENT will still be liable for the PRODUCT and/or SERVICE and in the event of the PRODUCT and/or SERVICE being called back by the SUPPLIER, the CLIENT will be liable for dismantling and any cost incurred for the return of equipment to the Seller.
 
   
 
@@ -117,7 +119,7 @@ The Seller reserves the right at its absolute discretion to approve/disapprove t
 
 ### 4.0 Delivery
 
-Unless otherwise agreed in writing, delivery of the PRODUCT and/or SERVICE shall take place at the address specified by the CLIENT on, or as close as possible to the date required by the CLIENT and agreed by the SUPPLIER.The CLIENT shall make all arrangements necessary to take delivery of the PRODUCT and/or SERVICE whenever they are tendered for delivery. Anytime or date names by the SUPPLIER for the delivery of any PRODUCT and/or SERVICE is given as a forecast in the light of prevailing CONDITIONS and is given and intended as an estimate only.
+Unless otherwise agreed in writing, delivery of the PRODUCT and/or SERVICE shall take place at the address specified by the CLIENT on, or as close as possible to the date required by the CLIENT and agreed by the SUPPLIER. The CLIENT shall make all arrangements necessary to take delivery of the PRODUCT and/or SERVICE whenever they are tendered for delivery. Anytime or date names by the SUPPLIER for the delivery of any PRODUCT and/or SERVICE is given as a forecast in the light of prevailing CONDITIONS and is given and intended as an estimate only.
 
 If notwithstanding the SUPPLIER’s best endeavours, the SUPPLIER fails to deliver the PRODUCT and/or SERVICE by such time or date, such failure shall not constitute a breach of this contract and the SUPPLIER shall not be liable to the CLIENT to make good any damage or loss whatsoever whether arising directly or indirectly out of any delay in delivery. If the SUPPLIER is unable to deliver the PRODUCT and/or SERVICE because of actions or circumstances under the control of the CLIENT, then the SUPPLIER shall be entitled to place the PRODUCT and/or SERVICE in storage until such times as delivery may be affected and the CLIENT shall be liable for any expense associated with such storage. The SUPPLIER shall use its reasonable endeavours subject to its other contractual commitments from time to time prevailing and to the availability of PRODUCT and/or SERVICE and personnel to comply with the delivery dates supplied by the SUPPLIER.
 
@@ -127,25 +129,25 @@ If notwithstanding the SUPPLIER’s best endeavours, the SUPPLIER fails to deliv
 
 Title and ownership of all PRODUCT shall remain that of the SUPPLIER until payment has been made in full by the CLIENT.
 
-Until the title and ownership of the PRODUCT has been passed to the CLIENT, the CLIENT will hold the PRODUCT in a fiduciary capacity. The CLIENT will not obliterate any identifying marks on the PRODUCT, nor its packaging and will keep the PRODUCT separated from other products. The SUPPLIER may reserve the right at any time after the payment for the PRODUCT and/or SERVICE has become due exercise the right to demand for itself or any of its authorised agents to enter the CLIENT’S premises to repossess the PRODUCT and/or SERVICE.The SUPPLIER reserves the right to maintain an action against the CLIENT for the price of the equipment and any further costs ensuing, notwithstanding that property has not been passed. If the CLIENT sells the equipment to a third party before or after title has been passed to the client, any such sale shall be done by the CLIENT and on no account shall the SUPPLIER be responsible to the terms of such sale. The CLIENT shall require with written permission from the SUPPLIER to undertake any negotiations or sale(s) of any part of the PRODUCT and/or SERVICE which the PRODUCT and/or SERVICE is held in fiduciary capacity.
+Until the title and ownership of the PRODUCT has been passed to the CLIENT, the CLIENT will hold the PRODUCT in a fiduciary capacity. The CLIENT will not obliterate any identifying marks on the PRODUCT, nor its packaging and will keep the PRODUCT separated from other products. The SUPPLIER may reserve the right at any time after the payment for the PRODUCT and/or SERVICE has become due exercise the right to demand for itself or any of its authorised agents to enter the CLIENT’S premises to repossess the PRODUCT and/or SERVICE. The SUPPLIER reserves the right to maintain an action against the CLIENT for the price of the equipment and any further costs ensuing, notwithstanding that property has not been passed. If the CLIENT sells the equipment to a third party before or after title has been passed to the client, any such sale shall be done by the CLIENT and on no account shall the SUPPLIER be responsible to the terms of such sale. The CLIENT shall require with written permission from the SUPPLIER to undertake any negotiations or sale(s) of any part of the PRODUCT and/or SERVICE which the PRODUCT and/or SERVICE is held in fiduciary capacity.
 
   
 
 ### 6.0 Equipment Liability
 
-Risk will pass to the CLIENT when equipment is delivered to the CLIENT’S premises. The CLIENT herby undertakes to accept liability for any equipment supplied by the SUPPLIER, whilst it is on the clients’ premises, be it prior to or after installation is completed.
+Risk will pass to the CLIENT when the equipment is delivered to the CLIENT’S premises. The CLIENT hereby undertakes to accept liability for any equipment supplied by the SUPPLIER while it is on the CLIENT’S premises, whether before or after installation is completed.
 
   
 
 ### 7.0 Warranty
 
-All representation or warranty written or orally made or given prior to the ORDER is hereby expressly excluded and all brochures, specifications, drawings, catalogues, particulars, shapes, descriptions and illustrations, price lists and other advertising material are intended only to present a general idea of goods described herein.
+All representations or warranties made or given, whether written or oral, prior to the ORDER are hereby expressly excluded. All brochures, specifications, drawings, catalogues, particulars, shapes, descriptions and illustrations, price lists, and other advertising material are intended only to present a general idea of the goods described herein.
 
   
 
 ### 8.0 Limitation of Liability
 
-The SUPPLIER, including any of its affiliates, directors, employees or other representatives, shall not be liable for any loss or damage of any nature, including (without limitation) compensatory, direct, indirect or consequential damages, loss of data, income or profit, loss of or damage to property, and claims of third parties, caused directly or indirectly by any breach of any express or implied condition of the CONDITIONS or any negligence, breach of statutory or other duty on the part of the SUPPLIER or in any other way out of or in connection with the performance or purported performance of or failure to perform the CONDITIONS and/or the SERVICE, except for personal injury to the extent only that it arises as a result of the negligence ofthe SUPPLIER.
+The SUPPLIER, including any of its affiliates, directors, employees or other representatives, shall not be liable for any loss or damage of any nature, including (without limitation) compensatory, direct, indirect or consequential damages, loss of data, income or profit, loss of or damage to property, and claims of third parties, caused directly or indirectly by any breach of any express or implied condition of the CONDITIONS or any negligence, breach of statutory or other duty on the part of the SUPPLIER or in any other way out of or in connection with the performance or purported performance of or failure to perform the CONDITIONS and/or the SERVICE, except for personal injury to the extent only that it arises as a result of the negligence of the SUPPLIER.
 
 Where and to the extent that the SUPPLIER is requested by the client and agrees to the recommended or advice regarding the choice and suitability of PRODUCT and/or SERVICE. The SUPPLIER recognises that it will provide such advice to the CLIENT with reasonable skill and care subject to the CONDITIONS. The SUPPLIER acknowledges that any other circumstances it is reliant on its own skill and judgement in determining the suitability of the PRODUCT and/or SERVICE. The SUPPLIER alone shall bear responsibility for the accuracy and validity of any information supplied by the CLIENT. The SUPPLIER shall at the cost of the CLIENT pass on when called upon to do so by the CLIENT, so far as it is reasonably able, the benefit of all warranty contained in any contract for the supply of equipment to the SUPPLIER. The total liability of the SUPPLIER to the CLIENT in respect of all claims pursuant from the Conditions shall be limited to the price as outlined in the initial invoice. Notwithstanding anything to the contrary herein, the liability of the SUPPLIER to the CLIENT for:
 
@@ -157,7 +159,7 @@ Damage for which SUPPLIER is liable under part 1 of the Consumer Protection Act 
 
   
 
-The SUPPLIER reserves the right to charge the CLIENT at a reasonable rate for any work carried out that has been deemed to be caused by accidental, malicious, negligent damage to the PRODUCT and/or SERVICE by the CLIENT, its representatives, its employees, or itsagents. The SUPPLIER will endeavour to configure the system to maximise its accuracy, subject to environmental conditions. The SUPPLIER will not be liable under the warranty in respect of the followings:
+The SUPPLIER reserves the right to charge the CLIENT at a reasonable rate for any work carried out that has been deemed to be caused by accidental, malicious, negligent damage to the PRODUCT and/or SERVICE by the CLIENT, its representatives, its employees, or its agents. The SUPPLIER will endeavour to configure the system to maximise its accuracy, subject to environmental conditions. The SUPPLIER will not be liable under the warranty in respect of the followings:
 
 Any defect arising from fair wear and tear, wilful damage, incorrect movement, misuse, alteration, or maintenance of the system arising due to negligence and care for the PRODUCT and/or SERVICE
 
@@ -185,7 +187,7 @@ The SUPPLIER shall not be responsible or liable for any misuse or misconduct by 
 
 ### 10.0 IT Security and Privacy
 
-SUPPLIER is responsible for the IT security of the end-to-end service delivery.SUPPLIER would issue a set of guidelines and instructions to both nursery and their parents who subscribe to the service, to ensure the enforcement of IT security and data privacy of the parental webcam service.
+SUPPLIER is responsible for the IT security of the end-to-end service delivery. SUPPLIER would issue a set of guidelines and instructions to both nursery and their parents who subscribe to the service, to ensure the enforcement of IT security and data privacy of the parental webcam service.
 
 Appointed data protection officer of SUPPLIER would answer all nursery and parents enquiries, and would support nursery in all aspects regarding its security and data privacy policy of its parental webcam service.
 
@@ -229,13 +231,13 @@ The SUPPLIER reserves the right to make improvements or modifications in the spe
 
 The CLIENT is fully responsible for the insurance of the PRODUCT.
 
-The risk in respect of all goods sold under this contract shall pass to the CLIENT upon dispatch of the goods by the SUPPLIER from the SUPPLIER's premises, notwithstanding agreenment by the SUPPLIER to bear the cost of delivery or to deliver the goods itself.
+The risk in respect of all goods sold under this contract shall pass to the CLIENT upon dispatch of the goods by the SUPPLIER from the SUPPLIER's premises, notwithstanding agreement by the SUPPLIER to bear the cost of delivery or to deliver the goods itself.
 
   
 
 ### 16.0 Safety
 
-The SUPPLIER may, in some cases, assigns independent or sub-contracting installer for the installation of equipment for the PRODUCT and/or SERVICE at the CLIENT’s premises. The SUPPLIER shall not be liable for any loss, damage or personal injury resulting from the installation of the SERVICE by the independent or sub-contracting installer. All claims by the CLIENT shall be made against the installer.
+The SUPPLIER may, in some cases, assign independent or sub-contracting installer for the installation of equipment for the PRODUCT and/or SERVICE at the CLIENT’s premises. The SUPPLIER shall not be liable for any loss, damage or personal injury resulting from the installation of the SERVICE by the independent or sub-contracting installer. All claims by the CLIENT shall be made against the installer.
 
 After the installation of the PRODUCT and/or SERVICE, it is the responsibility of the CLIENT to observe and inform the SUPPLIER in a timely fashion of any potential safety risk that may be imposed by the equipment for the PRODUCT and/or SERVICE.
 
@@ -245,11 +247,11 @@ The SUPPLIER shall not be liable for any loss, damage or personal injury caused 
 
 ### 17.0 Termination
 
-The SERVICE and this CONDITIONS may be terminated:
+The SERVICE and these CONDITIONS may be terminated:
 
-12.1. by either the SUPPLIER or the CLIENT giving the agreed notice stated in the ORDER
+17.1. by either the SUPPLIER or the CLIENT giving the agreed notice stated in the ORDER
 
-12.2. by the SUPPLIER in the event that the CLIENT fails to pay the invoice by the due date
+17.2. by the SUPPLIER in the event that the CLIENT fails to pay the invoice by the due date
 
   
 
@@ -257,7 +259,7 @@ The SERVICE and this CONDITIONS may be terminated:
 
 If the performance of the CONDITIONS and/or the ORDER or any obligation under it is prevented, restricted, or interfered with by reason of circumstances beyond the reasonable control of the SUPPLIER and it gives prompt notice to the CLIENT, the SUPPLIER shall be excused from the performance to the extent of the prevention, restriction, or interference, but the SUPPLIER shall use its best endeavours to avoid or remove the causes of non-performance and shall continue performance under the CONDITIONS with the utmost dispatch whenever the causes are removed or diminished.
 
-Neither the SUPPLIER, nor any of its servants, agents orsubcontractors shall be under any liability whatsoever to the CLIENT for non-performance, or delay in performance of the delegation to be performed by the SUPPLIER here under directly or indirectly caused by or resulting from an Act of God, outbreak of hostility (whether or not war is declared), insurrection, riot, civil disturbance, government act or regulation, fire, flood, accident, theft, strike, lockout or trade disputes, delays affecting shipping or delays affecting the supplies of equipment or suitable and adequate material or any other event or circumstances whatsoever outside the control of the SUPPLIER in relation to the CONDITIONS.
+Neither the SUPPLIER, nor any of its servants, agents or subcontractors shall be under any liability whatsoever to the CLIENT for non-performance, or delay in performance of the delegation to be performed by the SUPPLIER here under directly or indirectly caused by or resulting from an Act of God, outbreak of hostility (whether or not war is declared), insurrection, riot, civil disturbance, government act or regulation, fire, flood, accident, theft, strike, lockout or trade disputes, delays affecting shipping or delays affecting the supplies of equipment or suitable and adequate material or any other event or circumstances whatsoever outside the control of the SUPPLIER in relation to the CONDITIONS.
 
   
 
@@ -273,13 +275,13 @@ In any other cases the dispute shall be determined by the English Courts, and th
 
 In any dispute between contracts, this set of Conditions shall prevail
 
-This CONDITIONS shall be formed and constructed by English law
+These CONDITIONS shall be formed and constructed by English law
 
   
 
 ### 20.0 Confidentiality
 
-The Buyer will treat all information communicated in confidence under or in connection with this CONDITIONS as confidential.The CLIENT shall not disclose any confidential information shared by the SUPPLIER to any person other than the Relevant Third parties, regardless of when it is disclosed or obtained and the form in which it is disclosed or obtained. The CLIENT shall not attempt by any means to temper the PRODUCT and/or SERVICE unless otherwise requested by the SUPPLIER in the event of remote inspection by the SUPPLIER.
+The Buyer will treat all information communicated in confidence under or in connection with these CONDITIONS as confidential. The CLIENT shall not disclose any confidential information shared by the SUPPLIER to any person other than the Relevant Third parties, regardless of when it is disclosed or obtained and the form in which it is disclosed or obtained. The CLIENT shall not attempt by any means to temper the PRODUCT and/or SERVICE unless otherwise requested by the SUPPLIER in the event of remote inspection by the SUPPLIER.
 
   
 
