@@ -177,12 +177,6 @@
         
         [Projects](https://secuso.aifb.kit.edu/english/86.php)
         
-        * [Digital Transformation in Research – DiTraRe](https://secuso.aifb.kit.edu/english/2555.php)
-        * [Decision-Making in Hybrid Adaptive Systems for Better Work and Life - An Open Science Approach](https://secuso.aifb.kit.edu/english/2489.php)
-        * [ESS - Engineering Secure Systems (Helmholtz-Gemeinschaft)](https://secuso.aifb.kit.edu/english/1464.php)
-        * [KD²Ex (KIT - University of Excellence)](https://secuso.aifb.kit.edu/english/1505.php)
-        * [Effective Security Awareness at KIT](https://secuso.aifb.kit.edu/english/1842.php)
-        * [Ende-zu-Ende-verifizierbare und geheime Online-Wahlen am KIT](https://secuso.aifb.kit.edu/english/2197.php)
         * [Abgeschlossene Projekte am KIT](https://secuso.aifb.kit.edu/english/2189.php)
         * [Completed Projects at TU Darmstadt](https://secuso.aifb.kit.edu/english/114.php)
         
@@ -369,12 +363,13 @@
         
         [Courses](https://secuso.aifb.kit.edu/english/119.php)
         
-        * [Sommer 2024](https://secuso.aifb.kit.edu/english/2516.php)
+        * [Winter 2024/25](https://secuso.aifb.kit.edu/english/2748.php)
+        * [Summer 2024](https://secuso.aifb.kit.edu/english/2516.php)
         * [Winter 2023/24](https://secuso.aifb.kit.edu/english/2463.php)
         * [Winter 2022/23](https://secuso.aifb.kit.edu/english/2094.php)
-        * [Sommer 2022](https://secuso.aifb.kit.edu/english/1871.php)
+        * [Summer 2022](https://secuso.aifb.kit.edu/english/1871.php)
         * [Winter 2021/22](https://secuso.aifb.kit.edu/english/1737.php)
-        * [Sommer 2021](https://secuso.aifb.kit.edu/english/1525.php)
+        * [Summer 2021](https://secuso.aifb.kit.edu/english/1525.php)
         * [Winter 2020/21](https://secuso.aifb.kit.edu/english/1329.php)
         * [Summer 2020](https://secuso.aifb.kit.edu/english/1121.php)
         * [Winter 2019/20](https://secuso.aifb.kit.edu/english/1019.php)
@@ -543,18 +538,18 @@ Kaiserstr. 89
 
 ### Externe Veranstaltungen
 
-**Tuesday, 30 Jul 2024**  
-[19th International Conference on Availability, Reliability and Security (ARES) 2024](https://secuso.aifb.kit.edu/english/77.php/event/51522#calendar_top)
+**Monday, 16 Sep 2024**  
+[29th European Symposium on Research in Computer Security (ESORICS)](https://secuso.aifb.kit.edu/english/77.php/event/51708#calendar_top)
 
 * * *
 
-**Sunday, 11 Aug 2024**  
-[20th Symposium on Usable Security and Privacy (SOUPS)](https://secuso.aifb.kit.edu/english/77.php/event/51519#calendar_top)
+**Monday, 30 Sep 2024**  
+[EuroUSEC - The 2024 European Symposium on Usable Security](https://secuso.aifb.kit.edu/english/77.php/event/52794#calendar_top)
 
 * * *
 
-**Wednesday, 14 Aug 2024**  
-[USENIX Security '24](https://secuso.aifb.kit.edu/english/77.php/event/51516#calendar_top)
+**Sunday, 31 Aug 2025**  
+[MuC25 - Mensch und Computer 2025](https://secuso.aifb.kit.edu/english/77.php/event/53877#calendar_top)
 
 * * *
 
