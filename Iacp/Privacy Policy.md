@@ -108,6 +108,7 @@ Member Center
     [Close](#) [Back](#)* All Resources
     * [IACP Resources](https://www.theiacp.org/resources)
     * [Policy Center](https://www.theiacp.org/policycenter)
+    * [Training Keys](https://www.theiacp.org/training-keys)
     * [Critical Issues](https://www.theiacp.org/critical-issues "Critical Issues")
     * [Police Chief Magazine](http://www.policechiefmagazine.org/ "Police Chief Magazine")
 * [Make a Payment](https://www.myiacp.org/ezpaystart "Make a Payment")
