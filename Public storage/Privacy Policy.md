@@ -109,6 +109,7 @@ Pay Bill
     * [U.S. Locations](https://www.publicstorage.com/storage-facilities?country=United-States)
     * [Global Locations](https://www.publicstorage.com/global-storage-facilities.html)
     * [3rd Party Management](https://www.publicstorage.com/3rd-party-management.html)
+    * [Lending Program](https://www.publicstorage.com/lending-program/lending-program.html)
     * [Contact Us](https://www.publicstorage.com/contact-us/contact-us.html)
     * [Careers](https://www.publicstoragejobs.com/)
     * [Blog](https://www.publicstorage.com/blog)
@@ -422,6 +423,32 @@ This Privacy Policy is reviewed and updated regularly. If we change this Policy,
 
 If you have a questions about this Policy or our privacy practices, you may contact us or call us at 800.611.2882.
 
+Public Storage Near North Bergen, New Jersey
+
+Self Storage Near
+
+[607 W 47th St
+
+New York NY 10036-1908](https://www.publicstorage.com/self-storage-ny-new-york/5710.html?showUnits=false)
+
+Self Storage Near
+
+[410 8th Street
+
+Hoboken NJ 07030-2170](https://www.publicstorage.com/self-storage-nj-hoboken/1595.html?showUnits=false)
+
+Self Storage Near
+
+[428 E 92nd St
+
+New York NY 10128-6804](https://www.publicstorage.com/self-storage-ny-new-york/5740.html?showUnits=false)
+
+Self Storage Near
+
+[504 Jane St
+
+Fort Lee NJ 07024-2549](https://www.publicstorage.com/self-storage-nj-fort-lee/6129.html?showUnits=false)
+
 Public Storage is the leading provider of storage units for your personal, business and vehicle needs with thousands of locations nationwide. We offer a wide variety of units and sizes available with no obligation and no long-term commitment. Call today at 800-688-8057 for a free reservation and get your first month's rent for just $1.
 
 Public Storage Locations in San Antonio:
@@ -436,17 +463,9 @@ Public Storage Locations in San Antonio:
 * [Manvel, Texas](https://www.publicstorage.com/self-storage-tx-manvel)
 * [Dickinson, Texas](https://www.publicstorage.com/self-storage-tx-dickinson)
 
-Public Storage Locations in Texas:
-----------------------------------
+##### Public Storage Locations in New Jersey:
 
-* [Addison, Texas](https://www.publicstorage.com/self-storage-tx-addison)
-* [Alamo Heights, Texas](https://www.publicstorage.com/search?cgid=tx-alamo-heights)
-* [Aledo, Texas](https://www.publicstorage.com/self-storage-tx-aledo)
-* [Allen, Texas](https://www.publicstorage.com/self-storage-tx-allen)
-* [Argyle, Texas](https://www.publicstorage.com/self-storage-tx-argyle)
-* [Arlington, Texas](https://www.publicstorage.com/self-storage-tx-arlington)
-* [Aubrey, Texas](https://www.publicstorage.com/self-storage-tx-aubrey)
-* [Austin, Texas](https://www.publicstorage.com/self-storage-tx-austin)
+[Barnegat, New Jersey](https://www.publicstorage.com/self-storage-nj-barnegat) [Bayville, New Jersey](https://www.publicstorage.com/self-storage-nj-bayville) [Berlin, New Jersey](https://www.publicstorage.com/self-storage-nj-berlin) [Blackwood, New Jersey](https://www.publicstorage.com/self-storage-nj-blackwood) [Brick, New Jersey](https://www.publicstorage.com/self-storage-nj-brick) [Bridgewater, New Jersey](https://www.publicstorage.com/self-storage-nj-bridgewater) [Burlington, New Jersey](https://www.publicstorage.com/self-storage-nj-burlington) [Cherry Hill, New Jersey](https://www.publicstorage.com/self-storage-nj-cherry-hill)
 
 Public Storage Locations in the Country:
 ----------------------------------------
@@ -490,9 +509,9 @@ Public Storage Locations in the Country:
 
 ### Support
 
-[Contact](https://www.publicstorage.com/contact-us/contact-us.html)
+[Contact Us](https://www.publicstorage.com/contact-us/contact-us.html)
 
-[Frequently Asked Questions](https://www.publicstorage.com/help-center)
+[Frequently Asked Questions](https://help.publicstorage.com/)
 
 [Size Guide](https://www.publicstorage.com/size-guide)
 
@@ -541,10 +560,10 @@ PUBLIC STORAGE, PS, and the Orange Door Trade Dress are trademarks or registered
 
 Facilities with a ![Green Leaf](https://www.publicstorage.com/on/demandware.static/-/Sites-publicstorage-Library/default/dwf3c38869/ps-images/footer/icon-leaf-circle.svg) have one or more of the following sustainable initiatives in place to help you make an informed storage decision: LED lighting, Efficient HVAC Systems, Solar power generation, Eco-Friendly Water Practices, or High R-value Insulation.
 
-Promotion: Subject to change. Offered only on selected units. Subject to availability. Limit one offer per household. This offer applies only to the rental fee. Other restrictions, taxes, and fees, including an administrative fee, apply. See contract for full details. Promotions good for new customers only. Not available on transfers or additional spaces. Pricing subject to change. Reservation required to guarantee price. Actual unit sizes may vary from approximate size estimate and reservations do not guarantee unit availability. Temperature and humidity levels within any storage space including climate-controlled spaces may vary. Please inspect any unit before renting. Online pricing available only for online reservations and rentals. Not sure about the size you need? Don’t worry, online pricing discount will be honored for any rental originating from an online reservation.
+Promotion: Subject to change. Offered only on selected units. Subject to availability. Limit one offer per household. This offer applies only to the rental fee. Other restrictions, taxes, and fees, including an administrative fee, apply. See contract for full details. Promotions good for new customers only. Not available on transfers or additional spaces. Pricing subject to change. Reservation required to guarantee price. Actual unit sizes may vary from approximate size estimate and reservations do not guarantee unit availability. Temperature and humidity levels within any storage space including climate-controlled spaces may vary. Please inspect any unit before renting. Online pricing available only for online reservations and rentals. Not sure about the size you need? Don’t worry, online pricing discount will be honored for any rental originating from an online reservation. If the promotion is associated with the 2024 Labor Day Sale: the promotional period is for a limited time only and you must move in within 7 days of reservation.
 
 #### Promotion
 
 ×
 
-Subject to change. Offered only on selected space at select locations. Subject to availability. Limit one offer per household. This offer applies only to the rental fee. Other restrictions, taxes, and fees, including an administrative fee, apply. See contract for full details. Promotions good for new customers only. Not available on transfers or additional spaces. Pricing subject to change. Reservation required to guarantee price. Actual space sizes may vary from approximate size estimate and reservations do not guarantee unit availability. Please inspect any space before renting. Online pricing available only for online reservations and rentals. Not sure about the size you need? Don't worry, online pricing discount will be honored for any rental originating from an online reservation.
+Subject to change. Offered only on selected space at select locations. Subject to availability. Limit one offer per household. This offer applies only to the rental fee. Other restrictions, taxes, and fees, including an administrative fee, apply. See contract for full details. Promotions good for new customers only. Not available on transfers or additional spaces. Pricing subject to change. Reservation required to guarantee price. Actual space sizes may vary from approximate size estimate and reservations do not guarantee unit availability. Please inspect any space before renting. Online pricing available only for online reservations and rentals. Not sure about the size you need? Don't worry, online pricing discount will be honored for any rental originating from an online reservation. If the promotion is associated with the 2024 Labor Day Sale: the promotional period is for a limited time only and you must move in within 7 days of reservation.
