@@ -34,12 +34,12 @@ SwitchCancel
 ##### Vacancies
 
 * [Israel - Herzliya](https://company.plarium.com/en/studio/israel-herzliya/)
-* [USA - California](https://company.plarium.com/en/studio/usa-rumble-games/)
-* [USA - Michigan](https://company.plarium.com/en/studio/usa-michigan/)
-* [Ukraine - Kharkiv](https://company.plarium.com/en/studio/ukraine-kharkiv/)
+* [Finland - Helsinki](https://company.plarium.com/en/about/)
+* [Poland - Warsaw](https://company.plarium.com/en/studio/poland-warsaw/)
 * [Ukraine - Lviv](https://company.plarium.com/en/studio/ukraine-lviv/)
 * [Ukraine - Kyiv](https://company.plarium.com/en/studio/ukraine-kyiv/)
-* [Poland - Warsaw](https://company.plarium.com/en/studio/poland-warsaw/)
+* [Ukraine - Kharkiv](https://company.plarium.com/en/studio/ukraine-kharkiv/)
+* [Spain - Barcelona](https://company.plarium.com/en/about/)
 
 ##### Games
 
@@ -51,13 +51,11 @@ SwitchCancel
 * [Stormfall: Rise of Balur](https://plarium.com/en/game/stormfall-rise-of-balur/)
 * [Sparta: War of Empires](https://plarium.com/en/game/sparta-war-of-empires/)
 * [Soldiers Inc: Mobile Warfare](https://plarium.com/en/game/soldiers-inc-mobile-warfare/)
-* [Terminator Genisys: Future War](https://plarium.com/en/game/terminator-genisys-future-war/)
 * [Soldiers Inc.](https://plarium.com/en/game/soldiers-inc/)
 * [Pirates: Tides of Fortune](https://plarium.com/en/game/pirates-tides-of-fortune/)
 * [Stormfall: Age of War](https://plarium.com/en/game/stormfall-age-of-war/)
 * [Total Domination](https://plarium.com/en/game/total-domination/)
 * [Total Domination: Reborn](https://plarium.com/en/game/total-domination-reborn/)
-* [Alliance: Heroes of the Spire](https://plarium.com/en/game/alliance-heroes-of-the-spire/)
 * [Nords: Heroes of the North](https://plarium.com/en/game/nords-heroes-of-the-north/)
 
 ##### Contacts
