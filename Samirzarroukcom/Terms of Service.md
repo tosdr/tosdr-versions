@@ -222,7 +222,7 @@ If you have any questions about this Disclaimer, You can contact Us: [https://sa
 
 #### INSTAGRAM FEED
 
-[![Winter wonderland ❄️ #WinterMagic #HelsinkiSunris #landscapephotography #fantastic_earth #landscape_captures #ic_landscapes #nature_wizards #nature_shooters #landscapestyles_gf #ourplanetdaily #landscapehunter #special_shots #artofvisuals #dronephoto](https://images.squarespace-cdn.com/content/v1/61575f6650562b0de8f452da/1710301814652-BC1Y4S6C8S0TVJBY5BM3/image-asset.jpeg)](https://www.instagram.com/p/C4cC6RjoRE8/)[![Chasing the sunrise along the Helsinki coast at -22 degrees on a Saturday morning. No expectations, no plan&mdash;just a spontaneous winter moment. The biting cold at -22 degrees was undeniable, but the warm light transformed the scene, making me for](https://images.squarespace-cdn.com/content/v1/61575f6650562b0de8f452da/1706040475748-HEDWWZ71IMK3NPBV1RX7/image-asset.jpeg)](https://www.instagram.com/p/C2dAu9TM9je/)[![Oak Tree about
+[![Exploring the of the Hassan II Mosque in Casablanca an architectural beauty 🌊🕌 The carousal slides created using my Photoshop web sharpening plugin.  #HassanIIMosque #Casablanca #Morocco #ArchitecturePhotography #IslamicArt #TravelPhotography #Sacr](https://images.squarespace-cdn.com/content/v1/61575f6650562b0de8f452da/1724925463480-YV5X8WXIZ60L65FNS6PU/image-asset.jpeg)](https://www.instagram.com/p/C_P1qzHMuCJ/)[![Winter wonderland ❄️ #WinterMagic #HelsinkiSunris #landscapephotography #fantastic_earth #landscape_captures #ic_landscapes #nature_wizards #nature_shooters #landscapestyles_gf #ourplanetdaily #landscapehunter #special_shots #artofvisuals #dronephoto](https://images.squarespace-cdn.com/content/v1/61575f6650562b0de8f452da/1710301814652-BC1Y4S6C8S0TVJBY5BM3/image-asset.jpeg)](https://www.instagram.com/p/C4cC6RjoRE8/)[![Chasing the sunrise along the Helsinki coast at -22 degrees on a Saturday morning. No expectations, no plan&mdash;just a spontaneous winter moment. The biting cold at -22 degrees was undeniable, but the warm light transformed the scene, making me for](https://images.squarespace-cdn.com/content/v1/61575f6650562b0de8f452da/1706040475748-HEDWWZ71IMK3NPBV1RX7/image-asset.jpeg)](https://www.instagram.com/p/C2dAu9TM9je/)[![Oak Tree about
 .
 .
 .
@@ -267,13 +267,7 @@ If you have any questions about this Disclaimer, You can contact Us: [https://sa
 .
 .
 #VisitFinland #munymp&auml;rist&ouml; 
-#rukakuusamo #naturephoto #main_vision #landscape_captures #awesome_earthpix #natureaddict #rsa_rural #awesomeearth #nature_wizards #dji #aerialphotography #dronephotography #dronestagram #aerial #droneoft](https://images.squarespace-cdn.com/content/v1/61575f6650562b0de8f452da/1699754869192-HKKN7WTL0UAE41FJR3ES/image-asset.jpeg)](https://www.instagram.com/p/CTEsc4ONbpP/)[![Sunrise aerial shot, I took this around 4 am 🌅
-Turn on post notifications at the top right of this post&bull;&bull;&bull; so you never miss any new content. 
-.
-.
-.
-#VisitFinland #munymp&auml;rist&ouml; 
-#rukakuusamo #naturephoto #main_vision #land](https://images.squarespace-cdn.com/content/v1/61575f6650562b0de8f452da/1699754869922-PDA4AKAJIYAMDOUP6YOS/image-asset.jpeg)](https://www.instagram.com/p/CS_pcK9NmwX/)
+#rukakuusamo #naturephoto #main_vision #landscape_captures #awesome_earthpix #natureaddict #rsa_rural #awesomeearth #nature_wizards #dji #aerialphotography #dronephotography #dronestagram #aerial #droneoft](https://images.squarespace-cdn.com/content/v1/61575f6650562b0de8f452da/1699754869192-HKKN7WTL0UAE41FJR3ES/image-asset.jpeg)](https://www.instagram.com/p/CTEsc4ONbpP/)
 
 * * *
 
