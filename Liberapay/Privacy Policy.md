@@ -10,11 +10,11 @@
     * [Indonesia   (7% machine translated)](https://id.liberapay.com/about/privacy)
     * [Italiano](https://it.liberapay.com/about/privacy)
     * [Magyar](https://hu.liberapay.com/about/privacy)
-    * [Melayu   (1% machine translated)](https://ms.liberapay.com/about/privacy)
+    * [Melayu](https://ms.liberapay.com/about/privacy)
     * [Nederlands](https://nl.liberapay.com/about/privacy)
     * [Norsk bokmål   (20% machine translated)](https://nb.liberapay.com/about/privacy)
     * [Polski](https://pl.liberapay.com/about/privacy)
-    * [Português   (6% machine translated)](https://pt.liberapay.com/about/privacy)
+    * [Português](https://pt.liberapay.com/about/privacy)
     * [Română   (2% not yet translated)](https://ro.liberapay.com/about/privacy)
     * [Slovenčina](https://sk.liberapay.com/about/privacy)
     * [Suomi](https://fi.liberapay.com/about/privacy)
@@ -93,7 +93,7 @@ On some payment pages, extra cookies may be set by the payment processor. Please
 
 ### Social networks
 
-Liberapay currently has integrations with GitHub, Twitter, Mastodon, GitLab.com, Twitch, YouTube, OpenStreetMap, Bitbucket, Pleroma and LinuxFr.org. When an account from one of those platforms is connected to a Liberapay profile, we retrieve and store some data from that platform, for example the unique identifier of the linked account. We only keep public information about the linked account, no private data.
+Liberapay currently has integrations with GitHub, Twitter, Mastodon, GitLab.com, Twitch, YouTube, OpenStreetMap, Bitbucket, Pleroma, and LinuxFr.org. When an account from one of those platforms is connected to a Liberapay profile, we retrieve and store some data from that platform, for example the unique identifier of the linked account. We only keep public information about the linked account, no private data.
 
 The primary purpose of these integrations is to confirm that a Liberapay account hasn't been created by an impostor attempting to profit from someone's else work.
 
