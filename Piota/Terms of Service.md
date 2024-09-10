@@ -1,4 +1,4 @@
-![](https://px.ads.linkedin.com/collect/?pid=5112322&fmt=gif)                  Terms of use | Piota Apps                 
+![](https://px.ads.linkedin.com/collect/?pid=5112322&fmt=gif)                  Terms of use | Piota Apps                  
 
 top of page
 
@@ -149,6 +149,6 @@ Terms and Conditions of Website Use
 
 bottom of page
 
-                                          
+                                             
 
 ![](https://px.ads.linkedin.com/collect/?pid=2304969&fmt=gif)
