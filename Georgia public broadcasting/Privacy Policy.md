@@ -175,7 +175,7 @@ Menu Close
     * [Teams](https://www.gpb.org/sports/football/teams)
     * [Rankings](https://www.gpb.org/sports/football/rankings)
     * [Brackets](https://www.gpb.org/sports/football/brackets)
-    * [Buckle Up Georgia](https://www.gpb.org/sports/buckle-up-georgia)
+    * [Heads Up Georgia](https://www.gpb.org/sports/buckle-up-georgia)
     
     [Football Home](https://www.gpb.org/sports/football)
     
@@ -266,7 +266,7 @@ Don't Miss:
 -----------
 
 * [WATCH: GPB - ALL ARTS LIVE](https://www.allarts.org/)
-* [Explore GPB Passport](https://www.gpb.org/explore)
+* [Elections Central](https://www.gpb.org/politics/election2024)
 * [TV Highlights This Week](https://www.gpb.org/blogs/topic/television)
 
  [![Listen Live](/themes/custom/ga_forest/assets/images/icons/interaction/listen/listen.svg) Listen Live](https://player.streamguys.com/gpb/sgplayer3/index.php)[![Watch Live](/themes/custom/ga_forest/assets/images/icons/interaction/play/play--white.svg) Watch Live](https://www.gpb.org/television/live)
