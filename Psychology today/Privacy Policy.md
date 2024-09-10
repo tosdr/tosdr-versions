@@ -102,25 +102,25 @@ Mobile Navigation
     
     Current
     
-    [![July 2024 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2024-06/2024-07.png.jpg?itok=pCeLoQbs "Stand Up For Yourself")](https://www.psychologytoday.com/us/magazine/archive/2024/07 "July 2024")
+    [![September 2024 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2024-08/2024-09.png.jpg?itok=f_Oawcrq "Diagnosed in Adulthood")](https://www.psychologytoday.com/us/magazine/archive/2024/09 "September 2024")
     
-    [July 2024
+    [September 2024
     
-    Stand Up For Yourself](https://www.psychologytoday.com/us/magazine/archive/2024/07 "July 2024")
+    Diagnosed in Adulthood](https://www.psychologytoday.com/us/magazine/archive/2024/09 "September 2024")
     
-    Sticking up for yourself is no easy task. But there are concrete skills you can use to hone your assertiveness and advocate for yourself.
+    It’s increasingly common for someone to be diagnosed with a condition such as ADHD or autism as an adult. A diagnosis often brings relief, but it can also come with as many questions as answers.
     
     [Subscribe](https://subscribe.psychologytoday.com/ "Subscribe to Psychology Today Magazine")
     
     Recent
+    
+    [![July 2024 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2024-06/2024-07.png.jpg?itok=pCeLoQbs "Stand Up For Yourself")](https://www.psychologytoday.com/us/magazine/archive/2024/07 "July 2024")
     
     [![May 2024 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2024-04/2024-05.png.jpg?itok=3uPTD2oA "Everyday Triggers")](https://www.psychologytoday.com/us/magazine/archive/2024/05 "May 2024")
     
     [![March 2024 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2024-02/2024-03.png.jpg?itok=UyoZyp1R "Emotional Intelligence")](https://www.psychologytoday.com/us/magazine/archive/2024/03 "March 2024")
     
     [![January 2024 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2023-12/2024-01.png.jpg?itok=B11lkLSj "Burnout")](https://www.psychologytoday.com/us/magazine/archive/2024/01 "January 2024")
-    
-    [![November 2023 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2023-10/2023-11.png.jpg?itok=mHf6Gi-L "Love & Loyality")](https://www.psychologytoday.com/us/magazine/archive/2023/11 "November 2023")
     
     [Issue Archive](https://www.psychologytoday.com/us/magazine/archive "Psychology Today Issue Archive")
     
@@ -213,6 +213,8 @@ e) To comply with US State privacy laws and and certain regional privacy laws, 
 
 Recent Issues
 
+[![September 2024 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2024-08/2024-09.png.jpg?itok=f_Oawcrq "Diagnosed in Adulthood")](https://www.psychologytoday.com/us/magazine/archive/2024/09 "September 2024")
+
 [![July 2024 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2024-06/2024-07.png.jpg?itok=pCeLoQbs "Stand Up For Yourself")](https://www.psychologytoday.com/us/magazine/archive/2024/07 "July 2024")
 
 [![May 2024 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2024-04/2024-05.png.jpg?itok=3uPTD2oA "Everyday Triggers")](https://www.psychologytoday.com/us/magazine/archive/2024/05 "May 2024")
@@ -222,8 +224,6 @@ Recent Issues
 [![January 2024 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2023-12/2024-01.png.jpg?itok=B11lkLSj "Burnout")](https://www.psychologytoday.com/us/magazine/archive/2024/01 "January 2024")
 
 [![November 2023 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2023-10/2023-11.png.jpg?itok=mHf6Gi-L "Love & Loyality")](https://www.psychologytoday.com/us/magazine/archive/2023/11 "November 2023")
-
-[![September 2023 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2023-08/2023-09.png.jpg?itok=eBFv_6fC "Authenticity")](https://www.psychologytoday.com/us/magazine/archive/2023/09 "September 2023")
 
 [Subscribe Today](https://subscribe.psychologytoday.com/ "Subscribe to Psychology Today Magazine")
 
@@ -343,13 +343,13 @@ Back
 
 Magazine
 
-[![July 2024 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2024-06/2024-07.png.jpg?itok=pCeLoQbs "Stand Up For Yourself")](https://www.psychologytoday.com/us/magazine/archive/2024/07 "July 2024")
+[![September 2024 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2024-08/2024-09.png.jpg?itok=f_Oawcrq "Diagnosed in Adulthood")](https://www.psychologytoday.com/us/magazine/archive/2024/09 "September 2024")
 
-[July 2024
+[September 2024
 
-Stand Up For Yourself](https://www.psychologytoday.com/us/magazine/archive/2024/07 "July 2024")
+Diagnosed in Adulthood](https://www.psychologytoday.com/us/magazine/archive/2024/09 "September 2024")
 
-Sticking up for yourself is no easy task. But there are concrete skills you can use to hone your assertiveness and advocate for yourself.
+It’s increasingly common for someone to be diagnosed with a condition such as ADHD or autism as an adult. A diagnosis often brings relief, but it can also come with as many questions as answers.
 
 [Subscribe](https://subscribe.psychologytoday.com/ "Subscribe to Psychology Today Magazine") [Issue Archive](https://www.psychologytoday.com/us/magazine/archive "Psychology Today Issue Archive")
 
