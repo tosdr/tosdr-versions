@@ -47,7 +47,3 @@ Please pay attention! Materials containing violence, children exploitation, gore
 * [FAQ](https://florenfile.com/faq.html)
 * [Terms of service](https://florenfile.com/tos.html)
 * [Contact Us](https://florenfile.com/contact.html)
-
-* * *
-
-Florenfile.com 2014-2024 All rights reserved.
