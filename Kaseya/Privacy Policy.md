@@ -161,6 +161,12 @@
     
     [Explore Product](https://www.datto.com/products/autotask-psa/)
     
+    Kaseya Quote Manager
+    
+    All-In-One Quote, Sell & Procurement
+    
+    [Explore Product](https://www.kaseya.com/products/msp-quoting-software/)
+    
     BMS
     
     Fast & Simple PSA for Growing MSPs
@@ -349,31 +355,31 @@
     
     Blog
     
-    [![](https://www.kaseya.com/wp-content/uploads/2024/07/AdobeStock_428812335-600x400.jpeg)
+    [![](https://www.kaseya.com/wp-content/uploads/2024/08/transform-msp-financial-future-msp-600x400.jpg)
     
-    Five Key Highlights From the Future of IT Survey Report
+    Transform Your MSP’s Financial Future
     
-    July 22
+    August 13
     
-    4 minute read](https://www.kaseya.com/blog/five-highlights-from-the-future-of-it-survey/)
+    2 minute read](https://www.kaseya.com/blog/transform-your-msps-financial-future/)
     
-    [![](https://www.kaseya.com/wp-content/uploads/2024/07/KAS-Webinar-Introducing-Kaseya-600x400-1.png)
+    [![](https://www.kaseya.com/wp-content/uploads/2024/09/Compliance-600x400.jpeg)
     
-    What are Update Rings and Why are they Important? 
+    Regulation and Compliance Updates Every IT Professional Needs to Know
     
-    July 19
+    September 4
     
-    7 minute read](https://www.kaseya.com/blog/update-rings/)
+    12 minute read](https://www.kaseya.com/blog/regulation-updates-it-professionals/)
     
     [View the Full Blog](https://www.kaseya.com/blog/)
     
     Upcoming Events
     
-    ![](https://www.kaseya.com/wp-content/uploads/2024/07/KAS_Webinar-VSA-Q3-1200x800-px-300x200.jpg)
+    ![](https://www.kaseya.com/wp-content/uploads/2024/09/K365-Webinar-Win-the-battle-for-endpoint-security-300x200.png)
     
-    VSA Quarterly Product Innovation Update
+    Win the Battle for Endpoint Security With Kaseya 365
     
-    July 30
+    September 12
     
     [View All Events](https://www.kaseya.com/events/)
     
@@ -422,11 +428,9 @@
 
 Kaseya Privacy Statement
 
-_Kaseya Privacy Statement revised as of Feb 29, 2024_
-
 ### 1\. Overview
 
-Kaseya, its affiliates and group partner companies (including those entities listed in Appendix A) (“we”, “us”, or “our”) recognize the need for protection and management of your information. We have therefore adopted this Privacy Statement to assist you in understanding what information we collect and how that information is used and shared. This Privacy Statement applies to the information we collect when you access any of the Kaseya websites that reference or link to this Privacy Statement, or when you provide any non-public information to us. If you are an employee of Kaseya, you may review the employee-specific privacy policy which can be found in your employee onboarding packet.
+Kaseya, its affiliates and group partner companies (including those entities listed in Appendix A) (“we”, “us”, or “our”) recognize the need for protection and management of your information. We have therefore adopted this Privacy Statement to assist you in understanding what information we collect and how that information is used and shared. This Privacy Statement applies to the information we collect when you access any of the Kaseya websites that reference or link to this Privacy Statement, or when you provide any non-public information to us. If you are an employee of Kaseya, you may review the employee-specific privacy policy which can be found in your employee onboarding packet.
 
 In many instances, the information we collect is “personal information” as that term is defined under various privacy laws.  Personal information is generally information or data that can be used to identify or contact a specific individual, such as name, address, email address, phone number, device identifiers, and other information when linked or tied to a specific person’s device or account.
 
@@ -448,7 +452,7 @@ In particular, we collect:
 
 **Mobile Device Information:** When Kaseya Products are deployed to mobile devices via a Kaseya Application installed on the device, our servers automatically record information that may include: the MAC (Media Access Controller) addresses from the network card in or used with your devices; web requests, Internet Protocol addresses, phone numbers, browser types, browser languages, the date and time of request; and other information regarding internet connection activities. In addition, the information collected and tracked depends upon the system configurations chosen by the administrator and the options enabled by the users and may include device location, device identifier and device user name; status of the mobile device SIM card; MAC addresses and device serial numbers; phone number, signal strength, cell tower, carrier, IMEI#, and other WWAN attributes; first and last name and email address of device user; device check-out/check-in; who uses which device as well as the physical status of the device at the start of a shift and then again at the end of a shift; applications loaded on the device; real-time GPS location tracking and mapping, including analysis of location data and history; or mobile device remote control, including screen capture. The administrator of the device can perform partial or complete erasure of data on user devices, including restoring the device to its factory default. The mechanisms that allow smartphones and mobile devices to be monitored run in the background of the devices. Individuals are notified that these functions may occur but may not be aware when these functions are occurring in real time.
 
-**Kaseya Blog:** If you use our blogs or any community forum on our websites, you should be aware that any information you submit (including personal information) can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. Although we are not responsible for the information you choose to submit in these forums, we will use reasonable efforts to remove that information from our blogs or community forums (or if we are unable to do so, we will tell you why), provided that you make such a request through our [online portal](https://privacyportal.onetrust.com/webform/1941d3d8-457d-4b4f-895c-93bd11516682/a150bb17-cde9-4628-81bd-601ea659c263).
+**Kaseya Blog:** If you use our blogs or any community forum on our websites, you should be aware that any information you submit (including personal information) can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. Although we are not responsible for the information you choose to submit in these forums, we will use reasonable efforts to remove that information from our blogs or community forums (or if we are unable to do so, we will tell you why), provided that you make such a request through our online portal accessible by clicking [here](https://kaseya-privacy.my.onetrust.com/webform/b96e80f8-1e37-4b9f-b6ab-d35715765e17/9257b5df-1221-4da5-8619-57ce380c4186).
 
 **Images:** If you attend one of our live events, we may publish your image (in any form including photograph, film or livestream) on a Kaseya website, in print, via social media or other publication. We are the owner of any copyright and other intellectual property right in such images. If you upload images into our live event-related applications, we may retain, store and/or use these images.
 
@@ -483,7 +487,7 @@ In particular, we collect:
 
 **DO NOT TRACK.**  Kaseya honors Do Not Track (or “**DNT**”) signals across its Websites, and will not perform Tracking or Remarketing when a DNT browser mechanism is in place
 
-### 4\. How We Use the Information We Collect
+### 4\. We Use the Information We Collect
 
 We generally use the information we collect to provide and enhance Kaseya Products and to operate our business.  Such activities may include, but are not limited to:
 
@@ -504,15 +508,15 @@ We generally use the information we collect to provide and enhance Kaseya Produc
 
 By providing us with your wireless phone number and agreeing to the prompts, you agree and acknowledge that Kaseya may send text messages to your wireless phone number for any purpose, including marketing. You may ask us to stop text messaging at any time by texting “STOP.”
 
-Some of the information we collect allows us to differentiate users on our network, and in some cases, we act as a pass-through for certain pieces of information to obtain authentication for Internet access. We may compile and otherwise use for any purpose any usage data or other data as set forth in the Kaseya Master Agreement or such other agreement(s) that may exist between you and Kaseya (“**Service Agreements**”), including information that we may receive by providing support or professional services to you. If you have purchased Kaseya Products, please refer to the Service Agreements to which you are party for further information regarding how we collect and process usage data.If our use of your data is governed by the European Union’s General Data Protection Regulation (“GDPR”), the California Consumer Privacy Act (“CCPA”) or under other similar privacy regulations, you should know that we rely on the following legal grounds to process your personal information:
+Some of the information we collect allows us to differentiate users on our network, and in some cases, we act as a pass-through for certain pieces of information to obtain authentication for Internet access. We may compile and otherwise use for any purpose any usage data or other data as set forth in the Kaseya Master Agreement or such other agreement(s) that may exist between you and Kaseya (“**Service Agreements**”), including information that we may receive by providing support or professional services to you. If you have purchased Kaseya Products, please refer to the Service Agreements to which you are party for further information regarding how we collect and process usage data.If our use of your data is governed by the European Union’s General Data Protection Regulation (“GDPR”), California Consumer Privacy Act (“CCPA”), Australia’s Privacy Act 1988 (Privacy Act), Brazil’s General Personal Data Protection Law (LGPD) or under other similar privacy regulations, you should know that we rely on the following legal grounds to process your personal information:
 
-* **Performance of a contract** – To the extent you have purchased a Kaseya Products, we may need to collect and use your personal information to perform the services which you have purchased. For example, we may use your personal information to respond to requests you make via our website and provide you with such services, and your personal information may be contained in Backedup Content.
-* **Compliance with law** – In certain circumstances we may be required to process your data to comply with legal obligations to which Kaseya is subject.
-* **Consent** – Some of the personal information we collect is provided by you voluntarily, for example when you sign up to join a mailing list or register for an event, and is therefore collected and used with your permission. To withdraw your consent to such use, you can  make such a request through our [online portal](https://privacyportal.onetrust.com/webform/1941d3d8-457d-4b4f-895c-93bd11516682/a150bb17-cde9-4628-81bd-601ea659c263).
-* **Legitimate interests** – We may use your personal information for our legitimate interests, such as to improve Kaseya Products and the content on Kaseya websites.
-* **Vital interests** – We may use your personal information to protect the vital interests of you or of another natural person.
-* **Public interest** – We may also use your personal information when processing is necessary for the performance of a task carried out in the public interest.
-* **Notification** – We may also use your contact information to keep you and others who have provided us with their contact information up-to-date on recent product and service developments. It you wish us to stop using your contact information in this manner, you can make such a request through our [online portal](https://privacyportal.onetrust.com/webform/1941d3d8-457d-4b4f-895c-93bd11516682/a150bb17-cde9-4628-81bd-601ea659c263).
+* **Performance of a contract**– To the extent you have purchased a Kaseya Products, we may need to collect and use your personal information to perform the services which you have purchased. For example, we may use your personal information to respond to requests you make via our website and provide you with such services, and your personal information may be contained in Backedup Content.
+* **Compliance with law**– In certain circumstances we may be required to process your data to comply with legal obligations to which Kaseya is subject.
+* **Consent**– Some of the personal information we collect is provided by you voluntarily, for example when you sign up to join a mailing list or register for an event, and is therefore collected and used with your permission. To withdraw your consent to such use, you can  make such a request through our accessible by clicking [here](https://kaseya-privacy.my.onetrust.com/webform/b96e80f8-1e37-4b9f-b6ab-d35715765e17/9257b5df-1221-4da5-8619-57ce380c4186).
+* **Legitimate interests**– We may use your personal information for our legitimate interests, such as to improve Kaseya Products and the content on Kaseya websites.
+* **Vital interests**– We may use your personal information to protect the vital interests of you or of another natural person.
+* **Public interest**– We may also use your personal information when processing is necessary for the performance of a task carried out in the public interest.
+* **Notification**– We may also use your contact information to keep you and others who have provided us with their contact information up-to-date on recent product and service developments. It you wish us to stop using your contact information in this manner, you can make such a request through our online portal accessible by clicking [here](https://kaseya-privacy.my.onetrust.com/webform/b96e80f8-1e37-4b9f-b6ab-d35715765e17/9257b5df-1221-4da5-8619-57ce380c4186).
 
 ### 5\. How We Share Information We May Collect
 
@@ -535,11 +539,11 @@ The CCPA requires that we provide a description of data collection practices, in
 
 ### 6\. Accessing And Changing Your Personal Information: Data Subject Access, Correction, and Deletion Requests under the CCPA, GDPR and other Privacy Laws
 
-Depending on the relevant jurisdiction, you may have certain rights granted to you by law with respect to the personal information Kaseya and others have collected about you. For example, if the GDPR or CCPA applies to the data we have collected about you, you may have the right to access and correct such data, to object to the processing of data, and to request that any information we have about you be erased.  Please make this type of request through the [online portal](https://privacyportal.onetrust.com/webform/1941d3d8-457d-4b4f-895c-93bd11516682/a150bb17-cde9-4628-81bd-601ea659c263)  or by calling toll free at (877) 926-0001. We will respond to your request within a reasonable timeframe, but no later than one month after you submit the request unless applicable law allows or requires otherwise.
+Depending on the relevant jurisdiction, you may have certain rights granted to you by law with respect to the personal information Kaseya and others have collected about you. For example, if the GDPR or CCPA applies to the data we have collected about you, you may have the right to access and correct such data, to object to the processing of data, and to request that any information we have about you be erased.  Please make this type of request through the online portal accessible by clicking [here](https://kaseya-privacy.my.onetrust.com/webform/b96e80f8-1e37-4b9f-b6ab-d35715765e17/9257b5df-1221-4da5-8619-57ce380c4186), or by calling toll free at (877) 926-0001. We will respond to your request within a reasonable timeframe, but no later than one month after you submit the request unless applicable law allows or requires otherwise.
 
 To protect your privacy and security, we may require steps to verify your identity, such as a password and user ID, before granting access to your data.  This Section 6 may not apply to Backedup Content, which typically is controlled by the applicable Kaseya customer (or the that customer’s client), and may need to be addressed through that third party as further described in Section 2, above.
 
-### 7\. Third Party Sites and Services
+### 7.Third Party Sites and Services
 
 Third-parties with links from Kaseya’s websites (“**Linked Sites**”) have their own privacy policies which can obtained from those third parties. All such third-parties that have a business relationship with Kaseya are encouraged to participate in industry-standard privacy initiatives and take a responsible attitude towards customer and consumer privacy.
 
@@ -551,7 +555,7 @@ Our website also includes social media features, such as the Facebook “Like”
 
 Kaseya does not knowingly collect or use personal information from children under the age of 13, or equivalent minimum age in the respective jurisdiction. We encourage parents and legal guardians to closely monitor their children’s internet usage and to never provide personal data without their permission.
 
-Other than information held in Backedup Content, if you believe that Kaseya has personal information on your child under the age of 13, or equivalent minimum age depending on jurisdiction, please immediately contact us through Kaseya’s [online portal](https://privacyportal.onetrust.com/webform/1941d3d8-457d-4b4f-895c-93bd11516682/a150bb17-cde9-4628-81bd-601ea659c263)  and we will take steps to delete that information from our systems.  Backedup Content, which is controlled by the applicable Kaseya customer (or the customer’s client), and must be addressed through that third party as further described in Section 2, above.
+Other than information held in Backedup Content, if you believe that Kaseya has personal information on your child under the age of 13, or equivalent minimum age depending on jurisdiction, please immediately contact us through Kaseya’s online portal (accessible by clicking [here](https://kaseya-privacy.my.onetrust.com/webform/b96e80f8-1e37-4b9f-b6ab-d35715765e17/9257b5df-1221-4da5-8619-57ce380c4186))  and we will take steps to delete that information from our systems.  Backedup Content, which is controlled by the applicable Kaseya customer (or the customer’s client), and must be addressed through that third party as further described in Section 2, above.
 
 ### 9\. Cross-Border Data Transfers
 
@@ -569,15 +573,15 @@ When you place orders on our websites, your order information, including your cr
 
 ### 11\. Data Retention
 
-We will retain your information for as long as your account is active, as needed to provide you the Kaseya Product, and/or as provided by law. After your account is closed, we may continue to communicate with you about Kaseya Products or give you important business updates that may affect you unless you have opted out of receiving such communications.  If you wish to request that we no longer use your information to provide you Kaseya Products, contact us through the [online portal](https://privacyportal.onetrust.com/webform/1941d3d8-457d-4b4f-895c-93bd11516682/a150bb17-cde9-4628-81bd-601ea659c263). We will retain and use your information as necessary to comply with our legal obligations, for security and fraud prevention, to resolve disputes, and enforce our agreements. We set retention timeframes based on the type of data.
+We will retain your information for as long as your account is active, as needed to provide you the Kaseya Product, and/or as provided by law. After your account is closed, we may continue to communicate with you about Kaseya Products or give you important business updates that may affect you unless you have opted out of receiving such communications.  If you wish to request that we no longer use your information to provide you Kaseya Products, contact us through the online portal accessible by clicking [here](https://kaseya-privacy.my.onetrust.com/webform/b96e80f8-1e37-4b9f-b6ab-d35715765e17/9257b5df-1221-4da5-8619-57ce380c4186).  We will retain and use your information as necessary to comply with our legal obligations, for security and fraud prevention, to resolve disputes, and enforce our agreements. We set retention timeframes based on the type of data.
 
 We will retain Backedup Content for such periods as described in the applicable Kaseya Product Specifications.  Such periods are often configurable by Kaseya customers as part of the Product offering.   In addition, Kaseya will retain Backedup Content as necessary to comply with our legal obligations, for security and fraud prevention, to resolve disputes, and enforce our agreements.
 
 ### 12\. Communication Preferences
 
-You can stop delivery of promotional e-mail or other Kaseya communications by contacting Kaseya through the [online portal](https://privacyportal.onetrust.com/webform/1941d3d8-457d-4b4f-895c-93bd11516682/a150bb17-cde9-4628-81bd-601ea659c263). Additionally, when you purchase Kaseya Products, we may deliver non-promotional communications related to those products or services which may not be canceled unless you cease use of the product or service.
+You can stop delivery of promotional e-mail or other Kaseya communications by contacting Kaseya through the online portal accessible by clicking [here](https://kaseya-privacy.my.onetrust.com/webform/b96e80f8-1e37-4b9f-b6ab-d35715765e17/9257b5df-1221-4da5-8619-57ce380c4186).  Additionally, when you purchase Kaseya Products, we may deliver non-promotional communications related to those products or services which may not be canceled unless you cease use of the product or service.
 
-### 13. Onward Transfer of Personal Data
+### 13\. Onward Transfer of Personal Data
 
 With respect to transfers of Consumer Personal Data to third-party Processors, Kaseya (i) enters into a contract with each relevant Processor, (ii) transfers Personal Data to each such Processor only for limited and specified purposes, (iii) ascertains that the Processor is obligated to provide the Personal Data with at least the same level of privacy protection as is required by the DPF Principles, (iv) takes reasonable and appropriate steps to ensure that the Processor effectively processes the Personal Data in a manner consistent with Kaseya’s obligations under the DPF Principles, (v) requires the Processor to notify Kaseya if the Processor determines that it can no longer meet its obligation to provide the same level of protection as is required by the DPF Principles, (vi) upon notice, including under (v) above, takes reasonable and appropriate steps to stop and remediate unauthorized processing of the Personal Data by the Processor, and (vii) provides a summary or representative copy of the relevant privacy provisions of the Processor contract to the Department of Commerce, upon request. Kaseya remains liable under the DPF Principles if Kaseya’s third-party Processor onward transfer recipients process relevant Personal Data in a manner inconsistent with the DPF Principles, unless Kaseya proves that it is not responsible for the event giving rise to the damage.
 
@@ -587,7 +591,7 @@ Kaseya encourages Individuals covered by this Policy to raise questions about th
 
 In accordance with the DPF Principles, Kaseya commits to resolve complaints about Individuals’ collection or use of your Personal Information. Any Individuals with inquiries or complaints regarding this Policy or the use or disclosure of Personal Information in accordance with the DPF Principles should first contact Kaseya using the contact information given below. Kaseya will investigate and attempt to resolve complaints and disputes regarding use and disclosure of Personal Information in accordance with the DPF Principles outlined in this Policy. In addition, Kaseya has further committed to cooperate with the panel established by the EU data protection authorities (“DPAs”) and comply with the advice given by the panel with respect to unresolved DPF complaints related to Individuals’ data transferred from the EEA in the context of the contractual relationship. Kaseya also commits to cooperate with the DPAs and the UK’s Information Commissioner’s Office (ICO) and to comply with the advice given by such authorities with regard to personal data transferred from EU and the UK in the context of the contractual relationship. If you do not receive timely acknowledgement of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact your DPA for more information or to file a complaint. The services of DPAs (including the ICO) are provided at no cost to Individuals. If any request remains unresolved, Individuals may, under certain circumstances, have a right to invoke binding arbitration under DPF. The Federal Trade Commission has jurisdiction over Kaseya’s compliance with the DPF Principles.
 
-In addition, Kaseya has agreed to cooperate with TrustArc with respect to complaints of Individuals that are not Personnel of the Company and with the local data protection authorities with respect to Personnel and human resources-related information. For more information and to submit a complaint to TrustArc, visit [https://trustarc.com/dispute-resolution/.](https://trustarc.com/dispute-resolution/) Such independent dispute resolution mechanisms are available to Individuals free of charge. Under certain limited conditions, if your complaint is not resolved through these channels, it may be possible for Individuals to invoke binding arbitration before the EU-U.S. DPF Panel to be created by the U.S. Department of Commerce and the European Commission. For additional information, please visit [https://www.dataprivacyframework.gov/Program-Overview](https://www.dataprivacyframework.gov/Program-Overview).
+In addition, Kaseya has agreed to cooperate with TrustArc with respect to complaints of Individuals that are not Personnel of the Company and with the local data protection authorities with respect to Personnel and human resources-related information. For more information and to submit a complaint to TrustArc, visit [https://trustarc.com/dispute-resolution/.](https://trustarc.com/dispute-resolution/) Such independent dispute resolution mechanisms are available to Individuals free of charge. Under certain limited conditions, if your complaint is not resolved through these channels, it may be possible for Individuals to invoke binding arbitration before the EU-U.S. DPF Panel to be created by the U.S. Department of Commerce and the European Commission. For additional information, please visit [https://www.dataprivacyframework.gov/Program-Overview](https://www.dataprivacyframework.gov/Program-Overview).
 
 In circumstances in which Kaseya obtained or maintains Personal Information as a Service Provider, Individuals may submit complaints concerning the processing of their Personal Information to the relevant client, in accordance with the client’s dispute resolution process. Kaseya will participate in this process at the request of the client or the Individual. Kaseya will take steps to remedy any issues arising out of potential failure to comply with the DPF Principles.
 
@@ -597,7 +601,7 @@ We reserve the right to modify this Privacy Statement at any time, so please rev
 
 ### 16\. Contacting Us
 
-If you have questions or concerns, you should first contact the Kaseya Privacy Administrator through the [online portal](https://privacyportal.onetrust.com/webform/1941d3d8-457d-4b4f-895c-93bd11516682/a150bb17-cde9-4628-81bd-601ea659c263); call (877) 926-0001 or send mail to Kaseya Privacy Administrator 701 Brickell Avenue, Suite 400, Miami, FL 33131.
+If you have questions or concerns, you should first contact the Kaseya Privacy Administrator through the online portal accessible by clicking [here;](https://kaseya-privacy.my.onetrust.com/webform/b96e80f8-1e37-4b9f-b6ab-d35715765e17/9257b5df-1221-4da5-8619-57ce380c4186) call (877) 926-0001 or send mail to Kaseya Privacy Administrator 701 Brickell Avenue, Suite 400, Miami, FL 33131.
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at [https://feedback-form.truste.com/watchdog/request.](https://feedback-form.truste.com/watchdog/request)
 
