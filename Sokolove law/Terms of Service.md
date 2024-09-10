@@ -17,7 +17,7 @@ Menu
 * [Home](https://www.sokolovelaw.com/ "Home")
 * [Mesothelioma](https://www.sokolovelaw.com/mesothelioma/ "Mesothelioma")
     
-    * **[Legal Options](https://www.sokolovelaw.com/mesothelioma/legal/ "Legal Options")**
+    * [Legal Options](https://www.sokolovelaw.com/mesothelioma/legal/ "Legal Options")
     * [Mesothelioma Case Review](https://www.sokolovelaw.com/mesothelioma/legal/legal-case-review/)
     * [Choosing a Lawyer](https://www.sokolovelaw.com/mesothelioma/legal/mesothelioma-lawyer/ "Choosing a Lawyer")
     * [Selecting a Law Firm](https://www.sokolovelaw.com/mesothelioma/legal/mesothelioma-law-firm/ "Selecting a Law Firm")
@@ -45,6 +45,7 @@ Menu
     * [Lung Cancer](https://www.sokolovelaw.com/asbestos/asbestos-cancer/lung-cancer/ "Lung Cancer")
     * [Lung Cancer Lawyer](https://www.sokolovelaw.com/asbestos/asbestos-cancer/lung-cancer/lawyer/)
     * [Lung Cancer Settlements](https://www.sokolovelaw.com/asbestos/asbestos-cancer/lung-cancer/settlements/)
+    * [Lung Cancer Compensation](https://www.sokolovelaw.com/asbestos/asbestos-cancer/lung-cancer/compensation/)
     * [Lung Cancer Life Expectancy](https://www.sokolovelaw.com/asbestos/asbestos-cancer/lung-cancer/life-expectancy/)
     * [Job Site Database](https://www.sokolovelaw.com/asbestos/job-site/ "Job Site Database")
     
@@ -82,6 +83,7 @@ Menu
     * [Product Liability](https://www.sokolovelaw.com/product-liability/ "Product Liability")
     * [Recent Product Recalls](https://www.sokolovelaw.com/top-product-dangers-2024/)
     * [Baby Formula](https://www.sokolovelaw.com/product-liability/similac-enfamil-formula/)
+    * [Boar's Head Meat](https://www.sokolovelaw.com/product-liability/boars-head-meat/)
     * [Boppy Pillows](https://www.sokolovelaw.com/product-liability/boppy-pillow/)
     * [Chemical Hair Straightener](https://www.sokolovelaw.com/product-liability/chemical-hair-straightener/)
     * [Countertop Silicosis](https://www.sokolovelaw.com/product-liability/countertop-silicosis/)
@@ -93,7 +95,7 @@ Menu
     * [STIIIZY](https://www.sokolovelaw.com/product-liability/stiiizy/)
     * [Talcum Powder](https://www.sokolovelaw.com/product-liability/talcum-powder/ "Talcum Powder")
     
-    * **[Medical Devices](https://www.sokolovelaw.com/product-liability/medical-devices/ "Medical Devices")**
+    * [Medical Devices](https://www.sokolovelaw.com/product-liability/medical-devices/ "Medical Devices")
     * [Bard PowerPort](https://www.sokolovelaw.com/product-liability/medical-devices/bard-powerport/)
     * [Exactech Implants](https://www.sokolovelaw.com/product-liability/medical-devices/exactech-knee-and-hip-replacements/)
     * [Hernia Mesh](https://www.sokolovelaw.com/product-liability/medical-devices/hernia-mesh/ "Hernia Mesh")
@@ -124,13 +126,14 @@ Menu
     
 * [Other Practice Areas](https://www.sokolovelaw.com/all-case-types/ "Other Practice Areas")
     
-    * **[Disability Denial](https://www.sokolovelaw.com/disability-insurance-denial/)**
+    * [Disability Denial](https://www.sokolovelaw.com/disability-insurance-denial/)
     * [Long Term Disability Denial](https://www.sokolovelaw.com/disability-insurance-denial/long-term-disability-denial/)
     * [Long Term Disability Lawyer](https://www.sokolovelaw.com/disability-insurance-denial/long-term-disability-denial/lawyers/)
     * [Qualifying Medical Conditions](https://www.sokolovelaw.com/disability-insurance-denial/long-term-disability-denial/medical-conditions/)
     * [Insurance Providers](https://www.sokolovelaw.com/disability-insurance-denial/long-term-disability-denial/insurance-providers/)
+    * [Unum Denials](https://www.sokolovelaw.com/disability-insurance-denial/long-term-disability-denial/insurance-providers/unum/)
     
-    * **[Drugs](https://www.sokolovelaw.com/dangerous-drugs/)**
+    * [Drugs](https://www.sokolovelaw.com/dangerous-drugs/)
     * [Elmiron](https://www.sokolovelaw.com/dangerous-drugs/elmiron/)
     * [HIV Medications](https://www.sokolovelaw.com/dangerous-drugs/hiv-medications/)
     * [Mounjaro](https://www.sokolovelaw.com/dangerous-drugs/ozempic/mounjaro/)
@@ -140,18 +143,18 @@ Menu
     * [Tylenol](https://www.sokolovelaw.com/dangerous-drugs/tylenol/)
     * [Wegovy](https://www.sokolovelaw.com/dangerous-drugs/ozempic/wegovy/)
     
-    * **[Firefighting Foam](https://www.sokolovelaw.com/personal-injury/workplace/chemical-exposure/firefighting-foam/)**
+    * [Firefighting Foam](https://www.sokolovelaw.com/personal-injury/workplace/chemical-exposure/firefighting-foam/)
     * [AFFF Settlements](https://www.sokolovelaw.com/personal-injury/workplace/chemical-exposure/firefighting-foam/settlements/)
     * [PFAS Chemicals](https://www.sokolovelaw.com/personal-injury/workplace/chemical-exposure/firefighting-foam/pfas/)
     * [PFAS and Cancer](https://www.sokolovelaw.com/personal-injury/workplace/chemical-exposure/firefighting-foam/pfas-cancer/)
     * [U.S. Military Exposure](https://www.sokolovelaw.com/personal-injury/workplace/chemical-exposure/firefighting-foam/military-exposure/)
     
-    * **[Medical Malpractice](https://www.sokolovelaw.com/personal-injury/medical-malpractice/)**
+    * [Medical Malpractice](https://www.sokolovelaw.com/personal-injury/medical-malpractice/)
     * [Failure to Diagnose](https://www.sokolovelaw.com/personal-injury/medical-malpractice/failure-to-diagnose/)
     * [Surgical Malpractice](https://www.sokolovelaw.com/personal-injury/medical-malpractice/surgery/)
     * [Emergency Room Errors](https://www.sokolovelaw.com/personal-injury/medical-malpractice/emergency-room-errors/)
     
-    * **[Personal Injury](https://www.sokolovelaw.com/personal-injury/)**
+    * [Personal Injury](https://www.sokolovelaw.com/personal-injury/)
     * [Car & Auto Accidents](https://www.sokolovelaw.com/personal-injury/car-accident/)
     * [Military Burn Pits](https://www.sokolovelaw.com/personal-injury/military-burn-pits/)
     * [Rideshare Assault](https://www.sokolovelaw.com/personal-injury/sexual-abuse/uber-lyft-rideshare-assault/)
@@ -161,7 +164,7 @@ Menu
     * [Truck Accidents](https://www.sokolovelaw.com/personal-injury/truck-accidents/)
     * [Uber Assaults](https://www.sokolovelaw.com/personal-injury/sexual-abuse/uber-lyft-rideshare-assault/uber/)
     
-    * **[Workplace Injury](https://www.sokolovelaw.com/personal-injury/workplace/)**
+    * [Workplace Injury](https://www.sokolovelaw.com/personal-injury/workplace/)
     * [Workers Compensation](https://www.sokolovelaw.com/personal-injury/workplace/workers-compensation/)
     * [Unpaid Overtime](https://www.sokolovelaw.com/personal-injury/workplace/flsa-unpaid-overtime/)
     
