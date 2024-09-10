@@ -98,6 +98,7 @@ Kodi is a free and open source media player application developed by the Kodi Fo
 * [Terms of Service](https://kodi.tv/about/terms-of-service/)
 * [Privacy Policy](https://kodi.tv/about/privacy-policy/)
 * [DMCA Policy](https://kodi.tv/about/dmca/)
+* [Status](https://status.kodi.tv/)
 
 ### Sponsors
 
