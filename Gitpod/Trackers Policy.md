@@ -8,13 +8,13 @@
 * [Customers](https://www.gitpod.io/customers)
 * [Pricing](https://www.gitpod.io/pricing)
 
-[12.6k](https://github.com/gitpod-io/gitpod)
+[12.7k](https://github.com/gitpod-io/gitpod)
 
 * [Login](https://gitpod.io/login/)
 
 [Get a demo](https://www.gitpod.io/contact/get-demo)
 
-[12.6k](https://github.com/gitpod-io/gitpod)
+[12.7k](https://github.com/gitpod-io/gitpod)
 
 [Login](https://gitpod.io/login/)
 
@@ -96,13 +96,14 @@ Specific details on Cookies[](#specific-details-on-cookies)
 | Website | yt-remote-session-app | Targeting/Marketing | Stores the user’s video player preferences using embedded You Tube video | Persistent | Yes | [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en) |
 | Website | yt-remote-session-name | Targeting/Marketing | Stores the user’s video player preferences using embedded You Tube video | Persistent | Yes | [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en) |
 | Website | ajs\_user\_id | Analytics/Performance | Generates a userID to identify reoccurring website visitors | Persistent | Yes | [https://segment.com/legal/privacy/](https://segment.com/legal/privacy/) |
+| Website | \_ga | Targeting/Marketing | Google Analytics | 14 months | Yes | [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en) |
 | Website | gitpod-marketing-website-visited | Analytics/Performance | Recognises if a user visited [https://gitpod.io](https://gitpod.io/) | 1 year | No  |     |
 | Product | browser-extension-banner-dismissed | Strictly Necessary | Necessary in order to check that the user has dismissed the browser extension banner | Persistent | No  |     |
 
 * Gitpod
 * [Getting started](https://www.gitpod.io/docs/introduction/getting-started)
 * [CDEs](https://www.gitpod.io/cde)
-* [Enterprise](https://www.gitpod.io/contact/enterprise-self-serve)
+* [Enterprise](https://www.gitpod.io/enterprise)
 * [Pricing](https://www.gitpod.io/pricing)
 * [Ready-to-code](https://www.gitpod.io/ready-to-code)
 * [Support](https://www.gitpod.io/support)
