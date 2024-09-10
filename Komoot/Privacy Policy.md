@@ -235,7 +235,7 @@ Wir speichern sogenannte „Cookies“ und nutzen cookie-ähnliche Technologien,
 
 ### Unbedingt erforderliche Cookies
 
-Cookies, die für den Betrieb und die Funktionalität der Webseite und der damit verbundenen Dienste unbedingt erforderlich sind, setzen wir gemäß § 25 Abs. 2 Nr. 2 Gesetz zur Regelung des Datenschutzes und des Schutzes der Privatsphäre in der Telekommunikation und bei Telemedien („TTDSG“) ohne deine Einwilligung ein. Unter diese Kategorie fallen Cookies, die dafür sorgen, dass die Webseite technisch zugänglich und nutzbar ist. Zudem gewährleisten diese Cookies wesentliche und grundlegende Funktionalitäten unserer Webseite und der damit verbundenen Dienste. Konkret setzen wir unbedingt erforderliche Cookies für die folgenden Funktionen ein: :
+Cookies, die für den Betrieb und die Funktionalität der Webseite und der damit verbundenen Dienste unbedingt erforderlich sind, setzen wir gemäß § 25 Abs. 2 Nr. 2 Telekommunikation-Digitale-Dienste-Datenschutz-Gesetz („TDDDG“) ohne deine Einwilligung ein. Unter diese Kategorie fallen Cookies, die dafür sorgen, dass die Webseite technisch zugänglich und nutzbar ist. Zudem gewährleisten diese Cookies wesentliche und grundlegende Funktionalitäten unserer Webseite und der damit verbundenen Dienste. Konkret setzen wir unbedingt erforderliche Cookies für die folgenden Funktionen ein: :
 
 Cookies, die benötigt werden, um während deines Besuchs unserer Webseite und der Nutzung der damit verbundenen Dienste bestimmte technische Daten zu speichern,
 
@@ -249,11 +249,11 @@ Sofern personenbezogene Daten aus diesen Cookies verarbeitet werden, so erfolgt 
 
 unsere Webseite und die bereitgestellten Funktionen für dich nutzbar sind. Darin liegt auch unser berechtigtes Interesse, Art. 6 Abs. 1 lit. f DSGVO
 
-deine Cookie-Auswahl, insbesondere deine erteilte oder nicht erteilte Einwilligung in die Nutzung von Cookies, korrekt gespeichert wird, Art. 6 Abs. 1 lit. c DSGVO, § 25 TTDSG.
+deine Cookie-Auswahl, insbesondere deine erteilte oder nicht erteilte Einwilligung in die Nutzung von Cookies, korrekt gespeichert wird, Art. 6 Abs. 1 lit. c DSGVO, § 25 TDDDSG.
 
 ### Analyse-Cookies
 
-Hingegen setzen wir Cookies zur Analyse und Auswertung deines Nutzungsverhaltens, gemäß § 25 Abs. 1 TTDSG nur auf Basis deiner Einwilligung (Art. 6 Abs. 1 lit. a DSGVO) ein.
+Hingegen setzen wir Cookies zur Analyse und Auswertung deines Nutzungsverhaltens, gemäß § 25 Abs. 1 TDDDG nur auf Basis deiner Einwilligung (Art. 6 Abs. 1 lit. a DSGVO) ein.
 
 Diese Cookies dienen zur Messung des Online-Traffic und zur Verhaltensanalyse. Sie sammeln Informationen darüber, wie du mit unserer Webseite interagierst, welche Seiten du besucht hast und welche Funktionen unserer Webseite du verwendet hast. Dein Nutzungsverhalten kann dabei anhand einer User-ID nachvollzogen werden. So können wir die Nutzung unserer Webseite besser verstehen und entsprechend optimieren.
 
@@ -303,6 +303,19 @@ Google speichert für uns nicht-personenbezogene Statistiken zu der Performance 
 ### A/B Testing
 
 Wir verwenden die A/B Testing-Funktionen von Google Firebase, um im Rahmen der Produktentwicklung unserer Webseite Neuerungen testen zu können. Im Rahmen dessen werden nicht-personenbezogene statistische Daten erhoben. Um dein Gerät ansprechen und testweise Inhalte ausspielen zu können, müssen jedoch technische Daten über dein Endgerät verarbeitet werden. Die Nutzung erfolgt aufgrund unseres berechtigten Interesses an der bedarfsgerechten Gestaltung unserer Webseite (Art. 6 Abs. 1 S. 1 lit. f DSGVO).
+
+DataDog
+-------
+
+Wir verwenden DataDog, einen Dienst der DataDog, Inc., 620 8th Ave., 45th Fl., New York, NY 10018, USA („DataDog“). Wir setzen DataDog dabei als Auftragsverarbeiter ein (vgl. Art 4 Nr. 8, 28 DSGVO). Die Verarbeitung deiner personenbezogenen Daten erfolgt in den USA. Es besteht ein Angemessenheitsbeschluss der EU Kommission gemäß Art. 45 Abs. 1 DSGVO für das EU-U.S. Data Privacy Framework, das als Grundlage für Datenübermittlungen an zertifizierte Unternehmen und Organisationen in den USA dient. Die DataDog, Inc. ist ein unter dem Data Privacy Framework zertifiziertes Unternehmen.
+
+Wir verwenden DataDog, um Störungen unserer Webseite und App, z. B. in Form von unerwarteten Abweichungen, Anomalien und Fehlern zu untersuchen und die Performance unserer Webseite und App, einschließlich der Latenz (also die Zeitverzögerung, die z. B. bei der Übertragung von Informationen an unsere Server auftritt), Verfügbarkeit und Antwortzeiten zu überwachen.
+
+Zu diesem Zweck erfasst DataDog für uns bestimmte technische Daten, wie User Agent (z. B. Browsertyp und Browserversion, Betriebssystem), Fehlerinformationen (Stacktrace, d.h. den Verlauf der jeweiligen Anwendungen, die zu einem Fehler geführt haben, sowie Zeitpunkt des Auftretens des Fehlers) und Daten zur Performance unserer Webseite und App, d.h. zu der Geschwindigkeit und eventuellen Verzögerungen beim Ablauf. Ergänzend erfasst DataDog auch die User-ID. Mit Hilfe von DataDog können wir diese Daten zu den oben genannten Zwecken auswerten.
+
+Wir speichern die Daten, die wir mit Hilfe von DataDog erheben, für einen Zeitraum von 30 Tagen. Danach halten wir nur noch aggregierte Daten ohne jeden Personenbezug vor.
+
+Die Verarbeitung der Daten erfolgt aufgrund unserer berechtigten Interessen an einem fehlerfreien und bedarfsgerechten Betrieb unserer Webseite sowie unserer App und an der Möglichkeit der Fehlererkennung und -behebung (Art. 6 Abs. 1 S. 1 lit. f DSGVO).
 
 Adjust
 ------
@@ -425,7 +438,7 @@ Du findest uns auch auf Facebook unter [https://www.facebook.com/komoot](https:/
 
 Für Nutzer außerhalb der USA und Canada wird Facebook von der Meta Platforms Ireland Limited, 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland betrieben. Für Nutzer in den USA und Canada ist die Meta Platforms Inc., 1601 Willow Road Menlo Park, CA 9402, USA., USA, Betreiber von Facebook.
 
-Auch wenn du nicht bei Facebook registriert bist und unsere Facebook Fanpage besuchst, kann Meta Platforms von dir pseudonyme Nutzungsdaten erheben. Weitere Informationen findest du in der Datenrichtlinie von Meta Platforms unter [https://de-de.facebook.com/about/privacy/](https://de-de.facebook.com/about/privacy/) sowie unter [https://www.facebook.com/legal/terms/information\_about\_page\_insights\_data](https://www.facebook.com/legal/terms/information_about_page_insights_data). In der Datenrichtlinie findest du auch Informationen zu den Einstellungsmöglichkeiten für dein Facebook-Konto.
+Auch wenn du nicht bei Facebook registriert bist und unsere Facebook Fanpage besuchst, kann Meta Platforms von dir pseudonyme Nutzungsdaten erheben. Weitere Informationen findest du in der Datenrichtlinie von Meta Platforms unter [https://de-de.facebook.com/about/privacy/](https://de-de.facebook.com/about/privacy/) sowie unter [https://www.facebook.com/legal/terms/information\\\_about\\\_page\\\_insights\\\_data](https://www.facebook.com/legal/terms/information%5C_about%5C_page%5C_insights%5C_data). In der Datenrichtlinie findest du auch Informationen zu den Einstellungsmöglichkeiten für dein Facebook-Konto.
 
 Meta Platforms teilt Deine Daten möglicherweise innerhalb der Meta Unternehmensgruppe und mit anderen Dritten. Dabei kann es zu einer Übermittlung von personenbezogenen Daten in die USA und in andere Drittländer, für die kein Angemessenheitsbeschluss der EU-Kommission besteht, kommen. Für Datenübermittlungen in die USA besteht ein Angemessenheitsbeschluss der EU Kommission gemäß Art. 45 Abs. 1 DSGVO für das EU-U.S. Data Privacy Framework, das als Grundlage für Datenübermittlungen an zertifizierte Unternehmen und Organisationen in den USA dient. Im übrigen wird Facebook Ireland die von EU-Kommission genehmigen Standardvertragsklauseln gemäß Art. 46 Abs. 2 lit. c DSGVO nutzen. Weitere Informationen findest Du ebenfalls in der Datenrichtlinie von Meta Platforms.
 
@@ -496,8 +509,7 @@ Im Rahmen von Verwaltungsprozessen sowie der Organisation unseres Betriebs, der 
 
 Die Weitergabe dieser Daten erfolgt auf Grundlage unseres berechtigten Interesses an der Aufrechterhaltung unserer Geschäftstätigkeiten, der Wahrnehmung unserer Aufgaben, der Geltendmachung, Ausübung oder Verteidigung von Ansprüchen, Art. 6 Abs. 1 lit. f DSGVO bzw. auf Grundlage einer gesetzlichen Verpflichtung nach Art. 6 Abs. 1 lit. c DSGVO.
 
-Im Rahmen der Weiterentwicklung unseres Geschäfts kann sich die Struktur unseres Unternehmens durch Rechtsformwechsel, Gründung, Erwerb oder Veräußerung von Tochtergesellschaften, Unternehmensteilen oder Komponenten ändern. Bei solchen Transaktionen werden Nutzerinformationen mit dem Teil des zu übertragenden Unternehmens geteilt. Bei jeder Weitergabe personenbezogener Daten an Dritte in dem vorstehend beschriebenen Umfang stellen wir sicher, dass dies in Übereinstimmung mit dieser Datenschutzerklärung und den einschlägigen Datenschutzgesetzen erfolgt.
-
+Im Rahmen der Weiterentwicklung unseres Geschäfts kann sich die Struktur unseres Unternehmens durch Rechtsformwechsel, Gründung, Erwerb oder Veräußerung von Tochtergesellschaften, Unternehmensteilen oder Komponenten ändern. Bei solchen Transaktionen werden Nutzerinformationen mit dem Teil des zu übertragenden Unternehmens geteilt. Bei jeder Weitergabe personenbezogener Daten an Dritte in dem vorstehend beschriebenen Umfang stellen wir sicher, dass dies in Übereinstimmung mit dieser Datenschutzerklärung und den einschlägigen Datenschutzgesetzen erfolgt.  
 Die Weitergabe personenbezogener Daten ist dadurch gerechtfertigt, dass wir ein berechtigtes Interesse daran haben, unsere Gesellschaftsform den wirtschaftlichen und rechtlichen Gegebenheiten entsprechend anzupassen, Art. 6 Abs. 1 lit. f DSGVO.
 
 Drittstaatenübermittlung
@@ -583,7 +595,7 @@ Du bist weder vertraglich noch gesetzlich dazu verpflichtet deine personenbezoge
 
 Die aktuelle Fassung dieser Datenschutzerklärung ist stets unter [https://www.komoot.com/de-de/privacy](https://www.komoot.de/privacy) abrufbar.
 
-Stand: 2024-05-17
+Stand: 2024-06-11
 
 Unser Angebot
 
