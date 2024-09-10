@@ -243,7 +243,7 @@ The Services may contain links to, or advertisements concerning, other websites.
   
 **Your Rights and Choices**  
   
-You may be able to access, modify, and/or correct certain personal and other information available to you in your Account or in-app. Depending on where you reside, you may have additional rights, including those listed below in the sections called “Additional Information for Residents of the EEA, United Kingdom, Switzerland, and Brazil” and “Additional Information for Residents of California, Virginia, Connecticut, Utah, and Colorado.”  
+You may be able to access, delete, modify, and/or correct certain personal and other information available to you in your Account or in-app. Depending on where you reside, you may have additional rights, including those listed below in the sections called “Additional Information for Residents of the EEA, United Kingdom, Switzerland, and Brazil” and “Additional Information for Residents of California, Virginia, Connecticut, Utah, and Colorado.”  
   
 _How to Exercise Your Rights_  
   
@@ -497,7 +497,7 @@ Português Brasileiro
 **Please read these Terms carefully before using or accessing our Services. THESE TERMS CONTAIN AN ARBITRATION AGREEMENT, A CLASS ACTION WAIVER, AND A JURY TRIAL WAIVER THAT AFFECT YOUR RIGHTS. IN ARBITRATION THERE IS NO JUDGE OR JURY AND THERE IS LESS DISCOVERY AND APPELLATE REVIEW THAN IN COURT. PLEASE REVIEW THESE PROVISIONS CAREFULLY.**  
   
 
-**1\. INTRODUCTION**
+**1.INTRODUCTION**
 
   
 These Terms of Service (“**Terms of Service**,” “**Terms**,” or “**ToS**”) govern the relationship between you and Scopely, Inc. (together with its parents, subsidiaries, representatives, affiliates, officers, and directors, “**Scopely**” or “**we**” or “**us**”) regarding your access to and use of Scopely’s games, mobile apps, websites, content, products, and any related services (collectively the “**Services**” as further defined in Section 3).  
@@ -516,9 +516,8 @@ We may amend these Terms by posting the amended versions on our website or in th
   
 **If there is any difference between the English version and any other language version of these Terms, the English version will apply (to the extent of the difference and to the extent permitted by applicable law).**  
   
-  
 
-**2\. LIMITED LICENSE**
+**2.LIMITED LICENSE**
 
   
 **Limited License**  
@@ -582,7 +581,6 @@ You further agree that under no circumstance will you:
 * Use our Services for any activities other than what are reasonably considered the common and usual activities associated with the Services for general entertainment.
   
 * Encourage anyone to engage in the foregoing.
-  
 
   
 **Access or Use of the Services Associated With Your Account**  
@@ -603,18 +601,16 @@ We reserve the right to stop offering and/or supporting our Services or any port
   
 You may choose to close your Account for any reason and at any time. If you choose to exercise this right, please inform Scopely that you wish to close your Account by either: (i) opening a help ticket directly in-game via the Help section for the applicable game and requesting that your Account be closed; or (ii) emailing support@scopely.com and requesting that your Account be closed. You understand that if you close your Account, you may no longer have access to information previously associated with your Account, including, without limitation, your game progress and any Virtual Items associated with your Account.  
   
-  
 
-**3\. OWNERSHIP**
+**3.OWNERSHIP**
 
   
 The Services and all rights, title, and interest therein are and shall remain the property of Scopely or its licensors. This may include without limitation all games, mobile applications, software (including server software), websites, titles, characters, character names or profiles, stories, dialogue, animations, art, concepts, content, audio sounds and effects, musical compositions, visual effects, methods of operation, documentation, moral rights, in-game chat transcripts, all recordings of games and game play, and Virtual Items appearing and/or originating in our Services, whether provided, earned or purchased. Neither these Terms nor your use of the Services convey or grant to you any rights: (i) in or related to the Services, except for the limited license granted in the section “Limited License” above; or (ii) to use or reference Scopely or its licensors’ company name(s), logos, product and service names, or marks.  
   
 You acknowledge and agree that you will have no ownership or other property interest in any Account created in connection with the Services. You further acknowledge and agree that all interest in and rights to any such Account are and will be owned in perpetuity by and solely for the benefit of Scopely.  
   
-  
 
-**4\. USER CONTENT**
+**4.USER CONTENT**
 
   
 We may permit you or other users to submit, upload, publish, transmit, or otherwise make available to us materials, data, information, communications, pictures and sounds using the Services (“**User Content**”). Your User Content remains your property. However, once you make User Content available on the Services, you thereby grant to Scopely an irrevocable, perpetual, transferable, sublicensable, fully paid-up, royalty-free, worldwide right and license to copy, reproduce, fix, adapt, modify, create derivative works from, manufacture, commercialize, publish, distribute, sell, license, sublicense, transfer, lease, transmit, publicly display, publicly perform, provide access to electronically, broadcast, communicate to the public by telecommunication, display, perform, enter into computer memory, and use and practice, in any way, your User Content as well as all modified and derivative works thereof in connection with the Services, including marketing and promotion of the Services, without notice to or consent from you, and without compensation to you or any other person or entity. You further hereby grant to Scopely the unconditional, irrevocable right to use and exploit your name, likeness and any other information or material submitted or transmitted to Scopely in connection with any User Content, without any obligation to you. Except as prohibited by law, you waive any rights of attribution and/or any moral rights you may have in your User Content, regardless of whether User Content is altered or changed in any manner.  
@@ -623,9 +619,8 @@ As a user, you are personally and solely responsible for all information you pos
   
 User Content may be processed by us in accordance with our Privacy Policy. Please contact us if you have questions regarding your User Content or Account by either: (i) opening a help ticket directly in-game via the Help section; or (ii) emailing us at support@scopely.com.  
   
-  
 
-**5\. FEES AND PURCHASE TERMS**
+**5.FEES AND PURCHASE TERMS**
 
   
 Any time you purchase virtual currency (including but not limited to virtual cash and other in-game premium currency), virtual in-game items, and any other premium goods or services in connection with our Services (collectively, “**Virtual Items**”) with real currency (i.e., real world money), Scopely grants you a limited, personal, non-transferable, non-sublicensable, revocable license to use such Virtual Items. All purchases and redemptions of such Virtual Items through our Services are final and non-refundable, unless otherwise determined by us. Scopely may manage, regulate, control, modify, or eliminate Virtual Items at any time, with or without notice to you. Scopely will have no liability to you or any third party in the event that Scopely exercises any such rights.  
@@ -636,23 +631,20 @@ You understand that use of the Services may result in charges to you, and you ag
   
 If you choose to sign up for a subscription or VIP experience, you will be presented with subscription-specific terms at that time, describing if and when your subscription will automatically renew, for what period of time, and at what cost, and how to tell us to cancel it. Those terms will also explain how to cancel a subscription and the time period in which you should do so before you will be charged. Those terms will also be available to you after you sign up, including in-game through the Help settings.  
   
-  
 
-**6\. UPDATES TO OUR SERVICES**
+**6.UPDATES TO OUR SERVICES**
 
   
 You understand that our Services are developing and evolving. Scopely may require that you accept updates to our Services. While Scopely will make all reasonable efforts to inform you of any such updates, you acknowledge and agree that Scopely may update our Services, with or without informing or otherwise notifying you. You may need to update third-party software from time to time in order to receive our Services and/or play our games.  
   
+
+**7.Disclaimer of warranties**
+
+  
+The Services are provided on an “AS IS” and “AS AVAILABLE” basis for your use, with no warranties of any kind, express or implied, including without limitation the warranties of merchantability, fitness for a particular purpose, title, non-infringement, and those arising from course of dealing or usage of trade. Scopely does not warrant that you will be able to access or use our Services at the times or locations of your choosing; that our Services will be of a certain quality or suitability, or will be uninterrupted or error-free; that defects will be corrected; or that our Services are free of viruses or other harmful components.  
   
 
-**7\. DISCLAIMER OF WARRANTIES**
-
-  
-Without limiting Scopely’s liability under Section 8 below, the Services are provided on an “as is” and “as available” basis for your use, with no warranties of any kind, express or implied, including without limitation the warranties of merchantability, fitness for a particular purpose, title, non-infringement, and those arising from course of dealing or usage of trade. Scopely does not warrant that you will be able to access or use our Services at the times or locations of your choosing; that our Services will be of a certain quality or suitability, or will be uninterrupted or error-free; that defects will be corrected; or that our Services are free of viruses or other harmful components.  
-  
-  
-
-**8\. LIMITATION OF LIABILITY AND INDEMNIFICATION**
+**8.LIMITATION OF LIABILITY AND INDEMNIFICATION**
 
   
 **Limitation of Liability**  
@@ -666,7 +658,7 @@ To the extent that Scopely may not, as a matter of applicable law, disclaim any 
 You agree to indemnify, save, and hold Scopely, its affiliated companies, officers, directors, contractors, employees, agents, third-party suppliers, licensors, and partners harmless from any and all claims, losses, damages, and liabilities, including legal fees and expenses, arising out of or relating to: (i) your use or misuse of our Services or goods or services obtained in connection therewith; (ii) your breach or violation of these Terms; (iii) our use of your User Content; or (iv) any breach of the representations, warranties, and covenants made by you herein. We reserve the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to indemnify us, and you agree to cooperate with our defense of these claims. We will use reasonable efforts to notify you of any such matter upon becoming aware of it.  
   
 
-**9\. DISPUTE RESOLUTION**
+**9.DISPUTE RESOLUTION**
 
   
 Scopely values its players and their concerns, and we want to work with you to resolve any disputes as quickly and efficiently as possible for both of us. This Dispute Resolution section discusses how disputes between us will be resolved through our informal dispute resolution process, individual arbitration, or small claims court.  
@@ -765,7 +757,7 @@ Culver City, CA 90232
 Such written notice does not constitute an opt out of arbitration or the class action waiver. By rejecting any future change, you are agreeing that you will resolve any dispute between you and Scopely in accordance with this version of the Dispute Resolution Section, including the arbitration agreement and class action waiver.  
   
 
-**10\. GENERAL PROVISIONS**
+**10.GENERAL PROVISIONS**
 
   
 **Severability**  
@@ -829,7 +821,7 @@ Please note that under Section 512(f) of the Copyright Act, any person who knowi
 Scopely’s DMCA Agent should be contacted only for the purposes set forth in this Section. NON-DMCA INQUIRIES DIRECTED TO SCOPELY’S DMCA AGENT WILL NOT BE ANSWERED. MISUSE OF THE DMCA PROCESS CAN SUBJECT YOU TO LIABILITY.  
   
 **Survival**  
-In addition to other provisions that, by their terms, survive any termination of your Account, the Terms, or the Services, the following Sections shall survive any such termination: Section 3 (Ownership), Section 7 (Disclaimer of Warranties), Section 8 (Limitation of Liability and Indemnification), Section 9 (Dispute Resolution), and Section 10 (General Provisions).  
+In addition to other provisions that, by their terms, survive any termination of your Account, the Terms, or the Services, the following Sections shall survive any such termination: Section 3 (Ownership), Section 8 (Disclaimer of Warranties, Limitations of Liability and Indemnification), Section 9 (Dispute Resolution), and Section 10 (General Provisions).  
   
 **Supplemental Terms**  
 Supplemental terms may apply to certain Services, such as forums, contests, or loyalty programs (including subscriptions or VIP experiences). Supplemental terms will be disclosed to you in connection with the applicable Service(s). Those supplemental terms are in addition to and shall be deemed a part of the Terms for purposes of the applicable Service(s), and your right to use such features is subject to those supplemental terms.  
@@ -1077,7 +1069,7 @@ The Services may contain links to, or advertisements concerning, other websites.
   
 **Your Rights and Choices**  
   
-You may be able to access, modify, and/or correct certain personal and other information available to you in your Account or in-app. Depending on where you reside, you may have additional rights, including those listed below in the sections called “Additional Information for Residents of the EEA, United Kingdom, Switzerland, and Brazil” and “Additional Information for Residents of California, Virginia, Connecticut, Utah, and Colorado.”  
+You may be able to access, delete, modify, and/or correct certain personal and other information available to you in your Account or in-app. Depending on where you reside, you may have additional rights, including those listed below in the sections called “Additional Information for Residents of the EEA, United Kingdom, Switzerland, and Brazil” and “Additional Information for Residents of California, Virginia, Connecticut, Utah, and Colorado.”  
   
 _How to Exercise Your Rights_  
   
