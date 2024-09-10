@@ -2,7 +2,6 @@
 
 *  [Menu](#)
     *  [Lobby](https://futrzakfm.pl/)
-    *  [Ramówka](https://futrzakfm.pl/schedule)
     *  [Audycje](#)
         *  [Energy Forever](https://futrzakfm.pl/a/forever)
         *  [Lunar Melodies](https://futrzakfm.pl/a/lunar-melodies)
@@ -27,7 +26,6 @@
 *  [SŁUCHAJ](https://play.futrzakfm.pl/)
 
 *  [Lobby](https://futrzakfm.pl/)
-*  [Ramówka](https://futrzakfm.pl/schedule)
 *  [Audycje](#)
     *  [Energy Forever](https://futrzakfm.pl/a/forever)
     *  [Lunar Melodies](https://futrzakfm.pl/a/lunar-melodies)
