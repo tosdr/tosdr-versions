@@ -1,3 +1,7 @@
+[🏎️ Buy 3+ Famous Car sets, and get 25% off!](https://www.playmobil.com/en-us/web-shop/cars/?page=2&pmin=30)
+
+[🏎️ Buy 3+ Famous Car sets, and get 25% off!](https://www.playmobil.com/en-us/web-shop/cars/?page=2&pmin=30)
+
 [](https://www.playmobil.us/en-us/)
 
 [Sign in](https://www.playmobil.us/en-us/login/)
@@ -5,6 +9,8 @@
 Menu
 
 [Sign in](https://www.playmobil.us/en-us/login/)
+
+* [Shop all](https://www.playmobil.us/en-us/web-shop/)
 
 * Play Themes
     
@@ -62,15 +68,7 @@ Menu
         
     
 * [PLAYMOBIL PLUS](https://www.playmobil.com/en-us/web-shop/playmobil-plus/)
-* Offers
-    
-    Back to menu
-    
-    *       [](https://www.playmobil.com/en-us/web-shop/new-and-exclusive/bundles/)
-        
-    * [Sale](https://www.playmobil.us/en-us/web-shop/sale/ "Sale")
-        
-    
+* [Offers](https://www.playmobil.com/en-us/web-shop/sale/)
 
 [](https://www.playmobil.us/en-us/wishlist/)
 
@@ -275,3 +273,13 @@ Subscribe to our PLAYMOBIL newsletter and receive a 15% off Welcome Coupon.
 * [Cookies](javascript:void(0);)
 * [Condition of Use](https://www.playmobil.com/en-us/content/terms_and_conditions/TERMS_AND_CONDITIONS.html)
 * [Legal information](https://www.playmobil.com/en-us/content/gesetzhinweis/GESETZHINWEIS.html)
+
+      
+
+Hey, please update your browser
+
+Looks like you are using older versions, and you will need a latest one.
+
+[Download Chrome](https://www.playmobil.us/content/terms_and_conditions/www.playmobil.com) [Download Firefox](https://www.playmobil.us/content/terms_and_conditions/www.playmobil.com)
+
+Other options are Opera, Safari and Edge
