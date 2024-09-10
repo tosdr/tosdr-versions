@@ -1,12 +1,42 @@
-      Privacy Policy                                                                               
+[![](https://precisefp.com/wp-content/uploads/2024/03/logo-header.svg)](https://precisefp.com/home)
 
-[![](https://precisefp.com/wp-content/themes/pfp/img/logo-header.svg)](https://precisefp.com/)
-
+* [Product](#)
+    * [Features](https://precisefp.com/features)
+    * [How It Works](https://precisefp.com/how-it-works/)
+    * [Integrations](https://precisefp.com/partners)
 * [Solutions](https://precisefp.com/solutions)
-* [Why Us](https://precisefp.com/why-us/)
 * [Pricing](https://precisefp.com/pricing/)
-* [Webinars](https://precisefp.com/webinars/)
-* [Sign In](https://app.precisefp.com/)
+* [Resources](#)
+    * [Blog](https://precisefp.com/blog)
+    * [Webinars](https://precisefp.com/webinars/)
+    * [Whitepapers](https://precisefp.com/whitepapers)
+    * [Knowledge Base](https://help.precisefp.com/)
+* [Company](#)
+    * [About Us](https://precisefp.com/our-story)
+    * [News and Events](https://precisefp.com/media)
+    * [Careers](https://docupace.com/careers)
+
+Menu
+
+* [Product](#)
+    * [Features](https://precisefp.com/features)
+    * [How It Works](https://precisefp.com/how-it-works/)
+    * [Integrations](https://precisefp.com/partners)
+* [Solutions](https://precisefp.com/solutions)
+* [Pricing](https://precisefp.com/pricing/)
+* [Resources](#)
+    * [Blog](https://precisefp.com/blog)
+    * [Webinars](https://precisefp.com/webinars/)
+    * [Whitepapers](https://precisefp.com/whitepapers)
+    * [Knowledge Base](https://help.precisefp.com/)
+* [Company](#)
+    * [About Us](https://precisefp.com/our-story)
+    * [News and Events](https://precisefp.com/media)
+    * [Careers](https://docupace.com/careers)
+
+[Log In](https://app.precisefp.com/signin)
+
+[Sign Up](https://app.precisefp.com/signup)
 
 ### Owner
 
@@ -73,7 +103,24 @@ Notice to European Users: this privacy statement has been prepared in fulfillmen
 
 _May 24th, 2018_
 
+Get the latest updates from PreciseFP
+
+   
+
+Email 
+
+Subscribe
+
 #### About Us
+
+* [Our Story](https://precisefp.com/our-story/)
+* [Meet the Team](https://precisefp.com/meet-the-team/)
+* [News and Events](https://precisefp.com/media/)
+* [Our Blog](https://precisefp.com/blog/)
+* [Careers](https://www.docupace.com/careers)
+* [Contact Us](https://precisefp.com/contact-us)
+* [Terms of Service](https://precisefp.com/terms-of-service/)
+* [Privacy Policy](https://precisefp.com/privacy-policy/)
 
 * [Our Story](https://precisefp.com/our-story/)
 * [Meet the Team](https://precisefp.com/meet-the-team/)
@@ -92,6 +139,12 @@ _May 24th, 2018_
 * [Mobile App](https://precisefp.com/mobile-app/)
 * [Security](https://precisefp.com/security/)
 
+* [Use Cases](https://precisefp.com/solutions)
+* [Features](https://precisefp.com/features)
+* [Integrations](https://precisefp.com/partners)
+* [Mobile App](https://precisefp.com/mobile-app/)
+* [Security](https://precisefp.com/security/)
+
 #### Resources
 
 * [Support and Training](https://precisefp.com/support-and-training/)
@@ -101,73 +154,24 @@ _May 24th, 2018_
 * [Heartbeat](https://status.precisefp.com/)
 * [Developer API](https://precisefp.com/developer-api/)
 
-![](https://precisefp.com/wp-content/themes/pfp/img/logo-footer.svg)
+* [Support and Training](https://precisefp.com/support-and-training/)
+* [Testimonials](https://precisefp.com/our-testimonials)
+* [Webinars](https://precisefp.com/webinars/)
+* [Knowledge Base](http://help.precisefp.com/)
+* [Heartbeat](https://status.precisefp.com/)
+* [Developer API](https://precisefp.com/developer-api/)
 
-© 2024 Docupace Technologies  
-[Terms](https://precisefp.com/terms-of-service) | [Privacy](https://precisefp.com/privacy-policy) | [Contact](https://precisefp.com/contact-us)
+[Log In](https://app.precisefp.com/signin)
 
-* [facebook](https://www.facebook.com/pages/PreciseFP-Data-Gathering-Tool-for-Financial-Planners/202488086430604 "Facebook")
-* [twitter](https://twitter.com/PreciseFP "Twitter")
-* [linkedin](https://www.linkedin.com/company/precisefp---spectrum-input-llc-?trk=top_nav_home "Instagram")
+[Sign Up](https://app.precisefp.com/signup)
 
-[![](/wp-content/themes/pfp/img/app-apple-footer.svg)](https://itunes.apple.com/us/app/precisefp/id1259788324?mt=8)
+![logo-footer](https://precisefp.com/wp-content/uploads/2024/03/logo-footer.svg "logo-footer")
 
-Manage Consent
+© 2024 Docupace Technologies
 
-To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions.
+[Facebook](https://www.facebook.com/precisefp/) [Twitter](https://twitter.com/PreciseFP) [Linkedin](https://www.linkedin.com/company/precisefp---spectrum-input-llc-?trk=top_nav_home) [Youtube](https://www.youtube.com/@PreciseFPYouTube)[](https://www.skool.com/precisefp-community/about)
 
-Functional  Functional Always active
-
-The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.
-
-Preferences  Preferences
-
-The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.
-
-Statistics  Statistics
-
-The technical storage or access that is used exclusively for statistical purposes. The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.
-
-Marketing  Marketing
-
-The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.
-
-[Manage options](#) [Manage services](#) [Manage {vendor\_count} vendors](#) [Read more about these purposes](https://cookiedatabase.org/tcf/purposes/)
-
-Accept Deny View preferences Save preferences [View preferences](#)
-
-[{title}](#) [{title}](#) [{title}](#)
-
-Manage consent
-
-#### THE PRECISEFP BLOG
-
-Ideas You Can Use
-=================
-
-Stay updated with the latest insights, tips, and best practices for financial advisors on the PreciseFP blog.
-
-[Learn More](https://precisefp.com/blog/)
-
-[![](https://precisefp.com/wp-content/uploads/2024/06/35.png)](https://precisefp.com/blog/tech-talk-better-client-experiences-start-here/)
-
-[![](https://precisefp.com/wp-content/uploads/2024/06/37.png)](https://precisefp.com/blog/take-back-your-time-precisefp-integrations-to-consider/)
-
-[![](https://precisefp.com/wp-content/uploads/2024/06/36.png)](https://precisefp.com/blog/how-to-find-the-perfect-client-for-your-firm/)
-
-##### [Tech Talk: Better Client Experiences Start Here](https://precisefp.com/blog/tech-talk-better-client-experiences-start-here/)
-
-[Read More >>](https://precisefp.com/blog/tech-talk-better-client-experiences-start-here/)
-
-##### [Take Back Your Time: PreciseFP Integrations to Consider](https://precisefp.com/blog/take-back-your-time-precisefp-integrations-to-consider/)
-
-[Read More >>](https://precisefp.com/blog/take-back-your-time-precisefp-integrations-to-consider/)
-
-##### [How to Find the Perfect Client for Your Firm](https://precisefp.com/blog/how-to-find-the-perfect-client-for-your-firm/)
-
-[Read More >>](https://precisefp.com/blog/how-to-find-the-perfect-client-for-your-firm/)
-
-[![](https://precisefp.com/wp-content/uploads/2024/05/paper-to-pixels-cover-mockup.png)](https://precisefp.com/from-paper-to-pixels-how-signatures-went-digital-in-finance/)
+[![](https://precisefp.com/wp-content/uploads/2024/05/paper-to-pixels-cover-mockup-768x512.png)](https://precisefp.com/from-paper-to-pixels-how-signatures-went-digital-in-finance/)
 
 ### Make Sure Your Client Forms are Pixel Perfect
 
