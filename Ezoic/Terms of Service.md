@@ -1,42 +1,36 @@
-[![ezoic Logo](/_vercel/image?url=_astro%2Fezdark.Bh9JUAQX.png&w=256&q=100)](https://www.ezoic.com/)
+ [![ezoic logo](/_vercel/image?url=_astro%2Fezicon.DMnoB3HW.png&w=32&q=100) ![ezoic logo](/_vercel/image?url=_astro%2Fezoiclogo-text.B9wi_t-1.png&w=96&q=100)](https://www.ezoic.com/)
 
-Ads
+Solutions
 
- [![Ezoic ads](/_vercel/image?url=_astro%2Fads.DW8f72Ud.png&w=256&q=100) EzoicAds Platform® AI suite for high-earning ad monetization](https://www.ezoic.com/ezoic-ads) [Services Levels of service offered with EzoicAds](https://www.ezoic.com/levels)
+[Ezoic Ads Platform ®
 
- [![Premium ads](/_vercel/image?url=_astro%2Fpremiumemblem.VSv06aoi.svg&w=64&q=100) Premium Brand ad sales services & other upgrades](https://www.ezoic.com/premium)
+AI-driven monetization technology](https://www.ezoic.com/ezoic-ads)[Services
 
-[All Tools & Features](https://www.ezoic.com/products)
+Expert services, implementation, and management](https://www.ezoic.com/levels)[ⓟ PREMIUM
 
-Products
+Brand campaigns sold and tailored to your audience](https://www.ezoic.com/premium)[End-to-End Identity Data Tools
 
-Video
+Fully-integrate identity data into monetization](https://www.ezoic.com/features/ezid)
 
- [![Humix](/_vercel/image?url=_astro%2Fhumix.OyhyoiIO.png&w=128&q=100) HUMIX Video Network: Share, Display, & Monetize](https://www.ezoic.com/humix-network)[![Flickify](/_vercel/image?url=_astro%2Fflickify.BV34MOqW.png&w=256&q=100) Flickify AI Video Creator: Turn Articles Into Video](https://www.flickify.com/)
+Explore More
 
-Content & SEO
+[Flexible Integration](https://www.ezoic.com/setup) [Big Data Analytics](https://www.ezoic.com/big-data-analytics) [Ad Mediation](https://www.ezoic.com/ad-mediation)
 
- [![HNicheIQ](/_vercel/image?url=_astro%2Fnicheiq.dYAUKetD.png&w=256&q=100) NicheIQ AI SEO: Build A Profitable SEO Strategy](https://www.ezoic.com/nicheiq)[![Writio](/_vercel/image?url=_astro%2Fwritiologo.D9EMvSIo.png&w=128&q=100) Writio AI Writer: Create SEO-Optimized Articles](https://writio.com/)
+Other Products
 
-[View All Products](https://www.ezoic.com/integrations)
+[![Humix](/_vercel/image?url=_astro%2Fhumix.OyhyoiIO.png&w=16&q=100)Humix](https://www.ezoic.com/humix-network) [![Flickify](/_vercel/image?url=_astro%2Fflickify.BV34MOqW.png&w=16&q=100)flickify](https://flickify.com/) [![NicheIQ](/_vercel/image?url=_astro%2Fnicheiq.dYAUKetD.png&w=16&q=100)NicheIQ](https://www.ezoic.com/nicheiq) [![Writio](/_vercel/image?url=_astro%2Fwritiologo.D9EMvSIo.png&w=16&q=100)Writio](https://writio.com/)
 
 Resources
 
-[Setup](https://www.ezoic.com/setup) [Support](https://support.ezoic.com/) [Newsletter](https://www.ezoic.com/newsletter) [FAQs](https://www.ezoic.com/faq) [Reviews](https://www.ezoic.com/ezoic-reviews) [Advertisers](https://www.ezoic.com/advertisers) [Pricing](https://www.ezoic.com/pricing)
+[Support](https://support.ezoic.com/)[FAQ](https://www.ezoic.com/faq)[Reviews](https://www.ezoic.com/ezoic-reviews)[Advertisers](https://www.ezoic.com/advertisers)[Pricing](https://www.ezoic.com/levels)
 
 Discover
 
-[Guides & Blogs](https://www.ezoic.com/blog) [EPMV Calculator](https://www.ezoic.com/epmv-calculator) [Ad Index](https://adrevenueindex.ezoic.com/)
+[Blog](https://www.ezoic.com/blog)[Ad Revenue Index](https://adrevenueindex.ezoic.com/)[EPMV Calculator](https://www.ezoic.com/epmv-calculator)
 
-[Español](https://www.ezoic.com/es-lang/) [Deutsch](https://www.ezoic.com/de-lang/) [Français](https://www.ezoic.com/fr-lang/) [Italiano](https://www.ezoic.com/it-lang/)
+[Login](https://pubdash.ezoic.com/login) [Get Started](https://pubdash.ezoic.com/join)
 
-Already have an account?
-
-[](https://login.ezoic.com/)
-
-[Login](https://login.ezoic.com/)
-
-[Get Started](https://pubdash.ezoic.com/join)
+[](https://www.ezoic.com/)[](https://www.ezoic.com/de-lang)[](https://www.ezoic.com/fr-lang)[](https://www.ezoic.com/es-lang)
 
 Terms
 -----
@@ -72,7 +66,8 @@ All content included on Ezoic.com, such as text, graphics, logos, button icons, 
 
   
 
-### SECTION 3: TRADEMARKS AND SERVICEMARKS  
+### SECTION 3: TRADEMARKS AND SERVICEMARKS
+
   
 
 Ezoic, the Ezoic logo, and other Ezoic graphics, logos, page headers, button icons, scripts, and service names are trademarks, certification marks, service marks, or other trade dress of Ezoic or its subsidiaries. Ezoic’s trademarks, certification marks, service marks, and trade dress have inherent meaning and substantial value because of their restricted use. They may not be used in connection with any product or service that is not Ezoic’s, in any manner without Ezoic’s permission. All other trademarks not owned by Ezoic or its subsidiaries that appear on Ezoic.com are the property of their respective owners, who may or may not be affiliated with, connected to, or sponsored by Ezoic or its subsidiaries.
@@ -118,7 +113,7 @@ Ezoic may charge fees for the use of the Services or part of them and may includ
 
   
 
-You retain full copyrights in any of your materials served through Ezoic. You acknowledge that Ezoic will modify the content of your site, including but not limited to changing the layout, colors, removing content and adding content. Ezoic is not responsible for any search engine ranking changes or other traffic changes to your site. You hereby grant to Ezoic a nonexclusive, worldwide license (a) to sell (if you authorize Ezoic to do so on your behalf), deliver, publish, republish, display, distribute; (b) to reproduce and store the content on Ezoic’s computers and servers, and make back-ups of the content for disaster recovery purposes; (c) to reformat, edit, display, market, transmit, distribute, and otherwise digitally make available to end users all or any portion of the content for download, access, and viewing on a portable electronic device, making any modifications as needed to optimize how the content is displayed on a portable electronic device; and (d) to display excerpts of the content for marketing purposes. Ezoic retains full copyrights to all website layouts created by Ezoic. Should you discontinue Services, you agree that you will not utilize, copy or attempt to copy the layouts or modifications made to your site by Ezoic, however you will retain full copyrights of all of your original website content. You hereby agree that if you shall notify Ezoic if you have any legal obligations to show specific content or advertisements on your site and that you hold You agree to indemnify and hold Ezoic, and its subsidiaries, affiliates, officers, agents, co-branders or other partners, and employees, harmless from any claim or demand, including reasonable attorneys’ fees, arising out of the removal or failure to display such content or advertisements.
+You acknowledge and agree that Ezoic may modify your site as necessary to perform our services, including, but not limited to, modifying the html, css, and/or javascript of your site, and adding or altering codes to provide functionality. Examples of such modifications include but are not limited to: adding html for ad units, consent modals, ad reporting functionality, email collection boxes. Ezoic may also make modifications to improve site performance when applicable features are enabled by you.
 
   
 
@@ -283,7 +278,7 @@ In the case of any disputes under this Agreement, the parties shall first attemp
 
   
 
-The authoritative version of Ezoic’s Terms of Service is available at: www.ezoic.com/terms.php. While translations of these terms may be provided in multiple languages for your convenience, the English language version hosted at the link above is binding for all users of Ezoic.com, the Ezoic Service, and any Ezoic Downloadable Software.
+The authoritative version of Ezoic’s Terms of Service is available at: https://pubdash.ezoic.com/terms. While translations of these terms may be provided in multiple languages for your convenience, the English language version hosted at the link above is binding for all users of Ezoic.com, the Ezoic Service, and any Ezoic Downloadable Software.
 
   
 
