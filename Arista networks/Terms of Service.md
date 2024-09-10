@@ -86,7 +86,7 @@ Toggle Navigation
     * [Universal Cloud Networking](#tab721)
     * [Hyperscale Data Center](#tab722)
     * [Cloud Grade Routing](#tab723)
-    * [Enterprise WAN](javascript:void(0);)
+    * [Enterprise WAN](https://www.arista.com/en/solutions/enterprise-wan)
     * [Cognitive Campus](#tab724)
     * [R-Series Spine & Leaf](#tab725)
     * [X-Series Spine & Leaf](#tab726)
