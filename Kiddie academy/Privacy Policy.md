@@ -1,3 +1,5 @@
+[Skip to main content](#main-content)
+
 [![Kiddie academy header logo for desktop](https://kiddieacademy.com/wp-content/themes/kiddieacademy/assets/img/kiddie-academy-logo.png)](https://kiddieacademy.com/)
 
 [Family Essentials Blog](https://kiddieacademy.com/for-parents/) [Franchise With Us](https://kiddieacademy.com/franchising/) [Careers](https://kiddieacademy.com/careers/)
@@ -6,13 +8,13 @@
 * [Programs](https://kiddieacademy.com/our-curriculum/)
     
     * [Infant 6 weeks to 12 months](https://kiddieacademy.com/academies/programs/infant-daycare/)
-    * [Toddler 13 to 24 months](https://kiddieacademy.com/academies/programs/toddler-daycare-curriculum/)
+    * [Toddler 12 to 24 months](https://kiddieacademy.com/academies/programs/toddler-daycare-curriculum/)
     * [Early Preschool 2-Year-Olds](https://kiddieacademy.com/academies/programs/early-preschool/)
     * [Preschool 3-Year-Olds](https://kiddieacademy.com/academies/programs/preschool/)
     * [Pre-Kindergarten 4-5 Years-Old](https://kiddieacademy.com/academies/programs/pre-kindergarten/)
     * [Kindergarten 5-Year-Olds](https://kiddieacademy.com/academies/programs/kindergarten/)
     * [School Age Ages 5 to 12](https://kiddieacademy.com/academies/programs/school-age-programs/)
-    * [Summer Camp 2-6 Years-Old](https://kiddieacademy.com/academies/programs/summer-camp/)
+    * [Summer Camp 2-12 Years-Old](https://kiddieacademy.com/academies/programs/summer-camp/)
 * [Tuition & Enrollment](https://kiddieacademy.com/academies/enrollment-and-tuition)
 * [About Us](https://kiddieacademy.com/company/)
     
@@ -153,7 +155,7 @@ Find Your Academy
 
 [Use your current location](https://kiddieacademy.com/academies/?useMyLocation=true)
 
-![](https://kiddieacademy.com/wp-content/themes/kiddieacademy/assets/img/2023-refresh/ka-logo-white-footer.svg)
+![Kiddie Academy Educational Child Care](https://kiddieacademy.com/wp-content/themes/kiddieacademy/assets/img/2023-refresh/ka-logo-white-footer.svg)
 
 Corporate Headquarters  
 3415 Box Hill Corporate Center Dr.  
