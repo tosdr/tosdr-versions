@@ -6,7 +6,7 @@
 [Draw Freely.](https://inkscape.org/en/)
 ----------------------------------------
 
-* [❤️ Help us make Inkscape awesome! ❤️](https://inkscape.org/support-us/donate/)
+* [Help us test Inkscape 1.4 beta!](https://inkscape.org/release/inkscape-1.4/?latest=1)
     
 * English
     
@@ -209,4 +209,4 @@ With thanks to: [Fastly](http://www.fastly.com/ "Data Cached by Fastly") [OSUOSL
 Python 3.6.8
 Django 2.2
 App: CMS [Privacy Policy]
-InkscapeWeb 1.6, as of Fri Jun 21 02:37:08 2024 (6bfbd18)")](https://gitlab.com/inkscape/inkscape-web)
+InkscapeWeb 1.6, as of Thu Aug 15 19:16:44 2024 (9e50bee)")](https://gitlab.com/inkscape/inkscape-web)
