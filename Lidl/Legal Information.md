@@ -21,7 +21,7 @@ Menu
 Main Navigation[Back](#)
 
 1. [Summer](https://www.lidl.co.uk/c/summer/s10023091)
-2. [Middle of Lidl](https://www.lidl.co.uk/c/middle-of-lidl/s10022837)
+2. [Middle of Lidl](https://www.lidl.co.uk/c/middle-of-lidl/s10054469)
 3. [Food Offers](https://www.lidl.co.uk/c/food-offers/s10023092)
 4. [Our Products](https://www.lidl.co.uk/c/our-products/s10023093)
 5. [Wines](https://www.lidl.co.uk/c/wines/s10023094)
@@ -30,9 +30,6 @@ Main Navigation[Back](#)
 8. [Lidl Plus](https://www.lidl.co.uk/c/lidl-plus/s10023095)
 9. [About us](https://www.lidl.co.uk/c/about-us/s10023097)
 10. [Magazines](https://www.lidl.co.uk/c/magazines/s10023096)
-
-1. [Middle of LidlShow](https://www.lidl.co.uk/c/middle-of-lidl/s10022837)
-2. [Product Information](https://www.lidl.co.uk/c/product-information/s10023355)
 
 1. [Our ProductsShow](https://www.lidl.co.uk/c/our-products/s10023093)
 2. [Fruit & Veg](https://www.lidl.co.uk/c/fruit-veg/s10023100)
@@ -1548,7 +1545,6 @@ Sitemap![](/n/footer/icons/arrow-bottom.svg)
 ###### Sitemap
 
 * [Summer](https://www.lidl.co.uk/c/summer/s10023091)
-* [Middle of Lidl](https://www.lidl.co.uk/c/middle-of-lidl/s10022837)
 * [Food Offers](https://www.lidl.co.uk/c/food-offers/s10023092)
 * [Our Products](https://www.lidl.co.uk/c/our-products/s10023093)
 * [Wines](https://www.lidl.co.uk/c/wines/s10023094)
@@ -1574,6 +1570,7 @@ Legal information![](/n/footer/icons/arrow-bottom.svg)
 * [Customer Cookie Notice](https://www.lidl.co.uk/c/customer-cookie-notice/s10022939)
 * [Whistleblowing](https://www.lidl.co.uk/c/whistleblowing/s10022896)
 * [GSCOP Annual Compliance Report](https://www.lidl.co.uk/c/gscop-compliance-report/s10022916)
+* [Refund Policy](https://www.lidl.co.uk/c/refund-policy/s10022914)
 
 ###### Newsletter Sign Up
 
