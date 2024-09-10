@@ -10,7 +10,7 @@ Advertisement
 
 * [View all journals](https://www.nature.com/siteindex)
 * [Search](#search-menu)
-* [Log in](https://idp.nature.com/auth/personal/springernature?redirect_uri=https://www.nature.com/info/privacy?error=cookies_not_supported&code=29db6b63-8be1-44f0-b5ac-9deb21566983)
+* [Log in](https://idp.nature.com/auth/personal/springernature?redirect_uri=https://www.nature.com/info/privacy?error=cookies_not_supported&code=e23599d0-4f17-4306-8940-8f7959a83d12)
 
 1. [nature](https://www.nature.com/)
 2. [nature info](https://www.nature.com/info)
@@ -19,7 +19,7 @@ Advertisement
 Privacy Policy
 ==============
 
-This policy was last updated on 1st July 2024.
+This policy was last updated on 14th August 2024.
 
 This is the privacy policy (“policy”) for nature.com which is run and provided by Springer Nature Limited (**we, us** and **our**). Springer Nature Limited is located at The Campus, 4 Crinan Street, London N1 9XW.  We can also be contacted at [feedback@nature.com](mailto:feedback@nature.com).
 
@@ -86,8 +86,8 @@ _\- Identify you at sign-in;
 \- (behavioural) Advertising and profiling;  
 \- Facilitate attendance of a conference;  
 \- Manage manuscript submissions;  
-\- Provide access (where appropriate) to other Springer Nature group content if you so request_
-
+\- Provide access (where appropriate) to other Springer Nature group content if you so request_  
+  
 For this, the legal basis is Article 6 sec. 1 sent. 1 lit. b GDPR. The use of your personal data for behavioural advertising and profiling is done with consent, Article 6 sec. 1 sent. 1 lit. a GDPR.
 
 We use the personal data and contact data you provide by registration to inform you directly about our additional products and services. The use of your personal data for directly advertising related products and services is with consent, Article 6 sec. 1 sent. 1 lit. a GDPR.
@@ -157,8 +157,9 @@ _\- Identify you at sign-in;
 \- Administer your account;  
 \- Provide you with the services and information offered through the Submission and Peer Review System or which you additionally request;  
 \- Communicate with you;  
-\- Process payments  
-\-_ _Provide information to you as an Author about other publishing opportunities, with the Springer Nature group, you can stop these communications at any time by clicking the link in each email or contacting customer services;_
+\- Process payments_  
+_\- Provide information about a range of benefits to you, designed to recognise and celebrate your achievements within the research community_.  
+_\- Provide information to you as an Author about other publishing opportunities, with the Springer Nature group, you can stop these communications at any time by clicking the link in each email or contacting customer services;_
 
 _\- Communicate with you in your capacity as a current or potential Peer Reviewer, Editorial Board Member, or external Editor to provide information about the journal (s) and content you have worked on; you can stop these communications to you as a Peer Reviewer, Editorial Board Member, or external Editor at any time by clicking the link in each email or contacting Customer Service at_ [_customerservice@springernature.com_](mailto:customerservice@springernature.com) _. Stopping these communications will not affect your status as Peer Reviewer, Editorial Board Member or external Editor with respect to the journal._
 
