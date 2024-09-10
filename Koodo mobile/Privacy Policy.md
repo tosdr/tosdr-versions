@@ -145,6 +145,19 @@ Ask the Community!
 
 Search!
 
-![Secure Icon](//images.ctfassets.net/8cecwr1x4jkf/VKKE1RS7GUwKQk2SCeK8Q/faad39e2f23c3f6ea10f39ce756bcc81/White_lock_icon.svg)Safe and secure connection
+Back to top
 
-![koodo logo](//images.ctfassets.net/8cecwr1x4jkf/5j6pJdAmjwVgQ0fUrLi38/9785cc71ed1be59979e09e78aad4d2ec/KoodoFooter-Logo-UDS-EN.png?w=256&q=80)
+* [![Icon-Facebook-40](//images.ctfassets.net/8cecwr1x4jkf/4I88iHbfSmYuum4G9d49dr/4443d41bd98a157a53060c25d58705d8/Icon-Facebook-40.svg)](https://www.facebook.com/Koodo)
+* [![Icon-X-40](//images.ctfassets.net/8cecwr1x4jkf/5bt1jZQHjJ7aFImujefWWP/73077114083496f2f7e1511624c42cf5/X_logo_white.svg)](https://x.com/koodo)
+* [![Icon-Youtube-40](//images.ctfassets.net/8cecwr1x4jkf/2NFkT25cKmtX7r0s8LBX9N/aad0ba1f03182165d40330b7ec36b320/Icon-Youtube-40.svg)](https://www.youtube.com/user/Koodo)
+
+* [Help](https://www.koodomobile.com/en/help?)
+* [Careers](https://careers.telus.com/en/search/?q=koodo)
+* [Stores](https://www.koodomobile.com/en/find-nearest-store)
+* [Track your order](https://shop.koodomobile.com/checkout/order/orderSearch.jsp)
+
+* [Privacy & Legal](https://www.koodomobile.com/en/terms/legal)
+* [CRTC Wireless Code](https://www.koodomobile.com/en/services/crtc-wireless-code)
+* [Accessibility](https://www.koodomobile.com/en/terms/accessibility?INTCMP=KMNew_FooterLINK_Accessibility)
+
+©2024 Koodo Mobile.
