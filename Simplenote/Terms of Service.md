@@ -56,7 +56,6 @@ By using the Simplenote app or web app (“Service”), you are agreeing to be b
     * Already have a WordPress.com account? [Log in now.](https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Fsimplenote.com%252Fterms%252F)
         
     
-* [Privacy](#)
 * *  [![](https://simplenote.com/wp-content/uploads/2020/07/cropped-icon_512x512.png?w=50) Simplenote](https://simplenote.com/)
     * [Customize](https://simplenoteblog.wordpress.com/wp-admin/customize.php?url=https%3A%2F%2Fsimplenoteblog.wordpress.com%2Fterms%2F)
     * Subscribe Subscribed
