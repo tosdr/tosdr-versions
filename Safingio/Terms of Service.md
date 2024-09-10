@@ -479,7 +479,7 @@ Portmaster
 
 SPN
 
-[Features](https://safing.io/spn/) [Whitepaper](https://safing.io/files/whitepaper/Gate17.pdf) [Source Code](https://github.com/safing/spn/)
+[Features](https://safing.io/spn/) [Whitepaper](https://safing.io/files/whitepaper/Gate17.pdf) [Source Code](https://github.com/safing/portmaster/tree/develop/spn/)
 
 [vs VPNs](https://safing.io/blog/2022/09/06/spn-vs-vpns/) [vs Tor](https://safing.io/blog/2020/01/22/how-the-spn-compares-to-tor/)
 
