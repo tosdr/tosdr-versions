@@ -13,12 +13,12 @@ happy soil, happy plants, happy animals, healthy food
 
 * * *
 
-* [Home](https://shireregenerative.farm/)
 * [About](https://shireregenerative.farm/pages/about)
+* [Buy](https://shireregenerative.farm/collections/2024)
 * [Schedule a Visit or Online Tour](https://shireregenerative.farm/pages/schedule-a-visit)
-* [Buy](https://shireregenerative.farm/collections/2023)
 * [Donate](https://shireregenerative.farm/collections/donate)
 * [Recipes](https://shireregenerative.farm/search?q=recipes)
+* [Home](https://shireregenerative.farm/)
 
 Policies and terms
 ==================
@@ -254,7 +254,7 @@ Questions about the Terms of Service should be sent to us at https://shireregene
 
 ### Quick Links
 
-* [Sign up to hear when more shares are available](https://shireregenerative.farm/pages/contact-us?p=available)
+* [Sign up for email when more shares are available](https://shireregenerative.farm/pages/contact-us?p=available)
 * [Search](https://shireregenerative.farm/search)
 * [About](https://shireregenerative.farm/pages/about)
 * [Contact us](https://shireregenerative.farm/pages/contact-us)
