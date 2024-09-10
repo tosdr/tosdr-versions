@@ -1,7 +1,6 @@
 [![Net Nanny](/net-nanny-logo.png)](https://www.netnanny.com/ "Return to the Home Page")
 
 * [_Contact Us_](https://www.netnanny.com/support/terms-conditions/#)
-* [Business Solutions](https://www.contentwatch.com/)
 * [Buy Now](https://www.netnanny.com/checkout/)
 
 * [Products](https://www.netnanny.com/products/)
@@ -16,7 +15,7 @@
     
 * [My Settings](#)
     
-    [My Subscription](https://www.netnanny.com/account/)[Net Nanny 10 Settings](https://parent.netnanny.com/)[Legacy Settings](https://admin.netnanny.com/)[Forgot Password?](https://www.netnanny.com/password-help/)
+    [My Subscription](https://www.netnanny.com/account/)[Net Nanny 10 Settings](https://parent.netnanny.com/)[Forgot Password?](https://www.netnanny.com/password-help/)
     
 * [Buy Now](https://www.netnanny.com/checkout/)
 
