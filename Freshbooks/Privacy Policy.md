@@ -8,6 +8,12 @@ Free - Google Play
 
 [Get it](https://play.google.com/store/apps/details?id=com.freshbooks.andromeda&utm_source=)
 
+You're currently on our **US** site. Select your regional site here:
+
+Select your region Australia Canada European Union Mexico South Africa United Kingdom United States
+
+×
+
 [![Freshbooks Logo](https://www.freshbooks.com/wp-content/themes/freshpress/dist/images/logos/freshbooks-logo.svg)](https://www.freshbooks.com/)
 
 [Buy Now & Save](https://www.freshbooks.com/pricing) [Login](https://auth.freshbooks.com/service/auth/integrations/sign_in)
@@ -247,7 +253,7 @@ You always have the option to not provide information by choosing not to become 
 
 If you are a Subscriber, we collect your credit card information for billing purposes. And if you are a Customer who wishes to pay amounts to a Subscriber on a recurring basis, we collect and store your credit card information for payment purposes.
 
-Some of our pages where personal data is collected utilize framing techniques to serve content  to you from our partners while preserving the look and feel of our site. Please be aware that you are providing your personal information to these third parties and not to [staging-web-k8s.freshenv.com](https://qa-web-k8s.freshenv.com/) (in each case the relevant third party will be identified to you via that section of the website).
+Some of our pages where personal data is collected utilize framing techniques to serve content  to you from our partners while preserving the look and feel of our site. Please be aware that you are providing your personal information to these third parties and not to [www.staging.freshenv.com](https://qa-web-k8s.freshenv.com/) (in each case the relevant third party will be identified to you via that section of the website).
 
 We also make use of third party companies to process personal information as needed for marketing or analytical purposes that enhance our existing services and programs. 
 
