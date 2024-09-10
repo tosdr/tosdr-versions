@@ -16,7 +16,7 @@ Amsterdam
 
 Current
 
-5.182 Tb/s
+11.206 Tb/s
 
 Peak
 
@@ -24,7 +24,7 @@ Peak
 
 [ASNS
 
-873](https://www.ams-ix.net/ams/connected-networks)
+877](https://www.ams-ix.net/ams/connected-networks)
 
 [GET STARTED](https://www.ams-ix.net/ams/get-started)
 
@@ -126,7 +126,17 @@ We store your data for as long as necessary for this contact request or for a ma
   
 Newsletter**  
   
-If you want to stay informed about new services, you can subscribe to the AMS-IX newsletter, which we will mail monthly at most. In the newsletter you can read news, tips, and information about our products and services. We only register your e-mail address and only send the newsletter with your permission. We will keep your e-mail address until you unsubscribe from the AMS-IX [Website](https://www.ams-ix.net/) newsletter. In every newsletter you receive, it is possible to unsubscribe via a link in the mail.  
+If you want to stay informed about new services, you can subscribe to the AMS-IX newsletter, which we will mail monthly at most. In the newsletter you can read news, tips, and information about our products and services. We only register your e-mail address and only send the newsletter with your permission. We will keep your e-mail address until you unsubscribe from the AMS-IX [Website](https://www.ams-ix.net/) newsletter. In every newsletter you receive, it is possible to unsubscribe via a link in the mail.
+
+**AMS-IX LinkedIn Lead Generation Campaigns**
+
+AMS-IX will process your personal data based on your consent to in order to help you download AMS-IX marketing material and, if applicable, to contact you about AMS-IX products and services. When you click on the link on your LinkedIn page to download AMS-IX marketing materials, LinkedIn processes your personal data based on the [LinkedIn Privacy policy](https://www.linkedin.com/legal/privacy-policy).
+
+When submitting the form, you connect to AMS-IX LinkedIn page. By clicking the submit button, you agree to share your personal data with AMS-IX. Then you can use the downloading link to receive AMS-IX marketing materials.
+
+Once you contacted AMS-IX by submitting the form and consented to share your information, we receive your personal data from LinkedIn. We process your personal data such as your first name and your last name, your work email address, your job title, country and company name, to fulfil your request to download the AMS-IX marketing material and to contact you, based on your consent. You can consent to the processing of your personal data by AMS-IX via the opt-in buttons provided for each of these purposes on the LinkedIn Lead Gen Form: to receive a specific AMS-IX marketing material (e.g., an eBook, a white paper), to receive marketing communications from AMS-IX, via email. If you consent to be contacted by AMS-IX for marketing purposes, we will store your data for 18 months in order to contact you. If you prefer not sharing your data, do not submit the form.
+
+You can withdraw your consent at any time, by pressing the unsubscribe button in the email you received from AMS-IX. For more information about how we process your personal data, please refer to the sections below of the Privacy policy.
 
 When can we share your personal data with third parties?
 --------------------------------------------------------
