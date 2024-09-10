@@ -119,10 +119,12 @@ Loading...
 1887 Whitney Mesa Dr #4080, Henderson, NV 89014
 
 IP Location lookup and Geolocation API - by Kloudend, Inc.  
-ipapi ® is a registered trademark of Kloudend in UK & AU  
+ipapi ™ is a registered trademark of Kloudend in UK & AU  
 IP Location data is aggregated from multiple sources regularly for an accurate & reliable IP lookup.  
 † Latitude / Longitude are often near the center of population. The values aren't precise & shouldn't be used to identify a particular address or household.  
 The location obtained from an IP address is inherently imprecise and may not always be current. Please read our terms of service or contact us to understand the limitations.  
 [Do Not Sell My Personal Information](https://ipapi.co/donotsell/)  
 This product includes data from [IP geolocation by DB-IP](https://db-ip.com/) available under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/) .  
-This product includes GeoLite2 data created by MaxMind, available from [https://www.maxmind.com](https://www.maxmind.com/) under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/) .
+This product includes GeoLite2 data created by MaxMind, available from [https://www.maxmind.com](https://www.maxmind.com/) under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/) .  
+The entity maintaining this website is a data broker under Texas law.  
+To conduct business in Texas, a data broker must register with the Texas Secretary of State (Texas SOS). Information about data broker registrants is available on the Texas SOS website.
