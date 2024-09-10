@@ -6,7 +6,7 @@
 
 ### PILLOWFORT PRIVACY POLICY
 
-Effective as of: 05/17/2021
+Effective as of: 08/04/2024
 
 Pillowfort Blogging LLC, (“Pillowfort” or “we”) is committed to being transparent about what data we collect from you and how you use it. We also think you should have meaningful control over any data we collect from you and use. That’s why we have this Privacy Policy.
 
@@ -52,26 +52,28 @@ Pillowfort collects information that you provide when using the Services. This i
 
 **How Pillowfort may use and share your information.**
 
-Pillowfort may use information you provide and that we collect to:
+Pillowfort may use information you provide and that we collect for:
 
-1. Research and development related to the services, such as communicating with you about surveys or questionnaires related to improving the Services;
-2. Provide you with notifications updates, security alerts, user violations, moderator messages, IP infringement concerns, and other related matters;
-3. Protecting the safety of the Services’ users and enforcing the Pillowfort Terms of Service and Content and Conduct Rules;
-4. Analyze and fix any technical problems with the Services or your Account;
-5. Monitor and analyze usage of and activities on the Services;
-6. Personalize the Services; and
-7. Provide customer support.
+1. Research and development related to the services, such as communicating with you about surveys or questionnaires related to improving the Services.
+2. Providing you with notifications updates, security alerts, user violations, moderator messages, IP infringement concerns, and other related matters.
+3. Protecting the safety of the Services’ users and enforcing the Pillowfort Terms of Service and Content and Conduct Rules.
+4. Analyzing and fixing any technical problems with the Services or your Account.
+5. Monitoring and analyzing usage of and activities on the Services.
+6. Personalizing the Services.
+7. Providing customer support.
 
 Pillowfort stores information we collect about you from your use of the Services only to the extent it is used for the purposes for which we collected it. Pillowfort may also retain some information for longer periods of time for legitimate business purposes or if it is required by law, such as your username and IP used when you created your Account.
 
 Pillowfort does not now, nor will it in the future, sell our user information to third-parties. But Pillowfort may share information you provide with others under the following circumstances:
 
-1. **Content Sharing**. Users of the Services will be able to see Content you post or make available on the Services along with your username associated with the content. Although the Services do allow for private communities and user pages, they may become public at some point, which you should consider when posting Content.
+1. **Content Sharing**: Users of the Services will be able to see Content you post or make available on the Services along with your username associated with the content. Although the Services do allow for private communities and user pages, they may become public at some point, which you should consider when posting Content.
 2. **Profile Information**: Other users will be able to view your public user profile, which may contain your user name, prior posts, the communities to which you belong or follow, and when you created your Account.
-3. **Legal Obligations**. We may share information collection in response to a request for information, if we determine disclosure is required by any applicable law, legal process, court order, or regulation. We will make every attempt to provide you with prior notice before disclosing your information in response to a legal request, if the law allows us to provide such notice.
-4. **To Enforce Our Terms**. We reserve the right to share your information if we believe it is necessary to enforce Pillowfort’s terms based on your use of the Services, or to protect Pillowfort, its property, the Services, or other users.
-5. **Emergency Circumstances**. We may disclose your information to third-parties if we believe it is necessary to prevent serious harm to you or another.
-6. **Consent**. We may share information with your consent.
+3. **Analytics**: Pillowfort sends anonymized user activity data to Google for the purpose of analytics, which allows us to improve the Services.
+4. **Content Moderation**: Pillowfort sends some user content to Microsoft's PhotoDNA service to proactively prevent the uploading of CSEM content.
+5. **Legal Obligations**: We may share information collection in response to a request for information, if we determine disclosure is required by any applicable law, legal process, court order, or regulation. We will make every attempt to provide you with prior notice before disclosing your information in response to a legal request, if the law allows us to provide such notice.
+6. **To Enforce Our Terms**: We reserve the right to share your information if we believe it is necessary to enforce Pillowfort’s terms based on your use of the Services, or to protect Pillowfort, its property, the Services, or other users.
+7. **Emergency Circumstances**: We may disclose your information to third-parties if we believe it is necessary to prevent serious harm to you or another.
+8. **Consent**: We may share information with your consent.
 
 **Accessing and controlling use of your information**
 
