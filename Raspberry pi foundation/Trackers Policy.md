@@ -173,7 +173,7 @@ Except for essential cookies, all cookies will expire after we no longer use the
 * [About us](https://www.raspberrypi.org/about)
 * [Donate](https://www.raspberrypi.org/donate)
 * [Team](https://www.raspberrypi.org/about/meet-the-team)
-* [Careers](https://raspberrypifoundation.workable.com/)
+* [Careers](https://www.raspberrypi.org/careers)
 * [Governance](https://www.raspberrypi.org/about/governance)
 * [Contact us](https://www.raspberrypi.org/contact)
 * [Trademark & brand](https://www.raspberrypi.org/trademark-rules)
