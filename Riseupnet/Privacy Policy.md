@@ -1,3 +1,5 @@
+[Skip to Main Content](#main-content)
+
 [Riseup Home](https://riseup.net/en)
 
 [Home](https://riseup.net/) [Donate!](https://riseup.net/donate)
@@ -60,7 +62,7 @@ Privacy Policy
 5. [Account deletion](#account-deletion)
 6. [Changes to this policy](#changes-to-this-policy)
 
-This document describes what information we collect and what it’s used for. It applies to all interactions with riseup.net. Your use of riseup.net services will constitute your agreement to our Privacy Policy. Please also review our [Terms of Service](https://riseup.net/en/tos/).
+This document describes what information we collect and what it’s used for. It applies to all interactions with riseup.net. Your use of riseup.net services will constitute your agreement to our Privacy Policy. Please also review our [Terms of Service](https://riseup.net/en/about-us/tos/).
 
 Summary
 -------
@@ -145,4 +147,4 @@ This site is run by Riseup, your friendly autonomous tech collective since 1999
 
 #### Riseup's Tor Onion Services
 
-If you want to access our list of onion services' addresses check our [Tor page](https://riseup.net/en/privacy-policy/security/network-security/tor#riseups-tor-onion-services) and if you need help to configure your email client to use our hidden services, check our [Onion Service configuration page](https://riseup.net/en/privacy-policy/email/settings/tor).
+If you want to access our list of onion services' addresses check our [Tor page](https://riseup.net/security/network-security/tor#riseups-tor-onion-services) and if you need help to configure your email client to use our hidden services, check our [Onion Service configuration page](https://riseup.net/email/settings/tor).
