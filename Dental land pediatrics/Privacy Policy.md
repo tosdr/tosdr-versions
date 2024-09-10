@@ -18,7 +18,7 @@
     * [Appointment Policy](https://www.dentallandpediatrics.com/appointment-policy)
     * [Privacy Policy](https://www.dentallandpediatrics.com/privacy-policy)
     * [Behavior Guidance](https://www.dentallandpediatrics.com/behavior-guidance)
-    * [Pediatric Dental FAQs](https://www.dentallandpediatrics.com/pediatric-dental-faqs)
+    * [Pediatric Dental FAQs | Dental Land Pediatrics](https://www.dentallandpediatrics.com/pediatric-dental-faqs-dental-land-pediatrics)
 * [Services](https://www.dentallandpediatrics.com/dental-exams-and-cleanings)
     * [Dental Exams and Cleanings](https://www.dentallandpediatrics.com/dental-exams-and-cleanings)
     * [Digital X-rays](https://www.dentallandpediatrics.com/digital-x-rays)
@@ -69,7 +69,7 @@ Privacy Policy
 For New Patients
 ----------------
 
-[Your First Visit](https://www.dentallandpediatrics.com/your-first-visit)[New Patient Registration Form](https://www.dentallandpediatrics.com/new-patient-registration-form)[Financial Policy](https://www.dentallandpediatrics.com/financial-policy)[Appointment Policy](https://www.dentallandpediatrics.com/appointment-policy)[Privacy Policy](https://www.dentallandpediatrics.com/privacy-policy)[Behavior Guidance](https://www.dentallandpediatrics.com/behavior-guidance)[Pediatric Dental FAQs](https://www.dentallandpediatrics.com/pediatric-dental-faqs)
+[Your First Visit](https://www.dentallandpediatrics.com/your-first-visit)[New Patient Registration Form](https://www.dentallandpediatrics.com/new-patient-registration-form)[Financial Policy](https://www.dentallandpediatrics.com/financial-policy)[Appointment Policy](https://www.dentallandpediatrics.com/appointment-policy)[Privacy Policy](https://www.dentallandpediatrics.com/privacy-policy)[Behavior Guidance](https://www.dentallandpediatrics.com/behavior-guidance)[Pediatric Dental FAQs | Dental Land Pediatrics](https://www.dentallandpediatrics.com/pediatric-dental-faqs-dental-land-pediatrics)
 
 ![privacy policy](/assets/uploads/images/privacy-policy.jpg)
 
