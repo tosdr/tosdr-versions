@@ -6,7 +6,10 @@
 * [Content](http://blog.smileback.com/)
 
 * Book a demo
-* [Sign in](https://app.smileback.io/)
+* Sign in
+    * [app.smileback.io](https://app.smileback.io/)
+    * [app.smileback.eu](https://app.smileback.eu/)
+    * [app.smileback.au](https://app.smileback.au/)
 * 
 
 Legal
@@ -265,7 +268,10 @@ Company name
 Primary email  
 
 Primary phone (optional)  
- Create a password  
+ Desired Data Residency Region  
+Select region North America Europe Australia
+
+Create a password  
 
 Password is at least 8 characters
 
@@ -288,7 +294,7 @@ Success! You’re all set
 
 Your account is setup and ready to go. All you need to do now, is simply sign in and you’ll be receiving useful feedback and metrics in no time.
 
-[Sign into the app](https://app.smileback.io/) Not right now
+Sign into the app Not right now
 
 Let's get you started
 ---------------------
