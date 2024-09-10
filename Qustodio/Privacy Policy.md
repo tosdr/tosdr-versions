@@ -1,4 +1,6 @@
-[![Qustodio](https://www.qustodio.com/wp-content/themes/Divi-child/assets/dist/svg/template-parts/header/qustodio-logo.svg?v=4.13.0)](https://www.qustodio.com/en/)
+[**BACK TO SCHOOL SALE |** Get 10% OFF Premium today – **BUY NOW**](https://www.qustodio.com/en/premium/)
+
+[![Qustodio](https://www.qustodio.com/wp-content/themes/Divi-child/assets/dist/svg/template-parts/header/qustodio-logo.svg?v=4.14.0)](https://www.qustodio.com/en/)
 
 * [Home](https://www.qustodio.com/en/)
 * [Why Qustodio](https://www.qustodio.com/en/why-qustodio/)
@@ -13,7 +15,9 @@
 * [Log in](https://family.qustodio.com/)
 * [Sign up](https://www.qustodio.com/en/free-sign-up/)
 
-[![Qustodio](https://www.qustodio.com/wp-content/themes/Divi-child/assets/dist/svg/template-parts/header/qustodio-logo.svg?v=4.13.0)](https://www.qustodio.com/en/)
+[**BACK TO SCHOOL SALE |** Get 10% OFF Premium today – **BUY NOW**](https://www.qustodio.com/en/premium/)
+
+[![Qustodio](https://www.qustodio.com/wp-content/themes/Divi-child/assets/dist/svg/template-parts/header/qustodio-logo.svg?v=4.14.0)](https://www.qustodio.com/en/)
 
 * [Product](#)
     * [Why Qustodio
@@ -193,3 +197,9 @@ Follow @qustodio
 ![](https://www.qustodio.com/wp-content/themes/Divi-child/assets/src/img/template-parts/footer/copyright-logo.png) © 2024 Qustodio is a registered trademark of Qustodio LLC. All rights reserved.
 
 ![](https://www.qustodio.com/wp-content/themes/Divi-child/assets/src/img/template-parts/footer/badges.png)
+
+### **Back to school sale!**
+
+Give your child the digital tools to succeed this school year. Use code BTS10 for 10% off Premium.
+
+[Explore features](https://www.qustodio.com/en/premium/) [Explore features](https://www.qustodio.com/en/premium/) [Explore features](https://www.qustodio.com/en/premium/)
