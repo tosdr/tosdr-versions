@@ -633,7 +633,7 @@ Tools
 
 [Referral program](https://www.dreamstime.com/affiliate-referral-program "Referral program") [Upload & sell photos](https://www.dreamstime.com/uploadfile "Upload & sell photos")
 
-[Dreamstime Facebook](https://www.facebook.com/dreamstime) [Dreamstime Twitter](https://www.twitter.com/dreamstime) [Dreamstime Pinterest](https://www.pinterest.com/dreamstime/) [Dreamstime Instagram](https://www.instagram.com/dreamstime) [Dreamstime Linkedin](https://www.linkedin.com/company/dreamstime) [Dreamstime Youtube](https://www.youtube.com/user/dreamstime)
+[Dreamstime Facebook](https://www.facebook.com/dreamstime) [Dreamstime Twitter](https://x.com/dreamstime) [Dreamstime Pinterest](https://www.pinterest.com/dreamstime/) [Dreamstime Instagram](https://www.instagram.com/dreamstime) [Dreamstime Linkedin](https://www.linkedin.com/company/dreamstime) [Dreamstime Youtube](https://www.youtube.com/@dreamstime?sub_confirmation=1)
 
 Language English
 
