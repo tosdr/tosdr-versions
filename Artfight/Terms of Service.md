@@ -21,7 +21,7 @@ ART FIGHT](https://artfight.net/)
     
     * * *
     
-    [Merch](https://shop.artfight.net/) [Wormston Plushnew!limited!!](https://www.makeship.com/products/art-fight-wormston-plush) [Vampires vs Werewolves Pinsnew!limited!!](https://www.makeship.com/products/art-fight-werewolves-vs-vampires-enamel-pins)
+    [Merch](https://shop.artfight.net/) [Seafoam vs Stardust Pinsnew!limited!!](https://www.makeship.com/products/art-fight-seafoam-vs-stardust-enamel-pins)
     
 
 * * *
@@ -154,7 +154,7 @@ We can amend these Terms of Service and Use at any time and will update these Te
 
   
 
-2024 Contributions: **$138373.92**  
+2024 Contributions: **$143216.18**  
 Goal (tier 2): $150000[](https://artfight.net/donate)
 
 Support
