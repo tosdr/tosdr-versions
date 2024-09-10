@@ -85,7 +85,7 @@ Choose your language
     
     ### Guard NEW
     
-    Enhanced cloud security](https://www.loom.com/software/access)
+    Enhanced cloud security](https://www.loom.com/software/guard)
     
     [![](https://wac-cdn.atlassian.com/misc-assets/adg4-nav/prod-icon-Loom.svg)
     
@@ -145,7 +145,7 @@ Choose your language
     
     ### Guard NEW
     
-    Enhanced cloud security](https://www.loom.com/software/access)
+    Enhanced cloud security](https://www.loom.com/software/guard)
     
     ##### Business Teams
     
@@ -360,7 +360,7 @@ Back
 
 [Try now](https://www.loom.com/try)
 
- [![Atlassian logo](/assets/img/icons/imkt/imkt-navbar__charlie-logo.svg?cdnVersion=2085)](https://www.atlassian.com/ "Visit the Atlassian homepage")[Legal](https://www.loom.com/legal)
+ [![Atlassian logo](/assets/img/icons/imkt/imkt-navbar__charlie-logo.svg?cdnVersion=2228)](https://www.atlassian.com/ "Visit the Atlassian homepage")[Legal](https://www.loom.com/legal)
 
 [Cloud Terms of Service](https://www.loom.com/legal/atlassian-customer-agreement)
 
@@ -409,7 +409,7 @@ Back
 
 [Atlassian Customer Agreement](https://www.loom.com/legal/atlassian-customer-agreement)
 
-[![Termscout certified icon](https://wac-cdn.atlassian.com/dam/jcr:00de0243-b3b5-456f-be35-cc79860ba433/Horizontal_Narrow_White.jpg?cdnVersion=2085)](https://app.termscout.com/certify/atlassian-certified-contract-aca)
+[![Termscout certified icon](https://wac-cdn.atlassian.com/dam/jcr:00de0243-b3b5-456f-be35-cc79860ba433/Horizontal_Narrow_White.jpg?cdnVersion=2228)](https://app.termscout.com/certify/atlassian-certified-contract-aca)
 
 Atlassian provides a wide range of products, services, and deployment options. As part of our dedication to building with heart and balance, we have developed the Atlassian Customer Agreement to encompass all these offerings in a comprehensive and customized manner. Our products adhere to an enterprise-level set of controls and policies that align with various international standards and market expectations. The agreement is crafted to be customer-friendly, undergoing regular updates informed by market practices and customer input. For further insight into our approach, [please visit this page](https://www.loom.com/legal/our-approach).
 
@@ -721,7 +721,7 @@ Atlassian may identify Customer as a customer of Atlassian in its promotional ma
 
 “**User**” means any individual that Customer authorizes to use the Products.  Users may include: (i) Customer’s and its Affiliates’ employees, consultants, contractors and agents (ii) third parties with which Customer or its Affiliates transact business (iii) individuals invited by Customer’s users (iv) individuals under managed accounts, or (v) individuals interacting with a Product as Customer’s customer.
 
-[Download PDF](https://wac-cdn.atlassian.com/dam/jcr:c8b4eb00-2562-4e4b-8c12-49207ae572cd/ACA_June_2024.pdf?cdnVersion=2085)
+[Download PDF](https://wac-cdn.atlassian.com/dam/jcr:c8b4eb00-2562-4e4b-8c12-49207ae572cd/ACA_June_2024.pdf?cdnVersion=2228)
 
 * * *
 
@@ -751,7 +751,7 @@ Subscribe to receive notifications from us about updates to our legal terms (inc
 
 [Sign up for updates](https://privacy.atlassian.net/servicedesk/customer/portal/1/group/1/create/39)
 
-![](https://wac-cdn.atlassian.com/dam/jcr:9c4bf443-5045-4ff9-a48d-36ae466f3ced/logos-atlassian-mini-icon-onecolor-blue.svg?cdnVersion=2085)
+![](https://wac-cdn.atlassian.com/dam/jcr:9c4bf443-5045-4ff9-a48d-36ae466f3ced/logos-atlassian-mini-icon-onecolor-blue.svg?cdnVersion=2228)
 
 [Company](https://www.loom.com/company)
 
