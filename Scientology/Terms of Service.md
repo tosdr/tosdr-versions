@@ -216,7 +216,7 @@ Grateful acknowledgment is made to L. Ron Hubbard Library for permission to re
 
 The following are trademarks and service marks owned by Religious Technology Center, Los Angeles, California, USA. These marks are licensed for use by the Church of Scientology International and its affiliated organizations and have been registered in many countries in the world:
 
-Hubbard, L. Ron Hubbard, L. Ron Hubbard Signature, LRH, Oxford Capacity Analysis, Dianetics, Dianetics Symbol, Dianetics Symbol in a Circle, Scientology, Scientology Symbol, Scientology Cross (Pointed), Scientology Cross (Rounded) Minister’s Cross, Ron Signature,  Saint Hill, Scientology Volunteer Minister Symbol, Freewinds, Freewinds Logo, Scientology Media Productions, Scientology Network Logo, Personal Efficiency Course, Scientology Life Improvement, Success Through Communication Course, The Bridge, Freedom and Scientometric.
+Church of Scientology International Corporate Symbol, Hubbard, L. Ron Hubbard, L. Ron Hubbard Signature, LRH, Oxford Capacity Analysis, Dianetics, Dianetics Symbol, Dianetics Symbol in a Circle, Scientology, Scientology Symbol, Scientology Cross (Pointed), Scientology Cross (Rounded) Minister’s Cross, Ron Signature, Saint Hill, Scientology Volunteer Minister Symbol, E-Meter, Flag, Flag Service Organization Corporate Symbol, Freedom Magazine, Freewinds, Freewinds Logo, Scientology Media Productions, Scientology Network Logo, Mark Ultra VIII, Mark Ultra VIII Symbol, Scientology Network ID, Personal Efficiency Course, Scientology Life Improvement, Success Through Communication Course, The Bridge, The Bridge to Total Freedom, Voices for Humanity, Freedom and Scientometric.
 
 The Way to Happiness and the Road & Sun Design are trademarks owned by L. Ron Hubbard Library in the USA and in other countries (trademark registrations issued and other registrations pending) and are used with its permission.
 
@@ -226,7 +226,7 @@ Youth for Human Rights, Youth for Human Rights Logo, United for Human Rights and
 
 Citizens Commission on Human Rights, CCHR and CCHR Logo are trademarks owned by Citizens Commission on Human Rights and are used with its permission.
 
-Applied Scholastics, the Applied Scholastics Open Book Design, Criminon, Criminon Logo, Narconon and Narconon “Jumping Man” Logo are trademarks and service marks owned by the Association for Better Living and Education International and are used with its permission.
+ABLE, Applied Scholastics, the Applied Scholastics Open Book Design, Criminon, Criminon Logo, Narconon and Narconon “Jumping Man” Logo are trademarks and service marks owned by the Association for Better Living and Education International and are used with its permission.
 
 SCIENTOLOGIST is a collective membership mark indicating membership in a church and church membership services of the affiliated Scientology churches and missions.
 
