@@ -167,14 +167,13 @@ En cualquier caso, puedes inhabilitar las cookies de Google Analytics desde [aq
 
 **BARCELONA**  
 Passeig de Gracia 50, 2º1º  
-08007 Barcelona  
-+34 934 774 245
+08007 Barcelona
 
 **MADRID**  
 Edif. Amura  
-c/ de Cantabria, 5  
+c/ de Cantabria, 2  
 28108 Alcobendas  
-+34 915 762 181
+Madrid
 
 #### PRESTADOR CUALIFICADO
 
@@ -190,4 +189,4 @@ c/ de Cantabria, 5
 
 [![ISO9001 Firmaprofesional](https://firmaprofesional.com/wp-content/uploads/2024/05/firmaprofesional_1s_talogo_qm_23-e1717068612393.png)](https://firmaprofesional.com/wp-content/uploads/pdfs/ISO9001_Firmaprofesional_esp_2024.pdf)
 
-© Copyright 2024 Firmaprofesional | [AVISO LEGAL](https://www.firmaprofesional.com/aviso-legal) | [POLÍTICA DE PRIVACIDAD](https://www.firmaprofesional.com/aviso-legal#politica-de-privacidad) | [COOKIES](https://www.firmaprofesional.com/cookies/)
+© 2024 Firmaprofesional | [AVISO LEGAL](https://www.firmaprofesional.com/aviso-legal) | [POLÍTICA DE PRIVACIDAD](https://www.firmaprofesional.com/aviso-legal#politica-de-privacidad) | [COOKIES](https://www.firmaprofesional.com/cookies/)
