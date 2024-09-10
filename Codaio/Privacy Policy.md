@@ -60,7 +60,7 @@ By team size
 
 [![](https://sanity-images.imgix.net/production/54e838140010ee3b4aa587b56eb348973008f66d-2400x1091.png?w=1200&auto=format%2Ccompress)
 
-How Qualtrics saves money with Coda](https://coda.io/solutions/case-studies/qualtrics)[See all →](https://coda.io/solutions/case-studies)
+How Qualtrics saves money with Coda.](https://coda.io/solutions/case-studies/qualtrics)[See all →](https://coda.io/solutions/case-studies)
 
 Resources
 
@@ -640,7 +640,7 @@ Copyright © 2024 Coda. All rights reserved.[Privacy](https://coda.io/trust/priv
 Want to print your doc?  
 This is not the way.
 
-![](https://cdn.coda.io/assets/0b270d94285d/img/import_google_docs.png)
+![](https://cdn.coda.io/assets/35841d3d4eee/img/import_google_docs.png)
 
 Try clicking the ⋯ next to your doc name or using a keyboard shortcut (
 
