@@ -20,7 +20,7 @@ For the purposes of these Terms of Use:
 
 “Content” means any expression fixed in a tangible medium and includes, without limitation, ideas, text, graphics, avatars, designs, presets (including but not limited to: backgrounds, scene configurations, characters, outfits, body poses, facial expressions, color filters, overlays, effects), combinations of presets, drawings, logos, images, trademarks, copyrights, information, software, and any intellectual property therein, any of which may be created, submitted, or otherwise made accessible on or through the Site and/or Services.
 
-“Educator” means a teacher or individual employed by an educational institution or otherwise acting in the official capacity of a teacher, or the educational institution itself.
+“Educator” means a teacher or individual employed by an educational institution, or the educational institution itself.
 
 “Pixton Content” means all Content that is not User Generated Content.
 
@@ -351,6 +351,7 @@ About Pixton
 
 * [About Us](https://www.pixton.com/about-us)
 * [Product Updates](https://www.pixton.com/changelog)
+* [Statement about AI](https://www.pixton.com/responsible-ai)
 
 Resources
 
