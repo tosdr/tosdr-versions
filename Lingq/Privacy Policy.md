@@ -28,7 +28,7 @@ Display Language: **en**
 * [Home](https://www.lingq.com/)
 * [About](https://www.lingq.com/en/about/)
 * [Pricing](https://www.lingq.com/en/signup/)
-* [Forum](https://www.lingq.com/en/forum/active-threads/)
+* [Forum](https://forum.lingq.com/)
 * [Blog](https://www.lingq.com/blog/)
 
 [Log in](https://www.lingq.com/en/accounts/login/) [Sign Up Free](https://www.lingq.com/en/accounts/new/ "Sign Up Free")
@@ -211,7 +211,7 @@ LingQ reserves the right to modify this Privacy Policy at any time. Please revie
 
 [Gift Shop](https://www.lingq.com/gift-language-lovers/)
 
-[Forum](https://www.lingq.com/en/forum/active-threads/)
+[Forum](https://forum.lingq.com/)
 
 [Blog](https://www.lingq.com/blog/)
 
