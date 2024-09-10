@@ -14,8 +14,8 @@
         
     * Desktop Apps
         * [How Does It Work](https://www.overwolf.com/creators/build-an-app/)
-        * [Getting started](https://overwolf.github.io/start/getting-started)
-        * [App documentation](https://overwolf.github.io/)
+        * [Getting started](https://dev.overwolf.com/ow-native/getting-started/overview/)
+        * [App documentation](https://dev.overwolf.com/ow-native/getting-started/overview/)
         * [Supported games](https://www.overwolf.com/supported-games/)
         * [Dev Discord](https://discord.gg/overwolf-developers)
     * [Mods](#)
@@ -99,7 +99,7 @@ BY ACCESSING, BROWSING OR OTHERWISE USING OUR WEBSITE YOU ACKNOWLEDGE THAT YOU H
 **NOTE**, THIS TERMS GOVERN AND APPLY SOLELY ON YOUR ACCESS AND USE OF OUR WEBSITE AND CONNECTED SERVICES AS DEFINED HEREIN. IF YOU ARE:
 
 1. AN END USER THAT USES THE OVERWOLF PLATFORMS (AS SUCH TERMS DEFINED WITHIN THE [OVERWOLF PLATFORM TERMS OF USE](https://www.overwolf.com/legal/client/terms)), OR USING ANY OTHER APPLICATIONS THAT WERE DEVELOPED AND OWNED BY OVERWOLF AND DISTRIBUTED THROUGH OUR PLATFORMS,  YOU WILL BE SUBJECT TO THE APPLICABLE POLICIES AND APPLICABLE TERMS OF USE; 
-2. A DEVELOPER THAT USES THE OVERWOLF DEVELOPER PLATFORMS (AS SUCH TERM IS DEFINED IN THE [OVERWOLF DEVELOPERS TERMS AND CONDITIONS](https://overwolf.github.io/topics/legal/legal-developers-terms)), AND THE OVERWOLF SOFTWARE WHICH ENABLES INTEGRATION OF APPS, YOU WILL BE SUBJECT TO THE APPLICABLE POLICIES OF EACH OVERWOLF PLATFORM AND/OR OVERWOLF ELECTRON, AND TO THEIR APPLICABLE TERMS OF USE; 
+2. A DEVELOPER THAT USES THE OVERWOLF DEVELOPER PLATFORMS (AS SUCH TERM IS DEFINED IN THE [OVERWOLF DEVELOPERS TERMS AND CONDITIONS](https://dev.overwolf.com/legal/developer-terms/)), AND THE OVERWOLF SOFTWARE WHICH ENABLES INTEGRATION OF APPS, YOU WILL BE SUBJECT TO THE APPLICABLE POLICIES OF EACH OVERWOLF PLATFORM AND/OR OVERWOLF ELECTRON, AND TO THEIR APPLICABLE TERMS OF USE; 
 3. A MOD AUTHOR THAT USES THE OVERWOLF CURSEFORGE PLATFORM (“**CURSEFORGE**”) FOR THE CREATION AND DISTRIBUTION OF GAME MODS (AS SUCH TERM IS DEFINED IN THE  [OVERWOLF MOD AUTHORS TERMS AND CONDITIONS](https://www.curseforge.com/terms/mod-author), YOU WILL BE SUBJECT TO THE APPLICABLE POLICIES OF CURSEFORGE AND TO THE APPLICABLE TERMS OF USE. 
 
 THESE TERMS DO NOT APPLY ON OVERWOLF SAID SERVICES.
@@ -185,7 +185,7 @@ Overwolf, Ltd.
     * [Publish a mod](https://authors.curseforge.com/welcome/)
     * [Monetize game server](https://www.tebex.io/)
     * [Monetize your website](https://nitropay.com/)
-    * [App documentation](https://overwolf.github.io/docs/start/getting-started)
+    * [App documentation](https://dev.overwolf.com/ow-native/getting-started/overview/)
     * [Mod documentation](https://support.curseforge.com/en/support/solutions/folders/9000194118)
     * [Accelerator](https://www.overwolf.com/acceleration)
     * [Apply for funding](https://www.overwolf.com/fund/home)
@@ -205,11 +205,11 @@ Overwolf, Ltd.
     * [Influencers](https://www.overwolf.com/influencers)
 * ##### Company
     
-    * [About us](https://overwolf.com/about-overwolf/)
-    * [Our culture](https://overwolf.com/our-culture/)
-    * [Brand guidelines](https://overwolf.com/brand-guidelines/)
+    * [About us](https://www.overwolf.com/about-overwolf/)
+    * [Our culture](https://www.overwolf.com/our-culture/)
+    * [Brand guidelines](https://www.overwolf.com/brand-guidelines/)
     * [Blog](https://blog.overwolf.com/)
-    * [Careers](https://overwolf.com/careers/)
+    * [Careers](https://www.overwolf.com/careers/)
     * [ISO](https://www.overwolf.com/iso/)
 * ##### Support & Privacy
     
