@@ -171,42 +171,42 @@ F-Droid is powered by your donations!
 
 ### News
 
-* [The anti-feature you've asked for](https://f-droid.org/en/2024/07/25/twif.html) Jul 25, 2024
-* [Open letter in support of Next Generation Internet](https://f-droid.org/en/2024/07/23/ngi-funding-open-letter.html) Jul 23, 2024
-* [Big cleanup and smaller repo](https://f-droid.org/en/2024/07/18/twif.html) Jul 18, 2024
-* [Maps, emulators, croissants and changed keys](https://f-droid.org/en/2024/07/11/twif.html) Jul 11, 2024
-* [Soon to be modern](https://f-droid.org/en/2024/07/04/twif.html) Jul 04, 2024
+* [Voice your updates](https://f-droid.org/en/2024/09/05/twif.html) Sep 05, 2024
+* [It's all about self-hosting it](https://f-droid.org/en/2024/08/29/twif.html) Aug 29, 2024
+* [Playing with old apps](https://f-droid.org/en/2024/08/22/twif.html) Aug 22, 2024
+* [FOSS contributors' first step: translation](https://f-droid.org/en/2024/08/15/twif.html) Aug 15, 2024
+* [Stories about grants, stats and JCenter](https://f-droid.org/en/2024/08/08/twif.html) Aug 08, 2024
 
 ### Last Updated
 
-[![](https://f-droid.org/repo/org.purplei2p.i2pd/en-US/icon_s8LzOD_2B2FH6LSuaQfSFbLiiF-Hams5GCRkChgpWeo=.png)
+[![](https://f-droid.org/repo/v4lpt.vpt.c016.TPC/en-US/icon_nzOQ0s6eldQfoAvTspqS3f9vU9B456nOjvnzLr-XulQ=.png)
 
-#### i2pd
+#### Valentin's PowerTools #016 - Tomato Potato Clock
 
-Full-featured C++ implementation of I2P client](https://f-droid.org/en/packages/org.purplei2p.i2pd/)[![](https://f-droid.org/repo/org.piepmeyer.gauguin/en-US/icon_Pp0IthYj4RE6O_3BQcd_ApZWV8iNei9l_LspIKJIoak=.png)
+Distraction-free pomodoro timer](https://f-droid.org/en/packages/v4lpt.vpt.c016.TPC/)[![](https://f-droid.org/repo/ua.syt0r.kanji.fdroid/en-US/icon_WOSc49VcLgMELOmUR06ULIlzfKwH2sOslgW-JZ7UgoI=.png)
 
-#### Gauguin
+#### Kanji Dojo
 
-A Sudoku-like logic game](https://f-droid.org/en/packages/org.piepmeyer.gauguin/)[![](https://f-droid.org/repo/org.openhab.habdroid.beta/en-US/icon_MbJ4aGShNFnfKlhvFAVK16j1qoM_JBPo0xjNuwSsP_g=.png)
+Learn & practice writing Japanese characters](https://f-droid.org/en/packages/ua.syt0r.kanji.fdroid/)[![](https://f-droid.org/repo/ua.com.radiokot.photoprism/en-US/icon_W_5TnleHSiMH-MyytjFp3GcUAbzrps9k-6bgbWwryW8=.png)
 
-#### openHAB Beta
+#### Gallery for PhotoPrism
 
-Vendor and technology agnostic open source home automation](https://f-droid.org/en/packages/org.openhab.habdroid.beta/)
+An unofficial convenient gallery for your PhotoPrism library with plenty of usef](https://f-droid.org/en/packages/ua.com.radiokot.photoprism/)
 
-### App più recenti
+### Latest Apps
 
-[![](https://f-droid.org/repo/ac.mdiq.podcini.R/en-US/icon_O12aJDb4GhueOvrF174ocFnxMJHR8fItA0PRVR4ngVE=.png)
+[![](https://f-droid.org/repo/v4lpt.vpt.c016.TPC/en-US/icon_nzOQ0s6eldQfoAvTspqS3f9vU9B456nOjvnzLr-XulQ=.png)
 
-#### Podcini
+#### Valentin's PowerTools #016 - Tomato Potato Clock
 
-Riproduttore e gestore di podcast facile da usare, flessibile e open source.](https://f-droid.org/en/packages/ac.mdiq.podcini.R/)[![](https://f-droid.org/repo/org.opensurge2d.surgeengine/en-US/icon_y00XnoBPnodoJADb489FZtgOI5j5dU_rSk2Wp55eHrI=.png)
+Distraction-free pomodoro timer](https://f-droid.org/en/packages/v4lpt.vpt.c016.TPC/)[![](https://f-droid.org/repo/rocks.poopjournal.fucksgiven/en-US/icon_YCIwKb3mPGmMcdm6gDvkfFC7wyL6Wn7oxvJZTWmUtWA=.png)
 
-#### Open Surge: motore di gioco retrò
+#### Fucks Given
 
-Un motore di gioco retrò con un platform divertente per realizzare i tuoi sogni!](https://f-droid.org/en/packages/org.opensurge2d.surgeengine/)[![](https://f-droid.org/repo/com.game.asteroids_revenge/en-US/icon_WSTO3sD5p5YqIA_I-yfluQsBroCqaP6EOsZPIcFeQaY=.png)
+﻿Self-love is the greatest middle finger of all time.](https://f-droid.org/en/packages/rocks.poopjournal.fucksgiven/)[![](https://f-droid.org/repo/io.github.leonidius20.recorder.lite/en-US/icon_GPhAE7QOIY4nKgmaOOnn4ma9a7PLb1ucFMQj9rA_x_c=.png)
 
-#### La vendetta degli asteroidi
+#### Recording Studio Lite
 
-Inferno di proiettili di sopravvivenza senza fine (basato su punteggi elevati).](https://f-droid.org/en/packages/com.game.asteroids_revenge/)
+Audio recorder](https://f-droid.org/en/packages/io.github.leonidius20.recorder.lite/)
 
-© 2010-2024 F-Droid Contributors (F-Droid 2024-07-27, fdroid-website [2.245](https://gitlab.com/fdroid/fdroid-website/tree/c8ec380366)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
+© 2010-2024 F-Droid Contributors (F-Droid 2024-09-07, fdroid-website [2.260](https://gitlab.com/fdroid/fdroid-website/tree/f2168b5da9)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
