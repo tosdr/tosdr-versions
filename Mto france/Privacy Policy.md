@@ -45,6 +45,7 @@ PUBLIC - Menu principal
     * Services climatiques
         * [DRIAS, les futurs du climat](http://www.drias-climat.fr/ "Drias, les futurs du climat")
         * [DRIAS-Eau, les futurs de l'eau](https://www.drias-eau.fr/ "DRIAS, les futurs de l'eau")
+        * [Climadiag Agriculture](https://climadiag-agriculture.fr/ "Climadiag Agriculture")
         * [Climadiag Commune](https://meteofrance.com/le-changement-climatique/climadiag-commune "Climadiag Commune")
         * [Climadiag Chaleur en ville](https://meteofrance.com/le-changement-climatique/climadiag-chaleur-en-ville)
         * [Climadiag Entreprise](https://meteofrance.com/climadiag-entreprise "Climadiag Entreprise")
@@ -117,6 +118,7 @@ PUBLIC - Menu burger
     * [Services Climatiques](https://meteofrance.com/comprendre-climat "Services Climatiques")
         * [DRIAS, les futurs du climat](http://www.drias-climat.fr/ "Drias")
         * [DRIAS-Eau, les futurs de l'eau](https://www.drias-eau.fr/)
+        * [Climadiag Agriculture](https://climadiag-agriculture.fr/ "Climadiag Agriculture")
         * [Climadiag Commune](https://meteofrance.com/climadiag-commune "Climadiag Commune")
         * [Climadiag Chaleur en ville](https://meteofrance.com/le-changement-climatique/climadiag-chaleur-en-ville)
         * [Climadiag Entreprise](https://meteofrance.com/climadiag-entreprise "Climadiag Entreprise")
@@ -202,7 +204,7 @@ Suivez-nous
 Politique de Confidentialité
 ============================
 
-30/07/2024
+10/09/2024
 
 Relativement à ses activités, Météo-France est amené à traiter des données à caractère personnel vous concernant. A ces fins, nous nous engageons à respecter les réglementations en vigueur concernant la protection des données à caractère personnel, soit la loi informatique et libertés n°78-17 du 6 janvier 1978, ainsi que le Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016.
 
@@ -376,8 +378,6 @@ VIII. COOKIES
 
 Pour toutes les informations relatives à l'utilisation des cookies par Météo-France, vous pouvez consulter la page sur la [gestion des cookies](https://meteofrance.com/gestion-des-cookies).
 
-[![Participez au concours photo l'oeil du climat](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Participez au concours photo l'oeil du climat")](https://www.geo.fr/page/concours-photo-climat)
-
 Top 20 des villes les plus consultées
 
 * [METEO PARIS](https://meteofrance.com/previsions-meteo-france/paris/75000 "METEO PARIS")
@@ -417,8 +417,7 @@ Menu Bas de page
 * [Politique de Confidentialité](https://meteofrance.com/politique-de-confidentialite "Politique de Confidentialité")
 * [Droits de Reproduction](https://meteofrance.com/droits-de-reproduction "Droits de Reproduction")
 * [Consentement](https://meteofrance.com/ "Consentement")
-* [Accessibilité](https://meteofrance.com/accessibilite "Accessibilité Site Météo-France")
-* [Autres Sites](https://meteofrance.com/autres-sites "Autres Sites Internet de Météo-France")
+* [Accessibilité : partiellement conforme](https://meteofrance.com/accessibilite "Accessibilité Site Météo-France")
 * [Contact](https://meteofrance.com/contact "Contacter Météo-France")
 
 ![République française](/themes/custom/theme_public/dist/img/marianne.svg "République française")
