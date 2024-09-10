@@ -5,7 +5,7 @@
 * Shop
     
 * [Droplist](https://www.joinhoney.com/features/droplist)
-* [Honey Gold](https://www.joinhoney.com/features/honeygold)
+* [Rewards](https://www.joinhoney.com/features/paypalrewards)
 * [Earn Gift Cards](https://www.joinhoney.com/invite)
 
 JoinLog in
@@ -13,148 +13,128 @@ JoinLog in
 Terms of Use
 ------------
 
-### Last updated February 16, 2024
+### Last updated January 16, 2024
 
 Introduction
 
-These Terms of Use (the "Agreement") are a contract between you and Honey Science LLC ("Honey") and govern your access to and use of the Honey mobile application (the "Honey Mobile App"), the Honey browser extension, the Honey website located at www.joinhoney.com and all other Honey-branded websites (each, a "Website"), and other software applications and online services provided by Honey (collectively, the "Service").
+These Terms of Use (the "Agreement") are a contract between you and PayPal, Inc. (“PayPal”) and govern your access to and use of the PayPal Honey mobile application (the "PayPal Honey Mobile App"), the PayPal Honey browser extension (the “PayPal Honey Extension”), the PayPal Honey website located at www.joinhoney.com and all other PayPal Honey-branded websites (each, a "Website"), and other software applications and online services provided by PayPal Honey (collectively, the "Service").
 
-Users Based Outside the UK
+PLEASE NOTE:
 
-If you are based in Europe but outside the UK you agree to the applicable supplemental terms that are included at the end of this Agreement, so please review them carefully.
+* To receive cash back, you must redeem PayPal Rewards Points earned through use of the Service and have a PayPal account in good standing that is linked to your PayPal Honey Account (as defined below).
+    
+* While Points may be redeemed for cash back, other redemption options are available. You are not required to redeem your Points for cash back. Points are not money and have no value prior to redemption. Points can only be earned on eligible purchases.
+    
+* Points can expire. To prevent expiration, you must have an active account and earn at least 10 points during each consecutive 365-day period (for example, from April 10th of this year to April 10th of next year). This means that if you have not earned at least 10 new points in the last 365-Day period, your points will expire. For more information about the PayPal Rewards Program, read the [PayPal Rewards Program Agreement](https://www.paypal.com/us/legalhub/pp-rewards-program-tnc).
+    
 
-If you are based in the United States, Canada, Australia, or New Zealand, or anywhere else outside of Europe or the UK, then the applicable Terms of Use that govern your use of the Service are set forth here: [www.joinhoney.com/terms/us](https://www.joinhoney.com/terms/us)
+Users Based Outside the United States
+
+If you are based in the UK or Europe, then the applicable Terms of Use that govern your use of the Service are set forth here: [https://www.joinhoney.com/terms/eu](https://www.joinhoney.com/terms/eu).
 
 If you are based in Poland, then the applicable Terms of Use that govern your use of the Service are set forth here: [https://www.joinhoney.com/pl/terms/eu](https://www.joinhoney.com/pl/terms/eu).
 
+If you are based outside of the United States, UK, Europe or Poland, then the applicable Terms of Use that govern your use of the Service are set forth here: [https://www.joinhoney.com/terms/row](https://www.joinhoney.com/terms/row).
+
 Accepting the Terms
 
-By using any portion of the Service, you agree to comply with and be bound by this Agreement. This Agreement applies to you regardless of whether you are a "Member" (which means you have created an account with Honey) or are a "Visitor" (which means that you are using the Service but have not created an account with Honey). The terms "you" or "User" refers to a Visitor or a Member. The terms "we" or "our" refers to Honey. You must be an individual and at least 18 years old, or the age of majority in your state or country of residence, to use the Service. You may not use the Service or accept this Agreement if you are not of a legal age and able and competent to form a binding contract with Honey. If you use the Service, you represent that you have the capacity to be bound by this Agreement. The Service is for personal, non-commercial use. You agree that you are not using the Service for or on behalf of any third-party or for any commercial purpose.
+By using any portion of the Service, you agree to comply with and be bound by this Agreement. This Agreement applies to you regardless of whether you are a "Member" (which means you have created an account with PayPal for the Service (“PayPal Honey Account”) or are a "Visitor" (which means that you are using the Service but have not created a PayPal Honey Account). The term "you" or "User" refers to a Visitor or a Member. The terms "we" or "our" or "us" refer to PayPal. You must be an individual and at least 18 years old, or the age of majority in your state, province, or country of residence, to use the Service. You may not use the Service or accept this Agreement if you are not of a legal age and able and competent to form a binding contract with PayPal. If you use the Service, you represent that you have the capacity to be bound by this Agreement. The Service is for personal, non-commercial use. You agree that you are not using the Service for or on behalf of any third-party, or for any commercial purpose.
+
+THIS AGREEMENT CONTAINS (1) AN ARBITRATION PROVISION; (2) A WAIVER OF RIGHTS TO BRING A CLASS ACTION LAWSUIT AGAINST US; AND (3) A RELEASE BY YOU OF CLAIMS FOR DAMAGE AGAINST US THAT MAY ARISE OUT OF YOUR USE OF THE SERVICE, TO THE GREATEST EXTENT PERMITTED BY APPLICABLE LAW. BY USING THE SERVICE, YOU AGREE TO THESE PROVISIONS.
 
 Amendments to this Agreement
 
-Honey may modify this Agreement from time to time. Any and all changes to this Agreement will be posted on [https://www.joinhoney.com/terms/eu](https://www.joinhoney.com/terms/eu), and will be effective at the time of posting, unless otherwise noted. If our changes reduce your rights or increase your responsibilities, we will provide a notice to you of at least 30 days (by email and/or by way of other reasonable means, such as by posting notice of the changes on our Website). In addition, the Agreement will always indicate the date it was last revised. You further understand and agree that a different entity of the PayPal Group may provide the Honey service to you in the future, and will become your contractual partner for this Agreement. For purposes of this Agreement, a legal entity is a member of the “PayPal Group” if it is owned or controlled by PayPal Holdings, Inc. In this event, we will provide you with reasonable notice of the change.
-
-By continuing to use our services after any changes to this Agreement take effect, you agree to be bound by those changes. If you do not agree to the changes, you are free to exercise your right to stop using the Service and terminate this Agreement.
+PayPal may amend this Agreement or other policies that govern the Service from time to time. Any changes to the Agreement will be posted to [https://www.joinhoney.com/terms/us](https://www.joinhoney.com/terms/us), and the posted Agreement will indicate the date the Agreement was last revised. If you do not agree to the changes, you must uninstall any applicable PayPal software and stop using the Service. By continuing to use the Service after any changes to this Agreement are posted on the Website, you agree to be bound by those changes.
 
 Privacy and your Personal Information
 
-The Service is subject to Honey’s privacy and data protection practices (our "Privacy Policy"). Please read Honey’s Privacy Policy found at [www.joinhoney.com/privacy](https://www.joinhoney.com/privacy). Our Privacy Policy explains how Honey collects, uses and shares your information when you visit our Website, use the Honey Mobile App or otherwise access the Service.
+The Service is subject to PayPal's privacy and data protection practices (the “PayPal Honey US Privacy Statement"). Please read [PayPal Honey's US Privacy Statement](https://www.joinhoney.com/privacy/us) found at https://www.joinhoney.com/privacy/us. Our PayPal Honey US Privacy Statement explains how PayPal collects, uses and shares your information when you visit our Website, use the PayPal Honey Mobile App or otherwise access the Service. By using the Service, you consent to PayPal's collection, use, and sharing of your information as set forth in the PayPal Honey US Privacy Statement.
 
 Description of the Service
 
-The Service includes a suite of tools that allows Users to search for deals, coupons (or vouchers), discount codes, and exclusive offers, to learn pricing and product information, and to look for savings when shopping online. As described in more detail below, Members can also use the Service to earn Honey Gold loyalty rewards points (as defined below). Honey offers a variety of ways to access aspects of our Service, including the Website, browser extension and, in some countries, the Honey Mobile App. Not all aspects of our Service will be available through all channels or in all locations. For example, some aspects of our Service may only be available through the Honey browser extension, or for users in certain countries.
+The Service includes a suite of tools that allows Users to search for deals, coupons, discount codes, and exclusive offers, to learn pricing and product information, and to look for savings when shopping online. As described in more detail in the PayPal Rewards Program Agreement, Members can also use the Service to earn PayPal Rewards Points. PayPal offers a variety of ways to access aspects of our Service, including the Website, browser extension and, in some countries, the PayPal Honey Mobile App. Not all aspects of our Service will be available through all channels or in all locations. For example, some aspects of our Service may only be available through the PayPal Honey Extension, or for users in certain countries.
 
-In addition, you must become a Member to access some portions of our Service, including to earn and redeem Honey Gold loyalty rewards points.
+In addition, you must become a Member to access some portions of our Service, including to earn and redeem PayPal Rewards Points. Additionally, certain redemption options may also require a PayPal account.
 
-Honey does not charge fees to you for its Service. We try and locate the best publicly available discounts and coupons, track product pricing and negotiate exclusive offers that may be better than other publicly available deals. We make money to sustain the Service when you purchase or engage with these offers.
+PayPal does not charge fees to you for its Service. We try and locate the best publicly available discounts and coupons, track product pricing, and negotiate exclusive offers that may be better than other publicly available deals. We make money to sustain the Service when you purchase or engage with these offers. While we try and find you the best available discounts and coupons, and to identify low prices, we may not always find you the best deal. PayPal is not responsible for any missed savings or rewards opportunities.
 
-While we try and find you the best available discounts and coupons, and to identify low prices, we may not always find you the best deal. Honey is not responsible for any missed savings or rewards opportunities.
-
-While we attempt to provide accurate descriptions for the products, offers, coupons, discount codes, sales and other information shown within or through the Service, some of the information we display (including many coupons and offer descriptions) is provided to us by third-parties. While we do undertake checks pertaining to the validity of such information, we do not warrant that the product descriptions, third-party offers or discount codes, or related merchant information or terms shown through the Service (including the browser extension, Website, Honey Mobile App or emailed offers) are necessarily accurate, complete, reliable, current, or error-free. The inclusion of any products within the Website or Honey Mobile App at a particular time does not imply or warrant that these products will be available at any other time.
+While we attempt to provide accurate descriptions for the products, offers, coupons, discount codes, sales and other information shown within or through the Service, much of the information we display (including many coupons and offer descriptions) is provided by third parties that we do not control. We do not warrant that the product descriptions, third-party offers or discount codes, or related merchant information or terms shown through the Service (including the browser extension, Website, PayPal Honey Mobile App or emailed offers) are accurate, complete, reliable, current, or error-free. The inclusion of any products within the Website or PayPal Honey Mobile App at a particular time does not imply or warrant that these products will be available at any other time.
 
 Offers, coupons, and discount codes are provided subject to availability. Exclusions, restrictions, and terms and conditions (including third-party merchant exclusions, restrictions, and terms and conditions) may apply. Deals change often, and due to this, your application of offers, coupons and discount codes at checkout may or may not result in savings for your order.
 
-Merchant Websites and Purchases
-
-The Service allows you to view information about products listed for sale by third-party merchants online, find offers on those products, and track pricing information. Honey may provide product information and savings opportunities through our browser extension when you are on a third-party merchant’s website. You may also reach a third-party merchant website through a link from the Website or emailed offer, or a merchant website may be displayed to you through the Honey Mobile App. However, in all cases any merchant product will be purchased directly from the merchant and through the merchant’s website. You are not buying the product from or through Honey. Honey is not a re-seller or distributor of any products of third-party merchants.
-
 Merchant Returns
 
-If you are unhappy with your merchant product purchase, if you wish to return your merchant product, if you ordered a merchant product and it has not arrived, or if you have another customer service inquiry regarding your purchased merchant product, you will need to contact the third-party merchant from whom you purchased the product. Honey is not involved in your merchant product purchase and is not able to assist with any customer service enquiries or returns related to that purchase. To assist you with customer service concerns, Honey may, for some merchants, include the merchant’s contact information within the Honey Mobile App.
+If you are unhappy with your merchant product purchase, if you wish to return your merchant product, if you ordered a merchant product and it has not arrived, or if you have another customer service inquiry regarding your purchased merchant product, you will need to contact the third-party merchant from whom you purchased the product. PayPal is not involved in your merchant product purchase and is not able to assist with any customer service inquiries or returns related to that purchase. To assist you with customer service concerns, PayPal may, for some merchants, include the merchant's contact information within the PayPal Honey Mobile App.
 
-Honey Offers and Third-Party Links
+PayPal Offers and Third-Party Links
 
-Honey may display to you "Honey Offers" and other personalised and non-personalised pricing and product information regarding goods and services offered by third-party merchants. These offers and product information may be provided in several ways, including as links to third-party websites or as coupons or discount codes you can apply to your purchase of products offered by third-party merchants. In order to improve our services, Honey may track how you use the services we provide, including whether you click-on Honey links to third-party websites, your actions on those third-party merchant websites, and whether you use the discount or coupon codes displayed by Honey.
+PayPal may display to you PayPal Honey offers and other personalized and non-personalized pricing and product information regarding goods and services offered by third-party merchants. These offers and product information may be provided in several ways, including as links to third-party websites or as coupons or discount codes you can apply to your purchase of products offered by third-party merchants.
 
-Honey Is Not Responsible for Third-Parties
+Additionally, PayPal may display to you certain product-specific offers, which may offer you a specific amount of Rewards Points if you purchase a specific item from a specific third-party merchant ("PayPal Honey Offers"). Not all PayPal Honey Offers will be available on all devices, web browsers, or through all channels. For example, we may display a specific PayPal Honey Offer to you on your mobile phone, but that same offer may not be available to you via your desktop computer or other device. Similarly, we may display a specific PayPal Honey Offer to you while you are using a particular web browser, but that same PayPal Honey Offer may not be available to you via a different web browser or through a different channel, such as the PayPal Honey Mobile App. If shown a PayPal Honey Offer, you must follow the instructions displayed to you on that device and channel (and if, applicable, in the same web browser which the PayPal Honey Offer was displayed to you in) in order to take advantage of the offer.
 
-All products you purchase from a third-party merchant, including those linked from the Website or Honey emailed offer, or displayed through the Honey Mobile App or through the Honey browser extension, are: (a) priced by the applicable third-party merchant (including whether such prices include applicable taxes, and any additional fees, such as shipping and handling); and (b) fulfilled, shipped, and otherwise serviced (including but not limited to the processing of returns, refunds, and cancellations) by the applicable third-party merchant and not by Honey. Honey is not responsible for any third-party merchant products, or any information contained on the third-party merchant’s website (including if the third-party merchant’s website is displayed through the Honey Mobile App).
+To improve our services, PayPal may track how you use the services we provide, including whether you click on PayPal links to third-party websites, your actions on those third-party merchant websites, and whether you use the discount or coupon codes displayed by PayPal.
 
-You agree that your purchase from a third-party merchant is subject to such merchant’s own terms and conditions applicable to such purchase. You agree that Honey is in no way responsible or liable to you for any products you purchase through or using the Service, including for any product liability claim, improper charges, delivery failures, pricing errors, or inaccurate product descriptions. You acknowledge and agree that Honey is not liable or otherwise responsible for any breaches of credit card or debit card security or privacy by any third-party merchants.
+PayPal Is Not Responsible for Third Parties
 
-Honey does not endorse, warrant or guarantee the products or services that are displayed through the Service, including through Honey Offers and other advertised links to third-party websites. Honey is not an agent, distributor, re-seller, broker or otherwise responsible for third-party merchants or the activities or policies of those merchant websites or the products or services available on them. Honey does not promise or guarantee that the product details, prices, coupon availability or other service terms, rates or rewards offered by any particular advertiser or other third-party via our Service are the best prices, best terms or lowest rates available in the market.
+All products you purchase from a third-party merchant, including those linked from the Website or PayPal emailed offer, or displayed through the PayPal Honey Mobile App or through the PayPal Honey Extension, are: (a) priced by the applicable third-party merchant (including whether such prices include applicable local, provincial, state, or federal taxes, and any additional fees, such as shipping and handling); and (b) fulfilled, shipped, and otherwise serviced (including but not limited to the processing of returns, refunds, and cancellations) by the applicable third-party merchant and not by PayPal. PayPal is not responsible for any third-party merchant products or any information contained on the third-party merchant's website (including if the third-party merchant's website is displayed through the PayPal Honey Mobile App).
 
-When you access third-party websites through our Service, you accept that there are risks in doing so, and that Honey is not responsible for such risks. We encourage you to be aware when you are on a third-party merchant website and to read the terms and conditions and privacy policy of each third-party website or service that you visit or utilise.
+You agree that your purchase from a third-party merchant is subject to such merchant's own terms and conditions applicable to such purchase. You agree that PayPal is in no way responsible or liable to you for any products you purchase through or using the Service, including for any product liability claim, improper charges, delivery failures, pricing errors, or inaccurate product descriptions. You acknowledge and agree that PayPal is not liable or otherwise responsible for any breaches of credit card or debit card security or privacy by any third-party merchants.
 
-Honey has no control over, and assumes no responsibility for, the content, accuracy, privacy policies, or practices or opinions expressed in any third-party websites or by any third-party that you interact with through the Service. In addition, Honey will not and cannot monitor, verify, censor or edit the content of any third-party site or service. By using the Service, you release and hold us harmless from any and all liability arising from your use of any third-party website or service.
+PayPal does not endorse, warrant or guarantee the products or services that are displayed through the Service, including through PayPal Honey Offers and other advertised links to third-party websites. PayPal is not an agent, distributor, re-seller, broker or otherwise responsible for third-party merchants or the activities or policies of those merchant websites, or the products or services available on them. PayPal does not promise or guarantee that the product details, prices, coupon availability or other service terms, rates or rewards offered by any particular advertiser or other third party via our Service are the best prices, best terms or lowest rates available in the market.
 
-If you have a dispute with any third-party (including a merchant from whom you purchase a product in connection with the Service), you agree that Honey is under no obligation to become involved. To the maximum extent permitted by applicable law, you release Honey, our parent company PayPal, Inc., our affiliates, and each of their respective officers, employees, agents, and successors from claims, demands, and damages of every kind or nature, known or unknown, suspected or unsuspected, disclosed or undisclosed, arising out of or in any way related to any dispute you have with a third-party in connection with the Service.
+When you access third-party websites through our Service, you accept that there are risks in doing so, and that PayPal is not responsible for such risks. We encourage you to be aware when you are on a third-party merchant website and to read the terms and conditions and privacy policy of each third-party website or service that you visit or utilize.
 
-Honey Mobile App
+PayPal has no control over, and assumes no responsibility for, the content, accuracy, privacy policies, or practices or opinions expressed in any third-party websites or by any third-party that you interact with through the Service. In addition, PayPal will not and cannot monitor, verify, censor or edit the content of any third-party site or service.
 
-The Honey Mobile App is only available for users in certain countries and may not currently be available in your country or location.
+By using the Service, you release and hold us harmless from any and all liability arising from your use of any third-party website or service. If you have a dispute with any third-party (including a merchant from whom you purchase a product in connection with the Service), you agree that PayPal is under no obligation to become involved. To the maximum extent permitted by applicable law, you release PayPal, its affiliates, and each of their respective officers, employees, agents, and successors from claims, demands, and damages of every kind or nature, known or unknown, suspected or unsuspected, disclosed or undisclosed, arising out of or in any way related to any dispute you have with a third-party in connection with the Service. If you are a California resident, you shall and hereby do waive California Civil Code Section 1542, which says: "A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS THAT THE CREDITOR OR RELEASING PARTY DOES NOT KNOW OR SUSPECT TO EXIST IN HIS OR HER FAVOR AT THE TIME OF EXECUTING THE RELEASE AND THAT, IF KNOWN BY HIM OR HER, WOULD HAVE MATERIALLY AFFECTED HIS OR HER SETTLEMENT WITH THE DEBTOR OR RELEASED PARTY."
 
-The Honey Mobile App works on an application linked to a particular device and operating system, such as Apple's iOS operating system. Your use of the Honey Mobile App may be subject to separate agreements you may enter into with your mobile device operating system provider (e.g., Apple®, Google® or Microsoft® your mobile device manufacturer (e.g., Apple®, Samsung®), your mobile service carrier (e.g., AT&T® or Verizon®), and other parties involved in providing your mobile device service (which we individually refer to as a “Covered Third Party” and which we collectively refer to as "Covered Third Parties"). You agree to comply with all applicable third-party terms of service when using the Honey Mobile App. We are not a party to those agreements and we have no responsibility for the products and services provided by third parties. You acknowledge and agree that this agreement is between you and Honey, not with any Covered Third Party. You acknowledge and agree that we (and not any Covered Third Party) are solely responsible for the Honey Mobile App and for providing any maintenance or support services for the Honey Mobile App.
+Gift Cards
 
-Covered Third Parties have no warranty obligations whatsoever with respect to the Honey Mobile App and any other claims, losses, liabilities, damages, costs or expenses attributable to any failure of the Honey Mobile App to conform to any warranty provided by us, if any, will be our sole responsibility.
+Third-party gift cards made available as a redemption option as part of the PayPal Rewards Program are subject to the terms and conditions of the applicable merchant and/or the merchant's card issuer. Gift cards and card balances are issued by (and are solely the liabilities of) the merchant or its card issuer and not PayPal. You agree that PayPal is not responsible for any gift card program, is not the issuer of any gift cards, is not the holder of any liabilities related to unredeemed gift cards, and makes no representations or warranties regarding the gift cards available through PayPal or the products and services you purchase with any such gift card. All gift card sales are final and non-refundable.
 
-We, not any Covered Third Parties, are responsible for addressing any claims relating to the Honey Mobile App, including, but not limited to: (i) product liability claims; (ii) any claim that the Honey Mobile App fails to conform to any applicable legal or regulatory requirement; (iii) claims arising under consumer protection, privacy, or similar legislation; and (iv) intellectual property claims.
+PayPal Honey Checkout
 
-If you are using the Honey Mobile App on an Apple® or Google® device, you acknowledge and agree that Apple® or Google® (as applicable), and their subsidiaries (as applicable), are third party beneficiaries of this Agreement, and that they will have the right (and will be deemed to have accepted the right) to enforce this agreement against you as a third party beneficiary. Such rights may also accrue to other handset manufacturers and operating systems which participate in the Honey Mobile App.
+PayPal Honey Checkout is only available for users in certain countries and may not currently be available in your country or location.
 
-To the extent the other terms and conditions of the rest of this Agreement conflict with the terms and conditions of this section, the terms and conditions in this section apply, but solely with respect to your use of the Honey Mobile App downloaded from the Apple App Store or Google Play Store.
+If you are located in the United States or in another country where PayPal Honey Checkout is available, you may be able to use PayPal Honey Checkout for a simpler merchant checkout experience when shopping online. The first time you use PayPal Honey Checkout, you may be asked to provide payment credentials (e.g., a credit card number, CVV/CVC code and expiration date). You authorize us to store those payment credentials for you so that any time you use PayPal Honey Checkout, you can automatically use your preferred payment information to complete checkout. Your checkout will still be directly with the applicable merchant. We are not responsible for any goods or services you purchase using PayPal Honey Checkout.
+
+You represent and warrant that the payment credentials you provide are accurate and that you are authorized to charge transactions to the account represented by those credentials. You should keep your payment credentials up to date through your PayPal Honey Account. You can also delete your payment information from your PayPal Honey Account at any time. Deleting your payment information will not affect any transaction that you already authorized.
+
+If you store payment credentials with PayPal Honey Checkout, it is important that you secure your log-in information, including your password, to prevent unauthorized use of or access to those payment credentials. Once enabled, PayPal Honey Checkout is always active on any device where you are logged into your PayPal Honey Account through the PayPal Honey Extension. This means that payments may be completed using your payment credentials with PayPal Honey Checkout on that device, so you should secure your device and/or log out of your PayPal Honey Extension when not using your device in order to help prevent unauthorized use of or access to the payment credentials you have stored in PayPal Honey Checkout.
+
+PayPal Honey Mobile App
+
+The PayPal Honey Mobile App is only available for users in certain countries and may not currently be available in your country or location.
+
+The PayPal Honey Mobile App works on an application linked to a particular device and operating system, such as Apple's iOS operating system. Your use of the PayPal Honey Mobile App may be subject to separate agreements you may enter into with your mobile device operating system provider (e.g., Apple®, Google® or Microsoft®), your mobile device manufacturer (e.g., Apple®, Samsung®), your mobile service carrier (e.g., AT&T® or Verizon®), and other parties involved in providing your mobile device service (which we individually refer to as a "Covered Third Party" and which we collectively refer to as "Covered Third Parties"). You agree to comply with all applicable third-party terms of service when using the PayPal Honey Mobile App. We are not a party to those agreements and we have no responsibility for the products and services provided by third parties. You acknowledge and agree that this agreement is between you and PayPal, not with any Covered Third Party. You acknowledge and agree that we (and not any Covered Third Party) are solely responsible for the PayPal Honey Mobile App and for providing any maintenance or support services for the PayPal Honey Mobile App.
+
+Covered Third Parties have no warranty obligations whatsoever with respect to the PayPal Honey Mobile App, and any other claims, losses, liabilities, damages, costs or expenses attributable to any failure of the PayPal Honey Mobile App to conform to any warranty provided by us (if any), will be our sole responsibility.
+
+We, not any Covered Third Parties, are responsible for addressing any claims relating to the PayPal Honey Mobile App, including, but not limited to: (i) product liability claims; (ii) any claim that the PayPal Honey Mobile App fails to conform to any applicable legal or regulatory requirement; (iii) claims arising under consumer protection, privacy, or similar legislation; and (iv) intellectual property claims.
+
+If you are using the PayPal Honey Mobile App on an Apple® or Google® device, you acknowledge and agree that Apple® or Google® (as applicable), and their subsidiaries (as applicable), are third party beneficiaries of this Agreement, and that they will have the right (and will be deemed to have accepted the right) to enforce this agreement against you as a third-party beneficiary. Such rights may also accrue to other handset manufacturers and operating systems which participate in the PayPal Honey Mobile App.
+
+To the extent the other terms and conditions of the rest of this Agreement conflict with the terms and conditions of this section, the terms and conditions in this section apply, but solely with respect to your use of the PayPal Honey Mobile App downloaded from the Apple App Store or Google Play Store.
 
 Account Information from Third Party Sites
 
-When you establish an account with Honey, we may allow you to register your account, log-in, or otherwise link your Honey account with an account you maintain with a third-party, such as Facebook or Google ("Linked Account"). You represent that any Linked Account belongs to you and you are permitted to link it to your Honey account. Honey does not control the policies and practices of any third-party site or service, including any Linked Account you connect to the Service and Honey is not responsible for any actions or omissions of providers of a Linked Account, including related to accuracy, legality or non-infringement. Honey is not responsible for the products and services offered by or through your Linked Account. If permitted by your Linked Account, Honey may import information from your Linked Accounts to help better offer the Service to you.
+When you establish a PayPal Honey Account, we may allow you to register your account, log-in, or otherwise link your PayPal Honey Account with an account you maintain with a third-party, such as Facebook® or Google® ("Linked Account"). You represent that any Linked Account belongs to you and you are permitted to link it to your PayPal Honey Account. PayPal does not control the policies and practices of any third-party site or service, including any Linked Account you connect to the Service and PayPal is not responsible for any actions or omissions of providers of a Linked Account, including related to accuracy, legality or non-infringement. PayPal is not responsible for the products and services offered by or through your Linked Account. If permitted by your Linked Account, PayPal may import information from your Linked Accounts to help better offer the Service to you.
 
-Honey Gold Rewards Program
+PayPal Rewards Program
 
-We may from time to time make our loyalty rewards points ("Honey Gold loyalty rewards points") available to you when you complete certain actions through our Service, as part of our loyalty rewards program (the “Honey Gold Rewards Program”). When Honey Gold loyalty rewards points are available for eligible purchases made from a particular merchant, or for another action, we may indicate this to you within our Service.
-
-You must have an Active Account (as defined below) in good-standing to participate in the Honey Gold Rewards Program, and to earn and redeem Honey Gold loyalty rewards points or receive the benefits of the Honey Gold Rewards Program. Certain Honey Gold loyalty rewards points redemption options may also require that you have a valid PayPal account in good-standing linked to your Honey account in order to select and successfully complete a particular redemption option.
-
-The Honey Gold Rewards Program is not available in all countries or locations. Participation in the Honey Gold Rewards Program is unauthorized in any jurisdiction where any portion of the program may violate (or may cause Honey to violate) any legal requirements, and you agree not to participate if you are a resident of any such jurisdiction. The Honey Gold Rewards Program is for personal, non-commercial use. You agree that you are not using (and will not use) the Honey Gold Rewards Program for or on behalf of any third party, for any company, association, or group, or for any commercial purpose. You further agree that you will not participate in the Honey Gold Rewards Program using multiple Honey accounts as a means of avoiding any prohibition of this Agreement or to earn Honey Gold loyalty rewards points in excess of that which would otherwise be permitted under this Agreement.
-
-You agree that Honey’s decisions regarding the Honey Gold Rewards Program and your participation in it are final and binding and you agree to abide by all such decisions. Honey will be the sole arbiter in cases of suspected abuse, fraud, or violation of its rules and any decision it makes relating to termination, suspension, or disabling of your participation in the Honey Gold Rewards Program and/or the expiration of any Honey Gold loyalty rewards points or other program benefits.
-
-The most common way for you to earn Honey Gold loyalty rewards points is by making an eligible purchase from one of the participating third-party merchants while using our Service. Honey Gold loyalty rewards points are not available for all third-party merchants or items.
-
-If a third-party merchant site is participating in the Honey Gold Rewards Program, you can earn Honey Gold loyalty rewards points based on the eligible items that you purchase from that third-party merchant. You must follow the links and instructions as disclosed within the Service or in other Honey Gold Rewards Program materials, in order to complete the eligible purchase and/or complete any other qualifying or required action(s) (for example, by clicking the “Activate Rewards” button from within the Honey browser extension before completing your purchase).
-
-We may display to you the amount or range of Honey Gold loyalty rewards points which you may earn in connection with an eligible purchase in a number of ways, including but not limited to: (1) a fixed percentage reward rate applicable for eligible purchases (for example, 3% in Honey Gold loyalty rewards points based on the subtotal of eligible items), (2) a percentage reward rate range applicable for eligible purchases (for example, 1-4% in Honey Gold loyalty rewards points based on the subtotal of eligible items), (3) a fixed number of points for an eligible purchase (for example, 500 Honey Gold loyalty rewards points), or (4) a range of Honey Gold loyalty rewards points for an eligible purchase (for example, 300-500 points). If displaying a percentage reward rate or percentage reward rate range, the relevant percentage is applied to the subtotal of eligible items purchased from a participating third-party merchant, excluding tax or any additional fees such as shipping. You can only earn Honey Gold loyalty rewards points on eligible purchases, and certain items, product categories, and purchases are ineligible for Honey Gold loyalty rewards points. Exclusions vary by merchant. Except for certain product-specific offers, we generally won’t be able to determine if the item(s) you have purchased are eligible for Honey Gold loyalty rewards points until after you make your purchase.
-
-The exact number of Honey Gold loyalty rewards points that can be earned on an eligible purchase will be assigned by Honey based on your eligible items after you complete your purchase, but, subject to the terms of this Agreement and provided all of your items are eligible, will fall within the range or up to the maximum number disclosed to you, and will be based on a number of factors of our choosing, which may include random chance.
-
-We may also offer other ways to earn Honey Gold loyalty rewards points. Such earning opportunities may be subject to additional terms, as specified at the time of the offer. Honey Gold loyalty rewards points appear as pending in your Account Overview, generally within 2-14 days of completing your purchase, although this may vary based on the transaction and third-party merchant. This will occur before we have verified that all items of your purchase are eligible for Honey Gold loyalty rewards points. Honey Gold loyalty rewards points will remain pending for approximately 60-90 days (although this varies based on the third-party merchant and may be longer or shorter in some instances). If part or all of your purchase is ineligible for Honey Gold loyalty rewards points, or if you do return all or part of your purchase or receive a refund on it (either through the merchant or via a chargeback or reversal of any kind), the number of Honey Gold loyalty rewards points you receive on your purchase, whether or not showing as "pending," will be reduced accordingly based on the new subtotal of eligible items. If there are no eligible items in your order, you will not earn any Honey Gold loyalty rewards points on that transaction or order. You will not earn Honey Gold loyalty rewards points for any items that you return.
-
-Honey Gold loyalty rewards points that are pending cannot be used or redeemed. You will be able to see in your Account Overview when Honey Gold loyalty rewards points are no longer pending and become available to redeem.
-
-We are able to provide Honey Gold loyalty rewards points to you based on our agreements with third-party affiliate networks and/or third-party merchants in connection with your purchases. As such, we can only provide Honey Gold loyalty rewards points to you when an action is successfully completed and tracked and after the relevant third-party completes its obligations to us with respect to such action. If the relevant third-party does not fulfil its obligations to us under the applicable agreement, then Honey may choose not to provide the Honey Gold loyalty rewards points associated with that transaction to you. This includes instances where there are difficulties in tracking a transaction due to your use of an ad blocker or another service similar to Honey. This could occur if, for example, you have downloaded another browser extension that provides a service similar to Honey or navigated to a third-party merchant site by clicking on a link from another website that provides discount codes or price tracking services.
-
-If you have questions or issues in connection with earning Honey Gold loyalty rewards points for your transaction, please contact us at gold@joinhoney.com. We may require you to provide copies of your order confirmation, order number, or other proof of purchase. We may elect to provide you Honey Gold loyalty rewards point based on the information you provide.
-
-Provided your account is active and in good standing, once you accumulate enough Honey Gold loyalty rewards points, you can redeem those Honey Gold loyalty rewards points for a third-party merchant gift card, or for other available redemption options as disclosed within the Service. You may be required to collect a minimum amount of Honey Gold loyalty rewards points, as disclosed within our Service, prior to being eligible for a particular redemption option. Selection of merchant gift cards may vary based on availability. Use of a third-party merchant gift card at a selected merchant will be subject to such merchant’s and/or the gift card issuer’s own terms of service. For the avoidance of doubt, gift cards may only be used at the named merchant on the gift card, and not at several merchants. All redemptions are final and cannot be reversed once initiated by you. We may place other limitations on your ability to redeem Honey Gold loyalty rewards points. We may change the price, redemption-rate or availability of any item for which you may redeem Honey Gold loyalty rewards points and without prior notice. We may also offer additional redemption options from time to time, as disclosed within our Service which may include:
-
-* PayPal shopping voucher: Provides a specified discount on future eligible purchases paid for using PayPal (may not be withdrawn from PayPal or transferred to PayPal users other than in connection with an eligible purchase). PayPal shopping vouchers are subject to the [PayPal Shopping Voucher Terms and Conditions](https://help.joinhoney.com/article/354-paypal-shopping-voucher-terms-and-conditions-eu), which are incorporated into this Agreement by reference.
-    
-
-Redemption options are offered subject to availability, and may vary based on your location, and other limitations or factors, and may be subject to additional specific terms or limitations. Not all redemption options are available for all users, or in all locations or countries. Available redemption options for you will be displayed to you within the Service. Once a particular redemption is initiated, by you, it may take a certain amount of time for you to receive your award following completion of your redemption (for example, 24 hours, but this may be longer in some instances depending on the particular redemption option).
-
-In the event that gift cards allow for charitable contributions, Honey shall not be responsible for providing a certificate of accreditation.
-
-Honey Gold loyalty rewards points cannot be purchased, are not your property, are not money, can expire as described below, and have no value prior to redemption. Upon redemption, additional terms may apply. Honey Gold loyalty rewards points are not transferrable under any circumstances (except where Honey expressly makes transfer or account linking functionality available within the Honey Gold Rewards Program, and then subject to any additional terms or limitations set out by Honey). Without limiting the foregoing, Honey Gold loyalty rewards points are not descendible, and may not be transferred by operation of law (including via inheritance, bankruptcy, or in the event of divorce). It is your responsibility to determine what, if any, taxes apply to the benefits you receive through the redemption of Honey Gold loyalty rewards points, and it is solely your responsibility to assess, collect, report and remit the correct taxes to the appropriate authority. We are not responsible for determining whether any taxes apply to your transaction or redemption, or for calculating, collecting, reporting or remitting taxes arising from any transaction or redemption.
-
-Honey reserves the right at any time to cancel, modify, or restrict any aspect of our Honey Gold Rewards Program, including any point redemption ratios, redemption offers, expiration terms, etc. Honey reserves the right to apply such changes retroactively to Honey Gold loyalty rewards points already accrued. You agree that Honey has the right to limit the quantity of Honey Gold loyalty rewards points you may earn, refuse to provide you Honey Gold loyalty rewards points, or otherwise modify, restrict or limit your ability to earn or redeem Honey Gold loyalty rewards points where Honey reasonably suspects that you have abused any Honey Gold Rewards Program benefits or privileges, or have violated or acted inconsistently with this Agreement or applicable law. Unless doing so would put us at risk, in such cases, Honey will notify you. Abuse or violations that may result in suspension or termination include (but are not limited to): (i) using automated or fraudulent means (including artificially manufacturing transactions/spend) to earn Honey Gold loyalty rewards points or otherwise participate in the Honey Gold Rewards Program; (ii) your failure to abide by the requirements of this Agreement; (iii) the attempted or actual purchase, sale, or transfer of any Honey Gold loyalty rewards points, and (iv) making a misrepresentation to Honey in connection with your participation in the Honey Gold Rewards Program. You understand and agree that termination of your participation in the Honey Gold Rewards Program will result in the immediate forfeiture of all Honey Gold loyalty rewards points.
-
-Maintenance of Honey Gold Loyalty rewards points
-
-To maintain your Honey Gold loyalty rewards points, you must have an Active Account (as defined below) and earn at least 10 Honey Gold loyalty rewards points during each consecutive 365 day period (for example, from April 10th of this year to April 10th of next year) (each a “365 Day Period”). An active account is a Honey account which you have made a purchase through, or logged into, during the prior 365 Day Period and earned at least 10 new Honey Gold loyalty rewards points during that 365 Day Period (an “Active Account”). This means that, to the maximum extent permitted by applicable law, if you have not logged into your Honey account or made a purchase through it, and earned at least 10 new Honey Gold loyalty rewards points in the last 365 Day Period, Honey has the right to reduce your Honey Gold loyalty rewards points balance to zero (0), but we will notify you before that happens. To the maximum extent permitted by applicable law, you agree that any disputes about any such reduction of your Honey Gold loyalty rewards points will be resolved by Honey, and you agree to abide by Honey’s resolution of such dispute.
-
-If your Honey account is closed for any reason, you will no longer be able to redeem any Honey Gold loyalty rewards points.
+The PayPal Rewards Program (the "PayPal Rewards Program", formerly known as the Honey Gold Program) is offered by PayPal to Users with PayPal Honey Accounts via the PayPal Honey mobile app, https://www.joinhoney.com, the PayPal Honey Extension made available to PayPal Honey Account users participating in the PayPal Rewards Program, and such other channels as PayPal Honey may make available from time to time. Your access to and use of the PayPal Rewards Program is governed by the [PayPal Rewards Program Agreement](https://www.paypal.com/us/legalhub/pp-rewards-program-tnc), which is incorporated herein by reference. Any capitalized terms relating to the Rewards Program that are not otherwise defined in this Agreement shall have the meanings given to them in the PayPal Rewards Program Agreement.
 
 Referral Program
 
-Honey may, from time to time, allow you to earn Honey Gold loyalty rewards points in connection with taking actions to promote the Service, including by referring a friend to the Service ("Referral Program"). To be eligible to earn Honey Gold loyalty rewards points through the Referral Program (i) you must refer a new user to the Service by providing your personalised link, (ii) the new user must use your link to create a user account and become a Member and (iii) the new user must make a qualifying purchase using their Member account and earn Honey Gold loyalty rewards points.
+PayPal may, from time to time, allow you to earn PayPal Rewards Points in connection with taking actions to promote the Service, including by referring a friend to the Service ("Referral Program"). To be eligible to earn Points through the Referral Program (i) you must refer a new user to the Service by providing your personalized link, (ii) the new user must use your link to create a user account and become a Member and (iii) the new user must make a qualifying purchase using their Member account and earn Points.
 
-You may not attempt to earn Honey Gold loyalty rewards points in connection with the Referral Program through fraud, deceit, or artificial or illegal means, including by creating multiple or duplicate accounts, engaging in a bot network, spam, advertising or any paid promotional channel. We reserve the right, to withhold Honey Gold loyalty rewards points for any reason in connection with the Referral Program with or without cause. We may also limit and without prior notice, the amount of Honey Gold loyalty rewards points you may earn through the Referral Program or any aspect thereof. Failure to comply with this Agreement or any fraudulent or abusive actions may result in the removal of Honey Gold loyalty rewards points from your account, and may also result in Honey suspending or closing your account and/or suspending or terminating your access to the Service.
+You may not attempt to earn Points in connection with the Referral Program through fraud, deceit, or artificial or illegal means, including by creating multiple or duplicate accounts, engaging in a bot network, spam, advertising or any paid promotional channel. We reserve the right, in our sole discretion, to withhold Points for any reason in connection with the Referral Program with or without cause. We may also limit, in our sole discretion and without prior notice, the amount of Points you may earn through the Referral Program or any aspect thereof. Failure to comply with this Agreement or any fraudulent or abusive actions may result in the removal of PayPal Rewards Points from your account, and may also result in PayPal suspending or closing your account and/or suspending or terminating your access to the Service.
 
 Your Log-In and Account Information
 
-You agree and understand that you are responsible for maintaining the confidentiality of your Log-in ID, email address, password and any other personal identifying information or other codes used to access your Honey account or the Service ("Log-In Information"). If you become aware of any unauthorised use of your Log-In Information, you agree to notify Honey immediately.
+You agree and understand that you are responsible for maintaining the confidentiality of your Log-in ID, email address, password and any other personal identifying information or other codes used to access your PayPal Honey Account or the Service ("Log-In Information"). If you become aware of any unauthorized use of your Log-In Information, you agree to notify PayPal immediately.
 
-Accurate records enable Honey to provide the Service to you. You agree to keep your email address, your other contact information and any payment information in your Honey account profile accurate and up-to-date. If you do not do this, the accuracy and effectiveness of the Service to you will be affected and you may not receive account notices that we deliver to you. If you fail to keep your contact information updated, you will still be deemed to have received any notices we deliver to the email address you last provided.
+Accurate records enable PayPal to provide the Service to you. You agree to keep your email address, your other contact information and any payment information in your PayPal Honey Account profile accurate and up-to-date. If you do not do this, the accuracy and effectiveness of the Service to you will be affected and you may not receive account notices that we deliver to you. If you fail to keep your contact information updated, you will still be deemed to have received any notices we deliver to the email address you last provided.
 
 Electronic Notices
 
@@ -162,140 +142,151 @@ By providing us with your email address, you agree to receive all account relate
 
 Electronic Notifications
 
-Honey may provide you with electronic notifications by email, push notification or other electronic means. Some electronic notifications are mandatory, including security-related notifications, such as when you update your log-in information or password.
+PayPal may provide you with electronic notifications by email, push notification or other electronic means. Some electronic notifications are mandatory, including security-related notifications, such as when you update your log-in information or password.
 
-Other types of notifications are voluntary and may be modified through the Service. They may be customised, deactivated or reactivated by you. These notifications allow you to choose alert messages for your account. Honey may add new notifications from time to time, or cease to provide certain notifications at any time. Each alert has different options available, and you may be asked to select from among these options upon activation of your notifications service. You may also be able to modify how you receive push notifications via the Honey Mobile App through your mobile device by changing your mobile device settings.
+Other types of notifications are voluntary and may be modified through the Service. They may be customized, deactivated or reactivated by you. These notifications allow you to choose alert messages for your account. PayPal may add new notifications from time to time, or cease to provide certain notifications at any time upon its sole discretion. Each alert has different options available, and you may be asked to select from among these options upon activation of your notifications service. You may also be able to modify how you receive push notifications via the PayPal Honey Mobile App through your mobile device by changing your mobile device settings.
 
 Electronic notifications will be sent to the email address you have provided as your primary email address for the Service.
 
-Because notifications are not encrypted, we will never include your password. However, notifications may include your Honey login information and some information about your accounts. Anyone with access to your email will be able to view the content of these notifications. While you may disable certain voluntary notifications, we will still send you Service-related notices as needed to allow us to provide you the Service.
+Because notifications are not encrypted, we will never include your password. However, notifications may include your PayPal Honey Account login information and some information about your accounts. Anyone with access to your email will be able to view the content of these notifications. While you may disable certain voluntary notifications, we will still send you Service-related notices as needed to allow us to provide you the Service.
 
-Honey's Intellectual Property Rights
+PayPal's Intellectual Property Rights
 
-The contents of the Service, including its "look and feel" (e.g., text, graphics, images, logos and button icons), photographs, editorial content, notices, software (including html-based computer programs) and other material are protected under copyright, trademark and other laws. The contents of the Service belong or are licensed to Honey or its software or content suppliers. Honey grants you the right to view and use the Service subject to this Agreement. Any distribution, reprint or electronic reproduction of any content from the Service other than as expressly permitted in this Agreement or with our prior written consent, is prohibited. If you would like to request such permission, send us an email at [info@joinhoney.com](mailto:info@joinhoney.com).
+The contents of the Service, including its "look and feel" (e.g., text, graphics, images, logos and button icons), photographs, editorial content, notices, software (including html-based computer programs) and other material are protected under copyright, trademark and other laws. The contents of the Service belong or are licensed to PayPal or its software or content suppliers. PayPal grants you the right to view and use the Service subject to this Agreement. Any distribution, reprint or electronic reproduction of any content from the Service, other than as expressly permitted in this Agreement or with our prior written consent, is prohibited. If you would like to request such permission, shoot us an email at info@joinhoney.com.
 
-Your right to access and use the Service is personal to you and is not transferable by you to any other person or entity. You are only entitled to access and use our Service for lawful, internal, and non- commercial purposes. Subject to your compliance with this Agreement, Honey hereby grants to you, a personal, worldwide, non-assignable, non-sublicensable, non-transferrable, and non-exclusive license to (i) use the software and content provided to you as part of the Service (for personal, non-commercial purposes; and (ii) download a single copy of our software for such use.
+Your right to access and use the Service is personal to you and is not transferable by you to any other person or entity. You are only entitled to access and use our Service for lawful, internal, and non-commercial purposes. Subject to your compliance with this Agreement, PayPal hereby grants to you, a personal, worldwide, non-assignable, non-sublicensable, non-transferrable, and non-exclusive license to (i) use the software and content provided to you as part of the Service (for personal, non-commercial purposes); and (ii) download a single copy of our software for such use.
 
-You agree that Honey may use your feedback, suggestions, or ideas in any way, including in future modifications of the Service, other products or services, advertising or marketing materials (although any use of your personal information will be subject to our privacy policy).
+You agree that PayPal may use your feedback, suggestions, or ideas in any way, including in future modifications of the Service, other products or services, advertising or marketing materials (although any use of your personal information will be subject to the PayPal Honey US Privacy Statement).
 
 Technology Disclaimer
 
-Your access and use of the Service may be interrupted from time to time due to third-party failures outside of our control (such as unavailability of general internet infrastructure). Access and use may also be interrupted for periodic updating, maintenance or repair of the Service by Honey. While we will make reasonable efforts to make the Service available to you, we do not promise that it will be available at all times.
+Your access and use of the Service may be interrupted from time to time due to third-party failures outside of our control (such as unavailability of general Internet infrastructure). Access and use may also be interrupted for periodic updating, maintenance or repair of the Service by PayPal. While we will make reasonable efforts to make the Service available to you, we do not promise that it will be available at all times.
 
-You are responsible for providing the mobile device, wireless service plan, software, internet connections, and/or other equipment or services that you need to download, install, and use the Honey Mobile App. We do not guarantee that the Honey Mobile App can be accessed and used on any particular mobile device or with any particular service plan. We do not guarantee that the Honey Mobile App will be available in, or that orders for products can be placed from, any particular geographic location.
+You are responsible for providing the mobile device, wireless service plan, software, Internet connections, and/or other equipment or services that you need to download, install, and use the PayPal Honey Mobile App. We do not guarantee that the PayPal Honey Mobile App can be accessed and used on any particular mobile device or with any particular service plan. We do not guarantee that the PayPal Honey Mobile App will be available in, or that orders for products can be placed from, any particular geographic location.
 
-Honey cannot always foresee or anticipate technical or other difficulties which may result in failure to obtain data or loss of data, personalisation settings or other service interruptions. Honey cannot assume responsibility for the timeliness, accuracy, deletion, non-delivery or failure to store any user data, communications or personalisation settings.
+Rules for Posting Content
 
-Provision of Coupons
+As part of the Service, PayPal may allow Users to post content on various publicly available locations in the Service ("User Content"). You agree in posting User Content to follow the following rules:
 
-While we do undertake checks pertaining to the validity of coupons, Honey allows users to propose coupons to be included in the Service in a number of ways. When proposing coupons you agree to the following rules:
-
-* You are responsible for all coupons you submit to the Service.
+* You are responsible for all User Content you submit to the Service.
     
-* By submitting coupons to us, you represent that you have all necessary rights and hereby grant us a perpetual, worldwide, irrevocable, non-exclusive, royalty-free, sublicensable and transferable license to use, reproduce, distribute, prepare derivative works of, modify, display, and perform all or any portion of the coupons in connection with the Service and our business, including without limitation for promoting and redistributing part or all of the site (and derivative works thereof) in any media formats and through any media channels. You also hereby grant each User a non-exclusive license to access and use your coupons through the Service, and to use, reproduce, distribute, prepare derivative works of and display such coupons as permitted through the functionality of the Service and under this Agreement.
+* By submitting User Content to us, you represent that you have all necessary rights and hereby grant us a perpetual, worldwide, irrevocable, non-exclusive, royalty-free, sublicensable and transferable license to use, reproduce, distribute, prepare derivative works of, modify, display, and perform all or any portion of the User Content in connection with the Service and our business, including without limitation for promoting and redistributing part or all of the site (and derivative works thereof) in any media formats and through any media channels. You also hereby grant each User a non-exclusive license to access and use your User Content through the Service, and to use, reproduce, distribute, prepare derivative works of, display and perform such User Content as permitted through the functionality of the Service and under this Agreement.
     
 * You may not post or transmit any message, data, image or program that would violate the property rights of others, including unauthorized copyrighted text, images or programs, trade secrets or other confidential proprietary information, and trademarks or service marks used in an infringing fashion.
     
 * You may not interfere with other Users' use of the Service, including, without limitation, disrupting the normal flow of dialogue in an interactive area of the Service, deleting or revising any content posted by another person or entity, or taking any action that imposes a disproportionate burden on the Service infrastructure or that negatively affects the availability of the Service to others.
-    
-* You can report other Users’ coupons to Honey by contacting us [here](https://help.joinhoney.com/article/22-contact-us).
     
 
 Prohibited Activities
 
 You represent, warrant, and agree that you will not contribute any content or otherwise use the Service or interact with the Service in a manner that:
 
-1. Infringes or violates the intellectual property rights or any other rights of anyone else (including Honey);
+1. Infringes or violates the intellectual property rights or any other rights of anyone else (including PayPal);
     
 2. Violates any law or regulation or this Agreement;
     
 3. Is harmful, fraudulent, deceptive, threatening, harassing, defamatory, obscene, or otherwise objectionable;
     
-4. Involves the sharing of any information which is false, inaccurate or misleading;
+4. Jeopardizes the security of your PayPal Honey Account or anyone else's (such as allowing someone else to log in to the Service as you);
     
-5. Jeopardises the security of your Honey account or anyone else’s (such as allowing someone else to log in to the Service as you);
+5. Attempts, in any manner, to obtain the password, account, or other security information from any other User;
     
-6. Attempts, in any manner, to obtain the password, account, or other security information from any other User;
+6. Violates the security of any computer network, or cracks any passwords or security encryption codes;
     
-7. Violates the security of any computer network, or cracks any passwords or security encryption codes;
+7. Runs Maillist, Listserv, any form of auto-responder or "spam" on the Service, or any processes that run or are activated while you are not logged into the Service, or that otherwise interfere with the proper working of the Service (including by placing an unreasonable load on the Service's infrastructure) or that would bypass the navigational structure or presentation of the Service;
     
-8. Runs Maillist, Listserv, any form of auto-responder or "spam" on the Service, or any processes that run or are activated while you are not logged into the Service, or that otherwise interfere with the proper working of the Service (including by placing an unreasonable load on the Service’s infrastructure) or that would bypass the navigational structure or presentation of the Service;
+8. "Crawls," "scrapes," or "spiders" any page, data, or portion of or relating to the Service or Content (through use of manual or automated means);
     
-9. "Crawls," "scrapes," or "spiders" any page, data, or portion of or relating to the Service or Content (through use of manual or automated means);
+9. Copies or stores any significant portion of the Content;
     
-10. Copies or stores any significant portion of the Content;
+10. Decompiles, reverse engineers, or otherwise attempts to obtain the source code or underlying ideas or information of or relating to the Service; or
     
-11. Decompiles, reverse engineers, or otherwise attempts to obtain the source code or underlying ideas or information of or relating to the Service; or
-    
-12. Circumvents, removes, alters, deactivates, degrades or thwarts any protective or security measure, or any content protections, which Honey has implemented as part of the Service.
+11. Circumvents, removes, alters, deactivates, degrades or thwarts any protective or security measure, or any content protections, which PayPal has implemented as part of the Service.
     
 
 If you violate or infringe any of the rules above, we may immediately suspend or terminate your right to use or access the Service.
 
-Limitations on Honey's Liability
+Disclaimer of Representations and Warranties;
 
-The Service is provided on an "as is" basis. Honey specifically disclaims any and all warranties and conditions of merchantability, fitness for a particular purpose and non-infringement, and any warranties arising out of course of dealing or usage of trade.
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE CONTENT AND ALL SERVICES AND PRODUCTS ASSOCIATED WITH THE SERVICE OR PROVIDED THROUGH THE SERVICE (WHETHER OR NOT SPONSORED) ARE PROVIDED TO YOU ON AN "AS-IS" AND "AS AVAILABLE" BASIS. PAYPAL MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, AS TO THE CONTENT OR OPERATION OF THE SERVICE OR OF THE SERVICE. YOU EXPRESSLY AGREE THAT YOUR USE OF THE SERVICE IS AT YOUR SOLE RISK.
 
-We are not responsible for loss or damage resulting from your use of the Service that is not ‘foreseeable’. Loss or damage is foreseeable if either it is obvious that it will happen or if, at the time you agree to this Agreement, both you and we are aware that it might occur.
+PAYPAL MAKES NO REPRESENTATIONS, WARRANTIES, CONDITIONS, OR GUARANTEES, EXPRESS OR IMPLIED, REGARDING THE ACCURACY, RELIABILITY OR COMPLETENESS OF THE CONTENT ON THE SERVICE OR OF THE SERVICE (WHETHER OR NOT SPONSORED), AND EXPRESSLY DISCLAIMS ANY REPRESENTATIONS, WARRANTIES OR CONDITIONS OF NON-INFRINGEMENT OR FITNESS FOR A PARTICULAR PURPOSE. PAYPAL MAKES NO REPRESENTATION, WARRANTY OR GUARANTEE THAT THE CONTENT THAT MAY BE AVAILABLE THROUGH THE SERVICE IS FREE OF INFECTION FROM ANY VIRUSES OR OTHER CODE OR COMPUTER PROGRAMMING ROUTINES THAT CONTAIN CONTAMINATING OR DESTRUCTIVE PROPERTIES OR THAT ARE INTENDED TO DAMAGE, SURREPTITIOUSLY INTERCEPT OR EXPROPRIATE ANY SYSTEM, DATA OR PERSONAL INFORMATION. YOU ARE RESPONSIBLE FOR ENSURING THE ACCURACY OF ANY USER CONTENT THAT YOU PROVIDE, AND WE DISCLAIM ALL LIABILITY AND RESPONSIBILITY FOR THE ACCURACY OF SUCH CONTENT.
 
-The Service is provided for personal, non-commercial use only. We have no liability for any loss of profit, loss of business, loss of contract, business interruption, or loss of business opportunity in connection with your use of the Service.
+Notification Disclaimer
 
-You are responsible for ensuring the accuracy of any coupons that you provide (and for the consequences, should such coupons not be accurate).
+You understand and agree that any notifications provided to you through the Service may be delayed or prevented by a variety of factors. PayPal does its best to provide notifications in a timely manner with accurate information. However, we neither guarantee the delivery nor the accuracy of the content of any notification. You also agree that PayPal shall not be liable for any delays, failure to deliver, or misdirected delivery of any notification; for any errors in the content of a notification; or for any actions taken or not taken by you or any third-party in reliance on a notification.
 
-We don’t exclude or restrict our liability in any way that would be unlawful, including our liability for death or personal injury caused by negligence or for fraud or fraudulent misrepresentation.
+Limitations on PayPal's Liability
 
-Ending your Relationship with Honey (and vice versa)
+PAYPAL SHALL IN NO EVENT BE RESPONSIBLE OR LIABLE TO YOU OR TO ANY THIRD PARTY, WHETHER IN CONTRACT, WARRANTY, TORT (INCLUDING NEGLIGENCE) OR OTHERWISE, FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, EXEMPLARY, LIQUIDATED OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO LOSS OF PROFIT, REVENUE OR BUSINESS, ARISING IN WHOLE OR IN PART FROM YOUR ACCESS TO THE SERVICE, YOUR USE OF THE SERVICE OR THIS AGREEMENT, OR FOR ANY LOSS OR DAMAGE CAUSED BY YOUR RELIANCE ON INFORMATION OBTAINED ON OR THROUGH THE SERVICE, EVEN IF PAYPAL HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. NOTWITHSTANDING ANYTHING TO THE CONTRARY IN THIS AGREEMENT, PAYPAL'S LIABILITY TO YOU FOR ANY CAUSE WHATSOEVER AND REGARDLESS OF THE FORM OF THE ACTION, WILL AT ALL TIMES BE LIMITED TO $500.00 (FIVE HUNDRED UNITED STATES DOLLARS).
 
-This Agreement will continue to apply until terminated by either you or Honey as set out below. If you want to terminate this Agreement, you may do so immediately at any time by closing your account for the Service. Please use the directions below to cancel your account, only if you have created a Membership. Otherwise just uninstall Honey and stop visiting our Website and using the Service.
+BECAUSE SOME STATES OR JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR THE LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, IN SUCH STATES OR JURISDICTIONS, THE LIABILITY OF PAYPAL SHALL BE LIMITED TO THE FULLEST EXTENT PERMITTED BY LAW. THEREFORE, THE FOREGOING LIMITATIONS SHALL APPLY TO THE MAXIMUM EXTENT PERMITTED BY LAW. NOTHING IN THIS AGREEMENT AFFECTS STATUTORY RIGHTS THAT CANNOT BE WAIVED OR LIMITED BY CONTRACT.
 
-Email [removeaccount@joinhoney.com](mailto:removeaccount@joinhoney.com) to cancel your account. Upon doing so:
+Your Indemnification of PayPal
 
-* your account will be closed, your Honey Gold loyalty rewards points balance be zeroed out (so be sure to redeem any Honey Gold you accumulated beforehand), and your ability to log in deactivated; and
+You shall defend, indemnify and hold harmless PayPal and its officers, directors, shareholders, and employees, from and against all claims and expenses, including but not limited to attorney's fees and other legal expenses, in whole or in part arising out of or attributable to your use of the Service (including any purchases you make within the PayPal Honey Mobile App) or any breach of this Agreement by you or your violation of any law or the rights of a third-party when using the Service.
+
+Ending your Relationship with PayPal (and vice versa)
+
+This Agreement will continue to apply until terminated by either you or PayPal as set out below.
+
+If you want to terminate this Agreement, you may do so immediately at any time by closing your account for the Service. Please use the directions below to cancel your account, only if you have created a Membership. Otherwise just uninstall PayPal and stop visiting our Website and using the Service.
+
+Email removeaccount@joinhoney.com to cancel your account. Upon doing so:
+
+* your account will be closed and your ability to log in will be deactivated; and
     
-* any data in our records will be retained subject to our privacy policy.
+* any data in our records will be retained subject to our privacy statement.
     
 
-Honey may immediately, at any time, terminate this Agreement (and therefore your right to access and use the Service) by notifying you (if safe to do so) to the e-mail address provided by you as part of your Registration Information. Unless the reason for Honey doing this is that you have breached this Agreement in a serious way, in these circumstances, we will let you redeem your remaining Honey Gold.
+PayPal may immediately, at any time, terminate this Agreement (and therefore your right to access and use the Service) by notifying you (if safe to do so) to the e-mail address provided by you as part of your Registration Information.
+
+ARBITRATION CLAUSE & CLASS ACTION WAIVER – IMPORTANT – PLEASE REVIEW AS THIS AFFECTS YOUR LEGAL RIGHTS
+
+Arbitration. YOU AGREE THAT ALL DISPUTES BETWEEN YOU AND US (WHETHER OR NOT SUCH DISPUTE INVOLVES A THIRD-PARTY) WITH REGARD TO YOUR RELATIONSHIP WITH US, INCLUDING WITHOUT LIMITATION DISPUTES RELATED TO THIS AGREEMENT, YOUR USE OF THE SERVICE, AND/OR RIGHTS OF PRIVACY AND/OR PUBLICITY, WILL BE RESOLVED BY BINDING, INDIVIDUAL ARBITRATION UNDER THE AMERICAN ARBITRATION ASSOCIATION'S RULES FOR ARBITRATION OF CONSUMER-RELATED DISPUTES AND YOU AND WE HEREBY EXPRESSLY WAIVE TRIAL BY JURY; PROVIDED, HOWEVER, THAT TO THE EXTENT THAT YOU HAVE IN ANY MANNER VIOLATED OR THREATENED TO VIOLATE OUR INTELLECTUAL PROPERTY RIGHTS, WE MAY SEEK INJUNCTIVE OR OTHER APPROPRIATE RELIEF IN ANY STATE OR FEDERAL COURT IN THE STATE OF CALIFORNIA. DISCOVERY AND RIGHTS TO APPEAL IN ARBITRATION ARE GENERALLY MORE LIMITED THAN IN A LAWSUIT, AND OTHER RIGHTS THAT YOU AND WE WOULD HAVE IN COURT MAY NOT BE AVAILABLE IN ARBITRATION.
+
+If you wish to begin an arbitration proceeding, you must send a letter requesting arbitration and describing your claim to 963 E. 4th Street, Los Angeles, CA 90013.
+
+As an alternative, you may bring your claim in your local "small claims" court, if permitted by that small claims court's rules and if within such court's jurisdiction, unless such action is transferred, removed or appealed to a different court. You may bring claims only on your own behalf. Neither you nor we will participate in a class action or class-wide arbitration for any claims covered by this agreement to arbitrate. BY AGREEING TO THIS ARBITRATION CLAUSE & CLASS ACTION WAIVER, YOU AND PAYPAL ARE GIVING UP THE RIGHT TO PARTICIPATE AS A CLASS REPRESENTATIVE OR CLASS MEMBER ON ANY CLASS CLAIM THAT EACH SIDE MAY HAVE AGAINST THE OTHER INCLUDING ANY RIGHT TO CLASS ARBITRATION OR ANY CONSOLIDATION OF INDIVIDUAL ARBITRATIONS. You also agree not to participate in claims brought in a private attorney general or representative capacity, or consolidated claims involving another person's account, if we are a party to the proceeding. This dispute resolution provision will be governed by the Federal Arbitration Act and not by any state law concerning arbitration. In the event the American Arbitration Association is unwilling or unable to set a hearing date within one hundred sixty (160) days of filing the case, then either we or you can elect to have the arbitration administered instead by the Judicial Arbitration and Mediation Services. Judgment on the award rendered by the arbitrator may be entered in any court having competent jurisdiction. Any provision of applicable law notwithstanding, the arbitrator will not have authority to award damages, remedies or awards that conflict with this Agreement. You agree that regardless of any statute or law to the contrary, any claim or cause of action arising out of, related to or connected with the use of the Service or this Agreement must be filed within one (1) year after such claim of action arose or be forever banned.
+
+If you do not want to arbitrate disputes with PayPal and you are an individual, you may opt out of this ARBITRATION CLAUSE & CLASS ACTION WAIVER by sending an email to privacy@joinhoney.com within thirty (30) days of the first date you access or use the Service. Severability. If the prohibition against class actions and other claims brought on behalf of third parties contained above is found to be unenforceable, then all of the preceding language in this Arbitration section will be null and void. This arbitration agreement will survive the termination of your relationship with us.
 
 Governing Law and Forum for Disputes
 
-This Agreement, and your relationship with Honey under this Agreement, shall be governed by the laws of England and Wales. However, if you are based outside England and Wales, the additional consumer rights and protections you are entitled to under the laws of the country in which you are based will also apply.
+This Agreement, and your relationship with PayPal under this Agreement, shall be governed by the laws of the State of California in the United States of America without regard to its conflict or choice of laws provisions. Any dispute with PayPal, or its officers, directors, employees, agents or affiliates, arising under or in relation to this Agreement shall be resolved exclusively as specified in the ARBITRATION CLAUSE & CLASS ACTION WAIVER clause above, except with respect to imminent harm requiring temporary or preliminary injunctive relief in which case PayPal may seek such relief in any court with jurisdiction over the parties. You understand that, in return for agreement to this provision, PayPal is able to offer the Service at the terms designated, with little or no charge to you, and that your assent to this provision is an indispensable consideration to this Agreement.
 
-In the event of any dispute which you are not able to resolve by contacting us, you can bring legal proceedings in the courts. Alternatively, you may submit any dispute to the European Commission Online Dispute Resolution platform for online resolution, accessible [here](https://ec.europa.eu/consumers/odr).
+You also acknowledge and understand that, with respect to any dispute with PayPal, its officers, directors, employees, agents or affiliates, arising out of or relating to your use of the Service or this Agreement:
+
+* YOU ARE GIVING UP YOUR RIGHT TO HAVE A TRIAL BY JURY; and
+    
+* YOU ARE GIVING UP YOUR RIGHT TO SERVE AS A REPRESENTATIVE, AS A PRIVATE ATTORNEY GENERAL, OR IN ANY OTHER REPRESENTATIVE CAPACITY, OR TO PARTICIPATE AS A MEMBER OF A CLASS OF CLAIMANTS, IN ANY LAWSUIT INVOLVING ANY SUCH DISPUTE.
+    
+
+Copyright Disputes and User Content
+
+You may have heard of the Digital Millennium Copyright Act (the "DMCA"), as it relates to online service providers, like PayPal, being asked to remove user generated material that allegedly violates someone's copyright. We respect others' intellectual property rights, and we reserve the right to delete or disable User Content alleged to be infringing, and to terminate the accounts of repeat alleged infringers; to review our complete Copyright Dispute Policy and learn how to report potentially infringing content, visit here. To learn more about the DMCA, visit here.
+
+Consumer Rights Notices
+
+California Consumer Rights Notice. Under California Civil Code Section 1789.3, California users of the Service receive the following specific consumer rights notice: The Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs may be contacted in writing at 1625 North Market Blvd., Suite N 112, Sacramento, CA 95834, or by telephone at (800) 952- 5210.
+
+Assignment
+
+PayPal may assign, without recourse, any or all of its rights or obligations under this Agreement, including all or a portion of this Agreement.
 
 Miscellaneous
 
-If any portion of this Agreement is deemed unlawful, void or unenforceable by any court of competent jurisdiction, this Agreement as a whole shall not be deemed unlawful, void or unenforceable, but only that portion of this Agreement that is unlawful, void or unenforceable shall be stricken from this Agreement.
+If any portion of this Agreement is deemed unlawful, void or unenforceable by any arbitrator or court of competent jurisdiction, this Agreement as a whole shall not be deemed unlawful, void or unenforceable, but only that portion of this Agreement that is unlawful, void or unenforceable shall be stricken from this Agreement.
 
-You agree that if Honey does not exercise or enforce any legal right or remedy which is contained in the Agreement (or which Honey has the benefit of under any applicable law), this will not be taken to be a formal waiver of Honey’s rights and that those rights or remedies will still be available to Honey.
+You agree that if PayPal does not exercise or enforce any legal right or remedy which is contained in the Agreement (or which PayPal has the benefit of under any applicable law), this will not be taken to be a formal waiver of PayPal's rights and that those rights or remedies will still be available to PayPal.
 
-All covenants, agreements, representations and warranties made in this Agreement shall survive your acceptance of this Agreement and the termination of this Agreement.The term "including" in this Agreement means "including but not limited to."
+All covenants, agreements, representations and warranties made in this Agreement shall survive your acceptance of this Agreement and the termination of this Agreement.
+
+The term "including" in this Agreement means "including but not limited to."
 
 Contact Us
 
-Honey welcomes comments, questions, concerns, or suggestions. Please send us feedback by emailing us at [info@joinhoney.com](mailto:info@joinhoney.com) or writing us at 963 E. 4th Street, Los Angeles, CA 90013.
-
-Right of withdrawal
-
-If you are consumer based in Europe or the UK, you can withdraw from this Agreement and close your account within the first 14 days without paying a penalty and without giving a reason. This 14-day period begins at account opening on the day our agreement with you starts (or, if later, the day you receive our terms). If you wish to withdraw from this Agreement during those 14 days, please notify us by closing your account and paying any amounts you owe us. Visit Honey’s website for more information on how to close your account.
-
-If you are a consumer and you close your account within that 14-day period, we may charge for transactions you have made or services you have used during that time (if in future, any fees are introduced for any of our products or services).
-
-This right to withdraw is in addition to the terms set out this Agreement. If you do not exercise your right of withdrawal within this 14-day period then your account will remain open, and this Agreement will continue until closed either by you or Honey.
-
-European Users Based outside the UK
-
-If you are a User based in Europe but outside the UK, some differences to the terms of this Agreement will apply. These will depend on the country in which you are based and are set out below. Please review these carefully, as they form part of the Agreement.
-
-Germany
-
-The section entitled "Limitations on Honey's Liability" above does not limit or exclude Honey’s liability for gross negligence in respect of users based in Germany.
-
-Italy
-
-Despite the section ‘Governing Law and Forum for Disputes’ above, if you are a user based in Italy then any dispute between you and Honey regarding this Agreement will only be dealt with by the courts of the place in which you are domiciled or resident.
-
-You may also apply for an out-of-court mechanism to solve any dispute relating to this Agreement _(in accordance with Sections 141 – 141 decies of the Italian Consumers’ Code, 6 September 2005 no. 206)_. By way of example, you may utilise or consult the European Online Dispute Resolution platform referred to above.
+PayPal welcomes comments, questions, concerns, or suggestions. Please send us feedback by emailing us at info@joinhoney.com or writing us at 963 E. 4th Street, Los Angeles, CA 90013.
 
 ### Company
 
@@ -303,11 +294,11 @@ You may also apply for an out-of-court mechanism to solve any dispute relating t
 
 ### Product
 
-[Droplist](https://www.joinhoney.com/features/droplist)[Amazon Badge](https://www.joinhoney.com/features/amazon)[Honey Gold](https://www.joinhoney.com/features/honeygold)[For Affiliates](https://www.joinhoney.com/business)
+[Droplist](https://www.joinhoney.com/features/droplist)[Amazon Badge](https://www.joinhoney.com/features/amazon)[Rewards](https://www.joinhoney.com/features/paypalrewards)[For Affiliates](https://www.joinhoney.com/business)
 
 ### Legal
 
-[Privacy](https://www.joinhoney.com/privacy)[Copyright](https://www.joinhoney.com/copyright)[Patents](https://www.joinhoney.com/patents)[Terms](https://www.joinhoney.com/terms)[Ad Disclosure](https://help.joinhoney.com/article/30-how-does-honey-make-money)[Accessibility](https://www.joinhoney.com/accessibility)Cookies
+[Privacy](https://www.joinhoney.com/privacy)[Copyright](https://www.joinhoney.com/copyright)[Patents](https://www.joinhoney.com/patents)[Terms](https://www.joinhoney.com/terms)[Ad Disclosure](https://help.joinhoney.com/article/30-how-does-honey-make-money)[E-Communication](https://www.joinhoney.com/ecomms-policy)[Accessibility](https://www.joinhoney.com/accessibility)Cookies
 
 ### Follow Us
 
@@ -321,10 +312,10 @@ You may also apply for an out-of-court mechanism to solve any dispute relating t
 Google Play and the Google Play logo are trademarks of Google Inc.  
 Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc., registered in the U.S. and other countries.
 
-© 2024 Honey Science LLC
+© 2024 PayPal, Inc.
 
 Honey is now part of the PayPal family. Learn more  [here](https://help.joinhoney.com/article/302-what-does-honey-joining-paypal-mean-for-members).
 
-France
+United States
 
 English
