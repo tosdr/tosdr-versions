@@ -2,11 +2,13 @@
 
 [TES](https://www.tes.com/)
 
-* [Schools Awards](https://www.tes.com/en-gb/schools-awards)
+* [Tes Awards for International Schools](https://www.tes.com/schools-awards)
     
-* [Contact us](https://www.tes.com/en-gb/contact)
+* [Tes Live Lessons](https://www.tes.com/for-schools/live-lessons)
     
-* [Log in](https://www.tes.com/en-gb/login)
+* [Contact Us](https://www.tes.com/contact)
+    
+* [Log in](https://www.tes.com/login)
     
 
 Select a language
@@ -15,41 +17,35 @@ International schoolsUK editionAustralia edition
 
   
 
-* Open [School solutions](https://www.tes.com/en-gb/for-schools)
+* Open [School solutions](https://www.tes.com/for-schools)
     
     * Pupil and learning management
         
-        * [Class Charts Behaviour management software](https://www.tes.com/en-gb/for-schools/class-charts)
+        * [Class Charts Behaviour management software](https://www.tes.com/for-schools/class-charts)
             
-        * [Provision Map SEND management software](https://www.tes.com/en-gb/for-schools/provision-map)
+        * [Tes Clubs and Events Look after extracurricular life with Tes Clubs and Events](https://www.tes.com/for-schools/clubs-and-events)
             
-        * [Timetable powered by Edval Flexible timetabling software](https://www.tes.com/en-gb/for-schools/timetabling-edval)
+        * [Tes Learning Pathways Purpose-built, flexible platform for an inclusive approach to boosting every student's potential.](https://www.tes.com/for-schools/learning-pathways)
             
-        * [Tes Parents' Meetings Parents' meetings that work for everyone](https://www.tes.com/en-gb/for-schools/parents-meetings)
+        * [Tes Timetable Flexible timetabling software](https://www.tes.com/for-schools/timetabling-edval)
             
-        * [Tes Room Booking Manage your rooms and resources online](https://www.tes.com/en-gb/for-schools/room-booking)
+        * [Tes Parents' Meetings Parents' meetings that work for everyone](https://www.tes.com/for-schools/parents-meetings)
             
-        * [Tes Clubs and Events Look after extracurricular life with Tes Clubs and Events](https://www.tes.com/en-gb/for-schools/clubs-and-events)
+        * [Tes Room Booking Manage your rooms and resources online](https://www.tes.com/for-schools/room-booking)
             
         
     * Safeguarding and compliance
         
-        * [Tes Safeguarding Powered by Educare](https://www.tes.com/en-gb/for-schools/safeguarding-training)
+        * [Tes Safeguarding Safeguarding training](https://www.tes.com/for-schools/safeguarding-training)
             
-        * [MyConcern Safeguarding software for schools](https://www.tes.com/en-gb/campaign/myconcern)
+        * [MyConcern Safeguarding software for schools](https://www.tes.com/for-schools/myconcern)
             
         
-    * Staff management & Finance
+    * Staff management
         
-        * [Staff Management Subscription Recruitment, training and wellbeing solutions in one all-inclusive subscription](https://www.tes.com/en-gb/for-schools/staff-management)
+        * [Staff Management Subscription Recruitment, training and wellbeing solutions in one all-inclusive subscription](https://www.tes.com/for-schools/staff-management)
             
         * [Tes magazine School-wide magazine subscriptions](https://www.tes.com/for-schools/magazine-subscription)
-            
-        * [EduPay Award-winning payroll and HR software](https://www.tes.com/en-gb/for-schools/edupay)
-            
-        * [BPS Market-leading education budget planning software](https://www.tes.com/en-gb/for-schools/bps)
-            
-        * [Tes HR HR software for schools](https://www.tes.com/en-gb/for-schools/tes-hr)
             
         
     
@@ -68,41 +64,35 @@ Open Menu
 
 TES Close
 
-* [School solutions](https://www.tes.com/en-gb/for-schools) Open
+* [School solutions](https://www.tes.com/for-schools) Open
     
     * [Pupil and learning management](https://www.tes.com/) Open
         
-        * [Class Charts](https://www.tes.com/en-gb/for-schools/class-charts)
+        * [Class Charts](https://www.tes.com/for-schools/class-charts)
             
-        * [Provision Map](https://www.tes.com/en-gb/for-schools/provision-map)
+        * [Tes Clubs and Events](https://www.tes.com/for-schools/clubs-and-events)
             
-        * [Timetable powered by Edval](https://www.tes.com/en-gb/for-schools/timetabling-edval)
+        * [Tes Learning Pathways](https://www.tes.com/for-schools/learning-pathways)
             
-        * [Tes Parents' Meetings](https://www.tes.com/en-gb/for-schools/parents-meetings)
+        * [Tes Timetable](https://www.tes.com/for-schools/timetabling-edval)
             
-        * [Tes Room Booking](https://www.tes.com/en-gb/for-schools/room-booking)
+        * [Tes Parents' Meetings](https://www.tes.com/for-schools/parents-meetings)
             
-        * [Tes Clubs and Events](https://www.tes.com/en-gb/for-schools/clubs-and-events)
-            
-        
-    * [Safeguarding and compliance](https://www.tes.com/en-gb) Open
-        
-        * [Tes Safeguarding](https://www.tes.com/en-gb/for-schools/safeguarding-training)
-            
-        * [MyConcern](https://www.tes.com/en-gb/campaign/myconcern)
+        * [Tes Room Booking](https://www.tes.com/for-schools/room-booking)
             
         
-    * [Staff management & Finance](https://www.tes.com/for-schools/staff-management) Open
+    * [Safeguarding and compliance](https://www.tes.com/) Open
         
-        * [Staff Management Subscription](https://www.tes.com/en-gb/for-schools/staff-management)
+        * [Tes Safeguarding](https://www.tes.com/for-schools/safeguarding-training)
+            
+        * [MyConcern](https://www.tes.com/for-schools/myconcern)
+            
+        
+    * [Staff management](https://www.tes.com/for-schools/staff-management) Open
+        
+        * [Staff Management Subscription](https://www.tes.com/for-schools/staff-management)
             
         * [Tes magazine](https://www.tes.com/for-schools/magazine-subscription)
-            
-        * [EduPay](https://www.tes.com/en-gb/for-schools/edupay)
-            
-        * [BPS](https://www.tes.com/en-gb/for-schools/bps)
-            
-        * [Tes HR](https://www.tes.com/en-gb/for-schools/tes-hr)
             
         
     
@@ -116,11 +106,13 @@ TES Close
     
 * [School Portal](https://www.tes.com/authn/select?rtn=https%3A//www.tes.com/schools/employers/school-chooser)
     
-* [Schools Awards](https://www.tes.com/en-gb/schools-awards)
+* [Tes Awards for International Schools](https://www.tes.com/schools-awards)
     
-* [Contact us](https://www.tes.com/en-gb/contact)
+* [Tes Live Lessons](https://www.tes.com/for-schools/live-lessons)
     
-* [Log in](https://www.tes.com/en-gb/login)
+* [Contact Us](https://www.tes.com/contact)
+    
+* [Log in](https://www.tes.com/login)
     
 
 Select a language
@@ -132,7 +124,7 @@ International schoolsUK editionAustralia edition
 Privacy Notice
 ==============
 
-LAST UPDATED 29 JULY 2024 Open all
+LAST UPDATED 06 JUNE 2024 Open all
 
 Latest Changes to this Policy
 
@@ -162,7 +154,7 @@ List of data processors, mainly critical third-party vendors that holds user dat
 
 03/07/2020: Updated sections 3 and 5 to include more information on the use of MyCV information when users have opted-in to machine lead and human red recruitment services. 
 
-updated section 3 to provide better information about how Tes uses personal data when investigating potential discrimination on our platform. 
+Updated section 3 to provide better information about how Tes uses personal data when investigating potential discrimination on our platform. 
 
 27/05/2020: Included reference to the Covid 19 Back to School Hub Update. 
 
@@ -182,7 +174,7 @@ For the purpose of the Data Protection Laws, the Data Protection Act 2018 (“**
 
 We take your privacy seriously and we are committed to keeping your information private. To the extent we are required by law, we have notified the United Kingdom's Information Commissioner's Office that we will process your personal information in accordance with the Data Protection Legislation (as defined above) and other Supervisory Authorities.
 
-By providing us with your information (including via the Sites), you understand that we will process your personal information in accordance with this Notice and our Cookie Policy [here](https://www.tes.com/en-gb/policies/cookies-policy).
+By providing us with your information (including via the Sites), you understand that we will process your personal information in accordance with this Notice and our Cookie Policy [here](https://www.tes.com/policies/cookies-policy).
 
 Read more Read less
 
@@ -237,7 +229,7 @@ Our Sites use external ad servers (such as "DoubleClick") to serve the advertise
 
 Please note that if you disable specific cookies, certain services on our Sites may not be available to you. You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences. If you reject all cookies, you will not be able to use products or services that require you to "sign-in" and you may not be able to take full advantage of offerings or use them on all our Sites.
 
-For further information please see our Cookies Policy [here](https://www.tes.com/en-gb/policies/cookies-policy) and for more independent information about cookies please see [here](https://www.aboutcookies.org/).
+For further information please see our Cookies Policy [here](https://www.tes.com/policies/cookies-policy) and for more independent information about cookies please see [here](https://www.aboutcookies.org/).
 
 **1.5 Information that we collect from third parties**
 
@@ -340,7 +332,7 @@ To protect your personal information, every third party we engage with completes
 
 **3.2 Third parties that we share your personal information with** 
 
-Where a legal basis of processing applies, we may share your personal information with data processors (who may also be data controllers in respect of the information that we share). Some of our Sites and services are hosted by Tes on behalf of recruitment institutions that have signed up to process job vacancies and applications via [here](https://www.tes.com/for-schools/portal).
+Where a legal basis of processing applies, we may share your personal information with data processors (who may also be data controllers in respect of the information that we share). Some of our Sites and services are hosted by Tes on behalf of recruitment institutions that have signed up to process job vacancies and applications via [here](https://www.tes.com/authn/sign-in?rtn=https%3A%2F%2Fwww.tes.com%2Fschools%2Femployers%2Fschool-chooser).
 
 If you have any concerns about how your personal information is handled, you must get in touch with your institution as they may be data controllers for your personal information.
 
@@ -350,7 +342,7 @@ In any event that Tes decides to sell or transfer a product or service which we 
 
 In certain circumstances, we may be required by law to disclose your personal information to government agencies and other organisations such as law enforcement agencies, banks or other financial institutions and data protection regulators.
 
-We use Google reCAPTCHA on this Site. This service is used to check whether the data you have entered on our Sites (such as on a contact form) has been entered by a human or by an automated program. To do this, reCAPTCHA analyses the behaviour of your Sites visit based on various characteristics. The analysed data is collected by Google. For more information about Google reCAPTCHA please see Google's privacy policy [here](https://policies.google.com/privacy?hl=en-GB). 
+We use Google reCAPTCHA on this Site. This service is used to check whether the data you have entered on our Sites (such as on a contact form) has been entered by a human or by an automated program. To do this, reCAPTCHA analyses the behaviour of your Sites visit based on various characteristics. The analysed data is collected by Google. For more information about Google reCAPTCHA please see Google's privacy policy [here](https://policies.google.com/privacy?hl=en-GB).
 
 Read more Read less
 
@@ -428,9 +420,17 @@ Read more Read less
 
 The registered office of Tes Global Limited is:
 
-Building 3 St Pauls Place, Norfolk Street, Sheffield, England, S1 2JE, United Kingdom
+3rd Floor, Building 3, St Paul’s Place,
+
+129 Norfolk Street,
+
+Sheffield, S1 2JE.
+
+United Kingdom.
 
 **If you live in the EEA**, please contact our EU Representative:
+
+Their email address is: [eurep@tes.com](mailto:eurep@tes.com)
 
 Postal Address: The DPO Centre Europe, Alexandra House, 3 Ballsbridge Park, Dublin, D04C 7H2, Ireland.
 
@@ -446,28 +446,28 @@ Read more Read less
 
 Back to top
 
-* [About](https://www.tes.com/en-gb/corporate) Open
+* [About](https://www.tes.com/corporate) Open
     
-    * [Corporate](https://www.tes.com/en-gb/corporate)
+    * [Corporate](https://www.tes.com/corporate)
         
-    * [Login](https://www.tes.com/en-gb/login)
+    * [Login](https://www.tes.com/login)
         
-    * [Contact us](https://www.tes.com/en-gb/contact)
+    * [Contact us](https://www.tes.com/contact)
         
     * [FAQ](https://www.tes.com/help)
         
-    * [Work for Tes](https://www.tes.com/en-gb/corporate/work-for-tes)
+    * [Work for Tes](https://www.tes.com/corporate/work-for-tes)
         
-    * [Partnerships](https://www.tes.com/corporate/partnerships)
+    * [Partners](https://www.tes.com/partners)
         
-    * [Legal terms and policies](https://www.tes.com/en-gb/policies/overview)
+    * [Legal Terms and Policies](https://www.tes.com/policies/overview)
         
     
 * [Jobs](https://www.tes.com/jobs/) Open
     
-    * [UK](https://www.tes.com/jobs/browse/united-kingdom)
-        
     * [International](https://www.tes.com/jobs/browse/international)
+        
+    * [UK](https://www.tes.com/jobs/browse/united-kingdom)
         
     * [Australia](https://www.tes.com/jobs/browse/australia)
         
@@ -476,8 +476,6 @@ Back to top
     * [Secondary / High school](https://www.tes.com/jobs/browse/secondary)
         
     * [Careers advice](https://www.tes.com/jobs/careers-advice)
-        
-    * [Recruitment services](https://www.tes.com/en-gb/for-schools/recruitment)
         
     
 * [Magazine](https://www.tes.com/magazine) Open
@@ -523,19 +521,9 @@ Back to top
     * [For teachers](https://www.tes.com/institute/courses/improve-your-skills)
         
     
-* [Advice Hub](https://www.tes.com/en-gb/advice-hub) Open
+* Advice Hub Open
     
-    * [Safeguarding](https://www.tes.com/en-gb/advice-hub/safeguarding)
-        
-    * [Get into teaching](https://www.tes.com/en-gb/advice-hub/get-into-teaching)
-        
-    * [Early career teachers](https://www.tes.com/en-gb/advice-hub/early-career-teachers)
-        
-    * [Teachers](https://www.tes.com/en-gb/advice-hub/teachers)
-        
-    * [Leaders](https://www.tes.com/en-gb/advice-hub/leaders)
-        
-    * [Tes Live Lessons](https://www.tes.com/en-gb/for-schools/live-lessons)
+    * [Safeguarding](https://www.tes.com/advice-hub/safeguarding)
         
     
 
