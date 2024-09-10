@@ -111,7 +111,7 @@ Suchen
             
             Meistgelesene Tests & Themen
             
-            * [Überblick Versicherungen](https://www.test.de/Versicherungen-Optimaler-Risikoschutz-1162242-0/)
+            * [Der Versicherungs-Check](https://www.test.de/Versicherungen-Optimaler-Risikoschutz-1162242-0/)
             * [Krankenkassen](https://www.test.de/Krankenkassenvergleich-1801418-0/)
             * [Zahnzusatzversicherung](https://www.test.de/Zahnzusatzversicherung-im-Test-4730314-0/)
             * [Berufs­unfähigkeits­­versicherung](https://www.test.de/Berufsunfaehigkeitsversicherung-im-Test-4881349-0/)
@@ -200,7 +200,7 @@ Suchen
             
             * [Steuerberechnung für Rentner](https://www.test.de/Steuerberechnung-fuer-Rentner-Hilfe-fuer-die-Steuerschaetzung-1231254-0/)
             * [Rechtsschutzversicherung](https://www.test.de/Rechtsschutzversicherung-im-Vergleich-4776988-0/)
-            * [Patientenverfügung, Vorsorgevollmacht](https://www.test.de/Vorsorgevollmacht-und-Patientenverfuegung-Wie-Sie-rechtzeitig-Klarheit-schaffen-4641470-0/)
+            * [Patientenverfügung, Vorsorgevollmacht](https://www.test.de/Patientenverfuegung-4641470-0/)
             * [Testament](https://www.test.de/Testament-So-regeln-Sie-Ihr-Erbe-nach-Ihren-Wuenschen-5055551-0/)
             * [Privatverkauf im Internet](https://www.test.de/Verkauf-im-Internet-Haftung-ausschliessen-als-Verkaeufer-4533698-0/)
             * [Steuererklärung pünktlich abgeben](https://www.test.de/Steuererklaerung-Frist-Abgabe-5619211-0/)
@@ -383,7 +383,7 @@ weiter
 
 Suchen
 
-![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v112367108.svg)
+![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v116071906.svg)
 
 1. [Startweiter](https://www.test.de/)
 2. Hilfe
@@ -568,7 +568,7 @@ Nächste Seite
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
-     ![](https://cdn.test.de/file/image/42/53/5b720b97-8fdd-4e4e-b954-7f9339d83632-mobile/cr-newsletter_02-mobil-1000px;w400.png)
+     ![](https://cdn.test.de/file/image/25/65/6991c5b3-fe9a-4f95-a8ae-c4ba548e76b5-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
 Isabella Eigner  
 Chefredakteurin testMatthias Thieme  
@@ -588,21 +588,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
-* [Rechts­schutz­versicherung im Vergleich: Mit gutem Rechts­schutz finanziell abge­sichert](https://www.test.de/Rechtsschutzversicherung-im-Vergleich-4776988-0/ "Rechtsschutzversicherung im Vergleich - Mit gutem Rechtsschutz finanziell abgesichert")
-* [Mineral­wasser im Test: Still bis spritzig – die besten Durst­löscher](https://www.test.de/Natuerliches-Mineralwasser-im-Test-4258945-0/ "Mineralwasser im Test - Still bis spritzig – die besten Durstlöscher")
-* [Backup-Software im Test: Daten sichern? Welche Programme für PC und Handy hilf­reich sind](https://www.test.de/Backup-Software-im-Test-4622858-0/ "Backup-Software im Test - Daten sichern? Welche Programme für PC und Handy hilfreich sind")
-* [Fahr­rad­anhänger im Test: Gefahren für Kinder und Umwelt](https://www.test.de/Fahrradanhaenger-im-Test-1859173-0/ "Fahrradanhänger im Test - Gefahren für Kinder und Umwelt")
-* [Wärmepumpen im Test: Heiße Kisten für die Klimawende](https://www.test.de/Waermepumpen-im-Test-Waerme-aus-dem-Garten-6046080-0/ "Wärmepumpen im Test - Heiße Kisten für die Klimawende")
-* [Akku­staubsauger-Reparatur­dienste im Test: Nur einer repariert sehr gut](https://www.test.de/staubsauger-reparaturdienste-im-test-6134473-0/ "Akkustaubsauger-Reparaturdienste im Test - Nur einer repariert sehr gut")
+* [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
+* [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
+* [Anschluss­finanzierung: So sichern Sie sich einen güns­tigen Anschluss­kredit](https://www.test.de/Anschlussfinanzierung-Kredit-Zinsen-Vergleich-4963970-0/ "Anschlussfinanzierung - So sichern Sie sich einen günstigen Anschlusskredit")
+* [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
+* [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
+* [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 
 test.de entdecken
 
-* [Fotos vom Smartphone auf dem Fernseher ansehen: So klappt die moderne Diashow](https://www.test.de/Fotos-vom-Smartphone-auf-dem-Fernseher-ansehen-So-klappt-die-moderne-Diashow-6049555-0/ "Fotos vom Smartphone auf dem Fernseher ansehen - So klappt die moderne Diashow")
-* [Laptop: 9 Tipps für ein langes Notebook-Leben](https://www.test.de/Laptop-9-Tipps-fuer-ein-langes-Notebook-Leben-5999514-0/ "Laptop - 9 Tipps für ein langes Notebook-Leben")
-* [Medikamente richtig einnehmen: 9 Tipps zum Teilen, Schlu­cken, Aufbewahren](https://www.test.de/Medikamente-richtig-einnehmen-Neun-Tipps-zum-Teilen-Schlucken-und-Aufbewahren-5996599-0/ "Medikamente richtig einnehmen - 9 Tipps zum Teilen, Schlucken, Aufbewahren")
-* [Daten­pannen bei Facebook und Co: Sichern Sie sich Ihre Chancen auf Schaden­ersatz](https://www.test.de/Facebook-Datenpanne-Schmerzensgeld-nach-Hacker-Erfolg-5933730-0/ "Datenpannen bei Facebook und Co - Sichern Sie sich Ihre Chancen auf Schadenersatz")
-* [49-Euro-Ticket: Günstig reisen mit dem Deutsch­land­ticket](https://www.test.de/49-Euro-Ticket-Das-muessen-Sie-wissen-5944873-0/ "49-Euro-Ticket - Günstig reisen mit dem Deutschlandticket")
-* [Finanz­bildung: Mit Kindern über Geld sprechen](https://www.test.de/Mit-Kindern-ueber-Geld-sprechen-6071008-0/ "Finanzbildung - Mit Kindern über Geld sprechen")
+* [Haferdrink-Pulver im Schnell­test: Hafermilch zum Anrühren − bringts das?](https://www.test.de/Haferdrink-Pulver-im-Test-6128130-0/ "Haferdrink-Pulver im Schnelltest - Hafermilch zum Anrühren − bringts das?")
+* [Dubioses Fest­geld: Vorsicht bei Spar-Global](https://www.test.de/Dubioses-Festgeld-Vorsicht-bei-Spar-Global-6149600-0/ "Dubioses Festgeld - Vorsicht bei Spar-Global")
+* [Photovoltaik-Anlagen: So erkennen Sie unseriöse Anbieter von Solar­anlagen](https://www.test.de/Photovoltaik-Anlagen-So-erkennen-Sie-unserioese-Anbieter-von-Solaranlagen-6149204-0/ "Photovoltaik-Anlagen - So erkennen Sie unseriöse Anbieter von Solaranlagen")
+* [Crowdfunding-Insolvenzen: Kein Grund zum Schwärmen](https://www.test.de/Crowdfunding-Worauf-es-bei-der-Schwarmfinanzierung-ankommt-6082986-0/ "Crowdfunding-Insolvenzen - Kein Grund zum Schwärmen")
+* [Wert­papierdepots: Kunden des Smart­broker müssen umziehen](https://www.test.de/Wertpapierdepots-Kunden-des-Smartbroker-muessen-umziehen-6048760-0/ "Wertpapierdepots - Kunden des Smartbroker müssen umziehen")
+* [Fototipp: So gelingen Vitrinenfotos im Museum](https://www.test.de/Fototipp-So-gelingen-Vitrinenfotos-im-Museum-5936852-0/ "Fototipp - So gelingen Vitrinenfotos im Museum")
 
 Fußbereich
 
@@ -805,7 +805,7 @@ Suchen
             
             Meistgelesene Tests & Themen
             
-            * [Überblick Versicherungen](https://www.test.de/Versicherungen-Optimaler-Risikoschutz-1162242-0/)
+            * [Der Versicherungs-Check](https://www.test.de/Versicherungen-Optimaler-Risikoschutz-1162242-0/)
             * [Krankenkassen](https://www.test.de/Krankenkassenvergleich-1801418-0/)
             * [Zahnzusatzversicherung](https://www.test.de/Zahnzusatzversicherung-im-Test-4730314-0/)
             * [Berufs­unfähigkeits­­versicherung](https://www.test.de/Berufsunfaehigkeitsversicherung-im-Test-4881349-0/)
@@ -894,7 +894,7 @@ Suchen
             
             * [Steuerberechnung für Rentner](https://www.test.de/Steuerberechnung-fuer-Rentner-Hilfe-fuer-die-Steuerschaetzung-1231254-0/)
             * [Rechtsschutzversicherung](https://www.test.de/Rechtsschutzversicherung-im-Vergleich-4776988-0/)
-            * [Patientenverfügung, Vorsorgevollmacht](https://www.test.de/Vorsorgevollmacht-und-Patientenverfuegung-Wie-Sie-rechtzeitig-Klarheit-schaffen-4641470-0/)
+            * [Patientenverfügung, Vorsorgevollmacht](https://www.test.de/Patientenverfuegung-4641470-0/)
             * [Testament](https://www.test.de/Testament-So-regeln-Sie-Ihr-Erbe-nach-Ihren-Wuenschen-5055551-0/)
             * [Privatverkauf im Internet](https://www.test.de/Verkauf-im-Internet-Haftung-ausschliessen-als-Verkaeufer-4533698-0/)
             * [Steuererklärung pünktlich abgeben](https://www.test.de/Steuererklaerung-Frist-Abgabe-5619211-0/)
@@ -1158,7 +1158,7 @@ Suchen
             
             Meistgelesene Tests & Themen
             
-            * [Überblick Versicherungen](https://www.test.de/Versicherungen-Optimaler-Risikoschutz-1162242-0/)
+            * [Der Versicherungs-Check](https://www.test.de/Versicherungen-Optimaler-Risikoschutz-1162242-0/)
             * [Krankenkassen](https://www.test.de/Krankenkassenvergleich-1801418-0/)
             * [Zahnzusatzversicherung](https://www.test.de/Zahnzusatzversicherung-im-Test-4730314-0/)
             * [Berufs­unfähigkeits­­versicherung](https://www.test.de/Berufsunfaehigkeitsversicherung-im-Test-4881349-0/)
@@ -1247,7 +1247,7 @@ Suchen
             
             * [Steuerberechnung für Rentner](https://www.test.de/Steuerberechnung-fuer-Rentner-Hilfe-fuer-die-Steuerschaetzung-1231254-0/)
             * [Rechtsschutzversicherung](https://www.test.de/Rechtsschutzversicherung-im-Vergleich-4776988-0/)
-            * [Patientenverfügung, Vorsorgevollmacht](https://www.test.de/Vorsorgevollmacht-und-Patientenverfuegung-Wie-Sie-rechtzeitig-Klarheit-schaffen-4641470-0/)
+            * [Patientenverfügung, Vorsorgevollmacht](https://www.test.de/Patientenverfuegung-4641470-0/)
             * [Testament](https://www.test.de/Testament-So-regeln-Sie-Ihr-Erbe-nach-Ihren-Wuenschen-5055551-0/)
             * [Privatverkauf im Internet](https://www.test.de/Verkauf-im-Internet-Haftung-ausschliessen-als-Verkaeufer-4533698-0/)
             * [Steuererklärung pünktlich abgeben](https://www.test.de/Steuererklaerung-Frist-Abgabe-5619211-0/)
@@ -1494,7 +1494,7 @@ Suchen
             
             Meistgelesene Tests & Themen
             
-            * [Überblick Versicherungen](https://www.test.de/Versicherungen-Optimaler-Risikoschutz-1162242-0/)
+            * [Der Versicherungs-Check](https://www.test.de/Versicherungen-Optimaler-Risikoschutz-1162242-0/)
             * [Krankenkassen](https://www.test.de/Krankenkassenvergleich-1801418-0/)
             * [Zahnzusatzversicherung](https://www.test.de/Zahnzusatzversicherung-im-Test-4730314-0/)
             * [Berufs­unfähigkeits­­versicherung](https://www.test.de/Berufsunfaehigkeitsversicherung-im-Test-4881349-0/)
@@ -1583,7 +1583,7 @@ Suchen
             
             * [Steuerberechnung für Rentner](https://www.test.de/Steuerberechnung-fuer-Rentner-Hilfe-fuer-die-Steuerschaetzung-1231254-0/)
             * [Rechtsschutzversicherung](https://www.test.de/Rechtsschutzversicherung-im-Vergleich-4776988-0/)
-            * [Patientenverfügung, Vorsorgevollmacht](https://www.test.de/Vorsorgevollmacht-und-Patientenverfuegung-Wie-Sie-rechtzeitig-Klarheit-schaffen-4641470-0/)
+            * [Patientenverfügung, Vorsorgevollmacht](https://www.test.de/Patientenverfuegung-4641470-0/)
             * [Testament](https://www.test.de/Testament-So-regeln-Sie-Ihr-Erbe-nach-Ihren-Wuenschen-5055551-0/)
             * [Privatverkauf im Internet](https://www.test.de/Verkauf-im-Internet-Haftung-ausschliessen-als-Verkaeufer-4533698-0/)
             * [Steuererklärung pünktlich abgeben](https://www.test.de/Steuererklaerung-Frist-Abgabe-5619211-0/)
@@ -1802,7 +1802,7 @@ Versicherungen
 
 Meistgelesene Tests & Themen
 
-* [Überblick Versicherungen](https://www.test.de/Versicherungen-Optimaler-Risikoschutz-1162242-0/)
+* [Der Versicherungs-Check](https://www.test.de/Versicherungen-Optimaler-Risikoschutz-1162242-0/)
 * [Krankenkassen](https://www.test.de/Krankenkassenvergleich-1801418-0/)
 * [Zahnzusatzversicherung](https://www.test.de/Zahnzusatzversicherung-im-Test-4730314-0/)
 * [Berufs­unfähigkeits­­versicherung](https://www.test.de/Berufsunfaehigkeitsversicherung-im-Test-4881349-0/)
@@ -1811,7 +1811,7 @@ Meistgelesene Tests & Themen
 
 Meistgelesene Tests & Themen
 
-* [Überblick Versicherungen](https://www.test.de/Versicherungen-Optimaler-Risikoschutz-1162242-0/)
+* [Der Versicherungs-Check](https://www.test.de/Versicherungen-Optimaler-Risikoschutz-1162242-0/)
 * [Krankenkassen](https://www.test.de/Krankenkassenvergleich-1801418-0/)
 * [Zahnzusatzversicherung](https://www.test.de/Zahnzusatzversicherung-im-Test-4730314-0/)
 * [Berufs­unfähigkeits­­versicherung](https://www.test.de/Berufsunfaehigkeitsversicherung-im-Test-4881349-0/)
@@ -1880,7 +1880,7 @@ Meistgelesene Tests & Themen
 
 * [Steuerberechnung für Rentner](https://www.test.de/Steuerberechnung-fuer-Rentner-Hilfe-fuer-die-Steuerschaetzung-1231254-0/)
 * [Rechtsschutzversicherung](https://www.test.de/Rechtsschutzversicherung-im-Vergleich-4776988-0/)
-* [Patientenverfügung, Vorsorgevollmacht](https://www.test.de/Vorsorgevollmacht-und-Patientenverfuegung-Wie-Sie-rechtzeitig-Klarheit-schaffen-4641470-0/)
+* [Patientenverfügung, Vorsorgevollmacht](https://www.test.de/Patientenverfuegung-4641470-0/)
 * [Testament](https://www.test.de/Testament-So-regeln-Sie-Ihr-Erbe-nach-Ihren-Wuenschen-5055551-0/)
 * [Privatverkauf im Internet](https://www.test.de/Verkauf-im-Internet-Haftung-ausschliessen-als-Verkaeufer-4533698-0/)
 * [Steuererklärung pünktlich abgeben](https://www.test.de/Steuererklaerung-Frist-Abgabe-5619211-0/)
@@ -1889,7 +1889,7 @@ Meistgelesene Tests & Themen
 
 * [Steuerberechnung für Rentner](https://www.test.de/Steuerberechnung-fuer-Rentner-Hilfe-fuer-die-Steuerschaetzung-1231254-0/)
 * [Rechtsschutzversicherung](https://www.test.de/Rechtsschutzversicherung-im-Vergleich-4776988-0/)
-* [Patientenverfügung, Vorsorgevollmacht](https://www.test.de/Vorsorgevollmacht-und-Patientenverfuegung-Wie-Sie-rechtzeitig-Klarheit-schaffen-4641470-0/)
+* [Patientenverfügung, Vorsorgevollmacht](https://www.test.de/Patientenverfuegung-4641470-0/)
 * [Testament](https://www.test.de/Testament-So-regeln-Sie-Ihr-Erbe-nach-Ihren-Wuenschen-5055551-0/)
 * [Privatverkauf im Internet](https://www.test.de/Verkauf-im-Internet-Haftung-ausschliessen-als-Verkaeufer-4533698-0/)
 * [Steuererklärung pünktlich abgeben](https://www.test.de/Steuererklaerung-Frist-Abgabe-5619211-0/)
@@ -2708,7 +2708,7 @@ Nächste Seite
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
-     ![](https://cdn.test.de/file/image/42/53/5b720b97-8fdd-4e4e-b954-7f9339d83632-mobile/cr-newsletter_02-mobil-1000px;w400.png)
+     ![](https://cdn.test.de/file/image/25/65/6991c5b3-fe9a-4f95-a8ae-c4ba548e76b5-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
 Isabella Eigner  
 Chefredakteurin testMatthias Thieme  
@@ -2728,25 +2728,25 @@ Weitere spannende Themen
 
 Neueste Tests
 
-* [Rechts­schutz­versicherung im Vergleich: Mit gutem Rechts­schutz finanziell abge­sichert](https://www.test.de/Rechtsschutzversicherung-im-Vergleich-4776988-0/ "Rechtsschutzversicherung im Vergleich - Mit gutem Rechtsschutz finanziell abgesichert")
-* [Mineral­wasser im Test: Still bis spritzig – die besten Durst­löscher](https://www.test.de/Natuerliches-Mineralwasser-im-Test-4258945-0/ "Mineralwasser im Test - Still bis spritzig – die besten Durstlöscher")
-* [Backup-Software im Test: Daten sichern? Welche Programme für PC und Handy hilf­reich sind](https://www.test.de/Backup-Software-im-Test-4622858-0/ "Backup-Software im Test - Daten sichern? Welche Programme für PC und Handy hilfreich sind")
-* [Fahr­rad­anhänger im Test: Gefahren für Kinder und Umwelt](https://www.test.de/Fahrradanhaenger-im-Test-1859173-0/ "Fahrradanhänger im Test - Gefahren für Kinder und Umwelt")
-* [Wärmepumpen im Test: Heiße Kisten für die Klimawende](https://www.test.de/Waermepumpen-im-Test-Waerme-aus-dem-Garten-6046080-0/ "Wärmepumpen im Test - Heiße Kisten für die Klimawende")
-* [Akku­staubsauger-Reparatur­dienste im Test: Nur einer repariert sehr gut](https://www.test.de/staubsauger-reparaturdienste-im-test-6134473-0/ "Akkustaubsauger-Reparaturdienste im Test - Nur einer repariert sehr gut")
+* [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
+* [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
+* [Anschluss­finanzierung: So sichern Sie sich einen güns­tigen Anschluss­kredit](https://www.test.de/Anschlussfinanzierung-Kredit-Zinsen-Vergleich-4963970-0/ "Anschlussfinanzierung - So sichern Sie sich einen günstigen Anschlusskredit")
+* [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
+* [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
+* [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 
 test.de entdecken
 
-* [Fotos vom Smartphone auf dem Fernseher ansehen: So klappt die moderne Diashow](https://www.test.de/Fotos-vom-Smartphone-auf-dem-Fernseher-ansehen-So-klappt-die-moderne-Diashow-6049555-0/ "Fotos vom Smartphone auf dem Fernseher ansehen - So klappt die moderne Diashow")
-* [Laptop: 9 Tipps für ein langes Notebook-Leben](https://www.test.de/Laptop-9-Tipps-fuer-ein-langes-Notebook-Leben-5999514-0/ "Laptop - 9 Tipps für ein langes Notebook-Leben")
-* [Medikamente richtig einnehmen: 9 Tipps zum Teilen, Schlu­cken, Aufbewahren](https://www.test.de/Medikamente-richtig-einnehmen-Neun-Tipps-zum-Teilen-Schlucken-und-Aufbewahren-5996599-0/ "Medikamente richtig einnehmen - 9 Tipps zum Teilen, Schlucken, Aufbewahren")
-* [Daten­pannen bei Facebook und Co: Sichern Sie sich Ihre Chancen auf Schaden­ersatz](https://www.test.de/Facebook-Datenpanne-Schmerzensgeld-nach-Hacker-Erfolg-5933730-0/ "Datenpannen bei Facebook und Co - Sichern Sie sich Ihre Chancen auf Schadenersatz")
-* [49-Euro-Ticket: Günstig reisen mit dem Deutsch­land­ticket](https://www.test.de/49-Euro-Ticket-Das-muessen-Sie-wissen-5944873-0/ "49-Euro-Ticket - Günstig reisen mit dem Deutschlandticket")
-* [Finanz­bildung: Mit Kindern über Geld sprechen](https://www.test.de/Mit-Kindern-ueber-Geld-sprechen-6071008-0/ "Finanzbildung - Mit Kindern über Geld sprechen")
+* [Haferdrink-Pulver im Schnell­test: Hafermilch zum Anrühren − bringts das?](https://www.test.de/Haferdrink-Pulver-im-Test-6128130-0/ "Haferdrink-Pulver im Schnelltest - Hafermilch zum Anrühren − bringts das?")
+* [Dubioses Fest­geld: Vorsicht bei Spar-Global](https://www.test.de/Dubioses-Festgeld-Vorsicht-bei-Spar-Global-6149600-0/ "Dubioses Festgeld - Vorsicht bei Spar-Global")
+* [Photovoltaik-Anlagen: So erkennen Sie unseriöse Anbieter von Solar­anlagen](https://www.test.de/Photovoltaik-Anlagen-So-erkennen-Sie-unserioese-Anbieter-von-Solaranlagen-6149204-0/ "Photovoltaik-Anlagen - So erkennen Sie unseriöse Anbieter von Solaranlagen")
+* [Crowdfunding-Insolvenzen: Kein Grund zum Schwärmen](https://www.test.de/Crowdfunding-Worauf-es-bei-der-Schwarmfinanzierung-ankommt-6082986-0/ "Crowdfunding-Insolvenzen - Kein Grund zum Schwärmen")
+* [Wert­papierdepots: Kunden des Smart­broker müssen umziehen](https://www.test.de/Wertpapierdepots-Kunden-des-Smartbroker-muessen-umziehen-6048760-0/ "Wertpapierdepots - Kunden des Smartbroker müssen umziehen")
+* [Fototipp: So gelingen Vitrinenfotos im Museum](https://www.test.de/Fototipp-So-gelingen-Vitrinenfotos-im-Museum-5936852-0/ "Fototipp - So gelingen Vitrinenfotos im Museum")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
-     ![](https://cdn.test.de/file/image/42/53/5b720b97-8fdd-4e4e-b954-7f9339d83632-mobile/cr-newsletter_02-mobil-1000px;w400.png)
+     ![](https://cdn.test.de/file/image/25/65/6991c5b3-fe9a-4f95-a8ae-c4ba548e76b5-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
 Isabella Eigner  
 Chefredakteurin testMatthias Thieme  
@@ -2762,7 +2762,7 @@ Mobilrufnummer 2  Eltern-Geburtstag  Untertitel 2
 
 Ja, ich möchte diesen und weitere Newsletter der Stiftung Warentest abonnieren und bin mit der Auswertung meiner Newsletternutzung einverstanden. [Informationen zu den Newslettern und zum Datenschutz.](https://www.test.de/datenschutz/#id5105473)
 
-     ![](https://cdn.test.de/file/image/42/53/5b720b97-8fdd-4e4e-b954-7f9339d83632-mobile/cr-newsletter_02-mobil-1000px;w400.png)
+     ![](https://cdn.test.de/file/image/25/65/6991c5b3-fe9a-4f95-a8ae-c4ba548e76b5-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
 Isabella Eigner  
 Chefredakteurin testMatthias Thieme  
@@ -2786,39 +2786,39 @@ Weitere spannende Themen
 
 Neueste Tests
 
-* [Rechts­schutz­versicherung im Vergleich: Mit gutem Rechts­schutz finanziell abge­sichert](https://www.test.de/Rechtsschutzversicherung-im-Vergleich-4776988-0/ "Rechtsschutzversicherung im Vergleich - Mit gutem Rechtsschutz finanziell abgesichert")
-* [Mineral­wasser im Test: Still bis spritzig – die besten Durst­löscher](https://www.test.de/Natuerliches-Mineralwasser-im-Test-4258945-0/ "Mineralwasser im Test - Still bis spritzig – die besten Durstlöscher")
-* [Backup-Software im Test: Daten sichern? Welche Programme für PC und Handy hilf­reich sind](https://www.test.de/Backup-Software-im-Test-4622858-0/ "Backup-Software im Test - Daten sichern? Welche Programme für PC und Handy hilfreich sind")
-* [Fahr­rad­anhänger im Test: Gefahren für Kinder und Umwelt](https://www.test.de/Fahrradanhaenger-im-Test-1859173-0/ "Fahrradanhänger im Test - Gefahren für Kinder und Umwelt")
-* [Wärmepumpen im Test: Heiße Kisten für die Klimawende](https://www.test.de/Waermepumpen-im-Test-Waerme-aus-dem-Garten-6046080-0/ "Wärmepumpen im Test - Heiße Kisten für die Klimawende")
-* [Akku­staubsauger-Reparatur­dienste im Test: Nur einer repariert sehr gut](https://www.test.de/staubsauger-reparaturdienste-im-test-6134473-0/ "Akkustaubsauger-Reparaturdienste im Test - Nur einer repariert sehr gut")
+* [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
+* [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
+* [Anschluss­finanzierung: So sichern Sie sich einen güns­tigen Anschluss­kredit](https://www.test.de/Anschlussfinanzierung-Kredit-Zinsen-Vergleich-4963970-0/ "Anschlussfinanzierung - So sichern Sie sich einen günstigen Anschlusskredit")
+* [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
+* [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
+* [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 
 test.de entdecken
 
-* [Fotos vom Smartphone auf dem Fernseher ansehen: So klappt die moderne Diashow](https://www.test.de/Fotos-vom-Smartphone-auf-dem-Fernseher-ansehen-So-klappt-die-moderne-Diashow-6049555-0/ "Fotos vom Smartphone auf dem Fernseher ansehen - So klappt die moderne Diashow")
-* [Laptop: 9 Tipps für ein langes Notebook-Leben](https://www.test.de/Laptop-9-Tipps-fuer-ein-langes-Notebook-Leben-5999514-0/ "Laptop - 9 Tipps für ein langes Notebook-Leben")
-* [Medikamente richtig einnehmen: 9 Tipps zum Teilen, Schlu­cken, Aufbewahren](https://www.test.de/Medikamente-richtig-einnehmen-Neun-Tipps-zum-Teilen-Schlucken-und-Aufbewahren-5996599-0/ "Medikamente richtig einnehmen - 9 Tipps zum Teilen, Schlucken, Aufbewahren")
-* [Daten­pannen bei Facebook und Co: Sichern Sie sich Ihre Chancen auf Schaden­ersatz](https://www.test.de/Facebook-Datenpanne-Schmerzensgeld-nach-Hacker-Erfolg-5933730-0/ "Datenpannen bei Facebook und Co - Sichern Sie sich Ihre Chancen auf Schadenersatz")
-* [49-Euro-Ticket: Günstig reisen mit dem Deutsch­land­ticket](https://www.test.de/49-Euro-Ticket-Das-muessen-Sie-wissen-5944873-0/ "49-Euro-Ticket - Günstig reisen mit dem Deutschlandticket")
-* [Finanz­bildung: Mit Kindern über Geld sprechen](https://www.test.de/Mit-Kindern-ueber-Geld-sprechen-6071008-0/ "Finanzbildung - Mit Kindern über Geld sprechen")
+* [Haferdrink-Pulver im Schnell­test: Hafermilch zum Anrühren − bringts das?](https://www.test.de/Haferdrink-Pulver-im-Test-6128130-0/ "Haferdrink-Pulver im Schnelltest - Hafermilch zum Anrühren − bringts das?")
+* [Dubioses Fest­geld: Vorsicht bei Spar-Global](https://www.test.de/Dubioses-Festgeld-Vorsicht-bei-Spar-Global-6149600-0/ "Dubioses Festgeld - Vorsicht bei Spar-Global")
+* [Photovoltaik-Anlagen: So erkennen Sie unseriöse Anbieter von Solar­anlagen](https://www.test.de/Photovoltaik-Anlagen-So-erkennen-Sie-unserioese-Anbieter-von-Solaranlagen-6149204-0/ "Photovoltaik-Anlagen - So erkennen Sie unseriöse Anbieter von Solaranlagen")
+* [Crowdfunding-Insolvenzen: Kein Grund zum Schwärmen](https://www.test.de/Crowdfunding-Worauf-es-bei-der-Schwarmfinanzierung-ankommt-6082986-0/ "Crowdfunding-Insolvenzen - Kein Grund zum Schwärmen")
+* [Wert­papierdepots: Kunden des Smart­broker müssen umziehen](https://www.test.de/Wertpapierdepots-Kunden-des-Smartbroker-muessen-umziehen-6048760-0/ "Wertpapierdepots - Kunden des Smartbroker müssen umziehen")
+* [Fototipp: So gelingen Vitrinenfotos im Museum](https://www.test.de/Fototipp-So-gelingen-Vitrinenfotos-im-Museum-5936852-0/ "Fototipp - So gelingen Vitrinenfotos im Museum")
 
 Neueste Tests
 
-* [Rechts­schutz­versicherung im Vergleich: Mit gutem Rechts­schutz finanziell abge­sichert](https://www.test.de/Rechtsschutzversicherung-im-Vergleich-4776988-0/ "Rechtsschutzversicherung im Vergleich - Mit gutem Rechtsschutz finanziell abgesichert")
-* [Mineral­wasser im Test: Still bis spritzig – die besten Durst­löscher](https://www.test.de/Natuerliches-Mineralwasser-im-Test-4258945-0/ "Mineralwasser im Test - Still bis spritzig – die besten Durstlöscher")
-* [Backup-Software im Test: Daten sichern? Welche Programme für PC und Handy hilf­reich sind](https://www.test.de/Backup-Software-im-Test-4622858-0/ "Backup-Software im Test - Daten sichern? Welche Programme für PC und Handy hilfreich sind")
-* [Fahr­rad­anhänger im Test: Gefahren für Kinder und Umwelt](https://www.test.de/Fahrradanhaenger-im-Test-1859173-0/ "Fahrradanhänger im Test - Gefahren für Kinder und Umwelt")
-* [Wärmepumpen im Test: Heiße Kisten für die Klimawende](https://www.test.de/Waermepumpen-im-Test-Waerme-aus-dem-Garten-6046080-0/ "Wärmepumpen im Test - Heiße Kisten für die Klimawende")
-* [Akku­staubsauger-Reparatur­dienste im Test: Nur einer repariert sehr gut](https://www.test.de/staubsauger-reparaturdienste-im-test-6134473-0/ "Akkustaubsauger-Reparaturdienste im Test - Nur einer repariert sehr gut")
+* [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
+* [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
+* [Anschluss­finanzierung: So sichern Sie sich einen güns­tigen Anschluss­kredit](https://www.test.de/Anschlussfinanzierung-Kredit-Zinsen-Vergleich-4963970-0/ "Anschlussfinanzierung - So sichern Sie sich einen günstigen Anschlusskredit")
+* [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
+* [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
+* [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 
 test.de entdecken
 
-* [Fotos vom Smartphone auf dem Fernseher ansehen: So klappt die moderne Diashow](https://www.test.de/Fotos-vom-Smartphone-auf-dem-Fernseher-ansehen-So-klappt-die-moderne-Diashow-6049555-0/ "Fotos vom Smartphone auf dem Fernseher ansehen - So klappt die moderne Diashow")
-* [Laptop: 9 Tipps für ein langes Notebook-Leben](https://www.test.de/Laptop-9-Tipps-fuer-ein-langes-Notebook-Leben-5999514-0/ "Laptop - 9 Tipps für ein langes Notebook-Leben")
-* [Medikamente richtig einnehmen: 9 Tipps zum Teilen, Schlu­cken, Aufbewahren](https://www.test.de/Medikamente-richtig-einnehmen-Neun-Tipps-zum-Teilen-Schlucken-und-Aufbewahren-5996599-0/ "Medikamente richtig einnehmen - 9 Tipps zum Teilen, Schlucken, Aufbewahren")
-* [Daten­pannen bei Facebook und Co: Sichern Sie sich Ihre Chancen auf Schaden­ersatz](https://www.test.de/Facebook-Datenpanne-Schmerzensgeld-nach-Hacker-Erfolg-5933730-0/ "Datenpannen bei Facebook und Co - Sichern Sie sich Ihre Chancen auf Schadenersatz")
-* [49-Euro-Ticket: Günstig reisen mit dem Deutsch­land­ticket](https://www.test.de/49-Euro-Ticket-Das-muessen-Sie-wissen-5944873-0/ "49-Euro-Ticket - Günstig reisen mit dem Deutschlandticket")
-* [Finanz­bildung: Mit Kindern über Geld sprechen](https://www.test.de/Mit-Kindern-ueber-Geld-sprechen-6071008-0/ "Finanzbildung - Mit Kindern über Geld sprechen")
+* [Haferdrink-Pulver im Schnell­test: Hafermilch zum Anrühren − bringts das?](https://www.test.de/Haferdrink-Pulver-im-Test-6128130-0/ "Haferdrink-Pulver im Schnelltest - Hafermilch zum Anrühren − bringts das?")
+* [Dubioses Fest­geld: Vorsicht bei Spar-Global](https://www.test.de/Dubioses-Festgeld-Vorsicht-bei-Spar-Global-6149600-0/ "Dubioses Festgeld - Vorsicht bei Spar-Global")
+* [Photovoltaik-Anlagen: So erkennen Sie unseriöse Anbieter von Solar­anlagen](https://www.test.de/Photovoltaik-Anlagen-So-erkennen-Sie-unserioese-Anbieter-von-Solaranlagen-6149204-0/ "Photovoltaik-Anlagen - So erkennen Sie unseriöse Anbieter von Solaranlagen")
+* [Crowdfunding-Insolvenzen: Kein Grund zum Schwärmen](https://www.test.de/Crowdfunding-Worauf-es-bei-der-Schwarmfinanzierung-ankommt-6082986-0/ "Crowdfunding-Insolvenzen - Kein Grund zum Schwärmen")
+* [Wert­papierdepots: Kunden des Smart­broker müssen umziehen](https://www.test.de/Wertpapierdepots-Kunden-des-Smartbroker-muessen-umziehen-6048760-0/ "Wertpapierdepots - Kunden des Smartbroker müssen umziehen")
+* [Fototipp: So gelingen Vitrinenfotos im Museum](https://www.test.de/Fototipp-So-gelingen-Vitrinenfotos-im-Museum-5936852-0/ "Fototipp - So gelingen Vitrinenfotos im Museum")
 
 Service Stiftung Warentest
 
