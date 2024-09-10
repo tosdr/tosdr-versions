@@ -8,7 +8,6 @@
     * [New cars](https://www.carsales.com.au/cars/new/)
     * [Private seller cars](https://www.carsales.com.au/cars/private/)
     * [Electric cars](https://www.carsales.com.au/cars/electric-fueltype/)
-    * [carsales SELECT](https://www.carsales.com.au/carsales-select/)
     * [Finance](https://www.carsales.com.au/car-finance/)
     
     ##### Popular makes
@@ -183,7 +182,10 @@ Personal information collected by carsales will depend on the circumstances of c
 * if you are using an Android device, advertising-specific device identifiers; and
 * if you are using an Apple device, your Advertising Identifier.
 
-carsales does not typically collect sensitive information as defined in the Privacy Act, such as racial or ethnicity information, political opinions or associations, criminal records (except where provided by law enforcement authorities) or health information. However, subject to obtaining your prior consent, carsales may collect sensitive information from you in the course of considering an application for employment.
+carsales does not typically collect sensitive information as defined in the Privacy Act, such as racial or ethnicity information, political opinions or associations, criminal records (except where provided by law enforcement authorities) or health information. However, carsales may collect sensitive information about you:
+
+* where carsales is legally required to do so in order to provide a product or service to you (e.g. if you complete the identity document check process to use the ‘pay through carsales’ service, carsales may be legally obliged to check whether you are a politically exposed person, which may involve collecting information about your political associations); and
+* in other situations where we obtain your express consent (e.g. in the course of considering an application for employment).
 
 How is my personal information collected?
 -----------------------------------------
@@ -339,7 +341,7 @@ Does this policy change?
 
 This policy may change over time. All changes will be published on this website and will only apply to personal information that has been collected after the date you accept the new privacy policy. If the changes will impact personal information collected prior to the date the changes are made then we will provide 30 days’ written notice to you of the relevant changes, where reasonably possible.
 
-_Version 13.0 (July 2024)_
+_Version 14.0 (August 2024)_
 
 Contact
 
