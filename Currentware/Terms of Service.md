@@ -27,7 +27,7 @@
 * Solutions
     
     * [By Use Case](https://www.currentware.com/solutions/#use-case)
-        * [Computer Monitoring](https://www.currentware.com/solutions/computer-monitoring/)
+        * [Computer Activity Monitoring](https://www.currentware.com/solutions/computer-monitoring/)
         * [Data Loss Prevention](https://www.currentware.com/solutions/data-loss-prevention/)
         * [Employee Investigations](https://www.currentware.com/solutions/employee-investigation/)
         * [Employee Productivity](https://www.currentware.com/solutions/employee-productivity/)
@@ -47,8 +47,7 @@
         * [Small Business](https://www.currentware.com/industries/small-business-employee-productivity/)
 * Customers
     
-    * Our Customers
-        
+    * [Our Customers](https://www.currentware.com/customers/)
         * [Case Studies](https://www.currentware.com/customers/)
         * [Reviews & Awards](https://www.currentware.com/customers/#reviews)
     * Customer Success
@@ -106,7 +105,7 @@
 * Solutions
     
     * [By Use Case](https://www.currentware.com/solutions/#use-case)
-        * [Computer Monitoring](https://www.currentware.com/solutions/computer-monitoring/)
+        * [Computer Activity Monitoring](https://www.currentware.com/solutions/computer-monitoring/)
         * [Data Loss Prevention](https://www.currentware.com/solutions/data-loss-prevention/)
         * [Employee Investigations](https://www.currentware.com/solutions/employee-investigation/)
         * [Employee Productivity](https://www.currentware.com/solutions/employee-productivity/)
@@ -126,8 +125,7 @@
         * [Small Business](https://www.currentware.com/industries/small-business-employee-productivity/)
 * Customers
     
-    * Our Customers
-        
+    * [Our Customers](https://www.currentware.com/customers/)
         * [Case Studies](https://www.currentware.com/customers/)
         * [Reviews & Awards](https://www.currentware.com/customers/#reviews)
     * Customer Success
