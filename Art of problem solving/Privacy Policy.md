@@ -31,7 +31,7 @@ for students ages 6-13.
 ![AoPS Academy](/assets/images/logos/aops-academy.svg)
 
 Small live classes for advanced math  
-and language arts learners in grades 2-12.
+and language arts learners in grades 1-12.
 
 [Visit AoPS Academy ‚](https://aopsacademy.org/)
 
@@ -61,14 +61,14 @@ Middle & High School
 
 [Online Classes: AoPS Online](https://artofproblemsolving.com/) [In-person: AoPS Academy](https://aopsacademy.org/)
 
-Congratulations Team USA, all of whom are AoPS WOOT alumni, for their 1st Place win at the 65th International Mathematical Olympiad! [Discover WOOT](https://artofproblemsolving.com/woot).
+[Challenge your student](https://artofproblemsolving.com/school/schedule) with our math, computer science, contest, and science courses!
 
 JavaScript is not enabled. JavaScript is required to fully utilize the site.
 
 Art of Problem Solving Privacy Policy
 =====================================
 
-AOPS INCORPORATED PRIVACY POLICY - EFFECTIVE February 26, 2024
+AOPS INCORPORATED PRIVACY POLICY - EFFECTIVE August 1, 2024
 
 This Privacy Policy applies to all users. Please [click here](#coppa) for our specific information practices with regards to children under 13 (also provided at the end of this policy).
 
@@ -82,7 +82,7 @@ Users using our online community or other online resources requiring membership
 
 To post information in a forum, to use some of our online educational tools, or to attend online classes, you must become a member of the Art of Problem Solving Community. To become a member, the only personal information we require is your email address and a username that you select. The username that you select is used as an onscreen name to identify you; it is strongly recommended that it not be your real name, but a pseudonym. You will also select a password, which is needed to log on. We do ask about your general geographic location, your occupation, and interests, but none of this information is required for membership in the Community.
 
-Your email address is used by us to send messages to you. We do so to confirm your username and password if you should forget your username or password. We also use your email address to assist in administering our web site and to help enforce our conduct rules (for example, people who post offensive messages in the forum can be banned). Should you enroll in an Art of Problem Solving online class, your email address will be used for communication purposes for that class. We will not send solicitation emails collected as part of the Art of Problem Solving Community unless the user elects to join our mailing lists. If you elect to join our mailing lists, we may share your name, phone number, and email address with third parties to share updates and information about our services/related services with you. We will not share your email address with any other third parties except when required by law.
+Your email address is used by us to send messages to you. We do so to confirm your username and password if you should forget your username or password. We also use your email address to assist in administering our web site and to help enforce our conduct rules (for example, people who post offensive messages in the forum can be banned). Should you enroll in an Art of Problem Solving online class, your email address will be used for communication purposes for that class. We will not send solicitation emails collected as part of the Art of Problem Solving Community unless the user elects to join our mailing lists. If you elect to join our mailing lists, we may share your name and email address with third parties to share updates and information about our services/related services with you. We will not share your email address with any other third parties except when required by law.
 
 Our site has forums (message boards), private messaging, and real-time discussion available to its members. Please remember that any information that is disclosed in these areas is potentially available to other members and in some cases to the general public. You should not disclose any personal information, such as your real name, address, telephone number, email address, etc. Your username is the only identity that you need to have, and that is how people should know you on our site.
 
@@ -126,7 +126,7 @@ Your real name and username, along with other data that we have collected includ
 Customers purchasing a product or service
 -----------------------------------------
 
-We collect certain information from a customer who is purchasing a product and/or service using our online ordering system. Such information may include: your name, your shipping address, your billing address, your credit card information, other information related to other forms of payment (e.g., Paypal), your email address, and your phone number. This information is used to process your purchase and to contact you if there is an issue with your purchase. We will share this information with our credit card payment processor. Additionally, your name, shipping address, email address, and/or phone number may be shared with the United States Postal Service or other private carrier, for the purpose of delivering any purchased goods to your shipping address. We will store all of this information on our secure server, except for your credit card information, which is only retained until your payment has been processed and is not stored thereafter; however, this information may be retained by our credit card processor for the purpose of processing additional transactions, refunds, and/or chargebacks. We will not use this information for any purpose other than to process your purchase, and will not share this information with any other third party, except as described above or as may be required by law. We may use your name, phone number, and email address for marketing purposes, but only if you give your permission to do so during the purchasing process, and such permission may be withdrawn at any time by contacting us (via the methods listed under "Contact Information" below). If you give your permission, we may share that information with third parties for the purposes of sending emails and texts and with third party social media platforms you may use to share updates and information about our services/related services with you on those platforms. Even if you opt out of such communication, however, we reserve the right to send you transactional messages, including email and other communications to provide account related information, disclose maintenance, transaction-related matters (e.g., order confirmation, shipping information, account status information, etc.) and other service-related issues.
+We collect certain information from a customer who is purchasing a product and/or service using our online ordering system. Such information may include: your name, your shipping address, your billing address, your credit card information, other information related to other forms of payment (e.g., Paypal), your email address, and your phone number. This information is used to process your purchase and to contact you if there is an issue with your purchase. We will share this information with our credit card payment processor. Additionally, your name, shipping address, email address, and/or phone number may be shared with the United States Postal Service or other private carrier, for the purpose of delivering any purchased goods to your shipping address. We will store all of this information on our secure server, except for your credit card information, which is only retained until your payment has been processed and is not stored thereafter; however, this information may be retained by our credit card processor for the purpose of processing additional transactions, refunds, and/or chargebacks. We will not use this information for any purpose other than to process your purchase, and will not share this information with any other third party, except as described above or as may be required by law. We may use your name and email address for marketing purposes, but only if you give your permission to do so during the purchasing process, and such permission may be withdrawn at any time by contacting us (via the methods listed under "Contact Information" below). If you give your permission, we may share that information with third parties for the purposes of sending emails and with third party social media platforms you may use to share updates and information about our services/related services with you on those platforms. Even if you opt out of such communication, however, we reserve the right to send you transactional messages, including email and other communications to provide account related information, disclose maintenance, transaction-related matters (e.g., order confirmation, shipping information, account status information, etc.) and other service-related issues. We may use your phone number to send transactional messages or respond to customer support requests, but will not use it for marketing purposes.
 
 Job Applicants
 --------------
@@ -206,7 +206,7 @@ Our site contains links to other sites. We are not responsible for the privacy p
 Effective date and notice of future changes
 -------------------------------------------
 
-This Privacy Policy is effective February 26, 2024. This Privacy Policy may be updated from time to time as necessary.
+This Privacy Policy is effective August 1, 2024. This Privacy Policy may be updated from time to time as necessary.
 
 COPPA Policy
 ============
@@ -265,7 +265,7 @@ San Diego, CA 92128
 (858) 675-4555  
 coppa@aops.com
 
-This COPPA Policy is current as of February 26, 2024. We may change this COPPA Policy from time to time, so please be sure to review periodically. This policy will be available at our website at https://artofproblemsolving.com/company/privacy.
+This COPPA Policy is current as of August 1, 2024. We may change this COPPA Policy from time to time, so please be sure to review periodically. This policy will be available at our website at https://artofproblemsolving.com/company/privacy.
 
 [![](/assets/images/logos/aops-main-white.svg)](https://artofproblemsolving.com/)
 
