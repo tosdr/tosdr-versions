@@ -49,7 +49,7 @@ Privacy Notice
 ==============
 
 * [Deutsch](https://www.rovio.com/privacy-gr/)
-* [Español](https://www.rovio.comprivacy-sp/)
+* [Español](https://www.rovio.com/privacy-sp/)
 * [Français](https://www.rovio.com/privacy-fr/)
 * [bahasa Indonesia](https://www.rovio.com/privacy-id/)
 * [Italiano](https://www.rovio.com/privacy-it/)
