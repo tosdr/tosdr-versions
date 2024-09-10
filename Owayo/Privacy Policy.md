@@ -18,6 +18,7 @@
     * [Mugs](https://www.owayo.com/productservice/products/mugs-us.htm)
     * [Mouse Pads](https://www.owayo.com/productservice/products/mouse-pads-us.htm)
     * [Bags](https://www.owayo.com/productservice/products/bags-us.htm)
+    * [Gym Bags](https://www.owayo.com/custom-gym-bag-drawstring.htm)
     * [Banner](https://www.owayo.com/productservice/products/banner-us.htm)
     
 * [Other Worlds ...](#)
@@ -109,6 +110,8 @@ Your shopping cart is empty.
     * [Mouse Pads](https://www.owayo.com/productservice/products/mouse-pads-us.htm)
     
     * [Bags](https://www.owayo.com/productservice/products/bags-us.htm)
+    
+    * [Gym Bags](https://www.owayo.com/custom-gym-bag-drawstring.htm)
     
     * [Banner](https://www.owayo.com/productservice/products/banner-us.htm)
     
@@ -853,10 +856,10 @@ Sports
 
 * [Soccer](https://www.owayo.com/soccer-us.htm)
 * [Handball](https://www.owayo.com/design-customized-handball-jerseys.htm)
-* [Basketball](https://www.owayo.com/custom-basketball-jerseys.htm)
+* [Basketball](https://www.owayo.com/basketball-us.htm)
 * [Hockey](https://www.owayo.com/hockey-us.htm)
 * [Cycling](https://www.owayo.com/cycling-us.htm)
-* [Running](https://www.owayo.com/custom-running-shirts.htm)
+* [Running](https://www.owayo.com/running-us.htm)
 * [Esports](https://www.owayo.com/custom-esports-jerseys.htm)
 * [Yoga](https://www.owayo.com/custom-yoga-pants.htm)
 * [Motocross](https://www.owayo.com/design-custom-motocross-jerseys.htm)
@@ -885,6 +888,7 @@ About owayo
 * [References](https://www.owayo.com/cycling/references-us.htm)
 * [Design of the Day](https://www.owayo.com/cycling/designoftheday-us.htm)
 * [Athletes and Teams](https://www.owayo.com/cycling/athletes-us.htm)
+* [Made in Germany](https://www.owayo.com/cycling/made_in_germany-us.htm)
 * [Environmental Responsibility](https://www.owayo.com/cycling/environmental_responsibility-us.htm)
 * [Inside](https://www.owayo.com/cycling/inside-us.htm)
 
