@@ -1,6 +1,3 @@
-[☀️ SUMMER SALE: SAVE 70% ON A 2 YEAR PASS
------------------------------------------](https://speedify.com/store/)
-
 [![Image](https://speedify.com/wp-content/uploads/speedify.png)](https://speedify.com/)
 
 ##### Speedify LIVE Office Hours
@@ -133,11 +130,22 @@ Speedify is the only app that combines all of your Internet connections to keep 
 
 [Download Speedify](https://speedify.com/download/) 
 
+Upcoming Events
+---------------
+
+Sep 11
+
+10:00 am - 11:00 am EDT
+
+### [9/11 @ 10am EDT – AMD vs Intel vs ARM – What’s going on with Server CPUs? | Ask the CEO your tech questions](http://speedify.com/event/9-11-10am-edt-amd-vs-intel-vs-arm-whats-going-on-with-server-cpus-ask-the-ceo-your-tech-questions/ "9/11 @ 10am EDT – AMD vs Intel vs ARM – What’s going on with Server CPUs? | Ask the CEO your tech questions")
+
+[View Calendar](https://speedify.com/calendar/ "View more events.")
+
 #### Popular Posts
 
 * [\[SOLVED\] Mobile Hotspot Connected but No Internet](https://speedify.com/blog/fix-slow-internet/mobile-hotspot-connected-but-no-internet-fix/)
+* [\[TUTORIAL\] Snapchat Unblocked at School - How to Guide](https://speedify.com/blog/how-to/snapchat-unblocked-at-school-tutorial/)
 * [iPad Keeps Disconnecting from Wi-Fi? Here's the Easy Fix!](https://speedify.com/blog/fix-internet-disconnecting/ipad-keeps-disconnecting-from-wifi-fix/)
-* [WhatsApp Hangs and Is Not Working - Here's How to Fix It](https://speedify.com/blog/fix-internet-disconnecting/fix-whatsapp-hangs-and-is-not-working/)
 
 ### Bonding Apps
 
@@ -187,7 +195,7 @@ Speedify is the only app that combines all of your Internet connections to keep 
 
 Follow us!
 
-[](https://instagram.com/speedify)[](https://facebook.com/speedify)[](https://twitter.com/speedify)[](https://mas.to/@speedify)[](https://www.youtube.com/channel/UC5sC63wOQ7kP3fVF3ZhrMmQ)[](https://www.twitch.tv/speedify)
+[](https://instagram.com/speedify)[](https://facebook.com/speedify)[](https://twitter.com/speedify)[](https://www.youtube.com/channel/UC5sC63wOQ7kP3fVF3ZhrMmQ)[](https://www.twitch.tv/speedify)
 
 * [Features](https://speedify.com/features/)
 * [Enterprise](https://speedify.com/enterprise/)
@@ -195,3 +203,7 @@ Follow us!
 * [Help](https://speedify.com/help/)
 * [Sign In](https://my.speedify.com/)
 * [Download](https://speedify.com/download/)
+
+                        
+
+This website uses cookies. To learn more, visit our [Cookie Policy](https://speedify.com/cookie-policy)[Ok](#)
