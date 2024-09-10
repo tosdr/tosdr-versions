@@ -313,7 +313,7 @@ You agree and represent to us (i) that you are the sole author of the Social Med
 * [Privacy Notice](https://shutterflyinc.com/privacy/)
 * [CA Supply Chains Act](https://shutterflyinc.com/ca-supply-chains-act/)
 
-© 1999-2023 Shutterfly All rights reserved..
+© 1999-2024 Shutterfly All rights reserved..
 
 Follow Us On
 
