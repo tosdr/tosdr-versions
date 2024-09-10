@@ -97,7 +97,6 @@ Please enter a search term
     * [Energy](https://www.pinsentmasons.com/sectors/energy)
         * [Energy](https://www.pinsentmasons.com/sectors/energy)
         * [CleanTech](https://www.pinsentmasons.com/sectors/energy/cleantech)
-        * [Natural Resources](https://www.pinsentmasons.com/sectors/energy/natural-resources)
         * [Nuclear](https://www.pinsentmasons.com/sectors/energy/nuclear)
         * [Oil & Gas](https://www.pinsentmasons.com/sectors/energy/oil-gas)
         * [Renewables](https://www.pinsentmasons.com/sectors/energy/renewables-cleantech)
@@ -105,11 +104,15 @@ Please enter a search term
     * [Financial Services](https://www.pinsentmasons.com/sectors/financial-services)
         * [Financial Services](https://www.pinsentmasons.com/sectors/financial-services)
         * [Banks](https://www.pinsentmasons.com/sectors/financial-services/banks)
+        * [Fintech](https://www.pinsentmasons.com/sectors/financial-services/fintech)
         * [Insurance](https://www.pinsentmasons.com/sectors/financial-services/insurance)
         * [Private Equity](https://www.pinsentmasons.com/sectors/financial-services/private-equity)
         * [All Financial Services](https://www.pinsentmasons.com/sectors/financial-services)
     * [Infrastructure](https://www.pinsentmasons.com/sectors/infrastructure)
     * [Real Estate](https://www.pinsentmasons.com/sectors/real-estate)
+        * [Real Estate](https://www.pinsentmasons.com/sectors/real-estate)
+        * [Hotels](https://www.pinsentmasons.com/sectors/real-estate/hotels)
+        * [All Real Estate](https://www.pinsentmasons.com/sectors/real-estate)
     * [Technology, Science & Industry](https://www.pinsentmasons.com/sectors/technology-science-industry)
         * [Technology, Science & Industry](https://www.pinsentmasons.com/sectors/technology-science-industry)
         * [Diversified Industrial](https://www.pinsentmasons.com/sectors/technology-science-industry/diversified-industrial)
@@ -336,7 +339,7 @@ Pinsent Masons may use your personal information together with other information
 Anti-Money Laundering Policies and Procedures
 ---------------------------------------------
 
-Before accepting any new instruction, we will ask for information about the potential client and the nature of the proposed work for the purpose of conflict checking, credit checking, client verification procedures and other bona fide purposes. Please note that, to assist in fulfilling our professional and regulatory obligations, this information (which may include personal data) may be shared with any Pinsent Masons affiliated entity for such purposes.
+Before accepting any new instruction, we will ask for information about the potential client and the nature of the proposed work for the purpose of conflict checking, credit checking, client verification procedures and other bona fide purposes. Please note that, to assist in fulfilling our professional and regulatory obligations, this information (which may include personal data) may be shared with any Pinsent Masons affiliated entity for such purposes. Any personal data received in order to comply with our anti-money laundering obligations will only be processed for the purpose of preventing money laundering, terrorist financing or proliferation financing unless such processing is permitted by law, or any other purposes to which you have consented. 
 
 When first taking your instructions, we are required to identify both our client and (if relevant) the ultimate beneficial owner of our client, and to verify that identity in a number of ways.  We may need your assistance to satisfy these requirements.  Without compliance with these obligations, we will not be able to act for you.
 
@@ -488,15 +491,15 @@ See our [Terms and Conditions](https://www.pinsentmasons.com/legal-notices/term
     
 * [### Ireland](#)
     
-    We operate in Ireland through our affiliated entity, Pinsent Masons Ireland LLP. 
+    We operate in Ireland through our affiliated entity, Pinsent Masons Ireland LLP.
     
     Pinsent Masons Ireland LLP is a limited liability partnership registered in Ireland (registration number 1262499) with its principal place of business at 1 Windmill Lane, Dublin 2, DO2 F206.
     
-    Pinsent Masons Ireland LLP is regulated by the [Law Society of Ireland](https://www.lawsociety.ie/).
+    Pinsent Masons Ireland LLP is regulated by the [Legal Services Regulatory Authority](https://www.lsra.ie/).
     
     All requests for further information or any client complaints about Pinsent Masons Ireland LLP (including complaints concerning our fees and charges) should be addressed in the first instance with your client partner or head of our Ireland office, failing which, they should be addressed to the Senior Partner of Pinsent Masons LLP at 30 Crown Place, London, EC2A 4ES, United Kingdom.
     
-    If you are not satisfied with our response, then the Law Society of Ireland may help to resolve your complaint for you. For details see: [https://www.lawsociety.ie/Public/Complaints-against-solicitors/](https://www.lawsociety.ie/Public/Complaints-against-solicitors/)
+    If you are not satisfied with our response, then the [Legal Services Regulatory Authority](https://www.lsra.ie/) may help to resolve your complaint for you. For details see [Make a Complaint](https://www.lsra.ie/make-a-complaint/)
     
 * [### Germany](#)
     
