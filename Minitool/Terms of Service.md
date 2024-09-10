@@ -39,6 +39,11 @@
     * [User Manual](https://moviemaker.minitool.com/help/)
     * [Video Editing Tricks](https://moviemaker.minitool.com/moviemaker/)
     
+* [Video Tools](javascript:;)
+    
+    * [Video Converter](https://videoconvert.minitool.com/?utm_source=moviemaker.minitool.com&utm_medium=redirection&utm_campaign=main-menu)
+    * [Online Video Downloader](https://www.viddown.net/?utm_source=moviemaker.minitool.com&utm_medium=redirection&utm_campaign=main-menu)
+    
 
 * [Download MovieMaker](https://cdn2.minitool.com/?p=mm&e=mm-free)
 
@@ -153,7 +158,40 @@ If any provision of these Terms & Conditions is deemed invalid by a court of com
 
 **Moviemaker.minitool.com may modify these Terms & Conditions at any time and without notice, and it is your responsibility to review these Terms & Conditions for any changes**. Your use of the Website following any amendment of these Terms & Conditions will signify your assent to and acceptance of its revised terms. You and Moviemaker.minitool.com agree that any cause of action arising out of or related to the Website must commence within one (1) year after the cause of action accrues. Otherwise, such cause of action is permanently barred.
 
-[Terms](https://moviemaker.minitool.com/terms.html) | [Help](https://moviemaker.minitool.com/help/) | [Reviews](https://moviemaker.minitool.com/review.html) | [About](https://www.minitool.com/about-us.html) | Student Discount
+[![minitool](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20110%2080'%2F%3E)](https://www.minitool.com/)
+
+### Follow us
+
+* [](https://www.facebook.com/pages/MiniTool/230388176998483 "FaceBook")
+* [](https://twitter.com/minitool_ "Twitter")
+* [](https://www.linkedin.com/company/minitool-solution-ltd-?trk=biz-companies-cym "Linkedin")
+* [](https://www.youtube.com/channel/UCRGo-0E8thf9KsrNB3Mqhuw?view_as=subscriber "Youtube")
+
+### Video Tools
+
+* [Video Editor](https://moviemaker.minitool.com/)
+* [Video Converter](https://videoconvert.minitool.com/?utm_source=moviemaker.minitool.com&utm_medium=redirection&utm_campaign=bottom-menu)
+* [Online Video Downloader](https://www.viddown.net/?utm_source=moviemaker.minitool.com&utm_medium=redirection&utm_campaign=bottom-menu)
+
+### Resource
+
+* [Video Editing Tips](https://moviemaker.minitool.com/moviemaker/)
+* [Video Converter Tips](https://videoconvert.minitool.com/video-converter/)
+* [Screen Record Tips](https://videoconvert.minitool.com/screen-record/)
+* [News](https://moviemaker.minitool.com/news/)
+
+### MiniTool
+
+* [About MiniTool](https://www.minitool.com/about-us.html)
+* Student Discount
+
+### Join for Exclusives
+
+Connect with us for giveaways, exclusive promotions and latest news!
+
+ 
+
+[Privacy](https://www.minitool.com/privacy.html) | [Terms & Conditions](https://moviemaker.minitool.com/terms.html)
 
 North America, Canada, Unit 170 - 422, Richards Street, Vancouver, British Columbia, V6B 2Z4
 
