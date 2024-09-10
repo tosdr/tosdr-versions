@@ -26,15 +26,18 @@ Suche öffnen
 SPIEGEL Gruppe Allgemeine Nutzungsbedingungen
 ---------------------------------------------
 
+* * *
+
 * [X.com](https://twitter.com/intent/tweet?lang=de&text=SPIEGEL+Gruppe%3A+Allgemeine+Nutzungsbedingungen&url=https%3A%2F%2Fwww.spiegel.de%2Fnutzungsbedingungen%3Fsara_ref%3Dre-so-tw-sh&via=derspiegel "X.com")
 * [Facebook](https://www.facebook.com/share.php?t=SPIEGEL+Gruppe%3A+Allgemeine+Nutzungsbedingungen&u=https%3A%2F%2Fwww.spiegel.de%2Fnutzungsbedingungen%3Fsara_ref%3Dre-so-fb-sh "Facebook")
 * [E-Mail](mailto:?subject=SPIEGEL%20Gruppe:%20Allgemeine%20Nutzungsbedingungen%20%28DER%20SPIEGEL%29&body=https%3A%2F%2Fwww.spiegel.de%2Fnutzungsbedingungen%3Fsara_ref%3Dre-em-em-sh "E-Mail")
-* [Messenger](fb-messenger://share?link=https%3A%2F%2Fwww.spiegel.de%2Fnutzungsbedingungen%3Fsara_ref%3Dre-so-fm-sh&app_id=2309869772 "Messenger")
-* [WhatsApp](whatsapp://send?text=SPIEGEL+Gruppe%3A+Allgemeine+Nutzungsbedingungen+%28DER+SPIEGEL%29+https%3A%2F%2Fwww.spiegel.de%2Fnutzungsbedingungen%3Fsara_ref%3Dre-so-wa-sh "WhatsApp")
 * Link kopieren
-
 * Weitere Optionen zum Teilen
 
+* * *
+
+* [X.com](https://twitter.com/intent/tweet?lang=de&text=SPIEGEL+Gruppe%3A+Allgemeine+Nutzungsbedingungen&url=https%3A%2F%2Fwww.spiegel.de%2Fnutzungsbedingungen%3Fsara_ref%3Dre-so-tw-sh&via=derspiegel "X.com")
+* [Facebook](https://www.facebook.com/share.php?t=SPIEGEL+Gruppe%3A+Allgemeine+Nutzungsbedingungen&u=https%3A%2F%2Fwww.spiegel.de%2Fnutzungsbedingungen%3Fsara_ref%3Dre-so-fb-sh "Facebook")
 * [E-Mail](mailto:?subject=SPIEGEL%20Gruppe:%20Allgemeine%20Nutzungsbedingungen%20%28DER%20SPIEGEL%29&body=https%3A%2F%2Fwww.spiegel.de%2Fnutzungsbedingungen%3Fsara_ref%3Dre-em-em-sh "E-Mail")
 * [Messenger](fb-messenger://share?link=https%3A%2F%2Fwww.spiegel.de%2Fnutzungsbedingungen%3Fsara_ref%3Dre-so-fm-sh&app_id=2309869772 "Messenger")
 * [WhatsApp](whatsapp://send?text=SPIEGEL+Gruppe%3A+Allgemeine+Nutzungsbedingungen+%28DER+SPIEGEL%29+https%3A%2F%2Fwww.spiegel.de%2Fnutzungsbedingungen%3Fsara_ref%3Dre-so-wa-sh "WhatsApp")
@@ -215,7 +218,8 @@ SPIEGEL Gruppe
 * [Startseite](https://www.spiegel.de/ "Startseite")
 * [Schlagzeilen](https://www.spiegel.de/schlagzeilen/ "Schlagzeilen")
 * [Israel-Gaza-Krieg](https://www.spiegel.de/thema/angriff-auf-israel-2023/ "Israel-Gaza-Krieg")
-* [Krieg in der Ukraine](https://www.spiegel.de/thema/ukraine_konflikt/ "Krieg in der Ukraine")
+* [US-Wahl](https://www.spiegel.de/thema/us-praesidentschaftswahl-2024/ "US-Wahl")
+* [Ukraine-Krieg](https://www.spiegel.de/thema/ukraine_konflikt/ "Ukraine-Krieg")
 * [Newsletter](https://www.spiegel.de/newsletter "Newsletter")
 * [Debatte](https://www.spiegel.de/debatten/ "Debatte")
 * [SPIEGEL+](https://www.spiegel.de/plus/ "SPIEGEL+")
