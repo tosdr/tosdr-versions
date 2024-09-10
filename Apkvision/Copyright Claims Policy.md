@@ -32,7 +32,7 @@ To expedite our ability to process your request, such written notice should be s
 
 [Contact us](https://apkvision.org/contacts/)
 
-© 2024 APKVISION.ORG
+© 2024 APKVISION.ORG | [Send Request](https://apkvision.org/request/)
 
 * [TERMS](https://apkvision.org/terms-of-service/)
 * [PRIVACY POLICY](https://apkvision.org/privacy-policy/)
