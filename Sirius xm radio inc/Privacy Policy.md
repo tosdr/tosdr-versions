@@ -6,9 +6,9 @@ Privacy Policy
 
 [Your California Consumer Privacy Act Rights for SiriusXM](https://www.siriusxm.com/ccpainfo)
 
-Effective July 1, 2024
+Effective September 9, 2024
 
-This Privacy Policy (the “Policy”) describes the personal data collected and processed by Sirius XM Radio Inc. and its subsidiaries, including Pandora Media, LLC (collectively, “**Sirius XM**,” “**we**” or “**us**”) through our consumer websites, apps and services (the “**Services**”). By accessing and using any of our Services, you agree to this Policy. The Services include:
+This Privacy Policy (the “Policy”) describes the personal data collected and processed by Sirius XM Radio LLC and its subsidiaries, including Pandora Media, LLC (collectively, “**Sirius XM**,” “**we**” or “**us**”) through our consumer websites, apps and services (the “**Services**”). By accessing and using any of our Services, you agree to this Policy. The Services include:
 
 * Sirius XM satellite audio services, delivered under brand names SiriusXM and XM
     
@@ -305,7 +305,7 @@ We reserve the right to change this Privacy Policy at any time. If we make mater
 
 You may contact us by email at [privacy @siriusxm.com](mailto:privacy%20@siriusxm.com) or [privacy @pandora.com](mailto:privacy@pandora.com), respective to your subscription service. The information you provide is used to respond directly to your questions or comments. We may also file your comments and share them with our consumer care team to improve our service in the future. If you still have questions or concerns about our privacy policy, please write us at:  
   
-Sirius XM Radio Inc.  
+Sirius XM Radio LLC  
 Attn: Chief Privacy Officer  
 8550 Freeport Parkway  
 Irving, Texas 75063
@@ -375,7 +375,7 @@ Global Privacy Control (GPC) and Do Not Track (DNT) Signals. Global Privacy Cont
 
 Your Rights under California’s “Shine the Light” law (Civil Code Section 1798.83, also known as S.B. 27). California residents have the right to request from companies conducting business in California certain information relating to third parties to which the company has disclosed certain categories of personal information during the preceding year for the third parties’ direct marketing purposes. Alternatively, the law provides that a company may comply, as Sirius XM does, by disclosing in its privacy policy that it provides consumers choice (opt in or opt out) regarding sharing personal information with third parties for those third parties’ direct marking purposes, and information on how to exercise that choice. As stated in this Privacy Policy, Sirius XM provides you choice prior to sharing your personal information with third parties for their direct marketing purposes. If you do not opt-in or if you opt-out at the time we offer that choice, we do not share your information with that identified third party for its direct marketing purposes.
 
-If you are a California resident and you have questions about our practices with respect to sharing information with third parties for their direct marketing purposes and your ability to exercise choice, please write to us at: Sirius XM Radio Inc., 1221 Avenue of the Americas, 35th Floor, New York, NY 10104, Attn: Legal Department – Shine the Light Privacy Request. Shine the Light requests that come to us by other means may result in a delayed response. You must include your name, street address, city, state, and zip code. We are not responsible for notices that are not labeled or sent properly, or do not have complete information.
+If you are a California resident and you have questions about our practices with respect to sharing information with third parties for their direct marketing purposes and your ability to exercise choice, please write to us at: Sirius XM Radio LLC, 1221 Avenue of the Americas, 35th Floor, New York, NY 10104, Attn: Legal Department – Shine the Light Privacy Request. Shine the Light requests that come to us by other means may result in a delayed response. You must include your name, street address, city, state, and zip code. We are not responsible for notices that are not labeled or sent properly, or do not have complete information.
 
 _**D. Washington.**_ Under Washington state law, consumers have the right to know about the collection, sharing, sale, and use of health-related data about them. Sirius XM does not collect, share, sell, or use health-related data about consumers, as defined under the Washington My Health My Data Act.
 
