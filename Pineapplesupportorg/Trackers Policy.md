@@ -9,6 +9,7 @@
     * [Workshops](https://pineapplesupport.org/workshops/)
     * [Events](#)
         * [Previous Events](#)
+            * [Loneliness – An Epidemic](https://pineapplesupport.org/loneliness-an-epidemic/)
             * [Suicide Prevention Training Day LA](https://pineapplesupport.org/suicide-prevention-training-day/)
             * [LA Wellness Retreat 2024](https://pineapplesupport.org/la-wellness-retreat-24/)
             * [Pineapple Summit](https://pineapplesummit.org/)
