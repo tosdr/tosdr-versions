@@ -40,7 +40,7 @@ NAVER Terms & Privacy
 
 네이버주식회사(이하 ‘네이버’ 또는 회사’)는 서비스 기획부터 종료까지 개인정보보호법 등 국내의 개인정보 보호 법령을 철저히 준수합니다. 또한 OECD의 개인정보 보호 가이드라인 등 국제 기준을 준수하여 서비스를 제공합니다.
 
-[‘개인정보보호법’ 바로가기](https://www.law.go.kr/LSW/lsInfoP.do?lsId=011357&ancYnChk=0#0000) [‘OECD Guidelines(영문)’ 바로가기](http://www.oecd.org/sti/ieconomy/oecdguidelinesontheprotectionofprivacyandtransborderflowsofpersonaldata.htm)
+[‘개인정보보호법’ 바로가기](https://www.law.go.kr/LSW/lsInfoP.do?lsId=011357&ancYnChk=0#0000) [‘OECD Guidelines(영문)’ 바로가기](https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0188)
 
 본 개인정보처리방침의 목차는 아래와 같습니다.  
 관계법령이 요구하는 개인정보처리방침의 필수 사항과 네이버 자체적으로 이용자 개인정보 보호에 있어 중요하게 판단하는 내용을 포함하였습니다.
