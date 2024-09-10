@@ -22,12 +22,30 @@ Description (details)
 
 ### Table of Contents
 
+* [Your acceptance of these Terms](#your-acceptance-of-these-terms-0)
+* [Changes to the Terms and/or Service](#changes-to-the-terms-andor-service-1)
+* [Terms & Conditions](#terms-conditions-2)
+* [Privacy Policy](#privacy-policy-3)
+* [Use of Cookies by the BitChute site and services](#use-of-cookies-by-the-bitchute-site-and-services-4)
+* [BitChute Cookies](#bitchute-cookies-5)
+* [cookielaw](#cookielaw-6)
+* [sessionid](#sessionid-7)
+* [csrftoken](#csrftoken-8)
+* [localStorage](#localstorage-9)
+* [registration](#registration-10)
+* [announcement](#announcement-11)
+* [preferences](#preferences-12)
+* [Metrics Cookies](#metrics-cookies-13)
+* [Advertising Cookies](#advertising-cookies-14)
+* [How do I change my cookie settings?](#how-do-i-change-my-cookie-settings-15)
+* [Last Updated: August 14, 2024](#last-updated-august-14-2024-16)
+
 [Support Home](https://support.bitchute.com/) [Policies](https://support.bitchute.com/policy)
 
 Cookie Policy
 =============
 
-This Cookie Policy outlines the manner in which BitChute uses "cookies" to enhance User experience of the BitChute website and associated services (collectively known as the "Service"). Please ensure that you read this Cookie Policy, the [**Terms & Conditions**](https://support.bitchute.com/policy/terms) and the [**Privacy Policy**](https://support.bitchute.com/policy/privacy) carefully. These are collectively known as the "Terms".
+This Cookie Policy outlines the manner in which BitChute, a service of Deep State Protocol, LLC ("DSP), uses "cookies" to enhance User experience of the BitChute website and associated services (collectively known as the "Service"). Please ensure that you read this Cookie Policy, the [**Terms & Conditions**](https://support.bitchute.com/policy/terms) and the [**Privacy Policy**](https://support.bitchute.com/policy/privacy) carefully. These are collectively known as the "Terms".
 
 #### Your acceptance of these Terms
 
@@ -35,7 +53,7 @@ By using the Service, you are agreeing to be bound by these Terms. If you do not
 
 #### Changes to the Terms and/or Service
 
-BitChute has the discretion to update the Terms at any time. When we do, we will revise the updated date at the bottom of this page. It is important that you frequently review the Terms for any changes to stay informed. By using the Service, you acknowledge and agree that it is your responsibility to review the Terms periodically to become aware of modifications. As our Service is constantly evolving over time, we may change or discontinue all or any part of the Service, at any time and without notice, at our sole discretion.
+DSP has the discretion to update the Terms at any time. When we do, we will revise the updated date at the bottom of this page. It is important that you frequently review the Terms for any changes to stay informed. By using the Service, you acknowledge and agree that it is your responsibility to review the Terms periodically to become aware of modifications. As our Service is constantly evolving over time, we may change or discontinue all or any part of the Service, at any time and without notice, at our sole discretion.
 
 #### Terms & Conditions
 
@@ -45,8 +63,8 @@ Please refer to the [**Terms & Conditions**](https://support.bitchute.com/policy
 
 Please refer to the [**Privacy Policy**](https://support.bitchute.com/policy/privacy) for more information on how we collect, use and disclose the information we collect from our users.
 
-Use of Cookies by BitChute
---------------------------
+Use of Cookies by the BitChute site and services
+------------------------------------------------
 
 Our Site uses "cookies" to enhance User experience. Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site. The User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Service may not function properly. The table below explains the cookies we use and why:
 
@@ -55,7 +73,7 @@ BitChute Cookies
 
 #### _cookielaw_
 
-Used to remember a user's choice about cookies on [**BitChute**](https://bitchute.com/). Where users have previously indicated a preference, that user's preference will be stored in this cookie. For more information see [**ICO (UK) Cookie Law Guidance**](https://ico.org.uk/for-organisations/guide-to-pecr/cookies-and-similar-technologies/).
+Used to remember a user's choice about cookies on [**BitChute**](https://bitchute.com/). Where users have previously indicated a preference, that user's preference will be stored in this cookie. 
 
 #### _sessionid_
 
@@ -83,6 +101,11 @@ Used to help prevent the announcements being displayed multiple times. For more 
 
 Used to store the current preferences selections for the device. For more information see [**BitChute Privacy Policy**](https://support.bitchute.com/policy/privacy).
 
+Metrics Cookies
+---------------
+
+We use **Google Analytics** to perform site traffic analysis (not for advertising or marketing purposes). Google provides a browser extension you can use to opt-out of having your site activity available to Google Analytics. For more information [**see this support page from Google**](https://support.google.com/analytics/answer/181881?hl=en)**.**
+
 Advertising Cookies
 -------------------
 
@@ -93,15 +116,17 @@ How do I change my cookie settings?
 
 Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [**www.aboutcookies.org**](http://www.aboutcookies.org/).
 
+#### Last Updated: August 14, 2024
+
 #### Was this article helpful?
 
-[4132](#) [4793](#)
+[4212](#) [5670](#)
 
 #### Related Questions:
 
 * [Community Guidelines](https://support.bitchute.com/policy/guidelines)
     
-    Welcome to BitChute, a peer-to-peer content sharing platform and associated...…
+    Welcome to BitChute, a content sharing platform and associated services...…
     
 * [Contact Details](https://support.bitchute.com/policy/contact)
     
@@ -109,7 +134,7 @@ Most web browsers allow some control of most cookies through the browser setting
     
 * [Privacy Policy](https://support.bitchute.com/policy/privacy)
     
-    Latest Update: July 11, 2024 This Privacy Policy governs the...…
+    Latest Update: August 17, 2024 This Privacy Policy governs the...…
     
 
 Can’t find what you’re looking for?
@@ -119,7 +144,7 @@ Our customer support team is here for you.
 
 [Contact Support](https://support.bitchute.com/contact-us?contact_query=Please%20enter%20your%20question)
 
-BitChute is a peer-to-peer content sharing platform. Creators are allowed to post content they produce to the platform, so long as they comply with our [policies](https://support.bitchute.com/policy). The content posted to the platform is not reflective or representative of the views of Bit Chute Limited, its staff or owners. © 2017-2023 Bit Chute Limited, Box 813, Andover House, George Yard, Andover, Hampshire, SP10 1PB. United Kingdom. Company number 10637289.
+BitChute is a peer-to-peer content sharing platform. Creators are allowed to post content they produce to the platform, so long as they comply with our [policies](https://support.bitchute.com/policy). The content posted to the platform is not reflective or representative of the views of BitChute, its staff or owners. BitChute and all associated trademarks are owned and operated by Deep State Protocol LLC. © 2017-2024 DSP LLC.
 
   
 
