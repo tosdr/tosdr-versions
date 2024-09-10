@@ -1,73 +1,74 @@
-[Stripe logo](https://stripe.com/gb)
-====================================
+[Stripe logo](https://stripe.com/)
+==================================
 
-* [Stripe Services Agreement](https://stripe.com/gb/ssa)
+* [Stripe Services Agreement](https://stripe.com/ssa)
 * Stripe Connect
     --------------
     
-    * [Platform Agreement](https://stripe.com/gb/connect/legal)
-    * [Account Agreement](https://stripe.com/gb/connect-account/legal)
+    * [Platform Agreement](https://stripe.com/connect/legal)
+    * [Account Agreement](https://stripe.com/connect-account/legal)
     
 * Products and Programs
     ---------------------
     
-    * [Stripe Atlas](https://stripe.com/gb/atlas/legal)
-    * [Stripe Adaptive Pricing](https://stripe.com/gb/legal/adaptive-pricing)
-    * [Stripe Climate](https://stripe.com/gb/climate/legal)
-    * [Climate Contribution Terms](https://stripe.com/gb/climate-contributions/legal)
-    * [Stripe Corporate Card](https://stripe.com/gb/corporate-card/legal)
-    * [Stripe Customer Portal](https://stripe.com/gb/customer-portal/legal)
-    * [Stripe Data Pipeline](https://stripe.com/gb/legal/data-pipeline)
-    * [Stripe Financial Connections](https://stripe.com/gb/legal/financialconnections)
-    * [Stripe Identity](https://stripe.com/gb/identity/legal)
-    * [Stripe Issuing](https://stripe.com/gb/issuing/legal)
-    * [Stripe Tax](https://stripe.com/gb/tax/legal)
-    * [Stripe Partner Ecosystem](https://stripe.com/gb/partners/legal)
-    * [Stripe Radar](https://stripe.com/gb/legal/radar)
-    * [Stripe Rewards](https://stripe.com/gb/rewards/legal)
-    * [Stripe Verifications](https://stripe.com/gb/legal/instant-verification-services)
-    * [Stripe Shop](https://stripe.com/gb/stripe-shop/legal)
-    * [Stripe Terminal](https://stripe.com/gb/terminal/legal)
-    * [Terminal Purchase Terms](https://stripe.com/gb/terminal-purchase/legal)
-    * [Terminal Reseller Terms](https://stripe.com/gb/terminal-reseller/legal)
-    * [Terminal Device EULA](https://stripe.com/gb/terminal-device-eula/legal)
-    * [Stripe Treasury - Connected Accounts](https://stripe.com/gb/legal/treasury-connect-account)
-    * [Stripe Treasury - Platforms](https://stripe.com/gb/legal/treasury-platform)
+    * [Stripe Atlas](https://stripe.com/atlas/legal)
+    * [Stripe Adaptive Pricing](https://stripe.com/legal/adaptive-pricing)
+    * [Stripe Climate](https://stripe.com/climate/legal)
+    * [Climate Contribution Terms](https://stripe.com/climate-contributions/legal)
+    * [Stripe Corporate Card](https://stripe.com/corporate-card/legal)
+    * [Stripe Customer Portal](https://stripe.com/customer-portal/legal)
+    * [Stripe Data Pipeline](https://stripe.com/legal/data-pipeline)
+    * [Stripe Financial Connections](https://stripe.com/legal/financialconnections)
+    * [Stripe Identity](https://stripe.com/identity/legal)
+    * [Stripe Issuing](https://stripe.com/issuing/legal)
+    * [Stripe Tax](https://stripe.com/tax/legal)
+    * [Stripe Partner Ecosystem](https://stripe.com/partners/legal)
+    * [Stripe Radar](https://stripe.com/legal/radar)
+    * [Stripe Rewards](https://stripe.com/rewards/legal)
+    * [Stripe Verifications](https://stripe.com/legal/instant-verification-services)
+    * [Stripe Shop](https://stripe.com/stripe-shop/legal)
+    * [Stripe Terminal](https://stripe.com/terminal/legal)
+    * [Terminal Purchase Terms](https://stripe.com/terminal-purchase/legal)
+    * [Terminal Reseller Terms](https://stripe.com/terminal-reseller/legal)
+    * [Terminal Device EULA](https://stripe.com/terminal-device-eula/legal)
+    * [Stripe Treasury - Connected Accounts](https://stripe.com/legal/treasury-connect-account)
+    * [Stripe Treasury - Platforms](https://stripe.com/legal/treasury-platform)
     
 * Financial Services Terms
     ------------------------
     
-    * [Stripe Payments Company](https://stripe.com/gb/spc/legal)
-    * [Wells Fargo](https://stripe.com/gb/wells-fargo/legal)
-    * [PNC Bank](https://stripe.com/gb/pnc/legal)
+    * [Acquirer Disclosure](https://stripe.com/legal/acquirer-disclosure)
+    * [Stripe Payments Company](https://stripe.com/spc/legal)
+    * [Wells Fargo](https://stripe.com/wells-fargo/legal)
+    * [PNC Bank](https://stripe.com/pnc/legal)
     
-* [Payment Method Terms](https://stripe.com/gb/payment-terms/legal)
-* [Prohibited & Restricted Businesses](https://stripe.com/gb/restricted-businesses)
+* [Payment Method Terms](https://stripe.com/payment-terms/legal)
+* [Prohibited & Restricted Businesses](https://stripe.com/restricted-businesses)
 * Privacy
     -------
     
-    * [Privacy Policy](https://stripe.com/gb/privacy)
-    * [Cookies Policy](https://stripe.com/gb/cookies-policy/legal)
-    * [Data Privacy Framework](https://stripe.com/gb/legal/data-privacy-framework)
-    * [Service Providers List](https://stripe.com/gb/service-providers/legal)
-    * [Data Processing Agreement](https://stripe.com/gb/legal/dpa)
-    * [Data Transfers Addendum](https://stripe.com/gb/legal/dta)
-    * [Stripe Privacy Center](https://stripe.com/gb/privacy-center/legal)
+    * [Privacy Policy](https://stripe.com/privacy)
+    * [Cookies Policy](https://stripe.com/cookies-policy/legal)
+    * [Data Privacy Framework](https://stripe.com/legal/data-privacy-framework)
+    * [Service Providers List](https://stripe.com/service-providers/legal)
+    * [Data Processing Agreement](https://stripe.com/legal/dpa)
+    * [Data Transfers Addendum](https://stripe.com/legal/dta)
+    * [Stripe Privacy Center](https://stripe.com/privacy-center/legal)
     
 * Intellectual Property
     ---------------------
     
-    * [Intellectual Property Notice](https://stripe.com/gb/ip-notice-process)
-    * [Marks Usage](https://stripe.com/gb/marks/legal)
+    * [Intellectual Property Notice](https://stripe.com/ip-notice-process)
+    * [Marks Usage](https://stripe.com/marks/legal)
     
 * Stripe Apps
     -----------
     
-    * [App Developer Agreement](https://stripe.com/gb/legal/app-developer-agreement)
-    * [App Marketplace Agreement](https://stripe.com/gb/legal/app-marketplace-agreement)
+    * [App Developer Agreement](https://stripe.com/legal/app-developer-agreement)
+    * [App Marketplace Agreement](https://stripe.com/legal/app-marketplace-agreement)
     
-* [Licenses](https://stripe.com/gb/spc/licenses)
-* [Consumer Terms](https://stripe.com/gb/legal/consumer)
+* [Licenses](https://stripe.com/spc/licenses)
+* [Consumer Terms](https://stripe.com/legal/consumer)
 
 Stripe Sub-Processors and Service Providers List
 ================================================
@@ -79,7 +80,7 @@ To support Stripe in delivering its Services, Stripe engages service providers, 
 **Summary of Changes**
 ----------------------
 
-We’ve updated this page because we strive to be clear about our use of Personal Data and the third party service providers we engage. The below outlines a few highlights of the changes we made, so please review this page carefully. If you have questions or queries, please [contact us](https://stripe.com/gb/legal/privacy-center#contact-us).
+We’ve updated this page because we strive to be clear about our use of Personal Data and the third party service providers we engage. The below outlines a few highlights of the changes we made, so please review this page carefully. If you have questions or queries, please [contact us](https://stripe.com/legal/privacy-center#contact-us).
 
 You will see that we have:
 
@@ -166,8 +167,8 @@ Stripe may need to rely on Stripe affiliates to help provide the Services to our
 | **Name** | **Region** | **Entity County** | **Purpose of Processing** |
 | Stripe Payments Canada, Ltd. | AMER | Canada | Please see [https://stripe.com/en-ca/ssa](https://stripe.com/en-ca/ssa) |
 | Stripe Brokering, Inc. | AMER | United States | Provide lending facilitation services to bank partners in connection with Stripe Capital loans in the United States |
-| Stripe, Inc. | AMER | United States | Please see [https://stripe.com/ssa](https://stripe.com/gb/ssa) |
-| Stripe Payments Company | AMER | United States | Please see [https://stripe.com/ssa](https://stripe.com/gb/ssa) and [https://stripe.com/legal/spc](https://stripe.com/gb/legal/spc) |
+| Stripe, Inc. | AMER | United States | Please see [https://stripe.com/ssa](https://stripe.com/ssa) |
+| Stripe Payments Company | AMER | United States | Please see [https://stripe.com/ssa](https://stripe.com/ssa) and [https://stripe.com/legal/spc](https://stripe.com/legal/spc) |
 | Stripe Servicing, Inc. | AMER | United States | Provide credit collection services related to Stripe Capital in the United States |
 | Stripe Payments Australia Pty Ltd A.C.N. 160 180 343 | APAC | Australia | Please see [https://stripe.com/au/ssa](https://stripe.com/au/ssa) |
 | Stripe India Private Limited | APAC | India | Please see [https://stripe.com/en-in/ssa](https://stripe.com/en-in/ssa)<br><br>In order to meet regulatory data localization requirements for Indian payment transactions, Stripe India Private Limited stores certain data on servers located in India. |
@@ -203,132 +204,132 @@ We will periodically update this page to reflect additions and removals to our l
 
 Under the terms of our Data Processing Agreement (DPA), a Business User may reasonably object in writing to the processing of its personal data by a new Sub-processor within 30 days following the update of this page. If a Business User does not object during the 30 day time period, the appointment of the new Sub-processor shall be deemed accepted by the Business User. If you are a Business User and want to know more about our DPA, please contact us.
 
-For more information on Stripe’s privacy practices, please visit our [Privacy Policy](https://stripe.com/gb/privacy). If you have any questions regarding this page, please contact us.
+For more information on Stripe’s privacy practices, please visit our [Privacy Policy](https://stripe.com/privacy). If you have any questions regarding this page, please contact us.
 
-[Stripe logo](https://stripe.com/gb)
+[Stripe logo](https://stripe.com/)
 
-United Kingdom (English)
+United States (English)
 
-* ![AU](https://images.ctfassets.net/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Australia
+* ![AU](https://images.stripeassets.com/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Australia
     * [English](https://stripe.com/au/legal/service-providers)
-* ![AT](https://images.ctfassets.net/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Austria
+* ![AT](https://images.stripeassets.com/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Austria
     * [Deutsch](https://stripe.com/at/legal/service-providers)
     * [English](https://stripe.com/en-at/legal/service-providers)
-* ![BE](https://images.ctfassets.net/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Belgium
+* ![BE](https://images.stripeassets.com/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Belgium
     * [Nederlands](https://stripe.com/nl-be/legal/service-providers)
     * [Français](https://stripe.com/fr-be/legal/service-providers)
     * [Deutsch](https://stripe.com/de-be/legal/service-providers)
     * [English](https://stripe.com/en-be/legal/service-providers)
-* ![BR](https://images.ctfassets.net/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Brazil
+* ![BR](https://images.stripeassets.com/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Brazil
     * [Português](https://stripe.com/br/legal/service-providers)
     * [English](https://stripe.com/en-br/legal/service-providers)
-* ![BG](https://images.ctfassets.net/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Bulgaria
+* ![BG](https://images.stripeassets.com/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Bulgaria
     * [English](https://stripe.com/en-bg/legal/service-providers)
-* ![CA](https://images.ctfassets.net/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Canada
+* ![CA](https://images.stripeassets.com/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Canada
     * [English](https://stripe.com/en-ca/legal/service-providers)
     * [Français](https://stripe.com/fr-ca/legal/service-providers)
-* ![HR](https://images.ctfassets.net/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Croatia
+* ![HR](https://images.stripeassets.com/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Croatia
     * [English](https://stripe.com/en-hr/legal/service-providers)
     * [Italiano](https://stripe.com/it-hr/legal/service-providers)
-* ![CY](https://images.ctfassets.net/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Cyprus
+* ![CY](https://images.stripeassets.com/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Cyprus
     * [English](https://stripe.com/en-cy/legal/service-providers)
-* ![CZ](https://images.ctfassets.net/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Czech Republic
+* ![CZ](https://images.stripeassets.com/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Czech Republic
     * [English](https://stripe.com/en-cz/legal/service-providers)
-* ![DK](https://images.ctfassets.net/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Denmark
+* ![DK](https://images.stripeassets.com/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Denmark
     * [English](https://stripe.com/en-dk/legal/service-providers)
-* ![EE](https://images.ctfassets.net/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Estonia
+* ![EE](https://images.stripeassets.com/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Estonia
     * [English](https://stripe.com/en-ee/legal/service-providers)
-* ![FI](https://images.ctfassets.net/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Finland
+* ![FI](https://images.stripeassets.com/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Finland
     * [English](https://stripe.com/en-fi/legal/service-providers)
     * [Svenska](https://stripe.com/sv-fi/legal/service-providers)
 
-* ![FR](https://images.ctfassets.net/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) France
+* ![FR](https://images.stripeassets.com/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) France
     * [Français](https://stripe.com/fr/legal/service-providers)
     * [English](https://stripe.com/en-fr/legal/service-providers)
-* ![DE](https://images.ctfassets.net/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Germany
+* ![DE](https://images.stripeassets.com/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Germany
     * [Deutsch](https://stripe.com/de/legal/service-providers)
     * [English](https://stripe.com/en-de/legal/service-providers)
-* ![GI](https://images.ctfassets.net/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Gibraltar
+* ![GI](https://images.stripeassets.com/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Gibraltar
     * [English](https://stripe.com/en-gi/legal/service-providers)
-* ![GR](https://images.ctfassets.net/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Greece
+* ![GR](https://images.stripeassets.com/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Greece
     * [English](https://stripe.com/en-gr/legal/service-providers)
-* ![HK](https://images.ctfassets.net/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Hong Kong
+* ![HK](https://images.stripeassets.com/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Hong Kong
     * [English](https://stripe.com/en-hk/legal/service-providers)
     * [简体中文](https://stripe.com/zh-hk/legal/service-providers)
-* ![HU](https://images.ctfassets.net/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Hungary
+* ![HU](https://images.stripeassets.com/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Hungary
     * [English](https://stripe.com/en-hu/legal/service-providers)
-* ![IN](https://images.ctfassets.net/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) India
+* ![IN](https://images.stripeassets.com/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) India
     * [English](https://stripe.com/in/legal/service-providers)
-* ![IE](https://images.ctfassets.net/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Ireland
+* ![IE](https://images.stripeassets.com/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Ireland
     * [English](https://stripe.com/ie/legal/service-providers)
-* ![IT](https://images.ctfassets.net/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Italy
+* ![IT](https://images.stripeassets.com/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Italy
     * [Italiano](https://stripe.com/it/legal/service-providers)
     * [English](https://stripe.com/en-it/legal/service-providers)
-* ![JP](https://images.ctfassets.net/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Japan
+* ![JP](https://images.stripeassets.com/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Japan
     * [日本語](https://stripe.com/jp/legal/service-providers)
     * [English](https://stripe.com/en-jp/legal/service-providers)
-* ![LV](https://images.ctfassets.net/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Latvia
+* ![LV](https://images.stripeassets.com/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Latvia
     * [English](https://stripe.com/en-lv/legal/service-providers)
-* ![LI](https://images.ctfassets.net/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Liechtenstein
+* ![LI](https://images.stripeassets.com/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Liechtenstein
     * [Deutsch](https://stripe.com/de-li/legal/service-providers)
     * [English](https://stripe.com/en-li/legal/service-providers)
 
-* ![LT](https://images.ctfassets.net/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Lithuania
+* ![LT](https://images.stripeassets.com/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Lithuania
     * [English](https://stripe.com/en-lt/legal/service-providers)
-* ![LU](https://images.ctfassets.net/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Luxembourg
+* ![LU](https://images.stripeassets.com/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Luxembourg
     * [Français](https://stripe.com/fr-lu/legal/service-providers)
     * [Deutsch](https://stripe.com/de-lu/legal/service-providers)
     * [English](https://stripe.com/en-lu/legal/service-providers)
-* ![MY](https://images.ctfassets.net/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Malaysia
+* ![MY](https://images.stripeassets.com/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Malaysia
     * [English](https://stripe.com/en-my/legal/service-providers)
     * [简体中文](https://stripe.com/zh-my/legal/service-providers)
-* ![MT](https://images.ctfassets.net/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Malta
+* ![MT](https://images.stripeassets.com/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Malta
     * [English](https://stripe.com/en-mt/legal/service-providers)
-* ![MX](https://images.ctfassets.net/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Mexico
+* ![MX](https://images.stripeassets.com/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Mexico
     * [Español](https://stripe.com/mx/legal/service-providers)
     * [English](https://stripe.com/en-mx/legal/service-providers)
-* ![NL](https://images.ctfassets.net/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Netherlands
+* ![NL](https://images.stripeassets.com/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Netherlands
     * [Nederlands](https://stripe.com/nl/legal/service-providers)
     * [English](https://stripe.com/en-nl/legal/service-providers)
-* ![NZ](https://images.ctfassets.net/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) New Zealand
+* ![NZ](https://images.stripeassets.com/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) New Zealand
     * [English](https://stripe.com/nz/legal/service-providers)
-* ![NO](https://images.ctfassets.net/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Norway
+* ![NO](https://images.stripeassets.com/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Norway
     * [English](https://stripe.com/en-no/legal/service-providers)
-* ![PL](https://images.ctfassets.net/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Poland
+* ![PL](https://images.stripeassets.com/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Poland
     * [English](https://stripe.com/en-pl/legal/service-providers)
-* ![PT](https://images.ctfassets.net/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Portugal
+* ![PT](https://images.stripeassets.com/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Portugal
     * [Português](https://stripe.com/pt-pt/legal/service-providers)
     * [English](https://stripe.com/en-pt/legal/service-providers)
-* ![RO](https://images.ctfassets.net/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Romania
+* ![RO](https://images.stripeassets.com/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Romania
     * [English](https://stripe.com/en-ro/legal/service-providers)
-* ![SG](https://images.ctfassets.net/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Singapore
+* ![SG](https://images.stripeassets.com/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Singapore
     * [English](https://stripe.com/en-sg/legal/service-providers)
     * [简体中文](https://stripe.com/zh-sg/legal/service-providers)
 
-* ![SK](https://images.ctfassets.net/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Slovakia
+* ![SK](https://images.stripeassets.com/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Slovakia
     * [English](https://stripe.com/en-sk/legal/service-providers)
-* ![SI](https://images.ctfassets.net/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Slovenia
+* ![SI](https://images.stripeassets.com/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Slovenia
     * [English](https://stripe.com/en-si/legal/service-providers)
     * [Italiano](https://stripe.com/it-si/legal/service-providers)
-* ![ES](https://images.ctfassets.net/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Spain
+* ![ES](https://images.stripeassets.com/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Spain
     * [Español](https://stripe.com/es/legal/service-providers)
     * [English](https://stripe.com/en-es/legal/service-providers)
-* ![SE](https://images.ctfassets.net/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Sweden
+* ![SE](https://images.stripeassets.com/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Sweden
     * [Svenska](https://stripe.com/se/legal/service-providers)
     * [English](https://stripe.com/en-se/legal/service-providers)
-* ![CH](https://images.ctfassets.net/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Switzerland
+* ![CH](https://images.stripeassets.com/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Switzerland
     * [Deutsch](https://stripe.com/de-ch/legal/service-providers)
     * [Français](https://stripe.com/fr-ch/legal/service-providers)
     * [Italiano](https://stripe.com/it-ch/legal/service-providers)
     * [English](https://stripe.com/en-ch/legal/service-providers)
-* ![TH](https://images.ctfassets.net/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Thailand
+* ![TH](https://images.stripeassets.com/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) Thailand
     * [ไทย](https://stripe.com/th/legal/service-providers)
     * [English](https://stripe.com/en-th/legal/service-providers)
-* ![AE](https://images.ctfassets.net/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) United Arab Emirates
+* ![AE](https://images.stripeassets.com/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) United Arab Emirates
     * [English](https://stripe.com/ae/legal/service-providers)
-* United Kingdom
+* ![GB](https://images.stripeassets.com/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) United Kingdom
     * [English](https://stripe.com/gb/legal/service-providers)
-* ![US](https://images.ctfassets.net/fzn2n1nzq965/5hEVwGQfvUQhsMjfASiuA/db4e12749695dbf5735787879ae56e96/flagIcons.svg) United States
+* United States
     * [English](https://stripe.com/us/legal/service-providers)
     * [Español](https://stripe.com/es-us/legal/service-providers)
     * [简体中文](https://stripe.com/zh-us/legal/service-providers)
@@ -338,51 +339,51 @@ United Kingdom (English)
 Products & pricing
 ==================
 
-* [Pricing](https://stripe.com/gb/pricing)
-* [Atlas](https://stripe.com/gb/atlas)
-* [Billing](https://stripe.com/gb/billing)
+* [Pricing](https://stripe.com/pricing)
+* [Atlas](https://stripe.com/atlas)
+* [Billing](https://stripe.com/billing)
 * [Capital](https://stripe.com/capital/platforms)
-* [Checkout](https://stripe.com/gb/payments/checkout)
-* [Climate](https://stripe.com/gb/climate)
-* [Connect](https://stripe.com/gb/connect)
-* [Data Pipeline](https://stripe.com/gb/data-pipeline)
-* [Elements](https://stripe.com/gb/payments/elements)
-* [Financial Connections](https://stripe.com/gb/financial-connections)
-* [Identity](https://stripe.com/gb/identity)
-* [Invoicing](https://stripe.com/gb/invoicing)
-* [Issuing](https://stripe.com/gb/issuing)
-* [Link](https://stripe.com/gb/payments/link)
-* [Payments](https://stripe.com/gb/payments)
-* [Payment Links](https://stripe.com/gb/payments/payment-links)
-* [Payouts](https://stripe.com/gb/connect/payouts)
-* [Radar](https://stripe.com/gb/radar)
-* [Revenue Recognition](https://stripe.com/gb/revenue-recognition)
-* [Sigma](https://stripe.com/gb/sigma)
-* [Tax](https://stripe.com/gb/tax)
-* [Terminal](https://stripe.com/gb/terminal)
-* [Treasury](https://stripe.com/gb/treasury)
+* [Checkout](https://stripe.com/payments/checkout)
+* [Climate](https://stripe.com/climate)
+* [Connect](https://stripe.com/connect)
+* [Data Pipeline](https://stripe.com/data-pipeline)
+* [Elements](https://stripe.com/payments/elements)
+* [Financial Connections](https://stripe.com/financial-connections)
+* [Identity](https://stripe.com/identity)
+* [Invoicing](https://stripe.com/invoicing)
+* [Issuing](https://stripe.com/issuing)
+* [Link](https://stripe.com/payments/link)
+* [Payments](https://stripe.com/payments)
+* [Payment Links](https://stripe.com/payments/payment-links)
+* [Payouts](https://stripe.com/connect/payouts)
+* [Radar](https://stripe.com/radar)
+* [Revenue Recognition](https://stripe.com/revenue-recognition)
+* [Sigma](https://stripe.com/sigma)
+* [Tax](https://stripe.com/tax)
+* [Terminal](https://stripe.com/terminal)
+* [Treasury](https://stripe.com/treasury)
 
 Solutions
 =========
 
-* [Start-ups](https://stripe.com/gb/startups)
-* [Enterprises](https://stripe.com/gb/enterprise)
-* [SaaS](https://stripe.com/gb/use-cases/saas)
-* [Platforms](https://stripe.com/gb/use-cases/platforms)
-* [E-Commerce](https://stripe.com/gb/use-cases/ecommerce)
-* [Marketplaces](https://stripe.com/gb/use-cases/marketplaces)
-* [Crypto](https://stripe.com/gb/use-cases/crypto)
-* [Creator economy](https://stripe.com/gb/use-cases/creator-economy)
-* [Embedded finance](https://stripe.com/gb/use-cases/embedded-finance)
-* [Global businesses](https://stripe.com/gb/use-cases/global-businesses)
-* [Finance automation](https://stripe.com/gb/use-cases/finance-automation)
+* [Startups](https://stripe.com/startups)
+* [Enterprises](https://stripe.com/enterprise)
+* [SaaS](https://stripe.com/use-cases/saas)
+* [Platforms](https://stripe.com/use-cases/platforms)
+* [Ecommerce](https://stripe.com/use-cases/ecommerce)
+* [Marketplaces](https://stripe.com/use-cases/marketplaces)
+* [Crypto](https://stripe.com/use-cases/crypto)
+* [Creator economy](https://stripe.com/use-cases/creator-economy)
+* [Embedded finance](https://stripe.com/use-cases/embedded-finance)
+* [Global businesses](https://stripe.com/use-cases/global-businesses)
+* [Finance automation](https://stripe.com/use-cases/finance-automation)
 
 Integrations & custom solutions
 ===============================
 
 * [Stripe App Marketplace](https://marketplace.stripe.com/)
-* [Partner ecosystem](https://stripe.com/gb/partners)
-* [Professional services](https://stripe.com/gb/professional-services)
+* [Partner ecosystem](https://stripe.com/partners)
+* [Professional services](https://stripe.com/professional-services)
 
 Developers
 ==========
@@ -396,26 +397,28 @@ Developers
 Resources
 =========
 
-* [Guides](https://stripe.com/gb/guides)
-* [Customer stories](https://stripe.com/gb/customers)
+* [Guides](https://stripe.com/guides)
+* [Customer stories](https://stripe.com/customers)
 * [Blog](https://stripe.com/blog)
-* [Annual conference](https://stripe.com/gb/sessions)
-* [Privacy & terms](https://stripe.com/gb/privacy)
-* [Prohibited & restricted businesses](https://stripe.com/gb/legal/restricted-businesses)
-* [Licences](https://stripe.com/gb/spc/licenses)
-* [Sitemap](https://stripe.com/gb/sitemap)
-* [Cookie settings](https://stripe.com/gb/cookie-settings)
+* [Annual conference](https://stripe.com/sessions)
+* [Privacy & terms](https://stripe.com/privacy)
+* [Prohibited & restricted businesses](https://stripe.com/legal/restricted-businesses)
+* [Licenses](https://stripe.com/spc/licenses)
+* [Sitemap](https://stripe.com/sitemap)
+* [Cookie settings](https://stripe.com/cookie-settings)
+* [Your privacy choices](https://privacy.stripe.com/)
 
 Company
 =======
 
-* [Jobs](https://stripe.com/gb/jobs)
-* [Newsroom](https://stripe.com/gb/newsroom)
+* [Jobs](https://stripe.com/jobs)
+* [Newsroom](https://stripe.com/newsroom)
 * [Stripe Press](https://press.stripe.com/)
 
 Support
 =======
 
-* [Contact sales](https://stripe.com/gb/contact/sales)
-* [Support centre](https://support.stripe.com/?referrerLocale=en-gb-gb)
-* [Support plans](https://stripe.com/gb/support-plans)
+* [Contact sales](https://stripe.com/contact/sales)
+* [Support center](https://support.stripe.com/?referrerLocale=en-us)
+* [Support plans](https://stripe.com/support-plans)
+* CA residents: +1 888 926 2289
