@@ -45,6 +45,7 @@ PUBLIC - Menu principal
     * Services climatiques
         * [DRIAS, les futurs du climat](http://www.drias-climat.fr/ "Drias, les futurs du climat")
         * [DRIAS-Eau, les futurs de l'eau](https://www.drias-eau.fr/ "DRIAS, les futurs de l'eau")
+        * [Climadiag Agriculture](https://climadiag-agriculture.fr/ "Climadiag Agriculture")
         * [Climadiag Commune](https://meteofrance.com/le-changement-climatique/climadiag-commune "Climadiag Commune")
         * [Climadiag Chaleur en ville](https://meteofrance.com/le-changement-climatique/climadiag-chaleur-en-ville)
         * [Climadiag Entreprise](https://meteofrance.com/climadiag-entreprise "Climadiag Entreprise")
@@ -117,6 +118,7 @@ PUBLIC - Menu burger
     * [Services Climatiques](https://meteofrance.com/comprendre-climat "Services Climatiques")
         * [DRIAS, les futurs du climat](http://www.drias-climat.fr/ "Drias")
         * [DRIAS-Eau, les futurs de l'eau](https://www.drias-eau.fr/)
+        * [Climadiag Agriculture](https://climadiag-agriculture.fr/ "Climadiag Agriculture")
         * [Climadiag Commune](https://meteofrance.com/climadiag-commune "Climadiag Commune")
         * [Climadiag Chaleur en ville](https://meteofrance.com/le-changement-climatique/climadiag-chaleur-en-ville)
         * [Climadiag Entreprise](https://meteofrance.com/climadiag-entreprise "Climadiag Entreprise")
@@ -202,7 +204,7 @@ Suivez-nous
 Droits de Reproduction
 ======================
 
-31/07/2024
+10/09/2024
 
 Décharge de responsabilité
 --------------------------
@@ -251,8 +253,6 @@ Météo-France se réserve cependant le droit de
 
 Tous les droits qui ne sont pas expressément concédés aux termes des présentes sont réservés par Météo-France. 
 
-[![Participez au concours photo l'oeil du climat](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Participez au concours photo l'oeil du climat")](https://www.geo.fr/page/concours-photo-climat)
-
 Top 20 des villes les plus consultées
 
 * [METEO PARIS](https://meteofrance.com/previsions-meteo-france/paris/75000 "METEO PARIS")
@@ -292,8 +292,7 @@ Menu Bas de page
 * [Politique de Confidentialité](https://meteofrance.com/politique-de-confidentialite "Politique de Confidentialité")
 * [Droits de Reproduction](https://meteofrance.com/droits-de-reproduction "Droits de Reproduction")
 * [Consentement](https://meteofrance.com/ "Consentement")
-* [Accessibilité](https://meteofrance.com/accessibilite "Accessibilité Site Météo-France")
-* [Autres Sites](https://meteofrance.com/autres-sites "Autres Sites Internet de Météo-France")
+* [Accessibilité : partiellement conforme](https://meteofrance.com/accessibilite "Accessibilité Site Météo-France")
 * [Contact](https://meteofrance.com/contact "Contacter Météo-France")
 
 ![République française](/themes/custom/theme_public/dist/img/marianne.svg "République française")
