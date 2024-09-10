@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![12 Facts About Team Work ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/general/12-facts-about-team-work/)
+[![25 Facts About Cmv Antenatal Infection ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/lifestyle/health/25-facts-about-cmv-antenatal-infection/)
 
-General
+Health
 
-29 Jul 2024
+10 Sep 2024
 
-[12 Facts About Team Work](https://facts.net/general/12-facts-about-team-work/)
+[25 Facts About Cmv Antenatal Infection](https://facts.net/lifestyle/health/25-facts-about-cmv-antenatal-infection/)
 
-[![20 Facts About Chinas OneChild Policy ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2290%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/society-and-social-sciences/20-facts-about-chinas-one-child-policy/)
+[![31 Facts About Fiecht Abbey ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/world/landmarks/31-facts-about-fiecht-abbey/)
 
-Society & Social Sciences
+Landmarks
 
-29 Jul 2024
+10 Sep 2024
 
-[20 Facts About Chinas OneChild Policy](https://facts.net/society-and-social-sciences/20-facts-about-chinas-one-child-policy/)
+[31 Facts About Fiecht Abbey](https://facts.net/world/landmarks/31-facts-about-fiecht-abbey/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
@@ -367,5 +367,10 @@ The Terms constitute the entire agreement between you and Facts.net relating t
 * [Submit Facts](https://facts.net/fact-submission-page/)
 * [More Facts](https://facts.net/more-category/)
 * [Shop Facts.net Merchandise](https://shop.facts.net/)
+* [🇩🇪 Fakten auf Deutsch](https://de.facts.net/)
+* [🇫🇷 Faits en français](https://fr.facts.net/)
+* [🇪🇸 Hechos en Español](https://es.facts.net/)
+* [🇮🇹 Fatti in Italiano](https://it.facts.net/)
+* [🇧🇷 🇵🇹 Fatos em português](https://pt.facts.net/)
 
 Follow us [Subscribe to our channel](https://www.youtube.com/channel/UCkEWgtngMrn9AcsRTmDgPIQ)
