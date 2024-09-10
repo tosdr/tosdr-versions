@@ -195,7 +195,7 @@ For more information about our privacy practices, if you have questions, or if y
 * [Transit](https://quadranet.com/privacy-policy/transit)
 * [CDN Services](https://quadranet.com/privacy-policy/cdn-services)
 * Keep In Touch
-* [Contact Us](https://www.quadranet.com/contact)
+* [Contact Us](https://quadranet.com/privacy-policy/contact)
 
 * About
 * [Los Angeles Downtown Datacenter](https://quadranet.com/privacy-policy/los-angeles-datacenter)
@@ -217,6 +217,6 @@ Write to us [sales@quadranet.com](mailto:sales@quadranet.com)
 Give Us a Call [888-578-2372](tel:888-578-2372)
 
 Copyright © 2024 QuadraNet. All Rights Reserved.  
-[Service Level Agreement](https://www.quadranet.com/service-level-agreement) | [Terms of Service](https://www.quadranet.com/terms-of-service) | [DDoS Service Level Agreement](https://www.quadranet.com/ddos-service-level-agreement)
+[Service Level Agreement](https://quadranet.com/privacy-policy/service-level-agreement) | [Terms of Service](https://quadranet.com/privacy-policy/terms-of-service) | [DDoS Service Level Agreement](https://quadranet.com/privacy-policy/ddos-service-level-agreement)
 
 /\* \*/
