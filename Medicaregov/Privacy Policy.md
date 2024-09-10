@@ -152,7 +152,7 @@ Medicare.gov offers a Privacy Manager which gives you control over what tracking
 
 The Privacy Manager provides you with the choice to opt in or to opt out of the different categories of third-party tools used by Medicare.gov: Advertising, Analytics, or Social Media. The Privacy Manager prevents cookies, web beacons, and Local Storage Objects from being placed on your device. The Privacy Manager also prevents third-party tools from loading regardless of your cookie settings, which provides you with an additional layer of privacy that prevents the tool from loading at all. Because the Privacy Manager creates a cookie in your browser, the opt in and opt out choices you make through the Privacy Manager will only be effective on the device and browser you used to make your choices, and your choices will expire when the cookie expires. Once the cookie is created, the Privacy Manager will retain your settings for 3 years from the date of your most recent visit. You may revisit the Privacy Manager to change or renew your choices at any time.
 
-[Modify privacy options](https://www.medicare.gov/privacy-policy#)
+[Modify privacy options](#modify-privacy-options)
 
 If you disable cookies in your browser, our Privacy Manager won’t be able to store your preferences and won’t function properly. If you don’t wish to use our Privacy Manager to opt out of the tools used by Medicare.gov, you can opt out of tools individually, or via the Digital Advertising Alliance (“DAA”) AdChoices icon, discussed in the next subsection.
 
@@ -160,7 +160,7 @@ If you opt out of the tools used by Medicare.gov via the Privacy Manager or by o
 
 **AdChoices:** We include the AdChoices icon on all digital advertising that uses “conversion tracking” or “retargeting.” To learn about conversion tracking, targeted advertising, and retargeting, see [How CMS uses third-party websites & applications with Medicare.gov](#third-party). The AdChoices icon is usually at or near the corner of digital ads. When you click on the AdChoices icon, it will provide information on what company served the ad and information on how to opt out. [Learn more about AdChoices.](https://youradchoices.com/)
 
-**Do Not Track:** We automatically observe the “Do Not Track” browser setting for digital advertising that uses “conversion tracking” or “retargeting.” If “Do Not Track” is set before a device visits Medicare.gov, third-party conversion tracking and retargeting tools won’t load on the website. To learn more about conversion tracking and retargeting, see [How CMS uses third-party websites & applications with Medicare.gov](#third-party). [Learn more about Do Not Track and how to set the Do Not Track setting in your browser.](https://allaboutdnt.com/)
+**Do Not Track:** We automatically observe the “Do Not Track” browser setting for digital advertising that uses “conversion tracking” or “retargeting.” If “Do Not Track” is set before a device visits Medicare.gov, third-party conversion tracking and retargeting tools won’t load on the website. To learn more about conversion tracking and retargeting, see [How CMS uses third-party websites & applications with Medicare.gov](#third-party).
 
 How CMS uses third-party websites & applications with Medicare.gov
 ------------------------------------------------------------------
@@ -268,7 +268,6 @@ Site Menu
 * [Providers & services](https://www.medicare.gov/providers-services)
 * [What Medicare covers](https://www.medicare.gov/coverage)
 * [Drug coverage (Part D)](https://www.medicare.gov/drug-coverage-part-d "Drug coverage (Part D)")
-* [Claims & appeals](https://www.medicare.gov/claims-appeals "Claims & appeals")
 * [Site map](https://www.medicare.gov/sitemap "Site map")
 
 Take Action
