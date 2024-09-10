@@ -2,7 +2,7 @@
 
 Unfortunately we don't fully support your browser. If you have the option to, please upgrade to a newer version or use [Mozilla Firefox](https://www.mozilla.org/en-GB/firefox), [Microsoft Edge](https://www.microsoft.com/en-us/edge), [Google Chrome](https://www.google.co.uk/chrome), or Safari 14 or newer. If you are unable to, and need support, please [send us your feedback](https://www.elsevier.com/support).
 
-We'd appreciate your feedback.[Tell us what you think!opens in new tab/window](https://survey.alchemer.eu/s3/90475606/NextGen-Health?page=/legal/privacy-policy)
+We'd appreciate your feedback.[Tell us what you think! opens in new tab/window](https://survey.alchemer.eu/s3/90475606/NextGen-Health?page=/legal/privacy-policy)
 
 [![Elsevier](/images/elsevier-logo.svg)](https://www.interfolio.com/)
 
@@ -83,7 +83,7 @@ Slide
 
 |     |     |
 | --- | --- |
-| [About our privacy policy](https://www.elsevier.com/legal/privacy-policy#0-about-our-privacy-policy) [Information we collect](https://www.elsevier.com/legal/privacy-policy#1-information-we-collect) [How we use your information](https://www.elsevier.com/legal/privacy-policy#2-how-we-use-your-information) [Sharing of your information](https://www.elsevier.com/legal/privacy-policy#3-sharing-of-your-information) [Your personal account](https://www.elsevier.com/legal/privacy-policy#4-your-personal-account) [Administrator data](https://www.elsevier.com/legal/privacy-policy#5-administrator-data) [Preferences](https://www.elsevier.com/legal/privacy-policy#6-preferences) [Accessing and updating](https://www.elsevier.com/legal/privacy-policy#7-accessing-and-updating) | [Data retention](https://www.elsevier.com/legal/privacy-policy#8-data-retention) [Data security](https://www.elsevier.com/legal/privacy-policy#9-data-security) [Locations of processing](https://www.elsevier.com/legal/privacy-policy#10-locations-of-processing) [Grounds for processing](https://www.elsevier.com/legal/privacy-policy#11-grounds-for-processing) [Changes](https://www.elsevier.com/legal/privacy-policy#12-changes) [Contact](https://www.elsevier.com/legal/privacy-policy#13-contact) [Service-specific details](https://www.elsevier.com/legal/privacy-policy#14-service-specific-details) |
+| [About our privacy policy](https://www.elsevier.com/legal/privacy-policy#0-about-our-privacy-policy) [Information we collect](https://www.elsevier.com/legal/privacy-policy#1-information-we-collect) [How we use your information](https://www.elsevier.com/legal/privacy-policy#2-how-we-use-your-information) [Sharing of your information](https://www.elsevier.com/legal/privacy-policy#3-sharing-of-your-information) [Your personal account](https://www.elsevier.com/legal/privacy-policy#4-your-personal-account) [Administrator data](https://www.elsevier.com/legal/privacy-policy#5-administrator-data) [Preferences](https://www.elsevier.com/legal/privacy-policy#6-preferences) [Accessing and updating](https://www.interfolio.com/legal/privacy-policy#7-accessing-and-updating) | [Data retention](https://www.interfolio.com/legal/privacy-policy#8-data-retention) [Data security](https://www.interfolio.com/legal/privacy-policy#9-data-security) [Locations of processing](https://www.interfolio.com/legal/privacy-policy#10-locations-of-processing) [Grounds for processing](https://www.interfolio.com/legal/privacy-policy#11-grounds-for-processing) [Changes](https://www.interfolio.com/legal/privacy-policy#12-changes) [Contact](https://www.interfolio.com/legal/privacy-policy#13-contact) [Service-specific details](https://www.interfolio.com/legal/privacy-policy#14-service-specific-details) |
 
 Last updated: 22 May 2024
 
@@ -105,96 +105,58 @@ We collect information about you in three ways: directly from your input, from 
 
 The types of personal information that we collect directly from you depends on the content and features of the Service you use and how you otherwise interact with us and may include:
 
-* ●
+* Contact details, such as your name, email address, postal address, phone number and social media handle;
     
-    Contact details, such as your name, email address, postal address, phone number and social media handle;
+* Account login credentials, such as usernames and passwords, password hints and similar security information;
     
-* ●
+* Other account registration and profile information, including educational, professional and other background information, such as your field of study, current position, practice area and areas of interests, gender, ORCID ID and photo;
     
-    Account login credentials, such as usernames and passwords, password hints and similar security information;
+* Content that you upload and share or store in your account, such as annotations, comments, contributions and replies;
     
-* ●
+* Payment information, such as a credit or debit card number, and government-issued ID numbers;
     
-    Other account registration and profile information, including educational, professional and other background information, such as your field of study, current position, practice area and areas of interests, gender, ORCID ID and photo;
+* Information that you communicate to us, such as questions or information you send to customer support;
     
-* ●
+* Data that you provide to us as part of interacting with the Service, such as your favorites and search queries; and/or
     
-    Content that you upload and share or store in your account, such as annotations, comments, contributions and replies;
-    
-* ●
-    
-    Payment information, such as a credit or debit card number, and government-issued ID numbers;
-    
-* ●
-    
-    Information that you communicate to us, such as questions or information you send to customer support;
-    
-* ●
-    
-    Data that you provide to us as part of interacting with the Service, such as your favorites and search queries; and/or
-    
-* ●
-    
-    Communications preferences, such as your preferred language and the frequency, type and format of the alerts you sign up to receive.
+* Communications preferences, such as your preferred language and the frequency, type and format of the alerts you sign up to receive.
     
 
 #### Data from your institution
 
 We may obtain information about you from the institution with which you are employed or affiliated in order to activate and manage your access to and use of the institution’s subscription to the Service, including:
 
-* ●
+* Contact details, such as your name and institutional email address, postal address and phone number;
     
-    Contact details, such as your name and institutional email address, postal address and phone number;
+* Other account registration information, such as job title; and/or
     
-* ●
-    
-    Other account registration information, such as job title; and/or
-    
-* ●
-    
-    Institutional user ID.
+* Institutional user ID.
     
 
 #### Data from other sources
 
 We also may obtain contact details and other information about you from other entities within RELX and from third parties, including:
 
-* ●
+* Social networks that you grant permission to the Service to access your data on one or more networks;
     
-    Social networks that you grant permission to the Service to access your data on one or more networks;
+* Service providers that help us determine a location in order to customize certain products to your location;
     
-* ●
+* Partners with which we offer co-branded services or engage in joint marketing activities; and/or
     
-    Service providers that help us determine a location in order to customize certain products to your location;
-    
-* ●
-    
-    Partners with which we offer co-branded services or engage in joint marketing activities; and/or
-    
-* ●
-    
-    Publicly available sources and data suppliers to validate or supplement the information we hold or to support the Service.
+* Publicly available sources and data suppliers to validate or supplement the information we hold or to support the Service.
     
 
 #### Device and usage data
 
 The Service may automatically collect information about how you and your device interact with the Service, such as:
 
-* ●
+* Computer, device and connection information, such as IP address, browser type and version, operating system and other software installed on your device, unique device identifier and other technical identifiers, error reports and performance data;
     
-    Computer, device and connection information, such as IP address, browser type and version, operating system and other software installed on your device, unique device identifier and other technical identifiers, error reports and performance data;
+* Usage data, such as the features you used, the settings you selected, URL click stream data, including date and time stamp and referring and exit pages, and pages you visited on the Service;
     
-* ●
+* For educational Services, the course modules and test questions you view, answer or complete; and/or
     
-    Usage data, such as the features you used, the settings you selected, URL click stream data, including date and time stamp and referring and exit pages, and pages you visited on the Service;
-    
-* ●
-    
-    For educational Services, the course modules and test questions you view, answer or complete; and/or
-    
-* ●
-    
-    For location-aware Services, the physical location of your device.
+* For location-aware Services, the physical location of your device.
     
 
 We collect this data through our servers and the use of cookies and other technologies. You can control cookies through your browser's settings and other tools. However, if you choose to block certain cookies, you may not be able to register, login, or access certain parts or make full use of the Service. For more details, visit the cookie notice of the Service.
@@ -204,68 +166,38 @@ How we use your information
 
 We are committed to delivering a relevant and useful experience to you. Depending on how you interact with us and the Service, we use your personal information to:
 
-* ●
+* Provide, activate and manage your access to and use of the Service;
     
-    Provide, activate and manage your access to and use of the Service;
+* Process and fulfill a request, order, download, subscription or other transaction;
     
-* ●
+* Offer you customized content and other personalization to make the Service more efficient for you and more relevant to your interests and geography;
     
-    Process and fulfill a request, order, download, subscription or other transaction;
+* Enhance and improve the Service, such as add new content and features;
     
-* ●
+* Notify you about changes, updates and other announcements related to the Service;
     
-    Offer you customized content and other personalization to make the Service more efficient for you and more relevant to your interests and geography;
+* Deliver targeted advertisements, promotional messages, and other information related to the Service and to your interests;
     
-* ●
+* Provide technical, product and other support and help to keep the Service working, safe and secure; and/or
     
-    Enhance and improve the Service, such as add new content and features;
-    
-* ●
-    
-    Notify you about changes, updates and other announcements related to the Service;
-    
-* ●
-    
-    Deliver targeted advertisements, promotional messages, and other information related to the Service and to your interests;
-    
-* ●
-    
-    Provide technical, product and other support and help to keep the Service working, safe and secure; and/or
-    
-* ●
-    
-    Identify usage trends and develop data analysis, including for the purposes of research, audits, reporting and other business operations, such as to pay royalties and license fees to third-party content providers, determine the effectiveness of our promotional campaigns, evaluate our business performance, or in other ways pursuant to a customer agreement.
+* Identify usage trends and develop data analysis, including for the purposes of research, audits, reporting and other business operations, such as to pay royalties and license fees to third-party content providers, determine the effectiveness of our promotional campaigns, evaluate our business performance, or in other ways pursuant to a customer agreement.
     
 
 We may also use your personal information to:
 
-* ●
+* Respond to your requests, inquiries, comments or concerns;
     
-    Respond to your requests, inquiries, comments or concerns;
+* Invite you to submit or review manuscripts or otherwise participate in our publishing programs;
     
-* ●
+* Issue payments and statements, such as for royalties and editorial fees;
     
-    Invite you to submit or review manuscripts or otherwise participate in our publishing programs;
+* Conduct and administer user testing and surveys as well as sweepstakes, competitions and similar promotions;
     
-* ●
+* Provide you with relevant promotional messages and other information about products, events and services of ours, our group companies and third parties such as societies and sponsors;
     
-    Issue payments and statements, such as for royalties and editorial fees;
+* Enhance and improve our products, events and services and develop new ones; and/or
     
-* ●
-    
-    Conduct and administer user testing and surveys as well as sweepstakes, competitions and similar promotions;
-    
-* ●
-    
-    Provide you with relevant promotional messages and other information about products, events and services of ours, our group companies and third parties such as societies and sponsors;
-    
-* ●
-    
-    Enhance and improve our products, events and services and develop new ones; and/or
-    
-* ●
-    
-    Comply with our legal obligations, resolve disputes and enforce our agreements.
+* Comply with our legal obligations, resolve disputes and enforce our agreements.
     
 
 Sharing of your information
@@ -281,13 +213,9 @@ If you access the Service through a subscription administered by your institutio
 
 Depending on the Service provided, we share your personal information with our:
 
-* ●
+* Affiliates, trading names and divisions within the Elsevier group of companies (for a list, visit [https://www.elsevier.com/locations](https://www.interfolio.com/about/global-locations)) and certain RELX companies that provide technology, customer service and other shared services functions; and/or
     
-    Affiliates, trading names and divisions within the Elsevier group of companies (for a list, visit [https://www.elsevier.com/locations](https://www.interfolio.com/about/global-locations)) and certain RELX companies that provide technology, customer service and other shared services functions; and/or
-    
-* ●
-    
-    Suppliers and service providers, including editors, reviewers, payment processors, customer support, email service providers, access and authentication service providers, event venues and service providers, mailing houses, shipping agents and IT service providers;
+* Suppliers and service providers, including editors, reviewers, payment processors, customer support, email service providers, access and authentication service providers, event venues and service providers, mailing houses, shipping agents and IT service providers;
     
 
 to process the information as necessary to provide the Service, complete a transaction or fulfill your request or otherwise on our behalf based on our instructions and in compliance with this privacy policy and any other appropriate confidentiality and security measures.
@@ -300,17 +228,11 @@ We may also share your personal information with our group companies and with sp
 
 We also will disclose your personal information if we have a good faith belief that such disclosure is necessary to:
 
-* ●
+* Meet any applicable law, regulation, legal process or other legal obligation;
     
-    Meet any applicable law, regulation, legal process or other legal obligation;
+* Detect, investigate and help prevent security, fraud or technical issues; and/or
     
-* ●
-    
-    Detect, investigate and help prevent security, fraud or technical issues; and/or
-    
-* ●
-    
-    Protect the rights, property or safety of Elsevier, our users, employees or others;
+* Protect the rights, property or safety of Elsevier, our users, employees or others;
     
 
 and as part of a corporate transaction, such as a transfer of a journal or other assets to or an acquisition by or merger with another company.
@@ -318,7 +240,7 @@ and as part of a corporate transaction, such as a transfer of a journal or other
 Your personal account
 ---------------------
 
-If you create a personal user account on ScienceDirect, Scopus, Mendeley, ClinicalKey or [another Service listed hereopens in new tab/window](https://service.elsevier.com/app/answers/detail/a_id/14372), you can sign in with the same credentials to all of them.
+If you create a personal user account on ScienceDirect, Scopus, Mendeley, ClinicalKey or [another Service listed here opens in new tab/window](https://service.elsevier.com/app/answers/detail/a_id/14372), you can sign in with the same credentials to all of them.
 
 We will share your usage activity, preferences and other information amongst these and related Elsevier services, like bepress and PlumX, to help you improve your productivity. For example, ScienceDirect may recommend better content for you based on your Mendeley library content and the abstracts you read on Scopus, and Mendeley may present you a better tailored content feed based on your ScienceDirect and Scopus activity.
 
@@ -341,17 +263,11 @@ Keeping such information up to date is solely the responsibility of the user. Re
 
 You have the right under certain privacy and data protection laws, as may be applicable, to request free of charge:
 
-* ●
+* Access to and correction and deletion of your personal information;
     
-    Access to and correction and deletion of your personal information;
+* Restriction of our processing of your personal information, or to object to our processing; and/or
     
-* ●
-    
-    Restriction of our processing of your personal information, or to object to our processing; and/or
-    
-* ●
-    
-    Portability of your personal information.
+* Portability of your personal information.
     
 
 If you wish to exercise any of these rights, please contact us through the [Elsevier Privacy Support Hub](https://www.interfolio.com/legal/privacy-policy/data-request). We will respond to your request consistent with applicable laws. To protect your privacy and security, we may require you to verify your identity. You may designate an authorized agent to make a request on your behalf subject to proof of identity and authorization.
@@ -371,7 +287,7 @@ Locations of processing
 
 Your personal information may be stored and processed in your region or another country where Elsevier companies and their service providers maintain servers and facilities, including Australia, China, France, Germany, India, Ireland, the Netherlands, the Philippines, Singapore, the United Kingdom, and the United States. We take steps, including through contracts, to ensure that the information continues to be protected wherever it is located in a manner consistent with the standards of protection required under applicable law.
 
-Elsevier Inc. has certified certain of its services to the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework as set forth by the U.S. Department of Commerce. Please view its Data Privacy Framework Notice [hereopens in new tab/window](https://www.relx.com/~/media/Files/R/RELX-Group/documents/legal/DPF-notice.pdf). To learn more about the Data Privacy Framework program, and to view its certification, please visit [https://www.dataprivacyframework.govopens in new tab/window](https://www.dataprivacyframework.gov/).
+Elsevier Inc. has certified certain of its services to the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework as set forth by the U.S. Department of Commerce. Please view its Data Privacy Framework Notice [here opens in new tab/window](https://www.relx.com/~/media/Files/R/RELX-Group/documents/legal/DPF-notice.pdf). To learn more about the Data Privacy Framework program, and to view its certification, please visit [https://www.dataprivacyframework.gov opens in new tab/window](https://www.dataprivacyframework.gov/).
 
 For additional information as required by applicable local laws, see our [location-specific disclosures](https://www.interfolio.com/legal/privacy-policy/supplement).
 
@@ -380,25 +296,15 @@ Grounds for processing
 
 When we process any personal information within the scope of certain privacy and data protection laws, we do so:
 
-* ●
+* Where necessary to provide the Service, fulfill a transaction or otherwise perform a contract with you or at your request prior to entering into a contract;
     
-    Where necessary to provide the Service, fulfill a transaction or otherwise perform a contract with you or at your request prior to entering into a contract;
+* Where necessary for our compliance with applicable law or other legal obligation;
     
-* ●
+* Where necessary for the performance of a task carried out in the public interest;
     
-    Where necessary for our compliance with applicable law or other legal obligation;
+* Where applicable, with your consent; and/or
     
-* ●
-    
-    Where necessary for the performance of a task carried out in the public interest;
-    
-* ●
-    
-    Where applicable, with your consent; and/or
-    
-* ●
-    
-    As necessary to operate our business, protect the security of our systems, customers and users, detect or prevent fraud, or fulfill our other legitimate interests as described in the sections above, except where our interests are overridden by your privacy rights.
+* As necessary to operate our business, protect the security of our systems, customers and users, detect or prevent fraud, or fulfill our other legitimate interests as described in the sections above, except where our interests are overridden by your privacy rights.
     
 
 Where we rely on your consent to process personal information, you have the right to withdraw your consent at any time, and where we rely on legitimate interests, you may have the right to object to our processing.
@@ -428,7 +334,7 @@ Please read the service-specific details below for additional information about 
 
 #### Editorial Manager
 
-Submissions to most Elsevier journals are handled via the [Editorial Manager®](https://www.interfolio.com/editor/submission-systems) online manuscript submission and peer review system. When you create or confirm an Editorial Manager account for a journal, certain personal information is required, such as your name and email address. Some journals may require or provide you the option to add other information, such as postal address, institutional affiliation, telephone number, or ORCID ID, as well as to self-identify your gender identity, race and ethnicity for diversity, equity and inclusion purposes. If you are a reviewer, Editorial Manager may process additional information, such as your subject area expertise, publication history, and review history, including your previous review comments, to help optimally match submitted manuscripts with relevant reviewers. Your review history may be shared across Elsevier journals to help editors when selecting you as a potential reviewer for other journals. When a submission that you reviewed is transferred from one Elsevier journal to another Elsevier journal via the [Elsevier Article Transfer Service](https://www.interfolio.com/researcher/author/submit-your-paper/submit-and-revise/article-transfer-service), the transferring journal may also transfer your account details and associated review comments.To optimize performance and secure the integrity of the peer review process, Elsevier also monitors geography-based traffic and usage data. To deliver Editorial Manager services, your data may be processed by affiliates and service providers that perform services such as website hosting and IT support.You can always manage your marketing communication preferences in your Editorial Manager account or by visiting the [Elsevier Preference Centeropens in new tab/window](https://preferences.elsevier.com/) at any time.
+Submissions to most Elsevier journals are handled via the [Editorial Manager®](https://www.interfolio.com/editor/submission-systems) online manuscript submission and peer review system. When you create or confirm an Editorial Manager account for a journal, certain personal information is required, such as your name and email address. Some journals may require or provide you the option to add other information, such as postal address, institutional affiliation, telephone number, or ORCID ID, as well as to self-identify your gender identity, race and ethnicity for diversity, equity and inclusion purposes. If you are a reviewer, Editorial Manager may process additional information, such as your subject area expertise, publication history, and review history, including your previous review comments, to help optimally match submitted manuscripts with relevant reviewers. Your review history may be shared across Elsevier journals to help editors when selecting you as a potential reviewer for other journals. When a submission that you reviewed is transferred from one Elsevier journal to another Elsevier journal via the [Elsevier Article Transfer Service](https://www.interfolio.com/researcher/author/submit-your-paper/submit-and-revise/article-transfer-service), the transferring journal may also transfer your account details and associated review comments.To optimize performance and secure the integrity of the peer review process, Elsevier also monitors geography-based traffic and usage data. To deliver Editorial Manager services, your data may be processed by affiliates and service providers that perform services such as website hosting and IT support.You can always manage your marketing communication preferences in your Editorial Manager account or by visiting the [Elsevier Preference Center opens in new tab/window](https://preferences.elsevier.com/) at any time.
 
 #### Mendeley
 
@@ -462,11 +368,11 @@ Complete Anatomy offers customized content and other personalization based on th
 
 #### Researchfish
 
-When you create a [Researchfishopens in new tab/window](https://app.researchfish.com/user/login?) account, you can submit your research outcomes, outputs and impacts to research funders, charities, research organisations and research centres. For more about data access and sharing with third parties, see the [Researchfish user documentationopens in new tab/window](https://app.researchfish.com/content/who-can-see-data-you-add-researchfish).
+When you create a [Researchfish opens in new tab/window](https://app.researchfish.com/user/login?) account, you can submit your research outcomes, outputs and impacts to research funders, charities, research organisations and research centres. For more about data access and sharing with third parties, see the [Researchfish user documentation opens in new tab/window](https://app.researchfish.com/content/who-can-see-data-you-add-researchfish).
 
 #### Interfolio Dossier
 
-When you create or confirm an Interfolio Dossier account, certain personal information is required, such as your name and email address. You may add other information such as your contact details, work history, experience, education, interests, writing samples, transcripts, letters of recommendation, and cover letters. Your university may also create an Interfolio Dossier account for you. For guidance on how to manage your account, and the materials and information shared through your account, please visit [https://product-help.interfolio.com/en\_US/about-dossier-accountsopens in new tab/window](https://product-help.interfolio.com/en_US/about-dossier-accounts).
+When you create or confirm an Interfolio Dossier account, certain personal information is required, such as your name and email address. You may add other information such as your contact details, work history, experience, education, interests, writing samples, transcripts, letters of recommendation, and cover letters. Your university may also create an Interfolio Dossier account for you. For guidance on how to manage your account, and the materials and information shared through your account, please visit [https://product-help.interfolio.com/en\_US/about-dossier-accounts opens in new tab/window](https://product-help.interfolio.com/en_US/about-dossier-accounts).
 
 Useful links
 
@@ -491,13 +397,13 @@ About
 
 Global | English
 
-[LinkedIn opens in new tab/window](https://www.linkedin.com/company/elsevier)[Twitter opens in new tab/window](https://twitter.com/ElsevierConnect)[Facebook opens in new tab/window](https://www.facebook.com/ElsevierConnect)[YouTube opens in new tab/window](https://www.youtube.com/c/elsevier)
+ [LinkedIn opens in new tab/window](https://www.linkedin.com/company/elsevier) [Twitter opens in new tab/window](https://twitter.com/ElsevierConnect) [Facebook opens in new tab/window](https://www.facebook.com/ElsevierConnect) [YouTube opens in new tab/window](https://www.youtube.com/c/elsevier)
 
-[![Elsevier](/images/elsevier-logo-white.svg)opens in new tab/window](https://www.interfolio.com/)[![Relx](/images/relx-logo.svg)opens in new tab/window](https://www.relx.com/)
+ [![Elsevier](/images/elsevier-logo-white.svg) opens in new tab/window](https://www.interfolio.com/) [![Relx](/images/relx-logo.svg) opens in new tab/window](https://www.relx.com/)
 
 Copyright © 2024 Elsevier, its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies.
 
-* [Terms & Conditionsopens in new tab/window](https://www.interfolio.com/legal/elsevier-website-terms-and-conditions)
-* [Privacy policyopens in new tab/window](https://www.interfolio.com/legal/privacy-policy)
-* [Accessibilityopens in new tab/window](https://www.interfolio.com/about/accessibility)
+* [Terms & Conditions](https://www.interfolio.com/legal/elsevier-website-terms-and-conditions)
+* [Privacy policy](https://www.interfolio.com/legal/privacy-policy)
+* [Accessibility](https://www.interfolio.com/about/accessibility)
 * Cookie settings
