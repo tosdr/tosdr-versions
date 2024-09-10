@@ -90,7 +90,7 @@
 * [Our Work](https://sesameworkshop.org/our-work/ "Our Work")
     
     * [Shows](https://sesameworkshop.org/our-work/shows/ "Shows")
-    * [Impact Areas](https://sesameworkshop.org/our-work/impact-areas/ "Impact Areas")
+    * [What We Do](https://sesameworkshop.org/our-work/impact-areas/ "What We Do")
     * [Where We Work](https://sesameworkshop.org/our-work/where-we-work/ "Where We Work")
     * [Research and Insights](https://sesameworkshop.org/our-work/research-and-insights/ "Research and Insights")
     * [Fellowships](https://sesameworkshop.org/our-work/fellowships/ "Fellowships")
@@ -210,7 +210,7 @@ Search
 * [Our Work](https://sesameworkshop.org/our-work/ "Our Work")
     
     * [Shows](https://sesameworkshop.org/our-work/shows/ "Shows")
-    * [Impact Areas](https://sesameworkshop.org/our-work/impact-areas/ "Impact Areas")
+    * [What We Do](https://sesameworkshop.org/our-work/impact-areas/ "What We Do")
     * [Where We Work](https://sesameworkshop.org/our-work/where-we-work/ "Where We Work")
     * [Research and Insights](https://sesameworkshop.org/our-work/research-and-insights/ "Research and Insights")
     * [Fellowships](https://sesameworkshop.org/our-work/fellowships/ "Fellowships")
@@ -364,7 +364,7 @@ Follow Us[](https://www.instagram.com/sesameworkshop/ "Instagram")[](https://www
 [Our Work](https://sesameworkshop.org/our-work/)
 
 * [Shows](https://sesameworkshop.org/our-work/shows/ "Shows")
-* [Impact Areas](https://sesameworkshop.org/our-work/impact-areas/ "Impact Areas")
+* [What We Do](https://sesameworkshop.org/our-work/impact-areas/ "What We Do")
 * [Where We Work](https://sesameworkshop.org/our-work/where-we-work/ "Where We Work")
 * [Research and Insights](https://sesameworkshop.org/our-work/research-and-insights/ "Research and Insights")
 * [Fellowships](https://sesameworkshop.org/our-work/fellowships/ "Fellowships")
@@ -384,6 +384,7 @@ Follow Us[](https://www.instagram.com/sesameworkshop/ "Instagram")[](https://www
 * [Careers](https://sesameworkshop.org/about-us/careers/ "Careers")
 * [Diversity, Equity & Inclusion](https://sesameworkshop.org/about-us/diversity-equity-inclusion/ "Diversity, Equity & Inclusion ") 
 * [Contact Us](https://sesameworkshop.org/about-us/contact-us/ "Contact Us")
+* [Frequently Asked Questions](https://sesameworkshop.org/about-us/frequently-asked-questions/ "Frequently Asked Questions")
 * [Sitemap](https://sesameworkshop.org/sitemap/ "Sitemap")
 
 [Support Us](https://sesameworkshop.org/support-us/)
