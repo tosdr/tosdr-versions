@@ -66,6 +66,7 @@ Any questions or suggestions regarding this Policy should be sent to the Alviy s
 * Blog
 * [About DDNS](https://alviy.com/en/blog/ddns)
 * [DDNS service comparison](https://alviy.com/en/blog/ddns-net)
+* [Choosing a service provider](https://alviy.com/en/blog/cloudflare-alternative)
 
 © www.alviy.com All Rights Reserved
 
