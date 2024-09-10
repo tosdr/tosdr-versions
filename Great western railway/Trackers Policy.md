@@ -619,7 +619,7 @@ Site info links
 * [Site accessibility](https://www.gwr.com/accessibility)
 * [Site map](https://www.gwr.com/sitemap)
 * [Gender pay(PDF, 773 KB)](https://www.gwr.com/-/media/gwr-sc-website/files/Gender-Pay-Gap-Report-2021.pdf)
-* [Modern Slavery Act(PDF, 146 KB)](https://www.gwr.com/-/media/gwr-sc-website/files/FirstGroup-Modern-Slavery-Statement-2023.pdf)
+* [Modern Slavery Act(PDF, 144 KB)](https://www.gwr.com/-/media/gwr-sc-website/files/FirstGroup-Modern-Slavery-Statement-2024.pdf)
 * [Press](https://news.gwr.com/)
 
 © GWR 2024 All rights reserved. Images owned by GWR, or courtesy of Network Rail or Visit England.
