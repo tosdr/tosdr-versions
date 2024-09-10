@@ -4,300 +4,278 @@ CONTENTS
 
 CONTENTS
 
-* 1[Подход, ориентированный на конфиденциальность](#privacy-first-approach)
-* 2[Какие Персональные Данные мы собираем?](#what-personal-data-do-we-collect)
-* 3[Как мы используем Ваши Персональные Данные?](#how-do-we-use-your-personal-data)
-* 4[На какую нормативно-правовую базу мы опираемся при обработке ваших Персональных данных?](#what-legal-basis-do-we-rely-on-when-processing-your-personal-data)
-* 5[Отслеживание и анализ в режиме онлайн](#online-tracking-and-analysis)
-* 6[Социальные сети](#social-networks)
-* 7[Передача данных в третьи страны](#data-transfers-to-third-countries)
-* 8[В какие третьи страны мы передаем Персональные Данные?](#with-which-third-parties-do-we-share-personal-data)
-* 9[Какие персональные данные мы передаем третьим лицам?](#what-personal-data-do-we-share-with-third-parties)
-* 10[Какие персональные данные мы получаем от третьих лиц?](#what-personal-data-do-we-receive-from-third-parties)
-* 11[Как долго мы храним ваши персональные данные?](#how-long-do-we-retain-your-personal-data)
-* 12[Чатбот "Goddess" на основе ИИ](#ai-driven-chatbot-goddess)
-* 13[Как мы защищаем ваши Персональные Данные?](#how-do-we-secure-your-personal-data)
-* 14[Ваши права](#your-rights)
-* 15[Политика в отношении детей](#childrens-policy)
-* 16[Изменения Политики](#changes-to-this-privacy-policy)
-* 17[Контакты](#contact)
+* 1[Privacy-first approach](#privacy-first-approach)
+* 2[What Personal Data do we collect?](#what-personal-data-do-we-collect)
+* 3[How do we use your Personal Data?](#how-do-we-use-your-personal-data)
+* 4[What legal basis do we rely on when processing your Personal Data?](#what-legal-basis-do-we-rely-on-when-processing-your-personal-data)
+* 5[Online tracking and analysis](#online-tracking-and-analysis)
+* 6[Social networks](#social-networks)
+* 7[Data Transfers to Third Countries](#data-transfers-to-third-countries)
+* 8[With which third parties do we share Personal Data?](#with-which-third-parties-do-we-share-personal-data)
+* 9[What Personal Data do we share with third parties?](#what-personal-data-do-we-share-with-third-parties)
+* 10[What Personal Data do we receive from third parties?](#what-personal-data-do-we-receive-from-third-parties)
+* 11[How long do we retain your Personal Data?](#how-long-do-we-retain-your-personal-data)
+* 12[AI-driven chatbot “Goddess”](#ai-driven-chatbot-goddess)
+* 13[How do we secure your Personal Data?](#how-do-we-secure-your-personal-data)
+* 14[Your rights](#your-rights)
+* 15[Children's policy](#childrens-policy)
+* 16[Changes to this Privacy Policy](#changes-to-this-privacy-policy)
+* 17[Contact](#contact)
 
-#### ПОЛИТИКА КОНФИДЕНЦИАЛЬНОСТИ КОМПАНИИ PURE
+### PURE’S PRIVACY POLICY
 
-Настоящая политика конфиденциальности ("**Политика конфиденциальности**") применяется к использованию веб-сайта [https://pure.app/](https://pure.app/) в полном объеме, включая все его подразделы, связанные сайты или страницы ("**Веб-сайт**"), а также мобильного и веб-приложения PURE, доступного через браузер на вашем мобильном телефоне, планшетном компьютере (планшете) и персональном компьютере ("**Приложение**") (совместно именуемые "PURE"), управляемого компанией Online Classifieds AG, Baarerstrasse 8, 6300 Zug, Switzerland, CHE-274.401.166 ("**мы**", "**нас**", "**наш**").
+If you are a resident of Washington or Nevada, please see and review our [Consumer Health Data Privacy Policy](https://pure.app/content/en/legal/consumer-health-data-privacy-policy), which supplements this Privacy Policy accordingly.
 
-Мы несем ответственность за всю информацию, относящуюся к идентифицируемым или определяемым физическим и, где это применимо, юридическим лицам ("**Личные данные**"), которую мы собираем, обрабатываем и используем во время Вашего пользования PURE. 
+This privacy policy (“**Privacy Policy**”) applies to the use of the website [https://pure.app/](https://pure.app/) in its entirety, including all of our subpages, associated sites or pages (“**Website**”), and the PURE mobile and web app, which is accessible through browser on your mobile phone, tablet computer and personal computer (“**App**”) (collectively, “**PURE**”), are operated by Online Classifieds AG, Baarerstrasse 8, 6300 Zug, Switzerland, CHE-274.401.166 (“**we**”, “**us**”, “**our**”).
 
-Настоящая Политика конфиденциальности описывает, как мы обрабатываем Ваши Персональные данные в связи с PURE и в иных случаях. Веб-сайт содержит ссылки на сайты третьих лиц, например, социальные сети. Переход по таким ссылкам или включение таких соединений может позволить третьей стороне собирать или передавать данные о Вас. Мы не контролируем эти сторонние сайты и рекомендуем вам ознакомиться с политикой конфиденциальности этих сторонних сайтов.
+We are responsible for all information relating to an identified or identifiable natural and, where applicable, legal person (“**Personal Data**”) that we collect, process, and use during your use of PURE. 
 
-Только для пользователей из Калифорнии. Наше уведомление о конфиденциальности для жителей Калифорнии дополняет информацию, содержащуюся в настоящей Политике конфиденциальности, и распространяется исключительно на всех посетителей, пользователей и других лиц, проживающих в Калифорнии. Наше уведомление о конфиденциальности для жителей Калифорнии можно загрузить и просмотреть, нажав [здесь](https://pure.app/content/en/legal/california-privacy).
+This Privacy Policy outlines how we process your Personal Data both in connection with PURE and otherwise. The Website includes links to third-party websites, such as social networks. Clicking on those links or enabling those connections may allow the third party to collect or share data about you. We do not control these third-party websites, and we encourage you to read the privacy policy of those third-party websites.
 
-Только для пользователей из России.  При получении и обработке Личных данных применяются требования, описанные в законодательстве Российской Федерации.
+California Residents Only. Our privacy notice for California residents supplements the information contained in this Privacy Policy and applies solely to all visitors, users, and others who reside in California. Our privacy notice for California residents can be downloaded and viewed by clicking [here](https://pure.app/content/en/legal/california-privacy)**.**
 
-#### 1\. Подход, ориентированный на конфиденциальность
+#### 1\. Privacy-first approach
 
-Мы обязуемся защищать вашу конфиденциальность и обрабатывать ваши Персональные Данные в соответствии с действующими законами и нормами. Для этого мы придерживаемся принципов минимизации данных и ограничения их назначения. Мы будем собирать и обрабатывать только ту личную информацию, которая необходима для конкретных целей, указанных в настоящей политике. Ваши данные не будут использоваться ни для каких других целей, кроме тех, которые раскрыты, и мы будем хранить их только до тех пор, пока это необходимо для выполнения этих целей или запросов в соответствии с действующим законодательством.
+We are committed to protecting your privacy and handling your Personal Data in accordance with applicable laws and regulations. To achieve this, we adhere to the principles of data minimization and purpose limitation. We will only collect and process personal information that is necessary for the specific purposes stated in this policy. Your data will not be used for any purpose other than those disclosed and we will only retain it for as long as required to fulfill these purposes or requests under applicable law.  
+We also prioritize transparency and respect for your privacy choices. You have the right to access, correct, or delete your personal data held by us. Your privacy is important to us, and we are committed to maintaining the highest standards of data protection and user control in order  to make PURE a service that people love and trust.
 
-Мы также уделяем первостепенное внимание прозрачности и уважению вашего выбора в отношении конфиденциальности. Вы имеете право на доступ, исправление или удаление ваших персональных данных, хранящихся у нас. Ваша конфиденциальность важна для нас, и мы стремимся поддерживать самые высокие стандарты защиты данных и контроля пользователей, чтобы сделать PURE сервисом, который люди любят и которому доверяют.
+#### 2\. What Personal Data do we collect?
 
-#### 2\. Какие Персональные Данные мы собираем?
+Some of the personal data we collect is mandatory for the provision and functioning of PURE, while other personal data is considered optional, designed to enhance your user experience. Please be aware that without providing the mandatory personal data, we won't be able to grant you access to PURE.
 
-Некоторые из собираемых нами персональных данных являются обязательными для предоставления и функционирования PURE, в то время как другие персональные данные считаются необязательными и предназначены для улучшения вашего пользовательского опыта. Пожалуйста, имейте в виду, что без предоставления обязательных персональных данных мы не сможем предоставить вам доступ к PURE.
+##### **a. When visiting the Website and/or App**
 
-##### **a. Когда посещаете Веб-сайт и/или Приложение**
+When you visit the Website or App, we can process the following categories of Personal Data from you:
 
-Когда вы посещаете Веб-сайт или Приложение, мы можем обрабатывать следующие категории Персональных Данных:
+* Technical Data: IP address, operating system, date and time of access, country from which PURE is accessed, browser type, referrer URL, log-in data, and device type;
+* Tracking Data: See Article 5 below.
 
-* Технические данные: IP-адрес, операционная система, дата и время доступа, страна, из которой осуществляется доступ к PURE, тип браузера, URL-адрес реферера, данные для входа в систему и тип устройства;
-* Данные отслеживания: См. статью 5 ниже.  
-     
+##### **b. When creating an account** 
 
-##### **b. Когда создаете аккаунт** 
+When you create your PURE account, you voluntarily provide us with certain information. In this way, we can process the following categories of your Personal Data, which are either mandatory or optional for creating account and using PURE:
 
-Создавая свой аккаунт в PURE, Вы добровольно предоставляете нам определенную информацию. Таким образом, мы можем обрабатывать следующие категории Ваших Персональных Данных, которые являются обязательными или необязательными для создания учетной записи и использования PURE:
+**Mandatory:**
 
-**Обязательные:**
+* Gender (man, woman or non-binary);
+* Sexual orientation (heterosexual, bisexual, lesbian, gay, queer or asexual);
+* Account data, including User ID.
 
-* Пол (мужской, женский);
-* Учетные данные, включая идентификатор пользователя.
+**Optional:**
 
-**Необязательные:**
+* Email address (see Article 8 of the Agreement);
+* Identity data, details about your add (personal description, age, height);
+* Sexual and other preferences (turn-ons).
 
-* Адрес электронной почты (см. статью 8 Соглашения);
-* Идентификационные данные, сведения о вашем сложении (личное описание, возраст, рост);
-* Сексуальные и другие предпочтения (интересы).
+##### **c. When using PURE** 
 
-##### **c. Когда вы используете PURE** 
+When you use PURE, you voluntarily provide us with certain information. When you add information to your user profile, interact with us or other users, you make the choice to share your certain personal information with us. In this manner, we can process the following categories of your Personal Data, some of which are optional, while others are mandatory to enable you to use PURE to its fullest potential and enhance your overall experience:
 
-Когда вы пользуетесь PURE, вы добровольно предоставляете нам определенную информацию. Когда вы добавляете информацию в свой профиль пользователя, взаимодействуете с нами или другими пользователями, вы делаете выбор в пользу предоставления нам определенной личной информации. Таким образом, мы можем обрабатывать следующие категории Ваших Персональных Данных, некоторые из которых являются необязательными, а другие - обязательными, чтобы Вы могли использовать PURE в полной мере и улучшить Ваш общий опыт:
+ **Optional:**
 
- **Необязательные данные:**
+* Location data, including geographical position, time identifier;
 
-* Данные о местоположении, включая географическое положение, идентификатор времени;
+PURE is designed to help you engage with other users located nearby to you. We use your location data (e.g., by using the GPS on your mobile device) to enable the intended functionality of PURE. This will be enabled only if you explicitly give us permission to access your location. You can disable this at any given time by changing the location permissions on your device or in the browser. Please keep in mind that when you use PURE, other users can view your location data and they may use it for purposes you did not intend, or disclose it to individuals or entities outside of our control and without our and your knowledge. The information you provide may be subject to abuse, misuse, and monitoring by others, and you share this information at your own risk.
 
-PURE создан для того, чтобы помочь вам взаимодействовать с другими пользователями, находящимися поблизости от вас. Мы используем данные о Вашем местоположении (например, с помощью GPS на Вашем мобильном устройстве) для обеспечения функциональности PURE. Это будет возможно только в том случае, если вы явно дадите нам разрешение на доступ к вашему местоположению. Вы можете отключить это в любой момент, изменив разрешение на определение местоположения на вашем устройстве или в браузере. Пожалуйста, имейте в виду, что при использовании PURE другие пользователи могут просматривать данные о вашем местоположении и использовать их в целях, которые вы не планировали, или раскрывать их физическим или юридическим лицам, находящимся вне нашего контроля и без нашего и вашего ведома. Предоставленная вами информация может стать предметом злоупотреблений, неправомерного использования и мониторинга со стороны других лиц, поэтому вы предоставляете эту информацию на свой страх и риск.
-
-* Транзакционные данные, включая информацию о процессе подачи заявления, содержании договора, работе с договором и его исполнении;
-* Финансовые данные, включая информацию о выставлении счетов и платежах;
-* Изображения, видео, аудио и текстовые сообщения, отправленные при общении с другими пользователями (т. е. пользовательский контент и материалы, представленные в чате, далее "**Пользовательские материалы**"), обрабатываются в целях обеспечения безопасности и работы сервисов, а также для обеспечения безопасности нашего сообщества пользователей. Для обеспечения безопасности пользователей мы используем автоматизированные системы для мониторинга и просмотра изображений в чатах между пользователями. Такой подход строго соответствует нормам защиты данных и предпринимается для выполнения требований законодательства отдельных стран в отношении передачи откровенного контента. Для этого фотографии будут анонимизированы и очищены от личной информации, чтобы защитить вашу конфиденциальность, тем самым обеспечивая защиту данных от несанкционированного доступа или разглашения. Более подробную информацию об этом можно найти в наших Положениях и условиях ([здесь](https://pure.app/content/ru/terms));
-* Фотографии и видео, которые вы загружаете, публикуете или предоставляете любым другим способом. Чтобы добавить такой контент, вы должны сначала дать нам разрешение на доступ к вашему фотоальбому/галерее и/или вашей камере;
-* Информация об изображениях (например, метаданные), такая как местоположение фотографии и информация об устройстве. Если пользователи решают поделиться изображениями на PURE и использовать их в своих объявлениях, они также соглашаются на передачу метаданных, связанных с этими изображениями. Это служит инструментом для процесса модерации, направленного на предотвращение потенциальных мошеннических действий и других обманных действий. В соответствии с нашей приверженностью приоритету конфиденциальности пользователей, собираемые данные о местоположении являются приблизительными и обобщенными, а не точными. Важно отметить, что эти данные используются исключительно для целей модерации и обрабатываются с максимальной конфиденциальностью и безопасностью.
-* Доступ к камере вашего устройства и использование функций дополненной реальности ("**AR**") в PURE, которые предоставляются компанией Snap Inc. Этот доступ позволяет интегрировать инновационные возможности, которые повышают общую вовлеченность пользователей, их знакомство с AR и возможность раскрыть весь свой творческий потенциал.  
-    Перед тем как получить доступ к этой функции, пользователи получат уведомление с предложением дать явное согласие, а также описанные условия использования и конфиденциальности. Пользователи должны незамедлительно ознакомиться с Политикой конфиденциальности Snap Inc. ([здесь](https://values.snap.com/privacy/privacy-policy)), Условиями предоставления услуг ([здесь](https://snap.com/terms)) и разделом "Узнать больше" ([здесь](https://help.snapchat.com/hc/en-us/articles/7012366118676)), прежде чем давать явное согласие на доступ к функциям AR на PURE. Пользователи могут отказаться от принятия условий Snap Inc. и заблокировать попытку активации AR-линзы, нажав на кнопку X в уведомлении. В случае такого отказа все последующие попытки активировать линзу будут побуждать пользователя еще раз ознакомиться с условиями и принять их. Чтобы просто отозвать предоставленные разрешения, измените настройки своего устройства. Обратите внимание, что это действие ограничено настройками устройства, и если вы это сделаете, некоторые сервисы могут потерять полную функциональность.
-* Данные об использовании, включая данные об активности, онлайн-взаимодействии с нами и с другими пользователями;
+* Transactional data, including information about the application process, contract content, contract management and execution;
+* Financial data, including billing and payment information;
+* Pictures, videos, audio and text messages sent when communicating with others (i.e. user's content and material that have been submitted in the chat conversations, collectively “**User Submissions**”) are processed in order to secure and operate services and keep our user community safe. To safeguard user safety, we use automated systems to monitor and review pictures in chat conversations between users. This approach is in strict compliance with data protection regulations and is undertaken to meet the legal requirements imposed by specific countries concerning the transmission of explicit content. For this purpose pictures will be anonymized and stripped of personal information to protect your privacy, thereby ensuring data protection against unauthorized access or disclosure. For more details about this, please see our Terms and Conditions ([here](https://pure.app/content/en/terms));
+* Pictures and videos that you upload, publish or provide in any other way. In order to add this kind of content, you first have to give us permission to access your photo album/gallery and/or your camera;
+* Information about the images (e.g. metadata), such as the location of a photo and device information. If users choose to share images on PURE and use them in their ads, they also consent to the sharing of metadata related to those images. This serves as a tool for the moderation process, aimed at preventing potential scams and other fraudulent activities. In our commitment to prioritizing users’ privacy, the collected location data is approximate and generalized rather than precise. It is important to note that this data is used solely for moderation purposes and is treated with the utmost confidentiality and security.
+* Access to your device's camera and usage of Augmented Reality (“**AR**”) features within PURE that are provided by Snap Inc. This access allows the integration of innovative experiences that enhance users' overall engagement, encounter with AR and the option to unlock their full potential for creations.  
+    Users will receive a notification with an option to grant explicit consent along with the outlined terms of usage and privacy before accessing this feature. Users must promptly review Snap Inc.’s Privacy Policy ([here](https://values.snap.com/privacy/privacy-policy)), Terms of Service ([here](https://snap.com/terms)) and Learn More section ([here](https://help.snapchat.com/hc/en-us/articles/7012366118676)) before providing explicit consent to accessing AR features on PURE. Users can decline acceptance of Snap Inc.’s terms and block an attempt to activate an AR Lens by tapping on the X button on the provided notification. In the event of such a decline, any subsequent efforts to activate a Lens will prompt the user to review and accept the terms once again. In order to simply revoke given permissions, please change your device settings. Note that this action is limited to device settings and If you do that, certain services may lose full functionality.
+* Usage data, including activity data, online interactions with us and with other users;
 * Sexual identity data, including sexual orientation and other sexual preferences (turn-ons and types of connections you prefer);
-* Данные о сексуальной идентичности, включая сексуальную ориентацию и другие сексуальные предпочтения (возбуждающие факторы и типы связей, которые вы предпочитаете);
-* Ваши мнения о наших продуктах и услугах, ответы и отзывы, которые вы предоставляете нам, когда участвуете в опросах, исследованиях рынка или отвечаете на вопросы;
-* Информация, которая используется для участия в различных конкурсах, мероприятиях и акциях, которые мы проводим;
-* Если вы обращаетесь в нашу службу поддержки, мы собираем информацию, которую вы предоставляете нам во время взаимодействия, и
-* Ваше фотографическое изображение и документ, удостоверяющий личность и подтверждающий дату Вашего рождения, при обжаловании нашего решения об отзыве Вашей лицензии, разрешения на доступ и/или использование PURE и прекращении действия Вашей учетной записи за несоблюдение наших правил о минимально необходимом возрасте (подробнее см. [здесь](https://pure.app/content/ru/terms)).  
-     
+* Your insights into our products and services, responses and testimonials your provide us when you participate in surveys, market studies or answering questions;
+* Information that is used for participation in different contests, events and promotions we provide;
+* If you contact our customer support team, we collect the information you give us during the interaction, and
+* Photographic image of you and your form of identification that can confirm the date of your birth when appealing our decision to revoke your license, authorization to access and/or use PURE and terminate your account for failure to comply with our rules on minimum required age (see more [here](https://pure.app/content/en/terms)).
 
-Большинство ваших Персональных данных мы получаем непосредственно от вас. В той мере, в какой это разрешено действующим законодательством, мы также можем получать ваши Персональные данные из общедоступных источников или от органов государственной власти и других третьих лиц (например, партнеров по обслуживанию, служб интернет-анализа). Персональные данные, которыми мы обмениваемся с третьими лицами, регулируются статьей 7 настоящего Соглашения.
+We receive most of your Personal Data directly from you. To the extent permitted by applicable law, we can also obtain your Personal Data from publicly available sources or from public authorities and other third parties (e.g., service partners, internet analysis services). Personal data we share with third parties is regulated by Article 7 of this Agreement.
 
-#### 3\. Как мы используем Ваши Персональные Данные?
+#### 3\. How do we use your Personal Data?
 
-Мы используем ваши персональные данные для предоставления вам продуктов, услуг, общения с вами или для осуществления других хозяйственных операций, таких как использование данных для улучшения и персонализации вашего опыта. Примеры того, как мы можем использовать собранные нами персональные данные, включают:
+We use your Personal Data to provide you products, offer you services, communicate with you, or to conduct other business operations, such as using data to improve and personalize your experience. Examples of how we may use the personal data we collect include:
 
-* Деловые отношения: Мы используем транзакционные данные, финансовые данные, данные, предоставленные Пользователем, и другие данные для установления, администрирования и обработки договорных отношений, включая создание и управление учетной записью пользователя, чтобы Вы могли в полной мере использовать PURE.
-* Обеспечение основной функциональности бизнеса и PURE: Мы используем данные о местоположении, включая географическое положение, идентификатор времени, данные о личности, данные о сексуальной идентичности, включая сексуальную ориентацию, сексуальные предпочтения и другие данные для обеспечения основной функциональности бизнеса и PURE, что включает в себя обслуживание, предоставление, улучшение, мониторинг и географическое определение Вашего местоположения относительно других пользователей PURE.
-* Безопасность и контроль доступа: Данные о местоположении, включая географическое положение, идентификатор времени, данные об использовании, данные о деятельности, данные об учетной записи и другие, используются для мониторинга, анализа и тестирования сетей и ИТ-инфраструктуры, проверки систем и ошибок, документирования, создания копий безопасности и передачи обновлений безопасности;
-* Исследование рынка и мнений: Мы используем данные об использовании, данные о действиях, ваши мысли, ответы, отзывы, взаимодействия и другие данные для мониторинга и анализа вашего использования PURE, использования статистических данных в научных и аналитических целях, дальнейшего развития предложений, которые мы предоставляем на PURE, проведения фокус-групп, определения демографических характеристик пользователей, а также для проведения рыночных исследований и опросов;
-* В целях рекламы и маркетинга, включая рекламные предложения, мероприятия и конкурсы, мы в основном используем Ваши сведения и информацию, полученную в результате участия в различных конкурсах, мероприятиях и акциях, которые мы проводим;
-* Соблюдение законов и нормативных рекомендаций и директив: Знай своего клиента (KYC), выполнение обязательств по раскрытию, предоставлению информации и отчетности, выполнение обязательств по архивированию, а также предотвращение, выявление и раскрытие преступных действий;
-* Обеспечение юридических претензий: предъявление, исполнение и защита интересов / требований; 
-* Другое: Для любых других целей с вашего согласия.
+* Business relationships: We utilize transactional data, financial data, User Submissions and others for establishing, administrating, and processing contractual relationships, including the creation and management of a user account to enable you to fully utilize PURE.
+* Ensuring the core functionality of the business and PURE: We use location data, including geographical position, time identifier, identity data, sexual identity data, including sexual orientation, sexual preferences and others to ensure the core functionality of the business and PURE, which encompasses maintenance, provision, improvement, monitoring, and geographically locating you relative to other users on PURE.
+* Security and access control: Location data, including geographical position, time identifier, usage data, activity data, account data and others are used for monitoring, analyzing, and testing of networks and IT infrastructures, system and error checks, documentation, security copies, and communication of security updates;
+* Market and opinion research: We use usage data, activity data, your insights, responses, testimonials, interactions and others for monitoring and analyzing your use of PURE, using statistical data for scientific and analysis purposes, further developing the offers we provide on PURE, administering focus groups, determining user demographics, and conducting market studies and surveys;
+* For the purpose of Advertising and marketing, including promotional offers, events, and contests, we mainly utilize your insights and information used for participation in different contests, events, and promotions we provide;
+* Compliance with laws and regulatory recommendations and directives: Know your customer (KYC) clarifications, fulfillment of disclosure, information and reporting obligations, fulfillment of archiving obligations, and the prevention, detection, and clarification of criminal acts;
+* Safeguarding legal claims: Assertion, enforcement, and defense of legal claims, and
+* Other: For any other purpose with your consent.
 
-#### 4\. На какую нормативно-правовую базу мы опираемся при обработке ваших Персональных данных?
+#### 4\. What legal basis do we rely on when processing your Personal Data?
 
-Мы обрабатываем ваши персональные данные на следующих правовых основаниях:
+We process your Personal Data based on the following legal bases:
 
-* Исполнение договорных обязательств: Нам необходимо обрабатывать Ваши персональные данные для предоставления PURE пользователям и, таким образом, выполнения наших обязательств в соответствии с Условиями PURE (например, создание учетной записи пользователя, прием платежей);
-* Законные интересы: Обработка Ваших Персональных данных необходима для реализации наших законных интересов, при условии, что Ваши права и свободы не противоречат этим законным интересам, которые включают, но не ограничиваются защитой PURE и повышением функциональности и эффективности PURE;
-* Соблюдение действующего законодательства и нормативных актов: Обработка Ваших Персональных данных необходима для выполнения наших юридических обязательств (например, бухгалтерских, налоговых и других установленных законом обязательств по хранению данных); и
-* Ваше согласие: Если вы решили предоставить нам Персональные данные, которые могут считаться конфиденциальными в определенных юрисдикциях, например, данные о вашей сексуальной идентичности, вы даете нам согласие на обработку этих Персональных данных в соответствии с настоящей Политикой конфиденциальности. Мы будем явно запрашивать ваше согласие на сбор конкретных Персональных данных, таких как ваша точная геолокация, на передачу ваших Персональных данных в страны с недостаточным уровнем защиты данных (более подробная информация приведена в статье 7 Соглашения) или на использование ваших Персональных данных по определенным причинам (например, прямой маркетинг). Вы можете в любой момент отозвать свое согласие, связавшись с нами, как указано в настоящей Политике конфиденциальности. Вы можете воспользоваться этим правом в любое время, и это не повлияет на законность обработки ваших данных, которая имела место до отзыва, при условии, что вы были проинформированы об этом до того, как дали свое согласие.
+* Performance of contractual obligations: It is necessary for us to process your Personal Data to provide PURE to users and thus carry out our obligations under the terms and conditions of PURE (e.g., create user account, receive payments);
+* Legitimate interests: It is necessary to process your Personal Data to pursue our legitimate business interests, provided that your rights and freedoms do not override these legitimate interests, which include but are not limited to the protection of PURE and enhancing the functionality and efficiency of PURE;
+* Compliance with applicable laws and regulations: It is necessary to process your Personal Data to comply with our legal obligations (e.g., accounting, tax, and other statutory data retention obligations); and
+* Your consent: If you choose to provide us with Personal Data that may be considered sensitive in certain jurisdictions, such as your sexual identity data, you are giving us consent to process that Personal Data in accordance with this Privacy Policy. We will explicitly ask for your consent to collect specific Personal Data such as your precise geolocation, to transfer your Personal Data to countries without an adequate level of data protection (for more information please see Article 7 of the Agreement), or to use your Personal Data for certain specific reasons (e.g. direct marketing). You may withdraw your consent at any given time by contacting us as stated in this Privacy Policy. You can exercise this right at any time and doing so won't affect the legality of processing your data that occurred before the withdrawal, as long as you were informed before giving your consent.
 
-Только для пользователей из России: В силу статьи 6 Федерального закона от 27 июля 2006 г. № 152-ФЗ "О персональных данных" отдельное согласие пользователя на обработку его персональных данных не требуется.
+#### 5\. Online tracking and analysis
 
-Персональные данные пользователей хранятся исключительно на электронных носителях и обрабатываются с помощью автоматизированных систем, за исключением случаев, когда неавтоматизированная обработка персональных данных необходима в связи с выполнением требований законодательства.
+##### **a. Cookies**
 
-#### 5\. Отслеживание и анализ в режиме онлайн
+We use and may allow others to use cookies and similar technologies on PURE to recognize you and/or your device(s). You may read our cookie policy (see [here](https://pure.app/content/en/legal/cookies)) for more information on why we use them and how you can have better control over their use.
 
-##### **a. Файлы cookie**
+##### **b. Analytics**
 
-Мы используем и можем разрешить другим использовать файлы cookie и аналогичные технологии на PURE для распознавания Вас и/или Вашего устройства (устройств). Вы можете ознакомиться с нашей политикой использования файлов cookie (см. [здесь](https://pure.app/content/ru/legal/cookies)) для получения дополнительной информации о том, почему мы их используем и как вы можете лучше контролировать их использование.
+We use analytics and research technologies on PURE to collect information about how visitors use PURE. For the analytics technologies that we use on our web platforms, you may read our Cookies policy (see [here](https://pure.app/content/en/legal/cookies)) for more information on why we use them and how you can better control their use.
 
-##### **b. Аналитика**
+##### **c. Log files**
 
-Мы используем аналитические и исследовательские технологии на PURE для сбора информации о том, как посетители используют PURE. Что касается аналитических технологий, которые мы используем на наших веб-платформах, вы можете прочитать нашу политику в отношении файлов Cookies (см. [здесь](https://pure.app/content/ru/legal/cookies)) для получения дополнительной информации о том, почему мы их используем и как вы можете лучше контролировать их использование.
+When using PURE, general access data is stored in a log file for the creation of statistics. We use this data for statistical and technical evaluations in anonymized form, for example to optimize the server infrastructure, to determine on which days there are particularly many accesses, or to draw conclusions about possible improvements to the user interface and functionalities. A personal evaluation of this data does not take place.
 
-##### **c. Файлы протоколов**
+#### 6\. Social networks
 
-При использовании PURE общие данные доступа сохраняются в файле журнала для создания статистики. Мы используем эти данные для статистических и технических оценок в анонимизированном виде, например, для оптимизации серверной инфраструктуры, определения дней, когда количество посещений особенно велико, или для выводов о возможном улучшении пользовательского интерфейса и функциональных возможностей. Персональная оценка этих данных не производится.  
- 
+There are links on our Website to our profiles on the following social networks:
 
-#### 6\. Социальные сети
+* Meta Platforms Inc., 1601 Willow Road, Menlo Park, CA 94025, USA please find more information about data protection [here](https://www.facebook.com/privacy/policy/).
+* Twitter Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103, USA, please find more information about data protection [here](https://twitter.com/en/privacy).
+* TikTok Inc., 5800 Bristol Parkway Culver City, Los Angeles, CA 90230, USA, please find more information about data protection [here](https://www.tiktok.com/legal/page/eea/privacy-policy/en).
 
-На нашем Веб-сайте есть ссылки на наши профили в следующих социальных сетях:
+If you click on the social network icons, you will automatically be redirected to our profile on the corresponding social network.
 
-* Twitter Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103, США, более подробную информацию о защите данных можно найти [здесь](https://twitter.com/en/privacy).
-* TikTok Inc., 5800 Bristol Parkway Culver City, Los Angeles, CA 90230, США, дополнительную информацию о защите данных можно найти [здесь](https://www.tiktok.com/legal/page/eea/privacy-policy/en).
+When you open a link to one of our profiles, a direct connection is established between your browser and the server of the relevant social network. This provides the network with the information that you have visited PURE with your IP address and accessed the link. If you access a link to a network while logged into your user account on the network in question, the content of PURE may be linked to your user account on the network, i.e., the network may link your visit originating from PURE directly to your user account on the social network. If you want to prevent this, you should log out from your account before clicking on the corresponding links. In any case, an association takes place when you log in to the relevant network after clicking on the link.
 
-Если вы нажмете на значки социальных сетей, вы будете автоматически перенаправлены на наш профиль в соответствующей социальной сети.
+#### 7\. Data Transfers to Third Countries
 
-Когда вы открываете ссылку на один из наших профилей, между вашим браузером и сервером соответствующей социальной сети устанавливается прямое соединение. Таким образом, сеть получает информацию о том, что вы посетили PURE с вашим IP-адресом и перешли по ссылке. Если Вы заходите по ссылке в сеть, будучи авторизованным в своей учетной записи в данной сети, содержимое PURE может быть связано с Вашей учетной записью в данной сети, т.е. сеть может связать Ваш визит, исходящий из PURE, непосредственно с Вашей учетной записью в социальной сети. Если Вы хотите предотвратить это, Вам следует выйти из своей учетной записи, прежде чем нажимать на соответствующие ссылки. В любом случае, ассоциация происходит, когда Вы входите в соответствующую сеть после нажатия на ссылку.
+We may transfer your Personal Data abroad to our business partners located in third countries, specializing in Analytics, Data Processing, Business Operations and Data Integration, Content Moderation, Marketing, and App Tracking.
 
-#### 7\. Передача данных в третьи страны
+To safeguard your data privacy rights when transferring your personal data to third countries, including those where adequate data protection might not be guaranteed, we use tools such as Standard Contractual Clauses (SCCs) - approved by the European Commission and other relevant data protection authorities, Binding Corporate Rules (BCR) and other appropriate mechanism that ensure the personal data transfer complies with applicable laws and regulations. These mechanisms are designed to provide a legal framework for the protection of your personal data during international transfers and demonstrate our commitment to maintaining the highest standards of data protection.
 
-Мы можем передавать ваши персональные данные за границу нашим деловым партнерам, расположенным в третьих странах и специализирующимся на аналитике, обработке данных, бизнес-операциях и интеграции данных, модерации контента, маркетинге и отслеживании приложений.
+In addition, we ensure that the personal data transfer complies with applicable law, aiming to give your personal data the same level of protection as it has in the European Union and in Switzerland. We carefully assess whether the transfer is based on an adequacy decision, which, as a point of clarification, is an official determination by the European Commission regarding the adequacy of data protection in the third country. Such a determination can simplify data transfers to certain countries. Furthermore, we take into consideration specific safeguards outlined in GDPR Article 46, including Binding Corporate Rules (BCR) and Standard Contractual Clauses (SCCs).
 
-Для защиты ваших прав на конфиденциальность данных при передаче ваших персональных данных в третьи страны, в том числе в те, где адекватная защита данных может быть не гарантирована, мы используем такие инструменты, как стандартные договорные положения (SCC), одобренные Европейской комиссией и другими соответствующими органами по защите данных, обязательные корпоративные правила (BCR) и другие соответствующие механизмы, которые обеспечивают соответствие передачи персональных данных действующим законам и нормативным актам. Эти механизмы призваны обеспечить правовую основу для защиты ваших персональных данных при международной передаче и продемонстрировать нашу приверженность соблюдению самых высоких стандартов защиты данных.
+When required, we may rely on your explicit consent for data transfers, as stipulated by the provisions of the GDPR, Swiss privacy data regulations, and other applicable regulations. We conduct a comprehensive assessment to safeguard your personal data when transferred to third countries. This reflects our unwavering commitment to protect your data during international transfers and mitigate potential privacy risks. We take your privacy seriously and ensure that such transfers comply with the requirements of these data protection laws and regulations.
 
-В дополнение к вышесказанному, мы обеспечиваем соответствие передачи персональных данных действующему законодательству, стремясь предоставить вашим персональным данным тот же уровень защиты, что и в Европейском союзе и Швейцарии. Мы тщательно оцениваем, основывается ли передача данных на решении об адекватности, которое, в качестве пояснения, представляет собой официальное определение Европейской комиссии относительно адекватности защиты данных в третьей стране. Такое решение может упростить передачу данных в определенные страны. Кроме того, мы принимаем во внимание особые меры предосторожности, изложенные в статье 46 GDPR, включая обязательные корпоративные правила (BCR) и стандартные договорные положения (SCC).
+#### 8\. With which third parties do we share Personal Data?
 
-При необходимости мы можем опираться на ваше явное согласие на передачу данных, как это предусмотрено положениями GDPR, швейцарскими правилами передачи конфиденциальных данных и другими применимыми нормативными актами. Мы проводим комплексную оценку для защиты ваших персональных данных при их передаче в третьи страны. Это отражает нашу неизменную приверженность защите ваших данных при международной передаче и снижению потенциальных рисков для конфиденциальности. Мы серьезно относимся к вашей конфиденциальности и следим за тем, чтобы такие передачи соответствовали требованиям этих законов и нормативных актов о защите данных.
+In alignment with data protection regulations, we prioritize transparency when it comes to the transfer of your personal data to third parties. This section provides you with essential details regarding such transfers. We may transfer your personal data to carefully selected third parties situated within or outside Switzerland when we have a business reason to engage these organizations.
 
-Только для пользователей из России. Российское законодательство **содержит перечень иностранных государств,** обеспечивающих защиту прав субъектов Персональных данных при трансграничной передаче персональных данных. В него входят:
+Once again, we would like to emphasize that we consistently ensure compliance with legal requirements by using up-to-date necessary and recognised mechanisms, guaranteeing the confidentiality and integrity of your personal data's privacy and security throughout its processing and transmission to these third parties.
 
-* страны, являющиеся сторонами Конвенции Совета Европы о защите физических лиц при автоматизированной обработке Персональных данных;
-* иностранные государства, которые сторонами Конвенции не являются, но действующие нормы права которых и применяемые меры по обеспечению конфиденциальности и безопасности Персональных данных при их обработке соответствуют положениям Конвенции.
+As we operate on a global scale, the recipient of shared Personal Data and the location data of processing may vary depending on your geographical location and other events. Third parties are located and may process shared data in countries within the European Economic Area (EEA) and the European Union (EU) (including but not limited to Ireland, Belgium, Netherlands, Denmark, France, Germany, Cyprus, and Finland). Additionally, data may be shared to other countries in Europe (including but not limited to the United Kingdom and Russia), as well as to Asia (including but not limited to Israel, India, Vietnam, Japan, Singapore and Hong Kong). Furthermore, data processing and sharing extends to third parties in North and South America (including but not limited to the United States of America, Canada, Mexico, and Brazil) and Australia.
 
-В рамках действующего законодательства  PURE может вести трансграничную передачу данных только в страны из утверждённого перечня, как описано выше. В страны, не включённые в перечень, передавать данные запрещено. Для передачи в другие страны PURE должен получить разрешение, и Ваше разрешение на передачу в другие страны считается полученным для этих целей, когда вы соглашаетесь с политиками и условиями получения услуг. 
+#### 9\. What Personal Data do we share with third parties?
 
-Закон от 27.07.2006 № 152-ФЗ "О персональных данных" не запрещает хранение персональных данных в облаке, но при этом дата-центр выбранного облачного провайдера должен находиться на территории России.
+In particular, we may disclose your Personal Data to the following categories of recipients:
 
-#### 8\. В какие третьи страны мы передаем Персональные Данные?
+* Service providers: We work with trusted service providers that process your Personal Data on our behalf or under joint responsibility (e.g., providers of telecommunications systems, email, database, hosting, outsourcing, payment, user verification, advertising, marketing, analytics, anti-spam, anti-fraud services). These service providers may also use your Personal Data for their own purposes. Service providers provide information about their independent data processing in their own privacy statements.
+* Buyers or merger partners: In connection with an actual or potential restructuring of part or all of our business or our assets or any rights or interests therein, we may disclose your Personal Data to potential buyers or merger partners or sellers and their advisors.
+* Government agencies: We may disclose your Personal Data to governmental agencies, courts, and other authorities, both domestic and foreign, if we are legally obligated or entitled to do so or if we deem it necessary to do so in order to protect our interests.
 
-В соответствии с правилами защиты данных мы уделяем первостепенное внимание прозрачности при передаче ваших персональных данных третьим лицам. В этом разделе вы найдете подробную информацию о такой передаче. Мы можем передавать ваши персональные данные тщательно отобранным третьим лицам, расположенным в Швейцарии или за ее пределами, если у нас есть деловые причины для привлечения этих организаций.
+This disclosure aligns with our commitment to transparency, in accordance with relevant data protection laws and regulations. Please refer to the Article 7 of Privacy Policy for detailed information on data sharing and protection practices.
 
-Еще раз подчеркнем, что мы последовательно обеспечиваем соблюдение требований законодательства, используя современные необходимые и признанные механизмы, гарантируя конфиденциальность и целостность ваших персональных данных на всех этапах их обработки и передачи третьим лицам.
+#### 10\. What Personal Data do we receive from third parties?
 
-Только для пользователей из России. В соответствии с действующими нормами законодательства о трансграничной передаче персональных данных данные могут передаваться за рубеж, но первично их запись, а также систематизация, накопление, хранение, уточнение (обновление, изменение) или извлечение должны производиться на сервере, физически расположенном в России.  
- 
+By signing in PURE using your Facebook account you give permission to Facebook to share your email address, name and your profile picture with PURE. You have an option to manually opt-out of permission to allow Facebook sharing your email address with PURE, however this is only possible when an email is associated with your Facebook account.
 
-#### 9\. Какие персональные данные мы передаем третьим лицам?
+By signing in to PURE using your Apple ID you give permission to Apple to share your Apple login, your name and your email with PURE. Apple is offering an option to hide your email, so you can keep your email address private but still receive messages from the App. To enable this, Apple will create a random email address, link it to your account on PURE and allow your personal email to stay private.
 
-В частности, мы можем раскрывать ваши персональные данные следующим категориям получателей:
+By signing in to PURE using your HUAWEI ID you give permission to HUAWEI to share with PURE your profile picture, your nickname or anonymised phone number/email address if no nickname is set, to link your HUAWEI ID and to share your email address. HUAWEI allows you to manually opt-out of sharing the email address.
 
-* Поставщики услуг: Мы работаем с проверенными поставщиками услуг, которые обрабатывают ваши Персональные данные от нашего имени или под совместную ответственность (например, поставщики телекоммуникационных систем, электронной почты, баз данных, хостинга, аутсорсинга, платежей, проверки пользователей, рекламы, маркетинга, аналитики, антиспама, услуг по борьбе с мошенничеством). Эти поставщики услуг могут также использовать ваши Персональные данные в своих собственных целях. Поставщики услуг предоставляют информацию о независимой обработке данных в своих собственных заявлениях о конфиденциальности.
-* Покупателям или партнерам по слиянию: В связи с фактической или потенциальной реструктуризацией части или всего нашего бизнеса, наших активов или любых прав или интересов в них мы можем раскрыть ваши Персональные данные потенциальным покупателям, партнерам по слиянию или продавцам и их консультантам.
-* Государственные учреждения: Мы можем раскрывать ваши Персональные данные государственным учреждениям, судам и другим органам власти, как отечественным, так и зарубежным, если мы обязаны или имеем на это право по закону или если мы считаем это необходимым для защиты наших интересов.
+By signing in PURE with your Google Account you give permission to Google to share your name, email address, language preference and  with PURE.
 
-Такое раскрытие информации согласуется с нашим стремлением к прозрачности, согласно соответствующим законам и нормам о защите данных. Пожалуйста, ознакомьтесь со статьей 7 Политики конфиденциальности для получения подробной информации о практике обмена и защиты данных.
+Compiled data will be used in order to form your account on PURE. You can always manually withdraw your permission to access the data above by removing the PURE app from the Facebook settings, your Google account or from your Apple ID or by canceling authorization for HUAWEI ID. Data provided at the set up of the account using any of these third party services will still be accessible to PURE, even after you withdraw permission on these third party services. In order to remove our access to this data you will have to delete your PURE account. Your rights regarding, and setting options for protecting your privacy, can be found in the privacy notices of the providers:
 
-#### 10\. Какие персональные данные мы получаем от третьих лиц?
+* Apple Inc., One Apple Park Way, Cupertino, CA 95014, USA; please find more information about data protection [here](https://www.apple.com/legal/privacy/en-ww/#:~:text=Apple's%20Sharing%20of%20Personal%20Data,for%20their%20own%20marketing%20purposes.).
+* Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA; please find more information about data protection [here](https://policies.google.com/privacy?hl=en).
+* Meta Platforms Inc., 1601 Willow Road, Menlo Park, CA 94025, USA please find more information about data protection [here](https://www.facebook.com/privacy/policy/).
+* Huawei Device Co. Ltd., 9 Canton Road, Tsim Sha Tsui, Kwloon, Hong Kong; please find more information about data protection [here](https://www.huawei.com/ch-en/privacy-policy).
 
-Авторизуясь в PURE с помощью своей учетной записи Facebook, Вы даете разрешение Facebook передавать PURE Ваш адрес электронной почты, имя и фотографию профиля. У Вас есть возможность вручную отказаться от разрешения Facebook передавать Ваш адрес электронной почты в PURE, однако это возможно только в том случае, если электронная почта связана с Вашей учетной записью Facebook.
+#### 11\. How long do we retain your Personal Data?
 
-При входе в PURE с помощью Вашего Apple ID Вы даете разрешение Apple передавать Ваш логин Apple, Ваше имя и Вашу электронную почту в PURE. Apple предлагает возможность скрыть свой e-mail, чтобы вы могли сохранить свой адрес электронной почты в тайне, но при этом получать сообщения из приложения. Для этого Apple создаст случайный адрес электронной почты, свяжет его с Вашей учетной записью в PURE и позволит Вашей личной электронной почте оставаться конфиденциальной.
+We only retain your Personal Data for as long as it is needed for the purpose for which it was originally collected or as we are required to retain it under applicable laws and regulations or contractual agreements.
 
-Входя в PURE с помощью Вашего HUAWEI ID, Вы даете разрешение HUAWEI передавать в PURE Вашу фотографию профиля, Ваш псевдоним или анонимизированный номер телефона/адрес электронной почты, если псевдоним не установлен, связывать Ваш HUAWEI ID и передавать Ваш адрес электронной почты. HUAWEI позволяет Вам вручную отказаться от предоставления адреса электронной почты.
+If you manually initiate the deletion of a chat conversation which involves detected abuse, attempted scams, or other violations of our Terms and Conditions, Guidelines, or Privacy Policy, we will retain these chat conversations for an extended period in order to enhance our user’s safety. This enables maintaining a secure environment while enhancing our ability to prevent potential risks, frauds, and undesirable activities and safeguarding crucial information, which is vital for our legitimate interest in ensuring the platform’s integrity and the user's well-being.
 
-Входя в PURE с помощью своего аккаунта Google, Вы даете разрешение Google на передачу Вашего имени, адреса электронной почты, языковых предпочтений и PURE.
-
-Собранные данные будут использованы для формирования вашего аккаунта на PURE. Вы всегда можете вручную отозвать свое разрешение на доступ к вышеуказанным данным, удалив приложение PURE из настроек Facebook, учетной записи Google или Apple ID, или отменив авторизацию для HUAWEI ID. Данные, предоставленные при создании аккаунта с помощью любого из этих сторонних сервисов, будут по-прежнему доступны для PURE, даже после того, как Вы отзовете разрешение на этих сторонних сервисах. Для того, чтобы лишить нас доступа к этим данным, Вам необходимо удалить Вашу учетную запись PURE. Ваши права и возможности по защите Вашей конфиденциальности можно найти в уведомлениях о конфиденциальности провайдеров.
-
-#### 11\. Как долго мы храним ваши персональные данные?
-
-Мы храним ваши Персональные данные только до тех пор, пока они необходимы для целей, для которых они были первоначально собраны, или пока мы обязаны хранить их в соответствии с действующими законами и правилами или договорными соглашениями.
-
-Если вы вручную инициируете удаление чата, в котором были обнаружены злоупотребления, попытки мошенничества или другие нарушения наших Условий, Руководства или Политики конфиденциальности, мы сохраним эти чаты на длительный срок в целях повышения безопасности наших пользователей. Это позволяет поддерживать безопасную среду, повышая нашу способность предотвращать потенциальные риски, мошенничество и нежелательную деятельность, а также защищать важную информацию, что является жизненно важным для наших законных интересов в обеспечении целостности платформы и благополучия пользователей.
-
-Если вы хотите получить дополнительную информацию по этому вопросу, пожалуйста, свяжитесь с нами по электронной почте [\[email protected\]](https://pure.app/cdn-cgi/l/email-protection) или по почте по почтовому адресу, указанному ниже:
+If you would like to get more information related to this matter please contact us by email at [\[email protected\]](https://pure.app/cdn-cgi/l/email-protection) or by mail at alternatively provided postal address below: 
 
 Online Classifieds AG  
 Baarerstrasse 8  
 6300 Zug  
 Switzerland
 
-Для пользователей из России:  
-Оператором Ваших Персональных Данных является компания «**ПиВиЭм Технолоджиес Лимитед**»   
-Адрес: 712 Тай Яу Билдинг 181 Джонстон Роуд Ванчаи Гонконг
+#### 12\. AI-driven chatbot “Goddess”
 
-#### 12\. Чатбот "Goddess" на основе ИИ
+PURE offers Users the option to engage with an AI-driven chatbot (hereinafter, “**the Goddess**”) designed for diverse interactions, ranging from small talk to deeper conversations, personalized ad suggestions, image generation, and other functionalities. For more detailed information regarding the rules, purpose, limitations, prohibited content, and behavior please refer to our [Terms and Conditions](https://pure.app/content/en/terms). Users' engagement with the Goddess implies consent to data collection and usage as outlined in this Privacy Policy.
 
-PURE предлагает Пользователям взаимодействовать с чатботом, управляемым искусственным интеллектом (далее "**Богиня**"), предназначенным для разнообразного взаимодействия, от светских бесед до более глубоких разговоров, персонализированных рекламных предложений, генерации изображений и других функций. Более подробная информация о правилах, целях, ограничениях, запрещенном контенте и поведении содержится в наших [Условиях и положениях](https://pure.app/content/ru/terms). Взаимодействие пользователей с "Богиней" подразумевает согласие на сбор и использование данных в соответствии с настоящей Политикой конфиденциальности.
+##### a. Data collection
 
-##### **a. Сбор данных**
+When Users engage with the Goddess, PURE may collect and store certain information to improve the user experience and provide personalized interactions, such as text messages exchanged between the User and the Goddess. Collected data is properly stored in our database to prevent any kind of unauthorized access, breaches, or misuse. Users can choose to delete their chat history with the Goddess on their device by either reinstalling the app or logging out and logging back into the existing account. However, Users' inputs will be saved for a certain period and when no longer required, they will be permanently deleted according to the provisions of this Privacy Policy. Under no circumstances will PURE ever share Users’ inputs, collected data, and/or generated content for marketing or advertising purposes.
 
-Когда пользователи взаимодействуют с Богиней, PURE может собирать и хранить определенную информацию для улучшения пользовательского опыта и обеспечения персонализированного взаимодействия, например, текстовые сообщения, которыми обмениваются пользователь и Богиня. Собранные данные надлежащим образом хранятся в нашей базе данных, чтобы предотвратить любой вид несанкционированного доступа, нарушения или неправильного использования. Пользователи могут удалить историю общения с Богиней на своем устройстве, либо переустановив приложение, либо выйдя из системы и снова войдя в существующую учетную запись. Тем не менее, данные Пользователей будут сохраняться в течение определенного периода времени, а когда необходимость в них отпадет, они будут окончательно удалены в соответствии с положениями настоящей Политики конфиденциальности. Ни при каких обстоятельствах PURE не будет передавать данные, собранные Пользователями, и/или созданный контент для маркетинговых или рекламных целей.
+We may utilize data collected through conversational exchanges between the User and the Goddess to refine and enhance the performance and functionality of the Goddess at certain phases of its development. This ensures that responses and generated content are personalized and tailored to meet the specific needs, expectations, and inquiries of our users. 
 
-Мы можем использовать данные, собранные в ходе общения между Пользователем и Богиней, для уточнения и улучшения производительности и функциональности Богини на определенных этапах ее развития. Это гарантирует, что ответы и генерируемый контент будут персонализированы и приспособлены для удовлетворения конкретных потребностей, ожиданий и запросов наших пользователей. 
+A limited number of PURE’s personnel may manually access, review, and utilize users' inputs to refine and enhance the Goddess, as deemed necessary for its development process, or to comply with legal obligations. The extent of this depends on the development and implementation phase of the Goddess, therefore it may not occur consistently. It's important to note that our competent personnel’s access is limited to information essential for improving the Goddess’ performance. This strict control safeguards users' privacy and confidentiality as no identifiable personal data, which Users may have provided in the process of registration or usage of PURE, is or will be employed in training the Goddess.
 
-Ограниченный круг сотрудников PURE может вручную получать доступ, просматривать и использовать данные пользователей для доработки и улучшения "Богини", если это необходимо для процесса разработки или для выполнения юридических обязательств. Объем такого доступа зависит от этапа разработки и внедрения "Богини", поэтому он может происходить не постоянно. Важно отметить, что доступ нашего компетентного персонала ограничен информацией, необходимой для улучшения работы Богини. Такой строгий контроль гарантирует неприкосновенность частной жизни и конфиденциальность пользователей, поскольку никакие идентифицируемые персональные данные, которые Пользователи могли предоставить в процессе регистрации или использования PURE, не используются и не будут использоваться в процессе обучения Богини.
+The Goddess does not have access to Users' personal data which was provided according to Article 2 of this Privacy Policy and it will never request it. Users should refrain from disclosing any sensitive personal data, confidential or proprietary information. Note that the Goddess will never request users' above-mentioned sensitive information and users are strongly advised against sharing any of such information with the Goddess, even if requested by the Goddess to do so.
 
-Богиня не имеет доступа к персональным данным Пользователей, которые были предоставлены в соответствии со статьей 2 настоящей Политики конфиденциальности, и никогда не будет запрашивать их. Пользователи должны воздерживаться от раскрытия любых важных персональных данных, конфиденциальной или служебной информации. Обратите внимание, что Богиня никогда не будет запрашивать вышеупомянутую конфиденциальную информацию пользователей, и пользователям настоятельно рекомендуется не передавать Богине любую такую информацию, даже если Богиня попросит их об этом.
+##### b. Third party providers
 
-##### **b. Подрядчики**
+We collaborate and share certain content with third-party service providers specialized in AI model development and infrastructure that enable us to deliver a seamless experience of the Goddess to Users. These service providers are subject to data privacy, security and confidentiality obligations, and their own data policies. It is important to understand that we share only essential and minimal data necessary for the performance of the Goddess. This ensures that no identifiable or any kind of personal information from Users is disclosed or shared in this process. 
 
-Мы сотрудничаем и обмениваемся определенным контентом с поставщиками услуг, специализирующимися на разработке моделей искусственного интеллекта и инфраструктуры, которые позволяют нам обеспечить бесперебойную работу Богини для Пользователей. На этих поставщиков услуг распространяются обязательства по обеспечению конфиденциальности, безопасности и секретности данных, а также их собственные политики в отношении данных. Важно понимать, что мы передаем только основные и минимальные данные, необходимые для работы "Богини". Это гарантирует, что никакая идентифицируемая или любая другая личная информация Пользователей не будет раскрыта или передана в рамках этого процесса.
+#### 13\. How do we secure your Personal Data?
 
-#### 13\. Как мы защищаем ваши Персональные Данные?
+We use appropriate technical and organizational security measures to protect Personal Data from loss, misuse, or alteration. Our employees and the service providers commissioned by us are contractually obliged to maintain confidentiality and to comply with the provisions of data protection law.
 
-Мы используем соответствующие технические и организационные меры безопасности для защиты Персональных данных от потери, неправильного использования или изменения. Наши сотрудники и привлеченные нами поставщики услуг по договору обязаны соблюдать конфиденциальность и выполнять положения законодательства о защите данных.
+However, it is not possible for us to guarantee the absolute security of Personal Data. In this context, please note that data transmitted over an open network such as the Internet or an email service is openly accessible. We cannot guarantee the confidentiality of messages or content shared over these networks. Thus, Personal Data sent to us via open networks will not be subject to the same security measures as Personal Data contained within PURE.
 
-Однако мы не можем гарантировать абсолютную безопасность персональных данных. В этой связи просим учесть, что данные, передаваемые по открытой сети, такой как Интернет или служба электронной почты, находятся в открытом доступе. Мы не можем гарантировать конфиденциальность сообщений или контента, передаваемых по этим сетям. Таким образом, к Персональным данным, отправленным нам через открытые сети, не будут применяться те же меры безопасности, что и к Персональным данным, содержащимся в PURE.
+#### 14\. Your rights
 
-#### 14\. Ваши права
+You have the following rights:
 
-У вас есть следующие права:
+* Access: You have the right to access your Personal Data. This gives you the opportunity to check what Personal Data we process about you and that we process it in accordance with the applicable data protection regulations.
+* Rectification: You have the right to have inaccurate or incomplete Personal Data rectified and to be informed of the rectification. In this case, we will inform the recipients of the data concerned of the adjustments made, unless this is impossible or involves disproportionate effort.
+* Deletion: You have the right to have your Personal Data deleted under certain circumstances.
+* Restrict processing: You have the right, under certain conditions, to request that the processing of your Personal Data be restricted.
+* Data portability: You have the right, under certain circumstances, to obtain from us, free of charge, the Personal Data you have provided to us in a readable format.
+* Lodge a complaint with a supervisory authority: You have the right to lodge a complaint with a competent supervisory authority about the way in which your Personal Data is processed.
+* Withdrawal: You have the right to withdraw your consent to the processing of your Personal Data at any time, free of charge, and without giving any reason by contacting us at the address provided in this Privacy Policy. Processing activities conducted with your consent in the past, prior to you revoking consent, do not become unlawful as a result of your revocation. 
 
-* Доступ: Вы имеете право на доступ к своим персональным данным. Это дает вам возможность проверить, какие персональные данные мы обрабатываем о вас и что мы обрабатываем их в соответствии с действующими правилами защиты данных.
-* Исправление: Вы имеете право на исправление неточных или неполных Персональных данных и на получение информации об этом исправлении. В этом случае мы проинформируем получателей соответствующих данных о внесенных коррективах, если только это невозможно или требует непропорциональных усилий.
-* Удаление: Вы имеете право на удаление своих персональных данных при определенных обстоятельствах.
-* Ограничение обработки: При определенных условиях вы имеете право потребовать ограничить обработку ваших Персональных данных.
-* Доступность данных: При определенных обстоятельствах вы имеете право бесплатно получить от нас персональные данные, которые вы нам предоставили, в удобочитаемом формате.
-* Подать жалобу в надзорный орган: Вы имеете право подать жалобу в компетентный надзорный орган по поводу того, как обрабатываются ваши персональные данные.
-* Отзыв согласия: Вы имеете право в любое время, бесплатно и без объяснения причин отозвать свое согласие на обработку ваших Персональных данных, связавшись с нами по адресу, указанному в настоящей Политике конфиденциальности. Действия по обработке, совершенные с вашего согласия в прошлом, до того как вы отозвали согласие, не становятся незаконными в результате вашего отзыва.
+Please note that the above-mentioned rights are not absolute. These rights are subject to exceptions and their applicability is largely dependent on the legal basis we rely on in each case and the various circumstances of each specific request.
 
-Обратите внимание, что вышеупомянутые права не являются абсолютными. Эти права имеют исключения, и их применимость в значительной степени зависит от правовой основы, на которую мы опираемся в каждом конкретном случае, и от различных обстоятельств каждого конкретного запроса.
-
-Если вы хотите воспользоваться каким-либо из вышеуказанных прав, пожалуйста, свяжитесь с нами по электронной почте [\[email protected\]](https://pure.app/cdn-cgi/l/email-protection) или по почте по альтернативному почтовому адресу, указанному ниже:
+If you would like to exercise any of your rights above please contact us by email at [\[email protected\]](https://pure.app/cdn-cgi/l/email-protection) or by mail at alternatively provided postal address below: 
 
 Online Classifieds AG  
-Баарерштрассе 8  
-6300 Цуг  
-Швейцария
+Baarerstrasse 8  
+6300 Zug  
+Switzerland
 
-Если вы являетесь жителем Калифорнии, законодательство Калифорнии может предоставить вам дополнительные права в отношении использования компанией вашей личной информации. Раздел 1798.83 Гражданского кодекса Калифорнии позволяет вам запросить информацию о раскрытии нами ваших персональных данных третьим лицам для целей прямого маркетинга. Кроме того, если вы являетесь жителем Калифорнии и хотите отказаться от раскрытия ваших персональных данных третьим лицам в целях прямого маркетинга, отправьте письмо по электронной почте, указанной ниже. Однако, пожалуйста, знайте, что в настоящее время мы не раскрываем ваши персональные данные третьим лицам в целях прямого маркетинга. Если вы откажетесь от разрешения на передачу ваших персональных данных, вы все равно сможете получать избранные предложения непосредственно от нас в соответствии с законодательством Калифорнии.
+If you are a California resident, California law may provide you with additional rights regarding the Company’s use of your personal information. California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal data by us to third parties for the third parties’ direct marketing purposes. Further, if you are a California resident and would like to opt out from the disclosure of your personal data to any third party for their direct marketing purposes, please send an email to the email contact listed below. However, please know we do not currently disclose your personal data to any third party for their direct marketing purposes. If you opt out from permitting your personal data to be shared, you may still receive selected offers directly from us in accordance with California law.
 
-Для пользователей из России: Оператором Ваших Персональных Данных является компания «**ПиВиЭм Технолоджиес Лимитед**»   
-Адрес: 712 Тай Яу Билдинг 181 Джонстон Роуд Ванчаи Гонконг  
- 
+#### 15\. Children's policy
 
-#### 15\. Политика в отношении детей
+Users who are not at least 18 years old or older when explicitly required by applicable state laws (referred to as “minor/s” hereafter) are not permitted to use PURE. We do not knowingly collect Personal Data from minors.
 
-Пользователям, не достигшим 18 лет или старше, если это прямо предусмотрено действующим законодательством штата (далее именуемые "несовершеннолетние"), запрещено пользоваться PURE. Мы не собираем персональные данные несовершеннолетних сознательно.
+We encourage parents and legal guardians to monitor their children's Internet usage and to help enforce our Privacy Policy by instructing their children not to use PURE and thus not to provide Personal Data on PURE. If you have reason to believe that a minor has provided Personal Data to us, please contact us immediately and we will endeavor to delete that data from our databases.
 
-Мы призываем родителей и законных опекунов следить за использованием Интернета их детьми и способствовать соблюдению нашей Политики конфиденциальности, инструктируя своих детей не использовать PURE и, соответственно, не предоставлять Персональные данные на PURE. Если у вас есть основания полагать, что несовершеннолетний предоставил нам Персональные данные, пожалуйста, немедленно свяжитесь с нами, и мы постараемся удалить эти данные из наших баз данных.
+#### 16\. Changes to this Privacy Policy
 
-#### 16\. Изменения Политики
+We may change this Privacy Policy to address changes in the legislation or on PURE. Changes to this Privacy Policy will take effect automatically after they are first posted on the Website or App.
 
-Мы можем вносить изменения в настоящую Политику конфиденциальности в связи с изменениями в законодательстве или в PURE. Изменения в настоящей Политике конфиденциальности вступают в силу автоматически после их первого размещения на Веб-сайте или в Приложении.
+#### 17\. Contact
 
-Для пользователей из России: мы не уведомляем об изменении Политики, и Вы самостоятельно уточняете условия политики в текущем режиме времени, проверяя актуальность данных.
+If you would like to exercise any of your rights or if you have feedback, comments, or questions about data protection or this Privacy Policy please contact us by email at [\[email protected\]](https://pure.app/cdn-cgi/l/email-protection) or by mail at alternatively provided postal address.
 
-#### 17\. Контакты
+We have a designated Data Protection Officer (DPO) whom you may contact at [\[email protected\]](https://pure.app/cdn-cgi/l/email-protection) for any questions or concerns related to the handling of your personal data or this privacy policy.
 
-Если вы хотите воспользоваться какими-либо своими правами или у вас есть отзывы, комментарии или вопросы о защите данных или настоящей политике конфиденциальности, свяжитесь с нами по электронной почте [\[email protected\]](https://pure.app/cdn-cgi/l/email-protection) или по почте по альтернативно указанному почтовому адресу.
-
-У нас есть назначенный сотрудник по защите данных (DPO), с которым вы можете связаться по адресу [\[email protected\]](https://pure.app/cdn-cgi/l/email-protection) по любым вопросам или проблемам, связанным с обработкой ваших персональных данных или данной политикой конфиденциальности.
-
-Кроме того, вы можете написать по адресу:
+Alternatively, you can write to:
 
 Online Classifieds AG  
-Баарерштрассе 8  
-6300 Цуг  
-Швейцария
+Baarerstrasse 8  
+6300 Zug  
+Switzerland
 
-Для пользователей из России: Оператором Ваших Персональных Данных является компания «**ПиВиЭм Технолоджиес Лимитед**»   
-Адрес: 712 Тай Яу Билдинг 181 Джонстон Роуд Ванчаи Гонконг  
- 
+**Effective date:** 30 June 2024
 
-**Effective date:** 28 March 2023
+**The previous versions:**
 
-ПОЛИТИКА КОНФИДЕНЦИАЛЬНОСТИ КОМПАНИИ PURE
-=========================================
+[19 March 2024](https://pure.app/content/ru/privacy?effective_date=2024-03-19)[01 March 2024](https://pure.app/content/ru/privacy?effective_date=2024-03-01)[13 November 2023](https://pure.app/content/ru/privacy?effective_date=2023-11-13)[15 April 2023](https://pure.app/content/ru/privacy?effective_date=2023-04-15)
+
+PURE’S PRIVACY POLICY
+=====================
 
 Скачать приложение
 
