@@ -26,6 +26,7 @@
 
 * [SHOP](https://en.j5create.com/collections/shop-all)
 
+* [End Of Summer Sale!](https://en.j5create.com/collections/end-of-summer-sale-2024)
 * [New Arrivals!](https://en.j5create.com/collections/new-arrivals)
 * [Works With Chromebook™](https://en.j5create.com/collections/wwcb)
 
@@ -111,7 +112,6 @@
 * [Works With Chromebook™](https://en.j5create.com/collections/wwcb)
 * [Work from Home](https://en.j5create.com/collections/home-office-essentials)
 * [Wormhole™](https://en.j5create.com/collections/wormhole)
-* [UltraDrive™](https://en.j5create.com/collections/ultradrive)
 * [Mightywave™](https://en.j5create.com/collections/mightywave)
 * [USB-C™ Accessories](https://en.j5create.com/collections/usb-type-c-accessories)
 * [Thunderbolt™ Accessories](https://en.j5create.com/collections/thunderbolt-accessories)
@@ -171,6 +171,7 @@ FREE US SHIPPING on all orders $75+
 [![](//en.j5create.com/cdn/shop/files/J5_Logo_r_600x.jpg?v=1613528819)](https://en.j5create.com/)
 
 * [SHOP](https://en.j5create.com/collections/shop-all)
+    * [End Of Summer Sale!](https://en.j5create.com/collections/end-of-summer-sale-2024)
     * [New Arrivals!](https://en.j5create.com/collections/new-arrivals)
     * [Works With Chromebook™](https://en.j5create.com/collections/wwcb)
     * [Display Adapters](https://en.j5create.com/collections/display-adapters)
@@ -231,7 +232,6 @@ FREE US SHIPPING on all orders $75+
         * [Works With Chromebook™](https://en.j5create.com/collections/wwcb)
         * [Work from Home](https://en.j5create.com/collections/home-office-essentials)
         * [Wormhole™](https://en.j5create.com/collections/wormhole)
-        * [UltraDrive™](https://en.j5create.com/collections/ultradrive)
         * [Mightywave™](https://en.j5create.com/collections/mightywave)
         * [USB-C™ Accessories](https://en.j5create.com/collections/usb-type-c-accessories)
         * [Thunderbolt™ Accessories](https://en.j5create.com/collections/thunderbolt-accessories)
@@ -605,3 +605,5 @@ All trademarks and trade names may be used in this document to refer to either t
 [Privacy Policy](https://en.j5create.com/pages/privacy-policy) | [Terms of Service](https://en.j5create.com/pages/terms-of-service) | [End-User License Agreement](https://en.j5create.com/pages/end-user-license-agreement) | [Legal](https://en.j5create.com/pages/legal) | [California Privacy Rights](https://en.j5create.com/pages/ccpa-compliance)
 
 [© 2024 j5create](https://en.j5create.com/) • [Powered by Shopify](https://www.shopify.com/?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore)
+
+![](https://cdn.shopify.com/s/files/1/1057/0966/files/Based_USA_Logo_Orange.png?v=1719946701)
