@@ -146,7 +146,6 @@ Search all IEEE websites
     * [Upcoming conferences](https://conferences.ieee.org/conferences_events/conferences/search?q=*&subsequent_q=&date=all&from=&to=&region=all&country=all&pos=0&sortorder=desc&sponsor=&sponsor_type=all&state=all&field_of_interest=all&sortfield=relevance?utm_source=mm_con_search&utm_medium=hp&utm_campaign=conferences-search-all)
     * [IEEE Meetings, Conferences & Events (MCE)](http://ieeemce.org/)
     * [IEEE Conference Application](https://www.ieee.org/conferences/organizers/conf-app.html)
-    * [IEEE Conference Organizer Education Program](https://www.ieee.org/conferences/organizers/conference-organizer-education.html)
     * [See benefits of authoring a conference paper](https://www.ieee.org/publications/authors/publishing-benefits/index.html)
     
     IEEE sponsors over 2,000 annual conferences and events worldwide, curating cutting-edge content for all of the technical fields of interest within IEEE. Use the IEEE conference search to find the right conference for you to share and discuss innovation and interact with your community.  
@@ -219,10 +218,10 @@ Search all IEEE websites
     [Select an option](#)
     
     * [Select an option](#)
-    * [Get an IEEE Xplore Digital Library trial for IEEE members](https://www.ieee.org/publications/subscriptions/products/mdl/free-trial.html?utm_source=mm_wdw&utm_campaign=xtrial&utm_medium=pubs&utm_term=Xplore%20trial)
+    * [Get an IEEE Xplore digital library trial for IEEE members](https://www.ieee.org/publications/subscriptions/products/mdl/free-trial.html?utm_source=mm_wdw&utm_campaign=xtrial&utm_medium=pubs&utm_term=Xplore%20trial)
     * [Review impact factors of IEEE journals](https://www.ieee.org/publications/subscriptions/journal-citations.html?utm_source=mm_wdw&utm_campaign=xtrial&utm_medium=pubs&utm_term=impact-factor)
     * [Request access to the IEEE Thesaurus and Taxonomy](https://www.ieee.org/publications/services/thesaurus-access-page.html?utm_source=mm_wdw&utm_campaign=xtrial&utm_medium=pubs&utm_term=thesaurus-taxonomy)
-    * [Access the IEEE copyright form](https://www.ieee.org/publications/rights/copyright-main.html)
+    * [Access the IEEE copyright form](#)
     * [Find article templates in Word and LaTeX formats](http://www.ieee.org/publications_standards/publications/authors/author_templates.html?utm_source=mm_wdw&utm_campaign=templates&utm_medium=pubs&utm_term=author%20templates)
     * [Get author education resources](http://www.ieee.org/publications_standards/publications/authors/author_education?utm_source=mm_wdw&utm_campaign=author_ed&utm_medium=pubs&utm_term=author%20education)
     * [Visit the IEEE Xplore digital library](http://ieeexplore.ieee.org/?utm_source=mm_wdw&utm_campaign=xplore&utm_medium=pubs&utm_term=xplore)
