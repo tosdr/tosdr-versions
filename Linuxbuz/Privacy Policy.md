@@ -2,7 +2,7 @@
 
 [Top Menu](#)
 
-July 30, 2024
+September 10, 2024
 
 * [ABOUT US](https://linuxbuz.com/about-us)
 * [PRIVACY POLICY](https://linuxbuz.com/privacy-policy)
@@ -23,12 +23,8 @@ Main Menu
 
 * [HOME](http://linuxbuz.com/)
 * [LINUX HOW TO](https://linuxbuz.com/category/linuxhowto)
-* [DevOps Tutorial](https://linuxbuz.com/devops-tutorial)
-    * [Ansible Tutorial – A Complete Guide for Beginner](https://linuxbuz.com/ansible-for-beginners)
-* [DOCKER](https://linuxbuz.com/category/docker-tutorial "Docker Tutorial")
+* [DEVOPS](https://linuxbuz.com/category/devops)
 * [RESOURCES](https://linuxbuz.com/category/best-resources)
-* [REVIEWS](https://linuxbuz.com/category/product-reviews)
-* [SECURITY](https://linuxbuz.com/category/cloud-security)
 * [ADVERTISE](https://linuxbuz.com/advertise)
 
 Search for:  
