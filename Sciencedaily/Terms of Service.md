@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**July 31, 2024**
+**September 10, 2024**
 
 * * *
 
@@ -229,16 +229,16 @@ this hour
 
 * * *
 
-* [Could Generative AI Break the Internet?](https://www.sciencedaily.com/releases/2024/07/240730134759.htm)
-* [What Shapes a Virus's Pandemic Potential?](https://www.sciencedaily.com/releases/2024/07/240730134823.htm)
-* [Stomach Pain or Bloating: Is It Cancer?](https://www.sciencedaily.com/releases/2024/07/240730140511.htm)
-* [Securing Earth's Biodiversity On the Moon](https://www.sciencedaily.com/releases/2024/07/240731141234.htm)
-* [Cannabinoid CBG Reduces Anxiety in People](https://www.sciencedaily.com/releases/2024/07/240731141232.htm)
-* [Saltwater Intrusion Prevention? Inland Flooding](https://www.sciencedaily.com/releases/2024/07/240731141130.htm)
-* [Rotation of a Nearby Star Stuns Astronomers](https://www.sciencedaily.com/releases/2024/07/240731141033.htm)
-* [Iceland's Volcanic Activity Set to Last ...](https://www.sciencedaily.com/releases/2024/07/240731140924.htm)
-* [New Wood Type Excellent for Carbon Storage](https://www.sciencedaily.com/releases/2024/07/240730202343.htm)
-* [New Super-Black Material](https://www.sciencedaily.com/releases/2024/07/240730140539.htm)
+* [Methane Emissions Are Rising Faster Than Ever](https://www.sciencedaily.com/releases/2024/09/240910121039.htm)
+* [Is It Dark Matter or Cosmic Noise?](https://www.sciencedaily.com/releases/2024/09/240906141702.htm)
+* [Giant Fanged Frog Went Unrecognized](https://www.sciencedaily.com/releases/2024/09/240909160259.htm)
+* [AI Can ID Brain Patterns for Specific Behaviors](https://www.sciencedaily.com/releases/2024/09/240909175239.htm)
+* [Formation of Super-Earths](https://www.sciencedaily.com/releases/2024/09/240909160254.htm)
+* [Old Theory for the Doldrums Sinks Away](https://www.sciencedaily.com/releases/2024/09/240909160244.htm)
+* [Artificial Muscles Propel Jumping Robotic Leg](https://www.sciencedaily.com/releases/2024/09/240909113111.htm)
+* [Near-Death Experiences, Empathy, Connection](https://www.sciencedaily.com/releases/2024/09/240909113039.htm)
+* [Extreme Weather to Strengthen Rapidly](https://www.sciencedaily.com/releases/2024/09/240909113037.htm)
+* [US Droughts, Rainy Extremes Becoming More Severe](https://www.sciencedaily.com/releases/2024/09/240906141644.htm)
 
 Trending Topics
 ---------------
@@ -249,27 +249,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Chronic Illness](https://www.sciencedaily.com/news/health_medicine/chronic_illness/)
+[Intelligence](https://www.sciencedaily.com/news/mind_brain/intelligence/)
 
-[Birth Defects](https://www.sciencedaily.com/news/health_medicine/birth_defects/)
+[Lung Cancer](https://www.sciencedaily.com/news/health_medicine/lung_cancer/)
 
-[Wounds and Healing](https://www.sciencedaily.com/news/health_medicine/wounds_and_healing/)
+[Fitness](https://www.sciencedaily.com/news/health_medicine/fitness/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Spintronics](https://www.sciencedaily.com/news/matter_energy/spintronics/)
+[Stars](https://www.sciencedaily.com/news/space_time/stars/)
 
-[Optics](https://www.sciencedaily.com/news/matter_energy/nature_of_light/)
+[Galaxies](https://www.sciencedaily.com/news/space_time/galaxies/)
 
-[Quantum Physics](https://www.sciencedaily.com/news/matter_energy/quantum_physics/)
+[Batteries](https://www.sciencedaily.com/news/matter_energy/batteries/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Water](https://www.sciencedaily.com/news/earth_climate/water/)
+[Ecology](https://www.sciencedaily.com/news/earth_climate/ecology/)
 
-[Virology](https://www.sciencedaily.com/news/plants_animals/viruses/)
+[Renewable Energy](https://www.sciencedaily.com/news/earth_climate/renewable_energy/)
 
-[Drought](https://www.sciencedaily.com/news/plants_animals/drought/)
+[Food](https://www.sciencedaily.com/news/plants_animals/food/)
 
   
 
