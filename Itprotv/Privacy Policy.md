@@ -7,7 +7,9 @@
 Site navigation
 ---------------
 
-[Business Solutions](#)
+[Meet myACI](https://www.itpro.tv/myaci-learn/)
+
+[Learning Solutions](#)
 
 [Individuals](#)
 
@@ -266,11 +268,11 @@ Centennial, CO 80112
 Business Solutions
 
 * [Corporate Training](https://www.itpro.tv/enterprises/)
-* [myACI Learn — Preview](https://www.itpro.tv/myaci-learn/)
-* [Audit Training](https://www.itpro.tv/auditpro/)
-* [Private Bootcamps](https://www.itpro.tv/live-online-training/)
-* [Channel & Reseller](https://www.itpro.tv/channel-reseller/)
-* [Government](https://www.itpro.tv/government/)
+* [Learning & Workforce Management](https://www.itpro.tv/myaci-learn/)
+* [Internal Audit Training](https://www.itpro.tv/auditpro/)
+* [Private IT Training Programs](https://www.itpro.tv/live-online-training/)
+* [Channel, Reseller & Academic](https://www.itpro.tv/channel-reseller/)
+* [Government IT training](https://www.itpro.tv/government/)
 
 Content Packages
 
