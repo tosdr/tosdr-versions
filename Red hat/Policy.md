@@ -69,7 +69,7 @@ Featured links
 
 ### Featured
 
-* [Red Hat Enterprise Linux AI](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux/ai)
+* [Red Hat Enterprise Linux AI](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux/ai) New
 * [Red Hat OpenShift AI](https://www.redhat.com/en/technologies/cloud-computing/openshift/openshift-ai)
 * [Red Hat OpenShift Virtualization](https://www.redhat.com/en/technologies/cloud-computing/openshift/virtualization)
 * [Red Hat OpenShift Service on AWS](https://www.redhat.com/en/technologies/cloud-computing/openshift/aws)
@@ -83,7 +83,9 @@ Featured links
 
 * [IT automationUnite disparate tech, teams, and environments with 1 comprehensive automation platform.](https://www.redhat.com/en/solutions/it-automation)
 * [Linux standardizationGet consistency across operating environments with an open, flexible infrastructure.](https://www.redhat.com/en/solutions/linux-standardization)
+
 * [SecurityDeliver software using trusted platforms and real-time security scanning and remediation.](https://www.redhat.com/en/solutions/trusted-software-supply-chain)
+* [VirtualizationModernize operations using a single platform for virtualized and containerized workloads.](https://www.redhat.com/en/solutions/virtualization)
 
 ### By industry
 
@@ -141,7 +143,7 @@ Featured links
 
 ### Articles
 
-* [What is InstructLab?](https://www.redhat.com/en/topics/ai/what-is-instructlab)
+* [What is InstructLab?](https://www.redhat.com/en/topics/ai/what-is-instructlab) New
 * [What are cloud services?](https://www.redhat.com/en/topics/cloud-computing/what-are-cloud-services)
 * [What is edge computing?](https://www.redhat.com/en/topics/edge-computing/what-is-edge-computing)
 * [What is hybrid cloud?](https://www.redhat.com/en/topics/cloud-computing/what-is-hybrid-cloud)
