@@ -213,7 +213,7 @@ If you have any questions or concerns regarding this policy, please contact us a
 
 Connect with us
 
-[B4D46BEA-351A-4ED1-A452-3F7DE04739C6Created with sketchtool.](https://www.facebook.com/pbs)[D2A3D41C-A479-4FD8-88E5-A040C1936DDFCreated with sketchtool.](https://twitter.com/PBS)[64D03090-1948-4B4D-A1E2-33CCBBE4FE41Created with sketchtool.](https://www.instagram.com/pbs/)
+[B4D46BEA-351A-4ED1-A452-3F7DE04739C6Created with sketchtool.](https://www.facebook.com/pbs)[](https://twitter.com/PBS)[64D03090-1948-4B4D-A1E2-33CCBBE4FE41Created with sketchtool.](https://www.instagram.com/pbs/)
 
 * Copyright © 2024 Public Broadcasting Service (PBS), all rights reserved. PBS is a 501(c)(3) not-for-profit organization.
 * [Privacy Policy](https://www.pbs.org/about/pbs-privacy-policy/)
