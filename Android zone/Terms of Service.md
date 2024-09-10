@@ -37,9 +37,6 @@ Our websites use cookies to distinguish you from other users of our website. Thi
 * [Privacy Policy](https://android-zone.ws/privacy/)
 * [Contact Us](https://android-zone.ws/contact/)
 
-[Powered by Invision Community](https://www.invisioncommunity.com/ "Invision Community")  
-[Invision Community Support](https://enxf.cc/)
-
 [×](#)
 
 * [Existing user? Sign In](https://android-zone.ws/login/)
@@ -71,6 +68,6 @@ Important Information
 
 This website uses cookies. To learn more, visit our [Privacy Policy](https://android-zone.ws/privacy/).
 
-  [I accept](https://android-zone.ws/index.php?app=core&module=system&controller=terms&do=dismiss&ref=aHR0cHM6Ly9hbmRyb2lkLXpvbmUud3Mv&csrfKey=ce3ddf15be5e268e1cc0b5f81b8960e5)
+  [I accept](https://android-zone.ws/index.php?app=core&module=system&controller=terms&do=dismiss&ref=aHR0cHM6Ly9hbmRyb2lkLXpvbmUud3Mv&csrfKey=5beae003b41fb4b5e9310bb5f0c965d3)
 
  Change theme
