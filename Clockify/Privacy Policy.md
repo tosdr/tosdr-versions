@@ -290,6 +290,8 @@ For our users in the EEA, the United Kingdom, or Switzerland, you may also conta
 
 [\[email protected\]](https://clockify.me/cdn-cgi/l/email-protection)
 
+[![Clockify](../assets/images/icons/clockify-icon-menu.svg)](https://clockify.me/ "Clockify") [![Pumble](../assets/images/icons/pumble-icon-menu.svg)](https://pumble.com/ "Pumble") [![Plaky](../assets/images/icons/plaky-icon-menu.svg)](https://plaky.com/ "Plaky")
+
 ##### Products
 
 * [Suite](https://clockify.me/suite)
@@ -297,9 +299,8 @@ For our users in the EEA, the United Kingdom, or Switzerland, you may also conta
 * [Plaky](https://clockify.me/plaky)
 * [Pumble](https://clockify.me/pumble)
 * [Clockify](https://clockify.me/clockify)
-* [Updates](https://clockify.me/updates/)
+* [Marketplace](https://marketplace.cake.com/)
 * [Try for free](https://clockify.me/try)
-* [Request a demo](https://clockify.me/empowered-team/bundle-sales/)
 
 ##### Company
 
@@ -308,13 +309,21 @@ For our users in the EEA, the United Kingdom, or Switzerland, you may also conta
 * [Press](https://clockify.me/press)
 * [Customers](https://clockify.me/customers)
 * [Affiliate](https://clockify.me/affiliate)
-* [Marketplace](https://marketplace.cake.com/)
+* [Partnerships](https://clockify.me/partnership)
+
+##### Resources
+
 * [Brand](https://brand.cake.com/)
 * [Blog](https://cake.com/empowered-team/)
+* [Updates](https://clockify.me/updates/)
+* [Tutorials](https://clockify.me/tutorials)
+* [Request a demo](https://clockify.me/empowered-team/bundle-sales/)
 
 ##### Follow us
 
-[![](/assets/images/icons/facebook.svg)](https://www.facebook.com/wwwcakecom) [![](/assets/images/icons/instagram.svg)](https://www.instagram.com/www_cake_com/) [![](/assets/images/icons/x.svg)](https://twitter.com/cake_dot_com) [![](/assets/images/icons/youtube.svg)](https://www.youtube.com/@cake_dot_com) [![](/assets/images/icons/linkedin.svg)](https://www.linkedin.com/company/cake-dot-com/)
+ [![Icon Facebook](/assets/images/icons/facebook.svg)](https://www.facebook.com/wwwcakecom)[![Icon Instagram](/assets/images/icons/instagram.svg)](https://www.instagram.com/www_cake_com/)[![Icon X](/assets/images/icons/x.svg)](https://twitter.com/cake_dot_com)[![Icon YouTube](/assets/images/icons/youtube.svg)](https://www.youtube.com/@cake_dot_com?sub_confirmation=1)[![Icon LinkedIn](/assets/images/icons/linkedin.svg)](https://www.linkedin.com/company/cake-dot-com/)
+
+[![ISO](../assets/images/icons/iso.svg)](https://clockify.me/security) [![SOC2](../assets/images/icons/soc2.svg)](https://clockify.me/security) [![GDPR](../assets/images/icons/gdpr.svg)](https://clockify.me/security)
 
 © CAKE.com Inc. All rights reserved.
 
