@@ -20,9 +20,7 @@ Menu
     * [Français (French)](https://www.realvnc.com/fr/legal/ "French")
     * [Portuguese](https://www.realvnc.com/pt/legal/ "Portuguese")
 
-[![RealVNC](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%202588%20354'%3E%3C/svg%3E)
-
-![RealVNC](https://www.realvnc.com/wp-content/uploads/2022/01/Blue-RealVNC.svg)](https://www.realvnc.com/en/)
+[![RealVNC](https://www.realvnc.com/wp-content/uploads/2022/01/Blue-RealVNC.svg)](https://www.realvnc.com/en/)
 
 * [Products](#products)
     * [RealVNC Connect
@@ -31,7 +29,7 @@ Menu
     * [RealONE
         
         Monitor, manage and support your IT systems with our powerful remote IT management solution.](https://www.realvnc.com/en/discover/realone/)
-    * [RealDeveloper
+    * [RealVNC Developer
         
         Integrate RealVNC technology into your own products to deliver remote access capabilities.](https://www.realvnc.com/en/developer/)
     * [Values](#)
@@ -75,14 +73,16 @@ Menu
         
         ![](https://www.realvnc.com/wp-content/uploads/2024/05/customer-webinar-navbar-banner.png)](https://www.realvnc.com/en/discover/webinar/whats-new-in-realvnc-connect-7-on-demand/) 
 * [Contact us](https://www.realvnc.com/en/contact-us/)
-* [Get Started](https://manage.realvnc.com/trial)
+* [Get Started](https://manage.realvnc.com/trial?create_trial=PKG0003-D)
 * [English](https://www.realvnc.com/en/legal/)
     * [German](https://www.realvnc.com/de/legal/)
     * [Spanish](https://www.realvnc.com/es/legal/)
     * [French](https://www.realvnc.com/fr/legal/)
     * [Portuguese](https://www.realvnc.com/pt/legal/)
 
-[Get started](https://manage.realvnc.com/trial)
+[Get started](https://manage.realvnc.com/trial?create_trial=PKG0003-D)
+
+[Get started](https://manage.realvnc.com/trial?create_trial=PKG0003-D)
 
 [Buy now](https://www.realvnc.com/en/connect/pricing/)
 
@@ -96,7 +96,9 @@ Menu
 
 [Buy now](https://www.realvnc.com/en/connect/pricing/)
 
-[Get Started](https://manage.realvnc.com/trial)
+[View Pricing](https://www.realvnc.com/en/connect/pricing/)
+
+[Get Started](https://manage.realvnc.com/trial?create_trial=PKG0003-D)
 
 [View Pricing](https://www.realvnc.com/en/connect/pricing/)
 
@@ -113,7 +115,7 @@ Menu
     * [RealONE
         
         Monitor, manage and support your IT systems with our powerful remote IT management solution.](https://www.realvnc.com/en/discover/realone/)
-    * [RealDeveloper
+    * [RealVNC Developer
         
         Integrate RealVNC technology into your own products to deliver remote access capabilities.](https://www.realvnc.com/en/developer/)
     * [Values](#)
@@ -157,7 +159,7 @@ Menu
         
         ![](https://www.realvnc.com/wp-content/uploads/2024/05/customer-webinar-navbar-banner.png)](https://www.realvnc.com/en/discover/webinar/whats-new-in-realvnc-connect-7-on-demand/) 
 * [Contact us](https://www.realvnc.com/en/contact-us/)
-* [Get Started](https://manage.realvnc.com/trial)
+* [Get Started](https://manage.realvnc.com/trial?create_trial=PKG0003-D)
 * [English](https://www.realvnc.com/en/legal/ "English")
     * [German](https://www.realvnc.com/de/legal/ "German")
     * [Spanish](https://www.realvnc.com/es/legal/ "Spanish")
@@ -173,7 +175,7 @@ Menu
     * [RealONE
         
         Monitor, manage and support your IT systems with our powerful remote IT management solution.](https://www.realvnc.com/en/discover/realone/)
-    * [RealDeveloper
+    * [RealVNC Developer
         
         Integrate RealVNC technology into your own products to deliver remote access capabilities.](https://www.realvnc.com/en/developer/)
     * [Values](#)
@@ -217,24 +219,20 @@ Menu
         
         ![](https://www.realvnc.com/wp-content/uploads/2024/05/customer-webinar-navbar-banner.png)](https://www.realvnc.com/en/discover/webinar/whats-new-in-realvnc-connect-7-on-demand/) 
 * [Contact us](https://www.realvnc.com/en/contact-us/)
-* [Get Started](https://manage.realvnc.com/trial)
+* [Get Started](https://manage.realvnc.com/trial?create_trial=PKG0003-D)
 * [English](https://www.realvnc.com/en/legal/ "English")
     * [German](https://www.realvnc.com/de/legal/ "German")
     * [Spanish](https://www.realvnc.com/es/legal/ "Spanish")
     * [French](https://www.realvnc.com/fr/legal/ "French")
     * [Portuguese](https://www.realvnc.com/pt/legal/ "Portuguese")
 
-[![RealVNC](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%202588%20354'%3E%3C/svg%3E)
-
-![RealVNC](https://www.realvnc.com/wp-content/uploads/2022/01/Blue-RealVNC.svg)](https://www.realvnc.com/en/)
+[![RealVNC](https://www.realvnc.com/wp-content/uploads/2022/01/Blue-RealVNC.svg)](https://www.realvnc.com/en/)
 
 * [Sign In](https://manage.realvnc.com/en/)
 
 * [Sign In](https://manage.realvnc.com/en/)
 
-[![RealVNC](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%202588%20354'%3E%3C/svg%3E)
-
-![RealVNC](https://www.realvnc.com/wp-content/uploads/2022/01/Blue-RealVNC.svg)](https://www.realvnc.com/en/)
+[![RealVNC](https://www.realvnc.com/wp-content/uploads/2022/01/Blue-RealVNC.svg)](https://www.realvnc.com/en/)
 
 * [Sign In](https://manage.realvnc.com/en/)
 
@@ -278,7 +276,7 @@ Purchases on account must be settled within 14-days. RealVNC® reserves the righ
 
 VAT, where applicable, is included in the price.
 
-Customers have the right to withdraw from the purchase within fourteen working days of the day after the date the item is delivered. This applies to all products except for software which has been downloaded. All other refunds will be given at the discretion of the Company Management.
+Customers purchasing as individuals, who are classified as consumers under consumer rights regulations, have the right to withdraw from the purchase within fourteen working days of the day after the date the item is delivered. This applies to all products except for software which has been downloaded. All other refunds will be given at the discretion of the Company Management.
 
 ### Terms and Conditions
 
@@ -308,7 +306,7 @@ If you are in the European Union or UK and your organisation requires RealVNC to
 
 We are RealVNC Limited, an English company with company number 04446945 (RealVNC).
 
-Our registered address is 50-60 Station Road, Cambridge, CB1 2JH, United Kingdom.
+Our registered address is Edinburgh House, St John’s Innovation Park, Cowley Rd, Cambridge CB4 0DS, United Kingdom.
 
 We have appointed a representative in the EU. You can contact them by post at Mishcon de Reya Representative Services (Europe) Limited, 2nd Floor, 1-2 Victoria Buildings, Haddington Road, Dublin 4, D04 XN32, Ireland, or by email at [\[email protected\]](https://www.realvnc.com/cdn-cgi/l/email-protection).
 
@@ -608,11 +606,11 @@ Secure remote access trusted by professionals
 
 ###### Get Started
 
-* [Start a trial](https://manage.realvnc.com/trial)
+* [Start a trial](https://manage.realvnc.com/trial?create_trial=PKG0003-D)
 * [Download](https://www.realvnc.com/en/connect/download/combined/)
 * [Subscriptions and pricing](https://www.realvnc.com/en/connect/pricing/)
 
-* [Start a trial](https://manage.realvnc.com/trial)
+* [Start a trial](https://manage.realvnc.com/trial?create_trial=PKG0003-D)
 * [Download](https://www.realvnc.com/en/connect/download/combined/)
 * [Subscriptions and pricing](https://www.realvnc.com/en/connect/pricing/)
 
