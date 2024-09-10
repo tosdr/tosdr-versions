@@ -806,7 +806,7 @@ _While such categorization of Personal Information is mainly based on California
 
 * ### Internet or other electronic network activity information
     
-    **Personal Information collected or disclosed:** Cookies, Usage data, Various types of data as specified in the privacy policy of the service, Email address, Gender, Date of birth, Website, Profile picture, Various types of data, Tracker, Trackers, Number of users, City, Device information, Session statistics, Latitude (of city), Longitude (of city), Browser information, User id, Page views, Device logs, Operating systems, Browsing history, Clicks, Interaction events, Scroll-to-page interactions, Scroll position, Crash data
+    **Personal Information collected or disclosed:** Cookies, Usage Data, various types of Data as specified in the privacy policy of the service, email address, gender, date of birth, website, profile picture, various types of Data, Tracker, Trackers, number of Users, city, device information, session statistics, latitude (of city), longitude (of city), browser information, User ID, page views, device logs, operating systems, browsing history, clicks, interaction events, scroll-to-page interactions, scroll position, crash data
     
     **Sensitive Personal Information collected or disclosed ℹ️:** username, password
     
@@ -839,7 +839,7 @@ _While such categorization of Personal Information is mainly based on California
     
 * ### Identifiers
     
-    **Personal Information collected or disclosed:** Email address, Cookies, Usage data, Gender, Date of birth, Website, Profile picture, Picture, Various types of data as specified in the privacy policy of the service, Trackers, Number of users, City, Device information, Session statistics, Latitude (of city), Longitude (of city), Browser information, Various types of data, User id
+    **Personal Information collected or disclosed:** email address, Cookies, Usage Data, gender, date of birth, website, profile picture, picture, various types of Data as specified in the privacy policy of the service, Trackers, number of Users, city, device information, session statistics, latitude (of city), longitude (of city), browser information, various types of Data, User ID
     
     **Sensitive Personal Information collected or disclosed ℹ️:** username, password
     
@@ -867,7 +867,7 @@ _While such categorization of Personal Information is mainly based on California
     
 * ### Biometric information
     
-    **Personal Information collected or disclosed:** Gender, Date of birth, Email address, Website, Profile picture
+    **Personal Information collected or disclosed:** gender, date of birth, email address, website, profile picture
     
     **Sensitive Personal Information collected or disclosed ℹ️:** username, password
     
@@ -885,7 +885,7 @@ _While such categorization of Personal Information is mainly based on California
     
 * ### Audio, electronic, visual, thermal, olfactory, or similar information
     
-    **Personal Information collected or disclosed:** Gender, Date of birth, Email address, Website, Profile picture, Picture
+    **Personal Information collected or disclosed:** gender, date of birth, email address, website, profile picture, picture
     
     **Sensitive Personal Information collected or disclosed ℹ️:** username, password
     
@@ -904,7 +904,7 @@ _While such categorization of Personal Information is mainly based on California
     
 * ### Geolocation data
     
-    **Personal Information collected or disclosed:** Trackers, Usage data, Number of users, City, Device information, Session statistics, Latitude (of city), Longitude (of city), Browser information
+    **Personal Information collected or disclosed:** Trackers, Usage Data, number of Users, city, device information, session statistics, latitude (of city), longitude (of city), browser information
     
     **Purposes:**
     
