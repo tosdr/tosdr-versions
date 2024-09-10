@@ -26,21 +26,21 @@
     
     [2-Day Delivery](https://www.eyebuydirect.com/fast-shipping-service "2-Day Delivery")
     
-    [Transitions® GEN S™](https://www.eyebuydirect.com/prescription-lens/transitions "Transitions® GEN S™")
+    [Eco Friendly![Eco Friendly](https://img.ebdcdn.com/cms/eco_frindly_icon_update_66c789cf2e.gif)](https://www.eyebuydirect.com/collections/sustainability "Eco Friendly")
     
-    [![Future Classic](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    [![Out West](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Future Classic](https://img.ebdcdn.com/cms/Top_Nav_320_424_fc5de74910.jpg?q=85&seo=future-classic)
+    ![Out West](https://img.ebdcdn.com/cms/Top_Nav_320_424_56bcec9687.jpg?q=85&seo=out-west)
     
-    Future Classic](https://www.eyebuydirect.com/collections/future-classic "Future Classic")[![EcoActive](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    Out West](https://www.eyebuydirect.com/collections/out-west "Out West")[![Tan France x eyebuydirect](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![EcoActive](https://img.ebdcdn.com/cms/Top_Nav_320_424_a893be740d.jpg?q=85&seo=ecoactive)
+    ![Tan France x eyebuydirect](https://img.ebdcdn.com/cms/Top_Nav_320_424_72b63d1c13.jpg?q=85&seo=tan-france-x-eyebuydirect)
     
-    EcoActive](https://www.eyebuydirect.com/collections/eco-active "EcoActive")[![New Designer Brands](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    Tan France x eyebuydirect](https://www.eyebuydirect.com/collections/tan-france "Tan France x eyebuydirect")[![Transitions® GEN S™](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![New Designer Brands](https://img.ebdcdn.com/cms/Top_Nav_320_424_updated_082add86ba.jpg?q=85&seo=new-designer-brands)
+    ![Transitions® GEN S™](https://img.ebdcdn.com/cms/Top_Nav_320_424_73b18d42b5.jpg?q=85&seo=transitions®-gen-s™)
     
-    New Designer Brands](https://www.eyebuydirect.com/campaign/new-brands "New Designer Brands")
+    Transitions® GEN S™](https://www.eyebuydirect.com/prescription-lens/transitions "Transitions® GEN S™")
     
 * Sunglasses
     
@@ -72,11 +72,11 @@
     
     ![Oakley Sunglasses](https://img.ebdcdn.com/cms/topp_nav_oak_sun_0ed9d64229.jpg?q=85&seo=oakley-sunglasses)
     
-    Oakley Sunglasses](https://www.eyebuydirect.com/brands/oakley/sunglasses "Oakley Sunglasses")[![New Designer Brands](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    Oakley Sunglasses](https://www.eyebuydirect.com/brands/oakley/sunglasses "Oakley Sunglasses")[![Eco Friendly](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![New Designer Brands](https://img.ebdcdn.com/cms/Top_Nav_320_424_updated_082add86ba.jpg?q=85&seo=new-designer-brands)
+    ![Eco Friendly](https://img.ebdcdn.com/cms/topp_nav_CSR_501391cdf0.jpg?q=85&seo=eco-friendly)
     
-    New Designer Brands](https://www.eyebuydirect.com/campaign/brands "New Designer Brands")
+    Eco Friendly](https://www.eyebuydirect.com/collections/sustainability "Eco Friendly")
     
 * Premium Brands
     
