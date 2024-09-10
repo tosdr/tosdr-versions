@@ -1,30 +1,28 @@
 Cryptos: [2.4M+](https://coinmarketcap.com/)
 
-Exchanges: [794](https://coinmarketcap.com/rankings/exchanges/)
+Exchanges: [790](https://coinmarketcap.com/rankings/exchanges/)
 
 Market Cap: 
 
-[$2.41T](https://coinmarketcap.com/charts/#market-cap)
+[$2T](https://coinmarketcap.com/charts/#market-cap)
 
-0.46%
+0.91%
 
 24h Vol: 
 
-[$79.87B](https://coinmarketcap.com/charts/#volume-24h)
+[$65.28B](https://coinmarketcap.com/charts/#volume-24h)
 
-30.34%
+7.22%
 
-Dominance: [BTC: 55.1% ETH: 16.5%](https://coinmarketcap.com/charts/#bitcoin-dominance)
+Dominance: [BTC: 56.0% ETH: 14.0%](https://coinmarketcap.com/charts/#bitcoin-dominance)
 
  ETH Gas: 
 
-4 Gwei
+4.03 Gwei
 
  Fear & Greed: 
 
-[63/100](https://coinmarketcap.com/charts/#fear-and-greed-index)
-
-[](https://coinmarketcap.com/ "Go to homepage")
+[47/100](https://coinmarketcap.com/charts/#fear-and-greed-index)
 
 [](https://coinmarketcap.com/ "Go to homepage")
 
@@ -32,7 +30,7 @@ Dominance: [BTC: 55.1% ETH: 16.5%](https://coinmarketcap.com/charts/#bitcoin-d
 
 Cryptocurrencies
 
-[Ranking](https://coinmarketcap.com/)[Categories](https://coinmarketcap.com/cryptocurrency-category/)[Global Charts](https://coinmarketcap.com/charts/)[Historical Snapshots](https://coinmarketcap.com/historical/)[Bitcoin ETFs](https://coinmarketcap.com/etf/bitcoin/)[Token unlocks](https://coinmarketcap.com/token-unlocks/)
+[Ranking](https://coinmarketcap.com/)[Categories](https://coinmarketcap.com/cryptocurrency-category/)[Global Charts](https://coinmarketcap.com/charts/)[Historical Snapshots](https://coinmarketcap.com/historical/)[ETFs](https://coinmarketcap.com/etf/)[Token unlocks](https://coinmarketcap.com/token-unlocks/)
 
 Leaderboards
 
@@ -167,7 +165,7 @@ Products
 * [Crypto API](https://coinmarketcap.com/api/)
 * [Crypto Indices](https://coinmarketcap.com/indices/)
 * [Doodles](https://coinmarketcap.com/doodles/)
-* [Sitemap](https://coinmarketcap.com/sitemap/cryptocurrencies/)
+* [Sitemap](https://coinmarketcap.com/sitemap/currencies/)
 * [Advertise](https://coinmarketcap.com/events/advertise/)
 
 Company
