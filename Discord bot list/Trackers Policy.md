@@ -12,18 +12,16 @@ This Website uses Trackers managed directly by the Owner (so-called “first-par
 The validity and expiration periods of Cookies and other similar Trackers may vary depending on the lifetime set by the Owner or the relevant provider. Some of them expire upon termination of the User’s browsing session.  
 In addition to what’s specified in the descriptions within each of the categories below, Users may find more precise and updated information regarding lifetime specification as well as any other relevant information — such as the presence of other Trackers — in the linked privacy policies of the respective third-party providers or by contacting the Owner.
 
-### Activities strictly necessary for the operation of this Website and delivery of the Service
+How this Website uses Trackers
+------------------------------
+
+### Necessary
 
 This Website uses so-called “technical” Cookies and other similar Trackers to carry out activities that are strictly necessary for the operation or delivery of the Service.
 
-#### Third-party Trackers
+#### Trackers managed by third parties
 
-* ### Tag Management
-    
-    This type of service helps the Owner to manage the tags or scripts needed on this Website in a centralized fashion.  
-    This results in the Users' Data flowing through these services, potentially resulting in the retention of this Data.
-    
-    #### Google Tag Manager (Google Ireland Limited)
+* ### Google Tag Manager (Google Ireland Limited)
     
     Google Tag Manager is a tag management service provided by Google Ireland Limited.
     
@@ -33,11 +31,7 @@ This Website uses so-called “technical” Cookies and other similar Trackers t
     
     Place of processing: Ireland – [Privacy Policy](https://business.safety.google/privacy/).
     
-* ### Spam and bots protection
-    
-    This type of service analyzes the traffic of this Website, potentially containing Users' Personal Data, with the purpose of filtering it from unwanted parts of traffic, messages and content that are recognized as spam or protecting it from malicious bots activities.
-    
-    #### Cloudflare Bot Management (Cloudflare, Inc.)
+* ### Cloudflare Bot Management (Cloudflare, Inc.)
     
     Cloudflare Bot Management is a malicious bot protection and management service provided by Cloudflare, Inc.
     
@@ -54,28 +48,13 @@ This Website uses so-called “technical” Cookies and other similar Trackers t
     * cfmrk\_cic: 3 months
     
 
-### Other activities involving the use of Trackers
-
-#### Functionality
+### Functionality
 
 This Website uses Trackers to enable basic interactions and functionalities, allowing Users to access selected features of the Service and facilitating the User's communication with the Owner.
 
-* ### Tag Management
-    
-    This type of service helps the Owner to manage the tags or scripts needed on this Website in a centralized fashion.  
-    This results in the Users' Data flowing through these services, potentially resulting in the retention of this Data.
-    
-    #### Google Tag Manager (Google Ireland Limited)
-    
-    Google Tag Manager is a tag management service provided by Google Ireland Limited.
-    
-    In order to understand Google's use of Data, consult their [partner policy](https://policies.google.com/technologies/partner-sites) and their [Business Data page](https://business.safety.google/privacy/).
-    
-    Personal Data processed: Trackers and Usage Data.
-    
-    Place of processing: Ireland – [Privacy Policy](https://business.safety.google/privacy/).
-    
-    #### Google Publisher Tag (Google Ireland Limited)
+#### Trackers managed by third parties
+
+* ### Google Publisher Tag (Google Ireland Limited)
     
     Google Publisher Tag is a service provided by Google Ireland Limited that helps to provide ads.
     
@@ -84,16 +63,13 @@ This Website uses Trackers to enable basic interactions and functionalities, all
     Place of processing: Ireland – [Privacy Policy](https://policies.google.com/privacy).
     
 
-#### Experience
+### Experience
 
 This Website uses Trackers to improve the quality of the user experience and enable interactions with external content, networks and platforms.
 
-* ### Displaying content from external platforms
-    
-    This type of service allows you to view content hosted on external platforms directly from the pages of this Website and interact with them.  
-    This type of service might still collect web traffic data for the pages where the service is installed, even when Users do not use it.
-    
-    #### Google Fonts (Google Ireland Limited)
+#### Trackers managed by third parties
+
+* ### Google Fonts (Google Ireland Limited)
     
     Google Fonts is a typeface visualization service provided by Google Ireland Limited that allows this Website to incorporate content of this kind on its pages.
     
@@ -102,15 +78,13 @@ This Website uses Trackers to improve the quality of the user experience and ena
     Place of processing: Ireland – [Privacy Policy](https://business.safety.google/privacy/).
     
 
-#### Measurement
+### Measurement
 
 This Website uses Trackers to measure traffic and analyse User behaviour to improve the Service.
 
-* ### Analytics
-    
-    The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior.
-    
-    #### Google Analytics (Universal Analytics) (Google Ireland Limited)
+#### Trackers managed by third parties
+
+* ### Google Analytics (Universal Analytics) (Google Ireland Limited)
     
     Google Analytics (Universal Analytics) is a web analysis service provided by Google Ireland Limited (“Google”). Google utilizes the Data collected to track and examine the use of this Website, to prepare reports on its activities and share them with other Google services. Google may use the Data collected to contextualize and personalize the ads of its own advertising network.
     
@@ -128,7 +102,7 @@ This Website uses Trackers to measure traffic and analyse User behaviour to impr
     * \_gat: 1 minute
     * \_gid: 1 day
     
-    #### Google Analytics 4 (Google Ireland Limited)
+* ### Google Analytics 4 (Google Ireland Limited)
     
     Google Analytics 4 is a web analysis service provided by Google Ireland Limited (“Google”). Google utilizes the Data collected to track and examine the use of this Website, to prepare reports on its activities and share them with other Google services. Google may use the Data collected to contextualize and personalize the ads of its own advertising network. In Google Analytics 4, IP addresses are used at collection time and then discarded before Data is logged in any data center or server. Users can learn more by consulting [Google’s official documentation](https://support.google.com/analytics/answer/12017362?hl=en&ref_topic=2919631).
     
@@ -144,18 +118,13 @@ This Website uses Trackers to measure traffic and analyse User behaviour to impr
     * \_ga\_\*: 2 years
     
 
-#### Marketing
+### Marketing
 
-This Website uses Trackers to deliver personalised marketing content based on User behaviour and to operate, serve and track ads.
+This Website uses Trackers to deliver ads or marketing content, and to measure their performance.
 
-* ### Advertising
-    
-    This type of service allows User Data to be utilized for advertising communication purposes. These communications are displayed in the form of banners and other advertisements on this Website, possibly based on User interests.  
-    This does not mean that all Personal Data are used for this purpose. Information and conditions of use are shown below.  
-    Some of the services listed below may use Trackers to identify Users or they may use the behavioral retargeting technique, i.e. displaying ads tailored to the User’s interests and behavior, including those detected outside this Website. For more information, please check the privacy policies of the relevant services.  
-    Services of this kind usually offer the possibility to opt out of such tracking. In addition to any opt-out feature offered by any of the services below, Users may learn more on how to generally opt out of interest-based advertising within the dedicated section "How to opt-out of interest-based advertising" in this document.
-    
-    #### Google AdSense (Google Ireland Limited)
+#### Trackers managed by third parties
+
+* ### Google AdSense (Google Ireland Limited)
     
     Google AdSense is an advertising service provided by Google Ireland Limited. This service uses the “DoubleClick” Cookie, which tracks use of this Website and User behavior concerning ads, products and services offered. Users may decide to disable all the DoubleClick Cookies by going to: [Google Ad Settings](https://adssettings.google.com/authenticated?hl=en).
     
@@ -167,7 +136,7 @@ This Website uses Trackers to deliver personalised marketing content based on Us
     
     Storage duration: up to 3 months
     
-    #### Google Ads conversion tracking (Google Ireland Limited)
+* ### Google Ads conversion tracking (Google Ireland Limited)
     
     Google Ads conversion tracking is an analytics service provided by Google Ireland Limited that connects data from the Google Ads advertising network with actions performed on this Website.
     
@@ -179,17 +148,17 @@ This Website uses Trackers to deliver personalised marketing content based on Us
     
     Storage duration: up to 3 months
     
-    #### Network N Ltd
+* ### Publisher Collective Ltd
     
     Advertising Services  
       
     Personal Data processed: Trackers; Usage Data.  
       
-    Place of processing: United Kingdom – [Privacy Policy](https://www.network-n.com/privacy-policy/) – [Opt out ("Manage Cookies") in Footer](https://discordbotlist.com/).
+    Place of processing: United Kingdom – [Privacy Policy](https://www.publisher-collective.com/privacy-notice/) – [Opt out ("Manage Cookies") in Footer](https://discordbotlist.com/).
     
     Storage duration: up to 3 months
     
-    #### Google Ad Manager (Google Ireland Limited)
+* ### Google Ad Manager (Google Ireland Limited)
     
     Google Ad Manager is an advertising service provided by Google Ireland Limited that allows the Owner to run advertising campaigns in conjunction with external advertising networks that the Owner, unless otherwise specified in this document, has no direct relationship with. This service uses the “DoubleClick” Cookie, which tracks use of this Website and User behavior concerning ads, products and services offered.  
     
@@ -203,7 +172,7 @@ This Website uses Trackers to deliver personalised marketing content based on Us
     
     Storage duration: up to 3 months
     
-    #### Google DV360 (Google Ireland Limited)
+* ### Google DV360 (Google Ireland Limited)
     
     @{replacement missing: en.privacy\_policy\_page.interpolation.service\_name} is an advertising service provided by Google Ireland Limited that allows the Owner to manage and plan advertising campaigns. This includes designing the ads, displaying them to the right targeted audience, bidding through automated decision-making tools (called "automated bidding") and measuring the campaign's performance. Users may decide to disable the ad personalization Trackers by going to: [Google Ad Settings](https://adssettings.google.com/authenticated?hl=en).
     
@@ -215,7 +184,7 @@ This Website uses Trackers to deliver personalised marketing content based on Us
     
     Storage duration: up to 3 months
     
-    #### Google Conversion linker (Google Ireland Limited)
+* ### Google Conversion linker (Google Ireland Limited)
     
     Google Conversion linker is an analytics service provided by Google Ireland Limited that connects Data from the Google advertising services with actions performed on this Website. Depending on the setup of the service, such Data might also be used for retargeting purposes.
     
@@ -227,7 +196,7 @@ This Website uses Trackers to deliver personalised marketing content based on Us
     
     Storage duration: up to 3 months
     
-    #### PubMatic (PubMatic, Inc.)
+* ### PubMatic (PubMatic, Inc.)
     
     PubMatic is an advertising service provided by PubMatic, Inc.
     
@@ -242,6 +211,7 @@ This Website uses Trackers to deliver personalised marketing content based on Us
     * DPPIX\_ON: 20 seconds
     * DPSync2: 3 months
     * DPSync3: 3 months
+    * DPSync4: 3 months
     * FPtrust: duration of the session
     * HPAUSRBK\_\_: duration of the session
     * KADUSERCOOKIE: 3 months
@@ -261,6 +231,7 @@ This Website uses Trackers to deliver personalised marketing content based on Us
     * SYNCUPPIX\_ON: 20 seconds
     * SyncRTB2: 3 months
     * SyncRTB3: 3 months
+    * SyncRTB4: 3 months
     * TEMPHPAUSRBKCNT\_\_: 1 day
     * UND: 1 hour
     * USCC: 1 day
@@ -282,7 +253,7 @@ This Website uses Trackers to deliver personalised marketing content based on Us
     * repi: 2 seconds
     * uids: 3 months
     
-    #### Media.net (Media.net Advertising FZ-LLC)
+* ### Media.net (Media.net Advertising FZ-LLC)
     
     Media.net is an advertising service provided by Media.net Advertising FZ-LLC.
     
@@ -323,7 +294,7 @@ This Website uses Trackers to deliver personalised marketing content based on Us
     * visitor-id: 1 year
     * x-msedge-clientid: indefinite
     
-    #### Amazon Advertising (Amazon Europe )
+* ### Amazon Advertising (Amazon Europe )
     
     Amazon Advertising is an advertising service provided by Amazon Europe .
     
@@ -338,7 +309,7 @@ This Website uses Trackers to deliver personalised marketing content based on Us
     * amzn-token: 7 days
     * vendor-id: 1 month
     
-    #### Permutive (Permutive Ltd.)
+* ### Permutive (Permutive Ltd.)
     
     Permutive is an advertising service provided by Permutive Ltd.
     
@@ -377,7 +348,7 @@ This Website uses Trackers to deliver personalised marketing content based on Us
     * permutive-pvc: indefinite
     * permutive-session: indefinite
     
-    #### Prebid (Prebid.org, Inc.)
+* ### Prebid (Prebid.org, Inc.)
     
     Prebid is an advertising service provided by Prebid.org, Inc.
     
@@ -390,7 +361,7 @@ This Website uses Trackers to deliver personalised marketing content based on Us
 
 Users can set or update their preferences via the relevant privacy choices panel available on this Website.
 
-With regard to any third-party Trackers, Users can manage their preferences and withdraw their consent (TO BE REMOVED) via the related opt-out link (where provided), by using the means indicated in the third party's privacy policy, or by contacting the third party.
+With regard to any third-party Trackers, Users can manage their preferences via the related opt-out link (where provided), by using the means indicated in the third party's privacy policy, or by contacting the third party.
 
 #### How to control or delete Cookies and similar technologies via your device settings
 
@@ -494,7 +465,7 @@ This privacy statement has been prepared based on provisions of multiple legisla
 
 This privacy policy relates solely to this Website, if not stated otherwise within this document.
 
-Latest update: July 18, 2024
+Latest update: August 04, 2024
 
 [iubenda](https://www.iubenda.com/en/cookie-solution "iubenda - Cookie Policy and Cookie Solution") hosts this content and only collects [the Personal Data strictly necessary](https://www.iubenda.com/privacy-policy/65675001) for it to be provided.
 
