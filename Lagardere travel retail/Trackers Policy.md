@@ -125,6 +125,8 @@ Search
 * [Join us](https://www.lagardere-tr.com/en/join-us/join-us)
 * [Contact us](https://www.lagardere-tr.com/en/contact-us)
 
+   ![](null)
+
 Cookie Policy
 =============
 
