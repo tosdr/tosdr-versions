@@ -20,6 +20,7 @@ Am Ufer des Neuenburgersees bei Yverdon-les-Bains gelegen, ist das Pro Natura Ze
     
     * [Deutsch](https://www.pronatura.ch/de/allgemeine-geschaeftsbedingungen)
     * [Français](https://www.pronatura.ch/fr/conditions-generales)
+    * [Italiano](https://www.pronatura.ch/it/condizioni-generali)
     
 
 Pronatura Service Navigation
@@ -112,6 +113,7 @@ Pronatura Service Navigation
     
     * [Deutsch](https://www.pronatura.ch/de/allgemeine-geschaeftsbedingungen)
     * [Français](https://www.pronatura.ch/fr/conditions-generales)
+    * [Italiano](https://www.pronatura.ch/it/condizioni-generali)
     
 
 [![Pronatura Logo](/themes/custom/naturally_amazing/logo.svg)](https://www.pronatura.ch/de "Startseite")
@@ -262,7 +264,7 @@ Stand 22.02.2022
 
 ### Teilen
 
-Auf X/Twitter teilen Auf Facebook teilen Link kopieren
+Auf X teilen Auf Facebook teilen Link kopieren
 
 [![Pronatura Logo](/themes/custom/naturally_amazing/logo.svg)](https://www.pronatura.ch/de "Startseite")
 
