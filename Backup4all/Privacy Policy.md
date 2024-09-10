@@ -94,10 +94,8 @@ We collect several different types of information for various purposes to provid
 While using our Website, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Below is a detailed list of the information we collect and how we use it.
 
 **Placing an order**  
-When you place an order from our Website, it is processed by one of the third party payment processors we use: Shareit/DigitalRiver, BlueSnap, Paypro Global, 2 Checkout/Avangate. They collect personally identifiable information such as your full name, company, email address, phone number, physical address, IP address, payment method and credit card information, to be able to process your payment and issue an invoice. You can consult their individual privacy policies to see how they store and process your data:
+When you place an order from our Website, it is processed by one of the third party payment processors we use: Paypro Global or 2 Checkout/Avangate. They collect personally identifiable information such as your full name, company, email address, phone number, physical address, IP address, payment method and credit card information, to be able to process your payment and issue an invoice. You can consult their individual privacy policies to see how they store and process your data:
 
-* [Shareit/DigitalRiver's Privacy Policy](https://www.digitalriver.com/privacy-policy/)
-* [BlueSnap's Privacy Policy](https://home.bluesnap.com/privacy-policy/)
 * [Paypro Global's Privacy Policy](https://payproglobal.com/users-data-protection)
 * [2 Checkout/Avangate's Privacy Policy](https://www.2checkout.com/legal/privacy/)
 * [Fastspring's Privacy Policy](https://fastspring.com/privacy/)
@@ -303,15 +301,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to override the application folders](https://www.backup4all.com/how-to-override-the-application-folders-kb.html)  
+* [How do I use the history](https://www.backup4all.com/how-do-i-use-the-history-kb.html)  
     
-* [How to back up data files from Scaleway using ...](https://www.backup4all.com/how-to-back-up-data-files-from-scaleway-using-backup4all-kb.html)  
+* [Backup music with Backup4all](https://www.backup4all.com/backup-music-with-backup4all-kb.html)  
     
-* [What to check when application does not start](https://www.backup4all.com/what-to-check-when-application-does-not-start-kb.html)  
+* [How to change the backup job name, tag or ico ...](https://www.backup4all.com/how-to-change-the-backup-job-name-group-or-icon-kb.html)  
     
-* [How to back up data files from dinCloud using ...](https://www.backup4all.com/how-to-back-up-data-files-from-dincloud-using-backup4all-kb.html)  
+* [How to configure Backup4all Monitor](https://www.backup4all.com/how-to-configure-backup4all-monitor-kb.html)  
     
-* [How to back up data files from Backblaze usin ...](https://www.backup4all.com/how-to-back-up-data-files-from-backblaze-using-backup4all-kb.html)  
+* [How to back up data files from Azure using Ba ...](https://www.backup4all.com/how-to-back-up-data-files-from-azure-using-backup4all-kb.html)  
     
 
 Choose language:
