@@ -1,8 +1,8 @@
-Menu
+[![Platinmods.com - Android & iOS MODs, Mobile Games & Apps](/styles/io_dark/images/pm_logo.png)](https://platinmods.com/)
 
- [![Platinmods.com - Android & iOS MODs, Mobile Games & Apps](/styles/io_dark/images/logo2.png)](https://platinmods.com/)[![Platinmods.com - Android & iOS MODs, Mobile Games & Apps](/styles/io_dark/images/brandt3.png)](https://platinmods.com/)
+[![Platinmods.com - Android & iOS MODs, Mobile Games & Apps](/styles/io_dark/images/pm_logo.png)](https://platinmods.com/)
 
-* [Forums](https://platinmods.com/)
+* [HOME](https://platinmods.com/)
     
     [New posts](https://platinmods.com/whats-new/posts/) [Search forums](https://platinmods.com/search/?type=post) [Advanced search](https://platinmods.com/advancedsearch/)
     
@@ -12,7 +12,7 @@ Menu
     
     [Search resources](https://platinmods.com/search/?type=resource)
     
-* [Newest Posts](https://platinmods.com/whats-new/)
+* [NEWEST POSTS](https://platinmods.com/whats-new/)
     
     [New posts](https://platinmods.com/whats-new/posts/) [New resources](https://platinmods.com/whats-new/resources/) [Latest activity](https://platinmods.com/whats-new/latest-activity)
     
@@ -20,73 +20,54 @@ Menu
     
     [What's new](https://platinmods.com/whats-new/) [Latest activity](https://platinmods.com/whats-new/latest-activity) [Authors](https://platinmods.com/latest-pmt-mods/authors/)
     
-* [Members](https://platinmods.com/members/)
+* [MEMBERS](https://platinmods.com/members/)
     
     [Current visitors](https://platinmods.com/online/)
     
 
-[Log in](https://platinmods.com/login/)
+[Log in](https://platinmods.com/login/) [Register](https://platinmods.com/register/)
 
-[Register](https://platinmods.com/register/)
-
- [](https://platinmods.com/search/ "Search")
-
-[](https://platinmods.com/search/ "Search")
+[New Threads](https://platinmods.com/whats-new/ "New Threads") [Search](https://platinmods.com/search/ "Search")
 
 ### Search
 
-Search titles only
+Search titles only _Note_
 
 By: 
 
-Search [Advanced search…](https://platinmods.com/search/)
-
-Search titles only
-
-By: 
-
-Search [Advanced…](https://platinmods.com/search/)
+Search Advanced search…
 
 * [Latest activity](https://platinmods.com/whats-new/latest-activity)
     
 * [Register](https://platinmods.com/register/)
     
 
- [![Platinmods.com - Android & iOS MODs, Mobile Games & Apps](/styles/io_dark/images/logo2.png)](https://platinmods.com/)[![Platinmods.com - Android & iOS MODs, Mobile Games & Apps](/styles/io_dark/images/brandt3.png)](https://platinmods.com/)
-
- [](https://platinmods.com/search/ "Search")
-
-[](https://platinmods.com/search/ "Search")
-
-### Search
-
-Search titles only
-
-By: 
-
-Search [Advanced search…](https://platinmods.com/search/)
-
-Search titles only
-
-By: 
-
-Search [Advanced…](https://platinmods.com/search/)
-
 Menu
 
-DMCA
-====
+[Log in](https://platinmods.com/login/)
+
+* * *
+
+[Register](https://platinmods.com/register/)
+
+* * *
 
 * [Help](https://platinmods.com/help/) 
 
 JavaScript is disabled. For a better experience, please enable JavaScript in your browser before proceeding.
+
+You are using an out of date browser. It may not display this or other websites correctly.  
+You should upgrade or use an [alternative browser](https://www.google.com/chrome/).
+
+DMCA
+====
 
 Help pages
 
 Help
 ----
 
-[DMCA](https://platinmods.com/help/dmca/) [Smilies](https://platinmods.com/help/smilies/) [BB codes](https://platinmods.com/help/bb-codes/) [Trophies](https://platinmods.com/help/trophies/) [Cookie usage](https://platinmods.com/help/cookies/) [Terms and rules](https://platinmods.com/help/terms/) [Privacy policy](https://platinmods.com/help/privacy-policy/)
+[DMCA](https://platinmods.com/help/dmca/) [Smilies](https://platinmods.com/help/smilies/) [BB codes](https://platinmods.com/help/bb-codes/) [Hide BB codes](https://platinmods.com/help/hide-bb-codes/) [Trophies](https://platinmods.com/help/trophies/) [Cookie usage](https://platinmods.com/help/cookies/) [Terms and rules](https://platinmods.com/help/terms/) [Privacy policy](https://platinmods.com/help/privacy-policy/)
 
 **platinmods.com** respects the intellectual property of others. As a forum we cannot control every post made by random people. We need your help to hold this place clean. Please consider in your report, that we don't share ANY files stored on our server!  
 Links containing files are alltogether files stored on external sources.  
@@ -122,37 +103,43 @@ This information should not be construed as legal advice, for further details on
 
 ### About us
 
-* Welcome to platinmods.com! We are proud to present you the place which let's dreams come true! Focusing on quality and trust we have spend much time to build a gaming community fitting to your wishes and needs. Actually we offer you the finest MODs and Games of the Android section and we slowly expand to the iOS section as well. But games, Android MODs & iOS MODs are not the only things we can offer you. We have tutorials, tools, a very friendly, active and solid community which will help you with any problem you have =) Your happiness is our goal. We hope you enjoy!
+* **WELCOME TO PLATINMODS.COM!**  
+    We are proud to present you the place which let's dreams come true! Focusing on quality and trust we have spend much time to build a gaming community fitting to your wishes and needs. Actually we offer you the finest MODs and Games of the Android section and we slowly expand to the iOS section as well. But games, Android MODs & iOS MODs are not the only things we can offer you. We have tutorials, tools, a very friendly, active and solid community which will help you with any problem you have =) Your happiness is our goal. We hope you enjoy!
 
 ### Quick Navigation
 
 [Home](https://platinmods.com/) [Free Android MODs, Cheats & More](https://platinmods.com/#free-android-mods-cheats-more.4) [VIP Section - Only For VIP Members!](https://platinmods.com/#vip-section-only-for-vip-members.67) [Free iOS MODs, Cheats & More](https://platinmods.com/#free-ios-mods-cheats-more.130) [Modders Ground Zero](https://platinmods.com/#modders-ground-zero.9) [DMCA](https://platinmods.com/help/dmca/)
 
+### Share this page
+
+[WhatsApp](#_xfUid-1-1726005425) [Email](#_xfUid-1-1726005425) [Share](#_xfUid-1-1726005425) [Link](#_xfUid-1-1726005425)
+
 ### Forum statistics
 
 Threads
 
-63,674
+65,364
 
 Messages
 
-2,618,704
+2,753,649
 
 Members
 
-4,278,393
+4,425,583
 
 Latest member
 
-[VaatiVidya](https://platinmods.com/members/vaatividya.4603172/)
+[ehsanEAG](https://platinmods.com/members/ehsaneag.4753925/)
 
-* [Platinmods.com - Modern Dark](https://platinmods.com/misc/style "Style chooser")
+* [Platinmods.com - Futuristic S-Dark](https://platinmods.com/misc/style "Style chooser")
 
 * [Terms and rules](https://platinmods.com/help/terms/)
 * [Privacy policy](https://platinmods.com/help/privacy-policy/)
 * [Help](https://platinmods.com/help/)
 * [Home](https://platinmods.com/)
-* [](#top "Top")
 * [RSS](https://platinmods.com/forums/-/index.rss "RSS")
+
+[Back](javascript:)
 
 [Top](#top) [Bottom](#footer)
