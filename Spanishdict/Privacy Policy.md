@@ -238,39 +238,39 @@ APPS
 
 [Android](https://play.google.com/store/apps/details?id=com.spanishdict.spanishdict&referrer=utm_source%3Dsd-footer)
 
-[![IXL learning logo](https://d1q4kshf6f0axi.cloudfront.net/img/svgs/ixl-learning.svg)](https://www.ixl.com/)
+[![IXL learning logo](https://neodarwin-prod.sdcdns.com/img/svgs/ixl-learning.svg)](https://www.ixl.com/)
 
 Making educational experiences better for everyone.
 
-[![](https://d1q4kshf6f0axi.cloudfront.net/img/svgs/rosetta-stone.svg)
+[![](https://neodarwin-prod.sdcdns.com/img/svgs/rosetta-stone.svg)
 
 Immersive learning for 25 languages](https://www.rosettastone.com/)
 
-[![](https://d1q4kshf6f0axi.cloudfront.net/img/svgs/tpt-logo.svg)
+[![](https://neodarwin-prod.sdcdns.com/img/svgs/tpt-logo.svg)
 
 Marketplace for millions of educator-created resources](https://www.teacherspayteachers.com/)
 
-[![](https://d1q4kshf6f0axi.cloudfront.net/img/svgs/emmersion.svg)
+[![](https://neodarwin-prod.sdcdns.com/img/svgs/emmersion.svg)
 
 Fast, easy, reliable language certification](https://www.emmersion.ai/)
 
-[![](https://d1q4kshf6f0axi.cloudfront.net/img/svgs/abcya.svg)
+[![](https://neodarwin-prod.sdcdns.com/img/svgs/abcya.svg)
 
 Fun educational games for kids](https://www.abcya.com/)
 
-[![](https://d1q4kshf6f0axi.cloudfront.net/img/svgs/ixl-logo-2.svg)
+[![](https://neodarwin-prod.sdcdns.com/img/svgs/ixl-logo-2.svg)
 
 Comprehensive K-12 personalized learning](https://www.ixl.com/)
 
-[![](https://d1q4kshf6f0axi.cloudfront.net/img/svgs/wyzant.svg)
+[![](https://neodarwin-prod.sdcdns.com/img/svgs/wyzant.svg)
 
 Trusted tutors for 300+ subjects](https://www.wyzant.com/)
 
-[![](https://d1q4kshf6f0axi.cloudfront.net/img/svgs/education-com.svg)
+[![](https://neodarwin-prod.sdcdns.com/img/svgs/education-com.svg)
 
 35,000+ worksheets, games, and lesson plans](https://www.education.com/)
 
-[![](https://d1q4kshf6f0axi.cloudfront.net/img/svgs/vocabulary-com.svg)
+[![](https://neodarwin-prod.sdcdns.com/img/svgs/vocabulary-com.svg)
 
 Adaptive learning for English vocabulary](https://www.vocabulary.com/)
 
