@@ -3,6 +3,7 @@
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
+* [Election USA](https://www.rts.ch/info/dossiers/2024/presidentielle-americaine/)
 
 * TV & Streaming
 * Audio
@@ -22,6 +23,7 @@ Retour
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
+* [Election USA](https://www.rts.ch/info/dossiers/2024/presidentielle-americaine/)
 
 #### S'informer
 
@@ -58,6 +60,7 @@ Retour
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
+* [Election USA](https://www.rts.ch/info/dossiers/2024/presidentielle-americaine/)
 
 * TV & Streaming
 * Audio
@@ -83,6 +86,7 @@ Retour
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
+* [Election USA](https://www.rts.ch/info/dossiers/2024/presidentielle-americaine/)
 
 #### S'informer
 
