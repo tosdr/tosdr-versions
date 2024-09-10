@@ -1,4 +1,4 @@
-![](https://www.facebook.com/tr?id=212974946266937&ev=PageView&noscript=1)     
+![](https://www.facebook.com/tr?id=212974946266937&ev=PageView&noscript=1)      
 
                 
 
@@ -11,6 +11,7 @@ Main Navigation
 
 * [Research](# "Research")
     * [![<span class="title">Methodology</span>](https://gigaom.com/wp-content/uploads/sites/1/2024/03/1866b526-methodology.svg)MethodologyLearn about GigaOm’s methodological process for its research](https://gigaom.com/kcr-methodology/ "MethodologyLearn about GigaOm’s methodological process for its research")
+    * [![<span class="title">Vendor Escalation Policy</span>](https://gigaom.com/wp-content/uploads/sites/1/2024/08/3b345aad-escalation-gear.svg)Vendor Escalation PolicyInitiate an escalation to resolve feedback](https://gigaom.com/kcr-methodology/reviews/ "Vendor Escalation PolicyInitiate an escalation to resolve feedback")
     * [![<span class="title">Research Calendar</span>](https://gigaom.com/wp-content/uploads/sites/1/2023/09/95c0d0fd-researchcalendar-icon.svg)Research CalendarIn-depth reports on this year’s topics and technology needs.](https://gigaom.com/research-calendar/ "Research CalendarIn-depth reports on this year’s topics and technology needs.")
     * [![<span class="title">Analyst Videos</span>](https://gigaom.com/wp-content/uploads/sites/1/2023/09/fb8f8722-resources-ondemandicons.svg)Analyst VideosExplore our video library of analyst appearances.](https://gigaom.com/research/product/video/ "Analyst VideosExplore our video library of analyst appearances.")
     * [![<span class="title">AI, Data & Analytics</span>](https://gigaom.com/wp-content/uploads/sites/1/2023/08/27f91a9a-researchlibrarydataanalyicons.svg)AI, Data & AnalyticsLearn key criteria for evaluating Data Infrastructure.](https://gigaom.com/research/domain/data-analytics-ai/ "AI, Data & AnalyticsLearn key criteria for evaluating Data Infrastructure.")
@@ -225,6 +226,7 @@ Stay on top of emerging trends by joining our newsletter, a monthly publication 
 #### Research
 
 * [Methodology](https://gigaom.com/kcr-methodology/)
+* [Vendor Escalation Policy](https://gigaom.com/kcr-methodology/reviews/)
 * [Research Calendar](https://gigaom.com/research-calendar/)
 * [Analyst Videos](https://gigaom.com/research/product/video/)
 * [AI, Data & Analytics](https://gigaom.com/research/domain/data-analytics-ai/)
