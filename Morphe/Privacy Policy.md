@@ -1,15 +1,3 @@
-![Close icon](//www.morphe.com/cdn/shop/t/856/assets/close-icon-dark.svg?v=112145037037702411761721320352)
-
-![](//www.morphe.com/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_400x.gif)
-
-Register to receive a notification when this item comes back in stock
-
- NOTIFY ME
-
-An error occurred, please try again later.
-
-We'll notify you as soon as we're back in stock.
-
 Map of Australia Map of Canada Map of European Union United States United Kingdom
 
      
@@ -18,11 +6,11 @@ Map of Australia Map of Canada Map of European Union United States United Kingdo
 
 Close×
 
-![icon](//www.morphe.com/cdn/shop/t/856/assets/checkmark_cart.svg?v=32248314250182966831721324849)
+![icon](//www.morphe.com/cdn/shop/t/892/assets/checkmark_cart.svg?v=32248314250182966831725897117)
 
-![icon](//www.morphe.com/cdn/shop/t/856/assets/gift_icon.svg?v=3524224353090864161721324871)
+![icon](//www.morphe.com/cdn/shop/t/892/assets/gift_icon.svg?v=3524224353090864161725897145)
 
-![](//www.morphe.com/cdn/shop/t/856/assets/shipping_icon.svg?v=127807994505907103401721324917)
+![](//www.morphe.com/cdn/shop/t/892/assets/shipping_icon.svg?v=127807994505907103401725897213)
 
    
 
@@ -30,6 +18,8 @@ Close you may also like popup
 
 Added to your bag
 =================
+
+### Product added
 
 Complete the Look
 -----------------
@@ -41,157 +31,225 @@ Privacy Policy
 
 [Skip to Content](#maincontent)
 
-#### Free shipping on US orders $35+
+#### Free Mini Bake & Set on US orders $45+
 
 #### Free shipping on US orders $35+
 
-#### Free shipping on US orders $35+
+#### BUY 2, GET 1 FREE ON ALL SOULMATTE PRODUCTS
+
+#### Free Mini Bake & Set on US orders $45+
 
 #### Free shipping on US orders $35+
 
-#### Free shipping on US orders $35+
+#### BUY 2, GET 1 FREE ON ALL SOULMATTE PRODUCTS
+
+#### Free Mini Bake & Set on US orders $45+
 
 #### Free shipping on US orders $35+
 
-#### Free shipping on US orders $35+
+#### BUY 2, GET 1 FREE ON ALL SOULMATTE PRODUCTS
+
+#### Free Mini Bake & Set on US orders $45+
 
 #### Free shipping on US orders $35+
 
-#### Free shipping on US orders $35+
+#### BUY 2, GET 1 FREE ON ALL SOULMATTE PRODUCTS
+
+#### Free Mini Bake & Set on US orders $45+
 
 #### Free shipping on US orders $35+
 
-* ![toggle mobile menu](//www.morphe.com/cdn/shop/t/856/assets/hamburger-icon-black.svg?v=37398962526372985731721320376)
-* ![Search](//www.morphe.com/cdn/shop/t/856/assets/search-icon-black.svg?v=109393770938569529511721320440)
+#### BUY 2, GET 1 FREE ON ALL SOULMATTE PRODUCTS
 
-[![Morphe logo](//www.morphe.com/cdn/shop/files/morphe_chrome_logo-new.png?v=1704369663)](https://www.morphe.com/)
+#### Free Mini Bake & Set on US orders $45+
+
+#### Free shipping on US orders $35+
+
+#### BUY 2, GET 1 FREE ON ALL SOULMATTE PRODUCTS
+
+#### Free Mini Bake & Set on US orders $45+
+
+#### Free shipping on US orders $35+
+
+#### BUY 2, GET 1 FREE ON ALL SOULMATTE PRODUCTS
+
+#### Free Mini Bake & Set on US orders $45+
+
+#### Free shipping on US orders $35+
+
+#### BUY 2, GET 1 FREE ON ALL SOULMATTE PRODUCTS
+
+#### Free Mini Bake & Set on US orders $45+
+
+#### Free shipping on US orders $35+
+
+#### BUY 2, GET 1 FREE ON ALL SOULMATTE PRODUCTS
+
+#### Free Mini Bake & Set on US orders $45+
+
+#### Free shipping on US orders $35+
+
+#### BUY 2, GET 1 FREE ON ALL SOULMATTE PRODUCTS
+
+* ![toggle mobile menu](//www.morphe.com/cdn/shop/t/892/assets/hamburger-icon-black.svg?v=37398962526372985731725897145)
+* ![Search](//www.morphe.com/cdn/shop/t/892/assets/search-icon-black.svg?v=109393770938569529511725897208)
+
+[![Morphe logo](//www.morphe.com/cdn/shop/files/morphe_chrome_logo-new_400x.png?v=1704369663)](https://www.morphe.com/)
 
 * [Login](https://www.morphe.com/account/login)
-* ![Bag](//www.morphe.com/cdn/shop/t/856/assets/cart-icon-new.svg?v=164380968832671469731721320348)
+* ![Bag](//www.morphe.com/cdn/shop/t/892/assets/cart-icon-new.svg?v=164380968832671469731725897115)
     
     Items in cart 0
     
 
-[![Morphe logo](//www.morphe.com/cdn/shop/files/morphe_chrome_logo-new.png?v=1704369663)](https://www.morphe.com/)
+[![Morphe logo](//www.morphe.com/cdn/shop/files/morphe_chrome_logo-new_400x.png?v=1704369663)](https://www.morphe.com/)
 
-* New Show submenu for New
+Main navigation
+---------------
+
+* ### New
     
-    Featured
+    Show submenu for New
     
-    [Shop All](https://www.morphe.com/collections/shop-new-arrivals) [NEW Brow Tease Mousse](https://www.morphe.com/products/brow-tease-fiber-infused-volumizing-mousse-almond) [Hot Shot Drops](https://www.morphe.com/pages/cheeks) [Huephoric Blush](https://www.morphe.com/products/huephoric-rush-3-in-1-silk-blush-pleasured) [Morphe X Ariel](https://www.morphe.com/collections/ariel-makeup-artist-makeup-brush-collection) [Lightform Foundation](https://www.morphe.com/products/lightform-extended-hydration-foundation-medium-13n)
+    #### Featured
     
-    [![How Do I Apply Blush Drops?](//www.morphe.com/cdn/shop/articles/Morphe-2024-July-Blog-Thumbail-Application-1020x580_600x.jpg?v=1720706595)
+    [Shop All](https://www.morphe.com/collections/shop-new-arrivals) [NEW Mixed Signals Shadow Sticks](https://www.morphe.com/products/mixed-signals-dual-ended-cream-liquid-shadow-stick-flirtatious-faithful) [Brow Tease Mousse](https://www.morphe.com/products/brow-tease-fiber-infused-volumizing-mousse-almond) [Hot Shot Drops](https://www.morphe.com/pages/cheeks) [Morphe X Ariel](https://www.morphe.com/collections/ariel-makeup-artist-makeup-brush-collection) [Lightform Foundation](https://www.morphe.com/products/lightform-extended-hydration-foundation-medium-13n)
     
-    How Do I Apply Blush Drops? Jul 11, 24
+    [![How To Prep & Set Your Makeup All Summer](//www.morphe.com/cdn/shop/articles/Morphe-2024-July-Blog-Thumbail-MakeupPrep-1020x580-1_600x.jpg?v=1724199599)
     
-    ![clock icon](//www.morphe.com/cdn/shop/t/856/assets/clock-icon.svg?v=42723469760392072181721320351) 4 Min. read](https://www.morphe.com/blogs/artistry-diaries/how-do-i-apply-blush-drops)[![Meet Hot Shot Blush & Bronzer Drops](//www.morphe.com/cdn/shop/articles/Morphe-2024-July-Blog-Thumbail-MeetHotShot-1020x580_baee9229-00ff-429d-a780-88bbd0f2dfb7_600x.jpg?v=1720706595)
+    #### How To Prep & Set Your Makeup All Summer
     
-    Meet Hot Shot Blush & Bronzer Drops Jul 11, 24
+    Aug 20, 24
     
-    ![clock icon](//www.morphe.com/cdn/shop/t/856/assets/clock-icon.svg?v=42723469760392072181721320351) 4 Min. read](https://www.morphe.com/blogs/artistry-diaries/meet-hot-shot-blush-bronzer-drops)
+    ![clock icon](//www.morphe.com/cdn/shop/t/892/assets/clock-icon.svg?v=42723469760392072181725897119) 4 min. read](https://www.morphe.com/blogs/artistry-diaries/how-to-prep-set-your-makeup-all-summer)[![10 Morphe Makeup Must-Haves You Need for Summer](//www.morphe.com/cdn/shop/articles/Morphe-2024-July-Blog-Thumbail-SummerProducts-1020x580_600x.jpg?v=1724185169)
     
-* Makeup Show submenu for Makeup
+    #### 10 Morphe Makeup Must-Haves You Need for Summer
     
-    Featured
+    Aug 20, 24
+    
+    ![clock icon](//www.morphe.com/cdn/shop/t/892/assets/clock-icon.svg?v=42723469760392072181725897119) 7 min. read](https://www.morphe.com/blogs/artistry-diaries/10-morphe-makeup-must-haves-you-need-for-summer)
+    
+* ### Makeup
+    
+    Show submenu for Makeup
+    
+    #### Featured
     
     [Shop All](https://www.morphe.com/collections/all-makeup) [Best Sellers](https://www.morphe.com/collections/best-sellers) [Exclusive Offers](https://www.morphe.com/collections/sale-items)
     
-    Eyes
+    #### Eyes
     
     [Eyeshadow & Palettes](https://www.morphe.com/collections/eyeshadow-palettes) [Eyeliner](https://www.morphe.com/collections/eyeliner) [Brow](https://www.morphe.com/collections/brow) [Mascara](https://www.morphe.com/collections/mascara) [Eye Primers](https://www.morphe.com/collections/eye-primer) [All Eye](https://www.morphe.com/collections/eye-makeup)
     
-    Lips
+    #### Lips
     
     [Lipstick](https://www.morphe.com/collections/lipstick) [Lip Gloss](https://www.morphe.com/collections/lip-gloss) [Lip Liner](https://www.morphe.com/collections/lip-liner) [All Lip](https://www.morphe.com/collections/all-lip)
     
-    Face
+    #### Face
     
     [Complexion](https://www.morphe.com/collections/face-complexion) [Prime & Set](https://www.morphe.com/collections/prime-set) [Cheek](https://www.morphe.com/pages/cheeks) [All Face](https://www.morphe.com/collections/face)
     
-    [![How Do I Apply Blush Drops?](//www.morphe.com/cdn/shop/articles/Morphe-2024-July-Blog-Thumbail-Application-1020x580_600x.jpg?v=1720706595)
+    [![How To Prep & Set Your Makeup All Summer](//www.morphe.com/cdn/shop/articles/Morphe-2024-July-Blog-Thumbail-MakeupPrep-1020x580-1_600x.jpg?v=1724199599)
     
-    How Do I Apply Blush Drops? Jul 11, 24
+    #### How To Prep & Set Your Makeup All Summer
     
-    ![clock icon](//www.morphe.com/cdn/shop/t/856/assets/clock-icon.svg?v=42723469760392072181721320351) 4 Min. read](https://www.morphe.com/blogs/artistry-diaries/how-do-i-apply-blush-drops)
+    Aug 20, 24
     
-* Brushes & Tools Show submenu for Brushes & Tools
+    ![clock icon](//www.morphe.com/cdn/shop/t/892/assets/clock-icon.svg?v=42723469760392072181725897119) 4 min. read](https://www.morphe.com/blogs/artistry-diaries/how-to-prep-set-your-makeup-all-summer)
     
-    Featured
+* ### Brushes & Tools
+    
+    Show submenu for Brushes & Tools
+    
+    #### Featured
     
     [Morphe Brush Guide](https://www.morphe.com/pages/the-morphe-guide-to-makeup-brushes) [Shop All](https://www.morphe.com/collections/shop-all-brushes) [Best Sellers](https://www.morphe.com/collections/best-brush-sets) [Morphe x Ariel](https://www.morphe.com/pages/morphe-x-ariel)
     
-    Makeup Brushes
+    #### Makeup Brushes
     
     [Brush Sets](https://www.morphe.com/collections/makeup-brush-sets) [Eye Brushes](https://www.morphe.com/collections/all-eye-brushes) [Face Brushes](https://www.morphe.com/collections/all-face-brushes) [Vegan Brushes](https://www.morphe.com/collections/vegan-pro-brushes)
     
-    Makeup Tools
+    #### Makeup Tools
     
     [Sponges & Applicators](https://www.morphe.com/collections/makeup-sponges-applicators) [Accessories](https://www.morphe.com/collections/makeup-tools-accessories)
     
-    [![How Do I Apply Blush Drops?](//www.morphe.com/cdn/shop/articles/Morphe-2024-July-Blog-Thumbail-Application-1020x580_600x.jpg?v=1720706595)
+    [![How To Prep & Set Your Makeup All Summer](//www.morphe.com/cdn/shop/articles/Morphe-2024-July-Blog-Thumbail-MakeupPrep-1020x580-1_600x.jpg?v=1724199599)
     
-    How Do I Apply Blush Drops? Jul 11, 24
+    #### How To Prep & Set Your Makeup All Summer
     
-    ![clock icon](//www.morphe.com/cdn/shop/t/856/assets/clock-icon.svg?v=42723469760392072181721320351) 4 Min. read](https://www.morphe.com/blogs/artistry-diaries/how-do-i-apply-blush-drops)[![Meet Hot Shot Blush & Bronzer Drops](//www.morphe.com/cdn/shop/articles/Morphe-2024-July-Blog-Thumbail-MeetHotShot-1020x580_baee9229-00ff-429d-a780-88bbd0f2dfb7_600x.jpg?v=1720706595)
+    Aug 20, 24
     
-    Meet Hot Shot Blush & Bronzer Drops Jul 11, 24
+    ![clock icon](//www.morphe.com/cdn/shop/t/892/assets/clock-icon.svg?v=42723469760392072181725897119) 4 min. read](https://www.morphe.com/blogs/artistry-diaries/how-to-prep-set-your-makeup-all-summer)[![10 Morphe Makeup Must-Haves You Need for Summer](//www.morphe.com/cdn/shop/articles/Morphe-2024-July-Blog-Thumbail-SummerProducts-1020x580_600x.jpg?v=1724185169)
     
-    ![clock icon](//www.morphe.com/cdn/shop/t/856/assets/clock-icon.svg?v=42723469760392072181721320351) 4 Min. read](https://www.morphe.com/blogs/artistry-diaries/meet-hot-shot-blush-bronzer-drops)
+    #### 10 Morphe Makeup Must-Haves You Need for Summer
     
-* Discover Show submenu for Discover
+    Aug 20, 24
     
-    Artistry
+    ![clock icon](//www.morphe.com/cdn/shop/t/892/assets/clock-icon.svg?v=42723469760392072181725897119) 7 min. read](https://www.morphe.com/blogs/artistry-diaries/10-morphe-makeup-must-haves-you-need-for-summer)
+    
+* ### Discover
+    
+    Show submenu for Discover
+    
+    #### Artistry
     
     [Artistry Diaries](https://www.morphe.com/blogs/artistry-diaries) [Find Your Shade](https://www.morphe.com/pages/makeup-quizzes) [Rewards](https://www.morphe.com/pages/morphe-rewards) [Who we are](https://www.morphe.com/pages/about-morphe)
     
-    Collabs
+    #### Collabs
     
     [Morphe X Ariel](https://www.morphe.com/pages/morphe-x-ariel) [Morphe X Meredith](https://www.morphe.com/collections/morphe-x-meredith-duxbury)
     
-    Conscious Beauty
+    #### Conscious Beauty
     
     [Vegan Makeup](https://www.morphe.com/collections/vegan) [Vegan Brushes](https://www.morphe.com/collections/vegan-pro-brushes) [Clean Beauty](https://www.morphe.com/collections/morphe2)
     
-    Trending Now
+    #### Trending Now
     
     [Festival Shop](https://www.morphe.com/pages/festival-shop) [Travel Sized/Mini](https://www.morphe.com/collections/travel-ready) [Cloud Skin](https://www.morphe.com/collections/cloud-skin)
     
-    [![How Do I Apply Blush Drops?](//www.morphe.com/cdn/shop/articles/Morphe-2024-July-Blog-Thumbail-Application-1020x580_600x.jpg?v=1720706595)
+    [![How To Prep & Set Your Makeup All Summer](//www.morphe.com/cdn/shop/articles/Morphe-2024-July-Blog-Thumbail-MakeupPrep-1020x580-1_600x.jpg?v=1724199599)
     
-    How Do I Apply Blush Drops? Jul 11, 24
+    #### How To Prep & Set Your Makeup All Summer
     
-    ![clock icon](//www.morphe.com/cdn/shop/t/856/assets/clock-icon.svg?v=42723469760392072181721320351) 4 Min. read](https://www.morphe.com/blogs/artistry-diaries/how-do-i-apply-blush-drops)
+    Aug 20, 24
     
-* Gifts & Sets Show submenu for Gifts & Sets
+    ![clock icon](//www.morphe.com/cdn/shop/t/892/assets/clock-icon.svg?v=42723469760392072181725897119) 4 min. read](https://www.morphe.com/blogs/artistry-diaries/how-to-prep-set-your-makeup-all-summer)
     
-    Featured
+* ### Gifts & Sets
+    
+    Show submenu for Gifts & Sets
+    
+    #### Featured
     
     [Shop All](https://www.morphe.com/collections/best-gifts) [Gift Sets](https://www.morphe.com/collections/kit-sets) [Exclusive Bundles](https://www.morphe.com/collections/exclusive-bundles)
     
-    Gift By Price
+    #### Gift By Price
     
     [$10 and Under](https://www.morphe.com/collections/10-and-under) [Gifts Under $20](https://www.morphe.com/collections/gift-guide-under-20) [Gifts Under $40](https://www.morphe.com/collections/gift-guide-under-40)
     
-    [![How Do I Apply Blush Drops?](//www.morphe.com/cdn/shop/articles/Morphe-2024-July-Blog-Thumbail-Application-1020x580_600x.jpg?v=1720706595)
+    [![How To Prep & Set Your Makeup All Summer](//www.morphe.com/cdn/shop/articles/Morphe-2024-July-Blog-Thumbail-MakeupPrep-1020x580-1_600x.jpg?v=1724199599)
     
-    How Do I Apply Blush Drops? Jul 11, 24
+    #### How To Prep & Set Your Makeup All Summer
     
-    ![clock icon](//www.morphe.com/cdn/shop/t/856/assets/clock-icon.svg?v=42723469760392072181721320351) 4 Min. read](https://www.morphe.com/blogs/artistry-diaries/how-do-i-apply-blush-drops)[![Meet Hot Shot Blush & Bronzer Drops](//www.morphe.com/cdn/shop/articles/Morphe-2024-July-Blog-Thumbail-MeetHotShot-1020x580_baee9229-00ff-429d-a780-88bbd0f2dfb7_600x.jpg?v=1720706595)
+    Aug 20, 24
     
-    Meet Hot Shot Blush & Bronzer Drops Jul 11, 24
+    ![clock icon](//www.morphe.com/cdn/shop/t/892/assets/clock-icon.svg?v=42723469760392072181725897119) 4 min. read](https://www.morphe.com/blogs/artistry-diaries/how-to-prep-set-your-makeup-all-summer)[![10 Morphe Makeup Must-Haves You Need for Summer](//www.morphe.com/cdn/shop/articles/Morphe-2024-July-Blog-Thumbail-SummerProducts-1020x580_600x.jpg?v=1724185169)
     
-    ![clock icon](//www.morphe.com/cdn/shop/t/856/assets/clock-icon.svg?v=42723469760392072181721320351) 4 Min. read](https://www.morphe.com/blogs/artistry-diaries/meet-hot-shot-blush-bronzer-drops)
+    #### 10 Morphe Makeup Must-Haves You Need for Summer
     
-* [Find Your Shade](https://www.morphe.com/pages/makeup-quizzes)
-* [20% Off Lipstick Day](https://www.morphe.com/collections/lipstick-day)
+    Aug 20, 24
+    
+    ![clock icon](//www.morphe.com/cdn/shop/t/892/assets/clock-icon.svg?v=42723469760392072181725897119) 7 min. read](https://www.morphe.com/blogs/artistry-diaries/10-morphe-makeup-must-haves-you-need-for-summer)
+    
+* [### Find Your Shade](https://www.morphe.com/pages/makeup-quizzes)
 
 [MORPHE2](https://www.morphe.com/collections/morphe-2)
 
 Choose your region USD$  [Stores](https://www.morphe.com/pages/store-locator) [Login](https://www.morphe.com/account/login)
 
-![Search](//www.morphe.com/cdn/shop/t/856/assets/dt-search-icon.svg?v=101893264991972337941721320365)
+![Search](//www.morphe.com/cdn/shop/t/892/assets/dt-search-icon.svg?v=101893264991972337941725897133)
 
-![Bag](//www.morphe.com/cdn/shop/t/856/assets/dt-cart-icon.svg?v=143133360700128768681721320364)
+![Bag](//www.morphe.com/cdn/shop/t/892/assets/dt-cart-icon.svg?v=143133360700128768681725897132)
 
 Items in cart 0
 
@@ -199,35 +257,40 @@ When typing into this search field, autocomplete results will appear
 
 Enter search keywords  Close Search Modal Created with Sketch. search Created with Sketch.
 
-[Close×](#)
+Close ×
 
 Region Search
 =============
 
-SEARCH COUNTRIES  search Created with Sketch. Or select from the list below:
+SEARCH COUNTRIES
+
+The following text field filters the results that follow as you type. Use Tab to access the results.
+
+ Or select from the list below:
 
 [MORPHE](https://www.morphe.com/) [MORPHE2](https://www.morphe.com/collections/morphe-2)
 
 * [Stores](https://www.morphe.com/pages/store-locator)
 * Choose your region USD$ 
 
+Main navigation
+---------------
+
 * [ ] 
     
-    New
+    ### New
     
-    
-    -----
+    #### 
     
     Featured
-    ----------
     
     [Shop All](https://www.morphe.com/collections/shop-new-arrivals)
     
-    [NEW Brow Tease Mousse](https://www.morphe.com/products/brow-tease-fiber-infused-volumizing-mousse-almond)
+    [NEW Mixed Signals Shadow Sticks](https://www.morphe.com/products/mixed-signals-dual-ended-cream-liquid-shadow-stick-flirtatious-faithful)
+    
+    [Brow Tease Mousse](https://www.morphe.com/products/brow-tease-fiber-infused-volumizing-mousse-almond)
     
     [Hot Shot Drops](https://www.morphe.com/pages/cheeks)
-    
-    [Huephoric Blush](https://www.morphe.com/products/huephoric-rush-3-in-1-silk-blush-pleasured)
     
     [Morphe X Ariel](https://www.morphe.com/collections/ariel-makeup-artist-makeup-brush-collection)
     
@@ -235,13 +298,11 @@ SEARCH COUNTRIES  search Created with Sketch. Or select from the list below:
     
 * [ ] 
     
-    Makeup
+    ### Makeup
     
-    
-    --------
+    #### 
     
     Featured
-    ----------
     
     [Shop All](https://www.morphe.com/collections/all-makeup)
     
@@ -249,8 +310,9 @@ SEARCH COUNTRIES  search Created with Sketch. Or select from the list below:
     
     [Exclusive Offers](https://www.morphe.com/collections/sale-items)
     
+    #### 
+    
     Eyes
-    ------
     
     [Eyeshadow & Palettes](https://www.morphe.com/collections/eyeshadow-palettes)
     
@@ -264,8 +326,9 @@ SEARCH COUNTRIES  search Created with Sketch. Or select from the list below:
     
     [All Eye](https://www.morphe.com/collections/eye-makeup)
     
+    #### 
+    
     Lips
-    ------
     
     [Lipstick](https://www.morphe.com/collections/lipstick)
     
@@ -275,8 +338,9 @@ SEARCH COUNTRIES  search Created with Sketch. Or select from the list below:
     
     [All Lip](https://www.morphe.com/collections/all-lip)
     
+    #### 
+    
     Face
-    ------
     
     [Complexion](https://www.morphe.com/collections/face-complexion)
     
@@ -288,13 +352,11 @@ SEARCH COUNTRIES  search Created with Sketch. Or select from the list below:
     
 * [ ] 
     
-    Brushes & Tools
+    ### Brushes & Tools
     
-    
-    -----------------
+    #### 
     
     Featured
-    ----------
     
     [Morphe Brush Guide](https://www.morphe.com/pages/the-morphe-guide-to-makeup-brushes)
     
@@ -304,8 +366,9 @@ SEARCH COUNTRIES  search Created with Sketch. Or select from the list below:
     
     [Morphe x Ariel](https://www.morphe.com/pages/morphe-x-ariel)
     
+    #### 
+    
     Makeup Brushes
-    ----------------
     
     [Brush Sets](https://www.morphe.com/collections/makeup-brush-sets)
     
@@ -315,8 +378,9 @@ SEARCH COUNTRIES  search Created with Sketch. Or select from the list below:
     
     [Vegan Brushes](https://www.morphe.com/collections/vegan-pro-brushes)
     
+    #### 
+    
     Makeup Tools
-    --------------
     
     [Sponges & Applicators](https://www.morphe.com/collections/makeup-sponges-applicators)
     
@@ -324,13 +388,11 @@ SEARCH COUNTRIES  search Created with Sketch. Or select from the list below:
     
 * [ ] 
     
-    Discover
+    ### Discover
     
-    
-    ----------
+    #### 
     
     Artistry
-    ----------
     
     [Artistry Diaries](https://www.morphe.com/blogs/artistry-diaries)
     
@@ -340,15 +402,17 @@ SEARCH COUNTRIES  search Created with Sketch. Or select from the list below:
     
     [Who we are](https://www.morphe.com/pages/about-morphe)
     
+    #### 
+    
     Collabs
-    ---------
     
     [Morphe X Ariel](https://www.morphe.com/pages/morphe-x-ariel)
     
     [Morphe X Meredith](https://www.morphe.com/collections/morphe-x-meredith-duxbury)
     
+    #### 
+    
     Conscious Beauty
-    ------------------
     
     [Vegan Makeup](https://www.morphe.com/collections/vegan)
     
@@ -356,8 +420,9 @@ SEARCH COUNTRIES  search Created with Sketch. Or select from the list below:
     
     [Clean Beauty](https://www.morphe.com/collections/morphe2)
     
+    #### 
+    
     Trending Now
-    --------------
     
     [Festival Shop](https://www.morphe.com/pages/festival-shop)
     
@@ -367,13 +432,11 @@ SEARCH COUNTRIES  search Created with Sketch. Or select from the list below:
     
 * [ ] 
     
-    Gifts & Sets
+    ### Gifts & Sets
     
-    
-    --------------
+    #### 
     
     Featured
-    ----------
     
     [Shop All](https://www.morphe.com/collections/best-gifts)
     
@@ -381,8 +444,9 @@ SEARCH COUNTRIES  search Created with Sketch. Or select from the list below:
     
     [Exclusive Bundles](https://www.morphe.com/collections/exclusive-bundles)
     
+    #### 
+    
     Gift By Price
-    ---------------
     
     [$10 and Under](https://www.morphe.com/collections/10-and-under)
     
@@ -391,17 +455,20 @@ SEARCH COUNTRIES  search Created with Sketch. Or select from the list below:
     [Gifts Under $40](https://www.morphe.com/collections/gift-guide-under-40)
     
 * [Find Your Shade](https://www.morphe.com/pages/makeup-quizzes)
-* [20% Off Lipstick Day](https://www.morphe.com/collections/lipstick-day)
 
-[![How Do I Apply Blush Drops?](//www.morphe.com/cdn/shop/articles/Morphe-2024-July-Blog-Thumbail-Application-1020x580_600x.jpg?v=1720706595)
+[![How To Prep & Set Your Makeup All Summer](//www.morphe.com/cdn/shop/articles/Morphe-2024-July-Blog-Thumbail-MakeupPrep-1020x580-1_600x.jpg?v=1724199599)
 
-How Do I Apply Blush Drops? Jul 11, 24
+#### How To Prep & Set Your Makeup All Summer
 
-![clock icon](//www.morphe.com/cdn/shop/t/856/assets/clock-icon.svg?v=42723469760392072181721320351) 4 Min. read](https://www.morphe.com/blogs/artistry-diaries/how-do-i-apply-blush-drops)[![Meet Hot Shot Blush & Bronzer Drops](//www.morphe.com/cdn/shop/articles/Morphe-2024-July-Blog-Thumbail-MeetHotShot-1020x580_baee9229-00ff-429d-a780-88bbd0f2dfb7_600x.jpg?v=1720706595)
+Aug 20, 24
 
-Meet Hot Shot Blush & Bronzer Drops Jul 11, 24
+![clock icon](//www.morphe.com/cdn/shop/t/892/assets/clock-icon.svg?v=42723469760392072181725897119) 4 min. read](https://www.morphe.com/blogs/artistry-diaries/how-to-prep-set-your-makeup-all-summer)[![10 Morphe Makeup Must-Haves You Need for Summer](//www.morphe.com/cdn/shop/articles/Morphe-2024-July-Blog-Thumbail-SummerProducts-1020x580_600x.jpg?v=1724185169)
 
-![clock icon](//www.morphe.com/cdn/shop/t/856/assets/clock-icon.svg?v=42723469760392072181721320351) 4 Min. read](https://www.morphe.com/blogs/artistry-diaries/meet-hot-shot-blush-bronzer-drops)
+#### 10 Morphe Makeup Must-Haves You Need for Summer
+
+Aug 20, 24
+
+![clock icon](//www.morphe.com/cdn/shop/t/892/assets/clock-icon.svg?v=42723469760392072181725897119) 7 min. read](https://www.morphe.com/blogs/artistry-diaries/10-morphe-makeup-must-haves-you-need-for-summer)
 
 Privacy Policy
 ==============
@@ -684,4 +751,5 @@ Follow Morphe For product launches, tips, and more.
 * [Privacy Policy](https://www.morphe.com/pages/privacy-policy)
 * [\*Promos Terms](https://www.morphe.com/pages/sale-details)
 * [Accessibility](https://www.morphe.com/pages/website-accessibility-statement)
+* Manage my Cookies
 © 2024 Morphe Brushes.
