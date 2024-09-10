@@ -80,8 +80,8 @@ California law requires us to let you know how we respond to web browser Do Not 
 * [Contact](https://www.paypal.com/us/smarthelp/contact-us)
 * [Fees](https://www.paypal.com/us/webapps/mpp/paypal-fees)
 * [Security](https://www.paypal.com/us/security)
-* [Apps](https://www.paypal.com/us/digital-wallet/mobile-apps)
 * [Shop](https://www.paypal.com/us/webapps/mpp/shopping-selection)
+* [Apps](https://www.paypal.com/us/digital-wallet/mobile-apps)
 * [Enterprise](https://www.paypal.com/us/enterprise)
 * [Partners](https://www.paypal.com/us/enterprise/industry-solutions/platforms-and-marketplaces)
 
@@ -91,7 +91,7 @@ California law requires us to let you know how we respond to web browser Do Not 
 * [Newsroom](https://newsroom.paypal-corp.com/)
 * [Jobs](https://careers.pypl.com/home/)
 * [Investor Relations](https://investor.pypl.com/home/default.aspx)
-* [Public Policy](https://publicpolicy.paypal-corp.com/)
+* [Government Relations](https://about.pypl.com/how-we-work/issues-and-advocacy/default.aspx)
 
 * * *
 
@@ -100,3 +100,5 @@ California law requires us to let you know how we respond to web browser Do Not 
 * [Privacy](https://www.paypal.com/myaccount/privacy/privacyhub)
 * [Cookies](https://www.paypal.com/myaccount/privacy/cookiePrefs)
 * [Legal](https://www.paypal.com/us/legalhub/home)
+
+PayPal is located at 2211 N 1st St. San Jose, CA 95131
