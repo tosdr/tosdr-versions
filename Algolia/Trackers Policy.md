@@ -66,7 +66,7 @@ Quick Access
 * [![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661436259/ui-library/nav/rebrand-2022/partners-blue.svg)Partners](https://partners.algolia.com/)
 * [![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661429480/ui-library/nav/rebrand-2022/support-blue.svg)Support](https://support.algolia.com/)
 
-* ![globe](https://res.cloudinary.com/hilnmyskv/image/upload/v1721643717/ui-library/nav/rebrand-2022/globe-blue.svg)EnglishFrançaisDeutsch
+* ![globe](https://res.cloudinary.com/hilnmyskv/image/upload/v1724919194/ui-library/nav/rebrand-2022/globe-blue.svg)EnglishFrançaisDeutsch
     
     Eng
     
@@ -79,17 +79,17 @@ We got you covered!
 
 [Brand guidelines](https://algolia.frontify.com/)[Download logo pack](https://www.algolia.com/algolia-logo-pack.zip)
 
-[News:
+[Algolia DevCon:
 
-Algolia named a leader in Gartner® Magic Quadrant™
+Understanding the spectrum of search. Oct 2-3, 2024, virtual.
 
-Learn more](https://www.algolia.com/lp/gartner-mq-2024/)
+Learn more](https://www.algolia.com/devcon/?utm_source=site)
 
 * [Company](https://www.algolia.com/about/)
 * [Partners](https://partners.algolia.com/)
 * [Support](https://support.algolia.com/)
 
-* ![globe](https://res.cloudinary.com/hilnmyskv/image/upload/v1721643717/ui-library/nav/rebrand-2022/globe-blue.svg)EnglishFrançaisDeutsch
+* ![globe](https://res.cloudinary.com/hilnmyskv/image/upload/v1724919194/ui-library/nav/rebrand-2022/globe-blue.svg)EnglishFrançaisDeutsch
     
     Eng
     
