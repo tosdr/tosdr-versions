@@ -54,7 +54,7 @@ Politique de confidentialité des données à caractère personnel
 ==============================================================
 
   
-Mise à jour : avril 2024  
+Mise à jour : Août 2024  
   
 1\. Objet  
   
@@ -131,6 +131,28 @@ Gestion des demandes de droit d’opposition à la prospection commerciale
 Le traitement est nécessaire afin de répondre à la demande d’exercice du droit d'opposition
 
 Jusqu’à trois ans à compter de l’exercice du droit d’opposition
+
+TC String
+
+Conservation et  
+respect du choix des  
+utilisateurs relatif  
+aux cookies et  
+traceurs et  
+transmission du  
+choix exprimé aux  
+participants du TCF
+
+Le traitement est  
+fondé sur l’intérêt  
+légitime de  
+MEDIARITHMICS  
+de conserver le choix  
+de l’utilisateur
+
+Jusqu’à 6 mois  
+à compter du  
+choix exprimé
 
 Lors de la connexion au Site, MEDIARITHMICS, agissant en tant que responsable de traitement, collecte également les données personnelles des Utilisateurs suivantes :  
 ‍  
