@@ -19,14 +19,14 @@ Menu
     * [Robert Louis Stevenson Trail](https://tane.harre.nz/tags/robert-louis-stevenson-trail/)
     * [Te Araroa](https://tane.harre.nz/tags/te-araroa/)
 
-Last Updated: July 18, 2024
+Last Updated: 05/09/2024
 
 Privacy Policy
 ==============
 
 ![Tane Harre](https://tane.harre.nz/media/website/tane.svg)
 
-[Tane Harre](https://tane.harre.nz/authors/tane/ "Tane Harre") October 12, 2018
+[Tane Harre](https://tane.harre.nz/authors/tane/ "Tane Harre") 12/10/2018
 
 **You have the right to ask for a copy of any personal information we hold about you, and to ask for it to be corrected if you think it is wrong. If you’d like to ask for a copy of your information, or to have it corrected or deleted, please contact us at privacy@harre.nz.**
 
@@ -99,7 +99,7 @@ We will take all reasonable steps to communicate any changes to this Policy and 
 
 Updated: 3 October 2023.
 
-This article was updated on October 11, 2023
+This article was updated on 11/10/2023
 
 ![Tane Harre](https://tane.harre.nz/media/website/tane.svg)
 
@@ -109,23 +109,23 @@ I am a New Zealander, living in France, who is interested in guitar, hiking, ope
 
 ### Related posts
 
-[![](https://tane.harre.nz/media/posts/676/responsive/Privacy-Security-Freedom-1080x675-xs.png)](https://tane.harre.nz/privacy-is-a-limit-on-power/)
+[![](https://tane.harre.nz/media/posts/684/responsive/freedom_of_thought-1-xs.jpg)](https://tane.harre.nz/data-privacy-allows-for-freedom-of-thought-and-speech/)
 
-#### [Privacy is a limit on power](https://tane.harre.nz/privacy-is-a-limit-on-power/)
+#### [Data privacy allows for freedom of thought and speech](https://tane.harre.nz/data-privacy-allows-for-freedom-of-thought-and-speech/)
 
-April 16, 2018
+07/05/2018
 
 [![](https://tane.harre.nz/media/posts/690/responsive/Eu-European-Union-Data-Regulation-Gdpr-3222692-xs.jpg)](https://tane.harre.nz/gdpr-privacy-policy-overview-for-new-zealand/)
 
 #### [GDPR Privacy Policy Overview for New Zealand](https://tane.harre.nz/gdpr-privacy-policy-overview-for-new-zealand/)
 
-May 24, 2018
+24/05/2018
 
-[![](https://tane.harre.nz/media/posts/688/responsive/Parliament_House_Wellington_New_Zealand_50-xs.jpg)](https://tane.harre.nz/make-a-submission-on-the-privacy-bill/)
+[![](https://tane.harre.nz/media/posts/686/responsive/The_Privacy_Shop_banner-1080x496-xs.jpg)](https://tane.harre.nz/what-is-the-cost-of-privacy-online/)
 
-#### [Make a submission on the Privacy Bill](https://tane.harre.nz/make-a-submission-on-the-privacy-bill/)
+#### [What is the cost of privacy online?](https://tane.harre.nz/what-is-the-cost-of-privacy-online/)
 
-May 16, 2016
+12/05/2018
 
 Comments
 --------
@@ -134,19 +134,19 @@ Comments
 
 * [![](https://tane.harre.nz/media/posts/692/responsive/linux-xs.png)](https://tane.harre.nz/useful-applications-on-linux/)
     
-    [Useful Applications on Linux](https://tane.harre.nz/useful-applications-on-linux/) October 9, 2023
+    [Useful Applications on Linux](https://tane.harre.nz/useful-applications-on-linux/) 09/10/2023
     
 * [![](https://tane.harre.nz/media/posts/29/responsive/HRP-xs.png)](https://tane.harre.nz/walking-the-pyrenees/)
     
-    [Walking the Pyrenees](https://tane.harre.nz/walking-the-pyrenees/) October 31, 2019
+    [Walking the Pyrenees](https://tane.harre.nz/walking-the-pyrenees/) 31/10/2019
     
 * [![](https://tane.harre.nz/media/posts/24/responsive/20180805_115725-xs.jpg)](https://tane.harre.nz/robert-louis-stevenson-trail-gr70/)
     
-    [Robert Louis Stevenson Trail - GR70](https://tane.harre.nz/robert-louis-stevenson-trail-gr70/) July 2, 2019
+    [Robert Louis Stevenson Trail - GR70](https://tane.harre.nz/robert-louis-stevenson-trail-gr70/) 02/07/2019
     
 * [![](https://tane.harre.nz/media/posts/7/responsive/Te-Araroa-The-long-pathway-xs.jpg)](https://tane.harre.nz/te-araroa-the-long-pathway/)
     
-    [Te Araroa - The long pathway](https://tane.harre.nz/te-araroa-the-long-pathway/) June 8, 2018
+    [Te Araroa - The long pathway](https://tane.harre.nz/te-araroa-the-long-pathway/) 08/06/2018
     
 
 ### Tags
@@ -173,11 +173,11 @@ Comments
 * [KDE](https://tane.harre.nz/tags/kde/) (1)
 * [Linux](https://tane.harre.nz/tags/linux/) (15)
 * [Linux Mint](https://tane.harre.nz/tags/linux-mint/) (4)
-* [New Zealand](https://tane.harre.nz/tags/new-zealand/) (33)
+* [New Zealand](https://tane.harre.nz/tags/new-zealand/) (34)
 * [Nextcloud](https://tane.harre.nz/tags/nextcloud/) (1)
 * [OMV6](https://tane.harre.nz/tags/omv6/) (1)
 * [Playgrounds](https://tane.harre.nz/tags/playgrounds/) (5)
-* [Politics](https://tane.harre.nz/tags/politics/) (40)
+* [Politics](https://tane.harre.nz/tags/politics/) (46)
 * [Printers](https://tane.harre.nz/tags/printers/) (1)
 * [Privacy](https://tane.harre.nz/tags/privacy/) (19)
 * [Pyrenees](https://tane.harre.nz/tags/pyreneese/) (16)
