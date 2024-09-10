@@ -66,7 +66,16 @@ We use the hCaptcha security service (hereinafter “hCaptcha”) on murena.io/s
 
 **How do we use data for Google account migration?**
 
-During migration, Murena Workspage will access the data of the following apps: Drive, Photos, Contacts and Calendar. These data are imported into Murena Workspace to make migration easier and will be accessible, writable, removable at any time and only by yourself from your Murena Workspace account.
+During migration, Murena Workspace will access the content of the following apps to migrate it to the matching Murena Workspace app:
+
+* Google Drive: all the files stored on your Google Drive will be imported into Murena Workspace’s Files
+* Google Photos: all the pictures and videos stored in Google Photos will be imported into Murena Workspace’s Gallery
+* Google Contacts: all the contacts saved in Google Contacts will be imported into Murena Workspace’s Contacts
+* Google Calendar: all the events from all your calendars saved/accessed in Google Calendar will be imported into Murena Workspace’s Calendar.
+
+We do not access nor store any other data related to your Google account but these elements. The content is imported into Murena Workspace at your explicit request while using the Google data migration tool available in Settings > Migration. The purpose of this tool is solely to make your migration from Google Workspace to Murena Workspace easier. Once the migration is over the rules described [here](https://doc.e.foundation/support-topics/services#can-the-ecloud-admin-access-my-data) will apply and the migrated content will be accessible, writable, removable at all times and only by yourself from your Murena Workspace account as part of data from this account. This means the data will be kept in your Murena Workspace until you delete it or you delete your account.
+
+**More information**
 
 For more information regarding the privacy policies of the following services:
 
