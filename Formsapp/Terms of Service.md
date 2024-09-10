@@ -1,11 +1,3 @@
-![](/assets/img/summer/tree.png)
-
-![discount](/assets/img/summer/65-min.png)
-
-**Summer is here, and so is the sale. Get a yearly plan with up to 65% off today! 🌴🌞**
-
-[Upgrade Now](https://forms.app/en/pricing?campaign=2024-summer&medium=header-upgrade-button)
-
 [![forms.app Logo](/assets/img/formsapp-logo-white.svg)![forms.app Logo](/assets/img/logo-home.svg)![forms.app Logo](/assets/img/f-white-logo.svg)](https://forms.app/en)
 
 * Solutions
@@ -149,6 +141,14 @@ See the technical measures we take and learn how we keep your data safe and secu
 * [Help Center](https://forms.app/en/help-center)
 * [Sign In](https://forms.app/auth/signin)[Sign Up Free](https://forms.app/auth/signup)
     
+
+* [Privacy Policy](https://forms.app/en/privacy-policy)
+* [Terms of Use](https://forms.app/en/terms)
+* [Cookie Policy](https://forms.app/en/cookie-policy)
+* [UK & EEA notice](https://forms.app/en/uk-eea-notice)
+* [GDPR](https://forms.app/en/gdpr)
+* [CCPA](https://forms.app/en/ccpa)
+* [DPA](https://forms.app/en/dpa)
 
 TERMS OF USE
 ============
@@ -431,6 +431,7 @@ English
 * [Youtube Page Logo](https://www.youtube.com/channel/UCQt7DCyRWr9190OhYKbeZzA)
 * [Tiktok Page Logo](https://www.tiktok.com/@forms.app)
 
+* [Legal](https://forms.app/en/privacy-policy)
 * [Privacy Policy](https://forms.app/en/privacy-policy)
 * [Terms of Use](https://forms.app/en/terms)
 * [GDPR](https://forms.app/en/help-center/is-formsapp-gdpr-compliant)
