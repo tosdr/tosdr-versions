@@ -379,7 +379,6 @@ Services +
 
 Get to know us +
 
-* [Team](https://skinbaron.de/en/team)
 * [Jobs](https://skinbaron.de/jobs)
 
 Pay securely with +
