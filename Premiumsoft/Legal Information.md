@@ -147,6 +147,7 @@ The BEST GUI database admin tool, MySQL administrator, MySQL GUI manager, MySQL 
     
 * * [Software Maintenance](https://www.navicat.com/store/maintenance)
     * [Upgrades](https://www.navicat.com/store/upgrade)
+    * [Non-Commercial Licenses](https://www.navicat.com/store/non-commercial)
     * [Site Licenses](https://www.navicat.com/store/site-license)
     * [Offline Orders](https://www.navicat.com/store/offline-order)
     * [Unsubscribe](https://www.navicat.com/unsubscribe)
@@ -173,6 +174,8 @@ Copyright © 1999–2024 PremiumSoft™ CyberTech Ltd. All Rights Reserved.
 
 ![](/images/LargePopUp_cancel.svg) ![](/images/LargePopUp_cancel_mobile.svg)
 
+Our site uses cookies.
+
 We use cookies to ensure its efficient functioning. Read about how we use cookies [here](https://www.navicat.com/GDPR). By continuing to use this site, you are giving us your consent to do this.
 
-![](/images/cookie_cancel_icon.png)
+Accept
