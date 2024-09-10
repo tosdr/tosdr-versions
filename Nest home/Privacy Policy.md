@@ -1,1 +1,1 @@
-[https://policies.google.com/privacy](https://policies.google.com/privacy)
+[https://policies.google.com/privacy?hl=en&gl=us](https://policies.google.com/privacy?hl=en&gl=us)
