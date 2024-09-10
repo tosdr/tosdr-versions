@@ -13,6 +13,7 @@ Menu
     * [All projects](https://nlnet.nl/project/index.html)
     * [Currently running](https://nlnet.nl/project/current.html)
     * [Thematic index](https://nlnet.nl/thema/)
+    * [Stories](https://nlnet.nl/stories/)
 * [News & events](#)
     * [News](https://nlnet.nl/news/)
     * [Events](https://nlnet.nl/events/)
@@ -117,6 +118,8 @@ NGI Zero is looking for a Regional Representative.](https://nlnet.nl/foundation/
 
 ### News
 
+[Meet the Projects Receiving NGI Taler grants](https://nlnet.nl/news/2024/20240806-Taler-selection.html) 2024-08-06
+
 [45 Projects Receiving New NGI Zero Grants](https://nlnet.nl/news/2024/20240618-Call-announcement.html) 2024-06-18
 
 [node-oidc-provider Wins BlueHats Prize for FOSS maintainers](https://nlnet.nl/news/2024/20240610-Winner-of-2nd-BlueHatsPrize.html) 2024-06-10
@@ -124,8 +127,6 @@ NGI Zero is looking for a Regional Representative.](https://nlnet.nl/foundation/
 [Apply before October 1st 2024](https://nlnet.nl/news/2024/20240601-call.html) 2024-06-01
 
 [NGI Mobifree Launches to Develop Ethical Mobile Software](https://nlnet.nl/news/2024/20240521-Mobifree-official-launch.html) 2024-05-21
-
-[Projets Libres Podcast With Lwenn Bussière](https://nlnet.nl/news/2024/20240508-podcast.html) 2024-05-08
 
 * [More news](https://nlnet.nl/news)
 
@@ -179,6 +180,7 @@ SearchSubmit search
 * [All projects](https://nlnet.nl/project/)
 * [Currently running](https://nlnet.nl/project/current.html)
 * [Thematic index](https://nlnet.nl/thema/)
+* [Stories](https://nlnet.nl/stories/)
 
 **Newsletter**
 
