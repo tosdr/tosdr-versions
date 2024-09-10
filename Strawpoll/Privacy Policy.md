@@ -220,6 +220,14 @@ Further information about handling user data, can be found in the data protectio
 
 The operators of the pages participate in the Amazon EU Partner Program. On our pages are through Amazon advertisements and links to the Amazon.de site, which allow us to earn money by reimbursing advertising costs. can earn. Amazon uses cookies to track the origin of orders. This allows Amazon to recognize that you have clicked on the partner link on our website.
 
+### Common ID Cookie
+
+This site uses cookies and similar tracking technologies such as the Common ID cookie to provide its services. Cookies are important devices for measuring advertising effectiveness and ensuring a robust online advertising industry. The Common ID cookie stores a unique user id in the first party domain and is accessible to our ad partners. This simple ID that can be utilized to improve user matching, especially for delivering ads to iOS and MacOS browsers. Users can opt out of the Common ID tracking cookie by clicking [here](#opt-out).
+
+### Advertising Privacy Settings
+
+FOR EU USERS ONLY: When you use our site, pre-selected companies may access and use certain information on your device and about your interests to serve ads or personalized content. You may revisit or change consent-choices at any time by clicking [here](#cmp).
+
 Footer
 ------
 
@@ -237,7 +245,6 @@ Choose Language
 * [Meeting Scheduler](https://strawpoll.com/meetings/)
 * [Discord Bot](https://strawpoll.bot/)
 * [Poll API](https://strawpoll.com/docs/api/)
-* [Rankings](https://strawpoll.com/rankings/)
 
 ### Support
 
