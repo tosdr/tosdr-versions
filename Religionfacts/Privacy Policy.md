@@ -27,6 +27,8 @@
 * [Glossary](https://religionfacts.com/glossary)
 
 Privacy Policy
+
+Privacy Policy
 ==============
 
 ReligionFacts.com does not collect any personally-identifiable information from visitors. No part of the site requires you to register or log in, and we don't use cookies.
@@ -49,7 +51,7 @@ Article Info
 | Last Updated | June 21, 2024 |
 | Full URL | https:://religionfacts.com/privacy |
 | Short URL | https://rlft.co/1879 |
-| MLA Citation | “Privacy Policy.” _ReligionFacts._ 3 Oct 2013, https:://religionfacts.com/privacy. Accessed 31 Jul 2024. |
+| MLA Citation | “Privacy Policy.” _ReligionFacts._ 3 Oct 2013, https:://religionfacts.com/privacy. Accessed 10 Sep 2024. |
 | Embed Link | <a href="https:://religionfacts.com/privacy">Privacy Policy</a> — ReligionFacts |
 
 © 2004-2024 [ReligionFacts](https://religionfacts.com/). All rights reserved.
