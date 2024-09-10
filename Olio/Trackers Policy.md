@@ -13,9 +13,7 @@ English
 
 New
 
-Introducing… Events on Olio! Find events happening near you on Olio, or post about events you’re organising. Read our explainer blog **[here](https://olioapp.com/en/olio-updates/introducing-olio-events/).**
-
-[Volunteer Hub sign-in](http://volunteers.olioex.com/)
+Save money and time this back to school season, and be in with a chance of winning our prize draw! Find out more [**here**](https://olioapp.com/en/olio-updates/olios-big-back-to-school-share/).
 
 [Olio | At Home](https://olioapp.com/en/)
 
@@ -39,8 +37,6 @@ Introducing… Events on Olio! Find events happening near you on Olio, or post a
     
 
 At home [At work](https://olioapp.com/business)
-
-[Volunteer Hub sign-in](http://volunteers.olioex.com/)
 
 [Get the app](https://bit.ly/3M99LdV) Get the app
 
@@ -121,7 +117,7 @@ Designed by [Wholegrain Digital](https://wholegraindigital.com/)
 Download the Olio app
 ---------------------
 
-Join 7 million Olio-ers worldwide in the fight against waste
+Join 8 million Olio-ers worldwide in the fight against waste
 
 ![](https://olioapp.com/en/wp-content/uploads/sites/1/2023/03/QR_Code_1680253497.jpg)
 
