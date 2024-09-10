@@ -112,16 +112,11 @@ Votre utilisation du Site web et des Fonctionnalités et les Conditions d’Util
 
 Les présentes Conditions d’Utilisation, la Politique sur la protection de la vie privée, les Règles d’Utilisation du Contenu, les Règles de Contributions des Utilisateurs et les Règles de Nétiquette constituent l’intégralité de l’entente intervenue entre vous et La Presse et remplacent tout autre accord antérieur intervenu entre vous et La Presse. Vous ne pouvez céder ni transférer les Conditions d’Utilisation, la Politique sur la protection de la vie privée, les Règles d’Utilisation du Contenu, les Règles de Contributions des Utilisateurs et les Règles de Nétiquette ni quelque droit et\\ou obligations aux termes de celles-ci. Le défaut par La Presse d’exercer ou de demander l’application de tout droit reconnu par les Conditions d’Utilisation, la Politique sur la protection de la vie privée, les Règles d’Utilisation du Contenu, les Règles de Contributions des Utilisateurs ou les Règles de Nétiquette ne saurait constituer une renonciation à ce droit ou à cette disposition. Dans l’éventualité où un tribunal compétent déciderait qu’une disposition des Conditions d’Utilisation, de la Politique sur la protection de la vie privée, des Règles d’Utilisation du Contenu, des Règles de Contributions des Utilisateurs ou des Règles de Nétiquette est inapplicable ou invalide, les autres dispositions des Conditions d’Utilisation, de la Politique sur la protection de la vie privée, des Règles d’Utilisation du Contenu, des Règles de Contributions des Utilisateurs ou des Règles de Nétiquette demeureraient en vigueur, le cas échéant. Les titres des articles des Conditions d’Utilisation sont utilisés pour fins de présentation seulement et n’ont aucune valeur juridique ou aucun effet contractuel.
 
-![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%271688%27%20height=%27530%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+### Ensemble, continuons de faire vivre l’info.
 
-![](/_next/image?url=https%3A%2F%2Fcms-info.lapresse.ca%2Fapp%2Fuploads%2F2023%2F02%2FBloc-gris-11.png&w=3840&q=80)
+Vos dons permettent à nos journalistes de signer aujourd’hui les articles qui façonnent demain.
 
-### Ensemble, on fait vivre l’info.
-
-Les dons de nos lecteurs nous permettent d’offrir gratuitement une information de qualité pour tous.  
-Vous aussi, soutenez notre mission.
-
-[Faire un don](https://www.lapresse.ca/contribution/?contributionType=monthly&amount=25&utm_source=sitecorpo&utm_medium=apropos_accueil&utm_campaign=ensemble_continuons&utm_content=jesoutienslapresse&userInfo=true)
+Je soutiens La Presse
 
 ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2760%27%20height=%2760%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
