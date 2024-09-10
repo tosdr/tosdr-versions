@@ -74,11 +74,11 @@ We may update our Privacy Policy from time to time. Thus, we advise you to revie
 Contact Us
 ----------
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us (info@getrecall.ai).
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us (support@getrecall.ai).
 
 ![Recall logo](/svgs/logo.svg)
 
-[info@getrecall.ai](mailto:info@getrecall.ai)[Privacy Policy](https://www.recall.wiki/privacy-policy)All rights reserved
+[support@getrecall.ai](mailto:support@getrecall.ai)[Privacy Policy](https://www.recall.wiki/privacy-policy)All rights reserved
 
 Product
 
@@ -86,10 +86,10 @@ Product
 
 Feedback
 
-[FAQ](https://www.recall.wiki/faq)[Roadmap↗](https://recall.canny.io/)[Feature Request↗](https://recall.canny.io/feature-requests)
+[FAQ](https://www.recall.wiki/faq)[Roadmap↗](https://feedback.getrecall.ai/)[Feature Request↗](https://feedback.getrecall.ai/feature-requests)[Change Log↗](https://feedback.getrecall.ai/changelog)
 
 External Links
 
-[![Discord Logo](/svgs/discord.svg)](https://discord.gg/KDgvbcNpt9)[![Linkedin Logo](/svgs/linkedin.svg)](https://www.linkedin.com/company/getrecall-ai/)[![Twitter Logo](/svgs/twitter.svg)](https://twitter.com/recall_wiki)
+[![Discord Logo](/svgs/discord.svg)](https://discord.gg/KDgvbcNpt9)[![Linkedin Logo](/svgs/linkedin.svg)](https://www.linkedin.com/company/getrecall-ai/)[![Twitter Logo](/svgs/twitter.svg)](https://twitter.com/getRecallAI)
 
 [![Recall - Product Hunt reviews](/svgs/product-hunt-reviews.svg)](https://www.producthunt.com/products/recall-6/reviews?utm_source=badge-product_rating&utm_medium=badge&utm_souce=badge-recall-6)
