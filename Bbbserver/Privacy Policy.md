@@ -4,7 +4,7 @@
         * [](https://bbbserver.eu/data-privacy "gb")
 * [Für Bildungseinrichtungen](https://bbbserver.de/fuer-bildungseinrichtungen "Für Bildungseinrichtungen")
 * [Für Unternehmen](https://bbbserver.de/fuer-unternehmen "Für Unternehmen")
-* [Für Großkunden](https://bbbserver.de/fuer-grosskunden "Für Großkunden")
+* [Für Behörden](https://bbbserver.de/fuer-behoerden "Für Behörden")
 * [Preise](https://bbbserver.de/preise "Preise")
 * [Login](https://app.bbbserver.de/ "Login")
 * [Kostenlos testen](https://app.bbbserver.de/registration "Kostenlos testen")
