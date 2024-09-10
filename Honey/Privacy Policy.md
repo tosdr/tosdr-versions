@@ -2,10 +2,7 @@
 
 [](https://www.joinhoney.com/)
 
-* Shop
-    
 * [Droplist](https://www.joinhoney.com/features/droplist)
-* [Honey Gold](https://www.joinhoney.com/features/honeygold)
 * [Earn Gift Cards](https://www.joinhoney.com/invite)
 
 JoinLog in
@@ -28,9 +25,7 @@ How we use cookies and similar technologies
 
 Your choices for managing your data
 
-Additional rights regarding your data
-
-Data Transfers from the EU
+Notice of Financial Incentive
 
 Minors
 
@@ -43,7 +38,7 @@ PayPal Honey Privacy Statement
 
 Introducing the Privacy Statement
 
-This privacy statement (“Privacy Statement”) explains how Honey Science LLC (“PayPal Honey” or “we”) collects and processes information from members and users of the website, software applications, and other online services we provide (collectively “PayPal Honey's products”). PayPal Honey's products include, but are not limited to, the PayPal Honey extension for web browsers (the “Extension”), the PayPal Honey mobile application (the “Mobile App”), and the website located at www.joinhoney.com (the “Website”), collectively, (the “Services”). Honey Science LLC is a subsidiary of PayPal, Inc. (“PayPal”).  
+This privacy statement (“Privacy Statement”) explains how PayPal, Inc. (“PayPal Honey” or “we”) collects and processes information from members and users of the website, software applications, and other online services we provide (collectively “PayPal Honey's products”). PayPal Honey's products include, but are not limited to, the PayPal Honey extension for web browsers (the “Extension”), the PayPal Honey mobile application (the “Mobile App”), and the website located at www.joinhoney.com (the “Website”), collectively, (the “Services”).  
   
 To the extent that PayPal Honey has links to other websites (like retailers), please note that we do not own, operate, or control them, and they have their own controlling privacy policies that you should review.
 
@@ -57,7 +52,7 @@ During the registration process we may collect your name, email address, IP addr
   
 We may also collect any other information you provide when you communicate with PayPal Honey through email or other means.  
   
-If you choose to link a social media profile (like Facebook) at sign-in, PayPal Honey will store this information for login purposes. Linking your social media profile grants PayPal Honey access to the profile, but only to the extent allowed by your permission settings, that platform's terms of service, and this Privacy Statement. We do not track your social media activity or post anything on your behalf.  
+If you choose to link a social media profile (like Facebook) at sign-in, PayPal Honey will store this information for login purposes. Linking your social media profile grants PayPal Honey access to the profile, but only to the extent allowed by your permission settings, that social media platform's terms of service, and this Privacy Statement. We do not track your social media activity or post anything on your behalf.  
   
 _PayPal Honey Payment Information._  
   
@@ -85,7 +80,7 @@ To understand how you engage with our Services, we use common digital tools that
 
 _Shopping and Usage Data._  
   
-On retail sites, PayPal Honey collects the name of the retailer, page views, and in some cases, product information that allows us to track price changes and update our product catalog. We may also collect information regarding your purchases on a retail site while using PayPal Honey (for example, the transaction value, and the fact that an order was completed or returned) for purposes including internal analytics, commission collection, and managing Rewards. The information enables us to improve our products and gives us insights about coupons, deals, pricing, and availability of retail items, which we can offer to the rest of the PayPal Honey community. We may also use this information to understand your shopping history, merchant and shopping preferences to provide you with a more tailored, relevant experience or show sponsored product offers that may interest you when you use the Services.  
+On retail sites, PayPal Honey collects the name of the retailer, page views, and in some cases, product information that allows us to track price changes and update our product catalog. We may also collect information regarding your purchases on a retail site while using PayPal Honey (for example, the transaction value, and the fact that an order was completed or returned) for purposes including internal analytics, commission collection, and managing Rewards. The information enables us to improve our products and gives us insights about coupons, deals, pricing, and availability of retail items, which we can offer to the rest of the PayPal Honey community. We may also use this information to understand your shopping history, merchant and shopping preferences to provide you with a more tailored, relevant experience or show sponsored product offers that may interest you when you use the Services or you use the PayPal or Venmo services.  
   
 When you are on a retailer's site that offers the Services, PayPal Honey will collect information about that site that lets us know which coupons and promos to find for you.  
   
@@ -112,23 +107,23 @@ Where do we obtain your data
 
 We may obtain the above categories of personal information from the following different sources:
 
-* from you, including from your interactions with us and use of the Services
-* our Parent Company, PayPal
+* from you, including from your interactions with us and use of the Service, as well as when you use the PayPal or Venmo services
 * Third parties, including Service Providers, Retailers, and Operating Systems
 * Connected Accounts: accounts you agree to link to PayPal Honey, such as social network accounts.
 
 Why we collect your data
 
-In addition the uses described above, we also collect your information for a variety of reasons, including to provide our Services as well as for the following reasons.
+In addition to the uses described above, we also collect your information for a variety of reasons, including to provide our Services as well as for the following reasons:
 
-* To provide our Service: such as to setup your account, to create an inventory of functioning coupons, deals, pricing and availability of retail items, to track price changes, update our product catalog, commission collection, create Droplists, and managing Rewards.
+* To provide our Services: such as to setup your account, to create an inventory of functioning coupons, deals, pricing and availability of retail items, to track price changes, update our product catalog, commission collection, create Droplists, and managing Rewards.
 * To manage and improve our Services: to make sure our products our working correctly, conduct internal analytics.
 * To manage fraud and risk.
-* To personalize your shopping experience: to provide you with a more tailored, relevant experience or show sponsored product offers that may interest you, see a personalized recommendation feed.
-* To market our Services.
+* To personalize your shopping experience when you use the Service or you use the PayPal or Venmo services: to provide you with a more tailored, relevant experience or show sponsored product offers that may interest you, see a personalized recommendation feed.
+* Associate information about you: If you use Venmo or PayPal, we may associate information about your transactions and experiences using those Services to personalize content and offers and improve your use of the PayPal Honey services.
+* To market our Services, including when we associate information about you.
 * To communicate with you.
 * To comply with Laws: to comply with applicable laws and rules and enforce our agreements with you and other people who use our Services.
-* To process information about your contacts: with your consent, we may collect your friends contact information for referrals.
+* To process information about your contacts: with your consent, we may collect your friends’ contact information for referrals.
 
 How we disclose your data
 
@@ -139,9 +134,9 @@ In addition, we may disclose your personal information with your consent or in w
 We may disclose information:
 
 * With our service providers (businesses that work for and with us) for the purpose of running PayPal Honey and fulfilling our commitments to you. These include businesses that perform services on our behalf, including to help us maintain our products, manage coupons codes and offers, to provide support for legal, banking, security protection, payment processing, our own marketing, and customer service. Please know that when we disclose information with our service providers, it's for the purposes outlined in this Privacy Statement and not for their independent use. The personal information we disclose may include your identification information, your shopping and usage data, internet or network activity, commercial information, inferences, and sensitive personal information.
-* With our parent company, PayPal, Inc. and affiliates and subsidiaries it controls to manage Rewards. The personal information we disclose may include your identification information, your shopping and usage data, and commercial information.
-* With authorities, as required by law, or to comply or respond to a valid government request; or when we believe in good faith that it's necessary to protect our rights, protect your safety or the safety of others, or investigate fraud. The personal information we disclose may include your identification information, your shopping and usage data, internet or network activity, commercial information and sensitive personal information.
-* With a buyer or successor if Honey Science LLC or PayPal, Inc. is involved in a merger, acquisition, or similar corporate transaction. If that happens, you will be notified via email and/or a prominent notice on the Website of any change in ownership, as well as any choices you will have as a result. The personal information we disclose may include your identification information, your shopping and usage data.
+* With PayPal Companies, to manage Rewards and personalize your use of the Services and your use of the PayPal or Venmo services. The personal information we disclose may include your identification information, your shopping and usage data, and commercial information.
+* With authorities, as required by law, or to comply with or respond to a valid government request; or when we believe in good faith that it's necessary to protect our rights, protect your safety or the safety of others, or investigate fraud. The personal information we disclose may include your identification information, your shopping and usage data, internet or network activity, commercial information and sensitive personal information.
+* With a buyer or successor if PayPal, Inc. is involved in a merger, acquisition, or similar corporate transaction. If that happens, you will be notified via email and/or a prominent notice on the Website of any change in ownership, as well as any choices you will have as a result. The personal information we disclose may include your identification information, your shopping and usage data.
 
 How we protect your data
 
@@ -192,20 +187,29 @@ If you want to stop using PayPal Honey, we have instructions on how to uninstall
   
 You can also uninstall the PayPal Honey Mobile App in the same way you would uninstall other mobile apps from your mobile device.  
   
-If you would like to delete your profile or personal information, you can always ask us by emailing [privacy@joinhoney.com](mailto:privacy@joinhoney.com). We will delete any personal information we have, although the following exceptions apply: (1) we may still store your personal information if we need it to meet our legal or compliance obligations and/or to defend against legal claims; and (2) we may also continue to store your personal data in an aggregated and anonymized format that doesn’t identify you and can’t be attributed to you, even after you’ve deleted your profile.
-
-Additional rights regarding your data
-
-Depending on where you live, you may have additional rights as to the personal information that you share and PayPal Honey collects. Residents of the EU, UK, Canada, Australia, and New Zealand, can click below to learn more.
+If you would like to delete your profile or personal information, you can always ask us by emailing [privacy@joinhoney.com](mailto:privacy@joinhoney.com). We will delete any personal information we have, although the following exceptions apply: (1) we may still store your personal information if we need it to meet our legal or compliance obligations and/or to defend against legal claims; and (2) we may also continue to store your personal data in an aggregated and anonymized format that doesn't identify you and can't be attributed to you, even after you've deleted your profile.
 
 Learn More
 
-Data Transfers from the EU
+Notice of Financial Incentive
 
-If we transfer your data outside of the European Economic Area, we will do so within the safeguards of [Binding Corporate Rules](https://www.paypal.com/cz/webapps/mpp/ua/bcr?locale.x=en_CZ) or Model Contract Clauses. As we are located in the United States and PayPal Honey's products are operated in the United States, if you are located outside of the United States, please be aware that information you share and we collect will be transferred to, and processed, stored, and used in the United States in order to provide PayPal Honey's products to you.  
+If you are a California resident, you have a right to receive this Notice of Financial Incentive.  
   
-Honey Science, LLC has signed Binding Corporate Rules, which have been approved by competent supervisory authorities, and that apply uniform, adequate and global data protection and privacy standards for the handling of all user personal data.  
+Our rewards program, sometimes referred to as Honey Gold or PayPal Rewards, is offered with PayPal (together, “Rewards”) and provides you with the ability to earn points on eligible purchases, eligible PayPal transactions, or completing other actions, such as referring a friend.  
   
+The Rewards can be earned through our Website, the PayPal Honey app, or through checkout and can be redeemed for gift cards, PayPal transaction discounts or cash back with a valid PayPal account. You can earn Rewards on purchases from eligible merchants, eligible PayPal transactions or other activity. The Rewards are subject to these [PayPal Rewards Program Agreement](https://www.paypal.com/us/legalhub/pp-rewards-program-tnc). Additional terms and exclusions may apply and are presented at the time the Reward is offered or saved.  
+  
+To manage Rewards the following Personal information is collected:
+
+* Identifiers, such as name and email and account location
+* Shopping and Usage Information, such as shopping history, transaction value and returns
+* Preferred merchants or categories
+* Internet and Network activity such as IP address
+* Inferences drawn from one or more of the above, including a consumer's shopping history, that reflects a consumer's shopping preferences.
+
+You opt into Rewards by registering for the Honey Services. You have the right to opt-out of the Rewards program by contacting customer support at [privacy@joinhoney.com](mailto:privacy@joinhoney.com), or you may uninstall or delete your account at any time  
+  
+To form the basis for the Rewards offered, PayPal Honey made the following good faith estimate of the value of the consumers' data based on the rewards granted by the business divided by the number of active participants over the past 12 months. We estimate the value of users’ personal information to be $15 per user.
 
 Minors
 
@@ -219,7 +223,7 @@ If you have any questions about our privacy policies and practice, please contac
   
 Or you can write us a letter (fancy!) at:  
   
-**Honey Science LLC  
+**PayPal Honey  
 Attn: Privacy  
 963 E. 4th Street  
 Los Angeles, CA 90013**
@@ -232,11 +236,11 @@ About, Legal & More
 
 ### Product
 
-[Droplist](https://www.joinhoney.com/features/droplist)[Amazon Badge](https://www.joinhoney.com/features/amazon)[Honey Gold](https://www.joinhoney.com/features/honeygold)[For Affiliates](https://www.joinhoney.com/business)
+[Droplist](https://www.joinhoney.com/features/droplist)[Amazon Badge](https://www.joinhoney.com/features/amazon)[Rewards](https://www.joinhoney.com/features/paypalrewards)[For Affiliates](https://www.joinhoney.com/business)
 
 ### Legal
 
-[Privacy](https://www.joinhoney.com/privacy)[Copyright](https://www.joinhoney.com/copyright)[Patents](https://www.joinhoney.com/patents)[Terms](https://www.joinhoney.com/terms)[Ad Disclosure](https://help.joinhoney.com/article/30-how-does-honey-make-money)[Accessibility](https://www.joinhoney.com/accessibility)Cookies
+[Privacy](https://www.joinhoney.com/privacy)[Copyright](https://www.joinhoney.com/copyright)[Patents](https://www.joinhoney.com/patents)[Terms](https://www.joinhoney.com/terms)[Ad Disclosure](https://help.joinhoney.com/article/30-how-does-honey-make-money)[E-Communication](https://www.joinhoney.com/ecomms-policy)[Accessibility](https://www.joinhoney.com/accessibility)Cookies
 
 ### Follow Us
 
@@ -250,10 +254,10 @@ About, Legal & More
 Google Play and the Google Play logo are trademarks of Google Inc.  
 Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc., registered in the U.S. and other countries.
 
-© 2024 Honey Science LLC
+© 2024 PayPal, Inc.
 
 Honey is now part of the PayPal family. Learn more  [here](https://help.joinhoney.com/article/302-what-does-honey-joining-paypal-mean-for-members).
 
-France
+United States
 
 English
