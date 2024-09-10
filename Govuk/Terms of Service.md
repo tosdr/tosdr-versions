@@ -88,7 +88,7 @@ This page and any pages it links to explains GOV.UK’s terms of use. You must a
 Who we are
 ----------
 
-GOV.UK is managed by [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service) (GDS) on behalf of the Crown. GDS is part of the Cabinet Office and will be referred to as ‘we’ from now on.
+GOV.UK is managed by the [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service) (GDS) on behalf of the Crown. GDS is part of the Department for Science, Innovation and Technology (DSIT) and will be referred to as ‘we’ from now on.
 
 Using GOV.UK
 ------------
@@ -100,7 +100,7 @@ We update GOV.UK all the time. We can change or remove content at any time witho
 Services and transactions
 -------------------------
 
-You can use GOV.UK to access online government services and transactions, for example [apply for Universal Credit](https://www.gov.uk/apply-universal-credit) or [register to vote](https://www.gov.uk/register-to-vote).
+You can use GOV.UK to access online government services and transactions, for example [apply for Universal Credit](https://www.gov.uk/universal-credit/how-to-claim) or [register to vote](https://www.gov.uk/register-to-vote).
 
 These can be managed by GDS or another government department or agency.
 
@@ -133,11 +133,7 @@ You should read all terms and conditions, privacy policies and end user licences
 Using GOV.UK content
 --------------------
 
-Most content on GOV.UK is subject to [Crown copyright protection](https://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/uk-government-licensing-framework/crown-copyright/) and is published under the [Open Government Licence](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/1/open-government-licence.htm) (OGL).
-
-Some content is exempt from the OGL - check the [list of exemptions](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/1/open-government-licence.htm).
-
-Departmental logos and crests are also exempt from the OGL, except when they form an integral part of a document or dataset.
+Most content on GOV.UK is subject to [Crown copyright protection](https://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/uk-government-licensing-framework/crown-copyright/) and is published under the [Open Government Licence](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/1/open-government-licence.htm) (OGL), which also sets out which content is exempt.
 
 If any content is not subject to Crown copyright protection or published under the OGL, we’ll usually credit the author or copyright holder.
 
@@ -258,7 +254,7 @@ You’ll agree to any changes if you continue to use GOV.UK after the terms and 
 Updates to this page
 --------------------
 
-Last updated 31 March 2022
+Last updated 3 September 2024
 
 Related content
 ---------------
