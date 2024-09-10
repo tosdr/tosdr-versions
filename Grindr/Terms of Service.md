@@ -2615,10 +2615,6 @@ Default
       </p>  
     </div>
 
-‍
-
-‍
-
 [![](https://cdn.prod.website-files.com/641dc6058ca7b72a1422b5d7/641ddc800ddd591268f195fd_download-inactive.webp)
 
 Download](https://www.grindr.com/)[![](https://cdn.prod.website-files.com/641dc6058ca7b72a1422b5d7/641ddc80a8291a86e64a76fb_about-inactive.webp)
