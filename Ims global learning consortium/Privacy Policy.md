@@ -232,8 +232,8 @@ Any questions about this Privacy Notice should be addressed to [privacy@1edtech
 
 The names 1EdTech® and IMS Global Learning Consortium®, the 1EdTech logos, Better Learning From Better Learning Technology®, TrustEd Apps™, 1EdTech TrustEd Apps™, Learning Tools Interoperability®, LTI®, IMS LTI®, IMS Learning Tools Interoperability®, OneRoster®, Caliper Analytics®, Question & Test Interoperability (QTI)®, QTI®, Common Cartridge®, Competencies and Academic Standards Exchange®, CASE®, Competencies and Academic Standards Exchange (CASE)®, Accessible Portable Item Protocol (APIP)®, AccessForAll®, Badge Connect®, Comprehensive Learner Record Standard™, and CLR Standard™ are trademarks of 1EdTech Consortium, Inc. in the United States and/or other countries. All other trademarks and registered trademarks are the properties of their respective owners.
 
-For information on the 1EdTech trademark usage policy, see our [trademark policy page](http://www.imsglobal.org/1edtech-trademarks).
+For information on the 1EdTech trademark usage policy, see our [trademark policy page](https://www.1edtech.org/about/legal).
 
 [![Connect on LinkedIn](/sites/default/files/LI-In-Bug.png)](https://www.linkedin.com/company/1edtech-consortium-inc/)[![X logo](/sites/default/files/logo-black.png)](https://www.twitter.com/LearningImpact) [![View 1EdTech on YouTube](/sites/default/files/yt_icon_rgb.png)](https://www.youtube.com/c/1EdTechOrg)
 
-[© 2001-2023 1EdTech Consortium Inc.](http://www.imsglobal.org/copyright.html) All Rights Reserved. [Privacy Policy](http://www.imsglobal.org/privacystatement.html)
+[© 2001-2023 1EdTech Consortium Inc.](https://www.1edtech.org/about/legal) All Rights Reserved. [Privacy Policy](https://www.1edtech.org/about/legal/privacy)
