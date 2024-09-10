@@ -1,4 +1,4 @@
-![fb pixel](https://www.facebook.com/tr?id=679119116758867&ev=PageView&noscript=1)            
+![fb pixel](https://www.facebook.com/tr?id=679119116758867&ev=PageView&noscript=1)                       
 
  [![logo image desktop](https://humango.ai/wp-content/themes/twentytwenty-child/assets/Home page 2.0 [desktop]/logotype.png) ![logo image mobile](https://humango.ai/wp-content/themes/twentytwenty-child/assets/Home page 2.0 [mobile] /Humango logo mobile.png)](https://humango.ai/)
 
