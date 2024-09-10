@@ -5,7 +5,7 @@
 * [About Digital River](https://store.digitalriver.com/DRHM/store?Action=DisplayDRAboutDigitalRiverPage&SiteID=defaults&Locale=en_US&ThemeID=22100&Env=BASE&eCommerceProvider=)
 * [Privacy Policy](https://store.digitalriver.com/DRHM/store?Action=DisplayDRPrivacyPolicyPage&SiteID=defaults&Locale=en_US&ThemeID=22100&Env=BASE&eCommerceProvider=)
 * [Terms of Sale](https://store.digitalriver.com/DRHM/store?Action=DisplayDRTermsAndConditionsPage&SiteID=defaults&Locale=en_US&ThemeID=22100&Env=BASE&eCommerceProvider=)
-* ![Print](//drh1.img.digitalriver.com/DRHM/Storefront/SiteImplementation/defaults/defaultsSI/version/56/images/icon_printer.gif)
+* ![Print](//drh1.img.digitalriver.com/DRHM/Storefront/SiteImplementation/defaults/defaultsSI/version/57/images/icon_printer.gif)
 
 Cookies and Web Beacons
 =======================
