@@ -1,11 +1,5 @@
 <img src="https://pixel62ce5556d21c1d3.advangelists.com/v1/audiences?account\_id=488&amp;segment\_key=62ce5556d21c1d3&amp;vars\[advid\]=2427" width="1" height="1">        
 
-X
-
-HUMAN at Black Hat 2024: Step into our Alchemist's Workshop at Booth #2740! Discover our full range of Black Hat activations and inventions.
-
-[Book a meeting](https://humanatblackhat082024.splashthat.com/)
-
 [](https://www.perimeterx.com/)
 
 * Platform
@@ -298,9 +292,9 @@ HUMAN at Black Hat 2024: Step into our Alchemist's Workshop at Booth #2740! Disc
             
         * [Resellers
             
-            Explore HUMAN's technology through channel partners, combining bot mitigation and other security solutions.](https://www.humansecurity.com/partners/channel)
+            Explore HUMAN's technology through channel partners, combining bot mitigation and other security solutions.](https://www.humansecurity.com/partners/channel/old)
             
-            [Explore HUMAN's technology through channel partners, combining bot mitigation and other security solutions.](https://www.humansecurity.com/partners/channel)
+            [Explore HUMAN's technology through channel partners, combining bot mitigation and other security solutions.](https://www.humansecurity.com/partners/channel/old)
             
     * * [Become a Partner
             
@@ -612,9 +606,9 @@ HUMAN at Black Hat 2024: Step into our Alchemist's Workshop at Booth #2740! Disc
             
         * [Resellers
             
-            Explore HUMAN's technology through channel partners, combining bot mitigation and other security solutions.](https://www.humansecurity.com/partners/channel)
+            Explore HUMAN's technology through channel partners, combining bot mitigation and other security solutions.](https://www.humansecurity.com/partners/channel/old)
             
-            [Explore HUMAN's technology through channel partners, combining bot mitigation and other security solutions.](https://www.humansecurity.com/partners/channel)
+            [Explore HUMAN's technology through channel partners, combining bot mitigation and other security solutions.](https://www.humansecurity.com/partners/channel/old)
             
     * * [Become a Partner
             
@@ -732,7 +726,7 @@ Decrease account fraud losses and prevent sensitive data exfiltration. Block una
 
 ![Human_Homepage_Accounts-min](https://www.humansecurity.com/hubfs/Human_Homepage_Accounts-min.jpg)
 
-THE HUMAN DEFENSE PLATFORM
+THE HUMAN DEFENSE PLATFORM™
 
 ### One platform for safer ads, interactions, and transactions.
 
@@ -854,7 +848,7 @@ Your business needs protection from fraud, bot attacks, and account abuse.
 
 Platform
 
-* [Human Defense Platform](https://www.humansecurity.com/platform)
+* [Human Defense Platform™](https://www.humansecurity.com/platform)
 
 Packages
 
@@ -913,7 +907,7 @@ Partners
 
 * [The Human Collective](https://www.humansecurity.com/company/the-human-collective)
 * [Integrations](https://www.humansecurity.com/partners)
-* [Resellers](https://www.humansecurity.com/partners/channel)
+* [Resellers](https://www.humansecurity.com/partners/channel/old)
 * [Technology](https://www.humansecurity.com/partners/technology)
 * [Partner Portal](https://partners.humansecurity.com/English/?ReturnUrl=%2fEnglish%2fPartners%2fhome.aspx&__hstc=233546881.7f9124919ef436acf331cc4180a46d72.1635342799936.1648671054706.1648675289816.112&__hssc=233546881.12.1648738104896&__hsfp=1741684099)
 
@@ -964,3 +958,4 @@ Locations
 * [Notice to California Residents](https://www.humansecurity.com/privacy#notice-to-california-residents)
 * Cookie Settings
 * [Data Security & Privacy FAQ](https://www.humansecurity.com/data-security-and-privacy-faq)
+* [Modern Slavery Act Transparency Statement](https://www.humansecurity.com/modern-slavery-act-transparency-statement)
