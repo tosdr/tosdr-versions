@@ -20,7 +20,7 @@ An official website of the United States government
     
     * More OCC Websites
     * * [![Banknet quick access](/images/c-clamp-images/quickaccess_banknet.png "Banknet quick access")BankNet.gov  
-            Find resources for bankers.](https://www.banknet.gov/home/ "Banknet Home Page")
+            Find resources for bankers.](https://www.banknet.gov/)
         * [![](/images/c-clamp-images/quickaccess_helpwith.png "HWMB Quick access")HelpWithMyBank.gov  
             Get answers to banking questions.](https://www.helpwithmybank.gov/index.html "Get Answers ")
         *  [![Quick Access Search](/images/c-clamp-images/quickaccess_search.png "Search quick access") Careers.occ.gov  
@@ -115,7 +115,7 @@ Menu
     * [All Publications](https://www.occ.gov/publications-and-resources/publications/index-publications.html)
     
     * [Tools](https://www.occ.gov/publications-and-resources/tools/index-tools.html)
-    * [BankNet](https://www.banknet.gov/home/entrance/)
+    * [BankNet](https://www.banknet.gov/entrance/default.html)
     * [Corporate Applications Search (CAS)](https://apps.occ.gov/CAAS_CATS/)
     * [Financial Institution Search](https://www.occ.gov/publications-and-resources/tools/occ-financial-institution-search/index-occ-financial-institution-search.html)
     * [All Tools](https://www.occ.gov/publications-and-resources/tools/index-tools.html)
