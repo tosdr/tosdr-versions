@@ -711,9 +711,7 @@ Stay in the loop
 
  [![LinkedIn](/images/icon-linkedin.svg)](https://www.linkedin.com/company/3781124/)[![youtube](/images/icon-youtube.svg)](https://www.youtube.com/samsung)[![samsung](/images/icon-samsung.svg)](https://news.samsung.com/global/category/products/mobile)
 
-[Privacy Policy](https://www2.samsungknox.com/en/web-privacy-policy)
-
-[Cookie Settings](#)
+[Privacy Policy](https://www2.samsungknox.com/en/privacy-policy-us)
 
 [Legal](https://www.samsungknox.com/en/legal)
 
@@ -721,21 +719,17 @@ Stay in the loop
 
 Back to top
 
-Samsung and Cookies Continue without accepting
+Samsung and Cookies
 
-Samsung Electronics, and its partners, use cookies and similar technologies (collectively “technologies”) to store and access information on your device. Some of these technologies are technically essential to provide you with a secure, well-functioning and reliable website. We would also like to set optional/non-essential technologies to give you the best user experience. Through these technologies, we will collect information such as your interaction with our website, your preferences and your browsing habits.
+This website uses cookies to enhance your experience and our services. By clicking ACCEPT or continuing to browse the site, you are agreeing to our use of cookies. See our [privacy policy](https://www.samsungknox.com/en/privacy-policy).
 
-If you are happy for technologies to be used for these purposes, click on "Accept All" to accept all of the technologies. Alternatively, you may click "Continue without accepting" to refuse all non-essential technologies. You can also make a choice by category by clicking "Configure". You can withdraw your consent and modify your choices at any time by clicking on the "Cookie Preferences" button located at the bottom of our website. Further information is also available in our [Cookie Policy](https://www.samsungknox.com/en/cookie-policy) and our [Privacy Policy](https://www2.samsungknox.com/en/privacy-policy-eu).
-
-CONFIGURE ACCEPT ALL
+ACCEPT
 
 ##### Manage your cookies
 
 ×
 
 Cookies are small text files placed on your device which we use to improve your experience on our website and to show you relevant advertising. Our partners and the cookies placed on your device are detailed below. You are also able to manage which cookies are set on your device below. You can change your preferences at any time by clicking on the "Cookie Preferences" icon at the bottom of our website. Your choice will be retained for 13 months.
-
-For more information, refer to our [Cookie Policy](https://www.samsungknox.com/en/cookie-policy).
 
 ###### Essential Cookies
 
