@@ -36,6 +36,7 @@
     * [Bachelor of Science in Nursing (BSN) Degree](https://www.registerednursing.org/degree/bsn/)
     * [Best RN to BSN Programs](https://www.registerednursing.org/rn-to-bsn/)
     * [– Fastest RN to BSN Programs](https://www.registerednursing.org/rn-to-bsn/fastest-rn-to-bsn/)
+    * [– Cheapest RN to BSN Programs](https://www.registerednursing.org/rn-to-bsn/affordable-rn-to-bsn/)
     * [LPN to BSN Programs](https://www.registerednursing.org/lpn-to-bsn/)
     * [Accelerated BSN (ABSN) Programs](https://www.registerednursing.org/degree/accelerated-nursing-programs/bsn/)
 * [MSN Degree](https://www.registerednursing.org/degree/msn/)
