@@ -18,6 +18,7 @@ Sign In
 * [Connect Math Hosted by ALEKS](https://www.connectmath.com/ "HigherEd Platform Sign In: Connect Math Hosted by ALEKS")
 * [ALEKS](https://www.aleks.com/login "HigherEd Platform Sign In: ALEKS")
 * [My Bookshelf (eBook Access)](https://myebooks.mheducation.com/ "HigherEd Platform Sign In: My Bookshelf (eBook Access)")
+* [Sharpen](http://www.studysharpen.com/ "Sharpen, opens in a new window")
 
 ###### Select your PreK–12 platform
 
@@ -68,6 +69,7 @@ My Account
 * [Connect Math Hosted by ALEKS](https://www.connectmath.com/ "HigherEd Platform Sign In: Connect Math Hosted by ALEKS")
 * [ALEKS](https://www.aleks.com/login "HigherEd Platform Sign In: ALEKS")
 * [My Bookshelf (eBook Access)](https://myebooks.mheducation.com/ "HigherEd Platform Sign In: My Bookshelf (eBook Access)")
+* [Sharpen](http://www.studysharpen.com/ "Sharpen, opens in a new window")
 
 [Sign Out](https://shop.mheducation.com/store/services/logout)
 
@@ -127,6 +129,7 @@ My Account
 * [Connect Math Hosted by ALEKS](https://www.connectmath.com/ "HigherEd Platform Sign In: Connect Math Hosted by ALEKS")
 * [ALEKS](https://www.aleks.com/login "HigherEd Platform Sign In: ALEKS")
 * [My Bookshelf (eBook Access)](https://myebooks.mheducation.com/ "HigherEd Platform Sign In: My Bookshelf (eBook Access)")
+* [Sharpen](http://www.studysharpen.com/ "Sharpen, opens in a new window")
 
 [Sign Out](https://shop.mheducation.com/store/services/logout)
 
@@ -382,19 +385,20 @@ Company Info
 
 * [About Us](https://www.mheducation.com/about.html)
 * [Contact & Locations](https://www.mheducation.com/locations.html)
-* [Careers](http://careers.mheducation.com/ "Opens in a new tab: http://careers.mheducation.com/")
+* [Trust Center](https://www.mheducation.com/trust-center.html)
+* [Careers](http://careers.mheducation.com/ "Careers, opens in a new window")
 * [Diversity, Equity & Inclusion](https://www.mheducation.com/about/diversity-equity-inclusion.html)
 * [Social Responsibility](https://www.mheducation.com/about/social-responsibility-sustainability.html)
-* [Investor Relations](http://investors.mheducation.com/ "Opens in a new tab: http://investors.mheducation.com")
+* [Investor Relations](http://investors.mheducation.com/ "Investor Relations, opens in a new window")
 * [Social Media Directory](https://www.mheducation.com/social-media-directory.html)
 
 Get Help
 
-* [Place an Order](https://mh.my.site.com/CSOM/s/place-an-order "Opens in a new tab: https://mh.my.site.com/CSOM/s/place-an-order")
+* [Place an Order](https://mh.my.site.com/CSOM/s/place-an-order "Place an Order, opens in a new window")
 * [Get Support](https://www.mheducation.com/support.html)
-* [Contact Customer Service](https://mh.my.site.com/CSOM/s/ "Opens in a new tab: https://mh.my.site.com/CSOM/s/")
+* [Contact Customer Service](https://mh.my.site.com/CSOM/s/ "Contact Customer Service, opens in a new window")
 * [Contact Sales Rep](https://www.mheducation.com/locations.html)
-* [Check System Status](http://status.mheducation.com/ "Opens in a new tab: http://status.mheducation.com/")
+* [Check System Status](http://status.mheducation.com/ "Check System Status, opens in a new window")
 
 Additional Resources
 
@@ -422,19 +426,13 @@ Follow McGraw Hill
 
 ©2024 McGraw Hill. All Rights Reserved.
 
-    [![AICPA SOC Logo](https://www.mheducation.com/content/dam/mhe/footer/aicpa-soc-logo.webp)](http://www.aicpa.org/soc4so)
-
 [Terms of Use](https://www.mheducation.com/terms-use.html) | [Privacy Center](https://www.mheducation.com/privacy.html) | [Report a Vulnerability](https://www.mheducation.com/terms-use/vulnerability-disclosure-program.html) | [Report Piracy](https://www.mheducation.com/report-piracy.html) | [Site Map](https://www.mheducation.com/site-map.html)
-
-    [![AICPA SOC Logo](https://www.mheducation.com/content/dam/mhe/footer/aicpa-soc-logo.webp)](http://www.aicpa.org/soc4so)
 
 ©2024 McGraw Hill. All Rights Reserved.
 
 [Terms of Use](https://www.mheducation.com/terms-use.html) | [Privacy Center](https://www.mheducation.com/privacy.html) | [Report a Vulnerability](https://www.mheducation.com/terms-use/vulnerability-disclosure-program.html) | [Report Piracy](https://www.mheducation.com/report-piracy.html) | [Site Map](https://www.mheducation.com/site-map.html)
 
 ©2024 McGraw Hill. All Rights Reserved.
-
-    [![AICPA SOC Logo](https://www.mheducation.com/content/dam/mhe/footer/aicpa-soc-logo.webp)](http://www.aicpa.org/soc4so)
 
 Sign In
 -------
@@ -445,6 +443,7 @@ Sign In
 * [Connect Math Hosted by ALEKS](https://www.connectmath.com/ "HigherEd Platform Sign In: Connect Math Hosted by ALEKS")
 * [ALEKS](https://www.aleks.com/login "HigherEd Platform Sign In: ALEKS")
 * [My Bookshelf (eBook Access)](https://myebooks.mheducation.com/ "HigherEd Platform Sign In: My Bookshelf (eBook Access)")
+* [Sharpen](http://www.studysharpen.com/ "Sharpen, opens in a new window")
 
 ###### Select your PreK–12 platform
 
