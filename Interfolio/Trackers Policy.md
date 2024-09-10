@@ -2,7 +2,7 @@
 
 Unfortunately we don't fully support your browser. If you have the option to, please upgrade to a newer version or use [Mozilla Firefox](https://www.mozilla.org/en-GB/firefox), [Microsoft Edge](https://www.microsoft.com/en-us/edge), [Google Chrome](https://www.google.co.uk/chrome), or Safari 14 or newer. If you are unable to, and need support, please [send us your feedback](https://www.elsevier.com/support).
 
-We'd appreciate your feedback.[Tell us what you think!opens in new tab/window](https://survey.alchemer.eu/s3/90475606/NextGen-Health?page=/legal/cookienotice)
+We'd appreciate your feedback.[Tell us what you think! opens in new tab/window](https://survey.alchemer.eu/s3/90475606/NextGen-Health?page=/legal/cookienotice)
 
 [![Elsevier](/images/elsevier-logo.svg)](https://www.interfolio.com/)
 
@@ -47,25 +47,15 @@ Cookies are small text files placed on your computer or other device by websites
 
 We use cookies and similar technologies to:
 
-* ●
+* Assist you in efficiently and safely navigating and experiencing our services;
     
-    Assist you in efficiently and safely navigating and experiencing our services;
+* Enable you to register, login, provide feedback and otherwise interact with our services;
     
-* ●
+* Store and honor your preferences and settings;
     
-    Enable you to register, login, provide feedback and otherwise interact with our services;
+* Measure and analyze usage and performance data; and
     
-* ●
-    
-    Store and honor your preferences and settings;
-    
-* ●
-    
-    Measure and analyze usage and performance data; and
-    
-* ●
-    
-    Assist us with promotional and marketing efforts (including interest-based advertising).
+* Assist us with promotional and marketing efforts (including interest-based advertising).
     
 
 If you access any of our services subject to a subscription agreement or other contract between us and your organization, cookies and similar technologies will be used as necessary for the performance of that contract and for our legitimate business operations related to providing the service.
@@ -74,53 +64,29 @@ If you access any of our services subject to a subscription agreement or other c
 
 We use the following types of cookies:
 
-* ●
+* **Strictly necessary cookies:** These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work.
     
-    **Strictly necessary cookies:** These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work.
+* **Performance cookies:** These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site.
     
-* ●
+* **Functionality cookies:** These cookies enable the website to provide enhanced functionality and personalization. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies, then some or all of these services may not function properly.
     
-    **Performance cookies:** These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site.
+* **Targeting cookies:** These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. If you do not allow these cookies, you will experience less targeted advertising.
     
-* ●
+* **Social media cookies:** These cookies are set by a range of social media services that we have added to the site to enable you to share our content with your friends and networks. They are capable of tracking your browser across other sites and building up a profile of your interests. This may impact the content and messages you see on other websites you visit. If you do not allow these cookies, you may not be able to use or see these sharing tools.
     
-    **Functionality cookies:** These cookies enable the website to provide enhanced functionality and personalization. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies, then some or all of these services may not function properly.
+* **Anonymized analytical cookies:** These cookies ensure that anonymous data about your surfing behavior is collected every time you visit the website. This way we can see how visitors use the website and improve on that basis. We use anonymized analytical cookies for:
     
-* ●
+* tracking the number of visitors to our web pages;
     
-    **Targeting cookies:** These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. If you do not allow these cookies, you will experience less targeted advertising.
+* tracking the amount of time each visitor spends on our web pages;
     
-* ●
+* keeping track of the order in which, a visitor visits the different pages of our website;
     
-    **Social media cookies:** These cookies are set by a range of social media services that we have added to the site to enable you to share our content with your friends and networks. They are capable of tracking your browser across other sites and building up a profile of your interests. This may impact the content and messages you see on other websites you visit. If you do not allow these cookies, you may not be able to use or see these sharing tools.
+* assessing which parts of our site need updating;
     
-* ●
+* measuring and optimizing the performance of our marketing campaigns;
     
-    **Anonymized analytical cookies:** These cookies ensure that anonymous data about your surfing behavior is collected every time you visit the website. This way we can see how visitors use the website and improve on that basis. We use anonymized analytical cookies for:
-    
-* ●
-    
-    tracking the number of visitors to our web pages;
-    
-* ●
-    
-    tracking the amount of time each visitor spends on our web pages;
-    
-* ●
-    
-    keeping track of the order in which, a visitor visits the different pages of our website;
-    
-* ●
-    
-    assessing which parts of our site need updating;
-    
-* ●
-    
-    measuring and optimizing the performance of our marketing campaigns;
-    
-* ●
-    
-    redirecting traffic from different channels.
+* redirecting traffic from different channels.
     
 
 Details about the cookies set by our websites and by third parties, including service providers acting on our behalf, are listed directly on the site or in the cookie control tool made available on the site.
@@ -129,7 +95,7 @@ Details about the cookies set by our websites and by third parties, including se
 
 You can manage the use of certain types of cookies by amending your cookies settings via the links in the cookie list on the site or in the cookie control tool made available on the site. You also may be able to block or delete cookies by selecting the appropriate settings on your browser privacy preferences menu.
 
-You can also manage many cookies used for online advertising via the consumer choice tools created under self-regulation programs in many countries, such as the US-based [YourAdChoicesopens in new tab/window](https://www.aboutads.info/choices), the Canada-based [AdChoicesopens in new tab/window](https://youradchoices.ca/en/tools) or the EU-based [Your Online Choicesopens in new tab/window](http://www.youronlinechoices.com/).
+You can also manage many cookies used for online advertising via the consumer choice tools created under self-regulation programs in many countries, such as the US-based [YourAdChoices opens in new tab/window](https://www.aboutads.info/choices), the Canada-based [AdChoices opens in new tab/window](https://youradchoices.ca/en/tools) or the EU-based [Your Online Choices opens in new tab/window](http://www.youronlinechoices.com/).
 
 Certain content and features in our services depend on cookies to function. For example, authentication cookies are used to identify and recognize registered users and to enable them to gain access to requested content or features. If you choose to block cookies, you cannot sign in or use certain content or features. If you choose to delete cookies, any settings and preferences dependent on those cookies will be lost.
 
@@ -162,13 +128,13 @@ About
 
 Global | English
 
-[LinkedIn opens in new tab/window](https://www.linkedin.com/company/elsevier)[Twitter opens in new tab/window](https://twitter.com/ElsevierConnect)[Facebook opens in new tab/window](https://www.facebook.com/ElsevierConnect)[YouTube opens in new tab/window](https://www.youtube.com/c/elsevier)
+ [LinkedIn opens in new tab/window](https://www.linkedin.com/company/elsevier) [Twitter opens in new tab/window](https://twitter.com/ElsevierConnect) [Facebook opens in new tab/window](https://www.facebook.com/ElsevierConnect) [YouTube opens in new tab/window](https://www.youtube.com/c/elsevier)
 
-[![Elsevier](/images/elsevier-logo-white.svg)opens in new tab/window](https://www.interfolio.com/)[![Relx](/images/relx-logo.svg)opens in new tab/window](https://www.relx.com/)
+ [![Elsevier](/images/elsevier-logo-white.svg) opens in new tab/window](https://www.interfolio.com/) [![Relx](/images/relx-logo.svg) opens in new tab/window](https://www.relx.com/)
 
 Copyright © 2024 Elsevier, its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies.
 
-* [Terms & Conditionsopens in new tab/window](https://www.interfolio.com/legal/elsevier-website-terms-and-conditions)
-* [Privacy policyopens in new tab/window](https://www.interfolio.com/legal/privacy-policy)
-* [Accessibilityopens in new tab/window](https://www.interfolio.com/about/accessibility)
+* [Terms & Conditions](https://www.interfolio.com/legal/elsevier-website-terms-and-conditions)
+* [Privacy policy](https://www.interfolio.com/legal/privacy-policy)
+* [Accessibility](https://www.interfolio.com/about/accessibility)
 * Cookie settings
