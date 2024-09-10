@@ -27,7 +27,7 @@ Public Documents and Policies
 
 ====================================================
 
-Last update: March 16th of 2020
+Last update: Policy currently undergoing comprehensive review to ensure harmonization with ISO 27001 and 27701 standards.
 
 1\. Introduction
 ----------------
@@ -1105,7 +1105,7 @@ This policy applies to all Healthium systems that store, transmit, or process eP
 3. If it is determined that a Customer or Partner has violated the terms of the HIPAA business associate agreement or any terms within the HIPAA regulations, Healthium must take immediate action to remediate the situation. Continued violations may result in discontinuation of the business relationship.
     
 
-### 8.6 Audit Log Security Controls and Backup class='tw-mb-2.5'
+### 8.6 Audit Log Security Controls and Backup
 
 1. Audit logs shall be protected from unauthorized access or modification, so the information they contain will be made available only if needed to evaluate a security incident or for routine audit activities as outlined in this policy.
     
