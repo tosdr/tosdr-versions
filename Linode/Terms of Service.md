@@ -39,7 +39,6 @@ English
     * [Support Experience](https://www.linode.com/support-experience/)
     * [Free Bundled Services](https://www.linode.com/free-bundled-services/)
     * [Customer Stories](https://www.linode.com/series/craft-of-code/)
-    * [Cloud for Business](https://www.linode.com/linode-for-business/)
     * [Our Approach](https://www.linode.com/approach/)
     * [What is Cloud Computing?](https://www.linode.com/what-is-cloud-computing/)
 * Products
@@ -72,7 +71,7 @@ English
         * [CLI](https://www.linode.com/products/cli/)
         * [Terraform Provider](https://www.linode.com/products/linode-terraform-provider/)
         * [Ansible Collection](https://www.linode.com/products/linode-ansible-collection/)
-        * [Images](https://www.linode.com/products/images/)
+        * [Custom Images](https://www.linode.com/products/images/)
         * [Integrations](https://www.linode.com/products/integrations/)
         * [StackScripts](https://www.linode.com/products/stackscripts/)
         * [Monitoring](https://www.linode.com/products/monitoring/)
@@ -149,7 +148,6 @@ Search
 
 * [About Us](https://www.linode.com/company/about/)
 * [Customer Stories](https://www.linode.com/series/craft-of-code/)
-* [Cloud for Business](https://www.linode.com/linode-for-business/)
 * [Our Approach](https://www.linode.com/approach/)
 * [What is Cloud Computing?](https://www.linode.com/what-is-cloud-computing/)
 
@@ -190,7 +188,7 @@ Search
 * [CLI](https://www.linode.com/products/cli/)
 * [Terraform Provider](https://www.linode.com/products/linode-terraform-provider/)
 * [Ansible Collection](https://www.linode.com/products/linode-ansible-collection/)
-* [Images](https://www.linode.com/products/images/)
+* [Custom Images](https://www.linode.com/products/images/)
 * [Integrations](https://www.linode.com/products/integrations/)
 * [StackScripts](https://www.linode.com/products/stackscripts/)
 * [Monitoring](https://www.linode.com/products/monitoring/)
@@ -352,7 +350,6 @@ All rights reserved.
 * [Support Experience](https://www.linode.com/support-experience/)
 * [Free Bundled Services](https://www.linode.com/free-bundled-services/)
 * [Customer Stories](https://www.linode.com/series/craft-of-code/)
-* [Cloud for Business](https://www.linode.com/linode-for-business/)
 * [Our Approach](https://www.linode.com/approach/)
 * [What is Cloud Computing?](https://www.linode.com/what-is-cloud-computing/)
 
