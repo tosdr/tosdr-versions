@@ -489,7 +489,7 @@ Email: support@bunnycdn.com_
 Start Your 14 Day Free Trial
 ----------------------------
 
-Join over 40,000+ satisfied customers already using bunny.net
+Join over 50,000+ satisfied customers already using bunny.net
 
 [Start FREE Trial](https://dash.bunny.net/auth/register?pk_buttonlocation=footer&pk_buttonurl=tos)
 
