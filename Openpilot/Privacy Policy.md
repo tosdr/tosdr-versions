@@ -1,28 +1,28 @@
-[comma](https://comma.ai/index.html)
+[comma](https://comma.ai/)
 
-[openpilot](https://comma.ai/openpilot.html) [comma 3X](https://comma.ai/shop/comma-3x.html) [connect](https://comma.ai/connect.html) [compatibility](https://comma.ai/vehicles.html) [setup guides](https://comma.ai/setup.html) [support & FAQs](https://comma.ai/support.html) [blog](https://blog.comma.ai/) [jobs - we're hiring!](https://comma.ai/jobs.html)
+[openpilot](https://comma.ai/openpilot) [comma 3X](https://comma.ai/shop/comma-3x) [shop](https://comma.ai/shop) [connect](https://comma.ai/connect) [compatibility](https://comma.ai/vehicles) [setup guides](https://comma.ai/setup) [support & FAQs](https://comma.ai/support) [blog](https://blog.comma.ai/) [jobs - we're hiring!](https://github.com/commaai/jobs)
 
 Latest from the blog:
 
-[Introducing the comma 3X](https://blog.comma.ai/comma3X/)
+[Autonomy](https://blog.comma.ai/autonomy/)
 
-October 12, 2023 – 2 min read
+July 23, 2024 - 6 minute read
 
-[openpilot 0.9.4](https://blog.comma.ai/094release/)
+[Refactoring for Growth](https://blog.comma.ai/refactoring-for-growth/)
 
-July 27, 2023 – 5 min read
+July 22, 2024 - 3 minute read
 
-[Dumb Questions](https://blog.comma.ai/dumb-questions/)
+[openpilot 0.9.7](https://blog.comma.ai/097release/)
 
-April 25, 2023 – 4 min read
+June 13, 2024 - 5 minute read
 
 Social
 
-[](https://github.com/commaai/)[](https://twitter.com/comma_ai)[](https://www.instagram.com/comma_ai/)[](https://www.youtube.com/commaai)[](https://discord.comma.ai/)
+[](https://github.com/commaai)[](https://twitter.com/comma_ai)[](https://www.instagram.com/comma_ai)[](https://www.youtube.com/commaai)[](https://discord.comma.ai/)
 
-[openpilot](https://comma.ai/openpilot.html) [comma 3X](https://comma.ai/shop/comma-3x.html) [connect](https://comma.ai/connect.html) [compatibility](https://comma.ai/vehicles.html)
+[openpilot](https://comma.ai/openpilot) [comma 3X](https://comma.ai/shop/comma-3x) [connect](https://comma.ai/connect) [compatibility](https://comma.ai/vehicles)
 
-[Shop](https://comma.ai/shop.html)
+[Shop](https://comma.ai/shop)
 
 Terms & Privacy
 ===============
@@ -88,6 +88,8 @@ By continuing to access or use our Software after any revisions become effective
 
 If you have any questions about these Terms, please contact us at support@comma.ai.
 
+* * *
+
 openpilot Privacy Policy
 ------------------------
 
@@ -121,52 +123,22 @@ We will occasionally update this Privacy Policy to reflect changes in our practi
 
 If you have any questions about this Policy, please contact us at support@comma.ai.
 
-Product
+**Product** [openpilot](https://comma.ai/openpilot) [comma 3X
 
-* [openpilot](https://comma.ai/openpilot.html)
-* [comma 3X
-    
-    New](https://comma.ai/shop/comma-3x.html)
-    
-* [body](https://comma.ai/shop/body.html)
-    
-* [connect](https://comma.ai/connect.html)
-* [Compatibility](https://comma.ai/vehicles.html)
-* [Shop](https://comma.ai/shop.html)
+new](https://comma.ai/shop/comma-3x)[body](https://comma.ai/shop/body) [connect](https://comma.ai/connect) [Compatibility](https://comma.ai/vehicles) [Shop](https://comma.ai/shop)
 
-company
+**Company** [Blog](https://blog.comma.ai/) [Jobs
 
-* [Blog](https://blog.comma.ai/)
-* [Jobs
-    
-    We're hiring!](https://comma.ai/jobs.html)
-    
-* [Leaderboard
-    
-    NEW CHALLENGE!](https://comma.ai/leaderboard)
-    
-* [Services](https://comma.ai/shop#services)
+we're hiring!](https://github.com/commaai/jobs)[Leaderboard
 
-Support
+New Challenge!](https://comma.ai/leaderboard.html)
 
-* [Support & FAQs](https://comma.ai/support.html)
-* [Setup Guides](https://comma.ai/setup.html)
-* [Shipping & Returns](https://comma.ai/shipping.html)
-* [Discord](https://discord.comma.ai/)
-    
-* [Wiki](https://github.com/commaai/openpilot/wiki)
-    
+**Support** [Support & FAQs](https://comma.ai/support) [Setup Guides](https://comma.ai/setup) [Shipping & Returns](https://comma.ai/shipping) [Discord](https://discord.comma.ai/) [Wiki](https://github.com/commaai/openpilot/wiki)
 
 make driving chill
 
-[](https://github.com/commaai/)[](https://discord.comma.ai/)[](https://twitter.com/comma_ai)[](https://www.instagram.com/comma_ai/)[](https://www.youtube.com/commaai)
+[](https://github.com/commaai)[](https://twitter.com/comma_ai)[](https://www.instagram.com/comma_ai)[](https://www.youtube.com/commaai)[](https://discord.comma.ai/)
 
-Get the latest updates
+Get the latest updates  
 
-Thanks for signing up! – We only send emails we would want to receive.
-
-Oops! Something went wrong while submitting the form.
-
-© comma\_ai 2023
-
-[Terms & Privacy](https://comma.ai/terms.html)
+© comma\_ai 2024 [Terms & Privacy](https://comma.ai/terms)
