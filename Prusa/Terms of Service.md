@@ -1,15 +1,10 @@
-[Assembled MK4 with Free Shipping & Extra Warranty](https://www.prusa3d.com/product/original-prusa-mk4-2/) | [MK4 kit with $100 Voucher for future purchases!](https://www.prusa3d.com/en/product/original-prusa-mk4-kit-2/)
-
 Shipping to
 
-![](https://www.prusa3d.com/content/images/country/icon/2015.png)United Kingdom
+![United States flag](/cdn-cgi/image/width=45,format=auto,quality=85/content/images/country/icon/1792.png)United States
 
-MK4 kit shipping from £14 (FedEx)
+MK4S kit shipping from $50 (DHL) | [**Vacancies**](https://www.prusa3d.com/cs/volna-mista/country-development-manager-usa_233904/)
 
-£ GBP
-
-* £ GBP
-* € EUR
+$USD
 
 English
 
