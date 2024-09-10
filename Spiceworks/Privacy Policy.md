@@ -8,48 +8,49 @@
     * [Artificial Intelligence](https://www.spiceworks.com/tech/artificial-intelligence/?ref_source=spiceworks_header)
     * [Innovation](https://www.spiceworks.com/tech/innovation/?ref_source=spiceworks_header)
     * [IT Careers & Skills](https://www.spiceworks.com/tech/it-careers-skills/?ref_source=spiceworks_header)
-    * [Cloud](https://www.spiceworks.com/tech/cloud?ref_source=spiceworks_header)
+    * [Cloud](https://www.spiceworks.com/tech/cloud/?ref_source=spiceworks_header)
     * [Cyber Security](https://www.spiceworks.com/it-security/cyber-risk-management/?ref_source=spiceworks_header)
     * [Future of Work](https://www.spiceworks.com/hr/future-work/?ref_source=spiceworks_header)
     * [All Categories](https://www.spiceworks.com/sitemap/?ref_source=spiceworks_header)
 * [Community](#)
     
     * [Community Home](https://community.spiceworks.com/?ref_source=spiceworks_header)
-    * [Cloud](https://community.spiceworks.com/c/cloud-computing-saas/8?ref_source=spiceworks_header)
-    * [Collaboration](https://community.spiceworks.com/c/collaboration/9?ref_source=spiceworks_header)
-    * [Hardware](https://community.spiceworks.com/c/hardware/15?ref_source=spiceworks_header)
-    * [Networking](https://community.spiceworks.com/c/networking/23?ref_source=spiceworks_header)
-    * [Programming](https://community.spiceworks.com/c/programming-development/26?ref_source=spiceworks_header)
-    * [Security](https://community.spiceworks.com/c/security/28?ref_source=spiceworks_header)
-    * [Software](https://community.spiceworks.com/c/software/29?ref_source=spiceworks_header)
-    * [Storage](https://community.spiceworks.com/c/data-storage-backup-recovery/10?ref_source=spiceworks_header)
-    * [Vendors](https://community.spiceworks.com/c/vendors/38?ref_source=spiceworks_header)
-    * [Virtualization](https://community.spiceworks.com/c/virtualization/39?ref_source=spiceworks_header)
-    * [Windows](https://community.spiceworks.com/c/windows/41?ref_source=spiceworks_header)
-    * [All Categories](https://community.spiceworks.com/categories?ref_source=spiceworks_header)
+    * [Cloud](https://community.spiceworks.com/c/cloud-computing-saas/8/?ref_source=spiceworks_header)
+    * [Collaboration](https://community.spiceworks.com/c/collaboration/9/?ref_source=spiceworks_header)
+    * [Hardware](https://community.spiceworks.com/c/hardware/15/?ref_source=spiceworks_header)
+    * [Networking](https://community.spiceworks.com/c/networking/23/?ref_source=spiceworks_header)
+    * [Programming](https://community.spiceworks.com/c/programming-development/26/?ref_source=spiceworks_header)
+    * [Security](https://community.spiceworks.com/c/security/28/?ref_source=spiceworks_header)
+    * [Software](https://community.spiceworks.com/c/software/29/?ref_source=spiceworks_header)
+    * [Storage](https://community.spiceworks.com/c/data-storage-backup-recovery/10/?ref_source=spiceworks_header)
+    * [Vendors](https://community.spiceworks.com/c/vendors/38/?ref_source=spiceworks_header)
+    * [Virtualization](https://community.spiceworks.com/c/virtualization/39/?ref_source=spiceworks_header)
+    * [Windows](https://community.spiceworks.com/c/windows/41/?ref_source=spiceworks_header)
+    * [All Categories](https://community.spiceworks.com/categories/?ref_source=spiceworks_header)
 * [Research](#)
     
-    * [State of IT 2024 Report](https://www.spiceworks.com/research/state-of-it/?ref_source=spiceworks_header)
-    * [IT Spend Report](https://www.spiceworks.com/insights/?ref_source=spiceworks_header)
-    * [Customer Experience Report](https://www.spiceworks.com/insights/cxspend/?ref_source=spiceworks_header)
+    * [State of IT 2024 Report](https://www.spiceworks.com/research/it-report/?ref_source=spiceworks_header)
+    * [IT Spend Report](https://www.spiceworks.com/research/it-spend-report/?ref_source=spiceworks_header)
+    * [Customer Experience Report](https://www.spiceworks.com/research/customer-experience-report/?ref_source=spiceworks_header)
+    * [Workplace Tech Report](https://www.spiceworks.com/research/ai-future-workplace-report/?ref_source=spiceworks_header)
 * [IT Tools](#)
     
-    * [Cloud Help Desk](https://www.spiceworks.com/free-cloud-help-desk-software?ref_source=spiceworks_header)
+    * [Cloud Help Desk](https://www.spiceworks.com/free-cloud-help-desk-software/?ref_source=spiceworks_header)
     * [Remote Support](https://www.spiceworks.com/tools/remote-support/?ref_source=spiceworks_header)
     * [Inventory Online](https://www.spiceworks.com/free-pc-network-inventory-software/?ref_source=spiceworks_header)
     * [Contracts](https://apps.spiceworks.com/tools/contracts/?ref_source=spiceworks_header)
-    * [Connectivity Dashboard](https://www.spiceworks.com/free-network-troubleshooting-tool?ref_source=spiceworks_header)
-    * [All IT Tools](https://www.spiceworks.com/tools?ref_source=spiceworks_header)
-* [Newsletters](https://accounts.spiceworks.com/pages/newsletters?ref_source=spiceworks_header)
+    * [Connectivity Dashboard](https://www.spiceworks.com/free-network-troubleshooting-tool/?ref_source=spiceworks_header)
+    * [All IT Tools](https://www.spiceworks.com/tools/?ref_source=spiceworks_header)
+* [Newsletters](https://accounts.spiceworks.com/pages/newsletters/?ref_source=spiceworks_header)
     
-* [Events](https://community.spiceworks.com/c/events/14?ref_source=spiceworks_header)
+* [Events](https://community.spiceworks.com/c/events/14/?ref_source=spiceworks_header)
     
-* [Reviews](https://community.spiceworks.com/tag/product-reviews?ref_source=spiceworks_header)
+* [SpiceWorld](https://www.spiceworks.com/spiceworld/?ref_source=spiceworks_header)
     
 
-[Login](https://accounts.spiceworks.com/sign_in?referrer_source=spiceworks&referrer_reference=topnav&referer=https%3A%2F%2Fwww.spiceworks.com%2Fprivacy%2F&success=https%3A%2F%2Fwww.spiceworks.com%2Fprivacy%2F) [Join](https://accounts.spiceworks.com/join?referrer_source=spiceworks&referrer_reference=topnav&referer=https%3A%2F%2Fwww.spiceworks.com%2Fprivacy%2F)
+[Login](https://accounts.spiceworks.com/sign_in/?referrer_source=spiceworks&referrer_reference=topnav&referer=https%3A%2F%2Fwww.spiceworks.com%2Fprivacy%2F&success=https%3A%2F%2Fwww.spiceworks.com%2Fprivacy%2F) [Join](https://accounts.spiceworks.com/join/?referrer_source=spiceworks&referrer_reference=topnav&referer=https%3A%2F%2Fwww.spiceworks.com%2Fprivacy%2F)
 
-[Login](https://accounts.spiceworks.com/sign_in?referrer_source=spiceworks&referrer_reference=topnav&referer=https%3A%2F%2Fwww.spiceworks.com%2Fprivacy%2F&success=https%3A%2F%2Fwww.spiceworks.com%2Fprivacy%2F) [Join](https://accounts.spiceworks.com/join?referrer_source=spiceworks&referrer_reference=topnav&referer=https%3A%2F%2Fwww.spiceworks.com%2Fprivacy%2F)
+[Login](https://accounts.spiceworks.com/sign_in/?referrer_source=spiceworks&referrer_reference=topnav&referer=https%3A%2F%2Fwww.spiceworks.com%2Fprivacy%2F&success=https%3A%2F%2Fwww.spiceworks.com%2Fprivacy%2F) [Join](https://accounts.spiceworks.com/join/?referrer_source=spiceworks&referrer_reference=topnav&referer=https%3A%2F%2Fwww.spiceworks.com%2Fprivacy%2F)
 
 * [Privacy and Terms:](#)
 * [Privacy](https://www.spiceworks.com/privacy/ "Privacy")
@@ -60,11 +61,15 @@
 **Privacy Policy**
 ==================
 
-[![TRUSTe Policy](https://privacy-policy.truste.com/privacy-seal/seal?rid=01b0263e-277d-4e52-9ddd-86550128ec1a)
+[![TRUSTe Policy](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+
+![TRUSTe Policy](https://privacy-policy.truste.com/privacy-seal/seal?rid=01b0263e-277d-4e52-9ddd-86550128ec1a)
 
 Opens a new window](http://privacy.truste.com/privacy-seal/validation?rid=01b0263e-277d-4e52-9ddd-86550128ec1a "Opens a new window")
 
-[![TRUSTe Feebback](http://privacy-policy.truste.com/privacy-seal/seal?rid=ce211316-dfd0-4abb-8bfb-9cb70de1e37c)
+[![TRUSTe Feebback](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+
+![TRUSTe Feebback](http://privacy-policy.truste.com/privacy-seal/seal?rid=ce211316-dfd0-4abb-8bfb-9cb70de1e37c)
 
 Opens a new window](http://privacy.truste.com/privacy-seal/validation?rid=ce211316-dfd0-4abb-8bfb-9cb70de1e37c "Opens a new window")
 
@@ -334,7 +339,7 @@ These services are not intended for use by children, especially those under 16. 
 
 * [About](https://www.spiceworks.com/about/?ref_source=spiceworks)
 * [Contact](https://www.spiceworks.com/contact/?ref_source=spiceworks)
-* [Support](https://community.spiceworks.com/c/spiceworks-support/34?ref_source=spiceworks)
+* [Support](https://community.spiceworks.com/c/spiceworks-support/34/?ref_source=spiceworks)
 * [Advertise](https://swzd.com/?ref_source=spiceworks)
 * [Press / Media](https://www.spiceworks.com/press/?ref_source=spiceworks)
 * [Careers](https://swzd.com/careers/?ref_source=spiceworks)
