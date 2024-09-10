@@ -16,7 +16,7 @@
 
 [Features](https://www.pcprotect.com/features "Navigate to https://www.pcprotect.com/features") [Pricing](https://www.pcprotect.com/pricing "Navigate to https://www.pcprotect.com/pricing") [Software](https://www.pcprotect.com/software "Navigate to https://www.pcprotect.com/software") [Login](#login "Navigate to #login")
 
-[Get Protected Now](#signup)
+[Buy Now](#signup)
 
 ![](/_r/c/4/_uib/Components/Flag/Flags/76c32ffae7ab/img/flag-circle/gb.png) English
 
@@ -70,12 +70,11 @@ Legal
 * [EULA](https://www.pcprotect.com/terms "Navigate to https://www.pcprotect.com/terms")
 * [Terms of Service](https://www.pcprotect.com/terms "Navigate to https://www.pcprotect.com/terms")
 * [Privacy Policy](https://www.pcprotect.com/privacy "Navigate to https://www.pcprotect.com/privacy")
+* [CCPA](https://www.pcprotect.com/ccpa "Navigate to https://www.pcprotect.com/ccpa")
 
 [](https://www.facebook.com/pcprotecthelp "Navigate to https://www.facebook.com/pcprotecthelp")[](https://www.instagram.com/pcprotect_help/ "Navigate to https://www.instagram.com/pcprotect_help/")[](https://twitter.com/PCProtectHelp "Navigate to https://twitter.com/PCProtectHelp")
 
 Copyright © 2024
-
-This website makes use of cookies which are essential for its operation and therefore do not require your consent. More information can be found in our [Cookie Policy](https://www.pcprotect.com/cookie-policy "Navigate to https://www.pcprotect.com/cookie-policy").
 
 ##### 30 Day Money-Back Guarantee
 
