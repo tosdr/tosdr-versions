@@ -1,6 +1,6 @@
 ![matomo](https://piwik.ovpn.se/piwik.php?idsite=1)
 
-**[Special Offer: Save €144 on our annual subscription](https://www.ovpn.com/en/pricing?package=year-b)**
+**[Special Offer: Save $144 on our annual subscription](https://www.ovpn.com/en/pricing?package=year-b)**
 
 [![](https://www.ovpn.com/images/logos/logo.svg "OVPN")](https://www.ovpn.com/en)
 
@@ -8,13 +8,13 @@ Disconnected
 
 IP address
 
-51.195.149.220
+206.81.0.208
 
 Internet provider
 
-![gb](/images/flags/4x3/gb.svg)
+![us](/images/flags/4x3/us.svg)
 
-OVH Ltd
+Digital Ocean
 
 Not secure
 
@@ -447,6 +447,6 @@ Press
 
 WireGuard® is a registered trademark of Jason A. Donenfeld.
 
-[EUR – €](#)
+[USD – $](#)
 
-SEK – kr USD – $
+EUR – € SEK – kr
