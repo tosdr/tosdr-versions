@@ -350,16 +350,7 @@
     Cloud postal processing for USPS/Canada Post mail.](https://www.melissa.com/service/presort/uploadws.aspx)
     
 * [Data Marketplace](https://www.melissa.com/marketplace)
-* [Pricing](#)
-    * [Product & Service Pricing
-        
-        Melissa credit based services & pricing.](https://www.melissa.com/pricing/)
-    
-    * * *
-    
-    * [Purchase Credits
-        
-        Activate or purchase Melissa credits.](https://www.melissa.com/pricing/purchase)
+* [Pricing](https://www.melissa.com/pricing)
 * [Support](https://www.melissa.com/company/product-support)
 * [More](#)
     
