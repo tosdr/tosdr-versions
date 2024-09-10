@@ -2,13 +2,13 @@ Latest News —
 
 [Dexerto releases feature-length Valorant documentary in association with Fnatic
 
-![](https://assets-global.website-files.com/5f7db75091b22b641a769633/603fcc3205677e3186a23e43_Dexerto_Icon_Arrow_Right.svg)](https://www.dexerto.media/press/dexerto-releases-feature-length-valorant-documentary-in-association-with-fnatic)
+![](https://cdn.prod.website-files.com/5f7db75091b22b641a769633/603fcc3205677e3186a23e43_Dexerto_Icon_Arrow_Right.svg)](https://www.dexerto.media/press/dexerto-releases-feature-length-valorant-documentary-in-association-with-fnatic)
 
 [Contact us](https://www.dexerto.media/contact-us)
 
 [Contact us](https://www.dexerto.media/contact-us)
 
-[![Dexerto: Home](https://assets-global.website-files.com/5f7db75091b22b641a769633/66046350518c768e0314def5_Dexerto-Media-Light_Regular.svg)](https://www.dexerto.media/)
+[![Dexerto: Home](https://cdn.prod.website-files.com/5f7db75091b22b641a769633/66046350518c768e0314def5_Dexerto-Media-Light_Regular.svg)](https://www.dexerto.media/)
 
 [Home](https://www.dexerto.media/)[BRANDS](https://www.dexerto.media/our-properties)[Services](https://www.dexerto.media/services)[Press](https://www.dexerto.media/press)[Careers](https://www.dexerto.media/careers)[CONTACT US](https://www.dexerto.media/contact-us)
 
@@ -151,7 +151,7 @@ London EC2A 4NE
 
 [View map](#)
 
-[![](https://assets-global.website-files.com/5f7db75091b22b641a769633/603f49dc489ddcab6766c867_dexerto_logomark_white.svg)](https://www.dexerto.media/)
+[![](https://cdn.prod.website-files.com/5f7db75091b22b641a769633/603f49dc489ddcab6766c867_dexerto_logomark_white.svg)](https://www.dexerto.media/)
 
 Copyright © 2024 Dexerto.  
 All rights reserved.
@@ -167,9 +167,9 @@ All rights reserved.
 * [Twitter](http://www.twitter.com/dexerto)
 * [Linkedin](https://www.linkedin.com/company/dexerto-ltd)
 
-* [![](https://assets-global.website-files.com/5f7db75091b22b641a769633/603f49dc489ddcab6766c867_dexerto_logomark_white.svg)](http://www.dexerto.com/)
-* [![](https://assets-global.website-files.com/5f7db75091b22b641a769633/5f88594f579af95e917fc40e_Brand%20-%20Charlie%20Intel.svg)](https://charlieintel.com/)
+* [![](https://cdn.prod.website-files.com/5f7db75091b22b641a769633/603f49dc489ddcab6766c867_dexerto_logomark_white.svg)](http://www.dexerto.com/)
+* [![](https://cdn.prod.website-files.com/5f7db75091b22b641a769633/5f88594f579af95e917fc40e_Brand%20-%20Charlie%20Intel.svg)](https://charlieintel.com/)
 
 [Website by Ostmodern
 
-![](https://assets-global.website-files.com/5f7db75091b22b641a769633/5f88661702714acd8d422195_Ostmodern.svg)](http://www.ostmodern.co.uk/)
+![](https://cdn.prod.website-files.com/5f7db75091b22b641a769633/5f88661702714acd8d422195_Ostmodern.svg)](http://www.ostmodern.co.uk/)
