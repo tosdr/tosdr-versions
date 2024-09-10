@@ -63,18 +63,28 @@ We, eras, take the protection of your personal data very seriously and strictly 
 
 This privacy notice gives you information on how we collect and process your personal data through your use of this site and any data you may provide if you contact us regarding our products and services.
 
-We have appointed a data protection officer (DPO) who is responsible for monitoring and providing guidance with our GDPR status. If you have any questions about this privacy notice, including any requests to exercise your legal rights, please contact the DPO using the contact information in section 15 of this privacy notice.
+We have appointed a data protection officer (DPO) who is responsible for monitoring and providing guidance with our GDPR status. If you have any questions about this privacy notice, including any requests to exercise your legal rights, please contact the DPO using the contact information in [section 16](#16) of this privacy notice.
 
 2\. Why We Collect Your Personal Information [↑](#top)
 ------------------------------------------------------
 
 We collect your personal data for one of the following purposes:
 
+### 2.1 All Users
+
 * • To manage communications between you and us
-* • Where we need to perform the contract we have entered into with you
 * • To provide you with information you have requested or which we feel may be of interest to you
 * • To ensure the safe operation of our website and to monitor the performance of our website
+
+### 2.2 Clients
+
+* • Where we need to perform the contract we have entered into with you
 * • For marketing and advertising purposes
+
+### 2.3 Assessment Participants
+
+* • To personalise reports on the results of your assessments
+* • To provide assistance and support
 
 3\. Lawful Basis of Processing Information
 ------------------------------------------
@@ -110,7 +120,13 @@ We may also collect your data through Third Parties such as professional confere
 5\. How Long We Keep Information for? [↑](#top)
 -----------------------------------------------
 
-We pride ourselves on ensuring that your personal data is only retained for the period that we need it for, or in accordance with laws, regulations and professional obligations that we are subject to. All personal information collected has a defined retention period, which is in-line with our retention policy. If you would like to find out how long your information is being retained, please see "additional information", section 17 of this policy.
+### 5.1 Assessment Participants
+
+If you have been asked to complete an assessment via The Psychometric Portal we (eras ltd) act only as the **data processor**, it is our client that has asked you to complete the assessment that is the **data controller** and is responsible for defining the retention period for your data.
+
+### 5.2 Others
+
+We pride ourselves on ensuring that your personal data is only retained for the period that we need it for, or in accordance with laws, regulations and professional obligations that we are subject to. All personal information collected has a defined retention period, which is in-line with our retention policy. If you would like to find out how long your information is being retained, please see "additional information", [section 16](#16) of this policy.
 
 6\. Security of Personal Information [↑](#top)
 ----------------------------------------------
@@ -119,17 +135,17 @@ We take the responsibility for protecting your privacy very seriously and we wil
 
 We have policies and procedures to handle any potential data security breaches and data subjects, third parties and any applicable regulators will be notified where we are legally required to do so.
 
-We have ensured that all employees have had information security and data protection training. If you would like more details of the security we have in place, please see "additional information", section 17 of this policy.
+We have ensured that all employees have had information security and data protection training. If you would like more details of the security we have in place, please see "additional information", [section 16](#16) of this policy.
 
 7\. Children's Information [↑](#top)
 ------------------------------------
 
-We do not knowingly collect information on children. If we have collected personal information on a child, please contact us immediately using the details in section 15, so we can remove this information without any undue delay.
+We do not knowingly collect information on children. If we have collected personal information on a child, please contact us immediately using the details in [section 16](#16) , so we can remove this information without any undue delay.
 
 8\. Your Individual Rights [↑](#top)
 ------------------------------------
 
-In this Section, we have summarised the rights that you have under General Data Protection Regulation. Some of the rights are complex, and not all the details have been included in our summaries. Accordingly, you should read the relevant laws and guidance from the regulatory authorities for a full explanation of these rights.
+In this section, we have summarised the rights that you have under General Data Protection Regulation. Some of the rights are complex, and not all the details have been included in our summaries. Accordingly, you should read the relevant laws and guidance from the regulatory authorities for a full explanation of these rights.
 
 Your principal rights under General Data Protection Regulation and when you can exercise them are as follows:
 
@@ -143,7 +159,7 @@ Your principal rights under General Data Protection Regulation and when you can 
 | Right to restrict processing | You may ask us to restrict the processing of your personal data. This means we will still hold it but not process it. This is a conditional right which may only be exercised when:<br><br>* Processing is unlawful<br>* We no longer need the personal data, but it is required for a legal process<br>* You have exercised your right to object to processing and require processing to be halted while a decision on the request to object is made.<br>* If you are exercising your right to rectification |
 | Right to data portability | You can request that your personal data is transferred to another controller or processor in a machine-readable format if:<br><br>* Processing is based on consent<br>* Processing is by automated means (i.e. not paper based)<br>* Processing is necessary for the fulfilment of a contractual obligation |
 
-If you have any question about these rights, please see "additional information", section 15 of this policy.
+If you have any question about these rights, please see "additional information", [section 16](#16) of this policy.
 
 9\. Consent [↑](#top)
 ---------------------
@@ -168,7 +184,7 @@ Your personal data is not used in any automated decision making (a decision made
 13\. Transfers to Third Parties [↑](#top)
 -----------------------------------------
 
-eras may disclose your personal data, listed in section 4 to some third parties to help us deliver our services/products. All third parties are contractually bound to protect the personal data we provide to them. We may use several or all of the following categories of recipients:
+eras may disclose your personal data, listed in [section 4](#4) to some third parties to help us deliver our services/products. All third parties are contractually bound to protect the personal data we provide to them. We may use several or all of the following categories of recipients:
 
 * • Business partners, suppliers, contractors for the performance of any contract we enter into with them or you
 * • Companies within our group where necessary for administrative purposes and to provide services to you
@@ -190,7 +206,7 @@ Where personal data is transferred outside of the EEA to a country without an ad
 
 * • Standard Contractual Clauses
 
-For more information about transfers and safeguarding measures, please contact us using the information in section 17.
+For more information about transfers and safeguarding measures, please contact us using the information in [section 16](#16) .
 
 15\. Right to Complaint [↑](#top)
 ---------------------------------
@@ -224,7 +240,7 @@ Your trust is important to us. That is why we are always available to talk with 
 17\. Policy Review and Amendments [↑](#top)
 -------------------------------------------
 
-We keep this Policy under regular review. This Policy was last updated on 17/11/2023
+We keep this Policy under regular review. This Policy was last updated on 05/09/2024
 
 We reserve the right to update this privacy notice at any time, and we will provide you with a new privacy notice when we make any substantial updates. We may also notify you in other ways from time to time about the processing of your personal information.
 
