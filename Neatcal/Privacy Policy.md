@@ -156,4 +156,4 @@ Last Updated: April 15, 2020
 * [Terms of Service](https://www.neatcal.com/tos)
 * [Google API Services Usage Disclosure](https://www.neatcal.com/google-api-disclosure)
 
-[![](img/whatsapp.png)](https://wa.me/908503090449)
+[![](../img/whatsapp.png)](https://wa.me/908503090449)
