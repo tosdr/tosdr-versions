@@ -22,7 +22,7 @@ Medium Terms of Service
 **Effective: September 1, 2020**
 --------------------------------
 
-[![Medium](https://miro.medium.com/v2/resize:fill:88:88/1*sHhtYhaCe2Uc3IU0IgKwIQ.png)](https://medium.com/@Medium?source=post_page-----9db0094a1e0f--------------------------------)[![Medium Policy](https://miro.medium.com/v2/resize:fill:48:48/1*vBt1UiqgcNkimnXaq_UKdA.png)](https://policy.medium.com/?source=post_page-----9db0094a1e0f--------------------------------)
+[![Medium](https://miro.medium.com/v2/resize:fill:88:88/1*4eBYLmk70ln9psBY4_bL9A.jpeg)](https://medium.com/@Medium?source=post_page-----9db0094a1e0f--------------------------------)[![Medium Policy](https://miro.medium.com/v2/resize:fill:48:48/1*MZDzkz_hPaahhVwj5vvCoA.jpeg)](https://policy.medium.com/?source=post_page-----9db0094a1e0f--------------------------------)
 
 [Medium](https://medium.com/@Medium?source=post_page-----9db0094a1e0f--------------------------------)
 
@@ -189,11 +189,11 @@ Medium’s failure to exercise or enforce any right or provision of these Terms 
 \- [Membership Terms of Service](https://medium.com/paid-terms-of-service-cc7f8e165178)  
 \- [Username Policy](https://medium.com/medium-username-policy-7054a77fb04f)
 
-[Terms And Conditions](https://medium.com/tag/terms-and-conditions?source=post_page-----9db0094a1e0f---------------terms_and_conditions-----------------)
+[Terms And Conditions](https://medium.com/tag/terms-and-conditions?source=post_page-----9db0094a1e0f--------------------------------)
 
-[Terms](https://medium.com/tag/terms?source=post_page-----9db0094a1e0f---------------terms-----------------)
+[Terms](https://medium.com/tag/terms?source=post_page-----9db0094a1e0f--------------------------------)
 
-[Medium](https://medium.com/tag/medium?source=post_page-----9db0094a1e0f---------------medium-----------------)
+[Medium](https://medium.com/tag/medium?source=post_page-----9db0094a1e0f--------------------------------)
 
 [](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fpolicy%2F9db0094a1e0f&operation=register&redirect=https%3A%2F%2Fpolicy.medium.com%2Fmedium-terms-of-service-9db0094a1e0f&user=Medium&userId=504c7870fdb6&source=-----9db0094a1e0f---------------------clap_footer-----------)
 
@@ -205,7 +205,7 @@ Medium’s failure to exercise or enforce any right or provision of these Terms 
 
 [](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9db0094a1e0f&operation=register&redirect=https%3A%2F%2Fpolicy.medium.com%2Fmedium-terms-of-service-9db0094a1e0f&source=--------------------------bookmark_footer-----------)
 
-[![Medium](https://miro.medium.com/v2/resize:fill:144:144/1*sHhtYhaCe2Uc3IU0IgKwIQ.png)](https://medium.com/@Medium?source=post_page-----9db0094a1e0f--------------------------------)[![Medium Policy](https://miro.medium.com/v2/resize:fill:64:64/1*vBt1UiqgcNkimnXaq_UKdA.png)](https://policy.medium.com/?source=post_page-----9db0094a1e0f--------------------------------)
+[![Medium](https://miro.medium.com/v2/resize:fill:144:144/1*4eBYLmk70ln9psBY4_bL9A.jpeg)](https://medium.com/@Medium?source=post_page-----9db0094a1e0f--------------------------------)[![Medium Policy](https://miro.medium.com/v2/resize:fill:64:64/1*MZDzkz_hPaahhVwj5vvCoA.jpeg)](https://policy.medium.com/?source=post_page-----9db0094a1e0f--------------------------------)
 
 Follow
 
