@@ -11,8 +11,6 @@ Sign in
 
 * [Explore](https://www.momondo.com/explore/)
 
-Privacy Preferences
-
 [Trips](https://www.momondo.com/trips)
 
 English
