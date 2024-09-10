@@ -22,9 +22,9 @@
         * [Customer Engagement
             
             Phone system, softphone + new digital channels](https://www.logmein.com/connect/customer-engagement-software)
-        * [Complete CX
+        * [CX
             
-            Phone system, softphone, digital channels + performance insights](https://www.logmein.com/connect/customer-experience-platform)
+            Phone system, softphone, digital channels, advanced reporting + attendant console](https://www.logmein.com/connect/customer-experience-platform)
         * [GoTo Connect Contact Center
             
             AI-powered, cloud-based contact center software](https://www.logmein.com/connect/contact-center)
@@ -50,15 +50,18 @@
         * [GoTo Resolve
             
             All-in-one IT management & support](https://www.logmein.com/it-management/resolve)
-        * [Rescue
+        * [Remote Access
             
-            Enterprise remote support software](https://www.logmeinrescue.com/)
-        * [GoToMyPC
+            Securely connect to and control owned devices](https://www.logmein.com/it-management/solutions/remote-access)
+        * [Remote Support
             
-            Remote access to any computer](https://get.gotomypc.com/)
-        * [Miradore
+            For ad-hoc remote support with integrated ticketing](https://www.logmein.com/it-management/solutions/remote-support)
+        * [RMM
             
-            Mobile device management software](https://www.miradore.com/)
+            For secure access, monitoring, automation, & more](https://www.logmein.com/it-management/solutions/rmm)
+        * [Mobile Device Management
+            
+            Manage and secure mobile devices, tablets & more](https://www.logmein.com/it-management/solutions/mdm-software)
     
     [See All Products](https://www.logmein.com/products)
     
@@ -125,7 +128,7 @@
             The smarter way to manage devices, from anywhere](https://www.logmein.com/it-management/solutions/mdm-software)
         * [IT Asset Management
             
-            Track & monitor you fleet – all in one place](https://www.logmein.com/it-management/solutions/it-asset-management)
+            Track & monitor your fleet – all in one place](https://www.logmein.com/it-management/solutions/it-asset-management)
     
     [See All Solutions](https://www.logmein.com/solutions)
     
@@ -166,7 +169,7 @@
             The latest features and integrations](https://www.logmein.com/resources/product-updates)
     * * ### Can AI Beat IT Burnout?
             
-            [![ ](/-/media/images/shared/header-primary-nav/ai.jpg?h=334&w=300&la=en&hash=F3EB657C8B81090CA3C7EDFC175B0198)
+            [![ ](/-/media/images/shared/header-primary-nav/ai.jpg?la=en&h=334&w=300&hash=F3EB657C8B81090CA3C7EDFC175B0198)
             
             new
             
@@ -356,9 +359,9 @@ Last Updated: July 2024 (2024.v2.0)
 
 [English](#)
 
-* [Nederlands](https://www.goto.com/nl/company/legal/terms-and-conditions)
-* [Français](https://www.goto.com/fr/company/legal/terms-and-conditions)
+* [Deutsch](https://www.goto.de/company/legal/terms-and-conditions)
 * [Español](https://www.goto.com/es/company/legal/terms-and-conditions)
+* [Français](https://www.goto.com/fr/company/legal/terms-and-conditions)
 * [Italiano](https://www.goto.com/it/company/legal/terms-and-conditions)
-* [Deutsch](https://www.goto.de/company/rechtliches/geschaftsbedingungen)
+* [Nederlands](https://www.goto.com/nl/company/legal/terms-and-conditions)
 * [Português](https://www.goto.com/pt/company/legal/terms-and-conditions)
