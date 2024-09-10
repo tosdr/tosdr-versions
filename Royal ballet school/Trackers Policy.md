@@ -24,6 +24,7 @@
         * [Inspire seminars](https://www.royalballetschool.org.uk/train/dancer-training/dance-teacher-training/inspire/)
         * [Enlighten webinars](https://www.royalballetschool.org.uk/train/dancer-training/dance-teacher-training/enlighten/)
         * [Teacher Observation Programme](https://www.royalballetschool.org.uk/train/dancer-training/dance-teacher-training/dance-teacher-observation-programme/)
+        * [Teacher Training Fellowship](https://www.royalballetschool.org.uk/train/dancer-training/dance-teacher-training/teacher-training-fellowship/)
     * [Fees & Payment](https://www.royalballetschool.org.uk/information/fees/)
 * [Auditions](https://www.royalballetschool.org.uk/train/apply/) Menu Toggle
     * [Our auditions](https://www.royalballetschool.org.uk/train/apply/)
@@ -91,6 +92,7 @@ Search for:
         * [Inspire seminars](https://www.royalballetschool.org.uk/train/dancer-training/dance-teacher-training/inspire/)
         * [Enlighten webinars](https://www.royalballetschool.org.uk/train/dancer-training/dance-teacher-training/enlighten/)
         * [Teacher Observation Programme](https://www.royalballetschool.org.uk/train/dancer-training/dance-teacher-training/dance-teacher-observation-programme/)
+        * [Teacher Training Fellowship](https://www.royalballetschool.org.uk/train/dancer-training/dance-teacher-training/teacher-training-fellowship/)
     * [Fees & Payment](https://www.royalballetschool.org.uk/information/fees/)
 * [Auditions](https://www.royalballetschool.org.uk/train/apply/) Menu Toggle
     * [Our auditions](https://www.royalballetschool.org.uk/train/apply/)
@@ -139,6 +141,7 @@ Search for:
         * [Inspire seminars](https://www.royalballetschool.org.uk/train/dancer-training/dance-teacher-training/inspire/)
         * [Enlighten webinars](https://www.royalballetschool.org.uk/train/dancer-training/dance-teacher-training/enlighten/)
         * [Teacher Observation Programme](https://www.royalballetschool.org.uk/train/dancer-training/dance-teacher-training/dance-teacher-observation-programme/)
+        * [Teacher Training Fellowship](https://www.royalballetschool.org.uk/train/dancer-training/dance-teacher-training/teacher-training-fellowship/)
     * [Fees & Payment](https://www.royalballetschool.org.uk/information/fees/)
 * [Auditions](https://www.royalballetschool.org.uk/train/apply/) Menu Toggle
     * [Our auditions](https://www.royalballetschool.org.uk/train/apply/)
@@ -193,7 +196,7 @@ Quick Links
 * [Terms & Conditions](https://www.royalballetschool.org.uk/information/terms-and-conditions/)
 * [Privacy policy](https://www.royalballetschool.org.uk/privacy/)
 * [Cookie policy](https://www.royalballetschool.org.uk/cookie-policy/)
-* Manage Cookie Preferences
+* [Consent Preferences](#)
 
 ### Start typing and press enter to search
 
