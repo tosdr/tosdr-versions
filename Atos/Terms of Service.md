@@ -214,10 +214,10 @@ Homepage](https://atos.net/en)
         * [Media Resources](https://atos.net/en/newsroom/media-resources)
         * [Media Contacts](https://atos.net/en/newsroom#contacts)
         
-        24 July 2024
+        3 September 2024
         
-        Market Update - July 24, 2024
-        -----------------------------
+        Eviden helps optimize Electric Vehicle Manufacturing through the European e-BEAT Project
+        ----------------------------------------------------------------------------------------
         
     * [Blog](https://atos.net/en/atos-blog)˅
         
@@ -403,6 +403,7 @@ Homepage](https://atos.net/en)
         * [Annual General Meeting](https://atos.net/en/investors/annual-general-meeting)
         * [Analyst Coverage](https://atos.net/en/investors/analyst-coverage)
         * [Financial Calendar](https://atos.net/en/investors/financial-calendar)
+        * [Financial Restructuring](https://atos.net/en/investors/financial-restructuring)
         
         2023 Universal Registration Document
         ------------------------------------
