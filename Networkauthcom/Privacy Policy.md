@@ -469,11 +469,13 @@ Product End-of-Life (EOL) Policy
 
 * * *
 
-Cisco Meraki may find it necessary to discontinue products for a number of reasons, including product line enhancements, market demands, technology innovation, or the products simply mature over time and are replaced by functionally richer products. We have set our end-of-life (EOL) policy to help customers better manage their product end-of-life transition.
+Cisco Meraki may find it necessary to discontinue products and underlying firmware for a number of reasons, including product line enhancements, market demands, technology innovation, or the products simply mature over time and are replaced by functionally richer products. We have set our end-of-life (EOL) policy to help customers better manage their product end-of-life transition.
 
-When a product reaches EOL, Meraki is committed to communicating important milestones throughout the EOL period.  These notifications will include the initial EOL notification, the End of Sale (EOS) announcement, and the End of Support (EOST) dates, as well as other key information pertaining to Cisco Meraki products.
+FOR HARDWARE:
 
-Any products being discontinued will be announced as End of Sale and identified on the Cisco Meraki website up to six months prior to the discontinuation and EOS date (also known as the last order date). On the EOS Date, discontinued hardware products are removed from the price list and are no longer available for purchase. The device-specific licenses corresponding to discontinued hardware products will be available for purchase after the EOS Date, unless the license(s) is/are listed in the “End-of-Life Products” list provided below. Cisco Meraki typically provides support for a given product for a period of five (5) years after the EOS date. If the discontinued product is not available for replacement or repair of an in-warranty return, Cisco Meraki may replace the discontinued product with functionally equivalent hardware and transfer the remaining license term from the replaced product to the replacement hardware.
+When a product approaches its EOL, Cisco Meraki is committed to communicating important milestones throughout the EOL period.  These notifications will include the initial End of Sale (EOS) announcements, the official End of Sale (EOS) and End of Support (EOST) dates, as well as other key information pertaining to Cisco Meraki products.
+
+Any products being discontinued will be announced as End of Sale and identified on the Cisco Meraki website typically up to six months prior to the EOS date (also known as the last order date). On the EOS Date, discontinued hardware products are removed from the price list and are no longer available for purchase. The device-specific licenses corresponding to discontinued hardware products will be available for purchase after the EOS Date unless the license(s) is/are listed in the “End-of-Life Products” list provided below. Cisco Meraki typically provides support for a given product for a period of five (5) years after the EOS date. If the discontinued product is not available for replacement or repair of an in-warranty return, Cisco Meraki may replace the discontinued product with functionally equivalent hardware and transfer the remaining license term from the replaced product to the replacement hardware.
 
 Although legacy Cisco Meraki products typically can connect to our cloud-based management software for the entire useful life of the product, following the EOST Date, some things may change, including the following:
 
@@ -484,17 +486,37 @@ Although legacy Cisco Meraki products typically can connect to our cloud-based m
 
 If either of the first two situations above occurs, then we will use our best efforts to provide the customer with a workable solution for upgrading from the legacy hardware and, failing that, will credit the value of any remaining license time attributable to the legacy hardware to the customer’s Dashboard organization on a prorated basis.
 
-##### Summary
+Summary
 
 * End-of-Sale Announcement: Date of official end-of-sales notice, typically six months prior to the last order date.
-* End-of-Sale (EOS) Date: The last date to order the product through Cisco Meraki point-of-sale outlets. After this date, the product is no longer for sale via any channel.
+* End-of-Sale (EOS) Date: The last date to order the product through Cisco Meraki point-of-sale outlets. After this date, the product is no longer for sale via any Cisco Meraki authorized channel.
 * End-of-Support (EOST) Date: The last date a product will be affirmatively supported by Cisco Meraki, typically five years following the EOS Date.
 
 _\*Please note that announcements will be updated periodically to amend the functionally equivalent products._
 
-For a full list of product, announcements and dates, please refer to our [Product End-of-Life (EOL) Policies documentations article](https://documentation.meraki.com/General_Administration/Other_Topics/Product_End-of-Life_(EOL)_Policies).
+For a full list of products, announcements, and dates, please refer to our [Meraki End-of-Life (EOL) Products and Dates documentation article](https://documentation.meraki.com/General_Administration/Other_Topics/Meraki_End-of-Life_(EOL)_Products_and_Dates).
 
-In some limited cases, Cisco Meraki may also find it necessary to discontinue certain features. For more information, see the [WAN Optimization feature retirement notice](https://meraki.cisco.com/lib/pdf/eol/meraki_eol_wan_opt.pdf).
+In some limited cases, Cisco Meraki may also find it necessary to discontinue certain features.
+
+FOR FIRMWARE:
+
+To help our customers better manage their product end-of-life transition, Cisco Meraki aims to provide transparency with respect to key firmware lifecycle milestones. These milestones include the stable release date, firmware version restriction date, end of firmware maintenance date, and other key information pertaining to Cisco Meraki firmware. Definitions and descriptions of the terms referenced in the Product End of Life Milestones are included below.
+
+* Stable Release: The most recent Cisco Meraki Recommended firmware version that has been made generally available in the Cisco Meraki Dashboard.
+* Stable Release Date: The date on which the Stable Release is promoted and made generally available in the Cisco Meraki Dashboard.
+* Vintage Firmware: Older versions of firmware made generally available prior to the latest Stable Release.
+    * Engineering level support (e.g. patches, hotfixes, maintenance releases) will no longer be provided for Vintage Firmware. An update from these older versions may be required for troubleshooting purposes with Cisco Meraki Technical Support.
+* End of Firmware Maintenance (EFM) Date: The date a firmware version will no longer be provided Engineering level support by Cisco Meraki.
+    * The EFM Date typically aligns with the latest Stable Release Date and any firmware version that reaches the EFM Date will be considered Vintage Firmware.
+* Firmware Version Restriction (FVR) Date: The date when legacy hardware will no longer be eligible for future firmware upgrades. After the FVR Date, Engineering level support, if available, will only be provided for critical security vulnerabilities until the hardware reaches its EOST date and when reported to Cisco Meraki Technical Support.
+
+For any avoidance of doubt, access to Cisco Meraki Technical Support will continue to be provided with active licensing.
+
+##### Product End-of-Life Milestones
+
+_(Click the image to view larger)_ 
+
+[![](https://meraki.cisco.com/wp-content/uploads/2024/08/product_eol_milestones_web-1024x547.png)](https://meraki.cisco.com/wp-content/uploads/2024/08/product_eol_milestones_web.png)
 
 Return Policy and Requesting a RMA
 ----------------------------------
@@ -867,16 +889,15 @@ Below are some of the highlights of our [Online Privacy Statement](https://merak
 
 * As a global organization, Cisco Systems, Inc. and other Cisco Group Companies, as well as their respective business partners and suppliers, operate in countries located around the world. Cisco will transfer your Personal Data in accordance with approved transfer mechanisms as well as any applicable local legal requirements.
 * Regardless of where your Personal Data is processed, we implement appropriate safeguards to protect your Personal Data. For example, we enter into data protection agreements with our suppliers requiring them to adhere to a minimum standard for protecting your Personal Data. We have also implemented the following safeguards:
-
-* Cisco is certified under the APEC [Cross Border Privacy Rules system](http://cbprs.org/compliance-directory/cbpr-system/)and [Privacy Recognition for Processors](http://cbprs.org/compliance-directory/prp/) regarding personal data handling and transfers to/from the APEC member economies. For more information on the scope of our participation, or to [submit a privacy inquiry through BBB National Programs](https://bbbprograms.org/programs/all-programs/GlobalPrivacyDivision/gpd-complaints-portal), our Accountability Agent, please click on the official seal below:
-    
-    [![Cisco Systems Inc. confirmation seal](https://privacyseals.bbbprograms.org/seal/GetSealImage/1302745123)](https://privacyseals.bbbprograms.org/seal/Confirmation/1302745123 "Click for the Cross Border Privacy Rules Program Confirmation of Cisco Systems Inc.")
-    
-    [![Cisco Systems Inc. confirmation seal](https://privacyseals.bbbprograms.org/seal/GetSealImage/616030263)](https://privacyseals.bbbprograms.org/seal/Confirmation/616030263 "Click for the Privacy Recognition for Processors Program Confirmation of Cisco Systems Inc.")
-    
-* Cisco’s [Binding Corporate Rules – Controller (BCR-C)](https://www.cisco.com/c/en/us/about/trust-center/global-privacy-policy.html) provide that transfers made worldwide by Cisco entities bound by these rules as a controller of European Personal Data benefit from appropriate safeguards.
-* Cisco is also certified and adheres to the [EU-U.S. Data Privacy Framework (EU-U.S. DPF), the U.K. Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF)](https://www.dataprivacyframework.gov/s/) as set forth by the U.S. Department of Commerce regarding the collection, use, and processing of Personal Data from the EU, EEA, the U.K. (and Gibraltar), and Switzerland.
-* Cisco may also use the EU Standard Contractual Clauses (and/or their U.K. and Switzerland counterparts) to provide additional safeguards for Personal Data collected from the EU and EEA, the U.K., and Switzerland.
+    * Cisco is certified under the APEC [Cross Border Privacy Rules system](http://cbprs.org/compliance-directory/cbpr-system/)and [Privacy Recognition for Processors](http://cbprs.org/compliance-directory/prp/) regarding personal data handling and transfers to/from the APEC member economies. For more information on the scope of our participation, or to [submit a privacy inquiry through BBB National Programs](https://bbbprograms.org/programs/all-programs/GlobalPrivacyDivision/gpd-complaints-portal), our Accountability Agent, please click on the official seal below:
+        
+        [![Cisco Systems Inc. confirmation seal](https://privacyseals.bbbprograms.org/seal/GetSealImage/1302745123)](https://privacyseals.bbbprograms.org/seal/Confirmation/1302745123 "Click for the Cross Border Privacy Rules Program Confirmation of Cisco Systems Inc.")
+        
+        [![Cisco Systems Inc. confirmation seal](https://privacyseals.bbbprograms.org/seal/GetSealImage/616030263)](https://privacyseals.bbbprograms.org/seal/Confirmation/616030263 "Click for the Privacy Recognition for Processors Program Confirmation of Cisco Systems Inc.")
+        
+    * Cisco’s [Binding Corporate Rules – Controller (BCR-C)](https://www.cisco.com/c/en/us/about/trust-center/global-privacy-policy.html) provide that transfers made worldwide by Cisco entities bound by these rules as a controller of European Personal Data benefit from appropriate safeguards.
+    * Cisco is also certified and adheres to the [EU-U.S. Data Privacy Framework (EU-U.S. DPF), the U.K. Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF)](https://www.dataprivacyframework.gov/s/) as set forth by the U.S. Department of Commerce regarding the collection, use, and processing of Personal Data from the EU, EEA, the U.K. (and Gibraltar), and Switzerland.
+    * Cisco may also use the EU Standard Contractual Clauses (and/or their U.K. and Switzerland counterparts) to provide additional safeguards for Personal Data collected from the EU and EEA, the U.K., and Switzerland.
 
 ##### Questions, comments, or concerns
 
@@ -1272,9 +1293,8 @@ End Customer Agreement
 
 ##### Last Updated: November 17 , 2020
 
-Use of the Cisco Meraki products is governed by the Meraki Offer Description, published at [https://www.cisco.com/c/dam/en\_us/about/doing\_business/legal/OfferDescriptions/meraki.pdf](https://www.cisco.com/c/dam/en_us/about/doing_business/legal/OfferDescriptions/meraki.pdf) 
+Use of the Cisco Meraki products is governed by the Meraki Offer Description, published at [https://www.cisco.com/c/dam/en\_us/about/doing\_business/legal/OfferDescriptions/meraki.pdf](https://www.cisco.com/c/dam/en_us/about/doing_business/legal/OfferDescriptions/meraki.pdf)
 
-   
 Cisco Meraki provides certain translated versions of the Meraki Offer Description at the links below. Please note that these translations are provided for reference purposes only.
 
 To view the Cisco Meraki Offer Description in Japanese, please click [here.](https://meraki.cisco.com/lib/pdf/eol/meraki_offer_description_ja.pdf)
@@ -1327,9 +1347,8 @@ Potential customers can manage 100 devices in order to try Meraki Systems Manage
 * Provide valid information on the signup form, including your company email address
 * Be directly employed by your company
 
-SM Free 100 is only for internal use by your company. It is not for resale, distribution or service bureau use.  
-  
-  
+SM Free 100 is only for internal use by your company. It is not for resale, distribution or service bureau use.
+
 **Limit one SM Free 100 per organization and per individual.**
 
 Your use of Systems Manager is governed by our [End Customer Agreement](https://meraki.cisco.com/support/policies#end-customer-agreement). By accepting the SM Free 100 you represent that you are authorized by your employer to accept the SM Free 100 and that you will disclose receipt of the SM Free 100 to your employer as and if required. Notwithstanding the End Customer Agreement, Cisco Meraki may terminate the Free 100 program at any time, including managing up to 100 devices at no cost – but if we do that, we’ll give you plenty of notice. The recipient is responsible for taxes and duties, if any. Please contact your Cisco Meraki rep if you have any questions.
