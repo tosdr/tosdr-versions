@@ -47,9 +47,9 @@ This includes information you explicitly take steps to share with ACLU. This may
 * **Financial.** For example, the amount you plan to bequeath to ACLU.
 * **Health**. For example, that you have had an abortion or have a disability, and/or other information you provide to us about your health when seeking legal representation, when you tell your story in an ACLU campaign, and/or when you request an accommodation at an ACLU event.
 * **Interaction.** For example, purchase and donation history, membership status, and advocacy actions taken.
-* **Interests**. For example, civil liberties or campaigns you are particularly interested in hearing about, or more general information about your personal and professional interests that are relevant to your engagement with ACLU and our
+* **Interests**. For example, civil liberties or campaigns you are particularly interested in hearing about, or more general information about your personal and professional interests that are relevant to your engagement with ACLU and our work.
 * **Jurisdiction.** For example, your zip code or county to help us identify your voting district or current representatives.
-* **Legal**. For example, details about conditions of incarceration or other detention that may have violated your civil rights or liberties that you provide to us when seeking legal representation or to tell your story in an ACLU
+* **Legal**. For example, details about conditions of incarceration or other detention that may have violated your civil rights or liberties that you provide to us when seeking legal representation or to tell your story in an ACLU campaign.
 * **Preferences.** For example, your preferred method(s) of communication.
 * **Transaction**. For example, credit or debit card details that you provide to make a donation or purchase ACLU merchandise.
 * **User-created content**. For example, stories you provide to us as part of our storytelling campaigns or messages on issues we send to your legislative representatives on your behalf. This also includes photos, videos, audio, and other information you may submit to us.
