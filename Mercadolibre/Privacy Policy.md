@@ -2,7 +2,7 @@
 
 Ingresá lo que quieras encontrar
 
-[![Por 3.999 pesos ¡Suscribite al nivel 6!, Disney+ Incluído](https://http2.mlstatic.com/D_NQ_983407-MLA77032071380_062024-OO.jpg "Por 3.999 pesos ¡Suscribite al nivel 6!, Disney+ Incluído")](https://www.mercadolibre.com.ar/suscripciones/nivel-6#origin=banner-menu&me.audience=all&me.bu=9&me.bu_line=36&me.component_id=banner_menu_web_ml&me.content_id=ECOSYSTEM_LOYALTY_N6_BNR_MENU_3999&me.flow=146&me.logic=campaigns&me.position=0)
+[![Por 5.999 pesos ¡Suscribite al nivel 6!, Disney+ Incluído](https://http2.mlstatic.com/D_NQ_949969-MLA78885442021_092024-OO.jpg)](https://www.mercadolibre.com.ar/suscripciones/nivel-6#origin=banner-menu&me.audience=all&me.bu=9&me.bu_line=36&me.component_id=banner_menu_web_ml&me.content_id=ECOSYSTEM_LOYALTY_N6_BNR_MENU_3999&me.flow=146&me.logic=campaigns&me.position=0)
 
 [Ingresa tu domicilio](https://www.mercadolibre.com.ar/navigation/addresses-hub?go=https%3A%2F%2Fwww.mercadolibre.com.ar%2Fprivacidad%2Fdeclaracion-privacidad)
 
@@ -104,6 +104,10 @@ La Declaración de privacidad presenta modificaciones o actualizaciones de forma
 * [iphone 14 pro max](https://listado.mercadolibre.com.ar/iphone-14-pro-max)
 * [iphone 15](https://listado.mercadolibre.com.ar/iphone-15)
 * [iphone 15 pro max](https://listado.mercadolibre.com.ar/iphone-15-pro-max)
+* [iphone 16](https://listado.mercadolibre.com.ar/iphone-16)
+* [iphone 16 plus](https://listado.mercadolibre.com.ar/iphone-16-plus)
+* [iphone 16 pro](https://listado.mercadolibre.com.ar/iphone-16-pro)
+* [iphone 16 pro max](https://listado.mercadolibre.com.ar/iphone-16-pro-max)
 * [lavarropas](https://listado.mercadolibre.com.ar/lavarropas)
 * [lavarropas automatico](https://listado.mercadolibre.com.ar/lavarropas-automatico)
 * [lavarropas drean](https://listado.mercadolibre.com.ar/lavarropas-drean)
@@ -116,6 +120,7 @@ La Declaración de privacidad presenta modificaciones o actualizaciones de forma
 * [reloj inteligente](https://listado.mercadolibre.com.ar/reloj-inteligente)
 * [reloj smart watch](https://listado.mercadolibre.com.ar/reloj-smart-watch)
 * [samsung](https://listado.mercadolibre.com.ar/samsung)
+* [samsung a54](https://listado.mercadolibre.com.ar/samsung-a54)
 * [secador de pelo](https://listado.mercadolibre.com.ar/secador-de-pelo)
 * [smart tv](https://listado.mercadolibre.com.ar/smart-tv)
 * [smart tv 43 pulgadas](https://listado.mercadolibre.com.ar/smart-tv-43-pulgadas)
@@ -129,7 +134,6 @@ La Declaración de privacidad presenta modificaciones o actualizaciones de forma
 * [tv 55 pulgadas](https://listado.mercadolibre.com.ar/tv-55-pulgadas)
 * [ventiladores](https://listado.mercadolibre.com.ar/ventiladores)
 * [yogurtera](https://listado.mercadolibre.com.ar/yogurtera)
-* [samsung a54](https://listado.mercadolibre.com.ar/samsung-a54)
 
 Más información
 ---------------
@@ -175,6 +179,7 @@ Más información
 * [Disney+, Mercado Puntos](https://www.mercadolibre.com.ar/suscripciones/nivel-6#origin=footer_ml)
 * [Max, Mercado Puntos](https://www.mercadolibre.com.ar/suscripciones/max#origin=footer_ml)
 * [Paramount+, Mercado Puntos](https://www.mercadolibre.com.ar/suscripciones/paramount#origin=footer_ml)
+* [ViX Premium, Mercado Puntos](https://www.mercadolibre.com.ar/suscripciones/vix#origin=footer_ml)
 
 Copyright © 1999-2024 MercadoLibre S.R.L.
 
