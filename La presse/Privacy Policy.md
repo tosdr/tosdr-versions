@@ -261,16 +261,11 @@ H2Y 2Z4.
 
 [Par courriel](https://aide.lapresse.ca/hc/fr-ca/requests/new?ticket_form_id=1500001181141)
 
-![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%271688%27%20height=%27530%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+### Ensemble, continuons de faire vivre l’info.
 
-![](/_next/image?url=https%3A%2F%2Fcms-info.lapresse.ca%2Fapp%2Fuploads%2F2023%2F02%2FBloc-gris-11.png&w=3840&q=80)
+Vos dons permettent à nos journalistes de signer aujourd’hui les articles qui façonnent demain.
 
-### Ensemble, on fait vivre l’info.
-
-Les dons de nos lecteurs nous permettent d’offrir gratuitement une information de qualité pour tous.  
-Vous aussi, soutenez notre mission.
-
-[Faire un don](https://www.lapresse.ca/contribution/?contributionType=monthly&amount=25&utm_source=sitecorpo&utm_medium=apropos_accueil&utm_campaign=ensemble_continuons&utm_content=jesoutienslapresse&userInfo=true)
+Je soutiens La Presse
 
 ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2760%27%20height=%2760%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
