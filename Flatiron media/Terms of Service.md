@@ -15,12 +15,12 @@ Terms[admin](https://www.flatironmedia.com/author/admin/ "Posts by admin")2024-0
 
 ![Flatiron Media](https://flatironmedia.wpengine.com/wp-content/uploads/2018/06/footer-flatiron-logo.png) Customer Acquisition _Done Right_
 
-20 Jay St, Ste #1018, Brooklyn, NY 11201  
-Phone: 347-875-7729     Fax: 212-989-3264
+7014 13th Ave, ste 202, Brooklyn, NY 11228  
+Phone: 347-875-7729     Fax: 917-591-6797
 
 [LinkedIn](https://www.linkedin.com/company/flatiron-media/) [Twitter](https://twitter.com/FlatironMedia?lang=en)
 
-Copyright Flatiron Media 2021. All rights reserved.  
+Copyright Flatiron Media 2024. All rights reserved.  
 [Privacy policy](https://www.flatironmedia.com/privacy-policy/) | [Terms of use](https://www.flatironmedia.com/terms/)
 
 [Close Sliding Bar Area](#)
