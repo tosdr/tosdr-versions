@@ -4,7 +4,7 @@
 
 [Close Search](#)
 
-Get $200 Off Gutter Helmet Today!\*
+Get $250 Off Gutter Helmet Today!\*
 
 [![Gutter Helmet](https://www.gutterhelmet.com/wp-content/uploads/2023/08/Gutter-Helmet-Logo.png)![Gutter Helmet](https://www.gutterhelmet.com/wp-content/uploads/2023/08/Gutter-Helmet-Logo.png)](https://www.gutterhelmet.com/)
 
@@ -29,27 +29,6 @@ Get $200 Off Gutter Helmet Today!\*
 * [](https://www.facebook.com/getgutterhelmet/)
 * [](https://www.linkedin.com/company/gutter-helmet)
 * [](https://www.instagram.com/getgutterhelmet/)
-
-REQUEST A FREE ESTIMATE
------------------------
-
-Name(Required)
-
- First Last
-
-Phone(Required)
-
-Email(Required)
-
-ZIP Code(Required)
-
-Name
-
-This field is for validation purposes and should be left unchanged.
-
-        
-
-Δ
 
 PRIVACY POLICY
 --------------
@@ -247,7 +226,7 @@ We may update this Policy periodically as we offer new products and services, an
 * [Process](https://www.gutterhelmet.com/our-process/)
 * [Unfiltered Facts](https://www.gutterhelmet.com/proudly-unfiltered/)
 * [Locations](https://www.gutterhelmet.com/dealers/)
-* [Site Map](https://gutterhelm.wpenginepowered.com/sitemap.xml)
+* [Site Map](https://www.gutterhelmet.com/sitemap_index.xml)
 * [Get In Touch](#contact_form)
 * [Warranty Registration](https://www.gutterhelmet.com/warranty-registration/)
 * [Become A Dealer](https://www.gutterhelmet.com/become-a-gutter-helmet-dealer/)
@@ -294,6 +273,6 @@ I'm interested in possibly having Gutter Helmet on my home, by submitting this o
 
 ×
 
-                                              
+                                       
 
 Please note that we use cookies necessary for the functioning of our website.[I Understand](#)[Privacy policy](https://www.gutterhelmet.com/privacy-policy/)
