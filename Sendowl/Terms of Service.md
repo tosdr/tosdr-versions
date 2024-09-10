@@ -2,11 +2,11 @@
 
 [Sign up](https://dashboard.sendowl.com/signup)
 
-[Benefits](https://www.sendowl.com/benefits)[Pricing](https://www.sendowl.com/pricing)[Referral](https://www.sendowl.com/referral)
+[Platform](https://www.sendowl.com/platform)[Pricing](https://www.sendowl.com/pricing)[Referral](https://www.sendowl.com/referral)
 
 [Log in](https://dashboard.sendowl.com/login)[Sign up](https://dashboard.sendowl.com/signup)
 
-[Benefits](https://www.sendowl.com/benefits)[Pricing](https://www.sendowl.com/pricing)[Referral](https://www.sendowl.com/referral)[Log in](https://dashboard.sendowl.com/login)
+[Platform](https://www.sendowl.com/platform)[Pricing](https://www.sendowl.com/pricing)[Referral](https://www.sendowl.com/referral)[Log in](https://dashboard.sendowl.com/login)
 
 #### Get started  
 for free.
@@ -17,6 +17,8 @@ for free.
 
 Terms of Service
 ================
+
+**Last updated: July 31, 2024**
 
 Using SendOwl (sendowl.com) constitutes acceptance of these Terms Of Service (“TOS”) and the [Acceptable Use Policy](https://www.sendowl.com/aup) (“AUP”). Before registering on the site you must read and agree to the TOS and AUP. By registering for access to SendOwl you are accepting the TOS and AUP and are legally bound by them.
 
@@ -62,9 +64,17 @@ Merchants and Affiliates create a password in order to access the Service. These
 
 Merchants and Affiliates may not use their account to attempt to breach the security of another account, the Service in general or to attempt to gain unauthorized access to another network or server. Any such attempts will result in immediate termination of their account.
 
+#### Merchant Content & Trademarks
+
+You represent and warrant that you are the owner of, or otherwise have the right to provide, all content that you submit, post and/or otherwise transmit through the Services (“Merchant Content”). We do not claim ownership of the Merchant Content you provide to us; however, we do require a license to such Merchant Content. You hereby grant us a non-exclusive, transferable, sub-licensable, royalty-free, worldwide right and license to host, use, distribute, modify, copy, store, publicly perform, communicate to the public, broadcast, reproduce, make available, display, translate, and create derivative works of any Merchant Content provided by you in connection with the Services. We may use our rights under this license to operate, provide, and promote the Services and to perform our obligations and exercise our rights under the TOS. You represent, warrant, and agree that you have all necessary rights in the Merchant Content to grant this license. You irrevocably waive any and all moral rights you may have in the Merchant Content in favor of SendOwl and agree that this waiver may be invoked by anyone who obtains rights in the content through us, including anyone to whom SendOwl may transfer or grant (including by way of license or sublicense) any rights in the Merchant Content.
+
+You hereby grant us a non-exclusive, transferable, sub-licensable, royalty-free, worldwide right and license to use the names, trademarks, service marks and logos associated with your Merchant Content and your Products to operate, provide, and promote the Services and to perform our obligations and exercise our rights under these TOS. This license will survive any termination of the TOS solely to the extent that SendOwl requires the license to exercise any rights or perform any obligations that arose during the term of the TOS.
+
+You hereby represent and warrant that all consents have been obtained from, and all notices (including privacy notices) have been given to, all Users and others as may be required by applicable privacy laws for your use of the Services and your collection, use, sharing, retention, or other processing of personal information.
+
 #### File Storage
 
-You retain all rights and intellectual property rights embodied in Your Files, exclusive of any content provided by SendOwl. You are responsible for the content of your files, backing up your files and the sales of your files. SendOwl acts as a technology provider to distribute Your Products and cannot be held responsible for unintended distribution due to incorrect configuration of Products under the Service, for example but limited to, setting the wrong price, setting the wrong stock levels or creating too many discount codes.
+Except as otherwise provided in these TOS, you retain all rights and intellectual property rights embodied in Your Files, exclusive of any content provided by SendOwl. You are responsible for the content of your files, backing up your files and the sales of your files. SendOwl acts as a technology provider to distribute Your Products and cannot be held responsible for unintended distribution due to incorrect configuration of Products under the Service, for example but limited to, setting the wrong price, setting the wrong stock levels or creating too many discount codes.
 
 SendOwl does not systematically review all files that you store with the Service. It is your responsibility to ensure the files are legal and within the conditions laid out in our Acceptable Use Policy or other policies. SendOwl reserves the right to periodically review a file’s contents for violations of law or any of our policies. Violations may result in the file being removed or your account being terminated.
 
@@ -230,6 +240,7 @@ for free.
 
 Product
 
+* [Platform](https://www.sendowl.com/platform)
 * [Benefits](https://www.sendowl.com/benefits)
 * [Pricing](https://www.sendowl.com/pricing)
 
@@ -253,7 +264,6 @@ Community
 * [![Youtube](/_next/static/media/icon-footer-youtube.ee917f25.svg)](https://www.youtube.com/@Sendowl)
 * [![TikTok](/_next/static/media/icon-footer-tiktok.59db2fe7.svg)](https://www.tiktok.com/@sendowl)
 
-* [Product categories](https://www.sendowl.com/categories)
 * [Terms of Service](https://www.sendowl.com/terms)
 * [Privacy Policy](https://www.sendowl.com/privacy)
 * [Cookies](https://www.sendowl.com/cookies)
