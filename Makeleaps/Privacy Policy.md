@@ -1,4 +1,4 @@
- [![makeleaps A RICOH Company](https://www.makeleaps.jp/wp-content/themes/makeleaps/res/img/home/logos/makeleaps-ricoh.svg)](https://www.makeleaps.jp/)![](https://www.makeleaps.jp/wp-content/themes/makeleaps/res/img/home/icons/icon-list-menu.svg)
+ [![MakeLeaps A RICOH Company](https://www.makeleaps.jp/wp-content/themes/makeleaps/res/img/home/logos/makeleaps-ricoh.svg)](https://www.makeleaps.jp/)[![MakeLeaps 設立10周年特設ページ](https://www.makeleaps.jp/wp-content/themes/makeleaps/res/img/10yrs/10yrs_logo.png)](https://www.makeleaps.jp/special/10th-anniversary/)![](https://www.makeleaps.jp/wp-content/themes/makeleaps/res/img/home/icons/icon-list-menu.svg)
 
 * [料金プラン](https://www.makeleaps.jp/pricing/)
     * [メイクリープス料金](https://www.makeleaps.jp/pricing/)
@@ -139,7 +139,7 @@ Email: [contact@makeleaps.com](mailto:contact@makeleaps.com?segment_aid=c011aa76
 
 当社は、法令等の変更や必要に応じて、本プライバシーポリシーを改定することがあります。その際は、改定毎に最新のプライバシーポリシーを当社のウェブサイトに掲載いたしますので、ご確認ください。
 
-メイクリープス株式会社　代表取締役CEO　児玉 哲  
+メイクリープス株式会社　代表取締役CEO　岡田 泰  
 〒153-0061 東京都目黒区中目黒3-1-5 YK中目黒ビル2F
 
 制定日：2012年  5月20日  
