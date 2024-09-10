@@ -1,295 +1,193 @@
-Terms of Service & EULA
-=======================
+Terms of Service & End User License Agreement
+=============================================
 
-Please read the terms and conditions of this contract carefully. It is an important document and you must agree to the terms and conditions before using the Services. This contract sets out:
+Last Updated: April 16th, 2024
 
-* your legal rights and responsibilities;
-* our legal rights and responsibilities; and
-* certain key information required by law.
+These Terms of Service (“Terms”), End User License Agreement, and other documents referenced herein (collectively, the “Agreement”) are a binding agreement between Total Security Limited (incorporated in England under number 10161957) doing business (or trading) as Scanguard (“Total Security Group”, “we,” “us,” or “our”) and you (“you,” “yourself,” “User,” or “Customer”). This Agreement sets forth the terms and conditions of your use of all Total Security Group's products and services (collectively, the “Services”). Within the scope of such Services, this Agreement covers both (i) your service plan; and (ii) any additional services you order to supplement your service plan, as further described on Our Services & Prices page. By accessing, using, purchasing any product or service offered by us, or registering for or receiving any of the Services, you are agreeing to be bound by this Agreement.
 
-These terms and conditions are for customers based and using the Services in the United Kingdom. If you are contracting with us from outside of the United Kingdom, other terms and conditions will apply.
+**If you do not accept and agree to this Agreement then you must not access or use the Services.**
 
-#### Summary of some of the key parts of this contract
+**IMPORTANT NOTICE: YOUR USE OF THE SERVICES IS SUBJECT TO A MANDATORY ARBITRATION PROVISION AND CLASS ACTION WAIVER SET FORTH BELOW WHICH REQUIRE YOU TO ARBITRATE DISPUTES WITH US ON AN INDIVIDUAL BASIS AND WAIVE YOUR RIGHT TO A COURT HEARING, RIGHT TO A JURY TRIAL, AND RIGHT TO PARTICIPATE IN A CLASS ACTION UNLESS YOU OPT-OUT.**
 
-* You are entering into a contract with us for the period you agree to when you sign up for the Services. We provide you with our fees and charges in our “pricing matrix” before you agree to the subscription plan , which can found here [https://www.scanguard.com/subscription-pricing-matrix](https://www.scanguard.com/subscription-pricing-matrix)
-* Sometimes we offer discounted introductory pricing plans. This discount will not be applied when your subscription plan renews and our price plans are flexible and are subject to change. You can see further information in our pricing matrix.
-* Your subscription plan will automatically renew at the subscription price payable at the time of renewal where you have not told us that you want to cancel your subscription plan at the end of the particular period you subscribed to, and you have not opted out of automatic renewal. Please see the section on **[Subscription Plans and Automatic Renewal](#subscription-plans-and-automatic-renewal)** at clause 11.
-* Your Control Panel provides you with options to manage your subscription plan, edit your payment method on file, opt out of automatic renewals and in some situations allows you to obtain a refund where eligible. These settings can be found within the '**[My Services](https://help.scanguard.com/__/billing/preferences/-/manage-billing-preferences)**' section.
-* We provide you with specific cancellation and refund rights in addition to your statutory rights. You can read about this under the section **[Cancellation and Refunds](#cancellation-and-termination)** at clause 13.
-* You have rights as a consumer under the Consumer Rights Act 2015 and we are under a legal duty to supply our Services in conformity with this contract. We set these rights out under the **[Warranties](#warranties)** section at clause 15 but in summary:
-    * digital content (like our software) must be as described, fit for purpose and of satisfactory quality; and
-    * our services must be performed using reasonable skill and care.
-* Please review the 'key technical information' [here](https://www.scanguard.com/system-requirements) to check that your computer or device meets the hardware and software requirements.
-* We exclude certain types of liability under this contract and limit our liability to you, where we can can by law. You need to read and understand the section on **[Liability](#liability)** at 16 before agreeing to these terms and conditions
-* you can visit our [Support Knowledge Base](https://help.scanguard.com/__/contact/support/terms) and this provides you with guides and information on how to use our software.
-* You can always ask us any questions about the terms of this contract, by contacting at us at our [Support Knowledge Base](https://help.scanguard.com/__/contact/support/terms).
+**For Users in the United States: Mandatory Arbitration and Class Action Waiver**
 
-In this contract:
+1. If you have a complaint, dispute, or controversy, you agree to first contact us by email at [complaints@scanguard.com](mailto:complaints@scanguard.com) or by mail at Total Security US LLC, Attention: Legal, WeWork Giralda Place, 2222 Ponce De Leon Blvd, Blvd Miami, FL33134, to attempt to resolve the dispute or controversy informally. You and Total Security Group agree that we will resolve any disputes between us that cannot be resolved through such informal process or through negotiation within 120 days through binding and final arbitration instead of through court proceedings. You and Total Security Group hereby waive any right to a jury trial of any Claim (defined below). All controversies, claims, counterclaims, or disputes arising between you and Total Security Group relating to these Terms of Service, End User License Agreement, [Privacy Policy](https://www.scanguard.com/privacy), any purchase you make from Total Security Group, any communications between you and Total Security Group (either directly or through a third party), and/or any aspect of our relationship with you (each a “Claim”) shall be submitted for binding arbitration in accordance with the Rules of the American Arbitration Association, Consumer Arbitration Rules (“AAA Rules”). The AAA’s Rules are available at [www.adr.org](http://www.adr.org/) or by calling 1-800-778-7879. The arbitrator shall be selected by agreement of the parties or, if the parties cannot agree, chosen in accordance with the AAA Rules. The arbitration will be heard and determined by a single arbitrator in the English language in a location mutually agreed upon by us, or telephonically. The arbitrator's decision in any such arbitration will be final and binding upon the parties and may be enforced in any court of competent jurisdiction. The arbitrator shall have the exclusive and sole authority to resolve any dispute relating to the interpretation, construction, validity, applicability, or enforceability of these Terms of Service, End User License Agreement, [Privacy Policy](https://www.scanguard.com/privacy), this arbitration provision, and any other terms incorporated by reference into this Agreement. The arbitrator shall have the exclusive and sole authority to determine whether any dispute is arbitrable.
+2. Payment of all filing, administration, and arbitrator fees will be governed by the AAA’s Rules. In all other respects, the parties shall each pay their own additional fees, costs, and expenses, including, but not limited to, those for any attorneys, experts, documents, and witnesses. This arbitration agreement does not preclude you or Total Security Group from seeking action by federal, state, or local government agencies. You and Total Security Group also have the right to bring qualifying claims in small claims court. In addition, you and Total Security Group retain the right to apply to any court of competent jurisdiction for provisional relief, including preliminary injunctions, and any such request shall not be deemed incompatible with this Agreement, nor a waiver of the right to have disputes submitted to arbitration as provided in this Agreement.
+3. The arbitrator shall follow the Federal Arbitration Act, 9 U.S.C. §§ 1-16, as amended. In all other respects, the substantive law of the state of Delaware shall apply, without regard to conflicts of laws principles.
+4. **NEITHER YOU NOR TOTAL SECURITY GROUP MAY ACT AS A CLASS REPRESENTATIVE OR PRIVATE ATTORNEY GENERAL, NOR PARTICIPATE AS A MEMBER OF A CLASS OF CLAIMANTS, WITH RESPECT TO ANY CLAIM. CLAIMS MAY NOT BE ARBITRATED ON A CLASS OR REPRESENTATIVE BASIS. THE ARBITRATOR CAN DECIDE ONLY YOUR OR TOTAL SECURITY GROUP'S INDIVIDUAL CLAIMS. THE ARBITRATOR MAY NOT CONSOLIDATE OR JOIN THE CLAIMS OF OTHER PERSONS OR PARTIES WHO MAY BE SIMILARLY SITUATED.**
+5. If any provision of this section is found to be invalid or unenforceable, then that specific provision shall be of no force and effect and shall be severed, but the remainder of this Mandatory Arbitration Provision and Class Action Waiver shall continue in full force and effect, except that if the class action waiver is held unenforceable then this entire arbitration agreement shall be deemed unenforceable
+6. If any claim or dispute is found by the arbitrator to be excluded from this arbitration agreement above, the parties agree that any such claim or dispute shall be exclusively brought in and decided by the state or federal courts located in Delaware.
+7. This Section of the Agreement will survive the termination of your relationship with Total Security Group.
+8. **30 DAY RIGHT TO OPT-OUT. YOU HAVE THE RIGHT TO OPT-OUT AND NOT BE BOUND BY THE ARBITRATION AND CLASS ACTION WAIVER PROVISIONS SET FORTH IN THIS SECTION OF THESE TERMS BY SENDING WRITTEN NOTICE OF YOUR DECISION TO OPT-OUT BY EMAILING US AT [waiveroption@scanguard.com](mailto:waiveroption@scanguard.com). THE NOTICE MUST BE SENT WITHIN THIRTY (30) DAYS OF ACCEPTING THESE TERMS, OTHERWISE YOU SHALL BE BOUND TO ARBITRATE DISPUTES IN ACCORDANCE WITH THE TERMS OF THOSE SECTIONS. IF YOU OPT-OUT OF THESE ARBITRATION PROVISIONS, WE ALSO WILL NOT BE BOUND BY THEM.**
+9. YOU ACKNOWLEDGE AND AGREE THAT YOU ARE WAIVING THE RIGHT TO A TRIAL BY JURY. THE RIGHTS THAT YOU WOULD HAVE IF YOU WENT TO COURT, SUCH AS DISCOVERY OR THE RIGHT TO APPEAL, MAY BE MORE LIMITED OR MAY NOT EXIST. YOU AGREE THAT YOU MAY ONLY BRING A CLAIM IN AN INDIVIDUAL CAPACITY AND NOT AS A PLAINTIFF (LEAD OR OTHERWISE) OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING. YOU FURTHER AGREE THAT THE ARBITRATOR MAY NOT CONSOLIDATE PROCEEDINGS OR CLAIMS OR OTHERWISE PRESIDE OVER ANY FORM OF A REPRESENTATIVE OR CLASS PROCEEDING.
+10. THERE IS NO JUDGE OR JURY IN ARBITRATION, AND COURT REVIEW OF AN ARBITRATION AWARD IS LIMITED. HOWEVER, AN ARBITRATOR CAN AWARD ON AN INDIVIDUAL BASIS THE SAME DAMAGES AND RELIEF AS A COURT (INCLUDING INJUNCTIVE AND DECLARATORY RELIEF OR STATUTORY DAMAGES) AND MUST FOLLOW THESE TERMS AS A COURT WOULD.
 
-* **‘we’**, **‘us’** or **‘our’** means Total Security Limited, trading as Scanguard;
-* **‘you’** or **‘your’** means the person buying the Services from us;
-* **‘Services’** means the products, software and services we provide to you. The list of services and products this document applies to is set out at the end of these terms and conditions.
-* **‘site’** means our website located here: [https://www.scanguard.com/](https://www.scanguard.com/)
-
-If you have any questions about this contract or any purchases you have made, please contact us by:
-
-* using our [online chat](https://help.scanguard.com/) functionality if you are not an existing customer or you are and you are post annual renewal; or
-* filling out and submitted the online contact form available at our [Support Knowledge Base](https://help.scanguard.com/__/contact/support/terms); or
-* calling us on 0808 169 7742 (our telephone lines are open 7 days per week, 24 hours a day).
-
-#### Who are we?
-
-We are Total Security Limited (trading as Scanguard), a company registered in England and Wales under company number: 10161957.
-
-Our registered office is at: 16-18 Barnes Wallis Road, Segensworth, Fareham, Hampshire, United Kingdom, PO15 5TT.
-
-Our VAT number is: GB245203732.
-
-The details of this contract will not be filed by us. Please print out or save a copy of this contract for your records as we will not save a copy for you.
-
-1. Introduction
-    1.1. If you buy Services from us you agree to be legally bound by this contract.
-    2.1. These terms and conditions apply only if you are buying services on our site as a consumer (i.e. for purposes outside of your business, craft or profession). The Services are not for business use and any mandatory consumer provisions, warranties and representations are expressly excluded from this contract to the maximum extent permitted by law if you use the Services in the course of business, craft or profession.
-    3.1. When buying any services on our site you also agree to be legally bound by:
+1. #### **Eligibility, Registration and Account Security**
+    
+    1. By registering for, using the Services, or purchasing any product or service offered by us, you represent and warrant that you are at least eighteen (18) years of age (or the age of majority in your country of residence). If you are under eighteen (18) years of age (or under the age of majority in your country of residence), we will not provide the Services to you, and are prohibited from using the Services.
+    2. If you are registering for and using the Services on behalf of another party, entity, or organization, you warrant and represent that you are authorized to bind such party, entity, or organization to this Agreement and to act on behalf of such party, entity, or organization with respect to any actions you take in connection with the Services and this Agreement. Further, you agree that every individual within your organization will comply with these Terms, the End User License Agreement, and any other policies that we provide to you.
+    3. You agree to provide accurate and complete information when you register for the Services, and you agree to keep such information accurate and complete during the entire time that you use the Services. You are solely responsible for maintaining the confidentiality of your username and password.
+2. #### **Prohibited Persons**
+    
+    Certain entities and individuals are prohibited from using the Services pursuant to trade and economic sanctions and export and control laws. These restrictions prohibit companies and their subsidiaries from engaging in all or certain commercial activities with certain sanctioned countries (“Sanctioned Country”) and certain individuals, organizations, entities, or domain names (“Sanctioned National)” (see, for example, the U.S. Office of Foreign Assets Control restrictions on companies and their subsidiaries and related individuals that are named on the “Specially Designated Nationals” list). You are prohibited from registering for or signing up with, subscribing to, or using the Services if you are located in a Sanctioned Country or are listed as, or associated with a Sanctioned National or anyone set forth on the Specially Designated Nationals list, as determined by Total Security Group in its sole discretion. Registration, signing up, purchasing, or using the Services from any Sanctioned Country is a material violation of this Agreement, and grounds for immediate account termination by Total Security Group without the right to recover any of your data or fees which you have paid (or pre-paid) for such Services.
+    
+3. #### **Total Security Group License and Use of the Services**
+    
+    1. **Scope of License.** Total Security Group grants you a personal, non-exclusive, non-transferable, non-sublicensable, limited, and revocable license to install the Total Security Group software necessary to use the Services (the “Total Security Group Software”) only on the number of devices for which you have paid the applicable fees and taxes, and for the duration of your service plan. Each subscription grants you the right to install and use the Total Security Group Software to protect one device at a time. You may transfer your license from one device to another only by [contacting us](https://help.scanguard.com/__/contact) and with our express written approval. If you wish to use the Services on multiple devices, you must obtain a separate license for each device or obtain a multi-device license by purchasing an additional license or licenses package. This license permits you to use the Total Security Group Software for the sole and exclusive purpose of using the Services. Your license to use the Total Security Group Software is subject to the limitations set out in this section of the Agreement. The Total Security Group Software (including any releases, revisions, updates, or enhancements to the Software) and any documentation that accompanies or is made available in connection with Software (including any subscription or purchase information, product packaging) is owned by Total Group Security or its licensors. This includes all intellectual property rights (discussed below) in and to the Total Security Group Software and documentation. The Total Security Group Software provided to you is licensed, not sold to you, and we reserve all rights to the Total Security Group Software not expressly granted in these Terms. If you do not agree with the terms of this license, you must [cancel your account](https://www.scanguard.com/cancellation-form) and stop accessing the Services. We reserve all other rights to the Total Security Group Software.
+    2. **Limitations on your right to use.** You may not reverse engineer, decompile, or disassemble the Total Security Group Software. You may not rent, lease, lend, sublicense, or transfer the Total Security Group Software, or host the Total Security Group Software for third parties. The Total Security Group Software is licensed as a single integral product and may not be separated for use on more than one computer. The Total Security Group Software may include copy protection technology to prevent the unauthorized copying of the Total Security Group Software or may require original media for use of the Total Security Group Software on the computer. It is illegal to make unauthorized copies of the Total Security Group Software or to circumvent any copy protection technology included in the Total Security Group Software.
+    3. **Restrictions on Access to Services.** You are only allowed to access the Services through the interfaces and protocols provided or authorized by Total Security Group. You agree that you will not access the Services through unauthorized means, such as unlicensed software clients.
+    4. **Redistribution.** You may not redistribute the Services or provide others with access to, or use of, them, unless you have entered into a separate reseller agreement or other agreement with Total Security Group that expressly authorizes you to engage in this activity. You may ask Total Security Group for permission to have business or reseller use and distribution of Total Security Group Software by [contacting us](https://help.scanguard.com/__/contact).
+    5. **Compatibility with the Total Security Group Software.** You are responsible, at your own expense, for all computers, telecommunication equipment, software, access to the Internet, and communications networks required to use the Services. Total Security Group is not responsible for any delays or failures in the Services due to a failure of any computers, telecommunication equipment, software, access to the Internet, or communications networks necessary to use or access the Services outside of its control.
+    6. **Improvements, Upgrades, Changes, and Modifications to the Total Security Group Software.** From time to time, Total Security Group may make improvements, upgrades, changes, or modifications to the Total Security Group Software. Your continued use of the Total Security Group Software after any such changes constitutes your agreement to these Terms.
+    7. **Technical Support Services.** Except as described otherwise, Total Security Group will provide technical support via visiting our [Help Centre](https://help.scanguard.com/__/contact/support/terms) and [online chat](https://help.scanguard.com/) for the current version of the Total Security Group Software (“Technical Support Services”). You will be required to provide as much information as necessary, determined in our sole discretion, based on our investigation into or evaluation of any issues or problems. By using our Technical Support Services, you grant Total Security Group permission to access your account and device to resolve your issue or problem. You agree and understand that to resolve an issue or problem, Total Security Group may require access to license keys which you are solely responsible for providing to us.
+    8. **Ineligibility for Technical Support Services.** Total Security Group will not provide Technical Support Services if: (a) you are in breach of this Agreement; or (b) the need for Technical Support Services is due to (i) your failure to operate the Total Security Group Software within the systems requirements provided to you; (ii) any modification or attempted modification of the Total Security Group Software by you or any third party outside of Total Security Group's control or authorization; or (iii) your failure or refusal to implement any changes recommended or required by Total Security Group.
+    9. **Availability of Remote Access Services through Remote Access Agents.** Under certain circumstances in connection with your use of the Services and implementation of the Total Security Group Software, you may seek customer assistance or customer service that may necessitate interaction with our remote access agents as part of our Technical Support Services to provide certain remote access services to properly address your issue or service problem. **Please see [Information and Disclaimer Regarding Remote Access Services](#information-regarding-remote-access-services).**
+    10. **Third party software components.** Total Security Group is in partnership with Avira Operations GmbH & Co. KG and leverages the SAVAPI, MAVAPI, APC and WRAPI SDK packages which delivers protection against Zero-day attacks, advanced persistent threats and unknown malware. Other libraries used include Community.CsharpSqlite, DotNetZip, Hardcodet.Wpf.TaskbarNotification, HtmlAgilityPack, Ionic.Zip, lbt.Ortc.Api, LinqBridge, Mindscape.Raygun4Net, Newtonsoft.Json, SAVAPI, ShellBrowser, Utiliizr.WPF, Utilizr.Net3, Utilizr. VPN, Utilzr.OpenVPN, and WebSocket4Net.
+    11. **While Using Our Services.** When you install or use one of our Services, it will run in the background of your device or environment to help predict threats and better protect you, your devices, and your information. We may automatically collect information about your interactions with the Services as well as devices on which the Services are installed. In some cases, we automatically collect information about other devices connected to the same network as the device on which the Services are installed. To provide you with our Services, including to detect and evaluate malware and spam, we may scan, collect, and store data from your files, including emails, attachments, email addresses, metadata, and URLs and traffic data. You expressly agree to our collection and use of your data.
+    12. **Data Breach Search.** Total Security Group uses a third-party service provider to conduct a regular search of current or ongoing data breaches. The third-party provider searches a proprietary database of publicly available information concerning data breaches and other online data breach incidents based on the email address provided by a user. Total Security Group is not responsible for the accuracy or completeness of the results of any such search, nor are we affiliated with any website or brand that is listed. Whilst the Total Security Group can provide data breach results, we are not held responsible for the data shown, and nor do we claim to prevent future data breaches or detect all data breaches. No one can prevent all data breaches. We also reserve the right to conduct a data breach search on your behalf to enable us to provide you with informative feedback on whether or not you have been previously affected by a known data breach.
+4. #### **Modification and Updates of the Services**
+    
+    1. Total Security Group may, from time to time, change the Services and any aspect or feature of the Services if considered necessary for security or legal reasons, to ensure the operability of the Services, to reflect advancements in technology or to enhance the features we are able to offer our customers. **You hereby consent to automatic updates to the Services you have installed on your device.**
+    2. If Total Security Group modifies the Services in a material way, we will provide you with advance notice of the changes so that you have an opportunity to stop using the Services and [cancel your account](https://www.scanguard.com/cancellation-form). This does not affect or limit your money-back guarantee (details of which are set out below) and, therefore, if you cancel within the relevant period of starting or renewing the Services, whether or not as a result of a change made by Total Security Group, you will receive a full refund where you request one.
+5. #### **Subscription Terms and Automatic Renewal**
+    
+    1. **Initial Term and Automatic Renewal.** The initial subscription term for the Services will be the term you selected at the time you purchased the Services (e.g., either monthly or 12 months) (the “Initial Term”). Except in the case of trial offers, the Services will automatically renew for the same term length (each a “Renewal Term”) as the Initial Term. The Initial Term and any Renewal Terms shall be collectively referred to as the “Term.” All monthly and 12-month subscriptions will renew automatically at the end of the Term unless and until you cancel your subscription. To avoid being charged for an additional term, you must cancel before the end of the Term. A notice will be sent to you 30 days before your subscription automatically renews (the “Renewal Notice”). The Renewal Notice will be sent to the email address you have registered on file for your Total Security Group account and notice of auto renewal will appear in your control panel. It may be necessary for us to amend your renewal Term to provide you with the best service possible. Should this happen, you will be notified via email. It is your responsibility to ensure that the email address and other personal details in your user account remains current.
+    2. **Discount Promotions.** If you receive a discount on your Initial Term, your Services will automatically renew at the then current non-discounted price listed on our pricing page. You acknowledge, agree, and authorize Total Security Group to automatically charge the applicable fee to your payment method in accordance with the [Pricing, Billing and Payment](#pricing-billing-and-payment) terms herein.
+    3. **Exceptions to Automatic Renewal.** If you are in dispute with Total Security Group or have previously requested a chargeback that we have successfully challenged, your Services will not automatically renew at the end of your existing service term. We are unable to return disputed charges.
+    4. **Trial Licenses.** If you requested and received a free seven (7)-day or thirty (30)-day trial license, Total Security Group grants you a non-exclusive, non-transferable, non-sublicensable and limited license to use the Services via the Total Security Group Software only during such the trial or evaluation period in accordance with this Agreement. The free trial and evaluation license is only valid for your use of the Services via the Total Security Group Services on one device during the seven (7)-day or thirty (30)-day period and is limited to one trial license per calendar year, per device. Your trial license to use the Services will automatically terminate upon the expiration or termination of the trial license period unless you purchase a full subscription to the Services.
+    5. **Our Continuous Protection Service** provides complimentary access to a range of value-added services. In order for these to be utilized you must have your auto-renewal preferences enabled, which can be found in 'My Services' within your account and maintain an active billing relationship with us. Once this relationship has been terminated, access to the value-added services which are included within the Continuous Protection service will be restricted within a 48- hour period of disabling and only accessible again once this billing relationship has been reactivated.
+6. #### **Pricing, Billing and Payment**
+    
+    1. **Pricing:** All prices for our products and services are displayed in $ and are subject to change at any time. We reserve the right to adjust our pricing to reflect changes in market conditions, changes in the cost of supplies, product discontinuation, errors in advertisements, and other extenuating circumstances.
+    2. **Notification of Price Changes:** We will provide notice of any significant price changes by email up to 30 days days in advance of annual subscriptions and 10 days in advance of monthly subscriptions . It is the customer's responsibility to review these notifications.
+    3. **Billing and Payment:** Customers are responsible for all charges incurred under their account, including applicable taxes and fees. Payments must be made by the due date specified on your invoice or billing statement.
+    4. **Automatic Renewals:** If applicable, subscriptions or services that automatically renew will be billed at the rate in effect at the time of renewal. Customers will be notified of any price changes prior to the renewal date.
+    5. **Pricing Plans.** We offer great service plans and a range of additional services to meet everyone’s needs. Details of our current service plans, and additional services, are listed on our site here: [Subscription Pricing Matrix | Scanguard](https://www.scanguard.com/pricing). If you have claimed an introductory or special promotion offer on your Initial Term, your Services will automatically renew at the then current non-discounted price listed on our pricing page.
+    6. **Billing Process.** Our service charges will be calculated based on the service plan you selected at the time of purchase, the number of devices you wish to protect plus any charges for additional services you have ordered. If the Services you purchase from Total Security Group are billed on a monthly basis, you will be billed in full month increments. If our initial attempt to charge your payment method for the full subscription charge fails, we may reattempt to charge your payment method in separate charges that total the full subscription charge for your selected Services or downgrade your subscription into shorter Terms.
+    7. **Payments.** You agree to pay Total Security Group, during the Initial Term or each month, as applicable, depending on your choice of service plan, all fees for the Services, as set forth on the pricing page at the time you purchase the Services. You acknowledge, agree, and authorize Total Security Group to automatically charge the applicable fee to any payment method that has been added to your account, each month or Renewal Term (as applicable), unless and until you cancel the Services before the end of the Initial Term or any Renewal Term. All charges will be taken on the date of renewal; for example, for monthly subscription plans, your payment method will be charged at the end of your monthly cycle for these Services. If the payment method on file with Total Security Group has expired or does not permit automatic renewals, you must contact Total Security Group to renew the Services. If you do not renew your Services upon its renewal date, your access will be terminated. Once your data has been queued for deletion, it cannot be retrieved by Total Security Group. **You are responsible for ensuring that your billing information with Total Security Group is accurate. We also accept certain pre-paid payment methods.**
+    8. **Billing Issues and Support.** You must notify us about any billing problems or discrepancies as soon as you become aware of them. We will make every effort to assist you with any billing queries. Please contact our 24/7 billing support center with any billing questions. Please contact Total Security Group before attempting a chargeback.
+7. #### **Cancellation, Termination and Refunds**
+    
+    1. **You may choose to cancel any Services at any time during the Term.**
         
-        NaN. extra terms which may add to, or replace some of, this contract. This may happen for security, legal or regulatory reasons. We will contact you to let you know if we intend to do this by giving you notice on our site and telling you when the changes come into effect. The changes will not apply retrospectively. If you do not agree to be bound by any subsequent modifications, you must stop using the Services (see **[Cancellation and Refunds](#cancellation-and-termination)**); and
-        NaN. specific terms which apply to certain Services. If you want to see these specific terms and they are not set out in these terms and conditions, please visit the relevant webpage for the particular services.
+        You can manage your billing preferences via the 'My Services' option located in your control panel. Alternatively, you can visit our [Help Centre](https://help.scanguard.com/__/contact/support/terms) or calling 833-201-8681.
         
-        All of the above documents mentioned at 1.3 form part of this contract as though set out in full here. **If you do not accept and agree to these terms then you must not access or use the Services.**
+        If you terminate your subscription before the end of your Term, you may continue to access the Services for the remainder of your Term provided that you have paid for the Services in full and remain subject to these Terms, including our rights to cancel the Services.
         
-2. Your privacy and personal information
-    2.1. Our **Privacy Policy** is available at [https://www.scanguard.com/privacy](https://www.scanguard.com/privacy).
-    3.1. Your privacy and personal information are important to us. Any personal information that you provide to us will be dealt with in line with our Privacy Policy, which explains what personal information we collect from you, how and why we collect, store, use and share such information, your rights in relation to your personal information and how to contact us and supervisory authorities if you have a query or complaint about the use of your personal information.
-3. Eligibility, Registration and Account Security
-    3.1. The Services are intended solely for non-business users who are eighteen (18) years of age or older. If you are under eighteen (18) years of you must not use the Services. By registering for and/or using the Services, you are representing to us that you are at that you are at least eighteen (18) years of age.
-    4.1. If you are registering for and using the Services on behalf of another party, you must have authority from that party.
-    5.1. Before you place your order for the Services, you must check that the hardware and software requirements of your computer or device mean that you can receive the Services. Please review the ‘key technical information’ [here](https://www.scanguard.com/system-requirements) to check that your computer or device meets the hardware and software requirements.
-    6.1. You agree to provide accurate and complete information when you register for the Services and you agree to keep such information accurate and complete during the entire time that you use the Services. You are solely responsible for maintaining the confidentiality of your username and password.
-    7.1. You should regularly back-up your data, including any data we may hold as a result of providing the Services. We are not responsible for backing up your data.
-4. Prohibited Persons and export laws
-    4.1. Certain entities and individuals are prohibited from using the Services pursuant to trade and economic sanctions and export and control laws imposed by the United States, United Kingdom, or other governments. These prohibit companies and their subsidiaries from engaging in all or certain commercial activities with certain sanctioned countries (“Sanctioned Country”) and certain individuals, organizations, entities, or domain names (“Sanctioned National)” (see, for example, the U.S. Office of Foreign Assets Control restrictions on companies and their subsidiaries and related individuals that are named on the “Specially Designated Nationals” list). You are prohibited from registering for or signing up with, subscribing to, or using the Services if you are located in a Sanctioned Country or are listed as, or associated with a Sanctioned National or anyone set forth on the Specially Designated Nationals list, as determined by Total Security Group in its sole discretion. Registration, signing-up or using the Services from any Sanctioned Country is a material violation of the contract, and grounds for immediate account termination by Total Security Group without the right to recover any of your data or fees which you have paid (or pre-paid) for such Services
-    5.1. You must comply with all applicable export laws.
-5. Permission to use software (sometimes called an End User Licence Agreement or EULA)
-    5.1. When you purchase software from us, you will not own it. Instead, we give you permission to use it (also sometimes called a ‘licence’) for the purpose of receiving the Services.
-    6.1. Use of software:
-        NaN. is personal to you. You can use it wherever you want in the world but only if you comply with local laws;
-        NaN. is non-exclusive to you. We may supply the same or similar software to other users;
-        NaN. may be used only for the number of devices for which you have paid the applicable fees and taxes, and for the duration of your subscription plan. Each subscription grants you the right to install and use software on the number of devices provided for in that subscription plan (typically 3). You may transfer your licence from one device to another by contacting us. If you wish to use the Services on multiple devices, you must obtain a separate licence for each device or obtain a multi-device licence by purchasing an additional licence or licenses package;
-        NaN. may not be:
-            1. copied by you;
-            2. changed by you (which means, in particular, that you are not allowed to adapt, reverse-engineer, disassemble or decompile it, or try to extract the source code from it);
-            3. rented, leased, lent, sublicensed or transferred by you;
-            4. hosted for third parties by you;
-            5. combined or merged with, or used in, any other computer program by you. Software may include copy protection technology to prevent the unauthorised copying of software, or may require original media for use of the software on the computer. It is illegal to make unauthorised copies of our software or to circumvent any copy protection technology included in our software; or
-            6. distributed or sold by you to any third party, unless we agree;
-        NaN. must be in accordance with our [Support Knowledge Base](https://help.scanguard.com/__/contact/support/terms) and technical requirements. These page provides you with guides and information on how to use software;
-        NaN. includes:
-            1. updates;
-            2. upgrades;
-            3. new releases;
-            4. new versions; and
-        NaN. contains information which is owned by us and/or third parties. You must not conceal, change or remove any markings which show who owns this information, such as copyright (©), registered trade mark (®) or unregistered trademark (™) markings.
-    7.1. Except where you have permission to use any of our software under this clause 5, you will not obtain any rights of ownership or other rights (of whatever nature) in the Services, software or in any copies of it.
-    8.1. **Trial Licences.** If you requested and received a free seven (7)-day or thirty (30)-day trial or evaluation licence, you must comply with these terms and conditions and your licence is only valid for the limited period agreed. The free trial or and evaluation licence is only valid for your use of the Services on one device during such seven (7)-day or thirty (30)-day period and is limited to one trial licence or evaluation licence per calendar year per device. Your trial or evaluation licence will automatically terminate upon the expiration or termination of the seven (7)-day or thirty (30)-day period unless you subsequently agree to a paid subscription plan. Prior to the expiration of your trial or evaluation period, you will be notified and offered the opportunity to purchase an annual or monthly subscription plan. We do not collect any of your personal or identifiable information, including name, email address or payment details, until such time as you affirmatively subscribe to the Services at or prior to the expiration of the trial or evaluation period (i.e., there is no auto-enrolment following the expiration of the trial or evaluation period).
-6. Compatibility with the Total Security Group Software.
-    6.1. You are responsible, at your own expense, for all computers, telecommunication equipment, software, access to the Internet, and communications networks required to use the Services.
-7. Restrictions on Services.
-    7.1. **Access.** You are only allowed to access the Services through the interfaces and protocols provided or authorised by us. You agree that you will not access the Services through unauthorised means, such as unlicensed software clients.
-    8.1. **Redistribution.** You may not redistribute the Services or provide others with access to, or use of, them, unless you have entered into a separate reseller agreement or other agreement with us that expressly authorises you to engage in this activity. You may ask us for permission to have business or reseller use and distribution of software by contacting us.
-8. Technical Support Services.
-    8.1. We provide 24/7 technical support via our [Help Centre](https://help.scanguard.com/__/contact/support/terms) and [online chat](https://help.scanguard.com/) for software **(“Technical Support Services”).** You will need to provide us with as much information as you can for us to provide Technical Support Services. You understand and agree that we may require access to your device and licence keys to provide the Technical Support Services.
-    9.1. **Ineligibility for Technical Support Services.** We will not provide Technical Support Services if:
+    2. **Cancel and Terminate Services Separately**
         
-        NaN. you are in breach of this contract; or
-        NaN. the need for Technical Support Services is due to:
-            1. your failure to operate the software within the systems requirements provided to you;
-            2. any modification or attempted modification of software by you or any third party outside of our control;
-            3. your failure or refusal to implement any changes recommended or required by us.
-    10.1. **Remote Access Support**
+        If you choose to cancel one or more services provided by Total Security, each additional subscription on your account is treated as a separate entity for billing purposes. In the event of cancellation of a service, any remaining subscriptions will remain active and must be managed separately.
         
-        In some situations we may need to provide you with Remote Access Support **(“RAS”).**
+    3. **Refund for 12-Month Plan**
         
-        NaN. Information and Disclaimer Regarding Remote Access Support.
-            1. Information and Considerations for RAS. In the event that RAS is necessary, requested or recommended as part of our Technical Support Services, you should be aware of the following matters and considerations related to any use of our RAS:
-                
-                1. **Our remote access agents (“RAAs”).** will be able to access and view your private and confidential information that may be on your device at the time of granting access to the RAA.
-                2. RAAs will be able to delete and edit data on your licensed device and any attached media storage capacity (attached at the time of remote access by the RAAs).
-                3. Under certain circumstances, action(s) taken by the RAA in connection with providing RAS may lead to the loss or corruption of data on your device or which may result in loss of functionality in a device.
-                4. To provide RAS, the RAA may need to upload or download limited information from your device in order to provide necessary technical support such as downloading log files or related utilities.
-            2. Customer Responsibilities in Connection with using RAS.
-                
-                1. You are solely responsible for maintaining and backing up all information, data, text, files, photos or other materials (e.g. software) that are on your device and storage media before ordering RAS, installing any recommended or required files, as well as at the time when you request and receive any RAS and providing access to a RAA.
-                2. You should ensure that any confidential or personal files are closed before the RAS session commences, and are appropriately labelled as being private or confidential.
-                3. You should ensure that you have the necessary or proper capacity and authority to bind yourself to the terms of the disclaimer below and that you have full authority and responsibility for your device and storage media in connection with the provision and receipt of any and all RAS provided by the RAA.
-                4. You should be actively present at all times during the RAS provided by the RAA in order to follow any instructions or implement any recommendations from the RAA (e.g. entering passwords for access, providing more information).
-        NaN. **Disclaimers and Disclosures Regarding Customer’s Use of RAS.** Our RAS are provided at your sole risk, and you assume responsibility for any and all consequences as a result of the RAS other than where we fail to use reasonable skill and care. In connection with the foregoing:
+        If you are enrolled into our 12-month plan, you must cancel our antivirus protection Services and request a refund within thirty (30) days of enrolling into or renewing your subscription to receive a full refund for any payments made for the current term. To request a refund, please contact our billing department through our [Help Centre](https://help.scanguard.com/__/contact/support/privacy).
+        
+    4. **Refund for Monthly/Quarterly/Bi-annual Plans**
+        
+        If you are enrolled into our monthly, quarterly or bi-annual plan, you must cancel our antivirus protection Services and request a refund within fourteen (14) days of enrolling into or renewing your subscription to receive a full refund for any payments made for the current term.
+        
+    5. **Refund for Additional Services**
+        
+        When you purchase additional services, for each additional service you must cancel and request a refund within fourteen (14) days from the date you register or renew the additional service(s). Such additional services include but are not limited to: Safe Browsing (VPN), Unlimited Devices, Family Protection, Home Protection, Additional Device, Adblock Pro, Password Vault, Advanced Cloud Scanning, Identity Protection, Smartphone Optimizer, Antivirus eBook, Priority Support, and Smartphone Protection.
+        
+        1. For all Services paid for using a pre-paid payment method or gift card, you can only cancel within fourteen (14) days of registering or renewing your Services.
+        2. To request a refund, please contact our billing department through our [Help Centre](https://help.scanguard.com/__/contact/support/terms).
+        3. You shall only be entitled to a refund if you comply with the terms and conditions of this section unless such refund is mandated by local law.
             
-            1. You understand and agree that by requesting any RAS, an RAA may download and use software on your device; gather system data from your device; take remote access control of your device (upon your consent); and otherwise access and modify the device settings as reasonably required to troubleshoot any issues and provide the necessary RAS identified.
-            2. You understand and agree that by using our RAS, an RAA may (while engaging in or undertaking the necessary or required RAS) be exposed to or be able to view private and confidential files, information and/or material on your device if not otherwise properly closed or secured.
-            3. We do not take any responsibility for any data (including any files or software) that could be on your device or storage media while the RAS is performed. We strongly advise you perform a back-up prior the RAS being performed. To the fullest extent allowed by law and unless we fail to use reasonable skill and care, we are not responsible for any loss or corruption of any data (including any files or software). If reasonably necessary to perform the RAS, some or all files or software may be deleted in order to remove viruses, malware, infections, trojan horses, automated programs, warms or corrupted data/files/software to make the device functional again. We strongly advise you back up any data before we undertake RAS.
-9. Service Availability
-    9.1. We try to keep the Services available at all times but from time to time they may be unavailable. All online services suffer disruptions and outages.
-10. Modification and Updates of the Services
-    10.1. We may, from time to time, change the Services and any aspect or feature of the Services if considered necessary for security or legal reasons, to ensure the operability of the Services, to reflect advancements in technology or to enhance the features we are able to offer our customers. You hereby consent to automatic updates to the Services you have installed on your computer.
-    11.1. If we modify the Services in a material way, we will provide you with advance notice of the changes so that you have an opportunity to stop using the Services and [cancel your account](#cancellation-and-termination). This does not affect or limit your money-back guarantee (details of which are set out below) and, therefore, if you cancel within the relevant period (30 days or 14 days depending on your subscription plan and the services we are providing) of starting or renewing the Services, whether or not as a result of a change made by us, you will receive a full refund where you request one in accordance with [clause 13](#cancellation-and-termination).
-11. Subscription Plans and Automatic Renewal
-    11.1. We offer annual and monthly subscription plans depending on what you select in the payments page at the time you purchase the Services.
-    12.1. Where you have purchased an annual subscription plan, the plan will automatically renew at the end of the current subscription period for the same period you originally subscribed for unless you have opted out of automatic renewal, or you contact us and tell us you do not want your subscription plan to renew. On occasion, it may be necessary for us to amend your renewal term from annual to monthly to provide you with the best service possible and you will be charged at the monthly pro rata amount. Should this happen, you will be notified via email upon successful renewal. You can opt out of automatic renewal or tell us that you do not want your plan to renew by amending your billing preferences in your Control Panel.
-    13.1. Total Security Group reserve the right to pre-renew a 12 months subscription up to 30 days prior to the anniversary date to avoid a lapse in service, which will be notified within the Renewal Notice. Your payment method on file will be automatically debited unless you tell us you do not want to renew as explained in clause 11.2.
-    14.1. Before your annual subscription plan is due for renewal, we will provide you with a Renewal Notice up to 30 days before you are due to be charged. We will send the Renewal Notice to the email address you provided us with when you signed up for the Services. The Renewal Notice will tell you:
+            2. **Termination by Total Security Group.** Total Security Group may suspend or terminate your use of or access to the Services if Total Security Group reasonably believes, in its sole discretion, that (i) you are in breach of this Agreement; or (ii) if your continued use of the Services may damage, disable or impair our servers or networks. Such termination may be immediate and without notice. You are not eligible for a refund of any amounts paid if Total Security terminates your account in accordance with this paragraph.
+            3. **Effects of Cancellation or Termination.** If you choose to cancel or terminate your subscription during your current Term, you will continue to have access to the Services you enrolled into for the remainder of your current Term, subject to this Agreement. In all other cases, upon cancellation or termination: (i) you shall immediately cease any and all use of the Services; and (ii) you will not have further access to any of our applications.
+8. #### **Use of your Personal Information**
+    
+    1. **Collection and Use of Personal Information.** Total Security Group will collect, use and transfer your personal information in accordance with the terms of our [Privacy Policy](https://www.scanguard.com/privacy), which is incorporated herein by reference.
+9. #### **Information and Disclaimer Regarding Remote Access Services (“RAS”).**
+    
+    1. **Information and Considerations for RAS.** In the event that RAS is necessary, requested or recommended as part of our Technical Support Services, you should be aware of the following matters and considerations related to any use of our RAS:
         
-        NaN. the new price plan and the fees and charges you will need to pay us;
-        NaN. the period of subscription;
-        NaN. how you can cancel your subscription and, where applicable, obtain a refund.
-    15.1. **Monthly Subscriptions.** All monthly subscriptions will renew automatically each month until you [cancel your account](#cancellation-and-termination). You can cancel your account at any time.
-    16.1. **Exceptions to Automatic Renewal.** If you are in dispute with us or have previously requested a chargeback/transaction reversal that we have successfully challenged, your Services will not automatically renew at the end of your existing service term. Unless we are required to by law, we are unable to return disputed charges that we have successfully challenged, due to the costs we incur for dealing with the dispute.
-    17.1. Our Continuous Protection service provides complimentary access to a range of value added services, in order for these to be utilized you must have your auto-renewal preferences enabled, which can be found in 'My Services' within your account, maintaining an active billing relationship with us. Once this relationship has been terminated, access to the value added services which are included within the Continuous Protection service will be restricted within a 48 hour period of disabling and only accessible again once this billing relationship has been reactivated.
-12. Pricing, Billing and Payment
-    12.1. Pricing
+        1. Our remote access agents (“RAAs”) will be in a position to access and view your private and confidential information that may be on your device at the time of granting access to the RAA.
+        2. RAAs will be able to delete and edit data on your licensed device and any attached media storage capacity (attached at the time of remote access by the RAAs).
+        3. Under certain circumstances, action(s) taken by the RAA in connection with providing RAS may lead to the loss or corruption of data on your device or which may result in loss of functionality in a device.
+        4. In order to provide RAS, the RAA may need to upload or download information from your device in order to provide necessary technical support such as downloading log files or related utilities.
+    2. **Customer Responsibilities in Connection with Seeking or Utilizing RAS.**
         
-        NaN. We offer great service plans and a range of additional services to meet everyone’s needs. Details of our current service plans, and additional services, are listed on our site here: [https://www.scanguard.com/subscription-pricing-matrix](https://www.scanguard.com/subscription-pricing-matrix)
-        NaN. If you have claimed an introductory or special promotion offer when signing up for your subscription plan, the Services will automatically renew at the current non-discounted price listed on our site at the time the subscription plan is due for renewal. This does not affect your cancellation rights.
-        NaN. If your subscription plan auto-renews, you will be charged for the Services in accordance with the current prices for the relevant subscription plan at the time of renewal. More information on auto-renewal is set out immediately above under **[Subscription Plans and Automatic Renewal](#subscription-plans-and-automatic-renewal)**
-        NaN. Our subscription plans are available on an annual or monthly basis, both of which renew upon their anniversary and are extended for the same period of time.
-    13.1. Billing Process
+        1. You are solely responsible for maintaining and backing up all information, data, text, files, photos or other materials (e.g. software) that are on your device and storage media before ordering RAS, installing any recommended or required files, as well as at the time when you request and receive any RAS and providing access to an RAA.
+        2. You should ensure that any confidential or personal files are closed before the RAS session commences, and are appropriately labelled as being private or confidential.
+        3. You should ensure that you have the necessary or proper capacity and authority to bind yourself to the terms of the disclaimer below (particularly if you are authorizing on behalf of an entity), and that you have full authority and responsibility for your device and storage media in connection with the provision and receipt of any and all RAS provided by the RAA.
+        4. You should be actively present at all times during the RAS provided by the RAA in order to follow any instructions or implement any recommendations from the RAA (e.g. entering passwords for access, providing more information).
+    3. **Disclaimers and Disclosures Regarding Customer’s Use of RAS.** Our RAS are provided at your sole risk, and you assume responsibility for any and all consequences as a result of the RAS. In connection with the foregoing:
         
-        NaN. Our service charges will be calculated based on the subscription plan you choose, the number of devices you wish to protect plus any charges for additional services you have ordered (see section below on **[additional services](#additional-services)** at clause 17).
-    14.1. Payments
-        
-        NaN. You agree to pay us all fees and charges for the Services , as shown on our pricing matrix([https://www.scanguard.com/subscription-pricing-matrix](https://www.scanguard.com/subscription-pricing-matrix)) at the time you order the Services or as set out in any Renewal Notice.
-        NaN. If the credit/debit card on file with us has expired or does not permit automatic renewals, you must contact us if you want to renew the Services or update your card details by managing your billing preferences within your account. Where this is the case and you do not renew your Services upon its anniversary date, your access will be terminated. Once your data has been queued for deletion, it cannot be retrieved by us.
-        NaN. You are responsible for ensuring that your credit/debit card billing information with us is accurate. We also accept certain pre-paid payment methods.
-        NaN. Currency. If you are using the Services in the United Kingdom, all payments are in UK pounds sterling.
-        NaN. Value Added Tax (“VAT”) is payable for the Services at the prevailing rate. The amount of VAT payable will be shown to you when you pay for the Services.
-    15.1. Billing Issues and Support
-        
-        You should tell us about any billing problems or discrepancies as soon as you become aware of them. We will make every effort to assist you with any billing queries. Please contact our 24/7 [billing support centre](https://help.scanguard.com/) with any billing questions. In particular, please always contact us before attempting a chargeback with your bank as we may be able to assist with your subscription plan.
-        
-13. Cancellation and Refunds
-    13.1. You can cancel the Services at any time, including where there is a change to the Services or the terms of this contract. If you cancel during your subscription plan, you may continue to access the Services for the remainder of your subscription plan provided that you have paid for the Services in full and subject always to these terms and conditions.
-    14.1. You can manage your billing preferences via the '**[My Services](https://help.scanguard.com/__/billing/preferences/-/manage-billing-preferences)**' section located in your [Control Panel](https://my.scanguard.com/billing#fndtn-payment). Alternatively, if you require assistance you can email us your request via our [Help Centre](https://help.scanguard.com/__/contact/support/terms) or call 0808 169 7742.
-    15.1. **You may not receive a refund upon cancellation and you should refer to ‘Refunds’ section below.**
-    16.1. **Refunds**
-        
-        **Refund policy for annual subscription plans**
-        
-        NaN. We offer a 30-day cancellation period from the day of your purchase, with or without cause for all annual subscription plans. We will provide you with a full refund upon request if you cancel your subscription within 30 days of your annual subscription plan purchase.
-        NaN. This 30-day cancellation period and refund policy does not apply where you are on a monthly subscription plan (see clause 13.4.5 below - **[Refund policy for monthly subscription plans](#refund-policy-for-monthly-subscription-plans))**
-        NaN. Where your subscription plan auto-renews and you are on an annual subscription plan, you can cancel and receive a full refund upon request within the first 30 days of the new subscription period starting for the latest renewal payment.
-        NaN. If you want to cancel after this 30-day period following your annual subscription plan renewal, a pro-rata refund may be available upon request on your most recent renewal payment.
-        
-        **Refund policy for monthly subscription plans**
-        
-        NaN. We offer a 14-day cancellation period from the day of your purchase, with or without cause, for all monthly subscription plans. We will provide you with a full refund upon request if you cancel your subscription within 14 days of your monthly subscription plan purchase.
-        NaN. If you want to cancel after this 14-day period following your monthly subscription plan renewal, monthly subscriptions are not eligible for pro-rata refunds.
-        
-        **Cancelling your account and requesting a refund**
-        
-        NaN. Requesting a refund is easy provided you are eligible under our refund policy. You can:
-            
-            1. click on ‘My Services’ in your Control Panel and cancel your subscription yourself;
-            2. contact us by using the details at the start of these terms;
-            3. chat with our billing department: visit our [Help Centre](https://help.scanguard.com/__/contact/support/terms);
-    17.1. **Our right to terminate your use of the Services.** We may suspend or terminate your use of or access to the Services if we believe that:
-        
-        NaN. you are in breach of these terms and conditions; or
-        NaN. your continued use of the Services may damage, disable or impair our servers or networks or otherwise harm or diminish the reputation of us.
-        
-        Such termination may be immediate and without notice but we will try and give you reasonable notice if we can. You may not be eligible for a refund of any amounts paid to us if we terminate your subscription plan in accordance with this term.
-        
-    18.1. Effects of cancellation or termination
-        
-        NaN. Where we have cancelled or terminated your subscription plan, you shall immediately cease any and all use of the Services; and (ii) you will not have further access to any of our software and applications.
-        NaN. Where you choose to cancel or terminate your subscription plan and you are not eligible, or if eligible, do not request a refund, you will have access to the Services for the remainder of the subscription plan, subject to these terms and conditions.
-        NaN. When your account is closed, you will no longer have access to any of your data we hold (unless we are required by law to keep it, return it or transfer it). You should have a regular back-up plan. Once your data has been queued for deletion, it cannot be retrieved by us.
-        NaN. If you choose to cancel one or more services provided by Total Security, please be aware that each additional subscription is treated as a separate entity for billing purposes. In the event of cancellation of a service, any remaining subscriptions will remain active and must be managed separately.
-14. Intellectual Property
-    14.1. All trade marks, service marks or other similar items used in connection with the Services are the property of their respective owners, including, without limitation, Total Security Group trading as scanguard. The ownership of all intellectual property rights relating to the Services shall remain with Total Security Group trading as scanguard and its licensors. You agree not to take any action to jeopardise, limit, or interfere in any manner with our or our licensor’s intellectual property rights.
-15. Warranties
-    15.1. The Consumer Rights Act 2015 gives you certain legal rights (also known as ‘statutory rights’). Any software that we provide to you must be as described, fit for purpose and of satisfactory quality.
-    16.1. We are under a legal duty to supply software that is in conformity with this contract.
-    17.1. When we supply software:
-        NaN. we will use all reasonable efforts to ensure that it is free from defects, viruses and other malicious content;
-        NaN. we do not promise that it is compatible with any third-party software or equipment except where we have said that it is in the guide to its use or on our site; and
-        NaN. you acknowledge that there may be minor errors or bugs in it;
-        NaN. you acknowledge that our software and products can never prevent all viruses and security breaches.
-    18.1. To avoid faults in software and to ensure that it functions properly, you must:
-        NaN. install any fixes, updates, upgrades, new releases and new versions as soon as reasonably possible after we tell you that they are available to be downloaded;
-        NaN. use it only on the recommended third-party software and equipment set out in the operating instructions guide to its use or on our site;
-        NaN. following all current operating instructions.
-    19.1. We will provide the Services using reasonable skill and care.
-    20.1. If you think software is faulty or you are unhappy with the Services, please contact us using the contact details at the top of this page.
-16. Limitation of Liability
-    16.1. Except for any legal responsibility that we cannot exclude in law (such as for death or personal injury) or arising under applicable laws relating to the protection of your personal information, we are not legally responsible for any:
-        
-        NaN. losses that were not foreseeable to you and us when the contract was formed (this is sometimes called indirect or consequential damages);
-        NaN. losses that were not caused by any breach on our part. For example, we are not responsible for:
-            
-            1. any delays or failures in the Services due to a failure of any computers, telecommunication equipment, software, access to the Internet, or communications networks necessary to use or access the Services outside of our control. We exercise no control over, and accept no responsibility for, the content of the information as it passes through network hubs and points of presence or the Internet, other than on equipment and software that we control;
-            2. our failure to provide the Services to the extent that such failure was due to an event outside our reasonable control;
-            3. loss or corruption of, or damage to, data, confidential information or other digital devices or content, unless and to the extent that we have failed to use reasonable skill and care in providing the Services;
-            4. data breaches not caused by us or our agents and subcontractors;
-        NaN. loss or damage relating to or arising from Remote Access Services, unless we fail to use reasonable skill and care;
-        NaN. business losses (including loss of profit); or
-        NaN. losses to non-consumers.
-    17.1. Except for any legal responsibility that we can exclude in law, our maximum liability to you for whatever reason under the contract shall be the greater of:
-        
-        NaN. the total price you have paid for the Services; and
-        NaN. £100 (one hundred pounds sterling).
-    18.1. None of your statutory rights shall be affected by the provisions in this clause.
-17. Additional services
-    17.1. We offer additional services and products in addition to our core anti-virus services and your use of these additional products and services is also subject to these terms and conditions. These additional services and products include the following and references to the Services in these terms shall include any of the services listed below that you have chosen to purchase and licence from us. We may provide you with additional terms and conditions for any of the additional services below.
-        
-        NaN. Safe Browsing (VPN);
-        NaN. Unlimited Devices;
-        NaN. Family Protection;
-        NaN. Home Protection;
-        NaN. Additional Device;
-        NaN. Password Vault;
-        NaN. Advanced Cloud Scanning;
-        NaN. Identity Protection;
-        NaN. Smartphone Optimizer;
-        NaN. Antivirus eBook;
-        NaN. Priority Support;
-        NaN. Smartphone Protection.
-        NaN. Adblock Pro
-    18.1. **Third parties we work with to provide the Services.** We are in partnership with Avira Operations GmbH & Co. KG and resell the SAVAPI, MAVAPI, APC and WRAPI SDK packages which delivers protection against Zero-day attacks, advanced persistent threats and unknown malware. Other libraries used include Community.CsharpSqlite, DotNetZip, Hardcodet.Wpf.TaskbarNotification, HtmlAgilityPack, Ionic.Zip, lbt.Ortc.Api, LinqBridge, Mindscape.Raygun4Net, Newtonsoft.Json, SAVAPI, ShellBrowser, Utiliizr.WPF, Utilizr.Net3, Utilizr.VPN, Utilzr.OpenVPN, WebSocket4Net.
-    19.1. Specific terms for Data Breach Searches
-        NaN. We use a third-party service provider to conduct a regular search of current or ongoing data breaches. The third-party provider searches a proprietary database of publicly available information concerning data breaches and other online data breach incidents based on the email address provided by a user. You understand and agree that we are not responsible for the accuracy or completeness of the results of any such search, nor are we affiliated with or have any responsibility for any website or brand that is listed.
-        NaN. Whilst we can provide data breach results, we are not responsible for the data shown, and nor do we claim to prevent future data breaches. No one can prevent all data breaches.
-        NaN. Where you agree, we can conduct a data breach search on your behalf to enable us to provide you with informative feedback on whether or not you have been previously affected by a known data breach.
-18. Transferring rights under the contract
-    18.1. We may, in our sole discretion, transfer or assign all or part of our rights under the contract and transfer all or any portion of our duties and obligations under this contract. This will not affect your rights under the contract. If you do not agree with any transfer or assignment, you should discontinue your use of the Services and [cancel your account](#cancellation-and-termination).
-    19.1. You may only assign all or part of any of your rights under the contract following a satisfactory credit check of the person you wish to transfer your rights to and their completion of our sign-up process. If you wish to transfer your rights to a third party, please visit our [Help Centre](https://help.scanguard.com/__/contact/support/terms).
-19. Notices
-    19.1. Notices relating to your Services and the terms of this contract will be provided to you via the email address you have registered for your account or through the Control Panel. You must ensure that the contact details we hold for you are current at all times.
-20. Third Party Rights
-    20.1. No one other than a party to this contract has any right to enforce any term of this contract.
-21. Disputes
-    21.1. We will try to resolve any disputes with you quickly and efficiently. If you are unhappy with the Services, please contact us as soon as possible using the contact details set out at the top of this page.
-    22.1. The laws of England and Wales apply to this contract, although if you are resident elsewhere in the UK you will retain the benefit of any mandatory protections given to you by the laws of that country.
-    23.1. Any disputes will be subject to the non-exclusive jurisdiction of the courts of England and Wales. This means that you can choose whether to bring a claim in the courts of England and Wales or in the courts of another part of the UK in which you live.
-
-#### Covered Services
-
-* Essential Antivirus
-* Internet Security
-* Total Security
-* Safe Browsing (VPN)
-* Unlimited Devices
-* Family Protection
-* Home Protection
-* Additional Device
-* Adblock Pro
-* Password Vault
-* Advanced Cloud Scanning
-* Identity Protection
-* Smartphone Optimiser
-* Antivirus eBook
-* Priority Support
-* Smartphone Protection
-* Data Breach Scanning
-
-  
-
-You can see our link here to our pricing page [https://www.scanguard.com/subscription-pricing-matrix](https://www.scanguard.com/subscription-pricing-matrix)
+        1. You understand and agree that by requesting any RAS, an RAA may download and use software on your device; gather system data from your device; take remote access control of your device (upon your consent); and otherwise access and modify the device settings as reasonably to troubleshoot any issues and provide the necessary RAS identified.
+        2. You understand and agree that by using our RAS, an RAA may (while engaging in or undertaking the necessary or required RAS) be exposed to or be able to view private and confidential files, information and/or material on your device if not otherwise properly closed or secured.
+        3. We do not take any responsibility for any data (including any files or software) that could be on your device or storage media while the RAS are performed. We cannot be held responsible for any loss or corruption of any data (including any files or software), whether as a result of negligence, accident or otherwise. If reasonably necessary in order to perform the RAS, some or all files or software may be deleted in order to remove viruses, malware, infections, trojan horses, automated programs, worms or corrupted data/files/software in order to make the device functional again.
+        4. We hereby disclaim all representations, warranties and conditions, whether express or implied, regarding the RAS you request, including the representations, warranties and conditions of merchantability, fitness for a particular purpose or any warranty resulting from course of dealing or course of performance. You hereby accept receipt and delivery of any RAS on an “as-is” “where-is” basis.
+        5. We will not be liable for any special, indirect or consequential damages, or any damages whatsoever (whether known or unknown) resulting from or arising out of loss of use, data/files or profits, whether in an action of contract or tortuous action, arising out of or in connection with the provision of any RAS.
+10. #### **Intellectual Property**
+    
+    All trademarks, service marks or other similar items utilized by the Services are the property of their respective owners, including, without limitation, Total Security Group trading as Scanguard. The ownership of all intellectual property rights relating to the Services shall remain with Total Security Group trading as Scanguard and its licensors. You agree not to take any action to jeopardize, limit, or interfere in any manner with Total Security Group’s or its licensor's intellectual property rights.
+    
+11. #### **Limited Warranty**
+    
+    EXCEPT AS EXPRESSLY PROVIDED IN THIS AGREEMENT AND TO THE EXTENT PERMITTED IN ACCORDANCE WITH APPLICABLE LAW, TOTAL SECURITY GROUP AND ITS AFFILIATES, EMPLOYEES, AGENTS, SUPPLIERS AND LICENSORS DISCLAIM ALL WARRANTIES OF ANY KIND IN CONNECTION WITH THE SERVICES PROVIDED HEREUNDER, INCLUDING WARRANTIES COVERING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+    
+12. #### **Disclaimer & INDEMNITY**
+    
+    1. You acknowledge and agree that any use of the Services, including any information or content obtained through the Services, is at your own risk. You further acknowledge and agree that Total Security Group exercises no control over, and accepts no responsibility for, the content of the information as it passes through network hubs and points of presence or the Internet, other than on Total Security Group controlled equipment.
+    2. You agree to indemnify, defend and hold harmless (i) Total Security Group, our officers, directors, employees, agents, licensors, suppliers and (ii) any third party providers of information or services to us and each of their respective officers, directors, employees, agents, subcontractors, affiliates and contractors (“Indemnitees”), from and against all losses, expenses, damages and costs, including reasonable attorneys' fees, resulting from any violation of these Terms, including this Agreement and our Policies or your violation of any applicable laws, rules or regulations. If any Indemnitee is subject to any claim for which such entities have the right to be indemnified by you, it will have the right to, at your expense, assume the exclusive defense and control of any such claim, and you will not in any event settle any claim without that Indemnitee’s prior written consent.
+13. #### **Limitation of Liability**
+    
+    1. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, TOTAL SECURITY GROUP OR ITS OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, CONTRACTORS, DISTRIBUTORS OR SUPPLIERS WILL NOT BE LIABLE TO YOU OR TO ANY THIRD PARTY FOR ANY LOST PROFITS, INTERRUPTION OF BUSINESS, OR ANY SPECIAL, INDIRECT, INCIDENTAL, EXEMPLARY, PUNITIVE, OR CONSEQUENTIAL DAMAGES OF ANY KIND ARISING OUT OF (I) INTERRUPTION TO OR UNAVAILABILITY OF THE SERVICES; (II) BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE, WHICH MAY BE TRANSMITTED TO OR THROUGH THE SERVICE BY ANY THIRD PARTY; (III) ANY ERRORS OR OMISSIONS IN ANY CONTENT OR FOR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF YOUR USE OF ANY CONTENT POSTED, TRANSMITTED, OR OTHERWISE BACKED-UP, STORED OR MADE AVAILABLE VIA THE SERVICES, AND/OR (IV) THE DISCLOSURE OF INFORMATION PURSUANT TO THIS AGREEMENT OR OUR PRIVACY POLICY, AND TOTAL SECURITY GROUP’S LIABILITY TO YOU OR ANY THIRD PARTY CLAIMING THROUGH YOU, FOR ANY CAUSE WHATSOEVER, AND REGARDLESS OF THE FORM OF THE ACTION, IS LIMITED TO THE AMOUNT OF FEES PAID, IF ANY, BY YOU IN THE TWELVE MONTHS PRIOR TO THE CLAIM (OR FOR ANY INITIAL TERM OR RENEWAL TERM OF MORE THAN 12 MONTHS, THE FEES PAID FOR THAT INITIAL TERM OR RENEWAL TERM).
+    2. Total Security Group will have no liability for delays or failures in the Services caused by your failure to comply with the requirements set out herein.
+    3. The terms of this section shall survive any termination of this Agreement.
+14. #### **Assignment and Delegation by Total Security Group**
+    
+    Total Security Group may, in its sole discretion, transfer or assign all or part of its rights under this Agreement and may transfer all or any portion of its duties and obligations under this Agreement. Total Security Group may engage subcontractors or agents in performing its duties and exercising its rights hereunder, without your consent. If you do not agree with any transfer or assignment under this section, you should discontinue your use of the Services and [cancel your account](https://www.scanguard.com/cancellation-form).
+    
+15. #### **Assignment and Delegation by You**
+    
+    You may only assign or part with any of your rights under this Agreement with our express written approval following a satisfactory credit check of the person you wish to transfer your rights to and completion by them of the Total Security Group sign-up process. If you wish to transfer your rights to a third party, please contact our [Help Centre](https://help.scanguard.com/__/contact/support/terms).
+    
+16. #### **Notices**
+    
+    Notices relating to your Services and the terms of this Agreement will be provided to you via the email address you have registered for your Total Security Group account or through your control panel. **It is your responsibility to ensure that the contact details Total Security Group holds for you remains current.**
+    
+17. #### **Entire Agreement**
+    
+    This Agreement (including the items incorporated by reference and modifications that may be made from time to time by Total Security Group), constitutes the entire agreement between Total Security Group and you regarding the Services, and supersedes all prior agreements between you and Total Security Group regarding the subject matters hereof. Any item or service furnished by Total Security Group in furtherance of the Services shall be covered by this Agreement unless otherwise explicitly provided. Should there be any conflict in terms between this Agreement and any other document, the terms set forth in this Agreement shall govern. Any references that are singular or plural and any references that are masculine, feminine, or neutral in gender, are meant to be used interchangeably as the context of the sentence might imply.
+    
+18. #### **Severability**
+    
+    This Agreement will be enforced to the fullest extent permitted by applicable law. Except as set forth specifically above, if for any reason any provision of this Agreement is held to be invalid or unenforceable under applicable law to any extent, then (i) such provision will be interpreted, construed, or reformed to the extent reasonably required to render it valid, enforceable, and consistent with the original intent underlying such provision and (ii) such invalidity or unenforceability will not affect the validity or enforceability of any other provision of this Agreement and all such provisions shall remain in full force and effect.
+    
+19. #### **No Waiver**
+    
+    Total Security Group reserves its right to take all legal steps available to enforce this Agreement. Total Security Group’s failure to exercise any right or remedy hereunder shall not operate as a present or future waiver of such provision or of Total Security Group’s rights to enforce such right or remedy in the future. No waiver of any provisions of this or any other Agreement with Total Security Group shall be effective unless expressly stated in writing and signed by both parties.
+    
+20. #### **Third Party Rights**
+    
+    This Agreement does not give rise to any rights under the Contracts (Rights of Third Parties) Act 1999 or any equivalent local legislation to enforce any term of this Agreement.
+    
+21. #### **Total Security Group Contact information**
+    
+    If you have any questions or comments, please contact us at [eula@scanguard.com](mailto:eula@scanguard.com), visit our [Help Centre](https://help.scanguard.com/__/contact/support/terms) or postal mail to:
+    
+    Total Security US LLC  
+    WeWork Giralda Place  
+    2222 Ponce De Leon Blvd  
+    Blvd Miami,  
+    FL 33134
+    
+    Total Security Limited trading as Protected (Scanguard),  
+    16-18 Barnes Wallis Road,  
+    Segensworth,  
+    Fareham,  
+    Hampshire,  
+    PO15 5TT,  
+    United Kingdom
+    
+    United States - 833 201 8681  
+    United Kingdom - 0800 357 602  
+    Europe - +448081697742  
+    Australia - 1800 952 291  
+    Canada - 833 201 8681  
+    International - (001) 833 201 8681
+    
+    Total Security Limited trading as Scanguard. Company Number 10161957
