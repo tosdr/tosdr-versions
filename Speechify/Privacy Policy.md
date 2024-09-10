@@ -12,9 +12,9 @@
 
 [About](#)
 
-[Log In](https://app.speechify.com/login)[Try For Free](https://speechify.com/onboarding/quiz/intro/?from=homepage&selected=Snoop+Dogg&voiceRedirect=true)
+[Log In](https://app.speechify.com/login)[Try For Free](https://speechify.com/onboarding/quiz/intro/)
 
-[Download Now](https://speechify.com/onboarding/quiz/intro/?from=homepage&selected=Snoop+Dogg&voiceRedirect=true)
+[Download Now](https://speechify.com/onboarding/quiz/intro/)
 
 Privacy Policy
 ==============
@@ -243,7 +243,7 @@ To exercise these rights, you can:
 
 You’ll need to provide us with information sufficient to verify your identity before we can satisfy your request. To do so, you’ll need to log into your account or provide us with certain information regarding yourself and/or your usage of the Site, Software, and Services. You can also designate an authorized agent to make a request on your behalf. To do so, you need to provide us with written authorization for the agent to act on your behalf. You will still need to verify your identity directly with us.
 
-The CCPA sets forth certain obligations for businesses that “sell” personal information. Based on the definition of “sell” under the CCPA and under current regulatory guidance, we don’t believe we engage in such activity and have not engaged in such activity in the past twelve months. Even though we do not sell your personal information, you have the right to opt-out of any potential future selling of your personal information. If you would like to opt-out of any potential future selling of your personal information, please submit a support ticket or email us at . We do share certain information as described in the “Information access and disclosure” section above, and we allow third parties to collect certain information about your activity, for example through cookies, as explained in our [Cookie Policy](https://speechify.com/privacy/#cookie-policy). You can control these cookies through browser settings and other controls; for more information, see our [Cookie Policy](https://speechify.com/privacy/#cookie-policy).
+The CCPA sets forth certain obligations for businesses that “sell” personal information. Based on the definition of “sell” under the CCPA and under current regulatory guidance, we don’t believe we engage in such activity and have not engaged in such activity in the past twelve months. Even though we do not sell your personal information, you have the right to opt-out of any potential future selling of your personal information. If you would like to opt-out of any potential future selling of your personal information, please submit a support ticket or email us at [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection). We do share certain information as described in the “Information access and disclosure” section above, and we allow third parties to collect certain information about your activity, for example through cookies, as explained in our [Cookie Policy](https://speechify.com/privacy/#cookie-policy). You can control these cookies through browser settings and other controls; for more information, see our [Cookie Policy](https://speechify.com/privacy/#cookie-policy).
 
 #### Authorized Agents
 
@@ -380,7 +380,7 @@ Link to [Previous Version](https://web.archive.org/web/20240406231209/https://s
 
 ![](https://website.cdn.speechify.com/logo.svg)
 
-[![app-store](https://website.cdn.speechify.com/app-store.svg)](https://apps.apple.com/us/app/speechify-text-to-speech-audio/id1209815023/)[![play-store](https://website.cdn.speechify.com/play-store.svg)](https://play.google.com/store/apps/details?id=com.cliffweitzman.speechify2)
+[![app-store](https://website.cdn.speechify.com/app-store.svg)](https://apps.apple.com/app/speechify-text-to-speech-audio/id1209815023?ppid=6eb2aad7-ffe4-45fa-b138-50cc08d44770)[![play-store](https://website.cdn.speechify.com/play-store.svg)](https://play.google.com/store/apps/details?id=com.cliffweitzman.speechify2)
 
 ### Products
 
@@ -428,10 +428,10 @@ Link to [Previous Version](https://web.archive.org/web/20240406231209/https://s
 ### Recommended reading
 
 * [5 apps that read out text](https://speechify.com/blog/apps-that-read-out-text/)
-* [How to have your PDF read aloud](https://speechify.com/blog/pdf-read-out-loud/)
-* [Celebrity voice-over generator](https://speechify.com/blog/celebrity-voice-over-generator/)
+* [How to have your PDF read aloud](https://speechify.com/blog/programs-read-pdfs-aloud/)
+* [Celebrity voice-over generator](https://speechify.com/blog/celebrity-voice-generator/)
 * [PDF audio reader](https://speechify.com/blog/pdf-audio-reader/)
-* [6 top PDF to audio converter apps to use in 2023](https://speechify.com/blog/pdf-to-audio-converter-app/)
+* [6 top PDF to audio converter apps to use in 2023](https://speechify.com/blog/pdf-to-audio-converter/)
 * [Voice over generator for PowerPoint](https://speechify.com/blog/voice-over-generator-for-powerpoint/)
 * [Best screen readers to help you read the screen of your computer or phone](https://speechify.com/blog/best-screen-readers/)
 * [Read aloud text](https://speechify.com/blog/read-aloud-text/)
@@ -447,7 +447,7 @@ Link to [Previous Version](https://web.archive.org/web/20240406231209/https://s
 * [Voice over generator for YouTube videos](https://speechify.com/blog/voice-over-generator-for-youtube-videos/)
 * [Read to me: Make your devices read aloud](https://speechify.com/blog/read-to-me/)
 * [How to get celebrity voices with text to speech](https://speechify.com/blog/celebrity-voices-with-text-to-speech/)
-* [Text to speech to MP3](https://speechify.com/blog/text-to-speech-to-mp3/)
+* [Text to speech to MP3](https://speechify.com/blog/text-to-speech-free-online-mp3/)
 * [Is Speechify free for students?](https://speechify.com/blog/is-speechify-free-for-students/)
 * [Generate voice](https://speechify.com/blog/generate-voice/)
 * [Photo text to speech](https://speechify.com/blog/photo-text-to-speech/)
@@ -456,7 +456,7 @@ Link to [Previous Version](https://web.archive.org/web/20240406231209/https://s
 * [Text to audio converter: Speechify](https://speechify.com/blog/text-to-audio-converter-speechify/)
 * [Best text to speech apps for Android](https://speechify.com/blog/best-tts-apps-android/)
 * [Trump voice generator: Best AI voice changers to sound like Trump](https://speechify.com/blog/trump-voice-generator/)
-* [The best PDF readers in 2023](https://speechify.com/blog/best-pdf-reader/)
+* [The best PDF readers in 2023](https://speechify.com/blog/best-pdf-readers/)
 * [Turn any book into an audiobook](https://speechify.com/blog/turn-any-book-into-audiobook/)
 * [Eleven Labs Alternative](https://speechify.com/blog/alternatives-to-elevenlabs/)
 * [Synthesia Alternative](https://speechify.com/blog/best-alternatives-to-synthesia/)
