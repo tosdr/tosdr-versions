@@ -358,7 +358,7 @@ Yes. We work with third-party partners like online advertising networks, social 
 
 ### a. How do I manage Cookies used by Airtable?
 
-Depending on your region, a pop-up window may appear the first time you visit our Service, informing you that our Service uses Cookies, and allowing you to set your cookie preferences for your device. Please be aware that this does not apply to strictly-necessary Cookies. Even if the pop-up window does not appear, you may indicate or change certain preferences by visiting our cookie preference center.
+Depending on your region, a pop-up window may appear the first time you visit our Service, informing you that our Service uses Cookies, and allowing you to set your cookie preferences for your device. Please be aware that this does not apply to strictly-necessary Cookies. Even if the pop-up window does not appear, you may indicate or change certain preferences by visiting our .
 
 ### b. How do I opt out of Google data collection?
 
