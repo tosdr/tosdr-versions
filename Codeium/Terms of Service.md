@@ -2,24 +2,24 @@
 
 [](https://codeium.com/)
 
-Open optionsFeatures
+Open Product optionsProduct
 
-Open optionsResources
+Open Resources optionsResources
 
 [Pricing](https://codeium.com/pricing)
 
 [Enterprise](https://codeium.com/enterprise)
 
-Open optionsCompany
+Open Company optionsCompany
 
 [Get Codeium](https://codeium.com/download)
 
 Terms of Service: Individual
 ============================
 
-_Interested in Codeium Teams? Check out the [Teams Terms of Service](https://codeium.com/terms-of-service-teams)._
+_Interested in Teams? Check out the [Teams Terms of Service](https://codeium.com/terms-of-service-teams)._
 
-**Codeium Terms of Service: Individual**
+**Terms of Service: Individual**
 
 **Last updated June 25, 2024**
 
