@@ -33,6 +33,8 @@ Try a course for free.
 
 [Free online courses](https://www.edx.org/free-online-courses)
 
+Connect, learn, and succeed online. Get up to 30% off with code EDXLEARN24. Offer ends October 1, 2024. [Learn more](https://www.edx.org/online-learning-day).
+
 Close site banner.
 
 ### edX Privacy Policy
