@@ -32,26 +32,15 @@ Vous avez oublié votre mot de passe : [Nouveau mot de passe](https://www.index-
 
 Vous souhaitez vous désincrire de l'espace client : [Se désinscrire](https://www.index-education.com/fr/desinscription.php)
 
-![INDEX EDUCATION - Espace client](https://www.index-education.com/contenu/img/commun/logo-index-education.png) S'inscrire à une formation EDT ou PRONOTE
-
-**Depuis un Client EDT ou PRONOTE** en mode _Administratif_ ou _Vie Scolaire_, allez dans la fenêtre Assistance (menu Assistance en haut à droite) puis cliquez sur le bouton **_S'inscrire à une formation_** : vous aurez ainsi accès au bouton d'inscription aux formations.
-
-![inscription Ã  partir du client PRONOTE](https://www.index-education.com/contenu/img/fr/inscription-formation-pronote.png)
-
-![inscription Ã  partir de l'espace Direction PRONOTE](https://www.index-education.com/contenu/img/fr/inscription-formation-pronote-espace.png)
-
-  
-
-**Depuis votre Espace _Direction_ ou _Vie Scolaire_**, cliquez en bas sur le bouton **_Tout savoir_** : vous aurez ainsi accès au bouton d'inscription aux formations.
-
  [![INDEX EDUCATION - accueil](https://www.index-education.com/contenu/img/fr/logo-index-education.svg)](https://www.index-education.com/fr/ "Accueil")[![INDEX-EDUCATION : Certification ISO 9001](https://www.index-education.com/contenu/img/commun/certification-ISO-9001.png "INDEX-EDUCATION : Certification ISO 9001")](#)
 
 * [Contactez-nous](https://www.index-education.com/fr/contacts.php)[Nous recrutons](https://www.index-education.com/fr/nous-recrutons.php)
 
+* [PRONOTE Primaire](https://www.index-education.com/fr/presentation-pronote-primaire.php)
 * [EDT](https://www.index-education.com/fr/logiciel-emploi-du-temps.php)
 * [PRONOTE](https://www.index-education.com/fr/logiciel-gestion-vie-scolaire.php)
+* [ENEJ](https://www.index-education.com/fr/presentation-enej.php)
 * [HYPERPLANNING](https://www.index-education.com/fr/presentation-hyperplanning.php)
-* [PRONOTE Primaire](https://www.index-education.com/fr/presentation-pronote-primaire.php)
 * [LA SOCIÉTÉ](https://www.index-education.com/fr/presentation.php)
 
 ![en tete](https://www.index-education.com/contenu/img/fr/entete.jpg)
@@ -164,7 +153,7 @@ Marques : INDEX EDUCATION, INDEX-EDUCATION.NET, EDT, PRONOTE, PRONOTE.net, ProfN
   
 Tous les droits qui ne sont pas expressément concédés sont réservés par Index Éducation.  
 
-© Index Éducation 24.07.30
+© Index Éducation 24.09.10
 ==========================
 
 Choix du site
@@ -204,4 +193,4 @@ Légal Sites internet* [Mentions légales et conditions générales d'utilisatio
 Légal produits* [Conditions générales d'utilisation et de vente de nos logiciels](https://www.index-education.com/fr/conditions-generales-de-vente.php)
 * [Politique de protection des données personnelles](https://www.index-education.com/fr/politique-de-protection-des-donnees.php)
 
-INDEX ÉDUCATION | © 2024 \- D
+INDEX ÉDUCATION | © 2024 \- F
