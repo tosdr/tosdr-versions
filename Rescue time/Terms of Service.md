@@ -1,8 +1,8 @@
 ![](https://www.facebook.com/tr?id=1513851155447195&ev=PageView&noscript=1)      
 
-[![](https://assets.rescuetime.com/assets/rtx_marketing/logo_wordmark-bc849541306884e63ccb29b232aacf41afcd191f1acaacc7ea828f5fbbb0176e.svg)](https://www.rescuetime.com/)
+[![](https://assets.rescuetime.com/assets/rt2024-logo-wordmark-light-40h-1111f2f7992a6d7d3d4b060cb5a1ed5a39fad2801dffcd3e48c38ed84e307c1b.svg)](https://www.rescuetime.com/)
 
-* [Teams](https://teams.rescuetime.com/)
+* [For Teams](https://teams.rescuetime.com/)
 * [Guided Focus Sessions (Live!)](https://getfocused.rescuetime.com/guided-focus-sessions/)
 * [Sign In](https://www.rescuetime.com/login)
 * [Try For Free](https://www.rescuetime.com/unified/users/new)
@@ -80,7 +80,7 @@ RescueTime may provide notices to you pursuant to the TOS through email, regular
 
 Cookies help us deliver our services. By using our services, you agree to our use of cookies. OK
 
-[![](https://assets.rescuetime.com/assets/rtx_marketing/logo_wordmark_white-1b2a63cedf4a361e7577e999bad1215563059dbfe2578717bf5fa9c1ca5360b8.svg)](https://www.rescuetime.com/)
+[![](https://assets.rescuetime.com/assets/rt2024-logo-wordmark-light-40h-1111f2f7992a6d7d3d4b060cb5a1ed5a39fad2801dffcd3e48c38ed84e307c1b.svg)](https://www.rescuetime.com/)
 
 **Product**
 
