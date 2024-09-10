@@ -56,7 +56,7 @@
 
 [JACL/OCA Leadership Summit](https://jacl.org/jacl-oca-leadership-summit)
 
-[Legacy Fund Grants - 2023](https://jacl.org/legacy-fund-grants)
+[Legacy Fund Grants](https://jacl.org/legacy-fund-grants)
 
 [The League of Dreams - Documentary of the JACL](https://jacl.org/the-league-of-dreams)
 
@@ -71,6 +71,8 @@
 [Join/Renew](https://jacl.org/member)
 
 [Find Your Chapter](https://jacl.org/find-your-chapter)
+
+[New Categories](https://jacl.org/newcats)
 
 [FAQs](https://jacl.org/mbr-faqs)
 
@@ -186,7 +188,7 @@ Open Menu Close Menu
 
 [JACL/OCA Leadership Summit](https://jacl.org/jacl-oca-leadership-summit)
 
-[Legacy Fund Grants - 2023](https://jacl.org/legacy-fund-grants)
+[Legacy Fund Grants](https://jacl.org/legacy-fund-grants)
 
 [The League of Dreams - Documentary of the JACL](https://jacl.org/the-league-of-dreams)
 
@@ -201,6 +203,8 @@ Open Menu Close Menu
 [Join/Renew](https://jacl.org/member)
 
 [Find Your Chapter](https://jacl.org/find-your-chapter)
+
+[New Categories](https://jacl.org/newcats)
 
 [FAQs](https://jacl.org/mbr-faqs)
 
@@ -322,7 +326,7 @@ Open Menu Close Menu
 
 [JACL/OCA Leadership Summit](https://jacl.org/jacl-oca-leadership-summit)
 
-[Legacy Fund Grants - 2023](https://jacl.org/legacy-fund-grants)
+[Legacy Fund Grants](https://jacl.org/legacy-fund-grants)
 
 [The League of Dreams - Documentary of the JACL](https://jacl.org/the-league-of-dreams)
 
@@ -339,6 +343,8 @@ Open Menu Close Menu
 [Join/Renew](https://jacl.org/member)
 
 [Find Your Chapter](https://jacl.org/find-your-chapter)
+
+[New Categories](https://jacl.org/newcats)
 
 [FAQs](https://jacl.org/mbr-faqs)
 
