@@ -62,6 +62,7 @@
     * [Healthcare](https://pinkerton.com/industries/healthcare)
     * [Financial Institutions](https://pinkerton.com/industries/financial-institutions)
     * [Data Centers](https://pinkerton.com/industries/data-centers)
+    * [Retail](https://pinkerton.com/industries/retail)
     
 * About Us
     
@@ -228,6 +229,7 @@ We welcome reports of suspected infringement of any of these rights. Please dire
     * [Healthcare](https://pinkerton.com/industries/healthcare)
     * [Financial Institutions](https://pinkerton.com/industries/financial-institutions)
     * [Data Centers](https://pinkerton.com/industries/data-centers)
+    * [Retail](https://pinkerton.com/industries/retail)
     
 * About Us
     
