@@ -1,6 +1,6 @@
 Skip to Header Skip to Main Content Skip to Footer
 
-[Our sizzling summer sale has started! Buy now](https://www.leaseweb.com/en/c/summer-sale-2024?utm_source=website&amp;utm_medium=ribbon&amp;utm_campaign=Summer_Sale&amp;utm_content=Global%22)
+[Shop our Autumn sale and receive 25% off Small, Medium, Large, xLarge, and 2xLarge VPS packages.](https://www.leaseweb.com/en/products-services/cloud/virtual-private-server?utm_source=website&utm_medium=ribbon&utm_campaign=VPS_Autumn&utm_content=Global)
 
 [Blog](https://blog.leaseweb.com/)[Knowledge Base](https://kb.leaseweb.com/)[Developer API](http://developer.leaseweb.com/)[Status](https://www.leasewebstatus.com/)[Customer Portal](https://secure.leaseweb.com/)
 
@@ -516,16 +516,16 @@ Leaseweb is the brand name under which various independent Leaseweb Sales Entiti
 * [KYC Customer Verification](https://www.leaseweb.com/en/about-us/legal/know-your-customer "KYC Customer Verification")
 * [Personal Data Protection Acts](https://www.leaseweb.com/en/about-us/legal/personal-data-protection-acts "Personal Data Protection Acts")
 
-Announcement date: 1 July 2024
-------------------------------
+Announcement date: 1 September 2024
+-----------------------------------
 
-Per this Legal Announcement as herewith duly provided at the website of Leaseweb ([https://www.leaseweb.com/en/about-us/legal/sales-contract](https://www.leaseweb.com/en/about-us/legal/sales-contract)) and per short legal announcement in the Customer Portal to all Customers, the following B2B Sales Contract Schedules of all Leaseweb Sales Entities have been amended per versions of 1 July 2024 as notified below. 
+Per this Legal Announcement as herewith duly provided at the website of Leaseweb ([https://www.leaseweb.com/en/about-us/legal/sales-contract](https://www.leaseweb.com/en/about-us/legal/sales-contract)) and per short legal announcement in the Customer Portal to all Customers, the following B2B Sales Contract Schedules of all Leaseweb Sales Entities have been amended per versions of 1 September 2024 as notified below. 
 
 Such amendment - including minor edits for your ease of reading and to optimize clarity and transparency – consist of the following change for Customers benefit:  
 
-* The registered address of Leaseweb UK Limited has changed to 2 Eastbourne Terrace, London W2 6LG, United Kingdom. The address of the Leaseweb Data Center in London remains the same. 
+* New provisions are included in the Policies as terms for technical security audits (“Pentest Audit”) performed by the Customers for permitted activities, which was earlier only available via a separate agreement (Clause 24 of the Policies).
 
-These Leaseweb B2B Sales Contract Schedules, consisting of Sales Terms and Conditions, Services Specifications, Service Level Agreement and Policies will be fully and automatically applicable as per 15 July 2024 to all Sales Contracts and Service Orders taken into account the required notice period of fourteen (14) days. Please see  [https://www.leaseweb.com/en/about-us/legal/sales-contract](https://www.leaseweb.com/en/about-us/legal/sales-contract)  for more information. 
+These Leaseweb B2B Sales Contract Schedules, consisting of Sales Terms and Conditions, Services Specifications, Service Level Agreement and Policies will be fully and automatically applicable as per 15 September 2024 to all Sales Contracts and Service Orders taken into account the required notice period of fourteen (14) days. Please see  [https://www.leaseweb.com/en/about-us/legal/sales-contract](https://www.leaseweb.com/en/about-us/legal/sales-contract)  for more information. 
 
 Sales Contract
 --------------
@@ -564,9 +564,9 @@ The Service Level Agreement set forth the performance metrics such as service le
 
 ### Leaseweb Netherlands B.V. - The Netherlands
 
-[Sales Terms and Conditions](https://nl.object-storage.io/legal-files/july-2024/LSW_NL_B2B_Sales_Contract_Schedule_v1July2024_Leaseweb_Sales_Terms_and_Condition.pdf)  
-[Policies](https://nl.object-storage.io/leaseweb-download/legal-security/LSW_NL_B2B_Sales_Contract_Schedule%20_v1April2024_Policies.pdf)  
-[Services Specifications](https://nl.object-storage.io/legal-files/july-2024/LSW_NL_B2B_Sales_Contract_Schedule_v1July2024_Services_Specifications.pdf)  
+[Sales Terms and Conditions](https://nl.object-storage.io/legal-files/sep-1st/LSW_NL_B2B_Sales_Contract_Schedule_v1September2024_Leaseweb_Sales_Terms_and_Condition.pdf)  
+[Policies](https://nl.object-storage.io/legal-files/sep-1st/LSW_NL_B2B_Sales_Contract_Schedule%20_v1September2024_Policies.pdf)  
+[Services Specifications](https://nl.object-storage.io/legal-files/sep-1st/LSW_NL_B2B_Sales_Contract_Schedule_v1September2024_Services_Specifications.pdf)  
 [Service Level Agreement](https://nl.object-storage.io/legal-files/july-2024/LSW_NL_B2B_Sales_Contract_Schedule_v1July2024_Service_Level_Agreement.pdf)  
 [Reseller Terms and Conditions](https://nl.object-storage.io/leaseweb-download/legal-security/sales-contracts-update/Reseller-Terms/LSW_NL_B2B_V.1March2024_Reseller_Terms_and_Conditions.pdf)  
 [Data Processor Agreement](https://nl.object-storage.io/legal-files/june-2024/LSW_NL_B2B_v2024.1_Data_processor_agreement_LSW-as-Processor_20-06.pdf)
@@ -575,9 +575,9 @@ The Service Level Agreement set forth the performance metrics such as service le
 
 ### Leaseweb Deutschland GmbH - Germany
 
-[Sales Terms and Conditions](https://nl.object-storage.io/legal-files/july-2024/LSW_DE_B2B_Sales_Contract_Schedule_v1July2024_Leaseweb_Sales_Terms_and_Conditions.pdf)  
-[Policies](https://nl.object-storage.io/leaseweb-download/legal-security/LSW_DE_B2B_Sales_Contract_Schedule_v1April2024_Leaseweb_Policies.pdf)  
-[Services Specifications](https://nl.object-storage.io/legal-files/july-2024/LSW_DE_B2B_Sales_Contract_Schedule_v1July2024_Services_Specifications.pdf)  
+[Sales Terms and Conditions](https://nl.object-storage.io/legal-files/sep-1st/LSW_DE_B2B_Sales_Contract_Schedule_v1September2024_Leaseweb_Sales_Terms_and_Conditions.pdf)  
+[Policies](https://nl.object-storage.io/legal-files/sep-1st/LSW_HK_B2B_Sales_Contract_Schedule_1September2024_Policies.pdf)  
+[Services Specifications](https://nl.object-storage.io/legal-files/sep-1st/LSW_DE_B2B_Sales_Contract_Schedule_v1September2024_Services_Specifications.pdf)  
 [Service Level Agreement](https://nl.object-storage.io/legal-files/july-2024/LSW_DE_B2B_Sales_Contract_Schedule_v1July2024_Service_Level_Agreement.pdf)  
 [Reseller Terms and Conditions](https://nl.object-storage.io/leaseweb-download/legal-security/sales-contracts-update/Reseller-Terms/LSW_DE_B2B_1March_2024_Reseller_Terms_and_Conditions.pdf)  
 [Data Processor Agreement](https://nl.object-storage.io/legal-files/june-2024/LSW_DE_B2B_v2024.1_Data-processor-Agreement_LSW-as-Processor.pdf)
@@ -586,9 +586,9 @@ The Service Level Agreement set forth the performance metrics such as service le
 
 ### Leaseweb UK LTD. - United Kingdom
 
-[Sales Terms and Conditions](https://nl.object-storage.io/legal-files/july-2024/LSW_UK_B2B_Sales_Contract_Schedule_v1July2024_Leaseweb_Sales_Terms_and_Conditions.pdf)  
-[Policies](https://nl.object-storage.io/leaseweb-download/legal-security/sales-contracts-update/LSW_UK_B2B_v1March2024_Sales_Contract_Schedule_Policies.pdf)  
-[Services Specifications](https://nl.object-storage.io/legal-files/july-2024/LSW_UK_B2B_Sales_Contract_Schedule_v1July2024_Services_Specifications.pdf)  
+[Sales Terms and Conditions](https://nl.object-storage.io/legal-files/sep-1st/LSW_UK_B2B_Sales_Contract_Schedule%20_v1September2024_Leaseweb_Sales_Terms_and_Conditions.pdf)  
+[Policies](https://nl.object-storage.io/legal-files/sep-1st/LSW_UK_B2B_v1September2024_Sales_Contract_Schedule_Policies.pdf)  
+[Services Specifications](https://nl.object-storage.io/legal-files/sep-1st/LSW_UK_B2B_Sales_Contract_Schedule_v1September2024_Services_Specifications.pdf)  
 [Service Level Agreement](https://nl.object-storage.io/legal-files/july-2024/LSW_UK_B2B_Sales_Contract_Schedule_v1July2024_Service_Level_Agreement.pdf)  
 [Reseller Terms and Conditions](https://nl.object-storage.io/leaseweb-download/legal-security/sales-contracts-update/Reseller-Terms/LSW_UK_B2B_V.1_March_2024_Reseller_Terms_and_Conditions.pdf)
 
@@ -596,9 +596,9 @@ The Service Level Agreement set forth the performance metrics such as service le
 
 ### Leaseweb Singapore PTE. LTD
 
-[Sales Terms and Conditions](https://nl.object-storage.io/legal-files/july-2024/LSW_SG_B2B_Sales_Contract_Schedule%20_v1July2024_Leaseweb_Sales_Terms_and_Conditions.pdf)  
-[Policies](https://nl.object-storage.io/leaseweb-download/legal-security/sales-contracts-update/LSW_SG_B2B_Sales_Contract_Schedule_v1March2024_Policies.pdf)  
-[Services Specifications](https://nl.object-storage.io/legal-files/july-2024/LSW_SG_B2B_Sales_Contract_Schedule_v1July2024_Services_Specifications.pdf)  
+[Sales Terms and Conditions](https://nl.object-storage.io/legal-files/sep-1st/LSW_SG_B2B_Sales_Contract%20Schedule%20_v1September2024_Leaseweb_Sales_Terms_and_Conditions.pdf)  
+[Policies](https://nl.object-storage.io/legal-files/sep-1st/LSW_SG_B2B_Sales_Contract_Schedule_v1September2024_Policies.pdf)  
+[Services Specifications](https://nl.object-storage.io/legal-files/sep-1st/LSW_SG_B2B_Sales_Contract_Schedule_v1September2024_Services_Specifications.pdf)  
 [Service Level Agreement](https://nl.object-storage.io/legal-files/july-2024/LSW_SG_B2B_Sales_Contract_Schedule_v1July2024_Service_Level_Agreement.pdf)  
 [Reseller Terms and Conditions](https://nl.object-storage.io/leaseweb-download/legal-security/sales-contracts-update/Reseller-Terms/LSW_SG_B2B_1March2024_Reseller_Terms_and_Conditions.pdf)
 
@@ -606,9 +606,9 @@ The Service Level Agreement set forth the performance metrics such as service le
 
 ### Leaseweb Australia PTY. LTD. – Australia
 
-[Sales Terms and Conditions](https://nl.object-storage.io/legal-files/july-2024/LSW_AU_B2B_Sales_Contract_Schedule_v1July2024_Leaseweb_Sales_Terms_and_Conditions.pdf)  
-[Policies](https://nl.object-storage.io/leaseweb-download/legal-security/sales-contracts-update/LSW_AU_B2B_Sales_Contract_Schedule_1March2024_Policies.pdf)  
-[Services Specifications](https://nl.object-storage.io/legal-files/july-2024/LSW_AU_B2B_Sales_Contract_Schedule_v1July2024_Services_Specifications.pdf)  
+[Sales Terms and Conditions](https://nl.object-storage.io/legal-files/sep-1st/LSW_AU_B2B_Sales_Contract_Schedule_v1September2024_Leaseweb_Sales_Terms_and_Conditions.pdf)  
+[Policies](https://nl.object-storage.io/legal-files/sep-1st/LSW_AU_B2B_Sales_Contract_Schedule_1September2024_Policies.pdf)  
+[Services Specifications](https://nl.object-storage.io/legal-files/sep-1st/LSW_AU_B2B_Sales_Contract_Schedule_v1September2024_Services_Specifications.pdf)  
 [Service Level Agreement](https://nl.object-storage.io/legal-files/july-2024/LSW_AU_B2B_Sales_Contract_Schedule_v1July2024_Service_Level_Agreement.pdf)  
 [Reseller Terms and Conditions](https://nl.object-storage.io/leaseweb-download/legal-security/sales-contracts-update/Reseller-Terms/LSW_AU_B2B_March_2024_Reseller_Terms_and_Conditions.pdf)
 
@@ -616,9 +616,9 @@ The Service Level Agreement set forth the performance metrics such as service le
 
 ### Leaseweb Hong Kong LTD. – Hong Kong
 
-[Sales Terms and Conditions](https://nl.object-storage.io/legal-files/july-2024/LSW_HK_B2B_Sales_Contract_Schedule_v1July2024_Leaseweb_Sales_Terms_and_Conditions.pdf)  
-[Policies](https://nl.object-storage.io/leaseweb-download/legal-security/sales-contracts-update/LSW_HK_B2B_Sales_Contract_Schedule_1March2024_Policies.pdf)  
-[Services Specifications](https://nl.object-storage.io/legal-files/july-2024/LSW_HK_B2B_Sales_Contract_Schedule_v1July2024_Services_Specifications.pdf)  
+[Sales Terms and Conditions](https://nl.object-storage.io/legal-files/sep-1st/LSW_HK_B2B_Sales_Contract_Schedule_v1September2024_Leaseweb_Sales_Terms_and_Conditions.pdf)  
+[Policies](https://nl.object-storage.io/legal-files/sep-1st/LSW_HK_B2B_Sales_Contract_Schedule_1September2024_Policies.pdf)  
+[Services Specifications](https://nl.object-storage.io/legal-files/sep-1st/LSW_HK_B2B_Sales_Contract_Schedule_v1September2024_Services_Specifications.pdf)  
 [Service Level Agreement](https://nl.object-storage.io/legal-files/july-2024/LSW_HK_B2B_Sales_Contract_Schedule_v1July2024_Service_Level_Agreement.pdf)  
 [Reseller Terms and Conditions](https://nl.object-storage.io/leaseweb-download/legal-security/sales-contracts-update/Reseller-Terms/LSW_HK_B2B_1March_2024_Reseller_Terms_and_Conditions.pdf)
 
@@ -626,9 +626,9 @@ The Service Level Agreement set forth the performance metrics such as service le
 
 ### Leaseweb Japan K.K. – Japan
 
-[Sales Terms and Conditions](https://nl.object-storage.io/legal-files/july-2024/LSW_JP_B2B_Sales_Contract_Schedule_1July2024_Leaseweb_Sales_Terms_and_Conditions.pdf)  
-[Policies](https://nl.object-storage.io/leaseweb-download/legal-security/sales-contracts-update/LSW_JP_B2B_Sales_Contract_Schedule_v1March2024_Policies.pdf)  
-[Services Specifications](https://nl.object-storage.io/legal-files/july-2024/LSW_JP_B2B_Sales_Contract_Schedule_v1July024_Services_Specifications.pdf)  
+[Sales Terms and Conditions](https://nl.object-storage.io/legal-files/sep-1st/LSW_JP_B2B_Sales_Contract_Schedule_1September2024_Leaseweb_Sales_Terms_and_Conditions.pdf)  
+[Policies](https://nl.object-storage.io/legal-files/sep-1st/LSW_JP_B2B_Sales_Contract_Schedule_v1September2024_Policies.pdf)  
+[Services Specifications](https://nl.object-storage.io/legal-files/sep-1st/LSW_JP_B2B_Sales_Contract_Schedule_v1September2024_Services_Specifications.pdf)  
 [Service Level Agreement](https://nl.object-storage.io/legal-files/july-2024/LSW_JP_B2B_Sales_Contract_Schedule_v1July2024_Service_Level_Agreement_0107.pdf)  
 [Reseller Terms and Conditions](https://nl.object-storage.io/leaseweb-download/legal-security/sales-contracts-update/Reseller-Terms/LSW_JP_B2B_1March_2024_Reseller_Terms_and_Conditions.pdf)
 
@@ -636,9 +636,9 @@ The Service Level Agreement set forth the performance metrics such as service le
 
 ### Leaseweb USA, Inc. - United States
 
-[Sales Terms and Conditions](https://nl.object-storage.io/legal-files/july-2024/LSW_US_B2B_Sales_Contract_Schedule_v1July2024_Leaseweb_Sales_Terms_and_Conditions.pdf)  
-[Policies](https://nl.object-storage.io/leaseweb-download/legal-security/sales-contracts-update/LSW_US_B2B_Sales_Contract_Schedule_v1March2024_Policies.pdf)  
-[Services Specifications](https://nl.object-storage.io/legal-files/may-1st/LSW_US_B2B_Sales_Contract_Schedule_v1May2024_Services_Specifications.pdf)  
+[Sales Terms and Conditions](https://nl.object-storage.io/legal-files/sep-1st/LSW_US_B2B_Sales_Contract_Schedule%20_v1September2024_Leaseweb_Sales_Terms_and%20_Conditions.pdf)  
+[Policies](https://nl.object-storage.io/legal-files/sep-1st/LSW_US_B2B_Sales_Contract_Schedule_v1September2024_Policies.pdf)  
+[Services Specifications](https://nl.object-storage.io/legal-files/sep-1st/LSW_US_B2B_Sales_Contract_Schedule_v1September2024_Services_Specifications.pdf)  
 [Service Level Agreement](https://nl.object-storage.io/legal-files/july-2024/LSW_US_B2B_Sales_Contract_Schedule_v1July2024_Service_Level_Agreement.pdf)  
 [Reseller Terms and Conditions](https://nl.object-storage.io/leaseweb-download/legal-security/sales-contracts-update/Reseller-Terms/LSW_US_B2B_v.1_March_2024_Reseller_Terms_and_Conditions.pdf)
 
@@ -646,14 +646,24 @@ The Service Level Agreement set forth the performance metrics such as service le
 
 ### Leaseweb Canada Inc. – Canada
 
-[Sales Terms and Conditions EN](https://nl.object-storage.io/legal-files/july-2024/LSW_CA_B2B_ENG_Sales_Contract_Schedule_1July2024_Sales_Terms_and_Conditions.pdf) / [Sales Terms and Conditions FR](https://nl.object-storage.io/legal-files/july-2024/LSWCA_B2B_FR_Sales_Contract_Schedule_1Juillet2024_Conditions_de_Vente.pdf)  
-[Policies EN](https://nl.object-storage.io/leaseweb-download/legal-security/sales-contracts-update/LSWCA_B2B_ENG_Sales_Contract_Schedule_v1March2024_Policies.pdf) / [Policies FR](https://nl.object-storage.io/leaseweb-download/legal-security/sales-contracts-update/LSWCA_B2B_Sales_Contract_Schedule_v1Mars2024_Politiques_FR.pdf)  
-[Services Specifications EN](https://nl.object-storage.io/legal-files/july-2024/LSW_CA_B2B_Sales_Contract_Schedule_v1July2024_Services_Specifications.pdf) / [Services Specifications FR](https://nl.object-storage.io/legal-files/july-2024/LSW_CA_B2B_FR_Sales_Contract_Schedule_1Juillet2024_Specifications_de_services.pdf)  
+[Sales Terms and Conditions EN](https://nl.object-storage.io/legal-files/sep-1st/LSW_CA_B2B_ENG_Sales_Contract_Schedule_1September2024_Sales_Terms_and_Conditions.pdf) / [Sales Terms and Conditions FR](https://nl.object-storage.io/legal-files/sep-1st/LSWCA_B2B_FR_Sales_Contract_Schedule_1Septembre2024_Conditions_de_Vente.pdf)  
+[Policies EN](https://nl.object-storage.io/legal-files/sep-1st/LSW_CA_B2B_ENG_Sales_Contract_Schedule_v1September2024_Policies.pdf) / [Policies FR](https://nl.object-storage.io/legal-files/sep-1st/LSWCA_B2B_Sales_Contract_Schedule_v1Septembre2024_Politiques_FR.pdf)  
+[Services Specifications EN](https://nl.object-storage.io/legal-files/sep-1st/LSW_CA_B2B_Sales_Contract_Schedule_v1September2024_Services_Specifications.pdf) / [Services Specifications FR](https://nl.object-storage.io/legal-files/sep-1st/LSW_CA_B2B_FR_Sales_Contract_Schedule_1Septembre2024_Sp%C3%A9cifications_de_Services.pdf)  
 [Service Level Agreement EN](https://nl.object-storage.io/legal-files/july-2024/LSW_CA_B2B_Sales_Contract_Schedule_v1July2024_Service_Level_Agreement.pdf) / [Service Level Agreement FR](https://nl.object-storage.io/legal-files/july-2024/LSW_CA_B2B_Sales_Contract_Schedule_1Juillet2024_Entente_sur_les_niveaux_de_service_FR.pdf)  
 [Reseller Terms and Conditions](https://nl.object-storage.io/leaseweb-download/legal-security/sales-contracts-update/Reseller-Terms/LSW_CA_B2B_1March_2024_Reseller_Terms_and_Conditions.pdf)
 
 Previous announcements
 ----------------------
+
+**1 July 2024**
+
+Per this Legal Announcement as herewith duly provided at the website of Leaseweb ([https://www.leaseweb.com/en/about-us/legal/sales-contract](https://www.leaseweb.com/en/about-us/legal/sales-contract)) and per short legal announcement in the Customer Portal to all Customers, the following B2B Sales Contract Schedules of all Leaseweb Sales Entities have been amended per versions of 1 July 2024 as notified below. 
+
+Such amendment - including minor edits for your ease of reading and to optimize clarity and transparency – consist of the following change for Customers benefit:  
+
+* The registered address of Leaseweb UK Limited has changed to 2 Eastbourne Terrace, London W2 6LG, United Kingdom. The address of the Leaseweb Data Center in London remains the same. 
+
+These Leaseweb B2B Sales Contract Schedules, consisting of Sales Terms and Conditions, Services Specifications, Service Level Agreement and Policies will be fully and automatically applicable as per 15 July 2024 to all Sales Contracts and Service Orders taken into account the required notice period of fourteen (14) days. Please see  [https://www.leaseweb.com/en/about-us/legal/sales-contract](https://www.leaseweb.com/en/about-us/legal/sales-contract)  for more information. 
 
 **1 June 2024**
 
