@@ -1,55 +1,56 @@
 [](https://girls.xyz/)
 
-2092 Connecté
+3087 Online
 
-[Connexion](https://girls.xyz/login) [Inscrivez-vous Gratuitement](https://girls.xyz/members/join)
+[Login](https://girls.xyz/login) [Join now for free](https://girls.xyz/members/join)
 
-[](https://en.girls.xyz/ "Anglais")[](https://fr.girls.xyz/ "Français")[](https://rt.girls.xyz/ "Russe")[](https://cz.girls.xyz/ "Tchèque")[](https://ee.girls.xyz/ "Estonien")[](https://lt.girls.xyz/ "Lituanien")[](https://bg.girls.xyz/ "Bulgare")[](https://lv.girls.xyz/ "Letton")[](https://pl.girls.xyz/ "Polonais")[](https://ua.girls.xyz/ "Ukrainien")[](https://fi.girls.xyz/ "Finlandais")[](https://rs.girls.xyz/ "Serbe")[](https://si.girls.xyz/ "Slovaque")[](https://dk.girls.xyz/ "Danois")[](https://no.girls.xyz/ "Norvégien")[](https://es.girls.xyz/ "Espagnol")[](https://se.girls.xyz/ "Suédois")[](https://gr.girls.xyz/ "Grecque")[](https://hu.girls.xyz/ "Hongrois")[](https://sk.girls.xyz/ "Slovaque")[](https://ro.girls.xyz/ "Roumain")[](https://pt.girls.xyz/ "Portugais")[](https://hr.girls.xyz/ "Croate")[](https://fr.girls.xyz/ "Français")[](https://it.girls.xyz/ "Italien")[](https://de.girls.xyz/ "Allemand")[](https://mk.girls.xyz/ "Macédonien")[](https://nl.girls.xyz/ "Hollandais")[](https://tr.girls.xyz/ "Turque")[](https://cn.girls.xyz/ "Chinois")[](https://kr.girls.xyz/ "Coréen")[](https://jp.girls.xyz/ "Japonais")[](https://in.girls.xyz/ "Hindi")[](https://pt.girls.xyz/ "Portugais")[](https://ar.girls.xyz/ "Arabe")[](https://il.girls.xyz/ "Hébreu")
+[](https://en.girls.xyz/ "English")[](https://fr.girls.xyz/ "French")[](https://rt.girls.xyz/ "Russian")[](https://cz.girls.xyz/ "Czech")[](https://ee.girls.xyz/ "Estonian")[](https://lt.girls.xyz/ "Lithuanian")[](https://bg.girls.xyz/ "Bulgarian")[](https://lv.girls.xyz/ "Latvian")[](https://pl.girls.xyz/ "Polish")[](https://ua.girls.xyz/ "Ukrainian")[](https://fi.girls.xyz/ "Finnish")[](https://rs.girls.xyz/ "Serbian")[](https://si.girls.xyz/ "Slovenian")[](https://dk.girls.xyz/ "Danish")[](https://no.girls.xyz/ "Norwegian")[](https://es.girls.xyz/ "Spanish")[](https://se.girls.xyz/ "Swedish")[](https://gr.girls.xyz/ "Greek")[](https://hu.girls.xyz/ "Hungarian")[](https://sk.girls.xyz/ "Slovakian")[](https://ro.girls.xyz/ "Romanian")[](https://pt.girls.xyz/ "Portuguese")[](https://hr.girls.xyz/ "Croatian")[](https://fr.girls.xyz/ "French")[](https://it.girls.xyz/ "Italian")[](https://de.girls.xyz/ "German")[](https://mk.girls.xyz/ "Macedonian")[](https://nl.girls.xyz/ "Dutch")[](https://tr.girls.xyz/ "Turkish")[](https://cn.girls.xyz/ "Chinese")[](https://kr.girls.xyz/ "Korean")[](https://jp.girls.xyz/ "Japanese")[](https://in.girls.xyz/ "Hindi")[](https://pt.girls.xyz/ "Portuguese")[](https://ar.girls.xyz/ "Arabic")[](https://il.girls.xyz/ "Hebrew")
 
-[Tous les modèles](https://girls.xyz/all-models)
+[All models](https://girls.xyz/all-models)
 
-Catégories
+Categories
 
-* [Anal (607 Live)](https://girls.xyz/anal)
-* [Arabe (4 Live)](https://girls.xyz/arabe)
-* [Asiatique (75 Live)](https://girls.xyz/asiatique)
-* [Belles et rondes (102 Live)](https://girls.xyz/belles-et-rondes)
-* [Blacks (148 Live)](https://girls.xyz/blacks)
-* [Blanches (736 Live)](https://girls.xyz/blanches)
-* [Blondes (295 Live)](https://girls.xyz/blonde)
-* [Brunes (820 Live)](https://girls.xyz/brune)
-* [Chattes poilues (136 Live)](https://girls.xyz/chattes-poilues)
-* [Chattes rasées (910 Live)](https://girls.xyz/chattes-ras%C3%A9es)
-* [Enceintes (1 Live)](https://girls.xyz/enceintes)
-* [Etudiantes (357 Live)](https://girls.xyz/lyc%C3%A9ennes)
-* [Femmes au Foyer (464 Live)](https://girls.xyz/femmes-au-foyer)
-* [Femmes fontaines (648 Live)](https://girls.xyz/squirting)
-* [Femmes mûres (328 Live)](https://girls.xyz/femmes-m%C3%BBres)
-* [Fetiche (909 Live)](https://girls.xyz/fetiche)
-* [Fumeuses (17 Live)](https://girls.xyz/fumeuses)
-* [Gros cul (571 Live)](https://girls.xyz/gros-cul)
-* [Gros seins (440 Live)](https://girls.xyz/gros-seins)
-* [Gros Seins (92 Live)](https://girls.xyz/seins-enormes)
-* [Grosses (266 Live)](https://girls.xyz/grosses)
-* [Indienne (10 Live)](https://girls.xyz/indienne)
-* [Jeunes 18+ (357 Live)](https://girls.xyz/ados-18)
-* [Jouets sexuels (909 Live)](https://girls.xyz/jouets)
-* [Latinas (303 Live)](https://girls.xyz/latinas)
-* [Lesbiennes (16 Live)](https://girls.xyz/lesbi%C3%A8nes)
-* [Minettes (591 Live)](https://girls.xyz/babes)
-* [Musclé (32 Live)](https://girls.xyz/muscl%C3%A9)
-* [Petite (116 Live)](https://girls.xyz/petite)
-* [Petits seins (215 Live)](https://girls.xyz/petits-seins)
-* [Pornstar (2 Live)](https://girls.xyz/stars-du-porno)
-* [Rousses (161 Live)](https://girls.xyz/rousses)
-* [Seins moyens (529 Live)](https://girls.xyz/seins-moyens)
-* [Sexe en Groupe (0 Live)](https://girls.xyz/sexe-en-groupe)
-* [SM (215 Live)](https://girls.xyz/sm)
-* [Vieilles (20 Live)](https://girls.xyz/vieilles)
+* [Anal (1013 Live)](https://girls.xyz/anal)
+* [Arab (21 Live)](https://girls.xyz/arab)
+* [Asian (58 Live)](https://girls.xyz/asian)
+* [Babes (805 Live)](https://girls.xyz/babes)
+* [BBW (179 Live)](https://girls.xyz/bbw)
+* [Best for Privates (26 Live)](https://girls.xyz/best-for-privates)
+* [Big Ass (844 Live)](https://girls.xyz/big-ass)
+* [Big Tits (604 Live)](https://girls.xyz/big-tits)
+* [Blonde (361 Live)](https://girls.xyz/blonde)
+* [Bondage (454 Live)](https://girls.xyz/bondage)
+* [Brunette (1347 Live)](https://girls.xyz/brunette)
+* [College Girls (692 Live)](https://girls.xyz/college-girls)
+* [Curvy (361 Live)](https://girls.xyz/curvy)
+* [Ebony (248 Live)](https://girls.xyz/ebony)
+* [Fetish (1431 Live)](https://girls.xyz/fetish)
+* [Granny (24 Live)](https://girls.xyz/granny)
+* [Group Sex (0 Live)](https://girls.xyz/group-sex)
+* [Hairy Pussy (223 Live)](https://girls.xyz/hairy-pussy)
+* [Housewives (782 Live)](https://girls.xyz/housewives)
+* [Huge Tits (141 Live)](https://girls.xyz/huge-tits)
+* [Indian (18 Live)](https://girls.xyz/indian)
+* [Latina (844 Live)](https://girls.xyz/latina)
+* [Lesbian (20 Live)](https://girls.xyz/lesbian)
+* [Mature (442 Live)](https://girls.xyz/mature)
+* [Medium Tits (827 Live)](https://girls.xyz/medium-tits)
+* [Muscle (97 Live)](https://girls.xyz/muscle)
+* [Petite (247 Live)](https://girls.xyz/petite)
+* [Pornstar (12 Live)](https://girls.xyz/pornstar)
+* [Pregnant (3 Live)](https://girls.xyz/pregnant)
+* [Redhead (231 Live)](https://girls.xyz/redhead)
+* [Shaved Pussy (1292 Live)](https://girls.xyz/shaved-pussy)
+* [Small Tits (364 Live)](https://girls.xyz/small-tits)
+* [Smoking (20 Live)](https://girls.xyz/smoking)
+* [Squirt (1087 Live)](https://girls.xyz/squirt)
+* [Teens 18+ (692 Live)](https://girls.xyz/teens-18)
+* [Toys (1433 Live)](https://girls.xyz/toys)
+* [White Girls (750 Live)](https://girls.xyz/white-girls)
 
-Historique
+History
 
-[Toutes les promotions](https://girls.xyz/free-tokens) [Concours](https://girls.xyz/contest/queen-of-queens) [Girls App](https://girls.xyz/mobile-app)
+[All Promotions](https://girls.xyz/free-tokens) [Contests](https://girls.xyz/contest/queen-of-queens-international) [Girls App](https://girls.xyz/mobile-app)
 
 Cookies Policy
 ==============
@@ -79,7 +80,7 @@ The legal basis for the processing of personal data using technically necessary
 
 ### Our cookies
 
-Publisher: ![Adresse 1](//i.wlicdn.com/images/replace/14/arial/666/bnct.svg)
+Publisher: ![Address 1](//i.wlicdn.com/images/replace/14/arial/666/bnct.svg)
 
 | Name | Runtime | Purpose |
 | --- | --- | --- |
@@ -151,7 +152,7 @@ Most browsers are set by default to automatically accept cookies. However, you
 
 We would like to point out that as a result of such settings, you may only be able to use our website with restrictions.
 
-Langues Disponibles
+Supported Languages
 
 * [English](https://en.girls.xyz/)
 * [Русский](https://rt.girls.xyz/)
@@ -188,37 +189,36 @@ Langues Disponibles
 * [العربية](https://ar.girls.xyz/)
 * [עברית](https://il.girls.xyz/)
 
-Assistance
+Support
 
 * [FAQ](https://girls.xyz/user-faq)
-* [Service d'Assistance](https://girls.xyz/contact-support)
-* [Service de conciergerie](https://girls.xyz/concierge-service)
-* [Politique de Confidentialité](https://girls.xyz/privacy)
-* [Termes et Conditions d'Utilisation](https://girls.xyz/terms)
-* [Politique sur les droits d’auteur et la propriété intellectuelle](https://girls.xyz/dmca)
-* [Loi européenne sur les services numériques](https://girls.xyz/digital-services)
-* [Guide de contrôle parental](https://girls.xyz/parental-control-guidance)
+* [Contact Support](https://girls.xyz/contact-support)
+* [Concierge Service](https://girls.xyz/concierge-service)
+* [Privacy Policy](https://girls.xyz/privacy)
+* [Terms & Conditions](https://girls.xyz/terms)
+* [Copyright and Intellectual Property Policy](https://girls.xyz/dmca)
+* [Parental Control Guidance](https://girls.xyz/parental-control-guidance)
 *   
     
-* [Avis des utilisateurs](https://girls.xyz/reviews)
-* [Retrait de contenu](https://girls.xyz/content-removal)
+* [Reviews](https://girls.xyz/reviews)
+* [Complaints & Content Removal](https://girls.xyz/content-removal)
 
-Concours / Argent
+Contest / Money
 
-* [Top 100 de la Semaine](https://girls.xyz/contest/queen-of-queens)
-* [Toutes les promotions](https://girls.xyz/free-tokens)
-* [Inscription Partenaire](https://fr.bongacash.com/ref?c=696088)
+* [Top 100 of the Week](https://girls.xyz/contest/queen-of-queens-international)
+* [All Promotions](https://girls.xyz/free-tokens)
+* [Affiliate Sign up](https://en.bongacash.com/ref?c=696088)
 
-[Visiter](https://girls.xyz/user-faq)
+[Take a tour](https://girls.xyz/user-faq)
 
-Réseaux sociaux
+Social Networks
 
 [Twitter](https://twitter.com/BongacamsM "Twitter") [Instagram](https://www.instagram.com/media.bongacams "Instagram") [Blog](https://blog.bongacams.com/en "Blog") [Telegram](https://t.me/bongacamsofficial "Telegram")
 
-Disponible sur smartphones
+Smartphone compatible
 
-Avertissement: tous les membres et personnes qui apparaissent sur ce site, se sont déclarés comme ayant 18 ans ou plus.
+Disclaimer: All members and persons appearing on this site have contractually represented to us that they are 18 years of age or older.
 
-[Déclaration de Conformité aux Conditions de Tenue d'Archives 18 U.S.C. 2257](https://girls.xyz/2257)
+[18 U.S.C. 2257 Record Keeping Requirements Compliance Statement](https://girls.xyz/2257)
 
-© Tous droits réservés. 2024 [www.girls.xyz](https://girls.xyz/)    Visitez aussi [EPOCH](https://www.epoch.com/) et [SEGPAY](https://www.segpay.com/), nos agents commerciaux agréés. This site is Managed & Operated by ![Adresse 13](//i.wlicdn.com/images/replace/10/arial/999/bnct_v2.svg) ![Adresse 16](//i.wlicdn.com/images/replace/10/arial/999/bnct_add1_v2.svg) ![Adresse 19](//i.wlicdn.com/images/replace/10/arial/999/bnct_add2.svg)
+© All Rights Reserved. 2024 [www.girls.xyz](https://girls.xyz/)    Please visit [EPOCH](https://www.epoch.com/) and [SEGPAY](https://www.segpay.com/), our authorized sales agents. This site is Managed & Operated by ![Address 13](//i.wlicdn.com/images/replace/10/arial/999/bnct_v2.svg) ![Address 16](//i.wlicdn.com/images/replace/10/arial/999/bnct_add1_v2.svg) ![Address 19](//i.wlicdn.com/images/replace/10/arial/999/bnct_add2.svg)
