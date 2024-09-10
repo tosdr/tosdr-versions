@@ -27,6 +27,7 @@ Utility navigation
     * [Pay A Bill](https://www.eatingrecoverycenter.com/patients/pay-a-bill)
 * [Professionals](https://www.eatingrecoverycenter.com/professionals/overview)
     * [Refer A Patient](https://www.eatingrecoverycenter.com/professionals/refer-a-patient)
+    * [Partner with Us](https://www.eatingrecoverycenter.com/professionals/partnership)
     * [Continuing Education](https://www.eatingrecoverycenter.com/professionals/education-events)
     * [Information Gateway](https://www.eatingrecoverycenter.com/professionals/resources/information-gateway)
     * [Love Your Tree](https://www.eatingrecoverycenter.com/love-your-tree)
@@ -178,10 +179,8 @@ CTA navigation(ERC)
 Search 
 
 Suggestions
------------
 
 Common Searches
----------------
 
 * [Eating Disorders](https://www.eatingrecoverycenter.com/search?keyword=Eating%20Disorders)
 * [Treatments](https://www.eatingrecoverycenter.com/search?keyword=Treatments)
