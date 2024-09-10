@@ -52,8 +52,6 @@ We use cookies to personalise content and ads, to provide social media features 
 We use cookies to temporarily save your login information for your own convenience.  
 We also use cookies for other special features on SimilarWorlds.
 
-Open Cookie options
-
 Why do we use cookies?
 
 Without cookies, it would be impossible for SimilarWorlds to be secure and effective.  
