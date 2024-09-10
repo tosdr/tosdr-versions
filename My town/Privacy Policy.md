@@ -27,8 +27,6 @@ We acknowledge that our games are meant for young children; and as we are aware 
 The app does not actively collect any information from children.  
 It does collect technical information which does not specifically identify a user but supports the operation of the app.
 
-device\_type,mobile\_brand\_name,mobile\_model\_name,platform\_version,device\_id,country,session,page views
-
 We work with the following third parties in this app:
 
 We use Firebase Analytics for database and statistics. We collect this information for internal use only and it can’t be used to identify a user. **This third party is prohibited from sharing any data.** For more https://firebase.google.com/support/privacy/  
