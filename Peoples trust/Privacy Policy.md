@@ -756,7 +756,7 @@ Cards issued by Peoples Trust Company under licence by Mastercard International 
 
 Peoples Trust Company is a member of the Canada Deposit Insurance Corporation (CDIC)
 
-[![CDIC Deposit Protection](https://www.peoplestrust.com/wp-content/themes/pg-theme/dist/images/cdic-logo.png)](https://www.cdic.ca/depositors/list-of-members/)
+[![CDIC Deposit Protection](https://www.peoplestrust.com/wp-content/themes/pg-theme/dist/images/cdic-logo.png)](https://www.cdic.ca/depositors/whats-covered/)
 
 * [](https://www.facebook.com/PeoplesGroupofCompanies/)
 * [](https://twitter.com/PeoplesGroupfin)
@@ -771,7 +771,7 @@ Les cartes sont émises par la Compagnie de Fiducie Peoples sous licence de Mast
 
 Peoples Bank est membre de la Société d’assurance-dépôts du Canada (SADC).
 
-[![CDIC Protection Des Dépôts](https://www.peoplestrust.com/wp-content/themes/pg-theme/dist/images/cdic-logo.png)](https://www.sadc.ca/deposants/liste-des-membres/)
+[![CDIC Protection Des Dépôts](https://www.peoplestrust.com/wp-content/themes/pg-theme/dist/images/cdic-logo.png)](https://www.sadc.ca/deposants/ce-qui-est-protege/)
 
 * [](https://www.facebook.com/PeoplesGroupofCompanies/)
 * [](https://twitter.com/PeoplesGroupfin)
