@@ -213,7 +213,7 @@ Press
 Privacy Policy
 ==============
 
-_Effective from August 18, 2023_ 
+_Effective from August 27, 2024_ 
 
 1. Introduction.  
     Your privacy is of paramount importance to BrowserStack, Inc. BrowserStack, Inc. and its affiliates are referred to collectively in this policy as “BrowserStack”, “we”, “us” or “our.” Our affiliates are:
@@ -229,7 +229,7 @@ _Effective from August 18, 2023_ 
     
     Our European Union representative for the purpose of this Privacy Policy is:
     
-    Shyam Veerina  
+    Nakul Aggarwal  
     BrowserStack Limited,  
     8th Floor, Block E, Iveagh Court, Harcourt Road, Dublin 2 Ireland  
     [compliance@browserstack.com](mailto:compliance@browserstack.com)
@@ -414,6 +414,8 @@ _Effective from August 18, 2023_ 
     * [Test Management](https://www.browserstack.com/privacy/additional-privacy-terms-test-management "Privacy-terms-test-management")
     * [Test Observability](https://www.browserstack.com/privacy/additional-privacy-terms-test-observability "Additional Privacy Terms Test Observability")
     * [Accessibility Testing](https://www.browserstack.com/privacy/additional-privacy-terms-accessibility-testing)
+    * [Low Code Automation](https://www.browserstack.com/privacy/additional-privacy-terms-low-code-automation)
+    * [Bug Capture](https://www.browserstack.com/privacy/additional-privacy-terms-bug-capture)
 15. Amendments to this Privacy Policy.  
     BrowserStack may change its Privacy Policy from time to time and at BrowserStack’s sole discretion. The date of the most recent revisions will appear on this page. If you do not agree to these changes, please do not continue to use the Service to submit Account-Related Information or other Personal Information to us. If material changes are made to the Privacy Policy, we will notify you by placing a prominent notice on our website or by sending you a notification in relation to this. We will not process Account-Related Information in a manner not contemplated by this Privacy Policy without your consent.  
     
@@ -437,8 +439,8 @@ Products
 * [Test Observability](https://www.browserstack.com/test-observability)
 * [Accessibility Testing](https://www.browserstack.com/accessibility-testing)
 * [Accessibility Automation](https://www.browserstack.com/accessibility-testing/features/automated-tests)
-* [App Accessibility Testing Beta](https://www.browserstack.com/app-accessibility-testing)
-* [Low Code Automation Beta](https://www.browserstack.com/low-code-automation)
+* [App Accessibility Testing](https://www.browserstack.com/app-accessibility-testing)
+* [Low Code Automation](https://www.browserstack.com/low-code-automation)
 * [Nightwatch.js](https://nightwatchjs.org/)
 * [Enterprise](https://www.browserstack.com/enterprise?ref=footer)
 
@@ -454,6 +456,7 @@ Platform
 * [Data Centers](https://www.browserstack.com/data-centers)
 * [Real Device Features](https://www.browserstack.com/device-features)
 * [Security](https://www.browserstack.com/security)
+* [Trust Center](https://www.browserstack.com/trust)
 
 Solutions
 
