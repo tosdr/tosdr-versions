@@ -1,10 +1,10 @@
-Rated 4.9 / 5 based on [607 reviews](https://www.trustpilot.com/review/www.safari.com) on
+Rated 4.9 / 5 based on [661 reviews](https://www.trustpilot.com/review/www.safari.com) on
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/6520b0548d3d382c9397bb18_trustpilot_2366_logo_1630325953_dqa8g.webp)
 
 Trustpilot
 
-World Travel Awards Nominee 2024 - [Vote for us](https://www.worldtravelawards.com/vote-for-safaricom-africas-leading-safari-company-2024)
+World Travel Awards Nominee 2024
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/64afd4327ac7097277b8488f_flag%20US.png)
 
@@ -138,43 +138,31 @@ Customer Testimonials
 
 out of 5 based on
 
-[607 reviews](https://www.trustpilot.com/review/www.safari.com)
+[661 reviews](https://www.trustpilot.com/review/www.safari.com)
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
-> Jul 31, 2024
+> Sep 10, 2024
 
-> Friendly and Helpful Service
+> Quick reactions to requests
 
-> The agent was so friendly and helpful, and responded quickly to any queries.
+> Quick reactions to requests. Very efficient.
 
-Niki Day
+Wim
 
 ,
 
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Jul 31, 2024
-
-> Efficient Service
-
-> Thank you as always for your efficient service!
-
-Jens
-
-,
-
-ZA
+NL
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
-> Jul 30, 2024
+> Sep 9, 2024
 
-> Shann
+> First Time Safari
 
-> Very patient and understanding. Worked collaboratively with us to achieve just what we wanted.
+> Mel provided an amazing itinerary and took our feedback and adjusted accordingly. She was very helpful and would strongly recommend her to anyone new to the process.
 
-Ursula
+Jessica
 
 ,
 
@@ -182,55 +170,13 @@ US
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
-> Jul 30, 2024
+> Sep 9, 2024
 
-> Excellent thorough & prompt replies
+> It was a great experience dealing with…
 
-> Excellent thorough & prompt replies, total understanding of our requirements. Far, far easier than trying to book by myself.
+> It was a great experience dealing with Shann. She was most accommodating and patient. We managed to sort things out very eventually. The only sore point I have is the 2 % surcharge for the card handling fee, which I find too excessive. Otherwise, I am pleased with everything.
 
-Mike Strange
-
-,
-
-ZA
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Jul 30, 2024
-
-> Mel at Safari.com was very helpful.
-
-> Mel at Safari.com was very helpful. He is a professional and highly courteous. We changed our itinerary four times and he very patiently replied with new quotes and even suggested that we should not take some parts because it is too expensive. He never tried to sell us the most expensive itinerary - just what is right for us. I would highly recommend Mel at Safari.com if you want to go on a safari .
-
-naresh nakra
-
-,
-
-US
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Jul 30, 2024
-
-> The price was right
-
-> The price was right, but when I asked for additional info, like does the provided insurance comply with South African requirements, I got a blank response. So not five stars.
-
-customer
-
-,
-
-US
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Jul 30, 2024
-
-> It was a wonderful experience when we…
-
-> It was a wonderful experience when we were in Africa Safari. The best part of this trip was the excellent services the team provided. We are so please for the good services they had provided.
-
-yan li
+Richard
 
 ,
 
@@ -238,13 +184,13 @@ AU
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
-> Jul 29, 2024
+> Sep 8, 2024
 
-> Anja is amazing
+> Keith went above and beyond…
 
-> Anja is amazing! She made planning our 2 week trip a breeze including rental car, safari, flights, and booking our adventures. She is a wealth of knowledge and I believe we will get more out of our trip using her. I'd highly recommend using Safari.com, not just for your safari, but also to organize and maximize your entire vacation. Pleased to know her to say the least. I will follow up this review for BOOKING with an after the trip review also.
+> Keith went above and beyond expectations arranging our holiday safari travels (for one vegan and one mobility-impaired traveller, no less:-). Safari.com is lucky to have Keith on board. He helped us feel confident in our choices, keeping us up to date with options, and finessing holiday scheduling issues with aplomb.
 
-Jeffrey Speicher
+L.M. Archer
 
 ,
 
@@ -252,17 +198,73 @@ US
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
-> Jul 29, 2024
+> Sep 5, 2024
 
-> Great experience dealing with Leigh-Ann…
+> Tanya Lomas was very efficient and it…
 
-> Great experience dealing with Leigh-Ann who was excellent and responded quickly
+> Tanya Lomas was very efficient and it was a pleasure booking through her.
 
-Andrea Jenkins
+Astrid Brandt/C Brandt
+
+,
+
+ZA
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Sep 3, 2024
+
+> Knowledgable and responsive
+
+> Jayson created a fantastic itinerary within budget and answered questions promptly. Super helpful. I can't wait to get going!
+
+Nicole Tovey
+
+,
+
+AU
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Sep 2, 2024
+
+> Although we didn’t end up booking…
+
+> Although we didn’t end up booking through Safari.com the service we received was great and they were really helpful.
+
+H Mid
 
 ,
 
 GB
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Sep 2, 2024
+
+> Trip to Kruger at Mdluli Safari Lodge
+
+> I loved working with Anja from safari.com. She put together my itinerary within my price range and was very professional, thorough and empathetic. She followed up with me many times to see if I needed anything throughout my trip and even filled out some forms for me when I was having difficulty. When the lodge I stayed at was not being accommodating in the slightest, she quickly contacted the manager and got them to rearrange their services to meet my needs. I would most certainly use safari.com again due to my wonderful experience working with Anja.
+
+Ellen Stephanie
+
+,
+
+US
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Aug 31, 2024
+
+> Nicole at Safari.com is AMAZING!!!
+
+> I would love to share my experience with Nicole. She has worked tirelessly to help me make my dream vacation a reality. I had no idea how to start planning. Nicole suggested the most wonderful South African resorts and safaris. No matter how many changes I threw her way it was always received with a happy, positive attitude. I live in Hawaii and even though we were on a 12 hour time difference she was always available to answer any questions or concerns. Her expertise, knowledge and patience are unmeasurable. I was plagued with numerous payment issues from my bank in Hawaii. Nicole never wavered from being patience and more importantly positive that we could resolve each issue and get my trip booked. Nicole is a huge asset to Safari.com and I will scream it from the mountains to let everyone know what excellent customer service I have received. Nicole is a ROCKSTAR!!! We are so excited for our upcoming adventure of a lifetime!
+
+Heather K.
+
+,
+
+US
 
 VIP service
 
@@ -313,7 +315,7 @@ Contact a safari expert now
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/65ce94d8ce96361ca285c045_logo-green.svg)
 
-#### Effortless safaris, your way  
+#### Moments of Greatness  
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/664ccabd035a0696e62d82e3_africas-leading-safari-company-2024-nominee-shield-256.png)
 
