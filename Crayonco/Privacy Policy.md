@@ -1,7 +1,3 @@
-![Close](https://www.crayon.co/hubfs/Header%20Images/close-ic.svg)
-
-**Elevate your Competitive Enablement with Crayon Answers. Register for our LIVE Crayon AI webinar to learn more. [Save your seat!](https://www.crayon.co/success/elevate-your-ci-strategy?utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8l2notZUdAj8mCA9jEOdBaGyMpcB715o1hmozpwNCB8Wo6mXJvYNDwMAhY-0PIl7fXntQd)**
-
  [![CRAYON, Inc](https://www.crayon.co/hubfs/Logo.svg) ![CRAYON, Inc](https://www.crayon.co/hubfs/Logo.svg)](https://www.crayon.co/)
 
 * [Product](https://www.crayon.co/competitive-intelligence-analysis)
