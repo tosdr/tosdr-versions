@@ -2,13 +2,13 @@
 
 Open menu
 
-[Copilot](https://simplify.jobs/copilot)[Job Application Tracker](https://simplify.jobs/job-application-tracker)[Resume Builder](https://simplify.jobs/resume-builder)[Blog](https://simplify.jobs/blog)[Employers](https://simplify.jobs/employers)
+[Copilot](https://simplify.jobs/copilot)[Job Application Tracker](https://simplify.jobs/job-application-tracker)[Resume Builder](https://simplify.jobs/resume-builder)[Employers](https://simplify.jobs/employers)[Blog](https://simplify.jobs/blog)
 
 Open user menu
 
 More
 
-[Sign Up](https://simplify.jobs/auth/register)
+[Log In](https://simplify.jobs/auth/login)[Sign Up](https://simplify.jobs/auth/register)
 
 Terms and Conditions of **simplify.jobs**
 =========================================
@@ -774,7 +774,7 @@ Latest update: December 22, 2023
 Check out some of our popular job lists!
 ----------------------------------------
 
-[Quant Finance Roles](https://simplify.jobs/l/Quant-Roles)[UI/UX Design Jobs](https://simplify.jobs/l/Entry-Level-UI-UX-Jobs)[Exciting New Grad Roles!](https://simplify.jobs/l/Top-New-Grad)[Remote Jobs for New Grads](https://simplify.jobs/l/Best-Remote-Roles-for-New-Grads)[Top Summer Internships](https://simplify.jobs/l/Top-Summer-Internships)[Internships @ Unicorns](https://simplify.jobs/l/Unicorn-Internships)[Top Quant Finance Internships](https://simplify.jobs/l/Top-Quant-Internships)[Internships @ Top YC Companies](https://simplify.jobs/l/YC-Internships)[Best Remote Internships](https://simplify.jobs/l/Best-Remote-Internships)
+[Top Summer 2025 Internships](https://simplify.jobs/l/Top-Summer-Internships)[Senior Software Roles @ Unicorn Startups](https://simplify.jobs/l/Senior-Software-Roles-at-Unicorn-Startups)[New Grad Roles in NYC](https://simplify.jobs/l/New-Grad-Roles-in-New-York-City)[Top Entry-Level Remote Jobs](https://simplify.jobs/l/Best-Remote-Roles-for-New-Grads)[Internships in the SF Bay Area](https://simplify.jobs/l/Internships-in-SF-Bay-Area)[Top Marketing Internships](https://simplify.jobs/l/Marketing-Internships)[Entry Level UI/UX Design Jobs](https://simplify.jobs/l/Entry-Level-UI-UX-Jobs)[Entry Level IT & Cybersecurity Jobs](https://simplify.jobs/l/Entry-Level-Cybersecurity-IT-Jobs)[Internships @ Unicorns](https://simplify.jobs/l/Unicorn-Internships)
 
 Think of our job lists as “playlists” for jobs. Whether you're looking for jobs in tech, finance, marketing, engineering, IT, sales or more, we've got you covered! Our lists include hand-picked roles specifically for you - whether you're a new college graduate, experienced job seeker, or just a current college student looking for an internship.
 
@@ -804,7 +804,7 @@ Read more ↓
 
 [![Simplify Logo](/images/logos/logo_inverted.svg)](https://simplify.jobs/)
 
-* [Support & FAQ](https://simplify.jobs/support)
+* [Support & FAQ](https://help.simplify.jobs/)
 * [Terms](https://simplify.jobs/terms)
 * [Privacy](https://simplify.jobs/privacy)
 * [Service Status](https://simplify.instatus.com/)
@@ -814,8 +814,8 @@ Read more ↓
 * [Latest Jobs](https://simplify.jobs/latest-jobs)
 * [Latest Companies](https://simplify.jobs/companies-list)
 
-* [TikTok link![TikTok link](/_next/image?url=%2Fimages%2Flanding%2Fsocial%2Ftiktok.png&w=64&q=100)](https://www.tiktok.com/@joinsimplify)
-* [LinkedIn link![LinkedIn link](/_next/image?url=%2Fimages%2Flanding%2Fsocial%2Flinkedin.png&w=64&q=100)](https://www.linkedin.com/company/simplifyjobs/)
-* [Twitter link![Twitter link](/_next/image?url=%2Fimages%2Flanding%2Fsocial%2Ftwitter.png&w=64&q=100)](https://twitter.com/joinsimplify/)
+* [TikTok![TikTok](/_next/image?url=%2Fimages%2Flanding%2Fsocial%2Ftiktok.png&w=64&q=100)](https://www.tiktok.com/@joinsimplify)
+* [LinkedIn![LinkedIn](/_next/image?url=%2Fimages%2Flanding%2Fsocial%2Flinkedin.png&w=64&q=100)](https://www.linkedin.com/company/simplifyjobs/)
+* [Twitter![Twitter](/_next/image?url=%2Fimages%2Flanding%2Fsocial%2Ftwitter.png&w=64&q=100)](https://twitter.com/joinsimplify/)
 
 © 2024 Simplify. All rights reserved.
