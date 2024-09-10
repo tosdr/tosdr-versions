@@ -15,7 +15,7 @@
     * [Our Story](https://arrowheadhealth.com/ahc-story/)
     * [The Redirect Health Centers Difference](https://arrowheadhealth.com/rdc-difference/)
     * [Contact Us](https://arrowheadhealth.com/contact/)
-    * [Join Our Team](https://arrowheadhealth.com/careers/)
+    * [Join Our Team](https://arrowheadhealth.com/careers-openings/)
     * [NCQA Patient Centered Medical Home](https://arrowheadhealth.com/ncqa/)
     * [Patient Stories](https://arrowheadhealth.com/patient-stories/)
     * [Partners and Affiliates](https://arrowheadhealth.com/?page_id=139)
