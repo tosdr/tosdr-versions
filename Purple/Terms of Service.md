@@ -488,7 +488,7 @@ Visit:
 
 [](https://www.bbb.org/us/ut/alpine/profile/mattress/purple-1166-90015217/#sealclick)
 
-© \[date:html\_year\] Purple Innovation, LLC. All Rights Reserved.
+© 2024 Purple Innovation, LLC. All Rights Reserved.
 
 Purple, the Purple Grid, Hyper-Elastic Polymer, GelFlex, and the color purple are registered trademarks of Purple Innovation, LLC
 
