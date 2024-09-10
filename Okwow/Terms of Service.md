@@ -17,6 +17,7 @@
 * [Instant Win](https://okwow.com/giftag/instant-win/)
 * [Expiring Soon](https://okwow.com/category/sweepstakes/expiring-soon/)
 * [Most Recent](https://okwow.com/category/sweepstakes/most-recent/)
+* [Blog](https://okwow.com/category/blog/)
 
 Terms of Use
 ============
