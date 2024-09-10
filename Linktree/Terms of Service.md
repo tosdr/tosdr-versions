@@ -2,7 +2,7 @@
 
 [Log in](https://linktr.ee/login)
 
-[Sign up free](https://linktr.ee/register?freeTrial=true&freeTrialEntryPoint=PAID_MEDIA&tier=paid2&frequency=monthly)
+[Sign up free](https://linktr.ee/register)
 
 [](https://linktr.ee/)
 
@@ -22,7 +22,7 @@
 
 [Log in](https://linktr.ee/login)
 
-[Sign up free](https://linktr.ee/register?freeTrial=true&freeTrialEntryPoint=PAID_MEDIA&tier=paid2&frequency=monthly)
+[Sign up free](https://linktr.ee/register)
 
 [Templates](https://linktr.ee/s/templates/)
 
