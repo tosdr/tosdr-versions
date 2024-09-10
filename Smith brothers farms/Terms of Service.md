@@ -92,7 +92,7 @@
         * BACK
         * [Bread & Buns](https://www.smithbrothersfarms.com/bread)
             
-        * [Tortillas & Pizza](https://www.smithbrothersfarms.com/tortillas-and-pizza)
+        * [Tortillas & Pizza Crust](https://www.smithbrothersfarms.com/tortillas-and-pizza)
             
         * [Bagels](https://www.smithbrothersfarms.com/bagels)
             
@@ -100,9 +100,7 @@
             
         * [Muffins & Scones](https://www.smithbrothersfarms.com/muffins)
             
-        * [Desserts](https://www.smithbrothersfarms.com/desserts)
-            
-        * [Cookies](https://www.smithbrothersfarms.com/cookie)
+        * [Treats](https://www.smithbrothersfarms.com/desserts)
             
         
     * [Meat](https://www.smithbrothersfarms.com/meat-poultry)
@@ -192,13 +190,13 @@ Hi
     * BACK
     * [All Products](https://www.smithbrothersfarms.com/all-products)
         
-    * [New! (14)](https://www.smithbrothersfarms.com/featured-products)
+    * [New! (71)](https://www.smithbrothersfarms.com/featured-products)
         
-    * [On Sale (20)](https://www.smithbrothersfarms.com/on-special)
+    * [On Sale (29)](https://www.smithbrothersfarms.com/on-special)
         
-    * [Summer Essentials (36)](https://www.smithbrothersfarms.com/summer-essentials)
+    * [Summer Essentials (32)](https://www.smithbrothersfarms.com/summer-essentials)
         
-    * [Milk & Cream (44)](https://www.smithbrothersfarms.com/milk-cream)
+    * [Milk & Cream (57)](https://www.smithbrothersfarms.com/milk-cream)
         
         * BACK
         * [Whole Milk (5)](https://www.smithbrothersfarms.com/whole)
@@ -209,23 +207,23 @@ Hi
             
         * [Fat Free Milk (2)](https://www.smithbrothersfarms.com/fat-free)
             
-        * [Flavored Milk (5)](https://www.smithbrothersfarms.com/flavored-milk)
+        * [Flavored Milk (4)](https://www.smithbrothersfarms.com/flavored-milk)
             
         * [Lactose Free Milk (2)](https://www.smithbrothersfarms.com/lactose-free-3)
             
-        * [Plant-Based Milk (10)](https://www.smithbrothersfarms.com/non-dairy-3)
+        * [Plant-Based Milk (17)](https://www.smithbrothersfarms.com/non-dairy-3)
             
-        * [Half & Half, Creamers (9)](https://www.smithbrothersfarms.com/flavored-creamers)
+        * [Half & Half, Creamers (15)](https://www.smithbrothersfarms.com/flavored-creamers)
             
         * [Buttermilk & Sour Cream (2)](https://www.smithbrothersfarms.com/buttermilk)
             
-        * [Whipping Cream (4)](https://www.smithbrothersfarms.com/whipping-cream)
+        * [Whipping Cream (5)](https://www.smithbrothersfarms.com/whipping-cream)
             
         
-    * [Yogurt (47)](https://www.smithbrothersfarms.com/yogurt)
+    * [Yogurt (67)](https://www.smithbrothersfarms.com/yogurt)
         
         * BACK
-        * [Greek Yogurt (27)](https://www.smithbrothersfarms.com/greek)
+        * [Greek Yogurt (47)](https://www.smithbrothersfarms.com/greek)
             
         * [Traditional Yogurt (20)](https://www.smithbrothersfarms.com/traditional)
             
@@ -256,62 +254,60 @@ Hi
         * [Cottage Cheese (2)](https://www.smithbrothersfarms.com/cottage-cheese)
             
         
-    * [Produce (86)](https://www.smithbrothersfarms.com/produce-3)
+    * [Produce (80)](https://www.smithbrothersfarms.com/produce-3)
         
         * BACK
         * [Harvest Box (1)](https://www.smithbrothersfarms.com/bulk-boxes)
             
-        * [Fruit (25)](https://www.smithbrothersfarms.com/fruit)
+        * [Fruit (20)](https://www.smithbrothersfarms.com/fruit)
             
-        * [Vegetables (30)](https://www.smithbrothersfarms.com/vegetables)
+        * [Vegetables (29)](https://www.smithbrothersfarms.com/vegetables)
             
         * [Salad Kits (24)](https://www.smithbrothersfarms.com/salads)
             
         * [Prepared Produce (6)](https://www.smithbrothersfarms.com/prepped)
             
         
-    * [Bakery (57)](https://www.smithbrothersfarms.com/bakery)
+    * [Bakery (58)](https://www.smithbrothersfarms.com/bakery)
         
         * BACK
-        * [Bread & Buns (22)](https://www.smithbrothersfarms.com/bread)
+        * [Bread & Buns (23)](https://www.smithbrothersfarms.com/bread)
             
-        * [Tortillas & Pizza (3)](https://www.smithbrothersfarms.com/tortillas-and-pizza)
+        * [Tortillas & Pizza Crust (3)](https://www.smithbrothersfarms.com/tortillas-and-pizza)
             
         * [Bagels (10)](https://www.smithbrothersfarms.com/bagels)
             
-        * [Breakfast Treats (12)](https://www.smithbrothersfarms.com/breakfast-treats)
+        * [Breakfast Treats (15)](https://www.smithbrothersfarms.com/breakfast-treats)
             
-        * [Muffins & Scones (7)](https://www.smithbrothersfarms.com/muffins)
+        * [Muffins & Scones (6)](https://www.smithbrothersfarms.com/muffins)
             
-        * [Desserts (4)](https://www.smithbrothersfarms.com/desserts)
-            
-        * [Cookies (1)](https://www.smithbrothersfarms.com/cookie)
+        * [Treats (3)](https://www.smithbrothersfarms.com/desserts)
             
         
-    * [Meat (35)](https://www.smithbrothersfarms.com/meat-poultry)
+    * [Meat (48)](https://www.smithbrothersfarms.com/meat-poultry)
         
         * BACK
-        * [Beef, Pork, & Poultry (10)](https://www.smithbrothersfarms.com/poultry)
+        * [Beef, Pork, & Poultry (15)](https://www.smithbrothersfarms.com/poultry)
             
-        * [Bacon & Breakfast Meat (6)](https://www.smithbrothersfarms.com/bacon-breakfast-meat)
+        * [Bacon & Breakfast Meat (13)](https://www.smithbrothersfarms.com/bacon-breakfast-meat)
             
-        * [Sausage, Dogs & Brats (4)](https://www.smithbrothersfarms.com/bacon-and-sausage)
+        * [Sausage, Dogs & Brats (5)](https://www.smithbrothersfarms.com/bacon-and-sausage)
             
         * [Deli & Charcuterie (15)](https://www.smithbrothersfarms.com/deli-and-charcuterie)
             
         
-    * [Meals & Sides (60)](https://www.smithbrothersfarms.com/prepared-foods)
+    * [Meals & Sides (71)](https://www.smithbrothersfarms.com/prepared-foods)
         
         * BACK
-        * [Frozen Meals (22)](https://www.smithbrothersfarms.com/entrees)
+        * [Frozen Meals (34)](https://www.smithbrothersfarms.com/entrees)
             
-        * [Sides & Appetizers (12)](https://www.smithbrothersfarms.com/sides-and-apps)
+        * [Sides & Appetizers (15)](https://www.smithbrothersfarms.com/sides-and-apps)
             
-        * [Dips & Spreads (10)](https://www.smithbrothersfarms.com/dips-and-spreads-3)
+        * [Dips & Spreads (7)](https://www.smithbrothersfarms.com/dips-and-spreads-3)
             
         * [Pizza & Pasta (15)](https://www.smithbrothersfarms.com/pasta)
             
-        * [Sauces (7)](https://www.smithbrothersfarms.com/sauces-and-soups)
+        * [Sauces (6)](https://www.smithbrothersfarms.com/sauces-and-soups)
             
         
     * [Coffee, Juice & Tea (42)](https://www.smithbrothersfarms.com/coffee-juice-tea)
@@ -331,15 +327,15 @@ Hi
     * [Snacks (36)](https://www.smithbrothersfarms.com/snacks)
         
         * BACK
-        * [Salsa, Dips & Hummus (17)](https://www.smithbrothersfarms.com/salsa)
+        * [Salsa, Dips & Hummus (15)](https://www.smithbrothersfarms.com/salsa)
             
-        * [Chips, Crackers & Nuts (19)](https://www.smithbrothersfarms.com/chips-and-crackers)
+        * [Chips, Crackers & Nuts (21)](https://www.smithbrothersfarms.com/chips-and-crackers)
             
         
-    * [Merchandise (10)](https://www.smithbrothersfarms.com/merchandise)
+    * [Merchandise (9)](https://www.smithbrothersfarms.com/merchandise)
         
         * BACK
-        * [Apparel (10)](https://www.smithbrothersfarms.com/apparel-and-caps-2)
+        * [Apparel (9)](https://www.smithbrothersfarms.com/apparel-and-caps-2)
             
         
     
@@ -452,5 +448,11 @@ Separate from user content posted on our Sites, you can submit questions, commen
 * [![Download our app from the App Store](https://sbfcdn.azureedge.net/media/footer/Apple-App-Store-Badge.png)](https://apps.apple.com/us/app/smith-brothers-farms/id1412216353 "Download our app from the App Store")
 
 Copyright © 2024 Smith Brothers Farms. All rights reserved.
+
+* * *
+
+* * *
+
+YES NO
 
 ×
