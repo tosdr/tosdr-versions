@@ -9,7 +9,7 @@ Select Page
 User Rights Policy Notice
 =========================
 
-Last Modified: December 18, 2023
+Last Modified: August 02, 2024
 
 [Back to Privacy Center](https://privacy-center.sharethrough.com/)
 
@@ -356,6 +356,44 @@ _**We will not discriminate against you for exercising any of your CCPA rights.�
 
 **_Response Timing and Format  
 _**We will generally process these requests within forty-five (45) days of its receipt. If we require more time (up to 45 days), we will inform you of the reason and extension period in writing.
+
+**CCPA Request Statistics**
+
+Sharethrough is a registered data broker under the CCPA. As part of its registration requirements, please find the status below related to data subject request. Kindly note, we cannot verify that all these requests were from California; we include below our global statistics.
+
+|     |     |     |
+| --- | --- | --- |  
+| Request to Access | No. Received | 3   |
+| Complied with (In Whole or In Part) | 3   |
+| Denied | 0   |
+| Median Response Time (days) | —   |
+| Mean Response Time (days) | 5.3 |
+|     |     |     |
+| Request to Know | No. Received | 1   |
+| Complied with (In Whole or In Part) | 1   |
+| Denied | 0   |
+| Median Response Time (days) | 16  |
+| Mean Response Time (days) | 16  |
+|     |     |     |
+| Requests to Opt Out of  <br>Sale or Sharing | No. Received | 9   |
+| Complied with (In Whole or In Part) | 9   |
+| Denied | 0   |
+| Median Response Time (days) | 7   |
+| Mean Response Time (days) | 4.6 |
+|     |     |     |
+| Request to Limit the Use  <br>of Personal Information | No. Received | 0   |
+| Complied with (In Whole or In Part) | 0   |
+| Denied | 0   |
+| Median Response Time (days) | —   |
+| Mean Response Time (days) | —   |
+|     |     |     |
+| Request to Delete | No. Received | 0   |
+| Complied with (In Whole or In Part) | 0   |
+| Denied\* | 0   |
+| Median Response Time (days) | —   |
+| Mean Response Time (days) | —   |
+
+\* No request was denied under California Civil Code section 1798.145 or 1798.146. 
 
 **Contact Information  
 **Please contact us using the information in the Contact Information section.
