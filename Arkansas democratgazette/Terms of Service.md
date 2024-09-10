@@ -2,8 +2,8 @@
 
 * ### News
     
-    * [Subscribe](https://subscribe.wehco.com/subscription/arkansas-democrat-gazette/?utm_source=arkansasonline&utm_medium=website&utm_campaign=subscribe-nav-ao&_gl=1*eapz7t*_ga*MTAxNjcxNjQxLjE2OTA4MzU1MTE.*_ga_5XPQGXY93Q*MTY5NTE1MzAxMy4xOC4xLjE2OTUxNTM3ODUuNTQuMC4w&_ga=2.84831647.764650667.1695153015-101671641.1690835511)
     * [Today's Paper](https://edition.arkansasonline.com/arkansas-democrat-gazette/?_ga=2.45937127.213273155.1713283458-233273359.1712689624&_gl=1*1qd27ml*_ga*MjMzMjczMzU5LjE3MTI2ODk2MjQ.*_ga_5XPQGXY93Q*MTcxMzM3MTkzNS44LjEuMTcxMzM3NTM3OC41Ni4wLjA.)
+    * [Subscribe](https://subscribe.wehco.com/subscription/arkansas-democrat-gazette/?utm_source=arkansasonline&utm_medium=website&utm_campaign=subscribe-nav-ao&_gl=1*eapz7t*_ga*MTAxNjcxNjQxLjE2OTA4MzU1MTE.*_ga_5XPQGXY93Q*MTY5NTE1MzAxMy4xOC4xLjE2OTUxNTM3ODUuNTQuMC4w&_ga=2.84831647.764650667.1695153015-101671641.1690835511)
     * [Email Newsletters](https://newsletters.arkansasonline.com/braze/signup/gni/)
     * [Arkansas News](https://www.arkansasonline.com/news/news/arkansas/?page=1)
     * [Politics](https://www.arkansasonline.com/news/news/politics/arkansas/)
@@ -20,8 +20,9 @@
     * [Nation & World News](https://www.arkansasonline.com/news/news/nation-world/?page=1)
     * [Obituaries](https://www.arkansasonline.com/obituaries/)
     * [Archives](https://www.arkansasonline.com/archivesearch/)
+    * [National Conventions](https://www.arkansasonline.com/national-conventions/)
+    * [Voter FAQ](https://www.arkansasonline.com/voterfaq/)
     * [Weather](https://www.arkansasonline.com/localweather/)
-    * [National Conventions](https://www.arkansasonline.com/news/national-conventions/)
 * ### Sports
     
     * [All Sports](https://www.arkansasonline.com/news/sports/?page=1)
@@ -81,24 +82,25 @@
     * [Jobs](http://www.jobsarkansas.com/)
     * [Autos](http://www.autosarkansas.com/)
     * [Real Estate](https://classifieds.arkansasonline.com/marketplace-littlerock/category/real%20estate?_gl=1*gjl00e*_ga*MTAxNjcxNjQxLjE2OTA4MzU1MTE.*_ga_5XPQGXY93Q*MTY5NTE1MzAxMy4xOC4xLjE2OTUxNTM3ODUuNTQuMC4w&_ga=2.156246717.764650667.1695153015-101671641.1690835511)
-    * [Legal Notices](https://www.arkansasonline.com/legals/)
+    * [Legal Notices](https://classifieds.arkansasonline.com/marketplace-littlerock/category/legal%20notices/)
     * [Ads/Coupons](https://flipp.com/weekly_ads)
     * [Legal Notices Archive](https://www.arkansasonline.com/legalsarchive/)
 * ### Extras
     
     * [Subscribe!](https://www.arkansasonline.com/subscribe/)
-    * [Advertise](https://www.adgadvertising.com/AO-landing-page)
     * [Subscriber Help](https://www.arkansasonline.com/settings/)
-    * [ADG Staff List](https://www.arkansasonline.com/staff/)
-    * [FAQ](https://www.arkansasonline.com/digital/faq/)
+    * [Donate](https://arcommunitynews.org/)
+    * [Advertise](https://www.adgadvertising.com/AO-landing-page)
     * [Contact Us](https://www.arkansasonline.com/contact/)
-    * [iPad Covers](https://shop.arkansasonline.com/collections/ipad-covers)
+    * [ADG Staff List](https://www.arkansasonline.com/staff/)
     * [Our Core Values](https://www.arkansasonline.com/corevalues/)
+    * [FAQ](https://www.arkansasonline.com/digital/faq/)
+    * [iPad Covers](https://shop.arkansasonline.com/collections/ipad-covers)
     * [ADG Store](https://shop.arkansasonline.com/)
 * ### Promotions
     
     * [Special Pubs](https://www.arkansasonline.com/advertising/specialsections/)
-    * [Best of the Best](https://www.arkansasonline.com/bestofthebest/)
+    * [Best of the Best Event](https://bestofthebest.arkansasonline.com/)
     * [Wedding Show](http://arkansasbridalcommunity.com/)
     * [Pops on the River](http://pops.arkansasonline.com/?_gl=1*1y33zkz*_ga*MTAxNjcxNjQxLjE2OTA4MzU1MTE.*_ga_5XPQGXY93Q*MTY5NTE2MzM3Ny4xOS4xLjE2OTUxNjM1OTcuNTkuMC4w&_ga=2.147392945.764650667.1695153015-101671641.1690835511)
     * [Job Fair](http://jobfair.arkansasonline.com/?_ga=2.88023838.764650667.1695153015-101671641.1690835511)
@@ -113,19 +115,20 @@ Open user options menu
 
 * [Manage Subscription](https://www.arkansasonline.com/settings/)
 * [Sign Out](https://www.arkansasonline.com/auth/logout)
-* [Sign In](https://www.arkansasonline.com/auth/login?r=//www.arkansasonline.com/tools/termsofuse/)
+* [Donate](https://www.arcommunitynews.org/)
+* [Sign In](https://www.arkansasonline.com/auth/login?r=//www.arkansasonline.com/tools/termsofuse/)
 * [Subscribe](https://subscribe.arkansasonline.com/subscription/arkansas-democrat-gazette/?utm_source=id&utm_medium=website&utm_campaign=default&utm_term=39&utm_content=sub_button)
+* [Donate](https://www.arcommunitynews.org/)
 
 * [Today's Paper](https://edition.arkansasonline.com/arkansas-democrat-gazette/)
 * [Home](https://www.arkansasonline.com/)
-* [News](https://www.arkansasonline.com/news/news/arkansas/?page=1)
-* [National Conventions](https://www.arkansasonline.com/news/national-conventions/)
-* [Politics](https://www.arkansasonline.com/news/news/politics/arkansas/)
-* [Sports](https://www.arkansasonline.com/news/sports/)
-* [Business](https://www.arkansasonline.com/news/business/)
-* [LEARNS](https://www.arkansasonline.com/learns_act/)
-* [Lifestyle](https://www.arkansasonline.com/news/features/style/)
-* [Opinion](https://www.arkansasonline.com/news/opinions/)
+* [Local News](https://www.arkansasonline.com/news/news/arkansas/?page=1)
+* [HS Football Scores](https://www.arkansasonline.com/arpreps/2024/)
+* [Voter FAQ](https://www.arkansasonline.com/voterfaq/)
+* [Best of the Best Event](https://bestofthebest.arkansasonline.com/)
+* [Education](https://www.arkansasonline.com/news/education/)
+* [Crime](https://www.arkansasonline.com/news/news/arkansas/crime/)
+* [Religion](https://www.arkansasonline.com/news/religion/)
 * [Podcasts](https://www.arkansasonline.com/news/podcasts/)
 * [Obits](https://www.arkansasonline.com/obituaries/)
 * [Newsletters](https://newsletters.arkansasonline.com/braze/signup/gni/)
@@ -326,8 +329,8 @@ Copyright Associated Press. All rights reserved. This material may not be publis
 
 * ### News
     
-    * [Subscribe](https://subscribe.wehco.com/subscription/arkansas-democrat-gazette/?utm_source=arkansasonline&utm_medium=website&utm_campaign=subscribe-nav-ao&_gl=1*eapz7t*_ga*MTAxNjcxNjQxLjE2OTA4MzU1MTE.*_ga_5XPQGXY93Q*MTY5NTE1MzAxMy4xOC4xLjE2OTUxNTM3ODUuNTQuMC4w&_ga=2.84831647.764650667.1695153015-101671641.1690835511)
     * [Today's Paper](https://edition.arkansasonline.com/arkansas-democrat-gazette/?_ga=2.45937127.213273155.1713283458-233273359.1712689624&_gl=1*1qd27ml*_ga*MjMzMjczMzU5LjE3MTI2ODk2MjQ.*_ga_5XPQGXY93Q*MTcxMzM3MTkzNS44LjEuMTcxMzM3NTM3OC41Ni4wLjA.)
+    * [Subscribe](https://subscribe.wehco.com/subscription/arkansas-democrat-gazette/?utm_source=arkansasonline&utm_medium=website&utm_campaign=subscribe-nav-ao&_gl=1*eapz7t*_ga*MTAxNjcxNjQxLjE2OTA4MzU1MTE.*_ga_5XPQGXY93Q*MTY5NTE1MzAxMy4xOC4xLjE2OTUxNTM3ODUuNTQuMC4w&_ga=2.84831647.764650667.1695153015-101671641.1690835511)
     * [Email Newsletters](https://newsletters.arkansasonline.com/braze/signup/gni/)
     * [Arkansas News](https://www.arkansasonline.com/news/news/arkansas/?page=1)
     * [Politics](https://www.arkansasonline.com/news/news/politics/arkansas/)
@@ -344,8 +347,9 @@ Copyright Associated Press. All rights reserved. This material may not be publis
     * [Nation & World News](https://www.arkansasonline.com/news/news/nation-world/?page=1)
     * [Obituaries](https://www.arkansasonline.com/obituaries/)
     * [Archives](https://www.arkansasonline.com/archivesearch/)
+    * [National Conventions](https://www.arkansasonline.com/national-conventions/)
+    * [Voter FAQ](https://www.arkansasonline.com/voterfaq/)
     * [Weather](https://www.arkansasonline.com/localweather/)
-    * [National Conventions](https://www.arkansasonline.com/news/national-conventions/)
 * ### Sports
     
     * [All Sports](https://www.arkansasonline.com/news/sports/?page=1)
@@ -405,24 +409,25 @@ Copyright Associated Press. All rights reserved. This material may not be publis
     * [Jobs](http://www.jobsarkansas.com/)
     * [Autos](http://www.autosarkansas.com/)
     * [Real Estate](https://classifieds.arkansasonline.com/marketplace-littlerock/category/real%20estate?_gl=1*gjl00e*_ga*MTAxNjcxNjQxLjE2OTA4MzU1MTE.*_ga_5XPQGXY93Q*MTY5NTE1MzAxMy4xOC4xLjE2OTUxNTM3ODUuNTQuMC4w&_ga=2.156246717.764650667.1695153015-101671641.1690835511)
-    * [Legal Notices](https://www.arkansasonline.com/legals/)
+    * [Legal Notices](https://classifieds.arkansasonline.com/marketplace-littlerock/category/legal%20notices/)
     * [Ads/Coupons](https://flipp.com/weekly_ads)
     * [Legal Notices Archive](https://www.arkansasonline.com/legalsarchive/)
 * ### Extras
     
     * [Subscribe!](https://www.arkansasonline.com/subscribe/)
-    * [Advertise](https://www.adgadvertising.com/AO-landing-page)
     * [Subscriber Help](https://www.arkansasonline.com/settings/)
-    * [ADG Staff List](https://www.arkansasonline.com/staff/)
-    * [FAQ](https://www.arkansasonline.com/digital/faq/)
+    * [Donate](https://arcommunitynews.org/)
+    * [Advertise](https://www.adgadvertising.com/AO-landing-page)
     * [Contact Us](https://www.arkansasonline.com/contact/)
-    * [iPad Covers](https://shop.arkansasonline.com/collections/ipad-covers)
+    * [ADG Staff List](https://www.arkansasonline.com/staff/)
     * [Our Core Values](https://www.arkansasonline.com/corevalues/)
+    * [FAQ](https://www.arkansasonline.com/digital/faq/)
+    * [iPad Covers](https://shop.arkansasonline.com/collections/ipad-covers)
     * [ADG Store](https://shop.arkansasonline.com/)
 * ### Promotions
     
     * [Special Pubs](https://www.arkansasonline.com/advertising/specialsections/)
-    * [Best of the Best](https://www.arkansasonline.com/bestofthebest/)
+    * [Best of the Best Event](https://bestofthebest.arkansasonline.com/)
     * [Wedding Show](http://arkansasbridalcommunity.com/)
     * [Pops on the River](http://pops.arkansasonline.com/?_gl=1*1y33zkz*_ga*MTAxNjcxNjQxLjE2OTA4MzU1MTE.*_ga_5XPQGXY93Q*MTY5NTE2MzM3Ny4xOS4xLjE2OTUxNjM1OTcuNTkuMC4w&_ga=2.147392945.764650667.1695153015-101671641.1690835511)
     * [Job Fair](http://jobfair.arkansasonline.com/?_ga=2.88023838.764650667.1695153015-101671641.1690835511)
