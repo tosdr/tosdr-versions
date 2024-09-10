@@ -1,37 +1,12 @@
 [Skip to main content](#main-content)
 
-20% off Ricoh Theta X or Z1 with annual Pro Plan purchase now through July 31st. [Buy Now](https://matterport.com/en-gb/ricoh).
-
-Keywords
-
-Search
-
-Sales: +44(0)2038 747580
-
-[Contact Us](https://matterport.com/en-gb/contact-us)
-
-English (UK)
-
-* English
-* English (UK)
-* Français
-* Deutsch
-* Español
-* Italiano
-* 日本語
-* 한국어
-
-[Sign In](https://authn.matterport.com/auth/login)
-
 [![Matterport Logo - Dark](https://images.ctfassets.net/icnj41gkyohw/4thXL2Wog5WjrJi8V3rHO4/9ca693c5334983cdf41c86ff009d5fd1/logo.svg)](https://matterport.com/)
 
-Main Navigation
+[Search![search icon](/nextjs-assets/images/icons/search.svg)](https://matterport.com/search)![menu icon](/nextjs-assets/images/icons/menu.svg)
 
-Keywords
+Solutions![chevron up icon](/nextjs-assets/images/icons/chevron_up.svg)Products![chevron up icon](/nextjs-assets/images/icons/chevron_up.svg)Pricing![chevron up icon](/nextjs-assets/images/icons/chevron_up.svg)Resources![chevron up icon](/nextjs-assets/images/icons/chevron_up.svg)What's New![chevron up icon](/nextjs-assets/images/icons/chevron_up.svg)[![avatar icon](/nextjs-assets/images/icons/avatar.svg)Sign In](https://authn.matterport.com/auth/login)
 
-Search
-
-English (UK)
+![globe icon](/nextjs-assets/images/icons/globe.svg)EN
 
 * English
 * English (UK)
@@ -42,62 +17,13 @@ English (UK)
 * 日本語
 * 한국어
 
-* Solutions
-    ---------
-    
-    * [Enterprise](https://matterport.com/en-gb/enterprise)
-    * [Property Marketing](https://matterport.com/solutions/property-marketing)
-    * [Design & Construction](https://matterport.com/solutions/design-construction)
-    * [Facilities Management](https://matterport.com/solutions/facilities-management)
-* Software & Services
-    -------------------
-    
-    * [Digital Twin Features](https://matterport.com/en-gb/digital-twin-features)
-    * [Capture Services](https://matterport.com/en-gb/capture-services)
-    * [Floor Plans](https://matterport.com/en-gb/how-it-works/schematic-floor-plans)
-    * [Amazon TwinMaker](https://matterport.com/en-gb/partners/amazon-web-services)
-    * [BIM](https://matterport.com/en-gb/bim)
-    * [CAD](https://matterport.com/en-gb/cad)
-    * [Software Developers](https://matterport.com/en-gb/developers)
-* Industries
-    ----------
-    
-    * [Residential Real Estate](https://matterport.com/en-gb/industries/real-estate)
-    * [Commercial Real Estate](https://matterport.com/en-gb/industries/commercial-real-estate)
-    * [Architect/Engineer/Construct](https://matterport.com/en-gb/industries/architects-engineering-construction)
-    * [Insurance & Restoration](https://matterport.com/en-gb/industries/insurance-restoration)
-    * [Facilities Management](https://matterport.com/en-gb/industries/facilities-management)
-    * [Travel & Hospitality](https://matterport.com/en-gb/industries/travel-hospitality)
-    * [Manufacturing](https://matterport.com/en-gb/industries/manufacturing)
-    * [Public Sector/Government](https://matterport.com/en-gb/industries/public-sector)
-    * [Case Studies](https://matterport.com/en-gb/case-studies)
-* Resources
-    ---------
-    
-    * [What is a digital twin?](https://matterport.com/en-gb/learn/digital-twin)
-    * [Digital Twin Gallery](https://matterport.com/discover)
-    * [Support](https://support.matterport.com/)
-    * [Blog](https://matterport.com/en-gb/blog)
-    * [News](https://matterport.com/en-gb/news)
-    * [Events & Webinars](https://matterport.com/en-gb/events-webinars)
-    * [Investor Relations](https://investors.matterport.com/?_ga=2.197092908.1400229448.1655393336-317982814.1651673504)
-* [Plans](https://buy.matterport.com/plans)
-* Cameras
-    -------
-    
-    * [Top Deals](https://matterport.com/en-gb/matterport-top-deals)
-    * [Shop Cameras](https://buy.matterport.com/shop/camera/)
-    * [Pro3](https://matterport.com/en-gb/pro3)
-    * [Pro2](https://matterport.com/en-gb/cameras/pro2-3D-camera)
-    * [Matterport Axis](https://matterport.com/en-gb/axis)
-    * [360 Cameras](https://matterport.com/en-gb/cameras/360-cameras)
-    * [Compare Cameras](https://matterport.com/en-gb/cameras)
+[Free Trial](https://buy.matterport.com/free-account-register)
 
-[Get Started Free](https://buy.matterport.com/free-account-register)[Sign In](https://authn.matterport.com/auth/login)
+Sales: [+1(888) 993-8990](tel:+1(888) 993-8990)
 
-Sales: +44(0)2038 747580
+[Contact Us![arrow right icon](/nextjs-assets/images/icons/arrow_right.svg)](https://matterport.com/contact-us)
 
-[Contact Us](https://matterport.com/en-gb/contact-us)
+[Free Trial](https://buy.matterport.com/free-account-register)
 
 Cookie Policy
 =============
@@ -235,24 +161,24 @@ Matterport, Inc. 352 E. Java Dr. Sunnyvale, CA 94089 USA
 Partner Programs
 ----------------
 
-* [Partners](https://matterport.com/en-gb/partners)
-* [Find a Reseller](https://matterport.com/en-gb/find-matterport-partner)
-* [Reseller Program](https://matterport.com/en-gb/reseller-program)
-* [Software Developers](https://matterport.com/en-gb/developers)
-* [Find a 3D Pro](https://matterport.com/en-gb/capture-services)
+* [Partners](https://matterport.com/partners)
+* [Find a Reseller](https://matterport.com/find-matterport-partner)
+* [Reseller Program](https://matterport.com/reseller-program)
+* [Software Developers](https://matterport.com/developers)
+* [Find a 3D Pro](https://matterport.com/capture-services)
 
 Industries
 ----------
 
-* [Residential Real Estate](https://matterport.com/en-gb/industries/real-estate)
-* [Commercial Real Estate](https://matterport.com/en-gb/industries/commercial-real-estate)
-* [Architect/Engineer/Construct](https://matterport.com/en-gb/industries/architects-engineering-construction)
-* [Insurance & Restoration](https://matterport.com/en-gb/industries/insurance-restoration)
-* [Facilities Management](https://matterport.com/en-gb/industries/facilities-management)
-* [Travel & Hospitality](https://matterport.com/en-gb/industries/travel-hospitality)
-* [Manufacturing](https://matterport.com/en-gb/industries/manufacturing)
-* [Public Sector/Government](https://matterport.com/en-gb/industries/public-sector)
-* [Case Studies](https://matterport.com/en-gb/case-studies)
+* [Residential Real Estate](https://matterport.com/industries/real-estate)
+* [Commercial Real Estate](https://matterport.com/industries/commercial-real-estate)
+* [Architect/Engineer/Construct](https://matterport.com/industries/architects-engineering-construction)
+* [Insurance & Restoration](https://matterport.com/industries/insurance-restoration)
+* [Facilities Management](https://matterport.com/solutions/facilities-management)
+* [Travel & Hospitality](https://matterport.com/industries/travel-hospitality)
+* [Manufacturing](https://matterport.com/industries/manufacturing)
+* [Public Sector/Government](https://matterport.com/industries/public-sector)
+* [Case Studies](https://matterport.com/case-studies)
 
 Account
 -------
@@ -263,29 +189,33 @@ Account
 About
 -----
 
-* [About Us](https://matterport.com/en-gb/about-us)
+* [About Us](https://matterport.com/about-us)
 * [Investor Relations](https://investors.matterport.com/)
-* [Life at Matterport](https://matterport.com/en-gb/life-matterport)
-* [Diversity & Inclusion](https://matterport.com/en-gb/diversity-and-inclusion)
-* [Social Impact](https://matterport.com/en-gb/social-impact)
-* [Blog](https://matterport.com/en-gb/blog)
-* [Press](https://matterport.com/en-gb/press)
-* [News](https://matterport.com/en-gb/news)
-* [Media Kit](https://matterport.com/en-gb/media-kit)
-* [Careers](https://matterport.com/en-gb/careers)
+* [Subscribe to Newsletter](https://matterport.com/newsletter-signup)
+* [Life at Matterport](https://matterport.com/life-matterport)
+* [Diversity & Inclusion](https://matterport.com/diversity-and-inclusion)
+* [Environmental, Social and Governance](https://matterport.com/esg)
+* [Matterport Cares](https://matterport.com/matterport-cares)
+* [Social Impact](https://matterport.com/social-impact)
+* [Blog](https://matterport.com/blog)
+* [News](https://matterport.com/news)
+* [Media Kit](https://matterport.com/media-kit)
+* [Careers](https://matterport.com/careers)
 
 Support
 -------
 
-* [Help Centre](https://support.matterport.com/)
-* [Support FAQs](https://matterport.com/en-gb/resources/support)
-* [Content Library](https://matterport.com/en-gb/resources/content-library)
-* [Product Register](https://matterport.com/en-gb/warranty-register)
-* [Trust Centre](https://matterport.com/en-gb/trust)
+* [Help Center](https://support.matterport.com/)
+* [Support FAQs](https://matterport.com/resources/support)
+* [Content Library](https://matterport.com/resources/content-library)
+* [Matterport Academy](https://matterport.com/matterport-academy)
+* [Product Registration](https://matterport.com/warranty-register)
+* [Trust Center](https://matterport.com/trust)
 * [Community](https://www.facebook.com/groups/MatterportOfficial/)
-* [Accessibility](https://matterport.com/en-gb/accessibility)
-* [Legal](https://matterport.com/en-gb/legal)
-* [Contact Us](https://matterport.com/en-gb/contact-us)
+* [Accessibility](https://matterport.com/accessibility)
+* [Legal](https://matterport.com/legal)
+* [Specified Commercial Transaction Guide (Japan)](https://matterport.com/legal/specified-commercial-transaction-guide-japan)
+* [Contact Us](https://matterport.com/contact-us)
 
 Find Us!
 --------
@@ -300,12 +230,12 @@ Need Help?
 
 ### Support
 
-[+44(0)1570400054](tel:+44(0)1570400054)
+[+1(408)805-3347](tel:+1(408)805-3347)
 
 ©2024 Matterport Inc. Matterport is a registered trademark of Matterport Inc. All rights reserved.
 
 Terms, conditions, features, support, pricing, and service options are subject to change.
 
-* [Terms of Use](https://matterport.com/en-gb/terms-of-use)
-* [Privacy Policy](https://matterport.com/en-gb/privacy-policy)
-* [Cookie Policy](https://matterport.com/en-gb/cookie-policy)
+* [Terms of Use](https://matterport.com/terms-of-use)
+* [Privacy Policy](https://matterport.com/privacy-policy)
+* [Cookie Policy](https://matterport.com/cookie-policy)
