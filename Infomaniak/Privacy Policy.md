@@ -330,7 +330,7 @@ We are committed to ensuring the safety of our infrastructure, including a secur
 Frequently asked questions about the GDPR and Infomaniak
 --------------------------------------------------------
 
-#### [Am I in compliance with the GDPR when using Infomaniak services?](#collapse66a91ababf9c3)
+#### [Am I in compliance with the GDPR when using Infomaniak services?](#collapse66e09abf46a20)
 
 Yes. Nevertheless, we remind you that it is your responsibility to make the content (CMS, plugins, forms, etc.) that you host through our services compatible with the GDPR.  
   
@@ -338,7 +338,7 @@ It is important to distinguish between the security of the infrastructures on wh
   
 If needed, you can easily find a professional or Internet guides to help you in this compliance process.
 
-#### [What is Infomaniak's responsibility concerning the GDPR?](#collapse66a91ababfa0c)
+#### [What is Infomaniak's responsibility concerning the GDPR?](#collapse66e09abf46a60)
 
 Like companies that work with European citizens, Infomaniak must comply with the General Data Protection Regulation:  
   
@@ -346,7 +346,7 @@ Like companies that work with European citizens, Infomaniak must comply with the
 * [Our data confidentiality policy](https://www.infomaniak.com/en/legal/confidentiality-policy) details the data which we keep in order to provide and run our services.
 * [Our policy regarding personal data protection](https://manager.infomaniak.com/pdfcgu.php/en_GB/52/dpa.pdf) describes Infomaniak's commitments as a processor that hosts all of your data, including data of a personal nature.
 
-#### [Does Infomaniak have a delegate for data protection?](#collapse66a91ababfa4f)
+#### [Does Infomaniak have a delegate for data protection?](#collapse66e09abf46a9e)
 
 Yes. The Infomaniak officer for everything relating to using, managing, and protecting personal data is Johann Laqua. As the data protection officer, he is responsible for informing and advising processing managers, all company employees and any subcontractors.  
   
@@ -401,7 +401,7 @@ I agree to receive Infomaniak's monthly newsletter and new blog posts. [We respe
     * [FR](https://www.infomaniak.com/fr/cgv/reglement-general-protection-donnees)
     * [IT](https://www.infomaniak.com/it/cgv/regolamento-generale-protezione-dati)
 
-**©2024 Infomaniak** \- [Legal documents](https://www.infomaniak.com/en/legal/general-terms-and-conditions) \- [Legal notice](https://www.infomaniak.com/en/legal/legal-notice) \- [Data Protection](https://www.infomaniak.com/en/legal/general-data-protection-regulation) \- [Privacy Policy](https://www.infomaniak.com/en/legal/confidentiality-policy) \- [Site map](https://www.infomaniak.com/en/sitemap)
+**©2024 Infomaniak** \- [Legal documents](https://www.infomaniak.com/en/legal/general-terms-and-conditions) \- [Legal notice](https://www.infomaniak.com/en/legal/legal-notice) \- [Data Protection](https://www.infomaniak.com/en/legal/general-data-protection-regulation) \- [Privacy Policy](https://www.infomaniak.com/en/legal/confidentiality-policy) \- [Site map](https://www.infomaniak.com/en/sitemap) \- Manage your cookies
 
 [![icann-logo](/img/footer/icann-logo.svg)](https://www.infomaniak.com/en/certifications)
 
@@ -462,7 +462,7 @@ J'accepte de recevoir la newsletter mensuelle et les nouveaux articles de blog d
 [![instagram](/img/footer/instagram.svg)](https://www.instagram.com/infomaniak_network/)
 
 **©2024 Infomaniak**  
-[Contracts](https://www.infomaniak.com/en/legal/general-terms-and-conditions) \- [Legal notice](https://www.infomaniak.com/en/legal/legal-notice) \- [Data Protection](https://www.infomaniak.com/en/legal/general-data-protection-regulation) \- [Privacy Policy](https://www.infomaniak.com/en/legal/confidentiality-policy) \- [Site map](https://www.infomaniak.com/en/sitemap)
+[Contracts](https://www.infomaniak.com/en/legal/general-terms-and-conditions) \- [Legal notice](https://www.infomaniak.com/en/legal/legal-notice) \- [Data Protection](https://www.infomaniak.com/en/legal/general-data-protection-regulation) \- [Privacy Policy](https://www.infomaniak.com/en/legal/confidentiality-policy) \- [Site map](https://www.infomaniak.com/en/sitemap) \- Manage your cookies
 
 Managers
 
