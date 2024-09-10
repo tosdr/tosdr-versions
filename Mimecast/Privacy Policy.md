@@ -14,39 +14,89 @@
 
 [](#main)
 
-[Get Started](https://www.mimecast.com/quiz/)
+[M365 Threat Scan](https://www.mimecast.com/free-trial/)
 
 [Get a Quote](https://www.mimecast.com/get-a-quote/)
 
-* Products
+* Why Mimecast
     
-    * [![](https://assets.mimecast.com/api/public/content/d0b858c3a1444fa29fc6e22f39022a86?v=60b50f99)
+    * [![](https://assets.mimecast.com/api/public/content/60dd7f151bb148bcafa3827011a9aec0?v=82fac553)
+        
+        Why Mimecast
+        
+        Discover why 42,000 customers rely on Mimecast](https://www.mimecast.com/why-mimecast/)
+    * [![](https://assets.mimecast.com/api/public/content/dc438d5334034bcc921010e1222ed98c?v=848bd6f0)
+        
+        AI-Powered Security
+        
+        Industry-leading threat protection, supercharged by AI](https://www.mimecast.com/ai-cybersecurity/)
+    * [![](https://assets.mimecast.com/api/public/content/938c5cc300214ed2842b27dd3edcf177?v=c2b36271)
+        
+        Customer Success Stories
+        
+        Learn why customers trust Mimecast](https://www.mimecast.com/customer-success/customer-stories/)
+    
+    [Company Overview](https://www.mimecast.com/company/)
+    
+    * [![](https://assets.mimecast.com/api/public/content/8c726670208744a1b981d48931d4d8bd?v=608d0cd7)
+        
+        Awards
+        
+        Recognition from analysts, industry insiders, and more](https://www.mimecast.com/company/awards/)
+    * [![](https://assets.mimecast.com/api/public/content/a9a6053500494d3f8880a5b42e0444ed?v=91498bf6)
+        
+        ESG & Global Impact
+        
+        We're always mindful of having a positive impact](https://www.mimecast.com/company/corporate-social-responsibility/)
+    
+    ![newCFO.png](https://assets.mimecast.com/api/public/content/682272e31e2c49f2824e8f36f05c9aa3?v=2270add9)
+    
+    Mimecast Announces Acquisition of Code42
+    
+    [Learn More](https://www.mimecast.com/resources/press-releases/mimecast-announces-acquisition-of-code42/)
+    
+* Our Platform
+    
+    * [![](https://assets.mimecast.com/api/public/content/9a62d3288e0d4b7a951cd5fe701ae070?v=f38d2f62)
+        
+        Our Platform
+        
+        Transform your approach to human risk management](https://www.mimecast.com/products/our-platform/)
+    * [![](https://assets.mimecast.com/api/public/content/e8b4a094ce9b4a4b82bef72e9c72447e?v=eb31cf67)
         
         Advanced Email Security
         
         Most Popular
         
-        AI-powered, world-class detection with total deployment flexibility — with or without a gateway](https://www.mimecast.com/products/email-security/)
-    * [![](https://assets.mimecast.com/api/public/content/4766441092f24c1d8d5cb65f084680c0?v=98bbab41)
+        Secure your organization with AI-powered solutions](https://www.mimecast.com/products/email-security/)
+    * [![](https://assets.mimecast.com/api/public/content/3bae7cc64ce24f9e9e2a2b6ed4e845c1?v=4d2117e0)
         
-        Cloud Archive
+        Mimecast Engage
         
-        Industry-leading archiving, rapid data restoration, accelerated e-Discovery](https://www.mimecast.com/products/email-archive/)
-    * [![](https://assets.mimecast.com/api/public/content/ba203cf576844201a13385cc94eaf22d?v=2c1b7329)
+        Re-envision security awareness with real human risk signals](https://www.mimecast.com/products/mimecast-engage-awareness-training/)
+    * [![](https://assets.mimecast.com/api/public/content/c4e2b7b5535f44359682cea7bd628bae?v=86292f06)
         
-        Security Awareness Training
+        Collaboration Security
         
-        Human risk assessment & scoring, award-winning training, and effortless administration.](https://www.mimecast.com/products/security-awareness-training/)
+        Allow employees to collaborate securely](https://www.mimecast.com/products/collaboration-security/)
     
-    [All Products](https://www.mimecast.com/products/)
+    [Product Suite](https://www.mimecast.com/products/)
     
-    ![icon_BCircle_AI.png](https://assets.mimecast.com/api/public/content/a63e63b6df7443898bc7a682d78133c3?v=2e7b068c)
-    
-    AI-Powered Security
-    
-    Industry-leading threat protection, supercharged by AI
-    
-    [Learn More](https://www.mimecast.com/ai-cybersecurity/)
+    * [![](https://assets.mimecast.com/api/public/content/51a3c17138a243c49e5a4395746bfbfe?v=e0560dcc)
+        
+        Code42 Incydr
+        
+        Address all forms of insider threats](https://www.mimecast.com/products/code42-incydr/)
+    * [![](https://assets.mimecast.com/api/public/content/4766441092f24c1d8d5cb65f084680c0?v=949aebff)
+        
+        Email Archive
+        
+        Ensure email works and data is never lost](https://www.mimecast.com/products/email-archive/)
+    * [![](https://assets.mimecast.com/api/public/content/9e647b9b2a094c25b859652e5300c303?v=59fff5c7)
+        
+        DMARC Analyzer
+        
+        Protect your brand and reputation](https://www.mimecast.com/products/dmarc-analyzer/)
     
     ![topnav_plans.svg](https://assets.mimecast.com/api/public/content/946d853722194c86bdae8da05e63158a?v=dda04a96)
     
@@ -147,35 +197,6 @@
     
     [Get Report](https://www.mimecast.com/the-state-of-email-and-collaboration-security-2024/)
     
-* Company
-    
-    About Us
-    
-    * [Company Overview](https://www.mimecast.com/company/)
-    * [Leadership Team](https://www.mimecast.com/company/mimecast-leadership/)
-    * [Awards](https://www.mimecast.com/company/awards/)
-    * [ESG & Global Impact](https://www.mimecast.com/company/corporate-social-responsibility/)
-    * [Customer Success Stories](https://www.mimecast.com/customer-success/customer-stories/)
-    * [Trust Center](https://www.mimecast.com/company/mimecast-trust-center/)
-    
-    Careers
-    
-    ![jointheteam.png](https://assets.mimecast.com/api/public/content/d0635f650d1f47db87d21f2928042499?v=ce4369d8)
-    
-    Join the Team
-    
-    Help us build a better business for our people & customers.
-    
-    [Work at Mimecast](https://www.mimecast.com/company/careers-at-mimecast/)
-    
-    News
-    
-    ![newCFO.png](https://assets.mimecast.com/api/public/content/682272e31e2c49f2824e8f36f05c9aa3?v=2270add9)
-    
-    Mimecast Announces Acquisition of Elevate Security
-    
-    [Learn More](https://www.mimecast.com/resources/press-releases/mimecast-acquires-elevate-security/)
-    
 
 Quick Links
 
@@ -191,12 +212,12 @@ Quick Links
     * [français](https://www.mimecast.com/fr/company/mimecast-trust-center/privacy-statement/)
     
 
-[Get Started](https://www.mimecast.com/quiz/)
+[M365 Threat Scan](https://www.mimecast.com/free-trial/)
 
 [Get a Quote](https://www.mimecast.com/get-a-quote/)
 
-Privacy Statement
-=================
+Mimecast Privacy Statement
+==========================
 
 1. [Home](https://www.mimecast.com/)
 2. [Company](https://www.mimecast.com/company/)
@@ -215,44 +236,14 @@ Mimecast Trust Center
         
     * [Resilience](https://www.mimecast.com/company/mimecast-trust-center/certification-and-attestation/resilience/)
         
-* [Data Processing Agreement](https://www.mimecast.com/company/mimecast-trust-center/data-processing-agreement/)
+* [Data Processing Addendum](https://www.mimecast.com/company/mimecast-trust-center/data-processing-addendum/)
     
-* [Processing Details](https://www.mimecast.com/company/mimecast-trust-center/processing-details/) [Expand or Collapse Processing Details Children](#)
+* [Processing Details](https://www.mimecast.com/company/mimecast-trust-center/processing-details/)
     
-    * [Email Security Service](https://www.mimecast.com/company/mimecast-trust-center/processing-details/email-security-service/)
-        
-    * [Awareness Training Service](https://www.mimecast.com/company/mimecast-trust-center/processing-details/awareness-training-service/)
-        
-    * [Web Security Service](https://www.mimecast.com/company/mimecast-trust-center/processing-details/web-security-service/)
-        
-    * [DMARC Analyzer Service](https://www.mimecast.com/company/mimecast-trust-center/processing-details/dmarc-analyzer-service/)
-        
-    * [Brand Exploit Protect Service](https://www.mimecast.com/company/mimecast-trust-center/processing-details/brand-exploit-protect-service/)
-        
-* [Technical and Organizational Measures](https://www.mimecast.com/company/mimecast-trust-center/technical-and-organizational-measures/) [Expand or Collapse Technical and Organizational Measures Children](#)
+* [Technical and Organizational Measures](https://www.mimecast.com/company/mimecast-trust-center/technical-and-organizational-measures/)
     
-    * [Email and Web Security Services](https://www.mimecast.com/company/mimecast-trust-center/technical-and-organizational-measures/email-and-web-security-services/)
-        
-    * [Awareness Training Service](https://www.mimecast.com/company/mimecast-trust-center/technical-and-organizational-measures/awareness-training-service/)
-        
-    * [CyberGraph Service](https://www.mimecast.com/company/mimecast-trust-center/technical-and-organizational-measures/cybergraph-service/)
-        
-    * [DMARC Analyzer Service](https://www.mimecast.com/company/mimecast-trust-center/technical-and-organizational-measures/dmarc-analyzer-service/)
-        
-    * [Brand Exploit Protect Service](https://www.mimecast.com/company/mimecast-trust-center/technical-and-organizational-measures/brand-exploit-protect-service/)
-        
-* [Sub Processors](https://www.mimecast.com/company/mimecast-trust-center/sub-processors/) [Expand or Collapse Sub Processors Children](#)
+* [Sub Processors](https://www.mimecast.com/company/mimecast-trust-center/sub-processors/)
     
-    * [Email Security Service](https://www.mimecast.com/company/mimecast-trust-center/sub-processors/email-security-service/)
-        
-    * [Awareness Training Service](https://www.mimecast.com/company/mimecast-trust-center/sub-processors/awareness-training-service/)
-        
-    * [Web Security Service](https://www.mimecast.com/company/mimecast-trust-center/sub-processors/web-security-service/)
-        
-    * [DMARC Analyzer Service](https://www.mimecast.com/company/mimecast-trust-center/sub-processors/dmarc-analyzer-service/)
-        
-    * [Brand Exploit Protect Service](https://www.mimecast.com/company/mimecast-trust-center/sub-processors/brand-exploit-protect-service/)
-        
 * [Support Locations](https://www.mimecast.com/company/mimecast-trust-center/support-locations/)
     
 * [Mimecast Transfer Impact Assessment](https://www.mimecast.com/company/mimecast-trust-center/mimecast-transfer-impact-assessment/)
@@ -263,26 +254,27 @@ Mimecast Trust Center
     
 * [Data Privacy Framework Statement](https://www.mimecast.com/company/mimecast-trust-center/data-privacy-framework-statement/)
     
+* [Accessibility Statement](https://www.mimecast.com/company/mimecast-trust-center/accessibility-statement/)
+    
+* [DPA FAQs](https://www.mimecast.com/company/mimecast-trust-center/dpa-faqs/)
+    
 
 Topics covered in this Privacy Statement include:
 -------------------------------------------------
 
 * [What type of Personal Data do we collect and how do we use it?](#what-type-of-personal-data-do-we-collect-and-how-do-we-use-it)
-* [Using Personal Data](#using-personal-data)
 * [How do we share Personal Data?](#how-do-we-share-personal-data)
 * [Where is my Personal Data transferred?](#where-is-my-personal-data-transferred)
 * [How secure is my Personal Data?](#how-secure-is-my-personal-data)
 * [What kind of technical data do we collect?](#what-kind-of-technical-data-do-we-collect)
-* [Technical information collected automatically from the Site](#technical-information-collected-automatically-from-the-site)
 * [What about cookies?](#what-about-cookies)
-* [How long will you use my Personal Data?](#how-long-will-you-use-my-personal-data)
 * [What is your commitment to children’s online privacy?](#what-is-your-commitment-to-children-s-online-privacy)
 * [What about external links?](#what-about-external-links)
 * [What are my data subject rights and how do I exercise them?](#what-are-my-data-subject-rights-and-how-do-i-exercise-them)
 * [What about changes to this Privacy Statement?](#what-about-changes-to-this-privacy-statement)
 * [How do I contact you?](#how-do-i-contact-you)
 
-Welcome to Mimecast! Mimecast Services Limited (“Mimecast”, “we”, “our”, “us) is a global company, with offices and/or affiliates in the United Kingdom (“UK”), Europe, North America, Australia, Israel, Jersey, United Arab Emirates, South Africa, Singapore, and India. We serve companies that have offices in those jurisdictions and across the world. Our website located at www.mimecast.com (the “Site”), provides information about our products and services (the “Services”) and is operated by Mimecast. Mimecast Services Limited has a registered office at 1 Finsbury Ave Floor 4, London, EC2M 2PF, UK (registered in England and Wales, 4901524).
+Welcome to Mimecast! Mimecast Services Limited (“Mimecast”, “we”, “our”, “us) is a global company, with offices and/or affiliates in the United Kingdom (“UK”), Europe, North America, Australia, Israel, Jersey, United Arab Emirates, South Africa, Singapore, and India. We serve companies that have offices in those jurisdictions and across the world. Our website located at [www.mimecast.com](https://www.mimecast.com/) (the “Site”), provides information about our products and services (the “Services”) and is operated by Mimecast. Mimecast Services Limited has a registered office at 1 Finsbury Ave Floor 4, London, EC2M 2PF, UK (registered in England and Wales, 4901524).
 
 For individuals in the European Economic Area (the “EEA”), please be advised that our local operating entities are Mimecast Germany GmbH, Mimecast Netherlands B.V., and Mimecast France SARL. Mimecast Germany GmbH has a registered office at Parkstadt Schwabing, Lyonel-Feininger-Straße 26, 80807 München, Germany (Registration: HRB 234744). Mimecast Netherlands B.V. has a registered office at Stationsplein 12, 1211 EX Hilversum, The Netherlands (Registration: 30214369). Mimecast France SARL has a registered office at 4 rue de Marivaux 75002 Paris, France.
 
@@ -292,31 +284,28 @@ Mimecast is the controller for the Personal Data processed as described in this 
 
 When we transfer Personal Data from the European Union, UK, and/or Switzerland, Mimecast complies with the EU-U.S. Data Privacy Framework, the UK Extension to the EU-U.S. Data Privacy Framework and the Swiss-U.S. Data Privacy Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Data transferred from the European Union, UK, and Switzerland to the United States.
 
-Mimecast has certified to the Department of Commerce that it adheres to the Data Privacy Framework Principles, including the onward transfer liability provisions. If there is any conflict between the terms in this Privacy Statement and the Data Privacy Framework Principles (found [here](https://www.dataprivacyframework.gov/EU-US-Framework)), the Data Privacy Framework Principles shall govern. To learn more about the Data Privacy Framework program, and to view our certification, please visit: [https://www.dataprivacyframework.gov/list](https://www.dataprivacyframework.gov/list)
+Mimecast has certified to the Department of Commerce that it adheres to the Data Privacy Framework Principles, including the onward transfer liability provisions. If there is any conflict between the terms in this Privacy Statement and the Data Privacy Framework Principles (found [here](https://www.mimecast.com/company/mimecast-trust-center/)), the Data Privacy Framework Principles shall govern. To learn more about the Data Privacy Framework program, and to view our certification, please visit: [https://www.dataprivacyframework.gov/list](https://www.dataprivacyframework.gov/list)
 
-If you have questions about this Privacy Statement or our practices regarding your Personal Data, you can reach us by using the contact information provided below. This Privacy Statement is updated as of July, 2024.
+If you have questions about this Privacy Statement or our practices regarding your Personal Data, you can reach us by using the contact information provided below. This Privacy Statement is updated as of August, 2024.
 
-What type of Personal Data do we collect and how do we use it?
---------------------------------------------------------------
+### What type of Personal Data do we collect and how do we use it?
 
-We generally collect Personal Data, such as contact and business information and other details of your engagement with Mimecast, and use it to provide, improve, and develop our operations and to provide you support when you need it. We also may use the Personal Data to communicate with you, for example, about your account, security updates, and product information.  
-  
+We generally collect Personal Data, such as contact and business information and other details of your engagement with Mimecast, and use it to provide, improve, and develop our operations and to provide you support when you need it. We also may use the Personal Data to communicate with you, for example, about your account, security updates, and product information.
 
-### Collecting Personal Data
+#### Collecting Personal Data
 
 The Personal Data we collect for the above purposes include:
 
 * Your name, email address, postal address or telephone number;
 * Your title, company name and address;
-* Details of the resources you access on the Site and any data you download (see “[What Kind of Technical Information Do We Collect](https://www.mimecast.com/company/mimecast-trust-center/gdpr-center/privacy-statement/#chapter5)” for additional details);
+* Details of the resources you access on the Site and any data you download (see “[What Kind of Technical Information Do We Collect](https://www.mimecast.com/company/mimecast-trust-center/privacy-statement/#what-kind-of-technical-data-do-we-collect)” for additional details);
 * Details of other engagements with Mimecast, such as trade show interactions; and/or
 * Candidate employment-related data.
 
 In certain instances, we may combine one type of information with another, and store them together in our records. In all cases, however, we strive to limit the amount of Personal Data we collect and store.
 
-We ask that you not send or otherwise share with us any sensitive Personal Data, which includes but is not limited to your government-issued ID numbers (e.g., Social Security number, national identification number, or driver’s license number), racial or ethnic information, political or religious opinions, or your health information.  
-  
-  
+We ask that you not send or otherwise share with us any sensitive Personal Data, which includes but is not limited to your government-issued ID numbers (e.g., Social Security number, national identification number, or driver’s license number), racial or ethnic information, political or religious opinions, or your health information.
+
 We collect Personal Data in a variety of ways including:
 
 * Through web pages on the Site (e.g., when you request a white paper or complete a form for general or partner inquiries);
@@ -324,8 +313,7 @@ We collect Personal Data in a variety of ways including:
 * Through online forums and social networks (please note that any Personal Data that you choose to submit to one of our online forums or social networks may be read, collected, or used by others who visit these community areas and may be used to send you unsolicited messages. You should carefully consider whether you wish to submit Personal Data to these forums or social networks and should tailor any content you submit appropriately and in accordance with the relevant terms of use); and/or
 * Over the telephone.
 
-Using Personal Data
--------------------
+#### Using Personal Data
 
 As it is in our legitimate interest to be responsive to you and to ensure the proper functioning of our Services and organization, we will use your Personal Data in the following ways:
 
@@ -336,16 +324,15 @@ As it is in our legitimate interest to be responsive to you and to ensure the pr
 * At your request to register you for a trial of our Services; and/or
 * At your request to provide you with a quote for our Services.
 
-Where required by applicable law, we obtain your consent to process your Personal Data to send you information we think you will find useful about our Services or, at your request, subscribe you to our newsletters and alerts concerning the Services we provide. You can can opt-out of such communications, or otherwise change your subscription preferences anytime though our Preference Center by clicking.
+Where required by applicable law, we obtain your consent to process your Personal Data to send you information we think you will find useful about our Services or, at your request, subscribe you to our newsletters and alerts concerning the Services we provide. You can can opt-out of such communications, or otherwise change your subscription preferences anytime though our Preference Center by clicking [here](https://info.mimecast.com/Subscription-Management.html).
 
 We may obtain information (e.g., contact information including email addresses and phone numbers) from third parties (e.g., those offering business-contact-data enrichment services) to combine with the Personal Data we have gathered as described in this Privacy Statement. As it is in our legitimate interests to ensure we can communicate with you and to grow our business, we use this Personal Data, to improve our marketing activities and to ensure the Personal Data we hold are relevant and up-to-date. Also, if we provide a means for you to refer a third party to the Site, we will send the third party an email on your behalf with details about the Site. You can unsubscribe to emails by following the unsubscribe instructions in our Preference Center by clicking [here](https://info.mimecast.com/Subscription-Management.html), through marketing email communications sent to you, or you can raise a request via our dedicated online portal [here](https://app.onetrust.com/app/#/webform/02d91e7f-d064-46d6-8b37-cf0ef670b739) or by post at the address provided below. We provide additional information about your Data Subject Rights and how you may exercise them below.
 
-How do we share Personal Data?
-------------------------------
+### How do we share Personal Data?
 
 We share your Personal Data as described in this Privacy Statement or as necessary to provide any Services you have requested or authorized. We share Personal Data with Mimecast-controlled affiliates, partners, properly vetted sub-processors and third-party service providers throughout the world, when required by law, to protect the security our customers with respect to the information that passes through our Services, as well as to protect the rights or property of Mimecast.
 
-### Sharing and disclosing Personal Data
+#### Sharing and disclosing Personal Data
 
 We do not sell or rent your Personal Data to third parties. We do not share Personal Data, except as expressly provided in this Privacy Statement. We share your Personal Data with the following recipients for the following reasons (keep in mind that these third parties and reasons may not be applicable to you):
 
@@ -355,12 +342,11 @@ We do not sell or rent your Personal Data to third parties. We do not share Pers
 * With our affiliates, in our legitimate interests. We may share your Personal Data with companies within our corporate family.
 * In connection with a corporate sale, reorganization, dissolution or the sale of any business or assets, bankruptcy or other business transaction or re-organization, in our legitimate interests. Personal Data will be included in the transferred assets. As a result, the successor of Mimecast will continue to use your Personal Data as set forth in this Privacy Statement.
 
-Where is my Personal Data transferred?
---------------------------------------
+### Where is my Personal Data transferred?
 
 Your Personal Data may be transferred to Mimecast-controlled affiliates and properly vetted sub-processors throughout the world. Your Personal Data may also be transferred to our third-party service providers who are under contractual obligations to ensure the safety and confidentiality of such data. Personal Data collected within the European Economic Area (“EEA”) Switzerland, UK may be transferred to countries outside of the EEA, Switzerland, and UK. We utilize a variety of mechanisms to ensure the security and legitimacy of these transfers.
 
-### Transferring your Personal Data
+#### Transferring your Personal Data
 
 The Personal Data that we collect from you will be transferred to, stored and processed by our affiliates, properly vetted sub-processors and third-party service providers. Whenever we transfer your Personal Data outside the EEA/UK/Switzerland, we ensure a similar degree of protection is afforded by ensuring at least one of the following safeguards is implemented:
 
@@ -369,24 +355,21 @@ The Personal Data that we collect from you will be transferred to, stored and pr
 
 We will take all steps reasonably necessary to ensure that your Personal Data is treated securely and in accordance with this Privacy Statement. Each Mimecast subsidiary and affiliate receiving your Personal Data is bound by an [Intercompany Agreement](https://mimecast.com/company/mimecast-trust-center/mimecasts-intercompany-agreement/) that incorporates the applicable standard contractual clauses. All sub-processors and third-party service providers are under appropriate contractual obligations to ensure the safety and confidentiality of your Personal Data.
 
-How secure is my Personal Data?
--------------------------------
+### How secure is my Personal Data?
 
 We have a dedicated internal security organization that implements and operates a comprehensive set of security controls to protect your Personal Data.
 
-### Security
+#### Security
 
 At Mimecast, we are committed to maintaining the security of the Personal Data we collect from activity on this Site and from other marketing efforts, as well as through our Services. We have therefore implemented technical and operational measures that are intended to reduce the risk of accidental destruction or loss, or the unauthorized disclosure or access to Personal Data that are collected either through our marketing efforts or the Services. You can learn more about our technical and organizational measures by clicking [here](https://www.mimecast.com/company/mimecast-trust-center/gdpr-center/Technical-Organizational-Measures/).
 
 These technical and organizational measures are periodically reviewed and enhanced as necessary and only authorized personnel have access to Personal Data. While we use all reasonable efforts to prevent the loss or misuse of your Personal Data, we cannot guarantee the security of any Personal Data you submit via the Site or that the Personal Data that you supply will not be intercepted while being transmitted to and from us over the Internet. Therefore, you acknowledge and agree that we assume no liability regarding the theft, loss, alteration, or misuse of your Personal Data, including, without limitation, such Personal Data that has been provided to third parties or other users, or with regards to the failure of a third party to abide by the agreement between us and such third party.
 
-What kind of technical data do we collect?
-------------------------------------------
+### What kind of technical data do we collect?
 
 In addition to the Personal Data described above, we collect technical data and other information when you use our Services or visit our Site. You provide some of this Personal Data directly, such as when you register for a webinar, administer your organization’s Mimecast account, or contact us for support. We collect some of it by recording how you interact with our Site by, for example, using technologies like cookies or collecting basic device information like your browser type. We provide more information about cookies below.
 
-Technical information collected automatically from the Site
------------------------------------------------------------
+#### Technical information collected automatically from the Site
 
 When you visit the Site, our systems automatically collect the following information about your visit (“Other Data”):
 
@@ -408,8 +391,7 @@ As it is in our legitimate interest to be responsive to you and to ensure the pr
 
 We do not use Other Data and IP Information to learn any information about you personally but it may be associated by us or our third party service providers with Personal Data that has been provided by you or otherwise available to or held by us. The collection of this Other Data and IP Information will cease once your use of the Site has ceased, depending on your use of our Services your IP Information may still be collected. However, the Other Data and IP Information collected may be retained, accessed, and used by us as long as necessary for the purposes described herein.
 
-What about cookies?
--------------------
+### What about cookies?
 
 We use cookies and similar technologies to enhance our Services and Site. These technologies allow us, among other things, to store your preferences and settings, make it easier when you to sign-in, and analyze how our Site and Services are performing. You can learn more about our cookie practices below or by clicking [here](https://www.mimecast.com/cookie-information/).
 
@@ -424,14 +406,15 @@ We (or our third-party service providers) may collect your Personal Data using c
 
 For example, we use Google Analytics, a web analytics service provided by Google, Inc., to evaluate your use of the Site, compile reports on activity, and provide other services relating to Internet usage. Google Analytics uses first-party cookies that store information, such as what time the current visit occurred, whether the visitor has been to the web page before, and what site referred the visitor to the web page.
 
-We have also implemented Display Advertising Remarketing with Google Analytics to advertise online. This means that third-party service providers, including Google, display our ads on sites across the Internet and that we and third-party service providers, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie, see:  together to inform, optimize, and serve ads based on your past visits to the Site.
+We have also implemented Display Advertising Remarketing with Google Analytics to advertise online. This means that third-party service providers, including Google, display our ads on sites across the Internet and that we and third-party service providers, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie, see: [http://www.google.com/doubleclick](http://www.google.com/doubleclick)) together to inform, optimize, and serve ads based on your past visits to the Site.
 
-By using the Site, you consent to the processing of data about you by Google in the manner and for the purposes set out above. If you choose, you can opt out of the processing of data about you by Google for Display Advertising and/or customize the ads by using Google's Ads Settings at: [http://www.google.com/settings/ads](https://adssettings.google.com/authenticated). You can opt out of the processing of Personal Data about you by Google generally by turning off cookies in the preferences settings in your browser, or by downloading and installing Google Analytics Opt-out Browser Add-on at . The Google Analytics Opt-out Browser Add-on does not prevent information from being sent to the Site itself or to other web analytics services. For more information on Google Analytics, please visit: [https://www.google.com/analytics/](https://www.google.com/analytics/#?modal_active=none#?#?#?#?#?#?#?#?#?#?).
+By using the Site, you consent to the processing of data about you by Google in the manner and for the purposes set out above. If you choose, you can opt out of the processing of data about you by Google for Display Advertising and/or customize the ads by using Google's Ads Settings at: [http://www.google.com/settings/ads](https://adssettings.google.com/authenticated). You can opt out of the processing of Personal Data about you by Google generally by turning off cookies in the preferences settings in your browser, or by downloading and installing Google Analytics Opt-out Browser Add-on at [http://tools.google.com/dlpage/gaoptout](http://tools.google.com/dlpage/gaoptout). The Google Analytics Opt-out Browser Add-on does not prevent information from being sent to the Site itself or to other web analytics services.
+
+For more information on Google Analytics, please visit: [https://www.google.com/analytics/](https://www.google.com/analytics/#?modal_active=none#?#?#?#?#?#?#?#?#?#?#?#?#?#?#?#?).
 
 You can choose to reject certain collection technologies (such as cookies) but then you might not be able to take advantage of many of our features. You can read more about cookies [here](https://www.mimecast.com/cookie-information/).
 
-How long will you use my Personal Data?
----------------------------------------
+### How long will you use my Personal Data?
 
 We will only retain your Personal Data and Other Data for as long as reasonably necessary to fulfil the purposes we collected it for. We will also retain and use your Personal Data and Other Data to the extent necessary to comply with our legal obligations, resolve disputes and enforce our terms and conditions, other applicable terms of service and our policies.
 
@@ -439,36 +422,31 @@ To determine the appropriate retention period, we consider the amount, nature, a
 
 In some circumstances, you can ask us to delete your data. Please see “What Are My Data Subject Rights and How Do I Exercise Them?” below.
 
-What is your commitment to children’s online privacy?
------------------------------------------------------
+### What is your commitment to children’s online privacy?
 
 Our Site is not directed at children. Mimecast does not knowingly accept online Personal Data from children under the age of 18 through our Site. If you are under 18 or otherwise would be required to have parent or guardian consent to share Personal Data with Mimecast through our Site, you should not send any information about yourself to us through our Site.
 
-What about external links?
---------------------------
+### What about external links?
 
 The Site shall, from time to time, contain links to external sites. Our Privacy Statement does not apply to these other sites. We are not responsible for the privacy policies or the content of such sites and you should familiarize yourself with such policies upon use of those sites.
 
-What are my Data Subject Rights and how do I exercise them?
------------------------------------------------------------
+### What are my Data Subject Rights and how do I exercise them?
 
-You have rights with respect to the processing of the Personal Data that you have provided to us. For example, you may view, edit, delete, or move your Personal Data. In certain circumstances, you may object or withdraw your consent to certain processing of your Personal Data. You may also lodge a complaint with a supervisory authority. Any of these rights may be exercised at any time. For customers of our customers, please contact your system administrator. For Mimecast direct customers/partners/contacts, you can exercise your rights via our dedicated online portal . NOTE: We may ask you to verify your identity.
+You have rights with respect to the processing of the Personal Data that you have provided to us. For example, you may view, edit, delete, or move your Personal Data. In certain circumstances, you may object or withdraw your consent to certain processing of your Personal Data. You may also lodge a complaint with a supervisory authority. Any of these rights may be exercised at any time. For customers of our customers, please contact your system administrator. For Mimecast direct customers/partner/contacts, you can exercise your rights via our [dedicated online portal](https://privacyportal.onetrust.com/webform/757ef5c8-f01d-4b1e-8d22-59f9254f3068/02d91e7f-d064-46d6-8b37-cf0ef670b739). NOTE: We may ask you to verify your identity.
 
 Personal Data rights. You have the right to access and receive a copy of Personal Data that we hold about you, to rectify any Personal Data held about you that is inaccurate or, in certain circumstances, request the deletion of Personal Data held about you. You also have the right of data portability for Personal Data you have provided to us – this means that you can obtain a copy of your Personal Data in a commonly used machine-readable electronic format so that you can manage and move it, or request that we send it to a third party. You may have the right to restrict or object to the processing of your Personal Data by us, including for direct marketing. Where we rely on consent to process your personal data, you have the right to withdraw your consent at any time via our dedicated online portal [here](https://privacyportal.onetrust.com/webform/757ef5c8-f01d-4b1e-8d22-59f9254f3068/02d91e7f-d064-46d6-8b37-cf0ef670b739). Please note these rights only apply in certain circumstances and may be limited by law. For example, where fulfilling your request would adversely affect other individuals or our trade secrets or intellectual property, where there are overriding public interests or where we are required by law to retain your Personal Data. We will respond to requests without undue delay and at least within one month (though this may be extended by a further two months in certain circumstances).
 
 Marketing. You have the right to ask us not to process your Personal Data for marketing purposes. You can exercise your right to prevent such processing at any time by contacting us at via our dedicated online portal [here](https://privacyportal.onetrust.com/webform/757ef5c8-f01d-4b1e-8d22-59f9254f3068/02d91e7f-d064-46d6-8b37-cf0ef670b739), or by managing your subscription preferences through our Preference Center by clicking [here](https://info.mimecast.com/Subscription-Management.html).
 
-Complaints. In compliance with the Data Privacy Framework Principles, Mimecast commits to resolve complaints about our collection or use of your Personal Data. EU, UK, and Swiss individuals with inquiries or complaints regarding our Data Privacy Framework Statement should first contact our dedicated online portal [here](https://privacyportal.onetrust.com/webform/757ef5c8-f01d-4b1e-8d22-59f9254f3068/02d91e7f-d064-46d6-8b37-cf0ef670b739) and we will respond to your request. This is without prejudice to your right to file a claim with a supervisory authority (e.g., the Information Commissioner’s Office in the UK). If you have an unresolved concern relating to your Personal Data that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge) [JAMS](https://www.jamsadr.com/) for more information or to file a complaint. Under certain conditions, more fully described on the Data Privacy Framework Program website linked above, you may be entitled to invoke binding arbitration to resolve your complaint.
+Complaints. In compliance with the Data Privacy Framework Principles, Mimecast commits to resolve complaints about our collection or use of your Personal Data. EU, UK, and Swiss individuals with inquiries or complaints regarding our Data Privacy Framework Statement should first contact our dedicated online portal [here](https://privacyportal.onetrust.com/webform/757ef5c8-f01d-4b1e-8d22-59f9254f3068/02d91e7f-d064-46d6-8b37-cf0ef670b739) and we will respond to your request. This is without prejudice to your right to file a claim with a supervisory authority (e.g., the Information Commissioner’s Office in the UK). If you have an unresolved concern relating to your Personal Data that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge) [JAMS](https://www.jamsadr.com/DPF-Dispute-Resolution) for more information or to file a complaint. Under certain conditions, more fully described on the Data Privacy Framework Program website linked above, you may be entitled to invoke binding arbitration to resolve your complaint.
 
-What about changes to this Privacy Statement?
----------------------------------------------
+### What about changes to this Privacy Statement?
 
 We will occasionally update this Privacy Statement. When we do, we will post a prominent notice in this section of this Privacy Statement notifying users when it is updated. For material changes (i.e., substantially new practices you wouldn’t expect from us or that we didn’t previously tell you about), will take any steps as required by applicable law. The update Privacy Statement will be effective as of the time of posting, or such later date as may be specified in the updated Privacy Statement.
 
 To subscribe to notifications for changes to this and other data privacy related information, please click [here](https://info.mimecast.com/Subscription-Management.html) and subscribe to the “Trust Center Update” feed.
 
-How do I contact you?
----------------------
+### How do I contact you?
 
 We have a global Data Protection Officer and team to provide you the support you need.
 
