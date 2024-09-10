@@ -469,7 +469,7 @@ Gli Utenti hanno diritto di ottenere informazioni in merito alla base giuridica 
 
 #### Come esercitare i diritti
 
-Per esercitare i propri diritti, gli Utenti possono indirizzare una richiesta ai recapiti del Titolare indicati in questo documento. La richiesta è gratuita e il Titolare risponderà nel più breve tempo possibile, in ogni caso entro un mese, fornendo all’Utente tutte le informazioni previste dalla legge. Eventuali rettifiche, cancellazioni o limitazioni del trattamento saranno comunicate dal Titolare a ciascuno dei destinatari, se esistenti, a cui sono stati trasmessi i Dati Personali, salvo che ciò si riveli impossibile o implichi uno sforzo sproporzionato. Il Titolare comunica all'Utente tali destinatari qualora egli lo richieda.
+Eventuali richieste di esercizio dei diritti dell'Utente possono essere indirizzate al Titolare attraverso i recapiti forniti in questo documento. La richiesta è gratuita e il Titolare risponderà nel più breve tempo possibile, in ogni caso entro un mese, fornendo all’Utente tutte le informazioni previste dalla legge. Eventuali rettifiche, cancellazioni o limitazioni del trattamento saranno comunicate dal Titolare a ciascuno dei destinatari, se esistenti, a cui sono stati trasmessi i Dati Personali, salvo che ciò si riveli impossibile o implichi uno sforzo sproporzionato. Il Titolare comunica all'Utente tali destinatari qualora egli lo richieda.
 
 Ulteriori informazioni per gli utenti in Svizzera
 -------------------------------------------------
@@ -592,7 +592,7 @@ _While such categorization of Personal Information is mainly based on California
 
 * ### Internet or other electronic network activity information
     
-    **Personal Information collected or disclosed:** Cookie, Dati di utilizzo, Varie tipologie di dati secondo quanto specificato dalla privacy policy del servizio, Email, Sito web, Strumenti di tracciamento, Nome, Varie tipologie di dati
+    **Personal Information collected or disclosed:** Cookie, Dati di utilizzo, varie tipologie di Dati secondo quanto specificato dalla privacy policy del servizio, email, sito web, Strumenti di Tracciamento, nome, varie tipologie di Dati
     
     **Sensitive Personal Information collected or disclosed ℹ️:** username
     
@@ -623,7 +623,7 @@ _While such categorization of Personal Information is mainly based on California
     
 * ### Identifiers
     
-    **Personal Information collected or disclosed:** Dati di utilizzo, Email, Cookie, Sito web, Nome, Varie tipologie di dati
+    **Personal Information collected or disclosed:** Dati di utilizzo, email, Cookie, sito web, nome, varie tipologie di Dati
     
     **Sensitive Personal Information collected or disclosed ℹ️:** username
     
