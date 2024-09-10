@@ -38,7 +38,7 @@ If you are located in Japan, “Bambu Lab” refers to “Bambu Japan 株式会�
 
 If you are located in Australia, “Bambu Lab” refers to “TUOZHU TECHNOLOGY LIMITED”.
 
-If you are located in any other territory, “Bambu Lab” refers to “BAMBULAB LIMITED”.
+If you are located in any other territory, “Bambu Lab” refers to “BAMBULAB LIMITED”, the registered address is located at RM D 10/F TOWER A BILLION CTR1 WANG KWONG RD KOWLOON BAY KL.
 
 **General Terms**
 
@@ -186,7 +186,7 @@ Software
 
 Company
 
-[About Us](https://bambulab.com/en/about-us)[Blog](https://blog.bambulab.com/)[Contact Us](https://bambulab.com/en/contact-us)[Careers](https://bambulab.com/en/join-us)
+[About Us](https://bambulab.com/en/about-us)[Blog](https://blog.bambulab.com/)[Contact Us](https://bambulab.com/en/contact-us)[Join Us](https://bambulab.com/en/join-us)
 
 Partners
 
@@ -217,3 +217,5 @@ Partners
 [![](https://cdn1.bambulab.com/common/icon-4b824e9c69183/facebook.svg)![](https://cdn1.bambulab.com/common/icon-4b824e9c69183/facebook-fill.svg)](https://www.facebook.com/bambulab3D)[![](https://cdn1.bambulab.com/common/icon-4b824e9c69183/ins.svg)![](https://cdn1.bambulab.com/common/icon-4b824e9c69183/ins-fill.svg)](https://www.instagram.com/bambulab_official)[![](https://cdn1.bambulab.com/common/icon-4b824e9c69183/youtube.svg)![](https://cdn1.bambulab.com/common/icon-4b824e9c69183/youtube-fill.svg)](https://www.youtube.com/channel/UCDF3Sd2LNAsa-nKD17Jq3mw)[![](https://cdn1.bambulab.com/common/icon-4b824e9c69183/reddit.svg)![](https://cdn1.bambulab.com/common/icon-4b824e9c69183/reddit-fill.svg)](https://www.reddit.com/r/BambuLab)[![](https://cdn1.bambulab.com/common/icon-4b824e9c69183/twitter.svg)![](https://cdn1.bambulab.com/common/icon-4b824e9c69183/twitter-fill.svg)](https://twitter.com/BambulabGlobal)[![](https://cdn1.bambulab.com/common/icon-4b824e9c69183/tiktok.svg)![](https://cdn1.bambulab.com/common/icon-4b824e9c69183/tiktok-fill.svg)](https://www.tiktok.com/@bambulab_official)
 
 Copyright © 2024 Bambu Lab All Rights Reserved.
+
+Do Not Sale or Share My Personal Information
