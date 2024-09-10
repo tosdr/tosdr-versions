@@ -12,7 +12,7 @@ Media
 
 Publications
 
-[All Publications](https://www.managedhealthcareexecutive.com/journals)[MHE Publication](https://www.managedhealthcareexecutive.com/journals/mhe-publication)[Formulary Watch Supplements](https://www.managedhealthcareexecutive.com/journals/formulary-watch-supplements)[Supplements And Featured Publications](https://www.managedhealthcareexecutive.com/journals/supplements-and-featured-publications)
+[All Publications](https://www.managedhealthcareexecutive.com/journals)[MHE Publication](https://www.managedhealthcareexecutive.com/journals/mhe-publication)[Formulary Watch Supplements](https://www.managedhealthcareexecutive.com/journals/formulary-watch-supplements)[Formulary Watch Spotlights](https://www.managedhealthcareexecutive.com/journals/formulary-watch-spotlights)[Supplements And Featured Publications](https://www.managedhealthcareexecutive.com/journals/supplements-and-featured-publications)
 
 Events
 
@@ -22,7 +22,7 @@ Events
 
 Resources
 
-[PBM Leaders](https://www.managedhealthcareexecutive.com/conferences/pbm-leaders)[Sponsored Content](https://www.managedhealthcareexecutive.com/sponsored-content)
+[Emerging Leaders](https://www.managedhealthcareexecutive.com/emerging-leaders-in-healthcare)[PBM Leaders](https://www.managedhealthcareexecutive.com/conferences/pbm-leaders)[Sponsored Content](https://www.managedhealthcareexecutive.com/sponsored-content)
 
 [Subscribe](https://one.managedhealthcareexecutive.com/subscribe/)
 
@@ -45,6 +45,8 @@ Choose Topic
 [COVID-19](https://www.managedhealthcareexecutive.com/clinical/covid-19)
 
 [Cardiovascular Diseases](https://www.managedhealthcareexecutive.com/clinical/cardiovascular-diseases)
+
+[Depression](https://www.managedhealthcareexecutive.com/clinical/depression)
 
 [Dermatology](https://www.managedhealthcareexecutive.com/clinical/dermatology)
 
@@ -188,6 +190,8 @@ Choose Topic
 [COVID-19](https://www.managedhealthcareexecutive.com/clinical/covid-19)
 
 [Cardiovascular Diseases](https://www.managedhealthcareexecutive.com/clinical/cardiovascular-diseases)
+
+[Depression](https://www.managedhealthcareexecutive.com/clinical/depression)
 
 [Dermatology](https://www.managedhealthcareexecutive.com/clinical/dermatology)
 
