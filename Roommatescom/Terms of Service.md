@@ -224,7 +224,7 @@ Roommates welcomes comments, questions, concerns, or suggestions. Please send fe
 [Privacy Control Center](#)  
 [Contact Us](https://my.roommates.com/contact)  
 
-[![Roommates.com on Facebook](https://static.roommates.com/assets/facebook-501a9088fe293f550b4b202c8dd72b6dcdfdc3d82c936d9bd8682ebaf2381d48.svg)](http://www.facebook.com/Roommatesdotcom) [![Roommates.com on Instagram](https://static.roommates.com/assets/instagram-2baca105298afd5ef03046d16d2593ab779907848d1bf685791bedd785c51d59.svg)](http://www.instagram.com/Roommatesdotcom) [![Roommates.com on Twitter](https://static.roommates.com/assets/twitter-e90195ede877621805250d3c73951e882a26588c3c51bede2dc7bc48322b9070.svg)](http://www.twitter.com/Roommatesdotcom)
+[![Roommates.com on Facebook](https://static.roommates.com/assets/facebook-501a9088fe293f550b4b202c8dd72b6dcdfdc3d82c936d9bd8682ebaf2381d48.svg)](https://www.facebook.com/Roommatesdotcom) [![Roommates.com on Instagram](https://static.roommates.com/assets/instagram-2baca105298afd5ef03046d16d2593ab779907848d1bf685791bedd785c51d59.svg)](https://www.instagram.com/Roommatesdotcom) [![Roommates.com on Twitter](https://static.roommates.com/assets/xitter-2a5e09f2058d22eb3771da677b6090263f0a8a4f0146a1adb6e6d442d7a4d69a.png)](https://www.twitter.com/Roommatesdotcom)
 
 welcome to roommates.com
 ------------------------
