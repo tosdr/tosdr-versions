@@ -1,4 +1,4 @@
-![Menu](/_next/static/media/menu-icon.5394f0cd.svg)
+Menu
 
 [![adidas Running logo](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fadidas-running-horizontal-logo.22084646.png&w=384&q=75)](https://www.runtastic.com/)
 
@@ -7,7 +7,7 @@
 * [HELP CENTER](https://help.runtastic.com/)
 * [PARTNERS](https://www.runtastic.com/partners)
 
-[![Profile](/_next/static/media/profile-icon.b7909526.svg)](https://www.runtastic.com/login)
+[![user avatar](/_next/static/media/profile-icon.b7909526.svg)](https://www.runtastic.com/login)
 
 The use of our services is subject to the terms and conditions set forth in the currently valid version of the Terms and Privacy Notices listed below. Which Terms and Privacy Notice apply to you depends on your country of residence. Please read the Terms and Privacy notice listed for your country of residence carefully and do not use our services if you do not agree to them.
 
