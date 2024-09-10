@@ -141,6 +141,7 @@ If you do not agree with the changes we have made, please unfollow your account 
 * Blog
 * [About DDNS](https://alviy.com/en/blog/ddns)
 * [DDNS service comparison](https://alviy.com/en/blog/ddns-net)
+* [Choosing a service provider](https://alviy.com/en/blog/cloudflare-alternative)
 
 © www.alviy.com All Rights Reserved
 
