@@ -99,7 +99,6 @@ However, it was and still is much work to create and maintain DAVx⁵, so we hav
 * [Source code](https://github.com/bitfireAT/davx5-ose)
 * [Release notes](https://github.com/bitfireAT/davx5-ose/discussions/categories/announcements)
 * [Outlook integration](https://caldavsynchronizer.org/)
-* [Thunderbird Lightning](https://www.thunderbird.net/calendar/)
 * [ICSx⁵ (for Webcal)](https://icsx5.bitfire.at/)
 
 ### Awards
