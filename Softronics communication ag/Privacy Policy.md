@@ -10,7 +10,7 @@
 * |
 * [DE](https://www.softronics.ch/de/ueber-uns/datenschutz) [EN](https://www.softronics.ch/en/about-us/privacy)
 * |
-* [EUR](javascript:void(0))
+* [USD](javascript:void(0))
     * [CHF](#)
     * [EUR](#)
     * [USD](#)
@@ -138,7 +138,7 @@ Register or transfer your desired domain easily and quickly. All domains with at
 
 * [EN](#)
     * [DEDeutsch](https://www.softronics.ch/de/ueber-uns/datenschutz)
-* [EUR](#)
+* [USD](#)
     * [CHF](#)
     * [EUR](#)
     * [USD](#)
