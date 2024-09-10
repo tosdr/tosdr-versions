@@ -28,7 +28,7 @@ Docs Menu
         7. [3\. System Disruption](#3-system-disruption)
         8. [3.1 Meta-discussion](#31-meta-discussion)
         9. [3.2 Exceptions](#32-exceptions)
-        10. [3.4 Reporting exploits](#34-reporting-exploits)
+        10. [3.3 Reporting exploits](#33-reporting-exploits)
         11. [4\. Illegal content](#4-illegal-content)
         12. [4.1 Piracy](#41-piracy)
         13. [4.2 Copyright Takedown Notice Compliance](#42-copyright-takedown-notice-compliance)
@@ -38,29 +38,43 @@ Docs Menu
         17. [6.1 War Footage](#61-war-footage)
         18. [6.2 Violent Content (Exceptions)](#62-violent-content-exceptions)
         19. [7.0 Advertising](#70-advertising)
-    7. [Factually of content](#factually-of-content)
+        20. [8.0 Misinformation](#80-misinformation)
+        21. [8.1 Do No Harm](#81-do-no-harm)
+    7. [Legal Factuality Requirements](#legal-factuality-requirements)
     8. [Our Rights](#our-rights)
     9. [Bot Usage and Guidelines](#bot-usage-and-guidelines)
     10. [Our Governing Laws](#our-governing-laws)
     11. [Contact Information & Reporting Harmful Content](#contact-information--reporting-harmful-content)
     12. [TL;DR](#tldr)
 
+### [Site Bylaws](https://legal.lemmy.world/bylaws/)
+
+1. 1. [1\. Site Administration](#1-site-administration)
+        1. [1.1 User Ban Policy (Site Wide)](#11-user-ban-policy-site-wide)
+        2. [1.2 Site Admin Issues (for Community Moderators)](#12-site-admin-issues-for-community-moderators)
+    2. [2\. Community Moderation](#2-community-moderation)
+        1. [2.1 User Ban Policy (Community)](#21-user-ban-policy-community)
+        2. [2.2 Community Mod Removal](#22-community-mod-removal)
+        3. [2.3 Abandoned Communities](#23-abandoned-communities)
+        4. [2.4 Community Content Removal](#24-community-content-removal)
+        5. [2.5 Content Reporting](#25-content-reporting)
+
 ### [Privacy Policy](https://legal.lemmy.world/privacy-policy/)
 
-1. 1. [**1\. WHAT INFORMATION DO WE COLLECT?**](#1-what-information-do-we-collect)
-    2. [**2\. HOW DO WE PROCESS YOUR INFORMATION?**](#2-how-do-we-process-your-information)
-    3. [**3\. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR INFORMATION?**](#3-what-legal-bases-do-we-rely-on-to-process-your-information)
-    4. [**4\. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?**](#4-when-and-with-whom-do-we-share-your-personal-information)
-    5. [**5\. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?**](#5-do-we-use-cookies-and-other-tracking-technologies)
-    6. [**6\. HOW LONG DO WE KEEP YOUR INFORMATION?**](#6-how-long-do-we-keep-your-information)
-    7. [**7\. HOW DO WE KEEP YOUR INFORMATION SAFE?**](#7-how-do-we-keep-your-information-safe)
-    8. [**8\. DO WE COLLECT INFORMATION FROM MINORS? (ToS should change minimum to 18)**](#8-do-we-collect-information-from-minors-tos-should-change-minimum-to-18)
-    9. [**9\. WHAT ARE YOUR PRIVACY RIGHTS?**](#9-what-are-your-privacy-rights)
+1. 1. [**1\. INFORMATION WE COLLECT**](#1-information-we-collect)
+    2. [**2\. INFORMATION PROCESSED**](#2-information-processed)
+    3. [**3\. LEGAL BASIS FOR INFORMATION PROCESSING**](#3-legal-basis-for-information-processing)
+    4. [**4\. SHARING OF PERSONAL INFORMATION**](#4-sharing-of-personal-information)
+    5. [**5\. COOKIES AND OTHER TRACKING TECHNOLOGIES**](#5-cookies-and-other-tracking-technologies)
+    6. [**6\. DATA RETENTION**](#6-data-retention)
+    7. [**7\. DATA SAFETY**](#7-data-safety)
+    8. [**8\. INFORMATION FROM MINORS**](#8-information-from-minors)
+    9. [**9\. PRIVACY RIGHTS**](#9-privacy-rights)
     10. [**10\. CONTROLS FOR DO-NOT-TRACK FEATURES**](#10-controls-for-do-not-track-features)
-    11. [**11\. DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?**](#11-do-united-states-residents-have-specific-privacy-rights)
-    12. [**12\. DO OTHER REGIONS HAVE SPECIFIC PRIVACY RIGHTS?**](#12-do-other-regions-have-specific-privacy-rights)
-    13. [**13\. DO WE MAKE UPDATES TO THIS NOTICE?**](#13-do-we-make-updates-to-this-notice)
-    14. [**14\. HOW CAN YOU CONTACT US ABOUT THE PRIVACY POLICY?**](#14-how-can-you-contact-us-about-the-privacy-policy)
+    11. [**11\. UNITED STATES RESIDENTS SPECIFIC PRIVACY RIGHTS**](#11-united-states-residents-specific-privacy-rights)
+    12. [**12\. OTHER REGIONS SPECIFIC PRIVACY RIGHTS**](#12-other-regions-specific-privacy-rights)
+    13. [**13\. UPDATES TO THIS NOTICE**](#13-updates-to-this-notice)
+    14. [**14\. CONTACT**](#14-contact)
 
 ### [Cookie Policy](https://legal.lemmy.world/cookie-policy/)
 
@@ -89,7 +103,7 @@ This page is made to be helpful to you.
 
 Please view the website sidebar for documentation in detail.
 
-**LAST REVISED:** 2024-07-19:
+**LAST REVISED:** 2024-09-04:
 
 ![header](/images/header.jpg)
 
