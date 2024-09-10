@@ -83,7 +83,6 @@ Previous Next
     
     * [Pro WiFi Access Points](https://www.netgear.com/business/wifi/access-points/listing-filter/smbnet-wireless-accpoi-remgmt/)
     * [Business Essentials Access Points](https://www.netgear.com/business/wifi/access-points/listing-filter/ax-wifi6e1/ax-wifi6/smbnet-wireless-accpoi-locmgmt/)
-    * [Cables](https://www.netgear.com/business/wifi/cables/)
     
     Wired Networking
     
@@ -109,6 +108,10 @@ Previous Next
     Software
     
     * [NETGEAR Insight Management](https://www.netgear.com/business/services/insight/)
+    
+    Accessories
+    
+    * [Business Accessories](https://www.netgear.com/business/wired/switches/accessories/)
     
     Applications
     
@@ -167,7 +170,6 @@ Previous Next
     * [NETGEAR Insight Management](https://www.netgear.com/business/services/insight/)
     * [Pro Routers](https://www.netgear.com/business/wired/routers/pr460x/)
     * [Pro WiFi Access Points](https://www.netgear.com/business/wifi/access-points/residential/)
-    * [Cables](https://www.netgear.com/business/wifi/cables/)
     * [Accessories](https://www.netgear.com/business/wired/switches/accessories/)
     
     APPLICATIONS
@@ -217,7 +219,7 @@ Previous Next
     [![NETGEAR ENGAGE](/media/NETGEAR_Engage_Logo_Centered_tcm148-145109.png)](https://www.netgear.com/business/solutions/engage-controller/ "NETGEAR ENGAGE")
     
 * [SUPPORT](https://www.netgear.com/support/)
-* [SHOP OFFERS](https://store.netgear.com/home/?lang=en_us)
+* [SHOP OFFERS](https://www.netgear.com/deals/)
 
 [![National flag of US – English click to change language and/or country / region](/system/assets/images/blank-image.png)](#)
 
@@ -319,7 +321,7 @@ Checkout
 
 Previous Next
 
-![Icon-Close](/system/v4.48/assets/images/Icon-Close.png)
+![Icon-Close](/system/v4.6/assets/images/Icon-Close.png)
 
 * [HOME SOLUTIONS](#t21827-k98153)
 * [BUSINESS SOLUTIONS](#t21827-k102990)
@@ -387,7 +389,6 @@ Shop By Brand :
 
 * [Pro WiFi Access Points](https://www.netgear.com/business/wifi/access-points/listing-filter/smbnet-wireless-accpoi-remgmt/)
 * [Business Essentials Access Points](https://www.netgear.com/business/wifi/access-points/listing-filter/ax-wifi6e1/ax-wifi6/smbnet-wireless-accpoi-locmgmt/)
-* [Cables](https://www.netgear.com/business/wifi/cables/)
 
 [Wired Networking](#navdrop9)
 
@@ -414,7 +415,11 @@ Shop By Brand :
 
 * [NETGEAR Insight Management](https://www.netgear.com/business/services/insight/)
 
-[Applications](#navdrop13)
+[Accessories](#navdrop13)
+
+* [Business Accessories](https://www.netgear.com/business/wired/switches/accessories/)
+
+[Applications](#navdrop14)
 
 * [Total Network Solution](https://www.netgear.com/business/solutions/total-network-solution/)
 * [VARs & MSPs](https://www.netgear.com/business/solutions/var/)
@@ -422,12 +427,12 @@ Shop By Brand :
 * [Mid-Sized Business](https://www.netgear.com/business/solutions/smb/)
 * [Small Business - Home Office](https://www.netgear.com/business/solutions/small-business-home-office/)
 
-[Support](#navdrop14)
+[Support](#navdrop15)
 
 * [NETGEAR ProSupport](https://www.netgear.com/business/services/prosupport/)
 * [Pro WiFi Design Services](https://www.netgear.com/av/services/prowifi-designsupport/)
 
-[RESOURCES](#navdrop15)
+[RESOURCES](#navdrop16)
 
 * [Webinars](https://www.netgear.com/about/webinars/)
 * [Press Room](https://www.netgear.com/hub/pressroom/)
@@ -437,7 +442,7 @@ Shop By Brand :
 * [Become a Partner](https://powershift.netgear.com/)
 * [Events](https://www.netgear.com/business/events/)
 
-[LEARNING CENTER](#navdrop16)
+[LEARNING CENTER](#navdrop17)
 
 * [WiFi 7](https://www.netgear.com/business/wifi/wifi7/)
 * [WiFi 6E Access Points](https://www.netgear.com/business/wifi/wifi6e/)
@@ -457,7 +462,7 @@ Shop By Brand :
 
 [AV SOLUTIONS OVERVIEW](https://www.netgear.com/av/)
 
-[PRODUCTS](#navdrop18)
+[PRODUCTS](#navdrop19)
 
 * [M4250 Managed Switches](https://www.netgear.com/business/wired/switches/fully-managed/m4250/)
 * [M4300 Managed Switches](https://www.netgear.com/business/wired/switches/fully-managed/m4300/)
@@ -467,26 +472,25 @@ Shop By Brand :
 * [NETGEAR Insight Management](https://www.netgear.com/business/services/insight/)
 * [Pro Routers](https://www.netgear.com/business/wired/routers/pr460x/)
 * [Pro WiFi Access Points](https://www.netgear.com/business/wifi/access-points/residential/)
-* [Cables](https://www.netgear.com/business/wifi/cables/)
 * [Accessories](https://www.netgear.com/business/wired/switches/accessories/)
 
-[APPLICATIONS](#navdrop19)
+[APPLICATIONS](#navdrop20)
 
 * [Commercial AV](https://www.netgear.com/business/solutions/av-over-ip/)
 * [Residential AV](https://www.netgear.com/business/solutions/residential/)
 * [Broadcast AV](https://www.netgear.com/business/solutions/broadcast/)
 
-[SUPPORT](#navdrop20)
+[SUPPORT](#navdrop21)
 
 * [NETGEAR ProSupport](https://www.netgear.com/business/services/prosupport/)
 * [Pro AV Design Services](https://www.netgear.com/av/services/proav-designsupport/)
 * [Pro WiFi Design Services](https://www.netgear.com/av/services/prowifi-designsupport/)
 
-[PARTNERS](#navdrop21)
+[PARTNERS](#navdrop22)
 
 * [Become a Partner](https://powershift.netgear.com/)
 
-[RESOURCES](#navdrop22)
+[RESOURCES](#navdrop23)
 
 * [AV Resource Center](https://www.netgear.com/business/solutions/proav-resources/)
 * [Webinars](https://www.netgear.com/about/webinars/)
@@ -496,7 +500,7 @@ Shop By Brand :
 * [Success Stories](https://www.netgear.com/business/success-stories/#filter=.insight%2c.wireless-access-points%2c.av-over-ip)
 * [Events](https://www.netgear.com/business/events/)
 
-[LEARNING CENTER](#navdrop23)
+[LEARNING CENTER](#navdrop24)
 
 * [WiFi 7](https://www.netgear.com/business/wifi/wifi7/)
 * [WiFi 6E Access Points](https://www.netgear.com/business/wifi/wifi6e/)
@@ -594,6 +598,7 @@ Sign up and enjoy these benefits!
 * [Investor Relations](https://investor.netgear.com/)
 * [Press Releases](https://www.netgear.com/about/press-releases/)
 * [Careers](https://www.netgear.com/about/careers/sanjose-usa/)
+* [Environmental, Social, & Governance](https://www.netgear.com/about/esg-environmental-social-governance/)
 * [Regulatory/Export Compliance](https://www.netgear.com/about/regulatory/)
 * [Security Advisory](https://www.netgear.com/about/security/)
 * [Privacy Policy](https://www.netgear.com/about/privacy-policy/)
