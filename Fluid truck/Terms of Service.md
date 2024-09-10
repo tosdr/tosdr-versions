@@ -97,7 +97,7 @@ PLEASE UNDERSTAND HOW THE LAWS WORK IN YOUR AREA PRIOR TO USING THE SERVICES. TH
 ‍  
 LAST UPDATED: August 31, 2023.
 
-#### About
+#### 1\. About
 
 Fluid is an online platform or marketplace that allows Users to advertise, offer and rent just about anything in a variety of pricing formats and locations. Fluid does not own or manage any property listed through the Services. Fluid is not a party to any rental or other agreement between Users. The actual contract is between the borrower and lender. Unless otherwise provided, Fluid's responsibilities are limited to enabling the Services and serving as a limited agent (and limited power of attorney for insurance purposes) for Users listing items available for renting ("Rental") for the purpose of accepting payments from Users borrowing the Lender's items ("Borrower").  
   
@@ -174,7 +174,7 @@ While Fluid may provide pricing, rental, delivery, shipping, listing and other g
     * Stolen property, property with serial number removed/altered, burglary tools, lock picking devices
     * Unpackaged or adulterated food or cosmetics
     * Unsanitized bedding and clothing
-3. Damage to Items. Lenders may file a claim with Fluid for any damage incurred during a Transaction. Please contact Fluid Customer Care at [CustomerCare@fluidtruck.com](mailto:CustomerCare@fluidtruck.com) for additional information.
+3. Damage to Items. Lenders may file a claim with Fluid for any damage incurred during a Transaction. Please contact Fluid Customer Care at [help@fluidtruck.com](mailto:help@fluidtruck.com) for additional information.
 
 #### 4\. Borrowers
 
@@ -327,7 +327,7 @@ Users may post reviews, comments, photos, videos, and other content; send e-card
 
 #### 12\. Contact Fluid
 
-If you have any feedback or questions for us, please contact Fluid at [CustomerCare@FluidTruck.com](mailto:CustomerCare@FluidTruck.com).  
+If you have any feedback or questions for us, please contact Fluid at [help@fluidtruck.com](mailto:help@fluidtruck.com).  
 
 Fluid Truck
 
@@ -367,7 +367,7 @@ Connect
 
 [![fluid truck facebook](https://cdn.prod.website-files.com/5f4914aeac9b5242f7b3078b/5f4914aeac9b527479b30800_facebook.svg)](https://www.facebook.com/FluidTruck)[![fluid truck instagram](https://cdn.prod.website-files.com/5f4914aeac9b5242f7b3078b/5f4914aeac9b52978eb30801_instagram.svg)](https://www.instagram.com/fluidtruck/)[![fluid truck twitter](https://cdn.prod.website-files.com/5f4914aeac9b5242f7b3078b/5f4914aeac9b52744cb30802_twitter.svg)](https://twitter.com/fluidtruck)[![](https://cdn.prod.website-files.com/5f4914aeac9b5242f7b3078b/60f9bd4c78bbf639038bd980_linkedin.svg)](https://www.linkedin.com/company/fluid-inc./)
 
-[![](https://cdn.prod.website-files.com/5f4914aeac9b5242f7b3078b/611d5f91460e4c31ecfeb840_Apple%20App%20Store.webp)](https://apps.apple.com/us/app/fluid-truck-share/id1114189236)[![](https://cdn.prod.website-files.com/5f4914aeac9b5242f7b3078b/611d5fbf984466ec723d54be_Google%20Play%20Store.webp)](https://play.google.com/store/apps/details?id=com.fluidmarket.fluid)
+[![](https://cdn.prod.website-files.com/5f4914aeac9b5242f7b3078b/611d5f91460e4c31ecfeb840_Apple%20App%20Store.avif)](https://apps.apple.com/us/app/fluid-truck-share/id1114189236)[![](https://cdn.prod.website-files.com/5f4914aeac9b5242f7b3078b/611d5fbf984466ec723d54be_Google%20Play%20Store.avif)](https://play.google.com/store/apps/details?id=com.fluidmarket.fluid)
 
 ©2024 Fluid Market Inc.
 
@@ -407,7 +407,7 @@ Connect
 
 [![fluid truck facebook](https://cdn.prod.website-files.com/5f4914aeac9b5242f7b3078b/5f4914aeac9b527479b30800_facebook.svg)](https://www.facebook.com/FluidTruck)[![fluid truck instagram](https://cdn.prod.website-files.com/5f4914aeac9b5242f7b3078b/5f4914aeac9b52978eb30801_instagram.svg)](https://www.instagram.com/fluidtruck/)[![fluid truck twitter](https://cdn.prod.website-files.com/5f4914aeac9b5242f7b3078b/5f4914aeac9b52744cb30802_twitter.svg)](https://twitter.com/fluidtruck)
 
-[![](https://cdn.prod.website-files.com/5f4914aeac9b5242f7b3078b/611d5f91460e4c31ecfeb840_Apple%20App%20Store.webp)](https://apps.apple.com/us/app/fluid-truck-share/id1114189236)[![](https://cdn.prod.website-files.com/5f4914aeac9b5242f7b3078b/611d5fbf984466ec723d54be_Google%20Play%20Store.webp)](https://play.google.com/store/apps/details?id=com.fluidmarket.fluid)
+[![](https://cdn.prod.website-files.com/5f4914aeac9b5242f7b3078b/611d5f91460e4c31ecfeb840_Apple%20App%20Store.avif)](https://apps.apple.com/us/app/fluid-truck-share/id1114189236)[![](https://cdn.prod.website-files.com/5f4914aeac9b5242f7b3078b/611d5fbf984466ec723d54be_Google%20Play%20Store.avif)](https://play.google.com/store/apps/details?id=com.fluidmarket.fluid)
 
 ©2021 Fluid Truck, Inc.
 
@@ -461,7 +461,7 @@ Top Cities
 
 [San Francisco](https://www.fluidtruck.com/locations/san-francisco-metro)
 
-[![](https://cdn.prod.website-files.com/5f4914aeac9b5242f7b3078b/611d5f91460e4c31ecfeb840_Apple%20App%20Store.webp)](https://apps.apple.com/us/app/fluid-truck-share/id1114189236)
+[![](https://cdn.prod.website-files.com/5f4914aeac9b5242f7b3078b/611d5f91460e4c31ecfeb840_Apple%20App%20Store.avif)](https://apps.apple.com/us/app/fluid-truck-share/id1114189236)
 
 [![fluid truck facebook](https://cdn.prod.website-files.com/5f4914aeac9b5242f7b3078b/5f4914aeac9b527479b30800_facebook.svg)](https://www.facebook.com/FluidTruck)[![fluid truck instagram](https://cdn.prod.website-files.com/5f4914aeac9b5242f7b3078b/5f4914aeac9b52978eb30801_instagram.svg)](https://www.instagram.com/fluidtruck/)[![fluid truck twitter](https://cdn.prod.website-files.com/5f4914aeac9b5242f7b3078b/5f4914aeac9b52744cb30802_twitter.svg)](https://twitter.com/fluidtruck)
 
