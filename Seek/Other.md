@@ -17,17 +17,17 @@ Menu
 
 [Job search](https://www.seek.com.au/)
 
-[Profile](https://www.seek.com.au/profile/)
+[Profile](https://www.seek.com.au/profile)
 
-[Career advice](https://www.seek.com.au/career-advice/)
+[Career advice](https://www.seek.com.au/career-advice)
 
-[Explore companies](https://www.seek.com.au/companies/)
+[Explore companies](https://www.seek.com.au/companies)
 
-[Sign in](https://www.seek.com.au/oauth/login/?returnUrl=https%3A%2F%2Fwww.seek.com.au%2F "Sign in")
+[Sign in](https://www.seek.com.au/oauth/login/?returnUrl=http%3A%2F%2Fwww.seek.com.au%2F "Sign in")
 
 Australia
 
-[Australia](https://www.seek.com.au/)[Hong Kong](https://hk.jobsdb.com/)[Indonesia](https://www.jobstreet.co.id/)[Malaysia](https://www.jobstreet.com.my/)[New Zealand](https://www.seek.co.nz/)[Philippines](https://www.jobstreet.com.ph/)[Singapore](https://www.jobstreet.com.sg/)[Thailand](https://th.jobsdb.com/)
+[Australia](https://www.seek.com.au/)[Hong Kong](https://hk.jobsdb.com/)[Indonesia](https://id.jobstreet.com/)[Malaysia](https://www.jobstreet.com.my/)[New Zealand](https://www.seek.co.nz/)[Philippines](https://www.jobstreet.com.ph/)[Singapore](https://sg.jobstreet.com/)[Thailand](https://th.jobsdb.com/)
 
 [Employer site](https://talent.seek.com.au/)
 
@@ -35,17 +35,17 @@ All SEEK products
 
 [Jobs](https://www.seek.com.au/)[Courses](https://www.seek.com.au/learning/?campaigncode=seek_banner_29&sc_trk=skj-courses-link)[Businesses for sale](https://www.seekbusiness.com.au/?site=au&tracking=sk%3Amain%3Aau%3Anav%3Abus)[Volunteering](https://www.volunteer.com.au/?tracking=SKMAU%3Amain+header)
 
-[Sign in](https://www.seek.com.au/oauth/login/?returnUrl=https%3A%2F%2Fwww.seek.com.au%2F "Sign in")
+[Sign in](https://www.seek.com.au/oauth/login/?returnUrl=http%3A%2F%2Fwww.seek.com.au%2F "Sign in")
 
 [Employer site](https://talent.seek.com.au/)
 
 [Job search](https://www.seek.com.au/)
 
-[Profile](https://www.seek.com.au/profile/)
+[Profile](https://www.seek.com.au/profile)
 
-[Career advice](https://www.seek.com.au/career-advice/)
+[Career advice](https://www.seek.com.au/career-advice)
 
-[Explore companies](https://www.seek.com.au/companies/)
+[Explore companies](https://www.seek.com.au/companies)
 
 [](https://www.seek.com.au/)
 
@@ -350,7 +350,7 @@ Job seekers
 
 [Job search](https://www.seek.com.au/)
 
-[Profile](https://www.seek.com.au/profile/)
+[Profile](https://www.seek.com.au/profile)
 
 [Recommended jobs](https://www.seek.com.au/oauth/login/?returnUrl=%2Frecommended)
 
@@ -358,15 +358,15 @@ Job seekers
 
 [Saved jobs](https://www.seek.com.au/oauth/login/?returnUrl=%2Fmy-activity%2Fsaved-jobs)
 
-[Applied jobs](https://www.seek.com.au/oauth/login/?returnUrl=%2Fmy-activity%2Fapplied-jobs%2F)
+[Applied jobs](https://www.seek.com.au/oauth/login/?returnUrl=%2Fmy-activity%2Fapplied-jobs)
 
-[Career advice](https://www.seek.com.au/career-advice/)
+[Career advice](https://www.seek.com.au/career-advice)
 
 [Explore careers](https://www.seek.com.au/career-advice/explore-careers)
 
 [Explore salaries](https://www.seek.com.au/career-advice/explore-salaries)
 
-[Explore companies](https://www.seek.com.au/companies/)
+[Explore companies](https://www.seek.com.au/companies)
 
 Download apps
 
@@ -396,21 +396,21 @@ Employers
 
 [Customer service](https://talent.seek.com.au/contactus)
 
-[Hiring advice](https://www.seek.com.au/employer/hiring-advice/)
+[Hiring advice](https://talent.seek.com.au/hiring-advice)
 
-[Market insights](https://www.seek.com.au/employer/market-insights/)
+[Market insights](https://talent.seek.com.au/market-insights)
 
 [Recruitment software partners](https://talent.seek.com.au/partners/connect-with-seek)
 
 About SEEK
 
-[About SEEK](https://www.seek.com.au/about/)
+[About SEEK](https://www.seek.com.au/about)
 
-[Newsroom](https://www.seek.com.au/about/news/)
+[Newsroom](https://www.seek.com.au/about/news)
 
-[Investors](https://www.seek.com.au/about/investors/)
+[Investors](https://www.seek.com.au/about/investors)
 
-[Work for SEEK](https://www.seek.com.au/work-for-seek/)
+[Work for SEEK](https://www.seek.com.au/work-for-seek)
 
 International partners
 
@@ -426,7 +426,7 @@ International partners
 
 Partner services
 
-[Certsy](https://certsy.com/)
+[SEEK Pass](https://seekpass.co/)
 
 [GradConnection](https://au.gradconnection.com/)
 
@@ -438,15 +438,13 @@ Partner services
 
 [FutureLearn](https://www.futurelearn.com/)
 
-[Employment Hero](https://employmenthero.com/)
-
 [JobAdder](https://jobadder.com/)
 
 Contact
 
 [Help centre](https://help.seek.com.au/s/)
 
-[Contact us](https://www.seek.com.au/contact-us/)
+[Contact us](https://www.seek.com.au/contact-us)
 
 [Product & tech blog](https://medium.com/seek-blog)
 
@@ -464,7 +462,7 @@ Social
 
 Australia
 
-[**Australia**](https://www.seek.com.au/)[Hong Kong](https://hk.jobsdb.com/)[Indonesia](https://www.jobstreet.co.id/)[Malaysia](https://www.jobstreet.com.my/)[New Zealand](https://www.seek.co.nz/)[Philippines](https://www.jobstreet.com.ph/)[Singapore](https://www.jobstreet.com.sg/)[Thailand](https://th.jobsdb.com/)
+[**Australia**](https://www.seek.com.au/)[Hong Kong](https://hk.jobsdb.com/)[Indonesia](https://id.jobstreet.com/)[Malaysia](https://www.jobstreet.com.my/)[New Zealand](https://www.seek.co.nz/)[Philippines](https://www.jobstreet.com.ph/)[Singapore](https://sg.jobstreet.com/)[Thailand](https://th.jobsdb.com/)
 
 [Terms & conditions](https://www.seek.com.au/terms/)
 
