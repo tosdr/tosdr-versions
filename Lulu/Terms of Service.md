@@ -16,7 +16,7 @@
     
 * [Resources](https://www.lulu.com/resources)
     
-    [Knowledge Base](https://help.lulu.com/en/support/home)[Guides & Templates](https://www.lulu.com/publishing-toolkit)[Author Tools](https://www.lulu.com/author-toolkit)[Hire A Professional](https://www.lulu.com/partners)[Glossary of Publishing Terms](https://www.lulu.com/glossary/glossary-of-terms)[Videos](https://www.youtube.com/@Luludotcom)[Blog](https://blog.lulu.com/)[Contact Support](https://help.lulu.com/en/support/tickets/new)
+    [Knowledge Base](https://help.lulu.com/en/support/home)[Guides & Templates](https://www.lulu.com/publishing-toolkit)[Author Tools](https://www.lulu.com/author-toolkit)[Hire A Professional](https://www.lulu.com/partners)[Glossary of Publishing Terms](https://www.lulu.com/glossary/glossary-of-terms)[Videos](https://www.youtube.com/@luludotcom)[Blog](https://blog.lulu.com/)[Contact Support](https://help.lulu.com/en/support/tickets/new)
     
 * [Bookstore](https://www.lulu.com/shop)
     
@@ -598,7 +598,7 @@ Our Team
 
 Community
 
-[Blog](https://blog.lulu.com/)[Videos](https://www.youtube.com/@Luludotcom)[Podcast](https://www.publishprosperpodcast.com/)
+[Blog](https://blog.lulu.com/)[Videos](https://www.youtube.com/@luludotcom)[Podcast](https://www.publishprosperpodcast.com/)
 
 Help
 
@@ -620,7 +620,7 @@ Italiano
 
 Español
 
-[](https://www.instagram.com/luludotcom/)[](https://www.facebook.com/Luludotcom/)[](https://www.linkedin.com/company/luludotcom)[](https://www.youtube.com/@Luludotcom)[](https://blog.lulu.com/)[](https://www.publishprosperpodcast.com/)[](https://www.tiktok.com/@lulupublishing)[](https://www.twitter.com/Luludotcom)
+[](https://www.instagram.com/luludotcom/)[](https://www.facebook.com/Luludotcom/)[](https://www.linkedin.com/company/luludotcom)[](https://www.youtube.com/@luludotcom)[](https://blog.lulu.com/)[](https://www.publishprosperpodcast.com/)[](https://www.tiktok.com/@lulupublishing)[](https://www.twitter.com/Luludotcom)
 
 Get exclusive Publishing & Marketing tips to help you create and sell your books more effectively! You can unsubscribe at any time.
 
