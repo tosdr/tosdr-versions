@@ -59,6 +59,10 @@ Menu Close
             
             Identify and address non-academic barriers to student success.
             
+        * [SAEBRS](https://www.renaissance.com/products/saebrs/)
+            
+            Evaluate students for problematic behaviors and indicators of resiliency.
+            
         * [SchoolCity](https://www.renaissance.com/products/schoolcity/)
             
             Discover customized assessment solutions for districts
@@ -460,7 +464,7 @@ About Us
 * [Leadership](https://www.renaissance.com/about-us/renaissance-leadership/)
 * [Careers](https://www.renaissance.com/about-us/careers/)
 * [Newsroom](https://www.renaissance.com/about-us/newsroom/)
-* [Awards & Recognition](https://www.renaissance.com/?page_id=46305)
+* [Awards & Recognition](https://www.renaissance.com/about-us/accolades/)
 
 Community & More
 
@@ -473,7 +477,7 @@ ARP ESSER funds can still be used to purchase Renaissance solutions. Private sch
 
 [Learn more about funding](https://www.renaissance.com/resources/funding/)
 
-© 2024 Renaissance Learning, Inc. All rights reserved. | [Privacy hub](https://www.renaissance.com/privacy/) | [Copyright policy](https://www.renaissance.com/copyright-policy/) | [Terms of use](https://www.renaissance.com/terms-of-use/) | [Privacy settings](#)
+© 2024 Renaissance Learning, Inc. All rights reserved. | [Privacy hub](https://www.renaissance.com/privacy/) | [Copyright policy](https://www.renaissance.com/renaissance-copyright-policy/) | [Terms of use](https://www.renaissance.com/terms-of-use/) | [Privacy settings](#)
 
 Select your school
 
