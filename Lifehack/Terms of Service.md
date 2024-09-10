@@ -30,6 +30,7 @@ Menu
     * [The Struggle For Balance](https://p.lifehack.org/solutions-struggle-for-balance)
     * [Breaking Free from Survival Mode](https://p.lifehack.org/solutions-survival-mode)
 * [Membership](#)
+    * [LifeHack 360 Assessment](https://p.lifehack.org/membership/lifehack-360)
     * [AI Assisted Journalling](https://p.lifehack.org/membership/assisted-journalling)
     * [Goal Realization Engine](https://p.lifehack.org/membership/goals-milestones-actions)
     * [Resources & Learning Corner](https://p.lifehack.org/membership/learning-corner)
