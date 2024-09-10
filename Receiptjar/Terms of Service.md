@@ -33,7 +33,7 @@ Open Menu Close Menu
 Terms & Conditions
 ------------------
 
-Last updated: March 14, 2024
+Last updated: September 6, 2024
 
 [English](https://www.receiptjar.com/terms-conditions) | [Français](https://www.receiptjar.com/terms-conditions-ca-fr) | [Español](https://www.receiptjar.com/terms-conditions-es-us)
 
@@ -99,10 +99,10 @@ We process your rewards and redemptions as follows:
 * your Account must have a valid email address connected with your App password for automation of rewards email receipts.
     
 
-* This applies to Service users in Canada and the United States.
+* This is currently only applicable to selected users of our Apps. We reserve the right to change this requirement at any time.
     
 
-* Unless the law in your relevant jurisdiction provides otherwise, points will expire after thirty (30) days of Account inactivity. Inactive Accounts will not qualify for redemption. All expired points will be forfeited immediately.
+* Unless the law in your relevant jurisdiction provides otherwise, points will expire after thirty (30) days of Account inactivity. "**Inactive Accounts**" are those accounts that have not submitted a valid offline receipt within thirty (30) days. Inactive Accounts will not qualify for redemptions.
     
 * Subject to our obligation under applicable law, we reserve the right to change the ‘Points System’ and ‘Redemption Options’ at any time and will notify you of changes from within the App by providing at least thirty (30) days’ notice to you.
     
@@ -177,6 +177,8 @@ You may only submit your own receipts or receipts from your household shopping t
     
 * We may at any time and in our absolute discretion suspend your Account, or freeze or cancel point accruals or redemptions, if fraudulent activity is detected or suspected. 
     
+* We may at any time and in our absolute discretion suspend your Account, or freeze or cancel point accruals or redemptions, if “**Fraudulent Activity**” and/or “**Inappropriate Activity**” is detected or suspected.
+    
 
 **Fraudulent Activity**
 
@@ -200,6 +202,31 @@ Fraudulent activities include (but are not limited to):
     
 * any other activities which we determine are fraudulent or dishonest.
     
+
+**Inappropriate Activity**
+
+Any inappropriate activity, as described under the “**Communications**” and “**Images**” sections below, will result in immediate suspension or termination of your Account, reward points, and any pending redemptions or awards. 
+
+**Communications**
+
+Your communications with us must not constitute offensive behaviour, including (but not limited to) threatening, derogatory, abusive or defamatory statements, or racist, sexually explicit, pornographic, obscene or offensive language.
+
+**Images**
+
+You must not upload, share, or distribute any images that contain obscene, offensive, or inappropriate behaviour. This includes, but is not limited to, any images that:
+
+* Contain explicit sexual content or nudity.
+    
+* Depict violence, gore, or graphic content intended to shock or disturb.
+    
+* Feature hate symbols, discriminatory imagery, or promote hate speech against individuals or groups based on race, ethnicity, nationality, religion, gender, sexual orientation, or any other characteristic.
+    
+* Are intended to harass, intimidate, or threaten others.
+    
+* Violate any applicable laws or regulations.
+    
+
+We reserve the right to determine, at our absolute discretion, what constitutes obscene or offensive imagery and to take appropriate action.
 
 #### **Shakes & Promotions**
 
