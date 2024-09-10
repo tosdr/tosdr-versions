@@ -1,5 +1,3 @@
-![](https://www.facebook.com/tr?id=1508231812802917&ev=PageView&noscript=1&a=adobe_commerce-0.0.0-1.2.5)
-
 **JavaScript seems to be disabled in your browser.** For the best experience on our site, be sure to turn on Javascript in your browser.
 
  [![](https://www.mypillow.com/media/logo/default/site-logo.png)](https://www.mypillow.com/)
@@ -10,6 +8,12 @@ Order now [1-800-544-8939](tel:18005448939)
 
 Customer Service [1-800-308-1299](tel:18003081299)
 
+* **Search**
+    
+    Search
+    
+    Search Clear
+    
 * Contact Us
 
 Order now [1-800-544-8939](tel:18005448939)
@@ -20,12 +24,6 @@ Customer Service [1-800-308-1299](tel:18003081299)
     
     Sign in or Join](https://www.mypillow.com/customer/account/login/referer/aHR0cHM6Ly93d3cubXlwaWxsb3cuY29tL3ByaXZhY3k~/)
 * My Cart
-    
-* **Search**
-    
-    Search
-    
-    Search
     
 * Toggle Nav
 
@@ -45,7 +43,7 @@ Customer Service [1-800-308-1299](tel:18003081299)
     * [Blankets](https://www.mypillow.com/bedding/blankets)
     * [Comforters](https://www.mypillow.com/bedding/blankets/downcomforters)
     * [Duvet Covers](https://www.mypillow.com/bedding/duvets)
-* [Mattresses](https://www.mypillow.com/mattress)
+* [Mattresses](https://www.mypillow.com/mattresses)
     * [The Complete Mattress Sleep System](https://www.mypillow.com/the-complete-mattress-sleep-system)
     * [Coil Mattress](https://www.mypillow.com/mattresses/coil-mattresses)
     * [Foam Mattress](https://www.mypillow.com/mypillow-foam-mattress)
@@ -92,6 +90,8 @@ Customer Service [1-800-308-1299](tel:18003081299)
 Get Even Lower Prices!
 
 Apply
+
+ ![](https://www.mypillow.com/media/wysiwyg/promotions/free-shipping-75-exclude.jpg)
 
 * [Home](https://www.mypillow.com/ "Go to Home Page")
 * **Privacy Policy**
