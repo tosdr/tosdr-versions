@@ -1,5 +1,3 @@
-Cookie Consent by [TermsFeed Generator](https://www.termsfeed.com/)
-
 ![DoubleTap Software LLC](/images/DoubleTap.png)
 
 Creators of the hit mobile sports games Soccer Battle, Basketball Battle, and Ted Ginn: Kick Return.
