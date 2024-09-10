@@ -1,6 +1,6 @@
-[](https://www.scmp.com/)
+[](https://www.scmp.com/?module=masthead&pgtype=page)
 
-SCMP.COM
+[](https://www.scmp.com/?module=masthead&pgtype=page)
 
 Terms & Conditions
 ==================
@@ -33,7 +33,7 @@ The following definitions should apply herein unless otherwise stated.
 
 **“SCMP Service”** means online information and communication service which is available for viewing or otherwise by accessing the Content on the SCMP.com Website and/or through its mobile websites, applications, newsletters and/or other news aggregators and/or for access to and use of the Discussion Forum and/or participation in the Initiatives where applicable, subject to these terms and conditions.
 
-**“SCMP.com Website”** means the South China Morning Post website at [www.scmp.com](https://www.scmp.com/?module=inline&pgtype=article) or such other websites which is operated by SCMP from time to time.
+**“SCMP.com Website”** means the South China Morning Post website at [www.scmp.com](https://www.scmp.com/?module=inline&pgtype=page) or such other websites which is operated by SCMP from time to time.
 
 **“Third Party Content”** means products and services of third parties which are and/or have been advertised or presented on the SCMP Service.
 
@@ -58,7 +58,7 @@ The following definitions should apply herein unless otherwise stated.
 
 **2.6** SCMP may also impose limits on certain features and services in respect of the SCMP Service.
 
-**2.7** You represent that you have read and agree to be bound by SCMP’s Privacy Policy at [www.scmp.com/privacy-policy](https://www.scmp.com/privacy-policy?module=inline&pgtype=article).
+**2.7** You represent that you have read and agree to be bound by SCMP’s Privacy Policy at [www.scmp.com/privacy-policy](https://www.scmp.com/privacy-policy?module=inline&pgtype=page).
 
 **2.8** YouTube
 
@@ -197,7 +197,7 @@ In this regard, SCMP has the sole and full discretion and its determination shal
 5\. PRIVACY OF PERSONAL DATA
 ----------------------------
 
-All information received by SCMP from your use of the SCMP Service will be used by SCMP in accordance with its Privacy Policy. Please read SCMP’s Privacy Policy at [www.scmp.com/privacy-policy](https://www.scmp.com/privacy-policy?module=inline&pgtype=article) for details of how SCMP may process your personal data.
+All information received by SCMP from your use of the SCMP Service will be used by SCMP in accordance with its Privacy Policy. Please read SCMP’s Privacy Policy at [www.scmp.com/privacy-policy](https://www.scmp.com/privacy-policy?module=inline&pgtype=page) for details of how SCMP may process your personal data.
 
 6\. DISCLAIMER OF WARRANTIES
 ----------------------------
@@ -208,7 +208,8 @@ SCMP makes no representation or warranty that:
 
 (a) the access to, use of and functioning of the SCMP Service and the availability of any Content on the same will be timely, uninterrupted, without error or omission; and free of viruses or other harmful components;
 
-and  
+and
+
 (b) the view of any Content in or with any Computer will not affect the functionality or performance of the Computer.
 
 6.2 Content
@@ -276,7 +277,7 @@ You hereby undertake not to hack into, interfere with, disrupt, disable or other
 
 11.1 You agree that SCMP may send electronic mail(s) or digital message(s) to you for the purpose of informing you of changes or additions to the SCMP Service and other matters relating to your access to and/or use of the SCMP Service.
 
-11.2 SCMP reserves the right to gather and use information about your access(es), usage(s) and demographics, and agree to maintain your data privacy, in accordance with SCMP’s Privacy Policy, the Personal Data (Privacy) Ordinance, and all relevant applicable data protection and privacy laws and regulations in force from time to time. For more information please read the SCMP’s Privacy Policy at [www.scmp.com/privacy-policy](https://www.scmp.com/privacy-policy?module=inline&pgtype=article).
+11.2 SCMP reserves the right to gather and use information about your access(es), usage(s) and demographics, and agree to maintain your data privacy, in accordance with SCMP’s Privacy Policy, the Personal Data (Privacy) Ordinance, and all relevant applicable data protection and privacy laws and regulations in force from time to time. For more information please read the SCMP’s Privacy Policy at [www.scmp.com/privacy-policy](https://www.scmp.com/privacy-policy?module=inline&pgtype=page).
 
 12\. SOFTWARE LICENCES
 ----------------------
@@ -288,7 +289,7 @@ You shall have no rights to the proprietary software and related documentation,
 
 Your subscription for access to the content on the SCMP.com Website is subject to the terms and conditions below:
 
-13.1  The current subscription rates and the applicable terms and conditions for [scmp.com](https://www.scmp.com/?module=inline&pgtype=article), [scmp.com/plus](https://www.scmp.com/plus?module=inline&pgtype=article) and [scmp.com/yp/](https://www.scmp.com/yp/?module=inline&pgtype=article) are set out at subscribe.scmp.com, subscribe.scmp.com/plus and subscribe.scmp.com/yp respectively (collectively “Subscription Terms”). SCMP reserves the right to change the subscription rates at any time which shall be published in the above webpages and My Account pages or such other platforms, mediums and/or websites operated by and notified by SCMP from time to time. Subscription promotion offers shall also be subject to the terms and conditions as published in the promotion related communication.
+13.1  The current subscription rates and the applicable terms and conditions for [scmp.com](https://www.scmp.com/?module=inline&pgtype=page), [scmp.com/plus](https://www.scmp.com/plus?module=inline&pgtype=page) and [scmp.com/yp/](https://www.scmp.com/yp/?module=inline&pgtype=page) are set out at subscribe.scmp.com, subscribe.scmp.com/plus and subscribe.scmp.com/yp respectively (collectively “Subscription Terms”). SCMP reserves the right to change the subscription rates at any time which shall be published in the above webpages and My Account pages or such other platforms, mediums and/or websites operated by and notified by SCMP from time to time. Subscription promotion offers shall also be subject to the terms and conditions as published in the promotion related communication.
 
 13.2 By making the subscription, you have agreed to the subscription rates and all the terms and conditions herein.
 
@@ -312,7 +313,9 @@ Your subscription for access to the content on the SCMP.com Website is subject t
 
 13.12  Each subscription/account is personal to the subscriber and shall only be used by the subscriber (in the case of individual subscriber) or its designated/authorised user(s) (in the case of corporate subscribers) as agreed with SCMP upon subscription. Each subscription/account is treated as a distinct subscriber based on each email address. Cases where an individual has two or more subscriptions under different email addresses will be considered as different distinct subscriptions. For avoidance of any doubts, no refund will be made for a claim of duplicate subscription using different email addresses (whether it is subscribed by the same account holder or not). The subscribed account or access to the content on SCMP.com Website shall in no event be shared with any other third party or non-subscriber. SCMP reserves the sole right and discretion to terminate such subscription according to Clause 14 in the event of any violation of this restriction.
 
-13.13 Subscription under these terms and conditions shall mean and include all new subscriptions, renewal or upgrade of the then existing subscriptions, access to or the use of SCMP Services.
+13.13
+
+Subscription under these terms and conditions shall mean and include all new subscriptions, renewal or upgrade of the then existing subscriptions, access to or the use of SCMP Services.
 
 13.14  You agree that when the subscription is first purchased, it is on the basis that your subscription will renew automatically unless you have disabled the auto-renewal function in accordance with these terms and conditions; and if such auto-renewal function is not disabled, we take it that you would like to have your subscription automatically renewed upon its next billing date. If your preference is changed and you no longer wish to have auto-renewal of your subscription, you shall need to have the auto-renewal function disabled at least 72 hours prior to the next billing date, otherwise we will automatically charge you on the next billing date and the subscription fees charged are non-refundable.
 
@@ -400,7 +403,7 @@ The following definitions should apply in this SCMP ePaper Agreement unless othe
 
 **“SCMP ePaper Service”** means replica of South China Morning Post newspaper and of Sunday Morning Post newspaper published by SCMP which is available for subscription for, access to and use of the Content of the same on the SCMP ePaper Website and for registration of, access to and use of the SCMP ePaper Account, subject to the terms and conditions of this SCMP ePaper Agreement.
 
-**“SCMP ePaper Website”** means the website for the replica of South China Morning Post newspaper and of Sunday Morning Post newspaper published by SCMP at [www.scmp.com/epaper](https://www.scmp.com/epaper?module=inline&pgtype=article).
+**“SCMP ePaper Website”** means the website for the replica of South China Morning Post newspaper and of Sunday Morning Post newspaper published by SCMP at [www.scmp.com/epaper](https://www.scmp.com/epaper?module=inline&pgtype=page).
 
 **“Third Party Content”** means all the Content which other third parties have made available or presented on the SCMP ePaper Service including but not limited to information relating to the Third Party Products.
 
@@ -436,7 +439,7 @@ The following definitions should apply in this SCMP ePaper Agreement unless othe
 
 2.10 SCMP may also impose limits on certain features and services in respect of the SCMP ePaper Service.
 
-2.11 You represent that you have read and agree to be bound by SCMP’s Personal Information Collection Statement at [www.scmp.com/privacy-policy](https://www.scmp.com/privacy-policy?module=inline&pgtype=article).
+2.11 You represent that you have read and agree to be bound by SCMP’s Personal Information Collection Statement at [www.scmp.com/privacy-policy](https://www.scmp.com/privacy-policy?module=inline&pgtype=page).
 
 2.12 If you are an entity, your subscription for, registration of, access to and use of the SCMP ePaper Service may be governed by a separate subscription agreement in addition to the terms and conditions of this SCMP ePaper Agreement.  In this regard, SCMP has the sole and full discretion and its determination shall be final.
 
@@ -472,7 +475,8 @@ The following definitions should apply in this SCMP ePaper Agreement unless othe
 
 4.2 All new subscription fees, if any, will be posted in SCMP’s Customer Service section or in other appropriate locations on the SCMP ePaper Service. You shall pay all subscription fees and charges incurred at the rates in effect for the billing period in which such subscription fees and charges (if applicable) are incurred, including, but not limited to charges for any products or services offered for sale through the SCMP ePaper Service, including, but not limited to, the Classified and Marketplace sections thereof, SCMP.com and SCMP Archives, by SCMP or any third-party merchants or service providers. All subscription fees and other charges (if applicable) shall be billed to you, or at your selection charged to your credit card, and paid for by you. You shall pay all applicable taxes relating to subscription for, registration of, access to and use of the SCMP ePaper Service through your SCMP ePaper Account.
 
-4.3 Subscription fees and charges are normally stated in Hong Kong Dollars (collectively the “Quoted Fees”). If you select to pay the subscription fees and other charges (if any) by credit card in a currency other than Hong Kong Dollars, you shall be fully responsible for payment of: (i) the amount in such currency that your credit card company charges you in order to settle the Quoted Fees irrespective of any exchange rate fluctuations; and (ii) all currency conversion and/or related fees, if any. SCMP shall not be liable for  
+4.3 Subscription fees and charges are normally stated in Hong Kong Dollars (collectively the “Quoted Fees”). If you select to pay the subscription fees and other charges (if any) by credit card in a currency other than Hong Kong Dollars, you shall be fully responsible for payment of: (i) the amount in such currency that your credit card company charges you in order to settle the Quoted Fees irrespective of any exchange rate fluctuations; and (ii) all currency conversion and/or related fees, if any. SCMP shall not be liable for
+
 any payment, refund, fees or charges in this regard.
 
 4.4 In the event of any error in calculating the amount of the subscription fees and charges on the part of SCMP, (i) you shall pay for the shortfall in case such error results in the calculated amount being less than the accurate amount; and (ii) SCMP shall refund to you any excess in case such error results in the calculated amount being more than the accurate amount and you have paid such calculated amount.
@@ -485,7 +489,7 @@ If you had not opted out the auto-renewal arrangement when you placed your subsc
 
 ### 6\. PRIVACY OF PERSONAL DATA
 
-All information received by SCMP from your use of the SCMP ePaper Service will be used by SCMP in accordance with its Privacy Policy. Please read SCMP’s Privacy Policy at [www.scmp.com/privacy-policy](https://www.scmp.com/privacy-policy?module=inline&pgtype=article) for details of how SCMP may process your personal data.
+All information received by SCMP from your use of the SCMP ePaper Service will be used by SCMP in accordance with its Privacy Policy. Please read SCMP’s Privacy Policy at [www.scmp.com/privacy-policy](https://www.scmp.com/privacy-policy?module=inline&pgtype=page) for details of how SCMP may process your personal data.
 
 ### 7\. LIABILITY
 
@@ -561,7 +565,7 @@ You hereby undertake not to hack into, interfere with, disrupt, disable or other
 
 12.1 You agree that SCMP may send electronic mail(s) or digital message(s) to you for the purpose of informing you of changes or additions to the SCMP ePaper Service and other matters relating to your access to and/or use of the SCMP ePaper Service.
 
-12.2 SCMP reserves the right to gather and use information about your subscription(s) for, registration(s) of, access(es), usage(s) and demographics, and agree to maintain your data privacy, in accordance with SCMP’s Privacy Policy at[www.scmp.com/privacy-policy](https://www.scmp.com/privacy-policy?module=inline&pgtype=article), the Personal Data (Privacy) Ordinance, and all relevant applicable data protection and privacy laws and regulations in force from time to time. For more information please read the SCMP’s Privacy Policy at [www.scmp.com/privacy-policy](https://www.scmp.com/privacy-policy?module=inline&pgtype=article).
+12.2 SCMP reserves the right to gather and use information about your subscription(s) for, registration(s) of, access(es), usage(s) and demographics, and agree to maintain your data privacy, in accordance with SCMP’s Privacy Policy at[www.scmp.com/privacy-policy](https://www.scmp.com/privacy-policy?module=inline&pgtype=page), the Personal Data (Privacy) Ordinance, and all relevant applicable data protection and privacy laws and regulations in force from time to time. For more information please read the SCMP’s Privacy Policy at [www.scmp.com/privacy-policy](https://www.scmp.com/privacy-policy?module=inline&pgtype=page).
 
 ### 13\. SOFTWARE LICENCES
 
@@ -668,7 +672,7 @@ The following definitions should apply in this SCMP Print Agreement unless other
 
 2.9 SCMP may also impose limits on certain features and services in respect of the SCMP Print Service.
 
-2.10 You represent that you have read and agree to be bound by SCMP's Privacy Policy at [www.scmp.com/privacy-policy](https://www.scmp.com/privacy-policy?module=inline&pgtype=article).
+2.10 You represent that you have read and agree to be bound by SCMP's Privacy Policy at [www.scmp.com/privacy-policy](https://www.scmp.com/privacy-policy?module=inline&pgtype=page).
 
 2.11 If you are an entity, your subscription for the SCMP Print Service may be governed by a separate subscription agreement in addition to the terms and conditions of this SCMP Print Agreement. In this regard, SCMP has the sole and full discretion and its determination shall be final.
 
@@ -712,7 +716,7 @@ All incentive gifts, if any, are offered on a first-come, first-served basis, wh
 
 ### 8\. PRIVACY OF PERSONAL DATA
 
-All information received by SCMP from your use of the SCMP Print Service will be used by SCMP in accordance with itsPrivacy Policy. Please read SCMP’s Privacy Policy at [www.scmp.com/privacy-policy](https://www.scmp.com/privacy-policy?module=inline&pgtype=article) for details of how SCMP may process your personal data.
+All information received by SCMP from your use of the SCMP Print Service will be used by SCMP in accordance with itsPrivacy Policy. Please read SCMP’s Privacy Policy at [www.scmp.com/privacy-policy](https://www.scmp.com/privacy-policy?module=inline&pgtype=page) for details of how SCMP may process your personal data.
 
 ### 9\. DISCLAIMER OF WARRANTIES
 
@@ -774,7 +778,7 @@ SCMP shall not be liable for any failure or delay in performance of its obligati
 
 12.1 You agree that SCMP may send electronic mail(s) or digital message(s) to you for the purpose of informing you of changes or additions to the SCMP Print Service and other matters relating to your subscription and/or renewal of the SCMP Print Service.
 
-12.2 SCMP reserves the right to gather and use information about your subscription(s) for, usage(s) and demographics, and agree to maintain your data privacy, in accordance with SCMP’s Privacy Policy, the Personal Data (Privacy) Ordinance, and all relevant applicable data protection and privacy laws and regulations in force from time to time. For more information please read the SCMP’s Privacy Policy at [www.scmp.com/privacy-policy](https://www.scmp.com/privacy-policy?module=inline&pgtype=article).
+12.2 SCMP reserves the right to gather and use information about your subscription(s) for, usage(s) and demographics, and agree to maintain your data privacy, in accordance with SCMP’s Privacy Policy, the Personal Data (Privacy) Ordinance, and all relevant applicable data protection and privacy laws and regulations in force from time to time. For more information please read the SCMP’s Privacy Policy at [www.scmp.com/privacy-policy](https://www.scmp.com/privacy-policy?module=inline&pgtype=page).
 
 ### 13\. SUSPENSION AND TERMINATION OF SCMP PRINT SERVICE
 
