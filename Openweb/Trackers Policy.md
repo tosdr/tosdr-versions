@@ -10,7 +10,7 @@ It all starts with a conversation](https://www.openweb.com/)
     * [Identity](https://www.openweb.com/openwebos/identity/)
     * [Activate](https://www.openweb.com/openwebos/activate/)
 * Advertisers
-    * [OpenWeb for Advertisers](https://www.openweb.com/find-your-community/)
+    * [OpenWeb for Advertisers](https://www.openweb.com/advertisers/)
     * [Explore our Ad Products](https://www.openweb.com/openweb-ad-products/)
 * [Blog](https://www.openweb.com/blog/)
 * Resources
@@ -99,7 +99,8 @@ These Tracking Technologies are used to deliver tailored offers and advertisemen
 
 Our website includes social media features, such as the Facebook “Like” or “Share” buttons. These features are either hosted by a third party or hosted directly on our Services. Your interactions with these features are governed by the privacy statement of the company providing these features.
 
-6\. **Our practices with respect to Do-Not-Track (DNT) signals**
+6\. Our practices with respect to Do-Not-Track (DNT) signals
+------------------------------------------------------------
 
 DNT signals are the result of a standardization initiative from 2009 to create a standard signal which could be broadcasted by any web browser, and read by any website publisher/operator, to note an individual’s preference not to be tracked online.  
 
@@ -196,7 +197,7 @@ We do recommend the use of cookies for an optimal user experience of our Service
 
 ### Advertisers:
 
-* [OpenWeb for Advertisers](https://www.openweb.com/find-your-community/)
+* [OpenWeb for Advertisers](https://www.openweb.com/advertisers/)
 
 ### Resources:
 
