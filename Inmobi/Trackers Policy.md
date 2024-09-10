@@ -1,4 +1,4 @@
-[InMobi Advertising![InMobi Advertising Logo](https://web.inmobicdn.net/website/website/6.0.1/advertising-inmobi-images/inmobi-adv-logo.svg)](https://www.inmobi.com/)
+[InMobi Advertising![InMobi Advertising Logo](https://web.inmobicdn.net/website/website/6.0.1/ui/uploads/resources/inmobi-adv-logo_080824.svg)](https://www.inmobi.com/)
 
 * For Advertisers
     
@@ -147,6 +147,10 @@ Support
 * [Supplier Code of Conduct](https://www.inmobi.com/supplier-code-of-conduct)
 * [Do Not Sell My Personal Data](https://www.inmobi.com/page/opt-out/#data-based-opt-out)
 * [Advertiser Terms](https://www.inmobi.com/advertiser-terms/)
+
+* [Website Privacy Policy](https://www.inmobi.com/website-privacy-policy/)
+* [Website Cookie Policy](https://www.inmobi.com/website-cookie-policy/)
+* [Security](https://www.inmobi.com/security/)
 
 © 2024 InMobi
 
