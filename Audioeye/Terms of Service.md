@@ -6,7 +6,7 @@
     
     * HOW IT WORKS
         
-    * [Find, Fix, Monitor](https://www.audioeye.com/solution/find-fix-monitor/?utm_lp=navigation)
+    * [Find, Fix, Monitor](https://www.audioeye.com/solution/find-fix-monitor/)
     * Automation
         
     * [Automated Accessibility Platform](https://www.audioeye.com/solution/automated-accessibility-platform/)
@@ -46,18 +46,21 @@
     * [Press Center](https://www.audioeye.com/press/)
     * [Technical DocumentationOpens in a new tab](https://developer.audioeye.com/)
     
+    * Industry
+        
+    * [SaaS](https://www.audioeye.com/saas/)
+    * [E-Commerce & Retail](https://www.audioeye.com/ecommerce-and-retail/)
+    * [Healthcare](https://www.audioeye.com/healthcare/)
+    * [Government](https://www.audioeye.com/government/)
+    * [Higher Education](https://www.audioeye.com/higher-education/)
+    * [Travel & Hospitality](https://www.audioeye.com/hospitality-and-travel/)
+    * [Banking and Finance](https://www.audioeye.com/banking-and-financial/)
+    * [Food & Beverages](https://www.audioeye.com/food-and-beverage/)
+    
     * Tools
         
     * [Web Accessibility Scan](https://www.audioeye.com/website-accessibility-checker/)
     * [Color Contrast Checker](https://www.audioeye.com/color-contrast-checker/)
-    
-    ![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTUiIGhlaWdodD0iMTUiIHZpZXdCb3g9IjAgMCAxNSAxNSIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wLjI1ODQzNSAwLjI1ODQzNUMwLjYwMzAxNSAtMC4wODYxNDUxIDEuMTYxNjkgLTAuMDg2MTQ1MSAxLjUwNjI3IDAuMjU4NDM1TDE0Ljc0MTYgMTMuNDkzN0MxNS4wODYxIDEzLjgzODMgMTUuMDg2MSAxNC4zOTcgMTQuNzQxNiAxNC43NDE2QzE0LjM5NyAxNS4wODYxIDEzLjgzODMgMTUuMDg2MSAxMy40OTM3IDE0Ljc0MTZMMC4yNTg0MzUgMS41MDYyN0MtMC4wODYxNDUxIDEuMTYxNjkgLTAuMDg2MTQ1MSAwLjYwMzAxNSAwLjI1ODQzNSAwLjI1ODQzNVoiIGZpbGw9IiMxRjFGMUYiLz4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNC43NDE2IDAuMjU4NDM1QzE1LjA4NjEgMC42MDMwMTUgMTUuMDg2MSAxLjE2MTY5IDE0Ljc0MTYgMS41MDYyN0wxLjUwNjI3IDE0Ljc0MTZDMS4xNjE2OSAxNS4wODYxIDAuNjAzMDE0IDE1LjA4NjEgMC4yNTg0MzUgMTQuNzQxNkMtMC4wODYxNDYgMTQuMzk3IC0wLjA4NjE0NiAxMy44MzgzIDAuMjU4NDM1IDEzLjQ5MzdMMTMuNDkzNyAwLjI1ODQzNUMxMy44MzgzIC0wLjA4NjE0NTEgMTQuMzk3IC0wLjA4NjE0NTEgMTQuNzQxNiAwLjI1ODQzNVoiIGZpbGw9IiMxRjFGMUYiLz4KPC9zdmc+Cg==)
-    
-* Community
-    
-    * [Join](https://www.audioeye.com/audioeye-a11iance-team-interest/)
-    * [About the Disability Community](https://www.audioeye.com/a11iance-team/)
-    * [Community Events & Webinars](https://www.audioeye.com/webinars/)
     
     ![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTUiIGhlaWdodD0iMTUiIHZpZXdCb3g9IjAgMCAxNSAxNSIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wLjI1ODQzNSAwLjI1ODQzNUMwLjYwMzAxNSAtMC4wODYxNDUxIDEuMTYxNjkgLTAuMDg2MTQ1MSAxLjUwNjI3IDAuMjU4NDM1TDE0Ljc0MTYgMTMuNDkzN0MxNS4wODYxIDEzLjgzODMgMTUuMDg2MSAxNC4zOTcgMTQuNzQxNiAxNC43NDE2QzE0LjM5NyAxNS4wODYxIDEzLjgzODMgMTUuMDg2MSAxMy40OTM3IDE0Ljc0MTZMMC4yNTg0MzUgMS41MDYyN0MtMC4wODYxNDUxIDEuMTYxNjkgLTAuMDg2MTQ1MSAwLjYwMzAxNSAwLjI1ODQzNSAwLjI1ODQzNVoiIGZpbGw9IiMxRjFGMUYiLz4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNC43NDE2IDAuMjU4NDM1QzE1LjA4NjEgMC42MDMwMTUgMTUuMDg2MSAxLjE2MTY5IDE0Ljc0MTYgMS41MDYyN0wxLjUwNjI3IDE0Ljc0MTZDMS4xNjE2OSAxNS4wODYxIDAuNjAzMDE0IDE1LjA4NjEgMC4yNTg0MzUgMTQuNzQxNkMtMC4wODYxNDYgMTQuMzk3IC0wLjA4NjE0NiAxMy44MzgzIDAuMjU4NDM1IDEzLjQ5MzdMMTMuNDkzNyAwLjI1ODQzNUMxMy44MzgzIC0wLjA4NjE0NTEgMTQuMzk3IC0wLjA4NjE0NTEgMTQuNzQxNiAwLjI1ODQzNVoiIGZpbGw9IiMxRjFGMUYiLz4KPC9zdmc+Cg==)
     
@@ -75,7 +78,13 @@
     * [Platform Partners](https://www.audioeye.com/partners/platform/)
     * [Become a Partner](https://www.audioeye.com/become-a-partner/)
     
+    * [Join A11y Community](https://www.audioeye.com/audioeye-a11iance-team-interest/)
+    * [About the Disability Community](https://www.audioeye.com/a11iance-team/)
+    * [Community Events & Webinars](https://www.audioeye.com/webinars/)
+    
     ![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTUiIGhlaWdodD0iMTUiIHZpZXdCb3g9IjAgMCAxNSAxNSIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wLjI1ODQzNSAwLjI1ODQzNUMwLjYwMzAxNSAtMC4wODYxNDUxIDEuMTYxNjkgLTAuMDg2MTQ1MSAxLjUwNjI3IDAuMjU4NDM1TDE0Ljc0MTYgMTMuNDkzN0MxNS4wODYxIDEzLjgzODMgMTUuMDg2MSAxNC4zOTcgMTQuNzQxNiAxNC43NDE2QzE0LjM5NyAxNS4wODYxIDEzLjgzODMgMTUuMDg2MSAxMy40OTM3IDE0Ljc0MTZMMC4yNTg0MzUgMS41MDYyN0MtMC4wODYxNDUxIDEuMTYxNjkgLTAuMDg2MTQ1MSAwLjYwMzAxNSAwLjI1ODQzNSAwLjI1ODQzNVoiIGZpbGw9IiMxRjFGMUYiLz4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNC43NDE2IDAuMjU4NDM1QzE1LjA4NjEgMC42MDMwMTUgMTUuMDg2MSAxLjE2MTY5IDE0Ljc0MTYgMS41MDYyN0wxLjUwNjI3IDE0Ljc0MTZDMS4xNjE2OSAxNS4wODYxIDAuNjAzMDE0IDE1LjA4NjEgMC4yNTg0MzUgMTQuNzQxNkMtMC4wODYxNDYgMTQuMzk3IC0wLjA4NjE0NiAxMy44MzgzIDAuMjU4NDM1IDEzLjQ5MzdMMTMuNDkzNyAwLjI1ODQzNUMxMy44MzgzIC0wLjA4NjE0NTEgMTQuMzk3IC0wLjA4NjE0NTEgMTQuNzQxNiAwLjI1ODQzNVoiIGZpbGw9IiMxRjFGMUYiLz4KPC9zdmc+Cg==)
+    
+* [Pricing](https://www.audioeye.com/plans-and-pricing/)
     
 
 [Login](https://portal.audioeye.com/login)
@@ -92,7 +101,7 @@ Schedule Demo
     
     * HOW IT WORKS
         
-    * [Find, Fix, Monitor](https://www.audioeye.com/solution/find-fix-monitor/?utm_lp=navigation)
+    * [Find, Fix, Monitor](https://www.audioeye.com/solution/find-fix-monitor/)
     * Automation
         
     * [Automated Accessibility Platform](https://www.audioeye.com/solution/automated-accessibility-platform/)
@@ -132,18 +141,21 @@ Schedule Demo
     * [Press Center](https://www.audioeye.com/press/)
     * [Technical DocumentationOpens in a new tab](https://developer.audioeye.com/)
     
+    * Industry
+        
+    * [SaaS](https://www.audioeye.com/saas/)
+    * [E-Commerce & Retail](https://www.audioeye.com/ecommerce-and-retail/)
+    * [Healthcare](https://www.audioeye.com/healthcare/)
+    * [Government](https://www.audioeye.com/government/)
+    * [Higher Education](https://www.audioeye.com/higher-education/)
+    * [Travel & Hospitality](https://www.audioeye.com/hospitality-and-travel/)
+    * [Banking and Finance](https://www.audioeye.com/banking-and-financial/)
+    * [Food & Beverages](https://www.audioeye.com/food-and-beverage/)
+    
     * Tools
         
     * [Web Accessibility Scan](https://www.audioeye.com/website-accessibility-checker/)
     * [Color Contrast Checker](https://www.audioeye.com/color-contrast-checker/)
-    
-    ![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTUiIGhlaWdodD0iMTUiIHZpZXdCb3g9IjAgMCAxNSAxNSIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wLjI1ODQzNSAwLjI1ODQzNUMwLjYwMzAxNSAtMC4wODYxNDUxIDEuMTYxNjkgLTAuMDg2MTQ1MSAxLjUwNjI3IDAuMjU4NDM1TDE0Ljc0MTYgMTMuNDkzN0MxNS4wODYxIDEzLjgzODMgMTUuMDg2MSAxNC4zOTcgMTQuNzQxNiAxNC43NDE2QzE0LjM5NyAxNS4wODYxIDEzLjgzODMgMTUuMDg2MSAxMy40OTM3IDE0Ljc0MTZMMC4yNTg0MzUgMS41MDYyN0MtMC4wODYxNDUxIDEuMTYxNjkgLTAuMDg2MTQ1MSAwLjYwMzAxNSAwLjI1ODQzNSAwLjI1ODQzNVoiIGZpbGw9IiMxRjFGMUYiLz4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNC43NDE2IDAuMjU4NDM1QzE1LjA4NjEgMC42MDMwMTUgMTUuMDg2MSAxLjE2MTY5IDE0Ljc0MTYgMS41MDYyN0wxLjUwNjI3IDE0Ljc0MTZDMS4xNjE2OSAxNS4wODYxIDAuNjAzMDE0IDE1LjA4NjEgMC4yNTg0MzUgMTQuNzQxNkMtMC4wODYxNDYgMTQuMzk3IC0wLjA4NjE0NiAxMy44MzgzIDAuMjU4NDM1IDEzLjQ5MzdMMTMuNDkzNyAwLjI1ODQzNUMxMy44MzgzIC0wLjA4NjE0NTEgMTQuMzk3IC0wLjA4NjE0NTEgMTQuNzQxNiAwLjI1ODQzNVoiIGZpbGw9IiMxRjFGMUYiLz4KPC9zdmc+Cg==)
-    
-* Community
-    
-    * [Join](https://www.audioeye.com/audioeye-a11iance-team-interest/)
-    * [About the Disability Community](https://www.audioeye.com/a11iance-team/)
-    * [Community Events & Webinars](https://www.audioeye.com/webinars/)
     
     ![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTUiIGhlaWdodD0iMTUiIHZpZXdCb3g9IjAgMCAxNSAxNSIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wLjI1ODQzNSAwLjI1ODQzNUMwLjYwMzAxNSAtMC4wODYxNDUxIDEuMTYxNjkgLTAuMDg2MTQ1MSAxLjUwNjI3IDAuMjU4NDM1TDE0Ljc0MTYgMTMuNDkzN0MxNS4wODYxIDEzLjgzODMgMTUuMDg2MSAxNC4zOTcgMTQuNzQxNiAxNC43NDE2QzE0LjM5NyAxNS4wODYxIDEzLjgzODMgMTUuMDg2MSAxMy40OTM3IDE0Ljc0MTZMMC4yNTg0MzUgMS41MDYyN0MtMC4wODYxNDUxIDEuMTYxNjkgLTAuMDg2MTQ1MSAwLjYwMzAxNSAwLjI1ODQzNSAwLjI1ODQzNVoiIGZpbGw9IiMxRjFGMUYiLz4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNC43NDE2IDAuMjU4NDM1QzE1LjA4NjEgMC42MDMwMTUgMTUuMDg2MSAxLjE2MTY5IDE0Ljc0MTYgMS41MDYyN0wxLjUwNjI3IDE0Ljc0MTZDMS4xNjE2OSAxNS4wODYxIDAuNjAzMDE0IDE1LjA4NjEgMC4yNTg0MzUgMTQuNzQxNkMtMC4wODYxNDYgMTQuMzk3IC0wLjA4NjE0NiAxMy44MzgzIDAuMjU4NDM1IDEzLjQ5MzdMMTMuNDkzNyAwLjI1ODQzNUMxMy44MzgzIC0wLjA4NjE0NTEgMTQuMzk3IC0wLjA4NjE0NTEgMTQuNzQxNiAwLjI1ODQzNVoiIGZpbGw9IiMxRjFGMUYiLz4KPC9zdmc+Cg==)
     
@@ -161,7 +173,13 @@ Schedule Demo
     * [Platform Partners](https://www.audioeye.com/partners/platform/)
     * [Become a Partner](https://www.audioeye.com/become-a-partner/)
     
+    * [Join A11y Community](https://www.audioeye.com/audioeye-a11iance-team-interest/)
+    * [About the Disability Community](https://www.audioeye.com/a11iance-team/)
+    * [Community Events & Webinars](https://www.audioeye.com/webinars/)
+    
     ![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTUiIGhlaWdodD0iMTUiIHZpZXdCb3g9IjAgMCAxNSAxNSIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wLjI1ODQzNSAwLjI1ODQzNUMwLjYwMzAxNSAtMC4wODYxNDUxIDEuMTYxNjkgLTAuMDg2MTQ1MSAxLjUwNjI3IDAuMjU4NDM1TDE0Ljc0MTYgMTMuNDkzN0MxNS4wODYxIDEzLjgzODMgMTUuMDg2MSAxNC4zOTcgMTQuNzQxNiAxNC43NDE2QzE0LjM5NyAxNS4wODYxIDEzLjgzODMgMTUuMDg2MSAxMy40OTM3IDE0Ljc0MTZMMC4yNTg0MzUgMS41MDYyN0MtMC4wODYxNDUxIDEuMTYxNjkgLTAuMDg2MTQ1MSAwLjYwMzAxNSAwLjI1ODQzNSAwLjI1ODQzNVoiIGZpbGw9IiMxRjFGMUYiLz4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNC43NDE2IDAuMjU4NDM1QzE1LjA4NjEgMC42MDMwMTUgMTUuMDg2MSAxLjE2MTY5IDE0Ljc0MTYgMS41MDYyN0wxLjUwNjI3IDE0Ljc0MTZDMS4xNjE2OSAxNS4wODYxIDAuNjAzMDE0IDE1LjA4NjEgMC4yNTg0MzUgMTQuNzQxNkMtMC4wODYxNDYgMTQuMzk3IC0wLjA4NjE0NiAxMy44MzgzIDAuMjU4NDM1IDEzLjQ5MzdMMTMuNDkzNyAwLjI1ODQzNUMxMy44MzgzIC0wLjA4NjE0NTEgMTQuMzk3IC0wLjA4NjE0NTEgMTQuNzQxNiAwLjI1ODQzNVoiIGZpbGw9IiMxRjFGMUYiLz4KPC9zdmc+Cg==)
+    
+* [Pricing](https://www.audioeye.com/plans-and-pricing/)
     
 
 Start Free Trial
@@ -178,7 +196,7 @@ Schedule Demo
     
     * HOW IT WORKS
         
-    * [Find, Fix, Monitor](https://www.audioeye.com/solution/find-fix-monitor/?utm_lp=navigation)
+    * [Find, Fix, Monitor](https://www.audioeye.com/solution/find-fix-monitor/)
     * Automation
         
     * [Automated Accessibility Platform](https://www.audioeye.com/solution/automated-accessibility-platform/)
@@ -226,26 +244,21 @@ Schedule Demo
     * [Press Center](https://www.audioeye.com/press/)
     * [Technical DocumentationOpens in a new tab](https://developer.audioeye.com/)
     
+    * Industry
+        
+    * [SaaS](https://www.audioeye.com/saas/)
+    * [E-Commerce & Retail](https://www.audioeye.com/ecommerce-and-retail/)
+    * [Healthcare](https://www.audioeye.com/healthcare/)
+    * [Government](https://www.audioeye.com/government/)
+    * [Higher Education](https://www.audioeye.com/higher-education/)
+    * [Travel & Hospitality](https://www.audioeye.com/hospitality-and-travel/)
+    * [Banking and Finance](https://www.audioeye.com/banking-and-financial/)
+    * [Food & Beverages](https://www.audioeye.com/food-and-beverage/)
+    
     * Tools
         
     * [Web Accessibility Scan](https://www.audioeye.com/website-accessibility-checker/)
     * [Color Contrast Checker](https://www.audioeye.com/color-contrast-checker/)
-    
-    [Login
-    
-    Opens in a new tab](https://portal.audioeye.com/login)
-    
-    Start Free Trial
-    
-    Schedule Demo
-    
-* Community
-    
-    Back![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTUiIGhlaWdodD0iMTUiIHZpZXdCb3g9IjAgMCAxNSAxNSIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wLjI1ODQzNSAwLjI1ODQzNUMwLjYwMzAxNSAtMC4wODYxNDUxIDEuMTYxNjkgLTAuMDg2MTQ1MSAxLjUwNjI3IDAuMjU4NDM1TDE0Ljc0MTYgMTMuNDkzN0MxNS4wODYxIDEzLjgzODMgMTUuMDg2MSAxNC4zOTcgMTQuNzQxNiAxNC43NDE2QzE0LjM5NyAxNS4wODYxIDEzLjgzODMgMTUuMDg2MSAxMy40OTM3IDE0Ljc0MTZMMC4yNTg0MzUgMS41MDYyN0MtMC4wODYxNDUxIDEuMTYxNjkgLTAuMDg2MTQ1MSAwLjYwMzAxNSAwLjI1ODQzNSAwLjI1ODQzNVoiIGZpbGw9IiMxRjFGMUYiLz4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNC43NDE2IDAuMjU4NDM1QzE1LjA4NjEgMC42MDMwMTUgMTUuMDg2MSAxLjE2MTY5IDE0Ljc0MTYgMS41MDYyN0wxLjUwNjI3IDE0Ljc0MTZDMS4xNjE2OSAxNS4wODYxIDAuNjAzMDE0IDE1LjA4NjEgMC4yNTg0MzUgMTQuNzQxNkMtMC4wODYxNDYgMTQuMzk3IC0wLjA4NjE0NiAxMy44MzgzIDAuMjU4NDM1IDEzLjQ5MzdMMTMuNDkzNyAwLjI1ODQzNUMxMy44MzgzIC0wLjA4NjE0NTEgMTQuMzk3IC0wLjA4NjE0NTEgMTQuNzQxNiAwLjI1ODQzNVoiIGZpbGw9IiMxRjFGMUYiLz4KPC9zdmc+Cg==)
-    
-    * [Join](https://www.audioeye.com/audioeye-a11iance-team-interest/)
-    * [About the Disability Community](https://www.audioeye.com/a11iance-team/)
-    * [Community Events & Webinars](https://www.audioeye.com/webinars/)
     
     [Login
     
@@ -271,6 +284,10 @@ Schedule Demo
     * [Platform Partners](https://www.audioeye.com/partners/platform/)
     * [Become a Partner](https://www.audioeye.com/become-a-partner/)
     
+    * [Join A11y Community](https://www.audioeye.com/audioeye-a11iance-team-interest/)
+    * [About the Disability Community](https://www.audioeye.com/a11iance-team/)
+    * [Community Events & Webinars](https://www.audioeye.com/webinars/)
+    
     [Login
     
     Opens in a new tab](https://portal.audioeye.com/login)
@@ -278,6 +295,8 @@ Schedule Demo
     Start Free Trial
     
     Schedule Demo
+    
+* [Pricing](https://www.audioeye.com/plans-and-pricing/)
     
 
 [Login
@@ -404,8 +423,7 @@ Section 9 of these Terms shall only apply to the extent Customer acquires the ri
 **10\. Disclaimer; Limitation of Liability**
 --------------------------------------------
 
-* **DISCLAIMER.** EXCEPT AS SET FORTH IN SECTION 9 (AUDIOEYE WARRANTIES WITH RESPECT TO ENTERPRISE OFFERINGS), ALL OFFERINGS AND TECHNOLOGY ARE PROVIDED “AS IS” AND WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, INCLUDING ALL STATUTORY AND IMPLIED WARRANTIES OF ACCURACY, COMPLETENESS, CURRENTNESS, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, QUALITY, AND NON-INFRINGEMENT. AUDIOEYE’S OFFERINGS DO NOT GUARANTEE ACCESSIBILITY OR COMPLIANCE, OR OTHERWISE REMEDIATE ANY NON-REMEDIATED ITEMS SOLELY EXCEPT WITH RESPECT TO A LIMITED GUARANTEE THAT AUDIOEYE MAY PROVIDE AND SOLELY TO THE EXTENT SUCH LIMITED GUARANTEE IS PROVIDED IN WRITING IN AN ORDER AND EXPLICITLY LABELED AS A GUARANTEE. CUSTOMER’S SOLE REMEDY WITH RESPECT TO ANY PROBLEMS OR DISSATISFACTION WITH ANY OFFERING IS TERMINATION OF THE UNDERLYING ORDER OR REPEAT OF THE OFFERING.
-    
+* * **DISCLAIMER.** EXCEPT AS SET FORTH IN SECTION 9 (AUDIOEYE WARRANTIES WITH RESPECT TO ENTERPRISE OFFERINGS), ALL OFFERINGS AND TECHNOLOGY ARE PROVIDED “AS IS” AND WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, INCLUDING ALL STATUTORY AND IMPLIED WARRANTIES OF ACCURACY, COMPLETENESS, CURRENTNESS, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, QUALITY, AND NON-INFRINGEMENT. AUDIOEYE’S OFFERINGS DO NOT ADDRESS OR APPLY TO OUT-OF-SCOPE ITEMS AND DO NOT GUARANTEE ACCESSIBILITY OR COMPLIANCE SOLELY EXCEPT WITH RESPECT TO A LIMITED GUARANTEE THAT AUDIOEYE MAY PROVIDE AND SOLELY TO THE EXTENT SUCH LIMITED GUARANTEE IS PROVIDED IN WRITING IN AN ORDER AND EXPLICITLY LABELED AS A GUARANTEE. CUSTOMER’S SOLE REMEDY WITH RESPECT TO ANY PROBLEMS OR DISSATISFACTION WITH ANY OFFERING IS TERMINATION OF THE UNDERLYING ORDER OR REPEAT OF THE OFFERING.
 * **LIMITATION OF TYPES OF DAMAGES AND CLAIMS.** IN NO EVENT WILL ANY OF THE AUDIOEYE PARTIES BE LIABLE FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, OR SPECIAL DAMAGES OF ANY KIND ARISING OUT OF OR RELATING TO THIS AGREEMENT OR ANY OFFERING, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY OR OTHERWISE, INCLUDING LOST PROFITS, LOST DATA, LOST REVENUES, OR LOSS OF BUSINESS OR OPPORTUNITY, EVEN IF AN AUDIOEYE PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. IN ADDITION AND NOTWITHSTANDING ANYTHING TO THE CONTRARY IN THIS AGREEMENT OR ANY ORDER (SOLELY EXCEPT WITH RESPECT TO A LIMITED GUARANTEE THAT AUDIOEYE MAY PROVIDE AND SOLELY TO THE EXTENT SUCH LIMITED GUARANTEE IS PROVIDED IN WRITING IN AN ORDER AND EXPLICITLY LABELED AS A GUARANTEE), (I) IN NO EVENT WILL ANY OF THE AUDIOEYE PARTIES FOR ANY DAMAGES (WHETHER DIRECT OR OTHERWISE) OR SUBJECT TO ANY INDEMNIFICATION, HOLD HARMLESS OR DEFENSE OBLIGATIONS ARISING OUT OF, RELATING TO OR RESULTING FROM ANY THIRD PARTY CLAIM ALLEGING THAT ANY WEBSITE, TOOL OR APPLICATION SUBJECT TO ANY OFFERING IS NOT COMPLIANT WITH ANY LAWS, REGULATIONS, GUIDELINES OR STANDARDS RELATING TO ACCESSIBILITY, INCLUDING WITHOUT LIMITATION THE AMERICANS WITH DISABILITIES ACT, THE UNRUH CIVIL RIGHTS ACT, THE REHABILITATION ACT OR ANY WEB CONTENT ACCESSIBILITY GUIDELINES AND (II) CUSTOMER COVENANTS NOT TO BRING OR ASSERT ANY CLAIM AGAINST ANY OF THE AUDIOEYE PARTIES RELATING TO SUCH THIRD PARTY CLAIM.
     
 * **LIMITATIONS ON LIABILITY.** IN NO EVENT WILL THE TOTAL CUMULATIVE LIABILITY OF ALL OF THE AUDIOEYE PARTIES UNDER THIS AGREEMENT OR RELATING TO ANY OFFERING EXCEED THE FEES PAID BY CUSTOMER TO AUDIOEYE UNDER THE ORDER UNDER WHICH SUCH LIABILITY AROSE WITHIN THE SIX (6) MONTH PERIOD PRECEDING THE EVENT(S) GIVING RISE TO SUCH LIABILITY. THIS SECTION 10 SHALL APPLY TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, EVEN IF ANY EXCLUSIVE OR LIMITED REMEDY STATED HEREIN FAILS OF ITS ESSENTIAL PURPOSE. CUSTOMER WILL NOT BRING OR ASSERT ANY CLAIM REGARDLESS OF FORM AGAINST ANY OF THE AUDIOEYE PARTIES MORE THAN TWELVE (12) MONTHS AFTER THE TERMINATION OF THIS AGREEMENT OR AFTER THE BASIS FOR THE CLAIM BECOMES KNOWN TO THE PARTY DESIRING TO ASSERT IT, WHICHEVER IS EARLIER.
@@ -499,7 +517,7 @@ AudioEye may make changes to these Terms from time to time. AudioEye will post t
 * “**Customer Website**” means a website subject to an Offering.
 * “**Data Processing Agreement**” means AudioEye’s data processing agreement located at [https://www.audioeye.com/dpa](https://www.audioeye.com/dpa/) or such other data processing agreement or similar agreement governing the processing of Personal Data as the parties may otherwise agree to in writing.
 * “**Fees**” mean all fees, costs and other amounts set forth in an Order or as described in an AudioEye Platform. “**Fees**” shall also include any fees, costs or other amounts for successive terms, automatic upgrades occurring during a term or price increases for automatically upgraded Offerings.
-* “**Non-Remediated Items**” mean (i) any documents, spreadsheets, pdfs, or other non-website content or files accessible via the Authorized Domain, (ii) any videos or other multimedia files accessible via the Authorized Domain (including embedded videos or multimedia files from third-party platforms), (iii) any non-website applications, (iv) any domains linked from the Authorized Domain that is not an Authorized Domain (including Google Maps or Instagram), (v) any third-party content or widget including plug-ins, iframes or applications, (vi) any plug-ins, iframes or applications that use the flash format, or (vii) a java application that operates in a separate window.
+* “**Out-Of-Scope Items**” mean (i) any documents, spreadsheets, or other non-website content or files accessible via the Authorized Domain, (ii) any PDFs accessible via the Authorized Domain (unless Customer has purchased the AudioEye PDF Remediation Offering and such PDF(s) are specifically in scope), (iii) any videos or other multimedia files accessible via the Authorized Domain (including embedded videos or multimedia files from third-party platforms),  (iv) any non-website applications, (v)any domains linked from the Authorized Domain (including Google Maps or social media feeds), (vi) any third-party content or widget including plug-ins, iframes or applications (including Google Maps or social media feeds), (vii) any plug-ins, iframes or applications that use the flash format, (viii) any element of an Authorized Domain or PDF (including PDFs specifically in scope in a Customer Order for the AudioEye PDF Remediation Offering) where remediation of such element requires modification to the visual presentation (e.g., adding visual labels to form fields or updating misspellings in text) of such element, (ix) any issues identified to you by AudioEye in a source feedback report as requiring remediation at the source code level, or (x) a java application that operates in a separate window.
 * “**Offering**” means a service or software that AudioEye provides as referenced in an Order or an AudioEye Platform or in the agreement Customer has with an authorized Reseller. For the avoidance of doubt, AudioEye may, from time to time, make changes to the Offerings, with or without prior notice, including but not limited to updates, enhancements, additions and removals to the functionality of the Offerings. “**Offering**” also means an AudioEye Website.
 * “**Offering Description**” means the functional description of an Offering provided either in an Order or a specific webpage referenced in an Order or an AudioEye Platform.
 * “**Order**” means an (i) order form, statement of work or other document governing the terms of Customer’s use of an Offering signed by both parties or (ii) terms and payment information described in an AudioEye Platform.
