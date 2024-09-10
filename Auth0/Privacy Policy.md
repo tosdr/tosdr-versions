@@ -4,15 +4,15 @@ Looks like you have Javascript turned off! Please enable it to improve your brow
 
 [Skip to main content](#main-content)
 
-Okta Certification Exams are $50 until August 15
+Join us for the Identity event of the year, Oct 15-17
 
-Okta Certification Exams are $50 until August 15
+Join us for the Identity event of the year, Oct 15-17
 
-[Learn more](https://regionalevents.okta.com/oktacertification24)
+[Register for Oktane](https://www.oktane.com/)
 
-[Learn more](https://regionalevents.okta.com/oktacertification24)
+[Register for Oktane](https://www.oktane.com/)
 
-[Okta Certification Exams are $50 until August 15](https://regionalevents.okta.com/oktacertification24)
+[Join us for the Identity event of the year, Oct 15-17](https://www.oktane.com/)
 
 [+1 (800) 425-1267](tel:+1-800-425-1267)
 
@@ -45,20 +45,19 @@ United States
                 
             
         * * Customer Identity Cloud
-            * [Actions](https://www.okta.com/customer-identity/actions/ "Actions")
-            * [Multifactor Authentication](https://www.okta.com/customer-identity/multi-factor-authentication/ "Multifactor Authentication")
-            * [Passwordless](https://www.okta.com/customer-identity/passwordless/ "Passwordless")
             * [Single Sign On](https://www.okta.com/customer-identity/single-sign-on/ "Single Sign On")
-            * [Universal Login](https://www.okta.com/customer-identity/universal-login/ "Universal Login")
+            * [Multifactor Authentication](https://www.okta.com/customer-identity/multi-factor-authentication/ "Multifactor Authentication")
+            * [Actions](https://www.okta.com/customer-identity/actions/ "Actions")
+            * [Passwordless](https://www.okta.com/customer-identity/passwordless/ "Passwordless")
+            * [Highly Regulated Identity](https://www.okta.com/products/regulated-identity/ "Highly Regulated Identity")
             * [Explore Customer Identity Cloud](https://www.okta.com/customer-identity/ "Explore Customer Identity Cloud")
             
         * * Workforce Identity Cloud
             * [Single Sign On](https://www.okta.com/products/single-sign-on/ "Single Sign On")
-            * [Adaptive MFA](https://www.okta.com/products/adaptive-multi-factor-authentication/ "Adaptive MFA")
-            * [Lifecycle Management](https://www.okta.com/products/lifecycle-management/ "Lifecycle Management")
-            * [Workflows](https://www.okta.com/platform/workflows/ "Workflows")
+            * [Adaptive Multifactor Authentication](https://www.okta.com/products/adaptive-multi-factor-authentication/ "Adaptive Multifactor Authentication")
             * [Identity Governance](https://www.okta.com/products/identity-governance/ "Identity Governance")
             * [Privileged Access](https://www.okta.com/products/privileged-access/ "Privileged Access")
+            * [Identity Threat Protection](https://www.okta.com/products/identity-threat-protection/ "Identity Threat Protection")
             * [Explore Workforce Identity Cloud](https://www.okta.com/workforce-identity/ "Explore Workforce Identity Cloud")
             
         
@@ -81,12 +80,13 @@ United States
         * * Your Industry
             * [Public Sector](https://www.okta.com/okta-public-sector/ "Public Sector")
             * [Financial Services](https://www.okta.com/solutions/financial-services/ "Financial Services")
-            * [Retail](https://www.okta.com/solutions/retail/ "Retail")
             * [Healthcare](https://www.okta.com/solutions/healthcare/ "Healthcare")
+            * [Manufacturing](https://www.okta.com/solutions/manufacturing/ "Manufacturing")
+            * [Retail](https://www.okta.com/solutions/retail/ "Retail")
             * [Travel & Hospitality](https://www.okta.com/solutions/travel-hospitality/ "Travel & Hospitality")
             * [Technology](https://www.okta.com/solutions/technology/ "Technology")
-            * [Energy](https://www.okta.com/solutions/energy/ "Energy")
             * [Nonprofit](https://www.okta.com/solutions/nonprofits/ "Nonprofit")
+            * [Energy](https://www.okta.com/solutions/energy/ "Energy")
             
         * * Ensuring Success
             * [Okta AI](https://www.okta.com/products/okta-ai/ "Okta AI")
