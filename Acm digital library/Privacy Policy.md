@@ -250,7 +250,9 @@ Search
         
         [More on ACM Awards](http://awards.acm.org/)
         
-    * [Avi Wigderson Delivers Turing Lecture at STOC 2024](https://youtube.com/live/f2NiGO8zC1c)
+    * [![Image promoting the ACM Luiz André Barroso Award](/binaries/ctaimagelarge/content/gallery/acm/ctas/awards/acm-luiz-andre-barroso-award.jpg)](https://awards.acm.org/barroso)
+        
+        [ACM Announces Luiz André Barroso Award](https://awards.acm.org/barroso)
         
         [![2023 ACM Prize recipient Amanda Randles](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/amanda-randles-prize.jpg)](https://awards.acm.org/about/2023-acm-prize)
         
@@ -283,13 +285,13 @@ Search
         
         [ACM Education Advisory Committee Applications Open](https://docs.google.com/document/d/1yQ2G7EnB3L9tsEqVwNLE_pMINDdWUwwrJxelsU2D3hw/edit?usp=sharing)
         
-        [![jan-bosch.jpg](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/jan-bosch.jpg)](https://events.zoom.us/ev/AvFZryW6LNHfzOo1zGQTcQ1NnCNIfPvlCfGafIs2DUbS_mAb7elj~AhKqHi3MzXKfqFQLx2dh7p8O8giCascjAoWsaTCRRmaEVAinqYUuJSO3rA)
+        [![abhinav-kimothi-techtalk.jpg](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/abhinav-kimothi-techtalk.jpg)](https://events.zoom.us/ev/AkxvGHR_M3ZpC1Lbv79m8toawoeiosNANZcDMIy58ShZW9rmI6Qj~AkAtPdd7BJhbEJ6gkJ6vBtBtpWYki8UqxxYFoBTsaiFgSrVf9pNrpyQeMw)
         
-        [Jan Bosch TechTalk](https://events.zoom.us/ev/AvFZryW6LNHfzOo1zGQTcQ1NnCNIfPvlCfGafIs2DUbS_mAb7elj~AhKqHi3MzXKfqFQLx2dh7p8O8giCascjAoWsaTCRRmaEVAinqYUuJSO3rA)
+        [Abhinav Kimothi TechTalk](https://events.zoom.us/ev/AkxvGHR_M3ZpC1Lbv79m8toawoeiosNANZcDMIy58ShZW9rmI6Qj~AkAtPdd7BJhbEJ6gkJ6vBtBtpWYki8UqxxYFoBTsaiFgSrVf9pNrpyQeMw)
         
-        [![Image of Ramón Cáceres](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/ramon-caceres-bytecast.jpg)](https://learning.acm.org/bytecast/ep56-ramon-caceres)
+        [![Image of Xavier Leroy](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/xavier-leroy-bytecast.jpg)](https://learning.acm.org/bytecast/ep57-xavier-leroy)
         
-        [ByteCast Ep56: Ramón Cáceres](https://learning.acm.org/bytecast/ep56-ramon-caceres)
+        [ByteCast Ep57: Xavier Leroy](https://learning.acm.org/bytecast/ep57-xavier-leroy)
         
     
 * [Learning Center](#)
@@ -308,17 +310,17 @@ Search
         
         The ACM Learning Center offers ACM members access to lifelong learning tools and resources. Our E-Learning collections offer complimentary access to more than 80,000 online books, courses, and videos from top content publishers. The ACM TechTalk series brings leading computing luminaries and visionaries to your screen. Members enjoy exclusive offers and discounts on IT industry certifications and vendor-specific training.
         
-    * [![Image of Juan Gilbert](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/juan-e-gilbert-bytecast.jpg)](https://learning.acm.org/bytecast/ep55-juan-gilbert)
+    * [![Image of Xavier Leroy](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/xavier-leroy-bytecast.jpg)](https://learning.acm.org/bytecast/ep57-xavier-leroy)
+        
+        [ByteCast Ep57: Xavier Leroy](https://learning.acm.org/bytecast/ep57-xavier-leroy)
+        
+        [![Image of Ramón Cáceres](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/ramon-caceres-bytecast.jpg)](https://learning.acm.org/bytecast/ep56-ramon-caceres)
+        
+        [ByteCast Ep56: Ramón Cáceres](https://learning.acm.org/bytecast/ep56-ramon-caceres)
+        
+        [![Image of Juan Gilbert](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/juan-e-gilbert-bytecast.jpg)](https://learning.acm.org/bytecast/ep55-juan-gilbert)
         
         [ByteCast Ep55: Juan Gilbert](https://learning.acm.org/bytecast/ep55-juan-gilbert)
-        
-        [![Image of Yoshua Bengio](/binaries/ctaimagelarge/content/gallery/acm/ctas/yoshua-bengio-bytecast.jpg)](https://learning.acm.org/bytecast/ep54-yoshua-bengio)
-        
-        [ByteCast Ep54: Yoshua Bengio](https://learning.acm.org/bytecast/ep54-yoshua-bengio)
-        
-        [![Image of Francesca Rossi](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/francesca-rossi-bytecast.jpg)](https://learning.acm.org/bytecast/ep53-francesca-rossi)
-        
-        [ByteCast Ep53: Francesca Rossi](https://learning.acm.org/bytecast/ep53-francesca-rossi)
         
     
 * [Public Policy](#)
