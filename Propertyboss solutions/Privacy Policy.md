@@ -28,6 +28,7 @@
         4. [PropertyBoss as a Service Provider](#_Toc164182301)
 9. [Changes to this Privacy Notice](#_Toc164182302)
 10. [Contact Us](#_Toc164182303)
+11. [Contact Us](#_SubProcessorList)
 
  
 
@@ -332,4 +333,14 @@ InhabitIQ 2035 Lakeside Centre Way, Suite 250, Knoxville, Tn 37922
   
 [\[email protected\]](https://propertyboss.com/cdn-cgi/l/email-protection)  
   
-We respect your privacy rights and commit to the security of your personal information. If you do not agree to how we process your personal information as discussed in this Privacy Notice, please reach out to us. Please also see our **Terms and Conditions** for more information on the Services we provide.
+We respect your privacy rights and commit to the security of your personal information. If you do not agree to how we process your personal information as discussed in this Privacy Notice, please reach out to us. Please also see our **[Terms and Conditions](https://propertyboss.com/legal-information/)** for more information on the Services we provide.  
+  
+****
+
+PropertyBoss Sub-processor List
+-------------------------------
+
+**  
+  
+PropertyBoss uses certain Sub-processors to assist in providing our Services. A Sub-processor is an external service provider that is enlisted by PropertyBoss, as part of that service delivery, PropertyBoss may be required to share personal information it processes with these providers.  
+[You may find this list here.](https://propertyboss.com/propertyboss-sub-processor-list/)**
