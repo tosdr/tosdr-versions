@@ -1,6 +1,6 @@
 [Skip to main content](#main-content)
 
-[![Mars logo](/themes/custom/mars_acss/assets/images/logo-main.svg)](https://www.mars.com/global-petcare-food-nutrition-and-snacking-brands)
+[![Mars logo](/themes/custom/mars_acss/assets/images/logo-main.svg)](https://www.mars.com/)
 
 * [All About Mars](https://www.mars.com/about "For over a century, we’ve been driven by a belief that the world we want tomorrow starts with how we do business today.") Main Menu
     
@@ -776,7 +776,7 @@ The world we want tomorrow
 
 starts with how we do business today
 
-[![Mars Home](/themes/custom/mars_acss/assets/images/logo-white.svg)](https://www.mars.com/global-petcare-food-nutrition-and-snacking-brands)
+[![Mars Home](/themes/custom/mars_acss/assets/images/logo-white.svg)](https://www.mars.com/)
 
 * [Contact Us](https://www.mars.com/contact-us)
     
