@@ -5,9 +5,10 @@
     * [Our Strategy](https://www.sanofi.com/en/our-company/our-strategy)
     * Governance
         * [Governance](https://www.sanofi.com/en/our-company/governance)
-        * [Specialist Committees](https://www.sanofi.com/en/our-company/governance/specialist-committees)
         * [Board of Directors](https://www.sanofi.com/en/our-company/governance/board-of-directors)
         * [Executive Committee](https://www.sanofi.com/en/our-company/governance/executive-committee)
+        * [Specialist Committees](https://www.sanofi.com/en/our-company/governance/specialist-committees)
+    * [Our Legacy](https://www.sanofi.com/en/our-company/our-legacy)
     * Social Impact
         * [Social Impact](https://www.sanofi.com/en/our-company/social-impact)
         * [Access to Healthcare](https://www.sanofi.com/en/our-company/social-impact/access-to-healthcare)
@@ -15,7 +16,6 @@
         * [Environmental Sustainability and Resilience](https://www.sanofi.com/en/our-company/social-impact/environmental-sustainability-and-resilience)
         * [Diversity, Equity, and Inclusion In and Beyond the Workplace](https://www.sanofi.com/en/our-company/social-impact/diversity-equity-and-inclusion-in-and-beyond-the-workplace)
         * [Code of Conduct and Responsible Business](https://www.sanofi.com/en/our-company/social-impact/responsible-business-values)
-    * [Our Legacy](https://www.sanofi.com/en/our-company/our-legacy)
 * Our Science
     * [Our Science](https://www.sanofi.com/en/our-science)
     * [Our Pipeline](https://www.sanofi.com/en/our-science/our-pipeline)
@@ -93,9 +93,9 @@
 
 * Media
     * [Media](https://www.sanofi.com/en/media-room)
-    * [Contacts](https://www.sanofi.com/en/media-room/contact)
     * [Stories](https://www.sanofi.com/en/magazine)
     * [Press Releases](https://www.sanofi.com/en/media-room/press-releases)
+    * [Contacts](https://www.sanofi.com/en/media-room/contact)
 * Investors
     * [Investors](https://www.sanofi.com/en/investors)
     * [News](https://www.sanofi.com/en/media-room/press-releases)
@@ -106,7 +106,6 @@
     * [Conferences](https://www.sanofi.com/en/investors/broker-conferences)
     * Environment, Social, Governance
         * [Environment, Social, Governance](https://www.sanofi.com/en/investors/environment-social-governance)
-        * [Our Double Materiality Assessment](https://www.sanofi.com/en/investors/environment-social-governance/our-double-materiality-assessment)
         * [Our Latest ESG news](https://www.sanofi.com/en/investors/environment-social-governance/latest-news)
         * [ESG quarterly update](https://www.sanofi.com/en/investors/environment-social-governance/esg-quarterly-update)
     * [Private Shareholders](https://www.sanofi.com/en/investors/individual-shareholders)
@@ -170,12 +169,12 @@ Follow us
 
 Back to top
 
+* [Stories](https://www.sanofi.com/en/magazine)
 * [Contact](https://www.sanofi.com/en/contact)
 * [Legal notice](https://www.sanofi.com/en/legal-notice)
 * [Privacy & data protection](https://www.sanofi.com/en/privacy-and-data-protection)
-* [Cookies Policy](https://www.sanofi.com/en/data-privacy)
 * [Our publications](https://www.sanofi.com/en/publications)
-* [Stories](https://www.sanofi.com/en/magazine)
+* [Cookies Policy](https://www.sanofi.com/en/data-privacy)
 * [Sitemap](https://www.sanofi.com/en/sitemap)
 * [Directory](https://www.sanofi.com/en/directory)
 * [Accessibility: partial compliance](https://www.sanofi.com/en/accessibility-partial-compliance)
