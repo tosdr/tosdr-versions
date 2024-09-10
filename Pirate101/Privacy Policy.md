@@ -680,7 +680,7 @@ To send us an access and deletion request, or for questions, or further informat
 
 Version: 2023-06-02
 
-[](https://www.pirate101.com/autologin/free_game?jsessionid=kum3gUcnERSr6BJ0KGbHb%2Bx%2Bb9XSYt%2BI3UXWxkM9ZCn0uWsJQ%2FG%2Bg5ocueI8NDsIPQBgonfThhsyRQXp6y4WBhLjhDSYvyB8m%2BfsO%2FlVV9CFdUQ7wqDpUeuCkd4rDcUc)
+[](https://www.pirate101.com/autologin/free_game?jsessionid=ioDavXTTRzlLfifG34hOGofEVtbfiIZprB2j%2BCP%2FYf9iutpG%2FWnNf6LWf%2BDGcA%2FDDmX14nEDlwO4MO8YAffhDLq3oT0Rf9EQoEwy1X3VP8TUUevPkkG05lY5%2B%2BsaJQ%3D%3D)
 
 * [Free Online Games](https://www.wizard101.com/)
     * [Free to Play Wizard101](https://www.wizard101.com/)
@@ -700,9 +700,7 @@ Version: 2023-06-02
     * [Famous Pirates](https://www.pirate101.com/free_game/learn/famous_pirates)
     * [Pirate Quotes](https://www.pirate101.com/free_game/learn/pirate_quotes)
 
-[![Pirate101 is rated E 10 and up](https://edgecast.pirate101.com/image/free/Pirate/Images/esrb-footer.png?v=2)](https://www.pirate101.com/free_game/esrb_rating) [![Pirate101 was rated Best Hybrid Strategy Game by RTS Guru](https://edgecast.pirate101.com/image/free/Pirate/Images/Icons/best-hybrid-strategy.png?v=2)](https://www.pirate101.com/free_game/awards) [![Our online pirate game for kids, Pirate101 was voted MMORPG Player’s Choice Game of the Year](https://edgecast.pirate101.com/image/free/Pirate/Images/Icons/game-of-the-year.png?v=2)](https://www.pirate101.com/free_game/awards)
-
-[EV SSL](https://www.digicert.com/ev-ssl-certification.htm)
+[![Pirate101 is rated E 10 and up](https://edgecast.pirate101.com/image/free/Pirate/Images/esrb-footer.png?v=2)](https://www.pirate101.com/free_game/esrb_rating) [![Pirate101 was rated Best Hybrid Strategy Game by RTS Guru](https://edgecast.pirate101.com/image/free/Pirate/Images/Icons/best-hybrid-strategy.png?v=2)](https://www.pirate101.com/free_game/awards) [![Our online pirate game for kids, Pirate101 was voted MMORPG Player’s Choice Game of the Year](https://edgecast.pirate101.com/image/free/Pirate/Images/Icons/game-of-the-year.png?v=2)](https://www.pirate101.com/free_game/awards)  
 
 [![null](https://edgecast.pirate101.com/image/free/Pirate/Images/Icons/discord-p.gif?v=1)](https://discord.gg/pirate101) [![Twitter](https://edgecast.pirate101.com/image/free/Pirate/Images/Icons/twitter.png?v=2)](http://twitter.com/pirate101) [![Facebook](https://edgecast.pirate101.com/image/free/Pirate/Images/Icons/facebook-p.jpg?v=2)](http://www.facebook.com/pirate101game) [![Youtube](https://edgecast.pirate101.com/image/free/Pirate/Images/Icons/youtube-p.jpg?v=2)](http://www.youtube.com/kingsisle) [![null](https://edgecast.pirate101.com/image/free/Pirate/Images/Icons/tiktok-p.gif?v=1)](http://www.tiktok.com/@pirate101)  
 © 2024 KingsIsle Entertainment, Inc. All Rights Reserved  
