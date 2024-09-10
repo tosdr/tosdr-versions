@@ -367,7 +367,7 @@ Nous mettons à jour la présente déclaration de protection des données dès q
 
 ### Partager
 
-Partager sur X/Twitter Partager sur Facebook Copier le lien
+Partager sur X Partager sur Facebook Copier le lien
 
 [![Pronatura Logo](/themes/custom/naturally_amazing/logo.svg)](https://www.pronatura.ch/fr "Accueil")
 
