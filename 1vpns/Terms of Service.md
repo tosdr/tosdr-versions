@@ -1,6 +1,6 @@
 ![](/img/loader.gif)
 
-[![](/img/71.png)Tor v3](http://onevpnszyiwfsiehge2zjwvd3ulfotcu35wvl4v2iuqupot2oahk6yyd.onion/) [![](/img/telegram.png)@FVPNS](tg://resolve?domain=@FVPNS) ![](/img/light.png)support@1vpns.com ![](/img/mail.png)support@1vpns.com ![](/img/icq.png)82822222
+[![](/img/71.png)Tor v3](http://onevpnszyiwfsiehge2zjwvd3ulfotcu35wvl4v2iuqupot2oahk6yyd.onion/) [![](/img/telegram.png)@FVPNS](tg://resolve?domain=@FVPNS) ![](/img/light.png)[\[email protected\]](https://1vpns.com/cdn-cgi/l/email-protection) ![](/img/mail.png)[\[email protected\]](https://1vpns.com/cdn-cgi/l/email-protection) ![](/img/icq.png)82822222
 
 [![](/img/eng.png)EN](https://1vpns.com/?language-picker-language=en-US) [![](/img/rus.png)RU](https://1vpns.com/?language-picker-language=ru-RU)
 
@@ -124,6 +124,12 @@ The sale, exchange, provision of public access, or disclosure of any information
 News
 ----
 
+* 21-08-2024
+    
+    [The website is moving to a new hosting](https://1vpns.com/news/id/192)
+
+* * *
+
 * 30-06-2024
     
     [GB new server](https://1vpns.com/news/id/190)
@@ -148,12 +154,6 @@ News
 
 * * *
 
-* 14-02-2024
-    
-    [New OpenConnect protocol](https://1vpns.com/news/id/180)
-
-* * *
-
 * <
 * [1](https://1vpns.com/rules?page=1&per-page=5)
 * [2](https://1vpns.com/rules?page=2&per-page=5)
@@ -167,10 +167,10 @@ News
 
 Copyright © www.1vpns.com 2024. All rights reserved
 
-Jabber: support@1vpns.com
+Jabber: [\[email protected\]](https://1vpns.com/cdn-cgi/l/email-protection)
 
 Tor: onevpnszyiwfsiehge2zjwvd3ulfotcu35wvl4v2iuqupot2oahk6yyd.onion
 
-E-mail: support@1vpns.com
+E-mail: [\[email protected\]](https://1vpns.com/cdn-cgi/l/email-protection)
 
 ICQ: 82822222
