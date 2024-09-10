@@ -24,13 +24,13 @@ Install App
 * [United States](https://www.101soundboards.com/tags/united-states)
 * [Walk-Ups](https://www.101soundboards.com/search/walkups)
 
-* [AI Voices](https://www.101soundboards.com/boards/tts) Text to Speech voices
+* [AI Voices](https://www.101soundboards.com/tts) Text to Speech voices
 * [Favorites](https://www.101soundboards.com/favorites/me) Make your own Favorites board
 * [Apps](https://www.101soundboards.com/pages/app) Mobile Apps
-* [Song Makers](https://www.101soundboards.com/boards/tts#song_generators) Song Makers
+* [Song Makers](https://www.101soundboards.com/tts#song_generators) Song Makers
+* [AI Terminal](https://www.101soundboards.com/terminal) AI Sound Generator
 * [TikTok Voice](https://www.101soundboards.com/boards/72272-tiktok-tts-official-tiktok-lady-computer-voice) The Famous TikTok Voice
 * [Help](https://www.101soundboards.com/pages/about) Help
-* [Donate](https://www.101soundboards.com/pages/support) Support the site
 * [Discord Bot](https://www.101soundboards.com/pages/discordbot) Audio bot for Discord
 * [Live](https://www.101soundboards.com/sounds/live) Sounds playing now
 * [Popular](https://www.101soundboards.com/?sort=hits_recent#sort_filters) Most Popular boards
@@ -38,13 +38,13 @@ Install App
 
  ![](/img/hamburger.svg)[![101soundboards.com — Have Fun Playing Sound Clips site logo. Click to return to homepage](https://www.101soundboards.com/img/101soundboards-logo.svg)](https://www.101soundboards.com/)
 
-[* Home](https://www.101soundboards.com/)[* Search](https://www.101soundboards.com/search)[* Funny](https://www.101soundboards.com/?sort=funny#sort_filters)[* Hot](https://www.101soundboards.com/?sort=hits_random#sort_filters)[* Popular](https://www.101soundboards.com/?sort=hits_recent#sort_filters)[* Categories](https://www.101soundboards.com/tags)[* AI Voices](https://www.101soundboards.com/boards/tts)[* New](https://www.101soundboards.com/?sort=created#sort_filters)[* Help](https://www.101soundboards.com/pages/about)* More
+[* Home](https://www.101soundboards.com/)[* Search](https://www.101soundboards.com/search)[* Funny](https://www.101soundboards.com/?sort=funny#sort_filters)[* Hot](https://www.101soundboards.com/?sort=hits_random#sort_filters)[* Popular](https://www.101soundboards.com/?sort=hits_recent#sort_filters)[* Categories](https://www.101soundboards.com/tags)[* AI Voices](https://www.101soundboards.com/tts)[* New](https://www.101soundboards.com/?sort=created#sort_filters)[* Help](https://www.101soundboards.com/pages/about)* More
     
-    [Text-to-Speech AI Voices](https://www.101soundboards.com/boards/tts) [TikTok TTS Voice](https://www.101soundboards.com/boards/72272-tiktok-tts-official-tiktok-lady-computer-voice) [Ghostface Voice](https://www.101soundboards.com/boards/72298-ghostface-scream-tts-computer-ai-voice) [TikTok Song Generators](https://www.101soundboards.com/boards/tts#song_generators)
+    [Text-to-Speech AI Voices](https://www.101soundboards.com/tts) [TikTok TTS Voice](https://www.101soundboards.com/boards/72272-tiktok-tts-official-tiktok-lady-computer-voice) [Ghostface Voice](https://www.101soundboards.com/boards/72298-ghostface-scream-tts-computer-ai-voice) [TikTok Song Generators](https://www.101soundboards.com/tts#song_generators) [AI Sound FX Generator](https://www.101soundboards.com/terminal) [My TTS Phrases](https://www.101soundboards.com/tts/me)
     
-    [iOS and Android Apps](https://www.101soundboards.com/pages/app?referrer=https%3A%2F%2Fwww.101soundboards.com%2Fpages%2Fabout) [Alexa](https://www.101soundboards.com/pages/app?referrer=https%3A%2F%2Fwww.101soundboards.com%2Fpages%2Fabout) [![Twitter](/img/twitter-round.svg) Twitter](https://twitter.com/101soundboards "Twitter") [Discord Bot](https://www.101soundboards.com/pages/discordbot) [Free Audio Editor](https://www.101soundboards.com/pages/editor) [Privacy](https://www.101soundboards.com/pages/about#privacy) [Donate](https://www.101soundboards.com/pages/donate) [Sticker Shop](https://shop.101soundboards.com/) [Merch](https://www.101soundboards.com/pages/donate#merch)
+    [iOS and Android Apps](https://www.101soundboards.com/pages/app?referrer=https%3A%2F%2Fwww.101soundboards.com%2Fpages%2Fabout) [Alexa](https://www.101soundboards.com/pages/app?referrer=https%3A%2F%2Fwww.101soundboards.com%2Fpages%2Fabout) [![Twitter](/img/twitter-round.svg) Twitter](https://twitter.com/101soundboards "Twitter") [Discord Bot](https://www.101soundboards.com/pages/discordbot) [Free Audio Editor](https://www.101soundboards.com/pages/editor) [Privacy](https://www.101soundboards.com/pages/about#privacy)
     
-    [Latest Boards](https://www.101soundboards.com/?sort=updated#sort_filters "Most recently added and updated soundboards")
+    [Latest Boards](https://www.101soundboards.com/?sort=updated#sort_filters "Most recently added and updated soundboards") [Elites Leaderboard](https://www.101soundboards.com/elites)
     
     [Feature Suggestions & Bugs](https://www.101soundboards.com/pages/about#feature-suggestions-and-bugs "<strongSsuggest a new feature or report a bug")
     
@@ -53,15 +53,13 @@ Install App
 * [Login/Register](https://www.101soundboards.com/login)
 
 × Your AdBlocker was detected as enabled 😔😞😭 Ads fund this site. It costs money to run.  
-Consider disabling or [buying a sticker pack (with free shipping)](https://shop.101soundboards.com/) so we can continue running this awesome service!  
-  
- [![Ko-fi](/img/kofi_cup.png) Support Us on Ko-fi](https://ko-fi.com/B0B8H3JMY) [![CashApp](/img/cashapp-2.svg) CashApp](https://cash.app/$101soundboards) [![PayPal](/img/paypal-2.svg) PayPal](https://www.paypal.com/donate/?hosted_button_id=7FBV3YC5ZMJT8)
+Consider disabling to support the site
 
 Main Content
 
 [Back to the homepage](https://www.101soundboards.com/)
 
-[Site Status](https://101soundboards.statuspage.io/) [Help](#help) [About](#about) [Disclaimer](#disclaimer) [Privacy & Terms](#privacy) [Contact](https://www.101soundboards.com/pages/contact) [Donate](https://www.101soundboards.com/pages/support) [Feature Suggestions & Bugs](https://101soundboards.canny.io/feature-requests)
+[Site Status](https://101soundboards.statuspage.io/) [Help](#help) [About](#about) [Disclaimer](#disclaimer) [Privacy & Terms](#privacy) [Contact](https://www.101soundboards.com/pages/contact) [Feature Suggestions & Bugs](https://101soundboards.canny.io/feature-requests)
 
   
 
@@ -96,7 +94,7 @@ If you have Google Chrome for desktop, you can also install 101soundboards. Just
 
 Read about the unexpected benefits of soundboards on the [Have Fun Playing Sounds](https://www.101soundboards.com/pages/have-fun-playing-sounds) page.
 
-##### Can I use my keyboard to play sounds?>
+##### Can I use my keyboard to play sounds?
 
 Yes! You can use the keyboard to play sounds. Just press the key that corresponds to the sound you want to play. You can see the key on the top left of sound buttons.
 
@@ -122,7 +120,7 @@ You can upload files in any format, including MP3, WAV, OGG, MKV and MP4. They w
 
 ##### What is Text-to-Speech?
 
-Text-to-Speech (TTS) is a technology that converts text into spoken voice output. It is used in a variety of applications, including voice assistants, navigation systems, and accessibility tools for people with visual impairments. On 101soundboards you can use TTS to create custom sounds in the voices of celebrities, streamers, cartoon characters and more, then share them with others.
+Text-to-Speech (TTS) is a technology that converts text into spoken voice output. It is used in a variety of applications, including voice assistants, navigation systems, and accessibility tools for people with visual impairments. On 101soundboards you can use TTS to create custom sounds various voices, then share them with others. TTS voices are synthetic creations and do not imply any affiliation with the person whose name or likeness may be associated with it.
 
 ##### How does the TTS feature work on this site?
 
@@ -130,7 +128,7 @@ When you submit a phrase to be converted into speech, our system sends the text 
 
 To use the TTS feature, simply enter your desired phrase in the text box on the voice of your choice. Click the "Generate" button to create your custom sound. The TTS engine will process your request and generate an audio file of the spoken text, which will be added to the top of the soundboard in green for you to play and share with others.
 
-You can find a list of available voices and song generators on the [TTS page](https://www.101soundboards.com/boards/tts). Explore a variety of voices and create unique sounds to share with your friends.
+You can find a list of available voices and song generators on the [TTS page](https://www.101soundboards.com/tts). Explore a variety of voices and create unique sounds to share with your friends.
 
 ##### Why does it take time for my TTS request to be processed?
 
@@ -150,11 +148,13 @@ Phrases with extreme inappropriate language, hate speech, self-harm, violence, o
 
 ##### How do I delete a TTS sound I created?
 
-To delete a TTS sound you created, right click on the sound (press and hold on mobile) and select "Report" from the context menu. The sound will typically be removed from the soundboard within a few minutes.
+To delete a TTS sound you created, go to [Manage TTS Phrases](https://www.101soundboards.com/tts/me) where you can view the TTS phrases you have created.
+
+Alternatively, if you have found an offensive sound, right click on the sound (press and hold on mobile) and select "Report" from the context menu. We typically investigate reports within a few minutes.
 
 ##### Where can I find more voices and song generators?
 
-You can find more voices and song generators on the [TTS Voices List](https://www.101soundboards.com/boards/tts). Explore a variety of voices and create unique sounds to share with your friends.
+You can find more voices and song generators on the [TTS Voices List](https://www.101soundboards.com/tts). Explore a variety of voices and create unique sounds to share with your friends.
 
 ##### Why did another similar sound get generated?
 
@@ -212,6 +212,14 @@ We'd love to convert it for you! Upload it to a sharing service like [Catbox](ht
 
 Yes! You can [add the Discord bot for free to your server](https://www.101soundboards.com/pages/discordbot).
 
+##### How do I delete my own soundboard?
+
+To delete your own soundboard, delete all the sounds on the soundboard. Empty soundboards are automatically deleted daily.
+
+##### Why was my empty soundboard deleted?
+
+Empty soundboards are automatically deleted daily to keep the site clean and tidy.
+
 ##### How do I stop getting notifications?
 
 [Click here for a guide on how to unsubscribe from web push notifications](https://segmentify.com/blog/how-to-unsubscribe-from-push-notifications).
@@ -224,10 +232,6 @@ Yes! You can [add the Discord bot for free to your server](https://www.101soundb
 
 Please [contact us](https://www.101soundboards.com/pages/contact) with any questions you have.
 
-##### How do I donate?
-
-Check out the [donation](https://www.101soundboards.com/pages/support) page.
-
 ##### How can I suggest a new feature or report a bug?
 
 You can suggest a new feature or report a bug on our [Canny Feature Voting Board](https://101soundboards.canny.io/feature-requests)
@@ -237,7 +241,7 @@ You can suggest a new feature or report a bug on our [Canny Feature Voting Board
 About
 -----
 
-Explore millions of sounds. [Search](https://www.101soundboards.com/search) or [browse by category](https://www.101soundboards.com/tags). [Favorite](https://www.101soundboards.com/favorites/me) sounds and [upload your own](https://www.101soundboards.com/home) to create your own soundboard. Read text aloud with [text-to-speech](https://www.101soundboards.com/boards/tts) voices. [Create an account](https://www.101soundboards.com/register) for more features. Have fun playing sounds!
+Explore millions of sounds. [Search](https://www.101soundboards.com/search) or [browse by category](https://www.101soundboards.com/tags). [Favorite](https://www.101soundboards.com/favorites/me) sounds and [upload your own](https://www.101soundboards.com/home) to create your own soundboard. Read text aloud with [text-to-speech](https://www.101soundboards.com/tts) voices. [Create an account](https://www.101soundboards.com/register) for more features. Have fun playing sounds!
 
   
 
@@ -351,7 +355,7 @@ We may use third-party Service Providers to monitor and analyze the use of our S
 
 ##### Error Reporting and Feedback
 
-You may provide us either directly at [\[email protected\]](https://www.101soundboards.com/cdn-cgi/l/email-protection) or via third party sites and tools with information and feedback concerning errors, suggestions for improvements, ideas, problems, complaints, and other matters related to our Service (“Feedback”). You acknowledge and agree that: (i) you shall not retain, acquire or assert any intellectual property right or other right, title or interest in or to the Feedback; (ii) Company may have development ideas similar to the Feedback; (iii) Feedback does not contain confidential information or proprietary information from you or any third party; and (iv) Company is not under any obligation of confidentiality with respect to the Feedback. In the event the transfer of the ownership to the Feedback is not possible due to applicable mandatory laws, you grant Company and its affiliates an exclusive, transferable, irrevocable, free-of-charge, sub-licensable, unlimited and perpetual right to use (including copy, modify, create derivative works, publish, distribute and commercialize) Feedback in any manner and for any purpose. The third party sites and tools mentioned above include the following: Sentry Sentry is open-source error tracking solution provided by Functional Software Inc. More information is available here: https://sentry.io/privacy/
+You may provide us at [Contact Form](https://www.101soundboards.com/pages/contact) with information and feedback concerning errors, suggestions for improvements, ideas, problems, complaints, and other matters related to our Service (“Feedback”). You acknowledge and agree that: (i) you shall not retain, acquire or assert any intellectual property right or other right, title or interest in or to the Feedback; (ii) Company may have development ideas similar to the Feedback; (iii) Feedback does not contain confidential information or proprietary information from you or any third party; and (iv) Company is not under any obligation of confidentiality with respect to the Feedback. In the event the transfer of the ownership to the Feedback is not possible due to applicable mandatory laws, you grant Company and its affiliates an exclusive, transferable, irrevocable, free-of-charge, sub-licensable, unlimited and perpetual right to use (including copy, modify, create derivative works, publish, distribute and commercialize) Feedback in any manner and for any purpose. The third party sites and tools mentioned above include the following: Sentry Sentry is open-source error tracking solution provided by Functional Software Inc. More information is available here: https://sentry.io/privacy/
 
 ##### Links To Other Web Sites
 
@@ -382,6 +386,8 @@ Donations do not imply any purchase or supply of goods or services or anything e
 ##### Prohibited Uses
 
 You may use Service only for lawful purposes and in accordance with Terms. You agree not to use Service: In any way that violates any applicable national or international law or regulation. For the purpose of exploiting, harming, or attempting to exploit or harm minors in any way by exposing them to inappropriate content or otherwise. To transmit, or procure the sending of, any advertising or promotional material, including any “junk mail”, “chain letter,” “spam,” or any other similar solicitation. To impersonate or attempt to impersonate Company, a Company employee, another user, or any other person or entity. In any way that infringes upon the rights of others, or in any way is illegal, threatening, fraudulent, or harmful, or in connection with any unlawful, illegal, fraudulent, or harmful purpose or activity. To engage in any other conduct that restricts or inhibits anyone’s use or enjoyment of Service, or which, as determined by us, may harm or offend Company or users of Service or expose them to liability. Additionally, you agree not to: Use Service in any manner that could disable, overburden, damage, or impair Service or interfere with any other party’s use of Service, including their ability to engage in real time activities through Service. Use any robot, spider, or other automatic device, process, or means to access Service for any purpose, including monitoring or copying any of the material on Service. Use any manual process to monitor or copy any of the material on Service or for any other unauthorized purpose without our prior written consent. Use any device, software, or routine that interferes with the proper working of Service. Introduce any viruses, trojan horses, worms, logic bombs, or other material which is malicious or technologically harmful. Attempt to gain unauthorized access to, interfere with, damage, or disrupt any parts of Service, the server on which Service is stored, or any server, computer, or database connected to Service. Attack Service via a denial-of-service attack or a distributed denial-of-service attack. Take any action that may damage or falsify Company rating. Otherwise attempt to interfere with the proper working of Service.
+
+TTS voices are synthetic creations and do not imply any affiliation with the person whose name or likeness may be associated with it. You must not use them for any illegal purposes, including but not limited to: criticizing or attacking individuals; advocating for or opposing specific political positions, religions, or ideologies, malicious intentions to harm or hurt others; or fraudulent purposes that lead to identity theft or fraudulent phone calls, or to imply affiliation.
 
 #### Links To Other Sites
 
@@ -433,7 +439,7 @@ By creating an Account on our Service, you agree to subscribe to newsletters, ma
 
 ##### User Content and A.I. Generated Content
 
-We do not condone the use of the web site for any type of impersonation, deception, slur, abuse, or mistreatment of any individual or group. Moreover, we do not allow the use of our service in such a way that it violates any law.
+You must not use the web site and its features for any type of impersonation, deception, slur, abuse, or mistreatment of any individual or group. Moreover, we do not allow the use of our service in such a way that it violates any law.
 
 Do not engage in unlawful activity or attempt to impersonate any person, company, or other entity. All published usages of A.I. generated content must be labelled as a "deep fake".
 
@@ -459,7 +465,7 @@ We may update our Policy from time to time. You are advised to review this Polic
 
 If you have any questions about this Privacy Policy, please contact us:
 
-* By visiting this page on our website: [https://www.101soundboards.com/pages/contact](https://www.101soundboards.com/pages/contact)
+* By visiting this page on our website: [https://www.101soundboards.com/pages/contact](https://www.101soundboards.com/pages/contact). We strive to create a positive and inclusive environment for all. We reserve the right to ignore contact messages that are abusive, disrespectful, or not accessible to individuals with disabilities. This includes messages that are written in a way that is difficult to understand.
 
   
   
@@ -485,7 +491,7 @@ If you have any questions about this Privacy Policy, please contact us:
   
   
 
-[Search](https://www.101soundboards.com/search) [Your Favorites Soundboard](https://www.101soundboards.com/favorites/me)
+[Search](https://www.101soundboards.com/search) [Your Favorites Soundboard](https://www.101soundboards.com/favorites/me)[](https://www.101soundboards.com/terminal "AI Sound FX Generator CLI Terminal")
 
 Dark Mode Light Mode
 
