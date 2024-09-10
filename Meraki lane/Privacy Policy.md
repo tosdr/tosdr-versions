@@ -41,17 +41,17 @@ Main Menu
     
     [Fashion](https://www.merakilane.com/category/fashion/)
     
-    [![8 Best Haircuts and Hairstyles that Hide Hearing Aids | Whether you wear in the ear, over the ear, or cochlear implants, there are lots of ways you can cut and style your hair to make your hearing aids invisible. The easiest option is to grow your hair long and use it to cover your ears, but there are short and medium length hairstyles that work just as well, plus tons updos you can try when you want your hair off of your face. Click for our fav DIY hairstyles to elevate your look!](https://www.merakilane.com/wp-content/uploads/2024/07/4-4.png)](https://www.merakilane.com/8-best-haircuts-and-hairstyles-that-hide-hearing-aids/)
+    [![19 Tips & Treatments to Prevent and Get Rid of Acne Scars | There are 3 different types of acne scars -- atrophic (shallow indentations caused by cystic acne), hypertrophic and keloid (raised lumps of scar tissue), and post-inflammatory hyperpigmentation (darker patches of skin). Each of these are caused by more severe acne and can be permanent. Fortunately, there are things you can do to prevent acne scars, hide them when they do occur, and get rid of them -- click for our best acne remedies!](https://www.merakilane.com/wp-content/uploads/2024/09/6.png)](https://www.merakilane.com/19-tips-treatments-to-prevent-and-get-rid-of-acne-scars/)
     
-    ### [8 Best Haircuts and Hairstyles that Hide Hearing Aids](https://www.merakilane.com/8-best-haircuts-and-hairstyles-that-hide-hearing-aids/)
+    ### [19 Tips & Treatments to Prevent and Get Rid of Acne Scars](https://www.merakilane.com/19-tips-treatments-to-prevent-and-get-rid-of-acne-scars/)
     
-    [![How to Get Shiny Hair: 9 Tips & Products that Work | Whether you have short, medium length, or long hair that's straight, wavy, or curly, one thing is for certain: you want silky, smooth, and shiny hair. In this post, we have tons of tips and products to help you get heathy looking hair without expensive hair salon treatments. From using the right shampoo and a good hair mask, to investing in the right hair oils for your hair type, this post has everything you need to know. Click for more!](https://www.merakilane.com/wp-content/uploads/2024/07/8-1.png)](https://www.merakilane.com/how-to-get-shiny-hair-9-tips-products-that-work/)
+    [![19 Naturally Curly Wedding Hairstyles for Brides & Bridesmaids | When it comes to wedding hair updos, there are so many options to choose from –– you can leave it down, pin it half up, or opt for a full updo. This post has tons of wedding hair inspo for curly haired gals, with step-by-step tutorials to teach you how to get these looks at home. Whether your hair is short, medium length, or long, there's a style here for the entire bridal party –– the maid of honor, bridesmaids, and the bride!](https://www.merakilane.com/wp-content/uploads/2024/09/4.png)](https://www.merakilane.com/19-naturally-curly-wedding-hairstyles-for-brides-bridesmaids/)
     
-    ### [How to Get Shiny Hair: 9 Tips & Products that Work](https://www.merakilane.com/how-to-get-shiny-hair-9-tips-products-that-work/)
+    ### [19 Naturally Curly Wedding Hairstyles for Brides & Bridesmaids](https://www.merakilane.com/19-naturally-curly-wedding-hairstyles-for-brides-bridesmaids/)
     
-    [![13 DIY Eyebrow Lamination Tips & Products for Fluffy Brows | Eyebrow laminating has been a hot topic on Instagram and TikTok, and for good reason -- it's a simple way to enhance or lift your brows for natural, thick brows without investing in expensive procedures like micro-blading. But how is it done, and can you do it at home? In this post, we have everything you need to know, including tips, products, and tutorials for the perfect DIY brow lamination.](https://www.merakilane.com/wp-content/uploads/2024/07/7-1.png)](https://www.merakilane.com/13-diy-eyebrow-lamination-tips-products-for-fluffy-brows/)
+    [![Microneedling 101 | If you're looking for anti-aging skin care treatments, microneedling may be what you need. It offers many benefits –– it improves skin texture, stimulates collagen production, minimizes pores, helps get rid of acne scars, wrinkles, and stretch marks –– but there are risks you should know about and steps you should take before and after your treatment. Click to learn more about this popular cosmetic treatment, if it's right for you, and skin safety tips you need to know!](https://www.merakilane.com/wp-content/uploads/2024/09/3-1.png)](https://www.merakilane.com/7-things-to-know-before-trying-microneedling/)
     
-    ### [13 DIY Eyebrow Lamination Tips & Products for Fluffy Brows](https://www.merakilane.com/13-diy-eyebrow-lamination-tips-products-for-fluffy-brows/)
+    ### [7 Things to Know Before Trying Microneedling](https://www.merakilane.com/7-things-to-know-before-trying-microneedling/)
     
 * [Wellness](https://www.merakilane.com/category/wellness/)
     
@@ -67,17 +67,17 @@ Main Menu
     
     [Natural Remedies](https://www.merakilane.com/category/natural-remedies/)
     
-    [![How to Get Toned Arms At Home | If you're looking for the best exercises to give you tight and defined biceps and triceps, this post is for you! Perfect for women who are new to fitness, this post has it all -- the Dos and Don'ts of arm workouts plus a collection of effective arm workouts with weights and without weights, allowing you to create your own weekly schedule based on where you are and what equipment is available to you. Grab your dumbbells and give these a try!](https://www.merakilane.com/wp-content/uploads/2024/07/2-4.png)](https://www.merakilane.com/how-to-get-toned-arms-at-home-8-best-exercises/)
+    [![19 Nutritious Beet Recipes | Beetroot offers so many health benefits. They are anti-inflammatory and high in antioxidants and support the health of your heart, brain, and digestive system. They are also incredibly easy to cook -- you can boil, steam, roast, and microwave beets, and even grate them raw as a crunchy salad topper. Click for our favorite beet recipes, from a 5-minute beet berry smoothie, to a whipped feta beet dip, to beet hummus, to crispy beet fries and much more!](https://www.merakilane.com/wp-content/uploads/2024/08/4-1.png)](https://www.merakilane.com/19-nutritious-beet-recipes-youll-actually-enjoy/)
     
-    ### [How to Get Toned Arms At Home: 8 Best Exercises](https://www.merakilane.com/how-to-get-toned-arms-at-home-8-best-exercises/)
+    ### [19 Nutritious Beet Recipes You’ll Actually Enjoy](https://www.merakilane.com/19-nutritious-beet-recipes-youll-actually-enjoy/)
     
-    [![15 Greens Powder Recipes that Actually Taste Good | If you've spent any time on social media, you've seen people mixing their greens powder of choice into their water bottles to improve their gut health and boost their immunity, but what if you don't like the taste? In this post, we give you all the details on this superfood, and we share our favorite recipes that go beyond adding it to your Stanley cup. Click to learn how to cook with it, and our fav recipes from smoothies to energy bites!](https://www.merakilane.com/wp-content/uploads/2024/07/5-2.png)](https://www.merakilane.com/15-greens-powder-recipes-that-actually-taste-good/)
+    [![16 Savory Leek Recipes that Hit the Spot | Leeks are a nutritious vegetable that offer many health benefits, from reducing inflammation to promoting healthy digestion and more. But how do you prepare and cook leeks, and what can you make with them other than leek soup? We're sharing everything you need to know in this post. Chicken and leeks are a popular dish, but you can also enjoy them roasted, pickled, grilled, and fresh out of the air fryer. Click for our favorite recipes!](https://www.merakilane.com/wp-content/uploads/2024/08/featured-images-july-8th-3.png)](https://www.merakilane.com/16-savory-leek-recipes-that-hit-the-spot/)
     
-    ### [15 Greens Powder Recipes that Actually Taste Good](https://www.merakilane.com/15-greens-powder-recipes-that-actually-taste-good/)
+    ### [16 Savory Leek Recipes that Hit the Spot](https://www.merakilane.com/16-savory-leek-recipes-that-hit-the-spot/)
     
-    [![12 Healthy Meal Planning Tips for Shift Workers | If you are a night shift worker, it can be incredibly difficult to find a healthy routine that allows you to squeeze everything in -- deep, restorative sleep, a good workout routine, time with loved ones, self-care, and healthy, clean eating. It can be much easier to rely on takeout and grab and go options, but we've done the hard work for you -- click for our best meal planning tips and meal prep hacks so you can create a meal plan you love.](https://www.merakilane.com/wp-content/uploads/2024/07/4-3.png)](https://www.merakilane.com/12-healthy-meal-planning-tips-for-shift-workers/)
+    [![15 Simple and Delicious Portobello Mushroom Recipes | High in riboflavin, niacin, and pantothenic acid (B vitamins), mushrooms are said to improve energy and immunity while also providing mental health benefits. They are a healthy addition to any diet, and you can enjoy them so many ways! You can eat them stuffed, sautéed, sliced over a salad, cooked on the BBQ, or fresh out of the air fryer. Click to learn how to cook portobello mushrooms plus the best recipes that are easy and delicious!](https://www.merakilane.com/wp-content/uploads/2024/08/5-1.png)](https://www.merakilane.com/15-simple-and-delicious-portabella-mushroom-recipes/)
     
-    ### [12 Healthy Meal Planning Tips for Shift Workers](https://www.merakilane.com/12-healthy-meal-planning-tips-for-shift-workers/)
+    ### [15 Simple and Delicious Portabella Mushroom Recipes](https://www.merakilane.com/15-simple-and-delicious-portabella-mushroom-recipes/)
     
 * [Mental Health](https://www.merakilane.com/category/mental-health/)
     
@@ -91,17 +91,17 @@ Main Menu
     
     [Everything Else](https://www.merakilane.com/category/mental-health/)
     
+    [![How to Get Over a Breakup: 9 Ways to Heal | Moving on after heart break can be incredibly difficult. Whether you were the one to initiative the breakup, you need tips for navigating a breakup when you have kids, or you're a parent of teens who are experiencing the ups and downs of relationships for the first time, this post has tons of tips to help you (or your kids) deal with it all in a healthy way. From self-care, to writing in a journal, to self-discovery, and more, these ideas will help.](https://www.merakilane.com/wp-content/uploads/2024/08/7-2.png)](https://www.merakilane.com/how-to-get-over-a-breakup-9-ways-to-heal/)
+    
+    ### [How to Get Over a Breakup: 9 Ways to Heal](https://www.merakilane.com/how-to-get-over-a-breakup-9-ways-to-heal/)
+    
+    [![How to Set Boundaries with Yourself | The internet is full of tips to help you learn how to set healthy boundaries with friends, family, colleagues, and even your boss, but sometimes the person you need to set boundaries with it YOU. Personal boundaries are important as they keep us healthy, safe, and accountable to our personal goals. Think of them as a form of self-respect and self-care, allowing you to prioritize your own needs above others. Click to learn how to set personal boundaries.](https://www.merakilane.com/wp-content/uploads/2024/08/5.png)](https://www.merakilane.com/how-to-set-boundaries-with-yourself-5-tips-to-help/)
+    
+    ### [How to Set Boundaries with Yourself: 5 Tips to Help](https://www.merakilane.com/how-to-set-boundaries-with-yourself-5-tips-to-help/)
+    
     [![12 Traits Of Narcissistic Men & How to Deal with Them | If you suspect your boyfriend, husband, dad, brother, or boss is a narcissist, this post is a great resource. We share the main types of narcissism, the differences between narcissistic women and men, we outline the characteristics of narcissism that are specific to men, and also provide tips to make interacting with these people easier. If you're thinking of leaving a man (or need to heal from a man) with NPD, this post is for you.](https://www.merakilane.com/wp-content/uploads/2024/07/2-3.png)](https://www.merakilane.com/12-traits-of-narcissistic-men-how-to-deal-with-them/)
     
     ### [12 Traits Of Narcissistic Men & How to Deal with Them](https://www.merakilane.com/12-traits-of-narcissistic-men-how-to-deal-with-them/)
-    
-    [![13 Traits Of Narcissistic Women & How to Deal with Them | The term "narcissist" is thrown around a lot but it isn't always used correctly so i's important to learn the characteristics of narcissism and the different types. In this post, we share signs in women vs men, we outline the characteristics of narcissism that are specific to females, and we also provide tips to make interacting with these people easier. If you think your mom, sister, aunt, boss, or friend has NPD, this is for you.](https://www.merakilane.com/wp-content/uploads/2024/07/1-4.png)](https://www.merakilane.com/13-traits-of-narcissistic-women-how-to-deal-with-them/)
-    
-    ### [13 Traits Of Narcissistic Women & How to Deal with Them](https://www.merakilane.com/13-traits-of-narcissistic-women-how-to-deal-with-them/)
-    
-    [![20 Healthy Tips for Night Shift Workers | It can be hard to figure out and stick to a healthy sleep routine as a shift worker, let alone commit to a regular workout schedule and make the time to plan and prep healthy meals and snacks. If this resonates with you, this post is just what you need. We're sharing practical tips to help you make the most of your schedule so you can find time for all of it -- quality time with friends and loved ones, quality sleep, exercise, balanced meals, and more!](https://www.merakilane.com/wp-content/uploads/2024/07/6-1.png)](https://www.merakilane.com/20-healthy-tips-for-night-shift-workers/)
-    
-    ### [20 Healthy Tips for Night Shift Workers](https://www.merakilane.com/20-healthy-tips-for-night-shift-workers/)
     
 * [Family](https://www.merakilane.com/category/family/)
     
@@ -117,17 +117,17 @@ Main Menu
     
     [Travel Guides](https://www.merakilane.com/category/family-travel-guides/)
     
-    [![How to Deal with Defiant Teens: 9 Tips for Parents | Raising a child is never easy, but the teenage years can be particularly difficult. This is a time when kids want to be more independent from their family, and they start to test boundaries, express their individuality, and assert themselves. They may get involved with the wrong group, become rebellious, challenge your rules, speak disrespectfully...the list goes on. Click for parenting tips and consequences to help you raise teens.](https://www.merakilane.com/wp-content/uploads/2024/07/3-4.png)](https://www.merakilane.com/how-to-deal-with-defiant-teens-9-tips-for-parents/)
+    [![21 Tape Art Projects for All Ages | Masking tape, painters tape, duct tape (note: it's NOT "duck tape!"), washi tape, scotch tape, and any other type of adhesive tape doubles as a versatile crafting medium. From wall murals, to abstract canvas designs, to picture frames, to bracelets, to cellphone cases, to nail art, to no-sew purses and wallets, there are so many creative things you can make with a roll of tape. Click for our favorite ideas for toddlers, school-aged kids, tweens, and teens!](https://www.merakilane.com/wp-content/uploads/2024/09/7.png)](https://www.merakilane.com/21-tape-art-projects-for-all-ages-and-stages/)
     
-    ### [How to Deal with Defiant Teens: 9 Tips for Parents](https://www.merakilane.com/how-to-deal-with-defiant-teens-9-tips-for-parents/)
+    ### [21 Tape Art Projects for All Ages and Stages](https://www.merakilane.com/21-tape-art-projects-for-all-ages-and-stages/)
     
-    [![How to Raise Emotionally Healthy Boys: 21 Tips for Parents | If you grew up in a family with stereotypical roles and views, toxic masculinity is a narrative you are all too familiar with. Boys are often taught that vulnerability is a weakness, crying is unacceptable, and any public display of emotion should be avoided at all costs. If you want to break the cycle and raise boys who are comfortable expressing their feelings so they can have healthy relationships, this post is for you!](https://www.merakilane.com/wp-content/uploads/2024/07/10.png)](https://www.merakilane.com/how-to-raise-emotionally-healthy-boys-21-tips-for-parents/)
+    [![46 Teen Slang Words of 2024 & What They Mean | Bussin, Drip & Rizz! Say what? These are a few of the current popular words carried over from 2023, and while you may have heard your teenagers throwing these phrases around with their friends, do you know what they mean? If not, we have you covered. Click for a list of 46 popular gen Z and gen alpha slang words, what they mean, and how to use them so you can better understand and communicate with your teenage son and/or daughter.](https://www.merakilane.com/wp-content/uploads/2024/09/5.png)](https://www.merakilane.com/46-teen-slang-words-of-2024-all-parents-should-know/)
     
-    ### [How to Raise Emotionally Healthy Boys: 21 Tips for Parents](https://www.merakilane.com/how-to-raise-emotionally-healthy-boys-21-tips-for-parents/)
+    ### [46 Teen Slang Words of 2024 All Parents Should Know](https://www.merakilane.com/46-teen-slang-words-of-2024-all-parents-should-know/)
     
-    [![18 Healthy School Lunches Kids Can Make Themselves | The moment your kids can pack their own lunch, the second part of your life begins, lol. The good news is that kids can learn how to make their own lunches much earlier than you think, and while it may require a bit of supervision on your part initially, giving your kids lunchbox ideas to choose from can help. If you're looking for ideas for lunches kids can make, this post is a great place to start -- especially if you have picky eaters!](https://www.merakilane.com/wp-content/uploads/2024/07/7.png)](https://www.merakilane.com/18-healthy-school-lunches-kids-can-make-themselves/)
+    [![The Busy Moms Guide to an Organized Car | As a mom, it can sometimes feel like you're living in your car. School pick-up, drop-off, extracurriculars, errands, family summer road trips and all of the gear (and snacks!) each of these require can leave even the most organized mom feeling overwhelmed If this sounds like you, we've curated tons of tips and hacks to transform the aesthetic of your car from cluttered to organized using DIY items and organizers from dollar tree and amazon!](https://www.merakilane.com/wp-content/uploads/2024/09/2-1.png)](https://www.merakilane.com/10-genius-car-organization-ideas-for-busy-moms/)
     
-    ### [18 Healthy School Lunches Kids Can Make Themselves](https://www.merakilane.com/18-healthy-school-lunches-kids-can-make-themselves/)
+    ### [10 Genius Car Organization Ideas for Busy Moms](https://www.merakilane.com/10-genius-car-organization-ideas-for-busy-moms/)
     
 * [Contact](https://www.merakilane.com/contact/)
 
@@ -234,30 +234,22 @@ Search  Search
 
 [follow us @merakilane](https://www.instagram.com/merakilane/)
 
-[![it’s not too late and you are not too old. ✌🏻
-🎥 taken during our getaway to aruba
-#wordstoremember #powerfulthoughts #itsnottoolate #getoutofyourownway #getunstuck #adulting101 #changeyourthoughtschangeyourlife #positiveaffirmation #makemoves #noexcusesjustresults #stopmakingexcuses #thingsiwanttoremember #lifeonpurpose #courageovercomfort #ceoofmylife](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C-DPtVDs5ik/)
-
-[do you have any special talents? ☕️✈️ #tr ![do you have any special talents? ☕️✈️
-#trends #funnymemes #makemelaugh #relateablememes #canyourelate #torontomom #canadianmoms #funnyreels #coffeeadict #travelwithus #momofteenagers #momlife #momhumor #imfunny](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C-At7HuJ-8H/) 
-
-[i have always wanted to learn how to take a mirror ![i have always wanted to learn how to take a mirror selfie and challenged myself to learn while we were in aruba. so many of you followed along when I posted them to my stories each day, and it really helped reduce the second hand embarrassment I felt. ☺️ as it turns out, a lot of you also struggle with mirror selfies, so I thought I’d share the tips my friend nancy (@thecalibamamom ) sent to me:
-—stand directly in the middle of the mirror
-—turn the lower half of your body slightly to one side
-—bend the knee of the leg in front
-—do something with the arm/hand that isn’t holding the camera
-—look at yourself in your phone instead of the mirror and then take the photo
-—once you’ve mastered this pose, try lowering the phone slightly and looking into the mirror, but be careful not to tilt your head up
-lmk if these help! ✨
-#mirrorselfies #unbothered #unapologetic #lessonslearnedinlife #lessonsinlife #adulting101 #coolmom #momsarethebest #makemelaugh #momconfessions #realmom #realmotherhood #40andfabulous #womenover40 #getoutofyourownway #nottooold #torontomom #canadianmoms](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C97xAIxOAO3/) 
-
-[it’s amazing what a little sand and sun can do f ![it’s amazing what a little sand and sun can do for the soul. 🥂
-#trends #travelinstagram #travelinspo #makemelaugh #funnymemes #relatablememes #canyourelate #notsorry #unapologetic #unbothered #torontomom #canadianmoms #bucketlistadventures #borntotravel #lovetheview #crashingwaves #turquoisewaters #sandandsea #travelwithus #beachpics](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C94vZVbuYdc/) 
-
-[this mindset >>>   🎥 @wildmediaco 📸 @thisis ![this mindset >>>
+[tbh, sometimes it takes 3…🥂 🎥 @wildmediac ![tbh, sometimes it takes 3…🥂
 🎥 @wildmediaco
 📸 @thisismaxpower
-#momtruths #realmom #raisingdaughters #realmotherhood  #workingmothers #momswhowork #momconfessions #momsupportingmoms #canyourelate #womenentrepreneurs #torontomom #canadianmom](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C92zBapvA81/) 
+#relatables #relatablememe #relatablereels #relatablemom #relatableposts #anxiousaf #anxiousmom #anxiousmoms #realmom #realmomlife #momtruth #momtruths #momhumor #imfunny #funnymeme #funnyreel #funnyreelsvideo #funnymoms #makemelaugh #womenover40 #40andfit #40andfabulous #canadianmom #torontomom](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C_vXfWNpRyT/) 
+
+[psa: other people’s feelings are just as valid a ![psa: other people’s feelings are just as valid as your own. ✨
+#powerfulwords #powerfulthoughts #spilledthoughts #friendlyreminder #gentlereminder #thingsiwanttoremember #thoughtsoftheday #adulting101 #wordstoremember #lessonsoflife #lifelessonslearned](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C_svCJsu_fm/) 
+
+[choose people who choose you. ❤️ #lifelessons ![choose people who choose you. ❤️
+#lifelessonslearned #lessonslearnedinlife #wordstoremember #adulting101 #powerfulwords #powerfulthoughts #spilledthoughts #friendlyreminder #thoughtsoftheday](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C_qU_iiucLg/) 
+
+[i can’t be the only one? 🤷🏼‍♀️ #rel ![i can’t be the only one? 🤷🏼‍♀️
+#relatables #relatablememes #relatablemom #relatableposts #anxiousmoms #anxiousmom #realmom #realmomlife #momtruth #momtruths #momhumor #imfunny #funnymeme #funnyreel #funnymoms #momlife #makemelaugh #womenover40 #40andfit #40andfabulous #canadianmom #torontomom](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C_nu2k9phKT/) 
+
+[keep going. 🫶🏻 #simplereminders #reminderto ![keep going. 🫶🏻
+#simplereminders #remindertoself #hardday #toughday #roughday #lessonslearned #lifelessonslearned #thingsiwanttoremember #adulting101 #adultingishard #wordstoremember #spilledthoughts #gentlereminder #friendlyreminder](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C_ianWZOzf6/) 
 
 COPYRIGHT © 2022 MERAKI LANE INC. · [Site Credit](https://lennoxcreative.co/)
 
