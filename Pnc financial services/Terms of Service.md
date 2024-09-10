@@ -30,7 +30,7 @@ Remember User ID
 
 DO NOT check this box if you are using a public computer. User IDs potentially containing sensitive information will not be saved.
 
-[Forgot ID or Password?](https://www.onlinebanking.pnc.com/alservlet/ForgotUserIdServlet)
+[Forgot ID or Password?](https://secure.pnc.com/web-auth/verify-user/confirm-your-info)
 
 or [Enroll In Online Banking](https://secure.pnc.com/web-auth/enrollment/verify-identity)
 
@@ -234,7 +234,7 @@ Remember User ID
 
 DO NOT check this box if you are using a public computer. User IDs potentially containing sensitive information will not be saved.
 
-[Forgot ID or Password?](https://www.onlinebanking.pnc.com/alservlet/ForgotUserIdServlet)
+[Forgot ID or Password?](https://secure.pnc.com/web-auth/verify-user/confirm-your-info)
 
 or [Enroll In Online Banking](https://secure.pnc.com/web-auth/enrollment/verify-identity)
 
