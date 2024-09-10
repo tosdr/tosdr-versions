@@ -78,12 +78,6 @@ SendGrid is used by this website to process and deliver emails.
 
 [Privacy Policy](https://sendgrid.com/policies/privacy/)
 
-**Antispam by Cleantalk**
-
-This site uses the CleanTalk Anti-Spam service to protect the site from spam. The service uses Cookies and receives some information about the site visitor's browser and other data such as user name, e-mail addresses, IP and some other.
-
-[Privacy Policy](https://cleantalk.org/publicoffer)
-
 * [All Activity](https://www.mouse-sensitivity.com/discover/)
 
 * [Home](https://www.mouse-sensitivity.com/ "Home")
