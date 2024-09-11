@@ -2,9 +2,9 @@ Menu Icon
 
 [Tubi logo](https://tubitv.com/home)
 
-Browse
+[BrowseArrowhead Down Icon](https://tubitv.com/categories)[Movies](https://tubitv.com/movies)[TV Shows](https://tubitv.com/tv-shows)[Live TV](https://tubitv.com/live)EspañolTubi Kids
 
-[Sign In](https://tubitv.com/login?redirect=)[Register](https://tubitv.com/signup?redirect=)
+[Sign In](https://tubitv.com/login?redirect=/static/privacy)[Register](https://tubitv.com/signup?redirect=/static/privacy)
 
 Search Icon
 
@@ -24,11 +24,11 @@ privacy
 * COMPANY
 * [About Us](https://corporate.tubitv.com/)
 * [Careers](https://corporate.tubitv.com/company/careers/)
-* [Contact](mailto:content-submissions@tubi.tv)
+* [Contact](https://corporate.tubitv.com/company/contact-us/)
 
 * SUPPORT
 * [Contact Support](https://tubitv.com/static/support)
-* [Help Centre](https://tubitv.com/help-center)
+* [Help Center](https://tubitv.com/help-center)
 * [Supported Devices](https://tubitv.com/static/devices)
 * [Activate Your Device](https://tubitv.com/activate)
 * [Accessibility](https://tubitv.com/help-center/Accessibility/articles/15056366740763)
@@ -40,6 +40,7 @@ privacy
 * GET THE APPS
 * [iOS](https://itunes.apple.com/app/tubi-tv-watch-free-movies/id886445756?mt=8)
 * [Android](https://play.google.com/store/apps/details?id=com.tubitv)
+* [Roku](https://channelstore.roku.com/details/41468/tubi-tv)
 * [Amazon Fire](https://www.amazon.com/Tubi-Inc-Free-Movies-TV/dp/B075NTHVJW)
 
 * PRESS
@@ -49,16 +50,16 @@ privacy
 * LEGAL
 * [Privacy Policy (Updated)](https://tubitv.com/static/privacy)
 * [Terms of Use (Updated)](https://tubitv.com/static/terms)
+* [Your Privacy Choices](https://tubitv.com/privacy/your-privacy-choices)
 * [Cookies](https://tubitv.com/static/cookies)
-* [Privacy Centre](https://tubitv.com/privacy-center)
 
-[](https://itunes.apple.com/app/tubi-tv-watch-free-movies/id886445756?mt=8)[](https://play.google.com/store/apps/details?id=com.tubitv)
+[](https://itunes.apple.com/app/tubi-tv-watch-free-movies/id886445756?mt=8)[](https://play.google.com/store/apps/details?id=com.tubitv)[](https://www.microsoft.com/store/apps/9N1SV6841F0B?cid=web-footer-badge)
 
 Copyright © 2024 Tubi, Inc.
 
 Tubi is a registered trademark of Tubi, Inc.  
 All rights reserved.
 
-Device ID: f54071af-e0b5-4088-b734-50d25285c4e9
+Device ID: f57a07c3-ed49-498f-be8f-1fd090f54db8
 
 Made with Heart in San Francisco
