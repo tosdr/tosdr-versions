@@ -7,7 +7,7 @@
 * Deploy
     
     * [Create Project](https://docs.zeabur.com/docs/deploy/create-project)
-    * [Domain Binding](https://docs.zeabur.com/docs/deploy/domain-binding)
+    * Domain Binding
     * [Root Directory](https://docs.zeabur.com/docs/deploy/root-directory)
     * [Watch Paths](https://docs.zeabur.com/docs/deploy/watch-paths)
     * [Deploy with Dockerfile](https://docs.zeabur.com/docs/deploy/dockerfile)
@@ -15,7 +15,7 @@
     * [Backup Service](https://docs.zeabur.com/docs/deploy/backup)
     * [Custom Prebuilt](https://docs.zeabur.com/docs/deploy/customize-prebuilt)
     * [Integrating with GitHub](https://docs.zeabur.com/docs/deploy/github)
-    * [Private Networking](https://docs.zeabur.com/docs/deploy/private-networking)
+    * Private Networking
     * [Special Variables](https://docs.zeabur.com/docs/deploy/special-variables)
     * [Deploy in CLI](https://docs.zeabur.com/docs/deploy/deploy-in-cli)
     * [Config Editing](https://docs.zeabur.com/docs/deploy/config-edit)
@@ -23,12 +23,18 @@
     * [Pull Request Preview](https://docs.zeabur.com/docs/deploy/preview)
     * [Enable Serverless](https://docs.zeabur.com/docs/deploy/serverless)
     * [Execute Commands](https://docs.zeabur.com/docs/deploy/command-execution)
+    * [Update Image Reference](https://docs.zeabur.com/docs/deploy/update-image-reference)
     
 * Template
     
     * [Create Template](https://docs.zeabur.com/docs/template/create-template)
     * [Creating Templates from YAML](https://docs.zeabur.com/docs/template/template-in-code)
     * [Fork Code from Template Services](https://docs.zeabur.com/docs/template/fork-git-repo-from-template)
+    
+* Networking
+    
+    * [Public Networking](https://docs.zeabur.com/docs/networking/public)
+    * [Private Networking](https://docs.zeabur.com/docs/networking/private)
     
 * Guides
     
@@ -123,168 +129,6 @@
     * [Fair use Guidelines](https://docs.zeabur.com/docs/legal/fair-use-guideline)
     * [Privacy Policy](https://docs.zeabur.com/docs/legal/privacy)
     * [Terms of Service](https://docs.zeabur.com/docs/legal/terms)
-    
-* Payments and Billing
-    
-    * [Pricing](https://docs.zeabur.com/docs/billing/pricing)
-    * [Plans](https://docs.zeabur.com/docs/billing/plans)
-    * [Subscription](https://docs.zeabur.com/docs/billing/subscription)
-    * [Referral](https://docs.zeabur.com/docs/billing/referral)
-    * [Sponsor](https://docs.zeabur.com/docs/billing/sponsor)
-    
-* Community
-    
-    * [Verify](https://docs.zeabur.com/docs/community/verify)
-    * [Get Help](https://docs.zeabur.com/docs/community/help)
-    
-* Advanced
-    
-    * [Builds](https://docs.zeabur.com/docs/advanced/builds)
-    * [Serverless output format](https://docs.zeabur.com/docs/advanced/serverless-output-format)
-    
-* Developer
-    
-    * [Use API Key](https://docs.zeabur.com/docs/developer/use-api-key)
-    * [Public API](https://docs.zeabur.com/docs/developer/public-api)
-    
-
-* [Introduction](https://docs.zeabur.com/docs)
-* [Get Started](https://docs.zeabur.com/docs/get-started)
-* Deploy
-    
-    * [Create Project](https://docs.zeabur.com/docs/deploy/create-project)
-    * [Domain Binding](https://docs.zeabur.com/docs/deploy/domain-binding)
-    * [Root Directory](https://docs.zeabur.com/docs/deploy/root-directory)
-    * [Watch Paths](https://docs.zeabur.com/docs/deploy/watch-paths)
-    * [Deploy with Dockerfile](https://docs.zeabur.com/docs/deploy/dockerfile)
-    * [Deploy Button](https://docs.zeabur.com/docs/deploy/deploy-button)
-    * [Backup Service](https://docs.zeabur.com/docs/deploy/backup)
-    * [Custom Prebuilt](https://docs.zeabur.com/docs/deploy/customize-prebuilt)
-    * [Integrating with GitHub](https://docs.zeabur.com/docs/deploy/github)
-    * [Private Networking](https://docs.zeabur.com/docs/deploy/private-networking)
-    * [Special Variables](https://docs.zeabur.com/docs/deploy/special-variables)
-    * [Deploy in CLI](https://docs.zeabur.com/docs/deploy/deploy-in-cli)
-    * [Config Editing](https://docs.zeabur.com/docs/deploy/config-edit)
-    * [Environment Variables](https://docs.zeabur.com/docs/deploy/variables)
-    * [Pull Request Preview](https://docs.zeabur.com/docs/deploy/preview)
-    * [Enable Serverless](https://docs.zeabur.com/docs/deploy/serverless)
-    * [Execute Commands](https://docs.zeabur.com/docs/deploy/command-execution)
-    
-* Template
-    
-    * [Create Template](https://docs.zeabur.com/docs/template/create-template)
-    * [Creating Templates from YAML](https://docs.zeabur.com/docs/template/template-in-code)
-    * [Fork Code from Template Services](https://docs.zeabur.com/docs/template/fork-git-repo-from-template)
-    
-* Guides
-    
-    * [Node.js](https://docs.zeabur.com/docs/guides/nodejs)
-        
-        * [Astro](https://docs.zeabur.com/docs/guides/nodejs/astro)
-        * [Deploy Qwik Project](https://docs.zeabur.com/docs/guides/nodejs/qwik)
-        * [Express](https://docs.zeabur.com/docs/guides/nodejs/express)
-        * [NestJS](https://docs.zeabur.com/docs/guides/nodejs/nestjs)
-        * [Next.js](https://docs.zeabur.com/docs/guides/nodejs/nextjs)
-        * [Nue](https://docs.zeabur.com/docs/guides/nodejs/nue)
-        * [Nuxt](https://docs.zeabur.com/docs/guides/nodejs/nuxt)
-        * [Remix](https://docs.zeabur.com/docs/guides/nodejs/remix)
-        * [Svelte Kit](https://docs.zeabur.com/docs/guides/nodejs/svelte-kit)
-        * [Umi](https://docs.zeabur.com/docs/guides/nodejs/umi)
-        * [Vite](https://docs.zeabur.com/docs/guides/nodejs/vite)
-        * [Waku](https://docs.zeabur.com/docs/guides/nodejs/waku)
-        
-    * [Bun](https://docs.zeabur.com/docs/guides/bun)
-        
-        * [ElysiaJS](https://docs.zeabur.com/docs/guides/bun/elysiajs)
-        * [Hono](https://docs.zeabur.com/docs/guides/bun/hono)
-        
-    * [Java](https://docs.zeabur.com/docs/guides/java)
-        
-        * [Spring Boot](https://docs.zeabur.com/docs/guides/java/spring-boot)
-        
-    * [PHP](https://docs.zeabur.com/docs/guides/php)
-        
-        * [Laravel](https://docs.zeabur.com/docs/guides/php/laravel)
-        
-    * [Python](https://docs.zeabur.com/docs/guides/python)
-        
-        * [Django](https://docs.zeabur.com/docs/guides/python/django)
-        * [Flask](https://docs.zeabur.com/docs/guides/python/flask)
-        * [Reflex](https://docs.zeabur.com/docs/guides/python/reflex)
-        
-    * [Go](https://docs.zeabur.com/docs/guides/go)
-    * Deno
-        
-        * [Fresh](https://docs.zeabur.com/docs/guides/deno/fresh)
-        * [TypeScript](https://docs.zeabur.com/docs/guides/deno/typescript)
-        
-    * [Rust](https://docs.zeabur.com/docs/guides/rust)
-    * Swift
-        
-        * [Vapor](https://docs.zeabur.com/docs/guides/swift/vapor)
-        
-    * Dart
-        
-        * [Flutter](https://docs.zeabur.com/docs/guides/dart/flutter)
-        
-    * Static
-        
-        * [Hugo](https://docs.zeabur.com/docs/guides/static/hugo)
-        * [MkDocs](https://docs.zeabur.com/docs/guides/static/mkdocs)
-        
-    * [.NET](https://docs.zeabur.com/docs/guides/dotnet)
-    
-* Project Manage
-    
-    * [Service Usage](https://docs.zeabur.com/docs/manage/metric)
-    * [Invite Member](https://docs.zeabur.com/docs/manage/invite)
-    * [Project Budget](https://docs.zeabur.com/docs/manage/budget)
-    
-* Service Marketplace
-    
-    * [Deploy Dragonfly Service](https://docs.zeabur.com/docs/marketplace/dragonfly)
-    * [Deploy Flowise](https://docs.zeabur.com/docs/marketplace/flowise)
-    * [Deploy Focalboard](https://docs.zeabur.com/docs/marketplace/focalboard)
-    * [Deploy Ghost](https://docs.zeabur.com/docs/marketplace/ghost)
-    * [Deploy Halo](https://docs.zeabur.com/docs/marketplace/halo)
-    * [Deploy Likit](https://docs.zeabur.com/docs/marketplace/likit)
-    * [Deploy Linkwarden](https://docs.zeabur.com/docs/marketplace/linkwarden)
-    * [Deploy Logto](https://docs.zeabur.com/docs/marketplace/logto)
-    * [Deploy Memos](https://docs.zeabur.com/docs/marketplace/memos)
-    * [Deploy MongoDB](https://docs.zeabur.com/docs/marketplace/mongodb)
-    * [Deploy MySQL](https://docs.zeabur.com/docs/marketplace/mysql)
-    * [Deploy n8n](https://docs.zeabur.com/docs/marketplace/n8n)
-    * [Deploy PostgreSQL](https://docs.zeabur.com/docs/marketplace/postgresql)
-    * [Deploy RabbitMQ](https://docs.zeabur.com/docs/marketplace/rabbitmq)
-    * [Deploy Redis](https://docs.zeabur.com/docs/marketplace/redis)
-    * [Deploy RSSHub](https://docs.zeabur.com/docs/marketplace/rsshub)
-    * [Deploy Tiny Tiny RSS](https://docs.zeabur.com/docs/marketplace/ttrss)
-    * [Deploy Umami](https://docs.zeabur.com/docs/marketplace/umami)
-    * [Deploy Uptime Kuma](https://docs.zeabur.com/docs/marketplace/uptime-kuma)
-    * [Deploy WeWe RSS](https://docs.zeabur.com/docs/marketplace/wewe-rss)
-    * [Deploy WordPress](https://docs.zeabur.com/docs/marketplace/wordpress)
-    
-* Legal and Policies
-    
-    * [Fair use Guidelines](https://docs.zeabur.com/docs/legal/fair-use-guideline)
-    * [Privacy Policy](https://docs.zeabur.com/docs/legal/privacy)
-    * [Terms of Service](https://docs.zeabur.com/docs/legal/terms)
-        * [Summary](#summary)
-        * [1\. Basic Introduction](#1-basic-introduction)
-        * [2\. Terms of Change](#2-terms-of-change)
-        * [3\. Privacy Policy](#3-privacy-policy)
-        * [4\. Basic Requirements](#4-basic-requirements)
-        * [5\. Communications](#5-communications)
-        * [6\. Restrictions on Use](#6-restrictions-on-use)
-        * [7\. Rights](#7-rights)
-        * [8\. Content License](#8-content-license)
-        * [9\. Intellectual Property Disputes](#9-intellectual-property-disputes)
-        * [10\. Limitation of Liability](#10-limitation-of-liability)
-        * [11\. Service Changes](#11-service-changes)
-        * [12\. Fees](#12-fees)
-        * [13\. Termination](#13-termination)
-        * [14\. Promotional Rewards](#14-promotional-rewards)
-        * [15\. Other](#15-other)
     
 * Payments and Billing
     
@@ -312,7 +156,7 @@
 
 English
 
-light
+Light
 
 On This Page
 
@@ -638,7 +482,7 @@ Unless otherwise expressly provided, you and Zeabur agree that there are no thir
 
 English
 
-light
+Light
 
 * * *
 
