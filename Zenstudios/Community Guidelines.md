@@ -19,7 +19,7 @@
 * [Reddit](https://www.reddit.com/r/PinballFX3/)
 * [Twitch](https://www.twitch.tv/zenstudios)
 
-[![Texas Chainsaw Massacre Pinball](https://zensite.wpenginepowered.com/wp-content/uploads/2024/05/Zen_web_background_TCM-scaled.jpg)](https://zenstudios.com/games/texas-chainsaw-massacre-pinball/)
+[![The Princess Bride Pinball](https://zensite.wpenginepowered.com/wp-content/uploads/2024/08/3840-2160-max-15-scaled.jpg)](https://zenstudios.com/games/the-princess-bride-pinball/)
 
 * [YouTube](http://www.youtube.com/user/zenstudiosgames)
 * [Instagram](http://instagram.com/zen_studios)
