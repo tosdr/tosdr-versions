@@ -241,7 +241,7 @@ Skip to main content
                     
                 * #### [Software](https://www.workday.com/en-us/company/partners/software-partners.html "Software")
                     
-        * ### [Become a Partner](https://www.workday.com/en-us/company/partners/become-a-partner.html "Become a Partner")
+        * ### [Partner Program](https://www.workday.com/en-us/company/partners/partner-program-overview.html "Partner Program")
             
         * ### [Marketplace](https://marketplace.workday.com/ "Marketplace")
             
@@ -291,43 +291,86 @@ Skip to main content
         * ### [Newsroom](https://newsroom.workday.com/ "Newsroom")
             
     
-* * [United States (English)](https://www.workday.com/en-us/homepage.html "United States (English)")
+
+* Region & Language
     
-    * [Australia (English)](https://www.workday.com/en-au/homepage.html "Australia (English)")
-    * [Belgium (English)](https://www.workday.com/en-be/homepage.html "Belgium (English)")
-    * [Canada (English)](https://www.workday.com/en-ca/homepage.html "Canada (English)")
-    * [Canada (Français)](https://www.workday.com/fr-ca/homepage.html "Canada (Français)")
-    * [Denmark (English)](https://www.workday.com/en-se/homepage.html "Denmark (English)")
-    * [Deutschland (Deutsch)](https://www.workday.com/de-de/homepage.html "Deutschland (Deutsch)")
-    * [España (Español)](https://www.workday.com/es-es/homepage.html "España (Español)")
-    * [Finland (English)](https://www.workday.com/en-se/homepage.html "Finland (English)")
-    * [France (Français)](https://www.workday.com/fr-fr/homepage.html "France (Français)")
-    * [Hong Kong (English)](https://www.workday.com/en-hk/homepage.html "Hong Kong (English)")
-    * [Indonesia (English)](https://www.workday.com/en-sg/homepage.html "Indonesia (English)")
-    * [Ireland (English)](https://www.workday.com/en-gb/homepage.html "Ireland (English)")
-    * [Italia (Italiano)](https://www.workday.com/it-it/homepage.html "Italia (Italiano)")
-    * [日本 (日本語)](https://www.workday.com/ja-jp/homepage.html "日本 (日本語)")
-    * [대한민국 (한국어)](https://www.workday.com/ko-kr/homepage.html "대한민국 (한국어)")
-    * [Luxembourg (English)](https://www.workday.com/en-be/homepage.html "Luxembourg (English)")
-    * [Malaysia (English)](https://www.workday.com/en-sg/homepage.html "Malaysia (English)")
-    * [México (Español)](https://www.workday.com/es-mx/homepage.html "México (Español)")
-    * [Nederland (Nederlands)](https://www.workday.com/nl-nl/homepage.html "Nederland (Nederlands)")
-    * [New Zealand (English)](https://www.workday.com/en-au/homepage.html "New Zealand (English)")
-    * [Norway (English)](https://www.workday.com/en-se/homepage.html "Norway (English)")
-    * [Österreich (Deutsch)](https://www.workday.com/de-de/homepage.html "Österreich (Deutsch)")
-    * [Schweiz (Deutsch)](https://www.workday.com/de-ch/homepage.html "Schweiz (Deutsch)")
-    * [Suisse (Français)](https://www.workday.com/fr-ch/homepage.html "Suisse (Français)")
-    * [Switzerland (English)](https://www.workday.com/en-ch/homepage.html "Switzerland (English)")
-    * [Singapore (English)](https://www.workday.com/en-sg/homepage.html "Singapore (English)")
-    * [South Africa (English)](https://www.workday.com/en-za/homepage.html "South Africa (English)")
-    * [Sweden (English)](https://www.workday.com/en-se/homepage.html "Sweden (English)")
-    * [Taiwan (English)](https://www.workday.com/en-hk/homepage.html "Taiwan (English)")
-    * [台灣 (繁體中文)](https://www.workday.com/en-hk/pages/workday-for-taiwan.html "台灣 (繁體中文)")
-    * [Thailand (English)](https://www.workday.com/en-sg/homepage.html "Thailand (English)")
-    * [ประเทศไทย (ภาษาไทย)](https://www.workday.com/en-sg/pages/workday-for-thailand.html "ประเทศไทย (ภาษาไทย)")
-    * [United Kingdom (English)](https://www.workday.com/en-gb/homepage.html "United Kingdom (English)")
+    Current website:
+    
+    Region & Language
+    
+    Current website:
+    
+    * Asia-Pacific & Japan
+        * Australia
+            * [English](https://www.workday.com/en-au/homepage.html)
+        * Hong Kong
+            * [English](https://www.workday.com/en-hk/homepage.html)
+        * Indonesia
+            * [English](https://www.workday.com/en-sg/homepage.html)
+        * 日本
+            * [日本語](https://www.workday.com/ja-jp/homepage.html)
+        * 대한민국
+            * [한국어](https://www.workday.com/ko-kr/homepage.html)
+        * Malaysia
+            * [English](https://www.workday.com/en-sg/homepage.html)
+        * New Zealand
+            * [English](https://www.workday.com/en-au/homepage.html)
+        * Singapore
+            * [English](https://www.workday.com/en-sg/homepage.html)
+        * Taiwan
+            * [繁體中文](https://www.workday.com/en-hk/pages/workday-for-taiwan.html)
+            * [English](https://www.workday.com/en-hk/homepage.html)
+        * Thailand
+            * [ประเทศไทย](https://www.workday.com/en-sg/pages/workday-for-thailand.html)
+            * [English](https://www.workday.com/en-sg/homepage.html)
+    * Europe, Middle East & Africa
+        * Belgium
+            * [English](https://www.workday.com/en-be/homepage.html)
+        * Denmark
+            * [English](https://www.workday.com/en-se/homepage.html)
+        * Deutschland
+            * [Deutsch](https://www.workday.com/de-de/homepage.html)
+        * España
+            * [Español](https://www.workday.com/es-es/homepage.html)
+        * Finland
+            * [English](https://www.workday.com/en-se/homepage.html)
+        * France
+            * [Français](https://www.workday.com/fr-fr/homepage.html)
+        * Ireland
+            * [English](https://www.workday.com/en-gb/homepage.html)
+        * Italia
+            * [Italiano](https://www.workday.com/it-it/homepage.html)
+        * Luxembourg
+            * [English](https://www.workday.com/en-be/homepage.html)
+        * Nederland
+            * [Nederlands](https://www.workday.com/nl-nl/homepage.html)
+        * Norway
+            * [English](https://www.workday.com/en-se/homepage.html)
+        * Österreich
+            * [Deutsch](https://www.workday.com/de-de/homepage.html)
+        * South Africa
+            * [English](https://www.workday.com/en-za/homepage.html)
+        * Sweden
+            * [English](https://www.workday.com/en-se/homepage.html)
+        * Schweiz
+            * [Deutsch](https://www.workday.com/de-ch/homepage.html)
+            * [English](https://www.workday.com/en-ch/homepage.html)
+            * [Français](https://www.workday.com/fr-ch/homepage.html)
+        * United Kingdom
+            * [English](https://www.workday.com/en-gb/homepage.html)
+    * North America
+        * Canada
+            * [English](https://www.workday.com/en-ca/homepage.html)
+            * [Français](https://www.workday.com/fr-ca/homepage.html)
+        * México
+            * [Español](https://www.workday.com/es-mx/homepage.html)
+        * United States
+            * [English](https://www.workday.com/en-us/homepage.html)
     
 * U
+    
+    Welcome,
+    --------
     
     You have automatically signed in to workday.com with your Workday Community account.
     
@@ -369,7 +412,7 @@ Skip to main content
     * [How to Log In](https://www.workday.com/en-us/signin.html "How to Log in to Workday")
     * [Workday Careers](https://www.workday.com/en-us/company/careers/overview.html "Workday Careers")
     * [Workday Rising](https://rising.workday.com/us.html?eid=enus_evt_otrschref_wd_wd_wd_ev_22.3340&utm_medium=evt&utm_source=otrschref&productfocus=wd&aud=wd&assettype=ev&assetid=22.3340&pblr=wd&reference=wdqsrch "Workday Rising")
-    * [How Workday Supports Diversity and Inclusion](https://www.workday.com/en-us/solutions/role/enterprise-hr/diversity-inclusion-belonging-solutions.html "How Workday Supports Diversity and Inclusion")
+    * [Workday Customer Awards](https://www.workday.com/en-us/company/latest/events-webinars/customer-awards-na.html "Workday Customer Awards")
     * [Artificial Intelligence](https://www.workday.com/en-us/artificial-intelligence.html "Artificial Intelligence")
     * [Workday Demos](https://www.workday.com/en-us/resources/workday-demos.html "Workday Demos")
     * [Why Choose Workday](https://www.workday.com/en-us/why-workday.html "Why Choose Workday")
