@@ -1,6 +1,6 @@
 [Support](https://my.webo.hosting/index.php?rp=/knowledgebase)
 
-[Login](https://clients.webo.hosting/)
+[Login](https://my.webo.hosting/clientarea.php?language=english)
 
 [![Webo.Hosting](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 147 58'%3E%3C/svg%3E)
 
@@ -196,6 +196,16 @@
     [](https://clients.webo.hosting/?cmd=cart&action=add&id=9 "Nextcloud Free Single")
     
     **Free Single account** Free 5GB cloud storage
+    
+    [](https://my.webo.hosting/cart.php?a=add&pid=192 "Nextcloud Student Free")
+    
+    ![single](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 35 35'%3E%3C/svg%3E "single")
+    
+    ![single](https://webo.hosting/wp-content/uploads/2020/07/single-35x35.png "single")
+    
+    [](https://my.webo.hosting/cart.php?a=add&pid=192 "Nextcloud Student Free")
+    
+    **Free Student Account** 10GB free storage for students
     
 * [More](#)
     
@@ -582,8 +592,7 @@ We will not store or collect your payment card details. That information is prov
 
 The payment processors we work with are:
 
-* **PayPal or Braintree** Their Privacy Policy can be viewed at [https://www.paypal.com/webapps/mpp/ua/privacy-full](https://www.paypal.com/webapps/mpp/ua/privacy-full)
-* **Stripe** Their Privacy Policy can be viewed at [https://stripe.com/en-si/privacy](https://stripe.com/en-si/privacy)
+* **PayPal or Braintree**Their Privacy Policy can be viewed at [https://www.paypal.com/webapps/mpp/ua/privacy-full](https://www.paypal.com/webapps/mpp/ua/privacy-full)
 
 Links To Other Sites
 --------------------
@@ -650,7 +659,7 @@ All our services are Google/Azure/AWS free! Every server is built by us from scr
 
 * * *
 
-[Client Login](https://clients.webo.hosting/)
+[Client Login](https://my.webo.hosting/login?language=english)
 
 Contact Us:  
 [+386 68 605 033](tel:+38668605033)
@@ -687,8 +696,8 @@ Support
 =======
 
 * [FAQ](https://webo.hosting/faq/)
-* [Knowledgebase](https://clients.webo.hosting/knowledgebase/)
-* [Open a ticket](https://clients.webo.hosting/tickets/new/&dept_id=6)
+* [Knowledgebase](https://my.webo.hosting/knowledgebase.php?language=english)
+* [Open a ticket](https://my.webo.hosting/submitticket.php?language=english)
 * [Contact](https://webo.hosting/contact/)
 
 Webo Network
