@@ -7,22 +7,10 @@
         
         * * [![an icon of a man pointing at a white board](https://www.watermarkinsights.com/wp-content/uploads/2024/01/icon-_faculity-success-orange.svg)Accreditation](https://www.watermarkinsights.com/explore/accreditation/)
             * [![an icon of a certificate with a blue ribbon](https://www.watermarkinsights.com/wp-content/uploads/2024/01/icon-_award-bright-blue.svg)Assessment](https://www.watermarkinsights.com/explore/assessment/)
-            * [![a line drawing of a person climbing a graph with a flag on top](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20800'%3E%3C/svg%3E)
-                
-                ![a line drawing of a person climbing a graph with a flag on top](https://www.watermarkinsights.com/wp-content/uploads/2024/01/icon-_outcomes-assessment-projects-orange.svg)
-                
-                Curriculum management](https://www.watermarkinsights.com/solutions/curriculum-strategy/)
+            * [![a line drawing of a person climbing a graph with a flag on top](https://www.watermarkinsights.com/wp-content/uploads/2024/01/icon-_outcomes-assessment-projects-orange.svg)Curriculum management](https://www.watermarkinsights.com/solutions/curriculum-strategy/)
         * * [![an icon of a man giving a speech to a group of people](https://www.watermarkinsights.com/wp-content/uploads/2024/01/icon-_lecture-teal.svg)Faculty activity](https://www.watermarkinsights.com/solutions/faculty-success/)
-            * [![two hands holding a blue trophy with a star on it](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20800'%3E%3C/svg%3E)
-                
-                ![two hands holding a blue trophy with a star on it](https://www.watermarkinsights.com/wp-content/uploads/2024/01/icon-_student-success-engagement-bright-blue.svg)
-                
-                Student success](https://www.watermarkinsights.com/solutions/student-success/)
-            * [![an icon of a person talking on a computer screen](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20800'%3E%3C/svg%3E)
-                
-                ![an icon of a person talking on a computer screen](https://www.watermarkinsights.com/wp-content/uploads/2024/01/icon-_AI-powered-everything-chartreuse.svg)
-                
-                Course evaluations & surveys](https://www.watermarkinsights.com/solutions/course-evaluation-institutional-surveys/)
+            * [![two hands holding a blue trophy with a star on it](https://www.watermarkinsights.com/wp-content/uploads/2024/01/icon-_student-success-engagement-bright-blue.svg)Student success](https://www.watermarkinsights.com/solutions/student-success/)
+            * [![an icon of a person talking on a computer screen](https://www.watermarkinsights.com/wp-content/uploads/2024/01/icon-_AI-powered-everything-chartreuse.svg)Course evaluations & surveys](https://www.watermarkinsights.com/solutions/course-evaluation-institutional-surveys/)
         * ### Learn what **Watermark**
             
             ### has to offer your institution?
@@ -53,15 +41,11 @@
         * [eBooks & guides](https://www.watermarkinsights.com/resources/ebooks-guides)
         * [Reports](https://www.watermarkinsights.com/resources/reports)
         * [Videos](https://www.watermarkinsights.com/resources/videos)
-    * * ### Build the foundation  
-            for a **successful  
-            accreditation**
+    * * ### Navigating the enrollment cliff with Gaston College
             
-            [Register](https://go.watermarkinsights.com/WBN-2024-08-15-Building-the-foundation-for-a-successful-accred-PSS_LPRegistration.html "Register")
+            [Register](https://go.watermarkinsights.com/WBN-2024-08-29-Navigating-the-enrollment-cliff-SSE_LPRegistration.html "Register")
             
-            ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20214%20210'%3E%3C/svg%3E)
-            
-            ![](https://www.watermarkinsights.com/wp-content/uploads/2024/07/Regular-Promo-3.png)
+            ![](https://www.watermarkinsights.com/wp-content/uploads/2024/08/Regular-Promo-4.png)
             
 * [Who we are](https://www.watermarkinsights.com/about-us/)
     * * [Company](https://www.watermarkinsights.com/about-us/)
@@ -98,22 +82,10 @@
         
         * * [![an icon of a man pointing at a white board](https://www.watermarkinsights.com/wp-content/uploads/2024/01/icon-_faculity-success-orange.svg)Accreditation](https://www.watermarkinsights.com/explore/accreditation/)
             * [![an icon of a certificate with a blue ribbon](https://www.watermarkinsights.com/wp-content/uploads/2024/01/icon-_award-bright-blue.svg)Assessment](https://www.watermarkinsights.com/explore/assessment/)
-            * [![a line drawing of a person climbing a graph with a flag on top](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20800'%3E%3C/svg%3E)
-                
-                ![a line drawing of a person climbing a graph with a flag on top](https://www.watermarkinsights.com/wp-content/uploads/2024/01/icon-_outcomes-assessment-projects-orange.svg)
-                
-                Curriculum management](https://www.watermarkinsights.com/solutions/curriculum-strategy/)
+            * [![a line drawing of a person climbing a graph with a flag on top](https://www.watermarkinsights.com/wp-content/uploads/2024/01/icon-_outcomes-assessment-projects-orange.svg)Curriculum management](https://www.watermarkinsights.com/solutions/curriculum-strategy/)
         * * [![an icon of a man giving a speech to a group of people](https://www.watermarkinsights.com/wp-content/uploads/2024/01/icon-_lecture-teal.svg)Faculty activity](https://www.watermarkinsights.com/solutions/faculty-success/)
-            * [![two hands holding a blue trophy with a star on it](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20800'%3E%3C/svg%3E)
-                
-                ![two hands holding a blue trophy with a star on it](https://www.watermarkinsights.com/wp-content/uploads/2024/01/icon-_student-success-engagement-bright-blue.svg)
-                
-                Student success](https://www.watermarkinsights.com/solutions/student-success/)
-            * [![an icon of a person talking on a computer screen](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20800'%3E%3C/svg%3E)
-                
-                ![an icon of a person talking on a computer screen](https://www.watermarkinsights.com/wp-content/uploads/2024/01/icon-_AI-powered-everything-chartreuse.svg)
-                
-                Course evaluations & surveys](https://www.watermarkinsights.com/solutions/course-evaluation-institutional-surveys/)
+            * [![two hands holding a blue trophy with a star on it](https://www.watermarkinsights.com/wp-content/uploads/2024/01/icon-_student-success-engagement-bright-blue.svg)Student success](https://www.watermarkinsights.com/solutions/student-success/)
+            * [![an icon of a person talking on a computer screen](https://www.watermarkinsights.com/wp-content/uploads/2024/01/icon-_AI-powered-everything-chartreuse.svg)Course evaluations & surveys](https://www.watermarkinsights.com/solutions/course-evaluation-institutional-surveys/)
         * ### Learn what **Watermark**
             
             ### has to offer your institution?
@@ -144,15 +116,11 @@
         * [eBooks & guides](https://www.watermarkinsights.com/resources/ebooks-guides)
         * [Reports](https://www.watermarkinsights.com/resources/reports)
         * [Videos](https://www.watermarkinsights.com/resources/videos)
-    * * ### Build the foundation  
-            for a **successful  
-            accreditation**
+    * * ### Navigating the enrollment cliff with Gaston College
             
-            [Register](https://go.watermarkinsights.com/WBN-2024-08-15-Building-the-foundation-for-a-successful-accred-PSS_LPRegistration.html "Register")
+            [Register](https://go.watermarkinsights.com/WBN-2024-08-29-Navigating-the-enrollment-cliff-SSE_LPRegistration.html "Register")
             
-            ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20214%20210'%3E%3C/svg%3E)
-            
-            ![](https://www.watermarkinsights.com/wp-content/uploads/2024/07/Regular-Promo-3.png)
+            ![](https://www.watermarkinsights.com/wp-content/uploads/2024/08/Regular-Promo-4.png)
             
 * [Who we are](https://www.watermarkinsights.com/about-us/)
     * * [Company](https://www.watermarkinsights.com/about-us/)
