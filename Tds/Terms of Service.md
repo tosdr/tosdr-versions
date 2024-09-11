@@ -64,17 +64,19 @@ Menu
 
 It looks like you have javascript **disabled**. For full functionality of this site, please [enable JavaScript](http://www.enable-javascript.com/).
 
-Residential Terms of Service
-============================
+Service Terms for Residential Internet, TV, and  
+Home Phone Services  
 
-Effective September 21, 2022
+========================================================================
+
+Effective August 22, 2024  
 
  
 
 1\. Introduction
 ----------------
 
-These Residential Terms of Service (the “**Terms**”) together with the documents listed below form a legal agreement (the "**Service Agreement**") between each user of TDS’ residential internet, phone, and/or video services (collectively referred to as "**you**") and TDS Broadband Service LLC and certain affiliated parties who play a role in delivering those services (collectively referred to as “**TDS**”).  The Service Agreement includes the following documents:
+These Service Terms for Residential Internet, TV, and Home Phone Services (the “**Terms**”) together with the documents listed below form a legal agreement (the "**Service Agreement**") between each user of TDS’ residential internet, phone, and/or TV/video services (collectively referred to as "**you**") and TDS Broadband Service LLC, along with certain affiliated parties who play a role in delivering those services (collectively “**TDS**”). The Service Agreement includes the following documents:
 
 * [TDS’ Acceptable Use Policy](https://hellotds.com/acceptable-use-policy.html)
 * [TDS’ Privacy Policy](https://hellotds.com/privacy-policy.html)
@@ -91,7 +93,7 @@ This Service Agreement supersedes any prior versions and shall apply to any disp
 
 **PLEASE NOTE:**
 
-These terms contain a **mandatory arbitration agreement**. Please review the arbitration agreement in Section 7 carefully, as it requires you to resolve all disputes with TDS on an individual basis through **final and binding arbitration**. It also requires you to **forgo** jury trials, class actions, and all other types of court proceedings of any and every kind. By accepting the Service Agreement, you expressly acknowledge that you have read and understand all of its terms, **including those of the arbitration agreement**, and have taken time to consider the consequences of this important decision.
+These terms contain a **mandatory arbitration agreement**. Please review the arbitration agreement in Section 10 carefully, as it requires you to resolve all disputes with TDS on an individual basis through **final and binding arbitration**. It also requires you to **forgo** jury trials, class actions, and all other types of court proceedings of any and every kind. By accepting the Service Agreement, you expressly acknowledge that you have read and understand all of its terms, **including those of the arbitration agreement**, and have taken time to consider the consequences of this important decision.
 
  
 
@@ -216,7 +218,7 @@ Your use of the Services is subject to TDS’ Acceptable Use Policy available at
 
 **3.4. Residential Use Only; No Resale**
 
-You understand and agree that any Service ordered under the Service Agreement is being provided to you for residential, personal, and family use, and is not intended to be suitable for business use. You agree that you will not use or allow others to use any Service as the primary method to operate any type of on-line business or commercial enterprise or to use the internet Service as an internet service provider. You are not permitted to resell or redistribute (whether for a fee or otherwise) the Services in whole or in part to individuals outside your household, even to a limited group of people or to other residences that you own or have the right to use. If you receive video service, these restrictions apply to programs and other materials that you receive as part of that service even if you record or capture such material in a data file or on a hard drive, DVR, or similar device.  If you use a wireless network within your residence, you must limit wireless access to the internet Service by taking reasonable steps to prevent unauthorized use (_e.g.,_ establishing and using a secure password). See the Acceptable Use Policy at [https://hellotds.com/acceptable-use-policy.html](https://hellotds.com/acceptable-use-policy.html)  for additional information.
+You understand and agree that any Service ordered under the Service Agreement is being provided to you for residential, personal, and family use, and is not intended to be suitable for business use. You agree that you will not use or allow others to use any Service as the primary method to operate any type of on-line business or commercial enterprise or to use the internet Service as an internet service provider. You are not permitted to resell or redistribute (whether for a fee or otherwise) the Services in whole or in part to individuals outside your household, even to a limited group of people or to other residences that you own or have the right to use. If you receive TV/video service, these restrictions apply to programs and other materials that you receive as part of that service even if you record or capture such material in a data file or on a hard drive, DVR, or similar device.  If you use a wireless network within your residence, you must limit wireless access to the internet Service by taking reasonable steps to prevent unauthorized use (_e.g.,_ establishing and using a secure password). See the Acceptable Use Policy at [https://hellotds.com/acceptable-use-policy.html](https://hellotds.com/acceptable-use-policy.html)  for additional information.
 
  
 
@@ -242,9 +244,9 @@ TDS representatives may need to access your private property for purposes of ins
 
 The TDS Equipment (which includes any equipment you lease from TDS) is for your exclusive use during the term of your Service Agreement and is and at all times shall remain the sole and exclusive personal property of TDS. You expressly agree that you will use the TDS Equipment exclusively in connection with receiving and using the Services. You will not obtain any ownership rights in the TDS Equipment because of the payments you make pursuant to the Service Agreement, your possession of the TDS Equipment, or the attachment of any portion of the TDS Equipment to your residence or otherwise. To ensure uninterrupted Service, you are prohibited from moving, modifying, or otherwise tampering with any TDS Equipment without TDS’ consent. Unless specifically authorized by TDS, you must not allow anyone other than an authorized representative of TDS to perform work on the TDS Equipment. TDS reserves the right to modify or replace the TDS Equipment as needed to ensure consistent service delivery.
 
-If any TDS Equipment is damaged, stolen, or lost during the term of your Service Agreement due to your intentional acts, negligence, or use inconsistent with the Service Agreement, you will be responsible for the cost of its repair or replacement except to the extent such costs are covered by an active TDS Wire Protection Plan.
+If any TDS Equipment is damaged, stolen, or lost during the term of your Service Agreement due to your intentional acts, negligence, or use inconsistent with the Service Agreement, you will be responsible for the cost of its repair or replacement, plus any applicable shipping and handling fees, except to the extent such costs are covered by an active TDS Wire Protection Plan.
 
-Unless otherwise directed by TDS, you must return all TDS Equipment to TDS in good working condition, other than normal wear and tear, within 30 days after termination of your Services. If you fail to return TDS equipment within 30 days after termination, or the equipment is damaged, you will be responsible for the full value of such equipment, as determined by TDS.
+Unless otherwise directed by TDS, you must return all TDS Equipment to TDS in good working condition, other than normal wear and tear, within 30 days after termination of your Services. If you fail to return TDS equipment within 30 days after termination, or the equipment is damaged, you will be responsible for the full value of such equipment, as determined by TDS. If TDS Equipment is returned via mail, shipping and handling fees may apply.
 
  
 
@@ -333,7 +335,7 @@ All websites, corporate names, service marks, trademarks, trade names, logos, an
 
 **4.1. Billing Start Date**
 
-The fees and charges for the Services begin to accrue on the day the Service is turned on and available for use at your service address (the “**Billing Start Date**”).
+The fees and charges for the Services begin to accrue on the day the Service is turned on and available for use at your service address (the “**Billing Start Date**”). Most fees and charges are billed monthly in advance, but usage-based charges (e.g., long distance telephone charges) are billed monthly in arrears.
 
  
 
@@ -477,7 +479,7 @@ YOU UNDERSTAND AND ACKNOWLEDGE THAT THERE MAY BE INTERRUPTIONS OF THE SERVICES D
 
 **6.3. Sole Remedy**
 
-If you are dissatisfied with the Service or any of its terms, conditions, rules, policies, guidelines, or practices, your sole and exclusive remedies are: (a) request a Service Credit per Section 6.1 above; or (b) terminate the Service Agreement and discontinue using the Service by canceling the account as outlined in Section 5.1. If this provision is found invalid, TDS’ liability is limited to the maximum extent permitted by law.
+If you are dissatisfied with the Service or any of its terms, conditions, rules, policies, guidelines, or practices, YOUR SOLE AND EXCLUSIVE REMEDIES ARE: (a) request a Service Credit per Section 6.1 above; or (b) terminate the Service Agreement and discontinue using the Service by canceling the account as outlined in Section 5.1. If this provision is found invalid, TDS’ liability is limited to the maximum extent permitted by law.
 
  
 
@@ -654,7 +656,7 @@ b.  TDS will install the TDS Equipment and software, unless you request otherw
 
 See the TDS Acceptable Use Policy at [https://hellotds.com/acceptable-use-policy.html](https://hellotds.com/acceptable-use-policy.html) for additional bandwidth use restrictions.  
 
-11.2.5.  Internet Service Speeds and Availability. Availability varies and speeds shown may not be available at all service addresses. Certain speeds are only offered in areas served by TDS Fiber. Speed ranges shown are expressed as “up to” to represent network capabilities between customer location and the TDS network. Most customers can expect to receive a stable speed within the range of the product purchased as allowed by the quality and capability of the connection; however, actual speeds experienced by customers vary and are not guaranteed. Some customers may receive lower than the indicated speed range. Speeds vary due to various factors, including but not limited to: distance from switching locations, network equipment, delivery technology, and external/internal network conditions. Speed tests may produce inconsistent results due to various factors, including the speed test program or website used, the number of devices connected to the customer’s modem and whether the speed test is conducted over Wi-Fi. Customers that are not receiving the indicated speeds may cancel their service without any termination charges. Additional equipment may be required and charges may apply. **Plans without data caps are not available in all areas.** A $15 service charge will apply to existing customers who switch plans without increasing speed or adding qualifying service. In order to maximize internet speeds above 100Mbps, a gigabit wired Network Interface Card (NIC) and/or a more advanced wireless NIC, preferably 802.11ac or higher is needed.
+11.2.5. See the TDS Acceptable Use Policy at [https://hellotds.com/acceptable-use-policy.html](https://hellotds.com/acceptable-use-policy.html) for additional bandwidth use restrictions Internet Service Speeds and Availability. Availability varies and speeds shown may not be available at all service addresses. Certain speeds are only offered in areas served by TDS Fiber. Speed ranges shown are expressed as “up to” to represent network capabilities between customer location and the TDS network. Most customers can expect to receive a stable speed within the range of the product purchased as allowed by the quality and capability of the connection; however, actual speeds experienced by customers vary and are not guaranteed. Some customers may receive lower than the indicated speed range. Speeds vary due to various factors, including but not limited to: distance from switching locations, network equipment, delivery technology, and external/internal network conditions. Speed tests may produce inconsistent results due to various factors, including the speed test program or website used, the number of devices connected to the customer’s modem and whether the speed test is conducted over Wi-Fi. Customers that are not receiving the indicated speeds may cancel their service without any termination charges. Additional equipment may be required and charges may apply. **Plans without data caps are not available in all areas.** A $15 service charge will apply to existing customers who switch plans without increasing speed or adding qualifying service. In order to maximize internet speeds above 100Mbps, a gigabit wired Network Interface Card (NIC) and/or a more advanced wireless NIC, preferably 802.11ac or higher is needed.
 
 11.2.6.  **INTERNET WARNING.** TDS provides access to information, via the internet, of all kinds relating to a wide variety of subjects on virtually any topic imaginable. Some of this material may be offensive, misleading, or controversial in nature. You might find some of this material offensive or inappropriate for you or for any minors who may be accessing the internet through your account. Please use good judgment when accessing the internet and supervise minors who may be using your account. For more information on this topic, please see TDS’ Acceptable Use Policy at [https://hellotds.com/acceptable-use-policy.html](https://hellotds.com/acceptable-use-policy.html).
 
@@ -688,13 +690,15 @@ See the TDS Acceptable Use Policy at [https://hellotds.com/acceptable-use-policy
 
 11.4.9.  You assume the risk of high-risk activities. The Services are not represented as fail-safe. They are not designed for use in situations where error-free or uninterrupted service is essential. You expressly assume the risk of any damages from high-risk activities involving vital communications in which an error or interruption in the Services could lead to material injury to business, persons, property, or the environment.
 
-11.4.10.  No tampering with or relocation of equipment. You will not service, alter, modify, or tamper with TDS Equipment or with the Services, or permit any other person not expressly authorized by TDS to do so. You agree that the MTA and TDS phone service will only be used at your service address appearing in TDS’ records. You understand and acknowledge that if you attempt to install or use such equipment or TDS phone service at another location, the Services, including but not limited to 911/E911, may fail to function or may function improperly. As described in Section 11.4.2 above, you must notify TDS if you wish to relocate the MTA or transfer your TDS phone service. If you move the MTA or Services to another location without complying with Section 11.4.2, you do so in violation of the Service Agreement and at your own risk.
+11.4.10.  No tampering with or relocation of equipment. You will not service, alter, modify, or tamper with TDS Equipment or with the Services, or permit any other person not expressly authorized by TDS to do so. You agree that the MTA and TDS phone service will only be used at your service address appearing in TDS’ records. You understand and acknowledge that if you attempt to install or use such equipment or TDS phone service at another location, the Services, including but not limited to 911/E911, may fail to function or may function improperly. As described in Section 11.3.2 above, you must notify TDS if you wish to relocate the MTA or transfer your TDS phone service. If you move the MTA or Services to another location without complying with Section 11.3.2, you do so in violation of the Service Agreement and at your own risk.
 
 11.4.11.  Transferring your phone number to TDS from another phone provider. If you are switching to TDS phone service from another service provider, you may transfer your existing phone number (if any) to TDS phone service, provided that (i) you request the phone number transfer when you place your order for TDS phone service; (ii) your current service provider releases your existing phone number, at TDS’ request, without delay or charge; (iii) transfer of your existing phone number to TDS phone service would not, in TDS’ view, violate applicable law or TDS’ processes and procedures; (iv) you acknowledge and agree that if your MTA is set up before the date that the number transfer becomes effective (“**Port Effective Date**”), you may only be able to make limited outgoing calls over the phone that you have connected to such equipment. In that event, you should keep another phone connected to an existing phone extension at your service location to receive incoming calls until the Port Effective Date, after which you will be able both to make and to receive calls using TDS’ Services; and (v) you acknowledge and agree that to avoid an interruption in your phone service, it is extremely important that you have the MTA installed on or before the Port Effective Date. Your existing phone service for the number you are transferring will be disconnected on the Port Effective Date; if your equipment is not yet activated, you will not have access to TDS phone service. Therefore, you will not have service for that phone number. If you have questions about the timing of your Port Effective Date, please contact us.
 
 11.4.12.  Transferring your phone number from TDS to another phone provider. To transfer your phone number from TDS to another service provider, you must place the transfer order through your new service provider (and not through TDS). TDS will release your phone number to your new service provider, provided that (i) your new service provider requests the transfer upon termination of your account; (ii) your new service provider is willing to accept transfer of the phone number without delay or charge; and (iii) transfer of your existing phone number to the new service provider would not, in TDS’ view, violate applicable law or TDS’ processes and procedures.
 
 11.4.13.  Regulatory limitations. You understand and acknowledge that TDS phone service may be subject to regulatory or tax treatment that differs from the regulatory or tax treatment applicable to traditional telephone service. This different treatment may limit or otherwise affect your rights of redress before federal or state regulatory or tax agencies.
+
+11.4.14.  Call Recording for Troubleshooting. If Customer reports call quality issues, TDS may deploy a tool that gives us the ability to troubleshoot at the raw packet level (the “Tool”). This includes the ability to record and playback the audio from Customer’s inbound and outbound calls and perform advanced Real-time Transport Protocol (RTP) stream analysis. The Tool will only be deployed when Customer has reported a technical issue to TDS Support, and it will be turned off as soon as the reported issues are resolved. Access to and use of the Tool is limited to a small number of TDS associates on the TDS Advanced Support team; access and use are strictly monitored by the TDS IT Security team and subject to regular audit procedures.
 
  
 
@@ -704,9 +708,9 @@ See the TDS Acceptable Use Policy at [https://hellotds.com/acceptable-use-policy
 
 11.5.2.  Service Term and Cost. If you sign up for the WPP, you are required to keep it for a fixed term of 12 consecutive months starting on the date of activation of your Service. The cost of the WPP is $2.99 per month and it will automatically renew on a month-to-month basis unless you notify TDS that you would like to cancel it by calling TDS Customer Support at 877-422-5282. If you decide to terminate your WPP before the end of its 12-month term, TDS may charge you a $50.00 early termination fee. To continue your coverage and avoid any early termination charges, you must continue to pay for the WPP even during periods that your Services are suspended.
 
-11.5.3.  What Wiring is Covered? The WPP covers all wiring starting at the demarcation point and ending at the telephone jack, internet modem, or video receiver (e.g., set-top box) in your home (collectively, “**Covered Wiring**”). Depending on what type of facilities are installed on your property, the demarcation point is the gateway, the wall-mounted network interface device (NID) on the outside of your home, or the optical network terminal (ONT).  If you live in a building with multiple dwelling units such as an apartment building, condominium complex, dormitory, co-op, etc. (an “**MDU**”), the demarcation point is the wall jack or outlet where the TDS Service enters your individual unit.
+11.5.3.  What Wiring is Covered? The WPP covers all wiring starting at the demarcation point and ending at the telephone jack, internet modem, or TV/video receiver (e.g., set-top box) in your home (collectively, “**Covered Wiring**”). Depending on what type of facilities are installed on your property, the demarcation point is the gateway, the wall-mounted network interface device (NID) on the outside of your home, or the optical network terminal (ONT).  If you live in a building with multiple dwelling units such as an apartment building, condominium complex, dormitory, co-op, etc. (an “**MDU**”), the demarcation point is the wall jack or outlet where the TDS Service enters your individual unit.
 
-11.5.4.  What Costs are Covered?  Subject to the exclusions listed in Section 11.6.5, the WPP covers all costs associated with:
+11.5.4.  What Costs are Covered?  Subject to the exclusions listed in Section 11.5.5, the WPP covers all costs associated with:
 
 a.  Troubleshooting the reported problem;
 
@@ -754,13 +758,13 @@ l.  In an MDU, shared wiring that delivers services to multiple units, not jus
 
 11.5.6.  How it Works. If you encounter a problem with your TDS Service(s), TDS will send a technician out to your home to investigate. If TDS’ investigation confirms that there is a problem with your Covered Wiring that is covered by the WPP, TDS will repair the problem at no cost to you. If you are not enrolled in the WPP, TDS will charge you on a time and materials basis for all diagnostic and repair work performed. TDS will perform all work in a manner that is consistent with generally accepted industry standards.
 
-11.5.7.  Suspension or termination of the WPP. TDS may immediately, and without prior notice, suspend or discontinue your WPP if (a) TDS is no longer providing video, internet or phone service to you; (b) any misuse or abuse of the Services occurs; or (c) a hazard or danger to person or property exists that would prevent TDS’ technicians from performing the work in a safe manner. Subject to applicable law, TDS may discontinue the WPP or modify any of these terms and conditions at any time in its sole discretion. TDS will provide 30 days' prior written notice of any material changes in the terms and conditions governing the WPP. This notice may be included in your monthly bill.
+11.5.7.  Suspension or termination of the WPP. TDS may immediately, and without prior notice, suspend or discontinue your WPP if (a) TDS is no longer providing TV/video, internet or phone service to you; (b) any misuse or abuse of the Services occurs; or (c) a hazard or danger to person or property exists that would prevent TDS’ technicians from performing the work in a safe manner. Subject to applicable law, TDS may discontinue the WPP or modify any of these terms and conditions at any time in its sole discretion. TDS will provide 30 days' prior written notice of any material changes in the terms and conditions governing the WPP. This notice may be included in your monthly bill.
 
 11.5.8.  Limitation of liability. TDS shall not be liable for any injuries to persons or property arising out of installation, maintenance, repair or any other work performed in connection with the WPP. Further, TDS shall not be liable for any other damages arising from your use or inability to use your inside wiring, whether covered by WPP or otherwise, including, but not limited to, indirect, incidental, special or consequential damages.
 
  
 
-**11.6. Video Services**
+**11.6. TV/Video Services**
 
 11.6.1.  Programming availability. Certain Services that we transmit, including but not limited to some subscription Services, sporting events, and broadcast network Services, may be blacked out in your area of reception. If you circumvent or attempt to circumvent any of these blackouts, you may be subject to legal action. You must be at least 18 years of age, or the applicable age of majority where you reside, in order to receive adult-oriented programming services.
 
@@ -779,6 +783,18 @@ l.  In an MDU, shared wiring that delivers services to multiple units, not jus
  
 
 **11.7. TDS TV+ Products and Services**
+
+11.7.1.  Limited License; Functionality and Updates. TDS grants you a personal, non-commercial, and non-exclusive license to (1) use software that is embedded in (or downloaded to) TiVo products, and (2) access and use the hosted services provided to you in conjunction with the TiVo service using authorized TiVo products. TiVo products are intended for your private, non-public, home use (where no admission fee is charged). Features and functionality are subject to change. TDS reserves the right to determine the timing and content of software updates, which may be automatically downloaded and installed by TiVo products without prior notice to you.
+
+11.7.2.  Prohibited Activity. When using TiVo products and services, you may not do any of the following (except to the extent permitted by applicable law): (a) modify, reverse engineer, decompile, or otherwise attempt to derive the source code, structure, design, or method of operation of software that we provide to you; (b) modify, disassemble, or otherwise tamper with any TiVo product; (c) disguise the place of your residence or the location of your use; or (d) attempt to circumvent technological measures or gain unauthorized access through hacking, password mining or any other means.
+
+11.7.3.  Authorized Use. Use of streaming/downloading functionality is for your personal and private use. Unauthorized transfers or distribution of copyrighted works is a violation of these terms and may be a violation of copyright. There are penalties for copyright infringement if you violate applicable copyright laws. In order to stream and/or transfer content (such as from one TiVo device to another, or from a TiVo device to your mobile device), your devices may all need to be on the same local network.
+
+11.7.4.  Open-Source Software. To the extent required by the license for the open-source components of a TiVo product (“**Open-Source Software**”): (i) the terms of such license will apply to such Open-Source Software instead of the terms of the license grant above; and (ii) any restrictions prohibited by such license that are contained in this section will not apply to such Open-Source Software. Acknowledgements, licensing terms, and disclaimers for TiVo products are contained in a “Legal Notices” or similar screen.
+
+11.7.5.  Ownership of Intellectual Property. TDS and its suppliers retain title to and ownership of the TiVo products and services and certain intellectual property rights in and to the TiVo products and services. TDS and its suppliers also retain ownership of all copyrights and trademarks in and on the TiVo products and services. Without limiting the foregoing, all TiVo copyrights and trademarks are the exclusive property of TiVo Inc. TiVo Inc. is an intended third-party beneficiary of these additional TDS TV+ terms and conditions.
+
+11.7.6.  Termination of TiVo Products and Service for Breach. If you fail to comply with these terms, TDS may terminate this license to use the TiVo products and services and may terminate your use of the TDS TV+ products and services.
 
 11.7.7.  Disclaimer of Warranties and Other Liabilities. You understand and agree that TDS and TDS’ suppliers have no warranty obligations or other liabilities to you. Except for those liabilities that may not be disclaimed under applicable law, TDS disclaims all liability for any liabilities, losses, damages, costs or expenses (whether arising in contract, tort (including negligence) or under any other cause of action) suffered or incurred by any person in connection with any TiVo product or service or the TDS TV+ products or services: (i) on behalf of and for the benefit of TDS’ suppliers; and (ii) for itself.
 
@@ -815,7 +831,7 @@ The Service Agreement shall be governed by and construed in accordance with the 
 
 **12.5. Assignment**
 
-Neither the Service Agreement nor any of your rights or obligations arising under it shall be transferable or assignable by you to any third party without TDS's prior written consent. TDS shall have the right to assign all or part of its rights and obligations under the Service Agreement without notice to (i) any affiliate of TDS; (ii) to any party (or its affiliate) acquiring all or substantially all of the assets or stock, by merger, or otherwise, of TDS or any affiliate of TDS; or (iii) to any person or entity purchasing or otherwise acquiring the affiliated TDS video system serving your home.
+Neither the Service Agreement nor any of your rights or obligations arising under it shall be transferable or assignable by you to any third party without TDS's prior written consent. TDS shall have the right to assign all or part of its rights and obligations under the Service Agreement without notice to (i) any affiliate of TDS; (ii) to any party (or its affiliate) acquiring all or substantially all of the assets or stock, by merger, or otherwise, of TDS or any affiliate of TDS; or (iii) to any person or entity purchasing or otherwise acquiring the affiliated TDS TV/video system serving your home.
 
  
 
