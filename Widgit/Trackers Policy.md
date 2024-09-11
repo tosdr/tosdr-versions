@@ -26,7 +26,7 @@ Warwick
 CV34 6UD  
 United Kingdom
 
-For EEA Residents: You can contact us using the details above or via our EU representative by emailing eurep\[AT\]widgit.com, telephoning +46 850516408 or writing to:
+For EEA Residents: You can contact us using the details above or via our EU representative by emailing eurep\[AT\]widgit.com, telephoning +46 850249258 or writing to:
 
 DPO  
 Olof Palmes Gata 29  
@@ -35,7 +35,7 @@ Olof Palmes Gata 29
 Stockholm  
 Sweden
 
-This privacy policy was last updated on the 6th June 2024.
+This privacy policy was last updated on the 22nd August 2024.
 
 What information we collect and how
 -----------------------------------
@@ -116,9 +116,6 @@ This is a list of the third parties ("sub-processors") that we use:
     
 * **CloudFlare (EU)**  
     Widgit uses Cloudflare for content distribution, security and DNS services.
-    
-* **Datadog (EU)**  
-    Widgit uses Datadog for server monitoring.
     
 * **Opayo (UK/EU)**  
     Widgit uses Opayo to process secure payments.
