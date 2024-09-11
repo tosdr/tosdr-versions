@@ -27,7 +27,6 @@ Toggle Menu [](https://www.time4learning.com/)
 * How To
 * [Get Started With a Curriculum](https://www.time4learning.com/homeschool-curriculum.htm "Get Started With a Curriculum")
 * [Homeschool Online](https://www.time4learning.com/homeschool-online.htm "Homeschool Online")
-* [Use Time4Learning](https://www.time4learning.com/support/faq "Use Time4Learning")
 * [Homeschool in Your State](https://www.time4learning.com/homeschooling/by-state.html "By State")
 
 * For Your Family
@@ -35,7 +34,6 @@ Toggle Menu [](https://www.time4learning.com/)
 * [Gifted Child](https://www.time4learning.com/gifted/gifted-child.htm "Gifted Child")
 * [Special Needs](https://www.time4learning.com/homeschooling/special-needs/ "Special Needs")
 * [Military](https://www.time4learning.com/military-homeschool/ "Military")
-* [Accidental Homeschooler](https://www.time4learning.com/accidental-homeschooler.html "Accidental Homeschooler")
 
 * As a Supplement
 * [Afterschool](https://www.time4learning.com/homeschool-curriculum/afterschool-enrichment/ "Afterschool")
@@ -116,7 +114,6 @@ FREE E-Book to Help You Get Started!
 * [Welcome to Homeschooling](https://www.time4learning.com/homeschool/how-to-homeschool.shtml "Welcome to Homeschooling")
 * [Mid-Year Transition](https://www.time4learning.com/homeschool/midyear-transition-guide.html "Mid-Year Transition")
 * [Learning Styles](https://www.time4learning.com/learning-styles/ "Learning Styles")
-* [FAQs](https://www.time4learning.com/support/faq "Homeschooling Guide")
 
 * How to Get Started
 * [By Age](https://www.time4learning.com/homeschool-curriculum/#age "By Age")
@@ -131,7 +128,7 @@ FREE E-Book to Help You Get Started!
 * [Blog](https://www.time4learning.com/blog/ "Blog")
 * [Newsletter](https://www.time4learning.com/homeschool/online-education-newsletter.html "Newsletter")
 
-[Why Is Summer a Great Time to Begin Homeschooling?](https://www.time4learning.com/blog/methods-tools-resources/why-is-summer-a-great-time-to-begin-homeschooling/)[How to Use Your Child’s Learning Styles At Home](https://www.time4learning.com/blog/academics-home/how-to-use-your-childs-learning-styles-at-home/)
+[How to Use Your Child’s Learning Styles At Home](https://www.time4learning.com/blog/academics-home/how-to-use-your-childs-learning-styles-at-home/)
 
 * [Home](https://www.time4learning.com/ "Home")
 * \>
@@ -488,7 +485,7 @@ A [Cambium Learning](https://www.cambiumlearning.com/)® Group Brand [![Cambium 
 
 TOP
 
-* [FAQs](https://www.time4learning.com/curriculum/faq.html "FAQs")
+* [FAQs](https://www.time4learning.com/support/faq/ "FAQs")
 * [How it Works](https://www.time4learning.com/homeschool-curriculum/how-it-works/ "How it Works")
 * [Curriculum](# "Curriculum")
     * [Preschool](https://www.time4learning.com/homeschool-curriculum/preschool/ "Preschool")
@@ -541,7 +538,7 @@ TOP
         * [Blog](https://www.time4learning.com/blog/ "Blog")
         * [Testimonials](https://www.time4learning.com/reviews/ "Testimonials")
     * [Information](# "Information")
-        * [FAQs](https://www.time4learning.com/curriculum/faq.html "FAQs")
+        * [FAQs](https://www.time4learning.com/support/faq/ "FAQs")
         * [Homeschool Curriculum](https://www.time4learning.com/homeschool-curriculum.htm "Homeschool Curriculum")
         * [How to Get Started](https://www.time4learning.com/homeschool-online.htm "How to Get Started")
         * [Homeschool Charter School](https://www.time4learning.com/homeschool/charter_schools.shtml "Homeschool Charter School")
