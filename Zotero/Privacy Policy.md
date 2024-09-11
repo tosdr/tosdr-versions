@@ -100,7 +100,7 @@ When using third-party platforms, we request the most restrictive permissions av
 
 ### Zotero Connector
 
-When installing the Zotero Connector, your browser will warn you that the extension can “Read and change all your data on the websites you visit” (or similar). This is the standard permission that browser extensions that run on all pages require. Zotero uses it to determine what content it can save on a given page and update the save button accordingly, as well as to provide advanced features such as automatic proxy redirection and automatic RIS/BibTeX import. No data is stored except when you choose to save a page to either your local or online Zotero library.
+When installing the Zotero Connector, your browser will warn you that the extension can “Read your browsing history”, “Access your data for all websites”, or similar. These different wordings all mean the same thing: that Zotero can interact with each page as you browse the web. This is the standard permission that browser extensions that run on all pages require. Zotero uses it to determine what content it can save on a given page and update the save button accordingly, as well as to provide advanced features such as automatic proxy redirection and automatic RIS/BibTeX import. Zotero in no way reads your previous browsing history, and no data about your browsing activity is stored except when you choose to save a page to either your local or online Zotero library.
 
 ### Google Docs Integration
 
@@ -150,7 +150,7 @@ Third-Party Services Used
 Deleting Your Data
 ------------------
 
-You may delete your Zotero account to remove information you voluntarily provided when you registered to use Zotero services and to remove the library data you provided if you chose to synchronize your library with Zotero servers. To delete your account, visit your [Zotero settings](https://www.zotero.org/settings "/settings") and click “Permanently Delete Account”.
+You may delete your Zotero account to remove information you voluntarily provided when you registered to use Zotero services and to remove the library data you provided if you chose to synchronize your library with Zotero servers. To delete your account, visit your [Zotero settings](https://www.zotero.org/settings/security#delete "/settings/security#delete") and click “Permanently Delete Account”.
 
 Backed-up Data
 --------------
@@ -209,11 +209,11 @@ If you have any questions or concerns regarding Zotero’s privacy policies, ple
     * [Questions](#questions)
         
 
-privacy.txt · Last modified: 2024/02/27 12:16 by fcheslack
+privacy.txt · Last modified: 2024/09/10 14:11 by fcheslack
 
 * [Old revisions](https://www.zotero.org/support/privacy?do=revisions "Old revisions [o]")
 
-![](/support/lib/exe/taskrunner.php?id=privacy&1722554767)
+![](/support/lib/exe/taskrunner.php?id=privacy&1726022751)
 
 * [Blog](https://www.zotero.org/blog/)
 * [Forums](https://forums.zotero.org/categories/)
