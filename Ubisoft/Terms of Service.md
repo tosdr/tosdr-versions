@@ -78,7 +78,7 @@ Parents and guardians are responsible for the acts of children under the age of 
 
 We may restrict access to certain Services based on age, and/or allow a minor to register for certain Services only with parent/guardian approval. The parent/legal guardian may be asked to provide additional documentation or perform additional actions as part of the approval process as consistent with applicable law.  We reserve the right to refuse access to the Service pending confirmation and activation by his/her parent or guardian.  In addition, We reserve the right to ask for written proof of parental consent for any User or potential User of our Services we suspect is a minor.
 
-AS FAR AS IS PERMITTED BY APPLICABLE LAW, WE DECLINE ANY RESPONSIBILITY REGARDING ANY ACTIVITIES WHICH MAY BE CONDUCTED BY MINORS WITHOUT THE PERMISSION OF THEIR PARENTS OR LEGAL GUARDIANS. IF YOU ARE A PARENT OR LEGAL GUARDIAN AND YOU GIVE YOUR PERMISSION FOR YOUR CHILD TO RESISTER FOR ONE OR ALL OF OUR SERVICES, YOU THEREBY AGREE TO THE TERMS RELATING TO USE OF SUCH SERVICES BY YOUR CHILD.
+AS FAR AS IS PERMITTED BY APPLICABLE LAW, WE DECLINE ANY RESPONSIBILITY REGARDING ANY ACTIVITIES WHICH MAY BE CONDUCTED BY MINORS WITHOUT THE PERMISSION OF THEIR PARENTS OR LEGAL GUARDIANS. IF YOU ARE A PARENT OR LEGAL GUARDIAN AND YOU GIVE YOUR PERMISSION FOR YOUR CHILD TO REGISTER FOR ONE OR ALL OF OUR SERVICES, YOU THEREBY AGREE TO THE TERMS RELATING TO USE OF SUCH SERVICES BY YOUR CHILD.
 
 **5\. WHAT ARE SOME FEATURES OF OUR SERVICES AND HOW CAN I ACCESS THEM?** 
 --------------------------------------------------------------------------
