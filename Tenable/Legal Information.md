@@ -6,11 +6,9 @@ Facebook Google Plus Twitter LinkedIn YouTube RSS Menu Search Resource - BlogRes
 
 [Tenable](https://www.tenable.com/)
 
-[Platform](https://www.tenable.com/products/tenable-one) [Products](https://www.tenable.com/products) [Solutions](https://www.tenable.com/solutions) Resources Partners Support Company
+[Platform](https://www.tenable.com/products/tenable-one) [Products](https://www.tenable.com/products) [Solutions](https://www.tenable.com/solutions) [Why Tenable](https://www.tenable.com/why-tenable) Resources Partners Support Company
 
-[Try](https://www.tenable.com/try) [Buy](https://www.tenable.com/buy)
-
-[Tenable Product Login](https://cloud.tenable.com/) [Community & Support](https://community.tenable.com/login)
+[contact\_icon](https://www.tenable.com/about-tenable/contact-tenable)
 
 [](#)
 
@@ -19,6 +17,10 @@ Facebook Google Plus Twitter LinkedIn YouTube RSS Menu Search Resource - BlogRes
 [简体中文](https://www.tenablecloud.cn/?tns_languageOverride=true) [繁體中文](https://zh-tw.tenable.com/?tns_languageOverride=true) [日本語](https://jp.tenable.com/?tns_languageOverride=true) [한국어](https://kr.tenable.com/?tns_languageOverride=true) [العربية](https://ar.tenable.com/?tns_languageOverride=true)
 
 [](#)
+
+[Tenable Product Login](https://cloud.tenable.com/) [Community & Support](https://community.tenable.com/login)
+
+[Try](https://www.tenable.com/try) [Buy](https://www.tenable.com/buy)
 
 [Try](https://www.tenable.com/products)
 
@@ -30,33 +32,33 @@ Facebook Google Plus Twitter LinkedIn YouTube RSS Menu Search Resource - BlogRes
 
 * [Explore the Platform](https://www.tenable.com/products/tenable-one)
 * [FAQ](https://www.tenable.com/products/tenable-one#faq)
-* [Request a Demo](#one-eval)
+* [Request a demo](#one-eval)
 * [What is Exposure Management?](https://www.tenable.com/exposure-management)
 
-##### Platform Categories
+##### Platform categories
 
 * * *
 
-* [Cloud Security](https://www.tenable.com/cloud-security)
-* [Vulnerability Management](https://www.tenable.com/products/vulnerability-management)
-* [OT/IoT Security](https://www.tenable.com/products/ot-security)
+* [Cloud Exposure](https://www.tenable.com/cloud-security)
+* [Vulnerability Exposure](https://www.tenable.com/products/vulnerability-management)
+* [OT/IoT Exposure](https://www.tenable.com/products/ot-security)
 * [Identity Exposure](https://www.tenable.com/products/identity-exposure)
 
-##### Platform Capabilities
+##### Platform capabilities
 
 * * *
 
-* [Exposure Metrics & Reporting](https://www.tenable.com/products/tenable-one/lumin-exposure-view)
-* [Attack Path Analysis](https://www.tenable.com/products/tenable-one/attack-path-analysis)
-* [GenAI Analytics](https://www.tenable.com/solutions/exposure-ai)
+* [Exposure metrics & reporting](https://www.tenable.com/products/tenable-one/lumin-exposure-view)
+* [Attack path analysis](https://www.tenable.com/products/tenable-one/attack-path-analysis)
+* [GenAI analytics](https://www.tenable.com/solutions/exposure-ai)
 
-![Get Started with Tenable One](/themes/custom/tenable/img/rich-menu/get-started-tenable-one-demo.png)
+![Get Started with Tenable One](/themes/custom/tenable/images-new/menus/menu-featured-tenable-one.png)
 
-##### Get Started with Tenable One
+##### Get started with Tenable One
 
-Anticipate attacks and reduce cyber risk with Tenable One Exposure Management Platform.
+Anticipate attacks and reduce business risk with Tenable One Exposure Management Platform.
 
-[Request a Demo](#one-eval)
+[Request a demo](#one-eval)
 
 ##### Exposure Management  
 Platform
@@ -65,192 +67,187 @@ Platform
 
 Tenable One Exposure Management Platform enables you to gain visibility across your attack surface, focus efforts to prevent likely attacks, and accurately communicate cyber risk to support optimal business performance.
 
-[Learn More](https://www.tenable.com/products/tenable-one)  
-[Request a Demo](#one-eval)
+[Learn more](https://www.tenable.com/products/tenable-one)  
+[Request a demo](#one-eval)
 
-##### [Cloud Security](https://www.tenable.com/cloud-security)
+[##### Cloud Exposure](https://www.tenable.com/cloud-security)
 
 * * *
 
-* [Tenable Cloud Security (CNAPP)](https://www.tenable.com/cloud-security/products/cloud-native-application-protection-platform) [Request a Demo](#tenable-cs)
-* [Tenable CIEM](https://www.tenable.com/cloud-security/products/cloud-infrastructure-entitlement-management) [Request a Demo](#tenable-cs)
-* [Tenable Just in Time Access (JIT)](https://www.tenable.com/cloud-security/products/just-in-time) [Request a Demo](#tenable-cs)
+* [Tenable Cloud Security (CNAPP)](https://www.tenable.com/cloud-security) [Request a demo](#tenable-cs)
+* [Tenable CIEM](https://www.tenable.com/cloud-security/products/cloud-infrastructure-entitlement-management) [Request a demo](#tenable-cs)
+* [Tenable Just in Time Access (JIT)](https://www.tenable.com/cloud-security/products/just-in-time) [Request a demo](#tenable-cs)
 * [Tenable Open Source](https://www.tenable.com/cloud-security/products/open-source)
 
-##### Vulnerability Management
+##### Vulnerability Exposure
 
 * * *
 
-* [Tenable Vulnerability Management](https://www.tenable.com/products/vulnerability-management) [Try for Free](#tenableio-4part)
-* [Tenable Security Center](https://www.tenable.com/products/security-center) [Request a Demo](#tenable-sc-eval)
-* [Tenable Web App Scanning](https://www.tenable.com/products/web-app-scanning) [Try for Free](#tenableio-was)
-* [Tenable Lumin](https://www.tenable.com/products/tenable-lumin) [Try for Free](#lumin-eval)
-* [Tenable Attack Surface Management](https://www.tenable.com/products/attack-surface-management) [Request a Demo](#asm-eval)
+* [Tenable Vulnerability Management](https://www.tenable.com/products/vulnerability-management) [Try for free](#tenableio-4part)
+* [Tenable Security Center](https://www.tenable.com/products/security-center) [Request a demo](#tenable-sc-eval)
+* [Tenable Web App Scanning](https://www.tenable.com/products/web-app-scanning) [Try for free](#tenableio-was)
+* [Tenable Lumin](https://www.tenable.com/products/tenable-lumin) [Try for free](#lumin-eval)
+* [Tenable Attack Surface Management](https://www.tenable.com/products/attack-surface-management) [Request a demo](#asm-eval)
+* [Tenable Nessus](https://www.tenable.com/products/nessus) [Try for free](#expert)
 
-##### Operational Technology  
-Security
+##### OT/IoT Exposure
 
 * * *
 
-* [Tenable OT Security](https://www.tenable.com/products/ot-security) [Request a Demo](#ot-eval)
+* [Tenable OT Security](https://www.tenable.com/products/ot-security) [Request a demo](#ot-eval)
 
 ##### Identity Exposure
 
 * * *
 
-* [Tenable Identity Exposure](https://www.tenable.com/products/identity-exposure) [Request a Demo](#ad-eval)
+* [Tenable Identity Exposure](https://www.tenable.com/products/identity-exposure) [Request a demo](#ad-eval)
 
-##### Vulnerability Assessment
+[**Compare products**](https://www.tenable.com/products#compare)
 
-* * *
-
-* [Tenable Nessus](https://www.tenable.com/products/nessus) [Try for Free](#expert)
-
-[**Compare Products**](https://www.tenable.com/products#compare)
-
-##### Business Needs
+##### Business needs
 
 * * *
 
 * [Active Directory](https://www.tenable.com/solutions/active-directory)
 * [Compliance](https://www.tenable.com/solutions/compliance)
-* [Cyber Insurance](https://www.tenable.com/cyber-insurance)
-* [IT / OT](https://www.tenable.com/solutions/it-ot)
+* [Cyber insurance](https://www.tenable.com/cyber-insurance)
+* [OT / IT](https://www.tenable.com/solutions/it-ot)
 * [Ransomware](https://www.tenable.com/solutions/ransomware)
-* [Vulnerability Assessment](https://www.tenable.com/solutions/vulnerability-assessment)
-* [Vulnerability Management](https://www.tenable.com/solutions/vulnerability-management)
-* [Zero Trust](https://www.tenable.com/solutions/zero-trust)
+* [Vulnerability assessment](https://www.tenable.com/solutions/vulnerability-assessment)
+* [Vulnerability management](https://www.tenable.com/solutions/vulnerability-management)
+* [Zero trust](https://www.tenable.com/solutions/zero-trust)
 
 ##### Industry
 
 * * *
 
-* [Automotive Manufacturing](https://www.tenable.com/solutions/automotive-manufacturing)
+* [Automotive manufacturing](https://www.tenable.com/solutions/automotive-manufacturing)
 * [Energy](https://www.tenable.com/solutions/energy)
 * [Finance](https://www.tenable.com/solutions/finance)
 * [Healthcare](https://www.tenable.com/solutions/healthcare)
 * [Oil & Gas](https://www.tenable.com/solutions/oil-and-gas)
-* [More Industries](https://www.tenable.com/solutions#industries)
+* [More industries](https://www.tenable.com/solutions#Industries)
 
 ##### Compliance
 
 * * *
 
-* [Critical Infrastructure Regulations](https://www.tenable.com/cybersecurity-regulations)
+* [Critical infrastructure regulations](https://www.tenable.com/cybersecurity-regulations)
 * [FISMA](https://www.tenable.com/solutions/fisma)
 * [HIPAA](https://www.tenable.com/solutions/hipaa-compliance)
 * [NERC CIP](https://www.tenable.com/solutions/nerc-cip)
-* [NIS Directive](https://www.tenable.com/solutions/nis-directive-compliance)
+* [NIS directive](https://www.tenable.com/solutions/nis-directive-compliance)
 * [PCI](https://www.tenable.com/solutions/pci-dss)
-* [Security Frameworks](https://www.tenable.com/solutions/security-frameworks)
+* [Security frameworks](https://www.tenable.com/solutions/security-frameworks)
 
 ##### Public Sector
 
 * * *
 
 * [State / Local / Education](https://www.tenable.com/solutions/sled)
-* [US Federal](https://www.tenable.com/solutions/government/us-fed)
+* [US federal](https://www.tenable.com/solutions/government/us-fed)
 
-[View All Solutions](https://www.tenable.com/solutions/)
+[View all solutions](https://www.tenable.com/solutions/)
 
 ##### Resources
 
 * * *
 
-* [Resource Library](https://www.tenable.com/resources)
+* [Resource library](https://www.tenable.com/resources)
 * [Webinars](https://www.tenable.com/webinars)
 * [Blog](https://www.tenable.com/blog)
-* [Training and Certification](https://www.tenable.com/education)
-* [Cybersecurity Guide](https://www.tenable.com/cybersecurity-guide)
-* [Customer Stories](https://www.tenable.com/customers)
+* [Training and certification](https://www.tenable.com/education)
+* [Cybersecurity guide](https://www.tenable.com/cybersecurity-guide)
+* [Customer stories](https://www.tenable.com/customers)
 
 ##### Research
 
 * * *
 
-* [Research Center](https://www.tenable.com/research)
-* [Security Plugins](https://www.tenable.com/plugins)
-* [Zero-Day Research](https://www.tenable.com/security/research)
-* [Research Blog](https://www.tenable.com/blog/search?field_blog_section_tid=49)
-* [Research Community](https://community.tenable.com/s/)
+* [Research center](https://www.tenable.com/research)
+* [Security plugins](https://www.tenable.com/plugins)
+* [Zero-Day research](https://www.tenable.com/security/research)
+* [Research blog](https://www.tenable.com/blog/search?field_blog_section_tid=49)
+* [Research community](https://community.tenable.com/s/)
 
-##### TechStrong Research PulseMeter: Risk and Threat Management Strategies
+##### TechStrong Research PulseMeter: Risk and threat management strategies
 
 Techstrong Research surveyed their community of security, cloud, and DevOps readers and viewers to gain insights into their views on scaling security across cloud and on-premises environments.
 
-[Read the Report](https://www.tenable.com/analyst-research/techstrong-research-pulsemeter-risk-and-threat-management-strategies)
+[Read the report](https://www.tenable.com/analyst-research/techstrong-research-pulsemeter-risk-and-threat-management-strategies)
 
-##### Find a Partner
+##### Find a partner
 
 * * *
 
-* [Search Resellers](https://www.tenable.com/partner-locator/resellers)
-* [Search Distributors](https://www.tenable.com/partner-locator/distributors)
+* [Search resellers](https://www.tenable.com/partner-locator/resellers)
+* [Search distributors](https://www.tenable.com/partner-locator/distributors)
 * [Search MSSP](https://www.tenable.com/partner-locator/mssp)
 
-##### Tenable Assure Partners
+##### Tenable Assure partners
 
 * * *
 
 * [Overview](https://www.tenable.com/partners)
-* [Channel Partner Program](https://www.tenable.com/partners/channel-partner-program)
-* [MSSP Partner Program](https://www.tenable.com/partners/mssp-partner-program)
-* [Partner Application](https://www.tenable.com/partners/assure-program-application)
-* [Partner Portal](https://partners.tenable.com/#/page/partner-login)
+* [Channel partner program](https://www.tenable.com/partners/channel-partner-program)
+* [MSSP partner program](https://www.tenable.com/partners/mssp-partner-program)
+* [Partner application](https://www.tenable.com/partners/assure-program-application)
+* [Partner portal](https://partners.tenable.com/#/page/partner-login)
 
-##### Technology Partners
+##### Technology partners
 
 * * *
 
-* [Technology Ecosystem](https://www.tenable.com/partners/technology)
-* [Research Alliance Program](https://www.tenable.com/partners/research)
+* [Technology ecosystem](https://www.tenable.com/partners/technology)
+* [Research Alliance program](https://www.tenable.com/partners/research)
 
 ##### Support
 
 * * *
 
-* [Technical Support](https://www.tenable.com/support)
-* [Tenable Community](https://community.tenable.com/s/)
+* [Technical support](https://www.tenable.com/support)
+* [Tenable community](https://community.tenable.com/s/)
 * [Documentation](https://docs.tenable.com/)
 
 ##### Services
 
 * * *
 
-* [Professional Services](https://www.tenable.com/services)
-* [Training and Certification](https://www.tenable.com/education)
-* [Buy Certification](https://www.tenable.com/buy/certification)
+* [Professional services](https://www.tenable.com/services)
+* [Training and certification](https://www.tenable.com/education)
+* [Buy certification](https://www.tenable.com/buy/certification)
 
 ##### Tenable Trust
 
 * * *
 
-* [System Status](https://status.tenable.com/)
-* [Security and Compliance](https://www.tenable.com/trust/assurance)
-* [Data Protection](https://www.tenable.com/gdpr-alignment)
+* [System status](https://status.tenable.com/)
+* [Security and compliance](https://www.tenable.com/trust/assurance)
+* [Data protection](https://www.tenable.com/gdpr-alignment)
 
-##### About Us
+##### About us
 
 * * *
 
 * [About Tenable](https://www.tenable.com/about-tenable/about-us)
 * [Leadership](https://www.tenable.com/about-tenable/leadership)
-* [Investor Relations](https://investors.tenable.com/)
+* [Investor relations](https://investors.tenable.com/)
 * [Tenable Ventures](https://www.tenable.com/tenable-ventures)
 
-##### Join Us
+##### Join us
 
 * * *
 
 * [Careers](https://www.tenable.com/careers)
-* [Diversity and Inclusion](https://www.tenable.com/about-tenable/diversity-and-inclusion)
+* [Diversity and inclusion](https://www.tenable.com/about-tenable/diversity-and-inclusion)
 
 ##### Why Tenable
 
 * * *
 
-* [Awards and Recognition](https://www.tenable.com/about-tenable/awards)
-* [Customer Stories](https://www.tenable.com/customers)
+* [Why choose Tenable](https://www.tenable.com/why-tenable)
+* [Awards and recognition](https://www.tenable.com/why-tenable#awards)
+* [Customer stories](https://www.tenable.com/customers)
 * [Compare to Microsoft](https://www.tenable.com/ce/tenable-vs-microsoft)
 * [Compare to Qualys](https://www.tenable.com/whitepapers/competitive-guide-security-leaders-guide-to-comparing-tenable-and-qualys)
 * [Compare to Rapid7](https://www.tenable.com/whitepapers/security-leaders-guide-to-comparing-tenable-and-rapid7)
@@ -259,33 +256,35 @@ Techstrong Research surveyed their community of security, cloud, and DevOps read
 
 * * *
 
-* [Press Releases](https://www.tenable.com/media#press-releases)
-* [Financial News Releases](https://investors.tenable.com/news-releases)
+* [Press releases](https://www.tenable.com/media#press-releases)
+* [Financial news releases](https://investors.tenable.com/news-releases)
 * [News](https://www.tenable.com/media#news)
-* [Media Kit](https://www.tenable.com/media#kit)
+* [Media kit](https://www.tenable.com/media#kit)
 
 ##### Connect
 
 * * *
 
-* [Try Our Products](https://www.tenable.com/try)
+* [Try our products](https://www.tenable.com/try)
 * [Events](https://www.tenable.com/events)
-* [Tenable Community](https://community.tenable.com/s/)
-* [Subscribe to the Blog](https://info.tenable.com/blog-subscription-page.html)
-* [Contact Us](https://www.tenable.com/about-tenable/contact-tenable)
+* [Tenable community](https://community.tenable.com/s/)
+* [Subscribe to the blog](https://info.tenable.com/blog-subscription-page.html)
+* [Contact us](https://www.tenable.com/about-tenable/contact-tenable)
 
-![Get Started with Tenable One](/themes/custom/tenable/img/rich-menu/rm-frost-thumb.png)
+![Frost & Sullivan: Frost Radar, Vulnerability Management, 2023](/themes/custom/tenable/images-new/menus/menu-featured-frost-radar.png)
 
-##### Frost & Sullivan: Frost Radar, Vulnerability Management, 2023
+##### Frost & Sullivan: Frost Radar, vulnerability management, 2023
 
 Tenable is named a leading force in vulnerability management and top ranked among 13 vendors in both the Growth and Innovation indexes.
 
-[Read the Report](https://www.tenable.com/analyst-research/frost-sullivan-frost-radar-vulnerability-management-2023)
+[Read the report](https://www.tenable.com/analyst-research/frost-sullivan-frost-radar-vulnerability-management-2023)
 
 * Platform
+    * #### Tenable platform
+        
     * [Explore the Platform](https://www.tenable.com/products/tenable-one)
     * [FAQ](https://www.tenable.com/products/tenable-one#faq)
-    * [Request a Demo](https://www.tenable.com/products/tenable-one/evaluate)
+    * [Request a demo](https://www.tenable.com/products/tenable-one/evaluate)
     * [What is Exposure Management?](https://www.tenable.com/exposure-management)
     * [Cloud Security](https://www.tenable.com/cloud-security)
     * [Vulnerability Management](https://www.tenable.com/products/vulnerability-management)
@@ -295,36 +294,44 @@ Tenable is named a leading force in vulnerability management and top ranked amon
     * [Attack Path Analysis](https://www.tenable.com/products/tenable-one/attack-path-analysis)
     * [GenAI Analytics](https://www.tenable.com/solutions/exposure-ai)
 * Products
+    * #### Tenable products
+        
+    * [Tenable products overview](https://www.tenable.com/products)
     * [Tenable One Exposure Management Platform](https://www.tenable.com/products/tenable-one)
-    * [Tenable Cloud Security (CNAPP)](https://www.tenable.com/cloud-security/products/cloud-native-application-protection-platform)
-    * [Tenable CIEM](https://www.tenable.com/cloud-security/products/cloud-infrastructure-entitlement-management)
-    * [Tenable Just in Time Access (JIT)](https://www.tenable.com/cloud-security/products/just-in-time)
-    * [Tenable Open Source](https://www.tenable.com/cloud-security/products/open-source)
-    * [Tenable Vulnerability Management](https://www.tenable.com/products/vulnerability-management)
-    * [Tenable Security Center](https://www.tenable.com/products/security-center)
-    * [Tenable Web App Scanning](https://www.tenable.com/products/web-app-scanning)
-    * [Tenable Lumin](https://www.tenable.com/products/tenable-lumin)
-    * [Tenable Attack Surface Management](https://www.tenable.com/products/attack-surface-management)
-    * [Tenable OT Security](https://www.tenable.com/products/ot-security)
-    * [Tenable Identity Exposure](https://www.tenable.com/products/identity-exposure)
-    * [Tenable Nessus](https://www.tenable.com/products/nessus)
+    * Cloud Exposure
+        * [Tenable Cloud Security (CNAPP)](https://www.tenable.com/cloud-security)
+        * [Tenable CIEM](https://www.tenable.com/cloud-security/products/cloud-infrastructure-entitlement-management)
+        * [Tenable Just in Time Access (JIT)](https://www.tenable.com/cloud-security/products/just-in-time)
+        * [Tenable Open Source](https://www.tenable.com/cloud-security/products/open-source)
+    * Vulnerability Exposure
+        * [Tenable Vulnerability Management](https://www.tenable.com/products/vulnerability-management)
+        * [Tenable Security Center](https://www.tenable.com/products/security-center)
+        * [Tenable Web App Scanning](https://www.tenable.com/products/web-app-scanning)
+        * [Tenable Lumin](https://www.tenable.com/products/tenable-lumin)
+        * [Tenable Attack Surface Management](https://www.tenable.com/products/attack-surface-management)
+        * [Tenable Nessus](https://www.tenable.com/products/nessus)
+    * [OT/IoT Exposure](https://www.tenable.com/products/ot-security)
+    * [Identity Exposure](https://www.tenable.com/products/identity-exposure)
 * Solutions
-    * Business Needs
+    * #### Tenable solutions
+        
+    * [Solutions overview](https://www.tenable.com/solutions)
+    * Business needs
         * [Active Directory](https://www.tenable.com/solutions/active-directory)
         * [Compliance](https://www.tenable.com/solutions/compliance)
-        * [Cyber Insurance](https://www.tenable.com/cyber-insurance)
+        * [Cyber insurance](https://www.tenable.com/cyber-insurance)
         * [IT / OT](https://www.tenable.com/solutions/it-ot)
         * [Ransomware](https://www.tenable.com/solutions/ransomware)
-        * [Vulnerability Assessment](https://www.tenable.com/solutions/vulnerability-assessment)
-        * [Vulnerability Management](https://www.tenable.com/solutions/vulnerability-management)
-        * [Zero Trust](https://www.tenable.com/solutions/zero-trust)
+        * [Vulnerability assessment](https://www.tenable.com/solutions/vulnerability-assessment)
+        * [Vulnerability management](https://www.tenable.com/solutions/vulnerability-management)
+        * [Zero trust](https://www.tenable.com/solutions/zero-trust)
     * Industries
-        * [Automotive Manufacturing](https://www.tenable.com/solutions/automotive-manufacturing)
+        * [Automotive manufacturing](https://www.tenable.com/solutions/automotive-manufacturing)
         * [Energy](https://www.tenable.com/solutions/energy)
         * [Finance](https://www.tenable.com/solutions/finance)
         * [Healthcare](https://www.tenable.com/solutions/healthcare)
-        * [Oil & Gas](https://www.tenable.com/solutions/oil-and-gas)
-        * [More Industries](https://www.tenable.com/solutions#industries)
+        * [Oil and gas](https://www.tenable.com/solutions/oil-and-gas)
+        * [More industries](https://www.tenable.com/solutions#Industries)
     * Compliance
         * [Critical Infrastructure Regulations](https://www.tenable.com/cybersecurity-regulations)
         * [FISMA](https://www.tenable.com/solutions/fisma)
@@ -332,78 +339,100 @@ Tenable is named a leading force in vulnerability management and top ranked amon
         * [NERC CIP](https://www.tenable.com/solutions/nerc-cip)
         * [NIS Directive](https://www.tenable.com/solutions/nis-directive-compliance)
         * [PCI](https://www.tenable.com/solutions/pci-dss)
-        * [Security Frameworks](https://www.tenable.com/solutions/security-frameworks)
-    * Public Sector
+        * [Security frameworks](https://www.tenable.com/solutions/security-frameworks)
+    * Public sector
         * [State / Local / Education](https://www.tenable.com/solutions/sled)
-        * [US Federal](https://www.tenable.com/solutions/government/us-fed)
-    * [View All Solutions](https://www.tenable.com/solutions/)
+        * [US federal](https://www.tenable.com/solutions/government/us-fed)
+    * [View all solutions](https://www.tenable.com/solutions/)
+* [Why Tenable](https://www.tenable.com/why-tenable)
 * Resources
+    * #### Tenable resources
+        
     * Resources
-        * [Resource Library](https://www.tenable.com/resources)
+        * [Resource library](https://www.tenable.com/resources)
         * [Webinars](https://www.tenable.com/webinars)
         * [Blog](https://www.tenable.com/blog)
-        * [Training and Certification](https://www.tenable.com/education)
-        * [Cybersecurity Guide](https://www.tenable.com/cybersecurity-guide)
-        * [Customer Stories](https://www.tenable.com/customers)
+        * [Training and certification](https://www.tenable.com/education)
+        * [Cybersecurity guide](https://www.tenable.com/cybersecurity-guide)
+        * [Customer stories](https://www.tenable.com/customers)
     * Research
-        * [Research Center](https://www.tenable.com/research)
-        * [Security Plugins](https://www.tenable.com/plugins)
-        * [Zero-Day Research](https://www.tenable.com/security/research)
-        * [Research Blog](https://www.tenable.com/blog/search?field_blog_section_tid=49)
-        * [Research Community](https://community.tenable.com/s/)
+        * [Research center](https://www.tenable.com/research)
+        * [Security plugins](https://www.tenable.com/plugins)
+        * [Zero-Day research](https://www.tenable.com/security/research)
+        * [Research blog](https://www.tenable.com/blog/search?field_blog_section_tid=49)
+        * [Research community](https://community.tenable.com/s/)
 * Partners
-    * Find a Partner
-        * [Search Resellers](https://www.tenable.com/partner-locator/resellers)
-        * [Search Distributors](https://www.tenable.com/partner-locator/distributors)
+    * #### Tenable partners
+        
+    * Find a partner
+        * [Search resellers](https://www.tenable.com/partner-locator/resellers)
+        * [Search distributors](https://www.tenable.com/partner-locator/distributors)
         * [Search MSSP](https://www.tenable.com/partner-locator/mssp)
-    * Tenable Assure Partners
+    * Tenable Assure partners
         * [Overview](https://www.tenable.com/partners)
-        * [Channel Partner Program](https://www.tenable.com/partners/channel-partner-program)
-        * [MSSP Partner Program](https://www.tenable.com/partners/mssp-partner-program)
-        * [Partner Application](https://www.tenable.com/partners/assure-program-application)
-        * [Partner Portal](https://partners.tenable.com/#/page/partner-login)
-    * Technology Partners
-        * [Technology Ecosystem](https://www.tenable.com/partners/technology)
-        * [Research Alliance Program](https://www.tenable.com/partners/research)
+        * [Channel partner program](https://www.tenable.com/partners/channel-partner-program)
+        * [MSSP partner program](https://www.tenable.com/partners/mssp-partner-program)
+        * [Partner application](https://www.tenable.com/partners/assure-program-application)
+        * [Partner portal](https://partners.tenable.com/#/page/partner-login)
+    * Technology partners
+        * [Technology ecosystem](https://www.tenable.com/partners/technology)
+        * [Research alliance program](https://www.tenable.com/partners/research)
 * Support
+    * #### Tenable support
+        
     * Support
-        * [Technical Support](https://www.tenable.com/support)
-        * [Tenable Community](https://community.tenable.com/s/)
+        * [Technical support](https://www.tenable.com/support)
+        * [Tenable community](https://community.tenable.com/s/)
         * [Documentation](https://docs.tenable.com/)
     * Services
-        * [Professional Services](https://www.tenable.com/services)
-        * [Training and Certification](https://www.tenable.com/education)
-        * [Buy Certification](https://www.tenable.com/buy/certification)
-    * Tenable Trust
-        * [System Status](https://status.tenable.com/)
-        * [Security and Compliance](https://www.tenable.com/trust/assurance)
-        * [Data Protection](https://www.tenable.com/gdpr-alignment)
+        * [Professional services](https://www.tenable.com/services)
+        * [Training and certification](https://www.tenable.com/education)
+        * [Buy certification](https://www.tenable.com/buy/certification)
+    * Tenable trust
+        * [System status](https://status.tenable.com/)
+        * [Security and compliance](https://www.tenable.com/trust/assurance)
+        * [Data protection](https://www.tenable.com/gdpr-alignment)
 * Company
-    * About Us
+    * #### About Tenable
+        
+    * About us
         * [About Tenable](https://www.tenable.com/about-tenable/about-us)
         * [Leadership](https://www.tenable.com/about-tenable/leadership)
-        * [Investor Relations](https://investors.tenable.com/)
-        * [Tenable Ventures](https://www.tenable.com/tenable-ventures)
+        * [Investor relations](https://investors.tenable.com/)
+        * [Tenable ventures](https://www.tenable.com/tenable-ventures)
     * Why Tenable
-        * [Awards and Recognition](https://www.tenable.com/about-tenable/awards)
+        * [Why choose Tenable](https://www.tenable.com/why-tenable)
+        * [Awards and recognition](https://www.tenable.com/why-tenable#awards)
         * [Customer Stories](https://www.tenable.com/customers)
         * [Compare to Microsoft](https://www.tenable.com/ce/tenable-vs-microsoft)
         * [Compare to Qualys](https://www.tenable.com/whitepapers/competitive-guide-security-leaders-guide-to-comparing-tenable-and-qualys)
         * [Compare to Rapid7](https://www.tenable.com/whitepapers/security-leaders-guide-to-comparing-tenable-and-rapid7)
     * Media
-        * [Press Releases](https://www.tenable.com/media#press-releases)
-        * [Financial News Releases](https://investors.tenable.com/news-releases)
+        * [Press releases](https://www.tenable.com/media#press-releases)
+        * [Financial news releases](https://investors.tenable.com/news-releases)
         * [News](https://www.tenable.com/media#news)
-        * [Media Kit](https://www.tenable.com/media#kit)
+        * [Media kit](https://www.tenable.com/media#kit)
     * Connect
-        * [Contact Us](https://www.tenable.com/about-tenable/contact-tenable)
-        * [Try Our Products](https://www.tenable.com/try)
+        * [Contact us](https://www.tenable.com/about-tenable/contact-tenable)
+        * [Try our products](https://www.tenable.com/try)
         * [Events](https://www.tenable.com/events)
-        * [Tenable Community](https://community.tenable.com/s/)
-        * [Subscribe to the Blog](https://info.tenable.com/blog-subscription-page.html)
-    * Join Us
+        * [Tenable community](https://community.tenable.com/s/)
+        * [Subscribe to the blog](https://info.tenable.com/blog-subscription-page.html)
+    * Join us
         * [Careers](https://www.tenable.com/careers)
-        * [Diversity and Inclusion](https://www.tenable.com/about-tenable/diversity-and-inclusion)
+        * [Diversity and inclusion](https://www.tenable.com/about-tenable/diversity-and-inclusion)
+* Language
+    * [English](https://www.tenable.com/?tns_languageOverride=true)
+    * [Deutsch](https://de.tenable.com/?tns_languageOverride=true)
+    * [Français (France)](https://fr.tenable.com/?tns_languageOverride=true)
+    * [Español (América Latina)](https://es-la.tenable.com/?tns_languageOverride=true)
+    * [Português (Brasil)](https://pt-br.tenable.com/?tns_languageOverride=true)
+    * [Italiano](https://it.tenable.com/?tns_languageOverride=true)
+    * [简体中文](https://www.tenablecloud.cn/?tns_languageOverride=true)
+    * [繁體中文](https://zh-tw.tenable.com/?tns_languageOverride=true)
+    * [日本語](https://jp.tenable.com/?tns_languageOverride=true)
+    * [한국어](https://kr.tenable.com/?tns_languageOverride=true)
+    * [العربية](https://ar.tenable.com/?tns_languageOverride=true)
 
 Legal
 =====
@@ -514,10 +543,14 @@ Discover the solution that's right for you.
 [Legal](https://www.tenable.com/legal)  
 [508 Compliance](https://www.tenable.com/section-508-voluntary-product-accessibility)
 
-### Featured Products
+[![](https://static.tenable.com/press/logos/TenableLogo_White_RGB.svg)](https://www.tenable.com/)
+
+* * *
+
+### Featured products
 
 * [Tenable One Exposure Management Platform](https://www.tenable.com/products/tenable-one)
-* [Tenable Cloud Security](https://www.tenable.com/cloud-security/products/cloud-native-application-protection-platform)
+* [Tenable Cloud Security](https://www.tenable.com/cloud-security)
 * [Tenable CIEM](https://www.tenable.com/cloud-security/products/cloud-infrastructure-entitlement-management)
 * [Tenable Vulnerability Management](https://www.tenable.com/products/vulnerability-management)
 * [Tenable Web App Scanning](https://www.tenable.com/products/web-app-scanning)
@@ -527,66 +560,69 @@ Discover the solution that's right for you.
 * [Tenable Security Center](https://www.tenable.com/products/security-center)
 * [Tenable Lumin](https://www.tenable.com/products/tenable-lumin)
 * [Tenable Nessus](https://www.tenable.com/products/nessus)
-* [→ View all Products](https://www.tenable.com/products)
+* [View all](https://www.tenable.com/products)
 
-### Featured Solutions
+### Featured solutions
 
 * [Active Directory](https://www.tenable.com/solutions/active-directory)
-* [Building Management Systems](https://www.tenable.com/solutions/building-management-systems)
-* [Cloud Security Posture Management](https://www.tenable.com/cloud-security/solutions/cspm)
+* [Building management systems](https://www.tenable.com/solutions/building-management-systems)
+* [Cloud security posture management](https://www.tenable.com/cloud-security/solutions/cspm)
 * [Compliance](https://www.tenable.com/solutions/compliance)
-* [Exposure Management](https://www.tenable.com/exposure-management)
+* [Exposure management](https://www.tenable.com/exposure-management)
 * [Finance](https://www.tenable.com/solutions/finance)
-* [General Manufacturing](https://www.tenable.com/solutions/general-manufacturing)
+* [General manufacturing](https://www.tenable.com/solutions/general-manufacturing)
 * [Generative AI](https://www.tenable.com/solutions/exposure-ai)
 * [Healthcare](https://www.tenable.com/solutions/healthcare)
-* [Hybrid Cloud Security](https://www.tenable.com/cloud-security/solutions/hybrid-cloud)
+* [Hybrid cloud security](https://www.tenable.com/cloud-security/solutions/hybrid-cloud)
 * [IT/OT](https://www.tenable.com/solutions/it-ot)
 * [Ransomware](https://www.tenable.com/solutions/ransomware)
 * [State / Local / Education](https://www.tenable.com/solutions/sled)
-* [US Federal](https://www.tenable.com/solutions/government/us-fed)
-* [Vulnerability Management](https://www.tenable.com/solutions/vulnerability-management)
-* [Zero Trust](https://www.tenable.com/solutions/zero-trust)
-* [→ View all Solutions](https://www.tenable.com/solutions)
+* [US federal](https://www.tenable.com/solutions/government/us-fed)
+* [Vulnerability management](https://www.tenable.com/solutions/vulnerability-management)
+* [Zero trust](https://www.tenable.com/solutions/zero-trust)
+* [View all](https://www.tenable.com/solutions)
 
-### Customer Resources
+### Customer resources
 
-* [Resource Library](https://www.tenable.com/resources)
-* [Community & Support](https://community.tenable.com/login)
-* [Customer Education](https://www.tenable.com/education)
+* [Resource library](https://www.tenable.com/resources)
+* [Community & support](https://community.tenable.com/login)
+* [Customer education](https://www.tenable.com/education)
 * [Tenable Research](https://www.tenable.com/research)
 * [Documentation](https://docs.tenable.com/)
-* [Nessus Resource Center](https://www.tenable.com/nessus/resource-center)
-* [Cybersecurity Guide](https://www.tenable.com/cybersecurity-guide)
-* [Compare Tenable](https://www.tenable.com/products/competitive-comparison)
+* [Nessus resource center](https://www.tenable.com/nessus/resource-center)
+* [Cybersecurity guide](https://www.tenable.com/cybersecurity-guide)
+* [Why Tenable](https://www.tenable.com/why-tenable)
 * [Trust](https://www.tenable.com/trust)
-* [System Status](https://status.tenable.com/)
+* [System status](https://status.tenable.com/)
 
 ### Connections
 
 * [Blog](https://www.tenable.com/blog)
-* [Contact Us](https://www.tenable.com/about-tenable/contact-tenable)
+* [Contact us](https://www.tenable.com/about-tenable/contact-tenable)
 * [Careers](https://www.tenable.com/careers)
 * [Investors](https://investors.tenable.com/)
 * [Tenable Ventures](https://www.tenable.com/tenable-ventures)
 * [Events](https://www.tenable.com/events)
 * [Media](https://www.tenable.com/media)
 
-[![Tenable homepage](https://static.tenable.com/press/logos/TenableLogo_FullColor_RGB.svg)](https://www.tenable.com/)
+* * *
 
-[Privacy Policy](https://www.tenable.com/privacy-policy) [Do Not Sell/Share My Personal Information](https://www.tenable.com/privacy-policy/#california-rights) [Legal](https://www.tenable.com/legal) [508 Compliance](https://www.tenable.com/section-508-voluntary-product-accessibility)
+* [Privacy policy](https://www.tenable.com/privacy-policy)
+* [Do not sell/share my personal information](https://www.tenable.com/privacy-policy/#california-rights)
+* [Legal](https://www.tenable.com/legal)
+* [508 compliance](https://www.tenable.com/section-508-voluntary-product-accessibility)
 
-© 2024 Tenable®, Inc. All Rights Reserved
+© 2024 Tenable®, Inc. All rights reserved
 
-[![Linkedin](https://static.tenable.com/marketing/icons/social/SVG/footer-icon-linkedin.svg)](https://www.linkedin.com/company/tenableinc/) [![Twitter](https://static.tenable.com/marketing/icons/social/SVG/footer-icon-twitter.svg)](https://twitter.com/tenablesecurity) [![Youtube](https://static.tenable.com/marketing/icons/social/SVG/footer-icon-youtube.svg)](https://www.youtube.com/channel/UCX_67IPEhqyYF9ppVRAcAwQ) [![Instagram](https://static.tenable.com/marketing/icons/social/SVG/instagram-no-circle.svg)](https://www.instagram.com/tenableofficial/) [![Facebook](https://static.tenable.com/marketing/icons/social/SVG/footer-icon-facebook.svg)](https://www.facebook.com/Tenable.Inc)
+[![Linkedin](https://static.tenable.com/marketing/icons/social/PNG/footer-icon-linkedin-white.png)](https://www.linkedin.com/company/tenableinc/) [![Twitter](https://static.tenable.com/marketing/icons/social/PNG/footer-icon-twitter-white.png)](https://twitter.com/tenablesecurity) [![Youtube](https://static.tenable.com/marketing/icons/social/PNG/footer-icon-youtube-white.png)](https://www.youtube.com/channel/UCX_67IPEhqyYF9ppVRAcAwQ) [![Instagram](https://static.tenable.com/marketing/icons/social/PNG/instagram-no-circle-white.png)](https://www.instagram.com/tenableofficial/) [![Facebook](https://static.tenable.com/marketing/icons/social/PNG/footer-icon-facebook-white.png)](https://www.facebook.com/Tenable.Inc)
 
-Try for Free Buy Now
+Try for free Buy now
 
 ### Tenable Vulnerability Management
 
 Enjoy full access to a modern, cloud-based vulnerability management platform that enables you to see and track all of your assets with unmatched accuracy.
 
-Tenable Vulnerability Management trials created everywhere except UAE will also include Tenable Lumin and Tenable Web App Scanning.
+Your Tenable Vulnerability Management trial also includes Tenable Lumin and Tenable Web App Scanning.
 
 ### Tenable Vulnerability Management
 
@@ -594,7 +630,7 @@ Enjoy full access to a modern, cloud-based vulnerability management platform tha
 
 \- 100 assets +
 
-Choose Your Subscription Option:
+Choose your subscription option:
 
  1 Year  
 **$3,500**
@@ -613,13 +649,13 @@ Please contact us or a [Tenable partner.](https://www.tenable.com/partner-locato
 
 Thank you for your interest in Tenable Vulnerability Management. A representative will be in touch soon.
 
-Try for Free Buy Now
+Try for free Buy now
 
 ### Tenable Vulnerability Management
 
 Enjoy full access to a modern, cloud-based vulnerability management platform that enables you to see and track all of your assets with unmatched accuracy.
 
-Tenable Vulnerability Management trials created everywhere except UAE will also include Tenable Lumin and Tenable Web App Scanning.
+Your Tenable Vulnerability Management trial also includes Tenable Lumin and Tenable Web App Scanning.
 
 ### Tenable Vulnerability Management
 
@@ -627,7 +663,7 @@ Enjoy full access to a modern, cloud-based vulnerability management platform tha
 
 \- 100 assets +
 
-Choose Your Subscription Option:
+Choose your subscription option:
 
  1 Year  
 **$3,500**
@@ -642,17 +678,17 @@ Choose Your Subscription Option:
 
 Please contact us or a [Tenable partner.](https://www.tenable.com/partner-locator/resellers)
 
-### Thank You
+### Thank you
 
 Thank you for your interest in Tenable.io. A representative will be in touch soon.
 
-Try for Free Buy Now
+Try for free Buy now
 
 ### Tenable Vulnerability Management
 
 Enjoy full access to a modern, cloud-based vulnerability management platform that enables you to see and track all of your assets with unmatched accuracy.
 
-Tenable Vulnerability Management trials created everywhere except UAE will also include Tenable Lumin and Tenable Web App Scanning.
+Your Tenable Vulnerability Management trial also includes Tenable Lumin and Tenable Web App Scanning.
 
 ### Tenable Vulnerability Management
 
@@ -660,7 +696,7 @@ Enjoy full access to a modern, cloud-based vulnerability management platform tha
 
 \- 100 assets +
 
-Choose Your Subscription Option:
+Choose your subscription option:
 
  1 Year  
 **$3,500**
@@ -675,11 +711,11 @@ Choose Your Subscription Option:
 
 Please contact us or a [Tenable partner.](https://www.tenable.com/partner-locator/resellers)
 
-### Thank You
+### Thank you
 
 Thank you for your interest in Tenable Vulnerability Management. A representative will be in touch soon.
 
-Try for Free Buy Now
+Try for free Buy now
 
 ### Try Tenable Web App Scanning
 
@@ -699,11 +735,11 @@ Enjoy full access to a modern, cloud-based vulnerability management platform tha
 
 Please contact us or a [Tenable partner.](https://www.tenable.com/partner-locator/resellers)
 
-### Thank You
+### Thank you
 
 Thank you for your interest in Tenable Web App Scanning. A representative will be in touch soon.
 
-Try for Free Contact Sales
+Try for free Contact sales
 
 ### Try Tenable Lumin
 
@@ -713,9 +749,9 @@ Your Tenable Lumin trial also includes Tenable Vulnerability Management and Tena
 
 ### Buy Tenable Lumin
 
-Contact a Sales Representative to see how Tenable Lumin can help you gain insight across your entire organization and manage cyber risk.
+Contact a sales representative to see how Tenable Lumin can help you gain insight across your entire organization and manage cyber risk.
 
-### Thank You
+### Thank you
 
 Thank you for your interest in Tenable Lumin. A representative will be in touch soon.
 
@@ -729,9 +765,9 @@ _\* Field is required_
 
 ### Request a demo of Tenable OT Security
 
-Get the Operational Technology Security You Need.  
+Get the Operational Technology security you need.  
   
-Reduce the Risk You Don’t.
+Reduce the risk you don’t.
 
 ### Request a demo of Tenable Identity Exposure
 
@@ -739,7 +775,7 @@ Continuously detect and respond to Active Directory attacks. No agents. No privi
   
 On-prem and in the cloud.
 
-### Request a Demo of Tenable Cloud Security
+### Request a demo of Tenable Cloud Security
 
 _**Exceptional unified cloud security awaits you!**_
 
@@ -747,32 +783,28 @@ We’ll show you exactly how Tenable Cloud Security helps you deliver multi-clou
 
 ### See  
 Tenable One  
-In Action
+in action
 
 Exposure management for the modern attack surface.
 
-### See Tenable Attack Surface Management In Action
+### See Tenable Attack Surface Management in action
 
 Know the exposure of every asset on any platform.
 
-### Thank You
+Try for free Buy now
 
-Thank you for your interest in Tenable Attack Surface Management. A representative will be in touch soon.
+### Try Tenable Nessus Professional free
 
-Try for Free Buy Now
-
-### Try Tenable Nessus Professional Free
-
-FREE FOR 7 DAYS
+Free for 7 days
 
 Tenable Nessus is the most comprehensive vulnerability scanner on the market today.
 
 #### NEW - Tenable Nessus Expert  
-Now Available
+now available
 
 Nessus Expert adds even more features, including external attack surface scanning, and the ability to add domains and scan cloud infrastructure. **[Click here to Try Nessus Expert.](https://www.tenable.com/products/nessus/nessus-expert/evaluate?utm_source=tenable-com&utm_medium=modal&utm_campaign=try-nessus-pro-upsell)**
 
-Fill out the form below to continue with a Nessus Pro Trial.
+Fill out the form below to continue with a Nessus Pro trial.
 
 ### Buy Tenable Nessus Professional
 
@@ -798,15 +830,15 @@ Add Support and Training
 
 \*VAT incl.
 
-Try for Free Buy Now
+Try for free Buy now
 
-### Try Tenable Nessus Expert Free
+### Try Tenable Nessus Expert free
 
-FREE FOR 7 DAYS
+Free for 7 days.
 
 Built for the modern attack surface, Nessus Expert enables you to see more and protect your organization from vulnerabilities from IT to the cloud.
 
-**Already have Tenable Nessus Professional?[](https://www.tenable.com/products/nessus/nessus-expert/evaluate/upgrade)**[Upgrade to Nessus Expert free for 7 days.](https://www.tenable.com/products/nessus/nessus-expert/evaluate/upgrade)
+**Already have Tenable Nessus Professional?**[Upgrade to Nessus Expert free for 7 days.](https://www.tenable.com/products/nessus/nessus-expert/evaluate/upgrade)
 
 ### Buy Tenable Nessus Expert
 
