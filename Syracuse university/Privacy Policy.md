@@ -12,6 +12,7 @@ Dismiss
     * [Graduate Programs](https://www.syracuse.edu/academics/programs/?level=graduate)
     * [Online Programs](https://www.syracuse.edu/academics/programs/?get_delivery_method_display=fully+online)
     * [Certificates and Credentials](https://www.syracuse.edu/academics/programs/?level=certificate)
+    * [Selecting A Major](https://www.syracuse.edu/academics/selecting-a-major/)
     * [Study Abroad or Away](https://www.syracuse.edu/academics/study-abroad-away/)
     * [Other Academic Opportunities](https://www.syracuse.edu/academics/other-academic-opportunities/)
     * [Career Paths](https://www.syracuse.edu/academics/career-paths/)
@@ -40,6 +41,8 @@ Dismiss
     * [Veteran and Military](https://www.syracuse.edu/campus-life/veteran-military-student-support/)
     * [Student Services](https://www.syracuse.edu/campus-life/student-services/)
     * [Student Centers](https://www.syracuse.edu/campus-life/student-centers/)
+    * [Arts at Syracuse University](https://www.syracuse.edu/campus-life/arts/)
+    * [Libraries](https://www.syracuse.edu/campus-life/libraries/)
     
 * [Research](https://www.syracuse.edu/research/)
     
@@ -69,6 +72,7 @@ Dismiss
     * [Graduate Programs](https://www.syracuse.edu/academics/programs/?level=graduate)
     * [Online Programs](https://www.syracuse.edu/academics/programs/?get_delivery_method_display=fully+online)
     * [Certificates and Credentials](https://www.syracuse.edu/academics/programs/?level=certificate)
+    * [Selecting A Major](https://www.syracuse.edu/academics/selecting-a-major/)
     * [Study Abroad or Away](https://www.syracuse.edu/academics/study-abroad-away/)
     * [Other Academic Opportunities](https://www.syracuse.edu/academics/other-academic-opportunities/)
     * [Career Paths](https://www.syracuse.edu/academics/career-paths/)
@@ -97,6 +101,8 @@ Dismiss
     * [Veteran and Military](https://www.syracuse.edu/campus-life/veteran-military-student-support/)
     * [Student Services](https://www.syracuse.edu/campus-life/student-services/)
     * [Student Centers](https://www.syracuse.edu/campus-life/student-centers/)
+    * [Arts at Syracuse University](https://www.syracuse.edu/campus-life/arts/)
+    * [Libraries](https://www.syracuse.edu/campus-life/libraries/)
     
 * [Research](https://www.syracuse.edu/research/)
     
@@ -372,14 +378,13 @@ Information for
 * [Parents and Families](https://www.syracuse.edu/admissions-aid/application-process/undergraduate/parents-families/)
 
 * [Stories](https://www.syracuse.edu/stories/)
-* [Libraries, Collections and Galleries](https://www.syracuse.edu/campus-life/highlights/libraries-collections-galleries/)
 * [Campus Map](https://www.syracuse.edu/map/)
 * [Campus Store](https://www.syracuse.edu/campus-life/highlights/campus-store/)
 * [Work at Syracuse](https://www.syracuse.edu/work-at-syracuse-university/)
 * [Syracuse University Brand](https://www.syracuse.edu/brand/)
 * [Human Resources](https://hr.syr.edu/)
 * [Accreditation](https://middlestates.syr.edu/)
-* [Title IX](https://sexualrelationshipviolence.syr.edu/)
+* [Title IX](https://www.syracuse.edu/title-ix/)
 * [Accessibility](https://www.syracuse.edu/about/accessibility/)
 
 Login
