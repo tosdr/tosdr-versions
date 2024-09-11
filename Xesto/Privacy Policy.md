@@ -1,4 +1,4 @@
-[![](https://assets-global.website-files.com/60edc9e07c55fbb772884be6/61b63bcfa1e6390bb46a1680_shoe%20scanning%20app%20_%20Xesto.png)](https://www.xesto.io/)
+[![](https://cdn.prod.website-files.com/60edc9e07c55fbb772884be6/61b63bcfa1e6390bb46a1680_shoe%20scanning%20app%20_%20Xesto.png)](https://www.xesto.io/)
 
 [Home](https://www.xesto.io/)[Product](https://www.xesto.io/product)[Demo](#)[Team](https://www.xesto.io/team)[Contact](https://www.xesto.io/contact)
 
@@ -192,7 +192,7 @@ If you have any questions about this Privacy Policy or the Service, please conta
 
 Xesto may modify or update this Privacy Policy from time to time, so please review it periodically. We may provide you additional forms of notice of modifications or updates as appropriate under the circumstances. Your continued use of Xesto or the Service after any modification to this Privacy Policy will constitute your acceptance of such modification.
 
-[![](https://assets-global.website-files.com/60edc9e07c55fbb772884be6/60edca422d2f61c405de5ac8_Coloured%20Logo%20(Official%20Logo)%20Transparent.png)](https://www.xesto.io/)
+[![](https://cdn.prod.website-files.com/60edc9e07c55fbb772884be6/60edca422d2f61c405de5ac8_Coloured%20Logo%20(Official%20Logo)%20Transparent.png)](https://www.xesto.io/)
 
 Xesto Inc.  
 Toronto, ON, CA
