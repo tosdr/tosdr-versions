@@ -46,7 +46,7 @@ We collect, use, and share **Aggregated Data** such as statistical or demographi
 
 Specifically, **we do not collect or capture sensitive data such as credit or debit card numbers, personal financial account information, Social Security numbers, passport numbers, driver’s license numbers or similar identifiers, or employment, financial or health information**. We hereby disclaims any liability for any such sensitive information that is input into Vimcal by the user.
 
-We also do not collect any **Special Categories of Personal Data** about you (this includes details about your race or ethnicity, religious or philosophical beliefs, sexual orientation, political opinions, trade union membership, information about your health, and genetic and biometric data).Nor do we collect any information about criminal convictions and offenses.
+We also do not collect any **Special Categories of Personal Data** about you (this includes details about your race or ethnicity, religious or philosophical beliefs, sexual orientation, political opinions, trade union membership, information about your health, and genetic and biometric data). Nor do we collect any information about criminal convictions and offenses.
 
 Notwithstanding anything to the contrary, any information that is collected by Vimcal is almost entirely stored locally with you and in small part on Company services, primarily because we use Google’s and Microsoft's API as the source of truth. For example, your company information or personal contacts are not stored in our services, but only with you. When you log out from your Device, most of your data is erased.
 
@@ -130,7 +130,7 @@ We also collect the following data from our partners:
 
 #### 7\. Third-Party Information Collection
 
-When you use or access Vimcal or its/their content, certain third parties may use automatic information collection technologies to collect information about you or yourDevice, or you may otherwise be accessing and using third-party platforms, software, and applications. These third parties may include, without limitation: media platforms and services; analytics companies; your Device manufacturer; your vendor.
+When you use or access Vimcal or its/their content, certain third parties may use automatic information collection technologies to collect information about you or your Device, or you may otherwise be accessing and using third-party platforms, software, and applications. These third parties may include, without limitation: media platforms and services; analytics companies; your Device manufacturer; your vendor.
 
 We do not control these third parties’ tracking technologies or how they may be used. If you have any questions about a third party’s processing of your information, you should contact the responsible provider directly. You acknowledge and agree that your access and use of such third party tools may be subject to their respective terms of use and privacy policies.
 
@@ -138,7 +138,7 @@ We do not control these third parties’ tracking technologies or how they may b
 
 ‍
 
-#### 8\. Why Do We Collect YourData
+#### 8\. Why Do We Collect Your Data
 
 _8.1._ To make Vimcal work.
 
@@ -234,7 +234,7 @@ In addition, we may disclose personal information that we collect or you provide
 
 #### 10\. Data Security
 
-To enhance the security of Vimcal, we encrypt user tokens, API keys, and authentication cookies, both at rest and in transit. Additionally, authorization cookies are HTTP-only, and requests betweenUser and server are scoped to each individual user, so that User data is siloed.
+To enhance the security of Vimcal, we encrypt user tokens, API keys, and authentication cookies, both at rest and in transit. Additionally, authorization cookies are HTTP-only, and requests between User and server are scoped to each individual user, so that User data is siloed.
 
 Unfortunately, the transmission of information via the internet and mobile platforms is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted through Vimcal. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures we provide.
 
@@ -244,7 +244,7 @@ Unfortunately, the transmission of information via the internet and mobile platf
 
 #### 11\. International Data Transfers
 
-Vimcal, the Site, and its services may be accessed globally (despite the geographic restrictions we implement) and your data can therefore be transferred to anywhere in the world.Because different countries may have different data protection laws than theUnited States (or your own country, if you are using Vimcal outside of theUnited States), we take steps to ensure adequate safeguards are in place to protect your data as explained in this privacy policy.
+Vimcal, the Site, and its services may be accessed globally (despite the geographic restrictions we implement) and your data can therefore be transferred to anywhere in the world. Because different countries may have different data protection laws than theUnited States (or your own country, if you are using Vimcal outside of theUnited States), we take steps to ensure adequate safeguards are in place to protect your data as explained in this privacy policy.
 
 ‍
 
@@ -256,7 +256,7 @@ You have the right to:
 
 ▪  **Opt-out** of marketing emails and other direct marketing.
 
-▪  **Request access** to your personal data (commonly known as a“data subject access request”). This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it.
+▪  **Request access** to your personal data (commonly known as a “data subject access request”). This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it.
 
 ▪  **Request correction** of the personal data that we hold about you.This enables you to have any incomplete or inaccurate data we hold about you corrected, though we may need to verify the accuracy of the new data you provide to us.
 
