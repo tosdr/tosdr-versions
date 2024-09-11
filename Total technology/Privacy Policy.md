@@ -15,6 +15,7 @@
 * [Compliance](https://totaltechnology.com/data-security/)
     * [Data Security](https://totaltechnology.com/data-security/)
     * [eWaste](https://totaltechnology.com/ewaste/)
+    * [Certifications](https://totaltechnology.com/certifications/)
 * [Partners](https://totaltechnology.com/partners/)
 * [Reach out to us](https://totaltechnology.com/contact/)
 
@@ -22,8 +23,6 @@
 
 PRIVACY POLICY FOR TOTAL TECHNOLOGY
 ===================================
-
-![Privacy Policy hero](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201102%20980'%3E%3C/svg%3E)
 
 ![Privacy Policy hero](https://totaltechnology.com/wp-content/uploads/2022/04/computers-image.png)
 
