@@ -1,6 +1,4 @@
-[Skip to content](#geist-skip-nav)
-
-[](https://vercel.com/home)
+[![vercel-logotype Logo](/mktng/_next/static/media/logo-vercel-logotype-light.700a8d26.svg)![vercel-logotype Logo](/mktng/_next/static/media/logo-vercel-logotype-dark.e8c0a742.svg)](https://vercel.com/home)
 
 * Products
     
@@ -41,7 +39,7 @@
         
         * [AI Apps
             
-            Deploy at the speed of AI](https://vercel.com/ai)
+            Deploy at the speed of AI](https://vercel.com/solutions/ai-apps)
         * [Composable Commerce
             
             Power storefronts that convert](https://vercel.com/solutions/composable-commerce)
@@ -70,9 +68,9 @@
         * [Resource Center
             
             Today’s best practices](https://vercel.com/resources)
-        * [Integrations
+        * [Marketplace
             
-            Extend and automate workflows](https://vercel.com/integrations)
+            Extend and automate workflows](https://vercel.com/marketplace)
         * [Templates
             
             Jumpstart app development](https://vercel.com/templates)
@@ -97,7 +95,7 @@
 
 [Log In](https://vercel.com/login)[Contact](https://vercel.com/contact)
 
-[Sign Up](https://vercel.com/signup)
+[Sign Up](https://vercel.com/signup)[Sign Up](https://vercel.com/signup)
 
 Terms of Service
 ================
@@ -155,7 +153,7 @@ On this page
 22. [Previews](#previews "Previews")
 23. [Schedule I](#schedule-i "Schedule I")
 
-Subject to these Terms of Service (this "Agreement"), **Vercel Inc.** ("Vercel", "we", "us" and/or "our") provides access to Vercel's Services. “Services” means, collectively, any products or services made available by Vercel or its affiliates; provided that, your use of certain Services requires acceptance of additional terms as set forth in [Schedule I](#schedule-i) hereto; and provided further, that, for the avoidance of doubt, any software that we provide exclusively under open source licenses (including, without limitation, Next.js) are not covered by this Agreement. By using or accessing the Services, you acknowledge that you have read, understand, and agree to be bound by this Agreement.
+Subject to these Terms of Service (this "Agreement"), **Vercel Inc.** ("Vercel", "we", "us" and/or "our") provides access to Vercel's Services. "Services" means, collectively, any products or services made available by Vercel or its affiliates; provided that, your use of certain Services requires acceptance of additional terms as set forth in [Schedule I](#schedule-i) hereto; and provided further, that, for the avoidance of doubt, any software that we provide exclusively under open source licenses (including, without limitation, Next.js) are not covered by this Agreement. By using or accessing the Services, you acknowledge that you have read, understand, and agree to be bound by this Agreement.
 
 If you are entering into this Agreement on behalf of a company, business or other legal entity, you represent that you have the authority to bind such entity to this Agreement, in which case the term "you" shall refer to such entity. If you do not have such authority, or if you do not agree with this Agreement, you must not accept this Agreement and may not use the Services.
 
@@ -174,7 +172,7 @@ During the period for which you are authorized to use the Services, and subject 
 3\. Your Content
 ----------------
 
-You are solely responsible for all software, code, data, information, feedback, suggestions, text, content and other materials that you upload, post, deliver, provide or otherwise transmit or store (hereafter "post(ing)") in connection with or relating to the Services ("Your Content"). You are responsible for maintaining the confidentiality of usernames and passwords associated with your account and for all activities that occur under your account. Vercel reserves the right to access your account in order to respond to your requests for technical support. By posting Your Content on or through the Services, you grant Vercel a worldwide, non-exclusive, royalty-free, fully paid, sublicensable and transferable license to use, copy, modify, reproduce, distribute, display, publish, store and perform Your Content as necessary to provide the Services and for security to protect the Services and third parties from fraud, malware, malicious files or content, viruses and the like. You further agree that Vercel may remove or disable any of Your Content at any time for any reason (including, but not limited to, upon receipt of claims or allegations from third-parties or authorities relating to Your Content), or for no reason at all; provided, that if you are a user of our Services in the European Economic Area (i) we will remove or disable Your Content or impose restrictions on your use of the Services in accordance with applicable laws including if it is illegal content, infringes the rights of third parties, or breaches this Agreement; (ii) if we remove, block or restrict your use of the Services or Your Content, you, and any third party that may have informed us about your use of the Services or Your Content, may contact us about our decision at [](https://vercel.com/help)[https://vercel.com/help](https://vercel.com/help) and we will review and consider your message with a view to promptly resolving any complaint and, if appropriate, we will explain any options you have to request another review.
+You are solely responsible for all software, code, data, information, feedback, suggestions, text, content and other materials that you upload, post, deliver, provide or otherwise transmit or store (hereafter "post(ing)") in connection with or relating to the Services ("Your Content"). You are responsible for maintaining the confidentiality of usernames and passwords associated with your account and for all activities that occur under your account. Vercel reserves the right to access your account in order to respond to your requests for technical support. By posting Your Content on or through the Services, you grant Vercel a worldwide, non-exclusive, royalty-free, fully paid, sublicensable and transferable license to use, copy, modify, reproduce, distribute, display, publish, store and perform Your Content as necessary to provide the Services and for security to protect the Services and third parties from fraud, malware, malicious files or content, viruses and the like. You further agree that Vercel may remove or disable any of Your Content at any time for any reason (including, but not limited to, upon receipt of claims or allegations from third-parties or authorities relating to Your Content), or for no reason at all; provided, that if you are a user of our Services in the European Economic Area (i) we will remove or disable Your Content or impose restrictions on your use of the Services in accordance with applicable laws including if it is illegal content, infringes the rights of third parties, or breaches this Agreement; (ii) if we remove, block or restrict your use of the Services or Your Content, you, and any third party that may have informed us about your use of the Services or Your Content, may contact us about our decision at [https://vercel.com/help](https://vercel.com/help) and we will review and consider your message with a view to promptly resolving any complaint and, if appropriate, we will explain any options you have to request another review.
 
 4\. Hobby Plan
 --------------
@@ -192,17 +190,17 @@ Your use of the Services (which include, for the purposes of this Section 5, par
 
 **5.3**. You shall not attempt to contribute to or enable the selling or movement of illegal goods and services.
 
-**5.4**. The Services and/or Vercel’s network resources may not be used to impersonate another person or entity, or to misrepresent authorization to act on behalf of another person or entity, including Vercel.
+**5.4**. The Services and/or Vercel's network resources may not be used to impersonate another person or entity, or to misrepresent authorization to act on behalf of another person or entity, including Vercel.
 
 **5.5**. You must not introduce software or automated agents or scripts into Vercel's website in order to produce multiple accounts, generate automated searches, requests or queries, or to strip or mine content or data from Vercel's website.
 
-**5.6**. You must not circumvent or otherwise misuse Vercel’s limits or usage guidelines, as described in [Section 9](#usage-restrictions) (Usage Restrictions) and Vercel’s Fair Use Guidelines, including by creating multiple accounts.
+**5.6**. You must not circumvent or otherwise misuse Vercel's limits or usage guidelines, as described in [Section 9](#usage-restrictions) (Usage Restrictions) and Vercel's Fair Use Guidelines, including by creating multiple accounts.
 
 **5.7**. You must not access Vercel's websites through automated methods, including any use of robots or other computer code which calls Vercel's website.
 
-**5.8**. You shall not send unsolicited messages, use the Services to send unsolicited messages (also known as junk mail or SPAM), or create spammy content, including ‘clickbait’ or ‘clickfraud’ schemes, in each case as determined by Vercel in its sole discretion.
+**5.8**. You shall not send unsolicited messages, use the Services to send unsolicited messages (also known as junk mail or SPAM), or create spammy content, including ‘clickbait' or ‘clickfraud' schemes, in each case as determined by Vercel in its sole discretion.
 
-**5.9**. Your use of the Services must not involve any synthetic media or materials (“deepfakes”) that promote any type of illegal activity, including, without limitation, any child sexual exploitation or child sexual abuse.
+**5.9**. Your use of the Services must not involve any synthetic media or materials ("deepfakes") that promote any type of illegal activity, including, without limitation, any child sexual exploitation or child sexual abuse.
 
 **5.10**. You shall not use the Services to reproduce the functionality of Vercel Services, including any storage products.
 
@@ -232,13 +230,13 @@ Without limiting any terms of this Agreement, you shall not use the Services for
 
 ### 7.1 General
 
-You shall configure Your Content, including any of your projects or deployments, such that the transmission, storage, or use in any way will not expose personal data or personal information without proper consent from individuals as determined by applicable law. You shall configure the Services in accordance with the Documentation and properly implement encryption as set forth in the Documentation. Vercel implements regular backups of Your Content and you shall also maintain its own backups of Your Content. Vercel will have no liability to you for any unauthorized access or use of any of Your Content or any corruption, deletion, destruction or loss of any Your Content to the extent that is attributable, in whole or in part, to your misconfigurations or an insecurity in your website or project, malware or malicious content in your website, Your Content or project. If any actual or suspected security incident, vulnerabilities, violations of this Section 7, or issue related to the Services are identified, you shall immediately report it to [](mailto:security@vercel.com)[security@vercel.com](mailto:security@vercel.com).
+You shall configure Your Content, including any of your projects or deployments, such that the transmission, storage, or use in any way will not expose personal data or personal information without proper consent from individuals as determined by applicable law. You shall configure the Services in accordance with the Documentation and properly implement encryption as set forth in the Documentation. Vercel implements regular backups of Your Content and you shall also maintain its own backups of Your Content. Vercel will have no liability to you for any unauthorized access or use of any of Your Content or any corruption, deletion, destruction or loss of any Your Content to the extent that is attributable, in whole or in part, to your misconfigurations or an insecurity in your website or project, malware or malicious content in your website, Your Content or project. If any actual or suspected security incident, vulnerabilities, violations of this Section 7, or issue related to the Services are identified, you shall immediately report it to [security@vercel.com](mailto:security@vercel.com).
 
   
 
 ### 7.2 PCI Compliance
 
-Vercel is not a payment processor. To the extent that Your Content or Your Data (as defined below) is subject to the Payment Card Industry Data Security Standards (PCI DSS), you acknowledge that you are responsible for maintaining and monitoring compliance with PCI DSS requirements as prescribed by the PCI Security Standards Council as may be amended from time to time. You agree to comply with Vercel’s Documentation on appropriate implementation of the Services for processing payments.
+Vercel is not a payment processor. To the extent that Your Content or Your Data (as defined below) is subject to the Payment Card Industry Data Security Standards (PCI DSS), you acknowledge that you are responsible for maintaining and monitoring compliance with PCI DSS requirements as prescribed by the PCI Security Standards Council as may be amended from time to time. You agree to comply with Vercel's Documentation on appropriate implementation of the Services for processing payments.
 
   
 
@@ -392,7 +390,7 @@ Some states do not allow the exclusion of implied warranties or limitation of li
 19\. Miscellaneous
 ------------------
 
-Vercel may change this Agreement from time to time by providing notice either by emailing the email address associated with your account or by posting a notice at [](https://vercel.com/home)[https://vercel.com](https://vercel.com/). You can review the most current version of this Agreement at any time at [](https://vercel.com/legal/terms)[https://vercel.com/legal/terms](https://vercel.com/legal/terms). The revised Agreement will become effective immediately after Vercel posts or sends you notice of such changes, and if you use the Services after that date, your use will constitute acceptance of the revised Agreement. If any change to this Agreement is not acceptable to you, your only remedy is to stop using the Services and send a cancellation email to Vercel Support via the [Help page](https://vercel.com/help). If any provision of this Agreement is found to be unenforceable or invalid, that provision will be limited or eliminated to the minimum extent necessary so that this Agreement will otherwise remain in full force and effect and enforceable. You may not assign, transfer or sublicense without the prior written consent of Vercel, but Vercel may assign or transfer this Agreement, in whole or in part, without restriction. Any attempted assignment or transfer of this Agreement by the parties in contravention of the foregoing shall be null and void. This Agreement is the complete and exclusive statement of the mutual understanding of the parties and supersedes and cancels all previous written and oral agreements, communications and other understandings relating to the subject matter of this Agreement, and that all amendments must be in writing signed by both parties, except as otherwise provided herein. Vercel's failure to exercise or enforce any right or provision of this Agreement shall not be a waiver of that right. No agency, partnership, joint venture, or employment is created as a result of this Agreement and neither party has any authority of any kind to bind the other party in any respect whatsoever. In any action or proceeding to enforce rights under this Agreement, the prevailing party will be entitled to recover costs and attorneys' fees. All notices under this Agreement will be in writing and will be deemed to have been duly given when received, if personally delivered; when receipt is electronically confirmed, if transmitted by email; the day after it is sent, if sent for next day delivery by recognized overnight delivery service; and upon receipt, if sent by certified or registered mail, return receipt requested.Any delays in or failure of performance of Vercel shall not constitute a default hereunder or give rise to any claims for damages if, to the extent that, and for such period that, such delays or failures of performance are caused by any events beyond the reasonable control of Vercel including, without limitation, any of the following specific occurrences: acts of God or the public enemy, acts of terrorism, pandemics, epidemics, labor strikes, expropriation or confiscation of facilities, compliance with any unanticipated duly promulgated governmental order, acts of war, rebellion or sabotage or damage resulting therefrom, fires, floods, explosion, or riots.
+Vercel may change this Agreement from time to time by providing notice either by emailing the email address associated with your account or by posting a notice at [https://vercel.com](https://vercel.com/home). You can review the most current version of this Agreement at any time at [https://vercel.com/legal/terms](https://vercel.com/legal/terms). The revised Agreement will become effective immediately after Vercel posts or sends you notice of such changes, and if you use the Services after that date, your use will constitute acceptance of the revised Agreement. If any change to this Agreement is not acceptable to you, your only remedy is to stop using the Services and send a cancellation email to Vercel Support via the [Help page](https://vercel.com/help). If any provision of this Agreement is found to be unenforceable or invalid, that provision will be limited or eliminated to the minimum extent necessary so that this Agreement will otherwise remain in full force and effect and enforceable. You may not assign, transfer or sublicense without the prior written consent of Vercel, but Vercel may assign or transfer this Agreement, in whole or in part, without restriction. Any attempted assignment or transfer of this Agreement by the parties in contravention of the foregoing shall be null and void. This Agreement is the complete and exclusive statement of the mutual understanding of the parties and supersedes and cancels all previous written and oral agreements, communications and other understandings relating to the subject matter of this Agreement, and that all amendments must be in writing signed by both parties, except as otherwise provided herein. Vercel's failure to exercise or enforce any right or provision of this Agreement shall not be a waiver of that right. No agency, partnership, joint venture, or employment is created as a result of this Agreement and neither party has any authority of any kind to bind the other party in any respect whatsoever. In any action or proceeding to enforce rights under this Agreement, the prevailing party will be entitled to recover costs and attorneys' fees. All notices under this Agreement will be in writing and will be deemed to have been duly given when received, if personally delivered; when receipt is electronically confirmed, if transmitted by email; the day after it is sent, if sent for next day delivery by recognized overnight delivery service; and upon receipt, if sent by certified or registered mail, return receipt requested.Any delays in or failure of performance of Vercel shall not constitute a default hereunder or give rise to any claims for damages if, to the extent that, and for such period that, such delays or failures of performance are caused by any events beyond the reasonable control of Vercel including, without limitation, any of the following specific occurrences: acts of God or the public enemy, acts of terrorism, pandemics, epidemics, labor strikes, expropriation or confiscation of facilities, compliance with any unanticipated duly promulgated governmental order, acts of war, rebellion or sabotage or damage resulting therefrom, fires, floods, explosion, or riots.
 
 20\. Governing Law; Disputes; Arbitration
 -----------------------------------------
@@ -417,19 +415,19 @@ You acknowledge that this Agreement is a contract between you and Vercel, even t
 
 #### 20.3.1 Disputes with a Domestic Customer
 
-If you are located and headquartered in the United States of America, you and Vercel each irrevocably and unconditionally consent to the exclusive jurisdiction of the federal and state courts located in the San Francisco County, California for all proceedings arising out of this contract or related to the parties’ relationship, and you and Vercel agree to only institute such proceedings in those courts. You and Vercel also waive any objection to venue in those courts based on improper venue. You and Vercel agree that a final judgment (subject to appeals) in any such proceeding is conclusive and may be enforced in other jurisdictions by suit on the judgment or in another lawful manner.
+If you are located and headquartered in the United States of America, you and Vercel each irrevocably and unconditionally consent to the exclusive jurisdiction of the federal and state courts located in the San Francisco County, California for all proceedings arising out of this contract or related to the parties' relationship, and you and Vercel agree to only institute such proceedings in those courts. You and Vercel also waive any objection to venue in those courts based on improper venue. You and Vercel agree that a final judgment (subject to appeals) in any such proceeding is conclusive and may be enforced in other jurisdictions by suit on the judgment or in another lawful manner.
 
   
 
 #### 20.3.2. Disputes with a Foreign Customer
 
-If you are located and headquartered outside of the United States of America, then any action related to this Agreement will be governed by California law. Any dispute between you and Vercel that is not resolved through negotiation will be resolved exclusively by final and binding arbitration conducted in accordance with the then-current Comprehensive Arbitration Rules and Procedures of the Judicial Arbitration and Mediation Services ("**JAMS**"). The arbitration will be conducted by a single arbitrator selected by agreement of you and Vercel or, if you and Vercel cannot agree, an arbitrator appointed in accordance with the JAMS rules who shall be experienced in the type of dispute at issue. You and Vercel, their representatives, the arbitrator, and other participants shall keep confidential the existence, content, and result of the arbitration. Any demand for arbitration and any counterclaim must specify in reasonable detail the facts and legal grounds forming the basis for the claimant’s claims and include a statement of the total amount of damages claimed, if any, and any other remedy sought by the claimant. The arbitration will be conducted in the English language; the location of such arbitration shall be in San Francisco, California. Each party will bear its own costs in the arbitration. The arbitrator will have full power and authority to determine issues of arbitrability and to interpret or construe the provisions of the agreement documents and to fashion appropriate remedies (including temporary, preliminary, interim, or permanent injunctive relief); provided that the arbitrator will not have any right or authority: (i) in excess of the authority that a court having jurisdiction over the parties and the dispute would have absent this arbitration agreement; or (ii) to award damages in excess of the types and limitation of damages found in the Agreement. Judgment upon the award may be entered in any court of competent jurisdiction. Notwithstanding the agreement to arbitrate, each party may apply at any time to a court of competent jurisdiction for appropriate injunctive relief or for other interim or conservatory measures, and by doing so will not breach or waive the agreement to arbitrate or impair the powers of the arbitrator.
+If you are located and headquartered outside of the United States of America, then any action related to this Agreement will be governed by California law. Any dispute between you and Vercel that is not resolved through negotiation will be resolved exclusively by final and binding arbitration conducted in accordance with the then-current Comprehensive Arbitration Rules and Procedures of the Judicial Arbitration and Mediation Services ("**JAMS**"). The arbitration will be conducted by a single arbitrator selected by agreement of you and Vercel or, if you and Vercel cannot agree, an arbitrator appointed in accordance with the JAMS rules who shall be experienced in the type of dispute at issue. You and Vercel, their representatives, the arbitrator, and other participants shall keep confidential the existence, content, and result of the arbitration. Any demand for arbitration and any counterclaim must specify in reasonable detail the facts and legal grounds forming the basis for the claimant's claims and include a statement of the total amount of damages claimed, if any, and any other remedy sought by the claimant. The arbitration will be conducted in the English language; the location of such arbitration shall be in San Francisco, California. Each party will bear its own costs in the arbitration. The arbitrator will have full power and authority to determine issues of arbitrability and to interpret or construe the provisions of the agreement documents and to fashion appropriate remedies (including temporary, preliminary, interim, or permanent injunctive relief); provided that the arbitrator will not have any right or authority: (i) in excess of the authority that a court having jurisdiction over the parties and the dispute would have absent this arbitration agreement; or (ii) to award damages in excess of the types and limitation of damages found in the Agreement. Judgment upon the award may be entered in any court of competent jurisdiction. Notwithstanding the agreement to arbitrate, each party may apply at any time to a court of competent jurisdiction for appropriate injunctive relief or for other interim or conservatory measures, and by doing so will not breach or waive the agreement to arbitrate or impair the powers of the arbitrator.
 
   
 
 #### 20.3.3. Opt-Out
 
-You have the right to opt-out and not be bound by the arbitration provisions set forth above by sending written notice of your decision to opt-out to: [](mailto:privacy@vercel.com)[privacy@vercel.com](mailto:privacy@vercel.com) with the subject line "COMPANY ARBITRATION OPT-OUT". The notice must be sent within thirty (30) days of your first use of the Services, otherwise you shall be bound to arbitrate any disputes in accordance with this Agreement providing for binding arbitration. If you opt-out of these arbitration provisions, Vercel also will not be bound by them.
+You have the right to opt-out and not be bound by the arbitration provisions set forth above by sending written notice of your decision to opt-out to: [privacy@vercel.com](mailto:privacy@vercel.com) with the subject line "COMPANY ARBITRATION OPT-OUT". The notice must be sent within thirty (30) days of your first use of the Services, otherwise you shall be bound to arbitrate any disputes in accordance with this Agreement providing for binding arbitration. If you opt-out of these arbitration provisions, Vercel also will not be bound by them.
 
 21\. Previews
 -------------
@@ -459,40 +457,31 @@ If you use the Vercel Storage Products, including, but not limited to, Vercel KV
 
 By using or accessing v0, you further acknowledge that you have read, understand, and agree to be bound by the terms of the [v0 Agreement](https://v0.dev/agreement) which is incorporated into this Agreement.
 
-[](https://vercel.com/home)
-
-© 2024
-
-* [](https://github.com/vercel)
-* [](https://x.com/vercel)
-
 Products
 --------
 
-* [Previews](https://vercel.com/products/previews)
-* [Next.js](https://vercel.com/solutions/nextjs)
-* [Rendering](https://vercel.com/products/rendering)
-* [v0](https://v0.dev/)
-* [Observability](https://vercel.com/products/observability)
-* [Turbo](https://vercel.com/solutions/turborepo)
-* [Security](https://vercel.com/security)
+* [AI](https://vercel.com/ai)
 * [Enterprise](https://vercel.com/enterprise)
-* [Changelog](https://vercel.com/changelog)
-* [CLI & API](https://vercel.com/docs/rest-api)
+* [Next.js](https://vercel.com/solutions/nextjs)
+* [Observability](https://vercel.com/products/observability)
+* [Previews](https://vercel.com/products/previews)
+* [Rendering](https://vercel.com/products/rendering)
+* [Security](https://vercel.com/security)
+* [Turbo](https://vercel.com/solutions/turborepo)
+* [v0](https://v0.dev/)
 
 Resources
 ---------
 
+* [Community](https://vercel.community/)
 * [Docs](https://vercel.com/docs)
 * [Experts](https://vercel.com/experts)
-* [Pricing](https://vercel.com/pricing)
 * [Guides](https://vercel.com/guides)
-* [Customers](https://vercel.com/customers)
 * [Help](https://vercel.com/help)
 * [Integrations](https://vercel.com/integrations)
-* ⌘K
+* [Pricing](https://vercel.com/pricing)
+* [Resources](https://vercel.com/resources)
 * [Templates](https://vercel.com/templates)
-Cookie Preferences
 
 Company
 -------
@@ -500,15 +489,21 @@ Company
 * [About](https://vercel.com/about)
 * [Blog](https://vercel.com/blog)
 * [Careers](https://vercel.com/careers)
+* [Changelog](https://vercel.com/changelog)
 * [Contact Us](https://vercel.com/contact)
-* [Next.js Conf](https://nextjs.org/conf)
-* [Open Source](https://vercel.com/oss)
+* [Customers](https://vercel.com/customers)
 * [Partners](https://vercel.com/partners)
-* [Security](https://vercel.com/security)
 * [Privacy Policy](https://vercel.com/legal/privacy-policy)
 * Legal
 
-* [](https://github.com/vercel)
-* [](https://x.com/vercel)
+Social
+------
 
-Select a display theme:systemlightdark
+* [GitHub](https://github.com/vercel)
+* [LinkedIn](https://linkedin.com/company/vercel)
+* [Twitter](https://x.com/vercel)
+* [YouTube](https://youtube.com/@VercelHQ)
+
+[](https://vercel.com/home)
+
+Select a display theme:system lightdark
