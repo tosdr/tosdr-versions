@@ -119,6 +119,15 @@ Transistor provides podcast hosting and analytics for thousands of organizations
 * [Education podcasts](https://transistor.fm/customers/education)
 * [Government podcasts](https://transistor.fm/customers/veteranaffairs)
 
+### Resources
+
+* [Libsyn Alternative](https://transistor.fm/alternative/libsyn)
+* [Buzzsprout Alternative](https://transistor.fm/alternative/buzzsprout)
+* [Captivate Alternative](https://transistor.fm/alternative/captivate)
+* [Castos Alternative](https://transistor.fm/alternative/castos)
+* [Simplecast Alternative](https://transistor.fm/alternative/simplecast)
+* [bCast Alternative](https://transistor.fm/alternative/bcast)
+
 [](https://podstandards.org/)
 
 © 2024 Transistor Inc. All rights reserved.
