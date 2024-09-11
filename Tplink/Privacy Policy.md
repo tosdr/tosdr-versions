@@ -26,10 +26,10 @@ Where to Buy
 
 [United States / English](https://www.tp-link.com/us/choose-your-location/)
 
-* [kasa](https://www.kasasmart.com/us)
-* [tapo](https://www.tapo.com/us/)
-* [omada](https://www.tp-link.com/us/business-networking/)
-* [VIGI](https://www.vigi.com/us/)
+*  [](https://www.kasasmart.com/us)
+*  [](https://www.tapo.com/us/)
+*  [](https://www.tp-link.com/us/business-networking/)
+*  [](https://www.vigi.com/us/)
 
 [TP-Link, Reliably Smart](https://www.tp-link.com/us/)
 
@@ -236,7 +236,6 @@ Where to Buy
     * [What is VIGI?](https://www.vigi.com/us/about-us/)
     * [Cameras](https://www.vigi.com/us/camera/)
     * [Video Recorders](https://www.vigi.com/us/video-recorder/)
-    * [VIGI Solar Panel](https://www.vigi.com/us/accessory/)
     * [Software Service](https://www.vigi.com/us/software-service/)
     * [All Products](https://www.vigi.com/us/all-vigi-surveillance/)
     
@@ -465,8 +464,6 @@ Where to Buy
         * [Cameras](https://www.vigi.com/us/camera/)
             
         * [Video Recorders](https://www.vigi.com/us/video-recorder/)
-            
-        * [VIGI Solar Panel](https://www.vigi.com/us/accessory/)
             
         * [Software Service](https://www.vigi.com/us/software-service/)
             
@@ -1060,15 +1057,7 @@ Learning Center
 
 [United States / English](https://www.tp-link.com/us/choose-your-location/)
 
-Copyright © 2024 TP-Link USA Corporation. All rights reserved.
-
-From France?
-
-Get products, events and services for your region.
-
-[GO](https://www.tp-link.com/fr/about-us/privacy/) [Other Option](https://www.tp-link.com/us/choose-your-location/)
-
-Close
+Copyright © 2024 TP-Link Systems Inc. All rights reserved.
 
     
 
@@ -1110,7 +1099,7 @@ Google Ads & DoubleClick
 
 test\_cookie, \_gcl\_au
 
-Facebook
+Meta Pixel
 
 \_fbp
 
