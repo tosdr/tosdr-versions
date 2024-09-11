@@ -4,15 +4,14 @@
 
 * [Licensing](https://www.yodo1.com/ip-licensing/)
 * [Game Growth](#)
+    * [Monetization](https://www.yodo1.com/mobile-game-monetization/)
     * [Growth Program](https://www.yodo1.com/mobile-game-growth/)
     * [Publishing](https://www.yodo1.com/mobile-game-publishers/)
-    * [Monetization](https://www.yodo1.com/mobile-game-monetization/)
-    * [Player Engagement](https://fancraft.yodo1.com/)
+    * [FanCraft](https://fancraft.yodo1.com/)
 * [Life at Yodo1](#)
     * [About Us](https://www.yodo1.com/about-us/)
     * [Careers](https://www.yodo1.com/careers/)
     * [Culture](https://www.yodo1.com/culture/)
-    * [Contact Us](https://www.yodo1.com/contact-us/)
 * [Blog](https://www.yodo1.com/blog/)
 * [Resources](https://www.yodo1.com/resources/)
 
@@ -20,35 +19,37 @@ Menu
 
 * [Licensing](https://www.yodo1.com/ip-licensing/)
 * [Game Growth](#)
+    * [Monetization](https://www.yodo1.com/mobile-game-monetization/)
     * [Growth Program](https://www.yodo1.com/mobile-game-growth/)
     * [Publishing](https://www.yodo1.com/mobile-game-publishers/)
-    * [Monetization](https://www.yodo1.com/mobile-game-monetization/)
-    * [Player Engagement](https://fancraft.yodo1.com/)
+    * [FanCraft](https://fancraft.yodo1.com/)
 * [Life at Yodo1](#)
     * [About Us](https://www.yodo1.com/about-us/)
     * [Careers](https://www.yodo1.com/careers/)
     * [Culture](https://www.yodo1.com/culture/)
-    * [Contact Us](https://www.yodo1.com/contact-us/)
 * [Blog](https://www.yodo1.com/blog/)
 * [Resources](https://www.yodo1.com/resources/)
 
-[BOOK A CALL](https://meetings.hubspot.com/rafay-khan/30-min)
+[CONTACT US](https://home.yodo1.com/contact-us/)
+
+[LOG IN](https://mas.yodo1.com/)
 
 [![Yodo1 Logo - Simplifying Mobile Game Growth](https://www.yodo1.com/wp-content/uploads/2022/11/Yodo1_logo_web.png "Yodo1 Logo - Simplifying Mobile Game Growth | Yodo1")](https://www.yodo1.com/)
 
-[BOOK A CALL](https://meetings.hubspot.com/contacts-growth-specialist/speak-with-a-yodo1-games-growth-specialist)
+[CONTACT US](https://home.yodo1.com/contact-us/)
+
+[LOG IN](https://mas.yodo1.com/)
 
 * [Licensing](https://www.yodo1.com/ip-licensing/)
 * [Game Growth](#)
+    * [Monetization](https://www.yodo1.com/mobile-game-monetization/)
     * [Growth Program](https://www.yodo1.com/mobile-game-growth/)
     * [Publishing](https://www.yodo1.com/mobile-game-publishers/)
-    * [Monetization](https://www.yodo1.com/mobile-game-monetization/)
-    * [Player Engagement](https://fancraft.yodo1.com/)
+    * [FanCraft](https://fancraft.yodo1.com/)
 * [Life at Yodo1](#)
     * [About Us](https://www.yodo1.com/about-us/)
     * [Careers](https://www.yodo1.com/careers/)
     * [Culture](https://www.yodo1.com/culture/)
-    * [Contact Us](https://www.yodo1.com/contact-us/)
 * [Blog](https://www.yodo1.com/blog/)
 * [Resources](https://www.yodo1.com/resources/)
 
@@ -56,19 +57,16 @@ Menu
 
 * [Licensing](https://www.yodo1.com/ip-licensing/)
 * [Game Growth](#)
+    * [Monetization](https://www.yodo1.com/mobile-game-monetization/)
     * [Growth Program](https://www.yodo1.com/mobile-game-growth/)
     * [Publishing](https://www.yodo1.com/mobile-game-publishers/)
-    * [Monetization](https://www.yodo1.com/mobile-game-monetization/)
-    * [Player Engagement](https://fancraft.yodo1.com/)
+    * [FanCraft](https://fancraft.yodo1.com/)
 * [Life at Yodo1](#)
     * [About Us](https://www.yodo1.com/about-us/)
     * [Careers](https://www.yodo1.com/careers/)
     * [Culture](https://www.yodo1.com/culture/)
-    * [Contact Us](https://www.yodo1.com/contact-us/)
 * [Blog](https://www.yodo1.com/blog/)
 * [Resources](https://www.yodo1.com/resources/)
-
-FanCraft: Auto-reply to game reviews and engage your players with AI. [Start Your FREE Trial Today!](https://hubs.ly/Q02t_L9f0)
 
 LEVEL UP
 
@@ -76,7 +74,7 @@ Your Mobile Game
 
 Yodo1 is your one partner for growing your games, publishing them and launching IP collaborations.
 
-[GROW MY GAME](https://home.yodo1.com/mobile-game-growth/)
+[GROW MY GAME](https://home.yodo1.com/mobile-game-monetization/)
 
 [START LICENSING](https://home.yodo1.com/ip-licensing/)
 
@@ -145,19 +143,19 @@ If your mobile game is live and ready for prime time, we will work with you to b
 
 ![IP Based Brand Games publishing](https://www.yodo1.com/wp-content/uploads/elementor/thumbs/flow_04-pzi55tdh0gc4ztbjflk8tlt4oyxccs5mwlda8drlfk-qezian4qhly5nx5nzmh4wwkrhn7wak1p3jaxefw3sw.png "IP Based Brand Games publishing")
 
-1.7 B+
-
 Players on iOS & Android
 
-1270 +
+1.7 B+
 
 Games and apps we help grow
 
+1270 +
+
 ![IP Based Brand Games publishing](https://www.yodo1.com/wp-content/uploads/elementor/thumbs/flow_04-pzi55tdh0gc4ztbjflk8tlt4oyxccs5mwlda8drlfk-qezian4qhly5nx5nzmh4wwkrhn7wak1p3jaxefw3sw.png "IP Based Brand Games publishing")
 
-8 +
-
 Years in the mobile gaming industry
+
+8 +
 
 Don't Just Take Our Word for It
 -------------------------------
@@ -243,14 +241,14 @@ Simplifying mobile game growth.
 
 [LinkedIn](https://www.linkedin.com/company/yodo1/) [Instagram](https://www.instagram.com/yodo1games/) [Facebook Icon](https://www.facebook.com/Yodo1Games/) [Twitter](https://twitter.com/yodo1games)
 
+* [Monetization](https://www.yodo1.com/mobile-game-monetization/)
 * [Licensing](https://www.yodo1.com/ip-licensing/)
 * [Growth Program](https://www.yodo1.com/mobile-game-growth/)
-* [Monetization](https://www.yodo1.com/mobile-game-monetization/)
 * [Publishing](https://www.yodo1.com/mobile-game-publishers/)
 
+* [Monetization](https://www.yodo1.com/mobile-game-monetization/)
 * [Licensing](https://www.yodo1.com/ip-licensing/)
 * [Growth Program](https://www.yodo1.com/mobile-game-growth/)
-* [Monetization](https://www.yodo1.com/mobile-game-monetization/)
 * [Publishing](https://www.yodo1.com/mobile-game-publishers/)
 
 * [About Us](https://www.yodo1.com/about-us/)
@@ -266,23 +264,14 @@ Simplifying mobile game growth.
 * [Yodo1 Blog](https://www.yodo1.com/blog/)
 * [Resources](https://www.yodo1.com/resources/)
 * [Login to MAS](https://mas.yodo1.com/login)
+* [FanCraft](https://fancraft.yodo1.com/)
 
 * [Yodo1 Blog](https://www.yodo1.com/blog/)
 * [Resources](https://www.yodo1.com/resources/)
 * [Login to MAS](https://mas.yodo1.com/login)
+* [FanCraft](https://fancraft.yodo1.com/)
 
   
 [京ICP备12010993号-2](https://beian.miit.gov.cn/) · 京ICP证120652号 · 京网文(2015)2029-371号 · [京公网安备11010502036836号](http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010502036836)  
 [Privacy Policy](https://www.yodo1.com/privacy/) | [Terms of Service](https://www.yodo1.com/terms/) | [SDK License Agreement](https://www.yodo1.com/sdk-license-agreement/)  
 © Yodo1 Ltd. 2024 | All rights reserved.
-
-![FanCraft Logo](https://www.yodo1.com/wp-content/uploads/2024/03/FanCraft-Logo-Invert.svg "FanCraft Logo Invert | Yodo1")
-
-Has Launched
-------------
-
-Turn your players into lifetime fans with AI-driven engagement. Automatically reply to all your store reviews and reward players with in-app items.
-
-[START FREE TRIAL TODAY](https://hubs.ly/Q02t_L9y0)
-
-![FanCraft - The Easiest Way to Engage Your Players​](https://www.yodo1.com/wp-content/uploads/2024/03/FanCraft-Turn-1-star-reviews-into-5-stars-new.png "FanCraft - Turn 1 star reviews into 5 stars new | Yodo1")
