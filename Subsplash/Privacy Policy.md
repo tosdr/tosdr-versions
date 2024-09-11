@@ -13,12 +13,6 @@ Oops! Something went wrong while submitting the form.
 
 By providing your contact information you agree to receive communications from Subsplash including but not limited to emails, phone calls, and text messages. Message and data rates may apply. Message frequency varies. Opt out available. You can learn more about how we handle your personal data and your rights by reviewing our [privacy policy.](https://www.subsplash.com/legal/privacy)
 
-‍
-
-[$1,000 OFF any Subsplash Onboarding Package when you go exclusive!](https://www.subsplash.com/pricing)
-
-![Icon Rounded Closed - BRIX Templates](https://cdn.prod.website-files.com/627d5cb7a65390b3f8dcbc63/64b03b4dbd2eaff408ad7111_icon-rounded-close-icon.svg)
-
 [![Subsplash Logo](https://cdn.prod.website-files.com/627d5cb7a65390b3f8dcbc63/64d1546f0b2e6541c7beed66_Subsplash_Logo_Black%201.svg)](https://www.subsplash.com/)
 
 * [PRICING](https://www.subsplash.com/pricing)
@@ -1692,6 +1686,8 @@ Subsplash, Inc. 750 N Saint Paul St Ste 250, PMB 41141, Dallas, Texas 75201-3206
 Connect
 
 [Support](https://www.subsplash.com/support)[System status](https://status.subsplash.com/)[hello@subsplash.com](mailto:hello@subsplash.com)[Talk to sales: 469-564-3922](tel:+14695643922)
+
+[![](https://cdn.prod.website-files.com/627d5cb7a65390b3f8dcbc63/66abe605eb679856d7162ba5_instagram.svg)](https://www.instagram.com/subsplash/)[![](https://cdn.prod.website-files.com/627d5cb7a65390b3f8dcbc63/66abe608ae3cfb42b829c9b6_facebook.svg)](https://www.facebook.com/subsplashseattle)[![](https://cdn.prod.website-files.com/627d5cb7a65390b3f8dcbc63/66abe60cb37a83e95e0f74bf_linkedin.svg)](https://www.linkedin.com/company/subsplash)[![](https://cdn.prod.website-files.com/627d5cb7a65390b3f8dcbc63/66abe60fb835b0b8922ef30d_x.svg)](https://www.twitter.com/subsplash)
 
 PLATFORM
 
