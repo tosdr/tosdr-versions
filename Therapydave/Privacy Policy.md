@@ -7,15 +7,14 @@ TherapyDave - Dave Lechnyr, LCSW
 
 Individual Therapy & Couples Counseling in Eugene, Oregon
 
-* [About](https://therapydave.com/about-eugene-psychotherapist/)
-* [Eugene, Oregon](https://therapydave.com/therapist-eugene-oregon/)
-* [Services](https://therapydave.com/eugene-therapist-services/)
-    * [Couples Therapy](https://therapydave.com/couples-therapy/)
-    * [Discernment Counseling](https://therapydave.com/discernment-counseling/)
-    * [Toxic Relationship Recovery](https://therapydave.com/toxic-relationship-recovery/)
-    * [Individual Therapy](https://therapydave.com/eugene-psychotherapy/)
+* [Meet Dave](https://therapydave.com/about-eugene-psychotherapist/)
+* [Couples Counseling](https://therapydave.com/couples-therapy/)
+* [Individual Therapy](https://therapydave.com/eugene-psychotherapy/)
 * [FAQ](https://therapydave.com/psychotherapist-faqs/)
+* [Locations](https://therapydave.com/therapist-eugene-oregon/)
 * [Resources](https://therapydave.com/eugene-psychotherapist-resources/)
+    * [Blog](https://therapydave.com/eugene-psychotherapist-resources/)
+    * [Community Resources](https://therapydave.com/mental-health-crisis-resources/)
 * [Request Appointment](https://therapydave.com/therapist-appointments/)
 
 You are here: [Home](https://therapydave.com/) / Privacy Policy
@@ -23,14 +22,18 @@ You are here: [Home](https://therapydave.com/) / Privacy Policy
 Privacy Policy
 ==============
 
-_Last updated: July 14, 2024_
+_Last updated: August 27, 2024_
 
-This Privacy Policy explains how TherapyDave collects, uses, and discloses information about you when you use this website. Additional definitions, terms, and conditions are stipulated in the [Terms & Conditions](https://therapydave.com/terms/), which is hereby expressly incorporated into this document by reference.
+  ![An abstract image representing a website's privacy policy, featuring a lock symbol representing security and confidentiality](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20536'%3E%3C/svg%3E)
+
+  ![An abstract image representing a website's privacy policy, featuring a lock symbol representing security and confidentiality](https://therapydave.com/wp-content/uploads/privacy-policy-1024x536.jpg)
+
+This Privacy Policy explains how TherapyDave collects, uses, and discloses information about you when you use this website. Additional definitions, terms, and conditions are stipulated in the [Terms of Service](https://therapydave.com/terms/) and [Disclaimer](https://therapydave.com/disclaimer/) which are hereby expressly incorporated into this document by reference.
 
 HIPAA Notice of Privacy Practices
 ---------------------------------
 
-If you are considering receiving mental health services as a client, please refer to the [HIPAA Notice of Privacy Practices](https://therapydave.com/privacy.pdf) for the specific terms and rights that apply to you.
+If you are considering receiving mental health services as a client, please refer to the [HIPAA Notice of Privacy Practices](https://therapydave.com/notice-of-privacy-practices/) for the specific terms and rights that apply to you.
 
 How We Use Your Information
 ---------------------------
@@ -114,31 +117,31 @@ Changes to This Policy
 
 We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date on this policy. We encourage you to review our Privacy Policy whenever you access or otherwise interact with this website so that you can stay informed about our information practices and the ways you can help protect your privacy.
 
+_“A lot of times I didn’t let myself be happy. After working with Dave, I’ve learned to change my focus. I’m not lying to myself anymore, I’m just allowing myself to just let it happen.”_
+
 [Get Started Now](https://therapydave.com/therapist-appointments/)
-
-  
-
-“I’ve had a lot of therapists over the last 17 years and I’ve never had a counselor bring me through this much progress... ever. Not even close.”
-
-– Client review of Gottman Therapist Dave Lechnyr, Eugene Oregon
 
  [![TherapyDave - Dave Lechnyr, LCSW](https://therapydave.com/wp-content/uploads/therapydave_227x85w.png)](https://therapydave.com/)
 
 Dave Lechnyr, LCSW  
 2440 Willamette Street, Suite 101-C  
 Eugene, OR 97405-3170  
-541-705-4666  
+Office Hours: Monday – Thursday, 9:00 AM - 6:00 PM  
+Phone: 541-705-4666  
   
-_If you are in a crisis or dangerous situation, you can [get immediate help](https://therapydave.com/mental-health-crisis-resources/)._
+Proudly serving clients in Eugene, OR, and via telehealth across Oregon and Arizona.  
+  
+_In crisis? Call the [National Suicide Prevention Lifeline](https://988lifeline.org/) at 1-800-273-TALK (8255). [Additional Mental Health Resources](https://therapydave.com/mental-health-crisis-resources/)._
 
-* [Terms](https://therapydave.com/terms/)
-* [Privacy](https://therapydave.com/privacy/)
+* [Notice of Privacy Practices](https://therapydave.com/notice-of-privacy-practices/)
+* [Terms of Service](https://therapydave.com/terms/)
+* [Privacy Policy](https://therapydave.com/privacy/)
+* [Disclaimer](https://therapydave.com/disclaimer/)
 * [Good Faith Estimate](https://therapydave.com/good-faith-estimate.pdf)
-* [Release of Information](https://therapydave.com/roi.pdf)
-* [Client Portal](https://clients.therapydave.com/)
+* [Accessibility Statement](https://therapydave.com/accessibility-statement/)
 
-Helping you become the best version of yourself
+Now Accepting New Clients in Eugene, OR for Individual and Couples Therapy. Ready to Transform Your Life?
 
-[I'm Ready to Start Now](https://therapydave.com/therapist-appointments/)
+[Get Started](https://therapydave.com/therapist-appointments/)
 
 X
