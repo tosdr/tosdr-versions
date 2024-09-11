@@ -17,7 +17,9 @@
     * [Videokaarten](https://tweakers.net/best-buy-guide/videokaarten/)
     * [Processors](https://tweakers.net/best-buy-guide/processors/)
     * [Moederborden](https://tweakers.net/best-buy-guide/moederborden/)
+    * [Behuizingen](https://tweakers.net/best-buy-guide/behuizingen/)
     * [Ssd's](https://tweakers.net/best-buy-guide/solid-state-drives/)
+    * [Voedingen](https://tweakers.net/best-buy-guide/voedingen/)
     * [Netwerken](https://tweakers.net/best-buy-guide/netwerken/)
     
 * [Pricewatch](https://tweakers.net/pricewatch/)
@@ -71,7 +73,7 @@ Tweakers is onderdeel van DPG Media. [Het cookiebeleid van DPG Media lees je hie
 
 * * *
 
-[MacBook Air 2024 13"](https://tweakers.net/serie/19770/macbook-air-2024-13-inch/overzicht/) [LG OLED evo G3](https://tweakers.net/televisies/lg/oled-evo-g3_p1477668/overzicht/) [Google Pixel 8a](https://tweakers.net/smartphones/google/pixel-8a_p1607570/overzicht/) [Samsung Galaxy S24](https://tweakers.net/smartphones/samsung/galaxy-s24_p1552906/overzicht/) [EA Sports FC 24](https://tweakers.net/games/electronic-arts/ea-sports-fc-24_p1508678/overzicht/) [Samsung Galaxy Z Fold5](https://tweakers.net/smartphones/samsung/galaxy-z-fold5_p1512652/overzicht/) [Apple AirPods Pro (2e generatie)](https://tweakers.net/hoofdtelefoons/apple/airpods-pro-2e-generatie_p1418630/overzicht/) [Nintendo Switch Lite](https://tweakers.net/consoles/nintendo/switch-lite_p1007400/overzicht/)
+[Apple iPhone 16](https://tweakers.net/smartphones/apple/iphone-16_p1657500/overzicht/) [LG OLED evo C4](https://tweakers.net/televisies/lg/oled-evo-c4_p1611416/overzicht/) [Google Pixel 8a](https://tweakers.net/smartphones/google/pixel-8a_p1607570/overzicht/) [Samsung Galaxy S24](https://tweakers.net/smartphones/samsung/galaxy-s24_p1552906/overzicht/) [Star Wars: Outlaws](https://tweakers.net/games/ubisoft/star-wars-outlaws_p1527460/overzicht/) [Samsung Galaxy Z Fold5](https://tweakers.net/smartphones/samsung/galaxy-z-fold5_p1512652/overzicht/) [Apple AirPods Pro (2e generatie)](https://tweakers.net/hoofdtelefoons/apple/airpods-pro-2e-generatie_p1418630/overzicht/) [Nintendo Switch (OLED model)](https://tweakers.net/consoles/nintendo/switch-oled-model_p1289466/overzicht/)
 
 * [Adverteren](https://www.dpgmediagroup.com/nl-NL/tweakers?utm_source=Tweakers&utm_medium=magazine&utm_campaign=adverteren&utm_term=footer&utm_content=tekstlink_Tweakers)
 * [Contact](https://tweakers.net/info/over-tweakers/contact/)
@@ -82,7 +84,7 @@ Tweakers is onderdeel van DPG Media. [Het cookiebeleid van DPG Media lees je hie
 * [Cookies](https://privacy.dpgmedia.nl/nl/document/cookie-policy)
 * Cookievoorkeuren wijzigen
 
-* [Volg @tweakers](https://twitter.com/tweakers) 75,4k
+* [Volg @tweakers](https://x.com/tweakers) 75,4k
 * [Like Tweakers](https://www.facebook.com/Tweakers.net) 39,2k
 * [Rss-feeds](https://tweakers.net/feeds/mixed.xml)
 * [Tweakers Discord](https://discord.gg/tweakers)
