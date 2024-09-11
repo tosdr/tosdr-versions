@@ -92,17 +92,17 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
-[Equality
+[Community
 
-### Women’s sports are having a moment. The Olympics are showing why.](https://www.csmonitor.com/World/Olympics/2024/0731/2024-olympics-gymnastics-basketball-women-sports "Women’s sports are having a moment. The Olympics are showing why.")
+### Jewish extremists harm Israel, official warns. Are Israelis listening?](https://www.csmonitor.com/World/Middle-East/2024/0910/israeli-settlers-jewish-terror-warnings-ignored "Jewish extremists harm Israel, official warns. Are Israelis listening?")
 
-[Equality
+[Respect
 
-### An identity that quells Mideast wars](https://www.csmonitor.com/Commentary/the-monitors-view/2024/0731/An-identity-that-quells-Mideast-wars "An identity that quells Mideast wars")
+### Where civil debates yield civic results](https://www.csmonitor.com/Commentary/the-monitors-view/2024/0910/Where-civil-debates-yield-civic-results "Where civil debates yield civic results")
 
-[Safety
+[Joy
 
-### With the Seine open for business, Olympic triathletes dive in](https://www.csmonitor.com/World/Olympics/2024/0731/2024-paris-olympics-triathlon-seine-river "With the Seine open for business, Olympic triathletes dive in")
+### As summer wanes, I'm chasing flickers of nostalgia by the campfire](https://www.csmonitor.com/The-Culture/The-Home-Forum/2024/0910/summer-camping-hiking-fire-campfire-s-mores-stars-RV "As summer wanes, I'm chasing flickers of nostalgia by the campfire")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -134,17 +134,17 @@ Commentary
 
 More
 
-[News Briefs](https://www.csmonitor.com/News-Briefs) [Points of Progress](https://www.csmonitor.com/World/Points-of-Progress) [People Making a Difference](https://www.csmonitor.com/World/Making-a-difference) [Photo Galleries](https://www.csmonitor.com/Photo-Galleries) [Podcasts](https://www.csmonitor.com/Podcasts) [Monitor Breakfast](https://www.csmonitor.com/USA/Politics/monitor_breakfast)
+[News Briefs](https://www.csmonitor.com/News-Briefs) [Points of Progress](https://www.csmonitor.com/World/Points-of-Progress) [People Making a Difference](https://www.csmonitor.com/World/Making-a-difference) [The World in Pictures](https://www.csmonitor.com/World/Topics/The-World-in-Pictures) [Podcasts](https://www.csmonitor.com/Podcasts) [Monitor Breakfast](https://www.csmonitor.com/USA/Politics/monitor_breakfast)
 
 * * *
 
 Monitor Daily
 
-July 31, 2024
+September 10, 2024
 
-Amazingness everywhere
+Finding recruits
 
-I’ve been watching the Olympics here in Germany. Given America’s medal dominance, I thought German television would show a fair bit of Team USA. The reality? Only if your name is Simone Biles.That’s a shame. There are so many good stories and athletes. But then I realized it goes the other way, too. Americans surely have not cried with Ricarda Funk, the German kayaking favorite whose catastrophic mistake left her in tears. Or seen the silky skills of basketball star Dennis Schröder. It’s a lesson I learned covering the Olympics. The greatest joy comes from a willingness to see amazingness everywhere.    
+The U.S. armed forces struggle periodically to fill their ranks. But the details in Anna Mulrine Grobe’s report today offer arresting detail on just how big the challenge is at the moment. There’s the chief Army recruiter characterizing 2024 as one of the toughest environments he’s seen in 33 years. The three-quarters of 17-to-24-year-olds who can’t meet fitness standards. Americans’ wavering support for the military across the political spectrum.The Fort Jackson Future Soldier Preparatory Course in South Carolina is one effort to get candidates ready for basic training not by lowering standards but by lifting up skills. Everything is up for discussion, from gauging a candidate to transforming the role of drill sergeant. Join Anna as she explores the work that one brigadier general says is sparking cautious optimism for the future.
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
@@ -158,23 +158,23 @@ Regions
 
 Recent Stories
 
-[### Killing of Israel’s foes in Beirut and Tehran brings shaken region to the edge](https://www.csmonitor.com/World/Middle-East/2024/0731/israel-assassinations-hamas-hezbollah-iran "Killing of Israel’s foes in Beirut and Tehran brings shaken region to the edge")
+[### Jewish extremists harm Israel, official warns. Are Israelis listening?](https://www.csmonitor.com/World/Middle-East/2024/0910/israeli-settlers-jewish-terror-warnings-ignored "Jewish extremists harm Israel, official warns. Are Israelis listening?")
 
-[### Women’s sports are having a moment. The Olympics are showing why.](https://www.csmonitor.com/World/Olympics/2024/0731/2024-olympics-gymnastics-basketball-women-sports "Women’s sports are having a moment. The Olympics are showing why.")
+[### Put the screen away, Sweden says. Could new policy spell the end of iPad kids?](https://www.csmonitor.com/World/Europe/2024/0910/Sweden-bans-screen-time-social-media "Put the screen away, Sweden says. Could new policy spell the end of iPad kids?")
 
-[### Why a Georgia hospital closes – and a red state rethinks Medicaid](https://www.csmonitor.com/USA/2024/0731/medicaid-expansion-georgia-alabama-mississippi "Why a Georgia hospital closes – and a red state rethinks Medicaid")
+[### Israel strikes Gaza humanitarian area as Palestinians struggle to find true safe zone](https://www.csmonitor.com/World/Middle-East/2024/0910/Israel-strike-gaza-safe-zone "Israel strikes Gaza humanitarian area as Palestinians struggle to find true safe zone")
 
 * * *
 
 Featured Coverage
 
-[The Christian Science Monitor’s coverage of the 2024 Summer Games.
+[The Christian Science Monitor's coverage of the war between Hamas and Israel, and related articles.
 
 Connect with the stories
 
-![](//images.csmonitor.com/csm/2024/07/1177794_1_0711-paris-olympics_standard.jpg?alias=square_200x200)
+![](//images.csmonitor.com/csm/2023/10/1163284_2_1010-Iron-Dome_standard.jpg?alias=square_200x200)
 
-### 2024 Paris Olympics](https://www.csmonitor.com/World/Olympics?icid=regions-tab)
+### War in the Middle East](https://www.csmonitor.com/World/Topics/War-in-the-Middle-East?icid=regions-tab)
 
 Values Behind the News
 
