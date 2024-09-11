@@ -131,6 +131,7 @@ LEGAL
 
 * [Privacy Policy](https://www.camfrog.com/en/privacy.phtml)
 * [Terms of Service](https://www.camfrog.com/en/terms.phtml)
+* Cookie Settings
 
 SOCIAL
 ------
