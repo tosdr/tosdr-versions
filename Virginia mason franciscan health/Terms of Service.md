@@ -1,6 +1,6 @@
 [Skip to Main Content](#maincontent)
 
-Schedule certain appointments online. [Get started](https://www.vmfh.org/content/vmfhorg/en/access "Access").
+Issue identified with inaccurate appointment reminder letters being sent. [Learn more.](https://www.vmfh.org/content/vmfhorg/en/patient-and-visitor-information/patient-information/about-our-patient-portals/mychart "MyChart")
 
 * [Ways to give](https://www.vmfh.org/content/vmfhorg/en/our-foundations)
 * [Refer a patient](https://www.vmfh.org/content/vmfhorg/en/resources/refer-a-patient)
