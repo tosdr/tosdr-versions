@@ -40,9 +40,9 @@ Quickly find your next designer](https://dribbble.com/designers)[Post your job
 
 The #1 job board for design talent](https://dribbble.com/jobs/new)
 
-[Go Pro](https://dribbble.com/pro-old)
+[Go Pro](https://dribbble.com/pro)
 
-[Find designers](https://dribbble.com/hiring-old)
+[Find designers](https://dribbble.com/hiring)
 
 [](https://dribbble.com/)
 
@@ -58,13 +58,13 @@ Quickly find your next designer](https://dribbble.com/designers)[Post your job
 
 The #1 job board for design talent](https://dribbble.com/jobs/new)
 
-[Go Pro](https://dribbble.com/pro-old)
+[Go Pro](https://dribbble.com/pro)
 
-[Find designers](https://dribbble.com/hiring-old)
+[Find designers](https://dribbble.com/hiring)
 
 [](https://dribbble.com/)
 
-[Terms of Service](https://dribbble.com/terms-old)
+[Terms of Service](https://dribbble.com/terms)
 
 [Privacy Policy](https://dribbble.com/privacy)
 
@@ -72,21 +72,21 @@ The #1 job board for design talent](https://dribbble.com/jobs/new)
 
 [Code of Conduct](https://dribbble.com/guidelines)
 
-[Terms](https://dribbble.com/terms-old)
+[Terms](https://dribbble.com/terms)
 
 [Privacy](https://dribbble.com/privacy)
 
 [Cookies](https://dribbble.com/cookie-policy)
 
-[Conduct](https://dribbble.com/guidelines-2)
+[Conduct](https://dribbble.com/guidelines)
 
-[Terms](https://dribbble.com/terms-old)
+[Terms](https://dribbble.com/terms)
 
 [Privacy](https://dribbble.com/privacy)
 
 [Cookies](https://dribbble.com/cookie-policy)
 
-[Conduct](https://dribbble.com/guidelines-2)
+[Conduct](https://dribbble.com/guidelines)
 
 Privacy policy
 
