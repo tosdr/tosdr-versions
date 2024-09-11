@@ -2,7 +2,7 @@
 
 Talk to us
 
-Introducing new CPD Courses: Equip your Senior Leadership Team with skills in Behaviour Management and Leadership & Management. Learn more.
+Launching CPD Courses: Equip your SLT with skills in Behaviour Management and Leadership & Management. Learn more.
 
  [![Satchel Logo - Providing a learning platform for teachers, students and parents](../assets/images/sticky-logo.png) ![Satchel Logo - Providing a learning platform for teachers, students and parents](../assets/images/sticky-logo.png)](https://www.teamsatchel.com/index.html)
 
@@ -105,12 +105,12 @@ Close
     
     [**Resource centre**
     
-    Free resources to support school staff and teachers.](http://info.teamsatchel.com/resources)
+    Free resources to support school staff and teachers.](https://www.teamsatchel.com/resources)
     
     [**Webinars**
     
     Expert-delivered live and  
-    on-demand webinars.](https://info.teamsatchel.com/webinars)
+    on-demand webinars.](https://www.teamsatchel.com/webinars)
     
     [**Blog**
     
@@ -181,10 +181,10 @@ Close
 * [**Resources**](#)
     * [**Resource centre**
         
-        Free resources to support school staff and teachers.](http://info.teamsatchel.com/resources)
+        Free resources to support school staff and teachers.](https://www.teamsatchel.com/resources)
     * [**Webinars**
         
-        Expert-delivered live and on-demand webinars.](https://info.teamsatchel.com/webinars)
+        Expert-delivered live and on-demand webinars.](https://www.teamsatchel.com/webinars)
     * [**Blog**
         
         Education content from experts and the Satchel team.](https://blog.teamsatchel.com/)
