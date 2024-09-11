@@ -5,7 +5,9 @@
     * [Todoist
         
         The top-ranked productivity app that brings clarity and efficiency to millions of people and teams.](https://todoist.com/home)
-    * [Twist
+    * [Twist logo
+        
+        Twist
         
         The only asynchronous-first collaboration app that encourages teams to focus, create, and disconnect.](https://twist.com/home)
 * [About Us](https://todoist.com/about-us)
