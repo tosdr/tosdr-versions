@@ -12,18 +12,18 @@
     * [Work with us](https://tacticaltech.org/jobs/)
     * [Info for supporters](https://tacticaltech.org/info-for-suporters/)
 * [News & Stories](https://tacticaltech.org/news/)
-* [About us](https://tacticaltech.org/about/)
-    * [Our experts](https://tacticaltech.org/team-and-board/)
+* [About us](https://tacticaltech.org/about/):
+    * [Our team](https://tacticaltech.org/team-and-board/)
     * [Annual Reports](https://tacticaltech.org/annual-reports/)
     * [History](https://tacticaltech.org/timeline/)
     * [Press](https://tacticaltech.org/press/)
     * [Contact Us](https://tacticaltech.org/contact/)
-* Donate:
+* Support us:
     * [Donate](https://tacticaltech.org/donate/)
     * [Shop](https://www.shirtee.com/en/store/everythingwillbefinebytacticaltech/)
 
 ![Illustration of the 20th anniversary celebration with visuals of the
-different Tactical Tech projects.](https://cdn.ttc.io/i/fit/16/0/sm/0/plain/tacticaltech.org/website2023/Homepage/home-hero-2.jpg)
+different Tactical Tech projects.](https://cdn.ttc.io/i/fit/16/0/sm/0/plain/tacticaltech.org/website2023/Homepage/home-hero-3.jpg)
 
 20 years building communities’ capacity to tackle the challenges created by technology
 ======================================================================================
@@ -35,18 +35,45 @@ different Tactical Tech projects.](https://cdn.ttc.io/i/fit/16/0/sm/0/plain/tact
 What we do
 ----------
 
-The intersection of technology with society creates solutions but also intensifies social, political, and environmental crises. We work to enable individuals and communities to navigate these challenges and the impacts of digital technologies. Collaborating with an international network, we co-develop creative public interventions, exhibitions, resources, and training to advance understanding, build capacity, and promote critical thinking.
+While technologies are often seen as sources of solutions, they can also amplify social, political, and environmental crises. We empower individuals and communities to navigate these challenges and the impacts of digital technologies. Collaborating with an international network, we co-create public interventions, exhibitions, resources, and training programs to:
 
-Public Interventions, exhibitions and experiencesExperiences designed to start conversations and promote critical thinking about technologies' impacts.
+Promote Critical thinkingWe foster critical conversations about technologies' impacts on society and the environment.
 
-Training, Workshops and Masterclasses Our training sessions are designed to advance skills and create spaces for exchange and collaboration.
+Build the capacity of individuals and communitiesWe advance civil society skills and create spaces for exchange and collaboration.
 
-Research, resources and toolkitsOur creative resources provide evidence-based information and practical tools at the intersection of technology and society
+Foster understanding and knowledgeWe conduct research and advance knowledge on the intersection of technology, power and crises.
+
+How we do it
+------------
+
+We operate through the Tactical Tech Studio focuses on Digital Literacy, and the Tactical Tech Institute for Digital Investigation.
+
+* ![The Glass Room: Misinformation Edition, Khoj Studios, New Delhi,
+    2023. Image courtesy of Khoj International Artists' Association.](https://cdn.ttc.io/i/fit/16/0/sm/0/plain/tacticaltech.org/website2023/Homepage/home_card_studio.jpg)
+    
+    [Tactical Tech Studio: Creative educational interventions for communities and decision-makers
+    --------------------------------------------------------------------------------------------](https://tacticaltech.org/projects/)
+    
+    At our non-profit studio, we develop creative digital literacy interventions and resources to foster critical thinking about technology and its socio-political impact. Our proven scaling methodology enables organizations to engage their audiences on national, regional, and local levels. With two decades of experience, our resources have been utilized by over 300 partners in 90 countries, ensuring high-quality, scalable, and adaptable solutions.
+    
+    [Learn more →](https://tacticaltech.org/projects/)
+    
+* ![Person reading the Exposing the Invisible Kit](https://cdn.ttc.io/i/fit/16/0/sm/0/plain/tacticaltech.org/website2023/Homepage/home_card_institute.jpg)
+    
+    [Tactical Tech Institute for Digital Investigation: Advancing understanding, skills and capacity of civil society
+    ----------------------------------------------------------------------------------------------------------------](https://tacticaltech.org/projects/)
+    
+    Our Institute for Digital Investigation is a center of excellence dedicated to advancing understanding and skills within civil society through investigation, resource development, and skill-sharing. We build networks and foster critical skills among NGOs, journalists, and researchers, addressing the interplay between technology, power, and crises. Our proven collaborative and participatory approaches enable organizations to produce new research, test investigative methodologies, and build individuals' and communities' capacity.
+    
+    [Learn more →](https://tacticaltech.org/projects/)
+    
 
 Our projects
 ------------
 
 * ![Glass Room exhibit](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/website2023/our_projects/our-projects-gr-card5.jpg)
+    
+    * STUDIO
     
     [### The Glass Room: experiences that invite people to examine their digital lives](https://tacticaltech.org/projects/the-glass-room/)
     
@@ -56,6 +83,8 @@ Our projects
     
 * ![people interacting wuth the data detox kit resources](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/website2023/our_projects/our-projects-ddk-card3.jpg)
     
+    * STUDIO
+    
     [### Data Detox Kit: Practical steps and tool to improve your online life](https://tacticaltech.org/projects/data-detox-kit/)
     
     The Data Detox Kit, available in over 45 languages, offers tips, tools, and concrete steps to improve your online life, enabling informed choices and personalized digital habits. It includes over 30 guides, workshop outlines for educators, an alternative App Centre, and a resources page on digital privacy, security, environmental impact, wellbeing, and tackling misinformation.
@@ -63,6 +92,8 @@ Our projects
     [Read more →](https://tacticaltech.org/projects/data-detox-kit/)
     
 * ![Young people interacting the What The Future Wants cards](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/website2023/our_projects/our-projects-wtfw-card5.jpg)
+    
+    * STUDIO
     
     [### What The Future Wants: Educational resources to empower young people](https://tacticaltech.org/projects/what-the-future-wants/)
     
@@ -72,6 +103,8 @@ Our projects
     
 * ![user exploring the Digital Enquirer Kit website](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/website2023/our_projects/our-projects-dek-card3.jpg)
     
+    * STUDIO
+    
     [### Digital Enquirer Kit: An E-learning platform to navigate the internet safely](https://tacticaltech.org/projects/Digital-Enquirer-Kit/)
     
     This e-learning interactive course advances and disseminates knowledge on media literacy, verification, and safe Internet navigation. The course contains simple explanations and real-world examples illustrating secure research and information-gathering methods. The modules feature engaging and creative formats, such as tutorials, quizzes, and interactive games.
@@ -79,6 +112,8 @@ Our projects
     [Read more →](https://tacticaltech.org/projects/Digital-Enquirer-Kit/)
     
 * ![Picture of the Everything Will Be Fine exhibition in Berlin.](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/website2023/our_projects/our-projects-ewfb-card1.jpg)
+    
+    * STUDIO
     
     [### Everything Will Be Fine: An intervention exploring the intersection of technology and crises](https://tacticaltech.org/projects/everything-will-be-fine/)
     
@@ -88,6 +123,8 @@ Our projects
     
 * ![People using the Exposing The Invisible kit](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/website2023/our_projects/2our-projects-eti-card4.jpg)
     
+    * INSTITUTE FOR DIGITAL INVESTIGATION
+    
     [### Exposing The Invisible: Advancing the investigative community's capacity](https://tacticaltech.org/projects/exposing-the-invisible/)
     
     The project offers comprehensive resources, workshops, and institutes on investigative tools and methodologies for civil society actors such as media organizations, experts, researchers, academics, investigators, and journalists. It fosters spaces for collaboration and exchange to enhance the capacity of today’s global community of digital and OSINT investigators.
@@ -95,6 +132,8 @@ Our projects
     [Read more →](https://tacticaltech.org/projects/exposing-the-invisible/)
     
 * ![User exploring The Influence Industry Project website](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/website2023/our_projects/our-projects-tiip-card4.jpg)
+    
+    * INSTITUTE FOR DIGITAL INVESTIGATION
     
     [### The Influence Industry Project: Understanding the industry behind our opinions](https://tacticaltech.org/projects/the-influence-industry/)
     
@@ -110,41 +149,45 @@ Shifting the conversation around the impacts of digital technologies
 
 [See our latest news](https://tacticaltech.org/news/latest/)
 
-* ![White background with the text In The Loop newsletter](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/intheloop/TT-Newsletter-cards-july.jpg)
+* ![3 persons in front of a colourful poster collaborating](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/website2023/news/Call_solidarity_corps.jpg)
     
-    [### In The Loop July 2024](https://tacticaltech.org/news/in-the-loop-newsletters/in-the-loop-july-2024/)
+    * Open calls
+    
+    [### \[Open Call for a Volunteer to join our communications team\] European Solidarity Corps Programme](https://tacticaltech.org/news/open-calls/Open-call-for-a-volunteer-communications-european-solidarity-corps-programme/)
+    
+    Tactical Tech is opening a year-long paid volunteer opportunity for an individual who wants to learn more about creative interventions that champion a digitally resilient society and join our communications and partnerships team in the Berlin-based office.
+    
+    [Read more →](https://tacticaltech.org/news/open-calls/Open-call-for-a-volunteer-communications-european-solidarity-corps-programme/)
+    
+* ![Banner Unpacking Artificial Intelligence with the Data Detox Kit](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/website2023/news/DDK-ai.jpg)
+    
+    * Project launches
+    
+    [### Unpacking Artificial Intelligence with the Data Detox Kit: What everyone needs to know about AI and its impacts](https://tacticaltech.org/news/project-launches/data-detox-kit-artificial-intelligence-ai/)
+    
+    This new package of engaging and easy-to-read Data Detox Kit guides delves into AI and explores how its buzz can have a big sting. By using real-world examples, familiar and non-technical language, these AI guides are filled with actionable steps that anyone can take to gain awareness of modern technologies and take control where possible.
+    
+    [Read more →](https://tacticaltech.org/news/project-launches/data-detox-kit-artificial-intelligence-ai/)
+    
+* ![White background with the text In The Loop newsletter](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/intheloop/TT-Newsletter-cards-august2.jpg)
+    
+    * In-The-Loop newsletters
+    
+    [### In The Loop August 2024](https://tacticaltech.org/news/in-the-loop-newsletters/in-the-loop-august-2024/)
     
     In the Loop, Tactical Tech’s monthly newsletter, includes new releases, open calls, job opportunities, information about our partners, events, recommended resources and more.
     
-    [Read more →](https://tacticaltech.org/news/in-the-loop-newsletters/in-the-loop-july-2024/)
+    [Read more →](https://tacticaltech.org/news/in-the-loop-newsletters/in-the-loop-august-2024/)
     
-* ![Participants of the workshops hosted by CITE](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/website2023/impact_stories/cite_story.jpg)
+* ![Visual Open Cal lfor Partnerships](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/website2023/news/OpenCallforPartnerships_CCLAB_2_cycle.jpg)
     
-    * Impact Stories
+    * Open calls
     
-    [### Centre for Innovation & Technology - CITE: empowering citizen journalists and civil society organisations to safely tell stories that matter](https://tacticaltech.org/news/stories/cite-eti-partner-workshops/)
+    [### \[Deadline Extended\] Open Call for Partnership: Organisations working on Critical Literacy for Youth](https://tacticaltech.org/news/open-calls/open-call-critical-literacy-youth-europe-second-cycle/)
     
-    Through a series of knowledge-exchange workshops conducted by our partner CITE in Bulawayo, Zimbabwe, 45 participants, including citizen journalists and civil society organisations, were equipped with skills in identifying information disorders, encryption methods, and secure communication channels.
+    We are seeking Europe-based schools, libraries, youth clubs, cultural centres or civil society organisations that work with youth to test and implement the second cycle of the Critical ChangeLab model in their contexts.
     
-    [Read more →](https://tacticaltech.org/news/stories/cite-eti-partner-workshops/)
-    
-* ![White background with the text In The Loop newsletter](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/intheloop/TT-Newsletter-cards-june.png)
-    
-    [### In The Loop, Half-year edition 2024](https://tacticaltech.org/news/in-the-loop-newsletters/in-the-loop-half-year-2024/)
-    
-    In the Loop, Tactical Tech’s monthly newsletter, includes new releases, open calls, job opportunities, information about our partners, events, recommended resources and more.
-    
-    [Read more →](https://tacticaltech.org/news/in-the-loop-newsletters/in-the-loop-half-year-2024/)
-    
-* ![Illustration with green background and some shapes. Information
-    Literacy for Societal Resilience A new creative intervention about the
-    effects of AI on our online lives](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/website2023/news/information-literacy-societal-resilience_banner_2.jpg)
-    
-    [### Information Literacy for Societal Resilience: A new creative intervention about the effects of AI on our online lives](https://tacticaltech.org/news/project-launches/information-literacy-for-societal-resilience/)
-    
-    A new creative intervention produced by Tactical Tech and DensityDesign Lab at Politecnico di Milano, in collaboration with the International Federation of Library Associations and Institutions (IFLA),  will address how AI is impacting the ways that media and information are produced, distributed and perceived.
-    
-    [Read more →](https://tacticaltech.org/news/project-launches/information-literacy-for-societal-resilience/)
+    [Read more →](https://tacticaltech.org/news/open-calls/open-call-critical-literacy-youth-europe-second-cycle/)
     
 
 Impact stories
@@ -207,6 +250,16 @@ Pieces written to help people and organisations understand what it means to work
 
 [See all Insights](https://tacticaltech.org/news/insights/)
 
+* ![sunset from the train rails ](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/website2023/Insights/OUROBOROS1.jpg)
+    
+    * Technology & Society Insights
+    
+    [### The Tech Ouroboros: About the digitised culture of consumption](https://tacticaltech.org/news/insights/tech-ouroboros-digitised-culture-of-consumption/)
+    
+    We are in the business of developing tools that allow us to eat our own tail, and AI is the new big mouth that we have just invented to help us with this self-consuming task incredibly effectively. In this spiral of self-consumption, everything tastes the same - it is impossible to verify sources and provenance and impossible to separate disgusting opinions from facts. It seems that fiction is much more popular than non-fiction in this reading club of self-consumers.
+    
+    [Read more →](https://tacticaltech.org/news/insights/tech-ouroboros-digitised-culture-of-consumption/)
+    
 * ![Two people in front of each others taking a picture and with mirrors behind](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/website2023/Insights/Insights1.png)
     
     * Technology & Society Insights
@@ -238,21 +291,11 @@ Pieces written to help people and organisations understand what it means to work
     
     [Read more →](https://tacticaltech.org/news/insights/mlce_research_report/)
     
-* ![trust-roladex.JPG](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/trust-roladex.JPG)
-    
-    * Technology & Society Insights
-    
-    [### Data Scavengers](https://tacticaltech.org/news/insights/data-scavengers/)
-    
-    This guide will provide some examples of how to deal with such data sets and how to work through them in order to yield interesting results and stories.
-    
-    [Read more →](https://tacticaltech.org/news/insights/data-scavengers/)
-    
 
 Our reach since 2003
 --------------------
 
-400+partnershave collaborated with us to develop and adapt our resources to their communities’ needs.
+500+partnershave collaborated with us to develop and adapt our resources to their communities’ needs.
 
 90+countriesin which our partners and us have promoted digital and media literacy among their communities.
 
