@@ -1,8 +1,8 @@
-![](https://assets01.teamassets.net/assets/images/teamseas-logo.png)
+![](/assets/images/teamseas-logo.png)
 
-![](https://assets01.teamassets.net/assets/svg/hamburger.svg)
+![](/assets/svg/hamburger.svg)
 
-[![](https://assets01.teamassets.net/assets/images/teamseas-tm-logo.png)](https://teamseas.org/)
+[![](/assets/images/teamseas-tm-logo.png)](https://teamseas.org/)
 
 PRIVACY POLICY
 ==============
@@ -102,7 +102,7 @@ Although we specifically require that anyone using our Website who is not of the
 
 This Privacy Policy is effective as of October 27, 2021
 
-![](https://assets01.teamassets.net/assets/images/angler-fish.png)
+![](/assets/images/angler-fish.png)
 
 FAQ
 
@@ -116,9 +116,9 @@ Press Inquiries
 
 [TERMS](https://teamseas.org/terms-of-use) [PRIVACY](https://teamseas.org/privacy-policy) [Children’s Privacy Policy](https://teamseas.org/coppa-policy)
 
-![](https://assets01.teamassets.net/assets/images/teamseas-logo.png)
+![](/assets/images/teamseas-logo.png)
 
-![](https://assets01.teamassets.net/assets/svg/times.svg)
+![](/assets/svg/times.svg)
 
 JOIN #TEAMSEAS
 
@@ -135,11 +135,11 @@ Every $1 is one less pound of trash in the ocean
 * [Press Inquiries](#)
 * [](https://www.facebook.com/TeamSeas/)[](https://www.instagram.com/teamseas/)[](https://twitter.com/teamseas)[](https://www.reddit.com/r/TeamSeas/)[](https://www.tiktok.com/@teamseas)[](https://youtube.com/c/teamseas)
 
-![](https://assets01.teamassets.net/assets/images/angler-fish.png)
+![](/assets/images/angler-fish.png)
 
 ### FREQUENTLY ASKED QUESTIONS
 
-![](https://assets01.teamassets.net/assets/svg/times.svg)
+![](/assets/svg/times.svg)
 
 #### WHAT IS #TEAMSEAS?
 
@@ -234,7 +234,7 @@ Plastic production and climate change are inextricably linked, and both are huge
 
 ### CONTACT US
 
-![](https://assets01.teamassets.net/assets/svg/times.svg)
+![](/assets/svg/times.svg)
 
 Name \* 
 
@@ -250,7 +250,7 @@ SUBMIT
 
 ### PRESS INQUIRIES
 
-![](https://assets01.teamassets.net/assets/svg/times.svg)
+![](/assets/svg/times.svg)
 
 Name \* 
 
