@@ -11,7 +11,7 @@ User account menu
 * [Login](https://writeaprisoner.com/user/login)
 * [![](/themes/custom/wap/images/notification-alert-icon.svg)](https://writeaprisoner.com/user/0/alerts)
 
-[](#)
+[Search](#)
 
 * [](https://www.facebook.com/writeaprisoner)
     
@@ -52,7 +52,7 @@ User account menu
 * [Login](https://writeaprisoner.com/user/login)
 * [![](/themes/custom/wap/images/notification-alert-icon.svg)](https://writeaprisoner.com/user/0/alerts)
 
-[](#)
+[Search](#)
 
 * [](https://www.facebook.com/writeaprisoner)
     
@@ -381,6 +381,8 @@ Internet technology and the applicable laws, rules, and regulations change frequ
 Must be 18 to view this website. Use implies acceptance of our [Terms of Service](https://writeaprisoner.com/terms-service) & [Privacy Policy](https://writeaprisoner.com/privacy-policy). Cookies, related technologies, & device identification are used for personalized advertising. To opt out, visit [Do Not Sell or Share My Personal Information](https://writeaprisoner.com/form/do-not-sell-or-share-my-personal).
 
 Accept All Cookies
+
+Accept Cookies  
 
 Reject Optional Cookies
 
