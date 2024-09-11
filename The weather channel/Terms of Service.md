@@ -63,15 +63,19 @@ Products
 
 Go PremiumAlexa SkillExternal LinkWeather UndergroundExternal LinkStorm RadarExternal Link
 
+Account
+
+Create An AccountLog InMorning Brief Newsletter
+
 Privacy
 
-Cookie SettingsData RightsPrivacy Policy
+Privacy SettingsData RightsPrivacy Policy
 
 Arrow Left
 
 Arrow Right
 
-[Today](#noloc_/weather/today/l/)[Hourly](#noloc_/weather/hourbyhour/l/)[10 Day](#noloc_/weather/tenday/l/)[Weekend](#noloc_/weather/weekend/l/)[Monthly](#noloc_/weather/monthly/l/)[Radar](#noloc_/weather/radar/interactive/l/)[VideoVideo](https://weather.com/science/space/video/astronauts-celebrate-olympics-from-iss)
+[Today](#noloc_/weather/today/l/)[Hourly](#noloc_/weather/hourbyhour/l/)[10 Day](#noloc_/weather/tenday/l/)[Weekend](#noloc_/weather/weekend/l/)[Monthly](#noloc_/weather/monthly/l/)[Radar](#noloc_/weather/radar/interactive/l/)[Tropical StormTropics](https://weather.com/storms/hurricane/video/francine-hurricane-gulf-update?adRef=nav_trpcl)
 
 More ForecastsMoreArrow down
 
@@ -357,7 +361,8 @@ Weather Underground
 
 We recognize our responsibility to use data and technology for good. We may use or share your data with our data vendors. Take control of your data.
 
-* Cookie Settings
+* [Review All Privacy and Ad Settings](https://weather.com/privacy-settings)
+* [Choose how my information is shared](https://weather.com/privacy-settings#do-not-sell)
 * [Data Rights](https://weather.com/data-rights)
 
 © The Weather Company, LLC 2024
