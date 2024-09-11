@@ -1,4 +1,4 @@
-In order to view all our website features you need to [enable Javascript.](http://www.enable-javascript.com/en) ![](/images/js_disabled_tracking.gif?cid=c3098773439919e018cd964bf244e0bf)
+In order to view all our website features you need to [enable Javascript.](http://www.enable-javascript.com/en) ![](/images/js_disabled_tracking.gif?cid=afb8902f41a971c80fbb7863f45d37bf)
 
 Icons-MyTello Icons-MyTello Icons-MyTello Icons-MyTello Icons-MyTello
 
@@ -9,7 +9,7 @@ Icons-MyTello Icons-MyTello Icons-MyTello Icons-MyTello Icons-MyTello
 * [Activate SIM](https://tello.com/activate)
 * [Coverage](https://tello.com/coverage)
 * [Bring your phone](https://tello.com/bring_your_own_phone)
-* [International](https://tello.com/international-calling)
+* [Roaming](https://tello.com/international_roaming)
 * [My Tello](https://tello.com/account/home)
 * Toggle navigation
 
@@ -17,7 +17,7 @@ Icons-MyTello Icons-MyTello Icons-MyTello Icons-MyTello Icons-MyTello
 * [Pay As You Go Credit](https://tello.com/buy/pay_as_you_go)
 * [Family Plans](https://tello.com/buy/family_plans)
 * [Bring your phone](https://tello.com/bring_your_own_phone)
-* [International](https://tello.com/international-calling)
+* [Roaming](https://tello.com/international_roaming)
 * [Coverage](https://tello.com/coverage)
 * [My Tello](https://tello.com/account/home)
 * [Why Tello?](https://tello.com/why_tello)
@@ -274,7 +274,7 @@ Questions?
 
 If you wish to change any information you have made available when registering, or have questions about our Privacy Policy, you can contact us at:
 
-cus​tom​ers​erv​ice​@te​llo​.co​m​
+cust​omer​serv​ice@​tell​o.co​m​
 
   
   
@@ -285,21 +285,42 @@ United States
 
 Shop
 
+Shop
+
 * [Plans](https://tello.com/buy/custom_plans)
+* [Activate SIM](https://tello.com/activate)
 * [Family Plans](https://tello.com/buy/family_plans)
 * [Pay As You Go](https://tello.com/buy/pay_as_you_go)
 * [Phones](https://tello.com/phones)
-* [Affirm financing](https://tello.com/affirm_financing)
-* [Bring your phone](https://tello.com/bring_your_own_phone)
-* [Activate SIM](https://tello.com/activate)
-* [eSIM](https://tello.com/buy/esim)
-* [Why Tello?](https://tello.com/why_tello)
 * [Promo](https://tello.com/promo)
-* [Referral Program](https://tello.com/referral_program)
-* [International Calling](https://tello.com/international-calling)
-* [International Roaming](https://tello.com/international_roaming)
-* [Free calls to 60+ countries](https://tello.com/free-international-countries)
 * [Student & Grads deals](https://connect.studentbeans.com/v4/hosted/tello/us)
+
+Service Features
+
+Service Features
+
+* [Nationwide Coverage](https://tello.com/coverage)
+* [Bring your phone](https://tello.com/bring_your_own_phone)
+* [Affirm financing](https://tello.com/affirm_financing)
+* [International Calling](https://tello.com/international-calling)
+
+* [Free calls to 60+ countries](https://tello.com/free-international-countries)
+
+* [International Roaming](https://tello.com/international_roaming)
+* [eSIM](https://tello.com/buy/esim)
+* [Referral Program](https://tello.com/referral_program)
+
+Support
+
+Support
+
+* [Help Center](https://tello.com/help_center)
+* [Contact](https://tello.com/contact)
+* [Privacy Policy](https://tello.com/privacy)
+* [Terms and Conditions](https://tello.com/terms)
+* [US phone number for abroad](https://tello.com/us_phone_number_for_abroad)
+
+My Tello
 
 My Tello
 
@@ -308,25 +329,22 @@ My Tello
 * [Order History](https://tello.com/account/activity?tab=order_history)
 * [My Information](https://tello.com/account/information)
 
-Blog
+English
 
-* [News](https://blog.tello.com/news)
-* [Offers](https://blog.tello.com/offers)
-* [Tutorials](https://blog.tello.com/tutorials)
-* [Affiliates](https://blog.tello.com/affiliates)
+* [Spanish](https://tello.com/change_language?lang=es)
 
-Support
+About Tello
 
-* [US phone number for abroad](https://tello.com/us_phone_number_for_abroad)
-* [Press Kit](https://tello.com/presskit)
-* [Coverage](https://tello.com/coverage)
-* [Help Center](https://tello.com/help_center)
-* [Contact](https://tello.com/contact)
-* [Privacy Policy](https://tello.com/privacy)
-* [Terms and Conditions](https://tello.com/terms)
-* [Customer Reviews](https://tello.com/customer_reviews)
-* [We're hiring](https://keepcalling.net/careers/job-openings/)
+About Tello
+
 * [About us](https://tello.com/about-us)
+* [Why Tello?](https://tello.com/why_tello)
+* [Customer Reviews](https://tello.com/customer_reviews)
+* [News](https://blog.tello.com/news)
+* [Press Kit](https://tello.com/presskit)
+* [We're hiring](https://keepcalling.net/careers/job-openings/)
+
+Partners
 
 Partners
 
@@ -335,17 +353,13 @@ Partners
 
 Say hello to Tello
 
-[](https://facebook.com/968701219860031)
+[](https://facebook.com/968701219860031)[](https://instagram.com/tellomobile)[](https://twitter.com/tellomobile)[](https://www.youtube.com/channel/UCpm3XByuH_SnEWU8v3ACKxQ?sub_confirmation=1)[](https://www.tiktok.com/@tellomobile)
 
-[](https://instagram.com/tellomobile)
+Subscribe to our newsletter
 
-[](https://twitter.com/tellomobile)
+  
 
-[](https://www.youtube.com/channel/UCpm3XByuH_SnEWU8v3ACKxQ?sub_confirmation=1)
-
-English
-
-* [Spanish](https://tello.com/change_language?lang=es)
+Subscribe
 
 ©2024 Tello
 
