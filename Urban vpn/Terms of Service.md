@@ -14,7 +14,7 @@
         * [Free Browser Extensions](https://www.urban-vpn.com/free-products/free-browser-extension/)
         * [Free Urban Adblocker](https://www.urban-vpn.com/free-products/free-adblocker/)
         * [Free Travel VPN](https://www.urban-vpn.com/free-products/free-travel-vpn/)
-        * [Free Hotspot Shield](https://www.urban-vpn.com/free-products/free-hotspot-shield/)
+        * [Free Browser Guard](https://www.urban-vpn.com/free-products/free-browser-guard/)
         * [Hide My IP](https://www.urban-vpn.com/free-products/hide-my-ip/)
     * [![](https://assets.urban-vpn.com/wp-content/uploads/2023/02/03121356/browser-3.svg)
         
@@ -214,7 +214,7 @@
         * [Free Browser Extensions](https://www.urban-vpn.com/free-products/free-browser-extension/)
         * [Free Urban Adblocker](https://www.urban-vpn.com/free-products/free-adblocker/)
         * [Free Travel VPN](https://www.urban-vpn.com/free-products/free-travel-vpn/)
-        * [Free Hotspot Shield](https://www.urban-vpn.com/free-products/free-hotspot-shield/)
+        * [Free Browser Guard](https://www.urban-vpn.com/free-products/free-browser-guard/)
         * [Hide My IP](https://www.urban-vpn.com/free-products/hide-my-ip/)
     * [![](https://assets.urban-vpn.com/wp-content/uploads/2023/02/03121356/browser-3.svg)
         
@@ -502,7 +502,7 @@ Download Urban VPN to enjoy complete online security and privacy while hiding IP
 
 ### [PRODUCTS](https://www.urban-vpn.com/free-products/)
 
-* [Free Hotspot Shield](https://www.urban-vpn.com/free-products/free-hotspot-shield/)
+* [Free Browser Guard](https://www.urban-vpn.com/free-products/free-browser-guard/)
 * [Free PC/Laptop VPN](https://www.urban-vpn.com/free-products/free-pc-laptop-vpn/)
 * [Free VPN for Windows](https://www.urban-vpn.com/free-products/free-windows-vpn/)
 * [Free Mac VPN](https://www.urban-vpn.com/free-products/free-mac-vpn/)
