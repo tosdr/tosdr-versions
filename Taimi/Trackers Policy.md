@@ -1,4 +1,4 @@
-![](https://www.facebook.com/tr?id=434188952727028&ev=PageView&noscript=1)  
+![](https://www.facebook.com/tr?id=434188952727028&ev=PageView&noscript=1)     
 
 [![Modal icon](https://taimi.com/themes/taimi2/assets/images/banner-en.jpeg)](https://app.adjust.com/goc7ths?campaign=https://taimi.com/cookie-policy_page(id%20129))
 
@@ -26,7 +26,7 @@ Taimi Cookie Policy
 
   
 
-This Cookie Policy (the “Policy”) is an integral part of the [Taimi’s Terms of Service](https://taimi.com/terms) (the “Terms”) and [Privacy Policy](https://taimi.com/privacypolicy) (the “Privacy Policy”). All the terms used herein shall have the same meaning as the Terms and Privacy Policy provide, unless otherwise indicated hereby.
+This Cookie Policy (the “Policy”) is an integral part of the [Taimi’s Terms of Service](https://taimi.com/terms) (the “Terms”) and [Privacy Policy](https://taimi.com/privacy-policy) (the “Privacy Policy”). All the terms used herein shall have the same meaning as the Terms and Privacy Policy provide, unless otherwise indicated hereby.
 
 **Any translation from English version is provided for your convenience only. In the event of any difference in meaning or interpretation between the English language version of this Cookie Policy and any translation, the English language version will prevail. The original English text shall be the sole legally binding version.**
 
@@ -82,11 +82,11 @@ This Cookie Policy (the “Policy”) is an integral part of the [Taimi’s Term
 | TapAd\_DID<br><br>TapAd\_TS | Used to determine what type of devices (smartphones, tablets, computers, TVs etc.) is used by a user. | Targeting/<br><br>Advertising | 2 months | [tapad.com](https://www.tapad.com/global-privacy-notice) |
 | hjAbsoluteSessionInProgress | This cookie is used to detect the first pageview session of a user. This is a True/False flag set by the cookie. | Performance | Session | [HotJar.com](https://help.hotjar.com/hc/en-us/articles/115011789248-Hotjar-Cookie-Information#:~:text=Hotjar%20cookie%20that%20is%20set%20when%20the%20customer%20first%20lands,to%20the%20same%20user%20ID.) |
 | \_hjIncludedInPageviewSample | This cookie is set to let Hotjar know whether that user is included in the data sampling defined by your site's pageview limit. | Analytical | 30 minutes | [HotJar.com](https://help.hotjar.com/hc/en-us/articles/115011789248-Hotjar-Cookie-Information#:~:text=Hotjar%20cookie%20that%20is%20set%20when%20the%20customer%20first%20lands,to%20the%20same%20user%20ID.) |
-| \_schn | Tracks the individual sessions on the website, allowing the website to compile statistical data from multiple visits. This data can also be used to create leads for marketing purposes. | Targeting/<br><br>Advertising | Session | [taimi.com](https://taimi.com/privacypolicy) |
-| \_gcl\_au | Used to store and track conversions. | Targeting/<br><br>Advertising | Persistent | [taimi.com](https://taimi.com/privacypolicy) |
-| october\_session | This coockie allows users to be recognized within a website so any page changes or item or data selection you do is remembered from page to page. | Strictly Necessary or Essential | session | [taimi.com](https://taimi.com/privacypolicy) |
-| cookie-policy | Is used my Taimi to start the website | Strictly Necessary or Essential | 2 years | [taimi.com](https://taimi.com/privacypolicy) |
-| viewed\_posts | Used by Taimi to measure the number of posts viewed on the website | Performance | 5 days | [taimi.com](https://taimi.com/privacypolicy) |
+| \_schn | Tracks the individual sessions on the website, allowing the website to compile statistical data from multiple visits. This data can also be used to create leads for marketing purposes. | Targeting/<br><br>Advertising | Session | [taimi.com](https://taimi.com/privacy-policy) |
+| \_gcl\_au | Used to store and track conversions. | Targeting/<br><br>Advertising | Persistent | [taimi.com](https://taimi.com/privacy-policy) |
+| october\_session | This coockie allows users to be recognized within a website so any page changes or item or data selection you do is remembered from page to page. | Strictly Necessary or Essential | session | [taimi.com](https://taimi.com/privacy-policy) |
+| cookie-policy | Is used my Taimi to start the website | Strictly Necessary or Essential | 2 years | [taimi.com](https://taimi.com/privacy-policy) |
+| viewed\_posts | Used by Taimi to measure the number of posts viewed on the website | Performance | 5 days | [taimi.com](https://taimi.com/privacy-policy) |
 | \_\_cfruid | This cookie from Cloudflare lets us know whether your device is reliable and enable us to detect bots | Strictly Necessary or Essential | Session | [medium.com](https://policy.medium.com/medium-privacy-policy-f03bf92035c9) |
 | cloudfront\_viewer\_country | The content of a page loads quickly and effectively by distributing the workload across numerous servers. | Strictly Necessary or Essential | 1 day | [ellentube.com](https://policies.warnerbros.com/privacy/en-eu/#otnotice-section-a4893af1-41ec-4eaf-8e95-a58cb23fa11c) |
 | \_fbp | Used by Facebook to provide a range of advertising products such as real-time bids from third party advertisers. | Targeting/<br><br>Advertising | 3 months | [facebook.com](https://www.facebook.com/policy/cookies/) |
@@ -124,7 +124,7 @@ This Cookie Policy (the “Policy”) is an integral part of the [Taimi’s Term
 
 4.2. You can withdraw your consent by setting your choices in your browser or in our cookie manager. 
 
-4.3. Information collected by Taimi on its own behalf in connection with social networks is governed by the provisions of the [Privacy Policy](https://taimi.com/privacypolicy). However, we are not responsible for the subsequent use of your data by social networks on their own behalf.
+4.3. Information collected by Taimi on its own behalf in connection with social networks is governed by the provisions of the [Privacy Policy](https://taimi.com/privacy-policy). However, we are not responsible for the subsequent use of your data by social networks on their own behalf.
 
 4.4. We invite you to consult the personal data protection policies of our various partners (e.g. Facebook, Google, etc.) in order to know exactly what information is collected by these third parties. You can also set up the access and the confidentiality of your data directly on the social networks concerned.
 
@@ -162,7 +162,7 @@ This Cookie Policy (the “Policy”) is an integral part of the [Taimi’s Term
 6\. Processing of Data Collected Through Tracking Technologies
 --------------------------------------------------------------
 
-6.1. The processing of the data that we collect with these technologies, where it is personal data, falls within the Privacy Policy. For example, our employees and subcontractors may be able to access these data. Moreover, your data may be processed on our behalf by the third-party service providers mentioned above. For more information on our practices, see the [Privacy Policy](https://taimi.com/privacypolicy).
+6.1. The processing of the data that we collect with these technologies, where it is personal data, falls within the Privacy Policy. For example, our employees and subcontractors may be able to access these data. Moreover, your data may be processed on our behalf by the third-party service providers mentioned above. For more information on our practices, see the [Privacy Policy](https://taimi.com/privacy-policy).
 
   
 
@@ -179,7 +179,7 @@ This Cookie Policy (the “Policy”) is an integral part of the [Taimi’s Term
 
 En
 
- English Portuguesa Français Nederlands Deutsch Italiano Español
+En Pt Fr Nl De Es It
 
  [![Facebook](https://taimi.com/themes/taimi2/assets/images/foot_fb.svg)](https://www.facebook.com/taimiapp)[![Twitter](https://taimi.com/themes/taimi2/assets/images/foot_tw.svg)](https://twitter.com/taimiapp)[![Instagram](https://taimi.com/themes/taimi2/assets/images/foot_in.svg)](https://www.instagram.com/taimiapp)[![Tik-Tok](https://taimi.com/themes/taimi2/assets/images/foot_tt.svg)](https://www.tiktok.com/@taimiapp)
 
@@ -206,7 +206,7 @@ Legal
 
 En
 
- English Portuguesa Français Nederlands Deutsch Italiano Español
+En Pt Fr Nl De Es It
 
 Dating
 
@@ -227,5 +227,7 @@ Chat
 * [Transgender chat](https://taimi.com/transgender-chat)
 
 ![adjust](https://view.adjust.com/impression/goc7ths?campaign=http://taimi.com/cookie-policy)
+
+![Logo](https://taimi.com/themes/taimi2/assets/images/logo.svg): fluidity, discovery, diversity
 
 [Get Taimi App for Free](https://app.adjust.com/goc7ths?campaign=https://taimi.com/cookie-policy_page(id%20129))
