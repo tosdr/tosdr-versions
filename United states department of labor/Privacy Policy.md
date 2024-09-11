@@ -40,6 +40,7 @@ submenu
             * [Coronavirus Resources](https://www.dol.gov/coronavirus)
             * [Disability Resources](https://www.dol.gov/general/topic/disability)
             * [Disaster Recovery Assistance](https://www.dol.gov/general/disasterrecovery)
+            * [Domestic Workers](https://www.dol.gov/general/domesticworkers)
             * [Elaws](https://webapps.dol.gov/elaws/)
             * [Equal Employment Opportunity](https://www.dol.gov/general/topic/discrimination)
             * [Evidence](https://www.dol.gov/evidence)
@@ -50,8 +51,8 @@ submenu
             * [Registered Apprenticeship](https://www.apprenticeship.gov/employers/registered-apprenticeship-program)
             * [International Labor Issues](https://www.dol.gov/agencies/ilab)
             * [Job Corps](https://www.dol.gov/agencies/eta/jobcorps)
-            * [Labor Relations](https://www.dol.gov/general/topic/labor-relations)
             
+            * [Labor Relations](https://www.dol.gov/general/topic/labor-relations)
             * [Leave Benefits](https://www.dol.gov/general/topic/benefits-leave)
             * [Major Laws of DOL](https://www.dol.gov/general/aboutdol/majorlaws)
             * [Other Benefits](https://www.dol.gov/general/topic/benefits-other)
@@ -66,8 +67,8 @@ submenu
             * [Wages](https://www.dol.gov/general/topic/wages)
             * [Whistleblower Protection](https://www.dol.gov/general/topics/whistleblower)
             * [Work Hours](https://www.dol.gov/general/topic/workhours)
-            * [Workers' Compensation](https://www.dol.gov/general/topic/workcomp)
             
+            * [Workers' Compensation](https://www.dol.gov/general/topic/workcomp)
             * [Workplace Safety and Health](https://www.dol.gov/general/topic/safety-health)
             * [Youth & Young Worker Employment](https://www.dol.gov/general/topic/youthlabor)
             
@@ -261,7 +262,9 @@ Labor Department
 About The Site
 
 * [Freedom of Information Act](https://www.dol.gov/general/foia)
+* [Privacy & Security Statement](https://www.dol.gov/general/privacynotice)
 * [Disclaimers](https://www.dol.gov/general/disclaim)
+* [Important Website Notices](https://www.dol.gov/general/aboutdol/website-policies)
 * [Plug-Ins Used on DOL.gov](https://www.dol.gov/general/aboutdol/file-formats)
 * [Accessibility Statement](https://www.dol.gov/general/aboutdol/accessibility)
 
