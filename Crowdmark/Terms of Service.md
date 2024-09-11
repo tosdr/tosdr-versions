@@ -14,7 +14,6 @@
     * [News & Press](https://crowdmark.com/press/)
     * [FAQ](https://crowdmark.com/faq/)
 * [Blog](https://crowdmark.com/blog/)
-* [Podcast](https://crowdmark.com/crowdmark-sessions/)
 * [Conference](https://crowdmark.com/events/community-conference/)
 * [Help](https://crowdmark.com/help/)
 
@@ -28,7 +27,6 @@
     * [News & Press](https://crowdmark.com/press/)
     * [FAQ](https://crowdmark.com/faq/)
 * [Blog](https://crowdmark.com/blog/)
-* [Podcast](https://crowdmark.com/crowdmark-sessions/)
 * [Conference](https://crowdmark.com/events/community-conference/)
 * [Help](https://crowdmark.com/help/)
 
@@ -267,8 +265,6 @@ Learn about Crowdmark in person! [Check out our upcoming live events.](https://c
 [FAQ](https://crowdmark.com/faq/)
 
 [Blog](https://crowdmark.com/blog/)
-
-[Podcast](https://crowdmark.com/crowdmark-sessions/)
 
 [Conference](https://crowdmark.com/events/community-conference/)
 
