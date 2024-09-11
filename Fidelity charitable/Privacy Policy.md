@@ -1,3 +1,7 @@
+[**How to help: Hurricane Beryl guidance**](https://www.fidelitycharitable.org/guidance/disaster-relief/how-to-help-hurricane-beryl.html)
+
+[×](#)
+
    [![Fidelity Charitable logo](/content/dam/fc-public/site-design-assets/fc-logos/fidelity-charitable-logo.png/_jcr_content/renditions/viewport-max-p.png)](https://www.fidelitycharitable.org/)
 
 [Try our demo](https://www.fidelitycharitable.org/giving-account/demo.html)
@@ -8,7 +12,7 @@
 
 [Open a Giving Account](https://www.fidelitycharitable.org/open-account.html)
 
-[Log in](https://charitablegift.fidelity.com/public/login/)
+[Log in](https://login.fidelity.com/ftgw/Fidelity/CgfCust/Login/Init?AuthRedUrl=https://charitablegift.fidelity.com/cgfweb/CGFLogon.cgfdo)
 
 * [The Giving Account](#)
     
@@ -79,7 +83,7 @@ Please enter a search term
 
 [Open a Giving Account](https://www.fidelitycharitable.org/open-account.html)
 
-[Log in](https://charitablegift.fidelity.com/public/login/)
+[Log in](https://login.fidelity.com/ftgw/Fidelity/CgfCust/Login/Init?AuthRedUrl=https://charitablegift.fidelity.com/cgfweb/CGFLogon.cgfdo)
 
 [For companies](https://www.fidelitycharitable.org/corporate-giving.html)
 
