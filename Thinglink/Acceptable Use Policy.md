@@ -114,15 +114,17 @@ Switch language
 
 Solutions
 
-[Marketing & Communications](https://www.thinglink.com/en-us/business) [Education](https://www.thinglink.com/en-us/edu) [Enterprise & Employee Training](https://www.thinglink.com/en-us/enterprise) [Museums & Libraries](https://www.thinglink.com/museums-and-libraries) [Higher Education](https://www.thinglink.com/higher-education) [Unity Projects & 3D Environments](https://www.thinglink.com/unity-plugin) [Pano to 360°](https://www.thinglink.com/pano-to-360) [Showcase Schools](https://www.thinglink.com/microsoft-showcase-schools) [Skybox AI](https://www.thinglink.com/skybox) [Google Certified Trainers](https://www.thinglink.com/google-certified-trainers) [Water Industry](https://www.thinglink.com/water-industry) [360Learning](https://www.thinglink.com/360-learning) [Google App Licensing](https://www.thinglink.com/google-app-licensing) [Scalable XR](https://www.thinglink.com/scalable-xr) [SPECTRAL](https://www.thinglink.com/spectral) [Healthcare](https://www.thinglink.com/healthcare) [Certified Trainers Program](https://www.thinglink.com/certified-trainers) [Trust Center](https://www.thinglink.com/trust-center) [Vocational Schools](https://www.thinglink.com/vocational-schools)
+[Marketing & Communications](https://www.thinglink.com/en-us/business) [Education](https://www.thinglink.com/en-us/edu) [Enterprise & Employee Training](https://www.thinglink.com/en-us/enterprise) [Museums & Libraries](https://www.thinglink.com/museums-and-libraries) [Higher Education](https://www.thinglink.com/higher-education) [Unity Projects & 3D Environments](https://www.thinglink.com/unity-plugin) [Pano to 360°](https://www.thinglink.com/pano-to-360) [Showcase Schools](https://www.thinglink.com/microsoft-showcase-schools) [Skybox AI](https://www.thinglink.com/skybox) [Google Certified Trainers](https://www.thinglink.com/google-certified-trainers) [Water Industry](https://www.thinglink.com/water-industry) [360Learning](https://www.thinglink.com/360-learning) [Google App Licensing](https://www.thinglink.com/google-app-licensing) [Scalable XR](https://www.thinglink.com/scalable-xr) [SPECTRAL](https://www.thinglink.com/spectral) [Healthcare](https://www.thinglink.com/healthcare) [Certified Trainers Program](https://www.thinglink.com/certified-trainers) [Trust Center](https://www.thinglink.com/trust-center) [Vocational Schools](https://www.thinglink.com/vocational-schools) [Production Services](https://www.thinglink.com/production-services)
 
 Company
 
-[About](https://www.thinglink.com/about) [Official Distributors](https://www.thinglink.com/en-us/distributors) [Blog](https://www.thinglink.com/blog) [Webinars](https://www.thinglink.com/blog/category/webinars) [Explore](https://www.thinglink.com/en-us/explore) [Referral Program](https://www.thinglink.com/en-us/referral-program) [Terms of use](https://www.thinglink.com/terms) [Privacy policy](https://www.thinglink.com/privacy)  [](https://www.thinglink.com/distributors)
+[About](https://www.thinglink.com/about) [Official Resellers](https://www.thinglink.com/en-us/resellers) [Blog](https://www.thinglink.com/blog) [Webinars](https://www.thinglink.com/blog/category/webinars) [Explore](https://www.thinglink.com/en-us/explore) [Referral Program](https://www.thinglink.com/en-us/referral-program) [Terms of use](https://www.thinglink.com/terms) [Privacy policy](https://www.thinglink.com/privacy)  [](https://www.thinglink.com/resellers)
 
-Stay in touch
+[](https://www.instagram.com/thinglink/ "@thinglink")[](https://www.linkedin.com/groups/9054683/ "thinglink")[](https://x.com/ThingLink "@thinglink")[](https://x.com/ThingLink_EDU "@thinglink_edu")[](https://www.facebook.com/ThingLink/ "thinglink")[](https://www.youtube.com/channel/UCoEFzyhf3bB8OyfNfHeuasQ/videos "ThingLink Education")
 
-[Contact us](https://support.thinglink.com/hc/en-us/requests/new) [Help center](https://support.thinglink.com/) [Sitemap](https://www.thinglink.com/sitemap) [ThingLink Education](https://www.youtube.com/channel/UCoEFzyhf3bB8OyfNfHeuasQ/videos) [thinglink](https://www.facebook.com/ThingLink/) [@thinglink](https://x.com/ThingLink) [@thinglink\_edu](https://x.com/ThingLink_EDU) [thinglink](https://www.linkedin.com/groups/9054683/) [@thinglink](https://www.instagram.com/thinglink/)
+[Contact us](https://support.thinglink.com/hc/en-us/requests/new) [Help center](https://support.thinglink.com/) [Sitemap](https://www.thinglink.com/sitemap)
+
+[![ISO 27001 certificate logo](/gfx/pages16/icons/vanta-iso27001.svg)](https://thinglink.s3.eu-west-1.amazonaws.com/docs/British+Assessment+Bureau+Certificate.pdf)
 
 Sign up
 =======
@@ -137,7 +139,7 @@ Sign up
 
  OR
 
-[Login with Microsoft](https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=5a5c866c-0105-4bc4-ae0d-3e995d07a028&response_type=id_token+code&nonce=EFmDy8WHdNveoebT3gWeZr&scope=openid%20profile%20email%20User.Read&response_mode=form_post&redirect_uri=https://www.thinglink.com/action/azurelogin&state=r:/aup "Login with Microsoft.")   [](# "Login with Google.")7hYpxr6FOYXtuR6Kihmk5eNIW-Otp1nvdgmcQ5AN9jFzqUgcwHN7SN-cAOizCSdg
+[Login with Microsoft](https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=5a5c866c-0105-4bc4-ae0d-3e995d07a028&response_type=id_token+code&nonce=74Cd8u3tacYRS5HQ9Vruj8&scope=openid%20profile%20email%20User.Read&response_mode=form_post&redirect_uri=https://www.thinglink.com/action/azurelogin&state=r:/aup "Login with Microsoft.")   [](# "Login with Google.")kWFSWh92SZSRvqfYsCELNofMliRrIcaLhuJDFUdxM82e2-9SKiIyJN-cAOizCSdg
 
   [](#)[Login with Clever](https://clever.com/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Fwww.thinglink.com%2Faction%2Fcleverlogin&client_id=35ec47d01b85ff7bf80d "Login with Clever.") [Login with Facebook](https://www.facebook.com/dialog/oauth?client_id=163019823751039&scope=email&redirect_uri=https://www.thinglink.com/action/fblogin&state=r:/aup "Login with Facebook.") [Login with MPASSid](https://www.thinglink.com/auth/mpassid/login "Login with MPASSid")
 
