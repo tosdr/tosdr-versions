@@ -252,11 +252,13 @@ You can use [**@EURegulation**](https://t.me/EURegulation) to:
 
 #### [](#q-there-39s-illegal-content-on-telegram-how-do-i-take-it-down)Q: There's illegal content on Telegram. How do I take it down?
 
-All Telegram chats and group chats are private amongst their participants. We do not process any requests related to them.
+All Telegram apps have **'Report'** buttons that let you flag illegal content for our moderators — in just a few taps.
 
-But **sticker sets**, **channels**, and **bots** on Telegram are _publicly available_. If you find sticker sets or bots on Telegram that you think are illegal, please ping us at [abuse@telegram.org](mailto:abuse@telegram.org).
+On Telegram for Android, tap the message and select _Report_ from the menu. On iOS, press and hold the message. On Telegram Desktop, Web or Telegram for macOS, right-click the message and select _Report_. Then choose an appropriate reason.
 
-You can also use the 'report' buttons right inside our apps, see [this post](https://t.me/isiswatch/2) on our official [@ISISwatch channel](https://t.me/isiswatch) for details.
+You can also use our automated takedown email address [abuse@telegram.org](mailto:abuse@telegram.org). If you're sending an email takedown request, please make sure to include **links** (like `t.me/...` or `@...`) to the content on Telegram which you think needs attention from our moderators.
+
+Users from the EU are welcome to study the [User Guidance for the EU Digital Services Act](https://telegram.org/tos/eu-dsa) for the relevant reporting options.
 
 > Note: If a scammer is pretending to be you, contact [@NoToScam](https://t.me/notoscam)
 
