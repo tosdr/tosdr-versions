@@ -361,8 +361,8 @@ Copyright ©. All rights reserved. All trademarks, logos and service marks displ
 
 Email: admin@xtremeownage.com
 
-May 8, 2024
+August 29, 2024
 
 Made with [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
 
-[](https://discord.gg/uEkamH9 "WarBOT Development Discord")[](https://github.com/XtremeOwnage/WarBot "WarBOT Github")
+[](https://static.xtremeownage.com/discord "Discord")[](https://github.com/XtremeOwnage/WarBot "WarBOT Github")
