@@ -26,7 +26,7 @@
         [The Latest from HQ](https://www.aapd.org/link/40d8c9bbe1d84ae893138470f9496fb1.aspx)
     * ###### Get Involved
         
-        [AAPD Foundation](https://aapdfoundation.org/?dt=638578211883364153)
+        [AAPD Foundation](https://aapdfoundation.org/?dt=638615617381925517)
     
 * [Resources](https://www.aapd.org/resources/resources/) [Toggle expand sub-navigation items](#)
     
@@ -54,7 +54,7 @@
     
     * ###### AAPD 2025
         
-        [Speaker Submissions Now Open!](https://www.aapd.org/link/b01dcdf3b82a41b7ade0557e85e19303.aspx)
+        [Speaker Submissions Due Sept. 16](https://www.aapd.org/link/b01dcdf3b82a41b7ade0557e85e19303.aspx)
     * ###### Meetings Calendar
         
         [Register for AAPD CE Courses](https://www.aapd.org/link/52997f3a726f4743ae8a49c3c5086f2f.aspx)
@@ -111,7 +111,7 @@
         [Pediatric Oral Health Advocacy Conferences](https://www.aapd.org/advocacy/grassroots-advocacy/Pediatric-Oral-Health-Advocacy-Conference/)
     * ###### AAPD PAC
         
-        [Supported Candidates](https://www.aapd.org/advocacy/aapd-pac/supported-candidates/)
+        [2024 PAC Annual Report](https://www.aapd.org/link/12f30006f5c64f9ab2563694fe49df9c.aspx)
     
 
 [![](/globalassets/assets/logos/aapd_logo-bright.svg)](https://www.aapd.org/)
