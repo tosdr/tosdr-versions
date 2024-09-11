@@ -4,10 +4,10 @@ Toggle navigation [![Teach n Go](images/logo-Poppins-4.png "Everything you need 
 * [Solutions](#)
     
     * [Language Schools](https://www.teachngo.com/solutions/language-school-management-software)
-    * [Colleges](https://www.teachngo.com/solutions/college-management-software)
     * [Tutoring](https://www.teachngo.com/solutions/tutoring-management-software)
-    * [Adult Education](https://www.teachngo.com/solutions/adult-education-software)
     * [Music Schools](https://www.teachngo.com/solutions/music-school-software)
+    * [Colleges](https://www.teachngo.com/solutions/college-management-software)
+    * [Adult Education](https://www.teachngo.com/solutions/adult-education-software)
     * [Computer Skills Schools](https://www.teachngo.com/solutions/computer-skills-school-software)
     * [Faith Schools](https://www.teachngo.com/solutions/faith-school-software)
     
