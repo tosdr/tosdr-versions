@@ -4,7 +4,7 @@
 
   Light Mode
 
-![](/_static/img/logos/made-in-europe-white-69e1fc.svg "Made in Europe logo") ![](/_static/img/logos/made-in-europe-black-b5a6c7.svg "Made in Europe logo") [![](/_static/icons/red/bold/phone-circle-186093.svg) 020 8068 7308](tel: "Call Us")[![](/_static/icons/red/bold/question-circle-e166ca.svg)](https://support.anydesk.com/knowledge "Help Center")![](/_static/icons/red/bold/arrow-down-1-13dd01.svg)
+ [![](/_static/icons/red/bold/phone-circle-186093.svg)](tel: "Call Us")[Customer Portal](https://my.anydesk.com/ "my.anydesk.com") ![](/_static/icons/red/bold/arrow-down-1-13dd01.svg)
 
  [![](/_static/img/logos/anydesk-logo-white-red-ec4e3a.png "AnyDesk logo") ![](/_static/img/logos/anydesk-logo-c0861c.png "AnyDesk logo")](https://anydesk.com/en)
 
@@ -47,17 +47,17 @@
     
     Support
     
-    [All Services](https://anydesk.com/en/services) [Customer Success](https://anydesk.com/en/services/customer-success) [Help Center![](/_static/icons/black/bold/keyboard-arrow-top-right-7aaa41.svg)](https://support.anydesk.com/knowledge) [Contact Us](https://anydesk.com/en/support/contact-us)
+    [Customer Portal![](/_static/icons/black/bold/keyboard-arrow-top-right-7aaa41.svg)](https://my.anydesk.com/) [Help Center![](/_static/icons/black/bold/keyboard-arrow-top-right-7aaa41.svg)](https://support.anydesk.com/knowledge) [Contact Us](https://anydesk.com/en/contact-anydesk)
     
 * [Buy Now](https://anydesk.com/en/pricing)
 
-[my.anydesk](https://my.anydesk.com/)[![](/_static/icons/red/bold/single-neutral-circle_2-d96f02.svg "my.anydesk.com")](https://my.anydesk.com/)[Downloads](https://anydesk.com/en/downloads)[![](/_static/icons/red/bold/download-bottom-278e26.svg "Downloads")](https://anydesk.com/en/downloads)
+[Contact Us](https://anydesk.com/en/contact-anydesk)[![](/_static/icons/red/bold/headphones-customer-support-human-6e41ee.svg "Contact Us")](https://anydesk.com/en/contact-anydesk)[Downloads](https://anydesk.com/en/downloads)[![](/_static/icons/red/bold/download-bottom-278e26.svg "Downloads")](https://anydesk.com/en/downloads)
 
 Terms & Conditions
 ==================
 
-Last updated:1 September 2022
------------------------------
+Last updated:March 14, 2024
+---------------------------
 
 [View Data Processing Agreement](https://anydesk.com/en/data-processing-agreement)  
 [View Data Processing Agreement Annex 1 (PDF)![](/_static/icons/red/bold/keyboard-arrow-top-right-634d12.svg)](https://download.anydesk.com/docs/legal/AnyDesk-DPA-Annex1.pdf)  
@@ -94,6 +94,9 @@ Last updated:1 September 2022
     * [2\. Preconditions and Subject of Service Provision](#_Toc112401748)
     * [3\. Special Obligations of the Customer](#_Toc112401749)
     * [4\. Usage Rights and Software Integration](#_Toc112401750)
+* [D General Terms and Conditions - United States (U.S.) Supplement](#_us_d)
+* [E Supplementary Terms “AnyDesk Essentials” and “AnyDesk Free” - United States (U.S.) Supplement](#_us_e)
+* [F Supplementary Terms “On-Premises” - United States (U.S.) Supplement](#_us_f)
 
   
 
@@ -368,6 +371,89 @@ Software markings, in particular copyright notices, trademarks, serial numbers o
 
 4.5 Section A. 6. of the General Terms and Conditions (lit. A) shall apply to the client software provided in accordance with the contract.
 
+**D General Terms and Conditions - United States (U.S.) Supplement**
+--------------------------------------------------------------------
+
+For Services provided by AnyDesk Americas, Inc. the Terms and Conditions will be amended as set out below.
+
+Capitalised terms used but not defined in this Supplement have the meanings set out in the Terms and Conditions.
+
+**Clause 1.1 is replaced by the following:**
+
+1.1 The provider of the services is AnyDesk Americas, Inc. a Florida Profit Corporation with its registered address at 2729 State Rd. 580, Clearwater, Florida 33761 (“AnyDesk”).
+
+**Clause 2.1 is replaced by the following:**
+
+The range of services offered by AnyDesk (“Services”) is aimed exclusively at natural persons or legal entities who act in the exercise of their commercial or self-employed professional activity in the course of a business (and not dealing or acting as a consumer for personal, family or household purposes) when concluding a legal transaction. The online registration required for this purpose and the conclusion of the order shall be subject to the condition that the Customer is exercising a commercial or self-employed professional activity in the course of a business and is not dealing or acting as a consumer for personal, family or household purposes.
+
+**Clause 3.1 is replaced by the following:**
+
+3.1 A Contract for the provision of AnyDesk’s Services can be entered into online by completing the order process or by accepting a written offer from AnyDesk. In the case of a written offer from AnyDesk to Customers, such offer is deemed confirmed if countersigned by the Customer without any changes within 14 days of the Customer’s receipt of the offer. Unless otherwise stated, the AnyDesk’s written offer is only valid for 14 days after the Customer’s receipt of the written offer. If during the 14-day period described above, the Customer wishes to change AnyDesk’s written offer, the Customer may send AnyDesk a counteroffer clearly stating the name of the offer/order and the changes requested (“Counteroffer”). If AnyDesk accepts the Counteroffer within 14 days from its receipt thereof, the Counteroffer will replace the original written offer and form the basis of the Contract under these Terms and Conditions.
+
+**Clause 6.4 is replaced by the following:**
+
+6.4 The Customer shall not modify, adapt, or prepare derivative works or decompile, decrypt, reverse engineer or attempt to reconstruct or determine any source code or underlying ideas, algorithms, file formats, programming, or interoperability interfaces of the software of AnyDesk or files contained in or created during the use of the software of AnyDesk, or otherwise reduce the software to a human readable form.
+
+**Clause 8.2 is replaced by the following:**
+
+8.2 The amounts payable for the use of AnyDesk’s Services shall be invoiced in each case in accordance with the payment procedure relevant to the order. Unless otherwise stated herein, invoices are due within 30 days of receipt without deduction. Any applicable taxes and duties payable by the Customer will be set forth on the invoice as well.
+
+**Clause 8.3 is replaced by the following:**
+
+8.3 Overdue invoices shall bear interest at the rate of 1% per month until paid. All costs of collection on overdue and unpaid invoices shall be recovered by AnyDesk.
+
+**Clause 8.4 added as follows:**
+
+AnyDesk shall not provide any refunds (in whole or in part) to Customers for Services or Products provided by AnyDesk.
+
+**Section 12 is replaced by the following:**
+
+##### **12\. Liability**
+
+12.1 Nothing in these Terms and Conditions excludes the liability of AnyDesk for personal injury, or for any liability that is directly and solely caused by gross negligence or wilful misconduct of AnyDesk.
+
+12.2 AnyDesk excludes liability for damage or loss from defects in the AnyDesk software existing at the time of entering into the Contract for which AnyDesk is not responsible or which arise from the act or responsibility of any third party.
+
+12.3 AnyDesk excludes liability for all data losses or hardware disruptions caused by incompatibility of the components existing on the Customer's end devices or IT systems, including hardware and software system disruptions due to existing misconfigurations or older, disruptive drivers that have not been completely removed.
+
+12.4 AnyDesk excludes liability for data losses caused by the Customer's failure to carry out data backups which thereby fail to ensure that lost data can be restored with reasonable effort.
+
+12.5 The maximum liability of AnyDesk arising directly from a breach of its contractual duties under these Terms and Conditions, or that is not otherwise expressly excluded under these Terms and Conditions, will be limited to the value of fees paid by the Customer to AnyDesk in respect of the Services in the 12 months immediately prior to the claim.
+
+IN NO EVENT SHALL ANYDESK BE LIABLE FOR ANY INCIDENTAL, CONSEQUENTIAL, SPECIAL OR PUNITIVE DAMAGES, INCLUDING WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS OR INFORMATION, CONTENT OR DATA, BUSINESS INTERRUPTION, OR LOST PROFITS, ARISING OR RESULTING FROM THE USE OR INABILITY TO USE ANYDESK SERVICES.
+
+**Clause 16 is replaced by the following:**
+
+##### **16\. Miscellaneous Provisions**
+
+16.1 The entire commercial relationship between AnyDesk and the Customer shall be governed by the laws of the state of Florida without regard to its conflict of laws provisions.
+
+16.2 The Parties submit to the exclusive jurisdiction of the state or federal courts with jurisdiction over Pinellas County, Florida to settle any dispute or matter arising under the Contract. The prevailing party shall be entitled to recover its attorney’s fees and court costs.
+
+**Clause 17 is added as follows:**
+
+##### **17\. U.S. Government Restricted Rights**
+
+ANYDESK Software and Services, including maintenance services, are provided to U.S. government entities as “Commercial Items” as that term is defined at 48 C.F.R. § 2.101, consisting of “Commercial Computer Software” and “Commercial Computer Software Documentation,” and services related thereto, as such terms are stated in 48 C.F.R. § 12.212 or 48 C.F.R. § 227.702, as applicable. Consistent with 48 C.F.R. §12.212 or 48 C.F.R. §227.7202-1 through §227.7202-4, as applicable, the Commercial Computer Software and Commercial Computer Software Documentation are being licensed to U.S. Federal Government End Users (A) only as Commercial Items; and (B) with only those rights as are granted to all other end users pursuant to the Terms and Conditions. Unpublished rights are reserved under the laws of the United States. The manufacturer of the Software is AnyDesk GmbH; Türlenstraße 2, 70191 Stuttgart (Germany).
+
+**E Supplementary Terms “AnyDesk Essentials” and “AnyDesk Free” - United States (U.S.) Supplement**
+---------------------------------------------------------------------------------------------------
+
+For Services provided by AnyDesk Americas, Inc. these Supplementary Terms will be amended as follows:
+
+**Clause 2.1 is replaced by the following:**
+
+The AnyDesk “AnyDesk Free” offer is aimed (addressed) exclusively at consumers for personal, family and household use only not for use for business or professional purposes.
+
+**F Supplementary Terms “On-Premises” - United States (U.S.) Supplement**
+-------------------------------------------------------------------------
+
+For Services provided by AnyDesk Americas, Inc. these Supplementary Terms will be amended as follows:
+
+**Clause 4.2 is replaced by the following:**
+
+4.2 The Customer shall not modify, adapt, or prepare derivative works or decompile, decrypt, reverse engineer or attempt to reconstruct or determine any source code or underlying ideas, algorithms, file formats or programming or interoperability interfaces of the product, software or files contained in or created during the use of the product or software or otherwise reduce the product to a human readable form.
+
 [#### Archive](#card-accordion-menu1)
 
 [Terms & Conditions 2021-06-14![](/_static/icons/red/bold/keyboard-arrow-top-right-634d12.svg)](https://download.anydesk.com/docs/legal/archive/2021-06-14_AGB_EN.pdf)  
@@ -378,7 +464,7 @@ Software markings, in particular copyright notices, trademarks, serial numbers o
 
 ##### Contact sales
 
- [![](/_static/icons/white/bold/phone-9be7e0.svg) 020 8068 7308![](/_static/icons/red/bold/arrow-button-right-1-acd1f2.svg) ![](/_static/icons/white/bold/arrow-button-right-1-d8f1ad.svg)](tel:02080687308) 
+ [![](/_static/icons/white/bold/phone-9be7e0.svg) +1 833 269 3375![](/_static/icons/red/bold/arrow-button-right-1-acd1f2.svg) ![](/_static/icons/white/bold/arrow-button-right-1-d8f1ad.svg)](tel:+18332693375) 
 
 At AnyDesk, we want to provide the best experience and most innovative technology to all our users and customers. Our team will be operating on reduced holiday hours during this time.
 
@@ -387,6 +473,10 @@ At AnyDesk, we want to provide the best experience and most innovative technolog
 [Sales](https://anydesk.com/en/contact/sales)
 
 [Support](https://anydesk.com/en/contact/support)
+
+##### Contact sales
+
+ [![](/_static/icons/white/bold/phone-9be7e0.svg) +1 833 269 3375![](/_static/icons/red/bold/arrow-button-right-1-acd1f2.svg) ![](/_static/icons/white/bold/arrow-button-right-1-d8f1ad.svg)](tel:+18332693375) 
 
 ### Sign up for news, tips and more
 
@@ -400,7 +490,7 @@ Subscribe Now
 
 ![](/_static/img/logos/anydesk-logo-white-red-ec4e3a.png "AnyDesk logo")
 
-![](/_static/img/logos/made-in-europe-white-69e1fc.svg "AnyDesk logo")
+![](/_static/img/logos/based-in-florida-white-ecce6b.svg "AnyDesk logo")
 
 ![](/_static/icons/red/bold/arrow-down-1-13dd01.svg)
 
@@ -420,11 +510,11 @@ Subscribe Now
 
 [Company](#card-accordion-footer-menu4)
 
-[AnyDesk Team](https://anydesk.com/en/leadership-team) [Contact Us](https://anydesk.com/en/support/contact-us) [Open Positions](https://anydesk.com/en/career) [Partners](https://anydesk.com/en/partners) [Blog](https://blog.anydesk.com/) [Press](https://anydesk.com/en/press) [Events](https://anydesk.com/en/events) [Fanshop![](/_static/icons/white/bold/keyboard-arrow-top-right-5f4184.svg)](https://anydesk.com/fanshop)
+[AnyDesk Team](https://anydesk.com/en/leadership-team) [Contact Us](https://anydesk.com/en/support/contact-us) [Open Positions](https://anydesk.com/en/career) [Partners](https://anydesk.com/en/partners) [Blog](https://blog.anydesk.com/) [Press](https://anydesk.com/en/press) [Events](https://anydesk.com/en/events) [Fanshop![](/_static/icons/white/bold/keyboard-arrow-top-right-5f4184.svg)](https://anydesk-shop.myspreadshop.com/)
 
 ![](/_static/img/logos/anydesk-logo-white-red-ec4e3a.png "AnyDesk logo")
 
-![](/_static/img/logos/made-in-europe-white-69e1fc.svg "AnyDesk logo")
+![](/_static/img/logos/based-in-florida-white-ecce6b.svg "AnyDesk logo")
 
 ![](/_static/icons/red/bold/arrow-down-1-13dd01.svg)
 
@@ -498,7 +588,7 @@ Company
 
 [Events](https://anydesk.com/en/events)
 
-[Fanshop![](/_static/icons/white/bold/keyboard-arrow-top-right-5f4184.svg)](https://anydesk.com/fanshop)
+[Fanshop![](/_static/icons/white/bold/keyboard-arrow-top-right-5f4184.svg)](https://anydesk-shop.myspreadshop.com/)
 
 © 2024 AnyDesk Software GmbH • [Terms & Conditions](https://anydesk.com/en/terms) • [Privacy Policy](https://anydesk.com/en/privacy) • [Legal Notice](https://anydesk.com/en/imprint)
 
