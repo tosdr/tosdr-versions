@@ -2,8 +2,6 @@ Popup calculator Copy a link to this page Print this page Email a link to this p
 
 [![The Calculator Site logo](/images/logos/original.png)](https://www.thecalculatorsite.com/)
 
-[](https://www.thecalculatorsite.com/math/percentage-calculator.php)
-
 Quick Search: 
 
 * [Finance](https://www.thecalculatorsite.com/finance/)
@@ -335,10 +333,6 @@ Discover the number one song and movie on the day you were born.
 
 #### Company
 
-[About The Calculator Site](https://www.thecalculatorsite.com/aboutus.php) [Advertise With Us](https://www.thecalculatorsite.com/direct-sales.html) [Privacy & Cookie Use](https://www.thecalculatorsite.com/privacypolicy.php) [Disclaimer](https://www.thecalculatorsite.com/disclaimer.php) [Contact Us](https://www.thecalculatorsite.com/feedback.php)
+[About The Calculator Site](https://www.thecalculatorsite.com/aboutus.php) [Advertise With Us](https://www.thecalculatorsite.com/direct-sales.html) [Privacy & Cookie Use](https://www.thecalculatorsite.com/privacypolicy.php) [Terms and Conditions](https://www.thecalculatorsite.com/disclaimer.php) [Contact Us](https://www.thecalculatorsite.com/feedback.php)
 
 [](https://www.facebook.com/thecalculatorsite "Visit our Facebook page")© Copyright 2024, Hazell Industries Hazell Industries Ltd, 124 City Road, London. EC1V 2NX
-
- 
-
-![](https://go.ezodn.com/utilcave_com/ezoic.png "ezoic")
