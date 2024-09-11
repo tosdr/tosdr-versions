@@ -44,7 +44,7 @@ Toggle Navigation
 * [Press Releases](https://truyo.com/news-press-releases/)
 * [FAQ](https://truyo.com/faq/)
 
-[Contact](https://truyocom.wpenginepowered.com/contact/)
+[Contact](https://truyo.com/contact/)
 
 [![Truyo Logo](https://truyo.com/wp-content/uploads/2021/12/truyoLogoNew.png)![Truyo Logo](https://truyo.com/wp-content/uploads/2021/12/truyoLogoNew.png)![Truyo Logo](https://truyo.com/wp-content/uploads/2021/12/truyoLogoNew.png)](https://truyo.com/)
 
@@ -331,17 +331,17 @@ Truyo is an Intel® Market Ready Solution.
 
 **RESOURCES**
 
-[Ale Johnson](https://truyo.com/author/ajohnson/ "Posts by Ale Johnson")2024-07-31T14:31:19-07:00
+[Ale Johnson](https://truyo.com/author/ajohnson/ "Posts by Ale Johnson")2024-09-04T21:46:17-07:00
 
-#### [Bias Testing for AI in the Workplace: Why Companies Need to Identify Bias Now](https://truyo.com/blog/bias-testing-for-ai-in-the-workplace-why-companies-need-to-identify-bias-now/)
+#### [California Safe and Secure Innovation for Frontier AI Models Act Foreshadows Legislative Landscape](https://truyo.com/blog/california-safe-and-secure-innovation-for-frontier-ai-models-act-foreshadows-legislative-landscape/)
 
-[Ale Johnson](https://truyo.com/author/ajohnson/ "Posts by Ale Johnson")2024-07-31T12:45:20-07:00
+[Ale Johnson](https://truyo.com/author/ajohnson/ "Posts by Ale Johnson")2024-09-04T21:56:32-07:00
 
-#### [VCDPA Enforcement: What You Need to Know](https://truyo.com/blog/vcdpa-enforcement-what-you-need-to-know/)
+#### [Dark Patterns: Understanding Their Impact, Harm, and How the CPPA is Cracking Down](https://truyo.com/blog/dark-patterns-understanding-their-impact-harm-and-how-the-cppa-is-cracking-down/)
 
-[Ale Johnson](https://truyo.com/author/ajohnson/ "Posts by Ale Johnson")2024-07-25T07:46:21-07:00
+[Ale Johnson](https://truyo.com/author/ajohnson/ "Posts by Ale Johnson")2024-08-28T16:00:08-07:00
 
-#### [The Questions Every Company Should Be Asking About AI](https://truyo.com/blog/the-questions-every-company-should-be-asking-about-ai/)
+#### [Ensuring Responsible AI: A Comprehensive Approach to AI Assessments](https://truyo.com/blog/ensuring-responsible-ai-a-comprehensive-approach-to-ai-assessments/)
 
 [contact](https://truyocom.wpenginepowered.com/contact/)
 
@@ -367,6 +367,6 @@ Copyright © 2021, All Rights Reserved – Powered by Intel®
 
 [Page load link](#)
 
-            
+              
 
 [Go to Top](#)
