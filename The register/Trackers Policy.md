@@ -59,7 +59,7 @@ Topics
 Special Features
 ----------------
 
-[All Special Features](https://www.theregister.com/special_features) [Cloud Infrastructure Month](https://www.theregister.com/special_features/cloud_infrastructure_month) [Malware Month](https://www.theregister.com/special_features/malware_month) [Cybersecurity Month](https://www.theregister.com/special_features/cybersecurity_month) [Blackhat and DEF CON](https://www.theregister.com/special_features/blackhat_and_defcon) [Sysadmin Month](https://www.theregister.com/special_features/sysadmin_month) [The Reg in Space](https://www.theregister.com/special_features/the_reg_in_space) [Emerging Clean Energy Tech Week](https://www.theregister.com/special_features/emerging_clean_energy_tech_week) [Spotlight on RSA](https://www.theregister.com/special_features/spotlight_on_rsa) [Energy Efficient Datacenters](https://www.theregister.com/special_features/energy_efficient_datacenters)
+[All Special Features](https://www.theregister.com/special_features) [VMware Explore](https://www.theregister.com/special_features/vmware_explore) [Blackhat and DEF CON](https://www.theregister.com/special_features/blackhat_and_defcon) [Cloud Infrastructure Month](https://www.theregister.com/special_features/cloud_infrastructure_month) [Malware Month](https://www.theregister.com/special_features/malware_month) [The Reg in Space](https://www.theregister.com/special_features/the_reg_in_space) [Spotlight on RSA](https://www.theregister.com/special_features/spotlight_on_rsa)
 
 Vendor Voice
 ------------
@@ -69,7 +69,7 @@ Vendor Voice
 [Vendor Voice](#subnav-box-nav-tag-vendor-voice)
 ------------------------------------------------
 
-[All Vendor Voice](https://www.theregister.com/VendorVoice/) [Amazon Web Services (AWS) New Horizon in Cloud Computing](https://www.theregister.com/VendorVoice/aws_new_horizon_getting_started/) [DDN](https://www.theregister.com/VendorVoice/ddn/) [Google Cloud Data Transformation](https://www.theregister.com/VendorVoice/google_cloud_data_transformation/) [Google Gemini](https://www.theregister.com/VendorVoice/google_gemini/) [Hewlett Packard Enterprise: Edge-to-Cloud Platform](https://www.theregister.com/VendorVoice/hpe_greenlake/) [Intel vPro](https://www.theregister.com/VendorVoice/intelvpro/) [VMware](https://www.theregister.com/VendorVoice/vmware/)
+[All Vendor Voice](https://www.theregister.com/VendorVoice/) [Amazon Web Services (AWS) New Horizon in Cloud Computing](https://www.theregister.com/VendorVoice/aws_new_horizon_solutions/) [Google Gemini](https://www.theregister.com/VendorVoice/google_gemini/) [Hewlett Packard Enterprise: Edge-to-Cloud Platform](https://www.theregister.com/VendorVoice/hpe_greenlake/) [Intel vPro](https://www.theregister.com/VendorVoice/intelvpro/) [VMware](https://www.theregister.com/VendorVoice/vmware/)
 
 [(X)](#masthead)
 
@@ -363,6 +363,7 @@ The Register ![icon](/design_picker/d518b499f8a6e2c65d4d8c49aca8299d54b03012/gra
 * [Cookies Policy](https://www.theregister.com/Profile/cookies/)
 * [Privacy Policy](https://www.theregister.com/Profile/privacy/)
 * [Ts & Cs](https://www.theregister.com/Profile/terms_and_conditions_of_use/)
+* [Do not sell my personal information](https://www.theregister.com/Profile/privacy_policy_california_residents/)
 
 [![Situation Publishing](/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/std/sitpublogo_2022.png)](https://situationpublishing.com/)
 
