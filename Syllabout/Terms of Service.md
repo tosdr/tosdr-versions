@@ -1,6 +1,11 @@
-[![](/img/syllabout.svg)](https://syllabout.com/)
+ 
 
 [![](/img/syllabout.svg)](https://syllabout.com/)
+
+* [Destinations](https://syllabout.com/category/destinations)
+* [Health](https://syllabout.com/category/health)
+* [Home](https://syllabout.com/category/home)
+* [About Us](https://syllabout.com/about)
 
 Terms of Use
 ============
@@ -92,3 +97,11 @@ Inuvo, Inc. 500 President Clinton Ave., Suite 300, Little Rock, AR 72201
 Please note that by sharing your ideas, you also grant us and third parties permission to use and/or incorporate your ideas or comments without further compensation.
 
 Last Updated: May 12, 2016
+
+[![](/img/syllabout.svg)](https://syllabout.com/)
+
+Disclaimer: Syllabout.com only provides general information and nothing on the site should be taken as any form of advice, warranty or endorsement. The content, information, articles, links, pictures, graphics, and other information contained on this site is for information and entertainment purposes only and is not a substitute for professional advice. To learn more, you should review our Privacy Policy which details important information that will help answer questions regarding personal privacy in relation to the use of our site.
+
+[Contact Us](https://inuvo.com/site-contact/) [Privacy Policy](https://syllabout.com/privacy) [Terms of Use](https://syllabout.com/terms)
+
+© Copyright 2024 [Inuvo, Inc](https://www.inuvo.com/)
