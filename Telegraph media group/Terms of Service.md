@@ -6,28 +6,27 @@ UK News Website of the Year 2024
 
 [Search Icon](https://www.telegraph.co.uk/search/)
 
-* [News](https://www.telegraph.co.uk/news/)
-* [Olympics](https://www.telegraph.co.uk/olympics/)
-* [Sport](https://www.telegraph.co.uk/sport/)
-* [Business](https://www.telegraph.co.uk/business/)
-* [Money](https://www.telegraph.co.uk/money/)
-* [Opinion](https://www.telegraph.co.uk/opinion/)
+* [News](https://www.telegraph.co.uk/news/usa/)
+* [2024 Elections](https://www.telegraph.co.uk/us-election/)
+* [Israel](https://www.telegraph.co.uk/israel-hamas-war/)
 * [Ukraine](https://www.telegraph.co.uk/russia-ukraine-war/)
-* [US election](https://www.telegraph.co.uk/us-election/)
+* [Royals](https://www.telegraph.co.uk/royal-family/)
+* [Sports](https://www.telegraph.co.uk/sport/)
+* [Opinion](https://www.telegraph.co.uk/opinion/)
 * [Travel](https://www.telegraph.co.uk/travel/)
 * [Health](https://www.telegraph.co.uk/health-fitness/)
-* [Lifestyle](https://www.telegraph.co.uk/lifestyle/)
-* [Culture](https://www.telegraph.co.uk/culture/)
+* [Life](https://www.telegraph.co.uk/lifestyle/)
+* [Entertainment](https://www.telegraph.co.uk/culture/)
+* [Business](https://www.telegraph.co.uk/business/)
 * [Puzzles](https://www.telegraph.co.uk/puzzles/)
-* [Podcasts](https://www.telegraph.co.uk/podcasts/)
 
- ![](/etc.clientlibs/settings/wcm/designs/telegraph/core/clientlibs/ui/dist/static/resources/images/flags/UK-SVG.svg)UK Edition
+ ![](/etc.clientlibs/settings/wcm/designs/telegraph/core/clientlibs/ui/dist/static/resources/images/flags/USA-SVG.svg)US Edition
 
-*  [![](/etc.clientlibs/settings/wcm/designs/telegraph/core/clientlibs/ui/dist/static/resources/images/flags/USA-SVG.svg) US Edition](https://www.telegraph.co.uk/us/)
+*  [![](/etc.clientlibs/settings/wcm/designs/telegraph/core/clientlibs/ui/dist/static/resources/images/flags/UK-SVG.svg) UK Edition](https://www.telegraph.co.uk/)
 
 [Search Icon](https://www.telegraph.co.uk/search/)
 
-[Subscribe now Free for one month](https://secure.telegraph.co.uk/customer/subscribe/)
+[Subscribe now](https://secure.telegraph.co.uk/customer/subscribe/)
 
 [Log in](https://secure.telegraph.co.uk/customer/secure/login/?redirectTo=)
 
@@ -35,13 +34,14 @@ UK News Website of the Year 2024
 
 Sections
 
- ![](/etc.clientlibs/settings/wcm/designs/telegraph/core/clientlibs/ui/dist/static/resources/images/flags/UK-SVG.svg)UK Edition
+ ![](/etc.clientlibs/settings/wcm/designs/telegraph/core/clientlibs/ui/dist/static/resources/images/flags/USA-SVG.svg)US Edition
 
-*  [![](/etc.clientlibs/settings/wcm/designs/telegraph/core/clientlibs/ui/dist/static/resources/images/flags/USA-SVG.svg) US Edition](https://www.telegraph.co.uk/us/)
+*  [![](/etc.clientlibs/settings/wcm/designs/telegraph/core/clientlibs/ui/dist/static/resources/images/flags/UK-SVG.svg) UK Edition](https://www.telegraph.co.uk/)
 
 * [News](https://www.telegraph.co.uk/news/)
     * [News home](https://www.telegraph.co.uk/news/)
     * [UK news](https://www.telegraph.co.uk/news/uk/)
+    * [Tory leadership](https://www.telegraph.co.uk/conservative-leadership-election/)
     * [Politics](https://www.telegraph.co.uk/politics/)
     * [World](https://www.telegraph.co.uk/world-news/)
     * [Health news](https://www.telegraph.co.uk/health-news/)
@@ -51,7 +51,7 @@ Sections
     * [Environment](https://www.telegraph.co.uk/environment/)
     * [Investigations](https://www.telegraph.co.uk/investigations/)
     * [Global Health Security](https://www.telegraph.co.uk/global-health/)
-* [Olympics](https://www.telegraph.co.uk/olympics/)
+    * [Royals](https://www.telegraph.co.uk/royal-family/)
 * [Sport](https://www.telegraph.co.uk/sport/)
     * [Sport home](https://www.telegraph.co.uk/sport/)
     * [Football](https://www.telegraph.co.uk/football/)
@@ -91,7 +91,7 @@ Sections
     * [Cartoons](https://www.telegraph.co.uk/opinion/cartoons/)
 * [Ukraine](https://www.telegraph.co.uk/russia-ukraine-war/)
     * [Ukraine home](https://www.telegraph.co.uk/russia-ukraine-war/)
-    * [Daily podcast](https://www.telegraph.co.uk/world-news/2024/07/31/russia-iran-war-diplomacy/)
+    * [Daily podcast](https://www.telegraph.co.uk/world-news/2024/09/06/ukraine-russia-kursk-war-advance/)
     * [Daily newsletter](https://www.telegraph.co.uk/secure/newsletter/dispatches)
 * [US election](https://www.telegraph.co.uk/us-election/)
 * [Travel](https://www.telegraph.co.uk/travel/)
@@ -140,8 +140,8 @@ Sections
 * [Puzzles](https://www.telegraph.co.uk/puzzles/)
 * [Podcasts](https://www.telegraph.co.uk/podcasts/)
 
-*  [![](/etc.clientlibs/settings/wcm/designs/telegraph/core/clientlibs/ui/dist/static/resources/images/flags/UK-SVG.svg)UK Edition](https://www.telegraph.co.uk/)
-    *  [![](/etc.clientlibs/settings/wcm/designs/telegraph/core/clientlibs/ui/dist/static/resources/images/flags/USA-SVG.svg) US Edition](https://www.telegraph.co.uk/us/)
+*  [![](/etc.clientlibs/settings/wcm/designs/telegraph/core/clientlibs/ui/dist/static/resources/images/flags/USA-SVG.svg)US Edition](https://www.telegraph.co.uk/)
+    *  [![](/etc.clientlibs/settings/wcm/designs/telegraph/core/clientlibs/ui/dist/static/resources/images/flags/UK-SVG.svg) UK Edition](https://www.telegraph.co.uk/)
 
 [Subscribe now Free for one month](https://secure.telegraph.co.uk/customer/subscribe/)
 
@@ -170,7 +170,7 @@ More from The Telegraph
 * [Shop](https://shop.telegraph.co.uk/)
 * [Garden shop](https://gardenshop.telegraph.co.uk/)
 * [Bookshop](https://books.telegraph.co.uk/)
-* [Tickets](https://tickets.telegraph.co.uk/)
+* [Tickets](https://tickets.telegraph.co.uk/?utm_source=TMG+main&utm_medium=hamburger+menu&utm_campaign=evergreen)
 * [Puzzles](https://www.telegraph.co.uk/puzzles/)
 * [Fantasy Football](https://fantasyfootball.telegraph.co.uk/)
 * [Work at The Telegraph](https://www.telegraph.co.uk/about-us/work-at-the-telegraph/)
@@ -404,7 +404,7 @@ If you submit UGC that Telegraph reasonably believes violates the Guidelines, th
 
 **(ii) Your Interactions With Other Users; Disputes.**  You are solely responsible for your interaction with other users of the Service, whether online or offline.  We are not responsible or liable for the conduct or content of any user.  We reserve the right, but have no obligation, to monitor or become involved in disputes between you and other users.  Exercise common sense and your best judgment in your interactions with others (e.g., when you submit any personal or other information) and in all of your other online activities.
 
-**C.    Appropriate Content and Alerting Us of Violations.**  We expect UGC to be appropriate for a general audience, but do not undertake to monitor it, and you consent to potentially encountering content you find offensive or inappropriate.  We may include venue and content rules as Additional Terms.  If you discover any content that violates these Terms or any applicable Additional Terms, such as the Telegraph Community Guidelines, then you may report it [**here**.](https://corporate.telegraph.co.uk/contact-us/)  For alleged infringements of Intellectual Property rights, see **[Section 5](#terms5)**.  
+**C.    Appropriate Content and Alerting Us of Violations.**  We expect UGC to be appropriate for a general audience, but do not undertake to monitor it, and you consent to potentially encountering content you find offensive or inappropriate.  We may include venue and content rules as Additional Terms.  If you discover any content that violates these Terms or any applicable Additional Terms, such as the Telegraph Community Guidelines, then you may report it [**here**.](https://corporate.telegraph.co.uk/contact-us/)  For alleged infringements of Intellectual Property rights, see **[Section 5](#terms5)**.  EU and EEA-based users can submit notices of illegal content found within our comment sections, in accordance with the Digital Services Act, by visiting [this page.](https://telegraph.co.uk/contact-us/digital-services-act)
 
 **3\.   SERVICE AND CONTENT USE RESTRICTIONS.**
 
