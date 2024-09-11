@@ -144,7 +144,7 @@ You accept responsibility for the confidentiality and use of any username and em
 5. Refunds are available for annual payments only if requested within 14 calendar days after the payment was made. To request a refund, you need to [contact our support team](#). There are no refunds for upgrades to a more expensive plan, monthly plans or market data, even if the subscription is cancelled on the same day as the payment has gone through. There are no refunds for any purchases paid using crypto. Please note that users who filed a chargeback/dispute request or a claim are not eligible for a refund.
 6. Our [moderators](https://www.tradingview.com/moderators/) are official TradingView representatives, with the authority to warn or ban users (including those with a paid subscription) when they do not abide by the [House Rules](https://www.tradingview.com/house-rules/). We do not offer refunds in case you are banned from publishing content and interacting with others because your paid subscription and all of its data and/or features are still available during any such ban.
 7. Essential, Plus and Premium subscriptions automatically include market data that is available without additional per-user fees only. You can see which markets are available for free and which need to be purchased separately on the [Market data page](https://www.tradingview.com/data-coverage/). Upon cancellation, the trial and associated services will stop immediately, except for any separately purchased data packages.
-8. TradingView, Inc. is registered for tax purposes in Australia, Canada, Colombia, EU states, Japan, India, Indonesia, Iceland, Liechtenstein, Malaysia, Mexico, New Zealand, Norway, Saudi Arabia, Singapore, South Africa, South Korea, Switzerland, Taiwan, Thailand, Turkey, United Arab Emirates, United Kingdom, Vietnam, certain US states and cities.
+8. TradingView, Inc. is registered for tax purposes in Australia, Canada, Colombia, EU states, Japan, India, Indonesia, Iceland, Liechtenstein, Malaysia, Mexico, New Zealand, Norway, Saudi Arabia, Singapore, South Africa, South Korea, Switzerland, Taiwan, Tanzania, Thailand, Turkey, United Arab Emirates, United Kingdom, Vietnam, certain US states and cities.
 9. TradingView, Inc. may use local subsidiaries or other entities to collect payments in certain geographies. However, all payments will be processed and managed by TradingView, Inc., and the service will be provided by TradingView, Inc., regardless of which entity collects the payment.
 
 14\. Apple App Store subscriptions
@@ -236,7 +236,7 @@ The contents of these publications should not be interpreted as an express or im
     
 2. Who is eligible to become a referee?
     
-    Your friends or social media followers may be eligible to be referees. To receive coin rewards for referring someone who orders a paid plan on TradingView, your referee must be a new TradingView user and can’t have more than one account.
+    Your friends or social media followers may be eligible to be referees. To receive coin rewards for referring someone who orders a paid plan on TradingView, your referee must be a new TradingView user and can't have more than one account. In addition, your referee must create an account via your shared link and make a purchase on the website. Note that the bonus can only be given for purchases made on the website, not in the apps.
     
 3. How can I use my referral link?
     
@@ -244,27 +244,30 @@ The contents of these publications should not be interpreted as an express or im
     
     * Try to get referees by spamming, bulk emailing, or sending large numbers of unsolicited emails. The only people you should be emailing are people you know personally;
     * Use, display, or manipulate TradingView intellectual property (such as TradingView logos, trademarks, and copyright-protected works) in any way, except as to identify yourself as a TradingView user or a TradingView referrer;
-    * Create or register any (i) businesses, (ii) URLs, (iii) domain names, (iv) software application names or titles, or (v) social media handles or profiles that include the word "TradingView" or any of TradingView's other trademarks or any words that are confusingly similar to TradingView trademarks.
+    * Create or register any (i) businesses, (ii) URLs, (iii) domain names, (iv) software application names or titles, or (v) social media handles or profiles that include the word "TradingView" or any of TradingView's other trademarks or any words that are confusingly similar to TradingView trademarks;
     * Purchase keywords (including, but not limited to Google AdWords) that contain any of TradingView trademarks;
     * Use automated systems or bots through any channel to distribute, post, or otherwise share your referral link;
     * Use scripts or programmed or automatic dialers to send invites or otherwise share your referral link;
-    * Make misleading claims about TradingView, use offensive/abusive content, create fake websites/webpages/social media profiles/apps, misrepresent your connection to TradingView, or otherwise make any false or misleading statements to get a referee to use your link; or
-    * Use your referral link in any manner that violates the law or TradingView House Rules.
+    * Make misleading claims about TradingView, use offensive/abusive content, create fake websites/webpages/social media profiles/apps, misrepresent your connection to TradingView, or otherwise make any false or misleading statements to get a referee to use your link, or use your referral link in any manner that violates the law or TradingView House Rules.
 4. How do I earn TradingView coins?
     
-    Referrers get rewarded with TradingView coins for inviting new users that purchase subscriptions. As long as you and your referee follow these Rules, as well as TradingView's posted policies, you should receive your TradingView coins after your referee uses your link to sign up with TradingView and makes their first payment within three months of creating their account. As a result, referrers receive TradingView coins in the amount of $15 for their purchase of any subscription. To receive TradingView coins for referring someone who orders a paid plan on TradingView, your referee must be a new TradingView user. Note that the bonus can be given only for purchases made on the website, not in the apps.
+    Referrers get rewarded with TradingView coins for inviting new users that purchase subscriptions. As long as you and your referee follow these Rules, as well as TradingView's posted policies, you should receive your TradingView coins after your referee uses your link to sign up with TradingView and makes their first payment within three months of creating their account. As a result, referrers receive TradingView coins in the amount of $15 for their purchase of any subscription. To receive TradingView coins for referring someone who orders a paid plan on TradingView, your referee must be a new TradingView user. Remember, you will only receive this bonus for purchases made on the website and not through the apps.
     
-    The requirements for receiving, and the amounts of TradingView coins are subject to change at TradingView’s sole discretion. Referral rewards in the form of TradingView coins are not transferable, have no cash value, and may expire. TradingView may cancel a reward at any time at its sole discretion.
+    The requirements for receiving, and the amounts of TradingView coins are subject to change at TradingView's sole discretion. Referral rewards in the form of TradingView coins are not transferable, have no cash value, and may expire. TradingView may cancel a reward at any time at its sole discretion.
     
     In case your referee files a chargeback or claims a refund for their paid subscription, the reward that you and your referee both received from TradingView will be canceled.
     
-5. How do I spend TradingView coins?
+5. Can I earn coins by sharing the link via mobile app?
     
-    You are able to spend TradingView coins by purchasing a new subscription or extending an existing one. Please note that TradingView coins can’t be used to pay for exchange market data.
+    Yes, you can earn coins but there's a few conditions you'll need to meet. You can share the link via the app, but your referee needs to sign up via your link and purchase a subscription on the website only to get coins. This bonus is not available for app purchases.
     
-6. Termination and changes
+6. How do I spend TradingView coins?
     
-    TradingView reserves the right to change, end, or pause, in whole or in part, any referral program, as well as any referrer’s or referee's ability to participate in any referral program or receive TradingView coins at any time for any reason, including suspected fraud (including by either the referrer and/or referee), abuse, or any violation of these Rules.
+    You are able to spend TradingView coins by purchasing a new subscription or extending an existing one. Please note that TradingView coins can't be used to pay for exchange market data and coins can't be used for purchases in the apps.
+    
+7. Termination and changes
+    
+    TradingView reserves the right to change, end, or pause, in whole or in part, any referral program, as well as any referrer's or referee's ability to participate in any referral program or receive TradingView coins at any time for any reason, including suspected fraud (including by either the referrer and/or referee), abuse, or any violation of these Rules.
     
 
 25\. Limitation of liability
@@ -370,4 +373,4 @@ For business
 
   [![Download Desktop app](https://static.tradingview.com/static/images/svg/app-desktop-badge/light-theme/app-desktop-badge-en.svg) ![Download Desktop app](https://static.tradingview.com/static/images/svg/app-desktop-badge/dark-theme/app-desktop-badge-en.svg)](https://www.tradingview.com/desktop/)[![Trade on TradingView](https://static.tradingview.com/static/images/svg/trade-on-tradingview-badges/light-theme/trade-on-tradingview-badges-en.svg) ![Trade on TradingView](https://static.tradingview.com/static/images/svg/trade-on-tradingview-badges/dark-theme/trade-on-tradingview-badges-en.svg)](https://www.tradingview.com/brokers/)
 
-Select market data provided by [ICE Data Services](https://www.theice.com/market-data) © 2024 TradingView, Inc. UK phone number [0800 048 8025](tel:08000488025)
+Select market data provided by [ICE Data Services](https://www.theice.com/market-data) Select reference data provided by FactSet. Copyright © 2024 FactSet Research Systems Inc. © 2024 TradingView, Inc. US phone number [833 247 1523](tel:8332471523)
