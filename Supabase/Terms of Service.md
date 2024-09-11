@@ -1,9 +1,3 @@
-Launch Week 12
-
-:::
-
-[Claim ticket](https://supabase.com/launch-week)
-
 [![Supabase Logo](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsupabase-logo-wordmark--light.daaeffd3.png&w=256&q=75)![Supabase Logo](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsupabase-logo-wordmark--dark.b36ebb5f.png&w=256&q=75)](https://supabase.io/)
 
 * Product
@@ -285,6 +279,7 @@ We protect your data.[More on Security](https://supabase.io/security)
 * [Customer Stories](https://supabase.io/customers)
 * [Careers](https://supabase.io/careers)
 * [Company](https://supabase.io/company)
+* [Events & Webinars](https://supabase.io/events)
 * [General Availability](https://supabase.io/ga)
 * [Terms of Service](https://supabase.io/terms)
 * [Privacy Policy](https://supabase.io/privacy)
