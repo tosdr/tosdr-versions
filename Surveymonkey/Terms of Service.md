@@ -2,7 +2,7 @@
 
 Products
 
-##### [Product Overview](https://www.surveymonkey.com/mp/take-a-tour/)
+##### [Product Overview](https://www.surveymonkey.com/product/)
 
 SurveyMonkey is built to handle every use case and need. Explore our product to learn how SurveyMonkey can work for you.
 
@@ -14,7 +14,7 @@ Get data-driven insights from a global leader in online surveys.
 
 Integrate with 100+ apps and plug-ins to get more done.
 
-##### [SurveyMonkey Forms](https://www.surveymonkey.com/mp/online-forms/)
+##### [SurveyMonkey Forms](https://www.surveymonkey.com/product/forms/)
 
 Build and customize online forms to collect info and payments.
 
@@ -22,7 +22,7 @@ Build and customize online forms to collect info and payments.
 
 Create better surveys and spot insights quickly with built-in AI.
 
-##### [Market Research Solutions](https://www.surveymonkey.com/market-research/)
+##### [Market Research Solutions](https://www.surveymonkey.com/product/market-research/)
 
 Purpose-built solutions for all of your market research needs.
 
@@ -195,7 +195,7 @@ How top brands drive growth with SurveyMonkey.
     
     **
     
-    ##### [Product Overview](https://www.surveymonkey.com/mp/take-a-tour/)
+    ##### [Product Overview](https://www.surveymonkey.com/product/)
     
     SurveyMonkey is built to handle every use case and need. Explore our product to learn how SurveyMonkey can work for you.
     
@@ -207,7 +207,7 @@ How top brands drive growth with SurveyMonkey.
     
     Integrate with 100+ apps and plug-ins to get more done.
     
-    ##### [SurveyMonkey Forms](https://www.surveymonkey.com/mp/online-forms/)
+    ##### [SurveyMonkey Forms](https://www.surveymonkey.com/product/forms/)
     
     Build and customize online forms to collect info and payments.
     
@@ -215,7 +215,7 @@ How top brands drive growth with SurveyMonkey.
     
     Create better surveys and spot insights quickly with built-in AI.
     
-    ##### [Market Research Solutions](https://www.surveymonkey.com/market-research/)
+    ##### [Market Research Solutions](https://www.surveymonkey.com/product/market-research/)
     
     Purpose-built solutions for all of your market research needs.
     
@@ -383,7 +383,7 @@ How top brands drive growth with SurveyMonkey.
 
 [Sign up free](https://www.surveymonkey.com/sign-up/?ut_ctatext=Sign+up+free&ut_source=legal&ut_source2=terms-of-use&ut_source3=desktop-header-cta)
 
-![SurveyMonkey-logo](https://prod.smassets.net/assets/website/2.273.0/images/legal_sidebar__badge.png)
+![SurveyMonkey-logo](https://prod.smassets.net/assets/website/2.278.0/images/legal_sidebar__badge.png)
 
 * [Overzicht](https://www.surveymonkey.com/mp/legal/)
     
@@ -450,7 +450,7 @@ Wist u dit?
 
 63% van de mensen houdt rekening met de geschiedenis van het bedrijf ten aanzien van privacy en beveiliging voordat ze producten of services van dat bedrijf gebruiken.
 
-![Statistieken zijbalk juridische informatie](https://prod.smassets.net/assets/website/2.273.0/images/legal_sidebar__stats-image.png)
+![Statistieken zijbalk juridische informatie](https://prod.smassets.net/assets/website/2.278.0/images/legal_sidebar__stats-image.png)
 
 Print this Page
 
@@ -977,11 +977,11 @@ See [here](https://www.surveymonkey.com/mp/legal/surveymonkey-contribute-terms-o
 
 [Likert Scale](https://www.surveymonkey.com/mp/likert-scale/)
 
-[Survey Analysis](https://www.surveymonkey.com/mp/how-to-analyze-survey-data/)
+[Survey Analysis](https://www.surveymonkey.com/learn/research-and-analysis/)
 
 [360 Degree Feedback](https://www.surveymonkey.com/mp/360-employee-feedback-survey-example/)
 
-[Education Surveys](https://www.surveymonkey.com/mp/education-surveys/)
+[Education Surveys](https://www.surveymonkey.com/learn/education-surveys/)
 
 [Survey Questions](https://www.surveymonkey.com/mp/survey-question-types/)
 
