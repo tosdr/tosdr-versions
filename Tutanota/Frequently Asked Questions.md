@@ -1,41 +1,64 @@
-Tuta has a brand new logo. Read more [here](https://tuta.com/blog/new-logo-announcement).
+[](https://tutanota.com/ "Tuta")
 
-[](https://tutanota.com/ "Tutanota")
+[Login](https://app.tuta.com/ "Mail. Done. Right. Login to Tuta") [Sign up](https://app.tuta.com/?r=/signup#subscription)
 
-[PRICING](https://tutanota.com/pricing)[BUSINESS](https://tutanota.com/business)
+Products
 
-WHY TUTA
+[Tuta Mail](https://tutanota.com/secure-email)[Tuta Calendar](https://tutanota.com/calendar)
 
-[WHY TUTA](https://tutanota.com/why-tutanota)[TEAM](https://tutanota.com/team)[EMAIL COMPARISON](https://tutanota.com/email-comparison)[ENCRYPTION](https://tutanota.com/encryption)[SECURITY](https://tutanota.com/security)[OPEN SOURCE](https://tutanota.com/open-source)[SUSTAINABILITY](https://tutanota.com/sustainability)[COMMUNITY](https://tutanota.com/community)
+[Pricing](https://tutanota.com/pricing) [Business](https://tutanota.com/business) Why Tuta
 
-RESOURCES
+[Security](https://tutanota.com/security) [Privacy Guide](https://tutanota.com/privacy) [Sustainability](https://tutanota.com/sustainability) [Encryption](https://tutanota.com/encryption) [Team](https://tutanota.com/team) [Open Source](https://tutanota.com/open-source) [Community](https://tutanota.com/community) [Email comparison](https://tutanota.com/email-comparison)
 
-[BLOG](https://tutanota.com/blog-posts)[TUTA NEWS](https://tutanota.com/news)[PRIVACY NEWS](https://tutanota.com/privacy-news)[GUIDES](https://tutanota.com/guides)[CHANGELOG](https://tutanota.com/changelog)[PRIVACY GUIDE](https://tutanota.com/privacy)[DOWNLOAD TUTA](https://tutanota.com/#download)
+[Blog](https://tutanota.com/blog) [Jobs](https://tutanota.com/jobs) [Support](https://tutanota.com/support)
 
-[SUPPORT](https://tutanota.com/support)[JOBS](https://tutanota.com/jobs)
+[Login](https://app.tuta.com/ "Mail. Done. Right. Login to Tuta") [Sign up](https://app.tuta.com/?r=/signup#subscription)
 
-[SIGN UP](https://app.tuta.com/?r=/signup#subscription "Mail. Done. Right. Sign up to Tuta")
+How can we help you?
+====================
 
-![](/resources/images/background/people-in-dunes-stock.jpeg)
+### Frequently Asked Questions
 
-Hello!
-======
+[General questions](https://tutanota.com/support/general)[Security and Privacy](https://tutanota.com/support/security)[How to use Tuta](https://tutanota.com/support/howto)[Payment](https://tutanota.com/support/payment)
 
-Tuta Support
+I can't access my account
 
-[](#headerNav "Back to top of the page")
+If you can't log in to your account you might be in one of these situations:
 
-Tuta FAQ
+* **You have made a typo in your email address or password**:
+    * Please double check your address and make sure that you have typed the full address and the correct domain name (for example youraddress@tutanota.com).
+    * Make sure that the Caps Lock key is not active.
+* **You forgot your password or lost your second authentication factor (2FA)**: Please read [How do I reset my password or second factor?](https://tuta.com/support#reset)
+* **The code from your authenticator App (TOTP) is incorrect**: These codes are time-dependent. Please make sure that both Tuta and the authenticator App have the correct time and time zone settings. Some browsers or browser extensions block access to the system's time zone.
+* **Your recovery code is not accepted or is wrong**: Please double check whether you are using the recovery key correctly. See [How do I use the recovery code?](https://tuta.com/support#recovery-code)
+* **Your account might have been deleted due to inactivity**: In this case, you should see a corresponding message below the login form. Free accounts are deleted if you do not log in for a period longer than six months. We do not recycle Tuta addresses which means that the address is blocked for new registrations. You can still re-use the deleted address with a paid account, **but only if you have the correct credentials for the deleted account**. Please see [How do I reactivate an account deleted due to inactivity?](https://tuta.com/support#inactive-accounts)
+* **Your account was suddenly suspended due to another reason**: Some accounts are disabled due to a violation of our [Terms of Service](https://tuta.com/terms) or due to our spam detection. If you think that we have made a mistake, please [contact us in English or German](mailto:hello@tutao.de). Please include the email address of your suspended Tuta account and send us the error message you see below the login form.
+
+**Our secure password reset feature allows only you to reset your password. We have no influence on this process. You can read more about this [here](https://tuta.com/blog/secure-password-reset).**
+
+I have found a bug
+
+Please try to search for the bug again directly on GitHub before reporting it to us:
+
+[https://github.com/tutao/tutanota/issues](https://github.com/tutao/tutanota/issues)
+
+I would like to report abuse
+
+Please forward the abusive message with a short explanation in English or German to our [abuse team](mailto:abuse@tutao.de).
+
+I have a business request
+
+Please contact our [sales team in English or German](mailto:sales@tutao.de).
 
 Does Tuta support two-factor authentication (2FA)?
 
-[](#2fa "Share this!")
+Copy link
 
-Yes, Tuta supports two-factor authentication with U2F and TOTP. [Here are details on how to set up your second factor in Tuta](https://tutanota.com/support#2factor).
+Yes, Tuta supports two-factor authentication with U2F and TOTP. [Here are details on how to set up your second factor in Tuta](https://tuta.com/support#2factor).
 
 How to add alias email addresses
 
-[](#aliases "Share this!")
+Copy link
 
 [Go to Settings → Email](https://app.tuta.com/settings/mail)→ Scroll down to Email addresses → Click "Show" → Click on the plus symbol.
 
@@ -45,23 +68,23 @@ A pop-up opens where you can create the alias email address you want to add. Cli
 
 How can I send unencrypted emails by default?
 
-[](#default-unencrypted "Share this!")
+Copy link
 
 Go [here in Settings](https://app.tuta.com/settings/mail). You can choose the 'Default delivery': Encrypted ('Confidential') or not encrypted ('Not confidential'). You can also switch whether an email is encrypted or not when composing the email by clicking on the lock symbol. Emails to other Tuta users are always encrypted by default.
 
 Can Tuta encrypt emails to other email services (external recipients)?
 
-[](#encrypted-email-external "Share this!")
+Copy link
 
-Yes. Tuta uses a preshared password for sending an encrypted message to an external recipient, i.e. to someone who does not use Tuta. Please [check here](https://tutanota.com/support#encrypted-emails-external) to learn how to send encrypted emails to external recipients.
+Yes. Tuta uses a preshared password for sending an encrypted message to an external recipient, i.e. to someone who does not use Tuta. Please [check here](https://tuta.com/support#encrypted-emails-external) to learn how to send encrypted emails to external recipients.
 
 Or watch our quick YouTube [tutorial](https://youtu.be/paa8l9MnA6w).
 
-Here we explain [how to switch the default](https://tutanota.com/support#default-unencrypted) so that emails to external recipients are sent not encrypted and without a password.
+Here we explain [how to switch the default](https://tuta.com/support#default-unencrypted) so that emails to external recipients are sent not encrypted and without a password.
 
 Are emails to other Tuta users always encrypted?
 
-[](#encrypted-email-internal "Share this!")
+Copy link
 
 Yes, when sending emails from Tuta to Tuta, all emails are encrypted automatically end-to-end on your device.﻿ You do not have to enter any passwords.
 
@@ -69,57 +92,54 @@ Check out our quick YouTube [tutorial](https://youtu.be/-si8hguF8_Q) to see how 
 
 Is Tuta for free?
 
-[](#free "Share this!")
+Copy link
 
 Yes, [Tuta Mail](https://app.tuta.com/signup) is forever free with 1 GB of free storage for private users. The actual free storage is much higher as we are [compressing](https://tuta.com/blog/compression) your emails.
 
 How to forward your emails to Tuta
 
-[](#how-to-forward "Share this!")
+Copy link
 
 After signing up for Tuta as your new email address, you can easily switch important conversations over from your previous provider. Simply forward all emails from your previous email account to Tuta. Here is an explanation of how you can activate this process in your old email account:
 
-* [Fastmail](https://tutanota.com/best-fastmail-alternative#switch)
-* [Gmail](https://tutanota.com/gmail-alternative#switch)
-* [GMX](https://tutanota.com/gmx#switch)
-* [Mailbox.org](https://tutanota.com/mailbox#switch)
-* [Outlook](https://tutanota.com/best-outlook-alternative#switch)
-* [Posteo](https://tutanota.com/posteo#switch)
-* [Protonmail](https://tutanota.com/best-protonmail-alternative#switch)
-* [Riseup](https://tutanota.com/riseup#switch)
-* [Web.de](https://tutanota.com/web#switch)
-* [Yahoo](https://tutanota.com/best-yahoo-alternative#switch)
-* [Zoho Mail](https://tutanota.com/zoho-mail#switch)
+* [Fastmail](https://tuta.com/best-fastmail-alternative#switch)
+* [Gmail](https://tuta.com/gmail-alternative#switch)
+* [GMX](https://tuta.com/gmx#switch)
+* [Mailbox.org](https://tuta.com/mailbox#switch)
+* [Outlook](https://tuta.com/best-outlook-alternative#switch)
+* [Protonmail](https://tuta.com/best-protonmail-alternative#switch)
+* [Yahoo](https://tuta.com/best-yahoo-alternative#switch)
+* [Zoho Mail](https://tuta.com/zoho-mail#switch)
 
 How do I register a Tuta account?
 
-[](#registration "Share this!")
+Copy link
 
-You can register for Tuta [here](https://app.tuta.com/signup). Upon registration you can choose whether you would like a free or paid account. Please check our [pricing page](https://tutanota.com/pricing) for details on all available subscriptions.
+You can register for Tuta [here](https://app.tuta.com/signup). Upon registration you can choose whether you would like a free or paid account. Please check our [pricing page](https://tuta.com/pricing) for details on all available subscriptions.
 
-If a captcha is presented during the registration process, please check [here](https://tutanota.com/support#captcha) if you need help solving the captcha.
+If a captcha is presented during the registration process, please check [here](https://tuta.com/support#captcha) if you need help solving the captcha.
 
 All you need to know to switch to Tuta
 
-[](#switch "Share this!")
+Copy link
 
 We have collected all the information you need when switching to...
 
-... [a free Tuta account](https://tutanota.com/support/free)
+... [a free Tuta account](https://tuta.com/support/free)
 
-... [a paid Tuta account](https://tutanota.com/support/paid)
+... [a paid Tuta account](https://tuta.com/support/paid)
 
-... [a paid Tuta account with your own domain](https://tutanota.com/support/domain)
+... [a paid Tuta account with your own domain](https://tuta.com/support/domain)
 
-... [a business account with Tuta](https://tutanota.com/support/business)
+... [a business account with Tuta](https://tuta.com/support/business)
 
-... [a business account with Tuta as an NPO or a school](https://tutanota.com/support/npo)
+... [a business account with Tuta as an NPO or a school](https://tuta.com/support/npo)
 
 **Welcome to the encrypted side!**
 
 Contacts Synchronization
 
-[](#contacts-sync "Share this!")
+Copy link
 
 synccontacts
 
@@ -136,11 +156,11 @@ Keep in mind:
 
 * If you make any changes to the contact using the phone's default app while Tuta is running in the background, the changes will only be synced upon your next login.
 * If you update a Tuta contact on a different device, like the web browser, the Tuta app will use the version of that contact which is on your phone and overwrite any updates.
-* Activating contact synchronization will not automatically import your phone's contacts to your Tuta account. If you would like to do that, please see [How can I import contacts?](https://tutanota.com/support#contacts-import)
+* Activating contact synchronization will not automatically import your phone's contacts to your Tuta account. If you would like to do that, please see [How can I import contacts?](https://tuta.com/support#contacts-import)
 
 How can I import contacts?
 
-[](#contacts-import "Share this!")
+Copy link
 
 importcontacts
 
@@ -152,11 +172,11 @@ There are multiple ways to import contacts to your Tuta account.
     * Go to Settings > Contacts and click on the import button.
     * You will then see a preview of the different contact lists you have on your phone. Select the ones you would like to import.
     * Once done, you will again see a combined preview of all contacts to be imported.
-    * If contacts synchronization is activated on your Tuta account, then the imported phone contacts will also be added to the list of contacts (called account on Android) created by the Tuta app on the phone. See [Contacts synchronization](https://tutanota.com/support#contacts-sync)
+    * If contacts synchronization is activated on your Tuta account, then the imported phone contacts will also be added to the list of contacts (called account on Android) created by the Tuta app on the phone. See [Contacts synchronization](https://tuta.com/support#contacts-sync)
 
 I can't access my account. What can I do?
 
-[](#access-lost "Share this!")
+Copy link
 
 lostloginaccessresetpasswordrecoverysecond factor2fa
 
@@ -165,19 +185,19 @@ If you can't log in to your account you might be in one of these situations:
 * **You have made a typo in your email address or password**:
     * Please double check your address and make sure that you have typed the full address and the correct domain name (for example youraddress@tutanota.com).
     * Make sure that the Caps Lock key is not active.
-* **You forgot your password or lost your second authentication factor (2FA)**: Please read [How do I reset my password or second factor?](https://tutanota.com/support#reset)
+* **You forgot your password or lost your second authentication factor (2FA)**: Please read [How do I reset my password or second factor?](https://tuta.com/support#reset)
 * **The code from your authenticator App (TOTP) is incorrect**: These codes are time-dependent. Please make sure that both Tuta and the authenticator App have the correct time and time zone settings. Some browsers or browser extensions block access to the system's time zone.
-* **Your recovery code is not accepted or is wrong**: Please double check whether you are using the recovery key correctly. See [How do I use the recovery code?](https://tutanota.com/support#recovery-code)
-* **Your account might have been deleted due to inactivity**: In this case, you should see a corresponding message below the login form. Free accounts are deleted if you do not log in for a period longer than six months. We do not recycle Tuta addresses which means that the address is blocked for new registrations. You can still re-use the deleted address with a paid account, **but only if you have the correct credentials for the deleted account**. Please see [How do I reactivate an account deleted due to inactivity?](https://tutanota.com/support#inactive-accounts)
-* **Your account was suddenly suspended due to another reason**: Some accounts are disabled due to a violation of our [Terms of Service](https://tutanota.com/terms) or due to our spam detection. If you think that we have made a mistake, please [contact us in English or German](mailto:hello@tutao.de). Please include the email address of your suspended Tuta account and send us the error message you see below the login form.
+* **Your recovery code is not accepted or is wrong**: Please double check whether you are using the recovery key correctly. See [How do I use the recovery code?](https://tuta.com/support#recovery-code)
+* **Your account might have been deleted due to inactivity**: In this case, you should see a corresponding message below the login form. Free accounts are deleted if you do not log in for a period longer than six months. We do not recycle Tuta addresses which means that the address is blocked for new registrations. You can still re-use the deleted address with a paid account, **but only if you have the correct credentials for the deleted account**. Please see [How do I reactivate an account deleted due to inactivity?](https://tuta.com/support#inactive-accounts)
+* **Your account was suddenly suspended due to another reason**: Some accounts are disabled due to a violation of our [Terms of Service](https://tuta.com/terms) or due to our spam detection. If you think that we have made a mistake, please [contact us in English or German](mailto:hello@tutao.de). Please include the email address of your suspended Tuta account and send us the error message you see below the login form.
 
 **Our secure password reset feature allows only you to reset your password. We have no influence on this process. You can read more about this [here](https://tuta.com/blog/secure-password-reset).**
 
 Tuta terms: What is an account? What is a user?
 
-[](#account "Share this!")
+Copy link
 
-When you sign up for Tuta, you create an email **account**. This account initially has one user which is also an administrator. Free, Revolutionary and Legend accounts only have one user. If you want to add users with Revolutionary or Legend, please [contact us](mailto:sales@tutao.de). If you are on a business subscription, you can [add users](https://tutanota.com/support#settings-new-user) to your account. You [manage the users (deactivate a user, change password)](https://tutanota.com/support#settings-user) within your Tuta account with your administrator user. You may also allow multiple users to be administrators.
+When you sign up for Tuta, you create an email **account**. This account initially has one user which is also an administrator. Free, Revolutionary and Legend accounts only have one user. If you want to add users with Revolutionary or Legend, please [contact us](mailto:sales@tutao.de). If you are on a business subscription, you can [add users](https://tuta.com/support#settings-new-user) to your account. You [manage the users (deactivate a user, change password)](https://tuta.com/support#settings-user) within your Tuta account with your administrator user. You may also allow multiple users to be administrators.
 
  ![Tuta terms chart](/resources/images/faq/user-account-faq-diagram.svg)
 
@@ -187,21 +207,21 @@ In the diagram, the '1' at the arrows means there is one item assigned. A user h
 
 Can I use Tuta for my business?
 
-[](#business "Share this!")
+Copy link
 
-Yes, Tuta offers [secure business email accounts](https://tutanota.com/business) with lots of whitelabel customizations. You can place the login for your employees directly on your website with a whitelabel domain. Learn here [how to use Tuta in your organization or company with your custom email domain](https://tutanota.com/support#organization).
+Yes, Tuta offers [secure business email accounts](https://tuta.com/business) with lots of whitelabel customizations. You can place the login for your employees directly on your website with a whitelabel domain. Learn here [how to use Tuta in your organization or company with your custom email domain](https://tuta.com/support#organization).
 
-Here's a [list of all whitelabel customizations for business use](https://tutanota.com/support#whitelabel). Here are instructions on how to [whitelabel Tuta for your business](https://tutanota.com/support#whitelabeling).
+Here's a [list of all whitelabel customizations for business use](https://tuta.com/support#whitelabel). Here are instructions on how to [whitelabel Tuta for your business](https://tuta.com/support#whitelabeling).
 
 Is a calendar included in Tuta?
 
-[](#calendar "Share this!")
+Copy link
 
-Yes, an encrypted [calendar](https://tutanota.com/calendar) is integrated into the Tuta mail client.
+Yes, an encrypted [calendar](https://tuta.com/calendar) is integrated into the Tuta mail client.
 
 My calendar events differ by some hours between different devices. How can I fix this?
 
-[](#calendar-event "Share this!")
+Copy link
 
 Please check that the time zones of your devices are in sync, including daylight saving time.
 
@@ -209,13 +229,13 @@ If you are using Firefox/Tor Browser with resistFingerprinting option in about:c
 
 Is Tuta certified?
 
-[](#certification "Share this!")
+Copy link
 
 Tuta was subject to an extensive penetration test by the SySS GmbH in November 2013.﻿ During the tests, the experts were not able to access the system or to retrieve any confidential data.
 
 Can I use Tuta for team collaboration?
 
-[](#collaboration "Share this!")
+Copy link
 
 Yes, Tuta will include a whole set of collaboration options such as working together on task lists and documents in the future. You can already [book this collaboration tool](https://app.tuta.com/settings/subscription). Right now it is called 'sharing feature' as you can now [share](https://tuta.com/blog/release-notes-calendar-share) your encrypted calendars as well as email templates with other paid accounts. This is the first step, more collaboration options will be added in the future.
 
@@ -223,55 +243,53 @@ Watch this YouTube tutorial on how to [share a calendar](https://youtu.be/n8l_xV
 
 Can I customize the design of Tuta?
 
-[](#custom "Share this!")
+Copy link
 
-Yes, you can customize the logo and colors in Tuta when you book [whitelabel](https://tutanota.com/support#whitelabeling).
+Yes, you can customize the logo and colors in Tuta when you book [whitelabel](https://tuta.com/support#whitelabeling).
 
 How do I switch the date format from the US to the European format (UK)?
 
-[](#date "Share this!")
+Copy link
 
 The date format for your mailbox as well as your calendar is picked either from your language settings in Tuta or from your system/browser settings. If you pick 'English' under 'Settings' -> 'Appearance', the American date format is displayed. If you pick 'Automatic' under languages, the date format of your browser/system is displayed. If you pick any other language, e.g. German, the date format of this language, e.g. German, is displayed.
 
 Does Tuta offer a data processing agreement according to the GDPR?
 
-[](#dpa "Share this!")
+Copy link
 
 Yes, right after registration of a business account you will find a data processing agreement directly in Tuta under [Settings -> Subscription](https://app.tuta.com/settings/subscription).
 
 Is Tuta compliant with the GDPR?
 
-[](#gdpr "Share this!")
+Copy link
 
 Yes, Tuta as an encrypted email service is perfectly suited for any business that would like to use a [GDPR-compliant email service](https://tuta.com/blog/gdpr-compliant-email).
 
 Does Tuta use renewable energy?
 
-[](#green-email "Share this!")
+Copy link
 
 Yes, Tuta is a [green email](https://tuta.com/blog/green-email) service that relies exclusively on renewable energy for all email systems.
 
 Can we integrate Tuta into our own product?
 
-[](#integration "Share this!")
+Copy link
 
 The Tuta clients use REST services but there is no public documentation for that API or for a library, yet. Keep in mind that when user data is stored in or read from Tuta, it has to be encrypted/decrypted on the client. You may of course dig into the open source code of Tuta and integrate it with your product, but at this time we can not provide any support for this. We will add a public API documentation in the future.
 
 What does the name "Tuta" stand for?
 
-[](#name "Share this!")
+Copy link
 
-Tuta is derived from Latin and means "secure, safe". ﻿
+Tuta is derived from Latin and means "secure, safe". ﻿Is Tuta open source?
 
-Is Tuta open source?
+Copy link
 
-[](#open-source "Share this!")
-
-Yes, all [Tuta clients are published as open source under GPLv3](https://tutanota.com/open-source). Check out our [GitHub repository](https://github.com/tutao/tutanota). We welcome you to review the code, to give us feedback, or to contribute!﻿
+Yes, all [Tuta clients are published as open source under GPLv3](https://tuta.com/open-source). Check out our [GitHub repository](https://github.com/tutao/tutanota). We welcome you to review the code, to give us feedback, or to contribute!﻿
 
 Invite your friends
 
-[](#refer-a-friend "Share this!")
+Copy link
 
 **Your friends deserve email security, too!**
 
@@ -286,19 +304,19 @@ Invite your friends to Tuta and you both win freebies! If they subscribe to Tuta
 
 Special offer for non-profit organizations
 
-[](#special-offer-npo "Share this!")
+Copy link
 
-We donate the business version of Tuta to non-profit organizations (NPOs), schools, and open source projects. [Please find details on how your organization can secure your emails for free or with a discount](https://tutanota.com/discount).
+We donate the business version of Tuta to non-profit organizations (NPOs), schools, and open source projects. [Please find details on how your organization can secure your emails for free or with a discount](https://tuta.com/discount).
 
 Can I whitelabel the Tuta design for my business?
 
-[](#whitelabel "Share this!")
+Copy link
 
-Yes, Tuta supports extensive customization options for [business use](https://tutanota.com/business) such as custom colors, custom logo, custom text in the message to external recipients and more. To customize Tuta, you need to book the [Whitelabel feature](https://tutanota.com/support#whitelabeling).
+Yes, Tuta supports extensive customization options for [business use](https://tuta.com/business) such as custom colors, custom logo, custom text in the message to external recipients and more. To customize Tuta, you need to book the [Whitelabel feature](https://tuta.com/support#whitelabeling).
 
 How do I reactivate an Account deleted due to inactivity?
 
-[](#ddi "Share this!")
+Copy link
 
 lostloginaccessresetinactive
 
@@ -318,18 +336,18 @@ If you still have the correct credentials for the deleted account, you can re-us
     
      ![Reactivate inactive account](/resources/images/faq/address-takeover-dialog-desktop-screen.png)
     
-5. If the lost account had a second authentication factor (2FA) enabled, enter the Recovery Code. Please make sure to check our guide on using the recovery code [here](https://tutanota.com/support#recovery-code). Otherwise you can leave this field empty.
+5. If the lost account had a second authentication factor (2FA) enabled, enter the Recovery Code. Please make sure to check our guide on using the recovery code [here](https://tuta.com/support#recovery-code). Otherwise you can leave this field empty.
     
 6. Click OK.
     
 7. Log in to your new account and add the old address(es) under Settings > Email > Email addresses.
     
 
-If you encounter any issues with receiving emails to your old address, please make sure to wait up to an hour and try again. Otherwise, please read our guide ["I have reactivated my deleted address but do not receive Emails."](https://tutanota.com/support#reactivated-nomail)
+If you encounter any issues with receiving emails to your old address, please make sure to wait up to an hour and try again. Otherwise, please read our guide ["I have reactivated my deleted address but do not receive Emails."](https://tuta.com/support#reactivated-nomail)
 
 I have reactivated my deleted address but still cannot receive emails.
 
-[](#reactivated-nomail "Share this!")
+Copy link
 
 Make sure that you have waited one hour before trying to receive emails to the reactivated address.
 
@@ -339,7 +357,7 @@ Unfortunately, some services put email addresses on a blacklist after receiving 
 
 How do I use the recovery code?
 
-[](#recovery-code "Share this!")
+Copy link
 
 The recovery code is a 64-character long string and consists of the characters a-f and 0-9 only. This means that there could be no confusion between similar looking letters and numbers like the letter "o" and the number zero "0" for example.
 
@@ -349,7 +367,7 @@ When entering the recovery code you have to include the spaces between every fou
 
 How can I share a contact list?
 
-[](#contact-lists-sharing "Share this!")
+Copy link
 
 You can share a contact list with any Tuta user. Go to [contacts](https://app.tuta.com/contact) and click the three dots next to your contact list's name. When sharing you can also specify one of three different access permissions to the list:
 
@@ -363,17 +381,17 @@ Recipients of shared contact lists can change the display name of the list on th
 
 What are contact lists?
 
-[](#contact-lists "Share this!")
+Copy link
 
 Contact lists are lists of addresses that can be used in Tuta to easily and quickly include multiple recipients when sending emails, event invitations or even when sharing contacts.
 
 The list can include existing contacts or other addresses and can be shared with other Tuta users.
 
-Here you can read [how to create and use contact lists](https://tutanota.com/support#howto-contact-lists) or [how to share contact lists](https://tutanota.com/support/#contact-lists-sharing).
+Here you can read [how to create and use contact lists](https://tuta.com/support#howto-contact-lists) or [how to share contact lists](https://tuta.com/support#contact-lists-sharing).
 
 How can I create and use contact lists?
 
-[](#howto-contact-lists "Share this!")
+Copy link
 
 Contact lists are available on all new paid plans. To create a contact list navigate to [contacts](https://app.tuta.com/contact) and click on the plus button. On mobile devices, open the left side menu in order to see the contact lists section and the plus button.
 
@@ -385,11 +403,11 @@ You can add multiple addresses and click "Save" when done. If you later decide t
 
 Once you have a list created, you can use it in any recipient field in Tuta. For example when sending an email or an event invitation. Just enter the name of the contact list in the address field.
 
-Here you can read [how to share contact lists](https://tutanota.com/support/#contact-lists-sharing).
+Here you can read [how to share contact lists](https://tuta.com/support#contact-lists-sharing).
 
 What do I do if I have lost my recovery code?
 
-[](#recovery-code-lost "Share this!")
+Copy link
 
 lostaccessresetrecovery
 
@@ -401,13 +419,13 @@ If you have lost your password, then there is unfortunately nothing we can do to
 
 How can I upgrade a Free account and book additional features?
 
-[](#book "Share this!")
+Copy link
 
-You can [switch the subscription](https://tutanota.com/support#settings-upgrade) in Tuta by upgrading or downgrading.
+You can [switch the subscription](https://tuta.com/support#settings-upgrade) in Tuta by upgrading or downgrading.
 
 How can I upgrade my Tuta account with cryptocurrency?
 
-[](#cryptocurrency "Share this!")
+Copy link
 
 We plan to add Bitcoin as a payment method to Tuta in the future. You can already buy Tuta gift cards with the cryptocurrencies Monero or Bitcoin or with cash via our partner [Proxystore](https://digitalgoods.proxysto.re/).
 
@@ -415,7 +433,7 @@ To redeem a gift card from Proxystore, please follow the instructions in Proxyst
 
 How can I redeem a Tuta gift card?
 
-[](#gift-cards "Share this!")
+Copy link
 
 When you buy a gift card (by clicking on the present symbol to the left), a popup will appear with some buttons that will give you the option to a) send an email containing the gift card link, b) copy the link to the clipboard, or c) print off a graphic containing a QR code. The popup can also be viewed later under Settings -> Subscription -> Gift cards.
 
@@ -425,13 +443,13 @@ To redeem the gift card on your own account, simply use the link to login with y
 
 Terms and conditions of Tuta gift cards
 
-[](#gift-cards-terms "Share this!")
+Copy link
 
-The terms and conditions can be found [here](https://tutanota.com/giftCardsTerms).
+The terms and conditions can be found [here](https://tuta.com/giftCardsTerms).
 
 What payment methods does Tuta support?
 
-[](#payments "Share this!")
+Copy link
 
 When booking a paid subscription in Tuta, you can pay via Credit Card (Visa, Mastercard, American Express), via PayPal, or via bank transfer. Payment via bank transfer is only available for business customers in the EU. If you would like to pay your personal plan via bank transfer, please contact our sales team.
 
@@ -439,13 +457,13 @@ If you have problems paying for your Tuta subscription, please contact our [sale
 
 Can I book a Tuta subscription for multiple years?
 
-[](#subscription "Share this!")
+Copy link
 
-Yes, you can buy [gift cards](https://tutanota.com/support#gift-cards) and add them to your own account. Once the credit is added to your account, it does not expire. It will be used for future invoices. This gives you the option to top up your account whenever it is convenient for you. You can check your credit under 'Settings' -> 'Payment'.
+Yes, you can buy [gift cards](https://tuta.com/support#gift-cards) and add them to your own account. Once the credit is added to your account, it does not expire. It will be used for future invoices. This gives you the option to top up your account whenever it is convenient for you. You can check your credit under 'Settings' -> 'Payment'.
 
 Unlock the Tuta app with a pin, or biometrics (fingerprint, Face ID)
 
-[](#biometric "Share this!")
+Copy link
 
 You can secure the stored app login with a pin, pattern or biometrics (fingerprint, Face ID, etc.). Please go to Settings -> Login -> Unlock method to activate this.
 
@@ -453,41 +471,41 @@ This option will only show after you have stored your login credentials in the T
 
 How do I choose a strong password?
 
-[](#choose-password "Share this!")
+Copy link
 
-Tuta uses a password strength indicator that takes several aspects of a password into consideration to make sure your chosen password is a perfect match for your [secure email](https://tutanota.com/) account. You can find additional tips on how to choose a strong password [here](https://tuta.com/blog/how-create-strong-password).
+Tuta uses a password strength indicator that takes several aspects of a password into consideration to make sure your chosen password is a perfect match for your [secure email](https://tuta.com/) account. You can find additional tips on how to choose a strong password [here](https://tuta.com/blog/how-create-strong-password).
 
 Tuta has no limitations in regard to the password length or used characters; all unicode characters are respected.
 
 When I log out of Tuta, the browser or app always logs in again. What can I do to stop this?
 
-[](#logout "Share this!")
+Copy link
 
 If you click on 'Logout', you log out. Please note: If you have previously saved the password, you are now logged out, but the password is still saved for automatic login. To 'unsave' the password, please log out. The login screen appears, click on 'More' and 'Delete credentials'.
 
 How does the passphrase generator work?
 
-[](#passphrase-generator "Share this!")
+Copy link
 
 A secure password is one that is random enough that it cannot be guessed in a feasible amount of time. But random strings of alphanumeric characters are hard to remember. That's why we have implemented a passphrase generator that finds a good balance between security and memorability. The generator chooses six easy words from a huge curated list and outputs a passphrase that is secure as well as easy to type and remember. Here are more tips on [how to create and remember a strong password](https://tuta.com/blog/how-create-strong-password).
 
 What hashing function is used for the password?
 
-[](#password-hash "Share this!")
+Copy link
 
 Your password is salted and hashed with Argon2 on your device before being transmitted to Tuta. Argon2 is the most reliable method because brute-force attacks need much more time in comparison to conventional methods such as MD5 or SHA.﻿ With this method, we guarantee an integrated confidentiality and we allow you to access and decrypt your emails from desktops and mobile devices instantly.
 
 Tuta secures my private key with my password. Can you access my password?
 
-[](#password-security "Share this!")
+Copy link
 
 No. When a password is used for authentication (login), it is not necessary that it is known to the server you want to authenticate with. The server only needs a fingerprint (hash) of your password. With Tuta, your hash for authentication is calculated by your browser and only the hash is being sent. Your password never travels the Internet in plain text and it is never seen by our server. As hashes are non-invertible, the server is unable to reconstruct your password from the hash. The server is not able to decrypt your message, but it is still able to log you in.
 
-Recommended for further reading: [Learn how Tuta automates the encryption process while leaving you in full control of your encrypted data](https://tutanota.com/encryption).,
+Recommended for further reading: [Learn how Tuta automates the encryption process while leaving you in full control of your encrypted data](https://tuta.com/encryption).,
 
 My password was stolen. What should I do now?
 
-[](#password-stolen "Share this!")
+Copy link
 
 If you think your password was disclosed to someone else but you can still log into your account, please do the following:
 
@@ -498,23 +516,23 @@ If the attacker had been logged in as well, changing the password automatically 
 
 We encourage you to always use [2FA](https://tuta.com/blog/login-security-best-practice) with your accounts as it makes it close to impossible for an attacker to log into your account.
 
-If you can not log into your account anymore, please check this [FAQ](https://tutanota.com/support#access-lost).
+If you can not log into your account anymore, please check this [FAQ](https://tuta.com/support#access-lost).
 
 Where can I view my recovery code?
 
-[](#recovery "Share this!")
+Copy link
 
 Go to Settings - Login and click on the pen symbol next to 'Recovery Code' to show the code or update it. To do this, you need to enter your password.
 
 What encryption algorithms does Tuta use?
 
-[](#algorithms "Share this!")
+Copy link
 
 For email encryption between users, Tuta uses a standardized, hybrid method consisting of a symmetrical and an asymmetrical algorithm. Tuta uses [AES with a length of 256 bit](https://tuta.com/blog/aes-256-encryption) and RSA with 2048 bit or a combination of ECDH (x25519) and Kyber-1024 (for [quantum-safe accounts](https://tuta.com/blog/post-quantum-cryptography)). Emails to external recipients are encrypted symmetrically with AES 256 bit.﻿
 
 Does Tuta log IP addresses or can I use my encrypted mailbox anonymously?
 
-[](#anonymous-email "Share this!")
+Copy link
 
 By default, we do not log IP addresses when you log in or when you send an email. The IP addresses of sent and received emails are stripped so that your location remains unknown.
 
@@ -524,9 +542,9 @@ Learn on our blog how Tuta fights illegal mass surveillance by providing an [ano
 
 How are my emails encrypted with Tuta?
 
-[](#email-encryption "Share this!")
+Copy link
 
-Tuta automatically encrypts all emails stored in your mailbox. Emails between Tuta users are automatically encrypted end-to-end, and emails to external users can be secured with the help of a password. [Here we explain the differences between a confidential (end-to-end encrypted) and a non-confidential email](https://tutanota.com/support#email-encrypt).
+Tuta automatically encrypts all emails stored in your mailbox. Emails between Tuta users are automatically encrypted end-to-end, and emails to external users can be secured with the help of a password. [Here we explain the differences between a confidential (end-to-end encrypted) and a non-confidential email](https://tuta.com/support#email-encrypt).
 
 Independent of the end-to-end encryption, the [transport between the client and Tuta servers is secured with TLS to maximize security](https://tuta.com/blog/tutanota-uses-dane-on-top-of-ssl-pfs).
 
@@ -534,19 +552,17 @@ Watch our YouTube [email encryption guide](https://youtu.be/r2pJ5h7a_o8) for Tut
 
 Is my address book within Tuta encrypted?
 
-[](#encrypted-address-book "Share this!")
+Copy link
 
-Yes, all data within Tuta is end-to-end encrypted and only accessible with your password. Scanning and profiling of your data is not possible.﻿
+Yes, all data within Tuta is end-to-end encrypted and only accessible with your password. Scanning and profiling of your data is not possible.﻿Where does the encryption process take place?
 
-Where does the encryption process take place?
-
-[](#encryption-process-locally "Share this!")
+Copy link
 
 Encryption and decryption of data always happens locally on your device upon login. All data is end-to-end encrypted and only you can access the data with your password.﻿
 
 How can I view headers in my encrypted mailbox?
 
-[](#header "Share this!")
+Copy link
 
 You can show headers of received emails by pressing the shortcut H. Tuta strips headers from emails sent to protect your privacy.
 
@@ -554,7 +570,7 @@ To show all shortcuts in Tuta, please press F1 (Fn & F1).
 
 Do you delete inactive accounts / recycle email addresses?
 
-[](#inactive-accounts "Share this!")
+Copy link
 
 A deleted email address (also if it is an alias) will not be recycled for security reasons. There must be no possibility that someone else is able to register your previously used email address, and then, by accident, receive a confidential email that was meant for you.
 
@@ -573,17 +589,17 @@ To re-use the email address of the inactive account
 
 4. Enter the 'Target account address' (and - if you enabled two-factor authentication - the recovery code of the lost address).
 
-Then you can add the lost address(es) as an alias (or user) to the target email account. We call it [merging of addresses](https://tutanota.com/support#merge).
+Then you can add the lost address(es) as an alias (or user) to the target email account. We call it [merging of addresses](https://tuta.com/support#merge).
 
 Where are my keys generated and how is my private key secured?
 
-[](#key-generation "Share this!")
+Copy link
 
 Your private and your public keys are generated locally within your browser upon registration. Your private key is encrypted with your password. This way your login password receives the status of the private key. The key is encrypted so strongly that only you can use the key for encrypting and decrypting data. This is why a strong password is essential. An automatic password check on the client makes sure that you use a strong password. Your password is never transmitted to the server in plain text. It is salted and then hashed with Argon2 locally on your device so that neither the server nor we have access to your password. With this innovative design you can access your encrypted inbox from any device (desktop, mobile) easily.﻿
 
 Why is automatic image loading blocked in Tuta Mail?
 
-[](#load-images "Share this!")
+Copy link
 
 Tuta does not load pictures automatically when you open an email. When you load external images manually, please note that
 
@@ -592,17 +608,17 @@ Tuta does not load pictures automatically when you open an email. When you load 
 * someone may track your location with your IP address.
 * someone may track the parameters of your device.
 
-Here we explain how to [display external images](https://tutanota.com/support#view-image). Please read here how we make sure that you can use Tuta as an [anonymous email service](https://tuta.com/blog/anonymous-email).
+Here we explain how to [display external images](https://tuta.com/support#view-image). Please read here how we make sure that you can use Tuta as an [anonymous email service](https://tuta.com/blog/anonymous-email).
 
 One of my emails has a warning saying mail authentication is missing or failed. What does it mean?
 
-[](#mail-auth "Share this!")
+Copy link
 
 We require all messages to be authenticated. Without authentication, the email could be coming from anyone or could be modified so you should always treat such emails with scrutiny. If you see a message where the authentication has failed (red warning banner), you should be especially careful as it means that this email was likely faked.
 
 One of my emails is displaying a phishing warning. What does it mean?
 
-[](#phishing "Share this!")
+Copy link
 
 Phishing is a name or type of online scam in which criminals try to look like a legitimate sender in order to get your data such as credentials or credit card data. Phishers use very sophisticated psychological techniques and develop very realistic copies of real websites and emails.
 
@@ -612,32 +628,32 @@ You can mark an email as not phishing so you will not see the warning message an
 
 We never send you emails with links where you need to type in your password. We encourage you to always protect your [login credentials](https://tuta.com/blog/login-security-best-practice) with 2FA as this makes it close to impossible for an attacker to log into your account.
 
-If you've already fallen for a phishing attack, please check this [FAQ](https://tutanota.com/support#password-stolen).
+If you've already fallen for a phishing attack, please check this [FAQ](https://tuta.com/support#password-stolen).
 
 Where are the Tuta servers located?
 
-[](#server-location "Share this!")
+Copy link
 
 The Tuta servers are located in secure and ISO27001 certified data centers in Germany. All saved data are subject to the strict German privacy protection laws. Independent of that all data is end-to-end encrypted and cannot be read by the Tutao GmbH as the provider or by any third party.﻿
 
 Can I disable sessions remotely (session handling)?
 
-[](#session-handling "Share this!")
+Copy link
 
 Yes. You can view and remotely close active sessions under [Settings -> Login](https://app.tuta.com/settings/login).
 
-[Check our How-to to learn how to enable storing of closed sessions](https://tutanota.com/support#settings-login) to monitor whether someone else has access to your account. To guarantee the users' privacy, we have implemented the feature as follows:
+[Check our How-to to learn how to enable storing of closed sessions](https://tuta.com/support#settings-login) to monitor whether someone else has access to your account. To guarantee the users' privacy, we have implemented the feature as follows:
 
 * The IP address is stored encrypted, and only the user can decrypt this information. No one else - not even we at Tuta - can access this information.
 * IP addresses are only stored for one week and then automatically deleted.
 
 What is encrypted and what can you read?
 
-[](#what-encrypted "Share this!")
+Copy link
 
 Tuta encrypts all data stored in your mailbox (contacts, emails, email signature, inbox rules, invoice data, payment method, certificate, and private keys of your own domains). When sending an email, Tuta encrypts the subject, content, and attachments automatically.
 
-**You can find a detailed explanation about what is encrypted in Tuta on our [security](https://tutanota.com/security) page.**
+**You can find a detailed explanation about what is encrypted in Tuta on our [security](https://tuta.com/security) page.**
 
 We can read only the following metadata:
 
@@ -649,7 +665,7 @@ We are looking into possibilities to hide the metadata in the future as well.﻿
 
 Where can I report a security issue or a vulnerability that I found in Tuta?
 
-[](#security-vulnerability "Share this!")
+Copy link
 
 securityreportvulnerability
 
@@ -659,27 +675,27 @@ We at Tuta take utmost care to secure your mailbox to the maximum. The Tuta code
 
 As an external recipient, can I re-access my emails later?
 
-[](#access-external-mailbox "Share this!")
+Copy link
 
 Yes, you can always access the emails sent via Tuta through the link from your latest notification email. Old notification links from the same sender are de-activated for security reasons. Your exchanged password, however, stays unchanged as long as the sender does not change it. If you have saved the password upon accessing your confidential emails in your browser, you do not have to re-enter it.﻿
 
 Can I add alias email addresses in Tuta Mail?
 
-[](#alias "Share this!")
+Copy link
 
 Email aliases are additional email addresses that you can use with the same mailbox without having to switch accounts. Additional email addresses are included in all paid plans of Tuta. If you upgrade to any of our paid plans, you can add alias email addresses.
 
-Find out more about Tuta aliases in our [How-to](https://tutanota.com/support#aliases) (create an alias, change default sender, etc.). Learn here what the purpose of an [email alias address](https://tuta.com/blog/secure-email-alias) compared to a user is and how aliases can increase your security.
+Find out more about Tuta aliases in our [How-to](https://tuta.com/support#aliases) (create an alias, change default sender, etc.). Learn here what the purpose of an [email alias address](https://tuta.com/blog/secure-email-alias) compared to a user is and how aliases can increase your security.
 
 My Tuta app on Android was disabled, but I don't see a new version on F-Droid. What can I do?
 
-[](#android "Share this!")
+Copy link
 
 You need to update your F-Droid repository to see the newest version of the Tuta Android app.
 
 What browsers does Tuta support? Via what browsers can external recipients check their encrypted emails?
 
-[](#browser-support "Share this!")
+Copy link
 
 Tuta supports the **current** version of the following browsers:
 
@@ -691,43 +707,43 @@ Tuta supports the **current** version of the following browsers:
 
 Are email addresses stored automatically in contacts when sending an email?
 
-[](#contacts "Share this!")
+Copy link
 
-Yes, email addresses are automatically added to your encrypted Tuta address book when sending an email unless you deactivate this feature. [You'll find details here](https://tutanota.com/support#settings-mail).
+Yes, email addresses are automatically added to your encrypted Tuta address book when sending an email unless you deactivate this feature. [You'll find details here](https://tuta.com/support#settings-mail).
 
 Can I use a custom email domain with Tuta?
 
-[](#custom-domain "Share this!")
+Copy link
 
-Yes, any paid subscription of Tuta comes with custom email domain support and unlimited email addresses for custom domains. Multiple domain support is also available in Tuta. Please check our [pricing page](https://tutanota.com/pricing) for details.
+Yes, any paid subscription of Tuta comes with custom email domain support and unlimited email addresses for custom domains. Multiple domain support is also available in Tuta. Please check our [pricing page](https://tuta.com/pricing) for details.
 
-[Please refer to our how-to](https://tutanota.com/support#how-to-add-domain) to learn how to add your own email domains to your Tuta account and how to make sure that your records (MX, SPF, TXT, DKIM, DMARC, CNAME) are set up correctly in your DNS as well as [how to activate/deactivate catch-all and more](https://tutanota.com/support#settings-global).
+[Please refer to our how-to](https://tuta.com/support#how-to-add-domain) to learn how to add your own email domains to your Tuta account and how to make sure that your records (MX, SPF, TXT, DKIM, DMARC, CNAME) are set up correctly in your DNS as well as [how to activate/deactivate catch-all and more](https://tuta.com/support#settings-global).
 
 In addition, you can watch [this YouTube tutorial](https://youtu.be/NKYyqRtRc0o) to learn how to set up your own domain in Tuta.
 
 Is there a dark theme in Tuta?
 
-[](#dark "Share this!")
+Copy link
 
-Yes. Before logging in, click on 'More' and 'Switch color theme' to switch to the dark theme. This works in all Tuta clients (web, desktop, apps). Alternatively, you can go to 'Settings' -> 'Appearance' to switch to the dark theme. To add a [custom theme](https://tuta.com/blog/black-theme-switch-color-whitelabel), you need to book the [Unlimited business plan](https://tutanota.com/business#plans).
+Yes. Before logging in, click on 'More' and 'Switch color theme' to switch to the dark theme. This works in all Tuta clients (web, desktop, apps). Alternatively, you can go to 'Settings' -> 'Appearance' to switch to the dark theme. To add a [custom theme](https://tuta.com/blog/black-theme-switch-color-whitelabel), you need to book the [Unlimited business plan](https://tuta.com/business#plans).
 
 Where can I get the Tuta desktop client?
 
-[](#desktop "Share this!")
+Copy link
 
-You can download the Tuta desktop clients (Windows, Linux, Mac OS) [on our homepage](https://tutanota.com/#download).
+You can download the Tuta desktop clients (Windows, Linux, Mac OS) [on our homepage](https://tuta.com/#download).
 
-[Please find lots of details on how to get started with the desktop clients in our How-to (install, uninstall, default mailto app, run in background)](https://tutanota.com/support#install-desktop).
+[Please find lots of details on how to get started with the desktop clients in our How-to (install, uninstall, default mailto app, run in background)](https://tuta.com/support#install-desktop).
 
 The development goes on. What comes next?
 
-[](#development-roadmap "Share this!")
+Copy link
 
 Please have a look [here](https://github.com/tutao/tutanota/issues?q=is%3Aopen+is%3Aissue+project%3Atutao%2Ftutanota%2F2) and [here](https://tuta.com/blog/development-feature-list).
 
 Are there email limits to protect Tuta from being abused by spammers?
 
-[](#email-limits "Share this!")
+Copy link
 
 Yes, Tuta uses different variables to calculate email limits for individual accounts. This is necessary to protect our free and anonymous email service from spammers who try to abuse Tuta. If spammers were able to abuse Tuta, it would harm all Tuta users - ie Tuta domains could end up on email spam lists, which we have to prevent under all circumstances.
 
@@ -735,53 +751,53 @@ If you receive the following message in your Tuta account "It looks like you exc
 
 If you need to send more emails immediately, please upgrade to any of our paid plans as limits for paying users are much higher. Simply click on 'Plan' in your side menu bar of Tuta.
 
-Please note that Tuta is not meant for sending out mass mailings such as newsletters. Please read our [Terms & Conditions](https://tutanota.com/terms) for details.
+Please note that Tuta is not meant for sending out mass mailings such as newsletters. Please read our [Terms & Conditions](https://tuta.com/terms) for details.
 
 Can I receive notifications to another email account about incoming emails?
 
-[](#emailnotification "Share this!")
+Copy link
 
-Yes, with a paid subscription you can set up email notifications to any email address under 'Settings' - 'Email' - 'Notifications'. You will be informed about new emails once until you log in. Only if you have logged in to view this email, Tuta will send another notification to keep notification emails to a minimum.
+Yes, with a paid subscription you can set up email notifications to any email address under 'Settings' - 'Notifications'. You will be informed about new emails once until you log in. Only if you have logged in to view this email, Tuta will send another notification to keep notification emails to a minimum.
 
 As a Free user, you can receive push notifications in the browser, the Android & iOS app as well as the desktop clients.
 
 Where can I request a new feature for Tuta?
 
-[](#feature "Share this!")
+Copy link
 
-You can request and discuss new features with us and other users [in our Reddit community](https://www.reddit.com/r/tutanota/). You can check whether someone has already requested this feature and whether we have already added it to our [Roadmap](https://tutanota.com/roadmap).
+You can request and discuss new features with us and other users [in our Reddit community](https://www.reddit.com/r/tutanota/). You can check whether someone has already requested this feature and whether we have already added it to our [Roadmap](https://tuta.com/roadmap).
 
 Can I use a third-party email app like Thunderbird?
 
-[](#imap "Share this!")
+Copy link
 
 No, this is not possible for security reasons. Tuta does not support the use of third-party email clients or the protocols IMAP/POP3/SMTP as we cannot guarantee end-to-end encryption of your data. Instead, Tuta offers email [desktop clients for Linux, macOS and Windows](https://tuta.com/blog/desktop-clients-tutanota) as well as a web client and apps for Android and iOS. We aim to provide all required functionalities with our own apps, for instance, offline access to your encrypted data is possible with our apps.
 
 How to import your data to Tuta
 
-[](#import "Share this!")
+Copy link
 
-**Emails**: [You can export/download individual emails or batch-export emails by using multi-select](https://tutanota.com/support#generalMail). Email import is not yet possible. We plan to support email import as well as an even easier export function with our new [secure desktop clients](https://tuta.com/blog/desktop-clients-tutanota).
+**Emails**: [You can export/download individual emails or batch-export emails by using multi-select](https://tuta.com/support#generalMail). Email import is not yet possible. We plan to support email import as well as an even easier export function with our new [secure desktop clients](https://tuta.com/blog/desktop-clients-tutanota).
 
-**Contacts**: [You can import and export contacts easily](https://tutanota.com/support#contacts-import).
+**Contacts**: [You can import and export contacts easily](https://tuta.com/support#contacts-import).
 
 **Calendars**: You can import and export calendars via .ics. Login with a browser and click on the three-dot button next to the calendar you wish to import data to or you wish to export.
 
 Does Tuta support inbox rules for filtering incoming emails?
 
-[](#inbox-rules "Share this!")
+Copy link
 
-Yes, Tuta supports an unlimited number of inbox rules / filters for paid accounts. [Check our how-to to see how to set up inbox rules](https://tutanota.com/support#settings-mail).
+Yes, Tuta supports an unlimited number of inbox rules / filters for paid accounts. [Check our how-to to see how to set up inbox rules](https://tuta.com/support#settings-mail).
 
 Calendar event alarms on my iOS device are no longer being received. What can I do?
 
-[](#ios "Share this!")
+Copy link
 
 In case the Tuta app is forced closed, iOS does not let the app receive new alarms via silent notifications. To receive calendar event notifications again, please open the app so that it stays in the background.
 
 How can I change the language in Tuta?
 
-[](#language "Share this!")
+Copy link
 
 The language in Tuta is taken automatically from your browser or system settings. Please change the language there. Alternatively, you can go to 'Settings' -> 'Appearance' to switch the displayed language for Tuta.
 
@@ -789,13 +805,13 @@ We also invite you to join our [translation project](https://tuta.com/blog/tutan
 
 What is the maximum size for emails and attachments?
 
-[](#maximum-email-size "Share this!")
+Copy link
 
 The size of emails with attachments sent via Tuta is limited to 25 MB at the moment.﻿
 
 Is it possible to merge several Tuta email addresses in one account?
 
-[](#merge "Share this!")
+Copy link
 
 Yes, you can add existing email addresses (e.g. Alice2, Alice3) as aliases or users to a paid account (Alice1):
 
@@ -807,21 +823,21 @@ Please note: You are only transferring the email addresses. Emails and contacts 
 
 How can I use Tuta with multiple users at the same time?
 
-[](#multi-user "Share this!")
+Copy link
 
 In the mobile app, you can currently only login with one user. To switch to another user, you must log out and log in again. You can login with multiple users in the browser by opening several tabs or windows. In the desktop clients, you can also open several windows to login with multiple users.
 
 Push notifications on my Android phone are being delayed. What can I do?
 
-[](#notification "Share this!")
+Copy link
 
 Please check the app settings on your phone. As we do not use Google's push notifications service, battery optimization must be disabled for Tuta to receive push notifications instantly.
 
-This is necessary to offer you an [open source email service free from any links to Google](https://tutanota.com/open-source).
+This is necessary to offer you an [open source email service free from any links to Google](https://tuta.com/open-source).
 
 Can I store my data locally so that I have access when offline?
 
-[](#offline "Share this!")
+Copy link
 
 Yes, the Tuta mobile apps for iOS and Android as well as the Tuta desktop clients can store a local copy of your mailbox.
 
@@ -831,77 +847,77 @@ With all of Tuta's paid subscriptions you can increase the timeframe for which e
 
 Why does Tuta Mail not use PGP?
 
-[](#pgp "Share this!")
+Copy link
 
 Current encryption standards like PGP and S/MIME have several issues that we plan to address with Tuta. These standards do not support forward secrecy and are not resistant to attacks from quantum computers.
 
 In addition, it is important to us that the subject line in emails is also encrypted. That's why we have developed a solution that is also based on recognized algorithms (RSA 2048 and AES 256) and that automatically encrypts the subject, the content and the attachments. We have replaced RSA with ECDH (x25519) Kyber-1024 to achieve [quantum-resistant encryption](https://tuta.com/blog/post-quantum-cryptography).
 
-In the future, we plan to support forward secrecy. [You can find more information on why Tuta does not use PGP here](https://tutanota.com/encryption).
+In the future, we plan to support forward secrecy. [You can find more information on why Tuta does not use PGP here](https://tuta.com/encryption).
 
 We also see the importance that Tuta needs to be interoperable with other encryption solutions. We will develop an API so that Tuta users can communicate with users of other secure services confidentially in the future.
 
 Can I use plus addresses for my Tuta email address?
 
-[](#plus "Share this!")
+Copy link
 
-No, Tuta does not support plus addressing (xyz+username@tutanota.com) for Tuta domains. If you want to register with different plus addresses at different sites, you can upgrade to a plan that supports [alias email addresses](https://tutanota.com/support#aliases) (limited to the number of aliases you book). Alternatively, you can use a [custom email domain with catch-all](https://tutanota.com/support#custom-domain) to create an unlimited number of plus addresses for incoming emails.
+No, Tuta does not support plus addressing (xyz+username@tutanota.com) for Tuta domains. If you want to register with different plus addresses at different sites, you can upgrade to a plan that supports [alias email addresses](https://tuta.com/support#aliases) (limited to the number of aliases you book). Alternatively, you can use a [custom email domain with catch-all](https://tuta.com/support#custom-domain) to create an unlimited number of plus addresses for incoming emails.
 
 Does Tuta offer full-text search?
 
-[](#search "Share this!")
+Copy link
 
-Yes, Tuta comes with full-text search of your encrypted mailbox. In the free version, the search is limited to four weeks into the past due to heavy server load caused by the encrypted search feature. [Learn here how you can improve your search results](https://tutanota.com/support#searching). The spam folder is excluded from the search.
+Yes, Tuta comes with full-text search of your encrypted mailbox. In the free version, the search is limited to four weeks into the past due to heavy server load caused by the encrypted search feature. [Learn here how you can improve your search results](https://tuta.com/support#searching). The spam folder is excluded from the search.
 
 Search is executed locally via an encrypted search index to guarantee the security and privacy of your data as well as your search queries. As the search index needs to be stored in your browser, it does not work in private mode/incognito mode. [Read here how our innovative full-text search on encrypted data works](https://tuta.com/blog/first-search-encrypted-data).
 
 Why do I see "Could not access secret storage" in the desktop client?
 
-[](#secretstorage "Share this!")
+Copy link
 
 Tuta desktop app uses a system keychain to be able to encrypt sensitive details such as credentials and alarms. On Linux there must be an app installed that provides secret storage (org.freedesktop.secrets interface). This is usually set up together with the rest of the desktop environment but sometimes it requires manual setup. Installing GNOME Seahorse and configuring keychain there should be sufficient. KeePassXC is another provider which can be used but it must be additionally configured.
 
 Where do I find the Settings?
 
-[](#settings "Share this!")
+Copy link
 
-The Settings are in the [navigation menu](https://tutanota.com/support#nav) to the left.
+The Settings are in the [navigation menu](https://tuta.com/support#nav) to the left.
 
 Can I change the signature in a free account?
 
-[](#signature "Share this!")
+Copy link
 
-Yes, you can change the signature in [Settings -> Email](https://app.tuta.com/settings/mail). Every account can change their signature. To support our free and [secure email](https://tutanota.com/) service, please leave the link to our homepage in your signature.
+Yes, you can change the signature in [Settings -> Email](https://app.tuta.com/settings/mail). Every account can change their signature. To support our free and [secure email](https://tuta.com/) service, please leave the link to our homepage in your signature.
 
 Can I change the notification sound for the Android app?
 
-[](#sound "Share this!")
+Copy link
 
 Yes, users have full control over notifications through the app system settings. On your phone go to 'Apps', select 'Tuta', and change the notification setting for new emails.
 
 Does Tuta use a spam filter?
 
-[](#spam-rules "Share this!")
+Copy link
 
-Yes, Tuta uses a spam filter to keep your mailbox free from spam. We are improving this filter continuously. Should you receive spam emails in your inbox, you can also configure [your own spam rules here](https://tutanota.com/support#spam) to deny or allow certain email addresses or domains. If a sender is blocked (rejected) by the spam filter, you can [change the settings to allow the sender](https://tutanota.com/support#whitelist) for your account.
+Yes, Tuta uses a spam filter to keep your mailbox free from spam. We are improving this filter continuously. Should you receive spam emails in your inbox, you can also configure [your own spam rules here](https://tuta.com/support#spam) to deny or allow certain email addresses or domains. If a sender is blocked (rejected) by the spam filter, you can [change the settings to allow the sender](https://tuta.com/support#whitelist) for your account.
 
 In paid accounts, only admins can create spam rules that are being applied across all users.
 
 Is it possible to edit Tuta emails (HTML editing)?
 
-[](#text-edit "Share this!")
+Copy link
 
-Yes, Tuta supports HTML editing options (embed images, add lists, bold, italics, underline, monospace, add hyperlinks, align the text left, center, right, justified, change text size, remove all formatting). These are explained in our how-to along with lots of information on [email handling](https://tutanota.com/support#mail-handling).
+Yes, Tuta supports HTML editing options (embed images, add lists, bold, italics, underline, monospace, add hyperlinks, align the text left, center, right, justified, change text size, remove all formatting). These are explained in our how-to along with lots of information on [email handling](https://tuta.com/support#mail-handling).
 
 Are emails in Trash and Spam folder deleted?
 
-[](#trash "Share this!")
+Copy link
 
 Yes, all emails in Trash or Spam are automatically deleted 30 days after the emails were moved to these folders. You can also manually empty these folders with one click. **Please note**: Emails deleted from Trash or Spam folders are physically deleted and can't be restored.
 
 Where can I get the Tuta app?
 
-[](#tutanota-app "Share this!")
+Copy link
 
 You can download the Tuta app from the following stores:
 
@@ -913,7 +929,7 @@ In addition to that, you can also [directly download and install the APK for And
 
 How do I update Tuta?
 
-[](#update "Share this!")
+Copy link
 
 **Web:** The web version of Tuta is automatically updated whenever you reload the page. If an update is released while you're using Tuta, you will see a pop-up notification prompting you to update. All you have to do is click on "Refresh" to update. If Tuta does not update in your browser, you can trigger a manual update by loading Tuta in private/incognito mode of your browser.
 
@@ -927,11 +943,11 @@ How do I update Tuta?
 
 **Please note:** Our system sends update notifications via email whenever we detect an active session from an outdated client. Please go to Settings -> Login and close any unused sessions under Active Sessions.
 
-**Download:** You can download the Tuta clients [here](https://tutanota.com/#download).
+**Download:** You can download the Tuta clients [here](https://tuta.com/#download).
 
 What are the benefits of adding another user to my account?
 
-[](#user "Share this!")
+Copy link
 
 If you add another user to your account (family member, partner, team member, etc.), you get the following benefits:
 
@@ -940,21 +956,21 @@ If you add another user to your account (family member, partner, team member, et
 * Use the same admin settings such as Spam rules and custom domains,
 * Reset passwords or second login factors for each other (admin status required).
 
-Here are more details on [user management](https://tutanota.com/support#settings-user-management). If you do not need these sharing options, you can also upgrade accounts individually. Please check our [pricing calculator](https://tutanota.com/pricing#calculator) for details. 
+Here are more details on [user management](https://tuta.com/support#settings-user-management). If you do not need these sharing options, you can also upgrade accounts individually. Please check our [pricing calculator](https://tuta.com/pricing#calculator) for details. 
 
-Furthermore, we have recently added a [sharing feature](https://tutanota.com/support#collaboration) for the encrypted calendar which we will extend in the future. Sharing of entire calendars only works with other paid Tuta accounts.
+Furthermore, we have recently added a [sharing feature](https://tuta.com/support#collaboration) for the encrypted calendar which we will extend in the future. Sharing of entire calendars only works with other paid Tuta accounts.
 
 Why does the Tuta app ask me to update WebView?
 
-[](#webview "Share this!")
+Copy link
 
 WebView is a system app on Android devices which allows us to display web content inside the Tuta app. Newer versions let us use newer technologies to make the app smaller, faster, more beautiful, and more reliable. If you experiencing issues or bugs with the Android app, updating WebView has a good chance to help.
 
-[Here are instructions on how to update WebView on your phone](https://tutanota.com/support#web).
+[Here are instructions on how to update WebView on your phone](https://tuta.com/support#web).
 
 How can I zoom in on the Tuta app?
 
-[](#zoom "Share this!")
+Copy link
 
 In the apps, you can zoom with a double tap. We plan to improve this behavior further.
 
@@ -962,7 +978,7 @@ On desktop, you can zoom with Ctrl/Cmd + scroll.
 
 My newly created account has been put on hold for 48 hours after registration. What should I do?
 
-[](#48 "Share this!")
+Copy link
 
 Some accounts are automatically marked for approval upon sign-up to prevent abuse. This often affects IPs from VPN services or Tor as spammers try to bypass our anti-spam protection method by abusing these services. Please read here why the 48-hour wait is necessary to protect your privacy to the maximum with a truly [anonymous email](https://tuta.com/blog/anonymous-email) service.
 
@@ -970,25 +986,25 @@ During these 48 hours, emails cannot be sent or received. **Please do not share 
 
 How do I solve the Tuta Captcha upon registration?
 
-[](#captcha "Share this!")
+Copy link
 
-Tuta uses its own Captcha so that we do not have to depend on using Google Captcha. This enables us to offer an [open source email service without any links to Google](https://tutanota.com/open-source).
+Tuta uses its own Captcha so that we do not have to depend on using Google Captcha. This enables us to offer an [open source email service without any links to Google](https://tuta.com/open-source).
 
 The Tuta Captcha shows a clock. You need to enter the displayed time with four numerals, including the colon in the middle. If the displayed time is 8.30 for example, you have to enter 08:30 or 20:30 exactly.
 
 How do I delete my Tuta account?
 
-[](#delete "Share this!")
+Copy link
 
-To delete your account, go to Settings - Subscription - Delete Account. You need to enter your password upon deletion.
+To delete your account, go to Settings - Global Settings - Delete Account. You need to enter your password upon deletion.
 
 Please note: Deleted Tuta accounts can't be restored. Deleted email addresses are blocked for registration and can't be used again.
 
 I don't receive confirmation emails from services or newsletters. What can I do?
 
-[](#onhold "Share this!")
+Copy link
 
-Please check whether the sender was blocked by following this [instruction](https://tutanota.com/support#whitelist).
+Please check whether the sender was blocked by following this [instruction](https://tuta.com/support#whitelist).
 
 Sometimes newly created email addresses are put on hold for 48 hours to prevent abuse. It is important that you do not share your email address until this block is lifted automatically. If you do use the email address to register elsewhere or sign up for newsletters before the block is lifted, this service will send you a confirmation email, which will bounce with a temporary error. This might lead to problems registering with this service, even in the future.
 
@@ -996,37 +1012,37 @@ The same issue sometimes affects users whose Tuta email address has been blocked
 
 I can't register with my Tuta email address at an online service. What can I do?
 
-[](#register "Share this!")
+Copy link
 
 Most websites and online services let you register with your chosen Tuta email address just fine. Unfortunately, we have received reports from users that some websites block Tuta email addresses for registrations. Please check [these options](https://tuta.com/blog/website-blocks-secure-email-tutanota) to resolve this situation.
 
 I have received an abusive email (spam, phishing) from one of your domains. How do I report abuse?
 
-[](#report-abuse "Share this!")
+Copy link
 
 If you would like to inform us about abusive usage of one of our domains (tutanota.com, tutanota.de, tutamail.com, tuta.io, keemail.me, tuta.com), please contact us at abuse@tutao.de. Please forward the abusive message to us if appropriate.
 
-If you are a Tuta user and have received a phishing email, you can report this email by clicking on the three-dot button to the right and then clicking on 'Report phishing'. [Here](https://tutanota.com/support#phishings) are more details.
+If you are a Tuta user and have received a phishing email, you can report this email by clicking on the three-dot button to the right and then clicking on 'Report phishing'. [Here](https://tuta.com/support#phishings) are more details.
 
 If you would like to report abusive usage originating from another provider's email address, you can find contact addresses at abuse.net.
 
 If I upgrade, can I downgrade to free again?
 
-[](#subscribe "Share this!")
+Copy link
 
 Yes, you can downgrade back to free anytime. Before this, you need to disable all extra bookings. You can keep your main Tuta email address as a free account.
 
-Check [here](https://tutanota.com/support#settings-subscription) to see how you can upgrade or downgrade.
+Check [here](https://tuta.com/support#settings-subscription) to see how you can upgrade or downgrade.
 
 Does Tuta publish a Transparency Report?
 
-[](#transparency "Share this!")
+Copy link
 
 Yes, the Tuta Transparency Report is updated every six months. You can [check it here](https://tuta.com/blog/transparency-report). It also includes a Warrant Canary.
 
 Why should I share my usage data with Tuta?
 
-[](#usage "Share this!")
+Copy link
 
 You may opt in to share your Tuta usage data with us to help us test new features and find issues with existing functionality. This consent is optional and may be revoked at any time in settings.
 
@@ -1042,7 +1058,7 @@ Usage data usually takes the form of one of the following:
 
 Setting up a second factor (2FA) in Tuta
 
-[](#2factor "Share this!")
+Copy link
 
 We recommend setting up 2FA because of its security benefits. [Learn in our online security guide how 2FA helps you to keep your emails safe from hackers](https://tuta.com/blog/email-security-guide-online).
 
@@ -1071,7 +1087,7 @@ If you have lost your second factor, click on [More -> Lost account access](http
 
 When do I need encrypted emails?
 
-[](#email-encrypt "Share this!")
+Copy link
 
 Email encryption is needed whenever you want to send a confidential email. That is whenever your email contains personal information that should not become public. The following examples show the differences between end-to-end encrypted, confidential emails and emails that are not being end-to-end encrypted in Tuta.
 
@@ -1092,11 +1108,11 @@ The email is sent via SMTP to the recipient. Still, the sent email is encrypted 
 **Receiving non-confidential emails**  
 When the SMTP email is received by the Tuta server, it is encrypted for Alice and then stored on the server.﻿
 
- ![Receiving non-confidential emails](/resources/images/faq/unencrypted-receiving-diagram.png)
+ ![Receiving non-confidential emails](/resources/images/faq/unencrypted-receiving-diagram.png)﻿ 
 
 How to add custom domain(s) to Tuta Mail
 
-[](#how-to-add-domain "Share this!")
+Copy link
 
 If you own one or more domain names that you want to use with Tuta, you can add these domains to your paid subscription of Tuta. The setup wizard for your custom email domain will guide you through the process in just four small steps. In each step, the wizard will explain, which configuration changes you have to make. If you don't have a Tuta account, you can register [here](https://app.tuta.com/signup).
 
@@ -1123,7 +1139,7 @@ Please note that with some domain name providers, it may take up to a few hours 
 
 Login, shortcuts & header info
 
-[](#login "Share this!")
+Copy link
 
  ![Tuta login](/resources/images/faq/login-view-mobile-screen.png)
 
@@ -1142,30 +1158,30 @@ Login, shortcuts & header info
 
 Navigation menu
 
-[](#nav "Share this!")
+Copy link
 
  ![Tuta side menu bar](/resources/images/faq/side-menu-desktop-screen.png)
 
 In addition to the top menu - search field, Emails, Contacts, Calendar - there is a menu on the left side of your mailbox. These items are explained further down in the How-to.
 
-* Click on 'Premium' to easily upgrade to a paid plan.
+* Click on 'Plan' to easily upgrade to a paid plan.
 * Click on 'Invite' to open a pre-written email in Tuta, which you may use to invite your friends to join Tuta. Please do so! :)
 * Click on 'Settings' to open the Settings menu.
 * Click on 'Logout' to log out. Please note: If you have previously saved the password, you are now logged out, but the password is still saved in your browser. To 'unsave' the password, please log out. The login screen appears, click on 'More' and 'Delete credentials'.
 
 Navigation menu: Calendar
 
-[](#nav-calendar "Share this!")
+Copy link
 
  ![Tuta calendar](/resources/images/screenshot/calendar-2023-desktop-screen.png)
 
 You can access the encrypted calendar in Tuta directly via the top menu bar. You can choose between monthly and daily view. When you click on a date, the calendar switches to week view. If you double-click on a date, you can create a new event.
 
- ![Encrypted calendar: create event view](/resources/images/faq/create-event-calendar-desktop-screen.png)
+ ![Encrypted calendar: create event view](/resources/images/faq/create-event-calendar-desktop-screen.png) 
 
 Navigation menu: Contacts
 
-[](#nav-contacts "Share this!")
+Copy link
 
  ![Contact list](/resources/images/screenshot/contacts-desktop-screen.png)
 
@@ -1183,21 +1199,21 @@ _Create contact view._
 
 How can I use Tuta in my organization or company with my custom email domain?
 
-[](#organization "Share this!")
+Copy link
 
 1. [Register a paid Tuta account here](https://app.tuta.com/signup). This will create your initial administrator user mailbox. Once you have added additional users to your account, you can mark all - or just some - as admins. Your administrator(s) can configure all general settings and manage users, e.g. reset their passwords. As we at Tuta can not reset passwords, we recommend having at least two admins and/or to note down the recovery code during the signup process. You have to choose one of the Tuta domains for your initial admin user email address. You can later add an alias of your custom email domain to this user.
-2. Add your custom email domain in "Settings" -> "Global settings" -> "Custom email domains". You have to set a DNS record for your custom email domain in order for us to verify that the domain is yours. You will find the exact instructions in Tuta when setting up your domain but you can also read about it [here](https://tutanota.com/support#how-to-add-domain).
+2. Add your custom email domain in "Settings" -> "Global settings" -> "Custom email domains". You have to set a DNS record for your custom email domain in order for us to verify that the domain is yours. You will find the exact instructions in Tuta when setting up your domain but you can also read about it [here](https://tuta.com/support#how-to-add-domain).
 3. Add users (i.e. mailboxes) for your domain in "Settings" -> "User Management". If you have a large number of users, you can import a CSV file containing the user name, email address, and password. This is useful to automatically create all users in one single step.
 4. Set the DNS records (MX, SPF, DKIM, DMARC) for your custom email domain in order to be able to send and receive emails with your custom domain in Tuta. If it does not work, you will see a list of missing or bad DNS records in "Settings" -> "Global settings" -> "Custom email domains".
 5. Provide the user passwords to the users, so they can log in to their mailboxes.
 
 Please note that we do not support email import, yet. We plan to enable import in the coming months. For now, we recommend keeping your old mailboxes as a reference when moving to Tuta from another provider or storing all emails locally.
 
-On our business site, there is a summary of all available features of [Tuta's secure business emails](https://tutanota.com/business).
+On our business site, there is a summary of all available features of [Tuta's secure business emails](https://tuta.com/business).
 
 How do I reset my password or second factor?
 
-[](#reset "Share this!")
+Copy link
 
 When you create a new Tuta account, our [secure password reset feature](https://tuta.com/blog/secure-password-reset) empowers only you to reset your account yourself. Please make sure that:
 
@@ -1232,7 +1248,7 @@ You can view and also update your recovery code in [_Settings_ > _Login_](https:
 
 How to improve my search results?
 
-[](#searching "Share this!")
+Copy link
 
 To search your encrypted mailbox, simply click on the top search field or press F.
 
@@ -1246,13 +1262,13 @@ When you press enter, Tuta takes you to a more detailed search mask. The free se
 
 The detailed search mask lets you specify the time frame which should be searched (one month for free users). The unlimited search feature also lets you filter your search, e.g. who sent the email, to whom did you send the email, was the search query contained in the subject or in the body, and what folder should be searched.
 
-As all data in Tuta is encrypted, using our innovative search feature causes a lot of traffic. This is why unlimited search is only available to paying users. [Learn here how you can benefit from extra features by upgrading](https://tutanota.com/pricing#plans).
+As all data in Tuta is encrypted, using our innovative search feature causes a lot of traffic. This is why unlimited search is only available to paying users. [Learn here how you can benefit from extra features by upgrading](https://tuta.com/pricing#plans).
 
 **Please note**: You can only search emails and contacts, thus, the search field is not shown when you are browsing the 'Settings' of your mailbox.
 
 Instruction on updating WebView on Android
 
-[](#web "Share this!")
+Copy link
 
 To update WebView it is enough to install or update one of the following apps:
 
@@ -1269,7 +1285,7 @@ If you do not want to use Google-provided WebView, it is possible to install som
 
 Encrypted email to an external recipient
 
-[](#encrypted-emails-external "Share this!")
+Copy link
 
 When sending an encrypted email to an external recipient, you need to specify a password when composing the email.
 
@@ -1289,7 +1305,7 @@ Watch our YouTube tutorial on how to send an [encrypted email to external recipi
 
 Multi-select, drag & drop, mark unread of mails
 
-[](#generalMail "Share this!")
+Copy link
 
  ![Multi select](/resources/images/faq/email-multiselect-desktop-screen.png)
 
@@ -1301,7 +1317,7 @@ Multi-select, drag & drop, mark unread of mails
 
 Email handling
 
-[](#mail-handling "Share this!")
+Copy link
 
  ![Mail menu items](/resources/images/faq/email-menu-desktop-screen.png)
 
@@ -1325,7 +1341,7 @@ _When you select an email, these options show up at its top._
 
  ![Add rule](/resources/images/faq/add-inbox-rule-desktop-screen1.png)
 
-* With a paid subscription, you can also click 'Add inbox rule' to send all new emails from this sender to a particular folder. Find more details on 'Inbox rules' under the section ['Email'](https://tutanota.com/support#settings-mail).
+* With a paid subscription, you can also click 'Add inbox rule' to send all new emails from this sender to a particular folder. Find more details on 'Inbox rules' under the section ['Email'](https://tuta.com/support#settings-mail).
 
 **Sending of emails**
 
@@ -1356,7 +1372,7 @@ Please use mouse-over in the web client to see what symbol represents what funct
 
 Navigation menu: Emails and Folders
 
-[](#mailFolders "Share this!")
+Copy link
 
 Depending on the width of your browser Tuta displays the left Settings menu, your folder list, your mail list, and the selected mail.
 
@@ -1370,15 +1386,15 @@ Depending on the width of your browser Tuta displays the left Settings menu, you
 
 Report an email for phishing
 
-[](#phishings "Share this!")
+Copy link
 
 To report an email for phishing, please click on the three-dot button to the right in an opened phishing email. Then click on 'Report this email' and then 'Report phishing'.
 
- ![Report phishing](/resources/images/faq/phishing-email-desktop-screen.png)
+ ![Report phishing](/resources/images/faq/phishing-email-desktop-screen.png) 
 
 Spam detection rules
 
-[](#spam "Share this!")
+Copy link
 
 Spam detection in Tuta is multi staged. For incoming unencrypted SMTP emails, the received email is checked against DNS spam lists first. In the second stage, we filter emails by executing content checks and mark emails as spam or not. Emails that have been marked as spam will be moved to the spam folder of your mailbox. In the third stage, we filter spam on the base of user defined email sender lists. This list provides the possibility to classify email addresses as spam or not as spam. The check is active for all incoming emails and can be configured by the administrator. The rules are valid for all users.
 
@@ -1400,7 +1416,7 @@ You also have the option to allow all emails. To do this, create a spam rule and
 
 Insert a template into an email
 
-[](#use-templates "Share this!")
+Copy link
 
  ![Insert a template](/resources/images/faq/insert-template-desktop-screen.png)
 
@@ -1416,7 +1432,7 @@ Alternatively, you can access your templates by typing ctrl+space, or from the e
 
 Load external pictures
 
-[](#view-image "Share this!")
+Copy link
 
  ![View images in Tuta](/resources/images/faq/view-image-banner-desktop-screen.png)
 
@@ -1424,7 +1440,7 @@ Tuta blocks automatic image loading to protect your privacy. To load external im
 
 Allow emails blocked due to spam
 
-[](#whitelist "Share this!")
+Copy link
 
  ![How to receive blocked emails](/resources/images/faq/global-settings-desktop-screen.png)  
 _How to receive blocked emails._
@@ -1433,7 +1449,7 @@ Go to 'Settings' -> 'Global Settings' -> 'Rejected email senders' to check wheth
 
 Appearance: language, theme, time format
 
-[](#settings-appearance "Share this!")
+Copy link
 
  ![Appearance](/resources/images/faq/appearance-settings-desktop-screen.png)
 
@@ -1441,13 +1457,13 @@ In Settings -> Appearance, you can change the language of Tuta, switch to the li
 
 Login info and session handling
 
-[](#settings-login "Share this!")
+Copy link
 
  ![Login](/resources/images/faq/login-settings-desktop-screen.png)
 
 _'Login' shows you several info items about your Tuta account._
 
-* 'Login credentials': You can check your email address, your password, and your recovery code. When clicking on the pen symbol next to 'Password', you can change your current password to a new one. The pen symbol next to 'Recovery code' lets you view and update your recovery code. For this, you need to enter your password. As we can't reset your password, it is important that you keep your [recovery code](https://tutanota.com/support#access-lost) somewhere safe.
+* 'Login credentials': You can check your email address, your password, and your recovery code. When clicking on the pen symbol next to 'Password', you can change your current password to a new one. The pen symbol next to 'Recovery code' lets you view and update your recovery code. For this, you need to enter your password. As we can't reset your password, it is important that you keep your [recovery code](https://tuta.com/support#access-lost) somewhere safe.
 * 'Second factor authentication': Click the plus symbol to the right to add a second factor. Tuta supports [U2F and TOTP](https://tuta.com/blog/2fa-two-factor-authentication-totp-u2f) for 2FA. Once added all second factors are displayed here. You can delete them by clicking the cross symbol next to each added key.
 * Activate session handling to see who has accessed your Tuta account. This information is stored encrypted and automatically deleted after one week.
 * 'Active sessions': This shows you the IP address currently being logged in to your account. We only store client and IP addresses encrypted so no one but yourself can access this information. Here you can remotely close sessions, for instance when you have lost your mobile phone and you are still logged in on your phone.
@@ -1455,7 +1471,7 @@ _'Login' shows you several info items about your Tuta account._
 
 All settings options for your emails
 
-[](#settings-mail "Share this!")
+Copy link
 
  ![Sending mails](/resources/images/faq/email-settings-desktop-screen.png)
 
@@ -1481,7 +1497,7 @@ _Here you can configure how you want to send your mails._
     
     * **Field:** Click on the pen symbol to define what field should be used for the inbox rule 'Sender', 'To recipient', 'Cc recipient', 'Bcc recipient', 'Subject contains', or 'Header contains'.
     * **Value:** You can enter text such as an email address, a domain name, or the required content of the subject or header.
-    * **Target folder**: Click the pen symbol to define what folder the specified mails should be moved to automatically upon hitting your inbox. Before being able to add inbox rules, you need to [upgrade Tuta](https://tutanota.com/pricing).
+    * **Target folder**: Click the pen symbol to define what folder the specified mails should be moved to automatically upon hitting your inbox. Before being able to add inbox rules, you need to [upgrade Tuta](https://tuta.com/pricing).
 * For inbox rules we support JavaScript regular expressions. You have to enclose the expression with slashes / like the literal definition of regular expressions. More information can be found [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions).
     
 * 'Notifications': Click on 'Show' and the plus symbol. A pop-up opens where you can enter an email address that should be notified once a new mail arrives in your Tuta mailbox.
@@ -1489,13 +1505,13 @@ _Here you can configure how you want to send your mails._
 
 _Push notifications_
 
-* Tuta allows you to receive push notifications via other email addresses and via its [Android and iOS apps](https://tutanota.com/support#tutanota-app). Push will be sent to your phone even when you are not logged in.
+* Tuta allows you to receive push notifications via other email addresses and via its [Android and iOS apps](https://tuta.com/support#tutanota-app). Push will be sent to your phone even when you are not logged in.
 * To manage what email addresses and mobile devices should (or should no longer) receive push notifications, [click here](https://app.tuta.com/settings/mail)→ 'Notifications'.
 * You can also allow your browser to send push notifications for Tuta in your browser settings, but only when you are logged in.
 
 My templates: Creating email templates
 
-[](#settings-templates "Share this!")
+Copy link
 
  ![My templates](/resources/images/faq/templates-settings-desktop-screen.png)
 
@@ -1505,13 +1521,13 @@ Please login to Tuta in the browser or in one of the Tuta desktop clients. In Se
 
 For your template, enter a Title, a Shortcut, select the language (here: English), and the content. When using templates, you will need the shortcut to find the correct template. The content will be added to the mail editor automatically.
 
-Here we explain [how to add templates to an email](https://tutanota.com/support#use-templates) or you can watch our YouTube tutorial on [email templates](https://youtu.be/KdokLOiPckI).
+Here we explain [how to add templates to an email](https://tuta.com/support#use-templates) or you can watch our YouTube tutorial on [email templates](https://youtu.be/KdokLOiPckI).
 
 Setting the administrator for users
 
-[](#settings-admin "Share this!")
+Copy link
 
-* The global admin can create a local admin group to add as well as manage administrators of users and contact forms. Please refer to ['Create a local admin group'](https://tutanota.com/support#local-admin-create) for details.
+* The global admin can create a local admin group to add as well as manage administrators of users and contact forms. Please refer to ['Create a local admin group'](https://tuta.com/support#local-admin-create) for details.
 * The user who creates another user or contact form becomes the administrator of the created entity. More precisely, the admin group in which the user is a member will become the admin of the entity. If the user is a global admin, then the entity is administrated by the global admins. If the user is a local admin (i.e. member of a local admin group), then that local admin group becomes the admin.
 * The global admin can change the administrator of a user by selecting a local admin group under 'Administrated by'.
 * Local administrators only see those users and contact forms that they administrate.
@@ -1520,18 +1536,18 @@ Setting the administrator for users
 
 Global settings
 
-[](#settings-global "Share this!")
+Copy link
 
  ![Global settings](/resources/images/faq/global-settings-desktop-screen.png)
 
-* 'Spam rules': Click on 'Show' to show all defined spam rules. Click the plus symbol to add rules. You have the option between 'No spam', 'Always spam', or 'Discard' depending on a specified email address or domain name. Please find more details on the [configuration of spam lists in our FAQ](https://tutanota.com/support#spam-rules).
-* 'Custom email domains': Click on 'Show' to show all added custom domains. Click the plus symbol to add your custom domains. You can add as many domains as you need. [Details on using custom email domains with Tuta can be found in our FAQ](https://tutanota.com/support#custom-domain). Next to each custom email domain is a three dot symbol. When you click it, you can 'Set a catch all mailbox' or 'Delete' this domain. If you select 'Set a catch all mailbox', you have to choose to which email address (=which inbox) catch-all mails should go to. This is usually your main admin, but can be any user that you have added to your account. All emails that are being sent to your own domain that do not match any existing email address will be delivered to the catch-all mailbox.
-* 'Security': By Clicking the pen symbol, you can force your users to change their password after an administrator has reset the password. Please note: Only administrators of paid accounts can reset the passwords of their own users, e.g. all users of a custom domain. [Tuta as the mail service provider cannot reset your passwords for security reasons](https://tutanota.com/support#access-lost).
+* 'Spam rules': Click on 'Show' to show all defined spam rules. Click the plus symbol to add rules. You have the option between 'No spam', 'Always spam', or 'Discard' depending on a specified email address or domain name. Please find more details on the [configuration of spam lists in our FAQ](https://tuta.com/support#spam-rules).
+* 'Custom email domains': Click on 'Show' to show all added custom domains. Click the plus symbol to add your custom domains. You can add as many domains as you need. [Details on using custom email domains with Tuta can be found in our FAQ](https://tuta.com/support#custom-domain). Next to each custom email domain is a three dot symbol. When you click it, you can 'Set a catch all mailbox' or 'Delete' this domain. If you select 'Set a catch all mailbox', you have to choose to which email address (=which inbox) catch-all mails should go to. This is usually your main admin, but can be any user that you have added to your account. All emails that are being sent to your own domain that do not match any existing email address will be delivered to the catch-all mailbox.
+* 'Security': By Clicking the pen symbol, you can force your users to change their password after an administrator has reset the password. Please note: Only administrators of paid accounts can reset the passwords of their own users, e.g. all users of a custom domain. [Tuta as the mail service provider cannot reset your passwords for security reasons](https://tuta.com/support#access-lost).
 * 'Audit log': This log is only visible to admins of paid Tuta accounts. It contains important administrative actions, e.g. if you have added a second factor to one of your user accounts, or if you have changed the password of one of your user accounts.
 
 How to create a user
 
-[](#settings-new-user "Share this!")
+Copy link
 
  ![User management](/resources/images/faq/user-management-settings-desktop-screen1.png)
 
@@ -1540,7 +1556,7 @@ How to create a user
 
 Payment
 
-[](#settings-payment "Share this!")
+Copy link
 
  ![Payment](/resources/images/faq/payment-settings-desktop-screen.png)
 
@@ -1551,7 +1567,7 @@ Go to Settings -> Payment to view and update your payment details.
 
 Subscription: Book Extra Features for your Tuta email account
 
-[](#settings-subscription "Share this!")
+Copy link
 
  ![Subscription](/resources/images/faq/subscription-settings-desktop-screen2.png)
 
@@ -1563,7 +1579,7 @@ Once upgraded you can add 'Extensions':
 * 'User accounts': You can manage your current user by clicking on the pen symbol or you can add more users to your account by clicking on the plus symbol.
 * 'Storage capacity': Click on the pen symbol to switch to another storage package in your account.
 * 'Email aliases': Click on the pen symbol to switch to another alias package.
-* 'Groups': Click on the plus symbol to add a local admin. Refer to ['Local admin'](https://tutanota.com/support#local-admin-create) to learn how to set up a group.
+* 'Groups': Click on the plus symbol to add a local admin. Refer to ['Local admin'](https://tuta.com/support#local-admin-create) to learn how to set up a group.
 * 'Whitelabel': Click on the pen symbol to add the whitelabel feature to your account. This allows you to customize your account: login via your website, add custom logos & colors.
 * 'Sharing feature': Click on the pen symbol to book the sharing feature, which lets you share data (e.g. the calendar) with other Tuta users.
 * 'Business feature': Click on the pen symbol to book the Business feature, which lets you send out of office notifications, send calendar invites and add multiple domains to your account.
@@ -1591,19 +1607,19 @@ Once upgraded you can add 'Extensions':
 
 Upgrade Free account
 
-[](#settings-upgrade "Share this!")
+Copy link
 
  ![Upgrading Free account](/resources/images/faq/subscription-settings-desktop-screen1.png)
 
 To upgrade a Free account (or downgrade), please go to Settings -> Plan -> Plan and click on the pen symbol. Then you can pick another plan (picture below).
 
-Under Settings -> Plan, you can also sign the 'Order processing agreement' if you need to comply with the GDPR, switch your 'Payment interval' from monthly to yearly, check your price per year, and add more ['Extensions'](https://tutanota.com/support#settings-subscription) or order [gift cards](https://tutanota.com/support#gift-cards).
+Under Settings -> Plan, you can also sign the 'Order processing agreement' if you need to comply with the GDPR, switch your 'Payment interval' from monthly to yearly, check your price per year, and add more ['Extensions'](https://tuta.com/support#settings-subscription) or order [gift cards](https://tuta.com/support#gift-cards).
 
- ![Pick a Tuta subscription](/resources/images/faq/subscription-selection-desktop-screen.png)
+ ![Pick a Tuta subscription](/resources/images/faq/subscription-selection-desktop-screen.png) 
 
 Manage an existing user
 
-[](#settings-user "Share this!")
+Copy link
 
  ![User management](/resources/images/faq/user-management-settings-desktop-screen1.png)
 
@@ -1615,14 +1631,14 @@ Manage an existing user
  ![User management](/resources/images/faq/user-management-settings-desktop-screen2.png)
 
 * 'Second factor authentication': Click the plus symbol to the right to add a second factor for this user. Tuta supports [U2F and TOTP for 2FA](https://tuta.com/blog/2fa-two-factor-authentication-totp-u2f). Once added all second factors are displayed here. You can delete them by clicking the cross symbol next to each added key.
-* 'Groups': Click on the plus symbol to add this user to a group. This option is only displayed once you have added a Group to your account. Refer to ['Groups: Local admin'](https://tutanota.com/support#local-admin-create) to learn how to set up a group.
-* 'Contact forms': Click on the plus symbol to add this user to a contact form. This option is only displayed once you have added a contact form to your account. Refer to ['Contact forms'](https://tutanota.com/support#settings-forms) to learn how to set up a contact form.
+* 'Groups': Click on the plus symbol to add this user to a group. This option is only displayed once you have added a Group to your account. Refer to ['Groups: Local admin'](https://tuta.com/support#local-admin-create) to learn how to set up a group.
+* 'Contact forms': Click on the plus symbol to add this user to a contact form. This option is only displayed once you have added a contact form to your account. Refer to ['Contact forms'](https://tuta.com/support#settings-forms) to learn how to set up a contact form.
 * 'Email aliases': Click on 'Show Email Aliases' to add alias email addresses or activate/deactivate existing aliases. Please note: Aliases with a Tuta domain can only be disabled, but not deleted. When you are using your own domain with Tuta, you can delete aliases with your own domain and add new ones.
 * 'Notifications': Click on 'Show' and you will see all email addresses and the IDs of mobile devices (via the Tuta app) that receive push notifications about new mails received in the mailbox of this user. You can delete an entry if you do not wish to receive notifications to a particular email address or mobile device anymore.
 
 Whitelabel Tuta with your branding
 
-[](#whitelabeling "Share this!")
+Copy link
 
 When you order the Whitelabel feature, you have two options: The Whitelabel feature is already included in the Pro subscription. Alternatively, you can order it separately in your paid account. Your whitelabel domain can be any subdomain, and might look like 'secure.mycompany.com' or 'email.mycompany.com'. In order to setup whitelabel you must be able to set the CNAME DNS entry.
 
@@ -1655,7 +1671,7 @@ Now you can open your website in your browser and see the Tuta login with your c
 
 Shared Mailboxes
 
-[](#shared-mailboxes "Share this!")
+Copy link
 
 Shared mailboxes are mailboxes that are shared between multiple users on the same Tuta account. Each user sees the shared mailboxes and all their folders below their personal mailbox in the mail view in Tuta.
 
@@ -1683,21 +1699,21 @@ Shared mailboxes are mailboxes that are shared between multiple users on the sam
 
 Create a local admin group
 
-[](#local-admin-create "Share this!")
+Copy link
 
  ![Local admin](/resources/images/faq/add-admin-group-desktop-screen.png)
 
-* Click on 'Add group' at the top of the group list. A pop-up shows up. The group type can be chosen as 'Local admin'. Choose 'Local admin' if you want one of your users (e.g. a project manager) to administrate all users working on this particular project. Set a name for this group. Click OK. You have created a local admin group. Refer to ['Manage an existing local admin'](https://tutanota.com/support#local-admin-manage) to find out how to add users to this group.
+* Click on 'Add group' at the top of the group list. A pop-up shows up. The group type can be chosen as 'Local admin'. Choose 'Local admin' if you want one of your users (e.g. a project manager) to administrate all users working on this particular project. Set a name for this group. Click OK. You have created a local admin group. Refer to ['Manage an existing local admin'](https://tuta.com/support#local-admin-manage) to find out how to add users to this group.
 
 Login with the local admin
 
-[](#local-admin-login "Share this!")
+Copy link
 
 **Manage users**
 
  ![Local admin](/resources/images/faq/user-management-desktop-screen.png)
 
-* Go to Settings → User management. You can see all the users that this local admin administers. Please refer to the section ['Manage an existing user'](https://tutanota.com/support#settings-user) to see all available administrative options.
+* Go to Settings → User management. You can see all the users that this local admin administers. Please refer to the section ['Manage an existing user'](https://tuta.com/support#settings-user) to see all available administrative options.
 
 **Manage groups**
 
@@ -1716,7 +1732,7 @@ Login with the local admin
 
 Manage an existing local admin group
 
-[](#local-admin-manage "Share this!")
+Copy link
 
  ![Local admin](/resources/images/faq/groups-settings-desktop-screen1.png)
 
@@ -1730,11 +1746,13 @@ Manage an existing local admin group
 
 How do I register the desktop client as the default email app?
 
-[](#default-desktop "Share this!")
+Copy link
 
 **Windows**: Go to Settings > Apps > Default Apps to choose Tuta as you default email app.
 
-**Mac**: Go to Settings -> Desktop -> set "Default email handler" to "Registered".
+**Mac**:  
+\* macOS 14 (Sonoma) or newer: Open the Apple Mail App and go to Mail -> Settings -> set "Default email reader" to "Tuta Mail.app"  
+\* Older Versions: Go to Settings -> Desktop -> set "Default email handler" to "Registered".
 
 **Linux**: This depends on your distribution. Please refer to the relevant documentation. Useful keywords are "mailto handler", "protocol handler"
 
@@ -1742,7 +1760,7 @@ On all platforms, you may have to tell applications like your internet browser t
 
 How do I install the Tuta desktop client?
 
-[](#install-desktop "Share this!")
+Copy link
 
 **Mac**: Double-click the installer and follow the instructions on your computer.
 
@@ -1760,7 +1778,7 @@ The application may also be uninstalled silently, by passing /S to the uninstall
 
 What can I do if my browser does not recognize the desktop client as my mailto app?
 
-[](#mailto-desktop "Share this!")
+Copy link
 
 Sometimes the browser does not recognize the newly installed Tuta desktop client as the default mailto app. If clicking a mailto-link does not open an email in the desktop client, please make sure that the Tuta desktop client is activated as the default email app in your system settings as described above.
 
@@ -1781,7 +1799,7 @@ If everything is set up correctly, these instructions might help to troubleshoot
 
 Does the Windows desktop client include MAPI support?
 
-[](#mapi-desktop "Share this!")
+Copy link
 
 The Windows desktop client comes with MAPI support. Via the context menu of a file -> Send to... -> Email recipient - you can directly attach files to a new email.
 
@@ -1789,7 +1807,7 @@ In various programs (Office, Adobe Acrobat Reader, SAGE50) you can use the "Send
 
 How can I receive notifications with the desktop client?
 
-[](#tray-desktop "Share this!")
+Copy link
 
 You need to activate the 'Run in background' option to receive notifications from the desktop client. This option appears in your notification area on Windows and in the Tray on Linux.
 
@@ -1801,7 +1819,7 @@ If you still do not receive notifications, please check that you do not have foc
 
 How do I uninstall the desktop client?
 
-[](#uninstall-desktop "Share this!")
+Copy link
 
 **Windows**: Hit the windows key, type "apps", choose the entry "Apps & Features". In the settings window, search for "Tuta Desktop". Click it and then click the "Uninstall" Button.
 
@@ -1825,11 +1843,10 @@ How do I uninstall the desktop client?
 * Make sure the output only lists tutanota-desktop image files, then type
 
     rm  -i **/*/appimagekit-tutanota-desktop.png
-    
 
 How do I verify the signature of the desktop client?
 
-[](#verify-desktop "Share this!")
+Copy link
 
 The Tuta desktop applications for Linux, Windows, and Mac OS are signed. The signatures make sure that the desktop clients as well as any updates come directly from us and have not been tampered with. Upon every update, the desktop client automatically checks that the signature is valid.
 
@@ -1846,7 +1863,7 @@ The installer signatures are provided as separate files:
 
 Apply to get Tuta at a discount
 
-[](#apply50 "Share this!")
+Copy link
 
 To apply for the 50% discount, please contact our [sales team](mailto:sales@tutao.de) from your organization's email address and provide the following information:
 
@@ -1858,9 +1875,9 @@ We will then send you a signup link for Tuta with the discount included. In case
 
 How to create folders
 
-[](#how-create-folders "Share this!")
+Copy link
 
-In Tuta you can create an unlimited number of folders. Subfolders are currently not supported, but are planned for future release.
+In Tuta you can create an unlimited number of folders and subfolders.
 
 To add folders, please click the plus symbol next to 'Your Folders' in your mailbox. A pop-up opens where you can enter the folder name. The newly created folder will be sorted alphabetically under 'Your Folders'.
 
@@ -1868,7 +1885,7 @@ You can rename or delete existing folders by clicking on the three-dot button ne
 
 How to register a Tuta account
 
-[](#how-to-register "Share this!")
+Copy link
 
 You can [sign up](https://app.tuta.com/signup) for a Tuta account in four easy steps.
 
@@ -1888,25 +1905,25 @@ To get started, you need to pick one of the available Tuta domains for your acco
 
 With any of the paid subscriptions, you can later add alias addresses and your custom domain to your new Tuta account.
 
-Tuta uses its own Captcha so that we do not have to depend on using Google  Captcha. This enables us to offer an  [open source email service without any links to Google](https://tutanota.com/open-source). 
+Tuta uses its own Captcha so that we do not have to depend on using Google  Captcha. This enables us to offer an  [open source email service without any links to Google](https://tuta.com/open-source). 
 
 The Tuta Captcha shows a clock. If applicable, you need to enter the displayed time with four numerals, including the colon in the middle. If the displayed time is 8.30 for example, you have to enter 08:30 or 20:30 exactly.
 
 More features at the tip of your finger!
 
-[](#more-features "Share this!")
+Copy link
 
-Tuta protects your private data by building the most secure email service. We do not track or sell your data and do not post ads. If you share our mission of making the web more private and secure, please upgrade your Free Tuta account. You will not only support an amazing service, but you will also get [lots of extra features](https://tutanota.com/pricing#plans).
+Tuta protects your private data by building the most secure email service. We do not track or sell your data and do not post ads. If you share our mission of making the web more private and secure, please upgrade your Free Tuta account. You will not only support an amazing service, but you will also get [lots of extra features](https://tuta.com/pricing#plans).
 
 Please note: Deletion of inactive accounts
 
-[](#six-months "Share this!")
+Copy link
 
 Free of charge accounts are deleted after an inactive period of six months. A regular login is necessary to prevent automatic deletion. 
 
 How to create inbox rules / filters in Tuta Mail
 
-[](#how-create-filters "Share this!")
+Copy link
 
 In you mailbox, go to 'Settings' -> 'Email' -> 'Inbox rules'
 
@@ -1921,7 +1938,7 @@ Under 'Inbox rules' (filters) click on 'Show Inbox Rules' and then on the plus-b
 
 How to register a Tuta account
 
-[](#register-paid "Share this!")
+Copy link
 
 You can [sign up](https://app.tuta.com/signup) for a Tuta account in four easy steps.
 
@@ -1941,13 +1958,13 @@ To get started, you need to pick one of the available Tuta domains for your acco
 
 With any of the paid subscriptions, you can later add alias email addresses and your custom domain to your new Tuta account.
 
-Tuta uses its own Captcha so that we do not have to depend on using Google Captcha. This enables us to offer an [open source email service without any links to Google](https://tutanota.com/open-source).
+Tuta uses its own Captcha so that we do not have to depend on using Google Captcha. This enables us to offer an [open source email service without any links to Google](https://tuta.com/open-source).
 
 The Tuta Captcha shows a clock. If applicable, you need to enter the displayed time with four numerals, including the colon in the middle. If the displayed time is 8.30 for example, you have to enter 08:30 or 20:30 exactly.
 
 What are alias email addresses?
 
-[](#what-are-aliases "Share this!")
+Copy link
 
 An email alias is an additional email address that you can use within your mailbox. Tuta lets you add five or more aliases in any of the paid versions. You can use these alias email addresses for both receiving and sending secure emails.
 
@@ -1959,7 +1976,7 @@ As a business, you might want several email addresses for different purposes to 
 
 What are users?
 
-[](#what-are-users "Share this!")
+Copy link
 
 As a family or organization using Tuta, you can set up users for each family member or employee. These users get a separate mailbox, including contacts and calendars, accessible via their personal login credentials.
 
@@ -1971,7 +1988,7 @@ To learn how to set up a user or create an alias, watch this [YouTube tutorial](
 
 How to setup a catch-all email address
 
-[](#setup-catch-all "Share this!")
+Copy link
 
 1. First you need to complete the setup process of your custom domain.
     
@@ -1986,15 +2003,15 @@ Tip: If your domain got leaked to spam lists, we recommend that you set up a ded
 
 What is a catch-all email address?
 
-[](#what-is-catch-all "Share this!")
+Copy link
 
 A catch-all email address lets you receive all emails sent to your custom domain – even if the sender mistyped your email address.
 
-In Tuta you can set up a catch-all email address with any [paid subscription](https://tutanota.com/pricing).
+In Tuta you can set up a catch-all email address with any [paid subscription](https://tuta.com/pricing).
 
 How to import a user list via CSV
 
-[](#import-users "Share this!")
+Copy link
 
 If you have a large number of users, you can import a CSV file containing user name, email address and password. This is useful to automatically create all users in a single step.
 
@@ -2002,73 +2019,32 @@ To import all users via CSV, you need to create a CSV file with the items 'name'
 
 You can then provide the user passwords to the users, so they can log in into their individual mailboxes.
 
-General questions
+### Read more articles:
 
-[](https://tutanota.com/de/support/general "General questions")
+* [What are email alias addresses](https://tutanota.com/blog/secure-email-alias)
+* [How to send an encrypted email](https://tutanota.com/blog/email-encryption-guide-how-send-encrypted-email)
+* [How to prevent phishing](https://tutanota.com/blog/how-to-prevent-phishing)
+* [Why U2F for second factor authentication is the most secure option](https://tutanota.com/blog/why-u2f-is-important)
+* [Why a backdoor is a security risk](https://tutanota.com/blog/why-a-backdoor-is-a-security-risk)
 
-Security and Privacy
+[](https://www.facebook.com/tutaprivacy "Facebook")   [](https://twitter.com/TutaPrivacy "Twitter")   [](https://www.reddit.com/r/tutanota/ "Reddit")  [](https://mastodon.social/@Tutanota "Mastodon")
 
-[](https://tutanota.com/de/support/security "Security and Privacy")
+Products
 
-How to use Tuta
-
-[](https://tutanota.com/de/support/howto "How to use Tuta")
-
-Payment
-
-[](https://tutanota.com/de/support/payment "Payment")
-
-#### I can't access my account
-
-If you can't log in to your account you might be in one of these situations:
-
-* **You have made a typo in your email address or password**:
-    * Please double check your address and make sure that you have typed the full address and the correct domain name (for example youraddress@tutanota.com).
-    * Make sure that the Caps Lock key is not active.
-* **You forgot your password or lost your second authentication factor (2FA)**: Please read [How do I reset my password or second factor?](https://tutanota.com/support#reset)
-* **The code from your authenticator App (TOTP) is incorrect**: These codes are time-dependent. Please make sure that both Tuta and the authenticator App have the correct time and time zone settings. Some browsers or browser extensions block access to the system's time zone.
-* **Your recovery code is not accepted or is wrong**: Please double check whether you are using the recovery key correctly. See [How do I use the recovery code?](https://tutanota.com/support#recovery-code)
-* **Your account might have been deleted due to inactivity**: In this case, you should see a corresponding message below the login form. Free accounts are deleted if you do not log in for a period longer than six months. We do not recycle Tuta addresses which means that the address is blocked for new registrations. You can still re-use the deleted address with a paid account, **but only if you have the correct credentials for the deleted account**. Please see [How do I reactivate an account deleted due to inactivity?](https://tutanota.com/support#inactive-accounts)
-* **Your account was suddenly suspended due to another reason**: Some accounts are disabled due to a violation of our [Terms of Service](https://tutanota.com/terms) or due to our spam detection. If you think that we have made a mistake, please [contact us in English or German](mailto:hello@tutao.de). Please include the email address of your suspended Tuta account and send us the error message you see below the login form.
-
-**Our secure password reset feature allows only you to reset your password. We have no influence on this process. You can read more about this [here](https://tuta.com/blog/secure-password-reset).**
-
-#### I would like to report abuse
-
-Please forward the abusive message with a short explanation in English or German to our [abuse team](mailto:abuse@tutao.de).
-
-#### I have a business request
-
-Please contact our [sales team in English or German](mailto:sales@tutao.de).
-
-Read more articles:
-
-* [What are email alias addresses](https://tutanota.com/blog/posts/secure-email-alias)
-* [How to send an encrypted email](https://tutanota.com/blog/posts/email-encryption-guide-how-send-encrypted-email)
-* [How to prevent phishing](https://tutanota.com/blog/posts/how-to-prevent-phishing)
-* [Why U2F for second factor authentication is the most secure option](https://tutanota.com/blog/posts/why-u2f-is-important)
-* [Why a backdoor is a security risk](https://tutanota.com/blog/posts/why-a-backdoor-is-a-security-risk)
-
-[Terminate subscription](https://app.tuta.com/?r=/termination)
-
-[](https://www.facebook.com/tutaprivacy "Facebook")[](https://twitter.com/TutaPrivacy "Twitter")[](https://www.reddit.com/r/tutanota/ "Reddit")[](https://mastodon.social/@Tutanota "Mastodon")
+[Tuta Mail](https://tutanota.com/secure-email) [Tuta Calendar](https://tutanota.com/calendar)
 
 Company
 
-[Community](https://tutanota.com/community)[Team](https://tutanota.com/team)[Jobs](https://tutanota.com/jobs)[Terms](https://tutanota.com/terms)[Privacy](https://tutanota.com/privacy-policy)[Legal notice](https://tutanota.com/imprint)
+[Community](https://tutanota.com/community) [Team](https://tutanota.com/team) [Jobs](https://tutanota.com/jobs) [Terms](https://tutanota.com/terms) [Privacy](https://tutanota.com/privacy-policy) [Legal notice](https://tutanota.com/imprint)
 
 Development
 
-[Changelog](https://tutanota.com/changelog)[Roadmap](https://tutanota.com/roadmap)[Security](https://tutanota.com/security)[Encryption](https://tutanota.com/encryption)[Open Source](https://tutanota.com/open-source)[GitHub](https://github.com/tutao/tutanota)
-
-Features
-
-[Secure Email](https://tutanota.com/secure-email)[Encrypted Calendar](https://tutanota.com/calendar)[Business](https://tutanota.com/business)
+[Roadmap](https://tutanota.com/roadmap) [Security](https://tutanota.com/security) [Encryption](https://tutanota.com/encryption) [Open Source](https://tutanota.com/open-source) [GitHub](https://github.com/tutao/tutanota)
 
 Support
 
-[Forum](https://www.reddit.com/r/tutanota/)[Press](https://tutanota.com/press)[Support](https://tutanota.com/support)
+[Forum](https://www.reddit.com/r/tutanota/) [Press](https://tutanota.com/press) [Support](https://tutanota.com/support) [Terminate subscription](https://app.tuta.com/?r=/termination)
 
 Language
 
-[English](https://tutanota.com/languages)[Translate](https://tutanota.com/blog/posts/tutanota-translation-project)
+EnglishČeskyDeutschEspañolSuomiFrançaisMagyar nyelvItaliano日本語NederlandsPolskiPortuguês, BRPусскийSvenskaYкраїнська中文 [Translate](https://tutanota.com/blog/tutanota-translation-project)
