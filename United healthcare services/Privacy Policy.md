@@ -278,7 +278,8 @@ The following Product Privacy Notices supplement this Policy and explain specifi
 * [HIPAA Notice of Privacy Practices – AARP Medicare Plans](https://www.uhc.com/content/dam/uhcdotcom/en/npp/NPP-UHC-MR-AARPMP-EN.pdf)
 * [HIPAA Notice of Privacy Practices – Individual and Family Plans (ACA Marketplace Plans)](https://www.uhc.com/content/dam/uhcdotcom/en/npp/NPP-UHC-CSP-EX-EN.pdf)
 * [HIPAA Notice of Privacy Practices – Medical for Community and State Plans (English)](https://www.uhc.com/content/dam/uhcdotcom/en/npp/NPP-UHC-CS-Medical-EN.pdf)
-* [Provider Notice of Privacy Practices - Optum HouseCalls](https://st1.healthsafe-id.com/content/pages/housecalls/privacy?HTTP_LANGUAGE=EN) 
+* [HIPAA Notice of Privacy Practices – UnitedHealthcare FlexWork Plans](https://www.uhc.com/content/dam/uhcdotcom/en/npp/NPP-UHC-EI-UHOne-EN.pdf)
+* [Provider Notice of Privacy Practices - Optum HouseCalls](https://st1.healthsafe-id.com/content/pages/housecalls/privacy?HTTP_LANGUAGE=EN)
 
 ### Español
 
