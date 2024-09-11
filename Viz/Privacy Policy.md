@@ -3,13 +3,13 @@
 Manga & Anime Favorites
 -----------------------
 
+* [Bleach](https://www.viz.com/bleach)
 * [Boruto](https://www.viz.com/boruto)
 * [Pokémon](https://www.viz.com/pokemon)
-* [Ito-verse](https://www.viz.com/junji-ito)
 * [My Hero Academia](https://www.viz.com/my-hero-academia)
 * [Naruto](https://www.viz.com/naruto)
-* [Bleach](https://www.viz.com/bleach)
-* [VIZ Welcomes RWBY](https://www.viz.com/rwby)
+* [Ito-verse](https://www.viz.com/junji-ito)
+* [Free VIZ Manga](https://www.viz.com/vizmanga)
 * [Gomi](https://www.viz.com/products/gomi-no-sensei)
 
 [![VIZ](https://assets.viz.com/assets/logo@2x-b76f649f933ea15f45147ff5445a2501c85c7f863ba0aba5ea7bec93c3272cc6.png)](https://www.viz.com/)
@@ -28,7 +28,7 @@ Manga & Anime Favorites
 
 Find a title or a character… 
 
-[VIZ Welcomes RWBY](https://www.viz.com/rwby)
+[Free VIZ Manga](https://www.viz.com/vizmanga)
 
 * [Naruto](https://www.viz.com/naruto)
 * [Pokémon](https://www.viz.com/pokemon)
