@@ -1,3 +1,5 @@
+Save 20% on personalized strengths resources with code **STRENGTHS20** _(books, CSI course & bulk orders excluded)_
+
 [Sign in](https://www.viacharacter.org/account/login)
 
 [0](https://www.viacharacter.org/combinedstore/shoppingcart)
@@ -43,9 +45,10 @@ Menu
     * For Educators ▾
     * [Strengths-Based Education at VIA](https://www.viacharacter.org/programs/thriving-learning-communities)
     
-* [Wellbeing Insights](https://www.viacharacter.org/topics)
+* [Wellbeing](https://www.viacharacter.org/topics)
     
     * [All Topics](https://www.viacharacter.org/topics)
+    * [Viana AI Strengths Coach](https://www.viacharacter.org/viana-wellbeing-advisor)
     * Resources ▾
     * [Activities](https://www.viacharacter.org/resources/activities)
     * [Books](https://www.viacharacter.org/resources/books)
@@ -257,7 +260,7 @@ The practice of well-being.
 * [Donate](https://www.viacharacter.org/about/donate)
 
 * [](https://www.facebook.com/VIAstrengths/)
-* [](https://twitter.com/VIAstrengths)
+* [](https://www.instagram.com/viastrengths/)
 * [](https://www.youtube.com/user/VIAStrengths)
 * [](https://www.linkedin.com/company/via-institute-on-character)
 
@@ -265,8 +268,6 @@ The practice of well-being.
 
 * [Terms of Service](https://www.viacharacter.org/terms-of-service)
 * [Privacy Policy](https://www.viacharacter.org/privacy-policy)
-
-Affiliate disclosure: As an Amazon Associate, we may earn commission from qualifying purchases from [Amazon.com](https://www.amazon.com/)
 
 ![Contentful](https://static.viacharacter.org/web/contentful.webp)
 
