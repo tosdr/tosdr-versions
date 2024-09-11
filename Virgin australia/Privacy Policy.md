@@ -54,8 +54,8 @@ disabled Mode
     
     Our network
     
+    * [Travel inspiration](https://www.virginaustralia.com/au/en/explore/travel-inspiration/destinations/)
     * [Destinations](https://www.virginaustralia.com/au/en/explore/travel-inspiration/travel-tips/)
-    * [Travel Inspiration](https://www.virginaustralia.com/au/en/explore/travel-inspiration/destinations/)
     
     Popular domestic routes
     
@@ -74,7 +74,7 @@ disabled Mode
     * [Brisbane to Bali flights](https://www.virginaustralia.com/en-au/flights-from-brisbane-to-bali-dps)
     * [Sydney to Fiji flights](https://www.virginaustralia.com/en-au/flights-from-sydney-to-fiji)
     * [Melbourne to Fiji flights](https://www.virginaustralia.com/en-au/flights-from-melbourne-to-fiji)
-    * [Brisbane to Fiji flights](https://www.virginaustralia.com/en-au/flights-from-sydney-to-fiji)
+    * [Brisbane to Fiji flights](https://www.virginaustralia.com/en-au/flights-from-brisbane-to-fiji)
     
 * [Travel information](https://www.virginaustralia.com/au/en/travel-info/)
     
@@ -140,30 +140,30 @@ disabled Mode
     
 * [Velocity](https://www.virginaustralia.com/au/en/velocity/)
     
+    Partners and offers
+    
+    * [Transfer credit card points](https://www.velocityfrequentflyer.com/frequent-flyer-credit-cards/partner-cards)
+    * [Points earning credit cards](https://www.velocityfrequentflyer.com/frequent-flyer-credit-cards/direct-earn-cards)
+    
     The basics
     
     * [Velocity home](https://www.velocityfrequentflyer.com/)
     * [Earning points](https://www.velocityfrequentflyer.com/the-basics/earning-points)
     * [Redeeming Points](https://www.velocityfrequentflyer.com/the-basics/redeeming-points)
     * [Transferring Points](https://www.velocityfrequentflyer.com/the-basics/transferring-points)
-    * [Buying Points](https://www.velocityfrequentflyer.com/the-basics/buying-points?icmpid=va:dig:aem_nav:site_nav_link:bp_ao:)
+    * [Buying Points](https://www.velocityfrequentflyer.com/the-basics/buying-points?utm_source=web&utm_medium=multiple&utm_campaign=v2landing&icmpid=va:dig:aem_nav:site_nav_link:bp_ao:)
     * [Status](https://www.velocityfrequentflyer.com/the-basics/status)
-    * [Member benefits](https://www.velocityfrequentflyer.com/the-basics/member-benefits/velocity-member-benefits)
-    
-    Partners and offers
-    
-    * [Transfer credit card points](https://www.velocityfrequentflyer.com/partners-offers/velocity-credit-cards/partner-cards)
-    * [Points earning credit cards](https://www.velocityfrequentflyer.com/partners-offers/velocity-credit-cards/direct-earn-cards)
     
     Shopping online
     
     * [Shop to earn Points](https://estore.velocityfrequentflyer.com/)
     * [Shop using Points](https://shop.velocityfrequentflyer.com/)
+    * [Velocity Wine Store by Laithewaite's](https://www.velocitywinestore.com.au/)
     
-    Flying and status
+    Flying and Status
     
-    * [Status membership](https://www.velocityfrequentflyer.com/the-basics/status)
     * [How to use Points for flights](https://www.velocityfrequentflyer.com/flying-status/use-points-for-flights)
+    * [Status membership](https://www.velocityfrequentflyer.com/the-basics/status)
     
 
 * [Check-in](https://check-in.virginaustralia.com/checkin/index.html#/login)
@@ -172,45 +172,55 @@ disabled Mode
 ![Loading](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDciIGhlaWdodD0iNDciIHZpZXdCb3g9IjAgMCA0NyA0NyIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4NCjxnIGlkPSJsb2FkaW5nIiBjbGlwLXBhdGg9InVybCgjY2xpcDBfMTIzN183ODA0KSI+DQo8cGF0aCBpZD0iVmVjdG9yIiBkPSJNNDIuMzA4MSAzLjMxMzk5TDQwLjczMTEgMy42Mjg5OUwzNy4zODcxIDQuMjk3OTlMMzcuMTYxMSA0LjMzOTk5TDM1LjIwNTEgNC43MzE5OUwzMy4wNjQxIDIuNzQyOTlDMzEuNDE3MSAxLjIyMDk5IDMwLjQ0NDEgMS41NjA5OSAzMC40NDQxIDEuNTYwOTlDMzAuNDQ0MSAxLjU2MDk5IDMwLjE4NDEgMi41NTU5OSAzMS44MTkxIDQuMDc4OTlMMzMuOTcyMSA2LjA2Njk5TDMzLjcxMDEgOC4yNzg5OUwzMy4yOTkxIDExLjY3TDMzLjEwOTEgMTMuMjYyQzMzLjEwOTEgMTMuMjYyIDMzLjAyMDEgMTMuODIzIDMzLjc0MTEgMTQuNTg2TDM2LjczNDEgOC40NjU5OUwzNi40MTExIDguMTc3OTlMNDAuMTM3MSAxMS41MTNMNDAuODQ5MSAxNC4xNzlDNDAuODQ5MSAxNC4xNzkgNDAuODY3MSAxNC4yNSA0MC45MTQxIDE0LjQwM0M0MC45NzUxIDE0LjU2NyA0MS4yMDMxIDE0LjU2MSA0MS4yMjcxIDE0LjQwM0w0MS41ODUxIDEyLjE4NEw0MS44OTYxIDExLjg0N0w0NC4wODMxIDExLjMyOEM0NC4yMzcxIDExLjI5MiA0NC4yMTkxIDExLjA2NSA0NC4wNTkxIDExLjAxN0M0My45MDAxIDEwLjk4MSA0My44MjYxIDEwLjk2MyA0My44MjYxIDEwLjk2M0w0MS4xMTMxIDEwLjQ1MUwzNy41MDkxIDYuOTg1OTlMMzcuNzcwMSA3LjI0Mjk5TDQzLjcwNzEgMy44NDQ5OUM0Mi44OTcxIDMuMTg0OTkgNDIuMzQxMSAzLjMxMjk5IDQyLjM0MTEgMy4zMTI5OSIgZmlsbD0iIzhFOEQ4RiIvPg0KPHBhdGggaWQ9IlZlY3Rvcl8yIiBkPSJNNDQuMjczIDE0LjM2N0w0NC4xOSAxNC44ODFDNDQuMDcxIDE1LjY4NSA0My42MjcgMTYuMzg1IDQzLjAwMSAxNi44NjZDNDMuNjYyIDE4LjkxNCA0NCAyMS4wNDkgNDQgMjMuMjM4QzQ0IDM0LjY4NiAzNC42ODYgNDQuMDAxIDIzLjIzNyA0NC4wMDFDMTEuNzg4IDQ0LjAwMSAyLjQ3NSAzNC42ODYgMi40NzUgMjMuMjM3QzIuNDc1IDExLjc4OCAxMS43ODkgMi40NzUwMSAyMy4yMzcgMi40NzUwMUMyNC43MTMgMi40NzUwMSAyNi4xNzcgMi42MzcwMSAyNy42MDUgMi45NDMwMUMyNy4zMjcgMS45MTUwMSAyNy40NTUgMS4xMzYwMSAyNy41NDEgMC44MDQwMDdMMjcuNjQgMC40MjMwMDdDMjYuMTk1IDAuMTQ2MDA3IDI0LjcyMSAwLjAwMTAwNzE1IDIzLjIzNiAwLjAwMTAwNzE1QzEwLjQyNCA3LjE1MTk4ZS0wNiAwIDEwLjQyNCAwIDIzLjIzN0MwIDM2LjA1IDEwLjQyNCA0Ni40NzQgMjMuMjM3IDQ2LjQ3NEMzNi4wNSA0Ni40NzQgNDYuNDc0IDM2LjA1IDQ2LjQ3NCAyMy4yMzdDNDYuNDc0IDIwLjEyNiA0NS44NjUgMTcuMTEzIDQ0LjY3NCAxNC4yNzFMNDQuMjczIDE0LjM2N1oiIGZpbGw9IiM4RThEOEYiLz4NCjwvZz4NCjxkZWZzPg0KPGNsaXBQYXRoIGlkPSJjbGlwMF8xMjM3Xzc4MDQiPg0KPHJlY3Qgd2lkdGg9IjQ2LjQ3NSIgaGVpZ2h0PSI0Ni40NzUiIGZpbGw9IndoaXRlIi8+DQo8L2NsaXBQYXRoPg0KPC9kZWZzPg0KPC9zdmc+DQo=)
 
 * [](https://www.virginaustralia.com/au/en/)
-* [About Virgin Australia](https://www.virginaustralia.com/au/en/about-us/)
+    
+    /
+    
+* [About](https://www.virginaustralia.com/au/en/about-us/)
+    
+    /
+    
 * [Policies](https://www.virginaustralia.com/au/en/about-us/policies/)
-* [Privacy policy](https://www.virginaustralia.com/au/en/about-us/policies/privacy/)
+    
+    /
+    
 
 Privacy policy
 ==============
-
-Policies
---------
-
-* [Privacy policy](https://www.virginaustralia.com/au/en/about-us/policies/privacy/)
-* [Legal policies](https://www.virginaustralia.com/au/en/about-us/policies/legal/)
 
 Protecting Your privacy
 -----------------------
 
 Virgin Australia is committed to protecting the privacy of your personal information. This commitment is demonstrated in our Privacy Policies which tell you how we manage your personal information and how to contact us if you have any privacy concerns. 
 
-If our Privacy Policies do not answer a question that you have about how we manage your personal information, please [call or email us](https://www.virginaustralia.com/au/en/help/contact-us/).
+If our Privacy Policies do not answer a question that you have about how we manage your personal information, please [call or email us](https://www.virginaustralia.com/au/en/help/contact-us/ "Contact Virgin Australia").
 
-* Read the [Virgin Australia Privacy Policy](https://www.virginaustralia.com/au/en/about-us/policies/privacy/privacy-policy/) 
-* Read the [Velocity Frequent Flyer Privacy Policy](https://www.velocityfrequentflyer.com/content/Privacy/privacy-policy/ "Link opens an external site which may or may not meet accessibility guidelines.")
+[##### Virgin Australia Privacy Policy](https://www.virginaustralia.com/au/en/about-us/policies/privacy/privacy-policy/)
+
+[##### Velocity Frequent Flyer Privacy Policy](https://www.velocityfrequentflyer.com/member-support/privacy)
 
 For specific information on the types of information that we collect about you and why we do this, you should read the appropriate privacy statement:
 
-* [Privacy Statement for Virgin Australia (Bookings)](https://www.virginaustralia.com/au/en/about-us/policies/privacy/privacy-statement-flight-bookings/)
-* [Privacy Statement for Velocity (Membership Join)](https://www.velocityfrequentflyer.com/content/Privacy/privacy-statement-notice-velocity/ "Link opens an external site which may or may not meet accessibility guidelines.")
-* [Privacy Statement for Virgin Australia Business Flyer and Loyalty](https://www.virginaustralia.com/au/en/about-us/policies/privacy/privacy-statement-business-flyer/ "privacy-statement-business-flyer")
-* [Privacy Statement for Virgin Australia V-Mail](https://www.virginaustralia.com/au/en/about-us/policies/privacy/privacy-statement-vmail/)
-* [Privacy Statement for Virgin Australia Lounge](https://www.virginaustralia.com/au/en/about-us/policies/privacy/privacy-statement-lounge/)
-* [Privacy Statement for CCTV Images](https://www.virginaustralia.com/au/en/about-us/policies/privacy/privacy-statement-cctv-images/)
-* [Privacy Statement for Health Information](https://www.virginaustralia.com/au/en/about-us/policies/privacy/privacy-statement-health-information/)
+[##### Privacy Statement for Virgin Australia (Bookings)](https://www.virginaustralia.com/au/en/about-us/policies/privacy/privacy-statement-flight-bookings/)
 
-Contact us
-----------
+[##### Privacy Statement for Virgin Australia Business Flyer and Loyalty](https://www.virginaustralia.com/au/en/about-us/policies/privacy/privacy-statement-business-flyer/)
+
+[##### Privacy Statement for Virgin Australia V-Mail](https://www.virginaustralia.com/au/en/about-us/policies/privacy/privacy-statement-vmail/)
+
+[##### Privacy Statement for Virgin Australia Lounge](https://www.virginaustralia.com/au/en/about-us/policies/privacy/privacy-statement-lounge/)
+
+[##### Privacy Statement for CCTV Images](https://www.virginaustralia.com/au/en/about-us/policies/privacy/privacy-statement-cctv-images/)
+
+[##### Privacy Statement for Health Information](https://www.virginaustralia.com/au/en/about-us/policies/privacy/privacy-statement-health-information/)
+
+[##### Privacy Statement for Velocity (Membership Join)](https://www.velocityfrequentflyer.com/member-support/privacy)
+
+Contact us  
+
+-------------
 
 If you have a concern about your privacy or wish to make a privacy complaint, you can contact us by:
 
-1. [Calling us](https://www.virginaustralia.com/au/en/help/contact-us/)
+1. [Calling us](https://www.virginaustralia.com/au/en/help/contact-us/ "Contact Virgin Australia")
 2. Writing to us at the below address: 
 
 **Privacy Officer  
