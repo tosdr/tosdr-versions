@@ -335,6 +335,26 @@ Articles
 
 [](#)[](#)
 
+* [![](https://www.theadvocates.org/wp-content/uploads/2024/09/Screenshot-2024-09-04-at-8.16.45 AM-300x200.png)](https://www.theadvocates.org/anything-peaceful/)
+    
+    #### [Anything Peaceful](https://www.theadvocates.org/anything-peaceful/)
+    
+* [![](https://www.theadvocates.org/wp-content/uploads/2024/08/Screenshot-2024-08-27-at-12.26.38 PM-300x200.png)](https://www.theadvocates.org/whats-so-great-about-polycentricity/)
+    
+    #### [What’s So Great About Polycentricity?](https://www.theadvocates.org/whats-so-great-about-polycentricity/)
+    
+* [![](https://www.theadvocates.org/wp-content/uploads/2024/08/Screenshot-2024-08-19-at-3.04.25 PM-300x200.png)](https://www.theadvocates.org/when-governments-compete-you-win/)
+    
+    #### [When Governments Compete, You Win](https://www.theadvocates.org/when-governments-compete-you-win/)
+    
+* [![](https://www.theadvocates.org/wp-content/uploads/2024/08/Screenshot-2024-08-12-at-5.07.51 PM-300x200.png)](https://www.theadvocates.org/the-absurdity-of-the-presidency/)
+    
+    #### [The Absurdity of the Presidency](https://www.theadvocates.org/the-absurdity-of-the-presidency/)
+    
+* [![](https://www.theadvocates.org/wp-content/uploads/2024/08/Screenshot-2024-08-05-at-8.12.12 PM-300x200.png)](https://www.theadvocates.org/were-creating-an-infinite-game/)
+    
+    #### [We’re Creating an Infinite Game](https://www.theadvocates.org/were-creating-an-infinite-game/)
+    
 * [![](https://www.theadvocates.org/wp-content/uploads/2024/07/Screenshot-2024-07-30-at-9.34.49 AM-300x200.png)](https://www.theadvocates.org/as-debt-turns-into-darkness/)
     
     #### [As Debt Turns Into Darkness](https://www.theadvocates.org/as-debt-turns-into-darkness/)
@@ -346,26 +366,6 @@ Articles
 * [![](https://www.theadvocates.org/wp-content/uploads/2024/07/Screenshot-2024-07-17-at-11.07.43 AM-300x200.png)](https://www.theadvocates.org/single-bullet-theory/)
     
     #### [Single Bullet Theory](https://www.theadvocates.org/single-bullet-theory/)
-    
-* [![](https://www.theadvocates.org/wp-content/uploads/2024/07/Screenshot-2024-07-05-at-1.00.42 PM-300x200.png)](https://www.theadvocates.org/programmable-incentives/)
-    
-    #### [Programmable Incentives](https://www.theadvocates.org/programmable-incentives/)
-    
-* [![](https://www.theadvocates.org/wp-content/uploads/2024/07/web-300x200.jpg)](https://www.theadvocates.org/capitalism-is-not-responsible-for-materialism/)
-    
-    #### [Capitalism Is Not Responsible for Materialism](https://www.theadvocates.org/capitalism-is-not-responsible-for-materialism/)
-    
-* [![](https://www.theadvocates.org/wp-content/uploads/2024/06/Screenshot-2024-06-24-at-8.30.26 AM-300x200.png)](https://www.theadvocates.org/principles-of-market-fundamentalism-no-9-transaction-costs/)
-    
-    #### [Principles of Market Fundamentalism: No. 9: Transaction Costs](https://www.theadvocates.org/principles-of-market-fundamentalism-no-9-transaction-costs/)
-    
-* [![](https://www.theadvocates.org/wp-content/uploads/2024/06/Screenshot-2024-06-18-at-2.55.27 PM-300x200.png)](https://www.theadvocates.org/reality-by-agreement/)
-    
-    #### [Reality by Agreement](https://www.theadvocates.org/reality-by-agreement/)
-    
-* [![](https://www.theadvocates.org/wp-content/uploads/2024/05/Screenshot-2024-05-31-at-12.37.06 PM-300x200.png)](https://www.theadvocates.org/principles-of-market-fundamentalism-no-8-emergence/)
-    
-    #### [Principles of Market Fundamentalism, No. 8: Emergence](https://www.theadvocates.org/principles-of-market-fundamentalism-no-8-emergence/)
     
 * [#### All Articles](https://www.theadvocates.org/articles/)
     
