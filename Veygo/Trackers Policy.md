@@ -127,7 +127,7 @@ January 2021
 * [Veygo Youtube](https://www.youtube.com/channel/UCvuws7xIFKzWHP6YabGiMZA)
 * [Veygo TikTok](https://www.tiktok.com/@veygouk)
 
-[](https://apps.apple.com/gb/app/veygo-uk/id1552373275)[](https://play.google.com/store/apps/details?id=uk.co.admiralgroup.CSI&hl=en_GB)
+[Download\_on\_the\_App\_Store\_Badge\_US-UK\_RGB\_blk\_4SVG\_092917](https://apps.apple.com/gb/app/veygo-uk/id1552373275) [Download\_from\_Google\_Play](https://play.google.com/store/apps/details?id=uk.co.admiralgroup.CSI&hl=en_GB)
 
 ©2024, Tŷ Admiral, David Street, Cardiff, CF10 2EH. Veygo by Admiral is a trading name of Able Insurance Services Limited (Reg No: 2890075) is a subsidiary of Admiral Group plc and is authorised and regulated by the Financial Conduct Authority (Firm reference number: 311649). These details can be confirmed by visiting the Financial Services Register, www.fca.org.uk/register. Able Insurance Services Limited acts for, and on behalf of, other regulated insurance companies. Further details may be provided on request.
 
