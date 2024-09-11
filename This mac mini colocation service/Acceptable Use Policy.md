@@ -97,12 +97,12 @@ Mac Mini Vault will not be responsible for any damages your business may suffer.
 
 #### CyberLynk Family
 
-* [CyberLynk Acquisitions](http://www.cyberlynkacquisitions.com/)
 * [CyberLynk Network](http://www.cyberlynk.net/)
 * [FreePBX Hosting](https://www.freepbxhosting.com/)
 * [FTP Hosting](http://www.cyberlynk.net/services_corporate/dsp_ftp.cfm)
-* [Mac Pro Vault](http://www.macprovault.com/)
 * [Milwaukee Colo](http://www.milwaukeecolo.com/)
+* [NAS Colo](https://nascolo.com/)
+* [TalkAnywhere](https://talkanywhere.com/)
 * [Umbra Web Hosting](http://www.umbrahosting.com/)
 
 #### Mac Mini Vault
