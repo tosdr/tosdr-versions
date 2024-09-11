@@ -1,6 +1,6 @@
     Simple Mailbox
 
-REQUEST BOOK
+Request Books
 
 [Skip to content](#content "Skip to content")
 
