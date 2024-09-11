@@ -2,7 +2,7 @@
 
 Menü
 
-[![Online Wetter bei wetter.com](https://cs3.wettercomassets.com/wcomv5/images/wetter_com_logo.svg?202408011154 "wetter.com ▶ Aktuelles Wetter & 16-Tages Wettervorhersage")](https://www.wetter.com/)
+[![Online Wetter bei wetter.com](https://cs3.wettercomassets.com/wcomv5/images/wetter_com_logo.svg?202409101234 "wetter.com ▶ Aktuelles Wetter & 16-Tages Wettervorhersage")](https://www.wetter.com/)
 
 [](javascript:void(0);)
 
@@ -106,15 +106,15 @@ Menü
     * [Maximal-Temperatur](https://www.wetter.com/wetterkarten/maximal-temperatur/)
     * [Wassertemperatur](https://www.wetter.com/wetterkarten/wassertemperaturen/)
     
-    * [Wind](https://www.wetter.com/wetterkarten/windgeschwindigkeiten/)
-    * [Windgeschwindigkeiten](https://www.wetter.com/wetterkarten/windgeschwindigkeiten/)
+    * [Wind](https://www.wetter.com/wetterkarten/windgeschwindigkeiten/?onboarding-map-zoom=true&product=wind)
+    * [Windgeschwindigkeiten](https://www.wetter.com/wetterkarten/windgeschwindigkeiten/?onboarding-map-zoom=true&product=wind)
     * [Windböen](https://www.wetter.com/wetterkarten/windboeen/)
     * [Warnungen](https://www.wetter.com/unwetterwarnungen/deutschland/)
     * [Warnungen](https://www.wetter.com/unwetterwarnungen/deutschland/)
     * [Gewitterrisiko](https://www.wetter.com/wetterkarten/gewitterrisiko/)
     
-    * [Weitere Karten](https://www.wetter.com/wetterkarten/bewoelkung/)
-    * [Bewölkung](https://www.wetter.com/wetterkarten/bewoelkung/)
+    * [Weitere Karten](https://www.wetter.com/wetterkarten/bewoelkung/?onboarding-map-zoom=true&product=clouds)
+    * [Bewölkung](https://www.wetter.com/wetterkarten/bewoelkung/?onboarding-map-zoom=true&product=clouds)
     * [Sonnenschein](https://www.wetter.com/wetterkarten/sonnenschein/)
     
 * [Skigebiete](https://www.wetter.com/skigebiete/)
@@ -1127,7 +1127,7 @@ Reichenaustraße 19a
 78467 Konstanz  
 [contact@wetter.com](mailto:contact@wetter.com)
 
-![wetter.com](https://cs3.wettercomassets.com/wcomv5/images/wetter_com_logo.svg?202408011154 "wetter.com")
+![wetter.com](https://cs3.wettercomassets.com/wcomv5/images/wetter_com_logo.svg?202409101234 "wetter.com")
 
 [Zurück](#) [Schließen ✕](#)
 
@@ -1145,10 +1145,10 @@ Mehr Informationen zu Werbung und Tracking findest du in unseren [Datenschutzhin
 
 Nutze wetter.com und viele weitere Websites ganz ohne Werbebanner, personalisiertes Tracking und Werbespots für nur 3,99€ / Monat.
 
- ![contentpass](https://cs3.wettercomassets.com/wcomv5/images/contentpass/logo.svg?202408011154 "contentpass") Werbefrei für 3,99€ / Monat
+ ![contentpass](https://cs3.wettercomassets.com/wcomv5/images/contentpass/logo.svg?202409101234 "contentpass") Werbefrei für 3,99€ / Monat
 
 Bereits contentpass-Mitglied?  
- [![contentpass](https://cs3.wettercomassets.com/wcomv5/images/contentpass/logo.svg?202408011154 "contentpass") Hier einloggen](#).
+ [![contentpass](https://cs3.wettercomassets.com/wcomv5/images/contentpass/logo.svg?202409101234 "contentpass") Hier einloggen](#).
 
 Wir nutzen ausschließlich Cookies und andere Technologien, die zur Bereitstellung unseres Angebotes unbedingt erforderlich sind. Details zum Abo findest du [hier](https://my.contentpass.net/) und in unseren [Datenschutzhinweisen (contentpass-Abo)](https://www.wetter.com/datenschutz/pay/).
 
