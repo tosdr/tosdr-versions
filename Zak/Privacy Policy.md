@@ -1,12 +1,12 @@
 [Skip to content](#MainContent)
 
-Oh Joy! Your order qualifies for free shipping Free shipping $45+ orders Contiguous U.S.
+Oh Joy! Your order qualifies for free shipping Free shipping $39+ orders Contiguous U.S.
 
 Free Returns up to 30 Days Contiguous U.S.
 
 [![Zak Everyday Smiles](//www.zak.com/cdn/shop/files/zak_designs_black.png?v=1663078627&width=80)](https://www.zak.com/)
 
-[Cart £0.00 (0)](https://www.zak.com/cart)
+[Cart $0.00 (0)](https://www.zak.com/cart)
 
 [![Zak Everyday Smiles](//www.zak.com/cdn/shop/files/zak_designs_black.png?v=1663078627&width=80)](https://www.zak.com/)
 
@@ -66,7 +66,7 @@ Free Returns up to 30 Days Contiguous U.S.
 
 [Search](https://www.zak.com/search)
 
-[Cart £0.00 (0)](https://www.zak.com/cart)
+[Cart $0.00 (0)](https://www.zak.com/cart)
 
 [My Account](https://www.zak.com/account)
 
@@ -172,7 +172,7 @@ Hide menu [Drinkware](https://www.zak.com/collections/drinkware)
 
 Cart
 
-Oh Joy! Your order qualifies for free shipping Spend £45 more for free shipping
+Oh Joy! Your order qualifies for free shipping Spend $39 more for free shipping
 
 Your cart is empty.
 
@@ -190,7 +190,7 @@ Postal/Zip Code
 
 _Shipping & taxes calculated at checkout_
 
-Check Out • £0.00 GBP
+Check Out • $0.00 USD
 
 Privacy policy
 ==============
@@ -393,7 +393,7 @@ Learn
 
 ### Stay in touch.
 
-[Facebook](https://www.facebook.com/ZakDesigns/ "Facebook") [Twitter](https://twitter.com/zak_designs "Twitter") [Tiktok](https://www.tiktok.com/@zak.designs? "Tiktok") [Pinterest](https://www.pinterest.com/zakdesigns/_created/ "Pinterest") [Instagram](https://www.instagram.com/zakdesigns/ "Instagram") [Linkedin](https://www.linkedin.com/company/zak-designs/ "Linkedin") [YouTube](https://www.youtube.com/c/ZakDesigns1 "YouTube")[![Zak! Amazon](//www.zak.com/cdn/shop/files/amazon-blue-410.png?v=1676676646&width=18) Zak! Amazon](https://www.amazon.com/zakdesigns "Zak! Amazon")
+[Facebook](https://www.facebook.com/ZakDesigns/ "Facebook") [Twitter](https://twitter.com/zak_designs "Twitter") [Tiktok](https://www.tiktok.com/@zak.designs? "Tiktok") [Pinterest](https://www.pinterest.com/zakdesigns/_created/ "Pinterest") [Instagram](https://www.instagram.com/zakdesigns/ "Instagram") [Linkedin](https://www.linkedin.com/company/zak-designs/ "Linkedin") [YouTube](https://www.youtube.com/c/ZakDesigns1 "YouTube") [![Zak! Amazon](//www.zak.com/cdn/shop/files/amazon-blue-410.png?v=1676676646&width=18)](https://www.amazon.com/zakdesigns "Zak! Amazon")
 
 © [zak.com](https://www.zak.com/) 2024 [Accessibility](#) [Terms of Use](https://www.zak.com/policies/terms-of-service) [Privacy Policy](https://www.zak.com/policies/privacy-policy) [Do not sell or share my personal information](https://www.zak.com/pages/ccpa-opt-out)
 
