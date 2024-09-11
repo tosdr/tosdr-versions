@@ -1,5 +1,5 @@
 ![](https://www.facebook.com/tr?id=1957480987838725&ev=PageView
-&noscript=1)   
+&noscript=1)     
 
 [![Sync.com](/assets-images/sync_logo.svg)](https://www.sync.com/) [Sign up free](https://www.sync.com/free-cloud-storage/)
 
@@ -77,7 +77,7 @@ In order to make the use of Services the best experience it can be, and protect 
 15. alter, modify or attempt to circumvent any disabling or security mechanisms that may be included in the Services; or
 16. overload the Services, computer system or network by uploading an excessive or disproportionate amount of data or content.
 
-Sync may immediately terminate Your Account should it discover that You or someone using Your account has engaged in any of the prohibited activity listed above.
+Sync may immediately terminate, suspend, and/or take other mitigating actions regarding Your Account should it discover that You or someone using Your account has engaged in any of the prohibited activity listed above.
 
 ### 4\. Your Data
 
@@ -147,7 +147,7 @@ These Terms constitute the entire and exclusive Agreement between You and Sync w
 
 * * *
 
-This file was last modified on October 24, 2022
+This file was last modified on August 9, 2024
 
 #### Company
 
