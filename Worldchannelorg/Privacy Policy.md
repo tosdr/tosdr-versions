@@ -8,7 +8,7 @@
 * [Donate](https://worldchannel.org/donate/form)
 * [Who We Are](https://worldchannel.org/about/)
 
-[![](/static/images/logo-world-channel.png)](https://worldchannel.org/)[Set Station
+[![World channel - Home](/static/images/logo-world-channel.png)](https://worldchannel.org/)[Set Station
 
 Set Station](https://worldchannel.org/localization/)
 
@@ -20,7 +20,7 @@ Set Station](https://worldchannel.org/localization/)
 * [Press](https://worldchannel.org/news)
 *  
     
-    ![](/static/images/btn-search.svg)
+    ![Search](/static/images/btn-search.svg)
 
  
 
@@ -302,7 +302,7 @@ Connect
 Funding Provided by
 -------------------
 
- [![](https://worldchannel.org/media/funder/icons/CPB_Horizontal_Blue_transparent.png)](http://www.cpb.org/)[![](https://worldchannel.org/media/funder/icons/MacArth_primary_logo_stacked_copy_LHfEDYE.png)](https://www.macfound.org/)[![](https://worldchannel.org/media/funder/icons/logo-wyncote-foundation.png)](https://www.wyncotefoundation.org/)
+ [![Corporation for Public Broadcasting - Home](https://worldchannel.org/media/funder/icons/CPB_Horizontal_Blue_transparent.png)](http://www.cpb.org/)[![MacArthur Foundation - Home](https://worldchannel.org/media/funder/icons/MacArth_primary_logo_stacked_copy_LHfEDYE.png)](https://www.macfound.org/)[![Wyncote Foundation - Home](https://worldchannel.org/media/funder/icons/logo-wyncote-foundation.png)](https://www.wyncotefoundation.org/)
 
 WGBH is not responsible for the content of external sites. ©2024 [WGBH Educational Foundation](http://www.wgbh.org/)
 
