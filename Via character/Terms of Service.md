@@ -1,3 +1,5 @@
+Save 20% on personalized strengths resources with code **STRENGTHS20** _(books, CSI course & bulk orders excluded)_
+
 [Sign in](https://www.viacharacter.org/account/login)
 
 [0](https://www.viacharacter.org/combinedstore/shoppingcart)
@@ -43,9 +45,10 @@ Menu
     * For Educators ▾
     * [Strengths-Based Education at VIA](https://www.viacharacter.org/programs/thriving-learning-communities)
     
-* [Wellbeing Insights](https://www.viacharacter.org/topics)
+* [Wellbeing](https://www.viacharacter.org/topics)
     
     * [All Topics](https://www.viacharacter.org/topics)
+    * [Viana AI Strengths Coach](https://www.viacharacter.org/viana-wellbeing-advisor)
     * Resources ▾
     * [Activities](https://www.viacharacter.org/resources/activities)
     * [Books](https://www.viacharacter.org/resources/books)
@@ -151,7 +154,29 @@ Disclosure: Some VIA website pages contain affiliate links. We may receive a sma
 
 **Refund Policy**: If you are not satisfied with your purchase, you may request a refund. Eligibility of refunds are issued based on product purchased and must be requested within the timeframe noted below. Please email [info@viacharacter.org](mailto:info@viacharacter.org) with your request, noting the product purchased, email of your VIA account and reason for refund. All refunds will be processed through your original payment method. Please contact your payment provider with questions about when your credit will appear on your account after refund is issued by VIA Institute on Character. Please allow 3-4 business days for our customer service to respond to your request. Hours of operation: Monday- Friday, 8:00 a.m. – 5:00 p.m. EST
 
-**Reports/Report Code:** 60 days from Date of Purchase. **On Demand Courses:** 30 days from Date of Purchase. **Mindfulness Based Strengths Program (MBSP) Live:** If unable to attend due to unforeseen circumstances, 14 days from start date of course. **MBSP Certification:** 180 days from Date of Purchase, if have not attended any sessions or certification activities.
+**Reports/Report Code:** 60 days from Date of Purchase.
+
+**On Demand Courses:** 30 days from Date of Purchase.
+
+* SEL Lessons Subscriptions
+* Professonal Learnng for Educators (_Both Individual & Bundles_)
+* Workplaces at Their Best for Individuals (_Excludes Learning Path_)
+
+**Mindfulness Based Strengths Program (MBSP) Live:** If unable to attend due to unforeseen circumstances, 14 days from start date of course.
+
+**MBSP Certification:** 180 days from Date of Purchase, if have not attended any sessions or certification activities.
+
+**Workplaces at Their Best Learning Paths:** 30 days from Date of Purchase.
+
+* Individuals
+* Organizations
+* Consultants
+
+**Workplaces at Their Best Certifications:** 30 days from Date of Purchase.
+
+* Individuals
+* Organizations
+* Consultants
 
 ![VIA Institute On Character](https://static.viacharacter.org/web/via_brandmark.png)
 
@@ -167,7 +192,7 @@ The practice of well-being.
 * [Donate](https://www.viacharacter.org/about/donate)
 
 * [](https://www.facebook.com/VIAstrengths/)
-* [](https://twitter.com/VIAstrengths)
+* [](https://www.instagram.com/viastrengths/)
 * [](https://www.youtube.com/user/VIAStrengths)
 * [](https://www.linkedin.com/company/via-institute-on-character)
 
@@ -175,8 +200,6 @@ The practice of well-being.
 
 * [Terms of Service](https://www.viacharacter.org/terms-of-service)
 * [Privacy Policy](https://www.viacharacter.org/privacy-policy)
-
-Affiliate disclosure: As an Amazon Associate, we may earn commission from qualifying purchases from [Amazon.com](https://www.amazon.com/)
 
 ![Contentful](https://static.viacharacter.org/web/contentful.webp)
 
