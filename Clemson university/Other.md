@@ -579,7 +579,7 @@ If you have any questions about Clemson University’s privacy statements, pleas
 
 ### Policy
 
-* [Accessibility](https://www.clemson.edu/accessibility)
+* [Web Accessibility](https://www.clemson.edu/accessibility.html)
 * [Title IX](https://www.clemson.edu/campus-life/campus-services/access/title-ix/)
 * [Non-Discrimination & Anti-Harassment Policy](https://clemsonpub.cfmnetwork.com/B.aspx?BookId=10889&PageId=453045)
 * [Ethics/Safety Hotline](https://www.clemson.edu/administration/internalaudit/ethicsline.html)
