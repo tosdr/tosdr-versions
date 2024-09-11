@@ -4,7 +4,7 @@
 
 Go back
 
-[Home](https://app.thestorygraph.com/) [Reading Challenges](https://app.thestorygraph.com/reading_challenges) [Community](https://app.thestorygraph.com/news-feed) [Giveaways](https://app.thestorygraph.com/giveaways) [Sign in](https://app.thestorygraph.com/users/sign_in)
+[Explore](https://app.thestorygraph.com/browse) [Challenges](https://app.thestorygraph.com/reading_challenges) [Community](https://app.thestorygraph.com/news-feed) [Giveaways](https://app.thestorygraph.com/giveaways) [Sign in](https://app.thestorygraph.com/users/sign_in)
 
 Search
 
@@ -12,7 +12,7 @@ Clear search input
 
 Open main menu
 
-[Home](https://app.thestorygraph.com/) [Reading Challenges](https://app.thestorygraph.com/reading_challenges) [Community](https://app.thestorygraph.com/news-feed) [Giveaways](https://app.thestorygraph.com/giveaways) [Sign in](https://app.thestorygraph.com/users/sign_in)
+[Explore](https://app.thestorygraph.com/browse) [Challenges](https://app.thestorygraph.com/reading_challenges) [Community](https://app.thestorygraph.com/news-feed) [Giveaways](https://app.thestorygraph.com/giveaways) [Sign in](https://app.thestorygraph.com/users/sign_in)
 
 [Contact us](https://app.thestorygraph.com/contact-us)
 
