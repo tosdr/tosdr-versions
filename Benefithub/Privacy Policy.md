@@ -22,6 +22,7 @@
     * [Careers](https://www.benefithub.com/about-benefithub/careers)
     * [Global Presence](https://www.benefithub.com/about-benefithub#GlobalPresence)
     * [News](https://www.benefithub.com/news)
+    * [Celebrating 25 Years](https://www.benefithub.com/25th-anniversary)
 * [Partner With Us](https://www.benefithub.com/benefithub-partnership) [ ] 
     * [Benefits Broker](https://www.benefithub.com/partner-with-benefithub/benefits-broker)
     * [Merchant Partner](https://www.benefithub.com/partner-with-benefithub/merchant-partner)
