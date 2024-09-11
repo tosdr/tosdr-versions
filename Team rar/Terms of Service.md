@@ -240,7 +240,7 @@ Sign Up
 Currency
 --------
 
-GBP £
+USD $
 
 * [AED د.إ](#)
 * [AFN ؋](#)
@@ -401,7 +401,7 @@ Discounts
 
 Subtotal
 
-£0.00
+$0.00
 
 Shipping, taxes, and discount codes calculated at checkout.
 
