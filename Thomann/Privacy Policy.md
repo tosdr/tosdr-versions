@@ -4,147 +4,147 @@
 
 Join Thomann's Anniversary! We reward your loyalty with special offers! Get your deals
 
-Get your deals](https://www.thomann.de/gb/social_70th-anniversary.html)
+Get your deals](https://www.thomannmusic.com/social_70th-anniversary.html)
 
-* [Service](https://www.thomann.de/gb/helpdesk_service.html)
+* [Service](https://www.thomannmusic.com/helpdesk_service.html)
 * [Contact us](https://www.thomann.de/intl/compinfo_contact.html)
-* [About Us](https://www.thomann.de/gb/compinfo.html)
+* [About Us](https://www.thomannmusic.com/compinfo.html)
 
 * [Categories](#)
-* [Hot Deals](https://www.thomann.de/gb/hotdeals.html)
-* [New](https://www.thomann.de/gb/prodnews.html)
-* [Top-Seller](https://www.thomann.de/gb/topseller.html)
-* [Bargains](https://www.thomann.de/gb/blowouts.html)
+* [Hot Deals](https://www.thomannmusic.com/hotdeals.html)
+* [New](https://www.thomannmusic.com/prodnews.html)
+* [Top-Seller](https://www.thomannmusic.com/topseller.html)
+* [Bargains](https://www.thomannmusic.com/blowouts.html)
 
-[![Thomann](https://fast-images.static-thomann.de/pics//images/logos/thomann-cyan-black.svg)](https://www.thomann.de/gb/index.html)
+[![Thomann](https://images.static-thomann.de/pics//images/logos/thomann-cyan-black.svg)](https://www.thomannmusic.com/)
 
 search  
 
-* [Free Shipping Over £149](https://www.thomann.de/gb/helpdesk_shipping.html)
-* [Satisfaction Guarantee](https://www.thomann.de/gb/helpdesk_satisfaction.html)
+* [Repair Service](https://www.thomannmusic.com/helpdesk_repair.html)
+* [Payment Security](https://www.thomannmusic.com/helpdesk_paymentsecurity.html)
 
-en · £
+en · $
 
-![gb](https://fast-images.static-thomann.de/pics//images/common/flags/gb.svg)
+![us](https://images.static-thomann.de/pics//images/common/flags/us.svg)
 
-[customer-center](https://www.thomann.de/gb/mythomann.html)
+[customer-center](https://www.thomannmusic.com/mythomann.html)
 
-[wishlist](https://www.thomann.de/gb/wishlist.html)
+[wishlist](https://www.thomannmusic.com/wishlist.html)
 
-[basket basket basket](https://www.thomann.de/gb/basket.html)
+[basket basket basket](https://www.thomannmusic.com/basket.html)
 
-* [Guit/Bass](https://www.thomann.de/gb/guitars_and_basses.html)
-* [Drums](https://www.thomann.de/gb/drums_and_percussion.html)
-* [Keys](https://www.thomann.de/gb/keys.html)
-* [Studio](https://www.thomann.de/gb/studio_equipment.html)
-* [Software](https://www.thomann.de/gb/software.html)
-* [PA](https://www.thomann.de/gb/equipment_for_pa.html)
-* [Lighting](https://www.thomann.de/gb/lighting_and_stage.html)
-* [DJ](https://www.thomann.de/gb/dj_equipment.html)
-* [Video](https://www.thomann.de/gb/broadcast_video.html)
-* [Microphones](https://www.thomann.de/gb/microphones.html)
-* [Signal Proc.](https://www.thomann.de/gb/effects_and_signal_processors.html)
-* [Brass](https://www.thomann.de/gb/wind_instruments.html)
-* [Traditional](https://www.thomann.de/gb/traditional_instruments.html)
-* [Sheet](https://www.thomann.de/gb/sheetmusic_books_dvds.html)
-* [Cases](https://www.thomann.de/gb/cases_racks_bags.html)
-* [Cables](https://www.thomann.de/gb/cables_and_plugs.html)
-* [Accessories](https://www.thomann.de/gb/accessories.html)
+* [Guit/Bass](https://www.thomannmusic.com/guitars_and_basses.html)
+* [Drums](https://www.thomannmusic.com/drums_and_percussion.html)
+* [Keys](https://www.thomannmusic.com/keys.html)
+* [Studio](https://www.thomannmusic.com/studio_equipment.html)
+* [Software](https://www.thomannmusic.com/software.html)
+* [PA](https://www.thomannmusic.com/equipment_for_pa.html)
+* [Lighting](https://www.thomannmusic.com/lighting_and_stage.html)
+* [DJ](https://www.thomannmusic.com/dj_equipment.html)
+* [Video](https://www.thomannmusic.com/broadcast_video.html)
+* [Microphones](https://www.thomannmusic.com/microphones.html)
+* [Signal Proc.](https://www.thomannmusic.com/effects_and_signal_processors.html)
+* [Brass](https://www.thomannmusic.com/wind_instruments.html)
+* [Traditional](https://www.thomannmusic.com/traditional_instruments.html)
+* [Sheet](https://www.thomannmusic.com/sheetmusic_books_dvds.html)
+* [Cases](https://www.thomannmusic.com/cases_racks_bags.html)
+* [Cables](https://www.thomannmusic.com/cables_and_plugs.html)
+* [Accessories](https://www.thomannmusic.com/accessories.html)
 
 * Products
 * Service
 * About Us
 
-* [Guitars and Basses](https://www.thomann.de/gb/guitars_and_basses.html)
-* [Drums and Percussion](https://www.thomann.de/gb/drums_and_percussion.html)
-* [Keys](https://www.thomann.de/gb/keys.html)
-* [Studio and Recording Equipment](https://www.thomann.de/gb/studio_equipment.html)
-* [Software](https://www.thomann.de/gb/software.html)
-* [PA Equipment](https://www.thomann.de/gb/equipment_for_pa.html)
-* [Lighting and Stage](https://www.thomann.de/gb/lighting_and_stage.html)
-* [DJ Equipment](https://www.thomann.de/gb/dj_equipment.html)
-* [Broadcast & Video](https://www.thomann.de/gb/broadcast_video.html)
-* [Microphones](https://www.thomann.de/gb/microphones.html)
-* [Effect and Signal Processors](https://www.thomann.de/gb/effects_and_signal_processors.html)
-* [Wind Instruments](https://www.thomann.de/gb/wind_instruments.html)
-* [Traditional Instruments](https://www.thomann.de/gb/traditional_instruments.html)
-* [Sheet Music](https://www.thomann.de/gb/sheetmusic_books_dvds.html)
-* [Cases, Racks and Bags](https://www.thomann.de/gb/cases_racks_bags.html)
-* [Cables and Connectors](https://www.thomann.de/gb/cables_and_plugs.html)
-* [Accessories](https://www.thomann.de/gb/accessories.html)
+* [Guitars and Basses](https://www.thomannmusic.com/guitars_and_basses.html)
+* [Drums and Percussion](https://www.thomannmusic.com/drums_and_percussion.html)
+* [Keys](https://www.thomannmusic.com/keys.html)
+* [Studio and Recording Equipment](https://www.thomannmusic.com/studio_equipment.html)
+* [Software](https://www.thomannmusic.com/software.html)
+* [PA Equipment](https://www.thomannmusic.com/equipment_for_pa.html)
+* [Lighting and Stage](https://www.thomannmusic.com/lighting_and_stage.html)
+* [DJ Equipment](https://www.thomannmusic.com/dj_equipment.html)
+* [Broadcast & Video](https://www.thomannmusic.com/broadcast_video.html)
+* [Microphones](https://www.thomannmusic.com/microphones.html)
+* [Effect and Signal Processors](https://www.thomannmusic.com/effects_and_signal_processors.html)
+* [Wind Instruments](https://www.thomannmusic.com/wind_instruments.html)
+* [Traditional Instruments](https://www.thomannmusic.com/traditional_instruments.html)
+* [Sheet Music](https://www.thomannmusic.com/sheetmusic_books_dvds.html)
+* [Cases, Racks and Bags](https://www.thomannmusic.com/cases_racks_bags.html)
+* [Cables and Connectors](https://www.thomannmusic.com/cables_and_plugs.html)
+* [Accessories](https://www.thomannmusic.com/accessories.html)
 
-* [Hot Deals](https://www.thomann.de/gb/hotdeals.html)
-* [New Products](https://www.thomann.de/gb/prodnews.html)
-* [Top Sellers](https://www.thomann.de/gb/topseller.html)
-* [Bargains](https://www.thomann.de/gb/blowouts.html)
+* [Hot Deals](https://www.thomannmusic.com/hotdeals.html)
+* [New Products](https://www.thomannmusic.com/prodnews.html)
+* [Top Sellers](https://www.thomannmusic.com/topseller.html)
+* [Bargains](https://www.thomannmusic.com/blowouts.html)
 
-* [Gift voucher](https://www.thomann.de/gb/gift_voucher.html)
+* [Gift voucher](https://www.thomannmusic.com/gift_voucher.html)
 
-* [Overview](https://www.thomann.de/gb/helpdesk_service.html)
-* [Contact us](https://www.thomann.de/gb/compinfo_contact.html)
-* [Frequently asked questions](https://www.thomann.de/gb/helpdesk.html)
-* [Newsletter](https://www.thomann.de/gb/newsletter.html)
-* [Shipping Costs and Delivery Times](https://www.thomann.de/gb/helpdesk_shipping.html)
-* [Maintenance and repair](https://www.thomann.de/gb/helpdesk_repair.html)
-* [Fret alignment – with PLEK](https://www.thomann.de/gb/helpdesk_plek.html)
-* [Return Product](https://www.thomann.de/gb/mythomann_retoure.html)
+* [Overview](https://www.thomannmusic.com/helpdesk_service.html)
+* [Contact us](https://www.thomannmusic.com/compinfo_contact.html)
+* [Frequently asked questions](https://www.thomannmusic.com/helpdesk.html)
+* [Newsletter](https://www.thomannmusic.com/newsletter.html)
+* [Shipping Costs and Delivery Times](https://www.thomannmusic.com/helpdesk_shipping.html)
+* [Maintenance and repair](https://www.thomannmusic.com/helpdesk_repair.html)
+* [Fret alignment – with PLEK](https://www.thomannmusic.com/helpdesk_plek.html)
+* [Return Product](https://www.thomannmusic.com/mythomann_retoure.html)
 * [Our added values](#)
-* [The Thomann App](https://www.thomann.de/gb/compinfo_thomannapp.html)
-* [Wallpapers](https://www.thomann.de/gb/browse_wallpapers.html)
+* [The Thomann App](https://www.thomannmusic.com/compinfo_thomannapp.html)
+* [Wallpapers](https://www.thomannmusic.com/browse_wallpapers.html)
 
-* [Guides](https://www.thomann.de/gb/onlineexpert.html)
-* [Classified Ads](https://www.thomann.de/gb/classified.html)
+* [Guides](https://www.thomannmusic.com/onlineexpert.html)
+* [Classified Ads](https://www.thomannmusic.com/classified.html)
 
 Our added values
 
-* [30-Day Money-Back Guarantee](https://www.thomann.de/gb/helpdesk_moneyback.html)
-* [3-Year Warranty](https://www.thomann.de/gb/helpdesk_warranty.html)
-* [Satisfaction guarantee](https://www.thomann.de/gb/helpdesk_satisfaction.html)
-* [Highest Payment Security](https://www.thomann.de/gb/helpdesk_paymentsecurity.html)
-* [Europe's biggest mail dispatch warehouse](https://www.thomann.de/gb/helpdesk_warehouse.html)
+* [30-Day Money-Back Guarantee](https://www.thomannmusic.com/helpdesk_moneyback.html)
+* [3-Year Warranty](https://www.thomannmusic.com/helpdesk_warranty.html)
+* [Satisfaction guarantee](https://www.thomannmusic.com/helpdesk_satisfaction.html)
+* [Highest Payment Security](https://www.thomannmusic.com/helpdesk_paymentsecurity.html)
+* [Europe's biggest mail dispatch warehouse](https://www.thomannmusic.com/helpdesk_warehouse.html)
 
 * [Information about Thomann](#)
 * [Our Specialist Departments](#)
-* [Thomann Universe](https://www.thomann.de/gb/compinfo_thomannuniverse.html)
+* [Thomann Universe](https://www.thomannmusic.com/compinfo_thomannuniverse.html)
 * [Fine Print](#)
 
 Information about Thomann
 
-* [Thomann, Hans Thomann](https://www.thomann.de/gb/compinfo.html)
-* [Our Company Story](https://www.thomann.de/gb/compinfo_history.html)
-* [Directions to Thomann](https://www.thomann.de/gb/compinfo_route.html)
-* [Thomann Exclusive Products](https://www.thomann.de/gb/thomannexclusive.html)
-* [Careers](https://www.thomann.de/gb/compinfo_youatthomann.html)
-* [Awards and Prizes](https://www.thomann.de/gb/compinfo_awards.html)
-* [Thomann and the environment](https://www.thomann.de/gb/compinfo_environment.html)
-* [Information on CITES](https://www.thomann.de/gb/compinfo_cites.html)
-* [Stars for Thomann](https://www.thomann.de/gb/compinfo_reviews.html)
+* [Thomann, Hans Thomann](https://www.thomannmusic.com/compinfo.html)
+* [Our Company Story](https://www.thomannmusic.com/compinfo_history.html)
+* [Directions to Thomann](https://www.thomannmusic.com/compinfo_route.html)
+* [Thomann Exclusive Products](https://www.thomannmusic.com/thomannexclusive.html)
+* [Careers](https://www.thomannmusic.com/compinfo_youatthomann.html)
+* [Awards and Prizes](https://www.thomannmusic.com/compinfo_awards.html)
+* [Thomann and the environment](https://www.thomannmusic.com/compinfo_environment.html)
+* [Information on CITES](https://www.thomannmusic.com/compinfo_cites.html)
+* [Stars for Thomann](https://www.thomannmusic.com/compinfo_reviews.html)
 
 Our Specialist Departments
 
-* [PA Department](https://www.thomann.de/gb/compinfo_tour_20.html)
-* [Brass Department](https://www.thomann.de/gb/compinfo_tour_2.html)
-* [DJ Equipment](https://www.thomann.de/gb/compinfo_tour_60.html)
-* [Guitar Department](https://www.thomann.de/gb/compinfo_tour_11.html)
-* [Keyboards](https://www.thomann.de/gb/compinfo_tour_12.html)
-* [Piano Department](https://www.thomann.de/gb/compinfo_tour_14.html)
-* [Headphones](https://www.thomann.de/gb/compinfo_tour_74.html)
-* [Lighting Department](https://www.thomann.de/gb/compinfo_tour_16.html)
-* [Sheet Music](https://www.thomann.de/gb/compinfo_tour_19.html)
-* [Classic Drums](https://www.thomann.de/gb/compinfo_tour_36.html)
-* [Drum Department](https://www.thomann.de/gb/compinfo_tour_6.html)
-* [Strings Department](https://www.thomann.de/gb/compinfo_tour_27.html)
-* [Studio/Synth/Computer Department](https://www.thomann.de/gb/compinfo_tour_22.html)
+* [PA Department](https://www.thomannmusic.com/compinfo_tour_20.html)
+* [Brass Department](https://www.thomannmusic.com/compinfo_tour_2.html)
+* [DJ Equipment](https://www.thomannmusic.com/compinfo_tour_60.html)
+* [Guitar Department](https://www.thomannmusic.com/compinfo_tour_11.html)
+* [Keyboards](https://www.thomannmusic.com/compinfo_tour_12.html)
+* [Piano Department](https://www.thomannmusic.com/compinfo_tour_14.html)
+* [Headphones](https://www.thomannmusic.com/compinfo_tour_74.html)
+* [Lighting Department](https://www.thomannmusic.com/compinfo_tour_16.html)
+* [Sheet Music](https://www.thomannmusic.com/compinfo_tour_19.html)
+* [Classic Drums](https://www.thomannmusic.com/compinfo_tour_36.html)
+* [Drum Department](https://www.thomannmusic.com/compinfo_tour_6.html)
+* [Strings Department](https://www.thomannmusic.com/compinfo_tour_27.html)
+* [Studio/Synth/Computer Department](https://www.thomannmusic.com/compinfo_tour_22.html)
 
 Fine Print
 
-* [Terms and conditions](https://www.thomann.de/gb/compinfo_terms.html)
-* [Imprint](https://www.thomann.de/gb/compinfo_imprint.html)
-* [Data privacy policy](https://www.thomann.de/gb/compinfo_privacy.html)
-* [Right of withdrawal](https://www.thomann.de/gb/compinfo_cancellation.html)
-* [Ordering / legal info](https://www.thomann.de/gb/compinfo_orders.html)
-* [Warranty for defects](https://www.thomann.de/gb/compinfo_liability.html)
-* [Whistleblower system](https://www.thomann.de/gb/compinfo_compliance.html)
+* [Terms and conditions](https://www.thomannmusic.com/compinfo_terms.html)
+* [Imprint](https://www.thomannmusic.com/compinfo_imprint.html)
+* [Data privacy policy](https://www.thomannmusic.com/compinfo_privacy.html)
+* [Right of withdrawal](https://www.thomannmusic.com/compinfo_cancellation.html)
+* [Ordering / legal info](https://www.thomannmusic.com/compinfo_orders.html)
+* [Warranty for defects](https://www.thomannmusic.com/compinfo_liability.html)
+* [Whistleblower system](https://www.thomannmusic.com/compinfo_compliance.html)
 
 Customer Centre login
 
@@ -153,38 +153,38 @@ Country and Language
 Energy Efficiency Class
 
 * [Information about Thomann](#)
-    * [Thomann, Hans Thomann](https://www.thomann.de/gb/compinfo.html)
-    * [Our Company Story](https://www.thomann.de/gb/compinfo_history.html)
-    * [Directions to Thomann](https://www.thomann.de/gb/compinfo_route.html)
-    * [Thomann Exclusive Products](https://www.thomann.de/gb/thomannexclusive.html)
-    * [Careers](https://www.thomann.de/gb/compinfo_youatthomann.html)
-    * [Awards and Prizes](https://www.thomann.de/gb/compinfo_awards.html)
-    * [Thomann and the environment](https://www.thomann.de/gb/compinfo_environment.html)
-    * [Information on CITES](https://www.thomann.de/gb/compinfo_cites.html)
-    * [Stars for Thomann](https://www.thomann.de/gb/compinfo_reviews.html)
+    * [Thomann, Hans Thomann](https://www.thomannmusic.com/compinfo.html)
+    * [Our Company Story](https://www.thomannmusic.com/compinfo_history.html)
+    * [Directions to Thomann](https://www.thomannmusic.com/compinfo_route.html)
+    * [Thomann Exclusive Products](https://www.thomannmusic.com/thomannexclusive.html)
+    * [Careers](https://www.thomannmusic.com/compinfo_youatthomann.html)
+    * [Awards and Prizes](https://www.thomannmusic.com/compinfo_awards.html)
+    * [Thomann and the environment](https://www.thomannmusic.com/compinfo_environment.html)
+    * [Information on CITES](https://www.thomannmusic.com/compinfo_cites.html)
+    * [Stars for Thomann](https://www.thomannmusic.com/compinfo_reviews.html)
 * [Our Specialist Departments](#)
-    * [PA Department](https://www.thomann.de/gb/compinfo_tour_20.html)
-    * [Brass Department](https://www.thomann.de/gb/compinfo_tour_2.html)
-    * [DJ Equipment](https://www.thomann.de/gb/compinfo_tour_60.html)
-    * [Guitar Department](https://www.thomann.de/gb/compinfo_tour_11.html)
-    * [Keyboards](https://www.thomann.de/gb/compinfo_tour_12.html)
-    * [Piano Department](https://www.thomann.de/gb/compinfo_tour_14.html)
-    * [Headphones](https://www.thomann.de/gb/compinfo_tour_74.html)
-    * [Lighting Department](https://www.thomann.de/gb/compinfo_tour_16.html)
-    * [Sheet Music](https://www.thomann.de/gb/compinfo_tour_19.html)
-    * [Classic Drums](https://www.thomann.de/gb/compinfo_tour_36.html)
-    * [Drum Department](https://www.thomann.de/gb/compinfo_tour_6.html)
-    * [Strings Department](https://www.thomann.de/gb/compinfo_tour_27.html)
-    * [Studio/Synth/Computer Department](https://www.thomann.de/gb/compinfo_tour_22.html)
-* [Thomann Universe](https://www.thomann.de/gb/compinfo_thomannuniverse.html)
+    * [PA Department](https://www.thomannmusic.com/compinfo_tour_20.html)
+    * [Brass Department](https://www.thomannmusic.com/compinfo_tour_2.html)
+    * [DJ Equipment](https://www.thomannmusic.com/compinfo_tour_60.html)
+    * [Guitar Department](https://www.thomannmusic.com/compinfo_tour_11.html)
+    * [Keyboards](https://www.thomannmusic.com/compinfo_tour_12.html)
+    * [Piano Department](https://www.thomannmusic.com/compinfo_tour_14.html)
+    * [Headphones](https://www.thomannmusic.com/compinfo_tour_74.html)
+    * [Lighting Department](https://www.thomannmusic.com/compinfo_tour_16.html)
+    * [Sheet Music](https://www.thomannmusic.com/compinfo_tour_19.html)
+    * [Classic Drums](https://www.thomannmusic.com/compinfo_tour_36.html)
+    * [Drum Department](https://www.thomannmusic.com/compinfo_tour_6.html)
+    * [Strings Department](https://www.thomannmusic.com/compinfo_tour_27.html)
+    * [Studio/Synth/Computer Department](https://www.thomannmusic.com/compinfo_tour_22.html)
+* [Thomann Universe](https://www.thomannmusic.com/compinfo_thomannuniverse.html)
 * [Fine Print](#)
-    * [Terms and conditions](https://www.thomann.de/gb/compinfo_terms.html)
-    * [Imprint](https://www.thomann.de/gb/compinfo_imprint.html)
-    * [Data privacy policy](https://www.thomann.de/gb/compinfo_privacy.html)
-    * [Right of withdrawal](https://www.thomann.de/gb/compinfo_cancellation.html)
-    * [Ordering / legal info](https://www.thomann.de/gb/compinfo_orders.html)
-    * [Warranty for defects](https://www.thomann.de/gb/compinfo_liability.html)
-    * [Whistleblower system](https://www.thomann.de/gb/compinfo_compliance.html)
+    * [Terms and conditions](https://www.thomannmusic.com/compinfo_terms.html)
+    * [Imprint](https://www.thomannmusic.com/compinfo_imprint.html)
+    * [Data privacy policy](https://www.thomannmusic.com/compinfo_privacy.html)
+    * [Right of withdrawal](https://www.thomannmusic.com/compinfo_cancellation.html)
+    * [Ordering / legal info](https://www.thomannmusic.com/compinfo_orders.html)
+    * [Warranty for defects](https://www.thomannmusic.com/compinfo_liability.html)
+    * [Whistleblower system](https://www.thomannmusic.com/compinfo_compliance.html)
 
 Privacy Notice
 ==============
@@ -714,13 +714,23 @@ Give Feedback
 
 Your Feedback
 
-  ![newsletter](https://fast-images.static-thomann.de/pics/images/misc/placeholder.svg)Looking for inspiration, new gear and deals? Subscribe to the Thomann Newsletter and with a bit of luck win one of 70 vouchers worth €70 each! [Sign up now](https://www.thomann.de/gb/newsletter.html)
+ ![newsletter](https://images.static-thomann.de/pics/images/misc/placeholder.svg)
+
+### Thomann Newsletter
+
+Subscribe to the Thomann Newsletter and with a bit of luck win one of 70 vouchers worth €70 each!
+
+* check Inspirational contributions
+* check Deals
+* check Thomann Insights
+
+By clicking on "Sign up now", you agree to receiving e-mail advertising. You can unsubscribe at any time. You can find further information on the newsletter in our [data protection guideline](https://www.thomannmusic.com/compinfo_privacy.html#privacy_newsletter).
 
 #### Shop and pay safely
 
-[](https://www.thomann.de/gb/helpdesk_paymentmethods.html)
+[](https://www.thomannmusic.com/helpdesk_paymentmethods.html)
 
-Payment can be made safely and securely with PayPal, Credit Card or Bank Transfer.
+Payment can be made safely and securely with PayPal, Amazon Pay, Credit Card or Bank Transfer.
 
 #### Your benefits
 
@@ -747,9 +757,9 @@ Payment can be made safely and securely with PayPal, Credit Card or Bank Transfe
 * [Online Ordering Process](https://www.thomann.de/intl/compinfo_orders.html)
 * [Statutory Warranty Rights](https://www.thomann.de/intl/compinfo_liability.html)
 
-[](https://www.facebook.com/Thomann-International-1381235922177962 "Facebook")[](https://www.youtube.com/channel/UCxcO3VWjuUlX7mQV_f5cMhg "YouTube")[](https://instagram.com/thomann.music/ "Instagram")
+[](https://www.facebook.com/Thomann-International-1381235922177962)[](https://www.youtube.com/channel/UCxcO3VWjuUlX7mQV_f5cMhg)[](https://instagram.com/thomann.music/)
 
-[](https://www.twitter.com/thomann "Twitter")[](https://www.pinterest.com/thomannde/ "Pinterest")[](https://www.tiktok.com/@thomann.music "Tiktok")
+[](https://www.twitter.com/thomann)[](https://www.pinterest.com/thomannde/)[](https://www.tiktok.com/@thomann.music)
 
 * [About Us](https://www.thomann.de/intl/compinfo.html)
 * [Jobs & Careers](https://www.thomann.de/intl/compinfo_youatthomann.html)
@@ -757,7 +767,7 @@ Payment can be made safely and securely with PayPal, Credit Card or Bank Transfe
 * [Classified Ads](https://www.thomann.de/intl/classified.html)
 * [Whistleblower system](https://www.thomann.de/intl/compinfo_compliance.html)
 
- [![](https://thumbs.static-thomann.de/thumb//convert/pics/images/footer/download-app-store.svg)](https://apps.apple.com/gb/app/id1035256782)[![](https://thumbs.static-thomann.de/thumb//convert/pics/images/footer/download-google-play.svg)](https://play.google.com/store/apps/details?id=de.thomann)
+ [![Our app in the App Store.](https://thumbs.static-thomann.de/thumb//convert/pics/images/footer/download-app-store.svg)](https://apps.apple.com/us/app/id1035256782)[![Our app on Google Play.](https://thumbs.static-thomann.de/thumb//convert/pics/images/footer/download-google-play.svg)](https://play.google.com/store/apps/details?id=de.thomann)
 
 © 1996–2024 Thomann GmbH.
 
