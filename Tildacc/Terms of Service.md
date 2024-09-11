@@ -507,7 +507,7 @@ As part of the creation and use of Projects, the User is prohibited to:
 
 1) is aimed at committing fraudulent or other illegal actions (including actions committed by impersonating another person);
 
-2) does not correspond to reality regarding its involvement with the Administration, its affiliates, partners, as well as the copyright holder of the Platform;
+2) does not correspond to reality regarding its involvement with the Administration, its affiliates and partners;
 
 3) is an offer to participate in financial pyramids, multi-level (network) marketing (MLM), Internet earnings systems, online businesses and other forms of quick enrichment;
 
@@ -819,13 +819,13 @@ If the User’s Projects process personal data of individuals, the Administratio
 
 9\. Intellectual Property
 
-9.1. Rights to the Platform. The Platform, including all its constituent elements (program code (including html code), software, databases, design layouts, logos, trademarks, texts, Libraries, Blocks and Templates, etc.), except for Services of third parties, is provided to the Administration under a license from the copyright holder of the Platform, who has all exclusive rights in relation to the Platform and all its elements.  
+9.1. Rights to the Platform. The Platform, including all its constituent elements (program code (including html code), software, databases, design layouts, logos, trademarks, texts, Libraries, Blocks and Templates, etc.), except for Services of third parties, is provided to the Administration under a license from the copyright holder of the Platform, who has all exclusive rights in relation to the Platform and all its elements  
   
 The Administration represents and guarantees that it has all the necessary rights to provide the User with a non-exclusive license to use the Platform in the manner provided for in this Agreement.  
   
 The non-exclusive license granted under this Agreement is limited to the "right to use through remote access", and none of the provisions of the Agreement means transfer (alienation) to the User of the exclusive right to the Platform and its component parts. All rights to the Platform and its component parts not expressly granted to the User under this Agreement remain with the owner of the Platform.  
   
-No provisions of the Agreement grant the User the right to use the company name, trademarks, domain names and other distinctive signs of the Administration. The right to use a company name, trademarks, domain names and other distinctive signs and means of individualization of the Administration may be granted exclusively by written consent of the copyright holder.  
+No provisions of the Agreement grant the User the right to use the company name, trademarks, domain names and other distinctive signs of the Administration. The right to use a company name, trademarks, domain names and other distinctive signs and means of individualization of the Administration may be granted exclusively by written consent.  
   
 
 The use of the Platform and its component parts by any means and for any purposes not expressly permitted by the Agreement is prohibited. The Platform and its component parts may not be downloaded, copied, reproduced, distributed, broadcast, displayed, sold, licensed, or otherwise exploited for any purpose.
@@ -1060,7 +1060,7 @@ For legal issues: [legal@tilda.cc](mailto:legal@tilda.cc)
 
 To request financial documents: [docs@tilda.cc](mailto:docs@tilda.cc)
 
-_The current version of the Terms of Service is dated 12.07.2024_
+_The current version of the Terms of Service is dated 30.08.2024_
 
 The website you've been dreaming of is just one click away
 
@@ -1075,6 +1075,7 @@ PLATFORM
 [Website Examples](https://tilda.cc/madeontilda/)  
 [Blog](http://blog-en.tilda.cc/)  
 [Platform Overview](https://tilda.cc/lp/review/)  
+[Privacy & Security](https://tilda.cc/lp/security/)  
 [Media Kit](https://tilda.cc/mediakit/)  
 [Terms Of Service](https://tilda.cc/terms/)  
 [Privacy Policy](https://tilda.cc/privacy/)  
