@@ -1,5 +1,3 @@
-[![](https://therealnews.com/wp-content/uploads/2024/05/07-31-2024-27-24-1.jpg)](https://support.therealnews.com/-/XZHGBCKU)
-
 You're missing out.
 ===================
 
@@ -92,16 +90,16 @@ Follow Us
 Trending Posts
 --------------
 
-* [Israel's reckless escalations demand we honestly scrutinize Kamala Harris' Gaza position](https://therealnews.com/kamala-harris-israel-palestine-gaza-hamas-hezbollah-iran-lebanon-election-ceasefire-assassination)
-* [Nicolás Maduro wins the presidential elections in Venezuela](https://therealnews.com/nicolas-maduro-wins-the-presidential-elections-in-venezuela)
+* [Is anyone in power responsible for anything?](https://therealnews.com/is-anyone-in-power-responsible-for-anything)
+* [Canada is ending Jewish National Fund’s charitable status](https://therealnews.com/canada-is-ending-jewish-national-funds-charitable-status)
+* ['Big L for Macron': The Paris Olympics were a political catastrophe](https://therealnews.com/big-l-for-macron-the-paris-olympics-were-a-political-catastrophe)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
-* [An 'Olympic problem': Advocates call out Paris's war on the homeless](https://therealnews.com/an-olympic-problem-advocates-call-out-pariss-war-on-the-homeless)
-* [Did Texas cops make this father a fugitive in retaliation for a police brutality lawsuit?](https://therealnews.com/did-texas-cops-make-this-father-a-fugitive-in-retaliation-for-a-police-brutality-lawsuit)
-* [The Supreme Court just made it easier to criminalize homelessness—and that's a win for the prison system](https://therealnews.com/the-supreme-court-just-made-it-easier-to-criminalize-homelessness-and-thats-a-win-for-the-prison-system)
-* [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
-* ['Social cleansing': Thousands of homeless swept up before Paris Olympics](https://therealnews.com/social-cleansing-hundreds-of-homeless-swept-up-before-paris-olympics)
-* [We asked 8 different Teamsters what they thought of Sean O'Brien's speech—their responses may surprise you](https://therealnews.com/we-asked-8-different-teamsters-what-they-thought-of-sean-obriens-speech-their-responses-may-surprise-you)
-* [French police arrest journalists covering anti-Olympics activism](https://therealnews.com/french-police-arrest-journalists-covering-anti-olympics-activism)
+* [Panama. US Invasion. | Under the Shadow, Episode 13](https://therealnews.com/panama-us-invasion-under-the-shadow-episode-13)
+* [First a violent arrest, then threats of the psych ward: A Utah woman's police horror story](https://therealnews.com/first-a-violent-arrest-then-threats-of-the-psych-ward-a-utah-womans-police-horror-story)
+* [As Democrats fold to GOP on border policy, immigrants pay the price](https://therealnews.com/as-democrats-fold-to-the-gop-immigrants-pay-the-price)
+* [Invest in housing, not prisons: California's war on the homeless](https://therealnews.com/invest-in-housing-not-prisons-californias-war-on-the-homeless)
+* [Black, conservative, and unapologetic: A deep dive with the Black women fighting to get Trump reelected](https://therealnews.com/black-conservative-and-unapologetic-a-deep-dive-with-the-black-women-fighting-to-get-trump-reelected)
+* ['A great day': workers at second southern auto industry plant join UAW](https://therealnews.com/a-great-day-workers-at-second-southern-auto-industry-plant-join-uaw)
 
 Close
 
@@ -156,16 +154,16 @@ Follow Us
 Trending Posts
 --------------
 
-* [Israel's reckless escalations demand we honestly scrutinize Kamala Harris' Gaza position](https://therealnews.com/kamala-harris-israel-palestine-gaza-hamas-hezbollah-iran-lebanon-election-ceasefire-assassination)
-* [Nicolás Maduro wins the presidential elections in Venezuela](https://therealnews.com/nicolas-maduro-wins-the-presidential-elections-in-venezuela)
+* [Is anyone in power responsible for anything?](https://therealnews.com/is-anyone-in-power-responsible-for-anything)
+* [Canada is ending Jewish National Fund’s charitable status](https://therealnews.com/canada-is-ending-jewish-national-funds-charitable-status)
+* ['Big L for Macron': The Paris Olympics were a political catastrophe](https://therealnews.com/big-l-for-macron-the-paris-olympics-were-a-political-catastrophe)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
-* [An 'Olympic problem': Advocates call out Paris's war on the homeless](https://therealnews.com/an-olympic-problem-advocates-call-out-pariss-war-on-the-homeless)
-* [Did Texas cops make this father a fugitive in retaliation for a police brutality lawsuit?](https://therealnews.com/did-texas-cops-make-this-father-a-fugitive-in-retaliation-for-a-police-brutality-lawsuit)
-* [The Supreme Court just made it easier to criminalize homelessness—and that's a win for the prison system](https://therealnews.com/the-supreme-court-just-made-it-easier-to-criminalize-homelessness-and-thats-a-win-for-the-prison-system)
-* [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
-* ['Social cleansing': Thousands of homeless swept up before Paris Olympics](https://therealnews.com/social-cleansing-hundreds-of-homeless-swept-up-before-paris-olympics)
-* [We asked 8 different Teamsters what they thought of Sean O'Brien's speech—their responses may surprise you](https://therealnews.com/we-asked-8-different-teamsters-what-they-thought-of-sean-obriens-speech-their-responses-may-surprise-you)
-* [French police arrest journalists covering anti-Olympics activism](https://therealnews.com/french-police-arrest-journalists-covering-anti-olympics-activism)
+* [Panama. US Invasion. | Under the Shadow, Episode 13](https://therealnews.com/panama-us-invasion-under-the-shadow-episode-13)
+* [First a violent arrest, then threats of the psych ward: A Utah woman's police horror story](https://therealnews.com/first-a-violent-arrest-then-threats-of-the-psych-ward-a-utah-womans-police-horror-story)
+* [As Democrats fold to GOP on border policy, immigrants pay the price](https://therealnews.com/as-democrats-fold-to-the-gop-immigrants-pay-the-price)
+* [Invest in housing, not prisons: California's war on the homeless](https://therealnews.com/invest-in-housing-not-prisons-californias-war-on-the-homeless)
+* [Black, conservative, and unapologetic: A deep dive with the Black women fighting to get Trump reelected](https://therealnews.com/black-conservative-and-unapologetic-a-deep-dive-with-the-black-women-fighting-to-get-trump-reelected)
+* ['A great day': workers at second southern auto industry plant join UAW](https://therealnews.com/a-great-day-workers-at-second-southern-auto-industry-plant-join-uaw)
 
 [Skip to content](#main)
 
@@ -217,7 +215,9 @@ Terms of use and privacy policy
 * [Click to share on Reddit (Opens in new window)](https://therealnews.com/termsandconditions?share=reddit "Click to share on Reddit")
 * [Click to email a link to a friend (Opens in new window)](mailto:?subject=%5BShared%20Post%5D%20Terms%20of%20use%20and%20privacy%20policy&body=https%3A%2F%2Ftherealnews.com%2Ftermsandconditions&share=email "Click to email a link to a friend")
 
-> In order to remain independent, we rely on donations from people like you who care about our work. If you value The Real News as a platform for movement-building journalism, [**please support us today!**](https://support.therealnews.com/-/XENGVKUH)
+> Reporting from the frontlines is the **heart of our mission**. As a TRNN viewer, you know the difference our coverage makes. Will you **[contribute today to help us continue providing in-depth, on-the-ground reporting](https://support.therealnews.com/-/XQCPXMQT)**?
+> 
+> [**YES! SIGN ME UP**](https://support.therealnews.com/-/XUCQHDZJ)
 
 If you continue to browse and use this website you are agreeing to comply with and be bound by the following terms and conditions of use, which together with our [privacy policy](https://therealnews.com/%22http://therealnews.com/web/index.php?thisdataswitch=0&thisid=417&thisview=item#privacy%22) govern _The Real News_ relationship with you in relation to this website.
 
@@ -300,20 +300,20 @@ If you are dissatisfied with _The Real News_‘s privacy policies or practices, 
 CHANGES TO THIS POLICY  
 _The Real News_ may periodically review all of its policies and procedures. We reserve the right to change our Privacy Policy from time to time.
 
-Summer is here! Help Fuel movement-building journalism by supporting TRNN today!
---------------------------------------------------------------------------------
+Help Fuel movement-building journalism by supporting TRNN today!
+----------------------------------------------------------------
 
 You know our operating funds come from individual gifts like yours—**no corporate money, paywalls, or ads.  
   
 Right now, The Real News faces a major financial shortfall.**
 
-This year has been tough, but we have faith in our supporters. We have plans to expand our on-the-ground coverage with reports from Palestine, Latin America, and Europe. We are going on the road to where the fight is.
+This year has been tough, but we have faith in our supporters. We have plans to expand our on-the-ground coverage with reports from Palestine, Latin America, and Europe. We will be covering the U.S. election. Keeping you plugged in with critical analysis of all the candidates. **We are going on the road to where the fight is.**
 
-Your support will enable us to cover **the RNC and DNC**, **the Paris Olympics, and more. It will ensure that we properly pay independent journalists for their vital work and that** **our team has the resources to do on the ground reporting.**
+Your support means the world to us**. It will ensure that we properly pay independent journalists for their vital work and that our team has the resources to do on-the-ground reporting.**
 
-In order to remain independent, we rely on donations from people like you who care about our work. If you value The Real News as a platform for movement-building journalism, please support us today!
+We rely on donations from people like you who care about our work to remain independent. If you value The Real News as a platform for **movement-building journalism**, please support us today!
 
-[**_Please consider making a tax-deductible donation today_**!](https://support.therealnews.com/-/XJAPLRXQ)
+[**_Please consider making a tax_**](https://support.therealnews.com/-/XJAPLRXQ)**_[\-](https://support.therealnews.com/-/XKDZPCRS)_**[**_deductible donation today_**!](https://support.therealnews.com/-/XJAPLRXQ)
 
 [](#XSNUXGAA)
 
@@ -353,16 +353,16 @@ Tagged: [video](https://therealnews.com/tag/video)
 Trending Posts
 --------------
 
-* [Israel's reckless escalations demand we honestly scrutinize Kamala Harris' Gaza position](https://therealnews.com/kamala-harris-israel-palestine-gaza-hamas-hezbollah-iran-lebanon-election-ceasefire-assassination)
-* [Nicolás Maduro wins the presidential elections in Venezuela](https://therealnews.com/nicolas-maduro-wins-the-presidential-elections-in-venezuela)
+* [Is anyone in power responsible for anything?](https://therealnews.com/is-anyone-in-power-responsible-for-anything)
+* [Canada is ending Jewish National Fund’s charitable status](https://therealnews.com/canada-is-ending-jewish-national-funds-charitable-status)
+* ['Big L for Macron': The Paris Olympics were a political catastrophe](https://therealnews.com/big-l-for-macron-the-paris-olympics-were-a-political-catastrophe)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
-* [An 'Olympic problem': Advocates call out Paris's war on the homeless](https://therealnews.com/an-olympic-problem-advocates-call-out-pariss-war-on-the-homeless)
-* [Did Texas cops make this father a fugitive in retaliation for a police brutality lawsuit?](https://therealnews.com/did-texas-cops-make-this-father-a-fugitive-in-retaliation-for-a-police-brutality-lawsuit)
-* [The Supreme Court just made it easier to criminalize homelessness—and that's a win for the prison system](https://therealnews.com/the-supreme-court-just-made-it-easier-to-criminalize-homelessness-and-thats-a-win-for-the-prison-system)
-* [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
-* ['Social cleansing': Thousands of homeless swept up before Paris Olympics](https://therealnews.com/social-cleansing-hundreds-of-homeless-swept-up-before-paris-olympics)
-* [We asked 8 different Teamsters what they thought of Sean O'Brien's speech—their responses may surprise you](https://therealnews.com/we-asked-8-different-teamsters-what-they-thought-of-sean-obriens-speech-their-responses-may-surprise-you)
-* [French police arrest journalists covering anti-Olympics activism](https://therealnews.com/french-police-arrest-journalists-covering-anti-olympics-activism)
+* [Panama. US Invasion. | Under the Shadow, Episode 13](https://therealnews.com/panama-us-invasion-under-the-shadow-episode-13)
+* [First a violent arrest, then threats of the psych ward: A Utah woman's police horror story](https://therealnews.com/first-a-violent-arrest-then-threats-of-the-psych-ward-a-utah-womans-police-horror-story)
+* [As Democrats fold to GOP on border policy, immigrants pay the price](https://therealnews.com/as-democrats-fold-to-the-gop-immigrants-pay-the-price)
+* [Invest in housing, not prisons: California's war on the homeless](https://therealnews.com/invest-in-housing-not-prisons-californias-war-on-the-homeless)
+* [Black, conservative, and unapologetic: A deep dive with the Black women fighting to get Trump reelected](https://therealnews.com/black-conservative-and-unapologetic-a-deep-dive-with-the-black-women-fighting-to-get-trump-reelected)
+* ['A great day': workers at second southern auto industry plant join UAW](https://therealnews.com/a-great-day-workers-at-second-southern-auto-industry-plant-join-uaw)
 
 [![The Real News Network](https://i0.wp.com/therealnews.com/wp-content/uploads/2022/08/lockup-duochrome-bright-1.png?fit=3000%2C595&ssl=1)](https://therealnews.com/)
 
