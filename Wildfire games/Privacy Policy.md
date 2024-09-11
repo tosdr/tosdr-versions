@@ -1,7 +1,8 @@
-* [Main](http://play0ad.com/)
-* [Development](http://trac.wildfiregames.com/)
-* [**Forums**](http://wildfiregames.com/forum)
-* [IRC Channel](http://webchat.quakenet.org/?channels=0ad)
+This Trac instance is not used for development anymore!
+=======================================================
+
+We migrated our development workflow to git and [Gitea](https://gitea.wildfiregames.com/).  
+[To test the future redirection, replace `trac` by `ariadne` in the page URL.](#)
 
 [![Wildfire Games](/chrome/site/logoleft.gif)](https://trac.wildfiregames.com/)
 
@@ -11,8 +12,6 @@ Search:
 * [Help/Guide](https://trac.wildfiregames.com/wiki/TracGuide)
 * [About Trac](https://trac.wildfiregames.com/about)
 * [Preferences](https://trac.wildfiregames.com/prefs)
-* [Register](https://trac.wildfiregames.com/register)
-* [Forgot your password?](https://trac.wildfiregames.com/reset_password)
 
 * [Wiki](https://trac.wildfiregames.com/wiki)
 * [Timeline](https://trac.wildfiregames.com/timeline)
@@ -39,7 +38,7 @@ View diff against:
 
 View revision: 
 
-| [Last change](https://trac.wildfiregames.com/changeset/27805/ps/trunk/binaries/data/mods/public/gui/userreport/Terms_and_Conditions.txt "View differences") on this file was [27805](https://trac.wildfiregames.com/changeset/27805/ "View changeset 27805"), checked in by Freagarach, [12 months ago](https://trac.wildfiregames.com/timeline?from=2023-08-17T08%3A37%3A39%2B02%3A00&precision=second "See timeline at Aug 17, 2023, 8:37:39 AM") |
+| [Last change](https://trac.wildfiregames.com/changeset/27805/ps/trunk/binaries/data/mods/public/gui/userreport/Terms_and_Conditions.txt "View differences") on this file was [27805](https://trac.wildfiregames.com/changeset/27805/ "View changeset 27805"), checked in by Freagarach, [13 months ago](https://trac.wildfiregames.com/timeline?from=2023-08-17T08%3A37%3A39%2B02%3A00&precision=second "See timeline at 08/17/23 08:37:39") |
 | --- |
 | Fix missing space in TaC of the userreporter.  <br><br>Reported by rodrigo.vegas at Transifex. |
 | * Property **svn:eol-style** set to _`native`_ |     |
@@ -135,13 +134,13 @@ View revision:
 ### Download in other formats:
 
 * [Plain Text](https://trac.wildfiregames.com/browser/ps/trunk/binaries/data/mods/public/gui/userreport/Terms_and_Conditions.txt?format=txt)
-* [Original Format](https://trac.wildfiregames.com/export/28168/ps/trunk/binaries/data/mods/public/gui/userreport/Terms_and_Conditions.txt)
+* [Original Format](https://trac.wildfiregames.com/export/28209/ps/trunk/binaries/data/mods/public/gui/userreport/Terms_and_Conditions.txt)
 
 * * *
 
 [![Trac Powered](/chrome/common/trac_logo_mini.png)](https://trac.edgewall.org/)
 
-Powered by [**Trac 1.4.2**](https://trac.wildfiregames.com/about)  
+Powered by [**Trac 1.6**](https://trac.wildfiregames.com/about)  
 By [Edgewall Software](http://www.edgewall.org/) .
 
-[WFG Forums](http://wildfiregames.com/forum)
+[WFG Forums](https://wildfiregames.com/forum)
