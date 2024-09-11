@@ -32,8 +32,8 @@ Close this search box.
         * [See all](https://z.cash/ecosystem/?wallets=#tag-wallets)
     * [Exchanges](https://z.cash/ecosystem/?exchanges=#tag-exchanges)
         * [Gemini](https://z.cash/ecosystem/gemini/)
-        * [Sideshift](https://z.cash/ecosystem/sideshift/)
-        * [Mercado Bitcoin](https://z.cash/?post_type=partner&p=839)
+        * [Kraken](https://z.cash/ecosystem/kraken/)
+        * [Coinbase](https://z.cash/ecosystem/coinbase/)
         * [See all](https://z.cash/ecosystem/?exchanges=#tag-exchanges)
     * [Build](https://z.cash/ecosystem/?build=#tag-build-with-zcash)
         * [Zcashd – Official Client](https://z.cash/ecosystem/zcashd/)
@@ -85,8 +85,8 @@ Menu
         * [See all](https://z.cash/ecosystem/?wallets=#tag-wallets)
     * [Exchanges](https://z.cash/ecosystem/?exchanges=#tag-exchanges)
         * [Gemini](https://z.cash/ecosystem/gemini/)
-        * [Sideshift](https://z.cash/ecosystem/sideshift/)
-        * [Mercado Bitcoin](https://z.cash/?post_type=partner&p=839)
+        * [Kraken](https://z.cash/ecosystem/kraken/)
+        * [Coinbase](https://z.cash/ecosystem/coinbase/)
         * [See all](https://z.cash/ecosystem/?exchanges=#tag-exchanges)
     * [Build](https://z.cash/ecosystem/?build=#tag-build-with-zcash)
         * [Zcashd – Official Client](https://z.cash/ecosystem/zcashd/)
@@ -163,7 +163,8 @@ Browse wallets, exchanges, developer tools and everything you need to become a p
 ### [Exchanges](https://z.cash/ecosystem/?exchanges=#tag-exchanges)
 
 * [Gemini](https://z.cash/ecosystem/gemini/)
-* [Sideshift](https://z.cash/ecosystem/sideshift/)
+* [Kraken](https://z.cash/ecosystem/kraken/)
+* [Coinbase](https://z.cash/ecosystem/coinbase/)
 
 [See all](https://z.cash/ecosystem/?exchanges=#tag-exchanges)
 
