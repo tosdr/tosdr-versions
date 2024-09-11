@@ -4,7 +4,7 @@
 
  [Magazine](https://www.3dhype.com/index/nieuws)
 
- [Vacatures (1)](https://www.3dhype.com/index/vacatures)
+ [Vacatures (2)](https://www.3dhype.com/index/vacatures)
 
  [Blogs](https://www.3dhype.com/index/blogs)
 
