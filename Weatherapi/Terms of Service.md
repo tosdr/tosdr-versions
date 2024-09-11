@@ -1,5 +1,7 @@
  
 
+Use promo code **PEACE** for **10% discount** during checkout.
+
 [![logo](//cdn.weatherapi.com/v4/images/weatherapi_logo.png)](https://www.weatherapi.com/)
 
 * [Features](https://www.weatherapi.com/api.aspx)
