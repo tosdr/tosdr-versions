@@ -17,13 +17,13 @@ MENU
     * [Press](https://www.av-test.org/en/press/)
     * [Jobs](https://www.av-test.org/en/about-the-institute/jobs/)
 * [News](https://www.av-test.org/en/news/)
-    * [17 Security Solutions for Windows 11 Clients](https://www.av-test.org/en/news/17-security-solutions-for-windows-11-clients/ "17 Security Solutions for Windows 11 Clients") [](https://www.av-test.org/en/news/17-security-solutions-for-windows-11-clients/ "17 Security Solutions for Windows 11 Clients")
+    * [Advanced EDR test 2024: Bitdefender Endpoint Security](https://www.av-test.org/en/news/advanced-edr-test-2024-bitdefender-endpoint-security/ "Advanced EDR test 2024: Bitdefender Endpoint Security") [](https://www.av-test.org/en/news/advanced-edr-test-2024-bitdefender-endpoint-security/ "Advanced EDR test 2024: Bitdefender Endpoint Security")
         
-        [Advanced EDR test 2024: Acronis Cyber Protect with advanced security +...](https://www.av-test.org/en/news/advanced-edr-test-2024-acronis-cyber-protect-with-advanced-security-edr-pack/ "Advanced EDR test 2024: Acronis Cyber Protect with advanced security + EDR pack") [](https://www.av-test.org/en/news/advanced-edr-test-2024-acronis-cyber-protect-with-advanced-security-edr-pack/ "Advanced EDR test 2024: Acronis Cyber Protect with advanced security + EDR pack")
+        [Advanced EDR test 2024: Seqrite XDR](https://www.av-test.org/en/news/advanced-edr-test-2024-seqrite-xdr/ "Advanced EDR test 2024: Seqrite XDR") [](https://www.av-test.org/en/news/advanced-edr-test-2024-seqrite-xdr/ "Advanced EDR test 2024: Seqrite XDR")
         
-        [Advanced EDR test 2024: Kaspersky Endpoint Detection and Response...](https://www.av-test.org/en/news/advanced-edr-test-2024-kaspersky-endpoint-detection-and-response-expert/ "Advanced EDR test 2024: Kaspersky Endpoint Detection and Response Expert") [](https://www.av-test.org/en/news/advanced-edr-test-2024-kaspersky-endpoint-detection-and-response-expert/ "Advanced EDR test 2024: Kaspersky Endpoint Detection and Response Expert")
+        [Endurance Test: Always Use the Best Security App for Android!](https://www.av-test.org/en/news/endurance-test-always-use-the-best-security-app-for-android/ "Endurance Test: Always Use the Best Security App for Android!") [](https://www.av-test.org/en/news/endurance-test-always-use-the-best-security-app-for-android/ "Endurance Test: Always Use the Best Security App for Android!")
         
-        [Advanced EDR test 2024: WithSecure Elements Endpoint Detection and...](https://www.av-test.org/en/news/advanced-edr-test-2024-withsecure-elements-endpoint-detection-and-response/ "Advanced EDR test 2024: WithSecure Elements Endpoint Detection and Response") [](https://www.av-test.org/en/news/advanced-edr-test-2024-withsecure-elements-endpoint-detection-and-response/ "Advanced EDR test 2024: WithSecure Elements Endpoint Detection and Response")
+        [17 Security Solutions for Windows 11 Clients](https://www.av-test.org/en/news/17-security-solutions-for-windows-11-clients/ "17 Security Solutions for Windows 11 Clients") [](https://www.av-test.org/en/news/17-security-solutions-for-windows-11-clients/ "17 Security Solutions for Windows 11 Clients")
         
     * News by category
         
@@ -146,7 +146,7 @@ We want to stay in touch with you! Now there is an easy way to receive regular 
 
 [Terms and Conditions](https://www.av-test.org/en/contact/terms-and-conditions/) | [Privacy policy](https://www.av-test.org/en/contact/privacy-policy/) | [Legal Notice](https://www.av-test.org/en/contact/legal-notice/) [![](/fileadmin/images/facebook.png)](https://www.facebook.com/avtestorg)[![](/fileadmin/images/linkedin.svg)](https://www.linkedin.com/company/avtestorg/)[![](/fileadmin/images/Social_Media_Icons/logo_x-footer.png)](https://x.com/avtestorg)[![](/fileadmin/images/youtube-card.png)](https://www.youtube.com/user/avtestorg)
 
-©  2024 AV-TEST - The Independent IT-Security Institute
+©  2024 AV-TEST  | SITS Deutschland GmbH
 
 [About the Institute](https://www.av-test.org/en/about-the-institute/)
 
