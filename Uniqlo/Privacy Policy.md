@@ -1,86 +1,220 @@
-[![](/resource/1718755388000/FRCS_FAQ/img/logo.png)](http://www.uniqlo.com/id/)
+      
 
-[Help](https://faq-id.uniqlo.com/?l=en_US)
-==========================================
+[![UNIQLO](/resource/1725408205000/FRCS_FAQ/img/icons/header.svg?orgId=00D7F000004Ap7V)](https://www.uniqlo.com/id/en/)
 
- [![Help](/resource/1718755388000/FRCS_FAQ/img/logo.png) UNIQLO Help](https://faq-id.uniqlo.com/?l=en_US)
-=========================================================================================================
+Search Menu
 
-Search by category
-------------------
+[](#)
 
-* Return & Exchange
+English |  Bahasa Indonesia
+
+Close
+
+* [UNIQLO Indonesia Customer Service](https://faq-id.uniqlo.com/?l=en_US)
+* [ ] 
     
-    * [See All](#)
-    * [How to Return product](#)
-    * [How to Exchange product](#)
-    * [Return & Exchange policy](#)
-    * [Receipt/ invoice](#)
-
-* Online Orders & Payments
+    Online
     
-    * [See All](#)
+    * [Place Order](#)
+    * [Payment Methods](#)
+    * [Order Related](#)
     * [Website & Checkout](#)
-    * [Purchased items](#)
-    * [Payment](#)
-    * [Order Status](#)
-    * [Membership / Account](#)
-    * [Product Availability](#)
-
-* Delivery
+    * [Pre-order](#)
+    * [MY UNIQLO Account/ Membership](#)
     
-    * [See All](#)
-    * [Standard & Next Day Delivery](#)
-    * [Click & collect](#)
-
-* Stores
+* [ ] 
     
-    * [See All](#)
-    * [Store locations & Information](#)
-    * [Product Availability](#)
-    * [Purchased items](#)
-
-* Membership / Coupon
+    Delivery
     
-    * [See All](#)
-    * [Coupon & Promotions](#)
-    * [Newsletter](#)
+    * [Home Delivery](#)
+    * [Click & Collect](#)
+    * [Click & Collect same day](#)
+    
+* [ ] 
+    
+    Return & Exchange
+    
+    * [Exchange process](#)
+    * [Refund process](#)
+    * [Receipt / Invoice request](#)
+    * [Other Request](#)
+    
+* [ ] 
+    
+    UNIQLO App / Newsletter / StyleHint
+    
     * [UNIQLO App](#)
-    * [UNIQLO App purchase history](#)
-    * [What is UNIQLO membership](#)
-
-* Campaign & Services
+    * [Newsletter](#)
+    * [StyleHint](#)
     
-    * [See All](#)
+* [ ] 
+    
+    Store
+    
+    * [Store location](#)
+    * [In-store exchange process](#)
+    * [Store services](#)
+    * [Payment provided](#)
+    
+* [ ] 
+    
+    Products
+    
+    * [Product Information](#)
+    * [Washing Guides](#)
+    * [Size Assistance](#)
+    * [Product Review](#)
+    
+* [ ] 
+    
+    Campaign / Coupon / Services
+    
     * [Campaign](#)
+    * [Coupon & Promotion](#)
+    * [Bulk Purchase](#)
     * [UTme!](#)
-    * [Alteration Services](#)
-    * [Bulk Orders](#)
-
-* Products & Availability
+    * [Alteration & Repair Service](#)
+    * [Gift Service](#)
+    * [Order to Me](#)
+    * [Re-UNIQLO](#)
+    * [Other Services](#)
     
-    * [See All](#)
-    * [Product information](#)
-    * [Product Availability](#)
-    * [Recycle](#)
-
-* Other
+* [ ] 
     
-    * [See All](#)
+    Legal & Privacy
+    
+    * [Privacy Policy](#)
+    * [Terms & Conditions](#)
+    * [Terms of Use](#)
+    
+* [ ] 
+    
+    Corporate Information
+    
+    * [About UNIQLO](#)
     * [CSR](#)
-    * [IR/achievement/corporate information](#)
-    * [Privacy policy](#)
-    * [Terms & conditions](#)
-    * [HP](#)
+    * [Job Hiring](#)
+    * [Others](#)
+    
 
- English Bahasa
+[Track Home Delivery Order](https://faq-id.uniqlo.com/pkb_Home_UQ_ID?id=kA3Ie00000000VJ&l=en_US&fs=Search&pn=1)
 
-  [![](/resource/1718755388000/FRCS_FAQ/img/icn_nav-sp_search_black.svg?orgId=00D7F000004Ap7V)](#)   
+To check the status order, click ‘Track My Order’ and enter the receipt number that you have received via order notification email (Check your email spam if you didn't receive it in your inbox).
 
-1. [Help](https://faq-id.uniqlo.com/)
-＞ /4. [Other](#)
-＞ /7. [Privacy policy](#)
-＞ /
+[Check Click & Collect Order Status](https://faq-id.uniqlo.com/pkb_Home_UQ_ID?id=kA32t000000TNPl&q=email&l=en_US&fs=Search&pn=1)
+
+There is no receipt number for Click & Collect order. However, you can check it via order notification email or on the UNIQLO App. Click ‘’How to check Click & Collect order‘’ to find out the status order until it arrives at the store (Check your email spam if you don't receive it in your inbox).
+
+[Make Refund](https://faq-id.uniqlo.com/pkb_Home_UQ_ID?id=kA32t00000004d0CAA&l=en_US&fs=Search&pn=1)
+
+Refund will be proceed if the product is returned to the warehouse. Click "MAKE REFUND" button to see the procedures.
+
+[Make Exchange In Store](https://faq-id.uniqlo.com/pkb_Home_UQ_ID?id=kA32t000000TNyH&q=exchange&l=en_US&fs=Search&pn=1)
+
+Product exchanges can only be made in-store. click the "MAKE EXCHANGE AT STORE" button to see the procedures.
+
+  
+English | Bahasa Indonesia
+
+1. [Uniqlo TOP](https://www.uniqlo.com/uk/en/home)
+2. Uniqlo Customer Service
+
+How can we help?
+================
+
+ [](#) 
+
+1. [UNIQLO](https://www.uniqlo.com/id/en/)
+2. [UNIQLO Indonesia Customer Service](https://faq-id.uniqlo.com/?l=en_US)
+3. [Legal & Privacy](#)
+4. [Privacy Policy](#)
+
+* [UNIQLO Indonesia Customer Service](https://faq-id.uniqlo.com/?l=en_US)
+* [ ] 
+    
+    Online
+    
+    * [Place Order](#)
+    * [Payment Methods](#)
+    * [Order Related](#)
+    * [Website & Checkout](#)
+    * [Pre-order](#)
+    * [MY UNIQLO Account/ Membership](#)
+    
+* [ ] 
+    
+    Delivery
+    
+    * [Home Delivery](#)
+    * [Click & Collect](#)
+    * [Click & Collect same day](#)
+    
+* [ ] 
+    
+    Return & Exchange
+    
+    * [Exchange process](#)
+    * [Refund process](#)
+    * [Receipt / Invoice request](#)
+    * [Other Request](#)
+    
+* [ ] 
+    
+    UNIQLO App / Newsletter / StyleHint
+    
+    * [UNIQLO App](#)
+    * [Newsletter](#)
+    * [StyleHint](#)
+    
+* [ ] 
+    
+    Store
+    
+    * [Store location](#)
+    * [In-store exchange process](#)
+    * [Store services](#)
+    * [Payment provided](#)
+    
+* [ ] 
+    
+    Products
+    
+    * [Product Information](#)
+    * [Washing Guides](#)
+    * [Size Assistance](#)
+    * [Product Review](#)
+    
+* [ ] 
+    
+    Campaign / Coupon / Services
+    
+    * [Campaign](#)
+    * [Coupon & Promotion](#)
+    * [Bulk Purchase](#)
+    * [UTme!](#)
+    * [Alteration & Repair Service](#)
+    * [Gift Service](#)
+    * [Order to Me](#)
+    * [Re-UNIQLO](#)
+    * [Other Services](#)
+    
+* [ ] 
+    
+    Legal & Privacy
+    
+    * [Privacy Policy](#)
+    * [Terms & Conditions](#)
+    * [Terms of Use](#)
+    
+* [ ] 
+    
+    Corporate Information
+    
+    * [About UNIQLO](#)
+    * [CSR](#)
+    * [Job Hiring](#)
+    * [Others](#)
+    
 
 Q. Privacy Policy
 -----------------
@@ -305,147 +439,108 @@ If You have any questions regarding Our Privacy Policy, please contact Us at [h
   
  
 
- ### Was this information helpful?
+ Was this information helpful?
 
-[Yes](#)
+ [![](/resource/1725408205000/FRCS_FAQ/img/Compliment.svg?orgId=00D7F000004Ap7V) YES](#)
 
-[No](#)
+ [![](/resource/1725408205000/FRCS_FAQ/img/Complaint.svg?orgId=00D7F000004Ap7V) NO](#)
 
-![](/resource/1516792648000/pkb_loadingdots)
+If our FAQs did not answer your question and you need further assistance,  
+please contact our customer support team via chat, email or phone.
 
-If our FAQ's did not answer your question or you have any feedback.  
-Please contact our friendly customer care team via email or phone.
+Please let us know why this article is not helpful.
 
-To allow us to improve our services we would appreciate your feedback regarding this information/article.  
-(Please note:  
-Make no response)
+|     |
+| --- |
+| The information is hard to understand. |
+| This isn’t the information I was looking for. |
+| The information displayed does not match the topic or category. |
+| I do not agree with policy or procedure on this subject. |
+| Others |
 
-[Submit](#)
+Please let us know which part of this page is hard to understand.Please let us know what information you are looking for.Please let us know which parts of the article are not matching.Please let us know your feedback to improve our policy/ service to meet your needs.Please share your reason and how we can improve it.
 
-![](/resource/1516792648000/pkb_loadingdots)
+Note: Please do not fill in any personal information.
 
-### Related Q&A
+Your valued feedback will be shared with our team for review and will be used to help us improve our products and services. We are unable to reply directly to any feedback given here.
 
+Please enter your comments below:
+
+[Send](#)
+
+Related FAQs
+------------
+
+Related Q&A
+-----------
+
+Related Inquiries
+-----------------
+
+Related information:
+--------------------
+
+* [Privacy Policy](https://faq-id.uniqlo.com/pkb_Home_UQ_ID?id=kA32t000000Gmjz&l=en_US&fs=RelatedArticle)
 * [TERMS OF USE](https://faq-id.uniqlo.com/pkb_Home_UQ_ID?id=kA32t000000Gmju&l=en_US&fs=RelatedArticle)
-
 * [Accessibility](https://faq-id.uniqlo.com/pkb_Home_UQ_ID?id=kA32t000000Gmwy&l=en_US&fs=RelatedArticle)
-
+* [How do I create an online customer account?](https://faq-id.uniqlo.com/pkb_Home_UQ_ID?id=kA32t000000Gmp4&l=en_US&fs=RelatedArticle)
 * [Pre-Order Terms & Conditions](https://faq-id.uniqlo.com/pkb_Home_UQ_ID?id=kA3Ie00000000LT&l=en_US&fs=RelatedArticle)
-
 * [How can I order online?](https://faq-id.uniqlo.com/pkb_Home_UQ_ID?id=kA32t000000Gn0l&l=en_US&fs=RelatedArticle)
-
-* [Why I cannot access the UNIQLO website? Why still on maintenance mode?](https://faq-id.uniqlo.com/pkb_Home_UQ_ID?id=kA32t000000Gmxm&l=en_US&fs=RelatedArticle)
-
-Search by category
-------------------
-
-* Return & Exchange
-    
-    * [See All](#)
-    * [How to Return product](#)
-    * [How to Exchange product](#)
-    * [Return & Exchange policy](#)
-    * [Receipt/ invoice](#)
-
-* Online Orders & Payments
-    
-    * [See All](#)
-    * [Website & Checkout](#)
-    * [Purchased items](#)
-    * [Payment](#)
-    * [Order Status](#)
-    * [Membership / Account](#)
-    * [Product Availability](#)
-
-* Delivery
-    
-    * [See All](#)
-    * [Standard & Next Day Delivery](#)
-    * [Click & collect](#)
-
-* Stores
-    
-    * [See All](#)
-    * [Store locations & Information](#)
-    * [Product Availability](#)
-    * [Purchased items](#)
-
-* Membership / Coupon
-    
-    * [See All](#)
-    * [Coupon & Promotions](#)
-    * [Newsletter](#)
-    * [UNIQLO App](#)
-    * [UNIQLO App purchase history](#)
-    * [What is UNIQLO membership](#)
-
-* Campaign & Services
-    
-    * [See All](#)
-    * [Campaign](#)
-    * [UTme!](#)
-    * [Alteration Services](#)
-    * [Bulk Orders](#)
-
-* Products & Availability
-    
-    * [See All](#)
-    * [Product information](#)
-    * [Product Availability](#)
-    * [Recycle](#)
-
-* Other
-    
-    * [See All](#)
-    * [CSR](#)
-    * [IR/achievement/corporate information](#)
-    * [Privacy policy](#)
-    * [Terms & conditions](#)
-    * [HP](#)
 
 Contact UNIQLO Indonesia
 ------------------------
 
- ![](https://www.uniqlo.com/jp/cs/img/UNIQLOIQlogo2.png) CHAT SUPPORT
+![](https://www.uniqlo.com/jp/cs/img/UNIQLOIQlogo2.png)CHAT SUPPORT
 
-* Our IQ Chatbot support is available 24/7 to answer your frequently asked questions in a chat format. Live Chat Support is available Mon-Sun, 9 am - 6 pm
-* Please note that our IQ Chatbot support cannot recognize specific information such as order numbers, delivery status, personal information, and product names
+\*Click "CHAT SUPPORT" button to open a window on the page to start chatting with our ChatBot  
+\*Please note that IQ Chatbot Support cannot recognize specific information such as order numbers, delivery status, personal information, and product names  
+\*In the case our IQ Chatbot Support is unable to answer your inquiry, our Customer Support members will assist you further.  
+IQ Chat Support Operating Hours: 9 am - 6 pm(Including weekends and Public Holidays)
 
-  
+[Email](https://faq-id.uniqlo.com/contactusen/)
 
-[By Email](https://faq-id.uniqlo.com/contactusen/)
+\*One of our friendly customer support agents will get back to you via email within 1 business day.  
+\*For anything time critical please call us via our customer support phone line.
 
-* One of our friendly customer support agents will get back to you via email within 1 business day.  
-    For anything time critical please call us via our customer support phone line.
+[Toll Free Phone Number](tel:(001) 80332160290)
 
-By Phone Toll free Number
+Customer Care Operating hours:  
+Monday - Sunday: 9am - 6pm  
+(Including Public Holidays)
+
+Toll Free Phone Number
 
 (001) 80332160290
 
-Customer support Operating hours:  
-Monday - Sunday 9:00am - 18:00pm  
-(365days except for typhoon holiday)
+Customer Care Operating hours:  
+Monday - Sunday: 9am - 6pm  
+(Including Public Holidays)
 
-Inquiry
+Online Services
+---------------
 
- ![](https://www.uniqlo.com/jp/cs/img/UNIQLOIQlogo2.png) CHAT SUPPORT
+[![UNIQLO APP](/resource/1725408115000/FRCS_FAQ_IMG/img/faqFooter1_id.jpg)
 
-* Our IQ Chatbot support is available 24/7 to answer your frequently asked questions in a chat format. Live Chat Support is available Mon-Sun, 9 am - 6 pm
-* Please note that our IQ Chatbot support cannot recognize specific information such as order numbers, delivery status, personal information, and product names
+Online Shopping Guideline
 
-[By Email](https://faq-id.uniqlo.com/contactusen/)
+First time shopping at UNIQLO online? Worry not! You can follow our easy guideline to order your desired product. For first time UNIQLO App downloader, you can also get a Welcome Coupon 25k. Let's get started!](https://www.uniqlo.com/feature/shopping-guide/id/en/)[![UNIQLO APP](/resource/1725408115000/FRCS_FAQ_IMG/img/faqFooter2_id.png)
 
-* One of our friendly customer support agents will get back to you via email within 1 business day.  
-    For anything time critical please call us via our customer support phone line.
+Bulk Purchase
 
-[By Phone Toll free Number](tel:(001) 80332160290)
+Enjoy 10% off and free shipping for order with minimum Rp10,000,000 for team outfit, uniforms, gifts and more!](https://www.uniqlo.com/id/en/spl/bulkpurchase)
 
-**Telephone Number** : (001) 80332160290  
-  
-**Customer support Operating hours:**  
-Monday - Sunday 9:00am - 18:00pm  
-(365days except for typhoon holiday)
+[![UNIQLO APP](/resource/1725408115000/FRCS_FAQ_IMG/img/faqFooter3_id.jpg)
 
-COPYRIGHT (C) UNIQLO CO. LTD ALL RIGHTS RESERVED.
+Product Review
 
-[![](/resource/1718755388000/FRCS_FAQ/img/icn_backtotop.svg?orgId=00D7F000004Ap7V)](#pagetop)
+Review our product and get a chance to receive our product samples.](https://www.uniqlo.com/id/en/special-feature/review-sampling)[![UNIQLO APP](/resource/1725408115000/FRCS_FAQ_IMG/img/faqFooter2_tw.jpg)
+
+Online Alteration Service
+
+You can now alter your favourite pants online, and get them delivered right to your doorstep](https://www.uniqlo.com/id/en/spl/alteration)
+
+[UNIQLO Home](https://www.uniqlo.com/id/en/) [Online Shopping Guidelines](https://www.uniqlo.com/feature/shopping-guide/id/en/) [Store Locator](https://map.uniqlo.com/id/en/) [Return / Exchange](https://faq-id.uniqlo.com/pkb_Home_UQ_ID?id=kA32t00000004d0CAA&l=en_US&fs=Search&pn=1) [Bulk Purchase](https://www.uniqlo.com/id/en/spl/bulkpurchase) [Alteration Service](https://www.uniqlo.com/id/en/spl/alteration)
+
+[GIft Delivery Service](https://www.uniqlo.com/id/en/special-feature/service/gift-wrap) [Privacy Policy](https://faq-id.uniqlo.com/pkb_Home_UQ_ID?id=kA32t000000Gmjz&l=en_US&fs=Search&pn=1) [Sustainability](https://faq-id.uniqlo.com/pkb_Home_UQ_ID?id=kA32t000000GmxD&l=en_US&fs=Search&pn=1) [Careers](https://www.fastretailing.com/employment/id/uniqlo/id/)
+
+COPYRIGHT © UNIQLO CO., LTD. ALL RIGHTS RESERVED.
