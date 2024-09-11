@@ -13,7 +13,7 @@ Privacy Policy
 
 ### Version 2.1
 
-##### Effective February 16, 2022
+##### Effective February 16th 2022
 
 [Download](https://vault.pactsafe.io/s/9ac72792-c7df-4d0d-832d-0ca873f73a64/versions/620d3f07697835646d15c8b2.pdf)
 
@@ -30,7 +30,7 @@ Zemanta Cookie Table
 
 ### Version 2.1
 
-##### Effective February 16, 2022
+##### Effective February 16th 2022
 
 [Download](https://vault.pactsafe.io/s/9ac72792-c7df-4d0d-832d-0ca873f73a64/versions/620d41fdc867f7697eedac20.pdf)
 
@@ -50,4 +50,4 @@ Copyright © 2007-2021 | Zemanta inc. | - [IMPRESSUM](https://outbrain.pactsafe.
 
 [Legal Center powered by Ironclad Clickwrap](https://ironcladapp.com/product/clickwrap/?utm_medium=product&utm_source=legal-center&utm_campaign=lc-footer&utm_content=Outbrain%20Inc.)
 
-Copyright © 2023, [Outbrain Inc.](http://www.zemanta.com/)
+Copyright © 2024, [Outbrain Inc.](http://www.zemanta.com/)
