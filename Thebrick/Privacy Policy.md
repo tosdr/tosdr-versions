@@ -2,7 +2,7 @@
 
 [](#)
 
-[![THE BRICK](//www.thebrick.com/cdn/shop/t/789/assets/lazyPixel.png?v=40482922527014850811722272323)](https://www.thebrick.com/)
+[![THE BRICK](//www.thebrick.com/cdn/shop/t/802/assets/lazyPixel.png?v=40482922527014850811725379275)](https://www.thebrick.com/)
 
 [Furniture](https://www.thebrick.com/collections/furniture) [Mattresses](https://www.thebrick.com/collections/mattresses) [Home Decor](https://www.thebrick.com/collections/home-decor) [Appliances](https://www.thebrick.com/collections/appliances) [Electronics](https://www.thebrick.com/collections/electronics) [Outdoor](https://www.thebrick.com/collections/outdoor-living)
 
@@ -60,17 +60,21 @@ Get Directions
 [Back to Furniture](#)
 
 * Brands
-[BLOK](https://www.thebrick.com/collections/blok-modular-sofas) [BELDIVO](https://www.thebrick.com/pages/beldivo) [SOFA LAB](https://www.thebrick.com/pages/sofalab) [Kort & Co.](https://www.thebrick.com/collections/kort-co-furniture) [Scott Living](https://www.thebrick.com/collections/scott-living-furniture) [Cindy Crawford Home](https://www.thebrick.com/pages/sofa-brand-cindy)
+[BELDIVO](https://www.thebrick.com/pages/beldivo) [BLOK](https://www.thebrick.com/pages/scott-living-blok) [Cindy Crawford Home](https://www.thebrick.com/pages/sofa-brand-cindy) [Kort & Co.](https://www.thebrick.com/pages/kort-and-co) [Scott Living](https://www.thebrick.com/pages/scott-living) [SOFA LAB](https://www.thebrick.com/pages/sofalab)
 
 [Back to Menu](#)
 
-[Mattresses](https://www.thebrick.com/collections/mattresses) [Mattresses](https://www.thebrick.com/collections/mattress-store) [Mattress in a Box](https://www.thebrick.com/collections/mattresses-mattress-in-a-box) [Boxsprings & Bases](https://www.thebrick.com/collections/mattresses-boxsprings-bases) [Accessories](https://www.thebrick.com/collections/mattresses-accessories) [Brands](#)
+[Mattresses](https://www.thebrick.com/collections/mattresses) [Mattresses](https://www.thebrick.com/collections/mattress-store) [Mattress Sets](https://www.thebrick.com/collections/mattresses-mattress-sets) [Mattress in a Box](https://www.thebrick.com/collections/mattresses-mattress-in-a-box) [Boxsprings & Bases](https://www.thebrick.com/collections/mattresses-boxsprings-bases) [Accessories](https://www.thebrick.com/collections/mattresses-accessories) [Brands](#)
 
-* [![The Brick mattress store](//www.thebrick.com/cdn/shop/t/789/assets/lazyPixel.png?v=40482922527014850811722272323)](https://www.thebrick.com/pages/brick-mattress-store)
+* [![The Brick mattress store](//www.thebrick.com/cdn/shop/t/802/assets/lazyPixel.png?v=40482922527014850811725379275)](https://www.thebrick.com/pages/brick-mattress-store)
 
 [Back to Mattresses](#)
 
 [Mattresses](https://www.thebrick.com/collections/mattress-store) [All Mattresses](https://www.thebrick.com/collections/mattresses) [King](https://www.thebrick.com/collections/mattresses-king) [Queen](https://www.thebrick.com/collections/mattresses-queen) [Full](https://www.thebrick.com/collections/mattresses-full) [Twin](https://www.thebrick.com/collections/mattresses-twin) [Twin XL](https://www.thebrick.com/collections/mattresses-twin-xl) [Crib](https://www.thebrick.com/collections/furniture-bedroom-kids-and-teens-infants-and-toddlers-crib-mattresses)
+
+[Back to Mattresses](#)
+
+[Mattress Sets](https://www.thebrick.com/collections/mattresses-mattress-sets) [All Mattresses Sets](https://www.thebrick.com/collections/mattresses-mattress-sets) [King](https://www.thebrick.com/collections/mattresses-mattress-sets-king-sets) [Queen](https://www.thebrick.com/collections/mattresses-mattress-sets-queen-sets) [Full](https://www.thebrick.com/collections/mattresses-mattress-sets-full-sets) [Twin](https://www.thebrick.com/collections/mattresses-mattress-sets-twin-sets)
 
 [Back to Mattresses](#)
 
@@ -120,7 +124,7 @@ Get Directions
 [Back to Appliances](#)
 
 * Brands
-[Samsung](https://www.thebrick.com/pages/samsung) [Samsung Bespoke](https://www.thebrick.com/pages/samsung-bespoke) [LG](https://www.thebrick.com/collections/appliances-brands-lg) [LG Studio](https://www.thebrick.com/pages/lgstudio) [KitchenAid](https://www.thebrick.com/pages/kitchenaid) [Whirlpool](https://www.thebrick.com/pages/whirlpool) [Maytag](https://www.thebrick.com/pages/maytag) [Frigidaire](https://www.thebrick.com/collections/appliances-brands-frigidaire) [Frigidaire Professional](https://www.thebrick.com/collections/appliances-brands-frigidaire-professional) [Frigidaire Gallery](https://www.thebrick.com/collections/appliances-brands-frigidaire-gallery) [Bosch](https://www.thebrick.com/collections/appliances-brands-bosch) [Broan](https://www.thebrick.com/pages/broan) [Cuisinart](https://www.thebrick.com/collections/appliances-brands-cuisinart) [GE Appliances](https://www.thebrick.com/collections/appliances-brands-ge) [GE Profile](https://www.thebrick.com/collections/ge-profile) [Café](https://www.thebrick.com/pages/cafe-brand-appliances) [Thor Kitchen](https://www.thebrick.com/collections/appliances-brands-thor) [Hisense](https://www.thebrick.com/collections/hisense-appliances) [Panasonic](https://www.thebrick.com/collections/appliances-brands-panasonic) [Danby](https://www.thebrick.com/collections/appliances-brands-danby) [Miele](https://www.thebrick.com/collections/appliances-brands-miele) [Smeg](https://www.thebrick.com/collections/kitchen-promo-smeg) [Unique Appliances](https://www.thebrick.com/pages/unique)
+[Bosch](https://www.thebrick.com/collections/appliances-brands-bosch) [Broan](https://www.thebrick.com/pages/broan) [Broil King](https://www.thebrick.com/pages/broil-king) [Café](https://www.thebrick.com/pages/cafe-brand-appliances) [Cuisinart](https://www.thebrick.com/collections/appliances-brands-cuisinart) [Danby](https://www.thebrick.com/collections/appliances-brands-danby) [Forno](https://www.thebrick.com/collections/forno) [Frigidaire](https://www.thebrick.com/collections/appliances-brands-frigidaire) [Frigidaire Gallery](https://www.thebrick.com/collections/appliances-brands-frigidaire-gallery) [Frigidaire Professional](https://www.thebrick.com/collections/appliances-brands-frigidaire-professional) [GE Appliances](https://www.thebrick.com/collections/appliances-brands-ge) [GE Profile](https://www.thebrick.com/collections/ge-profile) [Hisense](https://www.thebrick.com/collections/hisense-appliances) [iio](https://www.thebrick.com/collections/brand-iio) [KitchenAid](https://www.thebrick.com/pages/kitchenaid) [LG](https://www.thebrick.com/collections/appliances-brands-lg) [LG Studio](https://www.thebrick.com/pages/lgstudio) [Maytag](https://www.thebrick.com/pages/maytag) [Miele](https://www.thebrick.com/collections/appliances-brands-miele) [Panasonic](https://www.thebrick.com/collections/appliances-brands-panasonic) [Samsung](https://www.thebrick.com/pages/samsung) [Samsung Bespoke](https://www.thebrick.com/pages/samsung-bespoke) [Smeg](https://www.thebrick.com/collections/kitchen-promo-smeg) [Thor Kitchen](https://www.thebrick.com/collections/appliances-brands-thor) [Whirlpool](https://www.thebrick.com/pages/whirlpool) [Unique Appliances](https://www.thebrick.com/pages/unique)
 
 [Back to Menu](#)
 
@@ -136,7 +140,7 @@ Get Directions
 
 [Back to Electronics](#)
 
-[Projectors & Accessories](https://www.thebrick.com/collections/electronics-projectors-and-accessories) [Projectors](https://www.thebrick.com/collections/electronics-projectors-and-accessories-projectors) [Projector Screens](https://www.thebrick.com/collections/electronics-projectors-and-accessories-projector-screens) [Projectors with Screens](https://www.thebrick.com/collections/electronics-projectors-and-accessories-projectors-with-screens) [Projector Mounts & Stands](https://www.thebrick.com/collections/electronics-projectors-and-accessories-projector-mounts-and-stands)
+[Projectors & Accessories](https://www.thebrick.com/collections/electronics-projectors-and-accessories) [Projectors](https://www.thebrick.com/collections/electronics-projectors-and-accessories-projectors) [Projector Screens](https://www.thebrick.com/collections/electronics-projectors-and-accessories-projector-screens) [Projector Mounts & Stands](https://www.thebrick.com/collections/electronics-projectors-and-accessories-projector-mounts-and-stands)
 
 [Back to Electronics](#)
 
@@ -153,7 +157,7 @@ Get Directions
 [Back to Electronics](#)
 
 * Brands
-[Samsung](https://www.thebrick.com/collections/electronics-brands-samsung) [LG](https://www.thebrick.com/collections/electronics-brands-lg) [Sony](https://www.thebrick.com/collections/electronics-brands-sony) [Hisense](https://www.thebrick.com/collections/electronics-brands-hisense) [RCA](https://www.thebrick.com/collections/electronics-brands-rca) [Yamaha](https://www.thebrick.com/collections/electronics-brands-yamaha) [Klipsch](https://www.thebrick.com/collections/electronics-brands-klipsch) [Polk Audio](https://www.thebrick.com/collections/electronics-brands-polk) [Arcade1Up](https://www.thebrick.com/collections/electronics-entertainment-arcade1up) [AtGames](https://www.thebrick.com/collections/electronics-brands-atgames) [UltraLink](https://www.thebrick.com/collections/electronics-brands-ultralink) [CorLiving](https://www.thebrick.com/collections/electronics-brands-corliving) [Kanto](https://www.thebrick.com/collections/electronics-brands-kanto) [MantelMount](https://www.thebrick.com/collections/mantelmount-wall-mounts) [Sylvania](https://www.thebrick.com/collections/electronics-brands-sylvania) [Monster](https://www.thebrick.com/collections/electronics-brands-monster)
+[Arcade1Up](https://www.thebrick.com/collections/electronics-entertainment-arcade1up) [AtGames](https://www.thebrick.com/collections/electronics-brands-atgames) [CorLiving](https://www.thebrick.com/collections/electronics-brands-corliving) [Hisense](https://www.thebrick.com/collections/electronics-brands-hisense) [Kanto](https://www.thebrick.com/collections/electronics-brands-kanto) [Klipsch](https://www.thebrick.com/collections/electronics-brands-klipsch) [LG](https://www.thebrick.com/collections/electronics-brands-lg) [MantelMount](https://www.thebrick.com/collections/mantelmount-wall-mounts) [Monster](https://www.thebrick.com/collections/electronics-brands-monster) [Polk Audio](https://www.thebrick.com/collections/electronics-brands-polk) [RCA](https://www.thebrick.com/collections/electronics-brands-rca) [Samsung](https://www.thebrick.com/collections/electronics-brands-samsung) [Sony](https://www.thebrick.com/collections/electronics-brands-sony) [Sylvania](https://www.thebrick.com/collections/electronics-brands-sylvania) [UltraLink](https://www.thebrick.com/collections/electronics-brands-ultralink) [Yamaha](https://www.thebrick.com/collections/electronics-brands-yamaha)
 
 [Back to Menu](#)
 
@@ -188,7 +192,7 @@ Get Directions
 
 [Back to Menu](#)
 
-[Save](https://www.thebrick.com/pages/deals) [See Flyers](https://www.thebrick.com/pages/flyer) [Brick Outlet](https://www.thebrick.com/pages/brick-outlet) [Last Chance](https://www.thebrick.com/collections/last-chance)
+[Save](https://www.thebrick.com/pages/deals) [See Flyers](https://www.thebrick.com/pages/flyer) [Brick Outlet](https://www.thebrick.com/collections/brick-outlet) [Last Chance](https://www.thebrick.com/collections/last-chance)
 
 [Back to Menu](#)
 
@@ -214,7 +218,7 @@ Seller Name
 * [Contact Us](https://www.thebrick.com/pages/contact-us)
 * [Français](https://www.brickenligne.com/pages/privacy-policy)
 
-[![THE BRICK](//www.thebrick.com/cdn/shop/t/789/assets/Brick-logo-en.svg?v=144201696812184966561722272291)](https://www.thebrick.com/)
+[![THE BRICK](//www.thebrick.com/cdn/shop/t/802/assets/Brick-logo-en.svg?v=144201696812184966561725379240)](https://www.thebrick.com/)
 
  
 
@@ -435,7 +439,7 @@ Join the Conversation
 Customer Service
 ----------------
 
-[Contact Us](https://www.thebrick.com/pages/contact-us) [Help Centre](https://www.thebrick.com/pages/help-centre) [Store Locator](https://www.thebrick.com/apps/store-locator) [Stores Listing](https://www.thebrick.com/pages/stores-listing) [The Brick Financing](https://www.thebrick.com/pages/financing) [Gift Card Purchase](https://www.thebrick.com/pages/egift-card) [Check Gift Card Balance](https://www.thebrick.com/pages/egift-card-check-balance) [Trans Global Insurance](http://transglobalinsurance.ca/)[Price Guarantee](https://www.thebrick.com/pages/holiday-price-guarantee) [Returns and Exchanges](https://www.thebrick.com/pages/satisfaction-guarantee) [Accessible Customer Service Policy for Manitoba](https://www.thebrick.com/pages/accessible-customer-service-policy-for-manitoba)[Warranties and Protection Plans](https://www.thebrick.com/pages/warranties-and-protection-plans) [Installation and Assembly](https://www.thebrick.com/pages/installation-and-assembly) [Appliance and Electronics Repairs](http://transglobalservice.com/) [Shipping and Delivery](https://www.thebrick.com/pages/shipping-and-delivery)[Removal and Recycling](https://www.thebrick.com/pages/removal-and-recycling) [Complete Your Payment](https://www.thebrick.com/pages/complete-your-payment)
+[Contact Us](https://www.thebrick.com/pages/contact-us) [Help Centre](https://www.thebrick.com/pages/help-centre) [Store Locator](https://www.thebrick.com/apps/store-locator) [Stores Listing](https://www.thebrick.com/pages/stores-listing) [The Brick Financing](https://www.thebrick.com/pages/financing) [Gift Card Purchase](https://www.thebrick.com/pages/egift-card) [Check Gift Card Balance](https://www.thebrick.com/pages/egift-card-check-balance) [Trans Global Insurance](http://transglobalinsurance.ca/)[Price Guarantee](https://www.thebrick.com/pages/holiday-price-guarantee) [Returns and Exchanges](https://www.thebrick.com/pages/satisfaction-guarantee) [Accessible Customer Service Policy for Manitoba](https://www.thebrick.com/pages/accessible-customer-service-policy-for-manitoba)[Warranties and Protection Plans](https://www.thebrick.com/pages/warranties-and-protection-plans) [Installation and Assembly](https://www.thebrick.com/pages/installation-and-assembly) [Appliance and Electronics Repairs](http://transglobalservice.com/) [Shipping and Delivery](https://www.thebrick.com/pages/shipping-and-delivery)[Delivery Tracking](https://bit.ly/3LQs8CZEN) [Removal and Recycling](https://www.thebrick.com/pages/removal-and-recycling) [Complete Your Payment](https://www.thebrick.com/pages/complete-your-payment)
 
 Company Information
 -------------------
@@ -444,11 +448,11 @@ Company Information
 
 We accept:
 
-* ![flexiti card.](//www.thebrick.com/cdn/shop/t/789/assets/lazyPixel.png?v=40482922527014850811722272323)
-* ![visa card.](//www.thebrick.com/cdn/shop/t/789/assets/lazyPixel.png?v=40482922527014850811722272323)
-* ![visa debit card.](//www.thebrick.com/cdn/shop/t/789/assets/lazyPixel.png?v=40482922527014850811722272323)
-* ![AmericanExpress.](//www.thebrick.com/cdn/shop/t/789/assets/lazyPixel.png?v=40482922527014850811722272323)
-* ![Mastercard.](//www.thebrick.com/cdn/shop/t/789/assets/lazyPixel.png?v=40482922527014850811722272323)
+* ![flexiti card.](//www.thebrick.com/cdn/shop/t/802/assets/lazyPixel.png?v=40482922527014850811725379275)
+* ![visa card.](//www.thebrick.com/cdn/shop/t/802/assets/lazyPixel.png?v=40482922527014850811725379275)
+* ![visa debit card.](//www.thebrick.com/cdn/shop/t/802/assets/lazyPixel.png?v=40482922527014850811725379275)
+* ![AmericanExpress.](//www.thebrick.com/cdn/shop/t/802/assets/lazyPixel.png?v=40482922527014850811725379275)
+* ![Mastercard.](//www.thebrick.com/cdn/shop/t/802/assets/lazyPixel.png?v=40482922527014850811725379275)
 
 Prices on this website are for online purchases only. Prices in-store may differ.
 
