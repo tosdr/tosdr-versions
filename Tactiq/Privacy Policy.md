@@ -276,7 +276,7 @@ Summary of updates:
 
 [Help Center
 -----------](https://help.tactiq.io/)[Contact Us
-----------](https://tactiq.typeform.com/to/i3D77b)
+----------](https://tactiq.typeform.com/to/i3D77b)[![](https://cdn.prod.website-files.com/61120cb2509e011efcf0b1e4/66b47919986259af89f1057b_Vanta_Compliance_SOC%202.svg)](https://trust.tactiq.io/)
 
 ###### Product  
 
@@ -292,7 +292,7 @@ Summary of updates:
 
 ###### Discover  
 
-[AI Tools](https://tactiq.io/ai-tools)[Translate](https://tactiq.io/translate)[Transcribe](https://tactiq.io/transcribe)
+[AI Tools](https://tactiq.io/ai-tools)[Translate](https://tactiq.io/translate)[Transcribe](https://tactiq.io/transcribe)[Audio To Text](https://tactiq.io/audio-to-text)[Video To Text](https://tactiq.io/video-to-text)
 
 ###### Useful  
 
