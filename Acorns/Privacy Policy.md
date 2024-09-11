@@ -65,7 +65,7 @@ The Fine Print of Acorns
 * [Gift Card Terms](https://www.acorns.com/giftcardterms/)
 * [Mighty Oak Card](https://www.acorns.com/mighty-oak-terms-and-conditions/)
 * [Long Game Sweepstakes Terms](https://www.acorns.com/longgamesweepstakes/)
-* [Premium Tier Tunsgten Promotions Terms](https://www.acorns.com/tungsten-promotions-terms/)
+* [Gold Tier Tunsgten Promotions Terms](https://www.acorns.com/tungsten-promotions-terms/)
 * [Later Match Terms & Conditions](https://www.acorns.com/later-match-terms/)
 * [Referral Promotion Terms](https://www.acorns.com/ref-terms/)
 * [Earn Rewards Match](https://sqy7rm.media.zestyio.com/Earn-Rewards-Match-TC--9_25-Update-.pdf)
@@ -83,11 +83,11 @@ The Fine Print of Acorns
 * [Form CRS](https://www.acorns.com/form-crs/)
 * [LSB MRDC Disclosure](https://www.acorns.com/mrdc-disclosure/)
 * [LSB Send Check Disclosure](https://www.acorns.com/send-check-disclosure/)
-* [Unaudited Statement of Financial Condition as of June 30, 2023](https://sqy7rm.media.zestyio.com/AS-Public-Financials-06-2023.pdf)
+* [Unaudited Statement of Financial Condition as of June 30, 2024](https://sqy7rm.media.zestyio.com/Acorns-Securities-LLC-Unaudited-Financials-06-30-24.pdf)
 
 ACORNS PRIVACY NOTICE
 
-Effective as of July 18, 2024. 
+Effective as of August 14, 2024. 
 
 |     |     |
 | --- | --- |
@@ -194,7 +194,7 @@ Personal information you may provide to us through the Service or otherwise incl
 * Financial data, such as information about your investment and financial history and interests that you provide through the Service and the information you authorize us to collect from the financial accounts that you connect to the Service.
 * Data about others, such as the personal information of any children or others that you provide when opening investment accounts through the Service on their behalf.  We also offer features that help users invite their friends or contacts to use the Service, and we may collect contact details about these invitees so we can deliver their invitations. Please do not refer someone to us or share their contact details with us unless you have their permission to do so. 
 * Transactional data, such as information relating to or needed to complete your orders on or through the Service, including transaction history and information about your investments. 
-* Communications that we exchange with you, including when you contact us with questions or feedback, through the Service (including chat and other interactive features), social media, survey participation, text messages, or otherwise. 
+* Communications that we exchange with you, including when you contact us with questions or feedback, through the Service (including our chatbot and other interactive features), social media, survey participation, text messages, or otherwise. 
 * Marketing data, such as data you provide when participating in our promotions or in response to our ads or marketing messages.
 
 We may also collect personal information not specifically listed above, which we will use as described in this Privacy Policy or as otherwise disclosed at the time of collection.
@@ -492,9 +492,9 @@ Certain Nevada consumers may opt out of the sale of “personally identifiable i
 
 3\. A properly suggested **portfolio recommendation** is dependent upon current and accurate financial and risk profiles. Clients who have experienced changes to their goals, financial circumstances, or investment objectives, or who wish to modify their portfolio recommendation, should promptly update their information in the Acorns app or through the website.
 
-4\. **Acorns Earn** provides subscribers access to shop with our partners and earn bonus investments into your Acorns Invest portfolios when purchasing items from the partner brands. Acorns Earn rewards investments are made by Acorns Grow, Incorporated into your Acorns Invest account through a partnership Acorns Grow maintains with each Acorns Earn partner. Acorns may receive compensation from business partners in connection with certain promotions in which Acorns refers clients to such partners for the purchase of non-investment consumer products or services. This type of marketing partnership gives Acorns an incentive to refer clients to business partners instead of to businesses that are not partners of Acorns. This conflict of interest affects the ability of Acorns to provide clients with unbiased, objective promotions concerning the products and services of its business partners. This could mean that the products and/or services of other businesses, that do not compensate Acorns, may be more appropriate for a client than the products and/or services of Acorns business partners. Subscribers are, however, not required to purchase the products and services Acorns promotes.
+4\. **Acorns Earn** provides subscribers access to shop with our partners and earn bonus investments into your Acorns Invest portfolios when purchasing items from the partner brands. Acorns Earn rewards investments are made by Acorns Grow, Incorporated into your Acorns Invest account through a partnership Acorns Grow maintains with each Acorns Earn partner. Acorns may receive compensation from business partners in connection with certain promotions in which Acorns refers clients to such partners for the purchase of non-investment consumer products or services. This type of marketing partnership gives Acorns an incentive to refer clients to business partners instead of to businesses that are not partners of Acorns. This conflict of interest affects the ability of Acorns to provide clients with unbiased, objective promotions concerning the products and services of its business partners. This could mean that the products and/or services of other businesses, that do not compensate Acorns, may be more appropriate for a client than the products and/or services of Acorns business partners. Subscribers are, however, not required to purchase the products and services Acorns promotes. Amount earned and invested through Acorns Earn since inception as of July 1, 2024.
 
-5\. Acorns **Subscription Fees** are assessed based on the tier of services in which you are enrolled. Acorns does not charge transactional fees, commissions or fees based on assets for accounts under $1 million. Acorns may receive compensation from business partners in connection with certain promotions in which Acorns refers clients to such partners for the purchase of non-investment consumer products or services. This type of marketing partnership gives Acorns an incentive to refer clients to business partners instead of to businesses that are not partners of Acorns. This conflict of interest affects the ability of Acorns to provide clients with unbiased, objective promotions concerning the products and services of its business partners. This could mean that the products and/or services of other businesses, that do not compensate Acorns, may be more appropriate for a client than the products and/or services of Acorns business partners. Subscribers are, however, not required to purchase the products and services Acorns promotes.
+5\. Acorns **Subscription Fees** are assessed based on the plan of services in which you are enrolled. Acorns does not charge transactional fees, commissions or fees based on assets for accounts under $1 million. Acorns may receive compensation from business partners in connection with certain promotions in which Acorns refers clients to such partners for the purchase of non-investment consumer products or services. This type of marketing partnership gives Acorns an incentive to refer clients to business partners instead of to businesses that are not partners of Acorns. This conflict of interest affects the ability of Acorns to provide clients with unbiased, objective promotions concerning the products and services of its business partners. This could mean that the products and/or services of other businesses, that do not compensate Acorns, may be more appropriate for a client than the products and/or services of Acorns business partners. Subscribers are, however, not required to purchase the products and services Acorns promotes.
 
 6. **Acorns is not a bank.** Acorns Visa™ debit cards and banking services are issued by Lincoln Savings Bank or nbkc bank, members FDIC. Acorns Checking clients are not charged overdraft fees, maintenance fees, or ATM fees for cash withdrawals from in-network ATMs. Please see your Acorns Subscription Center or Account Statements for a description of the fees you pay to Acorns for its services. Any balances you hold with Lincoln Savings Bank or nbkc bank, including but not limited to those balances held in Acorns Checking accounts are added together and are insured up to $250,000 per depositor through Lincoln Savings Bank or nbkc bank, Members FDIC. If you have funds jointly owned, these funds would be separately insured for up to $250,000 for each joint account owner. Lincoln Savings Bank or nbkc bank utilizes a deposit network service, which means that at any given time, all, none, or a portion of the funds in your Acorns Checking accounts may be placed into and held beneficially in your name at other depository institutions which are insured by the Federal Deposit Insurance Corporation (FDIC). For a complete list of other depository institutions where funds may be placed, please visit [https://www.cambr.com/bank-list](https://www.cambr.com/bank-list). Balances moved to network banks are eligible for FDIC insurance once the funds arrive at a network bank. To learn more about pass-through deposit insurance applicable to your account, please see the Account Documentation. Additional information on FDIC insurance can be found at [https://www.fdic.gov/resources/deposit-insurance/](https://www.fdic.gov/resources/deposit-insurance/).
 
@@ -508,7 +508,7 @@ Certain Nevada consumers may opt out of the sale of “personally identifiable i
 
 11\. **Invest,** an individual investment account which invests in a portfolio of ETFs (exchange traded funds) recommended to clients based on their investment objectives, time horizon, and risk tolerance. 
 
-12\. **Later**, an Individual Retirement Account (either Traditional, ROTH or SEP IRA) selected for clients based on their answers to a suitability questionnaire. Please consult your tax advisor with any questions. Existing customers in Acorns Premium or Personal Plus subscription plans can opt into the Acorns Later Match feature and receive either a 3% or 1% IRA match, respectively, on new contributions made to an Acorns Later account. New customers in these subscription tiers are automatically eligible for the Later Match feature at the applicable 3% and 1% match rate. All Later funds for both new and existing customers must be held in an Acorns Later account for at least four years to keep the earned IRA match and all or a portion of IRA Match may be subject to recapture by Acorns if customer downgrades to a Subscription Tier with a lower monthly fee.  
+12\. **Later**, an Individual Retirement Account (either Traditional, ROTH or SEP IRA) selected for clients based on their answers to a suitability questionnaire. Please consult your tax advisor with any questions. Existing customers in Acorns Gold or Silver subscription plans can opt into the Acorns Later Match feature and receive either a 3% or 1% IRA match, respectively, on new contributions made to an Acorns Later account. New customers in these subscription plans are automatically eligible for the Later Match feature at the applicable 3% and 1% match rate. All Later funds for both new and existing customers must be held in an Acorns Later account for at least four years to keep the earned IRA match and all or a portion of IRA Match may be subject to recapture by Acorns if customer downgrades to a Subscription Plan with a lower monthly fee.  
   
 For informational purposes only. This is solely intended to provide notification of an available product or service. This is not a recommendation to buy, sell, hold, or roll over any asset, adopt an investment strategy, or use a particular account type. This information does not consider the specific investment objectives, tax and financial conditions or particular needs of any specific person. Investors should discuss their specific situation with their financial professional.
 
@@ -516,7 +516,7 @@ For informational purposes only. This is solely intended to provide notification
 
 14\. **Custom Portfolios** are non-discretionary investment advisory accounts, managed by the customer. Custom Portfolios are not available as a stand alone account and clients must have an Acorns Invest account. Custom portfolios are not instant trading. Clients wanting more control over order placement and execution may need to consider alternative investment platforms before adding a Custom portfolio account.
 
-15\. The **Acorns Premium GoHenry Benefit** is available only to Acorns subscribers who subscribe to the Acorns Premium Tier and is for the monthly GoHenry Child or Family Plan Membership Fee, subject to these Waiver Terms. You will remain responsible for any other fees that you owe under the GoHenry Cardholder Terms and Conditions that are not included in the monthly GoHenry Child or Family Plan Membership Fee, as applicable.
+15\. The **Acorns Gold GoHenry Benefit** is available only to Acorns subscribers who subscribe to the Acorns Gold Plan and is for the monthly GoHenry Child or Family Plan Membership Fee, subject to these Waiver Terms. You will remain responsible for any other fees that you owe under the GoHenry Cardholder Terms and Conditions that are not included in the monthly GoHenry Child or Family Plan Membership Fee, as applicable.
 
 16\. Kids aged 6-18. **GoHenry Inc.** **The GoHenry Card is issued by Community Federal Savings Bank, member FDIC**, pursuant to license by Mastercard International. Cardholder Terms and limits apply. 
 
@@ -528,7 +528,7 @@ For informational purposes only. This is solely intended to provide notification
 
 20\. **Diversification** and asset allocation do not guarantee a profit, nor do they eliminate the risk of loss of principal.
 
-21\. App rating references the combined all-time star rating received in Google Play and Apple App Store.
+21\. App rating references the combined all-time star rating received in Google Play and Apple App Store. App Store rating as of 5/30/24.
 
 22\. ‘Save and Invest’ refers to a client’s ability to utilize the Acorns Real-Time Round-Ups® investment feature to seamlessly invest small amounts of money from purchases using an Acorns investment account.
 
@@ -536,7 +536,13 @@ For informational purposes only. This is solely intended to provide notification
   
 24\. Comparisons are based on the national average Annual Percentage Yields (APY) published in the FDIC National Rates and Rate Caps as of October 16, 2023.
 
-25\. As of November 13, 2023, Mighty Oak Checking Annual Percentage Yield (APY) is 3.00% and Emergency Fund APY is 5.00%. APY is variable and subject to change.
+25\. Comparisons are based on the national average Annual Percentage Yields (APY) published in the FDIC National Rates and Rate Caps as of November 13, 2023. As of November 13, 2023, Mighty Oak Checking Annual Percentage Yield (APY) is 3.00% and Emergency Fund APY is 5.00%. APY is variable and subject to change at our discretion, without prior notice. No minimum opening deposit or minimum balance required. Acorns is not a bank. Banking services provided by and Mighty Oak Debit Cards issued and provided by nbkc bank, Member FDIC, to Acorns Checking account holders that are U.S. residents over the age of eighteen (18). 
+
+26. On August 21, 2024, Acorns changed the names of its Subscription Plans from "Personal," "Personal Plus," and "Premium" to "Bronze," "Silver," and "Gold." No other changes were made to the Subscription Plans at that time.
+
+27\. Over $22 billion invested since inception as of 6/26/2024. 
+
+28\. Amount invested from Round-Ups alone since inception as of July 31, 2024.  
 
 Acorns, Round-Ups® investments, Real-Time Round-Ups® investments, Invest the Change and the Acorns logo are registered trademarks of Acorns Grow Incorporated. All product and company names are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.
 
@@ -544,7 +550,11 @@ For additional important risks, disclosures, and information, please visit [htt
 
 © 2024 Acorns Grow Incorporated | [Disclosures](https://www.acorns.com/disclosures) | [Accessibility](https://www.acorns.com/accessibility)
 
-![Acorns Logo](https://sqy7rm.media.zestyio.com/App-Icon.B1s9Xy3z9.svg)
+![Acorns Logo](
+        
+          https://sqy7rm.media.zestyio.com/App-Icon.B1s9Xy3z9.svg
+        
+      )
 
 Acorns
 
