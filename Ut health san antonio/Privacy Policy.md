@@ -25,6 +25,7 @@ San Antonio, TX 78229
 * [Faculty directory](https://directory.uthscsa.edu/ "Faculty directory")
 * [Job openings](https://wp.uthscsa.edu/careers/ "Job openings")
 * [Newsroom](http://news.uthscsa.edu/ "Newsroom")
+* [Compliance Hotline](https://wp.uthscsa.edu/compliance/ "Compliance Hotline")
 
 * [](https://www.facebook.com/UTHealthSA "Facebook link")
 * [](https://www.instagram.com/uthealthsa/ "Instagram link")
@@ -36,7 +37,6 @@ San Antonio, TX 78229
 
 * [Accessibility](https://wp.uthscsa.edu/oess/ada-compliance/ "Accessibility")
 * [Compact with Texans](https://wp.uthscsa.edu/afsa/ "Compact with Texans")
-* [Compliance Hotline](https://wp.uthscsa.edu/compliance/ "Compliance Hotline")
 * [Language Assistance](https://uthscsa.edu/sites/default/files/2022-02/Language-Assistance.pdf "Language Assistance")
 * [Legal](http://legalaffairs.uthscsa.edu/ "Legal")
 * [Login to MyChart](https://mychart.utmedicinesa.com/mychart/ "Login to MyChart")
