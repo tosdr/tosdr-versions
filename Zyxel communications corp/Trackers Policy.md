@@ -93,7 +93,7 @@ When considering Wi-Fi 7 for your customers:
 
 [Apply now](https://service-provider.zyxel.com/service-provider/emea/en/wifi-7-solutions)
 
-![](/service-provider/sites/default/files/2024-03/zyxel-wifi-7-solutions_banner_kv-ee6601_1920x500.jpg) ![](/service-provider/sites/default/files/2024-03/zyxel-wifi-7-solutions_banner_kv-ee6601_640x500.jpg)
+![](/service-provider/sites/default/files/2024-09/zyxel-wifi-7-solutions_banner-kv_1920x500.png) ![](/service-provider/sites/default/files/2024-09/zyxel-wifi-7-solutions_banner-kv_640x500.png)
 
 ![](/service-provider/sites/default/files/2023-06/homepage-banner-zywatch-discounted-offer-icon.png)
 
@@ -118,11 +118,11 @@ Image
 
 Image
 
-  ![homepage-feature-banner_emea_340x500.jpg](/service-provider/sites/default/files/styles/large/public/2023-06/homepage-feature-banner_emea_340x500.jpg?itok=FQGd0vNG "homepage-feature-banner_emea_340x500.jpg")
+  ![CB24_banner_340x500.jpg](/service-provider/sites/default/files/styles/large/public/2024-08/CB24_banner_340x500.jpg?itok=BU11od5K "CB24_banner_340x500.jpg")
 
-### ZyWatch - never miss out on a good deal
+### Join us at Connected Britain, September 11-12, 2024
 
-[Learn more](https://zywatch.eu/)
+[Learn more](https://www.zyxel.com/service-provider/emea/en/events/connected-britain-2024)
 
 Image
 
