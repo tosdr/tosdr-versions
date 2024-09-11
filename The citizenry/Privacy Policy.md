@@ -326,6 +326,7 @@ Our Brands
 * [Havenly](https://havenly.com/)
 * [Interior Define](https://interiordefine.com/)
 * [The Inside](https://www.theinside.com/)
+* [St. Frank](https://www.stfrank.com/)
 
 Locations
 
