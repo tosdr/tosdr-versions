@@ -37,7 +37,7 @@ Search
 
 [VIVE Accessories](https://www.vive.com/uk/accessory/)
 
-[VIVE Accessories](https://www.vive.com/uk/accessory/) [Ultimate Tracker New](https://www.vive.com/uk/accessory/vive-ultimate-tracker/) [Full Face Tracker New](https://www.vive.com/uk/accessory/vive-full-face-tracker/) [MR Gasket](https://www.vive.com/uk/accessory/vive-mr-gasket/) [Tracker (3.0)](https://www.vive.com/uk/accessory/tracker3/) [Base Station 2.0](https://www.vive.com/uk/accessory/base-station2/)
+[VIVE Accessories](https://www.vive.com/uk/accessory/) [Ultimate Tracker New](https://www.vive.com/uk/accessory/vive-ultimate-tracker/) [Full Face Tracker New](https://www.vive.com/uk/accessory/vive-full-face-tracker/) [Deluxe pack](https://www.vive.com/uk/accessory/deluxe-pack-for-vive-xr-elite/) [Tracker (3.0)](https://www.vive.com/uk/accessory/tracker3/) [Base Station 2.0](https://www.vive.com/uk/accessory/base-station2/)
 
 [All products](https://www.vive.com/uk/product/)
 
@@ -214,7 +214,7 @@ Search our articles or browse by category below.
 
 Search
 
-![Loading...](https://myshop.vive.com/static/version1721030162/frontend/Magento/vive2/en_US/images/loader-1.gif)
+![Loading...](https://myshop.vive.com/static/version1725360843/frontend/Magento/vive2/en_US/images/loader-1.gif)
 
 #### [Returns and Cancellations (3)](https://myshop.vive.com/vive_uk/faq/category/return-cancellation)
 
