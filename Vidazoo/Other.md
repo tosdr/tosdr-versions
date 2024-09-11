@@ -1,7 +1,8 @@
 [![](https://vidazoo.gitbook.io/~gitbook/image?url=https%3A%2F%2F740631136-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lu8gBkikjSdeMGMJn7M%252Ficon%252FdYpiTYVjlcg5OrYNNLNo%252F123.png%3Falt%3Dmedia%26token%3D01af186d-12bd-44c6-bd98-bc4ef2148d43&width=32&dpr=4&quality=100&sign=15e634c9&sv=1)![](https://vidazoo.gitbook.io/~gitbook/image?url=https%3A%2F%2F740631136-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lu8gBkikjSdeMGMJn7M%252Ficon%252FdYpiTYVjlcg5OrYNNLNo%252F123.png%3Falt%3Dmedia%26token%3D01af186d-12bd-44c6-bd98-bc4ef2148d43&width=32&dpr=4&quality=100&sign=15e634c9&sv=1)
 
-Vidazoo Legal
-=============](https://vidazoo.gitbook.io/vidazoo-legal)
+Vidazoo Legal](https://vidazoo.gitbook.io/vidazoo-legal)
+
+More
 
 SearchCtrl + K
 
@@ -33,117 +34,66 @@ SearchCtrl + K
 Publisher Guidelines
 ====================
 
-\[Last Modified: October 15, 2023\]
+\[Last Updated: August 28, 2024\]
 
-These Publisher Guidelines (the “Guidelines”) apply to any Publisher who is engaged with any of Vidazoo’s services, platforms or technologies. Unless expressly and specifically approved by Vidazoo in advance and in writing, Publisher (including Publisher Websites, Media, Content and any other deliverable as defined in the Parties’ Agreement (an any attached annex), shall meet any and all the following guidelines.
+These publisher guidelines (“Publisher Guidelines” or “Guidelines”) apply to any publisher (“Client” or “Publisher”) who is engaged via an agreement (“Agreement”) with Vidazoo Ltd. (“Vendor”), which links to these Publisher Guidelines, for the provision of Services by Vendor. Client and (where applicable) its partners and publisher network, and the Client Sites, shall meet all of the following guidelines. Capitalized terms used and not otherwise defined herein shall have the meanings given to them in the Agreement.
 
-We reserve the right, at our discretion, to revise or update the Guidelines at any time. Such amendments shall be effective upon publication of the amended Guidelines. The last revision will be reflected in the “Last Modified” heading. Your continued use of the Services thereafter constitutes you consent to such changes and you agree to be bound by them, therefore we ask you to check back periodically to review the most updated Guidelines.
+Vendor reserves the right, at its discretion, to revise or update these Publisher Guidelines at any time. Such amendments shall be effective upon publication of the amended Publisher Guidelines. The last revision will be reflected in the “Last Updated” heading. Client’s continued use of the Services thereafter constitutes its consent to such changes and its agreement to be bound by them. Therefore, we ask you to check back periodically to review the most updated Guidelines.
 
-[](#id-1.-general)
+_1\. General_
 
-1\. General
+Client shall: (a) Where Client is not the direct owner of the Client Sites, monitor its publisher network for its compliance with these Publisher Guidelines; and (b) Uphold the regulations of industry leading self-regulatory principles, including, the Network Advertising Initiative (NAI), the Digital Advertising Alliance (available at: [https://digitaladvertisingalliance.org/principles](https://digitaladvertisingalliance.org/principles)) and additional regulatory programs and/or guidelines as may become available from time to time by Vendor or its 3rd party advertising partners.
 
+_2\. Data Usage_
 
------------------------------------
+Unless expressly allowed under the terms of the Agreement, Client: (a) either directly or indirectly, will avoid transferring of any sensitive data of end users to Vendor; or (b) may only use data, statistics, and other information (except for bid request data) derived from using the Services only in connection with the use of the Services, and shall not otherwise copy, export or transfer the data for any other purposes.
 
-When using Vidazoo’s Services, platforms and/or technology (jointly “**Services**”), Publisher and Publisher’s website(s), application(s) or any other inventory provided as part of the services (“Publisher’s Site(s)”) will:
+_3\. Children and Adult Ads_
 
-1.1. Comply with all applicable laws, rules, regulations, platform policies and best industry standards; and
+3.1. Generally, Client shall not direct the Client Sites or target its respective content, at children under the age of 16 (or, if higher than 16, the applicable age of minority defined in any other applicable jurisdiction).
 
-1.2. Uphold the regulations of industry leading self-regulatory principles, including, NAI (available at: [https://www.networkadvertising.org/code-enforcement/code](https://www.networkadvertising.org/code-enforcement/code)),Digital Advertising Alliance (available at: [https://digitaladvertisingalliance.org/principles](https://digitaladvertisingalliance.org/principles)) and additional regulatory programs and/or guidelines as may become available from time to time by Vidazoo or its 3rd party advertising partners.
+3.2. In no case will Client transfer to Vendor, its advertisers or demand partners any personal information or personal data of children under the age of 16 (or, if higher than 16, the applicable age of minority defined in any other applicable jurisdiction).
 
-[](#id-2.-privacy-policy-and-disclosures)
+3.3. Additionally, to the extent that Client wishes to display Ads for alcoholic beverages, tobacco, gambling, sports betting, or similar adult-directed products or services, Client represents and warrants with respect to any Client Sites or pages, to only present such Ads in territories where it is legal to do so, and without derogating from the generality of the aforesaid, where it is legal to present such Ads, that: (a) such Ads will appear where the audience of such Client Sites meets the age limit and any other requirements under any applicable laws and regulations (including self-regulatory); and (b) in any case such Client Sites or pages will not be directed to and will not uniquely appeal to individuals under the age of 21.
 
-2\. Privacy Policy and disclosures
+3.4. Client will age screen all users and prevent users who self-identify themselves as under the age of 16 (or, if higher than 16, the applicable age of minority underage defined in any other applicable jurisdiction), or higher in case of Section 3.3 above, from viewing pages on which the applicable Ads are placed.
 
+3.5. Notwithstanding the aforementioned, to the extent that any applicable laws or regulations determine more strict rules than the ones mentioned in Sections 3.1-3.4 above, Client shall comply with the rules of such stricter laws and regulations, which shall prevail.
 
----------------------------------------------------------------------------------
+_4\. Prohibited Content_
 
-Publisher’s Site(s) will contain or link to an accessible and conspicuous privacy policy that will provide its end users with all disclosures required by applicable laws in which such users reside, including:
+4.1. The Client Sites and any respective content or underlying code, shall meet, at the least, the following requirements:
 
-2.1. Data collection practices, purposes, processing activities, usage or any other detail required by applicable laws; and
+4.1.1. Must be content-based and fully functional at all levels (including, not a pop-up, pop-over or pop-under window);
 
-2.2. Expressly identifies that Publisher uses third-party advertising partners to serve ads and may collect, for such purpose, a user data; and
+4.1.2. Will not include any content which (i) is objectionable, harmful, libelous, fraudulent or otherwise illegal and/or illegal to publish and/or questionable; (ii) contains or promotes pornography, profanity, hate, narcotics, adult or mature content, misleading content or any content that is or may reasonably be considered as misrepresentation, or offensive, or as relating to weapons, violence, or banned substances; (iii) includes, promotes, contains or facilitates any viruses, malware, spyware, adware or any malicious code or file that may compromise a user’s system or privacy; (iv) is primarily designed to collecting personally identifiable information of users.
 
-2.3. Publisher full details.
+4.1.3. The Client Sites will not contain user-generated content. Subject to Vendor’s prior written approval, Client may incorporate user commentary and social networking functionality into Client Sites. However, because the Client Sites are not primarily focused on social networking, Ads delivered on such areas of the Client Sites containing user commentary or social media functionality do not constitute impermissible user-generated content for purposes of the Agreement.
 
-[](#id-3.-data-usage)
+_5\. Prohibited Activities_
 
-3\. Data Usage
+Client will not, either directly or indirectly, perform or engage in any of the following activities (“Prohibited Activities”):
 
+5.1. With respect to the Services: Client will not, nor will Client attempt to: (i) copy, damage, reverse engineer, decipher, decompile, translate or disassemble any software components or code of the Services, Ads or tags, or authorize, enable or engage in modification Vendor’s, platforms or API in any way; (ii) alter, modify, eliminate, conceal, or otherwise render inoperable or ineffective the website tags, source codes, links, pixels, modules or other data provided by or obtained from Vendor that allows the Services to measure ad performance and provide its service; (iii) unless expressly permitted pursuant to the terms of the Agreement on a “white label” basis, sell, resell, reproduce, copy, rent, lease, sublicense, transfer or otherwise make available the Services, Ads or tags, or any copies thereof to any third party (including, but not limited to, bidding for Ads or tags while simultaneously selling the bid-for ad or tag on the Service or any other service), or create derivative works therefrom; (iv) authorize, enable or engage in unauthorized implementations, including the use, display, syndication, sublicensing, or delivery of the Ads provided by Vendor, anywhere other than on the Client Sites.
 
------------------------------------------
+5.2. With respect to traffic generation and quality: Client will not generate or be engaged with generating any non-human or other fraudulent traffic, or use of Client Sites which differ from those disclosed to Vendor, and specifically shall not deliver: (i) views, visits, impressions, clicks or any other delivered action, that were a result of any false, deceptive or automated means; (ii) generate clicks without referring URLs or from non-approved root URLs, generate fraudulent clicks, or otherwise use any method that may lead to false or artificially high numbers of clicks or impressions by any person, robot, automated program or similar device; (iii) interfere or attempt to interfere with the proper function of the Services or anyone’s use of the Services; or (iv) interfere or attempt to interfere with the full, complete, immediate, and direct display of any Ads and any third-party properties accessed via links on Ads.
 
-Publisher, either directly or indirectly, will avoid of any of the following:
+5.3. Intentionally place or cause to be placed Ads on blank web pages or on web pages with no content; stack Ads (for example, and without limitation, place them on top of one another so that more than two Ads are next to each other); or place Ads on non-approved websites or applications, or in such a fashion that may be deceptive to the visitor.
 
-3.1. Transferring or transmitting of any Personal Information of end users or other sensitive data to Vidazoo, as such terms are defined under the applicable laws in which the Services are provided.
+5.4. Place or cause to be placed Ads on any websites or applications other than the specific URL specified by Vendor for such Ads, or place Ads intended for Client Sites on or within any other media (for example, and without limitation, emails) other than the Client Sites agreed under the applicable Agreement.
 
-3.2. Using data gathered during delivery of any advertising material in any campaign (e.g., number of impressions, interactions, and header information), for purposes of retargeting, targeting, profiling, optimization and performance or any other purpose which is not the sole purpose of campaign delivery, performance and optimization.
+5.5. Alter, copy, modify, take, sell, re-use, or divulge in any manner any Ads provided by Vendor.
 
-3.3. Collecting any Personal Information without due disclosure, consent (or other lawful basis, as defined by applicable law).
+5.6. Use the following methods of generating visitor interest in Client Sites or Ads (the violation of which would constitute a material breach to the Agreement): mailing emails to persons other that those persons who have requested to receive such emails; use of unsolicited email or inappropriate newsgroup postings to promote Ads; automatic refreshing of browsers to call Ads, auto-spawning of browsers; automatic redirecting of visitors; blind text links; misleading links, incentivized clicks, forced clicks (e.g., a person should never be ‘forced’ to click on a creative because their browser has been hijacked, or because a creative has been altered so that it is impossible to close without clicking it); or any other method that may lead to artificially high numbers of delivered clicks.
 
-3.4. Publisher may only use all data, statistics, and other information (except for bid request data) derived from using the Services only in connection with the use of the Services, and shall not otherwise copy, export or transfer the data for any other purposes.
+_6\. Remedies_
 
-[](#id-4.-user-consent)
-
-4\. User consent
-
-
----------------------------------------------
-
-Publisher shall provide all required notices, disclosures and request for consent, as the case may be, including by posting a privacy policy, cookie policy, cookie notification and mechanisms to withdrawal consent by end users, for any personalized activity.
-
-[](#id-5.-children)
-
-5\. Children
-
-
--------------------------------------
-
-5.1. Publisher’s shall not direct Publisher’s Sites or target its respective content, at children under the age of 16 (or, if higher than 16, the applicable underage defined in any other applicable jurisdiction).
-
-5.2. In no case, will Publisher transfer to Vidazoo or its advertisers and demand partners, any Personal Information or Personal Data of children under the age of 16 (or, if higher than 16, the applicable underage defined in any other applicable jurisdiction).
-
-[](#id-6.-prohibited-content)
-
-6\. Prohibited Content
-
-
----------------------------------------------------------
-
-Publisher’s Site(s) and any respective content or underlying code, shall meet, at the least, the following requirements:
-
-6.1. Must be content-based, fully functional websites at all levels (including, not a pop-up, pop-over or pop-under window); and
-
-6.2. All text, sounds, images and/or other materials made available on or through Publisher Site must not infringe upon any third party right, including any right for privacy intellectual property of any third party; and
-
-6.3. Must not include any Content which is (i) objectionable, harmful, libelous, fraudulent or otherwise illegal and/or questionable; or (ii) contains or promotes pornography, adult or mature content, misleading Content or any content that is or may reasonably be considered as misrepresentation, offensive, weapons and violence, banned substances; or (iii) include, promote, contain or facilitate and viruses, malware, spyware, adware or any malicious code or file that may compromise user’s system or privacy; or (iv) that is primarily designed to collecting a personally identifiable information of users.
-
-[](#id-7.-prohibited-activities)
-
-7\. Prohibited Activities
-
-
----------------------------------------------------------------
-
-Publisher will not, either directly or indirectly, perform or engage in any of the following Prohibited Activities:
-
-7.1. With respect to the Services and respective technology and platform: Publisher will not, nor will Publisher attempt to: (i) copy, damage, reverse engineer, decipher, decompile, translate or disassemble any software components or code of the Services, ads or tags, not authorize, enable or engage in modification Vidazoo’s, platform or API in any way; (ii) alter, modify, eliminate, conceal, or otherwise render inoperable or ineffective the website tags, source codes, links, pixels, modules or other data provided by or obtained from Vidazoo that allows Vidazoo’s Services to measure ad performance and provide its service; (iii) sell, reproduce, copy, rent, lease, sublicense, transfer or otherwise make available the Services, ads or tags, or any copies thereof to any third party (including, but not limited to, bidding for ads or tags while simultaneously selling the bid-for ad or tag on the Service or any other service), or create derivative works therefrom; (iv) authorize, enable or engage in unauthorized implementations, including the use, display, syndication, sublicensing, or delivery of Vidazoo’s ads anywhere other than on the Publisher’s Inventory.
-
-7.2. With respect to traffic generation and traffic quality: Publisher will not generate or be engage with generating any non-human or other fraudulent traffic and specifically shall not deliver: (i) view, visits, impressions, clicks or any other delivered action, that were a result of any false, deceptive or automated means; or (ii) Generate clicks without referring URLs or from non-approved root URLs, generate fraudulent clicks, or otherwise use any method that may lead to false or artificially high numbers of clicks or impressions by any person, robot, automated program or similar device; or (iii) interfere or attempt to interfere with the proper function of the Service or anyone’s use of the Service; or (iv) interfere or attempt to interfere with the full, complete, immediate, and direct display of any ads and any third-party websites accessed via links on ads.
+Client acknowledges and agrees that a breach of these Publisher Guidelines could result in immediate, extraordinary and irreparable damage to Vendor and its relationships with its partners, and that damages may be difficult to measure. Therefore, Client agrees that should it breach these Publisher Guidelines, in addition to any other remedy that Vendor is entitled to, then Vendor shall be entitled to seek injunctive relief without the requirement to post a bond, in addition to other legal remedies it may pursue. Vendor may, in its sole discretion and upon belief by Client of a breach of these Publisher Guidelines, suspend any running campaigns without liability to Client until such breach has ceased or been corrected. Vendor shall exercise commercially reasonable efforts to notify Client in advance of any such suspension, but in any case, as soon as reasonably practicable thereafter.
 
 [PreviousTerms and Conditions](https://vidazoo.gitbook.io/vidazoo-legal/terms-and-conditions)[NextData Processing Agreement - Publisher](https://vidazoo.gitbook.io/vidazoo-legal/data-protection-addendum)
 
-Last updated 7 months ago
+Last updated 13 days ago
 
 On this page
-
-* [1\. General](#id-1.-general)
-* [2\. Privacy Policy and disclosures](#id-2.-privacy-policy-and-disclosures)
-* [3\. Data Usage](#id-3.-data-usage)
-* [4\. User consent](#id-4.-user-consent)
-* [5\. Children](#id-5.-children)
-* [6\. Prohibited Content](#id-6.-prohibited-content)
-* [7\. Prohibited Activities](#id-7.-prohibited-activities)
 
 Was this helpful?
