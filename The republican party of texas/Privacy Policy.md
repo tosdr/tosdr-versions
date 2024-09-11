@@ -21,9 +21,9 @@ Skip links
     
     [### RPT Staff](https://texasgop.org/rpt-staff/)
     
-    [### Partnerships & Auxiliaries
+    [### Partnerships & Coalitions
     
-    Partners and auxiliary organizations work in cooperation with the formal Party organization to bring specific groups of citizens into the Republican Party.](https://texasgop.org/partnerships-auxiliaries/)
+    Partners and coalition organizations work in cooperation with the formal Party organization to bring specific groups of citizens into the Republican Party.](https://texasgop.org/partnerships-coalitions/)
     
     ###### Contact Us for Latest Updates
     
@@ -45,6 +45,11 @@ Skip links
     
     Please use the following form for media requests and the appropriate staff with respond.](https://texasgop.org/media-requests/)
     
+    [Press releases](https://texasgop.org/category/press-releases/) | [News](https://texasgop.org/category/news/)
+    
+    [Texas GOP Announces U.S. Rep. Beth Van Duyne as Victory Chair 2024](https://texasgop.org/texas-gop-announces-u-s-rep-beth-van-duyne-as-victory-chair-2024/)
+    ------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [Press releases](https://texasgop.org/category/press-releases/)
     
     [2024 Rules and Voting Results Released](https://texasgop.org/2024-rules-and-voting-results-released/)
@@ -54,11 +59,6 @@ Skip links
     
     [2024 Primary Runoff Canvass](https://texasgop.org/2024-primary-runoff-canvass/)
     --------------------------------------------------------------------------------
-    
-    [Statement](https://texasgop.org/category/statement/) | [Press releases](https://texasgop.org/category/press-releases/) | [Legislative Priorities](https://texasgop.org/category/legislative-priorities/)
-    
-    [2024 Platform and Legislative Priorities Released](https://texasgop.org/2024-platform-and-legislative-priorities/)
-    -------------------------------------------------------------------------------------------------------------------
     
     ###### Contact Us for Latest Updates
     
@@ -102,7 +102,7 @@ Skip links
     
     [### Legislative Priorities
     
-    The Legislative Priorities for the 88th Session (2023-2024) of the Texas Legislature are:](https://texasgop.org/priorities/)
+    The Legislative Priorities for the 89th Session (2024-2025) of the Texas Legislature are:](https://texasgop.org/priorities/)
     
     [### Bill List
     
@@ -119,6 +119,21 @@ Skip links
     [Learn More](https://texasgop.org/contact-us/)
     
 * [Events](https://texasgop.org/events/)
+    
+    [### Calendar
+    
+    Check out upcoming Republican events across the state of Texas.](https://texasgop.org/events/)
+    
+    [### Submit an Event
+    
+    Hosting an event we need to know about? Submit your event to be added to our calendar](https://texasgop.org/event-submission/)
+    
+    ###### Contact Us for Latest Updates
+    
+    Text “Texas” to 43457 to join, or by entering your phone number and selecting to opt in, you consent to join a recurring SMS/MMS text messaging program that will provide alerts, donation requests, updates, and other important information.
+    
+    [Learn More](https://texasgop.org/contact-us/)
+    
 * [Shop](https://texasgop.org/shop/)
 * [Grassroots Club](https://secure.anedot.com/txgop/grassroots-club-monthly)
 * [Donate](https://secure.winred.com/republican-party-of-texas/donate)
@@ -150,6 +165,8 @@ X
     * [88th LP Bill List](https://texasgop.org/88lp-bill-list/)
     * [LP Report](https://texasgop.org/lp-report/)
 * [Events](https://texasgop.org/events/)
+    * [Calendar](https://texasgop.org/events/)
+    * [Submit an Event](https://texasgop.org/event-submission/)
 * [Shop](https://texasgop.org/shop/)
 * [Grassroots Club](https://secure.anedot.com/txgop/grassroots-club-monthly)
 * [Donate](https://secure.winred.com/republican-party-of-texas/donate)
@@ -181,6 +198,8 @@ X
     * [88th LP Bill List](https://texasgop.org/88lp-bill-list/)
     * [LP Report](https://texasgop.org/lp-report/)
 * [Events](https://texasgop.org/events/)
+    * [Calendar](https://texasgop.org/events/)
+    * [Submit an Event](https://texasgop.org/event-submission/)
 * [Shop](https://texasgop.org/shop/)
 * [Grassroots Club](https://secure.anedot.com/txgop/grassroots-club-monthly)
 * [Donate](https://secure.winred.com/republican-party-of-texas/donate)
@@ -416,7 +435,7 @@ This website uses cookies to improve your web experience.
 
 Accept
 
-                                                                
+                                                                 
 
 Loading...
 
