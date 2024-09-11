@@ -23,7 +23,7 @@ US English
 
 |
 
-[Instructor Login ›](https://www.typing.com/teacher/login) [Student Login ›](https://www.typing.com/student/login)
+[Instructor Login ›](https://teachers.typing.com/login) [Student Login ›](https://www.typing.com/student/login)
 
 [![Typing.com Home](/dist/site_typing/images/typing-logo.svg)](https://www.typing.com/)
 
@@ -55,14 +55,14 @@ Log In
 
  [![Typing.com never shares or sells any data, ever.](/dist/site_typing/images/learner-2-with-background.svg)](https://www.typing.com/student/login)[Log In as a Student »](https://www.typing.com/student/login)
 
- [![Typing.com never shares or sells any data, ever.](/dist/site_typing/images/educator-3.svg)](https://www.typing.com/teacher/login)[Log In as an Instructor »](https://www.typing.com/teacher/login)
+ [![Typing.com never shares or sells any data, ever.](/dist/site_typing/images/educator-3.svg)](https://www.typing.com/login)[Log In as an Instructor »](https://teachers.typing.com/login)
 
 Sign Up
 -------
 
  [![Typing.com never shares or sells any data, ever.](/dist/site_typing/images/learner-2-with-background.svg)](https://www.typing.com/student/signup)[Sign Up as a Student »](https://www.typing.com/student/signup)
 
- [![Typing.com never shares or sells any data, ever.](/dist/site_typing/images/educator-3.svg)](https://www.typing.com/teacher/signup)[Sign Up as an Instructor »](https://www.typing.com/teacher/signup)
+ [![Typing.com never shares or sells any data, ever.](/dist/site_typing/images/educator-3.svg)](https://www.typing.com/signup)[Sign Up as an Instructor »](https://teachers.typing.com/signup)
 
 [![Typing.com Home](/dist/site_typing/images/typing-logo.svg)](https://www.typing.com/)
 
@@ -80,14 +80,14 @@ Sign Up
 
 * [Instructor Login ›](https://www.typing.com/student/login)
     
-    [Student Login ›](https://www.typing.com/teacher/login)
+    [Student Login ›](https://teachers.typing.com/login)
     
 
 * Sign Up Now »
 
 Select a product:
 
-[Instructor Signup »](https://www.typing.com/teacher/signup)
+[Instructor Signup »](https://teachers.typing.com/signup)
 
 [Student Signup »](https://www.typing.com/student/signup)
 
@@ -141,7 +141,7 @@ Typing.com collects and processes this basic account information in order to pro
 
 **Rostering Services Account Information:** You can also establish an account to use our site by logging in through rostering services, such as Clever, Classlink, Schoology, Microsoft, or Google Single Sign On. If you do, we may collect certain personal information through the social network, including but not limited to, your full name and email address.
 
-**Account Information about student users in a classroom:** After a teacher/administrator has entered into an agreement with EdClub, designated school officials can register students to use either the free or paid version. When school officials register Students, only a username and password are required, but we may collect other basic information about the students at the discretion of the school official, such as name, grade level, and class enrollment. The school official is required to obtain the consent of a parent or legal guardian of the Child before providing a Child's personal information. (Please see our "Children's Privacy Policy," below, for information about our collection and use of information from children under 13.)
+**Account Information about student users in a classroom:** After a teacher/administrator has entered into an agreement with Typing.com, designated school officials can register students to use either the free or paid version. When school officials register Students, only a username and password are required, but we may collect other basic information about the students at the discretion of the school official, such as name, grade level, and class enrollment. The school official is required to obtain the consent of a parent or legal guardian of the Child before providing a Child's personal information. (Please see our "Children's Privacy Policy," below, for information about our collection and use of information from children under 13.)
 
 **Other Information:** Regardless of whether you establish an account with us, we may collect certain information from you when you visit our Websites or use our Services so that we can maintain our Services and recognize you when you return to our Websites. In addition, the free versions contain advertising managed by Playwire LLC. Playwire LLC may collect and use certain aggregated and anonymized data for advertising purposes.
 
