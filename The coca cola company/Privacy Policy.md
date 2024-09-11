@@ -461,7 +461,7 @@ _**Your Consumer Privacy Rights**_
 
 Depending on your residency, the type of Personal Data collected, and subject to certain exemptions, you may have rights with respect to your Personal Data. We may choose to extend these rights to you even if we are not required to under applicable law:
 
-* **Right to access information:** You may have the right to request access to personal information collected about you and information regarding the source of that information, the purposes for which we collect it and the third parties and service providers with whom we share it.
+* **Right to access/know:** You may have the right to know and request information about the categories and specific pieces of personal information we have collected about you within the last 12 months, as well as the categories of sources from which such information is collected, the purpose for collecting such information, and the categories of third parties, or specific third parties, depending on your jurisdiction, with whom we share such information. You also have the right to know if we have sold or disclosed your personal information.
     
 * **Right to data portability:** – In some instances, you may have the right to receive the information about you in a portable and readily usable format. 
     
@@ -469,7 +469,7 @@ Depending on your residency, the type of Personal Data collected, and subject to
     
 * **Right to correct:** You may have the right to correct inaccurate personal information about you. Note that correction requests are subject to certain limitations, and we may choose to delete rather than correct your personal information in some circumstances.
     
-* **Right to opt-out of sale, sharing or targeted advertising of personal information to third parties:**  Our disclosure of your personal information to third party advertising and analytics providers may constitute a sale under certain state laws and, in California, may also constitute “sharing” (which is a term used to address the sharing of information for advertising purposes). To the extent that our use constitutes a sale or sharing of your personal information, you have the right to opt-out by (a) enabling an opt-out preference signal or Global Privacy Control on your browser which is recognized by our U.S.-facing websites, (b) opting-out of cookies in our U.S.-facing websites’ cookie preference center, or (c) **submitting an opt-out request here: (https://www.coca-cola.com/us/en/legal/dsrrequests)**  
+* **Right to opt-out of sale, sharing or targeted advertising of personal information to third parties:**  Our disclosure of your personal information to third party advertising and analytics providers may constitute a sale under certain state laws and, in California, may also constitute “sharing” (which is a term used to address the sharing of information for advertising purposes). To the extent that our use constitutes a sale or sharing of your personal information, you have the right to opt-out by (a) enabling an opt-out preference signal or Global Privacy Control on your browser which is recognized by our U.S.-facing websites, (b) opting-out of cookies in our U.S.-facing websites’ cookie preference center, or (c) **submitting an opt-out request here: ([https://www.coca-cola.com/us/en/legal/dsrrequests](https://www.coca-cola.com/us/en/legal/dsrrequests))**  
     
 * **Right to opt-out of the processing of sensitive personal data:** Certain Personal Data qualifies as “sensitive personal data” under U.S. Privacy Laws. Some U.S Privacy Laws require consent for the processing of sensitive personal data subject to certain exceptions and exemptions. You may have the right to revoke such consent, if applicable, and/or direct us to limit our use and disclosure of sensitive personal data if we use it beyond certain internal business purposes.
     
@@ -492,11 +492,9 @@ Data solely retained for data backup or archive purposes is principally excluded
 
 To submit a request to exercise your privacy rights, please:
 
-* click **here to access the Privacy Request Form: (https://www.coca-cola.com/us/en/legal/dsrrequests)**. 
+* click **here to access the Privacy Request Form: ([https://www.coca-cola.com/us/en/legal/dsrrequests](https://www.coca-cola.com/us/en/legal/dsrrequests))**. 
     
 * call toll-free to 1-800-438-2653
-    
-* email us at: **privacy@coca-cola.com**
     
 
 To submit your request, please be prepared with your name, email address and place of residence. You may authorize another person (your _**agent**_) to submit a request on your behalf. 
@@ -518,7 +516,7 @@ Please note:
 
 **Agent Requests**
 
-You may use an authorized agent to make a privacy rights request for you. Before you can authorize an agent, Coca‑Cola requires that you complete our form **here: (https://privacyportal.onetrust.com/webform/e3ab7adf-beb9-4769-844e-c1ec4e6d17bb/9b9d91a6-4ffd-43e3-8f19-86342ca230ca)**. We also may require that you directly confirm that you authorized the agent to submit requests on your behalf. Please note that it may take additional time to verify and fulfill agent-submitted requests.   Once confirmed, your authorized agent may exercise privacy rights on your behalf, subject to the requirements of applicable law. 
+You may use an authorized agent to make a privacy rights request for you. Before you can authorize an agent, Coca‑Cola requires that you complete our form **here: ([https://privacyportal.onetrust.com/webform/e3ab7adf-beb9-4769-844e-c1ec4e6d17bb/9b9d91a6-4ffd-43e3-8f19-86342ca230ca](https://privacyportal.onetrust.com/webform/e3ab7adf-beb9-4769-844e-c1ec4e6d17bb/9b9d91a6-4ffd-43e3-8f19-86342ca230ca))**. We also may require that you directly confirm that you authorized the agent to submit requests on your behalf. Please note that it may take additional time to verify and fulfill agent-submitted requests.   Once confirmed, your authorized agent may exercise privacy rights on your behalf, subject to the requirements of applicable law. 
 
 **Appeals**
 
