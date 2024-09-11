@@ -598,7 +598,7 @@ These Costa Coffee Subscription Terms supplement our [Terms of Use and Sale](#te
 
 ### **YOUR ACCOUNT**
 
-To enroll in a Costa Coffee Subscription, you will need to log in to your Account. If you have not created an Account yet, please go **here: (https://account.us.coca-cola.com/authorize?client\_id=brandscom&redirect\_uri=https://us.coca-cola.com/token\_exchange&response\_type=code&state=eyJub25jZSI6IjcxYjY4MGI1LTEzZjktNGFkYi1hZThkLTY5OTA0NGM5MzAxYyJ9&code\_challenge=jE\_Q6a\_6Oshbfk8wNPnc8fqa27zTHdXLoaLqZYQ8Vog&code\_challenge\_method=S256&session\_uuid=3e8a7249-eca9-4bbc-a257-fa7ae88a7694&scope=zone:red&initScreen=signUp)** to create one.
+To enroll in a Costa Coffee Subscription, you will need to log in to your Account. If you have not created an Account yet, please go **[here](https://www.coca-colastore.com/customer/account/create)** to create one.
 
 ### **HOW YOUR COSTA COFFEE SUBSCRIPTION WORKS**
 
@@ -626,7 +626,7 @@ Last Updated: August 22, 2022
 
 **1\. Eligibility:** Coca‑Cola Direct Benefits (the "Program") is open to consumers who reside in select zip codes in the Charlotte, North Carolina metropolitan area who are at least 18 years old or older. The Program is subject to all applicable laws and regulations. Void where prohibited.
 
-**2\. How to Participate:** To participate, visit the **Coca‑Cola Direct (https://us.coca-cola.com/direct/)** website (“Website”) and click on the “join now” to become a member. You will be required to create a free Coke account (“Account”) by submitting your name, email address, date of birth and accepting the [Terms of Use](#terms-of-use-and-sale) and [Privacy Policy](https://us.coca-cola.com/privacy-policy). Multiple participants are not permitted to share the same Account or email address. Any attempt by any participant to use multiple/different email addresses, identities, Account, or any other methods result in the participant being disqualified.
+**2\. How to Participate:** To participate, visit the **[Coca‑Cola Direct](https://www.cokedirect.com/)** website (“Website”) and click on the “join now” to become a member. You will be required to create a free Coke account (“Account”) by submitting your name, email address, date of birth and accepting the [Terms of Use](#terms-of-use-and-sale) and [Privacy Policy](https://us.coca-cola.com/privacy-policy). Multiple participants are not permitted to share the same Account or email address. Any attempt by any participant to use multiple/different email addresses, identities, Account, or any other methods result in the participant being disqualified.
 
 **3\. How to receive Reward Points and other Special Offers:**
 
@@ -669,7 +669,7 @@ These Coke Direct Subscription Terms supplement our [Terms of Use and Sale](#ter
 
 ### **YOUR ACCOUNT**
 
-To enroll in a Coke Direct Subscription, you will need to log in to your Account. If you have not created an Account yet, please go **here: (https://account.us.coca-cola.com/authorize?client\_id=brandscom&redirect\_uri=https://us.coca-cola.com/token\_exchange&response\_type=code&state=eyJub25jZSI6IjcxYjY4MGI1LTEzZjktNGFkYi1hZThkLTY5OTA0NGM5MzAxYyJ9&code\_challenge=jE\_Q6a\_6Oshbfk8wNPnc8fqa27zTHdXLoaLqZYQ8Vog&code\_challenge\_method=S256&session\_uuid=3e8a7249-eca9-4bbc-a257-fa7ae88a7694&scope=zone:red&initScreen=signUp)** to create one.
+To enroll in a Coke Direct Subscription, you will need to log in to your Account. If you have not created an Account yet, please go **[here](https://www.cokedirect.com/gam/connector/?action=create)** to create one.
 
 ### **HOW YOUR COKE DIRECT SUBSCRIPTION WORKS**
 
