@@ -75,7 +75,7 @@ New York, NY 10017
 * [](https://instagram.com/manhattaninstitute/)
 * [](https://casualsexproject.com/rss.xml)
 
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/july-option-3-2.jpg)
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/august-op2-edit-1-scaled.jpg)
 
 ### The Manhattan Institute works to keep America and its great cities prosperous, safe, and free.
 
@@ -90,59 +90,59 @@ New York, NY 10017
 Spotlight
 ---------
 
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/a-playbook-for-ai-policy.jpg)[](https://admin.mi52siterestore.com/article/a-playbook-for-ai-policy/ "Read More")
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/americas-surprisingly-effective-welfare-state.jpg)[](https://admin.mi52siterestore.com/article/americas-surprisingly-effective-welfare-state/ "Read More")
 
-Report Governance, Culture
+Report Governance
 
-Jul 25 2024
+Sep 05 2024
 
-Report Governance, Culture
+Report Governance
 
-Jul 25 2024
+Sep 05 2024
 
-### [A Playbook for AI Policy](https://admin.mi52siterestore.com/article/a-playbook-for-ai-policy/)
+### [America’s Surprisingly Effective Welfare State](https://admin.mi52siterestore.com/article/americas-surprisingly-effective-welfare-state/) Smaller Government, Better Targeted Redistribution
 
-By **[Nick Whitaker](https://admin.mi52siterestore.com/person/nick-whitaker/)** Read time **51 mins** [Read More](https://admin.mi52siterestore.com/article/a-playbook-for-ai-policy/)
+By **[Chris Pope](https://admin.mi52siterestore.com/person/chris-pope/)** Read time **40 mins** [Read More](https://admin.mi52siterestore.com/article/americas-surprisingly-effective-welfare-state/)
 
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/amicus-brief-b-b-v-capistrano-unified-school-district.jpg)[](https://admin.mi52siterestore.com/article/amicus-brief-b-b-v-capistrano-unified-school-district/ "Read More")
-
-Amicus Brief Governance, Education, Culture
-
-Jul 22 2024
-
-[Amicus Brief: B.B. v. Capistrano Unified School District](https://admin.mi52siterestore.com/article/amicus-brief-b-b-v-capistrano-unified-school-district/)
-
-By **[Ilya Shapiro](https://admin.mi52siterestore.com/person/ilya-shapiro/), [Tim Rosenberger](https://admin.mi52siterestore.com/person/tim-rosenberger/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/amicus-brief-b-b-v-capistrano-unified-school-district/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/nypds-whack-a-mole-crime-drops-in-subway-spikes-outside.jpg)[](https://admin.mi52siterestore.com/article/adams-has-nypd-playing-whack-a-mole-as-crime-drops-in-subway-rises-on-the-street/ "Read More")
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/nyc-mayor-adams-laxity-on-city-hall-corruption-could-wreck-his-public-safety-agenda.jpg)[](https://admin.mi52siterestore.com/article/adams-laxity-on-city-hall-corruption-could-wreck-his-public-safety-agenda/ "Read More")
 
 Commentary Cities, Public Safety, Governance New York, New York City, Crime Control
 
-Jul 21 2024
+Sep 08 2024
 
-[Adams Has NYPD Playing Whack-a-Mole as Crime Drops in Subway, Rises on the Street](https://admin.mi52siterestore.com/article/adams-has-nypd-playing-whack-a-mole-as-crime-drops-in-subway-rises-on-the-street/)
+[Adams’ Laxity on City Hall Corruption Could Wreck His Public-Safety Agenda](https://admin.mi52siterestore.com/article/adams-laxity-on-city-hall-corruption-could-wreck-his-public-safety-agenda/)
 
-By **[Nicole Gelinas](https://admin.mi52siterestore.com/person/nicole-gelinas/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/adams-has-nypd-playing-whack-a-mole-as-crime-drops-in-subway-rises-on-the-street/)
+By **[Nicole Gelinas](https://admin.mi52siterestore.com/person/nicole-gelinas/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/adams-laxity-on-city-hall-corruption-could-wreck-his-public-safety-agenda/)
 
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/why-arent-public-schools-performing-better.jpg)[](https://admin.mi52siterestore.com/article/with-so-few-students-in-class-why-arent-public-schools-doing-better/ "Read More")
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/nyc-crime-is-down-because-police-enforcement-is-up.jpg)[](https://admin.mi52siterestore.com/article/face-it-progressives-nyc-crime-is-down-because-police-enforcement-is-up/ "Read More")
 
-Commentary Education Pre K-12
+Commentary Cities, Public Safety New York, New York City, Crime Control, Policing
 
-Jul 20 2024
+Sep 07 2024
 
-[With So Few Students in Class, Why Aren’t Public Schools Doing Better?](https://admin.mi52siterestore.com/article/with-so-few-students-in-class-why-arent-public-schools-doing-better/)
+[Face It Progressives: NYC Crime Is Down Because Police Enforcement Is Up](https://admin.mi52siterestore.com/article/face-it-progressives-nyc-crime-is-down-because-police-enforcement-is-up/)
 
-By **[Daniel DiSalvo](https://admin.mi52siterestore.com/person/daniel-disalvo/), [Reade Ben](https://admin.mi52siterestore.com/person/reade-ben/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/with-so-few-students-in-class-why-arent-public-schools-doing-better/)
+By **[Rafael A. Mangual](https://admin.mi52siterestore.com/person/rafael-a-mangual/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/face-it-progressives-nyc-crime-is-down-because-police-enforcement-is-up/)
 
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/california-passes-deceptive-trans-policy-in-schools.jpg)[](https://admin.mi52siterestore.com/article/california-passes-deceptive-trans-policy-in-schools/ "Read More")
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/what-would-new-york-citys-housing-moonshot-look-like.jpg)[](https://admin.mi52siterestore.com/article/what-would-new-york-citys-housing-moonshot-look-like/ "Read More")
 
-Commentary Governance California, Gender Ideology
+Issue Brief Economics, Cities, Governance Housing, New York City
 
-Jul 17 2024
+Sep 03 2024
 
-[California Passes Deceptive Trans Policy in Schools](https://admin.mi52siterestore.com/article/california-passes-deceptive-trans-policy-in-schools/)
+[What Would New York City’s Housing “Moonshot” Look Like?](https://admin.mi52siterestore.com/article/what-would-new-york-citys-housing-moonshot-look-like/)
 
-By **[Leor Sapir](https://admin.mi52siterestore.com/person/leor-sapir/), [Erin Friday](https://admin.mi52siterestore.com/person/erin-friday/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/california-passes-deceptive-trans-policy-in-schools/)
+By **[Eric Kober](https://admin.mi52siterestore.com/person/eric-kober/)** Read time **27 mins** [Read More](https://admin.mi52siterestore.com/article/what-would-new-york-citys-housing-moonshot-look-like/)
+
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/mta-can-defeat-the-bus-fare-deadbeats-heres-how.jpg)[](https://admin.mi52siterestore.com/article/how-the-mta-can-defeat-the-bus-fare-deadbeats-and-reward-the-rest-of-us/ "Read More")
+
+Commentary Cities, Economics New York, New York City
+
+Sep 03 2024
+
+[How the MTA Can Defeat the Bus-Fare Deadbeats — and Reward the Rest of Us](https://admin.mi52siterestore.com/article/how-the-mta-can-defeat-the-bus-fare-deadbeats-and-reward-the-rest-of-us/)
+
+By **[Nicole Gelinas](https://admin.mi52siterestore.com/person/nicole-gelinas/)** Read time **1 min** [Read More](https://admin.mi52siterestore.com/article/how-the-mta-can-defeat-the-bus-fare-deadbeats-and-reward-the-rest-of-us/)
 
 Our Policy Areas
 ----------------
@@ -284,59 +284,56 @@ We are always looking for entrepreneurial, self-driven, resourceful, and detail-
 
 [View open positions](https://casualsexproject.com/careers)
 
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/3461fd7b-8c17-412f-a03a-678245c7e2dd.jpg)
+Projects
+--------
 
-Logos Initiative
-----------------
+      ![](https://media4.manhattan-institute.org/wp-content/uploads/correct-size-adam-smith.jpg)[](https://adamsmithsociety.com/ "Read More")
 
-The Manhattan Institute and fellow Christopher Rufo announce a significant expansion to the Logos Initiative.
-
-[View this project](https://casualsexproject.com/logos-initiative)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/default-45.jpg)
-
-Adam Smith Society
-------------------
+### Adam Smith Society
 
 SmithSoc is a community of business students and professionals who join together to discuss and debate the contributions of the free market toward advancing human flourishing and opportunity for all.
 
 [View this project](https://adamsmithsociety.com/)
 
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/default-44.jpg)
+      ![](https://media4.manhattan-institute.org/wp-content/uploads/correct-size-metro.jpg)[](https://admin.mi52siterestore.com/project/metropolitan-majority/ "Read More")
 
-Metropolitan Majority
----------------------
+### Metropolitan Majority
 
 Speaking up for the multiethnic mainstream in America’s metros.
 
-[View this project](https://casualsexproject.com/project/metropolitan-majority)
+[View this project](https://admin.mi52siterestore.com/project/metropolitan-majority/)
 
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/default-46.jpg)
+      ![](https://media4.manhattan-institute.org/wp-content/uploads/correct-size-nycreborn.jpg)[](https://admin.mi52siterestore.com/project/new-york-city-renewed/ "Read More")
 
-New York City Renewed
----------------------
+### New York City: Renewed
 
 Gotham will bounce back—and the Manhattan Institute is here to help spark its renaissance.
 
-[View this project](https://casualsexproject.com/project/new-york-city-renewed)
+[View this project](https://admin.mi52siterestore.com/project/new-york-city-renewed/)
 
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/default-47.jpg)
+      ![](https://media4.manhattan-institute.org/sites/default/files/proxy-monitor-shareholders-corporations.jpg)[](https://proxymonitor.org/ "Read More")
 
-Proxy Monitor
--------------
+### Proxy Monitor
 
 Shedding light on the influence of shareholder proposals on corporations.
 
 [View this project](https://proxymonitor.org/)
 
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/default-48.jpg)
+      ![](https://media4.manhattan-institute.org/wp-content/uploads/trial-lawyers-inc-new-project.jpg)[](https://admin.mi52siterestore.com/project/trial-lawyers-inc/ "Read More")
 
-Trial Lawyers, Inc.
--------------------
+### Trial Lawyers, Inc.
 
 Highlighting the ramifications of litigation practices and fostering a more transparent and effective legal system.
 
-[View this project](https://casualsexproject.com/project/trial-lawyers-inc)
+[View this project](https://admin.mi52siterestore.com/project/trial-lawyers-inc/)
+
+      ![](https://media4.manhattan-institute.org/wp-content/uploads/logos-initiative-web-v4a.jpg)[](https://admin.mi52siterestore.com/project/logos-initiative/ "Read More")
+
+### Logos Initiative
+
+The Logos Initiative exists to expose corruption within America’s institutions and mobilize public opinion to achieve concrete cultural and policy reforms needed to restore institutional integrity.
+
+[View this project](https://admin.mi52siterestore.com/project/logos-initiative/)
 
 \-
 
