@@ -107,7 +107,7 @@
 来这里看看
 -----
 
-[![](https://www.appinn.com/wp-content/uploads/2024/07/vpc-banner-1.avif)](https://www.videoproc.com/giveaway/index-zh.htm?ttref=w1bd-ocy2407-yyx-appi)
+[![](https://www.appinn.com/wp-content/uploads/2024/08/201724319580_.pic_.avif)](https://www.houdeyun.cn/?from=appinn)
 
 2023年度 TOP 榜单
 -------------
@@ -118,72 +118,70 @@
 
 [![](https://www.appinn.com/wp-content/uploads/2023/04/windows.jpg)](https://www.appinn.com/windows-11-and-office-2021/)
 
-[![](https://www.appinn.com/wp-content/uploads/2024/07/houdeyun.avif)](https://www.houdeyun.cn/?from=appinn)
-
 ### 精选推荐
 
-* [![Image Toolbox - 拥有 93 个功能的开源图片编辑器，今天只介绍图片对比挑选功能[Android] 1](https://www.appinn.com/wp-content/uploads/2024/06/Appinn-feature-images-2024-06-19T142357.854-115x115.jpg "Image Toolbox - 拥有 93 个功能的开源图片编辑器，今天只介绍图片对比挑选功能[Android] 1")](https://www.appinn.com/image-toolbox/ "Image Toolbox – 拥有 93 个功能的开源图片编辑器，今天只介绍图片对比挑选功能[Android]")
+* [![运动派对 - iPhone/iPad 变成「体感游戏机」打怪升级，顺便…减个肥 1](https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-14T130547.367-115x115.jpg "运动派对 - iPhone/iPad 变成「体感游戏机」打怪升级，顺便…减个肥 1")](https://www.appinn.com/yundong-paidui/ "运动派对 – iPhone/iPad 变成「体感游戏机」打怪升级，顺便…减个肥")
+    
+    [运动派对 – iPhone/iPad 变成「体感游戏机」打怪升级，顺便…减个肥](https://www.appinn.com/yundong-paidui/ "运动派对 – iPhone/iPad 变成「体感游戏机」打怪升级，顺便…减个肥")
+    
+    8 月 14, 2024 0
+    
+* [![Image Toolbox - 拥有 93 个功能的开源图片编辑器，今天只介绍图片对比挑选功能[Android] 2](https://www.appinn.com/wp-content/uploads/2024/06/Appinn-feature-images-2024-06-19T142357.854-115x115.jpg "Image Toolbox - 拥有 93 个功能的开源图片编辑器，今天只介绍图片对比挑选功能[Android] 2")](https://www.appinn.com/image-toolbox/ "Image Toolbox – 拥有 93 个功能的开源图片编辑器，今天只介绍图片对比挑选功能[Android]")
     
     [Image Toolbox – 拥有 93 个功能的开源图片编辑器，今天只介绍图片对比挑选功能\[Android\]](https://www.appinn.com/image-toolbox/ "Image Toolbox – 拥有 93 个功能的开源图片编辑器，今天只介绍图片对比挑选功能[Android]")
     
     6 月 19, 2024 2
     
-* [![Kodi v21 (Omega)发布，可能是门槛最低的家庭影音中心：集中一处播放本地视频、海报墙、自动刮削、字幕 2](https://www.appinn.com/wp-content/uploads/2024/04/Appinn-feature-images-2024-04-13T193401.913-115x115.jpg "Kodi v21 (Omega)发布，可能是门槛最低的家庭影音中心：集中一处播放本地视频、海报墙、自动刮削、字幕 2")](https://www.appinn.com/kodi-v21-omega/ "Kodi v21 (Omega)发布，可能是门槛最低的家庭影音中心：集中一处播放本地视频、海报墙、自动刮削、字幕")
+* [![Kodi v21 (Omega)发布，可能是门槛最低的家庭影音中心：集中一处播放本地视频、海报墙、自动刮削、字幕 3](https://www.appinn.com/wp-content/uploads/2024/04/Appinn-feature-images-2024-04-13T193401.913-115x115.jpg "Kodi v21 (Omega)发布，可能是门槛最低的家庭影音中心：集中一处播放本地视频、海报墙、自动刮削、字幕 3")](https://www.appinn.com/kodi-v21-omega/ "Kodi v21 (Omega)发布，可能是门槛最低的家庭影音中心：集中一处播放本地视频、海报墙、自动刮削、字幕")
     
     [Kodi v21 (Omega)发布，可能是门槛最低的家庭影音中心：集中一处播放本地视频、海报墙、自动刮削、字幕](https://www.appinn.com/kodi-v21-omega/ "Kodi v21 (Omega)发布，可能是门槛最低的家庭影音中心：集中一处播放本地视频、海报墙、自动刮削、字幕")
     
     4 月 13, 2024 0
     
-* [![Breezy Weather - 开源安卓天气预报应用，精确至1小时预报，最长15天 3](https://www.appinn.com/wp-content/uploads/2024/04/Appinn-feature-images-2024-04-11T142759.329-115x115.jpg "Breezy Weather - 开源安卓天气预报应用，精确至1小时预报，最长15天 3")](https://www.appinn.com/breezy-weather/ "Breezy Weather – 开源安卓天气预报应用，精确至1小时预报，最长15天")
+* [![Breezy Weather - 开源安卓天气预报应用，精确至1小时预报，最长15天 4](https://www.appinn.com/wp-content/uploads/2024/04/Appinn-feature-images-2024-04-11T142759.329-115x115.jpg "Breezy Weather - 开源安卓天气预报应用，精确至1小时预报，最长15天 4")](https://www.appinn.com/breezy-weather/ "Breezy Weather – 开源安卓天气预报应用，精确至1小时预报，最长15天")
     
     [Breezy Weather – 开源安卓天气预报应用，精确至1小时预报，最长15天](https://www.appinn.com/breezy-weather/ "Breezy Weather – 开源安卓天气预报应用，精确至1小时预报，最长15天")
     
     4 月 11, 2024 0
     
-* [![开源跨平台文件传输工具 LocalSend 已支持「通过链接分享」，接收端可以不用装 App 了 4](https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-30T203740.730-115x115.jpg "开源跨平台文件传输工具 LocalSend 已支持「通过链接分享」，接收端可以不用装 App 了 4")](https://www.appinn.com/localsend-sharing-via-link/ "开源跨平台文件传输工具 LocalSend 已支持「通过链接分享」，接收端可以不用装 App 了")
+* [![开源跨平台文件传输工具 LocalSend 已支持「通过链接分享」，接收端可以不用装 App 了 5](https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-30T203740.730-115x115.jpg "开源跨平台文件传输工具 LocalSend 已支持「通过链接分享」，接收端可以不用装 App 了 5")](https://www.appinn.com/localsend-sharing-via-link/ "开源跨平台文件传输工具 LocalSend 已支持「通过链接分享」，接收端可以不用装 App 了")
     
     [开源跨平台文件传输工具 LocalSend 已支持「通过链接分享」，接收端可以不用装 App 了](https://www.appinn.com/localsend-sharing-via-link/ "开源跨平台文件传输工具 LocalSend 已支持「通过链接分享」，接收端可以不用装 App 了")
     
     3 月 30, 2024 2
     
-* [![Photopea - 老牌免费在线 PS 工具，支持 PSD、AI 和 Sketch 等文件 5](https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-01T120946.562-115x115.jpg "Photopea - 老牌免费在线 PS 工具，支持 PSD、AI 和 Sketch 等文件 5")](https://www.appinn.com/photopea/ "Photopea – 老牌免费在线 PS 工具，支持 PSD、AI 和 Sketch 等文件")
-    
-    [Photopea – 老牌免费在线 PS 工具，支持 PSD、AI 和 …](https://www.appinn.com/photopea/ "Photopea – 老牌免费在线 PS 工具，支持 PSD、AI 和 Sketch 等文件")
-    
-    3 月 1, 2024 0
-    
 
 ### 最近 30 天的热门内容
 
-* [![ChromeAI - 无限量、离线使用的 Chrome Dev 内置 Gemini Nano 大语言模型｜门槛颇高 6](https://www.appinn.com/wp-content/uploads/2024/06/Appinn-feature-images-2024-06-30T153109.195-115x115.jpg "ChromeAI - 无限量、离线使用的 Chrome Dev 内置 Gemini Nano 大语言模型｜门槛颇高 6")](https://www.appinn.com/chrome-ai-for-gemini-nano/ "ChromeAI – 无限量、离线使用的 Chrome Dev 内置 Gemini Nano 大语言模型｜门槛颇高")
+* [![中英状态实时显示 - 光标处实时显示输入法中英状态[Windows]  6](https://www.appinn.com/wp-content/uploads/2024/09/Appinn-feature-images-2024-09-07T113209.782-115x115.jpg "中英状态实时显示 - 光标处实时显示输入法中英状态[Windows]  6")](https://www.appinn.com/inputtip-for-windows/ "中英状态实时显示 – 光标处实时显示输入法中英状态[Windows] ")
     
-    [ChromeAI – 无限量、离线使用的 Chrome Dev 内置 Gemini …](https://www.appinn.com/chrome-ai-for-gemini-nano/ "ChromeAI – 无限量、离线使用的 Chrome Dev 内置 Gemini Nano 大语言模型｜门槛颇高")
+    [中英状态实时显示 – 光标处实时显示输入法中英状态\[Windows\]](https://www.appinn.com/inputtip-for-windows/ "中英状态实时显示 – 光标处实时显示输入法中英状态[Windows] ") 
     
-    6 月 30, 2024 2
+    9 月 7, 2024 6
     
-* [![EverythingToolbar - 将秒级文件搜索工具 Everything 无缝集成到 Windows 10/11 开始菜单 7](https://www.appinn.com/wp-content/uploads/2024/07/Appinn-feature-images-2024-07-01T142048.410-115x115.jpg "EverythingToolbar - 将秒级文件搜索工具 Everything 无缝集成到 Windows 10/11 开始菜单 7")](https://www.appinn.com/everything-toolbar-2/ "EverythingToolbar – 将秒级文件搜索工具 Everything 无缝集成到 Windows 10/11 开始菜单")
+* [![LM Studio - 有电脑就能用，傻瓜、一站式部署本地大语言模型｜然后，像 ChatGPT 那样提问 7](https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-25T221457.341-115x115.jpg "LM Studio - 有电脑就能用，傻瓜、一站式部署本地大语言模型｜然后，像 ChatGPT 那样提问 7")](https://www.appinn.com/lm-studio/ "LM Studio – 有电脑就能用，傻瓜、一站式部署本地大语言模型｜然后，像 ChatGPT 那样提问")
     
-    [EverythingToolbar – 将秒级文件搜索工具 Everything 无缝集成到 Windows 10/11 …](https://www.appinn.com/everything-toolbar-2/ "EverythingToolbar – 将秒级文件搜索工具 Everything 无缝集成到 Windows 10/11 开始菜单")
+    [LM Studio – 有电脑就能用，傻瓜、一站式部署本地大语言模型｜然后，像 ChatGPT 那样提问](https://www.appinn.com/lm-studio/ "LM Studio – 有电脑就能用，傻瓜、一站式部署本地大语言模型｜然后，像 ChatGPT 那样提问")
     
-    7 月 1, 2024 2
+    8 月 25, 2024 4
     
-* [![Filen - 免费 10GB 的同步网盘服务，客户端加密保存数据 8](https://www.appinn.com/wp-content/uploads/2024/07/Appinn-feature-images-2024-07-15T211221.481-115x115.jpg "Filen - 免费 10GB 的同步网盘服务，客户端加密保存数据 8")](https://www.appinn.com/filen-io/ "Filen – 免费 10GB 的同步网盘服务，客户端加密保存数据")
+* [![YasoCut - 极简，只做一件事：为当前窗口截图[Windows] 8](https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-27T164807.146-115x115.jpg "YasoCut - 极简，只做一件事：为当前窗口截图[Windows] 8")](https://www.appinn.com/yasocut/ "YasoCut – 极简，只做一件事：为当前窗口截图[Windows]")
     
-    [Filen – 免费 10GB 的同步网盘服务，客户端加密保存数据](https://www.appinn.com/filen-io/ "Filen – 免费 10GB 的同步网盘服务，客户端加密保存数据")
+    [YasoCut – 极简，只做一件事：为当前窗口截图\[Windows\]](https://www.appinn.com/yasocut/ "YasoCut – 极简，只做一件事：为当前窗口截图[Windows]")
     
-    7 月 16, 2024 2
+    8 月 27, 2024 4
     
-* [![二次验证应用 Authy 证实泄漏了 3300 万用户的手机号码，但未获得系统或其他敏感数据的访问权限 9](https://www.appinn.com/wp-content/uploads/2024/07/Appinn-feature-images-2024-07-05T120100.197-115x115.jpg "二次验证应用 Authy 证实泄漏了 3300 万用户的手机号码，但未获得系统或其他敏感数据的访问权限 9")](https://www.appinn.com/authy-leak-phone-number-33m-users/ "二次验证应用 Authy 证实泄漏了 3300 万用户的手机号码，但未获得系统或其他敏感数据的访问权限")
+* [![Magpie - 开源窗口全屏工具：提升画质，让不支持全屏化的游戏也能全屏显示[Windows] 9](https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-18T211923.038-115x115.jpg "Magpie - 开源窗口全屏工具：提升画质，让不支持全屏化的游戏也能全屏显示[Windows] 9")](https://www.appinn.com/blinue-magpie/ "Magpie – 开源窗口全屏工具：提升画质，让不支持全屏化的游戏也能全屏显示[Windows]")
     
-    [二次验证应用 Authy 证实泄漏了 3300 万用户的手机号码，但未获得系统或其他敏感数据的访问权限](https://www.appinn.com/authy-leak-phone-number-33m-users/ "二次验证应用 Authy 证实泄漏了 3300 万用户的手机号码，但未获得系统或其他敏感数据的访问权限")
+    [Magpie – 开源窗口全屏工具：提升画质，让不支持全屏化的游戏也能全屏显示\[Windows\]](https://www.appinn.com/blinue-magpie/ "Magpie – 开源窗口全屏工具：提升画质，让不支持全屏化的游戏也能全屏显示[Windows]")
     
-    7 月 5, 2024 1
+    8 月 18, 2024 2
     
-* [![羽毛球步伐 4.0 - 羽毛球训练辅助工具：训练脚步移动与反应速度，支持 AR 事后回顾[iPhone/iPad] 10](https://www.appinn.com/wp-content/uploads/2024/07/Appinn-feature-images-2024-07-04T150252.409-115x115.jpg "羽毛球步伐 4.0 - 羽毛球训练辅助工具：训练脚步移动与反应速度，支持 AR 事后回顾[iPhone/iPad] 10")](https://www.appinn.com/yumaoqiu-bufa-4/ "羽毛球步伐 4.0 – 羽毛球训练辅助工具：训练脚步移动与反应速度，支持 AR 事后回顾[iPhone/iPad]")
+* [![告别残留！专业卸载清理工具 Total Uninstall 让软件卸载更彻底 10](https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-15T130035.396-115x115.jpg "告别残留！专业卸载清理工具 Total Uninstall 让软件卸载更彻底 10")](https://www.appinn.com/total-uninstall-3/ "告别残留！专业卸载清理工具 Total Uninstall 让软件卸载更彻底")
     
-    [羽毛球步伐 4.0 – 羽毛球训练辅助工具：训练脚步移动与反应速度，支持 AR 事后回顾\[iPhone/iPad\]](https://www.appinn.com/yumaoqiu-bufa-4/ "羽毛球步伐 4.0 – 羽毛球训练辅助工具：训练脚步移动与反应速度，支持 AR 事后回顾[iPhone/iPad]")
+    [告别残留！专业卸载清理工具 Total Uninstall 让软件卸载更彻底](https://www.appinn.com/total-uninstall-3/ "告别残留！专业卸载清理工具 Total Uninstall 让软件卸载更彻底")
     
-    7 月 4, 2024 1
+    8 月 15, 2024 2
     
 
 ### 分类
