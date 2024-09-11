@@ -182,7 +182,7 @@ We may update this Statement in the future. If we believe any changes are materi
 
 11\. Contact
 
-If you have a data privacy request, such as a request to delete or access your data, please visit our dedicated privacy portal by clicking [here](https://privacyportal-cdn.onetrust.com/dsarwebform/da774af3-e615-4e8c-8a28-3d13e98367c5/d294c536-2b05-4be5-b3dc-22f11e5c9d19.html). For general data privacy inquiries or questions concerning our Privacy and Cookies Statement, please contact our privacy team by clicking [here](https://privacyportal-cdn.onetrust.com/dsarwebform/da774af3-e615-4e8c-8a28-3d13e98367c5/31a9cb36-8e8d-465a-977a-3fe628929deb.html).
+If you have a data privacy request, such as a request to delete or access your data, please visit our dedicated privacy portal by clicking [here](https://privacyportal-cdn.onetrust.com/dsarwebform/da774af3-e615-4e8c-8a28-3d13e98367c5/d294c536-2b05-4be5-b3dc-22f11e5c9d19.html). For general data privacy inquiries or questions concerning our Privacy and Cookies Statement, please contact our privacy team by clicking [here](https://privacyportal-cdn.onetrust.com/dsarwebform/da774af3-e615-4e8c-8a28-3d13e98367c5/31a9cb36-8e8d-465a-977a-3fe628929deb.html).
 
 12\. Europe and the UK
 ======================
