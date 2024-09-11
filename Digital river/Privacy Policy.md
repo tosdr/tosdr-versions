@@ -1,3 +1,7 @@
+Now an Adobe Platinum Partner. Click [here](https://www.digitalriver.com/partners/adobe-commerce/) to learn more.
+
+[X](javascript:void(0);)
+
 [](https://www.digitalriver.com/)
 
 * Product
@@ -43,6 +47,8 @@
     
     [](https://www.digitalriver.com/partners/commercetools/)
     
+    [](https://www.digitalriver.com/partners/ups/)
+    
     [](https://www.digitalriver.com/partners/)
     
     Partners
@@ -74,7 +80,8 @@
     
     [Payment Method Guide
     --------------------](https://www.digitalriver.com/payment-method-guide/)[Country Guide
-    -------------](https://www.digitalriver.com/country-guide/)
+    -------------](https://www.digitalriver.com/country-guide/)[Product Tour
+    ------------](https://www.digitalriver.com/product-tour/)
     
     Blogs & Guides
     
