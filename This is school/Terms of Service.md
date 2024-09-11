@@ -1,5 +1,3 @@
-[Expand Your Universe: Science Awaits!](https://www.thisisschool.com/products/science)
-
 [![](https://cdn.prod.website-files.com/64a545a3b7ba05bd07986119/64e3781ced18b0c36a0d04cb_TiS_Logo_SingleLine_Navy.svg)](https://www.thisisschool.com/)
 
 * Subjects
@@ -19,6 +17,7 @@
     
     * [About Us](https://www.thisisschool.com/about-us)
     * [Blog](https://www.thisisschool.com/blog)
+    * [Case Studies](https://www.thisisschool.com/case-studies)
     
 * [Contact](https://www.thisisschool.com/contact-us)
 * [Login](https://my.thisisschool.com/login)[Start Your Free Trial](#)
@@ -394,7 +393,7 @@ Thank you for visiting our site.
 * [About](https://www.thisisschool.com/about-us)
 * [Contact](https://www.thisisschool.com/contact-us)
 * [Login](https://my.thisisschool.com/login)
-* [Webinars](https://www.thisisschool.com/webinars)
+* [Case Studies](https://www.thisisschool.com/case-studies)
 * [Blog](https://www.thisisschool.com/blog)
 
 * [Languages](https://www.thisisschool.com/products/languages)
