@@ -73,12 +73,12 @@ CyberLynk Network, Inc is very respectful about the privacy concerns of the visi
 
 #### CyberLynk Family
 
-* [CyberLynk Acquisitions](http://www.cyberlynkacquisitions.com/)
 * [CyberLynk Network](http://www.cyberlynk.net/)
 * [FreePBX Hosting](https://www.freepbxhosting.com/)
 * [FTP Hosting](http://www.cyberlynk.net/services_corporate/dsp_ftp.cfm)
-* [Mac Pro Vault](http://www.macprovault.com/)
 * [Milwaukee Colo](http://www.milwaukeecolo.com/)
+* [NAS Colo](https://nascolo.com/)
+* [TalkAnywhere](https://talkanywhere.com/)
 * [Umbra Web Hosting](http://www.umbrahosting.com/)
 
 #### Mac Mini Vault
