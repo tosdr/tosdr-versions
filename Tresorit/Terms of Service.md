@@ -1,4 +1,6 @@
-[![](data:image/svg+xml;charset=utf-8,%3Csvg height='40' width='60' xmlns='http://www.w3.org/2000/svg' version='1.1'%3E%3C/svg%3E)Get 10 electronic signatures and 6 EU Qualified for free. Try Tresorit eSign nowFREE](https://tresorit.com/esign)
+![](data:image/svg+xml;charset=utf-8,%3Csvg height='20' width='25' xmlns='http://www.w3.org/2000/svg' version='1.1'%3E%3C/svg%3E)Get NIS2-ready with Tresorit. Meet the highest security standards. [Learn more](https://tresorit.com/nis2?utm_source=website&utm_medium=ribbon&utm_campaign=nis2&utm_content=)
+
+![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNNiAxOCAxOCA2TTYgNmwxMiAxMiIgc3Ryb2tlPSIjMjIyIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjwvc3ZnPg==)
 
 ![](data:image/svg+xml;charset=utf-8,%3Csvg height='24' width='24' xmlns='http://www.w3.org/2000/svg' version='1.1'%3E%3C/svg%3E)[Request a demo](https://tresorit.com/request-a-demo)[Log In](https://web.tresorit.com/?from-website)
 
@@ -62,6 +64,7 @@
     * [GDPR](https://tresorit.com/gdpr)
     * [HIPAA](https://tresorit.com/business/hipaa-compliant-cloud-storage)
     * [ITAR](https://tresorit.com/blog/defending-the-defense-industry/)
+    * [NIS2](https://tresorit.com/nis2)
     * [TISAX](https://tresorit.com/blog/from-safety-to-security-automotive-industry-doubles-down-on-data-protection/)
     
 * Resources![](data:image/svg+xml;charset=utf-8,%3Csvg height='10' width='15' xmlns='http://www.w3.org/2000/svg' version='1.1'%3E%3C/svg%3E)
@@ -162,6 +165,7 @@
     * [GDPR](https://tresorit.com/gdpr)
     * [HIPAA](https://tresorit.com/business/hipaa-compliant-cloud-storage)
     * [ITAR](https://tresorit.com/blog/defending-the-defense-industry/)
+    * [NIS2](https://tresorit.com/nis2)
     * [TISAX](https://tresorit.com/blog/from-safety-to-security-automotive-industry-doubles-down-on-data-protection/)
     
 * Resources
