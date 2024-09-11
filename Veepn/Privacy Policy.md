@@ -1,4 +1,4 @@
-[![veepn home](/assets/a38d92bf/images/logo-main.svg)](https://veepn.com/)
+[![veepn home](/assets/e46aa30/images/logo-main.svg)](https://veepn.com/)
 
 * VPN Apps
     
@@ -77,17 +77,18 @@
     [How Does a VPN Work?](https://veepn.com/what-is-vpn/)
     
 * [Pricing](https://order.veepn.com/pricing/)
-* [Help](https://support.veepn.com/)
+* [Help](https://help.veepn.com/hc/en-us)
 * [Log in](https://veepn.com/login/)
 
 [Get VeePN Now](https://order.veepn.com/pricing/)
 
-![en language](/assets/a38d92bf/images/flags/en.svg) en
+![en language](/assets/e46aa30/images/flags/en.svg) en
 
 *  [Українська](https://veepn.com/uk/privacy-policy/)
 *  [Deutsch](https://veepn.com/de/privacy-policy/)
 *  [Español](https://veepn.com/es/privacy-policy/)
 *  [Français](https://veepn.com/fr/privacy-policy/)
+*  [ภาษาไทย](https://veepn.com/ar/privacy-policy/)
 *  [हिन्दी](https://veepn.com/hi/privacy-policy/)
 *  [Italiano](https://veepn.com/it/privacy-policy/)
 *  [はじめる](https://veepn.com/jp/privacy-policy/)
@@ -126,7 +127,7 @@ We care about your personal data, so in this document we have detailed what data
 
 Our data protection principles are only concerned with collecting the minimum data necessary to operate a VPN service. Our applications are designed so that they do not require the sensitive data of our users.
 
-This Privacy Policy is aimed to inform you (“you”) — a user of VeePN Corp. Service — how we, VeePN Corp. (“Application”, “App”, “Services”) with registered office at Samuel Lewis Avenue and 55 East Street Building SL 55 21st Floor Panama City, Panama, collect and use your information when you use our Services. We only use your information as described in this Privacy Policy, and we won't share it with anyone except as described here. This Privacy Policy is subject to our Services Terms of Service.
+This Privacy Policy is aimed to inform you (“you”) — a user of VeePN Corp. Service — how we, VeePN Corp. (“Application”, “App”, “Services”) with registered office at Samuel Lewis Ave & 55th Street, PH SL55 Building, 21st Floor, Panama, Republic of Panama, collect and use your information when you use our Services. We only use your information as described in this Privacy Policy, and we won't share it with anyone except as described here. This Privacy Policy is subject to our Services Terms of Service.
 
 By choosing to use our Service you explicitly: (I) agree to the collection and use of information concerning this policy, (II) warrant and guarantee that you are over 18 years of age (or are a parent or guardian with such authority to agree to this Privacy Policy for the benefit of an individual under 18 years of age). Please do not use the Application or access the Services provided by it if you do not agree to this Privacy Policy.
 
@@ -360,7 +361,7 @@ This notice outlines the manner in which we, acting as a "Controller" under Conn
 
 _Last updated May 13, 2024_
 
-[![veepn home](/assets/a38d92bf/images/logo-main.svg)](https://veepn.com/)
+[![veepn home](/assets/e46aa30/images/logo-main.svg)](https://veepn.com/)
 
 Products
 
@@ -387,7 +388,7 @@ General
 
 Help
 
-* [Support Center](https://support.veepn.com/)
+* [Support Center](https://help.veepn.com/hc/en-us)
 * [Contact Us](javascript:$zopim.livechat.window.show();)
 * [FAQ](https://veepn.com/#faq)
 * [Privacy Policy](https://veepn.com/privacy-policy/)
@@ -421,7 +422,7 @@ Earn Money
 
 [](https://www.facebook.com/VeepnVPN/)[](https://twitter.com/veepn/)[](https://www.tiktok.com/@veepnvpn/)[](https://www.reddit.com/r/VeePN_Security/)[](https://www.pinterest.com/VeePNvpn/)
 
-© 2024 VeePN. All Rights Reserved. Samuel Lewis Avenue and 55 East Street Building SL 55 21st Floor Panama City, Panama
+© 2024 VeePN. All Rights Reserved. Samuel Lewis Ave & 55th Street, PH SL55 Building, 21st Floor, Panama, Republic of Panama
 
 Best VPN deal
 
