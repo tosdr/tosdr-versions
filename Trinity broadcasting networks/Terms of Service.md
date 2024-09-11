@@ -87,7 +87,7 @@ Toggle navigation
 
  
 
-[Download the TBN App](https://tbn.org/apps "App download link")
+[Download the TBN App](https://www.tbn.org/apps "App download link")
 
 1. [TBN](https://www.tbn.org/)
 2. Terms of Use
@@ -206,7 +206,7 @@ Introducing TBN+
 
 Description
 
-Empowering pastor-led content. From sermons to documentaries. Dive deep into faith & learn. Safe, clean, family-friendly shows & teaching on TBN+ app. Enrich your faith journey.
+Empowering pastor-led content. From sermons to documentaries. Dive deep into faith & learn. Safe, clean, family-friendly shows & teaching on the TBN+ app. Enrich your faith journey.
 
 Link
 
@@ -230,16 +230,16 @@ Footer buttons menu
 
 Download Our App
 
-* [App Store](https://itunes.apple.com/us/app/tbn-watch-tv-shows-live-tv/id348738437 "Download the TBN app for Apple iOS devices today!")
-* [Google Play](https://play.google.com/store/apps/details?id=tbn_mobile.android "Download the TBN app for Google Android devices today!")
+* [App Store](https://www.tbn.org/apps/apple-ios "Download the TBN app for Apple iOS devices today!")
+* [Google Play](https://www.tbn.org/apps/google-play-android "Download the TBN app for Google Android devices today!")
 
 Subscribe to TBN+ and Watch Anywhere
 
-* [Android TV](https://play.google.com/store/apps/details?id=tbn_mobile.android "Android TV")
-* [Apple TV+](https://apps.apple.com/us/app/tbn/id348738437?platform=appleTV "Apple TV+")
-* [Amazon Fire TV](https://www.amazon.com/TBN-Watch-Shows-Live-Free/dp/B01CV28J7A "Amazon Fire TV")
-* [LG](https://us.lgappstv.com/main/tvapp/detail?appId=1231442 "LG")
-* [Roku](https://channelstore.roku.com/details/adee2de8413d590eaadec69d4136d101/tbn-networks-tv "Roku")
+* [Android TV](https://www.tbn.org/apps/google-play-android-tv "Android TV")
+* [Apple TV](https://www.tbn.org/apps/apple-tv "Apple TV")
+* [Amazon Fire TV](https://www.tbn.org/apps/amazon-fire-tv "Amazon Fire TV")
+* [LG](https://www.tbn.org/apps/lg-tv "LG")
+* [Roku](https://www.tbn.org/apps/roku "Roku")
 
 * * *
 
