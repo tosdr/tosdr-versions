@@ -128,9 +128,9 @@ Search
 
 Locations Regions
 
-* [Home](https://www.thebluebook.com/)
-\>* [Our Company](https://www.thebluebook.com/company/)
-\>* [Privacy Policy](https://www.thebluebook.com/company/privacy-policy.html)
+1. [Home](https://www.thebluebook.com/)
+\>2. [Our Company](https://www.thebluebook.com/company/)
+\>3. [Privacy Policy](https://www.thebluebook.com/company/privacy-policy.html)
 
 ### Terms of Use and [Privacy Policy](https://www.thebluebook.com/company/privacy-policy.html/company/privacy-policy.html#privacypolicy)
 
