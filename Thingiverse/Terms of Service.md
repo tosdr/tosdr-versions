@@ -112,7 +112,7 @@
     [Open a support case](https://support.ultimaker.com/s/contactsupport) [Register your device](https://support.ultimaker.com/s/contactsupport?tabset-c788a=3) [Software](https://www.makerbot.com/3d-printers/apps/makerbot-print/download/)
     
 
-[Request a quote](https://www.makerbot.com/quote-request) [Store](https://store.makerbot.com/)
+[Request a quote](https://www.makerbot.com/quote-request) [Store](https://store.ultimaker.com/)
 
 [](#) 
 
@@ -124,7 +124,7 @@
 
 [](https://store.makerbot.com/checkout/cart)
 
-[Request a quote](https://www.makerbot.com/quote-request) [Store](https://store.makerbot.com/)
+[Request a quote](https://www.makerbot.com/quote-request) [Store](https://store.ultimaker.com/)
 
 MAKERBOT TERMS OF USE
 =====================
@@ -309,6 +309,7 @@ All other brand names, product names or trademarks belong to their respective ho
 * [Support](https://support.ultimaker.com/s/)
 * [Find resellers](https://www.makerbot.com/resellers/)
 * [Legal](https://www.makerbot.com/legal/)
+* [Careers](https://www.makerbot.com/about-us/)
 
 * English
 * Netherlands
