@@ -13,6 +13,7 @@
 * [Sensory](https://www.theautismpage.com/sensory-homepage/)
 * [Free Autism Resources](https://www.theautismpage.com/resources/)
 * [Reviews](https://www.theautismpage.com/category/product-reviews/)
+* [Days Out](https://www.theautismpage.com/category/days-out/)
 * [Blog](https://www.theautismpage.com/blog/)
 * [Shop](https://www.theautismpage.com/the-autism-page-shop/)
 * [](https://twitter.com/theautismpage "Twitter")[](https://www.instagram.com/theautismpages/ "Instagram")[](https://www.pinterest.co.uk/7132e76dcee920ef06cffd82d81649/aboutasd/ "Pinterest")[](https://www.facebook.com/theautismpages/ "Facebook")[](mailto:Jade@theautismpage.com "Email")
@@ -162,9 +163,9 @@ Hi my name is Jade and I am a married mum of two boys (8 & 10). We are UK based
 * [TEACCH](https://www.theautismpage.com/teacch-at-home/)
 * [Now & Next](https://www.theautismpage.com/now-next/)
 
-### Online Course – Communicating with a non-speaking child
+### LEGO/Brick Therapy Resources
 
-[![](https://www.theautismpage.com/wp-content/uploads/2021/12/COURSE-BANNER-COMMUNICATE-150x150.jpg "Join the Autism Page Network on Facebook")](https://the-autism-page.teachable.com/)
+[![](https://www.theautismpage.com/wp-content/uploads/2019/07/LEGO-EBOOK-PIC-150x150.jpg "Join the Autism Page Network on Facebook")](https://www.theautismpage.com/downloads/lego-therapy-ebook/)
 
 [](#top)
 
