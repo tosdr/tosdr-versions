@@ -80,7 +80,7 @@ The terms of this Privacy Policy will govern the use of the Site and Services an
 If you have any questions (or comments) concerning this Privacy Policy, you are welcome to send us an email or otherwise contact us at:  
 [privacy@walkme.com](mailto:privacy@walkme.com) or 1-855-4WALKME (925563 – Toll Free Number).
 
-**WalkMe, Inc**., 71 Stevenson Street, Floor 20, San Francisco, California, 94105  
+**WalkMe Inc,** 350 mission st., FL. 26, San Francisco, CA 94105,  
 USA
 
 **WalkMe UK Limited**, Mazars. 30 Old Bailey, London, United Kingdom, EC4M 7AU (also acting as UK Representative for WalkMe, Inc. and WalkMe Ltd).
