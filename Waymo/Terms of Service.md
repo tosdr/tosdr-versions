@@ -1,22 +1,12 @@
-header
-
 [Skip to main content](#main)
 
- [![](/v2/static/images/logo-with-text-vertical.svg) Home](https://waymo.com/)
+[](https://waymo.com/)
 
-* * *
-
-* [Rides](https://waymo.com/waymo-one/)![](/v2/static/images/nav/icon-chevron-large.svg)
-    
-    * * *
-    
-    ![](/v2/static/images/nav/icon-chevron-small.svg)
+* [Rides](https://waymo.com/waymo-one/)
     
     Waymo One
     
-    The world's first autonomous ride-hailing service
-    
-    ![](https://lh3.googleusercontent.com/eRLw6fbknLeKcfkaxB4uS5M0IBZIW9e0-Sp7wY8_H8KqW5MEc0_kkw_O1rGMOwHQ6Y9fpQUh3NfDZf3-pJ23Yc_2_UXJrbbWKioG4g)
+    The world’s first autonomous ride-hailing service
     
     * [Our service](https://waymo.com/waymo-one/)
     * [Phoenix](https://waymo.com/waymo-one-phoenix/)
@@ -24,86 +14,67 @@ header
     * [Los Angeles](https://waymo.com/waymo-one-los-angeles/)
     * [Austin](https://waymo.com/waymo-one-austin/)
     
+      ![](https://lh3.googleusercontent.com/eRLw6fbknLeKcfkaxB4uS5M0IBZIW9e0-Sp7wY8_H8KqW5MEc0_kkw_O1rGMOwHQ6Y9fpQUh3NfDZf3-pJ23Yc_2_UXJrbbWKioG4g=s0-e365)
+    
 * [Technology](https://waymo.com/waymo-driver/)
-    
-    * * *
-    
-    ![](/v2/static/images/nav/icon-chevron-small.svg)
     
     Waymo Driver
     
-    The World's Most Experienced DriverTM
+    The World’s Most Experienced Driver™
     
-    ![](https://lh3.googleusercontent.com/IG01gqwifAjCAlrewMkrt1NuQDTkixxYsEnGgiKMmLbMEgQpQI-PAZ_MGEYz8CDbIesBF29aOqfdH0K6s2wWVHYc6BgDLjdg2w)
+      ![](https://lh3.googleusercontent.com/IG01gqwifAjCAlrewMkrt1NuQDTkixxYsEnGgiKMmLbMEgQpQI-PAZ_MGEYz8CDbIesBF29aOqfdH0K6s2wWVHYc6BgDLjdg2w=s0-e365)
     
-* [About](https://waymo.com/about/)![](/v2/static/images/nav/icon-chevron-large.svg)
-    
-    * * *
-    
-    ![](/v2/static/images/nav/icon-chevron-small.svg)
+* [About](https://waymo.com/about/)
     
     Company
     
     Our mission: Be the world’s most trusted driver
-    
-    ![](https://lh3.googleusercontent.com/zRpqLUgCQvULzBn-XIpFeWWLjHvOC09QFT0zUDh8vclC5AnybvRiqePEcbLOyLEa8v9HKmake_gnKfTZVQXMq4o-Co-QmDxIjwakwA)
     
     * [Our History](https://waymo.com/about/#story)
     * [Waymo Leadership](https://waymo.com/about/#bios)
     * [Latest Updates](https://waymo.com/about/#blog)
     * [Press Resources](https://waymo.com/about/#resources)
     
-* [Safety](https://waymo.com/safety)
+      ![](https://lh3.googleusercontent.com/zRpqLUgCQvULzBn-XIpFeWWLjHvOC09QFT0zUDh8vclC5AnybvRiqePEcbLOyLEa8v9HKmake_gnKfTZVQXMq4o-Co-QmDxIjwakwA=s0-e365)
     
-    * * *
-    
-    ![](/v2/static/images/nav/icon-chevron-small.svg)
+* [Safety](https://waymo.com/safety/)
     
     Safety
     
     Because Safety is Urgent™
     
-    ![](https://lh3.googleusercontent.com/v-nEn2qP2bc7jpXSbAG2YRQdi8JCo8vax4HPO9qxkjxuITxPAKinVAXd5lIIu0BagL_PGQQ6jyz-4WL01DctVvEX9EhlQpXajrxwW3Y)
+    * [Safety at Waymo](https://waymo.com/safety/)
+    * [Safety Research](https://waymo.com/safety/research/)
+    * [Safety Impact](https://waymo.com/safety/impact/)
     
-* [Community](https://waymo.com/community)![](/v2/static/images/nav/icon-chevron-large.svg)
+      ![](https://lh3.googleusercontent.com/v-nEn2qP2bc7jpXSbAG2YRQdi8JCo8vax4HPO9qxkjxuITxPAKinVAXd5lIIu0BagL_PGQQ6jyz-4WL01DctVvEX9EhlQpXajrxwW3Y=s0-e365)
     
-    * * *
-    
-    ![](/v2/static/images/nav/icon-chevron-small.svg)
+* [Community](https://waymo.com/community/)
     
     Community
     
     Supporting and empowering communities
     
-    ![](https://lh3.googleusercontent.com/81QBtgc2yjPTHKmi7OJ1181xVvPuCEc44uqHIx10c0qvIgVG8MDVrXe6rulfoN-Ek3xdIpOofjcLOegsD33-7hiGUZXxn9cskYNAgg)
+    * [Community Voices](https://waymo.com/community/voices/)
+    * [Community Partners](https://waymo.com/community/partners/)
+    * [Community Impact](https://waymo.com/community/impact/)
     
-    * [Community Voices](https://waymo.com/community/voices)
-    * [Community Partners](https://waymo.com/community/partners)
-    * [Community Impact](https://waymo.com/community/impact)
+      ![](https://lh3.googleusercontent.com/CF60prp1hlSerUju8maSJVuYG1wVvc0Kj99CLDBQVb75klEXJklqHXgc7UBrn4crZxW2bjIhkyRULKY-f3q9pK7eRgrwJkSb0rvfCFI=s0-e365)
     
-* [Careers](https://careers.withwaymo.com/)![](/v2/static/images/nav/icon-chevron-large.svg)
-    
-    * * *
-    
-    ![](/v2/static/images/nav/icon-chevron-small.svg)
+* [Careers](https://careers.withwaymo.com/)
     
     Careers
     
     Find your drive
     
-    ![](https://lh3.googleusercontent.com/D4FEZ8TQ1vOoI2-302a8B7ey0fZ1ZQZ4XR5s3XH9uwurJ1tU0tgdt0F-yDgn-5OeHW2AxoXbMv8GTsvuNpkpH_rm38V7oFd9g1KRegw)
-    
     * [Why Waymo](https://careers.withwaymo.com/why-waymo)
     * [Working at Waymo](https://careers.withwaymo.com/working-at-waymo)
     * [Teams](https://careers.withwaymo.com/teams)
     * [Early Careers](https://careers.withwaymo.com/early-careers)
-    * [How We Hire](https://careers.withwaymo.com/benefits)
+    * [Benefits](https://careers.withwaymo.com/benefits)
     * [Open Roles](https://careers.withwaymo.com/jobs/search)
     
-
-![](/v2/static/images/icon-hamburger.svg)![](/v2/static/images/icon-x.svg)
-
-![Waymo](https://lh3.googleusercontent.com/jw6n4rnWk0YzmhDLEeP_NYpOZ4EKVvNjv7gZ4EDqLMQDQIvD2lStaN0oV83f10-SHf4MfJicmtmutcEGCZGghbHe-5EZ5uXVIPT59Q=w1200)
+      ![](https://lh3.googleusercontent.com/D4FEZ8TQ1vOoI2-302a8B7ey0fZ1ZQZ4XR5s3XH9uwurJ1tU0tgdt0F-yDgn-5OeHW2AxoXbMv8GTsvuNpkpH_rm38V7oFd9g1KRegw=s0-e365)  
 
 Waymo Web Terms of Service
 ==========================
@@ -111,31 +82,17 @@ Waymo Web Terms of Service
 Effective Date: February 20, 2018
 ---------------------------------
 
-These Terms of Service (“Terms”) apply to your access to and use of the websites and other online products and services (collectively, the “Services”) provided by Waymo LLC (“Waymo” or “we”), located at 1600 Amphitheater Parkway, Mountain View, CA 94043. By using our Services, you agree to these Terms. If you do not agree to these Terms, do not use our Services.
-
-We may supply different or additional terms in relation to some of our Services, and those different or additional terms become part of your agreement with us if you use those Services. If there is a conflict between these Terms and the additional terms, the additional terms will control for that conflict.
-
-We may make changes to these Terms from time to time. If we make changes, we will provide you with notice of such changes, such as by sending an email, providing a notice through our Services, or updating the date at the top of these Terms. Unless we say otherwise in our notice, the amended Terms will be effective immediately and your continued use of our Services after we provide such notice will confirm your acceptance of the changes. If you do not agree to the amended Terms, you must stop using our Services.
-
-For information about how we collect, use and share information about you, please see our [Privacy Policy](https://waymo.com/privacy/).
-
-If you have any questions about these Terms or our Services, please contact us at [legal@waymo.com](mailto:legal@waymo.com).
-
-You and Waymo agree as follows:
+These Terms of Service (“Terms”) apply to your access to and use of the websites and other online products and services (collectively, the “Services”) provided by Waymo LLC (“Waymo” or “we”), located at 1600 Amphitheater Parkway, Mountain View, CA 94043. By using our Services, you agree to these Terms. If you do not agree to these Terms, do not use our Services. We may supply different or additional terms in relation to some of our Services, and those different or additional terms become part of your agreement with us if you use those Services. If there is a conflict between these Terms and the additional terms, the additional terms will control for that conflict. We may make changes to these Terms from time to time. If we make changes, we will provide you with notice of such changes, such as by sending an email, providing a notice through our Services, or updating the date at the top of these Terms. Unless we say otherwise in our notice, the amended Terms will be effective immediately and your continued use of our Services after we provide such notice will confirm your acceptance of the changes. If you do not agree to the amended Terms, you must stop using our Services.For information about how we collect, use and share information about you, please see our [Privacy Policy](https://waymo.com/privacy/). If you have any questions about these Terms or our Services, please contact us at [legal@waymo.com](mailto:legal@waymo.com). You and Waymo agree as follows:
 
 1\. Eligibility
 ---------------
 
-You must be at least 13 years of age to use our Services. If you are under 18 years of age (or the age of legal majority where you live), you may only use our Services under the supervision of a parent or legal guardian who agrees to be bound by these Terms. If you are a parent or legal guardian of a user under the age of 18 (or the age of legal majority), you agree to be fully responsible for the acts or omissions of such user in relation to our Services. If you use our Services on behalf of another person or entity, (a) all references to “you” throughout these Terms will include that person or entity, (b) you represent that you are authorized to accept these Terms on that person or entity’s behalf, and (c) in the event you or the person or entity violates these Terms, the person or entity agrees to be responsible to us.
+You must be at least 18 years of age to use our Services. If you are under 18 years of age (or the age of legal majority where you live), you may only use our Services under the supervision of a parent or legal guardian who agrees to be bound by these Terms. If you are a parent or legal guardian of a user under the age of 18 (or the age of legal majority), you agree to be fully responsible for the acts or omissions of such user in relation to our Services. If you use our Services on behalf of another person or entity, (a) all references to “you” throughout these Terms will include that person or entity, (b) you represent that you are authorized to accept these Terms on that person or entity’s behalf, and (c) in the event you or the person or entity violates these Terms, the person or entity agrees to be responsible to us.
 
 2\. User Content
 ----------------
 
-Our Services may allow you and other users to create, post, store and share content, including messages, text, photos, videos, software and other materials (collectively, "User Content"). Except for the license you grant below, you retain all rights in and to your User Content, as between you and Waymo.
-
-You grant Waymo and its subsidiaries a perpetual, irrevocable, nonexclusive, royalty-free, worldwide, fully-paid, and sub-licensable license to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, publicly perform and display your User Content and any name, username or likeness provided in connection with your User Content in all media formats and channels now known or later developed without compensation to you. When you post or otherwise share User Content on or through our Services, you understand that your User Content and any associated information (such as your username or profile photo) may be visible to the public.
-
-You may not create, post, store or share any User Content that violates these Terms or for which you do not have all the rights necessary to grant us the license described above. You represent and warrant that your User Content, and our use of such content as permitted by these Terms, will not violate any rights of or cause injury to any person or entity. Although we have no obligation to screen, edit or monitor User Content, we may delete or remove User Content at any time and for any reason with or without notice.
+Our Services may allow you and other users to create, post, store and share content, including messages, text, photos, videos, software and other materials (collectively, "User Content"). Except for the license you grant below, you retain all rights in and to your User Content, as between you and Waymo. You grant Waymo and its subsidiaries a perpetual, irrevocable, nonexclusive, royalty-free, worldwide, fully-paid, and sub-licensable license to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, publicly perform and display your User Content and any name, username or likeness provided in connection with your User Content in all media formats and channels now known or later developed without compensation to you. When you post or otherwise share User Content on or through our Services, you understand that your User Content and any associated information (such as your username or profile photo) may be visible to the public.You may not create, post, store or share any User Content that violates these Terms or for which you do not have all the rights necessary to grant us the license described above. You represent and warrant that your User Content, and our use of such content as permitted by these Terms, will not violate any rights of or cause injury to any person or entity. Although we have no obligation to screen, edit or monitor User Content, we may delete or remove User Content at any time and for any reason with or without notice.
 
 3\. Prohibited Conduct and Content
 ----------------------------------
@@ -143,30 +100,52 @@ You may not create, post, store or share any User Content that violates these Te
 You will not violate any applicable law, contract, intellectual property or other third-party right or commit a tort, and you are solely responsible for your conduct while using our Services. You will not:
 
 * Engage in any harassing, threatening, intimidating, predatory or stalking conduct;
+    
 * Impersonate or post on behalf or any person or entity or otherwise misrepresent your affiliation with a person or entity;
+    
 * Sell, resell, or commercially use our Services;
+    
 * Copy, reproduce, distribute, publicly perform or publicly display all or portions of our Services, except as expressly permitted by us or our licensors;
+    
 * Modify our Services, remove any proprietary rights notices or markings, or otherwise make any derivative works based upon our Services;
+    
 * Use our Services other than for their intended purpose and in any manner that could interfere with, disrupt, negatively affect or inhibit other users from fully enjoying our Services or that could damage, disable, overburden or impair the functioning of our Services in any manner;
+    
 * Reverse engineer any aspect of our Services or do anything that might discover source code or bypass or circumvent measures employed to prevent or limit access to any part of our Services;
+    
 * Attempt to circumvent any content-filtering techniques we employ or attempt to access any feature or area of our Services that you are not authorized to access;
+    
 * Use any data mining, robots, or similar data gathering or extraction methods designed to scrape or extract data from our Services;
+    
 * Develop or use any applications that interact with our Services without our prior written consent;
+    
 * Send, distribute, or post spam, unsolicited or bulk commercial electronic communications, chain letters, or pyramid schemes;
+    
 * Bypass or ignore instructions contained in our robots.txt file; or
+    
 * Use our Services for any illegal or unauthorized purpose, or engage in, encourage or promote any activity that violates these Terms.
+    
 
 You may also only post or otherwise share User Content that is non-confidential and you have all necessary rights to disclose. You may not create, post, store or share any User Content that:
 
 * Is unlawful, libelous, defamatory, obscene, pornographic, indecent, lewd, suggestive, harassing, threatening, invasive of privacy or publicity rights, abusive, inflammatory or fraudulent;
+    
 * Would constitute, encourage, or provide instructions for a criminal offense, violate the rights of any party, or otherwise create liability or violate any local, state, national, or international law;
+    
 * May infringe any patent, trademark, trade secret, copyright, or other intellectual or proprietary right of any party;
+    
 * Contains or depicts any statements, remarks, or claims that do not reflect your honest views and experiences;
+    
 * Impersonates, or misrepresents your affiliation with, any person or entity;
+    
 * Contains any unsolicited promotions, political campaigning, advertising, or solicitations;
+    
 * Contains any private or personal information of a third party without such third party’s consent;
+    
 * Contains any viruses, corrupted data or other harmful, disruptive or destructive files or content; or
+    
 * Is, in our sole judgment, objectionable or that restricts or inhibits any other person from using or enjoying our Services, or that may expose Waymo or others to any harm or liability of any type.
+    
 
 4\. Ownership; Limited License
 ------------------------------
@@ -194,9 +173,9 @@ Address: 1600 Amphitheater Parkway Mountain View, CA 94043
 
 Telephone Number: 650-669-7376
 
-E-Mail Address: [dmca-agent@waymo.com](mailto:dmca-agent@waymo.com)
+E-Mail Address: [dmca-agent@waymo.com](mailto:dmca-agent@waymo.com)
 
-Please see [17 U.S.C. §512(c)(3)](http://www.copyright.gov/title17/92chap5.html#512) for the requirements of a proper notification. Also, please note that if you knowingly misrepresent that any activity or material on our Services is infringing, you may be liable to Waymo and others for certain costs and damages.
+Please see [17 U.S.C. §512(c)(3)](http://www.copyright.gov/title17/92chap5.html#512) for the requirements of a proper notification. Also, please note that if you knowingly misrepresent that any activity or material on our Services is infringing, you may be liable to Waymo and others for certain costs and damages.
 
 8\. Third-Party Content
 -----------------------
@@ -216,11 +195,7 @@ Your use of our Services is at your sole risk. Except as otherwise provided in a
 11\. Limitation of Liability
 ----------------------------
 
-To the fullest extent permitted by applicable law, Waymo and the other Waymo Parties will not be liable to you under any theory of liability—whether based in contract, tort, negligence, strict liability, warranty, or otherwise—for any indirect, consequential, exemplary, incidental, punitive or special damages or lost profits, even if Waymo or the other Waymo Parties have been advised of the possibility of such damages.
-
-The total liability of Waymo and the other Waymo Parties, for any claim arising out of or relating to these Terms or our Services, regardless of the form of the action, is limited to the amount paid, if any, by you to use our Services.
-
-The limitations set forth in this section will not limit or exclude liability for the gross negligence, fraud, or intentional misconduct of Waymo or the other Waymo Parties or for any other matters in which liability cannot be excluded or limited under applicable law. Additionally, some jurisdictions do not allow the exclusion or limitation of incidental or consequential damages, so the above limitations or exclusions may not apply to you.
+To the fullest extent permitted by applicable law, Waymo and the other Waymo Parties will not be liable to you under any theory of liability—whether based in contract, tort, negligence, strict liability, warranty, or otherwise—for any indirect, consequential, exemplary, incidental, punitive or special damages or lost profits, even if Waymo or the other Waymo Parties have been advised of the possibility of such damages.The total liability of Waymo and the other Waymo Parties, for any claim arising out of or relating to these Terms or our Services, regardless of the form of the action, is limited to the amount paid, if any, by you to use our Services.The limitations set forth in this section will not limit or exclude liability for the gross negligence, fraud, or intentional misconduct of Waymo or the other Waymo Parties or for any other matters in which liability cannot be excluded or limited under applicable law. Additionally, some jurisdictions do not allow the exclusion or limitation of incidental or consequential damages, so the above limitations or exclusions may not apply to you.
 
 12\. Release
 ------------
@@ -252,36 +227,34 @@ If any provision or part of a provision of these Terms is unlawful, void or unen
 
 The failure of Waymo to exercise or enforce any right or provision of these Terms will not operate as a waiver of such right or provision. The section titles in these Terms are for convenience only and have no legal or contractual effect. Except as otherwise provided herein, these Terms are intended solely for the benefit of the parties and are not intended to confer third party beneficiary rights upon any other person or entity. You agree that communications and transactions between us may be conducted electronically.
 
-footer
-
- [![](/v2/static/images/logo-with-text-vertical.svg) Home](https://waymo.com/)
+[](https://waymo.com/)
 
 * [FAQ](https://waymo.com/faq/)
 * [Blog](https://blog.waymo.com/)
 * [Privacy Policy](https://waymo.com/privacy/)
 * [Research](https://waymo.com/research/)
 * [Terms](https://waymo.com/terms/)
-* [Legal](https://waymo.com/legal/patents)
+* [Legal](https://waymo.com/legal/patents/)
 * [Zero Tolerance](https://waymo.com/zero-tolerance/)
-* [First Responders](https://waymo.com/firstresponders/)
+* [First Responders](https://waymo.com/first-responders/)
 * [Safety Publications](https://waymo.com/safety/)
 * [Waymo Community](https://ltad.com/)
 * [Contact Us](https://waymo.com/contact/)
 * [Notice to CA Residents](https://support.google.com/waymo/answer/9681942)
 
-Sign up for updates to get the latest on Waymo and our technology.
+Sign up for updates to get the latest on Waymo.
 
-[Sign up](https://waymo.com/updates)
+[Sign up](https://waymo.com/updates/)
 
-English Español 中文（简体中文） 中文（繁體中文） Filipino
+Select language English Español Filipino 中文（简体中文） 中文（繁體中文）
 
 * * *
 
-*  [![](/v2/static/images/social/logo-twitter.svg)![](/v2/static/images/social/logo-twitter.svg) Waymo on Twitter](https://twitter.com/waymo/)
-*  [![](/v2/static/images/social/logo-linkedin.svg)![](/v2/static/images/social/logo-linkedin-dark.svg) Waymo on LinkedIn](https://www.linkedin.com/company/waymo)
-*  [![](/v2/static/images/social/logo-instagram.svg)![](/v2/static/images/social/logo-instagram-dark.svg) Waymo on Instagram](https://www.instagram.com/waymo/?hl=en)
-*  [![](/v2/static/images/social/logo-facebook.svg)![](/v2/static/images/social/logo-facebook-dark.svg) Waymo on Facebook](https://facebook.com/waymo/)
-*  [![](/v2/static/images/social/logo-youtube.svg)![](/v2/static/images/social/logo-youtube-dark.svg) Waymo on YouTube](https://www.youtube.com/waymo)
+* [](https://twitter.com/waymo/ "Waymo on Twitter")
+* [](https://www.linkedin.com/company/waymo "Waymo on LinkedIn")
+* [](https://www.instagram.com/waymo/?hl=en "Waymo on Instagram")
+* [](https://facebook.com/waymo/ "Waymo on Facebook")
+* [](https://www.youtube.com/waymo "Waymo on YouTube")
 
 Do Not Sell or Share My Personal Information
 
