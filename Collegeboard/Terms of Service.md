@@ -10,8 +10,6 @@
 
 [Display Site Navigation](#)
 
-[Back](#)
-
 Legal Terms for Students
 ========================
 
