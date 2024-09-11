@@ -16,13 +16,12 @@
     *  ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
     *  ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
     *  ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20223%20109'%3E%3C/svg%3E)
-    *  ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)](https://www.wiris.com/en/mathtype/mathtype-for-lms/)    [MathType for Oxygen XML  
+    *  ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)](https://www.wiris.com/en/mathtype/mathtype-for-lms/)    [MathType for XML Editors  
     The easiest way to write math equations in the leading XML authoring tools
     
     *  ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
     *  ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
-    *  ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
-    *  ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)](https://www.wiris.com/en/mathtype/mathtype-for-oxygen/)    [Arabic notation  
+    *  ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)](https://www.wiris.com/en/mathtype/mathtype-xml-editors/)   [Arabic notation  
     Editing math formulas for arabic scientific texts](https://www.wiris.com/en/mathtype/arabic-mathematical-notations/)
     
 * [WirisQuizzes](https://www.wiris.com/en/wirisquizzes/)
@@ -179,7 +178,7 @@ Making people’s STEM work more meaningful
         * [MathType for Microsoft 365: The equation editor for Word and PowerPoint](https://www.wiris.com/en/mathtype/microsoft-office/)
         * [MathType for Google Workspace](https://www.wiris.com/en/mathtype/google-workspace/)
     * [MathType for LMS](https://www.wiris.com/en/mathtype/mathtype-for-lms/)
-    * [MathType for Oxygen XML](https://www.wiris.com/en/mathtype/mathtype-for-oxygen/)
+    * [MathType for XML Editors](https://www.wiris.com/en/mathtype/mathtype-xml-editors/)
     * [Arabic notation](https://www.wiris.com/en/mathtype/arabic-mathematical-notations/)
     * [Our products accessibility](https://www.wiris.com/en/accessibility/)
     * [MathType is online](https://www.wiris.com/en/mathtype/online-equation-editor/)
