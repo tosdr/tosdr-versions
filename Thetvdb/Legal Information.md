@@ -58,11 +58,11 @@ If you believe that your copyrighted work has been copied in a way that constitu
 
 The above information must be submitted to the following DMCA Agent:  
 Whip Networks, Inc.  
-ATTN: DMCA Notice  
+ATTN: Jerry Inman DMCA Notice  
 1841 Centinela Ave.  
 Santa Monica, CA 90404  
   
-Email: support@thetvdb.com
+Email: legal@whipmedia.com
 
 UNDER FEDERAL LAW, IF YOU KNOWINGLY MISREPRESENT THAT ONLINE MATERIAL IS INFRINGING, YOU MAY BE SUBJECT TO CRIMINAL PROSECUTION FOR PERJURY AND CIVIL PENALTIES, INCLUDING MONETARY DAMAGES, COURT COSTS, AND ATTORNEYS’ FEES.
 
