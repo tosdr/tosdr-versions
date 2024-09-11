@@ -10,11 +10,30 @@ Request an Appointment
     * [Mental Health Team](https://www.zeamhealth.com/mental-health-team/)
     * [Primary Care Team](https://www.zeamhealth.com/primary-care-team/)
     * [Aesthetics Team](https://www.zeamhealth.com/aesthetics-team/)
-* Services
-    
-    * [Mental Health](https://www.zeamhealth.com/mental-health/)
-    * [Primary Care](https://www.zeamhealth.com/primary-care/)
-    * [Aesthetics](https://www.zeamhealth.com/aesthetics/)
+* [Mental Health](https://www.zeamhealth.com/mental-health/)
+    * [Depression and Trauma Treatment Center](https://www.zeamhealth.com/mental-health/depression-and-trauma-treatment-center/)
+    * [Spravato (Esketamine)](https://www.zeamhealth.com/mental-health/spravato-esketamine/)
+    * [Ketamine](https://www.zeamhealth.com/mental-health/ketamine-services/)
+    * [Psychiatry](https://www.zeamhealth.com/mental-health/psychiatry/)
+    * [Psychotherapy](https://www.zeamhealth.com/mental-health/psychotherapy-and-cbt/)
+        * [Online Therapy](https://www.zeamhealth.com/mental-health/online-therapy-services/)
+    * [Neurofeedback](https://www.zeamhealth.com/mental-health/neurofeedback-services/)
+    * [Depression](https://www.zeamhealth.com/mental-health/depression-treatment/)
+    * [Anxiety](https://www.zeamhealth.com/mental-health/anxiety-treatment/)
+    * [PTSD](https://www.zeamhealth.com/mental-health/ptsd-treatment/)
+    * [ADHD](https://www.zeamhealth.com/mental-health/adhd-treatment/)
+* [Primary Care](https://www.zeamhealth.com/primary-care/)
+    * [Preventative Care](https://www.zeamhealth.com/primary-care/preventative-care/)
+    * [Chronic Disease](https://www.zeamhealth.com/primary-care/chronic-disease-management/)
+    * [Medical Weight Loss](https://www.zeamhealth.com/primary-care/weight-loss-management/)
+    * [Diabetes](https://www.zeamhealth.com/primary-care/diabetes/)
+    * [Hormone Replacement](https://www.zeamhealth.com/primary-care/hormone-replacement-therapy/)
+* [Aesthetics](https://www.zeamhealth.com/aesthetics/)
+    * [Chemical Peels](https://www.zeamhealth.com/aesthetics/chemical-peels/)
+    * [Microneedling](https://www.zeamhealth.com/aesthetics/microneedling/)
+    * [Dermal Fillers](https://www.zeamhealth.com/aesthetics/dermal-fillers/)
+    * [Botox Injections](https://www.zeamhealth.com/aesthetics/botox/)
+    * [Skincare](https://www.zeamhealth.com/aesthetics/skincare/)
 * Patient Resources
     
     * [Zeam Wellness Digest](https://www.zeamhealth.com/blog/)
@@ -81,15 +100,13 @@ Contact Information
 
 Please contact us by phone at [916-461-8639](tel:9164618639) or by mail at 508 Gibson Dr, Suite 150-160, Roseville, CA 95678.
 
-### Ready to Embark on a Journey Toward Better Health?
-
-Connect with us at Zeam Health & Wellness. Whether you need detailed information or want to schedule an appointment, our dedicated team is here to assist you every step of the way.
-
-[Contact Us](https://www.zeamhealth.com/contact-us/)
-
 ###### For more information or to schedule an appointment, feel free to contact us directly.
 
-[Text us](sms:%20+19164714494)
+###### Connect With Zeam Health & Wellness on Social
+
+[Text us](sms:+19164714494)
+
+[Facebook](https://www.facebook.com/ZeamMentalHealth/) [Instagram](https://www.instagram.com/zeammentalhealth/)
 
 [![zeam health and wellness, primary care, mental heatlh, aesthetics](https://www.zeamhealth.com/wp-content/uploads/2024/03/zeam-logo-Color.png)](https://www.zeamhealth.com/)
 
@@ -98,22 +115,22 @@ Discover our holistic approach to wellness. Visit us, follow our journey, or rea
 ### [Sacramento](https://www.zeamhealth.com/locations/sacramento/)
 
 * Psychiatry & Therapy Services
-* 1451 River Park Dr. Ste 100  
-    Sacramento, CA 95815
+* [1451 River Park Dr. Ste 100  
+    Sacramento, CA 95815](https://maps.app.goo.gl/xSByp2kEAxmB74d89)
 * [(916) 292-9700](tel:+19162929700)
 
 ### [Folsom](https://www.zeamhealth.com/locations/folsom/)
 
 * Psychiatry, Therapy & Primary Care
-* 193 Blue Ravine Rd, Ste 170A  
-    Folsom, CA 95630
+* [193 Blue Ravine Rd, Ste 170A  
+    Folsom, CA 95630](https://maps.app.goo.gl/ta8Uw7torGRjFDB88)
 * [(916) 608-0714](tel:+19166080714)
 
 ### [Roseville](https://www.zeamhealth.com/locations/roseville/)
 
 * Psychiatry, Therapy, Primary Care & Aesthetics
-* 508 Gibson Dr. Ste 150-160  
-    Roseville, CA 95678
+* [508 Gibson Dr. Ste 150-160  
+    Roseville, CA 95678](https://maps.app.goo.gl/gYjGRpH4hmZFxEFt8)
 * [(916) 865-3670](tel:+19168653670)
 
 ### Other Links
@@ -157,6 +174,8 @@ Sex
 MaleFemaleOther
 
 Reason (optional)  
+
+**Note:** We are not currently accepting Medical Insurance at this time.
 
 Insurance carrier and plan name  
 
