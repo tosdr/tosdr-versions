@@ -72,7 +72,7 @@ The information provided on the Site is not intended for distribution to or use 
 
 The Site is not tailored to comply with industry-specific regulations (Health Insurance Portability and Accountability Act (HIPAA), Federal Information Security Management Act (FISMA), etc.), so if your interactions would be subjected to such laws, you may not use this Site. You may not use the Site in a way that would violate the Gramm-Leach-Bliley Act (GLBA).
 
-The Site is intended for users who are at least 18 years old. Persons under the age of 18 are not permitted to use orregister for the Site.
+The Site is intended for users who are at least 18 years old. Persons under the age of 18 are not permitted to use or register for the Site.
 
 **2\. INTELLECTUAL PROPERTY RIGHTS**
 
@@ -187,6 +187,8 @@ We care about data privacy and security. By using the Site, you agree to be boun
 **16\. COPYRIGHT INFRINGEMENTS**
 
 We respect the intellectual property rights of others. If you believe that any material available on or through the Site infringes upon any copyright you own or control, please immediately notify us using the contact information provided below (a “Notification”). A copy of your Notification will be sent to the person who posted or stored the material addressed in the Notification.You may submit a notification pursuant to the Digital Millennium Copyright Act (DMCA) by providing our Copyright Agent with the following information in writing (see 17 U.S.C 512(c)(3) for further detail): an electronic or physical signature of the person authorized to act on behalf of the owner of the copyright's interest; a description of the copyrighted work that you claim has been infringed, including the URL (i.e., web page address) of the location where the copyrighted work exists or a copy of the copyrighted work; identification of the URL or other specific location on Service where the material that you claim is infringing is located; your address, telephone number, and email address; a statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law; a statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf. The Copyright Agent can be reached via email at legal@tts.monster
+
+The text-to-speech (TTS) services provided on this website are powered by artificial intelligence (AI). Any resemblance to the voices of real persons, living or deceased, or fictional characters is purely coincidental and unintended. By continuing to use this website or its services, you acknowledge that you have read and understood this disclaimer and agree to its terms. The website and its operators are not responsible for any perceived similarities to any real or fictional voices, and any such resemblance is coincidental.
 
 **17\. TERM AND TERMINATION**
 
