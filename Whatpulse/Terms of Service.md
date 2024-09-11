@@ -28,6 +28,7 @@
 * [Help](https://whatpulse.org/help/)
 * [Premium](https://whatpulse.org/premium)
 
+* [](#)
 * LOGIN SIGN UP
     
 
@@ -164,7 +165,7 @@ Now, let’s party.
 
 © 2004-2024 WhatPulse.  
 Made with ❤️ by [@smitmartijn](https://twitter.com/smitmartijn)  
-All times are in 2024-08-01.
+All times are in 2024-09-11.
 
 ### Related Products
 
@@ -201,3 +202,4 @@ All times are in 2024-08-01.
 * [Terms of Service](https://whatpulse.org/terms/)
 * [Media Assets](https://whatpulse.org/pages/assets/)
 * [Merchandise Shop](https://whatpulse.shop/)
+* [Affiliate Program](https://whatpulse.org/hub/affiliates)
