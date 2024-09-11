@@ -52,7 +52,8 @@ SHARE VIA EMAIL
     * [Professional Growth](https://www.thegreatcoursesplus.com/allsubjects/professional-growth?CFM=mega_menu)
     * [Science](https://www.thegreatcoursesplus.com/allsubjects/science?CFM=mega_menu)
     * [Travel & Cultures](https://www.thegreatcoursesplus.com/allsubjects/travel-and-culture?CFM=mega_menu)
-    * [Explore All Subjects](https://www.thegreatcoursesplus.com/allsubjects?CFM=mega_menu)
+    * [Learning Paths - BETA](https://www.thegreatcoursesplus.com/allsubjects/learning-paths?CFM=mega_menu)
+    * [All Subjects](https://www.thegreatcoursesplus.com/allsubjects?CFM=mega_menu)
     
     FORMATS
     
@@ -1189,7 +1190,7 @@ Gifting Options
 
 © The Teaching Company Sales, LLC. All rights reserved.
 
-![The Great Courses Plus](https://www.thegreatcoursesplus.com/static/version1722443246/frontend/Wondrium/default/en_US/images/logo.svg)
+![The Great Courses Plus](https://www.thegreatcoursesplus.com/static/version1724937661/frontend/Wondrium/default/en_US/images/logo.svg)
 
 New Password Required
 
