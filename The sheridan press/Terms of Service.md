@@ -104,8 +104,8 @@ Home
 
 [![site-logo](https://bloximages.newyork1.vip.townnews.com/thesheridanpress.com/content/tncms/custom/image/95cd45de-f056-11ee-9067-1fb0199d8361.png?resize=200%2C34)](https://www.thesheridanpress.com/)
 
-**Your Community, Your News, Your Way!**
-----------------------------------------
+[**Take Our Community Survey Today!**](https://thesheridanpress.secondstreetapp.com/The-Sheridan-Press-Community-Survey-2024/)
+------------------------------------------------------------------------------------------------------------------------------
 
 [Contact Us!](https://www.thesheridanpress.com/site/forms/)
 
@@ -544,7 +544,7 @@ Sign in with
 
  Google
 
-[Subscribe](javascript:void(0))
+[Admin login](https://www.thesheridanpress.com/tncms/auth/admin/) [Subscribe](javascript:void(0))
 
 [Need an account? Sign Up](javascript:void(0))
 
