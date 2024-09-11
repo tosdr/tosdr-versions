@@ -1,27 +1,11 @@
-* [Tools](#)
-    * [Anagram Solver](https://www.xfire.com/anagram-solver/)
-    * [Combined Word Tool (Crosswords, Hangman, more)](https://www.xfire.com/combined-word-tool/)
-    * [Wordle Word Finder](https://www.xfire.com/wordle-word-finder-tool/)
-    * [Words With These Letters](https://www.xfire.com/words-with-these-letters-tool/)
-* [Wordle](#)
-    * [Wordle Word Lists](https://www.xfire.com/wordle/word-lists/)
-        * [Words That Start With](https://www.xfire.com/wordle/word-lists/words-that-start-with/)
-        * [Words That End With](https://www.xfire.com/wordle/word-lists/words-that-end-with/)
-        * [1 Letter in Position](https://www.xfire.com/wordle/word-lists/1-letter-in-position/)
-        * [2 Letters in Position](https://www.xfire.com/wordle/word-lists/2-letters-in-position/)
+* [Game News](https://www.xfire.com/news/)
+* [Game Guides](https://www.xfire.com/guides/)
+    * [Call of Duty](https://www.xfire.com/guides/call-of-duty/)
+* [Wordle](https://www.xfire.com/wordle/)
     * [Today’s Wordle Answer](https://www.xfire.com/todays-wordle-answer/)
+    * [Wordle Words: Single Letter Position](https://www.xfire.com/wordle/1-letter-in-position/)
+    * [Wordle Word Finder](https://www.xfire.com/wordle-word-finder-tool/)
     * [Wordle Answer Archive](https://www.xfire.com/wordle/answers/)
-    * [Wordle Answer Dictionary](https://www.xfire.com/wordle-answer-dictionary/)
-    * [Wordle Tips & Starting Words](https://www.xfire.com/wordle-hints-and-tips/)
-* [Scrabble](https://www.xfire.com/scrabble/)
-    * [Common Prefixes and Suffixes](https://www.xfire.com/scrabble-words-with-common-prefixes-and-suffixes/)
-    * [High Score Scrabble Words Starting With](https://www.xfire.com/scrabble/highest-score-scrabble/)
-    * [High Score Scrabble Words Ending With](https://www.xfire.com/scrabble/highest-score-scrabble-end/)
-    * [Short Scrabble Words](https://www.xfire.com/scrabble/short-scrabble-words/)
-    * [Scrabble Palindromes](https://www.xfire.com/scrabble-dictionary-palindromes-and-point-values/)
-    * [Scrabble Words With Rare Letters](https://www.xfire.com/words-containing-rare-letters-q-x-z-for-scrabble/)
-* [Letter-Specific Word Lists](https://www.xfire.com/letter-specific-word-lists/)
-* [Fireword](https://www.xfire.com/fireword/)
 
 About Xfire
 
@@ -48,7 +32,7 @@ About Xfire
 
 [![Xfire](https://www.xfire.com/wp-content/uploads/2023/09/xfire-red-logo.png)](https://www.xfire.com/)
 
-Unleash your inner Wordle word puzzle wizard
+Straight-shooting video game news
 
 [](#)
 
@@ -63,8 +47,6 @@ Unleash your inner Wordle word puzzle wizard
 [](#)
 
  Search
-
-Unleash your inner word wizard
 
 Terms
 =====
