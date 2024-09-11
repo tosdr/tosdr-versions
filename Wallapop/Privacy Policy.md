@@ -193,7 +193,7 @@ Wallapop
 * [About](https://about.wallapop.com/en/)
 * [Jobs](https://boards.eu.greenhouse.io/wallapop)
 
-### Soporte
+### Support
 
 * [Help center](https://ayuda.wallapop.com/hc/en-us)
 * [Publishing rules](https://ayuda.wallapop.com/hc/en-us/articles/360004667717-What-content-is-not-allowed-on-wallapop)
@@ -213,4 +213,4 @@ Wallapop
 * Instagram
 * [Twitter](https://twitter.com/wallapop "Twitter")
 
-Copyright © 2024 Wallapop © de sus respectivos propietarios
+Copyright © 2024 Wallapop © of their respective owners
