@@ -404,7 +404,7 @@ The ISP’s contact details are available on the ISP’s website at [https://ww
     * [Press Area](https://www.world4you.com/en/company/press-area)
     * [Blog](https://www.world4you.com/blog/)
 * Support
-    * [Help Center](https://www.world4you.com/en/support)
+    * [Support Centre](https://www.world4you.com/en/support)
     * [Forms](https://www.world4you.com/en/support/forms)
     * [Manuals](https://www.world4you.com/en/support/manuals)
     * [FAQ-Portal](https://faq.world4you.com/en)
