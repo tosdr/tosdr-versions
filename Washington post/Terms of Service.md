@@ -9,8 +9,6 @@
 Terms of Service
 ================
 
-Sorry, a summary is not available for this article at this time. Please try again later.
-
 ![](https://www.washingtonpost.com/wp-apps/imrs.php?src=https://s3.amazonaws.com/arc-authors/washpost/256e702d-7557-4a12-a78f-a66f571c2e16.png&h=196&w=196)
 
 By Washington Post staff
