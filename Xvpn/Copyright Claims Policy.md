@@ -1,32 +1,3 @@
-We use cookies to provide you a better service and analyze traffic. To find out more about cookies, please see our [Cookie Declaration](https://xvpn.io/cookie-declaration). By continuing to browse our website, you agree to our use of cookies.
-
-Agree
-
-Manage
-
-Cookie Settings
----------------
-
-We use cookies to provide you a better service and analyze traffic, To find out more about cookies, please see our [Cookie Declaration](https://xvpn.io/cookie-declaration).
-
-### Essential
-
-Our website relies on these cookies for proper functionality.
-
-### Functionality
-
-These cookies are utilized to retain your preferences, such as language selection.
-
-### Statistics
-
-Cookies enable us to gain insights into our visitors and enhance their browsing.
-
-### Advertising
-
-Cookies that are used to track conversions for ads platforms.
-
-Confirm
-
 [](https://xvpn.io/)
 
 * [What Is a VPN](https://xvpn.io/what-is-vpn)
@@ -92,6 +63,8 @@ English
 * Français
 * عربي
 * Русский
+* Türkçe
+* Português
 
 [](https://xvpn.io/)
 
@@ -165,6 +138,10 @@ English
     عربي
     
     Русский
+    
+    Türkçe
+    
+    Português
     
 * [Log In](https://xvpn.io/login "Log in/ Sign up now | X-VPN")
     
