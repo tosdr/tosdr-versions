@@ -1,12 +1,8 @@
 [](https://wildskymedia.com/)
 
 * [HOME](https://wildskymedia.com/)
-* [NEWS](https://wildskymedia.com/news)
 * [BRANDS](https://wildskymedia.com/brands)
-* [ABOUT](https://wildskymedia.com/about)
-* [ADVERTISE](https://wildskymedia.com/advertise)
-* [CAREERS](https://wildskymedia.com/careers)
-* [CONTACT US](https://wildskymedia.com/advertise#contact)
+* [CONTACT US](https://wildskymedia.com/contact)
 * [](https://www.linkedin.com/company/wild-sky-media)
 
 Terms of Service
@@ -135,6 +131,6 @@ C. No waiver of any term of this these Terms of Use shall be deemed a further or
 
 Copyright © 2024 Wild Sky Media - All Rights Reserved.
 
-[CONTACT](https://wildskymedia.com/advertise#contact) • [TERMS OF SERVICE](https://wildskymedia.com/terms-of-service) • [PRIVACY POLICY](https://wildskymedia.com/privacy-policy)
+[CONTACT](https://wildskymedia.com/contact) • [TERMS OF SERVICE](https://wildskymedia.com/terms-of-service) • [PRIVACY POLICY](https://wildskymedia.com/privacy-policy)
 
 [Connect With Us](https://www.linkedin.com/company/wild-sky-media)
