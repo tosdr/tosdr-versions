@@ -1,53 +1,47 @@
-Tuta has a brand new logo. Read more [here](https://tuta.com/blog/new-logo-announcement).
+[](https://tutanota.com/ "Tuta")
 
-[](https://tutanota.com/ "Tutanota")
+[Login](https://app.tuta.com/ "Mail. Done. Right. Login to Tuta") [Sign up](https://app.tuta.com/?r=/signup#subscription)
 
-[PRICING](https://tutanota.com/pricing)[BUSINESS](https://tutanota.com/business)
+Products
 
-WHY TUTA
+[Tuta Mail](https://tutanota.com/secure-email)[Tuta Calendar](https://tutanota.com/calendar)
 
-[WHY TUTA](https://tutanota.com/why-tutanota)[TEAM](https://tutanota.com/team)[EMAIL COMPARISON](https://tutanota.com/email-comparison)[ENCRYPTION](https://tutanota.com/encryption)[SECURITY](https://tutanota.com/security)[OPEN SOURCE](https://tutanota.com/open-source)[SUSTAINABILITY](https://tutanota.com/sustainability)[COMMUNITY](https://tutanota.com/community)
+[Pricing](https://tutanota.com/pricing) [Business](https://tutanota.com/business) Why Tuta
 
-RESOURCES
+[Security](https://tutanota.com/security) [Privacy Guide](https://tutanota.com/privacy) [Sustainability](https://tutanota.com/sustainability) [Encryption](https://tutanota.com/encryption) [Team](https://tutanota.com/team) [Open Source](https://tutanota.com/open-source) [Community](https://tutanota.com/community) [Email comparison](https://tutanota.com/email-comparison)
 
-[BLOG](https://tutanota.com/blog-posts)[TUTA NEWS](https://tutanota.com/news)[PRIVACY NEWS](https://tutanota.com/privacy-news)[GUIDES](https://tutanota.com/guides)[CHANGELOG](https://tutanota.com/changelog)[PRIVACY GUIDE](https://tutanota.com/privacy)[DOWNLOAD TUTA](https://tutanota.com/#download)
+[Blog](https://tutanota.com/blog) [Jobs](https://tutanota.com/jobs) [Support](https://tutanota.com/support)
 
-[SUPPORT](https://tutanota.com/support)[JOBS](https://tutanota.com/jobs)
-
-[LOGIN](https://app.tuta.com/ "Mail. Done. Right. Login to Tutanota")
-
-[SIGN UP](https://app.tuta.com/?r=/signup#subscription "Mail. Done. Right. Sign up to Tuta")
-
-![](/resources/images/background/writing-encrypted-email-laptop-mockup.jpg)
+[Login](https://app.tuta.com/ "Mail. Done. Right. Login to Tuta") [Sign up](https://app.tuta.com/?r=/signup#subscription)
 
 Same experience, better privacy.
 ================================
 
 Welcome to a better web: Say "Hello" to privacy and freedom with Tuta!
 
-[CREATE FREE EMAIL ACCOUNT](https://app.tuta.com/?r=/signup#subscription "Mail. Done. Right. Sign up to Tuta")
+[Create free account](https://app.tuta.com/?r=/signup#subscription)
 
-Privacy must be yours.
+### Privacy must be yours.
 
 Big Tech uses your data for their own profit. Now is the time to take back what belongs to you: Your data. Tuta protects all your data with strong encryption. Say “hello” to privacy!
 
-Get your free encrypted email address.
+### Get your free encrypted email address.
 
 Privacy sets you free. Privacy enables you to have a secure space, free from judgment and discrimination. Privacy is the foundation for freedom of thought and freedom of speech.
 
-Privacy is power.
+### Privacy is power.
 
 It is your choice who you want to communicate with. It is your choice to limit access to your private data, your thoughts, opinions and ideas. You have the power to share your thoughts – or not.
 
-Privacy is safety.
+### Privacy is safety.
 
 Privacy enables you to protect yourself and the society from arbitrary and unjustified use of power. By protecting your data from third-party access, you deny others to establish control over your data, and over all facets of your life.
 
-Privacy is reputation.
+### Privacy is reputation.
 
 Privacy is essential to maintain your reputation. If there was no privacy, others could use information about yourself to misrepresent you or to put you in a bad light. Privacy helps you to protect your reputation from being unfairly harmed.
 
-Privacy to start over.
+### Privacy to start over.
 
 Privacy allows you to start over in life. You are allowed to change and progress, and sometimes it is necessary to keep private information from the past in the past. It is a great achievement that we are able to move beyond mistakes and make a new start.
 
@@ -66,8 +60,6 @@ While you still have the option to use ad blockers to mitigate these negative ef
 
 Privacy - and the loss of privacy - impacts both your personal life and society. That's why privacy is widely recognized as a fundamental human right.
 
-![](/resources/images/background/tutanota-team-09-2022-photo.jpg)
-
 We fight surveillance capitalism.
 ---------------------------------
 
@@ -80,9 +72,21 @@ Because each and everyone of us deserves freedom and privacy, online and offline
 Why you will love Tuta Mail
 ---------------------------
 
-[SPKMBL](https://play.google.com/store/apps/details?id=de.tutao.tutanota)
+> Best emailing service I've used. Unlike Google, it actually respects your privacy and has great UI, customization and a nice minimalist design. It's only €12/yr for a premium email so it's super affordable as well.
 
-"Best emailing service I've used. Unlike Google, it actually respects your privacy and has great UI, customization and a nice minimalist design. It's only €12/yr for a premium email so it's super affordable as well."
+[SpkMbl](https://play.google.com/store/apps/details?id=de.tutao.tutanota)
+
+> Tutanota is by far the best email service I have ever used. ... The prices are fair for the services offered. I couldn't be happier. 💯
+
+[Andy Lemke](https://play.google.com/store/apps/details?id=de.tutao.tutanota)
+
+> It works very well and you are not bombarded with intrusive and harmful advertising. A most excellent replacement for all Microsoft and Google email accounts!
+
+[Muzzle Flash](https://play.google.com/store/apps/details?id=de.tutao.tutanota)
+
+> This is hands down the best free privacy oriented email service out there. They genuinely care about the end users privacy. The data they collect is next to nothing (if any) and provide a plethora of amazing services.
+
+[Brycen Gunter](https://play.google.com/store/apps/details?id=de.tutao.tutanota)
 
 Switch now!
 -----------
@@ -91,28 +95,26 @@ As the Internet grows up, people understand that they have to stop feeding the s
 
 Get your encrypted Tuta account now.
 
-[SIGN UP](https://app.tuta.com/?r=/signup#subscription "Mail. Done. Right. Sign up to Tuta")
+[Sign up](https://app.tuta.com/?r=/signup#subscription)
 
-[Terminate subscription](https://app.tuta.com/?r=/termination)
+[](https://www.facebook.com/tutaprivacy "Facebook")   [](https://twitter.com/TutaPrivacy "Twitter")   [](https://www.reddit.com/r/tutanota/ "Reddit")  [](https://mastodon.social/@Tutanota "Mastodon")
 
-[](https://www.facebook.com/tutaprivacy "Facebook")[](https://twitter.com/TutaPrivacy "Twitter")[](https://www.reddit.com/r/tutanota/ "Reddit")[](https://mastodon.social/@Tutanota "Mastodon")
+Products
+
+[Tuta Mail](https://tutanota.com/secure-email) [Tuta Calendar](https://tutanota.com/calendar)
 
 Company
 
-[Community](https://tutanota.com/community)[Team](https://tutanota.com/team)[Jobs](https://tutanota.com/jobs)[Terms](https://tutanota.com/terms)[Privacy](https://tutanota.com/privacy-policy)[Legal notice](https://tutanota.com/imprint)
+[Community](https://tutanota.com/community) [Team](https://tutanota.com/team) [Jobs](https://tutanota.com/jobs) [Terms](https://tutanota.com/terms) [Privacy](https://tutanota.com/privacy-policy) [Legal notice](https://tutanota.com/imprint)
 
 Development
 
-[Changelog](https://tutanota.com/changelog)[Roadmap](https://tutanota.com/roadmap)[Security](https://tutanota.com/security)[Encryption](https://tutanota.com/encryption)[Open Source](https://tutanota.com/open-source)[GitHub](https://github.com/tutao/tutanota)
-
-Features
-
-[Secure Email](https://tutanota.com/secure-email)[Encrypted Calendar](https://tutanota.com/calendar)[Business](https://tutanota.com/business)
+[Roadmap](https://tutanota.com/roadmap) [Security](https://tutanota.com/security) [Encryption](https://tutanota.com/encryption) [Open Source](https://tutanota.com/open-source) [GitHub](https://github.com/tutao/tutanota)
 
 Support
 
-[Forum](https://www.reddit.com/r/tutanota/)[Press](https://tutanota.com/press)[Support](https://tutanota.com/support)
+[Forum](https://www.reddit.com/r/tutanota/) [Press](https://tutanota.com/press) [Support](https://tutanota.com/support) [Terminate subscription](https://app.tuta.com/?r=/termination)
 
 Language
 
-[English](https://tutanota.com/languages)[Translate](https://tutanota.com/blog/posts/tutanota-translation-project)
+EnglishČeskyDeutschEspañolSuomiFrançaisMagyar nyelvItaliano日本語NederlandsPolskiPortuguês, BRPусскийSvenskaYкраїнська中文 [Translate](https://tutanota.com/blog/tutanota-translation-project)
