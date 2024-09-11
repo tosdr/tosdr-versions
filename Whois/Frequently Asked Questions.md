@@ -1,8 +1,6 @@
 ![](https://ad.doubleclick.net/ddm/activity/src=9276771;type=visit0;cat=sitev000;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;npa=;ord=1?)
 
-Toggle navigation
-
-[![](/static/images/whois-logo.png)](https://who.is/)
+[![WHOIS Logo](/static/images/whois-logo.svg)](https://who.is/)
 
 * [Premium Domains](https://www.name.com/aftermarket?searchtype=premium)
 * [Transfer](https://www.name.com/domain-transfer)
