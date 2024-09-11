@@ -4,11 +4,11 @@
     
     * [About us](https://www.untu.us/about-us/)
     * [Contact us](https://www.untu.us/contact-us/)
-    * [Join our team](https://www.untu.us/work-for-us/)
+    * [Join our team](https://www.untu.us/join-our-team/)
     
-    [![computer screen showing data](/_next/image/?url=https%3A%2F%2Fmedia.winwithoptimal.com%2Fwp-content%2Fuploads%2F2024%2F06%2FUntitled-design-10.png&w=3840&q=75)
+    [![adexchanger awards finalist badge](/_next/image/?url=https%3A%2F%2Fmedia.winwithoptimal.com%2Fwp-content%2Fuploads%2F2024%2F08%2F2024-AdExchanger-Awards-1.gif&w=3840&q=75)
     
-    ### Google API Leak: A Look Inside the Algorithm](https://www.untu.us/insights/google-api-leak/)
+    ### Optimal is a 3x AdExchanger Awards Finalist](https://www.untu.us/insights/optimal-is-a-3x-adexchanger-awards-finalist/)
     
 * [Solutions](https://www.untu.us/solutions/)
     
@@ -51,7 +51,7 @@
     
     * [About us](https://www.untu.us/about-us/)
     * [Contact us](https://www.untu.us/contact-us/)
-    * [Join our team](https://www.untu.us/work-for-us/)
+    * [Join our team](https://www.untu.us/join-our-team/)
     
 * [Solutions](https://www.untu.us/solutions/)
     
@@ -367,26 +367,26 @@ Get ahead with the news and insights you need to inform and inspire your next su
 
 [Read more](https://www.untu.us/insights/)
 
-[![computer screen showing data](/_next/image/?url=https%3A%2F%2Fmedia.winwithoptimal.com%2Fwp-content%2Fuploads%2F2024%2F06%2FUntitled-design-10.png&w=3840&q=75)
+[![adexchanger awards finalist badge](/_next/image/?url=https%3A%2F%2Fmedia.winwithoptimal.com%2Fwp-content%2Fuploads%2F2024%2F08%2F2024-AdExchanger-Awards-1.gif&w=3840&q=75)
 
-ConsumerEntertainmentHealthcare
+ConsumerEntertainmentPoliticsPublic affairs
 
-### Google API Leak: A Look Inside the Algorithm](https://www.untu.us/insights/google-api-leak/)[![magnifying glass on computer screen](/_next/image/?url=https%3A%2F%2Fmedia.winwithoptimal.com%2Fwp-content%2Fuploads%2F2024%2F06%2FUntitled-design-9.png&w=3840&q=75)
+### Optimal is a 3x AdExchanger Awards Finalist](https://www.untu.us/insights/optimal-is-a-3x-adexchanger-awards-finalist/)[![person watching streaming ctv with a remote](/_next/image/?url=https%3A%2F%2Fmedia.winwithoptimal.com%2Fwp-content%2Fuploads%2F2024%2F08%2FBlog-image-CTV.png&w=3840&q=75)
 
-ConsumerEntertainmentHealthcare
+PoliticsPublic affairs
 
-### Smarter Search? AI Overviews Explained](https://www.untu.us/insights/google-ai-overviews/)[![optimal impact awards cover](/_next/image/?url=https%3A%2F%2Fmedia.winwithoptimal.com%2Fwp-content%2Fuploads%2F2024%2F05%2FOptimal-Impact-Award-Winners-Blog-image-3.png&w=3840&q=75)
+### Optimal and Beeswax: Revolutionizing Voter Targeting Through Advanced CTV Technology](https://www.untu.us/insights/optimal-and-beeswax-revolutionizing-ctv-campaigns/)[![person watching tv with bowl of popcorn](/_next/image/?url=https%3A%2F%2Fmedia.winwithoptimal.com%2Fwp-content%2Fuploads%2F2022%2F10%2FCopy-of-DSPolitical-Email-Header-e1723587851421.png&w=3840&q=75)
 
-ConsumerHealthcarePoliticsPublic affairs
+ConsumerEntertainmentPoliticsPublic affairs
 
-### Celebrating Excellence: Meet our Optimal Impact Award Winners](https://www.untu.us/insights/may-2024-optimal-impact-awards/)
+### Optimal Celebrates CTV Campaign Success with FreeWheel’s Performance Suite](https://www.untu.us/insights/optimal-freewheel-performance-suite-ctv-optimization/)
 
 ### Company
 
 * [**About us**](https://www.untu.us/about-us/)
 * [**Contact us**](https://www.untu.us/contact-us/)
 * [**Our Insights**](https://www.untu.us/insights/)
-* [**Careers**](https://www.untu.us/work-for-us/)
+* [**Join our team**](https://www.untu.us/join-our-team/)
 
 ### Industries
 
@@ -405,8 +405,7 @@ ConsumerHealthcarePoliticsPublic affairs
 ### Follow us
 
 * [**Linkedin**](https://www.linkedin.com/company/winwithoptimal/)
-* [**Twitter**](https://twitter.com/winwithoptimal)
-* [**Facebook**](https://www.facebook.com/winwithoptimal/)
+* [**X**](https://x.com/winwithoptimal)
 * [**Instagram**](https://www.instagram.com/winwithoptimal/)
 
 ### Ready for more insights?
