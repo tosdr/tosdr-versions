@@ -514,7 +514,7 @@ MENU MENU
     
     [Shared Services Program (SSP)](https://home.treasury.gov/services/government-shared-services/shared-services-programs)
     
-    [Financial Management Quality Service Management Office Marketplace Catalog](https://www.fiscal.treasury.gov/fmqsmo/marketplace-catalog.html)
+    [Financial Management (FM) Marketplace Catalog](https://tfx.treasury.gov/fmqsmo/marketplace-catalog)
     
     [TreasuryDirect](https://www.treasurydirect.gov/government/)
     
@@ -540,51 +540,51 @@ MENU MENU
     [Featured Stories](https://home.treasury.gov/news/featured-stories)
     -------------------------------------------------------------------
     
-    July 19, 2024
+    September 4, 2024
     
-    [Coordinating DOE Home Energy Rebates with Energy-Efficient Home Improvement Tax Credits: An Explainer](https://home.treasury.gov/news/featured-stories/coordinating-doe-home-energy-rebates-with-energy-efficient-home-improvement-tax-credits-an-explainer)
+    [Analysis of the First Year of the Low-Income Communities Bonus Credit Program: Building an Inclusive and Affordable Clean Energy Economy](https://home.treasury.gov/news/featured-stories/analysis-of-the-first-year-of-the-low-income-communities-bonus-credit-program-building-an-inclusive-and-affordable-clean-energy-economy)
     
-    July 18, 2024
+    September 3, 2024
     
-    [An Update to “The Purchasing Power of American Households”](https://home.treasury.gov/news/featured-stories/an-update-to-the-purchasing-power-of-american-households-0)
+    [Small Business and Entrepreneurship in the Post-COVID Expansion](https://home.treasury.gov/news/featured-stories/small-business-and-entrepreneurship-in-the-post-covid-expansion)
     
-    July 18, 2024
+    August 21, 2024
     
-    [IRS Simple Notices are saving Americans time and improving accessibility](https://home.treasury.gov/news/featured-stories/irs-simple-notices-are-saving-americans-time-and-improving-accessibility)
+    [Modernizing Treasury’s Office of Foreign Assets Control](https://home.treasury.gov/news/press-releases/jy2544)
     
     [View all Featured Stories](https://home.treasury.gov/news/featured-stories "View all Featured Stories")
     
     [Press Releases](https://home.treasury.gov/news/press-releases)
     ---------------------------------------------------------------
     
-    July 31, 2024
+    September 10, 2024
     
-    [Treasury Releases Airline Warrant Auction Detailed Results](https://home.treasury.gov/news/press-releases/jy2516)
+    [U.S. Department of the Treasury Awards $4 Million to Nevada to Help Small Businesses in Key Sectors of the Economy Grow and Hire](https://home.treasury.gov/news/press-releases/jy2571)
     
-    July 31, 2024
+    September 10, 2024
     
-    [Treasury Targets Houthi Weapons Procurement Networks](https://home.treasury.gov/news/press-releases/jy2515)
+    [Treasury Targets Key Funding Source of Deadly Fentanyl- Trafficking Cartel CJNG](https://home.treasury.gov/news/press-releases/jy2568)
     
-    July 31, 2024
+    September 10, 2024
     
-    [Minutes of the Meeting of the Treasury Borrowing Advisory Committee July 30, 2024](https://home.treasury.gov/news/press-releases/jy2514)
+    [Treasury Designates Actors Facilitating Iran’s Transfer of Lethal Aid to Russia](https://home.treasury.gov/news/press-releases/jy2570)
     
     [View All Press Releases](https://home.treasury.gov/news/press-releases "View all Press Releases")
     
     [Remarks and Statements](https://home.treasury.gov/news/press-releases/statements-remarks)
     ------------------------------------------------------------------------------------------
     
-    July 30, 2024
+    September 10, 2024
     
-    [Remarks by Secretary of the Treasury Janet L. Yellen on Pennsylvania Joining IRS Direct File](https://home.treasury.gov/news/press-releases/jy2507)
+    [Joint Statement on the U.S.-UK Financial Regulatory Working Group](https://home.treasury.gov/news/press-releases/jy2569)
     
-    July 27, 2024
+    September 6, 2024
     
-    [Remarks by Secretary of the Treasury Janet L. Yellen at the Goeldi Museum in Belém, Brazil](https://home.treasury.gov/news/press-releases/jy2504)
+    [Remarks by Secretary of the Treasury Janet L. Yellen in Austin, Texas](https://home.treasury.gov/news/press-releases/jy2564)
     
-    July 27, 2024
+    September 4, 2024
     
-    [Secretary of the Treasury Janet L. Yellen Announces the Amazon Region Initiative Against Illicit Finance to Combat Nature Crimes](https://home.treasury.gov/news/press-releases/jy2503)
+    [Remarks by Deputy Assistant Secretary for Financial Institutions Policy Jeanette Quick at the 2024 AAPISTRONG Annual Conference](https://home.treasury.gov/news/press-releases/jy2560)
     
     [View All Remarks and Statements](https://home.treasury.gov/news/press-releases/statements-remarks "View all Remarks and Statements")
     
@@ -878,7 +878,7 @@ Treasury maintains a separate page related to the [Privacy Act](https://home.tr
 * [Enterprise Applications](https://home.treasury.gov/services/government-shared-services/enterprise-applications)
 * [Administrative Resource Center (ARC)- Bureau of the Fiscal Service](https://arc.fiscal.treasury.gov/)
 * [Treasury Direct Services for Governments](https://www.treasurydirect.gov/government/)
-* [Financial Management Quality Service Management Office Marketplace Catalog](https://www.fiscal.treasury.gov/fmqsmo/marketplace-catalog.html)
+* [Financial Management (FM) Marketplace Catalog](https://tfx.treasury.gov/fmqsmo/marketplace-catalog)
 
 ### Additional Resources
 
