@@ -117,7 +117,7 @@ The Content and information available on and through the Services (including, bu
 
 **PRIVACY POLICY AND DISCLOSURES**
 
-Any personal information you post on or otherwise submit in connection with the Services will be used in accordance with our Privacy and Cookies Statement. Click [here](https://tripadvisor.mediaroom.com/US) to view our Privacy and Cookies Statement.
+Any personal information you post on or otherwise submit in connection with the Services will be used in accordance with our Privacy and Cookies Statement. Click [here](https://tripadvisor.mediaroom.com/us-privacy-policy) to view our Privacy and Cookies Statement.
 
 **REVIEWS, COMMENTS AND USE OF OTHER INTERACTIVE AREAS; LICENCE GRANT**
 
@@ -208,7 +208,7 @@ For passport and visa requirements, please consult the relevant embassy or consu
 
 It is also your responsibility to consult your physician for current recommendations on inoculations before you travel internationally, and to ensure that you meet all health entry requirements and follow all medical guidance related to your trip.
 
-Although most travel, including travel to international destinations, is completed without incident, travel to certain destinations may involve greater risk than others. Tripadvisor urges travellers to investigate and review travel prohibitions, warnings, announcements and advisories issued by their own governments and destination country governments prior to booking travel to international destinations. For example, information on conditions in various countries and the level of risk associated with travel to particular international destinations is provided by the United States Government at [www.state.gov](file:///C:/Users/emma.finlayson/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/7XIGGZH4/www.state.gov), [www.tsa.gov](https://www.tsa.gov/),[www.dot.gov](file:///C:/Users/emma.finlayson/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/7XIGGZH4/www.dot.gov), [www.faa.gov](file:///C:/Users/emma.finlayson/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/7XIGGZH4/www.faa.gov), [www.cdc.gov](file:///C:/Users/emma.finlayson/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/7XIGGZH4/www.cdc.gov), [www.treas.gov/ofac](file:///C:/Users/emma.finlayson/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/7XIGGZH4/www.treas.gov/ofac) and [www.customs.gov](file:///C:/Users/emma.finlayson/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/7XIGGZH4/www.customs.gov).
+Although most travel, including travel to international destinations, is completed without incident, travel to certain destinations may involve greater risk than others. Tripadvisor urges travellers to investigate and review travel prohibitions, warnings, announcements and advisories issued by their own governments and destination country governments prior to booking travel to international destinations. For example, information on conditions in various countries and the level of risk associated with travel to particular international destinations is provided by the United States Government at [www.state.gov](https://www.state.gov/), [www.tsa.gov](https://www.tsa.gov/), [www.dot.gov](https://www.transportation.gov/), [www.faa.gov/](https://www.faa.gov/), [www.cdc.gov/](https://www.cdc.gov/), [https://ofac.treasury.gov/](https://ofac.treasury.gov/) and [www.customs.gov](https://tripadvisor.mediaroom.com/www.customs.gov).
 
 BY LISTING INFORMATION RELEVANT TO TRAVEL TO PARTICULAR INTERNATIONAL DESTINATIONS, THE TRIPADVISOR COMPANIES DO NOT REPRESENT OR WARRANT THAT TRAVEL TO SUCH POINTS IS ADVISABLE OR WITHOUT RISK, AND IS NOT LIABLE FOR DAMAGES OR LOSSES THAT MAY RESULT FROM TRAVEL TO SUCH DESTINATIONS.
 
@@ -381,7 +381,7 @@ Any rights not expressly granted herein are reserved.
 
 **SERVICE HELP**
 
-For answers to your questions or ways to contact us, visit our [Help Centre](https://www.tripadvisorsupport.com/en-US/hc/traveler/articles/510),or  email us at help@tripadvisor.com. Or, you can write to us at:
+For answers to your questions or ways to contact us, visit our [Help Centre](https://www.tripadvisorsupport.com/en-US/hc/traveler),or  email us at help@tripadvisor.com. Or, you can write to us at:
 
 Tripadvisor LLC
 
