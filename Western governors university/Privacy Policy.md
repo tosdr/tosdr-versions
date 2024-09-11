@@ -44,6 +44,8 @@
 * [Accelerated Information Technology Bachelor's and Master's Degree (from the School of Technology)](https://www.wgu.edu/online-it-degrees/accelerated-information-technology-bachelors-masters-program.html)
 * [Health Information Management – B.S. (from the Leavitt School of Health)](https://www.wgu.edu/online-nursing-health-degrees/health-information-management-bachelors-program.html)
 
+* [View all Business Degrees](https://www.wgu.edu/online-business-degrees.html)
+
 ##### Master's Degrees
 
 * [View all Business Master's Degrees](https://www.wgu.edu/online-business-degrees/masters-programs.html)
@@ -65,8 +67,6 @@
 * [Supply Chain](https://www.wgu.edu/online-business-degrees/certificates/supply-chain.html)
 * [Accounting Fundamentals](https://www.wgu.edu/online-business-degrees/certificates/accounting-fundamentals.html)
 * [Digital Marketing and E-Commerce](https://www.wgu.edu/online-business-degrees/certificates/digital-marketing-ecommerce.html)
-
-* [View all Business Degrees](https://www.wgu.edu/online-business-degrees.html)
 
 ##### Bachelor's Preparing For Licensure
 
