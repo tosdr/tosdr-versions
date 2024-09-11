@@ -1,4 +1,4 @@
-[Skip to content](#start-of-content)
+[Skip to content](#start-of-content) 
 
 Navigation Menu
 ---------------
@@ -71,6 +71,7 @@ Toggle navigation
     * [DevOps](https://github.com/resources/articles/devops)
     * [Security](https://github.com/resources/articles/security)
     * [Software Development](https://github.com/resources/articles/software-development)
+    * [View all](https://github.com/resources/articles)
     
     Explore
     
@@ -151,15 +152,15 @@ Cancel Create saved search
 
 [Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fgorhill%2FuBlock%2Fwiki%2FPrivacy-policy)
 
-[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fwiki%2Fshow&source=header-repo&source_repo=gorhill%2FuBlock)
+[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fwiki%2Fshow&source=header-repo&source_repo=gorhill%2FuBlock) Reseting focus
 
 You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
 
 [gorhill](https://github.com/gorhill) / **[uBlock](https://github.com/gorhill/uBlock)** Public
 
 * [Notifications](https://github.com/login?return_to=%2Fgorhill%2FuBlock) You must be signed in to change notification settings
-* [Fork 3k](https://github.com/login?return_to=%2Fgorhill%2FuBlock)
-* [Star 44.9k](https://github.com/login?return_to=%2Fgorhill%2FuBlock)
+* [Fork 3.1k](https://github.com/login?return_to=%2Fgorhill%2FuBlock)
+* [Star 45.8k](https://github.com/login?return_to=%2Fgorhill%2FuBlock)
     
 
 * [Code](https://github.com/gorhill/uBlock)
@@ -201,7 +202,7 @@ The only time uBO connects to a remote server is to update the filter lists and 
 
 uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 
-### Toggle table of contents Pages 141
+### Toggle table of contents Pages 142
 
 * Loading
     
@@ -226,6 +227,10 @@ uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 * Loading
     
     [About "Why uBlock Origin works so much better than Pi‑hole does?"](https://github.com/gorhill/uBlock/wiki/About-%22Why-uBlock-Origin-works-so-much-better-than-Pi%E2%80%91hole-does%3F%22)
+    
+* Loading
+    
+    [About Google Chrome's "This extension may soon no longer be supported"](https://github.com/gorhill/uBlock/wiki/About-Google-Chrome's-%22This-extension-may-soon-no-longer-be-supported%22)
     
 * Loading
     
@@ -393,7 +398,7 @@ uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
     
 * Loading
     
-    [Does uBO has a parental control or password protection?](https://github.com/gorhill/uBlock/wiki/Does-uBO-has-a-parental-control-or-password-protection%3F)
+    [Does uBO have a parental control or password protection?](https://github.com/gorhill/uBlock/wiki/Does-uBO-have-a-parental-control-or-password-protection%3F)
     
 * Loading
     
@@ -767,7 +772,7 @@ uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
     
     [µBlock vs. ABP: efficiency compared](https://github.com/gorhill/uBlock/wiki/%C2%B5Block-vs.-ABP:-efficiency-compared)
     
-* Show 126 more pages…
+* Show 127 more pages…
 
 * [Wiki home](https://github.com/gorhill/uBlock/wiki/Home)
 * [About the Wiki documentation](https://github.com/gorhill/uBlock/wiki/About-the-Wiki-documentation)
@@ -775,6 +780,10 @@ uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
     * [Can you trust uBlock Origin?](https://github.com/gorhill/uBlock/wiki/Can-you-trust-uBlock-Origin%3F)
 * [Privacy policy](https://github.com/gorhill/uBlock/wiki/Privacy-policy)
     * [Why don't you accept donations?](https://github.com/gorhill/uBlock/wiki/Why-don't-you-accept-donations%3F)
+* Info:
+    * [Source (for developers)](https://github.com/gorhill/uBlock/tree/master/dist#build-instructions-for-developers)
+    * [uBlock Origin Core (Node.js)](https://github.com/gorhill/uBlock/tree/master/platform/nodejs#ublock-origin-core)
+    * [About Safari, Canary, Tor and Kiwi support](https://github.com/gorhill/uBlock/wiki/About-Safari-and-Canary-support)
 * [The toolbar icon](https://github.com/gorhill/uBlock/wiki/Toolbar-icon)
 * [The popup user interface](https://github.com/gorhill/uBlock/wiki/Quick-guide:-popup-user-interface)
     * [The per-site switches](https://github.com/gorhill/uBlock/wiki/Per-site-switches)
@@ -825,7 +834,7 @@ uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
     * [About "This other extension reports more stuff blocked!"](https://github.com/gorhill/uBlock/wiki/About-%22This-other-extension-reports-more-stuff-blocked!%22)
     * [About "uBlock is inferior in capabilities as a result of being lighter on the browser"](https://github.com/gorhill/uBlock/wiki/About-%22uBlock-is-inferior-in-capabilities-as-a-result-of-being-lighter-on-the-browser%22)
     * [Does uBlock protect against fingerprinting?](https://github.com/gorhill/uBlock/wiki/Does-uBO-protect-against-fingerprinting%3F)
-    * [Does uBlock has parental control or password protection?](https://github.com/gorhill/uBlock/wiki/Does-uBO-has-a-parental-control-or-password-protection%3F)
+    * [Does uBlock have parental control or password protection?](https://github.com/gorhill/uBlock/wiki/Does-uBO-have-a-parental-control-or-password-protection%3F)
 * uBlock's resource usage and efficiency:
     * [Memory footprint: what happens inside uBlock after installation](https://github.com/gorhill/uBlock/wiki/Memory-footprint:-what-happens-inside-uBlock-after-installation)
     * [uBlock vs. ABP: efficiency compared](https://github.com/gorhill/uBlock/wiki/uBlock-vs.-ABP:-efficiency-compared)
