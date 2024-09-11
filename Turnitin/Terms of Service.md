@@ -149,7 +149,7 @@ cancel
     
     [eBooks
     
-    Comprehensive resources and subject-matter expertise on education, technology, and more.](https://www.turnitin.com/resources/ebooks/)
+    Comprehensive resources and subject-matter expertise on education, technology, and more.](https://www.turnitin.com/ebooks/)
     
     [Infographics
     
@@ -338,7 +338,7 @@ iv. contains software viruses or worms or any other computer code, files or prog
 
 **User Content and Feedback.** The Website may contain areas in which you may make statements, comments, post reviews, or otherwise provide Content (“Public Areas”). By using these Public Areas, you acknowledge and agree that the Content you provide may be available to other users. Turnitin is not liable for any such Content. Although Turnitin has no obligation to screen, edit or monitor any Content, Turnitin reserves the right to remove, edit or refuse to post Content in its sole discretion. You may also provide us with Content that constitutes suggestions, comments or other feedback about our products and services (“Feedback“). Feedback is voluntary. We may use Feedback for any purpose without obligation of any kind in connection with our business, including for the purpose of enhancing our products, services and the Website.
 
-**Privacy.** We are committed to maintaining the privacy of personal information you submit through the Websites, and maintain a Website Privacy Policy, which may be viewed at this [link](https://www.turnitin.com/privacy-policy-website "Turnitin Privacy Policy"). Turnitin reserves the right to modify the Website Privacy Policy in accordance with the procedure outlined in that policy.
+**Privacy.** We are committed to maintaining the privacy of personal information you submit through the Websites, and maintain a Website Privacy Policy, which may be viewed at this [link](https://www.turnitin.com/privacy-policy-website "Turnitin Privacy Policy") . Turnitin reserves the right to modify the Website Privacy Policy in accordance with the procedure outlined in that policy.
 
 **Changes to the Website.** We may, in our sole discretion, add, change, discontinue or remove any portion or functionality of a Website at any time, or the Website as a whole, without notice.
 
@@ -406,7 +406,6 @@ If you have any questions regarding these TOU, please contact us at legal@turnit
 * [Resources Hub](https://www.turnitin.com/resources/ "Resources Hub")
 * [Blog](https://www.turnitin.com/blog/ "Blog")
 * [Instructional Resources](https://www.turnitin.com/instructional-resources/ "Instructional Resources")
-* [Events](https://www.turnitin.com/events/ "Events")
 * [Turnitin Educator Network](https://turnitin.forumbee.com/ "Turnitin Educator Network")
 * [Support Center](https://helpcenter.turnitin.com/ "Support Center")
 
