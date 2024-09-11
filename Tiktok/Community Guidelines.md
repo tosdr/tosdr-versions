@@ -1,8 +1,8 @@
-![TikTok Logo](https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tns/article/static/build/_assets/tiktok-logo-white-7440580764b3fe4fe157-c96b9911afdbf6253d1fc03bdf3d5e42742f9155.svg)![TikTok Logo](https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tns/article/static/build/_assets/tiktok-logo-6b186a6bd6d6071d8c73-c96b9911afdbf6253d1fc03bdf3d5e42742f9155.svg)
+![TikTok Logo](https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tns/article/static/build/_assets/tiktok-logo-white-7440580764b3fe4fe157-24a5ba0cd21fb1f6333a64bcf0afe6beef2af8e2.svg)![TikTok Logo](https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tns/article/static/build/_assets/tiktok-logo-6b186a6bd6d6071d8c73-24a5ba0cd21fb1f6333a64bcf0afe6beef2af8e2.svg)
 
-![search icon](https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tns/article/static/build/_assets/search-icon-f1293e3d7e0642d327a2-c96b9911afdbf6253d1fc03bdf3d5e42742f9155.svg)![search icon](https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tns/article/static/build/_assets/search-icon-dark-5dc8ea39e5c54ef822b3-c96b9911afdbf6253d1fc03bdf3d5e42742f9155.svg)
+![search icon](https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tns/article/static/build/_assets/search-icon-f1293e3d7e0642d327a2-24a5ba0cd21fb1f6333a64bcf0afe6beef2af8e2.svg)![search icon](https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tns/article/static/build/_assets/search-icon-dark-5dc8ea39e5c54ef822b3-24a5ba0cd21fb1f6333a64bcf0afe6beef2af8e2.svg)
 
-![search icon](https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tns/article/static/build/_assets/search-icon-dark-5dc8ea39e5c54ef822b3-c96b9911afdbf6253d1fc03bdf3d5e42742f9155.svg)![search icon](https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tns/article/static/build/_assets/search-icon-f1293e3d7e0642d327a2-c96b9911afdbf6253d1fc03bdf3d5e42742f9155.svg)
+![search icon](https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tns/article/static/build/_assets/search-icon-dark-5dc8ea39e5c54ef822b3-24a5ba0cd21fb1f6333a64bcf0afe6beef2af8e2.svg)![search icon](https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tns/article/static/build/_assets/search-icon-f1293e3d7e0642d327a2-24a5ba0cd21fb1f6333a64bcf0afe6beef2af8e2.svg)
 
 * [Overview](https://www.tiktok.com/community-guidelines/en/overview)
     
@@ -127,31 +127,31 @@ Thank you for helping to keep TikTok a welcoming space for everyone!
 
 Keeping our platform safe, trustworthy, and vibrant requires balancing creative expression and preventing harm. We use a combination of safety approaches to strike the right balance:
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/1476805fb15944f6bb8da5ca37f7ae8d~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/d54745c65b654025b3a6dec60f42d295~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](https://p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/1476805fb15944f6bb8da5ca37f7ae8d~tplv-1rzkm2vceq-default:0:0:q75.image)![](https://p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/d54745c65b654025b3a6dec60f42d295~tplv-1rzkm2vceq-default:0:0:q75.image)
 
 Remove content that we do not allow
 
 Everyone who joins TikTok has the ability to freely share content on the platform. However, we remove content--whether posted publicly or privately--when we find that it violates our rules.
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/ffdeec0415e2464eacdd080db59a9098~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/27141b904baf42ebb5d89ec5ee2a52ca~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](https://p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/ffdeec0415e2464eacdd080db59a9098~tplv-1rzkm2vceq-default:0:0:q75.image)![](https://p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/27141b904baf42ebb5d89ec5ee2a52ca~tplv-1rzkm2vceq-default:0:0:q75.image)
 
 Restrict content that is not suitable for youth
 
 We allow a range of content on our platform, but also recognize that not all of it may be suitable for younger audiences. We restrict content that may not be suitable so that it is only viewed by adults (18 years and older). A summary of restricted content categories can be found [here](https://www.tiktok.com/community-guidelines/en/youth-safety/?cgversion=2024H1update&lang=en).
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/5a98ba5ce62b4a9e99151630eb0c3152~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/c87433c6b88044ca8872ae65709ed9c9~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](https://p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/5a98ba5ce62b4a9e99151630eb0c3152~tplv-1rzkm2vceq-default:0:0:q75.image)![](https://p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/c87433c6b88044ca8872ae65709ed9c9~tplv-1rzkm2vceq-default:0:0:q75.image)
 
 Make ineligible for the FYF content that does not meet our recommendation standards
 
 The FYF is an opportunity to discover new content and reach new audiences, but it is not guaranteed that all content will be recommended. Content that does not meet our standards will be ineligible for the FYF. A summary of these standards can be found [here](https://www.tiktok.com/community-guidelines/en/fyf-standards/?cgversion=2024H1update&lang=en).
 
-![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/bf1e1ae007f944e7885b59046c9e216d~tplv-m3rm1y8daf-default:0:0:q75.image)![](https://p16-ttak-va.tiktokcdn.com/tos-maliva-i-m3rm1y8daf-us/ba1c4416b49549b59232f87d2da00bda~tplv-m3rm1y8daf-default:0:0:q75.image)
+![](https://p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/bf1e1ae007f944e7885b59046c9e216d~tplv-1rzkm2vceq-default:0:0:q75.image)![](https://p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/ba1c4416b49549b59232f87d2da00bda~tplv-1rzkm2vceq-default:0:0:q75.image)
 
 Empower our community with information, tools, and resources
 
 We want to make sure you have the right information to help you manage your experience on TikTok. We may add labels, "opt-in" screens, or warnings to provide more context. Our [safety toolkit](https://www.tiktok.com/safety/community-controls/?lang=en) can help you to filter out content with specific hashtags or comments that you are not comfortable seeing, and we also offer [account controls](https://support.tiktok.com/en/account-and-privacy) and in-app features with [safety resources](https://www.tiktok.com/safety?lang=en).
 
-![TikTok Logo](https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tns/article/static/build/_assets/tiktok-logo-white-7440580764b3fe4fe157-c96b9911afdbf6253d1fc03bdf3d5e42742f9155.svg)
+![TikTok Logo](https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tns/article/static/build/_assets/tiktok-logo-white-7440580764b3fe4fe157-24a5ba0cd21fb1f6333a64bcf0afe6beef2af8e2.svg)
 
 #### Company
 
