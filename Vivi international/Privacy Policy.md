@@ -1,4 +1,4 @@
-[![](https://www.vivi.io/wp-content/uploads/2021/10/Vivi_Logo_clr.svg)](https://www.vivi.io/ "Vivi")[we’re hiring](https://www.vivi.io/careers/)
+[![Vivi](https://www.vivi.io/wp-content/uploads/2021/10/Vivi_Logo_clr.svg)](https://www.vivi.io/ "Vivi")
 
 * [What We Do](https://www.vivi.io/what-we-do/)
     * [Wireless Screen Mirroring](https://www.vivi.io/what-we-do/wireless-screen-mirroring/)
@@ -21,7 +21,7 @@
 * [About](https://www.vivi.io/about/)
 * [Contact](https://www.vivi.io/contact/)
 
-[![REQUEST INFO](https://no-cache.hubspot.com/cta/default/3384887/1c2df814-b337-4776-82ed-2b08b4987264.png)](https://cta-redirect.hubspot.com/cta/redirect/3384887/1c2df814-b337-4776-82ed-2b08b4987264)
+[Request a demo](https://www.vivi.io/demo/)
 
 [](#!)
 
@@ -156,10 +156,18 @@ For monthly classroom technology resources.
 
 ##### Follow us
 
-* [![](/wp-content/uploads/2024/07/facebook.svg)](https://www.facebook.com/vivieducation)
-* [![](/wp-content/uploads/2024/07/x-twitter.svg)](http://www.twitter.com/vivieducation)
-* [![](/wp-content/uploads/2024/07/linkedin.svg)](https://www.linkedin.com/company/vivieducation/)
-* [![](/wp-content/uploads/2024/07/youtube.svg)](https://www.youtube.com/channel/UCQbZJeWGyP4LeSmy0elootg)
+* [![Follow us on facebook](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![Follow us on facebook](/wp-content/uploads/2024/07/facebook.svg)](https://www.facebook.com/vivieducation)
+* [![Follow us on X](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![Follow us on X](/wp-content/uploads/2024/07/x-twitter.svg)](http://www.twitter.com/vivieducation)
+* [![Follow us on linkedin](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![Follow us on linkedin](/wp-content/uploads/2024/07/linkedin.svg)](https://www.linkedin.com/company/vivieducation/)
+* [![Subscribe us on YouTube](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![Subscribe us on YouTube](/wp-content/uploads/2024/07/youtube.svg)](https://www.youtube.com/channel/UCQbZJeWGyP4LeSmy0elootg)
 
 © 2024 Vivi International Pty Ltd
 
