@@ -20,6 +20,7 @@ Our Products
     * [Broadband](https://www.virginmedia.com/broadband)
     * [Broadband, TV and phone](https://www.virginmedia.com/broadband/packages)
     * [Broadband and phone](https://www.virginmedia.com/broadband/broadband-and-phone)
+    * [Fibre](https://www.virginmedia.com/broadband/fibre)
     
 * TV
     
