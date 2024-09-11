@@ -128,6 +128,8 @@ Please read this Cookie Policy, Our [Privacy Policy](https://www.viki.com/legal/
     California 94402, USA.
     
 
+![Rakuten Viki](https://1.viki.io/a/vwk8s/_next/static/images/rakuten-viki-horizontal-white.c2156eedbe0.svg)
+
 * [![](/static/svg-icons/instagram-24.svg)](https://www.instagram.com/viki/ "Follow Viki on Instagram")
 * [![](/static/svg-icons/tiktok-24.svg)](https://www.tiktok.com/@rakuten_viki "Follow Viki on Tiktok")
 * [![](/static/svg-icons/facebook-24.svg)](https://www.facebook.com/viki "Follow Viki on Facebook")
