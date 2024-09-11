@@ -1,4 +1,4 @@
-Trustwave Rapid Response: CrowdStrike Falcon Outage Update. [Learn More](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/trustwave-rapid-response-crowdstrike-falcon-outage-update/)
+Trustwave's 2024 Financial Services Threat Reports Highlight Alarming Trends in Insider Threats & Phishing-as-a-Service. [Learn More](https://info.trustwave.com/2024-spiderlabs-threat-report-on-financial-services-sector)
 
 * [Contact Us](https://www.trustwave.com/en-us/company/contact/)
 * [Login](javascript:void(0))
@@ -75,7 +75,7 @@ Trustwave Rapid Response: CrowdStrike Falcon Outage Update. [Learn More](https:/
     
 * 
 
-Trustwave Rapid Response: CrowdStrike Falcon Outage Update. [Learn More](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/trustwave-rapid-response-crowdstrike-falcon-outage-update/)
+Trustwave's 2024 Financial Services Threat Reports Highlight Alarming Trends in Insider Threats & Phishing-as-a-Service. [Learn More](https://info.trustwave.com/2024-spiderlabs-threat-report-on-financial-services-sector)
 
 [Request a Demo](#navdemo-form)
 
@@ -83,15 +83,11 @@ Trustwave Rapid Response: CrowdStrike Falcon Outage Update. [Learn More](https:/
 
 Services
 
-![Capture](https://www.trustwave.com/hs-fs/hubfs/Capture.webp?width=36&height=35&name=Capture.webp)
-
 [](https://www.trustwave.com/en-us/services/managed-detection-and-response/)
 
 Managed Detection & Response
 
 Eliminate active threats with 24/7 threat detection, investigation, and response.
-
-![twi-managed-portal-color](https://www.trustwave.com/hubfs/twi-managed-portal-color.svg)
 
 [](https://www.trustwave.com/en-us/services/co-managed-soc/)
 
@@ -99,15 +95,11 @@ Co-Managed SOC (SIEM)
 
 Maximize your SIEM investment, stop alert fatigue, and enhance your team with hybrid security operations support.
 
-![twi-briefcase-color-svg](https://www.trustwave.com/hs-fs/hubfs/twi-briefcase-color-svg.webp?width=50&height=41&name=twi-briefcase-color-svg.webp)
-
 [](https://www.trustwave.com/en-us/services/consulting-and-professional-services/)
 
 Advisory & Diagnostics
 
 Advance your cybersecurity program and get expert guidance where you need it most.
-
-![tw-laptop-data](https://www.trustwave.com/hubfs/Web/Icons/TW_svg/tw-laptop-data.svg)
 
 [](https://www.trustwave.com/en-us/services/penetration-testing/)
 
@@ -115,15 +107,11 @@ Penetration Testing
 
 Test your physical locations and IT infrastructure to shore up weaknesses before exploitation.
 
-![twi-database-color-svg](https://www.trustwave.com/hs-fs/hubfs/twi-database-color-svg.webp?width=41&height=46&name=twi-database-color-svg.webp)
-
 [](https://www.trustwave.com/en-us/services/database-security/)
 
 Database Security
 
 Prevent unauthorized access and exceed compliance requirements.
-
-![twi-email-color-svg](https://www.trustwave.com/hs-fs/hubfs/twi-email-color-svg.webp?width=50&height=35&name=twi-email-color-svg.webp)
 
 [](https://www.trustwave.com/en-us/services/email-security/)
 
@@ -131,15 +119,11 @@ Email Security
 
 Stop email threats others miss and secure your organization against the #1 ransomware attack vector.
 
-![tw-officer](https://www.trustwave.com/hubfs/Web/Icons/TW_svg/tw-officer.svg)
-
 [](https://www.trustwave.com/en-us/services/consulting-and-professional-services/digital-forensics-and-incident-response/)
 
 Digital Forensics & Incident Response
 
 Prepare for the inevitable with 24/7 global breach response in-region and available on-site.
-
-![tw-network](https://www.trustwave.com/hubfs/Web/Icons/TW_svg/tw-network.svg)
 
 [](https://www.trustwave.com/en-us/services/managed-security-services/firewall-and-technology-management/)
 
@@ -175,17 +159,17 @@ BY REGULATION
 
 BY TOPIC
 
+[](https://www.trustwave.com/en-us/company/alliance-ecosystem/technology-partners/microsoft/)
+
+Microsoft Security
+
+Unlock the full power of Microsoft Security
+
 [](https://www.trustwave.com/capabilities/by-topic/offensive-security-solutions/)
 
 Offensive Security
 
 Solutions to maximize your security ROI
-
-[](https://www.trustwave.com/en-us/mitigate-microsoft-exchange-server-attacks/)
-
-Microsoft Exchange Server Attacks
-
-Stay protected against emerging threats
 
 [](https://www.trustwave.com/en-us/capabilities/by-topic/rapidly-secure-temporary-infrastructures/)
 
