@@ -3,12 +3,12 @@
 * [My IP](https://whoer.net/)
 * [VPN](https://whoer.net/vpn)
 * [Download](https://whoer.net/download)
-* [Antidetect Browser](https://wade.is/en)
-* [AML check](https://whoaml.is/)
+* [Antidetect Browser](https://wade.is/?utm_source=whoer&utm_campaign=header_main)
+* [AML check](https://whoaml.is/?utm_source=whoer&utm_campaign=header_main)
 * Services
     * [Web proxy](https://whoer.net/webproxy)
-    * [Proxy](https://asocks.com/?c=pgrJZP&utm_source=whoer_ipchecker&utm_medium=cpl&utm_campaign=Asocks_button&utm_term=pgrJZP&utm_content=services&roistat_referrer=whoer&roistat=whoer_ipchecker_Asocks_button_services)
-    * [AML check](https://whoaml.is/)
+    * [Proxy](https://proxyempire.io/?ref=whoer)
+    * [AML check](https://whoaml.is/?utm_source=whoer&utm_campaign=header_services)
     * [Speed test](https://whoer.net/speedtest)
     * [Ping](https://whoer.net/ping)
     * [Whois](https://whoer.net/checkwhois)
@@ -18,13 +18,13 @@
 
 [Buy VPN now](https://whoer.net/vpn/buy)
 
-* [AML check](https://whoaml.is/)
+* [AML check](https://whoaml.is/?utm_source=whoer&utm_campaign=header_main)
 * [My IP](https://whoer.net/)
 * [VPN](https://whoer.net/vpn)
 * [Download](https://whoer.net/download)
-* [Antidetect](https://wade.is/en)
-* [AML check](https://whoaml.is/)
-* [Proxy](https://asocks.com/?c=pgrJZP&utm_source=whoer_ipchecker&utm_medium=cpl&utm_campaign=Asocks_button&utm_term=pgrJZP&utm_content=services&roistat_referrer=whoer&roistat=whoer_ipchecker_Asocks_button_services)
+* [Antidetect](https://wade.is/?utm_source=whoer&utm_campaign=header_main)
+* [AML check](https://whoaml.is/?utm_source=whoer&utm_campaign=header_main)
+* [Proxy](https://proxyempire.io/?ref=whoer)
 * [Speed test](https://whoer.net/speedtest)
 * [Ping](https://whoer.net/ping)
 * [Whois](https://whoer.net/checkwhois)
@@ -170,6 +170,7 @@ Information
 * [Privacy Policy](https://whoer.net/privacy_policy)
 * [Apps Privacy Policy](https://whoer.net/apps_privacy_policy)
 * [Contacts](https://whoer.net/contacts)
+* [Partner With Us](https://whoer.net/ad-placement)
 * [About us](https://whoer.net/about-us)
 
 VPN
@@ -192,10 +193,10 @@ Services
 
 * [My IP](https://whoer.net/)
 * [VPN](https://whoer.net/vpn)
-* [Antidetect Browser](https://wade.is/en)
-* [AML check](https://whoaml.is/)
+* [Antidetect Browser](https://wade.is/?utm_source=whoer&utm_campaign=footer)
+* [AML check](https://whoaml.is/?utm_source=whoer&utm_campaign=footer)
 * [Free VPN](https://whoer.net/vpn/trial)
-* [Proxy](https://asocks.com/?c=pgrJZP&utm_source=whoer_ipchecker&utm_medium=cpl&utm_campaign=Asocks_button&utm_term=pgrJZP&utm_content=services&roistat_referrer=whoer&roistat=whoer_ipchecker_Asocks_button_services)
+* [Proxy](https://proxyempire.io/?ref=whoer)
 * [Speed test](https://whoer.net/speedtest)
 * [Ping](https://whoer.net/ping)
 * [Whois](https://whoer.net/checkwhois)
@@ -224,7 +225,7 @@ Copyright © [whoer.net](https://whoer.net/) 2008-
 
  ![Flag country.en](/images/flags/en.svg) English
 
-*  [![Flag country.en](/images/flags/en.svg) English](https://whoer.net/privacy_policy)
+*  [![Flag country.en](/images/flags/en.svg) English](https://whoer.net/en/privacy_policy)
 *  [![Flag Russia](/images/flags/ru.svg) Русский](https://whoer.net/ru/privacy_policy)
 *  [![Flag Germany](/images/flags/de.svg) Deutsch](https://whoer.net/de/privacy_policy)
 *  [![Flag France](/images/flags/fr.svg) Français](https://whoer.net/fr/privacy_policy)
