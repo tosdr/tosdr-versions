@@ -2,12 +2,6 @@
 
 * [Product](https://wistia.com/product)
     
-    Video creation
-    
-    * [RecordingCapture yourself, your screen, or both.](https://wistia.com/product/video-recording)
-    * [EditingTrim and polish videos in a snap.](https://wistia.com/product/video-editing)
-    * [CollaborationYour team’s feedback, all in one place.](https://wistia.com/product/collaboration)
-    
     Video management
     
     * [HostingUpload and store all your videos.](https://wistia.com/product/hosting)
@@ -22,6 +16,12 @@
     * [Lead generationAmp up ROI with lead gen forms.](https://wistia.com/product/lead-generation)
     * [SEOGet more eyeballs on your videos.](https://wistia.com/product/video-seo)
     * [EngagementEncourage interaction with your content.](https://wistia.com/product/interactive-video)
+    
+    Video creation
+    
+    * [RecordingCapture yourself, your screen, or both.](https://wistia.com/product/video-recording)
+    * [EditingTrim and polish videos in a snap.](https://wistia.com/product/video-editing)
+    * [CollaborationYour team’s feedback, all in one place.](https://wistia.com/product/collaboration)
     
     Video analytics
     
