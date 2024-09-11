@@ -45,7 +45,7 @@ Open/close search
     * [Dropbox Backup](https://help.dropbox.com/backup)
     * [Dropbox Capture](https://help.dropbox.com/capture)
     * [Dropbox Sign](https://help.dropbox.com/sign)
-    * [Dropbox Dash](https://dash.dropbox.com/help-center)
+    * [Dropbox Dash](https://help.dropbox.com/dash)
     
     * [Dropbox Passwords](https://help.dropbox.com/passwords)
     * [Dropbox Replay](https://help.dropbox.com/replay)
@@ -132,13 +132,15 @@ For more information on how to control and access your personal data, please see
 
 Was this article helpful?
 
-[Yes, thanks](#)[Not really](#)
+[Yes, thanks!](#)[Not really](#)
 
-Let us know how why it didn't help:
+We’re sorry to hear that.  
+Let us know how we can improve.
 
-Thanks for letting us know!
+Thanks for your feedback!  
+Let us know how this article helped.
 
- The article didn't answer my question The steps in the article didn't work for me  I found this article confusing and difficult to read Other Submit
+Submit
 
 Thanks for your feedback!
 
@@ -146,9 +148,9 @@ Thanks for your feedback!
 
 * [When I try to upload content using the website, nothing happens.](https://www.dropboxforum.com/t5/Create-upload-and-share/When-I-try-to-upload-content-using-the-website-nothing-happens/td-p/782184)
     
-    Posted by: rbkeep 59 days ago
+    Posted by: rbkeep 17 days ago
     
-    ![](https://aem.dropbox.com/cms/etc.clientlibs/settings/wcm/designs/dropbox-birch-help/clientlib-all/resources/icon-view.svg) 19930
+    ![](https://aem.dropbox.com/cms/etc.clientlibs/settings/wcm/designs/dropbox-birch-help/clientlib-all/resources/icon-view.svg) 4517
     
     ![](https://aem.dropbox.com/cms/etc.clientlibs/settings/wcm/designs/dropbox-birch-help/clientlib-all/resources/icon-chat.svg) 8
     
