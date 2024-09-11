@@ -112,7 +112,7 @@ If you do not want your personal information to be shared outside the organizati
 
 ### Working side by side with communities to build an equitable future for everyone.
 
-[Subscribe to Live United](https://www.uwkc.org/live-united-signup/)
+[Get the Latest Updates](https://www.uwkc.org/live-united-signup/)
 
 ### [Contact](https://www.uwkc.org/about-us/contact-us/)
 
@@ -145,6 +145,6 @@ United Way of King County is a 501(c)(3) nonprofit organization. EIN: 91-0565555
 
 Copyright 2024
 
-            
+              
 
 ![](https://www.facebook.com/tr?id=367751593788799&ev=PageView&noscript=1)
