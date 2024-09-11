@@ -6,6 +6,12 @@ Free Shipping on orders over $39
 
 [](https://www.turtlebeach.com/pages/terms-of-sale#shipping "Free Shipping on orders over $39")
 
+![](https://cdn.shopify.com/s/files/1/0556/5795/5430/files/klarna-icon.png?v=1701784540&width=100&height=100&crop=center)
+
+Shop now. Pay over time with Klarna.
+
+[](https://www.turtlebeach.com/pages/about-klarna "Shop now. Pay over time with Klarna.")
+
 ![](https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/us.svg)
 
 [](https://www.turtlebeach.com/)
