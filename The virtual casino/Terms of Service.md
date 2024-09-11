@@ -4,7 +4,14 @@ Terms & Conditions
 ==================
 
 Terms and Conditions
---------------------
+====================
+
+Last updated: 30 AUGUST 2024
+
+  
+
+General Terms & Conditions for Membership
+-----------------------------------------
 
 By playing at Virtual, you represent and warrant that you fully understand and agree to comply with these Terms and Conditions.
 
@@ -13,8 +20,6 @@ Virtual is the trade name of the Company, and you obtain no rights to such terms
 Mentioned below are the Virtual terms. Read them closely to ensure that you completely understand the conditions and are ready to abide by them. Seek the advice of a local legal official in case you have question regarding your rights and obligations arising from this agreement. An alteration in the casino terms at any time is the Virtual prerogative. Consulting the Website and/or the Help file once every three months is strongly suggested.
 
 We utilize the most modern and peerless methods to maintain and secure your sensitive and personal data, thereby ensuring the Player protection. These include transmission of sensitive details to and from the client application, encryption of the user name and password information, and transfer of data from our servers.
-
-### General Terms & Conditions for Membership
 
 1. By playing at the Casino, you represent and warrant that you fully understand and agree to comply with these Terms and Conditions.
 2. You obtain no rights to such terms, nor any other terms, graphics, text, concepts or methodologies, by using the Web site and the material contained therein.
@@ -75,14 +80,14 @@ We utilize the most modern and peerless methods to maintain and secure your sens
     For example, you deposit $100 and redeem a 10 x max cash out coupon. The maximum you are eligible to withdrawal is, ($100 x 10) $1,000.
     
 
-### JACKPOT MULTIPLIER
+### Jackpot Multiplier
 
-  
-Jackpot MultiplierMultiplied winnings are available only once per player within the duration of this promotion. The amount shown in the lobby is the amount to be won at that time. You must contact customer services within 2 hours of your major jackpot win to claim the additional funds. Your account will be credited with the additional jackpot amount within four (4) days if you are qualified as per the terms and conditions the promotion itself - ie. if there is a code usage and/or time stipulation.
+Jackpot Multiplier Multiplied winnings are available only once per player within the duration of this promotion. The amount shown in the lobby is the amount to be won at that time. You must contact customer services within 2 hours of your major jackpot win to claim the additional funds. Your account will be credited with the additional jackpot amount within four (4) days if you are qualified as per the terms and conditions the promotion itself - ie. if there is a code usage and/or time stipulation.  
 
 ### Country Based Restrictions
 
-Please follow this link [here](https://www.thevirtualcasino.com/allowed-countries) to ensure your eligibility based on your country of residence and learn about potential restrictions. Your location can impact your access, bonus usage, free chip redemption, and deposit methods. Please review the details carefully and contact us directly if you need to check your account status.
+Please follow this link [here](https://www.thevirtualcasino.com/allowed-countries) to ensure your eligibility based on your country of residence and learn about potential restrictions. Your location can impact your access, bonus usage, free chip redemption, and deposit methods. Please review the details carefully and contact us directly if you need to check your account status.  
+  
 
 ### Marketing Communications
 
@@ -93,7 +98,6 @@ Your privacy is important to us. You may choose to unsubscribe from marketing co
 The Casino does not have control over third party marketing communications, including but not limited to, affiliate programs, marketing agencies, promotional agencies, etc. If you feel that you are the victim of spam activities conducted by a third party that is promoting or advertising the Casino's product, please contact us. We will make every effort to contact the relevant third party and have your details removed from their database to stop any future communications from being sent to you. Please note that the Casino cannot promise any definitive resolution in respect of such requests to third parties.
 
 **By creating an account and playing at the casino you are agreeing to the terms and conditions of the casino as stated above.  
-  
 **
 
 ### Inactive Virtual Account Policy
@@ -180,6 +184,15 @@ Unless stated otherwise, all No Deposit Bonuses are subject to the following ter
 6. Except for listed restricted games, the wagering requirement on all Comp Points is as follows: 40 times playthrough requirement for Slots, Keno, Bonus Bingo and Scratch Cards; and 60 times playthrough requirement for Table Games and Video Poker.
 7. Comp Points cannot be used in Roulette, Craps, Baccarat, Pai Gow Poker, Pontoon 21, War, Sic Bo, and/or 'Shooting games' -e.g. Fish Catch.
 8. Comp Points come with 1-time maximum withdrawal limit.
+
+### Rewards Club
+
+1. Your Rewards Club Benefits are calculated based on how much you deposit at the Casino within a 24-hour period.
+2. Your rewards will automatically be credited to your account within 24 hours after your first deposit for the previous day. For example, a deposit today at 10am will see your Rewards Club Benefit delivered the following day at 10am.
+3. Rewards Club Benefits are available to depositing players only.
+4. If you have an active bonus at the time of credit, any terms applicable to that bonus will also apply to the Rewards Club Benefit.
+5. Your rewards will automatically be credited daily and is based on the previous day’s deposits.
+6. Rewards Club Benefits have a 1x playthrough requirement and can not be directly withdrawn from the casino. Unless otherwise stated, standard Terms and Conditions apply.
 
 ### All Deposit Bonuses: Standard Wagering Requirements
 
@@ -327,6 +340,8 @@ In certain withdrawal cases (whether due to change of address, lost checks or ot
 6. If the Stop Payment was caused by misleading or wrong information provided by the customer, corresponding fees will be charged and deducted from the withdrawal amount.
 
 [![](https://assets.thevirtualcasino.com/banking/dep-usd.svg)](#)
+
+[![Crypto icon](https://assets.yebocasino.co.za/partners/spinlogic.svg)](https://spinlogicgaming.com/)
 
 Copyright 2024 - All Rights Reserved. We invite you to review the [Terms & Conditions](https://www.thevirtualcasino.com/terms.php) - [Privacy Policy](https://www.thevirtualcasino.com/privacy.php)
 
