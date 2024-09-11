@@ -2,7 +2,7 @@
 
 Search Search Close 
 
-[![Walden University Logo](/themes/custom/wal_base/images/svg/logo.svg)](https://www.waldenu.edu/ "Home")
+[![Walden University Logo](/themes/custom/wal_base_2024/images/svg/logo.svg)](https://www.waldenu.edu/ "Home")
 
 ### Main Navigation
 
@@ -131,13 +131,14 @@ Search Search Close
             * [All Information Technology Programs](https://www.waldenu.edu/programs/information-technology)
         * Nursing
             * NURSING MASTER's PROGRAMS
-            * Walden is the No. 1 conferrer of nursing master's degrees in the U.S.
+            * Earn your degree from a U.S. leader in nursing master's education
             * [Master of Science in Nursing](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing)
             * Explore Specializations:
             * [Adult-Gerontology Acute Care Nurse Practitioner](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-nurse-practitioner-acute-care)
             * [Adult-Gerontology Primary Care Nurse Practitioner](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-nurse-practitioner-adult-gerontology)
             * [Family Nurse Practitioner](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-nurse-practitioner-family)
             * [Nursing Education](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-nursing-education)
+            * [Nurse Executive](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-nurse-executive)
             * [Nursing Informatics](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-nursing-informatics)
             * [Pediatric Nurse Practitioner (PNP)](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-pediatrics)
             * [Psychiatric-Mental Health Nurse Practitioner](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-psychiatric-mental-health-nurse-practitioner)
@@ -261,6 +262,7 @@ Search Search Close
         * Business and Management
         * Criminal Justice
         * Education
+        * Health & Health Sciences
         * Information Technology
         * Nursing
         * Psychology
@@ -285,7 +287,6 @@ Search Search Close
     * [Military/Veterans](https://www.waldenu.edu/admissions/military)
     * [International Students](https://www.waldenu.edu/admissions/international-students)
     * [Transcript Evaluations and Transfer Credits](https://www.waldenu.edu/admissions/international-students/transcripts-and-transfer-credits)
-    * [Undergraduate Pathways](https://www.waldenu.edu/admissions/undergraduate-pathways)
     * [Refer a Friend](https://www.waldenu.edu/refer)
 * [Why Walden](https://www.waldenu.edu/why-walden)
     * Find out what sets Walden apart.
@@ -307,11 +308,13 @@ Search Search Close
 
 Contact an Enrollment Specialist today.
 
+[Apply Online](https://myhomepage.waldenu.edu/Walden/?comm_code=WAL-1011857&_its=JTdCJTIydmlkJTIyJTNBJTIyMTY2NGRhOGUtNDc5OC00NjI2LTkxYWUtZmQ5MDRjNThjMjNiJTIyJTJDJTIyc3RhdGUlMjIlM0ElMjJybHR%2BMTcyMjYxNjc2M35sYW5kfjJfMTI0OV9kaXJlY3RfYzM0YTA4YjExYzllYjZiZDU0ZDExYzU5NTNlMTE3YWYlMjIlMkMlMjJzaXRlSWQlMjIlM0ExNzEyJTdE)
+
 [Request Information](https://www.waldenu.edu/request-info)
 
-Call Us: **8556465286**
+Call Us: [**8556465286**](tel:8556465286)
 
-**8556465286**
+[**8556465286**](tel:8556465286)
 
 [REQUEST INFO](https://www.waldenu.edu/request-info)
 
@@ -505,13 +508,14 @@ Call Us: **8556465286**
         * [Nursing](# "Nursing")
             
             * [NURSING MASTER's PROGRAMS](# "NURSING MASTER's PROGRAMS")
-            * [Walden is the No. 1 conferrer of nursing master's degrees in the U.S.](# "Walden is the No. 1 conferrer of nursing master's degrees in the U.S.")
+            * [Earn your degree from a U.S. leader in nursing master's education](# "Earn your degree from a U.S. leader in nursing master's education")
             * [Master of Science in Nursing](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing "Master of Science in Nursing")
             * [Explore Specializations:](# "Explore Specializations:")
             * [Adult-Gerontology Acute Care Nurse Practitioner](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-nurse-practitioner-acute-care "Adult-Gerontology Acute Care Nurse Practitioner")
             * [Adult-Gerontology Primary Care Nurse Practitioner](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-nurse-practitioner-adult-gerontology "Adult-Gerontology Primary Care Nurse Practitioner")
             * [Family Nurse Practitioner](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-nurse-practitioner-family "Family Nurse Practitioner")
             * [Nursing Education](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-nursing-education "Nursing Education ")
+            * [Nurse Executive](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-nurse-executive "Nurse Executive")
             * [Nursing Informatics](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-nursing-informatics "Nursing Informatics")
             * [Pediatric Nurse Practitioner (PNP)](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-pediatrics "Pediatric Nurse Practitioner (PNP)")
             * [Psychiatric-Mental Health Nurse Practitioner](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-psychiatric-mental-health-nurse-practitioner "Psychiatric-Mental Health Nurse Practitioner")
@@ -693,6 +697,13 @@ Call Us: **8556465286**
             * [Graduate Certificate in Engaging Culturally Diverse Learners](https://www.waldenu.edu/online-certificates-programs/engaging-culturally-diverse-learners "Graduate Certificate in Engaging Culturally Diverse Learners")
             * [All Education Programs](https://www.waldenu.edu/programs/education "All Education Programs")
             
+        * [Health & Health Sciences](# "Health & Health Sciences")
+            
+            * [HEALTH & HEALTH SCIENCES CERTIFICATE PROGRAM](# "HEALTH & HEALTH SCIENCES CERTIFICATE PROGRAM")
+            * [Expand your knowledge of today’s public health field with this graduate certificate program.](# "Expand your knowledge of today’s public health field with this graduate certificate program.")
+            * [Graduate Certificate in Public Health](https://www.waldenu.edu/online-certificates-programs/public-health "Graduate Certificate in Public Health")
+            * [All Health & Health Sciences](https://www.waldenu.edu/programs/health "All Health & Health Sciences")
+            
         * [Information Technology](# "Information Technology")
             
             * [INFORMATION AND TECHNOLOGY CERTIFICATE PROGRAM](# "INFORMATION AND TECHNOLOGY CERTIFICATE PROGRAM")
@@ -755,9 +766,11 @@ Call Us: **8556465286**
     
     Contact an Enrollment Specialist today.
     
+    [Apply Online](https://myhomepage.waldenu.edu/Walden/?comm_code=WAL-1011857&_its=JTdCJTIydmlkJTIyJTNBJTIyMTY2NGRhOGUtNDc5OC00NjI2LTkxYWUtZmQ5MDRjNThjMjNiJTIyJTJDJTIyc3RhdGUlMjIlM0ElMjJybHR%2BMTcyMjYxNjc2M35sYW5kfjJfMTI0OV9kaXJlY3RfYzM0YTA4YjExYzllYjZiZDU0ZDExYzU5NTNlMTE3YWYlMjIlMkMlMjJzaXRlSWQlMjIlM0ExNzEyJTdE)
+    
     [Request Information](https://www.waldenu.edu/request-info)
     
-    Call Us: **8556465286**
+    Call Us: [**8556465286**](tel:8556465286)
     
 * [Financing](https://www.waldenu.edu/financial-aid "Financing")
     
@@ -778,7 +791,7 @@ Call Us: **8556465286**
     
     [Request Information](https://www.waldenu.edu/request-info)
     
-    Call Us: **8556465286**
+    Call Us: [**8556465286**](tel:8556465286)
     
 * [Admissions](https://www.waldenu.edu/admissions "Admissions")
     
@@ -790,7 +803,6 @@ Call Us: **8556465286**
     * [Military/Veterans](https://www.waldenu.edu/admissions/military "Military/Veterans")
     * [International Students](https://www.waldenu.edu/admissions/international-students "International Students")
     * [Transcript Evaluations and Transfer Credits](https://www.waldenu.edu/admissions/international-students/transcripts-and-transfer-credits "Transcript Evaluations and Transfer Credits")
-    * [Undergraduate Pathways](https://www.waldenu.edu/admissions/undergraduate-pathways "Undergraduate Pathways")
     * [Refer a Friend](https://www.waldenu.edu/refer "Refer a Friend")
     
     Search Search Close 
@@ -803,7 +815,7 @@ Call Us: **8556465286**
     
     [Apply Now](https://myhomepage.waldenu.edu/Walden/?comm_code=WAL-1011857)
     
-    Call Us: **8556465286**
+    Call Us: [**8556465286**](tel:8556465286)
     
 * [Why Walden](https://www.waldenu.edu/why-walden "Why Walden")
     
@@ -830,7 +842,7 @@ Call Us: **8556465286**
     
     [Get in Touch](https://www.waldenu.edu/request-info)
     
-    Call Us: **8556465286**
+    Call Us: [**8556465286**](tel:8556465286)
     
 
 Search
@@ -849,143 +861,138 @@ Menu
 Website Terms and Conditions
 ----------------------------
 
-PLEASE READ THE FOLLOWING TERMS AND CONDITIONS CAREFULLY.  IF YOU DO NOT AGREE TO ABIDE BY THE FOLLOWING TERMS AND CONDITIONS, ACCESS TO THE WALDEN UNIVERSITY WEBSITE (THE “Website”) IS NOT PERMITTED.  
-  
-THIS WEBSITE IS A WALDEN UNIVERSITY, LLC. (Walden) WEBSITE AND HAS BEEN DEVELOPED AND MAINTAINED BY WALDEN ON BEHALF OF ITSELF AND ITS AFFILIATES.   
-  
-WHILE USING THIS WEBSITE YOU WILL HAVE ACCESS TO MATERIALS, DOCUMENTS, IMAGES, GRAPHICS, LOGOS, DESIGN, AUDIO, VIDEO AND ANY OTHER INFORMATION FOUND ON THIS WEBSITE (COLLECTIVELY, THE “Content”).  THE FOLLOWING TERMS APPLY BOTH TO YOUR ACCESS TO THE WEBSITE AS WELL AS YOUR ACCESS TO AND USE OF THE CONTENT.  
-  
-  
-**Restrictions on Use**  
-  
-The contents of this Website are the property of Walden and/or its affiliates and are not for distribution or sale to a third party.  Walden reserves the right to prosecute violations of this agreement to the full extent of the law.  The distribution of material on this site may be restricted by the laws and regulations of the country from which you are accessing this site.  Where such restrictions exist, this information is not intended for distribution to, or use by, any person or entity in any such jurisdiction in contravention of those laws and regulations, and persons accessing these pages are required to inform themselves about and to observe any such restrictions.   
-  
-  
-**Intellectual Property**  
-  
-The Content on this site comprises media in various formats including, but not limited to, graphics, audio and video downloads and text.  Content may be presented with a list of restrictions regarding use and these restrictions may vary from one media item to the next.  You agree to abide by any restrictions that accompany such Content.  You also agree to indemnify and hold Walden and respective officers, directors, employees, agents, successors and assigns, harmless from and against any and all claims, suits or proceedings, demands, losses, damages, liabilities and costs and expenses (including, without limitation, reasonable attorneys’ fees) arising out of or resulting from your actual or alleged misuse or infringement of any Content, including but not limited to any patent, trademark, copyright, trade secret or other intellectual property right.  You agree to defend any indemnified party, at Walden’s request, against any such claim, demand or suit.  
-  
-If any of the intellectual property downloaded from this site is used to create new works of authorship, all right, title and interest to such derivative works shall be owned by Walden in their entirety and you are obligated to inform the Walden of the creation or intended creation of any such derivative works by sending notification to the Walden Legal department, as listed below.  
-  
-  
+PLEASE READ THE FOLLOWING TERMS AND CONDITIONS CAREFULLY.  IF YOU DO NOT AGREE TO ABIDE BY THE FOLLOWING TERMS AND CONDITIONS, ACCESS TO THE WALDEN UNIVERSITY WEBSITE (THE “Website”) IS NOT PERMITTED.
+
+THIS WEBSITE IS A WALDEN UNIVERSITY, LLC. (Walden) WEBSITE AND HAS BEEN DEVELOPED AND MAINTAINED BY WALDEN ON BEHALF OF ITSELF AND ITS AFFILIATES
+
+WHILE USING THIS WEBSITE YOU WILL HAVE ACCESS TO MATERIALS, DOCUMENTS, IMAGES, GRAPHICS, LOGOS, DESIGN, AUDIO, VIDEO AND ANY OTHER INFORMATION FOUND ON THIS WEBSITE (COLLECTIVELY, THE “Content”).  THE FOLLOWING TERMS APPLY BOTH TO YOUR ACCESS TO THE WEBSITE AS WELL AS YOUR ACCESS TO AND USE OF THE CONTENT.
+
+**Restrictions on Use**
+
+The contents of this Website are the property of Walden and/or its affiliates and are not for distribution or sale to a third party.  Walden reserves the right to prosecute violations of this agreement to the full extent of the law. The distribution of material on this site may be restricted by the laws and regulations of the country from which you are accessing this site.  Where such restrictions exist, this information is not intended for distribution to, or use by, any person or entity in any such jurisdiction in contravention of those laws and regulations, and persons accessing these pages are required to inform themselves about and to observe any such restrictions.
+
+**Intellectual Property**
+
+The Content on this site comprises media in various formats including, but not limited to, graphics, audio and video downloads and text.  Content may be presented with a list of restrictions regarding use and these restrictions may vary from one media item to the next.  You agree to abide by any restrictions that accompany such Content.  You also agree to indemnify and hold Walden and respective officers, directors, employees, agents, successors and assigns, harmless from and against any and all claims, suits or proceedings, demands, losses, damages, liabilities and costs and expenses (including, without limitation, reasonable attorneys’ fees) arising out of or resulting from your actual or alleged misuse or infringement of any Content, including but not limited to any patent, trademark, copyright, trade secret or other intellectual property right.  You agree to defend any indemnified party, at Walden’s request, against any such claim, demand or suit.
+
+If any of the intellectual property downloaded from this site is used to create new works of authorship, all right, title and interest to such derivative works shall be owned by Walden in their entirety and you are obligated to inform the Walden of the creation or intended creation of any such derivative works by sending notification to the Walden Legal department, as listed below.
+
 **Trademarks**
 
-Trademarks found on this Website including, but not limited to, “Walden University” and “Education for Good” are registered trademarks and service marks of Walden University, LLC and its affiliates.  Except to the extent permitted by applicable law in the absence of any express license or other grant of rights, you are not permitted to use any trade name, trademark, service mark, logo or commercial symbol, or any other proprietary property of Walden or its affiliates in any manner (including without limitation, reference to the other party as a client, customer or supplier in any press release, advertisement or other promotional material) inconsistent with the business purposes of Walden.  Any use of the trademarks and service marks of Walden requires prior written approval.  All benefits of such use shall inure to the benefit of Walden.  
-Educational institution brand names and logos included on this website are for informational and/or attribution purposes only and are the intellectual property of those educational institutions.  Absent a separate, written agreement from an educational institution granting express rights, you are not permitted to use any trade name, trademark, service mark, logo or commercial symbol, or any other proprietary rights of another educational institution in any manner (including without limitation, reference to the other party as a partner, affiliate or supplier in any press release, advertisement or other promotional material).  
-  
-  
-**Personality Rights**  
-  
-The Website contains Content which may portray the image or voice an identifiable person who is alive or deceased recently.  The use of images of living or recently deceased individuals is, in some jurisdictions, restricted by laws pertaining to personality rights, independent from their copyright status.  Before using these types of Content, please ensure that you have the right to use it under the laws which apply in the circumstances of your intended use.  You are solely responsible for ensuring that you do not infringe someone else’s personality rights.  Please note that some estates hold and control the personality rights of deceased individuals.  
-  
-  
-**Upload/Submission**  
-  
-Content that you upload to this Website (a “Submission”) may be available to those to whom Walden has granted, or will in the future grant, specific access privileges.  You represent and warrant that you have the right to upload any such Submission and make it available to those who have been granted access privileges, and the Submission does not violate any relevant data privacy laws.  By uploading a Submission to the Website you hereby grant Walden a perpetual, non-exclusive, unrestricted, non-revocable, royalty-free license to maintain this Content on the Website and make it available for educational purposes to those to whom Walden deems appropriate, in its sole discretion.  You agree to defend, indemnify and hold Walden harmless from and against any and all claims, suits or proceedings, demands, losses, damages, liabilities and costs and expenses (including, without limitation, reasonable attorneys’ fees) arising out of or resulting from the actual or alleged infringement of any patent, trademark, copyright, trade secret or any other intellectual property right in connection with any Submission.  
-  
-Walden will not be required to treat any Submission as confidential, and will not be liable for any ideas it may use from a Submission for its business.   
-  
-If any Content uploaded by you, in whatever format, is deemed by Walden, in its sole discretion, to be inappropriate for whatever reason, Walden reserves the right to remove such material from the Website.  Walden is not responsible for any inappropriate Submission.  
-  
-  
-**Disclaimers / Warranties / Limitation of Liability**  
-  
-Walden makes no representation or warranty as to the accuracy or completeness of the Content provided, nor does it warrant or represent that the Content is up-to-date or current, that Laureate has any duty to update any content, or that the Content is free from technical inaccuracies or typographical errors.  The Content you find on this website is provided “as is,” without warranty of any kind, either express or implied, including, without limitation, any warranty for information, services, or products provided through or in connection with this website and any implied warranties and conditions, whether statutory, arising from the course of dealing, or otherwise, of merchantability, quality, fitness for a particular purpose, expectation of privacy, accuracy, completeness, performance, currency, or non-infringement.  
-  
-Some jurisdictions do not allow the exclusion of implied warranties, so the above exclusion may not apply to you.  This disclaimer of liability applies to any damages or injury caused by any failure of performance, error, omission, interruption, deletion, defect, delay in operation or transmission, computer virus, communication line failure, theft or destruction, or unauthorized access to, alteration of, or use of record, whether for breach of contract, tortuous behavior, negligence, or under any other cause of action.  You specifically acknowledge that Walden is not liable for any defamatory, offensive, infringing or illegal materials or conduct, or that of third parties contained on this website, and Walden reserves the right to remove such materials from this website without liability.    
-  
-WALDEN DISCLAIMS ALL RESPONSIBILITY FOR ANY LOSS OR CLAIM OF ANY KIND RESULTING FROM, ARISING OUT OF, OR ANY WAY RELATED TO (A) ERRORS IN OR OMISSIONS FROM CONTENT, INCLUDING TECHNICAL INACCURACIES AND TYPOGRAPHICAL ERRORS, (B) ANY THIRD PARTY WEB SITES OR CONTENT THEREIN DIRECTLY OR INDIRECTLY ACCESSED THROUGH HOT LINKS IN ANY CONTENT, (C) THE UNAVAILABILITY OF THE WEBSITE, (D) ANY USE OF THE WEB SITE OR ANY CONTENT CONTAINED THEREIN, (E) ANY USE OF ANY EQUIPMENT OR SOFTWARE IN CONNECTION WITH THIS WEBSITE OR ITS CONTENT, OR (F) ANY RELIANCE ON THE INFORMATION CONTAINED IN THE WEBSITE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.  
-  
-IN NO EVENT SHALL WALDEN OR ITS AFFILIATES, OFFICERS, DIRECTORS, EMPLOYEES, SHAREHOLDERS, AGENTS, OR REPRESENTATIVES BE LIABLE TO YOU OR ANY OTHER PERSON FOR ANY SPECIAL, INDIRECT, INCIDENTAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES OR LOSS OF GOODWILL IN ANY WAY ARISING FROM OR RELATING TO THIS AGREEMENT OR RESULTING FROM THE USE OF OR INABILITY TO USE THE WEBSITE OR THE PERFORMANCE OR NON-PERFORMANCE OF ANY OBLIGATIONS UNDER THESE TERMS, INCLUDING THE FAILURE OF ESSENTIAL PURPOSE, EVEN IF WALDEN HAS BEEN NOTIFIED OF THE POSSIBILITY OR LIKELIHOOD OF SUCH DAMAGES OCCURRING. SOME STATES DO NOT ALLOW THE LIMITATION OR EXCLUSION OF IMPLIED WARRANTIES OR LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATIONS OR EXCLUSIONS MAY NOT APPLY TO YOU.  
-  
-IN NO EVENT MAY YOU BRING ANY CLAIM OR CAUSE OF ACTION AGAINST WALDEN MORE THAN ONE (1) YEAR AFTER SUCH CLAIM OR CAUSE OF ACTION ARISES.  
-  
+Trademarks found on this Website including, but not limited to, “Walden University” and “Education for Good” are registered trademarks and service marks of Walden University, LLC and its affiliates.  Except to the extent permitted by applicable law in the absence of any express license or other grant of rights, you are not permitted to use any trade name, trademark, service mark, logo or commercial symbol, or any other proprietary property of Walden or its affiliates in any manner (including without limitation, reference to the other party as a client, customer or supplier in any press release, advertisement or other promotional material) inconsistent with the business purposes of Walden.  Any use of the trademarks and service marks of Walden requires prior written approval.  All benefits of such use shall inure to the benefit of Walden.
+
+Educational institution brand names and logos included on this website are for informational and/or attribution purposes only and are the intellectual property of those educational institutions.  Absent a separate, written agreement from an educational institution granting express rights, you are not permitted to use any trade name, trademark, service mark, logo or commercial symbol, or any other proprietary rights of another educational institution in any manner (including without limitation, reference to the other party as a partner, affiliate or supplier in any press release, advertisement or other promotional material).
+
+**Personality Rights**
+
+The Website contains Content which may portray the image or voice an identifiable person who is alive or deceased recently.  The use of images of living or recently deceased individuals is, in some jurisdictions, restricted by laws pertaining to personality rights, independent from their copyright status.  Before using these types of Content, please ensure that you have the right to use it under the laws which apply in the circumstances of your intended use.  You are solely responsible for ensuring that you do not infringe someone else’s personality rights.  Please note that some estates hold and control the personality rights of deceased individuals.
+
+**Upload/Submission**
+
+Content that you upload to this Website (a “Submission”) may be available to those to whom Walden has granted, or will in the future grant, specific access privileges.  You represent and warrant that you have the right to upload any such Submission and make it available to those who have been granted access privileges, and the Submission does not violate any relevant data privacy laws.  By uploading a Submission to the Website you hereby grant Walden a perpetual, non-exclusive, unrestricted, non-revocable, royalty-free license to maintain this Content on the Website and make it available for educational purposes to those to whom Walden deems appropriate, in its sole discretion.  You agree to defend, indemnify and hold Walden harmless from and against any and all claims, suits or proceedings, demands, losses, damages, liabilities and costs and expenses (including, without limitation, reasonable attorneys’ fees) arising out of or resulting from the actual or alleged infringement of any patent, trademark, copyright, trade secret or any other intellectual property right in connection with any Submission.
+
+Walden will not be required to treat any Submission as confidential, and will not be liable for any ideas it may use from a Submission for its business.
+
+If any Content uploaded by you, in whatever format, is deemed by Walden, in its sole discretion, to be inappropriate for whatever reason, Walden reserves the right to remove such material from the Website.  Walden is not responsible for any inappropriate Submission.
+
+**Disclaimers / Warranties / Limitation of Liability**
+
+Walden makes no representation or warranty as to the accuracy or completeness of the Content provided, nor does it warrant or represent that the Content is up-to-date or current, that Laureate has any duty to update any content, or that the Content is free from technical inaccuracies or typographical errors.  The Content you find on this website is provided “as is,” without warranty of any kind, either express or implied, including, without limitation, any warranty for information, services, or products provided through or in connection with this website and any implied warranties and conditions, whether statutory, arising from the course of dealing, or otherwise, of merchantability, quality, fitness for a particular purpose, expectation of privacy, accuracy, completeness, performance, currency, or non-infringement.
+
+Some jurisdictions do not allow the exclusion of implied warranties, so the above exclusion may not apply to you.  This disclaimer of liability applies to any damages or injury caused by any failure of performance, error, omission, interruption, deletion, defect, delay in operation or transmission, computer virus, communication line failure, theft or destruction, or unauthorized access to, alteration of, or use of record, whether for breach of contract, tortuous behavior, negligence, or under any other cause of action.  You specifically acknowledge that Walden is not liable for any defamatory, offensive, infringing or illegal materials or conduct, or that of third parties contained on this website, and Walden reserves the right to remove such materials from this website without liability.
+
+WALDEN DISCLAIMS ALL RESPONSIBILITY FOR ANY LOSS OR CLAIM OF ANY KIND RESULTING FROM, ARISING OUT OF, OR ANY WAY RELATED TO (A) ERRORS IN OR OMISSIONS FROM CONTENT, INCLUDING TECHNICAL INACCURACIES AND TYPOGRAPHICAL ERRORS, (B) ANY THIRD PARTY WEB SITES OR CONTENT THEREIN DIRECTLY OR INDIRECTLY ACCESSED THROUGH HOT LINKS IN ANY CONTENT, (C) THE UNAVAILABILITY OF THE WEBSITE, (D) ANY USE OF THE WEB SITE OR ANY CONTENT CONTAINED THEREIN, (E) ANY USE OF ANY EQUIPMENT OR SOFTWARE IN CONNECTION WITH THIS WEBSITE OR ITS CONTENT, OR (F) ANY RELIANCE ON THE INFORMATION CONTAINED IN THE WEBSITE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+IN NO EVENT SHALL WALDEN OR ITS AFFILIATES, OFFICERS, DIRECTORS, EMPLOYEES, SHAREHOLDERS, AGENTS, OR REPRESENTATIVES BE LIABLE TO YOU OR ANY OTHER PERSON FOR ANY SPECIAL, INDIRECT, INCIDENTAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES OR LOSS OF GOODWILL IN ANY WAY ARISING FROM OR RELATING TO THIS AGREEMENT OR RESULTING FROM THE USE OF OR INABILITY TO USE THE WEBSITE OR THE PERFORMANCE OR NON-PERFORMANCE OF ANY OBLIGATIONS UNDER THESE TERMS, INCLUDING THE FAILURE OF ESSENTIAL PURPOSE, EVEN IF WALDEN HAS BEEN NOTIFIED OF THE POSSIBILITY OR LIKELIHOOD OF SUCH DAMAGES OCCURRING. SOME STATES DO NOT ALLOW THE LIMITATION OR EXCLUSION OF IMPLIED WARRANTIES OR LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATIONS OR EXCLUSIONS MAY NOT APPLY TO YOU.
+
+IN NO EVENT MAY YOU BRING ANY CLAIM OR CAUSE OF ACTION AGAINST WALDEN MORE THAN ONE (1) YEAR AFTER SUCH CLAIM OR CAUSE OF ACTION ARISES.
+
 **Website Links**
 
-Walden is not responsible for the content of any third-party-linked site that is not owned or controlled by Walden, or of any other links contained in such third-party sites. Walden provides links to you for your convenience only, and the inclusion of any link to a site not owned by Walden is not an endorsement by Walden of the site or its contents. Walden assumes no responsibility for any other party’s site hyperlinked to this Website or in which any part of this Website has been hyperlinked.   
-No permission is granted here for you to use Walden’s icons, site address, or other means to hyperlink other websites with any page in this Website. You must obtain prior written permission to hyperlink in any manner to this Website.   
-   
-**Privacy Policy**  
-  
-Walden respects and understands the importance of the privacy and security of our online customers. Please consult Walden’s Privacy Policy located here:  [Legal and Consumer Information | Walden University](https://www.waldenu.edu/).  
-  
+Walden is not responsible for the content of any third-party-linked site that is not owned or controlled by Walden, or of any other links contained in such third-party sites. Walden provides links to you for your convenience only, and the inclusion of any link to a site not owned by Walden is not an endorsement by Walden of the site or its contents. Walden assumes no responsibility for any other party’s site hyperlinked to this Website or in which any part of this Website has been hyperlinked.
+
+No permission is granted here for you to use Walden’s icons, site address, or other means to hyperlink other websites with any page in this Website. You must obtain prior written permission to hyperlink in any manner to this Website.
+
+**Privacy Policy**
+
+Walden respects and understands the importance of the privacy and security of our online customers. Please consult Walden’s Privacy Policy located here:  [Legal and Consumer Information | Walden University](https://www.waldenu.edu/).
+
 **Copyright Statement**
 
-This Website is copyrighted by Walden University, LLC.  The contents of this Website, including, but not limited to, text, graphics, and icons are copyrighted materials owned or controlled by Walden and contain Walden’s name, trademarks, service marks, and trade names.  
-  
-   
-Local Laws and Export Control  
-  
-Walden controls this Website and its Content from its headquarters in the United States.  If you use this Website and its Content from other locations, you are responsible for compliance with applicable local laws including but limited to the export and import regulations of other countries.  
-  
-  
-**Miscellaneous**  
-  
-Walden’s failure to insist upon or enforce strict performance of any provision of this agreement shall not be construed as a waiver of any provision or right.  Neither the course of conduct between parties nor trade practice shall act to modify any provision of this agreement.  We may assign our rights and duties under this agreement to any party at any time without notice to you.  
-  
-  
-**Questions**  
-Questions about these Terms and Conditions should be directed in writing to  
+This Website is copyrighted by Walden University, LLC.  The contents of this Website, including, but not limited to, text, graphics, and icons are copyrighted materials owned or controlled by Walden and contain Walden’s name, trademarks, service marks, and trade names.
+
+Local Laws and Export Control
+
+Walden controls this Website and its Content from its headquarters in the United States.  If you use this Website and its Content from other locations, you are responsible for compliance with applicable local laws including but limited to the export and import regulations of other countries.
+
+**Miscellaneous**
+
+Walden’s failure to insist upon or enforce strict performance of any provision of this agreement shall not be construed as a waiver of any provision or right.  Neither the course of conduct between parties nor trade practice shall act to modify any provision of this agreement.  We may assign our rights and duties under this agreement to any party at any time without notice to you.
+
+**Questions**
+
+Questions about these Terms and Conditions should be directed in writing to
+
 Office of General Counsel  
 Walden University, LLC  
-7065 Samuel Morse Drive  
-Columbia, MD 21046  
-  
-  
-**Blog**  
-  
-This website incorporates at least one informal, conversational page which is regularly updated by an individual or group of individuals (a “Blog”).  By posting content to any Blog found on this website, you hereby grant Walden a perpetual, exclusive, unrestricted, non-revocable, royalty-free license to use, print, publish, sell, copy, distribute, make derivative works of, and license others to use the content in any form or medium, now or hereafter existing, or in any language during the full term of the copyright therein and throughout the world.  You acknowledge that any Walden publication (in any format) containing such content will contain a Walden copyright notice.  All content is the sole responsibility of the person from whom such content originated.  This means that you, and not Walden, are entirely responsible for all content that you upload, post, transmit or otherwise make available via the Blog.  You represent that you have all rights necessary to post such content without violation of any intellectual property or other rights or laws or regulations.  You agree to defend, indemnify and hold Walden harmless from and against any and all claims, suits or proceedings, demands, losses, damages, liabilities and costs and expenses (including, without limitation, reasonable attorneys’ fees) arising out of or resulting from the actual or alleged infringement of any patent, trademark, copyright, trade secret or any other intellectual property right in connection with any content you post to the Blog.  
-  
-You understand that by accessing and/or using the Blog, you may be exposed to content that you find to be offensive or objectionable.  The opinions expressed in the Blog are not necessarily those of Walden and/or its employees.  Under no circumstances will Walden be liable in any way for any content, including, but not limited to, any errors or omissions in any content posted, transmitted, or otherwise made available via the Blog.  You acknowledge that Walden shall have the right (but not the obligation) in its sole discretion to refuse or remove any content that may be posted or uploaded to the Blog.  
-  
-All opinions and statements made by you on the Blog are yours alone and Walden neither condones nor endorses the reliability or accuracy of such statements.  
-  
-You agree that you will not:  
-  
-(a) upload, post, transmit, or otherwise make available any content that is unlawful, harmful, threatening, abusive, harassing, tortious, defamatory, vulgar, obscene, libelous, invasive of another's privacy (including any address, email, phone number, or any other contact information without the written consent of the owner of such information), hateful, or racially, ethnically, or otherwise objectionable;  
-  
-(b) harm minors in any way;  
-  
-(c) impersonate any person or entity, including, but not limited to, a Walden official, forum leader, guide, or host, or falsely state or otherwise misrepresent your affiliation with a person or entity, including Walden;  
-  
-(d) forge headers or otherwise manipulate identifiers in order to disguise the origin of any content transmitted through the Blog;  
-  
-(e) upload, post, or otherwise transmit any content that you do not have a right to transmit under any law or under contractual or fiduciary relationships (such as inside information, or proprietary and confidential information learned or disclosed as part of employment relationships or under nondisclosure agreements);  
-  
-(f) upload, post, or otherwise transmit any content that infringes any patent, trademark, trade secret, copyright, rights of privacy or publicity, or other proprietary rights of any party;  
-  
-(g) upload, post, or transmit unsolicited commercial email or "spam". This includes unethical marketing, advertising, or any other practice that is in any way connected with "spam," such as (a) sending mass email to recipients who have not requested email from you or with a fake return address, (b) promoting a site with deceptive or otherwise inappropriate links, titles, descriptions, or (c) promoting your site by posting multiple submissions in public forums that are identical;  
-  
-(h) upload, post, or otherwise transmit any material that contains software viruses or any other computer code, files, or programs designed to interrupt, destroy, or limit the functionality of any computer software or hardware or telecommunications equipment;  
-  
-(i) interfere with or disrupt the Blog or servers or networks connected to the Blog, or disobey any requirements, procedures, policies, or regulations of networks connected to the Blog;  
-  
-(j) intentionally or unintentionally violate any applicable local, state, national, or international law;  
-  
-(k) "stalk" or otherwise harass another;  
-  
-(l) promote or provide instructional information about illegal activities, promote physical harm or injury against any group or individual, or promote any act of cruelty to animals. This may include, without limitation, providing instructions on how to assemble bombs, grenades, or other weapons or incendiary devices;  
-  
-(m) offer for sale or sell any item, good, or service that (a) violates any applicable federal, state, or local law or regulation, (b) you do not have full power and authority under all relevant laws and regulations to offer and sell, including all necessary licenses and authorizations, or (c) Walden determines, in its sole discretion, is inappropriate for sale through the Services provided by Walden;  
-  
-(n) use the Blog as a forwarding service to another web site;  
-  
-(o) allow usage by others in such a way as to violate these terms;  
-  
-(p) take any steps to interfere with or in any manner compromise any of Walden’s security measures;  
-  
-(q) use the Blog for fraudulent purposes;  
-  
-(r) harvest or collect any information about or regarding others who access the Blog, including, without limitation, any personal data or information;  
-  
-(s) copy the Blog content (other than as provided under United States copyright laws);  
-  
-(t) remove any proprietary notices from the Blog site;  
-  
-(u) cause, permit, or authorize the modification, creation of derivative works of, or translation of the Blog content without the express permission of Walden; (v) sell, assign, rent, lease, act as a service bureau, or grant rights in the Blog including, without limitation, through sublicense, to any other person or entity;  
-  
-(v) attempt to decompile, reverse engineer, disassemble, modify, or hack the Blog site or underlying software, or to defeat or overcome any encryption and/or digital rights management technology implemented by Walden with respect to the Blog and/or data transmitted, processed, or stored by Walden; or  
-  
+6100 Merriweather Dr   
+8th Floor   
+Columbia, MD 21044
+
+**Blog**
+
+This website incorporates at least one informal, conversational page which is regularly updated by an individual or group of individuals (a “Blog”).  By posting content to any Blog found on this website, you hereby grant Walden a perpetual, exclusive, unrestricted, non-revocable, royalty-free license to use, print, publish, sell, copy, distribute, make derivative works of, and license others to use the content in any form or medium, now or hereafter existing, or in any language during the full term of the copyright therein and throughout the world.  You acknowledge that any Walden publication (in any format) containing such content will contain a Walden copyright notice.  All content is the sole responsibility of the person from whom such content originated.  This means that you, and not Walden, are entirely responsible for all content that you upload, post, transmit or otherwise make available via the Blog.  You represent that you have all rights necessary to post such content without violation of any intellectual property or other rights or laws or regulations.  You agree to defend, indemnify and hold Walden harmless from and against any and all claims, suits or proceedings, demands, losses, damages, liabilities and costs and expenses (including, without limitation, reasonable attorneys’ fees) arising out of or resulting from the actual or alleged infringement of any patent, trademark, copyright, trade secret or any other intellectual property right in connection with any content you post to the Blog.
+
+You understand that by accessing and/or using the Blog, you may be exposed to content that you find to be offensive or objectionable.  The opinions expressed in the Blog are not necessarily those of Walden and/or its employees.  Under no circumstances will Walden be liable in any way for any content, including, but not limited to, any errors or omissions in any content posted, transmitted, or otherwise made available via the Blog.  You acknowledge that Walden shall have the right (but not the obligation) in its sole discretion to refuse or remove any content that may be posted or uploaded to the Blog.
+
+All opinions and statements made by you on the Blog are yours alone and Walden neither condones nor endorses the reliability or accuracy of such statements.
+
+You agree that you will not:
+
+(a) upload, post, transmit, or otherwise make available any content that is unlawful, harmful, threatening, abusive, harassing, tortious, defamatory, vulgar, obscene, libelous, invasive of another's privacy (including any address, email, phone number, or any other contact information without the written consent of the owner of such information), hateful, or racially, ethnically, or otherwise objectionable;
+
+(b) harm minors in any way;
+
+(c) impersonate any person or entity, including, but not limited to, a Walden official, forum leader, guide, or host, or falsely state or otherwise misrepresent your affiliation with a person or entity, including Walden;
+
+(d) forge headers or otherwise manipulate identifiers in order to disguise the origin of any content transmitted through the Blog;
+
+(e) upload, post, or otherwise transmit any content that you do not have a right to transmit under any law or under contractual or fiduciary relationships (such as inside information, or proprietary and confidential information learned or disclosed as part of employment relationships or under nondisclosure agreements);
+
+(f) upload, post, or otherwise transmit any content that infringes any patent, trademark, trade secret, copyright, rights of privacy or publicity, or other proprietary rights of any party;
+
+(g) upload, post, or transmit unsolicited commercial email or "spam". This includes unethical marketing, advertising, or any other practice that is in any way connected with "spam," such as (a) sending mass email to recipients who have not requested email from you or with a fake return address, (b) promoting a site with deceptive or otherwise inappropriate links, titles, descriptions, or (c) promoting your site by posting multiple submissions in public forums that are identical;
+
+(h) upload, post, or otherwise transmit any material that contains software viruses or any other computer code, files, or programs designed to interrupt, destroy, or limit the functionality of any computer software or hardware or telecommunications equipment;
+
+(i) interfere with or disrupt the Blog or servers or networks connected to the Blog, or disobey any requirements, procedures, policies, or regulations of networks connected to the Blog;
+
+(j) intentionally or unintentionally violate any applicable local, state, national, or international law;
+
+(k) "stalk" or otherwise harass another;
+
+(l) promote or provide instructional information about illegal activities, promote physical harm or injury against any group or individual, or promote any act of cruelty to animals. This may include, without limitation, providing instructions on how to assemble bombs, grenades, or other weapons or incendiary devices;
+
+(m) offer for sale or sell any item, good, or service that (a) violates any applicable federal, state, or local law or regulation, (b) you do not have full power and authority under all relevant laws and regulations to offer and sell, including all necessary licenses and authorizations, or (c) Walden determines, in its sole discretion, is inappropriate for sale through the Services provided by Walden;
+
+(n) use the Blog as a forwarding service to another web site;
+
+(o) allow usage by others in such a way as to violate these terms;
+
+(p) take any steps to interfere with or in any manner compromise any of Walden’s security measures;
+
+(q) use the Blog for fraudulent purposes;
+
+(r) harvest or collect any information about or regarding others who access the Blog, including, without limitation, any personal data or information;
+
+(s) copy the Blog content (other than as provided under United States copyright laws);
+
+(t) remove any proprietary notices from the Blog site;
+
+(u) cause, permit, or authorize the modification, creation of derivative works of, or translation of the Blog content without the express permission of Walden; (v) sell, assign, rent, lease, act as a service bureau, or grant rights in the Blog including, without limitation, through sublicense, to any other person or entity;
+
+(v) attempt to decompile, reverse engineer, disassemble, modify, or hack the Blog site or underlying software, or to defeat or overcome any encryption and/or digital rights management technology implemented by Walden with respect to the Blog and/or data transmitted, processed, or stored by Walden; or
+
 (w) use this Blog for any commercial purpose or for the benefit of any third party or in any manner not permitted by these terms.
 
 Related Information
