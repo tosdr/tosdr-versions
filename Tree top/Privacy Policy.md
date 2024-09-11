@@ -59,13 +59,13 @@
     * [Tips & Recipes](https://treetop.com/health-and-life/tips-and-recipes/)
     * [Our Extended Family](https://treetop.com/health-and-life/our-extended-family/)
     
-    Recipe
+    Our Extended Family
     
-    **Apple Pie Pops**
+    **Soccer Shots Partnership**
     
-    [Read Recipe](https://treetop.com/recipes/apple-pie-pops/)
+    [Keep Reading](https://treetop.com/health-and-life/our-extended-family/soccer-shots/)
     
-    ![Apple Pie Pops!](https://treetop.com/wp-content/uploads/2023/11/Apple-Pie-Pop-1.jpg)
+    ![Three children playing with a soccer ball](https://treetop.com/wp-content/uploads/2024/08/soccer-shots-kids-playing-02.jpg)
     
     Recipe
     
