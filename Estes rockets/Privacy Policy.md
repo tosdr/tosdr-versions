@@ -27,7 +27,7 @@ Update
 
 Check Out
 
-[C11, D12 & E12 Engine Service Bulletin](https://estesrockets.com/pages/engine-service-bulletin)
+[D12 Engine Service Bulletin](https://estesrockets.com/pages/d12-engine-service-bulletin)
 
           
 
@@ -107,13 +107,13 @@ Check Out
         Building Supplies
         
         * [All Parts](https://estesrockets.com/collections/parts)
-        * [Body Tubes](https://estesrockets.com/collections/body-tubes)
+        * [Body Tubes](https://estesrockets.com/collections/body-tubes-couplers-launch-lugs)
         * [Engine Mounts](https://estesrockets.com/collections/engine-mounts)
         * [Finishing Supplies](https://estesrockets.com/collections/finishing-supplies)
-        * [Launch Lugs](https://estesrockets.com/collections/launch-lugs)
+        * [Launch Lugs](https://estesrockets.com/collections/body-tubes-couplers-launch-lugs)
         * [Nose Cones](https://estesrockets.com/collections/nose-cones)
         * [Tools](https://estesrockets.com/collections/tools-supplies)
-        * [Tube Couplers](https://estesrockets.com/collections/body-tube-couplers)
+        * [Tube Couplers](https://estesrockets.com/collections/body-tubes-couplers-launch-lugs)
         
     * Launch Supplies
         
@@ -129,7 +129,6 @@ Check Out
         
     
 * [Apparel](https://estesrockets.com/collections/apparel)
-* [Rocket Rewards Deals](https://estesrockets.com/collections/rocket-rewards-deals)
 * Service
     
     Service
@@ -215,13 +214,13 @@ Check Out
     * Building Supplies
         
         * [All Parts](https://estesrockets.com/collections/parts)
-        * [Body Tubes](https://estesrockets.com/collections/body-tubes)
+        * [Body Tubes](https://estesrockets.com/collections/body-tubes-couplers-launch-lugs)
         * [Engine Mounts](https://estesrockets.com/collections/engine-mounts)
         * [Finishing Supplies](https://estesrockets.com/collections/finishing-supplies)
-        * [Launch Lugs](https://estesrockets.com/collections/launch-lugs)
+        * [Launch Lugs](https://estesrockets.com/collections/body-tubes-couplers-launch-lugs)
         * [Nose Cones](https://estesrockets.com/collections/nose-cones)
         * [Tools](https://estesrockets.com/collections/tools-supplies)
-        * [Tube Couplers](https://estesrockets.com/collections/body-tube-couplers)
+        * [Tube Couplers](https://estesrockets.com/collections/body-tubes-couplers-launch-lugs)
         
     * Launch Supplies
         
@@ -235,7 +234,6 @@ Check Out
         
     
 * [Apparel](https://estesrockets.com/collections/apparel)
-* [Rocket Rewards Deals](https://estesrockets.com/collections/rocket-rewards-deals)
 * Service
     
     * [About Us](https://estesrockets.com/pages/about-us)
@@ -465,7 +463,3 @@ MINS
 :
 
 SECS
-
-![](https://cdn.shopify.com/extensions/9fc3244d-9428-478e-81df-d8a41fbc051b/discount-depot-301/assets/gift_image.png)
-
-Adding free gift to the cart...
