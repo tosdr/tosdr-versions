@@ -10,6 +10,7 @@
     * [Premium](https://www.fitbit.com/global/us/products/services/premium)
     * [Accessories](https://www.fitbit.com/global/us/products/accessories)
     * [Smart Scale](https://www.fitbit.com/global/us/products/scales/aria-air)
+    * [What's New](https://www.fitbit.com/global/us/products/whats-new)
     * [Designer Collections](https://www.fitbit.com/global/us/products/designer-collections)
     * [Shop All Products](https://www.fitbit.com/global/us/products)
     
@@ -219,6 +220,7 @@ COMPANY
 * [Careers](https://careers.google.com/jobs/results/?company=Fitbit)
 * [Sustainability](https://www.fitbit.com/global/us/sustainability)
 * [Press Relations](https://blog.google/products/fitbit/)
+* [Blog](https://blog.fitbit.com/)
 
 COMPANY
 
@@ -226,6 +228,7 @@ COMPANY
 * [Careers](https://careers.google.com/jobs/results/?company=Fitbit)
 * [Sustainability](https://www.fitbit.com/global/us/sustainability)
 * [Press Relations](https://blog.google/products/fitbit/)
+* [Blog](https://blog.fitbit.com/)
 
 HEALTH SOLUTIONS
 
