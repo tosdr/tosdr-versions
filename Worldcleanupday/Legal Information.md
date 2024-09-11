@@ -26,6 +26,7 @@
 * [Adhérer](https://www.worldcleanupday.fr/adherer-2/)
 * [Faire un don](https://www.helloasso.com/associations/world-cleanup-day-france/formulaires/1)
 * [Digital Cleanup Day](https://digital-cleanup-day.fr/)
+* [Mégothon](https://trash-spotter.green/megothon-2024/)
 
 Sélectionner une page
 
