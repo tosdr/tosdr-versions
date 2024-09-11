@@ -164,7 +164,7 @@ For advertisers
 
 [Audience: Terms of Service](https://yandex.com/legal/audience_tos_ch/index.html)
 
-[“Yandex.Direct” Service Offer](https://yandex.com/legal/oferta_direct_ch/index.html)
+[“Yandex.Direct” Service Offer](https://yandex.com/legal/offer_direct_ae/index.html)
 
 [Ad Serving Rules](https://yandex.com/legal/direct_display_rules_ch/index.html)
 
