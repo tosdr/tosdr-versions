@@ -12,19 +12,16 @@ This Application uses Trackers managed directly by the Owner (so-called “first
 The validity and expiration periods of Cookies and other similar Trackers may vary depending on the lifetime set by the Owner or the relevant provider. Some of them expire upon termination of the User’s browsing session.  
 In addition to what’s specified in the descriptions within each of the categories below, Users may find more precise and updated information regarding lifetime specification as well as any other relevant information — such as the presence of other Trackers — in the linked privacy policies of the respective third-party providers or by contacting the Owner.
 
-### Activities strictly necessary for the operation of this Application and delivery of the Service
+How this Application uses Trackers
+----------------------------------
+
+### Necessary
 
 This Application uses so-called “technical” Cookies and other similar Trackers to carry out activities that are strictly necessary for the operation or delivery of the Service.
 
-#### Third-party Trackers
+#### Trackers managed by third parties
 
-* ### Traffic optimization and distribution
-    
-    This type of service allows this Application to distribute their content using servers located across different countries and to optimize their performance.  
-    Which Personal Data are processed depends on the characteristics and the way these services are implemented. Their function is to filter communications between this Application and the User's browser.  
-    Considering the widespread distribution of this system, it is difficult to determine the locations to which the contents that may contain Personal Information of the User are transferred.
-    
-    #### Cloudflare (Cloudflare Inc.)
+* ### Cloudflare (Cloudflare Inc.)
     
     Cloudflare is a traffic optimization and distribution service provided by Cloudflare Inc.  
     The way Cloudflare is integrated means that it filters all the traffic through this Application, i.e., communication between this Application and the User's browser, while also allowing analytical data from this Application to be collected.
@@ -34,17 +31,13 @@ This Application uses so-called “technical” Cookies and other similar Tracke
     Place of processing: United States – [Privacy Policy](https://www.cloudflare.com/security-policy/).
     
 
-### Other activities involving the use of Trackers
-
-#### Measurement
+### Measurement
 
 This Application uses Trackers to measure traffic and analyse User behaviour to improve the Service.
 
-* ### Analytics
-    
-    The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior.
-    
-    #### Google Analytics (Universal Analytics) (Google LLC)
+#### Trackers managed by third parties
+
+* ### Google Analytics (Universal Analytics) (Google LLC)
     
     Google Analytics (Universal Analytics) is a web analysis service provided by Google LLC (“Google”). Google utilizes the Data collected to track and examine the use of this Application, to prepare reports on its activities and share them with other Google services.  
     Google may use the Data collected to contextualize and personalize the ads of its own advertising network.
@@ -64,17 +57,13 @@ This Application uses Trackers to measure traffic and analyse User behaviour to 
     * \_gid: 1 day
     
 
-#### Marketing
+### Marketing
 
-This Application uses Trackers to deliver personalised marketing content based on User behaviour and to operate, serve and track ads.
+This Application uses Trackers to deliver personalized ads or marketing content, and to measure their performance.
 
-* ### Commercial affiliation
-    
-    This type of service allows this Application to display advertisements for third-party products or services. Ads can be displayed either as advertising links or as banners using various kinds of graphics.  
-    Clicks on the icon or banner posted on the Application are tracked by the third-party services listed below, and are shared with this Application.  
-    For details of which data are collected, please refer to the privacy policy of each service.
-    
-    #### CJ Affiliate by Conversant (Conversant LLC)
+#### Trackers managed by third parties
+
+* ### CJ Affiliate by Conversant (Conversant LLC)
     
     CJ Affiliate by Conversant is a commercial affiliation service provided by Conversant, Inc.
     
