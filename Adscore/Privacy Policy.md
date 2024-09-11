@@ -254,3 +254,7 @@ If you have any questions or comments about this Privacy Policy, the information
     
 
 © Copyright Adscore Technologies DMCC 2024. All content and images are copyrighted.
+
+Get in touch
+
+Get to see how Adscore works
