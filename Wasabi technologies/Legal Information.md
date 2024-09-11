@@ -26,7 +26,7 @@ Wasabi Privacy Policy
   
   
 
-[Company](https://wasabi.com/legal/privacy-policy#)
+[Company](https://wasabi.com/legal/privacy-policy?_hsenc=p2ANqtz--hnVcI47wJs6HpyRziUKJ_hNVxEKFRiEzoW8K9Eft3BWL6d5CbyPnG0hpFhAFlbFEzKNWvpxOA3JkAJlxve858WAqWaw&_hsmi=84987810#)
 
 * [About Wasabi](https://wasabi.com/company)
     
@@ -56,7 +56,7 @@ Learn
     
 * [Integrations](https://wasabi.com/partner/integrations)
     
-* [Glossary](https://wasabi.com/glossary)
+* [Cloud 101](https://wasabi.com/learn)
     
 * [Support](https://wasabi.com/help)
     
