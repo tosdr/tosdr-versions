@@ -1,7 +1,8 @@
 [![](https://vidazoo.gitbook.io/~gitbook/image?url=https%3A%2F%2F740631136-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lu8gBkikjSdeMGMJn7M%252Ficon%252FdYpiTYVjlcg5OrYNNLNo%252F123.png%3Falt%3Dmedia%26token%3D01af186d-12bd-44c6-bd98-bc4ef2148d43&width=32&dpr=4&quality=100&sign=15e634c9&sv=1)![](https://vidazoo.gitbook.io/~gitbook/image?url=https%3A%2F%2F740631136-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lu8gBkikjSdeMGMJn7M%252Ficon%252FdYpiTYVjlcg5OrYNNLNo%252F123.png%3Falt%3Dmedia%26token%3D01af186d-12bd-44c6-bd98-bc4ef2148d43&width=32&dpr=4&quality=100&sign=15e634c9&sv=1)
 
-Vidazoo Legal
-=============](https://vidazoo.gitbook.io/vidazoo-legal)
+Vidazoo Legal](https://vidazoo.gitbook.io/vidazoo-legal)
+
+More
 
 SearchCtrl + K
 
@@ -94,7 +95,7 @@ For any question or query, Vidazoo can be contacted by email at [support@Vidazoo
 
 [PreviousLegal Resources](https://vidazoo.gitbook.io/vidazoo-legal)[NextTerms and Conditions](https://vidazoo.gitbook.io/vidazoo-legal/terms-and-conditions)
 
-Last updated 10 months ago
+Last updated 11 months ago
 
 On this page
 
