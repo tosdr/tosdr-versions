@@ -73,7 +73,7 @@ EnglishRussianHebrewItalianArabicTurkishGermanyPortuguese brazilFrenchHindiPortu
 
 Sign in
 
-[Home](https://sync.me/)[Features](https://sync.mefeatures/)[Spam Detector](https://sync.memain-sitemap/)[Support](https://sync.mesupport/)[Contact Us](https://sync.mecontactus/)[Privacy](https://sync.meprivacy/)[Terms of Use](https://sync.meterms/)
+[Home](https://sync.me/)[Features](https://sync.me/features/)[Spam Detector](https://sync.me/main-sitemap/)[Support](https://sync.me/support/)[Contact Us](https://sync.me/contactus/)[Privacy](https://sync.me/privacy)[Terms of Use](https://sync.me/terms/)
 
 [](https://twitter.com/syncme)[](https://www.facebook.com/syncmeapp/)[](https://www.linkedin.com/company/sync-me/)
 
