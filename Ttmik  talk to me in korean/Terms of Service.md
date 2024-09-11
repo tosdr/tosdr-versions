@@ -292,5 +292,3 @@ The User shall not engage in the following activities:
 * [Sign in](https://talktomeinkorean.com/my-account/)
 
 [Sign In](https://talktomeinkorean.com/wp-login.php?redirect_to=https%3A%2F%2Ftalktomeinkorean.com%2Fterms-and-conditions-2023%2F) or [Sign Up](https://talktomeinkorean.com/sign-up)
-
-![fbpx](https://www.facebook.com/tr?id=1060500988061947&ev=PageView&noscript=1)
