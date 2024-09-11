@@ -56,11 +56,11 @@ Cart](https://thepihut.com/cart)
     
     #### Raspberry Pi 5
     
-    2-3x the CPU performance with loads of great new features!](https://thepihut.com/products/raspberry-pi-5)[![Raspberry Pi Pico W](//thepihut.com/cdn/shop/files/raspberry-pi-pico-w-featured_500x.jpg?v=1663949653)
+    2-3x the CPU performance with loads of great new features!](https://thepihut.com/products/raspberry-pi-5)[![](//thepihut.com/cdn/shop/files/raspberry_pi_pico_2_drop_down_1_500x.jpg?v=1723132650)
     
-    #### Raspberry Pi Pico W
+    #### Raspberry Pi Pico 2
     
-    The new 2.4GHz wireless-enabled Raspberry Pi Pico!](https://thepihut.com/products/raspberry-pi-pico-w)
+    The latest Pico is here, with the new RP2350 microcontroller!](https://thepihut.com/products/raspberry-pi-pico-2)
     
 * [Maker Store](https://thepihut.com/collections/maker-store)
     
@@ -465,6 +465,7 @@ Cart](https://thepihut.com/cart)
         
         * [Fixings](https://thepihut.com/collections/fixings)
         * [Knobs](https://thepihut.com/collections/potentiometer-encoder-knobs)
+        * [Project Enclosures](https://thepihut.com/collections/general-purpose-project-enclosures)
         * [View All](https://thepihut.com/collections/project-enclosures)
         
     * [Kits & Projects](https://thepihut.com/collections/adafruit-kits-projects)
@@ -473,6 +474,7 @@ Cart](https://thepihut.com/cart)
         LEDs
         
         * [Accessories](https://thepihut.com/collections/led-accessories)
+        * [COB LEDs](https://thepihut.com/collections/cob-leds)
         * [DotStar & APA102](https://thepihut.com/collections/dotstar-apa102)
         * [Drivers](https://thepihut.com/collections/led-drivers-backpacks)
         * [EL Wire](https://thepihut.com/collections/adafruit-el-wire-tape-panel)
@@ -638,13 +640,13 @@ Login / Signup
 
 Login New customer?[Create an account](https://thepihut.com/account/register)
 
-Super Fast Shipping
+Huge Range
 
-[from just £2.99](https://thepihut.com/pages/delivery "Delivery")
+[7,600+ products](https://thepihut.com/collections/all "/collections/all")
 
 Five Star Service
 
-[151,000+ reviews](https://thepihut.com/pages/site-reviews "Site Reviews")
+[153,000+ reviews](https://thepihut.com/pages/site-reviews "Site Reviews")
 
 No Quibble Returns
 
