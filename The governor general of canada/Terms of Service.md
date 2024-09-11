@@ -33,6 +33,7 @@ Languages
 * [Crown](https://www.gg.ca/en/crown)
     * [Sovereign and Royal Family](https://www.gg.ca/en/crown/sovereign-and-royal-family)
     * [Tribute to Queen Elizabeth II](https://www.gg.ca/en/crown/tribute-her-majesty-queen)
+    * [Coronation Service of His Majesty King Charles III](https://www.gg.ca/en/activities/2023/coronation-service-his-majesty-king-charles-iii)
     * [Viceregal Representatives](https://www.gg.ca/en/crown/viceregal-representatives)
 * [Activities](https://www.gg.ca/en/activities)
 * [Honours](https://www.gg.ca/en/honours)
@@ -66,17 +67,16 @@ Languages
         * [Viceregal Salute](https://www.gg.ca/en/heraldry/royal-and-viceregal-emblems/viceregal-salute)
 * [Multimedia](https://www.gg.ca/en/multimedia)
     * [Media Centre](https://www.gg.ca/en/media)
-    * [Photos](https://www.gg.ca/en/multimedia/photos)
     * [Videos](https://www.gg.ca/en/multimedia/videos)
 * [Visit Us](https://www.gg.ca/en/visit-us)
     * [Rideau Hall](https://www.gg.ca/en/visit-us/rideau-hall)
         * [What to See and Do](https://www.gg.ca/en/visit-us/rideau-hall/what-see-and-do)
-        * [Plan Your Visit](https://www.gg.ca/en/visit-us/rideau-hall/plan-your-visit)
+        * [Plan Your Visit (Ottawa)](https://www.gg.ca/en/visit-us/rideau-hall/plan-your-visit)
         * [History of Rideau Hall](https://www.gg.ca/en/visit-us/rideau-hall/history-rideau-hall)
         * [Becoming a Guide](https://www.gg.ca/en/visit-us/rideau-hall/becoming-guide)
     * [Citadelle](https://www.gg.ca/en/visit-us/citadelle)
         * [What to See and Do](https://www.gg.ca/en/visit-us/citadelle/what-see-and-do)
-        * [How to get to the residence (Québec)](https://www.gg.ca/en/visit-us/citadelle/plan-your-visit)
+        * [Plan your visit (Québec)](https://www.gg.ca/en/visit-us/citadelle/plan-your-visit)
         * [History of the Residence at the Citadelle](https://www.gg.ca/en/visit-us/citadelle/history-citadelle)
         * [Becoming a Guide](https://www.gg.ca/en/visit-us/citadelle/becoming-guide)
     * [Collections and Exhibitions](https://www.gg.ca/en/visit-us/collections-exhibitions)
@@ -94,7 +94,6 @@ Enter your keywords
 * [About the Office](https://www.gg.ca/en/the-office)
 * [Reports](https://www.gg.ca/en/the-office/reports)
 * [Accessibility](https://www.gg.ca/en/the-office/accessibility)
-* [Federal Partners](https://www.gg.ca/en/the-office/federal-partners)
 * [Terms & Conditions](https://www.gg.ca/en/the-office/terms-and-conditions)
 * [Privacy](https://www.gg.ca/en/the-office/privacy)
 
@@ -118,24 +117,24 @@ Links to websites not under the control of the Government of Canada, including t
 
 Visitors should also be aware that information offered by non-Government of Canada sites to which this website links is not subject to the [_Privacy Act_](http://laws-lois.justice.gc.ca/eng/acts/P-21/index.html) or the [_Official Languages Act_](http://laws-lois.justice.gc.ca/eng/acts/O-3.01/) and may not be accessible to persons with disabilities. The information offered may be available only in the language(s) used by the sites in question. With respect to privacy, visitors should research the privacy policies of these non-government websites before providing personal information.
 
-Copyrights: Ownership and Usage of Content Provided on this Site
+Copyrights: Ownership and usage of content provided on this site
 ----------------------------------------------------------------
 
 Materials on this website were produced and/or compiled by the Office of the Secretary to the Governor General (OSGG) for the purpose of providing Canadians with access to information about the OSGG’s programs and services.
 
 The material on this site is covered by the provisions of the _[Copyright Act](http://laws.justice.gc.ca/eng/acts/C-42/index.html)_, and by Canadian laws, policies, regulations, and international agreements. Such provisions serve to identify the information source and, in specific instances, to prohibit reproduction of materials without written permission.
 
-### Non-Commercial Reproduction
+### Non-commercial reproduction
 
-Information on this site has been posted with the intent that it be readily available for personal and public non-commercial use and may be reproduced, in part or in whole and by any means, without charge from the OSGG. . We ask only that:
+Information on this site has been posted with the intent that it be readily available for personal and public non-commercial use and may be reproduced, in part or in whole and by any means, without charge from the OSGG. We ask only that:
 
 * Users exercise due diligence in ensuring the accuracy of the materials reproduced;
-* The OSGG  be identified as the source department;
+* The OSGG be identified as the source department;
 * Indicate that the reproduction is a copy of the version available at [gg.ca](https://www.gg.ca/en); and,
 * The reproduction is not represented as _an official version of the materials reproduced_, nor as having been made, in affiliation with or with the endorsement of the OSGG.
 * To obtain permission for non-commercial reproduction please complete the [online form](https://www.gg.ca/en/apply-crown-copyright-permission).
 
-### Commercial Reproduction
+### Commercial reproduction
 
 Unless otherwise specified, you may not reproduce materials on this site, in whole or in part, for the purposes of commercial redistribution without prior written permission from the OSGG. To obtain permission to reproduce materials on this site for commercial purposes please complete the [online form](https://www.gg.ca/en/apply-crown-copyright-permission).
 
@@ -150,7 +149,7 @@ Our commitment to accessibility
 
 The Government of Canada is committed to achieving a high standard of accessibility as defined in the [_Standard on Web Accessibility_](http://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=23601) and the [_Standard on Optimizing Websites and Applications for Mobile Devices_](http://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=27088). In the event of difficulty using our Web pages, applications or device-based mobile applications, please contact us for assistance or to obtain alternative formats such as regular print, Braille or another appropriate format.
 
-Interacting With Us On Social Media
+Interacting with us on social media
 -----------------------------------
 
 This section explains how the Office of the Secretary to the Governor General (OSGG) interacts with the public on social media platforms:
@@ -195,7 +194,7 @@ The residence of the Governor General at the Citadelle
 
 Because the servers of social media platforms are managed by a third party, our social media accounts are subject to downtime that may be out of our control. As such, we accept no responsibility for platforms becoming unresponsive or unavailable.
 
-### Links to Other Websites and Ads
+### Links to other websites and ads
 
 Our social media accounts may post or display links or ads for websites that are not under our control. These links are provided solely for the convenience of users. The OSGG is not responsible for the information found through these links or ads, nor does it endorse the sites or their content.
 
@@ -203,7 +202,7 @@ Our social media accounts may post or display links or ads for websites that are
 
 Our decision to "follow," "favourite" or "subscribe" to another social media account does not imply an endorsement of that account, channel, page or site, and neither does sharing (re-tweeting, reposting or linking to) content from another user.
 
-### Comments and Interaction
+### Comments and interaction
 
 We ask that your comments be relevant and respectful. We reserve the right to delete comments that violate this notice, and the user may be blocked and reported to prevent further inappropriate comments.
 
@@ -281,7 +280,6 @@ The Office
 * [About the Office](https://www.gg.ca/en/the-office)
 * [Reports](https://www.gg.ca/en/the-office/reports)
 * [Accessibility](https://www.gg.ca/en/the-office/accessibility)
-* [Federal Partners](https://www.gg.ca/en/the-office/federal-partners)
 * [Terms & Conditions](https://www.gg.ca/en/the-office/terms-and-conditions)
 * [Privacy](https://www.gg.ca/en/the-office/privacy)
 
