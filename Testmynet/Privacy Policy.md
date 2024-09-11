@@ -1,4 +1,4 @@
-[Testing London, GB](https://testmy.net/mirror "Test Mirrors") | [Multithread off](https://testmy.net/multithread/?rel=ref "Enable Multithread")   | [Sign In](https://testmy.net/signin) / [Sign Up](https://testmy.net/signup)
+[Testing Dallas, TX](https://testmy.net/mirror "Test Mirrors") | [Multithread off](https://testmy.net/multithread/?rel=ref "Enable Multithread")   | [Sign In](https://testmy.net/signin) / [Sign Up](https://testmy.net/signup)
 
 [testmy.net  
 
@@ -58,26 +58,20 @@ We use cookies for many reasons here at TestMy.net. All of which are used for th
 
 We also use third-party advertising companies to serve ads when you visit TestMy.net. These companies may use information (NOT including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies visit [Google Privacy](https://www.google.com/privacy_ads.html).
 
-###### California Consumer Privacy Act (“CCPA”)
+###### Programmatic Advertising
 
-Under CCPA, Californian residents have the right to declare their preferences on the sale of data for advertising and marketing purposes. If you wish to change your preferences, click this link to launch our preference portal:
-
-We use a third-party to provide monetisation technologies for our site. You can review their privacy and cookie policy [here](https://publift.com/privacy-policy/).
+This website uses Adnimation to manage its programmatic ad sales, which may include the use of first and third-party cookies to collect non-sensitive, anonymized data for ad targeting purposes. Users can opt-out of personalized advertising by adjusting browser settings. You can review Adnimation’s cookie and privacy policy [here](https://www.adnimation.com/privacy-policy/).
 
 ###### Connection ID & Results Sharing Privacy
 
 You may notice a "Connection ID" in your results. This is a proprietary number used ONLY by TestMy.net and does not correlate with any of your personal information. All the information that is made publicly available about your test results at TestMy.net is safe to share with your friends and the Internet. The only information that is even remotely personal in your results is your username. If you don't want this included we recommend that you signup again and use an ambiguous username.
 
-###### Contact
-
-All correspondence to and from ANY testmy.net address or ANY address directly affiliated with an owner of TestMy Net LLC are subject to public scrutiny at the discretion of [TestMy.net's owner](https://testmy.net/contact) or TestMy Net LLC.
-
-If you have any questions about our policies or ever need clarification please direct them to [TestMy.net's owner](https://testmy.net/contact).
+If you have any questions about our policies or ever need clarification please [Contact TMN](https://testmy.net/contact).
 
 [Terms of Use](https://testmy.net/legal/terms_of_use.php) [Privacy Policy](https://testmy.net/legal/privacy.php)
 
 * [Forums](https://testmy.net/ipb)
 * [Servers](https://testmy.net/mirror)
-* [My Settings](https://testmy.net/mysettings?ref=/legal/privacy.php)
+* [My Settings](https://testmy.net/mysettings)
 
 [TestMy.net](https://testmy.net/) © 2024 - [Terms & Privacy](https://testmy.net/legal) - [Contact](https://testmy.net/contact)
