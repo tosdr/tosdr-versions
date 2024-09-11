@@ -17,23 +17,23 @@
             * [Scheduling & Appointments](https://www.thryv.com/features/appointment-booking/)
             * [CRM](https://www.thryv.com/features/customer-relationship-management/)
             * [Estimates & Invoices](https://www.thryv.com/features/invoice-software/)
-            * [Online Reviews](https://www.thryv.com/features/reputation-management/)
+            * [Automated Reviews](https://www.thryv.com/features/automated-reviews/)
             * [Social Media Content](https://www.thryv.com/features/social-media/)
         * * [MARKETING CENTER](https://www.thryv.com/marketing-center/)
                 
-                Manage your marketing and create campaigns with less effort.
+                Build your brand and manage your marketing with less effort.​
                 
             * [Enhanced Local Listings](https://www.thryv.com/features/local-listings/)
-            * [Landing Pages](https://www.thryv.com/features/landing-pages/)
+            * [Reputation Management](https://www.thryv.com/features/reputation-management/)
+            * [Website Builder](https://www.thryv.com/features/professional-website/)
             * [Track Offline Marketing](https://www.thryv.com/features/track-offline-marketing/)
-            * [Real Time Analytics](https://www.thryv.com/)
-        * * [MARKETPLACE](https://www.thryv.com/app-market/)
+        * * [ADDITIONAL PRODUCTS](#)
                 
                 Need a little something extra? Find it here.
                 
-            * [ThryvPay](https://www.thryv.com/features/thryvpay/)
             * [Signatures](https://www.thryv.com/features/electronic-signatures/)
-            * [Integrations](https://www.thryv.com/app-market/)
+            * [Marketplace](https://www.thryv.com/marketplace/)
+            * [Integrations](https://www.thryv.com/marketplace/#integrations)
         
         * [See all of Thryv's Solutions](https://www.thryv.com/features/)
             
@@ -125,22 +125,23 @@ menu
         * [Scheduling & Appointments](https://www.thryv.com/features/appointment-booking/)
         * [CRM](https://www.thryv.com/features/customer-relationship-management/)
         * [Estimates & Invoices](https://www.thryv.com/features/invoice-software/)
+        * [Automated Reviews](https://www.thryv.com/features/automated-reviews/)
         * [Social Media Content](https://www.thryv.com/features/social-media/)
         * [MARKETING CENTER](https://www.thryv.com/marketing-center/)
             
-            Manage your marketing and create campaigns with less effort.
+            Build your brand and manage your marketing with less effort.​
             
         * [Enhanced Local Listings](https://www.thryv.com/features/local-listings/)
-        * [Landing Pages](https://www.thryv.com/features/landing-pages/)
+        * [Reputation Management](https://www.thryv.com/features/reputation-management/)
+        * [Website Builder](https://www.thryv.com/features/professional-website/)
         * [Track Offline Marketing](https://www.thryv.com/features/track-offline-marketing/)
-        * [Real Time Analytics](https://www.thryv.com/)
+        * [Signatures](https://www.thryv.com/features/electronic-signatures/)
         * [MARKET PLACE](https://www.thryv.com/app-market/)
             
             Need a little something extra? Find it here.
             
         * [ThryvPay](https://www.thryv.com/features/thryvpay/)
         * [Signatures](https://www.thryv.com/features/electronic-signatures/)
-        * [Websites Builder](https://websites.thryv.info/)
         * [Integrations](https://www.thryv.com/app-market/)
         * [See all of Thryv's Solutions](https://www.thryv.com/features/)
             
@@ -231,12 +232,12 @@ Click the link below for the terms that apply to your purchase
 * [Scheduling & Appointments](https://www.thryv.com/features/appointment-booking/)
 * [Customer Relationships Management (CRM)](https://www.thryv.com/features/customer-relationship-management/)
 * [Estimates & Invoices](https://www.thryv.com/features/invoice-software/)
-* [Online Reviews](https://www.thryv.com/features/reputation-management/)
+* [Automated Reviews](https://www.thryv.com/features/automated-reviews/)
 * [Social Media Management](https://www.thryv.com/features/social-media/)
 * [Enhanced Local Listings](https://www.thryv.com/features/local-listings/)
-* [Landing Pages](https://www.thryv.com/features/landing-pages/)
+* [Website Builder](https://www.thryv.com/features/professional-website/)
 * [Track Offline Marketing](https://www.thryv.com/features/track-offline-marketing/)
-* [Real Time Analytics](https://www.thryv.com/)
+* [Signatures](https://www.thryv.com/features/electronic-signatures/)
 
 ### Resources
 
@@ -298,7 +299,7 @@ Terms and conditions apply. Free plans have limited functionality. Upgraded plan
 
 * [Disclosure](https://www.thryv.com/google-limited-use-requirements/)
 * [Privacy](https://www.thryv.com/privacy/)
-* [Do Not Sell My Personal Information](https://www.thryv.com/privacy-ccpa/)
+* [Do Not Sell or Share My Personal Information](https://www.thryv.com/privacy-ccpa/)
 * [Terms of Use](https://www.thryv.com/terms-of-use/)
 * [Thryv Terms & Conditions](https://www.thryv.com/terms/)
 * [Social Media Disclaimer](https://www.thryv.com/social-media-content-disclaimer/)
