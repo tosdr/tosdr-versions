@@ -1,4 +1,4 @@
-![](https://px.ads.linkedin.com/collect/?pid=121156&fmt=gif)    
+![](https://px.ads.linkedin.com/collect/?pid=121156&fmt=gif)       
 
 [![Tassomai](//images.squarespace-cdn.com/content/v1/5a8c285bd74cffc5e0171c34/1527599265414-TAJWCDLTDCTF0ZMP98JQ/Interim-logo-pure-white.png)](https://www.tassomai.com/)
 
