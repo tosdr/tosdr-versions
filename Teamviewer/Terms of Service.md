@@ -2,7 +2,7 @@
 
 [![TeamViewer](https://s7g10.scene7.com/is/content/teamviewergmbh/logo-teamviewer-2?dpr=off)](https://www.teamviewer.com/)
 
-[+44 333 070 3707](tel:+44-333-070-3707)
+[+1 239 999 4122](tel:+1-239-999-4122)
 
 * [For Enterprise](https://www.teamviewer.com/en/global/enterprise/)
 * [Support](#)
@@ -29,7 +29,7 @@
     * [Ticket](https://freshworks-help175.freshworks.com/login/auth/contactsso?client_id=78368727158800390&redirect_uri=https%3A%2F%2Fsupport.teamviewer.com%2Ffreshid%2Fcustomer_authorize_callback)
     * [Customer Portal](https://service.teamviewer.com/)
 
-[+44 333 070 3707](tel:+44-333-070-3707)
+[+1 239 999 4122](tel:+1-239-999-4122)
 
 [![TeamViewer](https://s7g10.scene7.com/is/content/teamviewergmbh/logo-teamviewer-2?dpr=off)](https://www.teamviewer.com/)
 
@@ -55,8 +55,7 @@
     
     * [Remote Management](https://www.teamviewer.com/en/products/remote/solutions/remote-management/)
     * [Asset Management](https://www.teamviewer.com/en/products/remote/solutions/asset-management/)
-    * [Endpoint Protection](https://www.teamviewer.com/en/products/remote/solutions/endpoint-protection/)
-    * [Security](https://www.teamviewer.com/en/products/tensor/security/)
+    * [Additional solutions](https://www.teamviewer.com/en/special/better-together/)
     * [Embedded Devices](https://www.teamviewer.com/en/products/tensor/solutions/tensor-embed/)
     
 * [Solutions](#)
@@ -72,7 +71,6 @@
     * [By Use Cases](#)
         * [Apple Vision Pro × TeamViewer](https://www.teamviewer.com/en/solutions/use-cases/apple-vision-pro/)
         * [Remote access and support](https://www.teamviewer.com/en/solutions/use-cases/remote-access-support/)
-        * [Remote maintenance](https://www.teamviewer.com/en/solutions/use-cases/remote-maintenance/)
         * [Remote control](https://www.teamviewer.com/en/solutions/use-cases/remote-control/)
         * [Remote desktop](https://www.teamviewer.com/en/solutions/use-cases/remote-desktop/)
         * [Wake-on-LAN](https://www.teamviewer.com/en/solutions/use-cases/wake-on-lan/)
@@ -85,6 +83,7 @@
         * [Large businesses](https://www.teamviewer.com/en/solutions/roles/large-businesses/)
         * [Managed service providers](https://www.teamviewer.com/en/solutions/roles/managed-service-providers/)
         * [Freelancers and digital nomads](https://www.teamviewer.com/en/solutions/roles/freelancer-digital-nomad/)
+        * [Freelancers and digital nomads](https://www.teamviewer.com/en/solutions/roles/oems/)
 * [Resources](#)
     * [News and Insights](https://www.teamviewer.com/en/resources/news-insights/)
     * [Success Stories](https://www.teamviewer.com/en/resources/success-stories/)
