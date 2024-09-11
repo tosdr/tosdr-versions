@@ -2,7 +2,7 @@
 
 [Skip to Content](#page)
 
-[](https://twitter.com/TomSparkReviews)[](https://www.youtube.com/channel/UCXJWKuGh0qedrYviGEJmlWw)
+[](https://twitter.com/TomSparkReviews)[](https://www.youtube.com/channel/UCXJWKuGh0qedrYviGEJmlWw)[](https://discord.gg/9mGkVBWXQr)
 
 [Tom Spark Reviews](https://www.vpntierlist.com/)
 
@@ -16,9 +16,11 @@
 
 [Blog](https://www.vpntierlist.com/blog)
 
+[Removals](https://www.vpntierlist.com/removals)
+
 Open Menu Close Menu
 
-[](https://twitter.com/TomSparkReviews)[](https://www.youtube.com/channel/UCXJWKuGh0qedrYviGEJmlWw)
+[](https://twitter.com/TomSparkReviews)[](https://www.youtube.com/channel/UCXJWKuGh0qedrYviGEJmlWw)[](https://discord.gg/9mGkVBWXQr)
 
 [Tom Spark Reviews](https://www.vpntierlist.com/)
 
@@ -32,6 +34,8 @@ Open Menu Close Menu
 
 [Blog](https://www.vpntierlist.com/blog)
 
+[Removals](https://www.vpntierlist.com/removals)
+
 Open Menu Close Menu
 
 [Affiliate guidelines](https://www.vpntierlist.com/affiliate-guidelines)
@@ -43,10 +47,14 @@ Open Menu Close Menu
 [About Page](https://www.vpntierlist.com/about-page)
 
 [Blog](https://www.vpntierlist.com/blog)
+
+[Removals](https://www.vpntierlist.com/removals)
 
 [](https://twitter.com/TomSparkReviews)
 
 [](https://www.youtube.com/channel/UCXJWKuGh0qedrYviGEJmlWw)
+
+[](https://discord.gg/9mGkVBWXQr)
 
 Privacy policy.
 ---------------
