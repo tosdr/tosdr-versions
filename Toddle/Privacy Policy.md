@@ -52,7 +52,7 @@
 Our Privacy Policy
 ==================
 
-Last Updated: May 24, 2024
+Last Updated: September 5, 2024
 
 It is our mission to help teachers deliver meaningful learning experiences. To achieve this, we build easy to use tools that help make things simple for teachers and empower them to focus on the important things. It is hence critical that we create a safe and secure environment where teachers, children, and parents freely share content and ideas. Creating such a safe and secure environment is central to the success of our endeavours.
 
@@ -171,6 +171,10 @@ We are committed to complying with the Digital Personal Data Protection Act, 202
 
 To ensure compliance with DPDPA, we have implemented robust data security practices and procedures. We only collect minimal data necessary for our services and store it securely using industry-standard measures. Our Privacy Policy outlines what data we collect and how we use it. Additionally, we have established transparent data governance processes to ensure responsible data handling. Learn more about Toddle and DPDPA [here](https://www.toddleapp.com/dpdpa/).
 
+### Compliance with Australian Privacy Principles
+
+Toddle is committed to maintaining the highest standards of privacy protection and complying with the Australian Privacy Principles (APPs) set out in the Privacy Act 1988. We only gather and handle personal information when necessary for delivering our services, subject to your explicit consent. Your data is securely stored using industry-standard methods and we are open about how we collect, use, and disclose it as outlined in our Privacy Policy. More details about our conformity with the APPs can be found [here](https://www.toddleapp.com/australianprivacyprinciples/).
+
 ### Data collected by Toddle
 
 We only collect the data that we need for providing Toddle services. It is our honest endeavour to minimise the data that we collect about our users.
@@ -195,6 +199,10 @@ Below is a list of data that we collect from our different users and and how we 
 
 **“Log Data”**: We collect log data such as your IP address, browser type, device type, operating system, and your mobile carrier. Additionally we also use cookies to keep you logged into your system to improve your user experience.
 
+**Mobile Applications**
+
+When using our mobile application, Toddle may access features such as the camera, music, album/gallery and accelerometer on your device to provide the desired services. For example, when you use the portfolio, scan QR code, or add student functions to shoot in real-time; When you use profile settings and upload portfolio photos/videos; or when you use portfolio recording to capture voice input through the microphone. If you do not turn on permissions, you will not be able to use the specific functions related to those permissions, but this will not affect your use of other services provided by the Toddle App.
+
 ### Why do we collect this data?
 
 We use the collected data only to provide services to you as laid out in the Privacy Policy and as authorised by your school. Below are a few use cases that we have for the collected data:
@@ -210,16 +218,17 @@ We use the collected data only to provide services to you as laid out in the Pri
 
 * Our data is hosted on Amazon Web Services (AWS) servers.
 * For our users in Europe, we store the data in servers in Ireland to ensure compliance with GDPR. 
+* For our users in Australia, we store the data in servers in Sydney to ensure compliance with APA.
 * For our users in China, we store the data in servers in Beijing to ensure compliance with PIPL.
 * For users in other regions, they can opt for data storage in any of the following locations:    
      – Australia, Ireland, Singapore, United Arab Emirates, and United States of America
 
 ### What is the data NOT collected for?
 
-* We do not allow advertising or sharing data for advertising for any data collected through Toddle
-* We never display ads, share data for the purpose of displaying ads, or allow data collection by advertisers or data brokers
+* We do not allow advertising or sharing data for advertising for any data collected through the Toddle website ([web.toddleapp.com](https://web.toddleapp.com/)), or our apps
+* We never display ads, share data for the purpose of displaying ads, or allow data collection by advertisers or data brokers on the Toddle website ([web.toddleapp.com](https://web.toddleapp.com/)) or our apps
 * We never sell data to anyone for any purposes
-* We never allow profiling of our users for targeted online ads
+* We never allow profiling of our users for targeted online ads on the Toddle website ([web.toddleapp.com](https://web.toddleapp.com/)) or our apps
 
 ### Data Retention
 
@@ -246,13 +255,11 @@ This section explains how we collect, use, disclose, and protect your informatio
 
 1.1. Pseudonymized Data: Toddle AI uses pseudonymized data collected from schools as context for prompts to LLMs. This data does not contain personally identifiable information (PII) of any individual and is scrubbed of any identifiable details that could be used to trace back to specific individuals. Toddle shares data about progress reports, unit plans, learning experiences and interactions of teachers with Toddle AI. 
 
-**Exception:** For the messaging module ‘Toddle Connect’, PII data is shared with LLMs solely for summarizing the message content. Such PII data sharing is governed by the data sharing and privacy policy outlined below. Toddle Connect is an optional module that schools can choose to buy as an add-on.
-
 1.2. LLMs Responses: The responses from LLMs are generated based on patterns learned from the pseudonymized data and do not contain any specific information about individual users, or any other identifiable parties. 
 
 2. **Data Security**
 
-Toddle AI takes the security of the data seriously. We implement industry-standard measures to protect the confidentiality and integrity of the data we collect and process. Access to the LLMs and the pseudonymized data is restricted to authorized personnel only and we follow the principle of least privilege. PII data shared with LLMs for the messaging module ‘Toddle Connect’ is fully encrypted at rest and in transit to safeguard information from unauthorized access.
+Toddle AI takes the security of the data seriously. We implement industry-standard measures to protect the confidentiality and integrity of the data we collect and process. Access to the LLMs and the pseudonymized data is restricted to authorized personnel only and we follow the principle of least privilege.
 
 3. **Data Retention**
 
@@ -261,8 +268,6 @@ The pseudonymized data collected from schools may be retained for as long as nec
 4. **Third-Party Disclosure**
 
 Toddle AI does not share any personally identifiable information (PII) with the LLMs or any third parties. The LLMs operate solely on pseudonymized and non-identifiable data.
-
-**Exception:** For Users subscribing to the messaging module ‘Toddle Connect’, PII data is shared with LLMs solely for summarizing the message content.
 
 5. **Compliance with Laws**
 
@@ -276,58 +281,11 @@ Toddle AI may update this policy from time to time to reflect changes in our pra
 
 If you have any questions, concerns, or requests regarding this policy or Toddle AI’s use of LLMs, please contact us at [privacy@toddleapp.com](mailto:privacy@toddleapp.com)
 
-### **Terms of Service and Fair Usage Policy for Toddle AI  
-**
+### Use of Cookies and Advertising
 
-### **1\. Introduction**
+We use Cookies and other similar services (such as Local Storage) to keep you logged in to Toddle, customize your Toddle experience, understand how you use Toddle, and promote Toddle to relevant teachers and schools. On the Toddle Website ([www.toddleapp.com](https://www.toddleapp.com/)), we also use the Facebook pixel to understand how visitors, including those who may be directed from our apps, use our website. Information collected through the Facebook pixel may be shared with Facebook. We do not use these technologies on our website ([web.toddleapp.com](https://web.toddleapp.com/)) and our apps for advertising or marketing purposes, and we do not knowingly collect personal information from children under 13 without verifiable parental consent.
 
-1.1. These Terms of Service govern your use of Toddle AI and are in addition to your contract with Toddle. These must be read alongside your contract with Toddle. In case of a conflict, your contract with Toddle will prevail. By signing this agreement, you agree to be bound by our Terms of Service for the usage of Toddle AI (our “Terms”).
-
-1.2. Occasionally the Service Provider may, at its discretion, make changes to the Service. Upon such material changes to the Agreement or Services, Service Provider shall notify the Subscriber. By continuing to use the Service or entitle the Users to continue using the Service after changes are made, Subscriber is expressing and acknowledging its acceptance of the changes.
-
-### **2\. Data Sharing and Privacy**
-
-2.1. The Service Provider uses multiple Large Language Models (such as ChatGPT from Open AI, Bard from Google, and Llama2 from Meta) for providing the services of Toddle AI.
-
-2.2. Except for the Users of Toddle Connect module, No Personally Identifiable Information (PII) is shared with the LLMs. This is implemented through pseudonymization of data. The Service Provider will take all practicable measures to pseudonymize any data shared with the LLMs.
-
-2.2.1. Personally identifiable information that we share for Toddle Connect include First Name, Last Name and Role of the user.
-
-### **3\. Toddle AI Fair Usage Policy**
-
-This Fair Usage Policy (the “Policy”) outlines the guidelines and expectations for the usage of Toddle AI by the Subscriber. To ensure an equitable and efficient experience for all users, this Policy is a part of the contract between the Service Provider and the Subscriber.
-
-****Usage Guidelines****
-
-**1.** **Usage for educational purposes:** Toddle AI is intended to be used for educational purposes. The Users agree that they will use Toddle AI for educational purposes only.
-
-**2\. Reasonable Usage:** The Subscriber should make all practicable efforts to ensure that the Users make reasonable use of Toddle AI to improve teaching efficiency. Excessive or abusive usage is prohibited.
-
-**3\. User Accounts:** Users will have Toddle AI enabled for their unique Toddle account across the subscribed curriculum or programme. Sharing accounts or login credentials is not allowed and may result in restricted access.
-
-**4\. Data Security:** Users are responsible for maintaining the security of their accounts and passwords. Any unauthorized access should be reported immediately.
-
-**5.Prohibited Activities:** The following activities are strictly prohibited and may lead to suspension or termination of access:
-
-* Misusing the AI features for malicious purposes
-* Attempting to reverse-engineer or manipulate the AI algorithms
-* Uploading inappropriate, offensive, or copyrighted content
-
-**6\. System Integrity:** Users should refrain from any action that might compromise the integrity of the Toddle AI system or its infrastructure.
-
-### **4\. Usage Monitoring and Enforcement**
-
-**4.1. Usage Monitoring:** Service Provider reserves the right to monitor usage patterns to ensure compliance with this Policy.
-
-**4.2. Suspension or Termination:** To ensure optimal performance and fair usage across all Toddle AI users, your access to AI features can be reduced depending on your usage.
-
-### **5\.  Updates to the Policy**
-
-Service Provider reserves the right to update or modify this Fair Usage Policy as needed. Subscriber will be notified of any changes and will be expected to comply with the updated version.
-
-### Cookie Policy
-
-We use Cookies and other similar services (such as Local Storage) to keep you logged in to Toddle, customize your Toddle experience, understand how you use Toddle, and promote Toddle to relevant teachers and schools. You can remove or disable cookies via your browser settings, in which case your experience with Toddle will not be optimal.
+You can remove or disable cookies via your browser settings, in which case your experience with Toddle will not be optimal.
 
 ### Abandoned accounts
 
@@ -379,7 +337,7 @@ We value and protect your privacy
 
 ![CCPA logo](/wp-content/uploads/2024/06/ccpa.webp)
 
-![](/wp-content/uploads/2024/06/safer-techno.webp)
+[![](/wp-content/uploads/2024/06/safer-techno.webp)](https://www.toddleapp.com/australianprivacyprinciples/)
 
 [Visit Privacy Center ![](https://www.toddleapp.com/wp-content/uploads/2021/08/RightArrowOutlined-1.png)](https://www.toddleapp.com/pc/) 
 
