@@ -4,7 +4,7 @@
 
 [YouTube Help](https://support.google.com/youtube)
 
-[](https://www.google.co.uk/intl/en/about/products?tab=uh)
+[](https://www.google.com/intl/en/about/products?tab=uh)
 
 [Sign in](https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=http://support.google.com/youtube/answer/2814000%3Fp%3Dc_strike_basics%26hl%3Den&ec=GAZAdQ)
 
@@ -14,7 +14,7 @@
 
 [* Help Center](https://support.google.com/youtube/?hl=en)
 
-[* Fix a problem](https://support.google.com/youtube/topic/9257498?hl=en&ref_topic=3230811,3256124,)[* Watch videos](https://support.google.com/youtube/topic/9257500?hl=en&ref_topic=3230811,3256124,)[* Manage your account & settings](https://support.google.com/youtube/topic/9257107?hl=en&ref_topic=3230811,3256124,)[* Supervised experience on YouTube](https://support.google.com/youtube/topic/10314939?hl=en&ref_topic=3230811,3256124,)[* YouTube Premium](https://support.google.com/youtube/topic/9257430?hl=en&ref_topic=3230811,3256124,)[* Create & grow your channel](https://support.google.com/youtube/topic/9257610?hl=en&ref_topic=3230811,3256124,)[* Monetize with the YouTube Partner Program](https://support.google.com/youtube/topic/9257986?hl=en&ref_topic=3230811,3256124,)[* Policy, safety, & copyright](https://support.google.com/youtube/topic/6151248?hl=en&ref_topic=3230811,3256124,)
+[* Fix a problem](https://support.google.com/youtube/topic/9257498?hl=en&ref_topic=3230811,3256124,)[* Watch videos](https://support.google.com/youtube/topic/9257500?hl=en&ref_topic=3230811,3256124,)[* Manage your account & settings](https://support.google.com/youtube/topic/9257107?hl=en&ref_topic=3230811,3256124,)[* Supervised experiences on YouTube](https://support.google.com/youtube/topic/10314939?hl=en&ref_topic=3230811,3256124,)[* YouTube Premium](https://support.google.com/youtube/topic/9257430?hl=en&ref_topic=3230811,3256124,)[* Create & grow your channel](https://support.google.com/youtube/topic/9257610?hl=en&ref_topic=3230811,3256124,)[* Monetize with the YouTube Partner Program](https://support.google.com/youtube/topic/9257986?hl=en&ref_topic=3230811,3256124,)[* Policy, safety, & copyright](https://support.google.com/youtube/topic/6151248?hl=en&ref_topic=3230811,3256124,)
 
 [* Community](https://support.google.com/youtube/community?hl=en&help_center_link=[2814000,%22Copyright%20strike%20basics%22])[* YouTube](https://www.youtube.com/)
 
@@ -46,7 +46,10 @@ Next
     
     [Sign up and manage your account](https://support.google.com/youtube/topic/9267757?hl=en&ref_topic=9257107,3230811,3256124,)[Manage account settings](https://support.google.com/youtube/topic/9257108?hl=en&ref_topic=9257107,3230811,3256124,)[Manage privacy settings](https://support.google.com/youtube/topic/9257518?hl=en&ref_topic=9257107,3230811,3256124,)[Manage accessibility settings](https://support.google.com/youtube/topic/9257112?hl=en&ref_topic=9257107,3230811,3256124,)[Troubleshoot account issues](https://support.google.com/youtube/topic/3024171?hl=en&ref_topic=9257107,3230811,3256124,)[YouTube updates](https://support.google.com/youtube/topic/13401752?hl=en&ref_topic=9257107,3230811,3256124,)
     
-* [Supervised experience on YouTube](https://support.google.com/youtube/topic/10314939?hl=en&ref_topic=3230811,3256124,)
+* Supervised experiences on YouTube
+    
+    [Supervised experiences for pre-teens](https://support.google.com/youtube/topic/15279060?hl=en&ref_topic=10314939,3230811,3256124,)[Supervised experiences for teens](https://support.google.com/youtube/topic/15279671?hl=en&ref_topic=10314939,3230811,3256124,)
+    
 * YouTube Premium
     
     [Join YouTube Premium](https://support.google.com/youtube/topic/12155486?hl=en&ref_topic=9257430,3230811,3256124,)[Learn about YouTube Premium benefits](https://support.google.com/youtube/topic/9257431?hl=en&ref_topic=9257430,3230811,3256124,)[Manage your Premium membership](https://support.google.com/youtube/topic/9257116?hl=en&ref_topic=9257430,3230811,3256124,)[Manage Premium billing](https://support.google.com/youtube/topic/9516474?hl=en&ref_topic=9257430,3230811,3256124,)[Fix YouTube Premium membership issues](https://support.google.com/youtube/topic/9257117?hl=en&ref_topic=9257430,3230811,3256124,)[Troubleshoot billing & charge issues](https://support.google.com/youtube/topic/9995067?hl=en&ref_topic=9257430,3230811,3256124,)[Request a refund for YouTube paid products](https://support.google.com/youtube/topic/12013284?hl=en&ref_topic=9257430,3230811,3256124,)[YouTube Premium updates & promotions](https://support.google.com/youtube/topic/13400958?hl=en&ref_topic=9257430,3230811,3256124,)
@@ -85,7 +88,7 @@ What happens when you get a copyright strike
 
 We all make mistakes. The first time you get a copyright strike, you’ll need to go through Copyright School. Copyright School helps creators understand copyright principles and how they’re enforced on YouTube. Copyright School consists of four short multiple choice questions. [Watch this video](https://www.youtube.com/watch?v=InzDjH1-9Ns) for more info on our Copyright policies.
 
-**Tip**: Watch [this video](https://www.youtube.com/watch?v=InzDjH1-9Ns) for more info on our Copyright policies.
+**Tip:** Watch [this video](https://www.youtube.com/watch?v=InzDjH1-9Ns) for more info on our Copyright policies.
 
 If your active live stream is removed for copyright, your access to live streaming will be restricted for 7 days.
 
@@ -97,13 +100,15 @@ If you get 3 copyright strikes:
 
 Courtesy Period
 
-If your channel is part of the YouTube Partner Program, you're eligible for a 7 day courtesy period. After 3 copyright strikes, you'll have 7 additional days to act before your channel is disabled. During this period, your copyright strikes won’t expire and you can't upload new videos. Your channel will remain live and you can access it to seek a resolution for your strikes. If you submit a counter notification, your channel won't be disabled while the counter notification is unresolved. If the counter notification is resolved in your favor, or the claim is retracted, your channel won't be impacted.
+If your channel is part of the YouTube Partner Program, you're eligible for a 7 day courtesy period. After 3 copyright strikes, you'll have 7 additional days to act before your channel is removed. During this period, your copyright strikes won’t expire and you can't upload new videos. Your channel will remain live and you can access it to seek a resolution for your strikes.  
+  
+If you submit enough counter notifications to bring your strike count under 3, and those counter notifications are forwarded to the claimant, your channel’s removal will be on hold until the final outcome of the counter notifications, and your upload ability will be restored. If the counter notification is resolved in your favor, or your strikes are resolved by retraction, your channel won't be removed.
 
 How to get info about your strike
 
 1. Sign in to [YouTube Studio](http://studio.youtube.com/).
-2. From the left menu, click **Content** ![](//lh3.googleusercontent.com/fqJ4T-KBHjW7EvgvxUdbUqsQ2IfjbnZxtqtfav2U81ZxNkg2gPKjOpi7UX0sqUD0puw=h36).
-3. Click the filter bar ![](//lh3.googleusercontent.com/aaAQPm4xZoEmwh9IM2DxSne_mpp3DPxtGX8T5vRSAz0IyIzMOW1rx31UB73HJS6JeDo=w48-h48)![and then](//lh3.googleusercontent.com/QbWcYKta5vh_4-OgUeFmK-JOB0YgLLoGh69P478nE6mKdfpWQniiBabjF7FVoCVXI0g=h36) **Copyright**.
+2. From the left menu, click **Content** ![](//lh3.googleusercontent.com/fqJ4T-KBHjW7EvgvxUdbUqsQ2IfjbnZxtqtfav2U81ZxNkg2gPKjOpi7UX0sqUD0puw=h36).
+3. Click the filter bar ![](//lh3.googleusercontent.com/aaAQPm4xZoEmwh9IM2DxSne_mpp3DPxtGX8T5vRSAz0IyIzMOW1rx31UB73HJS6JeDo=w48-h48)![and then](//lh3.googleusercontent.com/QbWcYKta5vh_4-OgUeFmK-JOB0YgLLoGh69P478nE6mKdfpWQniiBabjF7FVoCVXI0g=h36) **Copyright**.
 4. In the **Restrictions** column, hover over **Copyright**.
 5. Click **SEE** **DETAILS**.
 
@@ -111,9 +116,11 @@ Resolve a copyright strike
 
 There are three ways to resolve a copyright strike:
 
-1. **Wait for it to expire:** Copyright strikes expire after 90 days. If it's your first strike, you'll need to complete [Copyright School](http://www.youtube.com/copyright_school).
+1. **Wait for it to expire:** Copyright strikes expire after 90 days. If it's your first strike, you'll need to complete [Copyright School](http://www.youtube.com/copyright_school).
 2. **Get a retraction:** You can get in touch with the person who claimed your video and ask them to [retract](http://www.youtube.com/yt/copyright/retractions.html) their claim of copyright infringement.
-3. **Submit a counter notification:** If you think your video was removed by mistake, or qualifies as fair use, you can submit a [counter notification](https://support.google.com/youtube/answer/2807684).
+3. **Submit a counter notification:** If you think your video was removed by mistake, or qualifies as fair use, you can submit a [counter notification](https://support.google.com/youtube/answer/2807684).
+
+Protect your account from phishing attempts. We send YouTube copyright strike notifications only from [no-reply@youtube.com](mailto:no-reply@youtube.com). Learn more about how to [keep your account secure and stay safe online](https://support.google.com/youtube/answer/2802848).
 
 Watch to learn more
 -------------------
@@ -172,7 +179,7 @@ true
 * [Privacy Policy](https://www.google.com/intl/en/privacy.html)
 * [YouTube Terms of Service](http://youtube.com/t/terms)
 
-Afrikaans‎azərbaycan‎català‎dansk‎Deutsch‎eesti‎English (United Kingdom)‎español‎español (Latinoamérica)‎Filipino‎français‎Hausa‎hrvatski‎Indonesia‎isiZulu‎italiano‎Kiswahili‎latviešu‎lietuvių‎magyar‎Nederlands‎norsk‎polski‎português‎português (Brasil)‎română‎slovenčina‎slovenščina‎suomi‎svenska‎Tiếng Việt‎Türkçe‎íslenska‎čeština‎Ελληνικά‎български‎русский‎српски‎українська‎қазақ тілі‎‏עברית‏اردو‏العربيةनेपाली‎मराठी‎हिन्दी‎অসমীয়া‎বাংলা‎ਪੰਜਾਬੀ‎ગુજરાતી‎ଓଡ଼ିଆ‎தமிழ்‎తెలుగు‎ಕನ್ನಡ‎മലയാളം‎සිංහල‎ไทย‎ລາວ‎ქართული‎አማርኛ‎ខ្មែរ‎中文（简体）‎中文（繁體）‎日本語‎한국어‎ English‎
+Language Afrikaans‎azərbaycan‎català‎dansk‎Deutsch‎eesti‎English (United Kingdom)‎español‎español (Latinoamérica)‎Filipino‎français‎Hausa‎hrvatski‎Indonesia‎isiZulu‎italiano‎Kiswahili‎latviešu‎lietuvių‎magyar‎Nederlands‎norsk‎polski‎português‎português (Brasil)‎română‎slovenčina‎slovenščina‎suomi‎svenska‎Tiếng Việt‎Türkçe‎íslenska‎čeština‎Ελληνικά‎български‎русский‎српски‎українська‎қазақ тілі‎‏עברית‏اردو‏العربيةनेपाली‎मराठी‎हिन्दी‎অসমীয়া‎বাংলা‎ਪੰਜਾਬੀ‎ગુજરાતી‎ଓଡ଼ିଆ‎தமிழ்‎తెలుగు‎ಕನ್ನಡ‎മലയാളം‎සිංහල‎ไทย‎ລາວ‎ქართული‎አማርኛ‎ខ្មែរ‎中文（简体）‎中文（繁體）‎日本語‎한국어‎ English‎
 
 Enable Dark Mode
 
@@ -190,7 +197,7 @@ Google apps
 
 Main menu
 
-8494850932055560191
+1221539125040693181
 
 true
 
