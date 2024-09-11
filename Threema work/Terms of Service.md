@@ -1,5 +1,5 @@
-[![Threema](/images/logo.svg)](https://work.threema.ch/en "Home")
-=================================================================
+[![Threema](/images/logo_icon.svg)](https://work.threema.ch/en "Home")
+======================================================================
 
 * [Log in](https://work.threema.ch/en/login)
 * [Register](https://work.threema.ch/en/register)
@@ -159,4 +159,4 @@ Made in Switzerland. © 2024 Threema GmbH
 * [Terms of Service](https://work.threema.ch/en/terms-of-service)
 * [Privacy Policy](https://work.threema.ch/en/privacy)
 
-[English](https://work.threema.ch/en/terms-of-service)[Deutsch](https://work.threema.ch/de/nutzungsbedingungen)
+[English](https://work.threema.ch/en/terms-of-service)[Español](https://work.threema.ch/es/condiciones-de-uso)[Deutsch](https://work.threema.ch/de/nutzungsbedingungen)
