@@ -4,33 +4,31 @@
 
 [SUBSCRIBE](https://toomics.com/en) [STORE _New_](https://toomics.com/en/age_verification?alt=1&return_url=L2VuL3N0b3Jl&cancel_return=L2VuL2hlbHAvcHJpdmF0ZV90ZXJtcw~~)
 
-* [Weekly](https://toomics.com/en/webtoon/ongoing_all)
 * [Genres](https://toomics.com/en/webtoon/ranking)
-* [New](https://toomics.com/en/age_verification?alt=1&return_url=L2VuL3dlYnRvb24vbmV3X2NvbWljcw~~&cancel_return=L2VuL3dlYnRvb24vbmV3X2NvbWljcw~~)
-* [My Library](https://toomics.com/en/webtoon/recent)
-\`
+* [Weekly](https://toomics.com/en/webtoon/ongoing_all)
+* [Upcoming](https://toomics.com/en/age_verification?alt=1&return_url=L2VuL3dlYnRvb24vbmV3X2NvbWljcw~~&cancel_return=L2VuL3dlYnRvb24vbmV3X2NvbWljcw~~)
 
-[Family Safe](https://toomics.com/en/help/private_terms)[Search](https://toomics.com/en/webtoon/search) [_Gift Box_](javascript:;)
+[Family Safe](https://toomics.com/en/help/private_terms)[Search](https://toomics.com/en/webtoon/search "Search") [_Gift Box_](javascript:;) [_My Library_](https://toomics.com/en/webtoon/recent "My Library")
 
-dropdown menu
+[Family Safe](https://toomics.com/en/help/private_terms)_Close_
 
-![drawer close](/assets/svg/close.svg)[Family Safe](https://toomics.com/en/help/private_terms)
-
-Read a variety of awesome comics!
+Become a member now and enjoy 50,000+ episodes!
 
 Sign in
 
-* [_Language_
-    
-    English](javascript:;)
+* [_My Library_](https://toomics.com/en/webtoon/recent)
+* [_Pick Your Genres!_](javascript:;)
 * [_Gender_
     
     Unknown](javascript:;)
-* [_Pick your genre!_](javascript:;)
-* [_My Library_](https://toomics.com/en/webtoon/recent)
+* [_Language_
+    
+    English](javascript:;)
 * [_Customer Service_](https://toomics.com/en/help/notice_list)
 
-#### Choose Language
+dropdown menu
+
+#### Language
 
 English
 
@@ -52,9 +50,9 @@ Français
 
 日本語
 
-Cancel OK
+Close OK
 
-#### Choose Gender
+#### Gender
 
 Male
 
@@ -62,7 +60,7 @@ Female
 
 Unknown
 
-Cancel OK
+Close OK
 
 #### VIP Membership reactivated
 
@@ -74,7 +72,7 @@ You can cancel your VIP Membership again at any time after 2 weeks.
 
 OK
 
-#### Coin info
+#### My Coins
 
 Web Coins
 
@@ -92,7 +90,46 @@ Gift Coins
 
 0
 
-Purchase Coins Close
+Close [Purchase Coins](https://toomics.com/en/mypage/payment/type/payment-plan)
+
+#### Pick Your Genres!
+
+##### Tell us what you like!
+
+You can change your favorite genres again later.
+
+Are you over 18?
+
+* * *
+
+ Select All
+
+* Drama
+    
+* Romance
+    
+* School life
+    
+* Comedy
+    
+* Fantasy
+    
+* Action
+    
+* BL
+    
+* Horror
+    
+* Thriller
+    
+* Sci-fi
+    
+* Historical
+    
+
+Choose three or more of your favorite genres!
+
+Cancel OK
 
 Customer Service
 ================
@@ -111,7 +148,7 @@ Privacy Policy
 
 **Privacy Policy**
 
-Toomics Co., Ltd and Toomics Global UK Limited (hereinafter “Toomics”, “the company”, “we”, “us”, “our”) values your privacy rights and protects the personal information collected, stored, and used in connection with Toomics Service(“Service”). Hence, we developed a Privacy Policy that covers how we collect, store and use your information.
+Toomics Co., Ltd and Toomics Global UK Limited (hereinafter “Toomics”, “the company”, “we”, “us”, “our”) values your privacy rights and protects the personal information collected, stored, and used in connection with Toomics Service(“Service”). Hence, we developed a Privacy Policy that covers how we collect, store and use your information.
 
 What & How We Collect Information
 
@@ -200,23 +237,19 @@ We will take appropriate measures to resolve any issue, claim, or dispute betwee
 
 If the dispute between you and Toomics is not resolved, it will be submitted, commenced, and be heard in “Seoul District Court” of the Republic of Korea. The laws of the Republic of Korea will govern any dispute of any sort that might arise between you and Toomics, except for the case when the unresolved issue, claim, or dispute between you and Toomics related or connected to your payment processed by Checkout.com. In this case, the resolution of your issue, claim, or dispute will be governed by the laws of United Kingdom, and will be submitted, commenced, and heard in the court of United Kingdom.
 
-Contact Information Regarding Privacy Policy
-
-If you have any questions regarding the Privacy Policy, please e-mail us at en.help@toomicsglobal.com
-
 **Remove your data from Toomics**​
 
 If you want to delete all your personal data Toomics has stored on you, Please send a request email to en.help@toomicsglobal.com including your name, email address and phone number.
 
-We will respond promptly within 7 days of receiving your request for deletion of personal data.  
+We will respond promptly within 7 days of receiving your request for deletion of personal data. 
+
+Contact Information Regarding Privacy Policy
+
+If you have any questions regarding the Privacy Policy, please e-mail us at en.help@toomicsglobal.com 
 
 Provision
 
-**These Terms were last modified on Sep 28, 2019** 
-
-* * *
-
-OK
+**These Terms were last modified on Sep 28, 2021** 
 
 **We value your privacy at Toomics Global.** Close
 
@@ -253,8 +286,6 @@ Toomics Global Co.,Ltd. | E-mail : en.help@toomicsglobal.com
     Instagram](https://www.instagram.com/toomics.en/)
 
         
-
-One more step to **40% Discount**
 
 * Sign in
 * Sign up
