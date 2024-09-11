@@ -1,6 +1,6 @@
 ![](https://www.facebook.com/tr?id=781049163457265&ev=PageView&noscript=1)        
 
-           
+            
 
 [Skip to content](#MainContent)
 
@@ -144,7 +144,7 @@ Milk Powder
 
 ### [Goat Milk Powder | Pure & Natural | 200g](https://aadvikfoods.com/products/goat-milk-powder)
 
-Rs. 1,200.00Rs. 1,176.00
+Rs. 1,299.00Rs. 1,262.00
 
 Buy Now
 
@@ -152,7 +152,7 @@ Buy Now
 
 ### [Camel Milk Powder | Pure & Natural](https://aadvikfoods.com/products/camel-milk-powder?variant=42579809698032)
 
-Rs. 1,250.00Rs. 1,225.00
+Rs. 1,349.00Rs. 1,312.00
 
 Buy Now
 
@@ -177,7 +177,7 @@ Sale Off
 
 ### [Camel Milk Chocolate | Classic । 70g](https://aadvikfoods.com/products/camel-milk-chocolates)
 
-Rs. 249.00Rs. 224.00
+Rs. 299.00Rs. 290.00
 
 Add To Cart
 
@@ -218,7 +218,7 @@ Soap
 
 ### [Goat Milk Soap |100g | Orange and Lemon](https://aadvikfoods.com/products/goat-milk-soap-orange-lemon)
 
-Rs. 120.00Rs. 118.00
+Rs. 149.00Rs. 124.00
 
 Buy Now
 
@@ -226,7 +226,7 @@ Buy Now
 
 ### [Camel Milk Soap । Neem & Tulsi | 100gm](https://aadvikfoods.com/products/camel-milk-soap-neem-tulsi)
 
-Rs. 120.00Rs. 118.00
+Rs. 149.00Rs. 124.00
 
 Buy Now
 
@@ -234,7 +234,7 @@ Buy Now
 
 ### [Camel Milk Soap । With Charcoal Patchouli Oil | 100gm](https://aadvikfoods.com/products/camel-milk-soap-charcoal-patchouli)
 
-Rs. 120.00Rs. 118.00
+Rs. 149.00Rs. 124.00
 
 Buy Now
 
