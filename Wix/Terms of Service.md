@@ -42,7 +42,7 @@
     
     ESSENTIALS
     
-    * [Domain names](https://www.wix.com/domain/names)
+    * [Domain names](https://www.wix.com/domains)
         
         Buy & register a domain for your website.
         
@@ -213,7 +213,7 @@ By visiting our website or using our application and/or services, you are enteri
 
 bottom of page
 
-                                      
+                                         
 
 Product
 
@@ -223,7 +223,7 @@ Product
 * [Wix Features](https://www.wix.com/features/main)
 * [App Market](https://www.wix.com/app-market)
 * [Web Hosting](https://www.wix.com/free/web-hosting)
-* [Domain Names](https://www.wix.com/domain/names)
+* [Domain Names](https://www.wix.com/domains)
 * [Website Accessibility](https://www.wix.com/accessibility)
 * [Mobile App Builder](https://www.wix.com/app-builder)
 
