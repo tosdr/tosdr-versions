@@ -1,5 +1,3 @@
-Summer Closure:  Please note that our office will close on July 22nd for summer break.  All systems will be offline starting July 29th.  The office and all online systems will re-open again on August 6th.
-
 * [Admissions](https://schoolathome.ca/admissions/)
 * [Community](https://schoolathome.ca/community/)
 * [About](https://schoolathome.ca/about/)
@@ -86,10 +84,7 @@ TLA Office
 **103 – 17688 66 Ave  
 Surrey BC V3S 7X1       
 
-**Hawthorne**
-
-**Closed for the summer:  June 7 – September 2, 2024**
-
+**Hawthorne**  
 5741 176 Street  
 Surrey BC V3S 4C9
 
@@ -115,7 +110,7 @@ Mon-Thurs:
 
 Fri:
 
-Main Office Closed, Hawthorne 8:00am - 3:00pm
+Closed (phones open 8:00am-3:00pm)
 
 Sat-Sun:
 
