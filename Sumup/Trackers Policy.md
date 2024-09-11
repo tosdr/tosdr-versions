@@ -6,29 +6,39 @@
 Cookies, Web Beacons, and Similar Technologies
 ==============================================
 
-Last Updated: May 7, 2020
+This policy was last updated on Apr 10, 2024.
 
-This Cookie Policy (“**Cookie Policy**”) describes how SumUp, Inc. and our U.S. affiliates and subsidiaries (collectively, “**SumUp**,” “**us**,” “**we**,” or “**our**”), our service providers and our third party partners use cookies, web beacons, and other similar technologies in connection with our website at www.sumup.com and any other websites or digital properties that we operate and that post a link to this Cookie Policy (collectively, the “**Site**”), our mobile applications (collectively, the “**App**”), and our services, tools, and messaging (together with the Site and the App, the “**Services**”).
+When you visit or interact with our sites, services, applications, tools or messaging, we or our authorized service providers may use cookies, web beacons, and other similar technologies for storing information to help provide you with a better, faster, and safer experience and for advertising purposes.
+
+This page is designed to help you understand more about these technologies and our use of them on our sites and in our services, applications, and tools. Below is a summary of a few key things you should know about our use of such technologies.
 
 **What are cookies, web beacons, and similar technologies?**
+------------------------------------------------------------
 
-**Cookies** – Small text files (typically made up of letters and numbers) that websites store on a visitor’s device to uniquely identify the visitor’s browser or to store information or settings in the browser.  Cookies serve a variety of functions, like enabling us to remember certain information you provide to us as you navigate between pages on the Site.  There are several types of cookies:
+Like most sites, we use technologies that are essentially small data files placed on your computer, tablet, mobile phone, or other devices (referred to collectively as a “device”) that allow us to record certain pieces of information whenever you visit or interact with our sites, services, applications, messaging, and tools.
 
-Session cookies expire at the end of your browser session and allow us to link your actions during that particular browser session. Persistent cookies are stored on your device in between browser sessions, allowing us to remember your preferences or actions across multiple sites. First-party cookies are set by the site you are visiting. Third-party cookies are set by a third party site separate from the site you are visiting. 
+The specific names and types of the cookies, web beacons, and other similar technologies we use may change from time to time. In order to help you better understand this Policy and our use of such technologies we have provided the following limited terminology and definitions:
 
-**Web beacons** – Small graphic images (also known as “pixel tags” or “clear GIFs”) that are typically used to demonstrate that a webpage or email was accessed or opened, or that certain content was viewed or clicked.  We may use web beacons on the Services to compile statistics about usage of websites and the success of our marketing campaigns. 
+Cookies – Small text files (typically made up of letters and numbers) placed in the memory of your browser or device when you visit a website or view a message. Cookies allow a website to recognise a particular device or browser.
 
-**Flash** **Cookies** – Technologies that store more information in your browser or device than cookies (also known as locally-stored objects), that are used on websites for purposes similar to cookies. 
+**There are several types of cookies:**
+---------------------------------------
 
-We may use the terms “cookies” or “similar technologies” interchangeably in our policies to refer to all technologies that we may use to store data in your browser or device or that facilitate our automatic collection of personal information or help us identify you in the manner described above.
+Session cookies expire at the end of your browser session and allow us to link your actions during that browser session.
 
-**Why do we use cookies, web beacons, and similar technologies?**
+Persistent cookies are stored on your device in between browser sessions, allowing us to remember your preferences or actions across multiple sites.
 
-Generally, we use these technologies for several reasons, such as letting you navigate between pages efficiently, remembering your preferences, remembering your username and password, enabling you to keep items in your shopping cart, letting us analyze how well our website is performing, and improving your experience.  Some cookies are required for technical reasons in order for our Services to operate.  Other cookies enable us and the third parties we work with to track and target the interests of visitors to our Site.  For example, we use cookies to tailor content and information that we may send or display to you and otherwise personalize your experience while interacting with our Services and to otherwise improve the functionality of the Services.  Finally, third parties serve cookies through our Services for advertising, analytics, and other purposes.  This is described in more detail below.  
+First-party cookies are set by the site you are visiting.
 
-**What cookies do we use?**
+Third-party cookies are set by a third-party site separate from the site you are visiting.
 
-**Essential**. These cookies are necessary to the operation of our Services and to use certain features, such as technologies that allow you access to our Services, identify irregular site behavior, prevent fraudulent activity and improve security, or that allow you to make use of our functions such as shopping carts, saved search, or similar functions.  Because these cookies are strictly necessary to deliver the Services, you cannot refuse them without impacting how our Services function.  You may be able to block or delete essential cookies by changing your browser settings.
+Cookies can be disabled or removed by tools that are available in most commercial browsers. The preferences for each browser you use will need to be set separately and different browsers offer different functionality and options.
+
+Web beacons – Small graphic images (also known as “pixel tags” or “clear GIFs”) that may be included on our sites, services, applications, messaging, and tools, that typically work in conjunction with cookies to identify our users and user behavior.
+
+Other Similar technologies – Technologies that store information in your browser or device utilizing local shared objects or local storage, such as flash cookies, HTML 5 cookies, and other web application software methods. These technologies can operate across all your browsers, and in some instances may not be fully managed by your browser and may require management directly through your installed applications or device. We do not use these technologies for storing information to target advertising to you on or off our sites. 
+
+We may use the terms “cookies” or “similar technologies” interchangeably in our policies to refer to all technologies that we may use to store data in your browser or device or that collect information or help us identify you in the manner described above.
 
 #### **Cookies**
 
@@ -48,11 +58,7 @@ Hotjar
 
 GA Audiences
 
-New Relic
-
-**Advertising or Targeting Related**. We may use first-party or third-party cookies and web beacons to deliver content, including ads relevant to your interests, on our Service or on third party sites. This includes using technologies to understand the usefulness to you of the advertisements and content that have been delivered to you, such as whether you have clicked on an advertisement.
-
-#### **Cookies**
+New Relic **Advertising or Targeting Related**. We may use first-party or third-party cookies and web beacons to deliver content, including ads relevant to your interests, on our Service or on third party sites. This includes using technologies to understand the usefulness to you of the advertisements and content that have been delivered to you, such as whether you have clicked on an advertisement. **Cookies**
 
 Facebook
 
@@ -63,6 +69,8 @@ DoubleClick
 Microsoft Bing
 
 Taboola
+
+The Trade Desk
 
 Twitter
 
@@ -76,7 +84,7 @@ LinkedIn
 
 **Social Media**. We may use cookies, web beacons, or other similar technologies when you share information using a social media sharing button or “like” button on the Services or engage with our content on or through a social networking site such as Facebook, Twitter, or Instagram.  The social network will record that you have done this.  This information may be linked to targeting/ advertising activities.
 
-#### **Cookies**
+**Cookies**
 
 Facebook Connect
 
@@ -92,11 +100,24 @@ We may use third parties, such as advertising networks and exchanges, to allow u
 
 Most advertising networks offer you a way to opt out of Interest Based Advertising. You can obtain more information about these companies' information collection practices and opt-out of receiving interest-based advertising from partners that are subject to the Self-Regulatory Principles for Online Behavioral Advertising published by the Digital Advertising Alliance or that participate in the Network Advertising Initiative. You can also limit collection of your information for interest-based ads by blocking third party cookies in your browser settings or using privacy plug-ins or ad blocking software that help you block third party cookies. In addition, your mobile device settings may provide functionality to limit use of the advertising ID associated with your mobile device for targeted online advertising purposes. If you opt-out of interest-based advertisements, you will still see advertisements online but they may be less relevant to you. Please note that we also may work with companies that offer their own opt-out mechanisms or do not participate in the opt-out mechanisms described above. Even after using these opt-out mechanisms, you may receive interest-based advertising from other companies.
 
-**Cookie Policy Updates** 
+About this policy
+-----------------
 
-We may update this Cookie Policy from time to time in order to reflect, for example, changes to the cookies we use or for other operational, legal, or regulatory reasons.  Please re-visit this Cookie Policy regularly to stay informed about our use of cookies and related technologies.  The date at the top of this Cookie Policy indicates when it was last updated.
+1\. We may amend the Cookie policy from time to time, in whole or in part, at our discretion. The latest version of this document will always be available at our website and will take effect on the date that it is updated.
+
+2\. The English language version of this Privacy Policy shall be binding. Any translation or other language version of this Privacy Policy shall be provided for convenience only. In the event of a conflict between the English version and any translation or other language version of this Privacy Policy, the English-language version shall prevail. You can refer to the English language version of the policy here.
+
+Do not sell my personal information
+-----------------------------------
+
+If you are a resident of California, you can exercise your right to opt out of the sale of personal information by clicking on the ‘Do Not Sell’ button below.
+
+Do Not  Sell
+
+If you have queries, please contact [\[email protected\]](https://www.sumup.com/cdn-cgi/l/email-protection)
 
 **Contact Us**
+--------------
 
 If you have any questions about our use of cookies or other technologies, please email us at [\[email protected\]](https://www.sumup.com/cdn-cgi/l/email-protection).
 
