@@ -94,12 +94,12 @@ Hide Main Navigation Menu
 
 ### Featured
 
-* [![](https://www.unc.edu/wp-content/uploads/2024/07/24-7570-UCM-Brain-Chip-Header-250x141.jpg)
+* [![](https://www.unc.edu/wp-content/uploads/2024/09/LambethWinners-250x141.jpg)
     
-    Brain circuits offer placebo effect pain relief](https://www.unc.edu/posts/2024/07/31/brain-circuits-offer-placebo-effect-pain-relief/)
-* [![](https://www.unc.edu/wp-content/uploads/2024/07/springthumbupdate-250x141.jpg)
+    5 faculty named Lambeth Distinguished Chairs in Public Policy](https://www.unc.edu/posts/2024/09/10/5-faculty-named-lambeth-distinguished-chairs-in-public-policy/)
+* [![](https://www.unc.edu/wp-content/uploads/2023/08/AlertCarolina-250x141.jpg)
     
-    Video: Reminisce on a buzzing campus](https://www.unc.edu/posts/2024/07/31/video-reminisce-on-a-buzzing-campus/)
+    Alert Carolina sirens test to be held Sept. 12](https://www.unc.edu/posts/2024/09/10/alert-carolina-sirens-test-to-be-held-sept-12-2/)
 
 About the University
 
@@ -477,7 +477,7 @@ Please contact [privacy@unc.edu](mailto:privacy@unc.edu) for more information on
 
  [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?mini=true&url=%url%&title=%title%)
 
- [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=8f5dd0f7f1&text=%prefix%%text%%suffix%&post_id=69&type=%type%)
+ [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=2b79659cc7&text=%prefix%%text%%suffix%&post_id=61&type=%type%)
 
 ### Share on Mastodon
 
