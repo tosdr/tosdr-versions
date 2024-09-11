@@ -16,6 +16,14 @@
 * [Subscribe](https://www.thesheridanpress.com/subscribe)
 * [Manage Service](https://www.thesheridanpress.com/users/admin/service/)
 
+Home
+
+* [About Us](https://www.thesheridanpress.com/site/about.html)
+* [Contact Us](https://www.thesheridanpress.com/site/contact.html)
+* [Work with us](https://www.thesheridanpress.com/site/work_with_us.html)
+* [Advertise](https://www.thesheridanpress.com/advertise/)
+* [Subscribe](https://www.thesheridanpress.com/subscribe/)
+
 [News](https://www.thesheridanpress.com/news)
 
 * [Local News](https://www.thesheridanpress.com/news/local)
@@ -69,8 +77,8 @@
 * [Contact Us](https://www.thesheridanpress.com/site/contact.html)
 * [Work with us](https://www.thesheridanpress.com/site/work_with_us.html)
 * [Subscribe](https://www.thesheridanpress.com/subscribe/)
-* [Advertise](https://www.thesheridanpress.com/site/advertise.html/)
 * [e-Edition](https://www.thesheridanpress.com/eedition)
+* [Advertise](https://www.thesheridanpress.com/advertise/)
 
 * [Facebook](https://www.facebook.com/thesheridanpress/ "Facebook")
 * [Twitter](https://twitter.com/sheridan_press/ "Twitter")
@@ -96,34 +104,10 @@
 
 [![site-logo](https://bloximages.newyork1.vip.townnews.com/thesheridanpress.com/content/tncms/custom/image/95cd45de-f056-11ee-9067-1fb0199d8361.png?resize=200%2C34)](https://www.thesheridanpress.com/)
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAQAAAAe/WZNAAAAEElEQVR42mM8U88ABowYDABAxQPltt5zqAAAAABJRU5ErkJggg==)
+[**Take Our Community Survey Today!**](https://thesheridanpress.secondstreetapp.com/The-Sheridan-Press-Community-Survey-2024/)
+------------------------------------------------------------------------------------------------------------------------------
 
-#### [Today's Weather](https://www.thesheridanpress.com/weather/)
-
-##### Right Now
-
-74°
-
-Sunny
-
-* Humidity: 34%
-* Cloud Coverage: 25%
-* Wind: 10 mph
-* UV Index: 8 Very High
-* Sunrise: 05:22:19 AM
-* Sunset: 08:52:17 PM
-
-### Today
-
-Mostly sunny. A stray shower or thunderstorm is possible. High 82F. E winds shifting to NNW at 10 to 15 mph.
-
-### Tonight
-
-Partly cloudy skies. Low 51F. Winds NNW at 5 to 10 mph.
-
-### Tomorrow
-
-Partly cloudy skies. High 82F. Winds NE at 5 to 10 mph.
+[Contact Us!](https://www.thesheridanpress.com/site/forms/)
 
 Toggle navigation
 
@@ -134,6 +118,12 @@ Toggle navigation
         Site search   Search
         
 
+* Home
+    * [About Us](https://www.thesheridanpress.com/site/about.html)
+    * [Contact Us](https://www.thesheridanpress.com/site/contact.html)
+    * [Work with us](https://www.thesheridanpress.com/site/work_with_us.html)
+    * [Advertise](https://www.thesheridanpress.com/advertise/)
+    * [Subscribe](https://www.thesheridanpress.com/subscribe/)
 * [News](https://www.thesheridanpress.com/news)
     * [Local News](https://www.thesheridanpress.com/news/local)
     * [Local Incident Reports](https://www.thesheridanpress.com/news/local-incident-reports/)
@@ -230,6 +220,7 @@ The Sheridan Press will not obtain personally-identifying information about you 
 * [Email Alerts](https://www.thesheridanpress.com/users/admin/mailinglist)
 * [Search](https://www.thesheridanpress.com/search)
 * [Weather](https://www.thesheridanpress.com/weather)
+* [Advertise](https://www.thesheridanpress.com/advertise/)
 
 [![site-logo](https://bloximages.newyork1.vip.townnews.com/thesheridanpress.com/content/tncms/assets/v3/media/f/1d/f1d7b3f8-f053-11ee-83a7-7f01830cde19/660af9f685705.image.png?resize=200%2C131)](https://www.thesheridanpress.com/)
 
@@ -238,6 +229,11 @@ The Sheridan Press will not obtain personally-identifying information about you 
 Sheridan, WY 82801  
 **Phone:** 307-672-2431  
 **Email:** [headlines@thesheridanpress.com](mailto:headlines@thesheridanpress.com)  
+
+**Newsroom:** [news@thesheridanpress.com](mailto:news@thesheridanpress.com)  
+**Marketing:** [marketing@thesheridanpress.com](mailto:marketing@thesheridanpress.com)  
+**Graphic Design:** [production@thesheridanpress.com](mailto:production@thesheridanpress.com)  
+**Circulation:** [circulation@thesheridanpress.com](mailto:circulation@thesheridanpress.com)  
 
 ×
 
@@ -384,7 +380,7 @@ Sign in with
 
  Google
 
-[Subscribe](javascript:void(0))
+[Admin login](https://www.thesheridanpress.com/tncms/auth/admin/) [Subscribe](javascript:void(0))
 
 [Need an account? Sign Up](javascript:void(0))
 
