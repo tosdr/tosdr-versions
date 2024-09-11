@@ -650,3 +650,9 @@ Analytical cookies are used to understand how visitors interact with the website
 | Teads Pixel |     | Teads pixel is placed by Teads to store and track visits across our website. |
 
 SAVE & ACCEPT
+
+![Outbrain + Teads Merge](https://www.teads.com/wp-content/uploads/2024/08/tiger-blog-card-768x337.png)
+
+Teads and Outbrain Merge To Form Leading Omnichannel Advertising Platform…
+
+[Learn more](https://www.teads.com/Teads-Outbrain-Merge/?mtm_campaign=teads-outbrain-merge-popup&mtm_source=popbanner)
