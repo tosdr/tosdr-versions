@@ -144,6 +144,6 @@ Quick Links
 
 [Terms of Sale](#/)[Part of the SHowit family](https://account.showit.com/r/sumo)
 
-[Plugins](https://sumo.com/plugins)[Login](https://sumome.com/login)
+[Plugins](https://sumo.com/plugins)[Login](https://sumome.com/login)[Affiliate Portal](https://bdow.firstpromoter.com/)
 
 [Features](https://sumo.com/features)[How It Works](https://sumo.com/how-it-works)[Pricing](https://sumo.com/pricing)[Blog](https://sumo.com/stories)[Login](https://sumome.com/login)[Plugins](https://sumo.com/#information)[](https://sumome.com/register)[Create free account](https://sumome.com/register)
