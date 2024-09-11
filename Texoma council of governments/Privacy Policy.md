@@ -173,45 +173,37 @@ Sherman, TX 75090
 Upcoming Events
 ---------------
 
-Aug 8
+Sep 12
 
-9:00 am - 1:00 pm
+4:00 pm - 5:30 pm [Event Series](https://tcog.com/series/audit-and-finance-committee/ "Event Series")
 
-### [FGP Monthly Inservice](https://tcog.com/event/fgp-monthly-inservice/2024-08-08/ "FGP Monthly Inservice")
-
-Sherman
-
-Aug 8
-
-12:00 pm - 1:00 pm
-
-### [TCOG City Series – Tapping the Funding Source for Water Infrastructure Needs](https://tcog.com/event/tcog-city-series-tapping-the-funding-source-for-water-infrastructure-needs/ "TCOG City Series – Tapping the Funding Source for Water Infrastructure Needs")
+### [Audit and Finance Committee](https://tcog.com/event/audit-and-finance-committee-2/2024-09-12/ "Audit and Finance Committee")
 
 Sherman
 
-Aug 8
+Sep 12
 
-3:00 pm - 4:30 pm [Event Series](https://tcog.com/series/audit-and-finance-committee/ "Event Series")
+5:30 pm - 6:00 pm [Event Series](https://tcog.com/series/executive-officers-committee/ "Event Series")
 
-### [Audit and Finance Committee](https://tcog.com/event/audit-and-finance-committee/2024-08-08/ "Audit and Finance Committee")
-
-Sherman
-
-Aug 8
-
-4:30 pm - 5:30 pm [Event Series](https://tcog.com/series/executive-officers-committee/ "Event Series")
-
-### [Executive Officers Committee](https://tcog.com/event/executive-officers-committee/2024-08-08/ "Executive Officers Committee")
+### [Executive Officers Committee](https://tcog.com/event/executive-officers-committee-2/2024-09-12/ "Executive Officers Committee")
 
 Sherman
 
-Aug 15
+Sep 19
 
 5:30 pm - 7:00 pm [Event Series](https://tcog.com/series/governing-board-meeting-2/ "Event Series")
 
-### [Governing Board Meeting](https://tcog.com/event/governing-board-meeting/2024-08-15/ "Governing Board Meeting")
+### [Governing Board Meeting](https://tcog.com/event/governing-board-meeting/2024-09-19/ "Governing Board Meeting")
 
 Sherman
+
+Oct 5
+
+8:00 am - 12:00 pm
+
+### [Household Hazardous Waste Collection Event](https://tcog.com/event/household-hazardous-waste-collection-event-4/ "Household Hazardous Waste Collection Event")
+
+Bonham
 
 [View Calendar](https://tcog.com/calendar/ "View more events.")
 
@@ -219,7 +211,7 @@ Sherman
 
 ##### The Public Information Act
 
-Texas Government Code, Chapter 552, gives you the right to access government records; and an officer for public information and the officer’s agent may not ask why you want them. All government information is presumed to be available to the public. Certain exceptions may apply to the disclosure of the information. Governmental bodies shall promptly release requested information that is not confidential by law, either constitutional, statutory, or by judicial decision, or information for which an exception to disclosure has not been sought.
+Texas Government Code, Chapter 552, gives you the right to access government records; and an officer for public information and the officer’s agent may not ask why you want them. All government information is presumed to be available to the public. Certain exceptions may apply to the disclosure of the information. Governmental bodies shall promptly release requested information that is not confidential by law, either constitutional, statutory, or by judicial decision, or information for which an exception to disclosure has not been sought. Texoma Council of Governments does not respond to anonymous requests.
 
 For additional information on the Public Information Act and how to submit Open Records Requests to Texoma Council of Governments, please follow the link below.
 
