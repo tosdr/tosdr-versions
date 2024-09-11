@@ -16,7 +16,7 @@
 
 [Support](https://www.netflixparty.com/support)
 
-[Join the Mobile Waitlist](https://redirect.teleparty.com/mobile-beta)
+[Join the Mobile Waitlist](https://www.teleparty.com/mobile-beta)
 
 Have a Question?
 ================
@@ -216,7 +216,7 @@ Hide or show the chat room by clicking on the **Tp** button again. The interface
 
 Is voice or video chat available?
 
-No, at this time, Teleparty only supports text-based chat. To be the first to access features such as this, please sign up for [Teleparty Premium](https://redirect.teleparty.com/upgrade).
+No, at this time, Teleparty only supports text-based chat. To be the first to access features such as this, please sign up for [Teleparty Premium](https://www.teleparty.com/upgrade).
 
 Privacy & Security
 ------------------
@@ -230,7 +230,7 @@ Teleparty Premium
 
 What is the difference between the free version and Teleparty Premium?
 
-The free version of Teleparty allows users to start parties on the free, supported services (such as Netflix, Disney+, Hulu, Amazon, Youtube, and HBO Max) and provides basic video synchronization and text chat. Teleparty Premium members can host premium watch parties on additional streaming services (such as Crunchyroll, Paramount+, and ESPN+), show off with premium badges, and customize their chat experience. Premium users also directly support Teleparty's development and help pay to launch new features and bring Teleparty to new channels and devices. For more information about what is included with Premium, please visit [the Teleparty Premium page](https://redirect.teleparty.com/upgrade)
+The free version of Teleparty allows users to start parties on the free, supported services (such as Netflix, Disney+, Hulu, Amazon, Youtube, and HBO Max) and provides basic video synchronization and text chat. Teleparty Premium members can host premium watch parties on additional streaming services (such as Crunchyroll, Paramount+, and ESPN+), show off with premium badges, and customize their chat experience. Premium users also directly support Teleparty's development and help pay to launch new features and bring Teleparty to new channels and devices. For more information about what is included with Premium, please visit [the Teleparty Premium page](https://www.teleparty.com/upgrade)
 
 How much does Teleparty Premium cost?
 
