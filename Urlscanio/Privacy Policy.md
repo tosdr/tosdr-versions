@@ -150,7 +150,8 @@ Urlscan reserves the right to update this privacy policy at any time. We will no
 
 We strongly recommend reviewing this privacy policy frequently for any changes.
 
-Copyright © 2023, urlscan GmbH  
+Copyright © 2024, urlscan GmbH
+
 Version:
 
 [Follow @urlscanio](https://twitter.com/urlscanio)
@@ -159,11 +160,10 @@ Version:
 
 #### 0 0 0
 
-Page generated on 2024-08-01 16:26:59
+Page generated on 2024-09-11 01:25:15
 
 * [About Us](https://urlscan.io/about/)
 * [Security](https://urlscan.io/security/)
-* [Newsletter](https://www.subscribepage.com/urlscanio)
 * [Sitemap](https://urlscan.io/sitemap/)
 
 * [Status Page](https://status.urlscan.io/)
