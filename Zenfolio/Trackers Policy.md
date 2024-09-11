@@ -83,7 +83,7 @@ TO PREVENT ZENFOLIO FROM USING CERTAIN COOKIES AND OTHER ONLINE TRACKING TECHNOL
 
 1. **WHAT ARE COOKIES AND OTHER ONLINE TRACKING TECHNOLOGIES?**
 
-Cookies are small files that are downloaded to your device when you visit a website. The cookie then sends information back to the originating website on each subsequent visit, or to another website that recognizes that cookie. Other types of tracking technologies work similarly to cookies and place small data files on your devices or monitor your website activity to enable us to collect information about how you use our Sites. Accordingly, Cookies and Other Tracking Technologies allow our Sites to recognize your device and track your activities and preferences, thereby allowing you to navigate between pages efficiently and to generally improve the user experience. The information provided below about cookies also applies to the other tracking technologies referenced above (i.e., web beacons, pixels, clear gifs, and other similar technologies). You can find more information about cookies at [http://www.allaboutcookies.org/](http://www.allaboutcookies.org/).
+Cookies are small files that are downloaded to your device when you visit a website. The cookie then sends information back to the originating website on each subsequent visit, or to another website that recognizes that cookie. Other types of tracking technologies work similarly to cookies and place small data files on your devices or monitor your website activity to enable us to collect information about how you use our Sites. Accordingly, Cookies and Other Tracking Technologies allow our Sites to recognize your device and track your activities and preferences, thereby allowing you to navigate between pages efficiently and to generally improve the user experience. The information provided below about cookies also applies to the other tracking technologies referenced above (i.e., web beacons, pixels, clear gifs, and other similar technologies). You can find more information about cookies at [https://www.allaboutcookies.org/](https://allaboutcookies.org/).
 
 Cookies are often categorized by function. We use four types of cookies by function on our Sites:
 
@@ -162,7 +162,7 @@ You can stop cookies from being downloaded on your device by selecting the appro
 
 If you want to remove previously stored cookies, you can manually delete the cookies at any time. However, this will not prevent the Sites from placing further cookies on your device unless and until you adjust your browser setting as described above.
 
-**More Information**. You can find more information about cookies, behavioral advertising, and online privacy at [http://www.allaboutcookies.org/](http://www.allaboutcookies.org/). For some of our service providers that participate in the Digital Advertising Alliance (DAA), you can exercise your choice to opt out of interest-based advertising at [http://optout.aboutads.info](http://optout.aboutads.info/). You may also opt out of receiving interest-based ads from many third-party websites and applications through the Network Advertising Initiative’s (NAI) Opt Out Tool, which is available at [http://www.networkadvertising.org/choices](http://www.networkadvertising.org/choices). Certain types of mobile devices have an identifier that provides organizations with the ability to serve targeted advertising directly to a specific mobile device, and you may (depending on the device) be able to limit advertising, reset the advertising identifier, and turn off your device’s tracking features within your device’s settings. For more information see [http://youradchoices.com/appchoices](http://youradchoices.com/appchoices). 
+**More Information**. You can find more information about cookies, behavioral advertising, and online privacy at [http://www.allaboutcookies.org/](http://www.allaboutcookies.org/). For some of our service providers that participate in the Digital Advertising Alliance (DAA), you can exercise your choice to opt out of interest-based advertising at [http://optout.aboutads.info](http://optout.aboutads.info/). You may also opt out of receiving interest-based ads from many third-party websites and applications through the Network Advertising Initiative’s (NAI) Opt Out Tool, which is available at [h](https://optout.networkadvertising.org/?c=1)[ttp://www.networkadvertising.org/choices](http://www.networkadvertising.org/choices). Certain types of mobile devices have an identifier that provides organizations with the ability to serve targeted advertising directly to a specific mobile device, and you may (depending on the device) be able to limit advertising, reset the advertising identifier, and turn off your device’s tracking features within your device’s settings. For more information see [http://youradchoices.com/appchoices](http://youradchoices.com/appchoices). 
 
 5. **CALIFORNIA PRIVACY RIGHTS**
 
@@ -266,7 +266,7 @@ Help
 
 * [Support Center](https://zenfolio.com/support/)
 * [Online Training](https://zenfolio.com/community/events/)
-* [Site Status](https://status.zenfolio.com/)
+* [Site Status (opens in a new tab)](https://status.zenfolio.com/)
 
 © 2024 Zenfolio, Inc. | [Terms of Service](https://zenfolio.com/termsofuse/) | [Privacy Policy](https://zenfolio.com/privacypolicy)
 
@@ -277,4 +277,4 @@ Help
 * [](https://www.tiktok.com/@zenfolioinc "TikTok")
 * [](https://www.pinterest.com/zenfolio/ "Pinterest")
 
-[**SAVE up to 50%!**\* – View Plans](https://zenfolio.com/plans-pricing/)
+[**SAVE up to 50%!** Offer Ends Soon.\* – View Plans](https://zenfolio.com/plans-pricing/)
