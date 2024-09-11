@@ -2,70 +2,18 @@
 
 ![Admozart](http://admozart.com/wp-content/uploads/2024/02/Admozart_logo_new.png)
 
-* [Advertisers](https://admozart.com/dsp/ "Advertisers")
-* [Publishers](https://admozart.com/ssp/ "Publishers")
+* Technology
+    * [DSP](https://admozart.com/dsp/ "DSP")
+    * [SSP](https://admozart.com/ssp/ "SSP")
+    * [Search Monetization](https://admozart.com/search-monetization/ "Search Monetization")
 * [Media Channels](https://admozart.com/media-channels/ "Media Channels")
-    * [Display Ads](https://admozart.com/media-channels#display-ads "Display Ads")
-    * [Video Ads](https://admozart.com/media-channels#video-ads "Video Ads")
-    * [Native Ads](https://admozart.com/media-channels#native-ads "Native Ads")
-    * [Pop & Push Ads](https://admozart.com/media-channels#pop-push-ads "Pop & Push Ads")
-    * [CTV / OTT](https://admozart.com/media-channels#ctv-ott-ads "CTV / OTT")
-    * [Banner Ads](https://admozart.com/media-channels#banner-ads "Banner Ads")
 * [About Us](https://admozart.com/about-us/ "About Us")
-* [Login](# "Login")
-    * [DSP Login](https://login.admozartxml.com/advertiser/login "DSP Login")
-    * [SSP Login](https://login.admozartxml.com/publisher/login%20%20%20Admozart%20https://login.admozartxml.com%20%20%20Admozart%20https://login.admozartxml.com "SSP Login")
-* [Get Started](# "Get Started")
-    * [DSP Signup](https://login.admozartppc.com/advertiser/signup "DSP Signup")
-    * [SSP Signup](http://login.admozartppc.com/publisher/signup "SSP Signup")
-
-[](#)
-
-![](https://validthemes.tech/themeforest/wordpress/digalu/wp-content/uploads/2022/10/logo-light.png)
-
-Arrived compass prepare an on as. Reasonable particular on my it in sympathize. Size now easy eat hand how. Unwilling he departure elsewhere dejection at. Heart large seems may purse means few blind.
-
-* ADDRESS:
-    
-    **California, TX 70240**
-    
-* EMAIL:
-    
-    [**support@validtheme.com**](mailto:support@validtheme.com)
-    
-* PHONE:
-    
-    [**+44-20-7328-4499**](tel:+442073284499)
-    
-
-#### Get Subscribed!
-
-* [](#)
-* [](#)
-* [](http://0.0.0.3/)
-* [](#)
-* [](#)
-
-[![Admozart](http://admozart.com/wp-content/uploads/2024/02/Admozart_logo_new.png)![Admozart](http://admozart.com/wp-content/uploads/2024/02/Admozart_logo_new.png)](https://admozart.com/)
-
-![Admozart](http://admozart.com/wp-content/uploads/2024/02/Admozart_logo_new.png)
-
-* [Advertisers](https://admozart.com/dsp/ "Advertisers")
-* [Publishers](https://admozart.com/ssp/ "Publishers")
-* [Media Channels](https://admozart.com/media-channels/ "Media Channels")
-    * [Display Ads](https://admozart.com/media-channels#display-ads "Display Ads")
-    * [Video Ads](https://admozart.com/media-channels#video-ads "Video Ads")
-    * [Native Ads](https://admozart.com/media-channels#native-ads "Native Ads")
-    * [Pop & Push Ads](https://admozart.com/media-channels#pop-push-ads "Pop & Push Ads")
-    * [CTV / OTT](https://admozart.com/media-channels#ctv-ott-ads "CTV / OTT")
-    * [Banner Ads](https://admozart.com/media-channels#banner-ads "Banner Ads")
-* [About Us](https://admozart.com/about-us/ "About Us")
-* [Login](# "Login")
-    * [DSP Login](https://login.admozartxml.com/advertiser/login "DSP Login")
-    * [SSP Login](https://login.admozartxml.com/publisher/login%20%20%20Admozart%20https://login.admozartxml.com%20%20%20Admozart%20https://login.admozartxml.com "SSP Login")
-* [Get Started](# "Get Started")
-    * [DSP Signup](https://login.admozartppc.com/advertiser/signup "DSP Signup")
-    * [SSP Signup](http://login.admozartppc.com/publisher/signup "SSP Signup")
+* Login
+    * [Advertiser Login](https://login.admozartxml.com/advertiser/login "Advertiser Login")
+    * [Publisher Login](https://login.admozartxml.com/publisher/login%20%20%20Admozart%20https://login.admozartxml.com%20%20%20Admozart%20https://login.admozartxml.com "Publisher Login")
+* Get Started
+    * [Advertiser Sign Up](https://login.admozartppc.com/advertiser/signup "Advertiser Sign Up")
+    * [Publisher Sign Up](http://login.admozartppc.com/publisher/signup "Publisher Sign Up")
 
 [](#)
 
@@ -169,9 +117,9 @@ For our video business: Admozart does not receive or store any user identifiable
 
 In case you may notice any discrepancy, please email us – [gdpr@admozart.com](mailto:gdpr@admozart.com)
 
-![Admozart](http://admozart.com/wp-content/uploads/2024/02/Admozart_logo_new.png)
+![Admozart](http://staging.admozart.com/wp-content/uploads/2024/02/Admozart_logo_new.png)
 
-Our Real-time Advertising Exchange (Ad Exchange) platform connects the world's leading demand and supply partners of the digital advertising ecosystems We empower the Programmatic Demand Side Platforms and Search Ads Providers to extend their reach and connect with leading supply sources with our proprietary machine learning based supply & demand path optimization, ensuring impactful results and enhanced engagement with precision-targeted advertising campaigns.
+We empower the Programmatic Demand Side Platforms and Search Ads Providers to extend their reach and connect with leading supply sources with our proprietary machine learning based supply & demand path optimization, ensuring impactful results and enhanced engagement with precision-targeted advertising campaigns.
 
 * [](https://www.facebook.com/Admozart-2210932189173394/)
 * [](https://www.linkedin.com/company/admozart/)
@@ -179,10 +127,10 @@ Our Real-time Advertising Exchange (Ad Exchange) platform connects the world's l
 #### Quick Links
 
 * [About Us](https://admozart.com/about-us/)
-* [Advertiser](https://admozart.com/dsp/)
-* [Publisher](https://admozart.com/ssp/)
+* [DSP](https://admozart.com/dsp/)
+* [SSP](https://admozart.com/ssp/)
+* [Search Monetization](https://admozart.com/search-monetization/)
 * [Media Channels](https://admozart.com/media-channels/)
-* [Blogs](https://admozart.com/blogs/)
 * [Contact Us](https://admozart.com/contact-us/)
 
 #### Admozart LLC
