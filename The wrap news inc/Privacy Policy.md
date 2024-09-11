@@ -11,9 +11,11 @@
 Main Navigation
 ---------------
 
-* [WrapStyle](https://www.thewrap.com/wrapstyle/)
+* [TIFF](https://www.thewrap.com/category/report-toronto/)
+* [TheWrapBook](https://www.thewrap.com/the-wrapbook-tv-issue/)
+    * [TheWrapBook: The Art of Television](https://www.thewrap.com/the-wrapbook-tv-issue/)
+    * [The WrapBook: Cinema](https://www.thewrap.com/the-wrapbook-the-art-of-cinema-2023/)
     * [WrapStyle](https://www.thewrap.com/wrapstyle/)
-    * [The WrapBook](https://www.thewrap.com/the-wrapbook-the-art-of-cinema-2023/)
 * [TV](https://www.thewrap.com/category/tv/)
     * [TV](https://www.thewrap.com/category/tv/)
     * [Ratings](https://www.thewrap.com/category/category-column/ratings/)
@@ -25,8 +27,7 @@ Main Navigation
     * [Box Office](https://www.thewrap.com/category/box-office-2/)
     * [Sundance](https://www.thewrap.com/tag/sundance/)
     * [Sundance Videos](https://thewrap.com/tag/sundance-videos/)
-    * [Toronto](https://www.thewrap.com/category/report-toronto/)
-    * [Toronto Video Studio](https://www.thewrap.com/category/report-toronto/toronto-video/)
+    * [Report From Toronto](https://www.thewrap.com/category/report-toronto/)
     * [Cannes](https://www.thewrap.com/category/report-cannes/)
     * [Cannes Magazine](https://www.thewrap.com/cannes-2024/)
 * [Awards](https://www.thewrap.com/category/awards/)
@@ -39,9 +40,8 @@ Main Navigation
     * [Data and Analysis](https://www.thewrap.com/data-analysis/)
     * [WrapPRO](https://www.thewrap.com/category/wrappro/)
 * [More](#)
+    * [The Grill](https://www.thewrap.com/the-grill/)
     * [Power Women Summit](https://www.thewrap.com/power-women-summit-2023-panels-videos/)
-    * [TheGrill Videos](https://www.thewrap.com/the-grill-2023-panel-video/)
-    * [TheGrill Articles](https://www.thewrap.com/tag/the-grill-2023/)
     * [Screening Series RSVP](https://thewrapscreenings.splashthat.com/)
     * [Screenings Archive](https://www.thewrap.com/tag/thewrap_screening_series/)
     * [Webinars Archive](https://www.thewrap.com/tag/webinars/)
@@ -77,6 +77,11 @@ Follow Us
 * [Visit The Wrap on twitter](https://www.twitter.com/thewrap)
 * [Visit The Wrap on instagram](https://www.instagram.com/thewrap)
 * [Visit The Wrap on youtube](https://www.youtube.com/thewrap)
+
+Trending Topics:
+----------------
+
+* [Holding On in Hollywood](https://www.thewrap.com/tag/holding-on-in-hollywood/)
 
 Privacy Policy
 ==============
@@ -310,7 +315,7 @@ Subscribe Now
 Latest Magazine Issue
 ---------------------
 
-[![Gary Oldman photographed by Molly Matalon for TheWrap](https://i0.wp.com/www.thewrap.com/wp-content/uploads/2024/06/EM_06194_COVER_IR_JV4_X.jpg?fit=250%2C300&ssl=1)](https://view.flipdocs.com/?ID=10004691_402388)
+[![Down to the Wire drama series cover Elizabeth Debicki](https://i0.wp.com/www.thewrap.com/wp-content/uploads/2024/08/FC_EM_DWD_082024.jpg?fit=250%2C300&ssl=1)](https://view.flipdocs.com/?ID=10004691_753840)
 
 TheWrap
 -------
