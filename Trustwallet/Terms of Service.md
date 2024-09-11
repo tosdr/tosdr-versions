@@ -8,9 +8,19 @@
     
 * **Features**
     
-    [**Security**
+    [**Swaps**
     
-    Learn how we keep your assets & Web3 journey safe](https://trustwallet.com/security)
+    Swap securely and seamlessly](https://trustwallet.com/swap)[**Staking**
+    
+    Earn crypto rewards while securing networks](https://trustwallet.com/staking)[**NFTs**
+    
+    Explore the world of NFTs](https://trustwallet.com/nft)[**Security**
+    
+    Learn how we keep your assets & Web3 journey safe](https://trustwallet.com/security)[**Buy Crypto**
+    
+    Buy crypto in under five minutes](https://trustwallet.com/buy-crypto)[**SWIFT: Smart Contract Wallet**
+    
+    Explore Web3 easily with account abstraction features](https://trustwallet.com/swift)
     
 * **Build**
     
@@ -42,7 +52,9 @@
     
     Join us in shaping the future of Web3](https://trustwallet.com/careers)[**Press Kit**
     
-    Download our official logo and other media assets](https://trustwallet.com/press)[**Terms of Service**
+    Download our official logo and other media assets](https://trustwallet.com/press)[**Blog**
+    
+    Stay up-to-date on Web3 trends and insights](https://trustwallet.com/blog)[**Terms of Service**
     
     What you need to know to use our services](https://trustwallet.com/terms-of-service)[**Privacy Policy**
     
@@ -65,9 +77,19 @@ An optimized Web3 experience for desktop](https://trustwallet.com/browser-extens
 
 ![Blue Shield](/_next/static/media/raw.e7c57d68.svg)
 
-[**Security**
+[**Swaps**
 
-Learn how we keep your assets & Web3 journey safe](https://trustwallet.com/security)
+Swap securely and seamlessly](https://trustwallet.com/swap)[**Staking**
+
+Earn crypto rewards while securing networks](https://trustwallet.com/staking)[**NFTs**
+
+Explore the world of NFTs](https://trustwallet.com/nft)[**Security**
+
+Learn how we keep your assets & Web3 journey safe](https://trustwallet.com/security)[**Buy Crypto**
+
+Buy crypto in under five minutes](https://trustwallet.com/buy-crypto)[**SWIFT: Smart Contract Wallet**
+
+Explore Web3 easily with account abstraction features](https://trustwallet.com/swift)
 
 ![Blue Shield](/_next/static/media/raw.b373ab3f.svg)
 
@@ -99,7 +121,9 @@ Discover who we are and what drives us](https://trustwallet.com/about-us)[**Care
 
 Join us in shaping the future of Web3](https://trustwallet.com/careers)[**Press Kit**
 
-Download our official logo and other media assets](https://trustwallet.com/press)[**Terms of Service**
+Download our official logo and other media assets](https://trustwallet.com/press)[**Blog**
+
+Stay up-to-date on Web3 trends and insights](https://trustwallet.com/blog)[**Terms of Service**
 
 What you need to know to use our services](https://trustwallet.com/terms-of-service)[**Privacy Policy**
 
@@ -112,10 +136,6 @@ WalletFeaturesBuildSupportAbout
 Language
 
 [Download](https://trustwallet.com/download)
-
-Don’t invest unless you’re prepared to lose all the money you invest. This is a high-risk investment and you should not expect to be protected if something goes wrong.  
-
-[Take 2 mins to learn more.](https://trustwallet.com/risk)
 
 Trust Wallet  
 Terms of Service
@@ -335,7 +355,7 @@ If you have any questions relating to these Terms, your rights and obligations a
 
 ##### Stay Connected:
 
-[](https://facebook.com/trustwalletapp)[](https://github.com/trustwallet)[](https://instagram.com/trustwallet)[](https://twitter.com/trustwallet)[](https://discord.gg/trustwallet)[](https://reddit.com/r/trustapp)[](https://t.me/trustwallet)[](https://tiktok.com/@trustcryptowallet)
+[](https://facebook.com/trustwalletapp)[](https://github.com/trustwallet)[](https://instagram.com/trustwallet)[](https://twitter.com/trustwallet)[](https://discord.gg/trustwallet)[](https://reddit.com/r/trustapp)[](https://t.me/trustwallet)[](https://www.tiktok.com/@trustwalletweb3)
 
 * **Wallet**
     
@@ -343,7 +363,7 @@ If you have any questions relating to these Terms, your rights and obligations a
     
 * **Features**
     
-    [Security](https://trustwallet.com/security)
+    [Buy Crypto](https://trustwallet.com/buy-crypto)[Swaps](https://trustwallet.com/swap)[Staking](https://trustwallet.com/staking)[NFTs](https://trustwallet.com/nft)[Security](https://trustwallet.com/security)[SWIFT: Smart Contract Wallet](https://trustwallet.com/swift)
     
 * **Build**
     
@@ -355,11 +375,13 @@ If you have any questions relating to these Terms, your rights and obligations a
     
 * **About**
     
-    [About Us](https://trustwallet.com/about-us)[Careers](https://trustwallet.com/careers)[Press Kit](https://trustwallet.com/press)[Terms of Service](https://trustwallet.com/terms-of-service)[Privacy Policy](https://trustwallet.com/privacy-policy)
+    [About Us](https://trustwallet.com/about-us)[Careers](https://trustwallet.com/careers)[Press Kit](https://trustwallet.com/press)[Terms of Service](https://trustwallet.com/terms-of-service)[Privacy Policy](https://trustwallet.com/privacy-policy)[Blog](https://trustwallet.com/blog)
     
 * ![A-LIGN ISO 27701](/_next/static/media/image.8354ab2c.svg)![A-LIGN ISO 27001](/_next/static/media/image.7f0b3bc9.svg)
     
 
 **Download Trust Wallet**
+
+The most trusted & secure crypto wallet.
 
 [Download for iOS](https://apps.apple.com/app/apple-store/id1288339409?mt=8)[Download Extension![Chrome](/_next/static/media/raw.7dd85797.svg)](https://chrome.google.com/webstore/detail/trust-wallet/egjidjbpglichdcondbcbdnbeeppgdph)[Download APK](https://trustwallet.com/download/apk)[Download for Android![App Store](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fimage.5ee64b2e.png&w=256&q=75)](https://play.google.com/store/apps/details?id=com.wallet.crypto.trustapp)
