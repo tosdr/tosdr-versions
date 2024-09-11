@@ -4,33 +4,31 @@
 
 [SUBSCRIBE](https://toomics.com/en) [STORE _New_](https://toomics.com/en/age_verification?alt=1&return_url=L2VuL3N0b3Jl&cancel_return=L2VuL2hlbHAvYWNjZXNzX3Rlcm1z)
 
-* [Weekly](https://toomics.com/en/webtoon/ongoing_all)
 * [Genres](https://toomics.com/en/webtoon/ranking)
-* [New](https://toomics.com/en/age_verification?alt=1&return_url=L2VuL3dlYnRvb24vbmV3X2NvbWljcw~~&cancel_return=L2VuL3dlYnRvb24vbmV3X2NvbWljcw~~)
-* [My Library](https://toomics.com/en/webtoon/recent)
-\`
+* [Weekly](https://toomics.com/en/webtoon/ongoing_all)
+* [Upcoming](https://toomics.com/en/age_verification?alt=1&return_url=L2VuL3dlYnRvb24vbmV3X2NvbWljcw~~&cancel_return=L2VuL3dlYnRvb24vbmV3X2NvbWljcw~~)
 
-[Family Safe](https://toomics.com/en/help/access_terms)[Search](https://toomics.com/en/webtoon/search) [_Gift Box_](javascript:;)
+[Family Safe](https://toomics.com/en/help/access_terms)[Search](https://toomics.com/en/webtoon/search "Search") [_Gift Box_](javascript:;) [_My Library_](https://toomics.com/en/webtoon/recent "My Library")
 
-dropdown menu
+[Family Safe](https://toomics.com/en/help/access_terms)_Close_
 
-![drawer close](/assets/svg/close.svg)[Family Safe](https://toomics.com/en/help/access_terms)
-
-Read a variety of awesome comics!
+Become a member now and enjoy 50,000+ episodes!
 
 Sign in
 
-* [_Language_
-    
-    English](javascript:;)
+* [_My Library_](https://toomics.com/en/webtoon/recent)
+* [_Pick Your Genres!_](javascript:;)
 * [_Gender_
     
     Unknown](javascript:;)
-* [_Pick your genre!_](javascript:;)
-* [_My Library_](https://toomics.com/en/webtoon/recent)
+* [_Language_
+    
+    English](javascript:;)
 * [_Customer Service_](https://toomics.com/en/help/notice_list)
 
-#### Choose Language
+dropdown menu
+
+#### Language
 
 English
 
@@ -52,9 +50,9 @@ Français
 
 日本語
 
-Cancel OK
+Close OK
 
-#### Choose Gender
+#### Gender
 
 Male
 
@@ -62,7 +60,7 @@ Female
 
 Unknown
 
-Cancel OK
+Close OK
 
 #### VIP Membership reactivated
 
@@ -74,7 +72,7 @@ You can cancel your VIP Membership again at any time after 2 weeks.
 
 OK
 
-#### Coin info
+#### My Coins
 
 Web Coins
 
@@ -92,7 +90,46 @@ Gift Coins
 
 0
 
-Purchase Coins Close
+Close [Purchase Coins](https://toomics.com/en/mypage/payment/type/payment-plan)
+
+#### Pick Your Genres!
+
+##### Tell us what you like!
+
+You can change your favorite genres again later.
+
+Are you over 18?
+
+* * *
+
+ Select All
+
+* Drama
+    
+* Romance
+    
+* School life
+    
+* Comedy
+    
+* Fantasy
+    
+* Action
+    
+* BL
+    
+* Horror
+    
+* Thriller
+    
+* Sci-fi
+    
+* Historical
+    
+
+Choose three or more of your favorite genres!
+
+Cancel OK
 
 Customer Service
 ================
@@ -114,7 +151,9 @@ Terms of Service
 
 Introduction & Acceptance of Terms of Service
 
-These Terms of Service(“Terms”) will govern the use of Toomics service(“Service”) provided by the following companies: TOOMICS GLOBAL CO., LTD, located at 4F 8 Teheran-ro 98-gil, Daechi 2(i)-dong, Gangnam-gu, Seoul, Korea, TOOMICS GLOBAL UK LIMITED, located at 7-9 The Avenue, Eastbourne, East Sussex, United Kingdom, TOOMICS GLOBAL CO., LTD, located at 2020 Camino Del Rio N. Ste 310 San Diego CA, United States, TOOMICS GLOBAL JAPAN CO., LTD, located at Taiyou Bld.3kai, 3-3-1, Nakasaiwaicho, Kawasaki Shi Saiwai Ku, Kanagawa Ken, Japan, (all hereinafter referred to as “Toomics”, “the company”, “we”, “us”, “our”), by all users(“Users”, “you”, “your”) including members(“Member”) and guests(“Guest”).
+These Terms of Service(“Terms”) will govern the use of Toomics service(“Service”) provided by the following companies: TOOMICS GLOBAL CO., LTD, located at 4F 8 Teheran-ro 98-gil, Daechi 2(i)-dong, Gangnam-gu, Seoul, Korea, TOOMICS GLOBAL UK LIMITED, located at 7-9 The Avenue, Eastbourne, East Sussex, United Kingdom, TOOMICS GLOBAL CO., LTD, located at 2020 Camino Del Rio N. Ste 310 San Diego CA, United States, TOOMICS GLOBAL JAPAN CO., LTD, located at Taiyou Bld.3kai, 3-3-1, Nakasaiwaicho, Kawasaki Shi Saiwai Ku, Kanagawa Ken, Japan, (all hereinafter referred to as “Toomics”, “the company”, x“we”, “us”, “our”), by all users(“Users”, “you”, “your”) including members(“Member”) and guests(“Guest”).
+
+ ​
 
 By using our Service, Users agree to our Terms(https://global.toomics.com/en/help/access\_terms), our Privacy Policy(https://global.toomics.com/en/help/private\_terms), and any other policy, rules or codes of conduct relating to the Users’ use of our Service.
 
@@ -135,7 +174,7 @@ When creating an account with an e-mail address, you must use your own valid e-m
 
 You must be at least fourteen (14) years old to use the Service. You must affirm to us that you are either more than eighteen (18) years old, or an emancipated minor, or possess legal parental or guardian consent, and are fully able and competent to enter into the terms mentioned in our Terms. If you are under thirteen (13) years old, please do not use the Service.
 
-Recurring Payment (VIP Member) : VIP membership is automatically charged to your Payment Method every month. VIP membership allows you to view, without limits, the contents designated by us for VIP members.
+Recurring Payment (VIP Member) : VIP membership is automatically charged to your Payment Method every month. By subscribing to our VIP membership, you get unlimited access to VIP-Exclusive Comics designated by Toomics.
 
 For VIP members, unless you notify us, and follow the process to cancel your membership before your monthly renewal date, you authorize us to charge your monthly membership fee to your Payment Method.
 
@@ -145,7 +184,23 @@ If a payment is not successfully settled on the billing date, due to expiration,
 
 ​Purchasing Coins​ :
 
-1\. A user may obtain coins by paying the price determined by us. The purchase method of coins, purchasing unit, currency, payment method, etc are made available on the website. 2. Paid Coins are valid until 5 years starting from the date of purchase. Bonus Coins are valid until 1 year starting from the date of receipt. Coins can only be used within the expiration date and any remaining coins will expire after the expiration date. No refund is possible for coins that have expired. 3. The coin purchase method and prices are subject to change. 4. Coins purchased or received by a user do not generate any profit from interest. 5. When purchasing coins, the user can choose the method of payment from the options provided by us. 6. Due to changes in the exchange rate, the actual amount charged to the user may differ from the amount the user expects to pay to us at the time of purchase. 7. Purchased coins will be credited to the user's account that made the purchase. ​​Linked accounts and Use : 1. Email or SNS accounts can be linked to only one device account at a time.
+1\. A user may obtain coins by paying the price determined by us. The purchase method of coins, purchasing unit, currency, payment method, etc are made available on the website.
+
+2. Gift Coins and Bonus Coins are treated identically, however, the validity period of Gift Coins follows the period indicated on the coin. Gift Coins can only be redeemed within the validity period, and any remaining coins will expire after the expiration date.
+
+3. Paid Coins are valid for 5 years starting from the date of purchase. Bonus Coins are valid for 1 year starting from the date of receipt. Coins can only be used within the respective expiration dates and any remaining coins will expire after these dates. No refunds are possible for coins that have expired.​
+
+4\. The coin purchase method and prices are subject to change.
+
+5\. Coins purchased or received by a user do not generate any profit from interest.
+
+6\. When purchasing coins, the user can choose the method of payment from the options provided by us.
+
+7\. Due to changes in the exchange rate, the actual amount charged to the user may differ from the amount the user expects to pay to us at the time of purchase.
+
+8.Purchased coins will be credited to the user's account that made the purchase
+
+​​Linked accounts and Use : 1. Email or SNS accounts can be linked to only one device account at a time.
 
 2\. You can use the coins you have in your APP or WEB account on other devices through linked accounts. However, coins purchased on the APP will be deducted first on the APP and the coins purchased on the WEB will be deducted first on the WEB. 3. Through linked accounts, you cannot combine coins purchased on the Web and on the APP to make your payment for paid contents. 4. Content can be viewed on other devices through linked accounts. However, if the linked account is terminated, the right to use is no longer available. ​​​Bonus Coins and Use​ : 1. We can give bonus coins to users free of charge or based on purchased coins through events, etc. 2. Bonus coins are non-refundable. 3. Bonus coins are deducted prior to Regular Coins that have been purchased and this applies to similar types of bonus coins. Bonus coins with a faster acquisition period are deducted first. 4. If bonus coins stored on the APP or WEB are used on other devices through linked accounts, the bonus coins and regular coins held by the account will be deducted first and then deducted in the following order: bonus coins stored in linked account and then regular coins stored in the linked account. 5. We may limit or change how bonus coins can be used. Specific information regarding updates will be published within TOOMICS. 
 
@@ -273,9 +328,7 @@ Cancellation & Refund
 
 Cancellation & Refund
 
-  
-
-For VIP purchases
+**For VIP purchases**
 
 You may request a refund of your purchase of the Recurring Payment if
 
@@ -291,9 +344,7 @@ If you don’t meet any of the three conditions stated above, refunds are not av
 
 Refunds are available within 7 days of the date of purchase if you have not used any coins at all.
 
-If there is any record of coins (Either Premium or/and Free Coins) being used, refunds are not available.
-
-  
+If there is any record of coins (Either Premium or/and Bonus Coins) being used, refunds are not available. 
 
 Limitations
 
@@ -331,21 +382,15 @@ We will take appropriate measures to resolve any issue, claim, or dispute betwee
 
 If the dispute between you and Toomics is not resolved, it will be submitted, commenced, and be heard in “Seoul District Court” of the Republic of Korea. The laws of the Republic of Korea will govern any dispute of any sort that might arise between you and Toomics, except for the case when the unresolved issue, claim, or dispute between you and Toomics related or connected to your payment processed by Checkout.com. In this case, the resolution of your issue, claim, or dispute will be governed by the laws of United Kingdom, and will be submitted, commenced, and heard in the court of United Kingdom.
 
- 
-
 Contact Information
 
 In case if you have any questions regarding the Terms of Service, please e-mail us at en.help@toomicsglobal.com
 
 Provision
 
-1\. These Terms were last modified on Nov​ 20, 2020
+**1\. These Terms were last modified on** **7 / 01 / 2024****​**
 
-2\. These terms and conditions are effective as of Nov 21 2020, and the previous terms and conditions shall be superseded and replaced by these terms and conditions.​   
-
-* * *
-
-OK
+**2\. These terms and conditions are effective as of June 26 2023, and the previous terms and conditions shall be superseded and replaced by these terms and conditions.​**    
 
 **We value your privacy at Toomics Global.** Close
 
@@ -382,8 +427,6 @@ Toomics Global Co.,Ltd. | E-mail : en.help@toomicsglobal.com
     Instagram](https://www.instagram.com/toomics.en/)
 
         
-
-One more step to **40% Discount**
 
 * Sign in
 * Sign up
