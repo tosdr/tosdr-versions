@@ -32,7 +32,7 @@ Categories
 
 Tax
 
-[TaxBit Dashboard](https://taxbit.com/taxbit-dashboard/)
+[Taxbit Dashboard](https://taxbit.com/taxbit-dashboard/)
 
 [Digital W9/W8](https://taxbit.com/digital-w9-w8/)
 
@@ -104,7 +104,7 @@ API
 
 ### See the SDK in Action!
 
-Uphold harnessed TaxBit's Digital W9/W8 SDK to collect, validate, and TIN match millions of customers.
+Uphold harnessed Taxbit's Digital W9/W8 SDK to collect, validate, and TIN match millions of customers.
 
 [View Case Study](https://taxbit.com/uphold-case-study/)
 
@@ -174,7 +174,7 @@ Privacy Policy
 
 Last Updated January 10, 2023
 
-This privacy policy (“**Privacy Policy**”) for TaxBit, Inc. (“**TaxBit**”, “**we**”, “**us**” “**our**”), describes how we collect, use and disclose information about website visitors to our website [https://taxbit.com/](https://taxbit.com/) (the “**Website**”), consumers using our platform, enterprise users hosting a custom tax center through our enterprise platform, and associated applications, services, tools and features (collectively, “the **Service(s)**”). For the purposes of this Privacy Policy, “**you**” and “**your**” means you as the user of the Services. This Privacy Policy explains how we collect and use Personal Data about you as a data controller.
+This privacy policy (“**Privacy Policy**”) for Taxbit, Inc. (“**Taxbit**”, “**we**”, “**us**” “**our**”), describes how we collect, use and disclose information about website visitors to our website [https://taxbit.com/](https://taxbit.com/) (the “**Website**”), consumers using our platform, enterprise users hosting a custom tax center through our enterprise platform, and associated applications, services, tools and features (collectively, “the **Service(s)**”). For the purposes of this Privacy Policy, “**you**” and “**your**” means you as the user of the Services. This Privacy Policy explains how we collect and use Personal Data about you as a data controller.
 
 ### **1\. What Do We Mean by Personal Data?**
 
@@ -201,7 +201,7 @@ _Usage Data_. We collect information on how you interact with the Services, such
 
 _Data from Third Parties_. We may obtain information about you from the following third party sources:
 
-_API_. You may consent to TaxBit using our Application Programming Interface (APIs) to allow TaxBit to receive information about you from other sources.
+_API_. You may consent to Taxbit using our Application Programming Interface (APIs) to allow Taxbit to receive information about you from other sources.
 
 _Service Providers._ We receive information from service providers and other similar entities collecting or processing information about you on our behalf, for example, to store information we use and process as part of our Services.
 
@@ -209,7 +209,7 @@ _Service Providers._ We receive information from service providers and other si
 
 We process Personal Data about you in order to perform our contract with you, such as to provide you with our Services, process payments and taxes, and to contact and communicate with you and your agents about the Services.
 
-If you are a registered user of the Services, you have supplied your email address and TaxBit may obtain your consent to occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with TaxBit and our products.
+If you are a registered user of the Services, you have supplied your email address and Taxbit may obtain your consent to occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Taxbit and our products.
 
 In order to be responsive to you, to provide effective Services to you, and to maintain our business relationship, as a matter of our legitimate interests, we will use your Personal Data to:
 
@@ -250,13 +250,13 @@ We do not sell personal data. In the preceding 12 months, we shared Personal Dat
 
 **For legal and security reasons and to protect our services and business, in our legitimate interests or as required by law****_._** We will share Personal Data about you with regulators, law enforcement agencies, public authorities, or any other relevant organizations: (i) in response to a legal obligation; (ii) if we have determined that it is necessary to share Personal Data about you to comply with applicable law or any obligations thereunder, including cooperation with law enforcement, judicial orders, and regulatory inquiries; (iii) to protect the interests of, and ensure the safety of us, our users, a third party or the public; (iv) to exercise or defend legal claims; and (v) to enforce our terms and conditions, other applicable terms of service, or other agreements.
 
-**In connection with an asset sale or purchase, a share sale, purchase or merger, bankruptcy, or other business transaction or re-organization, in our legitimate interests**. In the event that TaxBit is involved in a merger, acquisition, sale, bankruptcy, insolvency, reorganization, receivership, assignment or the application of laws or change of control, there may be a disclosure of information about you.
+**In connection with an asset sale or purchase, a share sale, purchase or merger, bankruptcy, or other business transaction or re-organization, in our legitimate interests**. In the event that Taxbit is involved in a merger, acquisition, sale, bankruptcy, insolvency, reorganization, receivership, assignment or the application of laws or change of control, there may be a disclosure of information about you.
 
 ### **5\. Cookies**
 
-A cookie is a small software file stored temporarily or placed on your computer’s hard drive. The main purpose of a cookie is to allow a web server to identify a user’s computer and browser, and tailor web pages and/or login information to their preferences. Cookies help us promptly display the information needed to use the capabilities of the Service and other information which we consider to be of interest to visitors to the TaxBit Website and users of the Service. By gathering and remembering information about website preferences through cookies, we can provide a better web and marketing experience. Cookies don’t give us access to users’ computers, and the information we collect through cookies doesn’t include Personal Data.
+A cookie is a small software file stored temporarily or placed on your computer’s hard drive. The main purpose of a cookie is to allow a web server to identify a user’s computer and browser, and tailor web pages and/or login information to their preferences. Cookies help us promptly display the information needed to use the capabilities of the Service and other information which we consider to be of interest to visitors to the Taxbit Website and users of the Service. By gathering and remembering information about website preferences through cookies, we can provide a better web and marketing experience. Cookies don’t give us access to users’ computers, and the information we collect through cookies doesn’t include Personal Data.
 
-When you or your agents or end users use the Service, we utilize session cookies, which allow us to uniquely identify your browser while you are logged in and to process your online transactions. Session cookies disappear from your computer when the web browser is closed or your computer is turned off. We also utilize persistent cookies to identify TaxBit Agents and users and make it easier for them to log into and use the Service. Persistent cookies remain on computers after the web browser is closed or the computer is turned off.
+When you or your agents or end users use the Service, we utilize session cookies, which allow us to uniquely identify your browser while you are logged in and to process your online transactions. Session cookies disappear from your computer when the web browser is closed or your computer is turned off. We also utilize persistent cookies to identify Taxbit Agents and users and make it easier for them to log into and use the Service. Persistent cookies remain on computers after the web browser is closed or the computer is turned off.
 
 We utilize various categories of cookies, which are summarized below along with the options available to you to manage them.
 
@@ -264,7 +264,7 @@ We utilize various categories of cookies, which are summarized below along with 
 
 **Functional**: We use functional cookies to track agents’ and end users’ activities in the Service, understand their preferences and improve their user experience. These cookies can also be used to remember configurations of the Service that our customers can customize.
 
-**Marketing**: We engage third party providers to serve a variety of marketing cookies that enable us to track and analyze usage, navigational and other statistical information from visitors to the TaxBit Websites. This information does not include Personal Data though we may re-associate this information with Personal Data we have collected when it is received. Marketing cookies are also used to track the performance of our advertisements and are employed by third party advertising networks that we utilize. These advertising networks follow online activities of visitors to the TaxBit Websites and use this information to inform, optimize and serve tailored advertisements on the TaxBit Websites or on other websites they visit that we believe would most effectively promote the Service to you. We also use third parties to collect information that assists us in other methods of re-marketing our Service to visitors to the TaxBit Websites, including customized email communications.
+**Marketing:** We engage third party providers to serve a variety of marketing cookies that enable us to track and analyze usage, navigational and other statistical information from visitors to the Taxbit Websites. This information does not include Personal Data though we may re-associate this information with Personal Data we have collected when it is received. Marketing cookies are also used to track the performance of our advertisements and are employed by third party advertising networks that we utilize. These advertising networks follow online activities of visitors to the Taxbit Websites and use this information to inform, optimize and serve tailored advertisements on the Taxbit Websites or on other websites they visit that we believe would most effectively promote the Service to you. We also use third parties to collect information that assists us in other methods of re-marketing our Service to visitors to the Taxbit Websites, including customized email communications.
 
 You can generally accept or decline the use of cookies through a functionality built into your web browser.  Individuals within the European Economic Area (“EEA”) will be asked for consent prior to the setting of cookies.
 
@@ -280,7 +280,7 @@ We do not currently respond to web browsers Do Not Track signals. If we do so in
 
 ### **8\. Your Rights**
 
-TaxBit aims to take reasonable steps to allow you to exercise certain rights regarding Personal Data about you that may be provided under applicable law.
+Taxbit aims to take reasonable steps to allow you to exercise certain rights regarding Personal Data about you that may be provided under applicable law.
 
 Please note that a number of these rights only apply in certain circumstances, and all of these rights may be limited by law. For example, where fulfilling your request would adversely affect other individuals or our trade secrets or intellectual property, where there are overriding public interests or where we are required by law to retain your Personal Data.
 
@@ -337,7 +337,7 @@ Complaints. If you think we have infringed data protection laws, you can file a 
 
 ### **9\. Links to Other Websites**
 
-The Service contains links to websites and applications other than the Service, including websites and applications operated by affiliates and other third parties . Please be aware that we do not determine and we are not responsible for the privacy practices or content of websites and applications operated by third parties. We encourage you to be aware when you leave the Service, and read the privacy statements of third party websites and applications linked to the Service. TaxBit does not endorse and is not responsible for the practices of these third parties or their websites or applications. This Policy applies only to information collected by the Service.
+The Service contains links to websites and applications other than the Service, including websites and applications operated by affiliates and other third parties . Please be aware that we do not determine and we are not responsible for the privacy practices or content of websites and applications operated by third parties. We encourage you to be aware when you leave the Service, and read the privacy statements of third party websites and applications linked to the Service. Taxbit does not endorse and is not responsible for the practices of these third parties or their websites or applications. This Policy applies only to information collected by the Service.
 
 ### **10\. Public Forums**
 
@@ -349,7 +349,7 @@ From time to time, we post customer testimonials on our Website, which may conta
 
 ### **12\. Protection of Information**
 
-TaxBit is committed to ensuring the security of your Personal Data. We utilize precautions to protect the confidentiality and security of the Personal Data within the Service by employing technical, physical, and organizational safeguards and carefully-developed security procedures. However, no internet, e-mail or other electronic transmission is ever fully secure or error free, so you should take care in deciding what information you send to us in this way. Any information you send us through any means is transmitted at your own risk.
+Taxbit is committed to ensuring the security of your Personal Data. We utilize precautions to protect the confidentiality and security of the Personal Data within the Service by employing technical, physical, and organizational safeguards and carefully-developed security procedures. However, no internet, e-mail or other electronic transmission is ever fully secure or error free, so you should take care in deciding what information you send to us in this way. Any information you send us through any means is transmitted at your own risk.
 
 ### **13\. International Data Transfers**
 
@@ -363,26 +363,26 @@ Information about you, including Personal Data, may be transferred to - and main
 
 ### **14\. Data Retention**
 
-TaxBit will retain Personal Data that we process on behalf of our customers or that we directly collect from our customers for as long as needed to provide Service to our customers, subject to our compliance with this Policy or with other laws and regulations. We may further retain and use this Personal Data as necessary to comply with our legal obligations, maintain accurate accounting, financial and other operational records, resolve disputes, and enforce our agreements. Different retention periods apply to different types of records and data. However, the longest your data will typically be held is seven (7) years from the date of your last transaction with TaxBit. This period may be extended where circumstances so require or until a particular query, investigation or dispute is fully resolved.
+Taxbit will retain Personal Data that we process on behalf of our customers or that we directly collect from our customers for as long as needed to provide Service to our customers, subject to our compliance with this Policy or with other laws and regulations. We may further retain and use this Personal Data as necessary to comply with our legal obligations, maintain accurate accounting, financial and other operational records, resolve disputes, and enforce our agreements. Different retention periods apply to different types of records and data. However, the longest your data will typically be held is seven (7) years from the date of your last transaction with Taxbit. This period may be extended where circumstances so require or until a particular query, investigation or dispute is fully resolved.
 
 ### **15\. Children's Personal Data**
 
-TaxBit does not knowingly collect any Personal Data from children under the age of 13. If you have reason to believe that a child under the age of 13 has provided Personal Data to TaxBit through our Service, please contact us, and we will use commercially reasonable efforts to delete that information from our databases.
+Taxbit does not knowingly collect any Personal Data from children under the age of 13. If you have reason to believe that a child under the age of 13 has provided Personal Data to Taxbit through our Service, please contact us, and we will use commercially reasonable efforts to delete that information from our databases.
 
 ### **16\. Changes to the Privacy Policy**
 
-If we make any material changes to this Policy, we will notify you by email or by posting a prominent notice on the TaxBit Websites and/or take such other steps as required by applicable law. We encourage you to periodically review this page for the latest information on our privacy practices. Your continued use of the Service constitutes your understanding of any such changes to this Privacy Policy.
+If we make any material changes to this Policy, we will notify you by email or by posting a prominent notice on the Taxbit Websites and/or take such other steps as required by applicable law. We encourage you to periodically review this page for the latest information on our privacy practices. Your continued use of the Service constitutes your understanding of any such changes to this Privacy Policy.
 
 ### **17\. Contact Us**
 
-If you have questions regarding this Policy or about the privacy practices of TaxBit, please contact us by email at privacy@taxbit.com.
+If you have questions regarding this Policy or about the privacy practices of Taxbit, please contact us by email at privacy@taxbit.com.
 
 ##### Solutions
 
 * [Enterprise Tax](https://taxbit.com/enterprise-tax/)
 * [Enterprise Accounting](https://taxbit.com/enterprise-accounting/)
 * [Public Sector](https://taxbit.com/government/)
-* [TaxBit Dashboard](https://taxbit.com/taxbit-dashboard/)
+* [Taxbit Dashboard](https://taxbit.com/taxbit-dashboard/)
 * [Digital W9/W8](https://taxbit.com/digital-w9-w8/)
 * [Broker Cost Basis](https://taxbit.com/broker-cost-basis/)
 * [Information Reporting](https://taxbit.com/information-reporting/)
@@ -429,7 +429,7 @@ If you have questions regarding this Policy or about the privacy practices of Ta
 * [Enterprise Accounting](http://app.choosetactic.com/)
 * [Enterprise Tax](http://dashboard.taxbit.com/)
 
-![TaxBit](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9Im5vbmUiIHZpZXdCb3g9IjAgMTggNjcxIDI1OCI+CjxnIGNsaXAtcGF0aD0idXJsKCNjbGlwMF80NTk2XzI0MjAwKSI+CjxwYXRoIGQ9Ik01My45NDAyIDExMi4zMzFWMTY1Ljc4MUM1My45NDAyIDE3Ni42MjEgNTkuOTkwMiAxODIuMTcxIDcxLjU5MDIgMTgyLjE3MUM3OC4xNDAyIDE4Mi4xNzEgODMuNjkwMiAxODAuMTUxIDg4LjQ4MDIgMTc3Ljg4MVYyMDguMzkxQzgxLjQyMDIgMjEyLjE3MSA3NC4xMTAyIDIxMy45NDEgNjQuNTMwMiAyMTMuOTQxQzM1LjAzMDIgMjEzLjk0MSAyMS4xNjAyIDE5Ni43OTEgMjEuMTYwMiAxNzEuMDgxVjExMi4zMzFIMC43NDAyMzRWODIuMzMxMUgyMS4xNjAyVjQ4LjYyMTFINTMuOTQwMlY4Mi4zMzExSDg4LjQ4MDJWMTEyLjMzMUg1My45NDAyWiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTIzMi4yMDEgODIuMzIwOFYyMTAuOTExSDE5OS40MjFWMTk1LjUzMUMxODkuMDgxIDIwNi44ODEgMTc0LjcxMSAyMTMuOTQxIDE1Ny41NzEgMjEzLjk0MUMxMjEuNzcxIDIxMy45NDEgOTQuNzkxIDE4NC45NDEgOTQuNzkxIDE0Ni42MjFDOTQuNzkxIDEwOC4zMDEgMTIxLjc3MSA3OS4zMDA4IDE1Ny41NzEgNzkuMzAwOEMxNzQuNzExIDc5LjMwMDggMTg5LjA5MSA4Ni4zNjA4IDE5OS40MjEgOTcuNzEwOFY4Mi4zMzA4SDIzMi4yMDFWODIuMzIwOFpNMTk5LjQyMSAxNDYuNjExQzE5OS40MjEgMTI2LjQ0MSAxODQuMjkxIDExMS4wNjEgMTYzLjg3MSAxMTEuMDYxQzE0My40NTEgMTExLjA2MSAxMjguNTcxIDEyNi40NDEgMTI4LjU3MSAxNDYuNjExQzEyOC41NzEgMTY2Ljc4MSAxNDMuNzAxIDE4Mi4xNjEgMTYzLjg3MSAxODIuMTYxQzE4NC4wNDEgMTgyLjE2MSAxOTkuNDIxIDE2Ni43ODEgMTk5LjQyMSAxNDYuNjExWiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTUyNC45MSAxNDYuNjFDNTI0LjkxIDE4NC45MyA0OTguMTggMjEzLjkzIDQ2Mi4zOCAyMTMuOTNDNDQ1LjI0IDIxMy45MyA0MzAuODYgMjA3LjEyIDQyMC41MyAxOTUuNTJWMjEwLjlIMzg3Ljc1Vjg5LjY0MDJMNDIwLjUzIDQwLjY2MDJWOTcuNzAwMUM0MzAuODcgODYuMTAwMSA0NDUuMjQgNzkuMjkwMSA0NjIuMzggNzkuMjkwMUM0OTguMTggNzkuMjkwMSA1MjQuOTEgMTA4LjI4IDUyNC45MSAxNDYuNjFaTTQ5MS4xMyAxNDYuNjFDNDkxLjEzIDEyNi40NCA0NzYuMjYgMTExLjA2IDQ1NS44MyAxMTEuMDZDNDM1LjQgMTExLjA2IDQyMC41MyAxMjYuNDQgNDIwLjUzIDE0Ni42MUM0MjAuNTMgMTY2Ljc4IDQzNS42NiAxODIuMTYgNDU1LjgzIDE4Mi4xNkM0NzYgMTgyLjE2IDQ5MS4xMyAxNjYuNzggNDkxLjEzIDE0Ni42MVoiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGQ9Ik01MzMuMjQgNDguNjExNEM1MzMuMjQgMzcuMDExNCA1NDIuMzEgMjguMTkxNCA1NTMuOTEgMjguMTkxNEM1NjUuNTEgMjguMTkxNCA1NzQuNTggMzcuMDExNCA1NzQuNTggNDguNjExNEM1NzQuNTggNjAuMjExNCA1NjUuNTEgNjkuMDMxNCA1NTMuOTEgNjkuMDMxNEM1NDIuMzEgNjkuMDMxNCA1MzMuMjQgNjAuMjExNCA1MzMuMjQgNDguNjExNFpNNTM3LjUyIDgyLjMyMTRINTcwLjNWMjEwLjkxMUg1MzcuNTJWODIuMzIxNFoiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGQ9Ik02MzYuMSAxMTIuMzMxVjE2NS43ODFDNjM2LjEgMTc2LjYyMSA2NDIuMTUgMTgyLjE3MSA2NTMuNzUgMTgyLjE3MUM2NjAuMyAxODIuMTcxIDY2NS44NSAxODAuMTUxIDY3MC42NCAxNzcuODgxVjIwOC4zOTFDNjYzLjU4IDIxMi4xNzEgNjU2LjI3IDIxMy45NDEgNjQ2LjY5IDIxMy45NDFDNjE3LjE5IDIxMy45NDEgNjAzLjMyIDE5Ni43OTEgNjAzLjMyIDE3MS4wODFWMTEyLjMzMUg1ODIuOVY4Mi4zMzExSDYwMy4zMlY0OC42MjExSDYzNi4xVjgyLjMzMTFINjcwLjY0VjExMi4zMzFINjM2LjFaIiBmaWxsPSJ3aGl0ZSIvPgo8cGF0aCBkPSJNMzQwLjA2MSAxNDguNTExTDM4MC42NzEgMjEwLjkzMUgzMjQuMzcxTDMxMS45MDEgMTkxLjgwMUwyOTkuNDMxIDIxMC45MzFIMjgyLjc3MUwzMTEuODkxIDE2Ni4yMjFMMzMxLjkzMSAxOTYuOTcxSDM1NC45MTFMMzIzLjQwMSAxNDguNTIxTDQwOC4yNTEgMTguMTkxNEg0MjQuOTIxTDM0MC4wNTEgMTQ4LjUyMUwzNDAuMDYxIDE0OC41MTFaTTMwOC45NTEgMTI3LjE1MUwzMzguMDcxIDgyLjQyMTRIMzIxLjQxMUwzMDguOTQxIDEwMS41NTFMMjk2LjQ3MSA4Mi40MjE0SDI0MC4xNTFMMjgwLjc4MSAxNDQuODQxTDE5NS44ODEgMjc1LjI0MUgyMTIuNTQxTDI5Ny40NDEgMTQ0Ljg0MUwyNjUuOTExIDk2LjM5MTRIMjg4LjkwMUwzMDguOTQxIDEyNy4xNTFIMzA4Ljk1MVoiIGZpbGw9IndoaXRlIi8+CjwvZz4KPGRlZnM+CjxjbGlwUGF0aCBpZD0iY2xpcDBfNDU5Nl8yNDIwMCI+CjxyZWN0IHdpZHRoPSI2NzEiIGhlaWdodD0iMjU4IiBmaWxsPSJ3aGl0ZSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCAxOCkiLz4KPC9jbGlwUGF0aD4KPC9kZWZzPgo8L3N2Zz4=)
+![Taxbit](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9Im5vbmUiIHZpZXdCb3g9IjAgMTggNjcxIDI1OCI+CjxnIGNsaXAtcGF0aD0idXJsKCNjbGlwMF80NTk2XzI0MjAwKSI+CjxwYXRoIGQ9Ik01My45NDAyIDExMi4zMzFWMTY1Ljc4MUM1My45NDAyIDE3Ni42MjEgNTkuOTkwMiAxODIuMTcxIDcxLjU5MDIgMTgyLjE3MUM3OC4xNDAyIDE4Mi4xNzEgODMuNjkwMiAxODAuMTUxIDg4LjQ4MDIgMTc3Ljg4MVYyMDguMzkxQzgxLjQyMDIgMjEyLjE3MSA3NC4xMTAyIDIxMy45NDEgNjQuNTMwMiAyMTMuOTQxQzM1LjAzMDIgMjEzLjk0MSAyMS4xNjAyIDE5Ni43OTEgMjEuMTYwMiAxNzEuMDgxVjExMi4zMzFIMC43NDAyMzRWODIuMzMxMUgyMS4xNjAyVjQ4LjYyMTFINTMuOTQwMlY4Mi4zMzExSDg4LjQ4MDJWMTEyLjMzMUg1My45NDAyWiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTIzMi4yMDEgODIuMzIwOFYyMTAuOTExSDE5OS40MjFWMTk1LjUzMUMxODkuMDgxIDIwNi44ODEgMTc0LjcxMSAyMTMuOTQxIDE1Ny41NzEgMjEzLjk0MUMxMjEuNzcxIDIxMy45NDEgOTQuNzkxIDE4NC45NDEgOTQuNzkxIDE0Ni42MjFDOTQuNzkxIDEwOC4zMDEgMTIxLjc3MSA3OS4zMDA4IDE1Ny41NzEgNzkuMzAwOEMxNzQuNzExIDc5LjMwMDggMTg5LjA5MSA4Ni4zNjA4IDE5OS40MjEgOTcuNzEwOFY4Mi4zMzA4SDIzMi4yMDFWODIuMzIwOFpNMTk5LjQyMSAxNDYuNjExQzE5OS40MjEgMTI2LjQ0MSAxODQuMjkxIDExMS4wNjEgMTYzLjg3MSAxMTEuMDYxQzE0My40NTEgMTExLjA2MSAxMjguNTcxIDEyNi40NDEgMTI4LjU3MSAxNDYuNjExQzEyOC41NzEgMTY2Ljc4MSAxNDMuNzAxIDE4Mi4xNjEgMTYzLjg3MSAxODIuMTYxQzE4NC4wNDEgMTgyLjE2MSAxOTkuNDIxIDE2Ni43ODEgMTk5LjQyMSAxNDYuNjExWiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTUyNC45MSAxNDYuNjFDNTI0LjkxIDE4NC45MyA0OTguMTggMjEzLjkzIDQ2Mi4zOCAyMTMuOTNDNDQ1LjI0IDIxMy45MyA0MzAuODYgMjA3LjEyIDQyMC41MyAxOTUuNTJWMjEwLjlIMzg3Ljc1Vjg5LjY0MDJMNDIwLjUzIDQwLjY2MDJWOTcuNzAwMUM0MzAuODcgODYuMTAwMSA0NDUuMjQgNzkuMjkwMSA0NjIuMzggNzkuMjkwMUM0OTguMTggNzkuMjkwMSA1MjQuOTEgMTA4LjI4IDUyNC45MSAxNDYuNjFaTTQ5MS4xMyAxNDYuNjFDNDkxLjEzIDEyNi40NCA0NzYuMjYgMTExLjA2IDQ1NS44MyAxMTEuMDZDNDM1LjQgMTExLjA2IDQyMC41MyAxMjYuNDQgNDIwLjUzIDE0Ni42MUM0MjAuNTMgMTY2Ljc4IDQzNS42NiAxODIuMTYgNDU1LjgzIDE4Mi4xNkM0NzYgMTgyLjE2IDQ5MS4xMyAxNjYuNzggNDkxLjEzIDE0Ni42MVoiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGQ9Ik01MzMuMjQgNDguNjExNEM1MzMuMjQgMzcuMDExNCA1NDIuMzEgMjguMTkxNCA1NTMuOTEgMjguMTkxNEM1NjUuNTEgMjguMTkxNCA1NzQuNTggMzcuMDExNCA1NzQuNTggNDguNjExNEM1NzQuNTggNjAuMjExNCA1NjUuNTEgNjkuMDMxNCA1NTMuOTEgNjkuMDMxNEM1NDIuMzEgNjkuMDMxNCA1MzMuMjQgNjAuMjExNCA1MzMuMjQgNDguNjExNFpNNTM3LjUyIDgyLjMyMTRINTcwLjNWMjEwLjkxMUg1MzcuNTJWODIuMzIxNFoiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGQ9Ik02MzYuMSAxMTIuMzMxVjE2NS43ODFDNjM2LjEgMTc2LjYyMSA2NDIuMTUgMTgyLjE3MSA2NTMuNzUgMTgyLjE3MUM2NjAuMyAxODIuMTcxIDY2NS44NSAxODAuMTUxIDY3MC42NCAxNzcuODgxVjIwOC4zOTFDNjYzLjU4IDIxMi4xNzEgNjU2LjI3IDIxMy45NDEgNjQ2LjY5IDIxMy45NDFDNjE3LjE5IDIxMy45NDEgNjAzLjMyIDE5Ni43OTEgNjAzLjMyIDE3MS4wODFWMTEyLjMzMUg1ODIuOVY4Mi4zMzExSDYwMy4zMlY0OC42MjExSDYzNi4xVjgyLjMzMTFINjcwLjY0VjExMi4zMzFINjM2LjFaIiBmaWxsPSJ3aGl0ZSIvPgo8cGF0aCBkPSJNMzQwLjA2MSAxNDguNTExTDM4MC42NzEgMjEwLjkzMUgzMjQuMzcxTDMxMS45MDEgMTkxLjgwMUwyOTkuNDMxIDIxMC45MzFIMjgyLjc3MUwzMTEuODkxIDE2Ni4yMjFMMzMxLjkzMSAxOTYuOTcxSDM1NC45MTFMMzIzLjQwMSAxNDguNTIxTDQwOC4yNTEgMTguMTkxNEg0MjQuOTIxTDM0MC4wNTEgMTQ4LjUyMUwzNDAuMDYxIDE0OC41MTFaTTMwOC45NTEgMTI3LjE1MUwzMzguMDcxIDgyLjQyMTRIMzIxLjQxMUwzMDguOTQxIDEwMS41NTFMMjk2LjQ3MSA4Mi40MjE0SDI0MC4xNTFMMjgwLjc4MSAxNDQuODQxTDE5NS44ODEgMjc1LjI0MUgyMTIuNTQxTDI5Ny40NDEgMTQ0Ljg0MUwyNjUuOTExIDk2LjM5MTRIMjg4LjkwMUwzMDguOTQxIDEyNy4xNTFIMzA4Ljk1MVoiIGZpbGw9IndoaXRlIi8+CjwvZz4KPGRlZnM+CjxjbGlwUGF0aCBpZD0iY2xpcDBfNDU5Nl8yNDIwMCI+CjxyZWN0IHdpZHRoPSI2NzEiIGhlaWdodD0iMjU4IiBmaWxsPSJ3aGl0ZSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCAxOCkiLz4KPC9jbGlwUGF0aD4KPC9kZWZzPgo8L3N2Zz4=)
 
 © 2018-2024 Taxbit, All Rights Reserved
 
