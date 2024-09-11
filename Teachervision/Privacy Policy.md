@@ -150,10 +150,13 @@ Site search input
 * [Home Learning](https://www.teachervision.com/home-learning-resources)
 * [Self-Care](https://www.teachervision.com/teaching-strategies/self-care)
 * [Premium Resources](https://www.teachervision.com/shop-products)
+* [Games](https://games.teachervision.com/)
 
 [Sign up](https://www.teachervision.com/upgrade-premium?destination=/teachervision-privacy-policy)
 
 [Sign in](https://www.teachervision.com/user/login?destination=/teachervision-privacy-policy)
+
+![numberblocks_logo](/sites/default/files/inline-images/numberblocks_main_logo_0.jpg)Check out Numberblocks on Youtube! [Click Here](https://www.youtube.com/@Numberblocks?utm_source=teachervision&utm_medium=cpc&utm_campaign=numberblocks-promo)
 
 20% off Premium for new teachers 20% off Premium [Unlock Discount](https://www.teachervision.com/select-plan?p=JOIN20)
 
@@ -325,6 +328,8 @@ If you have any questions or concerns about this privacy statement or your deali
 2. Write to us at: TeacherVision, Sandbox International Holdings Ltd, WeWork 24th Fl, 1 Lincoln St, Boston MA 02111 or
 3. Call us at: 1-800-498-3264
 
+[![numberblocks skyscraper](/sites/default/files/inline-images/USABA-2-2.png)](https://www.youtube.com/@Numberblocks?utm_source=teachervision&utm_medium=cpc&utm_campaign=numberblocks-promo)
+
 ADVERTISEMENT |  [REMOVE ADS](https://www.teachervision.com/user/register?destination=/select-plan)
 
 ![TeacherVision PBL Lessons](https://www.teachervision.com/sites/default/files/inline-images/pbl-library-1.png)  
@@ -377,7 +382,7 @@ With the help of certified and current classroom teachers, TeacherVision creates
 * [Browse Worksheets](https://www.teachervision.com/resources/worksheets)
 * [Browse Teaching Resources](https://www.teachervision.com/resources)
 
-[![sandbox learning logo](/sites/default/files/inline-images/sandbox-learning_0.png)](https://sandboxandco.com/learning/index.html)
+[![sandbox learning logo](/sites/default/files/inline-images/sandbox-learning_0.png)](https://sbxgroup.com/learning/)
 
 TeacherVision is part of the Sandbox Learning family of educational and reference sites for parents, teachers and students.
 
