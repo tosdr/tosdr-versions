@@ -26,7 +26,7 @@
     
 * [Topics](https://www.barstoolsports.com/privacy-policy#topics)
     
-    [![Barstool Golf Time](https://chumley.barstoolsports.com/union/2024/05/17/blog_896x694.43c2ca5b.jpg?crop=896%3A672%2Csmart&format=pjpg&width=3840&auto=webp&quality=85%2C75)](https://apps.apple.com/app/apple-store/id1550158305?pt=1548021&ct=bsdisplay&mt=8)
+    [![Barstool Golf Time](https://chumley.barstoolsports.com/union/2024/08/09/blog_896x694.b37c8f94.jpg?crop=896%3A672%2Csmart&format=pjpg&width=3840&auto=webp&quality=85%2C75)](https://apps.apple.com/app/apple-store/id1550158305?pt=1548021&ct=bsdisplay&mt=8)
     
     #### Featured
     
@@ -63,7 +63,7 @@
     
 * [Store](https://store.barstoolsports.com/)
     
-    [![SKLZ ](https://chumley.barstoolsports.com/union/2024/06/22/SKLZ_BarstoolGolf_240319_MegaMenu.629c2933.jpg?crop=896%3A672%2Csmart&format=pjpg&width=3840&auto=webp&quality=85%2C75)](https://www.golfgalaxy.com/f/shop-sklz-barstool)
+    [![Football Collection ](https://chumley.barstoolsports.com/union/2024/09/05/Football.5d6b0549.jpg?crop=896%3A672%2Csmart&format=pjpg&width=3840&auto=webp&quality=85%2C75)](https://store.barstoolsports.com/collections/football)
     
     #### Barstool Brands
     
@@ -103,7 +103,8 @@
     
     * [New](https://store.barstoolsports.com/collections/new-arrivals?utm_source=barstoolsports&utm_medium=referral&utm_campaign=referral_barstoolsports_site_placement_trending_topics_hover_newarrivals)
     * [Best Sellers](https://store.barstoolsports.com/collections/best-sellers-page)
-    * [Shady Rays](https://store.barstoolsports.com/collections/shady-rays?utm_source=barstoolsports&utm_medium=referral&utm_campaign=referral_barstoolsports_site_placement_trending_topics_hover_shadyrays)
+    * [Shady Rays](https://store.barstoolsports.com/collections/shady-rays)
+    * [Barstool x Muck](https://store.barstoolsports.com/products/barstool-sports-x-muckster-lite-clogs?variant=41784961171553)
     * [Miss Peaches](https://store.barstoolsports.com/collections/miss-peaches)
     * [Barstool Golf](https://store.barstoolsports.com/collections/golf)
     * [Stella Blue Coffee](https://stellabluecoffee.com/?utm_source=stellabluecoffee.com&utm_medium=referral&utm_campaign=referral_stellabluecoffee.com_site_placement_trending_topics_hover_stellabluecoffee)
@@ -142,11 +143,11 @@
 [My Feed!My Feed](https://www.barstoolsports.com/favorites)[App](https://www.barstoolsports.com/download)
 
 * Trending Topics
-* [Viva TV](https://www.barstoolsports.com/video/3520581/we-spent-dollar5000-to-get-coached-by-an-nba-superstar-or-viva-tv)
-* [Barstool Store Best Sellers](https://store.barstoolsports.com/collections/best-sellers-page)
-* [Barstool Golf Time](https://apps.apple.com/app/apple-store/id1550158305?pt=1548021&ct=bsdisplay&mt=8)
-* [Pardon My Cheesesteak](https://www.pardonmycheesesteak.com/?utm_source=barstoolsports&utm_medium=referral&utm_campaign=referral_barstoolsports_site_placement_trending_topics_hover_featuredtopicblog)
-* [Stella Blue Coffee](https://stellabluecoffee.com/)
+* [Presidents Cup Collection](https://store.barstoolsports.com/collections/barstool-golf-x-presidents-cup)
+* [Barstool Sports x Muck Boot Clogs](https://store.barstoolsports.com/products/barstool-sports-x-muckster-lite-clogs)
+* [Football Collection](https://store.barstoolsports.com/collections/football)
+* [Stella Blue Coffee Football Flavors](https://stellabluecoffee.com/)
+* [Caitlin Clark](https://store.barstoolsports.com/products/her-ind-ii-tee-tee)
 
 Privacy Policy
 ==============
@@ -558,7 +559,7 @@ We will respond to your request as quickly as we can. The content of our respons
 
 #### Accessibility
 
-[Level Access website accessibility icon](https://www.levelaccess.com/a/barstoolsports)
+[Reviewed by Allyant for accessibility](http://www.allyant.com/)
 
 [App](https://www.barstoolsports.com/download)[Advertising Inquiries](https://www.barstoolsports.com/partnerships)[Terms of Use](https://www.barstoolsports.com/terms-of-use)[Privacy Policy](https://www.barstoolsports.com/privacy-policy)[Content Policy](https://www.barstoolsports.com/content-policy)[Cookie Policy](https://www.barstoolsports.com/cookie-policy)[Messaging Terms](https://www.barstoolsports.com/messaging-terms)[Digital Sale Terms](https://www.barstoolsports.com/digital-sale-terms)
 
