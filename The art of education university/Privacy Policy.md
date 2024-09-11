@@ -62,7 +62,7 @@ Search
     
     Discover various funding opportunities to support your art program.
     
-    Learn More](https://theartofeducation.edu/funding-advocacy/#funding)
+    Learn More](https://theartofeducation.edu/funding-advocacy/)
     
     [Advocacy Tools
     
@@ -256,13 +256,13 @@ Search
     
     Learn More](https://theartofeducation.edu/now/)
     
-    [](https://theartofeducation.edu/now/summer-2024-now-conference/?utm_source=aoeu-web&utm_medium=aoeu-ads&utm_campaign=summer-2024-now-conference&utm_content=dates-mega-menu)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    [](https://theartofeducation.edu/now/?utm_source=aoeu-web&utm_medium=mega-menu&utm_campaign=win25now&utm_content=offerings-now)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![](https://theartofeducation.edu/wp-content/uploads/2023/11/NOW-Web-Header.png)
     
-    #### 2024 Summer NOW Conference
+    #### 2025 Winter NOW Conference
     
-    **July 31 – August 2**
+    **January 31 – February 2**
     
     Earn 15 PD hours during this multi-day virtual event.
     
@@ -402,13 +402,13 @@ Search
     
     Learn More](https://theartofeducation.edu/courses/)
     
-    [](https://theartofeducation.edu/now/summer-2024-now-conference/?utm_source=aoeu-web&utm_medium=aoeu-ads&utm_campaign=summer-2024-now-conference&utm_content=dates-mega-menu)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    [](https://theartofeducation.edu/now/?utm_source=aoeu-web&utm_medium=mega-menu&utm_campaign=win25now&utm_content=offerings-now)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![](https://theartofeducation.edu/wp-content/uploads/2023/11/NOW-Web-Header.png)
     
-    #### 2024 Summer NOW Conference
+    #### 2025 Winter NOW Conference
     
-    **July 31 – August 2**
+    **January 31 – February 2**
     
     Earn 15 PD hours during this multi-day virtual event.
     
@@ -662,13 +662,13 @@ Search
     
     Learn More](https://theartofeducation.edu/choose-your-state/)
     
-    [](https://theartofeducation.edu/now/summer-2024-now-conference/?utm_source=aoeu-web&utm_medium=aoeu-ads&utm_campaign=summer-2024-now-conference&utm_content=dates-mega-menu)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    [](https://theartofeducation.edu/now/?utm_source=aoeu-web&utm_medium=mega-menu&utm_campaign=win25now&utm_content=offerings-now)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![](https://theartofeducation.edu/wp-content/uploads/2023/11/NOW-Web-Header.png)
     
-    #### 2024 Summer NOW Conference
+    #### 2025 Winter NOW Conference
     
-    **July 31 – August 2**
+    **January 31 – February 2**
     
     Earn 15 PD hours during this multi-day virtual event.
     
