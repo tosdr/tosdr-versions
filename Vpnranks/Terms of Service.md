@@ -68,10 +68,11 @@
 * [Reports](https://www.vpnranks.com/reports/)
     * [89% of VPNs Fall Short in User Satisfaction](https://www.vpnranks.com/reports/89-percent-of-vpns-fall-short-in-user-satisfaction-vpnscore-report/)
 * Events
-    * [Olympic Games Paris 2024](https://www.vpnranks.com/access/sports/watch-olympic-games-paris-in-usa-on-bbc-iplayer/)
+    * [Rugby Championship 2024](https://www.vpnranks.com/access/sports/watch-rugby-championship-2024-in-usa-on-stan/)
     * [UEFA Champions League 2024-2025](https://www.vpnranks.com/access/channels/paramount-plus/watch-uefa-champions-league-outside-usa/)
-    * [Big Brother Season 26](https://www.vpnranks.com/access/shows/watch-big-brother-season-26-outside-usa-on-cbs/)
+    * [Harris-Trump Presidential Debate](https://www.vpnranks.com/access/shows/watch-harris-trump-presidential-debate-outside-usa-on-abc/)
 * [News](https://www.vpnranks.com/news/)
+* [About Us](https://www.vpnranks.com/about-us/)
 * [Meet the Experts](https://www.vpnranks.com/meet-the-team/)
 * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E)
     
@@ -93,16 +94,6 @@
         ![](https://www.vpnranks.com/wp-content/uploads/flags/de.png)
         
         Deutsch](https://www.vpnranks.com/de-de/allgemeine-gesch-ftsbedingungen/ "Deutsch")
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E)
-        
-        ![](https://www.vpnranks.com/wp-content/uploads/flags/nl.png)
-        
-        Dutch](https://www.vpnranks.com/nl-nl/voorwaarden-en-bepalingen/ "Dutch")
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E)
-        
-        ![](https://www.vpnranks.com/wp-content/uploads/flags/es.alt.png)
-        
-        Español](https://www.vpnranks.com/es-es/terminos-y-condiciones/ "Español")
     * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E)
         
         ![](https://www.vpnranks.com/wp-content/uploads/flags/fr.png)
