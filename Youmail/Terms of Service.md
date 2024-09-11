@@ -1,5 +1,3 @@
-[Are you a carrier or enterprise looking for YouMail Protective Services?](https://www.youmailps.com/?utm_source=web&utm_medium=banner&utm_campaign=marketing) ![YouMail Protective Services Logo](/home/_next/static/media/YMPS-Icon.a8786e40.svg)
-
 [![YouMail Logo](/home/_next/static/media/ym-logo-blue.e21a96b6.svg)](https://www.youmail.com/)
 
 [Sign In](https://www.youmail.com/home/signin)
