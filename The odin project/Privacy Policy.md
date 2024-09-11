@@ -16,9 +16,43 @@ Courses
 
 [Technical Project Management](https://www.thinkful.com/bootcamp/technical-project-management/)
 
+[WAITLIST: Cybersecurity](https://www.thinkful.com/getstarted/cybersecurity/)
+
+NEW: AI Certificates
+
+![arrow](https://cdn.thinkful.com/phoenix/icons/arrow.svg)
+
+[Applying AI Certificate](https://www.thinkful.com/certificate/applying-ai-501/)
+
+[AI Prompt Engineering Certificate](https://www.thinkful.com/certificate/ai-prompt-engineering-501/)
+
 [How We Work](https://www.thinkful.com/how-we-work/)
 
 [Outcomes](https://www.thinkful.com/outcomes/)
+
+Communities
+
+![arrow](https://cdn.thinkful.com/phoenix/icons/arrow.svg)
+
+West
+
+[Los Angeles](https://www.thinkful.com/bootcamp/los-angeles-coding-bootcamp/)[Portland](https://www.thinkful.com/bootcamp/portland-coding-bootcamp/)[San Diego](https://www.thinkful.com/bootcamp/san-diego-coding-bootcamp/)[San Francisco](https://www.thinkful.com/bootcamp/san-francisco-coding-bootcamp/)[Seattle](https://www.thinkful.com/bootcamp/seattle-coding-bootcamp/)
+
+Southeast
+
+[Atlanta](https://www.thinkful.com/bootcamp/atlanta-coding-bootcamp/)[Miami](https://www.thinkful.com/bootcamp/miami-coding-bootcamp/)[Orlando](https://www.thinkful.com/bootcamp/orlando-coding-bootcamp/)[Raleigh](https://www.thinkful.com/bootcamp/raleigh-coding-bootcamp/)[Tampa](https://www.thinkful.com/bootcamp/tampa-coding-bootcamp/)
+
+Northeast
+
+[Boston](https://www.thinkful.com/bootcamp/boston-coding-bootcamp/)[Washington DC](https://www.thinkful.com/bootcamp/washington-dc-coding-bootcamp/)
+
+Southwest
+
+[Austin](https://www.thinkful.com/bootcamp/austin-coding-bootcamp/)[Dallas](https://www.thinkful.com/bootcamp/dallas-coding-bootcamp/)[Houston](https://www.thinkful.com/bootcamp/houston-coding-bootcamp/)[Phoenix](https://www.thinkful.com/bootcamp/phoenix-coding-bootcamp/)[Salt Lake City](https://www.thinkful.com/bootcamp/salt-lake-city-coding-bootcamp/)
+
+Midwest
+
+[Chicago](https://www.thinkful.com/bootcamp/chicago-coding-bootcamp/)[Denver](https://www.thinkful.com/bootcamp/denver-coding-bootcamp/)[Detroit](https://www.thinkful.com/bootcamp/detroit-coding-bootcamp/)[Minneapolis](https://www.thinkful.com/bootcamp/minneapolis-coding-bootcamp/)
 
 [Blog](https://www.thinkful.com/blog/)
 
@@ -480,6 +514,6 @@ Questions?
 
 [FAQs](https://www.thinkful.com/faq/)
 
-© 2024 Thinkful
+© 2023 Thinkful
 
-[Terms of Use](https://www.thinkful.com/terms-of-service/)[Privacy Policy](https://www.thinkful.com/privacy-policy/)[California Privacy](https://www.thinkful.com/policies/privacy-policy-california/)[Responsible Disclosure](https://hackerone.com/chegg)Do Not Sell My Personal Information
+[Terms of Use](https://www.thinkful.com/terms-of-service/)[Privacy Policy (NEW)](https://www.thinkful.com/privacy-policy/)[California Privacy (NEW)](https://www.thinkful.com/policies/privacy-policy-california/)[Responsible Disclosure](https://hackerone.com/chegg)Do Not Sell My Personal Information
