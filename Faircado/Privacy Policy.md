@@ -72,38 +72,19 @@ Where we send your data
 
 **Suggested text:** Visitor comments may be checked through an automated spam detection service.
 
-[![](https://faircado.de/wp-content/uploads/2023/09/Faircado_Logo-Full-White-1-1024x182.png)](https://faircado.co.uk/)
+[![](https://faircado.de/wp-content/uploads/2023/09/Faircado_Logo-Full-White-1-1024x182.png)](https://faircado.de/kofinanziert-von-der-europaeischen-union/)
 
-* [FAQs](https://faircado.co.uk/faq/)
-* [Blog](https://faircado.co.uk/magazin/)
-* [Newsroom](https://faircado.co.uk/presse-neuigkeiten/)
+* [FAQs](https://faircado.de/faqs/)
+* [Blog](https://faircado.de/magazin/)
+* [Newsroom](https://faircado.de/presse-neuigkeiten/)
 
 * [Partner werden](https://forms.gle/8qVbs2ezqz9sSRwQ6)
-* [Unsere Partner](https://faircado.co.uk/unsere-partner/)
-* [Kontakt](https://faircado.co.uk/kontakt/)
+* [Unsere Partner](https://faircado.de/unsere-partner/)
+* [Kontakt](https://faircado.de/kontakt/)
 
-[![Kofinanziert von der europäischen union](https://faircado.de/wp-content/uploads/2023/03/proFIT-logo-blau-1024x215.jpeg)](https://faircado.co.uk/kofinanziert-von-der-europaeischen-union/)
+[![Kofinanziert von der europäischen union](https://faircado.de/wp-content/uploads/2023/03/proFIT-logo-blau-1024x215.jpeg)](https://faircado.de/kofinanziert-von-der-europaeischen-union/)
 
-  
-
-Wir konnten deine Angaben nicht speichern. Versuche es erneut.
-
-Willkommen! Wir freuen uns mit dir gemeinsam über Nachhaltigkeit zu lernen! 🌱
-
-**Du möchtest mehr nachhaltige News erhalten?** 
-
-**Melde dich für den Newsletter an!**
-
-Gib bitte deine E-Mail Adresse an. z.B. ichliebefaircado@mail.com
-
-Senden
-
-Ich bin damit einverstanden, E-Mails von Faircado zu erhalten.
-
- 
-
-#### Du möchtest mehr nachhaltige News erhalten?  
-Melde dich für den Newsletter an!
+#### Noch nicht genug Newsletter im Posteingang? Abonniere uns!
 
    
 
@@ -111,45 +92,37 @@ Email
 
 senden
 
-  Ich bin damit einverstanden, E-Mails von Faircado zu erhalten und kann dies jederzeit widerrufen.
+  Ich stimme zu, E-Mails von faircado zu erhalten und kann dies jederzeit widerrufen.
 
-[![](https://faircado.de/wp-content/uploads/2023/09/Faircado_Logo-Full-White-1-1024x182.png)](https://faircado.co.uk/)
+[![](https://faircado.de/wp-content/uploads/2023/09/Faircado_Logo-Full-White-1-1024x182.png)](https://faircado.de/kofinanziert-von-der-europaeischen-union/)
 
-* [FAQs](https://faircado.co.uk/faq/)
-* [Blog](https://faircado.co.uk/magazin/)
-* [Newsroom](https://faircado.co.uk/presse-neuigkeiten/)
+* [FAQs](https://faircado.de/faqs/)
+* [Blog](https://faircado.de/magazin/)
+* [Newsroom](https://faircado.de/presse-neuigkeiten/)
 
 * [Partner werden](https://forms.gle/8qVbs2ezqz9sSRwQ6)
-* [Unsere Partner](https://faircado.co.uk/unsere-partner/)
-* [Kontakt](https://faircado.co.uk/kontakt/)
+* [Unsere Partner](https://faircado.de/unsere-partner/)
+* [Kontakt](https://faircado.de/kontakt/)
 
-[![Kofinanziert von der europäischen union](https://faircado.de/wp-content/uploads/2023/03/proFIT-logo-blau-1024x215.jpeg)](https://faircado.co.uk/kofinanziert-von-der-europaeischen-union/)
+[![Kofinanziert von der europäischen union](https://faircado.de/wp-content/uploads/2023/03/proFIT-logo-blau-1024x215.jpeg)](https://faircado.de/kofinanziert-von-der-europaeischen-union/)
 
-  
+#### Noch nicht genug Newsletter im Posteingang? Abonniere uns!
 
-Wir konnten deine Angaben nicht speichern. Versuche es erneut.
+   
 
-Willkommen! Wir freuen uns mit dir gemeinsam über Nachhaltigkeit zu lernen! 🌱
+Email 
 
-**Du möchtest mehr nachhaltige News erhalten?** 
+senden
 
-**Melde dich für den Newsletter an!**
-
-Gib bitte deine E-Mail Adresse an. z.B. ichliebefaircado@mail.com
-
-Senden
-
-Ich bin damit einverstanden, E-Mails von Faircado zu erhalten.
-
- 
+  Ich stimme zu, E-Mails von faircado zu erhalten und kann dies jederzeit widerrufen.
 
 * Copyright 2023 Faircado UG (Haftungsbeschränkt)
 
-* [Datenschutz](https://faircado.co.uk/datenschutz/)
+* [Datenschutz](https://faircado.de/datenschutz/)
 
-* [AGB](https://faircado.co.uk/agb/)
+* [AGB](https://faircado.de/agb/)
 
-* [Impressum](https://faircado.co.uk/impressum/)
+* [Impressum](https://faircado.de/impressum/)
 
 [Twitter](https://twitter.com/Faircado)
 
@@ -161,11 +134,11 @@ Ich bin damit einverstanden, E-Mails von Faircado zu erhalten.
 
 * Copyright 2023 Faircado UG (Haftungsbeschränkt)
 
-* [Datenschutz](https://faircado.co.uk/datenschutz/)
+* [Datenschutz](https://faircado.de/datenschutz/)
 
-* [AGB](https://faircado.co.uk/agb/)
+* [AGB](https://faircado.de/agb/)
 
-* [Impressum](https://faircado.co.uk/impressum/)
+* [Impressum](https://faircado.de/impressum/)
 
 [Twitter](https://twitter.com/Faircado)
 
@@ -177,11 +150,11 @@ Ich bin damit einverstanden, E-Mails von Faircado zu erhalten.
 
 * Copyright 2023 Faircado UG (Haftungsbeschränkt)
 
-* [Datenschutz](https://faircado.co.uk/datenschutz/)
+* [Datenschutz](https://faircado.de/datenschutz/)
 
-* [AGB](https://faircado.co.uk/agb/)
+* [AGB](https://faircado.de/agb/)
 
-* [Impressum](https://faircado.co.uk/impressum/)
+* [Impressum](https://faircado.de/impressum/)
 
 [Twitter](https://twitter.com/Faircado)
 
