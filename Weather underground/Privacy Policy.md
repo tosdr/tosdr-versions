@@ -10,9 +10,9 @@ Search_close__gps\_fixed_
     
 * [Manage Favorite Cities](https://www.wunderground.com/member/favorites)
 
-[Log In](https://www.wunderground.com/login)
+[Log In](https://www.wunderground.com/login)Go Ad Free
 
-_account\_box_ Log in _settings_ Settings Sensor NetworkMaps & RadarSevere WeatherNews & BlogsMobile AppsHistorical Weather
+_account\_box_ Log in Go Ad Free_settings_ Settings Sensor NetworkMaps & RadarSevere WeatherNews & BlogsMobile AppsHistorical Weather
 
 [_star_](https://www.wunderground.com/member/favorites)
 
@@ -20,12 +20,12 @@ Current Weather for Popular
 Cities
 ------------------------------------
 
-* [San Francisco, CA 65 °FPartly Cloudy](https://www.wunderground.com/weather/us/ca/san-francisco/37.79,-122.41)
-* [Manhattan, NY _warning_94 °FMostly Cloudy](https://www.wunderground.com/weather/us/ny/manhattan/40.75,-73.99)
-* [Schiller Park, IL (60176) 83 °FPartly Cloudy](https://www.wunderground.com/weather/us/il/schiller-park/41.95,-87.86)
-* [Boston, MA _warning_92 °FPartly Cloudy](https://www.wunderground.com/weather/us/ma/boston/42.36,-71.07)
-* [Houston, TX 96 °FFair](https://www.wunderground.com/weather/us/tx/houston/29.75,-95.36)
-* [St James's, England, United Kingdom _warning_71 °FLight Rain](https://www.wunderground.com/weather/gb/st-james's/51.51,-0.13)
+* [San Francisco, CA _warning_59 °FCloudy](https://www.wunderground.com/weather/us/ca/san-francisco/37.79,-122.41)
+* [Manhattan, NY 72 °FClear](https://www.wunderground.com/weather/us/ny/manhattan/40.75,-73.99)
+* [Schiller Park, IL (60176) 72 °FClear](https://www.wunderground.com/weather/us/il/schiller-park/41.95,-87.86)
+* [Boston, MA 68 °FClear](https://www.wunderground.com/weather/us/ma/boston/42.36,-71.07)
+* [Houston, TX _warning_78 °FLight Rain](https://www.wunderground.com/weather/us/tx/houston/29.75,-95.36)
+* [St James's, England, United Kingdom 48 °FClear](https://www.wunderground.com/weather/gb/st-james's/51.51,-0.13)
 
 Search_close__gps\_fixed_
 
@@ -54,6 +54,8 @@ _settings_
 
 We recognize our responsibility to use data and technology for good. We may use or share your data with our data vendors. Take control of your data.
 
+* [Review All Privacy and Ad Settings](https://www.wunderground.com/privacy-settings)
+* [Choose how my information is shared](https://www.wunderground.com/privacy-settings#do-not-sell)
 * [Data Rights](https://www.wunderground.com/data-rights)
 
 ![TWC Logo](//www.wunderground.com/static/i/misc/twc-white.svg)![TWC Logo](//www.wunderground.com/static/i/misc/twc-knockout.svg)![WU Logo](//www.wunderground.com/static/i/misc/wu-knockout.svg)
