@@ -46,7 +46,7 @@ Back
 * [Frequently asked questions](https://www.annualcreditreport.com/generalQuestions.action)
 * [Contact us](https://www.annualcreditreport.com/contactUs.action)
 
- ![covid-19 exclamation point](/resources/static/images/warning.png) **Free weekly online credit reports are available from Equifax, Experian and TransUnion. Credit reports play an important role in your financial life and we encourage you to regularly check your credit history.** [Request your free credit reports](https://www.annualcreditreport.com/requestReport/landingPage.action)
+ ![](/resources/static/images/warning.png) **Free weekly online credit reports are available from Equifax, Experian and TransUnion. Credit reports play an important role in your financial life and we encourage you to regularly check your credit history.** [Request your free credit reports](https://www.annualcreditreport.com/requestReport/landingPage.action)
 
 Contact us
 ----------
@@ -294,8 +294,8 @@ Last Updated: 8/17/2016
 
 * [About this site](https://www.annualcreditreport.com/aboutThisSite.action)
 * [Accessibility](https://www.annualcreditreport.com/accessibility.action)
-* [U.S. Privacy](https://www.annualcreditreport.com/privacy.action)
-* [U.S. Security](https://www.annualcreditreport.com/security.action)
+* [Privacy](https://www.annualcreditreport.com/privacy.action)
+* [Security](https://www.annualcreditreport.com/security.action)
 * [Terms of use](https://www.annualcreditreport.com/termsOfUse.action)
 
 Copyright © 2024 Central Source, LLC
