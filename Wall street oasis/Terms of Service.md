@@ -885,42 +885,42 @@ IB Oasis Corp., also known as Wall Street Oasis offers our customers the option 
 
 WSO Virtual Bootcamps
 
-* Jun
+* Sep
     
-    20
+    14
     
-    WSO NYC Happy Hour: Thurs 6/20, 6.30-8:30 pm, Porchlight Jun 20 - 21 6:30PM EDT
+    [Financial Modeling & Valuation Bootcamp](https://www.wallstreetoasis.com/courses/live-training/financial-modeling-valuation-bootcamp) Sep 14 - 15 10:00AM EDT
     
-* Jun
+* Sep
     
-    22
+    21
+    
+    [Venture Capital Bootcamp](https://www.wallstreetoasis.com/courses/live-training/venture-capital-bootcamp) 10:00AM EDT
+    
+* Sep
+    
+    21
     
     [Investment Banking Interview Bootcamp](https://www.wallstreetoasis.com/courses/live-training/investment-banking-interview-bootcamp) 10:00AM EDT
     
-* Jun
+* Sep
     
-    29
-    
-    [Foundations Bootcamp](https://www.wallstreetoasis.com/courses/live-training/foundations-bootcamp) 10:00AM EDT
-    
-* Jul
-    
-    13
+    28
     
     [Real Estate Modeling Bootcamp](https://www.wallstreetoasis.com/courses/live-training/real-estate-modeling-bootcamp) 10:00AM EDT
     
-* Jul
+* Oct
     
-    13
+    05
     
-    [Venture Capital Bootcamp](https://www.wallstreetoasis.com/courses/live-training/venture-capital-bootcamp) 10:00AM EDT
+    [Private Equity Interview Bootcamp](https://www.wallstreetoasis.com/courses/live-training/private-equity-interview-bootcamp) 10:00AM EDT
     
 
 [View all](https://www.wallstreetoasis.com/events)
 
 Total Avg Compensation
 
-June 2024 Investment Banking
+September 2024 Investment Banking
 
 * Director/MD (5) $648
     
@@ -928,43 +928,43 @@ June 2024 Investment Banking
     | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
     |     |     |     |     |     |     |     |     |     |     |
     
-* Vice President (22) $375
+* Vice President (23) $378
     
     |     |     |     |     |     |     |     |     |     |     |
     | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
     |     |     |     |     |     |     |     |     |     |     |
     
-* Associates (94) $260
+* Associates (104) $260
     
     |     |     |     |     |     |     |     |     |     |     |
     | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
     |     |     |     |     |     |     |     |     |     |     |
     
-* 3rd+ Year Analyst (14) $181
+* 3rd+ Year Analyst (15) $179
     
     |     |     |     |     |     |     |     |     |     |     |
     | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
     |     |     |     |     |     |     |     |     |     |     |
     
-* Intern/Summer Associate (33) $170
+* 2nd Year Analyst (73) $169
     
     |     |     |     |     |     |     |     |     |     |     |
     | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
     |     |     |     |     |     |     |     |     |     |     |
     
-* 2nd Year Analyst (69) $168
+* Intern/Summer Associate (34) $167
     
     |     |     |     |     |     |     |     |     |     |     |
     | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
     |     |     |     |     |     |     |     |     |     |     |
     
-* 1st Year Analyst (207) $159
+* 1st Year Analyst (221) $159
     
     |     |     |     |     |     |     |     |     |     |     |
     | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
     |     |     |     |     |     |     |     |     |     |     |
     
-* Intern/Summer Analyst (151) $101
+* Intern/Summer Analyst (161) $101
     
     |     |     |     |     |     |     |     |     |     |     |
     | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -996,14 +996,14 @@ Leaderboard
 |     |     |     |
 | --- | --- | --- |
 | 1   | [](https://www.wallstreetoasis.com/wallstreetoasiscom-certified-users)<br><br>![redever's picture](/themes/custom/porto_sub/images/default_profile.png "redever's picture")<br><br>[redever](https://www.wallstreetoasis.com/user/651753) | 99.2 |
-| 2   | [](https://www.wallstreetoasis.com/wallstreetoasiscom-certified-users)<br><br>![Betsy Massar's picture](/files/styles/user_picture_small/public/pictures/picture-82649-1431659637.jpg?itok=xzMuzNgq "Betsy Massar's picture")<br><br>[Betsy Massar](https://www.wallstreetoasis.com/user/82649) | 99.0 |
-| 3   | [](https://www.wallstreetoasis.com/wallstreetoasiscom-certified-users)<br><br>![BankonBanking's picture](/themes/custom/porto_sub/images/default_profile.png "BankonBanking's picture")<br><br>[BankonBanking](https://www.wallstreetoasis.com/user/20857) | 99.0 |
+| 2   | [](https://www.wallstreetoasis.com/wallstreetoasiscom-certified-users)<br><br>![BankonBanking's picture](/themes/custom/porto_sub/images/default_profile.png "BankonBanking's picture")<br><br>[BankonBanking](https://www.wallstreetoasis.com/user/20857) | 99.0 |
+| 3   | [](https://www.wallstreetoasis.com/wallstreetoasiscom-certified-users)<br><br>![Betsy Massar's picture](/files/styles/user_picture_small/public/pictures/picture-82649-1431659637.jpg?itok=xzMuzNgq "Betsy Massar's picture")<br><br>[Betsy Massar](https://www.wallstreetoasis.com/user/82649) | 99.0 |
 | 4   | [](https://www.wallstreetoasis.com/wallstreetoasiscom-certified-users)<br><br>![Secyh62's picture](/themes/custom/porto_sub/images/default_profile.png "Secyh62's picture")<br><br>[Secyh62](https://www.wallstreetoasis.com/user/419037) | 99.0 |
-| 5   | [](https://www.wallstreetoasis.com/wallstreetoasiscom-certified-users)<br><br>![dosk17's picture](/themes/custom/porto_sub/images/default_profile.png "dosk17's picture")<br><br>[dosk17](https://www.wallstreetoasis.com/user/1129) | 98.9 |
-| 6   | [](https://www.wallstreetoasis.com/wallstreetoasiscom-certified-users)<br><br>![CompBanker's picture](/files/styles/user_picture_small/public/pictures/picture-3119.jpg?itok=oxvC4QaJ "CompBanker's picture")<br><br>[CompBanker](https://www.wallstreetoasis.com/user/3119) | 98.9 |
+| 5   | [](https://www.wallstreetoasis.com/wallstreetoasiscom-certified-users)<br><br>![CompBanker's picture](/files/styles/user_picture_small/public/pictures/picture-3119.jpg?itok=oxvC4QaJ "CompBanker's picture")<br><br>[CompBanker](https://www.wallstreetoasis.com/user/3119) | 98.9 |
+| 6   | [](https://www.wallstreetoasis.com/wallstreetoasiscom-certified-users)<br><br>![dosk17's picture](/themes/custom/porto_sub/images/default_profile.png "dosk17's picture")<br><br>[dosk17](https://www.wallstreetoasis.com/user/1129) | 98.9 |
 | 7   | [](https://www.wallstreetoasis.com/wallstreetoasiscom-certified-users)<br><br>![GameTheory's picture](/themes/custom/porto_sub/images/default_profile.png "GameTheory's picture")<br><br>[GameTheory](https://www.wallstreetoasis.com/user/876) | 98.9 |
-| 8   | [](https://www.wallstreetoasis.com/wallstreetoasiscom-certified-users)<br><br>![kanon's picture](/themes/custom/porto_sub/images/default_profile.png "kanon's picture")<br><br>[kanon](https://www.wallstreetoasis.com/user/7229) | 98.9 |
-| 9   | [](https://www.wallstreetoasis.com/wallstreetoasiscom-certified-users)<br><br>![numi's picture](/themes/custom/porto_sub/images/default_profile.png "numi's picture")<br><br>[numi](https://www.wallstreetoasis.com/user/1102) | 98.8 |
+| 8   | [](https://www.wallstreetoasis.com/wallstreetoasiscom-certified-users)<br><br>![DrApeman's picture](/themes/custom/porto_sub/images/default_profile.png "DrApeman's picture")<br><br>[DrApeman](https://www.wallstreetoasis.com/user/847734) | 98.9 |
+| 9   | [](https://www.wallstreetoasis.com/wallstreetoasiscom-certified-users)<br><br>![kanon's picture](/themes/custom/porto_sub/images/default_profile.png "kanon's picture")<br><br>[kanon](https://www.wallstreetoasis.com/user/7229) | 98.9 |
 | 10  | [](https://www.wallstreetoasis.com/wallstreetoasiscom-certified-users)<br><br>![Jamoldo's picture](/themes/custom/porto_sub/images/default_profile.png "Jamoldo's picture")<br><br>[Jamoldo](https://www.wallstreetoasis.com/user/231797) | 98.8 |
 
 [View all](https://www.wallstreetoasis.com/karma/ratio)
@@ -1061,7 +1061,7 @@ Contact & Legal
 
 WSO Free Modeling Series - Now Open Through
 
-June 30, 2024
+September 30, 2024
 
 ![](/themes/custom/porto_sub/images/courses/modal-cover.png)
 
