@@ -367,7 +367,7 @@ Manage preferences.
 
 Accept Reject Settings
 
-                        Change cookie settings
+                               Change cookie settings
 
 Close GDPR Cookie Settings
 
@@ -406,4 +406,4 @@ More information about our Cookie Policy [Cookie Policy](https://www.tappx.com/l
 
 Enable All Reject All Save Changes
 
-🌍 Announcement: We reduced our carbon footprint by 33% and offset all emissions generated in 2023. [Learn more](https://www.techsoulogy.com/press-releases/tappx-reduced-ghg-emissions-by-33-in-2023-and-maintains-its-commitment-to-carbon-footprint-neutrality)
+We will be at DMEXCO 18-19 Sept in Cologne. 📍 [Come and meet us!](https://www.techsoulogy.com/events/dmexco-2024)
