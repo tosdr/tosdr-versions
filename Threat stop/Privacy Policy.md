@@ -32,6 +32,7 @@
 * [Company](https://www.threatstop.com/about-us?hsLang=en)
     * [Who We Are](https://www.threatstop.com/about-us?hsLang=en#management)
     * [What We Do](https://www.threatstop.com/about-us?hsLang=en#what-we-do)
+    * [News and Events](https://www.threatstop.com/blog/topic/news-and-events?hsLang=en)
     * [Careers](https://www.threatstop.com/careers?hsLang=en)
     * [Contact Us](https://www.threatstop.com/contact?hsLang=en)
 * [Partners](https://www.threatstop.com/partners/partner-overview?hsLang=en)
