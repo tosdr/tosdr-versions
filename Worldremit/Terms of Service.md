@@ -11,13 +11,7 @@ Terms and Conditions
 
   
 
-  
-  
-
-Terms and Conditions
---------------------
-
-#### [**Download PDF**](https://assets.ctfassets.net/sb7j5o4oxtgv/4nPudiuZiz5SCECQXlXp0l/71ad38a1c5194173e6c37b8aa73d8451/ZEPZ_UK_Terms__-_FINAL_SIGN_OFF__PDF__-_WorldRemit_and_Sendwave...pdf)
+#### [**Download PDF**](https://assets.ctfassets.net/sb7j5o4oxtgv/7kp0uiPxiF5mx0CxnVkqnp/9460a19a1ccaa7169e134fdbb7cafbe3/ZEPZ_US_Terms_V.1_FINAL_-_WorldRemit_and_Sendwave.._.docx__1_.pdf)
 
   
 
@@ -98,20 +92,20 @@ Download our app for free to send money online in minutes to over 130 other coun
     
     * [![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDI0QzEwLjMyIDI0IDguNzUgMjMuNjg1IDcuMjkgMjMuMDU1QzUuODMgMjIuNDI1IDQuNTYgMjEuNTcgMy40OCAyMC40OUMyLjQgMTkuNDEgMS41NSAxOC4xMzUgMC45MyAxNi42NjVDMC4zMSAxNS4xOTUgMCAxMy42MiAwIDExLjk0QzAgMTAuMjYgMC4zMSA4LjY5NSAwLjkzIDcuMjQ1QzEuNTUgNS43OTUgMi40IDQuNTMgMy40OCAzLjQ1QzQuNTYgMi4zNyA1LjgzIDEuNTI1IDcuMjkgMC45MTVDOC43NSAwLjMwNSAxMC4zMiAwIDEyIDBDMTMuNjggMCAxNS4yNSAwLjMwNSAxNi43MSAwLjkxNUMxOC4xNyAxLjUyNSAxOS40NCAyLjM3IDIwLjUyIDMuNDVDMjEuNiA0LjUzIDIyLjQ1IDUuNzk1IDIzLjA3IDcuMjQ1QzIzLjY5IDguNjk1IDI0IDEwLjI2IDI0IDExLjk0QzI0IDEzLjYyIDIzLjY5IDE1LjE5NSAyMy4wNyAxNi42NjVDMjIuNDUgMTguMTM1IDIxLjYgMTkuNDEgMjAuNTIgMjAuNDlDMTkuNDQgMjEuNTcgMTguMTcgMjIuNDI1IDE2LjcxIDIzLjA1NUMxNS4yNSAyMy42ODUgMTMuNjggMjQgMTIgMjRaTTEyIDIyLjI2QzEyLjcgMjEuNTQgMTMuMjg1IDIwLjcxNSAxMy43NTUgMTkuNzg1QzE0LjIyNSAxOC44NTUgMTQuNjEgMTcuNzUgMTQuOTEgMTYuNDdIOS4xMkM5LjQgMTcuNjcgOS43NzUgMTguNzUgMTAuMjQ1IDE5LjcxQzEwLjcxNSAyMC42NyAxMS4zIDIxLjUyIDEyIDIyLjI2Wk05LjQ1IDIxLjlDOC45NSAyMS4xNCA4LjUyIDIwLjMyIDguMTYgMTkuNDRDNy44IDE4LjU2IDcuNSAxNy41NyA3LjI2IDE2LjQ3SDIuNzZDMy41MiAxNy44OSA0LjQgMTkuMDA1IDUuNCAxOS44MTVDNi40IDIwLjYyNSA3Ljc1IDIxLjMyIDkuNDUgMjEuOVpNMTQuNTggMjEuODdDMTYuMDIgMjEuNDEgMTcuMzE1IDIwLjcyIDE4LjQ2NSAxOS44QzE5LjYxNSAxOC44OCAyMC41NCAxNy43NyAyMS4yNCAxNi40N0gxNi43N0MxNi41MSAxNy41NSAxNi4yMDUgMTguNTMgMTUuODU1IDE5LjQxQzE1LjUwNSAyMC4yOSAxNS4wOCAyMS4xMSAxNC41OCAyMS44N1pNMi4xNiAxNC42N0g2LjkzQzYuODcgMTQuMTMgNi44MzUgMTMuNjQ1IDYuODI1IDEzLjIxNUM2LjgxNSAxMi43ODUgNi44MSAxMi4zNiA2LjgxIDExLjk0QzYuODEgMTEuNDQgNi44MiAxMC45OTUgNi44NCAxMC42MDVDNi44NiAxMC4yMTUgNi45IDkuNzggNi45NiA5LjNIMi4xNkMyLjAyIDkuNzggMS45MjUgMTAuMjEgMS44NzUgMTAuNTlDMS44MjUgMTAuOTcgMS44IDExLjQyIDEuOCAxMS45NEMxLjggMTIuNDYgMS44MjUgMTIuOTI1IDEuODc1IDEzLjMzNUMxLjkyNSAxMy43NDUgMi4wMiAxNC4xOSAyLjE2IDE0LjY3Wk04Ljc5IDE0LjY3SDE1LjI0QzE1LjMyIDE0LjA1IDE1LjM3IDEzLjU0NSAxNS4zOSAxMy4xNTVDMTUuNDEgMTIuNzY1IDE1LjQyIDEyLjM2IDE1LjQyIDExLjk0QzE1LjQyIDExLjU0IDE1LjQxIDExLjE1NSAxNS4zOSAxMC43ODVDMTUuMzcgMTAuNDE1IDE1LjMyIDkuOTIgMTUuMjQgOS4zSDguNzlDOC43MSA5LjkyIDguNjYgMTAuNDE1IDguNjQgMTAuNzg1QzguNjIgMTEuMTU1IDguNjEgMTEuNTQgOC42MSAxMS45NEM4LjYxIDEyLjM2IDguNjIgMTIuNzY1IDguNjQgMTMuMTU1QzguNjYgMTMuNTQ1IDguNzEgMTQuMDUgOC43OSAxNC42N1pNMTcuMDQgMTQuNjdIMjEuODRDMjEuOTggMTQuMTkgMjIuMDc1IDEzLjc0NSAyMi4xMjUgMTMuMzM1QzIyLjE3NSAxMi45MjUgMjIuMiAxMi40NiAyMi4yIDExLjk0QzIyLjIgMTEuNDIgMjIuMTc1IDEwLjk3IDIyLjEyNSAxMC41OUMyMi4wNzUgMTAuMjEgMjEuOTggOS43OCAyMS44NCA5LjNIMTcuMDdDMTcuMTMgMTAgMTcuMTcgMTAuNTM1IDE3LjE5IDEwLjkwNUMxNy4yMSAxMS4yNzUgMTcuMjIgMTEuNjIgMTcuMjIgMTEuOTRDMTcuMjIgMTIuMzggMTcuMjA1IDEyLjc5NSAxNy4xNzUgMTMuMTg1QzE3LjE0NSAxMy41NzUgMTcuMSAxNC4wNyAxNy4wNCAxNC42N1pNMTYuNzQgNy41SDIxLjI0QzIwLjU4IDYuMTIgMTkuNjc1IDQuOTcgMTguNTI1IDQuMDVDMTcuMzc1IDMuMTMgMTYuMDUgMi40OCAxNC41NSAyLjFDMTUuMDUgMi44NCAxNS40NzUgMy42NCAxNS44MjUgNC41QzE2LjE3NSA1LjM2IDE2LjQ4IDYuMzYgMTYuNzQgNy41Wk05LjEyIDcuNUgxNC45NEMxNC43MiA2LjQ0IDE0LjM1IDUuNDE1IDEzLjgzIDQuNDI1QzEzLjMxIDMuNDM1IDEyLjcgMi41NiAxMiAxLjhDMTEuMzYgMi4zNCAxMC44MiAzLjA1IDEwLjM4IDMuOTNDOS45NCA0LjgxIDkuNTIgNiA5LjEyIDcuNVpNMi43NiA3LjVINy4yOUM3LjUxIDYuNDIgNy43OSA1LjQ1NSA4LjEzIDQuNjA1QzguNDcgMy43NTUgOC45IDIuOTMgOS40MiAyLjEzQzcuOTIgMi41MSA2LjYxIDMuMTUgNS40OSA0LjA1QzQuMzcgNC45NSAzLjQ2IDYuMSAyLjc2IDcuNVoiIGZpbGw9ImJsYWNrIiBmaWxsLW9wYWNpdHk9IjAuODciLz4KPC9zdmc+Cg==)InternationalEnglish](https://www.worldremit.com/en/about-us/terms-and-conditions)
     * Countries
-    * [![au flag](/web-cms-assets/_next/image?url=%2Fflags%2Fcircle%2Fflag-au.svg&w=64&q=75 "country flag")Australia](https://www.worldremit.com/en-au/about-us/terms-and-conditions)
-    * [![ca flag](/web-cms-assets/_next/image?url=%2Fflags%2Fcircle%2Fflag-ca.svg&w=64&q=75 "country flag")CanadaEnglish](https://www.worldremit.com/en-ca/about-us/terms-and-conditions)
-    * [![ca flag](/web-cms-assets/_next/image?url=%2Fflags%2Fcircle%2Fflag-ca.svg&w=64&q=75 "country flag")CanadaFrançais](https://www.worldremit.com/fr-ca/about-us/terms-and-conditions)
-    * [![dk flag](/web-cms-assets/_next/image?url=%2Fflags%2Fcircle%2Fflag-dk.svg&w=64&q=75 "country flag")Denmark](https://www.worldremit.com/da-dk/about-us/terms-and-conditions)
-    * [![fr flag](/web-cms-assets/_next/image?url=%2Fflags%2Fcircle%2Fflag-fr.svg&w=64&q=75 "country flag")France](https://www.worldremit.com/fr/about-us/terms-and-conditions)
-    * [![de flag](/web-cms-assets/_next/image?url=%2Fflags%2Fcircle%2Fflag-de.svg&w=64&q=75 "country flag")Germany](https://www.worldremit.com/de/about-us/terms-and-conditions)
-    * [![my flag](/web-cms-assets/_next/image?url=%2Fflags%2Fcircle%2Fflag-my.svg&w=64&q=75 "country flag")Malaysia](https://www.worldremit.com/en-my/about-us/terms-and-conditions)
-    * [![nl flag](/web-cms-assets/_next/image?url=%2Fflags%2Fcircle%2Fflag-nl.svg&w=64&q=75 "country flag")Netherlands](https://www.worldremit.com/nl/about-us/terms-and-conditions)
-    * [![nz flag](/web-cms-assets/_next/image?url=%2Fflags%2Fcircle%2Fflag-nz.svg&w=64&q=75 "country flag")New Zealand](https://www.worldremit.com/en-nz/about-us/terms-and-conditions)
-    * [![es flag](/web-cms-assets/_next/image?url=%2Fflags%2Fcircle%2Fflag-es.svg&w=64&q=75 "country flag")Spain](https://www.worldremit.com/es/about-us/terms-and-conditions)
-    * [![se flag](/web-cms-assets/_next/image?url=%2Fflags%2Fcircle%2Fflag-se.svg&w=64&q=75 "country flag")Sweden](https://www.worldremit.com/en-se/about-us/terms-and-conditions)
-    * [![gb flag](/web-cms-assets/_next/image?url=%2Fflags%2Fcircle%2Fflag-gb.svg&w=64&q=75 "country flag")United Kingdom](https://www.worldremit.com/en-gb/about-us/terms-and-conditions)
-    * [![us flag](/web-cms-assets/_next/image?url=%2Fflags%2Fcircle%2Fflag-us.svg&w=64&q=75 "country flag")United StatesEnglish](https://www.worldremit.com/en-us/about-us/terms-and-conditions)
-    * [![us flag](/web-cms-assets/_next/image?url=%2Fflags%2Fcircle%2Fflag-us.svg&w=64&q=75 "country flag")United StatesEspañol](https://www.worldremit.com/es-us/about-us/terms-and-conditions)
+    * [![au flag](/web-cms-assets/_next/image?url=%2Fflags%2Fcircle%2Fflag-au.svg&w=64&q=75 "au country flag")Australia](https://www.worldremit.com/en-au/about-us/terms-and-conditions)
+    * [![ca flag](/web-cms-assets/_next/image?url=%2Fflags%2Fcircle%2Fflag-ca.svg&w=64&q=75 "ca country flag")CanadaEnglish](https://www.worldremit.com/en-ca/about-us/terms-and-conditions)
+    * [![ca flag](/web-cms-assets/_next/image?url=%2Fflags%2Fcircle%2Fflag-ca.svg&w=64&q=75 "ca country flag")CanadaFrançais](https://www.worldremit.com/fr-ca/about-us/terms-and-conditions)
+    * [![dk flag](/web-cms-assets/_next/image?url=%2Fflags%2Fcircle%2Fflag-dk.svg&w=64&q=75 "dk country flag")Denmark](https://www.worldremit.com/da-dk/about-us/terms-and-conditions)
+    * [![fr flag](/web-cms-assets/_next/image?url=%2Fflags%2Fcircle%2Fflag-fr.svg&w=64&q=75 "fr country flag")France](https://www.worldremit.com/fr/about-us/terms-and-conditions)
+    * [![de flag](/web-cms-assets/_next/image?url=%2Fflags%2Fcircle%2Fflag-de.svg&w=64&q=75 "de country flag")Germany](https://www.worldremit.com/de/about-us/terms-and-conditions)
+    * [![my flag](/web-cms-assets/_next/image?url=%2Fflags%2Fcircle%2Fflag-my.svg&w=64&q=75 "my country flag")Malaysia](https://www.worldremit.com/en-my/about-us/terms-and-conditions)
+    * [![nl flag](/web-cms-assets/_next/image?url=%2Fflags%2Fcircle%2Fflag-nl.svg&w=64&q=75 "nl country flag")Netherlands](https://www.worldremit.com/nl/about-us/terms-and-conditions)
+    * [![nz flag](/web-cms-assets/_next/image?url=%2Fflags%2Fcircle%2Fflag-nz.svg&w=64&q=75 "nz country flag")New Zealand](https://www.worldremit.com/en-nz/about-us/terms-and-conditions)
+    * [![es flag](/web-cms-assets/_next/image?url=%2Fflags%2Fcircle%2Fflag-es.svg&w=64&q=75 "es country flag")Spain](https://www.worldremit.com/es/about-us/terms-and-conditions)
+    * [![se flag](/web-cms-assets/_next/image?url=%2Fflags%2Fcircle%2Fflag-se.svg&w=64&q=75 "se country flag")Sweden](https://www.worldremit.com/en-se/about-us/terms-and-conditions)
+    * [![gb flag](/web-cms-assets/_next/image?url=%2Fflags%2Fcircle%2Fflag-gb.svg&w=64&q=75 "gb country flag")United Kingdom](https://www.worldremit.com/en-gb/about-us/terms-and-conditions)
+    * [![us flag](/web-cms-assets/_next/image?url=%2Fflags%2Fcircle%2Fflag-us.svg&w=64&q=75 "us country flag")United StatesEnglish](https://www.worldremit.com/en-us/about-us/terms-and-conditions)
+    * [![us flag](/web-cms-assets/_next/image?url=%2Fflags%2Fcircle%2Fflag-us.svg&w=64&q=75 "us country flag")United StatesEspañol](https://www.worldremit.com/es-us/about-us/terms-and-conditions)
     
 
 * [![Grey and white Facebook icon](https://images.ctfassets.net/sb7j5o4oxtgv/65waViz1P4jzQKjn8yeWji/d9bf49f2f937be21ddf668ebd52e0da2/Facebook_-_Grey.svg?q=75&w=48 "facebookicon")](https://www.facebook.com/WorldRemit/)
@@ -124,9 +118,11 @@ First-Transfer Enhanced FX Rate: Select country corridors and delivery methods o
 
 This promotion cannot be abused. We reserve the right to alter, suspend or cancel this promotion at any time. You are liable for any personal tax consequences and compliance with relevant law in relation to this promotion. Our website and app terms and conditions, found below, apply alongside these specific Terms and Conditions.
 
-51 Eastcheap, London, EC3M 1DT, United Kingdom. Company registration number: 07110878
+2093 Philadelphia Pike #1016, Claymont, DE 19703, USA.
 
-WorldRemit Ltd is Authorised and Regulated by the Financial Conduct Authority (FCA) under the Payment Service Regulations 2017 and Electronic Money Regulations 2011. Registration number: 900891
+WorldRemit Corp. is Licensed as a Money Transmitter by the New York State Department of Financial Services and in Puerto Rico (TM-055), a Foreign Transmittal Agency in Massachusetts, and a Currency Transmitter in Rhode Island. NMLS No. 1179663.
+
+For additional licensure information and disclosures, please visit [https://www.worldremit.com/en/about-us/disclosures](https://www.worldremit.com/en/about-us/disclosures).
 
 ![WorldRemit Logo](https://images.ctfassets.net/sb7j5o4oxtgv/6ewORVHzAt0H7V1jCLObgr/f74e21f107d02b8d717c887406f0e87e/logo.svg?w=96&q=75 "WorldRemit Logo mobile")
 
