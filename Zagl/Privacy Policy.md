@@ -4,6 +4,8 @@ Toggle navigation [![za.gl](/new_vision_theme/img/logo-index.svg)](https://za.gl
 * [Payments Proof](http://za.gl/payments-proof)
 * [Contact](http://za.gl/contact)
 
+* [Blog](http://za.gl/blog)
+
 [Log in](http://za.gl/auth/signin) [Sign Up](http://za.gl/auth/signup)
 
 Privacy Policy
