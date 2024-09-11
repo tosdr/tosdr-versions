@@ -8,7 +8,7 @@ To find out whether your browser supports Javascript, or to allow scripts, see t
 
 [![XloveCam®](//medianew.wlresources.com/wl/xlovecam/logo-1663.png)](https://www.xlovecam.com/en/)
 
-* [Free Sex Cams (737)](https://www.xlovecam.com/en/)
+* [Free Sex Cams (413)](https://www.xlovecam.com/en/)
 * [Media](#)
     
     * [Pictures](https://www.xlovecam.com/en/photos/)
@@ -1391,6 +1391,8 @@ XloveCam®
 * [Join Now Free](https://www.xlovecam.com/en/register/)
 * [Log in](https://www.xlovecam.com/en/login/?from=menuTopRight)
 * [Add Credits](https://www.xlovecam.com/en/credit/)
+* **Free VIP tokens!**Login to your account every day to receive a FREE VIP SEXY video daily with the model of your choice!
+    
 * [Pictures](https://www.xlovecam.com/en/photos/)
 * [Videos](https://www.xlovecam.com/en/videos/)
 * [Timeline](https://www.xlovecam.com/en/login/)
@@ -1514,6 +1516,10 @@ I’m an adult and I accept
 
 Validate your registration
 
+Free VIP tokens!
+
+Login to your account every day to receive a FREE VIP SEXY video daily with the model of your choice!
+
 ![Loading ...](https://s1.wlresources.com/xlove/mobile3/img/loader/124x124.gif)
 
 Already user ?
@@ -1552,6 +1558,10 @@ Password
 Stay logged in
 
 Log in
+
+Free VIP tokens!
+
+Login to your account every day to receive a FREE VIP SEXY video daily with the model of your choice!
 
 ![Loading ...](https://s1.wlresources.com/xlove/mobile3/img/loader/124x124.gif)
 
