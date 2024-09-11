@@ -59,7 +59,7 @@ English
 
 ![Spanish](https://cdn.prod.website-files.com/5e9494215713f67c21b33cab/669043082b61ec6bf50f91da_icons8-spanish-flag-48.png)[Spanish](https://www.atlassociety.org/es/privacy-notice)
 
-![Portuguese](https://cdn.prod.website-files.com/5e9494215713f67c21b33cab/66904373ecd121357149c0cc_icons8-portugal-48.png)[Portuguese](https://www.atlassociety.org/pt/privacy-notice)
+![Portuguese](https://cdn.prod.website-files.com/5e9494215713f67c21b33cab/66904373ecd121357149c0cc_icons8-portugal-48.avif)[Portuguese](https://www.atlassociety.org/pt/privacy-notice)
 
 ![French](https://cdn.prod.website-files.com/5e9494215713f67c21b33cab/669043946b0b74e83bb02fc7_icons8-france-48.png)[French](https://www.atlassociety.org/fr/privacy-notice)
 
@@ -307,6 +307,6 @@ Kingwood, TX 77339
 
 Copyright The Atlas Society © All RIghts Reserved.
 
-[![](https://cdn.prod.website-files.com/5e9494215713f67c21b33cab/5e94942247047e2a895db72e_icons8-facebook-f-filled.svg)](https://www.facebook.com/AtlasSociety/)[![](https://cdn.prod.website-files.com/5e9494215713f67c21b33cab/5ea2df63b6a15efed1612ae3_unnamed.png)](https://www.youtube.com/user/TheAtlasSociety)[![A black and white checkered pattern is shown](https://cdn.prod.website-files.com/5e9494215713f67c21b33cab/6547a467636d8d2153ab0729_Mask%20group%20(17).png)](https://twitter.com/theatlassociety)[![](https://cdn.prod.website-files.com/5e9494215713f67c21b33cab/5e94942247047e20ed5db72f_icons8-instagram-96.png)](https://www.instagram.com/atlassociety/)[![Linkedin Social Media Icon](https://cdn.prod.website-files.com/5e9494215713f67c21b33cab/60d1e1beed3c1474771b955a_linkedin%20(1).png)](https://www.linkedin.com/company/the-atlas-society/)[![Tik Tok Social Media Icon](https://cdn.prod.website-files.com/5e9494215713f67c21b33cab/60d1e35540aeb543f12470b3_tiktok%20(1).png)](https://www.tiktok.com/@atlassociety?lang=en)
+[![](https://cdn.prod.website-files.com/5e9494215713f67c21b33cab/5e94942247047e2a895db72e_icons8-facebook-f-filled.svg)](https://www.facebook.com/AtlasSociety/)[![](https://cdn.prod.website-files.com/5e9494215713f67c21b33cab/5ea2df63b6a15efed1612ae3_unnamed.png)](https://www.youtube.com/user/TheAtlasSociety)[![A black and white checkered pattern is shown](https://cdn.prod.website-files.com/5e9494215713f67c21b33cab/6547a467636d8d2153ab0729_Mask%20group%20(17).avif)](https://twitter.com/theatlassociety)[![](https://cdn.prod.website-files.com/5e9494215713f67c21b33cab/5e94942247047e20ed5db72f_icons8-instagram-96.png)](https://www.instagram.com/atlassociety/)[![Linkedin Social Media Icon](https://cdn.prod.website-files.com/5e9494215713f67c21b33cab/60d1e1beed3c1474771b955a_linkedin%20(1).avif)](https://www.linkedin.com/company/the-atlas-society/)[![Tik Tok Social Media Icon](https://cdn.prod.website-files.com/5e9494215713f67c21b33cab/60d1e35540aeb543f12470b3_tiktok%20(1).avif)](https://www.tiktok.com/@atlassociety?lang=en)
 
 [![Gold Transparency 2023 Guidestar Logo](https://widgets.guidestar.org/gximage2?o=6920669&l=v4)](https://www.guidestar.org/profile/13-3554791)
