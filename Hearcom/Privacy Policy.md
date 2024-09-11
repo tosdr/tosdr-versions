@@ -47,7 +47,6 @@ Explore our resource center for expert recommendations, answers to frequently as
 
 * [FAQ](https://www.hear.com/faqs/)
 * [Hearing Test](https://www.hear.com/hearing-test/)
-* [Videos](https://www.hear.com/resources/videos/)
 
 About Us
 
@@ -81,7 +80,6 @@ hear.com provides free consultations and top-of-the-line hearing aids. Your perf
     * [Hearing Aids Success](https://www.hear.com/resources/hearing-aid-success/)
     * [FAQ](https://www.hear.com/faqs/)
     * [Hearing Test](https://www.hear.com/hearing-test/)
-    * [Videos](https://www.hear.com/resources/videos/)
 * About Us
     * [Why hear.com](https://www.hear.com/about-us/why-hear/)
     * [How It Works](https://www.hear.com/about-us/how-it-works/)
