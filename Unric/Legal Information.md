@@ -1,4 +1,4 @@
-[Facebook](https://www.facebook.com/unric "Facebook") [Flickr](https://www.flickr.com/photos/unric "Flickr") [Instagram](https://www.instagram.com/unitednations_europe "Instagram") [Twitter](https://twitter.com/uninbrussels "Twitter") [Vimeo](https://vimeo.com/unric "Vimeo") [Youtube](https://www.youtube.com/channel/UCzz2TylPlwJqPHFXPFy5C6w "Youtube")
+[Facebook](https://www.facebook.com/FN-Sverige-102584435092047 "Facebook") [Flickr](https://flickr.com/unric "Flickr") [Twitter](https://twitter.com/UNRIC_SE "Twitter") [Vimeo](https://vimeo.com/unric "Vimeo") [Youtube](https://unric.org/unric "Youtube")
 
 * [Home](https://unric.org/en/)
 * [About us](https://unric.org/en/about-united-nations-regional-information-centre/)
@@ -8,6 +8,7 @@
     * [UN and the Nordic countries](https://unric.org/en/un-and-the-nordic-countries/)
     * [Contact](https://unric.org/en/contact/)
 * [UN in Brussels](https://unric.org/en/un-in-brussels/)
+    * [UN Brussels Team](https://unric.org/en/un-brussels-team/)
     * [News](https://unric.org/en/category/un-eu-newsfeed/)
     * [Events](https://unric.org/en/category/un-eu-events/)
 * [Multimedia](https://unric.org/en/un-digital-engagement-hub/)
@@ -63,7 +64,9 @@ Search
     * [Suomi](https://unric.org/fi)
     * [Svenska](https://unric.org/sv)
 
-  [![United Nations - Nations Unies](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2024/05/header-logo-300x95.png)REGIONAL INFORMATION CENTRE FOR WESTERN EUROPEREGIONAL INFORMATION CENTRE FOR WESTERN EUROPE (UNRIC)](https://unric.org/en/ "United Nations Regional Information Centre for Western Europe")
+  [![UNRIC.ORG](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%2092'%3E%3C/svg%3E)
+
+ ![UNRIC.ORG](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2020/12/logo-EN-UN.png)UNRIC - Regional Information CentreUnited Nations Information Centre for Western Europe](https://unric.org/en/ "UNRIC.ORG")
 
 SearchSearch
 
@@ -83,7 +86,9 @@ SearchSearch
     * [Suomi](https://unric.org/fi)
     * [Svenska](https://unric.org/sv)
 
-  [![United Nations - Nations Unies](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2024/05/header-logo-300x95.png)REGIONAL INFORMATION CENTRE FOR WESTERN EUROPEREGIONAL INFORMATION CENTRE FOR WESTERN EUROPE (UNRIC)](https://unric.org/en/ "United Nations Regional Information Centre for Western Europe")
+  [![UNRIC.ORG](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%2092'%3E%3C/svg%3E)
+
+ ![UNRIC.ORG](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2020/12/logo-EN-UN.png)Regional Information Centre for Western EuropeUnited Nations Information Centre for Western Europe](https://unric.org/en/ "UNRIC.ORG")
 
 [Live now](# "Live now")
 
@@ -99,6 +104,7 @@ A-Z Site Index
     * [UN and the Nordic countries](https://unric.org/en/un-and-the-nordic-countries/)
     * [Contact](https://unric.org/en/contact/)
 * [UN in Brussels](https://unric.org/en/un-in-brussels/)
+    * [UN Brussels Team](https://unric.org/en/un-brussels-team/)
     * [News](https://unric.org/en/category/un-eu-newsfeed/)
     * [Events](https://unric.org/en/category/un-eu-events/)
 * [Multimedia](https://unric.org/en/un-digital-engagement-hub/)
@@ -139,13 +145,9 @@ A-Z Site Index
 Privacy Notice
 ==============
 
-04/11/2019
+[![privacy](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20696%20464'%3E%3C/svg%3E "privacy")
 
-[Facebook](https://www.facebook.com/sharer.php?u=https%3A%2F%2Funric.org%2Fen%2Fprivacy-notice%2F "Facebook")[Twitter](https://twitter.com/intent/tweet?text=Privacy+Notice&url=https%3A%2F%2Funric.org%2Fen%2Fprivacy-notice%2F&via=United+Nations+Western+Europe "Twitter")[WhatsApp](https://api.whatsapp.com/send?text=Privacy+Notice%20%0A%0A%20https://unric.org/en/privacy-notice/ "WhatsApp")[Linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https://unric.org/en/privacy-notice/&title=Privacy+Notice "Linkedin")[\[email protected\]](https://unric.org/cdn-cgi/l/email-protection)[Print](# "Print")
-
-[](# "More")
-
-[![privacy](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2019/11/privacy-696x464.jpg "privacy")](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2019/11/privacy.jpg)
+![privacy](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2019/11/privacy-696x464.jpg "privacy")](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2019/11/privacy.jpg)
 
 ### UNITED NATIONS’ PRIVACY NOTICE
 
@@ -153,9 +155,45 @@ By accessing this site, certain information about the User, such as Internet pro
 
 The information will be used internally only for web site traffic analysis. If the User provides unique identifying information, such as name, address and other information on forms stored on this Site, such information will be used only for statistical purposes and will not be published for general access. The United Nations, however, assumes no responsibility for the security of this information.
 
+[Facebook](https://www.facebook.com/sharer.php?u=https%3A%2F%2Funric.org%2Fen%2Fprivacy-notice%2F "Facebook")[Twitter](https://twitter.com/intent/tweet?text=Privacy+Notice&url=https%3A%2F%2Funric.org%2Fen%2Fprivacy-notice%2F&via=United+Nations+Western+Europe "Twitter")[WhatsApp](https://api.whatsapp.com/send?text=Privacy+Notice%20%0A%0A%20https://unric.org/en/privacy-notice/ "WhatsApp")[\[email protected\]](https://unric.org/cdn-cgi/l/email-protection)[Print](# "Print")
+
+[](# "More")
+
 [UNO](https://unric.org/en/author/zlitch/)
 
 #### Latest News
+
+  [![Latest UNRIC Library Newsletter](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%2070'%3E%3C/svg%3E)
+
+ ![Latest UNRIC Library Newsletter](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2019/11/latest-library-info-point-newsletter-banner-100x70.jpg)](https://unric.org/en/unric-info-point-library-newsletter-september-2024/ "UNRIC Info Point & Library Newsletter – September 2024")
+
+### [UNRIC Info Point & Library Newsletter – September 2024](https://unric.org/en/unric-info-point-library-newsletter-september-2024/ "UNRIC Info Point & Library Newsletter – September 2024")
+
+10/09/2024
+
+  [![UNRIC Library Backgrounder: Sea Level Rise](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%2070'%3E%3C/svg%3E)
+
+ ![UNRIC Library Backgrounder: Sea Level Rise](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2024/08/sea-level-rise-backgrounder-100x70.png)](https://unric.org/en/unric-library-backgrounder-sea-level-rise/ "UNRIC Library Backgrounder: Sea Level Rise – Selected Online Resources")
+
+### [UNRIC Library Backgrounder: Sea Level Rise – Selected Online Resources](https://unric.org/en/unric-library-backgrounder-sea-level-rise/ "UNRIC Library Backgrounder: Sea Level Rise – Selected Online Resources")
+
+29/08/2024
+
+  [![UNRIC Library Backgrounder: Mpox](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%2070'%3E%3C/svg%3E)
+
+ ![UNRIC Library Backgrounder: Mpox](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2024/08/backgrounder-MPOX-100x70.png)](https://unric.org/en/unric-library-backgrounder-mpox/ "UNRIC Library Backgrounder: Mpox")
+
+### [UNRIC Library Backgrounder: Mpox](https://unric.org/en/unric-library-backgrounder-mpox/ "UNRIC Library Backgrounder: Mpox")
+
+20/08/2024
+
+  [![Latest UNRIC Library Newsletter](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%2070'%3E%3C/svg%3E)
+
+ ![Latest UNRIC Library Newsletter](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2019/11/latest-library-info-point-newsletter-banner-100x70.jpg)](https://unric.org/en/unric-info-point-library-newsletter-august-2024/ "UNRIC Info Point & Library Newsletter: August 2024")
+
+### [UNRIC Info Point & Library Newsletter: August 2024](https://unric.org/en/unric-info-point-library-newsletter-august-2024/ "UNRIC Info Point & Library Newsletter: August 2024")
+
+12/08/2024
 
   [![Representatives from NGOs Sürya, PAG-ASA, and Payoke, alongside Belgian Justice Minister, Paul Van Tigchelt and UNODC and IOM representatives,](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%2070'%3E%3C/svg%3E)
 
@@ -165,37 +203,15 @@ The information will be used internally only for web site traffic analysis. If t
 
 29/07/2024
 
- [![Jacob Werksman (left), Principal Advisor at the Directorate General for Climate Action of the European Commission and Alchin Rafiyev (right), Deputy Foreign Minister of Azerbaijan and Chief Negotiator for COP29, in Brussels on 10 July 2024. © UNRIC.](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2024/07/COP29-brussels-event-10jul24-100x70.jpg)](https://unric.org/en/unbt-cop29-azerbaijan-ambitions-a-truce-cop-in-november/ "COP29 in Azerbaijan to be a “Truce COP”")
-
-### [COP29 in Azerbaijan to be a “Truce COP”](https://unric.org/en/unbt-cop29-azerbaijan-ambitions-a-truce-cop-in-november/ "COP29 in Azerbaijan to be a “Truce COP”")
-
-11/07/2024
-
- [![Latest UNRIC Library Newsletter](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2019/11/latest-library-info-point-newsletter-banner-100x70.jpg)](https://unric.org/en/unric-info-point-library-newsletter-july-2024/ "UNRIC Info Point & Library Newsletter: July 2024")
-
-### [UNRIC Info Point & Library Newsletter: July 2024](https://unric.org/en/unric-info-point-library-newsletter-july-2024/ "UNRIC Info Point & Library Newsletter: July 2024")
-
-10/07/2024
-
- [![UN Global Principles for Information Integrity logo](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2024/06/General_Card_01-100x70.jpg)](https://unric.org/en/un-urges-actions-against-mis-and-disinformation-and-hate-speech/ "UN urges actions against mis- and disinformation and hate speech")
-
-### [UN urges actions against mis- and disinformation and hate speech](https://unric.org/en/un-urges-actions-against-mis-and-disinformation-and-hate-speech/ "UN urges actions against mis- and disinformation and hate speech")
-
-24/06/2024
-
- [![](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2024/06/Untitled-design-100x70.png)](https://unric.org/en/women-in-diplomacy-breaking-the-glass-ceiling-and-overcoming-sobriety/ "Women in diplomacy: Breaking the glass ceiling (and overcoming sobriety)")
-
-### [Women in diplomacy: Breaking the glass ceiling (and overcoming sobriety)](https://unric.org/en/women-in-diplomacy-breaking-the-glass-ceiling-and-overcoming-sobriety/ "Women in diplomacy: Breaking the glass ceiling (and overcoming sobriety)")
-
-21/06/2024
-
 [Load more](#)
 
 #### Publications
 
-* [July 2024](https://unric.org/en/2024/07/) (25)
+* [September 2024](https://unric.org/en/2024/09/) (8)
+* [August 2024](https://unric.org/en/2024/08/) (13)
+* [July 2024](https://unric.org/en/2024/07/) (24)
 * [June 2024](https://unric.org/en/2024/06/) (34)
-* [May 2024](https://unric.org/en/2024/05/) (26)
+* [May 2024](https://unric.org/en/2024/05/) (25)
 * [April 2024](https://unric.org/en/2024/04/) (34)
 * [March 2024](https://unric.org/en/2024/03/) (53)
 * [February 2024](https://unric.org/en/2024/02/) (36)
@@ -381,4 +397,4 @@ The information will be used internally only for web site traffic analysis. If t
 * [Privacy Notice](https://unric.org/en/privacy-notice/)
 * [Copyright](https://unric.org/en/copyright/)
 
-© UNITED NATIONS Copyright 2024
+© United Nations 2024
