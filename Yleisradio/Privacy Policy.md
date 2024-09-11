@@ -2,7 +2,7 @@
 
 [Etusivu](https://yle.fi/)
 
-[Venäjän hyökkäys](https://yle.fi/t/18-334977/fi)[Olympialaiset](https://yle.fi/t/18-146187/fi)[Kisapähkinä](https://yle.fi/a/74-20092378)
+[Venäjän hyökkäys](https://yle.fi/t/18-334977/fi)[Yhdysvaltain presidentinvaalit](https://yle.fi/t/18-345335/fi)[Abitreenit](https://yle.fi/a/74-20103465)
 
 [Hae](https://haku.yle.fi/)
 
@@ -13,9 +13,8 @@ Valikko
 Pinnalla nyt
 
 * [Venäjän hyökkäys](https://yle.fi/t/18-334977/fi)
-* [Olympialaiset](https://yle.fi/t/18-146187/fi)
-* [Kisapähkinä](https://yle.fi/a/74-20092378)
-* [Olympialaisten liveseuranta](https://yle.fi/a/74-20098792)
+* [Yhdysvaltain presidentinvaalit](https://yle.fi/t/18-345335/fi)
+* [Abitreenit](https://yle.fi/a/74-20103465)
 
 * [Etusivu](https://yle.fi/)
 * [Uutisia lyhyesti](https://yle.fi/uutiset)
