@@ -31,15 +31,15 @@ ADVERTISEMENT
     * [Editorials](https://freebeacon.com/author/washington-free-beacon-editors/)
     * [Men of the Year](https://freebeacon.com/men-of-the-year/)
 
-* [![](https://s4.freebeacon.com/up/2024/07/israeli-pm-netanyahu-delivers-address-to-joint-meeting-of-us-congress-1-scaled.jpg)
+* [![](https://s1.freebeacon.com/up/2024/09/vice-president-and-democratic-presidential-candidate-kamala-harris-cam-2-scaled-e1725569189225.jpg)
     
-    Bibi’s Uneasy Path to a Lasting Peace](https://freebeacon.com/columns/bibis-uneasy-path-to-a-lasting-peace/)
-* [![](https://s2.freebeacon.com/up/2024/07/MixCollage-25-Jul-2024-03-02-PM-3297.jpg)
+    The Harris Mystique](https://freebeacon.com/columns/the-harris-mystique/)
+* [![](https://s1.freebeacon.com/up/2024/08/Screenshot-2024-08-29-at-10.30.16 PM_736x514.png)
     
-    The Biden-Harris Mental Gymnastics](https://freebeacon.com/columns/the-biden-harris-mental-gymnastics/)
-* [![](https://s4.freebeacon.com/up/2024/07/2024-republican-national-convention-day-4-scaled-e1721364084520.jpg)
+    Kamala Harris Comes Out of Hiding](https://freebeacon.com/columns/kamala-harris-comes-out-of-hiding/)
+* [![](https://s2.freebeacon.com/up/2024/08/5538-scaled-e1724385232644.jpg)
     
-    The Remarkable GOP Convention](https://freebeacon.com/columns/the-remarkable-gop-convention/)
+    Kamala Harris's Obama Makeover](https://freebeacon.com/elections/kamala-harriss-obama-makeover/)
 
  Search
 
