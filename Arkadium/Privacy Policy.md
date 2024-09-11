@@ -1,5 +1,3 @@
-![](https://www.facebook.com/tr?id=484362025322232&ev=PageView&noscript=1)          
-
 [](https://www.arkadium.com/)Sign inCreate a free profileCreate profile
 
 [Home](https://www.arkadium.com/)[All Games](https://www.arkadium.com/free-online-games/)[Best](https://www.arkadium.com/free-online-games/best/)[New](https://www.arkadium.com/free-online-games/new/)[Categories](https://www.arkadium.com/categories/)[Seasonal Games](https://www.arkadium.com/free-online-games/seasonal-games/)
