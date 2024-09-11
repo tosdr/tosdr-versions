@@ -76,11 +76,11 @@ Customer Success
 
 [Support Overview](https://tealium.com/customer-support-packages/) [Support Desk](https://my.tealiumiq.com/?_gl=1*1w1wg8i*_gcl_aw*R0NMLjE2MjA3NjE4NzQuQ2p3S0NBancxdWlFQmhCekVpd0FPOUJfSFotVXp5NkFiNEtaSm4yVDJaOWlEQ0NzdXNPYjdqZFhJa3pyanVjUTNTSHI0a3FxbWg1NXdSb0NRNzhRQXZEX0J3RQ..) [Customer Community](https://tealium.customershome.com/login?returnUrl=%2F) [Tealium Education](https://tealium.com/tealium-education/)
 
-2024 State of the CDP
+Winning in the Era of Data Differentiation
 
-Unlocking the transformative power of AI and real-time data for CX
+How to turn data into a competitive advantage and your most valuable asset
 
- [Get the report](https://tealium.com/resource/whitepaper/2024-state-of-the-cdp/)
+ [Learn More](https://tealium.com/resource/whitepaper/era-of-data-differentiation/)
 
 [Company](#)
 
