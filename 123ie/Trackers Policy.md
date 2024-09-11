@@ -8,7 +8,7 @@
 
 Cookies \& Similar Technologies Policy
 
-Updated August 2024
+Updated July 2024
 
 
 
@@ -180,7 +180,7 @@ Cookie Policy
 
 
 
-Updated: August 2024 2
+Updated: July 2024 2
 
 
 
@@ -340,7 +340,7 @@ Cookie Policy
 
 
 
-Updated: August 2024 2
+Updated: July 2024 2
 
 
 
@@ -432,7 +432,7 @@ Cookie Policy
 
 
 
-Updated: August 2024 3
+Updated: July 2024 3
 
 
 
@@ -532,7 +532,7 @@ Cookie Policy
 
 
 
-Updated: August 2024 4
+Updated: July 2024 4
 
 
 
@@ -652,7 +652,7 @@ Cookie Policy
 
 
 
-Updated: August 2024 5
+Updated: July 2024 5
 
 
 
@@ -772,7 +772,7 @@ Cookie Policy
 
 
 
-Updated: August 2024 6
+Updated: July 2024 6
 
 
 
@@ -854,7 +854,7 @@ Cookie Policy
 
 
 
-Updated: August 2024 7
+Updated: July 2024 7
 
 
 
@@ -866,17 +866,17 @@ This cookie is set when the user has clicked on a paid or non-paid (organic)
 
 campaign featuring an offer or discount and validates their eligibility for the
 
-discount on arrival at the website and enables the discount to be applied.
+discount on arrival at the website and enables the discount to be applied. This
 
-This cookie contains no personal data. If this cookie was disabled, we would
+cookie contains no personal data. If this cookie was disabled, we would be
 
-be unable to provide the discount. The cookie also enables 123.ie to collect
+unable to provide the discount. The cookie also enables 123.ie to collect
 
-statistical, aggregated, anonymised and non-personal data on advertising
+statistical, aggregated, anonymised and non-personal data on advertising and
 
-and organic sources of quotes and policies which is used for internal
+organic sources of quotes and policies which is used for internal analytical and
 
-analytical and marketing effectiveness reporting by 123.ie only.
+marketing effectiveness reporting by 123.ie only.
 
 
 
@@ -890,29 +890,27 @@ Persistent.
 
 Necessary
 
-The 123 Customer Portal enables customers to easily make changes and
+The 123 Customer Portal enables customers to easily make changes and updates
 
-updates to their active insurance policies with 123.ie. We use a secure
+to their active insurance policies with 123.ie. We use a secure identity
 
-identity management service that enables custom control of how customers
+management service that enables custom control of how customers sign up, sign
 
-sign up, sign in, and manage their profiles when accessing the portal. This
+in, and manage their profiles when accessing the portal. This cookie is set to
 
-cookie is set to confirm the User is in the correct location to log into the
+confirm the User is in the correct location to log into the customer portal and for
 
-customer portal and for the session only, stores their Username and
+the session only, stores their Username and password details to allow access to
 
-password details to allow access to the portal and then discards this
+the portal and then discards this information to assign the User a randomly
 
-information to assign the User a randomly generated authentication token.
+generated authentication token. The cookie is deleted from the browser at the
 
-The cookie is deleted from the browser at the end of the session. This cookie
+end of the session. This cookie temporarily processes your email address to
 
-temporarily processes your email address to verify your eligibility to access
+verify your eligibility to access the portal. Once recognised, your email address is
 
-the portal. Once recognised, your email address is deleted and replaced with
-
-a randomly generated authentication token.
+deleted and replaced with a randomly generated authentication token.
 
 
 
@@ -950,7 +948,7 @@ Cookie Policy
 
 
 
-Updated: August 2024 8
+Updated: July 2024 8
 
 
 
@@ -966,11 +964,11 @@ Cookie Name Category Purpose Lifespan
 
 Necessary
 
-This cookie is set to route the User's request to access the 123 Customer
+This cookie is set to route the User's request to access the 123 Customer Portal
 
-Portal to the correct location. The cookie is deleted from your browser at
+to the correct location. The cookie is deleted from your browser at the end of
 
-the end of your session.
+your session.
 
 
 
@@ -984,9 +982,9 @@ Necessary
 
 This cookie is set to monitor the number of authentication requests sent in a
 
-session and which is a necessary security measure, on the 123 Customer
+session and which is a necessary security measure, on the 123 Customer Portal.
 
-Portal. The cookie is deleted from your browser at the end of your session.
+The cookie is deleted from your browser at the end of your session.
 
 
 
@@ -998,13 +996,11 @@ Session.
 
 Necessary
 
-This cookie is set to hold your randomly generated authentication token in
+This cookie is set to hold your randomly generated authentication token in the
 
-the 123 Customer Portal to match you to your policy details during the
+123 Customer Portal to match you to your policy details during the session in the
 
-session in the portal. The cookie is deleted from your browser at the end of
-
-your session.
+portal. The cookie is deleted from your browser at the end of your session.
 
 
 
@@ -1018,11 +1014,9 @@ Necessary
 
 This cookie is set to maintain your status through each page within the 123
 
-Customer Portal. Without it, you would need to enter your login details on
+Customer Portal. Without it, you would need to enter your login details on each
 
-each page. The cookie is deleted from your browser at the end of your
-
-session.
+page. The cookie is deleted from your browser at the end of your session.
 
 
 
@@ -1034,15 +1028,13 @@ Session.
 
 Necessary
 
-A successful CSRF attack can force a User of 123's Customer Portal to
+A successful CSRF attack can force a User of 123's Customer Portal to perform
 
-perform state-changing requests like transferring funds or changing their
+state-changing requests like transferring funds or changing their email address.
 
-email address. This cookie is set to detect and prevent Users from such
+This cookie is set to detect and prevent Users from such attacks while they are in
 
-attacks while they are in the Portal. The cookie is deleted from your browser
-
-at the end of your session.
+the Portal. The cookie is deleted from your browser at the end of your session.
 
 
 
@@ -1054,11 +1046,23 @@ Session.
 
 Necessary
 
-This cookie is set to identify which page in the 123 Customer Portal the User
+This cookie is set to identify which page in the 123 Customer Portal the User is
 
-is currently on. The cookie is deleted from your browser at the end of your
+currently on. The cookie is deleted from your browser at the end of your session.
 
-session.
+Session.
+
+
+
+123.ie First-Party x-ms-cpim-rp Strictly
+
+Necessary
+
+This cookie enables routing to the correct organisation account within the Azure
+
+Active Directory B2C secure identity management service. The cookie is deleted
+
+from your browser at the end of your session.
 
 
 
@@ -1068,29 +1072,13 @@ Cookie Policy
 
 
 
-Updated: August 2024 9
+Updated: July 2024 9
 
 
 
-123.ie First-Party x-ms-cpim-rp Strictly
+Host 1st or 3rd
 
-Necessary
-
-This cookie enables routing to the correct organisation account within the
-
-Azure Active Directory B2C secure identity management service. The cookie
-
-is deleted from your browser at the end of your session.
-
-
-
-Session.
-
-
-
-Host 1st or
-
-3rd Party
+Party
 
 Cookie Name Category Purpose Lifespan
 
@@ -1100,19 +1088,19 @@ Cookie Name Category Purpose Lifespan
 
 Necessary
 
-The 123 Customer Portal enables customers to easily make changes and
+The 123 Customer Portal enables customers to easily make changes and updates
 
-updates to their (active) insurance policies with 123.ie. We use a secure
+to their (active) insurance policies with 123.ie. We use a secure identity
 
-identity management service that enables custom control of how customers
+management service that enables custom control of how customers sign up, sign
 
-sign up, sign in, and manage their profiles when accessing the 123 customer
+in, and manage their profiles when accessing the 123 customer portal. This
 
-portal. This cookie enables 123 to securely provide the customer portal
+cookie enables 123 to securely provide the customer portal services that run in
 
-services that run in the corporate network to the public cloud. The cookie is
+the corporate network to the public cloud. The cookie is deleted from your
 
-deleted from your browser at the end of your session.
+browser at the end of your session.
 
 
 
@@ -1130,11 +1118,9 @@ Transparency \& Consent Framework to store the user's consent to online
 
 advertising and targeting for data collection purposes. The cookie holds an
 
-encrypted consent string that vendors participating in the framework can
+encrypted consent string that vendors participating in the framework can read
 
-read and determine the user's consent to or rejection of online targeted
-
-advertising.
+and determine the user's consent to or rejection of online targeted advertising.
 
 
 
@@ -1160,29 +1146,21 @@ Strictly
 
 Necessary
 
-We offer a web chat service between our customers online and our agents.
+We offer a web chat service between our customers online and our agents. This
 
-This cookie is set by Amazon Connect in the visitor's browser when they click
+cookie is set by Amazon Connect in the visitor's browser when they click on the
 
-on the web chat widget to request an online chat with us. The cookie
+web chat widget to request an online chat with us. The cookie identifies the
 
-identifies the customers’ chat session and maintains the chat as the visitor
+customers’ chat session and maintains the chat as the visitor navigates through
 
-navigates through different pages on the 123.ie website. It doesn't collect
+different pages on the 123.ie website. It doesn't collect personal data and the
 
-personal data and the cookie is deleted from your browser at the end of
-
-your web chat.
+cookie is deleted from your browser at the end of your web chat.
 
 
 
 Session
-
-Cookie Policy
-
-
-
-Updated: August 2024 10
 
 
 
@@ -1190,13 +1168,9 @@ Updated: August 2024 10
 
 Necessary
 
-This cookie is related to security of the website and protection against
+This cookie is related to security of the website and protection against malicious
 
-malicious bots. As part of the methods to distinguish whether it is a real user
-
-or malicious bot this does store the IP address used
-
-
+bots.
 
 Persistent
 
@@ -1204,7 +1178,7 @@ Persistent
 
 
 
-123.ie First-Party \_px\* (e.g \_px, _px2;
+123.ie First-Party \_px\* (e.g _px, _px2;
 
 \_px3)
 
@@ -1212,19 +1186,25 @@ Strictly
 
 Necessary
 
-This cookie is related to security of the website \& protection against
+This cookie is related to security of the website \& protection against malicious
 
-malicious bots. Used to maintain a session with PerimeterX.
+bots. Used to maintain a session with PerimeterX.
 
 Persistent
 
 5.5 minutes
 
+Cookie Policy
 
 
-Host 1st or
 
-3rd Party
+Updated: July 2024 10
+
+
+
+Host 1st or 3rd
+
+Party
 
 Cookie Name Category Purpose Lifespan
 
@@ -1250,9 +1230,9 @@ Strictly
 
 Necessary
 
-This cookie is related to security of the website and protection against
+This cookie is related to security of the website and protection against malicious
 
-malicious bots.
+bots.
 
 Persistent
 
@@ -1264,9 +1244,9 @@ Persistent
 
 Necessary
 
-This cookie is related to security of the website and protection against
+This cookie is related to security of the website and protection against malicious
 
-malicious bots.
+bots.
 
 Persistent
 
@@ -1278,9 +1258,9 @@ Persistent
 
 Necessary
 
-This cookie is related to security of the website and protection against
+This cookie is related to security of the website and protection against malicious
 
-malicious bots.
+bots.
 
 Persistent
 
@@ -1292,17 +1272,11 @@ Persistent
 
 Necessary
 
-This cookie is related to security of the website and protection against
+This cookie is related to security of the website and protection against malicious
 
-malicious bots.
+bots.
 
 Session
-
-Cookie Policy
-
-
-
-Updated: August 2024 11
 
 
 
@@ -1316,13 +1290,13 @@ Necessary
 
 The specific cookie related to Google reCAPTCHA anti-bot management
 
-(_GRECAPTCHA) is used for website security and protection. This tool helps
+(_GRECAPTCHA) is used for website security and protection. This tool helps us
 
-us inspect traffic to create scores based on users' interactions with our
+inspect traffic to create scores based on users' interactions with our website.
 
-website. Through defined intervals reCAPTCHA provides risk analysis with
+Through defined intervals reCAPTCHA provides risk analysis with the personal
 
-the personal data collected by this cookie. For more information, please visit
+data collected by this cookie. For more information, please visit
 
 https://developers.google.com/recaptcha/docs/faq
 
@@ -1332,51 +1306,11 @@ Persistent
 
 180 Days
 
-
-
-Cloudfront.net Third-
-
-Party
-
-X-Source Strictly
-
-Necessary
-
-We offer a web chat service between our customers online and our agents.
-
-This cookie is set by Amazon Connect on the Home Quote Path. The cookie
-
-determine which version of the chat interface or chat script to provide to
-
-the user. It doesn't collect personal data and the cookie is deleted from your
-
-browser at the end of your web chat.
-
-
-
-Session
-
-
-
-123.ie First-Party \__Secure-
-
-ASP.NET_Session
-
-Strictly
-
-Necessary
-
-This cookie is used to store session data on the browser. It is used to cache
-
-data on the website during the quote journey to improve performance.
-
-Session
-
 Cookie Policy
 
 
 
-Updated: August 2024 12
+Updated: July 2024 11
 
 
 
@@ -1440,7 +1374,7 @@ Cookie Policy
 
 
 
-Updated: August 2024 13
+Updated: July 2024 12
 
 
 
@@ -1528,7 +1462,7 @@ Cookie Policy
 
 
 
-Updated: August 2024 14
+Updated: July 2024 13
 
 
 
@@ -1552,7 +1486,7 @@ policy here: https://policies.google.com/privacy?hl=en-US
 
 
 
-123.ie First-Party FPID Performance Google Analytics cookies enable us to collect and analyse data about how
+123.ie First Party FPID Performance Google Analytics cookies enable us to collect and analyse data about how
 
 visitors arrive at and interact with the 123.ie website. We then use the
 
@@ -1590,7 +1524,7 @@ Cookie Policy
 
 
 
-Updated: August 2024 15
+Updated: July 2024 14
 
 
 
@@ -1602,7 +1536,7 @@ Cookie Name Category Purpose Lifespan
 
 
 
-123.ie First-Party FPLC Performance Google Analytics cookies enable us to collect and analyse data about how
+123.ie First Party FPLC Performance Google Analytics cookies enable us to collect and analyse data about how
 
 visitors arrive at and interact with the 123.ie website. We then use this
 
@@ -1676,7 +1610,7 @@ Cookie Policy
 
 
 
-Updated: August 2024 16
+Updated: July 2024 15
 
 
 
@@ -1688,7 +1622,7 @@ Cookie Name Category Purpose Lifespan
 
 
 
-123.ie First-Party \_hjSessionUser\_xxxxxxx Performance Hotjar is a software that allows us to visualize how users engage with our
+123.ie First Party \_hjSessionUser\_xxxxxxx Performance Hotjar is a software that allows us to visualize how users engage with our
 
 website. This cookie is set when a visitor lands on a page with the Hotjar script.
 
@@ -1710,7 +1644,7 @@ Persistent.
 
 
 
-123.ie First-Party \_hjTLDTest Performance Hotjar is a software that allows us to visualize how users engage with our
+123.ie First Party \_hjTLDTest Performance Hotjar is a software that allows us to visualize how users engage with our
 
 website. This cookie appears briefly to check that cookies are enabled on this
 
@@ -1722,7 +1656,7 @@ Session.
 
 
 
-123.ie First-Party \_hjUserAttributesHash Performance Hotjar is a software that allows us to visualize how users engage with our
+123.ie First Party \_hjUserAttributesHash Performance Hotjar is a software that allows us to visualize how users engage with our
 
 website. User attributes sent through Hotjar are cached for the duration of the
 
@@ -1734,7 +1668,7 @@ Session.
 
 
 
-123.ie First-Party \_hjHasCachedUserAttrib
+123.ie First Party \_hjHasCachedUserAttrib
 
 utes
 
@@ -1752,7 +1686,7 @@ Session.
 
 
 
-123.ie First-Party \_hjAbsoluteSessionInPro
+123.ie First Party \_hjAbsoluteSessionInPro
 
 gress
 
@@ -1770,7 +1704,7 @@ Persistent.
 
 
 
-123.ie First-Party \_hjFirstSeen Performance Hotjar is a software that allows us to visualize how users engage with our
+123.ie First Party \_hjFirstSeen Performance Hotjar is a software that allows us to visualize how users engage with our
 
 website. This cookie is set by Hotjar to identify a new user’s first session. It
 
@@ -1788,7 +1722,7 @@ Cookie Policy
 
 
 
-Updated: August 2024 17
+Updated: July 2024 16
 
 
 
@@ -1800,7 +1734,7 @@ Cookie Name Category Purpose Lifespan
 
 
 
-123.ie First-Party \_hjSession\_xxxxxxx Performance Hotjar is a software that allows us to visualize how users engage with our
+123.ie First Party \_hjSession\_xxxxxxx Performance Hotjar is a software that allows us to visualize how users engage with our
 
 website. This cookie is set when a visitor lands on a page with the Hotjar script.
 
@@ -1816,7 +1750,7 @@ Persistent.
 
 
 
-123.ie First-Party \_hjIncludedInSessionSa
+123.ie First Party \_hjIncludedInSessionSa
 
 mple
 
@@ -1836,7 +1770,7 @@ every 30 seconds
 
 
 
-123.ie First-Party \__hjIncludedInPageview
+123.ie First Party \__hjIncludedInPageview
 
 Sample
 
@@ -1856,7 +1790,7 @@ every 30 seconds
 
 
 
-123.ie First-Party \_hjClosedSurveyInvites Performance Hotjar is a software that allows us to visualize how users engage with our
+123.ie First Party \_hjClosedSurveyInvites Performance Hotjar is a software that allows us to visualize how users engage with our
 
 website and collect feedback directly from users as they engage with our
 
@@ -1874,7 +1808,7 @@ Persistent.
 
 
 
-123.ie First-Party \_hjDonePolls Performance Hotjar is a software that allows us to visualize how users engage with our
+123.ie First Party \_hjDonePolls Performance Hotjar is a software that allows us to visualize how users engage with our
 
 website and collect feedback directly from users as they engage with our
 
@@ -1892,7 +1826,7 @@ Persistent.
 
 
 
-123.ie First-Party \_hjMinimizedPolls Performance Hotjar is a software that allows us to visualize how users engage with our
+123.ie First Party \_hjMinimizedPolls Performance Hotjar is a software that allows us to visualize how users engage with our
 
 website and collect feedback directly from users as they engage with our
 
@@ -1910,7 +1844,7 @@ Cookie Policy
 
 
 
-Updated: August 2024 18
+Updated: July 2024 17
 
 
 
@@ -1926,7 +1860,7 @@ through our site. Hotjar uses a True/False flag set by the cookie.
 
 
 
-123.ie First-Party \_hjShownFeedbackMess
+123.ie First Party \_hjShownFeedbackMess
 
 age
 
@@ -1950,7 +1884,7 @@ Persistent.
 
 
 
-123.ie First-Party \_pxde Performance An analytics cookie related to security of the website and protection against
+123.ie First Party \_pxde Performance An analytics cookie related to security of the website and protection against
 
 malicious bots.
 
@@ -1964,7 +1898,7 @@ Vimeo.
 
 com
 
-Third-Party \_vuid Performance We embed videos from our official Vimeo channel onto our website. A cookie is
+Third Party \_vuid Performance We embed videos from our official Vimeo channel onto our website. A cookie is
 
 set to enable video to play and to collect analytics data such as how long a
 
@@ -1984,13 +1918,13 @@ Vimeo.
 
 com
 
-Third-Party \_cf_bm Performance This cookie is set by Vimeo on end-user devices that access the 123.ie website to
+Third Party \_cf_bm Performance Purpose: This cookie is set by Vimeo on end-user devices that access the 123.ie
 
-ensure that it is not bot traffic accessing the website. This cookie expires after 30
+website to ensure that it is not bot traffic accessing the website. This cookie
 
-minutes of continuous inactivity and does not track users from site to site or
+expires after 30 minutes of continuous inactivity and does not track users from
 
-from session to session. More information here:
+site to site or from session to session. More information here:
 
 https://developers.cloudflare.com/fundamentals/get-
 
@@ -2012,15 +1946,15 @@ Azure
 
 
 
-Third-Party ai_user Performance This cookie is from Azure, the cloud platform we use to monitor the overall
+Third Party ai_user Performance Purpose: This cookie is from Azure, the cloud platform we use to monitor the
 
-health of our site. This cookie is set by Azure and used to uniquely identify a
+overall health of our site. This cookie is set by Azure and used to uniquely
 
-particular user by tracking the requests you make to our services via your
+identify a particular user by tracking the requests you make to our services via
 
-browser. The telemetry is monitored for any errors or delays in providing the
+your browser. The telemetry is monitored for any errors or delays in providing
 
-service you are requesting.
+the service you are requesting.
 
 
 
@@ -2030,7 +1964,7 @@ Cookie Policy
 
 
 
-Updated: August 2024 19
+Updated: July 2024 18
 
 
 
@@ -2050,53 +1984,25 @@ Azure
 
 
 
-Third-Party ai_session Performance This cookie is from Azure, the cloud platform we use to monitor the overall
+Third Party ai_session Performance Purpose: This cookie is from Azure, the cloud platform we use to monitor the
 
-health of our site. This cookie is set by Azure and used to uniquely identify a
+overall health of our site. This cookie is set by Azure and used to uniquely
 
-particular user’s session by tracking the requests you make to our services via
+identify a particular user’s session by tracking the requests you make to our
 
-your browser. The telemetry is monitored for any errors or delays in providing
+services via your browser. The telemetry is monitored for any errors or delays in
 
-the service you are requesting.
-
-
-
-Session
-
-
-
-Vimeo.
-
-Com
-
-Third-Party \_cfuvid Performance We embed videos from our official Vimeo channel onto our website. A cookie is
-
-set to help Vimeo keep track of who's watching videos, especially if multiple
-
-users are using the same internet connection. For more information, please visit:
-
-https://developers.cloudflare.com/fundamentals/reference/policies-
-
-compliances/cloudflare-cookies/
+providing the service you are requesting.
 
 
 
 Session
-
-
-
-123.ie First-Party FPGSID Performance This cookie is related to Google Signals and registers statistical data on users'
-
-behaviour on our website.
-
-Persistent. 31 minutes.
 
 Cookie Policy
 
 
 
-Updated: August 2024 20
+Updated: July 2024 19
 
 
 
@@ -2118,33 +2024,33 @@ website and targeting our advertising to those audiences based on their
 
 actions. Facebook cookies are 3rd party cookies used to track website goal
 
-conversions and create (anonymised) lists of people that visited our website.
+conversions and create (anonymised) lists of people that visited our website. It
 
-It helps us to better tailor more relevant advertising to people who use the
+helps us to better tailor more relevant advertising to people who use the
 
 Facebook network. You can read more about Facebook’s cookie policy here:
 
 https://www.facebook.com/policies/cookies/. In using Facebook advertising
 
-products, we share event-type information with Facebook relating to
+products, we share event-type information with Facebook relating to website
 
-website visitors and the actions they may take on our website such as which
+visitors and the actions they may take on our website such as which pages
 
-pages were visited or whether they obtained a quote. We do this in order to
+were visited or whether they obtained a quote. We do this in order to present
 
-present you with more relevant advertising based on your browsing
+you with more relevant advertising based on your browsing behaviour of our
 
-behaviour of our website. Facebook uses types of personal data on our
+website. Facebook uses types of personal data on our behalf for the purposes
 
-behalf for the purposes of targeted advertising such as IP address (which is
+of targeted advertising such as IP address (which is partially anonymised),
 
-partially anonymised), online identifiers, including cookie identifiers, device
+online identifiers, including cookie identifiers, device identifiers and client
 
-identifiers and client identifiers (Browsers, Operating System). This
+identifiers (Browsers, Operating System). This information is not shared with
 
-information is not shared with another third party. For further information
+another third party. For further information on the use of your data, please
 
-on the use of your data, please visit Facebook’s privacy policy here:
+visit Facebook’s privacy policy here:
 
 https://www.facebook.com/about/privacy.
 
@@ -2158,7 +2064,7 @@ Cookie Policy
 
 
 
-Updated: August 2024 21
+Updated: July 2024 20
 
 
 
@@ -2176,19 +2082,19 @@ browser and user unique ID combination used for targeted advertising by
 
 Facebook. You can read more about Facebook’s cookie policy here:
 
-https://www.facebook.com/policies/cookies/. We share this information
+https://www.facebook.com/policies/cookies/. We share this information with
 
-with Facebook. Facebook does use types of personal data on our behalf for
+Facebook. Facebook does use types of personal data on our behalf for the
 
-the purposes of targeted advertising such as IP address (which is partially
+purposes of targeted advertising such as IP address (which is partially
 
-anonymised), online identifiers, including cookie identifiers, device
+anonymised), online identifiers, including cookie identifiers, device identifiers
 
-identifiers and client identifiers (Browsers, Operating System). This
+and client identifiers (Browsers, Operating System). This information is not
 
-information is not shared with another third party. For more information on
+shared with another third party. For more information on the use of your data,
 
-the use of your data, please visit Facebook’s privacy policy here:
+please visit Facebook’s privacy policy here:
 
 https://www.facebook.com/privacy/policy/
 
@@ -2220,7 +2126,7 @@ Cookie Policy
 
 
 
-Updated: August 2024 22
+Updated: July 2024 21
 
 
 
@@ -2236,31 +2142,29 @@ Cookie Name Category Purpose Lifespan
 
 browsers of website visitors. This cookie enables us to reach people who
 
-previously visited our website with the right advertising message across
+previously visited our website with the right advertising message across other
 
-other websites or display networks. This is done through a unique identifier
+websites or display networks. This is done through a unique identifier that is
 
-that is stored within a specific cookie in your browser. Cookies themselves
+stored within a specific cookie in your browser. Cookies themselves contain no
 
-contain no personally identifiable information. You can read more about
+personally identifiable information. You can read more about Google’s cookie
 
-Google’s cookie policy here:
+policy here: https://policies.google.com/technologies/types?hl=en-US. In
 
-https://policies.google.com/technologies/types?hl=en-US. In using this
+using this cookie for advertising purposes, we share information with Google
 
-cookie for advertising purposes, we share information with Google on your
+on your browsing behaviour of our website and tailor our advertising to you
 
-browsing behaviour of our website and tailor our advertising to you based
-
-on that information. When combined with the information Google may
+based on that information. When combined with the information Google may
 
 already have about you, this may be considered personal data e.g., an online
 
-identifier and your IP address. This data is not shared with another third-
+identifier and your IP address. This data is not shared with another third-party.
 
-party. For further information on the use of your data, please visit Google’s
+For further information on the use of your data, please visit Google’s privacy
 
-privacy policy here: https://policies.google.com/privacy?hl=en-US
+policy here: https://policies.google.com/privacy?hl=en-US
 
 
 
@@ -2272,9 +2176,9 @@ Persistent.
 
 123.ie First Party \_gac_UA-XXXXXXXX-X Advertising This cookie is set by Google and used to collect information about user
 
-interactions with our advertising campaigns. For more information, please
+interactions with our advertising campaigns. For more information, please visit
 
-visit https://policies.google.com/technologies/cookies
+https://policies.google.com/technologies/cookies
 
 
 
@@ -2300,20 +2204,6 @@ Persistent.
 
 90 Days.
 
-Cookie Policy
-
-
-
-Updated: August 2024 23
-
-
-
-Host 1st or
-
-3rd Party
-
-Cookie Name Category Purpose Lifespan
-
 
 
 123.ie First Party \_gcl_aw Advertising This cookie is set by Google and used for advertising and analytics purposes.
@@ -2332,15 +2222,25 @@ Persistent.
 
 90 Days
 
+Cookie Policy
 
 
-123.ie First Party FPGCLAW Advertising This cookie is set by Google and used for advertising and analytics purposes.
 
-It writes the click ID to storage and measures the effectiveness of Google
-
-ads.
+Updated: July 2024 22
 
 
+
+Host 1st or
+
+3rd Party
+
+Cookie Name Category Purpose Lifespan
+
+
+
+123.ie First Party FPGCLAW Advertising This cookie is set by Google and used for advertising and analytics purposes. It
+
+writes the click ID to storage and measures the effectiveness of Google ads.
 
 Persistent.
 
@@ -2348,13 +2248,9 @@ Persistent.
 
 
 
-123.ie First Party FPGCLDC Advertising This cookie is set by Google and used for advertising and analytics purposes.
+123.ie First Party FPGCLDC Advertising This cookie is set by Google and used for advertising and analytics purposes. It
 
-It writes the click ID to storage and measures the effectiveness of Google
-
-ads.
-
-
+writes the click ID to storage and measures the effectiveness of Google ads.
 
 Persistent.
 
@@ -2382,41 +2278,25 @@ https://policies.google.com/privacy?hl=enUS
 
 Persistent. 90 days
 
-Cookie Policy
 
 
+123.ie First-Party \_uetsid Advertising This is a cookie set by Microsoft Bing Ads and is a tracking cookie that applies a
 
-Updated: August 2024 24
+Session ID. It allows us to advertise to a website visitor who previously visited
 
+our website on the Microsoft Bing Pay Per Click search engine. You can read
 
+more about Microsoft’s cookie policy here: https://privacy.microsoft.com/en-
 
-Host 1st or
+us/PrivacyStatement. Microsoft uses types of personal data on our behalf for
 
-3rd Party
+the purposes of targeted advertising such as IP address (which is partially
 
-Cookie Name Category Purpose Lifespan
+anonymised), online identifiers, including cookie identifiers, device identifiers
 
+and client identifiers (Browsers, Operating System). For further information on
 
-
-123.ie First-Party \_uetsid Advertising This is a cookie set by Microsoft Bing Ads and is a tracking cookie that applies
-
-a Session ID. It allows us to advertise to a website visitor who previously
-
-visited our website on the Microsoft Bing Pay Per Click search engine. You
-
-can read more about Microsoft’s cookie policy here:
-
-https://privacy.microsoft.com/en-us/PrivacyStatement. Microsoft uses types
-
-of personal data on our behalf for the purposes of targeted advertising such
-
-as IP address (which is partially anonymised), online identifiers, including
-
-cookie identifiers, device identifiers and client identifiers (Browsers,
-
-Operating System). For further information on the use of your data by
-
-Microsoft, please visit their Privacy policy here:
+the use of your data by Microsoft, please visit their Privacy policy here:
 
 https://privacy.microsoft.com/en-us/PrivacyStatement
 
@@ -2430,49 +2310,11 @@ Persistent.
 
 123.ie First-Party \_uetsid_exp Advertising Contains the expiry-date for the cookie with corresponding name. Persistent.
 
-
-
-123.ie First-Party \_uetvid Advertising This is a cookie set by Microsoft Bing Ads and assigns a Visitor ID to 123.ie
-
-website visitors. It enables us to reach people who previously visited our
-
-website with tailored advertising across other websites within the Microsoft
-
-Bing advertising network. This is done through a unique identifier that is
-
-stored within a specific cookie in your browser. This cookie is used to create
-
-a unique, anonymized visitor ID. You can read more about Microsoft’s cookie
-
-policy here: https://privacy.microsoft.com/en-us/PrivacyStatement. In using
-
-Microsoft Bing’s advertising products, we share website user information
-
-and the actions they undertake on our website with Microsoft. Microsoft
-
-uses types of personal data on our behalf for the purposes of targeted
-
-advertising such as IP address (which is partially anonymised), online
-
-identifiers, including cookie identifiers, device identifiers and client
-
-identifiers (Browsers, Operating System). For further information on the use
-
-of your data by Microsoft, please visit their Privacy policy here:
-
-https://privacy.microsoft.com/en-us/PrivacyStatement.
-
-
-
-Persistent.
-
-13 Months.
-
 Cookie Policy
 
 
 
-Updated: August 2024 25
+Updated: July 2024 23
 
 
 
@@ -2484,7 +2326,59 @@ Cookie Name Category Purpose Lifespan
 
 
 
+123.ie First-Party \_uetvid Advertising This is a cookie set by Microsoft Bing Ads and assigns a Visitor ID to 123.ie
+
+website visitors. It enables us to reach people who previously visited our
+
+website with tailored advertising across other websites within the Microsoft
+
+Bing advertising network. This is done through a unique identifier that is
+
+stored within a specific cookie in your browser. This cookie is used to create a
+
+unique, anonymized visitor ID. You can read more about Microsoft’s cookie
+
+policy here: https://privacy.microsoft.com/en-us/PrivacyStatement. In using
+
+Microsoft Bing’s advertising products, we share website user information and
+
+the actions they undertake on our website with Microsoft. Microsoft uses
+
+types of personal data on our behalf for the purposes of targeted advertising
+
+such as IP address (which is partially anonymised), online identifiers, including
+
+cookie identifiers, device identifiers and client identifiers (Browsers, Operating
+
+System). For further information on the use of your data by Microsoft, please
+
+visit their Privacy policy here: https://privacy.microsoft.com/en-
+
+us/PrivacyStatement.
+
+
+
+Persistent.
+
+13 Months.
+
+
+
 123.ie First-Party \_uetvid_exp Advertising Contains the expiry-date for the cookie with corresponding name. Persistent.
+
+Cookie Policy
+
+
+
+Updated: July 2024 24
+
+
+
+Host 1st or
+
+3rd Party
+
+Cookie Name Category Purpose Lifespan
 
 
 
@@ -2504,19 +2398,19 @@ https://privacy.microsoft.com/en-us/PrivacyStatement. In using Microsoft
 
 Bing’s advertising products, we share website user information and the
 
-actions they undertake on our website with Microsoft. Microsoft uses types
+actions they undertake on our website with Microsoft. Microsoft uses types of
 
-of personal data on our behalf for the purposes of targeted advertising such
+personal data on our behalf for the purposes of targeted advertising such as IP
 
-as IP address (which is partially anonymised), online identifiers, including
+address (which is partially anonymised), online identifiers, including cookie
 
-cookie identifiers, device identifiers and client identifiers (Browsers,
+identifiers, device identifiers and client identifiers (Browsers, Operating
 
-Operating System). For further information on the use of your data by
+System). For further information on the use of your data by Microsoft, please
 
-Microsoft, please visit their Privacy policy here:
+visit their Privacy policy here: https://privacy.microsoft.com/en-
 
-https://privacy.microsoft.com/en-us/PrivacyStatement.
+us/PrivacyStatement.
 
 
 
@@ -2526,13 +2420,13 @@ Persistent.
 
 
 
-123.ie First-Party \_uetmsclkid Advertising This cookie is set by Microsoft Bing. It stores ad click information, generated
+123.ie First-Party \_uetmsclkid Advertising This cookie is set by Microsoft Bing. It stores ad click information, generated at
 
-at ad click time and attached to the landing page URL when auto-tagging of
+ad click time and attached to the landing page URL when auto-tagging of
 
-Microsoft Click ID is enabled. The Microsoft Click ID has 1N added to the end
+Microsoft Click ID is enabled. The Microsoft Click ID has 1N added to the end if
 
-if cookies are blocked by the browser and the msclkid parameter is in the
+cookies are blocked by the browser and the msclkid parameter is in the
 
 landing page URL. For further information on the use of your data by
 
@@ -2546,20 +2440,6 @@ Persistent.
 
 90 Days
 
-Cookie Policy
-
-
-
-Updated: August 2024 26
-
-
-
-Host 1st or
-
-3rd Party
-
-Cookie Name Category Purpose Lifespan
-
 
 
 youtube.com Third-
@@ -2568,15 +2448,15 @@ Party
 
 \_CONSENT Advertising This cookie is set by YouTube to track consent before an embedded video is
 
-played. Website content loaded in iframes from third party content
+played. Website content loaded in iframes from third party content providers,
 
-providers, for example YouTube, may set cookies and thereby require the
+for example YouTube, may set cookies and thereby require the visitor's
 
-visitor's consent. Google uses the ‘CONSENT’ cookie to store a user’s state
+consent. Google uses the ‘CONSENT’ cookie to store a user’s state regarding
 
-regarding their cookie choices. For further information on the use of your
+their cookie choices. For further information on the use of your data by
 
-data by Google, please visit here:
+Google, please visit here:
 
 https://policies.google.com/technologies/cookies?hl=en-US
 
@@ -2585,6 +2465,20 @@ https://policies.google.com/technologies/cookies?hl=en-US
 Persistent.
 
 2 Years
+
+Cookie Policy
+
+
+
+Updated: July 2024 25
+
+
+
+Host 1st or
+
+3rd Party
+
+Cookie Name Category Purpose Lifespan
 
 
 
@@ -2612,9 +2506,7 @@ Party
 
 viewing of videos. For further information on the use of your data by Google,
 
-please visit here: https://policies.google.com/technologies/cookies?hl=en-
-
-US
+please visit here: https://policies.google.com/technologies/cookies?hl=en-US
 
 
 
@@ -2646,15 +2538,13 @@ Doubleclick.net Third-
 
 Party
 
-\_IDE Advertising This cookie is used to serve targeted advertisements that are relevant to
+\_IDE Advertising This cookie is used to serve targeted advertisements that are relevant to users
 
-users across the web. Targeted advertisements may be displayed to users
+across the web. Targeted advertisements may be displayed to users based on
 
-based on previous visits to a website. For further information on the use of
+previous visits to a website. For further information on the use of your data by
 
-your data by Google, please visit here:
-
-https://policies.google.com/technologies/cookies?hl=en-US
+Google, please visit here: https://policies.google.com/technologies/cookies?hl=en-US
 
 
 
@@ -2662,33 +2552,17 @@ Persistent.
 
 13 Months
 
-Cookie Policy
-
-
-
-Updated: August 2024 27
-
-
-
-Host 1st or
-
-3rd Party
-
-Cookie Name Category Purpose Lifespan
-
 
 
 Doubleclick.net Third-
 
 Party
 
-\_test-cookie Advertising Purpose: This cookie is set by DoubleClick to determine if the website
+\_test-cookie Advertising Purpose: This cookie is set by DoubleClick to determine if the website visitor's
 
-visitor's browser supports cookies. For further information on the use of
+browser supports cookies. For further information on the use of your data by
 
-your data by Google, please visit here:
-
-https://policies.google.com/technologies/cookies?hl=en-US
+Google, please visit here: https://policies.google.com/technologies/cookies?hl=en-US
 
 
 
@@ -2704,17 +2578,31 @@ Party
 
 rendering ads, personalizing ads (depending on your ad settings at
 
-g.co/adsettings), limiting the number of times an ad is shown to a user,
+g.co/adsettings), limiting the number of times an ad is shown to a user, muting
 
-muting ads you have chosen to stop seeing, and measuring the effectiveness
+ads you have chosen to stop seeing, and measuring the effectiveness of ads.
 
-of ads. Please see Google advertising and measurement cookie information
+Please see Google advertising and measurement cookie information at
 
-at https://business.safety.google/adscookies/
+https://business.safety.google/adscookies/
 
 
 
 Session.
+
+Cookie Policy
+
+
+
+Updated: July 2024 26
+
+
+
+Host 1st or
+
+3rd Party
+
+Cookie Name Category Purpose Lifespan
 
 
 
@@ -2726,15 +2614,13 @@ ar_debug Advertising This cookie is a small piece of data that is stored on your
 
 DoubleClick. It helps DoubleClick identify and fix issues with their Attribution
 
-Reporting API. It generates debug reports and is only activated if the cookie
+Reporting API. It generates debug reports and is only activated if the cookie is
 
-is present at both source and trigger registration. For more information,
+present at both source and trigger registration. For more information, please
 
-please visit https://developers.google.com/privacy-
+visit https://developers.google.com/privacy-sandbox/relevance/attribution-
 
-sandbox/relevance/attribution-reporting/attribution-reporting-
-
-debugging/part-2
+reporting/attribution-reporting-debugging/part-2
 
 
 
@@ -2762,20 +2648,6 @@ Persistent.
 
 30 Days
 
-Cookie Policy
-
-
-
-Updated: August 2024 28
-
-
-
-Host 1st or
-
-3rd Party
-
-Cookie Name Category Purpose Lifespan
-
 
 
 Google.com Third-
@@ -2790,9 +2662,7 @@ prefers to see. This cookie is used to show Google ads in Google services for
 
 signed-out users. For further information on the use of your data by Google,
 
-please visit here: https://policies.google.com/technologies/cookies?hl=en-
-
-US
+please visit here: https://policies.google.com/technologies/cookies?hl=en-US
 
 
 
@@ -2808,13 +2678,11 @@ party
 
 \_SOCS Advertising This is a cookie set by Google to store a user’s consent state regarding their
 
-cookie choices so that these advertising preferences are respected as the
+cookie choices so that these advertising preferences are respected as the user
 
-user browses the web. For more information, please see Google's
+browses the web. For more information, please see Google's information
 
-information here: https://policies.google.com/technologies/cookies?hl=en-
-
-US
+here: https://policies.google.com/technologies/cookies?hl=en-US
 
 
 
@@ -2846,6 +2714,20 @@ Persistent.
 
 90 Days
 
+Cookie Policy
+
+
+
+Updated: July 2024 27
+
+
+
+Host 1st or
+
+3rd Party
+
+Cookie Name Category Purpose Lifespan
+
 
 
 Google.com Third-
@@ -2869,20 +2751,6 @@ https://business.safety.google/adscookies/
 Persistent.
 
 6 Months
-
-Cookie Policy
-
-
-
-Updated: August 2024 29
-
-
-
-Host 1st or
-
-3rd Party
-
-Cookie Name Category Purpose Lifespan
 
 
 
@@ -2950,75 +2818,11 @@ companies.
 
 Session.
 
-
-
-Bing.com Third-
-
-Party
-
-MSPTC Advertising This cookie is used by the search engine Bing to identify a visitor to our
-
-website. The information is used to optimize advertisement relevance.
-
-Persistent. 390
-
-Days.
-
-
-
-youtube.com Third-
-
-Party
-
-TESTCOOKIESENABLED Advertising This cookie is used to track user’s interaction with embedded content. Persistent. 1 Day.
-
 Cookie Policy
 
 
 
-Updated: August 2024 30
-
-
-
-Host 1st or
-
-3rd Party
-
-Cookie Name Category Purpose Lifespan
-
-
-
-youtube.com Third-
-
-Party
-
-VISITOR_PRIVACY_METADATA Advertising This cookie is used to stores the user's cookie consent state for the current
-
-domain.
-
-Persistent. 180 Day.
-
-
-
-google.com Third-
-
-Party
-
-secure-xxxxxxx Advertising These cookies are used by Google for advertising purposes. They track your
-
-browsing activity across websites and build a profile of your interests to
-
-show you relevant and personalized ads.
-
-
-
-365 days
-
-Cookie Policy
-
-
-
-Updated: August 2024 31
+Updated: July 2024 28
 
 
 
