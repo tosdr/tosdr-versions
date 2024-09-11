@@ -17,11 +17,9 @@
 * [Sponsoren](https://www.uscki.nl/?pagina=Sponsors)
     * [Joust](https://www.uscki.nl/?pagina=Sponsors&action=detail&id=68)
     * [Young Coders](https://www.uscki.nl/?pagina=Sponsors&action=detail&id=66)
-    * [Formorrow](https://www.uscki.nl/?pagina=Sponsors&action=detail&id=69)
     * [Voor bedrijven](https://www.uscki.nl/?pagina=Wicki/WPublic&subject=Samenwerking&menu=Sponsoren)
 * [Vacatures](https://www.uscki.nl/?pagina=Applications)
     * [Young Coders](https://www.uscki.nl/?pagina=Applications&action=detail&id=38)
-    * [Bit Traineeship: Future Tech, AI & Innovation](https://www.uscki.nl/?pagina=Applications&action=detail&id=40)
     * [Voor bedrijven](https://www.uscki.nl/?pagina=Wicki/WPublic&subject=Samenwerking&menu=Vacatures)
 * [Voor bedrijven](https://www.uscki.nl/?pagina=Wicki/WPublic&subject=Samenwerking)
 * [Meta](https://www.uscki.nl/?pagina=Wicki/WPublic&subject=Meta&menu=Meta)
@@ -157,8 +155,6 @@ Commissies en groepen binnen Incognito die zich bezighouden met het ontwikkelen 
 [![](?pagina=Media/FileView&id=105302&size=normal)](https://www.joust.nl/)
 
 [![](?pagina=Media/FileView&id=102783&size=normal)](https://youngcoders.nl/)
-
-[![](?pagina=Media/FileView&id=106155&size=normal)](https://www.formorrow.nl/)
 
 © 2003-2024 - [Privacy Policy](https://www.uscki.nl/?pagina=Wicki/WPublic&subject=Privacy_Policy)  
 
