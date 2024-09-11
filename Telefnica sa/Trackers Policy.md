@@ -2,7 +2,7 @@
 
 Buscar 
 
-[Telefónica ![](https://www.telefonica.com/es/wp-content/themes/telefonica-theme/img/svg/logo-germany.svg)](https://www.telefonica.com/es/) 
+[Telefónica](https://www.telefonica.com/es/)
 
 Telefonica.com
 
@@ -147,6 +147,12 @@ Telefonica.com
     * [Telefónica Jobs![flecha arriba derecha](https://www.telefonica.com/es/wp-content/uploads/sites/4/2023/02/arrow-line-up-right-icon.svg)](https://jobs.telefonica.com/?locale=es_ES)
     
 * [Tesauro](https://www.telefonica.com/es/tesauro/)
+    
+    Tesauro
+    
+    * [Autores](https://www.telefonica.com/es/autores/)
+    * [Tags](https://www.telefonica.com/es/tag/)
+    
 * [Centenario Telefónica](https://www.telefonica100.com/)
 
 [Contacto](https://www.telefonica.com/es/contacto/)
@@ -285,8 +291,6 @@ TELEFÓNICA podrá actualizar la presente Política de Cookies en cualquier mome
 
 No obstante lo anterior, la inclusión de cookies nuevas o la utilización de cookies ya informadas para finalidades diferentes a las indicadas requerirá la aceptación de las mismas de forma previa por parte del usuario.
 
-![](https://www.telefonica.com/es/wp-content/themes/telefonica-theme/img/svg/logo-germany-white.svg)
-
 Hacer nuestro mundo más humano, conectando la vida de las personas.
 
 * [facebook](https://www.facebook.com/telefonica)
@@ -294,22 +298,22 @@ Hacer nuestro mundo más humano, conectando la vida de las personas.
 * [twitter](https://twitter.com/telefonica/)
 * [instagram](https://www.instagram.com/telefonica/)
 * [youtube](https://www.youtube.com/user/telefonica)
-
-* [Países](https://www.telefonica.com/es/nosotros/paises-unidades-emergentes/)
 * [Contacto](https://www.telefonica.com/es/contacto/)
 
-[![](https://www.telefonica.com/es/wp-content/themes/telefonica-theme/img/png/bola-blanca.png)Volver a la portada](https://www.telefonica.com/es/)
+* [Países y Unidades emergentes](https://www.telefonica.com/es/nosotros/paises-unidades-emergentes/)
+* [Canal de Denuncias y Consultas](https://www.telefonica.com/es/canal-denuncias-consultas/)
+* [Centro Global Transparencia](https://www.telefonica.com/es/centro-global-de-transparencia/)
+
+[Volver a la portada](https://www.telefonica.com/es/)
 
 [Subir](#page)
 
+* © Telefónica S.A.
 * [Configurar Cookies](#)
 * [Política de cookies](https://www.telefonica.com/es/cookies/)
 * [Aviso legal](https://www.telefonica.com/es/aviso-legal/)
 * [Accesibilidad](https://www.telefonica.com/es/telefonica-accesible/)
 * [Política de privacidad](https://www.telefonica.com/es/politica-de-privacidad/)
-* [Canal de Denuncias y Consultas](https://www.telefonica.com/es/canal-denuncias-consultas/)
-* [Centro Global Transparencia](https://www.telefonica.com/es/centro-global-de-transparencia/)
-* © Telefónica S.A.
 
   
 
