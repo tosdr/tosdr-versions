@@ -113,4 +113,4 @@ For business
 
   [![Download Desktop app](https://static.tradingview.com/static/images/svg/app-desktop-badge/light-theme/app-desktop-badge-en.svg) ![Download Desktop app](https://static.tradingview.com/static/images/svg/app-desktop-badge/dark-theme/app-desktop-badge-en.svg)](https://www.tradingview.com/desktop/)[![Trade on TradingView](https://static.tradingview.com/static/images/svg/trade-on-tradingview-badges/light-theme/trade-on-tradingview-badges-en.svg) ![Trade on TradingView](https://static.tradingview.com/static/images/svg/trade-on-tradingview-badges/dark-theme/trade-on-tradingview-badges-en.svg)](https://www.tradingview.com/brokers/)
 
-Select market data provided by [ICE Data Services](https://www.theice.com/market-data) © 2024 TradingView, Inc. UK phone number [0800 048 8025](tel:08000488025)
+Select market data provided by [ICE Data Services](https://www.theice.com/market-data) Select reference data provided by FactSet. Copyright © 2024 FactSet Research Systems Inc. © 2024 TradingView, Inc. US phone number [833 247 1523](tel:8332471523)
