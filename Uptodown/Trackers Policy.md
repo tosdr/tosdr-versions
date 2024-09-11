@@ -1,6 +1,7 @@
 Back to the previous page [![Download, discover, share](https://stc.utdstc.com/img/svgs/logo-uptodown.svg)](https://en.uptodown.com/)
 
 Privacy Policy & Cookies
+========================
 
 ![](https://stc.utdstc.com/img/stats-ornament-down.svg)
 
@@ -85,7 +86,7 @@ The Application processes the Data of Users in a proper manner and shall take ap
 
 If there are any questions regarding this privacy and cookies policy you may contact us using the information below.
 
-Uptodown.com C/Puerta del Mar 15, 2 planta. 29005 Málaga SPAIN  
+Uptodown.com Avda. Andalucía, 31, Planta ent. Puerta Of 4, 29006, Málaga, Spain  
 contacto@uptodown.com  
 Tlfn. +34 623 195 114
 
