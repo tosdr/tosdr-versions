@@ -869,14 +869,14 @@ Back
 
 Back
 
-* [Free Trials](https://www.trendmicro.com/en_us/business/products/trials.html#detection-response)
+* [Free Trials](https://www.trendmicro.com/en_us/business/products/trials.html)
 * [Contact Us](https://www.trendmicro.com/en_us/business/get-info-form.html)
 
 [Looking for home solutions?](https://www.trendmicro.com/en_us/forHome.html)
 
 [Under Attack?](https://resources.trendmicro.com/GLB-Under-Attack-Form.html)
 
-3 Alerts
+4 Alerts
 
 Back
 
@@ -884,15 +884,18 @@ Unread
 
 All
 
-* [Trend Experts Weigh in on Global IT Outage Caused by CrowdStrike](https://www.trendmicro.com/en_us/research/24/g/crowdstrike-windows-outage-insights.html)close
+* [Imagine with AI. Secure with Trend.](https://www.trendmicro.com/en_us/business/artificial-intelligence.html)close
     
-    [Learn more >](https://www.trendmicro.com/en_us/research/24/g/crowdstrike-windows-outage-insights.html)
-* [AI-Powered Deepfake Tools Becoming More Accessible Than Ever](https://www.trendmicro.com/en_us/research/24/g/ai-deepfake-cybercrime.html)close
+    [Get expert insight >](https://www.trendmicro.com/en_us/business/artificial-intelligence.html)
+* [Confidence in GenAI: The Zero Trust Approach](https://www.trendmicro.com/en_us/research/24/h/secure-genai.html)close
     
-    [Learn more >](https://www.trendmicro.com/en_us/research/24/g/ai-deepfake-cybercrime.html)
-* [Imagine with AI, Secure with Trend.](https://resources.trendmicro.com/BlackHat2024.html)close
+    [Read blog >](https://www.trendmicro.com/en_us/research/24/h/secure-genai.html)
+* [Trend 2024 Midyear Cybersecurity Threat Report](https://www.trendmicro.com/vinfo/us/security/research-and-analysis/threat-reports/roundup/pushing-the-outer-limits-trend-micro-2024-midyear-cybersecurity-threat-report)close
     
-    [Connect and engage with us at Black Hat >](https://resources.trendmicro.com/BlackHat2024.html)
+    [Read findings >](https://www.trendmicro.com/vinfo/us/security/research-and-analysis/threat-reports/roundup/pushing-the-outer-limits-trend-micro-2024-midyear-cybersecurity-threat-report)
+* [Pressing Pause on a Play Ransomware Attack with Managed Detection and Response](https://www.trendmicro.com/en_us/research/24/h/pressing-pause-on-play-ransomware.html)close
+    
+    [Read more >](https://www.trendmicro.com/en_us/research/24/h/pressing-pause-on-play-ransomware.html)
 
 Support
 
@@ -1264,9 +1267,9 @@ We continue to embed the principles of the Modern Slavery Act 2015 through:
 * Ensuring that consideration of the modern slavery risks and prevention are an integral part of our policy review process.
 * Taking consistent action to strengthen and sustain our zero-tolerance policy towards modern slavery.
 
-Try our services free for 30 days
+Experience our unified platform for free
 
-* [Start your free trial today](https://www.trendmicro.com/en_us/business/products/trials.html#detection-response)
+* [Claim your 30-day trial](https://www.trendmicro.com/en_us/business/products/trials.html)
 
 * [](https://www.linkedin.com/company/trend-micro/)
 * [](https://www.facebook.com/TrendMicro/)
