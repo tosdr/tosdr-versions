@@ -473,7 +473,7 @@ _While such categorization of Personal Information is mainly based on California
 
 * ### Internet or other electronic network activity information
     
-    **Personal Information collected or disclosed:** Cookies, Usage data, Unique device identifiers for advertising (google advertiser id or idfa, for example), Various types of data as specified in the privacy policy of the service, Email address, Trackers, First name, Last name, Phone number, Company name, Profession, Country, State, Zip/postal code, Various types of data, City, Field of activity, Number of employees, Website
+    **Personal Information collected or disclosed:** Cookies, Usage Data, unique device identifiers for advertising (Google Advertiser ID or IDFA, for example), various types of Data as specified in the privacy policy of the service, email address, Trackers, first name, last name, phone number, company name, profession, country, state, ZIP/Postal code, various types of Data, city, field of activity, number of employees, website
     
     **Purposes:**
     
@@ -500,7 +500,7 @@ _While such categorization of Personal Information is mainly based on California
     
 * ### Identifiers
     
-    **Personal Information collected or disclosed:** Cookies, Unique device identifiers for advertising (google advertiser id or idfa, for example), Various types of data as specified in the privacy policy of the service, Email address, First name, Last name, Phone number, Company name, Profession, Country, State, Zip/postal code, Various types of data, City, Field of activity, Number of employees, Website
+    **Personal Information collected or disclosed:** Cookies, unique device identifiers for advertising (Google Advertiser ID or IDFA, for example), various types of Data as specified in the privacy policy of the service, email address, first name, last name, phone number, company name, profession, country, state, ZIP/Postal code, various types of Data, city, field of activity, number of employees, website
     
     **Purposes:**
     
@@ -520,7 +520,7 @@ _While such categorization of Personal Information is mainly based on California
     
 * ### Commercial information
     
-    **Personal Information collected or disclosed:** First name, Last name, Phone number, Company name, Profession, Country, State, Email address, Zip/postal code, Various types of data, City, Field of activity, Number of employees, Website
+    **Personal Information collected or disclosed:** first name, last name, phone number, company name, profession, country, state, email address, ZIP/Postal code, various types of Data, city, field of activity, number of employees, website
     
     **Purposes:**
     
@@ -536,7 +536,7 @@ _While such categorization of Personal Information is mainly based on California
     
 * ### Employment related information
     
-    **Personal Information collected or disclosed:** First name, Last name, Phone number, Company name, Profession, Country, State, Email address, Zip/postal code, Various types of data, City, Field of activity, Number of employees, Website
+    **Personal Information collected or disclosed:** first name, last name, phone number, company name, profession, country, state, email address, ZIP/Postal code, various types of Data, city, field of activity, number of employees, website
     
     **Purposes:**
     
@@ -552,7 +552,7 @@ _While such categorization of Personal Information is mainly based on California
     
 * ### Inferences drawn from other personal information
     
-    **Personal Information collected or disclosed:** First name, Last name, Phone number, Company name, Profession, Country, State, Email address, Zip/postal code, Various types of data, City, Field of activity, Number of employees, Website
+    **Personal Information collected or disclosed:** first name, last name, phone number, company name, profession, country, state, email address, ZIP/Postal code, various types of Data, city, field of activity, number of employees, website
     
     **Purposes:**
     
