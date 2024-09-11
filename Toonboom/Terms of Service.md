@@ -16,7 +16,7 @@
         
         Flexible and optimised for Gaming
         
-        Discover](https://www.toonboom.com/products/harmony-24-gaming)
+        Discover](https://www.toonboom.com/products/harmony-gaming)
     * [![](https://cdn3.toonboom.com/wp-content/uploads/2022/09/10150000/s24.svg)
         
         Storyboard Pro
@@ -39,7 +39,7 @@
     
     * Column 1
         * [Consulting Services](https://www.toonboom.com/services/consulting-services)
-        * [Training](https://www.toonboom.com/services/training)
+* [Training](https://www.toonboom.com/training)
 * [Education](#)
     
     Education
@@ -77,6 +77,7 @@
     * [Animation From Every Angle](https://www.toonboom.com/category/animation-from-every-angle)
     * [Press Releases](https://www.toonboom.com/category/press-releases)
 * [Support](https://desk.toonboom.com/)
+* [Learn Portal](https://learn.toonboom.com/)
 * [Contact](https://shop.toonboom.com/en/contact)
 
 United States of America (USA) (En)
@@ -101,7 +102,7 @@ No notification to see.
 
 Close notifications.
 
-[Sign in](https://account.toonboom.com/)
+[](https://account.toonboom.com/)
 
 Open Menu
 
@@ -109,14 +110,13 @@ Open Menu
     * [Back](#)
     * [Products](#)
         * [Harmony](https://www.toonboom.com/products/harmony)
-        * [Harmony Gaming](https://www.toonboom.com/products/harmony-24-gaming)
+        * [Harmony Gaming](https://www.toonboom.com/products/harmony-gaming)
         * [Storyboard Pro](https://www.toonboom.com/products/storyboard-pro)
         * [Producer](https://www.toonboom.com/products/producer)
 * [Services](#)
     * [Back](#)
     * [Services](https://www.toonboom.com/services)
         * [Consulting Services](https://www.toonboom.com/services/consulting-services)
-        * [Training](https://www.toonboom.com/services/training)
 * [Education](#)
     * [Back](#)
     * [Students](#)
@@ -149,6 +149,7 @@ Open Menu
 * [About](https://www.toonboom.com/about)
 * [Careers](https://www.toonboom.com/careers)
 * [Support](https://desk.toonboom.com/)
+* [Learn Portal](https://learn.toonboom.com/)
 * [Contact](https://shop.toonboom.com/en/contact)
 
 United States of America (USA) (En)
@@ -158,20 +159,6 @@ United States of America (USA) (En)
 * [Instagram](https://www.instagram.com/toonboomanimation/)
 * [Youtube](https://www.youtube.com/user/ToonBoomAnimation)
 * [Linkedin](https://www.linkedin.com/company/toon-boom-animation-inc)
-
-See notifications.
-
-0
-
-Previous
-
-1 of 0
-
-Next
-
-No notification to see.
-
-Close notifications.
 
 Terms and Conditions
 ====================
@@ -327,12 +314,11 @@ Follow us
 
 * Software
     * [Harmony](https://www.toonboom.com/products/harmony)
-    * [Harmony Gaming](https://www.toonboom.com/products/harmony-24-gaming)
+    * [Harmony Gaming](https://www.toonboom.com/products/harmony-gaming)
     * [Storyboard Pro](https://www.toonboom.com/products/storyboard-pro)
     * [Producer](https://www.toonboom.com/products/producer)
 * [Services](https://www.toonboom.com/services)
     * [Consulting Services](https://www.toonboom.com/services/consulting-services)
-    * [Training](https://www.toonboom.com/services/training)
 * [Education](#)
     * [Courseware](https://www.toonboom.com/courseware)
     * [Authorized Training Centres](https://www.toonboom.com/education/authorized-training-centres)
@@ -360,6 +346,20 @@ Follow us
 * [Privacy Policy](https://www.toonboom.com/privacy-policy)
 * [Terms and conditions](https://www.toonboom.com/terms-and-conditions)
 * [End-user License Agreement](https://www.toonboom.com/end-user-license-agreement)
+
+See notifications.
+
+0
+
+Previous
+
+1 of 0
+
+Next
+
+No notification to see.
+
+Close notifications.
 
 Select your country and language
 ================================
