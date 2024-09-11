@@ -1,4 +1,4 @@
-![](https://www.facebook.com/tr?id=434188952727028&ev=PageView&noscript=1)  
+![](https://www.facebook.com/tr?id=434188952727028&ev=PageView&noscript=1)     
 
 [![Modal icon](https://taimi.com/themes/taimi2/assets/images/banner-en.jpeg)](https://app.adjust.com/goc7ths?campaign=https://taimi.com/privacy-policy_page(id%20129))
 
@@ -20,7 +20,7 @@ Download for free:
 **TAIMI PRIVACY POLICY**
 ========================
 
-**Effective Date**: 20 June 2024 
+**Effective Date**: 09 August 2024
 
 Table of content
 
@@ -108,7 +108,7 @@ Android — settings, location, Taimi, permissions, location
 
 **2.1.**   **Reasons of Updates**. We may revise the Policy according to new developments or advances in legislation and the broader data protection landscape from time to time, so please check this page regularly to ensure you’re always up -to-date with any changes.
 
-**2.2.**   **Communication on Updates**. If we make any changes hereto that, in our sole discretion, are substantial, we will notify you by email (to the address associated with your profile) or via the App, post a notice within Taimi Services or make a notification appear in your profile when you next log in to Taimi before amendments become effective. A notification regarding other changes may be rendered to you by publishing at [https://taimi.com/privacypolicy](https://taimi.com/privacypolicy).
+**2.2.**   **Communication on Updates**. If we make any changes hereto that, in our sole discretion, are substantial, we will notify you by email (to the address associated with your profile) or via the App, post a notice within Taimi Services or make a notification appear in your profile when you next log in to Taimi before amendments become effective. A notification regarding other changes may be rendered to you by publishing at [https://taimi.com/privacypolicy](https://taimi.com/privacy-policy).
 
   
 
@@ -223,7 +223,8 @@ Besides the data processors listed above, your data may be processed by other co
 
 **3.6.**   **Additional Data Processors.** Where there is necessity, we may also engage additional service provider, contractors and third parties and may share the data with them. That will help us operate, provide, improve, integrate, customize, support, and market our Service and the Website. We share the data, in particular, for purposes indicated herein. The types of service providers we may share information with include, in particular: cloud storage providers, data analytics providers, measurement partners, marketing partners, payment processing providers, communication services providers, etc. 
 
-**3.7.**   **Moderation Practices.** We use a combination of automated tools and human moderators to monitor and review accounts (including name and any other information uploaded onto user profiles). This automated review helps identify profiles that may potentially breach our Terms of Use. Final decisions are made through human review to ensure accurate and fair outcomes. If the user’s profile  display characteristics indicative of potential violations,, the relevant profile will be subject to a warning and the user’s access may be restricted and/or blocked. Users from the EU and UK affected by these decisions have the right to appeal, and can contact us to contest the moderation actions taken against them.
+**3.7.** **Sharing consumer information with the App Store.** By registering on our Taimi app, you give us consent to share your information (age, the UUID of the in-app user account, your consumption status, the amount of time you used in the app, the kind of platform, the status of your account, the total amount of refunds you received in your app, delivery status) with the Apple store to help inform and improve refund process. We send such user\`s information to the App Store when the user requests a refund. The App Store uses the consumption information we provided to inform its refund decisions.  
+You can withdraw your consent at any time, please contact us at [support@taimi.com](mailto:support@taimi.com). If you request to delete your personal data, you may also submit requests directly to Apple by visiting [privacy.apple.com](https://privacy.apple.com/). In this case, we will stop sending your personal information to the Apple store in case of a refund request from you.
 
 **3.8.**   **Third Parties: Other Users and Social Media**. Some of your data is publicly available; it means that other users of Taimi may have access to your data with which you go public. 
 
@@ -326,6 +327,7 @@ Please read section 1 carefully and follow our privacy recommendation in order t
 | to contact you in order to obtain feedback and to find out if you want to take part in marketing campaigns and to send information<br><br> about service/app (direct marketing/<br><br>commercial messages about Taimi) | name; email address; user ID; data you disclose to us (CCPA categories A and B) | you directly provide this information to us and we automatically collect it from your device (user id) | legitimate interest or consent |
 | to help you to connect with other users and<br><br>to allow you to create a Taimi profile | data concerning a natural person’s sex life and sexual orientation | you directly provide this information to us | your explicit consent |
 | to communicate on your activity within our Services. As a result, you may, for example, receive a push notification every day at a particular time reminding you to read. | push notification tokens, localization of your device system; type and preferences of your device’s system; your device type | we automatically collect from your device | your explicit consent |
+| to help inform and improve the refund process in the Apple store | age, the UUID of the in-app user account, your consumption status, the amount of time you used in the app, kind of the platform, the status of your account, the total amount of refunds you received in your app, delivery status | we automatically collect from your device | your consent |
 
   
 
@@ -521,7 +523,7 @@ f) The specific pieces of personal information it has collected about that consu
 
 9.4.2 The right to delete your personal information or correct inaccurate personal information. You      may request Taimi to delete any personal information about you which Taimi has collected. You also have the right to request Taimi to correct inaccurate personal information about you, taking into account the nature of the personal information and the purposes of the processing of the personal information.
 
-**How to Submit a Request.** To submit a request for information required to be disclosed and a request for deletion or correction, please contact us by email [support@taimi.com](mailto:support@taimi.com) or go through our website at this available link [https://taimi.com/support#donotshare](https://taimi.com/support#donotshare) .
+**How to Submit a Request.**To submit a request for information required to be disclosed and a request for deletion or correction, please contact us by email [support@taimi.com](mailto:support@taimi.com) or go through our website at this available link [https://taimi.com/support](https://taimi.com/support#donotshare).
 
 9.4.3 Right to opt out of sale or sharing of personal information. You may direct Taimi, that may sell or share your personal information to third parties, not to sell or share your personal information. Please note that Taimi may stop to share your personal information only with third parties, Hilly may continue to share your personal information with service providers and contractors to provide you Service.
 
@@ -625,7 +627,7 @@ This security monitoring may result in the collection, recording, and analysis o
 
 **14\.**     **Reach us Out** 
 
-**14.1.** We would be glad to hear from you. If you have any questions regarding this Policy, please contact us at [support@taimi.com](mailto:support@taimi.com) or [legal@taimi.com](mailto:legal@taimi.com). 
+**14.1.** We would be glad to hear from you. If you have any questions regarding this Policy, please contact us at [support@taimi.com](mailto:support@taimi.com) or [legal@taimi.com](mailto:legal@taimi.com). 
 
 [![Logo](https://taimi.com/themes/taimi2/assets/images/logo.svg)](https://taimi.com/)
 
@@ -635,7 +637,7 @@ This security monitoring may result in the collection, recording, and analysis o
 
 En
 
- English Portuguesa Français Nederlands Deutsch Italiano Español
+En Pt Fr Nl De Es It
 
  [![Facebook](https://taimi.com/themes/taimi2/assets/images/foot_fb.svg)](https://www.facebook.com/taimiapp)[![Twitter](https://taimi.com/themes/taimi2/assets/images/foot_tw.svg)](https://twitter.com/taimiapp)[![Instagram](https://taimi.com/themes/taimi2/assets/images/foot_in.svg)](https://www.instagram.com/taimiapp)[![Tik-Tok](https://taimi.com/themes/taimi2/assets/images/foot_tt.svg)](https://www.tiktok.com/@taimiapp)
 
@@ -662,7 +664,7 @@ Legal
 
 En
 
- English Portuguesa Français Nederlands Deutsch Italiano Español
+En Pt Fr Nl De Es It
 
 Dating
 
@@ -683,5 +685,7 @@ Chat
 * [Transgender chat](https://taimi.com/transgender-chat)
 
 ![adjust](https://view.adjust.com/impression/goc7ths?campaign=http://taimi.com/privacy-policy)
+
+![Logo](https://taimi.com/themes/taimi2/assets/images/logo.svg): fluidity, discovery, diversity
 
 [Get Taimi App for Free](https://app.adjust.com/goc7ths?campaign=https://taimi.com/privacy-policy_page(id%20129))
