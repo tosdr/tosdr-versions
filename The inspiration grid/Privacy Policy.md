@@ -193,37 +193,37 @@ Some of our posts may contain affiliate links to partner brands. We earn a small
 
 ### More articles
 
-![](https://inspgr.id/app/uploads/2024/07/editorial-esr-geo-wallet-feature.jpg)
-
-[Product Design](https://theinspirationgrid.com/category/product-design/)[Technology](https://theinspirationgrid.com/category/technology-2/)
-
-[](https://theinspirationgrid.com/editorial/esr-launches-the-worlds-first-smart-wallet-with-built-in-find-my-functionality/)
-
-### ESR Launches the World’s First Smart Wallet with Built-in Find My Functionality
-
-![](https://inspgr.id/app/uploads/2024/07/interview-jeremy-booth-cover.jpg)
-
-[Art](https://theinspirationgrid.com/category/art/)
-
-[](https://theinspirationgrid.com/editorial/the-new-frontier-an-interview-with-jeremy-booth/)
-
-### The New Frontier: An Interview with Jeremy Booth
-
-![](https://inspgr.id/app/uploads/2024/07/analogue-pocket-aluminum-feature.jpg)
+![](https://inspgr.id/app/uploads/2024/09/ayaneo-retro-power-bank-feature-new.jpg)
 
 [Gaming](https://theinspirationgrid.com/category/gaming/)[Industrial Design](https://theinspirationgrid.com/category/industrial-design/)
 
-[](https://theinspirationgrid.com/editorial/the-new-analogue-pocket-aluminum-edition-is-gorgeous-and-very-expensive/)
+[](https://theinspirationgrid.com/editorial/ayaneos-retro-power-bank-blends-classic-console-vibes-with-modern-functionality/)
 
-### The new Analogue Pocket Aluminum Edition is Gorgeous (and Very Expensive)
+### AYANEO’s Retro Power Bank Blends Classic Console Vibes with Modern Functionality
 
-![](https://inspgr.id/app/uploads/2024/07/ayaneo-pocket-evo-feature.jpg)
+![](https://inspgr.id/app/uploads/2024/08/editorial-penmat-2-nano-texture-feature.jpg)
 
-[Gaming](https://theinspirationgrid.com/category/gaming/)[Industrial Design](https://theinspirationgrid.com/category/industrial-design/)
+[Art](https://theinspirationgrid.com/category/art/)[Graphic Design](https://theinspirationgrid.com/category/design/)
 
-[](https://theinspirationgrid.com/editorial/ayaneo-reveals-the-worlds-first-android-handheld-with-a-7-inch-120hz-oled-display/)
+[](https://theinspirationgrid.com/editorial/penmat-2-vs-ipad-nano-texture-glass-affordable-texture-maximum-flexibility/)
 
-### AYANEO Reveals the World’s First Android Handheld with a 7-inch 120Hz OLED Display
+### PenMat 2 vs. iPad Nano-Texture Glass: Affordable Texture, Maximum Flexibility
+
+![](https://inspgr.id/app/uploads/2024/08/rog-ally-x-accessories-cover.jpg)
+
+[Gaming](https://theinspirationgrid.com/category/gaming/)[Product Design](https://theinspirationgrid.com/category/product-design/)
+
+[](https://theinspirationgrid.com/editorial/the-best-asus-rog-ally-x-accessories-2024/)
+
+### The Best ASUS ROG Ally X Accessories 2024
+
+![](https://inspgr.id/app/uploads/2024/08/ada-winners-feature.jpg)
+
+[Architecture](https://theinspirationgrid.com/category/architecture/)[Fashion & Beauty](https://theinspirationgrid.com/category/fashion-2/)
+
+[](https://theinspirationgrid.com/editorial/design-pioneers-discover-20-outstanding-projects-from-a-design-award/)
+
+### Design Pioneers: Discover 20 Outstanding Projects from A’ Design Award
 
 #want
 -----
@@ -238,11 +238,11 @@ Some of our posts may contain affiliate links to partner brands. We earn a small
 
 [Yes, please](https://theinspirationgrid.com/)
 
-![](https://inspgr.id/app/uploads/2019/08/xtool-f1-ultra.jpg)
+![](https://inspgr.id/app/uploads/2019/08/product-ayaneo-am01@2x.jpg)
 
-[](https://www.xtool.com/pages/f1-ultra-100-deposit-payment-offset-1000?ref=tsDNwjGDF7ph54&utm_medium=5306&utm_source=influencer)
+[](http://ayaneo.com/partner/1pnydw34/8586265166069)
 
-### xTool F1 Ultra 20W Dual Laser Engraver
+### AYANEO Retro Mini PC AM02 – AMD Ryzen™ 7 7840HS
 
 [Gimme](https://theinspirationgrid.com/)
 
@@ -270,11 +270,11 @@ Some of our posts may contain affiliate links to partner brands. We earn a small
 
 [Oh baby](https://theinspirationgrid.com/)
 
-![](https://inspgr.id/app/uploads/2019/08/xencelabs-pen-display-16@2x.jpg)
+![](https://inspgr.id/app/uploads/2019/08/product-kamvas-13-gen-3@2x.jpg)
 
-[](https://shrsl.com/4j1t7)
+[](http://shrsl.com/4nv6c)
 
-### Xencelabs Pen Display 16 Drawing Tablet
+### Huion Kamvas 13 (Gen 3) Pen Display Drawing Tablet
 
 [Love it](https://theinspirationgrid.com/)
 
@@ -291,53 +291,53 @@ Latest
 inspiration
 -----------
 
-![](https://inspgr.id/app/uploads/2024/08/packaging-instinto-feature.jpg)
+![](https://inspgr.id/app/uploads/2024/09/photography-alexandre-mounayer-feature.jpg)
 
-[](https://theinspirationgrid.com/instinto-coffee-branding-packaging-by-panico/)
+[](https://theinspirationgrid.com/candid-travel-photography-by-alexandre-mounayer/)
 
-### Instinto Coffee Branding & Packaging by Pánico
+### Candid Travel Photography by Alexandre Mounayer
 
-![](https://inspgr.id/app/uploads/2024/08/logos-joseph-cortes-feature.jpg)
+![](https://inspgr.id/app/uploads/2024/09/architecture-yuputira-feature.jpg)
 
-[](https://theinspirationgrid.com/sleek-logo-designs-by-joseph-cacais-cortes/)
+[](https://theinspirationgrid.com/yuputira-residence-by-mariko-mori-ring-architects/)
 
-### Sleek Logo Designs by Joseph Cacais Cortes
+### Yuputira Residence by Mariko Mori & Ring Architects
 
-![](https://inspgr.id/app/uploads/2024/07/art-milica-martic-feature.jpg)
+![](https://inspgr.id/app/uploads/2024/09/design-ramp-vehicle-feature.jpg)
 
-[](https://theinspirationgrid.com/metamorphosis-striking-artworks-by-milica-martic/)
+[](https://theinspirationgrid.com/the-ramp-vehicle-a-wild-concept-car-by-ehaha/)
 
-### Metamorphosis: Striking Artworks by Milica Martic
+### The Ramp Vehicle: A Wild Concept Car by Ehaha
 
-![](https://inspgr.id/app/uploads/2024/07/photography-maria-l-m-moreno-feature.jpg)
+![](https://inspgr.id/app/uploads/2024/09/photography-gabor-nagy-feature.jpg)
 
-[](https://theinspirationgrid.com/micro-wonders-photos-by-maria-luisa-milla-moreno/)
+[](https://theinspirationgrid.com/lava-flow-amazing-photos-by-gabor-nagy/)
 
-### Micro Wonders: Photos by Maria Luisa Milla Moreno
+### Lava Flow: Amazing Photos by Gabor Nagy
 
-![](https://inspgr.id/app/uploads/2024/07/illustration-roger-olmos-feature.jpg)
+![](https://inspgr.id/app/uploads/2024/09/design-ion-lucin-feature.jpg)
 
-[](https://theinspirationgrid.com/whimsical-weird-illustrations-by-roger-olmos/)
+[](https://theinspirationgrid.com/vitrium-opus-typographic-posters-by-ion-lucin/)
 
-### Whimsical & Weird: Illustrations by Roger Olmos
+### Vitrium Opus: Typographic Posters by Ion Lucin
 
-![](https://inspgr.id/app/uploads/2024/07/art-toys-grapheart-feature.jpg)
+![](https://inspgr.id/app/uploads/2024/09/3d-damon-xart-feature.jpg)
 
-[](https://theinspirationgrid.com/street-bots-art-toys-by-grapheart/)
+[](https://theinspirationgrid.com/glass-metal-digital-art-by-damon-xart/)
 
-### Street Bots: Art Toys by Grapheart
+### Glass & Metal: Digital Art by Damon Xart
 
-![](https://inspgr.id/app/uploads/2024/07/art-sepand-danesh-feature.jpg)
+![](https://inspgr.id/app/uploads/2024/09/branding-alessandra-mejia-feature.jpg)
 
-[](https://theinspirationgrid.com/block-by-block-paintings-by-sepand-danesh/)
+[](https://theinspirationgrid.com/chivo-taqueria-branding-by-alessandra-mejia/)
 
-### Block by Block: Paintings by Sepand Danesh
+### Chivo Taqueria Branding by Alessandra Mejia
 
-![](https://inspgr.id/app/uploads/2024/07/3d-leonardoworx-24-feature.jpg)
+![](https://inspgr.id/app/uploads/2024/09/illustration-yun-yao-feature.jpg)
 
-[](https://theinspirationgrid.com/one-of-a-kind-experimental-digital-art-by-leonardoworx/)
+[](https://theinspirationgrid.com/whimsical-worlds-illustrations-by-yun-yao/)
 
-### One of a Kind: Experimental Digital Art by Leonardoworx
+### Whimsical Worlds: Illustrations by Yun Yao
 
 Awesome products for creatives
 ------------------------------
@@ -352,11 +352,11 @@ Awesome products for creatives
 
 [Yes, please](https://theinspirationgrid.com/)
 
-![](https://inspgr.id/app/uploads/2019/08/xtool-f1-ultra.jpg)
+![](https://inspgr.id/app/uploads/2019/08/product-ayaneo-am01@2x.jpg)
 
-[](https://www.xtool.com/pages/f1-ultra-100-deposit-payment-offset-1000?ref=tsDNwjGDF7ph54&utm_medium=5306&utm_source=influencer)
+[](http://ayaneo.com/partner/1pnydw34/8586265166069)
 
-### xTool F1 Ultra 20W Dual Laser Engraver
+### AYANEO Retro Mini PC AM02 – AMD Ryzen™ 7 7840HS
 
 [Gimme](https://theinspirationgrid.com/)
 
@@ -384,11 +384,11 @@ Awesome products for creatives
 
 [Oh baby](https://theinspirationgrid.com/)
 
-![](https://inspgr.id/app/uploads/2019/08/xencelabs-pen-display-16@2x.jpg)
+![](https://inspgr.id/app/uploads/2019/08/product-kamvas-13-gen-3@2x.jpg)
 
-[](https://shrsl.com/4j1t7)
+[](http://shrsl.com/4nv6c)
 
-### Xencelabs Pen Display 16 Drawing Tablet
+### Huion Kamvas 13 (Gen 3) Pen Display Drawing Tablet
 
 [Love it](https://theinspirationgrid.com/)
 
