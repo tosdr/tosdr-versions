@@ -266,7 +266,6 @@ AgileRates.com is an online marketplace connecting consumers with insurance agen
 * * *
 
 #### Copyright © AgileRates.com | All rights reserved |  
-382 NE 191st Street, Ste 57537, Miami, FL 33179
 
 [Terms of Use](https://www.agilerates.com/terms-of-use/)
 
