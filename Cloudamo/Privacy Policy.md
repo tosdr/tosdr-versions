@@ -37,7 +37,6 @@
 * [About us](https://cloudamo.com/about-us.php)
 * [Contact Us](https://cloudamo.com/contact.php)
 * [Login](https://cloudamo.com/clientarea.php)
-* [Register](https://cloudamo.com/register.php)
 * [View Cart](https://cloudamo.com/cart.php?a=view)
 
     [![Cloudamo](/templates/templates-nuhost/img/header/logo.png)  ![Cloudamo](/templates/templates-nuhost/img/header/logo-b.png)  We are celebrating 5 years  
@@ -109,13 +108,13 @@ The Pictures app has been rewritten and improved, and is now called the Gallery 
 
 You can access your Nextcloud files with the Nextcloud Web interface and create, preview, edit,...
 
- [Web browser requirements for Nextcloud?](https://cloudamo.com/knowledgebase/20/Web-browser-requirements-for-Nextcloud.html)
-
-For the best experience with the Nextcloud web interface, we recommend that you use the latest...
-
  [Can I use my own domain ?](https://cloudamo.com/knowledgebase/3/Can-I-use-my-own-domain-.html)
 
 You can use your own domain/subdomain at any time with all packages. You can either order one, or...
+
+ [Web browser requirements for Nextcloud?](https://cloudamo.com/knowledgebase/20/Web-browser-requirements-for-Nextcloud.html)
+
+For the best experience with the Nextcloud web interface, we recommend that you use the latest...
 
 ###   Tag Cloud
 
