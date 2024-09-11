@@ -7,7 +7,7 @@ Main Header
 
  [![WSECU Logo](/img/Mobile_WSECU_Logo.svg) ![Mobile WSECU Logo](/img/Mobile_WSECU_Logo.svg)](https://wsecu.org/)
 
-[Appointments](https://appointments.wsecu.org/) [Branches & ATMs](https://wsecu.org/locations) [Join Now](https://wsecu.org/join-wsecu)
+[Appointments](https://appointments.wsecu.org/) [Branches & ATMs](https://wsecu.org/locations) [Join Now and become a WSECU member](https://wsecu.org/join-wsecu)
 
 Menu Close
 
@@ -42,7 +42,7 @@ WSECU Routing Number: **325181028**
     * [FAQ](https://wsecu.org/resources?topic=Checking+and+Savings&format=FAQ)
     * [View All](https://wsecu.org/resources?topic=Checking+and+Savings)
     
-     [![](/Images/Mega%20Menu/share-certificates.jpg) Earn 4.75% APY on 7-month Certificates Open today](https://wsecu.org/checking-and-savings/share-certificates)
+     [![](/Images/Mega%20Menu/share-certificates.jpg) Earn 4.60% APY on 7-month Certificates Open today](https://wsecu.org/checking-and-savings/share-certificates)
     
     * [Replace a Debit or ATM Card](https://wsecu.org/resources/how-to-replace-a-credit-debit-or-atm-card)
     * [How to Use Bill Pay](https://wsecu.org/resources/bill-pay)
@@ -294,7 +294,7 @@ Go back to the search field
     * [FAQ](https://wsecu.org/resources?topic=Checking+and+Savings&format=FAQ)
     * [View All](https://wsecu.org/resources?topic=Checking+and+Savings)
     
-     [![](/Images/Mega%20Menu/share-certificates.jpg) Earn 4.75% APY on 7-month Certificates Open today](https://wsecu.org/checking-and-savings/share-certificates)
+     [![](/Images/Mega%20Menu/share-certificates.jpg) Earn 4.60% APY on 7-month Certificates Open today](https://wsecu.org/checking-and-savings/share-certificates)
     
     * [Replace a Debit or ATM Card](https://wsecu.org/resources/how-to-replace-a-credit-debit-or-atm-card)
     * [How to Use Bill Pay](https://wsecu.org/resources/bill-pay)
@@ -491,13 +491,6 @@ Go back to the search field
 
 Important Notifications
 -----------------------
-
-### Some ATM locations are currently unavailable
-
-**ATMs temporarily unavailable**  
-Some WSECU ATMs are temporarily unavailable. Please visit our [locations page](https://wsecu.org/locations) for details and alternative options. We apologize for the inconvenience.
-
-[Dismiss Some ATM locations are currently unavailable](#)
 
 Terms & Conditions
 ==================
