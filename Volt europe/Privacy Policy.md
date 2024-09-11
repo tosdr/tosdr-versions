@@ -28,7 +28,7 @@ People
 
 News
 
-[Events](https://volteuropa.org/events)
+Events
 
 [Open positions at Volt Europa](https://www.volteuropa.org/vacancies) [Get involved](https://www.volteuropa.org/get-involved) [Volt in the News](https://www.volteuropa.org/volt-in-the-news) [European Election 2024](https://www.volteuropa.org/european-election-2024)
 
@@ -62,21 +62,29 @@ Regional and local delegates](https://www.volteuropa.org/people/regional-local-d
 
 [All people](https://volteuropa.org/people)
 
-Back[![](/img/containers/assets/images/news_images/eu_parliament_plenary.jpg/f47e34fc7cd4af4b5f6e9824fc6f5046.jpg)
+Back[![](/img/containers/assets/img_4989.jpg/b56057dc4b728c266eb5a442e07af171.jpg)
 
-Nela Riehl elected as Chair of the European Parliament Committee on Education and Culture and Damian Boeselager as Vice-Chair of the Committee on Economic and Monetary Affairs 24 Jul 2024](https://volteuropa.org/news/nela-riehl-damian-boeselager-committee-positions)[![](/img/containers/assets/gq_djniwkaa2qu8.jpeg/41de6d03021cad5f423665738c01147a.jpeg)
+Russian Attacks in Poltava: Volt Europa Calls for Stronger Military and Humanitarian Support for Ukraine 4 Sep 2024](https://volteuropa.org/news/russian-attacks-in-poltava-volt-europa-calls-for-stronger-military-and-humanitarian-support-for-ukraine)[![](/img/containers/assets/img_1168.webp/e2169cbae213394c0d537550a3289ece.webp)
 
-MEP Markéta Gregorová announces close cooperation with the 5 Member Volt delegation in the European Parliament 27 Jun 2024](https://volteuropa.org/news/mep-marketa-gregorova-announces-close-cooperation-with-the-5-member-volt-delegation-in-the-european-parliament)[![](/img/containers/assets/%28c%29.jpg/a00f0c74c64affd8d5a4961975e21c06.jpg)
+A Travel Itinerary Fit for the Future 14 Aug 2024](https://volteuropa.org/news/a-travel-itinerary-fit-for-the-future)[![](/img/containers/assets/pexels-zuzia-kulikowska-330692174-14318569.jpg/00a08aa7c86b28ff3da435fc91bff8cc.jpg)
 
-Snap Elections in France: Europe is on the Ballot 26 Jun 2024](https://volteuropa.org/news/snap-elections-in-france-europe-is-on-the-ballot)[![](/img/containers/assets/screenshot-2024-06-24-at-11.29.10.png/1357a6b5fc1409e02626a08d0151b2f8.png)
+The Anniversary of the Second Phase of the Turkish Invasion of Cyprus 14 Aug 2024](https://volteuropa.org/news/the-anniversary-of-the-second-phase-of-the-turkish-invasion-of-cyprus)[![](/img/containers/assets/pexels-ivan-drazic-20457695-25315874.jpg/5a21473e3389f6fb2310ff6541e99396.jpg)
 
-Volt joins Greens/EFA in the European Parliament 24 Jun 2024](https://volteuropa.org/news/volt-joins-greens-efa-in-the-european-parliament)[![](/img/containers/assets/images/policy_images/eu_parliament_plenary.png/31e1b62057a3f4f8fbead88f71126220.png)
+Volt Cyprus: A Call for Diplomacy in a Time of Escalating Tensions 12 Aug 2024](https://volteuropa.org/news/volt-cyprus-a-call-for-diplomacy-in-a-time-of-escalating-tensions)[![](/img/containers/assets/pexels-ahmed-akacha-3313934-19264032.jpg/b2638afba2391e6f13cb74a83f8adc81.jpg)
 
-Volt gets 5 pan-European MEPs elected 10 Jun 2024](https://volteuropa.org/news/volt-gets-5-pan-european-meps-elected)[![Young woman viewing screen and typing on mobile phone](/img/containers/assets/images/news_images/woman-with-mobile-phone-daria-nepriakhina-unsplash.jpg/4810787e388ca51db1986510622f4496.jpg)
+The EU can no longer stand aloof when it comes to Israeli occupation policies 11 Aug 2024](https://volteuropa.org/news/the-eu-can-no-longer-stand-aloof-when-it-comes-to-israeli-occupation-policies)[![](/img/containers/assets/pexels-lara-jameson-8828624.jpg/0c171cab006bb38a87566fe4f82a0a1f.jpg)
 
-Chat control won’t protect children. Instead, it will erode our rights 5 Jun 2024](https://volteuropa.org/news/chat-control-wont-protect-children)
+Volt Europa on the current escalation in the Middle East 8 Aug 2024](https://volteuropa.org/news/volt-europa-on-the-current-escalation-in-the-middle-east)
 
 [View more news](https://volteuropa.org/news)
+
+Back[![](/img/containers/assets/image_123650291.jpg/c59623a4faeae782db5ae7fe6e25c103.jpg)
+
+Engaging in Dialogue on Israel, Palestine and building bridges
+
+27 Sep 2024 Cafè Belcampo, Amsterdam (NL); Youtube (livestream)](https://volteuropa.org/events/engaging-in-dialogue-on-the-israel-palestine-conflict)
+
+[All events](https://volteuropa.org/events)
 
 Back
 
