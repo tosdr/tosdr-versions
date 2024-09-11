@@ -138,24 +138,23 @@ Save settings
 
 ### Featured Articles
 
-[![Become Ambidextrous](https://www.wikihow.com/images/thumb/9/94/Become-Ambidextrous-Step-10.jpg/-crop-126-120-126px-Become-Ambidextrous-Step-10.jpg)
+[![Sell Your Hair](https://www.wikihow.com/images/thumb/f/f8/Sell-Your-Hair-Step-14.jpg/-crop-126-120-126px-Sell-Your-Hair-Step-14.jpg)
 
 How to  
-Become Ambidextrous](https://www.wikihow.com/Become-Ambidextrous)
+Sell Your Hair](https://www.wikihow.com/Sell-Your-Hair)
 
-[![Cope With Friends Who Turn Against You](https://www.wikihow.com/images/thumb/1/12/Cope-With-Friends-Who-Turn-Against-You-Step-13.jpg/-crop-126-120-126px-Cope-With-Friends-Who-Turn-Against-You-Step-13.jpg)
+[![Start Exercising when You're Out of Shape](https://www.wikihow.com/images/thumb/b/bd/Start-Exercising-when-You%27re-Out-of-Shape-Step-17.jpg/-crop-126-120-126px-Start-Exercising-when-You%27re-Out-of-Shape-Step-17.jpg)
+
+How to Start Working Out if You're Out of Shape: Tips & Beginner Exercises](https://www.wikihow.com/Start-Exercising-when-You%27re-Out-of-Shape)
+
+[![Know when to Kiss on a Date](https://www.wikihow.com/images/thumb/3/3b/Know-when-to-Kiss-on-a-Date-Step-1-Version-3.jpg/-crop-126-120-126px-Know-when-to-Kiss-on-a-Date-Step-1-Version-3.jpg)
+
+When Is It OK to Kiss on a Date? (And How Will You Know?)](https://www.wikihow.com/Know-when-to-Kiss-on-a-Date)
+
+[![Be Single and Happy in Your 30s](https://www.wikihow.com/images/thumb/e/ec/Be-Single-and-Happy-in-Your-30s-Step-10.jpg/-crop-126-120-126px-Be-Single-and-Happy-in-Your-30s-Step-10.jpg)
 
 How to  
-Cope With Friends Who Turn Against You](https://www.wikihow.com/Cope-With-Friends-Who-Turn-Against-You)
-
-[![Exfoliate Your Body for Soft Skin](https://www.wikihow.com/images/thumb/d/dc/Exfoliate-Your-Body-for-Soft-Skin-Step-10-Version-4.jpg/-crop-126-120-126px-Exfoliate-Your-Body-for-Soft-Skin-Step-10-Version-4.jpg)
-
-How to  
-Exfoliate Your Body for Soft Skin](https://www.wikihow.com/Exfoliate-Your-Body-for-Soft-Skin)
-
-[![Color Season Quiz](https://www.wikihow.com/images/thumb/7/7d/4seasons-quiz-2.jpg/-crop-126-120-126px-4seasons-quiz-2.jpg)
-
-What Is My Color Season Quiz](https://www.wikihow.com/Color-Season-Quiz)
+Be Single and Happy in Your 30s](https://www.wikihow.com/Be-Single-and-Happy-in-Your-30s)
 
   
 
@@ -196,4 +195,6 @@ Follow Us
 
 \-
 
-147
+![](https://sb.scorecardresearch.com/p?c1=2&c2=8003466&cv=3.9.1&cj=1)
+
+140
