@@ -485,7 +485,7 @@ _While such categorization of Personal Information is mainly based on California
 
 * ### Internet or other electronic network activity information
     
-    **Personal Information collected or disclosed:** Various types of data as specified in the privacy policy of the service, Cookies, Email address, First name, Last name, Picture, Usage data, Phone number, Company name, Country, State, Zip/postal code, City, User id, Billing address, Tracker, Device information, Data communicated while using the service, Trackers
+    **Personal Information collected or disclosed:** various types of Data as specified in the privacy policy of the service, Cookies, email address, first name, last name, picture, Usage Data, phone number, company name, country, state, ZIP/Postal code, city, User ID, billing address, Tracker, device information, Data communicated while using the service, Trackers
     
     **Sensitive Personal Information collected or disclosed ℹ️:** password, username, payment info
     
@@ -513,7 +513,7 @@ _While such categorization of Personal Information is mainly based on California
     
 * ### Identifiers
     
-    **Personal Information collected or disclosed:** Email address, First name, Last name, Various types of data as specified in the privacy policy of the service, Picture, Cookies, Usage data, Phone number, Company name, Country, State, Zip/postal code, City, User id, Billing address, Tracker, Device information, Data communicated while using the service
+    **Personal Information collected or disclosed:** email address, first name, last name, various types of Data as specified in the privacy policy of the service, picture, Cookies, Usage Data, phone number, company name, country, state, ZIP/Postal code, city, User ID, billing address, Tracker, device information, Data communicated while using the service
     
     **Sensitive Personal Information collected or disclosed ℹ️:** password, username, payment info
     
@@ -538,7 +538,7 @@ _While such categorization of Personal Information is mainly based on California
     
 * ### Audio, electronic, visual, thermal, olfactory, or similar information
     
-    **Personal Information collected or disclosed:** Email address, First name, Last name, Various types of data as specified in the privacy policy of the service, Picture, Cookies, Usage data, Phone number, Company name, Country, State, Zip/postal code, City, User id, Billing address
+    **Personal Information collected or disclosed:** email address, first name, last name, various types of Data as specified in the privacy policy of the service, picture, Cookies, Usage Data, phone number, company name, country, state, ZIP/Postal code, city, User ID, billing address
     
     **Sensitive Personal Information collected or disclosed ℹ️:** password, username
     
@@ -559,7 +559,7 @@ _While such categorization of Personal Information is mainly based on California
     
 * ### Commercial information
     
-    **Personal Information collected or disclosed:** Usage data, First name, Last name, Phone number, Email address, Company name, Country, State, Zip/postal code, City, Picture, User id, Billing address, Device information, Data communicated while using the service
+    **Personal Information collected or disclosed:** Usage Data, first name, last name, phone number, email address, company name, country, state, ZIP/Postal code, city, picture, User ID, billing address, device information, Data communicated while using the service
     
     **Sensitive Personal Information collected or disclosed ℹ️:** username, password, payment info
     
