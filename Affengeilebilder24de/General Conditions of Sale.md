@@ -93,13 +93,14 @@ Newsletter[](https://affengeilebilder24.de/customer_identity/redirect?locale=de)
     * [Henrivaux](https://affengeilebilder24.de/blogs/kuenstler/henrivaux)
     * [Himmelmiez](https://affengeilebilder24.de/blogs/kuenstler/himmelmiez)
     * [Housofblk](https://affengeilebilder24.de/blogs/kuenstler/diana-ortiz)
+    * [Iconica](https://affengeilebilder24.de/blogs/kuenstler/iconica)
     * [Jessica Loiterton](https://affengeilebilder24.de/blogs/kuenstler/jessica-loiterton)
     * [Juliano de Araujo](https://affengeilebilder24.de/blogs/kuenstler/juliano-de-araujo)
     * [Kiss Pink](https://affengeilebilder24.de/blogs/kuenstler/kiss-pink)
-    * [Lukas Avalon](https://affengeilebilder24.de/blogs/kuenstler/lukas-avalon)
     
     [⠀](https://affengeilebilder24.de/blogs/kuenstler)
     
+    * [Lukas Avalon](https://affengeilebilder24.de/blogs/kuenstler/lukas-avalon)
     * [Markus Mikolai](https://affengeilebilder24.de/blogs/kuenstler/markus-mikolai)
     * [Matteo Bianchi](https://affengeilebilder24.de/blogs/kuenstler/matteo-bianchi)
     * [Mr. Underdott](https://affengeilebilder24.de/blogs/kuenstler/mr-underdott)
@@ -108,10 +109,10 @@ Newsletter[](https://affengeilebilder24.de/customer_identity/redirect?locale=de)
     * [Nilo](https://affengeilebilder24.de/blogs/kuenstler/nilo)
     * [Patrice Murciano](https://affengeilebilder24.de/blogs/kuenstler/patrice-murciano)
     * [Philipp Pilz](https://affengeilebilder24.de/blogs/kuenstler/philipp-pilz)
-    * [Rosa Piazza](https://affengeilebilder24.de/blogs/kuenstler/rosa-piazza)
     
     [⠀](https://affengeilebilder24.de/blogs/kuenstler)
     
+    * [Rosa Piazza](https://affengeilebilder24.de/blogs/kuenstler/rosa-piazza)
     * [RS Artist](https://affengeilebilder24.de/blogs/kuenstler/rs-artist)
     * [Sean Flores](https://affengeilebilder24.de/blogs/kuenstler/sean-flores)
     * [Spanjer](https://affengeilebilder24.de/blogs/kuenstler/spanjer)
@@ -121,11 +122,11 @@ Newsletter[](https://affengeilebilder24.de/customer_identity/redirect?locale=de)
     * [Zenzdesign](https://affengeilebilder24.de/blogs/kuenstler/zenzdesign)
     * [★ Künstler werden](https://affengeilebilder24.de/pages/kunstler-werden-bei-affengeilebilder)
     
-    [![](//affengeilebilder24.de/cdn/shop/files/Decker_Profilfoto_720x.jpg?v=1718015564)
+    [![](//affengeilebilder24.de/cdn/shop/files/Profilfoto_ICONICA_720x.jpg?v=1724146699)
     
     NEW ARTIST
     
-    DANIEL DECKER](https://affengeilebilder24.de/blogs/kuenstler/daniel-decker)
+    ICONICA](https://affengeilebilder24.de/blogs/kuenstler/iconica)
     
 * [Produkte](https://affengeilebilder24.de/collections/all)
     
@@ -166,8 +167,8 @@ Newsletter[](https://affengeilebilder24.de/customer_identity/redirect?locale=de)
     [Produkte](https://affengeilebilder24.de/collections/all)
     
     * [AluDibond](https://affengeilebilder24.de/collections/aludibond)
-    * [Leuchtrahmen](https://affengeilebilder24.de/collections/leuchtrahmen)
     * [Bilderrahmen](https://affengeilebilder24.de/collections/bilderrahmen)
+    * [Posterleisten](https://affengeilebilder24.de/collections/posterleisten)
     * [Dein Unikat](https://affengeilebilder24.de/products/dein-unikat)
     * [Geschenkgutschein](https://affengeilebilder24.de/products/affengeile-bilder-geschenkgutschein)
     
@@ -229,6 +230,7 @@ Newsletter[](https://affengeilebilder24.de/customer_identity/redirect?locale=de)
     * [Henrivaux](https://affengeilebilder24.de/blogs/kuenstler/henrivaux)
     * [Himmelmiez](https://affengeilebilder24.de/blogs/kuenstler/himmelmiez)
     * [Housofblk](https://affengeilebilder24.de/blogs/kuenstler/diana-ortiz)
+    * [Iconica](https://affengeilebilder24.de/blogs/kuenstler/iconica)
     * [Jessica Loiterton](https://affengeilebilder24.de/blogs/kuenstler/jessica-loiterton)
     * [Juliano de Araujo](https://affengeilebilder24.de/blogs/kuenstler/juliano-de-araujo)
     * [Kiss Pink](https://affengeilebilder24.de/blogs/kuenstler/kiss-pink)
@@ -251,11 +253,11 @@ Newsletter[](https://affengeilebilder24.de/customer_identity/redirect?locale=de)
     * [Zuppini](https://affengeilebilder24.de/blogs/kuenstler/zuppini)
     * [Künstler werden](https://affengeilebilder24.de/pages/kunstler-werden-bei-affengeilebilder)
     
-    [![](//affengeilebilder24.de/cdn/shop/files/Decker_Profilfoto_810x.jpg?v=1718015564)
+    [![](//affengeilebilder24.de/cdn/shop/files/Profilfoto_ICONICA_810x.jpg?v=1724146699)
     
     NEW ARTIST
     
-    DANIEL DECKER](https://affengeilebilder24.de/blogs/kuenstler/daniel-decker)
+    ICONICA](https://affengeilebilder24.de/blogs/kuenstler/iconica)
     
 * Produkte
     
@@ -269,8 +271,8 @@ Newsletter[](https://affengeilebilder24.de/customer_identity/redirect?locale=de)
     * [Rosè auf Acrylglas](https://affengeilebilder24.de/collections/rose-auf-acrylglas)
     * [Neon auf Acrylglas](https://affengeilebilder24.de/collections/neon-auf-acrylglas)
     * [Brush AluDibond](https://affengeilebilder24.de/collections/brushedseries-auf-geburstetem-aludibond)
-    * [Leuchtrahmen](https://affengeilebilder24.de/collections/leuchtrahmen)
     * [Bilderrahmen](https://affengeilebilder24.de/collections/bilderrahmen)
+    * [Posterleisten](https://affengeilebilder24.de/collections/posterleisten)
     * [Dein Unikat](https://affengeilebilder24.de/products/dein-unikat)
     * [Geschenkgutschein](https://affengeilebilder24.de/products/affengeile-bilder-geschenkgutschein)
     
@@ -356,6 +358,7 @@ English Deutsch
 * [Henrivaux](https://affengeilebilder24.de/blogs/kuenstler/henrivaux)
 * [Himmelmiez](https://affengeilebilder24.de/blogs/kuenstler/himmelmiez)
 * [Housofblk](https://affengeilebilder24.de/blogs/kuenstler/diana-ortiz)
+* [Iconica](https://affengeilebilder24.de/blogs/kuenstler/iconica)
 * [Jessica Loiterton](https://affengeilebilder24.de/blogs/kuenstler/jessica-loiterton)
 * [Juliano de Araujo](https://affengeilebilder24.de/blogs/kuenstler/juliano-de-araujo)
 * [Kiss Pink](https://affengeilebilder24.de/blogs/kuenstler/kiss-pink)
@@ -390,8 +393,8 @@ English Deutsch
 * [Rosè auf Acrylglas](https://affengeilebilder24.de/collections/rose-auf-acrylglas)
 * [Neon auf Acrylglas](https://affengeilebilder24.de/collections/neon-auf-acrylglas)
 * [Brush AluDibond](https://affengeilebilder24.de/collections/brushedseries-auf-geburstetem-aludibond)
-* [Leuchtrahmen](https://affengeilebilder24.de/collections/leuchtrahmen)
 * [Bilderrahmen](https://affengeilebilder24.de/collections/bilderrahmen)
+* [Posterleisten](https://affengeilebilder24.de/collections/posterleisten)
 * [Dein Unikat](https://affengeilebilder24.de/products/dein-unikat)
 * [Geschenkgutschein](https://affengeilebilder24.de/products/affengeile-bilder-geschenkgutschein)
 
@@ -499,7 +502,7 @@ English Deutsch
 
 Wir akzeptieren
 
-American Express Apple Pay Google Pay Klarna Maestro Mastercard PayPal Shop Pay Union Pay Visa
+American Express Apple Pay Google Pay Maestro Mastercard PayPal Shop Pay Union Pay Visa
 
 Cookies
 
