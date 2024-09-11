@@ -4,8 +4,6 @@ Crunched for time, but want a demo? Watch our pre-recorded demo instead!
 
 ### Fill out the info below to get the best demo for your business!
 
-Leave this field blank
-
     
 
 First Name 
@@ -27,8 +25,6 @@ Submit
  
 
 [](https://companycam.com/)
-
-[Log In](https://app.companycam.com/signin?_gl=1*1rf2exm*_ga*MTEyMDcwMDM5NC4xNzA5NjU5NjQ0*_ga_9EHVFEZKVX*MTcxNDUwNzcyNC40Ny4wLjE3MTQ1MDc3MjQuNjAuMC4w*_ga_J48HTRJMG3*MTcxNDUwNzcyNC4xODkuMS4xNzE0NTA3NzI0LjYwLjAuMA..)
 
 * [Who We Serve](#)
     
@@ -226,13 +222,13 @@ Submit
     
     [Explore All Classes](https://companycam.com/classes)
     
-    * ![advanced features thumbnail](https://companycam.imgix.net/images/Classes_2024_August-Craft.png?auto=format&w=280)
+    * ![advanced features thumbnail](https://companycam.imgix.net/images/Classes_2024_July_Craft.jpg?auto=format&w=280)
         
-        [All About CompanyCam Checklists](https://companycam.com/classes/all-about-companycam-checklists)
+        [Everything We've Launched (So Far) in 2024](https://companycam.com/classes/new-companycam-features-2024)
         
-    * ![advanced features thumbnail](https://companycam.imgix.net/images/Classes_Desktop-CraftTile.png?auto=format&w=280)
+    * ![advanced features thumbnail](https://companycam.imgix.net/images/June_Craft.png?auto=format&w=280)
         
-        [CompanyCam on Desktop](https://companycam.com/classes/companycam-desktop)
+        [CompanyCam's Communication Class](https://companycam.com/classes/companycams-communication-class)
         
     
     ### Contact Support
@@ -290,7 +286,7 @@ Submit
             
         * ![](//companycam.imgix.net/images/global-nav/team.svg)
             
-            [Careers](https://companycam.com/careers)
+            [Join the Team](https://companycam.com/team)
             
         * ![](//companycam.imgix.net/images/global-nav/press.svg)
             
@@ -298,7 +294,7 @@ Submit
             
         * ![](//companycam.imgix.net/images/global-nav/events.svg)
             
-            [Trade Shows](https://companycam.com/trade-shows)
+            [Meet Us at a Show](https://companycam.com/trade-shows)
             
     
     ### Savings Calculator
@@ -316,7 +312,7 @@ Submit
     * [Download App](https://companycam.com/download)
     
 
-[Book a Demo](https://companycam.com/demo) [Free Trial](https://companycam.com/signup)
+[Login](https://app.companycam.com/signin?_gl=1*1rf2exm*_ga*MTEyMDcwMDM5NC4xNzA5NjU5NjQ0*_ga_9EHVFEZKVX*MTcxNDUwNzcyNC40Ny4wLjE3MTQ1MDc3MjQuNjAuMC4w*_ga_J48HTRJMG3*MTcxNDUwNzcyNC4xODkuMS4xNzE0NTA3NzI0LjYwLjAuMA..) [Free Trial](https://companycam.com/signup)
 
 [](https://companycam.com/)
 
@@ -522,13 +518,13 @@ Menu
     
     [Explore All Classes](https://companycam.com/classes)
     
-    * ![advanced features thumbnail](https://companycam.imgix.net/images/Classes_2024_August-Craft.png?auto=format&w=280)
+    * ![advanced features thumbnail](https://companycam.imgix.net/images/Classes_2024_July_Craft.jpg?auto=format&w=280)
         
-        [All About CompanyCam Checklists](https://companycam.com/classes/all-about-companycam-checklists)
+        [Everything We've Launched (So Far) in 2024](https://companycam.com/classes/new-companycam-features-2024)
         
-    * ![advanced features thumbnail](https://companycam.imgix.net/images/Classes_Desktop-CraftTile.png?auto=format&w=280)
+    * ![advanced features thumbnail](https://companycam.imgix.net/images/June_Craft.png?auto=format&w=280)
         
-        [CompanyCam on Desktop](https://companycam.com/classes/companycam-desktop)
+        [CompanyCam's Communication Class](https://companycam.com/classes/companycams-communication-class)
         
     
     ### Contact Support
@@ -586,7 +582,7 @@ Menu
             
         * ![](//companycam.imgix.net/images/global-nav/team.svg)
             
-            [Careers](https://companycam.com/careers)
+            [Join the Team](https://companycam.com/team)
             
         * ![](//companycam.imgix.net/images/global-nav/press.svg)
             
@@ -594,7 +590,7 @@ Menu
             
         * ![](//companycam.imgix.net/images/global-nav/events.svg)
             
-            [Trade Shows](https://companycam.com/trade-shows)
+            [Meet Us at a Show](https://companycam.com/trade-shows)
             
     
     ### Savings Calculator
@@ -612,7 +608,7 @@ Menu
     * [Download App](https://companycam.com/download)
     
 
-[Log In](https://app.companycam.com/signin)
+[Login](https://app.companycam.com/signin)
 
 [Free Trial](https://app.companycam.com/signup)
 
