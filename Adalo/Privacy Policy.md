@@ -154,7 +154,7 @@ Compare
 
 Company
 
-[About](https://www.adalo.com/about-us)[Careers](https://www.adalo.com/jobs)[Blog](https://www.adalo.com/blog)
+[About](https://www.adalo.com/about-us)[Careers](https://www.adalo.com/jobs)[Blog](https://www.adalo.com/blog)[Preferences](https://www.adalo.com/preferences)
 
 [](https://twitter.com/adalohq)[](https://www.instagram.com/adalohq/)[](https://www.facebook.com/AdaloHQ/)[](https://www.linkedin.com/company/adalohq)[](https://www.youtube.com/channel/UCy3qpkwqXcxgnLgmA_qbTpw)
 
@@ -162,12 +162,6 @@ Company
 
 🍪
 
-Yay! Cookies! To personalize your experience, we use cookies. By continuing you agree.
+By clicking **"Accept"**, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
 
-Yay! Cookies! To personalize your experience, we uses cookies. By continuing you agree.
-
-🍪
-
-Yay! Cookies! To personalize your experience, we uses cookies. By continuing you agree.
-
-[SOUNDS GOOD](#)
+[Preferences](#)[Accept](#)[Reject](#)
