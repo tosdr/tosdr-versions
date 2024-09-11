@@ -23,14 +23,16 @@ This site is affiliated with Freestar for the purposes of placing advertising on
 
 We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [https://www.networkadvertising.org](https://www.networkadvertising.org/).
 
-12:41:29
+08:43:36PM
 
 The clock will update automatically if you turn on JavaScript in your browser.
 ------------------------------------------------------------------------------
 
-Thursday, 1 August, 2024, week 31
+Tuesday, September 10, 2024
 
-Sun: ↑ 05:20 ↓ 21:14 (15h 54m) - [More info](https://time.is/United_Kingdom#time_zone) - [Make United Kingdom time default](https://time.is/h/28359f) - [Add to favorite locations](https://time.is/)
+[World Suicide Prevention Day](https://www.iasp.info/)
+
+Sun: ↑ 06:31AM ↓ 07:14PM (12h 43m) - [More info](https://time.is/North_Bergen#time_zone) - [Make North Bergen time default](https://time.is/h/4dd937) - [Add to favorite locations](https://time.is/)
 
 ×
 
@@ -65,7 +67,6 @@ Sun: ↑ 05:20 ↓ 21:14 (15h 54m) - [More info](https://time.is/United_Kingdom#
 * [Advertise](https://time.is/advertise)
 * [Terms of use](https://time.is/terms_of_use)
 * [Privacy policy](https://time.is/terms_of_use#privacy_policy)
-* [Change consent](https://time.is/#)
 
 [![Download on the App Store](/img/app_store_badge/Download_on_the_App_Store_Badge_US-UK_135x40.svg)](https://apps.apple.com/app/time.is/id857189816)
 
