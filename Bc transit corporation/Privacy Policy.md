@@ -260,7 +260,7 @@ Victoria, BC V8W 2P3
 * [Advertise at BC Transit](https://www.bctransit.com/business/advertise/)
 * [Become a Vendor](https://www.bctransit.com/business/become-a-retailer/)
 * [For Suppliers and Contractors](https://www.bctransit.com/business/supply-and-tenders/)
-* [In Your Community](https://www.bctransit.com/business/in-your-community/)
+* [In Your Community](https://www.bctransit.com/business/https-www-bctransit-com-about-textdelivering20transportation20services20you20can20rely20on20ourbuild20responsive20transit20systems20that20support20livable20communities/)
 * [BusReady](https://busready.bctransit.com/)
 * [Kids Tour Program](https://www.bctransit.com/business/kids-tour-program/)
 * [BC Transit Development Referral Program](https://www.bctransit.com/development-referral-program/)
