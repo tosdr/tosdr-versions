@@ -213,6 +213,10 @@ Wakelet reserves the right to share Users' personal information to respond to du
 
 Our Services include a wide variety of widgets and social media features, such as Social Login Buttons (e.g. Facebook, Google), Embeds (e.g. Tweets, Instagram posts), and Search Integrations (e.g. YouTube API Services, further information available at YouTube [Terms of Service](https://www.youtube.com/t/terms), [Google Privacy Policy](https://policies.google.com/privacy), [API Client Terms of Use and Privacy Policies](https://developers.google.com/youtube/terms/developer-policies#a.-api-client-terms-of-use-and-privacy-policies) and [Google Security Setting](https://security.google.com/settings/security/permissions)). These typically involve including a Software Development Kit (SDK) or iFrame from the third-party site. These widgets collect your IP address, which page you are visiting on the Service, and may set a cookie to enable the feature to function properly. Your interactions with these features are governed by the Privacy Policy of the company providing it.
 
+#### Use of Google Workspace APIs:
+
+Wakelet does not use data obtained through Google Workspace APIs to develop, improve, or train generalized AI or machine learning models.
+
 ### 3.3 Service Providers
 
 We share data with the following service providers:
