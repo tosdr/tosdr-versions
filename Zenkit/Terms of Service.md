@@ -1,69 +1,41 @@
 [![Web
 Analytics](//c.statcounter.com/10546969/0/7fa3ddee/1/)](http://statcounter.com/ "Web Analytics")
 
-[![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUAQAAAACl8iCgAAAAAnRSTlMAAHaTzTgAAAAMSURBVAjXY2CgLgAAAFAAASIT6HUAAAAASUVORK5CYII=)
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![](https://zenkit.com/wp-content/themes/zenkit-com/img/icons/zenkit_suite_logo.svg)
+![](https://zenkit.com/wp-content/themes/zenkit-com/img/logos/zenkit-logo-web.svg)](https://zenkit.com/en/ "Zenkit")
 
-Zenkit Suite](https://zenkit.com/en/suite/ "Zenkit Projects")
-
-* [Products](#)
-    
-    Zenkit offers you a suite of collaboration and project management tools that work perfectly together.
-    
-    [See all products](https://zenkit.com/en/suite/)
-    
-    * [Zenkit ProjectsMulti-Project management](https://zenkit.com/en/projects/ "Projects")
-    * [HypernotesKnowledge management](https://zenkit.com/en/hypernotes/ "Zenkit Hypernotes")
-    * [Zenkit BaseDigital Transformation Platform](https://zenkit.com/en/base/ "Zenkit Base")
-    * [Zenkit To DoThe super-simple task management app.](https://zenkit.com/en/todo/ "Zenkit To Do")
-    * [ZenformsForms and Surveys](https://zenkit.com/en/forms/ "Zenforms")
-    * [ZenchatChat + Tasks = Magic](https://zenkit.com/en/chat/ "Zenchat")
-    * [More Productsto come this year](# "More Products")
-* [Solutions](https://zenkit.com/en/suite/solutions/ "Solutions")
-* [Book a Live Demo](https://zenkit.com/en/suite/demo/)
+* [Features](https://zenkit.com/en/features/)
+* [Pricing](https://zenkit.com/en/pricing/)
+* [Book a free consultation](https://zenkit.com/en/demo/)
 
 [Deutsch](https://zenkit.com/de/)[English](https://zenkit.com/en/terms/)[Français](https://zenkit.com/fr/)[Español](https://zenkit.com/es/)[Italiano](https://zenkit.com/it/)[Português](https://zenkit.com/pt-br/)[한국어](https://zenkit.com/ko/)[Русский](https://zenkit.com/ru/)[繁體中文](https://zenkit.com/zh-hant/)[日本語](https://zenkit.com/ja/)
 
-* [Login](# "Login")
-    * [Zenkit Projects](https://projects.zenkit.com/login "Projects")
-    * [Hypernotes](https://hypernotes.zenkit.com/login "Hypernotes")
-    * [Zenkit Base](https://base.zenkit.com/login "Zenkit Base")
-    * [Zenkit To Do](https://todo.zenkit.com/login "Zenkit To Do")
-    * [Zenforms](https://forms.zenkit.com/login "Zenforms")
-    * [Zenchat](https://chat.zenkit.com/login "Zenchat")
-* [Get started](https://projects.zenkit.com/register "Get started")
+* [Log in](https://app.zenkit.com/login)
+* [Get started](https://app.zenkit.com/register)
 
-[![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQAQAAAAA3iMLMAAAAAnRSTlMAAHaTzTgAAAAMSURBVAjXY2AgDQAAADAAAceqhY4AAAAASUVORK5CYII=)
-
-![](https://zenkit.com/wp-content/themes/zenkit-com/favicon.ico?v=5)
-
-Zenkit Suite](https://zenkit.com/en/suite/ "Zenkit Suite") 
-
-* [Products](#)
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Zenkit offers you a suite of collaboration and project management tools that work perfectly together.
+    ![](https://zenkit.com/wp-content/themes/zenkit-com/img/logos/zenkit-logo-web.svg)](https://zenkit.com/en/ "Zenkit")
+    
+    Zenkit Projects organizes your projects - perfectly integrated with the other collaboration solutions in our suite.
     
     [See all products](https://zenkit.com/en/suite/)
     
-    * [Zenkit ProjectsMulti-Project management](https://zenkit.com/en/projects/ "Projects")
-    * [HypernotesKnowledge management](https://zenkit.com/en/hypernotes/ "Zenkit Hypernotes")
-    * [Zenkit BaseDigital Transformation Platform](https://zenkit.com/en/base/ "Zenkit Base")
-    * [Zenkit To DoThe super-simple task management app.](https://zenkit.com/en/todo/ "Zenkit To Do")
-    * [ZenformsForms and Surveys](https://zenkit.com/en/forms/ "Zenforms")
-    * [ZenchatChat + Tasks = Magic](https://zenkit.com/en/chat/ "Zenchat")
-    * [More Productsto come this year](# "More Products")
-* [Solutions](https://zenkit.com/en/suite/solutions/ "Solutions")
-* [Book a Live Demo](https://zenkit.com/en/suite/demo/)
+    * [Projects Multi-Project management](https://zenkit.com/en/projects/ "Zenkit Projects")
+    * [Hypernotes Knowledge management](https://zenkit.com/en/hypernotes/ "Zenkit Hypernotes")
+    * [Base Digital Transformation Platform](https://zenkit.com/en/base/ "Zenkit Base")
+    * [To Do The super-simple task management app](https://zenkit.com/en/todo/ "Zenkit To Do")
+    * [Zenforms Forms and Surveys](https://zenkit.com/en/forms/ "Zenchat")
+    * [Zenchat Chat + Tasks = Magic](https://zenkit.com/en/chat/ "Zenchat")
 
-* [Login](# "Login")
-    * [Zenkit Projects](https://projects.zenkit.com/login "Projects")
-    * [Hypernotes](https://hypernotes.zenkit.com/login "Hypernotes")
-    * [Zenkit Base](https://base.zenkit.com/login "Zenkit Base")
-    * [Zenkit To Do](https://todo.zenkit.com/login "Zenkit To Do")
-    * [Zenforms](https://forms.zenkit.com/login "Zenforms")
-    * [Zenchat](https://chat.zenkit.com/login "Zenchat")
-* [Get started](https://projects.zenkit.com/register "Get started")
+* [Home](https://zenkit.com/en/projects/ "Home")
+* [Features](https://zenkit.com/en/features/ "Features")
+* [Pricing](https://zenkit.com/en/pricing/ "Pricing")
+
+* [Book a Free Consultation](https://zenkit.com/en/demo/ "Book a Free Consultation")
+* [Log in](https://app.zenkit.com/login "Log in")
+* [Get started](https://app.zenkit.com/register "Get started")
 
 * ![Globe icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -73,13 +45,12 @@ Zenkit Suite](https://zenkit.com/en/suite/ "Zenkit Suite")
     
 
 * [Products](# "Products")
-    * [Zenkit Projects](https://zenkit.com/en/projects/ "Zenkit Projects")
+    * [Zenkit](https://zenkit.com/en/projects/ "Zenkit")
     * [Zenkit Hypernotes](https://zenkit.com/en/hypernotes/ "Zenkit Hypernotes")
-    * [Zenkit Base](https://zenkit.com/en/base/ "Zenkit Base")
     * [Zenkit To Do](https://zenkit.com/en/todo/ "Zenkit To Do")
     * [Zenforms](https://zenkit.com/en/forms/ "Zenforms")
     * [Zenchat](https://zenkit.com/en/chat/ "Zenchat")
-    * [See all products](https://zenkit.com/en/suite "See all products")
+    * [See all products](https://zenkit.com/suite "See all products")
 
 * [Company](# "Company")
     * [About Us](https://zenkit.com/base/about-us/ "About Us")
@@ -89,7 +60,7 @@ Zenkit Suite](https://zenkit.com/en/suite/ "Zenkit Suite")
     * [Careers](https://axonic.com/jobs/ "Careers")
     * [Find a Partner](https://zenkit.com/suite/find-a-partner/ "Find a Partner")
     * [Customer Stories](https://zenkit.com/suite/customer-stories/ "Customer Stories")
-    * [Enterprise](https://zenkit.com/enterprise/ "Enterprise")
+    * [Enterprise](https://zenkit.comterprise/ "Enterprise")
     * [Book a Live Demo](https://zenkit.com/demo/ "Book a Live Demo")
 
 * [Service](# "Service")
@@ -101,12 +72,20 @@ Zenkit Suite](https://zenkit.com/en/suite/ "Zenkit Suite")
     * [Knowledge Base](https://zenkit.freshdesk.com/en/support/home "Knowledge Base")
     * [Contact](https://zenkit.com/contact/ "Contact")
 
+[![Badge of Apple App Store](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![Badge of Apple App Store](https://zenkit.com/wp-content/themes/zenkit-com/img/batches/apple-store-badge.svg)](https://itunes.apple.com/us/app/zenkit/id964755085?ls=1&mt=8)
+
+[![Badge of Android Play Store](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![Badge of Android Play Store](https://zenkit.com/wp-content/themes/zenkit-com/img/batches/google-play-badge.svg)](https://play.google.com/store/apps/details?id=com.zenkit.zenkit)
+
 Zenkit Terms of Service
 =======================
 
 _Last updated on March 8th, 2022_
 
-By using Zenkit’s online and offline products and services (collectively, “the Service” or “Services”), provided by the Zenkit division within Axonic Informationssysteme GmbH (collectively, “Zenkit,” “We” or “Us”), you agree to be bound by the following Terms of Service (“TOS”), together with our Privacy Policy. The TOS may be updated by us from time to time without notice. You can review the most current version of the TOS at any time at: [https://zenkit.com/terms](https://zenkit.com/terms "https://zenkit.com/terms").
+By using Zenkit’s online and offline products and services (collectively, “the Service” or “Services”), provided by the Zenkit division within Axonic Informationssysteme GmbH (collectively, “Zenkit,” “We” or “Us”), you agree to be bound by the following Terms of Service (“TOS”), together with our Privacy Policy. The TOS may be updated by us from time to time without notice. You can review the most current version of the TOS at any time at: [https://zenkit.com/terms](https://zenkit.com/en/terms/ "https://zenkit.com/terms").
 
 This TOS governs your access to and use of any Zenkit website, any order you place through a Zenkit website, by telephone or any other means, and, as applicable, your use or attempted use of Zenkit’s products and services (collectively, “Your Use”), including any extensions, mobile applications, and other downloadable products.
 
@@ -374,35 +353,41 @@ Kaiserstraße 241
 76133 Karlsruhe  
 Germany
 
-[![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQAQAAAAA3iMLMAAAAAnRSTlMAAHaTzTgAAAAMSURBVAjXY2AgDQAAADAAAceqhY4AAAAASUVORK5CYII=)
+[Zenkit](https://zenkit.com/en/)
 
-![](https://zenkit.com/wp-content/themes/zenkit-com/img/icons/zenkit_suite_logo.svg)
+Zenkit is the multi-project management solution for agile and classical projects.
 
-Zenkit Suite](https://zenkit.com/en/projects/)
+[![Play Store Badge](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-Zenkit is an award-winning software suite for productivity and collaboration.
+![Play Store Badge](https://zenkit.com/wp-content/themes/zenkit-com/img/batches/google-play-badge.svg)](https://play.google.com/store/apps/details?id=com.zenkit.zenkit "Zenkit Play Store")[![Apple Store Badge](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![Apple Store Badge](https://zenkit.com/wp-content/themes/zenkit-com/img/batches/apple-store-badge.svg)](https://itunes.apple.com/us/app/zenkit/id964755085?ls=1&mt=8 "Zenkit Apple Store")
 
 ### Products
 
-* [Pricing](https://zenkit.com/en/suite/pricing/)
-* [Solutions](https://zenkit.com/en/suite/solutions/)
-* [Documentation](https://help.zenkit.com/en/support/solutions/43000367364 "Documentation")
-* [Book a Live Demo](https://zenkit.com/en/suite/demo/ "Book a Live Demo")
+* [Features](https://zenkit.com/en/features/ "Features")
+* [Pricing](https://zenkit.com/en/pricing/ "Pricing")
+* [Platforms](https://zenkit.com/en/platforms/ "Platforms")
+* [Solutions (Zenkit)](https://zenkit.com/en/solutions/ "Solutions")
+* [Alternatives](https://zenkit.com/en/alternatives/ "Alternatives")
+* [Integrations](https://zenkit.com/en/integrations/ "Integrations")
+* [Blog](https://zenkit.com/en/blog/)
+* [Documentation](https://help.zenkit.com/en/support/solutions/43000369974 "Documentation")
+* [Book a Live Demo](https://zenkit.com/en/demo/ "Book a Live Demo")
 
 ### Company
 
 * [About Us](https://zenkit.com/en/about-us/ "About Us")
 * [Newsroom](https://zenkit.com/en/press/ "Newsroom")
 * [Press Kit](https://zenkit.com/en/press-kit/ "Press Kit")
-* [Blog](https://zenkit.com/en/blog/ "Blog")
 * [Academy](https://zenkit.com/en/academy/ "Academy")
 * [Careers](https://axonic.com/jobs/ "Careers")
-* [Find a Partner](https://zenkit.com/en/find-a-partner/ "Find a Partner")
 * [Customer Stories](https://zenkit.com/en/customer-stories/ "Customer Stories")
 * [Testimonials](https://zenkit.com/en/testimonials/)
 * [For Enterprise](https://zenkit.com/en/enterprise/ "For Enterprise")
-* [All Products](https://zenkit.com/en/suite/)
+* [Find a Partner](https://zenkit.com/en/find-a-partner/ "Find a Partner")
 * [Roadmap](https://zenkit.com/en/roadmap/)
+* [All Products](https://zenkit.com/en/suite/)
 
 ### Service
 
@@ -414,7 +399,7 @@ Zenkit is an award-winning software suite for productivity and collaboration.
 * [Knowledge Base](https://help.zenkit.com/ "Knowledge Base")
 * [Contact](https://zenkit.com/en/contact/ "Contact")
 
-Any questions about Zenkit Projects? Give us a call.
+Any questions about Zenkit? Give us a call.
 
 [![Phone Icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
@@ -427,8 +412,8 @@ Any questions about Zenkit Projects? Give us a call.
 * [](https://www.youtube.com/channel/UCWkNuSFerVBIRhaAURLZhhA "Zenkit on YouTube")
 * [](https://www.facebook.com/ZenkitHQ "Zenkit on Facebook")
 * [](https://twitter.com/ZenkitHQ "Zenkit on Twitter")
-* [](https://www.instagram.com/the_zenkit_suite/ "Zenkit on Instagram")
-* [](https://zenkit.local/contact/ "Contact")
+* [](https://www.instagram.com/zenkithq "Zenkit on Instagram")
+* [](https://zenkit.com/en/contact/ "Contact")
 
 © 2024 Zenkit. A venture of Axonic Informationssysteme GmbH.  
 
