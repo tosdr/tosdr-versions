@@ -1,10 +1,12 @@
 [Skip to main content](#main)
 
-New energizing colors. [Shop ASICS Paris Collection](https://www.zappos.com/c/asics-paris-collection)
+VIPs: Buy Brooks or Birkenstock Get 1500 Points [Shop Now](https://www.zappos.com/filters/null/WgPCARriAgEL.zso?s=isNew%2Fdesc%2FgoLiveDate%2Fdesc%2FrecentSalesStyle%2Fdesc%2F&si=6225354%2C207881%2C6424002%2C6355942%2C6355740%2C6423785%2C6444753%2C6344521%2C6443906%2C6468421%2C6443895%2C6443926%2C6423996%2C6443887%2C6444746%2C6446625&sy=1&pf_rd_r=SBK50SBHBHRJWRFKYWN5&pf_rd_p=00290bc7-c0da-44af-90d6-e6621ad200fc)
 
-Crocs: Endless Summer of Sandals [Shop Crocs](https://www.zappos.com/c/crocs-sandals)
+Up to 50% Off! [Shop Sale Lilly Pulitzer](https://www.zappos.com/null/4AEB4gICMByCAwP47wE.zso?s=isNew%2Fdesc%2FgoLiveDate%2Fdesc%2FrecentSalesStyle%2Fdesc%2F&si=6483462&sy=1)
 
-Check out Kayla’s favorite back-to-campus shoes! [Shop Top Picks](https://www.zappos.com/c/kayla-back-to-campus)
+Birkenstock for fall and beyond. [Shop Birkenstock](https://www.zappos.com/c/birkenstock-fashion)
+
+Best Merrell Hiking Boots for Fall. [Shop the List](https://www.zappos.com/c/merrell-hiking-boots-for-fall)
 
 [![Welcome! Go to the Zappos homepage!](https://m.media-amazon.com/images/G/01/Zappos/25th-birthday-logo/Zappos-25-Years-Logo-Site.svg)](https://www.zappos.com/)
 
@@ -23,7 +25,6 @@ Search for shoes, clothes, etc.Search
 * [Collections](https://www.zappos.com/)
 * [Brands](https://www.zappos.com/c/brands)
 * [Sale](https://www.zappos.com/sale)
-* [Back to School](https://www.zappos.com/c/back-to-school)
 
 [Help & Support](https://www.zappos.com/c/customer-service)
 
@@ -110,7 +111,7 @@ Zappos Footer
 * [Measurement Guide](https://www.zappos.com/measurement-guide)
 * [Size Conversion Chart](https://www.zappos.com/c/shoe-size-conversion)
 * [Measure Your Bra Size](https://www.zappos.com/c/how-to-measure-your-bra-size)
-* [Associates Program](https://www.zappos.com/associates-program)
+* [Associates Program](https://www.zappos.com/c/associates-program)
 * [Jobs](https://jobs.zappos.com/)
 * [Press Kit & Brand Inquiries](https://www.zappos.com/c/press-kit)
 * [Site Map](https://www.zappos.com/site-map)
