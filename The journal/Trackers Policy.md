@@ -12,6 +12,8 @@ If you've seen value in our reporting, please contribute what you can, so we can
 
 [€2 a Month](https://www.thejournal.ie/contribute/?mode=recurring&amount=2) [€5 a Month](https://www.thejournal.ie/contribute/?mode=recurring&amount=5) [One-off amount](https://www.thejournal.ie/contribute/?mode=one-off) I already contribute
 
+Close
+
 [](https://www.thejournal.ie/)
 
 * [Irish News](https://www.thejournal.ie/irish/)
@@ -19,10 +21,7 @@ If you've seen value in our reporting, please contribute what you can, so we can
 * [Voices](https://www.thejournal.ie/voices/)
 * [Climate](https://www.thejournal.ie/climate-change/news/)
 * [Housing](https://www.thejournal.ie/housing/news/)
-* More
-    
-    More
-    
+* [J-TV](https://www.thejournal.ie/tv/)
 
 [Support Us](https://www.thejournal.ie/contribute?utm_source=thejournal&utm_medium=masthead)
 
@@ -30,69 +29,23 @@ If you've seen value in our reporting, please contribute what you can, so we can
 
 | [Sign in](#)
 
-[Weekly Podcast
+sections
 
-The Explainer
+[Voices](https://www.thejournal.ie/voices/) [FactCheck](https://www.thejournal.ie/factcheck/news/) [Noteworthy](https://www.thejournal.ie/noteworthy/news/) [Quizzes](https://www.thejournal.ie/quiz/news/) [Money Diaries](https://www.thejournal.ie/money-diaries/news/) [Explainers](https://www.thejournal.ie/explainer/news/) [Daft.ie Property Magazine](https://www.thejournal.ie/magazine/property/) [The Journal TV](https://www.thejournal.ie/tv/)
 
-The Explainer is a weekly podcast from TheJournal.ie that takes a deeper look at one big news story you need to know about. Listen now wherever you get your podcasts](https://www.thejournal.ie/the-explainer/news/?utm_source=thejournal&utm_medium=menu)
+topics
 
-Newsletters : Sign Up
+[Irish News](https://www.thejournal.ie/irish/) [Politics](https://www.thejournal.ie/politics/) [World News](https://www.thejournal.ie/international/) [Climate Crisis](https://www.thejournal.ie/climate-change/news/) [Housing](https://www.thejournal.ie/housing/news/) [Cost of Living](https://www.thejournal.ie/cost-of-living/news/) [Road Safety](https://www.thejournal.ie/road-safety/news/) [Courts](https://www.thejournal.ie/courts/news/) [Ukraine](https://www.thejournal.ie/ukraine/news/) [Gaza](https://www.thejournal.ie/gaza/news/)
 
-* [Temperature Check](https://www.thejournal.ie/climate-newsletter-temperature-check-5650289-Jan2022/)
-* [FactCheck](https://www.thejournal.ie/sign-up-factcheck-newsletter-2-5853406-Aug2022/)
-* [The Stardust Inquests](https://www.thejournal.ie/stardust-inquests-newsletter-2-6053078-Apr2023/)
-* [Inside The Newsroom](https://www.thejournal.ie/inside-the-newsroom-2-6047744-Apr2023/)
+Newsletters
 
-Sections & Topics
+[FactCheck](https://www.thejournal.ie/sign-up-factcheck-newsletter-2-5853406-Aug2022/) [Temperature Check](https://www.thejournal.ie/climate-newsletter-temperature-check-5650289-Jan2022/) [Inside the Newsroom](https://www.thejournal.ie/inside-the-newsroom-2-6047744-Apr2023/)
 
-* [Climate Crisis](https://www.thejournal.ie/climate-change/news/)
-* [Business](https://www.thejournal.ie/business/)
-* [International](https://www.thejournal.ie/international/)
-* [Politics](https://www.thejournal.ie/politics/)
-* [Culture](https://www.thejournal.ie/culture/)
-* [Housing](https://www.thejournal.ie/housing/news/)
+Podcasts
 
-Partner Publications
+[The Explainer
 
-[The 42
-
-The latest Irish and international sports news for readers and subscribers](https://www.the42.ie/)[Noteworthy
-
-A platform helping fund the type of in-depth journalism that the public wants to see](https://www.noteworthy.ie/)
-
-[Support The Journal ![]( //b0.thejournal.ie/desktop/i/contribution-prompt/link-arrow.svg)](https://www.thejournal.ie/contribute/?utm_source=thejournal&utm_medium=menu) 
-
-[Weekly Podcast
-
-The Explainer
-
-The Explainer is a weekly podcast from TheJournal.ie that takes a deeper look at one big news story you need to know about. Listen now wherever you get your podcasts](https://www.thejournal.ie/the-explainer/news/?utm_source=thejournal&utm_medium=menu)
-
-Newsletters : Sign Up
-
-* [Temperature Check](https://www.thejournal.ie/climate-newsletter-temperature-check-5650289-Jan2022/)
-* [FactCheck](https://www.thejournal.ie/sign-up-factcheck-newsletter-2-5853406-Aug2022/)
-* [The Stardust Inquests](https://www.thejournal.ie/stardust-inquests-newsletter-2-6053078-Apr2023/)
-* [Inside The Newsroom](https://www.thejournal.ie/inside-the-newsroom-2-6047744-Apr2023/)
-
-Sections & Topics
-
-* [Climate Crisis](https://www.thejournal.ie/climate-change/news/)
-* [Business](https://www.thejournal.ie/business/)
-* [International](https://www.thejournal.ie/international/)
-* [Politics](https://www.thejournal.ie/politics/)
-* [Culture](https://www.thejournal.ie/culture/)
-* [Housing](https://www.thejournal.ie/housing/news/)
-
-Partner Publications
-
-[The 42
-
-The latest Irish and international sports news for readers and subscribers](https://www.the42.ie/)[Noteworthy
-
-A platform helping fund the type of in-depth journalism that the public wants to see](https://www.noteworthy.ie/)
-
-[Support The Journal ![](//b0.thejournal.ie/desktop/i/contribution-prompt/link-arrow.svg)](https://www.thejournal.ie/contribute/?utm_source=thejournal&utm_medium=menu) 
+A deep dive into one big news story](https://www.thejournal.ie/the-explainer/news/?utm_source=thejournal&utm_medium=menu)
 
 [](#)
 
@@ -346,11 +299,12 @@ more from us
 
 Sections
 
-* [FactCheck](https://www.thejournal.ie/factcheck/news/)
 * [Voices](https://www.thejournal.ie/voices/)
-* [The Daily Poll](https://www.thejournal.ie/your-say/news/)
-* [Money Diaries](https://www.thejournal.ie/money-diaries/news/)
+* [FactCheck](https://www.thejournal.ie/factcheck/news/)
 * [Noteworthy](https://www.thejournal.ie/noteworthy/news)
+* [Daft.ie Property Magazine](https://www.thejournal.ie/magazine/property/)
+* [Money Diaries](https://www.thejournal.ie/money-diaries/news/)
+* [The Journal TV](https://www.thejournal.ie/tv/)
 
 Journal Media
 
@@ -370,7 +324,7 @@ Terms & Legal Notices
 
 * [Terms of Use](https://www.thejournal.ie/terms/)
 * [Cookies & Privacy](https://www.thejournal.ie/cookies-privacy-policy/)
-* [Adverstising](https://www.thejournal.ie/advertising-policy/)
+* [Advertising](https://www.thejournal.ie/advertising-policy/)
 * [Comments](https://www.thejournal.ie/comments-policy/)
 * [Copyright](https://www.thejournal.ie/copyright-policy/)
 * [Competition](https://www.thejournal.ie/competitions-terms-and-conditions/)
@@ -381,11 +335,10 @@ more from us
 
 Sections
 
-* [GAA](https://www.thejournal.ie/gaa/)
-* [Soccer](https://www.thejournal.ie/soccer/)
-* [Rugby](https://www.thejournal.ie/rugby/)
-* [Golf](https://www.thejournal.ie/golf/)
-* [Racing](https://www.thejournal.ie/racing/)
+* [TV Listings](https://www.thejournal.ie/sports-tv-listings/news/)
+* [Quizzes](https://www.thejournal.ie/sports-quiz/news/)
+* [Live Blogs](https://www.thejournal.ie/sport-liveblog/news/)
+* [GAA Fixtures](https://www.thejournal.ie/gaa-fixtures/news/)
 
 Journal Media
 
@@ -404,7 +357,7 @@ Terms & Legal Notices
 
 * [Terms of Use](https://www.thejournal.ie/terms/)
 * [Cookies & Privacy](https://www.thejournal.ie/cookies-privacy-policy/)
-* [Adverstising](https://www.thejournal.ie/advertising-policy/)
+* [Advertising](https://www.thejournal.ie/advertising-policy/)
 * [Comments](https://www.thejournal.ie/comments-policy/)
 * [Copyright](https://www.thejournal.ie/copyright-policy/)
 * [Competition](https://www.thejournal.ie/competitions-terms-and-conditions/)
@@ -413,7 +366,7 @@ Terms & Legal Notices
 
 * [Terms of Use](https://www.thejournal.ie/terms/)
 * [Cookies & Privacy](https://www.thejournal.ie/cookies-privacy-policy/)
-* [Adverstising](https://www.thejournal.ie/advertising-policy/)
+* [Advertising](https://www.thejournal.ie/advertising-policy/)
 * [Comments](https://www.thejournal.ie/comments-policy/)
 * [Copyright](https://www.thejournal.ie/copyright-policy/)
 * [Competition](https://www.thejournal.ie/competitions-terms-and-conditions/)
