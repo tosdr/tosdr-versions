@@ -18,31 +18,31 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Mulher pede isqueiro para ciclista e tem celular roubado na Ponta Verde](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/e/csm_csm_viatura_pm_-_foto_arquivo_6cf6c2862c_f9cd068c58.jpg)
+   [![Vídeo: carro tem princípio de incêndio em rua do Centro de Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/5/csm_carro_que_pegou_fogo_no_centro_cortesia_ao_TNH1_739296aaef.jpg)
 
-Foi preso
+tomado por fumaça
 
-Mulher pede isqueiro para ciclista e tem celular roubado na Ponta Verde](https://www.tnh1.com.br/noticia/nid/mulher-pede-isqueiro-para-ciclista-e-tem-celular-roubado-na-ponta-verde/ "Mulher pede isqueiro para ciclista e tem celular roubado na Ponta Verde")   [![Aprendi no Flexal inicia dois cursos técnicos de longa duração para a comunidade](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/1/csm_Aprendi_no_Flexal_e7e40e7e35.jpeg)
+Vídeo: carro tem princípio de incêndio em rua do Centro de Maceió](https://www.tnh1.com.br/noticia/nid/video-carro-tem-principio-de-incendio-em-rua-do-centro-de-maceio/ "Vídeo: carro tem princípio de incêndio em rua do Centro de Maceió")   [![Prefeitura de Maceió abre segundo edital de 2024 para pagamento de precatórios](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/1/csm_sede-da-pgm_2024-09-10-185259_eump_cc84512842.jpg)
 
 Maceió
 
-Aprendi no Flexal inicia dois cursos técnicos de longa duração para a comunidade](https://www.tnh1.com.br/noticia/nid/aprendi-no-flexal-inicia-dois-cursos-tecnicos-de-longa-duracao-para-a-comunidade/ "Aprendi no Flexal inicia dois cursos técnicos de longa duração para a comunidade")   [![Corpo de Bombeiros divulga imagens do incêndio em prédio no Pinheiro; veja](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/6/csm_Incendio_predio_Pinheiro_-_foto_Corpo_de_Bombeiros_950dc739c0.jpg)
+Prefeitura de Maceió abre segundo edital de 2024 para pagamento de precatórios](https://www.tnh1.com.br/noticia/nid/prefeitura-de-maceio-abre-segundo-edital-de-2024-para-pagamento-de-precatorios/ "Prefeitura de Maceió abre segundo edital de 2024 para pagamento de precatórios")   [![Família denuncia que paciente de clínica de reabilitação morreu após espancamento e abuso sexual](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/7/csm_dionisio_morte_upa_2dd92fc7dd.jpg)
 
-vídeo
+EM MACEIÓ
 
-Corpo de Bombeiros divulga imagens do incêndio em prédio no Pinheiro; veja](https://www.tnh1.com.br/noticia/nid/corpo-de-bombeiros-divulga-imagens-do-incendio-em-predio-no-pinheiro-veja/ "Corpo de Bombeiros divulga imagens do incêndio em prédio no Pinheiro; veja")   [![Prédio no Pinheiro é evacuado pela Defesa Civil após alerta de incêndio no subsolo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/3/csm_predio_pinheiro_c00d8a7faa.png)
+Família denuncia que paciente de clínica de reabilitação morreu após espancamento e abuso sexual](https://www.tnh1.com.br/noticia/nid/familia-denuncia-que-paciente-de-clinica-de-reabilitacao-morreu-apos-espancamento-e-abuso-sexual/ "Família denuncia que paciente de clínica de reabilitação morreu após espancamento e abuso sexual")   [![Fiscais da Prefeitura autuam clínica médica flagrada com ligação clandestina ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/6/csm_clinica_ligacao_clandestina_d2e37ee3d0.jpeg)
 
-controlado
+fiscalização
 
-Prédio no Pinheiro é evacuado pela Defesa Civil após alerta de incêndio no subsolo](https://www.tnh1.com.br/noticia/nid/predio-no-pinheiro-e-evacuado-pela-defesa-civil-apos-alerta-de-incendio-no-subsolo/ "Prédio no Pinheiro é evacuado pela Defesa Civil após alerta de incêndio no subsolo")   [![Alta velocidade: motorista de locadora que atropelou e matou mulher é indiciado](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/b/csm_acidente_santaamelia_89e6a24616.png)
+Fiscais da Prefeitura autuam clínica médica flagrada com ligação clandestina](https://www.tnh1.com.br/noticia/nid/fiscais-da-prefeitura-autuam-clinica-medica-flagrada-com-ligacao-clandestina/ "Fiscais da Prefeitura autuam clínica médica flagrada com ligação clandestina ")   [![Maioria dos afroempreendedores em Maceió é mulher; 41% estão na informalidade](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/8/csm_afroempreendedores_Oswaldo_Bahi-rede_cenafro_2de633611b.png)
 
-homicídio culposo
+Maceió
 
-Alta velocidade: motorista de locadora que atropelou e matou mulher é indiciado](https://www.tnh1.com.br/noticia/nid/alta-velocidade-motorista-de-locadora-que-atropelou-e-matou-mulher-e-indiciado/ "Alta velocidade: motorista de locadora que atropelou e matou mulher é indiciado")   [![Suspeito de estelionato é preso após R$ 10 mil em compras em lojas da Ponta Verde e de shopping](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/4/csm_prisao-estelionato-divulgacao_3f25234b56.jpg)
+Maioria dos afroempreendedores em Maceió é mulher; 41% estão na informalidade](https://www.tnh1.com.br/noticia/nid/maioria-dos-afroempreendedores-em-maceio-e-mulher-41-estao-na-informalidade/ "Maioria dos afroempreendedores em Maceió é mulher; 41% estão na informalidade")   [![Projeto Flexais dá início à construção de creche-escola](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/c/csm_creche_flexais_1181b2ab8a.jpeg)
 
-cartões de terceiros
+Maceió
 
-Suspeito de estelionato é preso após R$ 10 mil em compras em lojas da Ponta Verde e de shopping](https://www.tnh1.com.br/noticia/nid/suspeito-de-estelionato-e-preso-apos-r-10-mil-em-compras-em-lojas-da-ponta-verde-e-de-shopping/ "Suspeito de estelionato é preso após R$ 10 mil em compras em lojas da Ponta Verde e de shopping")
+Projeto Flexais dá início à construção de creche-escola](https://www.tnh1.com.br/noticia/nid/projeto-flexais-da-inicio-a-construcao-de-creche-escola/ "Projeto Flexais dá início à construção de creche-escola")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -50,31 +50,31 @@ Suspeito de estelionato é preso após R$ 10 mil em compras em lojas da Ponta Ve
 
 [Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
 
-   [![Maior indústria de beneficiamento de madeira do NE vai investir R$ 10 milhões em Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/7/csm_Industria_beneficiamento_madeira_Alagoas3_7c56078316.jpg)
+   [![DNIT divulga instalação de pardais em Alagoas; confira locais](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/8/csm_pardal_radar_transito_foto_ilustrativa_freepik_8083b14737.jpg)
 
-Alagoas
+fiscalização
 
-Maior indústria de beneficiamento de madeira do NE vai investir R$ 10 milhões em Alagoas](https://www.tnh1.com.br/noticia/nid/maior-industria-de-beneficiamento-de-madeira-do-ne-vai-investir-r-10-milhoes-em-alagoas/ "Maior indústria de beneficiamento de madeira do NE vai investir R$ 10 milhões em Alagoas")   [![Trabalhadores do Correios em AL decidem em assembleia pelo estado de greve](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/b/csm_z.assembleia_correios_-_foto_assessoria__2__b466ea3ebe.jpeg)
+DNIT divulga instalação de pardais em Alagoas; confira locais](https://www.tnh1.com.br/noticia/nid/dnit-divulga-instalacao-de-pardais-em-alagoas-confira-locais/ "DNIT divulga instalação de pardais em Alagoas; confira locais")   [![Alerta de vendaval é disparado para 51 cidades de Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/2/csm_csm_Alerta_de_vendaval_-_foto_Reproducao_Inmet_2b1c796662_86f5374895.jpg)
 
-Em negociação
+meteorologia
 
-Trabalhadores do Correios em AL decidem em assembleia pelo estado de greve](https://www.tnh1.com.br/noticia/nid/trabalhadores-do-correios-em-al-decidem-em-assembleia-pelo-estado-de-greve/ "Trabalhadores do Correios em AL decidem em assembleia pelo estado de greve")   [![Governo de Alagoas antecipa salário de julho dos servidores públicos](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/f/csm_Dinheiro_-_Foto_Marcello_Casal_Jr_-_Agencia_Brasil_10_a40759032e.jpg)
+Alerta de vendaval é disparado para 51 cidades de Alagoas](https://www.tnh1.com.br/noticia/nid/alerta-de-vendaval-e-disparado-para-51-cidades-de-alagoas/ "Alerta de vendaval é disparado para 51 cidades de Alagoas")   [![Trabalhadores alagoanos são resgatados em situação análoga à escravidão em usina de São Paulo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/c/csm_alagoanos-escravidao-sp_3420c7396d.jpg)
 
-Economia
+Condições precárias
 
-Governo de Alagoas antecipa salário de julho dos servidores públicos](https://www.tnh1.com.br/noticia/nid/governo-de-alagoas-antecipa-salario-de-julho-dos-servidores-publicos/ "Governo de Alagoas antecipa salário de julho dos servidores públicos")   [![Trabalhador é esfaqueado durante tentativa de assalto em obra no interior de Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/0/csm_csm_Samu_Alagoas_-_foto_Divulgacao_85fa01fde0_b5056b4e2f.jpg)
+Trabalhadores alagoanos são resgatados em situação análoga à escravidão em usina de São Paulo](https://www.tnh1.com.br/noticia/nid/trabalhadores-alagoanos-sao-resgatados-em-situacao-analoga-a-escravidao-em-usina-de-sao-paulo/ "Trabalhadores alagoanos são resgatados em situação análoga à escravidão em usina de São Paulo")   [![Vídeo: homem de 37 anos morre vítima de afogamento na Praia do Francês](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/e/csm_afogamento_frances_69d581a2b1.png)
 
-Em Arapiraca
+região dos coqueirais
 
-Trabalhador é esfaqueado durante tentativa de assalto em obra no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/trabalhador-e-esfaqueado-durante-tentativa-de-assalto-em-obra-no-interior-de-alagoas/ "Trabalhador é esfaqueado durante tentativa de assalto em obra no interior de Alagoas")   [![Perícia revela uso de cocaína por mãe acusada de matar filha a facadas em Rio Largo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/d/csm_lcaura_maria_31be971567.png)
+Vídeo: homem de 37 anos morre vítima de afogamento na Praia do Francês](https://www.tnh1.com.br/noticia/nid/video-homem-de-37-anos-morre-vitima-de-afogamento-na-praia-do-frances/ "Vídeo: homem de 37 anos morre vítima de afogamento na Praia do Francês")   [![Veículos disponíveis para leilão do Detran podem ser visitados a partir desta segunda](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/f/csm_leilao_detran_e10fb071b4.jpeg)
 
-Alagoas
+Maceió e Arapiraca
 
-Perícia revela uso de cocaína por mãe acusada de matar filha a facadas em Rio Largo](https://www.tnh1.com.br/noticia/nid/pericia-revela-uso-de-cocaina-por-mae-acusada-de-matar-filha-a-facadas-em-rio-largo/ "Perícia revela uso de cocaína por mãe acusada de matar filha a facadas em Rio Largo")   [![Detran alerta para alta de acidentes envolvendo motociclistas em Alagoas ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/5/csm_detran-cuidados-motociclistas-alta-de-12-no-numero-de-atendimentos_9369a942e6.jpg)
+Veículos disponíveis para leilão do Detran podem ser visitados a partir desta segunda](https://www.tnh1.com.br/noticia/nid/veiculos-disponiveis-para-leilao-do-detran-podem-ser-visitados-a-partir-desta-segunda/ "Veículos disponíveis para leilão do Detran podem ser visitados a partir desta segunda")   [![Homem denunciado por compra de votos é preso por conduzir moto embriagado e portar arma](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/6/csm_nova_central_de_flagrantes_ascom_pc-al_d686586caa.jpeg)
 
-veja orientações
+No Litoral Norte
 
-Detran alerta para alta de acidentes envolvendo motociclistas em Alagoas](https://www.tnh1.com.br/noticia/nid/detran-alerta-para-alta-de-acidentes-envolvendo-motociclistas-em-alagoas/ "Detran alerta para alta de acidentes envolvendo motociclistas em Alagoas ")
+Homem denunciado por compra de votos é preso por conduzir moto embriagado e portar arma](https://www.tnh1.com.br/noticia/nid/homem-denunciado-por-compra-de-votos-e-preso-por-conduzir-moto-embriagado-e-portar-arma/ "Homem denunciado por compra de votos é preso por conduzir moto embriagado e portar arma")
 
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
 
@@ -82,31 +82,31 @@ Detran alerta para alta de acidentes envolvendo motociclistas em Alagoas](https:
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Mulher é presa em flagrante por posse de arma de fogo em Arapiraca](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/c/csm_armas_arapiraca_162580a83c.png)
+   [![Polícia Científica coleta DNA de homem que confessou ter matado jovem em Guaxuma ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/b/csm_corpo-mulher-residencia-abandonada-reproducao-cortesia_eb17fc72ea.jpeg)
 
-Interior
+provas técnicas
 
-Mulher é presa em flagrante por posse de arma de fogo em Arapiraca](https://www.tnh1.com.br/noticia/nid/mulher-e-presa-em-flagrante-por-posse-de-arma-de-fogo-em-arapiraca/ "Mulher é presa em flagrante por posse de arma de fogo em Arapiraca")   [![Mulher pede isqueiro para ciclista e tem celular roubado na Ponta Verde](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/e/csm_csm_viatura_pm_-_foto_arquivo_6cf6c2862c_f9cd068c58.jpg)
+Polícia Científica coleta DNA de homem que confessou ter matado jovem em Guaxuma](https://www.tnh1.com.br/noticia/nid/policia-cientifica-coleta-dna-de-homem-que-confessou-ter-matado-jovem-em-guaxuma/ "Polícia Científica coleta DNA de homem que confessou ter matado jovem em Guaxuma ")   [![Pedreiro escapa de atentado após ser baleado nas costas em porta de igreja; assista](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/e/csm_atentado-tiros-cidade-universitaria-cortesia_cbda7d7be0.jpeg)
 
-Foi preso
+parte alta de Maceió
 
-Mulher pede isqueiro para ciclista e tem celular roubado na Ponta Verde](https://www.tnh1.com.br/noticia/nid/mulher-pede-isqueiro-para-ciclista-e-tem-celular-roubado-na-ponta-verde/ "Mulher pede isqueiro para ciclista e tem celular roubado na Ponta Verde")   [![Falso enfermeiro que trabalhava em Alagoas é preso no Maranhão após investigação](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/9/csm_Enfermeiro-falso-foi-encontrado-em-Imperatriz-no-Maranhao-1024x668_467f5c296e.jpeg)
+Pedreiro escapa de atentado após ser baleado nas costas em porta de igreja; assista](https://www.tnh1.com.br/noticia/nid/pedreiro-escapa-de-atentado-apos-ser-baleado-nas-costas-em-porta-de-igreja-assista/ "Pedreiro escapa de atentado após ser baleado nas costas em porta de igreja; assista")   [![Stalker é preso após se deslocar mais de 2 mil km para perseguir e ameaçar ex em Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/c/csm_stalker-preso-reproducao-freepik_060c1b0716.jpeg)
 
-falsificou documentos
+EM SP
 
-Falso enfermeiro que trabalhava em Alagoas é preso no Maranhão após investigação](https://www.tnh1.com.br/noticia/nid/falso-enfermeiro-que-trabalhava-em-alagoas-e-preso-no-maranhao-apos-investigacao/ "Falso enfermeiro que trabalhava em Alagoas é preso no Maranhão após investigação")   [![Operação Overdose prende suspeitos de furto de medicamentos em Maceió; saiba como eles agiam](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/c/csm_operacao_overdose_ascom_ssp_1__6__359cd672c4.jpeg)
+Stalker é preso após se deslocar mais de 2 mil km para perseguir e ameaçar ex em Alagoas](https://www.tnh1.com.br/noticia/nid/stalker-e-preso-apos-se-deslocar-mais-de-2-mil-km-para-perseguir-e-ameacar-ex-em-alagoas/ "Stalker é preso após se deslocar mais de 2 mil km para perseguir e ameaçar ex em Alagoas")   [![Pedreiro é preso suspeito de roubo e se preocupa com hora de obra: "tinha que ir trabalhar"](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/5/csm_Pedreiro_e_preso_suspeito_de_roubo_e_se__preocupa__com_hora_de_obra_-_foto_Ronda_no_Bairro_c7474350f2.jpeg)
 
-grupo criminoso
+centro de maceió
 
-Operação Overdose prende suspeitos de furto de medicamentos em Maceió; saiba como eles agiam](https://www.tnh1.com.br/noticia/nid/operacao-overdose-prende-suspeitos-de-furto-de-medicamentos-em-maceio-saiba-como-eles-agiam/ "Operação Overdose prende suspeitos de furto de medicamentos em Maceió; saiba como eles agiam")   [![PM apreende 3 armas de fogo e combate desmanche irregular de motocicletas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/9/csm_pm-apreende-3-armas-de-fogo-e-combate-desmanche-irregular-de-motocicletas_448cafb379.jpeg)
+Pedreiro é preso suspeito de roubo e se preocupa com hora de obra: "tinha que ir trabalhar"](https://www.tnh1.com.br/noticia/nid/pedreiro-e-preso-suspeito-de-roubo-e-se-preocupa-com-hora-de-obra-tinha-que-ir-trabalhar/ "Pedreiro é preso suspeito de roubo e se preocupa com hora de obra: "tinha que ir trabalhar"")   [![Polícia procura mais um feirante suspeito de estuprar mulher com deficiência intelectual](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/c/csm_ceasa_googlemaps_f6d809be51.png)
 
-Polícia
+parte alta de maceió
 
-PM apreende 3 armas de fogo e combate desmanche irregular de motocicletas](https://www.tnh1.com.br/noticia/nid/pm-apreende-3-armas-de-fogo-e-combate-desmanche-irregular-de-motocicletas/ "PM apreende 3 armas de fogo e combate desmanche irregular de motocicletas")   [![Adolescente que matou namorada de 13 anos com tiro na cabeça é apreendido](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/b/csm_csm_menina_13_anos_assassinada_0e57b5ca9d_2ea32bb632.jpg)
+Polícia procura mais um feirante suspeito de estuprar mulher com deficiência intelectual](https://www.tnh1.com.br/noticia/nid/policia-procura-mais-um-feirante-suspeito-de-estuprar-mulher-com-deficiencia-intelectual/ "Polícia procura mais um feirante suspeito de estuprar mulher com deficiência intelectual")   [![MP recomenda padronização e tramitação de inquéritos policiais entre as polícias Civil e Judiciária](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/9/csm_corregedoria_mp_al_assessoria_880c0aa795.jpg)
 
-No interior
+em alagoas
 
-Adolescente que matou namorada de 13 anos com tiro na cabeça é apreendido](https://www.tnh1.com.br/noticia/nid/adolescente-que-matou-namorada-de-13-anos-com-tiro-na-cabeca-e-apreendido/ "Adolescente que matou namorada de 13 anos com tiro na cabeça é apreendido")
+MP recomenda padronização e tramitação de inquéritos policiais entre as polícias Civil e Judiciária](https://www.tnh1.com.br/noticia/nid/mp-recomenda-padronizacao-e-tramitacao-de-inqueritos-policiais-entre-as-policias-civil-e-judiciaria/ "MP recomenda padronização e tramitação de inquéritos policiais entre as polícias Civil e Judiciária")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -188,73 +188,73 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Cantor é preso por estupro após se relacionar com menina de 13 anos](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/0/csm_cantor_preso_estupro_6ac6c2a3d0.png)
+[![Saiba quem são as vítimas do acidente aéreo com helicóptero em Caruaru](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/9/csm_vitimas_acidente_aereo_caruaru_-_foto_montagem_tnh1_879a0c8096.jpg)
 
-estava foragido
+Em Chamas
 
-estava foragido
+Em Chamas
 
-Cantor é preso por estupro após se relacionar com menina de 13 anos
+Saiba quem são as vítimas do acidente aéreo com helicóptero em Caruaru
 
-Cantor é preso por estupro após se relacionar com menina de 13 anos](https://www.tnh1.com.br/noticia/nid/cantor-e-preso-por-estupro-apos-se-relacionar-com-menina-de-13-anos/ "Cantor é preso por estupro após se relacionar com menina de 13 anos")[![Suspeito de estelionato é preso após R$ 10 mil em compras em lojas da Ponta Verde e de shopping](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/4/csm_prisao-estelionato-divulgacao_e1ea56cad2.jpg)
+Saiba quem são as vítimas do acidente aéreo com helicóptero em Caruaru](https://www.tnh1.com.br/noticia/nid/saiba-quem-sao-as-vitimas-do-acidente-aereo-com-helicoptero-em-caruaru/ "Saiba quem são as vítimas do acidente aéreo com helicóptero em Caruaru")[![DNIT divulga instalação de pardais em Alagoas; confira locais](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/8/csm_pardal_radar_transito_foto_ilustrativa_freepik_2db84cb0e9.jpg)
 
-cartões de terceiros
+fiscalização
 
-cartões de terceiros
+fiscalização
 
-Suspeito de estelionato é preso após R$ 10 mil em compras em lojas da Ponta Verde e de shopping
+DNIT divulga instalação de pardais em Alagoas; confira locais
 
-Suspeito de estelionato é preso após R$ 10 mil em compras em lojas da Ponta Verde e de shopping](https://www.tnh1.com.br/noticia/nid/suspeito-de-estelionato-e-preso-apos-r-10-mil-em-compras-em-lojas-da-ponta-verde-e-de-shopping/ "Suspeito de estelionato é preso após R$ 10 mil em compras em lojas da Ponta Verde e de shopping")[![Alta velocidade: motorista de locadora que atropelou e matou mulher é indiciado](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/b/csm_acidente_santaamelia_7d3e8cdc64.png)
+DNIT divulga instalação de pardais em Alagoas; confira locais](https://www.tnh1.com.br/noticia/nid/dnit-divulga-instalacao-de-pardais-em-alagoas-confira-locais/ "DNIT divulga instalação de pardais em Alagoas; confira locais")[![Precatórios do Fundef: é preciso ter advogado para receber? Veja alertas do Sinteal](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/5/csm_Dinheiro_-_Foto_Jose_Cruz_-_Agencia_Brasil_6_3e14b36392.jpg)
 
-homicídio culposo
+cuidado com golpe
 
-homicídio culposo
+cuidado com golpe
 
-Alta velocidade: motorista de locadora que atropelou e matou mulher é indiciado
+Precatórios do Fundef: é preciso ter advogado para receber? Veja alertas do Sinteal
 
-Alta velocidade: motorista de locadora que atropelou e matou mulher é indiciado](https://www.tnh1.com.br/noticia/nid/alta-velocidade-motorista-de-locadora-que-atropelou-e-matou-mulher-e-indiciado/ "Alta velocidade: motorista de locadora que atropelou e matou mulher é indiciado")[![Corpo de jovem que estava desaparecido é encontrado em cova rasa em Marechal; primo é suspeito ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/c/csm_corpo_encontrado_marechal_-_foto_reproducao_video_ecd197eb0c.jpg)
+Precatórios do Fundef: é preciso ter advogado para receber? Veja alertas do Sinteal](https://www.tnh1.com.br/noticia/nid/precatorios-do-fundef-e-preciso-ter-advogado-para-receber-veja-alertas-do-sinteal/ "Precatórios do Fundef: é preciso ter advogado para receber? Veja alertas do Sinteal")[![Deolane Bezerra publica nova carta; veja o que disse a influencer presa](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/7/csm_deolane_presa_-_foto_montagem_tnh1_cf07b32e65.jpg)
 
-assassinato
+Investigada
 
-assassinato
+Investigada
 
-Corpo de jovem que estava desaparecido é encontrado em cova rasa em Marechal; primo é suspeito
+Deolane Bezerra publica nova carta; veja o que disse a influencer presa
 
-Corpo de jovem que estava desaparecido é encontrado em cova rasa em Marechal; primo é suspeito](https://www.tnh1.com.br/noticia/nid/corpo-de-jovem-que-estava-desaparecido-e-encontrado-em-cova-rasa-em-marechal-primo-e-suspeito/ "Corpo de jovem que estava desaparecido é encontrado em cova rasa em Marechal; primo é suspeito ")
+Deolane Bezerra publica nova carta; veja o que disse a influencer presa](https://www.tnh1.com.br/noticia/nid/deolane-bezerra-publica-nova-carta-veja-o-que-disse-a-influencer-presa/ "Deolane Bezerra publica nova carta; veja o que disse a influencer presa")
 
-[![Mulher é presa em flagrante por posse de arma de fogo em Arapiraca](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/c/csm_armas_arapiraca_92cb1862f8.png)
+[![Anatel amplia regras para ligações de telemarketing; veja o que muda](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/e/csm_uso_de_smartphone_e_celular050720211245_b7811ea7b1.jpg)
 
-Interior
+foram publicadas
 
-Interior
+foram publicadas
 
-Mulher é presa em flagrante por posse de arma de fogo em Arapiraca
+Anatel amplia regras para ligações de telemarketing; veja o que muda
 
-Mulher é presa em flagrante por posse de arma de fogo em Arapiraca](https://www.tnh1.com.br/noticia/nid/mulher-e-presa-em-flagrante-por-posse-de-arma-de-fogo-em-arapiraca/ "Mulher é presa em flagrante por posse de arma de fogo em Arapiraca")[![Israel se prepara para ataques do Irã após morte de líder do Hamas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/0/csm_Ismail_Haniyeh_reproducao_youtube_fb4802a216.jpg)
+Anatel amplia regras para ligações de telemarketing; veja o que muda](https://www.tnh1.com.br/noticia/nid/anatel-amplia-regras-para-ligacoes-de-telemarketing-veja-o-que-muda/ "Anatel amplia regras para ligações de telemarketing; veja o que muda")[![Jovem hindu é confundido com mulçumano e executado por 'vigilantes de vacas' na Índia](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/5/csm_jovem-hindu-executado-india-reproducao_0f7ce40b5c.jpg)
 
-conflito
+19 anos
 
-conflito
+19 anos
 
-Israel se prepara para ataques do Irã após morte de líder do Hamas
+Jovem hindu é confundido com mulçumano e executado por 'vigilantes de vacas' na Índia
 
-Israel se prepara para ataques do Irã após morte de líder do Hamas](https://www.tnh1.com.br/noticia/nid/israel-se-prepara-para-ataques-do-ira-apos-morte-de-lider-do-hamas/ "Israel se prepara para ataques do Irã após morte de líder do Hamas")[![66 anos Lojas Guido: Caravana chega a Palmeira dos Índios nesta sexta, 02](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/3/csm_caravana_Guido_Palmeira_foto_RCP-PSCOM_f352b684c2.jpg)
+Jovem hindu é confundido com mulçumano e executado por 'vigilantes de vacas' na Índia](https://www.tnh1.com.br/noticia/nid/jovem-hindu-e-confundido-com-mulcumano-e-executado-por-vigilantes-de-vacas-na-india/ "Jovem hindu é confundido com mulçumano e executado por 'vigilantes de vacas' na Índia")[![O espetáculo ''A Kama Surta'' que vai 'esquentar' Maceió neste domingo (15)](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/7/csm_agenda-cultural-reproducao_4ee2289c8a.jpeg)
 
-Conteúdo de Marca
+Agenda Cultural
 
-Conteúdo de Marca
+Agenda Cultural
 
-66 anos Lojas Guido: Caravana chega a Palmeira dos Índios nesta sexta, 02
+O espetáculo ''A Kama Surta'' que vai 'esquentar' Maceió neste domingo (15)
 
-66 anos Lojas Guido: Caravana chega a Palmeira dos Índios nesta sexta, 02](https://www.tnh1.com.br/noticia/nid/66-anos-lojas-guido-caravana-chega-a-palmeira-dos-indios-nesta-sexta-02/ "66 anos Lojas Guido: Caravana chega a Palmeira dos Índios nesta sexta, 02")[![Mulher pede isqueiro para ciclista e tem celular roubado na Ponta Verde](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/e/csm_csm_viatura_pm_-_foto_arquivo_6cf6c2862c_02b2310a49.jpg)
+O espetáculo ''A Kama Surta'' que vai 'esquentar' Maceió neste domingo (15)](https://www.tnh1.com.br/noticia/nid/o-espetaculo-a-kama-surta-que-vai-esquentar-maceio-neste-domingo-15/ "O espetáculo ''A Kama Surta'' que vai 'esquentar' Maceió neste domingo (15)")[![Helicóptero vindo da Venezuela com 240 kg de drogas é interceptado pela FAB e PF](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/1/csm_drogas-helicoptero-fab-reproducao_fdc339f9d1.jpeg)
 
-Foi preso
+EM MANAUS
 
-Foi preso
+EM MANAUS
 
-Mulher pede isqueiro para ciclista e tem celular roubado na Ponta Verde
+Helicóptero vindo da Venezuela com 240 kg de drogas é interceptado pela FAB e PF
 
-Mulher pede isqueiro para ciclista e tem celular roubado na Ponta Verde](https://www.tnh1.com.br/noticia/nid/mulher-pede-isqueiro-para-ciclista-e-tem-celular-roubado-na-ponta-verde/ "Mulher pede isqueiro para ciclista e tem celular roubado na Ponta Verde")
+Helicóptero vindo da Venezuela com 240 kg de drogas é interceptado pela FAB e PF](https://www.tnh1.com.br/noticia/nid/helicoptero-vindo-da-venezuela-com-240-kg-de-drogas-e-interceptado-pela-fab-e-pf/ "Helicóptero vindo da Venezuela com 240 kg de drogas é interceptado pela FAB e PF")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
