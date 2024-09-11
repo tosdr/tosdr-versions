@@ -52,6 +52,7 @@ MENUMENU
     * [Nursing Home Abuse Lawsuit](https://theguardianlegalnetwork.com/personal-injury/nursing-home-abuse-lawsuits/)
     * [PFAS Contamination Lawsuit](https://theguardianlegalnetwork.com/personal-injury/pfas-contamination-lawsuit/)
     * [Rideshare Assault Lawsuit](https://theguardianlegalnetwork.com/personal-injury/rideshare-assault/)
+    * [Sexual Misconduct Lawsuit](https://theguardianlegalnetwork.com/personal-injury/sexual-misconduct-lawsuit/)
     * [Social Media Addiction Lawsuit](https://theguardianlegalnetwork.com/personal-injury/social-media-addiction-lawsuit/)
     * [Texas Storm Lawsuits](https://theguardianlegalnetwork.com/personal-injury/texas-storm-lawsuits/)
     * [Video Game Addiction Lawsuit](https://theguardianlegalnetwork.com/personal-injury/video-game-addiction-lawsuit/)
@@ -175,7 +176,7 @@ _email_
 
 Select a Case Type
 
-Select a Case Type3M Earplugs9/11 Victim Compensation FundAuto Accident LawsuitBirth InjuryCamp LejeuneClergy AbuseElmironFirefighting FoamHair Relaxer LawsuitHernia MeshMedical Malpractice LawsuitNEC Infant FormulaNursing Home AbuseParagardParaquatPFAS ContaminationPhilips CPAP MachinePowerportRoundupSemaglutideSocial Media AddictionSunscreenTalcum PowderTexas StormVideo Game AddictionXeljanzZantacOther
+Select a Case Type3M Earplugs9/11 Victim Compensation FundAuto Accident LawsuitBirth InjuryCamp LejeuneClergy AbuseElmironFirefighting FoamHair Relaxer LawsuitHernia MeshMedical Malpractice LawsuitNEC Infant FormulaNursing Home AbuseParagardParaquatPFAS ContaminationPhilips CPAP MachinePowerportRoundupSemaglutideSexual Misconduct LawsuitSocial Media AddictionSunscreenTalcum PowderTexas StormVideo Game AddictionXeljanzZantacOther
 
 Case Typecase type
 
