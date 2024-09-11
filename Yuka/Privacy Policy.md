@@ -816,7 +816,7 @@ _While such categorization of Personal Information is mainly based on California
 
 * ### Identifiers
     
-    **Personal Information collected or disclosed:** First name, Email address, About me, Contact email, Universally unique identifier (uuid), Crash information, Device information, Cookies, Usage data
+    **Personal Information collected or disclosed:** first name, email address, About Me, Contact email, Universally unique identifier (UUID), Crash information, device information, Cookies, Usage Data
     
     **Purposes:**
     
@@ -839,7 +839,7 @@ _While such categorization of Personal Information is mainly based on California
     
 * ### Internet or other electronic network activity information
     
-    **Personal Information collected or disclosed:** Usage data, Various types of data as specified in the privacy policy of the service, Camera permission, Device information, Geography/region, Number of users , Number of sessions, Session duration, In-app purchases, Application opens, Application updates, First launches, Operating systems, Cookies, Universally unique identifier (uuid), Crash information, Email address, Tracker
+    **Personal Information collected or disclosed:** Usage Data, various types of Data as specified in the privacy policy of the service, Camera permission, device information, geography/region, number of Users , number of sessions, session duration, In-app purchases, Application opens, Application updates, first launches, operating systems, Cookies, Universally unique identifier (UUID), Crash information, email address, Tracker
     
     **Purposes:**
     
@@ -869,7 +869,7 @@ _While such categorization of Personal Information is mainly based on California
     
 * ### Commercial information
     
-    **Personal Information collected or disclosed:** Usage data, Device information, Geography/region, Number of users , Number of sessions, Session duration, In-app purchases, Application opens, Application updates, First launches, Operating systems
+    **Personal Information collected or disclosed:** Usage Data, device information, geography/region, number of Users , number of sessions, session duration, In-app purchases, Application opens, Application updates, first launches, operating systems
     
     **Purposes:**
     
@@ -885,7 +885,7 @@ _While such categorization of Personal Information is mainly based on California
     
 * ### Geolocation data
     
-    **Personal Information collected or disclosed:** Usage data, Device information, Geography/region, Number of users , Number of sessions, Session duration, In-app purchases, Application opens, Application updates, First launches, Operating systems, Geographic position
+    **Personal Information collected or disclosed:** Usage Data, device information, geography/region, number of Users , number of sessions, session duration, In-app purchases, Application opens, Application updates, first launches, operating systems, geographic position
     
     **Purposes:**
     
