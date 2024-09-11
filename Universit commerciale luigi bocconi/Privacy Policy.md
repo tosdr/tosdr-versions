@@ -161,7 +161,7 @@ About Us
             
         * Honor Code
             
-            [Overview](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/honor-code)
+            [Overview](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/codes-conduct-and-honor-code)
             
             * [Honor Code for the Bocconi Community](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/honor-code/honor-code-bocconi-community)
             * [What Happens If...](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/honor-code/what-happens-if)
@@ -169,6 +169,7 @@ About Us
             * [FAQs](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/honor-code/questions-and-answers-about-honor-code-and-more)
             
         * [Rules for Students](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/rules-students)
+        * [Department Regulations](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/department-regulations)
         * [Balance Sheet and Economic Documentation](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/balance-sheet-and-economic-documentation)
         * [Alias Regulation](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/regulations-activation-and-management-alias-identities)
         * [Whistleblowing](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/whistleblowing)
@@ -245,7 +246,7 @@ Organization
         
     * Honor Code
         
-        [Overview](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/honor-code)
+        [Overview](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/codes-conduct-and-honor-code)
         
         * [Honor Code for the Bocconi Community](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/honor-code/honor-code-bocconi-community)
         * [What Happens If...](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/honor-code/what-happens-if)
@@ -253,6 +254,7 @@ Organization
         * [FAQs](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/honor-code/questions-and-answers-about-honor-code-and-more)
         
     * [Rules for Students](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/rules-students)
+    * [Department Regulations](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/department-regulations)
     * [Balance Sheet and Economic Documentation](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/balance-sheet-and-economic-documentation)
     * [Alias Regulation](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/regulations-activation-and-management-alias-identities)
     * [Whistleblowing](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/whistleblowing)
@@ -283,7 +285,6 @@ Breadcrumb
 * [Home](https://www.unibocconi.eu/en)
 * [About Us](https://www.unibocconi.eu/en/about-us)
 * [Organization](https://www.unibocconi.eu/en/about-us/organization)
-* [Statute, Regulations and Rules](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-documents)
 
 [Contacts](https://www.unibocconi.eu/en/contact-us)
 
@@ -362,7 +363,7 @@ Media center
 
 * [BTV ![Go to BTV](/sites/default/files/styles/footer_icon/public/footer/icon-menu/btv.png.webp?itok=euce4HxJ "BTV")](https://bocconitv.it/?key=footer) 
 * [TL ![Go to TL](/sites/default/files/styles/footer_icon/public/footer/icon-menu/on.png.webp?itok=gyXozZWU "TL")](https://traileoni.it/?key=footer) 
-* [ON ![Go to ON](/sites/default/files/styles/footer_icon/public/footer/icon-menu/tl.png.webp?itok=wrHIPLtn "ON")](https://radiobocconi.it/?key=footer) 
+* [ON ![Go to ON](/sites/default/files/styles/footer_icon/public/footer/icon-menu/tl.png.webp?VersionId=aSZpE_VBtk26vwm.VV.Ur.LL8FOytxpI&itok=wrHIPLtn "ON")](https://radiobocconi.it/?key=footer) 
 
 Mobile app
 
