@@ -42,13 +42,12 @@ Open the main Menu
     * [Faculty & Staff Directory](https://www.usd.edu/Research-and-Faculty/Faculty-and-Staff)
 * [Student Life](https://www.usd.edu/Student-Life)
     * [Housing & Dining](https://www.usd.edu/Student-Life/Housing-and-Dining)
-    * [Get Involved](https://www.usd.edu/Student-Life/Get-Involved)
-    * [Athletics & Spirit Squad](https://www.usd.edu/Student-Life/Athletics-and-Spirit-Squad)
-    * [Fitness & Recreation](https://www.usd.edu/Student-Life/Fitness-and-Recreation)
+    * [Activities & Involvement](https://www.usd.edu/Student-Life/Activities-and-Involvement)
+    * [Health & Wellness](https://www.usd.edu/Student-Life/Health-and-Wellness)
+    * [Academic & Campus Support](https://www.usd.edu/Student-Life/Academic-and-Campus-Support)
+    * [Career Services](https://www.usd.edu/Student-Life/Career-Services)
     * [Special Events & Traditions](https://www.usd.edu/Student-Life/Special-Events-and-Traditions)
     * [Arts & Culture](https://www.usd.edu/Student-Life/Arts-and-Culture)
-    * [Student Resources & Wellness](https://www.usd.edu/Student-Life/Student-Resources-and-Wellness)
-    * [Career Services](https://www.usd.edu/Student-Life/Career-Services)
     * [Security & Safety](https://www.usd.edu/Student-Life/Security-and-Safety)
 * [Athletics](https://www.usd.edu/Athletics)
 * [About](https://www.usd.edu/About)
@@ -68,7 +67,7 @@ Search
 
 * Helpful Links
     * [A-Z Index](https://www.usd.edu/A-Z-Index)
-    * [myUSD](https://www.usd.edu/Academics/catalog-links/myusd)
+    * [myUSD](https://my.usd.edu/)
     * [News & Stories](https://www.usd.edu/The-South-Dakotan)
     * [Calendars](https://www.usd.edu/About/Calendars)
     * [Coyote OneStop](https://td.usd.edu/TDClient/33/Portal/Home/)
@@ -81,7 +80,7 @@ Search
 
 * Resources For
     * [Current Students](https://www.usd.edu/Resources-For/Current-Students)
-    * [Faculty and Staff](https://www.usd.edu/Resources-For/Faculty-and-Staff)
+    * [Faculty & Staff](https://www.usd.edu/Resources-For/Faculty-and-Staff)
     * [Parents & Families](https://www.usd.edu/Resources-For/Parents-and-Families)
 
 * [Apply](https://www.usd.edu/Admissions-and-Aid/Apply)
@@ -267,7 +266,7 @@ Legal
 Helpful Links
 -------------
 
-* [myUSD](https://www.usd.edu/Academics/catalog-links/myusd "MyUSD Portal Homepage")
+* [MYUSD portal](https://my.usd.edu/ "MYUSD portal")
 * [About USD](https://www.usd.edu/About "About USD")
 * [USD Athletics](https://goyotes.com/ "USD Athletics site")
 * [Request Information](https://www.usd.edu/Admissions-and-Aid/Request-Information "Request Information")
