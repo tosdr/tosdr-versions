@@ -26,7 +26,7 @@ Website Terms of Use
   
   
 
-[Company](https://wasabi.com/legal/terms-of-use#)
+[Company](https://wasabi.com/legal/terms-of-use?__nextDataReq=1#)
 
 * [About Wasabi](https://wasabi.com/company)
     
@@ -56,7 +56,7 @@ Learn
     
 * [Integrations](https://wasabi.com/partner/integrations)
     
-* [Glossary](https://wasabi.com/glossary)
+* [Cloud 101](https://wasabi.com/learn)
     
 * [Support](https://wasabi.com/help)
     
