@@ -1,12 +1,12 @@
 [Skip to main content](#skip-to-h1)
 
-![](/themes/custom/usagov/images/favicon-57.png)
+![U.S Flag](/themes/custom/usagov/images/favicon-57.png)
 
 An official website of the United States government
 
-Here’s how you know
+Here's how you know
 
-Here’s how you know
+Here's how you know
 
 ![](/themes/custom/usagov/assets/img/icon-dot-gov.svg)
 
@@ -33,7 +33,21 @@ Search   ![Search](/themes/custom/usagov/components/searchbar/images/search--dar
     * [Free commercial downloads](https://www.usa.gov/free-commercial-downloads)
     * [Paperwork Reduction Act statements](https://www.usa.gov/paperwork-reduction-act-statements)
 
-_[![Visit the USAGov homepage](/themes/custom/usagov/images/Logo_USAGov.png)](https://www.usa.gov/ "USAGov Logo")_
+Visit [vote.gov](https://www.vote.gov/) to learn how to register to vote or to update your registration.
+
+[](#paragraph--id--2532)
+
+Welcome to USA.gov
+
+
+======================
+
+Benefits.gov has been discontinued. USA.gov is the new centralized place for finding government benefits for health care, housing, food, unemployment, and more.
+
+* Continue to USA.gov
+    
+
+_[![USAGov Logo](/themes/custom/usagov/images/USAGov_logo_51px.png)](https://www.usa.gov/ "USAGov Logo")_
 
 [Español](https://www.usa.gov/es/politicas-avisos-del-sitio-web) Menu
 
