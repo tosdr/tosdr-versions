@@ -2,7 +2,7 @@
 
 [Etusivu](https://yle.fi/)
 
-[Venäjän hyökkäys](https://yle.fi/t/18-334977/fi)[Olympialaiset](https://yle.fi/t/18-146187/fi)[Kisapähkinä](https://yle.fi/a/74-20092378)
+[Venäjän hyökkäys](https://yle.fi/t/18-334977/fi)[Yhdysvaltain presidentinvaalit](https://yle.fi/t/18-345335/fi)[Abitreenit](https://yle.fi/a/74-20103465)
 
 [Hae](https://haku.yle.fi/)
 
@@ -13,9 +13,8 @@ Valikko
 Pinnalla nyt
 
 * [Venäjän hyökkäys](https://yle.fi/t/18-334977/fi)
-* [Olympialaiset](https://yle.fi/t/18-146187/fi)
-* [Kisapähkinä](https://yle.fi/a/74-20092378)
-* [Olympialaisten liveseuranta](https://yle.fi/a/74-20098792)
+* [Yhdysvaltain presidentinvaalit](https://yle.fi/t/18-345335/fi)
+* [Abitreenit](https://yle.fi/a/74-20103465)
 
 * [Etusivu](https://yle.fi/)
 * [Uutisia lyhyesti](https://yle.fi/uutiset)
@@ -292,7 +291,6 @@ Detailed information
 | yle.fi | yleinteraction | yle.fi | 12 hours | HTTP Cookie | A session identifier used in interactive content on Yle's digital services, which preserves the choices made by the user between uses of the application. |
 | yle.fi | ukko\_abgroup | yle.fi | 6 days | HTTP Cookie | User tests of yle.fi entity. |
 | yle.fi | yle\_rec | yle.fi | 365 days | HTTP Cookie | Unique identifier for service development. Enables the development of Yle's services based on user choices and movement within services. |
-| yle.fi | OVP/ovp-par-prd/onboarding\_complete | yle.fi | permanent | HTML Local Storage | Showing olympics sports results in connection with yle.fi and svenska.yle.fi articles with OBS's embedding. |
 
 Yle
 
@@ -309,6 +307,7 @@ Detailed information
 | AccedoXdkStorage\_yle\_onboarding | yle.fi | 1 day | HTTP Cookie | Remembering the state of the prompt to login. |
 | Adobe | Adobe (3rd party) | permanent | SDK | Measuring the number of users of the contents of Yle's internet services as required by the tasks laid down in the Public Broadcasting Act. |
 | Appsflyer | Appsflyer (3rd party) | permanent | SDK | Analytics for the applications. To record events, sessions and clicks in the app. |
+| Braze | Braze (3rd party) | permanent | SDK | Enabling push notifications and internal communication in the application and analytics for these. |
 | Chartbeat | Chartbeat (3rd party) | permanent | SDK | Cookies allows Yle to view the number of browsers currently present on each of the Yle pages. |
 | Facebook | facebook.com (3rd party) |     |     | Content published in social media displayed in connection with Yle articles. |
 | Firebase Performance Monitoring | Firebase (3rd party) | permanent | SDK | Application performance monitoring. |
