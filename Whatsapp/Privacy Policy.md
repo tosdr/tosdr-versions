@@ -18,7 +18,7 @@
 
 [Terms & Privacy Policy](https://www.whatsapp.com/legal/)2024 © WhatsApp LLC
 
-Englishالعربيةঅসমীয়াবাংলাEspañolFrançaisગુજરાતીעבריתहिन्दीBahasa Indonesia日本語ಕನ್ನಡ한국어മലയാളംमराठीनेपालीOriyaਪੰਜਾਬੀPortuguês (Brasil)русскийதமிழ்తెలుగుไทยFilipinoTürkçeاردو简体中文繁體中文（香港）Englishالعربيةঅসমীয়াবাংলাespañolfrançaisગુજરાતીעבריתहिन्दीBahasa Indonesia日本語ಕನ್ನಡ한국어മലയാളംमराठीनेपालीOriyaਪੰਜਾਬੀPortuguês (Brasil)русскийதமிழ்తెలుగుไทยFilipinoTürkçeاردو简体中文繁體中文（香港）
+Englishالعربيةঅসমীয়াবাংলাDeutschEspañolFrançaisગુજરાતીעבריתहिन्दीBahasa IndonesiaItaliano日本語ಕನ್ನಡ한국어മലയാളംमराठीनेपालीOriyaਪੰਜਾਬੀPortuguês (Brasil)русскийதமிழ்తెలుగుไทยFilipinoTürkçeاردو简体中文繁體中文（香港）Englishالعربيةঅসমীয়াবাংলাDeutschespañolfrançaisગુજરાતીעבריתहिन्दीBahasa Indonesiaitaliano日本語ಕನ್ನಡ한국어മലയാളംमराठीनेपालीOriyaਪੰਜਾਬੀPortuguês (Brasil)русскийதமிழ்తెలుగుไทยFilipinoTürkçeاردو简体中文繁體中文（香港）
 
 [![WhatsApp Main Page](https://static.whatsapp.net/rsrc.php/v3/yq/r/mdQNdcFMi0p.png)](https://www.whatsapp.com/)[![WhatsApp Main Page](https://static.whatsapp.net/rsrc.php/yZ/r/JvsnINJ2CZv.svg)](https://www.whatsapp.com/)
 
@@ -51,10 +51,12 @@ Englishالعربيةঅসমীয়াবাংলাEspañolFrançaisગુજ
 
 [](https://www.whatsapp.com/download)
 
-Effective Date: January 4, 2021 ([archived versions](https://www.whatsapp.com/legal/privacy-policy/revisions))
-
 WhatsApp Privacy Policy
 =======================
+
+Effective January 4, 2021
+
+[archived versions](https://www.whatsapp.com/legal/privacy-policy/revisions)
 
 _If you live in the [European Region](https://faq.whatsapp.com/523679699550284/), WhatsApp Ireland Limited provides the Services to you under this [Terms of Service](https://www.whatsapp.com/legal/terms-of-service-eea) and [Privacy Policy](https://www.whatsapp.com/legal/privacy-policy-eea)._
 
@@ -215,6 +217,12 @@ We may amend or update our Privacy Policy. We will provide you notice of amendme
 
 [Back to top](#top-of-page)
 
+### Privacy Rights for United States Residents
+
+You can learn more about the consumer privacy rights that may be available to you, by reviewing the United States Regional Privacy Notice [here](https://www.whatsapp.com/legal/ca-privacy-notice).
+
+[Back to top](#top-of-page)
+
   
   
 
@@ -222,7 +230,7 @@ We may amend or update our Privacy Policy. We will provide you notice of amendme
 
 Contact Us
 
-If you have questions or issues about our Privacy Policy, please [contact us](https://www.whatsapp.com/contact/forms/915483389072145).
+If you have questions or issues about our Privacy Policy, please [contact us](https://www.whatsapp.com/contact/forms/696255948470523/).
 
 WhatsApp LLC  
   
@@ -240,9 +248,9 @@ United States of America
 
 [](https://twitter.com/whatsapp)[](https://www.youtube.com/channel/UCAuerig2N-RZWJT8x75V9yw)[](https://www.instagram.com/whatsapp/?hl=en)[](https://www.facebook.com/profile.php?id=100064758844406)
 
-[![WhatsApp Main Logo](https://static.whatsapp.net/rsrc.php/v3/yJ/r/Qhrnh5evyPV.png)](https://www.whatsapp.com/)
+[![WhatsApp Main Logo](https://static.whatsapp.net/rsrc.php/ya/r/GjxmhIpug9B.svg)](https://www.whatsapp.com/)
 
-[![WhatsApp Main Logo](https://static.whatsapp.net/rsrc.php/v3/yJ/r/Qhrnh5evyPV.png)](https://www.whatsapp.com/)
+[![WhatsApp Main Logo](https://static.whatsapp.net/rsrc.php/yA/r/hbGnlm1gXME.svg)](https://www.whatsapp.com/)
 
 [Download](https://www.whatsapp.com/download)
 
@@ -264,4 +272,4 @@ Need help?[Contact Us](https://www.whatsapp.com/contact)[Help Center](https://fa
 
 [](https://twitter.com/whatsapp)[](https://www.youtube.com/channel/UCAuerig2N-RZWJT8x75V9yw)[](https://www.instagram.com/whatsapp/?hl=en)[](https://www.facebook.com/profile.php?id=100064758844406)
 
-Englishالعربيةঅসমীয়াবাংলাEspañolFrançaisગુજરાતીעבריתहिन्दीBahasa Indonesia日本語ಕನ್ನಡ한국어മലയാളംमराठीनेपालीOriyaਪੰਜਾਬੀPortuguês (Brasil)русскийதமிழ்తెలుగుไทยFilipinoTürkçeاردو简体中文繁體中文（香港）Englishالعربيةঅসমীয়াবাংলাespañolfrançaisગુજરાતીעבריתहिन्दीBahasa Indonesia日本語ಕನ್ನಡ한국어മലയാളംमराठीनेपालीOriyaਪੰਜਾਬੀPortuguês (Brasil)русскийதமிழ்తెలుగుไทยFilipinoTürkçeاردو简体中文繁體中文（香港）
+Englishالعربيةঅসমীয়াবাংলাDeutschEspañolFrançaisગુજરાતીעבריתहिन्दीBahasa IndonesiaItaliano日本語ಕನ್ನಡ한국어മലയാളംमराठीनेपालीOriyaਪੰਜਾਬੀPortuguês (Brasil)русскийதமிழ்తెలుగుไทยFilipinoTürkçeاردو简体中文繁體中文（香港）Englishالعربيةঅসমীয়াবাংলাDeutschespañolfrançaisગુજરાતીעבריתहिन्दीBahasa Indonesiaitaliano日本語ಕನ್ನಡ한국어മലയാളംमराठीनेपालीOriyaਪੰਜਾਬੀPortuguês (Brasil)русскийதமிழ்తెలుగుไทยFilipinoTürkçeاردو简体中文繁體中文（香港）
