@@ -270,3 +270,7 @@ Mon. - Fri.
 [(401) 444-0600](tel:4014440600)
 
 [50 Valley Street, Providence RI 02909](https://goo.gl/maps/SB1Z16Z6RXx)
+
+Join us for our 98th Annual Celebration: United in Action!
+
+[GET TICKETS](https://uwriweb.org/comm/SinglePageRegEvent.jsp?EventKeyHex=3134363035)
