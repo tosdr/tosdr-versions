@@ -316,7 +316,7 @@ Add A Coupon
 
 **Basket Totals**
 
-£0.00
+$0.00
 
 VAT, shipping and discounts codes calculated at checkout
 
