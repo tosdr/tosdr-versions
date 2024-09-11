@@ -168,7 +168,7 @@ Wyoming Registered Agent Services LLC Privacy Team
 Email: [\[email protected\]](https://www.wyomingagents.com/cdn-cgi/l/email-protection)  
 Phone: 1-888-704-7214
 
-[Get a Registered Agent – $25](https://www.wyomingagents.com/order-agent) [Form a Company – $150](https://www.wyomingagents.com/order-new-company)
+[Get a Registered Agent – $25](https://www.wyomingagents.com/order-agent) [Form a Company – $154](https://www.wyomingagents.com/order-new-company)
 
 If you have questions, please [contact us](https://www.wyomingagents.com/contact).
 
