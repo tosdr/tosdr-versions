@@ -331,13 +331,18 @@ Im Rahmen der Verbesserung der Sicherheit sowohl für die hier gespeicherten Dat
 
 ### Termine
 
-**06.09.2024**
+**01.08.2024  
+**
 
-Hausarbeitstag wegen Lehrerfortbildung
+Erster Schultag
 
-**17.09.2024**
+5\. Klassen treffen sich 7.40 Uhr in der Aula
 
-19.30 Uhr Elternsprechersitzung in der Aula
+6\. – 12. Klassen Schulbeginn 8.35 Uhr
+
+**07.08.2024**
+
+Schulwandertag
 
 ![](https://www.ess-erfurt.de/wp-content/uploads/Service/Logo_Praxissemesterschule_2023-24-002.png)
 
