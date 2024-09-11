@@ -1,26 +1,127 @@
-[](https://yout.com/)
+[![Yout](/static/logo.png)](https://yout.com/?lang=en)
 
-Toggle navigation
+Search 
 
-* [Sign in](https://yout.com/signin/)
-* [Sign up](https://yout.com/pro/)
+[Sign Up](https://yout.com/signup/)
 
-* [About us](https://yout.com/about/)
-* [Format shift](https://yout.com/how-to-format-shift/)
-* [FAQ](https://yout.com/faq/)
-* [Contact](https://yout.com/contact-us/)
-
-* [Terms of service](https://yout.com/terms/)
-* [Privacy policy](https://yout.com/privacy/)
-
+* [Yout](https://yout.com/?lang=en)
+* [Tutorials](https://yout.com/how-to-format-shift/?lang=en)
+* [](https://yout.com/terms/?lang=en)
+    * [English](https://yout.com/terms/?lang=en)
+    * [Español](https://yout.com/terms/?lang=es)
+    * [Português](https://yout.com/terms/?lang=pt)
+    * * * *
+        
+    * [عربى](https://yout.com/terms/?lang=ar)
+    * [Azərbaycan](https://yout.com/terms/?lang=az)
+    * [Gaeilge](https://yout.com/terms/?lang=ga)
+    * [Gàidhlig na h-Alba](https://yout.com/terms/?lang=gd)
+    * [Galego](https://yout.com/terms/?lang=gl)
+    * [ગુજરાતી](https://yout.com/terms/?lang=gu)
+    * [Hausa](https://yout.com/terms/?lang=ha)
+    * [हिंदी](https://yout.com/terms/?lang=hi)
+    * [Hrvatski](https://yout.com/terms/?lang=hr)
+    * [Kreyòl Ayisyen](https://yout.com/terms/?lang=ht)
+    * [Magyar](https://yout.com/terms/?lang=hu)
+    * [հայերեն](https://yout.com/terms/?lang=hy)
+    * [Bahasa Indonesia](https://yout.com/terms/?lang=id)
+    * [Igbo](https://yout.com/terms/?lang=ig)
+    * [Íslensku](https://yout.com/terms/?lang=is)
+    * [Italiano](https://yout.com/terms/?lang=it)
+    * [日本語](https://yout.com/terms/?lang=ja)
+    * [ქართული](https://yout.com/terms/?lang=ka)
+    * [Қазақша](https://yout.com/terms/?lang=kk)
+    * [ಕನ್ನಡ](https://yout.com/terms/?lang=kn)
+    * [កម្ពុជា](https://yout.com/terms/?lang=km)
+    * [한국어](https://yout.com/terms/?lang=ko)
+    * [Kurdî](https://yout.com/terms/?lang=ku)
+    * [Кыргызча](https://yout.com/terms/?lang=ky)
+    * [Latine](https://yout.com/terms/?lang=la)
+    * [ລາວ](https://yout.com/terms/?lang=lo)
+    * [Lietuviškai](https://yout.com/terms/?lang=lt)
+    * [luxembourg](https://yout.com/terms/?lang=lb)
+    * [Latviešu](https://yout.com/terms/?lang=lv)
+    * [Malgache](https://yout.com/terms/?lang=mg)
+    * [Maori](https://yout.com/terms/?lang=mi)
+    * [Македонски](https://yout.com/terms/?lang=mk)
+    * [മലയാളം](https://yout.com/terms/?lang=ml)
+    * [Монгол хэл](https://yout.com/terms/?lang=mn)
+    * [मराठी](https://yout.com/terms/?lang=mr)
+    * [Melayu](https://yout.com/terms/?lang=ms)
+    * [Malti](https://yout.com/terms/?lang=mt)
+    * [မြန်မာ](https://yout.com/terms/?lang=my)
+    * [नेपाल](https://yout.com/terms/?lang=ne)
+    * [Nederlands](https://yout.com/terms/?lang=nl)
+    * [norsk](https://yout.com/terms/?lang=no)
+    * [Chewa](https://yout.com/terms/?lang=ny)
+    * [ਪੰਜਾਬੀ](https://yout.com/terms/?lang=pa)
+    * [Polskie](https://yout.com/terms/?lang=pl)
+    * [پخوانی](https://yout.com/terms/?lang=ps)
+    * [Português](https://yout.com/terms/?lang=pt)
+    * [Română](https://yout.com/terms/?lang=ro)
+    * [Pусский](https://yout.com/terms/?lang=ru)
+    * [سنڌي](https://yout.com/terms/?lang=sd)
+    * [සිංහල](https://yout.com/terms/?lang=si)
+    * [Slovenský](https://yout.com/terms/?lang=sk)
+    * [Slovenščina](https://yout.com/terms/?lang=sl)
+    * [Samoa](https://yout.com/terms/?lang=sm)
+    * [Shona](https://yout.com/terms/?lang=sn)
+    * [Somali](https://yout.com/terms/?lang=so)
+    * [Shqiptar](https://yout.com/terms/?lang=sq)
+    * [Српски](https://yout.com/terms/?lang=sr)
+    * [Sesoto](https://yout.com/terms/?lang=st)
+    * [Sunda](https://yout.com/terms/?lang=su)
+    * [Svenska](https://yout.com/terms/?lang=sv)
+    * [Kiswahili](https://yout.com/terms/?lang=sw)
+    * [தமிழ்](https://yout.com/terms/?lang=ta)
+    * [తెలుగు](https://yout.com/terms/?lang=te)
+    * [Тайко](https://yout.com/terms/?lang=tg)
+    * [ไทย](https://yout.com/terms/?lang=th)
+    * [Tagalog](https://yout.com/terms/?lang=tl)
+    * [Türk](https://yout.com/terms/?lang=tr)
+    * [Українська](https://yout.com/terms/?lang=uk)
+    * [اردو](https://yout.com/terms/?lang=ur)
+    * [O'zbek](https://yout.com/terms/?lang=uz)
+    * [Tiếng Việt](https://yout.com/terms/?lang=vi)
+    * [Xhosa](https://yout.com/terms/?lang=xh)
+    * [Yiddish](https://yout.com/terms/?lang=yi)
+    * [Yorùbá](https://yout.com/terms/?lang=yo)
+    * [Zulu](https://yout.com/terms/?lang=zu)
+    * [中国](https://yout.com/terms/?lang=zh)
+    * [Afrikaans](https://yout.com/terms/?lang=af)
+    * [አማርኛ](https://yout.com/terms/?lang=am)
+    * [беларускую](https://yout.com/terms/?lang=be)
+    * [български](https://yout.com/terms/?lang=bg)
+    * [বাঙালি](https://yout.com/terms/?lang=bn)
+    * [Bosanski](https://yout.com/terms/?lang=bs)
+    * [Català](https://yout.com/terms/?lang=ca)
+    * [Corso](https://yout.com/terms/?lang=co)
+    * [čeština](https://yout.com/terms/?lang=cs)
+    * [Cymraeg](https://yout.com/terms/?lang=cy)
+    * [Dansk](https://yout.com/terms/?lang=da)
+    * [Deutsche](https://yout.com/terms/?lang=de)
+    * [Ελληνικά](https://yout.com/terms/?lang=el)
+    * [English](https://yout.com/terms/?lang=en)
+    * [Esperanto](https://yout.com/terms/?lang=eo)
+    * [Español](https://yout.com/terms/?lang=es)
+    * [Eesti keel](https://yout.com/terms/?lang=et)
+    * [Euskal](https://yout.com/terms/?lang=eu)
+    * [فارسی](https://yout.com/terms/?lang=fa)
+    * [Suomalainen](https://yout.com/terms/?lang=fi)
+    * [Français](https://yout.com/terms/?lang=fr)
+    * [Friesian](https://yout.com/terms/?lang=fy)
 * [Meme](https://yout.com/meme/)
+* [FAQ](https://yout.com/faq/)
+* [Pricing](https://yout.com/pricing/)
+* [Login](https://yout.com/login/)
+* [Sign Up](https://yout.com/signup/)
 
 Terms of Service
 ================
 
 By accessing and using Yout LLC ("Yout" or "Yout.com"), you agree to be bound by Yout's Terms of Service as stated in this document. If you do not accept these terms, you are not permitted to use Yout or its services.
 
-Yout reserves the right to change, alter, update, or terminate the Terms of Service at its sole discretion at any time, for any reason. By continuing to use Yout or its services you agree to be bound by any future versions of this Terms of Service document. As such, we recommend that you review these Terms of Service from time to time.
+Yout reserves the right to change, alter, update, or terminate the Terms of Service at its sole discretion at any time, for any reason. By continuing to use Yout or its services you agree to be bound by any future versions of these Terms of Service document. As such, we recommend that you review these Terms of Service from time to time.
 
 Should you violate the Terms of Services, any prior authorization, implicit or explicit, to use Yout or its services shall terminate immediately without notice. Any use of Yout in violation of these Terms of Service shall be unauthorized.
 
@@ -34,7 +135,7 @@ You represent and warrant to us that: (A) you are an individual (i.e., not a cor
 
 Yout retains the rights to any of its original content on Yout and its website.
 
-Yout may collect information from your use of Yout and its services. For example, Yout collects your IP address for the rate limit recordings if you are not a PRO user. This is the only instance where Yout logs your IP. There is no IP logging on any transcoders. It does not connect the IP it to any video that it recorded or audio. It simply tallies that a recording was done by that IP, till that IP reaches three requests. After one hour, your IP address expires. This is the only instance where Yout will use your IP an Internet Protocol (“IP”) address. Any and all other uses will be explicitly forbidden, as Yout does not log on any servers it uses. It may also collect information you provide in creating an account. Although you own your personal data and information, by and through your use of Yout and its services, you provide Yout the authorization and license to access, collect, and store such user data and information (“User Information”). Your User Information does not include any links you use.
+Yout may collect information from your use of Yout and its services. For example, Yout collects your IP address for the rate limit recordings if you are not an UPGRADED user. This is the only instance where Yout logs your IP. There is no IP logging on any transcoders. It does not connect the IP it to any video that it recorded or audio. It simply tallies that a recording was done by that IP, till that IP reaches three requests. After one hour, your IP address expires. This is the only instance where Yout will use your IP an Internet Protocol (“IP”) address. Any and all other uses will be explicitly forbidden, as Yout does not log on any servers it uses. It may also collect information you provide in creating an account. Although you own your personal data and information, by and through your use of Yout and its services, you provide Yout the authorization and license to access, collect, and store such user data and information (“User Information”). Your User Information does not include any links you use.
 
 You represent that you possess the right to provide Yout with your User Information. You also agree that all User Information you submit to Yout, expressly or through use of Yout and its services, will be collected and governed by Yout's Privacy Policy.
 
@@ -50,11 +151,11 @@ Certain content may contain digital rights mechanisms that prevent access or sto
 
 You use any links as your own discretion and risk. You understand.
 
-Any graphics, designs, logos, icons, codes, or other content remain the intellectual property of their respective owners and are protected under applicable copyright, trademark, and/or other intellectual property laws. You may not use any of this content without permission (if you have any questions about the use of Yout's intellectual property, please [contact us](https://yout.com/contact-us/) we'd love to help).
+Any graphics, designs, logos, icons, codes, or other content remain the intellectual property of their respective owners and are protected under applicable copyright, trademark, and/or other intellectual property laws. You may not use any of this content without permission (if you have any questions about the use of Yout's intellectual property, please [contact us](https://yout.com/contact/) we'd love to help).
 
 Yout respects the intellectual property rights of others, and does not permit or condone copyright infringing activities, which is why the service is solely allowing to record publicly available online-content.
 
-Again, Yout does not store any third-party content accessed through its services or website. As such, we cannot remove any content. Should you wish to remove or disable access to content available through other websites, please direct any notice to the hosting provider (e.g. YouTube, FaceBook, Twitch, etc) directly. You may contact some of them via the following links: [YouTube takedown](https://support.google.com/youtube/answer/2807622?hl=en), [FaceBook takedown](https://www.facebook.com/help/contact/634636770043106).
+Again, Yout does not store any third-party content accessed through its services or website. As such, we cannot remove any content. Should you wish to remove or disable access to content available through other websites, please direct any notice to the hosting provider (e.g. YouTube, FaceBook, Twitch, etc.) directly. You may contact some of them via the following links: [YouTube takedown](https://support.google.com/youtube/answer/2807622?hl=en), [FaceBook takedown](https://www.facebook.com/help/contact/634636770043106).
 
 ### Conduct
 
@@ -118,9 +219,13 @@ You shall indemnify and hold harmless Yout and all affiliates, partners, custome
 
 These terms and conditions are governed by and construed in accordance with the laws of Connecticut and you irrevocably submit to the exclusive jurisdiction of the courts in that State or location.
 
+### How do I cancel my subscription?
+
+To cancel subscription please [click here](https://yout.com/account/cancel-subscription/)
+
 ### Refund Policy
 
-If you would like a refund for whatever reason within 30 days of your purchase, please go to [Yout.com/refund/](https://yout.com/refund/); or [contact us](https://yout.com/contact-us/).
+If you would like a refund for whatever reason within 30 days of your purchase, please go to [Yout.com/refund/](https://yout.com/refund/); or [contact us](https://yout.com/contact/).
 
 ### Affiliate disclosure
 
@@ -128,73 +233,8 @@ Yout may earn a small commission from a select few links across the site
 
 ### Questions
 
-If you have any questions about this Terms of Service document, don't hesitate to [contact us](https://yout.com/contact-us/).
+If you have any questions about these Terms of Service document, don't hesitate to [contact us](https://yout.com/contact/).
 
-Language \[EN\]
+[About Us](https://yout.com/about/) [Privacy Policy](https://yout.com/privacy/) [Terms of service](https://yout.com/terms/) [Contact Us](https://yout.com/contact/)
 
-* * [Afrikaans](https://yout.com/terms/?lang=af)
-    * [عربى](https://yout.com/terms/?lang=ar)
-    * [Azərbaycan](https://yout.com/terms/?lang=az)
-    * [беларускую](https://yout.com/terms/?lang=be)
-    * [български](https://yout.com/terms/?lang=bg)
-    * [Català](https://yout.com/terms/?lang=ca)
-    * [čeština](https://yout.com/terms/?lang=cs)
-    * [Dansk](https://yout.com/terms/?lang=da)
-    * [Deutsche](https://yout.com/terms/?lang=de)
-    * [Ελληνικά](https://yout.com/terms/?lang=el)
-    * [English](https://yout.com/terms/?lang=en)
-    * [Español](https://yout.com/terms/?lang=es)
-    * [Eesti keel](https://yout.com/terms/?lang=et)
-    * [Euskal](https://yout.com/terms/?lang=eu)
-    * [فارسی](https://yout.com/terms/?lang=fa)
-    
-    * [Suomalainen](https://yout.com/terms/?lang=fi)
-    * [Français](https://yout.com/terms/?lang=fr)
-    * [Galego](https://yout.com/terms/?lang=gl)
-    * [ગુજરાતી](https://yout.com/terms/?lang=gu)
-    * [हिंदी](https://yout.com/terms/?lang=hi)
-    * [Hrvatski](https://yout.com/terms/?lang=hr)
-    * [Magyar](https://yout.com/terms/?lang=hu)
-    * [հայերեն](https://yout.com/terms/?lang=hy)
-    * [Bahasa Indonesia](https://yout.com/terms/?lang=id)
-    * [Íslensku](https://yout.com/terms/?lang=is)
-    * [Italiano](https://yout.com/terms/?lang=it)
-    * [日本語](https://yout.com/terms/?lang=ja)
-    * [ქართული](https://yout.com/terms/?lang=ka)
-    * [Қазақша](https://yout.com/terms/?lang=kk)
-    * [ಕನ್ನಡ](https://yout.com/terms/?lang=kn)
-    
-    * [한국어](https://yout.com/terms/?lang=ko)
-    * [Кыргызча](https://yout.com/terms/?lang=ky)
-    * [Lietuviškai](https://yout.com/terms/?lang=lt)
-    * [Latviešu](https://yout.com/terms/?lang=lv)
-    * [Македонски](https://yout.com/terms/?lang=mk)
-    * [Монгол хэл](https://yout.com/terms/?lang=mn)
-    * [मराठी](https://yout.com/terms/?lang=mr)
-    * [Melayu](https://yout.com/terms/?lang=ms)
-    * [Nederlands](https://yout.com/terms/?lang=nl)
-    * [ਪੰਜਾਬੀ](https://yout.com/terms/?lang=pa)
-    * [Polskie](https://yout.com/terms/?lang=pl)
-    * [Português](https://yout.com/terms/?lang=pt)
-    * [Română](https://yout.com/terms/?lang=ro)
-    * [Pусский](https://yout.com/terms/?lang=ru)
-    * [Slovenský](https://yout.com/terms/?lang=sk)
-    
-    * [Slovenščina](https://yout.com/terms/?lang=sl)
-    * [Shqiptar](https://yout.com/terms/?lang=sq)
-    * [Српски](https://yout.com/terms/?lang=sr)
-    * [Svenska](https://yout.com/terms/?lang=sv)
-    * [Kiswahili](https://yout.com/terms/?lang=sw)
-    * [தமிழ்](https://yout.com/terms/?lang=ta)
-    * [తెలుగు](https://yout.com/terms/?lang=te)
-    * [ไทย](https://yout.com/terms/?lang=th)
-    * [Türk](https://yout.com/terms/?lang=tr)
-    * [Українська](https://yout.com/terms/?lang=uk)
-    * [اردو](https://yout.com/terms/?lang=ur)
-    * [O'zbek](https://yout.com/terms/?lang=uz)
-    * [Tiếng Việt](https://yout.com/terms/?lang=vi)
-    
-
-[Twitter](https://twitter.com/youtdotcom) - [Terms of service](https://yout.com/terms/) - [Privacy policy](https://yout.com/privacy/) - [Contact](https://yout.com/contact-us/)
-
-©® 2024 Yout LLC | Made by [nadermx](https://john.nader.mx/)
+2024 Yout LLC | Made by [nadermx](https://john.nader.mx/?lang=en)
