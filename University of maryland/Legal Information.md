@@ -236,7 +236,7 @@ Admissions
 ### [Graduate Admissions](https://www.gradschool.umd.edu/)
 
 * [Admissions Process](https://gradschool.umd.edu/admissions)
-* [Graduate Programs](http://apps.gradschool.umd.edu/Catalog/public-programs.php)
+* [Graduate Programs](https://gradschool.umd.edu/graduate-programs)
 
 * * *
 
