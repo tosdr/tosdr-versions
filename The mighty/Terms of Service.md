@@ -166,6 +166,6 @@ Oops! It appears you entered an invalid email.
 
 [](http://themighty.com/)
 
-© 2022 Mighty Proud Media, Inc. All Rights Reserved. [Privacy](http://themighty.com/privacy/) | [Terms](http://themighty.com/terms-and-conditions/)
+© 2024 Mighty Proud Media, Inc. All Rights Reserved. [Privacy](http://themighty.com/privacy/) | [Terms](http://themighty.com/terms-and-conditions/)
 
 Cookie Settings
