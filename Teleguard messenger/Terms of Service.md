@@ -4,7 +4,7 @@
 * [Download](javascript:void();)
 * [FAQ](https://teleguard.com/en#faq)
 * [Contacts](https://teleguard.com/en#contacts)
-* [Donate](https://teleguard.com/en#donation)
+* [Donate](https://teleguard.com/en/donation)
 * [Business](https://teleguard.com/en/business)
 * [MyVOICE](https://teleguard.com/en/myvoice)
 
