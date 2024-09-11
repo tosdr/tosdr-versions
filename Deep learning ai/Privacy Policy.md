@@ -1,4 +1,4 @@
-Andrew Ng's [AI Python for Beginners final courses](https://bit.ly/4cKI3Og) are live. Join now!
+🌟 New Course! Enroll in [Federated Learning](https://bit.ly/3zWoyoj)
 
 [](https://www.deeplearning.ai/)
 
