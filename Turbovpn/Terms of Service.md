@@ -256,6 +256,7 @@ Follow us
 * [VK](https://vk.com/turbovpnfree)
 * [Discord](https://discord.gg/ErQ5WVZw6c)
 * [TikTok](https://bit.ly/3L7Pvrl)
+* [Telegram](https://t.me/TurboVpnOfficial)
 
 And More
 
