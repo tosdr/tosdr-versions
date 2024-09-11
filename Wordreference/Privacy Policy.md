@@ -1,9 +1,13 @@
 [WordReference.com](https://www.wordreference.com/) |
 
-Online Language Dictionaries
-============================
+Dictionnaires de langue en ligne
+================================
+
+[Dictionnaire Français-Anglais](https://www.wordreference.com/fren/)
 
 English-Spanish Spanish-English English-Italian Italian-English English-French French-English English definition English thesaurus Español-Français Français-Español Español-Português Português-Español Español: definición Español: sinónimos
+
+×
 
 WordReference Privacy Policy
 ----------------------------
