@@ -335,7 +335,7 @@ You may provide and we may collect chat and messaging transcripts, surveys, tran
 
 If you send an email to us, we will collect your email address and the full content of your email, including attached files, and other information you provide. We may use and display information about you, such as your full name and email address, when you send an email or notification to a friend through our Solutions, Website, or the social network from which you have connected to our Solutions or Website (such as in an invitation, or when sharing content). Additionally, we may use your email address to contact you on behalf of your friends (such as when someone sends you a personal message). We may use your email address to contact you.
 
-Prospective customers, employees, or partners may provide information through our Websites to find out more about Vericast and to be contacted by a Vericast representative or by interacting with emails we have sent or materials we have made available.  For example, if you seek to do business with us as a partner or Client (rather than as a consumer), you may provide us information about yourself, including your name, email, phone number, company or employer name, title, and other information as you fill out and submit our marketing [webform](https://hch.service-now.com/privacy?id=anon_csmr). Or you may provide us with similar information when seeking or otherwise expressing interest in employment with us. Such information from business contacts or prospective employees may qualify as “Personal Information” under some laws, and we may collect this information if you provide it to us. Vericast (and its agents and service providers) may use this information to respond to your request, to send you marketing or potential employment communications, and for other business purposes. We will not rent or sell this information to other companies. 
+Prospective customers, employees, or partners may provide information through our Websites to find out more about Vericast and to be contacted by a Vericast representative or by interacting with emails we have sent or materials we have made available.  For example, if you seek to do business with us as a partner or Client (rather than as a consumer), you may provide us information about yourself, including your name, email, phone number, company or employer name, title, and other information as you fill out and submit our marketing [webform](https://hch.service-now.com/privacy?id=anon_csmr_privacy). Or you may provide us with similar information when seeking or otherwise expressing interest in employment with us. Such information from business contacts or prospective employees may qualify as “Personal Information” under some laws, and we may collect this information if you provide it to us. Vericast (and its agents and service providers) may use this information to respond to your request, to send you marketing or potential employment communications, and for other business purposes. We will not rent or sell this information to other companies. 
 
 ### How We Use Your Information
 
@@ -467,7 +467,7 @@ Information that we, as a Business, collect or process for our Marketing Solutio
 
 #### Marketing Solutions Opt-Out Options
 
-In this section, we provide you with information specific to certain aspects of our Marketing Solutions, such as how to opt out of online interest-based advertising using your web browser or how to unsubscribe from marketing emails. **If you would like to exercise consumer rights under state privacy laws, please see the STATE PRIVACY LAW REQUIREMENTS section further below for more information and use our consumer rights request [webform](https://hch.service-now.com/privacy?id=anon_csmr)**.
+In this section, we provide you with information specific to certain aspects of our Marketing Solutions, such as how to opt out of online interest-based advertising using your web browser or how to unsubscribe from marketing emails. **If you would like to exercise consumer rights under state privacy laws, please see the STATE PRIVACY LAW REQUIREMENTS section further below for more information and use our consumer rights request [webform](https://hch.service-now.com/privacy?id=anon_csmr_privacy)**.
 
 **Digital Advertising**
 
@@ -580,7 +580,7 @@ Please note that consumer privacy rights are not absolute. They are subject to c
 
 The following consumer privacy rights do not require that we verify your identity. But we still need you to provide us with the information we need to find you in our records and ensure we are handling the right consumer’s information:
 
-* **_Do Not Sell Or Share My Personal Information_** – You have the right to direct us not to sell or share your Personal Information. To request that we not sell or share your Personal Information, click here: “[Do Not Sell or Share My Personal Information](https://hch.service-now.com/privacy?id=anon_csmr).” 
+* **_Do Not Sell Or Share My Personal Information_** – You have the right to direct us not to sell or share your Personal Information. To request that we not sell or share your Personal Information, click here: “[Do Not Sell or Share My Personal Information](https://hch.service-now.com/privacy?id=anon_csmr_privacy).” 
 
 * **_Limit The Use Of My Sensitive Personal Information_** – You have the right to direct us to limit the use and disclosure of your Sensitive Personal Information. For residents of Colorado, Connecticut, and Virginia, we do not knowingly collect or process your Sensitive Personal Information without your consent, which may be obtained by our vendors, business partners, other service providers, or Clients. You can withdraw your consent by asking us to limit the use and disclosure of your Sensitive Personal Information or making a deletion request.
 
@@ -602,7 +602,7 @@ Consistent with State Privacy Laws, we will not disclose Personal Information th
 
 #### **Exercising Your Consumer Privacy Rights**
 
-To exercise the rights described above, please use our [webform](https://hch.service-now.com/privacy?id=anon_csmr). Our webform is our preferred method to make sure we get the information we need from you to process your request. If you can’t use the webform, or need help or additional information, you can email us here: [privacyrequests@vericast.com](mailto:privacyrequests@vericast.com) or call us at 1-800-437-0479.
+To exercise the rights described above, please use our [webform](https://hch.service-now.com/privacy?id=anon_csmr_privacy). Our webform is our preferred method to make sure we get the information we need from you to process your request. If you can’t use the webform, or need help or additional information, you can email us here: [privacyrequests@vericast.com](mailto:privacyrequests@vericast.com) or call us at 1-800-437-0479.
 
 #### **Exercising Rights Through An Authorized Agent**
 
@@ -645,6 +645,6 @@ San Antonio, TX 78256
 
 [Terms of Use](https://www.vericast.com/terms-of-use/)
 
-[Do Not Sell or Share My Information](https://hch.service-now.com/privacy?id=anon_csmr)
+[Do Not Sell or Share My Information](https://hch.service-now.com/privacy?id=anon_csmr_privacy)
 
 Vericast is focused on financial institutions. Looking for other industry solutions?       [Click Here >](http://www.rrd.com/)
