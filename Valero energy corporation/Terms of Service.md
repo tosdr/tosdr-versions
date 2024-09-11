@@ -67,6 +67,7 @@ Main navigation
     
     * [Working at Valero](https://www.valero.com/careers/working-valero)
     * [Getting Hired](https://www.valero.com/careers/getting-hired)
+    * [Careers in Renewables](https://www.valero.com/careers/careers-renewables)
     * [View U.S. Opportunities](https://valero.taleo.net/careersection/2/jobsearch.ftl?lang=en)
     
     Featured Content [Apply & Join Us](https://www.valero.com/careers/apply-join-us)
@@ -200,7 +201,6 @@ Social Navigation
 * [Youtube](https://www.youtube.com/user/ValeroEnergy1)
 * [Instagram](https://www.instagram.com/valeroenergy/)
 * [LinkedIn](https://www.linkedin.com/company/valero-energy-corporation)
-* [Twitter](https://twitter.com/valeroenergy)
 * [Facebook](https://www.facebook.com/valeroenergy)
 * [ValeroPay+](https://www.valero.com/valeropayplus)
 
