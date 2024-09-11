@@ -168,14 +168,6 @@ A web app for turning lists of tunes into tables.
 
 A web app that recognises tunes from audio input.
 
-[Session Maker](https://play.google.com/store/apps/details?id=com.sessionmaker)
-
-An Android app for creating sets of tunes. It integrates with your tunebook here on The Session.
-
-[TradMusician’s ABC music](https://play.google.com/store/apps/details?id=nodeslight.tradmusician2)
-
-An Android app for managing your tunebook.
-
 [geoTrad](https://www.google.com/maps/d/u/0/viewer?mid=1ck967b4xL-6XUr-CUwTojdJNa97b43jL&ll=53.45307877071246%2C-8.028519600000001&z=7)
 
 A map showing the distribution of Irish traditional tunes which reference place names in Ireland.
@@ -187,6 +179,10 @@ A Java helper library to make it easier for Java developers to work with The Ses
 [The Craic](http://thecraic.co/)
 
 [An app](https://apps.apple.com/app/the-craic/id586009292) for iPhone and iPad for searching across multiple online tune collections.
+
+[Foinn](https://www.foinn.me/)
+
+A web app for browsing your tunes and sets.
 
 * [Tunes](https://thesession.org/tunes)
 * [Discography](https://thesession.org/recordings)
