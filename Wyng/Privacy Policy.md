@@ -289,54 +289,7 @@ New York, NY 10011
 
 [Linkedin](https://www.linkedin.com/company/wyng?trk=mini-profile) [Instagram](https://www.instagram.com/wyngdotcom) [Twitter](https://twitter.com/wyngdotcom) [Youtube](https://www.youtube.com/@WyngInc) [Facebook](https://facebook.com/wyngdotcom)
 
-© 2023 Wyng, Inc.
-
-[Privacy Policy](https://www.wyng.com/privacy-policy/) | [Terms and Conditions](https://www.wyng.com/terms-of-service/)
-
-PLATFORM
---------
-
-* [Platform Overview](https://www.wyng.com/platform/)
-* [Why Zero-Party Data?](https://www.wyng.com/why-wyng/)
-* [View All Experiences](https://www.wyng.com/experiences/)
-
-EXAMPLES
---------
-
-* [Case Studies](https://www.wyng.com/case-studies/)
-
-RESOURCES
----------
-
-* [Blog](https://www.wyng.com/blog)
-* [Resource Library](https://www.wyng.com/resources)
-* [Help Center](https://help.wyng.com/s/?__hstc=51647990.252c2d3bdfe378ce4e5ff5281e61e3d2.1671730419622.1671730419622.1671730419622.1&__hssc=51647990.47.1673178186460&__hsfp=4029266239)
-* [Developer Portal](https://developers.wyng.com/?__hstc=51647990.252c2d3bdfe378ce4e5ff5281e61e3d2.1671730419622.1671730419622.1671730419622.1&__hssc=51647990.47.1673178186460&__hsfp=4029266239)
-
-COMPANY
--------
-
-* [About Wyng](https://www.wyng.com/about/)
-* [Careers](https://www.wyng.com/careers/)
-* [Newsroom](https://www.wyng.com/newsroom/)
-* [Contact Us](https://www.wyng.com/how-to-buy)
-
-GRAB UPDATES
-------------
-
-Subscribe to Wyng’s Zero-Party Data newsletter.
-
-© 2023 Wyng, Inc.
-
-[Privacy Policy](https://www.wyng.com/privacy-policy/) | [Terms and Conditions](https://www.wyng.com/terms-of-service/)
-
-[![Wyng](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20230%2064'%3E%3C/svg%3E)
-
-![Wyng](https://www.wyng.com/wp-content/uploads/2019/11/Wyng-Logo-White.png)](https://www.wyng.com/)
-
-[Linkedin](https://www.linkedin.com/company/wyng?trk=mini-profile) [Instagram](https://www.instagram.com/wyngdotcom) [Twitter](https://twitter.com/wyngdotcom) [Youtube](https://www.youtube.com/@WyngInc) [Facebook](https://facebook.com/wyngdotcom)
-
-© 2023 Wyng, Inc.
+© 2024 Wyng, Inc.
 
 [Privacy Policy](https://www.wyng.com/privacy-policy/) | [Terms and Conditions](https://www.wyng.com/terms-of-service/)
 
