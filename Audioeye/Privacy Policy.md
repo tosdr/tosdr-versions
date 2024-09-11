@@ -6,7 +6,7 @@
     
     * HOW IT WORKS
         
-    * [Find, Fix, Monitor](https://www.audioeye.com/solution/find-fix-monitor/?utm_lp=navigation)
+    * [Find, Fix, Monitor](https://www.audioeye.com/solution/find-fix-monitor/)
     * Automation
         
     * [Automated Accessibility Platform](https://www.audioeye.com/solution/automated-accessibility-platform/)
@@ -46,18 +46,21 @@
     * [Press Center](https://www.audioeye.com/press/)
     * [Technical DocumentationOpens in a new tab](https://developer.audioeye.com/)
     
+    * Industry
+        
+    * [SaaS](https://www.audioeye.com/saas/)
+    * [E-Commerce & Retail](https://www.audioeye.com/ecommerce-and-retail/)
+    * [Healthcare](https://www.audioeye.com/healthcare/)
+    * [Government](https://www.audioeye.com/government/)
+    * [Higher Education](https://www.audioeye.com/higher-education/)
+    * [Travel & Hospitality](https://www.audioeye.com/hospitality-and-travel/)
+    * [Banking and Finance](https://www.audioeye.com/banking-and-financial/)
+    * [Food & Beverages](https://www.audioeye.com/food-and-beverage/)
+    
     * Tools
         
     * [Web Accessibility Scan](https://www.audioeye.com/website-accessibility-checker/)
     * [Color Contrast Checker](https://www.audioeye.com/color-contrast-checker/)
-    
-    ![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTUiIGhlaWdodD0iMTUiIHZpZXdCb3g9IjAgMCAxNSAxNSIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wLjI1ODQzNSAwLjI1ODQzNUMwLjYwMzAxNSAtMC4wODYxNDUxIDEuMTYxNjkgLTAuMDg2MTQ1MSAxLjUwNjI3IDAuMjU4NDM1TDE0Ljc0MTYgMTMuNDkzN0MxNS4wODYxIDEzLjgzODMgMTUuMDg2MSAxNC4zOTcgMTQuNzQxNiAxNC43NDE2QzE0LjM5NyAxNS4wODYxIDEzLjgzODMgMTUuMDg2MSAxMy40OTM3IDE0Ljc0MTZMMC4yNTg0MzUgMS41MDYyN0MtMC4wODYxNDUxIDEuMTYxNjkgLTAuMDg2MTQ1MSAwLjYwMzAxNSAwLjI1ODQzNSAwLjI1ODQzNVoiIGZpbGw9IiMxRjFGMUYiLz4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNC43NDE2IDAuMjU4NDM1QzE1LjA4NjEgMC42MDMwMTUgMTUuMDg2MSAxLjE2MTY5IDE0Ljc0MTYgMS41MDYyN0wxLjUwNjI3IDE0Ljc0MTZDMS4xNjE2OSAxNS4wODYxIDAuNjAzMDE0IDE1LjA4NjEgMC4yNTg0MzUgMTQuNzQxNkMtMC4wODYxNDYgMTQuMzk3IC0wLjA4NjE0NiAxMy44MzgzIDAuMjU4NDM1IDEzLjQ5MzdMMTMuNDkzNyAwLjI1ODQzNUMxMy44MzgzIC0wLjA4NjE0NTEgMTQuMzk3IC0wLjA4NjE0NTEgMTQuNzQxNiAwLjI1ODQzNVoiIGZpbGw9IiMxRjFGMUYiLz4KPC9zdmc+Cg==)
-    
-* Community
-    
-    * [Join](https://www.audioeye.com/audioeye-a11iance-team-interest/)
-    * [About the Disability Community](https://www.audioeye.com/a11iance-team/)
-    * [Community Events & Webinars](https://www.audioeye.com/webinars/)
     
     ![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTUiIGhlaWdodD0iMTUiIHZpZXdCb3g9IjAgMCAxNSAxNSIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wLjI1ODQzNSAwLjI1ODQzNUMwLjYwMzAxNSAtMC4wODYxNDUxIDEuMTYxNjkgLTAuMDg2MTQ1MSAxLjUwNjI3IDAuMjU4NDM1TDE0Ljc0MTYgMTMuNDkzN0MxNS4wODYxIDEzLjgzODMgMTUuMDg2MSAxNC4zOTcgMTQuNzQxNiAxNC43NDE2QzE0LjM5NyAxNS4wODYxIDEzLjgzODMgMTUuMDg2MSAxMy40OTM3IDE0Ljc0MTZMMC4yNTg0MzUgMS41MDYyN0MtMC4wODYxNDUxIDEuMTYxNjkgLTAuMDg2MTQ1MSAwLjYwMzAxNSAwLjI1ODQzNSAwLjI1ODQzNVoiIGZpbGw9IiMxRjFGMUYiLz4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNC43NDE2IDAuMjU4NDM1QzE1LjA4NjEgMC42MDMwMTUgMTUuMDg2MSAxLjE2MTY5IDE0Ljc0MTYgMS41MDYyN0wxLjUwNjI3IDE0Ljc0MTZDMS4xNjE2OSAxNS4wODYxIDAuNjAzMDE0IDE1LjA4NjEgMC4yNTg0MzUgMTQuNzQxNkMtMC4wODYxNDYgMTQuMzk3IC0wLjA4NjE0NiAxMy44MzgzIDAuMjU4NDM1IDEzLjQ5MzdMMTMuNDkzNyAwLjI1ODQzNUMxMy44MzgzIC0wLjA4NjE0NTEgMTQuMzk3IC0wLjA4NjE0NTEgMTQuNzQxNiAwLjI1ODQzNVoiIGZpbGw9IiMxRjFGMUYiLz4KPC9zdmc+Cg==)
     
@@ -75,7 +78,13 @@
     * [Platform Partners](https://www.audioeye.com/partners/platform/)
     * [Become a Partner](https://www.audioeye.com/become-a-partner/)
     
+    * [Join A11y Community](https://www.audioeye.com/audioeye-a11iance-team-interest/)
+    * [About the Disability Community](https://www.audioeye.com/a11iance-team/)
+    * [Community Events & Webinars](https://www.audioeye.com/webinars/)
+    
     ![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTUiIGhlaWdodD0iMTUiIHZpZXdCb3g9IjAgMCAxNSAxNSIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wLjI1ODQzNSAwLjI1ODQzNUMwLjYwMzAxNSAtMC4wODYxNDUxIDEuMTYxNjkgLTAuMDg2MTQ1MSAxLjUwNjI3IDAuMjU4NDM1TDE0Ljc0MTYgMTMuNDkzN0MxNS4wODYxIDEzLjgzODMgMTUuMDg2MSAxNC4zOTcgMTQuNzQxNiAxNC43NDE2QzE0LjM5NyAxNS4wODYxIDEzLjgzODMgMTUuMDg2MSAxMy40OTM3IDE0Ljc0MTZMMC4yNTg0MzUgMS41MDYyN0MtMC4wODYxNDUxIDEuMTYxNjkgLTAuMDg2MTQ1MSAwLjYwMzAxNSAwLjI1ODQzNSAwLjI1ODQzNVoiIGZpbGw9IiMxRjFGMUYiLz4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNC43NDE2IDAuMjU4NDM1QzE1LjA4NjEgMC42MDMwMTUgMTUuMDg2MSAxLjE2MTY5IDE0Ljc0MTYgMS41MDYyN0wxLjUwNjI3IDE0Ljc0MTZDMS4xNjE2OSAxNS4wODYxIDAuNjAzMDE0IDE1LjA4NjEgMC4yNTg0MzUgMTQuNzQxNkMtMC4wODYxNDYgMTQuMzk3IC0wLjA4NjE0NiAxMy44MzgzIDAuMjU4NDM1IDEzLjQ5MzdMMTMuNDkzNyAwLjI1ODQzNUMxMy44MzgzIC0wLjA4NjE0NTEgMTQuMzk3IC0wLjA4NjE0NTEgMTQuNzQxNiAwLjI1ODQzNVoiIGZpbGw9IiMxRjFGMUYiLz4KPC9zdmc+Cg==)
+    
+* [Pricing](https://www.audioeye.com/plans-and-pricing/)
     
 
 [Login](https://portal.audioeye.com/login)
@@ -92,7 +101,7 @@ Schedule Demo
     
     * HOW IT WORKS
         
-    * [Find, Fix, Monitor](https://www.audioeye.com/solution/find-fix-monitor/?utm_lp=navigation)
+    * [Find, Fix, Monitor](https://www.audioeye.com/solution/find-fix-monitor/)
     * Automation
         
     * [Automated Accessibility Platform](https://www.audioeye.com/solution/automated-accessibility-platform/)
@@ -132,18 +141,21 @@ Schedule Demo
     * [Press Center](https://www.audioeye.com/press/)
     * [Technical DocumentationOpens in a new tab](https://developer.audioeye.com/)
     
+    * Industry
+        
+    * [SaaS](https://www.audioeye.com/saas/)
+    * [E-Commerce & Retail](https://www.audioeye.com/ecommerce-and-retail/)
+    * [Healthcare](https://www.audioeye.com/healthcare/)
+    * [Government](https://www.audioeye.com/government/)
+    * [Higher Education](https://www.audioeye.com/higher-education/)
+    * [Travel & Hospitality](https://www.audioeye.com/hospitality-and-travel/)
+    * [Banking and Finance](https://www.audioeye.com/banking-and-financial/)
+    * [Food & Beverages](https://www.audioeye.com/food-and-beverage/)
+    
     * Tools
         
     * [Web Accessibility Scan](https://www.audioeye.com/website-accessibility-checker/)
     * [Color Contrast Checker](https://www.audioeye.com/color-contrast-checker/)
-    
-    ![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTUiIGhlaWdodD0iMTUiIHZpZXdCb3g9IjAgMCAxNSAxNSIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wLjI1ODQzNSAwLjI1ODQzNUMwLjYwMzAxNSAtMC4wODYxNDUxIDEuMTYxNjkgLTAuMDg2MTQ1MSAxLjUwNjI3IDAuMjU4NDM1TDE0Ljc0MTYgMTMuNDkzN0MxNS4wODYxIDEzLjgzODMgMTUuMDg2MSAxNC4zOTcgMTQuNzQxNiAxNC43NDE2QzE0LjM5NyAxNS4wODYxIDEzLjgzODMgMTUuMDg2MSAxMy40OTM3IDE0Ljc0MTZMMC4yNTg0MzUgMS41MDYyN0MtMC4wODYxNDUxIDEuMTYxNjkgLTAuMDg2MTQ1MSAwLjYwMzAxNSAwLjI1ODQzNSAwLjI1ODQzNVoiIGZpbGw9IiMxRjFGMUYiLz4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNC43NDE2IDAuMjU4NDM1QzE1LjA4NjEgMC42MDMwMTUgMTUuMDg2MSAxLjE2MTY5IDE0Ljc0MTYgMS41MDYyN0wxLjUwNjI3IDE0Ljc0MTZDMS4xNjE2OSAxNS4wODYxIDAuNjAzMDE0IDE1LjA4NjEgMC4yNTg0MzUgMTQuNzQxNkMtMC4wODYxNDYgMTQuMzk3IC0wLjA4NjE0NiAxMy44MzgzIDAuMjU4NDM1IDEzLjQ5MzdMMTMuNDkzNyAwLjI1ODQzNUMxMy44MzgzIC0wLjA4NjE0NTEgMTQuMzk3IC0wLjA4NjE0NTEgMTQuNzQxNiAwLjI1ODQzNVoiIGZpbGw9IiMxRjFGMUYiLz4KPC9zdmc+Cg==)
-    
-* Community
-    
-    * [Join](https://www.audioeye.com/audioeye-a11iance-team-interest/)
-    * [About the Disability Community](https://www.audioeye.com/a11iance-team/)
-    * [Community Events & Webinars](https://www.audioeye.com/webinars/)
     
     ![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTUiIGhlaWdodD0iMTUiIHZpZXdCb3g9IjAgMCAxNSAxNSIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wLjI1ODQzNSAwLjI1ODQzNUMwLjYwMzAxNSAtMC4wODYxNDUxIDEuMTYxNjkgLTAuMDg2MTQ1MSAxLjUwNjI3IDAuMjU4NDM1TDE0Ljc0MTYgMTMuNDkzN0MxNS4wODYxIDEzLjgzODMgMTUuMDg2MSAxNC4zOTcgMTQuNzQxNiAxNC43NDE2QzE0LjM5NyAxNS4wODYxIDEzLjgzODMgMTUuMDg2MSAxMy40OTM3IDE0Ljc0MTZMMC4yNTg0MzUgMS41MDYyN0MtMC4wODYxNDUxIDEuMTYxNjkgLTAuMDg2MTQ1MSAwLjYwMzAxNSAwLjI1ODQzNSAwLjI1ODQzNVoiIGZpbGw9IiMxRjFGMUYiLz4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNC43NDE2IDAuMjU4NDM1QzE1LjA4NjEgMC42MDMwMTUgMTUuMDg2MSAxLjE2MTY5IDE0Ljc0MTYgMS41MDYyN0wxLjUwNjI3IDE0Ljc0MTZDMS4xNjE2OSAxNS4wODYxIDAuNjAzMDE0IDE1LjA4NjEgMC4yNTg0MzUgMTQuNzQxNkMtMC4wODYxNDYgMTQuMzk3IC0wLjA4NjE0NiAxMy44MzgzIDAuMjU4NDM1IDEzLjQ5MzdMMTMuNDkzNyAwLjI1ODQzNUMxMy44MzgzIC0wLjA4NjE0NTEgMTQuMzk3IC0wLjA4NjE0NTEgMTQuNzQxNiAwLjI1ODQzNVoiIGZpbGw9IiMxRjFGMUYiLz4KPC9zdmc+Cg==)
     
@@ -161,7 +173,13 @@ Schedule Demo
     * [Platform Partners](https://www.audioeye.com/partners/platform/)
     * [Become a Partner](https://www.audioeye.com/become-a-partner/)
     
+    * [Join A11y Community](https://www.audioeye.com/audioeye-a11iance-team-interest/)
+    * [About the Disability Community](https://www.audioeye.com/a11iance-team/)
+    * [Community Events & Webinars](https://www.audioeye.com/webinars/)
+    
     ![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTUiIGhlaWdodD0iMTUiIHZpZXdCb3g9IjAgMCAxNSAxNSIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wLjI1ODQzNSAwLjI1ODQzNUMwLjYwMzAxNSAtMC4wODYxNDUxIDEuMTYxNjkgLTAuMDg2MTQ1MSAxLjUwNjI3IDAuMjU4NDM1TDE0Ljc0MTYgMTMuNDkzN0MxNS4wODYxIDEzLjgzODMgMTUuMDg2MSAxNC4zOTcgMTQuNzQxNiAxNC43NDE2QzE0LjM5NyAxNS4wODYxIDEzLjgzODMgMTUuMDg2MSAxMy40OTM3IDE0Ljc0MTZMMC4yNTg0MzUgMS41MDYyN0MtMC4wODYxNDUxIDEuMTYxNjkgLTAuMDg2MTQ1MSAwLjYwMzAxNSAwLjI1ODQzNSAwLjI1ODQzNVoiIGZpbGw9IiMxRjFGMUYiLz4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNC43NDE2IDAuMjU4NDM1QzE1LjA4NjEgMC42MDMwMTUgMTUuMDg2MSAxLjE2MTY5IDE0Ljc0MTYgMS41MDYyN0wxLjUwNjI3IDE0Ljc0MTZDMS4xNjE2OSAxNS4wODYxIDAuNjAzMDE0IDE1LjA4NjEgMC4yNTg0MzUgMTQuNzQxNkMtMC4wODYxNDYgMTQuMzk3IC0wLjA4NjE0NiAxMy44MzgzIDAuMjU4NDM1IDEzLjQ5MzdMMTMuNDkzNyAwLjI1ODQzNUMxMy44MzgzIC0wLjA4NjE0NTEgMTQuMzk3IC0wLjA4NjE0NTEgMTQuNzQxNiAwLjI1ODQzNVoiIGZpbGw9IiMxRjFGMUYiLz4KPC9zdmc+Cg==)
+    
+* [Pricing](https://www.audioeye.com/plans-and-pricing/)
     
 
 Start Free Trial
@@ -178,7 +196,7 @@ Schedule Demo
     
     * HOW IT WORKS
         
-    * [Find, Fix, Monitor](https://www.audioeye.com/solution/find-fix-monitor/?utm_lp=navigation)
+    * [Find, Fix, Monitor](https://www.audioeye.com/solution/find-fix-monitor/)
     * Automation
         
     * [Automated Accessibility Platform](https://www.audioeye.com/solution/automated-accessibility-platform/)
@@ -226,26 +244,21 @@ Schedule Demo
     * [Press Center](https://www.audioeye.com/press/)
     * [Technical DocumentationOpens in a new tab](https://developer.audioeye.com/)
     
+    * Industry
+        
+    * [SaaS](https://www.audioeye.com/saas/)
+    * [E-Commerce & Retail](https://www.audioeye.com/ecommerce-and-retail/)
+    * [Healthcare](https://www.audioeye.com/healthcare/)
+    * [Government](https://www.audioeye.com/government/)
+    * [Higher Education](https://www.audioeye.com/higher-education/)
+    * [Travel & Hospitality](https://www.audioeye.com/hospitality-and-travel/)
+    * [Banking and Finance](https://www.audioeye.com/banking-and-financial/)
+    * [Food & Beverages](https://www.audioeye.com/food-and-beverage/)
+    
     * Tools
         
     * [Web Accessibility Scan](https://www.audioeye.com/website-accessibility-checker/)
     * [Color Contrast Checker](https://www.audioeye.com/color-contrast-checker/)
-    
-    [Login
-    
-    Opens in a new tab](https://portal.audioeye.com/login)
-    
-    Start Free Trial
-    
-    Schedule Demo
-    
-* Community
-    
-    Back![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTUiIGhlaWdodD0iMTUiIHZpZXdCb3g9IjAgMCAxNSAxNSIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wLjI1ODQzNSAwLjI1ODQzNUMwLjYwMzAxNSAtMC4wODYxNDUxIDEuMTYxNjkgLTAuMDg2MTQ1MSAxLjUwNjI3IDAuMjU4NDM1TDE0Ljc0MTYgMTMuNDkzN0MxNS4wODYxIDEzLjgzODMgMTUuMDg2MSAxNC4zOTcgMTQuNzQxNiAxNC43NDE2QzE0LjM5NyAxNS4wODYxIDEzLjgzODMgMTUuMDg2MSAxMy40OTM3IDE0Ljc0MTZMMC4yNTg0MzUgMS41MDYyN0MtMC4wODYxNDUxIDEuMTYxNjkgLTAuMDg2MTQ1MSAwLjYwMzAxNSAwLjI1ODQzNSAwLjI1ODQzNVoiIGZpbGw9IiMxRjFGMUYiLz4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNC43NDE2IDAuMjU4NDM1QzE1LjA4NjEgMC42MDMwMTUgMTUuMDg2MSAxLjE2MTY5IDE0Ljc0MTYgMS41MDYyN0wxLjUwNjI3IDE0Ljc0MTZDMS4xNjE2OSAxNS4wODYxIDAuNjAzMDE0IDE1LjA4NjEgMC4yNTg0MzUgMTQuNzQxNkMtMC4wODYxNDYgMTQuMzk3IC0wLjA4NjE0NiAxMy44MzgzIDAuMjU4NDM1IDEzLjQ5MzdMMTMuNDkzNyAwLjI1ODQzNUMxMy44MzgzIC0wLjA4NjE0NTEgMTQuMzk3IC0wLjA4NjE0NTEgMTQuNzQxNiAwLjI1ODQzNVoiIGZpbGw9IiMxRjFGMUYiLz4KPC9zdmc+Cg==)
-    
-    * [Join](https://www.audioeye.com/audioeye-a11iance-team-interest/)
-    * [About the Disability Community](https://www.audioeye.com/a11iance-team/)
-    * [Community Events & Webinars](https://www.audioeye.com/webinars/)
     
     [Login
     
@@ -271,6 +284,10 @@ Schedule Demo
     * [Platform Partners](https://www.audioeye.com/partners/platform/)
     * [Become a Partner](https://www.audioeye.com/become-a-partner/)
     
+    * [Join A11y Community](https://www.audioeye.com/audioeye-a11iance-team-interest/)
+    * [About the Disability Community](https://www.audioeye.com/a11iance-team/)
+    * [Community Events & Webinars](https://www.audioeye.com/webinars/)
+    
     [Login
     
     Opens in a new tab](https://portal.audioeye.com/login)
@@ -278,6 +295,8 @@ Schedule Demo
     Start Free Trial
     
     Schedule Demo
+    
+* [Pricing](https://www.audioeye.com/plans-and-pricing/)
     
 
 [Login
@@ -519,7 +538,7 @@ You can also submit a request at our Privacy Hotline at: (866) 541-0080.
 
 ### **Do-not-track Signals**
 
-Our Services do not respond to do-not-track signals. For more information about do-not-track signals, please see [https://allaboutdnt.com/](https://allaboutdnt.com/).
+Our Services do not respond to do-not-track signals. For more information about do-not-track signals, please see [https://securiti.ai/what-is-do-not-track-dnt](https://securiti.ai/what-is-do-not-track-dnt).
 
 ### **Revisions to our Privacy Policy**
 
