@@ -150,10 +150,13 @@ Site search input
 * [Home Learning](https://www.teachervision.com/home-learning-resources)
 * [Self-Care](https://www.teachervision.com/teaching-strategies/self-care)
 * [Premium Resources](https://www.teachervision.com/shop-products)
+* [Games](https://games.teachervision.com/)
 
 [Sign up](https://www.teachervision.com/upgrade-premium?destination=/tv/membership-terms)
 
 [Sign in](https://www.teachervision.com/user/login?destination=/tv/membership-terms)
+
+![numberblocks_logo](/sites/default/files/inline-images/numberblocks_main_logo_0.jpg)Check out Numberblocks on Youtube! [Click Here](https://www.youtube.com/@Numberblocks?utm_source=teachervision&utm_medium=cpc&utm_campaign=numberblocks-promo)
 
 20% off Premium for new teachers 20% off Premium [Unlock Discount](https://www.teachervision.com/select-plan?p=JOIN20)
 
@@ -190,6 +193,8 @@ TeacherVision® Subscription Terms
 10.    Termination. You agree that SNI may terminate your Subscription or otherwise terminate your access to the Site, if SNI believes (a) that you have breached these Subscription Terms or any other applicable terms including the Site’s Terms of Use, or (b) that you have violated the rights of SNI or any third party including other Site subscribers or users. You will not be entitled to any refund of any Subscription fees in the event of such termination. You acknowledge and agree such termination may be affected without prior notice, and you acknowledge and agree that SNI may immediately delete any content maintained by you on the Site. 
 
 Updated on July 16, 2024.
+
+[![numberblocks skyscraper](/sites/default/files/inline-images/USABA-2-2.png)](https://www.youtube.com/@Numberblocks?utm_source=teachervision&utm_medium=cpc&utm_campaign=numberblocks-promo)
 
 ADVERTISEMENT |  [REMOVE ADS](https://www.teachervision.com/user/register?destination=/select-plan)
 
@@ -243,7 +248,7 @@ With the help of certified and current classroom teachers, TeacherVision creates
 * [Browse Worksheets](https://www.teachervision.com/resources/worksheets)
 * [Browse Teaching Resources](https://www.teachervision.com/resources)
 
-[![sandbox learning logo](/sites/default/files/inline-images/sandbox-learning_0.png)](https://sandboxandco.com/learning/index.html)
+[![sandbox learning logo](/sites/default/files/inline-images/sandbox-learning_0.png)](https://sbxgroup.com/learning/)
 
 TeacherVision is part of the Sandbox Learning family of educational and reference sites for parents, teachers and students.
 
