@@ -51,4 +51,4 @@ To delete your account, please head [here](https://www.tvmaze.com/dashboard/secu
 
               
 
-![](//numbers.tvmaze.com/tvmaze.php?idsite=1)
+![](//totem.tvmaze.com/tvmaze.php?idsite=1)
