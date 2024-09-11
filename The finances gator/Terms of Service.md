@@ -1,5 +1,3 @@
-![](https://www.serveipqs.com/api/*/2ndzHnWQy6dEJUDbAaqMKwtuJ6fjUOgtRMAyoqtc00JPrncGXyWhSDVoM8Lv7iacMjG2DZbbzeuXkuybe8RnaMIIFvbzNWKRa75s0SD4D41IXBFwcIiWRnboeHOfMk5WJbgN4fNLsA083idKihKhW1J8ijMEzePCt1rlQBeH5EhhZLHBcCTE1ALdGnOLxm8rg207p9vhbNfgOCMkcIbm0DB29ZBC5T80sVm8JgrFPYXt7deFVSf4acX81npkSXrd/pixel.png)
-
 [Skip to content](#content)
 
 Main Navigation
