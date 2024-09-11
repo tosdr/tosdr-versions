@@ -1,4 +1,4 @@
- [![Free Porn Videos xHamster](https://static-ah.xhcdn.com/xh-desktop/images/logo/logo.svg)![](https://static-ah.xhcdn.com/xh-desktop/images/logo/logo-nightmode.svg) GB](https://xhamster.com/)
+ [![Free Porn Videos xHamster](https://static-ah.xhcdn.com/xh-desktop/images/logo/logo.svg)![](https://static-ah.xhcdn.com/xh-desktop/images/logo/logo-nightmode.svg) US](https://xhamster.com/)
 
 * Straight
 * [Gay](https://xhamster.com/gay)
@@ -26,60 +26,31 @@ Sign in with Google](https://xhamster.com/login-google?source=base)
 
 [Sign up for free](https://xhamster.com/signup?source=menuSignup)
 
-* [Videos](https://xhamster.com/)
-    * [Best Videos](https://xhamster.com/best/weekly)
-    * [Moments](https://xhamster.com/moments/do-you-like-how-i-shake-my-naked-ass-xhQ9qWB)
-    * [Watch History](https://xhamster.com/my/watch-history)
-    
-    * [British](https://xhamster.com/categories/british)
-    * [Amateur](https://xhamster.com/categories/amateur)
-    * [Mature](https://xhamster.com/categories/mature)
-    * [Old & Young (18+)](https://xhamster.com/categories/old-young)
-    * [Lesbian](https://xhamster.com/categories/lesbian)
-    
-    * [All categories](https://xhamster.com/categories)
-* [0](https://xhamster.com/my/subscriptions)
-* [Live Sex](https://xhamsterlive.com/?userId=aad1b133c9c4764c297d099d98d58aef&utm_source=xhamster&memberId=&utm_medium=widgets&sourceId=widgets&platform=desktop&landing=WidgetXH&domain=xhamsterlive&orientation=straight&pageType=otherPages&logged=0&retargeted=0&adblocked=0&widgetName=mainMenu-LiveSex&widgetElement=tab&isUserLogged=0&isUserRetargeted=0&exp=%7B%221802%22%3A%7B%22g%22%3A%22b%22%2C%22v%22%3A11%7D%2C%223001%22%3A%7B%22g%22%3A%22e%22%2C%22v%22%3A6%7D%2C%223002%22%3A%7B%22g%22%3A%22k%22%2C%22v%22%3A5%7D%2C%223004%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A1%7D%7D&xhStatsUid=66ac03235bc223.19007457c93&xhSessionToken=7a1a45909fd821a1c9edd371d3d2dc40057df89b&xhSessionStartedAt=1722549027)
-* [Categories](https://xhamster.com/categories)
-    * [British](https://xhamster.com/categories/british)
-    * [Mature](https://xhamster.com/categories/mature)
-    * [Amateur](https://xhamster.com/categories/amateur)
-    * [Granny](https://xhamster.com/categories/granny)
-    * [Homemade](https://xhamster.com/categories/homemade)
-    
-    * [All categories](https://xhamster.com/categories)
-* [Pornstars](https://xhamster.com/pornstars)
-    * [Pornstars](https://xhamster.com/pornstars)
-    * [Celebrities](https://xhamster.com/celebrities)
-    * [By Countries](https://xhamster.com/pornstars/all/countries)
-    
-    * [xHamster Creators](https://xhamster.com/creators)
-* [Creators](https://xhamster.com/creators/contest/eu)
-    * [Top Creators](https://xhamster.com/creators/contest/eu)
-    * [Top Creator Videos](https://xhamster.com/creators/videos/eu)
-    * [Awards 2023](https://xhamster.com/awards/2023?source=sidebar&medium=tab)
-    * [All xHamster Creators](https://xhamster.com/creators)
-    * [By Countries](https://xhamster.com/creators/all/countries)
-    
-    * [Become a Creator](https://xhamster.com/creator-signup?source=creators)
-* [Channels](https://xhamster.com/channels)
-* [Photos](https://xhamster.com/photos)
-    * [Mature](https://xhamster.com/photos/categories/mature)
-    * [MILF](https://xhamster.com/photos/categories/milf)
-    * [Hentai](https://xhamster.com/photos/categories/hentai)
-    * [Big Tits](https://xhamster.com/photos/categories/big-tits)
-    * [Granny](https://xhamster.com/photos/categories/granny)
-    
-    * [All categories](https://xhamster.com/photos/categories)
-*  [![Sex Chat](//static-nss.xhcdn.com/xh-images/components/header/components/header-nav/flirtify.svg) Sex Chat](https://flirtify.com/?utm_source=xhamster&utm_medium=menu&utm_campaign=guest&utm_content=otherPages)
-*  [![Faphouse](//static-nss.xhcdn.com/xh-images/components/header/components/header-nav/faphouse-crown.component.svg) Paid Videos](https://faphouse.com/?utm_source=xhamster&utm_medium=button&utm_campaign=guest&utm_content=landingpage)
-* [Dating](https://xhamster.com/dating)
-* * [Channels](https://xhamster.com/channels)
-    * [Photos](https://xhamster.com/photos)
-    * [Dating](https://xhamster.com/dating)
-    * [Subscriptions](https://xhamster.com/my/subscriptions)
-    *  [![Sex Chat](//static-nss.xhcdn.com/xh-images/components/header/components/header-nav/flirtify.svg) Sex Chat](https://flirtify.com/?utm_source=xhamster&utm_medium=menu&utm_campaign=guest&utm_content=otherPages)
-    *  [![Fap Porn - High-quality Porn Videos](//static-nss.xhcdn.com/xh-images/components/header/components/header-nav/faphouse-crown.component.svg) Paid Videos](https://faphouse.com/?utm_source=xhamster&utm_medium=button&utm_campaign=guest&utm_content=landingpage)
+[Videos](https://xhamster.com/)
+
+[Live Sex](https://xhamsterlive.com/?userId=aad1b133c9c4764c297d099d98d58aef&utm_source=xhamster&memberId=&utm_medium=widgets&sourceId=widgets&platform=desktop&landing=WidgetXH&domain=xhamsterlive&orientation=straight&pageType=otherPages&logged=0&retargeted=0&adblocked=0&widgetName=mainMenu-LiveSex&widgetElement=tab&isUserLogged=0&isUserRetargeted=0&exp=%7B%221802%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A12%7D%2C%222200%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A1%7D%2C%223002%22%3A%7B%22g%22%3A%22i%22%2C%22v%22%3A5%7D%2C%228006%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A1%7D%7D&xhStatsUid=66e10031445880.410469194c5&xhSessionToken=c05c1e62f46115cc75602bb97f701a131e3f1889&xhSessionStartedAt=1726021681)
+
+[Categories](https://xhamster.com/categories)
+
+[Pornstars](https://xhamster.com/pornstars)
+
+[Creators](https://xhamster.com/creators/contest/naoc)
+
+[Channels](https://xhamster.com/channels)
+
+[Photos](https://xhamster.com/photos)
+
+[![Sex Chat](//static-nss.xhcdn.com/xh-images/components/header/components/header-nav/flirtify.svg)
+
+Sex Chat](https://flirtify.com/?utm_source=xhamster&utm_medium=menu&utm_campaign=guest&utm_content=otherPages)
+
+[![Faphouse](//static-nss.xhcdn.com/xh-images/components/header/components/header-nav/faphouse-crown.component.svg)
+
+Premium Videos](https://faphouse.com/?utm_source=xhamster&utm_medium=button&utm_campaign=guest&utm_content=landingpage)
+
+[Dating](https://xhamster.com/dating)
+
+[Subscriptions](https://xhamster.com/my/subscriptions)
 
 * [Upload](https://xhamster.com/creator-signup?source=uploadHeader)
 
@@ -90,7 +61,7 @@ Sign in with Google](https://xhamster.com/login-google?source=base)
 Privacy Policy
 ==============
 
-Effective Date: August 01, 2024
+Effective Date: September 11, 2024
 
 Last Modified: January 04, 2024
 
@@ -382,48 +353,38 @@ Last Modified: January 04, 2024
     1. We reserve the right to update, revise, amend or modify this Privacy Policy as necessary to reflect any changes in our data processing practices or evolving legal requirements.
     2. While we will make every effort to notify you of significant changes to this Privacy Policy, we encourage you to periodically review the most current version available at [https://xhamster.com/info/privacy](https://xhamster.com/info/privacy) to stay informed of any changes. The date of the latest version of the Privacy Policy will be displayed at the top of this page.
 
-### xHamster
+* [](https://xhamster.com/media/press)
+* [](https://xhamster.com/blog)
+* [](https://xhamstercreators.com/)
+* [](https://xhamsternft.com/)
 
-* [Press](https://xhamster.com/media/press)
-* [Blog](https://xhamster.com/blog)
-* [Creator's Blog](https://xhamstercreators.com/)
-* [xHamster NFT](https://xhamsternft.com/)
+* [](https://xhamster.com/info/faq)
+* [](https://xhamster.com/info/contact)
+* [](https://xhamster.com/info/contact?subject=abuse)
+* [](https://xhamster.uservoice.com/)
 
-### Help
+* [](https://xhamster.com/info/terms)
+* [](https://xhamster.com/info/privacy)
+* [](https://xhamster.com/info/cookie-policy)
+* [](https://xhamster.com/info/dmca)
+* [](https://xhamster.com/info/parentalcontrol)
+* [](https://xhamster.com/info/eu-digital-services-act)
+* [](https://xhamster.com/info/trust-and-safety)
 
-* [FAQ](https://xhamster.com/info/faq)
-* [Contact us](https://xhamster.com/info/contact)
-* [Content Removal](https://xhamster.com/info/contact?subject=abuse)
-* [Improve xHamster](https://xhamster.uservoice.com/)
+* [](https://join.flirtify.com/?utm_source=xhamster-mobile&utm_medium=footer)
+* [](https://xhamster.com/creators/contest)
+* [](https://xhamster.com/creator?source=footerCcp)
 
-### Legal
-
-* [Terms of use](https://xhamster.com/info/terms)
-* [Privacy policy](https://xhamster.com/info/privacy)
-* [Cookies policy](https://xhamster.com/info/cookie-policy)
-* [DMCA/Copyright](https://xhamster.com/info/dmca)
-* [Parental Controls](https://xhamster.com/info/parentalcontrol)
-* [EU DSA](https://xhamster.com/info/eu-digital-services-act)
-* [Trust and Safety](https://xhamster.com/info/trust-and-safety)
-
-### Start making money with us
-
-* [Camgirls Wanted](https://join.flirtify.com/?utm_source=xhamster-desktop&utm_medium=footer)
-* [Creator Contest](https://xhamster.com/creators/contest)
-* [Сontent Creators Program](https://xhamster.com/creator?source=footerCcp)
-
-Monetize your content
-
-[Become a creator](https://xhamster.com/creator?source=footerBecomeACreator)
+[](https://xhamster.com/creator?source=footerBecomeACreator)
 
 © 2007 - 2024, xHamster.com
 
-[Mobile Version](https://xhamster.com/info/privacy?x_platform_switch=mobile)
+[](https://xhamster.com/info/privacy?x_platform_switch=mobile)
 
 [](https://twitter.com/xhamstercom)[](https://www.youtube.com/channel/UCQ20nmJ5yQH7amlpg6pbwyA)[](https://discord.gg/xHamsterNFT)[](https://twitter.com/xHamsterNFTcom)
 
-[18 U.S.C. 2257 Record-Keeping Requirements Compliance Statement](https://xhamster.com/info/2257)
+[](https://xhamster.com/info/2257)
 
-[![Monetization](//static-nss.xhcdn.com/xh-images/components/footer/rta_nightmode.component.png)![Monetization](//static-nss.xhcdn.com/xh-images/components/footer/rta.component.png)](https://www.asacp.org/?content=validate&ql=0b38b549f187edb883db00b7b057cbaa)
+[![](//static-nss.xhcdn.com/xh-images/components/footer/rta_nightmode.component.png)![](//static-nss.xhcdn.com/xh-images/components/footer/rta.component.png)](https://www.asacp.org/?content=validate&ql=0b38b549f187edb883db00b7b057cbaa)
 
 JavaScript is required for this website. Please turn it on in your browser and reload the page
