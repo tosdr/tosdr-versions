@@ -233,7 +233,7 @@ These Terms contains certain provisions that are applicable only if you are loca
 
 **32\. Videos**. 
 
-32.1. By selling videos through your Photographer Site, you agree to the licensing terms of the AVC/H.264 License Agreement ([http://www.mpegla.com/main/programs/AVC/Page s/Agreement.aspx](http://www.mpegla.com/main/programs/AVC/Page%20s/Agreement.aspx)). If you upload and/or sell videos in excess of 12 minutes in length, you may owe royalty payments to MPEG-LA. In addition to any other indemnity obligations described in these Terms, you will indemnify Zenfolio against royalties or any other liabilities arising under the AVC/H.264 License Agreement related to your uploads and/or sales of videos. You are responsible for obtaining permission and proper release documentation from any person whose image is posted by you on Zenfolio, and you represent and warrant to Zenfolio that you have done so. While Zenfolio has the right to refuse or remove any material or activities on the Site in its sole discretion, Zenfolio specifically reserves the right to delete any images where Zenfolio, in its sole judgment, lacks confidence in the documentation of a release. By using Photographer Services you agree to not publicly share, post or redistribute MpixPro product, shipping or service prices and details.
+32.1. By selling videos through your Photographer Site, you agree to the licensing terms of the AVC/H.264 License Agreement. If you upload and/or sell videos in excess of 12 minutes in length, you may owe royalty payments to MPEG-LA. In addition to any other indemnity obligations described in these Terms, you will indemnify Zenfolio against royalties or any other liabilities arising under the AVC/H.264 License Agreement related to your uploads and/or sales of videos. You are responsible for obtaining permission and proper release documentation from any person whose image is posted by you on Zenfolio, and you represent and warrant to Zenfolio that you have done so. While Zenfolio has the right to refuse or remove any material or activities on the Site in its sole discretion, Zenfolio specifically reserves the right to delete any images where Zenfolio, in its sole judgment, lacks confidence in the documentation of a release. By using Photographer Services you agree to not publicly share, post or redistribute MpixPro product, shipping or service prices and details.
 
 32.2. To the extent your Photographer Site embeds, deploys, hosts, or otherwise uses live or prerecorded videos or similar audio visual materials, you are hereby prohibited from disclosing to Zenfolio and any third-party any personal data in connection with an individual accessing, or requesting access to, such videos or similar audio visual materials (each a “Video User”), unless you have obtained the written consent from the applicable Video User, provided such consent (i) is in a form distinct and separate from any form setting forth other legal or financial obligations of the applicable Video User; (ii) is give, at the election of the applicable Video User, (a) at the time the disclosure is sought; or (b) in advance for a set period of time, not to exceed 2 years or until consent is withdrawn, whichever is sooner; and (iii) you have provided an opportunity, in a clear and conspicuous manner, for the applicable Video User to withdraw on a case-by-case basis or to withdraw from ongoing disclosures, their election.
 
@@ -296,7 +296,7 @@ Help
 
 * [Support Center](https://zenfolio.com/support/)
 * [Online Training](https://zenfolio.com/community/events/)
-* [Site Status](https://status.zenfolio.com/)
+* [Site Status (opens in a new tab)](https://status.zenfolio.com/)
 
 © 2024 Zenfolio, Inc. | [Terms of Service](https://zenfolio.com/termsofuse/) | [Privacy Policy](https://zenfolio.com/privacypolicy)
 
@@ -307,4 +307,4 @@ Help
 * [](https://www.tiktok.com/@zenfolioinc "TikTok")
 * [](https://www.pinterest.com/zenfolio/ "Pinterest")
 
-[**SAVE up to 50%!**\* – View Plans](https://zenfolio.com/plans-pricing/)
+[**SAVE up to 50%!** Offer Ends Soon.\* – View Plans](https://zenfolio.com/plans-pricing/)
