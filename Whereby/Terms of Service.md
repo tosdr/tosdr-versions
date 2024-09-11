@@ -18,7 +18,7 @@ Resources
 
 [Log in](https://whereby.com/user/login)
 
-[Try for free](https://whereby.com/information/tos/select-product)
+[Try for free](https://whereby.com/user/signup)
 
 [![whereby](https://framerusercontent.com/images/byWcaCNWWZsZnXvSlFAudEUbl0.svg)](https://whereby.com/information/)
 
