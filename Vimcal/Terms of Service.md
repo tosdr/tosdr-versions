@@ -11,7 +11,7 @@ Updated November 18, 2022
 
 #### **1\. Acceptance of the Terms of Service**
 
-These terms of service are entered into by and between you and Vimcal Inc., a Delaware corporation (**“Company”**, “we”, **“our”** or **“us”**). The following terms and conditions, together with any documents they expressly incorporate by reference (collectively, these **“Terms of Service”** or **“Terms”**),govern your access to and use of the Vimcal application, including any content, functionality, features, and services offered on or through the application (“Vimcal”), as well as our website, www.vimcal.com, all subdomains thereof, and social media accounts, pages, and other online platforms we operate related to Vimcal (collectively, the “Site”), whether as a guest or a registered user.  References herein to“Vimcal” shall also mean to include the Site, as the context requires.  References herein to **“you”**, **“your”**, or “yours” shall refer to you.
+These terms of service are entered into by and between you and Vimcal Inc., a Delaware corporation (**“Company”**, “we”, **“our”** or **“us”**). The following terms and conditions, together with any documents they expressly incorporate by reference (collectively, these **“Terms of Service”** or **“Terms”**), govern your access to and use of the Vimcal application, including any content, functionality, features, and services offered on or through the application (“Vimcal”), as well as our website, www.vimcal.com, all subdomains thereof, and social media accounts, pages, and other online platforms we operate related to Vimcal (collectively, the “Site”), whether as a guest or a registered user.  References herein to“Vimcal” shall also mean to include the Site, as the context requires.  References herein to **“you”**, **“your”**, or “yours” shall refer to you.
 
 PLEASE READ THE TERMS OF SERVICE CAREFULLYBEFORE YOU START TO USE OR ACCESS VIMCAL. BY USING OR ACCESSING VIMCAL, YOU (A)ACKNOWLEDGE THAT YOU HAVE READ AND UNDERSTAND THESE TERMS OF SERVICE, WHICHALSO INCLUDES THE TERMS OF OUR PRIVACY POLICY, FOUND AT WWW.VIMCAL.COM/PRIVACY\[1\] , INCORPORATED HEREIN BY REFERENCE; (B) REPRESENT THAT YOUARE AT LEAST 18 YEARS OLD AND OF LEGAL AGE AND CAPACITY TO ENTER INTO A BINDINGAGREEMENT, AND IF YOU ARE ENTERING INTO THIS BINDING AGREEMENT ON BEHALF OF ANENTITY, THAT YOU ARE DULY AUTHORIZED TO BIND SUCH ENTITY; AND (C) ACCEPT THESETERMS AND AGREE THAT YOU AND/OR THE ENTITY YOU REPRESENT ARE LEGALLY BOUND BYIT.  IF YOU DO NOT AGREE TO THESE TERMSOFSERVICE OR THE PRIVACY POLICY, YOU MUST NOT USE OR ACCESS VIMCAL.  REFERENCES HEREIN TO **“USE”** OR **“ACCESS”** SHALL INCLUDING DOWNLOADING, INSTALLING, REGISTERING WITH, USING, AND/OR ACCESSING VIMCAL, INCLUDING USING THE CONTENT, FEATURES, FUNCTIONALITY, AND/OR SERVICES OF VIMCAL.
 
@@ -25,7 +25,7 @@ Your continued use of Vimcal following the posting of revised Terms of Service m
 
 #### **3\. About Vimcal**
 
-Vimcal is a web-based and desktop-basedSoftware-as-a-Service application that provides registered users with access to a fast and beautifully designed calendar, empowered by a number of features such as hot keys and quick commands, efficient sharing of availabilities, conversion of time zones for booking across multiple time zones, and scheduling meetings based on plain textual inputs, to name a few.
+Vimcal is a web-based and desktop-based Software-as-a-Service application that provides registered users with access to a fast and beautifully designed calendar, empowered by a number of features such as hot keys and quick commands, efficient sharing of availabilities, conversion of time zones for booking across multiple time zones, and scheduling meetings based on plain textual inputs, to name a few.
 
 #### **4\. Accessing Vimcal and Account Security**
 
@@ -41,13 +41,13 @@ You are responsible for making all arrangements necessary for you to have access
 
 #### **5\. Purchases and Payments**
 
-Fees and prices for using Vimcal, as well as refund policies, shall be provided by Company through its Site or other written documentation such as the SaaS Services Agreement.  Payments will be processed through a third-party vendor, and the processing of such payments, refunds, accuracy of payment methods and related matters are also subject to the policies of such vendors.  Payments to Vimcal are non-refundable, unless explicitly provided otherwise in writing.
+Fees and prices for using Vimcal, as well as refund policies, shall be provided by Company through its Site or other written documentation such as the SaaS Services Agreement.  Payments will be processed through a third-party vendor, and the processing of such payments, refunds, accuracy of payment methods and related matters are also subject to the policies of such vendors. Payments to Vimcal are non-refundable, unless explicitly provided otherwise in writing.
 
 All payment information (such as a debit or credit card information) that you provide to Company must be accurate, active, and complete.  By using Vimcal, you authorize us to charge your account for monies owed by you to Company in accordance with these Terms.  You hereby represent and warrant that your use of the payment information is legal, that you have the right to use such payment information as a way to pay for your use of Vimcal.  If upon the termination of these Terms toward you, you owe monies related to your use of Vimcal, then you agree to pay such monies, and you agree for us to take all necessary and reasonable steps to that effect.        
 
 #### **6\. License Grant**
 
-Subject to these Terms, Company grants you alimited, non-exclusive, non-sublicenseable, and nontransferable license to: (a)use and access Vimcal and/or the Site only in connection with the purpose forwhich the same are provided on a computer, tablet, smartphone, mobile device,or any electronic device owned or otherwise controlled by you (“Device”) strictly in accordance withthese Terms; and (b) access, stream,download, and use on such Device the content, features, functionality, andservices made available in or otherwise accessible through Vimcal, strictly inaccordance with these Terms.
+Subject to these Terms, Company grants you alimited, non-exclusive, non-sublcenseable, and nontransferable license to: (a)use and access Vimcal and/or the Site only in connection with the purpose forwhich the same are provided on a computer, tablet, smartphone, mobile device,any ectronic device owned or otherwise controlled by you (“Device”) strictly in accordance withthese Terms; and (b) access, stream,download, and use on such Device the content, features, functionality, andservices made available in or otherwise accessible through Vimcal, strictly inaccordance with these Terms.
 
 #### **7\. License Restrictions**
 
@@ -65,7 +65,7 @@ By registering with, using, accessing and providing information to or through Vi
 
 #### **10\. Updates**
 
-We may from time to time in our sole discretion, with or without reason or cause, and without notice, withdraw or amend Vimcal, develop, provide, and implement updates for Vimcal, and/or otherwise make changes to all or parts of Vimcal which may include upgrades, bug fixes, patches, other error corrections, and/or new features (collectively, including related documentation, **“Updates”**).Updates may also modify or delete in their entirety certain content, features, functionality, and services. You agree that we have no obligation to provide any Updates or to continue to provide or enable any particular content, features, functionality, or services.
+We may from time to time in our sole discretion, with or without reason or cause, and without notice, withdraw or amend Vimcal, develop, provide, and implement updates for Vimcal, and/or otherwise make changes to all or parts of Vimcal which may include upgrades, bug fixes, patches, other error corrections, and/or new features (collectively, including related documentation, **“Updates”**). Updates may also modify or delete in their entirety certain content, features, functionality, and services. You agree that we have no obligation to provide any Updates or to continue to provide or enable any particular content, features, functionality, or services.
 
 We may or may not backup any or all content, features, functionalities, services, or aspects of Vimcal, including your settings; however, we take no responsibility for any such material that is lost, damaged, or deleted, and you hereby acknowledge and agree that we are in no way liable for any damage that this action or omission may cause you. We will not be liable if for any reason all or any part of Vimcal is unavailable at any time, for any period, or at all.
 
@@ -79,7 +79,7 @@ Notwithstanding anything to the contrary herein, you exclusively own all rights,
 
 You agree that you have no rights or title in or to any content that appears in Vimcal and/or the Site, and any other attributes associated with your access and use of Vimcal or stored on Vimcal’s server, other than as explicitly provided hereunder. As provided above, all such content, features, functionality, and services shall be owned by Company, its licensors, or other providers of such material.  You agree to fully and exclusively assign to us upon creation, with full and exclusive ownership rights, any intellectual property or other tangible or intangible rights, interest, or title that you have or may have toward such content. You further agree to waive any and all causes of action against us that you may have in regards to any right, interest, or title that cannot be assigned to us in accordance with these Terms.
 
-These Terms permit you to access and use Vimcal and the Site for the purposes for which they are provided only. You must not reproduce, distribute, modify, create derivative works of, publicly display, publicly perform, republish, download, store or transmit any of the material on Vimcal, except as follows: (i) your Device may temporarily store copies of such materials in RAM incidental to your accessing and viewing those materials; and(ii) you may store files that are automatically cached by your Device for display enhancement purposes.
+These Terms permit you to access and use Vimcal and the Site for the purposes for which they are provided only. You must not reproduce, distribute, modify, create derivative works of, publicly display, publicly perform, republish, download, store or transmit any of the material on Vimcal, except as follows: (i) your Device may temporarily store copies of such materials in RAM incidental to your accessing and viewing those materials; and (ii) you may store files that are automatically cached by your Device for display enhancement purposes.
 
 You must not: (i) modify copies of any materials from Vimcal; (ii) use any illustrations, photographs, video or audio sequences or any graphics separately from the accompanying text; and (iii) delete or alter any copyright, trademark or other proprietary rights notices from copies of materials from this site.
 
@@ -87,7 +87,7 @@ If you print, copy, modify, download or otherwise use or provide any other perso
 
 #### **12\. Trademarks**
 
-Company name, the “Vimcal” name, and all relatedCompany and Vimcal logos, product and service names, icons, designs, and slogans are trademarks of Company or its affiliates or licensors. You must not use such marks without the prior written permission of Company. All other names, logos, product and service names, icons, designs and slogans on Vimcal are the trademarks of their respective owners.
+Company name, the “Vimcal” name, and all related Company and Vimcal logos, product and service names, icons, designs, and slogans are trademarks of Company or its affiliates or licensors. You must not use such marks without the prior written permission of Company. All other names, logos, product and service names, icons, designs and slogans on Vimcal are the trademarks of their respective owners.
 
 #### **13\. Prohibited Uses**
 
@@ -129,7 +129,7 @@ Pursuant to 17 U.S.C. §512(f), the complaining party is subject to liability fo
 
 #### **16\. Reliance on Information Posted**
 
-The information presented on or through Vimcal and/or the Site is made available solely for general information purposes. We do not warrant the accuracy, completeness, or usefulness of this information.Any reliance you place on such information is strictly at your own risk. We disclaim all liability and responsibility arising from any reliance placed on such materials by you or any other visitor of Vimcal and/or the Site, or by anyone who may be informed of any of its contents.
+The information presented on or through Vimcal and/or the Site is made available solely for general information purposes. We do not warrant the accuracy, completeness, or usefulness of this information. Any reliance you place on such information is strictly at your own risk. We disclaim all liability and responsibility arising from any reliance placed on such materials by you or any other visitor of Vimcal and/or the Site, or by anyone who may be informed of any of its contents.
 
 #### **17\. Third-Party Materials and Links**
 
