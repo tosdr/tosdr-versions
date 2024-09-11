@@ -33,6 +33,7 @@ Languages
 * [Crown](https://www.gg.ca/en/crown)
     * [Sovereign and Royal Family](https://www.gg.ca/en/crown/sovereign-and-royal-family)
     * [Tribute to Queen Elizabeth II](https://www.gg.ca/en/crown/tribute-her-majesty-queen)
+    * [Coronation Service of His Majesty King Charles III](https://www.gg.ca/en/activities/2023/coronation-service-his-majesty-king-charles-iii)
     * [Viceregal Representatives](https://www.gg.ca/en/crown/viceregal-representatives)
 * [Activities](https://www.gg.ca/en/activities)
 * [Honours](https://www.gg.ca/en/honours)
@@ -66,17 +67,16 @@ Languages
         * [Viceregal Salute](https://www.gg.ca/en/heraldry/royal-and-viceregal-emblems/viceregal-salute)
 * [Multimedia](https://www.gg.ca/en/multimedia)
     * [Media Centre](https://www.gg.ca/en/media)
-    * [Photos](https://www.gg.ca/en/multimedia/photos)
     * [Videos](https://www.gg.ca/en/multimedia/videos)
 * [Visit Us](https://www.gg.ca/en/visit-us)
     * [Rideau Hall](https://www.gg.ca/en/visit-us/rideau-hall)
         * [What to See and Do](https://www.gg.ca/en/visit-us/rideau-hall/what-see-and-do)
-        * [Plan Your Visit](https://www.gg.ca/en/visit-us/rideau-hall/plan-your-visit)
+        * [Plan Your Visit (Ottawa)](https://www.gg.ca/en/visit-us/rideau-hall/plan-your-visit)
         * [History of Rideau Hall](https://www.gg.ca/en/visit-us/rideau-hall/history-rideau-hall)
         * [Becoming a Guide](https://www.gg.ca/en/visit-us/rideau-hall/becoming-guide)
     * [Citadelle](https://www.gg.ca/en/visit-us/citadelle)
         * [What to See and Do](https://www.gg.ca/en/visit-us/citadelle/what-see-and-do)
-        * [How to get to the residence (Québec)](https://www.gg.ca/en/visit-us/citadelle/plan-your-visit)
+        * [Plan your visit (Québec)](https://www.gg.ca/en/visit-us/citadelle/plan-your-visit)
         * [History of the Residence at the Citadelle](https://www.gg.ca/en/visit-us/citadelle/history-citadelle)
         * [Becoming a Guide](https://www.gg.ca/en/visit-us/citadelle/becoming-guide)
     * [Collections and Exhibitions](https://www.gg.ca/en/visit-us/collections-exhibitions)
@@ -94,7 +94,6 @@ Enter your keywords
 * [About the Office](https://www.gg.ca/en/the-office)
 * [Reports](https://www.gg.ca/en/the-office/reports)
 * [Accessibility](https://www.gg.ca/en/the-office/accessibility)
-* [Federal Partners](https://www.gg.ca/en/the-office/federal-partners)
 * [Terms & Conditions](https://www.gg.ca/en/the-office/terms-and-conditions)
 * [Privacy](https://www.gg.ca/en/the-office/privacy)
 
@@ -119,7 +118,7 @@ Emails and other electronic methods used to communicate with the OSGG are not se
 
 ### Third-Party Social Media
 
-The OSGG’s use of social media serves as an extension of its presence on the web . Social media account(s) are public and are not hosted on the OSGG servers. Users who choose to interact with us via social media should read the terms of service and privacy policies of these third-party service providers and those of any applications you use to access them. The OSGG uses [Facebook](https://www.facebook.com/about/privacy), [Twitter](https://twitter.com/privacy), [Instagram](https://help.instagram.com/519522125107875/?helpref=hc_fnav&bc[0]=368390626577968&bc[1]=285881641526716), and [YouTube](http://www.youtube.com/t/privacy_at_youtube?hl=en).
+The OSGG’s use of social media serves as an extension of its presence on the web. Social media account(s) are public and are not hosted on the OSGG servers. Users who choose to interact with us via social media should read the terms of service and privacy policies of these third-party service providers and those of any applications you use to access them. The OSGG uses [Facebook](https://www.facebook.com/about/privacy), [X](https://twitter.com/privacy), [Instagram](https://help.instagram.com/519522125107875/?helpref=hc_fnav&bc[0]=368390626577968&bc[1]=285881641526716), and [YouTube](http://www.youtube.com/t/privacy_at_youtube?hl=en).
 
 Personal information that you provide to the OSGG via social media account(s) is collected to capture conversations (e.g. questions and answers, comments, “likes,” retweets) between you and the OSGG. It may be used to respond to inquiries, or for statistical, evaluation and reporting purposes. Comments posted that violate Canadian law will be deleted and disclosed to law enforcement authorities. Comments that violate our rules of engagement will also be deleted.
 
@@ -198,7 +197,6 @@ The Office
 * [About the Office](https://www.gg.ca/en/the-office)
 * [Reports](https://www.gg.ca/en/the-office/reports)
 * [Accessibility](https://www.gg.ca/en/the-office/accessibility)
-* [Federal Partners](https://www.gg.ca/en/the-office/federal-partners)
 * [Terms & Conditions](https://www.gg.ca/en/the-office/terms-and-conditions)
 * [Privacy](https://www.gg.ca/en/the-office/privacy)
 
