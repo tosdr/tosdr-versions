@@ -47,10 +47,9 @@ Enter a search term  __
     
 * [Investors](https://www.wesfarmers.com.au/investor-centre)
     
-    [![2023 Annual Report](https://www.wesfarmers.com.au/images/default-source/2021-full-year-results/2023-annual-report.jpg?Status=Master&sfvrsn=10f8e1bb_1)](https://www.wesfarmers.com.au/docs/default-source/reports/2023-wesfarmers-annual-report---interactive.pdf?sfvrsn=a048e0bb_3)
+    [![2024 Annual Report](https://www.wesfarmers.com.au/images/default-source/2021-full-year-results/2024-annual-reportc9305ce1-78c3-4e36-9736-885521650126.jpg?sfvrsn=acb6e5bb_1)](https://www.wesfarmers.com.au/docs/default-source/reports/2024-wesfarmers-annual-report---interactive.pdf?sfvrsn=1bc5e4bb_3)
     
-      
-    [View 2023 Annual Report](https://www.wesfarmers.com.au/docs/default-source/reports/2023-wesfarmers-annual-report---interactive.pdf?sfvrsn=a048e0bb_3)
+    [2024 Annual Report](https://www.wesfarmers.com.au/docs/default-source/reports/2024-wesfarmers-annual-report---interactive.pdf?sfvrsn=1bc5e4bb_3)
     
     Back
     
@@ -94,60 +93,60 @@ Enter a search term  __
     
     At Wesfarmers we believe sustainability is about understanding and managing the ways we impact the communities and environments in which we operate, to ensure that we continue to create value in the future.  
     
-    [FY2022](https://www.wesfarmers.com.au/sustainability/fy2022) [FY2021](https://www.wesfarmers.com.au/sustainability/fy2021) [FY2020](https://www.wesfarmers.com.au/sustainability/fy2020)
+    [FY2023](https://www.wesfarmers.com.au/sustainability/fy2023) [FY2022](https://www.wesfarmers.com.au/sustainability/fy2022) [FY2021](https://www.wesfarmers.com.au/sustainability/fy2021) [FY2020](https://www.wesfarmers.com.au/sustainability/fy2020)
     
     Back
     
     Sustainability
     
-    [FY2022](https://www.wesfarmers.com.au/sustainability/fy2022) [FY2021](https://www.wesfarmers.com.au/sustainability/fy2021) [FY2020](https://www.wesfarmers.com.au/sustainability/fy2020)
+    [FY2023](https://www.wesfarmers.com.au/sustainability/fy2023) [FY2022](https://www.wesfarmers.com.au/sustainability/fy2022) [FY2021](https://www.wesfarmers.com.au/sustainability/fy2021) [FY2020](https://www.wesfarmers.com.au/sustainability/fy2020)
     
-    [FY2023](https://www.wesfarmers.com.au/sustainability/fy2023) [Sustainability](https://www.wesfarmers.com.au/sustainability)
+    [FY2024](https://www.wesfarmers.com.au/sustainability/fy2024) [Sustainability](https://www.wesfarmers.com.au/sustainability)
     
-    [Our Priorities](https://www.wesfarmers.com.au/sustainability/fy2023/our-priorities)
+    [Our Priorities](https://www.wesfarmers.com.au/sustainability/fy2024/our-priorities)
     
-    * [People development, diversity and inclusion](https://www.wesfarmers.com.au/sustainability/fy2023/our-priorities/people-development-diversity-and-inclusion)
-    * [Advancing reconciliation](https://www.wesfarmers.com.au/sustainability/fy2023/our-priorities/advancing-reconciliation)
-    * [Health, safety and wellbeing](https://www.wesfarmers.com.au/sustainability/fy2023/our-priorities/safety-health-and-wellbeing)
-    * [Ethical sourcing and human rights](https://www.wesfarmers.com.au/sustainability/fy2023/our-priorities/ethical-sourcing-and-human-rights)
-    * [Economic and community contributions](https://www.wesfarmers.com.au/sustainability/fy2023/our-priorities/economic-and-community-contributions)
-    * [**Read more**](https://www.wesfarmers.com.au/sustainability/fy2023/our-priorities)
+    * [People development, diversity and inclusion](https://www.wesfarmers.com.au/sustainability/fy2024/our-priorities/people-development-diversity-and-inclusion)
+    * [Advancing reconciliation](https://www.wesfarmers.com.au/sustainability/fy2024/our-priorities/advancing-reconciliation)
+    * [Employee health, safety and wellbeing](https://www.wesfarmers.com.au/sustainability/fy2024/our-priorities/safety-health-and-wellbeing)
+    * [Ethical sourcing and human rights](https://www.wesfarmers.com.au/sustainability/fy2024/our-priorities/ethical-sourcing-and-human-rights)
+    * [Economic and community contributions](https://www.wesfarmers.com.au/sustainability/fy2024/our-priorities/economic-and-community-contributions)
+    * [**Read more**](https://www.wesfarmers.com.au/sustainability/fy2024/our-priorities)
     
-    [Our Businesses](https://www.wesfarmers.com.au/sustainability/fy2023/our-businesses)
+    [Our Businesses](https://www.wesfarmers.com.au/sustainability/fy2024/our-businesses)
     
-    * [Bunnings](https://www.wesfarmers.com.au/sustainability/fy2023/our-businesses/bunnings)
-    * [Kmart Group](https://www.wesfarmers.com.au/sustainability/fy2023/our-businesses/kmart-group)
-    * [Wesfarmers Chemicals, Energy and Fertilisers](https://www.wesfarmers.com.au/sustainability/fy2023/our-businesses/wescef)
-    * [Officeworks](https://www.wesfarmers.com.au/sustainability/fy2023/our-businesses/officeworks)
-    * [Wesfarmers Industrial and Safety](https://www.wesfarmers.com.au/sustainability/fy2023/our-businesses/wesfarmers-industrial-and-safety) 
-    * [Wesfarmers OneDigital](https://www.wesfarmers.com.au/sustainability/fy2023/our-businesses/wesfarmers-onedigital)
-    * [Wesfarmers Health](https://www.wesfarmers.com.au/sustainability/fy2023/our-businesses/health)
+    * [Bunnings](https://www.wesfarmers.com.au/sustainability/fy2024/our-businesses/bunnings)
+    * [Kmart Group](https://www.wesfarmers.com.au/sustainability/fy2024/our-businesses/kmart-group)
+    * [Wesfarmers Chemicals, Energy and Fertilisers](https://www.wesfarmers.com.au/sustainability/fy2024/our-businesses/wescef)
+    * [Officeworks](https://www.wesfarmers.com.au/sustainability/fy2024/our-businesses/officeworks)
+    * [Wesfarmers Industrial and Safety](https://www.wesfarmers.com.au/sustainability/fy2024/our-businesses/wesfarmers-industrial-and-safety) 
+    * [Wesfarmers Health](https://www.wesfarmers.com.au/sustainability/fy2024/our-businesses/health)
+    * [Wesfarmers OneDigital](https://www.wesfarmers.com.au/sustainability/fy2024/our-businesses/wesfarmers-onedigital)
     
-    [Our Reporting](https://www.wesfarmers.com.au/sustainability/fy2023/our-reporting)
+    [Our Reporting](https://www.wesfarmers.com.au/sustainability/fy2024/our-reporting)
     
-    * [Our reporting](https://www.wesfarmers.com.au/sustainability/fy2023/our-reporting/our-reporting-menu) 
-    * [Stakeholder engagement](https://www.wesfarmers.com.au/sustainability/fy2023/our-reporting/stakeholder-engagement)
-    * [External participation](https://www.wesfarmers.com.au/sustainability/fy2023/our-reporting/external-participation)
-    * [Tax transparency](https://www.wesfarmers.com.au/sustainability/fy2023/our-reporting/tax-transparency)
-    * [Previous Sustainability Reports and Modern Slavery Statements](https://www.wesfarmers.com.au/sustainability/fy2023/our-reporting/previous-sustainability-reports-and-modern-slavery-statements)
-    * [**Read more**](https://www.wesfarmers.com.au/sustainability/fy2023/our-reporting)
+    * [Our reporting](https://www.wesfarmers.com.au/sustainability/fy2024/our-reporting/our-reporting-menu) 
+    * [Stakeholder engagement](https://www.wesfarmers.com.au/sustainability/fy2024/our-reporting/stakeholder-engagement)
+    * [External participation](https://www.wesfarmers.com.au/sustainability/fy2024/our-reporting/external-participation)
+    * [Tax transparency](https://www.wesfarmers.com.au/sustainability/fy2024/our-reporting/tax-transparency)
+    * [Previous Sustainability Reports and Modern Slavery Statements](https://www.wesfarmers.com.au/sustainability/fy2024/our-reporting/previous-sustainability-reports-and-modern-slavery-statements)
+    * [**Read more**](https://www.wesfarmers.com.au/sustainability/fy2024/our-reporting)
     
-    [Our Data](https://www.wesfarmers.com.au/sustainability/fy2023/our-data) 
+    [Our Data](https://www.wesfarmers.com.au/sustainability/fy2024/our-data) 
     
-    * [Data centre](https://www.wesfarmers.com.au/sustainability/fy2023/our-data/data-centre)
-    * [Sustainable Development Goals](https://www.wesfarmers.com.au/sustainability/fy2023/our-data/sustainable-development-goals)
-    * [United Nations Global Compact](https://www.wesfarmers.com.au/sustainability/fy2023/our-data/united-nations-global-compact)
-    * [GRI Content Index](https://www.wesfarmers.com.au/sustainability/fy2023/our-data/gri-content-index)
+    * [Data centre](https://www.wesfarmers.com.au/sustainability/fy2024/our-data/data-centre)
+    * [Sustainable Development Goals](https://www.wesfarmers.com.au/sustainability/fy2024/our-data/sustainable-development-goals)
+    * [United Nations Global Compact](https://www.wesfarmers.com.au/sustainability/fy2024/our-data/united-nations-global-compact)
+    * [GRI Content Index](https://www.wesfarmers.com.au/sustainability/fy2024/our-data/gri-content-index)
     
-    [Our Stories](https://www.wesfarmers.com.au/sustainability/fy2023/our-stories)
+    [Our Stories](https://www.wesfarmers.com.au/sustainability/fy2024/our-stories)
     
-    * [Our stories menu](https://www.wesfarmers.com.au/sustainability/fy2023/our-stories/our-stories-menu)
-    * [Chairman and Managing Director's 2023 sustainability message](https://www.wesfarmers.com.au/sustainability/fy2023/our-stories/chairman-and-managing-director's-2023-sustainability-message)
-    * [Bunnings Launches their Inaugural Indigenous Future Leaders Program](https://www.wesfarmers.com.au/sustainability/fy2023/our-stories/bunnings-launches-their-inaugural-indigenous-future-leaders-program) 
-    * [Wesfarmers ESG Data Transformation Project](https://www.wesfarmers.com.au/sustainability/fy2023/our-stories/wesfarmers-esg-data-transformation-project)
-    * [Bunnings supports mental health in the trade industry](https://www.wesfarmers.com.au/sustainability/fy2023/our-stories/bunnings-supports-mental-health-in-the-trade-industry)
-    * [Supporting Australian arts and culture at home and on the international stage](https://www.wesfarmers.com.au/sustainability/fy2023/our-stories/supporting-australian-arts-and-culture-at-home-and-on-the-international-stage)
-    * [**Read more**](https://www.wesfarmers.com.au/sustainability/fy2023/our-stories)
+    * [Our stories menu](https://www.wesfarmers.com.au/sustainability/fy2024/our-stories/our-stories-menu)
+    * [Bunnings partners with Circular Head Aboriginal Corporation to launch an exclusive indoor plant spray](https://www.wesfarmers.com.au/sustainability/fy2024/our-stories/bunnings-partners-with-circular-head-aboriginal-corporation-to-launch-an-exclusive-indoor-plant-spray)
+    * [10 years of supporting the fight against Motor Neurone Disease](https://www.wesfarmers.com.au/sustainability/fy2024/our-stories/10-years-of-supporting-the-fight-against-motor-neurone-disease)
+    * [First Nations arts and culture commission](https://www.wesfarmers.com.au/sustainability/fy2024/our-stories/first-nations-arts-and-culture-commission)
+    * [Bunnings supports a circular textile economy through design and stewardship](https://www.wesfarmers.com.au/sustainability/fy2024/our-stories/bunnings-supports-a-circular-textile-economy-through-design-and-stewardship)
+    * [Bunnings progresses towards sourcing 100 per cent renewable electricity](https://www.wesfarmers.com.au/sustainability/fy2024/our-stories/bunnings-progresses-towards-sourcing-100-per-cent-renewable-electricity) 
+    * [**Read more**](https://www.wesfarmers.com.au/sustainability/fy2024/our-stories)
     
 
 * [News & media](https://www.wesfarmers.com.au/util/news-media)
@@ -198,17 +197,17 @@ Terms of use
 
 ![](https://px.ads.linkedin.com/collect/?pid=4027457&fmt=gif)
 
-[$73.72
+[$68.97
 
-ASX: +0.10%](https://www.wesfarmers.com.au/investor-centre/your-shareholding/share-price "Investor Centre")
+ASX: \-0.13%](https://www.wesfarmers.com.au/investor-centre/your-shareholding/share-price "Investor Centre")
 
 * [Investor Centre](https://www.wesfarmers.com.au/investor-centre)
-* [Annual Report](https://www.wesfarmers.com.au/docs/default-source/reports/2023-wesfarmers-annual-report---interactive.pdf?sfvrsn=a048e0bb_3)
-* [Sustainability](https://www.wesfarmers.com.au/sustainability/fy2023)
-* [Modern Slavery Statement](https://www.wesfarmers.com.au/sustainability/fy2023/our-priorities/ethical-sourcing-and-human-rights/modern-slavery-statement)
+* [Annual Report](https://www.wesfarmers.com.au/docs/default-source/reports/2024-wesfarmers-annual-report---interactive.pdf?sfvrsn=1bc5e4bb_3)
+* [Sustainability](https://www.wesfarmers.com.au/sustainability/fy2024)
+* [Modern Slavery Statement](https://www.wesfarmers.com.au/sustainability/fy2024/our-priorities/ethical-sourcing-and-human-rights/modern-slavery-statement)
 * [Code of Conduct](https://www.wesfarmers.com.au/docs/default-source/default-document-library/wesfamers-code-of-conduct.pdf?sfvrsn=181f0ebb_6)
 
-&amp;amp;amp;amp;lt;img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=4027457&amp;amp;amp;amp;amp;fmt=gif" / data-sf-ec-immutable=""&amp;amp;amp;amp;gt;
+&amp;amp;amp;amp;amp;amp;amp;amp;lt;img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=4027457&amp;amp;amp;amp;amp;amp;amp;amp;amp;fmt=gif" / data-sf-ec-immutable=""&amp;amp;amp;amp;amp;amp;amp;amp;gt;
 
 * [Visit our Twitter page](https://twitter.com/wesfarmers "Visit our Twitter page")
 * [Visit our Vimeo Channel](https://vimeo.com/wesfarmers "Visit our Vimeo Channel")
