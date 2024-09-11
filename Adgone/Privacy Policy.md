@@ -11,6 +11,4 @@ Cancel Anyway ADD TO BROWSER
 
 © 2024 - AdGone
 
-[Terms of Service](https://adgone.org/adblocker/eula) | [Privacy Policy](https://adgone.org/adblocker/privacy) | [Cookie Policy](https://adgone.org/adblocker/cookiepolicy) | [Do Not Sell or Share My Personal Information](https://app.termly.io/notify/b416d92b-8035-4ad5-a7c6-f4464ec80008) | [Refund Policy](https://adgone.org/adblocker/refundpolicy) | [FAQ](https://help.adgone.org/hc/en-us?utm_source=Help%20Center&utm_medium=-lp0-tst0--vc1&utm_campaign=&utm_term=&utm_content=&utm_id=30ead994-07cf-43b6-bf2d-ba8d8a195ac8) | [Support](https://adgone.org/adblocker/contact)
-
-We use cookies to improve your experience. To learn more, click [here](https://adgone.org/adblocker/cookiepolicy?source=-lp0-tst0--vc1). By continuing to use our site, you accept our use of cookies and revised [Privacy Policy](https://adgone.org/adblocker/privacy?source=-lp0-tst0--vc1).OK
+[Terms of Service](https://adgone.org/adblocker/eula) | [Privacy Policy](https://adgone.org/adblocker/privacy) | [Cookie Policy](https://adgone.org/adblocker/cookiepolicy) | [Do Not Sell or Share My Personal Information](https://app.termly.io/notify/b416d92b-8035-4ad5-a7c6-f4464ec80008) | [Refund Policy](https://adgone.org/adblocker/refundpolicy) | [FAQ](https://help.adgone.org/hc/en-us?utm_source=Help%20Center&utm_medium=-lp0-tst1--vc1&utm_campaign=&utm_term=&utm_content=&utm_id=8d676f26-2987-42e6-a8c9-cf5cb30adce3) | [Support](https://adgone.org/adblocker/contact)
