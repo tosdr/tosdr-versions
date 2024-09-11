@@ -97,13 +97,13 @@ Legal
 Trending Tech Topics
 --------------------
 
-* [OpenAI’s Voice Mode](https://techcrunch.com/2024/07/30/openai-releases-chatgpts-super-realistic-voice-feature/)
-* [Flo Health](https://techcrunch.com/2024/07/30/fertility-tracking-app-flo-health-raises-200m-at-a-1b-valuation/)
-* [Perplexity AI](https://techcrunch.com/2024/07/30/perplexitys-plan-to-share-ad-revenue-with-outlets-cited-by-its-ai-chatbot/)
-* [MatPat](https://techcrunch.com/2024/07/28/matpat-the-first-big-youtuber-to-successfully-exit-his-company-is-lobbying-for-creators-on-capitol-hill/)
-* [HealthEquity Data Breach](https://techcrunch.com/2024/07/30/healthequity-data-breach-affects-4-3-million-people/)
-* [Tech Layoffs](https://techcrunch.com/2024/07/31/tech-layoffs-2024-list/)
-* [ChatGPT](https://techcrunch.com/2024/07/31/chatgpt-everything-to-know-about-the-ai-chatbot/)
+* [Apple iPhone 16 Event](https://techcrunch.com/2024/09/09/iphone-16-apple-intelligence-and-more-everything-revealed-at-apple-event-2024/)
+* [iPhone 16](https://techcrunch.com/2024/09/09/apple-iphone-16-announced/)
+* [AirPods 4](https://techcrunch.com/2024/09/09/apple-debuts-redesigned-airpods-4-with-active-noise-canceling-option/)
+* [Siri](https://techcrunch.com/2024/09/09/finally-a-better-siri/)
+* [WhatsApp](https://techcrunch.com/2024/09/09/bug-lets-anyone-bypass-whatsapps-view-once-privacy-feature/)
+* [Tech Layoffs](https://techcrunch.com/2024/09/05/tech-layoffs-2024-list/)
+* [ChatGPT](https://techcrunch.com/2024/09/06/chatgpt-everything-to-know-about-the-ai-chatbot/)
 
 * [Facebook](https://www.facebook.com/techcrunch)
 * [X](https://twitter.com/techcrunch)
