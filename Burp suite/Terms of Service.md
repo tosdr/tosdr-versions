@@ -1,4 +1,4 @@
-[**Unlock enhanced API scanning with Burp Suite Enterprise Edition**  –  Learn more](https://portswigger.net/blog/unlock-enhanced-api-scanning-with-burp-suite)
+[**Burp Suite Enterprise Edition is now available in our secure Cloud**  –  Learn more](https://portswigger.net/blog/introducing-dast-scanning-in-the-cloud-with-burp-suite-enterprise-edition)
 
 [](https://portswigger.net/)
 
