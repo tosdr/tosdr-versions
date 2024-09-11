@@ -99,13 +99,13 @@
 * [![Support Independent Tech Journalism, Become A Patron!](/content/images/patreon-btn.svg)](https://www.patreon.com/HotHardware?fan_landing=true)
 
 * TRENDING:
+* [Core Ultra 200V](https://hothardware.com/news/lunar-lake-launch-ifa-berlin)
+* [Snapdragon X Plus 8 Core](https://hothardware.com/news/snapdragon-8core-hands-on)
 * [AMD Ryzen AI 300](https://hothardware.com/reviews/asus-zenbook-s16-with-amd-ryzen-ai-review)
-* [AMD Strix Point](https://hothardware.com/news/amd-ryzen-ai-300-series-announce-computex)
-* [Samsung Galaxy Book4 Edge](https://hothardware.com/reviews/samsung-galaxy-book4-edge-review)
+* [ASUS ROG Ally X](https://hothardware.com/reviews/asus-rog-ally-x-review)
+* [Google Pixel 9](https://hothardware.com/news/google-unveils-pixel-9-pixel-watch-3-pixel-buds-2-pro)
+* [Ryzen 9000](https://hothardware.com/reviews/amd-ryzen-9-9950x-and-9900x-review)
 * [Lunar Lake](https://hothardware.com/reviews/intel-lunar-lake-deep-dive)
-* [Intel Sierra Forest](https://hothardware.com/reviews/intel-xeon-6-preview)
-* [Ryzen 9000](https://hothardware.com/news/amd-ryzen-9000-desktop-am5-announce)
-* [Snapdragon X Series](https://hothardware.com/news/snapdragon-x-elite-and-plus-ai-pcs-from-major-oems-to-drive-microsoft-copilot-experiences)
 
 Privacy, Terms, Conditions And Copyright
 ========================================
