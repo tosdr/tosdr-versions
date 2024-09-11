@@ -1,4 +1,4 @@
-Datenschutz
+![SZ Logo weiß für Header](//images.ctfassets.net/jopovb6lh5n2/QQ61G1GXbKM3p2s1s3Ows/724400c68b7c7910de0cffd852eb91ad/sz-logo.svg) Datenschutz
 
 ![Süddeutsche Zeitung](//images.ctfassets.net/jopovb6lh5n2/3NCn5PQCoUAi4weEm2cKAa/f2f21cd62ba10b71ab8fbdb524ab8d0f/sz.svg)
 
@@ -16,13 +16,13 @@ Datenschutz
 Datenschutzhinweise
 ===================
 
-02.07.2024
+21.08.2024
 
 Wenn Sie ein Angebot der Süddeutschen Zeitung als SZ Plus-Abonnent:in nutzen, verarbeitet die Süddeutsche Zeitung GmbH Ihre personenbezogenen Daten. Mit diesen Datenschutzhinweisen informieren wir Sie, wie und warum wir Ihre Daten verarbeiten und wie wir gewährleisten, dass sie vertraulich bleiben und geschützt sind. Wenn Sie Abonnent:in der gedruckten SZ sind, finden Sie die entsprechenden Datenschutzhinweise der dann einschlägigen Datenverarbeitungen unter den Punkten [Vertragsabwicklung](#Bestellen), [Kommunikation](#Kommunikation) und [Werbung für unsere Produkte](#Direktwerbung)
 
 Wenn Sie SZ.de nutzen, indem Sie nach dem Aufrufen der Webseite einen Vertrag mit Werbung abschließen bzw. abgeschlossen haben, finden Sie die in diesem Fall geltenden Datenschutzhinweise [hier](https://www.swmh-datenschutz.de/sz_vertragmitwerbung).
 
-[als PDF speichern](https://datenschutz.sueddeutsche.de/sz/9.19/sz.pdf)
+[als PDF speichern](https://datenschutz.sueddeutsche.de/sz/9.20/sz.pdf)
 
 Die wichtigsten Themen auf einen Blick
 
@@ -1057,6 +1057,9 @@ Für die beiden folgenden speziellen Verarbeitungszwecke hat der Nutzer keine Wa
 * **Bereitstellung und Anzeige von Werbung und Inhalten:** Bestimmte Informationen (wie IP-Adresse oder Endgerätefunktionen) werden verwendet, um die technische Kompatibilität des Inhalts oder der Werbung zu gewährleisten und die Übertragung des Inhalts oder der Werbung auf Ihr Endgerät zu ermöglichen.  
     Beispiel  
     Wenn Sie auf einen Link in einem Artikel klicken, werden Sie normalerweise zu einer anderen Seite oder einem anderen Teil des Artikels weitergeleitet. Zu diesem Zweck 1°) sendet Ihr Browser eine Anfrage an einen Server, der mit der Webseite verknüpft ist, 2°) antwortet der Server auf die Anfrage („hier ist der von Ihnen angeforderte Artikel“) mithilfe von technischen Informationen, die in der von Ihrem Endgerät gesendeten Anfrage standardmäßig enthalten sind, um die Informationen/Bilder, die Teil des von Ihnen angeforderten Artikels sind, ordnungsgemäß anzuzeigen. Technisch gesehen ist ein solcher Informationsaustausch notwendig, um die Inhalte bereitzustellen, die auf Ihrem Bildschirm angezeigt werden.
+* **Ihre Entscheidungen zum Datenschutz speichern und übermitteln:** Die von Ihnen in Bezug auf die in diesem Hinweis aufgeführten Zwecke und Unternehmen getroffenen Entscheidungen werden gespeichert und den betreffenden Unternehmen in Form digitaler Signale (z. B. einer Zeichenfolge) zur Verfügung gestellt. Nur so können sowohl dieser Dienst als auch die betreffenden Unternehmen die jeweiligen Entscheidungen respektieren.  
+    Beispiel:  
+    Wenn Sie eine Website besuchen und vor die Wahl gestellt werden, ob Sie in die Verwendung von Profilen für personalisierte Werbung einwilligen oder nicht, wird die von Ihnen getroffene Entscheidung gespeichert und an die betreffenden Werbeanbieter übermittelt, damit Ihre Entscheidung im Rahmen der Ihnen präsentierten Werbung berücksichtigt wird.
 
 **Funktionen**
 
