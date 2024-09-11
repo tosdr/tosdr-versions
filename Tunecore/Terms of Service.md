@@ -7,7 +7,7 @@
 Terms and Conditions
 ====================
 
-Terms of ServiceTerms of ServicePrivacy PolicyCookie PolicyMusic DistributionSocial PlatformsFacebook MonetizationRefer A FriendYouTube Sound Recording RevenueStore AutomatorCopyright PolicyPublishing AdministrationSync LicensingTunecore SocialAI Front Row Seats
+Terms of ServiceTerms of ServicePrivacy PolicyCookie PolicyMusic DistributionSocial PlatformsFacebook MonetizationRefer A FriendYouTube Sound Recording RevenueStore AutomatorCopyright PolicyPublishing AdministrationSync LicensingTunecore SocialTuneCore AI Technologies Terms and Conditions
 
 **These Terms and Conditions were last revised and are effective as of April 1st, 2021**
 
