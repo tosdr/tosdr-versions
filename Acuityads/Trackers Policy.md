@@ -1,25 +1,27 @@
+WEBINAR July 23 - Political Advertising With L2's Paul Westcott
+
+[Register](https://illumin.com/insights/podcasts-webinars/webinar-high-interest-low-turnout-20-billion-ad-spend-year/)
+
 [![logo](https://illumin.com/wp-content/themes/illumin/images/logo.svg)](https://illumin.com/)
 
 * [Product](#)
     * [Technology](#)
         * [Journey Canvas](https://illumin.com/product/journey-canvas/)
+        * [Channels](https://illumin.com/product/channels/)
         * [Audience Engagement Map](https://illumin.com/product/audience-engagement-map/)
         * [Pathlight Analysis](https://illumin.com/product/pathlight-analysis/)
-        * [Channels](https://illumin.com/product/channels/)
-        * [How to Work With illumin](https://illumin.com/product/service-levels/)
     * [By use case](#)
         * [illumin for Agencies](https://illumin.com/illumin-for-agencies/)
         * [illumin for Brands](https://illumin.com/illumin-for-brands/)
         * [illumin for Political](https://illumin.com/illumin-for-political/)
         * [illumin for Health](https://illumin.com/illumin-for-health/)
-        * [illumin for Social](https://illumin.com/product/case-study-mnco-open-web-to-social/)
-    * ![Illumin The Inside Scoop](https://illumin.com/wp-content/uploads/2024/08/illumin_InsideScoop-Blog-2-1.jpg)
+    * ![menu-image@2x](https://illumin.com/wp-content/uploads/2023/04/menu-image@2x.png)
         
-        Webinar
+        Journey Canvas
         
-        Uncover retail advertising trends for 2024 in our September 10 webinar with Rockerbox!
+        Market like a marketer with the illumin connected journey canvas.
         
-        [Register](https://illumin.com/insights/podcasts-webinars/inside-scoop-state-of-holiday-digital-spend/)
+        [Learn More](https://illumin.com/product/journey-canvas/)
         
 * [Insights](https://illumin.com/insights/)
     * [Insights](#)
@@ -27,9 +29,9 @@
         * [Guides](https://illumin.com/insights/guides/)
         * [Events](https://illumin.com/insights/events/)
         * [Podcasts & Webinars](https://illumin.com/insights/podcasts-webinars/)
-    * ![Is AI regulated? Yes! Here’s what marketers need to know](https://illumin.com/wp-content/uploads/2024/09/AI-regulations-1-263x300.jpg)
+    * ![A closer look at modern digital political advertising](https://illumin.com/wp-content/uploads/2024/06/Political-advertising-263x300.png)
         
-        Is AI regulated? Yes! Here’s what marketers need to know[Read More](https://illumin.com/insights/blog/is-ai-regulated-yes-what-need-to-know/)
+        A closer look at modern digital political advertising[Read More](https://illumin.com/insights/blog/modern-digital-political-advertising/)
         
 * [Company](#)
     * [Company](#)
@@ -42,18 +44,18 @@
         
         Build a career building the future of advertising.
         
-        [See open roles](https://illumin.com/careers/)
+        [See open roles](https://go.illumin.com/careers-at-illumin)
         
 * [Investors](#)
     * [Investor Information](#)
         * [Investor Information](https://illumin.com/investor-information/)
         * [Stock Performance](https://illumin.com/stock-performance/)
         * [News & Press](https://illumin.com/news-press/)
-    * ![illumin Reports Second Quarter 2024 Financial Results](https://illumin.com/wp-content/uploads/2023/07/Whats-new-with-illumin-263x300.jpg)
+    * ![illumin Announces Voting Results of Annual Meeting of Shareholders](https://illumin.com/wp-content/uploads/2023/07/Whats-new-with-illumin-263x300.jpg)
         
-        illumin Reports Second Quarter 2024 Financial Results[Read More](https://illumin.com/news-press/illumin-reports-second-quarter-2024-financial-results/)
+        illumin Announces Voting Results of Annual Meeting of Shareholders[Read More](https://illumin.com/news-press/illumin-announces-voting-results-of-annual-meeting-of-shareholders/)
         
-* [Request a demo](https://illumin.com/product/request-a-demo/)
+* [Request a Demo](https://illumin.com/product/request-a-demo/)
 
 [Sign In](https://illumin.acuityads.com/) [Sign In](https://illumin.acuityads.com/)
 
@@ -141,6 +143,6 @@ A platform that provides the perfect space for journey planning, execution, and 
 * [Privacy Policy](https://illumin.com/legal/privacy/)
 * [Opt Out/Do Not Sell or Share My Info](https://illumin.com/opt-out.html)
 
-![](https://www.facebook.com/tr?id=791746128738564&ev=ViewContent&noscript=1&cd%5Bpage_title%5D=Cookie+Policy&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=1648&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=illumin.com%2Flegal%2Fprivacy%2Fcookie%2F)
-
 ![](https://www.facebook.com/tr?id=791746128738564&ev=PageView&noscript=1&cd%5Bpage_title%5D=Cookie+Policy&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=1648&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=illumin.com%2Flegal%2Fprivacy%2Fcookie%2F)
+
+![](https://www.facebook.com/tr?id=791746128738564&ev=ViewContent&noscript=1&cd%5Bpage_title%5D=Cookie+Policy&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=1648&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=illumin.com%2Flegal%2Fprivacy%2Fcookie%2F)
