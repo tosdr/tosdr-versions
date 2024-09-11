@@ -468,7 +468,7 @@ If you are a child under 16 in Europe, you may access the Service only to the ex
 
 Brands
 
-* [Dungeons & Dragons](https://dnd.wizards.com/)
+* [Dungeons & Dragons](https://www.dndbeyond.com/)
 * [Duel Masters](https://dm.takaratomy.co.jp/)
 * [Magic: The Gathering](https://magic.wizards.com/en)
 
