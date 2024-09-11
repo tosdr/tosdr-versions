@@ -20,7 +20,7 @@ privacy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[August 01, 2024](https://www.japantimes.co.jp/archive/2024/08/01/ "archive page")
+[September 11, 2024](https://www.japantimes.co.jp/archive/2024/09/11/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -30,11 +30,11 @@ Subscribe
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-* [BOJ](https://www.japantimes.co.jp/tag/boj/ "BOJ")
-* [Extreme heat](https://www.japantimes.co.jp/tag/heat-waves/ "Extreme heat")
-* [Paris Olympics](https://www.japantimes.co.jp/tag/2024-paris-olympics// "Paris Olympics")
+* [Shohei Ohtani](https://www.japantimes.co.jp/tag/shohei-ohtani/ "Shohei Ohtani")
+* [LDP RACE](https://www.japantimes.co.jp/tag/ldp/ "LDP RACE")
+* [Special series: Boiling Point](https://www.japantimes.co.jp/boiling-point/ "Special series: Boiling Point")
 * [Latest News](https://www.japantimes.co.jp/latest-news/ "Latest News")
-* [Deep Dive Podcast](https://www.japantimes.co.jp/podcast/deep-dive/ "Deep Dive Podcast")
+* [Deep Dive](https://www.japantimes.co.jp/about-us/privacy/podcast/deep-dive/ "Deep Dive")
 
 [Today's print edition](https://epaper.japantimes.co.jp/ "Today's Print Edition")
 
@@ -463,68 +463,68 @@ Revised June 1, 2022
 
 * Editors' Picks
 
-[What’s in a handshake? In Olympic judo, quite a lot](https://www.japantimes.co.jp/olympics/2024/07/30/judo-controversy-nagayama/ "What’s in a handshake? In Olympic judo, quite a lot")
+[Small Hokkaido town ranked most comfortable place to live in Japan](https://www.japantimes.co.jp/news/2024/09/09/japan/society/comfortable-city-survey/ "Small Hokkaido town ranked most comfortable place to live in Japan")
 
-  [![Japan's Ryuju Nagayama (right) refuses to shake hands with Spain's Francisco Garrigos after a controversial decision in their under-60 kg quarterfinal bout at the Paris Olympics on Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/30/412436.jpg&w=400&q=100&f=jpg&t=1.2 "Japan's Ryuju Nagayama (right) refuses to shake hands with Spain's Francisco Garrigos after a controversial decision in their under-60 kg quarterfinal bout at the Paris Olympics on Saturday.")](https://www.japantimes.co.jp/olympics/2024/07/30/judo-controversy-nagayama/ "What’s in a handshake? In Olympic judo, quite a lot")
+  [![Asahidake in Daisetsuzan is located in the town of Higashikawa, Hokkaido, which ranked as the most comfortable municipality in 2024.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/09/420427.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Asahidake in Daisetsuzan is located in the town of Higashikawa, Hokkaido, which ranked as the most comfortable municipality in 2024.")](https://www.japantimes.co.jp/news/2024/09/09/japan/society/comfortable-city-survey/ "Small Hokkaido town ranked most comfortable place to live in Japan")
 
-[Grilled eel leaves one dead and 140 sick in Japan](https://www.japantimes.co.jp/news/2024/07/30/japan/japan-eel-poisoning-death/ "Grilled eel leaves one dead and 140 sick in Japan")
+[Nippon Ishin calls on Hyogo governor to resign over bullying claims](https://www.japantimes.co.jp/news/2024/09/09/japan/politics/nippon-ishin-hyogo-saito/ "Nippon Ishin calls on Hyogo governor to resign over bullying claims")
 
-  [![President Shinji Kaneko (left) and other executives of Keikyu Department Store bow in apology during a news conference in Yokohama on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/30/412440.jpg&w=400&q=100&f=jpg&t=1.2 "President Shinji Kaneko (left) and other executives of Keikyu Department Store bow in apology during a news conference in Yokohama on Monday.")](https://www.japantimes.co.jp/news/2024/07/30/japan/japan-eel-poisoning-death/ "Grilled eel leaves one dead and 140 sick in Japan")
+  [![Hyogo Gov. Motohiko Saito, accused of workplace bullying, testifies to an investigative panel in Kobe on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/09/420473.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Hyogo Gov. Motohiko Saito, accused of workplace bullying, testifies to an investigative panel in Kobe on Friday.")](https://www.japantimes.co.jp/news/2024/09/09/japan/politics/nippon-ishin-hyogo-saito/ "Nippon Ishin calls on Hyogo governor to resign over bullying claims")
 
-[Bank of Japan delivers one-two punch few were expecting](https://www.japantimes.co.jp/business/2024/07/31/economy/boj-rates/ "Bank of Japan delivers one-two punch few were expecting")
+[Updated Meiji Jingu Gaien redevelopment plan to keep more trees](https://www.japantimes.co.jp/news/2024/09/09/japan/society/jingu-gaien-redevelopment-plan-changes/ "Updated Meiji Jingu Gaien redevelopment plan to keep more trees")
 
-  [![Bank of Japan Gov. Kazuo Ueda speaks during a news conference at the central bank's headquarters in Tokyo on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/31/412752.jpg&w=400&q=100&f=jpg&t=1.2 "Bank of Japan Gov. Kazuo Ueda speaks during a news conference at the central bank's headquarters in Tokyo on Wednesday.")](https://www.japantimes.co.jp/business/2024/07/31/economy/boj-rates/ "Bank of Japan delivers one-two punch few were expecting")
+  [![Redevelopment of the Meiji Jingu Gaien district has trees in the area marked according to their status — trees marked in red were to be cut down in the original plan while those in blue were to be transplanted. In the updated plan, trees marked in red will no longer be felled, and those in blue will remain where they are. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/09/420536.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Redevelopment of the Meiji Jingu Gaien district has trees in the area marked according to their status — trees marked in red were to be cut down in the original plan while those in blue were to be transplanted. In the updated plan, trees marked in red will no longer be felled, and those in blue will remain where they are. ")](https://www.japantimes.co.jp/news/2024/09/09/japan/society/jingu-gaien-redevelopment-plan-changes/ "Updated Meiji Jingu Gaien redevelopment plan to keep more trees")
 
-[When did summer in Japan stop being fun?](https://www.japantimes.co.jp/community/2024/07/27/voices/summer-not-fun-tokyo-japan/ "When did summer in Japan stop being fun?")
+[Djokovic shut out as young guns usher in new Grand Slam era](https://www.japantimes.co.jp/sports/2024/09/10/tennis/djokovic-new-era/ "Djokovic shut out as young guns usher in new Grand Slam era")
 
-  [![Summer in Japan is now consistently brutal enough to drive you indoors and keep you there until autumn.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/25/411244.jpg&w=400&q=100&f=jpg&t=1.2 "Summer in Japan is now consistently brutal enough to drive you indoors and keep you there until autumn.")](https://www.japantimes.co.jp/community/2024/07/27/voices/summer-not-fun-tokyo-japan/ "When did summer in Japan stop being fun?")
+  [![Novak Djokovic reacts during his third-round match against Alexei Popyrin during the U.S. Open in New York on Aug. 30.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/10/420714.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Novak Djokovic reacts during his third-round match against Alexei Popyrin during the U.S. Open in New York on Aug. 30.")](https://www.japantimes.co.jp/sports/2024/09/10/tennis/djokovic-new-era/ "Djokovic shut out as young guns usher in new Grand Slam era")
 
-[How Japan's gymnasts picked each other up and toppled China](https://www.japantimes.co.jp/olympics/2024/07/31/japan-gymnastics-team-effort/ "How Japan's gymnasts picked each other up and toppled China")
+[Japan’s Rapidus seeks another ¥100 billion in chipmaking push](https://www.japantimes.co.jp/business/2024/09/10/companies/rapidus-more-investment/ "Japan’s Rapidus seeks another ¥100 billion in chipmaking push")
 
-  [![Teammates swarm Daiki Hashimoto after his gold medal-clinching performance on the horizontal bar on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/31/412617.JPG&w=400&q=100&f=jpg&t=1.2 "Teammates swarm Daiki Hashimoto after his gold medal-clinching performance on the horizontal bar on Monday.")](https://www.japantimes.co.jp/olympics/2024/07/31/japan-gymnastics-team-effort/ "How Japan's gymnasts picked each other up and toppled China")
+  [![Rapidus' semiconductor foundry construction site in Chitose, Hokkaido](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/10/420687.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Rapidus' semiconductor foundry construction site in Chitose, Hokkaido")](https://www.japantimes.co.jp/business/2024/09/10/companies/rapidus-more-investment/ "Japan’s Rapidus seeks another ¥100 billion in chipmaking push")
 
-[Koshien at 100: 'Sacred' dirt, the Hanshin Tigers and a storied high school tourney](https://www.japantimes.co.jp/sports/2024/07/31/baseball/japanese-baseball/koshien-100-years-anniversary/ "Koshien at 100: 'Sacred' dirt, the Hanshin Tigers and a storied high school tourney")
+[Unpacking Japan’s messy leadership election](https://www.japantimes.co.jp/commentary/2024/09/08/japan/ldp-presidential-election-longform/ "Unpacking Japan’s messy leadership election")
 
-  [![The front facade at Koshien Stadium in Nishinomiya, Hyogo Prefecture. The stadium, widely regarded as the spiritual home of Japanese baseball, turns 100 on Thursday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/31/412664.jpg&w=400&q=100&f=jpg&t=1.2 "The front facade at Koshien Stadium in Nishinomiya, Hyogo Prefecture. The stadium, widely regarded as the spiritual home of Japanese baseball, turns 100 on Thursday. ")](https://www.japantimes.co.jp/sports/2024/07/31/baseball/japanese-baseball/koshien-100-years-anniversary/ "Koshien at 100: 'Sacred' dirt, the Hanshin Tigers and a storied high school tourney")
+  [![The Liberal Democratic Party's presidential race is expected to have a record number of candidates.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/09/420103.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The Liberal Democratic Party's presidential race is expected to have a record number of candidates.")](https://www.japantimes.co.jp/commentary/2024/09/08/japan/ldp-presidential-election-longform/ "Unpacking Japan’s messy leadership election")
 
-[How Japan's gymnasts picked each other up and toppled China](https://www.japantimes.co.jp/olympics/2024/07/31/japan-gymnastics-team-effort/ "How Japan's gymnasts picked each other up and toppled China")
+[iPhone 16 to land in Japan without Apple Intelligence](https://www.japantimes.co.jp/business/2024/09/10/companies/iphone-16-apple-intelligence-japan/ "iPhone 16 to land in Japan without Apple Intelligence ") 
 
-  [![Teammates swarm Daiki Hashimoto after his gold medal-clinching performance on the horizontal bar on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/31/412617.JPG&w=400&q=100&f=jpg&t=1.2 "Teammates swarm Daiki Hashimoto after his gold medal-clinching performance on the horizontal bar on Monday.")](https://www.japantimes.co.jp/olympics/2024/07/31/japan-gymnastics-team-effort/ "How Japan's gymnasts picked each other up and toppled China")
+  [![Apple CEO Tim Cook unveils the iPhone 16 at the Steve Jobs Theater on the company's campus in Cupertino, California, on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/10/420815.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Apple CEO Tim Cook unveils the iPhone 16 at the Steve Jobs Theater on the company's campus in Cupertino, California, on Monday.")](https://www.japantimes.co.jp/business/2024/09/10/companies/iphone-16-apple-intelligence-japan/ "iPhone 16 to land in Japan without Apple Intelligence ")
 
-[A President Harris might be decidedly Trumpy in approach to Asia trade](https://www.japantimes.co.jp/business/2024/07/30/economy/harris-biden-asia/ "A President Harris might be decidedly Trumpy in approach to Asia trade")
+[Small Hokkaido town ranked most comfortable place to live in Japan](https://www.japantimes.co.jp/news/2024/09/09/japan/society/comfortable-city-survey/ "Small Hokkaido town ranked most comfortable place to live in Japan")
 
-  [![U.S. Vice President Kamala Harris might maintain some of the economic policies of former President Donald Trump.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/30/412494.JPG&w=400&q=100&f=jpg&t=1.2 "U.S. Vice President Kamala Harris might maintain some of the economic policies of former President Donald Trump.")](https://www.japantimes.co.jp/business/2024/07/30/economy/harris-biden-asia/ "A President Harris might be decidedly Trumpy in approach to Asia trade")
+  [![Asahidake in Daisetsuzan is located in the town of Higashikawa, Hokkaido, which ranked as the most comfortable municipality in 2024.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/09/420427.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Asahidake in Daisetsuzan is located in the town of Higashikawa, Hokkaido, which ranked as the most comfortable municipality in 2024.")](https://www.japantimes.co.jp/news/2024/09/09/japan/society/comfortable-city-survey/ "Small Hokkaido town ranked most comfortable place to live in Japan")
 
-[What’s in a handshake? In Olympic judo, quite a lot](https://www.japantimes.co.jp/olympics/2024/07/30/judo-controversy-nagayama/ "What’s in a handshake? In Olympic judo, quite a lot")
+[Updated Meiji Jingu Gaien redevelopment plan to keep more trees](https://www.japantimes.co.jp/news/2024/09/09/japan/society/jingu-gaien-redevelopment-plan-changes/ "Updated Meiji Jingu Gaien redevelopment plan to keep more trees")
 
-  [![Japan's Ryuju Nagayama (right) refuses to shake hands with Spain's Francisco Garrigos after a controversial decision in their under-60 kg quarterfinal bout at the Paris Olympics on Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/30/412436.jpg&w=400&q=100&f=jpg&t=1.2 "Japan's Ryuju Nagayama (right) refuses to shake hands with Spain's Francisco Garrigos after a controversial decision in their under-60 kg quarterfinal bout at the Paris Olympics on Saturday.")](https://www.japantimes.co.jp/olympics/2024/07/30/judo-controversy-nagayama/ "What’s in a handshake? In Olympic judo, quite a lot")
+  [![Redevelopment of the Meiji Jingu Gaien district has trees in the area marked according to their status — trees marked in red were to be cut down in the original plan while those in blue were to be transplanted. In the updated plan, trees marked in red will no longer be felled, and those in blue will remain where they are. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/09/420536.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Redevelopment of the Meiji Jingu Gaien district has trees in the area marked according to their status — trees marked in red were to be cut down in the original plan while those in blue were to be transplanted. In the updated plan, trees marked in red will no longer be felled, and those in blue will remain where they are. ")](https://www.japantimes.co.jp/news/2024/09/09/japan/society/jingu-gaien-redevelopment-plan-changes/ "Updated Meiji Jingu Gaien redevelopment plan to keep more trees")
 
-[For aging Japan, a troubling link between heat and dementia](https://www.japantimes.co.jp/news/2024/07/29/japan/science-health/extreme-heat-dementia-japan/ "For aging Japan, a troubling link between heat and dementia")
+[U.K. envoy to Japan pushes back on Indo-Pacific disengagement concerns](https://www.japantimes.co.jp/news/2024/09/09/japan/politics/uk-japan-ambassador-longbottom-interview/ "U.K. envoy to Japan pushes back on Indo-Pacific disengagement concerns")
 
-  [![The latest research indicates that heat stress is likely to worsen the condition of people with Alzheimer’s disease — which accounts for over half of all dementia cases in Japan — by making them more irritated or exacerbating their cognitive decline.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/28/411571.jpg&w=400&q=100&f=jpg&t=1.2 "The latest research indicates that heat stress is likely to worsen the condition of people with Alzheimer’s disease — which accounts for over half of all dementia cases in Japan — by making them more irritated or exacerbating their cognitive decline.")](https://www.japantimes.co.jp/news/2024/07/29/japan/science-health/extreme-heat-dementia-japan/ "For aging Japan, a troubling link between heat and dementia")
+  [![U.K. Ambassador to Japan Julia Longbottom says the Indo-Pacific region offers a unique opportunity to not only tackle shared security concerns but also to generate new sources of economic growth.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/09/420383.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "U.K. Ambassador to Japan Julia Longbottom says the Indo-Pacific region offers a unique opportunity to not only tackle shared security concerns but also to generate new sources of economic growth.")](https://www.japantimes.co.jp/news/2024/09/09/japan/politics/uk-japan-ambassador-longbottom-interview/ "U.K. envoy to Japan pushes back on Indo-Pacific disengagement concerns")
 
 Podcast
 -------
 
-  [![One of the many entrances to the Kabukicho neighborhood in Tokyo’s Shinjuku Ward.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/22/410707.jpg&w=400&q=100&f=jpg&t=1.2 "One of the many entrances to the Kabukicho neighborhood in Tokyo’s Shinjuku Ward.")](https://www.japantimes.co.jp/podcast/2024/07/22/deep-dive/kabukicho-tokyo/ "Kabukicho: Tokyo’s ‘stadium of desire’")
+  [![One of the many entrances to the Kabukicho neighborhood in Tokyo’s Shinjuku Ward.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/22/410707.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "One of the many entrances to the Kabukicho neighborhood in Tokyo’s Shinjuku Ward.")](https://www.japantimes.co.jp/podcast/2024/07/22/deep-dive/kabukicho-tokyo/ "Kabukicho: Tokyo’s ‘stadium of desire’")
 
 [Kabukicho: Tokyo’s ‘stadium of desire’](https://www.japantimes.co.jp/podcast/2024/07/22/deep-dive/kabukicho-tokyo/ "Kabukicho: Tokyo’s ‘stadium of desire’")
 
 Longform
 --------
 
-  [![The students at Mitaka Municipal No. 7 Junior High School have access to various cooling devices for when they play sports. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/26/411118.jpg&w=400&q=100&f=jpg&t=1.2 "The students at Mitaka Municipal No. 7 Junior High School have access to various cooling devices for when they play sports. ")](https://www.japantimes.co.jp/environment/2024/07/26/climate-change/heatstroke-students-japanese-school-sports/ "Japan's extreme heat is causing a rethink of school sports")
+  [![A store clerk tries to cool things down in front of their shop by spraying a hose. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/08/26/416766.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A store clerk tries to cool things down in front of their shop by spraying a hose. ")](https://www.japantimes.co.jp/business/2024/08/26/economy/climate-change-consumption-japanese-shoppers/ "Is extreme weather changing the way Japan shops?")
 
-[Japan's extreme heat is causing a rethink of school sports](https://www.japantimes.co.jp/environment/2024/07/26/climate-change/heatstroke-students-japanese-school-sports/ "Japan's extreme heat is causing a rethink of school sports")
+[Is extreme weather changing the way Japan shops?](https://www.japantimes.co.jp/business/2024/08/26/economy/climate-change-consumption-japanese-shoppers/ "Is extreme weather changing the way Japan shops?")
 
 By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "Alex K.T. Martin")  
 
 SUSTAINABLE JAPAN
 -----------------
 
-[JNTO promotes sustainable tourism initiatives](https://sustainable.japantimes.com/magazine/vol38/38-03?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "JNTO promotes sustainable tourism initiatives")
+[Sasakawa works for a sustainable blue economy](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
 
-[![JNTO promotes sustainable tourism initiatives](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_magazine_38_03_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol38/38-03?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "JNTO promotes sustainable tourism initiatives")
+[![Sasakawa works for a sustainable blue economy](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_01_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -564,25 +564,17 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Denmark says Japan made extradition request for anti-whaling activist Watson](https://www.japantimes.co.jp/news/2024/08/01/japan/anti-whaling-activist-extradition-request/ "Denmark says Japan made extradition request for anti-whaling activist Watson")
-
-30 mins ago
-
-[7-Eleven's curry bread certified by Guinness World Records](https://www.japantimes.co.jp/business/2024/08/01/companies/7-elevens-bread-guinness-records/ "7-Eleven's curry bread certified by Guinness World Records")
-
-42 mins ago
-
-[Japan experienced its hottest July on record](https://www.japantimes.co.jp/news/2024/08/01/japan/hottest-july-japan/ "Japan experienced its hottest July on record")
+[Harris and Trump to clash in high-stakes presidential debate](https://www.japantimes.co.jp/news/2024/09/11/world/politics/us-presidential-debate-harris-trump/ "Harris and Trump to clash in high-stakes presidential debate")
 
 1 hours ago
 
-[Honda, Nissan to tighten ties on software, batteries, EV knowhow](https://www.japantimes.co.jp/business/2024/08/01/companies/honda-nissan-ev-tieup/ "Honda, Nissan to tighten ties on software, batteries, EV knowhow")
+[Mitsubishi Electric develops multilingual translation system for meetings](https://www.japantimes.co.jp/business/2024/09/10/companies/mitsubishi-electric-translation-system/ "Mitsubishi Electric develops multilingual translation system for meetings")
 
-2 hours ago
+[Kato announces bid for LDP presidency, adding uncertainty to race](https://www.japantimes.co.jp/news/2024/09/10/japan/politics/kato-motegi-faction/ "Kato announces bid for LDP presidency, adding uncertainty to race")
 
-[Taro Kono softens line against nuclear power ahead of LDP leadership race](https://www.japantimes.co.jp/news/2024/08/01/japan/politics/ldp-taro-kono-nuclear-power/ "Taro Kono softens line against nuclear power ahead of LDP leadership race")
+[Panasonic ends 37-year contract as top Olympics sponsor](https://www.japantimes.co.jp/business/2024/09/10/companies/panasonic-olympics-sponsor-end/ "Panasonic ends 37-year contract as top Olympics sponsor")
 
-2 hours ago
+[iPhone 16 to land in Japan without Apple Intelligence](https://www.japantimes.co.jp/business/2024/09/10/companies/iphone-16-apple-intelligence-japan/ "iPhone 16 to land in Japan without Apple Intelligence ") 
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
