@@ -385,7 +385,7 @@ Spend Bitcoin
 
 [Privacy Policy](https://tartle.co/privacy-policy/)[Cookie Preferences](https://source.tartle.co/cookie_settings)[Terms of Service](https://tartle.co/terms-of-service/)
 
-![](https://tartle.co/wp-content/uploads/2023/03/Accreditation-300x229.png)
+![](https://tartle.co/wp-content/uploads/2023/03/Accreditation-300x229.png)[![](https://tartle.co/wp-content/uploads/2024/08/IMG_1047.jpg)](https://www.dataprivacyframework.gov/list)
 
 Made with ❤ in
 --------------
