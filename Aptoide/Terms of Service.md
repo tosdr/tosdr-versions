@@ -237,7 +237,7 @@ Aptoide is the fastest growing app store and distribution platform in the world.
 
 English![](/company/static/images/footer/arrow-language.svg)
 
-[![](/company/static/images/social/facebook.svg)](https://www.facebook.com/aptoide)[![](/company/static/images/social/x.svg)](https://twitter.com/aptoide)[![](/company/static/images/social/instagram.svg)](https://www.instagram.com/aptoidestore)[![](/company/static/images/social/youtube.svg)](https://www.youtube.com/user/aptoide)[![](/company/static/images/social/linkedin.svg)](https://www.linkedin.com/company/aptoide/mycompany/)[![](/company/static/images/social/tiktok.svg)](https://www.tiktok.com/@aptoidestore)[![](/company/static/images/social/discord.svg)](https://discord.com/invite/NuPWsNyu9w)
+[![](/company/static/images/social/facebook.svg)](https://www.facebook.com/aptoide)[![](/company/static/images/social/x.svg)](https://twitter.com/aptoide)[![](/company/static/images/social/instagram.svg)](https://www.instagram.com/aptoidestore)[![](/company/static/images/social/youtube.svg)](https://www.youtube.com/user/aptoide)[![](/company/static/images/social/linkedin.svg)](https://www.linkedin.com/company/aptoide/mycompany/)[![](/company/static/images/social/tiktok.svg)](https://www.tiktok.com/@aptoidestore)[![](/company/static/images/social/discord.svg)](https://discord.com/invite/aptoide)
 
 ©2024 APTOIDE.COM. All rights reserved
 
