@@ -170,8 +170,6 @@ Please be mindful of the information you choose to disclose in your comments, as
 
 7.2 We also use third party cookies, as will your browser. These are cookies that may be read by third parties (for example if you have used social sign-on and have the option to like or comment using your social media account). If you would prefer to just restrict third party cookies, here is our cookie management tool:
 
-  
-
     ![cookie manager](/content/dam/spark/cookie-manager.jpg?imwidth=350)
 
 Alternatively, visit [youronlinechoices.com](http://www.youronlinechoices.com/) or click on the AdChoices logo that you will see in the corner of advertisements that carry behavioural targeting cookies.
