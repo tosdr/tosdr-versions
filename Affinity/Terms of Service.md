@@ -88,6 +88,7 @@ Our Apps
 * [Affinity Designer 2](https://affinity.serif.com/en-us/designer/)
 * [Affinity Photo 2](https://affinity.serif.com/en-us/photo/)
 * [Affinity Publisher 2](https://affinity.serif.com/en-us/publisher/)
+* [Universal License](https://affinity.serif.com/en-us/universal-licence/)
 * [What’s New](https://affinity.serif.com/en-us/whats-new/)
 * [Purchase Options](https://affinity.serif.com/en-us/affinity-pricing/)
 * [Upgrade from V1](https://affinity.serif.com/en-us/store/upgrade-offer/)
@@ -118,9 +119,9 @@ Help & Support
 
 Information
 
-* [Privacy Policy](https://affinity.serif.com/en-us/privacy/)
+* [Privacy Policy](https://affinity.serif.com/en-us/privacy/) Updated
 * [Terms & Conditions](https://affinity.serif.com/en-us/terms/)
-* [Cookie Policy](https://affinity.serif.com/en-us/privacy/#cookies)
+* [Cookies Policy](https://affinity.serif.com/en-us/cookies-policy/) Updated
 
 Follow us
 
