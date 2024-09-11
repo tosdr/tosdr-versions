@@ -40,14 +40,14 @@ These technologies are necessary for the underlying operation of the site or app
 | Name of cookie | Expiry period | Purpose | Company |
 | --- | --- | --- | --- |
 | Name of cookie: \_\_cf\_bm | Expiry period: Persistent - 30 minutes | Purpose: Authorisation | Company: Cloudflare, Inc. |
-| Name of cookie: \_\_cflb (x 3) | Expiry period: Persistent - 23 hours | Purpose: Your visit | Company: Cloudflare, Inc. |
+| Name of cookie: \_\_cflb | Expiry period: Persistent - 23 hours | Purpose: Your visit | Company: Cloudflare, Inc. |
 | Name of cookie: \_\_cfruid (x 5) | Expiry period: Session cookie | Purpose: Authorisation | Company: Cloudflare, Inc. |
 | Name of cookie: \_cfuvid (x 5) | Expiry period: Session cookie | Purpose: Authorisation | Company: Cloudflare, Inc. |
 | Name of cookie: ar\_debug | Expiry period: Persistent - 30 days | Purpose: Your visit | Company: DoubleClick, Google LLC |
 | Name of cookie: ar\_debug | Expiry period: Persistent - 90 days | Purpose: Your visit | Company: Google Analytics, Google LLC |
 | Name of cookie: AWSELB | Expiry period: Session cookie | Purpose: Your visit | Company: Amazon Web Services, Amazon.com, Inc. |
 | Name of cookie: AWSELBCORS | Expiry period: Session cookie | Purpose: Your visit | Company: Amazon Web Services, Amazon.com, Inc. |
-| Name of cookie: BIGipServer_\*_ | Expiry period: Persistent - 1 hour | Purpose: Your visit | Company: F5 Networks, Inc |
+| Name of cookie: dicbo\_id | Expiry period: Persistent - 5 minutes | Purpose: Under review | Company: To be completed |
 | Name of cookie: f5avraaaaaaaaaaaaaaaa\_session\_ | Expiry period: Session cookie | Purpose: Your visit | Company: F5 Networks, Inc |
 | Name of cookie: JSESSIONID | Expiry period: Session cookie | Purpose: Your visit | Company: Visa |
 | Name of cookie: lbs | Expiry period: Session cookie | Purpose: Your visit | Company: Visa |
@@ -55,7 +55,7 @@ These technologies are necessary for the underlying operation of the site or app
 | Name of cookie: receive-cookie-deprecation | Expiry period: Persistent - 1 year | Purpose: Your visit | Company: Google |
 | Name of cookie: TAPID | Expiry period: Persistent - 1 year | Purpose: Your visit | Company: Tealium |
 | Name of cookie: utag\_main | Expiry period: Persistent - 1 year | Purpose: Your visit | Company: Tealium |
-| Name of cookie: wscrCookieConsent | Expiry period: Persistent - 30 days | Purpose: Your visit | Company: Visa Worldwide Pte Limited |
+| Name of cookie: wscrCookieConsent | Expiry period: Persistent - 30 days | Purpose: Your visit | Company: Digitum |
 
 Analytics
 ---------
@@ -87,7 +87,9 @@ These technologies are used in the management of a site or app, including to rec
 | Name of cookie: ELOQUA | Expiry period: Persistent - 2 years | Purpose: Analytics | Company: Eloqua, Oracle Corporation |
 | Name of cookie: ELQSTATUS | Expiry period: Persistent - 2 years | Purpose: Analytics | Company: Eloqua, Oracle Corporation |
 | Name of cookie: ga\_session\_duration | Expiry period: Persistent - 30 minutes | Purpose: Analytics | Company: Google Analytics, Google LLC |
+| Name of cookie: gi | Expiry period: Persistent - 1 day | Purpose: Analytics | Company: Catchpoint Systems, Inc. |
 | Name of cookie: optimizelyRumLB | Expiry period: Session cookie | Purpose: Analytics | Company: Optimizely, Inc. |
+| Name of cookie: ua | Expiry period: Persistent - 1 hour | Purpose: Analytics | Company: Catchpoint Systems, Inc. |
 
 Marketing, personalization and advertising
 ------------------------------------------
