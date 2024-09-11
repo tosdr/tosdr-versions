@@ -36,7 +36,8 @@ SVT strävar efter att dina uppgifter behandlas inom EU och EES. Det kan dock h�
 
 När personuppgiftsbehandling sker för journalistiska ändamål gäller endast vissa bestämmelser i dataskyddsförordningen, t.ex. reglerna som rör säkerhet för personuppgifter. Vi gör alltid vårt yttersta att skydda de personuppgifter vi behandlar genom adekvata säkerhetsåtgärder.
 
-### Behandling för andra än journalistiska ändamål
+Behandling för andra än journalistiska ändamål
+----------------------------------------------
 
 Användare
 
@@ -202,7 +203,8 @@ Sveriges Television AB, org.nr 556033-4285, är personuppgiftsansvarig. Vid frå
     Att: Dataskyddsförordningen   
     105 10 Stockholm 
 
-### Information om SVT:s användning av kakor
+Information om SVT:s användning av kakor
+----------------------------------------
 
 Vad är en kaka och vilka använder vi
 
@@ -244,7 +246,8 @@ Det är viktigt att du tar ställning. Nödvändiga kakor är alltid aktiva men 
 
 Utöver de kakor som SVT kan använda finns det även s.k. tredjepartskakor. Det är kakor som kommer från andra företag och de kartlägger oftast dina surfvanor i annonserings- eller statistiksyfte.  
 
-### Sök efter svar och guider
+Sök efter svar och guider
+-------------------------
 
 Hittar du inte det du letar efter? [Kontakta oss](https://kontakt.svt.se/kontakt/kontakta-oss)
 
