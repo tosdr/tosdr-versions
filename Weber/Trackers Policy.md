@@ -1,6 +1,6 @@
 [Skip to main content](#maincontent) [Skip to footer content](#footercontent)
 
- [![](https://www.weber.com/on/demandware.static/Sites-US-Site/-/default/dw6092bdac/images/flags/us.png "United States") US United States (en)](https://www.weber.com/international "United States")
+ [![](https://www.weber.com/on/demandware.static/Sites-US-Site/-/default/dwb42451b3/images/flags/us.png "United States") US United States (en)](https://www.weber.com/international "United States")
 
 * [RECIPES](https://www.weber.com/US/en/recipes/weber-31811.html)
 * [DISCOVER WEBER](https://www.weber.com/US/en/aboutus.html)
@@ -20,6 +20,7 @@ Back
 [Gas](https://www.weber.com/US/en/gas/ "Gas Grill")
 
 Gas Grills
+----------
 
 [Shop All Gas Grills](https://www.weber.com/US/en/gas/ "Shop All Gas Grills")
 
@@ -29,7 +30,7 @@ Genesis® NEW](https://www.weber.com/US/en/gas/genesis/ "Genesis®")
 
 [![](https://dw-images.weber.com/navigation/default/gas-grills/00_Spirit_E210_NAV_207x165.png?auto=compress,format)
 
-Spirit®](https://www.weber.com/US/en/gas/spirit/ "Spirit®")
+Spirit® $50 OFF](https://www.weber.com/US/en/gas/spirit/ "Spirit®")
 
 [![](https://dw-images.weber.com/navigation/default/gas-grills/summit_2024_207x165.png?auto=compress,format)
 
@@ -61,11 +62,12 @@ Gas Parts](https://www.weber.com/US/en/parts--et--support/replacement-parts/gas-
 
 [Shop All Gas Grills](https://www.weber.com/US/en/gas/ "Shop All Gas Grills")
 
-  [![](https://dw-images.weber.com/images/plp/2024_Slate_207x165.jpg?auto=compress,format)The New Slate Griddle](https://www.weber.com/US/en/slategriddle.html)[![](https://dw-images.weber.com/images/plp/2024_Summit_207x165.jpg?auto=compress,format)All-New Summit Gas Grills](https://www.weber.com/US/en/summitgasgrill.html)
+  [![](/on/demandware.static/-/Library-Sites-library-na/default/dw2eb2dcb6/24_SpringMAP_MegaMenu_207x165.jpg)Save on select Spirit® gas grills](https://www.weber.com/US/en/gas/spirit/)[![](https://dw-images.weber.com/images/plp/2024_Slate_207x165.jpg?auto=compress,format)The New Slate Griddle](https://www.weber.com/US/en/slategriddle.html)
 
 [Charcoal](https://www.weber.com/US/en/charcoal/ "Charcoal")
 
 Charcoal Grills
+---------------
 
 [Shop All Charcoal Grills](https://www.weber.com/US/en/charcoal/ "Shop All Charcoal Grills")
 
@@ -112,12 +114,13 @@ Charcoal Parts](https://www.weber.com/US/en/parts--et--support/replacement-parts
 [Wood Pellet](https://www.weber.com/US/en/wood-pellet/ "Wood Pellet")
 
 Wood Pellet Grills
+------------------
 
 [Shop All Wood Pellet Grills](https://www.weber.com/US/en/wood-pellet/ "Shop All Wood Pellet Grills")
 
 [![](https://dw-images.weber.com/navigation/default/wood-pellet-grills/searwoodXL600_207x165.png?auto=compress,format)
 
-Searwood NEW](https://www.weber.com/US/en/wood-pellet/searwood/ "Searwood")
+Searwood® NEW](https://www.weber.com/US/en/wood-pellet/searwood/ "Searwood®")
 
 [![](https://dw-images.weber.com/navigation/default/wood-pellet-grills/00_Pellets_US_Nav_207x165.png?auto=compress,format)
 
@@ -129,11 +132,12 @@ Wood Pellet Parts](https://www.weber.com/US/en/wood-pellet/wood-pellet-parts/ "W
 
 [Shop All Wood Pellet Grills](https://www.weber.com/US/en/wood-pellet/ "Shop All Wood Pellet Grills")
 
-  [![](https://dw-images.weber.com/images/Landing%20Pages/2024-landing-pages/searwood/Searwood_megamenu_207x165.jpg?auto=compress,format)Searwood™ Grills Do It All​](https://www.weber.com/US/en/searwoodpelletgrill.html)[![](https://dw-images.weber.com/navigation/default/header-banner/Nav_Promo_SF_TipsTricks_LP.jpg?auto=compress,format)SmokeFire Getting Started](https://www.weber.com/US/en/smokefire-getting-started.html)
+  [![](https://dw-images.weber.com/images/Landing%20Pages/2024-landing-pages/searwood/Searwood_megamenu_207x165.jpg?auto=compress,format)Searwood® Grills Do It All​](https://www.weber.com/US/en/searwoodpelletgrill.html)[![](https://dw-images.weber.com/navigation/default/header-banner/Nav_Promo_SF_TipsTricks_LP.jpg?auto=compress,format)SmokeFire Getting Started](https://www.weber.com/US/en/smokefire-getting-started.html)
 
 [Electric](https://www.weber.com/US/en/electric/ "Electric")
 
 Electric Grills
+---------------
 
 [Shop All Electric Grills](https://www.weber.com/US/en/electric/ "Shop All Electric Grills")
 
@@ -164,6 +168,7 @@ Electric Parts](https://www.weber.com/US/en/parts--et--support/replacement-parts
 [Griddle](https://www.weber.com/US/en/griddle/ "Griddle")
 
 Griddle
+-------
 
 [Shop All Griddles](https://www.weber.com/US/en/griddle/ "Shop All Griddles")
 
@@ -198,6 +203,7 @@ Griddle Accessories](https://www.weber.com/US/en/griddle/griddle-accessories/ "G
 [Accessories](https://www.weber.com/US/en/shopallaccessories.html "Accessories")
 
 Accessories
+-----------
 
 [Shop All Accessories](https://www.weber.com/US/en/shopallaccessories.html "Shop All Accessories")
 
@@ -221,7 +227,7 @@ Fuel and Pellets](https://www.weber.com/US/en/accessories/fuel-and-smoking/)
 
 Grilling Thermometers](https://www.weber.com/US/en/accessories/smart-grilling/)
 
-[Accessories by Grill Type](https://www.weber.com/US/en/accessories/accessories-by-grill-type/ "Accessories by Grill Type")
+[### Accessories by Grill Type](https://www.weber.com/US/en/accessories/accessories-by-grill-type/ "Accessories by Grill Type")
 
 * [Gas Grill Accessories](https://www.weber.com/US/en/accessories/accessories-by-grill-type/gas-grill-accessories/ "Gas Grill Accessories")
 * [Griddle Grill Accessories NEW](https://www.weber.com/US/en/accessories/accessories-by-grill-type/griddle-grill-accessories/ "Griddle Grill Accessories")
@@ -231,7 +237,7 @@ Grilling Thermometers](https://www.weber.com/US/en/accessories/smart-grilling/)
 
 Accessories by Grill Type
 
-[Grill Covers](https://www.weber.com/US/en/accessories/grill-covers/ "Grill Covers")
+[### Grill Covers](https://www.weber.com/US/en/accessories/grill-covers/ "Grill Covers")
 
 * [Gas Grill Covers](https://www.weber.com/US/en/accessories/grill-covers/gas-grill-covers/ "Gas Grill Covers")
 * [Griddle Grill Covers NEW](https://www.weber.com/US/en/accessories/grill-covers/griddle-grill-covers/ "Griddle Grill Covers")
@@ -243,7 +249,7 @@ Accessories by Grill Type
 
 Grill Covers
 
-[Grill Tools and Cookware](https://www.weber.com/US/en/accessories/grill-tools-and-cookware/ "Grill Tools and Cookware")
+[### Grill Tools and Cookware](https://www.weber.com/US/en/accessories/grill-tools-and-cookware/ "Grill Tools and Cookware")
 
 * [Griddles NEW](https://www.weber.com/US/en/accessories/grill-tools-and-cookware/griddles/ "Griddles")
 * [Weber Works™ NEW](https://www.weber.com/US/en/griddle/weber-works/ "Weber Works™")
@@ -256,7 +262,7 @@ Grill Covers
 
 Grill Tools and Cookware
 
-[Grill Cleaning](https://www.weber.com/US/en/accessories/grill-cleaning/ "Grill Cleaning")
+[### Grill Cleaning](https://www.weber.com/US/en/accessories/grill-cleaning/ "Grill Cleaning")
 
 * [Grill Brushes and Scrapers](https://www.weber.com/US/en/accessories/grill-cleaning/grill-brushes-and-scrapers/ "Grill Brushes and Scrapers")
 * [Grill Cleaners](https://www.weber.com/US/en/accessories/grill-cleaning/grill-cleaners/ "Grill Cleaners")
@@ -265,7 +271,7 @@ Grill Tools and Cookware
 
 Grill Cleaning
 
-[WEBER CRAFTED](https://www.weber.com/US/en/accessories/weber-crafted/ "WEBER CRAFTED")
+[### WEBER CRAFTED](https://www.weber.com/US/en/accessories/weber-crafted/ "WEBER CRAFTED")
 
 * [Frame Kits](https://www.weber.com/US/en/accessories/weber-crafted/frame-kits/ "Frame Kits")
 * [Cooking Grates](https://www.weber.com/US/en/accessories/weber-crafted/cooking-grates/ "Cooking Grates")
@@ -274,7 +280,7 @@ Grill Cleaning
 
 WEBER CRAFTED
 
-[Fuel and Smoking](https://www.weber.com/US/en/accessories/fuel-and-smoking/ "Fuel and Smoking")
+[### Fuel and Smoking](https://www.weber.com/US/en/accessories/fuel-and-smoking/ "Fuel and Smoking")
 
 * [Wood Pellets](https://www.weber.com/US/en/accessories/fuel-and-smoking/wood-pellets/ "Wood Pellets")
 * [Wood Chips](https://www.weber.com/US/en/accessories/fuel-and-smoking/wood-chips/ "Wood Chips")
@@ -283,7 +289,7 @@ WEBER CRAFTED
 
 Fuel and Smoking
 
-[Smart Grilling](https://www.weber.com/US/en/accessories/smart-grilling/ "Smart Grilling")
+[### Smart Grilling](https://www.weber.com/US/en/accessories/smart-grilling/ "Smart Grilling")
 
 * [Weber CONNECT](https://www.weber.com/US/en/accessories/smart-grilling/weber-connect/ "Weber CONNECT")
 * [Probes and Thermometers](https://www.weber.com/US/en/accessories/smart-grilling/probes-and-thermometers/ "Probes and Thermometers")
@@ -291,7 +297,7 @@ Fuel and Smoking
 
 Smart Grilling
 
-[Gear and Gifts](https://www.weber.com/US/en/accessories/gear-and-gifts/ "Gear and Gifts")
+[### Gear and Gifts](https://www.weber.com/US/en/accessories/gear-and-gifts/ "Gear and Gifts")
 
 * [eGift Cards](https://www.weber.com/US/en/giftcard/ "eGift Cards")
 * [Weber x Huckberry NEW](https://www.weber.com/US/en/weber-x-huckberry-collaboration.html "Weber x Huckberry")
@@ -308,8 +314,9 @@ Gear and Gifts
 [Parts & Support](https://www.weber.com/US/en/parts.html "Parts & Support")
 
 Parts & Support
+---------------
 
-[Orders and Shipping](https://www.weber.com/US/en/shippingandreturns.html "Orders and Shipping")
+[### Orders and Shipping](https://www.weber.com/US/en/shippingandreturns.html "Orders and Shipping")
 
 * [Track Your Order](https://www.weber.com/US/en/login/ "Track Your Order")
 * [Find a Retailer](https://www.weber.com/US/en/storefinder/ "Find a Retailer")
@@ -317,7 +324,7 @@ Parts & Support
 
 Orders and Shipping
 
-[Owner Support](https://www.weber.com/US/en/contactus.html "Owner Support")
+[### Owner Support](https://www.weber.com/US/en/contactus.html "Owner Support")
 
 * [Warranties](https://www.weber.com/US/en/warranties.html "Warranties")
 * [Manuals](https://www.weber.com/US/en/help/manuals/ "Manuals")
@@ -326,7 +333,7 @@ Orders and Shipping
 
 Owner Support
 
-[Get Help](https://www.weber.com/US/en/contactus.html "Get Help")
+[### Get Help](https://www.weber.com/US/en/contactus.html "Get Help")
 
 * [Troubleshooting and FAQs](https://consumer-care.weber.com/s/?language=en_US "Troubleshooting and FAQs")
 * [Service and Troubleshooting Videos](https://www.youtube.com/playlist?list=PL41jg6pnrcGWCqOoY5H8hOeErcrZVlb96 "Service and Troubleshooting Videos")
@@ -335,7 +342,7 @@ Owner Support
 
 Get Help
 
-[Replacement Parts](https://www.weber.com/US/en/parts.html "Replacement Parts")
+[### Replacement Parts](https://www.weber.com/US/en/parts.html "Replacement Parts")
 
 * [Search by Serial Number](https://www.weber.com/US/en/help/schematics/ "Search by Serial Number")
 or Select Your Grill Type* [![](https://dw-images.weber.com/navigation/default/parts-support/gas50x50.png?auto=compress,format)
@@ -363,7 +370,7 @@ Replacement Parts
 * [Register a Grill](https://weber.registria.com/ "Register Grill")
 * [Find a Store](https://www.weber.com/US/en/storefinder/ "Store finder")
 
-* [![](https://www.weber.com/on/demandware.static/Sites-US-Site/-/default/dw6092bdac/images/flags/us.png "United States")
+* [![](https://www.weber.com/on/demandware.static/Sites-US-Site/-/default/dwb42451b3/images/flags/us.png "United States")
     
     United States (en)](https://www.weber.com/international "United States")
     
@@ -378,7 +385,7 @@ Search
 
 Enter Keyword or Item No.  Search Clear
 
-Shipping Notice: Orders placed from 8/6 – 8/11 will ship starting on 8/12. [Learn More](https://www.weber.com/US/en/shippingandreturns.html)
+$50 off select Spirit® Gas Grills. Offer valid 8/15/24 - 9/30/24. Restrictions apply. [Shop Now](https://www.weber.com/US/en/gas/spirit/ "Shop Now")
 
 Shopping Cart
 -------------
@@ -408,20 +415,20 @@ Complete Your Grill
 
 ×
 
-  ![Privacy and Cookies Policy](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Privacy and Cookies Policy")
+  ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Privacy and Cookies Policy")
 
 Privacy and Cookies Policy
 --------------------------
 
 **PRIVACY AND COOKIES POLICY**
 
-_Updated: June 20, 2023_
+_Updated: August 20, 2024_
 
-Weber-Stephen Products LLC and its global subsidiaries and affiliates value customers and respect their privacy. This Privacy and Cookies Policy ( **"Policy"** ) describes Weber-Stephen Products LLC's and its applicable international subsidiaries (collectively, **"Weber"**) collection, processing and use of customer, mobile application user, and website visitor information (collectively, **"personal information"** or **"data"** ) when you interact with or use Weber Customer Service/Online Consumer Care, promotions, mobile applications and websites (collectively, **"Applications"** ). By using our Applications, or by choosing to submit personal information to Weber, you signify your consent to all of the terms of this Policy. If you do not agree with the terms of this Policy, please do not use the Applications or submit any personal information to Weber.
+Weber-Stephen Products LLC and its worldwide subsidiaries and affiliates value customers and respect their privacy. This Privacy and Cookies Policy ( **"Policy"** ) describes Weber-Stephen Products LLC's and its applicable worldwide subsidiaries (collectively, **"Weber"**) collection, processing and use of customer, mobile application user, and website visitor information (collectively, **"personal information"** or **"data"** ) when you interact with or use Consumer Care, promotions, mobile applications and websites (collectively, **"Applications"** ). By using our Applications, or by choosing to submit personal information to Weber, you signify your consent to all of the terms of this Policy. If you do not agree with the terms of this Policy, please do not use the Applications or submit any personal information to Weber.
 
 **1\. General**
 
-Weber wants you to have a positive user **_experience_** when you use the Applications. We also want you to be confident that your data is being handled securely and to give you a channel for initiation of privacy-related inquiries and requests.
+Weber wants you to have a positive user **_experience_** when you use the Applications. We also want you to be confident that your data is being handled securely and to give you a channel to initiate of privacy-related inquiries and requests.
 
 * **A. Data Privacy Rights and Inquiries**
     
@@ -444,9 +451,9 @@ Weber wants you to have a positive user **_experience_** when you use the Applic
     We note that the Applications are intended for a general audience and are not directed to children. If a child has provided us with personal information, his or her parent or guardian may contact us for the purpose of deleting this information. Weber will take the appropriate steps to delete this personal information.
     
 
-**2\. Collection and Use** **of Data**
+**2\. Collection and Use of Data**
 
-Part of providing an excellent user **_experience_** includes ensuring that the Applications work properly and that we are best able to provide you a positive experience. In this Section we describe which data we collect while you are using the Applications. We also describe the purposes for which your data is used, including maintenance of your Weber ID Account, to provide consistent and uninterrupted **_support_** you need to confidently use our products (including necessary **_safety and maintenance_** information regarding our products), and to ensure trouble-free use of the Applications.
+Part of providing an excellent user **_experience_** includes ensuring that the Applications work properly and that we are best able to provide you a positive experience. In this Section we describe which data we collect while you are using the Applications. We also describe the purposes for which your data is used, including maintenance of your Weber-ID Account, to provide consistent and uninterrupted **_support_** you need to confidently use our products (including necessary **_safety and maintenance_** information regarding our products), and to ensure trouble-free use of the Applications.
 
 Please note that data collected under this Policy is stored in the cloud for access by and across Applications for future uses, and may be combined with data from other Application sources or publicly available data for analytics and other purposes described in this Policy.
 
@@ -486,19 +493,19 @@ You may adjust your options regarding certain analytics in the mobile Applicatio
 
 iv. Services and Maintenance; Compliance.
 
-Weber may use your data and information (identifiable and non-identifiable) in order to ensure effective service and Application delivery, to improve the delivery of services and Applications to you, to ensure accuracy of data, or otherwise to perform maintenance or upgrades of Weber's Applications, systems and services, including through use of reputable third party service providers.
+Weber may use your data and information (identifiable and non-identifiable) in order to ensure effective service and Application delivery, to improve the delivery of services and Applications to you, to ensure accuracy of data, or otherwise to perform maintenance or upgrades of Weber's Applications, systems and services, including through use of reputable third-party service providers.
 
  v. Support
 
-We need your name and e-mail address to process and assign your inquiries sent via our online contact form or over the phone. The Customer Service and Online Consumer Care departments (or other applicable department as relevant under the circumstances) of Weber-Stephen Products LLC, is responsible for general contact inquiries. Please note that while the Customer Service and Online Consumer Care departments are based in the United States, support requests may be handled by a reputable third party as needed (eg: in times of high call volume), which may or may not be located in the United States. We may also offer certain optional support services, such as text message and chat services which are facilitated by third parties. Such services may be subject to the privacy policy and other data processing standards of such third party.
+For any inquiries made, we need your name and e-mail address to process and assign your request sent via our online contact form or over the phone. Consumer Care department (or other applicable department as relevant under the circumstances) of Weber-Stephen Products LLC, are responsible for general contact inquiries. Please note that while the Consumer Care department is based in the United States, a portion of support requests are handled by a reputable third party as needed, which may or may not be located in the United States. We may also offer certain optional support services, such as text message and chat services which are facilitated by third parties. Such services may be subject to the privacy policy and other data processing standards of such third party.
 
-We may use your information to contact you or otherwise communicate with you as necessary in order to provide you with safety and maintenance information in relation to a customer service/online consumer care request you may have (or a product you registered), to provide information regarding product software and functionality updates, or in the unlikely event of a recall, and to analyze information relating to your inquiry or request to further develop our processes and ensure the best possible service to our customers. 
+We may use your information to contact you or otherwise communicate with you as necessary in order to provide you with safety and maintenance information in relation to a consumer care request you may have (or a product you registered), to provide information regarding product software and functionality updates, or in the unlikely event of a recall, and to analyze information relating to your inquiry or request to further develop our processes and ensure the best possible service to our customers.
 
 * **B. Information Specific to Weber-ID account**
     
     The Weber-ID features a central customer account where all your data is collected in one place in order to constantly improve your experience of the Weber world and to tailor it to your specific interests. You may create a Weber-ID Account free of charge within many of our Applications. 
     
-    Creation of a Weber ID account may be required in order to register your Weber product for warranty purposes or to opt-in to receive marketing emails, but you can always request deletion of personal information collected about you as described in this Policy. 
+    Creation of a Weber-ID account may be required in order to register your Weber product for warranty purposes or to opt-in to receive marketing emails, but you can always request deletion of personal information collected about you as described in this Policy. 
     
     When you create a Weber-ID account, we may collect the following information:
     
@@ -511,7 +518,7 @@ We may use your information to contact you or otherwise communicate with you as 
     * Saved products
     * Email list status
     * Registered products
-    * Customer service/online consumer care claim information
+    * Consumer care claim information
     * If provided by you:
         * Date of birth
         * Children
@@ -522,11 +529,11 @@ We may use your information to contact you or otherwise communicate with you as 
     
       
     
-    The Weber ID offers additional features as a centralized user account on the Applications.
+    The Weber-ID offers additional features as a centralized user account on the Applications.
     
     This will give you access to exclusive contents of the web page (recipes, tips and tricks, etc.), you can register your grill/grills, receive all important information (warranty periods, operating instructions, etc.) and have central access to all data and services Weber has to offer you. You can also easily log into our shop at any time to check your order status or place additional orders without having to register again.
     
-    If you wish to delete information associated with your Weber ID, please contact us at [privacy.americas@weberstephen.com](mailto:privacy.americas@weberstephen.com "Email Us") or visit our [data access ticket system](https://app-de.onetrust.com/app/#/webform/616bbec2-6fcf-47bd-805a-e1c33281ba92 "Data Access Ticket System") Please note that certain information associated with your Weber ID may be retained by Weber for recordkeeping, service or warranty purposes.
+    If you wish to delete information associated with your Weber-ID, please contact us at [privacy.americas@weberstephen.com](mailto:privacy.americas@weberstephen.com "Email Us") or visit our [data access ticket system](https://app-de.onetrust.com/app/#/webform/616bbec2-6fcf-47bd-805a-e1c33281ba92 "Data Access Ticket System"). Please note that certain information associated with your Weber-ID may be retained by Weber for recordkeeping, service or warranty purposes.
     
 * **C. Information specific to Mobile Applications**
     
@@ -565,7 +572,7 @@ We may use your information to contact you or otherwise communicate with you as 
     
       
     
-    Weber uses certain reputable tools to analyze, identify and report bugs and other errors in mobile Applications. Whenever an error occurs in a mobile Application, we receive technical data from the mobile Application, to analyze the cause of the error which enables us to further improve the mobile Application for all users. You may also have the option to provide additional information in order to submit a detailed bug report at your option.
+    Please note that in the event you later create a Weber-ID, or if you have a Weber-ID account that you created outside of the mobile Applications this anonymous data will become associated with your Weber-ID, and past and future collected data described in this Policy will no longer be anonymized. Weber uses certain reputable tools to analyze, identify and report bugs and other errors in mobile Applications. Whenever an error occurs in a mobile Application, we receive technical data from the mobile Application, to analyze the cause of the error which enables us to further improve the mobile Application for all users. You may also have the option to provide additional information in order to submit a detailed bug report at your option.
     
 * **D. Information Specific to the Website.**
     
@@ -589,7 +596,7 @@ We may use your information to contact you or otherwise communicate with you as 
     
     ii. Use of Specific Services / Shopping at a Weber Website / Marketing
     
-    We will collect personal information if you voluntarily disclose such data to us when you shop or purchase products on the Website, when interacting with our Customer Service/Online Consumer Care team through email, phone, or via online or telephonic text message/chats (whether you are interacting directly with our online consumer care team, utilizing interactive voice response, or utilizing optional third party chat bot service that may be made available to you), for the purposes of receiving marketing communications, or when opening a customer account. Please note that your interactions with any of these methods may be recorded for quality assurance purposes. We use the collected data to perform the services you request and send you related transaction communications, and provide you with relevant marketing to the extent we have obtained your consent to do so.
+    We will collect personal information if you voluntarily disclose such data to us when you shop or purchase products on the Website, when interacting with our Consumer Care team through email, phone, or via online or telephonic text message/chats (whether you are interacting directly with our Consumer Care team, utilizing interactive voice response, or utilizing optional third party chat bot service that may be made available to you), for the purposes of receiving marketing communications, or when opening a customer account. Please note that your interactions with any of these methods may be recorded and/or transcribed through automated means, for quality assurance purposes. We use the collected data to perform the services you request and send you related transaction communications, and to provide you with relevant marketing to the extent we have obtained your consent to do so.
     
     Please note that we may use information provided when you purchase a registrable product for yourself in order to automatically register your product for warranty purposes.
     
@@ -600,15 +607,23 @@ Weber wants to make sure you are up to date and involved on our newest **_Innova
 
 **A. Generally**
 
-In addition to performing services for you as part of the Applications, we are eager to provide an Internet and mobile presence that is specific to your interests and may provide certain marketing or advertising information to you as provided for in this Section. In addition, if you opt in to participate within the Applications, device settings or through other channels, we will provide you from time to time with such news and information about Weber or the products we offer by mail, email (through our email list), Internet websites, text message, and push notifications that might be of interest to you (including through our analysis of your data, as detailed above). Please note that the operating system on your mobile device may default to activating push notifications. The emails will be facilitated by a respected third party, in which case the email addresses of recipients of the Weber emails will be stored on servers of such provider. The provider uses this data to send and analyze the emails on behalf of Weber. Examples of topics referenced in such emails include browsing/shopping related emails (which are not otherwise transaction-related), content specific to products you purchase or register, grilling tips and recipes, sales, offers and promotions, market research and feedback, and product suggestions/new product information.
+In addition to performing services for you as part of the Applications, we are eager to provide an Internet and mobile presence that is specific to your interests and may provide certain marketing or advertising information to you as provided for in this Section. In addition, if you opt in to participate within the Applications, device settings or through other channels, we will provide you from time to time with such news and information about Weber or the products we offer by mail, email (through our email list), Internet websites, text message, and push notifications that might be of interest to you (including through our analysis of your data, as detailed above). Please note that the operating system on your mobile device may default to activating push notifications. The emails are facilitated by a respected third party, in which case the email addresses of recipients of the Weber emails will be stored on servers of such provider. The provider uses this data to send and analyze the emails on behalf of Weber. Examples of topics referenced in such emails include browsing/shopping related emails (which are not otherwise transaction-related), content specific to products you purchase or register, grilling tips and recipes, sales, offers and promotions, market research and feedback, and product suggestions/new product information.
 
 Please note that with regard to push notifications, when you do activate them you thereby consent into us sending you these marketing related notifications. You can deactivate the service at any time in the Mobile App's, or your mobile device's, settings.
 
 To the extent we have obtained your permission to do so and in accordance with applicable law, we may share your personal information with third parties for their own marketing purposes, which are subject to the separate privacy policies of such third parties.
 
-Weber may contact you from time to time through certain reputable third party firms for market research purposes, to the extent you have provided your consent for us to do so. Participation in any such activities by you is strictly voluntary and you can always opt-out of these communications, as further detailed below.
+Weber may contact you from time to time through certain reputable third party firms for market research purposes, to the extent you have provided your consent for us to do so. Participation in any such activities by you is strictly voluntary and you can always opt out of these communications, as further detailed below.
 
-**To opt out:** Regarding commercial communications you have opted in to receive, you can revoke your consent to receive such commercial communications at any time by clicking on the appropriate link contained in any such email communication. Your opt-out does not apply to communications relating to Applications information (including policy updates), Legal Notice, Weber-ID, purchases, Customer Service/Online Consumer Care matters, or automatically generated non-commercial messages (confirmation emails, order receipts, etc.). To the extent you have provided consent to receive text messages or push notifications, you can opt-out of such messages by following the instructions in the communication, replying back, or visiting the settings on your mobile device.
+**To opt out:** Regarding commercial communications you have opted in to receive, you can revoke your consent to receive such commercial communications at any time by clicking on the appropriate link contained in any such email communication. Your opt-out does not apply to communications relating to Applications information (including policy updates), Legal Notice, Weber-ID, purchases, Consumer Care matters, or automatically generated non-commercial messages (confirmation emails, order receipts, etc.). To the extent you have provided consent to receive text messages or push notifications, you can opt-out of such messages by following the instructions in the communication, replying back, or visiting the settings on your mobile device.
+
+You may also opt out with the following mechanisms:
+
+* Opening a ticket with our data access ticket system.
+* Enable Global Opt-out Preference Signals on applicable browsers to signal to websites you visit of your preference to opt out of sale and sharing of certain Personal Information
+* Adjust your cookie preferences in the Cookie Preference Center by clicking Cookies Preference Center (to complete a self service "do not share" rights request) as described in Section 4 ("Cookies") of the [Privacy and Cookies Policy](https://www.weber.com/US/en/privacypolicy.html "Privacy and Cookies Policy").
+* Emailing [privacy.americas@weberstephen.com](mailto:privacy.americas@weberstephen.com "Email Us")
+* Calling us at [(855) 924-1115](tel: 18559241115 "call 855-924-1115")
 
 **B. Social Media and Online Platforms**
 
@@ -622,7 +637,7 @@ Once engaged with the relevant social media website, your use and browsing will 
 
 In accordance with applicable law, we use, and allow certain third parties to use, various technologies to collect, store, and process information, including cookies, pixel tags, databases, and similar tracking technologies (collectively, "cookies") on our Applications. Cookies are small text files which our web server sends to your browser while you are visiting an Application; your browser stores the cookies on your device for subsequent retrieval. Use of these technologies helps us to provide you with a positive **_experience_** with relevant content that may be tailored to your interests.
 
-You may adjust your preference regarding use of cookies on the Website as described in the following section by visiting Weber's Cookie Preference Center at Cookie Settings. However, please note that certain preferences indicated by you may have an impact on the functionality of the website.
+You may adjust your preference regarding use of cookies on the Website as described in the following section by clicking Cookies Preference Center. However, please note that certain preferences indicated by you may have an impact on the functionality of the website.
 
 * **A. Session Cookies**
     
@@ -662,57 +677,61 @@ You may adjust your preference regarding use of cookies on the Website as descri
     
     Some content or applications, including advertisements, on the Website are served by third-parties, including advertisers, ad networks and servers, content providers, and application providers. These third parties may use cookies (alone or in conjunction with web beacons or other tracking technologies) to collect information about you when you use our Website. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content.
     
-    We do not control these third parties' tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly. For information about how you can opt out of receiving targeted advertising from many providers, visit our [data access ticket system](https://app-de.onetrust.com/app/#/webform/616bbec2-6fcf-47bd-805a-e1c33281ba92 "Data Access Ticket System").
+    We do not control these third parties' tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly. To opt out of the use of third-party cookies, you may adjust your preferences in the Cookie Preference Center by clicking Cookie Preference Center.
     
 
-**5\. Sharing Your Information**
+**5\. How Your Person Information is Disclosed, Sold, or Shared**
 
 Here at Weber, we are experts at grilling but may need the assistance of third party service providers for tasks such as shipping, credit card processing, cloud storage and support services. In this Section we describe the ways in which we share your information to provide you with a positive user **_experience_** and effective **_support_** .
 
-* **A. Subsidiaries and Affiliates.**
+* **A. Disclosures**
     
-    We may share the information you provide to us online with our global subsidiaries and affiliates but will not use your information other than as described in this Policy.
+    1. Subsidiaries and Affiliates.
     
-* **B. Transaction-Related Service Providers.**
+    * We may disclose the information you provide to us online with our global subsidiaries and affiliates but will not use your information other than as described in this Policy.
     
-    Your data for the relevant service may be disclosed to reputable service providers working with Weber and its consumers on transaction-related services (eg: shipping companies/shipment tracking services and payment and financing services providers, or Customer Service/Online Consumer Care live chat, email or phone communication and text message-related service providers). These include but are not limited to Weber's fraud detection provider, Forter. Services provided by Forter are subject to Forter's privacy policy at [http://www.forter.com/forter-privacy-policy/](http://www.forter.com/forter-privacy-policy/ "Forter Privacy Policy").
+    3. Consumer Tools
     
-* **C. Consumer Tools; Advertising.**
+    * When you use an Application, you may have the ability to utilize certain tools operated by reputable third parties. On our website, you may have access to utilize a third -party tool that allows you to check local pricing and availability of our products via tools operated by reputable third parties. This application may base information presented to you on your browser's settings. Otherwise, you may manually type in your location information to use this application. You may also have the opportunity to use certain tools and functions as part of your Weber product assembly, product registration or maintenance process which are operated by reputable third parties. The third party providing these tools and offerings may collect information regarding your use of the tool, such as your internet service provider, IP address, date and time of access, pages accessed, information collected by cookies, web beacon information, limited location data and referring website.
     
-    When you use an Application, you may have the ability to utilize certain tools operated by reputable third parties. On our website, you may have access to utilize a third party tool that allows you to check local pricing and availability of our products via tools operated by reputable third parties. This application may base information presented to you on your browser's settings. Otherwise you may manually type in your location information to use this application. You may also have the opportunity to use certain tools and functions as part of your Weber product assembly, product registration or maintenance process which are operated by reputable third parties. The third party providing these tools and offerings may collect information regarding your use of the tool, such as your internet service provider, IP address, date and time of access, pages accessed, information collected by cookies, web beacon information, limited location data and referring website.
+    5. Compliance with Law/Investigations.
     
-    As described in the Advertising section of this Policy, Weber may provide your information to certain reputable third parties for purposes of advertising, including consumer emails, research and other advertising purposes described in this Policy.
+    * We may also use, or disclose your personal information to third parties, if we have reason to believe that using or disclosing such information is necessary to: (a) conduct investigations of possible breaches of law; (b) identify, contact, or bring legal action against someone who may be violating an agreement they have with us; (c) investigate security breaches or cooperate with government authorities pursuant to a legal matter; (d) to protect our rights, safety or property; or (e) comply with and enforce our legal obligations and legal rights. Lastly, we may disclose your personal information for any other purpose to which you consent.
     
-* **D. Compliance with Law/Investigations.**
+    7. Service Providers
     
-    We may also use, or disclose your personal information to third parties, if we have reason to believe that using or disclosing such information is necessary to: (i) conduct investigations of possible breaches of law; (ii) identify, contact, or bring legal action against someone who may be violating an agreement they have with us; (iii) investigate security breaches or cooperate with government authorities pursuant to a legal matter; (iv) to protect our rights, safety or property; or (v) comply with and enforce our legal obligations and legal rights. Lastly, we may disclose your personal information for any other purpose to which you consent.
+    * Your data for the relevant service may be disclosed to reputable service providers working with Weber and its consumers on transaction-related services (eg: shipping companies/shipment tracking services and payment and financing services providers, or Customer Service/Online Consumer Care live chat, email or phone communication and text message-related service providers). These include but are not limited to Weber's fraud detection provider, Forter. Services provided by Forter are subject to Forter's privacy policy at [http://www.forter.com/forter-privacy-policy/](http://www.forter.com/forter-privacy-policy/ "Forter's Privacy Policy").
+        
+        We may also disclose your personal information to external entities to perform security, systems and data maintenance, data storage, data processing, analytics, consumer care and other services for us and in order to provide you the best support possible, which may be described in greater detail in this Policy. In such cases, we establish by contract that these entities may access your personal information only for the purposes of performing those services. Also, we reserve the right to transfer any personal information we have about you in the event that we merge with or are acquired by a third party or should any such transaction be proposed.
+        
     
-* **E. Services.**
+    **B. Sale or Sharing**
+    1. Targeted Advertising
     
-    We disclose your personal information to external entities to perform security, systems and data maintenance, data storage, data processing, analytics, customer service/online consumer care and other services for us and in order to provide you the best support possible, which may be described in greater detail in this Policy. In such cases, we establish by contract that these entities may access your personal information only for the purposes of performing those services. Also, we reserve the right to transfer any personal information we have about you in the event that we merge with or are acquired by a third party or should any such transaction be proposed.
+    * As described in the Advertising section of this Policy, Weber may provide your information to certain reputable third parties for purposes of advertising, including consumer emails, research and other advertising purposes described in this Policy.
     
 
 **6\. Third Party Websites and Tools**
 
 The Applications may contain links to other third party websites, or feature tools and services that are operated by third parties as described in this Policy. These other websites and providers may have their own privacy policies and terms and conditions that are not governed by this Policy. We are not responsible for the privacy practices or the content of any website(s) owned and operated by any such third parties. Other websites may collect and treat information collected differently, so we encourage you to carefully read and review the privacy policy for each website you visit. Any links from this Applications to other websites, or references to products, services or publications other than those of Weber, do not imply the endorsement or approval of such websites, products, services or publications by Weber.
 
-**7\. California Residents.**
+**7\. State-Specific Requirements.**
 
-Please see the [PRIVACY NOTICE FOR CALIFORNIA RESIDENTS](https://www.weber.com/US/en/ccpapolicy.html "Weber CCPA Policy") for additional information regarding rights you may have pursuant to applicable law.
+If you are a California resident, please click [here](https://www.weber.com/US/en/ccpapolicy.html "Weber CCPA Policy") for additional information regarding rights you may have pursuant to applicable law.
 
-**8\. State-Specific Requirements.**
+If you are a resident of Colorado, Connecticut, Delaware, Iowa, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Texas, Utah, and Virginia provide (now or in the future) please click [here](https://www.weber.com/US/en/multi-state-consumer-privacy-notice.html "Multi-State Consumer Privacy Notice") for additional information regarding rights you may have pursuant to applicable law.
 
-Certain state laws may also allow users to exercise certain access rights and make certain requests in relation to their data. Please visit the [data access ticket system](https://app-de.onetrust.com/app/#/webform/616bbec2-6fcf-47bd-805a-e1c33281ba92 "Data Access Ticket System") to make an access or opt out request in accordance with local law.
+The exact scope of these rights may vary by state. To exercise any of these rights please visit the [data access ticket system](https://app-de.onetrust.com/app/#/webform/616bbec2-6fcf-47bd-805a-e1c33281ba92 "Data Access Ticket System") to make an access or opt-out request in accordance with local law. To appeal a decision regarding a consumer rights request please send an email with subject line "Appeal Request" to [privacy.americas@weberstephen.com](mailto:privacy.americas@weberstephen.com "Email Us") including a detailed description of your appeal request. Nevada provides its residents with a limited right to opt out of certain personal information sales. Residents who wish to exercise this sale opt-out right may submit a request by visiting the data access ticket system to make your request. However, please note Weber does not currently sell data triggering Nevada statute's opt-out requirements.
 
-**9\. Changes to This Policy.**
+**8\. Changes to This Policy.**
 
 Please note that this Policy may be updated from time to time due to technical updates and appropriate implementation of new technologies and/or due to changes of the law. If we make any material changes to this Policy we will notify you prior to the change becoming effective, and obtain your consent to the changes when required by applicable law.
 
-**10\. Questions and Legal Notice**
+**9\. Questions and Legal Notice**
 
 If you have any questions or comments regarding this Policy, please send an email to [privacy.americas@weberstephen.com](mailto:privacy.americas@weberstephen.com "Email Us") or write to Weber-Stephen Products LLC, attn.: Privacy, 1415 S. Roselle Rd., Palatine, IL 60067, USA.,
 
-Your use of the Site may be governed by other Weber policies, including the Legal Notice, which includes additional terms addressing your use of the Applications. Please review the Legal Notice at [https://www.weber.com/US/en/legalnotice.html](https://www.weber.com/US/en/legalnotice.html "Weber Legal Notice")
+Your use of the Site may be governed by other Weber policies, including the Legal Notice, which includes additional terms addressing your use of the Applications. Please review the Legal Notice at [https://www.weber.com/US/en/legalnotice.html](https://www.weber.com/US/en/legalnotice.html "Weber Legal Notice")
 
 Join Our Community
 ------------------
@@ -805,6 +824,15 @@ Explore
 
 © 2024 Weber. All Rights Reserved.
 
-Top
+×
 
-Country Redirect
+See what's sizzlin
+------------------
+
+### be the first to hear about new products, offers and much more!
+
+ Email Address
+
+Sign up
+
+For more about how we use your information, see our [privacy policy](https://www.weber.com/US/en/privacypolicy.html).
