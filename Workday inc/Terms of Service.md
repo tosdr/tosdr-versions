@@ -241,7 +241,7 @@ Skip to main content
                     
                 * #### [Software](https://www.workday.com/en-us/company/partners/software-partners.html "Software")
                     
-        * ### [Become a Partner](https://www.workday.com/en-us/company/partners/become-a-partner.html "Become a Partner")
+        * ### [Partner Program](https://www.workday.com/en-us/company/partners/partner-program-overview.html "Partner Program")
             
         * ### [Marketplace](https://marketplace.workday.com/ "Marketplace")
             
@@ -291,43 +291,86 @@ Skip to main content
         * ### [Newsroom](https://newsroom.workday.com/ "Newsroom")
             
     
-* * [United States (English)](https://www.workday.com/en-us/homepage.html "United States (English)")
+
+* Region & Language
     
-    * [Australia (English)](https://www.workday.com/en-au/homepage.html "Australia (English)")
-    * [Belgium (English)](https://www.workday.com/en-be/homepage.html "Belgium (English)")
-    * [Canada (English)](https://www.workday.com/en-ca/homepage.html "Canada (English)")
-    * [Canada (Français)](https://www.workday.com/fr-ca/homepage.html "Canada (Français)")
-    * [Denmark (English)](https://www.workday.com/en-se/homepage.html "Denmark (English)")
-    * [Deutschland (Deutsch)](https://www.workday.com/de-de/homepage.html "Deutschland (Deutsch)")
-    * [España (Español)](https://www.workday.com/es-es/homepage.html "España (Español)")
-    * [Finland (English)](https://www.workday.com/en-se/homepage.html "Finland (English)")
-    * [France (Français)](https://www.workday.com/fr-fr/homepage.html "France (Français)")
-    * [Hong Kong (English)](https://www.workday.com/en-hk/homepage.html "Hong Kong (English)")
-    * [Indonesia (English)](https://www.workday.com/en-sg/homepage.html "Indonesia (English)")
-    * [Ireland (English)](https://www.workday.com/en-gb/homepage.html "Ireland (English)")
-    * [Italia (Italiano)](https://www.workday.com/it-it/homepage.html "Italia (Italiano)")
-    * [日本 (日本語)](https://www.workday.com/ja-jp/homepage.html "日本 (日本語)")
-    * [대한민국 (한국어)](https://www.workday.com/ko-kr/homepage.html "대한민국 (한국어)")
-    * [Luxembourg (English)](https://www.workday.com/en-be/homepage.html "Luxembourg (English)")
-    * [Malaysia (English)](https://www.workday.com/en-sg/homepage.html "Malaysia (English)")
-    * [México (Español)](https://www.workday.com/es-mx/homepage.html "México (Español)")
-    * [Nederland (Nederlands)](https://www.workday.com/nl-nl/homepage.html "Nederland (Nederlands)")
-    * [New Zealand (English)](https://www.workday.com/en-au/homepage.html "New Zealand (English)")
-    * [Norway (English)](https://www.workday.com/en-se/homepage.html "Norway (English)")
-    * [Österreich (Deutsch)](https://www.workday.com/de-de/homepage.html "Österreich (Deutsch)")
-    * [Schweiz (Deutsch)](https://www.workday.com/de-ch/homepage.html "Schweiz (Deutsch)")
-    * [Suisse (Français)](https://www.workday.com/fr-ch/homepage.html "Suisse (Français)")
-    * [Switzerland (English)](https://www.workday.com/en-ch/homepage.html "Switzerland (English)")
-    * [Singapore (English)](https://www.workday.com/en-sg/homepage.html "Singapore (English)")
-    * [South Africa (English)](https://www.workday.com/en-za/homepage.html "South Africa (English)")
-    * [Sweden (English)](https://www.workday.com/en-se/homepage.html "Sweden (English)")
-    * [Taiwan (English)](https://www.workday.com/en-hk/homepage.html "Taiwan (English)")
-    * [台灣 (繁體中文)](https://www.workday.com/en-hk/pages/workday-for-taiwan.html "台灣 (繁體中文)")
-    * [Thailand (English)](https://www.workday.com/en-sg/homepage.html "Thailand (English)")
-    * [ประเทศไทย (ภาษาไทย)](https://www.workday.com/en-sg/pages/workday-for-thailand.html "ประเทศไทย (ภาษาไทย)")
-    * [United Kingdom (English)](https://www.workday.com/en-gb/homepage.html "United Kingdom (English)")
+    Current website:
+    
+    Region & Language
+    
+    Current website:
+    
+    * Asia-Pacific & Japan
+        * Australia
+            * [English](https://www.workday.com/en-au/homepage.html)
+        * Hong Kong
+            * [English](https://www.workday.com/en-hk/homepage.html)
+        * Indonesia
+            * [English](https://www.workday.com/en-sg/homepage.html)
+        * 日本
+            * [日本語](https://www.workday.com/ja-jp/homepage.html)
+        * 대한민국
+            * [한국어](https://www.workday.com/ko-kr/homepage.html)
+        * Malaysia
+            * [English](https://www.workday.com/en-sg/homepage.html)
+        * New Zealand
+            * [English](https://www.workday.com/en-au/homepage.html)
+        * Singapore
+            * [English](https://www.workday.com/en-sg/homepage.html)
+        * Taiwan
+            * [繁體中文](https://www.workday.com/en-hk/pages/workday-for-taiwan.html)
+            * [English](https://www.workday.com/en-hk/homepage.html)
+        * Thailand
+            * [ประเทศไทย](https://www.workday.com/en-sg/pages/workday-for-thailand.html)
+            * [English](https://www.workday.com/en-sg/homepage.html)
+    * Europe, Middle East & Africa
+        * Belgium
+            * [English](https://www.workday.com/en-be/homepage.html)
+        * Denmark
+            * [English](https://www.workday.com/en-se/homepage.html)
+        * Deutschland
+            * [Deutsch](https://www.workday.com/de-de/homepage.html)
+        * España
+            * [Español](https://www.workday.com/es-es/homepage.html)
+        * Finland
+            * [English](https://www.workday.com/en-se/homepage.html)
+        * France
+            * [Français](https://www.workday.com/fr-fr/homepage.html)
+        * Ireland
+            * [English](https://www.workday.com/en-gb/homepage.html)
+        * Italia
+            * [Italiano](https://www.workday.com/it-it/homepage.html)
+        * Luxembourg
+            * [English](https://www.workday.com/en-be/homepage.html)
+        * Nederland
+            * [Nederlands](https://www.workday.com/nl-nl/homepage.html)
+        * Norway
+            * [English](https://www.workday.com/en-se/homepage.html)
+        * Österreich
+            * [Deutsch](https://www.workday.com/de-de/homepage.html)
+        * South Africa
+            * [English](https://www.workday.com/en-za/homepage.html)
+        * Sweden
+            * [English](https://www.workday.com/en-se/homepage.html)
+        * Schweiz
+            * [Deutsch](https://www.workday.com/de-ch/homepage.html)
+            * [English](https://www.workday.com/en-ch/homepage.html)
+            * [Français](https://www.workday.com/fr-ch/homepage.html)
+        * United Kingdom
+            * [English](https://www.workday.com/en-gb/homepage.html)
+    * North America
+        * Canada
+            * [English](https://www.workday.com/en-ca/homepage.html)
+            * [Français](https://www.workday.com/fr-ca/homepage.html)
+        * México
+            * [Español](https://www.workday.com/es-mx/homepage.html)
+        * United States
+            * [English](https://www.workday.com/en-us/homepage.html)
     
 * U
+    
+    Welcome,
+    --------
     
     You have automatically signed in to workday.com with your Workday Community account.
     
@@ -369,7 +412,7 @@ Skip to main content
     * [How to Log In](https://www.workday.com/en-us/signin.html "How to Log in to Workday")
     * [Workday Careers](https://www.workday.com/en-us/company/careers/overview.html "Workday Careers")
     * [Workday Rising](https://rising.workday.com/us.html?eid=enus_evt_otrschref_wd_wd_wd_ev_22.3340&utm_medium=evt&utm_source=otrschref&productfocus=wd&aud=wd&assettype=ev&assetid=22.3340&pblr=wd&reference=wdqsrch "Workday Rising")
-    * [How Workday Supports Diversity and Inclusion](https://www.workday.com/en-us/solutions/role/enterprise-hr/diversity-inclusion-belonging-solutions.html "How Workday Supports Diversity and Inclusion")
+    * [Workday Customer Awards](https://www.workday.com/en-us/company/latest/events-webinars/customer-awards-na.html "Workday Customer Awards")
     * [Artificial Intelligence](https://www.workday.com/en-us/artificial-intelligence.html "Artificial Intelligence")
     * [Workday Demos](https://www.workday.com/en-us/resources/workday-demos.html "Workday Demos")
     * [Why Choose Workday](https://www.workday.com/en-us/why-workday.html "Why Choose Workday")
@@ -419,9 +462,9 @@ Skip to main content
 Workday Online Terms of Service
 ===============================
 
-**Last Updated: 12/7/2023**  
+**Last Updated: 8/19/2024**  
 
-These Terms of Service (“Terms”) apply to your access to and use of (a) the website located at www.workday.com and all associated web pages, websites and corresponding social media pages, (b) any web pages, websites and corresponding social media pages (including all content therein) that directly reference these Terms, (c) the Community (as defined below), and (d) the Workday APIs (as defined below) ((a)-(d) collectively,  the “Sites”) provided by Workday, Inc., its subsidiaries and affiliates (each “Workday”, “we”, “us”  or “our”).  
+These Terms of Service (“Terms”) apply to your access to and use of (a) the website located at www.workday.com and all associated web pages, websites and corresponding social media pages, (b) any web pages, websites, corresponding social media pages, materials, or other documents (including all content therein) that directly reference these Terms, (c) the Community (as defined below), and (d) the Workday APIs (as defined below) ((a)-(d) collectively,  the “Sites”) provided by Workday, Inc., its subsidiaries and affiliates (each “Workday”, “we”, “us”  or “our”).
 
 **By checking a box agreeing to these Terms or by using our Sites, you agree to these Terms, including the mandatory arbitration provision and class action waiver in Section 14. If you do not agree to these Terms, do not use our Sites.**  
 
@@ -498,7 +541,7 @@ To the fullest extent permitted by applicable law, you will indemnify, defend an
 
 **11\. Disclaimers**
 
-**Your use of our Sites is at your sole risk. Except as otherwise provided in a writing by us and to the fullest extent permitted under applicable law, our Sites and any content therein  are provided “as is” and “as available” without warranties of any kind, either express or implied. Workday disclaims all warranties with respect to the Sites and any content therein, including implied warranties of merchantability, fitness for a particular purpose, title, and non-infringement. In addition, Workday does not represent or warrant that our Sites are accurate, complete, reliable, current, free of viruses or other harmful components or content, or error-free or that access to the Sites will be uninterrupted. You assume the entire risk as to the quality and performance of the Sites.**
+YOUR USE OF OUR SITES IS AT YOUR SOLE RISK. EXCEPT AS OTHERWISE PROVIDED IN A WRITING BY US AND TO THE FULLEST EXTENT PERMITTED UNDER APPLICABLE LAW, OUR SITES AND ANY CONTENT THEREIN ARE PROVIDED “AS IS” AND “AS AVAILABLE” WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED. OUR SITES CONTAIN LINKS TO THIRD PARTY PRODUCTS AND SERVICES. YOUR NAVIGATION TO AND USE OF SUCH THIRD PARTY PRODUCTS AND SERVICES IS SOLELY GOVERNED BY YOUR AGREEMENT WITH SUCH THIRD PARTY. WORKDAY DISCLAIMS ALL WARRANTIES AND LIABILITY WITH RESPECT TO SUCH THIRD PARTY PRODUCTS AND SERVICES, INCLUDING THOSE THIRD PARTY PRODUCTS AND SERVICES THAT ARE RECOMMENDED OR CERTIFIED BY WORKDAY AND THOSE THIRD PARTY PRODUCTS AND SERVICES THAT ARE DESIGNED TO INTEROPERATE WITH WORKDAY OFFERINGS. WORKDAY DISCLAIMS ALL WARRANTIES WITH RESPECT TO THE SITES AND ANY CONTENT THEREIN, INCLUDING IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT. IN ADDITION, WORKDAY DOES NOT REPRESENT OR WARRANT THAT OUR SITES ARE ACCURATE, COMPLETE, RELIABLE, CURRENT, FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS OR CONTENT, OR ERROR-FREE OR THAT ACCESS TO THE SITES WILL BE UNINTERRUPTED. YOU ASSUME THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE SITES. 
 
 **12.  Limitation of Liability**
 
@@ -689,7 +732,11 @@ v. We do not undertake to review all User Content, and we expressly disclaim any
 
 (c)   **Confidentiality.** Workday may provide to you certain information that (a) is marked or declared “Confidential” or “Proprietary” or in some other manner to indicate its confidential nature or (b) based upon the facts and circumstances of the disclosure, is information that a reasonable person would consider confidential or proprietary (“Confidential Information”).  “Confidential Information” does not include any information that (i) was publicly available prior to the time of disclosure by Workday, (ii) becomes publicly available after disclosure by Workday to you through no action or inaction by you, (iii) is already in the lawful possession of you at the time of disclosure, (iv) is obtained by you from a third party without a breach of such third party’s obligations of confidentiality, or (v) is independently developed by you without use of or reference to Workday’s Confidential Information. You will use Workday’s Confidential Information only as necessary to use the Services provided under these Terms and will use reasonable care to protect Workday’s Confidential Information from being disclosed to persons other than, as applicable, your employees, affiliates, contractors, agents, or professional advisors who need to know it and who have a legal obligation to keep it confidential. Your disclosure of Workday’s Confidential Information pursuant to law or a judicial or administrative order will not be deemed to be a breach of this Agreement, if you (A) provide timely written notice of such disclosure requirement to Workday (if permitted to do so under applicable law), and (B) reasonably cooperate, at your expense, with Workday’s efforts to limit the scope of such disclosure.
 
-**2.  Paid Offering Terms**
+**2.  Workday Marketplace** 
+
+Workday’s certification or badging does not constitute a representation or acknowledgment by Workday that any AI Application, App, or solution on Workday Marketplace complies with any specific requirements, nor does it constitute acceptance by Workday of any responsibility or liability for the AI Application, App or solution.  It is your sole responsibility to evaluate any AI Application, App or solution to ensure they are appropriate for Your usage, including, but not limited to, all security and privacy controls.
+
+**3.  Paid Offering Terms**
 
 The following terms (the _“Paid Offerings Terms”_) are Supplemental Terms and apply solely to products or services that are made available for purchase through our Sites (_“Paid Offerings”_):
 
@@ -713,11 +760,11 @@ The following terms (the _“Paid Offerings Terms”_) are Supplemental Terms an
 
 (j)   **Reservation of Rights.** Workday reserves the right, including without prior notice, to limit the available quantity of or discontinue making available any Paid Offering; to impose conditions on the honoring of any coupon, discount or similar promotion; to bar any user from making any Transaction; alter the payment option for Paid Offerings; and to refuse to provide any user with any Paid Offering.
 
-**3\. Workday API Terms**
+**4\. Workday API Terms**
 
 If Workday makes application programming interfaces available to you on or through the Sites (the “Workday APIs”), you may not use any Workday APIs without authorization under a separate agreement with Workday (the “Workday API Terms”). 
 
-**4\. Global Addendum**
+**5\. Global Addendum**
 
 If you are in a country that provides consumer guarantees or imposes obligations on us which cannot be excluded, restricted or modified by applicable law, or may be so only to a limited extent, then nothing in the Terms is intended to exclude, restrict or modify such mandatory guarantees or obligations. Without limiting the foregoing, if you are in a country where any provision of these Terms are illegal or unenforceable, or unlawful for any reason, including but not limited to by statute or because such provision is found to be unconscionable, (i) the unenforceable or unlawful provision will be severed from these Terms; (ii) severance of the unenforceable or unlawful provision will have no impact whatsoever on the remainder of these Terms.
 
