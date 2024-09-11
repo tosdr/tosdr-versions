@@ -149,7 +149,7 @@ cancel
     
     [eBooks
     
-    Comprehensive resources and subject-matter expertise on education, technology, and more.](https://www.turnitin.com/resources/ebooks/)
+    Comprehensive resources and subject-matter expertise on education, technology, and more.](https://www.turnitin.com/ebooks/)
     
     [Infographics
     
@@ -307,24 +307,24 @@ In addition to reviewing this Privacy Policy, please also review our [Website Te
 Table of Contents
 -----------------
 
-* Personal Information We Collect
-* Children's Privacy
-* Usage Information and Cookies
-* Third Party Cookies and Tracking
-* How We Use and Disclose Your Personal Information
-* How You May Modify Your Personal Information
-* Third Parties
-* Links
-* Turnitin Educator Network
-* Security
-* Data Retention
-* Opt-Out Policy
-* Notices For California and Other US State Residents
-* Additional Information for Users from the European Economic Area (EEA), Switzerland, and the UK
-* EU-US Data Privacy Framework Certification
-* Additional Data Rights
-* Updates to This Policy
-* Contact
+1. Personal Information We Collect
+2. Children's Privacy
+3. Usage Information and Cookies
+4. Third Party Cookies and Tracking
+5. How We Use and Disclose Your Personal Information
+6. How You May Modify Your Personal Information
+7. Third Parties
+8. Links
+9. Turnitin Educator Network
+10. Security
+11. Data Retention
+12. Opt-Out Policy
+13. Notices For California and Other US State Residents
+14. Additional Information for Users from the European Economic Area (EEA), Switzerland, and the UK
+15. EU-US Data Privacy Framework Certification
+16. Additional Data Rights
+17. Updates to This Policy
+18. Contact
 
 Personal Information We Collect
 -------------------------------
@@ -342,9 +342,9 @@ When you access our Websites, our servers automatically collect the Internet Pro
 
 To collect this information, we use the following technologies:  
 
-* Cookies. A cookie is a small data file sent by a website and stored on the computer or device at the request of that website. Cookies store information related to a user's browser to enable us to recognize the browser on return visits to our Websites and to remember your preferences.
-* Pixel tags. A pixel tag (also referred to as a “clear gif” or “web beacon”) allows us to track the online usage patterns of the Websites and to understand which links are clicked. When we send you emails that you have opted into, pixel tags also allow us to track which emails are opened. This information is used to help us improve the Websites.
-* HTML5 Storage. HTML5 storage or local storage allows us to distinguish your device from others and to remember information that might be important for the functioning of the Websites, such as to remember your location preference or your logged in state. Typically, HTML5 storage is only deleted if all Internet history, cache, and cookies are deleted. Check your browser controls for information on how to delete your HTML5 storage.
+1. Cookies. A cookie is a small data file sent by a website and stored on the computer or device at the request of that website. Cookies store information related to a user's browser to enable us to recognize the browser on return visits to our Websites and to remember your preferences.
+2. Pixel tags. A pixel tag (also referred to as a “clear gif” or “web beacon”) allows us to track the online usage patterns of the Websites and to understand which links are clicked. When we send you emails that you have opted into, pixel tags also allow us to track which emails are opened. This information is used to help us improve the Websites.
+3. HTML5 Storage. HTML5 storage or local storage allows us to distinguish your device from others and to remember information that might be important for the functioning of the Websites, such as to remember your location preference or your logged in state. Typically, HTML5 storage is only deleted if all Internet history, cache, and cookies are deleted. Check your browser controls for information on how to delete your HTML5 storage.
 
 Third Party Cookies and Tracking
 
@@ -364,21 +364,21 @@ How We Use and Disclose Your Personal Information
 
 We do not access or disclose your Personal Information except as noted at the time that we request it, when you choose to share your information in our Educator Network, or as listed below.  
 
-* **To administer our Websites:** to maintain and administer our Websites and the Educator Network accounts, to ensure service quality, and to protect the security of our Websites, including via support, services and security provided by our third party providers.
-* **To communicate with you:** including to respond to your requests, resolve a support issue, notify you about changes to the Websites, and to otherwise communicate with you and solicit feedback on your product experience.
-* **To generate and manage log-in credentials:** to create the Educator Network account, provide login credentials, and authenticate members of the Educator Network.
-* **In the event of a reorganization, merger, sale, assignment, bankruptcy, or similar business change:** we may need to transfer your Personal Information to that re-organized entity or new owner after the sale or reorganization for them to use in accordance with this Privacy Policy.
+1. **To administer our Websites:** to maintain and administer our Websites and the Educator Network accounts, to ensure service quality, and to protect the security of our Websites, including via support, services and security provided by our third party providers.
+2. **To communicate with you:** including to respond to your requests, resolve a support issue, notify you about changes to the Websites, and to otherwise communicate with you and solicit feedback on your product experience.
+3. **To generate and manage log-in credentials:** to create the Educator Network account, provide login credentials, and authenticate members of the Educator Network.
+4. **In the event of a reorganization, merger, sale, assignment, bankruptcy, or similar business change:** we may need to transfer your Personal Information to that re-organized entity or new owner after the sale or reorganization for them to use in accordance with this Privacy Policy.
 
   
 Our legal basis for these practices, where required by applicable law, is the fulfillment of our legitimate interests as processing this Personal Information is necessary for us to provide you with access to our Websites, to communicate with you about issues related to the Websites, and to change or operate our business. These activities are reasonably expected by you and do not unduly and negatively affect your privacy rights, and enable us to perform our contracted-for obligations and provide you with access to our Services.  
 
-* **In relation to a known or suspected violation of our terms of use, fraud prevention or other unlawful use:** including to share Personal Information with entities assisting us in investigation and as may be required by applicable law.
-* **In connection with legal or regulatory obligations:** We may use and disclose your Personal Information as necessary to protect our rights or the rights and safety of our users, or as necessary in the event of a court order, regulatory inquiry or other lawful request. Provided, however, that unless legally prohibited, we will direct any such request to you or notify you before responding unless to do so would prejudice the prevention or detection of a crime.
+1. **In relation to a known or suspected violation of our terms of use, fraud prevention or other unlawful use:** including to share Personal Information with entities assisting us in investigation and as may be required by applicable law.
+2. **In connection with legal or regulatory obligations:** We may use and disclose your Personal Information as necessary to protect our rights or the rights and safety of our users, or as necessary in the event of a court order, regulatory inquiry or other lawful request. Provided, however, that unless legally prohibited, we will direct any such request to you or notify you before responding unless to do so would prejudice the prevention or detection of a crime.
 
   
 Our legal bases for these practices, where required by applicable law, are to fulfill our legal obligations such as to allow us to ensure the legality of our Websites; and legitimate interests, because processing this Personal Information is necessary to the provision of our Services, and to protect our legal rights, these activities are reasonably expected by you and these activities do not unduly and negatively affect your privacy rights.  
 
-* **To provide you with marketing materials:** to provide you with updates, and offers about our products. At any time, you may unsubscribe or opt-out of further communication on any electronic marketing communication by using the link labeled “unsubscribe” available in each email communication or by contacting us at [tiisupport@turnitin.com](mailto:tiisupport@turnitin.com).
+1. **To provide you with marketing materials:** to provide you with updates, and offers about our products. At any time, you may unsubscribe or opt-out of further communication on any electronic marketing communication by using the link labeled “unsubscribe” available in each email communication or by contacting us at [tiisupport@turnitin.com](mailto:tiisupport@turnitin.com).
 
 Our legal basis for these practices, where required by applicable law, is your consent where such consent is required.
 
@@ -437,9 +437,9 @@ To Exercise Your Rights
 
 To exercise the rights described above, please go [here](https://go.turnitin.com/l/45292/2019-12-20/bkr198 "Exercise your rights | Turnitin") or contact us using the information below. Should you have any questions or concerns regarding your privacy rights or this privacy policy, you may contact us using the contact information below.  
 
-* 2101 Webster St, Ste 1900 Oakland CA. 94612 USA
-* [tiisupport@turnitin.com](mailto:tiisupport@turnitin.com)
-* +1 866 816 5046 x241
+1. 2101 Webster St, Ste 1900 Oakland CA. 94612 USA
+2. [tiisupport@turnitin.com](mailto:tiisupport@turnitin.com)
+3. +1 866 816 5046 x241
 
 Please note that your exercise of the above rights is subject to certain exemptions to safeguard the public interest (e.g., the prevention or detection of crime) and our interests (e.g., the maintenance of legal privilege). We will try to comply with your request as soon as reasonably practicable. Requests to exercise these rights may be granted in whole, in part, or not at all, depending on the scope and nature of the request and applicable law. Where required by applicable law, we will notify you if we reject your request and notify you of any reasons we are unable to honor your request.
 
@@ -557,7 +557,6 @@ Our Data Protection Officer may be reached at [DPO@Turnitin.com](mailto:DPO@Turn
 * [Resources Hub](https://www.turnitin.com/resources/ "Resources Hub")
 * [Blog](https://www.turnitin.com/blog/ "Blog")
 * [Instructional Resources](https://www.turnitin.com/instructional-resources/ "Instructional Resources")
-* [Events](https://www.turnitin.com/events/ "Events")
 * [Turnitin Educator Network](https://turnitin.forumbee.com/ "Turnitin Educator Network")
 * [Support Center](https://helpcenter.turnitin.com/ "Support Center")
 
