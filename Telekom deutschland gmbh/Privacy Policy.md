@@ -92,15 +92,15 @@
         * [Sender](https://www.telekom.de/magenta-tv/inhalte/sender "Sender")
         * [Serien & Filme bei MagentaTV+](https://www.telekom.de/unterhaltung/serien-und-filme "Serien & Filme bei MagentaTV+")
         * [Sport](https://www.telekom.de/sport "Sport")
-        * [Fußball-EM 2024](https://www.telekom.de/sport/magenta-tv-fussball "Fußball-EM 2024")
     *   ![Inhalte](https://www.telekom.de/resources/images/974652/tv-inhalte.svg)![Inhalte](https://www.telekom.de/resources/images/974652/tv-inhalte.svg) Entertainment ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)  
         * [Streaming-Dienste](https://www.telekom.de/magenta-tv/inhalte/streaming-dienste-partner "Streaming-Dienste")
-        * [Netflix](https://www.telekom.de/magenta-tv/inhalte/netflix "Netflix")
         * [Disney+](https://www.telekom.de/magenta-tv/inhalte/disney-plus "Disney+")
+        * [Netflix](https://www.telekom.de/magenta-tv/inhalte/netflix "Netflix")
         * [RTL+](https://www.telekom.de/magenta-tv/inhalte/rtl-plus "RTL+")
-        * [WOW](https://www.telekom.de/magenta-tv/inhalte/streaming-dienste-partner/wow "WOW")
+        * [Apple TV+](https://www.telekom.de/magenta-tv/inhalte/apple-tv-plus "Apple TV+")
         * [DAZN](https://www.telekom.de/magenta-tv/inhalte/streaming-dienste-partner/dazn "DAZN")
         * [Paramount+](https://www.telekom.de/magenta-tv/inhalte/paramount-plus "Paramount+")
+        * [WOW](https://www.telekom.de/magenta-tv/inhalte/streaming-dienste-partner/wow "WOW")
     *   ![Geräte](https://www.telekom.de/resources/images/974650/tv-geraete.svg)![Geräte](https://www.telekom.de/resources/images/974650/tv-geraete.svg) Geräte ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)  
         * [MagentaTV One](https://www.telekom.de/magenta-tv/geraete/magenta-tv-one "MagentaTV One")
         * [MagentaTV Stick](https://www.telekom.de/magenta-tv/tarife-und-optionen/magenta-tv-mit-stick "MagentaTV Stick")
@@ -213,19 +213,18 @@
     
 *    ![Login](https://www.telekom.de/resources/images/1080220/login.svg) ![Eingeloggt](https://www.telekom.de/resources/images/693214/login-notification.svg)![Login](https://www.telekom.de/resources/images/1080222/login-hover.svg) ![Eingeloggt](https://www.telekom.de/resources/images/693214/login-notification.svg)
     
-    * ![MagentaApp](https://www.telekom.de/resources/images/1099720/magentaapp2.jpg "MagentaApp")
+    * **MeinMagenta App entdecken**
         
-        MeinMagenta App entdecken
+        **[Zur App und Vorteile sichern!](https://oneapptelekomde.page.link/meinmagenta_navitelekomlogin_w)**
         
-        [Zur App und Vorteile sichern!](https://oneapptelekomde.page.link/meinmagenta_navitelekomlogin_w)
+        ![MagentaApp](https://www.telekom.de/resources/images/1099720/magentaapp2.jpg "MagentaApp")
         
     * [](https://oneapptelekomde.page.link/meinmagenta_navitelekomlogin_w)
     
-    * [Verträge verwalten](https://www.telekom.de/mein-kundencenter?wt_mc=ii_sososoxx_navi-login-vertraege-verwalten)
-    * [Rechnungen einsehen](https://www.telekom.de/mein-kundencenter/rechnung-zahlung?wt_mc=ii_sososoxx_navi-login-rechnungen-einsehen)
-    * [Persönliche Daten bearbeiten](https://www.telekom.de/kundencenter/persoenliche-daten?wt_mc=ii_sososoxx_navi-login-persoenliche-daten-bearbeiten)
-    * [E-Mail](https://www.telekom.de/e-mail/e-mail-center)
-    * [MagentaCloud](https://www.magentacloud.de/)
+    * **[Mein Kundencenter](https://www.telekom.de/mein-kundencenter?wt_mc=ii_sososoxx_navi-login-mein-kundencente "Mein Kundencenter")**
+        
+        [Verträge verwalten](https://www.telekom.de/mein-kundencenter?wt_mc=ii_sososoxx_navi-login-vertraege-verwalten) [Rechnungen einsehen](https://www.telekom.de/mein-kundencenter?wt_mc=ii_sososoxx_navi-login-rechnungen-einsehen) [Persönliche Daten bearbeiten](https://www.telekom.de/mein-kundencenter?wt_mc=ii_sososoxx_navi-login-persoenliche-daten-bearbeiten) [E-Mail](https://www.telekom.de/e-mail/e-mail-center) [MagentaCloud](https://www.magentacloud.de/)
+        
     
     Kundencenter
     
@@ -467,8 +466,6 @@
                 
             * [Sport](https://www.telekom.de/sport)
                 
-            * [Fußball-EM 2024](https://www.telekom.de/sport/magenta-tv-fussball)
-                
             
         *  ![Inhalte](https://www.telekom.de/resources/images/974652/tv-inhalte.svg)Entertainment ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)
             
@@ -478,17 +475,19 @@
                 
             * [Streaming-Dienste](https://www.telekom.de/magenta-tv/inhalte/streaming-dienste-partner)
                 
-            * [Netflix](https://www.telekom.de/magenta-tv/inhalte/netflix)
-                
             * [Disney+](https://www.telekom.de/magenta-tv/inhalte/disney-plus)
+                
+            * [Netflix](https://www.telekom.de/magenta-tv/inhalte/netflix)
                 
             * [RTL+](https://www.telekom.de/magenta-tv/inhalte/rtl-plus)
                 
-            * [WOW](https://www.telekom.de/magenta-tv/inhalte/streaming-dienste-partner/wow)
+            * [Apple TV+](https://www.telekom.de/magenta-tv/inhalte/apple-tv-plus)
                 
             * [DAZN](https://www.telekom.de/magenta-tv/inhalte/streaming-dienste-partner/dazn)
                 
             * [Paramount+](https://www.telekom.de/magenta-tv/inhalte/paramount-plus)
+                
+            * [WOW](https://www.telekom.de/magenta-tv/inhalte/streaming-dienste-partner/wow)
                 
             
         *  ![Geräte](https://www.telekom.de/resources/images/974650/tv-geraete.svg)Geräte ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)
