@@ -68,8 +68,9 @@ _Here you can find which cookies exactly are used for what purpose._
 | **Magic.Veriff** | Necessary | **Used on the Website and in Veriff Station.**<br><br>This cookie enables tracking camera and microphone permissions in the product. | Up to 6 months | Veriff |
 | **Magic.Veriff - cacheID** | Necessary | **Used in Service Flow.**<br><br>This cookie contains encoded data to identify a session, but it does not use any user information. | Up to 1 year | Veriff |
 | **Intercom** | Necessary | **Used on the Website.**<br><br>This cookie supports the technical functionality of our email and web chat platform. | Up to 1 year | Intercom |
+| **UI Preference Manager in Station** | Necessary | **Used in Veriff Station.**<br><br>These cookies are used to store Station user preferences regarding their user interface setup, for example remembering choices about showing/hiding information blocks. | 6 months | Veriff |
 | **Google Analytics** | Performance and Advertisement | **Used on the Website and in Veriff Station.**<br><br>This cookie helps us to track website activity such as session duration, pages per session, bounce rate etc. of individuals using the site, along with information regarding the source of the traffic.<br><br>Subject to the scope of the visitor’s consent and/or opt-out choices, the data may also be used for Veriff’s marketing purposes. | Up to 2 years | Google |
-| **Amplitude** | Performance and Advertisement | **Used on the Website and in Veriff Station.**<br><br>This cookie helps us to gain a better understanding of how users interact with the Website and Veriff Station. It registers statistical data on users’ behavior on the websites. Used for internal analytics by Veriff. For example, we track website activity, such as clicks on links, form submissions and page navigation.<br><br>Subject to the scope of the visitor’s consent and/or opt-out choices, the Amplitude events data may be shared with Veriff’s marketing partners, such as Google Ads. | 1 year | Amplitude |
+| **Amplitude** | Performance | **Used on the Website and in Veriff Station.**<br><br>This cookie helps us to gain a better understanding of how users interact with the Website and Veriff Station. It registers statistical data on users’ behavior on the websites. Used for internal analytics by Veriff. For example, we track website activity, such as clicks on links, form submissions and page navigation. | 1 year | Amplitude |
 | **VWO** | Performance | **Used on the Website.**<br><br>This cookie helps us test our Website functions. VWO (Visual Website Optimizer) is a leading A/B testing and optimization platform enabling website function testing. | Up to 2 years | VWO |
 | **Hotjar** | Performance | **Used on the Website and in Veriff Station.**<br><br>The cookie allows us to gain a better understanding of how visitors interact with the Website and identify issues that visitors run into when browsing the Website. This is essentially necessary to be able to identify whether the Website or Service design is functioning or has run into any errors. | Up to 1 year | Hotjar |
 | **Hubspot** | Advertisement | **Used in Veriff Station.**<br><br>The cookie helps Veriff to gain a better understanding of how the users interact with our Services, including during the on-boarding process. | Up to 6 months | Hubspot |
@@ -113,7 +114,7 @@ _Here you can find information about changes made to the Cookie Notice._
 5.2 Kindly note that we may modify the Cookie Notice from time to time. You are advised to review our Cookie Notice periodically. The modified Notice will be uploaded to our Website.
 
 * _Valid from: June 3, 2020_
-* _Last update: May 28, 2024_
+* _Last update: August 12, 2024_
 
 ![Veriff logo](https://veriff.cdn.prismic.io/veriff/df61698d-814b-4926-93be-08c7fce84c72_logo.svg)
 
