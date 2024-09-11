@@ -1,4 +1,4 @@
-![](https://www.facebook.com/tr?id=434188952727028&ev=PageView&noscript=1)  
+![](https://www.facebook.com/tr?id=434188952727028&ev=PageView&noscript=1)     
 
 [![Modal icon](https://taimi.com/themes/taimi2/assets/images/banner-en.jpeg)](https://app.adjust.com/goc7ths?campaign=https://taimi.com/billing_page(id%20129))
 
@@ -20,9 +20,7 @@ Download for free:
 TAIMI Paid Service Terms and Conditions
 =======================================
 
-**Effective Date: January 04, 2023**
-
-  
+**Effective Date: July 30, 2024**
 
 Taimi Paid Service Terms and Conditions constitute an integral part of the Taimi [Terms of Service](https://taimi.com/terms) and supplement them as provided below.
 
@@ -79,7 +77,7 @@ Your subscription will remain active until you cancel it on Taimi or the App Sto
 
 If you purchased a Taimi Premium subscription through a Third Party account, you will need to cancel your subscription through that Third Party and in line with that Third Party’s terms and conditions. See in details below.
 
-If you purchased a subscription through App Store (IOS users)
+**If you purchased a subscription through App Store (IOS users)**
 
 1. Open your Taimi app;
     
@@ -98,7 +96,7 @@ If you purchased a subscription through App Store (IOS users)
 
 Detailed instructions on the management (cancellation) of subscriptions can be also found on [Apple Support Page](https://support.apple.com/en-ca/HT202039).
 
-If you purchased a subscription through Google Play (Android users)
+**If you purchased a subscription through Google Play (Android users)**
 
 1. Open your Taimi app;
     
@@ -117,11 +115,11 @@ If you purchased a subscription through Google Play (Android users)
 
 Detailed instructions on the management (cancellation) of subscriptions can be also found on [Google Play Help](https://support.google.com/googleplay/answer/7018481?hl=en&sjid=10289217745202477108-EU).
 
-If you purchased a subscription on our website
+**If you purchased a subscription on our website**
 
 This subscription can only be canceled with the Taimi Support team’s help. Please send an email to [support@taimi.com](mailto:support@taimi.com).  
 
-For more information check our [Terms of Use](https://hily.com/terms-of-use/). 
+For more information check our [Terms of Use](https://taimi.com/terms/). 
 
 4. CONSUMABLE PREMIUM FEATURES
     
@@ -160,6 +158,23 @@ Taimi reserves the right to modify the Licensed Content at its sole discretion. 
 
 You are prohibited to execute or solicit in: (a) exchange of Licensed Content for money, donation or any other value; (b) request of money, donation or any other value for the Licensed Content; (c) providing of or request of any items, including without limitation, merchandise, services, including, without limitation, commercial dating, favors, private conversation, etc. that any person can associate with any monetary value in exchange of the Licensed Content.
 
+6. DATE CERTIFICATES
+    
+
+**Date Certificates:** From time to time, we may offer the opportunity to purchase Date Certificates through our Taimi app. Each certificate can be exchanged for a specific activity of your choice from our proposed options.
+
+**Payment and Purchase:** Date Certificates can only be purchased within the app. Follow the in-app instructions to complete your purchase.
+
+**Non-Transferable:** Date Certificates are non-transferable and cannot be resold, transferred, or exchanged for cash or any other value.
+
+**Refunds:** Date Certificates are refundable within 14 days of purchase if they have not been redeemed. Refunds will be issued to the original purchaser. To request a refund, please contact our support team via [support@taimi.com](mailto:support@taimi.com).
+
+**Cancellation:** Once booking confirmation is received, cancellations are not permitted. Failure to appear on the booked date will result in the forfeiture of the service without any refund.
+
+**Validity and Expiry:** Date Certificates must be redeemed within the specified validity period, if any. Expired certificates will not be honored or refunded.
+
+**User Responsibility:** It is the responsibility of the certificate holder to book the selected activity and ensure they attend the scheduled event. Any changes to the booking must comply with the terms provided at the time of booking. Taimi shall not be responsible for the loss or damage of any Date Certificate.
+
 All personal data is handled under the terms and conditions of Taimi’s Privacy Policy. More details can be found here: [https://taimi.com/privacy-policy](https://taimi.com/privacy-policy).
 
 Additional information about Terms of Service of the application, including detailed terms of subscription, can be found here: [https://taimi.com/terms](https://taimi.com/terms).
@@ -174,7 +189,7 @@ If you have any questions regarding subscription, please, contact our customer s
 
 En
 
- English Portuguesa Français Nederlands Deutsch Italiano Español
+En Pt Fr Nl De Es It
 
  [![Facebook](https://taimi.com/themes/taimi2/assets/images/foot_fb.svg)](https://www.facebook.com/taimiapp)[![Twitter](https://taimi.com/themes/taimi2/assets/images/foot_tw.svg)](https://twitter.com/taimiapp)[![Instagram](https://taimi.com/themes/taimi2/assets/images/foot_in.svg)](https://www.instagram.com/taimiapp)[![Tik-Tok](https://taimi.com/themes/taimi2/assets/images/foot_tt.svg)](https://www.tiktok.com/@taimiapp)
 
@@ -201,7 +216,7 @@ Legal
 
 En
 
- English Portuguesa Français Nederlands Deutsch Italiano Español
+En Pt Fr Nl De Es It
 
 Dating
 
@@ -222,5 +237,7 @@ Chat
 * [Transgender chat](https://taimi.com/transgender-chat)
 
 ![adjust](https://view.adjust.com/impression/goc7ths?campaign=http://taimi.com/billing)
+
+![Logo](https://taimi.com/themes/taimi2/assets/images/logo.svg): fluidity, discovery, diversity
 
 [Get Taimi App for Free](https://app.adjust.com/goc7ths?campaign=https://taimi.com/billing_page(id%20129))
