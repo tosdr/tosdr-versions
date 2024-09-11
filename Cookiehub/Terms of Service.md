@@ -246,14 +246,3 @@ Sign up today and create a custom cookie banner for your website
 * [Try 30 days for free](https://www.cookiehub.com/register?product_id=29)
 
 [](https://www.cookiehub.com/)
-
-#### Sales & Support
-
-* [Contact Sales](https://www.cookiehub.com/contact-us)
-* [Getting Started](https://docs.cookiehub.com/getting-started)
-* [Installation Instructions](https://docs.cookiehub.com/installation)
-* [Content Management Systems](https://docs.cookiehub.com/installation/content-management-systems)
-* [Troubleshooting Guide](https://docs.cookiehub.com/installation/troubleshooting)
-* [Contact Support](https://docs.cookiehub.com/getting-started/support)
-
-[](#)
