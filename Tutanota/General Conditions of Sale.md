@@ -1,22 +1,18 @@
-Tuta a un tout nouveau logo. Pour en savoir plus [here](https://tutanota.com/fr/blog/new-logo-announcement).
+[](https://tutanota.com/fr "Tuta")
 
-[](https://tutanota.com/fr/ "Tutanota")
+[Se connecter](https://app.tuta.com/ "Mail. Done. Right. Login to Tuta") [S'inscrire](https://app.tuta.com/?r=/signup#subscription)
 
-[TARIFS](https://tutanota.com/fr/pricing)[ENTREPRISE](https://tutanota.com/fr/business)
+Products
 
-POURQUOI TUTA
+[Tuta Mail](https://tutanota.com/fr/secure-email)[Tuta Calendar](https://tutanota.com/fr/calendar)
 
-[POURQUOI TUTA](https://tutanota.com/fr/why-tutanota)[ÉQUIPE](https://tutanota.com/fr/team)[COMPARAISON D'EMAILS](https://tutanota.com/fr/email-comparison)[CHIFFREMENT](https://tutanota.com/fr/encryption)[SÉCURITÉ](https://tutanota.com/fr/security)[OPEN-SOURCE](https://tutanota.com/fr/open-source)[DURABILITÉ](https://tutanota.com/fr/sustainability)[COMMUNAUTÉ](https://tutanota.com/fr/community)
+[Tarifs](https://tutanota.com/fr/pricing) [Entreprise](https://tutanota.com/fr/business) Pourquoi Tuta
 
-RESSOURCES
+[Sécurité](https://tutanota.com/fr/security) [Guide sur la confidentialité](https://tutanota.com/fr/privacy) [Durabilité](https://tutanota.com/fr/sustainability) [Chiffrement](https://tutanota.com/fr/encryption) [Équipe](https://tutanota.com/fr/team) [Open-source](https://tutanota.com/fr/open-source) [Communauté](https://tutanota.com/fr/community) [Comparaison d'emails](https://tutanota.com/fr/email-comparison)
 
-[BLOG](https://tutanota.com/fr/blog-posts)[NOUVELLES DE TUTA](https://tutanota.com/fr/news)[NOUVELS DE CRYPTOGRAPHIE](https://tutanota.com/fr/privacy-news)[GUIDES](https://tutanota.com/fr/guides)[CHANGELOG](https://tutanota.com/fr/changelog)[GUIDE SUR LA CONFIDENTIALITÉ](https://tutanota.com/fr/privacy)[TÉLÉCHARGER TUTA](https://tutanota.com/fr/#download)
+[Blog](https://tutanota.com/fr/blog) [Recrutement](https://tutanota.com/jobs) [Support](https://tutanota.com/fr/support)
 
-[SUPPORT](https://tutanota.com/fr/support)[RECRUTEMENT](https://tutanota.com/fr/jobs)
-
-[S'INSCRIRE](https://app.tuta.com/?r=/signup#subscription "Mail. Done. Right. Sign up to Tuta")
-
-![](/resources/images/background/monitor-men-agreement-stock.jpg)
+[Se connecter](https://app.tuta.com/ "Mail. Done. Right. Login to Tuta") [S'inscrire](https://app.tuta.com/?r=/signup#subscription)
 
 Conditions Générales
 ====================
@@ -29,19 +25,17 @@ Paragraphes, paragraphes, paragraphes...
 
 These General Terms and Conditions are valid for new customers as of now and for existing customers as of April 1st, 2022.
 
-_The previous version of these Terms and Conditions can be found [here](https://tutanota.com/terms-outdated)._
-
 _These General Terms and Conditions are provided in English for your convenience. Please note that in case of a dispute or discrepancy between the German Terms and Conditions and the English translation, the [German version](https://tuta.com/de/terms?stickyLang=true) shall prevail._
 
 #### 1\. General, scope
 
-1.1 The Tutao GmbH Address: Deisterstr. 17a, 30449 Hanover, e-mail: [hello@tutao.de](mailto:hello@tutao.de), phone: +49 511 202801-0 (hereafter Tutao) provides all deliveries and services solely on the basis of these Terms and Conditions. Separate Terms and Conditions apply for the purchase of gift cards, which can be found [here](https://tutanota.com/giftCardsTerms).
+1.1 The Tutao GmbH Address: Deisterstr. 17a, 30449 Hanover, e-mail: [hello@tutao.de](mailto:hello@tutao.de), phone: +49 511 202801-0 (hereafter Tutao) provides all deliveries and services solely on the basis of these Terms and Conditions. Separate Terms and Conditions apply for the purchase of gift cards, which can be found [here](https://tutanota.com/fr/gift-cards-terms).
 
 1.2 These Terms and Conditions apply to customers according to § 14 BGB (German Civil Code) (hereafter business customers) as well as to consumers according to § 13 BGB (German Civil Code) ( hereafter private customers). A consumer is any natural person entering into a legal transaction for a purpose that cannot be attributed to their commercial or to their independent vocational activity.
 
 1.3 For business users these Terms and Conditions are valid for all future business with Tutao.
 
-1.4 Terms and Conditions of the business user that differ from Tutao's Terms and Conditions completely or in parts are not recognized, unless Tutao accepts them with a written statement. The Terms and Conditions of Tutao also apply exclusively if Tutao unconditionally renders a service in the knowledge of conflicting Terms and Conditions of the customer.
+1.4 Terms and Conditions of the business user that differ from Tutao’s Terms and Conditions completely or in parts are not recognized, unless Tutao accepts them with a written statement. The Terms and Conditions of Tutao also apply exclusively if Tutao unconditionally renders a service in the knowledge of conflicting Terms and Conditions of the customer.
 
 #### 2\. Conclusion of contract
 
@@ -137,7 +131,7 @@ _Delete as applicable._
 
 4.2 If in the respective service description of the selected tariff a certain amount of storage space is defined, this applies to the entire available storage space according to the service description and is used, among other things, for the storage of metadata (file history, etc.).
 
-4.3 Tutao retains the right to extend services and make improvements if they are pertinent to technical progress, necessary to prevent abuse, or if required to do so by law. With the consent of the customer, Tutao can make other changes to the content of the contract, including these Terms and Conditions. If such an alteration to the content of the contract or these Terms and Conditions does not contain a reduction of a principal contractual service offered by Tutao or an increase in price or any other more than insignificant change in the mutual contractual rights and responsibilities, the following shall apply: In the event of such an alteration, the customer's consent to the alteration of the contract or the T&Cs shall be considered to be granted if the customer receives the wording of the alteration in text form alongside the notification of the alteration and the customer does not object to the alteration within one month after receipt of the notification of the alteration sent to the customer by Tutao. Tutao shall inform the customer in the course of the alteration notification of the right to object and the consequences of non-objection. After the receipt of the notification of the alteration the customer is further entitled to cancel the contract within an opposition period of one month, without meeting a period of notice, through a statement in the customer's account or another declaration of notice in text form towards Tutao.
+4.3 Tutao retains the right to extend services and make improvements if they are pertinent to technical progress, necessary to prevent abuse, or if required to do so by law. With the consent of the customer, Tutao can make other changes to the content of the contract, including these Terms and Conditions. If such an alteration to the content of the contract or these Terms and Conditions does not contain a reduction of a principal contractual service offered by Tutao or an increase in price or any other more than insignificant change in the mutual contractual rights and responsibilities, the following shall apply: In the event of such an alteration, the customer’s consent to the alteration of the contract or the T&Cs shall be considered to be granted if the customer receives the wording of the alteration in text form alongside the notification of the alteration and the customer does not object to the alteration within one month after receipt of the notification of the alteration sent to the customer by Tutao. Tutao shall inform the customer in the course of the alteration notification of the right to object and the consequences of non-objection. After the receipt of the notification of the alteration the customer is further entitled to cancel the contract within an opposition period of one month, without meeting a period of notice, through a statement in the customer’s account or another declaration of notice in text form towards Tutao.
 
 4.4 Voluntary and unpaid services and benefits of Tutao which explicitly are described as such and are not part of the service description can be cancelled by Tutao at any time. Upon alterations and cancellation of free services Tutao will take into account the legitimate interests of the customers.
 
@@ -165,9 +159,9 @@ Contracts with companies with a fixed term of one or up to 12 months may be term
 
 5.3 The termination of additional options, particularly additional accounts or storage space, of the respective tariff leaves the general contract unaffected.
 
-5.4 The extraordinary termination shall be effective only in textual form. The ordinary termination by the customer is carried out through a statement in the customer's account or another declaration of notice in textual form towards Tutao.
+5.4 The extraordinary termination shall be effective only in textual form. The ordinary termination by the customer is carried out through a statement in the customer’s account or another declaration of notice in textual form towards Tutao.
 
-5.5 After termination of the contract, Tutao is no longer obligated to provide the contractual services. The timely storage and backup of the data, is the customer's responsibility.
+5.5 After termination of the contract, Tutao is no longer obligated to provide the contractual services. The timely storage and backup of the data, is the customer’s responsibility.
 
 5.6. Tutao is entitled to terminate the contract without notice in case of a free of charge tariff if the account was not used for at least six months.
 
@@ -243,7 +237,7 @@ Tutao grants the customer for the duration of the contract, a simple, non-transf
 
 #### 13\. Privacy
 
-If provided by the customer, Tutao collects, processes and uses personal data of the customer. For more information on data processing and data protection see the [Data Privacy Statement of Tutao](https://tutanota.com/privacy-policy).
+If provided by the customer, Tutao collects, processes and uses personal data of the customer. For more information on data processing and data protection see the [Data Privacy Statement of Tutao](https://tutanota.com/fr/privacy-policy).
 
 #### 14\. Charging, withholding
 
@@ -257,26 +251,24 @@ Those customers who are not consumers can only charge up against outstanding deb
 
 15.3 The validity of the United Nations Convention on Contracts for the International Sale of Goods (CISG) is excluded, even in cross-border deliveries.
 
-[Résilier l'abonnement](https://app.tuta.com/?r=/termination)
+[](https://www.facebook.com/tutaprivacy "Facebook")   [](https://twitter.com/TutaPrivacy "Twitter")   [](https://www.reddit.com/r/tutanota/ "Reddit")  [](https://mastodon.social/@Tutanota "Mastodon")
 
-[](https://www.facebook.com/tutaprivacy "Facebook")[](https://twitter.com/TutaPrivacy "Twitter")[](https://www.reddit.com/r/tutanota/ "Reddit")[](https://mastodon.social/@Tutanota "Mastodon")
+Products
+
+[Tuta Mail](https://tutanota.com/fr/secure-email) [Tuta Calendar](https://tutanota.com/fr/calendar)
 
 Entreprise
 
-[Communauté](https://tutanota.com/fr/community)[Équipe](https://tutanota.com/fr/team)[Recrutement](https://tutanota.com/fr/jobs)[CGV](https://tutanota.com/fr/terms)[Confidentialité](https://tutanota.com/fr/privacy-policy)[Mentions légales](https://tutanota.com/fr/imprint)
+[Communauté](https://tutanota.com/fr/community) [Équipe](https://tutanota.com/fr/team) [Recrutement](https://tutanota.com/jobs) [CGV](https://tutanota.com/terms) [Confidentialité](https://tutanota.com/privacy-policy) [Mentions légales](https://tutanota.com/imprint)
 
 Développement
 
-[Changelog](https://tutanota.com/fr/changelog)[Planning](https://tutanota.com/fr/roadmap)[Sécurité](https://tutanota.com/fr/security)[Chiffrement](https://tutanota.com/fr/encryption)[Open-source](https://tutanota.com/fr/open-source)[GitHub](https://github.com/tutao/tutanota)
-
-Fonctionnalités
-
-[E-mail sécurisé](https://tutanota.com/fr/secure-email)[Calendrier chiffré et gratuit](https://tutanota.com/fr/calendar)[Entreprise](https://tutanota.com/fr/business)
+[Planning](https://tutanota.com/fr/roadmap) [Sécurité](https://tutanota.com/fr/security) [Chiffrement](https://tutanota.com/fr/encryption) [Open-source](https://tutanota.com/fr/open-source) [GitHub](https://github.com/tutao/tutanota)
 
 Support
 
-[Forum](https://www.reddit.com/r/tutanota/)[Presse](https://tutanota.com/fr/press)[Support](https://tutanota.com/fr/support)
+[Forum](https://www.reddit.com/r/tutanota/) [Presse](https://tutanota.com/press) [Support](https://tutanota.com/fr/support) [Résilier l'abonnement](https://app.tuta.com/?r=/termination)
 
 Langue
 
-[Français](https://tutanota.com/fr/languages)[Traduire](https://tutanota.com/blog/posts/tutanota-translation-project)
+EnglishČeskyDeutschEspañolSuomiFrançaisMagyar nyelvItaliano日本語NederlandsPolskiPortuguês, BRPусскийSvenskaYкраїнська中文 [Traduire](https://tutanota.com/fr/blog/tutanota-translation-project)
