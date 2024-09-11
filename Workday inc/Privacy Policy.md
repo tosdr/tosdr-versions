@@ -241,7 +241,7 @@ Skip to main content
                     
                 * #### [Software](https://www.workday.com/en-us/company/partners/software-partners.html "Software")
                     
-        * ### [Become a Partner](https://www.workday.com/en-us/company/partners/become-a-partner.html "Become a Partner")
+        * ### [Partner Program](https://www.workday.com/en-us/company/partners/partner-program-overview.html "Partner Program")
             
         * ### [Marketplace](https://marketplace.workday.com/ "Marketplace")
             
@@ -291,43 +291,86 @@ Skip to main content
         * ### [Newsroom](https://newsroom.workday.com/ "Newsroom")
             
     
-* * [United States (English)](https://www.workday.com/en-us/homepage.html "United States (English)")
+
+* Region & Language
     
-    * [Australia (English)](https://www.workday.com/en-au/homepage.html "Australia (English)")
-    * [Belgium (English)](https://www.workday.com/en-be/homepage.html "Belgium (English)")
-    * [Canada (English)](https://www.workday.com/en-ca/homepage.html "Canada (English)")
-    * [Canada (Français)](https://www.workday.com/fr-ca/homepage.html "Canada (Français)")
-    * [Denmark (English)](https://www.workday.com/en-se/homepage.html "Denmark (English)")
-    * [Deutschland (Deutsch)](https://www.workday.com/de-de/homepage.html "Deutschland (Deutsch)")
-    * [España (Español)](https://www.workday.com/es-es/homepage.html "España (Español)")
-    * [Finland (English)](https://www.workday.com/en-se/homepage.html "Finland (English)")
-    * [France (Français)](https://www.workday.com/fr-fr/homepage.html "France (Français)")
-    * [Hong Kong (English)](https://www.workday.com/en-hk/homepage.html "Hong Kong (English)")
-    * [Indonesia (English)](https://www.workday.com/en-sg/homepage.html "Indonesia (English)")
-    * [Ireland (English)](https://www.workday.com/en-gb/homepage.html "Ireland (English)")
-    * [Italia (Italiano)](https://www.workday.com/it-it/homepage.html "Italia (Italiano)")
-    * [日本 (日本語)](https://www.workday.com/ja-jp/homepage.html "日本 (日本語)")
-    * [대한민국 (한국어)](https://www.workday.com/ko-kr/homepage.html "대한민국 (한국어)")
-    * [Luxembourg (English)](https://www.workday.com/en-be/homepage.html "Luxembourg (English)")
-    * [Malaysia (English)](https://www.workday.com/en-sg/homepage.html "Malaysia (English)")
-    * [México (Español)](https://www.workday.com/es-mx/homepage.html "México (Español)")
-    * [Nederland (Nederlands)](https://www.workday.com/nl-nl/homepage.html "Nederland (Nederlands)")
-    * [New Zealand (English)](https://www.workday.com/en-au/homepage.html "New Zealand (English)")
-    * [Norway (English)](https://www.workday.com/en-se/homepage.html "Norway (English)")
-    * [Österreich (Deutsch)](https://www.workday.com/de-de/homepage.html "Österreich (Deutsch)")
-    * [Schweiz (Deutsch)](https://www.workday.com/de-ch/homepage.html "Schweiz (Deutsch)")
-    * [Suisse (Français)](https://www.workday.com/fr-ch/homepage.html "Suisse (Français)")
-    * [Switzerland (English)](https://www.workday.com/en-ch/homepage.html "Switzerland (English)")
-    * [Singapore (English)](https://www.workday.com/en-sg/homepage.html "Singapore (English)")
-    * [South Africa (English)](https://www.workday.com/en-za/homepage.html "South Africa (English)")
-    * [Sweden (English)](https://www.workday.com/en-se/homepage.html "Sweden (English)")
-    * [Taiwan (English)](https://www.workday.com/en-hk/homepage.html "Taiwan (English)")
-    * [台灣 (繁體中文)](https://www.workday.com/en-hk/pages/workday-for-taiwan.html "台灣 (繁體中文)")
-    * [Thailand (English)](https://www.workday.com/en-sg/homepage.html "Thailand (English)")
-    * [ประเทศไทย (ภาษาไทย)](https://www.workday.com/en-sg/pages/workday-for-thailand.html "ประเทศไทย (ภาษาไทย)")
-    * [United Kingdom (English)](https://www.workday.com/en-gb/homepage.html "United Kingdom (English)")
+    Current website:
+    
+    Region & Language
+    
+    Current website:
+    
+    * Asia-Pacific & Japan
+        * Australia
+            * [English](https://www.workday.com/en-au/homepage.html)
+        * Hong Kong
+            * [English](https://www.workday.com/en-hk/homepage.html)
+        * Indonesia
+            * [English](https://www.workday.com/en-sg/homepage.html)
+        * 日本
+            * [日本語](https://www.workday.com/ja-jp/homepage.html)
+        * 대한민국
+            * [한국어](https://www.workday.com/ko-kr/homepage.html)
+        * Malaysia
+            * [English](https://www.workday.com/en-sg/homepage.html)
+        * New Zealand
+            * [English](https://www.workday.com/en-au/homepage.html)
+        * Singapore
+            * [English](https://www.workday.com/en-sg/homepage.html)
+        * Taiwan
+            * [繁體中文](https://www.workday.com/en-hk/pages/workday-for-taiwan.html)
+            * [English](https://www.workday.com/en-hk/homepage.html)
+        * Thailand
+            * [ประเทศไทย](https://www.workday.com/en-sg/pages/workday-for-thailand.html)
+            * [English](https://www.workday.com/en-sg/homepage.html)
+    * Europe, Middle East & Africa
+        * Belgium
+            * [English](https://www.workday.com/en-be/homepage.html)
+        * Denmark
+            * [English](https://www.workday.com/en-se/homepage.html)
+        * Deutschland
+            * [Deutsch](https://www.workday.com/de-de/homepage.html)
+        * España
+            * [Español](https://www.workday.com/es-es/homepage.html)
+        * Finland
+            * [English](https://www.workday.com/en-se/homepage.html)
+        * France
+            * [Français](https://www.workday.com/fr-fr/homepage.html)
+        * Ireland
+            * [English](https://www.workday.com/en-gb/homepage.html)
+        * Italia
+            * [Italiano](https://www.workday.com/it-it/homepage.html)
+        * Luxembourg
+            * [English](https://www.workday.com/en-be/homepage.html)
+        * Nederland
+            * [Nederlands](https://www.workday.com/nl-nl/homepage.html)
+        * Norway
+            * [English](https://www.workday.com/en-se/homepage.html)
+        * Österreich
+            * [Deutsch](https://www.workday.com/de-de/homepage.html)
+        * South Africa
+            * [English](https://www.workday.com/en-za/homepage.html)
+        * Sweden
+            * [English](https://www.workday.com/en-se/homepage.html)
+        * Schweiz
+            * [Deutsch](https://www.workday.com/de-ch/homepage.html)
+            * [English](https://www.workday.com/en-ch/homepage.html)
+            * [Français](https://www.workday.com/fr-ch/homepage.html)
+        * United Kingdom
+            * [English](https://www.workday.com/en-gb/homepage.html)
+    * North America
+        * Canada
+            * [English](https://www.workday.com/en-ca/homepage.html)
+            * [Français](https://www.workday.com/fr-ca/homepage.html)
+        * México
+            * [Español](https://www.workday.com/es-mx/homepage.html)
+        * United States
+            * [English](https://www.workday.com/en-us/homepage.html)
     
 * U
+    
+    Welcome,
+    --------
     
     You have automatically signed in to workday.com with your Workday Community account.
     
@@ -369,7 +412,7 @@ Skip to main content
     * [How to Log In](https://www.workday.com/en-us/signin.html "How to Log in to Workday")
     * [Workday Careers](https://www.workday.com/en-us/company/careers/overview.html "Workday Careers")
     * [Workday Rising](https://rising.workday.com/us.html?eid=enus_evt_otrschref_wd_wd_wd_ev_22.3340&utm_medium=evt&utm_source=otrschref&productfocus=wd&aud=wd&assettype=ev&assetid=22.3340&pblr=wd&reference=wdqsrch "Workday Rising")
-    * [How Workday Supports Diversity and Inclusion](https://www.workday.com/en-us/solutions/role/enterprise-hr/diversity-inclusion-belonging-solutions.html "How Workday Supports Diversity and Inclusion")
+    * [Workday Customer Awards](https://www.workday.com/en-us/company/latest/events-webinars/customer-awards-na.html "Workday Customer Awards")
     * [Artificial Intelligence](https://www.workday.com/en-us/artificial-intelligence.html "Artificial Intelligence")
     * [Workday Demos](https://www.workday.com/en-us/resources/workday-demos.html "Workday Demos")
     * [Why Choose Workday](https://www.workday.com/en-us/why-workday.html "Why Choose Workday")
@@ -380,7 +423,7 @@ Skip to main content
 Workday Privacy Statement
 =========================
 
-Effective: 02/21/2024
+Effective: August 19, 2024
 
 [Previous Version of Our Privacy Statement](https://www.workday.com/en-us/privacy/archive/privacy-policy-archive-20230818.html)  
 
@@ -390,7 +433,7 @@ If you’d like to know whether this Privacy Statement applies to you and your r
 
 [Download/print a copy of this Privacy Statement](https://www.workday.com/content/dam/web/en-us/documents/legal/workday-privacy-statement.pdf)
 
-**February 2024 Changes to This Privacy Statement**
+**August 2024 Changes to This Privacy Statement**
 
 We clarified language throughout and added detail about sharing of personal information with Workday partners.
 
@@ -426,7 +469,7 @@ Sometimes, we may ask you to provide personal information voluntarily: for examp
     * Communicate with you and fulfill your request for information or support
         
     * Manage your organization’s account, including invoicing and other account-related issues
-    * Provide you with information about our products, in accordance with your marketing preferences (including telemarketing calls and marketing emails, in accordance with your marketing preferences)
+    * Provide you with information about our products (including telemarketing calls and marketing emails, in accordance with your marketing preferences)
         
 
 **If you are our supplier.** If you are a representative of a company that provides Workday with products or services, we collect your business contact information including your name, business email, telephone number, and company name.
@@ -503,7 +546,7 @@ We also collect information about you from other sources including third parties
 **From third-party sources.** Workday may collect business contact information about you from other sources including Workday partners, co-sponsors of events attended by Workday, third parties from whom we have purchased business contact information, and from publicly accessible websites, such as your company’s website, professional network services, or press releases. Business contact information may include: first name, last name, business email, telephone number, company name, job level, functional role, business street address, and online identifier, as well as previous employers and roles. The way in which these third parties collect personal information is detailed in their own privacy policies, available on their websites.
 
 * **Purpose and Legal Basis Under Data Protection Law:** We process your personal information in reliance on our legitimate interests or with your consent (where required by law) to:
-    * Provide you with information about our products (including telemarketing calls and marketing emails, in accordance with your marketing preferences)
+    * Provide you with information about relevant products (including telemarketing calls and marketing emails, in accordance with your marketing preferences)
     * Understand our market and identify potential customer opportunities
 
 **From your organization.** We also may receive information about you from your organization for the purposes of obtaining or providing services or to recommend individuals to participate in our research studies. For example, another individual at your organization may provide us with your business contact information so that we can give you access to training materials purchased by your organization, or to grant you certain administrative privileges. If your organization is a Workday supplier, your organization may also provide us with your name and email address so that we can contact you about the services your organization supplies to us.
@@ -538,7 +581,7 @@ Transferring your personal information internationally.
 
 Workday operates as a global business and complies with applicable legal requirements when we need to transfer, store, or process your personal information in a country outside your jurisdiction.
 
-We take appropriate safeguards to protect your privacy, your fundamental rights and freedoms, and the ability to exercise your rights. For example, if we transfer personal information from the EEA, the UK, or Switzerland to another country such as the United States, we will implement an appropriate data transfer solution such as entering into “standard contractual clauses” approved by the European Commission or competent governmental authority (as applicable) with the data importer. Following the adequacy decision by the European Commission, Workday currently relies on the EU-U.S. Data Privacy Framework and the UK Extension as a legal basis for transfers of personal information from the EU and the UK to the United States. For more information, see the Certifications subsection below or our Data Privacy Framework Notice [here.](https://www.workday.com/en-us/privacy/data-privacy-framework-notice.html)
+We take appropriate safeguards to protect your privacy, your fundamental rights and freedoms, and the ability to exercise your rights. For example, if we transfer personal information from the EEA, the UK, or Switzerland to another country such as the United States, we will implement an appropriate data transfer solution such as entering into “standard contractual clauses” approved by the European Commission or competent governmental authority (as applicable) with the data importer. Following the adequacy decision by the European Commission, Workday currently relies on the EU-U.S. Data Privacy Framework and the UK Extension as a legal basis for transfers of personal information from the EU and UK to the United States. For more information, see the Certifications subsection below or our Data Privacy Framework Notice [here.](https://www.workday.com/en-us/privacy/data-privacy-framework-notice.html)
 
 Retaining your personal information.
 
@@ -600,7 +643,7 @@ If you reside in the EEA, the UK, or Switzerland, Workday Limited in Ireland is 
 
 For all other individuals, Workday, Inc. is the controller for your personal information.
 
-If you have any questions about this Privacy Statement, or wish to exercise your rights, please submit your request through our [Request Portal](https://privacyportal.onetrust.com/webform/357a9b19-175a-4089-bf85-0b287eda10d7/4d1d8abc-1aaa-43de-804e-3958a0180c51). You may also contact us at one of the mailing addresses below:
+If you have any questions about this Privacy Statement, wish to exercise your rights or to contact our Data Protection Officer, please submit your request through our [Request Portal](https://privacyportal.onetrust.com/webform/357a9b19-175a-4089-bf85-0b287eda10d7/4d1d8abc-1aaa-43de-804e-3958a0180c51). You may also contact us at one of the mailing addresses below:
 
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
