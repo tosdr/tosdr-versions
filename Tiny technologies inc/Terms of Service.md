@@ -387,7 +387,7 @@ This site is protected by reCAPTCHA and the Google [Privacy Policy](https://poli
 
 [](https://github.com/tinymce/)[](https://stackoverflow.com/questions/tagged/tinymce)[](https://www.linkedin.com/company/jointiny)[](https://www.twitter.com/jointiny)
 
-![SOC2 compliance badge](/images/footer/SOC2-compliance.png "TinyMCE is SOC2 compliant")
+[![SOC2 compliance badge](/images/footer/SOC2-compliance.png "TinyMCE is SOC2 compliant")](https://www.tiny.cloud/tinymce/security/)
 
 #### Products
 
