@@ -1,4 +1,4 @@
-[Skip to main](#main)     
+[Skip to main](#main)    
 
 K12 Coalition
 
@@ -17,7 +17,9 @@ K12 Coalition
 
 * [Cart](https://courses.teachingchannel.com/cart/items)
 
-[![](https://www.teachingchannel.com/wp-content/uploads/2023/01/TC-Logo-with-Learners-Edge-Horizontal.svg)](https://www.teachingchannel.com/)
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20298%2051'%3E%3C/svg%3E)
+
+![](https://www.teachingchannel.com/wp-content/uploads/2023/01/TC-Logo-with-Learners-Edge-Horizontal.svg)](https://www.teachingchannel.com/)
 
 * [Courses](https://www.teachingchannel.com/continuing-education-courses-for-teachers/)
     * [All Courses](#)
@@ -94,26 +96,27 @@ K12 Coalition
     * [West Virginia](https://www.teachingchannel.com/state-requirements/west-virginia-teaching-certificate-renewal/)
     * [Wisconsin](https://www.teachingchannel.com/state-requirements/wisconsin-teaching-license-renewal/)
     * [Wyoming](https://www.teachingchannel.com/state-requirements/wyoming-teaching-license-renewal/)
-* [Groups](https://www.teachingchannel.com/group-discounts/)
+* [Group Savings](https://www.teachingchannel.com/group-discounts/)
     * [How it Works](https://www.teachingchannel.com/group-discounts/how-groups-works/)
     * [Become a Group Leader](https://www.teachingchannel.com/group-discounts/become-a-group-leader/)
-    * [Start a Group](https://www.teachingchannel.com/group-discounts/)
-* [Professional Development](https://www.teachingchannel.com/professional-development-for-teachers/)
+    * [Use a Group Code](https://www.teachingchannel.com/group-discounts/use-a-group-code/)
+* [Professional Learning](https://www.teachingchannel.com/professional-development-for-teachers/)
     * [Teachers](#)
         * [Graduate-Level Courses](https://courses.teachingchannel.com/courses/dl/all?content=&grade=&credits=1%7C2%7C3&format=&partner=&srch=&nat=false)
         * [Hours-Only PD Courses](https://courses.teachingchannel.com/courses/dl/all?content=&grade=&credits=&format=PD&partner=&srch=&nat=false)
         * [Flex Credit Courses](https://courses.teachingchannel.com/courses/dl/all?content=&grade=&credits=&format=FlexCredit&partner=&srch=&nat=false)
         * [Teacher Exemplar Video Library](https://courses.teachingchannel.com/courses/dl/all?content=&grade=&credits=&format=VID&partner=&srch=&nat=false)
     * [Schools & Districts](#)
-        * [Video Coaching & Learning Platform](https://www.teachingchannel.com/professional-development-for-teachers/video-coaching-learning-platform/)
+        * [K12 Coaching & Learning Platform](https://www.teachingchannel.com/professional-development-for-teachers/video-coaching-learning-platform/)
         * [Teacher Exemplar Video Library](https://www.teachingchannel.com/professional-development-for-teachers/video-library/)
         * [School & District PD](https://www.teachingchannel.com/professional-development-for-teachers/on-demand-professional-development/)
         * [New Teacher Course](https://www.teachingchannel.com/professional-development-for-teachers/new-teacher-training/)
         * [Substitute Teacher Course](https://www.teachingchannel.com/professional-development-for-teachers/substitute-teacher-training/)
-        * [Build Your Program](https://www.teachingchannel.com/professional-development-for-teachers/build-your-program/)
+        * [Paraprofessional Course](https://www.teachingchannel.com/professional-development-for-teachers/paraprofessional-program/)
+        * [Build Your PD Program](https://www.teachingchannel.com/professional-development-for-teachers/build-your-program/)
 * [Video Platform](https://www.teachingchannel.com/professional-development-for-teachers/video-coaching-learning-platform/)
-    * [Video Coaching & Learning Platform](https://www.teachingchannel.com/professional-development-for-teachers/video-coaching-learning-platform/)
-    * [Video for Educators in Training & Higher Ed Faculty](https://www.teachingchannel.com/professional-development-for-teachers/pre-service-faculty/)
+    * [K12 Coaching & Learning](https://www.teachingchannel.com/professional-development-for-teachers/video-coaching-learning-platform/)
+    * [Higher Education Programs](https://www.teachingchannel.com/professional-development-for-teachers/pre-service-faculty/)
     * [Case Studies](https://www.teachingchannel.com/case-studies/)
     * [Book a Demo](https://www.teachingchannel.com/professional-development-for-teachers/?goto=bookademo)
 * [Resources](https://www.teachingchannel.com/about-us/)
@@ -135,7 +138,9 @@ K12 Coalition
 
 [Shop Courses](https://courses.teachingchannel.com/courses/dl/all)
 
-[![](https://www.teachingchannel.com/wp-content/uploads/2023/01/TC-Logo-with-Learners-Edge-Horizontal.svg)](https://www.teachingchannel.com/)
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20298%2051'%3E%3C/svg%3E)
+
+![](https://www.teachingchannel.com/wp-content/uploads/2023/01/TC-Logo-with-Learners-Edge-Horizontal.svg)](https://www.teachingchannel.com/)
 
 [Video Library](https://learn.teachingchannel.com/user/login)
 
@@ -216,26 +221,27 @@ K12 Coalition
     * [West Virginia](https://www.teachingchannel.com/state-requirements/west-virginia-teaching-certificate-renewal/)
     * [Wisconsin](https://www.teachingchannel.com/state-requirements/wisconsin-teaching-license-renewal/)
     * [Wyoming](https://www.teachingchannel.com/state-requirements/wyoming-teaching-license-renewal/)
-* [Groups](https://www.teachingchannel.com/group-discounts/)
+* [Group Savings](https://www.teachingchannel.com/group-discounts/)
     * [How it Works](https://www.teachingchannel.com/group-discounts/how-groups-works/)
     * [Become a Group Leader](https://www.teachingchannel.com/group-discounts/become-a-group-leader/)
-    * [Start a Group](https://www.teachingchannel.com/group-discounts/)
-* [Professional Development](https://www.teachingchannel.com/professional-development-for-teachers/)
+    * [Use a Group Code](https://www.teachingchannel.com/group-discounts/use-a-group-code/)
+* [Professional Learning](https://www.teachingchannel.com/professional-development-for-teachers/)
     * [Teachers](#)
         * [Graduate-Level Courses](https://courses.teachingchannel.com/courses/dl/all?content=&grade=&credits=1%7C2%7C3&format=&partner=&srch=&nat=false)
         * [Hours-Only PD Courses](https://courses.teachingchannel.com/courses/dl/all?content=&grade=&credits=&format=PD&partner=&srch=&nat=false)
         * [Flex Credit Courses](https://courses.teachingchannel.com/courses/dl/all?content=&grade=&credits=&format=FlexCredit&partner=&srch=&nat=false)
         * [Teacher Exemplar Video Library](https://courses.teachingchannel.com/courses/dl/all?content=&grade=&credits=&format=VID&partner=&srch=&nat=false)
     * [Schools & Districts](#)
-        * [Video Coaching & Learning Platform](https://www.teachingchannel.com/professional-development-for-teachers/video-coaching-learning-platform/)
+        * [K12 Coaching & Learning Platform](https://www.teachingchannel.com/professional-development-for-teachers/video-coaching-learning-platform/)
         * [Teacher Exemplar Video Library](https://www.teachingchannel.com/professional-development-for-teachers/video-library/)
         * [School & District PD](https://www.teachingchannel.com/professional-development-for-teachers/on-demand-professional-development/)
         * [New Teacher Course](https://www.teachingchannel.com/professional-development-for-teachers/new-teacher-training/)
         * [Substitute Teacher Course](https://www.teachingchannel.com/professional-development-for-teachers/substitute-teacher-training/)
-        * [Build Your Program](https://www.teachingchannel.com/professional-development-for-teachers/build-your-program/)
+        * [Paraprofessional Course](https://www.teachingchannel.com/professional-development-for-teachers/paraprofessional-program/)
+        * [Build Your PD Program](https://www.teachingchannel.com/professional-development-for-teachers/build-your-program/)
 * [Video Platform](https://www.teachingchannel.com/professional-development-for-teachers/video-coaching-learning-platform/)
-    * [Video Coaching & Learning Platform](https://www.teachingchannel.com/professional-development-for-teachers/video-coaching-learning-platform/)
-    * [Video for Educators in Training & Higher Ed Faculty](https://www.teachingchannel.com/professional-development-for-teachers/pre-service-faculty/)
+    * [K12 Coaching & Learning](https://www.teachingchannel.com/professional-development-for-teachers/video-coaching-learning-platform/)
+    * [Higher Education Programs](https://www.teachingchannel.com/professional-development-for-teachers/pre-service-faculty/)
     * [Case Studies](https://www.teachingchannel.com/case-studies/)
     * [Book a Demo](https://www.teachingchannel.com/professional-development-for-teachers/?goto=bookademo)
 * [Resources](https://www.teachingchannel.com/about-us/)
@@ -487,7 +493,7 @@ In addition to confirming your agreement to the Terms of Use, this notice servic
 
  
 
-**Fast Track Courses are still available for summer session. Get your transcript before September 1**! [Register Now](https://courses.teachingchannel.com/courses/dl/all?content=&grade=&credits=&format=FT&partner=&bundle=&srch=&nat=false) [>>](https://www.teachingchannel.com/dog-days-of-summer-sale-2024/)
+**You Could Win a $200 Amazon Gift Card in Our Back-to-School Giveaway! [Enter to Win >>](https://www.teachingchannel.com/back-to-school-2024/)**
 
 ![close-image](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2015%2015'%3E%3C/svg%3E)
 
@@ -495,7 +501,7 @@ In addition to confirming your agreement to the Terms of Use, this notice servic
 
  
 
-**Use BACK2SCHOOL24 and get a** 3-Credit Course for $399! Now through August 18. [Register Today](https://courses.teachingchannel.com/courses/dl/all?content=&grade=&credits=1%7C2%7C3&format=&partner=&bundle=&srch=&nat=false) [>](https://www.teachingchannel.com/dog-days-of-summer-sale-2024/)[\>](https://www.teachingchannel.com/dog-days-of-summer-sale-2024/)
+ **Use promo code FLASHAI80 to get $80 off** 2 of our best-selling AI Courses! Now through September 13. [L](https://www.teachingchannel.com/ai-flash-sale/)[earn More](https://www.teachingchannel.com/ai-flash-sale/) [>](https://www.teachingchannel.com/dog-days-of-summer-sale-2024/)[\>](https://www.teachingchannel.com/ai-flash-sale/)
 
 ![close-image](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2015%2015'%3E%3C/svg%3E)
 
