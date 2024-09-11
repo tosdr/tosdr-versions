@@ -93,11 +93,11 @@ Search for:
 
 ### Recent Posts
 
-* [Four tips for securing your website](https://xworld.org/technology-and-gadget/four-tips-for-securing-your-website/)
-* [Garage Floor Perfection: Let Our Contractors Handle the Job](https://xworld.org/home-improvement/garage-floor-perfection-let-our-contractors-handle-the-job/)
-* [What is Accounts Payable Analysis?](https://xworld.org/business/what-is-accounts-payable-analysis/)
-* [An Introduction to Solar Panel Grants](https://xworld.org/technology-and-gadget/an-introduction-to-solar-panel-grants/)
-* [English Labradors: The Gentle Giants with Hearts of Gold](https://xworld.org/lifestyle/english-labradors-the-gentle-giants-with-hearts-of-gold/)
+* [What is car hire excess insurance and how does it work?](https://xworld.org/automotive/what-is-car-hire-excess-insurance-and-how-does-it-work/)
+* [Enjoying A Holiday in a Hotel, Versus The Freedom Of A Caravan](https://xworld.org/tour-and-travel/enjoying-a-holiday-in-a-hotel-versus-the-freedom-of-a-caravan/)
+* [Why mental health training in the workplace is so important](https://xworld.org/health/why-mental-health-training-in-the-workplace-is-so-important/)
+* [How to choose the best courier service](https://xworld.org/business/how-to-choose-the-best-courier-service/)
+* [Easy ways to cut your carbon emissions](https://xworld.org/business/easy-ways-to-cut-your-carbon-emissions/)
 
 ### Categories
 
@@ -121,6 +121,7 @@ Search for:
 
 ### Archives
 
+* [August 2024](https://xworld.org/2024/08/)
 * [July 2024](https://xworld.org/2024/07/)
 * [June 2024](https://xworld.org/2024/06/)
 * [May 2024](https://xworld.org/2024/05/)
