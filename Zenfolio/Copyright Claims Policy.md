@@ -122,7 +122,7 @@ Help
 
 * [Support Center](https://zenfolio.com/support/)
 * [Online Training](https://zenfolio.com/community/events/)
-* [Site Status](https://status.zenfolio.com/)
+* [Site Status (opens in a new tab)](https://status.zenfolio.com/)
 
 © 2024 Zenfolio, Inc. | [Terms of Service](https://zenfolio.com/termsofuse/) | [Privacy Policy](https://zenfolio.com/privacypolicy)
 
@@ -133,4 +133,4 @@ Help
 * [](https://www.tiktok.com/@zenfolioinc "TikTok")
 * [](https://www.pinterest.com/zenfolio/ "Pinterest")
 
-[**SAVE up to 50%!**\* – View Plans](https://zenfolio.com/plans-pricing/)
+[**SAVE up to 50%!** Offer Ends Soon.\* – View Plans](https://zenfolio.com/plans-pricing/)
