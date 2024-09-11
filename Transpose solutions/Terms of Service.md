@@ -11,7 +11,6 @@ Toggle navigation [Transpose Solutions](https://www.transposesolutions.com/index
     * [DIGITAL SOLUTIONS](https://www.transposesolutions.com/digital.html)
     * [TEST SERVICES](https://www.transposesolutions.com/testing.html)
 * [PRODUCTS](https://www.transposesolutions.com/products.html)
-* [SOCIAL](http://social.transposesolutions.com/)
 * [CONTACT](https://www.transposesolutions.com/contact.html)
 
   
