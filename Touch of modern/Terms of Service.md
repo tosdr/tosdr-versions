@@ -62,7 +62,7 @@ You shall pay for all shipping and handling charges specified during the orderin
 
 **Returns and Refunds**
 
-Unless otherwise required by law, Touch of Modern accepts returns on certain Products on a case-by- case basis. If, however, a Product is listed as final sale, we will not accept returns for such Product, unless it is defective. If a Product offered by Touch of Modern is defective, please send an email to [\[email protected\]](https://www.touchofmodern.com/cdn-cgi/l/email-protection) within 48 hours of receiving the Product, unless a longer time is required by law. We will either replace the defective product or issue a full refund. For more information on our Return Policy and how we handle Returns, please check our [FAQs](https://support.touchofmodern.com/hc/en-us).
+Unless otherwise required by law, Touch of Modern accepts returns on certain Products on a case-by- case basis. If, however, a Product is listed as final sale, we will not accept returns for such Product, unless it is defective. If a Product offered by Touch of Modern is defective, please send an email to [support@touchofmodern.com](mailto:support@touchofmodern.com) within 48 hours of receiving the Product, unless a longer time is required by law. We will either replace the defective product or issue a full refund. For more information on our Return Policy and how we handle Returns, please check our [FAQs](https://support.touchofmodern.com/hc/en-us).
 
 You are responsible for all shipping and handling charges on returned items unless otherwise specified. You bear the risk of loss during shipment. We therefore strongly recommend that you fully insure your return shipment against loss or damage and that you use a carrier that can provide you with proof of delivery for your protection.
 
@@ -117,7 +117,7 @@ You must not:
 
 You must not access, or use for any commercial purposes, any part of the Website or any services or materials available through the Website.
 
-If you wish to make any use of material on the Website other than that set out in this section, please address your request to [\[email protected\]](https://www.touchofmodern.com/cdn-cgi/l/email-protection).
+If you wish to make any use of material on the Website other than that set out in this section, please address your request to hello@touchofmodern.com.
 
 If you print, copy, modify, download or otherwise use or provide any other person with access to any part of the Service in breach of the Terms and Conditions, your right to use the Service will cease immediately and you must, at our option, return or destroy any copies of the materials you have made. No right, title or interest in or to the Service or any content on the Service is transferred to you, and all rights not expressly granted are reserved by the Company. Any use of the Service not expressly permitted by these Terms and Conditions is a breach of these Terms and Conditions and may violate copyright, trademark, and other laws.
 
@@ -207,7 +207,7 @@ These content standards apply to all User Contributions and use of Interactive S
 
 #### Copyright Infringement
 
-If you believe that any User Contributions violate your copyright, please send us a notice of copyright infringement to the Copyright Agent at: Touch of Modern, LLC, Attn.: Copyright Agent, 901 E. Northfield Drive, Suite 200, Brownsburg, IN 46112, email: [\[email protected\]](https://www.touchofmodern.com/cdn-cgi/l/email-protection). It is the policy of the Company to terminate the user accounts of repeat infringers. Please include the following information in your notice:
+If you believe that any User Contributions violate your copyright, please send us a notice of copyright infringement to the Copyright Agent at: Touch of Modern, LLC, Attn.: Copyright Agent, 901 E. Northfield Drive, Suite 200, Brownsburg, IN 46112, email: [dmca@touchofmodern.com](mailto:dmca@touchofmodern.com). It is the policy of the Company to terminate the user accounts of repeat infringers. Please include the following information in your notice:
 
 * Your address, telephone number, and email address.
     
@@ -275,7 +275,7 @@ To the extent that we offer various text messaging services (“SMS Service”),
 
 Enrollment in the SMS Service requires you to provide your mobile phone number. Please only provide your own mobile phone number. You may not enroll if you are under 18 years old. Before the SMS Service will start, you will need to verify the mobile phone number you provided by responding to a text message to your mobile phone that affirms your choice to opt-in to the SMS Service and your agreement to these Terms and Conditions. Note that in affirming this message, you acknowledge that notices about your order will be sent to the number you provide and whoever has access to that mobile phone or the carrier account may be able to see this information.
 
-Text messages may include cart abandon messages. Message frequency varies. This service is optional and is not a condition for purchase. You can opt out of receiving any further messages from us at any time (see details below). For help, reply HELP to any text message you receive from us or email [\[email protected\]](https://www.touchofmodern.com/cdn-cgi/l/email-protection).
+Text messages may include cart abandon messages. Message frequency varies. This service is optional and is not a condition for purchase. You can opt out of receiving any further messages from us at any time (see details below). For help, reply HELP to any text message you receive from us or email textsupport@wunderkind.co.
 
 Text message services are provided on an “AS IS” basis. Data obtained from you in connection with any text message services may include your mobile phone number, your provider’s name and the date, time and content of your text messages. We may use this information in accordance with our Privacy Policy to contact you and to provide the services you request from us. For more information on how we use telephone numbers, please read our Privacy Policy.
 
@@ -349,9 +349,9 @@ We may assign our rights and obligations under these Terms and Conditions, inclu
 
 The Website and the App are operated by the Company.
 
-All notices of copyright infringement claims should be sent to: [\[email protected\]](https://www.touchofmodern.com/cdn-cgi/l/email-protection).
+All notices of copyright infringement claims should be sent to: [dmca@touchofmodern.com](mailto:dmca@touchofmodern.com).
 
-All other feedback, comments, requests for technical support and other communications relating to the Website should be directed to: [\[email protected\]](https://www.touchofmodern.com/cdn-cgi/l/email-protection).
+All other feedback, comments, requests for technical support and other communications relating to the Website should be directed to: [support@touchofmodern.com](mailto:support@touchofmodern.com).
 
 #### Changes to the Terms and Conditions
 
@@ -377,4 +377,4 @@ Your continued use of the Website following the posting of revised Terms and Con
 
 ![](//action.dstillery.com/orbserv/nspix?adv=cl165659834990960&ns=7040&nc=Touch-of-Modern-Site-Visitor&ncv=36)
 
-![](//ad.ipredictive.com/d/track/cvt/pixel?acct_id=50968&cache_buster=1722517068)
+![](//ad.ipredictive.com/d/track/cvt/pixel?acct_id=50968&cache_buster=1726015930)
