@@ -135,35 +135,35 @@ For specific information about Mediavine Partners, the data each collects and th
 
 ##### Recent Posts
 
-[](https://ygorganization.com/july-14th-2024-deck-recipes/ "July 14th, 2024 [Deck Recipes]")
+[](https://ygorganization.com/darkmattertechtown/ "Cards from Episode 123 [GO RUSH!!]")
 
-#### [July 14th, 2024 \[Deck Recipes\]](https://ygorganization.com/july-14th-2024-deck-recipes/)
+#### [Cards from Episode 123 \[GO RUSH!!\]](https://ygorganization.com/darkmattertechtown/)
 
-July 14, 2024
+September 2, 2024
 
-[](https://ygorganization.com/artwork-post-bringers-of-destruction-azamina-and-explore-the-dungeon-of-mimighoul/ "[Artwork Post] Bringers of Destruction “Azamina” and Explore the Dungeon of “Mimighoul”")
+[](https://ygorganization.com/ocg-8-31-2024-rulings-update/ "[OCG] 8/31/2024 Rulings Update")
 
-#### [\[Artwork Post\] Bringers of Destruction “Azamina” and Explore the Dungeon of “Mimighoul”](https://ygorganization.com/artwork-post-bringers-of-destruction-azamina-and-explore-the-dungeon-of-mimighoul/)
+#### [\[OCG\] 8/31/2024 Rulings Update](https://ygorganization.com/ocg-8-31-2024-rulings-update/)
 
-July 14, 2024
+August 31, 2024
 
-[](https://ygorganization.com/the-october-2024-ranking-duel-playmat-ocg/ "The October 2024 Ranking Duel Playmat [OCG]")
+[](https://ygorganization.com/abyss-soldier-reprint-rd-lgp2/ "“Abyss Soldier” Reprint [RD/LGP2]")
 
-#### [The October 2024 Ranking Duel Playmat \[OCG\]](https://ygorganization.com/the-october-2024-ranking-duel-playmat-ocg/)
+#### [“Abyss Soldier” Reprint \[RD/LGP2\]](https://ygorganization.com/abyss-soldier-reprint-rd-lgp2/)
 
-July 14, 2024
+August 31, 2024
 
-[](https://ygorganization.com/theimpulsetobuydragonwaifus/ "[ROTA] Solemnly Warn your Opponent with “Dominus Impulse”")
+[](https://ygorganization.com/400horsepower/ "August 31st TCG Forbidden & Limited List")
 
-#### [\[ROTA\] Solemnly Warn your Opponent with “Dominus Impulse”](https://ygorganization.com/theimpulsetobuydragonwaifus/)
+#### [August 31st TCG Forbidden & Limited List](https://ygorganization.com/400horsepower/)
 
-July 14, 2024
+August 31, 2024
 
-[](https://ygorganization.com/despitetheimageheisnotaprize/ "[MERCHANDISE] June-July Crane Game Prizes")
+[](https://ygorganization.com/gorush123/ "Episode 123 Summary [GO RUSH!!]")
 
-#### [\[MERCHANDISE\] June-July Crane Game Prizes](https://ygorganization.com/despitetheimageheisnotaprize/)
+#### [Episode 123 Summary \[GO RUSH!!\]](https://ygorganization.com/gorush123/)
 
-July 14, 2024
+August 31, 2024
 
 [Facebook](https://www.facebook.com/ygorganization) [X (Twitter)](https://twitter.com/ygorganization) [YouTube](https://www.youtube.com/@TheOrganization) [Discord](https://discord.gg/theorganization) [RSS](https://ygorganization.com/feed/)
 
