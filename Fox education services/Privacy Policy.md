@@ -1,6 +1,8 @@
 [Skip to content](#content)
 
-[![](https://foxeducation.com/wp-content/uploads/2024/07/foxeducation-Logo-Hor-1c.svg)](https://foxeducation.com/de/)
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20915%20180'%3E%3C/svg%3E)
+
+![](https://foxeducation.com/wp-content/uploads/2024/07/foxeducation-Logo-Hor-1c.svg)](https://foxeducation.com/de/)
 
 Toggle Navigation
 
@@ -12,6 +14,9 @@ Toggle Navigation
 * [NEU: FoxPay](https://foxeducation.com/de/foxpay/)
     * [FoxPay](https://foxeducation.com/de/foxpay/)
     * [FoxPay Webinar](https://foxeducation.com/de/foxpay-webinar/)
+* [Unsere Lernunterstützung](https://foxeducation.com/de/learning-support/)
+    * [Digitales FoxPortfolio in KidsFox](https://foxeducation.com/de/kidsfox/digital-portfolio/)
+    * [Digitales FoxPortfolio in SchoolFox](https://foxeducation.com/de/schoolfox/digital-portfolio/)
 * [Über uns](https://foxeducation.com/de/foxeducation/jobs/)
     * [Geschichte](https://foxeducation.com/de/our-history/)
     * [Events](https://foxeducation.com/de/events/)
