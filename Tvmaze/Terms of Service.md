@@ -45,4 +45,4 @@ The TVmaze Premium order process is conducted by our online reseller Paddle.com.
 
               
 
-![](//numbers.tvmaze.com/tvmaze.php?idsite=1)
+![](//totem.tvmaze.com/tvmaze.php?idsite=1)
