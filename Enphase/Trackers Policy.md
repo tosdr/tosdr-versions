@@ -27,11 +27,12 @@
     
     For installers
     
-    [System builder](https://enphase.com/installers/systems) [System estimator](https://estimator.enphase.com/) [Module calculator](https://enphase.com/installers/microinverters/calculator)
+    [System builder](https://enphase.com/installers/systems) [System estimator](https://estimator.enphase.com/) [Module calculator](https://enphase.com/installers/microinverters/calculator) [Become an installer](https://enphase.com/installers/signup)
     
 * [](javascript:void(0);)
 * [ESG](https://enphase.com/company/sustainability)
 * [ClipperCreek Landing Page](https://enphase.com/ev-chargers/clippercreek)
+* [ESG](https://enphase.com/company/sustainability)
 
 [](#)
 
@@ -274,13 +275,12 @@ Your session expired. Please login again to continue to purchase.
     * [NEM 3.0](https://enphase.com/installers/nem3)
     * [Commercial](https://enphase.com/installers/commercial)
     * [Critical updates](https://enphase.com/installers/updates)
-    * [Storage](https://enphase.com/installers/storage/gen2)
+    * [Storage](https://enphase.com/installers/storage)
     
 * Support
     
     * [Homeowners](https://enphase.com/support/homeowners)
     * [Installers](https://enphase.com/support/installers)
-    * [SunPower](https://enphase.com/support/sunpower)
     * [Enphase Community](https://support.enphase.com/s/community-home)
     * [Training events](https://enphase.com/installers/training/events)
     * [Warranty and labor](https://enphase.com/installers/resources/warranty)
