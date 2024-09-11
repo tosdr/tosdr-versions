@@ -1,5 +1,5 @@
 ![](https://www.facebook.com/tr?id=1135052233289288&ev=PageView
-&noscript=1)                      
+&noscript=1)                        
 
 [Skip to content](#content)
 
@@ -114,13 +114,13 @@
     
     * [Blog & Tutorials](https://wandb.ai/fully-connected)
     * [Events](https://wandb.ai/fully-connected/events)
-    * [ML Courses](https://www.wandb.courses/)
+    * [AI Courses](https://www.wandb.courses/)
     * [Gradient Dissent Podcast](https://wandb.ai/site/resources/podcast)
     * [Our Community](https://wandb.ai/site/community/)
     
     * [Blog & Tutorials](https://wandb.ai/fully-connected)
     * [Events](https://wandb.ai/fully-connected/events)
-    * [ML Courses](https://www.wandb.courses/)
+    * [AI Courses](https://www.wandb.courses/)
     * [Gradient Dissent Podcast](https://wandb.ai/site/resources/podcast)
     * [Our Community](https://wandb.ai/site/community/)
     
@@ -180,7 +180,7 @@
 Privacy Policy
 ==============
 
-Last updated: May 6, 2024
+Last updated: August 1, 2024
 
 Thanks for your interest in Weights and Biases! We are committed to protecting your privacy. This Privacy Policy describes how Weights and Biases, Inc. (“W&B”, “we”, “us” or “our”) collect, use, retain, disclose and protect personal information, and your rights in respect of your personal information. This Privacy Policy applies to information collected when you access our website located at [https://wandb.ai](https://wandb.ai/), including all subdomains (“Website”), when you use our products and services (collectively, “W&B Services”), attend our events or otherwise interact with us.
 
@@ -217,22 +217,20 @@ See details
     * If you invite a third party to use W&B Services, we may collect the name and email address of such third party in order to invite them to collaborate.  
           
         
-2. Information we collect automatically
-    
+2. Information we collect automatically  
       
-    When you visit our Website or use W&B Services, we may collect personal information automatically. The types of personal information that we collect automatically include:
-    
-    * Personal information relating to user activity on our Website and W&B Services, such as, but not limited to, applications and features you use, content you access, actions taken in connection with accessing our Website and W&B Services, access, event, diagnostic and other log files, usage, operational status, software errors and crash reports, authentication details, and quality and performance metrics.  
+    When you visit our Website or use W&B Services, we may collect personal information automatically. The types of personal information that we collect automatically include:  
+      
+    * Personal information relating to user activity on our Website and W&B Services, such as, but not limited to, applications and features you use, content you access, actions taken in connection with accessing our Website and W&B Services, access, event, diagnostic and other log files, usage, operational status, software errors and crash reports, authentication details, and quality and performance metrics. When you engage with us through online chat applications, we may record and review the chat in order to help address your questions.  
           
         
-    * Personal information relating to visits to our Website and W&B Services from your computer or other devices, such as, but not limited to, your IP address, geographical location, browser type, internet service provider, website pages viewed, operating system, length of visit, time stamp of your visit, and referring website addresses.
-        
+    * Personal information relating to visits to our Website and W&B Services from your computer or other devices, such as, but not limited to, your IP address, geographical location, browser type, internet service provider, website pages viewed, operating system, length of visit, time stamp of your visit, and referring website addresses.  
+          
         We (and the service providers working on our behalf) may collect this personal information using cookies and similar technologies, including third-party usage tracking tools.  
           
         
 3. Information we collect from third parties  
     
-      
     In some cases, we may collect personal information about you from third parties, including business partners, event organizers, and professional networking sites. Please note that any third party that collects your information will have their own privacy policies governing how they use and protect your personal information. We encourage you to read the privacy policies of such third parties. 
     
     We will not intentionally collect and will never ask you to provide any information regarding your race or ethnicity, political opinions, religious or philosophical beliefs, sexual orientation, trade union membership, information about your health, genetic and biometric data, or any other sensitive information.
@@ -612,6 +610,18 @@ Copyright © Weights & Biases. All rights reserved.
     * [FAQ](https://wandb.ai/site/resources/events/fully-connected/sf/faq)
     
 
-* [![](https://site.wandb.ai/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.svg)English](https://wandb.ai/site/privacy)
-* [![](https://site.wandb.ai/wp-content/plugins/sitepress-multilingual-cms/res/flags/ja.svg)日本語 (Japanese)](https://wandb.ai/site/ja/privacy/)
-* [![](https://site.wandb.ai/wp-content/plugins/sitepress-multilingual-cms/res/flags/ko.svg)한국어 (Korean)](https://wandb.ai/site/ko/privacy/)
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E)
+    
+    ![](https://site.wandb.ai/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.svg)
+    
+    English](https://wandb.ai/site/privacy)
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E)
+    
+    ![](https://site.wandb.ai/wp-content/plugins/sitepress-multilingual-cms/res/flags/ja.svg)
+    
+    日本語 (Japanese)](https://wandb.ai/site/ja/privacy/)
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E)
+    
+    ![](https://site.wandb.ai/wp-content/plugins/sitepress-multilingual-cms/res/flags/ko.svg)
+    
+    한국어 (Korean)](https://wandb.ai/site/ko/privacy/)
