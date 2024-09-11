@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/over-het-integreren-van-onze-schaduwkant/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/meelezen/its-got-to-be-perfect/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
@@ -88,33 +88,33 @@ Inschrijven
 
 #### Quote van de week
 
-> Als je jezelf aantreft tussen een meerderheid, is het de hoogste tijd, even een pauze in te lassen en te reflecteren.
+> Voordat je iemand beoordeelt op zijn agressie, vraag naar diens pijn
 > 
-> Mark Twain (1835-1910), publicist/humorist
+> Carl Gustav Jung (1875-1961), psychiater/psycholoog
 
 #### WantToKnow Aanbieding
 
-![](https://i0.wp.com/www.wanttoknow.nl/wp-content/uploads/IMGP8009-edit.jpg?fit=440%2C440&ssl=1)
+![](https://i0.wp.com/www.wanttoknow.nl/wp-content/uploads/242018170033_zoom-e1622637308367.jpg?fit=419%2C440&ssl=1)
 
-### [Ring of Harmony: Terug naar de natuurlijke balans..!](https://www.wanttoknow.nl/aanbieding/ring-of-harmony-terug-naar-de-natuurlijke-balans-zomer-2024/)
+### [Cadeautip: De Magische Flower of Life…](https://www.wanttoknow.nl/aanbieding/cadeautip-de-magische-flower-of-life-2/)
 
-[Water is van alle elementen, in staat de trillingen die het tegenkomt in zich op te nemen, vast te houden en af te geven als het bijvoorbeeld in het lichaam terecht komt. In de natuur heeft elke materie een eigen frequentie/stralingsenergie, die bestaat uit een biologische harmonische trilling. Maar ook chemische samenstellingen, die de mens zelf in een laboratorium maakt, hebben zo’n frequentie. Het plotselinge verschijnen van zo’n nieuwe materie, bijvoorbeeld bij de uitvinding van een nieuw voedingsadditief, heeft daardoor niet alleen effect in de fysieke realiteit, maar ook in de wereld van de trillingen. Een nieuwe ‘stem’ in de harmonie, die nog wel eens ‘vals’ kan zingen. Onharmonisch ’tegen-werkt’. Het is met dit inzicht, dat wij deze Ring of Harmony van Aquarius Vitaliser aanbieden. Lees snel verder hoe de Ring of Harmony jou kan ‘voeden’ en negatieve energie neutraliseert…. …](https://www.wanttoknow.nl/aanbieding/ring-of-harmony-terug-naar-de-natuurlijke-balans-zomer-2024/)
+[– Let op! Aanbieding geldig t/m 12 september! – Het patroon van de ‘Flower of Life’ of ‘Levensbloem’ toont de blauwdruk van de schepping. Het symbool werd en wordt gevonden in vrijwel alle oude culturen, en in bijvoorbeeld Hindoetempels in India, in het Oude Griekenland, China, Japan en Israël is het symbool te vinden in oude tempels, synagogen en in Mesada. . In Egypte is de Flower of Life te zien in bijvoorbeeld de tempel van Abydos. Daar werden de 19 basiscirkels van het symbool gevonden. Wij vonden voor jou een aantal bijzondere ‘Flower-of-Life’ producten, die wij zelf importeren van onze buitenlandse producent. Zo kan je het universele levenssymbool (zoals boven is beschreven) opnemen in jouw dagelijkse leven. Elk artikel wordt met de hand gemaakt in een atelier op Bali. Wees er snel bij, want de vorige keer waren ze snel uitverkocht..! …](https://www.wanttoknow.nl/aanbieding/cadeautip-de-magische-flower-of-life-2/)
 
-[Order now](https://www.wanttoknow.nl/aanbieding/ring-of-harmony-terug-naar-de-natuurlijke-balans-zomer-2024/#pt-field-text-5)
+[Order now](https://www.wanttoknow.nl/aanbieding/cadeautip-de-magische-flower-of-life-2/#pt-field-text-5)
 
 [![Energetische atlasprofilax](https://www.wanttoknow.nl/wp-content/uploads/Atlas-banner2.jpg)](https://lucardie.eu/de-energetische-atlascorrectieeen-nieuwe-balans/)
 
 #### WantToKnow Aanbieding
 
-![](https://i0.wp.com/www.wanttoknow.nl/wp-content/uploads/akaijagoud1000_8geel.jpg?fit=440%2C440&ssl=1)
+![](https://i0.wp.com/www.wanttoknow.nl/wp-content/uploads/buy-elite-shungite-wholesale-800x800.jpg?fit=440%2C440&ssl=1)
 
-### [De energetische Akaija sieraden, een prachtig energetisch zomercadeau!](https://www.wanttoknow.nl/aanbieding/de-energetische-akaija-sieraden-een-prachtig-energetisch-zomercadeau-zomer-2024/)
+### [Weer beschikbaar: ‘Elite’ Shungiet & Tibetaans Bergkristal!](https://www.wanttoknow.nl/aanbieding/eindelijk-weer-beschikbaar-elite-shungiet-tibetaans-bergkristal-balans-in-jezelf-balans-om-je-heen/)
 
-[– Let op! Aanbieding geldig t/m 8 augustus – Een magisch verhaal rond de creatie van de Akaija, een kosmisch symbool dat werd gevormd tot een sieraad. Een vorm die op wonderlijke wijze ontstond, in samenwerking met de Lichtwereld. Wim Roskam, de maker van de Akaija, heeft deze bijzondere vorm ‘doorgekregen’ van zijn overleden vriendin Linda. Kort voor haar overlijden hadden beiden de afspraak gemaakt, dat zij- indien mogeljik- zou gaan inspireren. En dat bleek te lukken..! Wim begon weer met schilderen en plots was daar dit schilderij, de ‘Akaija’, die in volle vorm op Aarde verscheen als inspiratie. Maar het bleef niet alleen bij dit schilderi want eerst zette Linda hem er overduidelijk toe aan, om ook edelsmid te worden, waardoor de Akaija uit zilver gemaakt kon gaan worden..! En toen de Akaija eenmaal was gemaakt, bleek dat deze vormkracht/Akaija van een veel grotere, universele betekenis was, dan Wim van te voren had kunnen denken of zelfs maar had kunnen dromen… In dit artikel nemen we je mee in dit wonderlijke symbool en het avontuur van fascinerende ontdekkingen die Wim Roskam met deze Akaija maakte.. Wij vinden het in ieder geval meer dan de moeite waard je dit verhaal aan te bieden en vanzelfsprekend ook de hanger als aanbieding aan te reiken. En natuurlijk weer met een speciaal extraatje..! Lees snel verder hoe dit wonderlijke symbool op de aarde is gekomen, waaraan de vorm refereert en de helende eigenschappen van deze vorm… Ook mochten we voor jou als WantToKnow-lezer een aantal exclusieve stukken reserveren, met een speciaal presentje van Wim en Marianne voor jou als WantToKnow-lezer! Zolang de voorraad strekt …](https://www.wanttoknow.nl/aanbieding/de-energetische-akaija-sieraden-een-prachtig-energetisch-zomercadeau-zomer-2024/)
+[– Let op! Aanbieding geldig t/m 19 september. – We zijn ontzettend blij dat we deze Shungiet aanbieding weer kunnen doen! Shungiet is maar op één plek in de wereld te vinden: in Rusland en je weet; import en export is nu dus extreem moeilijk! De enige plek ter wereld waar het gevonden wordt, Shun’ga (Шуньга) ligt aan een groot meer oostelijk van Finland. Shungiet is uniek, omdat het bijna volledig uit een zeldzame ‘Fullereen’ ofwel ‘Buckyball’-carbon (koolstof) bestaat.. Bijzonder, fascinerend materiaal! Lees snel verder voor alle info en hoe je Shungiet ontstorend kunt gebruiken in je dagelijks leven. We vullen deze aanbieding van Elite Shungiet aan, met Tibetaans bergkristal; hoog energetisch en perfect complementair bij Elite Shungiet. Energetische professionals weten: Elite Shungiet maakt een schone lei in huis, waarna de schone energie (weer) kan stromen. Met behulp van deze unieke Tibet Bergkristal! Verspreid Shungiet én Tibetaans bergkristal door je leefwereld, dat klaart de boel energetisch op! In dit artikel de werking van beiden complementaire edelstenen én ontdek je de zeer scherpe prijzen die we voor je hebben afgesproken! Lees dus snel verder. …](https://www.wanttoknow.nl/aanbieding/eindelijk-weer-beschikbaar-elite-shungiet-tibetaans-bergkristal-balans-in-jezelf-balans-om-je-heen/)
 
-[Order now](https://www.wanttoknow.nl/aanbieding/de-energetische-akaija-sieraden-een-prachtig-energetisch-zomercadeau-zomer-2024/#pt-field-text-5)
+[Order now](https://www.wanttoknow.nl/aanbieding/eindelijk-weer-beschikbaar-elite-shungiet-tibetaans-bergkristal-balans-in-jezelf-balans-om-je-heen/#pt-field-text-5)
 
-[![BRES #346](https://www.wanttoknow.nl/wp-content/uploads/BRES-346-BANNER.jpg)](https://bresmagazine.nl/publicaties/)
+[![BRES #347](https://www.wanttoknow.nl/wp-content/uploads/BRES-347.jpg)](https://bresmagazine.nl/publicaties/)
 
 #### WantToKnow Boekentip
 
@@ -128,21 +128,21 @@ by [GuidoJ.](https://www.wanttoknow.nl/author/guido/) Posted on [10 juni 2024](h
 
 Posted in [Boeken](https://www.wanttoknow.nl/dossiers/boeken/) Tagged [Corona](https://www.wanttoknow.nl/trefwoorden/corona/), [Duurzaam](https://www.wanttoknow.nl/trefwoorden/duurzaam/), [Farmacie](https://www.wanttoknow.nl/trefwoorden/farmacie/), [Gezondheid](https://www.wanttoknow.nl/trefwoorden/gezondheid/), [Machtselite](https://www.wanttoknow.nl/trefwoorden/machtselite/), [Media](https://www.wanttoknow.nl/trefwoorden/media/), [Vaccinaties](https://www.wanttoknow.nl/trefwoorden/vaccinaties/), [wereldorde](https://www.wanttoknow.nl/trefwoorden/wereldorde/), [Wetenschap](https://www.wanttoknow.nl/trefwoorden/wetenschap/) [Laat een reactie achter](https://www.wanttoknow.nl/boeken/einde-aan-de-omgekeerde-wereld-van-geneeskunde/#respond)
 
-![](https://i0.wp.com/www.wanttoknow.nl/wp-content/uploads/Biden-looprerk-president-seal.jpg?fit=368%2C483&ssl=1)
+![](https://i0.wp.com/www.wanttoknow.nl/wp-content/uploads/take-a-look-mirror-spiegelbeeld-bedelaar-beggar.jpg?fit=502%2C652&ssl=1)
 
-### De wereld is gebaat bij praktische oplossingen
+### De bedelaars-confrontatie
 
 #### Meelezen, meeleven
 
-![](https://i0.wp.com/www.wanttoknow.nl/wp-content/uploads/Wie-regeert-de-VS-Obama-Biden-banner.jpg?fit=682%2C433&ssl=1)
+![](https://i0.wp.com/www.wanttoknow.nl/wp-content/uploads/weten-dat-het-goed-komt-love-heals-banner.jpg?fit=697%2C440&ssl=1)
 
-### [Wie weet wie de VS bestuurt..??](https://www.wanttoknow.nl/inspiratie/meelezen/wie-weet-wie-de-vs-bestuurt/)
+### [Weten dat het goed komt…](https://www.wanttoknow.nl/overige/weten-dat-het-goed-komt/)
 
-by [GuidoJ.](https://www.wanttoknow.nl/author/guido/) Posted on [14 juli 2024](https://www.wanttoknow.nl/inspiratie/meelezen/wie-weet-wie-de-vs-bestuurt/)
+by [GuidoJ.](https://www.wanttoknow.nl/author/guido/) Posted on [20 augustus 2024](https://www.wanttoknow.nl/overige/weten-dat-het-goed-komt/)
 
-[Een onnavolgbare analyse van Leon de Winter over de chaos in de VS. Een goed verborgen chaos, want krachten ‘achter de schermen’ metselen de gaten die op VS-bestuurlijk niveau vallen, helemaal dicht. En toch is de meest simpele vraag de rode vlag voor ieder weldenkend mens: “Als Joe Biden niet of nauwelijks nog weet wat er speelt in zijn directe omgeving, dan kan hij de VS toch niet meer leiden; maar wie doet dat dan..??!!” Deze vraag is natuurlijk essentieel voor de situatie in de wereld. Wij hebben hier op de site regelmatig verslag gedaan de afgelopen jaren, van de breekbaar-mentale situatie van de familie Biden, waar vooral Hunter Biden (Joe’s zoon) de situatie volledig uit de hand liet lopen. Een krachtige analyse van Leon de Winter. …](https://www.wanttoknow.nl/inspiratie/meelezen/wie-weet-wie-de-vs-bestuurt/)
+[Een van de mensen die dagelijks bezig is, het onderscheid te maken in de wereld en zijn medemensen te informeren over essentiële zaken die wereldburgers manipuleren, onderdrukken en hun vrijheid proberen te ontnemen, is de uitgever van ‘De Andere Krant’, Sander Compagner. Hier in deze column een reflectie van zijn hand, over de heftige tijd waarin we leven en de absolute noodzaak -hoe moeilijk dit ook is- de liefde in je hart te manifesteren. Een krachtig ‘vitamine-pilletje’ voor iedereen -en wie is dat niet- die in deze chaotische tijden een hart onder de riem wil voelen…!!! …](https://www.wanttoknow.nl/overige/weten-dat-het-goed-komt/)
 
-Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/meelezen/) [1 reactie](https://www.wanttoknow.nl/inspiratie/meelezen/wie-weet-wie-de-vs-bestuurt/#comments)
+Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/meelezen/), [Overige](https://www.wanttoknow.nl/dossiers/overige/) Tagged [Economie](https://www.wanttoknow.nl/trefwoorden/economie/), [God](https://www.wanttoknow.nl/trefwoorden/god/), [Inspiratie](https://www.wanttoknow.nl/trefwoorden/inspiratie/), [Media](https://www.wanttoknow.nl/trefwoorden/media/), [Mensen](https://www.wanttoknow.nl/trefwoorden/mensen/), [Politiek](https://www.wanttoknow.nl/trefwoorden/politiek/), [scheppingskracht](https://www.wanttoknow.nl/trefwoorden/scheppingskracht/) [1 reactie](https://www.wanttoknow.nl/overige/weten-dat-het-goed-komt/#comments)
 
 [![Banner Bookshop WantToKnow](https://www.wanttoknow.nl/wp-content/uploads/banner-bookshop-WantToKnow.png)](https://bookshop.wanttoknow.nl/)
 
@@ -151,6 +151,142 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 * [Last 8](#first)
 * [9 - 16](#second)
 * [17 - 24](#third)
+
+![robvdz](https://secure.gravatar.com/avatar/1a031a4277be07cef6901ec8e8af995b?s=50&d=identicon&r=g)
+
+##### **robvdz** reacts on:
+
+##### Het kwaad van de wereld..!
+
+[Het verkleinen van alle shit in deze wereld is er natuurlijk…](https://www.wanttoknow.nl/geschiedenis/geloof-religie/het-kwaad-van-de-wereld/comment-page-1/#comment-626326)
+
+![robvdz](https://secure.gravatar.com/avatar/1a031a4277be07cef6901ec8e8af995b?s=50&d=identicon&r=g)
+
+##### **robvdz** reacts on:
+
+##### Kijk: de Pfizer-C-spuit in mRNA- én een FAKE-variant..!!
+
+[Nou, dikke piemel ik dus ook niet. Want ik heb gewacht tot o…](https://www.wanttoknow.nl/gezondheid/corona-kwestie/kijk-de-pfizer-c-spuit-in-mrna-en-een-fake-variant/comment-page-1/#comment-626325)
+
+![Ron](https://secure.gravatar.com/avatar/1b04eec12e302b86452b78c026422be2?s=50&d=identicon&r=g)
+
+##### **Ron** reacts on:
+
+##### Kijk: de Pfizer-C-spuit in mRNA- én een FAKE-variant..!!
+
+[Ik kan zeggen hooggeplaatste mensen in de samenleving en het…](https://www.wanttoknow.nl/gezondheid/corona-kwestie/kijk-de-pfizer-c-spuit-in-mrna-en-een-fake-variant/comment-page-1/#comment-626324)
+
+![arnold2](https://secure.gravatar.com/avatar/17aa337336868f331c67b43fb1eb9b45?s=50&d=identicon&r=g)
+
+##### **arnold2** reacts on:
+
+##### Het kwaad van de wereld..!
+
+[Harriet Algra. Harriet wanneer u gelijk heeft dat de cabal s…](https://www.wanttoknow.nl/geschiedenis/geloof-religie/het-kwaad-van-de-wereld/comment-page-1/#comment-626323)
+
+![Republikein](https://secure.gravatar.com/avatar/395018877d25c29ed8c4b9d99816de9f?s=50&d=identicon&r=g)
+
+##### **Republikein** reacts on:
+
+##### Wat is tijd..??
+
+[Indien interesse, lees de artikelen van Alfred Webre . https…](https://www.wanttoknow.nl/inspiratie/wat-is-tijd/comment-page-1/#comment-626322)
+
+![G.B](https://secure.gravatar.com/avatar/d2b0486de9a7604f3d778736859422c3?s=50&d=identicon&r=g)
+
+##### **G.B** reacts on:
+
+##### Poetin verklaart Rusland GMO-vrij..!!
+
+[Ik ben heel blij met dit positieve nieuws! Eindelijk is deze…](https://www.wanttoknow.nl/nieuws/poetin-verklaart-rusland-gmo-vrij/comment-page-1/#comment-626321)
+
+![ikzie](https://secure.gravatar.com/avatar/99005f7fd1b9bebeaf2ae5766f00b3c6?s=50&d=identicon&r=g)
+
+##### **ikzie** reacts on:
+
+##### Pfizer-mRNA-oplichterij bekend bij autoriteiten..!!
+
+[Hier onder de mensen die ik ken hetzelfde. Eergisteren een h…](https://www.wanttoknow.nl/gezondheid/corona-kwestie/pfizer-mrna-oplichterij-bekend-bij-autoriteiten/comment-page-1/#comment-626320)
+
+![Senjutsu](https://secure.gravatar.com/avatar/744ec16c6541fe3eb3d9745c3bf7eff8?s=50&d=identicon&r=g)
+
+##### **Senjutsu** reacts on:
+
+##### Trump, ‘Q’ en meer…!
+
+[Icke en Jensen lichten een paar tipjes van de sluier op. Wil…](https://www.wanttoknow.nl/politiek/trump-q-en-meer/comment-page-1/#comment-626319)
+
+![El](https://secure.gravatar.com/avatar/7fbad5c4c90866e3a51ba5c36ceac8d1?s=50&d=identicon&r=g)
+
+##### **El** reacts on:
+
+##### Pfizer-mRNA-oplichterij bekend bij autoriteiten..!!
+
+[Helaas beginnen de gevaccineerden om me heen neer te vallen…](https://www.wanttoknow.nl/gezondheid/corona-kwestie/pfizer-mrna-oplichterij-bekend-bij-autoriteiten/comment-page-1/#comment-626318)
+
+![Marie-José](https://secure.gravatar.com/avatar/c913238cd212a2c5422b677c807b1129?s=50&d=identicon&r=g)
+
+##### **Marie-José** reacts on:
+
+##### Weten dat het goed komt…
+
+[Een prachtig stuk van Sander Compagner !. Wij kopen nogal ee…](https://www.wanttoknow.nl/overige/weten-dat-het-goed-komt/comment-page-1/#comment-626317)
+
+![Arend Zeevat](https://secure.gravatar.com/avatar/54f43225736f1bab22ea8f9a12c4d3a3?s=50&d=identicon&r=g)
+
+##### **Arend Zeevat** reacts on:
+
+##### Micha Kat vrij en vertelt over gevangenisstraf..
+
+[Micha was en is een fenomeen. Zonder hem te willen verheerli…](https://www.wanttoknow.nl/overige/pedofilie-misbruik/micha-kat-vrij-en-vertelt-over-gevangenisstraf/comment-page-1/#comment-626316)
+
+![GuidoJ.](https://secure.gravatar.com/avatar/379ae4ab61453c2ebafbbe75126acc17?s=50&d=identicon&r=g)
+
+##### **GuidoJ.** reacts on:
+
+##### Wat is tijd..??
+
+[Dankjewel goede mensen. Ervaring (15 jaar+), kennis en inzic…](https://www.wanttoknow.nl/inspiratie/wat-is-tijd/comment-page-1/#comment-626315)
+
+![Adriaan W](https://secure.gravatar.com/avatar/f607d7c1535fae5fdb42d6065fb8e1f5?s=50&d=identicon&r=g)
+
+##### **Adriaan W** reacts on:
+
+##### Wat is tijd..??
+
+[Thanks inhetmeer, whantoknow is een pracht site, niet te ver…](https://www.wanttoknow.nl/inspiratie/wat-is-tijd/comment-page-1/#comment-626314)
+
+![inhetmeer](https://secure.gravatar.com/avatar/e59606caac6119e46905799cf0c15cc3?s=50&d=identicon&r=g)
+
+##### **inhetmeer** reacts on:
+
+##### Steun genomineerden voor de VVJ-Assange-prijzen!
+
+[Guido…..zet jezelf op de lijst.…](https://www.wanttoknow.nl/overige/steun-genomineerden-voor-de-vvj-assange-prijzen/comment-page-1/#comment-626313)
+
+![robvdz](https://secure.gravatar.com/avatar/1a031a4277be07cef6901ec8e8af995b?s=50&d=identicon&r=g)
+
+##### **robvdz** reacts on:
+
+##### Wim Abeln, in memoriam..
+
+[Er schijnt dan geen dood te zijn maar toch maken veel mensen…](https://www.wanttoknow.nl/effetjes/wim-abeln-in-memoriam/comment-page-1/#comment-626312)
+
+![inhetmeer](https://secure.gravatar.com/avatar/e59606caac6119e46905799cf0c15cc3?s=50&d=identicon&r=g)
+
+##### **inhetmeer** reacts on:
+
+##### Wat is tijd..??
+
+[Inderdaad Adriaan. Honderd procent mee eens. Dankzij wanttok…](https://www.wanttoknow.nl/inspiratie/wat-is-tijd/comment-page-1/#comment-626311)
+
+![robvdz](https://secure.gravatar.com/avatar/1a031a4277be07cef6901ec8e8af995b?s=50&d=identicon&r=g)
+
+##### **robvdz** reacts on:
+
+##### Het landverraad van Rutte: ‘WEF RULES’…!!
+
+[ja het is en vies zooitje bijelkaar. Ik kom niet zo vaak mee…](https://www.wanttoknow.nl/politiek/wef-schwab/het-landverraad-van-rutte-wef-rules/comment-page-1/#comment-626310)
 
 ![Adriaan W](https://secure.gravatar.com/avatar/f607d7c1535fae5fdb42d6065fb8e1f5?s=50&d=identicon&r=g)
 
@@ -271,142 +407,6 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 ##### Hoe Pia Dijkstra (D66) de TweedeKamer en NL-volk MINACHT..!!
 
 [Belangrijke update... Ervan uitgegaan dat ons duidelijk "NEE…](https://www.wanttoknow.nl/gezondheid/hoe-pia-dijkstra-d66-de-tweedekamer-en-nl-volk-minacht/comment-page-1/#comment-626290)
-
-![inhetmeer](https://secure.gravatar.com/avatar/e59606caac6119e46905799cf0c15cc3?s=50&d=identicon&r=g)
-
-##### **inhetmeer** reacts on:
-
-##### WHO-‘Pandemie-verdrag’ volledig gammel…!!
-
-[Beter ........mede dankzij jullie hier. Het lijkt er op dat…](https://www.wanttoknow.nl/politiek/who-pandemie-verdrag-volledig-gammel/comment-page-1/#comment-626289)
-
-![ikzie](https://secure.gravatar.com/avatar/99005f7fd1b9bebeaf2ae5766f00b3c6?s=50&d=identicon&r=g)
-
-##### **ikzie** reacts on:
-
-##### Topstudie: ‘CO2-relatie klimaatverandering: ONZIN!’
-
-[LOFAR/ASTRON middelpunt van wereldwijde HAARP systeem in Ned…](https://www.wanttoknow.nl/wetenschap/klimaat/topstudie-co2-relatie-klimaatverandering-onzin/comment-page-1/#comment-626288)
-
-![ElIza](https://secure.gravatar.com/avatar/f0ed9aba6e2a1eac0dc392ca8087ca24?s=50&d=identicon&r=g)
-
-##### **ElIza** reacts on:
-
-##### Hoe Pia Dijkstra (D66) de TweedeKamer en NL-volk MINACHT..!!
-
-[Sinds jaren ben ik trouwe lezer v.d. site en had reeds vaker…](https://www.wanttoknow.nl/gezondheid/hoe-pia-dijkstra-d66-de-tweedekamer-en-nl-volk-minacht/comment-page-1/#comment-626287)
-
-![robvdz](https://secure.gravatar.com/avatar/1a031a4277be07cef6901ec8e8af995b?s=50&d=identicon&r=g)
-
-##### **robvdz** reacts on:
-
-##### Zijn vaccins een ‘verzinsel’ én een groot gevaar..??
-
-[Een goed artikel over zuur een basis. Gegeven door een Ameri…](https://www.wanttoknow.nl/gezondheid/corona-kwestie/zijn-vaccins-een-verzinsel-en-een-groot-gevaar/comment-page-1/#comment-626286)
-
-![Arend Zeevat](https://secure.gravatar.com/avatar/54f43225736f1bab22ea8f9a12c4d3a3?s=50&d=identicon&r=g)
-
-##### **Arend Zeevat** reacts on:
-
-##### Topstudie: ‘CO2-relatie klimaatverandering: ONZIN!’
-
-[Een heel complete en onthullende documentaire over de progra…](https://www.wanttoknow.nl/wetenschap/klimaat/topstudie-co2-relatie-klimaatverandering-onzin/comment-page-1/#comment-626285)
-
-![robvdz](https://secure.gravatar.com/avatar/1a031a4277be07cef6901ec8e8af995b?s=50&d=identicon&r=g)
-
-##### **robvdz** reacts on:
-
-##### Topstudie: ‘CO2-relatie klimaatverandering: ONZIN!’
-
-[Dit artikel is de finale in de discussie over het "groene ge…](https://www.wanttoknow.nl/wetenschap/klimaat/topstudie-co2-relatie-klimaatverandering-onzin/comment-page-1/#comment-626284)
-
-![inhetmeer](https://secure.gravatar.com/avatar/e59606caac6119e46905799cf0c15cc3?s=50&d=identicon&r=g)
-
-##### **inhetmeer** reacts on:
-
-##### De FBI en CIA: Vijanden van ’t Amerikaanse volk..!!
-
-[Verbazen doet het mij niet.......maar het is wel donders ver…](https://www.wanttoknow.nl/overige/de-fbi-en-cia-vijanden-van-t-amerikaanse-volk/comment-page-1/#comment-626283)
-
-![inhetmeer](https://secure.gravatar.com/avatar/e59606caac6119e46905799cf0c15cc3?s=50&d=identicon&r=g)
-
-##### **inhetmeer** reacts on:
-
-##### Waarom het zolang duurt..!
-
-[Tsja.........dat is exact waar het nog over gaat.........en…](https://www.wanttoknow.nl/inspiratie/waarom-het-zolang-duurt-2/comment-page-1/#comment-626282)
-
-![arnold2](https://secure.gravatar.com/avatar/17aa337336868f331c67b43fb1eb9b45?s=50&d=identicon&r=g)
-
-##### **arnold2** reacts on:
-
-##### Nederlandse grondrechten overruled door WHO..?!!?
-
-[Hoi El Misschien heb ik wel last van het Stockholmsyndroom o…](https://www.wanttoknow.nl/overige/nederlandse-grondrechten-overruled-door-who/comment-page-1/#comment-626281)
-
-![El](https://secure.gravatar.com/avatar/7fbad5c4c90866e3a51ba5c36ceac8d1?s=50&d=identicon&r=g)
-
-##### **El** reacts on:
-
-##### Nederlandse grondrechten overruled door WHO..?!!?
-
-[Die zegt dit, die zegt dat... ze zeggen allemaal wat. Maar j…](https://www.wanttoknow.nl/overige/nederlandse-grondrechten-overruled-door-who/comment-page-1/#comment-626280)
-
-![El](https://secure.gravatar.com/avatar/7fbad5c4c90866e3a51ba5c36ceac8d1?s=50&d=identicon&r=g)
-
-##### **El** reacts on:
-
-##### Nederlandse grondrechten overruled door WHO..?!!?
-
-[Het is een keuze om Nederlander te zijn. De rechten van de m…](https://www.wanttoknow.nl/overige/nederlandse-grondrechten-overruled-door-who/comment-page-1/#comment-626279)
-
-![arnold2](https://secure.gravatar.com/avatar/17aa337336868f331c67b43fb1eb9b45?s=50&d=identicon&r=g)
-
-##### **arnold2** reacts on:
-
-##### Nederlandse grondrechten overruled door WHO..?!!?
-
-[https://groene-rekenkamer.nl/download/De-dodelijke-keerzijde…](https://www.wanttoknow.nl/overige/nederlandse-grondrechten-overruled-door-who/comment-page-1/#comment-626277)
-
-![arnold2](https://secure.gravatar.com/avatar/17aa337336868f331c67b43fb1eb9b45?s=50&d=identicon&r=g)
-
-##### **arnold2** reacts on:
-
-##### Nederlandse grondrechten overruled door WHO..?!!?
-
-[Mona Keyzer is er tegen dat de WHO de dienst gaat uitmaken m…](https://www.wanttoknow.nl/overige/nederlandse-grondrechten-overruled-door-who/comment-page-1/#comment-626276)
-
-![arnold2](https://secure.gravatar.com/avatar/17aa337336868f331c67b43fb1eb9b45?s=50&d=identicon&r=g)
-
-##### **arnold2** reacts on:
-
-##### Nederlandse grondrechten overruled door WHO..?!!?
-
-[Hoi EL. Nederland kan nu al vaak niets omdat het in strijd z…](https://www.wanttoknow.nl/overige/nederlandse-grondrechten-overruled-door-who/comment-page-1/#comment-626275)
-
-![El](https://secure.gravatar.com/avatar/7fbad5c4c90866e3a51ba5c36ceac8d1?s=50&d=identicon&r=g)
-
-##### **El** reacts on:
-
-##### Nederlandse grondrechten overruled door WHO..?!!?
-
-[De rechten van de mens zijn 'vrij' helder... Artikel 2 Een i…](https://www.wanttoknow.nl/overige/nederlandse-grondrechten-overruled-door-who/comment-page-1/#comment-626274)
-
-![arnold2](https://secure.gravatar.com/avatar/17aa337336868f331c67b43fb1eb9b45?s=50&d=identicon&r=g)
-
-##### **arnold2** reacts on:
-
-##### Nederlandse grondrechten overruled door WHO..?!!?
-
-[Bouwde Bill Gates ten tijde van corana al geen 7 nieuwe fabr…](https://www.wanttoknow.nl/overige/nederlandse-grondrechten-overruled-door-who/comment-page-1/#comment-626273)
-
-![ikzie](https://secure.gravatar.com/avatar/99005f7fd1b9bebeaf2ae5766f00b3c6?s=50&d=identicon&r=g)
-
-##### **ikzie** reacts on:
-
-##### Orbs, zie jij ze ook vliegen..? (+ updates!)
-
-[IRIS, oké…](https://www.wanttoknow.nl/wetenschap/energie/orbs-zie-jij-ze-ook-vliegen/comment-page-2/#comment-626272)
 
 [![VaccinVrij banner](https://www.wanttoknow.nl/wp-content/uploads/stichting-vaccin-vrij-banner.jpg)](https://stichtingvaccinvrij.nl/)
 
