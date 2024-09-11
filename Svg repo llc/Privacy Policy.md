@@ -256,6 +256,6 @@ Search, explore, edit and share open-licensed SVG vectors
 * [Font Repo](https://www.fontrepo.com/)
 * [SVG Find](https://svgfind.com/)
 
-© 2023 · SVG Repo LLC
+© 2024 · SVG Repo LLC
 
 [Terms of Use](https://www.svgrepo.com/page/terms-of-use)[Privacy Policy](https://www.svgrepo.com/page/privacy-policy)[Licensing](https://www.svgrepo.com/page/licensing)[Contact](https://www.svgrepo.com/page/contact)
