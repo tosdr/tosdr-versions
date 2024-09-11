@@ -1,11 +1,12 @@
 [](https://arc.net/)
 
 * [Max](https://arc.net/max)
-* [Arc Search](https://apps.apple.com/app/apple-store/id6472513080?pt=120729021&ct=arcnet-nav&mt=8)
+* [Mobile](https://arc.net/search)
 * [Developers](https://arc.net/developers)
+* [Students](https://arc.net/students)
 * [Blog](https://arc.net/blog)
 
-[Download Arc for Windows 11](https://releases.arc.net/windows/ArcInstaller.exe)
+[Download Arc for Windows](https://releases.arc.net/windows/ArcInstaller.exe)
 
 [Download Arc for Mac](https://releases.arc.net/release/Arc-latest.dmg)
 
