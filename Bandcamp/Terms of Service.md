@@ -27,11 +27,9 @@ cancel
 * [sign up](#)
 * [log in](https://bandcamp.com/login)
 
-[Bandcamp Gift Cards](https://bandcamp.com/gift_cards?from=header)
-
 Hey! Please verify your email by clicking the link we sent to . [Change email / Send again](#)
 
-[Bandcamp Gift Cards](https://bandcamp.com/gift_cards?from=header)  and  [Merch](https://store.bandcamp.com/)
+[Bandcamp Merch Store](https://store.bandcamp.com/)
 
 ×
 
