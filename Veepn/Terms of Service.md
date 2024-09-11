@@ -1,4 +1,4 @@
-[![veepn home](/assets/a38d92bf/images/logo-main.svg)](https://veepn.com/)
+[![veepn home](/assets/89e68a4f/images/logo-main.svg)](https://veepn.com/)
 
 * VPN Apps
     
@@ -77,17 +77,18 @@
     [How Does a VPN Work?](https://veepn.com/what-is-vpn/)
     
 * [Pricing](https://order.veepn.com/pricing/)
-* [Help](https://support.veepn.com/)
+* [Help](https://help.veepn.com/hc/en-us)
 * [Log in](https://veepn.com/login/)
 
 [Get VeePN Now](https://order.veepn.com/pricing/)
 
-![en language](/assets/a38d92bf/images/flags/en.svg) en
+![en language](/assets/89e68a4f/images/flags/en.svg) en
 
 *  [Українська](https://veepn.com/uk/terms-of-service/)
 *  [Deutsch](https://veepn.com/de/terms-of-service/)
 *  [Español](https://veepn.com/es/terms-of-service/)
 *  [Français](https://veepn.com/fr/terms-of-service/)
+*  [ภาษาไทย](https://veepn.com/ar/terms-of-service/)
 *  [हिन्दी](https://veepn.com/hi/terms-of-service/)
 *  [Italiano](https://veepn.com/it/terms-of-service/)
 *  [はじめる](https://veepn.com/jp/terms-of-service/)
@@ -138,7 +139,7 @@ By starting or continuing the use of the Service on any computer, mobile phone, 
 
 By accessing the Service, you are agreeing on behalf of yourself or those you represent (“you”) to comply with and be legally bound by these Terms in their entirety.
 
-These Terms constitute a legally binding agreement ( the “Agreement” ) between you and VeePN Corp. (“VeePN”, “we”, “us”, “our”), with registered offices at Samuel Lewis Avenue and 55 East Street Building SL 55 21st Floor Panama City, Panama. If you do not agree with any part of the Terms, you may not use our Services.
+These Terms constitute a legally binding agreement ( the “Agreement” ) between you and VeePN Corp. (“VeePN”, “we”, “us”, “our”), with registered offices at Samuel Lewis Ave & 55th Street, PH SL55 Building, 21st Floor, Panama, Republic of Panama. If you do not agree with any part of the Terms, you may not use our Services.
 
 By creating an account for using our Services, you represent that you are at least eighteen (18 years of age (or are a parent or guardian with such authority to agree to this Privacy Policy for the benefit of an individual under 18 years of age) or that you are a valid legal entity, and that the registration information you have provided is accurate and complete.
 
@@ -246,7 +247,7 @@ Compile a notice containing the following information:
 
 Send the completed notice to VeePN via email at [\[email protected\]](https://veepn.com/cdn-cgi/l/email-protection) or by registered mail to the following address:
 
-VeePN Corp. Samuel Lewis Avenue and 55 East Street Building SL 55 21st Floor Panama City, Panama
+VeePN Corp. Samuel Lewis Ave & 55th Street, PH SL55 Building, 21st Floor, Panama, Republic of Panama
 
 We evaluate your notice and if we find that a breach has occurred, we may take appropriate action, which could include termination of the user's account or limitation or suspension of the provision of services or removal or restriction of the reported content.
 
@@ -352,7 +353,7 @@ All notices to you relating to these Terms shall be notified to you either via t
 
 Please submit any notices to us with respect to the Service or these Terms via [\[email protected\]](https://veepn.com/cdn-cgi/l/email-protection).
 
-[![veepn home](/assets/a38d92bf/images/logo-main.svg)](https://veepn.com/)
+[![veepn home](/assets/89e68a4f/images/logo-main.svg)](https://veepn.com/)
 
 Products
 
@@ -379,7 +380,7 @@ General
 
 Help
 
-* [Support Center](https://support.veepn.com/)
+* [Support Center](https://help.veepn.com/hc/en-us)
 * [Contact Us](javascript:$zopim.livechat.window.show();)
 * [FAQ](https://veepn.com/#faq)
 * [Privacy Policy](https://veepn.com/privacy-policy/)
@@ -413,7 +414,7 @@ Earn Money
 
 [](https://www.facebook.com/VeepnVPN/)[](https://twitter.com/veepn/)[](https://www.tiktok.com/@veepnvpn/)[](https://www.reddit.com/r/VeePN_Security/)[](https://www.pinterest.com/VeePNvpn/)
 
-© 2024 VeePN. All Rights Reserved. Samuel Lewis Avenue and 55 East Street Building SL 55 21st Floor Panama City, Panama
+© 2024 VeePN. All Rights Reserved. Samuel Lewis Ave & 55th Street, PH SL55 Building, 21st Floor, Panama, Republic of Panama
 
 Best VPN deal
 
