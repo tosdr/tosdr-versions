@@ -1,6 +1,4 @@
-[Skip to content](#geist-skip-nav)
-
-[](https://vercel.com/home)
+[![vercel-logotype Logo](/mktng/_next/static/media/logo-vercel-logotype-light.700a8d26.svg)![vercel-logotype Logo](/mktng/_next/static/media/logo-vercel-logotype-dark.e8c0a742.svg)](https://vercel.com/home)
 
 * Products
     
@@ -41,7 +39,7 @@
         
         * [AI Apps
             
-            Deploy at the speed of AI](https://vercel.com/ai)
+            Deploy at the speed of AI](https://vercel.com/solutions/ai-apps)
         * [Composable Commerce
             
             Power storefronts that convert](https://vercel.com/solutions/composable-commerce)
@@ -70,9 +68,9 @@
         * [Resource Center
             
             Today’s best practices](https://vercel.com/resources)
-        * [Integrations
+        * [Marketplace
             
-            Extend and automate workflows](https://vercel.com/integrations)
+            Extend and automate workflows](https://vercel.com/marketplace)
         * [Templates
             
             Jumpstart app development](https://vercel.com/templates)
@@ -97,7 +95,7 @@
 
 [Log In](https://vercel.com/login)[Contact](https://vercel.com/contact)
 
-[Sign Up](https://vercel.com/signup)
+[Sign Up](https://vercel.com/signup)[Sign Up](https://vercel.com/signup)
 
 Privacy Policy
 ==============
@@ -127,9 +125,9 @@ On this page
 15. [Jurisdiction](#jurisdiction "Jurisdiction")
     1. [United States](#united-states)
     2. [EEA and UK](#eea-and-uk)
-[Previous Versions](#previous-versions)[Download PDF](https://assets.vercel.com/image/upload/front/legal/privacy-policy/Privacy_Notice_v2024.pdf)
+[Previous Versions](#previous-versions)[Download PDF](https://assets.vercel.com/image/upload/q_auto/front/legal/privacy-policy/Privacy_Notice_v2024.pdf)
 
-At Vercel, we respect customers’ need for privacy. We offer our Sites and Services (defined below) to customers and users either directly or via a reseller. Where we refer to our “Customers” in this Privacy Notice, we refer to customers that have entered into an agreement with us or our resellers to use the Services (each, an “Agreement“). Each Customers’ respective website users or applicable visitors are referred to as their “End Users.”
+At Vercel, we respect customers' need for privacy. We offer our Sites and Services (defined below) to customers and users either directly or via a reseller. Where we refer to our "Customers" in this Privacy Notice, we refer to customers that have entered into an agreement with us or our resellers to use the Services (each, an "Agreement"). Each Customers' respective website users or applicable visitors are referred to as their "End Users."
 
 By using or accessing our Sites and Services in any manner, you accept the practices and policies outlined in this Privacy Notice and you acknowledge that we may process and share your information.
 
@@ -183,17 +181,17 @@ We collect the following information directly from you when using our Sites and 
     
 * **Domain Registration Information**. We collect registration data when you purchase a domain, such as domain name and registrant contact information. This data may be made publicly available per ICANN policies.
     
-* **User Content and File Information**. We collect your website information that you upload, post, deliver, or otherwise provide to the Service, such as source code, text, photographs, document, or other files including videos or recordings (collectively, “Customer Content”), Git information, and other files that you provide us.
+* **User Content and File Information**. We collect your website information that you upload, post, deliver, or otherwise provide to the Service, such as source code, text, photographs, document, or other files including videos or recordings (collectively, "Customer Content"), Git information, and other files that you provide us.
     
 * **AI Product Information**. We collect information when you interact with certain features or Services related to our AI products, such as user chat prompts, uploaded images, design or text generations. Please see our [AI Policy](https://v0.dev/policy) for more information on the development, deployment, and usage of our AI products and features.
     
-* **Marketing Information**. When you engage and interact with our Marketing Activities or one of our sales or customer support representatives we collect information, including through form submissions, surveys, email communications, or phone calls to inquire about Vercel and our Services, such as the nature of your communication, contact preferences, and any information you choose to provide to us when completing any “free text” boxes.
+* **Marketing Information**. When you engage and interact with our Marketing Activities or one of our sales or customer support representatives we collect information, including through form submissions, surveys, email communications, or phone calls to inquire about Vercel and our Services, such as the nature of your communication, contact preferences, and any information you choose to provide to us when completing any "free text" boxes.
     
 * **Image and Audio Information**. We may collect your image or audio recordings. If you contact us by phone or video, we may record those calls. If you attend an event hosted or sponsored by Vercel, we may capture your image and/or voice in any video, photograph, or audio recording taken at the event. For more information, please see our [Event Terms and Conditions](https://vercel.com/legal/event-terms-conditions).
     
 * **Troubleshooting and Support Information**. We collect information about your account preferences or information you provide when you contact us for support, such as the solution you use, the content of chats and other communications with Vercel, and other details that help us provide support or comply with legal obligations. Support information includes content of a message or attachments that you send to us.
     
-* **Social Media Information**. Our Sites and Services may use social media features, such as the “X” button and other sharing widgets. Vercel is not responsible for how these social media features collect, process, and disclose your information so we encourage you to review the social media platforms’ privacy policies.
+* **Social Media Information**. Our Sites and Services may use social media features, such as the "X" button and other sharing widgets. Vercel is not responsible for how these social media features collect, process, and disclose your information so we encourage you to review the social media platforms' privacy policies.
     
 * **Any Information You Voluntarily Provide to Us**. For example, when you provide feedback on your experience with our Services or join a public discussion forum as part of our Marketing Activities.
     
@@ -210,20 +208,20 @@ We receive information about Customers from third parties or Vercel partners tha
 We receive information from our Customers about their authorized users (i.e., account holders) and their End Users when they interact with our Customers' websites, web applications, and APIs. Information that we receive from our Customers includes:
 
 * **Contact Information**. We collect information when a Customer adds you to their account and/or designates you as an authorized user, such as name, email address, and username.
-* **Website Information**. We collect information about traffic to and from Customers’ websites, such as End User IP address, location information derived from IP address, and system configuration information.
+* **Website Information**. We collect information about traffic to and from Customers' websites, such as End User IP address, location information derived from IP address, and system configuration information.
 
-Customers are responsible for the content transmitted across our network (e.g., images, written content, graphics, runtime logs, etc.), any personal information they process, and following acceptable behavior practices when using our Services. For more information about Vercel’s shared responsibility model, please see our [Documentation](https://vercel.com/docs/security/shared-responsibility).
+Customers are responsible for the content transmitted across our network (e.g., images, written content, graphics, runtime logs, etc.), any personal information they process, and following acceptable behavior practices when using our Services. For more information about Vercel's shared responsibility model, please see our [Documentation](https://vercel.com/docs/security/shared-responsibility).
 
 ### Information We Collect Automatically
 
 When you use or interact with our Sites and Services, we automatically collect or receive certain information about you, your device, and your usage of our Site and Services. This information includes:
 
-* **Usage Information**. We collect information about how you interact with our Sites, Marketing Activities, and Services, such as clicks, pages viewed, searches, web browser used, page response times, errors, date/timestamps associated with your usage, request information (e.g., speed, frequency, the site from which you linked to us (“referring page”), and the name of the website you choose to visit immediately after ours (“exit page”), the amount of time spent on our Sites, and information about other websites you have recently visited.
+* **Usage Information**. We collect information about how you interact with our Sites, Marketing Activities, and Services, such as clicks, pages viewed, searches, web browser used, page response times, errors, date/timestamps associated with your usage, request information (e.g., speed, frequency, the site from which you linked to us ("referring page"), and the name of the website you choose to visit immediately after ours ("exit page"), the amount of time spent on our Sites, and information about other websites you have recently visited.
 * **Device Information**. We collect information about how your devices interact with our Sites, Marketing Activities, and Services, such as browser type and settings, device details (e.g., device type, screen size, operating system, model, model number), language preferences, Internet Service Provider, mobile network, push notification tokens, and device event information (e.g., system activity and hardware settings, application version, and unique device identifiers, such as device ID).
 * **Service-Generated Information**. We collect and use information generated from using our Services and Sites, such as log files, Internet Protocol (IP) address, location information derived from your IP address, proxy server, diagnostics, capacity and usage information to determine storage requirements, performance information from our servers, data settings, and system configurations, including your elected privacy and security settings.
-* **Location Information**. We collect Customers’ and End Users’ city and country based on IP address. We do not identify precise location.
+* **Location Information**. We collect Customers' and End Users' city and country based on IP address. We do not identify precise location.
 * **Telemetry Information**. We collect anonymized statistical and telemetry information as well as aggregated, de-identified information about how you use our Sites and Services.
-* **API Information**. We collect functional data and customer-initiated events (i.e., authentication token, database URL, etc.) from Third-Party Services that connect or integrate with Vercel’s Services.
+* **API Information**. We collect functional data and customer-initiated events (i.e., authentication token, database URL, etc.) from Third-Party Services that connect or integrate with Vercel's Services.
 * **Cookies**. We collect information from your browser by using cookies (which may use a cookie ID) and similar tracking technologies, depending on your settings or preferences in connection with our Sites, Marketing Activities, and Services. Where required by applicable law, we obtain your consent for the use of cookies. You may choose to delete or not accept our cookies as described in our [Cookie Notice](https://vercel.com/legal/cookie-policy).
 
 From time to time, except as restricted by applicable law or our data processing addendums with our customers, we may combine information that we collect as described above with information we obtain from different sources. For example, we may combine information entered through a Vercel sales submission with information we receive from a third-party sales intelligence platform to enhance our ability to market our Services to potential Customers. We may combine usage information with feedback to improve our Services or inform Customers about products that may be relevant to them.
@@ -264,7 +262,7 @@ How We Disclose Information
 
 We disclose information as necessary to provide the Sites and Services, as required by law, or as part of our business practices as follows. We only disclose information on a need-to-know basis where appropriate safeguards and contractual arrangements are in place and as described below.
 
-* **Corporate Affiliates**. We may share or transfer information to any person or entity which directly or indirectly controls, is controlled by or is under common control with Vercel, whether by ownership or otherwise (“Corporate Affiliate”). Any information relating to you that we provide to our Corporate Affiliates will be treated by those Corporate Affiliates in accordance with the terms of this Notice.
+* **Corporate Affiliates**. We may share or transfer information to any person or entity which directly or indirectly controls, is controlled by or is under common control with Vercel, whether by ownership or otherwise ("Corporate Affiliate"). Any information relating to you that we provide to our Corporate Affiliates will be treated by those Corporate Affiliates in accordance with the terms of this Notice.
     
 * **New Owner and Other Corporate Transactions**. We may disclose or transfer your information to relevant third parties in the event of, or as part of the due diligence or during negotiations of, any proposed or actual reorganization, sale, merger, consolidation, joint venture, assignment, transfer, or other disposition of all or part of our business, assets, or stock (including in connection with any bankruptcy or similar proceeding). Personal information may be part of the transferred assets. You may be notified thereafter of any such change in ownership or control through email or other means as applicable.
     
@@ -311,7 +309,7 @@ If you have any questions about the security of our Sites and Services, please c
 Third-Party Services
 --------------------
 
-Our Sites and Services may contain links to or integrations with other websites or applications not operated or controlled by Vercel (“Third-Party Services”). Certain Third-Party Services used to navigate to and from our Sites and Services have separate user terms and privacy notices that are independent of this Notice. We are not responsible for the content, accuracy, or opinions expressed in such Third-Party Services. We do not monitor or check these Third-Party Services for accuracy or completeness. We recommend carefully reviewing the terms and privacy notices of each Third-Party Service prior to use in alignment with your specific compliance, privacy, and security requirements.
+Our Sites and Services may contain links to or integrations with other websites or applications not operated or controlled by Vercel ("Third-Party Services"). Certain Third-Party Services used to navigate to and from our Sites and Services have separate user terms and privacy notices that are independent of this Notice. We are not responsible for the content, accuracy, or opinions expressed in such Third-Party Services. We do not monitor or check these Third-Party Services for accuracy or completeness. We recommend carefully reviewing the terms and privacy notices of each Third-Party Service prior to use in alignment with your specific compliance, privacy, and security requirements.
 
 How We Transfer Your Information
 --------------------------------
@@ -329,9 +327,9 @@ In compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the
 
 For transfers of personal information to a third party acting as a controller, Vercel complies with the DPF [Notice Principle](https://www.dataprivacyframework.gov/framework-article/1%E2%80%93NOTICE) and [Choice Principle](https://www.dataprivacyframework.gov/framework-article/2%E2%80%93CHOICE). For onward transfers, Vercel is responsible for the processing of personal information it receives under the DPF Principles and subsequently transfers to a third party acting as an agent on its behalf. Vercel remains liable under the DPF Principles if its agent processes such personal information in a manner inconsistent with the DPF Principles, unless Vercel proves that it is not responsible for the event giving rise to the damage.
 
-In compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF, Vercel commits to cooperate and comply respectively with the advice of the panel established by the EU data protection authorities (DPAs), the UK Information Commissioner’s Office (ICO) and the Gibraltar Regulatory Authority (GRA), and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF.
+In compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF, Vercel commits to cooperate and comply respectively with the advice of the panel established by the EU data protection authorities (DPAs), the UK Information Commissioner's Office (ICO) and the Gibraltar Regulatory Authority (GRA), and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF.
 
-The Federal Trade Commission has jurisdiction over Vercel’s compliance with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF).
+The Federal Trade Commission has jurisdiction over Vercel's compliance with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF).
 
 In compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF, Vercel is obligated to arbitrate claims and follow the terms as set forth in [Annex I of the DPF Principles](https://www.dataprivacyframework.gov/framework-article/ANNEX-I-introduction). You have the possibility, under certain conditions, to invoke binding arbitration for complaints regarding DPF compliance not resolved by any of the other DPF mechanisms. For additional information please see [Annex I](https://www.dataprivacyframework.gov/framework-article/ANNEX-I-introduction).
 
@@ -340,7 +338,7 @@ Your Privacy Rights and Choices
 
 You have certain choices and rights available when it comes to how we collect and use your information. Below is a summary of those choices and rights and how to exercise them:
 
-* **Opt-out of Marketing Communications.** You may opt-out of receiving marketing communications by clicking the “Unsubscribe” link within each email or by contacting us as provided in [Contact Us](#contact). If you are a Customer, you will continue to receive transactional and administrative communications from us regarding our Sites and Services.
+* **Opt-out of Marketing Communications.** You may opt-out of receiving marketing communications by clicking the "Unsubscribe" link within each email or by contacting us as provided in [Contact Us](#contact). If you are a Customer, you will continue to receive transactional and administrative communications from us regarding our Sites and Services.
     
 * **Account Preferences.** You may update and correct certain account information at any time by logging into your account or contacting our [support services](https://vercel.com/help). If you wish to delete your account, please follow the instructions in our [Documentation](https://vercel.com/guides/how-do-i-delete-my-vercel-account). You may also update certain communication preferences, such as receiving SMS notifications, by logging into your account. We may retain certain information as described in [How We Retain Information](#how-we-retain-info).
     
@@ -352,12 +350,12 @@ Depending on where you are located, you may have certain rights in connection wi
 Minimum Age Requirements for Our Sites and Services
 ---------------------------------------------------
 
-The Sites and Services are not directed or intended for use by individuals under the age of 16. To use Vercel’s Sites and Services, you must be old enough to consent to the processing of your information in your jurisdiction. We do not knowingly collect personal information from anyone under the age of 16. If you are a parent or guardian and you become aware that your child has provided us with personal information, please contact us. If we become aware that we have collected personal information from anyone under the age of 16 without verification or parental consent, we take steps to remove such information.
+The Sites and Services are not directed or intended for use by individuals under the age of 16. To use Vercel's Sites and Services, you must be old enough to consent to the processing of your information in your jurisdiction. We do not knowingly collect personal information from anyone under the age of 16. If you are a parent or guardian and you become aware that your child has provided us with personal information, please contact us. If we become aware that we have collected personal information from anyone under the age of 16 without verification or parental consent, we take steps to remove such information.
 
 Changes to Our Privacy Notice
 -----------------------------
 
-We periodically review and update this Notice to describe new Services or changes to our practices. You can determine when this Notice was last revised by referring to the “Last Update” date at the bottom of this Notice. We encourage you to review the Notice whenever you interact with us to stay informed about our privacy practices and the ways that you can help protect your privacy.
+We periodically review and update this Notice to describe new Services or changes to our practices. You can determine when this Notice was last revised by referring to the "Last Update" date at the bottom of this Notice. We encourage you to review the Notice whenever you interact with us to stay informed about our privacy practices and the ways that you can help protect your privacy.
 
 Contact Us
 ----------
@@ -374,7 +372,7 @@ Jurisdiction-Specific Information
 
 ### United States
 
-This section applies to individuals based in the U.S. and supplements our Privacy Notice with respect to the processing of your personal information in accordance with all applicable privacy and data protection laws and regulations and in each case, as amended, superseded, or replaced from time to time (“Data Privacy Laws”).
+This section applies to individuals based in the U.S. and supplements our Privacy Notice with respect to the processing of your personal information in accordance with all applicable privacy and data protection laws and regulations and in each case, as amended, superseded, or replaced from time to time ("Data Privacy Laws").
 
 #### Data Collection, Use, and Disclosure
 
@@ -389,7 +387,7 @@ We collect the following categories of information as classified by Data Privacy
 * **Commercial Information.** We collect information about the Sites and Services you request and records of Services purchased.
 * **Internet or Other Network Activity Information.** We collect browsing and search history, information collected from cookies and similar technologies, and analytics data.
 * **Geolocation Information.** We collect location information of your city and country derived from IP address.
-* **Other Inferences Drawn from Personal Information.** We draw inferences from the categories of information collected to understand a consumer’s preferences, characteristics, or predispositions.
+* **Other Inferences Drawn from Personal Information.** We draw inferences from the categories of information collected to understand a consumer's preferences, characteristics, or predispositions.
 
 Please see [Information We Collect](#information-we-collect) in our Notice to see the full description of the information that we collect.
 
@@ -406,7 +404,7 @@ Please see [How We Use Information](#how-we-use-info) in our Privacy Notice for 
 
 We disclose your personal information collected with third-party service providers, such as suppliers, vendors, business partners, advertising partners, resellers and consultants to operate our business and provide you with our Sites and Services as well as help us with our Marketing Activities. These third parties may use tracking technologies, such as cookies, to gather information about your activities on our Site to deliver our Marketing Activities to you.
 
-Under certain U.S. laws (e.g., California Consumer Privacy Act), “sharing” may refer to the targeting of advertising to a consumer based on that consumer’s personal information received from the consumer’s activity across websites. We may “share” your information for these purposes to provide more relevant and tailored advertising to you regarding our Sites and Services. Similarly, while we are not in the business of selling your information, under such laws and the broad definition of “sale,” we may “sell” your personal information relating to your browsing activities and our Marketing Activities.
+Under certain U.S. laws (e.g., California Consumer Privacy Act), "sharing" may refer to the targeting of advertising to a consumer based on that consumer's personal information received from the consumer's activity across websites. We may "share" your information for these purposes to provide more relevant and tailored advertising to you regarding our Sites and Services. Similarly, while we are not in the business of selling your information, under such laws and the broad definition of "sale," we may "sell" your personal information relating to your browsing activities and our Marketing Activities.
 
 #### Your Privacy Rights
 
@@ -457,11 +455,11 @@ We fulfill requests within 45 days of receiving your request. Please note that y
 
 ### EEA and UK
 
-This section applies to individuals based in the EEA and UK and outlines the processing of your personal information under Data Privacy Laws, including the General Data Protection Regulation (“GDPR”).
+This section applies to individuals based in the EEA and UK and outlines the processing of your personal information under Data Privacy Laws, including the General Data Protection Regulation ("GDPR").
 
 Vercel acts as a data controller for personal information that we collect about you while using our Sites, Services, or interacting with our Marketing Activities as described in this Notice. We act as a data processor on behalf of our Customers for the personal information contained in Customer Data.
 
-This Notice does not apply to any personal information that we process as a data processor, as we only process that information on behalf of our Customers and in accordance with our agreements with them. A Customer that has entered into an agreement to use our Services (e.g., an individual or organization that uses our platform to deploy their websites) controls its instance of the Service and any associated data. If your personal information is contained in Customer Data, and you have any questions about the specific settings and privacy practices the relevant Customer has made to share your personal information with us, please contact the relevant Customer or review the Customer’s privacy notice.
+This Notice does not apply to any personal information that we process as a data processor, as we only process that information on behalf of our Customers and in accordance with our agreements with them. A Customer that has entered into an agreement to use our Services (e.g., an individual or organization that uses our platform to deploy their websites) controls its instance of the Service and any associated data. If your personal information is contained in Customer Data, and you have any questions about the specific settings and privacy practices the relevant Customer has made to share your personal information with us, please contact the relevant Customer or review the Customer's privacy notice.
 
 #### Data Collection, Use, and Disclosure
 
@@ -512,7 +510,7 @@ You, or an authorized individual acting on your behalf, may submit a verifiable 
 
 **To exercise the rights above, please complete [this form](https://datarequest.vercel.com/privacy)**.
 
-Depending on the Sites and Services provided, End Users seeking to access, correct, amend, or delete personal information should directly contact the Customer, who has transferred such data to us for processing (data controller), directly to fulfill any requests. If our Customer receives a data subject request and sends the request to us, we will respond to the Customer’s request within the agreed timeframe outlined in our Customer agreements. The Customer is responsible for responding to data subject requests as determined under the applicable local data protection laws.
+Depending on the Sites and Services provided, End Users seeking to access, correct, amend, or delete personal information should directly contact the Customer, who has transferred such data to us for processing (data controller), directly to fulfill any requests. If our Customer receives a data subject request and sends the request to us, we will respond to the Customer's request within the agreed timeframe outlined in our Customer agreements. The Customer is responsible for responding to data subject requests as determined under the applicable local data protection laws.
 
 We may need to provide certain identifying information, related to your account (i.e., user ID) or your recent interactions with us to verify your identity, or the identity of any data subject for whom you are requesting information. We cannot respond to your request if we cannot verify your identity and/or authority to make the request on behalf of another and confirm that the personal information relates to you.
 
@@ -537,40 +535,31 @@ Additionally, Vercel has appointed the European Data Protection Office (EDPO) as
 
 The previous version of our privacy policy can be [found here](https://assets.vercel.com/image/upload/v1713814326/front/legal/privacy-policy/Vercel_Privacy_Policy_v2021.pdf).
 
-[](https://vercel.com/home)
-
-© 2024
-
-* [](https://github.com/vercel)
-* [](https://x.com/vercel)
-
 Products
 --------
 
-* [Previews](https://vercel.com/products/previews)
-* [Next.js](https://vercel.com/solutions/nextjs)
-* [Rendering](https://vercel.com/products/rendering)
-* [v0](https://v0.dev/)
-* [Observability](https://vercel.com/products/observability)
-* [Turbo](https://vercel.com/solutions/turborepo)
-* [Security](https://vercel.com/security)
+* [AI](https://vercel.com/ai)
 * [Enterprise](https://vercel.com/enterprise)
-* [Changelog](https://vercel.com/changelog)
-* [CLI & API](https://vercel.com/docs/rest-api)
+* [Next.js](https://vercel.com/solutions/nextjs)
+* [Observability](https://vercel.com/products/observability)
+* [Previews](https://vercel.com/products/previews)
+* [Rendering](https://vercel.com/products/rendering)
+* [Security](https://vercel.com/security)
+* [Turbo](https://vercel.com/solutions/turborepo)
+* [v0](https://v0.dev/)
 
 Resources
 ---------
 
+* [Community](https://vercel.community/)
 * [Docs](https://vercel.com/docs)
 * [Experts](https://vercel.com/experts)
-* [Pricing](https://vercel.com/pricing)
 * [Guides](https://vercel.com/guides)
-* [Customers](https://vercel.com/customers)
 * [Help](https://vercel.com/help)
 * [Integrations](https://vercel.com/integrations)
-* ⌘K
+* [Pricing](https://vercel.com/pricing)
+* [Resources](https://vercel.com/resources)
 * [Templates](https://vercel.com/templates)
-Cookie Preferences
 
 Company
 -------
@@ -578,15 +567,21 @@ Company
 * [About](https://vercel.com/about)
 * [Blog](https://vercel.com/blog)
 * [Careers](https://vercel.com/careers)
+* [Changelog](https://vercel.com/changelog)
 * [Contact Us](https://vercel.com/contact)
-* [Next.js Conf](https://nextjs.org/conf)
-* [Open Source](https://vercel.com/oss)
+* [Customers](https://vercel.com/customers)
 * [Partners](https://vercel.com/partners)
-* [Security](https://vercel.com/security)
 * [Privacy Policy](https://vercel.com/legal/privacy-policy)
 * Legal
 
-* [](https://github.com/vercel)
-* [](https://x.com/vercel)
+Social
+------
 
-Select a display theme:systemlightdark
+* [GitHub](https://github.com/vercel)
+* [LinkedIn](https://linkedin.com/company/vercel)
+* [Twitter](https://x.com/vercel)
+* [YouTube](https://youtube.com/@VercelHQ)
+
+[](https://vercel.com/home)
+
+Select a display theme:system lightdark
