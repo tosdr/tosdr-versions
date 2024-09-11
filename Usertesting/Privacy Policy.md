@@ -15,7 +15,7 @@ Toggle
 Utility
 -------
 
-* [![Icons for top navigation use ONLY](https://usertesting.widen.net/content/1eacda94-11c6-44bd-a28c-92adefa5944d/webp/ICON-top-nav-contact-64x64.webp?w=65&q=1)
+* [![Icon illustration representing a telephone](https://usertesting.widen.net/content/1eacda94-11c6-44bd-a28c-92adefa5944d/webp/ICON-top-nav-contact-64x64.webp?w=65&q=1)
     
     Contact Us](https://www.usertesting.com/contact-us)
     
@@ -33,7 +33,7 @@ Utility
 Sign in
 -------
 
-* ![Icons for top navigation use ONLY](https://usertesting.widen.net/content/88578199-535b-4e4c-9e53-f75fb7658368/webp/ICON-top-nav-login-64x64.webp?crop=yes&k=c&w=88&h=88&q=1)
+* ![Icon illustration representing a person](https://usertesting.widen.net/content/88578199-535b-4e4c-9e53-f75fb7658368/webp/ICON-top-nav-login-64x64.webp?crop=yes&k=c&w=88&h=88&q=1)
     
     * [Sign in to
         
@@ -170,9 +170,9 @@ Main navigation
                 
             * [Marketing teams](https://www.usertesting.com/solutions/teams/marketing)
                 
-            * [UX research teams](https://www.usertesting.com/solutions/teams/UX-teams)
-                
             * [Executives](https://www.usertesting.com/solutions/teams/executives)
+                
+            * [UX research teams](https://www.usertesting.com/solutions/teams/UX-teams)
                 
             
         * Company size
@@ -333,15 +333,15 @@ Main navigation
         
         * Digital Resources
             
-            * [All resources](https://www.usertesting.com/resource-library)
+            * [All resources](https://www.usertesting.com/resources)
                 
             * [Blog](https://www.usertesting.com/blog)
                 
             * [Glossary](https://www.usertesting.com/glossary)
                 
-            * [Guides](https://www.usertesting.com/resources/library/guides)
+            * [Guides](https://www.usertesting.com/resources/guides)
                 
-            * [Industry reports](https://www.usertesting.com/resources/library/industry-reports)
+            * [Industry Reports](https://www.usertesting.com/resources/reports)
                 
             * [Podcast](https://www.usertesting.com/resources/podcast)
                 
@@ -354,13 +354,13 @@ Main navigation
             
         * Events
             
-            * [Virtual & in-person events](https://www.usertesting.com/resources/library/events)
-                
             * [The Human Insight Summit](https://www.usertesting.com/resources/this)
                 
             * [Industry insight series](https://www.usertesting.com/industry-insights)
                 
             * [Human insight User Group](https://www.usertesting.com/resources/events/hug)
+                
+            * [Virtual & in-person events](https://www.usertesting.com/resources/library/events)
                 
             
         * Product Releases
@@ -386,7 +386,7 @@ Menu
 Privacy Policy
 --------------
 
-This privacy policy lets you know what happens to certain personal data that you provide to us, or that we may collect about you. This notice was last updated on January 10th 2024. We may update this privacy policy to reflect changes to the way we process your personal data. If we propose to make any material changes, we will notify you by means of a notice on this page.
+This privacy policy lets you know what happens to certain personal data that you provide to us, or that we may collect about you. This notice was last updated on August  2024. We may update this privacy policy to reflect changes to the way we process your personal data. If we propose to make any material changes, we will notify you by means of a notice on this page.
 
 This policy only applies to personal data processed by or on behalf of UserTesting. The type of data that we collect and how that data is processed may vary depending on your relationship to us as further indicated below. 
 
@@ -397,6 +397,8 @@ The UserTesting Group (“UserTesting” or “we” or “us”) consists of Us
 **Who do we share your information with and where are they?** 
 
 Your personal information may be shared with our processors. We may also share your data amongst the UserTesting group companies (as outlined above). We will have in place an agreement with each of these processors which will restrict how they are able to process your personal information and require them to keep it secure. We will never sell your personal data.
+
+Where we transfer your personal data to third party service providers, we remain liable for ensuring that these third parties process your personal data in accordance with our privacy commitments and applicable data protection laws. We take all necessary steps to ensure that any third party we work with provides the same level of protection for your personal data as required by the DPF principles.
 
 We may also share your personal information: (a) as required by law or legal process; (b) in response to lawful requests by public authorities, including to meet national security or law enforcement requirements or other requests; (c) to investigate suspected violations of any terms or policies applicable to our products or the services provided by us or our third party providers or affiliates; (d) where we reasonably conclude that it is necessary for defending, exercising or establishing our legal rights; (e) to investigate alleged or actual fraud, misrepresentation or other misconduct; (f) in connection with a prospective sale, merger, change of control, bankruptcy or similar transaction; and (g) to other third parties with your express consent. 
 
@@ -435,26 +437,159 @@ We and our partners use cookies or similar technologies to analyse trends, admin
 
 If you want to restrict or block cookies set by our website, you may change your browser settings to do so. For more information about our cookies and to learn more about the cookies on your device, and opt out of them if you wish, please visit [https://www.usertesting.com/cookie-policy](https://www.usertesting.com/cookie-policy). If you use your browser settings to block all cookies (including strictly necessary cookies) you may not be able to access all or parts of our website. 
 
-**EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield**
+**Data Privacy Framework**
 
-We adhere to the principles of the EU-U.S. and Swiss-U.S. Privacy Shield frameworks, although we do not rely on such frameworks as a legal basis for transfers of personal data in light of the judgment of the Court of Justice of the EU in Case C-311/18. If any personal data is transferred outside of the EEA, we will ensure that any such transfer of personal data is governed by an adequacy decision or an alternative valid mechanism for international data transfers, such as the Standard Contractual Clauses. 
+We may transfer the personal data we collect about you to the United States of America for the reasons set forth in this policy. 
 
-We participate in and have certified our compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework.  We are committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Frameworks, and to view our certification, visit the [U.S. Department of Commerce’s Privacy Shield List](https://www.dataprivacyframework.gov/list). 
+UserZoom Technologies, Inc. complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. UserZoom Technologies, Inc. has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union and the United Kingdom in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF.  UserZoom Technologies, Inc. has also certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) Program, and to view UserZoom Technologies, Inc.’s certification, please visit [](https://www.dataprivacyframework.gov/)[https://www.dataprivacyframework.gov](https://www.dataprivacyframework.gov/)/.
 
-We are responsible for the processing of personal data we receive, under each Privacy Shield Framework, and subsequently transfer to a third party acting as an agent on its behalf.  We comply with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
+In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, UserZoom Technologies, Inc. commits to cooperate and comply with the advice of the panel established by the EU data protection authorities (DPAs) and the UK Information Commissioner’s Office (ICO) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF.
 
-With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, we are subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.  In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+All US subsidiaries using the UserTesting brand name adhere to the DPF principles and are subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). This means that the FTC has the authority to enforce compliance with privacy protections and address any privacy concerns or violations that may arise.
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at [https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request).
+Under certain conditions, you have the option to invoke binding arbitration for the resolution of complaints and disputes regarding your privacy and our handling of your personal data. This binding arbitration option is available to ensure that any privacy concerns are addressed and resolved fairly and effectively. For more information about the arbitration process, please contact us at [privacy@usertesting.com](mailto:privacy@usertesting.com).
 
-Under certain conditions, [more fully described on the Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
+### **WEBSITE VISITORS** 
+
+**Who is my data controller?**
+
+UserTesting is your data controller, to the extent that we collect or you provide your personal data.
+
+**What personal data do we collect and why?** 
+
+We collect information from you when you visit our website, register for a UserTesting event, contact us by email or other means (i.e. the chat function) or receive a communication from us or otherwise interact with us on our social media channels, our advertising or our other properties that we operate.
+
+We may collect the following types of data from you: 
+
+* **Identity Data**. This is information that helps us identify who you are, like your name, email address or organisation.
+* **Contact Data**. This is information that details how we can contact you, like your email address, telephone number or postal address.
+* **Observed Data.** This is information about your online browsing behaviour on our website, including information about any devices or applications you have used to access our services (including the make, model and operating system, IP address, general location, browser type and mobile device identifiers) or information about how and when you used the website and to gather demographic information about our user base as a whole.
+* **Referral Data**. This is information about how you arrived at our site (i.e. if you arrive on our website from an external source, such as a link on another website or in an email, we record information about the source that referred you to us).
+* **Voluntary Data.** This is any other information that you voluntarily provide to us, for example in correspondence between you and any UserTesting employee through any means of communications, including through email or other support means, or via our social media channels.
+
+**How do we use your data?**
+
+We may use the data we collect about you for a variety of purposes. European data protection legislation sets out specific “lawful bases” for processing personal data. The below sets out the basis under which we may process different information about you, and explains the purpose of that processing.
+
+|     |     |     |
+| --- | --- | --- |
+| **Purpose** | **Examples of Types of Personal Data used for Purpose** | **Lawful basis** |
+| Keep you informed about product upgrades, special offers, and other products and services of UserTesting, and selected third-party providers, where you have opted in to receive such communications | Contact Data | Consent |
+| If you register for a UserTesting event, to qualify the registration and to contact you with the details of such event | Identity Data, Contact Data | Consent, Legitimate Interests (in order to qualify the registration) |
+| Record, support and facilitate your participation in the activities you choose and to prevent fraudulent and unlawful use. | Identity Data, Contact Data, Observed Data, Referral Data, Voluntary Data | Legitimate Interests, Consent (if relevant) |
+| Track customer preferences to provide a customised website experience | Observed Data, Referral Data | Legitimate Interests |
+| Improve and manage our services and to create new services and features | Observed Data, Voluntary Data, Referral Data | Legitimate Interests |
+| Comply with legal obligations, including document retention or responding to relevant communications from supervisory authorities or other governmental authorities | Identity Data, Contact Data, Observed Data, Referral Data, Voluntary Data | Compliance with legal obligations |
+
+**Social Media, Widgets and Open Forums**
+
+Our website may allow you to engage with social media services, such as LinkedIn, Facebook and Twitter ("Social Networks"), and widgets such as the "Share this" button, or interactive mini-programs that run on our website or which link from Social Networks to our website ("Social Functions"). These Social Functions may access, collect, and integrate with your Social Network accounts and information. For example, these Social Functions may collect your IP address, identify which page you are visiting on our website, or set a cookie. If you choose to use these Social Functions, you may be sharing certain Social Network profile elements with us, including your name, birthday (month/day), comments, contacts, email address, photos, or favourite teams. This sharing is subject to each Social Network's own privacy policy and terms of use. We do not control those Social Networks or your profiles on those services. We cannot modify your privacy settings on those services or establish rules about how your personal information on those services will be used. Please refer to the privacy settings in your Social Network account to manage the data that is shared with us through your account. Information you include and transmit online in a publicly accessible blog, chat room, or Social Network, or that you share in an open forum such as in response to a help center article, may be viewed and used by others without any restrictions. We do not control such uses of your personal information, and by using such services you assume the risk and acknowledge that the personal information provided by you may be viewed and used by us and/or third parties for any number of purposes and that the usage restrictions set forth in this Privacy Policy do not apply to such services.
+
+**Cookies and Other Tracking Technologies**
+
+We and our partners use cookies or similar technologies to analyse trends, administer the website, track users’ movements around the website and to gather demographic information about our user base as a whole. 
+
+If you want to restrict or block cookies set by our website, you may change your browser settings to do so. You may wish to visit [www.youronlinechoices.com/uk/your-ad-choices](http://www.youronlinechoices.com/uk/your-ad-choices) to learn more about the cookies on your device, and opt out of them if you wish. If you use your browser settings to block all cookies (including strictly necessary cookies) you may not be to access all or parts of our website. 
+
+### **STUDY CREATORS** 
+
+**Who is my data controller?**
+
+To the extent that you provide personal data (e.g. audio or video recording) as part of a test that you create or participate in (“**Test**”), you are the data controller, and UserTesting acts as a data processor. Please note, we do not control how your organisation use and share your information. You will need to contact such Study Creators directly for information about their privacy practices or to exercise rights you may have.
+
+UserTesting is your data controller, to the extent that we collect or you provide any other personal data.
+
+**What personal data do we collect and why?** 
+
+We collect information from you when you use the applicable self-service digital user testing and customer experience measurement solution(s) (the “Platform”), including to create studies, contact us by email or other means (i.e. any other ticketing function) or otherwise interact with us on other properties that we operate.
+
+We may collect the following types of data from you: 
+
+* **Identity Data**. This is information that helps us identify who you are, like your name, email address/userID and organisation or workgroup name.  
+* **Contact Data**. This is information that details how we can contact you, like your email address, telephone number or postal address.
+* **Survey Data**. This is any information which you upload to the Platform or which is generated through Studies carried out on the Platform, like Test questions, responses and other data.
+* **Observed Data.** This is information about your online browsing behaviour on the Platform, including information about any devices or applications you have used to access our services (including the make, model and operating system, IP address, general location, browser type and mobile device identifiers) or information about how and when you used the Platform.
+* **Referral Data**. This is information about how you arrived at our site (i.e. if you arrive on our website from an external source, such as a link on another website or in an email, we record information about the source that referred you to us).
+* **Voluntary Data.** This is any other information you provide to us voluntarily, for example via the Platform or in correspondence between you and any UserTesting employee through any means of communications, including through email or other support means, or via our social media channels.
+
+**How do we use your data?**
+
+We may use the data we collect about you for a variety of purposes. European data protection legislation sets out specific “lawful bases” for processing personal data. The below sets out the basis under which we may process different information about you, and explains the purpose of that processing.
+
+|     |     |     |
+| --- | --- | --- |
+| **Purpose** | **Examples of Types of Personal Data used for Purpose** | **Lawful basis** |
+| Contact you about your subscription to our services or your account (e.g. service related announcements, billing-related matters, changes to our services or policies) | Identity Data, Contact Data | Necessary for contract |
+| Provide you with our services, including to provide customer support | Identity Data, Contact Data, Survey Data, Observed Data, Voluntary Data | Necessary for contract |
+| Improve and manage our services and to create new services and features | Voluntary Data, Referral Data | Legitimate Interests |
+| Contact you for marketing purposes (if you opt in) | Identity Data, Contact Data | Consent |
+| Comply with legal obligations, including document retention or responding to relevant communications from supervisory authorities or other governmental authorities | Identity Data, Contact Data, Survey Data, Observed Data, Referral Data, Voluntary Data | Compliance with legal obligations |
+
+### **STUDY CONTRIBUTORS** 
+
+**Who is my data controller?**
+
+UserTesting is your data controller in respect of all personal data collected from you by or on behalf of UserTesting. To the extent that a Study Creator requires that their Test Contributor(s) meets certain demographic criteria, we may share demographic criteria you provide to us with such Study Creator as an independent data controller.
+
+To the extent that you provide personal data (e.g. audio or video recording) as part of a test (“**Test**”), we may receive personal data about you from Study Creators. In such case, that Study Creator is your data controller, and UserTesting acts as a data processor. In all cases, such sharing is related to your participation in their Test, such as sharing a video recording of your participation in a Test. Please note, we do not control how Study Creators use and share your information once they receive it. You will need to contact such Study Creator(s) directly for information about their privacy practices or to exercise rights you may have (including if you would like to opt-out of receiving future emails from a Study Creator).
+
+**What personal data do we collect and why?** 
+
+We collect information from you when you visit or participate in studies operated by us on the applicable digital user testing and customer experience measurement solution(s) (the “**Platform**”). 
+
+We may also collect information about you from our customers who create studies or upload your data to such Platform(s) (“**Study** **Creators**”), including when you participate in studies operated by that Study Creator on the Platform. 
+
+We may collect the following types of data from you: 
+
+* **Identity Data**. This is information that helps us identify who you are, like your name and email address/userID.
+* **Contact Data**. This is information that details how we can contact you, like your email address, telephone number or postal address.
+* **Survey Data**. This is any information which you provide as part of a Test, which may include any information recorded in your survey responses, audio and video recordings and/or any information collected during screen recording, including behavioural data. Please note, all survey data is voluntary. You can always choose not to provide Survey Data, however, this may prevent you from participating in Tests if the Study Creator has required this.
+* **Observed Data.** This is information about your online browsing behaviour on the Platform, including information about any devices or applications you have used to access our services (including the make, model and operating system, IP address, general location, browser type and mobile device identifiers) or information about how and when you used the Platform.
+* **Referral Data**. This is information about how you were invited to participate in such Test
+* **Payment Data**. This is information that you have provided in order to receive an incentive or payment (if applicable) for having completed a survey, including payment details
+* **Voluntary Data.** This is any other information you provide to us voluntarily, for example demographic information provided through your contributor profile, or in correspondence between you and any UserTesting employee through any means of communications, including through email or other support means, or via our social media channels
+
+**Third parties**
+
+We may receive some information from you from Study Creators, as a processor for that Study Creator. In all cases, such sharing is related to your participation in their Test, such as sharing a video recording of your participation in a Test. Please note, we do not control how Study Creators use and share your information once they receive it. You will need to contact such Study Creators directly for information about their privacy practices or to exercise rights you may have (including if you would like to opt-out of receiving future emails from a Study Creator). We maintain an up-to-date list of sub-processors at [https://usertesting.com/privacy-center/](https://usertesting.com/privacy-center/). These lists were last updated in February 2024. 
+
+We treat your Test questions, responses and data as information that is private to you. We do not sell your survey data to third parties.
+
+Additionally, your data may be shared with Imperium, LLC in order to verify the quality of the data provided to us. You may find more information about their own privacy practices in their [privacy policy](https://www.imperium.com/privacy).
+
+**How do we use your data?**
+
+We may use the data we collect about you for a variety of purposes. European data protection legislation sets out specific “lawful bases” for processing personal data. The below sets out the basis under which we may process different information about you, and explains the purpose of that processing.
+
+|     |     |     |
+| --- | --- | --- |
+| **Purpose** | **Examples of Types of Personal Data used for Purpose** | **Lawful basis** |
+| Provide you with access to the Platform, including the ability to participate in Tests | Identity Data, Contact Data | Necessary for contract |
+| Personalise the services, including to send you Tests that match your Contributor profile | Voluntary Data, Observed Data | Legitimate interests |
+| Improve and manage our services and to create new services and features | Observed Data, Voluntary Data, Referral Data, Survey Data (where permitted) | Legitimate interests |
+| To detect and manage fraud | Observed Data, Referral Data, Payment Data, Voluntary Data | Legitimate interests |
+| Contact you for marketing purposes (if you opt in), including to invite you to participate in Tests | Identity Data, Contact Data | Consent |
+| Comply with legal obligations, including document retention or responding to relevant communications from supervisory authorities or other governmental authorities | Identity Data, Contact Data, Survey Data, Observed Data, Referral Data, Voluntary Data | Compliance with legal obligations |
+| If you are due to receive an incentive for having completed a Test, to pay you that incentive | Contact Data, Payment Data | Necessary for contract |
+| Contact you to provide you with relevant information in relation to the services and/or the Platform | Contact Data, Payment Data, Observed Data | Legitimate interests |
+
+**Automated Processing** 
+
+Some features within the Platform may automatically process your information or be used to make judgments about you or your experience or to make recommendations to Study Creators based on Observed Data and/or Study Data. Some of these features used artificial intelligence or machine learning. Specifically:
+
+* If you agree to your audio being recorded as part of a Test, Study Creators may request that a written transcript of what you said be generated
+* Study Creators may request automated analysis of any such transcript in connection with your other Test results, in order to analyse your comments, reviews or feedback to determine the overall sentiment of your experience during a Test, identify keywords that contributors use most frequently or identify common themes within the results of a Test
+* Certain behavioural data such as excessive clicking or scrolling that are identified within your Study Data may be used to categorise moments within the user journey as “friction” in order to help Study Creators identify where you may have had difficulty interacting with websites or prototypes. 
+
+  
+ 
 
 * [More information for website visitors](https://www.usertesting.com/privacy-center/privacy-policy/website-visitors)
 * [More information for study creators](https://www.usertesting.com/privacy-center/privacy-policy/study-creators)
 * [More information for study contributors](https://www.usertesting.com/privacy-center/privacy-policy/study-contributors)
 * [More information for participants of the Experience Research Program](https://www.usertesting.com/privacy-center/experience-research-program-privacy-policy)
 
-[![](/themes/custom/usertesting/assets/images/logo-white.svg)
+[![UserTesting logo](/themes/custom/usertesting/assets/images/logo-white.svg)
 
 Human understanding. Human experiences.](https://www.usertesting.com/ "Home")
 
@@ -517,7 +652,7 @@ Footer
         * [Do Not Sell or Share](https://preferences.usertesting.com/dont_sell)
         * [Cookie policy](https://www.usertesting.com/privacy-center/cookie-policy)
         * [Cookie preferences](#cookie-preferences)
-        * [GDPR policy](https://www.usertesting.com/privacy-center/gdpr-policy)
+        * [GDPR policy](https://www.usertesting.com/usertesting-and-general-data-protection-regulation-gdpr)
         * [Privacy policy](https://www.usertesting.com/privacy-center/privacy-policy)
         * [Anti-Corruption Policy](https://www.usertesting.com/privacy-center/anti-corruption-policy)
     * Legal & other
