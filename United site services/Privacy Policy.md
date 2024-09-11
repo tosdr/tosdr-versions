@@ -1,5 +1,13 @@
 [Skip to content](#fl-main-content)
 
+For support in areas affected by wildfires, call 1.800.TOILETS and press 1.
+
+* [Track Order](https://www.unitedsiteservices.com/order-info)
+* [Pick-Up Request](https://www.unitedsiteservices.com/porta-potty-pickup/)
+* [Pay Bill](https://www.unitedsiteservices.com/billpay/)
+
+[+1 (866) 973-8836](tel:16892840047)
+
 [![United Site Services logo featuring blue text and a green triangle over the letter "i" in "united"](https://cdn.unitedsiteservices.com/wp-content/smush-webp/2023/10/USS-Logo.png.webp "United Site Services logo featuring blue text and a green triangle over the letter "i" in "united"")](https://www.unitedsiteservices.com/)
 
 * [Industries](https://www.unitedsiteservices.com/industries/)
@@ -42,13 +50,8 @@
 * [About US](https://www.unitedsiteservices.com/about/)
     
     * [Why Choose Us?](https://www.unitedsiteservices.com/why-uss/)
-    * [Account Management](https://www.unitedsiteservices.com/doing-business-with-uss/)
     * [Uniform Servicing System](https://www.unitedsiteservices.com/about/10-point-service-plan/)
     * [Our Team](https://www.unitedsiteservices.com/about/our-team/)
-    * [Acquisitions](https://www.unitedsiteservices.com/about/acquisitions/)
-    * [Demo Days](https://www.unitedsiteservices.com/about/demo-day/)
-    * [Blog](https://www.unitedsiteservices.com/blog/)
-    * [Sustainability](https://www.unitedsiteservices.com/sustainability-at-uss/)
     * [New Branch Openings](https://www.unitedsiteservices.com/new-branch-openings/)
         
         * [Nashville, TN](https://www.unitedsiteservices.com/new-branch-openings/tn-nashville/)
@@ -66,18 +69,25 @@
     * [Pay My Bill](https://www.unitedsiteservices.com/billpay/)
     * [Contact Us](https://www.unitedsiteservices.com/customer-support/?form=general-inquiry)
     * [Request Pickup](https://www.unitedsiteservices.com/pickup/)
+    * [Resources](https://www.unitedsiteservices.com/customer-support/resources/)
+        
+        * [Account Management](https://www.unitedsiteservices.com/customer-support/resources/account-management/)
+        * [Blog](https://www.unitedsiteservices.com/customer-support/resources/blog/)
+        * [Sustainability](https://www.unitedsiteservices.com/customer-support/resources/sustainability-at-uss/)
+        * [Demo Days](https://www.unitedsiteservices.com/customer-support/resources/demo-day/)
+        * [Acquisitions](https://www.unitedsiteservices.com/customer-support/resources/acquisitions/)
     * [Paperless Invoicing Registration](https://www.unitedsiteservices.com/paperless-invoicing-registration/)
     * [FAQs](https://www.unitedsiteservices.com/customer-support/#faqs)
 * [Search](#)
     
 
-[(689)-284-0047](tel:16892840047)
+[My Account](https://app.myuss.com/)
 
 [Get a Quote](https://www.unitedsiteservices.com/request-quote)
 
 [![United Site Services logo featuring blue text and a green triangle over the letter "i" in "united"](https://cdn.unitedsiteservices.com/wp-content/smush-webp/2023/10/USS-Logo.png.webp "United Site Services logo featuring blue text and a green triangle over the letter "i" in "united"")](https://www.unitedsiteservices.com/)
 
-[(689)-284-0047](tel:16892840047)
+[My Account](https://app.myuss.com/)
 
 [Get a Quote](https://www.unitedsiteservices.com/request-quote)
 
@@ -129,10 +139,10 @@
     * [Why Choose Us?](https://www.unitedsiteservices.com/why-uss/)
     * [Uniform Servicing System](https://www.unitedsiteservices.com/about/10-point-service-plan/)
     * [Our Team](https://www.unitedsiteservices.com/about/our-team/)
-    * [Acquisitions](https://www.unitedsiteservices.com/about/acquisitions/)
-    * [Demo Days](https://www.unitedsiteservices.com/about/demo-day/)
-    * [Blog](https://www.unitedsiteservices.com/blog/)
-    * [Sustainability](https://www.unitedsiteservices.com/sustainability-at-uss/)
+    * [Acquisitions](https://www.unitedsiteservices.com/customer-support/resources/acquisitions/)
+    * [Demo Days](https://www.unitedsiteservices.com/customer-support/resources/demo-day/)
+    * [Blog](https://www.unitedsiteservices.com/customer-support/resources/blog/)
+    * [Sustainability](https://www.unitedsiteservices.com/customer-support/resources/sustainability-at-uss/)
 * [Careers](https://careers.unitedsiteservices.com/careers-home)
     
     * [Open Positions](https://careers.unitedsiteservices.com/jobs)
@@ -142,6 +152,7 @@
     * [Resources](https://www.unitedsiteservices.com/voluntary-self-identification-disability/)
 * [Contact Us](https://www.unitedsiteservices.com/customer-support/?form=general-inquiry)
 * [Request Pickup](https://www.unitedsiteservices.com/pickup/)
+* [Resources](https://www.unitedsiteservices.com/customer-support/resources/)
 * [FAQs](https://www.unitedsiteservices.com/customer-support/#faqs)
 * [Pay My Bill](https://www.unitedsiteservices.com/billpay/)
 * [Paperless Invoicing Registration](https://www.unitedsiteservices.com/paperless-invoicing-registration/)
@@ -149,6 +160,8 @@
 
 [![United Site Services logo featuring blue text and a green triangle over the letter "i" in "united"](https://cdn.unitedsiteservices.com/wp-content/smush-webp/2023/10/USS-Logo.png.webp "United Site Services logo featuring blue text and a green triangle over the letter "i" in "united"")](https://www.unitedsiteservices.com/)
 
+[My Account](https://app.myuss.com/)
+
 [GO](#)
 
 [×](javascript:void(0))
@@ -197,10 +210,10 @@
     * [Why Choose Us?](https://www.unitedsiteservices.com/why-uss/)
     * [Uniform Servicing System](https://www.unitedsiteservices.com/about/10-point-service-plan/)
     * [Our Team](https://www.unitedsiteservices.com/about/our-team/)
-    * [Acquisitions](https://www.unitedsiteservices.com/about/acquisitions/)
-    * [Demo Days](https://www.unitedsiteservices.com/about/demo-day/)
-    * [Blog](https://www.unitedsiteservices.com/blog/)
-    * [Sustainability](https://www.unitedsiteservices.com/sustainability-at-uss/)
+    * [Acquisitions](https://www.unitedsiteservices.com/customer-support/resources/acquisitions/)
+    * [Demo Days](https://www.unitedsiteservices.com/customer-support/resources/demo-day/)
+    * [Blog](https://www.unitedsiteservices.com/customer-support/resources/blog/)
+    * [Sustainability](https://www.unitedsiteservices.com/customer-support/resources/sustainability-at-uss/)
 * [Careers](https://careers.unitedsiteservices.com/careers-home)
     
     * [Open Positions](https://careers.unitedsiteservices.com/jobs)
@@ -210,6 +223,7 @@
     * [Resources](https://www.unitedsiteservices.com/voluntary-self-identification-disability/)
 * [Contact Us](https://www.unitedsiteservices.com/customer-support/?form=general-inquiry)
 * [Request Pickup](https://www.unitedsiteservices.com/pickup/)
+* [Resources](https://www.unitedsiteservices.com/customer-support/resources/)
 * [FAQs](https://www.unitedsiteservices.com/customer-support/#faqs)
 * [Pay My Bill](https://www.unitedsiteservices.com/billpay/)
 * [Paperless Invoicing Registration](https://www.unitedsiteservices.com/paperless-invoicing-registration/)
@@ -538,11 +552,11 @@ About
 
 * [Our Team](https://www.unitedsiteservices.com/about/our-team/)
 * [Careers](https://careers.unitedsiteservices.com/careers-home)
-* [Acquisitions](https://www.unitedsiteservices.com/about/acquisitions/)
+* [Acquisitions](https://www.unitedsiteservices.com/customer-support/resources/acquisitions/)
 * [New Branch Openings](https://www.unitedsiteservices.com/new-branch-openings/)
 * [Explanation of Charges](https://www.unitedsiteservices.com/about/explanation-of-charges/)
 * [Terms of Use](https://www.unitedsiteservices.com/terms-of-use/)
-* [Blog](https://www.unitedsiteservices.com/blog/)
+* [Blog](https://www.unitedsiteservices.com/customer-support/resources/blog/)
 * [Legal Terms & Conditions](https://www.unitedsiteservices.com/legal-terms-conditions/)
 * [Credit Check Terms & Conditions](https://www.unitedsiteservices.com/credit-terms-conditions/)
 * [CleanToilets.com](https://cleantoilets.com/)
@@ -557,7 +571,7 @@ Customer Support
 * [FAQs](https://www.unitedsiteservices.com/customer-support/#faqs)
 * [Portable Restroom Calculator](https://www.unitedsiteservices.com/portable-restroom-calculator/)
 * [Data Privacy Request Form](https://www.unitedsiteservices.com/data-privacy-request/)
-* [Resources](https://www.unitedsiteservices.com/resources/)
+* [Resources](https://www.unitedsiteservices.com/customer-support/resources/coi-w9/)
 
 Locations
 
@@ -589,11 +603,11 @@ About
 
 * [Our Team](https://www.unitedsiteservices.com/about/our-team/)
 * [Careers](https://careers.unitedsiteservices.com/careers-home)
-* [Acquisitions](https://www.unitedsiteservices.com/about/acquisitions/)
+* [Acquisitions](https://www.unitedsiteservices.com/customer-support/resources/acquisitions/)
 * [New Branch Openings](https://www.unitedsiteservices.com/new-branch-openings/)
 * [Explanation of Charges](https://www.unitedsiteservices.com/about/explanation-of-charges/)
 * [Terms of Use](https://www.unitedsiteservices.com/terms-of-use/)
-* [Blog](https://www.unitedsiteservices.com/blog/)
+* [Blog](https://www.unitedsiteservices.com/customer-support/resources/blog/)
 * [Legal Terms & Conditions](https://www.unitedsiteservices.com/legal-terms-conditions/)
 * [Credit Check Terms & Conditions](https://www.unitedsiteservices.com/credit-terms-conditions/)
 * [CleanToilets.com](https://cleantoilets.com/)
@@ -608,7 +622,7 @@ Customer Support
 * [FAQs](https://www.unitedsiteservices.com/customer-support/#faqs)
 * [Portable Restroom Calculator](https://www.unitedsiteservices.com/portable-restroom-calculator/)
 * [Data Privacy Request Form](https://www.unitedsiteservices.com/data-privacy-request/)
-* [Resources](https://www.unitedsiteservices.com/resources/)
+* [Resources](https://www.unitedsiteservices.com/customer-support/resources/coi-w9/)
 
 Locations
 
