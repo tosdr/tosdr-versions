@@ -194,8 +194,6 @@ The parties have expressly requested and required that these General Terms and C
 
 [About Us](https://bostonpizza.com/en/about-us.html)
 
-[Celebrating 60 Years](https://bostonpizza.com/en/about-us/60th-anniversary.html)
-
 [Corporate](https://bostonpizza.com/en/corporate.html)
 
 [BP Foundation](https://bostonpizza.com/en/bp-foundation.html)
@@ -211,8 +209,6 @@ The parties have expressly requested and required that these General Terms and C
 [BP Mexico](https://www.bostons.com.mx/)
 
 #### legal
-
-[Accessibility Policy](https://bostonpizza.com/en/accessibility-policy.html)
 
 [Privacy Policy](https://bostonpizza.com/en/privacy-policy.html)
 
