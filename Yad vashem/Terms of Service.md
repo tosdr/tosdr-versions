@@ -124,7 +124,6 @@ Follow us:
     * [About the Righteous](https://www.yadvashem.org/righteous/about-the-righteous.html)
     * [About the Program](https://www.yadvashem.org/righteous/about-the-program.html)
     * [Righteous Database](https://righteous.yadvashem.org/)
-    * ["I Am My Brother's Keeper". A Tribute to the Righteous](https://www.yadvashem.org/yv/en/exhibitions/righteous/index.asp)
     * [Featured Stories](https://www.yadvashem.org/righteous/stories.html)
     * [Names of Righteous by Country](https://www.yadvashem.org/righteous/statistics.html)
     * [FAQs](https://www.yadvashem.org/righteous/faq.html)
