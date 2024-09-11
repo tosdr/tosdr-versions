@@ -1,7 +1,5 @@
 [viagogo](https://www.viagogo.com/)
 
-Search 
-
 Terms and Conditions
 --------------------
 
@@ -542,13 +540,13 @@ Terms and Conditions
 
   
 
-If we change this Guarantee, we will post a revised version of the Guarantee on the Site, which shall automatically replace the terms of this Guarantee. Your use of the Site and the Services following the effective date of the revised Guarantee will constitute your acceptance of the revised Guarantee. If you do not agree with the terms of this Guarantee or any revised version of this Guarantee, do not continue to use the Site or Services. The number of average monthly active recipients in the EU of the service provided by viagogo GmbH’s online platform is 2,839,265.
+If we change this Guarantee, we will post a revised version of the Guarantee on the Site, which shall automatically replace the terms of this Guarantee. Your use of the Site and the Services following the effective date of the revised Guarantee will constitute your acceptance of the revised Guarantee. If you do not agree with the terms of this Guarantee or any revised version of this Guarantee, do not continue to use the Site or Services. The number of average monthly active recipients in the EU of the service provided by viagogo GmbH’s online platform is 3,448,758.
 
 Regional Settings
 
 * Country: United States
 * Language: English (US)
-* Currency: £ British Pound Sterling
+* Currency: US$ United States Dollar
 
 More
 
@@ -567,39 +565,41 @@ Stay Up to Date
 
 Popular Events
 
+* [Adele Tour 2024](https://www.viagogo.com/Concert-Tickets/Alternative-Music/Adele-Tickets "Adele Tour 2024")
 * [Real Madrid CF Ticket](https://www.viagogo.com/Sports-Tickets/Soccer/Real-Madrid-CF-Tickets "Real Madrid CF Ticket")
-* [AC Milan Tickets](https://www.viagogo.com/Sports-Tickets/Football/European-Premier-Leagues/Italian-Premier-League/AC-Milan-Tickets "AC Milan Tickets")
-* [Adele Tickets](https://www.viagogo.com/Concert-Tickets/Alternative-Music/Adele-Tickets "Adele Tickets")
 * [FC Barcelona Ticket](https://www.viagogo.com/Sports-Tickets/Soccer/FC-Barcelona-Tickets "FC Barcelona Ticket")
 * [Michael Buble UK Tour](https://www.viagogo.com/Concert-Tickets/Rock-and-Pop/Michael-Buble-Tickets "Michael Buble UK Tour")
-* [Taylor Swift Tickets](https://www.viagogo.com/Concert-Tickets/Country-and-Folk-Music/Taylor-Swift-Tickets "Taylor Swift Tickets")
-* [Zach Bryan Concert Tickets](https://www.viagogo.com/Concert-Tickets/Country-and-Folk-Music/Zach-Bryan-Tickets "Zach Bryan Concert Tickets")
-* [Morgan Wallen Tickets](https://www.viagogo.com/Concert-Tickets/Country-and-Folk-Music/Morgan-Wallen-Tickets "Morgan Wallen Tickets")
-* [Chicago Cubs Tickets](https://www.viagogo.com/Sports-Tickets/Other-Sports/Baseball/MLB/MLB-Regular-Season/Chicago-Cubs-Tickets "Chicago Cubs Tickets")
-* [Olivia Rodrigo Concert Tickets](https://www.viagogo.com/Concert-Tickets/Rock-and-Pop/Olivia-Rodrigo-Tickets "Olivia Rodrigo Concert Tickets")
-* [Lollapalooza Tickets](https://www.viagogo.com/Festival-Tickets/International-Festivals/Lollapalooza-Tickets "Lollapalooza Tickets")
-* [Dead & Company Concert Tickets](https://www.viagogo.com/Concert-Tickets/Rock-and-Pop/Dead-Company-Tickets "Dead & Company Concert Tickets")
-* [New York Yankees Ticket](https://www.viagogo.com/Sports-Tickets/Other-Sports/Baseball/MLB/New-York-Yankees-Tickets "New York Yankees Ticket")
-* [Atlanta Braves Ticket](https://www.viagogo.com/Sports-Tickets/Other-Sports/Baseball/MLB/Atlanta-Braves-Tickets "Atlanta Braves Ticket")
-* [Post Malone Concert Tickets](https://www.viagogo.com/Concert-Tickets/Rap/Underground-Rap/Post-Malone-Tickets "Post Malone Concert Tickets")
-* [Tickets for US Open Tennis](https://www.viagogo.com/Sports-Tickets/Sports-Parking/US-Open-Tennis-Parking-Passes/US-Open-Tennis-Tickets "Tickets for US Open Tennis")
-* [Texas A&M Aggies Football Tickets](https://www.viagogo.com/Sports-Tickets/Football/NCAA-Football/College-Football-Road-Games/Texas-A-M-Aggies-Football-Tickets "Texas A&M Aggies Football Tickets")
-* [Eagles Tickets](https://www.viagogo.com/Concert-Tickets/Rock-and-Pop/Eagles-Tickets "Eagles Tickets")
-* [Imagine Dragons Concert Tickets](https://www.viagogo.com/Concert-Tickets/Alternative-Music/Imagine-Dragons-Tickets "Imagine Dragons Concert Tickets")
-* [Metallica Concert Tickets](https://www.viagogo.com/Concert-Tickets/Hard-Rock-and-Metal-Music/Metallica-Tickets "Metallica Concert Tickets")
-* [Kenny Chesney Tour 2024](https://www.viagogo.com/Concert-Tickets/Country/Contemporary-Country/Neo-Traditionalist-Country/Kenny-Chesney-Tickets "Kenny Chesney Tour 2024")
+* [Taylor Swift Concert Tickets](https://www.viagogo.com/Concert-Tickets/Country-and-Folk-Music/Taylor-Swift-Tickets "Taylor Swift Concert Tickets")
+* [Texas Longhorns Football Tickets](https://www.viagogo.com/Sports-Tickets/Football/NCAA-Football/College-Football-Road-Games/Texas-Longhorns-Football-Tickets "Texas Longhorns Football Tickets")
+* [Tickets for Dallas Cowboys](https://www.viagogo.com/Sports-Tickets/Football/NFL/NFL-Parking-Pass/Dallas-Cowboys-Tickets "Tickets for Dallas Cowboys")
+* [UFC 306 Tickets](https://www.viagogo.com/Sports-Tickets/Other-Sports/Mixed-Martial-Arts/UFC-(Ultimate-Fighting-Championship)/UFC-306-Tickets "UFC 306 Tickets")
+* [New York Yankees Tickets](https://www.viagogo.com/Sports-Tickets/Other-Sports/Baseball/MLB/New-York-Yankees-Tickets "New York Yankees Tickets")
+* [Usher Concert Tickets](https://www.viagogo.com/Concert-Tickets/Rap-and-Hip-Hop-Music/Usher-Tickets "Usher Concert Tickets")
+* [The Eagles Tour 2024](https://www.viagogo.com/Concert-Tickets/Rock-and-Pop/The-Eagles-Tickets "The Eagles Tour 2024")
+* [Minnesota Vikings Ticket](https://www.viagogo.com/Sports-Tickets/Football/NFL/Minnesota-Vikings-Tickets "Minnesota Vikings Ticket")
+* [Miami Dolphins Ticket](https://www.viagogo.com/Sports-Tickets/Football/NFL/NFL-Parking-Pass/Miami-Dolphins-Tickets "Miami Dolphins Ticket")
+* [Post Malone Tickets](https://www.viagogo.com/Concert-Tickets/Rap/Underground-Rap/Post-Malone-Tickets "Post Malone Tickets")
+* [Los Angeles Dodgers Ticket](https://www.viagogo.com/Sports-Tickets/Other-Sports/Baseball/MLB/Los-Angeles-Dodgers-Tickets "Los Angeles Dodgers Ticket")
+* [Tickets for Philadelphia Phillies](https://www.viagogo.com/Sports-Tickets/Other-Sports/Baseball/MLB/Philadelphia-Phillies-Tickets "Tickets for Philadelphia Phillies")
+* [San Francisco 49ers Ticket](https://www.viagogo.com/Sports-Tickets/Football/NFL/San-Francisco-49ers-Tickets "San Francisco 49ers Ticket")
+* [US Open Tennis Tickets](https://www.viagogo.com/Sports-Tickets/Sports-Parking/US-Open-Tennis-Parking-Passes/US-Open-Tennis-Tickets "US Open Tennis Tickets")
+* [Detroit Lions Ticket](https://www.viagogo.com/Sports-Tickets/Football/NFL/NFL-Parking-Pass/Detroit-Lions-Tickets "Detroit Lions Ticket")
+* [Chicago Bears Tickets](https://www.viagogo.com/Sports-Tickets/Football/NFL/NFL-Parking-Pass/Chicago-Bears-Tickets "Chicago Bears Tickets")
 * [Philadelphia Eagles Tickets](https://www.viagogo.com/Sports-Tickets/Football/NFL/NFL-Parking-Pass/Philadelphia-Eagles-Tickets "Philadelphia Eagles Tickets")
-* [Chris Stapleton Tour 2024](https://www.viagogo.com/Concert-Tickets/Country-and-Folk-Music/Chris-Stapleton-Tickets "Chris Stapleton Tour 2024")
+* [Tickets for Houston Texans](https://www.viagogo.com/Sports-Tickets/Football/NFL/NFL-Parking-Pass/Houston-Texans-Tickets "Tickets for Houston Texans")
 * [Alabama Crimson Tide Football Tickets](https://www.viagogo.com/Sports-Tickets/Football/NCAA-Football/College-Football-Road-Games/Alabama-Crimson-Tide-Football-Tickets "Alabama Crimson Tide Football Tickets")
-* [Luke Combs Tour 2024](https://www.viagogo.com/Concert-Tickets/Other-Concerts/Luke-Combs-Tickets "Luke Combs Tour 2024")
+* [Tickets for South Carolina Gamecocks Football](https://www.viagogo.com/Sports-Tickets/Football/NCAA-Football/College-Football-Road-Games/South-Carolina-Gamecocks-Football-Tickets "Tickets for South Carolina Gamecocks Football")
+* [New York Giants Tickets](https://www.viagogo.com/Sports-Tickets/Football/NFL/NFL-Parking-Pass/New-York-Giants-Tickets "New York Giants Tickets")
 
 Copyright © viagogo Entertainment Inc 2024 [Company Details](https://www.viagogo.com/secure/about/company)  
 Use of this web site constitutes acceptance of the [Terms and Conditions](https://www.viagogo.com/secure/help/termsandconditions) and [Privacy Policy](https://www.viagogo.com/secure/help/privacy) and [Cookies Policy](https://www.viagogo.com/help/cookies) and [Mobile Privacy Policy](https://www.viagogo.com/help/privacy/mobile)
 
-\- : ecpuse1-webb03 : -
+\- : ecpuse1-webb09 : -
+
+}
 
 * English (US)
-* £
+* US$
 * Recently Viewed
 * Sign Up
 * Log In
