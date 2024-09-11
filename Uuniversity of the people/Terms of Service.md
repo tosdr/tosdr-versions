@@ -82,7 +82,7 @@
         
         * [In Brief](https://www.uopeople.edu/about/uopeople/in-brief/)
         * [Mission](https://www.uopeople.edu/about/uopeople/mission-values/)
-        * [UoPeople Data](https://www.uopeople.edu/about/uopeople/uopeople-data/)
+        * [UoPeople Factsheet](https://www.uopeople.edu/about/uopeople/uopeople-factsheet/)
         * [Milestones](https://www.uopeople.edu/about/uopeople/milestones/)
     * [Leadership](https://www.uopeople.edu/about/leadership/)
         
@@ -116,9 +116,11 @@
     * [UoPeople Portal](https://your.uopeople.edu/Account/SignIn?ReturnUrl=%2f)
     * [Online Campus](https://my.uopeople.edu/login/index.php)
 * [EN](https://www.uopeople.edu/terms-of-service/ "EN")
+    
+    * [AR](https://ar.uopeople.edu/ "AR")
 
 * [Search](#)
-* [](#)
+* [Search](#)
     
 
 [Home](https://www.uopeople.edu/) > Terms of Service
@@ -249,3 +251,5 @@ Copyright © 2024 University of the People
 * [Privacy Policy](https://www.uopeople.edu/privacy-policy/)
 * [Terms of Service](https://www.uopeople.edu/terms-of-service/)
 * [Sitemap](https://www.uopeople.edu/sitemap/)
+
+* [](https://ar.uopeople.edu/)
