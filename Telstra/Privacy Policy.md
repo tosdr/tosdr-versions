@@ -87,7 +87,19 @@ This service is not eligible for the action you’ve requested.
 
 [](#)
 
-[Go back](# "Go back") [View only](# "View only")
+Can’t add to cart
+-----------------
+
+You can’t sell this product or service via an outbound sale right now. Tell the customer they can visit telstra.com, call us or visit a store to make this purchase.
+
+[Ok](# "Ok")
+
+You can’t sell this product or service
+--------------------------------------
+
+You can view this page, but you can’t sell this product or service via an outbound sale right now. Tell the customer they can visit telstra.com, call us or visit a store to make this purchase
+
+[Cancel](# "Cancel") [Ok](# "Ok")
 
 Looks like this offer isn’t available
 -------------------------------------
@@ -203,7 +215,7 @@ This information often includes your name, date of birth, contact details, proof
 
 We may collect your employment, financial and credit information, like your employment and income details, payment history, credit history and service history.
 
-For more details on how we manage your credit information, check out our Credit Reporting Policy. You can find it on our website at [telstra.com/privacy/credit](https://www.telstra.com/privacy/credit).
+For more details on how we manage your credit information, check out our Credit Reporting Policy. You can find it on our website at [telstra.com/privacy/credit](https://www.telstra.com.au/privacy/important-information-about-credit).
 
 #### Sensitive personal information
 
