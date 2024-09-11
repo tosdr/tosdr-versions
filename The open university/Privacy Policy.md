@@ -95,6 +95,8 @@ These documents set out how we deal with the personal data of staff, workers, jo
 
 * [Recruitment and selection privacy notice (pdf 112kb)](https://about.open.ac.uk/sites/about.open.ac.uk/files/files/recruitment-selection-privacy-notice.pdf)
 * [Colleague privacy notice (pdf 304kb)](https://about.open.ac.uk/sites/about.open.ac.uk/files/files/Privacy/Colleague-privacy-notice-full.pdf)
+* [Applicant Surveys Privacy Notice (pdf 133kb)](https://about.open.ac.uk/sites/about.open.ac.uk/files/files/Privacy/applicant-surveys-privacy-notice.pdf)
+* [Colleague Surveys Privacy Notice (pdf 133kb)](https://about.open.ac.uk/sites/about.open.ac.uk/files/files/Privacy/employee-surveys-privacy-notice.pdf)
 
 Website visitors and enquirers
 
