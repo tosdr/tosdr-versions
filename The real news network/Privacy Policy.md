@@ -72,16 +72,16 @@ Follow Us
 Trending Posts
 --------------
 
-* [Israel's reckless escalations demand we honestly scrutinize Kamala Harris' Gaza position](https://therealnews.com/kamala-harris-israel-palestine-gaza-hamas-hezbollah-iran-lebanon-election-ceasefire-assassination)
-* [Nicolás Maduro wins the presidential elections in Venezuela](https://therealnews.com/nicolas-maduro-wins-the-presidential-elections-in-venezuela)
+* [Is anyone in power responsible for anything?](https://therealnews.com/is-anyone-in-power-responsible-for-anything)
+* [Canada is ending Jewish National Fund’s charitable status](https://therealnews.com/canada-is-ending-jewish-national-funds-charitable-status)
+* ['Big L for Macron': The Paris Olympics were a political catastrophe](https://therealnews.com/big-l-for-macron-the-paris-olympics-were-a-political-catastrophe)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
-* [An 'Olympic problem': Advocates call out Paris's war on the homeless](https://therealnews.com/an-olympic-problem-advocates-call-out-pariss-war-on-the-homeless)
-* [Did Texas cops make this father a fugitive in retaliation for a police brutality lawsuit?](https://therealnews.com/did-texas-cops-make-this-father-a-fugitive-in-retaliation-for-a-police-brutality-lawsuit)
-* [The Supreme Court just made it easier to criminalize homelessness—and that's a win for the prison system](https://therealnews.com/the-supreme-court-just-made-it-easier-to-criminalize-homelessness-and-thats-a-win-for-the-prison-system)
-* [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
-* ['Social cleansing': Thousands of homeless swept up before Paris Olympics](https://therealnews.com/social-cleansing-hundreds-of-homeless-swept-up-before-paris-olympics)
-* [We asked 8 different Teamsters what they thought of Sean O'Brien's speech—their responses may surprise you](https://therealnews.com/we-asked-8-different-teamsters-what-they-thought-of-sean-obriens-speech-their-responses-may-surprise-you)
-* [French police arrest journalists covering anti-Olympics activism](https://therealnews.com/french-police-arrest-journalists-covering-anti-olympics-activism)
+* [Panama. US Invasion. | Under the Shadow, Episode 13](https://therealnews.com/panama-us-invasion-under-the-shadow-episode-13)
+* [First a violent arrest, then threats of the psych ward: A Utah woman's police horror story](https://therealnews.com/first-a-violent-arrest-then-threats-of-the-psych-ward-a-utah-womans-police-horror-story)
+* [As Democrats fold to GOP on border policy, immigrants pay the price](https://therealnews.com/as-democrats-fold-to-the-gop-immigrants-pay-the-price)
+* [Invest in housing, not prisons: California's war on the homeless](https://therealnews.com/invest-in-housing-not-prisons-californias-war-on-the-homeless)
+* [Black, conservative, and unapologetic: A deep dive with the Black women fighting to get Trump reelected](https://therealnews.com/black-conservative-and-unapologetic-a-deep-dive-with-the-black-women-fighting-to-get-trump-reelected)
+* ['A great day': workers at second southern auto industry plant join UAW](https://therealnews.com/a-great-day-workers-at-second-southern-auto-industry-plant-join-uaw)
 
 Close
 
@@ -136,16 +136,16 @@ Follow Us
 Trending Posts
 --------------
 
-* [Israel's reckless escalations demand we honestly scrutinize Kamala Harris' Gaza position](https://therealnews.com/kamala-harris-israel-palestine-gaza-hamas-hezbollah-iran-lebanon-election-ceasefire-assassination)
-* [Nicolás Maduro wins the presidential elections in Venezuela](https://therealnews.com/nicolas-maduro-wins-the-presidential-elections-in-venezuela)
+* [Is anyone in power responsible for anything?](https://therealnews.com/is-anyone-in-power-responsible-for-anything)
+* [Canada is ending Jewish National Fund’s charitable status](https://therealnews.com/canada-is-ending-jewish-national-funds-charitable-status)
+* ['Big L for Macron': The Paris Olympics were a political catastrophe](https://therealnews.com/big-l-for-macron-the-paris-olympics-were-a-political-catastrophe)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
-* [An 'Olympic problem': Advocates call out Paris's war on the homeless](https://therealnews.com/an-olympic-problem-advocates-call-out-pariss-war-on-the-homeless)
-* [Did Texas cops make this father a fugitive in retaliation for a police brutality lawsuit?](https://therealnews.com/did-texas-cops-make-this-father-a-fugitive-in-retaliation-for-a-police-brutality-lawsuit)
-* [The Supreme Court just made it easier to criminalize homelessness—and that's a win for the prison system](https://therealnews.com/the-supreme-court-just-made-it-easier-to-criminalize-homelessness-and-thats-a-win-for-the-prison-system)
-* [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
-* ['Social cleansing': Thousands of homeless swept up before Paris Olympics](https://therealnews.com/social-cleansing-hundreds-of-homeless-swept-up-before-paris-olympics)
-* [We asked 8 different Teamsters what they thought of Sean O'Brien's speech—their responses may surprise you](https://therealnews.com/we-asked-8-different-teamsters-what-they-thought-of-sean-obriens-speech-their-responses-may-surprise-you)
-* [French police arrest journalists covering anti-Olympics activism](https://therealnews.com/french-police-arrest-journalists-covering-anti-olympics-activism)
+* [Panama. US Invasion. | Under the Shadow, Episode 13](https://therealnews.com/panama-us-invasion-under-the-shadow-episode-13)
+* [First a violent arrest, then threats of the psych ward: A Utah woman's police horror story](https://therealnews.com/first-a-violent-arrest-then-threats-of-the-psych-ward-a-utah-womans-police-horror-story)
+* [As Democrats fold to GOP on border policy, immigrants pay the price](https://therealnews.com/as-democrats-fold-to-the-gop-immigrants-pay-the-price)
+* [Invest in housing, not prisons: California's war on the homeless](https://therealnews.com/invest-in-housing-not-prisons-californias-war-on-the-homeless)
+* [Black, conservative, and unapologetic: A deep dive with the Black women fighting to get Trump reelected](https://therealnews.com/black-conservative-and-unapologetic-a-deep-dive-with-the-black-women-fighting-to-get-trump-reelected)
+* ['A great day': workers at second southern auto industry plant join UAW](https://therealnews.com/a-great-day-workers-at-second-southern-auto-industry-plant-join-uaw)
 
 [Skip to content](#main)
 
