@@ -353,9 +353,6 @@ Resources
 * [About](https://uizard.io/about/)
 * [Pricing](https://uizard.io/pricing/)
 * [Careers](https://uizard.io/careers/)
-* [Affiliate
-    
-    NEW](https://uizard.io/affiliate/)
 * [Research](https://uizard.io/research/)
 * [Press](https://uizard.io/press/)
 * [Releases](https://updates.uizard.io/)
