@@ -191,10 +191,11 @@ Any claim related to 7 Data Recovery LLC's Website shall be governed by the laws
 * [About Us](https://7datarecovery.com/about-us/ "About Us")
 * [Contact us](https://7datarecovery.com/contact/ "Contact us")
 
+English![en](/images/flags/flag_en.png)
+
+* [![en](/images/flags/flag_en.png)English](https://7datarecovery.com/terms-of-service.html "English")
+* [![de](/images/flags/flag_de.png)Deutsch](https://7datarecovery.com/de/terms-of-service.html "Deutsch")
+
 © 2024 7 Data Recovery LLC
 
 2400 Herodian Way SE #224, Smyrna, GA 30080, USA
-
-This site uses cookies. By continuing to use this site, you are agreeing to our use of cookies.
-
-[Learn More](https://7datarecovery.com/privacy-policy.html#Cookies_and_Web_Beacons) Accept
