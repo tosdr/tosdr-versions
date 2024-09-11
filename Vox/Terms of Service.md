@@ -405,7 +405,7 @@ If you wish to contact us in writing, have a complaint or are required to give u
 
 * [Privacy Notice](https://www.voxmedia.com/legal/privacy-notice)
 * [Cookie Policy](https://www.voxmedia.com/legal/cookie-policy)
-* Consent Management
+* Cookie Settings
 * [Terms of Use](https://www.voxmedia.com/legal/terms-of-use)
 * [Security](https://www.voxmedia.com/pages/security)
 * [Accessibility](https://www.voxmedia.com/legal/accessibility)
