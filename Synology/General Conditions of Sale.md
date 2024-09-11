@@ -123,53 +123,53 @@ For Customers who directly purchase Products from Synology Store in Europe or th
 What can we do for you?
 -----------------------
 
-[![](img/footer/2019/footer_icon_nas_selector_home.png)
+[![NAS Selector icon](img/footer/2019/footer_icon_nas_selector_home.png)
 
-NAS Selector](https://www.synology.com/support/nas_selector "(home)Navigate to NAS Selector")
+NAS Selector](https://www.synology.com/support/nas_selector "Navigate to NAS Selector in homepage")
 
-[![](img/footer/2019/footer_icon_raid_calculator_home.png)
+[![RAID Calculator icon](img/footer/2019/footer_icon_raid_calculator_home.png)
 
-RAID Calculator](https://www.synology.com/support/RAID_calculator "(home)Navigate to RAID Calculator")
+RAID Calculator](https://www.synology.com/support/RAID_calculator "Navigate to RAID Calculator in homepage")
 
-[![](img/footer/2019/footer_icon_nvr_selector_home.png)
+[![NVR Selector icon](img/footer/2019/footer_icon_nvr_selector_home.png)
 
-NVR Selector](https://www.synology.com/support/nvr_selector "(home)Navigate to NVR Selector")
+NVR Selector](https://www.synology.com/support/nvr_selector "Navigate to NVR Selector in homepage")
 
-[![](img/footer/2019/footer_icon_knowledge_base_home.png)
+[![Knowledge Center icon](img/footer/2019/footer_icon_knowledge_base_home.png)
 
-Knowledge Center](https://kb.synology.com/en-global/ "(home)Navigate to Knowledge Center")
+Knowledge Center](https://kb.synology.com/en-global/ "Navigate to Knowledge Center in homepage")
 
-[![](img/footer/2019/footer_icon_downloads_home.png)
+[![Downloads icon](img/footer/2019/footer_icon_downloads_home.png)
 
-Downloads](https://www.synology.com/support/download "(home)Navigate to Downloads")
+Downloads](https://www.synology.com/support/download "Navigate to Downloads in homepage")
 
-[![](img/footer/2019/footer_icon_community_home.png)
+[![Newsletter icon](img/footer/2019/footer_icon_newsletter_home.png)
 
-Community](https://community.synology.com/enu "(home)Navigate to Community")
+Newsletter](https://www.synology.com/subscribe-newsletter "Navigate to Newsletter in homepage")
 
-[![](img/footer/2019/footer_icon_nas_selector.png)
+[![NAS Selector icon](img/footer/2019/footer_icon_nas_selector.png)
 
 NAS Selector](https://www.synology.com/support/nas_selector "Navigate to NAS Selector")
 
-[![](img/footer/2019/footer_icon_raid_calculator.png)
+[![RAID Calculator icon](img/footer/2019/footer_icon_raid_calculator.png)
 
 RAID Calculator](https://www.synology.com/support/RAID_calculator "Navigate to RAID Calculator")
 
-[![](img/footer/2019/footer_icon_nvr_selector.png)
+[![NVR Selector icon](img/footer/2019/footer_icon_nvr_selector.png)
 
 NVR Selector](https://www.synology.com/support/nvr_selector "Navigate to NVR Selector")
 
-[![](img/footer/2019/footer_icon_knowledge_base.png)
+[![Knowledge Center icon](img/footer/2019/footer_icon_knowledge_base.png)
 
 Knowledge Center](https://kb.synology.com/en-global/ "Navigate to Knowledge Center")
 
-[![](img/footer/2019/footer_icon_downloads.png)
+[![Downloads icon](img/footer/2019/footer_icon_downloads.png)
 
 Downloads](https://www.synology.com/support/download "Navigate to Downloads")
 
-[![](img/footer/2019/footer_icon_community.png)
+[![Newsletter icon](img/footer/2019/footer_icon_newsletter.png)
 
-Community](https://community.synology.com/enu "Navigate to Community")
+Newsletter](https://www.synology.com/subscribe-newsletter "Navigate to Newsletter")
 
 Company
 
@@ -201,6 +201,7 @@ Resources
 * [Bounty Program](https://www.synology.com/security/bounty_program)
 * [Community](https://community.synology.com/enu)
 * [Events](https://event.synology.com/en-global)
+* [Subscribe to Newsletter](https://www.synology.com/subscribe-newsletter)
 
 Copyright © 2024 Synology Inc. All rights reserved. [Terms & Conditions](https://www.synology.com/company/legal/terms_conditions "Terms & Conditions") | [Privacy](https://www.synology.com/company/legal/privacy "Privacy") | [Cookie Preference](#)
 
