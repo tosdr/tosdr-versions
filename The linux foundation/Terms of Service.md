@@ -1,4 +1,4 @@
-💻 Webinar - Harden Your Security Mindset - Aug 28 @ 11AM EDT [REGISTER NOW](https://hubs.la/Q02JtX9K0)
+🎫 Meet us at KubeCon + CloudNativeCon NA · Nov 12-15 · Salt Lake City [REGISTER TODAY](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/register/?utm_source=lf&utm_medium=homepage&utm_campaign=KubeCon%20NA%202024&utm_content=hello-bar)
 
 English Japan China Europe
 
@@ -212,8 +212,8 @@ NEWSROOM
 LF RESEARCH
 
 * [Latest Research](https://www.linuxfoundation.org/research)
+* [Sponsor a Study](https://www.linuxfoundation.org/research/sponsorship)
 * [Leadership & Advisory Board](https://www.linuxfoundation.org/research/leadership)
-* [Surveys](https://www.linuxfoundation.org/research/surveys)
 
 LFX PLATFORM
 
