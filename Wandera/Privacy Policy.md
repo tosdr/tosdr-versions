@@ -77,15 +77,15 @@ Toggle Navigation
     
     Pricing options
     
-    [Business pricing For small business to enterprise](https://www.jamf.com/pricing/#business-pricing)
+    [Business pricing For small business to enterprise](https://www.wandera.com/pricing/)
     
-    [Education pricing For K-12 and Higher Ed](https://www.jamf.com/pricing/#education-pricing)
+    [Education Pricing For K-12 and Higher Ed](https://www.wandera.com/pricing/education-pricing/)
     
     Try or buy
     
     [Request a trial Free, 14-day Jamf trial](https://www.wandera.com/request-trial/)
     
-    [Jamf Store Buy a plan or product today](https://store-configure.jamf.com/store/)
+    [Jamf Store Buy a plan or product today](https://store.jamf.com/1594/purl-catalog)
     
     [From a Partner Find a reseller](https://www.wandera.com/partners/directory/)
     
@@ -103,7 +103,7 @@ Toggle Navigation
     
     [Videos See product demos in action and hear from Jamf customers.](https://www.jamf.com/resources/videos/)
     
-    [Case Studies Apple management success stories from those saving time and money with Jamf.](https://www.jamf.com/resources/case-studies/)
+    [Case Studies Apple success stories from those saving time and money with Jamf.](https://www.jamf.com/resources/case-studies/)
     
     [Webinars On-demand webinar videos covering an array of Apple management topics.](https://www.jamf.com/resources/webinars/)
     
@@ -119,11 +119,13 @@ Toggle Navigation
     
     For partners
     
-    [Submit a deal](https://www.wandera.com/partners/deal/)
+    [Register a deal](https://partners.jamf.com/)
     
-    [Resources](https://www.jamf.info/choose-org)
+    [Resources](https://partners.jamf.com/English/)
     
-    [Training](https://partnerpath.jamf.com/)
+    [Training](https://partners.jamf.com/English/)
+    
+    [Login to Jamf Partner Hub](https://partners.jamf.com/prm/auth/70d5b4b5-6690-4547-85ab-29a39707497d/oauth2/login)
     
     [Explore more](https://www.wandera.com/partners/for-partners-new/)
     
@@ -406,7 +408,9 @@ Jamf’s purpose is to simplify work by helping organizations manage and secure 
 * [Zero Trust Network Access (ZTNA)](https://www.wandera.com/solutions/zero-trust-network-access/)
 * [Security visibility and compliance](https://www.wandera.com/solutions/compliance/)
 
-### [Pricing](https://www.wandera.com/pricing/)
+### [Business pricing](https://www.wandera.com/pricing/)
+
+### [Education Pricing](https://www.wandera.com/pricing/education-pricing/)
 
 ### [Support](https://www.wandera.com/support/)
 
