@@ -1163,7 +1163,6 @@ General Privacy Policies
 * [Fios Privacy Policy](http://www.verizon.com/about/privacy/fios-privacy-policy)
 * [International Privacy Centre](http://www.verizon.com/about/privacy/international-privacy-centre)
 * [Visible](https://www.visible.com/legal/privacy.html)
-* [BlueJeans](https://www.bluejeans.com/privacy-policy "Go to the BlueJeans privacy policy web site")
 * [TracFone](https://www.tracfonewirelessinc.com/en/Privacy+Policy/)
 
 Apps and Service Policies
@@ -1239,9 +1238,9 @@ Follow Inside Verizon
 
 Follow Verizon Careers
 
+* [linkedin](https://www.linkedin.com/company/verizon/ "Opens New Window")
 * [twitter](https://twitter.com/VerizonCareers "Opens New Window")
 * [instagram](https://www.instagram.com/verizoncareers/ "Opens New Window")
-* [linkedin](https://www.linkedin.com/company/verizon/ "Opens New Window")
 
 Follow Customer Support
 
