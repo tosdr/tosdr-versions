@@ -128,6 +128,13 @@ The Arc is committed to continuously improving the accessibility and usability o
 * [Webinars](https://thearc.org/about-us/webinars/)
 * [Working at The Arc](https://thearc.org/about-us/careers-at-the-arc/)
 
+### CONNECT
+
+* [Contact Us](#)
+* [Blog](#)
+* [Newsletter](#)
+* [Locate a Chapter](#)
+
 ### Policy & Advocacy
 
 * [Policy & Advocacy](https://thearc.org/policy-advocacy/)
