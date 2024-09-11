@@ -32,7 +32,10 @@
     * [Press releases](https://www.d-trust.net/en/newsroom/press-releases "Press releases")
     
 * [Careers](https://www.d-trust.net/en/careers "Careers")
-* [Support](https://www.d-trust.net/en/support)
+* [Support](#bdr-menu-item-8)
+    
+    * [Certificate Service Manager](https://www.d-trust.net/en/support/certificate-service-manager "Support zu Certificate Service Manager")
+    
 
 ##### Servicenavigation in Flyout
 
