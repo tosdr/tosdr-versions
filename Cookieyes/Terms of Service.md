@@ -1,10 +1,9 @@
 [Skip to main content](#main_content)
 
-* [Partners](javascript:void(0))
+* Partners
     * [Agency Partner](https://www.cookieyes.com/agency/)
     * [Affiliate Partner](https://www.cookieyes.com/affiliates/)
-    * [Strategic Partner](https://www.cookieyes.com/join-as-partner/)
-* [Company](javascript:void(0))
+* [Company](#)
     * [About CookieYes](https://www.cookieyes.com/about/)
 * [Support](https://www.cookieyes.com/support/)
 * * [English](#)
@@ -17,7 +16,7 @@
 
 [View plans](https://www.cookieyes.com/pricing/?ref=CYTR) [Try for free](https://app.cookieyes.com/trial?plan=pro-monthly&ref=CYHPTR_PG_94)
 
-* [Solutions](javascript:void(0))
+* [Solutions](#)
     
     BY USE CASE
     
@@ -64,7 +63,7 @@
     * [Kartra](https://www.cookieyes.com/documentation/cookie-banner-kartra/)
     * [MODX](https://www.cookieyes.com/documentation/cookie-banner-modx/)
     
-* [Product](javascript:void(0))
+* [Product](#)
     
     * [Cookie Consent Solution](https://www.cookieyes.com/product/cookie-consent/)
     * [WordPress Plugin](https://www.cookieyes.com/product/wordpress-plugin/)
@@ -77,7 +76,7 @@
     * [Compare Plans](https://www.cookieyes.com/pricing/#pricing-comparison)
     * [Request Quote](https://www.cookieyes.com/support/?query=enterprise#enterprise)
     
-* [Resources](javascript:void(0))
+* [Resources](#)
     
     LEARNING
     
@@ -92,14 +91,12 @@
     * [Privacy Policy Generator](https://www.cookieyes.com/privacy-policy-generator/)
     * [Cookie Policy Generator](https://www.cookieyes.com/free-cookie-policy-generator/)
     * [Cookie Checker](https://www.cookieyes.com/cookie-checker/)
-    * [Google Consent Mode Checker](https://www.cookieyes.com/google-consent-mode-checker/)
     
 
-* [Partners](javascript:void(0))
+* Partners
     * [Agency Partner](https://www.cookieyes.com/agency/)
     * [Affiliate Partner](https://www.cookieyes.com/affiliates/)
-    * [Strategic Partner](https://www.cookieyes.com/join-as-partner/)
-* [Company](javascript:void(0))
+* [Company](#)
     * [About CookieYes](https://www.cookieyes.com/about/)
 * [Support](https://www.cookieyes.com/support/)
 * * [English](#)
@@ -431,9 +428,8 @@ I agree to receive newsletters from CookieYes and accept the [Privacy Policy.](
 
 ##### PartnersJoin us!
 
-* [Agency Partner](https://www.cookieyes.com/agency/)
-* [Affiliate Partner](https://www.cookieyes.com/affiliates/)
-* [Strategic Partner](https://www.cookieyes.com/join-as-partner/)
+* [Agency Program](https://www.cookieyes.com/agency/)
+* [Affiliate Program](https://www.cookieyes.com/affiliates/)
 
 ##### Legal
 
@@ -457,9 +453,8 @@ I agree to receive newsletters from CookieYes and accept the [Privacy Policy.](
 
 ##### PartnersJoin us!
 
-* [Agency Partner](https://www.cookieyes.com/agency/)
-* [Affiliate Partner](https://www.cookieyes.com/affiliates/)
-* [Strategic Partner](https://www.cookieyes.com/join-as-partner/)
+* [Agency Program](https://www.cookieyes.com/agency/)
+* [Affiliate Program](https://www.cookieyes.com/affiliates/)
 
 ##### Compare
 
