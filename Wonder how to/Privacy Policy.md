@@ -1,195 +1,306 @@
-![](https://img.wonderhowto.com/img/50/45/63854301046174/0/wonderhowto.1280x600.jpg)
+[![TechnologyAdvice Logo](https://assets.technologyadvice.com/uploads/2024/06/technologyadvice-logo-nav-1.svg)](https://technologyadvice.com/)
 
-**[WonderHowTo ![](https://img.wonderhowto.com/images/logos/wonderhowto.logo.shadow.png)](https://www.wonderhowto.com/)**  **[Discover Everything Coming to iPhone with iOS 18](https://ios.gadgethacks.com/collection/ios-18-tips-news/)**
+Search
 
-[WonderHowTo](https://www.wonderhowto.com/) [Gadget Hacks](https://www.gadgethacks.com/) [Next Reality](https://next.reality.news/) [Null Byte](https://null-byte.wonderhowto.com/)
+* [Software Reviews](https://www.wonderhowto.com/browse-categories/)
+    * [Human Resources Software](https://www.wonderhowto.com/human-resources-software/)
+    * [Payroll Software](https://www.wonderhowto.com/payroll-software/)
+    * [CRM Software](https://www.wonderhowto.com/crm/)
+    * [Sales Software](https://www.wonderhowto.com/sales-software/)
+    * [Project Management Software](https://www.wonderhowto.com/project-management/)
+    * [Business Intelligence Software](https://www.wonderhowto.com/business-intelligence/)
+    * [Browse all categories](https://www.wonderhowto.com/browse-categories/)
+* [Blog & Research](https://www.wonderhowto.com/blog/)
+    * [Human Resources](https://www.wonderhowto.com/blog/human-resources/)
+        * [Human Resources](https://www.wonderhowto.com/blog/human-resources/)
+        * [Best HR Software for SMBs](https://www.wonderhowto.com/blog/human-resources/best-hr-software-for-small-business/)
+        * [Best HRIS Software](https://www.wonderhowto.com/blog/human-resources/top-hris-systems/)
+        * [Should You Upgrade Your HR Software?](https://www.wonderhowto.com/blog/human-resources/upgrade-your-hr-software/ "Should You Upgrade Your HR Software?")
+        * [What Does an HR Consultant Do?](https://www.wonderhowto.com/blog/human-resources/hr-consultant/)
+        * [Browse more articles](https://www.wonderhowto.com/blog/human-resources/)
+    * [Project Management](https://www.wonderhowto.com/blog/project-management/)
+        * [Project Management](https://www.wonderhowto.com/blog/project-management/)
+        * [monday.com vs. Asana](https://www.wonderhowto.com/blog/project-management/asana-vs-monday/)
+        * [Project Plan Examples + Template](https://www.wonderhowto.com/blog/project-management/project-plan-examples/)
+        * [Top 5 Project Management Methodologies](https://www.wonderhowto.com/blog/project-management/project-management-methodologies/ "Top 5 Project Management Methodologies")
+        * [Is the Google Project Management Certificate Worth It?](https://www.wonderhowto.com/blog/project-management/google-project-management-certificate-review/ "Is the Google Project Management Certificate Worth It?")
+        * [Browse more articles](https://www.wonderhowto.com/blog/project-management/)
+    * [IT Management](https://www.wonderhowto.com/blog/information-technology/)
+        * [IT Management](https://www.wonderhowto.com/blog/information-technology/)
+        * [Best VoIP for Small Business](https://www.wonderhowto.com/blog/information-technology/best-voip-for-small-business/)
+        * [Best HVAC Apps](https://www.wonderhowto.com/blog/information-technology/best-hvac-apps/)
+        * [Best Field Service Management Software for Small Business](https://www.wonderhowto.com/blog/information-technology/field-service-management-small-business/ "Best Field Service Management Software for Small Business")
+        * [Best ITSM Tools](https://www.wonderhowto.com/blog/information-technology/itsm-tools/)
+        * [Browse more articles](https://www.wonderhowto.com/blog/information-technology/)
+    * [Business Intelligence](https://www.wonderhowto.com/blog/business-intelligence/)
+        * [Business Intelligence](https://www.wonderhowto.com/blog/business-intelligence/)
+        * [Tableau Alternatives](https://www.wonderhowto.com/blog/information-technology/tableau-alternatives/)
+        * [Microsoft Power BI Alternatives](https://www.wonderhowto.com/blog/information-technology/power-bi-alternatives/)
+        * [Best Business Intelligence Dashboards](https://www.wonderhowto.com/blog/information-technology/business-intelligence-dashboards/ "Best Business Intelligence Dashboards")
+        * [Best Data Storage Solutions](https://www.wonderhowto.com/blog/information-technology/5-best-data-storage-solutions-for-bi/)
+        * [Browse more articles](https://www.wonderhowto.com/blog/business-intelligence/)
+    * [Sales & CRM](https://www.wonderhowto.com/blog/sales/)
+        * [Sales & CRM](https://www.wonderhowto.com/blog/sales/)
+        * [Best Construction CRM](https://www.wonderhowto.com/blog/sales/best-construction-crm/)
+        * [Best Open Source CRM](https://www.wonderhowto.com/blog/sales/best-open-source-crm/)
+        * [Best CRM Certifications and Courses](https://www.wonderhowto.com/blog/sales/best-crm-certification/)
+        * [Best AI CRM](https://www.wonderhowto.com/blog/information-technology/ai-crm/)
+        * [Browse more articles](https://www.wonderhowto.com/blog/sales/)
+    * [Browse all articles](https://www.wonderhowto.com/blog/)
+* [About Us](https://www.wonderhowto.com/about-us/)
+    * [About Us](https://www.wonderhowto.com/about-us/)
+    * [Contact Us](https://www.wonderhowto.com/contact-us/)
+    * [Careers](https://www.wonderhowto.com/careers/)
+    * [Marketing Solutions](https://solutions.technologyadvice.com/)
 
-[![](https://img.wonderhowto.com/images/logos/wonderhowto.mark.png)](https://www.wonderhowto.com/)
+Search
 
-[Gadget Hacks](https://www.gadgethacks.com/) [Next Reality](https://next.reality.news/) [Food Hacks](https://food-hacks.wonderhowto.com/) [Null Byte](https://null-byte.wonderhowto.com/) [The Secret Yumiverse](https://thesecretyumiverse.wonderhowto.com/) [Invisiverse](https://invisiverse.wonderhowto.com/) [MacGyverisms](https://macgyverisms.wonderhowto.com/) [Mind Hacks](https://mind-hacks.wonderhowto.com/) [Mad Science](https://mad-science.wonderhowto.com/) [Lock Picking](https://lock-picking.wonderhowto.com/) [Driverless](https://driverless.wonderhowto.com/)
+[Home](https://technologyadvice.com/) > Privacy Policy
 
-WonderHowTo Privacy Policy
-==========================
+TechnologyAdvice Privacy Policy
+===============================
 
-Effective Date: Last revised on Jan 1, 2020
+Effective Date: March 1, 2014 _(Updated September 20th, 2023)_
 
-The privacy of registered and unregistered users ("users" or "you") is very important to us. This Privacy Policy intends to describe: what type of information we collect; how we use, share, and guard the information and your choices regarding your use of the WonderHowTo, Gadget Hacks, and Next Reality websites and services (the "Website").
+##### THE FOLLOWING DESCRIBES THE INFORMATION THAT TECHNOLOGYADVICE COLLECTS AND HOW IT USES SUCH INFORMATION. PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING THIS WEBSITE. BY USING THE SERVICES OR SUBMITTING PERSONAL INFORMATION THROUGH THE SERVICES, YOU EXPRESSLY CONSENT TO THE PROCESSING AND USE OF YOUR PERSONAL INFORMATION ACCORDING TO THIS PRIVACY POLICY.
 
-### Information We Collect
+Privacy Statement
+-----------------
 
-You may choose to provide us with general or specific information about yourself when using the Website, including a user name and email address. Also, we may collect web surfing data such as your IP address, server log data, cookie information, areas of the Website you have visited, and if you clicked on advertisements. We use different types of technologies to collect this information, including cookies and single-pixel GIFs.
+TechnologyAdvice, LLC and its subsidiaries (collectively “TechnologyAdvice”) are committed to safeguarding your privacy online. This privacy policy applies to Your information that TechnologyAdvice collects and receives. By using this website (“Website”) You agree to the terms of this Privacy Policy. Please read the following policy to understand how Your Personal Information will be treated as You use TechnologyAdvice’s Services. The following discloses our information gathering and dissemination practices. All capitalized terms not defined in this Privacy Policy have the same meaning as defined in TechnologyAdvice’s [Terms of Use](https://technologyadvice.com/terms-conditions/).
 
-If your browser is configured to accept the cookies, these cookies will be used to recognize your computer when you visit the Website to allow us to provide updates regarding the Website, to learn how you use the Website so that we can develop new services, and to show you advertisements. You can configure your browser to block cookies; however, if you do, the Website may not function properly or at all.
+Personal Information Defined
+----------------------------
 
-You may also provide us with personal information. For example, if you choose to register at the Website, you will be asked to create a username and provide a valid email address. If you upload, post, or distribute to the Website information, data, text, photos, audio, links, video, images, graphics, or other content or materials of any nature (collectively, "User Submissions"), those User Submissions, along with your username or other information, may be provided to other users. To limit the amount of personal information disclosed you may consider providing a username other than your actual name.
+For this Privacy Policy, “Personal Information” means information that is personally identifiable such as names, addresses, e-mail addresses, or phone numbers, as well as other non-public information that is associated with a User. TechnologyAdvice collects and uses Personal Information as described in this Privacy Policy from the Users of our Services.
 
-### Use and Sharing of Collected Information
+Personal Information TechnologyAdvice Collects
+----------------------------------------------
 
-We may use non-personally identifiable information collected to improve the quality of the Website; for example, to diagnose problems, assess and maintain security, place ad on webpages receiving more web traffic, and allow you to log in or access your profile information automatically. We may use non-personally identifiable information to determine user demographics, interests, and behavior and may market the Website by sharing non-personally identifiable information with advertisers and other partners. We also may provide your non-personally identifiable information to contractors so that they can perform services for us.
+TechnologyAdvice collects Personal Information upon Your consent. This information might be used to send you product recommendations, articles via a newsletter, or more information about a particular technology vendor, depending on the form you fill out and the consent you provide at the time you fill out that form.
 
-We use information you provide to: (1) handle or respond to inquiries you initiate with us (such as a customer service request or job application); (2) communicate information that we believe to be of interest to you via email; (3) improve our products and services; (4) fulfill your requests to share information you find on the Website with friends/other parties you have designated; (5) identify relevant advertisements to display.
+Product Recommendations: TechnologyAdvice collects Personal Information from You in order to connect You with sellers of technology (“Services”) that You are searching for. When You give TechnologyAdvice access to Personal Information for this purpose, You consent to receive product recommendations and technology buying advice from TechnologyAdvice via email or phone call, and with your consent the Website may pass your data along to technology vendors who meet your requirements.
 
-We do not sell your personal information to third parties.
+Email Newsletters: TechnologyAdvice collects email addresses to provide readers of our blogs with updates via email newsletters. These email newsletters contain links to blog posts, product recommendations, and links to research white papers that match your technology or industry interests.
 
-We may use your information to notify you of important changes to the Website, new services, and special offers. If you do not want to receive such notices, you may opt out as instructed in the WonderHowTo Terms of Use. Opting out may prevent you from receiving email messages regarding sales, updates, improvements, or special offers; provided, however that you may not opt-out of receiving notices required by applicable law via email and you hereby agree that our electronic signature on such notices is adequate. If we have provided any third party with your personal information at your election or request, you will have to contact the third-party directly with any opt-out request. If we provide any of the information collected from you with a third party at your election or request, their use of that information will be governed by their privacy policy. For example we use Google Analytics to help us understand how our visitors use the site. You can read more about how Google uses your personal information [here](https://www.google.com/intl/en/policies/privacy/). You can also opt-out of Google Analytics [here](https://tools.google.com/dlpage/gaoptout).
+Get Pricing: Should You request pricing details for a particular technology listed on the site, TechnologyAdvice will collect Personal Information such as:
 
-As the Service provides social functions, we may allow other users to access certain information you provide, such as profile information, your User Submissions, videos you have viewed, and subjects you are interested in. In addition, we allow RSS syndication of all public Service content.
+* Email address
+* Name
+* Phone number
+* Industry
+* Company demographics
 
-We may release information, in our sole discretion, in response to the law, a court order, law enforcement request, or investigation or to protect our rights, property, or other interests, including those of our customers or other third parties or to prevent illegal activities or violations of the WonderHowTo Terms of Use.
+When You consent to receive pricing details for a technology, TechnologyAdvice will contact you with those pricing details. With your consent, the Website may pass your data along to technology vendors who meet your requirements.
 
-In the event that we, in whole or in part, establish a partnership with another company, or are acquired by or merged with another company, collected information may be transferred to the partner or the acquiring or merging company.
+Product Reviews: TechnologyAdvice uses your personal information to verify Your identity and to ensure you are not a current or previous employee of the technology company or their direct competitors.
 
-### Changing and Deleting
+TechnologyAdvice collects the following Personal Information that You submit voluntarily. You may provide TechnologyAdvice with additional information about You as You use the Services such as:
 
-You can access your personal information through your profile and profile settings on the Website and delete, change or correct information; however, WonderHowTo cannot guarantee that all copies of such information will be immediately deleted from its servers. If you would like to delete your User Submissions in addition to your account, please contact us using the email address provided for privacy questions at the bottom of this Privacy Policy.
+* physical addresses
+* telephone numbers
+* information regarding Your business (e.g., business name, revenue thresholds, etc.)
+* information regarding Your business needs and technology requirements
+* other personally identifiable information You affirmatively provide to us such as LinkedIn profile information
 
-### Child Protection
+When You contribute posts and reviews, participate in TechnologyAdvice surveys (either directly, or through third party service providers), or provide any other Content to the Services through other means, TechnologyAdvice will collect all the information You provide. In connection with reviews, posts, and surveys, TechnologyAdvice (and/or its third party service providers) may collect a wide variety of product- and vendor-related information.
 
-We do not offer the Website to, or target, persons under the age of 13. In compliance with the Children's Online Privacy Protection Act, any information we receive from people we believe to be under 13 will be purged from our database.
+Please be aware that while some pieces of information that You provide to TechnologyAdvice would not be sufficient to identify You when seen by another User without any context, the combination of different pieces of information that You have provided for viewing by other Users, or any contextual information, may allow other Users and TechnologyAdvice to identify You.
 
-### Security
+When You contact TechnologyAdvice by sending TechnologyAdvice an e-mail or when You use any of our contact forms, TechnologyAdvice will collect any information that is contained in (and/or attached to) Your e-mail, text message, or that You enter into such forms.
 
-We use industry standard security measures to protect against collected information. However, the Internet is not 100% secure and we accept no liability for any unintentional disclosure.
+TechnologyAdvice does not collect, process or control any sensitive personal information such as Physical or Mental Health, Political Beliefs or Genetics, etc.
 
-### Links to Advertisers and Other Websites
+Legal Grounds for Processing Information under GDPR
+---------------------------------------------------
 
-Advertisements and links to third-party advertisers may be displayed on the Website or emailed to you. Third-party ad servers use technology to send, directly to your browser, the advertisements and links that appear on the Website. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or web beacons) to measure the effectiveness of their advertisements and to personalize the advertising content. WonderHowTo does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks WonderHowTo to show an advertisement to a certain audience and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. In addition, third-party advertisers may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](https://www.google.com/privacy_ads.html) and [here](https://www.networkadvertising.org/managing/opt_out.asp). If you are interested in more information about tailored browser advertising and how you can generally control cookies from being put on your computer to deliver tailored advertising, you may visit the [Network Advertising Initiative’s Consumer Opt-Out link](http://www.networkadvertising.org/choices), the [Digital Advertising Alliance’s Consumer Opt-Out link](http://www.aboutads.info/choices/), the [opt-out page of the European Interactive Digital Advertising Alliance](http://www.youronlinechoices.com/), or [TrustArc's Preference Manager](http://preferences-mgr.truste.com/) to opt-out of receiving tailored advertising from companies that participate in those programs. You may also use the links available in advertisements that appear on the Website. The information advertisers or other third parties collect is governed by their privacy policies, not by this Privacy Policy. In addition, User Submissions may contain links to other websites. We are not responsible for the privacy practices or the content of web publishers, advertisers, or other websites that may be linked to the Website.
+For our direct marketing activities, we employ Legitimate Interest as legal grounds for processing data.
 
-In connection with the foregoing, we work with DigiTrust to set a first-party cookie in your browser to enable us and [DigiTrust Partners](http://www.digitru.st/participating-companies/) to collect web viewing data that includes visits to the Website and non-affiliated websites over time. This data may be used to infer whether you share interests with other users, and deliver advertising relevant to those inferences. Also, third parties whose products or services are accessible or advertised via the Website may place cookies or other tracking technologies on your computer, mobile phone, or other device to collect information about your use of the Website in order to (i) inform, optimize, and serve ads based on past visits to our websites and other sites and (ii) report how our ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to our websites and use of our Services. We also allow other third parties (e.g., ad networks and ad servers such as Google Analytics, DoubleClick and others) to serve tailored ads to you on the Services, other sites, and in other applications, and to access their own cookies or other tracking technologies on your computer, mobile phone, or other device you use to access the Services. We neither have access to, nor does this Policy govern, the use of cookies or other tracking technologies that may be placed on your computer, mobile phone, or other device you use to access the Website by non-affiliated, third-party ad technology, ad servers, ad networks or any other non-affiliated third parties. Those parties that use these technologies, including DigiTrust, may offer you a way to opt out of ad targeting as described above. You may receive tailored advertising on your computer through a web browser.
+Browsing the Website
+--------------------
 
-### Do Not Track
+If You browse through the Website without entering any Personal Information, TechnologyAdvice will automatically gather and store certain information about Your visit. This information does not identify You personally and cannot be linked back to You unless You decide at some point to identify Yourself. If You are only browsing, TechnologyAdvice may collect the following information (whenever possible): IP address, domain name, the type of browser and operating system used to access the Website, the date and time You access the Website, the pages You visit (click-through), and if You linked to the Website from another website, the address of that website as well as additional information related to Your visit. TechnologyAdvice uses Your IP address to help diagnose problems with our server, and to administer the Website.
 
-We do not recognize or respond to browser-initiated "Do Not Track" (DNT) signals, as the Internet industry is currently still working toward defining exactly what DNT means, what it means to comply with DNT, and a common approach to responding to DNT. To learn more about Do Not Track, you can do so [here](http://allaboutdnt.com/).
+Cookies
+-------
 
-### Acceptance of Privacy Policy
+TechnologyAdvice may place “cookies” on Your personal computer. “Cookies” are small identifiers sent from a web server and stored on Your computer’s hard drive, similar to a license plate, that help TechnologyAdvice to recognize You if You visit the Website again. TechnologyAdvice use cookies to record session information, such as record user-specific information on what pages You access or visit, record past activity in order to provide better service when You return to the Website, ensure that You are not repeatedly sent the same banner ads, to customize Website content based on Your browser type, and to track how You found the Website. Cookies are not designed to be used to get data from Your hard drive, Your e-mail or any other personal data about You.
 
-By using the Website, you are accepting the then-current Privacy Policy, which may be updated from time to time. Any changes to the Privacy Policy will be posted here and are effective upon posting.
+To protect Your privacy, TechnologyAdvice does not use cookies to store or transmit any Personal Information about You on the Internet. You can reject cookies by changing Your browser settings. Please note, however, that if You reject our cookies, it is possible that some web pages may not properly load, Your access to certain information might be denied or You might have to enter information about Yourself more than once.
 
-### Questions
+Minors
+------
 
-If you have any questions about our Privacy Policy, please contact us at .
+TechnologyAdvice does not knowingly collect personally identifiable information by anyone under the age of 18. Do not fill out any forms on the site if You are under the age of 18 and do not provide TechnologyAdvice with any information regarding any individual under the age of 18.
 
-* Featured Sites
-    * [**WonderHowTo Home**](https://www.wonderhowto.com/)
-    * [Gadget Hacks](https://www.gadgethacks.com/)
-    * [Next Reality](https://next.reality.news/)
-    * [Food Hacks](https://food-hacks.wonderhowto.com/)
-    * [Null Byte](https://null-byte.wonderhowto.com/)
-    * [The Secret Yumiverse](https://thesecretyumiverse.wonderhowto.com/)
-    * [Invisiverse](https://invisiverse.wonderhowto.com/)
-    * [MacGyverisms](https://macgyverisms.wonderhowto.com/)
-    * [Mind Hacks](https://mind-hacks.wonderhowto.com/)
-    * [Mad Science](https://mad-science.wonderhowto.com/)
-    * [Lock Picking](https://lock-picking.wonderhowto.com/)
-    * [Driverless](https://driverless.wonderhowto.com/)
-* Categories
-    * [Alcohol](https://alcohol.wonderhowto.com/)
-    * [Arts & Crafts](https://arts-crafts.wonderhowto.com/)
-    * [Autos, Motorcycles & Planes](https://cars-bikes-planes.wonderhowto.com/)
-    * [Beauty & Style](https://beauty-style.wonderhowto.com/)
-    * [Business & Money](https://business-money.wonderhowto.com/)
-    * [Computers & Programming](https://computer-programming.wonderhowto.com/)
-    * [Dance](https://dance.wonderhowto.com/)
-    * [Dating & Relationships](https://dating-relationships.wonderhowto.com/)
-    * [Diet & Health](https://diet-health.wonderhowto.com/)
-    * [Disaster Preparation](https://disaster-preparation.wonderhowto.com/)
-    * [Education](https://education.wonderhowto.com/)
-    * [Electronics](https://electronics.wonderhowto.com/)
-    * [Family](https://family.wonderhowto.com/)
-    * [Film & Theater](https://movies-film-theater.wonderhowto.com/)
-    * [Fine Art](https://fine-art.wonderhowto.com/)
-    * [Fitness](https://fitness.wonderhowto.com/)
-    * [Food](https://food.wonderhowto.com/)
-    * [Gambling](https://gambling.wonderhowto.com/)
-    * [Games](https://games.wonderhowto.com/)
-    * [Hobbies & Toys](https://hobbies-toys.wonderhowto.com/)
-    * [Home & Garden](https://home-garden.wonderhowto.com/)
-    * [Hosting & Entertaining](https://hosting-entertaining.wonderhowto.com/)
-    * [Language](https://language-lessons.wonderhowto.com/)
-    * [Magic & Parlor Tricks](https://magic-parlor-tricks.wonderhowto.com/)
-    * [Motivation & Self Help](https://motivation-self-help.wonderhowto.com/)
-    * [Music & Instruments](https://music-instruments.wonderhowto.com/)
-    * [Outdoor Recreation](https://outdoor-recreation.wonderhowto.com/)
-    * [Pets & Animals](https://pets-animals.wonderhowto.com/)
-    * [Pranks & Cons](https://prank-con.wonderhowto.com/)
-    * [Software](https://software.wonderhowto.com/)
-    * [Spirituality](https://spirituality.wonderhowto.com/)
-    * [Sports](https://sports.wonderhowto.com/)
-    * [Travel](https://travel.wonderhowto.com/)
-    * [Video Games](https://video-games.wonderhowto.com/)
-* Gadget Hacks Sites
-    * [**Gadget Hacks Home**](https://www.gadgethacks.com/)
-    * [Android](https://android.gadgethacks.com/)
-        * [Samsung](https://samsung.gadgethacks.com/)
-        * [OnePlus](https://oneplus.gadgethacks.com/)
-        * [Pixel](https://pixel.gadgethacks.com/)
-        * [Nexus](https://nexus5.gadgethacks.com/)
-        * [HTC One](https://htc-one.gadgethacks.com/)
-        * [Nexus 7](https://nexus7.gadgethacks.com/)
-        * [Amazon Fire](https://fire.gadgethacks.com/)
-        * [LG G3](https://lg-g3.gadgethacks.com/)
-    * [Smartphones](https://smartphones.gadgethacks.com/)
-        * [Next Reality](https://next.reality.news/)
-        * [Augmented Reality News](https://augmented.reality.news/)
-        * [Virtual Reality News](https://virtual.reality.news/)
-    * [Apple](https://apple.gadgethacks.com/)
-        * [iOS & iPhone](https://ios.gadgethacks.com/)
-        * [Mac OS Tips](https://macos.gadgethacks.com/)
-        * [iPadOS](https://ipados.gadgethacks.com/)
-        * [Apple watchOS](https://watchos.gadgethacks.com/)
-        * [Apple Airpods](https://airpods.gadgethacks.com/)
-        * [Apple tvOS](https://tvos.gadgethacks.com/)
-    * [Cord Cutters](https://cord-cutters.gadgethacks.com/)
-    * [Internet](https://internet.gadgethacks.com/)
-    * [Hacks, Mods & Circuitry](https://mods-n-hacks.gadgethacks.com/)
-    * [Digiwonk](https://digiwonk.gadgethacks.com/)
-    * [Windows Tips](https://windows.gadgethacks.com/)
-    * [Tablets](https://tablets.gadgethacks.com/)
-    * [The Hookup](https://the-hookup.gadgethacks.com/)
-    * [Tech Pr0n](https://tech-pr0n.gadgethacks.com/)
-    * [Roku](https://roku.gadgethacks.com/)
-    * [Chrome OS](https://chromeos.gadgethacks.com/)
-* Next Reality Sites
-    * [**Next Reality Home**](https://next.reality.news/)
-    * [Augmented Reality News](https://augmented.reality.news/)
-        * [Mobile AR News](https://mobile-ar.reality.news/)
-        * [Google Glass](https://glass.reality.news/)
-        * [Mixed Reality News](https://mixed.reality.news/)
-        * [HoloLens](https://hololens.reality.news/)
-        * [Magic Leap](https://magic-leap.reality.news/)
-        * [Meta 2](https://meta.reality.news/)
-    * [Virtual Reality News](https://virtual.reality.news/)
-        * [Mobile VR News](https://mobile-vr.reality.news/)
-        * [HTC Vive](https://vive.reality.news/)
-        * [Oculus Rift](https://oculus.reality.news/)
-* About
-    
-    * [**About Us**](https://www.wonderhowto.com/about/)
-    * [**Terms**](https://www.wonderhowto.com/terms/)
-    * [**Privacy**](https://www.wonderhowto.com/privacy/)
-    
-    * [wonderhowto.com](https://www.wonderhowto.com/)
+Use of Personal Information
+---------------------------
 
-Login or signup
+Personal Information You submit to TechnologyAdvice, or to third parties that support us in collecting information, is used by us to provide You and other Users with the Services, to respond to requests that You make, to improve our Services, and to operate, maintain, and improve the features, functionality, performance, and support of the Services.
 
-Settings My Writing Messages Notifications Navigation
+TechnologyAdvice uses the Personal Information that it gathers about You for the following purposes:
+----------------------------------------------------------------------------------------------------
 
-* Loading...
-    
+* To provide our Services to You, to communicate with You about Your use of the Services, to respond to Your inquiries, to fulfill Your orders, and for other customer service purposes, which may include communicating with You via email
+* To tailor the content and information that TechnologyAdvice may send or display to You, personalized help and instructions, and to otherwise personalize Your experiences while using the Website or the Services
+* For customer loyalty programs
+* To share with website affiliates, and/or vendors of products You have given us consent to contact You regarding products or services as a means of establishing communication between both You and such vendors or affiliates.
+* For marketing and promotional purposes. For example, TechnologyAdvice may use information You provide to contact You in the manner(s) You request at the time that data is collected. TechnologyAdvice may collect your email address to send You news and newsletters, special offers and promotions, or to otherwise contact You about products or information You expressed interest in. TechnologyAdvice also may use the information that TechnologyAdvice learns about You to assist us in advertising our Services on third party websites.
+* To better understand how users access and use the Website and Services, both on an aggregated and individualized basis, to improve the Website and Services and respond to user desires and preferences, and for other research and analytical purposes
 
-WonderHowTo.com [About Us](https://www.wonderhowto.com/about/) [Terms of Use](https://www.wonderhowto.com/terms/) [Privacy Policy](https://www.wonderhowto.com/privacy/)  
-  
+Public Postings
+---------------
 
-**Don't Miss:**  
-[All the New iOS 16.5 Features for iPhone You Need to Know About](https://ios.gadgethacks.com/how-to/ios-16-5-has-15-new-updates-for-your-iphone-including-big-changes-apple-tv-apple-news-and-siri-0385349/)  
-[Your iPhone Has a Secret Button That Can Run Hundreds of Actions](https://ios.gadgethacks.com/how-to/your-iphone-has-secret-button-can-run-hundreds-even-thousands-actions-but-you-have-unlock-first-0385356/)  
-[7 Hidden iPhone Apps You Didn’t Know Existed](https://ios.gadgethacks.com/how-to/7-hidden-iphone-apps-you-didnt-know-existed-0384487/)  
-[You’re Taking Screenshots Wrong — Here Are Better Ways to Capture Your iPhone’s Screen](https://ios.gadgethacks.com/how-to/youre-taking-screenshots-wrong-here-are-better-ways-capture-your-iphones-screen-and-why-you-should-be-using-them-0385353/)  
-[Keep Your Night Vision Sharp with the iPhone’s Hidden Red Screen](https://ios.gadgethacks.com/how-to/keep-your-night-vision-sharp-with-iphones-hidden-red-screen-0173903/)  
-[Your iPhone Finally Has a Feature That Macs Have Had for Almost 40 Years](https://ios.gadgethacks.com/how-to/your-iphone-finally-has-feature-macs-have-had-for-almost-40-years-0385332/)  
-[If You Wear Headphones with Your iPhone, You Need to Know About This](https://ios.gadgethacks.com/how-to/if-you-wear-headphones-with-your-iphone-you-need-know-about-0385321/)  
-  
-By using this site you acknowledge and agree to our [terms of use](https://www.wonderhowto.com/terms/) & [privacy policy](https://www.wonderhowto.com/privacy/).  
-We do not sell personal information to 3rd parties.
+One of the purposes of the Services is for Users to share product- and vendor-related information with other Users. Therefore, You should assume that any information (including any Personal Information You may choose to provide, but excluding Your registration information) that You post will be made available to other Users of the Services. TechnologyAdvice may provide You the ability to anonymously post certain comments, in which case TechnologyAdvice will not include Your contact information (i.e., name, username, email address, or postal address) on the Website in connection with such comments. However, You should know that TechnologyAdvice’s internal records may associate Your contact information with such comments.
 
-![](https://sb.scorecardresearch.com/p?c1=2&c2=10055482&cv=2.0&cj=1)
+Feedback
+--------
+
+If You provide feedback about the Services, TechnologyAdvice may use and disclose such feedback for any purpose, provided TechnologyAdvice does not associate such feedback with Your Personal Information. TechnologyAdvice will collect any information contained in such feedback and will treat the Personal Information in it in accordance with this Privacy Policy.
+
+Disclosure of Personal Information
+----------------------------------
+
+Except as otherwise stated in this Privacy Policy, TechnologyAdvice does not disclose to or share Your Personal Information with third parties, unless You ask or authorize TechnologyAdvice to do so. TechnologyAdvice may provide Your Personal Information to third party service providers and suppliers who work on behalf of or with TechnologyAdvice to provide You with some of the services and features of the Services and to help us communicate with Users. However, these service providers and suppliers do not have any independent right to use this information except to help TechnologyAdvice provide the Services. TechnologyAdvice may share some or all of Your Personal Information with any parent company, subsidiaries, joint ventures, or other companies under a common control (collectively, “Affiliates”), in which case TechnologyAdvice will require Affiliates to honor this Privacy Policy.
+
+Data Retention
+--------------
+
+Unused data and data that falls outside of categories we deem commercially viable will be deleted. To ensure the accuracy of our recommendations and the privacy of Personal Information, TechnologyAdvice analyzes all records annually and deletes any that have gone untouched, unprocessed, and unreferenced in a timespan of 5 years. Data that has been requested to be forgotten will be deleted promptly.
+
+Mergers
+-------
+
+In the event TechnologyAdvice goes through a business transition such as a merger, acquisition by another company, or sale of all or a portion of its assets, Your Personal Information will likely be among the assets transferred. You acknowledge that such transfers may occur, and that any acquirer of TechnologyAdvice or its assets may continue to use Your Personal Information as set forth in this Privacy Policy.
+
+Legal Obligation to Disclose
+----------------------------
+
+TechnologyAdvice may (and You authorize us to) disclose information TechnologyAdvice has collected from and about You (including Personal Information) if TechnologyAdvice believes in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on us; (b) to enforce our TechnologyAdvice Terms of Use and Privacy Policy; or (c) to protect and defend the rights or property of us, the users of our Services, or third parties.
+
+Data Compliance
+---------------
+
+###### GDPR (General Data Protection Regulation)
+
+TechnologyAdvice adheres to rights of data subjects set out by the GDPR standards. Under these standards individual citizens of the European Union (EU) and the European Economic Area (EEA) have the right to:
+
+* Be forgotten. At any time you may contact TechnologyAdvice’s Data Protection Officer and request that your data be fully removed from all of our databases.
+* Update or change your Personal Information
+* Transfer your Personal Information to another data processor or controller
+* Object to the processing of your personal information
+
+If You would like to make a subject access request (SAR) to view, delete, or otherwise change the data stored in the TechnologyAdvice database, please contact our Data Protection Officer by emailing datacontroller@technologyadvice.com.
+
+###### CCPA(California Consumer Privacy Act)
+
+Through our site and partners, we receive data that you actively submit, as well as data that we track when you request information, or otherwise actively send us data. We usually collect data such as your name, email address, business address, telephone number, and other information related to the business you represent.
+
+TechnologyAdvice adheres to rights of data subjects set out by CCPA. Residents of California upon verification have the right to
+
+* The right to know which personal information is being collected
+* The right to know if personal data is being sold or shared, and to whom
+* The right to object to the sale of personal data
+* The right to access one’s own personal information
+* The right to equal service and price, even for consumers who exercise their privacy rights
+
+We may deny your deletion request if retaining the information is necessary for us or our service providers to:
+
+1. Complete the transaction for which we collected the personal information, provide a good or service that you requested, take actions reasonably anticipated within the context of our ongoing business relationship with you, or otherwise perform our contract with you.
+2. Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity, or prosecute those responsible for such activities.
+3. Debug products to identify and repair errors that impair existing intended functionality.
+4. Exercise free speech, ensure the right of another consumer to exercise their free speech rights, or exercise another right provided for by law.
+5. Comply with the California Electronic Communications Privacy Act (Cal. Penal Code § 1546 seq.).
+6. Engage in public or peer-reviewed scientific, historical, or statistical research in the public interest that adheres to all other applicable ethics and privacy laws, when the information’s deletion may likely render impossible or seriously impair the research’s achievement, if you previously provided informed consent.
+7. Enable solely internal uses that are reasonably aligned with consumer expectations based on your relationship with us.
+8. Comply with a legal obligation.
+9. Make other internal and lawful uses of that information that are compatible with the context in which you provided it.
+
+**To exercise these rights listed above you can contact us by**  
+Calling 615-285-4849 x 113  
+Email us at [datacontroller@technologyadvice.com](mailto:datacontroller@technologyadvice.com)
+
+**Or Mail us at**  
+TechnologyAdvice  
+Attn:Data Controller  
+3343 Perimeter Hill Dr  
+Suite 100  
+Nashville, TN 37211
+
+###### Alternatively you can opt out of sale – [Here](https://technologyadvice.com/privacy-policy/ccpa-opt-out-form/)
+
+Only you or a person registered with the California Secretary of State that you authorize to act on your behalf, may make a verifiable consumer request related to your personal information. You may also make a verifiable consumer request on behalf of your minor child.
+
+You may only make a verifiable consumer request for access or data portability twice within a 12-month period. The verifiable consumer request must:
+
+* Provide sufficient information that allows us to reasonably verify you are the person about whom we collected personal information or an authorized representative.
+* Describe your request with sufficient detail that allows us to properly understand, evaluate, and respond to it. We cannot respond to your request or provide you with personal information if we cannot verify your identity or authority to make the request and confirm the personal information relates to you. We will only use personal information provided in a verifiable consumer request to verify the requestor’s identity or authority to make the request.
+
+Security
+--------
+
+TechnologyAdvice works hard to protect Information You provide from loss, misuse, and unauthorized access or disclosure. These steps take into account the sensitivity of the Other Information we collect, process and store, and the current state of technology. TechnologyAdvice has deployed all of these requirements in our systems and processes both internally as well as with upstream data providers to ensure the security of Personal Information:
+
+* Hardware-level and/or software-level encryption
+* Data minimization
+* Data pseudonymization
+* Data encryption at rest
+* Data encryption in transit
+
+Information Sharing
+-------------------
+
+On occasion TechnologyAdvice will make available to potential advertisers, research firms, and business partners aggregated results from research it has conducted regarding visitors to the Website. TechnologyAdvice may count, track, and aggregate visitor activity into our analysis of general traffic flows to the Website and may merge this information into group data, which may then be shared on an aggregated basis with potential advertisers, research firms, and business partners. In such case, TechnologyAdvice will only provide demographic information on an aggregated basis and does not disclose individual reader information. We improve our products and advertising by using Microsoft Clarity to see how you use our website. By using our site, you agree that we and Microsoft can collect and use this data.
+
+Links to Other Web Sites
+------------------------
+
+* The Website may contain links to Third Party Sites that are not owned or controlled by TechnologyAdvice. The provision of such links is for Your convenience and does not signify TechnologyAdvice’s endorsement of such web sites or location or its contents. TechnologyAdvice has no control over, does not review and is not responsible for the privacy policies of or content displayed on Third Party Sites. Please be aware that the terms of this Privacy Policy do not apply to Third Party Sites.
+* DISCLOSURE: TechnologyAdvice may have affiliate marketing agreements set up with a portion of the products mentioned in blog posts or other pages on the site. If a user clicks through to a product from this Website and makes a purchase, TechnologyAdvice may be entitled to a portion of the revenue generated from this purchase.
+
+Notification of Privacy Statement Changes
+-----------------------------------------
+
+From time to time, TechnologyAdvice may use Personal Information for new, unanticipated uses not previously disclosed in this Privacy Policy. If TechnologyAdvice’s information practices change at some time in the future TechnologyAdvice will post the policy changes to this Website to notify You of these changes and provide You with the ability to opt out of these new uses. If You are concerned about how Your information is used, You should check back at this Website periodically.
+
+Contacting the TechnologyAdvice Data Protection Team
+----------------------------------------------------
+
+If You have any questions about this Privacy Policy, the practices of this Website, or Your dealings with this Website, please contact the TechnologyAdvice Data Protection Officer at **[datacontroller@technologyadvice.com](mailto:datacontroller@technologyadvice.com)** or **615-285-4849**.
+
+#### Company
+
+* [About Us](https://www.wonderhowto.com/about-us/)
+* [Careers](https://www.wonderhowto.com/careers/)
+* [Contact Us](https://www.wonderhowto.com/contact-us/)
+
+#### Partner With Us
+
+* [Marketing Solutions](https://solutions.technologyadvice.com/solutions-overview/)
+* [Our Audience](https://solutions.technologyadvice.com/audience/)
+* [Customer Stories](https://solutions.technologyadvice.com/customer-stories/)
+* [B2B Nation](https://solutions.technologyadvice.com/b2b-nation/)
+
+#### Legal
+
+* [Terms of Use](https://www.wonderhowto.com/terms-conditions/)
+* [Privacy Policy](https://www.wonderhowto.com/privacy-policy/)
+* [California – Do Not Sell My Info](https://www.wonderhowto.com/privacy-policy/ccpa-opt-out/)
+
+[](https://www.wonderhowto.com/#)
+
+[![TechnologyAdvice logo](https://assets.dev.technologyadvice.com/uploads/2024/03/technologyadvice_logo_final-1.svg "TechnologyAdvice logo")](https://www.technologyadvice.com/)
+
+[](https://www.facebook.com/techadvice)
+
+[](https://www.youtube.com/user/TechnologyAdvice1)
+
+[](https://twitter.com/Technology_Adv)
+
+[](https://www.instagram.com/technologyadvice/)
+
+[](https://www.linkedin.com/company/technologyadvice)
+
+[](https://feeds.feedburner.com/technologyadvice/Hnmi)
+
+© 2024 TechnologyAdvice
