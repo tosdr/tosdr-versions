@@ -54,7 +54,7 @@
 
 * [Foundation](https://www.freebsdfoundation.org/)
     * [Monetary Donations](https://www.freebsdfoundation.org/donate/)
-    * [Hardware Donations](https://www.freebsd.org/donations/#systems/)
+    * [Hardware Donations](https://www.freebsd.org/donations/)
 
 * [About](https://www.freebsd.org/about/)
 * [Features](https://www.freebsd.org/features/)
