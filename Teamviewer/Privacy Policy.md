@@ -55,8 +55,7 @@
     
     * [Remote Management](https://www.teamviewer.com/en-us/products/remote/solutions/remote-management/)
     * [Asset Management](https://www.teamviewer.com/en-us/products/remote/solutions/asset-management/)
-    * [Endpoint Protection](https://www.teamviewer.com/en-us/products/remote/solutions/endpoint-protection/)
-    * [Security](https://www.teamviewer.com/en-us/products/tensor/security/)
+    * [Additional solutions](https://www.teamviewer.com/en-us/special/better-together/)
     * [Embedded Devices](https://www.teamviewer.com/en-us/products/tensor/solutions/tensor-embed/)
     
 * [Solutions](#)
@@ -72,7 +71,6 @@
     * [By Use Cases](#)
         * [Apple Vision Pro × TeamViewer](https://www.teamviewer.com/en-us/solutions/use-cases/apple-vision-pro/)
         * [Remote access and support](https://www.teamviewer.com/en-us/solutions/use-cases/remote-access-support/)
-        * [Remote maintenance](https://www.teamviewer.com/en-us/solutions/use-cases/remote-maintenance/)
         * [Remote control](https://www.teamviewer.com/en-us/solutions/use-cases/remote-control/)
         * [Remote desktop](https://www.teamviewer.com/en-us/solutions/use-cases/remote-desktop/)
         * [Wake-on-LAN](https://www.teamviewer.com/en-us/solutions/use-cases/wake-on-lan/)
@@ -85,6 +83,7 @@
         * [Large businesses](https://www.teamviewer.com/en-us/solutions/roles/large-businesses/)
         * [Managed service providers](https://www.teamviewer.com/en-us/solutions/roles/managed-service-providers/)
         * [Freelancers and digital nomads](https://www.teamviewer.com/en-us/solutions/roles/freelancer-digital-nomad/)
+        * [Freelancers and digital nomads](https://www.teamviewer.com/en-us/solutions/roles/oems/)
 * [Resources](#)
     * [News and Insights](https://www.teamviewer.com/en-us/resources/news-insights/)
     * [Success Stories](https://www.teamviewer.com/en-us/resources/success-stories/)
