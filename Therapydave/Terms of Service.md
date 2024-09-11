@@ -7,42 +7,34 @@ TherapyDave - Dave Lechnyr, LCSW
 
 Individual Therapy & Couples Counseling in Eugene, Oregon
 
-* [About](https://therapydave.com/about-eugene-psychotherapist/)
-* [Eugene, Oregon](https://therapydave.com/therapist-eugene-oregon/)
-* [Services](https://therapydave.com/eugene-therapist-services/)
-    * [Couples Therapy](https://therapydave.com/couples-therapy/)
-    * [Discernment Counseling](https://therapydave.com/discernment-counseling/)
-    * [Toxic Relationship Recovery](https://therapydave.com/toxic-relationship-recovery/)
-    * [Individual Therapy](https://therapydave.com/eugene-psychotherapy/)
+* [Meet Dave](https://therapydave.com/about-eugene-psychotherapist/)
+* [Couples Counseling](https://therapydave.com/couples-therapy/)
+* [Individual Therapy](https://therapydave.com/eugene-psychotherapy/)
 * [FAQ](https://therapydave.com/psychotherapist-faqs/)
+* [Locations](https://therapydave.com/therapist-eugene-oregon/)
 * [Resources](https://therapydave.com/eugene-psychotherapist-resources/)
+    * [Blog](https://therapydave.com/eugene-psychotherapist-resources/)
+    * [Community Resources](https://therapydave.com/mental-health-crisis-resources/)
 * [Request Appointment](https://therapydave.com/therapist-appointments/)
 
-You are here: [Home](https://therapydave.com/) / Terms and Conditions
+You are here: [Home](https://therapydave.com/) / Terms of Service
 
-Terms and Conditions
-====================
+Terms of Service
+================
 
-_Last updated: July 14, 2024_
+_Last updated: August 27, 2024_
 
-The following Terms and Conditions (the “Agreement”) govern your access to and use of this website, [therapydave.com](https://therapydave.com/), and any of its services (collectively referred to as the “Site”). This website is owned and operated by TherapyDave, a licensed therapy provider (the “Company”).
+    [![An abstract image featureing symbols of agreement for a terms and conditions of service page](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20585'%3E%3C/svg%3E)
+
+  ![An abstract image featureing symbols of agreement for a terms and conditions of service page](https://therapydave.com/wp-content/uploads/terms-conditions-service-1024x585.jpg)](https://therapydave.com/wp-content/uploads/terms-conditions-service.jpg)
+
+The following Terms of Services (the “Agreement”) govern your access to and use of this website, [therapydave.com](https://therapydave.com/), and any of its services (collectively referred to as the “Site”). This website is owned and operated by TherapyDave, a licensed therapy provider (the “Company”).
 
 When the terms “we,” “us,” “our,” or similar are used in this Agreement, they refer to the Company.
 
 By accessing or using the Site, you agree to comply with and be bound by this Agreement. Please read this Agreement carefully. If you do not agree to any part of this Agreement, you must not use the Site.
 
-Additional definitions, terms, and conditions can be found in the [Privacy Policy](https://therapydave.com/privacy/), which is hereby expressly incorporated into this document by reference.
-
-Disclaimer
-----------
-
-THIS WEBSITE AND ITS CONTENT ARE FOR INFORMATIONAL PURPOSES ONLY. IT IS NOT INTENDED AS A SUBSTITUTE FOR THERAPY, PROFESSIONAL MEDICAL ADVICE, OR TREATMENT.
-
-ALWAYS SEEK THE ADVICE OF YOUR PHYSICIAN OR OTHER QUALIFIED MENTAL HEALTH PROVIDER WITH ANY QUESTIONS YOU MAY HAVE REGARDING A MEDICAL AND/OR MENTAL HEALTH CONDITION. NEVER DISREGARD PROFESSIONAL ADVICE OR DELAY SEEKING IT BECAUSE OF SOMETHING YOU HAVE READ ON THIS SITE. EACH INDIVIDUAL’S MENTAL HEALTH CONCERNS SHOULD BE EVALUATED AND DIRECTLY ADDRESSED BY A LICENSED MENTAL HEALTH PROFESSIONAL.
-
-MENTAL HEALTH PRACTITIONERS SHOULD UTILIZE THE CONTENT OF THIS WEBSITE IN A MANNER FULLY CONSISTENT WITH STANDARDS FOR PRACTICE AND APPLICABLE ETHICAL GUIDELINES.
-
-THIS WEBSITE AND ITS CONTENT ARE NOT INTENDED TO BE USED IF YOU ARE IN CRISIS OR IF ANY OTHER PERSON MAY BE IN DANGER. INSTEAD, CALL EMERGENCY SERVICES AT 911, THE [SUICIDE & CRISIS LIFELINE](https://988lifeline.org/) AT 988, OR GO TO YOUR NEAREST HOSPITAL EMERGENCY ROOM.
+Additional definitions, terms, and conditions can be found in the [Privacy Policy](https://therapydave.com/privacy/) and [Disclaimer](https://therapydave.com/disclaimer/), which are hereby expressly incorporated into this document by reference.
 
 Appointment Requests
 --------------------
@@ -159,31 +151,31 @@ Contact Information
 
 If you have any questions or concerns about this Agreement, please contact us at 2440 Willamette Street, Suite 101-C, Eugene, Oregon, 97405 or by phone at 541-705-4666.
 
+_“Dave Lechnyr is a very compassionate and empathetic couples therapist who has been able to work with me and my husband in very constructive and practical ways.”_
+
 [Get Started Now](https://therapydave.com/therapist-appointments/)
-
-  
-
-“I used to feel like a complete mess. I was starting to lose myself and everyone else that I cared about. After working with Dave, I learned how to be mindful and talk myself out of my spiral of endless worry. I don’t feel so completely lost or crazy. Instead, I feel more normal, more at peace. I’m not totally fighting myself at every turn.”
-
-– Client review of Gottman Therapist Dave Lechnyr, Eugene Oregon
 
  [![TherapyDave - Dave Lechnyr, LCSW](https://therapydave.com/wp-content/uploads/therapydave_227x85w.png)](https://therapydave.com/)
 
 Dave Lechnyr, LCSW  
 2440 Willamette Street, Suite 101-C  
 Eugene, OR 97405-3170  
-541-705-4666  
+Office Hours: Monday – Thursday, 9:00 AM - 6:00 PM  
+Phone: 541-705-4666  
   
-_If you are in a crisis or dangerous situation, you can [get immediate help](https://therapydave.com/mental-health-crisis-resources/)._
+Proudly serving clients in Eugene, OR, and via telehealth across Oregon and Arizona.  
+  
+_In crisis? Call the [National Suicide Prevention Lifeline](https://988lifeline.org/) at 1-800-273-TALK (8255). [Additional Mental Health Resources](https://therapydave.com/mental-health-crisis-resources/)._
 
-* [Terms](https://therapydave.com/terms/)
-* [Privacy](https://therapydave.com/privacy/)
+* [Notice of Privacy Practices](https://therapydave.com/notice-of-privacy-practices/)
+* [Terms of Service](https://therapydave.com/terms/)
+* [Privacy Policy](https://therapydave.com/privacy/)
+* [Disclaimer](https://therapydave.com/disclaimer/)
 * [Good Faith Estimate](https://therapydave.com/good-faith-estimate.pdf)
-* [Release of Information](https://therapydave.com/roi.pdf)
-* [Client Portal](https://clients.therapydave.com/)
+* [Accessibility Statement](https://therapydave.com/accessibility-statement/)
 
-Helping you become the best version of yourself
+Now Accepting New Clients in Eugene, OR for Individual and Couples Therapy. Ready to Transform Your Life?
 
-[I'm Ready to Start Now](https://therapydave.com/therapist-appointments/)
+[Get Started](https://therapydave.com/therapist-appointments/)
 
 X
