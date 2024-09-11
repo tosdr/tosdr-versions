@@ -117,6 +117,10 @@ If any link is offered connecting you to a third party website, it is as an acco
 **Disclaimer of Warranties**  
 THE SITE AND THE CONTENTS HEREIN ARE PROVIDED "AS IS" AND "AS AVAILABLE," AND ALL WARRANTIES, EXPRESS OR IMPLIED, ARE DISCLAIMED, INCLUDING BUT NOT LIMITED TO, ANY IMPLIED WARRANTIES OF MERCHANTABILITY, QUIET ENJOYMENT, NON-INFRINGEMENT AND FITNESS FOR A PARTICULAR PURPOSE. WE ARE NOT RESPONSIBLE FOR DAMAGE OR LOSS CAUSED BY ERRORS ON THE SITE, CONTENT ON THE SITE OR THE INTERNET. ADDITIONALLY, THE SITE MAY BE UNAVAILABLE UNEXPECTEDLY AS A RESULT OF ERRORS OR CIRCUMSTANCES BEYOND OUR CONTROL.
 
+### **Filing a Tort Claim Against Valley Medical Center**
+
+If you believe you have experienced harm due to the actions or negligence of Valley Medical Center, you have the right to file a tort claim. This process allows individuals to seek compensation for damages, including medical expenses, lost wages, and pain and suffering. [Click here](https://www.valleymed.org/legal-notice/file-a-tort-claim) to learn more and to download a Tort Claim Form. 
+
 ### Privacy Statement
 
 At VMC, your personal privacy and the security of your personal information are of primary concern. Under no circumstances will sell or share any personal information about you to or with any person or organization except those authorized by you, or as may be required by law or court order. By providing an email address, you give us permission to follow up with e-newsletters and other electronic correspondence. We do not sell or exchange any email addresses. Read our [Privacy Policy.](https://www.valleymed.org/privacy-policy "Privacy Policy.")  
