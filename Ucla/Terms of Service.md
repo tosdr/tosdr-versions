@@ -2,7 +2,7 @@ Skip to Navigation Skip to Navigation Skip to Search Skip to Search [Skip to Mai
 
 [![UCLA Logo](/img/logo-ucla.svg)](https://www.ucla.edu/)
 
-[Events](https://community.ucla.edu/) [Newsroom](https://newsroom.ucla.edu/) [Magazine](https://newsroom.ucla.edu/magazine) [Alumni](https://alumni.ucla.edu/) [Arts](https://goarts.ucla.edu/) [Careers](https://www.ucla.edu/careers) [Give](https://giveto.ucla.edu/)
+[Events](https://www.ucla.edu/events) [Newsroom](https://newsroom.ucla.edu/) [Magazine](https://newsroom.ucla.edu/magazine) [Alumni](https://alumni.ucla.edu/) [Arts](https://goarts.ucla.edu/) [Careers](https://www.ucla.edu/careers) [Give](https://giveto.ucla.edu/)
 
 * [About](https://www.ucla.edu/about)
     * About
@@ -296,11 +296,11 @@ Los Angeles 90095[(310) 825-4321](tel:+1-310-825-4321)
 * [Emergency](https://www.bso.ucla.edu/)
 * [Accessibility](https://www.ucla.edu/accessibility)
 * [Report Misconduct](https://ucla-gme-advocate.symplicity.com/public_report/index.php/pid031251)
-* [Privacy & Terms of Use](https://www.ucla.edu/terms-of-use/)
+* [Privacy & Terms of Use](https://www.ucla.edu/terms-of-use)
 
 Cookie Policy
 -------------
 
-We use cookies to understand how you use our site and to improve your experience, including personalizing content and to store your content preferences. If you would prefer, you may set your browser to refuse cookies or alert you when cookies are being sent; however, it is possible that some parts of our sites will not function properly if you do so. By continuing to use our sites, you accept our use of cookies and revised [Privacy Policy](https://www.ucla.edu/terms-of-use/).
+We use cookies to understand how you use our site and to improve your experience, including personalizing content and to store your content preferences. If you would prefer, you may set your browser to refuse cookies or alert you when cookies are being sent; however, it is possible that some parts of our sites will not function properly if you do so. By continuing to use our sites, you accept our use of cookies and revised [Privacy Policy](https://www.ucla.edu/terms-of-use).
 
 I Accept
