@@ -292,60 +292,60 @@
 
 [![Единая Россия](../../img/logo-large-white.svg)
 
-Народная программа](https://er.ru/media/documents/July2023/p4hot4LxoMZvz9wXsji5.pdf)
+Народная программа](https://er.ru/media/documents/August2024/cuUoF8dNMx5WxwOT0UuW.pdf)
 
 Последние новости
 -----------------
 
 [Все новости](https://er.ru/activity/news)
 
-[![«Единая Россия» провела финал проектной сессии международной акции «Люди Артека»](https://cdn.er.ru/img/stubs/small/3.jpg)](https://er.ru/activity/news/edinaya-rossiya-provela-final-proektnoj-sessii-mezhdunarodnoj-akcii-lyudi-arteka)
+[![«Единая Россия» организовала в Тюмени сессию «Женской политшколы» для 2 тысяч активисток](https://cdn.er.ru/media/news/September2024/34e7wXyg9gja3Rw77IPa-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-organizovala-v-tyumeni-sessiyu-zhenskoj-politshkoly-dlya-2-tysyach-aktivistok)
 
-[«Единая Россия» провела финал проектной сессии международной акции «Люди Артека»](https://er.ru/activity/news/edinaya-rossiya-provela-final-proektnoj-sessii-mezhdunarodnoj-akcii-lyudi-arteka)
+[«Единая Россия» организовала в Тюмени сессию «Женской политшколы» для 2 тысяч активисток](https://er.ru/activity/news/edinaya-rossiya-organizovala-v-tyumeni-sessiyu-zhenskoj-politshkoly-dlya-2-tysyach-aktivistok)
 
-[#Косачев](https://er.ru/activity/news?tags%5B0%5D=595) [#Климов](https://er.ru/activity/news?tags%5B0%5D=1872) [#Романов](https://er.ru/activity/news?tags%5B0%5D=8320) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#МирВозможностей](https://er.ru/activity/news?tags%5B0%5D=1092793) [#ЛюдиАртека](https://er.ru/activity/news?tags%5B0%5D=1094253) [#КлубДрузейРоссии](https://er.ru/activity/news?tags%5B0%5D=1095609) [#Артек](https://er.ru/activity/news?tags%5B0%5D=59411) [#конкурс](https://er.ru/activity/news?tags%5B0%5D=360) [#международныеотношения](https://er.ru/activity/news?tags%5B0%5D=130522)
+[#Тюменская область](https://er.ru/activity/news?tags%5B0%5D=784) [#партпроект](https://er.ru/activity/news?tags%5B0%5D=632) [#ЖенскоеДвижениеЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1093396) [#женскаяполитшкола](https://er.ru/activity/news?tags%5B0%5D=1095004) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Лантратова](https://er.ru/activity/news?tags%5B0%5D=1607) [#Полуянова](https://er.ru/activity/news?tags%5B0%5D=11309) [#Моор](https://er.ru/activity/news?tags%5B0%5D=19355) [#Минченко](https://er.ru/activity/news?tags%5B0%5D=10209) [#Стулова](https://er.ru/activity/news?tags%5B0%5D=1094161) [#Потуремский](https://er.ru/activity/news?tags%5B0%5D=118710)
 
-Сегодня 17:32
+10.09.24
 
-[![«Молодая Гвардия Единой России» помогает пострадавшим от обрушения многоэтажного дома в Нижнем Тагиле](https://cdn.er.ru/media/news/August2024/1OHVdpypVgsKtYCjQPvD-small.jpeg)](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-pomogaet-postradavshim-ot-obrusheniya-mnogoetazhnogo-doma-v-nizhnem-tagile)
+[![Алексей Чеснаков: «Единая Россия» создаёт монополию в повестке](https://cdn.er.ru/media/news/September2024/FDxHutnyw8YTQrlYC4rc-small.jfif)](https://er.ru/activity/news/aleksej-chesnakov-edinaya-rossiya-sozdayot-monopoliyu-v-povestke)
 
-[«Молодая Гвардия Единой России» помогает пострадавшим от обрушения многоэтажного дома в Нижнем Тагиле](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-pomogaet-postradavshim-ot-obrusheniya-mnogoetazhnogo-doma-v-nizhnem-tagile)
+[Алексей Чеснаков: «Единая Россия» создаёт монополию в повестке](https://er.ru/activity/news/aleksej-chesnakov-edinaya-rossiya-sozdayot-monopoliyu-v-povestke)
 
-[#МГЕР](https://er.ru/activity/news?tags%5B0%5D=38581) [#МолодаяГвардияЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1094676) [#Свердловская область](https://er.ru/activity/news?tags%5B0%5D=240) [#Тупица](https://er.ru/activity/news?tags%5B0%5D=136922) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#поддержка](https://er.ru/activity/news?tags%5B0%5D=519)
+[#Чеснаков](https://er.ru/activity/news?tags%5B0%5D=3656) [#выборы2024](https://er.ru/activity/news?tags%5B0%5D=1095001) [#ЕДГ2024](https://er.ru/activity/news?tags%5B0%5D=1095607) [#избирательнаякампания](https://er.ru/activity/news?tags%5B0%5D=109648) [#кандидатыЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=108739) [#голосование](https://er.ru/activity/news?tags%5B0%5D=188)
 
-Сегодня 16:50
+10.09.24
 
-[![«Единая Россия» усилит защиту объектов ТЭК и транспортной инфраструктуры от атак беспилотников](https://cdn.er.ru/media/news/August2024/nXyP31arvHHAUm1PnkDu-small.jpeg)](https://er.ru/activity/news/edinaya-rossiya-usilit-zashitu-obektov-tek-i-transportnoj-infrastruktury-ot-atak-bespilotnikov)
+[![На портале «Единой России» и Минцифры «Я в России» появилась инструкция о подключении газа](https://cdn.er.ru/media/news/September2024/7kT2fnb0P7tvb0GG04lZ-small.jpg)](https://er.ru/activity/news/na-portale-edinoj-rossii-i-mincifry-ya-v-rossii-poyavilas-instrukciya-o-podklyuchenii-gaza)
 
-[«Единая Россия» усилит защиту объектов ТЭК и транспортной инфраструктуры от атак беспилотников](https://er.ru/activity/news/edinaya-rossiya-usilit-zashitu-obektov-tek-i-transportnoj-infrastruktury-ot-atak-bespilotnikov)
+[На портале «Единой России» и Минцифры «Я в России» появилась инструкция о подключении газа](https://er.ru/activity/news/na-portale-edinoj-rossii-i-mincifry-ya-v-rossii-poyavilas-instrukciya-o-podklyuchenii-gaza)
 
-[#ТЭК](https://er.ru/activity/news?tags%5B0%5D=1363) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#БПЛА](https://er.ru/activity/news?tags%5B0%5D=1094194) [#законодательство](https://er.ru/activity/news?tags%5B0%5D=692) [#безопасность](https://er.ru/activity/news?tags%5B0%5D=180) [#инфраструктура](https://er.ru/activity/news?tags%5B0%5D=1129) [#ФракцияЕР](https://er.ru/activity/news?tags%5B0%5D=1090016)
+[#Минцифра](https://er.ru/activity/news?tags%5B0%5D=145375) [#Луганская Народная Республика](https://er.ru/activity/news?tags%5B0%5D=126130) [#Херсонская область](https://er.ru/activity/news?tags%5B0%5D=1093586) [#Запорожская область](https://er.ru/activity/news?tags%5B0%5D=1093589) [#Донецкая Народная Республика](https://er.ru/activity/news?tags%5B0%5D=60937) [#газификация](https://er.ru/activity/news?tags%5B0%5D=2145) [#догазификация](https://er.ru/activity/news?tags%5B0%5D=1094666) [#порталы](https://er.ru/activity/news?tags%5B0%5D=49541)
 
-Сегодня 12:44
+10.09.24
 
-[![Михаил Терентьев: В весеннюю сессию по инициативе «Единой России» Госдума приняла законы, направленные на защиту людей с инвалидностью](https://cdn.er.ru/media/news/August2024/A9CGkZpShLoJNK5fx4RX-small.jpg)](https://er.ru/activity/news/mihail-terentev-v-vesennyuyu-sessiyu-po-iniciative-edinoj-rossii-gosduma-prinyala-zakony-napravlennye-na-zashitu-lyudej-s-invalidnostyu)
+[![Константин Костин: Успехи «Единой России» на этих региональных выборах дают серьёзное основание говорить, что меняется политический ландшафт](https://cdn.er.ru/media/news/September2024/fONVKDj1FyMCkBraaHII-small.jpg)](https://er.ru/activity/news/konstantin-kostin-uspehi-edinoj-rossii-na-etih-regionalnyh-vyborah-dayut-seryoznoe-osnovanie-govorit-chto-menyaetsya-politicheskij-landshaft)
 
-[Михаил Терентьев: В весеннюю сессию по инициативе «Единой России» Госдума приняла законы, направленные на защиту людей с инвалидностью](https://er.ru/activity/news/mihail-terentev-v-vesennyuyu-sessiyu-po-iniciative-edinoj-rossii-gosduma-prinyala-zakony-napravlennye-na-zashitu-lyudej-s-invalidnostyu)
+[Константин Костин: Успехи «Единой России» на этих региональных выборах дают серьёзное основание говорить, что меняется политический ландшафт](https://er.ru/activity/news/konstantin-kostin-uspehi-edinoj-rossii-na-etih-regionalnyh-vyborah-dayut-seryoznoe-osnovanie-govorit-chto-menyaetsya-politicheskij-landshaft)
 
-[#Терентьев](https://er.ru/activity/news?tags%5B0%5D=3447) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроекты](https://er.ru/activity/news?tags%5B0%5D=863) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136) [#людисинвалидностью](https://er.ru/activity/news?tags%5B0%5D=132986)
+[#Костин](https://er.ru/activity/news?tags%5B0%5D=4508) [#ФоРГО](https://er.ru/activity/news?tags%5B0%5D=1095744) [#выборы2024](https://er.ru/activity/news?tags%5B0%5D=1095001) [#ЕДГ2024](https://er.ru/activity/news?tags%5B0%5D=1095607) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#ДальнийВосток](https://er.ru/activity/news?tags%5B0%5D=97564) [#Москва](https://er.ru/activity/news?tags%5B0%5D=255) [#избиратели](https://er.ru/activity/news?tags%5B0%5D=122173)
 
-31.07.24
+10.09.24
 
-[![Законодательная работа, подготовка к ЕДГ и выборам в Госдуму-2026: Дмитрий Медведев встретился с фракцией «Единой России»](https://cdn.er.ru/media/news/July2024/o6ntDA7SrljikbZShxVI-small.jpg)](https://er.ru/activity/news/zakonodatelnaya-rabota-podgotovka-k-edg-i-vyboram-v-gosdumu-2026-dmitrij-medvedev-vstretilsya-s-frakciej-edinoj-rossii)
+[![Александр Асафов: «Единая Россия» уделила особое внимание наблюдению за ДЭГ в Москве](https://cdn.er.ru/media/news/September2024/lzAC90daMGSyFv6UqZpI-small.jfif)](https://er.ru/activity/news/aleksandr-asafov-edinaya-rossiya-udelila-osoboe-vnimanie-nablyudeniyu-za-deg-v-moskve)
 
-[Законодательная работа, подготовка к ЕДГ и выборам в Госдуму-2026: Дмитрий Медведев встретился с фракцией «Единой России»](https://er.ru/activity/news/zakonodatelnaya-rabota-podgotovka-k-edg-i-vyboram-v-gosdumu-2026-dmitrij-medvedev-vstretilsya-s-frakciej-edinoj-rossii)
+[Александр Асафов: «Единая Россия» уделила особое внимание наблюдению за ДЭГ в Москве](https://er.ru/activity/news/aleksandr-asafov-edinaya-rossiya-udelila-osoboe-vnimanie-nablyudeniyu-za-deg-v-moskve)
 
-[#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#Володин](https://er.ru/activity/news?tags%5B0%5D=1847) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Васильев](https://er.ru/activity/news?tags%5B0%5D=947) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=126717) [#осенняясессия](https://er.ru/activity/news?tags%5B0%5D=121119) [#весенняясессия](https://er.ru/activity/news?tags%5B0%5D=99448) [#налоги](https://er.ru/activity/news?tags%5B0%5D=329) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889) [#семьиучастниковСВО](https://er.ru/activity/news?tags%5B0%5D=1093476) [#участникиСВО](https://er.ru/activity/news?tags%5B0%5D=1094633) [#ЕДГ](https://er.ru/activity/news?tags%5B0%5D=46588) [#выборы2024](https://er.ru/activity/news?tags%5B0%5D=1095001) [#избирательнаякампания](https://er.ru/activity/news?tags%5B0%5D=109648) [#первичныеотделения](https://er.ru/activity/news?tags%5B0%5D=113123)
+[#ЕДГ2024](https://er.ru/activity/news?tags%5B0%5D=1095607) [#Асафов](https://er.ru/activity/news?tags%5B0%5D=150628) [#выборы2024](https://er.ru/activity/news?tags%5B0%5D=1095001) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#политолог](https://er.ru/activity/news?tags%5B0%5D=178)
 
-31.07.24
+10.09.24
 
-[![В неделе водных видов спорта марафона «Единой России» «Сила России» приняли участие более 50 тысяч человек](https://cdn.er.ru/media/news/July2024/r6ITPMo45YGErEdnbDqx-small.jpg)](https://er.ru/activity/news/v-nedele-vodnyh-vidov-sporta-marafona-edinoj-rossii-sila-rossii-prinyali-uchastie-bolee-50-tysyach-chelovek)
+[![Сергей Перминов: Результаты «Единой России» на выборах-2024 накладывают на неё серьёзный груз ответственности](https://cdn.er.ru/media/news/September2024/iwR5DOvfZYgE2PcccygI-small.jpg)](https://er.ru/activity/news/sergej-perminov-rezultaty-edinoj-rossii-na-vyborah-2024-nakladyvayut-na-neyo-seryoznyj-gruz-otvetstvennosti)
 
-[В неделе водных видов спорта марафона «Единой России» «Сила России» приняли участие более 50 тысяч человек](https://er.ru/activity/news/v-nedele-vodnyh-vidov-sporta-marafona-edinoj-rossii-sila-rossii-prinyali-uchastie-bolee-50-tysyach-chelovek)
+[Сергей Перминов: Результаты «Единой России» на выборах-2024 накладывают на неё серьёзный груз ответственности](https://er.ru/activity/news/sergej-perminov-rezultaty-edinoj-rossii-na-vyborah-2024-nakladyvayut-na-neyo-seryoznyj-gruz-otvetstvennosti)
 
-[#Занко](https://er.ru/activity/news?tags%5B0%5D=1092667) [#СилаРоссии](https://er.ru/activity/news?tags%5B0%5D=1094187) [водныевидыспорта](https://er.ru/activity/news?tags%5B0%5D=153325) [#марафон](https://er.ru/activity/news?tags%5B0%5D=2873) [#Тюменская область](https://er.ru/activity/news?tags%5B0%5D=784) [#Санкт-Петербург](https://er.ru/activity/news?tags%5B0%5D=622) [#Нижегородская область](https://er.ru/activity/news?tags%5B0%5D=1447) [#Московская область](https://er.ru/activity/news?tags%5B0%5D=765) [#мастер-классы](https://er.ru/activity/news?tags%5B0%5D=34619) [#турниры](https://er.ru/activity/news?tags%5B0%5D=77047) [#состязания](https://er.ru/activity/news?tags%5B0%5D=39929)
+[#Перминов](https://er.ru/activity/news?tags%5B0%5D=79338) [#круглыйстол](https://er.ru/activity/news?tags%5B0%5D=108586) [#ФоРГО](https://er.ru/activity/news?tags%5B0%5D=1095744) [#выборы2024](https://er.ru/activity/news?tags%5B0%5D=1095001) [#ЕДГ2024](https://er.ru/activity/news?tags%5B0%5D=1095607)
 
-31.07.24
+10.09.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
