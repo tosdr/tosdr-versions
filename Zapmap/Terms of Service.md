@@ -1,7 +1,6 @@
 [Skip to main content](#main-content)
 
 Main navigation
----------------
 
 * [Zapmap for EV drivers](https://www.zap-map.com/ "A link to the home page")
 * [Zapmap for business](https://www.zap-map.com/for-business "A link to the business landing page")
@@ -20,7 +19,6 @@ Search term
  [![Zapmap logo](/themes/custom/zap_map/assets/logo.svg)](https://www.zap-map.com/)[![Zapmap for Business logo white](/themes/custom/zap_map/assets/logo-business.svg)](https://www.zap-map.com/for-business)
 
 User account menu
------------------
 
 * [Map](https://www.zap-map.com/live "A link to Zap Map Products")
     * [Mobile app](https://www.zap-map.com/app "Description goes here")
@@ -378,7 +376,6 @@ Search term
   
 
 Footer
-------
 
 * [For EV drivers](https://www.zap-map.com/)
     * [Zapmap app](https://www.zap-map.com/app)
@@ -403,8 +400,8 @@ Footer
     * [Press](https://www.zap-map.com/press)
     * [Contact us](https://www.zap-map.com/contact)
     * [Cookie policy](https://www.zap-map.com/cookie-policy)
-    * [Privacy notice](https://www.zap-map.com/privacy-notice)
-    * [Terms & conditions](https://www.zap-map.com/terms-and-conditions)
+    * [Privacy policy](https://www.zap-map.com/privacy-policy)
+    * [Terms of use](https://www.zap-map.com/terms-of-use)
 
 * [Instagram](https://www.instagram.com/zap.map/?hl=en)
 * [Facebook](https://www.facebook.com/Zap-Map-301390526692372/)
