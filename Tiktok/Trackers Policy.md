@@ -1,4 +1,4 @@
-[![TikTok](https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/legal/static/build/_assets/tiktok-header-logo-06fe0df37ccabdcf75f1-339cf5cabd5eac712073549cfb4134eb419f1064.svg)](https://www.tiktok.com/ "TikTok")
+[![TikTok](https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/legal/static/build/_assets/tiktok-header-logo-06fe0df37ccabdcf75f1-339cf5cabd5eac712073549cfb4134eb419f1064.svg)](https://www.tiktok.com/ "TikTok")
 
 TikTok Platform Cookies Policy
 
@@ -170,6 +170,12 @@ _Last Updated: 5 November 2020_
 
 **Privacy Policy:** [https://www.flashtalking.com/privacypolicy](https://www.flashtalking.com/privacypolicy)
 
+**Gamesight**
+
+**Categories of Data:** IP address, User Agent,
+
+**Privacy Policy:** [https://console.gamesight.io/privacy-policy](https://console.gamesight.io/privacy-policy)
+
 **Kantar**
 
 **Categories of Data:** IP address, User Agent, Cookie
@@ -260,13 +266,11 @@ We will not store or collect your card details. Information is provided directly
 
 **Privacy Policy:** [https://support.apple.com/en-us/HT210665](https://support.apple.com/en-us/HT210665)
 
-[![](https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/legal/static/build/_assets/logo-27d6cf4b2491ddf10a58-339cf5cabd5eac712073549cfb4134eb419f1064.svg)![](https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/legal/static/build/_assets/logotext-969cd3ed892da756e59b-339cf5cabd5eac712073549cfb4134eb419f1064.svg)](https://www.tiktok.com/ "TikTok")**TikTok**
+[![](https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/legal/static/build/_assets/logo-27d6cf4b2491ddf10a58-339cf5cabd5eac712073549cfb4134eb419f1064.svg)![](https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/legal/static/build/_assets/logotext-969cd3ed892da756e59b-339cf5cabd5eac712073549cfb4134eb419f1064.svg)](https://www.tiktok.com/ "TikTok")**TikTok**
 
 #### Company
 
 [About TikTok](https://www.tiktok.com/about?lang=en)
-
-[TikTok UK Tax Strategy](https://www.tiktok.com/legal/tiktok-uk-tax-strategy?lang=en)
 
 [Newsroom](https://newsroom.tiktok.com/en-us?lang=en)
 
@@ -314,14 +318,14 @@ We will not store or collect your card details. Information is provided directly
 
 [Privacy Policy](https://www.tiktok.com/legal/privacy-policy?lang=en)
 
-[Children's Privacy Policy](https://www.tiktok.com/legal/childrens-privacy-policy?lang=en)
-
-[TikTok Web Cookies Policy](https://www.tiktok.com/legal/tiktok-website-cookies-policy?lang=en)
+[TikTok Platform Cookies Policy](https://www.tiktok.com/legal/cookie-policy?lang=en)
 
 [Intellectual Property Policy](https://www.tiktok.com/legal/copyright-policy?lang=en)
 
 [TikTok Law Enforcement Guidelines](https://www.tiktok.com/legal/law-enforcement?lang=en)
 
 [TikTok UK Modern Slavery Statement 2023](https://www.tiktok.com/legal/modern-slavery-statement?lang=en)
+
+[Children's Privacy Policy](https://www.tiktok.com/legal/privacy-policy-for-younger-users?lang=en)
 
 © 2024 TikTok
