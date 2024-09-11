@@ -297,12 +297,12 @@ Beyond All Reason RTS
 Nav
 ===
 
-[Home](https://www.beyondallreason.info/)[News](https://www.beyondallreason.info/news)[Support BAR](https://www.beyondallreason.info/donate-to-bar)[Buy Merch](https://shop.beyondallreason.info/)[Download for free](https://www.beyondallreason.info/download)
+[Home](https://www.beyondallreason.info/)[Download for free](https://www.beyondallreason.info/download)[Support BAR](https://www.beyondallreason.info/donate-to-bar)[Buy Merch](https://shop.beyondallreason.info/)
 
 Information
 ===========
 
-[Screenshots](https://www.beyondallreason.info/screenshots)[How to play](https://www.beyondallreason.info/guides)[Commands](https://www.beyondallreason.info/commands-20)[Maps](https://www.beyondallreason.info/maps)[Gameplay](https://www.beyondallreason.info/gameplay)[Compare Units](https://www.beyondallreason.info/compare/armada-vs-cortex)[TEam](https://www.beyondallreason.info/team)[FAQ](https://www.beyondallreason.info/faq)[Code of Conduct](https://www.beyondallreason.info/code-of-conduct "How to play BAR so stays fun for everyone!")[Devlog](https://www.beyondallreason.info/development/microblog)[Balance Changes](https://www.beyondallreason.info/development/changelog)
+[News](https://www.beyondallreason.info/news)[Screenshots](https://www.beyondallreason.info/screenshots)[Guides](https://www.beyondallreason.info/guides)[Gameplay](https://www.beyondallreason.info/gameplay)[Commands](https://www.beyondallreason.info/commands-20)[FAQ](https://www.beyondallreason.info/faq)[Maps](https://www.beyondallreason.info/maps)[Code of Conduct](https://www.beyondallreason.info/code-of-conduct "How to play BAR so stays fun for everyone!")
 
 ARMADA FACTION
 ==============
@@ -314,10 +314,15 @@ CORTEX FACTION
 
 [Unit Overview](https://www.beyondallreason.info/cortex)[Bots](https://www.beyondallreason.info/units/cortex-bots)[Vehicles](https://www.beyondallreason.info/units/cortex-vehicles)[Aircraft](https://www.beyondallreason.info/units/cortex-aircraft)[Ships](https://www.beyondallreason.info/units/cortex-ships)[Hovercraft](https://www.beyondallreason.info/units/cortex-hovercraft)[Factories](https://www.beyondallreason.info/units/cortex-factories)[Defenses](https://www.beyondallreason.info/units/cortex-defense-buildings)[Buildings](https://www.beyondallreason.info/units/cortex-buildings)
 
+Development
+===========
+
+[overview](https://www.beyondallreason.info/development/development-of-bar)[Devlog](https://www.beyondallreason.info/development/microblog)[Balance Changes](https://www.beyondallreason.info/development/changelog)[Steam Roadmap](https://www.beyondallreason.info/development/steam-release)[TEam](https://www.beyondallreason.info/team)
+
 OTHER
 =====
 
-[Scavengers](https://www.beyondallreason.info/scavenger-feed)[Alien Raptors](https://www.beyondallreason.info/units/alien-chickens)
+[Compare Units](https://www.beyondallreason.info/compare/armada-vs-cortex)[Scavengers](https://www.beyondallreason.info/scavenger-feed)[Alien Raptors](https://www.beyondallreason.info/units/alien-chickens)
 
 Beyond All Reason is powered by
 
