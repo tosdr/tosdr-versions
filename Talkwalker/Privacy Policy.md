@@ -74,11 +74,6 @@
     
 * Resources
     
-    * [![decorative](https://images.ctfassets.net/ta4ffdi8h2om/7AMLULsfYeFgNWjf8CtKR2/6bf35164ec9818b7c697a08f0371ee07/tools_power_drill.svg)
-        
-        Free tools
-        
-        new](https://www.talkwalker.com/social-media-tools)
     * [![decorative](https://images.ctfassets.net/ta4ffdi8h2om/6fPeZxKMVpxGRC5lI4jOSK/2a896bba1728c65a0a06d6bced064bc9/quick_reference_all.svg)
         
         Case studies](https://www.hootsuite.com/resources?category=Case+Studies)
@@ -88,17 +83,27 @@
     * [![decorative](https://images.ctfassets.net/ta4ffdi8h2om/3IifIw8fHYMHZa6Kz5RGTw/0128c3833d767e4c5e1ce401c434bc84/rss_feed.svg)
         
         Blog](https://blog.hootsuite.com/)
+    * [![decorative](https://images.ctfassets.net/ta4ffdi8h2om/1Kk3Jy2H9SXMTT0XzDTCyN/c45f575cab3564b3f6d92826e30853b5/workspace_premium.svg)
+        
+        Courses](https://education.hootsuite.com/)
+    * [![decorative](https://images.ctfassets.net/ta4ffdi8h2om/1rxgKUZBxcK7SZ1YiyPBSt/edcbee6efa930c7e4cf9891c1f12de0d/trending_up.svg)
+        
+        Social media trends](https://www.talkwalker.com/research/social-trends)
+    * [![decorative](https://images.ctfassets.net/ta4ffdi8h2om/7AMLULsfYeFgNWjf8CtKR2/6bf35164ec9818b7c697a08f0371ee07/tools_power_drill.svg)
+        
+        Free tools
+        
+        new](https://www.talkwalker.com/social-media-tools)
+    * [![Templates icon](https://images.ctfassets.net/ta4ffdi8h2om/5aXZFJnwUfOcdUTlvCjjA3/d711b5dd8f20794b7a7bb8565cb630c8/templates.svg)
+        
+        Templates
+        
+        new](https://www.talkwalker.com/resources/templates)
     * [![decorative](https://images.ctfassets.net/ta4ffdi8h2om/1bjxVIgHkj2pgrOwdkuz6Q/1c8d528061e6d648861eb5f4bb086650/live_tv.svg)
         
         Tutorials and demos
         
         new](https://www.talkwalker.com/resources/tutorials-and-demos)
-    * [![decorative](https://images.ctfassets.net/ta4ffdi8h2om/1rxgKUZBxcK7SZ1YiyPBSt/edcbee6efa930c7e4cf9891c1f12de0d/trending_up.svg)
-        
-        Social media trends](https://www.talkwalker.com/research/social-trends)
-    * [![decorative](https://images.ctfassets.net/ta4ffdi8h2om/1Kk3Jy2H9SXMTT0XzDTCyN/c45f575cab3564b3f6d92826e30853b5/workspace_premium.svg)
-        
-        Courses](https://education.hootsuite.com/)
     * [![decorative](https://images.ctfassets.net/ta4ffdi8h2om/3SMQ7WZwyC3kWpZF0moNdl/549708adeb6c38c86b1357167588f2ef/help.svg)
         
         FAQ](https://www.talkwalker.com/faq)
