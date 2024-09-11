@@ -56,6 +56,7 @@
     * [FAQ](https://www.upenn.edu/about/faq)
     * [Policies](https://www.upenn.edu/about/policies)
     * [Facts](https://www.upenn.edu/about/facts)
+    * [University Values](https://www.upenn.edu/about/university-values)
     
 
 Toggle Site Search
