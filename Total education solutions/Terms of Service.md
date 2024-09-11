@@ -2,11 +2,13 @@
 
 [TES](https://www.tes.com/)
 
-* [Schools Awards](https://www.tes.com/en-gb/schools-awards)
+* [Tes Awards for International Schools](https://www.tes.com/schools-awards)
     
-* [Contact us](https://www.tes.com/en-gb/contact)
+* [Tes Live Lessons](https://www.tes.com/for-schools/live-lessons)
     
-* [Log in](https://www.tes.com/en-gb/login)
+* [Contact Us](https://www.tes.com/contact)
+    
+* [Log in](https://www.tes.com/login)
     
 
 Select a language
@@ -15,41 +17,35 @@ International schoolsUK editionAustralia edition
 
   
 
-* Open [School solutions](https://www.tes.com/en-gb/for-schools)
+* Open [School solutions](https://www.tes.com/for-schools)
     
     * Pupil and learning management
         
-        * [Class Charts Behaviour management software](https://www.tes.com/en-gb/for-schools/class-charts)
+        * [Class Charts Behaviour management software](https://www.tes.com/for-schools/class-charts)
             
-        * [Provision Map SEND management software](https://www.tes.com/en-gb/for-schools/provision-map)
+        * [Tes Clubs and Events Look after extracurricular life with Tes Clubs and Events](https://www.tes.com/for-schools/clubs-and-events)
             
-        * [Timetable powered by Edval Flexible timetabling software](https://www.tes.com/en-gb/for-schools/timetabling-edval)
+        * [Tes Learning Pathways Purpose-built, flexible platform for an inclusive approach to boosting every student's potential.](https://www.tes.com/for-schools/learning-pathways)
             
-        * [Tes Parents' Meetings Parents' meetings that work for everyone](https://www.tes.com/en-gb/for-schools/parents-meetings)
+        * [Tes Timetable Flexible timetabling software](https://www.tes.com/for-schools/timetabling-edval)
             
-        * [Tes Room Booking Manage your rooms and resources online](https://www.tes.com/en-gb/for-schools/room-booking)
+        * [Tes Parents' Meetings Parents' meetings that work for everyone](https://www.tes.com/for-schools/parents-meetings)
             
-        * [Tes Clubs and Events Look after extracurricular life with Tes Clubs and Events](https://www.tes.com/en-gb/for-schools/clubs-and-events)
+        * [Tes Room Booking Manage your rooms and resources online](https://www.tes.com/for-schools/room-booking)
             
         
     * Safeguarding and compliance
         
-        * [Tes Safeguarding Powered by Educare](https://www.tes.com/en-gb/for-schools/safeguarding-training)
+        * [Tes Safeguarding Safeguarding training](https://www.tes.com/for-schools/safeguarding-training)
             
-        * [MyConcern Safeguarding software for schools](https://www.tes.com/en-gb/campaign/myconcern)
+        * [MyConcern Safeguarding software for schools](https://www.tes.com/for-schools/myconcern)
             
         
-    * Staff management & Finance
+    * Staff management
         
-        * [Staff Management Subscription Recruitment, training and wellbeing solutions in one all-inclusive subscription](https://www.tes.com/en-gb/for-schools/staff-management)
+        * [Staff Management Subscription Recruitment, training and wellbeing solutions in one all-inclusive subscription](https://www.tes.com/for-schools/staff-management)
             
         * [Tes magazine School-wide magazine subscriptions](https://www.tes.com/for-schools/magazine-subscription)
-            
-        * [EduPay Award-winning payroll and HR software](https://www.tes.com/en-gb/for-schools/edupay)
-            
-        * [BPS Market-leading education budget planning software](https://www.tes.com/en-gb/for-schools/bps)
-            
-        * [Tes HR HR software for schools](https://www.tes.com/en-gb/for-schools/tes-hr)
             
         
     
@@ -68,41 +64,35 @@ Open Menu
 
 TES Close
 
-* [School solutions](https://www.tes.com/en-gb/for-schools) Open
+* [School solutions](https://www.tes.com/for-schools) Open
     
     * [Pupil and learning management](https://www.tes.com/) Open
         
-        * [Class Charts](https://www.tes.com/en-gb/for-schools/class-charts)
+        * [Class Charts](https://www.tes.com/for-schools/class-charts)
             
-        * [Provision Map](https://www.tes.com/en-gb/for-schools/provision-map)
+        * [Tes Clubs and Events](https://www.tes.com/for-schools/clubs-and-events)
             
-        * [Timetable powered by Edval](https://www.tes.com/en-gb/for-schools/timetabling-edval)
+        * [Tes Learning Pathways](https://www.tes.com/for-schools/learning-pathways)
             
-        * [Tes Parents' Meetings](https://www.tes.com/en-gb/for-schools/parents-meetings)
+        * [Tes Timetable](https://www.tes.com/for-schools/timetabling-edval)
             
-        * [Tes Room Booking](https://www.tes.com/en-gb/for-schools/room-booking)
+        * [Tes Parents' Meetings](https://www.tes.com/for-schools/parents-meetings)
             
-        * [Tes Clubs and Events](https://www.tes.com/en-gb/for-schools/clubs-and-events)
-            
-        
-    * [Safeguarding and compliance](https://www.tes.com/en-gb) Open
-        
-        * [Tes Safeguarding](https://www.tes.com/en-gb/for-schools/safeguarding-training)
-            
-        * [MyConcern](https://www.tes.com/en-gb/campaign/myconcern)
+        * [Tes Room Booking](https://www.tes.com/for-schools/room-booking)
             
         
-    * [Staff management & Finance](https://www.tes.com/for-schools/staff-management) Open
+    * [Safeguarding and compliance](https://www.tes.com/) Open
         
-        * [Staff Management Subscription](https://www.tes.com/en-gb/for-schools/staff-management)
+        * [Tes Safeguarding](https://www.tes.com/for-schools/safeguarding-training)
+            
+        * [MyConcern](https://www.tes.com/for-schools/myconcern)
+            
+        
+    * [Staff management](https://www.tes.com/for-schools/staff-management) Open
+        
+        * [Staff Management Subscription](https://www.tes.com/for-schools/staff-management)
             
         * [Tes magazine](https://www.tes.com/for-schools/magazine-subscription)
-            
-        * [EduPay](https://www.tes.com/en-gb/for-schools/edupay)
-            
-        * [BPS](https://www.tes.com/en-gb/for-schools/bps)
-            
-        * [Tes HR](https://www.tes.com/en-gb/for-schools/tes-hr)
             
         
     
@@ -116,11 +106,13 @@ TES Close
     
 * [School Portal](https://www.tes.com/authn/select?rtn=https%3A//www.tes.com/schools/employers/school-chooser)
     
-* [Schools Awards](https://www.tes.com/en-gb/schools-awards)
+* [Tes Awards for International Schools](https://www.tes.com/schools-awards)
     
-* [Contact us](https://www.tes.com/en-gb/contact)
+* [Tes Live Lessons](https://www.tes.com/for-schools/live-lessons)
     
-* [Log in](https://www.tes.com/en-gb/login)
+* [Contact Us](https://www.tes.com/contact)
+    
+* [Log in](https://www.tes.com/login)
     
 
 Select a language
@@ -139,19 +131,19 @@ Click on a policy below to learn more.
 Terms
 -----
 
-* [General Terms](https://www.tes.com/en-gb/policies/general-terms-business)
+* [General Terms](https://www.tes.com/policies/general-terms-business)
 * [General Terms - Tes Magazine](https://www.tes.com/terms-conditions/additional-terms-magazine-subscriptions)
 * [General Terms - Tes Institute](https://www.tes.com/institute/policies)
-* [General Terms - Teaching Resources](https://www.tes.com/en-gb/policies/additional-terms-tes-resources-and-tes-teach-formerl)
+* [General Terms - Teaching Resources](https://www.tes.com/policies/additional-terms-tes-resources-and-tes-teach-formerl)
 
 Policies
 --------
 
-* [Privacy Policy](https://www.tes.com/en-gb/terms-conditions/privacy-policy)
-* [Accessibility Statement](https://www.tes.com/en-gb/policies/accessibility)
-* [Fair Recruitment Policy](https://www.tes.com/en-gb/policies/fair-recruitment-policy)
-* [Group Slavery and Human Trafficking Statement](https://www.tes.com/en-gb/policies/modern-slavery-statement)
-* [Takedown Policy](https://www.tes.com/en-gb/policies/content-objections#takedown)
+* [Privacy Policy](https://www.tes.com/terms-conditions/privacy-policy)
+* [Accessibility Statement](https://www.tes.com/policies/accessibility)
+* [Fair Recruitment Policy](https://www.tes.com/policies/fair-recruitment-policy)
+* [Group Slavery and Human Trafficking Statement](https://www.tes.com/policies/modern-slavery-statement)
+* [Takedown Policy](https://www.tes.com/policies/content-objections#takedown)
 
 For Tes Institute Learners, the following policies also apply
 -------------------------------------------------------------
@@ -166,28 +158,28 @@ For Tes Institute Learners, the following policies also apply
 
 Back to top
 
-* [About](https://www.tes.com/en-gb/corporate) Open
+* [About](https://www.tes.com/corporate) Open
     
-    * [Corporate](https://www.tes.com/en-gb/corporate)
+    * [Corporate](https://www.tes.com/corporate)
         
-    * [Login](https://www.tes.com/en-gb/login)
+    * [Login](https://www.tes.com/login)
         
-    * [Contact us](https://www.tes.com/en-gb/contact)
+    * [Contact us](https://www.tes.com/contact)
         
     * [FAQ](https://www.tes.com/help)
         
-    * [Work for Tes](https://www.tes.com/en-gb/corporate/work-for-tes)
+    * [Work for Tes](https://www.tes.com/corporate/work-for-tes)
         
-    * [Partnerships](https://www.tes.com/corporate/partnerships)
+    * [Partners](https://www.tes.com/partners)
         
-    * [Legal terms and policies](https://www.tes.com/en-gb/policies/overview)
+    * [Legal Terms and Policies](https://www.tes.com/policies/overview)
         
     
 * [Jobs](https://www.tes.com/jobs/) Open
     
-    * [UK](https://www.tes.com/jobs/browse/united-kingdom)
-        
     * [International](https://www.tes.com/jobs/browse/international)
+        
+    * [UK](https://www.tes.com/jobs/browse/united-kingdom)
         
     * [Australia](https://www.tes.com/jobs/browse/australia)
         
@@ -196,8 +188,6 @@ Back to top
     * [Secondary / High school](https://www.tes.com/jobs/browse/secondary)
         
     * [Careers advice](https://www.tes.com/jobs/careers-advice)
-        
-    * [Recruitment services](https://www.tes.com/en-gb/for-schools/recruitment)
         
     
 * [Magazine](https://www.tes.com/magazine) Open
@@ -243,19 +233,9 @@ Back to top
     * [For teachers](https://www.tes.com/institute/courses/improve-your-skills)
         
     
-* [Advice Hub](https://www.tes.com/en-gb/advice-hub) Open
+* Advice Hub Open
     
-    * [Safeguarding](https://www.tes.com/en-gb/advice-hub/safeguarding)
-        
-    * [Get into teaching](https://www.tes.com/en-gb/advice-hub/get-into-teaching)
-        
-    * [Early career teachers](https://www.tes.com/en-gb/advice-hub/early-career-teachers)
-        
-    * [Teachers](https://www.tes.com/en-gb/advice-hub/teachers)
-        
-    * [Leaders](https://www.tes.com/en-gb/advice-hub/leaders)
-        
-    * [Tes Live Lessons](https://www.tes.com/en-gb/for-schools/live-lessons)
+    * [Safeguarding](https://www.tes.com/advice-hub/safeguarding)
         
     
 
