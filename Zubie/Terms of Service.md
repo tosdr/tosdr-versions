@@ -22,6 +22,7 @@
 * [Equipment](#)
     * [Asset Trak](https://zubie.com/asset-trak/)
     * [Zubie Dashcam](https://zubie.com/zubie-dashcam/)
+    * [Hardware-Free Tracking](https://zubie.com/direct-connect/)
 * [Industries](#)
     * [Car Rental](https://zubie.com/industries/car-rental/)
     * [Construction](https://zubie.com/industries/construction/)
