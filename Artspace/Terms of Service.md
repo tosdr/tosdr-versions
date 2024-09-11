@@ -13,7 +13,7 @@ GET 10% OFF YOUR FIRST ORDER](https://www.artspace.com/account_creation)
 * |
 * Join Artspace
 * |
-* $ USD
+* € EUR
     
     [$ USD](#)[£ GBP](#)[€ EUR](#)
     
@@ -25,14 +25,13 @@ GET 10% OFF YOUR FIRST ORDER](https://www.artspace.com/account_creation)
     
     * [ART](https://www.artspace.com/art)
         
+        * [New and Now](https://www.artspace.com/tags/featured-new-and-now/)
         * [Best Sellers](https://www.artspace.com/tags/featured-best-sellers/)
         * [Iconic Artists](https://www.artspace.com/collections/iconic-artists)
         * [Curated Collections](https://www.artspace.com/collections/curated-collections)
         * [Shop by Medium](https://www.artspace.com/collections/shop-by-medium)
         * [Shop by Price](https://www.artspace.com/art/?it=120&page=1&view=grid&pr=0-5000&weighted=false)
         * [Shop All](https://www.artspace.com/art)
-        
-    * [New & Now](https://www.artspace.com/tags/featured-new-and-now/)
         
     * [Exclusive Editions](https://www.artspace.com/tags/artspace-editions)
         
@@ -55,17 +54,18 @@ GET 10% OFF YOUR FIRST ORDER](https://www.artspace.com/account_creation)
         * [Art 101](https://www.artspace.com/magazine/art_101)
         * [Contributors](https://www.artspace.com/magazine/contributors)
         
+    * [How To Collect Art](https://www.artspace.com/collections/how-to-collect-art)
+        
     
 * [ART](https://www.artspace.com/art)
     
+    * [New and Now](https://www.artspace.com/tags/featured-new-and-now/)
     * [Best Sellers](https://www.artspace.com/tags/featured-best-sellers/)
     * [Iconic Artists](https://www.artspace.com/collections/iconic-artists)
     * [Curated Collections](https://www.artspace.com/collections/curated-collections)
     * [Shop by Medium](https://www.artspace.com/collections/shop-by-medium)
     * [Shop by Price](https://www.artspace.com/art/?it=120&page=1&view=grid&pr=0-5000&weighted=false)
     * [Shop All](https://www.artspace.com/art)
-    
-* [New & Now](https://www.artspace.com/tags/featured-new-and-now/)
     
 * [Exclusive Editions](https://www.artspace.com/tags/artspace-editions)
     
@@ -87,6 +87,8 @@ GET 10% OFF YOUR FIRST ORDER](https://www.artspace.com/account_creation)
     * [News & Events](https://www.artspace.com/magazine/news_events)
     * [Art 101](https://www.artspace.com/magazine/art_101)
     * [Contributors](https://www.artspace.com/magazine/contributors)
+    
+* [How To Collect Art](https://www.artspace.com/collections/how-to-collect-art)
     
 
 TERMS OF USE
