@@ -52,7 +52,7 @@ Your cart is empty
 
     
 
-[LAST CHANCE MEMORIAL DAY SALE - USE CODE MEMORIAL25 FOR 25% OFF
+[24 HOUR EXTENSTION - GET 15% OFF SITEWIDE
 
 DAYS
 
@@ -66,7 +66,7 @@ MINS
 
 :
 
-SECS](https://tuttletwins.store/collections/memorial-day-sale)
+SECS](https://tuttletwins.store/collections/labor-day-sale-2024)
 
  
 
