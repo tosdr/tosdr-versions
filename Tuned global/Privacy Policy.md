@@ -101,13 +101,13 @@
     
     #### [News & Press](https://blog.tunedglobal.com/news?hsLang=en)
     
-    [![](https://www.tunedglobal.com/hubfs/AutomixIQ-TunedGlobal-man-1.jpeg)](https://blog.tunedglobal.com/news/tuned-globals-automixiq-mixed-tracks-like-a-dj-in-music-apps?hsLang=en)
+    [![](https://www.tunedglobal.com/hubfs/UniversalMusicGroup-TunedGlobal-2.jpg)](https://blog.tunedglobal.com/news/tuned-global-umg-catalogue-global-licensing-agreement?hsLang=en)
     
-    [Tuned Global’s AutomixIQ Lets Any Music App Supercharge Engagement](https://blog.tunedglobal.com/news/tuned-globals-automixiq-mixed-tracks-like-a-dj-in-music-apps?hsLang=en)
+    [Universal Music Group expands partnership with Tuned Global in new licensing agreement](https://blog.tunedglobal.com/news/tuned-global-umg-catalogue-global-licensing-agreement?hsLang=en)
     
-    [![](https://www.tunedglobal.com/hubfs/Gabb-Music-Plus-Product-Hero%E2%80%932-1-1.png)](https://blog.tunedglobal.com/news/gabb-music-plus-tuned-global-on-demand-music-streaming-service-for-kids?hsLang=en)
+    [![](https://www.tunedglobal.com/hubfs/Wallifornia%20MediMusic%20win-1-1.jpeg)](https://blog.tunedglobal.com/news/tuned-globals-medtech-medimusic-music-backend-apis-award?hsLang=en)
     
-    [Gabb and Tuned Global launch Gabb Music+, a premium safe music streaming service for kids](https://blog.tunedglobal.com/news/gabb-music-plus-tuned-global-on-demand-music-streaming-service-for-kids?hsLang=en)
+    [Tuned Global’s partner, MediMusic, named start-up of the year by Music Tech experts and investors](https://blog.tunedglobal.com/news/tuned-globals-medtech-medimusic-music-backend-apis-award?hsLang=en)
     
     [More News](https://blog.tunedglobal.com/news?hsLang=en)
     
@@ -266,7 +266,7 @@ USA
 
 ### Subscribe to our Newsletter
 
-Copyright © 2020 Tuned Global. Read our [Privacy Policy](https://www.tunedglobal.com/privacy-policy-statement-tuned-global) or [Contact Us](https://www.tunedglobal.com/contact?hsLang=en)
+Copyright © 2024 Tuned Global. Read our [Privacy Policy](https://www.tunedglobal.com/privacy-policy-statement-tuned-global) or [Contact Us](https://www.tunedglobal.com/contact?hsLang=en)
 
 * [ABOUT TUNED GLOBAL](https://www.tunedglobal.com/about-tuned-global-b2b-music)
 * [CAREER](mailto:hr@tunedglobal.com?Subject=WEBSITE%20-%20Job%20application)
