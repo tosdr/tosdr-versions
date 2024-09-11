@@ -54,9 +54,9 @@ Search site  Go
     
     * [News](https://www.10news.com/news/local-news)
     * [US/World](https://www.10news.com/news/national-news)
+    * [America Votes](https://www.10news.com/americavotes)
     * [Making it in San Diego](https://www.10news.com/news/making-it-in-san-diego)
     * [Positively San Diego](https://www.10news.com/positivelysandiego)
-    * [Your Voice, Your Vote](https://www.10news.com/news/local-news/your-voice-your-vote)
     * [Stories for Change](https://www.10news.com/community/stories-for-change)
     * [Fact or Fiction](https://www.10news.com/news/fact-or-fiction)
     * [Your Health Matters](https://www.10news.com/lifestyle/health)
