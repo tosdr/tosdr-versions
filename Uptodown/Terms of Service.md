@@ -1,6 +1,7 @@
 Back to the previous page [![Download, discover, share](https://stc.utdstc.com/img/svgs/logo-uptodown.svg)](https://en.uptodown.com/)
 
 Terms of Use for Users
+======================
 
 ![](https://stc.utdstc.com/img/stats-ornament-down.svg)
 
