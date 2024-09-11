@@ -23,8 +23,8 @@ Popular Games
 
 Latest game news
 
-* [Lidia Sobieska, the “Warrior Prime Minister” returns in TEKKEN 8 as DLC](https://en.bandainamcoent.eu/tekken/news/lidia-sobieska-the-warrior-prime-minister-returns-tekken-8-dlc)
-* [One Piece Odyssey releases now on Nintendo Switch](https://en.bandainamcoent.eu/one-piece/news/one-piece-odyssey-releases-now-nintendo-switch)
+* [Interview with Jun Furutani, Producer of Sparking! ZERO](https://en.bandainamcoent.eu/dragon-ball/news/interview-jun-furutani-producer-of-sparking-zero)
+* [Get a chance to win a life-size replica of the Arm of Malenia by participating in the Official Elden Ring Quiz!](https://en.bandainamcoent.eu/elden-ring/news/get-chance-win-life-size-replica-of-the-arm-of-malenia-participating-the-official)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
