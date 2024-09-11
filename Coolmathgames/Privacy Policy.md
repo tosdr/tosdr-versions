@@ -67,7 +67,6 @@
     
 * [Categories](https://www.coolmathgames.com/categories)
     
-    * [![Daily Games Icon](/sites/default/files/2022-05/Daily.svg)Daily Games](https://www.coolmathgames.com/1-daily-games "Daily Games")
     * [![Creative Games Icon](/sites/default/files/2023-10/Creative.svg)Creative](https://www.coolmathgames.com/1-creative-games)
     * [![Geography Games Icon](/sites/default/files/2022-05/Geography.svg)Geography](https://www.coolmathgames.com/1-geography-games)
     * [![Memory Games Icon](/sites/default/files/2022-06/Memory.svg)Memory](https://www.coolmathgames.com/1-memory-games)
@@ -362,13 +361,12 @@ _We collect your personal information for the following purposes_:
 
 For additional information about how we use consumers’ personal information see How We Use Your Information in the body of the Policy.
 
-[![CMG Merch Coupon: 2cool](/sites/default/files/2024-08/store-coupon-promo.png)
+[![Haxanaut](/themes/custom/coolmath/assets/images/promos/Hexanaut_Promo.png
+)
 
-##### 
+##### Hexanaut
 
-Coolmath Merch Sale
-
-Shop Now: Discount Code 2COOL](https://merch.coolmathgames.com/)
+Multiplayer Snake Combat](https://www.coolmathgames.com/0-hexanaut-io)
 
 [![User Profile](/themes/custom/coolmath/assets/images/promos/UserProfiles_Promo.png)
 
@@ -382,13 +380,11 @@ Get one for free!](https://www.coolmathgames.com/signup)
 
 [Visit Coolmath4Kids.com](https://www.coolmath4kids.com/)
 
-[![CMG Merch Coupon: 2cool](/sites/default/files/2024-08/store-coupon-promo.png)
+[![Leaderboards](/themes/custom/coolmath/assets/images/promos/Leaderboards_Promo.png)
 
-##### 
+##### Leaderboards
 
-Coolmath Merch Sale
-
-Shop Now: Discount Code 2COOL](https://merch.coolmathgames.com/)
+See how you rank!](https://www.coolmathgames.com/profile/leaderboard)
 
 3. [Coolmath games privacy policy](https://www.coolmathgames.com/privacyp)
     
@@ -397,7 +393,6 @@ Shop Now: Discount Code 2COOL](https://merch.coolmathgames.com/)
 4. * COOLMATHGAMES.COM
         * [Games for Kids](https://www.coolmath4kids.com/)
         * [About Us](https://www.coolmathgames.com/about-us)
-        * [Parents](https://www.coolmathgames.com/parents)
         * [Terms of Use](https://www.coolmathgames.com/terms-use)
         * [About Our Ads](https://www.coolmathgames.com/aboutourads)
         * [Subscription FAQ](https://www.coolmathgames.com/subscription-faq)
