@@ -1,8 +1,12 @@
-\-->   August Home Warranty | Our Policies & Agreements                                                                                       [Accessibility Statement](https://august.com/pages/accessibility)
+[Accessibility Statement](https://august.com/pages/accessibility)
 
 [Skip To Main Content](#mainContentDivider)
 
  [![Yale](https://cdn.shopify.com/s/files/1/1354/7835/files/Secondary_Gray_-_2020_-_RGB_2x_79e15df4-8d99-4352-bdda-652bfcb57cf0.png?v=1615919455)](https://shopyalehome.com/?utm_source=august.com&utm_medium=referral&utm_campaign=cobrand_toggle)![August](https://cdn.shopify.com/s/files/1/1354/7835/files/August-Logo-white-110x36.png?v=1617137811)
+
+FALL SALE | Save 30% on best-selling smart locks
+
+[Get The Deal](https://august.com/pages/sale)
 
 Shop new **Yale Approach™ Lock with Wi-Fi + Keypad Touch**
 
@@ -20,7 +24,9 @@ Smart Locks
 
 Wi-Fi Smart Lock
 
-$199.99](https://august.com/products/august-wifi-smart-lock)[![Yale Approach™ Lock with Wi-Fi](//august.com/cdn/shop/files/IO-Silver_Yale-Keypad-Bio-Frt_2x_b65be57c-402a-41c7-b8c3-687a6c2c96dc_400x.png?v=1715294755)
+$199.99
+
+##### SALE](https://august.com/products/august-wifi-smart-lock)[![Yale Approach™ Lock with Wi-Fi](//august.com/cdn/shop/files/IO-Silver_Yale-Keypad-Bio-Frt_2x_b65be57c-402a-41c7-b8c3-687a6c2c96dc_400x.png?v=1723658449)
 
 Yale Approach™ Lock with Wi-Fi
 
@@ -30,7 +36,9 @@ Starting at $129.99
 
 Smart Lock
 
-$199.99](https://august.com/products/august-smart-lock-connect)
+$199.99
+
+##### SALE](https://august.com/products/august-smart-lock-connect)
 
 Bundles
 
@@ -80,11 +88,13 @@ Smart Locks
 
 [![August Wi-Fi Smart Lock](//august.com/cdn/shop/files/awsl-frt-view-nav-1500x1500_400x.png?v=1707237570)
 
+##### SALE
+
 Wi-Fi Smart Lock
 
 $199.99
 
-\>](https://august.com/products/august-wifi-smart-lock)[![Yale Approach™ Lock with Wi-Fi](//august.com/cdn/shop/files/IO-Silver_Yale-Keypad-Bio-Frt_2x_b65be57c-402a-41c7-b8c3-687a6c2c96dc_400x.png?v=1715294755)
+\>](https://august.com/products/august-wifi-smart-lock)[![Yale Approach™ Lock with Wi-Fi](//august.com/cdn/shop/files/IO-Silver_Yale-Keypad-Bio-Frt_2x_b65be57c-402a-41c7-b8c3-687a6c2c96dc_400x.png?v=1723658449)
 
 ##### NEW
 
@@ -93,6 +103,8 @@ Yale Approach™ Lock with Wi-Fi
 Starting at $129.99
 
 \>](https://august.com/products/yale-approach-lock-with-wi-fi)[![August Smart Lock + Connect](//august.com/cdn/shop/files/callisto-silver-frt-140x140_400x.png?v=1712024423)
+
+##### SALE
 
 Smart Lock
 
@@ -138,7 +150,7 @@ Starting at $19.99
 
 Smart Locks
 
- [![Yale Approach™ Lock with Wi-Fi](//august.com/cdn/shop/files/IO-Silver_Yale-Keypad-Bio-Frt_2x_b65be57c-402a-41c7-b8c3-687a6c2c96dc_50x.png?v=1715294755) Yale Approach™ Lock with Wi-Fi](https://august.com/products/yale-approach-lock-with-wi-fi)[![August Smart Lock + Connect](//august.com/cdn/shop/files/callisto-silver-frt-140x140_50x.png?v=1712024423) Smart Lock](https://august.com/products/august-smart-lock-connect)
+ [![Yale Approach™ Lock with Wi-Fi](//august.com/cdn/shop/files/IO-Silver_Yale-Keypad-Bio-Frt_2x_b65be57c-402a-41c7-b8c3-687a6c2c96dc_50x.png?v=1723658449) Yale Approach™ Lock with Wi-Fi](https://august.com/products/yale-approach-lock-with-wi-fi)[![August Smart Lock + Connect](//august.com/cdn/shop/files/callisto-silver-frt-140x140_50x.png?v=1712024423) Smart Lock](https://august.com/products/august-smart-lock-connect)
 
 Doorbell Camera
 
@@ -218,12 +230,6 @@ Excluding tax and shipping
 ![amazonpay](https://cdn.shopify.com/s/files/1/1354/7835/files/logo-amazonpay.png?5615195718892058374)
 
 ### Complete your smart home
-
-![](//august.com/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_400x.gif)
-
-$
-
-Add to cart
 
 ![Navis Paddle in Black Suede](//august.com/cdn/shop/products/NV_11_BSP_RT_64258cc6-9459-410c-aec9-fbb8be57e290_400x.jpg?v=1680812607)
 
@@ -378,7 +384,7 @@ pop-up content ends
 
 Email 
 
-Submit ![](//august.com/cdn/shop/t/332/assets/icon-newsletter-submit.svg?v=83048686797684669771715102014) 
+Submit ![](//august.com/cdn/shop/t/340/assets/icon-newsletter-submit.svg?v=83048686797684669771724800642) 
 
 By signing up for the August Home US and Canada email newsletter, you agree with our [terms](https://august.com/pages/terms-of-service).
 
