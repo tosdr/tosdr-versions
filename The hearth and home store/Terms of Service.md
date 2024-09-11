@@ -131,15 +131,15 @@ Phone: [636-337-5200](tel:1-636-337-5200)
 
 #### Latest News
 
+[![](https://thehearthandhomestore.com/wp-content/uploads/2024/08/iap_640x640.3780444514_byx8zqxo-2-150x150.jpg)](https://thehearthandhomestore.com/2024/08/celebrating-our-etsy-pick-award-the-story-behind-our-hand-tufted-cushion/)
+
+[Celebrating Our Etsy Pick Award: The Story Behind Our Hand-Tufted Cushion](https://thehearthandhomestore.com/2024/08/celebrating-our-etsy-pick-award-the-story-behind-our-hand-tufted-cushion/)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![](https://thehearthandhomestore.com/wp-content/uploads/2024/04/cushions-150x150.jpg)](https://thehearthandhomestore.com/2024/04/the-hearth-home-store-vs-the-competition-etsy-custom-cushion-battle/)
 
 [The Hearth & Home Store vs. The Competition – Etsy Custom Cushion Battle](https://thehearthandhomestore.com/2024/04/the-hearth-home-store-vs-the-competition-etsy-custom-cushion-battle/)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![](https://thehearthandhomestore.com/wp-content/uploads/2024/02/sinhtruong_overhead_photo_of_a_designer_selecting_fabric_from_a_c5440725-b67b-474c-9497-fdfa0635c37e-150x150.png)](https://thehearthandhomestore.com/2024/02/tips-and-tricks-how-to-pick-fabrics-for-your-custom-cushions/)
-
-[Tips and Tricks: How to Pick Fabrics for your Custom Cushions](https://thehearthandhomestore.com/2024/02/tips-and-tricks-how-to-pick-fabrics-for-your-custom-cushions/)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [View Articles](https://thehearthandhomestore.com/blog/)
 
