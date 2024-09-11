@@ -314,7 +314,7 @@ Questions about these terms of service? Please contact our customer support staf
 **Email:** [\[email protected\]](https://www.wyomingagents.com/cdn-cgi/l/email-protection)  
 **Phone:** 307-217-4045
 
-[Get a Registered Agent – $25](https://www.wyomingagents.com/order-agent) [Form a Company – $150](https://www.wyomingagents.com/order-new-company)
+[Get a Registered Agent – $25](https://www.wyomingagents.com/order-agent) [Form a Company – $154](https://www.wyomingagents.com/order-new-company)
 
 If you have questions, please [contact us](https://www.wyomingagents.com/contact).
 
