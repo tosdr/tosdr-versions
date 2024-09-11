@@ -71,6 +71,7 @@ Toggle navigation
     * [DevOps](https://github.com/resources/articles/devops)
     * [Security](https://github.com/resources/articles/security)
     * [Software Development](https://github.com/resources/articles/software-development)
+    * [View all](https://github.com/resources/articles)
     
     Explore
     
@@ -151,22 +152,22 @@ Cancel Create saved search
 
 [Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fwebcompat%2Fwebcompat.com%2Fblob%2F72d563cb22e46351c7b068fa838d77ed08ee91ca%2FCODE_OF_CONDUCT.md)
 
-[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&source=header-repo&source_repo=webcompat%2Fwebcompat.com)
+[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&source=header-repo&source_repo=webcompat%2Fwebcompat.com) Reseting focus
 
 You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
 
 [webcompat](https://github.com/webcompat) / **[webcompat.com](https://github.com/webcompat/webcompat.com)** Public
 
 * [Notifications](https://github.com/login?return_to=%2Fwebcompat%2Fwebcompat.com) You must be signed in to change notification settings
-* [Fork 188](https://github.com/login?return_to=%2Fwebcompat%2Fwebcompat.com)
-* [Star 355](https://github.com/login?return_to=%2Fwebcompat%2Fwebcompat.com)
+* [Fork 190](https://github.com/login?return_to=%2Fwebcompat%2Fwebcompat.com)
+* [Star 356](https://github.com/login?return_to=%2Fwebcompat%2Fwebcompat.com)
     
 
 * [Code](https://github.com/webcompat/webcompat.com)
-* [Issues 287](https://github.com/webcompat/webcompat.com/issues)
+* [Issues 288](https://github.com/webcompat/webcompat.com/issues)
 * [Pull requests 5](https://github.com/webcompat/webcompat.com/pulls)
 * [Actions](https://github.com/webcompat/webcompat.com/actions)
-* [Projects 8](https://github.com/webcompat/webcompat.com/projects)
+* [Projects 0](https://github.com/webcompat/webcompat.com/projects)
 * [Wiki](https://github.com/webcompat/webcompat.com/wiki)
 * [Security](https://github.com/webcompat/webcompat.com/security)
 * [Insights](https://github.com/webcompat/webcompat.com/pulse)
