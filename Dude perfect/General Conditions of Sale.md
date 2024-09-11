@@ -15,7 +15,6 @@ FREE shipping on USA orders of $75+
         FEATURED
         
         * [Summer Vibes](https://dudeperfect.store/collections/summer-vibes)
-        * [DP X Burnley](https://dudeperfect.store/collections/dude-perfect-x-burnley-collection)
         * [DP15 - Limited Edition](https://dudeperfect.store/collections/dp-fifteen)
         * [New Arrivals](https://dudeperfect.store/collections/new-arrivals)
         * [Best Sellers](https://dudeperfect.store/collections/best-sellers)
@@ -77,7 +76,7 @@ Update country/region
 Country/region
 --------------
 
-United States | USD $
+United Kingdom | USD $
 
  Search
 
@@ -238,7 +237,6 @@ United States | USD $
     
     * [FEATURED](#)
         * [Summer Vibes](https://dudeperfect.store/collections/summer-vibes)
-        * [DP X Burnley](https://dudeperfect.store/collections/dude-perfect-x-burnley-collection)
         * [DP15 - Limited Edition](https://dudeperfect.store/collections/dp-fifteen)
         * [New Arrivals](https://dudeperfect.store/collections/new-arrivals)
         * [Best Sellers](https://dudeperfect.store/collections/best-sellers)
