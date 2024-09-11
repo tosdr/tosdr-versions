@@ -4,7 +4,7 @@
 
 [YouTube For Families Help](https://support.google.com/youtubekids)
 
-[](https://www.google.co.uk/intl/en/about/products?tab=uh)
+[](https://www.google.com/intl/en/about/products?tab=uh)
 
 [Sign in](https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=http://support.google.com/youtubekids/&ec=GAZAdQ)
 
@@ -61,11 +61,25 @@ Browse help topics
 
 [YouTube Premium on YouTube Kids](https://support.google.com/youtubekids/topic/12984704?hl=en&ref_topic=12971927)
 
-### Supervised experience on YouTube
+### Supervised experiences for pre-teens
 
 [Get started with a supervised experience on YouTube](https://support.google.com/youtubekids/topic/12984400?hl=en&ref_topic=12970912)
 
 [Parental controls & settings](https://support.google.com/youtubekids/topic/12984498?hl=en&ref_topic=12970912)
+
+### Supervised experiences for teens
+
+[Supervised experiences for teens](https://support.google.com/youtubekids/answer/15253498?hl=en&ref_topic=15278051)
+
+[Set up a teen supervised experience](https://support.google.com/youtubekids/answer/15252891?hl=en&ref_topic=15278051)
+
+[Explore your Family Center](https://support.google.com/youtubekids/answer/15255618?hl=en&ref_topic=15278051)
+
+[Teen supervision features in Family Center](https://support.google.com/youtubekids/answer/15190245?hl=en&ref_topic=15278051)
+
+[Tips & resources for parents of teens on YouTube](https://support.google.com/youtubekids/answer/2802272?hl=en&ref_topic=15278051)
+
+[Tips & resources for teens](https://support.google.com/youtubekids/answer/2802244?hl=en&ref_topic=15278051)
 
 ### Family Link & your child's Google Account
 
@@ -94,7 +108,7 @@ Need more help?
 * [Privacy Policy](https://www.google.com/intl/en/privacy.html)
 * [Terms of Service](https://www.google.com/accounts/TOS)
 
-Afrikaans‎azərbaycan‎bosanski‎català‎dansk‎Deutsch‎eesti‎English (United Kingdom)‎español‎español (Latinoamérica)‎Filipino‎français‎Hausa‎hrvatski‎Indonesia‎isiZulu‎italiano‎Kiswahili‎latviešu‎lietuvių‎magyar‎Nederlands‎norsk‎polski‎português‎português (Brasil)‎română‎shqip‎slovenčina‎slovenščina‎suomi‎svenska‎Tiếng Việt‎Türkçe‎íslenska‎čeština‎Ελληνικά‎български‎македонски‎русский‎српски‎українська‎қазақ тілі‎‏עברית‏اردو‏العربيةनेपाली‎मराठी‎हिन्दी‎অসমীয়া‎বাংলা‎ਪੰਜਾਬੀ‎ગુજરાતી‎ଓଡ଼ିଆ‎தமிழ்‎తెలుగు‎ಕನ್ನಡ‎മലയാളം‎සිංහල‎ไทย‎ລາວ‎ქართული‎አማርኛ‎ខ្មែរ‎中文（简体）‎中文（繁體）‎中文（香港）‎日本語‎한국어‎ English‎
+Language Afrikaans‎azərbaycan‎bosanski‎català‎dansk‎Deutsch‎eesti‎English (United Kingdom)‎español‎español (Latinoamérica)‎Filipino‎français‎Hausa‎hrvatski‎Indonesia‎isiZulu‎italiano‎Kiswahili‎latviešu‎lietuvių‎magyar‎Nederlands‎norsk‎polski‎português‎português (Brasil)‎română‎shqip‎slovenčina‎slovenščina‎suomi‎svenska‎Tiếng Việt‎Türkçe‎íslenska‎čeština‎Ελληνικά‎български‎македонски‎русский‎српски‎українська‎қазақ тілі‎‏עברית‏اردو‏العربيةनेपाली‎मराठी‎हिन्दी‎অসমীয়া‎বাংলা‎ਪੰਜਾਬੀ‎ગુજરાતી‎ଓଡ଼ିଆ‎தமிழ்‎తెలుగు‎ಕನ್ನಡ‎മലയാളം‎සිංහල‎ไทย‎ລາວ‎ქართული‎አማርኛ‎ខ្មែរ‎中文（简体）‎中文（繁體）‎中文（香港）‎日本語‎한국어‎ English‎
 
 Enable Dark Mode
 
@@ -108,7 +122,7 @@ Google apps
 
 Main menu
 
-2624291839266587509
+7068270062817039108
 
 true
 
