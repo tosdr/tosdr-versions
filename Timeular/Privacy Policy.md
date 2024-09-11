@@ -103,14 +103,15 @@
     
     [Go to blog](https://timeular.com/blog/)
     
-    [10 Proven Time Management Strategies \[With Real-Life Examples\]](https://timeular.com/blog/time-management-strategies/)
+    [The 2 2 3 Schedule: Pros, Cons, and Alternatives](https://timeular.com/blog/2-2-3-schedule/)
     
-    [The Best Small Business Tools in 2024](https://timeular.com/blog/best-small-business-tools/)
+    [Workload Management Guide: How To Master Work Planning](https://timeular.com/blog/workload-management/)
     
-    [Timesheet Meme: 30+ Creative Ways to Keep Your Team on Track](https://timeular.com/blog/timesheet-meme/)
+    [11 Proven Ways to Motivate Employees](https://timeular.com/blog/ways-motivate-employees/)
     
 * [Pricing](https://timeular.com/pricing/)
 * [Enterprise](https://timeular.com/enterprise-time-tracking/)
+* [Tracker](https://timeular.com/tracker/)
 
 * [Book demo](https://timeular.com/demo/)
 * [Try for free](https://app.timeular.com/#/register)
@@ -177,6 +178,8 @@ PRIVACY POLICY
 English
 
 * [Deutsch](https://timeular.com/de/privacy-policy/?wg-choose-original=false "Language switcher : German")
+* [Español](https://timeular.com/es/privacy-policy/?wg-choose-original=false "Language switcher : Spanish")
+* [Français](https://timeular.com/fr/privacy-policy/?wg-choose-original=false "Language switcher : French")
 
 Solutions
 
@@ -209,6 +212,9 @@ Resources
 * [Markup Calculator](https://timeular.com/calculators/markup-calculator-free/)
 * [Overtime Calculator](https://timeular.com/calculators/overtime-calculator/)
 * [Margin Calculator](https://timeular.com/calculators/margin-calculator/)
+* [Time Duration Calculator](https://timeular.com/calculators/time-duration-calculator/)
+* [Military Time Converter](https://timeular.com/calculators/military-time-converter/)
+* [Minutes to Hours Converter](https://timeular.com/calculators/minutes-hours-converter/)
 * [Pomodoro Timer](https://timeular.com/free-pomodoro-timer/)
 * [Timesheet](https://timeular.com/timesheets-templates/)
 * [Billable Hours Chart](https://timeular.com/billable-hours-chart-templates/)
@@ -216,6 +222,7 @@ Resources
 * [Schedule Templates](https://timeular.com/free-schedule-templates/)
 * [Time Management Templates](https://timeular.com/blog/time-management-templates/)
 * [Project Task Tracker Template](https://timeular.com/project-task-tracker-template/)
+* [Average salary](https://timeular.com/average-salary/)
 
 Support & Useful links
 
