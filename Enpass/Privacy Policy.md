@@ -288,8 +288,7 @@ _Copyright © This Privacy Notice is protected under United States and foreign c
 
 * Company
 * [About](https://www.enpass.io/about)
-* [Privacy Notice](https://www.enpass.io/privacy-notice)
-* [Cookie Policy](https://www.enpass.io/cookie)
+* [Privacy](https://www.enpass.io/privacy)
 * [Terms of Use](https://www.enpass.io/terms-of-use)
 
 * Stay In Touch
@@ -297,8 +296,9 @@ _Copyright © This Privacy Notice is protected under United States and foreign c
     * [![Facebook](/wp-content/uploads/2023/10/fb.svg)](https://www.facebook.com/EnpassApp/)
     * [![Linkedin](/wp-content/uploads/2023/10/linkedin.svg)](https://www.linkedin.com/company/enpass-tech)
     * [![YouTube](/wp-content/uploads/2023/10/youtube.svg)](https://youtube.com/sinewsoft)
+* We do not send more than one email a month about the latest news of Enpass, special promotions and sneak peek of future releases.
+    
 * 
-* By subscribing, you agree to our [Terms of Use](https://www.enpass.io/terms-of-use) and [Privacy Notice](https://www.enpass.io/privacy-notice/). We do not send more than one email a month about the latest news of Enpass, special promotions and sneak peek of future releases.
 
 * * *
 
