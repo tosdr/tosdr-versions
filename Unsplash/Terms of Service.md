@@ -6,6 +6,7 @@ A magnifying glass
 
 * [Explore](https://unsplash.com/explore)
     
+    * [Today](https://unsplash.com/today)
     * [Images](https://unsplash.com/images)
     * [Backgrounds](https://unsplash.com/backgrounds)
     * [Wallpapers](https://unsplash.com/wallpapers)
@@ -114,6 +115,7 @@ BY USING THE SERVICE YOU AGREE NOT TO:
 * Except for use of the Unsplash API in accordance with our [API Terms](https://unsplash.com/api-terms), access the Service using any bots, spiders, scripts, crawlers, scrapers, or other automated tools or applications (other than your web browser or any mobile app that we may publish);
 * Copy the look and feel of the Site or access, download, copy, modify, distribute, perform, or use any Images to create a similar or competitive service or to contribute the Images to an existing similar or competitive service;
 * Transfer your rights to use the Service or to view, access, or use any Materials; or
+* Use the Images in connection with any machine learning and/or artificial intelligence datasets (e.g., training any machine learning and/or artificial intelligence models), or for technologies designed or intended for the identification of natural persons. If you desire to use Images for these purposes, please visit [https://unsplash.com/data](https://unsplash.com/data) for more information;
 * Attempt to do, or assist anyone else to do, any of these things.
 
 9\. Other Companies' Services and Linked Websites
@@ -268,4 +270,4 @@ Beautiful, [free images](https://unsplash.com/license) gifted by the world’s m
 * [Facebook iconUnsplash Facebook](https://www.facebook.com/pages/Unsplash/274126369394815?utm_medium=referral&utm_source=unsplash "Follow Unsplash on Facebook")
 * [Instagram iconUnsplash Instagram](https://instagram.com/unsplash?utm_medium=referral&utm_source=unsplash "Follow Unsplash on Instagram")
 
-![](https://secure.insightexpressai.com/adServer/adServerESI.aspx?script=false&bannerID=11757573&rnd=1722522903960&redir=https://secure.insightexpressai.com/adserver/1pixel.gif)![](https://secure.insightexpressai.com/adServer/adServerESI.aspx?script=false&bannerID=11758046&rnd=1722522903960&redir=https://secure.insightexpressai.com/adserver/1pixel.gif)![](https://secure.insightexpressai.com/adServer/adServerESI.aspx?script=false&bannerID=12236445&rnd=1722522903960&redir=https://secure.insightexpressai.com/adserver/1pixel.gif)![](https://secure-gl.imrworldwide.com/cgi-bin/m?ca=nlsn530690&cr=crtve&ce=nielsen&pc=nielsen_plc0001&ci=nlsnci2891&am=3&at=view&rt=banner&st=image&r=1722522903960)
+![](https://secure.insightexpressai.com/adServer/adServerESI.aspx?script=false&bannerID=11757573&rnd=1726017763574&redir=https://secure.insightexpressai.com/adserver/1pixel.gif)![](https://secure.insightexpressai.com/adServer/adServerESI.aspx?script=false&bannerID=11758046&rnd=1726017763574&redir=https://secure.insightexpressai.com/adserver/1pixel.gif)![](https://secure.insightexpressai.com/adServer/adServerESI.aspx?script=false&bannerID=12236445&rnd=1726017763574&redir=https://secure.insightexpressai.com/adserver/1pixel.gif)![](https://secure-gl.imrworldwide.com/cgi-bin/m?ca=nlsn530690&cr=crtve&ce=nielsen&pc=nielsen_plc0001&ci=nlsnci2891&am=3&at=view&rt=banner&st=image&r=1726017763574)
