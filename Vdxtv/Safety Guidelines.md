@@ -42,7 +42,7 @@ These items help the website operator understand how its website performs, how v
 
 Industry Solutions
 
-[Automotive](https://vdx.tv/industry-solutions/automotive)[Consumer Goods](https://vdx.tv/industry-solutions/consumer-goods)[Education](https://vdx.tv/industry-solutions/education)[Financial Services](https://vdx.tv/industry-solutions/finance)[Lottery & Gambling](https://vdx.tv/industry-solutions/lottery-gambling)[Media & Entertainment](https://vdx.tv/industry-solutions/media-entertainment)[Pharma](https://vdx.tv/industry-solutions/pharma)[Political Advocacy](https://vdx.tv/industry-solutions/political-advocacy)[Restaurants](https://vdx.tv/industry-solutions/restaurants)[Retail](https://vdx.tv/industry-solutions/retail)[Travel](https://vdx.tv/industry-solutions/travel)
+[Automotive](https://vdx.tv/industry-solutions/automotive)[Consumer Goods](https://vdx.tv/industry-solutions/consumer-goods)[Education](https://vdx.tv/industry-solutions/education)[Financial Services](https://vdx.tv/industry-solutions/finance)[Lottery & Gambling](https://vdx.tv/industry-solutions/lottery-gambling)[Media & Entertainment](https://vdx.tv/industry-solutions/media-entertainment)[Pharma](https://vdx.tv/industry-solutions/pharma)[Politics & Advocacy](https://vdx.tv/industry-solutions/political-advocacy)[Restaurants](https://vdx.tv/industry-solutions/restaurants)[Retail](https://vdx.tv/industry-solutions/retail)[Travel](https://vdx.tv/industry-solutions/travel)
 
 Products
 
@@ -64,7 +64,7 @@ Company
 
 Industry Solutions
 
-[Automotive](https://vdx.tv/industry-solutions/automotive)[Consumer Goods](https://vdx.tv/industry-solutions/consumer-goods)[Education](https://vdx.tv/industry-solutions/education)[Financial Services](https://vdx.tv/industry-solutions/finance)[Lottery & Gambling](https://vdx.tv/industry-solutions/lottery-gambling)[Media & Entertainment](https://vdx.tv/industry-solutions/media-entertainment)[Pharma](https://vdx.tv/industry-solutions/pharma)[Political Advocacy](https://vdx.tv/industry-solutions/political-advocacy)[Restaurants](https://vdx.tv/industry-solutions/restaurants)[Retail](https://vdx.tv/industry-solutions/retail)[Travel](https://vdx.tv/industry-solutions/travel)
+[Automotive](https://vdx.tv/industry-solutions/automotive)[Consumer Goods](https://vdx.tv/industry-solutions/consumer-goods)[Education](https://vdx.tv/industry-solutions/education)[Financial Services](https://vdx.tv/industry-solutions/finance)[Lottery & Gambling](https://vdx.tv/industry-solutions/lottery-gambling)[Media & Entertainment](https://vdx.tv/industry-solutions/media-entertainment)[Pharma](https://vdx.tv/industry-solutions/pharma)[Politics & Advocacy](https://vdx.tv/industry-solutions/political-advocacy)[Restaurants](https://vdx.tv/industry-solutions/restaurants)[Retail](https://vdx.tv/industry-solutions/retail)[Travel](https://vdx.tv/industry-solutions/travel)
 
 Products
 
@@ -364,7 +364,7 @@ Industry Solutions
 5. [Lottery & Gambling](https://vdx.tv/industry-solutions/lottery-gambling)
 6. [Media & Entertainment](https://vdx.tv/industry-solutions/media-entertainment)
 7. [Pharma](https://vdx.tv/industry-solutions/pharma)
-8. [Political Advocacy](https://vdx.tv/industry-solutions/political-advocacy)
+8. [Politics & Advocacy](https://vdx.tv/industry-solutions/political-advocacy)
 9. [Restaurants](https://vdx.tv/industry-solutions/restaurants)
 10. [Retail](https://vdx.tv/industry-solutions/retail)
 11. [Travel](https://vdx.tv/industry-solutions/travel)
