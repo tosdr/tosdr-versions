@@ -143,8 +143,8 @@ Given, we do not collect or log any user information, there is nothing to opt-ou
 
 Any information which is collected, is high-level metrics. IE, how many times has someone used a command, globally.
 
-May 8, 2024
+August 29, 2024
 
 Made with [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
 
-[](https://discord.gg/uEkamH9 "WarBOT Development Discord")[](https://github.com/XtremeOwnage/WarBot "WarBOT Github")
+[](https://static.xtremeownage.com/discord "Discord")[](https://github.com/XtremeOwnage/WarBot "WarBOT Github")
