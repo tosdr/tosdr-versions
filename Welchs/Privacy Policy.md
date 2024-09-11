@@ -8,8 +8,9 @@ I Agree
 
 * [Juices](https://www.welchs.com/juices/)
     * [![](https://img2.storyblok.com/filters:format(webp)/f/95109/200x200/5a0c86daf1/grapeade-green-grape-v3.png)Grape'ade](https://www.welchs.com/juices/grapeade)
-    * [![Bottle of 100% Concord Grape Juice](https://img2.storyblok.com/filters:format(webp)/f/95109/200x200/6411718c85/100-concord-grape-juice.png)100% Juices](https://www.welchs.com/juices/100-percent)
-    * [![Welch's Orange Pineapple Apple Juice Bottle](https://img2.storyblok.com/filters:format(webp)/f/95109/200x200/41f280770d/orange-pineapple-apple-juice.png)Juice Drinks](https://www.welchs.com/juices/drinks)
+    * [![](https://img2.storyblok.com/filters:format(webp)/f/95109/3000x3000/8b3255ae12/zero-sugar-drink.png)Zero Sugar Drinks](https://www.welchs.com/juices/zero-sugar-drink)
+    * [![](https://img2.storyblok.com/filters:format(webp)/f/95109/200x200/6411718c85/100-concord-grape-juice.png)100% Juices](https://www.welchs.com/juices/100-percent)
+    * [![](https://img2.storyblok.com/filters:format(webp)/f/95109/200x200/41f280770d/orange-pineapple-apple-juice.png)Juice Drinks](https://www.welchs.com/juices/drinks)
     * [![](https://img2.storyblok.com/filters:format(webp)/f/95109/200x200/87a6bc0fa8/passion-fruit-juice-3.png)Refrigerated Juices](https://www.welchs.com/juices/refrigerated)
     * [![](https://img2.storyblok.com/filters:format(webp)/f/95109/833x833/48a322e4ad/diet-concord-grape.png)Diet & Light Juices](https://www.welchs.com/juices/diet)
     * [See All](https://www.welchs.com/juices/)
@@ -18,10 +19,10 @@ I Agree
 * [Snacks](https://www.welchs.com/snacks/)
 * [Careers](https://www.welchs.com/careers/)
 * Discover
-    * [![Farmer walking down the row of a vineyard on a sunny day](https://img2.storyblok.com/filters:format(webp)/f/95109/200x200/97bac9da56/nav-ourstory_1.jpg)Our Story](https://www.welchs.com/our-story/)
-    * [![Father and son cooking in the kitchen](https://img2.storyblok.com/filters:format(webp)/f/95109/200x200/f7b928ada4/nav-recipes.jpg)Recipes](https://www.welchs.com/recipes/)
-    * [![Parents laughing and playing with their son in the park](https://img2.storyblok.com/filters:format(webp)/f/95109/200x200/b6f2119294/nav-health-nutrition_3.jpg)Health & Nutrition](https://www.welchs.com/health-nutrition/)
-    * [![View from top of a tractor driving through a grape vineyard.](https://img2.storyblok.com/filters:format(webp)/f/95109/200x200/9c75c0fda6/sustainability-nav.jpeg)Sustainability](https://www.welchs.com/sustainability)
+    * [![](https://img2.storyblok.com/filters:format(webp)/f/95109/200x200/97bac9da56/nav-ourstory_1.jpg)Our Story](https://www.welchs.com/our-story/)
+    * [![](https://img2.storyblok.com/filters:format(webp)/f/95109/200x200/f7b928ada4/nav-recipes.jpg)Recipes](https://www.welchs.com/recipes/)
+    * [![](https://img2.storyblok.com/filters:format(webp)/f/95109/200x200/b6f2119294/nav-health-nutrition_3.jpg)Health & Nutrition](https://www.welchs.com/health-nutrition/)
+    * [![](https://img2.storyblok.com/filters:format(webp)/f/95109/200x200/9c75c0fda6/sustainability-nav.jpeg)Sustainability](https://www.welchs.com/sustainability)
 
 [![Search](/img/search-icon.svg)](https://www.welchs.com/search) [Find My Store](https://www.welchs.com/where-to-buy)
 
@@ -123,6 +124,8 @@ stay connected
 --------------
 
 Be the first to know all things Welch's.
+
+Subscribe to Welch's newsletter
 
  Submit
 
