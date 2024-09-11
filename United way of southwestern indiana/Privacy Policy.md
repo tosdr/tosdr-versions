@@ -225,7 +225,7 @@ Get Involved
 * [Day of Caring](https://unitedwayswi.org/day-of-caring)
 * [Contact Us](https://unitedwayswi.org/contact-us)
 
-[2023 Campaign Toolkit](https://unitedwayswi.org/2023-campaign-toolkit)
+[2024 Campaign Toolkit](https://unitedwayswi.org/2024-campaign-toolkit/)
 
 Copyright © 2022 United Way of Southwestern Indiana
 
