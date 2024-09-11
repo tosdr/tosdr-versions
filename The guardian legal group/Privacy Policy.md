@@ -52,6 +52,7 @@ MENUMENU
     * [Nursing Home Abuse Lawsuit](https://theguardianlegalnetwork.com/personal-injury/nursing-home-abuse-lawsuits/)
     * [PFAS Contamination Lawsuit](https://theguardianlegalnetwork.com/personal-injury/pfas-contamination-lawsuit/)
     * [Rideshare Assault Lawsuit](https://theguardianlegalnetwork.com/personal-injury/rideshare-assault/)
+    * [Sexual Misconduct Lawsuit](https://theguardianlegalnetwork.com/personal-injury/sexual-misconduct-lawsuit/)
     * [Social Media Addiction Lawsuit](https://theguardianlegalnetwork.com/personal-injury/social-media-addiction-lawsuit/)
     * [Texas Storm Lawsuits](https://theguardianlegalnetwork.com/personal-injury/texas-storm-lawsuits/)
     * [Video Game Addiction Lawsuit](https://theguardianlegalnetwork.com/personal-injury/video-game-addiction-lawsuit/)
@@ -80,21 +81,25 @@ Post Type Selectors
 Privacy Policy
 ==============
 
-**Please be advised that your use of getguardianlegal.com and any personal information you provide through this site are subject at all times to the following Privacy Policy. By using this site, you accept the following Privacy Policy.**
+**Please be advised that your use of getguardianlegal.com and any personal information you provide through this site and affiliated technologies are subject at all times to the following Privacy Policy.**
 
-Automatically Identifiable Information: When you access getguardianlegal.com, we may send one or more cookies to your computer. We use these cookies to identify prior users and track usage of the site. You can remove these cookies and modify your browser’s settings at any time to accept all cookies, reject all cookies, or notify you when a cookie is sent. We may also automatically record certain information from your system including your IP address, a unique device or User ID, version of software installed, system type, the content and pages that you access on the site and the dates and times that you visit site. We use this information for analytical purposes and to help us improve our site and our business in general. We may provide this information to affiliates and/or third parties to assist us in improving these functions.
+**By using this site, you accept the following Privacy Policy.**
 
-Personally Identifiable Information: Guardian Legal Network only collects personally identifiable information that is voluntarily provided to us by users. The personally identifiable information that users voluntarily provide to Guardian Legal Network may be used by Guardian Legal Network and our affiliates, including contracted third-parties for administrative purposes; for authentication purposes; to properly operate, maintain and provide you with the features and functionality of the site; to present you with promotions, advertisements and opportunities which may be of interest to you via direct mail, email, or phone; to enable our affiliates and to assist us in operating, maintaining and providing our services and products to you via direct mail, email, or phone; to enable us to carry out our obligations arising from any contracts/subscriptions entered into with you; to notify you about changes to the Privacy Policy or the Disclaimer, site or service; to investigate and help prevent potentially unlawful activities that threaten the integrity of the site or Guardian Legal Network technology; to investigate allegations of fraud or violations of our Privacy Policy ; to enforce or apply our rights under the Privacy Policy or Service Agreement; to protect the rights, property, or safety of any of our clients or others; to improve the quality and design of the site and to create new features, promotions, functionality, and services by storing, tracking, and analyzing your preferences and trends; and/for marketing and business purposes.
+**Automatically Identifiable Information:** When you access getguardianlegal.com (the website), we may send one or more cookies to your computer. We use these cookies to identify prior users and track usage of the site. You can remove these cookies and modify your browser’s settings at any time to accept all cookies, reject all cookies, or notify you when a cookie is sent. We may also automatically record certain information from your system including your IP address, a unique device or User ID, version of software installed, system type, the content and pages that you access on the site, and the dates and times that you visit site. We use this information for analytical purposes and to help us improve our site and our business in general. We may provide this information to affiliates and/or third parties to assist us in improving these functions.
 
-Guardian Legal Network reserves the right to rent, sell, share or transfer your personal information to third parties for any legally permissible purpose in its sole discretion.
+**Personally Identifiable Information:** Guardian Legal Network only collects personally identifiable information that is voluntarily provided to us by users. The personally identifiable information that users voluntarily provide to Guardian Legal Network may be used by Guardian Legal Network and our affiliates, including contracted third-parties for administrative purposes; for authentication purposes; to properly operate, maintain and provide you with the features and functionality of the site; to present you with promotions, advertisements and opportunities which may be of interest to you via direct mail, email, or phone; to enable our affiliates and to assist us in operating, maintaining and providing our services and products to you via direct mail, email, or phone; to enable us to carry out our obligations arising from any contracts/subscriptions entered into with you; to notify you about changes to the Privacy Policy or the Disclaimer, site or service; to investigate and help prevent potentially unlawful activities that threaten the integrity of the site or Guardian Legal Network technology; to investigate allegations of fraud or violations of our Privacy Policy ; to enforce or apply our rights under the Privacy Policy or Service Agreement; to protect the rights, property, or safety of any of our clients or others; to improve the quality and design of the site and to create new features, promotions, functionality, and services by storing, tracking, and analyzing your preferences and trends; and/for marketing and business purposes.
+
+**Guardian Legal Network reserves the right to rent, sell, share, or transfer your personal information to third parties for any legally permissible purpose in its sole discretion.**
 
 **Information Security:** Guardian Legal Network maintains our systems in accordance with commercially reasonable industry standards to preserve the integrity and security of your personally identifiable information under our control. We cannot, however, ensure or warrant the security of any information you transmit to us and you do so at your own risk. Please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
 
-Third Party Sites: getguardianlegal.com may include links or references to other websites or services. These linked sites are provided for your convenience and for information purposes only. Guardian Legal Network is not responsible for the privacy practices of such sites. This Privacy Policy applies solely to information collected via getguardianlegal.com.
+**Third Party Sites:** getguardianlegal.com may include links or references to other websites or services. These linked sites are provided for your convenience and for information purposes only. Guardian Legal Network is not responsible for the privacy practices of such sites. This Privacy Policy applies solely to information collected via getguardianlegal.com.
 
-**Opting Out:** Guardian Legal Network only collects information that is voluntarily provided to us by you. When provided us with this information, you may “opt-out” of having your personally identifiable information used for certain purposes at any time. You may decline to provide personal information to us and/or refuse cookies in your browser. Should you no longer wish to receive newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at the address listed at the end of this Privacy Policy. You may continue to receive email communications from us up to ten business days from the time we receive your unsubscribe request. Please note that Guardian Legal Network can only control its own mailing list and policies. Third-party advertisers that maintain their own mailing lists may send communications that advertise our services, and you may need to contact these parties directly in order to stop receiving their communications.
+**Opting Out:** Guardian Legal Network only collects information that is voluntarily provided to us by you. When providing us with this information, you may “opt-out” of having your personally identifiable information used for certain purposes at any time. You may decline to provide personal information to us and/or refuse cookies in your browser. Should you no longer wish to receive newsletter and promotional communications, you may opt out of receiving them by following the instructions included in each newsletter or communication or by emailing us at the address listed at the end of this Privacy Policy.
 
-**For additional questions regarding our Privacy Policy and Disclaimer, please email:** [info@getguardianlegal.com](mailto:info@getguardianlegal.com)
+You may continue to receive email communications from us up to ten business days from the time we receive your unsubscribe request. Please note that Guardian Legal Network can only control its own mailing list and policies. Third-party advertisers that maintain their own mailing lists may send communications that advertise our services, and you may need to contact these parties directly in order to stop receiving their communications.
+
+For additional questions regarding our Privacy Policy and Disclaimer, please email: [info@getguardianlegal.com](mailto:info@getguardianlegal.com)
 
 **Disclaimer**
 
@@ -104,15 +109,15 @@ By contacting Guardian Legal Network, you agree to receive a call back by up to 
 
 Guardian Legal Network is not a law firm or Lawyer Referral Service. Guardian Legal Network does not provide legal advice, services or legal representation to anyone including but not limited to visitors to this site or people responding to our TV ads.
 
-Guardian Legal Network is a privately held Limited Liability Company that does fee based marketing for its law firm clients that offer legal services to individuals that allegedly have been injured by certain drugs, medical devices and products. All disclaimers noted below apply to the following: 1.) users of this website, 2.) people seeing and/or responding to our TV ads, 3.) anyone that views or hears any marketing materials, email or any communication from Guardian Legal Network or persons affiliated with Guardian Legal Network (“Any Communication”). All rights to these ads and properties are reserved by Guardian Legal Network.
+Guardian Legal Network is a privately held Limited Liability Company that does fee-based marketing for its law firm clients that offer legal services to individuals that allegedly have been injured by certain drugs, medical devices, and products. All disclaimers noted below apply to the following: 1.) users of this website, 2.) people seeing and/or responding to our TV ads, 3.) anyone that views or hears any marketing materials, email, or any communication from Guardian Legal Network or persons affiliated with Guardian Legal Network (“Any Communication”). All rights to these ads and properties are reserved by Guardian Legal Network.
 
-Participating law firms vary for each campaign and change from time to time. Participating law firms subject to change without notice.
+Participating law firms vary for each campaign and change from time to time. Participating law firms are subject to change without notice.
 
-**As to campaigns related to prescription drugs:**
+As to campaigns related to prescription drugs:
 
 – Do not stop taking a prescribed medication without first consulting with your doctor. Discontinuing a prescribed medication without your doctor’s advice can result in injury or death. – Do not base any medical decision on this or any other advertisement. – The subject drug remains approved by FDA.
 
-**As to campaigns related to medical devices:**
+As to campaigns related to medical devices:
 
 – The subject medical device remains approved by FDA
 
@@ -120,13 +125,13 @@ Note all of the following. Your initial call may not be with a licensed attorney
 
 An attorney-client relationship will only be created by a written agreement between a law firm and a client.
 
-You understand and agree that any information you initially provide to Guardian Legal Network or a law firm evaluating your case, is done so voluntarily and will not be considered nor treated as confidential information until such law firm has been retained by you in writing. Since Guardian Legal Network is not a law firm, such information will never be deemed or agreed to be confidential as to Guardian Legal Network.
+You understand and agree that any information you initially provide to Guardian Legal Network or a law firm evaluating your case is done so voluntarily and will not be considered nor treated as confidential information until such law firm has been retained by you in writing. Since Guardian Legal Network is not a law firm, such information will never be deemed or agreed to be confidential to Guardian Legal Network.
 
-A participating law firm may accept or reject a case based at their sole discretion. Rejection of your case is not the expression of a legal opinion about your case, instead you are encouraged to discuss the matter with any other law firm or attorney of your choice.
+A participating law firm may accept or reject a case at their sole discretion. Rejection of your case is not the expression of a legal opinion about your case, instead, you are encouraged to discuss the matter with any other law firm or attorney of your choice.
 
 If there are multiple participating firms, matching of an initial inquiry to a specific law firm is done by an internal random process. Some cases may be transferred to other attorneys, discuss with your attorney.
 
-Clients will not be responsible for a legal fee unless three is a settlement in their favor or they win at trial. However, client may be responsible for costs and any awarded costs and fees. Consult with your attorney.
+Clients will not be responsible for a legal fee unless there is a settlement in their favor or they win at trial. However, client may be responsible for costs and any awarded costs and fees. Consult with your attorney.
 
 The statements made in Any Communication from Guardian Legal Network do not fully state all the requirements needed for a successful case. Do not select an attorney or law firm solely based upon an advertisement. No representation is made that the quality of legal services to be performed is greater than the quality of legal services performed by other lawyers or that any attorney involved with this ad or Any Communication is a licensed specialist of any state. No claim to the contrary is made by us.
 
@@ -158,11 +163,13 @@ The following terms, conditions, and privacy policy is strictly limited to our S
 
 Subscribers have opted-in to receive Guardian Legal Network, LLC notifications and appointment confirmations for legal help regarding personal injuries and defective products from telephone numbers: (912) 356-4400, (912) 325-9200, (912) 299-8600, (912) 214-5400, & (912) 351-8800. All text messages sent to you are at standard rates. Message & data rates may apply based on the type of text messaging program you have with your carrier. Please contact your wireless carrier if you have any questions about your text or data plan. Guardian Legal Network, LLC does not assess any additional fees to text messages that are sent to you or to Guardian Legal Network, LLC. Message rates vary depending on subscriber participation.
 
+**Contact Us and AI-assisted chatbot policy:** When you contact us with a comment, question, or complaint, via live chat or AI-assisted SMS you may be asked for information that identifies you, such as your name, address, and telephone number, along with additional information we need to help us promptly answer your question or respond to your comment. The AI-assisted chatbot may follow up with you if you’re unresponsive after submitting a web form as well, and AI-assisted chats may not give you the most accurate answers to your questions. You may be asked to provide all of this information if you contact us through our chatbot. We may record or create transcripts of your calls to us, your chats, or any other method by which you connect with us and may retain the information disclosed during these interactions to assist you in the future, in improving our customer service and service offerings, to meet our legal obligations, as well as for other business purposes that are detailed in this Privacy Policy.
+
+We may also use vendors to provide these services which means these vendors may have access to these recordings or transcripts, including in real time. By using our chatbot, you consent to our monitoring and recording of the chat and the collection and analysis of all personal information provided through the chat. We utilize various services to process, analyze, and store the contents of the chat on our behalf. You direct Guardian Legal Network to disclose to and share with our service provider, including, any personal information you provide. If you do not consent to Guardian Legal Network’s collection and analysis of your data or to our service provider processing this data, please do not use our chat or SMS features.
+
 **Privacy**
 
-We respect your privacy. We will not share or use your mobile number for any purpose other than to send you notifications and reminders as described above. We will only use your mobile number to transmit your text message. However, we may always disclose any information as necessary to satisfy any law, regulation or governmental request, to avoid liability, or to protect our rights or property. When you complete forms online or otherwise provide us information in connection with this text-messaging service, you agree to provide accurate, complete and true information. You agree not to use a false or misleading name or a name that you are not authorized to use. If we, in our sole discretion, believe that any such information is untrue, inaccurate or incomplete, we may refuse you access to this service and pursue any appropriate legal remedies.
-
-Your consent to opt-in to Guardian Legal Network, LLC means that only Guardian Legal Network, LLC will ever contact you via text message with marketing information, notifications and reminders. Your consent to opt-in to Guardian Legal Network, LLC SMS Programs is not shared with any partners, clients or affiliates that we work with. Partners, clients or affiliates of Guardian Legal Network, LLC are expressly prohibited from contacting you via SMS text message and must gain your consent directly from them.
+We respect your privacy. We will not share or use your mobile number for any purpose other than to send you notifications and reminders as described above. We will only use your mobile number to transmit your text message. However, we may always disclose any information as necessary to satisfy any law, regulation or governmental request, to avoid liability, or to protect our rights or property. When you complete forms online or otherwise provide us information in connection with this text-messaging service, you agree to provide accurate, complete and true information. You agree not to use a false or misleading name or a name that you are not authorized to use. If we, in our sole discretion, believe that any such information is untrue, inaccurate, or incomplete, we may refuse you access to this service and pursue any appropriate legal remedies.
 
 **You may review our full terms & conditions here:** [https://guardianlegal.wpengine.com/privacy-policy/](https://guardianlegal.wpengine.com/privacy-policy/)
 
@@ -175,15 +182,15 @@ Minor carriers: Advantage Cellular (DTC Wireless), Aio Wireless, Alaska Communic
 
 **How To Get Help**
 
-For more information, you can call us at: (855) 734-0374 or sms@guardianlegal.com. From your mobile phone you can get also get help information at any time by sending the text “HELP” to (912) 356-4400, (912) 325-9200, (912) 299-8600, (912) 214-5400, & (912) 351-8800. You will receive a standard rate message from our service with information on the program you have subscribed to.
+For more information, you can call us at: (855) 734-0374 or sms@guardianlegal.com. From your mobile phone, you can also get help information at any time by sending the text “HELP” to (912) 356-4400, (912) 325-9200, (912) 299-8600, (912) 214-5400, & (912) 351-8800. You will receive a standard rate message from our service with information on the program you have subscribed to.
 
 **How To Opt-Out**
 
-Text STOP to (912) 356-4400, (912) 325-9200, (912) 299-8600, (912) 214-5400, & (912) 351-8800 To opt-out of our service alert system you can text “STOP” to (912) 356-4400, (912) 325-9200, (912) 299-8600, (912) 214-5400, & (912) 351-8800 from your mobile phone and you will automatically be unsubscribed from our service. You will receive a confirmation that you successfully unsubscribed but will not receive any additional messages unless you opt-in again unless you grant express written consent via a web form, voice call, or retainer agreement.
+Text STOP or UNSUBSCRIBE to (912) 356-4400, (912) 325-9200, (912) 299-8600, (912) 214-5400, & (912) 351-8800 To opt-out of our service alert system you can text “STOP” to (912) 356-4400, (912) 325-9200, (912) 299-8600, (912) 214-5400, & (912) 351-8800 from your mobile phone and you will automatically be unsubscribed from our service. You will receive a confirmation that you successfully unsubscribed but will not receive any additional messages unless you opt-in again unless you grant express written consent via a web form, voice call, or retainer agreement.
 
 **No SMS Warranty**
 
-Neither Guardian Legal Network, LLC or the mobile carriers are responsible or liable for any delays in the receipt of any SMS messages or undelivered messages connected with this program.
+Neither Guardian Legal Network, LLC nor the mobile carriers are responsible or liable for any delays in the receipt of any SMS messages or undelivered messages connected with this program.
 
 [Contact Us](#contact-anchor)
 
@@ -214,7 +221,7 @@ _email_
 
 Select a Case Type
 
-Select a Case Type3M Earplugs9/11 Victim Compensation FundAuto Accident LawsuitBirth InjuryCamp LejeuneClergy AbuseElmironFirefighting FoamHair Relaxer LawsuitHernia MeshMedical Malpractice LawsuitNEC Infant FormulaNursing Home AbuseParagardParaquatPFAS ContaminationPhilips CPAP MachinePowerportRoundupSemaglutideSocial Media AddictionSunscreenTalcum PowderTexas StormVideo Game AddictionXeljanzZantacOther
+Select a Case Type3M Earplugs9/11 Victim Compensation FundAuto Accident LawsuitBirth InjuryCamp LejeuneClergy AbuseElmironFirefighting FoamHair Relaxer LawsuitHernia MeshMedical Malpractice LawsuitNEC Infant FormulaNursing Home AbuseParagardParaquatPFAS ContaminationPhilips CPAP MachinePowerportRoundupSemaglutideSexual Misconduct LawsuitSocial Media AddictionSunscreenTalcum PowderTexas StormVideo Game AddictionXeljanzZantacOther
 
 Case Typecase type
 
