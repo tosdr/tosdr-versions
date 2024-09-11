@@ -1,51 +1,48 @@
 [Skip to main content](#skip-main)
 
-[The All New EMOVE Cruiser V2 is now Available! Shop Now.](https://www.voromotors.com/en-gb/products/emove-cruiser-v2 "EMOVE Cruiser V2 52V Quad Suspension 62 miles - Long Distance Electric Scooter") | [Phone service is open 7 days a week, live chat 24/7](https://www.voromotors.com/en-gb/products/emove-cruiser-v2 "EMOVE Cruiser V2 52V Quad Suspension 62 miles - Long Distance Electric Scooter")
+Free shipping across the US | Canada shipping is back open!
 
-Menu [![VORO MOTORS](//www.voromotors.com/cdn/shop/files/logo_white_410x.png?v=1613759451)](https://www.voromotors.com/en-gb "VORO MOTORS")
+Menu [![VORO MOTORS](//www.voromotors.com/cdn/shop/files/logo_white_410x.png?v=1613759451)](https://www.voromotors.com/ "VORO MOTORS")
 
-[](https://www.voromotors.com/en-gb/search "Search")
+[](https://www.voromotors.com/search "Search")
 
-[0](https://www.voromotors.com/en-gb/cart "Cart")
+[0](https://www.voromotors.com/cart "Cart")
 
  
 
-* [Electric Scooters](https://www.voromotors.com/en-gb/collections/electric-scooters)
-    * [EMOVE Electric Scooters](https://www.voromotors.com/en-gb/collections/emove-electric-scooters)
-        * [Cruiser V2(New!)](https://www.voromotors.com/en-gb/products/emove-cruiser-v2)
-        * [Cruiser S](https://www.voromotors.com/en-gb/products/emove-cruiser)
-        * [Touring](https://www.voromotors.com/en-gb/products/emove-touring)
-        * [RoadRunner V2](https://www.voromotors.com/en-gb/products/emove-roadrunner)
-        * [Roadster(New!)](https://www.voromotors.com/en-gb/products/roadster)
-        * [RoadRunner Pro(New!)](https://www.voromotors.com/en-gb/products/emove-roadrunner-pro-seated-electric-scooter)
-        * [RoadRunner SE(New!)](https://www.voromotors.com/en-gb/products/emove-roadrunner-se-light-weight-entry-level-seated-electric-scooter)
-    * [Kaabo Electric Scooters](https://www.voromotors.com/en-gb/collections/kaabo-electric-scooters)
-        * [Wolf King GTR(New!)](https://www.voromotors.com/en-gb/products/kaabo-wolf-king-gtr)
-        * [Wolf King GT (72V)](https://www.voromotors.com/en-gb/products/wolf-king-gt)
-        * [Mantis King GT](https://www.voromotors.com/en-gb/products/kaabo-mantis-king-gt-electric-scooter)
-        * [Wolf Warrior X GT](https://www.voromotors.com/en-gb/products/wolf-warrior-x-gt-pro-electric-scooter)
-        * [Mantis Pro SEFinal Sale!](https://www.voromotors.com/en-gb/products/kaabo-mantis-pro-se)
-    * [Dualtron Electric Scooters](https://www.voromotors.com/en-gb/collections/dualtron-electric-scooters)
-        * [X Limited](https://www.voromotors.com/en-gb/products/dualtron-x-limited-electric-scooter)
-        * [Storm Limited](https://www.voromotors.com/en-gb/products/dualtron-storm-limited-electric-scooter)
-        * [Storm](https://www.voromotors.com/en-gb/products/dualtron-storm)
-        * [Victor Luxury](https://www.voromotors.com/en-gb/products/dualtron-victor-luxury-electric-scooter)
-        * [Eagle Pro](https://www.voromotors.com/en-gb/products/dualtron-eagle-pro)
-    * [Inmotion Electric Scooters](https://www.voromotors.com/en-gb/collections/inmotion-electric-scooters)
-        * [RS Midnight(New!)](https://www.voromotors.com/en-gb/products/inmotion-rs-midnight-electric-scooter)
+* [Electric Scooters](https://www.voromotors.com/collections/electric-scooters)
+    * [EMOVE Electric Scooters](https://www.voromotors.com/collections/emove-electric-scooters)
+        * [Cruiser V2(New!)](https://www.voromotors.com/products/emove-cruiser-v2)
+        * [Cruiser S](https://www.voromotors.com/products/emove-cruiser)
+        * [Touring](https://www.voromotors.com/products/emove-touring)
+        * [Roadster(New!)](https://www.voromotors.com/products/roadster)
+        * [RoadRunner SE(New!)](https://www.voromotors.com/products/emove-roadrunner-se-light-weight-entry-level-seated-electric-scooter)
+        * [RoadRunner V2](https://www.voromotors.com/products/emove-roadrunner)
+        * [RoadRunner Pro(New!)](https://www.voromotors.com/products/emove-roadrunner-pro-seated-electric-scooter)
+    * [Kaabo Electric Scooters](https://www.voromotors.com/collections/kaabo-electric-scooters)
+        * [Wolf King GTR(New!)](https://www.voromotors.com/products/kaabo-wolf-king-gtr)
+        * [Wolf King GT (72V)](https://www.voromotors.com/products/wolf-king-gt)
+        * [Mantis King GT](https://www.voromotors.com/products/kaabo-mantis-king-gt-electric-scooter)
+        * [Wolf Warrior X GT](https://www.voromotors.com/products/wolf-warrior-x-gt-pro-electric-scooter)
+        * [Mantis Pro SEFinal Sale!](https://www.voromotors.com/products/kaabo-mantis-pro-se)
+    * [Dualtron Electric Scooters](https://www.voromotors.com/collections/dualtron-electric-scooters)
+        * [Victor Luxury](https://www.voromotors.com/products/dualtron-victor-luxury-electric-scooter)
+        * [Eagle Pro](https://www.voromotors.com/products/dualtron-eagle-pro)
+    * [Inmotion Electric Scooters](https://www.voromotors.com/collections/inmotion-electric-scooters)
+        * [RS Midnight(New!)](https://www.voromotors.com/products/inmotion-rs-midnight-electric-scooter)
         * [RS Lite Midnight(New!)](https://www.voromotors.com/products/inmotion-rs-midnight-electric-scooter?variant=43178976739526)
-    * [Categories](https://www.voromotors.com/en-gb/collections/electric-scooters)
-        * [Long Range E-Scooters](https://www.voromotors.com/en-gb/collections/long-range-electric-scooter)
-        * [Light Weight E-Scooters](https://www.voromotors.com/en-gb/collections/lightweight-electric-scooter)
-        * [Seated E-Scooters](https://www.voromotors.com/en-gb/collections/electric-scooter-with-seat)
-        * [Fastest E-Scooters](https://www.voromotors.com/en-gb/collections/fastest-electric-scooter)
-        * [Off-Road E-Scooters](https://www.voromotors.com/en-gb/collections/off-road-electric-scooters)
-        * [Hill Climbing E-Scooters](https://www.voromotors.com/en-gb/collections/electric-scooter-for-climbing-hills)
-        * [Refurbished E-Scooters](https://www.voromotors.com/en-gb/collections/refurbished-electric-scooter)
-        * [10 000W Prebuilt Kit](https://www.voromotors.com/en-gb/products/10000w-roadrunner-prebuilt-kit)
-* [Electric Bikes](https://www.voromotors.com/en-gb/collections/electric-bikes)
-    * [E Ride](https://www.voromotors.com/en-gb/collections/e-ride-electric-bikes)
-        * [E Ride Pro-SS 19"(New!)](https://www.voromotors.com/en-gb/products/e-ride-pro-ss-19)
+        * [Climber(New!)](https://www.voromotors.com/products/inmotion-climber-electric-scooter)
+    * [Categories](https://www.voromotors.com/collections/electric-scooters)
+        * [Long Range E-Scooters](https://www.voromotors.com/collections/long-range-electric-scooter)
+        * [Light Weight E-Scooters](https://www.voromotors.com/collections/lightweight-electric-scooter)
+        * [Seated E-Scooters](https://www.voromotors.com/collections/electric-scooter-with-seat)
+        * [Fastest E-Scooters](https://www.voromotors.com/collections/fastest-electric-scooter)
+        * [Off-Road E-Scooters](https://www.voromotors.com/collections/off-road-electric-scooters)
+        * [Hill Climbing E-Scooters](https://www.voromotors.com/collections/electric-scooter-for-climbing-hills)
+        * [Refurbished E-Scooters](https://www.voromotors.com/collections/refurbished-electric-scooter)
+* [Electric Bikes](https://www.voromotors.com/collections/electric-bikes)
+    * [E Ride](https://www.voromotors.com/collections/e-ride-electric-bikes)
+        * [E Ride Pro-SS 19"(New!)](https://www.voromotors.com/products/e-ride-pro-ss-19)
 * [Accessories](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/accessories)
     * [EMOVE](https://www.voromotors.com/collections/emove-accessories-and-parts/accessories)
         * [Cruiser](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/emove-cruiser+accessories)
@@ -57,30 +54,18 @@ Menu [![VORO MOTORS](//www.voromotors.com/cdn/shop/files/logo_white_410x.png?v=1
     * [Kaabo](https://www.voromotors.com/collections/kaabo-accessories-and-parts/accessories)
         * [Wolf King GTR](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/kaabo-wolf-king-gtr+accessories)
         * [Wolf King GT](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/kaabo-wolf-king-gt+accessories)
-        * [Wolf King](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/kaabo-wolf-king+accessories)
         * [Wolf Warrior GT](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/kaabo-wolf-warrior-gt+accessories)
-        * [Wolf Warrior 11](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/kaabo-wolf-warrior-11+accessories)
         * [Wolf Warrior X Pro](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/kaabo-wolf-warrior-x-pro+accessories)
-        * [Mantis Pro SE](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/kaabo-mantis-pro-se+accessories)
         * [Mantis King GT](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/kaabo-mantis-king-gt+accessories)
-    * [Dualtron](https://www.voromotors.com/collections/dualtron-accessories-and-parts/accessories)
-        * [Thunder](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/dualtron-thunder+accessories)
-        * [Thunder 2](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/dualtron-thunder-2+accessories)
-        * [Storm](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/dualtron-storm+accessories)
-        * [Storm Limited](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/dualtron-storm-limited+accessories)
-        * [Mini](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/dualtron-mini+accessories)
-        * [Eagle Pro](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/dualtron-eagle-pro+accessories)
-        * [Victor](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/dualtron-victor+accessories)
-        * [Victor Luxury](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/dualtron-victor-luxury+accessories)
-        * [Ultra 2](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/dualtron-ultra-2+accessories)
-        * [X2](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/dualtron-x2+accessories)
-        * [X Limited](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/dualtron-x-limited+accessories)
+    * [Inmotion](https://www.voromotors.com/collections/inmotion-accessories-and-parts)
+        * [RS Midnight](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/inmotion-rs+accessories)
     * [Others](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/accessories)
+        * [E Ride Pro SS](https://www.voromotors.com/collections/eride-pro-ss-parts-and-accessories/accessories)
         * [Fiido](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/fiido-q1s+accessories)
-        * [Inmotion RS](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/inmotion-rs+accessories)
-    * [Essentials](https://www.voromotors.com/en-gb/collections/electric-scooter-parts-and-accessories)
-        * [Safety Gear](https://www.voromotors.com/en-gb/collections/safety-gear)
-        * [Gift Cards](https://www.voromotors.com/en-gb/products/gift-card-1)
+        * [Dualtron](https://www.voromotors.com/collections/dualtron-accessories-and-parts/accessories)
+        * [Safety Gear](https://www.voromotors.com/collections/safety-gear)
+        * [Gift Cards](https://www.voromotors.com/products/gift-card-1)
+        * [Merch](https://www.voromotors.com/collections/merch)
 * [Spare Parts](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/spare-parts)
     * [EMOVE](https://www.voromotors.com/collections/emove-accessories-and-parts/spare-parts)
         * [Cruiser](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/emove-cruiser+spare-parts)
@@ -90,60 +75,51 @@ Menu [![VORO MOTORS](//www.voromotors.com/cdn/shop/files/logo_white_410x.png?v=1
         * [RoadRunner Pro](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/emove-roadrunner-pro+spare-parts)
         * [Roadster](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/emove-roadster+spare-parts)
     * [Kaabo](https://www.voromotors.com/collections/kaabo-accessories-and-parts/spare-parts)
-        * [Wolf King GTR](https://www.voromotors.com/en-gb/collections/wolf-king-gtr-parts-catalog)
+        * [Wolf King GTR](https://www.voromotors.com/collections/wolf-king-gtr-parts-catalog)
         * [Wolf King GT](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/kaabo-wolf-king-gt+spare-parts)
-        * [Wolf King](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/kaabo-wolf-king+spare-parts)
         * [Wolf Warrior GT](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/kaabo-wolf-warrior-gt+spare-parts)
-        * [Wolf Warrior 11](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/kaabo-wolf-warrior-11+spare-parts)
         * [Wolf Warrior X Pro](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/kaabo-wolf-warrior-x-pro+spare-parts)
-        * [Mantis Pro SE](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/kaabo-mantis-pro-se+spare-parts)
         * [Mantis King GT](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/kaabo-mantis-king-gt+spare-parts)
-    * [Dualtron](https://www.voromotors.com/collections/dualtron-accessories-and-parts/spare-parts)
-        * [Thunder](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/dualtron-thunder+spare-parts)
-        * [Thunder 2](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/dualtron-thunder-2+spare-parts)
-        * [Storm](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/dualtron-storm+spare-parts)
-        * [Storm Limited](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/dualtron-storm-limited+spare-parts)
-        * [Mini](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/dualtron-mini+spare-parts)
-        * [Eagle Pro](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/dualtron-eagle-pro+spare-parts)
-        * [Victor](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/dualtron-victor+spare-parts)
-        * [Victor Luxury](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/dualtron-victor-luxury+spare-parts)
-        * [Ultra 2](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/dualtron-ultra-2+spare-parts)
-        * [X2](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/dualtron-x2+spare-parts)
-        * [X Limited](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/dualtron-x-limited+spare-parts)
+    * [Inmotion](https://www.voromotors.com/collections/inmotion-accessories-and-parts)
+        * [RS Midnight](https://www.voromotors.com/collections/rs-midnight-catalog)
     * [Others](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/spare-parts)
+        * [E Ride Pro SS](https://www.voromotors.com/collections/eride-pro-ss-parts-and-accessories/spare-parts)
         * [Fiido](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/fiido-q1s+spare-parts)
-        * [Inmotion RS](https://www.voromotors.com/en-gb/collections/rs-midnight-catalog)
-    * [Essentials](https://www.voromotors.com/en-gb/collections/electric-scooter-parts-and-accessories)
-        * [Safety Gear](https://www.voromotors.com/en-gb/collections/safety-gear)
-        * [Gift Cards](https://www.voromotors.com/en-gb/products/gift-card-1)
-* [Resources](https://www.voromotors.com/en-gb/pages/self-help)
-    * [Learn](https://www.voromotors.com/en-gb#)
-        * [Book a Test Ride](https://www.voromotors.com/en-gb/pages/schedule-a-test-ride)
-        * [Ultimate Beginner's Guide](https://www.voromotors.com/en-gb/pages/ultimate-beginners-guide)
-        * [Compare Scooters](https://www.voromotors.com/en-gb/pages/adult-electric-scooters-comparison)
-        * [FAQ](https://www.voromotors.com/en-gb/pages/self-help)
-        * [Reviews](https://www.voromotors.com/en-gb/pages/reviews)
-        * [Extended Product Protection](https://www.voromotors.com/en-gb/pages/extend-warranty)
-        * [Shipping Protection](https://www.voromotors.com/en-gb/pages/about-shipping-protection)
-        * [Promotions](https://www.voromotors.com/en-gb/pages/electric-scooter-promotions)
-    * [Scooter Journey](https://www.voromotors.com/en-gb#)
-        * [Our Stories](https://www.voromotors.com/en-gb/blogs/news)
-        * [Warranty Policy](https://www.voromotors.com/en-gb/pages/warranty)
-        * [Return & Exchange Policy](https://www.voromotors.com/en-gb/pages/returns-and-exchanges)
-        * [Financing](https://www.voromotors.com/en-gb/pages/financing)
-        * [Servicing](https://www.voromotors.com/en-gb/pages/electric-scooter-repair)
-    * [Upcoming Products](https://www.voromotors.com/en-gb#)
-    * [Company](https://www.voromotors.com/en-gb#)
-        * [About Us](https://www.voromotors.com/en-gb/pages/about)
-        * [Partner Program](https://www.voromotors.com/en-gb/pages/partner-program)
-        * [Become a Dealer](https://www.voromotors.com/en-gb/pages/retailer-enquiry)
-        * [Careers](https://www.voromotors.com/en-gb/pages/career-opportunities)
-        * [Contact Us](https://www.voromotors.com/en-gb/pages/contact-us)
-    *  [](https://www.voromotors.com/en-gb#)
-* [Our Stories](https://www.voromotors.com/en-gb/pages/blog-home)
-* [FAQ](https://www.voromotors.com/en-gb/pages/self-help)
-* [Merch](https://www.voromotors.com/en-gb/collections/merch)
+        * [Dualtron](https://www.voromotors.com/collections/dualtron-accessories-and-parts/spare-parts)
+        * [Safety Gear](https://www.voromotors.com/collections/safety-gear)
+        * [Gift Cards](https://www.voromotors.com/products/gift-card-1)
+        * [Merch](https://www.voromotors.com/collections/merch)
+* [Resources](https://www.voromotors.com/pages/self-help)
+    * [Learn](#)
+        * [Book a Test Ride](https://www.voromotors.com/pages/schedule-a-test-ride)
+        * [Ultimate Beginner's Guide](https://www.voromotors.com/pages/ultimate-beginners-guide)
+        * [Compare Scooters](https://www.voromotors.com/pages/adult-electric-scooters-comparison)
+        * [FAQ](https://www.voromotors.com/pages/self-help)
+        * [Reviews](https://www.voromotors.com/pages/reviews)
+        * [Extended Product Protection](https://www.voromotors.com/pages/extend-warranty)
+        * [Shipping Protection](https://www.voromotors.com/pages/about-shipping-protection)
+        * [Promotions](https://www.voromotors.com/pages/electric-scooter-promotions)
+    * [Scooter Journey](#)
+        * [Shipping Policy](https://www.voromotors.com/pages/shipping)
+        * [Warranty Policy](https://www.voromotors.com/pages/warranty)
+        * [Return & Exchange Policy](https://www.voromotors.com/pages/returns-and-exchanges)
+        * [Financing](https://www.voromotors.com/pages/financing)
+        * [Servicing](https://www.voromotors.com/pages/electric-scooter-repair)
+    * [Company](#)
+        * [About Us](https://www.voromotors.com/pages/about)
+        * [Our Stories](https://www.voromotors.com/blogs/news)
+        * [Partner Program](https://www.voromotors.com/pages/partner-program)
+        * [Become a Dealer](https://www.voromotors.com/pages/retailer-enquiry)
+        * [Careers](https://www.voromotors.com/pages/career-opportunities)
+        * [Contact Us](https://www.voromotors.com/pages/contact-us)
+    *  [](#)
+* [Community](https://forum.voromotors.com/public/)
 * [Login](https://www.voromotors.com/customer_identity/redirect?locale=en)
+* English
+    
+    * English
+    * Español
+    
 * USD
     * USD
     * CAD
@@ -152,7 +128,7 @@ Menu [![VORO MOTORS](//www.voromotors.com/cdn/shop/files/logo_white_410x.png?v=1
     * EUR
     * JPY
 
-[The All New EMOVE Cruiser V2 is now Available! Shop Now.](https://www.voromotors.com/en-gb/products/emove-cruiser-v2 "EMOVE Cruiser V2 52V Quad Suspension 62 miles - Long Distance Electric Scooter") | [Phone service is open 7 days a week, live chat 24/7](https://www.voromotors.com/en-gb/products/emove-cruiser-v2 "EMOVE Cruiser V2 52V Quad Suspension 62 miles - Long Distance Electric Scooter")
+Free shipping across the US | Canada shipping is back open!
 
 * [](https://www.facebook.com/voromotors/?hc_ref=ARQt5oqSRDb3O_2dEeqJf59C-0aG1zH3i68aiYoxYjZddTaL3EBY2I-npawa3-pm4zY&fref=nf&__xts__[0]=68.ARBnR8fjq1PI-62n0AGbymqjO7N1yW0RJu0-fc_uFFEiwGCxljiit_Cqr9RcgQSywZ9gXhwCLM9rWCyHk9BtF7kd7J4Zp0ay3rj9-wuGn6FvpyK3pQhZGnD_jRYFDPhgQg00Bahz2QH9qjJcsbvnGurdzantzaIoLXFjQBUesFZQ0hu5P2V_m0jsAFF4-spGlFIhonboGzEhhvyK8m22L7XU_fmStWE3-GWxJdGVI_aPRBfTJm_42V5uqUk46OE1wIRkFnysjCUacVYdvKvPdzGJEbjV7nBu6FdQhyTA0F8ochmKtT8_epk&__tn__=kC-R "VORO MOTORS on Facebook")
 * [](https://www.youtube.com/c/VOROMOTORS?sub_confirmation=1 "VORO MOTORS on YouTube")
@@ -166,7 +142,15 @@ Menu [![VORO MOTORS](//www.voromotors.com/cdn/shop/files/logo_white_410x.png?v=1
     *  ![Australian Flag Icon](https://cdn.devit.software/selectors/sdk/images/countries/flags/rectangle/au.svg) Australia
     *  ![UK Flag Icon](https://cdn.devit.software/selectors/sdk/images/countries/flags/rectangle/gb.svg) UK
     
-* Currency
+* Language
+    --------
+    
+    English
+    
+    * English
+    * Español
+    
+    Currency
     --------
     
     USD
@@ -178,80 +162,75 @@ Menu [![VORO MOTORS](//www.voromotors.com/cdn/shop/files/logo_white_410x.png?v=1
     * EUR
     * JPY
     
-* [Login](https://www.voromotors.com/en-gb/account "My Account ")
+* [Login](https://www.voromotors.com/account "My Account ")
 
-[0](https://www.voromotors.com/en-gb/cart)
+[0](https://www.voromotors.com/cart)
 
 Your Cart is Empty
 
 Continue Shopping
 
-* £0.00 GBP Subtotal
+* $0.00 USD Subtotal
 
 * Checkout
 
-[![VORO MOTORS](//www.voromotors.com/cdn/shop/files/logo_white_410x.png?v=1613759451)](https://www.voromotors.com/en-gb "VORO MOTORS")
+[![VORO MOTORS](//www.voromotors.com/cdn/shop/files/logo_white_410x.png?v=1613759451)](https://www.voromotors.com/ "VORO MOTORS")
 
-* [Electric Scooters](https://www.voromotors.com/en-gb/collections/electric-scooters)
-* [Electric Bikes](https://www.voromotors.com/en-gb/collections/electric-bikes)
+* [Electric Scooters](https://www.voromotors.com/collections/electric-scooters)
+* [Electric Bikes](https://www.voromotors.com/collections/electric-bikes)
 * [Accessories](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/accessories)
 * [Spare Parts](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/spare-parts)
-* [Resources](https://www.voromotors.com/en-gb/pages/self-help)
-* [Our Stories](https://www.voromotors.com/en-gb/pages/blog-home)
-* [FAQ](https://www.voromotors.com/en-gb/pages/self-help)
-* [Merch](https://www.voromotors.com/en-gb/collections/merch)
+* [Resources](https://www.voromotors.com/pages/self-help)
+* [Community](https://forum.voromotors.com/public/)
 
  
 
-[](https://www.voromotors.com/en-gb/search "Search")
+[](https://www.voromotors.com/search "Search")
 
  
 
-* [EMOVE Electric Scooters](https://www.voromotors.com/en-gb/collections/emove-electric-scooters)
+* [EMOVE Electric Scooters](https://www.voromotors.com/collections/emove-electric-scooters)
 
-* [Cruiser V2(New!)](https://www.voromotors.com/en-gb/products/emove-cruiser-v2)
-* [Cruiser S](https://www.voromotors.com/en-gb/products/emove-cruiser)
-* [Touring](https://www.voromotors.com/en-gb/products/emove-touring)
-* [RoadRunner V2](https://www.voromotors.com/en-gb/products/emove-roadrunner)
-* [Roadster(New!)](https://www.voromotors.com/en-gb/products/roadster)
-* [RoadRunner Pro(New!)](https://www.voromotors.com/en-gb/products/emove-roadrunner-pro-seated-electric-scooter)
-* [RoadRunner SE(New!)](https://www.voromotors.com/en-gb/products/emove-roadrunner-se-light-weight-entry-level-seated-electric-scooter)
+* [Cruiser V2(New!)](https://www.voromotors.com/products/emove-cruiser-v2)
+* [Cruiser S](https://www.voromotors.com/products/emove-cruiser)
+* [Touring](https://www.voromotors.com/products/emove-touring)
+* [Roadster(New!)](https://www.voromotors.com/products/roadster)
+* [RoadRunner SE(New!)](https://www.voromotors.com/products/emove-roadrunner-se-light-weight-entry-level-seated-electric-scooter)
+* [RoadRunner V2](https://www.voromotors.com/products/emove-roadrunner)
+* [RoadRunner Pro(New!)](https://www.voromotors.com/products/emove-roadrunner-pro-seated-electric-scooter)
 
-* [Kaabo Electric Scooters](https://www.voromotors.com/en-gb/collections/kaabo-electric-scooters)
+* [Kaabo Electric Scooters](https://www.voromotors.com/collections/kaabo-electric-scooters)
 
-* [Wolf King GTR(New!)](https://www.voromotors.com/en-gb/products/kaabo-wolf-king-gtr)
-* [Wolf King GT (72V)](https://www.voromotors.com/en-gb/products/wolf-king-gt)
-* [Mantis King GT](https://www.voromotors.com/en-gb/products/kaabo-mantis-king-gt-electric-scooter)
-* [Wolf Warrior X GT](https://www.voromotors.com/en-gb/products/wolf-warrior-x-gt-pro-electric-scooter)
-* [Mantis Pro SEFinal Sale!](https://www.voromotors.com/en-gb/products/kaabo-mantis-pro-se)
+* [Wolf King GTR(New!)](https://www.voromotors.com/products/kaabo-wolf-king-gtr)
+* [Wolf King GT (72V)](https://www.voromotors.com/products/wolf-king-gt)
+* [Mantis King GT](https://www.voromotors.com/products/kaabo-mantis-king-gt-electric-scooter)
+* [Wolf Warrior X GT](https://www.voromotors.com/products/wolf-warrior-x-gt-pro-electric-scooter)
+* [Mantis Pro SEFinal Sale!](https://www.voromotors.com/products/kaabo-mantis-pro-se)
 
-* [Dualtron Electric Scooters](https://www.voromotors.com/en-gb/collections/dualtron-electric-scooters)
+* [Dualtron Electric Scooters](https://www.voromotors.com/collections/dualtron-electric-scooters)
 
-* [X Limited](https://www.voromotors.com/en-gb/products/dualtron-x-limited-electric-scooter)
-* [Storm Limited](https://www.voromotors.com/en-gb/products/dualtron-storm-limited-electric-scooter)
-* [Storm](https://www.voromotors.com/en-gb/products/dualtron-storm)
-* [Victor Luxury](https://www.voromotors.com/en-gb/products/dualtron-victor-luxury-electric-scooter)
-* [Eagle Pro](https://www.voromotors.com/en-gb/products/dualtron-eagle-pro)
+* [Victor Luxury](https://www.voromotors.com/products/dualtron-victor-luxury-electric-scooter)
+* [Eagle Pro](https://www.voromotors.com/products/dualtron-eagle-pro)
 
-* [Inmotion Electric Scooters](https://www.voromotors.com/en-gb/collections/inmotion-electric-scooters)
+* [Inmotion Electric Scooters](https://www.voromotors.com/collections/inmotion-electric-scooters)
 
-* [RS Midnight(New!)](https://www.voromotors.com/en-gb/products/inmotion-rs-midnight-electric-scooter)
+* [RS Midnight(New!)](https://www.voromotors.com/products/inmotion-rs-midnight-electric-scooter)
 * [RS Lite Midnight(New!)](https://www.voromotors.com/products/inmotion-rs-midnight-electric-scooter?variant=43178976739526)
+* [Climber(New!)](https://www.voromotors.com/products/inmotion-climber-electric-scooter)
 
-* [Categories](https://www.voromotors.com/en-gb/collections/electric-scooters)
+* [Categories](https://www.voromotors.com/collections/electric-scooters)
 
-* [Long Range E-Scooters](https://www.voromotors.com/en-gb/collections/long-range-electric-scooter)
-* [Light Weight E-Scooters](https://www.voromotors.com/en-gb/collections/lightweight-electric-scooter)
-* [Seated E-Scooters](https://www.voromotors.com/en-gb/collections/electric-scooter-with-seat)
-* [Fastest E-Scooters](https://www.voromotors.com/en-gb/collections/fastest-electric-scooter)
-* [Off-Road E-Scooters](https://www.voromotors.com/en-gb/collections/off-road-electric-scooters)
-* [Hill Climbing E-Scooters](https://www.voromotors.com/en-gb/collections/electric-scooter-for-climbing-hills)
-* [Refurbished E-Scooters](https://www.voromotors.com/en-gb/collections/refurbished-electric-scooter)
-* [10 000W Prebuilt Kit](https://www.voromotors.com/en-gb/products/10000w-roadrunner-prebuilt-kit)
+* [Long Range E-Scooters](https://www.voromotors.com/collections/long-range-electric-scooter)
+* [Light Weight E-Scooters](https://www.voromotors.com/collections/lightweight-electric-scooter)
+* [Seated E-Scooters](https://www.voromotors.com/collections/electric-scooter-with-seat)
+* [Fastest E-Scooters](https://www.voromotors.com/collections/fastest-electric-scooter)
+* [Off-Road E-Scooters](https://www.voromotors.com/collections/off-road-electric-scooters)
+* [Hill Climbing E-Scooters](https://www.voromotors.com/collections/electric-scooter-for-climbing-hills)
+* [Refurbished E-Scooters](https://www.voromotors.com/collections/refurbished-electric-scooter)
 
-* [E Ride](https://www.voromotors.com/en-gb/collections/e-ride-electric-bikes)
+* [E Ride](https://www.voromotors.com/collections/e-ride-electric-bikes)
 
-* [E Ride Pro-SS 19"(New!)](https://www.voromotors.com/en-gb/products/e-ride-pro-ss-19)
+* [E Ride Pro-SS 19"(New!)](https://www.voromotors.com/products/e-ride-pro-ss-19)
 
 * [EMOVE](https://www.voromotors.com/collections/emove-accessories-and-parts/accessories)
 
@@ -266,36 +245,22 @@ Continue Shopping
 
 * [Wolf King GTR](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/kaabo-wolf-king-gtr+accessories)
 * [Wolf King GT](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/kaabo-wolf-king-gt+accessories)
-* [Wolf King](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/kaabo-wolf-king+accessories)
 * [Wolf Warrior GT](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/kaabo-wolf-warrior-gt+accessories)
-* [Wolf Warrior 11](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/kaabo-wolf-warrior-11+accessories)
 * [Wolf Warrior X Pro](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/kaabo-wolf-warrior-x-pro+accessories)
-* [Mantis Pro SE](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/kaabo-mantis-pro-se+accessories)
 * [Mantis King GT](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/kaabo-mantis-king-gt+accessories)
 
-* [Dualtron](https://www.voromotors.com/collections/dualtron-accessories-and-parts/accessories)
+* [Inmotion](https://www.voromotors.com/collections/inmotion-accessories-and-parts)
 
-* [Thunder](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/dualtron-thunder+accessories)
-* [Thunder 2](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/dualtron-thunder-2+accessories)
-* [Storm](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/dualtron-storm+accessories)
-* [Storm Limited](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/dualtron-storm-limited+accessories)
-* [Mini](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/dualtron-mini+accessories)
-* [Eagle Pro](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/dualtron-eagle-pro+accessories)
-* [Victor](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/dualtron-victor+accessories)
-* [Victor Luxury](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/dualtron-victor-luxury+accessories)
-* [Ultra 2](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/dualtron-ultra-2+accessories)
-* [X2](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/dualtron-x2+accessories)
-* [X Limited](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/dualtron-x-limited+accessories)
+* [RS Midnight](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/inmotion-rs+accessories)
 
 * [Others](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/accessories)
 
+* [E Ride Pro SS](https://www.voromotors.com/collections/eride-pro-ss-parts-and-accessories/accessories)
 * [Fiido](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/fiido-q1s+accessories)
-* [Inmotion RS](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/inmotion-rs+accessories)
-
-* [Essentials](https://www.voromotors.com/en-gb/collections/electric-scooter-parts-and-accessories)
-
-* [Safety Gear](https://www.voromotors.com/en-gb/collections/safety-gear)
-* [Gift Cards](https://www.voromotors.com/en-gb/products/gift-card-1)
+* [Dualtron](https://www.voromotors.com/collections/dualtron-accessories-and-parts/accessories)
+* [Safety Gear](https://www.voromotors.com/collections/safety-gear)
+* [Gift Cards](https://www.voromotors.com/products/gift-card-1)
+* [Merch](https://www.voromotors.com/collections/merch)
 
 * [EMOVE](https://www.voromotors.com/collections/emove-accessories-and-parts/spare-parts)
 
@@ -308,83 +273,68 @@ Continue Shopping
 
 * [Kaabo](https://www.voromotors.com/collections/kaabo-accessories-and-parts/spare-parts)
 
-* [Wolf King GTR](https://www.voromotors.com/en-gb/collections/wolf-king-gtr-parts-catalog)
+* [Wolf King GTR](https://www.voromotors.com/collections/wolf-king-gtr-parts-catalog)
 * [Wolf King GT](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/kaabo-wolf-king-gt+spare-parts)
-* [Wolf King](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/kaabo-wolf-king+spare-parts)
 * [Wolf Warrior GT](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/kaabo-wolf-warrior-gt+spare-parts)
-* [Wolf Warrior 11](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/kaabo-wolf-warrior-11+spare-parts)
 * [Wolf Warrior X Pro](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/kaabo-wolf-warrior-x-pro+spare-parts)
-* [Mantis Pro SE](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/kaabo-mantis-pro-se+spare-parts)
 * [Mantis King GT](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/kaabo-mantis-king-gt+spare-parts)
 
-* [Dualtron](https://www.voromotors.com/collections/dualtron-accessories-and-parts/spare-parts)
+* [Inmotion](https://www.voromotors.com/collections/inmotion-accessories-and-parts)
 
-* [Thunder](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/dualtron-thunder+spare-parts)
-* [Thunder 2](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/dualtron-thunder-2+spare-parts)
-* [Storm](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/dualtron-storm+spare-parts)
-* [Storm Limited](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/dualtron-storm-limited+spare-parts)
-* [Mini](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/dualtron-mini+spare-parts)
-* [Eagle Pro](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/dualtron-eagle-pro+spare-parts)
-* [Victor](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/dualtron-victor+spare-parts)
-* [Victor Luxury](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/dualtron-victor-luxury+spare-parts)
-* [Ultra 2](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/dualtron-ultra-2+spare-parts)
-* [X2](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/dualtron-x2+spare-parts)
-* [X Limited](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/dualtron-x-limited+spare-parts)
+* [RS Midnight](https://www.voromotors.com/collections/rs-midnight-catalog)
 
 * [Others](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/spare-parts)
 
+* [E Ride Pro SS](https://www.voromotors.com/collections/eride-pro-ss-parts-and-accessories/spare-parts)
 * [Fiido](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/fiido-q1s+spare-parts)
-* [Inmotion RS](https://www.voromotors.com/en-gb/collections/rs-midnight-catalog)
+* [Dualtron](https://www.voromotors.com/collections/dualtron-accessories-and-parts/spare-parts)
+* [Safety Gear](https://www.voromotors.com/collections/safety-gear)
+* [Gift Cards](https://www.voromotors.com/products/gift-card-1)
+* [Merch](https://www.voromotors.com/collections/merch)
 
-* [Essentials](https://www.voromotors.com/en-gb/collections/electric-scooter-parts-and-accessories)
+* [Learn](#)
 
-* [Safety Gear](https://www.voromotors.com/en-gb/collections/safety-gear)
-* [Gift Cards](https://www.voromotors.com/en-gb/products/gift-card-1)
+* [Book a Test Ride](https://www.voromotors.com/pages/schedule-a-test-ride)
+* [Ultimate Beginner's Guide](https://www.voromotors.com/pages/ultimate-beginners-guide)
+* [Compare Scooters](https://www.voromotors.com/pages/adult-electric-scooters-comparison)
+* [FAQ](https://www.voromotors.com/pages/self-help)
+* [Reviews](https://www.voromotors.com/pages/reviews)
+* [Extended Product Protection](https://www.voromotors.com/pages/extend-warranty)
+* [Shipping Protection](https://www.voromotors.com/pages/about-shipping-protection)
+* [Promotions](https://www.voromotors.com/pages/electric-scooter-promotions)
 
-* [Learn](https://www.voromotors.com/en-gb#)
+* [Scooter Journey](#)
 
-* [Book a Test Ride](https://www.voromotors.com/en-gb/pages/schedule-a-test-ride)
-* [Ultimate Beginner's Guide](https://www.voromotors.com/en-gb/pages/ultimate-beginners-guide)
-* [Compare Scooters](https://www.voromotors.com/en-gb/pages/adult-electric-scooters-comparison)
-* [FAQ](https://www.voromotors.com/en-gb/pages/self-help)
-* [Reviews](https://www.voromotors.com/en-gb/pages/reviews)
-* [Extended Product Protection](https://www.voromotors.com/en-gb/pages/extend-warranty)
-* [Shipping Protection](https://www.voromotors.com/en-gb/pages/about-shipping-protection)
-* [Promotions](https://www.voromotors.com/en-gb/pages/electric-scooter-promotions)
+* [Shipping Policy](https://www.voromotors.com/pages/shipping)
+* [Warranty Policy](https://www.voromotors.com/pages/warranty)
+* [Return & Exchange Policy](https://www.voromotors.com/pages/returns-and-exchanges)
+* [Financing](https://www.voromotors.com/pages/financing)
+* [Servicing](https://www.voromotors.com/pages/electric-scooter-repair)
 
-* [Scooter Journey](https://www.voromotors.com/en-gb#)
+* [Company](#)
 
-* [Our Stories](https://www.voromotors.com/en-gb/blogs/news)
-* [Warranty Policy](https://www.voromotors.com/en-gb/pages/warranty)
-* [Return & Exchange Policy](https://www.voromotors.com/en-gb/pages/returns-and-exchanges)
-* [Financing](https://www.voromotors.com/en-gb/pages/financing)
-* [Servicing](https://www.voromotors.com/en-gb/pages/electric-scooter-repair)
+* [About Us](https://www.voromotors.com/pages/about)
+* [Our Stories](https://www.voromotors.com/blogs/news)
+* [Partner Program](https://www.voromotors.com/pages/partner-program)
+* [Become a Dealer](https://www.voromotors.com/pages/retailer-enquiry)
+* [Careers](https://www.voromotors.com/pages/career-opportunities)
+* [Contact Us](https://www.voromotors.com/pages/contact-us)
 
-* [Upcoming Products](https://www.voromotors.com/en-gb#)
-
-* [Company](https://www.voromotors.com/en-gb#)
-
-* [About Us](https://www.voromotors.com/en-gb/pages/about)
-* [Partner Program](https://www.voromotors.com/en-gb/pages/partner-program)
-* [Become a Dealer](https://www.voromotors.com/en-gb/pages/retailer-enquiry)
-* [Careers](https://www.voromotors.com/en-gb/pages/career-opportunities)
-* [Contact Us](https://www.voromotors.com/en-gb/pages/contact-us)
-
-*  [](https://www.voromotors.com/en-gb#)
+*  [](#)
 
 [Switcher](javascript:void(0))
 
-Your location is set to United Kingdom
+Your location is set to United States
 
 Change country/region:
 
 United States Canada Australia United Kingdom
 
-Or [Continue](javascript:void(0);setCookie('default_site','GB',7);$('.popup-ctry-close').click();)
+Or [Continue](javascript:void(0);setCookie('default_site','US',7);$('.popup-ctry-close').click();)
 
-[Meet our lovely team!](https://www.voromotors.com/en-gb/pages/our-team)
+[Meet our lovely team!](https://www.voromotors.com/pages/our-team)
 
-* [Meet our lovely team!](https://www.voromotors.com/en-gb/pages/our-team)
+* [Meet our lovely team!](https://www.voromotors.com/pages/our-team)
 
 Privacy Policy
 ==============
@@ -543,13 +493,13 @@ We partner with companies like Extend to ensure your order arrives to your doors
 
 ##### Shop By Brand
 
-* [EMOVE Electric Scooters](https://www.voromotors.com/en-gb/collections/emove-electric-scooters)
+* [EMOVE Electric Scooters](https://www.voromotors.com/collections/emove-electric-scooters)
     
-* [Kaabo Electric Scooters](https://www.voromotors.com/en-gb/collections/kaabo-electric-scooters)
+* [Kaabo Electric Scooters](https://www.voromotors.com/collections/kaabo-electric-scooters)
     
-* [Inmotion Electric Scooters](https://www.voromotors.com/en-gb/collections/inmotion-electric-scooters)
+* [Inmotion Electric Scooters](https://www.voromotors.com/collections/inmotion-electric-scooters)
     
-* [Dualtron Electric Scooters](https://www.voromotors.com/en-gb/collections/dualtron-electric-scooters)
+* [Dualtron Electric Scooters](https://www.voromotors.com/collections/dualtron-electric-scooters)
     
 
 ##### Customer Care
@@ -558,45 +508,45 @@ We partner with companies like Extend to ensure your order arrives to your doors
     
 * [Warranty Registration (Amazon)](https://www.voromotors.com/pages/warranty-registration)
     
-* [Servicing](https://www.voromotors.com/en-gb/pages/electric-scooter-repair)
+* [Servicing](https://www.voromotors.com/pages/electric-scooter-repair)
     
-* [Financing](https://www.voromotors.com/en-gb/pages/financing)
+* [Financing](https://www.voromotors.com/pages/financing)
     
-* [Extend Protection](https://www.voromotors.com/en-gb/pages/extend-warranty)
+* [Extend Protection](https://www.voromotors.com/pages/extend-warranty)
     
-* [Shipping Protection](https://www.voromotors.com/en-gb/pages/about-shipping-protection)
+* [Shipping Protection](https://www.voromotors.com/pages/about-shipping-protection)
     
 * [Education Discount](https://www.voromotors.com/pages/student-and-teacher-discount)
     
-* [First Responder Program](https://www.voromotors.com/en-gb/pages/first-responder)
+* [First Responder Program](https://www.voromotors.com/pages/first-responder)
     
 
 ##### Resources
 
-* [Compare Scooters](https://www.voromotors.com/en-gb/pages/adult-electric-scooters-comparison)
+* [Compare Scooters](https://www.voromotors.com/pages/adult-electric-scooters-comparison)
     
-* [Frequently Asked Questions](https://www.voromotors.com/en-gb/pages/self-help)
+* [Frequently Asked Questions](https://www.voromotors.com/pages/self-help)
     
-* [Schedule A Test Ride](https://www.voromotors.com/en-gb/pages/schedule-a-test-ride)
+* [Schedule A Test Ride](https://www.voromotors.com/pages/schedule-a-test-ride)
     
-* [Reviews](https://www.voromotors.com/en-gb/pages/reviews)
+* [Reviews](https://www.voromotors.com/pages/reviews)
     
 
 ##### Company
 
-* [About Us](https://www.voromotors.com/en-gb/pages/about)
+* [About Us](https://www.voromotors.com/pages/about)
     
-* [Partner Program](https://www.voromotors.com/en-gb/pages/partner-program)
+* [Partner Program](https://www.voromotors.com/pages/partner-program)
     
-* [Commercial Inquiry](https://www.voromotors.com/en-gb/pages/retailer-enquiry)
+* [Commercial Inquiry](https://www.voromotors.com/pages/retailer-enquiry)
     
-* [Events](https://www.voromotors.com/en-gb/pages/electric-scooter-group-ride-events)
+* [Events](https://www.voromotors.com/pages/electric-scooter-group-ride-events)
     
 * [Media](mailto:media@voromotors.com)
     
-* [Careers](https://www.voromotors.com/en-gb/pages/career-opportunities)
+* [Careers](https://www.voromotors.com/pages/career-opportunities)
     
-* [Contact us](https://www.voromotors.com/en-gb/pages/contact-us)
+* [Contact us](https://www.voromotors.com/pages/contact-us)
     
 
 ##### Contact Us
@@ -608,8 +558,8 @@ Sunday - CLOSED
 
 **VORO (HI)  
 **1030 Opule St Unit #3, Kapolei, HI 96707  
-Open Monday - Friday (9:30 am - 5:30 pm)  
-Saturday - Sunday - CLOSED
+Open Tuesday - Saturday (10am - 7pm)  
+Sunday, Monday - CLOSED
 
 **VORO (NYC)  
 **624 East 9th Street, New York, NY 10009  
@@ -626,43 +576,44 @@ Open Everyday (10am - 6pm)
 
 ##### Shop By Category
 
-* [Seated Electric Scooters](https://www.voromotors.com/en-gb/collections/electric-scooter-with-seat)
+* [Seated Electric Scooters](https://www.voromotors.com/collections/electric-scooter-with-seat)
     
-* [Off-Road Electric Scooter](https://www.voromotors.com/en-gb/collections/off-road-electric-scooters)
+* [Off-Road Electric Scooter](https://www.voromotors.com/collections/off-road-electric-scooters)
     
-* [Refurbished Electric Scooters](https://www.voromotors.com/en-gb/collections/refurbished-electric-scooter)
+* [Refurbished Electric Scooters](https://www.voromotors.com/collections/refurbished-electric-scooter)
     
-* [Hill Climbing Electric Scooters](https://www.voromotors.com/en-gb/collections/electric-scooter-for-climbing-hills)
+* [Hill Climbing Electric Scooters](https://www.voromotors.com/collections/electric-scooter-for-climbing-hills)
     
-* [Accessories](https://www.voromotors.com/en-gb/collections/electric-scooter-accessories)
+* [Accessories](https://www.voromotors.com/collections/electric-scooter-accessories)
     
-* [Spare Parts](https://www.voromotors.com/en-gb/collections/electric-scooter-parts)
+* [Spare Parts](https://www.voromotors.com/collections/electric-scooter-parts)
     
 
 ##### Policies
 
-* [Warranty Policy](https://www.voromotors.com/en-gb/pages/warranty)
+* [Warranty Policy](https://www.voromotors.com/pages/warranty)
     
-* [Shipping Policy](https://www.voromotors.com/en-gb/pages/shipping)
+* [Shipping Policy](https://www.voromotors.com/pages/shipping)
     
-* [Privacy Policy](https://www.voromotors.com/en-gb/pages/privacy-policy)
+* [Privacy Policy](https://www.voromotors.com/pages/privacy-policy)
     
-* [Returns and Exchanges](https://www.voromotors.com/en-gb/pages/returns-and-exchanges)
+* [Returns and Exchanges](https://www.voromotors.com/pages/returns-and-exchanges)
     
-* [Website Terms & Conditions](https://www.voromotors.com/en-gb/pages/website-terms-and-conditions)
-    
-
-##### Upcoming Products
-
-* [EMOVE Cruiser V2 Waitlist](https://www.voromotors.com/pages/cruiser-v2-waiting-list)
-    
-* [Range Extender for RoadRunner Pro Waitlist](https://www.voromotors.com/en-gb/products/range-extender-for-roadrunner-pro)
+* [Website Terms & Conditions](https://www.voromotors.com/pages/website-terms-and-conditions)
     
 
 * [](https://www.facebook.com/voromotors/?hc_ref=ARQt5oqSRDb3O_2dEeqJf59C-0aG1zH3i68aiYoxYjZddTaL3EBY2I-npawa3-pm4zY&fref=nf&__xts__[0]=68.ARBnR8fjq1PI-62n0AGbymqjO7N1yW0RJu0-fc_uFFEiwGCxljiit_Cqr9RcgQSywZ9gXhwCLM9rWCyHk9BtF7kd7J4Zp0ay3rj9-wuGn6FvpyK3pQhZGnD_jRYFDPhgQg00Bahz2QH9qjJcsbvnGurdzantzaIoLXFjQBUesFZQ0hu5P2V_m0jsAFF4-spGlFIhonboGzEhhvyK8m22L7XU_fmStWE3-GWxJdGVI_aPRBfTJm_42V5uqUk46OE1wIRkFnysjCUacVYdvKvPdzGJEbjV7nBu6FdQhyTA0F8ochmKtT8_epk&__tn__=kC-R "VORO MOTORS on Facebook")
 * [](https://www.youtube.com/c/VOROMOTORS?sub_confirmation=1 "VORO MOTORS on YouTube")
 * [](https://www.instagram.com/voromotors/ "VORO MOTORS on Instagram")
 * [](mailto:support@voromotors.com "Email VORO MOTORS")
+
+Language
+--------
+
+English
+
+* English
+* Español
 
 © 2024 [VORO MOTORS](https://www.voromotors.com/).
 
