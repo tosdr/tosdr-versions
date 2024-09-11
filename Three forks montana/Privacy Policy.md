@@ -78,9 +78,11 @@
 
 [Impact Fee Schedule](https://www.threeforksmontana.us/s/Fee-Schedule-2013-l7st.pdf)
 
-[Maps](https://www.threeforksmontana.us/maps)
+[Floodplain Maps - Current](https://msc.fema.gov/portal/home)
 
-[Newsletters - "Did You Know?" Articles](https://www.threeforksmontana.us/newsletters-did-you-know-articles)
+[Floodplain Maps - Newly Proposed](https://mtdnrc.maps.arcgis.com/apps/MapSeries/index.html?appid=219e5e80f84c4ee2b9e2397ecab83412)
+
+[Maps](https://www.threeforksmontana.us/maps)
 
 [Ordinances (City Laws)](https://codelibrary.amlegal.com/codes/threeforksmt/latest/overview)
 
@@ -209,9 +211,11 @@
 
 [Impact Fee Schedule](https://www.threeforksmontana.us/s/Fee-Schedule-2013-l7st.pdf)
 
-[Maps](https://www.threeforksmontana.us/maps)
+[Floodplain Maps - Current](https://msc.fema.gov/portal/home)
 
-[Newsletters - "Did You Know?" Articles](https://www.threeforksmontana.us/newsletters-did-you-know-articles)
+[Floodplain Maps - Newly Proposed](https://mtdnrc.maps.arcgis.com/apps/MapSeries/index.html?appid=219e5e80f84c4ee2b9e2397ecab83412)
+
+[Maps](https://www.threeforksmontana.us/maps)
 
 [Ordinances (City Laws)](https://codelibrary.amlegal.com/codes/threeforksmt/latest/overview)
 
