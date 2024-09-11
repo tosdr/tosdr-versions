@@ -1,4 +1,4 @@
-Thursday, August 1 2024
+Wednesday, September 11 2024
 
 * [About](https://fifthperson.com/about/)
 * [Charity](https://fifthperson.com/charity/)
@@ -171,83 +171,83 @@ Quick Guides
 
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![](https://fifthperson.com/wp-content/uploads/2024/07/manager-220x150.jpg)](https://fifthperson.com/how-to-invest-stage-career/)
+    ![](https://fifthperson.com/wp-content/uploads/2022/11/USD-220x150.jpg)](https://fifthperson.com/best-places-to-stash-us-dollars/)
     
-    [From yuppie to retiree: How to invest at each stage of your career](https://fifthperson.com/how-to-invest-stage-career/)
+    [4 best places to stash your U.S. dollars](https://fifthperson.com/best-places-to-stash-us-dollars/)
     
-    2 days ago
+    1 day ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![](https://fifthperson.com/wp-content/uploads/2020/04/luckin.jpg)](https://fifthperson.com/luckin-coffee-turnaround/)
+    ![](https://fifthperson.com/wp-content/uploads/2024/09/nvidia-220x150.jpg)](https://fifthperson.com/nvidia-q2-2025-earnings-call/)
     
-    [The recipe for Luckin Coffee’s remarkable turnaround](https://fifthperson.com/luckin-coffee-turnaround/) 
+    [Nvidia Q2 2025 earnings call: AI and data centers continue to push growth](https://fifthperson.com/nvidia-q2-2025-earnings-call/)
+    
+    5 days ago
+    
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://fifthperson.com/wp-content/uploads/2024/09/trust-220x150.jpg)](https://fifthperson.com/trusts-a-powerful-financial-planning-tool-for-any-net-worth/)
+    
+    [Trusts: A powerful financial planning tool for any net worth](https://fifthperson.com/trusts-a-powerful-financial-planning-tool-for-any-net-worth/)
     
     1 week ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![](https://fifthperson.com/wp-content/uploads/2021/06/nestle-220x150.jpg)](https://fifthperson.com/2024-nestle-malaysia-agm/)
+    ![](https://fifthperson.com/wp-content/uploads/2024/08/meta-220x150.jpg)](https://fifthperson.com/meta-q2-2024-earnings/)
     
-    [8 things I learned from the 2024 Nestlé Malaysia AGM](https://fifthperson.com/2024-nestle-malaysia-agm/)
-    
-    1 week ago
-    
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://fifthperson.com/wp-content/uploads/2024/07/electoral-college-220x150.jpg)](https://fifthperson.com/us-presidential-elections-stock-market-trends/)
-    
-    [How U.S. presidential elections influence stock market trends](https://fifthperson.com/us-presidential-elections-stock-market-trends/)
+    [Meta Q2 2024 earnings driven by AI and advertising growth](https://fifthperson.com/meta-q2-2024-earnings/)
     
     2 weeks ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![](https://fifthperson.com/wp-content/uploads/2020/03/dutch-lady-shelf.jpg)](https://fifthperson.com/2024-dutch-lady-milk-industries-agm/)
+    ![](https://fifthperson.com/wp-content/uploads/2020/09/microsoft-corp-220x150.jpg)](https://fifthperson.com/microsoft-q4-2024-earnings/)
     
-    [8 things I learned from the 2024 Dutch Lady Milk Industries AGM](https://fifthperson.com/2024-dutch-lady-milk-industries-agm/)
+    [Microsoft Q4 2024 earnings fuelled by AI and cloud growth](https://fifthperson.com/microsoft-q4-2024-earnings/)
     
     2 weeks ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![](https://fifthperson.com/wp-content/uploads/2024/07/TR24-Media-Conference_Group-Photo-of-Panellists-220x150.jpg)](https://fifthperson.com/temasek-review-2024/)
+    ![](https://fifthperson.com/wp-content/uploads/2019/09/amazon.jpg)](https://fifthperson.com/amazon-q2-2024-earnings-call/)
     
-    [7 things I learned from Temasek Review 2024](https://fifthperson.com/temasek-review-2024/)
-    
-    3 weeks ago
-    
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://fifthperson.com/wp-content/uploads/2023/07/genting-malaysia-220x150.jpg)](https://fifthperson.com/2024-genting-malaysia-agm/)
-    
-    [10 things I learned from the 2024 Genting Malaysia AGM](https://fifthperson.com/2024-genting-malaysia-agm/)
+    [Amazon Q2 2024 earnings call: Strong performance across all segments](https://fifthperson.com/amazon-q2-2024-earnings-call/)
     
     3 weeks ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![](https://fifthperson.com/wp-content/uploads/2024/06/klcc-220x150.jpg)](https://fifthperson.com/2024-klccp-stapled-group-agm/)
+    ![](https://fifthperson.com/wp-content/uploads/2019/08/vivocity.jpg)](https://fifthperson.com/2024-mapletree-pan-asia-commercial-trust-agm/)
     
-    [7 things I learned from the 2024 KLCCP Stapled Group AGM](https://fifthperson.com/2024-klccp-stapled-group-agm/)
+    [8 things I learned from the 2024 Mapletree Pan Asia Commercial Trust AGM](https://fifthperson.com/2024-mapletree-pan-asia-commercial-trust-agm/)
     
-    July 2, 2024
-    
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://fifthperson.com/wp-content/uploads/2024/06/celsius-220x150.png)](https://fifthperson.com/drink-company-stock-grew-in-five-years/)
-    
-    [How this drink company’s stock grew 4,270% in five years](https://fifthperson.com/drink-company-stock-grew-in-five-years/)
-    
-    June 28, 2024
+    3 weeks ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![](https://fifthperson.com/wp-content/uploads/2024/06/statue-of-liberty-220x150.jpg)](https://fifthperson.com/developed-vs-emerging-markets-which-is-better/)
+    ![](https://fifthperson.com/wp-content/uploads/2024/08/nike-220x150.jpg)](https://fifthperson.com/nike-stock-plunge-sportswear-giant-regain-crown/)
     
-    [Investing in developed vs emerging markets: Which is better?](https://fifthperson.com/developed-vs-emerging-markets-which-is-better/)
+    [Nike’s 30% stock plunge: Can the sportswear giant regain its crown?](https://fifthperson.com/nike-stock-plunge-sportswear-giant-regain-crown/)
     
-    June 25, 2024
+    4 weeks ago
+    
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://fifthperson.com/wp-content/uploads/2023/05/apple-220x150.jpg)](https://fifthperson.com/apple-q3-2024-earnings-apple-intelligence/)
+    
+    [Apple Q3 2024 earnings call: Services and Apple Intelligence lead the way](https://fifthperson.com/apple-q3-2024-earnings-apple-intelligence/)
+    
+    4 weeks ago
+    
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://fifthperson.com/wp-content/uploads/2024/08/calculate-220x150.jpg)](https://fifthperson.com/rule-of-72-better-investment-decisions/)
+    
+    [How to use the Rule of 72 to make better investment decisions](https://fifthperson.com/rule-of-72-better-investment-decisions/)
+    
+    4 weeks ago
     
 
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -337,63 +337,19 @@ Quick Guides
     
     ![Photo of Adam Wong](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![Photo of Adam Wong](https://secure.gravatar.com/avatar/1d16fe1e9cc5ddc7e4a6d7ea456395db?s=70&d=mm&r=g)](https://fifthperson.com/us-presidential-elections-stock-market-trends/#comment-674205)
+    ![Photo of Adam Wong](https://secure.gravatar.com/avatar/1d16fe1e9cc5ddc7e4a6d7ea456395db?s=70&d=mm&r=g)](https://fifthperson.com/best-places-to-stash-us-dollars/#comment-675804)
     
-    [Adam Wong](https://fifthperson.com/us-presidential-elections-stock-market-trends/#comment-674205)
+    [Adam Wong](https://fifthperson.com/best-places-to-stash-us-dollars/#comment-675804)
     
-    The 20th century was American, could we see another American...
+    Good one. Thanks for sharing!...
     
-* [![Photo of Jonathan Lloyd](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![Photo of Foo kok jong](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![Photo of Jonathan Lloyd](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    ![Photo of Foo kok jong](https://secure.gravatar.com/avatar/dad4c8e61d47d8012cb14ac645f1254c?s=70&d=mm&r=g)](https://fifthperson.com/best-places-to-stash-us-dollars/#comment-675799)
     
-    ![Photo of Jonathan Lloyd](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    [Foo kok jong](https://fifthperson.com/best-places-to-stash-us-dollars/#comment-675799)
     
-    ![Photo of Jonathan Lloyd](https://secure.gravatar.com/avatar/5175be3cf6b0cfb3c8c9a163bbd739b4?s=70&d=mm&r=g)](https://fifthperson.com/us-presidential-elections-stock-market-trends/#comment-674164)
-    
-    [Jonathan Lloyd](https://fifthperson.com/us-presidential-elections-stock-market-trends/#comment-674164)
-    
-    As Warren Buffett says, "Don't bet against America". Staying...
-    
-* [![Photo of Victor Chng](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![Photo of Victor Chng](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![Photo of Victor Chng](https://secure.gravatar.com/avatar/92e467559fe4e46d6b393d3e47bf211c?s=70&d=mm&r=g)](https://fifthperson.com/temasek-review-2024/#comment-673839)
-    
-    [Victor Chng](https://fifthperson.com/temasek-review-2024/#comment-673839)
-    
-    Hi Jonathan, Thank you for your kind words. Managing a massi...
-    
-* [![Photo of Victor Chng](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![Photo of Victor Chng](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![Photo of Victor Chng](https://secure.gravatar.com/avatar/92e467559fe4e46d6b393d3e47bf211c?s=70&d=mm&r=g)](https://fifthperson.com/temasek-review-2024/#comment-673836)
-    
-    [Victor Chng](https://fifthperson.com/temasek-review-2024/#comment-673836)
-    
-    Hi Ajith, I think it's not fair to say their performance is...
-    
-* [![Photo of Jonathan Lloyd](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![Photo of Jonathan Lloyd](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![Photo of Jonathan Lloyd](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![Photo of Jonathan Lloyd](https://secure.gravatar.com/avatar/5175be3cf6b0cfb3c8c9a163bbd739b4?s=70&d=mm&r=g)](https://fifthperson.com/temasek-review-2024/#comment-673821)
-    
-    [Jonathan Lloyd](https://fifthperson.com/temasek-review-2024/#comment-673821)
-    
-    Victor and Rusmin, I think you need to get get a contract fr...
-    
-* [![Photo of Ajith](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![Photo of Ajith](https://secure.gravatar.com/avatar/161236d280ef04ee06e286529d068917?s=70&d=mm&r=g)](https://fifthperson.com/temasek-review-2024/#comment-673811)
-    
-    [Ajith](https://fifthperson.com/temasek-review-2024/#comment-673811)
-    
-    Victor, This is a very week performance - TSR of 1.6 pct. Ju...
+    another alternative. Local stock brokers like IFast, Phillip...
     
 * [![Photo of Adam Wong](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -401,23 +357,35 @@ Quick Guides
     
     ![Photo of Adam Wong](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![Photo of Adam Wong](https://secure.gravatar.com/avatar/1d16fe1e9cc5ddc7e4a6d7ea456395db?s=70&d=mm&r=g)](https://fifthperson.com/lululemon-crashed-is-there-an-undervalued-opportunity/#comment-672951)
+    ![Photo of Adam Wong](https://secure.gravatar.com/avatar/1d16fe1e9cc5ddc7e4a6d7ea456395db?s=70&d=mm&r=g)](https://fifthperson.com/best-places-to-stash-us-dollars/#comment-675798)
     
-    [Adam Wong](https://fifthperson.com/lululemon-crashed-is-there-an-undervalued-opportunity/#comment-672951)
+    [Adam Wong](https://fifthperson.com/best-places-to-stash-us-dollars/#comment-675798)
     
-    Oh yes, I remember the hype surrounding Under Armour as well...
+    Hey Jonathan, good question. It looks like there's no withho...
     
 * [![Photo of Jonathan Lloyd](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![Photo of Jonathan Lloyd](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    ![Photo of Jonathan Lloyd](https://secure.gravatar.com/avatar/5175be3cf6b0cfb3c8c9a163bbd739b4?s=70&d=mm&r=g)](https://fifthperson.com/best-places-to-stash-us-dollars/#comment-675793)
     
-    ![Photo of Jonathan Lloyd](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    [Jonathan Lloyd](https://fifthperson.com/best-places-to-stash-us-dollars/#comment-675793)
     
-    ![Photo of Jonathan Lloyd](https://secure.gravatar.com/avatar/5175be3cf6b0cfb3c8c9a163bbd739b4?s=70&d=mm&r=g)](https://fifthperson.com/lululemon-crashed-is-there-an-undervalued-opportunity/#comment-672910)
+    I thought that there would be US withholding tax payable on...
     
-    [Jonathan Lloyd](https://fifthperson.com/lululemon-crashed-is-there-an-undervalued-opportunity/#comment-672910)
+* [![Photo of The Fifth Person](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    I'm wondering if Lululemon might be a repeat of Under Armour...
+    ![Photo of The Fifth Person](https://secure.gravatar.com/avatar/4274daf98201ab4870de6da53ec99e83?s=70&d=mm&r=g)](https://fifthperson.com/nvidia-q2-2025-earnings-call/#comment-675686)
+    
+    [The Fifth Person](https://fifthperson.com/nvidia-q2-2025-earnings-call/#comment-675686)
+    
+    Hi Mei Li, Sure! We've dropped you an email about this :)...
+    
+* [![Photo of Mei Li](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![Photo of Mei Li](https://secure.gravatar.com/avatar/7280ae12ff47a3738311b3a53691a1ba?s=70&d=mm&r=g)](https://fifthperson.com/nvidia-q2-2025-earnings-call/#comment-675685)
+    
+    [Mei Li](https://fifthperson.com/nvidia-q2-2025-earnings-call/#comment-675685)
+    
+    Hi Adam, Rusmin and Victor Victor mentioned in the last Alph...
     
 * [![Photo of Adam Wong](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -425,19 +393,35 @@ Quick Guides
     
     ![Photo of Adam Wong](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![Photo of Adam Wong](https://secure.gravatar.com/avatar/1d16fe1e9cc5ddc7e4a6d7ea456395db?s=70&d=mm&r=g)](https://fifthperson.com/how-to-open-a-brokerage-account-in-singapore/#comment-672863)
+    ![Photo of Adam Wong](https://secure.gravatar.com/avatar/1d16fe1e9cc5ddc7e4a6d7ea456395db?s=70&d=mm&r=g)](https://fifthperson.com/how-to-buy-us-shares-in-singapore/#comment-675100)
     
-    [Adam Wong](https://fifthperson.com/how-to-open-a-brokerage-account-in-singapore/#comment-672863)
+    [Adam Wong](https://fifthperson.com/how-to-buy-us-shares-in-singapore/#comment-675100)
     
-    Hi Max, You don't need to be a Singapore resident to open an...
+    Hi NN, this should explain things: https://www.reddit.com/r/...
     
-* [![Photo of md nur](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![Photo of NN](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![Photo of md nur](https://secure.gravatar.com/avatar/153ad4eb830ee54049af900c5467d767?s=70&d=mm&r=g)](https://fifthperson.com/dont-pay-off-your-home-loan-immediately/#comment-672358)
+    ![Photo of NN](https://secure.gravatar.com/avatar/a8c439a74260e12744476ffbb208d781?s=70&d=mm&r=g)](https://fifthperson.com/how-to-buy-us-shares-in-singapore/#comment-675095)
     
-    [md nur](https://fifthperson.com/dont-pay-off-your-home-loan-immediately/#comment-672358)
+    [NN](https://fifthperson.com/how-to-buy-us-shares-in-singapore/#comment-675095)
     
-    good...
+    Hi Adam, I recently used Interactive Brokers to do a manual...
+    
+* [![Photo of greg](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![Photo of greg](https://secure.gravatar.com/avatar/bcc2ef9e4d3433d9c862bfc9edd21691?s=70&d=mm&r=g)](https://fifthperson.com/3-companies-own-us-soft-drink-market/#comment-674805)
+    
+    [greg](https://fifthperson.com/3-companies-own-us-soft-drink-market/#comment-674805)
+    
+    nanoparticles in coke is criminal...
+    
+* [![Photo of Darren Yeo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![Photo of Darren Yeo](https://secure.gravatar.com/avatar/b60f9a3df7cf7d46e57ba880e0feb0cc?s=70&d=mm&r=g)](https://fifthperson.com/warren-buffett-dump-apple/#comment-674759)
+    
+    [Darren Yeo](https://fifthperson.com/warren-buffett-dump-apple/#comment-674759)
+    
+    Hi Jonathan, thank you for sharing your experience and the i...
     
 
 Advertisement
