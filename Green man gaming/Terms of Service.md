@@ -77,17 +77,39 @@ Toggle navigation
 
 Top Searches
 
-[Space Marine](https://www.greenmangaming.com/games/warhammer-40000-space-marine-2-pc/)
+[Erdtree](https://www.greenmangaming.com/games/elden-ring-shadow-of-the-erdtree-pc/)
 
-[Final Fantasy](https://www.greenmangaming.com/games/final-fantasy-xvi-complete-edition-pc/)
+[Ghost of Tsushima](https://www.greenmangaming.com/games/ghost-of-tsushima-directors-cut-pc/)
 
-[Black Myth](https://www.greenmangaming.com/games/black-myth-wukong-pc/)
+[Hitman](https://www.greenmangaming.com/games/hitman-world-of-assassination-pc/)
 
-[Castlevania](https://www.greenmangaming.com/games/castlevania-dominus-collection-pc/)
+[Horizon](https://www.greenmangaming.com/games/horizon-forbidden-west-complete-edition-pc/)
 
-[Dragon Quest](https://www.greenmangaming.com/games/dragon-quest-monsters-the-dark-prince-pc/)
+[God of War Ragnarok](https://www.greenmangaming.com/games/god-of-war-ragnarok-pc/)
 
-[Red Dead](https://www.greenmangaming.com/games/red-dead-redemption-2-pc/)
+[Batman](https://www.greenmangaming.com/games/telltale-batman-shadows-edition-pc/)
+
+[Destiny](https://www.greenmangaming.com/games/destiny-2-the-final-shape-annual-pass-pc/)
+
+[Dave the Diver](https://www.greenmangaming.com/games/dave-the-diver-pc/)
+
+[SaGa](https://www.greenmangaming.com/games/romancing-saga-minstrel-song-remastered-pc/)
+
+[Helldivers](https://www.greenmangaming.com/games/helldivers-2-pc/)
+
+[Fallout](https://www.greenmangaming.com/games/fallout-76-pc/)
+
+[Resident Evil](https://www.greenmangaming.com/games/resident-evil-4-remake-pc/)
+
+[Red Dead](https://www.greenmangaming.com/games/red-dead-redemption-2-rockstar-pc/)
+
+[Days Gone](https://www.greenmangaming.com/games/days-gone-pc/)
+
+[NieR](https://www.greenmangaming.com/games/nierautomata-game-of-the-yorha-edition-pc/)
+
+[Sniper Elite 5](https://www.greenmangaming.com/games/sniper-elite-5-pc/)
+
+[DOOM](https://www.greenmangaming.com/games/doom-eternal-pc/)
 
 You can search things like: Games, Franchises, DLC
 
@@ -107,7 +129,6 @@ You can search things like: Games, Franchises, DLC
     * [Blog](https://www.greenmangaming.com/blog/)
     * [Green Room](https://www.greenmangaming.com/green-room/)
 * [XBOX](https://www.greenmangaming.com/xbox/)
-* [Showcase](https://www.greenmangaming.com/showcase/)
 
 * [All Games](https://www.greenmangaming.com/all-games/)
     
@@ -118,7 +139,6 @@ You can search things like: Games, Franchises, DLC
 * [Community](https://discord.gg/kpyQAYr9vq)
     
 * [XBOX](https://www.greenmangaming.com/xbox/)
-* [Showcase](https://www.greenmangaming.com/showcase/)
 
 You can search things like:
 
@@ -709,6 +729,12 @@ Union Pay
 
 Kakao Pay
 
+### Work with us:
+
+* [Get Your Game On Store](https://corporate.greenmangaming.com/store/)
+* [Get Your Game Published](https://corporate.greenmangaming.com/publishing/)
+* [Need Something Else?](https://corporate.greenmangaming.com/partners/)
+
 * [Facebook](https://www.facebook.com/GreenManGaming)
 
 * [X](http://twitter.com/greenmangaming)
@@ -720,7 +746,7 @@ Kakao Pay
 * [Youtube](https://www.youtube.com/channel/UCbONsRevt2_YIN6sLigGIzQ)
 
 * [About Us](https://www.greenmangaming.com/who-we-are/)
-* [Corporate](https://www.greenmangaming.com/company/)
+* [Careers](https://corporate.greenmangaming.com/careers/)
 * [Redeem a Gift](https://www.greenmangaming.com/gift-redemption/)
 * [Affiliate Partnerships](https://www.greenmangaming.com/affiliates/)
 * [Vouchers](https://www.greenmangaming.com/vouchers/)
