@@ -116,18 +116,18 @@ Supreme caution has been taken to make sure that there are no copyright infringe
 
 #### Random Posts
 
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2036'%3E%3C/svg%3E)
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2025'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/azure-scale-sets-80x36.png.webp)](https://thebackroomtech.com/2018/10/08/how-to-use-azure-vm-scale-sets/ "How to Use Azure VM Scale Sets")[How to Use Azure VM Scale Sets](https://thebackroomtech.com/2018/10/08/how-to-use-azure-vm-scale-sets/ "How to Use Azure VM Scale Sets")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2047'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/copy-port-groups-vmware-80x25.jpg.webp)](https://thebackroomtech.com/2018/04/26/vmware-powercli-copy-port-groups-script/ "VMware PowerCLI – Copy Port Groups Script")[VMware PowerCLI – Copy Port Groups Script](https://thebackroomtech.com/2018/04/26/vmware-powercli-copy-port-groups-script/ "VMware PowerCLI – Copy Port Groups Script")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2032'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/interactive-logon-80x47.png.webp)](https://thebackroomtech.com/2009/04/24/howto-do-not-display-the-name-of-the-user-who-has-locked-a-windows-computer-or-server/ "Howto: Do not display the name of the user who has locked a Windows computer or server")[Howto: Do not display the name of the user who has locked a Windows computer or server](https://thebackroomtech.com/2009/04/24/howto-do-not-display-the-name-of-the-user-who-has-locked-a-windows-computer-or-server/ "Howto: Do not display the name of the user who has locked a Windows computer or server")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2035'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/brocade-driver-search-80x32.png.webp)](https://thebackroomtech.com/2018/09/03/upgrade-brocade-san-switch-firmware-step-by-step/ "Upgrade Brocade SAN Switch Firmware Step-by-Step")[Upgrade Brocade SAN Switch Firmware Step-by-Step](https://thebackroomtech.com/2018/09/03/upgrade-brocade-san-switch-firmware-step-by-step/ "Upgrade Brocade SAN Switch Firmware Step-by-Step")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2070%2052'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/snapshot-manager-80x35.png.webp)](https://thebackroomtech.com/2017/09/11/reduce-size-virtual-machine-disk-vmware-workstation/ "Reduce the Size of Virtual Machine Disk in VMware Workstation")[Reduce the Size of Virtual Machine Disk in VMware Workstation](https://thebackroomtech.com/2017/09/11/reduce-size-virtual-machine-disk-vmware-workstation/ "Reduce the Size of Virtual Machine Disk in VMware Workstation")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2041'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/outlookresendmessge-1-70x52.png.webp)](https://thebackroomtech.com/2010/09/15/resend-email-in-outlook-2003-2007-2010/ "Resend Email in Outlook 2003, 2007, 2010")[Resend Email in Outlook 2003, 2007, 2010](https://thebackroomtech.com/2010/09/15/resend-email-in-outlook-2003-2007-2010/ "Resend Email in Outlook 2003, 2007, 2010")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2045'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/esxi-complete-adapter-list-80x41.png.webp)](https://thebackroomtech.com/2018/08/17/fix-vmware-missing-hba-adapters/ "Fix VMware Missing HBA Adapters")[Fix VMware Missing HBA Adapters](https://thebackroomtech.com/2018/08/17/fix-vmware-missing-hba-adapters/ "Fix VMware Missing HBA Adapters")
+    ![](https://s11921.pcdn.co/wp-content/uploads/coding-80x45.jpg.webp)](https://thebackroomtech.com/2018/06/13/vmware-script-remove-resource-reservations/ "VMware Script – Remove Resource Reservations")[VMware Script – Remove Resource Reservations](https://thebackroomtech.com/2018/06/13/vmware-script-remove-resource-reservations/ "VMware Script – Remove Resource Reservations")
 
 #### Our Publishing Family
 
