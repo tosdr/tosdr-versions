@@ -45,7 +45,7 @@ Remember Me
     * [FAQ](https://archiveofourown.org/faq)
     * [Wrangling Guidelines](https://archiveofourown.org/wrangling_guidelines)
     * [Donate or Volunteer](https://archiveofourown.org/donate)
-* Work Search  tip: austen words:10000-50000 sort:title 
+* Work Search  tip: arthur merlin words>1000 sort:hits 
     
 
 Terms of Service
@@ -600,6 +600,6 @@ Approved: 23 May 2018
     * [Technical Support & Feedback](https://archiveofourown.org/support)
 * #### Development
     
-    * [otwarchive v0.9.373.9](https://github.com/otwcode/otwarchive/commits/v0.9.373.9)
+    * [otwarchive v0.9.375.13](https://github.com/otwcode/otwarchive/commits/v0.9.375.13)
     * [Known Issues](https://archiveofourown.org/known_issues)
     * [GPL-2.0-or-later](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html "View License") by the [OTW](https://transformativeworks.org/ "The Organization for Transformative Works")
