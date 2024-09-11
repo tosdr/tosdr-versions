@@ -71,6 +71,8 @@ Virtual reserves the right to change its Privacy Policy at any time. All changes
 
 [![](https://assets.thevirtualcasino.com/banking/dep-usd.svg)](#)
 
+[![Crypto icon](https://assets.yebocasino.co.za/partners/spinlogic.svg)](https://spinlogicgaming.com/)
+
 Copyright 2024 - All Rights Reserved. We invite you to review the [Terms & Conditions](https://www.thevirtualcasino.com/terms.php) - [Privacy Policy](https://www.thevirtualcasino.com/privacy.php)
 
 Standard Terms & Conditions apply to all available promotions, unless specifically stated otherwise.
