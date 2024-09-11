@@ -25,7 +25,7 @@ These Terms and Conditions (the **"Terms and Conditions"**) apply to our websit
 | UKTV Press website | [Press website cookie policy](https://pressoffice.uktv.co.uk/legal/cookie-policy) |
 | Alibi | [Alibi cookie policy](https://alibi.uktv.co.uk/legal/alibi-cookie-policy) |
 | Gold | [Gold cookie policy](https://gold.uktv.co.uk/legal/gold-cookie-policy) |
-| Eden | [Eden cookie policy](https://corporate.uktv.co.uk/legal/cookie-policy) |
+| Eden | [Eden cookie policy](https://eden.uktv.co.uk/legal/eden-cookie-policy) |
 | U&Us | [U&Us cookie policy](https://uandus.uktv.co.uk/p/cookies) |
 
   
