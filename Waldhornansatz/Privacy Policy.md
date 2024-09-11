@@ -21,13 +21,24 @@ Suchen
 3. [Tipps](https://waldhorn-ansatz.de/index.php/de/waldhorn-tipps) 
 4. Impressum & Datenschutzhinweise 
 
+**Urlaub von Fr. 30.08. bis Do. 19.09.****!**
+
+### **Im Urlaub können gedruckte Bücher nicht verschickt werden.  
+**
+
+### **Das letzte Mal gehe ich am Freitag 30.08. vormittags zur Post, danach kann ich erst wieder ab dem 20.09. verschicken.  
+**
+
+**PDF e-Books sind natürlich auch im Urlaub bestellbar und den Download gebe ich auch im Urlaub frei (kann ein paar Stunden länger dauern als sonst).  
+**
+
 Eine Sammlung von Tipps für das Üben und Spielen ...
 ====================================================
 
 Impressum & Datenschutzhinweise
 -------------------------------
 
-Tobias Heinz [Horn lernen mit Spaß - Erfolg für Jugendliche und Erwachsene](https://waldhorn-ansatz.de/index.php/de/waldhorn-tipps) 19\. April 2017  Zugriffe: 24082
+Tobias Heinz [Horn lernen mit Spaß - Erfolg für Jugendliche und Erwachsene](https://waldhorn-ansatz.de/index.php/de/waldhorn-tipps) 19\. April 2017  Zugriffe: 24679
 
 * [](https://www.facebook.com/sharer.php?u=https://waldhorn-ansatz.de/index.php/de/impressum-datenschutz "Facebook")
 * [](https://twitter.com/share?url=https://waldhorn-ansatz.de/index.php/de/impressum-datenschutz&text=Impressum%20&%20Datenschutzhinweise "X (formerly Twitter)")
