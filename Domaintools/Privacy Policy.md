@@ -117,9 +117,9 @@
         
         Blog
         
-        [Retail Targeted Campaigns—Domain Fraud, Brand Impersonation, and Ponzi Schemes, oh my!](https://www.domaintools.com/resources/blog/retail-targeted-campaigns-domain-fraud-brand-impersonation-and-ponzi-schemes/)
+        [The Resurgence of the “Manipulaters” Team - Breaking HeartSenders](https://www.domaintools.com/resources/blog/the-resurgence-of-the-manipulaters-team-breaking-heartsenders/)
         
-        [Read More](https://www.domaintools.com/resources/blog/retail-targeted-campaigns-domain-fraud-brand-impersonation-and-ponzi-schemes/)
+        [Read More](https://www.domaintools.com/resources/blog/the-resurgence-of-the-manipulaters-team-breaking-heartsenders/)
         
     
 
@@ -245,9 +245,9 @@
         
         Blog
         
-        [Retail Targeted Campaigns—Domain Fraud, Brand Impersonation, and Ponzi Schemes, oh my!](https://www.domaintools.com/resources/blog/retail-targeted-campaigns-domain-fraud-brand-impersonation-and-ponzi-schemes/)
+        [The Resurgence of the “Manipulaters” Team - Breaking HeartSenders](https://www.domaintools.com/resources/blog/the-resurgence-of-the-manipulaters-team-breaking-heartsenders/)
         
-        [Read More](https://www.domaintools.com/resources/blog/retail-targeted-campaigns-domain-fraud-brand-impersonation-and-ponzi-schemes/)
+        [Read More](https://www.domaintools.com/resources/blog/the-resurgence-of-the-manipulaters-team-breaking-heartsenders/)
         
     
 
