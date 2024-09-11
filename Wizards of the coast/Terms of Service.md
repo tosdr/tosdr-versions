@@ -614,7 +614,7 @@ By accessing or using the Services (defined below) you: (i) acknowledge and agre
 
 Brands
 
-* [Dungeons & Dragons](https://dnd.wizards.com/)
+* [Dungeons & Dragons](https://www.dndbeyond.com/)
 * [Duel Masters](https://dm.takaratomy.co.jp/)
 * [Magic: The Gathering](https://magic.wizards.com/en)
 
