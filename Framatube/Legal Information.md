@@ -73,7 +73,7 @@ Pour nous contacter : [https://contact.framasoft.org](https://contact.framasof
 
 ### Co-présidence, direction de la publication
 
-Cyrille Largillier, Gaëtan Chabert
+Cyrille Largillier, Gaëtan Chabert, Maïtané Lenoir
 
 ### Hébergeur
 
