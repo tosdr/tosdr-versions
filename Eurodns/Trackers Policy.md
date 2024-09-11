@@ -30,6 +30,10 @@ SUPPORT
 
 [Terms and Conditions](https://www.eurodns.com/terms-and-conditions)
 
+[Our website uses cookies.](https://www.eurodns.com/use-of-cookies) Some of the cookies used are essential for parts of the site to operate.
+
+Accept
+
 [![Brand](/assets/images/logos-companies/eurodns-logo-blue.svg)](https://www.eurodns.com/)
 
 * [DOMAIN NAMES](https://www.eurodns.com/domain-name-search)
@@ -52,74 +56,67 @@ ENGLISHFRANÇAISDEUTSCHESPAÑOL
 Use of Cookies
 ==============
 
-Our website uses cookies to enhance your browsing experience. Cookies are small text files placed on your device. By continuing to use this website, you consent to our use of cookies. For more detailed information, please continue reading.
+Like many websites, ours uses cookies. Cookies are small text files that we put on your computer, that allow us to provide you with a better browsing experience. By using this website, you agree to let us use cookies. For a more detailed description, please read on.
 
-This policy applies to all users of the EuroDNS Website, regardless of whether they qualify as a EuroDNS Customer under the EuroDNS General Terms and Conditions.
+This notice is applicable to any user of the EuroDNS Website, without regards to them qualifying as a EuroDNS Customer as defined in EuroDNS General Terms and Conditions or not (the "User").
 
-By using the EuroDNS Website with a browser set to accept cookies, you agree to our use of cookies for our services. This notice covers eurodns.com and all its subdomains. Some cookies we use are strictly necessary for the technical functionality and security of the website and its components. These cookies are activated without your consent as they are essential for the website to operate correctly and securely.
+**By using the EuroDNS Website with an Internet browser set to accept the storage of cookies the User confirms its agreement to the use of cookies by EuroDNS for the provision of its services.**
 
-All other cookies, which are not classified as strictly necessary, require the User's consent.
+### About cookies
 
-* * *
-
-### The EuroDNS Website utilises three categories of cookies to provide services and resources during your navigation:
-
-#### 1\. Strictly Necessary Cookies:
-
-These cookies are vital for delivering our website's core functionalities, services, and applications.
-
-#### 2\. Operational Cookies
-
-These cookies improve the performance of our website resources and services and enhance the personalisation of the user experience.
-
-#### 3\. Analytics cookies
-
-These cookies are employed for behavioural advertising and re-marketing based on analytical data.
+Web cookies are text files containing small amounts of information which are downloaded to the users' device when they browse a website. Cookies are then sent back to the originating website on each subsequent visit. Cookies allow websites to recognize the user's device.
 
 * * *
 
-Below is a detailed list of the cookies we use on our website and the purpose of each tracker. We regularly scan our site to keep this list as current as possible. Please note that occasional variations may occur when comparing this list with your scan, as changes can happen depending on the type of browser you are using and your interactions with other websites.
+### EuroDNS Website uses two types of cookies.
 
-**Strictly necessary cookies**
+### 1\. Session cookies
 
-These cookies are set to provide the service, application, or resource requested. They are necessary for your request to be delivered appropriately and for our website to function as expected and securely. These trackers are set to manage essential actions, such as requesting website visual elements, page resources, or user login/sign-out. We can also use these cookies to set up critical functionalities to guarantee the security and efficiency of the service requested, like authentication and load balancer requests.
+These are temporary cookies, which only exist for the period a User accesses the EuroDNS Website and which are automatically deleted from the User's device at the end of each visit.
 
-**Operational cookies**
+Session cookies enable the EuroDNS Website to keep track of the Users' movements within the EuroDNS Website and prevent Users from being asked for the same information endlessly.
 
-These cookies are set by us or by third-party service providers we use to implement additional functionalities or to enhance features and website performance. However, they are not directly related to the service you requested. The services and functionalities implemented by these cookies support features like a live web chat platform, temporary promotion, non-necessary forms, and optional security parameters.
+  
+For example, when a User selects and adds services to its shopping cart, the session cookie remembers the User's selection and keeps the selected items in the shopping cart until the User is ready to check out. Without session cookies, the User's services selection could not be registered and the shopping cart would always remain empty.
 
-**Analytics cookies**
+### 2\. Persistent cookies
 
-Our advertising partners set these cookies to provide behavioural advertising and re-marketing analytical data. They collect any type of browsing information necessary to create profiles and understand user habits to develop an individual and specific advertising routine. The profile created regarding your browsing interest and behaviour is used to customise the ads you see when you access other websites.
+These are cookies which remain on the User's device for a limited period of time after the User's visit to the EuroDNS website. The EuroDNS Website uses three types of persistent cookies.
+
+#### 2.1. Personalisation cookies
+
+Personalisation cookies enable the EuroDNS Website to remember the User's preferences for their next visit. For example, on the User's first visit to the EuroDNS Website, the language will be set to English and the currency to Euros by default. If the User selects another language and/or currency during this visit, the personalisation cookie will store this information on the User's device and the EuroDNS Website will automatically be presented to the User in its preferred language and currency during their subsequent visit.
+
+#### 2.2. Performance cookies
+
+Performance cookies are used to improve the EuroDNS Website navigation and security by analysing anonymised information about the User such as their browser type, browser plugins version, operating system, ...
+
+For example, if the information registered by the Performance cookies reveals that a great number of users are relying on a browser not compatible with a EuroDNS Website functionality, EuroDNS will adapt this functionality to make it compatible with such browser. The EuroDNS Website uses the Google Analytics Cookie for this purpose.
+
+#### 2.3. Retargeting cookies
+
+Retargeting cookies are used to serve ads specific to the User and their interests. The ads served will be targeted based on the User's browsing history. For example, if the User has visited the EuroDNS Website without realising a purchase of services, the User may see EuroDNS advertisements when visiting a non-related site.
+
+Retargeting cookies use non-personally identifiable information and don't track personal information about the User. The EuroDNS Website uses the DoubleClick DART Cookie for this purpose.
 
 * * *
 
 ### Managing cookies
 
-You can manage/delete cookies as you wish — for details, see [aboutcookies.org​​](https://aboutcookies.org/)
+By enabling cookies the User will receive the optimal experience from the EuroDNS Website. Nevertheless, it shall be the User's sole choice to accept their use. The User is duly informed that by blocking all cookies they won't be able to purchase any service from EuroDNS and some part of the Website may become inaccessible.
 
-**Removing cookies from your device**
+* * *
 
-Clearing your browser's browsing history will delete all cookies on your device and remove cookies from all websites you have visited.
+### Cookies and browser settings
 
-You may also lose some saved information (e.g. saved login details and site preferences).
-
-**Managing site-specific cookies**
-
-For more detailed control over site-specific cookies, check your preferred browser's privacy and cookie settings.
-
-**Blocking cookies**
-
-You can set most modern browsers to prevent cookies from being placed on your device, but you may have to adjust some preferences manually whenever you visit a site. Some services and functionalities need cookies to work correctly (e.g. logging in to your account).
-
-[](https://tools.google.com/dlpage/gaoptout)
+The Help feature on most browsers details the procedure to prevent the use and acceptation of cookies. More information about the management of cookies can also be found on the applicable browser manufacturer website. Additionally, the User may also opt-out of retargeting cookies used by EuroDNS by installing the tool available at this address: [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout)
 
 #### Latest blog articles
 
-* 05.09.2024[Plesk Hosting: The Ultimate Solution for Educational Websites](https://www.eurodns.com/blog/plesk-hosting-for-education)
-* 29.08.2024[5 Email Marketing Tips to Boost Your Ecommerce Sales](https://www.eurodns.com/blog/email-marketing-tips-boost-ecommerce-sales)
-* 27.08.2024[Price change for multiple domain extensions as of 1st September](https://www.eurodns.com/blog/price-change-for-com-xyz)
-* 22.08.2024[How to Manage a High-Traffic E-commerce Site with Plesk Hosting?](https://www.eurodns.com/blog/manage-high-traffic-ecommerce-with-plesk)
+* 25.07.2024[Industry-Specific Advantages of Shared Web Hosting](https://www.eurodns.com/blog/shared-web-hosting-vs-other-hosting-whats-best-for-your-business)
+* 19.07.2024[12 Best Domain Extensions for the Healthcare Industry](https://www.eurodns.com/blog/best-domains-healthcare)
+* 18.07.2024[Top 4 Benefits of Using a Custom Email Domain](https://www.eurodns.com/blog/benefits-of-personalised-domain-email)
+* 17.07.2024[What is a Domain Name Redirect or URL Forwarding? How does it work?](https://www.eurodns.com/blog/redirect-domain-names-with-url-forwarding)
 
 #### Domain Name Discounts
 
