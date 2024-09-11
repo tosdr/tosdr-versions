@@ -1,6 +1,6 @@
 [Skip to content](#content)
 
-[0 Cart](https://www.wmfha.org/products/checkout) [Join](#join-modal) [Login](https://www.wmfha.org/login)
+[Cart](https://www.wmfha.org/products/checkout) [Join](#join-modal) [Login](https://www.wmfha.org/login)
 
 [![ Washington Multi-Family Housing Association Logo](https://assets.noviams.com/novi-file-uploads/wmfha/structure/untitled-design-3.png)](https://www.wmfha.org/)
 
@@ -27,6 +27,7 @@
     * [Signature Events](https://www.wmfha.org/wmfha-signature-events)
     * [Emerald Awards 2024](https://www.wmfha.org/emerald-awards-2024)
     * [EdCon](https://www.wmfha.org/edcon)
+        * [EdCon 2025 Speaker Application Info Page](https://www.wmfha.org/edcon-2025-speaker-application-info-page)
     * [Tapas & Topics](https://www.wmfha.org/Tapas-and-topics)
 * [Education](https://www.wmfha.org/events/education)
     * [Upcoming Classes](https://www.wmfha.org/events/education)
@@ -58,7 +59,7 @@
     * [Click & Lease](https://www.naahq.org/click-and-lease?gclid=CjwKCAjw_L6LBhBbEiwA4c46urggBq8VP0R42S2xwIvfUcTrkkGzIy_-JFQPyBtgA_fOo4v7vwBHQRoCgkwQAvD_BwE)
     * [Blog](https://www.wmfha.org/news/)
 
-[**0 Items** in your cart View Cart](https://www.wmfha.org/products/checkout)
+[in your cart View Cart](https://www.wmfha.org/products/checkout)
 
 [![ Washington Multi-Family Housing Association Logo](https://assets.noviams.com/novi-file-uploads/wmfha/structure/untitled-design-3.png)](https://www.wmfha.org/)[](javascript:void(0);)
 
@@ -83,6 +84,7 @@
     * [Signature Events](https://www.wmfha.org/wmfha-signature-events)
     * [Emerald Awards 2024](https://www.wmfha.org/emerald-awards-2024)
     * [EdCon](https://www.wmfha.org/edcon)
+        * [EdCon 2025 Speaker Application Info Page](https://www.wmfha.org/edcon-2025-speaker-application-info-page)
     * [Tapas & Topics](https://www.wmfha.org/Tapas-and-topics)
 * [Education](https://www.wmfha.org/events/education)
     * [Upcoming Classes](https://www.wmfha.org/events/education)
@@ -115,6 +117,8 @@
     * [Blog](https://www.wmfha.org/news/)
 
 * [Contact](https://www.wmfha.org/contact-us)
+* [](https://www.wmfha.org/search)
+    
 * [Join](#join-modal) [Login](https://www.wmfha.org/login)
 
 Legal Notices
