@@ -13,7 +13,7 @@
     * [SecureMyEmail Dashboard](https://www.securemyemail.com/account/dashboard)
     * [VPN Dashboard](https://my.personalvpn.com/)
 
-[![SecureMyEmail](https://cdn.securemyemail.com/_next/public/images/sme-logo-white.svg)](https://www.securemyemail.com/)[![SecureMyEmail](https://cdn.securemyemail.com/_next/public/images/sme-logo-updated.svg)](https://www.securemyemail.com/)
+[![SecureMyEmail](/images/sme-logo-white.svg)](https://www.securemyemail.com/)[![SecureMyEmail](https://cdn.securemyemail.com/_next/public/images/sme-logo-updated.svg)](https://www.securemyemail.com/)
 
 * [Features](https://www.securemyemail.com/features-advantages/)
 * [Business](https://www.securemyemail.com/encrypted-email-for-business/)
@@ -24,7 +24,7 @@
 * [Support](https://www.securemyemail.com/support/)
 * [Contact](https://www.securemyemail.com/contact/)
 * [Downloads](https://www.securemyemail.com/encrypted-email-downloads/)
-* [Pricing](https://www.witopia.com/pricing)
+* [Pricing ![logo](/images/arrow_outward.svg)](https://www.witopia.com/pricing) 
 
 [![SecureMyEmail](https://cdn.securemyemail.com/_next/public/images/SecureMyEmail_Logo_updated.svg)](https://www.securemyemail.com/)MenuMenuMenu
 
@@ -139,6 +139,17 @@ GDPR Compliance
 
 We adhere to the standards mandated by the European General Data Protection Regulation (GDPR). If you have any questions regarding this policy, or wish to request deletion of archived account data, please contact us at [gdpr-officer@securemyemail.com.](mailto:gdpr-officer@securemyemail.com)
 
+![securemyemail](/images/footer-logo.svg)
+
+* [![Facebook](/images/ic-fb.svg)](https://www.facebook.com/SecureMyEmail)
+* [![Twitter](/images/ic-tw.svg)](https://twitter.com/SecureMyEmail)
+* [![Youtube](/images/ic-yt.svg)](https://twitter.com/SecureMyEmail)
+* [![Instagram](/images/ic-ins.svg)](https://twitter.com/SecureMyEmail)
+
+#### Subscribe
+
+Subscribe
+
 #### Products
 
 * [SecureMyEmail](https://www.securemyemail.com/)
@@ -170,17 +181,5 @@ We adhere to the standards mandated by the European General Data Protection Regu
 * [Blog](https://www.securemyemail.com/blog)
 * [Media and Press Kit](https://www.witopia.com/witopia-media-kit/)
 * [Refer a Friend](https://my.personalvpn.com/account/settings/referral_program)
-
-#### Social
-
-##### SecureMyEmail
-
-* [![Facebook](https://cdn.securemyemail.com/_next/public/images/icon-social-facebook.svg)](https://www.facebook.com/SecureMyEmail)
-* [![Twitter](https://cdn.securemyemail.com/_next/public/images/icon-social-twitter.svg)](https://twitter.com/SecureMyEmail)
-
-##### Witopia
-
-* [![Facebook](https://cdn.securemyemail.com/_next/public/images/icon-social-facebook.svg)](https://www.facebook.com/WiTopia)
-* [![Twitter](https://cdn.securemyemail.com/_next/public/images/icon-social-twitter.svg)](https://twitter.com/WiTopia)
 
 Copyright © 2024 Witopia, Inc. All rights reserved.
