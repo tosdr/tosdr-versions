@@ -1,14 +1,6 @@
-[skip content](#content)
+[skip to content](#content)
 
 [WEBTOON](https://www.webtoons.com/en/)
-
-[WEBTOON SHOP](https://shop.webtoon.com/) [Creators 101](https://www.webtoons.com/en/creators101/webtoon-canvas) [Publish](#) [Log In](#)
-
-[Close the Login window](# "Close")
-
-[Search](#)
-
- _Search by Series Title or Creator_ _Search_ [Delete](#) _|_ [Close](#)
 
 MENU
 
@@ -16,6 +8,14 @@ MENU
 * [GENRES](https://www.webtoons.com/en/genres)
 * [POPULAR](https://www.webtoons.com/en/popular)
 * [CANVAS](https://www.webtoons.com/en/canvas)
+
+[WEBTOON SHOP](https://shop.webtoon.com/) [Creators 101](https://www.webtoons.com/en/creators101/webtoon-canvas) [Publish](#) Log In
+
+Close the Login window
+
+Search
+
+ _Search by Series Title or Creator_ _Search_ [Delete](#) _|_ [Close](#)
 
 * * *
 
@@ -1330,9 +1330,11 @@ Download WEBTOON now!
 * |
 * [Do Not Sell or Share My Personal Information](https://www.webtoons.com/en/terms/dnsmpi)
 * |
+* [Career](https://jobs.lever.co/wattpad)
+* |
 * [Contact](https://www.webtoons.com/en/contact)
 * |
-* [](#)
+* change language
     * [English](#)
     * [中文 (繁體)](#)
     * [ภาษาไทย](#)
