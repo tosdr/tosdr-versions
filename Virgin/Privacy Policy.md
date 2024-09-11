@@ -350,6 +350,8 @@ Here are some examples of the categories and types of information we might have 
 
 * **Booking details**: We collect information about bookings you’ve made, like when you're travelling, where you're heading, how many people you’re travelling with and your email address. 
     
+* **Railcards:** We collect the information that is needed (name, email address, photograph, age) when you buy a Railcard through Virgin Trains Ticketing.
+    
 * **How you use our services**: We pay attention to the device you use to access our services, what you search for and other browsing behaviour. 
     
 * **Your marketing preferences**: If you agree to receive marketing from us, we'll keep track of your preferences. 
@@ -375,6 +377,13 @@ Here are some examples of how we use your information: 
 * **For marketing.** If you’ve agreed to it, we'll send you details of discounts, offers and more from Virgin Trains Ticketing. 
     
 * **Cookies and other identifiers.** We use these tools when you visit our digital platforms to help us understand how you use the Virgin Trains Ticketing app, to optimise user experiences, for advertising and to personalise our services. **Check out section 5 below for more information on how we use** **cookies and online identifiers.** 
+    
+
+**Exchanging information with partners and suppliers**
+
+* We work with a number of suppliers that mean we can keep things on track whether that's to take payment for your tickets or to help us, help you get great offers. Where they process your information they're only doing that for us and not for themselves and are contractually obliged to take as good care of your information as we do.
+    
+* When you by a Railcard through Virgin Trains Ticketing we share information with ATOC Ltd. The contract for your Railcard is with ATOC Ltd and they use the information that you provide when you apply for the Railcard for verification, fraud prevention and to supply you with the Railcard. ATOC act as an independent Data Controller and you can learn more about their Privacy Policy [here](https://www.railcard.co.uk/privacy-notice/).
     
 
 Section 4 - Membership of the Virgin Atlantic Flying Club Programme
