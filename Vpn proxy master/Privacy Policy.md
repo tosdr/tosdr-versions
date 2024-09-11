@@ -1,6 +1,6 @@
 **Last updated:28 September, 2020**
 
-We, LEMON CLOVE PTE. LIMITED and its affiliates, are committed to protecting your privacy. We limit the collection of your data. We only collect data that is required to maintain the service.
+We, Lemon Clove PTE. LIMITED and its affiliates, are committed to protecting your privacy. We limit the collection of your data. We only collect data that is required to maintain the service.
 
 This Privacy Policy describes how we collect, use, and share your data in connection with your use of our websites (including www.vpnproxymaster.com), services, and applications (collectively, **"VPN Proxy Master** "). The Privacy Policy does not apply to data that you send and/or receive from third party websites that you may process through VPN Proxy Master.
 
