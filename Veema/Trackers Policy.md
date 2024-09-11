@@ -4,7 +4,7 @@
     * [CPD Programmes](https://veema.co.uk/teacher-cpd-programmes/)
     * [Blended Programmes/ Train The Trainer Routes](https://veema.co.uk/blended-programmes/)
     * [Accredited Courses](https://veema.co.uk/teacher-cpd-programmes/#1624293010852-11a082d8-c621)
-    * [Safeguarding INSET Packs 2023/24](https://veema.co.uk/safeguarding-inset-pack-2023-24/)
+    * [Safeguarding INSET Packs 2024-2025](https://veema.co.uk/https-veema-co-uk-membership-dashboard/)
     * [Coaching Packages](https://veema.co.uk/school-leadership-coaching-services/)
 * [SCHOOL IMPROVEMENT](https://veema.co.uk/school-improvement-services/)
 * [ONLINE ACADEMY](#)
@@ -40,7 +40,7 @@ No products in the basket.
     * [CPD Programmes](https://veema.co.uk/teacher-cpd-programmes/)
     * [Blended Programmes/ Train The Trainer Routes](https://veema.co.uk/blended-programmes/)
     * [Accredited Courses](https://veema.co.uk/teacher-cpd-programmes/#1624293010852-11a082d8-c621)
-    * [Safeguarding INSET Packs 2023/24](https://veema.co.uk/safeguarding-inset-pack-2023-24/)
+    * [Safeguarding INSET Packs 2024-2025](https://veema.co.uk/https-veema-co-uk-membership-dashboard/)
     * [Coaching Packages](https://veema.co.uk/school-leadership-coaching-services/)
 * [SCHOOL IMPROVEMENT](https://veema.co.uk/school-improvement-services/)
 * [ONLINE ACADEMY](#)
@@ -70,7 +70,7 @@ No products in the basket.
     * [CPD Programmes](https://veema.co.uk/teacher-cpd-programmes/)
     * [Blended Programmes/ Train The Trainer Routes](https://veema.co.uk/blended-programmes/)
     * [Accredited Courses](https://veema.co.uk/teacher-cpd-programmes/#1624293010852-11a082d8-c621)
-    * [Safeguarding INSET Packs 2023/24](https://veema.co.uk/safeguarding-inset-pack-2023-24/)
+    * [Safeguarding INSET Packs 2024-2025](https://veema.co.uk/https-veema-co-uk-membership-dashboard/)
     * [Coaching Packages](https://veema.co.uk/school-leadership-coaching-services/)
 * [SCHOOL IMPROVEMENT](https://veema.co.uk/school-improvement-services/)
 * [ONLINE ACADEMY](#)
@@ -94,7 +94,7 @@ No products in the basket.
     * [CPD Programmes](https://veema.co.uk/teacher-cpd-programmes/)
     * [Blended Programmes/ Train The Trainer Routes](https://veema.co.uk/blended-programmes/)
     * [Accredited Courses](https://veema.co.uk/teacher-cpd-programmes/#1624293010852-11a082d8-c621)
-    * [Safeguarding INSET Packs 2023/24](https://veema.co.uk/safeguarding-inset-pack-2023-24/)
+    * [Safeguarding INSET Packs 2024-2025](https://veema.co.uk/https-veema-co-uk-membership-dashboard/)
     * [Coaching Packages](https://veema.co.uk/school-leadership-coaching-services/)
 * [SCHOOL IMPROVEMENT](https://veema.co.uk/school-improvement-services/)
 * [ONLINE ACADEMY](#)
@@ -117,9 +117,9 @@ No products in the basket.
 Login
 -----
 
-Username or email address \* 
+Username or email address \*Required 
 
-Password \* 
+Password \*Required 
 
  Remember me  Log in
 
@@ -128,7 +128,7 @@ Password \*
 Register
 --------
 
-Email address \* 
+Email address \*Required 
 
 A link to set a new password will be sent to your email address.
 
@@ -219,28 +219,21 @@ N8 7RF
 
 ### Latest Tweets
 
+[August 18, 2024](https://twitter.com/costa_veemaedu/status/1825208908228514208)
+
+[](https://twitter.com/costa_veemaedu/status/1825208908228514208)
+
+[Our online PD events start Aug 27 at 1:30 PM UK time! Join Dr Julia Batters for "Launching into the](https://twitter.com/costa_veemaedu/status/1825208908228514208)[...](#) New School Year," then catch me on Aug 29 for "Effective CPD Models for Schools" from my new book.  
+  
+Hooray, we're back,@VeemaEdu.  
+  
+https://veema.co.uk/forthcoming-events/
+
 [June 10, 2024](https://twitter.com/veemaedu/status/1800129444902039997)
 
 [](https://twitter.com/veemaedu/status/1800129444902039997)
 
 [Don't miss out on tomorrow's webinar! There's still time to register and learn something new. Sign](https://twitter.com/veemaedu/status/1800129444902039997) [...](#)up below 👇🏻.
-
-[June 9, 2024](https://twitter.com/veemaedu/status/1799742734787575852)
-
-[](https://twitter.com/veemaedu/status/1799742734787575852)
-
-[#HappySunday! Our final #CPD webinars of the academic year are coming up in the following weeks.](https://twitter.com/veemaedu/status/1799742734787575852) [...](#)Time flies!  
-  
-If you'd like to join us, follow the link below.  
-  
-https://veema.co.uk/forthcoming-events/  
-  
-#internationalschools  
-#COBIS  
-#BSME  
-#FOBISIA  
-  
-Have a great week! Team Veema.
 
 © Copyright 2022 by Veema Limited. Company Registration No. 07799937. All Rights Reserved.
 
