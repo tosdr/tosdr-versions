@@ -9,10 +9,10 @@ Please confirm your location and we’ll send you to the appropriate site!
 
 [No, I'm not in Australia](#)
 
-X
+![Dismiss modal icon](https://cdn.prod.website-files.com/640f69143ec11b21d42015c6/66cc892582cc0cb8c1782479_x%20icon.svg "Close")![Card showing 'One free month of YNAB.'](https://cdn.prod.website-files.com/640f69143ec11b21d42015c6/66d76202445deb92bf908584_ReferralCardWithSparks-Spendful.png)
 
-\[Sponsor Name\]
-----------------
+A friend
+--------
 
 sent you a free month of YNAB!
 ------------------------------
@@ -27,7 +27,11 @@ Start with our 34-day free trial and you'll both get an **additional free month*
 
 Take your time and get to know us! Your free month is waiting for you.
 
-[**Accept Your Invitation!**](https://www.youneedabudget.com/sign-up)
+![Information icon](https://cdn.prod.website-files.com/640f69143ec11b21d42015c6/66cc856a639ffc62d18c4e6e_info_icon%20(1).svg "You’ll start with our 34-day free trial, and earn an additional free month when you subscribe!")
+
+[**Accept Your Invitation!**
+
+![Right arrow](https://cdn.prod.website-files.com/640f69143ec11b21d42015c6/66cc86a07188261065878076_right_arrow_icon%20(1).svg)](https://www.youneedabudget.com/sign-up)
 
 [![It's pronounced Why-NAB](https://cdn.prod.website-files.com/640f69143ec11b21d42015c6/64870a06e2f95839889cc1a5_Logo-Buttermilk.png)
 
@@ -43,7 +47,7 @@ It's pronounced ”why-nab”](https://www.youneedabudget.com/)
     
 * Share YNAB
     
-    [Refer A Friend](https://www.youneedabudget.com/referral-program)[Gift a YNAB Subscription](https://www.youneedabudget.com/give-ynab)[Teach Your Community](https://www.youneedabudget.com/teach-ynab)[Affiliate Program](https://www.youneedabudget.com/partners/affiliate-program)
+    [Refer A Friend](https://www.youneedabudget.com/referral-program)[Gift a YNAB Subscription](https://www.youneedabudget.com/give-ynab)[Refer Your Employer](https://www.youneedabudget.com/wellness/share)[Teach Your Community](https://www.youneedabudget.com/teach-ynab)[Affiliate Program](https://www.youneedabudget.com/partners/affiliate-program)
     
 * [Pricing](https://www.youneedabudget.com/pricing)
 * [For Employers](https://www.youneedabudget.com/wellness)
@@ -68,7 +72,7 @@ It's pronounced ”why-nab”](https://www.youneedabudget.com/)
     
 * Share YNAB
     
-    [Refer a Friend](https://www.youneedabudget.com/referral-program)[Gift a YNAB Subscription](https://www.youneedabudget.com/give-ynab)[Teach Your Community](https://www.youneedabudget.com/teach-ynab)[Affiliate Program](https://www.youneedabudget.com/partners/affiliate-program)
+    [Refer a Friend](https://www.youneedabudget.com/referral-program)[Gift a YNAB Subscription](https://www.youneedabudget.com/give-ynab)[Refer Your Employer](https://www.youneedabudget.com/wellness/share)[Teach Your Community](https://www.youneedabudget.com/teach-ynab)[Affiliate Program](https://www.youneedabudget.com/partners/affiliate-program)
     
 * [Log In](https://app.ynab.com/users/sign_in)
     
@@ -159,7 +163,7 @@ If you need to get our attention about anything else security related, please do
 
 ![YNAB Tree Logo](https://cdn.prod.website-files.com/640f69143ec11b21d42015c6/667c60faafec2b8470e5c372_20th_anniversary_logo_partial%20(1).svg)
 
-[Facebook Icon](https://www.facebook.com/ynabofficial)[The artist formerly known as Twitter](https://twitter.com/ynab)[Instagram Icon](https://www.instagram.com/youneedabudget/)[Pinterest Icon](https://www.pinterest.com/ynabofficial/)[TikTok Icon](https://www.tiktok.com/@ynabofficial)[YouTube Icon](https://www.youtube.com/@YNABofficial)[Apple Podcasts Icon](https://podcasts.apple.com/ca/podcast/you-need-a-budget-ynab/id477248343)[RSS Icon](https://www.youneedabudget.com/blog/rss.xml)
+[Facebook Icon](https://www.facebook.com/ynabofficial)[The artist formerly known as Twitter](https://twitter.com/ynab)[Instagram Icon](https://www.instagram.com/ynab.official/)[Pinterest Icon](https://www.pinterest.com/ynabofficial/)[TikTok Icon](https://www.tiktok.com/@ynabofficial)[YouTube Icon](https://www.youtube.com/@YNABofficial)[Apple Podcasts Icon](https://podcasts.apple.com/ca/podcast/you-need-a-budget-ynab/id477248343)[RSS Icon](https://www.youneedabudget.com/blog/rss.xml)
 
 Copyright © 2024, YNAB. All Rights Reserved.
 
