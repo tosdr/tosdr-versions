@@ -29,8 +29,8 @@ We appreciate your patience. In the meantime, please refer to our [Resource Dire
 * [Services & Resources](https://washingtonautismalliance.org/get-help-now/)
     * [Join WAA](https://washingtonautismalliance.org/join-waa/)
     * [Services](https://washingtonautismalliance.org/services/)
-    * [Find and Advocate](https://washingtonautismalliance.org/advocacy-and-legal-services/)
-    * [Online Academy](https://washingtonautismalliance.org/training-workshops/)
+    * [Advocacy & Legal Services](https://washingtonautismalliance.org/advocacy-and-legal-services/)
+    * [Online Academy](https://washingtonautismalliance.org/online-academy/)
     * [Insurance Portal](https://washingtonautismalliance.org/insurance-portal-toc/)
     * [Special Education Legal Library](https://washingtonautismalliance.org/training-portal/special-education-resources/home/)
     * [Resource Directory](https://washingtonautismalliance.org/resources/)
@@ -57,8 +57,8 @@ We appreciate your patience. In the meantime, please refer to our [Resource Dire
 * [Services & Resources](https://washingtonautismalliance.org/get-help-now/)
     * [Join WAA](https://washingtonautismalliance.org/join-waa/)
     * [Services](https://washingtonautismalliance.org/services/)
-    * [Find and Advocate](https://washingtonautismalliance.org/advocacy-and-legal-services/)
-    * [Online Academy](https://washingtonautismalliance.org/training-workshops/)
+    * [Advocacy & Legal Services](https://washingtonautismalliance.org/advocacy-and-legal-services/)
+    * [Online Academy](https://washingtonautismalliance.org/online-academy/)
     * [Insurance Portal](https://washingtonautismalliance.org/insurance-portal-toc/)
     * [Special Education Legal Library](https://washingtonautismalliance.org/training-portal/special-education-resources/home/)
     * [Resource Directory](https://washingtonautismalliance.org/resources/)
@@ -126,47 +126,37 @@ If you believe that any information we are holding on you is incorrect or incomp
 * Upcoming Events
     ---------------
     
-    August 2024
+    October 2024
     
     [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAA4AQAAAAA3bDzRAAAAAnRSTlMAAHaTzTgAAAASSURBVDjLY2AYBaNgFIwC2gAABGAAAe2S0E4AAAAASUVORK5CYII=)
     
-    ![](https://washingtonautismalliance.org/wp-content/uploads/2024/06/MFIEPN-150x56.jpg)](https://washingtonautismalliance.org/events/my-first-iep-workshop-2/?occurrence=2024-08-01)
+    ![](https://washingtonautismalliance.org/wp-content/uploads/2024/07/SPA-Virtual-Support-Group-Facebook-Cover-1-150x56.png)](https://washingtonautismalliance.org/events/high-masking-autistic-students-monthly-virtual-parent-support-sessions/?occurrence=2024-10-09)
     
-    Aug 01 2024
+    Oct 09 2024
     
-    #### [MY FIRST IEP WORKSHOP (An Intro to Special Education)](https://washingtonautismalliance.org/events/my-first-iep-workshop-2/?occurrence=2024-08-01)
+    #### [High-Masking Autistic Students: Monthly Virtual Parent Support Sessions](https://washingtonautismalliance.org/events/high-masking-autistic-students-monthly-virtual-parent-support-sessions/?occurrence=2024-10-09)
     
     Zoom https://zoom.us (please download the app and check your internet connectivity)
     
-    September 2024
+    [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAA9AQAAAABnoa1iAAAAAnRSTlMAAHaTzTgAAAASSURBVDjLY2AYBaNgFIyCoQsABMQAAeRw1DoAAAAASUVORK5CYII=)
     
-    [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAAZAQAAAAD7nOpCAAAAAnRSTlMAAHaTzTgAAAAOSURBVBjTY2AYBSMNAAAB9AAB1Ed7KgAAAABJRU5ErkJggg==)
+    ![](https://washingtonautismalliance.org/wp-content/uploads/2024/07/Pictureqwe-150x61.png)](https://washingtonautismalliance.org/events/special-education-sep2024/?occurrence=2024-10-12)
     
-    ![](https://washingtonautismalliance.org/wp-content/uploads/2024/04/GALA-2024-Sponsorship-form-header-8.5-×-1.5-in-1300-×-215-px-1-150x25.png)](https://washingtonautismalliance.org/events/revealing-possibilities-gala/?occurrence=2024-09-07)
+    Oct 12 2024
     
-    Sep 07 2024
+    #### [Blueprints to Special Education (How to build effective school services)](https://washingtonautismalliance.org/events/special-education-sep2024/?occurrence=2024-10-12)
     
-    #### [Revealing Possibilities Gala A Night of Transforming Lives](https://washingtonautismalliance.org/events/revealing-possibilities-gala/?occurrence=2024-09-07)
+    Zoom https://zoom.us (please download the app and check your internet connectivity)
     
-    Hideaway Cellars
+    November 2024
     
-    [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAA4AQAAAAA3bDzRAAAAAnRSTlMAAHaTzTgAAAASSURBVDjLY2AYBaNgFIwC2gAABGAAAe2S0E4AAAAASUVORK5CYII=)
+    [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAABDAQAAAABWicHTAAAAAnRSTlMAAHaTzTgAAAAUSURBVDjLY2AYBaNgFIyCUUAqAAAFPAABh2z/ogAAAABJRU5ErkJggg==)
     
-    ![](https://washingtonautismalliance.org/wp-content/uploads/2024/07/SPA-Virtual-Support-Group-Facebook-Cover-150x56.png)](https://washingtonautismalliance.org/events/high-masking-autistic-students-monthly-virtual-parent-support-sessions/?occurrence=2024-09-09&time=1725901200)
+    ![](https://washingtonautismalliance.org/wp-content/uploads/2024/08/Understanding-Applied-Behavior-AnalysisABA-Medium-Banner-US-Landscape-1-150x67.jpeg)](https://washingtonautismalliance.org/events/42078/?occurrence=2024-11-14)
     
-    Sep 09 2024
+    Nov 14 2024
     
-    #### [High-Masking Autistic Students: Monthly Virtual Parent Support Sessions](https://washingtonautismalliance.org/events/high-masking-autistic-students-monthly-virtual-parent-support-sessions/?occurrence=2024-09-09&time=1725901200)
-    
-    Microsoft Teams
-    
-    [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAA4AQAAAAA3bDzRAAAAAnRSTlMAAHaTzTgAAAASSURBVDjLY2AYBaNgFIwC2gAABGAAAe2S0E4AAAAASUVORK5CYII=)
-    
-    ![](https://washingtonautismalliance.org/wp-content/uploads/2024/07/Online-Academy-BP-Special-Education-Event-Cover-2-150x56.png)](https://washingtonautismalliance.org/events/special-education-sep2024/?occurrence=2024-09-21)
-    
-    Sep 21 2024
-    
-    #### [Blueprints to Special Education (How to build effective school services)](https://washingtonautismalliance.org/events/special-education-sep2024/?occurrence=2024-09-21)
+    #### [Understanding Applied Behavior Analysis (ABA)](https://washingtonautismalliance.org/events/42078/?occurrence=2024-11-14)
     
     Zoom https://zoom.us (please download the app and check your internet connectivity)
     
@@ -194,7 +184,7 @@ If you believe that any information we are holding on you is incorrect or incomp
 
 Search for:  
 
-#### ABOUT WAAA
+#### ABOUT WAA
 
 * [Who We Are](https://washingtonautismalliance.org/who-we-are/)
 * [Why WAA? (The Challenges)](https://washingtonautismalliance.org/why-waa-the-challenges/)
@@ -210,7 +200,7 @@ Search for:
 * [Services](https://washingtonautismalliance.org/services/)
 * [Advocacy & Legal Services](https://washingtonautismalliance.org/advocacy-and-legal-services/)
 * [Events](https://washingtonautismalliance.org/events/)
-* [Online Academy](https://washingtonautismalliance.org/training-workshops/)
+* [Online Academy](https://washingtonautismalliance.org/online-academy/)
 * [Resource Directory](https://washingtonautismalliance.org/resources/)
 * [Contact Us](https://washingtonautismalliance.org/contact/)
 
@@ -245,9 +235,9 @@ Kirkland, WA 98033
 
 #### LATEST POSTS
 
+* [National Relaxation Day: A Vital Reminder for Parents of Kids with Disabilities](https://washingtonautismalliance.org/national-relaxation-day-a-vital-reminder-for-parents-of-kids-with-disabilities/ "National Relaxation Day: A Vital Reminder for Parents of Kids with Disabilities")
+* [National Relaxation Day - Helping an autistic individual find relaxation](https://washingtonautismalliance.org/national-relaxation-day-helping-an-autistic-individual-find-relaxation/ "National Relaxation Day - Helping an autistic individual find relaxation")
 * [Shayan's Settlement:13th Anniversary](https://washingtonautismalliance.org/shayans-settlement13th-anniversary/ "Shayan's Settlement:13th Anniversary")
-* [Strategies for Transitioning Your Child Back to School](https://washingtonautismalliance.org/strategies-for-transitioning-your-child-back-to-school/ "Strategies for Transitioning Your Child Back to School")
-* [Happy Birthday to the Americans with Disabilities Act (ADA)](https://washingtonautismalliance.org/happy-birthday-to-the-americans-with-disabilities-act-ada/ "Happy Birthday to the Americans with Disabilities Act (ADA)")
 
 #### QUICK LINKS
 
