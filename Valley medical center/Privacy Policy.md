@@ -107,8 +107,6 @@ Our mailing address is:
 Box 50010  
 Renton, WA 98055-5714  
   
-**Patient Relations can be reached [by e-mail](mailto:patientrelations@valleymed.org) or by phone at 425.690.3403.**  
-  
 For visitors to our website, our web server automatically recognizes the consumer's domain name, but where possible, not the e-mail address.  
   
 We collect the domain name of visitors to our web page, the e-mail addresses of those who communicate with us by e-mail, information on what pages consumers access or visit, and information volunteered by the consumer, such as: survey information, site registrations, name, address and/or phone number.  
@@ -118,7 +116,9 @@ The information we collect is used to improve the content of our website, shared
 
 ### Change your communication preferences
 
-Those who supply us with their contact information online may receive phone or e-mail contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such communications, you can use the "Update My Email Preferences" link in the footer of the email, [email us here](mailto:marketing@valleymed.org), or call us at 425.690.3417 to let us know.  
+\*Note: If you are looking to change your communication preferences with your care team regarding your care, please go your settings in **[MyChart](https://mychart.valleymed.org/MyChart_PRD/Authentication/Login).**
+
+Those who supply us with their contact information online may receive phone or e-mail contact from us with information **regarding new products and services or upcoming events**. If you do not wish to receive such communications, you can use the "Update My Email Preferences" link in the footer of the email or call us at 425.690.3417 to let us know.  
   
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our website to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check our website periodically. Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address.  
   
