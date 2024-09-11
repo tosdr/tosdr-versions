@@ -15,7 +15,7 @@ Toggle
 Utility
 -------
 
-* [![Icons for top navigation use ONLY](https://usertesting.widen.net/content/1eacda94-11c6-44bd-a28c-92adefa5944d/webp/ICON-top-nav-contact-64x64.webp?w=65&q=1)
+* [![Icon illustration representing a telephone](https://usertesting.widen.net/content/1eacda94-11c6-44bd-a28c-92adefa5944d/webp/ICON-top-nav-contact-64x64.webp?w=65&q=1)
     
     Contact Us](https://www.usertesting.com/contact-us)
     
@@ -33,7 +33,7 @@ Utility
 Sign in
 -------
 
-* ![Icons for top navigation use ONLY](https://usertesting.widen.net/content/88578199-535b-4e4c-9e53-f75fb7658368/webp/ICON-top-nav-login-64x64.webp?crop=yes&k=c&w=88&h=88&q=1)
+* ![Icon illustration representing a person](https://usertesting.widen.net/content/88578199-535b-4e4c-9e53-f75fb7658368/webp/ICON-top-nav-login-64x64.webp?crop=yes&k=c&w=88&h=88&q=1)
     
     * [Sign in to
         
@@ -170,9 +170,9 @@ Main navigation
                 
             * [Marketing teams](https://www.usertesting.com/solutions/teams/marketing)
                 
-            * [UX research teams](https://www.usertesting.com/solutions/teams/UX-teams)
-                
             * [Executives](https://www.usertesting.com/solutions/teams/executives)
+                
+            * [UX research teams](https://www.usertesting.com/solutions/teams/UX-teams)
                 
             
         * Company size
@@ -333,15 +333,15 @@ Main navigation
         
         * Digital Resources
             
-            * [All resources](https://www.usertesting.com/resource-library)
+            * [All resources](https://www.usertesting.com/resources)
                 
             * [Blog](https://www.usertesting.com/blog)
                 
             * [Glossary](https://www.usertesting.com/glossary)
                 
-            * [Guides](https://www.usertesting.com/resources/library/guides)
+            * [Guides](https://www.usertesting.com/resources/guides)
                 
-            * [Industry reports](https://www.usertesting.com/resources/library/industry-reports)
+            * [Industry Reports](https://www.usertesting.com/resources/reports)
                 
             * [Podcast](https://www.usertesting.com/resources/podcast)
                 
@@ -354,13 +354,13 @@ Main navigation
             
         * Events
             
-            * [Virtual & in-person events](https://www.usertesting.com/resources/library/events)
-                
             * [The Human Insight Summit](https://www.usertesting.com/resources/this)
                 
             * [Industry insight series](https://www.usertesting.com/industry-insights)
                 
             * [Human insight User Group](https://www.usertesting.com/resources/events/hug)
+                
+            * [Virtual & in-person events](https://www.usertesting.com/resources/library/events)
                 
             
         * Product Releases
@@ -384,7 +384,7 @@ CTA
 Menu
 
 UserTesting Cookie Policy
--------------------------
+=========================
 
 Cookies are small text files placed on your device to store data that can be recalled by a web server in the domain that placed the cookie. This data often consists of a string of numbers and letters that uniquely identifies your computer, but it can contain other information as well. Some cookies are placed by third parties acting on our behalf. We use cookies and similar technologies to store and honor your preferences and settings, enable you to sign-in, provide targeted advertising, combat fraud, analyze how our products perform, and fulfill other legitimate purposes described below. User Testing websites and applications also contain web beacons or other similar technologies, as described below.  
  
@@ -430,7 +430,7 @@ Questions?
 
 For more information, feel free to contact our Data Protection Officer at [data-protection-officer@usertesting.com](mailto:data-protection-officer@usertesting.com).
 
-[![](/themes/custom/usertesting/assets/images/logo-white.svg)
+[![UserTesting logo](/themes/custom/usertesting/assets/images/logo-white.svg)
 
 Human understanding. Human experiences.](https://www.usertesting.com/ "Home")
 
@@ -493,7 +493,7 @@ Footer
         * [Do Not Sell or Share](https://preferences.usertesting.com/dont_sell)
         * [Cookie policy](https://www.usertesting.com/privacy-center/cookie-policy)
         * [Cookie preferences](#cookie-preferences)
-        * [GDPR policy](https://www.usertesting.com/privacy-center/gdpr-policy)
+        * [GDPR policy](https://www.usertesting.com/usertesting-and-general-data-protection-regulation-gdpr)
         * [Privacy policy](https://www.usertesting.com/privacy-center/privacy-policy)
         * [Anti-Corruption Policy](https://www.usertesting.com/privacy-center/anti-corruption-policy)
     * Legal & other
