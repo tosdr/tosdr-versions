@@ -11,8 +11,9 @@
     
     * [![](https://static.wingify.com/gcp/wp-content/themes/vwo/images/new-website/newhome/flag-germany.svg)DE](https://vwo.com/de/privacy-policy/#locale_lang)
     * [![](https://static.wingify.com/gcp/wp-content/themes/vwo/images/new-website/newhome/flag-spain@2x.png)ES](https://vwo.com/es/privacy-policy/#locale_lang)
+    * [![](https://static.wingify.com/gcp/wp-content/themes/vwo/images/new-website/flag-portuguese-brazil.svg)BR](https://vwo.com/br/#locale_lang)
     
-* [EN](https://vwo.com/privacy-policy/)[DE](https://vwo.com/de/privacy-policy/)[ES](https://vwo.com/es/privacy-policy/)
+* [EN](https://vwo.com/privacy-policy/)[DE](https://vwo.com/de/privacy-policy/)[ES](https://vwo.com/es/privacy-policy/)[BR](https://vwo.com/br/)
 * [Logout](https://app.vwo.com/logout/)
 
 [![VWO Logo](https://static.wingify.com/gcp/images/vwo-logo-color.svg)](https://vwo.com/)
@@ -121,10 +122,12 @@
     
     * VWO Library
     * VWO Blog
+    * Thought Leadership Interviews
     * VWO Success Stories
     * Free Tools
     * Masters of Conversion
     * Popular In-depth Guides
+    * Glossary
     * * * *
         
         [VWO Knowledge Base](https://help.vwo.com/) [Product Updates](https://vwo.com/product-updates)
@@ -132,6 +135,10 @@
     VWO Library
     
     Ebooks
+    
+    [![27 UX Principles And Psychological Concepts To Improve Your B2B Website](https://static.wingify.com/gcp/uploads/2024/08/mockup.png?tr=w-60,h-50)
+    
+    27 UX Principles](https://vwo.com/ebooks/ux-principles-psychological-concepts-improve-b2b-website/)
     
     [![The Leaky Funnel Conundrum - How to Stop Users From Leaving Your Website](https://static.wingify.com/gcp/uploads/2024/06/cover.png?tr=w-60,h-50)
     
@@ -144,10 +151,6 @@
     [![Guide For Improving Website Navigation Using Behavior Analysis@2x](https://static.wingify.com/gcp/uploads/2024/04/guide-for-Improving-Website-Navigation-Using-Behavior-Analysis@2x.png?tr=w-60,h-50)
     
     Step-by-Step Guide for Improving Website Navigation Using Behavior Analysis](https://vwo.com/ebooks/step-by-step-guide-improving-website-navigation-behavior-analysis/)
-    
-    [![Listening to Clicks](https://static.wingify.com/gcp/uploads/2024/02/mockup-1.png?tr=w-60,h-50)
-    
-    Listening to the Clicks: Conversions through Conversations](https://vwo.com/ebooks/listening-clicks-conversions-through-conversations/)
     
     [![whitePaper](https://static.wingify.com/gcp/wp-content/themes/vwo/images/new-website/whitepaper/whitepaper-tile@2x.png?tr=w-60,h-50)
     
@@ -183,25 +186,25 @@
     
     Latest Blogs
     
+    [![](https://static.wingify.com/gcp/uploads/sites/3/2024/09/Feature-image-Women-in-CRO_-Expert-Insights-from-Abi-Hough-Director-at-UU3-Limited@2x.jpg?tr=w-60,h-50)
+    
+    Women in CRO: Expert Insights from Abi Hough, Director at UU3 Limited](https://vwo.com/blog/women-in-cro-insights-from-abi-hough/)
+    
+    [![](https://static.wingify.com/gcp/uploads/sites/3/2024/08/Feature-image-CRO-Perspectives-Ilan-Hurwitz.jpg?tr=w-60,h-50)
+    
+    AI to Accelerate Research, Enabling Greater Focus on Strategy and Implementation](https://vwo.com/blog/cro-insights-ilan-hurwitz/)
+    
+    [![](https://static.wingify.com/gcp/uploads/sites/3/2024/08/Feature-image-CRO-Perspectives-Rafael-Damasceno-1.jpg?tr=w-60,h-50)
+    
+    Leadership Buy-in Essential for Successful Scaling of Testing Programs](https://vwo.com/blog/leadership-buy-in-essential-for-successful-scaling-of-testing-programs/)
+    
+    [![](https://static.wingify.com/gcp/uploads/sites/3/2024/08/Feature-image-Customer-Satisfaction-Survey-Examples-Covering-Top-Questions.jpg?tr=w-60,h-50)
+    
+    Customer Satisfaction Survey Examples Covering Top Questions](https://vwo.com/blog/customer-satisfaction-survey-examples/)
+    
     [![](https://static.wingify.com/gcp/uploads/sites/3/2024/07/Feature-image-CRO-Perspectives-Gladwin-Ngo-1.jpg?tr=w-60,h-50)
     
     Allocate resources to experiments to proactively adapt to changes: Insights from Gladwin Ngo](https://vwo.com/blog/insights-from-gladwin-ngo/)
-    
-    [![](https://static.wingify.com/gcp/uploads/sites/3/2024/07/Feature-image-Women-in-CRO_-Insights-from-Our-Conversation-with-Eden-Bidani-Head-of-Strategy-Copy-at-CAPE.Agency@2x-1.jpg?tr=w-60,h-50)
-    
-    Women in CRO: Insights from Eden Bidani, Head of Strategy & Copy at CAPE.Agency](https://vwo.com/blog/women-cro-insights-eden-bidani/)
-    
-    [![](https://static.wingify.com/gcp/uploads/sites/3/2024/07/Feature-image-How-to-Use-Mobile-App-Funnel-Analysis-to-Optimize-User-Journeys-A-Complete-Guide-1.jpg?tr=w-60,h-50)
-    
-    How to Use Mobile App Funnel Analysis to Optimize User Journeys – A Complete Guide](https://vwo.com/blog/mobile-app-funnel-analysis/)
-    
-    [![](https://static.wingify.com/gcp/uploads/sites/3/2024/06/Feature-image-Women-in-CRO_-Insights-from-Our-Conversation-with-Els-Aerts-co-founder-of-AGConsult-1.jpg?tr=w-60,h-50)
-    
-    Women in CRO: Insights from Our Conversation with Els Aerts, co-founder of AGConsult](https://vwo.com/blog/ux-cro-insights-els-aerts/)
-    
-    [![](https://static.wingify.com/gcp/uploads/sites/3/2024/06/Feature-image-CRO-Perspectives-Jared-Brown-1-1.jpg?tr=w-60,h-50)
-    
-    CRO’s Evolution from Silo to Business Strategy and Innovation: Insights from Ruben de Boer](https://vwo.com/blog/cro-insights-ruben-de-boer/)
     
     Featured Blogs
     
@@ -227,13 +230,47 @@
     
     [Read all articles](https://vwo.com/blog/)
     
+    Thought Leadership Interviews
+    
+    Thought Leadership Interviews
+    
+    [![](https://static.wingify.com/gcp/uploads/sites/3/2024/07/Feature-image-CRO-Perspectives-Gladwin-Ngo-1.jpg?tr=w-60,h-50)
+    
+    Allocate resources to experiments to proactively adapt to changes: Insights from Gladwin Ngo](https://vwo.com/blog/insights-from-gladwin-ngo/)
+    
+    [![](https://static.wingify.com/gcp/uploads/sites/3/2024/05/Feature-image-CRO-Perspectives-Jared-Brown-1.jpg?tr=w-60,h-50)
+    
+    Risks of Rushed Tests and Relying on Limited Data – Insights from Jared Brown](https://vwo.com/blog/insights-from-jared-brown-cro-perspectives/)
+    
+    [![](https://static.wingify.com/gcp/uploads/sites/3/2024/03/Feature-image-CRO-Perspectives.jpg?tr=w-60,h-50)
+    
+    Taciana Serafim on Prioritizing Impactful CRO Metrics for Meaningful Improvements](https://vwo.com/blog/cro-metrics-for-meaningful-improvements/)  
+    
+    Thought Leadership Interviews
+    
+    [![](https://static.wingify.com/gcp/uploads/sites/3/2024/06/Feature-image-CRO-Perspectives-Jared-Brown-1-1.jpg?tr=w-60,h-50)
+    
+    CRO’s Evolution from Silo to Business Strategy and Innovation: Insights from Ruben de Boer](https://vwo.com/blog/cro-insights-ruben-de-boer/)
+    
+    [![](https://static.wingify.com/gcp/uploads/sites/3/2024/04/Feature-image-CRO-Perspectives-Haley-Carpenter-1.jpg?tr=w-60,h-50)
+    
+    Test Result Analysis and Subsequent Action: Insights from Haley Carpenter](https://vwo.com/blog/test-result-analysis-and-subsequent-action-insights-from-haley-carpenter/)
+    
+    [![](https://static.wingify.com/gcp/uploads/sites/3/2024/08/Feature-image-CRO-Perspectives-Rafael-Damasceno-1.jpg?tr=w-60,h-50)
+    
+    Leadership Buy-in Essential for Successful Scaling of Testing Programs](https://vwo.com/blog/leadership-buy-in-essential-for-successful-scaling-of-testing-programs/)
+    
+    [Read all interviews](https://vwo.com/blog/)
+    
     Masters of conversion
     
-    Upcoming Webinars
-    
-    [![From OKRs to Strategic Experimentation](https://static.wingify.com/gcp/uploads/2024/07/resources-menu-upcoming-image-Bjarn-Brunenberg-600-by-481@1x.jpg?tr=w-300,h-240)](https://vwo.com/webcast/from-okrs-strategic-experimentation/)
-    
     Past Webinars
+    
+    [![Bjarn Brunenberg](https://static.wingify.com/gcp/uploads/2024/07/Bjarn-Brunenberg-speaker-photo.png?tr=w-60,h-60)
+    
+    From OKRs to Strategic Experimentation
+    
+    \- Bjarn Brunenberg, TomTom](https://vwo.com/webcast/from-okrs-strategic-experimentation/)
     
     [![Florent Buisson](https://static.wingify.com/gcp/uploads/2024/07/Florent-Buisson-speaker-photo.png?tr=w-60,h-60)
     
@@ -252,6 +289,18 @@
     Life Between Variants
     
     \- Tomáš Voves, Livesport](https://vwo.com/webcast/life-between-variants/)
+    
+    [![Viket Benzesin](https://static.wingify.com/gcp/uploads/2024/02/Viket-Benzesin-speaker-photo@2x.png?tr=w-60,h-60)
+    
+    Converting with Comedy: Research Parallels for CRO
+    
+    \- Viket Benzesin, Mars](https://vwo.com/webcast/converting-with-comedy-research-parallels-for-cro/)
+    
+    [![Rohan Singh Rajput](https://static.wingify.com/gcp/uploads/2024/01/Rohan-Singh-Rajput-speaker-photo.png?tr=w-60,h-60)
+    
+    Building Personalized Meditation Experiences
+    
+    \- Rohan Singh Rajput, Headspace](https://vwo.com/webcast/a-b-testing-personalized-meditation-recommendation-system/)
     
     [View all webinars](https://vwo.com/webcast/)
     
@@ -345,6 +394,56 @@
     
     [View all](https://vwo.com/popular-web-optimization-guides/)
     
+    Glossary
+    
+    Glossary
+    
+    [A/B Testing
+    
+    A/B testing is an experimentation process where two or more versions of a web page/product/app (or an element...](https://vwo.com/glossary/a-b-testing/)
+    
+    [Behavioral Science
+    
+    Behavioral science represents the study of human behavior through the use of systematic experimentation and...](https://vwo.com/glossary/behavioral-science/)
+    
+    [Conversion Rate Optimization
+    
+    Conversion rate optimization is the practice of continually improving a website’s ability to affect conversions...](https://vwo.com/glossary/conversion-rate-optimization/)
+    
+    [Customer Data Platform
+    
+    A Customer Data Platform (CDP) is a type of database software that builds permanent, consolidated records...](https://vwo.com/glossary/customer-data-platform/)
+    
+    [Feature Rollout
+    
+    Feature rollout is a methodical and strategic release of a new feature to a product, such as an app...](https://vwo.com/glossary/feature-rollout/)
+    
+    [Mobile App A/B Testing
+    
+    Mobile app A/B testing is a way to test different versions of an app to see which one works best. It is used to figure out...](https://vwo.com/glossary/mobile-app-a-b-testing/)
+    
+    [Personalization
+    
+    Personalization is essentially used to refer to a variety of algorithms and strategies that online businesses use...](https://vwo.com/glossary/personalization/)
+    
+    [Qualitative Visitor Research
+    
+    Qualitative visitor research refers to a set of methodologies aimed at exploring the subjective and nuanced aspects...](https://vwo.com/glossary/qualitative-visitor-research/)
+    
+    [Server-Side Testing
+    
+    Server-side testing is the process of experimentation that involves rendering the website variation at the server...](https://vwo.com/glossary/server-side-testing/)
+    
+    [Statistical Significance
+    
+    In a hypothesis test, a result is declared statistically significant if one can rule out the possibility to obtain...](https://vwo.com/glossary/statistical-significance/)
+    
+    [Website Optimization
+    
+    Website optimization is the process of implementing knowledge, strategies, and tools for improving various...](https://vwo.com/glossary/website-optimization/)
+    
+    [View all Glossaries](https://vwo.com/glossary)
+    
     [VWO Knowledge Base](https://help.vwo.com/) [Product Updates](https://vwo.com/product-updates)
     
 * [Partners](https://vwo.com/partners/)
@@ -366,8 +465,9 @@
     
     * [![](https://static.wingify.com/gcp/wp-content/themes/vwo/images/new-website/newhome/flag-germany.svg)DE](https://vwo.com/de/privacy-policy/#locale_lang)
     * [![](https://static.wingify.com/gcp/wp-content/themes/vwo/images/new-website/newhome/flag-spain@2x.png)ES](https://vwo.com/es/privacy-policy/#locale_lang)
+    * [![](https://static.wingify.com/gcp/wp-content/themes/vwo/images/new-website/flag-portuguese-brazil.svg)BR](https://vwo.com/br/#locale_lang)
     
-* [EN](https://vwo.com/privacy-policy/)[DE](https://vwo.com/de/privacy-policy/)[ES](https://vwo.com/es/privacy-policy/)
+* [EN](https://vwo.com/privacy-policy/)[DE](https://vwo.com/de/privacy-policy/)[ES](https://vwo.com/es/privacy-policy/)[BR](https://vwo.com/br/)
 
 [Pricing](https://vwo.com/pricing/)
 
@@ -757,9 +857,9 @@ Guides
 
 [![SOC 2 Type II Badge](https://static.wingify.com/gcp/wp-content/themes/vwo/images/new-website/soc2typeII@2x.png)](https://vwo.com/compliance/soc-2-type-ii/)
 
-[![VWO ISO IEC 27001 Certification Badge](https://static.wingify.com/gcp/wp-content/themes/vwo/images/new-website/ISO.svg)](https://vwo.com/compliance/international-organization-standardization-certification/)
+[![VWO ISO IEC 27001 Certification Badge](https://static.wingify.com/gcp/wp-content/themes/vwo/images/new-website/ISO-27001-certificate.svg)](https://vwo.com/compliance/international-organization-standardization-certification/)
 
-[![VWO ISO 27701 Certification Badge](https://static.wingify.com/gcp/wp-content/themes/vwo/images/new-website/iso-certificate-logo@2x.png?tr=w-0.5,h-0.5)](https://vwo.com/compliance/international-organization-standardization-certification-27701/)
+[![VWO ISO 27701 Certification Badge](https://static.wingify.com/gcp/wp-content/themes/vwo/images/new-website/ISO-27701-certificate@2x.png?tr=w-0.5,h-0.5)](https://vwo.com/compliance/international-organization-standardization-certification-27701/)
 
 ### Follow us and stay on top of everything CRO
 
@@ -822,9 +922,7 @@ Message: \*
 
 Invalid message
 
- VWO can send relevant emails until I unsubscribe.
-
-By submitting, you agree to our [Terms](https://vwo.com/terms/) & [Privacy Policy](https://vwo.com/privacy-policy/)
+ I agree to VWO's [Privacy Policy](https://vwo.com/privacy-policy/) & [Terms](https://vwo.com/terms/)
 
 Submit
 
@@ -844,9 +942,7 @@ Business Email
 
 Invalid Email
 
- VWO can send relevant emails until I unsubscribe.
-
-By signing up, you agree to our [Terms](https://vwo.com/terms/) & [Privacy Policy](https://vwo.com/privacy-policy/)
+ I agree to VWO's [Privacy Policy](https://vwo.com/privacy-policy/) & [Terms](https://vwo.com/terms/)
 
 Start Now
 
@@ -874,9 +970,7 @@ Password: \*
 
 Password
 
- VWO can send relevant emails until I unsubscribe.
-
-By signing up, you agree to our [Terms](https://vwo.com/terms/) & [Privacy Policy](https://vwo.com/privacy-policy/)
+ I agree to VWO's [Privacy Policy](https://vwo.com/privacy-policy/) & [Terms](https://vwo.com/terms/)
 
 Create Account
 
@@ -918,9 +1012,7 @@ Phone Number
 
 Invalid Phone Number
 
- VWO can send relevant emails until I unsubscribe.
-
-By continuing, you agree to our [Terms](https://vwo.com/terms/) & [Privacy Policy](https://vwo.com/privacy-policy/)
+ I agree to VWO's [Privacy Policy](https://vwo.com/privacy-policy/) & [Terms](https://vwo.com/terms/)
 
 Get a Demo
 
