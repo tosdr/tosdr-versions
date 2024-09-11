@@ -432,8 +432,4 @@ English (US)
 
 [Vulnerability Disclosure Program](https://www.life.church/vulnerability-disclosure-program)
 
-YouVersion uses cookies to personalize your experience. By using our website, you accept our use of cookies as described in our [Privacy Policy](https://www.bible.com/privacy)
-
-OK
-
 [Home](https://www.bible.com/)[Bible](https://www.bible.com/bible)[Plans](https://www.bible.com/reading-plans)[Videos](https://www.bible.com/videos)
