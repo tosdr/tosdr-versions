@@ -1,6 +1,6 @@
 **JavaScript seems to be disabled in your browser.** For the best experience on our site, be sure to turn on Javascript in your browser.
 
-[![VoipSupply.com - Everything you need for VoIP!](https://www.voipsupply.com/media/version1722394627/logo/stores/2/logo-white-orange.png)](https://www.voipsupply.com/ "VoipSupply.com - Everything you need for VoIP!")
+[![VoipSupply.com - Everything you need for VoIP!](https://www.voipsupply.com/media/version1725971970/logo/stores/2/logo-white-orange.png)](https://www.voipsupply.com/ "VoipSupply.com - Everything you need for VoIP!")
 
 [](javascript:void(0))
 
@@ -11,6 +11,8 @@ Search
 [Advanced Search](https://www.voipsupply.com/catalogsearch/advanced/)
 
 Search
+
+New customers: [Create an account now](https://www.voipsupply.com/customer/account/create/) and save 5% off your first order at checkout!
 
 **Currency**
 
@@ -248,8 +250,6 @@ We will only retain your personal data for the period necessary to fulfil the pu
 
 Should you choose to unsubscribe from our mailing list, please note that your personal data may still be retained on our database to the extent permitted by law
 
-  
-
 8. For EU, United Kingdom, and Swiss Individuals: PrivacyNotice for Personal Data Transfers to the United States
     
 
@@ -308,11 +308,7 @@ You have the right to receive your personal data, which you have provided to us,
 
 You have the legal right to object, on grounds relating to your particular personal situation, at any time to processing of your personal data.  Furthermore, you have the right to object at any time to our processing of your personal data for direct marketing purposes or to profiling. You can do this by either updating your preferences for your account on our Sangoma United States Group Websites.
 
-  
-
 You may also have the right to make a GDPR complaint to the relevant Supervisory Authority. A list of Supervisory Authorities is available here:  [https://edpb.europa.eu/about-edpb/board/members\_en](https://www.theatlantic.com/)
-
-  
 
 For the sake of clarity: without prejudice to the foregoing we are at all times entitled to send you messages that do not constitute direct marketing, i.e. service messages as it relates to your business relationship with the Sangoma United States Group.
 
@@ -331,8 +327,6 @@ As an interconnected VoIP Provider Sangoma US Inc. and its wholly owned subsidia
 
  Please view our Human Resources Privacy statement for information specific to how Sangoma uses, processes, and protects personal information provided for human resource purposes. 
 
-  
-
 12\. For California Individuals (excluding California job applicants and employees):  Your rights under the CCPA
 
 For individuals who reside in the state of California (excluding job applicants and employees, who should view the Human Resources Privacy Statement for information specific to them), in addition to following the above procedures detailed under “General” below, Sangoma also protects your personal information in accordance with section 1798.100 (b) of the California Consumer Privacy Act (CCPA). The CCPA defines “personal information” as, “categories of information that identifies, relates to, describes or is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly to a particular individual or household.” 
@@ -341,8 +335,6 @@ You are responsible for ensuring that the data you submit to us is correct and t
 
 1. How Sangoma Collects, Shares, and Retains Your Data
     
-
-  
 
 We have set out below the categories of personal information we may have collected about you and, for each category of personal information that may have been collected, the categories of sources from which that information may have been collected, and the categories of third parties with whom we may have shared the personal information.
 
@@ -491,7 +483,7 @@ Over the preceding twelve (12) months, we disclosed certain categories of Califo
 
 The information we collect as part of any entry/registration process also provides us a means to inform you of product updates or revisions, additional special offers, or to notify you of products and services that relate directly to your specific interests and needs. 
 
-After you have authorized the initiation of transmission of commercial electronic e-mail from us, you may elect to cease further transmissions of commercial electronic e-mail sent to you from us by clicking on the "unsubscribe link" provided within the e-mail or by updating your email preferences at [https://www.sangoma.com/subscribe/mailing-list/](https://www.sangoma.com/subscribe/mailing-list/)
+After you have authorized the initiation of transmission of commercial electronic e-mail from us, you may elect to cease further transmissions of commercial electronic e-mail sent to you from us by clicking on the "unsubscribe link" provided within the e-mail or by updating your email preferences at [https://info.sangoma.com/UnsubscribePage.html?mkt\_unsubscribe=1](https://info.sangoma.com/UnsubscribePage.html?mkt_unsubscribe=1) 
 
 If at any time you change your mind after opting out, you may opt in via the same links above. 
 
@@ -532,16 +524,12 @@ We may share and disclose aggregated user statistics and demographic information
 
 We are committed to resolve any complaints about our collection or use of your personal data, CPNI, and other confidential information. 
 
-  
-
 We have done our best to make sure that this Privacy Statement explains the way in which we process your personal data, CPNI, and other confidential information, and rights you have in relation thereto. We may change this Privacy Statement from time to time to make sure it is still up to date and we will notify you if we make any material updates. We may also notify you in other ways from time to time about the processing of your personal information, CPNI, or other confidential information.
 
 Contact Information for GDPR or Privacy Statement questions or concerns  
-If you have a question or a complaint about this privacy policy as pertains to personal data  under the GDPR  or the way your personal data is processed by  the Sangoma United States Group under the GDPR or this Privacy Statement please contact us via the following [https://www.sangoma.com/legal/web-requests/](https://www.sangoma.com/legal/web-requests/)
+If you have a question or a complaint about this privacy policy as pertains to personal data  under the GDPR  or the way your personal data is processed by  the Sangoma United States Group under the GDPR or this Privacy Statement please contact us via the following link: [https://sangoma.com/legal/privacy-policy/](https://sangoma.com/legal/privacy-policy/) [](https://sangoma.com/legal/important-documents/)
 
 Additionally, for GDPR questions or concerns, you may contact the Sangoma United States Group’s GDPR Representative pursuant to Article 27 of the GDPR via email or post to Attorney at Law, Ms. Dr. Anjte Johst, Kurfurstendamm 67, 10707 Berlin, Germany, [\[email protected\]](https://www.voipsupply.com/cdn-cgi/l/email-protection) 
-
-  
 
 Contact Information for all other privacy questions or concerns
 
@@ -563,8 +551,6 @@ This Privacy Statement may be subject to modification from time to time, notably
 
 2. How Sangoma Collects, Shares, and Retains Your Data
     
-
-  
 
 We have set out below the categories of personal information we may have collected about you and, for each category of personal information that may have been collected, the categories of sources from which that information may have been collected, and the categories of third parties with whom we may have shared the personal information.
 
@@ -666,11 +652,7 @@ California Privacy Statement
 
 Applicable to all Job Applicants/Employees who are California Residents
 
-  
-
 For applicants and employees who reside in the state of California, in addition to following the above procedures detailed under “General” above, Sangoma also protects your personal information in accordance with section 1798.100 (b) of the California Consumer Privacy Act (CCPA). The CCPA defines “personal information” as, “categories of information that identifies, relates to, describes or is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly to a particular individual or household.” 
-
-  
 
 Your California Rights and Choices
 
@@ -714,8 +696,6 @@ You may also designate an agent to make requests to exercise your rights under C
 g. Disclosure of Personal Information, No Sale
 
 Over the preceding twelve (12) months, we disclosed certain categories of California residents’ personal information to the categories of third parties as shown in the table above. We do not and will not sell California residents’ personal information.
-
-  
 
 For EU, United Kingdom,Swiss Individuals: Privacy Notice for Personal Data Transfers to the United States
 
@@ -799,8 +779,6 @@ You have the right to receive your personal data, which you have provided to us,
     
 
 You have the legal right to object, on grounds relating to your particular personal situation, at any time to processing of your personal data.  Furthermore, you have the right to object at any time to our processing of your personal data for direct marketing purposes or to profiling. You can do this by either updating your preferences for your account on our Sangoma United States Group Websites.
-
-  
 
 For the sake of clarity: without prejudice to the foregoing we are at all times entitled to send you messages that do not constitute direct marketing, i.e. service messages as it relates to your business relationship with the Sangoma United States Group.
 
@@ -987,7 +965,7 @@ We may ask for this help code:
 
 **Our VoIP Experts**
 
-[![](https://www.voipsupply.com/media/version1722394627/Voipsupply/User/resized/300/300/Brian_Hyrek_NEW_2.png)](https://www.voipsupply.com/meetbrianhyrek)
+[![](https://www.voipsupply.com/media/version1725971970/Voipsupply/User/resized/300/300/Brian_Hyrek_NEW_2.png)](https://www.voipsupply.com/meetbrianhyrek)
 
 Brian Hyrek
 
@@ -995,7 +973,7 @@ Brian Hyrek
 
 [\[email protected\]](https://www.voipsupply.com/cdn-cgi/l/email-protection)
 
-[![](https://www.voipsupply.com/media/version1722394627/Voipsupply/User/resized/300/300/Darren_Hartman_NEW_2.png)](https://www.voipsupply.com/meetdarrenhartman)
+[![](https://www.voipsupply.com/media/version1725971970/Voipsupply/User/resized/300/300/Darren_Hartman_NEW_2.png)](https://www.voipsupply.com/meetdarrenhartman)
 
 Darren Hartman
 
@@ -1003,7 +981,7 @@ Darren Hartman
 
 [\[email protected\]](https://www.voipsupply.com/cdn-cgi/l/email-protection)
 
-[![](https://www.voipsupply.com/media/version1722394627/Voipsupply/User/resized/300/300/Don_Stephanie_NEW.png)](https://www.voipsupply.com/meetdonstefanie)
+[![](https://www.voipsupply.com/media/version1725971970/Voipsupply/User/resized/300/300/Don_Stephanie_NEW.png)](https://www.voipsupply.com/meetdonstefanie)
 
 Donald Stefanie
 
@@ -1011,7 +989,7 @@ Donald Stefanie
 
 [\[email protected\]](https://www.voipsupply.com/cdn-cgi/l/email-protection)
 
-[![](https://www.voipsupply.com/media/version1722394627/Voipsupply/User/resized/300/300/Joe_Shanahan_NEW.png)](https://www.voipsupply.com/meetjoeshanahan)
+[![](https://www.voipsupply.com/media/version1725971970/Voipsupply/User/resized/300/300/Joe_Shanahan_NEW.png)](https://www.voipsupply.com/meetjoeshanahan)
 
 Joseph Shanahan
 
@@ -1019,7 +997,13 @@ Joseph Shanahan
 
 [\[email protected\]](https://www.voipsupply.com/cdn-cgi/l/email-protection)
 
-[![](https://www.voipsupply.com/media/version1722394627/Voipsupply/User/resized/300/300/Tom_Uhteg_NEW.png)](https://www.voipsupply.com/meettomuhteg)
+Matt Dansa
+
+[\--](tel:)
+
+[\[email protected\]](https://www.voipsupply.com/cdn-cgi/l/email-protection)
+
+[![](https://www.voipsupply.com/media/version1725971970/Voipsupply/User/resized/300/300/Tom_Uhteg_NEW.png)](https://www.voipsupply.com/meettomuhteg)
 
 Tom Uhteg
 
@@ -1027,7 +1011,7 @@ Tom Uhteg
 
 [\[email protected\]](https://www.voipsupply.com/cdn-cgi/l/email-protection)
 
-[![](https://www.voipsupply.com/media/version1722394627/Voipsupply/User/resized/300/300/Glen_Buchheit_NEW_5.png)](https://www.voipsupply.com/meetglennbuchheit)
+[![](https://www.voipsupply.com/media/version1725971970/Voipsupply/User/resized/300/300/Glen_Buchheit_NEW_5.png)](https://www.voipsupply.com/meetglennbuchheit)
 
 Glenn Buchheit
 
@@ -1035,11 +1019,11 @@ Glenn Buchheit
 
 [\[email protected\]](https://www.voipsupply.com/cdn-cgi/l/email-protection)
 
-[![VoIP cloud service and cloud phone systems](https://www.voipsupply.com/media/version1722394627/wysiwyg/voip-cloud-service-quote.png)](https://www.voipsupply.com/cloudspan)
+[![VoIP cloud service and cloud phone systems](https://www.voipsupply.com/media/version1725971970/wysiwyg/voip-cloud-service-quote.png)](https://www.voipsupply.com/cloudspan)
 
-[![Let us program your phone!](https://www.voipsupply.com/media/version1722394627/wysiwyg/ProvisioningSidebar2.png)](https://www.voipsupply.com/request-info-for-voip-phone-pbx-provisioning)
+[![Let us program your phone!](https://www.voipsupply.com/media/version1725971970/wysiwyg/ProvisioningSidebar2.png)](https://www.voipsupply.com/request-info-for-voip-phone-pbx-provisioning)
 
-[![Browse our VoIP Buyer's Guides](https://www.voipsupply.com/media/version1722394627/wysiwyg/banners/buyer_s_guide_side_banner_creative.png)](https://www.voipsupply.com/voip-buyers-guides)
+[![Browse our VoIP Buyer's Guides](https://www.voipsupply.com/media/version1725971970/wysiwyg/banners/buyer_s_guide_side_banner_creative.png)](https://www.voipsupply.com/voip-buyers-guides)
 
 **VoIP Supply Programs and Tools**
 
@@ -1080,7 +1064,7 @@ Glenn Buchheit
 * [](https://www.youtube.com/voipsupply "Follow on Youtube")
 * [](https://www.voipsupply.com/voip-supply-podcast "Follow on RSS")
 
-[![](https://www.voipsupply.com/media/version1722394627/wysiwyg/m2/BBB-Logo-300.png)](https://www.bbb.org/us/ny/amherst/profile/telecommunication-equipment/voip-supply-llc-0041-66005743/#sealclick)
+[![](https://www.voipsupply.com/media/version1725971970/wysiwyg/m2/BBB-Logo-300.png)](https://www.bbb.org/us/ny/amherst/profile/telecommunication-equipment/voip-supply-llc-0041-66005743/#sealclick)
 
 [**80 Pineview Drive, Buffalo NY 14228**](https://www.google.com/maps/place/80+Pineview+Dr,+Buffalo,+NY+14228/@43.0328112,-78.8031608,17z/data=!3m1!4b1!4m6!3m5!1s0x89d371a3ac2f089d:0x22af238c6e040d35!8m2!3d43.0328112!4d-78.8009721!16s%2Fg%2F11b8v6q9s7?entry=ttu)
 
