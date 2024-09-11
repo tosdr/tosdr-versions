@@ -1,4 +1,4 @@
-[Skip Ancestry main menu](#skipped-nav) Main Menu [![Ancestry Home](https://www.ancestrycdn.com/ui-static/i/logo/ancestry.svg)](https://www.ancestry.com/)
+[Skip Ancestry main menu](#skipped-nav) [Skip to Footer](#infiniteFooterButton) Main Menu [![Ancestry Home](https://www.ancestrycdn.com/ui-static/i/logo/ancestry.svg)](https://www.ancestry.com/)
 
 * [Home](https://www.ancestry.com/)
 * [Trees](https://www.ancestry.com/family-tree/tree/)
@@ -87,7 +87,7 @@ Loading
 
 [](https://www.ancestry.com/)
 
-[English](https://www.ancestry.com/content/ancestry/acom/language-masters/en.html) [Legal](https://www.ancestry.com/content/ancestry/acom/language-masters/en/legal.html) [termsandconditions](https://www.ancestry.com/content/ancestry/acom/language-masters/en/legal/termsandconditions.html) [Terms and Conditions - Ancestry.com](https://www.ancestry.com/content/ancestry/acom/language-masters/en/legal/termsandconditions/termsandconditions.html)
+[English](https://www.ancestry.com/c/content/ancestry/acom/language-masters/en) [Legal](https://www.ancestry.com/c/content/ancestry/acom/language-masters/en/legal) [termsandconditions](https://www.ancestry.com/c/content/ancestry/acom/language-masters/en/legal/termsandconditions) [Terms and Conditions - Ancestry.com](https://www.ancestry.com/c/content/ancestry/acom/language-masters/en/legal/termsandconditions/termsandconditions)
 
 Ancestry Terms and Conditions
 =============================
@@ -126,7 +126,7 @@ Language
 * [ქართული](https://www.ancestry.com/c/legal/termsandconditions-ka)
 * [한국어](https://www.ancestry.com/c/legal/termsandconditions-ko)
 
-**Effective Date:** 17 Jan 2024
+**Effective Date:** 21 August 2024
 
 **Summary of Changes**
 ----------------------
@@ -135,10 +135,10 @@ This summary is intended to help you better understand recent changes to the Anc
 
 The most recent changes:
 
-* We added language to better explain how content you upload is used on Ancestry® Services and your responsibilities for such content in order to keep our platform safe.
-* We added language to address new features within the AncestryDNA® matches service and AncestryDNA® features or services that may be released in the future.
-* We added language to clarify the terms regarding your Use of the Services.
-* We added language to describe how we use recommender systems.
+* We updated references to renamed features.
+* We clarified that anything you enter into an interactive tool within our Services is Your Content.
+* We updated our Renewal and Cancellation Terms to reflect new trial and subscription offerings.
+* We added language to clarify the terms regarding your use of the Services.
 
 * * *
 
@@ -167,7 +167,7 @@ By using any of the websites, services, and mobile apps that link to these Terms
 
 You are entering into these Terms with a specific Ancestry entity depending on what Service you are using and where you are. Please see the list of Ancestry entities by Service and geography [here](https://www.ancestry.com/c/legal/corporate-structure). All references to “Ancestry”, “us”, “we”, or “our” in these terms refer to the relevant Ancestry entity on that list. We reserve the right to change the Ancestry entity party to these Terms at any time.
 
-These Terms incorporate by reference additional policies and guidelines, including the [Community Rules](https://www.ancestry.com/c/legal/community-rules), [Cookie Policy](https://www.ancestry.com/c/legal/aboutcookies), [Copyright Policy](https://www.ancestry.com/c/legal/copyright-policy), [Renewal and Cancellation Terms](https://www.ancestry.com/c/legal/renewal-cancellation-terms), as well as our [Privacy Statement](https://www.ancestry.com/c/legal/privacystatement), which explains how we collect and use your personal data. Please read all of these documents carefully to understand your rights and responsibilities when using the Services. If you do not agree to these Terms, you should not use our Services.
+These Terms incorporate by reference additional policies and guidelines, including the [Community Rules](https://www.ancestry.com/c/legal/community-rules), [Cookie Policy](https://www.ancestry.com/c/legal/aboutcookies), [Copyright Policy](https://www.ancestry.com/c/legal/copyright-policy), [Renewal and Cancellation Terms](https://www.ancestry.com/c/legal/renewal-cancellation-terms), [Trademark and Brand Guidelines](https://www.ancestry.com/c/legal/trademarks), as well as our [Privacy Statement](https://www.ancestry.com/c/legal/privacystatement), which explains how we collect and use your personal data. Please read all of these documents carefully to understand your rights and responsibilities when using the Services. If you do not agree to these Terms, you should not use our Services.
 
 Additional terms may apply when you sign up for a new Service or take advantage of a promotion or special offer. These terms will be disclosed to you in advance and become part of your agreement with us. If any additional terms conflict with these Terms, those additional terms will prevail.
 
@@ -198,7 +198,7 @@ In exchange for access to the Services, you agree:
 
 ### 1.4 Additional Terms Applicable to Use of DNA Services
 
-The purpose of the DNA Services is to provide genetic and genealogy results and related reports for your informational, recreational, educational, and personal research use. As used in these Terms, “DNA Services” refers to the use and registration of an AncestryDNA test kit or upload of your DNA Data, processing and genetic testing of your sample, storing your sample and any extracted DNA (as applicable), and our web- or mobile app-based tools that provide you with ethnicity estimates, traits information, and other genetically-related results and associated services.
+The purpose of the DNA Services is to provide genetic and genealogy results and related reports for your informational, recreational, educational, and personal research use. As used in these Terms, “DNA Services” refers to the use and registration of an AncestryDNA test kit or upload of your DNA Data, processing and genetic testing of your sample, storing your sample and any extracted DNA (as applicable), and our tools that provide you with ethnicity estimates (ancestral regions), traits information, and other genetically-related results and associated services.
 
 #### 1.4.1 Eligibility to Use DNA Services
 
@@ -219,14 +219,14 @@ In addition to the requirements in Section 1.3 above, you also agree:
 
 You agree that in order to facilitate your use of DNA Services, we may directly or through other companies who help us provide DNA Services:
 
-* Provide your sample to other companies that help us provide the DNA Services, such as to our laboratory or biobank partners;
+* Provide your sample to other companies that help us provide the DNA Services, such as to our laboratory partners;
 * Extract DNA from your sample;
 * Perform genetic tests in the United States (or, in the future, in other countries) on the extracted DNA using test methods available now or later-developed;
 * Compare your DNA Data with other Users’ DNA Data to provide the DNA Services, including matching you to others in our database with whom you share DNA (you are in control as to whether or not to see and be seen by your DNA matches);
 * Disclose to you, and others that you authorize, the results of the tests performed;
 * Store your DNA Data;
 * Store your sample and any extracted DNA in a biobank located in the United States, or destroy any remaining sample and extracted DNA after your sample has been processed; once submitted to us, your sample, including any extracted DNA, cannot be returned to you. You may request that we destroy your sample and any extracted DNA. In certain cases we may destroy samples and/or extracted DNA to maintain biobank quality levels;
-* Allow certain of our laboratory partners to use a portion of activated or inactivated samples to calibrate or validate instruments, equipment, or laboratory methods used in providing DNA Services; and
+* Allow certain of our laboratory partners to use a portion of registered or unregistered samples to calibrate or validate instruments, equipment, or laboratory methods used in providing DNA Services; and
 * Use your [Genetic Information](https://www.ancestry.com/c/legal/privacystatement#genetic-information) and other [Personal Information](https://www.ancestry.com/c/legal/privacystatement#intro) as described in these Terms and the [Privacy Statement](https://www.ancestry.com/c/legal/privacystatement).
 
 #### 1.4.4 Downloading your DNA Data
@@ -244,7 +244,7 @@ The Services contain photos, videos, documents, records, indexes of content, and
 
 ### 2.1 Intellectual Property Rights to Ancestry Content
 
-All elements of the Services that are created by us or under our direction, or where the copyright has been assigned or licensed to us, are subject to country-specific copyright protections around the world and international conventions. For additional information about our Copyright Policy, click [here](https://www.ancestry.com/c/legal/copyright-policy). The Services also include trademarks that are owned by us and protected under country- and region-specific trademark laws and treaties. All uses of our trademarks and any goodwill resulting therefrom will inure to our benefit. The Services and products associated with our Services are also protected by patents in the U.S. and other countries around the world. For more information about our patents, click [here](https://www.ancestry.com/c/legal/patents). We and our licensors retain ownership and all rights in the exploitation of the Services and its component parts.
+All elements of the Services that are created by us or under our direction, or where the copyright has been assigned or licensed to us, are subject to country-specific copyright protections around the world and international conventions. For additional information about our Copyright Policy, click [here](https://www.ancestry.com/c/legal/copyright-policy). The Services also include trademarks that are owned by us and protected under country- and region-specific trademark laws and treaties. All uses of our trademarks and any goodwill resulting therefrom will inure to our benefit. For additional information about our trademarks, click [here](https://www.ancestry.com/c/legal/trademarks). The Services and products associated with our Services are also protected by patents in the U.S. and other countries around the world. For more information about our patents, click [here](https://www.ancestry.com/c/legal/patents). We and our licensors retain ownership and all rights in the exploitation of the Services and its component parts.
 
 ### 2.2 Your Use of Ancestry Content
 
@@ -263,7 +263,7 @@ Ancestry operates certain recommender systems, including [Ancestry Hints](https:
 3\. Your Content
 ----------------
 
-Certain Services may allow you to contribute content, including but not limited to: (i) family trees; (ii) family memories such as photos, audio/video recordings, and stories; (iii) record annotations, comments, messages; and (iv) feedback provided to Ancestry about the Services (“Your Content”). Your Content that contains Personal Information will be treated in accordance with our [Privacy Statement](https://www.ancestry.com/c/legal/privacystatement).
+Certain Services may allow you to contribute content, including but not limited to: (i) family trees; (ii) family memories such as photos, audio/video recordings, and stories; (iii) record annotations, comments, messages, and input to interactive tools; and (iv) feedback provided to Ancestry about the Services (“Your Content”). Your Content that contains Personal Information will be treated in accordance with our [Privacy Statement](https://www.ancestry.com/c/legal/privacystatement).
 
 ### 3.1 You Control Your Content
 
