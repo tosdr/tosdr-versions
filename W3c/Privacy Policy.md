@@ -1,5 +1,7 @@
 [Skip to content](#main)
 
+Please take our 6-minute community [survey](https://www.w3.org/news/2024/w3c-opens-community-wide-survey/) on how we fulfill our mission for the world-wide web.
+
 * [日本語ホームページJapanese website](https://www.w3.org/ja/)
 * [简体中文首页Chinese website](https://www.w3.org/zh-hans/)
 
@@ -15,10 +17,10 @@
     [Explore web standards](https://www.w3.org/standards/)
     
     * [About W3C web standards](https://www.w3.org/standards/about/)
-    * [W3C standards and drafts](https://www.w3.org/TR/)
+    * [W3C standards & drafts](https://www.w3.org/TR/)
     * [Types of documents W3C publishes](https://www.w3.org/standards/types/)
-    * [Translations of W3C standards and drafts](https://www.w3.org/translations/)
-    * [Reviews and public feedback](https://www.w3.org/standards/review/)
+    * [Translations of W3C standards & drafts](https://www.w3.org/translations/)
+    * [Reviews & public feedback](https://www.w3.org/standards/review/)
     * [Liaisons](https://www.w3.org/liaisons/)
     * [Promote web standards](https://www.w3.org/get-involved/promote/)
     
@@ -52,7 +54,7 @@
     * [Browse our work by industry](https://www.w3.org/ecosystems/)
     * [Become a Member](https://www.w3.org/membership/)
     * [Member Home (restricted)](https://www.w3.org/Member/)
-    * [Follow mailing lists](https://www.w3.org/email/)
+    * [Mailing lists](https://www.w3.org/email/)
     * [Make a donation](https://www.w3.org/donate/)
     * [Sponsor an event](https://www.w3.org/sponsor/)
     
@@ -66,26 +68,26 @@
     [Learn from W3C resources](https://www.w3.org/resources/)
     
     * [Developers](https://www.w3.org/developers/)
-    * [Validators and tools](https://www.w3.org/developers/tools/)
+    * [Validators & tools](https://www.w3.org/developers/tools/)
     * [Accessibility fundamentals](https://www.w3.org/WAI/fundamentals/)
     * [Internationalization](https://www.w3.org/International/i18n-drafts/nav/about)
     * [Translations of W3C standards and drafts](https://www.w3.org/translations/)
     * [Code of conduct](https://www.w3.org/policies/code-of-conduct/)
     * [Reports](https://www.w3.org/reports/)
     
-* [News and events](https://www.w3.org/news-events/)
+* [News & events](https://www.w3.org/news-events/)
     
-    News and events
-    ---------------
+    News & events
+    -------------
     
     Recent content across news, blogs, press releases, media; upcoming events.
     
-    [Follow news and events](https://www.w3.org/news-events/)
+    [Follow news & events](https://www.w3.org/news-events/)
     
     * [News](https://www.w3.org/news/)
     * [Blog](https://www.w3.org/blog/)
     * [Press releases](https://www.w3.org/press-releases/)
-    * [Press and media](https://www.w3.org/about/press-media/)
+    * [Press & media](https://www.w3.org/about/press-media/)
     * [Events](https://www.w3.org/events/)
     * [Annual W3C Conference (TPAC)](https://www.w3.org/news-events/w3c-tpac/)
     * [Code of conduct](https://www.w3.org/policies/code-of-conduct/)
@@ -109,14 +111,14 @@
     * [Sponsoring W3C](https://www.w3.org/sponsor/)
     * [Media kit](https://www.w3.org/about/press-media/)
     * [Contact](https://www.w3.org/contact/)
-    * [Policies and legal information](https://www.w3.org/policies/)
+    * [Policies & legal information](https://www.w3.org/policies/)
     * [Help](https://www.w3.org/help/)
     
 * [![](https://www.w3.org/assets/website-2021/svg/search.svg)Search](https://www.w3.org/help/search/)
 * [My account ![](https://www.w3.org/assets/website-2021/svg/avatar.svg)](https://www.w3.org/users/myprofile/) 
 
 1. [Home](https://www.w3.org/)
-2. [Policies and legal information](https://www.w3.org/policies/)
+2. [Policies & legal information](https://www.w3.org/policies/)
 3. [W3C privacy policy](https://www.w3.org/policies/privacy/)
 
 W3C privacy policy
@@ -195,6 +197,7 @@ In this section
 * [Policy regarding Non-Disclosure Agreements and W3C meetings](https://www.w3.org/policies/no-nda/)
 * [W3C privacy policy](https://www.w3.org/policies/privacy/)
 * [URI persistence policy](https://www.w3.org/policies/uri-persistence/)
+* [Conflict of Interest Policy for the W3C Team](https://www.w3.org/policies/conflict-of-interest-policy-for-w3c-team/)
 
 * [Home](https://www.w3.org/)
 * [Contact](https://www.w3.org/contact/)
