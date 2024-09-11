@@ -124,7 +124,6 @@ Follow us:
     * [About the Righteous](https://www.yadvashem.org/righteous/about-the-righteous.html)
     * [About the Program](https://www.yadvashem.org/righteous/about-the-program.html)
     * [Righteous Database](https://righteous.yadvashem.org/)
-    * ["I Am My Brother's Keeper". A Tribute to the Righteous](https://www.yadvashem.org/yv/en/exhibitions/righteous/index.asp)
     * [Featured Stories](https://www.yadvashem.org/righteous/stories.html)
     * [Names of Righteous by Country](https://www.yadvashem.org/righteous/statistics.html)
     * [FAQs](https://www.yadvashem.org/righteous/faq.html)
@@ -183,7 +182,7 @@ Privacy Policy
 
 ### Introduction
 
-Thank you for visiting the internet site of Yad Vashem – The Holocaust Martyrs’ and Heroes’ Remembrance Authority (hereinafter: “**Yad Vashem**”). This Privacy Policy applies to all the services offered by Yad Vashem (hereinafter: the “**Services**”), including those offered on the site [https://www.yadvashem.org](https://www.yadvashem.org/) and sub-domains administered and operated by Yad Vashem (hereinafter: the “**Site**”).
+Thank you for visiting the internet site of Yad Vashem – The Holocaust Martyrs’ and Heroes’ Remembrance Authority (hereinafter: “**Yad Vashem**”). This Privacy Policy applies to all the services offered by Yad Vashem (hereinafter: the “**Services**”), including those offered on the [Yad Vashem website](https://www.yadvashem.org/) and sub-domains administered and operated by Yad Vashem (hereinafter: the “**Site**”).
 
 Yad Vashem is committed to protecting your personal information and your privacy.  Accordingly, we act with transparency with regard to all matters involving the collection and use of your personal information.  It is important to us that you have, at all times, all the information you require in order to make an informed decision about Yad Vashem’s use of your personal information.
 
