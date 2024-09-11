@@ -20,11 +20,17 @@ Use AI to produce original, context-based copy.](https://www.wordtune.com/ai-wri
 
 Instantly improve your grammar and correct your spelling.](https://www.wordtune.com/grammar)
 
-[Proofreading tool
+[Plans & pricing](https://www.wordtune.com/plans)
 
-Ensure your writing is clear, concise, and fluent.](https://www.wordtune.com/proofreading)
+Learn
 
-[Plans & pricing](https://www.wordtune.com/plans)[Log in](https://app.wordtune.com/auth/login)
+[Blog](https://www.wordtune.com/blog)
+
+[Help center](https://support.wordtune.com/en/)
+
+[FAQ](https://www.wordtune.com/faq)
+
+[Sign in](https://app.wordtune.com/auth/login)
 
 [Get started](https://app.wordtune.com/welcome)
 
@@ -233,9 +239,9 @@ Patent Notices
 
 AI21 Labs Ltd’s products, including but not restricted to Wordtune, are protected by issued patents in several countries, including the United States of America. This website satisfies the virtual patent marking provisions of those various jurisdictions, including _inter alia_ the US virtual patent marking provisions of 35 § 287(a). AI21 Labs Ltd’s and its subsidiaries’ products are protected by one or more of the following patents:
 
-• In the United States: US11574120, US11610055, US11610056, US11636256,US11699033, US11636257, US11636258, US11610057, US12032921.
+• In the United States: US11574120, US11610055, US11610056, US11636256,US11699033, US11636257, US11636258, US11610057, US12032921, US12061867.
 
-• In Australia: 2020326435, 2023222905, 2023258365.
+• In Australia: 2020326435, 2023222905, 2023241291, 2023258365.
 
 • In Canada: No. 3150031.
 
@@ -256,22 +262,25 @@ Last updated: **March 2024**
 
 ### **Learn more**
 
+* [Blog](https://www.wordtune.com/blog)
+* [Help center](https://support.wordtune.com/en/)
+* [Student discount](https://www.wordtune.com/ua/wordtune-discount-page)
+* [AI content detector](https://www.wordtune.com/ai-content-detector)
+
+### **Features**
+
 * [Rewrite](https://www.wordtune.com/rewrite)
 * [Grammar checker](https://www.wordtune.com/grammar)
 * [Summarizer](https://www.wordtune.com/summarizer)
 * [AI writing](https://www.wordtune.com/ai-writing-assistant)
 * [Proofreading tool](https://www.wordtune.com/proofreading)
-* [Blog](https://www.wordtune.com/blog)
-* [Help center](https://support.wordtune.com/en/)
-* [Student discount](https://www.wordtune.com/ua/wordtune-discount-page)
-* [AI content detector](https://www.wordtune.com/ai-content-detector)
 
 ### **Get Wordtune**
 
 * [Chrome extension](https://chrome.google.com/webstore/detail/wordtune-ai-powered-writi/nllcnknpjnininklegdoijpljgdjkijc)
 * [Microsoft Edge extension](https://microsoftedge.microsoft.com/addons/detail/wordtune-aipowered-wri/fgngodlaekdlibajobmkaklibdggemdd)
 * [Wordtune for iOS](https://apps.apple.com/app/id1628773284)
-* [Wordtune for business](https://www.wordtune.com/business/home)
+* [Wordtune for business](https://www.wordtune.com/plans)
 
 Company
 
@@ -279,7 +288,11 @@ Company
 
 Learn more
 
-[Rewrite](https://www.wordtune.com/rewrite)[Grammar checker](https://www.wordtune.com/grammar)[Summarizer](https://www.wordtune.com/summarizer)[AI writing](https://www.wordtune.com/ai-writing-assistant)[Proofreading tool](https://www.wordtune.com/proofreading)[Blog](https://www.wordtune.com/blog)[Help center](https://support.wordtune.com/en/)[Student discount](https://www.wordtune.com/ua/wordtune-discount-page-old)[AI content detector](https://www.wordtune.com/ai-content-detector)
+[Blog](https://www.wordtune.com/blog)[Help center](https://support.wordtune.com/en/)[Student discount](https://www.wordtune.com/ua/wordtune-discount-page-old)[AI content detector](https://www.wordtune.com/ai-content-detector)
+
+Features
+
+[Rewrite](https://www.wordtune.com/rewrite)[Grammar checker](https://www.wordtune.com/grammar)[Summarizer](https://www.wordtune.com/summarizer)[AI writing](https://www.wordtune.com/ai-writing-assistant)[Proofreading tool](https://www.wordtune.com/proofreading)
 
 Get Wordtune
 
