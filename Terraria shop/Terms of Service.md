@@ -12,7 +12,7 @@
 
 Subtotal
 
-£0.00 GBP
+$0.00 USD
 
 [Continue to Checkout](https://terraria.shop/checkout)
 
