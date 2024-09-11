@@ -45,7 +45,7 @@ Open/close search
     * [Dropbox Backup](https://help.dropbox.com/backup)
     * [Dropbox Capture](https://help.dropbox.com/capture)
     * [Dropbox Sign](https://help.dropbox.com/sign)
-    * [Dropbox Dash](https://dash.dropbox.com/help-center)
+    * [Dropbox Dash](https://help.dropbox.com/dash)
     
     * [Dropbox Passwords](https://help.dropbox.com/passwords)
     * [Dropbox Replay](https://help.dropbox.com/replay)
@@ -248,13 +248,15 @@ When you use Dropbox Dash, Dropbox will import your browser history, starting wi
 
 Was this article helpful?
 
-[Yes, thanks](#)[Not really](#)
+[Yes, thanks!](#)[Not really](#)
 
-Let us know how why it didn't help:
+We’re sorry to hear that.  
+Let us know how we can improve.
 
-Thanks for letting us know!
+Thanks for your feedback!  
+Let us know how this article helped.
 
- The article didn't answer my question The steps in the article didn't work for me  I found this article confusing and difficult to read Other Submit
+Submit
 
 Thanks for your feedback!
 
