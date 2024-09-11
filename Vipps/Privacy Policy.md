@@ -137,8 +137,8 @@ Ditt samtykke.
 
 For å vise deg regninger og betale eFaktura i Vipps, innhenter vi i tillegg følgende informasjon fra fakturautsteder, tjenestetilbydere eller banker:
 
-* **Regningsopplysninger** (betalingsmottakers kontonummer, KID-nummer, beløp, forfallsdato)
-* **Link til faktura**
+* **Regningsopplysninger** (betalingsmottakers kontonummer, KID-nummer, beløp, forfallsdato, fakturanummer)
+* **eFaktura-tjeneste opplysninger** (kontaktinformasjon, fødselsnummer, organisasjonsnummer, link til faktura)
 
 **Visste du at?** Du kan skru av og på funksjoner i appen under Profil > Regninger og eFaktura.
 
@@ -384,6 +384,20 @@ Avhengig av hva saken gjelder, kan det også inkludere:
 
 [Avtalen vi har med deg, se vilkårene.](https://www.vipps.no/personvern-og-vilkar/vilkar-privat/)
 
+### Opptak av telefonsamtaler med kundesenter
+
+Vipps behandler personopplysninger når vi tar opptak av telefonsamtaler for kvalitetssikring og opplæring av våre ansatte. Dette gjør vi kun hvis du samtykker til det.
+
+Opptaket vil gjelde alle personopplysninger som fremkommer i din samtale med kundesenteret. For mer detaljer se kategoriene av personopplysninger i punkt 2.2.
+
+Samtaleloggene vil bli oppbevart i 30 dager. Dersom et opptak er relevant i en rettstvist eller ved en sikkerhetshendelse, kan opptaket bli oppbevart lenger basert på et annet rettslig grunnlag.
+
+**Husk!** Du kan alltid trekke tilbake samtykket ditt ved å sende en e-post til privacy@vippsmobilepay.com. I så fall, vil opptaket bli slettet permanent.
+
+### Hva gir oss lov til dette?
+
+Ditt samtykke.
+
 ### 2.3 For markedsføringsaktiviteter
 
 Hvorfor og hvordan behandler vi dine personopplysninger?
@@ -572,7 +586,7 @@ Endringer i erklæringen
 
 Vipps jobber kontinuerlig med å forbedre og utvikle våre tjenester. Vi endrer informasjon i denne personvernerklæringen**, enkelte kan omtale det som en personvernpolicy,** ved eventuelle endringer i lov, tjenester vi tilbyr eller i vår egen praksis for behandling av personopplysninger. Dersom Vipps gjør større endringer som kan påvirke ditt personvern eller dine rettigheter vil du bli varslet i appen eller per e-post.
 
-**Versjon 1.17. Oppdatert 11.06.2024**
+**Versjon 1.19. Oppdatert 20.08.2024**
 
 ![Vipps Confirm.png](/media/images/Vipps_Confirm_0zzbAiz.max-400x500.png)
 
