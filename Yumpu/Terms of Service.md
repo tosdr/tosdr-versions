@@ -1,4 +1,4 @@
-[![logo](https://assets.yumpu.com/release/IxXH84WC6EGe4tQ/v5/img/logo/Yumpu_Logo_RGB.png)](https://www.yumpu.com/en "Yumpu")
+[![logo](https://assets.yumpu.com/release/DqQUPfNmokW5Xrw/v5/img/logo/Yumpu_Logo_RGB.png)](https://www.yumpu.com/en "Yumpu")
 
 [EN](#)
 
@@ -64,7 +64,7 @@ Terms of Service
     1. If Publishers/Readers open an account with YUMPU Publishing and want to use the Services, they are asked if they would like to receive the iMAG newsletter which includes book recommendations, news, tips and activities. This is voluntary; the newsletter may be deactivated or activated at any time by adjusting the Publisher’s/Reader’s account settings and by clicking on the "Unsubscribe" button included in the newsletter. The receipt of important information, such as password change requests, invoices, payments and the like cannot be deactivated.
     2. iMAG may use the Publishers’/Readers’ e-mail addresses for all types of communication, including Service notifications, requests, information on messages, reminders and other services provided by iMAG. iMAG’s newsletters include news about and from YUMPU Publishing and messages from selected Publishers about relevant news. Publishers/Readers using iMAG Freemium without paying any fees agree that iMAG may forward e-mail addresses to group companies so that they can also send newsletters to the Publishers/Readers. iMAG may make the e-mail addresses available to and/or use them for several customers.
     3. The publisher/reader acknowledges that by using YUMPU Publishing, advertisements from YUMPU or third-party advertisers may be displayed on the platform.
-    4. By using the Freemium model of YUMPU Publishing, the publisher agrees that advertisements from YUMPU or third-party advertisers may be displayed within their published content. This applies to both - content published on the platform and content embedded on external sites within the Freemium model. If the publisher wishes to avoid the display of advertisements within their content, YUMPU Publishing offers publishers the option to switch to one of the paid plans. By subscribing to such a plan, an ad-free presence of their content in the player can be guaranteed.
+    4. By using the Freemium model of YUMPU Publishing, the publisher agrees that advertisements from YUMPU or third-party advertisers may be displayed within their published content. This applies to both - content published on the platform and content embedded on external sites within the Freemium model. If the publisher wishes to avoid the display of advertisements within their content, YUMPU Publishing offers publishers the option to switch to one of the paid subscriptions. By subscribing to such a subscription, an ad-free presence of their content in the player can be guaranteed.
     5. All requests to iMAG shall be sent by e-mail or via a web form provided by YUMPU Publishing.
 6. **Use of cookies**
     1. iMAG uses cookies – small files containing configuration information. They help determine user-specific settings and implement special user functions. iMAG does not use such cookies to collect personal data. All website functions can be used without accepting cookies, but some user-defined properties and settings will not be available in this case. For more details, please refer to the cookie policy ([https://www.yumpu.com/de/info/cookie\_policy](https://www.yumpu.com/de/info/cookie_policy)). iMAG distinguishes between "essential cookies" to ensure basic website functions, "functional cookies" to ensure website performance and "target-oriented cookies" to improve the user experience.
@@ -131,7 +131,7 @@ Terms of Service
 
 This document was last updated on March 21, 2022
 
-![logo](https://assets.yumpu.com/release/IxXH84WC6EGe4tQ/v5/img/logo/yumpu-footer2x.png)
+![logo](https://assets.yumpu.com/release/DqQUPfNmokW5Xrw/v5/img/logo/yumpu-footer2x.png)
 
 [](https://www.facebook.com/yumpunews "Facebook")[](https://twitter.com/yumpu_com "Twitter")[](https://www.pinterest.com/yumpucom "Pinterest")[](https://www.youtube.com/user/yumpucom "Youtube")[](https://vimeo.com/yumpucom "Vimeo")
 
