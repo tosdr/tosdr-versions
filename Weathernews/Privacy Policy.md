@@ -14,11 +14,11 @@ Language
 
 ウェザーニューズについて
 
-[会社概要](https://jp.weathernews.com/corporate-outline/)[社長メッセージ](https://jp.weathernews.com/corporate-outline/ceo-message/)[経営理念](https://jp.weathernews.com/corporate-outline/our-business-strategy/)[役員一覧](https://jp.weathernews.com/corporate-outline/board-members/)[歴史](https://jp.weathernews.com/corporate-outline/our-history/)
+[会社概要](https://jp.weathernews.com/corporate-outline/)[社長メッセージ](https://jp.weathernews.com/corporate-outline/ceo-message/)[経営理念](https://jp.weathernews.com/corporate-outline/our-business-strategy/)[役員一覧](https://jp.weathernews.com/corporate-outline/board-members/)[歴史](https://jp.weathernews.com/corporate-outline/our-history/)[グローバルネットワーク](https://jp.weathernews.com/global-network/)
 
 サービス
 
-[サービス一覧](https://jp.weathernews.com/your-industry/)[グローバルネットワーク](https://jp.weathernews.com/global-network/)[サービスの流れ](https://jp.weathernews.com/the-backbone/)[イノベーション](https://jp.weathernews.com/innovation/)
+[サービス一覧](https://jp.weathernews.com/your-industry/)[サービスの流れ](https://jp.weathernews.com/the-backbone/)[イノベーション](https://jp.weathernews.com/innovation/)
 
 サステナビリティ
 
@@ -44,7 +44,7 @@ Corporate Report 2024](https://jp.weathernews.com/wp-content/uploads/2024/07/Cor
 
 採用情報
 
-[採用情報トップ](https://jp.weathernews.com/career-info/)[新卒採用(Possible Winner)](https://jp.weathernews.com/recruit/)[経験者採用(Winner)](https://jp.weathernews.com/mid-career-info/)[ITエンジニア経験者採用](https://jp.weathernews.com/privacy-policy/mid-career-info/)[キャスター(気象予報士)](https://jp.weathernews.com/your-industry/broadcasting/)[インターンシップ](https://jp.weathernews.com/internship/)[プライバシーポリシー](https://jp.weathernews.com/privacy-policy-for-recruit/)
+[採用情報トップ](https://jp.weathernews.com/career-info/)[新卒採用(Possible Winner)](https://jp.weathernews.com/recruit/)[経験者採用(Winner)](https://jp.weathernews.com/mid-career-info/)[ITエンジニア経験者採用](https://recruit.jp.weathernews.com/)[キャスター(気象予報士)](https://jp.weathernews.com/your-industry/broadcasting/)[インターンシップ](https://jp.weathernews.com/internship/)[プライバシーポリシー](https://jp.weathernews.com/privacy-policy-for-recruit/)
 
 [](https://jp.weathernews.com/contact)
 
@@ -70,9 +70,9 @@ Language
 
 << 戻る[プレスリリース](https://jp.weathernews.com/news/)[サステナビリティニュース](https://jp.weathernews.com/sustainability/topics/)[IR関連ニュース](https://jp.weathernews.com/irinfo/news/)
 
-<< 戻る[会社概要](https://jp.weathernews.com/corporate-outline/)[社長メッセージ](https://jp.weathernews.com/corporate-outline/ceo-message/)[経営理念](https://jp.weathernews.com/corporate-outline/our-business-strategy/)[役員一覧](https://jp.weathernews.com/corporate-outline/board-members/)[歴史](https://jp.weathernews.com/corporate-outline/our-history/)
+<< 戻る[会社概要](https://jp.weathernews.com/corporate-outline/)[社長メッセージ](https://jp.weathernews.com/corporate-outline/ceo-message/)[経営理念](https://jp.weathernews.com/corporate-outline/our-business-strategy/)[役員一覧](https://jp.weathernews.com/corporate-outline/board-members/)[歴史](https://jp.weathernews.com/corporate-outline/our-history/)[グローバルネットワーク](https://jp.weathernews.com/global-network/)
 
-<< 戻る[サービス一覧](https://jp.weathernews.com/your-industry/)[グローバルネットワーク](https://jp.weathernews.com/global-network/)[サービスの流れ](https://jp.weathernews.com/the-backbone/)[イノベーション](https://jp.weathernews.com/innovation/)
+<< 戻る[サービス一覧](https://jp.weathernews.com/your-industry/)[サービスの流れ](https://jp.weathernews.com/the-backbone/)[イノベーション](https://jp.weathernews.com/innovation/)
 
 << 戻る[サステナビリティトップ](https://jp.weathernews.com/sustainability/)[ニュース一覧](https://jp.weathernews.com/sustainability/topics)[トップメッセージ](https://jp.weathernews.com/sustainability/sus-message)[重点取り組みテーマ](https://jp.weathernews.com/sustainability/theme01/)[サステナビリティへの貢献](https://jp.weathernews.com/sustainability/sus-contribution/)
 
@@ -92,7 +92,7 @@ Corporate Report 2024](https://jp.weathernews.com/wp-content/uploads/2024/07/Cor
 
 2024年5月期　通期決算](https://jp.weathernews.com/irinfo/announcement/results-briefing-end-of-2024/)
 
-<< 戻る[採用情報トップ](https://jp.weathernews.com/career-info/)[新卒採用(Possible Winner)](https://jp.weathernews.com/recruit/)[経験者採用(Winner)](https://jp.weathernews.com/mid-career-info/)[ITエンジニア経験者採用](https://jp.weathernews.com/privacy-policy/mid-career-info/)[キャスター(気象予報士)](https://jp.weathernews.com/your-industry/broadcasting/)[インターンシップ](https://jp.weathernews.com/internship/)[プライバシーポリシー](https://jp.weathernews.com/privacy-policy-for-recruit/)
+<< 戻る[採用情報トップ](https://jp.weathernews.com/career-info/)[新卒採用(Possible Winner)](https://jp.weathernews.com/recruit/)[経験者採用(Winner)](https://jp.weathernews.com/mid-career-info/)[ITエンジニア経験者採用](https://recruit.jp.weathernews.com/)[キャスター(気象予報士)](https://jp.weathernews.com/your-industry/broadcasting/)[インターンシップ](https://jp.weathernews.com/internship/)[プライバシーポリシー](https://jp.weathernews.com/privacy-policy-for-recruit/)
 
 プライバシーポリシー
 ----------
@@ -169,7 +169,7 @@ Corporate Report 2024](https://jp.weathernews.com/wp-content/uploads/2024/07/Cor
 
 当社の以上の方針について改訂がある場合はすべてこのページでお知らせを致します。
 
-[![weathernews](/wp-content/themes/wni-theme/assets/img/common/logo_white.svg)](https://jp.weathernews.com/)[お問い合わせ](https://jp.weathernews.com/contact)
+[![weathernews](/assets/img/common/logo_white.svg)](https://jp.weathernews.com/)[お問い合せ](https://jp.weathernews.com/contact)
 
 ニュース
 
@@ -177,15 +177,15 @@ Corporate Report 2024](https://jp.weathernews.com/wp-content/uploads/2024/07/Cor
 
 ウェザーニューズについて
 
-[会社概要](https://jp.weathernews.com/corporate-outline/)[社長メッセージ](https://jp.weathernews.com/corporate-outline/ceo-message/)[経営理念](https://jp.weathernews.com/corporate-outline/our-business-strategy/)[役員一覧](https://jp.weathernews.com/corporate-outline/board-members/)[歴史](https://jp.weathernews.com/corporate-outline/our-history/)
+[会社概要](https://jp.weathernews.com/corporate-outline/)[社長メッセージ](https://jp.weathernews.com/corporate-outline/ceo-message/)[経営理念](https://jp.weathernews.com/corporate-outline/our-business-strategy/)[役員一覧](https://jp.weathernews.com/corporate-outline/board-members/)[歴史](https://jp.weathernews.com/corporate-outline/our-history/)[グローバルネットワーク](https://jp.weathernews.com/global-network/)
 
 サービス
 
-[サービス一覧](https://jp.weathernews.com/your-industry/)[グローバルネットワーク](https://jp.weathernews.com/global-network/)[サービスの流れ](https://jp.weathernews.com/the-backbone/)[イノベーション](https://jp.weathernews.com/innovation/)
+[サービス一覧](https://jp.weathernews.com/your-industry/)[サービスの流れ](https://jp.weathernews.com/the-backbone/)[イノベーション](https://jp.weathernews.com/innovation/)
 
 サステナビリティ
 
-[サステナビリティトップ](https://jp.weathernews.com/sustainability/)[ニュース一覧](https://jp.weathernews.com/sustainability/topics)[トップメッセージ](https://jp.weathernews.com/sustainability/sus-message)[重点取り組みテーマ](https://jp.weathernews.com/sustainability/theme01/)[サステナビリティへの貢献](https://jp.weathernews.com/sustainability#contribution)
+[サステナビリティトップ](https://jp.weathernews.com/sustainability/)[ニュース一覧](https://jp.weathernews.com/sustainability/topics)[トップメッセージ](https://jp.weathernews.com/sustainability/sus-message)[重点取り組みテーマ](https://jp.weathernews.com/sustainability/theme01/)[サステナビリティへの貢献](https://jp.weathernews.com/sustainability/sus-contribution/)
 
 IR情報
 
@@ -195,7 +195,7 @@ IR情報
 
 [採用情報トップ](https://jp.weathernews.com/career-info/)[新卒採用(Possible Winner)](https://jp.weathernews.com/recruit/)[経験者採用(Winner)](https://jp.weathernews.com/mid-career-info/)[ITエンジニア経験者採用](https://recruit.jp.weathernews.com/)[キャスター(気象予報士)](https://jp.weathernews.com/your-industry/broadcasting/)[インターンシップ](https://jp.weathernews.com/internship/)[プライバシーポリシー](https://jp.weathernews.com/privacy-policy-for-recruit/)
 
-[![weathernews](/wp-content/themes/wni-theme/assets/img/common/logo_white.svg)](https://jp.weathernews.com/)[お問い合わせ](https://jp.weathernews.com/contact)
+[![weathernews](/assets/img/common/logo_white.svg)](https://jp.weathernews.com/)[お問い合せ](https://jp.weathernews.com/contact)
 
 [情報セキュリティ基本方針](https://jp.weathernews.com/information-security-policy/)[プライバシーポリシー](https://jp.weathernews.com/privacy-policy/)[クッキーポリシー](https://jp.weathernews.com/cookie-policy/)[利用規約](https://jp.weathernews.com/terms-of-use/)[外部送信先について](#)
 
