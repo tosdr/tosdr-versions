@@ -2,7 +2,7 @@
 
 Talk to us
 
-Introducing new CPD Courses: Equip your Senior Leadership Team with skills in Behaviour Management and Leadership & Management. Learn more.
+Launching CPD Courses: Equip your SLT with skills in Behaviour Management and Leadership & Management. Learn more.
 
  [![Satchel Logo - Providing a learning platform for teachers, students and parents](../assets/images/sticky-logo.png) ![Satchel Logo - Providing a learning platform for teachers, students and parents](../assets/images/sticky-logo.png)](https://www.teamsatchel.com/index.html)
 
@@ -105,12 +105,12 @@ Close
     
     [**Resource centre**
     
-    Free resources to support school staff and teachers.](http://info.teamsatchel.com/resources)
+    Free resources to support school staff and teachers.](https://www.teamsatchel.com/resources)
     
     [**Webinars**
     
     Expert-delivered live and  
-    on-demand webinars.](https://info.teamsatchel.com/webinars)
+    on-demand webinars.](https://www.teamsatchel.com/webinars)
     
     [**Blog**
     
@@ -181,10 +181,10 @@ Close
 * [**Resources**](#)
     * [**Resource centre**
         
-        Free resources to support school staff and teachers.](http://info.teamsatchel.com/resources)
+        Free resources to support school staff and teachers.](https://www.teamsatchel.com/resources)
     * [**Webinars**
         
-        Expert-delivered live and on-demand webinars.](https://info.teamsatchel.com/webinars)
+        Expert-delivered live and on-demand webinars.](https://www.teamsatchel.com/webinars)
     * [**Blog**
         
         Education content from experts and the Satchel team.](https://blog.teamsatchel.com/)
@@ -210,8 +210,8 @@ Privacy notice
 
 Please read all of the Satchel policies and Terms of Use carefully.
 
-**Privacy Notice last updated on 31-05-2024.**  
-_Updates to vendor and international transfers sections._
+**Privacy Notice last updated on 27-08-2024.**  
+_Updates to vendors and service providers in disclosure section._
 
 ### Privacy Notice
 
@@ -299,6 +299,7 @@ For purposes which are required by law:
 | **Wonde / England** | Data sharing between Satchel and the school MIS |
 | **Intercom / United States** | Customer engagement and support tool |
 | **Get Accept / United States** | Customer quotes, contracts and SLAs tool |
+| **Outbloom / United Kingdom** | Marketing automation |
 
 * **Legal reasons**. We will share personal information outside of Satchel if we have a good-faith belief that access, use, preservation, or disclosure of the information is reasonably necessary to (i) enforce applicable terms of service or other agreements, including investigation of potential violations and audits, (ii) detect, prevent, or otherwise address fraud, abuse, security risks, or technical issues, and (iii) protect against harm to the rights, property or safety of Satchel, our users, or the public as required or permitted by law.
 * **Group companies**. We may share your information with our group of companies for the purposes of business administration, maintaining security and regulatory compliance, providing support services to end users (including IT support, where relevant), marketing and analytics.
