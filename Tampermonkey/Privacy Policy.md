@@ -193,16 +193,10 @@ The following data is collected when you access individual pages on our website:
 
 The software runs exclusively on the servers of our website. The user's personal data is only stored there. The data will not be passed on to third parties. You can decide here whether a web analysis cookie may be stored in your browser to enable Jan Biniok to collect and analyze statistical data.
 
-#### Opt-out :-(
-
-* 
-
 Data protection provisions about the application and use of a Consent Management System by Snigel
 -------------------------------------------------------------------------------------------------
 
 We use a Consent Management System by Snigel. You can review their privacy and cookie policy at [https://www.snigel.com/privacy-policy/](https://www.snigel.com/privacy-policy/).
-
-[**Manage Consent**](#)
 
 Data protection provisions about the application and use of monetization technologies by Snigel
 -----------------------------------------------------------------------------------------------
@@ -294,6 +288,6 @@ As a responsible company, we do not use automatic decision-making or profiling.
 
 Effective Date: 2023-02-21
 
-8/1/2024, 8:10:46 AM [Imprint](https://tampermonkey.net/imprint.php)   [Privacy Policy](https://tampermonkey.net/privacy.php)
+9/11/2024, 12:13:04 AM [Imprint](https://tampermonkey.net/imprint.php)   [Privacy Policy](https://tampermonkey.net/privacy.php)
 
 [▲](# "Scroll to top")
