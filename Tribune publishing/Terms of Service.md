@@ -156,6 +156,5 @@ To contact us, please use the contact information in the table below. You may al
 * [Cookie Policy](https://www.tribpub.com/cookie-policy/)
 * [California Notice at Collection](https://www.tribpub.com/privacy-policy/#California_Notice_at_Collection)
 * [CA Notice of Financial Incentive](https://www.tribpub.com/privacy-policy/#Notice_of_Financial_Incentive)
-* [Do Not Sell My Personal Information](#)
 
 Copyright © 2024 Tribune Publishing Company
