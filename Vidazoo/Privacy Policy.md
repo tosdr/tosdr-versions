@@ -1,7 +1,8 @@
 [![](https://vidazoo.gitbook.io/~gitbook/image?url=https%3A%2F%2F740631136-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lu8gBkikjSdeMGMJn7M%252Ficon%252FdYpiTYVjlcg5OrYNNLNo%252F123.png%3Falt%3Dmedia%26token%3D01af186d-12bd-44c6-bd98-bc4ef2148d43&width=32&dpr=4&quality=100&sign=15e634c9&sv=1)![](https://vidazoo.gitbook.io/~gitbook/image?url=https%3A%2F%2F740631136-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lu8gBkikjSdeMGMJn7M%252Ficon%252FdYpiTYVjlcg5OrYNNLNo%252F123.png%3Falt%3Dmedia%26token%3D01af186d-12bd-44c6-bd98-bc4ef2148d43&width=32&dpr=4&quality=100&sign=15e634c9&sv=1)
 
-Vidazoo Legal
-=============](https://vidazoo.gitbook.io/vidazoo-legal)
+Vidazoo Legal](https://vidazoo.gitbook.io/vidazoo-legal)
+
+More
 
 SearchCtrl + K
 
@@ -341,7 +342,7 @@ In addition to the requirements and obligation set forth under the DPA and appli
 
 [PreviousPublisher Guidelines](https://vidazoo.gitbook.io/vidazoo-legal/publisher-guidelines)[NextData Processing Agreement - Demand partner](https://vidazoo.gitbook.io/vidazoo-legal/data-processing-agreement-demand-partner)
 
-Last updated 7 months ago
+Last updated 8 months ago
 
 On this page
 
