@@ -189,6 +189,8 @@ Print/export
 * [Download as PDF](https://foundation.wikimedia.org/w/index.php?title=Special:DownloadAsPdf&page=Policy%3APrivacy_policy&action=show-download-screen)
 * [Printable version](https://foundation.wikimedia.org/w/index.php?title=Policy:Privacy_policy&printable=yes "Printable version of this page [p]")
 
+In other projects
+
 From Wikimedia Foundation Governance Wiki
 
 (Redirected from [Privacy policy](https://foundation.wikimedia.org/w/index.php?title=Privacy_policy&redirect=no "Privacy policy"))
@@ -239,7 +241,7 @@ Other languages:
 * [español](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/es "Policy:Privacy policy/es (100% translated)")
 * [euskara](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/eu "Policy:Privacy policy/eu (62% translated)")
 * [français](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/fr "Policy:Privacy policy/fr (100% translated)")
-* [galego](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/gl "Policy:Privacy policy/gl (96% translated)")
+* [galego](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/gl "Policy:Privacy policy/gl (100% translated)")
 * [hrvatski](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/hr "Policy:Privacy policy/hr (5% translated)")
 * [interlingua](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ia "Policy:Privacy policy/ia (22% translated)")
 * [italiano](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/it "Policy:Privacy policy/it (99% translated)")
@@ -257,7 +259,7 @@ Other languages:
 * [shqip](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/sq "Policy:Privacy policy/sq (10% translated)")
 * [sicilianu](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/scn "Policy:Privacy policy/scn (0% translated)")
 * [slovenščina](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/sl "Policy:Privacy policy/sl (45% translated)")
-* [suomi](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/fi "Policy:Privacy policy/fi (95% translated)")
+* [suomi](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/fi "Policy:Privacy policy/fi (96% translated)")
 * [svenska](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/sv "Policy:Privacy policy/sv (68% translated)")
 * [čeština](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/cs "Policy:Privacy policy/cs (100% translated)")
 * [Ελληνικά](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/el "Policy:Privacy policy/el (54% translated)")
@@ -278,7 +280,7 @@ Other languages:
 * [עברית](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/he "Policy:Privacy policy/he (32% translated)")
 * [اردو](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ur "Policy:Privacy policy/ur (15% translated)")
 * [الدارجة](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ary "Policy:Privacy policy/ary (5% translated)")
-* [العربية](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ar "Policy:Privacy policy/ar (99% translated)")
+* [العربية](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ar "Policy:Privacy policy/ar (100% translated)")
 * [تۆرکجه](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/azb "Policy:Privacy policy/azb (10% translated)")
 * [روچ کپتین بلوچی](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/bgn "Policy:Privacy policy/bgn (4% translated)")
 * [سرائیکی](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/skr "Policy:Privacy policy/skr (13% translated)")
@@ -309,6 +311,7 @@ Other languages:
 * [ဖၠုံလိက်](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/kjp "Policy:Privacy policy/kjp (8% translated)")
 * [ဘာသာမန်](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/mnw "Policy:Privacy policy/mnw (0% translated)")
 * [မြန်မာဘာသာ](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/my "Policy:Privacy policy/my (30% translated)")
+* [ၽႃႇသႃႇတႆး](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/shn "Policy:Privacy policy/shn (5% translated)")
 * [მარგალური](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/xmf "Policy:Privacy policy/xmf (25% translated)")
 * [ქართული](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ka "Policy:Privacy policy/ka (12% translated)")
 * [ភាសាខ្មែរ](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/km "Policy:Privacy policy/km (25% translated)")
@@ -317,7 +320,7 @@ Other languages:
 * [日本語](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ja "Policy:Privacy policy/ja (100% translated)")
 * [粵語](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/yue "Policy:Privacy policy/yue (23% translated)")
 * [閩南語 / Bân-lâm-gú](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/nan "Policy:Privacy policy/nan (0% translated)")
-* [ꠍꠤꠟꠐꠤ](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/syl "Policy:Privacy policy/syl (0% translated)")
+* [ꠍꠤꠟꠐꠤ](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/syl "Policy:Privacy policy/syl (10% translated)")
 * [ꯃꯤꯇꯩ ꯂꯣꯟ](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/mni "Policy:Privacy policy/mni (4% translated)")
 * [한국어](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ko "Policy:Privacy policy/ko (100% translated)")
 
@@ -824,6 +827,7 @@ Privacy-related pages
 * [Access to nonpublic personal data](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Access_to_nonpublic_personal_data_policy "Special:MyLanguage/Policy:Access to nonpublic personal data policy")
     * [Confidentiality agreement](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Confidentiality_agreement_for_nonpublic_information "Special:MyLanguage/Legal:Confidentiality agreement for nonpublic information")
     * [How to sign](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Confidentiality_agreement_for_nonpublic_information/How_to_sign "Special:MyLanguage/Legal:Confidentiality agreement for nonpublic information/How to sign")
+    * [Exceptions](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Access_to_nonpublic_personal_data_policy/Exceptions "Special:MyLanguage/Policy:Access to nonpublic personal data policy/Exceptions")
     * [Underage exemptions](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Access_to_nonpublic_personal_data_policy/Underage_exemptions "Special:MyLanguage/Policy:Access to nonpublic personal data policy/Underage exemptions")
     * [Noticeboard](https://meta.wikimedia.org/wiki/Access_to_nonpublic_personal_data_policy/Noticeboard "m:Access to nonpublic personal data policy/Noticeboard")
 * [Donor privacy policy](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Donor_privacy_policy "Special:MyLanguage/Policy:Donor privacy policy")
@@ -850,6 +854,6 @@ Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Priva
 * [Mobile view](https://foundation.m.wikimedia.org/w/index.php?title=Policy:Privacy_policy&mobileaction=toggle_view_mobile)
 
 * [![Wikimedia Foundation](/static/images/footer/wikimedia-button.svg)](https://wikimediafoundation.org/)
-* [![Powered by MediaWiki](/static/images/footer/poweredby_mediawiki.svg)](https://www.mediawiki.org/)
+* [![Powered by MediaWiki](/w/resources/assets/poweredby_mediawiki.svg)](https://www.mediawiki.org/)
 
 * Toggle limited content width
