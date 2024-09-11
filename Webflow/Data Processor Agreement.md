@@ -6,174 +6,14 @@
 
 * Product
     
-    * Build a website
-        
-        * [Designer
-            
-            Creative control and flexibility without code](https://webflow.com/designer)
-        * [CMS
-            
-            Flexible content management](https://webflow.com/cms)
-        * [Ecommerce
-            
-            Manage stunning online stores](https://webflow.com/ecommerce)
-        * [Interactions
-            
-            Craft immersive experiences](https://webflow.com/interactions-animations)
-        * [Localization
-            
-            Customize your site for a worldwide audience](https://webflow.com/localization)
-    * Optimize for growth
-        
-        * [Edit mode
-            
-            Custom-built environment for content teammates](https://webflow.com/edit-mode)
-        * [SEO
-            
-            Fine tuned control, without engineers](https://webflow.com/seo)
-    * Scale your business
-        
-        * [Security
-            
-            State of the art web application security practices](https://webflow.com/security)
-        * [Hosting
-            
-            Fast and reliable hosting provided by AWS](https://webflow.com/hosting)
-    
-    * Ready to get started?
-        
-        * [Find a Template](https://webflow.com/templates)
-        * [Get inspired](https://webflow.com/inspo)
-        * [Customer stories](https://webflow.com/customers)
-        * [Contact Support](https://support.webflow.com/)
-        * [Accessibility at Webflow](https://webflow.com/accessibility)
-    
-    * Explore our site plans
-        
-        * [Basic
-            
-            Best for launching a simple site](https://webflow.com/pricing)
-        * [CMS
-            
-            Most popular
-            
-            Best for a blog or other content-driven site](https://webflow.com/pricing)
-        * [Business
-            
-            Best for a high-traffic marketing site](https://webflow.com/pricing)
-        * [Enterprise
-            
-            Bring enterprise-level security, compliance, and scalability to your website](https://webflow.com/pricing)
-        * [Compare all plans](https://webflow.com/pricing)
-    
-* Solutions
-    
-    * Webflow for
-        
-        * [Freelancers
-            
-            Explore how freelancers do more, faster with Webflow](https://webflow.com/solutions/freelancers)
-        * [Agencies
-            
-            Discover how Webflow can power your agency’s growth](https://webflow.com/solutions/agencies)
-        * [Startups
-            
-            Learn how to move faster with Webflow](https://webflow.com/for/startups)
-        * [Classrooms
-            
-            Students and educators can use Webflow for free](https://webflow.com/for/classroom)
-        * [Enterprise
-            
-            Learn how world-class organizations build faster with Webflow](https://webflow.com/enterprise)
-        * [Global alliances
-            
-            Learn about becoming a global alliance partner](https://webflow.com/solutions/global-alliances)
-    
-    * Customer stories
-        
-        * [Fivetran
-            
-            Fivetran builds magical web experiences with the power of Webflow](https://webflow.com/customers/fivetran)
-        * [Dropbox Sign
-            
-            Dropbox Sign uses Webflow to empower marketing and design](https://webflow.com/customers/dropbox-sign)
-        
-        * [View all customer stories
-            
-            ↗](https://webflow.com/customers)
-    
-* Resources
-    
-    * Get started
-        
-        * [Marketplace
-            
-            Browse community-created resources](https://webflow.com/marketplace)
-        * [Templates
-            
-            Find website templates for business & personal use](https://webflow.com/templates)
-        * [Made in Webflow
-            
-            Find and clone inspiring sites #MadeInWebflow](https://webflow.com/made-in-webflow)
-        * [Libraries
-            
-            Build faster with powerful layouts](https://webflow.com/libraries)
-        * [Hire an Expert
-            
-            Get professional help with your next project](https://experts.webflow.com/)
-        * [Webflow Apps
-            
-            Extend your site’s functionality with apps](https://webflow.com/apps)
-    * Learn
-        
-        * [Blog
-            
-            The latest trends in web design and no-code](https://webflow.com/blog)
-        * [Resources
-            
-            Free ebooks, webinars, and whitepapers on web design, freelancing, and more.](https://webflow.com/resources)
-    * User resources
-        
-        * [Developers](https://developers.webflow.com/)
-        * [Community](https://webflow.com/community)
-        * [Partner with Webflow](https://webflow.com/partners)
-    
-    * Webflow University
-        
-        * [![](https://cdn.prod.website-files.com/64f9399ca7d13575ff21a634/65158c0de3c7ef5ec0670f79_webflow-101.svg)
-            
-            Webflow 101
-            
-            The ultimate course to learn the fundamentals of web design and development.](https://university.webflow.com/courses/webflow-101?utm_source=webflow-university&utm_medium=banner&utm_campaign=101-launch)
-        * [21-day portfolio course](https://university.webflow.com/courses/2021-portfolio-course)
-        * [Building a business website](https://university.webflow.com/courses/moving-your-business-online)
-        * [Figma to Webflow course](https://university.webflow.com/courses/figma-to-webflow)
-        * [Visit Webflow University
-            
-            ↗](https://university.webflow.com/)
-    * Get help
-        
-        * [Support](https://university.webflow.com/support)
-        * [Forum](https://forum.webflow.com/)
-    
-* [Enterprise](https://webflow.com/enterprise)
-* [Pricing](https://webflow.com/pricing)
-
-[Log in](https://webflow.com/dashboard/login)[Contact sales](https://webflow.com/contact-sales)[Get started — it's free](https://webflow.com/dashboard/signup)
-
-[Skip to main content](#main)
-
-[Webflow](https://webflow.com/?r=0)
-
-[Contact sales](https://webflow.com/contact-sales)
-
-* Product
-    
     * Build
         
         * [Designer
             
             Creative control, flexibility, and extensibility in a visual-first canvas](https://webflow.com/designer)
+        * [Page buildingNew
+            
+            Launch simple landing pages quickly and easily.](https://webflow.com/page-building)
         * [Edit mode
             
             Custom-built environment for content teammates](https://webflow.com/edit-mode)
@@ -183,9 +23,6 @@
         * [Interactions
             
             Craft immersive experiences without engineering support](https://webflow.com/interactions-animations)
-        * [SEO
-            
-            Best-in-class, fine-tuned controls](https://webflow.com/seo)
         * [Accessibility
             
             Learn how you can build more accessible sites with Webflow](https://webflow.com/accessibility)
@@ -200,6 +37,9 @@
         * [Hosting
             
             Reliable, scalable, fast, and secure hosting managed for you](https://webflow.com/hosting)
+        * [SEO
+            
+            Best-in-class, fine-tuned controls](https://webflow.com/seo)
         * [Security
             
             State of the art web application security practices](https://webflow.com/security)
@@ -211,7 +51,15 @@
         * [Figma to Webflow
             
             Turn your static designs into clean, production-ready code](https://webflow.com/figma-to-webflow)
-    * [Product updates
+    * [Webflow platform
+        
+        ↗
+        
+        Explore the power of the Webflow Platform
+        
+        ![](https://cdn.prod.website-files.com/64f9399ca7d13575ff21a634/66bd4eb12234476ba4209b18_nav-ad-new.webp)](https://webflow.com/platform)
+        
+        [Product updates
         
         See what we’ve shipped recently](https://webflow.com/updates)
     
@@ -242,7 +90,17 @@
         * [Contentful](https://webflow.com/vs/contentful)
         * [Sitecore](https://webflow.com/vs/sitecore)
         * [WordPress](https://webflow.com/vs/wordpress)
-    * [Customer stories
+    * [Customer story
+        
+        ↗
+        
+        How Dropbox Sign transformed collaboration with Webflow
+        
+        67%
+        
+        **Decrease in dev ticketing**](https://webflow.com/customers/dropbox-sign)
+        
+        [Customer stories
         
         Browse Webflow success stories](https://webflow.com/customers)
     
@@ -256,9 +114,9 @@
         * [Made in Webflow
             
             Find and clone inspiring sites](https://webflow.com/made-in-webflow)
-        * [Hire an Expert
+        * [Hire a Certified Partner
             
-            Find a Webflow Expert to help with your next project](https://experts.webflow.com/)
+            Find a freelancer or agency to help with your next project](https://webflow.com/certified-partners)
         * [Developers
             
             Submit an app, explore our APIs, get technical support, and more](https://developers.webflow.com/)
@@ -301,11 +159,11 @@
 
 [Log in](https://webflow.com/dashboard/login)[Contact sales](https://webflow.com/contact-sales)[Get started — it's free](https://webflow.com/dashboard/signup)
 
-![](https://cdn.prod.website-files.com/64f9399ca7d13575ff21a634/663b9782933c303deb76ca1d_sign-in-designer.webp)![](https://cdn.prod.website-files.com/64f9399ca7d13575ff21a634/663b9783933c303deb76ca95_sign-in-designer-mobile.webp)
+![](https://cdn.prod.website-files.com/64f9399ca7d13575ff21a634/66bd4eb22234476ba4209b3b_66391d9a71c12ac3525ae540_sign-in-designer.webp)![](https://cdn.prod.website-files.com/64f9399ca7d13575ff21a634/66bd4eb22234476ba4209b62_66391d9d71c12ac3525aea59_sign-in-designer-mobile.webp)
 
 Trusted by teams at
 
-![Ideo](https://cdn.prod.website-files.com/64f9399ca7d13575ff21a634/663b9782933c303deb76c9fd_ideo.svg)![Monday.com](https://cdn.prod.website-files.com/64f9399ca7d13575ff21a634/650091aaae08d69465da056e_monday.com.svg)![BBDO](https://cdn.prod.website-files.com/64f9399ca7d13575ff21a634/651b2e8a513fd697446c677e_BBDO-black.svg)![The New York Times](https://cdn.prod.website-files.com/64f9399ca7d13575ff21a634/650090fc30787876ba6f4227_nytimes.svg)![Ted](https://cdn.prod.website-files.com/64f9399ca7d13575ff21a634/650091aaae08d69465da056f_TED.svg)![Philips](https://cdn.prod.website-files.com/64f9399ca7d13575ff21a634/650090fc30787876ba6f4228_philips.svg)
+![Ideo](https://cdn.prod.website-files.com/64f9399ca7d13575ff21a634/66bd4eb22234476ba4209c2c_ideo.svg)![Monday.com](https://cdn.prod.website-files.com/64f9399ca7d13575ff21a634/66bd4eb22234476ba4209c7a_monday.com.svg)![BBDO](https://cdn.prod.website-files.com/64f9399ca7d13575ff21a634/66bd4eb22234476ba4209cc2_bbdo.svg)![The New York Times](https://cdn.prod.website-files.com/64f9399ca7d13575ff21a634/66bd4eb32234476ba4209ce7_nytimes.svg)![Ted](https://cdn.prod.website-files.com/64f9399ca7d13575ff21a634/66bd4eb32234476ba4209cef_TED.svg)![Philips](https://cdn.prod.website-files.com/64f9399ca7d13575ff21a634/66bd4eb32234476ba4209cf9_philips.svg)
 
 Menu
 
@@ -555,6 +413,7 @@ Product
 
 * [Platform](https://webflow.com/platform)
 * [Designer](https://webflow.com/designer)
+* [Page building](https://webflow.com/page-building)
 * [CMS](https://webflow.com/cms)
 * [Ecommerce](https://webflow.com/ecommerce)
 * [Interactions](https://webflow.com/interactions-animations)
@@ -614,7 +473,7 @@ Community
 
 * [Discover the community](https://webflow.com/community)
 * [Partner with Webflow](https://webflow.com/partners)
-* [Certified Partners](https://experts.webflow.com/)
+* [Certified Partners](https://webflow.com/certified-partners)
 * [Become a template designer](https://webflow.com/templates/applications)
 * [Become an affiliate](https://webflow.com/affiliates)
 * [Become a Global Leader](https://webflow.com/community/global-leaders)
