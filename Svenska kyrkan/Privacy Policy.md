@@ -176,10 +176,6 @@ Vad söker du?
                 
             * [Berättelser om sorg](https://www.svenskakyrkan.se/sorg/berattelser-om-sorg)
                 
-                * [”Man fick vara ledsen”](https://www.svenskakyrkan.se/sorg/man-fick-vara-ledsen)
-                    
-                * [Om att förlora ett litet barn](https://www.svenskakyrkan.se/sorg/om-att-forlora-ett-litet-barn)
-                    
             * [Böner om sorg](https://www.svenskakyrkan.se/sorg/boner)
                 
         * [Sorgegrupper](https://www.svenskakyrkan.se/sorg/sorgegrupper)
@@ -492,8 +488,6 @@ Vad söker du?
                 
             * [Kyrkoordningen](https://www.svenskakyrkan.se/kyrkoordningen)
                 
-                * [Alla bestämmelser](https://www.svenskakyrkan.se/alla-bestammelser)
-                    
             * [Kyrkostyrelsen](https://www.svenskakyrkan.se/kyrkostyrelsen)
                 
                 * [Kyrkostyrelsens ledamöter](https://www.svenskakyrkan.se/kyrkostyrelsens-ledamoter)
@@ -506,7 +500,7 @@ Vad söker du?
                     
                 * [Lärande- och undervisningspris](https://www.svenskakyrkan.se/kyrkostyrelsen/svenska-kyrkans-larandeochundervisningspris)
                     
-                * [Nämnder, råd och kommittéer](https://www.svenskakyrkan.se/namnder-och-kommitteer)
+                * [Nämnder och råd](https://www.svenskakyrkan.se/namnder-och-kommitteer)
                     
                     * [Ansvarsnämnden för biskopar](https://www.svenskakyrkan.se/ansvarsnamnden)
                         
@@ -514,11 +508,11 @@ Vad söker du?
                         
                     * [Kyrkorättsnämnden](https://www.svenskakyrkan.se/kyrkorattsnamnden)
                         
+                    * [Kyrkostyrelsens råd för Svenska kyrkan i utlandet](https://www.svenskakyrkan.se/radet_for_svenska_kyrkan_i_utlandet)
+                        
                     * [Läronämnden](https://www.svenskakyrkan.se/laronamnden)
                         
-                    * [Rådet för Svenska kyrkan i utlandet](https://www.svenskakyrkan.se/radet_for_svenska_kyrkan_i_utlandet)
-                        
-                    * [Musikrådet i Svenska kyrkan](https://www.svenskakyrkan.se/musikradet-i-svenska-kyrkan)
+                    * [Kyrkostyrelsens musikråd](https://www.svenskakyrkan.se/musikradet-i-svenska-kyrkan)
                         
                     * [Svenska kyrkans teologiska kommitté](https://www.svenskakyrkan.se/svenska-kyrkans-teologiska-kommitte)
                         
@@ -852,21 +846,7 @@ Vad söker du?
         
         * [Så arbetar vi](https://www.svenskakyrkan.se/sa-arbetar-vi-med-manniskor-pa-flykt)
             
-            * [Etablering och integration](https://www.svenskakyrkan.se/etablering-och-integration)
-                
-            * [Psykosocialt stöd](https://www.svenskakyrkan.se/psykosocialt-stod)
-                
-            * [Samverkan](https://www.svenskakyrkan.se/samverkan-for-nyanlanda)
-                
-            * [Ensamkommande unga](https://www.svenskakyrkan.se/ensamkommande-unga)
-                
-            * [Asylsökande konvertiter](https://www.svenskakyrkan.se/asylsokande-konvertiter)
-                
-            * [EU-migranter](https://www.svenskakyrkan.se/migration/eu-migranter)
-                
         * [Påverkansarbete](https://www.svenskakyrkan.se/vart-stallningstagande)
-            
-        * [Ideellt engagemang](https://www.svenskakyrkan.se/migration/vill-du-hjalpa-till)
             
         * [En värld av grannar](https://www.svenskakyrkan.se/migration/envarldavgrannar)
             
