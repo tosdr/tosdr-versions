@@ -1,4 +1,4 @@
-[Skip to content](#start-of-content)
+[Skip to content](#start-of-content) 
 
 Navigation Menu
 ---------------
@@ -71,6 +71,7 @@ Toggle navigation
     * [DevOps](https://github.com/resources/articles/devops)
     * [Security](https://github.com/resources/articles/security)
     * [Software Development](https://github.com/resources/articles/software-development)
+    * [View all](https://github.com/resources/articles)
     
     Explore
     
@@ -151,7 +152,7 @@ Cancel Create saved search
 
 [Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FHermanMartinus%2Fbearblog%2Fwiki%2F)
 
-[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fwiki%2Findex&source=header-repo&source_repo=HermanMartinus%2Fbearblog)
+[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fwiki%2Findex&source=header-repo&source_repo=HermanMartinus%2Fbearblog) Reseting focus
 
 You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
 
@@ -159,7 +160,7 @@ You signed in with another tab or window. Reload to refresh your session. You si
 
 * [Notifications](https://github.com/login?return_to=%2FHermanMartinus%2Fbearblog) You must be signed in to change notification settings
 * [Fork 74](https://github.com/login?return_to=%2FHermanMartinus%2Fbearblog)
-* [Star 2.4k](https://github.com/login?return_to=%2FHermanMartinus%2Fbearblog)
+* [Star 2.6k](https://github.com/login?return_to=%2FHermanMartinus%2Fbearblog)
     
 
 * [Code](https://github.com/HermanMartinus/bearblog)
