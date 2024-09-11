@@ -14,6 +14,8 @@ Resources
 
 [Threat intelligence](https://www.spamhaus.org/resource-hub/threat-intelligence/)
 
+[Restrict Port 25](https://www.spamhaus.org/restrict-port-25/)
+
 More Resources
 
 [Events](https://www.spamhaus.org/events/)
@@ -84,7 +86,7 @@ Free Datasets and Tools
 
 [Spamhaus Blocklist (SBL)](https://www.spamhaus.org/blocklists/spamhaus-blocklist/)
 
-[Zen Blocklist](https://www.spamhaus.org/blocklists/zen-blocklist/)
+[ZEN Blocklist](https://www.spamhaus.org/blocklists/zen-blocklist/)
 
 [DNSBL Fair Use Policy](https://www.spamhaus.org/blocklists/dnsbl-fair-use-policy/)
 
