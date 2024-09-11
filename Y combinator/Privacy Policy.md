@@ -24,7 +24,7 @@
 
 Open main menu
 
-Apply for **W2025** batch.[Apply](https://www.ycombinator.com/apply "Apply for W2025 batch.")
+Apply for **F2024** batch.[Apply](https://www.ycombinator.com/apply "Apply for F2024 batch.")
 
 Legal
 =====
