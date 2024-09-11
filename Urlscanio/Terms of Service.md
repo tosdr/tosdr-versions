@@ -232,7 +232,8 @@ Germany
 
 If you have any doubts as to whether your use of the Service complies with these Terms or have a concern with any aspect of the Site or the Service, please contact us.
 
-Copyright © 2023, urlscan GmbH  
+Copyright © 2024, urlscan GmbH
+
 Version:
 
 [Follow @urlscanio](https://twitter.com/urlscanio)
@@ -241,11 +242,10 @@ Version:
 
 #### 0 0 0
 
-Page generated on 2024-08-01 16:27:00
+Page generated on 2024-09-11 01:25:16
 
 * [About Us](https://urlscan.io/about/)
 * [Security](https://urlscan.io/security/)
-* [Newsletter](https://www.subscribepage.com/urlscanio)
 * [Sitemap](https://urlscan.io/sitemap/)
 
 * [Status Page](https://status.urlscan.io/)
