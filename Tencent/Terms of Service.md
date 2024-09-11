@@ -175,11 +175,10 @@ Any dispute, controversy or claim arising out of, relating to, or in connection 
 * [Legal Statement](https://www.tencent.com/en-us/statement.html)
 * [Integrity Policy](https://www.tencent.com/en-us/integrity-policy.html)
 * [Site Map](https://www.tencent.com/en-us/sitemap.html)
-* [粤网文【2017】6138-1456号](http://beian.miit.gov.cn/)
-* [粤B2-20090059](http://beian.miit.gov.cn/)
+* [粤网文\[2023\]2882-203号](https://www.qq.com/culture.shtml)
 * [粤公网安备 44030502008569号](http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44030502008569)
 
-[粤网文【2017】6138-1456号粤B2-20090059](http://beian.miit.gov.cn/)[粤公网安备 44030502008569号](http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44030502008569)Copyright © 1998 - 2024 Tencent. All Rights Reserved.  
+[粤网文\[2023\]2882-203号](https://www.qq.com/culture.shtml)[粤公网安备 44030502008569号](http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44030502008569)Copyright © 1998 - 2024 Tencent. All Rights Reserved.  
 腾讯公司 版权所有
 
 您的Cookies偏好
