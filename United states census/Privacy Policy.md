@@ -1,4 +1,4 @@
-![U.S. flag](/etc.clientlibs/census/clientlibs/digital-services/resources/img/us_flag_small.png)
+![U.S. flag](/etc.clientlibs/census/clientlibs/uswds-init/resources/img/us_flag_small.png)
 
 An official website of the United States government
 
@@ -6,12 +6,12 @@ Here’s how you know
 
 Here’s how you know
 
-![](/etc.clientlibs/census/clientlibs/digital-services/resources/img/icon-dot-gov.svg)
+![](/etc.clientlibs/census/clientlibs/uswds-init/resources/img/icon-dot-gov.svg)
 
 **Official websites use .gov**  
 A **.gov** website belongs to an official government organization in the United States.
 
-![](/etc.clientlibs/census/clientlibs/digital-services/resources/img/icon-https.svg)
+![](/etc.clientlibs/census/clientlibs/uswds-init/resources/img/icon-https.svg)
 
 **Secure .gov websites use HTTPS**  
 A **lock** ( Lock A locked padlock ) or **https://** means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
