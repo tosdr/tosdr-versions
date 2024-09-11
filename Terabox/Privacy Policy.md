@@ -18,6 +18,8 @@ Where we store and process your information
 
 How you control and access your information
 
+{{ $t('termsOfServicePrivacyPolicy.age.title') }}
+
 Change
 
 Contact Us
@@ -272,6 +274,8 @@ TeraBoxプライバシーポリシー
 
 お客様の情報の管理およびアクセス方法
 
+{{ $t('termsOfServicePrivacyPolicy.age.title') }}
+
 変更
 
 お問い合わせ
@@ -461,6 +465,8 @@ TeraBox นโยบายความเป็นส่วนตัว
 เราจัดเก็บและประมวลผลข้อมูลของคุณที่ไหน
 
 คุณควบคุมและเข้าถึงข้อมูลของคุณได้อย่างไร
+
+{{ $t('termsOfServicePrivacyPolicy.age.title') }}
 
 การเปลี่ยน
 
@@ -716,6 +722,8 @@ TeraBox 프라이버시 정책
 
 유저 측의 개인정보 통제 및 접근 방법
 
+{{ $t('termsOfServicePrivacyPolicy.age.title') }}
+
 변경
 
 연락처：
@@ -967,6 +975,8 @@ TeraBox गोपनीयता नीति
 हम कहाँ आपकी जानकारी स्टोर और प्रोसेस करते हैं
 
 कैसे आप नियंत्रण और अपनी जानकारी को पा सकते हैं
+
+{{ $t('termsOfServicePrivacyPolicy.age.title') }}
 
 बदलाव
 
@@ -1222,6 +1232,8 @@ Di mana kami akan menyimpan dan memproses informasi Anda
 
 Bagaimana cara Anda mengendalikan dan mengakses informasi Anda
 
+{{ $t('termsOfServicePrivacyPolicy.age.title') }}
+
 Perubahan
 
 Hubungi kami:
@@ -1474,6 +1486,8 @@ Jika Anda memiliki pertanyaan atau kekhawatiran tentang TeraBox, layanan kami da
 
 Каким образом Вы управляете Вашими данными и получаете к ним доступ
 
+{{ $t('termsOfServicePrivacyPolicy.age.title') }}
+
 Внесение изменений
 
 Связаться с нами:
@@ -1725,6 +1739,8 @@ Cómo protegemos y guardamos sus datos
 Dónde almacenamos y tratamos sus datos
 
 Su control y acceso a sus datos
+
+{{ $t('termsOfServicePrivacyPolicy.age.title') }}
 
 Cambios
 
@@ -1980,6 +1996,8 @@ Si tiene alguna duda o preocupación acerca de TeraBox, nuestros Servicios o el 
 
 كيفية التحكم في المعلومات الخاصة بك والوصول إليها
 
+{{ $t('termsOfServicePrivacyPolicy.age.title') }}
+
 التغيير
 
 تواصل معنا:
@@ -2234,6 +2252,8 @@ Onde armazenamos e processamos suas informações
 
 Como você controla e acessa suas informações
 
+{{ $t('termsOfServicePrivacyPolicy.age.title') }}
+
 Alteração
 
 Contate-nos:
@@ -2485,6 +2505,8 @@ Chúng tôi bảo vệ và lưu trữ thông tin của bạn như thế nào
 Chúng tôi lưu trữ và xử lý thông tin của bạn ở đâu
 
 Bạn kiểm soát và truy cập thông tin của mình như thế nào
+
+{{ $t('termsOfServicePrivacyPolicy.age.title') }}
 
 Thay đổi
 
