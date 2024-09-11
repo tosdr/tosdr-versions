@@ -114,7 +114,7 @@ Shop
 Privacy Policy
 ==============
 
-Last updated August 01, 2023
+Last updated August 05, 2024
 
   
 
@@ -383,7 +383,7 @@ In some exceptional cases, we may be legally permitted under applicable law to p
 
   
 
-We also may need to share your personal information in the following situations:
+The SMS opt-in or phone numbers for the purpose of SMS are not being shared. We also may need to share your personal information in the following situations:
 
 * **Business Transfers.** We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
 
