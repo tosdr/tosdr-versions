@@ -1,6 +1,6 @@
 [Skip to Main Content](#__layout)
 
-![A bell ringing](//images.ctfassets.net/j9e1b5ly4280/40vdqz9F4VXyCH7ZEIeGmh/310e9af5bf50aaf729f9d196db224ab7/bell-ring-solid_1.svg)**Still Need to File?** Our experts make it easy to [finish today](https://www.taxact.com/tax-xpert-assist)**.**
+![A bell ringing](//images.ctfassets.net/j9e1b5ly4280/40vdqz9F4VXyCH7ZEIeGmh/310e9af5bf50aaf729f9d196db224ab7/bell-ring-solid_1.svg)**October 15** is Tax Day for extension filers. TaxAct makes it easy to file today.
 
 [TaxAct **Business** ![Right pointing arrow icon](https://images.ctfassets.net/j9e1b5ly4280/2P8y5oEhgYqEA6FWQV13k/6c234b73373724c766bcc8e9c1fc513a/button_arrow_purple.svg)](https://www.taxact.com/business-returns) 
 
@@ -850,6 +850,6 @@ TaxAct is committed to making our Privacy Notice accessible to individuals with 
 
 * * *
 
-[Legal Notice](https://www.taxact.com/legal-notice) [Privacy Notice](https://www.taxact.com/privacy-notice) [GLBA Notice](https://www.taxact.com/GLBA-notice) [Do Not Sell or Share My Personal Information](https://www.taxact.com/do-not-sell-or-share)
+[Terms of Service](https://www.taxact.com/terms-of-service) [Privacy Notice](https://www.taxact.com/privacy-notice) [GLBA Notice](https://www.taxact.com/GLBA-notice) [Do Not Sell or Share My Personal Information](https://www.taxact.com/do-not-sell-or-share)
 
 ©1998 - 2024 TaxAct ®
