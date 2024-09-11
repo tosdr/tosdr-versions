@@ -25,10 +25,6 @@
 
 [![Zerosuniverse](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20512%20512'%3E%3C/svg%3E)
 
-![Zerosuniverse](https://cdn.zerosuniverse.com/wp-content/uploads/2022/06/Zerosuniverse.jpg)
-
-![Zerosuniverse](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20512%20512'%3E%3C/svg%3E)
-
 ![Zerosuniverse](https://cdn.zerosuniverse.com/wp-content/uploads/2022/06/Zerosuniverse.jpg)](https://www.zerosuniverse.com/ "Zerosuniverse")
 
 * [CYBERSECURITY](https://www.zerosuniverse.com/cyber-security/)
@@ -45,10 +41,6 @@
 [](# "Search")
 
 [![Zerosuniverse](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20512%20512'%3E%3C/svg%3E)
-
-![Zerosuniverse](https://cdn.zerosuniverse.com/wp-content/uploads/2022/06/Zerosuniverse.jpg)
-
-![Zerosuniverse](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20512%20512'%3E%3C/svg%3E)
 
 ![Zerosuniverse](https://cdn.zerosuniverse.com/wp-content/uploads/2022/06/Zerosuniverse.jpg)](https://www.zerosuniverse.com/ "Zerosuniverse")
 
