@@ -54,8 +54,8 @@ disabled Mode
     
     Our network
     
+    * [Travel inspiration](https://www.virginaustralia.com/au/en/explore/travel-inspiration/destinations/)
     * [Destinations](https://www.virginaustralia.com/au/en/explore/travel-inspiration/travel-tips/)
-    * [Travel Inspiration](https://www.virginaustralia.com/au/en/explore/travel-inspiration/destinations/)
     
     Popular domestic routes
     
@@ -74,7 +74,7 @@ disabled Mode
     * [Brisbane to Bali flights](https://www.virginaustralia.com/en-au/flights-from-brisbane-to-bali-dps)
     * [Sydney to Fiji flights](https://www.virginaustralia.com/en-au/flights-from-sydney-to-fiji)
     * [Melbourne to Fiji flights](https://www.virginaustralia.com/en-au/flights-from-melbourne-to-fiji)
-    * [Brisbane to Fiji flights](https://www.virginaustralia.com/en-au/flights-from-sydney-to-fiji)
+    * [Brisbane to Fiji flights](https://www.virginaustralia.com/en-au/flights-from-brisbane-to-fiji)
     
 * [Travel information](https://www.virginaustralia.com/au/en/travel-info/)
     
@@ -140,30 +140,30 @@ disabled Mode
     
 * [Velocity](https://www.virginaustralia.com/au/en/velocity/)
     
+    Partners and offers
+    
+    * [Transfer credit card points](https://www.velocityfrequentflyer.com/frequent-flyer-credit-cards/partner-cards)
+    * [Points earning credit cards](https://www.velocityfrequentflyer.com/frequent-flyer-credit-cards/direct-earn-cards)
+    
     The basics
     
     * [Velocity home](https://www.velocityfrequentflyer.com/)
     * [Earning points](https://www.velocityfrequentflyer.com/the-basics/earning-points)
     * [Redeeming Points](https://www.velocityfrequentflyer.com/the-basics/redeeming-points)
     * [Transferring Points](https://www.velocityfrequentflyer.com/the-basics/transferring-points)
-    * [Buying Points](https://www.velocityfrequentflyer.com/the-basics/buying-points?icmpid=va:dig:aem_nav:site_nav_link:bp_ao:)
+    * [Buying Points](https://www.velocityfrequentflyer.com/the-basics/buying-points?utm_source=web&utm_medium=multiple&utm_campaign=v2landing&icmpid=va:dig:aem_nav:site_nav_link:bp_ao:)
     * [Status](https://www.velocityfrequentflyer.com/the-basics/status)
-    * [Member benefits](https://www.velocityfrequentflyer.com/the-basics/member-benefits/velocity-member-benefits)
-    
-    Partners and offers
-    
-    * [Transfer credit card points](https://www.velocityfrequentflyer.com/partners-offers/velocity-credit-cards/partner-cards)
-    * [Points earning credit cards](https://www.velocityfrequentflyer.com/partners-offers/velocity-credit-cards/direct-earn-cards)
     
     Shopping online
     
     * [Shop to earn Points](https://estore.velocityfrequentflyer.com/)
     * [Shop using Points](https://shop.velocityfrequentflyer.com/)
+    * [Velocity Wine Store by Laithewaite's](https://www.velocitywinestore.com.au/)
     
-    Flying and status
+    Flying and Status
     
-    * [Status membership](https://www.velocityfrequentflyer.com/the-basics/status)
     * [How to use Points for flights](https://www.velocityfrequentflyer.com/flying-status/use-points-for-flights)
+    * [Status membership](https://www.velocityfrequentflyer.com/the-basics/status)
     
 
 * [Check-in](https://check-in.virginaustralia.com/checkin/index.html#/login)
@@ -172,41 +172,38 @@ disabled Mode
 ![Loading](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDciIGhlaWdodD0iNDciIHZpZXdCb3g9IjAgMCA0NyA0NyIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4NCjxnIGlkPSJsb2FkaW5nIiBjbGlwLXBhdGg9InVybCgjY2xpcDBfMTIzN183ODA0KSI+DQo8cGF0aCBpZD0iVmVjdG9yIiBkPSJNNDIuMzA4MSAzLjMxMzk5TDQwLjczMTEgMy42Mjg5OUwzNy4zODcxIDQuMjk3OTlMMzcuMTYxMSA0LjMzOTk5TDM1LjIwNTEgNC43MzE5OUwzMy4wNjQxIDIuNzQyOTlDMzEuNDE3MSAxLjIyMDk5IDMwLjQ0NDEgMS41NjA5OSAzMC40NDQxIDEuNTYwOTlDMzAuNDQ0MSAxLjU2MDk5IDMwLjE4NDEgMi41NTU5OSAzMS44MTkxIDQuMDc4OTlMMzMuOTcyMSA2LjA2Njk5TDMzLjcxMDEgOC4yNzg5OUwzMy4yOTkxIDExLjY3TDMzLjEwOTEgMTMuMjYyQzMzLjEwOTEgMTMuMjYyIDMzLjAyMDEgMTMuODIzIDMzLjc0MTEgMTQuNTg2TDM2LjczNDEgOC40NjU5OUwzNi40MTExIDguMTc3OTlMNDAuMTM3MSAxMS41MTNMNDAuODQ5MSAxNC4xNzlDNDAuODQ5MSAxNC4xNzkgNDAuODY3MSAxNC4yNSA0MC45MTQxIDE0LjQwM0M0MC45NzUxIDE0LjU2NyA0MS4yMDMxIDE0LjU2MSA0MS4yMjcxIDE0LjQwM0w0MS41ODUxIDEyLjE4NEw0MS44OTYxIDExLjg0N0w0NC4wODMxIDExLjMyOEM0NC4yMzcxIDExLjI5MiA0NC4yMTkxIDExLjA2NSA0NC4wNTkxIDExLjAxN0M0My45MDAxIDEwLjk4MSA0My44MjYxIDEwLjk2MyA0My44MjYxIDEwLjk2M0w0MS4xMTMxIDEwLjQ1MUwzNy41MDkxIDYuOTg1OTlMMzcuNzcwMSA3LjI0Mjk5TDQzLjcwNzEgMy44NDQ5OUM0Mi44OTcxIDMuMTg0OTkgNDIuMzQxMSAzLjMxMjk5IDQyLjM0MTEgMy4zMTI5OSIgZmlsbD0iIzhFOEQ4RiIvPg0KPHBhdGggaWQ9IlZlY3Rvcl8yIiBkPSJNNDQuMjczIDE0LjM2N0w0NC4xOSAxNC44ODFDNDQuMDcxIDE1LjY4NSA0My42MjcgMTYuMzg1IDQzLjAwMSAxNi44NjZDNDMuNjYyIDE4LjkxNCA0NCAyMS4wNDkgNDQgMjMuMjM4QzQ0IDM0LjY4NiAzNC42ODYgNDQuMDAxIDIzLjIzNyA0NC4wMDFDMTEuNzg4IDQ0LjAwMSAyLjQ3NSAzNC42ODYgMi40NzUgMjMuMjM3QzIuNDc1IDExLjc4OCAxMS43ODkgMi40NzUwMSAyMy4yMzcgMi40NzUwMUMyNC43MTMgMi40NzUwMSAyNi4xNzcgMi42MzcwMSAyNy42MDUgMi45NDMwMUMyNy4zMjcgMS45MTUwMSAyNy40NTUgMS4xMzYwMSAyNy41NDEgMC44MDQwMDdMMjcuNjQgMC40MjMwMDdDMjYuMTk1IDAuMTQ2MDA3IDI0LjcyMSAwLjAwMTAwNzE1IDIzLjIzNiAwLjAwMTAwNzE1QzEwLjQyNCA3LjE1MTk4ZS0wNiAwIDEwLjQyNCAwIDIzLjIzN0MwIDM2LjA1IDEwLjQyNCA0Ni40NzQgMjMuMjM3IDQ2LjQ3NEMzNi4wNSA0Ni40NzQgNDYuNDc0IDM2LjA1IDQ2LjQ3NCAyMy4yMzdDNDYuNDc0IDIwLjEyNiA0NS44NjUgMTcuMTEzIDQ0LjY3NCAxNC4yNzFMNDQuMjczIDE0LjM2N1oiIGZpbGw9IiM4RThEOEYiLz4NCjwvZz4NCjxkZWZzPg0KPGNsaXBQYXRoIGlkPSJjbGlwMF8xMjM3Xzc4MDQiPg0KPHJlY3Qgd2lkdGg9IjQ2LjQ3NSIgaGVpZ2h0PSI0Ni40NzUiIGZpbGw9IndoaXRlIi8+DQo8L2NsaXBQYXRoPg0KPC9kZWZzPg0KPC9zdmc+DQo=)
 
 * [](https://www.virginaustralia.com/au/en/)
-* [About Virgin Australia](https://www.virginaustralia.com/au/en/about-us/)
+    
+    /
+    
+* [About](https://www.virginaustralia.com/au/en/about-us/)
+    
+    /
+    
 * [Policies](https://www.virginaustralia.com/au/en/about-us/policies/)
+    
+    /
+    
 * [Privacy policy](https://www.virginaustralia.com/au/en/about-us/policies/privacy/)
-* [Cookies policy](https://www.virginaustralia.com/au/en/about-us/policies/privacy/cookies-policy/)
+    
+    /
+    
 
 Cookies policy
 ==============
 
-Privacy policy
---------------
-
-* [Cookies policy](https://www.virginaustralia.com/au/en/about-us/policies/privacy/cookies-policy/)
-* [Privacy Policy | Virgin Australia Group](https://www.virginaustralia.com/au/en/about-us/policies/privacy/privacy-policy/)
-* [CCTV Images](https://www.virginaustralia.com/au/en/about-us/policies/privacy/privacy-statement-cctv-images/)
-* [Bookings](https://www.virginaustralia.com/au/en/about-us/policies/privacy/privacy-statement-flight-bookings/)
-* [Health information](https://www.virginaustralia.com/au/en/about-us/policies/privacy/privacy-statement-health-information/)
-* [Virgin Australia Lounge](https://www.virginaustralia.com/au/en/about-us/policies/privacy/privacy-statement-lounge/)
-* [Virgin Australia V-mail](https://www.virginaustralia.com/au/en/about-us/policies/privacy/privacy-statement-vmail/)
-* [Virgin Australia Business Flyer and Loyalty](https://www.virginaustralia.com/au/en/about-us/policies/privacy/privacy-statement-business-flyer/)
-
-Virgin Australia is committed to being transparent in relation to how we collect and otherwise handle your personal information. This Cookie Policy explains how Virgin Australia Airlines Pty Ltd and its group companies listed in section 1 of the [Privacy Policy](https://www.virginaustralia.com/au/en/about-us/policies/privacy/privacy-policy/) (“we”/”our”/“us”) use cookies and similar technologies on the websites we own and operate.
+Virgin Australia is committed to being transparent in relation to how we collect and otherwise handle your personal information. This Cookie Policy explains how Virgin Australia Airlines Pty Ltd and its group companies listed in section 1 of the [Privacy Policy](https://www.virginaustralia.com/au/en/about-us/policies/privacy/privacy-policy/ "Read Virgin Australia's Privacy Policy") (“we”/”our”/“us”) use cookies and similar technologies on the websites we own and operate.
 
 We want our websites to be as user friendly, informative and personal as possible and our use of cookies and similar technologies as described in this Cookie Policy helps us achieve this goal.
 
-To the extent that information collected through our use of cookies and similar technologies constitutes personal information, the provisions of our [Privacy Policy](https://www.virginaustralia.com/au/en/about-us/policies/privacy/privacy-policy/) apply to that information.
+To the extent that information collected through our use of cookies and similar technologies constitutes personal information, the provisions of our [Privacy Policy](https://www.virginaustralia.com/au/en/about-us/policies/privacy/privacy-policy/ "Read Virgin Australia's Privacy Policy") apply to that information.
 
-What are cookies?
------------------
+### What are cookies?
 
 Cookies are small text files sent to your browser and stored by your browser on your computer or other device by the websites that you visit, or by certain emails that you open. Cookies allow our websites to “remember you” when you return and allow us to deliver targeted advertising to you on our websites and third party websites.
 
 Cookies save data such as your IP address or MAC address, the city associated with your IP or MAC address, the date and time you visited our website, pages or advertisements you viewed, the URL of the website you viewed prior to visiting our website and the type of browser you use.
 
-What do we use cookies and similar technologies for?
-----------------------------------------------------
+### What do we use cookies and similar technologies for?
 
 We use cookies and similar technologies to:
 
@@ -216,10 +213,9 @@ We use cookies and similar technologies to:
 * understand how our websites are functioning and inform improvements to our websites and services; and
 * gather data that helps us deliver advertising content relevant to your interests.
 
-We may match data gathered from cookies with information that you have provided about yourself, or that we have collected about you for the purposes explained in our [Privacy Policy](https://www.virginaustralia.com/au/en/about-us/policies/privacy/privacy-policy/).
+We may match data gathered from cookies with information that you have provided about yourself, or that we have collected about you for the purposes explained in our [Privacy Policy](https://www.virginaustralia.com/au/en/about-us/policies/privacy/privacy-policy/ "Read Virgin Australia's Privacy policy").
 
-What types of cookies and similar technologies do we use?
----------------------------------------------------------
+### What types of cookies and similar technologies do we use?
 
 There are several different types of cookies that may be used on our websites.
 
@@ -233,8 +229,7 @@ We also use web tracking (including pixel tags / web beacons) and analytics tool
 
 We sometimes allow our trusted partners to use cookies or similar technologies on our websites for the purpose of analytics and targeted online advertising. Our trusted partners use cookies to collect data and allow them to recognise your computer or device when you visit our websites. The data they collect is kept separate from the personal information about you that we collect. We do not access or control our trusted partner’s cookies. It is our trusted partner’s privacy and cookie policies that apply to their use of these cookies and technologies.
 
-How you can manage cookies and similar technologies
----------------------------------------------------
+### How you can manage cookies and similar technologies
 
 You can manage cookies and similar technologies on your computer or device through your browser settings. Please refer to your browser’s “help” or “support” site for more information on how to delete saved cookies and allow or block cookies. 
 
@@ -243,15 +238,13 @@ We use third party technologies such as Google Adwords, DoubleClick, Adobe, Tube
 Please be advised that even if you disable cookies and opt out of receiving targeted advertising through different services, you may still see advertising from us on third party platforms and websites. However, this advertising won't be tailored as described in this Cookie Policy.  
 **Please be aware that if you do not accept the use of cookies on our websites you will be unable to use our websites.**
 
-Changes to our cookie policy
-----------------------------
+### Changes to our cookie policy
 
 We may update our cookie policy from time to time. Our cookie policy was last updated in May 2018. By continuing to use our websites you accept this cookie policy as it applies from time to time.
 
-We will post all updates to [our privacy page](https://www.virginaustralia.com/au/en/about-us/policies/privacy/).
+We will post all updates to [our privacy page](https://www.virginaustralia.com/au/en/about-us/policies/privacy/ "Virgin Australia's Privacy Policy").
 
-Contact us
-----------
+### Contact us
 
 If you have questions in relation to our use of these technologies you can contact us at [privacy@virginaustralia.com](mailto:privacy@virginaustralia.com).
 
