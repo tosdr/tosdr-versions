@@ -1,8 +1,8 @@
 [Skip to content](#MainContent)
 
-[Introducing Eyebrow Tinting!](https://locations.waxcenter.com/?ajs_aid=06f3dd8d-3f34-470d-8b10-17196704fa75)
+[Try a New Service at 50% Off!](https://locations.waxcenter.com/?ajs_aid=06f3dd8d-3f34-470d-8b10-17196704fa75)
 
-[NEW Get Smooth Summer Travel Kit!](https://waxcenter.com/collections/all/products/get-smooth-travel-kit)
+[Buy More, Save More Event!](https://waxcenter.com/collections/all)
 
  [![icon](https://cdn.shopify.com/s/files/1/0366/6670/4007/files/DiscountIcon.svg?v=1667333405) Refer a friend, Get $10 off\*](https://waxcenter.com/pages/refer-a-friend)
 
@@ -12,7 +12,7 @@
 
 * Services
     
-    Services
+      Services
     
     * [Brazilian Waxing](https://waxcenter.com/pages/brazilian-waxing)
     * [Brow Waxing](https://waxcenter.com/pages/brow-waxing)
@@ -40,13 +40,13 @@
         * [Full Facial Waxing](https://waxcenter.com/pages/facial-hair-waxing)
         
     * [All Waxing Services](https://waxcenter.com/pages/wax-services)
-    * [Brow Tint](https://waxcenter.com/pages/brow-tint-2024)
+    * [Eyebrow Tinting](https://waxcenter.com/pages/brow-tint-2024)
     * [Laser Hair Removal](https://waxcenter.com/pages/laser-hair-removal)
     * [Men's Waxing Services](https://waxcenter.com/pages/waxing-for-men)
     
 * Shop
     
-    Shop
+      Shop
     
     * [All Products](https://waxcenter.com/collections/all)
     * [Body](https://waxcenter.com/collections/body)
@@ -57,19 +57,25 @@
     * [Gift Cards](https://waxcenter.com/pages/gift-cards)
     * [Wax Passes](https://waxcenter.com/pages/wax-passes)
     
-* [Locations](https://locations.waxcenter.com/)
-* First Time Guest
+* Wax Pass
     
-    First Time Guest
+      Wax Pass
+    
+    * [Save 18%, Buy 9 Waxes, Get 2 Free](https://waxcenter.com/pages/wax-passes)
+    
+* [Locations](https://locations.waxcenter.com/)
+* First Visit
+    
+      First Visit
     
     * [First Wax Free](https://waxcenter.com/pages/first-wax-free-2024)
-    * [Refer a Friend](https://waxcenter.com/pages/refer-a-friend)
+    * [What to Expect](https://waxcenter.com/pages/brazilian-waxing-what-to-expect?ajs_aid=06f3dd8d-3f34-470d-8b10-17196704fa75%3Fajs_aid%3D06f3dd8d-3f34-470d-8b10-17196704fa75%3Fajs_aid%3D06f3dd8d-3f34-470d-8b10-17196704fa75)
+    * [FAQ's](https://waxcenter.com/pages/faqs)
     * [EWC Rewards](https://waxcenter.com/pages/ewcrewards)
-    * [What to Expect](https://waxcenter.com/pages/brazilian-waxing-what-to-expect)
     
 * Learn
     
-    Learn
+      Learn
     
     * [Articles](https://waxcenter.com/blogs/news)
     * [Press + Awards](https://waxcenter.com/pages/press-awards)
@@ -79,7 +85,7 @@
     
 * Perks
     
-    Perks
+      Perks
     
     * [Promotions](https://waxcenter.com/pages/promotions)
     * [Wax Passes](https://waxcenter.com/pages/wax-passes)
@@ -87,21 +93,17 @@
     * [Refer a friend](https://waxcenter.com/pages/refer-a-friend)
     * [EWC Rewards](https://waxcenter.com/pages/ewcrewards)
     
-* Wax Pass
-    
-    Wax Pass
-    
-    * [Save 18%, Buy 9 Waxes, Get 2 Free](https://waxcenter.com/pages/wax-passes)
-    
 * [Gift Cards](https://waxcenter.com/pages/gift-cards)
 * [Get $10](https://waxcenter.com/pages/refer-a-friend?traffic_source=mobile_menu)
 * [Book Now](https://reservations.waxcenter.com/webstoreNew/user/signIn)
+* ![](//waxcenter.com/cdn/shop/t/364/assets/Black.png?v=9767089384246187071725892490) First Wax Free
 
 [Log in](https://waxcenter.com/account/login)
 
 * [Facebook](https://www.facebook.com/EuropeanWax)
 * [Twitter](https://twitter.com/EuropeanWax)
 * [Instagram](https://www.instagram.com/europeanwax)
+* [TikTok](https://www.tiktok.com/@europeanwax?)
 
 [![European Wax Center](//waxcenter.com/cdn/shop/files/EWC-Logo-400x400.png?height=120&v=1614305224)](https://waxcenter.com/)
 
@@ -129,7 +131,7 @@
         * [Full Facial Waxing](https://waxcenter.com/pages/facial-hair-waxing)
         
     * [All Waxing Services](https://waxcenter.com/pages/wax-services)
-    * [Brow Tint](https://waxcenter.com/pages/brow-tint-2024)
+    * [Eyebrow Tinting](https://waxcenter.com/pages/brow-tint-2024)
     * [Laser Hair Removal](https://waxcenter.com/pages/laser-hair-removal)
     * [Men's Waxing Services](https://waxcenter.com/pages/waxing-for-men)
     
@@ -144,13 +146,17 @@
     * [Gift Cards](https://waxcenter.com/pages/gift-cards)
     * [Wax Passes](https://waxcenter.com/pages/wax-passes)
     
+* [Wax Pass](https://waxcenter.com/pages/wax-passes)
+    
+    * [Save 18%, Buy 9 Waxes, Get 2 Free](https://waxcenter.com/pages/wax-passes)
+    
 * [Locations](https://locations.waxcenter.com/)
-* [First Time Guest](https://waxcenter.com/pages/first-wax-free-2024)
+* [First Visit](https://waxcenter.com/pages/first-wax-free-2024)
     
     * [First Wax Free](https://waxcenter.com/pages/first-wax-free-2024)
-    * [Refer a Friend](https://waxcenter.com/pages/refer-a-friend)
+    * [What to Expect](https://waxcenter.com/pages/brazilian-waxing-what-to-expect?ajs_aid=06f3dd8d-3f34-470d-8b10-17196704fa75%3Fajs_aid%3D06f3dd8d-3f34-470d-8b10-17196704fa75%3Fajs_aid%3D06f3dd8d-3f34-470d-8b10-17196704fa75)
+    * [FAQ's](https://waxcenter.com/pages/faqs)
     * [EWC Rewards](https://waxcenter.com/pages/ewcrewards)
-    * [What to Expect](https://waxcenter.com/pages/brazilian-waxing-what-to-expect)
     
 * [Learn](https://waxcenter.com/)
     
@@ -167,10 +173,6 @@
     * [First Wax Free](https://waxcenter.com/pages/first-wax-free-2024)
     * [Refer a friend](https://waxcenter.com/pages/refer-a-friend)
     * [EWC Rewards](https://waxcenter.com/pages/ewcrewards)
-    
-* [Wax Pass](https://waxcenter.com/pages/wax-passes)
-    
-    * [Save 18%, Buy 9 Waxes, Get 2 Free](https://waxcenter.com/pages/wax-passes)
     
 * [Gift Cards](https://waxcenter.com/pages/gift-cards)
 [BOOK NOW](https://locations.waxcenter.com/)
@@ -192,15 +194,15 @@ Refund policy
 
 **What is your Return Policy****?**
 
-All sales are final. Returns, refunds and/or exchanges are not available. If you experience a problem with your order, contact [shop@waxcenter.com](mailto:shop@waxcenter.com) for support and someone will respond within 48 business hours.  Additionally, all EWC Center locations are independently owned and operated; returns, exchanges or inquiries about orders placed on this website cannot be accepted at any local EWC center locations. **Note, orders cannot be edited or canceled once checkout is complete.**
+All sales are final. Returns, refunds and/or exchanges are not available. If you experience a problem with your order, contact [guestservices@waxcenter.com](mailto:guestservices@waxcenter.com) for support and someone will respond within 48 business hours.  Additionally, all EWC Center locations are independently owned and operated; returns, exchanges or inquiries about orders placed on this website cannot be accepted at any local EWC center locations. **Note, orders cannot be edited or canceled once checkout is complete.**
 
 **What if my item was damaged or incorrect?**
 
-If you’ve received a damaged, or incorrect product, please  contact [shop@waxcenter.com](mailto:shop@waxcenter.com)  for support and someone will respond within 48 business hours. In your email, please include your order number and a photo of the item.
+If you’ve received a damaged, or incorrect product, please  contact [guestservices@waxcenter.com](mailto:guestservices@waxcenter.com) for support and someone will respond within 48 business hours. In your email, please include your order number and a photo of the item.
 
 **What if I need to edit or modify an order I already placed?**
 
-Unfortunately, once an order is submitted, we are unable to edit or cancel it. Contact [shop@waxcenter.com](mailto:shop@waxcenter.com) for support.
+Unfortunately, once an order is submitted, we are unable to edit or cancel it. Contact [guestservices@waxcenter.com](mailto:guestservices@waxcenter.com) for support.
 
 **What shipping methods are available?**
 
@@ -216,7 +218,7 @@ You can select expedited shipping during checkout for an additional fee. We’re
 
 **How can I get an update on my order status?**
 
-The best way to track the progress of your order is to set up an account during checkout. You can log in at any time to receive the most up-to-date information. If you didn’t set up an account, email [shop@waxcenter.com](mailto:shop@waxcenter.com) [](mailto:guestservices@waxcenter.com)with your order number.
+The best way to track the progress of your order is to set up an account during checkout. You can log in at any time to receive the most up-to-date information. If you didn’t set up an account, email [guestservices@waxcenter.com](mailto:guestservices@waxcenter.com)  with your order number.
 
 **How can I track my order?**
 
@@ -224,15 +226,16 @@ You will receive an order confirmation email upon submission of your order, and 
 
 **What happens if my product does not arrive?**
 
-Please refer to your shipment confirmation email for order tracking information. If you’ve not received your order after a tracking number indicates delivery, contact [shop@waxcenter.com](mailto:shop@waxcenter.com) for support and someone will respond within 48 business hours. In your email, please include your order number.
+Please refer to your shipment confirmation email for order tracking information. If you’ve not received your order after a tracking number indicates delivery, contact [guestservices@waxcenter.com](mailto:guestservices@waxcenter.com) for support and someone will respond within 48 business hours. In your email, please include your order number.
 
 **Do you offer gift packaging or messages?**  
 
 We are not able to offer gift wrapping or gift messages with orders. All orders will include a packing ticket in the box.
 
 2014 E. Hickory Hill  
-Argyle TX 76226  
-[shop@waxcenter.com](mailto:shop@waxcenter.com)
+Argyle TX 76226
+
+[guestservices@waxcenter.com](mailto:guestservices@waxcenter.com)
 
 Find a wax center near you
 
@@ -281,6 +284,7 @@ Sign-up now to reserve your birthday treat and to receive exclusive invitations,
 * [Facebook](https://www.facebook.com/EuropeanWax)
 * [Twitter](https://twitter.com/EuropeanWax)
 * [Instagram](https://www.instagram.com/europeanwax)
+* [TikTok](https://www.tiktok.com/@europeanwax?)
 * Follow us on social media!
 
 © 2024, [European Wax Center](https://waxcenter.com/). All rights reserved.
