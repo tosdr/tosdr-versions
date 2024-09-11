@@ -410,5 +410,3 @@ Yubico © 2024 All Rights Reserved.
 * [Patents](https://www.yubico.com/why-yubico/patents/)
 * [Terms of use](https://www.yubico.com/support/terms-conditions/yubico-website-terms-conditions/)
 * [Trust](https://www.yubico.com/trust/)
-
-[Mastodon](https://infosec.exchange/@yubico)
