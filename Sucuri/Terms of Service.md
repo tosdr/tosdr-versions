@@ -22,6 +22,7 @@
     * [SiteCheck](https://sitecheck.sucuri.net/)
     * [Reports](https://sucuri.net/reports/)
     * [Email Courses](https://sucuri.net/email-courses/)
+    * [Ebooks](https://sucuri.net/ebooks/)
     * [Technical Hub](https://sucuri.net/technical-hub/)
 * [Pricing](https://sucuri.net/website-security-platform/signup/)
 
@@ -49,6 +50,7 @@ Menu
     * [SiteCheck](https://sitecheck.sucuri.net/)
     * [Reports](https://sucuri.net/reports/)
     * [Email Courses](https://sucuri.net/email-courses/)
+    * [Ebooks](https://sucuri.net/ebooks/)
     * [Technical Hub](https://sucuri.net/technical-hub/)
 * [Pricing](https://sucuri.net/website-security-platform/signup/)
 
