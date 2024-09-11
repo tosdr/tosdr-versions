@@ -23,7 +23,7 @@
     * [New York News](https://www.theepochtimes.com/us/nyc)
     * [San Francisco](https://www.theepochtimes.com/us/nor-cal-san-francisco)
     * [Los Angeles](https://www.theepochtimes.com/us/so-cal-los-angeles)
-* [Perspectives](https://www.theepochtimes.com/opinion)
+* [Opinion](https://www.theepochtimes.com/opinion)
     * [Thinking About China](https://www.theepochtimes.com/opinion/thinking-about-china)
     * [Viewpoints](https://www.theepochtimes.com/opinion/viewpoints)
     * [Unbridled Evil: The Corrupt Reign of Jiang Zemin in China](https://www.theepochtimes.com/jiang-zemin-story)
@@ -96,7 +96,7 @@ Search Text  [SEARCH](javascript:void(0);)
 * [EpochTV](https://www.theepochtimes.com/epochtv)
 * [US](https://www.theepochtimes.com/us-news)
 * [US Politics](https://www.theepochtimes.com/us/us-politics)
-* [Perspectives](https://www.theepochtimes.com/opinion)
+* [Opinion](https://www.theepochtimes.com/opinion)
 * [World News](https://www.theepochtimes.com/world)
 * [China](https://www.theepochtimes.com/china-news)
 * [Hong Kong](https://www.theepochtimes.com/hong-kong)
@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [US Airlines Delta, United Cancel Flights to Tel Aviv Amid Middle East Tensions](https://www.theepochtimes.com/us/us-airlines-delta-united-cancel-flights-to-tel-aviv-amid-middle-east-tensions-5697629)
+* [42 Attorneys General Urge Congress to Add Surgeon General Warning on Social Media Platforms](https://www.theepochtimes.com/us/42-attorneys-general-urge-congress-to-add-surgeon-general-warning-on-social-media-platforms-5721588)
     
-    3hr By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
+    1hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
     
-    [![US Airlines Delta, United Cancel Flights to Tel Aviv Amid Middle East Tensions](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![42 Attorneys General Urge Congress to Add Surgeon General Warning on Social Media Platforms](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![US Airlines Delta, United Cancel Flights to Tel Aviv Amid Middle East Tensions](https://img.theepochtimes.com/assets/uploads/2024/04/01/id5619423-United-205x123.jpg.webp)](https://www.theepochtimes.com/us/us-airlines-delta-united-cancel-flights-to-tel-aviv-amid-middle-east-tensions-5697629)
-* [‘I’m Hoping It’ll Be Mark Kelly’: Voters in Battleground Arizona Share Thoughts on Harris, Possible Running Mates](https://www.theepochtimes.com/us/im-hoping-itll-be-mark-kelly-voters-in-battleground-arizona-share-thoughts-on-harris-possible-running-mates-5696721)
+    ![42 Attorneys General Urge Congress to Add Surgeon General Warning on Social Media Platforms](https://img.theepochtimes.com/assets/uploads/2024/05/08/id5646568-Teen-Phone-205x123.jpg.webp)](https://www.theepochtimes.com/us/42-attorneys-general-urge-congress-to-add-surgeon-general-warning-on-social-media-platforms-5721588)
+* [Congress Passes Bill to Reduce Chinese Influence on US Campuses](https://www.theepochtimes.com/us/congress-passes-bill-to-reduce-chinese-influence-on-us-campuses-5721722)
     
-    7hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester) and [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh)
+    2hr By [Terri Wu](https://www.theepochtimes.com/author/terri-wu)
     
-    [![‘I’m Hoping It’ll Be Mark Kelly’: Voters in Battleground Arizona Share Thoughts on Harris, Possible Running Mates](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Congress Passes Bill to Reduce Chinese Influence on US Campuses](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![‘I’m Hoping It’ll Be Mark Kelly’: Voters in Battleground Arizona Share Thoughts on Harris, Possible Running Mates](https://img.theepochtimes.com/assets/uploads/2024/07/01/id5697650-GettyImages-1228965594-205x123.jpg.webp)](https://www.theepochtimes.com/us/im-hoping-itll-be-mark-kelly-voters-in-battleground-arizona-share-thoughts-on-harris-possible-running-mates-5696721)
-* [Organic Farm Offers a Lifeline to America’s Struggling Veterans](https://www.theepochtimes.com/us/organic-farm-offers-a-lifeline-to-americas-struggling-veterans-5695207)
+    ![Congress Passes Bill to Reduce Chinese Influence on US Campuses](https://img.theepochtimes.com/assets/uploads/2024/09/10/id5721729-EpochImages-1144217228-205x123.jpg.webp)](https://www.theepochtimes.com/us/congress-passes-bill-to-reduce-chinese-influence-on-us-campuses-5721722)
+* [Trump, Harris to Square Off in High-Stakes Debate](https://www.theepochtimes.com/us/trump-harris-to-square-off-in-high-stakes-debate-5721833)
     
-    9hr By [Autumn Spredemann](https://www.theepochtimes.com/author/autumn-spredemann)
+    2hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
-    [![Organic Farm Offers a Lifeline to America’s Struggling Veterans](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Trump, Harris to Square Off in High-Stakes Debate](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Organic Farm Offers a Lifeline to America’s Struggling Veterans](https://img.theepochtimes.com/assets/uploads/2024/07/30/id5696524-flag-205x123.jpg.webp)](https://www.theepochtimes.com/us/organic-farm-offers-a-lifeline-to-americas-struggling-veterans-5695207)
-* [Despite Uproar, Newsom’s Encampment Order Unlikely to Shake Up Local Policy](https://www.theepochtimes.com/us/despite-uproar-newsoms-encampment-order-unlikely-to-shake-up-local-policy-5697537)
+    ![Trump, Harris to Square Off in High-Stakes Debate](https://img.theepochtimes.com/assets/uploads/2024/09/10/id5721839-09102024-DSC08007-Presidential-debate-between-Trump-Harris-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-harris-to-square-off-in-high-stakes-debate-5721833)
+* [Louisiana Residents Evacuate, Make Final Preparations for Tropical Storm Francine](https://www.theepochtimes.com/us/louisiana-residents-evacuate-make-final-preparations-for-tropical-storm-francine-5721584)
     
-    10hr By [Beige Luciano-Adams](https://www.theepochtimes.com/author/beige-luciano-adams)
+    2hr By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
     
-    [![Despite Uproar, Newsom’s Encampment Order Unlikely to Shake Up Local Policy](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Louisiana Residents Evacuate, Make Final Preparations for Tropical Storm Francine](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Despite Uproar, Newsom’s Encampment Order Unlikely to Shake Up Local Policy](https://img.theepochtimes.com/assets/uploads/2022/11/23/GettyImages-1431097320-205x123.jpeg.webp)](https://www.theepochtimes.com/us/despite-uproar-newsoms-encampment-order-unlikely-to-shake-up-local-policy-5697537)
-* [Rubio Introduces Falun Gong Protection Act Targeting CCP’s Forced Organ Harvesting](https://www.theepochtimes.com/us/rubio-introduces-falun-gong-protection-act-targeting-ccps-forced-organ-harvesting-5697474)
+    ![Louisiana Residents Evacuate, Make Final Preparations for Tropical Storm Francine](https://img.theepochtimes.com/assets/uploads/2024/09/10/id5721704-tsfrancinesatimg2-205x123.jpeg.webp)](https://www.theepochtimes.com/us/louisiana-residents-evacuate-make-final-preparations-for-tropical-storm-francine-5721584)
+* [Day in Photos: California Fire, Remembering the Fallen, and Polaris Dawn Mission Begins](https://www.theepochtimes.com/article/day-in-photos-remembering-the-fallen-polaris-dawn-mission-begins-and-an-ethiopian-new-year-5720902)
     
-    12hr By [Eva Fu](https://www.theepochtimes.com/author/eva-fu)
+    3hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
-    [![Rubio Introduces Falun Gong Protection Act Targeting CCP’s Forced Organ Harvesting](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Day in Photos: California Fire, Remembering the Fallen, and Polaris Dawn Mission Begins](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Rubio Introduces Falun Gong Protection Act Targeting CCP’s Forced Organ Harvesting](https://img.theepochtimes.com/assets/uploads/2024/07/31/id5697569-GettyImages-1412540326-SB-205x123.jpg.webp)](https://www.theepochtimes.com/us/rubio-introduces-falun-gong-protection-act-targeting-ccps-forced-organ-harvesting-5697474)
-* [Katie Ledecky Sets Olympic Record, Wins Gold in 1,500 Freestyle](https://www.theepochtimes.com/sports/katie-ledecky-sets-olympic-record-wins-gold-in-1500m-freestyle-5697418)
+    ![Day in Photos: California Fire, Remembering the Fallen, and Polaris Dawn Mission Begins](https://img.theepochtimes.com/assets/uploads/2024/09/10/id5721746-EpochImages-3914722503-xl-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-remembering-the-fallen-polaris-dawn-mission-begins-and-an-ethiopian-new-year-5720902)
+* [US Sanctions Iran for Providing Hundreds of Missiles to Russia](https://www.theepochtimes.com/world/us-sanctions-iran-for-providing-hundreds-of-missiles-to-russia-5721511)
     
-    12hr By [Jessamyn Dodd](https://www.theepochtimes.com/author/jessamyn-dodd)
+    5hr By [Andrew Thornebrooke](https://www.theepochtimes.com/author/andrew-thornebrooke)
     
-    [![Katie Ledecky Sets Olympic Record, Wins Gold in 1,500 Freestyle](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![US Sanctions Iran for Providing Hundreds of Missiles to Russia](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Katie Ledecky Sets Olympic Record, Wins Gold in 1,500 Freestyle](https://img.theepochtimes.com/assets/uploads/2024/07/31/id5697481-GettyImages-2164687540-205x123.jpg.webp)](https://www.theepochtimes.com/sports/katie-ledecky-sets-olympic-record-wins-gold-in-1500m-freestyle-5697418)
-* [In Photos: Team USA’s Medal Count at Paris Olympics](https://www.theepochtimes.com/sports/in-photos-team-usas-medal-count-at-paris-olympics-5697264)
+    ![US Sanctions Iran for Providing Hundreds of Missiles to Russia](https://img.theepochtimes.com/assets/uploads/2024/09/10/id5721766-bolgorod-missile-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/us-sanctions-iran-for-providing-hundreds-of-missiles-to-russia-5721511)
+* [Speaker Johnson Vows to Press Ahead With Stopgap Spending Plan](https://www.theepochtimes.com/us/speaker-johnson-schedules-floor-vote-for-stopgap-spending-plan-5721004)
     
-    12hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    6hr By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord)
     
-    [![In Photos: Team USA’s Medal Count at Paris Olympics](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Speaker Johnson Vows to Press Ahead With Stopgap Spending Plan](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![In Photos: Team USA’s Medal Count at Paris Olympics](https://img.theepochtimes.com/assets/uploads/2024/07/31/id5697565-Katie-Ledecky-GettyImages-2164688982KO-205x123.jpg.webp)](https://www.theepochtimes.com/sports/in-photos-team-usas-medal-count-at-paris-olympics-5697264)
-* [Fitness Experts Weigh in On Hollywood Star Mark Wahlberg’s 2am Routine](https://www.theepochtimes.com/entertainment/fitness-experts-weigh-in-on-hollywood-star-mark-wahlbergs-2am-routine-5696993)
+    ![Speaker Johnson Vows to Press Ahead With Stopgap Spending Plan](https://img.theepochtimes.com/assets/uploads/2024/09/10/id5721717-GettyImages-2170520395KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/speaker-johnson-schedules-floor-vote-for-stopgap-spending-plan-5721004)
+* [Study Links Children’s Skin Care Products to Hormone-Disrupting Chemical](https://www.theepochtimes.com/health/study-links-childrens-skin-care-products-to-hormone-disrupting-chemical-5721147)
     
-    15hr By [Juliette Fairley](https://www.theepochtimes.com/author/juliette-fairley)
+    6hr By [Huey Freeman](https://www.theepochtimes.com/author/huey-freeman)
     
-    [![Fitness Experts Weigh in On Hollywood Star Mark Wahlberg’s 2am Routine](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Study Links Children’s Skin Care Products to Hormone-Disrupting Chemical](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Fitness Experts Weigh in On Hollywood Star Mark Wahlberg’s 2am Routine](https://img.theepochtimes.com/assets/uploads/2024/07/31/id5697564-GettyImages-1769867884KO-205x123.jpg.webp)](https://www.theepochtimes.com/entertainment/fitness-experts-weigh-in-on-hollywood-star-mark-wahlbergs-2am-routine-5696993)
-* [Donor-Conceived Adults Face Unique Challenges](https://www.theepochtimes.com/health/donor-conceived-adults-face-unique-challenges-5691836)
+    ![Study Links Children’s Skin Care Products to Hormone-Disrupting Chemical](https://img.theepochtimes.com/assets/uploads/2024/09/10/id5721644-shutterstock_2155184679_toddler_sunscreen_skincare_moisturizer-205x123.jpg.webp)](https://www.theepochtimes.com/health/study-links-childrens-skin-care-products-to-hormone-disrupting-chemical-5721147)
+* [When Imbalanced pH-Levels Cause Illnesses–Part 1](https://www.theepochtimes.com/health/acid-base-homeostasis-when-imbalanced-ph-levels-cause-arbitrary-illnesses-5710798)
     
-    15hr By [Zrinka Peters](https://www.theepochtimes.com/author/zrinka-peters)
+    7hr By [Alexandra Roach](https://www.theepochtimes.com/author/alexandra-roach)
     
-    [![Donor-Conceived Adults Face Unique Challenges](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![When Imbalanced pH-Levels Cause Illnesses–Part 1](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Donor-Conceived Adults Face Unique Challenges](https://img.theepochtimes.com/assets/uploads/2024/07/30/id5696170-Shutterstock_2264981713-205x123.jpg.webp)](https://www.theepochtimes.com/health/donor-conceived-adults-face-unique-challenges-5691836)
-* [Federal Reserve Holds Rates Steady, Signals Cut in September](https://www.theepochtimes.com/business/federal-reserve-leaves-interest-rates-unchanged-at-23-year-high-5697217)
+    ![When Imbalanced pH-Levels Cause Illnesses–Part 1](https://img.theepochtimes.com/assets/uploads/2024/09/05/id5718879-Shutterstock_1439735357-205x123.jpg.webp)](https://www.theepochtimes.com/health/acid-base-homeostasis-when-imbalanced-ph-levels-cause-arbitrary-illnesses-5710798)
+* [Credit Card Payment Processor Says Hack Affected Nearly 1.7 Million People](https://www.theepochtimes.com/business/credit-card-payment-processor-says-hack-affected-nearly-1-7-million-people-5721551)
     
-    16hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    8hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
-    [![Federal Reserve Holds Rates Steady, Signals Cut in September](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Credit Card Payment Processor Says Hack Affected Nearly 1.7 Million People](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Federal Reserve Holds Rates Steady, Signals Cut in September](https://img.theepochtimes.com/assets/uploads/2024/07/31/id5697317-Jerome-Powell-GettyImages-2164053564-205x123.jpg.webp)](https://www.theepochtimes.com/business/federal-reserve-leaves-interest-rates-unchanged-at-23-year-high-5697217)
+    ![Credit Card Payment Processor Says Hack Affected Nearly 1.7 Million People](https://img.theepochtimes.com/assets/uploads/2024/09/10/id5721770-GettyImages-1228231209-1200x800-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/credit-card-payment-processor-says-hack-affected-nearly-1-7-million-people-5721551)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
@@ -291,7 +291,7 @@ DOWNLOAD OUR APP
     * [New York News](https://www.theepochtimes.com/us/nyc)
     * [San Francisco](https://www.theepochtimes.com/us/nor-cal-san-francisco)
     * [Los Angeles](https://www.theepochtimes.com/us/so-cal-los-angeles)
-* [Perspectives](https://www.theepochtimes.com/opinion)
+* [Opinion](https://www.theepochtimes.com/opinion)
     * [Thinking About China](https://www.theepochtimes.com/opinion/thinking-about-china)
     * [Viewpoints](https://www.theepochtimes.com/opinion/viewpoints)
     * [Unbridled Evil: The Corrupt Reign of Jiang Zemin in China](https://www.theepochtimes.com/jiang-zemin-story)
