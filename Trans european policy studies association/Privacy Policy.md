@@ -149,7 +149,6 @@ Projects
 
 * [ActEU](https://tepsa.eu/projects/acteu-activating-european-citizens-trust-in-times-of-crises-and-polarisation/)
 * [EU-Bridge](https://tepsa.eu/projects/eu-bridge-tepsas-operating-grant/)
-* [Expertise for the European Parliament](https://tepsa.eu/projects/expertise-for-the-european-parliament/)
 * [InvigoratEU](https://tepsa.eu/projects/invigorateu-invigorating-enlargement-and-neighbourhood-policy-for-a-resilient-europe/)
 * [Nets4Dem](https://tepsa.eu/projects/nets4dem-network-of-networks-4-democracy/)
 * [RECLAIM](https://tepsa.eu/projects/reclaim-reclaiming-liberal-democracy-in-the-post-factual-age/)
@@ -157,7 +156,6 @@ Projects
 
 * [ActEU](https://tepsa.eu/projects/acteu-activating-european-citizens-trust-in-times-of-crises-and-polarisation/)
 * [EU-Bridge](https://tepsa.eu/projects/eu-bridge-tepsas-operating-grant/)
-* [Expertise for the European Parliament](https://tepsa.eu/projects/expertise-for-the-european-parliament/)
 * [InvigoratEU](https://tepsa.eu/projects/invigorateu-invigorating-enlargement-and-neighbourhood-policy-for-a-resilient-europe/)
 * [Nets4Dem](https://tepsa.eu/projects/nets4dem-network-of-networks-4-democracy/)
 * [RECLAIM](https://tepsa.eu/projects/reclaim-reclaiming-liberal-democracy-in-the-post-factual-age/)
