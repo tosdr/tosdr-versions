@@ -36,7 +36,7 @@ Menu
     Veeam Data Platform Self-managed data protection for hybrid  
     and multi-cloud data Veeam Data Cloud Cloud-native backup and storage  
     services for M365 & Azure Workload Specific Solutions for individual applications Solutions By Business Type Solutions for Enterprise, Small Businesses  
-    and Service Providers
+    and Service Providers Free Community Editions
     
     Veeam Data Platform Self-managed data protection for hybrid  
     and multi-cloud data
@@ -45,16 +45,19 @@ Menu
     
     * [Overview](https://www.veeam.com/products/veeam-data-platform.html?ad=menu-products-vdp)
     
-    Platform Components
+    **Platform Editions**
     
-    * [Backup & Recovery](https://www.veeam.com/products/veeam-data-platform/backup-recovery.html?ad=menu-products-vdp)
-    * [Monitoring & Analytics](https://www.veeam.com/products/veeam-data-platform/monitoring-analytics.html?ad=menu-products-vdp)
-    * [Recovery Orchestration](https://www.veeam.com/products/veeam-data-platform/recovery-orchestration.html?ad=menu-products-vdp)
+    [Premium](https://www.veeam.com/products/veeam-data-platform/premium-edition.html?ad=menu-products-vdp)  
+    Backup, Recovery, Data Insights & Resilience
     
-    Free Community Editions
+    [Advanced](https://www.veeam.com/products/veeam-data-platform/advanced-edition.html?ad=menu-products-vdp)  
+    Secure Backup, Recovery & Data Insights
     
-    * [Veeam Backup & Replication CE](https://www.veeam.com/products/free/backup-recovery.html?ad=menu-products-vdp)
-    * [All Free Tools](https://www.veeam.com/products/downloads.html?hvt=free&ad=menu-products-vdp)
+    [Foundation](https://www.veeam.com/products/veeam-data-platform/foundation-edition.html?ad=menu-products-vdp)  
+    Secure Backup with Instant Recovery
+    
+    [Essentials](https://www.veeam.com/products/veeam-data-platform/essentials.html?ad=menu-products-vdp)  
+    Backup, Recovery & Insights for Small Business
     
     How to Buy
     
@@ -65,17 +68,14 @@ Menu
     * [Managed Backup & DR Services](https://www.veeam.com/solutions/managed-services/managed-backup-dr-services.html?ad=menu-products-vdp)
     * [Buy Online](https://store.veeam.com/1620/purl-store?ad=menu-products-vdp)
     
-         [![Menu diagram](https://cdn.veeam.com/content/dam/veeam/en/public/images/diagrams/menu-diagram.svg?ck=1697532117059)](https://www.veeam.com/products/veeam-data-platform.html?ad=menu-products-vdp-diagram)
+           ![Menu VDP diagram](https://cdn.veeam.com/content/dam/veeam/en/public/images/menu_vdp_diagramm.png.web.1920.1920.webp?ck=1724339356191)
     
-    [Try in lab](https://go.veeam.com/webinar-ransomware-hands-on-lab-experience?ad=menu-products-vdp)
+    **2024 Gartner® Magic Quadrant™**
     
-    [Free trial](https://www.veeam.com/products/data-platform-trial.html?ad=menu-products-vdp)
+    Veeam recognized as highest in Ability to  
+    Execute for the 5th consecutive time​
     
-    **2024** ****Data Protection Trends****
-    
-    5th annual report summarizing data protection strategies of up to 13,300 organizations over 2020-2026​
-    
-    [Get the Report](https://go.veeam.com/wp-data-protection-trends-2024?ad=menu-products-vdp-banner)
+    [Get Report](https://www.veeam.com/gartner-magic-quadrant.html?ad=menu-products-vdp-banner)
     
     Veeam Data Cloud Cloud-native backup and storage  
     services for M365 & Azure
@@ -98,7 +98,7 @@ Menu
     
          [![Menu diagram](https://cdn.veeam.com/content/dam/veeam/en/public/images/diagrams/menu_vdc_diagram.png.web.1920.1920.webp?ck=1711629313815)](https://www.veeam.com/products/veeam-data-cloud.html?ad=menu-products-vdc-diagram)
     
-    [M365 Product Tour](https://www.veeam.com/products/saas/backup-microsoft-office-365.html?ad=menu-products-vdc#interactive-walkthrough)
+    [M365 Product Tour](https://www.veeam.com/products/saas/backup-microsoft-office-365.html?ad=menu-products-vdc#benefits)
     
     [Request M365 Demo](https://www.veeam.com/backup-microsoft-office-365/vdc-demo.html?ad=menu-products-vdc)
     
@@ -107,28 +107,18 @@ Menu
     
     Speed and scale meet control and flexibility​
     
-    [Learn More](https://www.veeam.com/company/press-release/veeam-brings-data-resilience-to-over-21-million-microsoft-365-users-with-new-microsoft-365-backup-storage-capabilities-for-veeam-data-cloud.html?ad=menu-products-vdp-banner)
+    [Learn More](https://www.veeam.com/products/saas/backup-service-microsoft-office-365.html?ad=menu-products-vdc-banner)
     
     Workload Specific Solutions for individual applications
     
     Workloads
     
-    * [Backup for Microsoft 365](https://www.veeam.com/products/saas/backup-service-microsoft-office-365.html?ad=menu-products-workloads)
+    * [Backup for Microsoft 365](https://www.veeam.com/products/saas/backup-microsoft-office-365.html?ad=menu-products-workloads)
     * [Backup for Salesforce](https://www.veeam.com/products/saas/salesforce-backup.html?ad=menu-products-workloads)
     * [Backup for Kubernetes](https://www.veeam.com/products/cloud/kubernetes-data-protection.html?ad=menu-products-workloads)
     * [Backup for AWS](https://www.veeam.com/products/cloud/aws-backup.html?ad=menu-products-workloads)
     * [Backup for Microsoft Azure](https://www.veeam.com/products/cloud/azure-backup.html?ad=menu-products-workloads)
     * [Backup for Google Cloud](https://www.veeam.com/products/cloud/google-cloud-backup.html?ad=menu-products-workloads)
-    
-    Free Community Editions
-    
-    * [Veeam Microsoft 365 CE](https://www.veeam.com/products/free/backup-microsoft-office-365.html?ad=menu-products-workloads)
-    * [Veeam Insights for Microsoft 365](https://www.veeam.com/products/free/insights-microsoft-office-365.html?ad=menu-products-workloads)
-    * [Veeam Salesforce CE](https://www.veeam.com/free-salesforce-backup.html?ad=menu-products-workloads)
-    * [Veeam Kasten Free](https://www.veeam.com/products/free/kubernetes.html?ad=menu-products-workloads)
-    * [Veeam Backup for AWS Free](https://www.veeam.com/products/cloud/aws-backup.html?ad=menu-products-workloads)
-    * [Veeam Backup for Microsoft Azure Free](https://www.veeam.com/products/cloud/azure-backup.html?ad=menu-products-workloads)
-    * [Veeam Backup for Google Cloud Free](https://www.veeam.com/products/cloud/google-cloud-backup.html?ad=menu-products-workloads)
     
     How to Buy
     
@@ -158,6 +148,22 @@ Menu
     Leverage Veeam technology to offer powerful BaaS and DRaaS services
     
     [Learn More](https://www.veeam.com/solutions/service-providers.html?ad=menu-products-business-type#solutions)
+    
+    Free Community Editions
+    
+    Free Community Editions
+    
+    * [Veeam Backup & Replication CE](https://www.veeam.com/products/free/backup-recovery.html?ad=menu-products-free)
+    * [Veeam Microsoft 365 CE](https://www.veeam.com/products/free/backup-microsoft-office-365.html?ad=menu-products-free)
+    * [Veeam Insights for Microsoft 365](https://www.veeam.com/products/free/insights-microsoft-office-365.html?ad=menu-products-free)
+    * [Veeam Salesforce CE](https://www.veeam.com/free-salesforce-backup.html?ad=menu-products-free)
+    * [Veeam Kasten Free](https://www.veeam.com/products/free/kubernetes.html?ad=menu-products-free)
+    * [Veeam Backup for AWS Free](https://www.veeam.com/products/cloud/aws-backup.html?ad=menu-products-free)
+    * [Veeam Backup for Microsoft Azure Free](https://www.veeam.com/products/cloud/azure-backup.html?ad=menu-products-free)
+    * [Veeam Backup for Google Cloud Free](https://www.veeam.com/products/cloud/google-cloud-backup.html?ad=menu-products-free)
+    * [All Free Tools](https://www.veeam.com/products/downloads.html?ad=menu-products-free)
+    
+           ![Menu VDP diagram](https://cdn.veeam.com/content/dam/veeam/en/public/images/menu_vdp_diagramm.png.web.1920.1920.webp?ck=1724339356191)
     
 * [Solutions](javascript:void(0);)
     
@@ -201,13 +207,13 @@ Menu
     
     **Cloud**  [AWS](https://www.veeam.com/products/cloud/aws-backup.html?ad=menu-solutions) | [Azure](https://www.veeam.com/products/cloud/azure-backup.html?ad=menu-solutions) | [Google](https://www.veeam.com/products/cloud/google-cloud-backup.html?ad=menu-solutions) | [Kubernetes](https://www.veeam.com/kubernetes-native-backup-and-restore.html?ad=menu-solutions)
     
-    **Virtual**  [VMware](https://www.veeam.com/products/virtual/vmware-backup-recovery.html?ad=menu-solutions) | [Hyper-V](https://www.veeam.com/products/virtual/hyper-v-backup-recovery.html?ad=menu-solutions) | [Nutanix AHV](https://www.veeam.com/products/virtual/nutanix-backup-recovery.html?ad=menu-solutions) | [Oracle Linux VM](https://www.veeam.com/products/virtual/kvm-backup-recovery.html?ad=menu-solutions) | [RHV](https://www.veeam.com/products/virtual/kvm-backup-recovery.html?ad=menu-solutions)
+    **Virtual**  [VMware](https://www.veeam.com/products/virtual/vmware-backup-recovery.html?ad=menu-solutions) | [Hyper-V](https://www.veeam.com/products/virtual/hyper-v-backup-recovery.html?ad=menu-solutions) | [Nutanix AHV](https://www.veeam.com/products/virtual/nutanix-backup-recovery.html?ad=menu-solutions) | [Oracle Linux VM](https://www.veeam.com/products/virtual/kvm-backup-recovery.html?ad=menu-solutions) | [RHV](https://www.veeam.com/products/virtual/kvm-backup-recovery.html?ad=menu-solutions) | [Proxmox](https://www.veeam.com/products/virtual/proxmox-backup-recovery.html?ad=menu-solutions)
     
     **Physical**  [Windows](https://www.veeam.com/products/physical/windows-backup-recovery.html?ad=menu-solutions) | [Linux](https://www.veeam.com/products/physical/linux-backup-recovery.html?ad=menu-solutions) | [MacOS](https://www.veeam.com/products/physical/mac-backup-recovery.html?ad=menu-solutions) | [Unix](https://www.veeam.com/products/physical/ibm-aix-oracle-solaris-backup-recovery.html?ad=menu-solutions) | [NAS](https://www.veeam.com/products/physical/nas-backup-recovery.html?ad=menu-solutions)
     
-    **Apps**  [Microsoft](https://www.veeam.com/application-availability-solutions.html?ad=menu-solutions) | [Oracle](https://www.veeam.com/products/applications/oracle-backup-recovery.html?ad=menu-solutions) | [SAP Hana](https://www.veeam.com/products/applications/sap-hana-backup-recovery.html?ad=menu-solutions) | [PostgreSQL](https://www.veeam.com/products/physical/linux-backup-recovery.html?ad=menu-solutions)
+    **Apps**  [Microsoft](https://www.veeam.com/application-availability-solutions.html?ad=menu-solutions) | [Oracle](https://www.veeam.com/products/applications/oracle-backup-recovery.html?ad=menu-solutions) | [SAP Hana](https://www.veeam.com/products/applications/sap-hana-backup-recovery.html?ad=menu-solutions) | [PostgreSQL](https://www.veeam.com/products/physical/linux-backup-recovery.html?ad=menu-solutions) | [MongoDB](https://www.veeam.com/products/applications/mongodb-backup-recovery.html?ad=menu-solutions)
     
-    **SaaS**  [Microsoft 365](https://www.veeam.com/products/saas/backup-service-microsoft-office-365.html?ad=menu-solutions) | [Salesforce](https://www.veeam.com/products/saas/salesforce-backup.html?ad=menu-solutions)
+    **SaaS**  [Microsoft 365](https://www.veeam.com/products/saas/backup-microsoft-office-365.html?ad=menu-solutions) | [Salesforce](https://www.veeam.com/products/saas/salesforce-backup.html?ad=menu-solutions)
     
     Alliance Technologies
     
@@ -663,7 +669,7 @@ By subscribing, you are agreeing to receive information about Veeam products and
 
 [Backup & Replication](https://www.veeam.com/products/veeam-data-platform/backup-recovery.html?ad=footer)
 
-[Microsoft 365](https://www.veeam.com/products/saas/backup-service-microsoft-office-365.html?ad=footer)
+[Microsoft 365](https://www.veeam.com/products/saas/backup-microsoft-office-365.html?ad=footer)
 
 [Salesforce](https://www.veeam.com/products/saas/salesforce-backup.html?ad=footer)
 
