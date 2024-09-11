@@ -1,5 +1,5 @@
 * [Bash.ws](https://bash.ws/)
-* **[My IP51.195.149.220](https://bash.ws/my-ip)**
+* **[My IP206.81.0.208](https://bash.ws/my-ip)**
 * [DNS leak test](https://bash.ws/dnsleak)
 * _VPN leak tests_
     
