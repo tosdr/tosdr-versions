@@ -93,10 +93,10 @@ Discover CNBCTV18
 [LIVE TV](https://www.cnbctv18.com/live-tv/ "live-tv")
 
 * [![androidIcon](/static/images/common/ggl_play_store.png?impolicy=website&width=95&height=30 "CNBC TV18 Play Store")](https://play.google.com/store/apps/details?id=com.network18.cnbctv18&pli=1 "CNBCTV18")
-* [LiveParis Olympics](https://www.cnbctv18.com/paris-olympics-2024/ "Paris Olympics")
-* [NewMarket Gurukul](https://hindi.cnbctv18.com/market-gurukul/?utm_source=cnbc&utm_medium=navigation "Market Gurukul")
 * [NewLatest News](https://www.cnbctv18.com/latest-news/ "Latest News")
 * [LiveMarket Live](https://www.cnbctv18.com/market-live/ "Market Live")
+* [NewCNBC-TV18 Edge](https://www.cnbctv18.com/edge "CNBC-TV18 Edge")
+* [Assembly Elections 2024](https://www.cnbctv18.com/assembly-elections-results/ "Assembly Elections 2024")
 
 [Home](https://www.cnbctv18.com/ "Home")
 ----------------------------------------
