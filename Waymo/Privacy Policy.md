@@ -43,6 +43,10 @@
     
     Because Safety is Urgent™
     
+    * [Safety at Waymo](https://waymo.com/safety/)
+    * [Safety Research](https://waymo.com/safety/research/)
+    * [Safety Impact](https://waymo.com/safety/impact/)
+    
       ![](https://lh3.googleusercontent.com/v-nEn2qP2bc7jpXSbAG2YRQdi8JCo8vax4HPO9qxkjxuITxPAKinVAXd5lIIu0BagL_PGQQ6jyz-4WL01DctVvEX9EhlQpXajrxwW3Y=s0-e365)
     
 * [Community](https://waymo.com/community/)
@@ -250,7 +254,7 @@ Last updated: January 1, 2023
 * [Contact Us](https://waymo.com/contact/)
 * [Notice to CA Residents](https://support.google.com/waymo/answer/9681942)
 
-Sign up for updates to get the latest on Waymo and our technology.
+Sign up for updates to get the latest on Waymo.
 
 [Sign up](https://waymo.com/updates/)
 
