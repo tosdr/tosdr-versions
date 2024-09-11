@@ -1,13 +1,13 @@
 ![](https://www.facebook.com/tr?id=248845353020921&ev=PageView&noscript=1) 
 
-[Nous utilisons des cookies 🍪 pour offrir la meilleure expérience possible. En continuant à utiliser notre site Web, vous acceptez notre politique relative aux cookies](https://sweatco.in/privacy)
+[We use cookies 🍪 to provide the best experience. By continuing to use our website, you agree to our cookies policy](https://sweatco.in/privacy)
 
 [](https://sweatco.in/)
 
 Privacy Policy
 --------------
 
-_This Privacy Policy was last updated on 2 March 2023_
+_This Privacy Policy was last updated on September 5th, 2024_
 
 SweatCo Ltd is a company incorporated in England (registration number 9242159) whose registered office is c/o OHS Secretaries Limited, 9th Floor, 107 Cheapside, London, EC2V 6DN (hereafter referred to as “SweatCo”, “we” or “us” as the context may require).  SweatCo is registered as a Data Controller with the UK’s Information Commissioner’s Office (registration number ZA182331). 
 
@@ -428,23 +428,57 @@ As described in Annex 2, we have incorporated Cookies from certain third parties
 
   
 
-We share Personal Data with the following categories of third parties:
+To provide and improve the Sweatcoin app’s use and features, we share Personal Data with the following categories of third parties:
 
   
 
-* Marketing providers (including for cross-contextual behavioral advertising purposes)
 * Service providers
 * Other users (where certain information, such as profile data, is visible to all users)
 * Business partners
 * Third parties in connection with a business transaction, such as merger or sale
 * Law enforcement, regulators, governmental authorities and other parties for legal reasons
 
+  
+**Other Data Sharing based on User Consent**   
+
+We are committed to protecting your privacy and handling your Personal Data with care. In accordance with applicable U.S. privacy laws, including the California Privacy Rights Act (CPRA), we will only share your Personal Data with third parties for reasons other than providing and improving the Sweatcoin app’s use and features to the extent that you have specifically authorized us to do so.  
+  
+
+1\. Scope of Data Sharing:  
+  
+
+We will only share the specific categories of Personal Data that you have explicitly authorized us to share. This may include, but is not limited to, your name, contact information, and any other data categories you have designated during the consent process.  
+  
+
+2\. Purpose of Data Sharing:  
+  
+
+The Personal Data shared will be used solely for the purposes you have agreed to, such as receiving marketing communications, promotions, and offers that are tailored to your interests and preferences.  
+  
+
+3\. Data Processing by Third Parties:  
+  
+
+Those with whom we share your Personal Data in accordance with your consent are contractually obligated to use your Personal Data only for the agreed-upon purposes and to protect the confidentiality and security of your data in compliance with applicable U.S. privacy laws, including the CCPA.  
+  
+
+4\. Right to Opt-Out:  
+  
+
+If you are a resident of California, you have the right to opt-out of the sale or sharing of your Personal Data at any time. You may exercise this right by contacting us directly at [\[email protected\]](https://sweatco.in/cdn-cgi/l/email-protection). Upon receiving your opt-out request, we will cease sharing your Personal Data with our marketing partners.  
+  
+
+5\. Your Rights:  
+  
+
+In addition to the right to opt-out, you have the right to request information about the categories and specific pieces of Personal Data we have collected about you, request deletion of your Personal Data, and request correction of any inaccurate data. You also have the right to non-discrimination for exercising your privacy rights under the CPRA and other applicable laws. To exercise these rights, please contact us at [\[email protected\]](https://sweatco.in/cdn-cgi/l/email-protection).
+
 ![Sweatcoin logo](data:image/png;base64,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)
 
-Copyright © 2023 Sweatco Ltd
+Copyright © 2024 Sweatco Ltd
 
-[Équipe](https://sweatcoin.teamtailor.com/)[Contact](https://sweatco.in/contacts)[Conditions générales](https://sweatco.in/tnc)[Politique de confidentialité](https://sweatco.in/privacy)[Aide](https://help.sweatco.in/)[Blog](https://blog.sweatco.in/)[Blog des développeurs](https://dev.sweatco.in/)[Devenez un(e) influenceur(se)](https://promote.sweatco.in/)[France](https://sweatco.in/select-your-country)
+[Team](https://sweatcoin.teamtailor.com/)[Contact](https://sweatco.in/contacts)[T&C](https://sweatco.in/tnc)[Privacy Policy](https://sweatco.in/privacy)[Help](https://help.sweatco.in/)[Blog](https://blog.sweatco.in/)[Dev Blog](https://dev.sweatco.in/)[Become an Influencer](https://promote.sweatco.in/)[United States](https://sweatco.in/select-your-country)
 
-[Vision](https://sweatco.in/#vision)[Comment ça fonctionne](https://sweatco.in/#how-it-works)[Faits](https://sweatco.in/#facts)[Partenaires](https://sweatco.in/#partners)
+[Vision](https://sweatco.in/#vision)[How it works](https://sweatco.in/#how-it-works)[Facts](https://sweatco.in/#facts)[Partners](https://sweatco.in/#partners)
 
 [](https://www.facebook.com/sweatcoin)[](https://www.instagram.com/sweatcoin/)[](https://linkedin.com/company/sweatcoin)[](https://twitter.com/sweatcoin)
