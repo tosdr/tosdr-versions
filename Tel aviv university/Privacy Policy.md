@@ -8,7 +8,7 @@
 
 * [Strategy](https://english.tau.ac.il/strategy)
 * [Libraries](https://en-libraries.tau.ac.il/)
-* [Staff Directory](https://english.tau.ac.il/tau/index)
+* [Staff List](https://english.tau.ac.il/tau/index)
 * [עברית](http://new.tau.ac.il/)
 * [عربي](https://ar-go.tau.ac.il/)
 * [中文网](https://china.tau.ac.il/)
