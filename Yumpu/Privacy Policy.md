@@ -1,4 +1,4 @@
-[![logo](https://assets.yumpu.com/release/IxXH84WC6EGe4tQ/v5/img/logo/Yumpu_Logo_RGB.png)](https://www.yumpu.com/en "Yumpu")
+[![logo](https://assets.yumpu.com/release/DqQUPfNmokW5Xrw/v5/img/logo/Yumpu_Logo_RGB.png)](https://www.yumpu.com/en "Yumpu")
 
 [EN](#)
 
@@ -189,7 +189,17 @@ This privacy policy tells you how we collect information about you when you use 
         We forward your private Facebook messages to our @yumpucom Facebook page to our Intercom inbox. By doing this, we keep all our customer / user communication in one place. The conversations in Intercom are therefore shared with Facebook. You will receive our reply directly in your Facebook message inbox. Here you can find the terms of use https://www.facebook.com/legal/terms of Facebook. [https://www.facebook.com/legal/terms](https://www.facebook.com/legal/terms) of Facebook.
     2. Twitter Integration  
         We forward your Twitter direct messages to our @yumpu\_com Twitter page to our Intercom inbox. So we keep all our customer / user communication in one place, the conversations in Intercom are therefore shared with Twitter. You will receive our reply directly in your Twitter message inbox. Here you can find the general terms and conditions [https://twitter.com/en/tos](https://twitter.com/en/tos) and the privacy policy of Twitter [https://twitter.com/en/privacy](https://twitter.com/en/privacy).
-8. Processing operations under shared responsibility; single point of contact.
+8. Communication via Mailgun
+    -------------------------
+    
+    We use Mailgun for sending transactional emails. Mailgun may process personal data such as your name, email address, and other information contained in the emails we send. This data is used to deliver emails, track deliverability, and ensure compliance with legal requirements. For more information on how Mailgun processes data, please refer to Mailgun’s Privacy Policy ([www.mailgun.com/privacy-policy](https://www.mailgun.com/privacy-policy))
+    
+9. Hotjar
+    ------
+    
+    Our website uses Hotjar to analyze user behavior through heatmaps and user recordings. This data helps us improve the user experience. For more information on how Hotjar processes data, please refer to [Hotjar's privacy policy](https://www.hotjar.com/legal/policies/privacy/).
+    
+10. Processing operations under shared responsibility; single point of contact.
     ---------------------------------------------------------------------------
     
     The processing operations for which we are jointly responsible with the other controllers include the following:
@@ -206,7 +216,7 @@ This privacy policy tells you how we collect information about you when you use 
     
     The Joint Controllers have also agreed that i-mag, as Publisher of the Website, will act as a single point of contact for the exercise of data subjects' rights against all Joint Controllers.
     
-9. Your rights
+11. Your rights
     -----------
     
     In principle, you have the right to information, correction, deletion, being forgotten, restriction, data transferability, revocation and opposition. If you believe that the processing of your data violates the data protection law or your data protection claims have otherwise been violated in any way, you can complain to the supervisory authority. Of course, you also have the right to complain directly to a supervisory authority at your place of residence or at our company headquarters in Diepoldsau. However, we would ask you to contact us first. Misunderstandings or problems can certainly be solved most quickly in this way.
@@ -216,9 +226,9 @@ This privacy policy tells you how we collect information about you when you use 
         E-Mail: [privacy@yumpu.com](mailto:privacy@yumpu.com)  
         In the event of contradictions between the English and German versions of the Privacy Policy, only the German version shall be authoritative.
 
-Last update: 27.04.2022
+Last update: 2024-08-29.
 
-![logo](https://assets.yumpu.com/release/IxXH84WC6EGe4tQ/v5/img/logo/yumpu-footer2x.png)
+![logo](https://assets.yumpu.com/release/DqQUPfNmokW5Xrw/v5/img/logo/yumpu-footer2x.png)
 
 [](https://www.facebook.com/yumpunews "Facebook")[](https://twitter.com/yumpu_com "Twitter")[](https://www.pinterest.com/yumpucom "Pinterest")[](https://www.youtube.com/user/yumpucom "Youtube")[](https://vimeo.com/yumpucom "Vimeo")
 
