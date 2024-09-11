@@ -133,7 +133,7 @@ For questions about this NTD Policy, please contact WeTransfer by sending an ema
     * [Culture](https://wetransfer.com/explore/culture)
     * [Locations](https://wetransfer.com/explore/locations)
     * [How to apply](https://wetransfer.com/explore/how-to-apply)
-    * [B Corp](https://wetransfer.com/blog/story/we-are-a-bcorp)
+    * [B Corp](https://wetransfer.com/explore/csr)
     * [Newsroom](https://wetransfer.com/blog/newsroom)
     * [Leadership](https://wetransfer.com/explore/corporate/leadership)
     
