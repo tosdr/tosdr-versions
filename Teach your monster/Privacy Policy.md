@@ -31,6 +31,7 @@ Quick links
         
         [Play](https://www.teachyourmonster.org/account/play/ae/go) [Learn More](https://www.teachyourmonster.org/adventurous-eating)
         
+* [Teachers](https://www.teachyourmonster.org/teachers-area)
 * [About us](https://www.teachyourmonster.org/about)
 * [Get started](https://www.teachyourmonster.org/account)
 
@@ -40,9 +41,6 @@ Privacy Policy
 ==============
 
 ![](https://www.teachyourmonster.org/assets/oog/hero/content-pages-monsters-fbfbddfb19da89eca5c943749414321d65dd4a5b.svg)
-
-Privacy Policy
-==============
 
 **Teach Your Monster Kids Privacy Notice**
 ------------------------------------------
