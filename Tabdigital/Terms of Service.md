@@ -134,6 +134,7 @@ Service
 * [Cloud Data Transfe](https://cloud.tab.digital/transfer)r
 * [Pricing](https://cloud.tab.digital/pricing)
 * [Market](https://tab.digital/#rec268051135#!/tab/262339486-3)
+* [Advertise](https://cloud.tab.digital/advertise-nextcloud)
 
 Help
 
@@ -164,8 +165,8 @@ Call Eng: +371 66117130
   
 
 * [](https://www.facebook.com/tabdigitaleu/)
-* [](https://twitter.com/tab_digital)
-* [](https://www.youtube.com/channel/UC8x52ooC8yyJ5QjFXXE6LOQ)
+ * [](https://twitter.com/tab_digital)
+ * [](https://www.youtube.com/channel/UC8x52ooC8yyJ5QjFXXE6LOQ)
 
 [![](https://static.tildacdn.com/tild3030-3934-4765-b238-326439316663/RIPE-NCC-Member.png)](https://apps.db.ripe.net/db-web-ui/query?searchtext=TABDIGITAL)
 
