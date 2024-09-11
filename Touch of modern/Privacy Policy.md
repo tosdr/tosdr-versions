@@ -172,7 +172,7 @@ We use information that we collect about you or that you provide to us, includin
 * For any other purpose with your consent.
     
 
-We may also use your information to contact you about our own and third-parties' goods and services that may be of interest to you. If you do not want us to use your information in this way, you can opt-out by using the Unsubscribe link in the email you receive or by contacting us at [\[email protected\]](https://www.touchofmodern.com/cdn-cgi/l/email-protection). For more information, see ["Choices About How We Use and Disclose Your Information"](#privacyHowWeUseDiscloseInfo).
+We may also use your information to contact you about our own and third-parties' goods and services that may be of interest to you. If you do not want us to use your information in this way, you can opt-out by using the Unsubscribe link in the email you receive or by contacting us at [support@touchofmodern.com](mailto:support@touchofmodern.com). For more information, see ["Choices About How We Use and Disclose Your Information"](#privacyHowWeUseDiscloseInfo).
 
 We may use the information we have collected from you to enable us to display advertisements to our advertisers' target audiences. Even though we do not disclose your Personal Information for these purposes without your consent, if you click on or otherwise interact with an advertisement, the advertiser may assume that you meet its target criteria.
 
@@ -241,7 +241,7 @@ We strive to provide you with choices regarding the Personal Information you pro
 
 * Tracking Technologies and Advertising. You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe's website. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.
     
-* Promotional Email Offers from Touch of Modern. If you do not wish to have your email address and/or contact information used by Touch of Modern to promote our own or third parties' products or services, you can opt-out by using the Unsubscribe link in the email you receive or by contacting us at [\[email protected\]](https://www.touchofmodern.com/cdn-cgi/l/email-protection). This opt-out does not apply to information provided to Touch of Modern as a result of a product purchase, warranty registration, product service experience, or other transactions.
+* Promotional Email Offers from Touch of Modern. If you do not wish to have your email address and/or contact information used by Touch of Modern to promote our own or third parties' products or services, you can opt-out by using the Unsubscribe link in the email you receive or by contacting us at [support@touchofmodern.com](mailto:support@touchofmodern.com). This opt-out does not apply to information provided to Touch of Modern as a result of a product purchase, warranty registration, product service experience, or other transactions.
     
 * Promotional SMS/Text Offers from Touch of Modern. You may elect to receive text messages from us. When you sign up to receive text messages, we will send you information about promotional offers and more. These text messages may use information automatically collected based on your actions while on our sites and may prompt messaging such as cart abandon messages. To the extent you voluntarily opt to have text notifications sent directly to your mobile phone, we receive and store the information you provide, including your telephone number or when you read a text message. You may opt out of receiving those messages at any time by replying STOP in response to receiving a text message. For more information about text messages, see our Terms & Conditions.
     
@@ -267,7 +267,7 @@ Some states also grant you additional rights regarding accessing, correcting, an
 
 You can review and change your Personal Information by logging into the Website and the App and visiting your account profile page.
 
-You may also send us an email at [\[email protected\]](https://www.touchofmodern.com/cdn-cgi/l/email-protection) to request access to, correct, or delete some Personal Information that you have provided to us.
+You may also send us an email at [support@touchofmodern.com](mailto:support@touchofmodern.com) to request access to, correct, or delete some Personal Information that you have provided to us.
 
 We cannot delete your Personal Information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
 
@@ -277,7 +277,7 @@ If you delete your User Contributions from the Services, copies of your User Con
 
 If you are a California resident, California law may provide you with additional rights regarding our use of your Personal Information, such as the right to opt-out.
 
-If you do not want us to share your Personal Information with unaffiliated or non-agent third parties for promotional purposes, you can opt-out by clicking on the Do Not Sell My Personal Information link on our Website or by emailing us at [\[email protected\]](https://www.touchofmodern.com/cdn-cgi/l/email-protection).
+If you do not want us to share your Personal Information with unaffiliated or non-agent third parties for promotional purposes, you can opt-out by clicking on the Do Not Sell My Personal Information link on our Website or by emailing us at [support@touchofmodern.com](mailto:support@touchofmodern.com).
 
 You will be asked to provide certain information to exercise this option so we can verify your identity and locate your records with us. Please note that your decision to opt out of the sharing of your Personal Information may impact the availability and quality of some of the Services provided to you. Furthermore, your information may still be shared pursuant to the terms of this Policy, where such sharing does not constitute a sale.
 
@@ -287,7 +287,7 @@ To learn more about your California privacy rights, visit our [CCPA addendum pag
 
 If you are a Virginia resident, Virginia law may provide you with additional rights regarding our use of your Personal Information, such as the right to opt-out.
 
-If you do not want us to share your Personal Information with unaffiliated or non-agent third parties for promotional purposes, you can opt-out by clicking on the Do Not Sell My Personal Information link on our Website or by emailing us at [\[email protected\]](https://www.touchofmodern.com/cdn-cgi/l/email-protection) or calling us at (415) 230-0750.
+If you do not want us to share your Personal Information with unaffiliated or non-agent third parties for promotional purposes, you can opt-out by clicking on the Do Not Sell My Personal Information link on our Website or by emailing us at [support@touchofmodern.com](mailto:support@touchofmodern.com) or calling us at (415) 230-0750.
 
 You will be asked to provide certain information to exercise this option so we can verify your identity and locate your records with us. Please note that your decision to opt out of the sharing of your Personal Information may impact the availability and quality of some of the Services provided to you. Furthermore, your information may still be shared pursuant to the terms of this Policy, where such sharing does not constitute a sale.
 
@@ -297,7 +297,7 @@ To learn more about your Virginia privacy rights, visit our [VCDPA Page](https:/
 
 Our Services are not intended for individuals under 18 years of age. No one under age 18 may provide any Personal Information to or on the Services. We do not knowingly collect Personal Information from individuals under 18. If you are under 18, do not use or provide any information to our Services or through any of its features; do not register on the Website or App, make any purchases through the Website or App, use any of the interactive or public comment features of this Website or App, or provide any information about yourself to us, including your name, address, telephone number, email address, or any screen name or username you may use.
 
-If we learn we have collected or received Personal Information from a person under 18 we will delete that information. If you believe we might have any information from or about a person under 18, please contact us at [\[email protected\]](https://www.touchofmodern.com/cdn-cgi/l/email-protection).
+If we learn we have collected or received Personal Information from a person under 18 we will delete that information. If you believe we might have any information from or about a person under 18, please contact us at [support@touchofmodern.com](mailto:support@touchofmodern.com).
 
 #### Data Security
 
@@ -321,7 +321,7 @@ If you have any remaining questions about how we treat your privacy, just let us
 
 Calling us at: (415) 230-0750
 
-Emailing us at: [\[email protected\]](https://www.touchofmodern.com/cdn-cgi/l/email-protection)
+Emailing us at: [support@touchofmodern.com](mailto:support@touchofmodern.com)
 
 Mailing us at: 901 E. Northfield Drive, Suite 200, Brownsburg, IN 46112
 
@@ -347,4 +347,4 @@ Mailing us at: 901 E. Northfield Drive, Suite 200, Brownsburg, IN 46112
 
 ![](//action.dstillery.com/orbserv/nspix?adv=cl165659834990960&ns=7040&nc=Touch-of-Modern-Site-Visitor&ncv=36)
 
-![](//ad.ipredictive.com/d/track/cvt/pixel?acct_id=50968&cache_buster=1722517066)
+![](//ad.ipredictive.com/d/track/cvt/pixel?acct_id=50968&cache_buster=1726015928)
