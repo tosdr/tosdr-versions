@@ -12,6 +12,7 @@ Javascript must be enabled for the correct page display
 * [Solutions](https://trustarc.com/solutions/)
     
     * [AI Governance](https://trustarc.com/solutions/ai-governance/)
+    * [AI Risk](https://trustarc.com/solutions/ai-risk/)
     * [Geo-Specific Cookie Banner](https://trustarc.com/solutions/geo-specific-cookie-banner/)
     * [Consumer Preference Management](https://trustarc.com/solutions/consumer-preference-management/)
     * [Data Subject Request Automation](https://trustarc.com/solutions/data-subject-request-automation/)
@@ -33,26 +34,26 @@ Javascript must be enabled for the correct page display
     
 * [Products](https://trustarc.com/products/)
     
-    * [Consent & Consumer Rights](#tab01)
-    * [Privacy & Data Governance](#tab02)
-    * [Assurance & Certifications](#tab03)
+    * [Privacy Studio](#tab01)
+    * [Governance Suite](#tab02)
+    * [Assurance Services](#tab03)
     
     [Explore all Products](https://trustarc.com/products/)
     
-    [Products](#) [Consent & Consumer Rights Overview](https://trustarc.com/products/consent-consumer-rights/)
+    [Products](#) [Privacy Studio Overview](https://trustarc.com/products/consent-consumer-rights/)
     
-    Experience automated privacy solutions that simplify compliance, minimize risk, and enhance customer trust across your digital landscape.
+    Automate consent and data subject rights compliance. Design seamless privacy experiences to enhance customer trust across your digital landscape.
     
     * [Cookie Consent Manager](https://trustarc.com/products/consent-consumer-rights/cookie-consent-manager/) Effortlessly manage cookie consent for global compliance, ensuring a secure, personalized browsing experience.
-    * [Consent & Preference Manager](https://trustarc.com/products/consent-consumer-rights/consent-preference-manager/) Easily manage customer consent across brands and platforms—email, mobile, advertising—with a centralized repository.
+    * [Consent & Preference Manager](https://trustarc.com/products/consent-consumer-rights/consent-preference-manager/) Easily manage and orchestrate customer consent and preferences across brands and channels.
     * [Individual Rights Manager](https://trustarc.com/products/consent-consumer-rights/individual-rights-manager/) Automate and streamline DSR workflows to ensure compliance and show your commitment to customer rights.
-    * [Trust Center](https://trustarc.com/products/consent-consumer-rights/trust-center/) Quickly centralize, manage, and showcase all trust and safety information in an easily customizable, no-code hub.
+    * [Trust Center](https://trustarc.com/products/consent-consumer-rights/trust-center/) Centralize policies, disclosures, and trust-building information in a customizable no-code hub that speeds up deals.
     
     [Explore all Products](https://trustarc.com/products/)
     
-    [Products](#) [Privacy & Data Governance Overview](https://trustarc.com/products/privacy-data-governance/)
+    [Products](#) [Governance Suite Overview](https://trustarc.com/products/privacy-data-governance/)
     
-    Simplify privacy management. Stay ahead of regulations. Ensure data governance with cutting-edge solutions.
+    Stay ahead of privacy and compliance regulations. Simplify data privacy management and ensure data governance with cutting-edge apps.
     
     * [PrivacyCentral](https://trustarc.com/products/privacy-data-governance/privacycentral/) Centralize privacy tasks, automate your program, and seamlessly align with laws and regulations.
     * [Data Inventory Hub & Risk Profile](https://trustarc.com/products/privacy-data-governance/data-inventory-mapping/) Gain full visibility and control of your data and accurately identify and mitigate risks.
@@ -61,9 +62,9 @@ Javascript must be enabled for the correct page display
     
     [Explore all Products](https://trustarc.com/products/)
     
-    [Products](#) [Assurance & Certifications Overview](https://trustarc.com/products/assurance-certifications/)
+    [Products](#) [Assurance Services Overview](https://trustarc.com/products/assurance-certifications/)
     
-    Boost brand trust with TRUSTe's certifications, showing your privacy commitment with the most recognizable seal, assessed by unbiased experts.
+    Gain trust and credibility with leading privacy certifications from unbiased experts, backed by technology for unmatched privacy compliance assurance.
     
     * [Dispute Resolution](https://trustarc.com/products/assurance-certifications/dispute-resolution/)
     * [TRUSTe Enterprise Privacy Certification](https://trustarc.com/products/assurance-certifications/truste-enterprise-privacy/)
@@ -105,6 +106,7 @@ Javascript must be enabled for the correct page display
     [TrustArc Academy](https://trustarc.com/trustarc-academy/)
     
     * [Articles](https://trustarc.com/resources/?action=resources&type=articles)
+    * [Case Studies](https://trustarc.com/resources/?action=resources&type=case-studies)
     * [eBooks](https://trustarc.com/resources/?action=resources&type=ebooks)
     * [FAQs](https://trustarc.com/resources/?action=resources&type=faqs)
     * [Flash Guidance](https://trustarc.com/resources/?action=resources&type=flash-guidance)
@@ -454,6 +456,7 @@ Phone: [+1-415-520-3490](tel:14155203490)
 **[Solutions](https://trustarc.com/solutions/)**
 
 * [AI Governance](https://trustarc.com/solutions/ai-governance/)
+* [AI Risk](https://trustarc.com/solutions/ai-risk/)
 * [Geo-Specific Cookie Banner](https://trustarc.com/solutions/geo-specific-cookie-banner/)
 * [Consumer Preference Management](https://trustarc.com/solutions/consumer-preference-management/)
 * [Data Request Automation](https://trustarc.com/solutions/data-subject-request-automation/)
@@ -467,9 +470,9 @@ Phone: [+1-415-520-3490](tel:14155203490)
 
 **[Products](https://trustarc.com/products/)**
 
-* [Consent & Consumer Rights](https://trustarc.com/products/consent-consumer-rights/)
-* [Privacy & Data Governance](https://trustarc.com/products/privacy-data-governance/)
-* [Assurance & Certifications](https://trustarc.com/products/assurance-certifications/)
+* [Privacy Studio](https://trustarc.com/products/consent-consumer-rights/)
+* [Governance Suite](https://trustarc.com/products/privacy-data-governance/)
+* [Assurance Services](https://trustarc.com/products/assurance-certifications/)
 
 **[Regulations](https://trustarc.com/regulations/)**
 
