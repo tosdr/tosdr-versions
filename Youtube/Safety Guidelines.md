@@ -4,7 +4,7 @@
 
 [YouTube Help](https://support.google.com/youtube)
 
-[](https://www.google.co.uk/intl/en/about/products?tab=uh)
+[](https://www.google.com/intl/en/about/products?tab=uh)
 
 [Sign in](https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=http://support.google.com/youtube/answer/2801999%3Fhl%3Den&ec=GAZAdQ)
 
@@ -14,7 +14,7 @@
 
 [* Help Center](https://support.google.com/youtube/?hl=en)
 
-[* Fix a problem](https://support.google.com/youtube/topic/9257498?hl=en&ref_topic=3230811,3256124,)[* Watch videos](https://support.google.com/youtube/topic/9257500?hl=en&ref_topic=3230811,3256124,)[* Manage your account & settings](https://support.google.com/youtube/topic/9257107?hl=en&ref_topic=3230811,3256124,)[* Supervised experience on YouTube](https://support.google.com/youtube/topic/10314939?hl=en&ref_topic=3230811,3256124,)[* YouTube Premium](https://support.google.com/youtube/topic/9257430?hl=en&ref_topic=3230811,3256124,)[* Create & grow your channel](https://support.google.com/youtube/topic/9257610?hl=en&ref_topic=3230811,3256124,)[* Monetize with the YouTube Partner Program](https://support.google.com/youtube/topic/9257986?hl=en&ref_topic=3230811,3256124,)[* Policy, safety, & copyright](https://support.google.com/youtube/topic/6151248?hl=en&ref_topic=3230811,3256124,)
+[* Fix a problem](https://support.google.com/youtube/topic/9257498?hl=en&ref_topic=3230811,3256124,)[* Watch videos](https://support.google.com/youtube/topic/9257500?hl=en&ref_topic=3230811,3256124,)[* Manage your account & settings](https://support.google.com/youtube/topic/9257107?hl=en&ref_topic=3230811,3256124,)[* Supervised experiences on YouTube](https://support.google.com/youtube/topic/10314939?hl=en&ref_topic=3230811,3256124,)[* YouTube Premium](https://support.google.com/youtube/topic/9257430?hl=en&ref_topic=3230811,3256124,)[* Create & grow your channel](https://support.google.com/youtube/topic/9257610?hl=en&ref_topic=3230811,3256124,)[* Monetize with the YouTube Partner Program](https://support.google.com/youtube/topic/9257986?hl=en&ref_topic=3230811,3256124,)[* Policy, safety, & copyright](https://support.google.com/youtube/topic/6151248?hl=en&ref_topic=3230811,3256124,)
 
 [* Community](https://support.google.com/youtube/community?hl=en&help_center_link=[2801999,%22Child%20safety%20policy%22])[* YouTube](https://www.youtube.com/)
 
@@ -46,7 +46,10 @@ Next
     
     [Sign up and manage your account](https://support.google.com/youtube/topic/9267757?hl=en&ref_topic=9257107,3230811,3256124,)[Manage account settings](https://support.google.com/youtube/topic/9257108?hl=en&ref_topic=9257107,3230811,3256124,)[Manage privacy settings](https://support.google.com/youtube/topic/9257518?hl=en&ref_topic=9257107,3230811,3256124,)[Manage accessibility settings](https://support.google.com/youtube/topic/9257112?hl=en&ref_topic=9257107,3230811,3256124,)[Troubleshoot account issues](https://support.google.com/youtube/topic/3024171?hl=en&ref_topic=9257107,3230811,3256124,)[YouTube updates](https://support.google.com/youtube/topic/13401752?hl=en&ref_topic=9257107,3230811,3256124,)
     
-* [Supervised experience on YouTube](https://support.google.com/youtube/topic/10314939?hl=en&ref_topic=3230811,3256124,)
+* Supervised experiences on YouTube
+    
+    [Supervised experiences for pre-teens](https://support.google.com/youtube/topic/15279060?hl=en&ref_topic=10314939,3230811,3256124,)[Supervised experiences for teens](https://support.google.com/youtube/topic/15279671?hl=en&ref_topic=10314939,3230811,3256124,)
+    
 * YouTube Premium
     
     [Join YouTube Premium](https://support.google.com/youtube/topic/12155486?hl=en&ref_topic=9257430,3230811,3256124,)[Learn about YouTube Premium benefits](https://support.google.com/youtube/topic/9257431?hl=en&ref_topic=9257430,3230811,3256124,)[Manage your Premium membership](https://support.google.com/youtube/topic/9257116?hl=en&ref_topic=9257430,3230811,3256124,)[Manage Premium billing](https://support.google.com/youtube/topic/9516474?hl=en&ref_topic=9257430,3230811,3256124,)[Fix YouTube Premium membership issues](https://support.google.com/youtube/topic/9257117?hl=en&ref_topic=9257430,3230811,3256124,)[Troubleshoot billing & charge issues](https://support.google.com/youtube/topic/9995067?hl=en&ref_topic=9257430,3230811,3256124,)[Request a refund for YouTube paid products](https://support.google.com/youtube/topic/12013284?hl=en&ref_topic=9257430,3230811,3256124,)[YouTube Premium updates & promotions](https://support.google.com/youtube/topic/13400958?hl=en&ref_topic=9257430,3230811,3256124,)
@@ -237,7 +240,7 @@ true
 * [Privacy Policy](https://www.google.com/intl/en/privacy.html)
 * [YouTube Terms of Service](http://youtube.com/t/terms)
 
-Afrikaans‎azərbaycan‎català‎dansk‎Deutsch‎eesti‎English (United Kingdom)‎español‎español (Latinoamérica)‎Filipino‎français‎Hausa‎hrvatski‎Indonesia‎isiZulu‎italiano‎Kiswahili‎latviešu‎lietuvių‎magyar‎Nederlands‎norsk‎polski‎português‎português (Brasil)‎română‎slovenčina‎slovenščina‎suomi‎svenska‎Tiếng Việt‎Türkçe‎íslenska‎čeština‎Ελληνικά‎български‎русский‎српски‎українська‎қазақ тілі‎‏עברית‏اردو‏العربيةनेपाली‎मराठी‎हिन्दी‎অসমীয়া‎বাংলা‎ਪੰਜਾਬੀ‎ગુજરાતી‎ଓଡ଼ିଆ‎தமிழ்‎తెలుగు‎ಕನ್ನಡ‎മലയാളം‎සිංහල‎ไทย‎ລາວ‎ქართული‎አማርኛ‎ខ្មែរ‎中文（简体）‎中文（繁體）‎日本語‎한국어‎ English‎
+Language Afrikaans‎azərbaycan‎català‎dansk‎Deutsch‎eesti‎English (United Kingdom)‎español‎español (Latinoamérica)‎Filipino‎français‎Hausa‎hrvatski‎Indonesia‎isiZulu‎italiano‎Kiswahili‎latviešu‎lietuvių‎magyar‎Nederlands‎norsk‎polski‎português‎português (Brasil)‎română‎slovenčina‎slovenščina‎suomi‎svenska‎Tiếng Việt‎Türkçe‎íslenska‎čeština‎Ελληνικά‎български‎русский‎српски‎українська‎қазақ тілі‎‏עברית‏اردو‏العربيةनेपाली‎मराठी‎हिन्दी‎অসমীয়া‎বাংলা‎ਪੰਜਾਬੀ‎ગુજરાતી‎ଓଡ଼ିଆ‎தமிழ்‎తెలుగు‎ಕನ್ನಡ‎മലയാളം‎සිංහල‎ไทย‎ລາວ‎ქართული‎አማርኛ‎ខ្មែរ‎中文（简体）‎中文（繁體）‎日本語‎한국어‎ English‎
 
 Enable Dark Mode
 
@@ -255,7 +258,7 @@ Google apps
 
 Main menu
 
-6151378845311119737
+1802260177061094152
 
 true
 
