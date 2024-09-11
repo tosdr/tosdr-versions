@@ -120,3 +120,27 @@ By continuing to access or use our Service after any revisions become effective,
 
 [Privacy Policy](https://www.wombo.ai/privacy) • [Terms of Service](https://www.wombo.ai/terms)  
 Media inquiries [hello@wombo.ai](mailto:hello@wombo.ai?subject=Website%20Media%20Inquiry)[](mailto:hello@wombo.ai?subject=Website%20Media%20Inquiry)Web development by [Infinidiv](http://www.infinidiv.com/?utm_source=wombo-ai&utm_content=footer-badge)
+
+Why WOMBO
+---------
+
+### GLOBAL  
+IMPACT
+
+### GLOBAL IMPACT
+
+We have 50M+ downloads across 180+ countries. Help put a smile on a billion faces.
+
+### crazY  
+growth
+
+### CRAZY GROWTH
+
+We are the fastest growing consumer app in Canadian history. Join a rocket ship 🚀
+
+### COOL  
+TECHNOLOGY
+
+### COOL TECHNOLOGY
+
+We are pushing the boundaries of what is possible with AI and Synthetic Media.
