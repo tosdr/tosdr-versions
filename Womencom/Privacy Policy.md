@@ -10,7 +10,9 @@
 * [Living](https://www.women.com/category/living/)
 * [Features](https://www.women.com/category/features/)
 
-* [](http://www.facebook.com/women "Facebook")
+[](https://www.women.com/category/features/)
+
+[](https://www.women.com/category/features/)* [](https://www.women.com/category/features/)[](http://www.facebook.com/women "Facebook")
 * [](https://www.pinterest.com/Womencom "Pinterest")
 * [](https://flipboard.com/@Womencom "Flipboard")
 * [](https://news.google.com/publications/CAAiEPdxUHjKA-bwKYZxJCsMAfkqFAgKIhD3cVB4ygPm8CmGcSQrDAH5 "Google")
@@ -41,394 +43,370 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Simone Biles smiling](https://www.women.com/img/gallery/simone-biles-inspiring-hair-acceptance-journey/intro-1722539571.jpg)](https://www.women.com/1634860/simone-biles-inspiring-hair-acceptance-journey/)
+*  [![Taylor Swift looking shocked](https://www.women.com/img/gallery/5-taylor-swift-award-show-outfits-that-totally-missed-the-mark/intro-1725634973.jpg)](https://www.women.com/1658902/taylor-swift-outfits-totally-missed-the-mark/)
     
-    [Beauty](https://www.women.com/category/beauty/)
+    [Fashion](https://www.women.com/category/fashion/)
     
-    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
     
-    [Simone Biles' Inspiring Hair Acceptance Journey](https://www.women.com/1634860/simone-biles-inspiring-hair-acceptance-journey/)
-    ================================================================================================================================
+    [5 Taylor Swift Award Show Outfits That Totally Missed The Mark](https://www.women.com/1658902/taylor-swift-outfits-totally-missed-the-mark/)
+    =============================================================================================================================================
     
-    Olympic champion Simone Biles has faced a lot of online hate over her appearance. But through the years, she's come to take pride in her natural hair.
+    Taylor Swift has rocked some stunning looks on the red carpet, but not all her outfits have been on-point. These award show styles missed the mark.
     
-    By Emily Hutchinson [Read More](https://www.women.com/1634860/simone-biles-inspiring-hair-acceptance-journey/)
+    By Emily Hutchinson [Read More](https://www.women.com/1658902/taylor-swift-outfits-totally-missed-the-mark/)
     
-* *  [![Person with blonde hair](https://www.women.com/img/gallery/breezy-dream-girl-blonde-is-the-most-laid-back-hair-color-of-summer-2024/intro-1721948492.jpg)](https://www.women.com/1630996/dream-girl-blonde-hair-color-trend-summer-2024/)
+* *  [![four moms standing](https://www.women.com/img/gallery/momcozy-brings-comfort-and-community-to-new-mothers/intro-1725665058.jpg)](https://www.women.com/1659435/momcozy-ultimate-motherhood-community/)
         
-        [Beauty](https://www.women.com/category/beauty/)
+        [Living](https://www.women.com/category/living/)
         
-        [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+        [Living](https://www.women.com/category/living/) By Savanna Swain-Wilson
         
-        ### [Breezy Dream Girl Blonde Is The Most Laid Back Hair Color Of Summer 2024](https://www.women.com/1630996/dream-girl-blonde-hair-color-trend-summer-2024/)
+        ### [Momcozy Is Bringing You The Ultimate Motherhood Community](https://www.women.com/1659435/momcozy-ultimate-motherhood-community/)
         
-        If you're looking for a lighter, transitional blonde to carry you from summer to fall, dream girl blonde is your answer.
+        Whether you're a first time mom or on baby number three, motherhood comes with challenges. Thankfully, MomCozy is here to help every step of the way.
         
-        By Emily Hutchinson [Read More](https://www.women.com/1630996/dream-girl-blonde-hair-color-trend-summer-2024/)
+        By Savanna Swain-Wilson [Read More](https://www.women.com/1659435/momcozy-ultimate-motherhood-community/)
         
-    *  [![BB cream nails](https://www.women.com/img/gallery/the-bb-cream-nails-trend-is-here-for-your-healthiest-looking-manicure-yet/intro-1721674049.jpg)](https://www.women.com/1627571/bb-cream-nails-trend-healthy-manicure/)
+    *  [![Kate Middleton with Meghan Markle](https://www.women.com/img/gallery/royal-family-outfits-that-were-beyond-controversial/intro-1725492073.jpg)](https://www.women.com/1658112/royal-family-outfits-beyond-controversial/)
         
-        [Beauty](https://www.women.com/category/beauty/)
+        [Fashion](https://www.women.com/category/fashion/)
         
-        [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+        [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
         
-        ### [The BB Cream Nails Trend Is Here For Your Healthiest Looking Manicure Yet](https://www.women.com/1627571/bb-cream-nails-trend-healthy-manicure/)
+        ### [Royal Family Outfits That Were Beyond Controversial](https://www.women.com/1658112/royal-family-outfits-beyond-controversial/)
         
-        For a natural, understated manicure that will also do your nails a world of good, check out the new BB cream nails trend.
+        The royal family is known for keeping up a polished and demure appearance, but that doesn't mean they haven't occasionally gone off-script with their outfits.
         
-        By Emily Hutchinson [Read More](https://www.women.com/1627571/bb-cream-nails-trend-healthy-manicure/)
+        By Emily Hutchinson [Read More](https://www.women.com/1658112/royal-family-outfits-beyond-controversial/)
         
 
 More Stories
 ------------
 
-*  [![Person with blonde hair](https://www.women.com/img/gallery/breezy-dream-girl-blonde-is-the-most-laid-back-hair-color-of-summer-2024/intro-1721948492.jpg)](https://www.women.com/1630996/dream-girl-blonde-hair-color-trend-summer-2024/)
+*  [![Sydney Sweeney on the red carpet](https://www.women.com/img/gallery/sydney-sweeneys-style-transformation-over-the-years/intro-1725561569.jpg)](https://www.women.com/1658266/sydney-sweeney-style-transformation/)
     
-    [Beauty](https://www.women.com/category/beauty/)
+    [Fashion](https://www.women.com/category/fashion/)
     
-    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
     
-    ### [Breezy Dream Girl Blonde Is The Most Laid Back Hair Color Of Summer 2024](https://www.women.com/1630996/dream-girl-blonde-hair-color-trend-summer-2024/)
+    ### [Sydney Sweeney's Style Transformation Over The Years](https://www.women.com/1658266/sydney-sweeney-style-transformation/)
     
-    If you're looking for a lighter, transitional blonde to carry you from summer to fall, dream girl blonde is your answer.
+    "Euphoria" star Sydney Sweeney first appeared on the red carpet at age 13 in a cutesy LBD, but she's stepped up her fashion game since becoming an A-list star.
     
-    By Emily Hutchinson [Read More](https://www.women.com/1630996/dream-girl-blonde-hair-color-trend-summer-2024/)
+    By Emily Hutchinson [Read More](https://www.women.com/1658266/sydney-sweeney-style-transformation/)
     
-*  [![BB cream nails](https://www.women.com/img/gallery/the-bb-cream-nails-trend-is-here-for-your-healthiest-looking-manicure-yet/intro-1721674049.jpg)](https://www.women.com/1627571/bb-cream-nails-trend-healthy-manicure/)
+*  [![Blake Lively and Ryan Reynolds on the red carpet](https://www.women.com/img/gallery/the-red-flags-in-blake-lively-ryan-reynolds-relationship-we-just-cant-ignore/intro-1725638968.jpg)](https://www.women.com/1658984/red-flags-blake-lively-ryan-reynolds-relationship-just-cant-ignore/)
     
-    [Beauty](https://www.women.com/category/beauty/)
+    [Relationships](https://www.women.com/category/relationships/)
     
-    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+    [Relationships](https://www.women.com/category/relationships/) By Emily Hutchinson
     
-    ### [The BB Cream Nails Trend Is Here For Your Healthiest Looking Manicure Yet](https://www.women.com/1627571/bb-cream-nails-trend-healthy-manicure/)
+    ### [The Red Flags In Blake Lively And Ryan Reynolds' Relationship We Just Can't Ignore](https://www.women.com/1658984/red-flags-blake-lively-ryan-reynolds-relationship-just-cant-ignore/)
     
-    For a natural, understated manicure that will also do your nails a world of good, check out the new BB cream nails trend.
+    Blake Lively and Ryan Reynolds are the Hollywood it couple, but their relationship may not be as perfect it seems. We can't ignore these red flags.
     
-    By Emily Hutchinson [Read More](https://www.women.com/1627571/bb-cream-nails-trend-healthy-manicure/)
+    By Emily Hutchinson [Read More](https://www.women.com/1658984/red-flags-blake-lively-ryan-reynolds-relationship-just-cant-ignore/)
     
-*  [![Woman walking outside ](https://www.women.com/img/gallery/how-august-2024s-mercury-retrograde-will-affect-you-astrologically/intro-1722011880.jpg)](https://www.women.com/1630817/how-august-2024-mercury-retrograde-will-affect-astrologically/)
-    
-    [Living](https://www.women.com/category/living/)
-    
-    [Living](https://www.women.com/category/living/) By Bernadette Roe
-    
-    ### [How August 2024's Mercury Retrograde Will Affect You Astrologically](https://www.women.com/1630817/how-august-2024-mercury-retrograde-will-affect-astrologically/)
-    
-    By the end of 2024, we'll have made it through four phases of Mercury in retrograde. To stay prepared, it's worth understanding what's happening.
-    
-    By Bernadette Roe [Read More](https://www.women.com/1630817/how-august-2024-mercury-retrograde-will-affect-astrologically/)
-    
-*  [![Bella Hadid at an event ](https://www.women.com/img/gallery/bella-hadid-leans-into-the-seasons-hottest-trends-with-the-perfect-summer-2024-dress/intro-1721933196.jpg)](https://www.women.com/1630150/bella-hadid-season-hottest-trends-summer-2024-dress/)
+*  [![Princess Diana at event](https://www.women.com/img/gallery/the-royal-fashion-rules-princess-diana-never-followed/intro-1725571493.jpg)](https://www.women.com/1658470/royal-fashion-rules-princess-diana-didnt-follow/)
     
     [Fashion](https://www.women.com/category/fashion/)
     
     [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
     
-    ### [Bella Hadid's Cannes Dress Leans Into The Hottest Trends Of Summer 2024](https://www.women.com/1630150/bella-hadid-season-hottest-trends-summer-2024-dress/)
+    ### [The Royal Fashion Rules Princess Diana Never Followed](https://www.women.com/1658470/royal-fashion-rules-princess-diana-didnt-follow/)
     
-    Bella Hadid's gold Cannes dress combined the best of summer 2024 trends -- gorgeous, glimmering gold and pretty patterns.
+    Princess Diana had a whole arsenal of royal rule breaking outfits, but it's her regal attitude that allowed her to make her own rules.
     
-    By Bernadette Roe [Read More](https://www.women.com/1630150/bella-hadid-season-hottest-trends-summer-2024-dress/)
+    By Bernadette Roe [Read More](https://www.women.com/1658470/royal-fashion-rules-princess-diana-didnt-follow/)
     
-*  [![A woman wearing a butterfly bob ](https://www.women.com/img/gallery/how-to-make-the-trendy-butterfly-cut-work-for-short-hair/intro-1721254438.jpg)](https://www.women.com/1626018/how-to-make-butterfly-cut-work-short-hair/)
+*  [![Looking at her phone](https://www.women.com/img/gallery/how-to-start-sexting-like-a-pro-even-if-it-feels-awkward/intro-1725569513.jpg)](https://www.women.com/1658423/how-to-sext-awkward-sex/)
     
-    [Exclusives](https://www.women.com/category/exclusives/)
+    [Sex](https://www.women.com/category/sex-life/)
     
-    [Exclusives](https://www.women.com/category/exclusives/) By Bernadette Roe
+    [Sex](https://www.women.com/category/sex-life/) By Amanda Chatel
     
-    ### [How To Make The Trendy Butterfly Cut Work For Short Hair](https://www.women.com/1626018/how-to-make-butterfly-cut-work-short-hair/)
+    ### [How To Start Sexting Like A Pro (Even If It Feels Awkward)](https://www.women.com/1658423/how-to-sext-awkward-sex/)
     
-    Think the butterfly cut is just for long hair? Think again. This vintage hairstyle can easily be adapted to give bouncy volume to short hair.
+    Even if your brain is rife with dirty kinks and desires you want to explore, trying to find the words and typing them out is a whole other story.
     
-    By Bernadette Roe [Read More](https://www.women.com/1626018/how-to-make-butterfly-cut-work-short-hair/)
+    By Amanda Chatel [Read More](https://www.women.com/1658423/how-to-sext-awkward-sex/)
     
-*  [![Lesbian couple in bed](https://www.women.com/img/gallery/the-dos-and-donts-of-make-up-sex/intro-1721930886.jpg)](https://www.women.com/1630159/dos-donts-make-up-sex/)
+*  [![Zoe Kravitz blonde pixie](https://www.women.com/img/gallery/5-celebrity-pixie-cuts-to-inspire-your-next-super-short-haircut/intro-1725472100.jpg)](https://www.women.com/1657110/celebrity-pixie-cuts-inspire-super-short-haircut/)
     
-    [Exclusives](https://www.women.com/category/exclusives/)
+    [Beauty](https://www.women.com/category/beauty/)
     
-    [Exclusives](https://www.women.com/category/exclusives/) By Amanda Chatel
+    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
     
-    ### [The Dos And Don'ts Of Make-Up Sex](https://www.women.com/1630159/dos-donts-make-up-sex/)
+    ### [5 Celebrity Pixie Cuts To Inspire Your Next Super Short Haircut](https://www.women.com/1657110/celebrity-pixie-cuts-inspire-super-short-haircut/)
     
-    Media portrayals of make up sex tend to dismiss the complexities of it. If it's on your radar, you should know how to navigate it in a healthy way.
+    For those who've given pixie cuts a try, you know that out of all the short hair trends that have come and gone, the pixie remains iconic.
     
-    By Amanda Chatel [Read More](https://www.women.com/1630159/dos-donts-make-up-sex/)
+    By Amanda Chatel [Read More](https://www.women.com/1657110/celebrity-pixie-cuts-inspire-super-short-haircut/)
     
-*  [![Ilona Maher posing](https://www.women.com/img/gallery/ilona-maher-is-one-of-usas-most-stylish-olympic-athletes-in-2024/intro-1722287351.jpg)](https://www.women.com/1632353/ilona-maher-usa-olympic-athlete-style-2024/)
+*  [![Brittany Mahomes at an event](https://www.women.com/img/gallery/5-outdated-trends-weve-spotted-on-brittany-mahomes/intro-1725644557.jpg)](https://www.women.com/1659121/outdated-trends-spotted-brittany-mahomes/)
     
     [Fashion](https://www.women.com/category/fashion/)
     
-    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+    [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
     
-    ### [Ilona Maher Is One Of Team USA's Most Stylish Olympic Athletes In 2024](https://www.women.com/1632353/ilona-maher-usa-olympic-athlete-style-2024/)
+    ### [5 Outdated Trends We've Spotted On Brittany Mahomes](https://www.women.com/1659121/outdated-trends-spotted-brittany-mahomes/)
     
-    Olympic rugby player Ilona Maher may be famous for her athleticism, but the star also deserves a medal for her incredible fashionable sense.
+    Brittany Mahomes is most often seen sporting trendy NFL gameday outfits, but her Instagram is treasure trove of old fashion fads we once forgot about.
     
-    By Emily Hutchinson [Read More](https://www.women.com/1632353/ilona-maher-usa-olympic-athlete-style-2024/)
+    By Bernadette Roe [Read More](https://www.women.com/1659121/outdated-trends-spotted-brittany-mahomes/)
     
-*  [![Suni Lee in the makeup chair](https://www.women.com/img/gallery/all-the-beauty-products-olympic-athlete-suni-lee-depends-on/intro-1721944956.jpg)](https://www.women.com/1630400/all-beauty-products-olympic-athlete-suni-lee-depends-on/)
+*  [![Chappell Roan performing](https://www.women.com/img/gallery/5-chappell-roan-inspired-nail-ideas-fit-for-the-pink-pony-club/intro-1725556248.jpg)](https://www.women.com/1658094/chappell-roan-inspired-nail-ideas-pink-pony-club/)
     
     [Beauty](https://www.women.com/category/beauty/)
     
     [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
     
-    ### [All The Beauty Products Olympic Athlete Suni Lee Depends On](https://www.women.com/1630400/all-beauty-products-olympic-athlete-suni-lee-depends-on/)
+    ### [5 Chappell Roan Inspired Nail Ideas Fit For The Pink Pony Club](https://www.women.com/1658094/chappell-roan-inspired-nail-ideas-pink-pony-club/)
     
-    Along with being an Olympic athlete, gymnast Suni Lee has a reputation for knowing how to slay a beauty look. We've rounded up all the products she uses.
+    Chappell Roan's dramatic, daring looks are the perfect inspiration for bold manicures suited to a night out at the Pink Pony Club or Roan's next concert.
     
-    By Emily Hutchinson [Read More](https://www.women.com/1630400/all-beauty-products-olympic-athlete-suni-lee-depends-on/)
+    By Emily Hutchinson [Read More](https://www.women.com/1658094/chappell-roan-inspired-nail-ideas-pink-pony-club/)
     
-*  [![Sabrina Carpenter Vogue World](https://www.women.com/img/gallery/the-classic-color-sabrina-carpenter-is-nailing-with-her-summer-2024-manicures/intro-1721667963.jpg)](https://www.women.com/1627447/classic-color-sabrina-carpenter-nailing-summer-2024-manicures/)
+*  [![woman in bed peaceful](https://www.women.com/img/gallery/youve-heard-of-69-but-whats-68-your-guide-to-the-sex-position/intro-1725470852.jpg)](https://www.women.com/1657085/68-explained-guide-sex-position/)
     
-    [Beauty](https://www.women.com/category/beauty/)
+    [Sex](https://www.women.com/category/sex-life/)
     
-    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
+    [Sex](https://www.women.com/category/sex-life/) By Amanda Chatel
     
-    ### [The Classic Color Sabrina Carpenter Is Nailing With Her Summer 2024 Manicures](https://www.women.com/1627447/classic-color-sabrina-carpenter-nailing-summer-2024-manicures/)
+    ### [You've Heard Of 69, But What's 68? Your Guide To The Sex Position](https://www.women.com/1657085/68-explained-guide-sex-position/)
     
-    Thanks to Sabrina Carpenter and Zendaya, we're approaching the end of July with only one nail polish color on the mind: baby pink.
+    For people who don't like 69-ing, the 68 position can be a comfortable and less-distracting alternative. Check out these tips from a sexpert before you try it.
     
-    By Amanda Chatel [Read More](https://www.women.com/1627447/classic-color-sabrina-carpenter-nailing-summer-2024-manicures/)
+    By Amanda Chatel [Read More](https://www.women.com/1657085/68-explained-guide-sex-position/)
     
-*  [![Stack of jeans](https://www.women.com/img/gallery/creased-jeans-are-actually-on-trend-for-2024/intro-1721779789.jpg)](https://www.women.com/1628734/creased-jeans-trend-2024/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
-    
-    ### [Creased Jeans Are Actually On Trend For 2024](https://www.women.com/1628734/creased-jeans-trend-2024/)
-    
-    Jeans were initially meant to be a casual take on trousers and slacks. But as personal style and fashion evolved, so did denim's versatility.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1628734/creased-jeans-trend-2024/)
-    
-*  [![Farrah Fawcett feathered cut](https://www.women.com/img/gallery/the-feather-cut-is-the-breeziest-hair-trend-for-summer-2024/intro-1721789062.jpg)](https://www.women.com/1628788/feather-cut-breezy-hair-trend-summer-2024/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
-    
-    ### [The Feather Cut Is The Breeziest Hair Trend For Summer 2024](https://www.women.com/1628788/feather-cut-breezy-hair-trend-summer-2024/)
-    
-    The feather cut is back, not that it ever left, so you may want to give it a try this summer. Rest assured, no matter your hair type, it'll suit you.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1628788/feather-cut-breezy-hair-trend-summer-2024/)
-    
-*  [![Hailey Bieber on the street](https://www.women.com/img/gallery/hailey-biebers-stunning-style-transformation/intro-1720817907.jpg)](https://www.women.com/1622578/hailey-bieber-stunning-style-transformation-2/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
-    
-    ### [Hailey Bieber's Stunning Style Transformation](https://www.women.com/1622578/hailey-bieber-stunning-style-transformation-2/)
-    
-    Hailey Bieber has captivated the fashion world for years with her trendy, yet comfortable looks. We're looking back at how her style has evolved over the years.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1622578/hailey-bieber-stunning-style-transformation-2/)
-    
-*  [![Pamela Anderson](https://www.women.com/img/gallery/how-to-use-self-tanner-for-a-natural-fake-freckle-look/intro-1721781018.jpg)](https://www.women.com/1628740/how-use-self-tanner-fake-freckle-look/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
-    
-    ### [How To Use Self-Tanner For A Natural Fake Freckle Look](https://www.women.com/1628740/how-use-self-tanner-fake-freckle-look/)
-    
-    They were once something that was considered a flaw that people would try to lighten or cover with makeup, but now freckles are having their moment.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1628740/how-use-self-tanner-fake-freckle-look/)
-    
-*  [![Woman reading a book ](https://www.women.com/img/gallery/heres-the-right-order-to-read-abby-jimenezs-iconic-rom-com-books-in/intro-1721835462.jpg)](https://www.women.com/1629069/right-order-read-abby-jimenez-books-in/)
-    
-    [Living](https://www.women.com/category/living/)
-    
-    [Living](https://www.women.com/category/living/) By Amanda Chatel
-    
-    ### [Here's The Right Order To Read Abby Jimenez's Iconic Rom-Com Books In](https://www.women.com/1629069/right-order-read-abby-jimenez-books-in/)
-    
-    Abby Jimenez made writing a career after not being able to find stories that spoke to her. Now she's published six books, with no intention of stopping.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1629069/right-order-read-abby-jimenez-books-in/)
-    
-*  [![Taylor Swift on stagr](https://www.women.com/img/gallery/taylor-swifts-boldest-hair-looks-of-all-time/intro-1721677826.jpg)](https://www.women.com/1627659/taylor-swift-boldest-hair-looks/)
+*  [![Sabrina Carpenter wavy hair](https://www.women.com/img/gallery/is-sabrina-carpenter-a-natural-blond-all-the-details-about-her-hair/intro-1725467689.jpg)](https://www.women.com/1657024/sabrina-carpenter-natural-blond-all-details-her-hair/)
     
     [Beauty](https://www.women.com/category/beauty/)
     
     [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
     
-    ### [Taylor Swift's Boldest Hair Looks Of All Time](https://www.women.com/1627659/taylor-swift-boldest-hair-looks/)
+    ### [Is Sabrina Carpenter A Natural Blond? All The Details About Her Hair](https://www.women.com/1657024/sabrina-carpenter-natural-blond-all-details-her-hair/)
     
-    She may be a natural blonde, but Taylor Swift has never been afraid to experiment with her hair. Here are some of her most unforgettable hair looks.
+    Sabrina Carpenter's blond waves are super romantic, but is her color as natural as her curls? Here are all the details of the look according to her stylists.
     
-    By Emily Hutchinson [Read More](https://www.women.com/1627659/taylor-swift-boldest-hair-looks/)
+    By Emily Hutchinson [Read More](https://www.women.com/1657024/sabrina-carpenter-natural-blond-all-details-her-hair/)
     
-*  [![Black athletic ballet flats](https://www.women.com/img/gallery/athletic-ballet-flats-are-trending-for-2024-our-favorite-ways-to-wear-them/intro-1721712202.jpg)](https://www.women.com/1627935/athletic-ballet-flats-trend-2024-favorite-ways-to-wear/)
+*  [![Jenna Ortega posing](https://www.women.com/img/gallery/5-times-jenna-ortega-was-a-goth-glam-queen-on-the-red-carpet/intro-1725411511.jpg)](https://www.women.com/1656588/jenna-ortega-goth-glam-red-carpet-looks/)
     
     [Fashion](https://www.women.com/category/fashion/)
     
     [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
     
-    ### [Athletic Ballet Flats Are Trending For 2024 - Our Favorite Ways To Wear Them](https://www.women.com/1627935/athletic-ballet-flats-trend-2024-favorite-ways-to-wear/)
+    ### [5 Times Jenna Ortega Was A Goth Glam Queen On The Red Carpet](https://www.women.com/1656588/jenna-ortega-goth-glam-red-carpet-looks/)
     
-    Sure, athletic ballet flats are made for walking, but that doesn't mean they can't look fashionable. Here's how to make the shoe work for everyday
+    While Jenna Ortega looks gorgeous in any shade, she thrives in black -- which is fortunate, because she's got styling the goth hue down to a science.
     
-    By Emily Hutchinson [Read More](https://www.women.com/1627935/athletic-ballet-flats-trend-2024-favorite-ways-to-wear/)
+    By Emily Hutchinson [Read More](https://www.women.com/1656588/jenna-ortega-goth-glam-red-carpet-looks/)
     
-*  [![Wearing decorative bun](https://www.women.com/img/gallery/fall-2024-hair-styling-trends-youll-want-to-try/intro-1722015898.jpg)](https://www.women.com/1630895/fall-2024-hair-styling-trends/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
-    
-    ### [Fall 2024 Hair Styling Trends You'll Want To Try](https://www.women.com/1630895/fall-2024-hair-styling-trends/)
-    
-    While fighting off the heat and humidity of summer, we should be looking forward to the hairstyling trends coming our way this fall.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1630895/fall-2024-hair-styling-trends/)
-    
-*  [![Joey King at an event ](https://www.women.com/img/gallery/theres-a-new-short-haircut-just-in-time-for-summer-the-chic-prada-bob/intro-1721253799.jpg)](https://www.women.com/1624986/prada-bob-short-haircut-trend-summer-2024/)
+*  [![Gently Soap on YouTube](https://www.women.com/img/gallery/heres-what-went-down-with-gently-soap-after-shark-tank/intro-1725407519.jpg)](https://www.women.com/1656561/what-went-down-with-gently-soap-after-shark-tank/)
     
     [Beauty](https://www.women.com/category/beauty/)
     
     [Beauty](https://www.women.com/category/beauty/) By Bernadette Roe
     
-    ### [There's A New Short Haircut Just In Time For Summer: The Chic Prada Bob](https://www.women.com/1624986/prada-bob-short-haircut-trend-summer-2024/)
+    ### [Here's What Went Down With Gently Soap After Shark Tank](https://www.women.com/1656561/what-went-down-with-gently-soap-after-shark-tank/)
     
-    Featuring a deep side part and ultra-short length, the Prada bob exudes old Hollywood sophistication. Plus, it's easier to style than you think.
+    Kristen Dunning found an effective and natural way to soothe her skin and eczema, and wanted to do the same for others. Thus, Gently was born.
     
-    By Bernadette Roe [Read More](https://www.women.com/1624986/prada-bob-short-haircut-trend-summer-2024/)
+    By Bernadette Roe [Read More](https://www.women.com/1656561/what-went-down-with-gently-soap-after-shark-tank/)
     
-*  [![bella hadid with latte nails](https://www.women.com/img/gallery/bella-hadid-just-gave-the-latte-nails-trend-a-huge-upgrade-for-summer-2024/intro-1721843422.jpg)](https://www.women.com/1629262/bella-hadid-latte-nails-trend-upgrade-summer-2024/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
-    
-    ### [Bella Hadid Just Gave The Latte Nails Trend A Huge Upgrade For Summer 2024](https://www.women.com/1629262/bella-hadid-latte-nails-trend-upgrade-summer-2024/)
-    
-    Bella Hadid put a delicious twist on the latte nails trend in 2024 when she stepped out on the Cannes red carpet with café au lait nails.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1629262/bella-hadid-latte-nails-trend-upgrade-summer-2024/)
-    
-*  [![Woman reviewing bills](https://www.women.com/img/gallery/underconsumption-core-is-the-ultimate-clapback-to-your-boomer-parents/intro-1721928842.jpg)](https://www.women.com/1630064/viral-underconsumption-core-tiktok-trend-important/)
-    
-    [Living](https://www.women.com/category/living/)
-    
-    [Living](https://www.women.com/category/living/) By Emily Hutchinson
-    
-    ### ['Underconsumption Core' Is The Ultimate Clapback To Your Boomer Parents](https://www.women.com/1630064/viral-underconsumption-core-tiktok-trend-important/)
-    
-    By embracing underconsumption core, young people are taking a stand and turning their backs on the idea that consumerism is the route to happiness.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1630064/viral-underconsumption-core-tiktok-trend-important/)
-    
-*  [![Woman reading ](https://www.women.com/img/gallery/5-booktok-movie-adaptations-we-cant-wait-for/intro-1721665915.jpg)](https://www.women.com/1627404/booktok-movie-adaptations-cant-wait-for/)
-    
-    [Living](https://www.women.com/category/living/)
-    
-    [Living](https://www.women.com/category/living/) By Bernadette Roe
-    
-    ### [5 BookTok Movie Adaptations We Can't Wait For](https://www.women.com/1627404/booktok-movie-adaptations-cant-wait-for/)
-    
-    Fortunately, the books we've sourced for this literary hunt have been confirmed by production companies. We'll get the popcorn ready.
-    
-    By Bernadette Roe [Read More](https://www.women.com/1627404/booktok-movie-adaptations-cant-wait-for/)
-    
-*  [![Blake Lively smiling](https://www.women.com/img/gallery/6-times-blake-lively-nailed-trends-on-the-red-carpet-while-staying-true-to-her-style/intro-1721858740.jpg)](https://www.women.com/1629508/times-blake-lively-nailed-trends-red-carpet-staying-true-her-style/)
-    
-    [Exclusives](https://www.women.com/category/exclusives/)
-    
-    [Exclusives](https://www.women.com/category/exclusives/) By Emily Hutchinson
-    
-    ### [6 Times Blake Lively Nailed Trends On The Red Carpet While Staying True To Her Style](https://www.women.com/1629508/times-blake-lively-nailed-trends-red-carpet-staying-true-her-style/)
-    
-    Blake Lively is the queen of red carpet fashion, but if you've ever wondered why her looks work so well, it's because they're always authentically her.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1629508/times-blake-lively-nailed-trends-red-carpet-staying-true-her-style/)
-    
-*  [![Zendaya at Wimbeldon ](https://www.women.com/img/gallery/zendayas-mob-wife-manicure-hits-all-the-right-trends-for-summer-2024/intro-1721321182.jpg)](https://www.women.com/1625448/zendaya-mob-wife-nails-hits-trends-summer-2024/)
+*  [![cutesy and demure manicure](https://www.women.com/img/gallery/x-cutesy-demure-nail-ideas-we-love/intro-1725390426.jpg)](https://www.women.com/1656269/cutesy-demure-nail-ideas/)
     
     [Beauty](https://www.women.com/category/beauty/)
     
     [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
     
-    ### [Zendaya's Mob Wife Manicure Hits All The Right Trends For Summer 2024](https://www.women.com/1625448/zendaya-mob-wife-nails-hits-trends-summer-2024/)
+    ### [5 Cutesy, Demure Nail Ideas We Love](https://www.women.com/1656269/cutesy-demure-nail-ideas/)
     
-    As the clean girl aesthetic become a distant memory, we welcome big looks, bold colors, and loud nails. In other words, the mob wife aesthetic.
+    See how we paint our nails with simple, classy colors? We don't need a lot of flashy glitter or embellishments. Our manicures are mindful and demure.
     
-    By Amanda Chatel [Read More](https://www.women.com/1625448/zendaya-mob-wife-nails-hits-trends-summer-2024/)
+    By Amanda Chatel [Read More](https://www.women.com/1656269/cutesy-demure-nail-ideas/)
     
-*  [![Miley Cyrus calico hair](https://www.women.com/img/gallery/the-latest-animal-inspired-look-for-your-hair-is-calico-cat-coloring/intro-1721401966.jpg)](https://www.women.com/1626205/calico-cat-coloring-hair-trend/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
-    
-    ### [The Latest Animal-Inspired Look For Your Hair Is Calico Cat Coloring](https://www.women.com/1626205/calico-cat-coloring-hair-trend/)
-    
-    Sometimes all it takes is quickly glancing at your pet, perhaps your calico cat, to realize they're the one who will inspire your next look.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1626205/calico-cat-coloring-hair-trend/)
-    
-*  [![Jennifer Lopez posing](https://www.women.com/img/gallery/the-leo-celebrities-who-perfectly-embody-their-zodiac-sign/intro-1721703628.jpg)](https://www.women.com/1627288/leo-celebrities-perfectly-embody-zodiac-sign/)
-    
-    [Living](https://www.women.com/category/living/)
-    
-    [Living](https://www.women.com/category/living/) By Emily Hutchinson
-    
-    ### [Leo Celebrities Who Perfectly Embody Their Zodiac Sign](https://www.women.com/1627288/leo-celebrities-perfectly-embody-zodiac-sign/)
-    
-    There are so many famous Leos, so it wasn't hard to pinpoint celebrities who are perfectly in tune with the zodiac's distinctive personality traits.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1627288/leo-celebrities-perfectly-embody-zodiac-sign/)
-    
-*  [![Carey Mulligan](https://www.women.com/img/gallery/the-best-bob-hairstyles-of-2024/intro-1721317925.jpg)](https://www.women.com/1625371/best-bob-hairstyles-2024/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
-    
-    ### [The Best Bob Hairstyles Of 2024](https://www.women.com/1625371/best-bob-hairstyles-2024/)
-    
-    If you want to change up your look or give short hair a try, bobs are the best way to do that. You need a little bit of inspiration.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1625371/best-bob-hairstyles-2024/)
-    
-*  [![Jackie Onasis in pearls](https://www.women.com/img/gallery/pearl-jewelry-is-the-summer-trend-for-a-subtle-mermaidcore-vibe/intro-1721071903.jpg)](https://www.women.com/1622870/pearl-jewelry-summer-trend-subtle-mermaidcore-vibe/)
+*  [![Winona Ryder at an event](https://www.women.com/img/gallery/5-winona-ryder-outfits-that-prove-shes-still-the-reigning-queen-of-grunge-style/intro-1725376988.jpg)](https://www.women.com/1656007/winona-ryder-outfits-prove-still-reigning-queen-grunge-style/)
     
     [Fashion](https://www.women.com/category/fashion/)
     
-    [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
+    [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
     
-    ### [Pearl Jewelry Is The Summer Trend For A Subtle Mermaidcore Vibe](https://www.women.com/1622870/pearl-jewelry-summer-trend-subtle-mermaidcore-vibe/)
+    ### [5 Winona Ryder Outfits That Prove She's Still The Reigning Queen Of Grunge Style](https://www.women.com/1656007/winona-ryder-outfits-prove-still-reigning-queen-grunge-style/)
     
-    Pearls can be dressed up, dressed down, and if you're feeling like you need more mermaid core energy in your life, they can deliver that too.
+    Back in the '90s, Winona Ryder became known for her iconic goth girl fashion. Now, decades later, she's wowing fans with some of her grungiest looks yet.
     
-    By Amanda Chatel [Read More](https://www.women.com/1622870/pearl-jewelry-summer-trend-subtle-mermaidcore-vibe/)
+    By Bernadette Roe [Read More](https://www.women.com/1656007/winona-ryder-outfits-prove-still-reigning-queen-grunge-style/)
     
-*  [![Asleep wearing face mask](https://www.women.com/img/gallery/tiktoks-morning-shed-trend-promises-to-cut-your-beauty-routine-time-in-half/intro-1721241090.jpg)](https://www.women.com/1624702/tiktok-morning-shed-trend-go-to-bed-ugly/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
-    
-    ### [TikTok's Morning Shed Trend Promises To Cut Your Beauty Routine Time In Half](https://www.women.com/1624702/tiktok-morning-shed-trend-go-to-bed-ugly/)
-    
-    We've become obsessed with perfection. But is piling on as many products as possible before bed really the way to obtain it? We asked an expert to weigh in.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1624702/tiktok-morning-shed-trend-go-to-bed-ugly/)
-    
-*  [![Jennifer Lopez posing](https://www.women.com/img/gallery/jennifer-lopezs-sexiest-red-carpet-looks-ranked/intro-1721234964.jpg)](https://www.women.com/1624563/jennifer-lopez-sexiest-red-carpet-looks-ranked/)
+*  [![Jennifer Lopez posing](https://www.women.com/img/gallery/5-times-jennifer-lopez-nailed-trends-while-staying-true-to-her-sexy-style/intro-1725045652.jpg)](https://www.women.com/1654495/times-jennifer-lopez-nailed-trends-staying-true-sexy-style/)
     
     [Fashion](https://www.women.com/category/fashion/)
     
     [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
     
-    ### [Jennifer Lopez's Sexiest Red Carpet Looks, Ranked](https://www.women.com/1624563/jennifer-lopez-sexiest-red-carpet-looks-ranked/)
+    ### [5 Times Jennifer Lopez Nailed Trends While Staying True To Her Sexy Style](https://www.women.com/1654495/times-jennifer-lopez-nailed-trends-staying-true-sexy-style/)
     
-    When J.Lo isn't rocking denim trends, she's killing it in some of the sexiest red carpet dresses you've ever seen. And we've ranked them.
+    Jennifer Lopez knows how to merge what's hot with her own style, repeatedly blending timelessness and trendiness. But how does she do it?
     
-    By Emily Hutchinson [Read More](https://www.women.com/1624563/jennifer-lopez-sexiest-red-carpet-looks-ranked/)
+    By Emily Hutchinson [Read More](https://www.women.com/1654495/times-jennifer-lopez-nailed-trends-staying-true-sexy-style/)
+    
+*  [![Woman wearing orange jacket](https://www.women.com/img/gallery/hairstylist-tells-us-the-haircuts-that-will-help-you-transition-from-summer-to-fall/intro-1725051513.jpg)](https://www.women.com/1654629/haircuts-transition-summer-fall-hairstylist/)
+    
+    [Exclusives](https://www.women.com/category/exclusives/)
+    
+    [Exclusives](https://www.women.com/category/exclusives/) By Jessica Choi
+    
+    ### [Haircuts To Transition You From Summer Into Fall 2024](https://www.women.com/1654629/haircuts-transition-summer-fall-hairstylist/)
+    
+    As the seasons change, your hair should too. Women spoke exclusively with a hairstylist who revealed the best 'dos for the summer-fall transition.
+    
+    By Jessica Choi [Read More](https://www.women.com/1654629/haircuts-transition-summer-fall-hairstylist/)
+    
+*  [![Meghan Markle sitting smiling](https://www.women.com/img/gallery/meghan-markles-surprising-method-for-avoiding-outdated-trends-couldnt-be-more-simple/intro-1725040992.jpg)](https://www.women.com/1654425/meghan-markle-surprising-method-avoiding-outdated-trends-couldnt-be-more-simple/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+    
+    ### [Meghan Markle's Surprising Method For Avoiding Outdated Trends Couldn't Be More Simple](https://www.women.com/1654425/meghan-markle-surprising-method-avoiding-outdated-trends-couldnt-be-more-simple/)
+    
+    Meghan Markle knows she can bring a lot of attention to companies that may not have gotten their big break yet. That's just one of the reasons we love her.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1654425/meghan-markle-surprising-method-avoiding-outdated-trends-couldnt-be-more-simple/)
+    
+*  [![Hailey Bieber at an event](https://www.women.com/img/gallery/5-short-hair-trends-hailey-bieber-has-rocked/intro-1724990887.jpg)](https://www.women.com/1653905/short-hair-trends-hailey-bieber-rocked/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Bernadette Roe
+    
+    ### [6 Short Hair Trends Hailey Bieber Has Rocked](https://www.women.com/1653905/short-hair-trends-hailey-bieber-rocked/)
+    
+    Hailey Bieber has put short hair on the map. From French bobs to mini waves, here are the short hair trends the socialite has slayed.
+    
+    By Bernadette Roe [Read More](https://www.women.com/1653905/short-hair-trends-hailey-bieber-rocked/)
+    
+*  [![Looking at phone](https://www.women.com/img/gallery/the-burned-haystack-online-dating-method-explained/intro-1725034777.jpg)](https://www.women.com/1654248/burned-haystack-dating-method-explained/)
+    
+    [Relationships](https://www.women.com/category/relationships/)
+    
+    [Relationships](https://www.women.com/category/relationships/) By Amanda Chatel
+    
+    ### [The Burned Haystack Online Dating Method, Explained](https://www.women.com/1654248/burned-haystack-dating-method-explained/)
+    
+    What's the quickest way to find a needle in a haystack? Well, you burn the whole haystack down. Now apply that to online dating.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1654248/burned-haystack-dating-method-explained/)
+    
+*  [![Chappell Roan performing](https://www.women.com/img/gallery/chappell-roan-is-stunning-without-her-dramatic-stage-makeup/intro-1724947455.jpg)](https://www.women.com/1653310/chappell-roan-stunning-without-stage-makeup/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+    
+    ### [Chappell Roan Is Stunning Without Her Dramatic Stage Makeup](https://www.women.com/1653310/chappell-roan-stunning-without-stage-makeup/)
+    
+    Chappell Roan may be the queen of theatrical makeup, but the Midwest Princess is even more radiant when she keeps things "Casual."
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1653310/chappell-roan-stunning-without-stage-makeup/)
+    
+*  [![Simone Biles doing makeup](https://www.women.com/img/gallery/simone-biles-is-ushering-in-a-new-era-for-pressed-powders-heres-how-to-use-them-best/intro-1724873705.jpg)](https://www.women.com/1652668/simone-biles-new-era-pressed-powders-how-use-best/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+    
+    ### [Simone Biles Is Ushering In A New Era For Pressed Powders — Here's How To Use Them Best](https://www.women.com/1652668/simone-biles-new-era-pressed-powders-how-use-best/)
+    
+    It's a new era for pressed powders, and icons like Simone Biles and Selena Gomez are highlighting just how essential these staples can be.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1652668/simone-biles-new-era-pressed-powders-how-use-best/)
+    
+*  [![Raygun breakdancing](https://www.women.com/img/gallery/2024-celeb-inspired-halloween-costumes-every-pop-culture-lover-will-recognize/intro-1724862652.jpg)](https://www.women.com/1652390/pop-culture-celeb-inspired-halloween-costumes-specific-to-2024/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
+    
+    ### [2024 Celeb-Inspired Halloween Costumes Every Pop Culture Lover Will Recognize](https://www.women.com/1652390/pop-culture-celeb-inspired-halloween-costumes-specific-to-2024/)
+    
+    It's been an interesting year for pop culture, and when people in the public eye behave bizarrely, badly, or wonderfully, it gives us major Halloween fodder.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1652390/pop-culture-celeb-inspired-halloween-costumes-specific-to-2024/)
+    
+*  [![Taylor Swift and Brittany Mahomes at football game](https://www.women.com/img/gallery/swift-vs-mahomes/intro-1724951543.jpg)](https://www.women.com/1653462/taylor-swift-brittany-mahomes-trump-scandal-exposes-painfuly-reality-friendship/)
+    
+    [News](https://www.women.com/category/news/)
+    
+    [News](https://www.women.com/category/news/) By Savanna Swain-Wilson
+    
+    ### [Taylor Swift And Brittany Mahomes' Trump Scandal Exposes A Painful Truth About Friendship](https://www.women.com/1653462/taylor-swift-brittany-mahomes-trump-scandal-exposes-painfuly-reality-friendship/)
+    
+    After Brittany Mahomes doubled down on her political posts, many fans are wondering if her friendship with Taylor Swift is all that it seems.
+    
+    By Savanna Swain-Wilson [Read More](https://www.women.com/1653462/taylor-swift-brittany-mahomes-trump-scandal-exposes-painfuly-reality-friendship/)
+    
+*  [![Mikki Bey speaking](https://www.women.com/img/gallery/heres-what-went-down-with-mikki-bey-eyelash-extensions-after-shark-tank/intro-1724942357.jpg)](https://www.women.com/1653165/what-went-down-mikki-bey-eyelash-extensions-after-shark-tank/)
+    
+    [Living](https://www.women.com/category/living/)
+    
+    [Living](https://www.women.com/category/living/) By Emily Hutchinson
+    
+    ### [Here's What Went Down With Mikki Bey Eyelash Extensions After Shark Tank](https://www.women.com/1653165/what-went-down-mikki-bey-eyelash-extensions-after-shark-tank/)
+    
+    Although the pitch for Mikki Bey Eyelash Extensions didn't go according to plan, it didn't stop the founder from pursuing her dreams.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1653165/what-went-down-mikki-bey-eyelash-extensions-after-shark-tank/)
+    
+*  [![sabrina carpenter at loewe show](https://www.women.com/img/gallery/heres-exactly-how-to-nail-sabrina-carpenters-signature-baby-doll-blush-look/intro-1724783905.jpg)](https://www.women.com/1652631/how-nail-sabrina-carpenter-baby-doll-blush-look/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
+    
+    ### [Here's Exactly How To Nail Sabrina Carpenter's Signature Baby Doll Blush Look](https://www.women.com/1652631/how-nail-sabrina-carpenter-baby-doll-blush-look/)
+    
+    The queen of coquette Sabrina Carpenter has captivated the world with her porcelain doll blush. We asked a makeup artist how to achieve the youthful look.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1652631/how-nail-sabrina-carpenter-baby-doll-blush-look/)
+    
+*  [![Zendaya's garden nails](https://www.women.com/img/gallery/how-to-take-zendaya-and-kylie-jenners-garden-inspired-manicures-into-fall/intro-1724866448.jpg)](https://www.women.com/1651817/how-nail-zendaya-kylie-jenner-garden-inspired-manicures/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Savanna Swain-Wilson
+    
+    ### [How To Take Zendaya And Kylie Jenner's Garden-Inspired Manicures Into Fall](https://www.women.com/1651817/how-nail-zendaya-kylie-jenner-garden-inspired-manicures/)
+    
+    From vegetable press-ons to harvest colored polish, summer's garden manicure trend is getting a much-needed seasonal twist for fall 2024.
+    
+    By Savanna Swain-Wilson [Read More](https://www.women.com/1651817/how-nail-zendaya-kylie-jenner-garden-inspired-manicures/)
+    
+*  [![Couple getting intimate](https://www.women.com/img/gallery/the-latest-sex-toy-trend-promises-more-inclusive-intimacy/intro-1724709774.jpg)](https://www.women.com/1650937/latest-sex-toy-trend-more-inclusive-intimacy/)
+    
+    [Sex](https://www.women.com/category/sex-life/)
+    
+    [Sex](https://www.women.com/category/sex-life/) By Rebecca Potters
+    
+    ### [The Latest Sex Toy Trend Promises More Inclusive Intimacy](https://www.women.com/1650937/latest-sex-toy-trend-more-inclusive-intimacy/)
+    
+    Whether you're dealing with mobility issues, pain, or have a mental proclivity toward soft sensations, squishy sex toys suit a variety of needs.
+    
+    By Rebecca Potters [Read More](https://www.women.com/1650937/latest-sex-toy-trend-more-inclusive-intimacy/)
+    
+*  [![sabrina carpenter](https://www.women.com/img/gallery/sabrina-carpenter-is-stunning-with-no-makeup-her-natural-wavy-hair/intro-1724687291.jpg)](https://www.women.com/1650498/sabrina-carpenter-stunning-no-makeup-natural-wavy-hair/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
+    
+    ### [Sabrina Carpenter Is Stunning With No Makeup & Her Natural Wavy Hair](https://www.women.com/1650498/sabrina-carpenter-stunning-no-makeup-natural-wavy-hair/)
+    
+    Sabrina Carpenter is known for doll-like beauty, but that doesn't mean the star is always full glam. Here are times she stunned with her natural hair and face.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1650498/sabrina-carpenter-stunning-no-makeup-natural-wavy-hair/)
     
 
 Back
