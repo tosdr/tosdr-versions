@@ -4,8 +4,6 @@
 
 [Yousician Logo Yousician logo](https://yousician.com/)
 
-search
-
 Instruments arrow
 
 [Guitar](https://yousician.com/guitar) [Bass](https://yousician.com/bass) [Piano](https://yousician.com/piano) [Ukulele](https://yousician.com/ukulele) [Singing](https://yousician.com/singing)
@@ -22,19 +20,11 @@ sphere Languages arrow
 
 [Deutsch](https://yousician.com/de/terms-of-service) [English](https://yousician.com/terms-of-service) [Español](https://yousician.com/es/terms-of-service) [Français](https://yousician.com/fr/terms-of-service) [Italiano](https://yousician.com/it/terms-of-service) [日本語](https://yousician.com/ja/terms-of-service) [Português](https://yousician.com/pt_BR/terms-of-service) [Русский](https://yousician.com/ru/terms-of-service) [简体中文](https://yousician.com/zh_Hans_CN/terms-of-service) [繁體中文](https://yousician.com/zh_Hant_TW/terms-of-service)
 
-search
-
 [My account](https://account.yousician.com/) [Logout](#)
 
 [User avatar Log in](https://account.yousician.com/ "Log in")
 
 [Try premium](https://yousician.onelink.me/7MHE/yshphf)
-
-search
-
-Search for: 
-
-close
 
 ![Yousician](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
@@ -379,9 +369,9 @@ Apple and its subsidiaries are third-party beneficiaries to these Terms and, upo
 
 [![Download on the AppStore](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![Download on the AppStore](/app/themes/yousician/assets/images/download-appstore.svg?x86146)](https://itunes.apple.com/us/app/yousician/id959883039)[![Download Android app on Google Play](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+![Download on the AppStore](/app/themes/yousician/assets/images/download-appstore.svg?x39036)](https://itunes.apple.com/us/app/yousician/id959883039)[![Download Android app on Google Play](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![Download Android app on Google Play](/app/themes/yousician/assets/images/download-playstore.svg?x86146)](https://play.google.com/store/apps/details?id=com.yousician.yousician)
+![Download Android app on Google Play](/app/themes/yousician/assets/images/download-playstore.svg?x39036)](https://play.google.com/store/apps/details?id=com.yousician.yousician)
 
 [Download for desktop](https://account.yousician.com/download)
 
@@ -389,7 +379,7 @@ Apple and its subsidiaries are third-party beneficiaries to these Terms and, upo
 
 [![Yousician logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![Yousician logo](/app/themes/yousician/assets/images/yousician-horizontal-green.svg?x86146)](https://yousician.com/)
+![Yousician logo](/app/themes/yousician/assets/images/yousician-horizontal-green.svg?x39036)](https://yousician.com/)
 
 * [Yousician on Instagram Instagram](https://www.instagram.com/yousician/?hl=en)
 * [Yousician on Facebook Facebook](https://www.facebook.com/yousician/)
