@@ -1,4 +1,4 @@
-[Testing London, GB](https://testmy.net/mirror "Test Mirrors") | [Multithread off](https://testmy.net/multithread/?rel=ref "Enable Multithread")   | [Sign In](https://testmy.net/signin) / [Sign Up](https://testmy.net/signup)
+[Testing Dallas, TX](https://testmy.net/mirror "Test Mirrors") | [Multithread off](https://testmy.net/multithread/?rel=ref "Enable Multithread")   | [Sign In](https://testmy.net/signin) / [Sign Up](https://testmy.net/signup)
 
 [testmy.net  
 
@@ -84,6 +84,6 @@ Please proceed with caution and do your homework.
 
 * [Forums](https://testmy.net/ipb)
 * [Servers](https://testmy.net/mirror)
-* [My Settings](https://testmy.net/mysettings?ref=/legal/terms_of_use.php)
+* [My Settings](https://testmy.net/mysettings)
 
 [TestMy.net](https://testmy.net/) © 2024 - [Terms & Privacy](https://testmy.net/legal) - [Contact](https://testmy.net/contact)
