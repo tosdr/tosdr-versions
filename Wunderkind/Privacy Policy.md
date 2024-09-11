@@ -25,6 +25,7 @@ How It Works![](/images/icons/caret-down.svg)
 * [Performance Marketing](https://www.wunderkind.co/how-it-works/performance-marketing-solutions-for-ecommerce/)
 * [Advertising](https://www.wunderkind.co/how-it-works/advertising-solutions-for-advertisers-and-publishers/)
 * [Publisher Growth Suite](https://www.wunderkind.co/solutions/multichannel-for-publishers/)
+* [Privacy and Compliance](https://www.wunderkind.co/blog/article/how-wunderkinds-privacy-powered-identity-resolution-service-works/)
 
 [Platform](https://www.wunderkind.co/platform/)![](/images/icons/caret-down.svg)
 
@@ -36,6 +37,7 @@ Industry![](/images/icons/caret-down.svg)
 * [Travel & Hospitality](https://www.wunderkind.co/industry/travel-and-hospitality/)
 * [Beauty & Health](https://www.wunderkind.co/industry/beauty-and-health/)
 * [Retail](https://www.wunderkind.co/industry/retail/)
+* [Fashion & Apparel](https://www.wunderkind.co/industry/fashion-and-apparel/)
 
 * [Luxury](https://www.wunderkind.co/industry/luxury/)
 * [E-Commerce](https://www.wunderkind.co/industry/e-commerce/)
@@ -44,7 +46,7 @@ Industry![](/images/icons/caret-down.svg)
 [Resources](https://www.wunderkind.co/resources/)![](/images/icons/caret-down.svg)
 
 * [Roadmap Webinar](https://convert.wunderkind.co/the-future-of-autonomous-marketing?_gl=1*1eftm5n*_ga*MTE3NDI4MDQ5Ni4xNzE2NDgxMjA1*_ga_CTFGZ6SG5G*MTcxNjU2NTkzMC40LjEuMTcxNjU2NjA0My41NS4wLjA.)
-* [Consumer Insights](https://convert.wunderkind.co/2024-digital-commerce-consumer-insights.html?_gl=1*pq1wf9*_ga*MTE3NDI4MDQ5Ni4xNzE2NDgxMjA1*_ga_CTFGZ6SG5G*MTcxNjU2NTkzMC40LjEuMTcxNjU2NjA4Ni4xMi4wLjA.)
+* [Help Center](http://support.wunderkind.co/)
 * [Identity Playbook](https://convert.wunderkind.co/2024-identity-playbook.html)
 * [2024 Marketers Guide](https://convert.wunderkind.co/marketers-guide-to-power-of-performance-marketing)
 
@@ -364,7 +366,6 @@ US
 
 UK
 
-* [Login](https://connect.wunderkind.co/login)
 * [Sitemap](https://www.wunderkind.co/wunderkind-sitemap/)
 * [Privacy Policy](https://www.wunderkind.co/privacy/)
 * [Terms & Conditions](https://www.wunderkind.co/terms/)
