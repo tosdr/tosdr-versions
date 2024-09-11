@@ -175,4 +175,4 @@ Footer links
 
 ©2024 Board of Regents of  
 the University of Wisconsin System  
-| [Privacy notice](https://www.wisc.edu/privacy-notice/) | Feedback, questions or accessibility issues: [web@umark.wisc.edu](mailto:web@umark.wisc.edu)
+| [Privacy notice](https://www.wisc.edu/privacy-notice/) | Feedback, questions or accessibility issues: [web.strategiccommunication@wisc.edu](mailto:web.strategiccommunication@wisc.edu)
