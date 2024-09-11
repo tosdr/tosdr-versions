@@ -59,7 +59,7 @@ Cookies are small text files that are placed on your device by apps and websites
 
 Brands
 
-* [Dungeons & Dragons](https://dnd.wizards.com/)
+* [Dungeons & Dragons](https://www.dndbeyond.com/)
 * [Duel Masters](https://dm.takaratomy.co.jp/)
 * [Magic: The Gathering](https://magic.wizards.com/en)
 
