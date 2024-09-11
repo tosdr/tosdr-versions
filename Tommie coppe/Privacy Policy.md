@@ -1,32 +1,30 @@
 [Skip to main content](#main-content)
 
-Summer Sale: Best Sellers BOGO Free! DETAILS
+Save 40% Sitewide! DETAILS
 
-Save 40% on Mattresses! DETAILS
-
-BIG SUMMER SALE
+END OF SUMMER SAVINGS
 
 Close the Modal
 
-#### Mix & match or double up. The Best Sellers are buy one get one FREE!
+#### 40% off Sitewide!
 
-[SHOP NOW](https://www.tommiecopper.com/special/best-sellers/)
+[SHOP MEN](https://www.tommiecopper.com/men/)    [SHOP WOMEN](https://www.tommiecopper.com/women)
 
-Offer valid 8/1/2024 8AM EST - 8/5/2024 6AM EST.
+Offer valid 9/9/2024 8AM ET - 9/13/2024 6AM ET.
 
-To receive Buy 1 Get 1 Free discount on Best Sellers, must add two (2) eligible full-price products to cart. Discount automatically applied on lowest priced item. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
+Sitewide discounts priced as marked. Excludes Lower Back Support Tank | Women's. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
 
-COPPER ZNERGY® MATTRESSES
+FREE GIFT WITH PURCHASE
 
 Close the Modal
 
-#### Save 4O% on Better Sleep!
+#### Free Pain Relief Liquid Roller on Orders $100+
 
-[SHOP NOW](https://www.tommiecopper.com/featured/sleep-solutions/)
+[SHOP MEN](https://www.tommiecopper.com/men/)    [SHOP WOMEN](https://www.tommiecopper.com/women/)
 
-Offer valid 8/1/2024 8AM EST - 8/5/2024 6AM EST.
+Offer valid 8/1/2023 8AM EST - 8/5/2023 6AM EST.
 
-40% off Mattresses discounts priced as marked. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
+Free Pain Relief Liquid Roller - Cucumber & Peppermint automatically applied on orders $100+. Order subtotal must reach $100 before taxes and shipping. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
 
 [Toggle menu](#)
 
@@ -52,11 +50,12 @@ Search
         * [Calf](https://www.tommiecopper.com/men/shop-by-pain-point/calf/)
         * [Foot & Ankle](https://www.tommiecopper.com/men/shop-by-pain-point/foot-ankle/)
     * Featured
-        * [Infrared & Red Light Devices](https://www.tommiecopper.com/men/featured/infrared-red-light-devices/)
         * [Support Shirts](https://www.tommiecopper.com/men/featured/support-shirts/)
+        * [Infrared & Red Light Devices](https://www.tommiecopper.com/men/featured/infrared-red-light-devices/)
+        * [Foot Care](https://www.tommiecopper.com/foot-care)
         * [TENS Therapy Device](https://www.tommiecopper.com/men/featured/tens-therapy-devices/)
         * [Sleep Solutions](https://www.tommiecopper.com/men/featured/tommie-sleep/)
-        * [Men's Outlet](https://www.tommiecopper.com/men/featured/mens-outlet/)
+        * [Men's Markdowns](https://www.tommiecopper.com/men/featured/mens-markdowns/)
     
 * [Women](https://www.tommiecopper.com/women/)
     
@@ -77,22 +76,16 @@ Search
         * [Calf](https://www.tommiecopper.com/women/shop-by-pain-point/calf/)
         * [Foot & Ankle](https://www.tommiecopper.com/women/shop-by-pain-point/foot-ankle/)
     * Featured
-        * [Infrared & Red Light Devices](https://www.tommiecopper.com/women/featured/infrared-red-light-devices/)
         * [Support Shirts](https://www.tommiecopper.com/women/featured/support-shirts/)
+        * [Infrared & Red Light Devices](https://www.tommiecopper.com/women/featured/infrared-red-light-devices/)
+        * [Foot Care](https://www.tommiecopper.com/foot-care)
         * [TENS Therapy Device](https://www.tommiecopper.com/women/featured/tens-therapy-devices/)
         * [Sleep Solutions](https://www.tommiecopper.com/women/featured/tommie-sleep/)
-        * [Women's Outlet](https://www.tommiecopper.com/women/featured/womens-outlet/)
+        * [Women's Markdowns](https://www.tommiecopper.com/women/featured/womens-markdowns/)
     
-* [Featured](https://www.tommiecopper.com/featured/)
-    
-    * [Support Shirts](https://www.tommiecopper.com/featured/support-shirts/)
-    * [Infrared & Red Light Devices](https://www.tommiecopper.com/featured/infrared-red-light-devices/)
-    * [TENS Therapy Device](https://www.tommiecopper.com/featured/tens-therapy-devices/)
-    * [Sleep Solutions](https://www.tommiecopper.com/featured/sleep-solutions/)
-    * [Face Coverings](https://www.tommiecopper.com/featured/face-coverings/)
-    
-* [Infrared Therapy](https://www.tommiecopper.com/featured/infrared-red-light-devices/)
 * [Support Shirts](https://www.tommiecopper.com/featured/support-shirts/)
+* [Infrared Therapy](https://www.tommiecopper.com/featured/infrared-red-light-devices/)
+* [Foot Care](https://www.tommiecopper.com/foot-care)
 
 * [Login/Register](https://www.tommiecopper.com/login.php)
 
