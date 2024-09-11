@@ -38,8 +38,9 @@
 * Revive Sunnah
     
     * [HABBATUS SAUDA ♡](https://sunnahosstore-id.com/collections/habbatussauda-honey)
+    * [MISWAK ♡ Oral Care](https://sunnahosstore-id.com/collections/miswak)
     * [BEARD CARE ♡ ARGAN OIL](https://sunnahosstore-id.com/collections/be-beardiful)
-    * [SHILAJIT ♡](https://sunnahosstore-id.com/products/naturesblends-10g-shilajit)
+    * [SHILAJIT ♡ Mineral Pitch](https://sunnahosstore-id.com/products/naturesblends-10g-shilajit)
     * [CELAK TARIM ♡ Eyeliner](https://sunnahosstore-id.com/products/sunnah-eyeliner)
     * [APPAREL ♡ Telekung](https://sunnahosstore-id.com/collections/wi-lifestylish)
     
@@ -163,8 +164,9 @@ Search
     
     * [VIEW CATALOG](https://sunnahosstore-id.com/collections/sunnah-os)
     * [HABBATUS SAUDA ♡](https://sunnahosstore-id.com/collections/habbatussauda-honey)
+    * [MISWAK ♡ Oral Care](https://sunnahosstore-id.com/collections/miswak)
     * [BEARD CARE ♡ ARGAN OIL](https://sunnahosstore-id.com/collections/be-beardiful)
-    * [SHILAJIT ♡](https://sunnahosstore-id.com/products/naturesblends-10g-shilajit)
+    * [SHILAJIT ♡ Mineral Pitch](https://sunnahosstore-id.com/products/naturesblends-10g-shilajit)
     * [CELAK TARIM ♡ Eyeliner](https://sunnahosstore-id.com/products/sunnah-eyeliner)
     * [APPAREL ♡ Telekung](https://sunnahosstore-id.com/collections/wi-lifestylish)
     
@@ -238,9 +240,9 @@ Search
 
 [ITEM ADDED TO CART. View cart and check out.](https://sunnahosstore-id.com/cart) Close
 
-Close
+We're sorry, you have added the last quantity. Close
 
-♡ SPEND $15 FREE MAIL AND $33 FREE DELIVERY ♡ Close
+♡ 11% OFF FOR ANY 5 ITEMS PURCHASE ♡ SPEND $15 FREE MAIL AND $33 FREE DELIVERY ♡ Close
 
 RECEIVING & REFUND POLICY
 =========================
