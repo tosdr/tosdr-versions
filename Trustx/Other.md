@@ -1,11 +1,10 @@
-[Skip to content](#content)
+![](https://dc.ads.linkedin.com/collect/?pid=6284474&fmt=gif)          [Skip to content](#content)
 
-[![](https://trustx.org/wp-content/uploads/2023/03/5e2cc637b0943f1199c0710f_TrustX-logo.png)](https://trustx.org/)
+[![TRUSTX logo](https://trustx.org/wp-content/uploads/2023/03/5e2cc637b0943f1199c0710f_TrustX-logo.png)](https://trustx.org/)
 
 * [Our Story](https://trustx.org/story/)
 * [Our Publishers](https://trustx.org/trustx-premium-publishers/)
 * [Press](https://trustx.org/press/)
-* [Careers](https://trustx.org/careers/)
 * [Blog](https://trustx.org/blog/)
 
 Menu
@@ -13,10 +12,9 @@ Menu
 * [Our Story](https://trustx.org/story/)
 * [Our Publishers](https://trustx.org/trustx-premium-publishers/)
 * [Press](https://trustx.org/press/)
-* [Careers](https://trustx.org/careers/)
 * [Blog](https://trustx.org/blog/)
 
-![](https://trustx.org/wp-content/uploads/2023/03/5e3335826fa53bb9dccbf0f8_Mask-Group-1.svg)
+![TRUSTX chevron](https://trustx.org/wp-content/uploads/2023/03/5e3335826fa53bb9dccbf0f8_Mask-Group-1.svg)
 
 \[ OPT-OUT CHOICES \]
 ---------------------
@@ -97,7 +95,7 @@ United States of America
 
 [Subscribe](http://eepurl.com/ighc5D)
 
-![](https://trustx.org/wp-content/uploads/2023/03/5e9786a63fc8a7e6ce266f2b_Footer-TrustX_logo.white_.png)
+![TRUSTX logo](https://trustx.org/wp-content/uploads/2023/03/5e9786a63fc8a7e6ce266f2b_Footer-TrustX_logo.white_.png)
 
 Building the Sustainable Future  
 for Trusted Advertising
@@ -116,6 +114,6 @@ Have an inquiry regarding trust or transparency? Brand safety or suitability?
 
 [Talk to Us](mailto:press@trustx.org?subject=TRUSTX%20Press%20Inquiry)
 
-© TRUSTX 2024 | [Privacy Policy](https://trustx.org/privacy-policy) | [OPT-OUT CHOICES](https://trustx.org/opt-out-choices)
+© TRUSTX 2024 | [Privacy Policy](https://trustx.org/privacy-policy) | [OPT-OUT CHOICE](https://trustx.org/opt-out-choices)4
 
 Phone: +1 (646) 694-2980   |  530 Seventh Avenue, New York, NY 10018
