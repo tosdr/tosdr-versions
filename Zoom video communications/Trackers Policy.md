@@ -54,11 +54,11 @@
 
 * Products
     
-    * Zoom One
+    * Zoom Workplace
         
         Everything you need to work together, all in one place.
         
-        [Explore Zoom One’s Collaboration Tools](https://explore.zoom.us/en/collaboration-tools/)
+        [Explore Zoom Workplace's Collaboration Tools](https://explore.zoom.us/en/collaboration-tools/)
         
         * ![Virtual Meetings](https://explore.zoom.us/media/nav-sprites-1.svg)
             
@@ -580,4 +580,4 @@ Currency
 
   
 
-Copyright ©2023 Zoom Video Communications, Inc. All rights reserved. [Terms](https://explore.zoom.us/en/terms/) [Privacy](https://explore.zoom.us/en/privacy/) [Trust Center](https://explore.zoom.us/en/trust/) [Acceptable Use Guidelines](https://explore.zoom.us/en/acceptable-use-guidelines/) [Legal & Compliance](https://explore.zoom.us/en/trust/legal-compliance/) Do Not Sell/Share My Personal Information Cookie Preferences
+Copyright ©2024 Zoom Video Communications, Inc. All rights reserved. [Terms](https://explore.zoom.us/en/terms/) [Privacy](https://explore.zoom.us/en/privacy/) [Trust Center](https://explore.zoom.us/en/trust/) [Acceptable Use Guidelines](https://explore.zoom.us/en/acceptable-use-guidelines/) [Legal & Compliance](https://explore.zoom.us/en/trust/legal-compliance/) Do Not Sell/Share My Personal Information Cookie Preferences
