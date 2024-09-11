@@ -4,7 +4,7 @@
 
   Light Mode
 
-![](/_static/img/logos/made-in-europe-white-69e1fc.svg "Made in Europe logo") ![](/_static/img/logos/made-in-europe-black-b5a6c7.svg "Made in Europe logo") [![](/_static/icons/red/bold/phone-circle-186093.svg) 020 8068 7308](tel: "Call Us")[![](/_static/icons/red/bold/question-circle-e166ca.svg)](https://support.anydesk.com/knowledge "Help Center")![](/_static/icons/red/bold/arrow-down-1-13dd01.svg)
+ [![](/_static/icons/red/bold/phone-circle-186093.svg)](tel: "Call Us")[Customer Portal](https://my.anydesk.com/ "my.anydesk.com") ![](/_static/icons/red/bold/arrow-down-1-13dd01.svg)
 
  [![](/_static/img/logos/anydesk-logo-white-red-ec4e3a.png "AnyDesk logo") ![](/_static/img/logos/anydesk-logo-c0861c.png "AnyDesk logo")](https://anydesk.com/en)
 
@@ -47,16 +47,16 @@
     
     Support
     
-    [All Services](https://anydesk.com/en/services) [Customer Success](https://anydesk.com/en/services/customer-success) [Help Center![](/_static/icons/black/bold/keyboard-arrow-top-right-7aaa41.svg)](https://support.anydesk.com/knowledge) [Contact Us](https://anydesk.com/en/support/contact-us)
+    [Customer Portal![](/_static/icons/black/bold/keyboard-arrow-top-right-7aaa41.svg)](https://my.anydesk.com/) [Help Center![](/_static/icons/black/bold/keyboard-arrow-top-right-7aaa41.svg)](https://support.anydesk.com/knowledge) [Contact Us](https://anydesk.com/en/contact-anydesk)
     
 * [Buy Now](https://anydesk.com/en/pricing)
 
-[my.anydesk](https://my.anydesk.com/)[![](/_static/icons/red/bold/single-neutral-circle_2-d96f02.svg "my.anydesk.com")](https://my.anydesk.com/)[Downloads](https://anydesk.com/en/downloads)[![](/_static/icons/red/bold/download-bottom-278e26.svg "Downloads")](https://anydesk.com/en/downloads)
+[Contact Us](https://anydesk.com/en/contact-anydesk)[![](/_static/icons/red/bold/headphones-customer-support-human-6e41ee.svg "Contact Us")](https://anydesk.com/en/contact-anydesk)[Downloads](https://anydesk.com/en/downloads)[![](/_static/icons/red/bold/download-bottom-278e26.svg "Downloads")](https://anydesk.com/en/downloads)
 
 Data Processing Agreement
 =========================
 
-Last updated:1 December 2023
+Last updated:December 1, 2023
 
 * [1\. Validity and Scope](#1)
 * [2\. Definitions](#2)
@@ -278,7 +278,7 @@ The remuneration is conclusively regulated in the main contract. There is no sep
 
 ##### Contact sales
 
- [![](/_static/icons/white/bold/phone-9be7e0.svg) 020 8068 7308![](/_static/icons/red/bold/arrow-button-right-1-acd1f2.svg) ![](/_static/icons/white/bold/arrow-button-right-1-d8f1ad.svg)](tel:02080687308) 
+ [![](/_static/icons/white/bold/phone-9be7e0.svg) +1 833 269 3375![](/_static/icons/red/bold/arrow-button-right-1-acd1f2.svg) ![](/_static/icons/white/bold/arrow-button-right-1-d8f1ad.svg)](tel:+18332693375) 
 
 At AnyDesk, we want to provide the best experience and most innovative technology to all our users and customers. Our team will be operating on reduced holiday hours during this time.
 
@@ -287,6 +287,10 @@ At AnyDesk, we want to provide the best experience and most innovative technolog
 [Sales](https://anydesk.com/en/contact/sales)
 
 [Support](https://anydesk.com/en/contact/support)
+
+##### Contact sales
+
+ [![](/_static/icons/white/bold/phone-9be7e0.svg) +1 833 269 3375![](/_static/icons/red/bold/arrow-button-right-1-acd1f2.svg) ![](/_static/icons/white/bold/arrow-button-right-1-d8f1ad.svg)](tel:+18332693375) 
 
 ### Sign up for news, tips and more
 
@@ -300,7 +304,7 @@ Subscribe Now
 
 ![](/_static/img/logos/anydesk-logo-white-red-ec4e3a.png "AnyDesk logo")
 
-![](/_static/img/logos/made-in-europe-white-69e1fc.svg "AnyDesk logo")
+![](/_static/img/logos/based-in-florida-white-ecce6b.svg "AnyDesk logo")
 
 ![](/_static/icons/red/bold/arrow-down-1-13dd01.svg)
 
@@ -320,11 +324,11 @@ Subscribe Now
 
 [Company](#card-accordion-footer-menu4)
 
-[AnyDesk Team](https://anydesk.com/en/leadership-team) [Contact Us](https://anydesk.com/en/support/contact-us) [Open Positions](https://anydesk.com/en/career) [Partners](https://anydesk.com/en/partners) [Blog](https://blog.anydesk.com/) [Press](https://anydesk.com/en/press) [Events](https://anydesk.com/en/events) [Fanshop![](/_static/icons/white/bold/keyboard-arrow-top-right-5f4184.svg)](https://anydesk.com/fanshop)
+[AnyDesk Team](https://anydesk.com/en/leadership-team) [Contact Us](https://anydesk.com/en/support/contact-us) [Open Positions](https://anydesk.com/en/career) [Partners](https://anydesk.com/en/partners) [Blog](https://blog.anydesk.com/) [Press](https://anydesk.com/en/press) [Events](https://anydesk.com/en/events) [Fanshop![](/_static/icons/white/bold/keyboard-arrow-top-right-5f4184.svg)](https://anydesk-shop.myspreadshop.com/)
 
 ![](/_static/img/logos/anydesk-logo-white-red-ec4e3a.png "AnyDesk logo")
 
-![](/_static/img/logos/made-in-europe-white-69e1fc.svg "AnyDesk logo")
+![](/_static/img/logos/based-in-florida-white-ecce6b.svg "AnyDesk logo")
 
 ![](/_static/icons/red/bold/arrow-down-1-13dd01.svg)
 
@@ -398,7 +402,7 @@ Company
 
 [Events](https://anydesk.com/en/events)
 
-[Fanshop![](/_static/icons/white/bold/keyboard-arrow-top-right-5f4184.svg)](https://anydesk.com/fanshop)
+[Fanshop![](/_static/icons/white/bold/keyboard-arrow-top-right-5f4184.svg)](https://anydesk-shop.myspreadshop.com/)
 
 © 2024 AnyDesk Software GmbH • [Terms & Conditions](https://anydesk.com/en/terms) • [Privacy Policy](https://anydesk.com/en/privacy) • [Legal Notice](https://anydesk.com/en/imprint)
 
