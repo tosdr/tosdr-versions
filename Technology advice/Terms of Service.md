@@ -5,9 +5,9 @@ Search
 * [Software Reviews](https://technologyadvice.com/browse-categories/)
     * [Human Resources Software](https://technologyadvice.com/human-resources-software/)
     * [Payroll Software](https://technologyadvice.com/payroll-software/)
-    * [CRM Software](https://technologyadvice.com/customer-relationship-management-software/)
+    * [CRM Software](https://technologyadvice.com/crm/)
     * [Sales Software](https://technologyadvice.com/sales-software/)
-    * [Project Management Software](https://technologyadvice.com/project-management-software/)
+    * [Project Management Software](https://technologyadvice.com/project-management/)
     * [Business Intelligence Software](https://technologyadvice.com/business-intelligence/)
     * [Browse all categories](https://technologyadvice.com/browse-categories/)
 * [Blog & Research](https://technologyadvice.com/blog/)
@@ -168,9 +168,9 @@ Failure to meet one or more of the following requirements may lead to a denial 
 * [Privacy Policy](https://technologyadvice.com/privacy-policy/)
 * [California – Do Not Sell My Info](https://technologyadvice.com/privacy-policy/ccpa-opt-out/)
 
-[](#)
+[](https://technologyadvice.com/#)
 
-![TechnologyAdvice Logo](https://assets.technologyadvice.com/uploads/2024/06/technologyadvice-logo-final-1.svg)
+[![TechnologyAdvice logo](https://assets.dev.technologyadvice.com/uploads/2024/03/technologyadvice_logo_final-1.svg "TechnologyAdvice logo")](https://www.technologyadvice.com/)
 
 [](https://www.facebook.com/techadvice)
 
