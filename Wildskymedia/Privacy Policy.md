@@ -1,12 +1,8 @@
 [](https://www.wildskymedia.com/)
 
 * [HOME](https://www.wildskymedia.com/)
-* [NEWS](https://www.wildskymedia.com/news)
 * [BRANDS](https://www.wildskymedia.com/brands)
-* [ABOUT](https://www.wildskymedia.com/about)
-* [ADVERTISE](https://www.wildskymedia.com/advertise)
-* [CAREERS](https://www.wildskymedia.com/careers)
-* [CONTACT US](https://www.wildskymedia.com/advertise#contact)
+* [CONTACT US](https://www.wildskymedia.com/contact)
 * [](https://www.linkedin.com/company/wild-sky-media)
 
 Privacy Policy
@@ -203,6 +199,6 @@ Boca Raton, FL 33487
 
 Copyright © 2024 Wild Sky Media - All Rights Reserved.
 
-[CONTACT](https://www.wildskymedia.com/advertise#contact) • [TERMS OF SERVICE](https://www.wildskymedia.com/terms-of-service) • [PRIVACY POLICY](https://www.wildskymedia.com/privacy-policy)
+[CONTACT](https://www.wildskymedia.com/contact) • [TERMS OF SERVICE](https://www.wildskymedia.com/terms-of-service) • [PRIVACY POLICY](https://www.wildskymedia.com/privacy-policy)
 
 [Connect With Us](https://www.linkedin.com/company/wild-sky-media)
