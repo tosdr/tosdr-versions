@@ -144,7 +144,7 @@ Section G: Security and Social Media
 
 We safeguard the integrity of our site with measures designed and intended to prevent the corruption of data and to block unknown or unauthorized access to our systems and information. However, it is important to recognize that whatever you transmit or disclose online could be collected and used by others or even unlawfully intercepted by third parties. No data transmission over the internet can ever be guaranteed to be 100% secure and by transmitting your data in this matter you agree to release 4imprint from any liability for damages incurred as a result of transmission. While we strive to protect your information, we cannot warrant the security of any information that you transmit to us.
 
-You may also take steps of your own to protect your information. For example, you should create a unique, quality password and not share that password with others or use it on any other website. You should not leave your computer or electronic device unattended before exiting a session and prior to logging out. You should also properly exit browsers as you move between websites. Please see the [4imprint Legal Statement](https://info.4imprint.com/legal-statement/) for additional details.
+You may also take steps of your own to protect your information. For example, you should create a unique, quality password and not share that password with others or use it on any other website. You should not leave your computer or electronic device unattended before exiting a session and prior to logging out. You should also properly exit browsers as you move between websites. Please see the [4imprint Legal Statement](https://www.4imprint.com/info/legalstatement) for additional details.
 
 Section H: A Special Note for Parents
 -------------------------------------
@@ -343,9 +343,9 @@ People Companies That Care Logo is used under license, © 2022, TI Gotham, Inc.
 [![BBB Business Review](https://cdn.4imprint.com/genfiles/bbb.png)](https://www.bbb.org/us/wi/oshkosh/profile/advertising-specialties/4imprint-inc-0694-29000132)
 
 Shopping at 4imprint is secure and 100% guaranteed  
-© 1994 - 2024 4imprint Inc. All rights reserved. [Legal information](https://info.4imprint.com/legal-statement/).  
+© 1994 - 2024 4imprint Inc. All rights reserved. [Legal information](https://www.4imprint.com/info/legalstatement).  
 Glide is protected by U.S. Pat. No. 7,979,318  
 Here's some stuff you don't need to know, but we do!  
-aw0mdwk00044P
+aw0mdwk0004CA
 
 [To Top of page](#)
