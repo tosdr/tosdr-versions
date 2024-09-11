@@ -33,6 +33,7 @@ Sort by RelevanceNewestOldest
         * [Child Migrants & Refugees](https://www.unicefusa.org/what-unicef-does/childrens-protection/child-migrants-refugees)
         * [Child Poverty](https://www.unicefusa.org/what-unicef-does/childrens-protection/child-poverty)
         * [Child Trafficking](https://www.unicefusa.org/what-unicef-does/childrens-protection/child-trafficking)
+        * [Peacebuilding](https://www.unicefusa.org/what-unicef-does/childrens-protection/peacebuilding)
     *  Emergency Response 
         * [Emergency Response](https://www.unicefusa.org/what-unicef-does/emergency-response)
         * [Relief for Every Child](https://www.unicefusa.org/what-unicef-does/emergency-response/relief-every-child)
@@ -498,6 +499,12 @@ Stay informed:
 
  
 
+Lead Gen
+
+Stay informed: 
+
+ 
+
 Main navigation
 ---------------
 
@@ -543,6 +550,10 @@ Footer
 ©2023 U.S. Fund for UNICEF d/b/a UNICEF USA. All Rights Reserved.  
 U.S. Fund for UNICEF d/b/a UNICEF USA is a 501(c)(3) organization.  
 Gifts are deductible to the full extent allowable under IRS regulations.
+
+![Charity Navigator Four-Star Award](/sites/default/files/2024-08/charity-navigator.svg)
+
+![Platinum Transparency 2023 Candid](/sites/default/files/2024-08/platinum-transparency.svg)
 
 Subfoot Menu
 ------------
