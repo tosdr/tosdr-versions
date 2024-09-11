@@ -486,6 +486,7 @@ More legal documents
 
 OTHER
 
+* [Toggl Cookie Declaration](https://toggl.com/legal/cookie-declaration/)
 * [Toggl Careers Privacy Statement](https://toggl.com/legal/candidate-privacy/)
 * [Toggl Affiliate Terms & Conditions](https://toggl.com/legal/affiliate/)
 
@@ -499,13 +500,13 @@ OTHER
 * [About us](https://toggl.com/about/)
 * [Working at Toggl
     
-    2](https://toggl.com/jobs/)
+    3](https://toggl.com/jobs/)
 
 Discover our tools:
 
 [Effortless time tracking](https://toggl.com/)[Beautifully simple team planning](https://toggl.com/plan/)[Easy full-cycle hiring](https://toggl.com/hire/)[Efficient expense management](https://toggl.com/work/)
 
-[](https://www.linkedin.com/company/toggl/)[](https://www.instagram.com/toggltrack)[](https://twitter.com/toggltrack)[](https://www.youtube.com/toggl)[](https://www.facebook.com/Toggl/)[](https://github.com/toggl)
+[](https://www.linkedin.com/company/toggl/)[](https://www.instagram.com/toggltrack)[](https://x.com/toggl)[](https://www.youtube.com/toggl)[](https://www.facebook.com/Toggl/)[](https://github.com/toggl)
 
 [Legal Center](https://toggl.com/legal/)[Status](https://status.toggl.com/)
 
