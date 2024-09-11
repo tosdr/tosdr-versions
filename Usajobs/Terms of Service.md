@@ -52,13 +52,14 @@ USAJOBS is a [Opens in a new windowUnited States Office of Personnel Management]
 
 [(Opens in a new window) OPM on LinkedIn](https://www.linkedin.com/company/usajobs) [(Opens in a new window) OPM YouTube channel](https://www.youtube.com/%40USOPM/featured)
 
-* [Opens in a new windowTerms and conditions](https://help.usajobs.gov/terms-and-conditions)
-* [Opens in a new windowReports and publications](https://www.opm.gov/about-us/reports-publications/)
+* [About USAJOBS](https://help.usajobs.gov/About)
+* [Accessibility](https://help.usajobs.gov/faq/policy/accessibility-policy)
 * [Opens in a new windowFOIA](https://www.opm.gov/information-management/freedom-of-information-act/)
-* [Opens in a new windowInspector General](https://www.opm.gov/our-inspector-general/)
+* [Opens in a new windowInspector general](https://www.opm.gov/our-inspector-general/)
 * [Opens in a new windowNo Fear Act Data](https://www.opm.gov/information-management/no-fear-act/)
 * [Opens in a new windowPrivacy policy](https://help.usajobs.gov/privacy)
+* [Opens in a new windowReports and publications](https://www.opm.gov/about-us/reports-publications/)
+* [Opens in a new windowTerms and conditions](https://help.usajobs.gov/terms-and-conditions)
 * [Opens in a new windowUSA.gov](http://www.usa.gov/)
-* [Opens in a new windowAbout USAJOBS](https://help.usajobs.gov/About)
 
 [Opens in a new windowVote.gov](https://vote.gov/)
