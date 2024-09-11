@@ -24,7 +24,7 @@ Log In
 
 By Type
 
-[Banquet Halls](https://www.wedmegood.com/vendors/all/wedding-venues/all/banquet-hall/)[Lawns / Farmhouses](https://www.wedmegood.com/vendors/all/wedding-venues/all/lawn-farmhouse/)[Wedding Resorts](https://www.wedmegood.com/vendors/all/wedding-venues/all/resort/)[Small Function / Party Halls](https://www.wedmegood.com/vendors/all/wedding-venues/all/small-function-halls/)[Destination Wedding Venues](https://www.wedmegood.com/vendors/all/wedding-venues/all/destination-wedding-venues/)[Kalyana Mandapams](https://www.wedmegood.com/vendors/all/wedding-venues/all/kalyan-mandapam/)[4 Star & Above Wedding Hotels](https://www.wedmegood.com/vendors/all/wedding-venues/all/five-star/)[View all Venues](https://www.wedmegood.com/vendors/all/wedding-venues/)
+[Banquet Halls](https://www.wedmegood.com/vendors/all/wedding-venues/all/banquet-hall/)[Marriage Garden / Lawns](https://www.wedmegood.com/vendors/all/wedding-venues/all/lawn-farmhouse/)[Wedding Resorts](https://www.wedmegood.com/vendors/all/wedding-venues/all/resort/)[Small Function / Party Halls](https://www.wedmegood.com/vendors/all/wedding-venues/all/small-function-halls/)[Destination Wedding Venues](https://www.wedmegood.com/vendors/all/wedding-venues/all/destination-wedding-venues/)[Kalyana Mandapams](https://www.wedmegood.com/vendors/all/wedding-venues/all/kalyan-mandapam/)[4 Star & Above Wedding Hotels](https://www.wedmegood.com/vendors/all/wedding-venues/all/five-star/)[View all Venues](https://www.wedmegood.com/vendors/all/wedding-venues/)
 
 By City
 
@@ -168,17 +168,17 @@ By Theme
 
 Latest Real Weddings
 
-[![Dr Aparna and Dr Rohit ](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
+[![Tithi and Harsh](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
 
-![Dr Aparna and Dr Rohit ](https://image.wedmegood.com/resized/250X/uploads/images/b7ee3b2b045a46369082504859c48613realwedding/Image-322Large.jpeg?crop=166,50,1013,569)
+![Tithi and Harsh](https://image.wedmegood.com/resized/250X/uploads/images/a17b382d6cbb4d388e15702842c0b2a6realwedding/_RHT9840.jpg?crop=190,749,1633,918)
 
-Dr Aparna and Dr Rohit (Mussoorie)](https://www.wedmegood.com/real_wedding/detail/dr-aparna-and-dr-rohit-mussoorie-cross-culture-wedding-4354)
+Tithi and Harsh (Goa)](https://www.wedmegood.com/real_wedding/detail/tithi-and-harsh-goa-wedding-4384)
 
-[![Anuroopa & Vishal](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
+[![Tanvi and Dheeraj](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
 
-![Anuroopa & Vishal](https://image.wedmegood.com/resized/250X/uploads/images/a53c734198844153a239d66de98b1975realwedding/0054DSC05966.jpg?crop=204,1637,1633,918)
+![Tanvi and Dheeraj](https://image.wedmegood.com/resized/250X/uploads/images/34a16778bc8d4215bc8b2dc7b09be0e6realwedding/T&DWEDDINGCANDID-201Large.jpeg?crop=200,62,1013,569)
 
-Anuroopa & Vishal (Jodhpur)](https://www.wedmegood.com/real_wedding/detail/anuroopa-vishal-jodhpur-cross-culture-wedding-4350)
+Tanvi and Dheeraj (Bangalore)](https://www.wedmegood.com/real_wedding/detail/tanvi-and-dheeraj-bangalore-kannada-wedding-4383)
 
 Browse by Category
 
@@ -190,7 +190,7 @@ Popular Sections
 
 Most Searched Blogs
 
-[Wedding Songs](https://www.wedmegood.com/blog/50-of-the-best-bollywood-wedding-songs/)[Best Bridal Entry Songs](https://www.wedmegood.com/blog/the-best-indian-bridal-entry-songs-that-create-an-impact/)[Chandni Chowk Lehengas](https://www.wedmegood.com/blog/where-to-buy-bridal-lehengas-in-chandni-chowk-with-pics/)[Best Groom Entry Songs](https://www.wedmegood.com/blog/30-most-awesome-groom-entry-songs-ever/)[Bridal Mehendi Designs](https://www.wedmegood.com/blog/best-mehndi-designs/)[Wittiest Wedding Hashtags](https://www.wedmegood.com/blog/wittiest-wedding-hashtags-we-have-come-across/)[Best Bridal Hairstyles](https://www.wedmegood.com/blog/best-bridal-hairstyles-indian-weddings/)[Latest Sabyasachi Lehengas](https://www.wedmegood.com/blog/30-sabyasachi-lehengas-we-spotted-on-real-brides/)[Bridal Blouse Designs](https://www.wedmegood.com/blog/latest-bridal-blouse-designs/)[2025 Marriage Dates](https://www.wedmegood.com/blog/best-marriage-dates-in-2025-auspicious-hindu-wedding-dates/)
+[Wedding Songs](https://www.wedmegood.com/blog/50-of-the-best-bollywood-wedding-songs/)[Best Bridal Entry Songs](https://www.wedmegood.com/blog/the-best-indian-bridal-entry-songs-that-create-an-impact/)[Chandni Chowk Lehengas](https://www.wedmegood.com/blog/where-to-buy-bridal-lehengas-in-chandni-chowk-with-pics/)[Bridal Mehendi Designs](https://www.wedmegood.com/blog/best-mehndi-designs/)[Best Groom Entry Songs](https://www.wedmegood.com/blog/30-most-awesome-groom-entry-songs-ever/)[Wittiest Wedding Hashtags](https://www.wedmegood.com/blog/wittiest-wedding-hashtags-we-have-come-across/)[Best Bridal Hairstyles](https://www.wedmegood.com/blog/best-bridal-hairstyles-indian-weddings/)[Latest Sabyasachi Lehengas](https://www.wedmegood.com/blog/30-sabyasachi-lehengas-we-spotted-on-real-brides/)[Bridal Blouse Designs](https://www.wedmegood.com/blog/latest-bridal-blouse-designs/)[2025 Marriage Dates](https://www.wedmegood.com/blog/best-marriage-dates-in-2025-auspicious-hindu-wedding-dates/)
 
 Top Blogs
 
