@@ -183,6 +183,7 @@ Looking For Something?
 _‌‌_
 
 1. [Home](https://www.webwerks.in/)
+2. News
 
 Privacy Policy
 ==============
