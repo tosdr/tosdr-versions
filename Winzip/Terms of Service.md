@@ -28,6 +28,7 @@
     
     * [Learning center](https://www.winzip.com/en/learn/)
     * [Resource center](https://www.winzip.com/en/resources/)
+    * [Videos](https://www.winzip.com/en/learn/getting-started/)
     * [Blog](https://www.winzip.com/blog/enterprise/)
     * [Integrations](https://www.winzip.com/en/integrations/)
     * [Compare](https://www.winzip.com/en/compare/)
