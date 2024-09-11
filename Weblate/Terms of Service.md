@@ -8,7 +8,7 @@ Hide table of contents sidebar
 
 Toggle site navigation sidebar
 
-[Weblate 5.7 documentation](https://docs.weblate.org/en/latest/index.html)
+[Weblate 5.8 documentation](https://docs.weblate.org/en/latest/index.html)
 
 Toggle Light / Dark / Auto color theme
 
@@ -16,7 +16,7 @@ Toggle table of contents sidebar
 
 [![Logo](../_static/logo-128.png)
 
-Weblate 5.7 documentation](https://docs.weblate.org/en/latest/index.html)
+Weblate 5.8 documentation](https://docs.weblate.org/en/latest/index.html)
 
   
 
@@ -98,6 +98,7 @@ Administrator docs
 * [Upgrading Weblate](https://docs.weblate.org/en/latest/admin/upgrade.html)
 * [Backing up and moving Weblate](https://docs.weblate.org/en/latest/admin/backup.html)
 * [Authentication](https://docs.weblate.org/en/latest/admin/auth.html)
+* [Two-factor authentication](https://docs.weblate.org/en/latest/admin/auth.html#two-factor-authentication)
 * [Access control](https://docs.weblate.org/en/latest/admin/access.html)
 * [Translation projects](https://docs.weblate.org/en/latest/admin/projects.html)
 * [Language definitions](https://docs.weblate.org/en/latest/admin/languages.html)
@@ -155,7 +156,10 @@ Contributor docs
 
 Change history
 
-* [Weblate 5.7](https://docs.weblate.org/en/latest/changes.html)
+* [Weblate 5.8](https://docs.weblate.org/en/latest/changes.html)
+* [Weblate 5.7.2](https://docs.weblate.org/en/latest/changes.html#weblate-5-7-2)
+* [Weblate 5.7.1](https://docs.weblate.org/en/latest/changes.html#weblate-5-7-1)
+* [Weblate 5.7](https://docs.weblate.org/en/latest/changes.html#weblate-5-7)
 * [Weblate 5.6.2](https://docs.weblate.org/en/latest/changes.html#weblate-5-6-2)
 * [Weblate 5.6.1](https://docs.weblate.org/en/latest/changes.html#weblate-5-6-1)
 * [Weblate 5.6](https://docs.weblate.org/en/latest/changes.html#weblate-5-6)
@@ -209,7 +213,7 @@ You should have received a copy of the GNU General Public License along with thi
 
 [Next
 
-Weblate 5.7](https://docs.weblate.org/en/latest/changes.html)[Previous
+Weblate 5.8](https://docs.weblate.org/en/latest/changes.html)[Previous
 
 About Weblate](https://docs.weblate.org/en/latest/contributing/about.html)
 
