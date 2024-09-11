@@ -183,7 +183,7 @@ PARTNER WITH VOCOLINC
 * [](https://www.instagram.com/vocolinc.official/)
 * [](https://www.youtube.com/c/VOCOlinc)
 
- Country/region United Kingdom (USD $)
+ Country/region United States (USD $)
 
 Country/region
 
