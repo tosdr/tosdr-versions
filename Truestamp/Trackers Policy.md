@@ -12,36 +12,31 @@ This Application uses Trackers managed directly by the Owner (so-called “first
 The validity and expiration periods of Cookies and other similar Trackers may vary depending on the lifetime set by the Owner or the relevant provider. Some of them expire upon termination of the User’s browsing session.  
 In addition to what’s specified in the descriptions within each of the categories below, Users may find more precise and updated information regarding lifetime specification as well as any other relevant information — such as the presence of other Trackers — in the linked privacy policies of the respective third-party providers or by contacting the Owner.
 
-### Activities strictly necessary for the operation of this Application and delivery of the Service
+How this Application uses Trackers
+----------------------------------
+
+### Necessary
 
 This Application uses so-called “technical” Cookies and other similar Trackers to carry out activities that are strictly necessary for the operation or delivery of the Service.
 
-#### First-party Trackers
+#### Trackers managed directly by the Owner
 
-* ### Further information about Personal Data
-    
-    #### Preference Cookies (this Application)
+* ### Preference Cookies (this Application)
     
     Preference Cookies store the User preferences detected on this Application in the local domain such as, for example, their timezone and region.
     
     Personal Data processed: Tracker.
     
-    #### sessionStorage (this Application)
+* ### sessionStorage (this Application)
     
     sessionStorage allows this Application to store and access data right in the User's browser. Data in sessionStorage is deleted automatically when the session ends (in other words, when the browser tab is closed).
     
     Personal Data processed: Tracker.
     
 
-#### Third-party Trackers
+#### Trackers managed by third parties
 
-* ### Traffic optimization and distribution
-    
-    This type of service allows this Application to distribute their content using servers located across different countries and to optimize their performance.  
-    Which Personal Data are processed depends on the characteristics and the way these services are implemented. Their function is to filter communications between this Application and the User's browser.  
-    Considering the widespread distribution of this system, it is difficult to determine the locations to which the contents that may contain Personal Information of the User are transferred.
-    
-    #### Cloudflare (Cloudflare Inc.)
+* ### Cloudflare (Cloudflare Inc.)
     
     Cloudflare is a traffic optimization and distribution service provided by Cloudflare Inc.  
     The way Cloudflare is integrated means that it filters all the traffic through this Application, i.e., communication between this Application and the User's browser, while also allowing analytical data from this Application to be collected.
@@ -51,19 +46,13 @@ This Application uses so-called “technical” Cookies and other similar Tracke
     Place of processing: United States – [Privacy Policy](https://www.cloudflare.com/privacypolicy/).
     
 
-### Other activities involving the use of Trackers
-
-#### Functionality
+### Functionality
 
 This Application uses Trackers to enable basic interactions and functionalities, allowing Users to access selected features of the Service and facilitating the User's communication with the Owner.
 
-* ### Registration and authentication
-    
-    By registering or authenticating, Users allow this Application to identify them and give them access to dedicated services.  
-    Depending on what is described below, third parties may provide registration and authentication services. In this case, this Application will be able to access some Data, stored by these third-party services, for registration or identification purposes.  
-    Some of the services listed below may also collect Personal Data for targeting and profiling purposes; to find out more, please refer to the description of each service.
-    
-    #### Auth0 (Auth0, Inc)
+#### Trackers managed by third parties
+
+* ### Auth0 (Auth0, Inc)
     
     Auth0 is a registration and authentication service provided by Auth0, Inc. To simplify the registration and authentication process, Auth0 can make use of third-party identity providers and save the information on its platform.
     
@@ -72,16 +61,13 @@ This Application uses Trackers to enable basic interactions and functionalities,
     Place of processing: United States – [Privacy Policy](https://auth0.com/privacy).
     
 
-#### Experience
+### Experience
 
 This Application uses Trackers to improve the quality of the user experience and enable interactions with external content, networks and platforms.
 
-* ### Access to third-party accounts
-    
-    This type of service allows this Application to access Data from your account on a third-party service and perform actions with it.  
-    These services are not activated automatically, but require explicit authorization by the User.
-    
-    #### GitHub account access (GitHub Inc.)
+#### Trackers managed by third parties
+
+* ### GitHub account access (GitHub Inc.)
     
     This service allows this Application to connect with the User's account on GitHub, provided by GitHub Inc.
     
@@ -89,12 +75,7 @@ This Application uses Trackers to improve the quality of the user experience and
     
     Place of processing: United States – [Privacy Policy](https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement).
     
-* ### Displaying content from external platforms
-    
-    This type of service allows you to view content hosted on external platforms directly from the pages of this Application and interact with them.  
-    This type of service might still collect web traffic data for the pages where the service is installed, even when Users do not use it.
-    
-    #### Video Vimeo (Vimeo, LLC)
+* ### Video Vimeo (Vimeo, LLC)
     
     Vimeo is a video content visualization service provided by Vimeo, LLC that allows this Application to incorporate content of this kind on its pages.
     
@@ -108,16 +89,13 @@ This Application uses Trackers to improve the quality of the user experience and
     * vuid: 2 years
     
 
-#### Marketing
+### Marketing
 
-This Application uses Trackers to deliver personalised marketing content based on User behaviour and to operate, serve and track ads.
+This Application uses Trackers to deliver personalized ads or marketing content, and to measure their performance.
 
-* ### User database management
-    
-    This type of service allows the Owner to build user profiles by starting from an email address, a personal name, or other information that the User provides to this Application, as well as to track User activities through analytics features. This Personal Data may also be matched with publicly available information about the User (such as social networks' profiles) and used to build private profiles that the Owner can display and use for improving this Application.  
-    Some of these services may also enable the sending of timed messages to the User, such as emails based on specific actions performed on this Application.
-    
-    #### Intercom (Intercom Inc.)
+#### Trackers managed by third parties
+
+* ### Intercom (Intercom Inc.)
     
     Intercom is a User database management service provided by Intercom Inc. Intercom can also be used as a medium for communications, either through email, or through messages within this Application.
     
