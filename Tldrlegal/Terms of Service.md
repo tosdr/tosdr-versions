@@ -1,6 +1,6 @@
 [tl;drLegal is brought to you by FOSSA, the most complete open source management platform](https://fossa.com/product/open-source-license-compliance)
 
-[![](https://assets-global.website-files.com/637646179753ecaf3915736d/63b471c2d10660a01d7b8158_logo-dark.svg)](https://www.tldrlegal.com/)
+[![](https://cdn.prod.website-files.com/637646179753ecaf3915736d/63b471c2d10660a01d7b8158_logo-dark.svg)](https://www.tldrlegal.com/)
 
 [Browse](https://www.tldrlegal.com/browse)[Verified Content](https://www.tldrlegal.com/verified)[Contact Us](https://www.tldrlegal.com/contact-us)
 
