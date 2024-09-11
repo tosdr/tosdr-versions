@@ -74,32 +74,21 @@ No thanks, I want to stay on Vodafone.com
     * [What we do](https://www.vodafone.com/about-vodafone/what-we-do)
         
         * [Go to **What we do**](https://www.vodafone.com/about-vodafone/what-we-do)
-        * [Innovation](https://www.vodafone.com/about-vodafone/what-we-do/innovation)
+        * [Mobile & fixed networks](https://www.vodafone.com/about-vodafone/what-we-do/mobile-and-fixed-networks)
             
-            * [Go to **Innovation**](https://www.vodafone.com/about-vodafone/what-we-do/innovation)
-            * [Digital Transformation](https://www.vodafone.com/about-vodafone/what-we-do/innovation/digital-transformation)
-            * [Artificial Intelligence](https://www.vodafone.com/about-vodafone/what-we-do/innovation/artificial-intelligence)
-            * [Augmented Virtual Reality](https://www.vodafone.com/about-vodafone/what-we-do/innovation/augmented-virtual-reality)
+            * [Go to **Mobile & fixed networks**](https://www.vodafone.com/about-vodafone/what-we-do/mobile-and-fixed-networks)
+            * [5G](https://www.vodafone.com/about-vodafone/what-we-do/mobile-and-fixed-networks/5g)
+            * [Open RAN](https://www.vodafone.com/about-vodafone/what-we-do/mobile-and-fixed-networks/open-ran)
+            * [Broadband & WiFi](https://www.vodafone.com/about-vodafone/what-we-do/mobile-and-fixed-networks/broadband-and-wifi)
+            * [Network as a Platform (NaaP)](https://www.vodafone.com/about-vodafone/what-we-do/mobile-and-fixed-networks/network-as-platform-naap)
+            * [Subsea](https://www.vodafone.com/about-vodafone/what-we-do/mobile-and-fixed-networks/subsea)
             
-        * [Technology](https://www.vodafone.com/about-vodafone/what-we-do/technology)
-            
-            * [Go to **Technology**](https://www.vodafone.com/about-vodafone/what-we-do/technology)
-            * [Open RAN – all you need to know](https://www.vodafone.com/about-vodafone/what-we-do/technology/open-ran)
-            * [Network as a Platform (NaaP)](https://www.vodafone.com/what-we-do/technology/network-as-platform-naap)
-            * [5G – all you need to know](https://www.vodafone.com/about-vodafone/what-we-do/technology/5g)
-            * [Internet of things (IoT)](https://www.vodafone.com/about-vodafone/what-we-do/technology/internet-of-things)
-            * [Next Generation Network (NGN)](https://www.vodafone.com/about-vodafone/what-we-do/technology/next-generation-network)
-            * [Connected drones](https://www.vodafone.com/about-vodafone/what-we-do/technology/connected-drones)
-            
-        * [Consumer products and services](https://www.vodafone.com/about-vodafone/what-we-do/consumer-products-and-services)
-            
-            * [Go to **Consumer products and services**](https://www.vodafone.com/about-vodafone/what-we-do/consumer-products-and-services)
-            * [Broadband and Super WiFi](https://www.vodafone.com/about-vodafone/what-we-do/consumer-products-and-services/broadband-and-super-wifi)
-            * [V by Vodafone](https://eshop.v.vodafone.com/uk)
-            * [M-PESA](https://www.vodafone.com/about-vodafone/what-we-do/consumer-products-and-services/m-pesa)
-            * [Television](https://www.vodafone.com/about-vodafone/what-we-do/consumer-products-and-services/television)
-            * [Devices – technical documentation](https://www.vodafone.com/about-vodafone/what-we-do/consumer-products-and-services/devices-technical-documentation)
-            
+        * [Artificial Intelligence](https://www.vodafone.com/about-vodafone/what-we-do/artificial-intelligence)
+        * [Internet of Things (IoT)](https://www.vodafone.com/about-vodafone/what-we-do/internet-of-things)
+        * [Quantum computing](https://www.vodafone.com/about-vodafone/what-we-do/quantum-computing)
+        * [Satellite](https://www.vodafone.com/about-vodafone/what-we-do/satellite)
+        * [M-PESA](https://www.vodafone.com/about-vodafone/what-we-do/m-pesa)
+        * [Vodafone TV](https://www.vodafone.com/about-vodafone/what-we-do/vodafone-tv)
         * [Business products and services](https://www.vodafone.com/business/products-and-solutions?utm_medium=website%3Futm_source%3Ddotcom%3Futm_content%3Dnav)
         
     * [Where we operate](https://www.vodafone.com/about-vodafone/where-we-operate)
@@ -668,6 +657,7 @@ No results found
 * [Privacy and cookies](https://www.vodafone.com/cookie-policies)
 * [Accessibility](https://www.vodafone.com/accessibility)
 * [Report a vulnerability](https://www.vodafone.com/about-vodafone/how-we-operate/consumer-privacy-and-cyber-security/cyber-security/report-a-vulnerability)
+* [Devices](https://www.vodafone.com/about-vodafone/what-we-do/consumer-products-and-services/devices-technical-documentation)
 * [Contact us](https://www.vodafone.com/news/contact-us)
 
 ©2024 Vodafone Group
