@@ -65,7 +65,7 @@ The following information will not be publicly displayed:
 
 * your first and last name, phone number and email.
 
-If you register to be a user of Essential/Plus/Premium/Expert/Elite/Ultimate Accounts (a **"Paid User"**), our third party payment processor will also process information about your payment card and bank account information or payment account information that we require for the purpose of recording and processing your account registration. For further details, please refer to the point below titled "[Payment information](#payment-information)", under the section headed, "When we share your personal information."
+If you register to be a user of Essential/Plus/Premium/Expert/Ultimate Accounts (a **"Paid User"**), our third party payment processor will also process information about your payment card and bank account information or payment account information that we require for the purpose of recording and processing your account registration. For further details, please refer to the point below titled "[Payment information](#payment-information)", under the section headed, "When we share your personal information."
 
 ### Contact data
 
@@ -179,6 +179,8 @@ We share your personal data with third parties in the following situations:
     * [Razorpay Privacy Policy](https://razorpay.com/privacy/)
     * [Apple Privacy Policy](https://www.apple.com/legal/privacy/)
     * [Google Privacy Policy](https://policies.google.com/privacy)
+    * [Triple-A Terms and Conditions](https://www.triple-a.io/privacy-and-terms-policy)
+    * [dLocal Privacy Policy](https://www.dlocal.com/legal/privacy-notice/)
 * **Third Party Content Providers:** When you buy market data from ICE or other stock exchanges, we give them your contact details (name, phone number, address and email) and you sign the agreement. This data is also processed by ICE or other stock exchanges in order to provide you with access to the exchanges.
 * **TradingView affiliated businesses:** In order to provide the services you request from us, our affiliated businesses may access and process the information which we collect from you for the purposes described above, including offering products and services to you. Our affiliated businesses will only use your data for the purposes for which we originally collected said data.
 * **Analytics providers:** We may use third-party service providers to monitor and analyze the use of our services and mobile/desktop applications. We use this information to analyze and improve the work of our services and mobile applications.
@@ -209,7 +211,7 @@ We share your personal data with third parties in the following situations:
     Note that we do not share any personal information with our advertisers. They can only access general statistics that include the amount of impressions their ads have generated as well as clicks.
     
 * **Google reCAPTCHA:** We use reCAPTCHA to check whether data has been entered by a person or by an automated program. We use this service to protect our services from spam, fraud and abuse. reCAPTCHA analyses the behavior of the visitor using various characteristics and evaluates various information for analysis purposes (e.g. IP address, visit duration, or the user’s mouse clicks). This analysis begins automatically, as soon as the website visitor accesses the website, and runs in the background. Visitors are not informed that an analysis is being performed. The data recorded during analysis is forwarded to Google. More information on Google reCAPTCHA and the [Google Privacy Policy](https://policies.google.com/privacy) can be found under the following links: Google’s Privacy Policy and [What is reCAPTCHA?](https://www.google.com/recaptcha/about/).
-* **YouTube API Services:** We use YouTube API to share your chosen video ideas and video streams to your YouTube account. When you use this service, you will need to sign in with your Google account and grant us permission to access your YouTube account. We will only use this access to upload videos that you choose to share with us. We will not store, modify, delete, or view any other data from your YouTube account. We will also not share your Google account information with any third parties. You can revoke our access to your YouTube account at any time by visiting [Google security settings page](https://myaccount.google.com/permissions). By using this service you are agreeing to be bound by the [YouTube Terms of Service](https://www.youtube.com/t/terms).
+* **YouTube API Services:** We use the YouTube API to share your chosen video ideas to your YouTube account. When you use this service, you will need to sign in with your Google account and grant us permission to access your YouTube account. We will only use this access to upload videos that you choose to share with us. We will not store, modify, delete, or view any other data from your YouTube account. We will also not share your Google account information with any third parties. You can revoke our access to your YouTube account at any time by visiting [Google security settings page](https://myaccount.google.com/permissions). By using this service you are agreeing to be bound by the [YouTube Terms of Service](https://www.youtube.com/t/terms).
 
 Public information on our site
 ------------------------------
@@ -220,11 +222,11 @@ When you create your profile on our Service, other users or visitors may access 
 
 ### Public content
 
-Our Service allows those with a registered user account to share their charts with indicators and comments that can be added, their ideas, scripts, streams and other content, with the rest of the internet via our publish features.
+Our Service allows those with a registered user account to share their charts with indicators and comments, their ideas, scripts, and other content with the rest of the internet via our publish features.
 
 By using a publish features, you grant us an irrevocable, perpetual, and royalty-free license to publish and disclose the content, as well as the username of the author, which makes you identifiable.
 
-You can also publish your content as "private". This means that the content will not be displayed in your profile or your lists of ideas, scripts, streams, etc., nor will it be indexed by search engines. However, users who have a direct link to your content will be able to view it. Note that you will control over who/which users have access to a link.
+You can also publish your content as "private". This means that it will not be displayed in your profile or your lists of ideas, scripts, etc., nor will it be indexed by search engines. However, users who have a direct link to your content will be able to view it. Note that you will control over who/which users have access to a link.
 
 When you comment on any content, we also publish certain information about your comment: including date, time and application (such as "TradingView for iOS" if you commented on it from one of our applications).
 
@@ -440,4 +442,4 @@ For business
 
   [![Download Desktop app](https://static.tradingview.com/static/images/svg/app-desktop-badge/light-theme/app-desktop-badge-en.svg) ![Download Desktop app](https://static.tradingview.com/static/images/svg/app-desktop-badge/dark-theme/app-desktop-badge-en.svg)](https://www.tradingview.com/desktop/)[![Trade on TradingView](https://static.tradingview.com/static/images/svg/trade-on-tradingview-badges/light-theme/trade-on-tradingview-badges-en.svg) ![Trade on TradingView](https://static.tradingview.com/static/images/svg/trade-on-tradingview-badges/dark-theme/trade-on-tradingview-badges-en.svg)](https://www.tradingview.com/brokers/)
 
-Select market data provided by [ICE Data Services](https://www.theice.com/market-data) © 2024 TradingView, Inc. UK phone number [0800 048 8025](tel:08000488025)
+Select market data provided by [ICE Data Services](https://www.theice.com/market-data) Select reference data provided by FactSet. Copyright © 2024 FactSet Research Systems Inc. © 2024 TradingView, Inc. US phone number [833 247 1523](tel:8332471523)
