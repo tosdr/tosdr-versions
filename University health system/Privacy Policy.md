@@ -1,3 +1,9 @@
+![Alert Icon](/-/media/Images/Modules/Alert-Banners/Group-676.ashx?h=56&w=56&la=en&hash=226B564086A8DD27058A5AB8F28B9352)
+
+**School Physicals & Immunizations:** Our dedicated team of health care professionals is here to provide comprehensive school physicals and immunizations, tailored to meet all school requirements and keep your child safe and healthy. **[Schedule an appointment](https://mychart.universityhealthsystem.com/MyChart/openscheduling/standalone?dept=10544001,10545001,10531001,10561001,10530001&vt=1003&view=group&public=1&highContrast=1).**
+
+Close Alert Banner
+
 * [About Us](https://www.universityhealth.com/about-us)
 * [Careers](https://www.universityhealth.com/careers)
 * [Refer a Patient](https://www.universityhealth.com/healthcare-professionals/refer-a-patient)
@@ -273,6 +279,7 @@ San Antonio, Texas 78229
 
 [For Healthcare Professionals](https://www.universityhealth.com/healthcare-professionals)
 
+* [Transfer a Patient](https://www.universityhealth.com/healthcare-professionals/transfer-a-patient)
 * [Fellowship Programs](https://www.universityhealth.com/healthcare-professionals/fellowship-programs)
 * [Residency Programs](https://www.universityhealth.com/healthcare-professionals/residency-programs)
 * [Clinical Rotations](https://www.universityhealth.com/healthcare-professionals/clinicals-and-internships)
