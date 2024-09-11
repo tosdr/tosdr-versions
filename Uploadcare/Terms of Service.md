@@ -268,7 +268,7 @@ Resources[Case studies](https://uploadcare.com/customers/)[Community](https://co
 
 About[Company](https://uploadcare.com/company/)[Awards](https://uploadcare.com/company/awards/)[Careers](https://community.uploadcare.com/c/jobs/l/latest)[Partnership](https://uploadcare.com/partners/)[Contact sales](https://uploadcare.com/schedule-demo/)[Bug bounty](https://uploadcare.com/about/bug-bounty/)
 
-Developers[Quick start](https://uploadcare.com/docs/start/quickstart/)[API references](https://uploadcare.com/docs/start/api/)[Documentation](https://uploadcare.com/docs/)[Integrations](https://uploadcare.com/docs/integrations/)[Migration guide](https://uploadcare.com/docs/guides/migro/)[Help center](https://help.uploadcare.com/)[Changelog](https://uploadcare.com/docs/changelog/)[Status page](https://status.uploadcare.com/)
+Developers[Quick start](https://uploadcare.com/docs/start/quickstart/)[API references](https://uploadcare.com/docs/start/api/)[Documentation](https://uploadcare.com/docs/)[Integrations](https://uploadcare.com/docs/integrations/)[Migration guide](https://uploadcare.com/docs/guides/migro/)[Changelog](https://uploadcare.com/docs/changelog/)[Status page](https://status.uploadcare.com/)
 
 Legal[Terms of Service](https://uploadcare.com/about/terms/)[Privacy Policy](https://uploadcare.com/about/privacy-policy/)[Trust Center](https://uploadcare.com/about/trust/)[SLA](https://uploadcare.com/about/sla/)[DMCA](https://uploadcare.com/about/terms/#10-copyright-infringement-and-dmca-policy)
 
