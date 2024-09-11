@@ -1,55 +1,53 @@
 [Jump to content](#main-content)
 
-#### UK EditionChange
+#### US EditionChange
 
-[US Edition](https://www.independent.co.uk/us)[Asia Edition](https://www.independent.co.uk/asia)[Edición en Español](https://www.independentespanol.com/)
+[UK Edition](https://www.independent.co.uk/)[Asia Edition](https://www.independent.co.uk/asia)[Edición en Español](https://www.independentespanol.com/)
 
-[Sign up to our newsletters](https://www.independent.co.uk/newsletters)[Subscribe now](https://www.independent.co.uk/subscribe?itm_channel=native&itm_campaign=top_right_subscribe)
+[Sign up to our newsletters](https://www.independent.co.uk/newsletters)Support Now
 
 [](https://www.independent.co.uk/profile)[Log in / Register](https://www.independent.co.uk/login?regSourceMethod=login%20overlay)
 
 [Independent](https://www.independent.co.uk/)
 
-[US Politics](https://www.independent.co.uk/news/world/americas/us-politics)
+[US election](https://www.independent.co.uk/topic/us-election-2024)
 
-[Subscribe](https://www.independent.co.uk/subscribe?itm_channel=native&itm_campaign=top_right_subscribe)Menu
+Support NowMenu
 
-* [News](https://www.independent.co.uk/)
-    * [News](https://www.independent.co.uk/)
+* [News](https://www.independent.co.uk/us)
+    * [News](https://www.independent.co.uk/us)
+    * [US](https://www.independent.co.uk/news/world/americas)
+    * [US election 2024](https://www.independent.co.uk/topic/us-election-2024)
     * [UK](https://www.independent.co.uk/news/uk)
-    * [US](https://www.independent.co.uk/us)
+    * [Europe](https://www.independent.co.uk/news/world/europe)
     * [World](https://www.independent.co.uk/news/world)
+    * [US Politics](https://www.the-independent.com/news/world/americas/us-politics)
     * [UK Politics](https://www.independent.co.uk/news/uk/politics)
-    * [Brexit](https://www.independent.co.uk/topic/brexit)
     * [Health](https://www.independent.co.uk/news/health)
     * [Business](https://www.independent.co.uk/news/business)
     * [Science](https://www.independent.co.uk/news/science)
     * [Space](https://www.independent.co.uk/space)
-    * [News Videos](https://www.independent.co.uk/tv/news)
-* [Sport](https://www.independent.co.uk/sport)
-    * [Sport](https://www.independent.co.uk/sport)
-    * [Football](https://www.independent.co.uk/sport/football)
-    * [Paris 2024 Olympics](https://www.independent.co.uk/sport/olympics)
+    * [News Videos](https://www.independent.co.uk/tv/us-news)
+* [Sports](https://www.independent.co.uk/sport)
+    * [Sports](https://www.independent.co.uk/sport)
+    * [US Sports](https://www.independent.co.uk/sport/us-sport)
+    * [Soccer](https://www.independent.co.uk/sport/football)
     * [Formula 1](https://www.independent.co.uk/f1)
+    * [UFC](https://www.independent.co.uk/sport/ufc)
     * [Rugby Union](https://www.independent.co.uk/sport/rugby/rugby-union)
     * [Cricket](https://www.independent.co.uk/sport/cricket)
     * [Tennis](https://www.independent.co.uk/sport/tennis)
     * [Boxing](https://www.independent.co.uk/sport/boxing)
-    * [UFC](https://www.independent.co.uk/sport/ufc)
     * [Cycling](https://www.independent.co.uk/sport/cycling)
     * [Golf](https://www.independent.co.uk/sport/golf)
-    * [Sport Videos](https://www.independent.co.uk/tv/sport)
-* [Voices](https://www.independent.co.uk/voices)
-    * [Voices](https://www.independent.co.uk/voices)
+    * [Sports Videos](https://www.independent.co.uk/tv/sport)
+* [Voices](https://www.independent.co.uk/us/voices)
+    * [Voices](https://www.independent.co.uk/us/voices)
     * [Editorials](https://www.independent.co.uk/voices/editorials)
     * [Letters](https://www.independent.co.uk/voices/letters)
-    * [John Rentoul](https://www.independent.co.uk/author/john-rentoul)
-    * [Mary Dejevsky](https://www.independent.co.uk/author/mary-dejevsky)
-    * [Andrew Grice](https://www.independent.co.uk/author/andrew-grice)
-    * [Sean O’Grady](https://www.independent.co.uk/author/sean-ogrady)
 * [Culture](https://www.independent.co.uk/arts-entertainment)
     * [Culture](https://www.independent.co.uk/arts-entertainment)
-    * [Film](https://www.independent.co.uk/arts-entertainment/films)
+    * [Movies](https://www.independent.co.uk/arts-entertainment/films)
     * [TV & Radio](https://www.independent.co.uk/arts-entertainment/tv)
     * [Music](https://www.independent.co.uk/arts-entertainment/music)
     * [Games](https://www.independent.co.uk/games)
@@ -60,9 +58,6 @@
     * [Culture Videos](https://www.independent.co.uk/tv/culture)
 * [Lifestyle](https://www.independent.co.uk/life-style)
     * [Lifestyle](https://www.independent.co.uk/life-style)
-    * [Shopping](https://www.independent.co.uk/extras/indybest)
-    * [Beauty](https://www.independent.co.uk/beauty)
-    * [Fitness & Wellbeing](https://www.independent.co.uk/health-and-fitness)
     * [Tech](https://www.independent.co.uk/tech)
     * [Money](https://www.independent.co.uk/money)
     * [Food & Drink](https://www.independent.co.uk/life-style/food-and-drink)
@@ -73,57 +68,49 @@
     * [Royal Family](https://www.independent.co.uk/life-style/royal-family)
     * [Motoring](https://www.independent.co.uk/life-style/motoring)
     * [Electric Vehicles](https://www.independent.co.uk/life-style/motoring/electric-vehicles)
-    * [Car Insurance Deals](https://www.independent.co.uk/advisor/car-insurance)
     * [Lifestyle Videos](https://www.independent.co.uk/tv/lifestyle)
-* [Travel](https://www.independent.co.uk/travel)
-    * [Travel](https://www.independent.co.uk/travel)
-    * [UK Hotel Reviews](https://www.independent.co.uk/travel/independent-traveller/collection/hotel-only)
+* [Travel](https://www.independent.co.uk/us/travel)
+    * [Travel](https://www.independent.co.uk/us/travel)
     * [News & Advice](https://www.independent.co.uk/travel/news-and-advice)
     * [Simon Calder](https://www.independent.co.uk/author/simon-calder)
-    * [Cruises](https://www.independent.co.uk/travel/cruise)
+    * [USA](https://www.independent.co.uk/travel/north-america/usa)
     * [UK](https://www.independent.co.uk/travel/uk)
     * [Europe](https://www.independent.co.uk/travel/europe)
-    * [USA](https://www.independent.co.uk/travel/north-america/usa)
     * [Asia](https://www.independent.co.uk/travel/asia)
-    * [Australia & New Zealand](https://www.independent.co.uk/travel/australasia)
-    * [South America](https://www.independent.co.uk/travel/south-america)
-    * [C. America & Caribbean](https://www.independent.co.uk/travel/central-america-caribbean)
-    * [Middle East](https://www.independent.co.uk/travel/middle-east)
+    * [Inspiration](https://www.independent.co.uk/travel/inspiration)
+    * [City Guides](https://www.independent.co.uk/travel/48-hours-in)
+    * [Sustainable Travel](https://www.independent.co.uk/travel/sustainable-travel)
 * [Premium](https://www.independent.co.uk/independentpremium)
     * [Premium](https://www.independent.co.uk/independentpremium)
-    * [Politics Explained](https://www.independent.co.uk/independentpremium/politics-explained)
     * [Editorials](https://www.independent.co.uk/voices/editorials)
     * [Voices](https://www.independent.co.uk/independentpremium/voices)
     * [Long Reads](https://www.independent.co.uk/independentpremium/long-reads)
+    * [Politics Explained](https://www.independent.co.uk/independentpremium/politics-explained)
     * [News Analysis](https://www.independent.co.uk/independentpremium/news-analysis)
-    * [Today’s Edition](https://edition.independent.co.uk/)
 
 More
 
 [Best](https://www.independent.co.uk/extras/indybest)
 
-* [Advisor](https://www.independent.co.uk/advisor)
 * [Home & Garden](https://www.independent.co.uk/extras/indybest/house-garden)
 * [Tech](https://www.independent.co.uk/extras/indybest/gadgets-tech)
-* [Broadband deals](https://www.independent.co.uk/advisor/broadband)
 * [Fashion & Beauty](https://www.independent.co.uk/extras/indybest/fashion-beauty)
-* [Deals](https://www.independent.co.uk/extras/indybest/deals)
 * [Food & Drink](https://www.independent.co.uk/extras/indybest/food-drink)
 * [Kids](https://www.independent.co.uk/extras/indybest/kids)
 * [Books](https://www.independent.co.uk/extras/indybest/books)
 * [Travel & Outdoors](https://www.independent.co.uk/extras/indybest/travel-outdoors)
 * [Sports & Fitness](https://www.independent.co.uk/extras/indybest/outdoor-activity)
+* [Deals](https://www.independent.co.uk/extras/indybest/deals)
 
 [Climate](https://www.independent.co.uk/climate-change)
 
 * [News](https://www.independent.co.uk/climate-change/news)
 * [Climate 100](https://www.independent.co.uk/climate-change/climate-100)
-* [Electric Vehicles](https://www.independent.co.uk/life-style/motoring/electric-vehicles)
 * [Voices](https://www.independent.co.uk/climate-change/opinion)
 * [Sustainable Living](https://www.independent.co.uk/climate-change/sustainable-living)
 * [Explained](https://www.independent.co.uk/climate-change/infact)
 * [Climate Videos](https://www.independent.co.uk/tv/climate)
-* [Solar Panels](https://www.independent.co.uk/advisor/solar-panels/best-solar-panels)
+* [Electric vehicles](https://www.independent.co.uk/life-style/motoring/electric-vehicles)
 * [SGI](https://www.independent.co.uk/climate-change/sgi)
 
 [TV](https://www.independent.co.uk/tv/editors-picks)
@@ -138,15 +125,13 @@ More
 * [Travel Smart](https://www.independent.co.uk/tv/travel-smart)
 * [Watch on your TV](https://www.independent.co.uk/tech/independent-tv-download-smart-tv-how-b2287476.html)
 
-* [Today’s Edition](https://edition.independent.co.uk/)
+* [Indy100](https://www.indy100.com/)
 * [Crosswords & Puzzles](https://puzzles.independent.co.uk/?utm_campaign=navbar&utm_medium=nav&utm_source=navpuzzles)
 * [Most Commented](https://www.independent.co.uk/comments)
 * [Newsletters](https://www.independent.co.uk/newsletters?itm_channel=native&itm_campaign=burger_nav&itm_audience=prospecting&itm_content=newsletters)
 * [Ask Me Anything](https://www.independent.co.uk/ask-me-anything)
 * [Virtual Events](https://www.independent.co.uk/virtual-events)
-* [Wine Offers](https://www.independent.co.uk/topic/perfect-cellar)
 * [Vouchers](https://www.independent.co.uk/vouchercodes)
-* [Indy100](https://www.indy100.com/)
 
 [](https://www.independent.co.uk/tv/editors-picks)
 
@@ -458,7 +443,6 @@ Already subscribed? Log in
     
     * [](https://www.facebook.com/TheIndependentOnline)[](https://twitter.com/Independent)
 * [Our Products](https://www.independent.co.uk/)
-    * [Subscribe](https://www.independent.co.uk/subscribe?itm_channel=native&itm_campaign=footer&itm_audience=prospecting&itm_content=subscribe)
     * [Register](https://www.independent.co.uk/register?itm_channel=native&itm_campaign=footer&itm_content=register)
     * [Newsletters](https://www.independent.co.uk/newsletters?itm_channel=native&itm_campaign=footer&itm_audience=prospecting&itm_content=newsletters)
     * [Donate](https://www.independent.co.uk/donations?itm_channel=native&itm_campaign=footer&itm_audience=prospecting&itm_content=donate)
@@ -477,7 +461,7 @@ Already subscribed? Log in
     * [Advisor](https://www.independent.co.uk/advisor)
     * [Puzzles](https://puzzles.independent.co.uk/)
     * [All topics](https://www.independent.co.uk/topics-list)
-    * [Betting Offers](https://www.independent.co.uk/betting/free-bets)
+    * [Betting Offers](https://www.independent.co.uk/sport/free-bets-b2581138.html)
     * [Voucher codes](https://www.independent.co.uk/vouchercodes)
     * [Competitions and offers](https://www.independent.co.uk/competitions)
     * [Independent Advertising](https://www.independentadvertising.com/)
@@ -500,25 +484,23 @@ Please refresh the page or navigate to another page on the site to be automatica
 
 Close
 
-#### UK EditionChange
+#### US EditionChange
 
-[US Edition](https://www.independent.co.uk/us)[Asia Edition](https://www.independent.co.uk/asia)[Edición en Español](https://www.independentespanol.com/)
+[UK Edition](https://www.independent.co.uk/)[Asia Edition](https://www.independent.co.uk/asia)[Edición en Español](https://www.independentespanol.com/)
 
-[Subscribe](https://www.independent.co.uk/subscribe?itm_channel=native&itm_campaign=burger_subscribe)
+[Support Now](https://www.independent.co.uk/donate)
 
 [](https://www.independent.co.uk/profile)[Log in / Register](https://www.independent.co.uk/login?regSourceMethod=login%20overlay)
 
-[US Politics](https://www.independent.co.uk/news/world/americas/us-politics)
+[US election](https://www.independent.co.uk/topic/us-election-2024)
 
-* [Today’s Edition](https://edition.independent.co.uk/)
+* [Indy100](https://www.indy100.com/)
 * [Crosswords & Puzzles](https://puzzles.independent.co.uk/?utm_campaign=navbar&utm_medium=nav&utm_source=navpuzzles)
 * [Most Commented](https://www.independent.co.uk/comments)
 * [Newsletters](https://www.independent.co.uk/newsletters?itm_channel=native&itm_campaign=burger_nav&itm_audience=prospecting&itm_content=newsletters)
 * [Ask Me Anything](https://www.independent.co.uk/ask-me-anything)
 * [Virtual Events](https://www.independent.co.uk/virtual-events)
-* [Wine Offers](https://www.independent.co.uk/topic/perfect-cellar)
 * [Vouchers](https://www.independent.co.uk/vouchercodes)
-* [Indy100](https://www.indy100.com/)
 
 [](https://www.indy100.com/)
 
@@ -543,10 +525,6 @@ New to The Independent?
 Or if you would prefer:
 
 ![](/img/icons/google.svg)SIGN IN WITH GOOGLE
-
-Want an ad-free experience?
-
-[View offers](https://www.independent.co.uk/subscribe?itm_channel=native&itm_campaign=login_overlay&itm_audience=prospecting)
 
 This site is protected by reCAPTCHA and the Google [Privacy notice](https://policies.google.com/privacy?hl=en) and [Terms of service](https://policies.google.com/terms?hl=en) apply.
 
