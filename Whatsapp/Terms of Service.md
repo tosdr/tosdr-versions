@@ -258,9 +258,9 @@ Please review the following documents, which provide additional information abou
 
 [](https://twitter.com/whatsapp)[](https://www.youtube.com/channel/UCAuerig2N-RZWJT8x75V9yw)[](https://www.instagram.com/whatsapp/?hl=en)[](https://www.facebook.com/profile.php?id=100064758844406)
 
-[![WhatsApp Main Logo](https://static.whatsapp.net/rsrc.php/v3/yJ/r/Qhrnh5evyPV.png)](https://www.whatsapp.com/)
+[![WhatsApp Main Logo](https://static.whatsapp.net/rsrc.php/ya/r/GjxmhIpug9B.svg)](https://www.whatsapp.com/)
 
-[![WhatsApp Main Logo](https://static.whatsapp.net/rsrc.php/v3/yJ/r/Qhrnh5evyPV.png)](https://www.whatsapp.com/)
+[![WhatsApp Main Logo](https://static.whatsapp.net/rsrc.php/yA/r/hbGnlm1gXME.svg)](https://www.whatsapp.com/)
 
 [Download](https://www.whatsapp.com/download)
 
