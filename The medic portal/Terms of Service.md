@@ -29,7 +29,7 @@ The term “Restricted Content” means any content on our website to which acce
 
 ### 3\. INFORMATION ABOUT US
 
-[www.themedicportal.com](https://www.themedicportal.com/) is a website operated by The Medic Portal Ltd (“we”, “our” or “us”), a trading name of The Career Portal Limited. We are registered in England and Wales under company number 0926674, at registered office 14 Waterloo Pl, St. James’s, London SW1Y 4AR
+[www.themedicportal.com](https://www.themedicportal.com/) is a website operated by The Medic Portal Ltd (“we”, “our” or “us”), a trading name of The Career Portal Limited. We are registered in England and Wales under company number 0926674, at registered office The Medic Portal, 58 Buckingham Gate, London, SW1E 6AJ
 
 The Medic Portal is an official partner of [The Royal Society of Medicine](https://www.rsm.ac.uk/).
 
@@ -67,7 +67,7 @@ If you choose, or you are provided with, a user identification code, password or
 
 We have the right to disable any user identification code or password, whether chosen by you or allocated by us, at any time, if in our reasonable opinion you have failed to comply with any of the provisions of these terms of use.
 
-If you know or suspect that anyone other than you knows your user identification code or password, you must promptly notify us at [\[email protected\]](https://www.themedicportal.com/cdn-cgi/l/email-protection) or The Medic Portal, 14 Waterloo Pl, St. James’s, London SW1Y 4AR
+If you know or suspect that anyone other than you knows your user identification code or password, you must promptly notify us at [\[email protected\]](https://www.themedicportal.com/cdn-cgi/l/email-protection) or The Medic Portal, 58 Buckingham Gate, London, SW1E 6AJ
 
 Either we or you may terminate your account at any time.  If we terminate your account you will be notified by email.  We reserve the right to terminate without giving reasons.
 
@@ -210,6 +210,6 @@ UK00003075789 is a UK registered trade mark of The Medic Portal Ltd.
 To contact us, please:
 
 * email [\[email protected\]](https://www.themedicportal.com/cdn-cgi/l/email-protection) or
-* write to us at The Medic Portal, 14 Waterloo Pl, St. James’s, London SW1Y 4AR
+* write to us at The Medic Portal, 58 Buckingham Gate, London, SW1E 6AJ
 
 Thank you for visiting our site.
