@@ -52,7 +52,7 @@
 Toddle - Terms of Service
 =========================
 
-Last Updated: June 19, 2024
+Last Updated: September 5, 2024
 
 It is Toddle’s mission to help teachers create world-class learning experiences by providing to them a one stop end- to- end solution. To ensure this, it is essential that we create a safe and secure environment where teachers, children and parents freely share content and ideas. Creating such a safe and secure environment is central to the success of our endeavours.
 
@@ -61,127 +61,178 @@ It is Toddle’s mission to help teachers create world-class learning experience
 1\. Introduction
 ----------------
 
-1.1. These Terms of Service govern your use of our websites at [www.web.toddleapp.com](https://web.toddleapp.com/), and the Toddle Application (collectively “the Toddle Service”, “the Service” or “Toddle”). By signing this agreement, you agree to be bound by our Terms of Service (our “Terms”).
+1.1. These Terms of Service govern your use of our websites at [www.web.toddleapp.com](https://web.toddleapp.com/), and the Toddle Applications (collectively “the Toddle Service”, “the Service” or “Toddle”). By signing this licensing contract, you agree to be bound by our Terms of Service (our “Terms”).
 
-1.2. Occasionally Service Provider\* may, at its discretion, make changes to the Service\* and the Order Form to account for changes in practice and applicable laws. Upon such material changes to the Agreement or Services, Service Provider shall notify the Subscriber\* by email and post a notice on our Service 15 days before the changes take effect. By continuing to use the Service or entitle the Users to continue using the Service after changes are made, Subscriber is expressing and acknowledging its acceptance of the changes
+1.2. Occasionally Service Provider may, at its discretion, make changes to the Service and the Terms of Service. Upon any such material changes to the Services of Terms of Service, the Service Provider shall notify the Subscriber. By continuing to use the Service or allowing the Users to continue using the Service after changes are made, Subscriber is expressing and acknowledging its acceptance of the changes.
 
 \*see definitions below
 
-### 2\. Definitions
+2\. Definitions
+---------------
 
 In this document, unless the context otherwise requires:
 
-**“Agreement”** or **“Order Form”** means the order form, these Terms of Service and any supplementary documents referred to herein (executed in written form online).
+**“Licensing Contract”** means this Licensing Contract, these Terms of Service and any supplementary documents referred to herein (executed in written form online).
 
 **“Confidential Information”** means any information that: (i) if disclosed in writing, is labelled as “confidential” or “proprietary”; (ii) if disclosed orally, is designated confidential at disclosure; or (iii) whether it being written or oral and whether it being designated as confidential or not, by its nature, and/or the circumstances of its disclosure, makes it reasonably likely that it is confidential. Confidential Information may include, but is not limited to, trade secrets, discoveries, ideas, concepts, know-how, techniques, future product plans, designs, specifications, data, computer programs, business activities and operations, customer lists, reports, studies, personnel information, financial information, information disclosed by demonstration of any product and other technical and business information;
 
-**“Effective Date”** means the date the Subscriber and the Service Provider execute the Order Form;
+**“Effective Date”** means the date the Subscriber and the Service Provider execute this Licensing Contract;
 
-**“Intellectual Property Rights”** means all copyright and related rights, design right, registered designs, patents, trade and service marks (registered and unregistered), database rights, know-how, rights in confidential information and all other intellectual property rights throughout the world for the full term of the rights concerned;
+**“Intellectual Property Rights”** means all copyright and related rights, design rights, registered designs, patents, trade and service marks (registered and unregistered), database rights, know-how, rights in confidential information and all other intellectual property rights throughout the world for the full term of the rights concerned;
 
-**“Service”** means access to web portals and mobile applications provided by the Service Provider, including the planning, documentation, evidence collection, assessment, portfolio tools and any other tools or features that may be developed in the future;
+**“Service”** means access to web portals and mobile applications provided by the Service Provider;
 
 **“Service Provider”** means Teacher Tools Private Limited, operating through its brand Toddle.
 
-**“Subscription Period”** means the Service subscription period for a specific Subscriber and its registered Users. The Subscription Period is twelve (12) months with automatic renewal every 12 months and will commence on the Effective Date, or where so agreed a longer or shorter time period, as set forth in the subscription service form. Each agreed subscription will have a separate Subscription Period;
+**“Subscription Period”** means the Service subscription period for a specific Subscriber and its Licensed Users. The Subscription Period is twelve (12) months with automatic renewal every 12 months and will commence on the Effective Date, or where so agreed a longer or shorter time period, as outlined in this licensing contract;
 
-**“Terms and conditions of Use”** means the Service Provider’s supplementary document “Toddle Terms of Use” that the Subscriber has to accept to use the Service, available at http://www.toddleapp.com/tou/ as the same may be updated from time to time.
+**“Terms and conditions of Use”** means the Service Provider’s supplementary document “Toddle Terms of Use” that the Subscriber and their Users have to accept to use the Service; these Terms are available at [http://www.toddleapp.com/tou/](http://www.toddleapp.com/tou/) as the same may be updated from time to time.
 
-**“User Account Information”** means information requested by Service Provider on Subscriber’s Users in order to set up and register the Users for Services.
+**“User Account Information”** means information requested by the Service Provider about Subscriber’s Users in order to set up and register the Users for Services.
 
-**“Users”** means individual students, teachers, parents and administrators who are authorized by the Subscriber to use the Service, for whom subscriptions to a Service have been procured, and who have been supplied user identifications and passwords by Subscriber (or by Service Provider at Subscriber’s request).
+**“Users”** means individual students, teachers, parents and administrators who are authorized by the Subscriber to use the Service, for whom subscriptions to the Service have been procured, and who have been supplied user identifications and passwords by the Subscriber (or by Service Provider at Subscriber’s request).
 
-### 3\. Supply of Services
+**“Licensed Users”** means individual students and staff of the Subscriber considered for billing purposes by the Service Provide.
 
-3.1. Service Provider hereby undertakes to supply to Subscriber the subscribed Service Deals on the terms set forth in the Order Form.
+**“Add-on services”** means any one or a combination of services provided by the Service Provider outside the scope of this Licensing Contract.
 
-3.2. By subscribing to Services, the signatory warrants and represents that it is authorized to bind the Subscriber to this Agreement. Subscriber further warrants and represents that; (i) it is registered in its territory and will only grant User access to the Services in that territory; (ii) it complies with and will comply with the subscription requirements set out in the Order Form; (iii) it is authorized to grant all permissions and licenses provided in this Agreement to its Users; (iv) it shall comply with any laws and regulations that apply to its use of the Services (in particular local regulatory regimes on privacy and data protection); and (v) it shall not use the Services for any other use than set forth herein and shall not allow any third party to do so.
+**“Overage”**  means the number of Licensed Users exceeding the maximum user limit for the Subscription Period specified in this Licensing Contract, resulting in additional charges as per the overage pricing terms.
 
-3.3. Use of the Services requires User registration with Service Provider. Such registration is made by Service Provider upon receiving the requested User Account Information from Subscriber.
+3\. Supply of Services
+----------------------
 
-3.4. Subscriber confirms that it will accept and comply with Service Provider’s Terms and conditions of Use and other relevant terms, and that Users consent to the processing of any personal data as set forth in this Agreement.
+3.1. Service Provider hereby undertakes to supply to Subscriber the subscribed Service on the terms outlined in the Licensing Contract.
 
-3.5. Subscriber confirms that it is responsible that it’s Users at all times comply with the terms of the Agreement and adhere to Service Provider’s requirements and guidelines in relation to use of the Service, as designated by Service Provider from time to time, including applicable Terms and conditions of Use and instructions.
+3.2. By subscribing to Services, the signatory warrants and represents that it is authorized to bind the Subscriber to this Licensing Contract. Subscriber further warrants and represents that; (i) it is registered in its territory and will only grant User access to the Services in that territory; (ii) it complies with and will comply with the subscription requirements set out in the Licensing Contract; (iii) any registration information that it submits to the Service Provider is true, accurate and complete, and it agrees to keep it that way at all times; (iv) it is authorized to grant all permissions and licenses provided in this Licensing Contract to its Users; (v) it shall comply with any laws and regulations that apply to its use of the Services (in particular local regulatory regimes on privacy and data protection); and (vi) it shall not use the Services for any other use than set forth herein and shall not allow any third party to do so.
 
-3.6. Subscriber or registered Users are responsible for all hardware, communication networks and other equipment necessary for use of Services, and the due installation thereof. Subscriber is solely responsible for all activities conducted by Users, through each of any User’s logins. Subscriber is not allowed to engage in service bureau use, outsourcing, renting, reselling, sublicensing, concurrent use of a single User login, or time-sharing of the Service.
+3.3. Use of the Services requires User registration with Service Provider. Such registration is made by the Service Provider upon receiving the requested User Account Information from the Subscriber.
+
+3.4. Subscriber confirms that it will accept and comply with Service Provider’s Terms and conditions of use and other relevant terms, and Users’ consent to processing of any personal data as set forth in this Licensing Contract.
+
+3.5. Subscriber confirms that it is responsible that its Users at all times comply with the terms of the Licensing Contract and adhere to Service Provider’s requirements and guidelines in relation to the use of the Service, as designated by Service Provider from time to time, including applicable Terms and conditions of Use and instructions.
+
+3.6. Subscriber or registered Users are responsible for all hardware, communication networks and other equipment necessary for use of Services, and the due installation thereof. Subscriber is solely responsible for all activities conducted by Users, through each of any User’s logins. Subscriber is not allowed to engage in service bureau use, outsourcing, renting, reselling, sub-licensing, concurrent use of a single User login, or time-sharing of the Service.
 
 3.7. Subscriber shall not and shall not permit Users to; (i) copy, translate, create a derivative work of, reverse engineer, reverse assemble, disassemble, or decompile the Service or any part thereof or otherwise attempt to discover any source code or modify the Service in any manner or form; (ii) use the Service in a manner that is contrary to applicable law or in violation of any third party rights of privacy or Service Provider’s Intellectual Property Rights; (iii) use or knowingly permit the use of any security testing tools in order to probe, scan or attempt to penetrate or ascertain the security of the Service; (iv) access the Service by any means other than through the interfaces that are provided by Service Provider; or (v) use or allow Users or third parties to use the Services in any unauthorized manner or in breach of the Terms of Use.
 
-3.8. The Service Provider shall; (i) authorize registered Users access to and assign unique passwords and usernames to Users; (ii) grant Users access to the portals and mobile applications relevant to that User in accordance with the terms and conditions of this Agreement; and (iii) endeavour that the use of the Service is secure, error-free, or that the Service will meet the subscribed requirements, or that errors in the Service are reasonably resolved and that the overall system hosting the Service is free of viruses or other harmful components. Service Provider will use its reasonable endeavours to resolve any issues related to the Service, as part of its technical support obligations.
+3.8. The Service Provider shall; (i) authorize registered Users access to and assign unique passwords and usernames to Users; (ii) grant Users access to the portals and mobile applications relevant to that User in accordance with the terms and conditions of this Licensing Contract; and (iii) endeavour that the use of the Service is secure, error-free, or that the Service will meet the subscribed requirements, or that errors in the Service are reasonably resolved and that the overall system hosting the Service is free of viruses or other harmful components. Service Provider will use its reasonable endeavours to resolve any issues related to the Service, as part of its technical support obligations.
 
-3.9. Service Provider reserves the right to make such changes to the features and functionality of the Service, systems and interfaces as Service Provider sees fit at its sole discretions. Notwithstanding the aforesaid, Service Provider will notify the Subscriber, or where relevant its Users, of any material changes in advance where reasonably practicable and where such prior notice would not adversely affect Service Provider’s commercial interests.
+3.9. Service Provider reserves the right to make such changes to the features and functionality of the Service, systems and interfaces as Service Provider sees fit at its sole discretion. Notwithstanding the aforesaid, Service Provider will notify the Subscriber, or where relevant its Users, of any material changes in advance where reasonably practicable and where such prior notice would not adversely affect Service Provider’s commercial interests.
 
 3.10. To the fullest extent possible under applicable law, Service Provider does not give any warranty, express or implied, as to the quality, content and availability or fitness for a specific purpose of the Service, or the non- infringement of any third party Intellectual Property Rights.
 
-### 4\. FEES AND PAYMENT
+3.11. The Subscriber will take all actions as may be required to give effect to such instruction/direction and represents and warrants that such instruction/ direction will not result in a breach of any applicable law or contract (which is applicable to the Subscriber). The Service Provider agrees to utilize any data (including personal data) processed pursuant to this instruction/ direction solely for the purposes as notified.
 
-4.1. The Services are provided as specified in the Order Form and in email from the designated contact person. Prices and conditions for subscribed Service are as set forth in the Order Form.
+4\. Terms of Service and Fair Usage Policy for Toddle AI
+--------------------------------------------------------
 
-4.2. The prices and conditions for the services are subject for a review from time to time, and the Service Provider reserves the right to propose adjustments to the prices at the latest two (2) months prior to the expiration of a Subscription Period. Unless the Subscriber cancels the subscription pursuant to the terms set forth herein, the adjusted prices for the subscribed Service Deals will apply when the subscription is renewed for a subsequent successive Subscription Period.
+4.1. These Terms of Service govern your use of Toddle AI. The terms stated in this clause is only applicable to the Subscriber if the Subscriber has purchased Toddle AI as part of the subscription.
 
-4.3. Service Provider will invoice Subscriber for the Full Subscription Period at the start of each Subscription Period. Unless otherwise agreed in the Agreement, Service Provider will invoice the Subscriber the Full Subscription Period as specified in the Order Form. Invoiced Amounts are in the currency set out in the Order Form, and exclude taxes, levies or duties of any kind including value added, General Sales, sales use or withholding taxes.
+**4.2 Data Sharing and Privacy**
 
-4.4. All invoices are payable within fifteen (15) calendar days as of the relevant invoice date, unless otherwise agreed in the Agreement. All amounts owed hereunder, not paid when due, will be subject to penalty interest at the rate of 18% per annum, as well as compensation for costs for recovery of late payment. Upon late payment, Service Provider, at its own discretion, may temporary restrict Subscribers and Users access to the Service, until such time that full payment is received.
+4.2.1 The Service Provider uses multiple Large Language Models (such as ChatGPT from Open AI, Bard from Google, and Llama2 from Meta) for providing the services of Toddle AI. At times Service Provider may share the Subscriber’s data with these LLMs. Whenever such data is shared, it is fully encrypted at rest and in transit to safeguard information from unauthorized access. No User data is used for the training of these Large Language Models.
 
-4.5. Incase the actual number of users/ students is different from the number of users/ students mentioned in the order form, an adjustment will be made in the invoice raised in the next billing cycle.
+4.2.2 No Personally Identifiable Information (PII) is shared with the LLMs. This is implemented through pseudonymization of data. The Service Provider will take all practicable measures to pseudonymize any data shared with the LLMs.
 
-### 5\. SUBSCRIPTION AND CANCELLATION
+**4.3 Toddle AI Fair Usage Policy**
 
-5.1. Unless otherwise agreed in the Agreement, the Subscription Period shall be twelve (12) months commencing on the Effective Date. Unless the Subscriber cancels the subscription pursuant to the terms set forth herein, a subscription is automatically renewed for a subsequent successive Subscription Period.
+This Fair Usage Policy (the “Policy”) outlines the guidelines and expectations for the usage of Toddle AI by the Subscriber. To ensure an equitable and efficient experience for all users, this Policy is a part of the contract between the Service Provider and the Subscriber.
 
-5.2. The subscription is binding during the full duration of the Subscription Period. Notwithstanding the aforesaid, Subscriber may prematurely cancel a subscription by submitting a cancellation note to the Service Provider at the latest sixty (60) calendar days prior to expiration of a Subscription Period.
+**Usage Guidelines**
 
-5.3. Pursuant to the provisions herein, any Subscriber requests for modification of the Service’s scope or cancellation of the Subscription Period must be submitted in writing to their the designated contact person as mentioned in the order form.
+1. **Usage for educational purposes:** Toddle AI is intended to be used for educational purposes. The Users agree that they will use Toddle AI for educational purposes only.
+2. **Reasonable Usage:** The Subscriber should make all practicable efforts to ensure that the Users make reasonable use of Toddle AI to improve teaching efficiency. Excessive or abusive usage is prohibited.
+3. **User Accounts:** Users will have Toddle AI enabled for their unique Toddle account across the subscribed curriculum or programme. Sharing accounts or login credentials is not allowed and may result in restricted access
+4. **Data Security:** Users are responsible for maintaining the security of their accounts and passwords. Any unauthorized access should be reported immediately.
+5. **Prohibited Activities:** The following activities are strictly prohibited and may lead to suspension or termination of access:
+    1. Misusing the AI features for malicious purposes
+    2. Attempting to reverse-engineer or manipulate the AI algorithms
+    3. Uploading inappropriate, offensive, or copyrighted content
+6. **System Integrity:** Users should refrain from any action that might compromise the integrity of the Toddle AI system or its infrastructure.
 
-5.4. Upon the termination of this Agreement for any reason any sum owing or due to Service Provider shall be immediately payable and the rights of the Subscriber and Users herein shall be immediately cancelled.
+**4.4 Usage Monitoring and Enforcement**
 
-### 6\. INTELLECTUAL PROPERTY RIGHTS
+4.4.1 Usage Monitoring: Service Provider reserves the right to monitor usage patterns to ensure compliance with this Policy.
 
-6.1. Service Provider and its licensors, as applicable, shall remain the exclusive owner of all Intellectual Property Rights in the Service (including the underlying technology, software and content). Subscriber may not remove any legends or statements in the Service or any materials provided therewith regarding Service Provider’s and its licensors’ proprietary rights.
+4.4.2 Suspension or Termination: To ensure optimal performance and fair usage across all Toddle AI users, your access to AI features can be reduced depending on your usage.
 
-6.2. Service Provider’s trademarks, service marks, trade names, logos, domain names, and any other features of the Service are the sole property of Service Provider and its licensors. The license granted to Subscriber and its Users herein does not grant any rights to use Intellectual Property Rights or any other features of the Service, whether for commercial or non-commercial use.
+**4.5 Updates to the Policy**
 
-6.3. It follows from the Service Provider’s Terms and conditions of Use that Subscriber and/or its Users shall become the owner of any content that they create on the Toddle portals. The content created on journals and portfolios shall belong to the parents and children (wherever they are above the legal age).
+Service Provider reserves the right to update or modify this Fair Usage Policy as needed. Subscriber will be notified of any changes and will be expected to comply with the updated version.  
+For the most updated version of the policy – please visit [www.toddleapp.com/privacy-center/](https://www.toddleapp.com/privacy-center/)
 
-### 7\. CONFIDENTIALITY AND PRIVACY
+5\. Fees and Payment
+--------------------
 
-7.1. Any and all Confidential Information exchanged between the Service Provider, Subscriber and its Users shall be kept strictly confidential and not disclosed to any third party without prior written consent of the owner of the Confidential Information. At all times, Confidential Information shall be treated and stored carefully and appropriately so that the Confidential Information is not inadvertently made available to any third party or otherwise disclosed in breach of this Agreement.
+5.1. The prices and conditions for the services are subject to review from time to time, and the Service Provider reserves the right to propose adjustments to the prices. Any proposed adjustments must be communicated at least two (2) months prior to the expiration of a Subscription Period. The nominal price increase for the subscribed Service will be approximately 5% annually to account for inflation and continuous product improvements. Unless the Subscriber cancels the subscription in accordance with the terms outlined herein, the adjusted prices for the subscribed Service will apply upon renewal for each subsequent Subscription Period.
 
-7.2. Notwithstanding the aforesaid, this Agreement shall not prohibit the disclosure of Confidential Information to the extent that such disclosure is permitted or required by law, regulation or order of a court or other governmental authority. Furthermore, the Service Provider may disclose Confidential Information on a need to know basis to its contractors and service providers who have executed written agreements requiring them to maintain such information in strict confidence and use it only to facilitate the performance of their services in connection with the Services.
+5.2. Charges for Add-on services, if any availed by the Subscriber, will be billed as and when services are provided to the Subscriber.
 
-7.3. All the data that the Subscriber enters in Toddle belongs to the Subscriber, however, the Subscriber and its Users may not copy, make transcriptions or recordings or in any other way reproduce or duplicate any document or other medium containing Confidential Information or Intellectual Property Rights, without Service Provider’s written consent. Upon termination of this Agreement, the Subscriber may request the Service Provider to provide it with a copy of all the data. Service Provide will cater to this request within one week of receiving such a request.
+5.3. Unless otherwise agreed, the Service Provider will invoice the Subscriber for the Full Subscription Period as specified in this Licensing Contract. Invoiced Amounts are in the currency set out in the Licensing Contract, and exclude taxes, levies or duties of any kind including, but not limited to, value-added, General Sales, sales use or withholding taxes. Any charges related to payment processing of the subscription amount including but not limited to bank charges, payment gateway charges, and credit card charges shall be borne by the Subscriber.
 
-7.4. Service Provider will comply with applicable Data Protection Regulation as well as with its own, at each time applicable, Privacy Policy in relation to any Subscriber or User personal data that it may collect and process for the purposes of supplying the Service. Service Provider will process any such personal data in accordance with Service Provider’s Privacy Policy, available online at [https://www.toddleapp.com/pp/](https://www.toddleapp.com/pp/)
+5.4. All invoices are payable upon presentation and should be paid no later than fifteen (15) calendar days either from the start of subscription period or upon automatic renewal as the case may be, unless otherwise agreed in the Licensing Contract. All amounts owed hereunder, not paid when due, will be subject to penalty interest at the rate of USD 50 per day (calculated and charged monthly) as well as compensation for costs for recovery of late payment. Upon late payment, Service Provider, at its own discretion, may temporarily restrict Licensed Users access to the Service, until such time that full payment is received.
 
-### 8\. LIMITATION OF LIABILITY
+5.5. In case the actual number of Licensed Users is different from the number of Licensed Users mentioned in the Licensing Contract, an adjustment will be made in the invoice raised in the next billing cycle. For overages in the Subscriber’s current pricing tier, a flat fee of USD 50 per additional user per year will be charged upon renewal, billed with the invoice for the following year. If the overage exceeds 5% of the tier limit, the Subscriber’s current tier will be automatically upgraded for the next billing cycle.
 
-8.1. Service Provider shall not be liable for any loss of profits, business, goodwill, revenue, sales, or data, or for any indirect, consequential, incidental or special loss or damages of any kind under or in connection with this Agreement, save where such loss or damage is due to Service Provider’s gross negligence or willful violation of the terms of this Agreement. Notwithstanding aforesaid, the Service Provider’s maximum liability due to any person, firm or corporation whatsoever arising out of or in the connection with any license, use or other employment of the Service, whether such liability arises from any claim based on breach or repudiation of contract, breach of warranty, negligence, tort, statutory duty, or otherwise, shall in no case exceed the equivalent of three (3) months in subscription fees for the relevant Subscription Period. Subscriber shall not have the right to terminate this Agreement unless such loss or damage is due to Service Provider’s gross negligence or willful violation of the terms of this Agreement.
+Example: If the Subscriber’s current pricing tier allows for up to 249 users, and the actual number of users reaches 270, the Subscriber will be charged an additional USD 50 per user per year for the 21 extra users at the time of their renewal. Additionally, the Subscription would be moved to the ‘250 – 499’ tier for the next billing cycle.
 
-8.2. Service Provider shall not be liable for damages for any delay or default in performance of its undertakings of obligations under this Agreement, if such delay or default is caused by force majeure, including but without limitation thereto, wars, insurrections, fires, passing of laws or any governmental order, regulation or ruling, or any other act(s) beyond the reasonable control of Service Provider, and Subscriber shall not have the right to terminate this Agreement unless such delay or default in performance is caused by force majeure for a period of more than six (6) months. During the force majeure event, Service Provider will use all reasonable efforts to avoid, reduce or eliminate the force majeure event’s prevention, restriction or delay of the performance of its obligations under this Agreement.
+6\. Subscription and Cancellation
+---------------------------------
 
-### 9\. CHANGE OF CONTROL
+6.1. Unless otherwise agreed in the Licensing Contract, the Subscription Period shall be twelve (12) months commencing on the Effective Date. Unless the Subscriber cancels the subscription, at least 60 days prior to the contract renewal date, the subscription is automatically renewed for a subsequent successive Subscription Period.
 
-9.1. Over time, Toddle may grow and reorganize. We may share your information, including personal information with affiliates such as a parent company, subsidiaries, joint venture partners or other companies that we control or that are under common control with us, in which case we will require those companies to agree to use your personal information in a way that is consistent with this Privacy Policy.
+6.2. The subscription is binding during the full duration of the Subscription Period. The subscriber can choose to terminate the subscription by submitting a termination notice anytime during the validity of the subscription.
 
-9.2. In the event of a change to our organizations such that all or a portion of Toddle or its assets are acquired by or merged with a third-party, or in any other situation where personal information that we have collected from users would be one of the assets transferred to or acquired by that third-party, this Privacy Policy will continue to apply to your information, and any acquirer would only be able to handle your personal information as per this policy (unless you give consent to a new policy). We will provide you with notice of an acquisition within thirty (30) days following the completion of such a transaction, by posting on our homepage and by email to your email address that you provided to us. If you do not consent to the use of your personal information by such a successor company, subject to applicable law, you may request its deletion from the company.
+6.3. Pursuant to the provisions herein, any Subscriber requests for modification of the Service’s scope or cancellation of the Subscription Period must be submitted in writing to the designated contact person at least 60 days prior to the subscription renewal date as mentioned in the Licensing Contract. The Service Provider will use reasonable efforts to accommodate modification requests but is not obligated to do so.
 
-9.3. In the unlikely event that Toddle goes out of business, or files for bankruptcy, we will protect your personal information, and will not sell it to any third-party.
+6.4. Upon the termination of this Licensing Contract for any reason, any sum owing or due to the Service Provider shall be immediately payable and the rights of the Subscriber and Licensed Users herein shall be immediately cancelled.
 
-### 10\. MISCELLANEOUS
+7\. Intellectual Property Rights
+--------------------------------
 
-10.1. Any notice or other communication to be given or served under or in connection with this Agreement shall be in writing and shall be sent by e-mail to the other party’s contact person set forth in the order form.
+7.1. Service Provider and its licensors, as applicable, shall remain the exclusive owner of all Intellectual Property Rights in the Service (including the underlying technology, software and content). Subscriber may not remove any legends or statements in the Service or any materials provided therewith regarding Service Provider’s proprietary rights.
 
-10.2. Subscriber may not assign, mortgage, charge any of its rights or sub-contract or otherwise delegate any of its obligations under this Agreement, except with the written consent of the Service Provider.
+7.2. Service Provider’s trademarks, service marks, trade names, logos, domain names, and any other features of the Service are the sole property of Service Provider and its licensors. The license granted to Subscriber and its Users herein does not grant any rights to use Intellectual Property or any other features of the Service, whether for commercial or non-commercial use.
 
-10.3. This Agreement constitutes the whole of the agreement between the parties and supersedes any previous agreement and no modification of this Agreement shall be effective unless it is made in writing and executed by or on behalf of the parties unless otherwise is set forth in this Agreement.
+7.3. It follows from the Service Provider’s Terms and conditions of Use that Subscriber and/or its Users shall become the owner of any content that they create on the Toddle portals. The content created on journals and portfolios shall belong to the parents and the children (wherever they are above the legal age).
 
-10.4. No failure or delay by any party in exercising any of its rights under this Agreement shall be deemed to be a waiver of that right, or otherwise prejudice, affect or restrict the rights or remedies of that party in relation to the other party, and no waiver by any party of a breach of any provision of this Agreement shall be deemed to be a waiver of any subsequent breach of the same or any other provision of this Agreement.
+8\. Confidentiality and Privacy
+-------------------------------
 
-10.5. All provisions of this Agreement that can be reasonably interpreted as surviving upon the full performance, expiry, termination, cancellation or voidance of the Agreement (in particular provisions on intellectual property rights and confidentiality) shall survive said performance, expiry, termination, cancellation or voidance.
+8.1. Any and all Confidential Information exchanged between the Service Provider, Subscriber and its Users shall be kept strictly confidential and not disclosed to any third party without prior written consent of the owner of the Confidential Information. At all times, Confidential Information shall be treated and stored carefully and appropriately so that the Confidential Information is not inadvertently made available to any third party or otherwise disclosed in breach of this Licensing Contract.
 
-### 11\. APPLICABLE LAW AND DISPUTE RESOLUTION
+8.2. Notwithstanding the aforesaid, this Licensing Contract shall not prohibit the disclosure of Confidential Information to the extent that such disclosure is permitted or required by law, regulation or order of a court or other governmental authority. Furthermore, the Service Provider may disclose Confidential Information on a need to know basis to its contractors and service providers who have executed written agreements requiring them to maintain such information in strict confidence and use it only to facilitate the performance of their services in connection with the Services.
 
-11.1. Any dispute, controversy or claim arising out of or in connection with this Agreement, or the breach, termination or invalidity thereof, shall be finally settled by the Courts of Bengaluru, India
+8.3. Subscriber and its Users may not copy, make transcriptions or recordings or in any other way reproduce or duplicate any document or other medium containing Confidential Information or Intellectual Property Rights, without Service Provider’s written consent.
+
+8.4. Service Provider will comply with applicable Data Protection Regulation as well as with its own, at each time applicable, Privacy Policy in relation to any Subscriber or User personal data that it may collect and process for the purposes of supplying the Service. Service Provider will process any such personal data in accordance with Service Provider’s Privacy Policy, available online at [https://www.toddleapp.com/pp/](https://www.toddleapp.com/pp/)
+
+9\. Limitation of Liability
+---------------------------
+
+9.1. Service Provider shall not be liable for any loss of profits, business, goodwill, revenue, sales, or data, or for any indirect, consequential, incidental or special loss or damages of any kind under or in connection with this Licensing Contract, save where such loss or damage is due to Service Provider’s gross negligence or willful violation of the terms of this Licensing Contract. Notwithstanding aforesaid, the Service Provider’s maximum liability due to any person, firm or corporation whatsoever arising out of or in the connection with any license, use or other employment of the Service, whether such liability arises from any claim based on breach or repudiation of contract, breach of warranty, negligence, tort, statutory duty, or otherwise, shall in no case exceed the equivalent of three (3) months in subscription fees for the relevant Subscription Period. Subscriber shall not have the right to terminate this Licensing Contract unless such loss or damage is due to Service Provider’s gross negligence or willful violation of the terms of this Licensing Contract.
+
+9.2. Service Provider shall not be liable for damages for any delay or default in performance of its undertakings of obligations under this Licensing Contract, if such delay or default is caused by force majeure, including but without limitation thereto, wars, insurrections, fires, pandemics, passing of laws or any governmental order, regulation or ruling, or any other act(s) beyond the reasonable control of Service Provider, and Subscriber shall not have the right to terminate this Licensing Contract unless such delay or default in performance is caused by force majeure for a period of more than six (6) months. During the force majeure event, Service Provider will use all reasonable efforts to avoid, reduce or eliminate the force majeure event’s prevention, restriction or delay of the performance of its obligations under this Licensing Contract.
+
+9.3. The Subscriber agrees to indemnify and defend and hold harmless the Service Provider against any claims arising out of any actions taken by the Service Provider on instruction or direction by the Subscriber.
+
+10\. Miscellaneous
+------------------
+
+10.1. Any notice or other communication to be given or served under or in connection with this Licensing Contract shall be in writing and shall be sent by e-mail to the other party’s contact person set forth in the Licensing Contract.
+
+10.2. Subscriber may not assign, mortgage, charge any of its rights or sub-contract or otherwise delegate any of its obligations under this Licensing Contract, except with the written consent of the Service Provider.
+
+10.3. This Licensing Contract constitutes the whole of the agreement between the parties and supersedes any previous agreement and no modification of this Licensing Contract shall be effective unless it is made in writing and executed by or on behalf of the parties unless otherwise is set forth in this Licensing Contract.
+
+10.4. No failure or delay by any party in exercising any of its rights under this Licensing Contract shall be deemed to be a waiver of that right, or otherwise prejudice, affect or restrict the rights or remedies of that party in relation to the other party, and no waiver by any party of a breach of any provision of this Licensing Contract shall be deemed to be a waiver of any subsequent breach of the same or any other provision of this Licensing Contract.
+
+10.5. All provisions of this Licensing Contract that can be reasonably interpreted as surviving upon the full performance, expiry, termination, cancellation or voidance of the Licensing Contract (in particular provisions on intellectual property rights and confidentiality) shall survive said performance, expiry, termination, cancellation or voidance.
+
+11\. Applicable Law and Dispute Resolution
+------------------------------------------
+
+Any dispute, controversy or claim arising out of or in connection with this Licensing Contract, or the breach, termination or invalidity thereof, shall be finally settled by the Courts of Bengaluru, India.
 
 We value and protect your privacy
 
@@ -199,7 +250,7 @@ We value and protect your privacy
 
 ![CCPA logo](/wp-content/uploads/2024/06/ccpa.webp)
 
-![](/wp-content/uploads/2024/06/safer-techno.webp)
+[![](/wp-content/uploads/2024/06/safer-techno.webp)](https://www.toddleapp.com/australianprivacyprinciples/)
 
 [Visit Privacy Center ![](https://www.toddleapp.com/wp-content/uploads/2021/08/RightArrowOutlined-1.png)](https://www.toddleapp.com/pc/) 
 
