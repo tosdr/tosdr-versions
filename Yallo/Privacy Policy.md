@@ -373,7 +373,7 @@ My yallo
 
 [Distinctions](https://www.yallo.ch/fr/awards)
 
-[Clients commerciaux](https://www.sunrise.ch/business/fr/petites-moyennes-entreprises-pme)
+[Clients commerciaux](https://www.sunrise.ch/business/fr/home)
 
 [Connexion Revendeur](https://www.yallo.ch/pos-login)
 
