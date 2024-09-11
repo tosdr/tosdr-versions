@@ -51,7 +51,7 @@ Sign in
 * [Search](https://www.truist.com/search)
 * [Locations](https://www.truist.com/locations)
 * [Contact](https://www.truist.com/contact)
-* [Español](https://es.truist.com/)
+* [Español](# "Global Switch")
 *  [![](//static.truist.com/content/dam/global-images/more-icon.svg) More](#)
     
     [About Truist](https://www.truist.com/who-we-are/about-truist) [Care](https://www.truist.com/care) [Fraud and security](https://www.truist.com/fraud-and-security) [Payment relief](https://www.truist.com/payment-relief/personal-loans) [Careers](https://careers.truist.com/) [Privacy](https://www.truist.com/privacy) [Legal](https://www.truist.com/terms-and-conditions)
@@ -468,6 +468,8 @@ The information we collect online or through your mobile device helps Truist to:
     * Detect security incidents and conduct data security investigations
     * Guard against malicious, deceptive, fraudulent, or illegal activity
 * For any other purposes outlined in our [Consumer Privacy Notice](https://www.truist.com/privacy?#truisttab-839111282-1).
+
+We only use personal information that we have about you when we have a legal basis to use such personal information under applicable data protection laws.
 
 ### How does Truist share collected information?
 
