@@ -4,21 +4,17 @@ Set weather
 
 Back To Main MenuClose
 
-Quick Look
+Customize Your Weather
 
-\-
+Set Your Location:
 
-Change your current location »
+Enter City and State or Zip Code
 
-Current![Mostly Sunny](/pf/resources/images/common/weather/small/02.png?d=1388) \-Mostly Sunny
+Submit
 
-Tonight![Mostly Sunny](/pf/resources/images/common/weather/small/02.png?d=1388)Low \-Mostly Sunny
+[![al’s Logo](https://www.al.com/pf/resources/images/al/logos/logo_main.svg?d=1354)![al’s Logo](https://www.al.com/pf/resources/images/al/logos/logo_main_sm.svg?d=1354)](https://www.al.com/)
 
-Tomorrow![Mostly Sunny](/pf/resources/images/common/weather/small/02.png?d=1388)High \-Mostly Sunny
-
-View full weather report
-
-[![al’s Logo](https://www.al.com/pf/resources/images/al/logos/logo_main.svg?d=1388)![al’s Logo](https://www.al.com/pf/resources/images/al/logos/logo_main_sm.svg?d=1388)](https://www.al.com/)
+Alabama
 
 * [Birmingham](https://www.al.com/birmingham)
 * [Huntsville](https://www.al.com/huntsville)
@@ -552,7 +548,7 @@ Where required by applicable law, we enable you to opt out of or provide you wit
 Footer Navigation
 -----------------
 
-![Visit the al.com home page](/pf/resources/images/al/logos/logo_footer.png?d=1388)
+![Visit the al.com home page](/pf/resources/images/al/logos/logo_footer.png?d=1354)
 
 About Us
 
@@ -631,24 +627,20 @@ More on AL.com
 * [Sponsor Content](https://www.al.com/sponsor-content-index/?prx_adpz=1111)
 * [Post a job](https://jobs.al.com/AdminNet/Employer/Marketing/3315)
 
-Cookie Settings![California Consumer Privacy Act (CCPA) Opt-Out Icon](/pf/resources/images/common/icons/privacyoptions29x14.png?d=1388)
-
-* |[Privacy Policy](https://www.al.com/privacy-policy/)
-* |[User Agreement](https://www.al.com/user-agreement/)
-* |[![Ad Choices icon](/pf/resources/images/common/logos/ad-choices-arrow.png?d=1388)Ad Choices](https://www.al.com/privacy-policy/#oba_top)
-
 Disclaimer
 ----------
 
-[![Advance Local logo](/pf/resources/images/common/logos/AdvanceLocal_horizontal.svg?d=1388)](https://www.advancelocal.com/)
+[![Advance Local logo](/pf/resources/images/common/logos/AdvanceLocal_horizontal.svg?d=1354)](https://www.advancelocal.com/)
 
-Use of and/or registration on any portion of this site constitutes acceptance of our [User Agreement](https://www.al.com/user-agreement/), (updated 8/1/2024) and acknowledgement of our [Privacy Policy](https://www.al.com/privacy-policy/), and [Your Privacy Choices and Rights](https://www.al.com/privacy-policy/#rights_top) (updated 7/1/2024).
+Use of and/or registration on any portion of this site constitutes acceptance of our [User Agreement](https://www.al.com/user-agreement/) (updated 7/1/2024), [Privacy Policy and Cookie Statement](https://www.al.com/privacy-policy/), and [Your Privacy Choices and Rights](https://www.al.com/privacy-policy/#rights_top) (updated 7/1/2024).
+
+Cookie Settings![California Consumer Privacy Act (CCPA) Opt-Out Icon](/pf/resources/images/common/icons/privacyoptions29x14.png?d=1354)
 
 © 2024 Advance Local Media LLC. All rights reserved ([About Us](https://www.al.com/aboutus/)).  
 The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Advance Local.
 
 [Community Rules](https://www.al.com/communityrules/) apply to all content you upload or otherwise submit to this site.
 
-**YouTube's privacy policy** is available [here](https://policies.google.com/privacy "YouTube Privacy Policy") and **YouTube's terms of service** is available [here](https://www.youtube.com/t/terms "YouTube Terms of Service").
+**YouTube’s privacy policy** is available [here](https://policies.google.com/privacy "YouTube Privacy Policy") and **YouTube’s terms of service** is available [here](https://www.youtube.com/t/terms "YouTube Terms of Service").
 
-[![Ad Choices icon](/pf/resources/images/common/logos/ad-choices-arrow.png?d=1388)Ad Choices](https://www.al.com/privacy-policy/#oba_top)
+[![Ad Choices icon](/pf/resources/images/common/logos/ad-choices-arrow.png?d=1354)Ad Choices](https://www.al.com/privacy-policy/#oba_top)
