@@ -1,5 +1,3 @@
-;
-
 [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2755%27%20height=%2755%27/%3e)![tga-logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
 ![tga-logo](https://cdn.thegameawards.com//frontend/svgs/tga_icon_2023.svg)
