@@ -12,7 +12,6 @@
 * [Identity](https://www.ui.com/identity "Accessory")
 
 * [Support](https://help.ui.com/hc/en-us "Support")
-* [Store](https://store.ui.com/ "BUY")
 * 1. [Log In](https://account.ui.com/login "Log In")
     2. [Sign Up](https://account.ui.com/register "Sign Up")
     3. [UniFi Site Manager](https://account.ui.com/login?redirect=https%3A%2F%2Funifi.ui.com%2F "UniFi Site Manager")
@@ -45,7 +44,7 @@
     * [UISP Carrier Platform](https://uisp.com/eu/?s=eu)
 * [Social](# "Social")
     * [Facebook](https://facebook.com/uieverywhere/ "Facebook")
-    * [Twitter](https://twitter.com/ubiquiti "Twitter")
+    * [X](https://x.com/ubiquiti "Twitter")
     * [YouTube](https://www.youtube.com/user/ubnt?feature=watch "YouTube")
     * [Instagram](https://www.instagram.com/ubiquiti/ "Instagram")
 * [Company](# "Company")
