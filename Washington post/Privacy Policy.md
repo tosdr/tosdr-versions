@@ -9,13 +9,11 @@
 Privacy Policy
 ==============
 
-Sorry, a summary is not available for this article at this time. Please try again later.
-
 By The Washington Post
 
-Updated June 28, 2024 at 10:15 a.m. EDT|Published January 1, 2021 at 12:00 a.m. EST
+Updated August 12, 2024 at 3:54 p.m. EDT|Published January 1, 2021 at 12:00 a.m. EST
 
-_Published: 06/28/2024_
+_Published: 08/12/2024_
 
 This Privacy Policy (or “Policy”) explains how WP Company LLC (“**The Washington Post**,” “**we,**” or “**us**”) collects, uses, and discloses information about you when you use our sites, mobile and tablet apps, and other online products and services that link to this Policy; subscribe to our print newspaper; receive our emails and newsletters; and attend our events (collectively, the “**Services**”) or when you otherwise interact with us or receive a communication from us related to the Services. For certain Services we may provide you with additional privacy information that supplements this Policy. Other Washington Post services may refer to a different privacy policy, and for those products or services this Policy does not apply.
 
@@ -59,31 +57,32 @@ _**Information We Collect**_
     * _Demographic information_ such as year of birth, gender, general location such as city or state;
     * _Professional Information_ such as job title, industry, and education; and
     * _Payment information_ such as your credit card number (processed by our third-party payment processor) and expiration date, where appropriate to process a financial transaction that you have requested.
-* Submit Content to the Services or Interact with Content.
-    * _User-Generated Content_ such as comments on articles, content in message boards, images, photos, videos, online ads you post, or other content you provide to the Services. Please review our [Discussion and Submission Guidelines](http://www.washingtonpost.com/wp-srv/interactivity/policy/discussion_policy.html?itid=lk_inline_manual_26) for more information about our practices applicable to content that you submit to certain areas of our Services.
+* Submit Content to the Services or Interact with Content on our Services.
+    * _User-Generated Content_ such as comments on articles, responses to surveys, content in message boards, images, photos, videos, online ads you post, or other content you provide to the Services. Please review our [Discussion and Submission Guidelines](http://www.washingtonpost.com/wp-srv/interactivity/policy/discussion_policy.html?itid=lk_inline_manual_26) for more information about our practices applicable to content that you submit to certain areas of our Services.
     * _Actions You Take Related to Content_ such as sharing content; customizing newsletters, notifications, and alerts; and liking, replying to, or reporting (and providing additional information regarding) comments.
+    * _Engagement with Interactive Content on the Service_ such as responses to questions, surveys, and quizzes; selection of interests; searches for recommendations; utilization of interactive data and maps; and clicks on such interactive content.
 * Contact Us or Provide Feedback.
     * _Contact information_ such as your name, e-mail address, street address, and phone number;
-    * _Comments, requests, and questions_ you submit through customer service interactions with us; and
+    * _Contents of communications with us,_ such as comments, requests, and questions you submit through customer service interactions with us and recordings of calls when you call customer service; and
     * _Survey responses_, which may include your interests, opinions, and information about you including demographic information. From time to time our surveys offer you the option to voluntarily provide information that may be considered sensitive under applicable law such as your race or ethnicity. We process such information for disclosed purposes as permitted by and in compliance with applicable law.
 
-**Automatically Collected Information.** We (and service providers on our behalf) automatically collect certain information about your use of the Services or your device. For example, we may collect:
+**Automatically Collected Information.** We (and service providers on our behalf) automatically collect certain information about your use of the Services or your device. For example, we collect:
 
 Advertisement
 
 * _Device information_ such as hardware model, IP address, device identifiers, operating system, browser type and settings (like language and available font settings) and settings of the device you use to access the Services.
-* _Usage information_ such as the Services you use, the time and duration of your use, and other information about your interaction with content, such as the articles you read, where you click on our site, customer service interactions, cursor movements, and certain screen interactions and images (please note we do not capture personal information that you type into form fields (e.g., name or email address) before you submit such information), and how you interact with our emails.
+* _Usage information_ such as the Services you use, the time and duration of your use, and other information about your interaction with content, such as the articles you read, where you click on our site (including on interactive content), customer service interactions, cursor movements, and certain screen interactions and images (please note we do not capture personal information that you type into form fields (e.g., name or email address) before you submit such information), and how you interact with our emails.
 * _Location information_ such as general location derived from your computer’s IP address, your mobile device’s GPS signal, or information about nearby WiFi access points and cell towers that may be transmitted when you use certain Services.
 
-We and our service providers may use cookies, web beacons, and other tracking technologies to collect such information. See our [Cookie Notice](https://www.washingtonpost.com/cookie-policy/?itid=lk_inline_manual_34&itid=lk_inline_manual_27) for more information about these technologies.
+We and our service providers use cookies, web beacons, and other tracking technologies to collect such information. See our [Cookie Notice](https://www.washingtonpost.com/cookie-policy/?itid=lk_inline_manual_34&itid=lk_inline_manual_27) for more information about these technologies.
 
-**Information From Third-Party Sources.** We may receive online or offline information about you from other sources, which we may combine with other information we receive from or about you. For example, we receive information from:
+**Information From Third-Party Sources.** We may receive online or offline information about you from other sources, which we combine with other information we receive from or about you. For example, we receive information from:
 
 * _Other Users_, including your contact information if they provide you a gift subscription.
 * _Enterprise Subscribers,_ such as your employer or educational institution who provide us with your email address so you can register an account and use the Services.
 * _Publicly and commercially available sources_, as permitted by law, including contact information, demographic and professional data, and interests.
 * _Social Media Services,_ if you interact with us through a social media service or log in using social media credentials. Depending on your social media settings, we may have access to your information from that service, such as your name, email address, friend or followers/following list, profile and demographic information, current city, comments about or reactions to our Services, and the people/sites you follow.
-* _Data analytics providers and advertising partners,_ including usage information, and information about your activity and transactions on other websites or platforms or with other companies.
+* _Data analytics providers and advertising partners,_ including usage information, demographic information, information about your activity and transactions on other websites or platforms or with other companies, and inferred interests about you.
 
 **Other Information We Collect.** We also may collect other information about you, your device, or your use of the services in ways that we describe to you at the point of collection or otherwise with your consent. You may choose not to provide us with certain types of information but doing so may affect your ability to use some of the Services. We also collect information from suppliers, business partners, and similar businesses, including: contact and business information such as name, phone number, email address, and postal address, government identifier, and business name, industry, locations, other information related to your employer; financial and transactional information if needed to make or receive payments; and, communications with us including your name, email address, and phone number and the contents of any communications you have with us.
 
@@ -91,33 +90,33 @@ Advertisement
 
 _**How We Use Information**_
 
-We may use your information:
+We use your information:
 
 **To Provide and Manage the Services**, including to:
 
 * provide account access, process your registrations and subscriptions, send you electronic newsletters, and/or enable you to participate in the features (such as commenting) provided by the Services;
 * complete your payments and transactions;
-* provide customer service;
+* provide customer service, including using automated tools to assess customer sentiment and how to serve you better;
 * understand and resolve technical issues, app crashes and other issues being reported;
-* personalize the Services, including content and recommendations (including via email). Through such features, we are able to bring you information and content tailored to your individual interests and needs.
+* personalize the Services, including content and recommendations (including via email). Through such features, we are able to bring you information and content (including articles and interactive content) tailored to your individual interests and needs.
 
-**To Contact You.** We may periodically contact you with Services-related updates, new features you are entitled to access, legal information, customer service communications, newsletters and alerts (where applicable, based on your registrations and preferences), surveys, offers, promotions, and other information that may be of interest to you.
+**To Contact You.** We periodically contact you with Services-related updates, new features you are entitled to access, legal information, and customer service communications; depending on your settings and selections, we may also contact you with newsletters and alerts (where applicable, based on your registrations and preferences), surveys, offers, promotions, and other information that may be of interest to you.
 
 **To Better Understand Our Readers and Users and Improve our Services.** We analyze our users’ interactions with the Services along with demographics, interests, and other information to better understand and serve our users and to improve our Services.
 
-**To Deliver and Measure Advertising, Including Targeted Advertising.** We and third parties may use your information to deliver you ads, promotions, and offers that may be personalized to you, and to measure the placement, frequency, efficacy, and compliance of advertising and ad impressions (including contextual and targeted ads). The ads are for us and third-party advertisers and appear both on and off the Services.
+**To Deliver and Measure Advertising, Including Targeted Advertising.** We and third parties use your information to deliver you ads, promotions, and offers that, depending on your settings, may be personalized to you, and to measure the placement, frequency, efficacy, and compliance of advertising and ad impressions (including contextual and targeted ads). These ads are for our services and for third-party advertisers and appear both on and off the Services.
 
 Advertisement
 
-We and third parties may use cookies and other tracking technologies to understand how you use the Services and facilitate serving relevant ads. This helps us determine if you have seen an ad before, tailor ads to you, including based on your activity, and avoid showing you duplicate ads. See our [Cookie Notice](https://www.washingtonpost.com/cookie-policy/?itid=lk_inline_manual_56&itid=lk_inline_manual_53) for more information about how we use cookies and other tracking technologies and for your cookie choices, including how to opt out of personalized advertising.
+We and third parties use cookies and other tracking technologies to understand how you use the Services and facilitate serving relevant ads. This helps us determine if you have seen an ad before, tailor ads to you, including based on your activities on and off the services, and avoid showing you duplicate ads. See our [Cookie Notice](https://www.washingtonpost.com/cookie-policy/?itid=lk_inline_manual_56&itid=lk_inline_manual_53) for more information about how we use cookies and other tracking technologies and for your cookie choices, including how to opt out of personalized advertising.
 
-We may also use other information we have collected about you, such as demographic and personal information (e.g., e-mail address) for purposes related to advertising, including personalized advertising.
+We also use other information we have collected, such as demographic and personal information (e.g., e-mail address) for purposes related to advertising, including personalized advertising.
 
-**To Protect the Rights of the Services and Others.** We may use your information that we, in good faith, believe is necessary or appropriate to secure, protect, enforce, or defend the legal rights, privacy, safety, or property of the Services, its employees or agents, or other users, and to comply with applicable law and legal process.
+**To Protect the Rights of the Services and Others.** We use your information if we, in good faith, believe is necessary or appropriate to secure, protect, enforce, or defend the legal rights, privacy, safety, or property of the Services, its employees or agents, or other users, and to comply with applicable law and legal process.
 
 Advertisement
 
-**With Consent.** We may otherwise use your information with your consent or at your direction.
+**With Consent.** We use your information with your consent or at your direction.
 
 _**How We Disclose Information**_
 
@@ -127,18 +126,18 @@ We may disclose your information to:
 * **Business Partners** to provide you with services that you participate in or request, such as co-sponsors of a promotion that runs on our Services. We are not responsible for the privacy practices of these entities.
 * **Service Providers** that provide services on our behalf, such as hosting vendors, analytics or advertising service providers, list managers and payment processors.
 * **Other Parties When Required by Law or As Necessary to Protect Our Users and Services** including as we believe is necessary or appropriate to protect, enforce, or defend the legal rights, privacy, safety, or property of the Services, our employees or agents or users, or to comply with applicable law or legal process, including responding to requests from public and government authorities.
-* **Social Media Services,** if you log into the Services with a social media service or if you connect a social media account with the Services. In that case, we may disclose certain of your personal information to that social media service depending on your settings. The social media service’s privacy policy then applies to their practices regarding your information.
-* **Third Parties that Provide Advertising, Content, or Other Functionality.** Third parties may collect or receive certain information about you and/or your use of the Services to provide ads (including targeted ads), content, or functionality, or to measure and analyze ad performance, on our Services or other websites or platforms.
-    * We may share or allow third parties to collect device information (e.g., browser type, IP address, or device ID), usage information, or click information obtained through cookies or other tracking technologies. Some of this information may be combined with information collected across different websites, online services, and other linked or associated devices. We try to limit how our third parties can use the information they gather from you or that we provide. However, some advertising and analytics vendors may combine information they gather about you through our Services with information they receive from others in order to target ads to you across other services and to improve their own services. Our [Cookie Notice](https://www.washingtonpost.com/cookie-policy/) provides more information about how these technologies are used.
+* **Social Media Services,** if you log into the Services with a social media service or if you connect a social media account with the Services. In that case, we disclose certain of your personal information to that social media service depending on your settings. The social media service’s privacy policy then applies to their practices regarding your information.
+* **Third Parties that Provide Advertising, Content, or Other Functionality.** Third parties collect or receive certain information about you and/or your use of the Services to provide ads (including targeted ads), content, or functionality, or to measure and analyze ad performance, on our Services or other websites or platforms.
+    * We share or allow certain third parties to collect device information (e.g., browser type, IP address, or device ID), usage information, or click information obtained through cookies or other tracking technologies. Some of this information is combined with information collected across different websites, online services, and other linked or associated devices. We try to limit how our third parties can use the information they gather from you or that we provide. However, some advertising and analytics vendors combine information they gather about you through our Services with information they receive from others in order to target ads to you across other services and to improve their own services. Our [Cookie Notice](https://www.washingtonpost.com/cookie-policy/) provides more information about how these technologies are used.
     * We may also disclose information, including personal information about you (e.g., e-mail address) in hashed or other obscured format, for advertising purposes, including targeted advertising, either on our Services or for our products on other websites or platforms. Recipients may only use this information for the purposes for which it is provided.
 * **Other Parties in Connection with a Corporate Transaction.** We may disclose information we have about you in the event that we sell or transfer all or a portion of our business or assets to a third party, such as in the event of a merger, acquisition, or in connection with a bankruptcy reorganization, or in contemplation of or due diligence related to such a corporate transaction.
-* **Otherwise With Your Consent or At Your Direction.** We may also disclose information about you with third parties whenever you consent to or direct such sharing.
+* **Otherwise With Your Consent or At Your Direction.** We also disclose information about you to third parties whenever you consent to or direct such sharing.
 
-We also may disclose other information with third parties in a manner that does not identify particular users, including, for example, aggregated data about how users are using our Services.
+We also disclose other information with third parties in a manner that does not identify particular users, including, for example, aggregated data about how users are using our Services.
 
 _**Third-Party Content and Links**_
 
-Our Services may embed content from, or link to, third-party websites and services, including social media platforms, that are outside of our control. We are not responsible for their practices and this Privacy Policy does not govern those third parties’ content, services, or use of your information.
+Our Services embed content from, or link to, third-party websites and services, including social media platforms, that are outside of our control. We are not responsible for their practices and this Privacy Policy does not govern those third parties’ content, services, or use of your information.
 
 _**Account Management, Privacy Rights, & Other Choices**_
 
@@ -150,12 +149,12 @@ Advertisement
 
 **Privacy Rights.** Depending on where you live, you may have certain rights with respect to your information.
 
-* California, Colorado, Connecticut, Oregon, Texas, Utah and Virginia residents, in addition to residents of the EEA, UK, or Switzerland, may be able to request:
+* California, Colorado, Connecticut, Montana, Oregon, Texas, Utah and Virginia residents, in addition to residents of the EEA, UK, or Switzerland, may be able to request:
     * access to and/or a copy of certain personal information we hold about you;
     * correction of inaccurate information that we have about you;
     * deletion of certain personal information we have collected from you; and/or
     * provide information about financial incentives that we offer to you, if any.
-* California, Colorado, Connecticut, Oregon, Texas, Utah and Virginia residents also have opt out rights described below.
+* California, Colorado, Connecticut, Montana, Oregon, Texas, Utah and Virginia residents also have opt out rights described below.
 * California and Oregon residents can also request information about the categories of personal information we collect, disclose or sell or share about you. California residents can request the categories of sources of such information; the business or commercial purpose for collecting or selling or sharing your personal information; and the categories of third parties to whom we disclose personal information. Such information is also set forth in this Privacy Policy. Oregon residents can request a list of the specific third parties, other than natural persons, to which we have disclosed personal information. Residents of certain other countries may be able request one or more of the above under applicable law.
 
 Share this articleShare
@@ -168,17 +167,17 @@ If you would like information regarding your rights or would like to make a requ
 * Certain information may be exempt from such requests under applicable law such as information we retain for legal compliance and to secure our Services. We may need certain information in order to provide the Services to you; if you ask us to delete it, you may no longer be able to use the Services.
 * Applicable law may further provide you with the right to not be discriminated against for exercising your rights.
 * If you have enabled a legally recognized browser-based opt out preference signal (such as Global Privacy Control) on your browser, we recognize such preference in accordance and to the extent required by applicable law.
-* Oregon, Texas, Virginia, Colorado, and Connecticut residents may appeal the denial of a request here: please click [here](https://helpcenter.washingtonpost.com/hc/en-us/requests/new?ticket_form_id=360000603931&itid=lk_inline_manual_113&itid=lk_inline_manual_108&itid=lk_inline_manual_95) or email us at [privacy@washpost.com](mailto:privacy@washpost.com).
+* Montana, Oregon, Texas, Virginia, Colorado, and Connecticut residents may appeal the denial of a request here: please click [here](https://helpcenter.washingtonpost.com/hc/en-us/requests/new?ticket_form_id=360000603931&itid=lk_inline_manual_113&itid=lk_inline_manual_108&itid=lk_inline_manual_95) or email us at [privacy@washpost.com](mailto:privacy@washpost.com).
 
-**Opt Out of Sale of Personal Information or Sharing or Processing of Personal Information for Targeted Advertising (California, Colorado, Connecticut, Oregon, Texas, Utah and Virginia Residents Only).**
+**Opt Out of Sale of Personal Information or Sharing or Processing of Personal Information for Targeted Advertising (California, Colorado, Connecticut, Montana, Oregon, Texas, Utah and Virginia Residents Only).**
 
 Advertisement
 
-If you are a California, Colorado, Connecticut, Oregon, Texas, Utah or Virginia resident, you may opt out of certain processing of your personal information, including for targeted advertising, under applicable law. Targeted advertising is when we or our partners display ads to you based on your personal information that is collected across different businesses.
+If you are a California, Colorado, Connecticut, Montana, Oregon, Texas, Utah or Virginia resident, you may opt out of certain processing of your personal information, including for targeted advertising, under applicable law. Targeted advertising is when we or our partners display ads to you based on your personal information that is collected across different businesses.
 
 We and our advertising partners collect certain information from our visitors, such as device identifiers, cookies, advertising IDs, IP addresses and usage activity. We and our ad partners share this information with third parties or combine it with information from other businesses to deliver more relevant (targeted) ads to you and for related advertising activities. We may also share or use hashed contact information for this purpose. This activity is known as “sharing” or processing your personal information for targeted ads and may be considered “selling” your personal information under applicable law.
 
-If you (or in applicable states, your authorized agent) would like to opt out of our use or disclosure of your information for such purposes, you can follow the steps at [Your Privacy Choices](https://www.washingtonpost.com/my-post/privacy-settings?itid=lk_inline_manual_102). Note, if you use a cookie blocker such as Ghostery, it may block visibility of this tool or link, including in your web footer.
+If you (or in applicable states, your authorized agent) would like to opt out of our use or disclosure of your information for such purposes, you can follow the steps at [Your Privacy Choices](https://www.washingtonpost.com/my-post/privacy-settings?itid=lk_inline_manual_102). Note, if you use a cookie blocker such as Ghostery, it may block visibility of this tool or link, including in your web footer. See our [Cookie Notice](https://www.washingtonpost.com/cookie-policy/?itid=lk_inline_manual_102) for more information about how we use cookies and other choices you have.
 
 Advertisement
 
@@ -192,15 +191,15 @@ _**Jurisdiction-Specific Privacy Information**_
 
 _**Additional Information for California Residents**_
 
-If you are a California resident, the California Consumer Privacy Act (“CCPA”) requires us to provide you with some additional information.
+If you are a California resident, the California Consumer Privacy Act (“CCPA”) requires us to provide you with some additional information. Depending on how you use the Services:
 
-* We may collect, use, and disclose for our business and commercial purposes, the following categories of information about you or your use of the Services:
+* We collect, use, and disclose for our business and commercial purposes, the following categories of information about you or your use of the Services:
     * Identifiers (such as name, address, email address); commercial information (such as transaction data); financial data (such as credit card information); user-generated content; device information and identifiers (such as IP address); internet or other network or device activity (such as browsing history or app usage); professional and employment related information; location data; audio or visual information (such as if you participate in a phone survey or submit a photo); demographic data (such as gender); inference data; and other information that identifies or can be reasonably associated with you.
     * Please see [Information We Collect](https://www.washingtonpost.com/privacy-policy/#INFORMATIONWECOLLECT) above for more information
-* We may use the above categories of information:
+* We use the above categories of information:
     * to provide and manage the Services you request; to contact you; to deliver advertising; to better understand our readers and users and improve our Services; for bug detection and error reporting; to audit consumer interactions on the Services; to protect the rights of the Services and with your consent.
     * Please see How We Use Information above for more information.
-* We may disclose
+* We disclose
     * any of the above categories of information we collect with: our affiliates; business partners to provide you with services that you request; service providers; other parties, including government entities, when required by law or to protect our users and services; social media services pursuant to that service and your settings; and with your consent or in connection with a corporate transaction.
     * commercial information and financial data, including your payment information, with payment processors and service providers, and
     * device information and identifiers and internet or other network or device activity with entities that provide content, advertising, and functionality.
