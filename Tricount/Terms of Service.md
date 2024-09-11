@@ -9,161 +9,391 @@ Terms & Conditions
 
 [![](https://framerusercontent.com/images/yfHppRSMMm5Ph44mPfACixMWP3s.svg)](https://www.tricount.com/)
 
-[Get started](https://www.tricount.com/discover)
+Get started
 
 [![](https://framerusercontent.com/images/yfHppRSMMm5Ph44mPfACixMWP3s.svg)](https://www.tricount.com/)
 
-[Get started](https://www.tricount.com/discover)
+Get started
 
 [![](https://framerusercontent.com/images/yfHppRSMMm5Ph44mPfACixMWP3s.svg)](https://www.tricount.com/)
 
-[Get started](https://www.tricount.com/discover)
+Get started
 
 #### Table of contents
 
-Title
+1\. Introduction
 
-Title
+1\. Introduction
 
-Title
+1\. Introduction
 
-Tricount Terms of Use are currently only available in French, Dutch and English. By using Tricount, you agree to these terms.
+2\. Acceptance of our Terms of Use
 
-Introduction
-------------
+2\. Acceptance of our Terms of Use
+
+2\. Acceptance of our Terms of Use
+
+3\. Definitions
+
+3\. Definitions
+
+3\. Definitions
+
+4\. Intellectual property rights
+
+4\. Intellectual property rights
+
+4\. Intellectual property rights
+
+5\. Summary description of the product
+
+5\. Summary description of the product
+
+5\. Summary description of the product
+
+6\. Tips for optimal use of the tool
+
+6\. Tips for optimal use of the tool
+
+6\. Tips for optimal use of the tool
+
+7\. Appropriate framework of use
+
+7\. Appropriate framework of use
+
+7\. Appropriate framework of use
+
+8\. Conditions of access
+
+8\. Conditions of access
+
+8\. Conditions of access
+
+9\. Warning
+
+9\. Warning
+
+9\. Warning
+
+10\. Specific warning regarding the use of the IBAN
+
+10\. Specific warning regarding the use of the IBAN
+
+10\. Specific warning regarding the use of the IBAN
+
+11\. Suspension and interruption of access to services
+
+11\. Suspension and interruption of access to services
+
+11\. Suspension and interruption of access to services
+
+12\. Leaving Tricount a Profile or Account
+
+12\. Leaving Tricount a Profile or Account
+
+12\. Leaving Tricount a Profile or Account
+
+13\. Permanently deleting an Account on Tricount
+
+13\. Permanently deleting an Account on Tricount
+
+13\. Permanently deleting an Account on Tricount
+
+14\. Respect for privacy
+
+14\. Respect for privacy
+
+14\. Respect for privacy
+
+15\. Advertising
+
+15\. Advertising
+
+15\. Advertising
+
+16\. Subscribing to additional features
+
+16\. Subscribing to additional features
+
+16\. Subscribing to additional features
+
+17\. Multi-currencies
+
+17\. Multi-currencies
+
+17\. Multi-currencies
+
+18\. Governing law and jurisdiction
+
+18\. Governing law and jurisdiction
+
+18\. Governing law and jurisdiction
+
+**Terms of Use**
+----------------
+
+### **1\. Introduction**
 
 These terms (hereinafter referred to as "Terms of Use") apply to your use of the Tricount website and application.
 
-The website and the application are owned and operated by Tricount S.A., whose registered office is located at Av. Arnaud Fraiteur 15/23, 1050 Ixelles (Belgium) and is a company registered with the Crossroads Bank for Enterprises (RPM Brussels) under number 0508.560.013, and whose VAT number is BE 0508.560.013 (hereinafter referred to as "Tricount", "we", "us" or "our").
+The Tricount website and application “Tricount” are owned and operated by bunq B.V. (hereinafter referred to as "bunq", "we", "us" or "our"). bunq’s registered office is located at Naritaweg 131 1043 BS (Amsterdam). bunq is registered with the Amsterdam Chamber of Commerce (www.kvk.nl; number 5499206), the AFM (www.afm.nl; number 12043457) and DNB (www.dnb.nl; number R127999). Tricount as described in these Terms of Use is in principle not subject to AFM or DNB supervision. When opting for additional services as described below, DNB or AFM supervision may apply. 
 
-Acceptance of our Terms of Use
-------------------------------
+### **2\. Acceptance of our Terms of Use**
 
-Access to the services offered by Tricount will only be subject to acceptance of the terms described below which Tricount is free to modify at any time and without prior notice. The use of our services involves the processing of your information as described in our [privacy policy](https://www.tricount.com/privacy). We encourage you to read them. The user is invited to refer regularly to the latest version of these terms permanently available at the following address: https://www.tricount.com/en/terms
+Access to Tricount will be subject to acceptance of the terms described below, which bunq is free to modify at any time. In case of material changes we will inform you. If you do not wish to be bound by the changes, you can terminate your use of Tricount. 
 
-This version of the Terms of Use dates from 27 July 2023
+bunq will only make these changes for valid reasons, such as new technical developments, changes in case law, or other equivalent reasons. If the change significantly disrupts the relationship between you and bunq, the change will require your consent.
 
-Definitions
------------
+We encourage you to read the latest version of these terms available at the following address:  https://www.tricount.com/en/terms
 
-In this text “shared account”, “account(s)” and “tricount” have equivalent meanings.
+This version of the Terms of Use dates from 27 August 2024
 
-Intellectual rights
--------------------
+### **3\. Definitions**
 
-The concept of shared accounts on the Internet or in a mobile application without strict identification (i.e. without a password and login), expressed here under the name “tricount” is protected by copyright. The name Tricount and all its logos are registered trademarks. It is not permitted to use these trademarks for any personal purpose whatsoever. The user of Tricount undertakes not to reproduce, copy, sell, trade or transfer all or part of the services of Tricount, under any pretext. The user also undertakes not to hide or modify our services (such as the Tricount trademark or advertising).
+In this text the following terms shall have the following meaning: 
 
-Summary description of the product
-----------------------------------
+Tricount: the Tricount website and application “Tricount”;
 
-Tricount is a tool for balancing expenses between friends, for example, during or after a group activity (Tricount allows you to settle your accounts among friends) Tricount allows you to specify expenses in order to calculate what each person owes accordingly.
+Account: a shared account users of Tricount use to balance expenses in relation to a specific activity or project
 
-Tricount is available online on www.tricount.com website, but also via mobile applications. Accounts can be shared between friends via a sharing link. Tricount’s mobile applications also allow you to balance your expenses without being connected to the Internet). Tricount also facilitates payments and refunds at the end of accounts by integrating with partner solutions, but without participating in transactions.
+Profile: a user’s profile for the use of Tricount.Account.
 
-Tips for optimal use of the tool
---------------------------------
+### **4\. Intellectual property rights**
 
-Always balance accounts within a sufficiently short period of time after the activity to which the accounts relate, so that all account participants can remember all their expenses.
+Our product, that offers shared Accounts on the internet or in a mobile application without strict identification (i.e. without a password and login), referred to here as “tricount” is protected by copyright. The name “Tricount” and all Tricount logos are registered trademarks. It is not permitted to use these trademarks for any commercial or personal purpose whatsoever. The user of Tricount undertakes not to reproduce, copy, sell, trade or transfer all or part of Tricount, under any pretext. The user also undertakes not to hide or modify our services (such as the Tricount trademark or advertising).
 
-The hypertext link allowing access to the tricount must only be forwarded to persons who are personally involved with the accounts and deemed sufficiently responsible. Consider this link as the only “key” to access the shared account.
+### **5\. Summary description of the product**
 
-Although not limited, it is advisable to use a tricount for a reasonable period of time (corresponding to a group activity) and a reasonable transaction volume (+/- 100 transactions).
+Tricount is a tool for balancing expenses between friends, for example, during or after a group activity (Tricount allows you to settle your Accounts among friends). Tricount allows you to specify expenses in order to calculate what each person owes accordingly.
 
-Appropriate framework of use
-----------------------------
+Tricount is available online on the www.tricount.com website, but also via mobile applications. Accounts can be shared between friends via a sharing link. The Tricount mobile applications also allow you to balance your expenses without being connected to the internet. In addition, Tricount facilitates payments and refunds at the end of Accounts by integrating with partner solutions, but without participating in transactions.
 
-Tricount is suitable only for family or friendly use, i.e. for use between members of the same family or between friends. Trust must exist in the group throughout the use of a tricount. You will therefore use Tricount only because you have gone on vacation or have participated in a group activity with friends or family (leisure), because you want to balance expenses incurred in this context.
+### **6\. Tips for optimal use of the tool**
 
-Conditions of access
---------------------
+Always balance Accounts within a sufficiently short period of time after the activity to which the Accounts relate, so that all Account participants can remember all their expenses.
 
-You may not use Tricount if the laws of the applicable jurisdiction prohibit you from receiving services as offered by us, if we have previously banned your account for breach of these terms, or if you are not of an age to agree to the Terms of Use.
+The hypertext link allowing access to the Account must only be forwarded to persons who are personally involved with the Account and deemed sufficiently responsible. Consider this link as the only “key” to access the shared Account.
 
-The Service is not intended for persons under the age of 16, and we ask these individuals not to provide personal information through the Service. If your child has submitted personal information and would like to request that this personal information be deleted, please contact us at [privacy@tricount.com](mailto:privacy@tricount.com) or by post at Avenue Arnaud Fraiteur 15-23 B-1050, Brussels, Belgium.
+Although not limited, it is advisable to use an Account for a reasonable period of time (corresponding to a group activity) and a reasonable transaction volume (+/- 100 transactions).
 
-As a user of Tricount, you must at all times: provide correct data to Tricount and to the group participating in the accounts; always check the information that concerns you.
+### **7\. Appropriate framework of use**
 
-As a user of Tricount, you expressly undertake to NEVER: convey content that is illegal, harmful, threatening, abusive, harassing, defamatory, vulgar, obscene, threatening to the privacy of others, hateful, racist or otherwise objectionable; convey content infringing a patent or registered trademark; harm other users in any way; harass another user or users in any way; attempt to deceive or mislead other users; use Tricount in email chains (“hoax” type); intentionally interfere with or disrupt our services; use Tricount in a way that is contrary to Belgian law; violate, intentionally or not, any national or international law or regulation in force and all other rules having the force of law; reproduce, copy, sell, resell, or exploit for any commercial purpose whatsoever any part or use of our services, any right of access to our services.
+Tricount is suitable only for family or friendly use, i.e. for use between members of the same family or between friends. Trust must exist in the group throughout the use of an Account.  Tricount is intended for “personal” use, for example because you have gone on vacation or have participated in a group activity with friends or family (leisure) and you want to balance shared expenses incurred in this context.
 
-Tricount is in no way responsible for the accuracy or precision of the data entered by you or your friends in Tricount (expenses as well as the names of the participants in the accounts). Tricount will not act as an arbitrator within your group and cannot be held responsible for the inaccuracy of certain data. Tricount should be seen as a consensus tool for making calculations relating to accounts between friends AND NOT AS a tool for storing the expenses history. Under no circumstances may Tricount be held responsible in any way whatsoever for direct or indirect damage resulting from: improper use of its services, use of its services deemed illegal or fraudulent, inaccuracy of data on a shared account (a tricount), erroneous results provided by its services, temporary or permanent unavailability of its services due to a failure of its services, any cause related to its services.
+### **8\. Conditions of access**
 
-Warning
--------
+You may not use Tricount if the laws of the applicable jurisdiction prohibit you from receiving services as offered by us, if we have previously banned your Account, or if you are not of an age to agree to the Terms of Use.
 
-A tricount must NEVER be considered as amounting to a contract in the eyes of users. For proper functioning of the tool, it is important that those with access to the same tricount (friends, family, colleagues) are morally or contractually linked to each other.
+Tricount is not intended for persons under the age of 16, and we ask individuals under the age of 16 not to provide personal information to us. If your child has submitted personal information and would like to request that this personal information be deleted, please contact us at privacy@tricount.com.
 
-An http link provides access to tricount. This link is unique and cannot be changed. This link gives read and write access to tricount. IT IS IMPORTANT TO NEVER COMMUNICATE THIS LINK TO PEOPLE WHO ARE NOT DIRECTLY INVOLVED IN THE ACCOUNTS OR WHO YOU DEEM IRRESPONSIBLE!
+As a user of Tricount, you must at all times provide correct data to Tricount and to the group participating in the Accounts; always check the information that concerns you.
 
-This link should be treated as the access link to your tricount and must be treated with care. In particular, it is strongly advised not to publish it anywhere, especially on social media or in forums.
+As a user of Tricount, you expressly undertake to NEVER: convey content that is illegal, harmful, threatening, abusive, harassing, defamatory, vulgar, obscene, threatening to the privacy of others, hateful, racist or otherwise objectionable; convey content infringing a any right of intellectual property; harm others in any way; harass others in any way; attempt to deceive or mislead others; use Tricount in email chains (“hoax” type); intentionally interfere with or disrupt our services; use Tricount in a way that is contrary to any applicable law; violate, intentionally or not, any national or international law or regulation in force and all other rules having the force of law; reproduce, copy, sell, resell, or exploit for any commercial purpose whatsoever any part or use of our services, any right of access to our services.
 
-The probability of finding this link “by chance” is almost zero. However, it is not impossible for a stranger to gain access to it: it can be intercepted by a hacker, recovered from the memory of a computer or simply copied in the history of your Internet browser. It is not recommended users store confidential information in a tricount. If a user does so, they will do so at their own risk. If you suspect that a person from outside the group has access to the accounts, abandon the accounts immediately and create new ones! You understand that Tricount cannot be held responsible for use that you or any of your group members make of the link to a shared account.
+bunq is in no way responsible for the accuracy or precision of the data entered by you or your friends in Tricount (expenses as well as the names of the participants in the Accounts). bunq will not act as an arbitrator within your group and cannot be held responsible for the inaccuracy of certain data. Tricount should be seen as a consensus tool for making calculations relating to Accounts between friends and not as a tool for storing the expenses history. Under no circumstances may bunq be held responsible in any way whatsoever for direct or indirect damage resulting from: improper use of its services, use of its services deemed illegal or fraudulent, inaccuracy of data on a shared Account (a tricount), erroneous results provided by its services, temporary or permanent unavailability of its services due to a failure of its services, any cause related to its services.
 
-Specific warning regarding the use of the IBAN
-----------------------------------------------
+### **9\. Warning**
 
-Since version 4.3, Tricount has allowed its connected users to enter their IBAN in the app. The IBAN is provided by the user. As a user, you agree to never provide Tricount with an IBAN that is not yours; you also agree to never attempt to mislead the other participants in a tricount, for example by identifying yourself under a name that is not yours or is recognised by them as not being yours; when you provide an IBAN, you accept that your email address (used to log in) will be shared at the same time as this IBAN, for reasons of transparency.
+An Account on Tricount must never be considered as amounting to a contract in the eyes of users. For proper functioning of the tool, it is important that those with access to the same Account (friends, family, colleagues) are morally or contractually linked to each other.
 
-At no time does Tricount validate that an IBAN is actually the property of the user who entered it: Tricount assumes NO responsibility in this regard, in particular in the event of omission, distraction, bad intention or the manifestly fraudulent intention of any person whatsoever.
+An http link provides access to an Account on Tricount. This link is unique and cannot be changed. This link gives read and write access to the Account. It is important to never communicate the link to people who are not directly involved in the Accounts or who you deem irresponsible!
 
-As a payer, before making a payment to an IBAN entered in Tricount, it is essential that you check that the email address of the person who entered it (indicated just below) is indeed that of the person you want/have to pay. You must also check that it is their bank and, finally, their IBAN. Providing the email and the bank should be seen only as assisting a decisions but, be careful, the decision to use a specific IBAN cannot be made solely on this basis. WHEN YOU USE AN IBAN THAT IS ENTERED IN Tricount, YOU ARE RESPONSIBLE FOR CHECKING BEFOREHAND (THAT IS, BY YOUR OWN MEANS) THAT THIS IS INDEED THE IBAN OF THE PERSON YOU WANT/HAVE TO PAY. In this context, we recommend that you always ask for confirmation of this IBAN, for example, by sending a message outside the Tricount application.
+This link is the access link to your Account and must be treated with care. In particular, it is strongly advised not to publish it anywhere, especially on social media or in forums.
 
-Tricount meets the highest standards of quality and security but, like any app, is not immune from potential technical failure or hacking. As a recipient (person to whom money is owed), if you enter your IBAN in the app, you will do so in full knowledge of the facts. In particular, you will ensure that you communicate or confirm your IBAN to the group outside of Tricount if you or your friends deem this necessary or more prudent.
+The probability of finding a link to an Account on Tricount “by chance” is almost zero. However, it is not impossible for a stranger to gain access to it: it can be intercepted by a hacker, recovered from the memory of a computer or simply copied in the history of the internet browser you used. It is not recommended that users store confidential information in Tricount. If a user does so, they will do so at their own risk. If you suspect that a person from outside the group has access to any Account, we recommend abandoning the Account immediately and creating a new one! You understand that bunq cannot be held responsible for the use that you or any of your group members make of the link to a shared Account.
 
-In case of theft of your smartphone, it is important to contact our support immediately (at support@tricount.com) and to notify the people with whom you share tricounts that your account has probably been corrupted: the “thief” may have changed your IBAN.
+### **10\. Specific warning regarding the use of the IBAN**
 
-AT NO TIME DOES Tricount CARRY OUT CHECKS ON BEHALF OF ITS USERS. Tricount WILL THEREFORE ASSUME NO RESPONSIBILITY IF THE PAYMENT HAS BEEN MADE TO A WRONG ACCOUNT NUMBER.
+Since version 4.3, we have allowed Tricount connected users to enter their IBAN in the app. The IBAN is provided by the user. As a user, you agree to never provide Tricount with an IBAN that is not yours; you also agree to never attempt to mislead the other participants in an Account on Tricount, for example by identifying yourself under a name that is not yours or is recognised by them as not being yours; when you provide an IBAN, you accept that your email address (used to log in) will be shared at the same time as the IBAN, for reasons of transparency.
 
-By accepting these terms, you expressly waive any recourse against Tricount regarding the IBAN sharing feature.
+At no time does Tricount validate that an IBAN actually belongs to the user who entered it: bunq assumes no responsibility in this regard, in particular in the event of omission, distraction, bad intention or the manifestly fraudulent intention of any person whatsoever.
 
-Suspension and interruption of access to services
--------------------------------------------------
+As a payer, before making a payment to an IBAN entered in Tricount, it is essential that you check that the email address of the person who entered it (indicated just below) is indeed that of the person you want/have to pay. You must also check that it is their bank and their IBAN. Providing the email and the bank should be seen only as assisting a decision but, be careful, the decision to use a specific IBAN cannot be made solely on this basis. When you use an IBAN that is entered in Tricount, you are responsible for checking beforehand (that is, by your own means) that this is indeed the IBAN of the person you want/have to pay. In this context, we recommend that you always ask for confirmation of this IBAN, for example, by sending a message outside Tricount.
 
-Tricount has the right to temporarily or permanently stop its services (or any part thereof), to delete or modify them or to introduce new services without prior notice. Tricount reserves the right (but is not obliged to do so) to delete a tricount or to ban one or more users without any justification and without prior notice.
+Tricount meets the highest standards of quality and security but, like any app, is not immune from potential technical failure or hacking. As a recipient (person to whom money is owed), if you enter your IBAN in the app, you must do so in full knowledge of the facts. In particular, you must ensure that you communicate or confirm your IBAN to the group outside of Tricount if you or your friends deem this necessary or more prudent.
 
-Leaving a tricount
-------------------
+In case of theft of your smartphone, it is important to contact our support immediately (at support@tricount.com) and to notify the people with whom you share Accounts on Tricount that your Account has probably been corrupted: the “thief” may have changed your IBAN.
 
-When you delete a tricount from your mobile application and/or user profile (for example because you leave an activity in progress), this does not delete it from the Tricount servers. Indeed, other users may still want to access it. Also, by keeping the tricount access link, you may choose to access it later.
+At no time does bunq carry out checks on behalf of Tricount users. bunq will therefore assume no responsibility if the payment has been made to a wrong Account number.
 
-Permanently deleting a tricount
--------------------------------
+By accepting these terms, you expressly waive any recourse against bunq regarding the IBAN sharing feature.
 
-For the reasons set out in the previous paragraph, it is currently not possible for a user to completely delete a tricount from the Tricount servers.
+### **11\. Suspension and interruption of access to services**
 
-However, it is possible for you to pseudonymise the information present by renaming, for example, the participants in this tricount and/or the expenses with a random character string.
+We have the right to temporarily or permanently stop the provision of Tricount (or any part thereof), to delete or modify any part of our services or to introduce new services. In case of material changes we will inform you prior to implementing the changes. Tricount reserves the right (but is not obliged to do so) to delete an Account on Tricount or to ban one or more users.
 
-When a tricount is not present in any user profile and has not been accessed for at least 24 months, it will be made unavailable. It will be then completely removed within the next 12 months. During that 12 months period, if the tricount is still present in our database, it can be restored by sending a request to our support service.
+### **12\. Leaving Tricount a Profile or Account**
 
-Respect for privacy
--------------------
+You have the right to terminate your use of Tricount at any time. 
 
-In order to provide you with our services, Tricount and bunq B.V. (hereinafter "bunq") collect some of your personal information. A desription of this collection and the use of personal information can be found in our [privacy policy](https://www.tricount.com/privacy). Please refer to this policy before using Tricount. You must be 16 years of age or older to use this service.
+When you delete Tricount, your Profile or an Account from your mobile application and/or user Profile (for example because you leave an activity in progress), this does not delete it from the Tricount servers. Indeed, other users may still want to access it. Also, by keeping the tricount access link, you may choose to access it later.
 
-Advertising
------------
+### **13\. Permanently deleting an Account on Tricount**
 
-Version 8 of the Tricount will contain no general or personalised advertising content and no personal data will be collected for these purposes in this version of the app.
+For the reasons set out in the previous paragraph, it is currently not possible for a user to completely delete a Profile or Account from the Tricount servers.
+
+However, it is possible for you to pseudonymize the information presented by renaming, for example, the participants in an Account and/or the expenses with a random character string.
+
+When an Account is not present in any user Profile and has not been accessed for at least 24 months, it will be made unavailable. It will be completely removed at any moment within the next 12 months (this can also be after 1 day), after making the Account unavailable. During that 12 month period, if the Account is still present in our database, it can be restored by sending a request to our support service.
+
+### **14\. Respect for privacy**
+
+In order to provide you with our services, bunq collects some of your personal information. A description of this collection and the use of personal information can be found in our privacy policy (available at: https://www.tricount.com/privacy). Please read this policy before using Tricount. You must be 16 years of age or older to use this service.
+
+### **15\. Advertising**
+
+As from version 8, Tricount will contain no general or personalized advertising content and no personal data will be collected for these purposes.
 
 Tricount finances itself in whole or in part through advertising (such as Google Admob advertising, for example). Advertising may therefore appear in Tricount services. Advertising management is carried out automatically and could be targeted on the basis of the information we have (language, IP address, advertising identifier). Information allowing advertising targeting is not processed manually.
 
-Subscribing to additional features
-----------------------------------
+### **16\. Subscribing to additional features**
 
-Tricount offers additional features in the form of subscriptions, monthly or annual). These subscriptions are managed by platforms such as Google Play, Apple AppStore or Huawei AppGallery.
+bunq offers additional Tricount features in the form of subscriptions, monthly or annual). These subscriptions are managed by platforms such as Google Play, Apple AppStore or Huawei AppGallery.
 
-bunq and Tricount also offer complementary services. To benefit from these services, you need to use the bunq and Tricount apps. The apps can be downloaded from platforms such as Google Play, Apple AppStore or Huawei AppGallery.
+bunq also offers services complementary to Tricount via the bunq app. To benefit from these services, you need to use the bunq and Tricount apps. You can only use the bunq app (and the complementary services) after completing bunq’s identity verification procedure and accepting bunq’s Terms and Conditions in the bunq app. The apps can be downloaded from platforms such as Google Play, Apple AppStore or Huawei AppGallery.
 
-Subscription is automatically extended unless you have disabled it within 24 hours of the renewal date. The extension of the subscription costs the same amount as the initial subscription. After a purchase, you can disable automatic renewal in your iTunes or Google Play account settings. Please note that a current subscription cannot be cancelled.
+Subscription is automatically extended unless you have disabled it within 24 hours of the renewal date. The extension of the subscription costs the same amount as the initial subscription. After a purchase, you can disable automatic renewal in your iTunes or Google Play Account settings. Please note that a current subscription cannot be canceled. After extension of your subscription, you can terminate your subscription with one month’s notice. 
 
-Multi-currencies
+### **17\. Multi-currencies**
+
+In order to make life easier for its users, particularly abroad, Tricount has offered a multi-currency feature since version 3.7. As part of this service, a “market” exchange rate is provided and updated daily in the app. This exchange rate is provided for information purposes only; the user is free to change it if they wish. Under no circumstances shall bunq be held responsible for an incorrect exchange rate or an inappropriate modification of this exchange rate by a user.
+
+### **18\. Governing law and jurisdiction**
+
+These Terms of Use are governed by the laws of the Netherlands. Any disputes shall be submitted to the exclusive jurisdiction of the courts of Amsterdam.
+
+**Terms of Use**
 ----------------
 
-In order to make life easier for its users, particularly abroad, Tricount has offered a multi- currency feature since version 3.7. As part of this service, a “market” exchange rate is provided and updated daily in the app. This exchange rate is provided for information purposes only; the user is free to change it if they wish. Under no circumstances shall Tricount BE HELD RESPONSIBLE FOR AN INCORRECT EXCHANGE RATE or an inappropriate modification of this exchange rate by a user.
+### **1\. Introduction**
 
-Governing law and jurisdiction
-------------------------------
+These terms (hereinafter referred to as "Terms of Use") apply to your use of the Tricount website and application.
 
-These Terms of Use are governed by Belgian law. Any disputes shall be submitted to the exclusive jurisdiction of the courts of Brussels (Belgium).
+The Tricount website and application “Tricount” are owned and operated by bunq B.V. (hereinafter referred to as "bunq", "we", "us" or "our"). bunq’s registered office is located at Naritaweg 131 1043 BS (Amsterdam). bunq is registered with the Amsterdam Chamber of Commerce (www.kvk.nl; number 5499206), the AFM (www.afm.nl; number 12043457) and DNB (www.dnb.nl; number R127999). Tricount as described in these Terms of Use is in principle not subject to AFM or DNB supervision. When opting for additional services as described below, DNB or AFM supervision may apply. 
+
+### **2\. Acceptance of our Terms of Use**
+
+Access to Tricount will be subject to acceptance of the terms described below, which bunq is free to modify at any time. In case of material changes we will inform you. If you do not wish to be bound by the changes, you can terminate your use of Tricount. 
+
+bunq will only make these changes for valid reasons, such as new technical developments, changes in case law, or other equivalent reasons. If the change significantly disrupts the relationship between you and bunq, the change will require your consent.
+
+We encourage you to read the latest version of these terms available at the following address:  https://www.tricount.com/en/terms
+
+This version of the Terms of Use dates from 27 August 2024
+
+### **3\. Definitions**
+
+In this text the following terms shall have the following meaning: 
+
+Tricount: the Tricount website and application “Tricount”;
+
+Account: a shared account users of Tricount use to balance expenses in relation to a specific activity or project
+
+Profile: a user’s profile for the use of Tricount.Account.
+
+### **4\. Intellectual property rights**
+
+Our product, that offers shared Accounts on the internet or in a mobile application without strict identification (i.e. without a password and login), referred to here as “tricount” is protected by copyright. The name “Tricount” and all Tricount logos are registered trademarks. It is not permitted to use these trademarks for any commercial or personal purpose whatsoever. The user of Tricount undertakes not to reproduce, copy, sell, trade or transfer all or part of Tricount, under any pretext. The user also undertakes not to hide or modify our services (such as the Tricount trademark or advertising).
+
+### **5\. Summary description of the product**
+
+Tricount is a tool for balancing expenses between friends, for example, during or after a group activity (Tricount allows you to settle your Accounts among friends). Tricount allows you to specify expenses in order to calculate what each person owes accordingly.
+
+Tricount is available online on the www.tricount.com website, but also via mobile applications. Accounts can be shared between friends via a sharing link. The Tricount mobile applications also allow you to balance your expenses without being connected to the internet. In addition, Tricount facilitates payments and refunds at the end of Accounts by integrating with partner solutions, but without participating in transactions.
+
+### **6\. Tips for optimal use of the tool**
+
+Always balance Accounts within a sufficiently short period of time after the activity to which the Accounts relate, so that all Account participants can remember all their expenses.
+
+The hypertext link allowing access to the Account must only be forwarded to persons who are personally involved with the Account and deemed sufficiently responsible. Consider this link as the only “key” to access the shared Account.
+
+Although not limited, it is advisable to use an Account for a reasonable period of time (corresponding to a group activity) and a reasonable transaction volume (+/- 100 transactions).
+
+### **7\. Appropriate framework of use**
+
+Tricount is suitable only for family or friendly use, i.e. for use between members of the same family or between friends. Trust must exist in the group throughout the use of an Account.  Tricount is intended for “personal” use, for example because you have gone on vacation or have participated in a group activity with friends or family (leisure) and you want to balance shared expenses incurred in this context.
+
+### **8\. Conditions of access**
+
+You may not use Tricount if the laws of the applicable jurisdiction prohibit you from receiving services as offered by us, if we have previously banned your Account, or if you are not of an age to agree to the Terms of Use.
+
+Tricount is not intended for persons under the age of 16, and we ask individuals under the age of 16 not to provide personal information to us. If your child has submitted personal information and would like to request that this personal information be deleted, please contact us at privacy@tricount.com.
+
+As a user of Tricount, you must at all times provide correct data to Tricount and to the group participating in the Accounts; always check the information that concerns you.
+
+As a user of Tricount, you expressly undertake to NEVER: convey content that is illegal, harmful, threatening, abusive, harassing, defamatory, vulgar, obscene, threatening to the privacy of others, hateful, racist or otherwise objectionable; convey content infringing a any right of intellectual property; harm others in any way; harass others in any way; attempt to deceive or mislead others; use Tricount in email chains (“hoax” type); intentionally interfere with or disrupt our services; use Tricount in a way that is contrary to any applicable law; violate, intentionally or not, any national or international law or regulation in force and all other rules having the force of law; reproduce, copy, sell, resell, or exploit for any commercial purpose whatsoever any part or use of our services, any right of access to our services.
+
+bunq is in no way responsible for the accuracy or precision of the data entered by you or your friends in Tricount (expenses as well as the names of the participants in the Accounts). bunq will not act as an arbitrator within your group and cannot be held responsible for the inaccuracy of certain data. Tricount should be seen as a consensus tool for making calculations relating to Accounts between friends and not as a tool for storing the expenses history. Under no circumstances may bunq be held responsible in any way whatsoever for direct or indirect damage resulting from: improper use of its services, use of its services deemed illegal or fraudulent, inaccuracy of data on a shared Account (a tricount), erroneous results provided by its services, temporary or permanent unavailability of its services due to a failure of its services, any cause related to its services.
+
+### **9\. Warning**
+
+An Account on Tricount must never be considered as amounting to a contract in the eyes of users. For proper functioning of the tool, it is important that those with access to the same Account (friends, family, colleagues) are morally or contractually linked to each other.
+
+An http link provides access to an Account on Tricount. This link is unique and cannot be changed. This link gives read and write access to the Account. It is important to never communicate the link to people who are not directly involved in the Accounts or who you deem irresponsible!
+
+This link is the access link to your Account and must be treated with care. In particular, it is strongly advised not to publish it anywhere, especially on social media or in forums.
+
+The probability of finding a link to an Account on Tricount “by chance” is almost zero. However, it is not impossible for a stranger to gain access to it: it can be intercepted by a hacker, recovered from the memory of a computer or simply copied in the history of the internet browser you used. It is not recommended that users store confidential information in Tricount. If a user does so, they will do so at their own risk. If you suspect that a person from outside the group has access to any Account, we recommend abandoning the Account immediately and creating a new one! You understand that bunq cannot be held responsible for the use that you or any of your group members make of the link to a shared Account.
+
+### **10\. Specific warning regarding the use of the IBAN**
+
+Since version 4.3, we have allowed Tricount connected users to enter their IBAN in the app. The IBAN is provided by the user. As a user, you agree to never provide Tricount with an IBAN that is not yours; you also agree to never attempt to mislead the other participants in an Account on Tricount, for example by identifying yourself under a name that is not yours or is recognised by them as not being yours; when you provide an IBAN, you accept that your email address (used to log in) will be shared at the same time as the IBAN, for reasons of transparency.
+
+At no time does Tricount validate that an IBAN actually belongs to the user who entered it: bunq assumes no responsibility in this regard, in particular in the event of omission, distraction, bad intention or the manifestly fraudulent intention of any person whatsoever.
+
+As a payer, before making a payment to an IBAN entered in Tricount, it is essential that you check that the email address of the person who entered it (indicated just below) is indeed that of the person you want/have to pay. You must also check that it is their bank and their IBAN. Providing the email and the bank should be seen only as assisting a decision but, be careful, the decision to use a specific IBAN cannot be made solely on this basis. When you use an IBAN that is entered in Tricount, you are responsible for checking beforehand (that is, by your own means) that this is indeed the IBAN of the person you want/have to pay. In this context, we recommend that you always ask for confirmation of this IBAN, for example, by sending a message outside Tricount.
+
+Tricount meets the highest standards of quality and security but, like any app, is not immune from potential technical failure or hacking. As a recipient (person to whom money is owed), if you enter your IBAN in the app, you must do so in full knowledge of the facts. In particular, you must ensure that you communicate or confirm your IBAN to the group outside of Tricount if you or your friends deem this necessary or more prudent.
+
+In case of theft of your smartphone, it is important to contact our support immediately (at support@tricount.com) and to notify the people with whom you share Accounts on Tricount that your Account has probably been corrupted: the “thief” may have changed your IBAN.
+
+At no time does bunq carry out checks on behalf of Tricount users. bunq will therefore assume no responsibility if the payment has been made to a wrong Account number.
+
+By accepting these terms, you expressly waive any recourse against bunq regarding the IBAN sharing feature.
+
+### **11\. Suspension and interruption of access to services**
+
+We have the right to temporarily or permanently stop the provision of Tricount (or any part thereof), to delete or modify any part of our services or to introduce new services. In case of material changes we will inform you prior to implementing the changes. Tricount reserves the right (but is not obliged to do so) to delete an Account on Tricount or to ban one or more users.
+
+### **12\. Leaving Tricount a Profile or Account**
+
+You have the right to terminate your use of Tricount at any time. 
+
+When you delete Tricount, your Profile or an Account from your mobile application and/or user Profile (for example because you leave an activity in progress), this does not delete it from the Tricount servers. Indeed, other users may still want to access it. Also, by keeping the tricount access link, you may choose to access it later.
+
+### **13\. Permanently deleting an Account on Tricount**
+
+For the reasons set out in the previous paragraph, it is currently not possible for a user to completely delete a Profile or Account from the Tricount servers.
+
+However, it is possible for you to pseudonymize the information presented by renaming, for example, the participants in an Account and/or the expenses with a random character string.
+
+When an Account is not present in any user Profile and has not been accessed for at least 24 months, it will be made unavailable. It will be completely removed at any moment within the next 12 months (this can also be after 1 day), after making the Account unavailable. During that 12 month period, if the Account is still present in our database, it can be restored by sending a request to our support service.
+
+### **14\. Respect for privacy**
+
+In order to provide you with our services, bunq collects some of your personal information. A description of this collection and the use of personal information can be found in our privacy policy (available at: https://www.tricount.com/privacy). Please read this policy before using Tricount. You must be 16 years of age or older to use this service.
+
+### **15\. Advertising**
+
+As from version 8, Tricount will contain no general or personalized advertising content and no personal data will be collected for these purposes.
+
+Tricount finances itself in whole or in part through advertising (such as Google Admob advertising, for example). Advertising may therefore appear in Tricount services. Advertising management is carried out automatically and could be targeted on the basis of the information we have (language, IP address, advertising identifier). Information allowing advertising targeting is not processed manually.
+
+### **16\. Subscribing to additional features**
+
+bunq offers additional Tricount features in the form of subscriptions, monthly or annual). These subscriptions are managed by platforms such as Google Play, Apple AppStore or Huawei AppGallery.
+
+bunq also offers services complementary to Tricount via the bunq app. To benefit from these services, you need to use the bunq and Tricount apps. You can only use the bunq app (and the complementary services) after completing bunq’s identity verification procedure and accepting bunq’s Terms and Conditions in the bunq app. The apps can be downloaded from platforms such as Google Play, Apple AppStore or Huawei AppGallery.
+
+Subscription is automatically extended unless you have disabled it within 24 hours of the renewal date. The extension of the subscription costs the same amount as the initial subscription. After a purchase, you can disable automatic renewal in your iTunes or Google Play Account settings. Please note that a current subscription cannot be canceled. After extension of your subscription, you can terminate your subscription with one month’s notice. 
+
+### **17\. Multi-currencies**
+
+In order to make life easier for its users, particularly abroad, Tricount has offered a multi-currency feature since version 3.7. As part of this service, a “market” exchange rate is provided and updated daily in the app. This exchange rate is provided for information purposes only; the user is free to change it if they wish. Under no circumstances shall bunq be held responsible for an incorrect exchange rate or an inappropriate modification of this exchange rate by a user.
+
+### **18\. Governing law and jurisdiction**
+
+These Terms of Use are governed by the laws of the Netherlands. Any disputes shall be submitted to the exclusive jurisdiction of the courts of Amsterdam.
 
 We’re here to help
 ------------------
@@ -195,7 +425,7 @@ Download Tricount now
 
 [![](https://framerusercontent.com/images/eRrJWOkXnrzE0CRldRULgCfNpU.svg)](https://twitter.com/tricount)[![](https://framerusercontent.com/images/DtLW6cxzCYX9vGWk0IOlZcrrlU.svg)](https://be.linkedin.com/company/tricount)[![](https://framerusercontent.com/images/xtrett7pVimMOKOdWSv4Qae0Y.svg)](https://www.facebook.com/tricount/)[![](https://framerusercontent.com/images/n9udLDqBAn4Xf6HbtREOLT7Zk.svg)](https://www.youtube.com/channel/UCFiidoubjijwtnffSGwwPBA)
 
-Select LanguageEnglishEnglish (Netherlands)DutchDeutschFrançaisEspañolItalianoPortuguês
+Select LanguageEnglishEnglish (Netherlands)DutchDeutschFrançaisEspañolItaliano
 
 English
 
@@ -219,7 +449,7 @@ Cookie Settings
 
 [![](https://framerusercontent.com/images/eRrJWOkXnrzE0CRldRULgCfNpU.svg)](https://twitter.com/tricount)[![](https://framerusercontent.com/images/DtLW6cxzCYX9vGWk0IOlZcrrlU.svg)](https://be.linkedin.com/company/tricount)[![](https://framerusercontent.com/images/xtrett7pVimMOKOdWSv4Qae0Y.svg)](https://www.facebook.com/tricount/)[![](https://framerusercontent.com/images/n9udLDqBAn4Xf6HbtREOLT7Zk.svg)](https://www.youtube.com/channel/UCFiidoubjijwtnffSGwwPBA)
 
-Select LanguageEnglishEnglish (Netherlands)DutchDeutschFrançaisEspañolItalianoPortuguês
+Select LanguageEnglishEnglish (Netherlands)DutchDeutschFrançaisEspañolItaliano
 
 English
 
@@ -243,7 +473,7 @@ Cookie Settings
 
 [![](https://framerusercontent.com/images/eRrJWOkXnrzE0CRldRULgCfNpU.svg)](https://twitter.com/tricount)[![](https://framerusercontent.com/images/DtLW6cxzCYX9vGWk0IOlZcrrlU.svg)](https://be.linkedin.com/company/tricount)[![](https://framerusercontent.com/images/xtrett7pVimMOKOdWSv4Qae0Y.svg)](https://www.facebook.com/tricount/)[![](https://framerusercontent.com/images/n9udLDqBAn4Xf6HbtREOLT7Zk.svg)](https://www.youtube.com/channel/UCFiidoubjijwtnffSGwwPBA)
 
-Select LanguageEnglishEnglish (Netherlands)DutchDeutschFrançaisEspañolItalianoPortuguês
+Select LanguageEnglishEnglish (Netherlands)DutchDeutschFrançaisEspañolItaliano
 
 English
 
