@@ -56,7 +56,7 @@ Learn
     
 * [Integrations](https://wasabi.com/partner/integrations)
     
-* [Glossary](https://wasabi.com/glossary)
+* [Cloud 101](https://wasabi.com/learn)
     
 * [Support](https://wasabi.com/help)
     
