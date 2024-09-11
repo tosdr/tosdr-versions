@@ -8,30 +8,11 @@ Dealer Locations
 
 Contact Us
 
-[](https://www.agragps.com/contact-us/)
+[](https://www.agragps.com/contact-us)
 
 Wishlist
 
 [](https://www.agragps.com/wishlist/)
-
-* [![](https://www.agragps.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.svg)
-    
-    English](#)
-    * [![](https://www.agragps.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.svg)
-        
-        Français](https://www.agragps.com/fr/privacy-statement-au/)
-    * [![](https://www.agragps.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/de.svg)
-        
-        Deutsch](https://www.agragps.com/de/privacy-statement-au/)
-    * [![](https://www.agragps.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/pl.svg)
-        
-        Polski](https://www.agragps.com/pl/privacy-statement-au/)
-    * [![](https://www.agragps.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/pt-br.svg)
-        
-        Português](https://www.agragps.com/pt-br/privacy-statement-au/)
-    * [![](https://www.agragps.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/es.svg)
-        
-        Español](https://www.agragps.com/es/privacy-statement-au/)
 
 [Social-facebook](https://www.facebook.com/agragps/) [Social-linkedin](https://www.linkedin.com/company/agra-gps/) [Instagram](https://www.instagram.com/agragps/) [Youtube](https://www.youtube.com/channel/UCF5voQj8AkbW0hH2vNsaDCw)
 
@@ -105,15 +86,15 @@ Close
     
     BRIDGE
     
-     [![Claas Jaguar (2012&newer)](https://www.agragps.com/wp-content/uploads/2022/04/xjaguar-thegem-product-justified-square-xxs.jpg.pagespeed.ic.YLYbHZfYuT.jpg)](https://www.agragps.com/product/class-jaguar-2012newer/)
+     [![GLEANER-JD S9 COMBINE](https://www.agragps.com/wp-content/uploads/2022/04/xgleanerS9-thegem-product-justified-square-xxs.jpg.pagespeed.ic.IAuaYVekyN.jpg)](https://www.agragps.com/product/gleaner-jd-s9-combine/)
     
-    [Claas Jaguar (2012&newer)](https://www.agragps.com/product/class-jaguar-2012newer/)
+    [GLEANER-JD S9 COMBINE](https://www.agragps.com/product/gleaner-jd-s9-combine/)
     
     $3,380.00
     
-     [![MASSEY-8S.XXX-JD](https://www.agragps.com/wp-content/uploads/2022/07/xMassey-8s.265-thegem-product-justified-square-xxs.jpg.pagespeed.ic.ur41Qhk1s2.jpg)](https://www.agragps.com/product/massey-8s-jd-bridge/)
+     [![AGCO-JD Rogator 932-937 SERIES](https://www.agragps.com/wp-content/uploads/2023/05/x20230525_163159-scaled-thegem-product-justified-square-xxs.jpg.pagespeed.ic.R81JYgTrln.jpg)](https://www.agragps.com/product/agco-jd-rogator-932-937-series/)
     
-    [MASSEY-8S.XXX-JD](https://www.agragps.com/product/massey-8s-jd-bridge/)
+    [AGCO-JD Rogator 932-937 SERIES](https://www.agragps.com/product/agco-jd-rogator-932-937-series/)
     
     $3,380.00
     
@@ -123,29 +104,27 @@ Close
     
     [ITCExtend for Starfire ITC](https://www.agragps.com/product/itcextend/)
     
-    Rated **5.00** out of 5
-    
     (1)
     
     $620.00
     
     Accessories
     
-     [![CASE CNH OVAL mount](https://www.agragps.com/wp-content/uploads/2022/11/xCNH-OVAL-thegem-product-justified-square-xxs.jpg.pagespeed.ic.6aOVQv9bO5.jpg)](https://www.agragps.com/product/case-cnh-oval-mount/)
+     [![CAB-RAM Display mount](https://www.agragps.com/wp-content/uploads/2022/10/x20220403_114913-scaled-thegem-product-justified-square-xxs.jpg.pagespeed.ic.uPk0t3qePx.jpg)](https://www.agragps.com/product/cab-ram/)
     
-    [CASE CNH OVAL mount](https://www.agragps.com/product/case-cnh-oval-mount/)
+    [CAB-RAM Display mount](https://www.agragps.com/product/cab-ram/)
     
-    $120.00
+    $90.00
     
-     [![CLAAS AXION ROOF MOUNT – FRONT](https://www.agragps.com/wp-content/uploads/2024/05/xAxion-F-M-thegem-product-justified-square-xxs.jpg.pagespeed.ic.0zFTjpsgg-.jpg)](https://www.agragps.com/product/claas-axion-roof-mount-front/)
+     [![MTG POWER CABLE 6POS](https://www.agragps.com/wp-content/uploads/2022/04/x20220403_112154-thegem-product-justified-square-xxs.jpg.pagespeed.ic.OuTJI2461j.jpg)](https://www.agragps.com/product/mtg-power-cable-6pos/)
     
-    [CLAAS AXION ROOF MOUNT – FRONT](https://www.agragps.com/product/claas-axion-roof-mount-front/)
+    [MTG POWER CABLE 6POS](https://www.agragps.com/product/mtg-power-cable-6pos/)
     
-    $120.00
+    $140.00
     
-     [![CLAAS AXION ROOF MOUNT – REAR](https://www.agragps.com/wp-content/uploads/2021/10/x20240521_143714-scaled-thegem-product-justified-square-xxs.jpg.pagespeed.ic.zeGSqvCAt2.jpg)](https://www.agragps.com/product/claas-axion-roof-mount/)
+     [![FENDT ROOF MOUNT 7XX-10XX](https://www.agragps.com/wp-content/uploads/2021/10/xfendtmount7xx-thegem-product-justified-square-xxs.jpg.pagespeed.ic.vVGCq-_fUN.jpg)](https://www.agragps.com/product/fendt-mount-2/)
     
-    [CLAAS AXION ROOF MOUNT – REAR](https://www.agragps.com/product/claas-axion-roof-mount/)
+    [FENDT ROOF MOUNT 7XX-10XX](https://www.agragps.com/product/fendt-mount-2/)
     
     $120.00
     
@@ -249,17 +228,17 @@ Menu
     
     BRIDGE
     
-     [![GLEANER-JD S9 COMBINE](https://www.agragps.com/wp-content/uploads/2022/04/xgleanerS9-thegem-product-justified-square-xxs.jpg.pagespeed.ic.tm4SgcRzdA.jpg)](https://www.agragps.com/product/gleaner-jd-s9-combine/)
-    
-    [GLEANER-JD S9 COMBINE](https://www.agragps.com/product/gleaner-jd-s9-combine/)
-    
-    $3,380.00
-    
      [![VALTRA Bridge compatible with John Deere Receiver](https://www.agragps.com/wp-content/uploads/2021/10/xValtra-thegem-product-justified-square-xxs.jpg.pagespeed.ic.r_EDAVTIOR.jpg)](https://www.agragps.com/product/valtra-jd-n-t/)
     
     [VALTRA Bridge compatible with John Deere Receiver](https://www.agragps.com/product/valtra-jd-n-t/)
     
     USD $3,380.00
+    
+     [![Massey Swather (99XX)](https://www.agragps.com/wp-content/uploads/2022/04/xmassey-thegem-product-justified-square-xxs.jpg.pagespeed.ic.AN9fXCPQno.jpg)](https://www.agragps.com/product/massey-swather-99xx/)
+    
+    [Massey Swather (99XX)](https://www.agragps.com/product/massey-swather-99xx/)
+    
+    $3,380.00
     
     ITC Extend
     
@@ -267,68 +246,36 @@ Menu
     
     [ITCExtend for Starfire ITC](https://www.agragps.com/product/itcextend/)
     
-    Rated **5.00** out of 5
-    
     (1)
     
     $620.00
     
     Accessories
     
-     [![CAB-RAM Display mount](https://www.agragps.com/wp-content/uploads/2022/10/x20220403_114913-scaled-thegem-product-justified-square-xxs.jpg.pagespeed.ic.uPk0t3qePx.jpg)](https://www.agragps.com/product/cab-ram/)
+     [![CNH-JD-QA Wheel Angle](https://www.agragps.com/wp-content/uploads/2022/04/xwheel-angle-thegem-product-justified-square-xxs.jpg.pagespeed.ic.2-SO2WYbB6.jpg)](https://www.agragps.com/product/cnhqa-wheel-angle/)
     
-    [CAB-RAM Display mount](https://www.agragps.com/product/cab-ram/)
+    [CNH-JD-QA Wheel Angle](https://www.agragps.com/product/cnhqa-wheel-angle/)
     
-    $90.00
+    $960.00
     
-     [![CLAAS AXION ROOF MOUNT – REAR](https://www.agragps.com/wp-content/uploads/2021/10/x20240521_143714-scaled-thegem-product-justified-square-xxs.jpg.pagespeed.ic.zeGSqvCAt2.jpg)](https://www.agragps.com/product/claas-axion-roof-mount/)
+     [![CASE CNH OVAL mount](https://www.agragps.com/wp-content/uploads/2022/11/xCNH-OVAL-thegem-product-justified-square-xxs.jpg.pagespeed.ic.6aOVQv9bO5.jpg)](https://www.agragps.com/product/case-cnh-oval-mount/)
     
-    [CLAAS AXION ROOF MOUNT – REAR](https://www.agragps.com/product/claas-axion-roof-mount/)
+    [CASE CNH OVAL mount](https://www.agragps.com/product/case-cnh-oval-mount/)
     
     $120.00
     
-     [![CRG EXTERNAL MODEM](https://www.agragps.com/wp-content/uploads/2022/05/xmicrohard-modem-thegem-product-justified-square-xxs.jpg.pagespeed.ic.gNS8Wfiy0g.jpg)](https://www.agragps.com/product/crg-external-modem/)
+     [![DELUXE John Deere MOUNT](https://www.agragps.com/wp-content/uploads/2021/10/x20220403_112348-thegem-product-justified-square-xxs.jpg.pagespeed.ic.W1Rlnb1kuW.jpg)](https://www.agragps.com/product/deluxe-jd-mount/)
     
-    [CRG EXTERNAL MODEM](https://www.agragps.com/product/crg-external-modem/)
+    [DELUXE John Deere MOUNT](https://www.agragps.com/product/deluxe-jd-mount/)
     
-    $660.00
+    USD $80.00
     
 * [About CRG](https://www.agragps.com/about-crg/)
 * [Become a Dealer](https://www.agragps.com/dealer-request/)
 * [Firmware](https://www.agragps.com/firmware-update-request-form/)
 * [Contact Us](https://www.agragps.com/contact-us/)
 
-_
-
-![en](https://www.agragps.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.svg)
-
-_English
-
-* [_
-    
-    ![fr](https://www.agragps.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.svg)
-    
-    _Français](https://www.agragps.com/fr/privacy-statement-au/)
-* [_
-    
-    ![de](https://www.agragps.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/de.svg)
-    
-    _Deutsch](https://www.agragps.com/de/privacy-statement-au/)
-* [_
-    
-    ![pl](https://www.agragps.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/pl.svg)
-    
-    _Polski](https://www.agragps.com/pl/privacy-statement-au/)
-* [_
-    
-    ![pt-br](https://www.agragps.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/pt-br.svg)
-    
-    _Português](https://www.agragps.com/pt-br/privacy-statement-au/)
-* [_
-    
-    ![es](https://www.agragps.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/es.svg)
-    
-    _Español](https://www.agragps.com/es/privacy-statement-au/)
+en
 
 [](#)
 
@@ -338,7 +285,7 @@ Top Searches:
 
 [Search Term 1](https://www.agragps.com/?s=Search%20Term%201)
 
-[0](https://www.agragps.com/wishlist/?wishlist-action)
+[0](https://www.agragps.com/wishlist/)
 
 [0](https://www.agragps.com/cart/)
 
@@ -715,6 +662,6 @@ Save Preferences
 
 [Terms of Service & Privacy Policy](https://www.agragps.com/terms-of-use/) [Cookies Policy](https://www.agragps.com/terms-of-use/)
 
-                                                                      
+                                                                       
 
 [Digitalagentur Forge12 Interactive GmbH](https://www.forge12.com/ "Digital Agentur")
