@@ -6,15 +6,25 @@ Platform
 
 Create
 
-[AI Avatars](https://www.synthesia.io/features/avatars)[AI Voices](https://www.synthesia.io/features/languages)[Video Editing](https://www.synthesia.io/features#video-editing-section)[Video Templates](https://www.synthesia.io/examples)[Custom AI Avatars](https://www.synthesia.io/features/custom-avatar)
+[AI Avatars](https://www.synthesia.io/features/avatars)[AI Voices](https://www.synthesia.io/features/languages)[Video Editing](https://www.synthesia.io/features#video-editing)[Video Templates](https://www.synthesia.io/video-templates)[Custom AI Avatars](https://www.synthesia.io/features/custom-avatar)[All Features](https://www.synthesia.io/features)
 
 Collaborate
 
-[Live Collaboration](https://www.synthesia.io/features#collaboration-section)[Teams & Organizations](https://www.synthesia.io/features#collaboration-section)[Brand Kit](https://www.synthesia.io/features#collaboration-section)[Enterprise Readiness](https://www.synthesia.io/enterprise)[Integrations](https://www.synthesia.io/integrations)
+[Live Collaboration](https://www.synthesia.io/features#collaboration)[Teams & Organizations](https://www.synthesia.io/features#collaboration)[Brand Kit](https://www.synthesia.io/features#collaboration)[Enterprise Readiness](https://www.synthesia.io/enterprise)[Integrations](https://www.synthesia.io/integrations)
 
 Share
 
-[Video Player](https://www.synthesia.io/features#video-player-section)[1-Click Translations](https://www.synthesia.io/features/video-translator)[Smart Updates](https://www.synthesia.io/features#video-player-section)[Analytics](https://www.synthesia.io/features#video-player-section)
+[Video Player](https://www.synthesia.io/features#video-player)[1-Click Translations](https://www.synthesia.io/features/video-translator)[Smart Updates](https://www.synthesia.io/features#video-player)[Analytics](https://www.synthesia.io/features#video-player)
+
+[All features
+
+![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/66cdd098a788f0f8a7e805d5_Nav-video-poster.webp)![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/66cdd098a788f0f8a7e805d5_Nav-video-poster.webp "Your browser does not support the <video> tag")
+
+The #1 AI Video Platform
+
+Explore all the Syntehsia features to easily produce your training, marketing and internal videos.
+
+Explore all features](https://www.synthesia.io/features)
 
 [Create free AI video](https://www.synthesia.io/#free-ai-video)
 
@@ -46,7 +56,7 @@ Resources
 
 Customers
 
-[Example Videos](https://www.synthesia.io/examples)[Case Studies](https://www.synthesia.io/case-studies)[Customer Reviews](https://www.synthesia.io/reviews)
+[Video templates](https://www.synthesia.io/video-templates)[Case Studies](https://www.synthesia.io/case-studies)[Customer Reviews](https://www.synthesia.io/reviews)
 
 Learn
 
@@ -335,7 +345,7 @@ Synthesia Ltd, Synthesia, Kent House, 14-17 Market Place, London, W1W 8AJ, Unite
 
 Features
 
-[All Features](https://www.synthesia.io/features)[160+ Video Avatars](https://www.synthesia.io/features/avatars)[130+ Languages](https://www.synthesia.io/features/languages)[60+ Video Templates](https://www.synthesia.io/templates)[Custom Avatars](https://www.synthesia.io/features/custom-avatar)[Free AI Video Generator](https://www.synthesia.io/#free-ai-video)[AI Video Editor](https://www.synthesia.io/tools/ai-video-editor)[AI Voice Generator](https://www.synthesia.io/features/ai-voice-generator)[Text to Video](https://www.synthesia.io/features/text-to-video)[Script to Video](https://www.synthesia.io/tools/script-to-video-maker)[Synthesia Tools](https://www.synthesia.io/tools)[AI Script Generator](https://www.synthesia.io/features/ai-script-generator)[Video Translator](https://www.synthesia.io/features/video-translator)
+[All Features](https://www.synthesia.io/features)[230+ Video Avatars](https://www.synthesia.io/features/avatars)[140+ Languages](https://www.synthesia.io/features/languages)[60+ Video Templates](https://www.synthesia.io/templates)[Custom Avatars](https://www.synthesia.io/features/custom-avatar)[Free AI Video Generator](https://www.synthesia.io/#free-ai-video)[AI Video Editor](https://www.synthesia.io/tools/ai-video-editor)[AI Voice Generator](https://www.synthesia.io/features/ai-voice-generator)[Text to Video](https://www.synthesia.io/features/text-to-video)[Script to Video](https://www.synthesia.io/tools/script-to-video-maker)[Synthesia Tools](https://www.synthesia.io/tools)[AI Script Generator](https://www.synthesia.io/features/ai-script-generator)[Video Translator](https://www.synthesia.io/features/video-translator)
 
 Use Cases
 
@@ -343,7 +353,7 @@ Use Cases
 
 Resources
 
-[Pricing](https://www.synthesia.io/pricing)[Enterprise](https://www.synthesia.io/enterprise)[Case Studies](https://www.synthesia.io/case-studies)[Video Examples](https://www.synthesia.io/examples)[Academy](https://www.synthesia.io/academy)[Webinars](https://www.synthesia.io/webinars)[Help Center](https://help.synthesia.io/en/)[Product Updates](https://synthesia.noticeable.news/)[Synthesia Alternatives](https://www.synthesia.io/alternatives)[Integrations](https://www.synthesia.io/integrations)[Blog](https://www.synthesia.io/blog)[Synthetic Media](https://www.synthesia.io/post/the-future-of-synthetic-media)[AI Tools](https://www.synthesia.io/post/ai-tools)[Glossary](https://www.synthesia.io/glossary)[Service providers](https://www.synthesia.io/service-providers)
+[Pricing](https://www.synthesia.io/pricing)[Enterprise](https://www.synthesia.io/enterprise)[Case Studies](https://www.synthesia.io/case-studies)[Video Templates](https://www.synthesia.io/video-templates)[Academy](https://www.synthesia.io/academy)[Webinars](https://www.synthesia.io/webinars)[Help Center](https://help.synthesia.io/en/)[API Documentation](https://docs.synthesia.io/)[Product Updates](https://synthesia.noticeable.news/)[Synthesia Alternatives](https://www.synthesia.io/alternatives)[Integrations](https://www.synthesia.io/integrations)[Blog](https://www.synthesia.io/blog)[Synthetic Media](https://www.synthesia.io/post/the-future-of-synthetic-media)[AI Tools](https://www.synthesia.io/post/ai-tools)[Glossary](https://www.synthesia.io/glossary)[Service providers](https://www.synthesia.io/service-providers)
 
 Company
 
