@@ -80,7 +80,7 @@ Vivaldi Help
 
 [**Subscribe to our newsletter**](https://vivaldi.com/newsletter/)
 
-[](https://social.vivaldi.net/@Vivaldi "Vivaldi Social")[](https://www.threads.net/@vivaldibrowser "Threads")[](https://twitter.com/vivaldibrowser "X")[](https://www.youtube.com/channel/UCHG0CNxmtdl7cXhAV7AZKkQ "Youtube")[](https://www.instagram.com/vivaldibrowser/ "Instagram")[](https://www.facebook.com/vivaldi.browser/ "Facebook")[](https://linkedin.com/company/vivaldi-technologies "LinkedIn")[](https://t.me/vivaldibrowser "Telegram")[](https://www.reddit.com/r/vivaldibrowser/ "Reddit")
+[](https://social.vivaldi.net/@Vivaldi "Vivaldi Social")[](https://www.threads.net/@vivaldibrowser "Threads")[](https://x.com/vivaldibrowser "Twitter")[](https://www.youtube.com/channel/UCHG0CNxmtdl7cXhAV7AZKkQ "Youtube")[](https://www.instagram.com/vivaldibrowser/ "Instagram")[](https://www.facebook.com/vivaldi.browser/ "Facebook")[](https://linkedin.com/company/vivaldi-technologies "LinkedIn")[](https://t.me/vivaldibrowser "Telegram")[](https://www.reddit.com/r/vivaldibrowser/ "Reddit")
 
 **Browser**
 
