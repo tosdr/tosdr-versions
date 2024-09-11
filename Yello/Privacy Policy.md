@@ -402,9 +402,8 @@ Privacy laws and guidelines are part of a constantly changing environment. We re
     * [Leadership](https://yello.co/about/leadership/)
     * [National Intern Day](https://yello.co/annual-top-internships/)
     * [Newsroom](https://yello.co/about/newsroom/)
-    * [Testimonials](https://yello.co/about/yello-clients/)
 
- ![Yello Logo White](https://yello.co/wp-content/uploads/2024/06/yello-logo-white.png)
+![Yello Logo White](https://yello.co/wp-content/uploads/2023/01/yello-logo-white.svg)
 
 © 2024 Yello
 
