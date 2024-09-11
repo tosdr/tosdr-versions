@@ -2,7 +2,7 @@
 
 Talk to us
 
-Introducing new CPD Courses: Equip your Senior Leadership Team with skills in Behaviour Management and Leadership & Management. Learn more.
+Launching CPD Courses: Equip your SLT with skills in Behaviour Management and Leadership & Management. Learn more.
 
  [![Satchel Logo - Providing a learning platform for teachers, students and parents](../assets/images/sticky-logo.png) ![Satchel Logo - Providing a learning platform for teachers, students and parents](../assets/images/sticky-logo.png)](https://www.teamsatchel.com/index.html)
 
@@ -105,12 +105,12 @@ Close
     
     [**Resource centre**
     
-    Free resources to support school staff and teachers.](http://info.teamsatchel.com/resources)
+    Free resources to support school staff and teachers.](https://www.teamsatchel.com/resources)
     
     [**Webinars**
     
     Expert-delivered live and  
-    on-demand webinars.](https://info.teamsatchel.com/webinars)
+    on-demand webinars.](https://www.teamsatchel.com/webinars)
     
     [**Blog**
     
@@ -181,10 +181,10 @@ Close
 * [**Resources**](#)
     * [**Resource centre**
         
-        Free resources to support school staff and teachers.](http://info.teamsatchel.com/resources)
+        Free resources to support school staff and teachers.](https://www.teamsatchel.com/resources)
     * [**Webinars**
         
-        Expert-delivered live and on-demand webinars.](https://info.teamsatchel.com/webinars)
+        Expert-delivered live and on-demand webinars.](https://www.teamsatchel.com/webinars)
     * [**Blog**
         
         Education content from experts and the Satchel team.](https://blog.teamsatchel.com/)
@@ -209,6 +209,9 @@ Terms & conditions
 ==================
 
 Please read all of the Satchel policies and Terms of Use carefully.
+
+**Terms last updated on 22-08-2024.**  
+_Update to cancellation period and refunds section._
 
 ### Terms of Use
 
@@ -288,7 +291,7 @@ If the Customer does not agree to the terms of this Agreement then please refrai
 
 5.1 The Customer has the right to cancel this Agreement during the period set out below in Clause 5.2. This means that during the relevant period the Customer for any reason can decide to not use the Software or Services and on written notification to Satchel, within the Cancellation Period, then the Customer will be deemed to have cancelled this Agreement and will receive a full refund.
 
-5.2 The Customer’s right to cancel this Agreement starts from the date this Agreement is executed. The Customer then has an evaluation period the duration of which is set out in the Licence Summary in which to cancel (“Cancellation Period”).
+5.2 The Customer’s right to cancel this Agreement starts from the date this Agreement is executed. In the event that an evaluation period duration is set out in the Licence Summary then the Customer can cancel this Agreement over that period (“Cancellation Period”).
 
 5.3 The Cancellation Period can be extended on mutual written agreement by both Parties on a case by case basis.
 
