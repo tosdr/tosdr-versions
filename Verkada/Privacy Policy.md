@@ -469,6 +469,10 @@ South Korea
 
 [+82 (0) 30-864-0150](tel:+820308640150)
 
+Singapore
+
+[+65 6371 9700](tel:+6563719700)
+
 [Contact Sales](https://www.verkada.com/contact/)
 
 [CA Privacy](https://www.verkada.com/privacy/privacy-policy/#californiaresidents)
