@@ -3,7 +3,7 @@
 * [Features](https://www.webnode.com/features/)
 * [Templates](https://www.webnode.com/templates/)
 * [Premium](https://www.webnode.com/pricing-w2/)
-* [Knowledgebase](https://www.webnode.info/en_US/)
+* [Knowledgebase](https://www.webnode.com/support/home/)
 * [Webnode Blog](https://www.webnode.com/blog/)
 
 * [Create a Website](#)
@@ -13,7 +13,7 @@
 * [Features](https://www.webnode.com/features/)
 * [Templates](https://www.webnode.com/templates/)
 * [Premium](https://www.webnode.com/pricing-w2/)
-* [Knowledgebase](https://www.webnode.info/en_US/)
+* [Knowledgebase](https://www.webnode.com/support/home/)
 * [Webnode Blog](https://www.webnode.com/blog/)
 
 * [Login](#)
@@ -98,7 +98,7 @@ Last modified September 12, 2019.
 
 ### How to use Webnode?
 
-* [Knowledgebase](https://www.webnode.info/en_US/)
+* [Knowledgebase](https://www.webnode.com/support/home/)
 * [Get in touch](https://www.webnode.com/contact-customer-support/)
 
 ### Follow us
