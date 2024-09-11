@@ -1,40 +1,14 @@
-[Skip to content](#target-skip-to-content)
-
 [](https://www.understood.org/en)
 
-* [Explore resources](https://www.understood.org/en/hub)
-* [Partner with us](https://www.understood.org/en/our-partners)
-* [Donate](https://www.understood.org/en/donate)
-
-[](https://www.understood.org/en)
-
-* Explore our resources
-    * [Browse by topic](https://www.understood.org/en/topics)
-    * [Content library](https://www.understood.org/en/hub)
-    * [How to spot signs in kids](https://www.understood.org/en/take-note)
-    * [Podcasts](https://www.understood.org/en/podcasts)
-    * [Workplace resources](https://www.understood.org/en/workplace)
+* Explore resources
+    
 * About us
-    * [Our mission](https://www.understood.org/en/mission)
-    * [Our leadership](https://www.understood.org/en/our-team)
-    * [How we started](https://www.understood.org/en/our-story)
-    * [Redefining accessibility](https://www.understood.org/en/accessibility)
-    * [Editorial standards](https://www.understood.org/en/editorial-standards)
-    * [Media center](https://www.understood.org/en/newsroom)
-* [Blog](https://www.understood.org/blog)
     
-* [Partnerships](https://www.understood.org/en/our-partners)
-    
-* [Donate](https://www.understood.org/en/donate)
-    
-* [Join our team](https://www.understood.org/en/join-our-team)
-* [Privacy policy](https://www.understood.org/en/privacy-policy)
-* [Terms of use](https://www.understood.org/en/terms-of-use)
-* [Fundraising disclosure](https://www.understood.org/en/fundraising-disclosure)
+* [Partner with us](https://www.understood.org/en/our-partners)
 
-Because differences are our greatest strength
+[Donate](https://www.understood.org/en/donate)
 
-[DonateOpens new window](https://www.understood.org/donate)[Why support Understood?](https://www.understood.org/en/whygive)
+[](https://www.understood.org/en/assistant "Understood AI Assistant")
 
 Privacy policy
 ==============
@@ -47,7 +21,7 @@ Last updated: 9/14/2023
 
 Welcome to our website. Your privacy is important to us.
 
-This Privacy Statement sets forth our policy with respect to the collection, use and disclosure of information that is collected from you by Understood for All, Inc., a charitable organization, (“we” or “us”) when you visit [www.understood.org](https://www.understood.org/en) or our other digital properties including our apps (collectively, the “Site”).  The Site provides information about us, our mission and any information or services we provide (together with the Site, the “Services”). This Privacy Statement also explains how we may use and disclose such information, as well as your ability to control certain uses of it. By using this site, you agree to the data collection, use, disclosure and storage practices described in this Privacy Statement.
+This Privacy Statement sets forth our policy with respect to the collection, use and disclosure of information that is collected from you by Understood for All, Inc., a charitable organization, (“we” or “us”) when you visit [www.understood.org](https://www.understood.org/en/undefined) or our other digital properties including our apps (collectively, the “Site”). The Site provides information about us, our mission and any information or services we provide (together with the Site, the “Services”). This Privacy Statement also explains how we may use and disclose such information, as well as your ability to control certain uses of it. By using this site, you agree to the data collection, use, disclosure and storage practices described in this Privacy Statement.
 
 By using the Site, you agree to the data collection, use, disclosure and storage practices described in this Privacy Statement. We collect information about you in a range of forms, including personal information, when you choose to provide it to us. Personal information (or personal data) means information about an individual from which that person can be identified. It does not include personal information where the identity has been removed (anonymous personal information). This may include when you contact us with inquiries or otherwise contact us.
 
@@ -55,7 +29,7 @@ When you interact with us through the Services, we may collect information from 
 
 **Information You Provide to Us**
 
-We collect information from you when you choose to provide it to us This may include when you make a donation, request information from us, sign up for newsletters or our email lists, complete a survey, use our Services, or otherwise contact us. The information we collect may include: your name, address, email address, telephone number, mobile telephone number, geolocation information, photos or videos, username or any other information, such as ethnicity, marital status, login or password.
+We collect information from you when you choose to provide it to us. This may include when you make a donation, request information from us, sign up for newsletters or our email lists, complete a survey, use our Services, or otherwise contact us. The information we collect may include: your name, address, email address, telephone number, mobile telephone number, geolocation information, photos or videos, username or any other information, such as ethnicity, marital status, login or password.
 
 If you use the Services to make donations, you may provide certain payment information, such as payment card, PayPal or other financial account information, and billing address. A third-party payment processor collects and processes that information on our behalf; we do not collect or retain your payment information. We may also collect additional types of personal information that you choose to provide to us. This could include information about yourself or family members. It’s up to you whether you provide this information. We will not disclose any of this personal information unless you expressly authorize us to do so. We do not sell your information to other parties.
 
@@ -65,7 +39,7 @@ If you have created an account, you may be able to voluntarily provide additiona
 
 If you wish to access the Site’s community features, you will be required to create a screen name. We suggest you create a screen name that does not include your name or other identifying information. If you post information in public areas, we cannot control how others may use that information. For example, a third party might copy something you post and use it on another website. Or a third party might use the information you posted to contact you. We urge you to use screen names, not real names.
 
-the Site may also offer you the opportunity to create a full profile. Whether you provide information is your choice. We will not disclose the information you provide to us in creating your full profile. We may use it to enhance your experience on the Site and to improve the information and services available to you on and through the Site.
+The Site may also offer you the opportunity to create a full profile. Whether you provide information is your choice. We will not disclose the information you provide to us in creating your full profile. We may use it to enhance your experience on the Site and to improve the information and services available to you on and through the Site.
 
 Your User Contributions are posted on and transmitted to others at your own risk. Although you may set certain privacy settings for such information by logging into your account profile, please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of other users of the Site with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons.
 
@@ -100,7 +74,7 @@ We may also use third-party tools or services, such as Google Analytics, to assi
 
 These service providers are not permitted to use the information collected on our behalf except to help use conduct and improve our business.
 
-_Tracking Options and California Do Not Track Disclosures._
+_Tracking Options and California Do Not Track Disclosures_
 
 We strive to provide you with choices regarding the personal information you provide to us.
 
@@ -172,7 +146,7 @@ We do not sell your personal information to third parties. We may share the info
 * as described to you at the point of collection.
     
 
-If we are involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information
+If we are involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
 We may sell or purchase assets during the normal course of our business. If another entity acquires us or any of our assets, information we have collected about you may be transferred to such entity. In addition, if any bankruptcy or reorganization proceeding is brought by or against us, such information may be considered an asset of ours and may be sold or transferred to third parties. Should such a sale or transfer occur, we will use reasonable efforts to try to require that the transferee use personal information provided through the Services in a manner that is consistent with this Privacy Statement.
 
@@ -186,7 +160,7 @@ We may contract with third parties to perform functions related to the Services 
 
 **Your California Privacy Rights**
 
-California Civil Code Section §1798.83 permits users of our site that are California residents to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes. To make such a request, please send an email to info@understood.org or write us at Understood for All, Inc., 145 Hudson Street, Suite 5B, New York, NY 10013.
+California Civil Code Section §1798.83 permits users of our site that are California residents to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes. To make such a request, please send an email to info@understood.org or write us at Understood for All, Inc., 196 Morton Street, Floor 5, New York, NY 10014.
 
 If you are a California resident under the age of 18, and a user of our Site, you may request removal of content or information you have publicly posted. Please be aware that such a request does not ensure complete removal from the Internet of the content or information you posted, and there may be circumstances in which the law does not require or allow removal.
 
