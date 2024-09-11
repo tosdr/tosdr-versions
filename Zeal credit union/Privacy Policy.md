@@ -1,3 +1,5 @@
+Important Reminder: Never accept a friend request from a financial institution or provide private information. Financial institutions will NEVER send social media requests and will NEVER contact you to request personal information.
+
 * [Careers](https://www.zealcu.org/careers/ "Careers")
 
 Routing Number: 272477694
@@ -547,6 +549,10 @@ Phone: [(800) 321-8570 Ext. 7400](tel:8003218570.7400)
 
 E-mail: [\[email protected\]](https://www.zealcu.org/cdn-cgi/l/email-protection)
 
+##### Important Information:
+
+Important Reminder: Never accept a friend request from a financial institution or provide private information. Financial institutions will NEVER send social media requests and will NEVER contact you to request personal information.
+
 ##### Leaving This Site
 
 You are now leaving the Zeal Credit Union web site. Zeal Credit Union is not responsible for the content or privacy practices of those websites that it does not operate and our Internet Privacy Policy does not apply to those websites. To remain at our site, click CLOSE. To leave our site for the link you selected, click ACCEPT. Thank you for visiting our site.
@@ -557,8 +563,8 @@ You are now leaving the Zeal Credit Union web site. Zeal Credit Union is not res
 * [Careers](https://www.zealcu.org/careers/ "Careers")
 * [Privacy Policy](https://www.zealcu.org/privacy-policy/ "Privacy Policy")
 * [Disclosures](https://www.zealcu.org/disclosures/ "Disclosures")
-* [Welcome](https://www.zealcu.org/welcome/ "Welcome")
 * [FAQs](https://www.zealcu.org/faq/ "FAQs")
+* [Welcome](https://www.zealcu.org/welcome/ "Welcome")
 
 **Zeal Credit Union | 17250 Newburgh Road, Livonia, MI 48152 | 800-321-8570**
 
@@ -591,7 +597,7 @@ Help us personalize our site for you!
 * First Name 
 * Location
     
-    Choose your branch Allen Park Allen Park Drive-Thru Dearborn Detroit Livonia - Middlebelt Rd. Livonia - Newburgh Rd. Lyon Crossing | Coming Soon! Southfield Southgate Taylor Walled Lake Westland (🧡Drive-Thru Only on Saturdays) Woodhaven
+    Choose your branch Allen Park Allen Park Drive-Thru Dearborn Detroit Livonia - Middlebelt Rd. Livonia - Newburgh Rd. Lyon Crossing | Coming Soon! Southfield Southgate Taylor Walled Lake Westland Woodhaven
     
 * What are you here for?
     
