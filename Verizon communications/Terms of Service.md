@@ -54,17 +54,17 @@ Shop
     Devices
     
     * [Smartphones](https://www.verizon.com/smartphones/)
-    * [5G phones](https://www.verizon.com/5g/phones/)
     * [Certified pre-owned phones](https://www.verizon.com/smartphones/certified-pre-owned/)
     * Featured smartphones [Featured smartphones](javascript:void(0))
         
         Featured smartphones
         
-        * [Apple iPhone 15 Pro](https://www.verizon.com/smartphones/apple-iphone-15-pro/)
-        * [Apple iPhone 15](https://www.verizon.com/smartphones/apple-iphone-15/)
+        * [Apple iPhone 16 Pro](https://www.verizon.com/smartphones/apple-iphone-16-pro/)
+        * [Apple iPhone 16](https://www.verizon.com/smartphones/apple-iphone-16/)
         * [Samsung Galaxy S24 Ultra](https://www.verizon.com/smartphones/samsung-galaxy-s24-ultra/)
-        * [Google Pixel 8 Pro](https://www.verizon.com/smartphones/google-pixel-8-pro/)
+        * [Google Pixel 9 Pro](https://www.verizon.com/smartphones/google-pixel-9-pro/)
     * [Bring your own device](https://www.verizon.com/bring-your-own-device/)
+    * [Unlocked phones](https://www.verizon.com/smartphones/?condition=unlocked)
     * [Other phones](https://www.verizon.com/featured/shop-phones-devices/)
     * [Trade in your device](https://www.verizon.com/trade-in/)
     * [Tablets & laptops](https://www.verizon.com/tablets/)
@@ -89,15 +89,16 @@ Shop
         * [Phone attachments](https://www.verizon.com/products/phone-attachments/)
         * [MagSafe compatible](https://www.verizon.com/products/magsafe/)
         * [Verizon accessories](https://www.verizon.com/products/phone-accessories/verizon/?sort=best-sellers)
-    * Watch accessories [Watch accessories](javascript:void(0))
+    * Wearable tech [Wearable tech](javascript:void(0))
         
-        Watch accessories
+        Wearable tech
         
-        * [Shop all watch accessories](https://www.verizon.com/products/watch-accessories/)
+        * [Shop all wearable tech](https://www.verizon.com/products/wearable-tech/)
         * [Smart watches](https://www.verizon.com/connected-smartwatches/)
-        * [Bands](https://www.verizon.com/products/watch-bands/)
-        * [Screen protectors](https://www.verizon.com/products/watch-screen-protectors/)
-        * [Chargers](https://www.verizon.com/products/watch-chargers/)
+        * [Fitness trackers](https://www.verizon.com/products/fitness-trackers/)
+        * [Watch accessories](https://www.verizon.com/products/watch-accessories/)
+        * [Smart glasses](https://www.verizon.com/products/wearable-tech/?s_ProductType=Smart-Glasses)
+        * [Smart rings](https://www.verizon.com/products/wearable-tech/?s_ProductType=Smart-Rings)
     * [Charging](https://www.verizon.com/batteries-and-chargers/)
     * [Audio](https://www.verizon.com/audio/)
     * [Gaming](https://www.verizon.com/gaming/gaming-store/)
@@ -227,11 +228,11 @@ Close
 Sign in
 
 * Back to Menu
-* [Sign in to My Account](https://secure.verizon.com/signin)
-* [Sign in to My Account](https://www.verizon.com/privacy/secure/your-data)
-* [Register](https://secure.verizon.com/account/register/start)
+* [Account overview](https://secure.verizon.com/signin)
+* [Account overview](https://www.verizon.com/privacy/secure/your-data)
+* [Pay bill](https://secure.verizon.com/signin?goto=https%3A%2F%2Fwww.verizon.com%2Ffeatured%2Fintent%2F%3Fintent%3Dpaybill)
 * [Prepaid instant pay](https://myvprepay.verizon.com/prepaid/ui/mobile/InstantPay/)
-* [Wishlist](https://www.verizon.com/sales/digital/Favorites.html)
+* [Register](https://secure.verizon.com/account/register/start)
 * [Business Log in](https://mblogin.verizonwireless.com/account/business/signin)
 
 Close
@@ -246,11 +247,11 @@ Choose your cart:
 Sign in
 
 * Back to Menu
-* [Sign in to My Account](https://secure.verizon.com/signin)
-* [Sign in to My Account](https://www.verizon.com/privacy/secure/your-data)
-* [Register](https://secure.verizon.com/account/register/start)
+* [Account overview](https://secure.verizon.com/signin)
+* [Account overview](https://www.verizon.com/privacy/secure/your-data)
+* [Pay bill](https://secure.verizon.com/signin?goto=https%3A%2F%2Fwww.verizon.com%2Ffeatured%2Fintent%2F%3Fintent%3Dpaybill)
 * [Prepaid instant pay](https://myvprepay.verizon.com/prepaid/ui/mobile/InstantPay/)
-* [Wishlist](https://www.verizon.com/sales/digital/Favorites.html)
+* [Register](https://secure.verizon.com/account/register/start)
 * [Business Log in](https://mblogin.verizonwireless.com/account/business/signin)
 
 Close
@@ -276,13 +277,13 @@ Close
 
 [Personal](https://www.verizon.com/) [Business](https://www.verizon.com/business/)
 
-Get up to $540 when you [bring your own phone](https://www.verizon.com/bring-your-own-device/). Or get iPhone 15 on us. Online only. No trade-in req'd. Limited time offer. [Buy](https://www.verizon.com/smartphones/apple-iphone-15/)  |  [Details.](javascript:void(0);)
+Get up to $540 when you [bring your own phone](https://www.verizon.com/bring-your-own-device/). Or get iPhone 15 on us. Online only. No trade-in req'd. [Buy](https://www.verizonwireless.com/smartphones/apple-iphone-15/)  |  [Details](javascript:void(0);)
 
   
   
 Bring your own device: Receive up to $540 promo credit ($360 on postpaid Unlimited Plus or $540 on Unlimited Ultimate) when you add a new smartphone line with your own 4G/5G smartphone. Promo credit applied over 36 months; promo credits end if eligibility requirements are no longer met. Offer may not be combined with other offers. Limited time offer.  
   
-iPhone: $829.99 (128 GB only) device payment or full retail purchase w/ new smartphone line on Unlimited Ultimate or postpaid Unlimited Plus (min. $80/mo w/Auto Pay (+taxes/fees) for 36 mos) plan req'd. Less $829.99 promo credit applied over 36 mos.; promo credit ends if eligibility req’s are no longer met; 0% APR.
+iPhone: $829.99 (128 GB only) device payment or full retail purchase w/new or upgrade smartphone line on Unlimited Ultimate plan (min. $90/mo w/Auto Pay (+taxes/fees) for 36 mos) req’d. Less $830 trade-in/promo credit applied over 36 mos.; promo credit ends if eligibility req’s are no longer met; 0% APR. For upgrades, phone must be active on account for 60 days prior to trade in. Trade-in terms apply.
 
 end of navigation menu
 
@@ -302,7 +303,7 @@ OK
 
 * [Support](https://www.verizonwireless.com/support/ "Support") [Support](https://www.verizonwireless.com/support/ "Support") 
 * [Other Wireless Topics](https://www.verizonwireless.com/support/other-wireless-topics/ "Other Wireless Topics") 
-My Verizon Wireless Customer Agreement 
+Verizon Mobile Customer Agreement 
 
 * [Introduction](#sec_0)
     * [](#sec_0)
@@ -318,7 +319,7 @@ My Verizon Wireless Customer Agreement
     * [](#ppservice)
 * [Your Mobile Number and Porting.](#porting)
     * [](#porting)
-* [Can I have someone else manage my Postpay account?](#managepp)
+* [Can I have someone else manage all or a portion of my Postpay account?](#managepp)
     * [](#managepp)
 * [Can Verizon change this Agreement or my Service?](#changeagreement)
     * [](#changeagreement)
@@ -336,8 +337,12 @@ My Verizon Wireless Customer Agreement
     * [](#othercharges)
 * [What is roaming?](#roaming)
     * [](#roaming)
-* [How can I prevent unintended charges on my bill or block spam calls?](#blockspam)
+* [What are "Managed Wi-Fi Networks"?](#managedwifinetworks)
+    * [](#managedwifinetworks)
+* [How can I prevent unintended charges on my bill?](#blockspam)
     * [](#blockspam)
+* [How does Verizon help protect me from spam calls?](#spamcalls)
+    * [](#spamcalls)
 * [How and when can I dispute charges?](#dispute)
     * [](#dispute)
 * [What are my rights for dropped calls or interrupted Service?](#droppedcalls)
@@ -373,7 +378,7 @@ My Verizon Wireless Customer Agreement
 * [My Privacy](#)
 * [What happens if my Postpay Service is canceled before the end of my contract term?](#)
 * [Your Mobile Number and Porting.](#)
-* [Can I have someone else manage my Postpay account?](#)
+* [Can I have someone else manage all or a portion of my Postpay account?](#)
 * [Can Verizon change this Agreement or my Service?](#)
 * [My wireless device](#)
 * [Internet Access](#)
@@ -382,7 +387,9 @@ My Verizon Wireless Customer Agreement
 * [What Charges are set by Verizon?](#)
 * [Government Taxes, Fees and Other Charges](#)
 * [What is roaming?](#)
-* [How can I prevent unintended charges on my bill or block spam calls?](#)
+* [What are "Managed Wi-Fi Networks"?](#)
+* [How can I prevent unintended charges on my bill?](#)
+* [How does Verizon help protect me from spam calls?](#)
 * [How and when can I dispute charges?](#)
 * [What are my rights for dropped calls or interrupted Service?](#)
 * [Billing and Payments](#)
@@ -396,10 +403,10 @@ My Verizon Wireless Customer Agreement
 
 [**Page contents**](#mobile-nav)
 
-My Verizon Wireless Customer Agreement
+Verizon Mobile Customer Agreement
 
 
-==========================================
+=====================================
 
  
 
@@ -419,14 +426,14 @@ Customer Agreement
 My Service
 ----------
 
-**Your Service terms and conditions are part of this Agreement.** Your Plan includes your monthly allowances and features, where you can use them (your "Coverage Area"), and their monthly and pay–per–use charges. You can also subscribe to several Optional Services, like international service plans or equipment protection services. Together, your Plan, features you use and any Optional Services you select are your Service. Your billing and shipping addresses, and your primary place of use, must be within the areas served by the network Verizon owns and operates. The current version of this Agreement and the terms and conditions for your Service are available online at [verizon.com](https://www.verizon.com/). A description of permitted and prohibited uses for calling and Data Services is available online at [verizon.com/support/important-plan-information](https://www.verizon.com/support/important-plan-information/) or for prepaid at [verizon.com/support/prepaid-customer-info-legal](https://www.verizon.com/support/prepaid-customer-info-legal/).  
+**Your Service terms and conditions are part of this Agreement.** Your Plan includes your monthly allowances and features, where you can use them (your "Coverage Area"), and their monthly and pay–per–use charges. You can also subscribe to several Optional Services, like international service plans, perks, or equipment protection services. Together, your Plan, features you use and any Optional Services you select are your Service. Your billing and shipping addresses, and your primary place of use, must be within the areas served by the network Verizon owns and operates. The current version of this Agreement and the terms and conditions for your Service are available online at [verizon.com](https://www.verizon.com/). A description of permitted and prohibited uses for calling and Data Services is available online at [verizon.com/support/important-plan-information](https://www.verizon.com/support/important-plan-information/) or for prepaid at [verizon.com/support/prepaid-customer-info-legal](https://www.verizon.com/support/prepaid-customer-info-legal/).  
   
-By using the Service, you are agreeing to every provision of this Agreement, any applicable terms and conditions for your Service, and the terms described in the Important Plan Information whether or not you have read them. This Agreement also applies to all lines on your account and anyone who uses your Service.
+By using the Service, you are agreeing to every provision of this Agreement, any applicable terms and conditions for your Service, and the terms described in the Important Plan Information whether or not you have read them. This Agreement applies to you, the Account Owner (person ultimately financially liable for the account) and also applies to all lines on your account, subaccount and anyone who uses your Service.
 
 Cancellation
 ------------
 
-**You can cancel a line of Service within 30 days of accepting this Agreement as long as you return, within the applicable return period, any equipment you purchased from us or one of our authorized retailers at a discount in connection with your acceptance of this Agreement, but you'll still have to pay for your Service through that date. If you signed up for Prepaid Service, no refunds will be granted after 30 days or if your account has been activated. See [verizon.com/support/return-policy/](https://www.verizon.com/support/return-policy/) for complete details and information on returning your equipment.**
+**You can cancel a line of Service within 30 days of accepting this Agreement as long as you return, within the applicable return period, any equipment you purchased from us or one of our authorized retailers in connection with your acceptance of this Agreement, but you'll still have to pay for your Service through that date. If you financed your device with Verizon and cancel your Service(s) after 30 days, your outstanding balance may immediately become due. Canceling service may also impact promotions associated with that line(s). You may manage your Service at any time at [Verizon.com](https://www.verizon.com/). If you signed up for Prepaid Service, no refunds will be granted after 30 days or if your account has been activated. See [verizon.com/support/return-policy/](https://www.verizon.com/support/return-policy/) for complete details and information on returning your equipment.**
 
 My Privacy
 ----------
@@ -435,14 +442,18 @@ Accepting this Agreement means that you also agree to our Privacy Policy, availa
   
 If you subscribe to Service for which usage charges are billed at the end of the billing period ("Postpay Service"), or have a device payment installment agreement, we may investigate your credit history at any time in connection with the service subscription or device payment installment agreement. If you'd like the name and address of any credit agency that gives us a credit report about you, just ask.  
   
+We may report information about your account to credit bureaus. Late payments, missed payments, or other defaults on your account may be reflected in your credit report.  
+  
+You authorize Verizon to use or disclose information about your account and your wireless device, if available, to Verizon or its service providers for the duration of your business relationship, solely to help them identify you or your wireless device and to prevent fraud. See our Privacy Policy to see how we treat your data.  
+  
 Many services and applications offered through your device may be provided by third parties. When you access and use third-party services, including third-party services which Verizon may make available as part of or in connection with your Verizon Service, you are subject to the terms of service and privacy policy issued by those third-party providers when using their services. You should review their applicable terms and privacy policy before you use, link to or download a service or application provided by a third party.  
   
-You agree that Verizon and collections agencies that work on our behalf may contact you about your account status, including past-due or current charges, using prerecorded calls, email and calls or messages delivered by an automatic telephone dialing system to any wireless phone number, other contact number or email address you provide. Verizon will treat any email address you provide as your private email that is only accessible by you; you acknowledge that we may send you receipts, notices and other documents regarding your service to this email address. Unless you notify us that your wireless service is based in a different time zone, calls will be made to your cellular device during permitted calling hours based upon the time zone affiliated with the mobile telephone number you provide.
+You agree that Verizon and collections agencies that work on our behalf may contact you about your account status, including past-due or current charges, using prerecorded calls, email and calls or messages delivered by an automatic telephone dialing system to any wireless phone number, other contact number or email address you provide. Verizon will treat any mobile telephone number and any email address you provide as private and only accessible by you; you acknowledge that we may send you receipts, notices (including billing notices) and other documents regarding your service to this email address(es) or by text message at **ANY TIME**. Unless you notify us that your wireless service is based in a different time zone, calls will be made to your cellular device during permitted calling hours based upon the time zone affiliated with the mobile telephone number you provide. Communication preferences can be managed any time by visiting [verizon.com/myverizon](https://secure.verizon.com/signin).
 
 What happens if my Postpay Service is canceled before the end of my contract term?
 ----------------------------------------------------------------------------------
 
-If you're signing up for Postpay Service, you're agreeing to subscribe to a line of Service either on a month–to–month basis or for a minimum contract term, as shown on your receipt or order confirmation. (If your Service is suspended without billing or at a reduced billing rate, that time doesn't count toward completing your contract term.) Once you've completed your contract term, you'll automatically become a customer on a month–to–month basis for that line of Service. **If your line of service has a contract term and you cancel that line, or if we cancel it for good cause, during that contract term, you'll have to pay an early termination fee. If your contract term results from your purchase of an advanced device, your early termination fee will be $350, which will decline by $10 per month upon completion of months 7–17, $20 per month upon completion of months 18–22, $60 upon completion of month 23 and will be $0 upon completion of the contract term. For other contract terms, your early termination fee will be $175, which will decline by $5 per month upon completion of months 7–17, $10 per month upon completion of months 18–22, $30 upon completion of month 23 and will be $0 upon completion of your contract term. Cancellations will become effective on the last day of that month's billing cycle,** and you are responsible for all charges incurred until then. Also, if you bought your wireless device from an authorized agent or third–party vendor, you should check whether it charges a separate termination fee.  
+If you're signing up for consumer Postpay Service, you're agreeing to subscribe to a line of Service on a month–to–month basis. If you signed up for a minimum contract term, as shown on your receipt or order confirmation, once you've completed your contract term, you'll automatically become a customer on a month–to–month basis for that line of Service. (If your Service is suspended without billing or at a reduced billing rate, that time doesn't count toward completing your contract term.) Also, if you bought your wireless device from an authorized agent or third–party vendor, you should check whether it charges a separate termination fee.  
   
 **If you purchased a device on a monthly installment agreement and cancel service, you should check that agreement to determine if you may have to immediately pay off the balance.**
 
@@ -451,10 +462,10 @@ Your Mobile Number and Porting.
 
 You may be able to transfer, or "port," your wireless phone number to another carrier. If you port a number from us, we'll treat it as though you asked us to cancel your Service for that number. After the porting is completed, you won't be able to use our service for that number, but you'll remain responsible for all fees and charges through the end of that billing cycle, just like any other cancellation. If you're a Prepaid customer, you won't be entitled to a refund of any balance on your account. If you port a number to us, please be aware that we may not be able to provide some services right away, such as 911 location services. You don't have any rights to your wireless phone number, except for any right you may have to port it. After a line of service is disconnected, for any reason, the disconnected Mobile Telephone Number (MTN) may not be suspended or otherwise reserved and may not be able to be recovered.
 
-Can I have someone else manage my Postpay account?
---------------------------------------------------
+Can I have someone else manage all or a portion of my Postpay account?
+----------------------------------------------------------------------
 
-No problem – just tell us by phone, in person or in writing. You can appoint someone to manage your Postpay account. The person you appoint (the Account Manager) must be age 18 or older (19 in Alabama and Nebraska). Anyone you appoint as an Account Manager will be able to make changes to your account, including adding new lines of Service, buying a new wireless device(s) on a device payment agreement based upon your credit history, billing certain services and accessories to your account, and extending your contract term. Any changes that person makes will be treated as modifications to this Agreement. You, the Account Owner, remain responsible for any changes an Account Manager makes to your account.
+No problem – just tell us by phone, in person, or in writing. You can appoint someone to manage your Postpay account. The person you appoint (the Account Manager) must be age 18 or older (19 in Alabama and Nebraska) and must not use a device or service that is intended for use by a child. Anyone you appoint as an Account Manager will be able to make changes to your account, including adding new lines of Service, buying a new wireless device(s) on a device payment agreement based upon your credit history, billing certain services and accessories to your account, and extending your contract term. Some account owners may want to create a subaccount. A subaccount enables an Account Owner to designate one or more lines to a subaccount and send the bill for the lines on a subaccount to a specified Account Manager with the intent to have them pay that portion separately. If an Account Owner or Manager creates a sub-account, the Account Owner remains liable for any unpaid portion(s). Any changes that an Account Manager makes, whether on an account or subaccount, will be treated as modifications to this Agreement. You, the Account Owner, remain responsible for any changes an Account Manager makes to your account.
 
 Can Verizon change this Agreement or my Service?
 ------------------------------------------------
@@ -496,12 +507,22 @@ What is roaming?
 
 You're "roaming" whenever your wireless device connects to a network outside your Coverage Area or connects to another carrier's network, which could happen even within your Coverage Area. There may be higher rates or extra charges (including charges for long distance, tolls or calls that don't connect), and your data service may be limited or slowed when roaming.
 
-How can I prevent unintended charges on my bill or block spam calls?
---------------------------------------------------------------------
+What are "Managed Wi-Fi Networks"?
+----------------------------------
 
-Many services and applications are accessible on or through wireless devices, including purchases of games, movies, music and other content. Some of these services are provided by Verizon. Others are provided by third parties that may offer the option to bill the charges to your Verizon bill or other methods of payment. Charges may be one-time or recurring. The amount and frequency of the charges will be disclosed to you or the person using your device or a device associated with your account at the time a purchase is made. If the purchaser chooses to have the charges billed to your account, such charges will become part of the amount due for that billing cycle. **Verizon offers tools to block or restrict these services, and to block all billing for third-party services on your Verizon wireless bill, at [verizonwireless.com/myverizon](https://verizon.com/myverizon/). We do not support calls to 900, 976 and certain other international premium rate numbers.**  
+Verizon has agreements with certain entities, such as retailers, campuses, enterprises, stadiums, airports, and other similar locations and venues, to allow Verizon customers who have enabled Wi-Fi connectivity on their device to automatically authenticate and join a Wi-Fi network owned and operated by those entities (a "Managed Wi-Fi Network") when their device enters that entity's facilities. If you have enabled Wi-Fi connectivity, your device will automatically authenticate and connect to these Managed Wi-Fi Networks. A Managed Wi-Fi Network may be identified as "VerizonWiFi Passpoint," "VerizonWiFiAccess," or "PrivateMobileWiFi" when you connect. Once connected, your data connectivity will be supplied by the Managed Wi-Fi Network. If you have enabled Wi-Fi calling, your voice and text messages may be transmitted over the Managed Wi-Fi Network as well. We require these entities to limit data access, use and retention only to what is essential to provide the WiFi service. You can disable connectivity by turning off Wi-Fi or by disabling connectivity to that specific network in your device's Wi-Fi settings. You can prevent connectivity by turning off Wi-Fi.
+
+How can I prevent unintended charges on my bill?
+------------------------------------------------
+
+Many services and applications are accessible on or through wireless devices, including purchases of games, movies, music and other content. Some of these services are provided by Verizon. Others are provided by third parties that may offer the option to bill the charges to your Verizon bill or other methods of payment. Charges may be one-time or recurring. The amount and frequency of the charges will be disclosed to you or the person using your device or a device associated with your account at the time a purchase is made. If the purchaser chooses to have the charges billed to your account, such charges will become part of the amount due for that billing cycle. **Verizon offers tools to block or restrict these services, and to block all billing for third-party services on your Verizon wireless bill, at [verizonwireless.com/myverizon](https://verizon.com/myverizon/). We do not support calls to 900, 976 and certain other international premium rate numbers.**
+
+How does Verizon help protect me from spam calls?
+-------------------------------------------------
+
+Verizon automatically blocks in the network many calls that are highly likely to be illegal, such as calls from telephone numbers that are not authorized to make outbound calls. Additionally, your Service includes access to optional blocking tools for unwanted robocalls through our Call Filter service to which you may be auto-enrolled. This service sends to voicemail many calls we determine to be high-risk spam, but you can adjust your spam filter preferences to block more or less calls. Visit [https://www.verizon.com/about/responsibility/robocalls](https://www.verizon.com/about/responsibility/robocalls) for more info.  
   
-Verizon automatically blocks in the network many calls that are highly likely to be illegal, such as calls from telephone numbers that are not authorized to make outbound calls. Additionally, your Service includes access to optional blocking tools for unwanted robocalls through our Call Filter service to which you may be auto-enrolled. This service sends to voicemail many calls we determine to be high-risk spam, but you can adjust your spam filter preferences to block more or less calls. Visit [www.verizon.com/about/responsibility/robocalls](https://www.verizon.com/about/responsibility/robocalls) for more info.
+If you have a capable device, you may receive calls with a branded caller ID display, which allows a participating business to display their name, logo and other information when calling you. Branded caller ID is intended to help you decide whether to answer a call. Your device uses data to display a branded call logo, and therefore is provided in accordance with your wireless plan.
 
 How and when can I dispute charges?
 -----------------------------------
@@ -516,9 +537,9 @@ If you drop a call in your Coverage Area, redial. If it's answered within 5 minu
 Billing and Payments
 --------------------
 
-**If you're a Postpay customer and we don't get your payment on time, we will charge you a late fee of up to 5 percent per month on the unpaid balance, or a flat $7 per month, whichever is greater, if allowed by law in the state of your billing address.** (If you choose to have your Service billed by another company (pursuant to a Verizon-approved program), late fees are set by that company and may be higher than our late fees.) Late fees are part of the rates and charges you agree to pay. If you fail to pay on time and we refer your account(s) to a third party for collection, a collection fee will be assessed and will be due at the time of the referral to the third party. The fee will be calculated at the maximum percentage permitted by applicable law, not to exceed 18 percent. We may require a deposit at the time of activation or afterward, or an increased deposit. We'll pay simple interest on any deposit at the rate the law requires. We may apply deposits or payments in any order to any amounts you owe us on any account. If your final credit balance is less than $1, we will refund it only if you ask. If your service is suspended or terminated, you may have to pay a fee to have service reactivated.  
+**If you're a Postpay customer and we don't get your payment on time, we will charge you a late fee of up to 5 percent per month on the unpaid balance, or a flat $7 per month, whichever is greater, if allowed by law in the state of your billing address.** (If you choose to have your Service billed by another company (pursuant to a Verizon-approved program), late fees are set by that company and may be higher than our late fees.) Late fees are part of the rates and charges you agree to pay. If you fail to pay on time and we refer your account(s) to a third party for collection, a collection fee will be assessed and will be due at the time of the referral to the third party. The fee will be calculated at the maximum percentage permitted by applicable law, not to exceed 18 percent. We may require a deposit at the time of activation or afterward, or an increased deposit. We'll pay simple interest on any deposit at the rate the law requires. We may apply deposits or payments in any order to any amounts you owe us on any account. If your final credit balance is less than $1, we will refund it only if you ask. If your service is suspended or terminated, you may have to pay a fee to have service reactivated. Billing for mobile Service begins when your Service is activated, or, if your device is mailed to you, on your estimated delivery date, whichever is earlier; billing for Verizon Home Internet (Wireless) Service starts on your estimated delivery date, or day of in-store pickup or professional setup completion, whichever is earlier. Your estimated delivery date is the delivery date that our shipping partner provides when we place it in their care for shipment.  
   
-If you're a Prepaid customer, you may replenish your balance at any time before the expiration date by providing us with another payment. If you maintain a Prepaid account balance, it may not exceed $1,000 and you may be prevented from replenishing if your balance reaches $1,000. We may apply your payments to any amounts you may owe us if your earlier account replenishment payments had been reversed. If you do not have sufficient funds in your account to cover your Service, and sufficient funds are not added within 60 days, your account will be canceled and any unused balance will be forfeited.  
+If you're a Verizon Prepaid customer, you may replenish your balance at any time before the expiration date by providing us with another payment. If you maintain a Prepaid account balance, it may not exceed $1,000 and you may be prevented from replenishing if your balance reaches $1,000. We may apply your payments to any amounts you may owe us if your earlier account replenishment payments had been reversed. If you do not have sufficient funds in your account to cover your Service, and sufficient funds are not added within 60 days, your account will be canceled and any unused balance will be forfeited.  
   
 If your check or electronic bank payment to us is returned as not payable, we will charge your account a returned payment fee that will be the lesser of $30 or the maximum allowable by law. The substantive laws of Pennsylvania shall be applied to disputes related to checks tendered as payment in full for less than the full balance due, without regard to the conflicts of laws and rules of that state. If you make a payment, or make a payment arrangement, through a call center representative, we may charge you an Agent Assistance Fee. If you make a payment while your account has a credit balance, we may reject, reverse, or return the entire payment.
 
@@ -537,12 +558,12 @@ Verizon periodically checks and provides reporting to the Global System for Mobi
 What are Verizon's rights to limit or end Service or end this Agreement?
 ------------------------------------------------------------------------
 
-We can, without notice, limit, suspend or end your Service or any agreement with you for any good cause, including, but not limited to: (1) if you: (a) breach this agreement or violate our Acceptable Use Policy ([https://www.verizon.com/about/terms-conditions/acceptable-use-policy](https://www.verizon.com/about/terms-conditions/acceptable-use-policy/)) or prohibited usage policies; (b) resell your Service; (c) use your Service for any illegal purpose, including use that violates trade and economic sanctions and prohibitions promulgated by any US governmental agency; (d) install, deploy or use any regeneration equipment or similar mechanism (for example, a repeater) to originate, amplify, enhance, retransmit or regenerate an RF signal without our permission; (e) steal from or lie to us; or, if you're a Postpay customer, (f) do not pay your bill on time; (g) incur charges larger than a required deposit or billing limit, or materially in excess of your monthly access charges (even if we haven't yet billed the charges); (h) provide credit information we can't verify; (i) are unable to pay us or go bankrupt; or (j) default under any device financing agreement with Verizon; or (2) if you, or any user of your device or any line of service on your account, or any account manager on your account: (a) threaten, harass, or use vulgar and/or inappropriate language toward our representatives; (b) interfere with our operations; (c) "spam," or engage in other abusive messaging or calling; (d) modify your device from its manufacturer's specifications; or (e) use your Service in a way that negatively affects our network or other customers. If the amount of a single mobile line's total monthly data use in a bill cycle exceeds the average amount of data consumed by the top 0.5% of users on our network during the preceding six-month period, we may reduce data speeds to your device to 4Mbps for the remainder of the cycle. If the amount of a single 5G Home Internet or LTE Home Internet line’s total monthly data use in a bill cycle exceeds the average amount of data consumed by the top 0.5% of users on our network during the preceding six-month period, we may reduce data speeds for the remainder of the cycle to (i) 5 Mbps for LTE Home, LTE Home Plus and 5G Home plans, and (ii) 15 Mbps for 5G Home Plus plans. We can also temporarily limit your Service for any operational or governmental reason.
+We can, without notice, limit, suspend or end your Service or any agreement with you for any good cause, including, but not limited to: (1) if you: (a) breach this agreement or violate our Acceptable Use Policy ([https://www.verizon.com/about/terms-conditions/acceptable-use-policy](https://www.verizon.com/about/terms-conditions/acceptable-use-policy/)) or prohibited usage policies; (b) resell your Service; (c) use your Service for any illegal purpose, including use that violates trade and economic sanctions and prohibitions promulgated by any US governmental agency; (d) install, deploy or use any regeneration equipment or similar mechanism (for example, a repeater) to originate, amplify, enhance, retransmit or regenerate an RF signal without our permission; (e) steal from or lie to us; or, if you're a Postpay customer, (f) do not pay your bill on time; (g) incur charges larger than a required deposit or billing limit, or materially in excess of your monthly access charges (even if we haven't yet billed the charges); (h) provide credit information we can't verify; (i) are unable to pay us or go bankrupt; or (j) default under any device financing agreement with Verizon; or (2) if you, or any user of your device or any line of service on your account, or any account manager on your account: (a) threaten, harass, or use vulgar and/or inappropriate language toward our representatives; (b) interfere with our operations; (c) "spam," or engage in other abusive messaging or calling; (d) modify your device from its manufacturer's specifications; or (e) use your Service in a way that negatively affects our network or other customers. If the amount of a single mobile line's total monthly data use in a bill cycle exceeds the average amount of data consumed by the top 0.5% of users on our network during the preceding six-month period, we may reduce data speeds to your device to 4 Mbps for the remainder of the cycle. If the amount of a single 5G Home Internet or LTE Home Internet line’s total monthly data use in a bill cycle exceeds the average amount of data consumed by the top 0.5% of users on our network during the preceding six-month period, we may reduce data speeds for the remainder of the cycle to (i) 5 Mbps for LTE Home, LTE Home Plus and 5G Home plans, and (ii) 15 Mbps for 5G Home Plus plans. We can also temporarily limit your Service for any operational or governmental reason.
 
 Am I eligible for special discounts?
 ------------------------------------
 
-If you're a Postpay customer, you may be eligible for a discount if you are and remain affiliated with an organization that has an agreement with us. Unless your discount is through a government employee discount program, we may share certain information about your Service (including your name, your wireless telephone number and your total monthly charges) with your organization from time to time to make sure you're still eligible. We may adjust or remove your discount according to your organization's agreement with us, and remove your discount if your eligibility ends or your contract term expires. In any case, this won't be considered to have a material adverse effect on you.
+If you're a Postpay customer, you may be eligible for a discount if you are and remain affiliated with certain professions or an organization that has an agreement with us. Unless your discount is through a government employee discount program, we may share certain information about your Service (including your name, your wireless telephone number and your total monthly charges) with your organization from time to time to make sure you're still eligible. We may adjust or remove your discount according to your organization's agreement with us, and remove your discount if your eligibility ends or your contract term expires. In any case, this won't be considered to have a material adverse effect on you.
 
 DISCLAIMER OF WARRANTIES
 ------------------------
@@ -590,7 +611,7 @@ If either you or we don't enforce our rights under this agreement in one instanc
   
 **This agreement and the documents it incorporates form the entire agreement between us. Any other documents or on anything said by any Sales or Customer Service Representatives will not form any part of the agreement between us, and you have no other rights regarding Service or this agreement.** This Agreement isn't for the benefit of any third party except our parent companies, affiliates, subsidiaries, agents, and predecessors and successors in interest. Except where we've agreed otherwise elsewhere in this agreement, this agreement and any disputes covered by it are governed by federal law and the laws of the state encompassing the billing address associated with your Verizon account, without regard to the conflicts of laws and rules of that state.  
   
-Updated February 14, 2024
+Updated August 28, 2024
 
 Shop
 
@@ -639,8 +660,8 @@ About Verizon
 
 Most Popular
 
-* [Apple iPhone 15 Pro Max](https://www.verizon.com/smartphones/apple-iphone-15-pro-max/)
-* [Apple iPhone 15 Plus](https://www.verizon.com/smartphones/apple-iphone-15-plus/)
+* [Apple iPhone 16 Pro Max](https://www.verizon.com/smartphones/apple-iphone-16-pro-max/)
+* [Apple iPhone 16 Plus](https://www.verizon.com/smartphones/apple-iphone-16-plus/)
 * [Samsung Galaxy S24 Ultra](https://www.verizon.com/smartphones/samsung-galaxy-s24-ultra/)
 * [Apple AirPods Max](https://www.verizon.com/products/apple-airpods-max-headphones/)
 * [Disney](https://www.verizon.com/solutions-and-services/disneyplus/)
@@ -669,6 +690,7 @@ Important Consumer Information
 * [Taxes & surcharges](https://www.verizon.com/support/surcharges/)
 * [Recall](https://www.verizon.com/featured/jetpack-recall)
 * [Legal notices](https://www.verizon.com/legal/notices/legal-notices/)
+* [NMLS Consumer Access (NMLS ID #1165814)](https://www.nmlsconsumeraccess.org/)
 
 Follow Verizon
 
