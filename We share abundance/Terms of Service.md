@@ -1,60 +1,28 @@
 [Skip to content](#main)
 
-* [Home](https://weshareabundance.com/usw/)
-* [Citizenship](https://weshareabundance.com/citizenship/)
-* [Share Hope](https://weshareabundance.com/ppip/)
-    * [7-7-7 Registration](https://weshareabundance.com/plreg/)
-    * [Poverty Crusher In A Nutshell](https://weshareabundance.com/poverty-crusher-in-a-nutshell/)
-    * [The Easy Business Builder Preview](https://weshareabundance.com/ebb/)
-* [Mission](https://weshareabundance.com/mission/)
-* [Daily Updates](https://weshareabundance.com/daily-updates/)
-* [Free Raffle](https://weshareabundance.com/free-lottery/)
-* [Manifest](https://weshareabundance.com/manifest/)
-* [Support](https://simplefastcash.biz/support/Instructions.htm)
-* [REGISTER](https://weshareabundance.com/register/)
-* [LOGIN](https://membersnew.weshareabundance.com/#)
-* [FAQ’s](https://weshareabundance.com/faqs/)
-* [Terms & Conditions](https://weshareabundance.com/terms-conditions/)
+* 
+* 
 
-[![WSA COMMUNITY](https://weshareabundance.com/wp-content/uploads/2021/01/WSALogoNew.png)](https://weshareabundance.com/)
+[WSA COMMUNITY](https://weshareabundance.com/)
 
-* [Home](https://weshareabundance.com/usw/)
-* [How To Make Money Online](https://weshareabundance.com/make-money-online/)
-* [Powerline](https://weshareabundance.com/powerline/)
-* [White Paper](https://wesa.money/)
-* [Register](https://weshareabundance.com/register/)
-* [Connecting Your Wallet](https://weshareabundance.com/metamask/)
-* [Log In](https://membersnew.weshareabundance.com/#)
-* [Support](https://simplefastcash.biz/support/Instructions.htm)
+* 
+* 
 * [Toggle website search](https://weshareabundance.com/#)
 
 [Menu Close](https://weshareabundance.com/#mobile-menu-toggle)
 
-* [Home](https://weshareabundance.com/usw/)
-* [How To Make Money Online](https://weshareabundance.com/make-money-online/)
-* [Powerline](https://weshareabundance.com/powerline/)
-* [White Paper](https://wesa.money/)
-* [Register](https://weshareabundance.com/register/)
-* [Connecting Your Wallet](https://weshareabundance.com/metamask/)
-* [Log In](https://membersnew.weshareabundance.com/#)
-* [Support](https://simplefastcash.biz/support/Instructions.htm)
+* 
+* 
 * [Toggle website search](https://weshareabundance.com/#)
 
-* [Home](https://weshareabundance.com/usw/)
-* [Citizenship](https://weshareabundance.com/citizenship/)
-* [Share Hope](https://weshareabundance.com/ppip/)
-    * [7-7-7 Registration](https://weshareabundance.com/plreg/)
-    * [Poverty Crusher In A Nutshell](https://weshareabundance.com/poverty-crusher-in-a-nutshell/)
-    * [The Easy Business Builder Preview](https://weshareabundance.com/ebb/)
-* [Mission](https://weshareabundance.com/mission/)
-* [Daily Updates](https://weshareabundance.com/daily-updates/)
-* [Free Raffle](https://weshareabundance.com/free-lottery/)
-* [Manifest](https://weshareabundance.com/manifest/)
-* [Support](https://simplefastcash.biz/support/Instructions.htm)
-* [REGISTER](https://weshareabundance.com/register/)
-* [LOGIN](https://membersnew.weshareabundance.com/#)
-* [FAQ’s](https://weshareabundance.com/faqs/)
-* [Terms & Conditions](https://weshareabundance.com/terms-conditions/)
+* 
+* 
+
+Terms & Conditions
+==================
+
+3. [Home](https://weshareabundance.com/)\>
+4. [Terms & Conditions](https://weshareabundance.com/terms-conditions/)
 
 We Share Abundance Terms and Conditions
 ---------------------------------------
@@ -181,6 +149,14 @@ Such withdrawals will be calculated as the exact value of Tokens deposited at th
 
 **We are not and do not have licence as an exchang or trading platform and any manipulation of our systems to execute trades will be deemed gross misconduct and may result, at Admin’s discretion, in the termination of such an account with a total loss of all benefits. Any warnings given and unheeded will always result in termination of the account.**
 
+#### Recent Comments
+
+* Jonathan on [SMALL PRINT](https://weshareabundance.com/small-print/#comment-3866)
+* [Lt Francis Brown Chafwa Mutale](http://ltfbcmutale/) on [SMALL PRINT](https://weshareabundance.com/small-print/#comment-3852)
+* [Lt Francis Brown Chafwa Mutale](http://ltfbcmutale/) on [SMALL PRINT](https://weshareabundance.com/small-print/#comment-3851)
+* [Lt Francis Brown Chafwa Mutale](http://ltfbcmutale/) on [SMALL PRINT](https://weshareabundance.com/small-print/#comment-3850)
+* Jason on [SMALL PRINT](https://weshareabundance.com/small-print/#comment-3849)
+
 Contact Info
 ------------
 
@@ -191,29 +167,20 @@ Contact Info
 * Email:[\[email protected\]](https://weshareabundance.com/cdn-cgi/l/email-protection)Opens in your application
     
 
-Contact Us
-----------
-
-* [Contact Us](https://weshareabundance.com/contact-us/)
-* [FAQ’s](https://weshareabundance.com/faqs/)
-* [WHAT TO DO](https://weshareabundance.com/what-to-do/)
-* [Terms & Conditions](https://weshareabundance.com/terms-conditions/)
-* [Privacy Policy](https://weshareabundance.com/privacy-policy/)
-
 Subscribe
 ---------
 
-* [Facebook Group](https://www.facebook.com/groups/weshareabundancepublicly)
-* [MONEY](https://weshareabundance.com/money/)
-* [TOOLS](https://weshareabundance.com/tools/)
-* [CONCEPT](https://weshareabundance.com/concept/)
+* Facebook Group
+* 
+* 
+* 
 
-[![join now](https://weshareabundance.com/wp-content/uploads/2021/01/join-now-250px_7.png)](https://weshareabundance.com/register/)
+[![join now](https://stage.weshareabundance.com/wp-content/uploads/2021/01/join-now-250px_7.png)](https://weshareabundance.com/register/)
 
-* [Facebook Group](https://www.facebook.com/groups/weshareabundancepublicly)
-* [MONEY](https://weshareabundance.com/money/)
-* [TOOLS](https://weshareabundance.com/tools/)
-* [CONCEPT](https://weshareabundance.com/concept/)
+* Facebook Group
+* 
+* 
+* 
 
 Copyright © 2021 We Share Abundance. All Rights Reserved.
 
