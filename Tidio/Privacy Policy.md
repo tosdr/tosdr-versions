@@ -1,4 +1,6 @@
-[Meet Lyro AI Chatbot - Solve up to 70% of customer problems with AI](https://www.tidio.com/chatbot-ai/)
+[Get free ebook
+
+Awe shoppers with stellar customer service during the holiday season](https://www.tidio.com/playbooks/customer-service-automation-guide/)
 
 [Log in](https://www.tidio.com/panel/login)
 
@@ -310,13 +312,13 @@ Endeksa’s Lead Generation Grows by 138% with Tidio Flows](https://www.tidio.co
 
 Learn
 
-Tidio Academy
+Featured Guide
 
-[![Tidio Academy green icon with academic cap](/_next/image/?url=%2Fimages%2Fnav%2Ftidio-academy-mobile.png&w=3840&q=75)
+[![](/_next/image/?url=%2Fimages%2Fnav%2Ftidio-academy-mobile.png&w=3840&q=75)
 
-###### Tidio Academy
+###### 2024 Holiday Customer Service Blueprint
 
-Propel your customer service to the next level with Tidio’s free courses.](https://academy.tidio.com/)
+Prepare your business for the holiday season. Discover how to awe shoppers with stellar customer service during peak season.](https://www.tidio.com/playbooks/customer-service-automation-guide/)
 
 Playbooks
 
@@ -336,9 +338,13 @@ Guides
 
 Resources
 
+[Webinars](https://app.getcontrast.io/tidio?utm_source=navbar&utm_medium=link)
+
 [Podcasts](https://www.tidio.com/resources/podcasts/)
 
 [Flows ROI Calculator](https://www.tidio.com/calculators/flows/)
+
+[Tidio Academy](https://academy.tidio.com/)
 
 [See all Resources](https://www.tidio.com/resources/)
 
@@ -354,14 +360,6 @@ Compare Tidio
 
 [Tidio vs Zendesk](https://www.tidio.com/vs/zendesk/)
 
-AI Showdown
-
-[Lyro vs Zowie](https://www.tidio.com/blog/lyro-vs-zowie/)
-
-[Lyro vs Ada](https://www.tidio.com/blog/lyro-vs-ada/)
-
-[Learn more about Lyro AI Chatbot](https://www.tidio.com/chatbot-ai/)
-
 Other comparisons
 
 [AI Customer Support: 10 Best Solutions](https://www.tidio.com/blog/ai-customer-support-software/)
@@ -371,6 +369,14 @@ Other comparisons
 [Top 10 Shared Inbox Tools](https://www.tidio.com/blog/shared-inbox-tools/)
 
 [Top 8 Squarespace Chat Plugins](https://www.tidio.com/blog/squarespace-chat-plugin/)
+
+AI Showdown
+
+[Lyro vs Ada](https://www.tidio.com/blog/lyro-vs-ada/)
+
+[AI Chatbot Playground](https://www.tidio.com/chatbot-ai/playground/)
+
+[Discover Lyro AI Chatbot](https://www.tidio.com/chatbot-ai/)
 
 Help Center
 
@@ -472,13 +478,13 @@ Bella Santé Adds $66K+ to Revenue with Lyro AI Chatbot](https://www.tidio.com/b
 
 Endeksa’s Lead Generation Grows by 138% with Tidio Flows](https://www.tidio.com/blog/endeksa-case-study/)
 
-Tidio Academy
+Featured Guide
 
-[![Tidio Academy green icon with academic cap](/_next/image/?url=%2Fimages%2Fnav%2Ftidio-academy-mobile.png&w=3840&q=75)
+[![](/_next/image/?url=%2Fimages%2Fnav%2Ftidio-academy-mobile.png&w=3840&q=75)
 
-###### Tidio Academy
+###### 2024 Holiday Customer Service Blueprint
 
-Propel your customer service to the next level with Tidio’s free courses.](https://academy.tidio.com/)
+Prepare your business for the holiday season. Discover how to awe shoppers with stellar customer service during peak season.](https://www.tidio.com/playbooks/customer-service-automation-guide/)
 
 Playbooks
 
@@ -498,9 +504,13 @@ Guides
 
 Resources
 
+[Webinars](https://app.getcontrast.io/tidio?utm_source=navbar&utm_medium=link)
+
 [Podcasts](https://www.tidio.com/resources/podcasts/)
 
 [Flows ROI Calculator](https://www.tidio.com/calculators/flows/)
+
+[Tidio Academy](https://academy.tidio.com/)
 
 [See all Resources](https://www.tidio.com/resources/)
 
@@ -516,14 +526,6 @@ Compare Tidio
 
 [Tidio vs Zendesk](https://www.tidio.com/vs/zendesk/)
 
-AI Showdown
-
-[Lyro vs Zowie](https://www.tidio.com/blog/lyro-vs-zowie/)
-
-[Lyro vs Ada](https://www.tidio.com/blog/lyro-vs-ada/)
-
-[Learn more about Lyro AI Chatbot](https://www.tidio.com/chatbot-ai/)
-
 Other comparisons
 
 [AI Customer Support: 10 Best Solutions](https://www.tidio.com/blog/ai-customer-support-software/)
@@ -533,6 +535,14 @@ Other comparisons
 [Top 10 Shared Inbox Tools](https://www.tidio.com/blog/shared-inbox-tools/)
 
 [Top 8 Squarespace Chat Plugins](https://www.tidio.com/blog/squarespace-chat-plugin/)
+
+AI Showdown
+
+[Lyro vs Ada](https://www.tidio.com/blog/lyro-vs-ada/)
+
+[AI Chatbot Playground](https://www.tidio.com/chatbot-ai/playground/)
+
+[Discover Lyro AI Chatbot](https://www.tidio.com/chatbot-ai/)
 
 Help Center
 
@@ -1040,7 +1050,7 @@ Help Center
 
 ![on G2](/images/footer/rating/G2_gray.svg)[4.7 on G2](https://www.g2.com/products/tidio/reviews?utf8=%E2%9C%93&filters%5Bnps_score%5D=5)
 
-![on Capterra](/images/footer/rating/capterra_gray.svg)[4.8 on Capterra](https://www.capterra.com/p/144040/Tidio-Chat/#reviews)
+![on Capterra](/images/footer/rating/capterra_gray.svg)[4.7 on Capterra](https://www.capterra.com/p/144040/Tidio-Chat/#reviews)
 
 ![](/images/footer/logo_white.svg)
 
