@@ -342,7 +342,7 @@ You may contact us as follows:
 * [Restaurant](https://www.upside.com/business/restaurant)
 * [Resources & insights](https://www.upside.com/business/resources/insights)
 * [Customer loyalty](https://www.upside.com/business/loyalty-and-upside)
-* [Dashboard login](https://dashboard.upside-services.com/)
+* [Dashboard login](https://dashboard.upside.com/login)
 
 [### Partnerships](https://www.upside.com/partnerships)
 
