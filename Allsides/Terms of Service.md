@@ -14,7 +14,6 @@
 Balanced Search  Submit Search
 
 * [Balanced News](https://www.allsides.com/unbiased-balanced-news)
-    * [Local News](https://www.allsides.com/local)
     * [Story of the Week](https://www.allsides.com/blog-category/story-of-the-week)
     * [Perspectives Blog](https://www.allsides.com/blog)
     * [AllStances](https://www.allsides.com/blog-category/allstances)
@@ -84,18 +83,6 @@ Balanced Search  Submit Search
 [Don't be fooled by media bias & misinformation.](https://www.allsides.com/about)
 
 [Join](https://www.allsides.com/user/register) [Log In](https://www.allsides.com/user/login)
-
-Set Location See Local News
-
-Get Balanced News From **Your U.S. State**.
-
-ALAKAZARCACOCTDEFLGAHIIDILINIAKSKYLAMEMDMAMIMNMSMOMTNENVNHNJNMNYNCNDOHOKORPAPRRISCSDTNTXUTVTVAWADCWVWIWY
-
- 
-
-See Local News
-
-[See all locals](https://www.allsides.com/local)
 
 Terms of Use
 ============
