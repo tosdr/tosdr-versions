@@ -2,7 +2,7 @@
 
 Search Search Close 
 
-[![Walden University Logo](/themes/custom/wal_base/images/svg/logo.svg)](https://www.waldenu.edu/ "Home")
+[![Walden University Logo](/themes/custom/wal_base_2024/images/svg/logo.svg)](https://www.waldenu.edu/ "Home")
 
 ### Main Navigation
 
@@ -131,13 +131,14 @@ Search Search Close
             * [All Information Technology Programs](https://www.waldenu.edu/programs/information-technology)
         * Nursing
             * NURSING MASTER's PROGRAMS
-            * Walden is the No. 1 conferrer of nursing master's degrees in the U.S.
+            * Earn your degree from a U.S. leader in nursing master's education
             * [Master of Science in Nursing](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing)
             * Explore Specializations:
             * [Adult-Gerontology Acute Care Nurse Practitioner](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-nurse-practitioner-acute-care)
             * [Adult-Gerontology Primary Care Nurse Practitioner](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-nurse-practitioner-adult-gerontology)
             * [Family Nurse Practitioner](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-nurse-practitioner-family)
             * [Nursing Education](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-nursing-education)
+            * [Nurse Executive](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-nurse-executive)
             * [Nursing Informatics](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-nursing-informatics)
             * [Pediatric Nurse Practitioner (PNP)](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-pediatrics)
             * [Psychiatric-Mental Health Nurse Practitioner](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-psychiatric-mental-health-nurse-practitioner)
@@ -261,6 +262,7 @@ Search Search Close
         * Business and Management
         * Criminal Justice
         * Education
+        * Health & Health Sciences
         * Information Technology
         * Nursing
         * Psychology
@@ -285,7 +287,6 @@ Search Search Close
     * [Military/Veterans](https://www.waldenu.edu/admissions/military)
     * [International Students](https://www.waldenu.edu/admissions/international-students)
     * [Transcript Evaluations and Transfer Credits](https://www.waldenu.edu/admissions/international-students/transcripts-and-transfer-credits)
-    * [Undergraduate Pathways](https://www.waldenu.edu/admissions/undergraduate-pathways)
     * [Refer a Friend](https://www.waldenu.edu/refer)
 * [Why Walden](https://www.waldenu.edu/why-walden)
     * Find out what sets Walden apart.
@@ -307,11 +308,13 @@ Search Search Close
 
 Contact an Enrollment Specialist today.
 
+[Apply Online](https://myhomepage.waldenu.edu/Walden/?comm_code=WAL-1011857&_its=JTdCJTIydmlkJTIyJTNBJTIyMTY2NGRhOGUtNDc5OC00NjI2LTkxYWUtZmQ5MDRjNThjMjNiJTIyJTJDJTIyc3RhdGUlMjIlM0ElMjJybHR%2BMTcyMjYxNjc2M35sYW5kfjJfMTI0OV9kaXJlY3RfYzM0YTA4YjExYzllYjZiZDU0ZDExYzU5NTNlMTE3YWYlMjIlMkMlMjJzaXRlSWQlMjIlM0ExNzEyJTdE)
+
 [Request Information](https://www.waldenu.edu/request-info)
 
-Call Us: **8556465286**
+Call Us: [**8556465286**](tel:8556465286)
 
-**8556465286**
+[**8556465286**](tel:8556465286)
 
 [REQUEST INFO](https://www.waldenu.edu/request-info)
 
@@ -505,13 +508,14 @@ Call Us: **8556465286**
         * [Nursing](# "Nursing")
             
             * [NURSING MASTER's PROGRAMS](# "NURSING MASTER's PROGRAMS")
-            * [Walden is the No. 1 conferrer of nursing master's degrees in the U.S.](# "Walden is the No. 1 conferrer of nursing master's degrees in the U.S.")
+            * [Earn your degree from a U.S. leader in nursing master's education](# "Earn your degree from a U.S. leader in nursing master's education")
             * [Master of Science in Nursing](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing "Master of Science in Nursing")
             * [Explore Specializations:](# "Explore Specializations:")
             * [Adult-Gerontology Acute Care Nurse Practitioner](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-nurse-practitioner-acute-care "Adult-Gerontology Acute Care Nurse Practitioner")
             * [Adult-Gerontology Primary Care Nurse Practitioner](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-nurse-practitioner-adult-gerontology "Adult-Gerontology Primary Care Nurse Practitioner")
             * [Family Nurse Practitioner](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-nurse-practitioner-family "Family Nurse Practitioner")
             * [Nursing Education](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-nursing-education "Nursing Education ")
+            * [Nurse Executive](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-nurse-executive "Nurse Executive")
             * [Nursing Informatics](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-nursing-informatics "Nursing Informatics")
             * [Pediatric Nurse Practitioner (PNP)](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-pediatrics "Pediatric Nurse Practitioner (PNP)")
             * [Psychiatric-Mental Health Nurse Practitioner](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-psychiatric-mental-health-nurse-practitioner "Psychiatric-Mental Health Nurse Practitioner")
@@ -693,6 +697,13 @@ Call Us: **8556465286**
             * [Graduate Certificate in Engaging Culturally Diverse Learners](https://www.waldenu.edu/online-certificates-programs/engaging-culturally-diverse-learners "Graduate Certificate in Engaging Culturally Diverse Learners")
             * [All Education Programs](https://www.waldenu.edu/programs/education "All Education Programs")
             
+        * [Health & Health Sciences](# "Health & Health Sciences")
+            
+            * [HEALTH & HEALTH SCIENCES CERTIFICATE PROGRAM](# "HEALTH & HEALTH SCIENCES CERTIFICATE PROGRAM")
+            * [Expand your knowledge of today’s public health field with this graduate certificate program.](# "Expand your knowledge of today’s public health field with this graduate certificate program.")
+            * [Graduate Certificate in Public Health](https://www.waldenu.edu/online-certificates-programs/public-health "Graduate Certificate in Public Health")
+            * [All Health & Health Sciences](https://www.waldenu.edu/programs/health "All Health & Health Sciences")
+            
         * [Information Technology](# "Information Technology")
             
             * [INFORMATION AND TECHNOLOGY CERTIFICATE PROGRAM](# "INFORMATION AND TECHNOLOGY CERTIFICATE PROGRAM")
@@ -755,9 +766,11 @@ Call Us: **8556465286**
     
     Contact an Enrollment Specialist today.
     
+    [Apply Online](https://myhomepage.waldenu.edu/Walden/?comm_code=WAL-1011857&_its=JTdCJTIydmlkJTIyJTNBJTIyMTY2NGRhOGUtNDc5OC00NjI2LTkxYWUtZmQ5MDRjNThjMjNiJTIyJTJDJTIyc3RhdGUlMjIlM0ElMjJybHR%2BMTcyMjYxNjc2M35sYW5kfjJfMTI0OV9kaXJlY3RfYzM0YTA4YjExYzllYjZiZDU0ZDExYzU5NTNlMTE3YWYlMjIlMkMlMjJzaXRlSWQlMjIlM0ExNzEyJTdE)
+    
     [Request Information](https://www.waldenu.edu/request-info)
     
-    Call Us: **8556465286**
+    Call Us: [**8556465286**](tel:8556465286)
     
 * [Financing](https://www.waldenu.edu/financial-aid "Financing")
     
@@ -778,7 +791,7 @@ Call Us: **8556465286**
     
     [Request Information](https://www.waldenu.edu/request-info)
     
-    Call Us: **8556465286**
+    Call Us: [**8556465286**](tel:8556465286)
     
 * [Admissions](https://www.waldenu.edu/admissions "Admissions")
     
@@ -790,7 +803,6 @@ Call Us: **8556465286**
     * [Military/Veterans](https://www.waldenu.edu/admissions/military "Military/Veterans")
     * [International Students](https://www.waldenu.edu/admissions/international-students "International Students")
     * [Transcript Evaluations and Transfer Credits](https://www.waldenu.edu/admissions/international-students/transcripts-and-transfer-credits "Transcript Evaluations and Transfer Credits")
-    * [Undergraduate Pathways](https://www.waldenu.edu/admissions/undergraduate-pathways "Undergraduate Pathways")
     * [Refer a Friend](https://www.waldenu.edu/refer "Refer a Friend")
     
     Search Search Close 
@@ -803,7 +815,7 @@ Call Us: **8556465286**
     
     [Apply Now](https://myhomepage.waldenu.edu/Walden/?comm_code=WAL-1011857)
     
-    Call Us: **8556465286**
+    Call Us: [**8556465286**](tel:8556465286)
     
 * [Why Walden](https://www.waldenu.edu/why-walden "Why Walden")
     
@@ -830,7 +842,7 @@ Call Us: **8556465286**
     
     [Get in Touch](https://www.waldenu.edu/request-info)
     
-    Call Us: **8556465286**
+    Call Us: [**8556465286**](tel:8556465286)
     
 
 Search
@@ -1268,9 +1280,9 @@ Students and employees are reminded that many legal sources of content are avail
 
 Related Information
 
-* [Apply Now | Submit Your Application Online –...](https://myhomepage.waldenu.edu/Walden/contact-us)
-* [Alumni Resources](https://www.waldenu.edu/alumni/resources)
-* [Petitions, Appeals, Grievances, and Complaints](https://academics.waldenu.edu/handbook/student-expectations/petitions-appeals)
+* [Official Transcripts](https://www.waldenu.edu/admissions/transcripts)
+* [Seven Reasons to Get Your EdS Degree](https://www.waldenu.edu/education-specialist/resource/seven-reasons-to-get-your-eds-degree)
+* [Accreditation](https://www.waldenu.edu/about/accreditation)
 
 ![w background](/themes/custom/wal_base_2024/images/W.png)
 
