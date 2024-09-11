@@ -142,7 +142,6 @@ Submit
     * [OIG](https://oig.hhs.gov/)
     * [Nondiscrimination](https://www.cdc.gov/other/nondiscrimination.html)
     * [Vulnerability Disclosure Policy](https://www.hhs.gov/vulnerability-disclosure-policy/index.html)
-    * [Public Health Publications](https://stacks.cdc.gov/)
     
 * CONNECT WITH US
     
@@ -186,7 +185,6 @@ Submit
 * [Nondiscrimination](https://www.cdc.gov/other/nondiscrimination.html)
 * [OIG](https://oig.hhs.gov/)
 * [Vulnerability Disclosure Policy](https://www.hhs.gov/vulnerability-disclosure-policy/index.html)
-* [Public Health Publications](https://stacks.cdc.gov/)
 * [USA.gov](https://www.usa.gov/)
 
 SAS stats
