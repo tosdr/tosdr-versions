@@ -1,6 +1,5 @@
 [![TechWiser](https://techwiser.com/wp-content/uploads/2021/05/TechWiser-logo-new.png)](https://techwiser.com/)
 
-* [Home](https://techwiser.com/)
 * [Windows](https://techwiser.com/category/windows/)
 * [Android](https://techwiser.com/category/android/)
 * [iOS](https://techwiser.com/category/ios/)
@@ -8,6 +7,7 @@
 * [macOS](https://techwiser.com/category/macos/)
 * [Internet](https://techwiser.com/category/internet/)
 * [AI](https://techwiser.com/category/ai/)
+* [Reviews](https://techwiser.com/category/reviews/)
 * [More](# "More")
     * [About Us](https://techwiser.com/about/)
     * [Contact Us](https://techwiser.com/contact-us/)
@@ -80,7 +80,6 @@ Share [Facebook](https://www.facebook.com/sharer/sharer.php?u=https://techwiser.
 
 [](https://www.facebook.com/techwiser/)[](https://twitter.com/techwiser)[](https://www.instagram.com/techwiser/)[](https://www.youtube.com/techwiser)[](https://techwiser.com/feed/)
 
-* [Home](https://techwiser.com/)
 * [Windows](https://techwiser.com/category/windows/)
 * [Android](https://techwiser.com/category/android/)
 * [iOS](https://techwiser.com/category/ios/)
@@ -88,6 +87,7 @@ Share [Facebook](https://www.facebook.com/sharer/sharer.php?u=https://techwiser.
 * [macOS](https://techwiser.com/category/macos/)
 * [Internet](https://techwiser.com/category/internet/)
 * [AI](https://techwiser.com/category/ai/)
+* [Reviews](https://techwiser.com/category/reviews/)
 * [More](# "More")
     * [About Us](https://techwiser.com/about/)
     * [Contact Us](https://techwiser.com/contact-us/)
