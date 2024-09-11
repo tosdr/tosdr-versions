@@ -192,6 +192,12 @@ Where you interact with us via social media, we will process social media profil
 
 Legal basis for the processing of personal information is your consent.
 
+* To enhance user experience.
+
+We may use an automated decision-making, including profiling, process to evaluate whether to apply a discount to the price of the subscription a user purchases.
+
+Legal basis for the processing of personal information is our legitimate interest to enhance user experience.
+
 * Advertising.
 
 We may receive certain information about you (cookie id, mobile device id, advertising IDs; and in case you use our Trust DNS app – in app events, such information about what browser, network, or device is used to access and use Trust DNS) from certain advertisers and advertising partners for analytical and advertising purposes. Our advertising partners help us attribute sales, deliver more relevant ads and promotional messages to you, which may include interest-based advertising and account-based advertising.
@@ -221,6 +227,7 @@ We apply different retention periods depending on the purpose for which your per
 * Personal information which is needed to provide our Alternative Number service is processed for as long as you use Alternative Number and 2 years after the end of this service.
 * Personal information which is needed for analysing and improving the performance of our Website/Services and user experience is processed until the deletion of your account.
 * Personal information which is needed to offer you our Services is processed as long as you use them or have given us a consent and 2 years thereafter.
+* Personal information which is needed to enhance your experience (i.e. to perform automated decision making, including profiling) is processed for as long as you use Surfshark and no more than 2 years after you stop.
 * Personal information which is needed to communicate with users and provide customer support is processed for no longer than 2 years following the last communication with the exception of the device information (collected with your consent to solve your problems with the app), which we store for no longer than 7 days.
 * Personal information which is needed to interact with you via social media is processed for as long as you are registered on a specific social media network.
 * Personal information which is needed for internet advertising purposes is processed for 30 days unless provided otherwise in the section „Cookie and web beacons”.
@@ -278,13 +285,13 @@ If you wish to implement any of the above-mentioned rights, please contact us at
 5\. Do we engage in automated individual decision-making, including profiling?
 ------------------------------------------------------------------------------
 
-We do not perform profiling. This means that we do not analyze an individual’s personality, behaviors, interests, and habits to make predictions or decisions about them. We may use automated decision-making to enhance your experience with our Services.
+We may use automated decision-making, including profiling, to enhance your experience with our Services.
 
-Automated decision-making is the process of making a decision by automated means without any human involvement. The system may automatically generate decisions using a very limited amount of your personal information (for example, information related to your subscription). For instance, we may use an automated decision-making process to evaluate whether to apply a discount to the price of the subscription you purchase.
+Profiling means any form of automated processing of personal data consisting of the use of personal data to evaluate certain personal aspects relating to a natural person. Automated decision-making is the process of making a decision by automated means without any human involvement. Our system may automatically generate decisions using a very limited amount of your personal information (for example, information related to your subscription). For instance, we may use an automated decision-making, including profiling, process to evaluate whether to apply a discount to the price of the subscription you purchase.
 
-Please note that we will not engage in automated decision-making that involves a decision with legal or similarly significant effects solely based on automated processing of personal information, unless you explicitly consented to the processing, or the processing is necessary for entering into a contract, or when otherwise authorized by applicable law. Automated decision-making will not be used to increase the price of the subscription you want to purchase.
+Please note that we will not engage in automated decision-making, including profiling, that involves a decision with legal or similarly significant effects solely based on automated processing, including profiling, of personal information, unless you explicitly consented to the processing, or the processing is necessary for entering into a contract, or when otherwise authorized by applicable law. Automated decision-making, including profiling, will not be used to increase the price of the subscription you want to purchase.
 
-Do not forget that You have rights in relation to automated decision making, including the ability to object to such processing and / or request a manual decision-making process instead or contest a decision based solely on automated processing.
+Do not forget that You have rights in relation to automated decision making, including profiling, e.g. the ability to object to such processing and / or request a manual decision-making process instead or contest a decision based solely on automated processing.
 
 6\. Cookies and web beacons
 ---------------------------
@@ -411,7 +418,7 @@ While translations of this Privacy Policy may be provided in other languages, th
 
 Keep in mind that we can update this Policy in the future & check it regularly.
 
-July 16, 2024.
+September 10, 2024.
 
 ###### Products
 
