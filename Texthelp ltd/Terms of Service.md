@@ -356,6 +356,7 @@ Table of Contents Table of Contents Toggle navigation
     * [Adding OrbitNote For Canvas Through The Canvas App Center](https://support.texthelp.com/help/adding-orbitnote-for-canvas-through-the-canvas-app-center)
     * [Using OrbitNote in D2L Brightspace](https://support.texthelp.com/help/orbitnote-for-lms-using-orbitnote-in-d2l-brightspace)
     * [Using OrbitNote With Schoology](https://support.texthelp.com/help/using-orbitnote-with-schoology)
+    * [Admin Installation of OrbitNote for Canvas](https://support.texthelp.com/help/admin-installation-of-orbitnote-for-canvas)
 * [Equatio for LMS](javascript:void(0);)
     
     * [Canvas](javascript:void(0);)
@@ -481,6 +482,8 @@ Table of Contents Table of Contents Toggle navigation
     * [Writing Helper Network Installation](https://support.texthelp.com/help/writing-helper-network-installation)
     * [Unable to move, re-order or add new sections/sub-sections in Structure tab](https://support.texthelp.com/help/unable-to-move-re-order-or-add-new-sectionssub-sections-in-structure-tab)
     * [Sign up for Writing Helper trial](https://support.texthelp.com/help/sign-up-for-writing-helper-trial)
+    * [Signing up and Installing Writing Helper](https://support.texthelp.com/help/signing-up-and-installing-writing-helper)
+    * [Writing Helper Site installation](https://support.texthelp.com/help/writing-helper-unlimited-installation)
 * [Global Tasks](javascript:void(0);)
     
     * [How to use Global Tasks](https://support.texthelp.com/help/how-to-use-global-tasks)
@@ -489,6 +492,7 @@ Table of Contents Table of Contents Toggle navigation
     * [Importing a Mind Map](https://support.texthelp.com/help/importing-a-mind-map)
     * [Clearing your Site data and Cache](https://support.texthelp.com/help/clearing-your-site-data-and-cache)
     * [Mobile notifications not working](https://support.texthelp.com/help/mobile-notifications-not-working)
+    * [Getting started and installing Global Tasks](https://support.texthelp.com/help/getting-started-and-installing-global-tasks)
 * [Don Johnston](javascript:void(0);)
     
     * [uPAR](javascript:void(0);)
@@ -562,6 +566,7 @@ Table of Contents Table of Contents Toggle navigation
             * [Administrators can now view the word count and the text from the stories/passages.](https://support.texthelp.com/help/administrators-can-now-view-the-word-count-and-the-text-from-the-storiespassages)
             * [New Change My Grade option.](https://support.texthelp.com/help/new-change-my-grade-option)
             * [The New uPAR now has a recheck option.](https://support.texthelp.com/help/the-new-upar-now-has-a-recheck-option)
+            * [Updated Individual Student Reports view for uPAR](https://support.texthelp.com/help/updated-individual-student-reports-view-for-upar)
 * [Deprecation of Equatio Server Email](https://support.texthelp.com/help/deprecation-of-equatio-server-email)
 * [Simplify AI Disclaimer](https://support.texthelp.com/help/simplify-ai-disclaimer)
 * [AutoCorrect](javascript:void(0);)
@@ -579,6 +584,7 @@ Table of Contents Table of Contents Toggle navigation
     * [Pre-Configuring Mac for AutoCorrect Use In A Site Environment](https://support.texthelp.com/help/pre-configuring-mac-for-autocorrect-use-in-a-site-environment)
 * [OrbitNote Revamp](javascript:void(0);)
     
+* [Status page](https://support.texthelp.com/help/status-page)
 
 * [Home](https://support.texthelp.com/help)
 
