@@ -1,17 +1,16 @@
 * Close
 
 * [Wellbeing Suite](https://www.lifespeak.com/wellbeing-suite/ "Wellbeing Suite of Solutions for Organizations")
-    * [Solutions](#)
-        * [Employers & HR](https://www.lifespeak.com/wellbeing-suite/employers-hr-employees/ "Wellbeing Solutions for Employees, Employers & HR")
-        * [Health Plans](https://www.lifespeak.com/wellbeing-suite/health-plans/ "Wellbeing Solutions for Health Plans")
-        * [Multifamily Properties](https://www.lifespeak.com/wellbeing-suite/multifamily-properties/ "Wellbeing Solutions for Multifamily Properties")
-        * [Brokers & Consultants](https://www.lifespeak.com/wellbeing-suite/brokers-consultants/ "Wellbeing Solutions for Brokers & Consultants")
-        * [Partners](https://www.lifespeak.com/wellbeing-suite/partners/ "Wellbeing Solutions for Partners")
-    * [Programs](#)
-        * [Fitness, Nutrition & Mindfulness](https://www.lifespeak.com/wellbeing-suite/fitness-nutrition-mindfulness/ "Fitness, Nutrition & Mindfulness Programs for Employees and Members")
-        * [Mental Health & Resilience](https://www.lifespeak.com/wellbeing-suite/mental-health-resilience/ "Mental Health & Resilience Programs for Employees and Members")
-        * [Parenting & Caregiver Support](https://www.lifespeak.com/wellbeing-suite/parenting-caregiver-support/ "Parenting & Caregiver Support Programs for Employees and Members")
-        * [Substance Use Support](https://www.lifespeak.com/wellbeing-suite/substance-use-support/ "Substance Use Support Programs for Employees and Members")
+    * [Fitness, Nutrition & Mindfulness](https://www.lifespeak.com/wellbeing-suite/fitness-nutrition-mindfulness/ "Fitness, Nutrition & Mindfulness Programs for Employees and Members")
+    * [Mental Health & Resilience](https://www.lifespeak.com/wellbeing-suite/mental-health-resilience/ "Mental Health & Resilience Programs for Employees and Members")
+    * [Parenting & Caregiver Support](https://www.lifespeak.com/wellbeing-suite/parenting-caregiver-support/ "Parenting & Caregiver Support Programs for Employees and Members")
+    * [Substance Use Support](https://www.lifespeak.com/wellbeing-suite/substance-use-support/ "Substance Use Support Programs for Employees and Members")
+* [Solutions For](#)
+    * [Employers & HR](https://www.lifespeak.com/wellbeing-suite/employers-hr-employees/ "Wellbeing Solutions for Employees, Employers & HR")
+    * [Health Plans](https://www.lifespeak.com/wellbeing-suite/health-plans/ "Wellbeing Solutions for Health Plans")
+    * [Multifamily Properties](https://www.lifespeak.com/wellbeing-suite/multifamily-properties/ "Wellbeing Solutions for Multifamily Properties")
+    * [Brokers & Consultants](https://www.lifespeak.com/wellbeing-suite/brokers-consultants/ "Wellbeing Solutions for Brokers & Consultants")
+    * [Partners](https://www.lifespeak.com/wellbeing-suite/partners/ "Wellbeing Solutions for Partners")
 * [Resources](https://www.lifespeak.com/resources/)
 * [About Us](https://www.lifespeak.com/about-us/)
     * [20 Years of Wellbeing](https://www.lifespeak.com/20-year-anniversary/)
@@ -24,20 +23,21 @@
 
 * [Français](https://www.lifespeak.com/fr/)
 
+🎧 New Podcast [Finding joy and resilience as a caregiver](https://www.lifespeak.com/resource/finding-joy-and-resilience-as-a-high-needs-caregiver-a-conversation-with-michele-rosner/)
+
 [![LifeSpeak Logo - Employee wellbeing solutions](https://www.lifespeak.com/wp-content/themes/ls-theme/img/logo-navy.svg)](https://www.lifespeak.com/)
 
 * [Wellbeing Suite](https://www.lifespeak.com/wellbeing-suite/ "Wellbeing Suite of Solutions for Organizations")
-    * [Solutions](#)
-        * [Employers & HR](https://www.lifespeak.com/wellbeing-suite/employers-hr-employees/ "Wellbeing Solutions for Employees, Employers & HR")
-        * [Health Plans](https://www.lifespeak.com/wellbeing-suite/health-plans/ "Wellbeing Solutions for Health Plans")
-        * [Multifamily Properties](https://www.lifespeak.com/wellbeing-suite/multifamily-properties/ "Wellbeing Solutions for Multifamily Properties")
-        * [Brokers & Consultants](https://www.lifespeak.com/wellbeing-suite/brokers-consultants/ "Wellbeing Solutions for Brokers & Consultants")
-        * [Partners](https://www.lifespeak.com/wellbeing-suite/partners/ "Wellbeing Solutions for Partners")
-    * [Programs](#)
-        * [Fitness, Nutrition & Mindfulness](https://www.lifespeak.com/wellbeing-suite/fitness-nutrition-mindfulness/ "Fitness, Nutrition & Mindfulness Programs for Employees and Members")
-        * [Mental Health & Resilience](https://www.lifespeak.com/wellbeing-suite/mental-health-resilience/ "Mental Health & Resilience Programs for Employees and Members")
-        * [Parenting & Caregiver Support](https://www.lifespeak.com/wellbeing-suite/parenting-caregiver-support/ "Parenting & Caregiver Support Programs for Employees and Members")
-        * [Substance Use Support](https://www.lifespeak.com/wellbeing-suite/substance-use-support/ "Substance Use Support Programs for Employees and Members")
+    * [Fitness, Nutrition & Mindfulness](https://www.lifespeak.com/wellbeing-suite/fitness-nutrition-mindfulness/ "Fitness, Nutrition & Mindfulness Programs for Employees and Members")
+    * [Mental Health & Resilience](https://www.lifespeak.com/wellbeing-suite/mental-health-resilience/ "Mental Health & Resilience Programs for Employees and Members")
+    * [Parenting & Caregiver Support](https://www.lifespeak.com/wellbeing-suite/parenting-caregiver-support/ "Parenting & Caregiver Support Programs for Employees and Members")
+    * [Substance Use Support](https://www.lifespeak.com/wellbeing-suite/substance-use-support/ "Substance Use Support Programs for Employees and Members")
+* [Solutions For](#)
+    * [Employers & HR](https://www.lifespeak.com/wellbeing-suite/employers-hr-employees/ "Wellbeing Solutions for Employees, Employers & HR")
+    * [Health Plans](https://www.lifespeak.com/wellbeing-suite/health-plans/ "Wellbeing Solutions for Health Plans")
+    * [Multifamily Properties](https://www.lifespeak.com/wellbeing-suite/multifamily-properties/ "Wellbeing Solutions for Multifamily Properties")
+    * [Brokers & Consultants](https://www.lifespeak.com/wellbeing-suite/brokers-consultants/ "Wellbeing Solutions for Brokers & Consultants")
+    * [Partners](https://www.lifespeak.com/wellbeing-suite/partners/ "Wellbeing Solutions for Partners")
 * [Resources](https://www.lifespeak.com/resources/)
 * [About Us](https://www.lifespeak.com/about-us/)
     * [20 Years of Wellbeing](https://www.lifespeak.com/20-year-anniversary/)
@@ -75,11 +75,11 @@ Please read this policy carefully to get a clear understanding of how we collect
 
 ### Summary
 
-* Use of your Personal Information: We use your data to provide you with our products and services, as well as for limited internal purposes described in this policy (e.g., to improve our services). We will also use your profile class play data to make personalized class and program recommendations to you, should you opt into this service.
-* Sharing your Personal Information with your Employer/Sponsor: In limited cases, we share certain Personal Information with your employer/sponsor, such as for the purpose of verifying whether you are eligible for an incentive payment. We do not share more information than is required, and in most cases, this information is limited to your name, class play minutes and number of class plays.
+* Use of your Personal Information: We use your data to provide you with our products and services, as well as for limited internal purposes described in this policy (e.g., to improve our services). We will also use your profile video play and content consumption data to make personalized recommendations to you, should you opt into this service.
+* Sharing your Personal Information with your Employer/Sponsor: Sharing your Personal Information with your Employer/Sponsor: In limited cases, we share certain Personal Information with your employer/sponsor, such as for the purpose of verifying whether you are eligible for an incentive payment, and only when necessary. For greater clarity, we will never share any Personal Information at all, including your name, where your activity is within the ALAViDA Substance Use Management Entity.**We do not share more information than is required, and in most cases, this information is limited to your name, video play minutes and number of video plays.**
 * Access to your Personal Information by Third Parties: In limited cases, we share some of your Personal Information with our service providers for the purposes of providing our products and services to you. They can only use that information to provide you with our products and services. We require that these service providers have substantially similar controls in place to protect your Personal Information from unauthorized access, use, and disclosure. We do not sell or rent your data to third parties.
-* Security of your Personal Information: We take the privacy and data security very seriously. We improve our systems continually to improve the security of our systems.
-* Deletion of your Personal Information: You can submit a request for us to delete your Personal Information from our systems at any time by submitting a request at member.support@lifespeak.com. Please be aware that the deletion of your Personal Information from our systems will result in the deletion of your user account, and you will not be able to use our products or services until you create a new account.
+* Security of your Personal Information: We take your privacy and data security very seriously. We improve our systems continually to improve the security of our systems.
+* Deletion of your Personal Information: You can submit a request for us to delete your Personal Information from our systems at any time by submitting a request at member.support@lifespeak.com. Please be aware that the deletion of your Personal Information from our systems will result in the deletion of your user account, and you will not be able to use most of our products or services until you create a new account
 
 ### LifeSpeak Entities
 
@@ -94,22 +94,24 @@ This privacy policy applies to our collection, use, and disclosure of informatio
 
 LifeSpeak does not provide health care or other professional medical services. As such, it does not act as a “health information custodian” (or equivalent, as defined under your jurisdiction’s health privacy legislation) of your Personal Information.
 
+This privacy notice should also be read alongside our Cookie Policy that can be found on all our corporate and product web sites. The Cookie Policies describe how we use cookies to collect information and run our websites.
+
 ### Personal Information
 
 In this privacy policy, “Personal Information” refers to information that identifies you as an individual alone or in combination with other data, and is provided to or collected by us. Personal Information includes, for example:
 
 * **Personal identifiers and contact information**, such as your name, email address, mailing address, phone number, and Internet Protocol (IP) addresses. It also includes other identifiers necessary to conduct “know your client” activities (for example, information about named beneficiaries and/or spouses and partners).
 * **Information about your dependent(s)**, like their name(s) and date(s) of birth.
-* **Health information**, that you choose to provide to us when completing a product profile or similar forms. This information is not required to use our products but will assist us in providing you with a better, more tailored experience. .
-* **Demographic data**, that your or your sponsor choose to share with us.
-* **Internet or other electronic network activity information**, such as browser type, Internet service provider (ISP), referring/exit pages, pages viewed on our site.
+* **Health information**, that you choose to provide to us when completing a member profile or assessment or similar forms. This information is not required to use our products but will assist us in providing you with a better, more tailored experience.
+* **Demographic data**, that you or your sponsor choose to share with us.
+* **Internet or other electronic network activity information**, such as browser type, Internet service provider (ISP), referring/exit pages, and pages viewed on our site.
 
 ### Collecting personal information
 
 We may collect your personal information
 
 * Directly from you (e.g., via our Websites or our products and products, via email, when you enter into one of our contests, such as “Watch and Win”, or when you register for one of our newsletters);
-* From professionals who use our products and services to deliver you services;
+* From professionals who use our products and services to deliver our services to you;
 * In limited cases, from your employer;
 * In limited cases, from third-party sources, like certain cookies.
 
@@ -123,14 +125,14 @@ We use your Personal Information to:
 * Communicate with you;
 * De-identify and/or anonymize your Personal Information;
 * Understand how you access and utilize features and services on our Websites and in our Apps in order to troubleshoot, enhance, improve and optimize our products and services;
-* Carry out our obligations and enforce our rights arising from any contracts (including our Terms of Service, with you or to comply with our legal obligations;
+* Carry out our obligations and enforce our rights arising from any contracts (including our Terms of Service), with you or to comply with our legal obligations;
 * Screen for potential patterns of misuse and/or fraudulent use of our systems;
 * Estimate our audience size and usage patterns and analyze trends and track movements around our Websites and our systems;
 * Gather demographic information about the users of our Websites and our systems;
 * Assess the performance of our staff for continuing quality improvement;
 * Fulfill any other purpose with your consent.
 
-Please note that we may also use your personal information for research and development purposes, in which case information is de-identified and aggregated, meaning it does not personally identify you. We may also share de-identified or anonymized data with your employer/sponsor.
+Please note that we may also use your personal information for research and development purposes, in which case the information is de-identified and aggregated, meaning it does not personally identify you. We may also share de-identified or anonymized data with your employer/sponsor.
 
 ### Sharing Personal Information
 
@@ -144,7 +146,7 @@ LifeSpeak may disclose your Personal Information for purposes for which it was c
 * Pursue available remedies or limit any damages that we may sustain; or
 * Fulfill any other lawful purpose, with your consent.
 
-If you are using our Service through a third party or employer that contracts with us to provide Service to you, we may also share aggregate information with that third party or employer. We will only share your identifiable data with your employer when your employer offers you incentives for participation. The information shared with you employer is limited to the amount of data needed in order for your employer to pay you the incentive you have earned.
+If you are using our Service through a third party or employer that contracts with us to provide Service to you, we may also share aggregate information with that third party or employer. We will only share your identifiable data with your employer when your employer offers you incentives for participation, and we will never share any identifiable at all where your activity is within the ALAViDA Substance Use Management Entity. The information shared with you employer is limited to the amount of data needed in order for your employer to pay you the incentive you have earned.
 
 ### LifeSpeak Employees and Service Providers
 
@@ -240,13 +242,13 @@ To ensure that we provide you with the best possible experience, we will store, 
 | Personal information categories listed in the California Customer Records statute (Cal. Civ. Code §  <br>1798.80(e)). | A first and last name, physical characteristics or description, telephone number, employment, or health insurance information. | Yes | Yes  <br>– Our Affiliates;  <br>– Service Providers |
 | Protected classification characteristics. | Age (40 years or older), sex (including gender). | Yes | Yes  <br>– Our Affiliates |
 | Commercial information. | Records of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies. | No  | N/A |
-| Sensitive Personal Information | Precise geolocation, Social Security number, driver’s license, state identification card, passport number, account log-in, financial account, debit card, credit card number with security, or access code or password, racial or ethnic origin, religious/philosophical beliefs, or union membership, genetic data and processing of biometric information, health and sexual orientation. | No  | N/A |
-| Biometric information. | Genetic, physiological, behavioral, and biological characteristics, or activity patterns used to extract a template or other identifier or identifying information, such as, fingerprints, faceprints, and voiceprints, iris or retina scans, keystroke, gait, or other physical patterns, and sleep, health, or exercise data. | No  | N/A |
+| Sensitive Personal Information | Precise geolocation, Social Security number, driver’s license, state  <br>identification card, passport number, account log-in, financial account, debit card, credit card number with security, or access code or password, racial or ethnic origin, religious/philosophical beliefs, or union membership, genetic data and processing of biometric information, health and sexual orientation. | No  | N/A |
+| Biometric information. | Genetic, physiological, behavioral, and biological characteristics, or activity patterns used to extract a template or other identifier or identifying information, such as, fingerprints, faceprints, and  <br>voiceprints, iris or retina scans, keystroke, gait, or other physical patterns, and sleep, health, or exercise data. | No  | N/A |
 | Internet or other similar network activity. | Browsing history, search history, information on a consumer’s interaction with a website, application, or advertisement. | Yes | Yes  <br>– Our Affiliates;  <br>– Service Providers |
-| Geolocation data. | Geolocation data. | No  | N/A |
-| Sensory data. | Audio, electronic, visual, thermal,  <br>olfactory, or similar information. | No  | N/A |
+| Geolocation data. | Physical location or movements. | No  | N/A |
+| Sensory data. | Audio, electronic, visual, thermal, olfactory, or similar information. | No  | N/A |
 | Professional or employment-related information. | Current or past job history and other employment information contained in a resume. | Yes  <br>Only when you apply for a job | Yes  <br>– Our Affiliates |
-| Non-public education information. | Education records directly related to a student maintained by an educational institution or party acting on its behalf, such as grades, transcripts, class lists, student schedules, student identification codes, student financial information, or student disciplinary records. | No  | N/A |
+| Non-public education information. | Education records directly related to a student maintained by an  <br>educational institution or party acting on its behalf, such as grades, transcripts, class lists, student schedules, student identification codes, student financial information, or student disciplinary records. | No  | N/A |
 | Inferences drawn from other Personal Information. | Profile reflecting a person’s preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes. | No  | N/A |
 
 We obtain the categories of Personal Information listed above from the following categories of sources:
