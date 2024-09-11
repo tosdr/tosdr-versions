@@ -1,4 +1,4 @@
-[](https://www.textverified.com/app)
+[](https://www.textverified.com/)
 
 Open main menu
 
@@ -6,9 +6,9 @@ Open main menu
 
 [Overview](https://www.textverified.com/products) [Verifications](https://www.textverified.com/verifications) [Rentals](https://www.textverified.com/rentals) [API](https://www.textverified.com/automate) [Blog](https://www.textverified.com/blog) [FAQ](https://www.textverified.com/faq) [Terms](https://www.textverified.com/terms) [Contact](https://www.textverified.com/contact-us)
 
-[Sign Up](https://www.textverified.com/register)
-
 Existing customer? [Sign in](https://www.textverified.com/login)
+
+[Sign Up](https://www.textverified.com/register)
 
 Products
 
@@ -96,7 +96,7 @@ Footer
 
 * [Products](https://www.textverified.com/products)
 * [Free Numbers](https://www.textverified.com/free)
-* [Buy Credits](https://www.textverified.com/app/buy)
+* [Buy Credits](https://www.textverified.com/app/credits?open=true)
 * [API](https://www.textverified.com/docs/api/v2)
 
 ### Contact
@@ -108,7 +108,7 @@ Footer
 
 ### Social
 
-[Linkedin](https://www.linkedin.com/company/56417471/ "Visit us on LinkedIn")
+[LinkedIn](https://www.linkedin.com/company/56417471/ "Visit us on LinkedIn")
 
 ### Textverified
 
