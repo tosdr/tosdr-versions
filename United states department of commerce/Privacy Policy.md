@@ -153,6 +153,8 @@ Search
     
     [Minority business growth](https://www.commerce.gov/issues/minority-business-growth)
     
+    [Semiconductor Industry](https://www.commerce.gov/issues/semiconductor-industry)
+    
     [Space commerce](https://www.commerce.gov/issues/space-commerce)
     
     Trade enforcement
@@ -295,6 +297,7 @@ Search
     * [Manufacturing](https://www.commerce.gov/issues/manufacturing)
     * [Million Women in Construction Initiative](https://www.commerce.gov/issues/million-women-construction-initiative)
     * [Minority business growth](https://www.commerce.gov/issues/minority-business-growth)
+    * [Semiconductor Industry](https://www.commerce.gov/issues/semiconductor-industry)
     * [Space commerce](https://www.commerce.gov/issues/space-commerce)
     * [Trade enforcement](https://www.commerce.gov/issues/trade-enforcement)
     * [Weather and satellites](https://www.commerce.gov/issues/weather-and-satellites)
