@@ -40,24 +40,6 @@ Thank you! Our Account Executive will get back to you within 24h
 
 Oops! Something went wrong while submitting the form.
 
-[](https://www.webshare.io/verified-proxy)
-
-![](https://cdn.prod.website-files.com/5e42f62100b3490abec730e4/666816fba3bafb4036380c42_web-store.svg)
-
-Chrome Proxy Extension is live
-
-[Learn more](https://www.webshare.io/chrome-proxy-extension)
-
-[Add for free](https://chromewebstore.google.com/detail/webshare/bdokeillmfmaogjpficejjcjekcflkdh)
-
-![](https://cdn.prod.website-files.com/5e42f62100b3490abec730e4/666816fba3bafb4036380c42_web-store.svg)
-
-Free Proxy Extension for Chrome by Webshare
-
-[Learn more](https://www.webshare.io/chrome-proxy-extension)
-
-![](https://cdn.prod.website-files.com/5e42f62100b3490abec730e4/65a14d60685db328f867778a_cross-banner.svg)
-
 [![](https://cdn.prod.website-files.com/5e42f62100b3490abec730e4/64e8bb146138e4eb28353321_Webshare%20Logo.svg)](https://www.webshare.io/)
 
 [Sign Up](https://proxy2.webshare.io/register/?source=nav_register)
@@ -92,7 +74,7 @@ Most affordable residential proxies
 
 Starting at
 
-4.5/GB](https://www.webshare.io/residential-proxy)
+$4.5/GB](https://www.webshare.io/residential-proxy)
 
 Datacenter
 
@@ -106,13 +88,17 @@ Starting at
 
 $0.05/Proxy](https://www.webshare.io/proxy-server)
 
-RESIDENTIAL
+verified
 
 [![](https://cdn.prod.website-files.com/5e42f62100b3490abec730e4/65b78eee1110a5c4fa933cc2_verified.svg)
 
 Verified Proxy
 
-Scrape selected websites with >99% success rate](https://www.webshare.io/verified-proxy)
+Scrape selected websites with >99% success rate  
+
+Starting at
+
+$0.2/GB](https://www.webshare.io/verified-proxy)
 
 ###### Don’t miss your 10 free proxies
 
@@ -495,6 +481,7 @@ no credit card required.
 * [Proxy Server](https://www.webshare.io/proxy-server)
 * [Static Residential Proxy](https://www.webshare.io/static-residential-proxy)
 * [Residential Proxy](https://www.webshare.io/residential-proxy)
+* [Verified Proxy](https://www.webshare.io/verified-proxy)
 
 ###### Features
 
