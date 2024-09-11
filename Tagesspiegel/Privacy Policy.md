@@ -580,6 +580,27 @@ ID5 verwendet diese Informationen, um eine ID zu erstellen, mit der Sie auf Ihre
 
 Detaillierte Informationen zu den Datenverarbeitungsaktivitäten von ID5 im Zusammenhang mit dieser ID und dem Opt-out von ID5 finden Sie in der Datenschutzrichtlinie der ID5-Plattform hier: [https://id5.io/platform-privacy-policy](https://id5.io/platform-privacy-policy). Sie haben das Recht, Ihre Einwilligung in die Verarbeitung Ihrer personenbezogenen Daten jederzeit zu widerrufen.
 
+**l) Utiq**
+
+Die Utiq-Technologie wird von Utiq SA/NV bereitgestellt, einem europäischen AdTech-Unternehmen, das mit teilnehmenden Telekommunikationsnetzbetreibern (siehe Liste [hier](https://consenthub.utiq.com/pages/privacy-statement)) zusammenarbeitet, die zum Betrieb der Technologie beitragen. Die Utiq-Technologie ermöglicht es Webseiten wie der unseren, die die Utiq-Technologie nutzen, unsere digitalen Marketingaktivitäten durchzuführen.
+
+Wir verwenden die Utiq-Technologie auf unserer Webseite. Wenn Sie der Aktivierung dieser Technologie zustimmen, werden wir sie verwenden, um Sie als denselben Webseiten-Besucher zu erkennen und Erkenntnisse über Ihr Nutzungsverhalten auf unserer Webseite zu sammeln. So können wir Ihnen personalisierte Inhalte und Werbung anbieten oder Analysen durchführen, je nachdem, welche zusätzlichen Einwilligungen Sie uns für diese Zwecke erteilt haben. Wenn Sie die Utiq-Technologie auf einer unserer anderen Webseiten aktivieren (siehe Liste [hier](https://www.tagesspiegel.de/utiq-verwalten)), können wir die Utiq-Technologie nutzen, um Sie zu erkennen und Ihr Surfverhalten auf diesen Webseiten zu erfassen.
+
+Die Utiq-Technologie ist standardmäßig ausgeschaltet und erfordert Ihre Einwilligung, um aktiviert und verwendet zu werden. Die Technologie ist nur verfügbar, wenn Sie Kunde eines der teilnehmenden Telekommunikationsnetzbetreiber sind.
+
+Für bestimmte Phasen der Datenverarbeitung fungieren wir zusammen mit Utiq als gemeinsamer Datenverantwortlicher. Als Teil dieser gemeinsamen Datenverantwortlichkeit
+
+* holen wir Ihre Einwilligung zur Nutzung der Utiq-Technologie ein; dies gilt auch für die von Utiq und Ihrem Telekommunikationsnetzbetreiber durchgeführten Verarbeitungsprozesse;
+* stellen wir Ihnen einen speziellen Link am unteren Rand unserer Webseite bereit, über den Sie Informationen über die Technologie und deren Verwaltung erhalten;
+* stellt Utiq Ihnen ein Datenschutzportal ([consenthub](https://consenthub.utiq.com/)) zur Verfügung, um Ihnen die Ausübung Ihrer Datenschutzrechte zu erleichtern und Ihnen die einfache Verwaltung Ihrer Einwilligungen bei Utiq zu ermöglichen; zu jeder Zeit, an einem Ort.
+* Ungeachtet dessen, dass Sie Ihre Rechte in Bezug auf jeden Datenverantwortlichen ausüben können, fungiert Utiq als gemeinsame Kontaktstelle für alle Fragen oder Anliegen, die Sie im Zusammenhang mit der Utiq-Technologie haben.
+
+Über das [Utiq-Datenschutzportal (consenthub)](https://consenthub.utiq.com/) können Sie alle von Ihnen erteilten Einwilligungen zur Nutzung der Utiq-Technologie auf allen an Utiq beteiligten Webseiten einsehen und widerrufen.
+
+Sie können Ihre nur für diese Webseite geltende Einwilligung auch [hier](https://www.tagesspiegel.de/utiq-verwalten) widerrufen.
+
+Weitere Informationen über die Utiq-Technologie finden Sie in der [Datenschutzerklärung von Utiq](https://consenthub.utiq.com/pages/privacy-statement).
+
 **17\. Reichweitenmessung**  
 Unsere Website nutzt das Messverfahren („SZMnG“) der INFOnline GmbH (Deutschland, EU - „SZMnG“) zur Ermittlung statistischer Kennwerte über die Nutzung unserer Angebote. Ziel der Nutzungsmessung ist es, die Anzahl der Besuche auf unserer Website, die Anzahl der Websitebesucher und deren Surfverhalten statistisch – auf Basis eines einheitlichen Standardverfahrens – zu bestimmen und somit marktweit vergleichbare Werte zu erhalten. Hierzu werden die Nutzungsstatistiken regelmäßig von der Arbeitsgemeinschaft Online-Forschung e.V. („agof“) und der Arbeitsgemeinschaft Media-Analyse e.V. („agma“) anhand von weiteren Kennzahlen zu Reichweiten weiterverarbeitet.
 
