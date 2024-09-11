@@ -184,7 +184,7 @@ Emailed Daily. Always Free!
 * [MLB](https://www.yardbarker.com/mlb)
 * [NBA](https://www.yardbarker.com/nba)
 * [NHL](https://www.yardbarker.com/nhl)
-* [Olympics](https://www.yardbarker.com/olympics)
+* [NCAAF](https://www.yardbarker.com/college_football)
 * [Sports Betting](https://www.yardbarker.com/sports_betting)
 * [Entertainment](https://www.yardbarker.com/entertainment)
 * [Quizzes](https://www.yardbarker.com/quizzes)
@@ -192,14 +192,15 @@ Emailed Daily. Always Free!
     
     * [Boxing](https://www.yardbarker.com/boxing)
     * [CFL](https://www.yardbarker.com/cfl)
+    * [Casino](https://www.yardbarker.com/casino)
     * [College Basketball](https://www.yardbarker.com/college_basketball)
     * [College Football](https://www.yardbarker.com/college_football)
     * [Entertainment](https://www.yardbarker.com/entertainment)
     * [Formula One](https://www.yardbarker.com/formula_one)
     * [Golf](https://www.yardbarker.com/golf)
     * [Gymnastics](https://www.yardbarker.com/gymnastics)
-    * [Horse Racing](https://www.yardbarker.com/horse_racing)
     
+    * [Horse Racing](https://www.yardbarker.com/horse_racing)
     * [IndyCar](https://www.yardbarker.com/indycar)
     * [MLS](https://www.yardbarker.com/soccer/leagues/mls)
     * [MMA](https://www.yardbarker.com/mma)
@@ -208,8 +209,8 @@ Emailed Daily. Always Free!
     * [Olympics](https://www.yardbarker.com/olympics)
     * [Premier League](https://www.yardbarker.com/soccer/leagues/premier_league)
     * [Skiing](https://www.yardbarker.com/skiing)
-    * [Soccer](https://www.yardbarker.com/soccer)
     
+    * [Soccer](https://www.yardbarker.com/soccer)
     * [Sports Betting](https://www.yardbarker.com/sports_betting)
     * [Sports Business](https://www.yardbarker.com/topics/sports_business/17246)
     * [Tennis](https://www.yardbarker.com/tennis)
@@ -217,7 +218,7 @@ Emailed Daily. Always Free!
     * [UFL](https://www.yardbarker.com/ufl)
     * [WNBA](https://www.yardbarker.com/wnba)
     * [Wrestling](https://www.yardbarker.com/wrestling)
-    * [More Sports ▸](https://www.yardbarker.com/stats/sport_list/s1_17114_40604456)
+    * [More Sports ▸](https://www.yardbarker.com/stats/sport_list/s1_16754_40430795)
     
 
 * [![](/images/icons/icon-search-white.svg)](#)
@@ -342,3 +343,5 @@ Gambling Problem? [Call 1-800-Gambler](https://www.ncpgambling.org/).
 [![](/images/ncpg_logo.png)](https://www.ncpgambling.org/)
 
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=7161055&cv=4.4.0&cj=1)
+
+![](https://pool.admedo.com/pixel?id=153623&t=img)
