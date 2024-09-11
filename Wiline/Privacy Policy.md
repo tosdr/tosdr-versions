@@ -6,7 +6,7 @@ Close
 
 [Support](https://www.wiline.com/customer-support) [My account](https://my.wiline.com/) [Check Availability](https://www.wiline.com/contact-us)
 
-[![WiLine Business Internet Provider](https://www.wiline.com/img/logo-sm2.svg)](https://www.wiline.com/)
+ [![WiLine Business Internet Provider](https://www.wiline.com/img/logo-sm2.svg)](https://www.wiline.com/)[WiLine Secures Blackrock Funding to Expand 10G FWA Nationwide](https://www.wiline.com/blog/wiline-secures-blackrock-funding-to-expand-10g-fwa-nationwide/)
 
 * [Products](#)
     * Services
