@@ -87,7 +87,19 @@ This service is not eligible for the action you’ve requested.
 
 [](#)
 
-[Go back](# "Go back") [View only](# "View only")
+Can’t add to cart
+-----------------
+
+You can’t sell this product or service via an outbound sale right now. Tell the customer they can visit telstra.com, call us or visit a store to make this purchase.
+
+[Ok](# "Ok")
+
+You can’t sell this product or service
+--------------------------------------
+
+You can view this page, but you can’t sell this product or service via an outbound sale right now. Tell the customer they can visit telstra.com, call us or visit a store to make this purchase
+
+[Cancel](# "Cancel") [Ok](# "Ok")
 
 Looks like this offer isn’t available
 -------------------------------------
@@ -121,8 +133,8 @@ Terms of use
 Your use of a website, including Telstra.com (each a **Telstra website)** owned by Telstra Corporation Limited (**we** **our** or **us**) is subject to:
 
 * these Terms of Use;
-* the [Copyright and Trade Mark Notice](http://www.telstra.com.au/terms-of-use/#tab-copyright-trade);
-* our [Privacy Statement](https://www.telstra.com.au/privacy/privacy-statement/); and
+* the [Copyright and Trade Mark Notice](#copyright);
+* our [Privacy Statement](https://www.telstra.com.au/privacy); and
 * any other terms, conditions, notices or disclaimers displayed on the Telstra website (collectively "**Website Terms**").  
       
     
