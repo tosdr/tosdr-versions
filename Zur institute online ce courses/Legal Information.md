@@ -15,7 +15,7 @@ Explore
 
 Open menu
 
-[Working With Couples: Getting Better Outcomes / A Live 2.5 CE credit hours webinarMore Info](https://www.zurinstitute.com/webinars/working-with-couples-getting-better-outcomes-by-working-deeper/)
+[Demystifying ACT / A Live 6 CE credit hours webinarMore Info](https://www.zurinstitute.com/webinars/demystifying-act-blending-acceptance-commitment-therapy-into-your-practice/)
 
 [Course Catalog](https://www.zurinstitute.com/privacy-disclaimer-terms-of-use-dmca/# "Course Catalog")
 
