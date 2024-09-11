@@ -12,11 +12,14 @@ This Website uses Trackers managed directly by the Owner (so-called “first-par
 The validity and expiration periods of Cookies and other similar Trackers may vary depending on the lifetime set by the Owner or the relevant provider. Some of them expire upon termination of the User’s browsing session.  
 In addition to what’s specified in the descriptions within each of the categories below, Users may find more precise and updated information regarding lifetime specification as well as any other relevant information — such as the presence of other Trackers — in the linked privacy policies of the respective third-party providers or by contacting the Owner.
 
-### Activities strictly necessary for the operation of this Website and delivery of the Service
+How this Website uses Trackers
+------------------------------
+
+### Necessary
 
 This Website uses so-called “technical” Cookies and other similar Trackers to carry out activities that are strictly necessary for the operation or delivery of the Service.
 
-#### First-party Trackers
+#### Technical Trackers
 
 Storage duration:
 
@@ -38,13 +41,9 @@ Storage duration:
 * LogsDatabaseV2:V34b4f02b||:LogsRequestsStore: duration of the session
 * \_hjLocalStorageTest: duration of the session
 
-#### Third-party Trackers
+#### Trackers managed by third parties
 
-* ### SPAM protection
-    
-    This type of service analyzes the traffic of this Website, potentially containing Users' Personal Data, with the purpose of filtering it from parts of traffic, messages and content that are recognized as SPAM.
-    
-    #### Google reCAPTCHA (Google Ireland Limited)
+* ### Google reCAPTCHA (Google Ireland Limited)
     
     Google reCAPTCHA is a SPAM protection service provided by Google Ireland Limited.  
     The use of reCAPTCHA is subject to the Google [privacy policy](https://www.google.com/policies/privacy/) and [terms of use](https://www.google.com/intl/en/policies/terms/).
@@ -63,18 +62,13 @@ Storage duration:
     * rc::c: duration of the session
     
 
-### Other activities involving the use of Trackers
-
-#### Functionality
+### Functionality
 
 This Website uses Trackers to enable basic interactions and functionalities, allowing Users to access selected features of the Service and facilitating the User's communication with the Owner.
 
-* ### Interaction with live chat platforms
-    
-    This type of service allows Users to interact with third-party live chat platforms directly from the pages of this Website, for contacting and being contacted by this Website support service.  
-    If one of these services is installed, it may collect browsing and Usage Data in the pages where it is installed, even if the Users do not actively use the service. Moreover, live chat conversations may be logged.
-    
-    #### Comm100 Widget (Comm100 Network Corporation)
+#### Trackers managed by third parties
+
+* ### Comm100 Widget (Comm100 Network Corporation)
     
     The Comm100 Widget is a service for interacting with the Comm100 live chat platform provided by Comm100 Network Corporation.
     
@@ -83,16 +77,13 @@ This Website uses Trackers to enable basic interactions and functionalities, all
     Place of processing: Canada – [Privacy Policy](https://www.comm100.com/privacy/).
     
 
-#### Experience
+### Experience
 
 This Website uses Trackers to improve the quality of the user experience and enable interactions with external content, networks and platforms.
 
-* ### Displaying content from external platforms
-    
-    This type of service allows you to view content hosted on external platforms directly from the pages of this Website and interact with them.  
-    This type of service might still collect web traffic data for the pages where the service is installed, even when Users do not use it.
-    
-    #### YouTube video widget (Google Ireland Limited)
+#### Trackers managed by third parties
+
+* ### YouTube video widget (Google Ireland Limited)
     
     YouTube is a video content visualization service provided by Google Ireland Limited that allows this Website to incorporate content of this kind on its pages.
     
@@ -106,7 +97,7 @@ This Website uses Trackers to improve the quality of the user experience and ena
     * VISITOR\_INFO1\_LIVE: 8 months
     * YSC: duration of the session
     
-    #### Google Maps widget (Google Ireland Limited)
+* ### Google Maps widget (Google Ireland Limited)
     
     Google Maps is a maps visualization service provided by Google Ireland Limited that allows this Website to incorporate content of this kind on its pages.
     
@@ -114,7 +105,7 @@ This Website uses Trackers to improve the quality of the user experience and ena
     
     Place of processing: Ireland – [Privacy Policy](https://policies.google.com/privacy).
     
-    #### Instagram widget (Facebook, Inc.)
+* ### Instagram widget (Facebook, Inc.)
     
     Instagram is an image visualization service provided by Facebook, Inc. that allows this Website to incorporate content of this kind on its pages.
     
@@ -122,7 +113,7 @@ This Website uses Trackers to improve the quality of the user experience and ena
     
     Place of processing: United States – [Privacy Policy](https://help.instagram.com/519522125107875).
     
-    #### Google Site Search (Google Ireland Limited)
+* ### Google Site Search (Google Ireland Limited)
     
     Google Site Search is a search engine embedding service provided by Google Ireland Limited that allows this Website to incorporate content of this kind on its pages.
     
@@ -130,29 +121,7 @@ This Website uses Trackers to improve the quality of the user experience and ena
     
     Place of processing: Ireland – [Privacy Policy](https://policies.google.com/privacy).
     
-* ### Interaction with external social networks and platforms
-    
-    This type of service allows interaction with social networks or other external platforms directly from the pages of this Website.  
-    The interaction and information obtained through this Website are always subject to the User’s privacy settings for each social network.  
-    This type of service might still collect traffic data for the pages where the service is installed, even when Users do not use it.  
-    It is recommended to log out from the respective services in order to make sure that the processed data on this Website isn’t being connected back to the User’s profile.
-    
-    #### AddThis (Oracle Corporation)
-    
-    AddThis is a service provided by Oracle Corporation, which displays a widget that allows interaction with social networks and external platforms as well as sharing the contents of this Website.  
-    Depending on the configuration, this service can display widgets belonging to third parties such as the managers of social networks where interactions are shared. In this case, also the third parties that provide the widget will be informed of interactions and Usage Data on the pages where this service is installed.
-    
-    Personal Data processed: Cookies and Usage Data.
-    
-    Place of processing: United States – [Privacy Policy](https://www.oracle.com/legal/privacy/addthis-privacy-policy.html).
-    
-    Storage duration:
-    
-    * UID: 2 years
-    * \_\_atuvc: 2 years
-    * \_\_atuvs: 30 minutes
-    
-    #### Twitter Tweet button and social widgets (X Corp.)
+* ### Twitter Tweet button and social widgets (X Corp.)
     
     The Twitter Tweet button and social widgets are services allowing interaction with the Twitter social network provided by Twitter, Inc.
     
@@ -164,7 +133,7 @@ This Website uses Trackers to improve the quality of the user experience and ena
     
     * personalization\_id: 2 years
     
-    #### Facebook Like button and social widgets (Meta Platforms, Inc.)
+* ### Facebook Like button and social widgets (Meta Platforms, Inc.)
     
     The Facebook Like button and social widgets are services allowing interaction with the Facebook social network provided by Meta Platforms, Inc.
     
@@ -176,7 +145,7 @@ This Website uses Trackers to improve the quality of the user experience and ena
     
     * \_fbp: 3 months
     
-    #### LinkedIn button and social widgets (LinkedIn Corporation)
+* ### LinkedIn button and social widgets (LinkedIn Corporation)
     
     The LinkedIn button and social widgets are services allowing interaction with the LinkedIn social network provided by LinkedIn Corporation.
     
@@ -197,12 +166,7 @@ This Website uses Trackers to improve the quality of the user experience and ena
     * lms\_ads: 1 month
     * lms\_analytics: 1 month
     
-* ### Interaction with online survey platforms
-    
-    This type of service allows Users to interact with third-party online survey platforms directly from the pages of this Website.  
-    If one of these services is installed, it may collect browsing and Usage Data in the pages where it is installed, even if the Users do not actively use the service.
-    
-    #### Hotjar Poll & Survey widgets (Hotjar Ltd.)
+* ### Hotjar Poll & Survey widgets (Hotjar Ltd.)
     
     The Hotjar Poll & Survey widgets are services that enable interaction with the Hotjar platform provided by Hotjar Ltd.  
     Hotjar honors generic „Do Not Track” headers. This means the browser can tell its script not to collect any of the User's data. This is a setting that is available in all major browsers. Find Hotjar’s [opt-out information here](https://www.hotjar.com/legal/compliance/opt-out).
@@ -234,15 +198,13 @@ This Website uses Trackers to improve the quality of the user experience and ena
     * \_hjid: 1 year
     
 
-#### Measurement
+### Measurement
 
 This Website uses Trackers to measure traffic and analyse User behaviour to improve the Service.
 
-* ### Analytics
-    
-    The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior.
-    
-    #### Google Analytics (Universal Analytics) (Google Ireland Limited)
+#### Trackers managed by third parties
+
+* ### Google Analytics (Universal Analytics) (Google Ireland Limited)
     
     Google Analytics (Universal Analytics) is a web analysis service provided by Google Ireland Limited (“Google”). Google utilizes the Data collected to track and examine the use of this Website, to prepare reports on its activities and share them with other Google services.  
     Google may use the Data collected to contextualize and personalize the ads of its own advertising network.
@@ -261,7 +223,7 @@ This Website uses Trackers to measure traffic and analyse User behaviour to impr
     * \_gat: 1 minute
     * \_gid: 1 day
     
-    #### Quantcast Measure (Quantcast Corporation)
+* ### Quantcast Measure (Quantcast Corporation)
     
     Quantcast Measure is an analytics service provided by Quantcast Corporation.
     
@@ -273,7 +235,7 @@ This Website uses Trackers to measure traffic and analyse User behaviour to impr
     
     * \_dlt: duration of the session
     
-    #### Meta Events Manager (Meta Platforms Ireland Limited)
+* ### Meta Events Manager (Meta Platforms Ireland Limited)
     
     Meta Events Manager is an analytics service provided by Meta Platforms Ireland Limited. By integrating the Meta pixel, Meta Events Manager can give the Owner insights into the traffic and interactions on this Website.
     
@@ -285,11 +247,7 @@ This Website uses Trackers to measure traffic and analyse User behaviour to impr
     
     * \_fbp: 3 months
     
-* ### Anonymized analytics services
-    
-    The services contained in this section allow the Owner, through the use of third-party Trackers, to collect and manage analytics in an anonymized form.
-    
-    #### Google Analytics (Universal Analytics) with anonymized IP (Google Ireland Limited)
+* ### Google Analytics (Universal Analytics) with anonymized IP (Google Ireland Limited)
     
     Google Analytics (Universal Analytics) is a web analysis service provided by Google Ireland Limited (“Google”). Google utilizes the Data collected to track and examine the use of this Website, to prepare reports on its activities and share them with other Google services.  
     Google may use the Data collected to contextualize and personalize the ads of its own advertising network.  
@@ -309,12 +267,7 @@ This Website uses Trackers to measure traffic and analyse User behaviour to impr
     * \_gat: 1 minute
     * \_gid: 1 day
     
-* ### Heat mapping and session recording
-    
-    Heat mapping services are used to display the areas of this Website that Users interact with most frequently. This shows where the points of interest are. These services make it possible to monitor and analyze web traffic and keep track of User behavior.  
-    Some of these services may record sessions and make them available for later visual playback.
-    
-    #### Hotjar Heat Maps & Recordings (Hotjar Ltd.)
+* ### Hotjar Heat Maps & Recordings (Hotjar Ltd.)
     
     Hotjar is a session recording and heat mapping service provided by Hotjar Ltd.  
     Hotjar honors generic „Do Not Track” headers. This means the browser can tell its script not to collect any of the User's data. This is a setting that is available in all major browsers. Find Hotjar’s [opt-out information here](https://www.hotjar.com/legal/compliance/opt-out).
@@ -347,22 +300,86 @@ This Website uses Trackers to measure traffic and analyse User behaviour to impr
     * \_hjid: 1 year
     
 
-#### Marketing
+### Marketing
 
-This Website uses Trackers to deliver personalised marketing content based on User behaviour and to operate, serve and track ads.
+This Website uses Trackers to deliver personalized ads or marketing content, and to measure their performance.
 
 Some of the advertising services used by the Owner adhere to the [IAB Transparency and Consent Framework](https://iabeurope.eu/transparency-consent-framework/), an initiative that facilitates responsible privacy practices across the digital advertising industry - providing Users with enhanced transparency and control over how their data are used for advertising tracking purposes. Users can customize their advertising preferences at any time by accessing the advertising preferences panel from within the cookie notice or via the relevant link on this Website.
 
 This Website participates in the IAB Europe Transparency & Consent Framework and complies with its Specifications and Policies. This Website uses iubenda (identification number 123) as a Consent Management Platform.
 
-* ### Advertising
+#### Trackers managed by third parties
+
+* ### AddThis (Oracle Corporation)
     
-    This type of service allows User Data to be utilized for advertising communication purposes. These communications are displayed in the form of banners and other advertisements on this Website, possibly based on User interests.  
-    This does not mean that all Personal Data are used for this purpose. Information and conditions of use are shown below.  
-    Some of the services listed below may use Trackers for identifying Users, behavioral retargeting i.e. displaying ads tailored to the User’s interests and behavior, or to measure ads performance. For more information, please check the privacy policies of the relevant services.  
-    Services of this kind usually offer the possibility to opt out of such tracking. In addition to any opt-out feature offered by any of the services below, Users may learn more on how to generally opt out of interest-based advertising within the dedicated section "How to opt-out of interest-based advertising" in this document.
+    AddThis is a service provided by Oracle Corporation, which displays a widget that allows interaction with social networks and external platforms as well as sharing the contents of this Website.  
+    Depending on the configuration, this service can display widgets belonging to third parties such as the managers of social networks where interactions are shared. In this case, also the third parties that provide the widget will be informed of interactions and Usage Data on the pages where this service is installed.
     
-    #### Google Ads conversion tracking (Google Ireland Limited)
+    Personal Data processed: Cookies and Usage Data.
+    
+    Place of processing: United States – [Privacy Policy](https://www.oracle.com/legal/privacy/addthis-privacy-policy.html).
+    
+    Storage duration:
+    
+    * UID: 2 years
+    * \_\_atuvc: 2 years
+    * \_\_atuvs: 30 minutes
+    
+* ### Google Ads Remarketing (Google Ireland Limited)
+    
+    Google Ads Remarketing is a remarketing and behavioral targeting service provided by Google Ireland Limited that connects the activity of this Website with the Google Ads advertising network and the DoubleClick Cookie.
+    
+    Users can opt out of Google's use of cookies for ads personalization by visiting Google's [Ads Settings](https://adssettings.google.com/authenticated).
+    
+    Personal Data processed: Cookies and Usage Data.
+    
+    Place of processing: Ireland – [Privacy Policy](https://policies.google.com/privacy) – [Opt Out](https://adssettings.google.com/authenticated#display_optout).
+    
+    Storage duration:
+    
+    * AID: 2 years
+    * ANID: 2 years
+    * Conversion: 3 months
+    * DSID: 14 days
+    * FCNEC: 1 year
+    * FLC: 10 seconds
+    * FPAU: 3 months
+    * FPGCLAW: 3 months
+    * FPGCLDC: 3 months
+    * FPGCLGB: 3 months
+    * GCL\_AW\_P: 3 months
+    * GED\_PLAYLIST\_ACTIVITY: duration of the session
+    * IDE: 2 years
+    * NID: 6 months
+    * RUL: 1 year
+    * TAID: 14 days
+    * \_\_gads: 2 years
+    * \_\_gpi: 2 years
+    * \_\_gpi\_optout: 2 years
+    * \_\_gsas: 2 years
+    * \_gac\_: 3 months
+    * \_gac\_gb\_: 3 months
+    * \_gcl\_ag: 3 months
+    * \_gcl\_au: 3 months
+    * \_gcl\_aw: 3 months
+    * \_gcl\_dc: 3 months
+    * \_gcl\_gb: 3 months
+    * \_gcl\_gf: 3 months
+    * \_gcl\_gs: 3 months
+    * \_gcl\_ha: 3 months
+    * id: 2 years
+    * receive-cookie-deprecation: 6 months
+    * test\_cookie: 15 minutes
+    
+* ### TikTok Remarketing (TikTok Technology Limited)
+    
+    TikTok Remarketing is a remarketing and behavioral targeting service provided by TikTok Technology Limited that connects the activity of this Website with the TikTok advertising network.
+    
+    Personal Data processed: device information, Trackers, unique device identifiers for advertising (Google Advertiser ID or IDFA, for example) and Usage Data.
+    
+    Place of processing: Ireland – [Privacy Policy](https://www.tiktok.com/legal/privacy-policy?lang=en#privacy-eea).
+    
+* ### Google Ads conversion tracking (Google Ireland Limited)
     
     Google Ads conversion tracking is an analytics service provided by Google Ireland Limited that connects data from the Google Ads advertising network with actions performed on this Website.
     
@@ -375,7 +392,7 @@ This Website participates in the IAB Europe Transparency & Consent Framework and
     * IDE: 2 years
     * test\_cookie: 15 minutes
     
-    #### LinkedIn conversion tracking (LinkedIn Insight Tag) (LinkedIn Corporation)
+* ### LinkedIn conversion tracking (LinkedIn Insight Tag) (LinkedIn Corporation)
     
     LinkedIn conversion tracking (LinkedIn Insight Tag) is an analytics and behavioral targeting service provided by LinkedIn Corporation that connects data from the LinkedIn advertising network with actions performed on this Website. The LinkedIn Insight Tag tracks conversions that can be attributed to LinkedIn ads and enables to target groups of Users on the base of their past use of this Website.
     
@@ -397,7 +414,7 @@ This Website participates in the IAB Europe Transparency & Consent Framework and
     * lms\_ads: 1 month
     * lms\_analytics: 1 month
     
-    #### LinkedIn Ads
+* ### LinkedIn Ads
     
     LinkedIn Ads is an advertising service provided by LinkedIn Ireland Unlimited Company or by LinkedIn Corporation, depending on how the Owner manages the Data processing.
     
@@ -421,7 +438,7 @@ This Website participates in the IAB Europe Transparency & Consent Framework and
     * oribi\_session: 2 hours
     * oribi\_user\_guid: 7 months
     
-    #### Hotjar Form Analysis & Conversion Funnels (Hotjar Ltd.)
+* ### Hotjar Form Analysis & Conversion Funnels (Hotjar Ltd.)
     
     Hotjar is an analytics service provided by Hotjar Ltd.  
     Hotjar honors generic Do Not Track headers. This means your browser can tell its script not to collect any of your data. This is a setting that is available in all major browsers. Find Hotjar’s [opt-out information here](https://www.hotjar.com/legal/compliance/opt-out).
@@ -452,7 +469,7 @@ This Website participates in the IAB Europe Transparency & Consent Framework and
     * \_hjViewportId: duration of the session
     * \_hjid: 1 year
     
-    #### Sizmek - Amazon Ad Server (Sizmek Inc.)
+* ### Sizmek - Amazon Ad Server (Sizmek Inc.)
     
     Sizmek - Amazon Ad Server is an advertising service provided by Sizmek Inc.
     
@@ -489,7 +506,7 @@ This Website participates in the IAB Europe Transparency & Consent Framework and
     * t1: 3 months
     * u2: 3 months
     
-    #### TikTok conversion tracking
+* ### TikTok conversion tracking
     
     TikTok conversion tracking is an analytics and behavioral targeting service provided by TikTok Inc. or by TikTok Technology Limited, depending on how the Owner manages the Data processing, that connects data from the TikTok advertising network with actions performed on this Website. The TikTok pixel tracks conversions that can be attributed to TikTok ads and enables to target groups of Users on the base of their past use of this Website.
     
@@ -497,133 +514,8 @@ This Website participates in the IAB Europe Transparency & Consent Framework and
     
     Place of processing: United States – [Privacy Policy](https://www.tiktok.com/legal/privacy-policy?lang=en); Ireland – [Privacy Policy](https://www.tiktok.com/legal/privacy-policy?lang=en#privacy-eea).
     
-* ### Interaction with external social networks and platforms
-    
-    This type of service allows interaction with social networks or other external platforms directly from the pages of this Website.  
-    The interaction and information obtained through this Website are always subject to the User’s privacy settings for each social network.  
-    This type of service might still collect traffic data for the pages where the service is installed, even when Users do not use it.  
-    It is recommended to log out from the respective services in order to make sure that the processed data on this Website isn’t being connected back to the User’s profile.
-    
-    #### AddThis (Oracle Corporation)
-    
-    AddThis is a service provided by Oracle Corporation, which displays a widget that allows interaction with social networks and external platforms as well as sharing the contents of this Website.  
-    Depending on the configuration, this service can display widgets belonging to third parties such as the managers of social networks where interactions are shared. In this case, also the third parties that provide the widget will be informed of interactions and Usage Data on the pages where this service is installed.
-    
-    Personal Data processed: Cookies and Usage Data.
-    
-    Place of processing: United States – [Privacy Policy](https://www.oracle.com/legal/privacy/addthis-privacy-policy.html).
-    
-    Storage duration:
-    
-    * UID: 2 years
-    * \_\_atuvc: 2 years
-    * \_\_atuvs: 30 minutes
-    
-    #### Twitter Tweet button and social widgets (X Corp.)
-    
-    The Twitter Tweet button and social widgets are services allowing interaction with the Twitter social network provided by Twitter, Inc.
-    
-    Personal Data processed: Cookies and Usage Data.
-    
-    Place of processing: United States – [Privacy Policy](https://twitter.com/en/privacy).
-    
-    Storage duration:
-    
-    * personalization\_id: 2 years
-    
-    #### Facebook Like button and social widgets (Meta Platforms, Inc.)
-    
-    The Facebook Like button and social widgets are services allowing interaction with the Facebook social network provided by Meta Platforms, Inc.
-    
-    Personal Data processed: Cookies and Usage Data.
-    
-    Place of processing: United States – [Privacy Policy](https://www.facebook.com/privacy/explanation).
-    
-    Storage duration:
-    
-    * \_fbp: 3 months
-    
-    #### LinkedIn button and social widgets (LinkedIn Corporation)
-    
-    The LinkedIn button and social widgets are services allowing interaction with the LinkedIn social network provided by LinkedIn Corporation.
-    
-    Personal Data processed: Cookies and Usage Data.
-    
-    Place of processing: United States – [Privacy Policy](https://www.linkedin.com/legal/privacy-policy).
-    
-    Storage duration:
-    
-    * AnalyticsSyncHistory: 1 month
-    * JSESSIONID: duration of the session
-    * UserMatchHistory: 1 month
-    * bcookie: 1 year
-    * bscookie: 1 year
-    * lang: duration of the session
-    * lidc: 1 day
-    * lissc: 1 year
-    * lms\_ads: 1 month
-    * lms\_analytics: 1 month
-    
-* ### Remarketing and behavioral targeting
-    
-    This type of service allows this Website and its partners to inform, optimize and serve advertising based on past use of this Website by the User.  
-    This activity is facilitated by tracking Usage Data and by using Trackers to collect information which is then transferred to the partners that manage the remarketing and behavioral targeting activity.  
-    Some services offer a remarketing option based on email address lists.  
-    In addition to any opt-out feature provided by any of the services below, Users may opt out by visiting the [Network Advertising Initiative opt-out page](http://optout.networkadvertising.org/?c=1).
-    
-    **Users may also opt-out of certain advertising features through applicable device settings, such as the device advertising settings for mobile phones or ads settings in general**.
-    
-    #### Google Ads Remarketing (Google Ireland Limited)
-    
-    Google Ads Remarketing is a remarketing and behavioral targeting service provided by Google Ireland Limited that connects the activity of this Website with the Google Ads advertising network and the DoubleClick Cookie.
-    
-    Users can opt out of Google's use of cookies for ads personalization by visiting Google's [Ads Settings](https://adssettings.google.com/authenticated).
-    
-    Personal Data processed: Cookies and Usage Data.
-    
-    Place of processing: Ireland – [Privacy Policy](https://policies.google.com/privacy) – [Opt Out](https://adssettings.google.com/authenticated#display_optout).
-    
-    Storage duration:
-    
-    * AID: 2 years
-    * ANID: 2 years
-    * Conversion: 3 months
-    * DSID: 14 days
-    * FCNEC: 1 year
-    * FLC: 10 seconds
-    * FPAU: 3 months
-    * FPGCLAW: 3 months
-    * FPGCLDC: 3 months
-    * FPGCLGB: 3 months
-    * IDE: 2 years
-    * NID: 6 months
-    * RUL: 1 year
-    * TAID: 14 days
-    * \_\_gads: 2 years
-    * \_\_gsas: 2 years
-    * \_gac\_: 3 months
-    * \_gac\_gb\_: 3 months
-    * \_gcl\_ag: 3 months
-    * \_gcl\_au: 3 months
-    * \_gcl\_aw: 3 months
-    * \_gcl\_dc: 3 months
-    * \_gcl\_gb: 3 months
-    * \_gcl\_gf: 3 months
-    * \_gcl\_gs: 3 months
-    * \_gcl\_ha: 3 months
-    * id: 2 years
-    * test\_cookie: 15 minutes
-    
-    #### TikTok Remarketing (TikTok Technology Limited)
-    
-    TikTok Remarketing is a remarketing and behavioral targeting service provided by TikTok Technology Limited that connects the activity of this Website with the TikTok advertising network.
-    
-    Personal Data processed: device information, Trackers, unique device identifiers for advertising (Google Advertiser ID or IDFA, for example) and Usage Data.
-    
-    Place of processing: Ireland – [Privacy Policy](https://www.tiktok.com/legal/privacy-policy?lang=en#privacy-eea).
-    
 
-### Activities that do not fit the above categorizations
+### Trackers that do not fit the above categorizations
 
 * ### Policy scope
     
