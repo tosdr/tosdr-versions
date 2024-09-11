@@ -38,9 +38,9 @@ Bewertungen
 
 Login
 
-[Shopping from International Please click here to visit EMP Online Shop for customers from International
+[Shopping from United Kingdom Please click here to visit EMP Online Shop for customers from United Kingdom
 
-Ok](https://www.emp-online.com/home?forceThisShop=1)
+Ok](https://www.emp.co.uk/home?forceThisShop=1)
 
 [EMP International](https://www.emp-online.com/home?forceThisShop=1 "International")
 
@@ -88,7 +88,11 @@ Ok](https://www.emp-online.com/home?forceThisShop=1)
     
 * [Brands](https://www.emp.de/markenkleidung/)
     
-* [Entertainment](https://www.emp.de/entertainment/)
+* [Filme & Serien](https://www.emp.de/fan-merch/)
+    
+* [Anime](https://www.emp.de/fan-merch/anime/)
+    
+* [Gaming](https://www.emp.de/gaming/)
     
 * [Wohnen](https://www.emp.de/fun-lifestyle/wohnen/)
     
@@ -152,11 +156,11 @@ Ok](https://www.emp-online.com/home?forceThisShop=1)
 
 Katalog durchsuchen  löschen Packstation suchen
 
-[](https://www.emp.de/bekleidung/)
+[](https://www.emp.de/sale/)
 
-Gratis Versand ab 39,99€!
+15% EXTRA Rabatt auf den SALE!\*
 
-[Schlag zu!](https://www.emp.de/bekleidung/ "Schlag zu!") Code **FREE** kopieren
+[Jetzt sparen!](https://www.emp.de/sale/ "Jetzt sparen!") Code **FLASH15** kopieren
 
 Die Javascript-Funktion Ihres Browsers ist deaktiviert.
 
@@ -487,11 +491,11 @@ Ich bin damit einverstanden, den EMP-Newsletter zu erhalten und willige ein, das
 
 Anmelden
 
-\*4 Wochen gültig. Nur online einlösbar. Nicht mit anderen Aktionen kombinierbar. Nach Codeeingabe wird dir der Rabatt automatisch im Warenkorb abgezogen. Bücher, Medien, Tickets, Rammstein, Böhse Onkelz, Broilers, Die Ärzte, Feine Sahne Fischfilet, Die Toten Hosen, Gutscheine & Artikel, die einen Spendenbeitrag beinhalten.
+\*4 Wochen gültig. Nur online einlösbar. Nicht mit anderen Aktionen kombinierbar. Nach Codeeingabe wird dir der Rabatt automatisch im Warenkorb abgezogen. Bücher, Medien, Tickets, Rammstein, Die Ärzte, Die Toten Hosen, Feine Sahne Fischfilet, Broilers, New Balance, Böhse Onkelz, Funko Pop!, Gutscheine & Artikel, die einen Spendenbeitrag beinhalten, sind von der Aktion ausgeschlossen.
 
 Unser Kundenservice ist für dich da
 
-Ja, unser Kundenservice ist heute erreichbar bis 18:00 Uhr. [Mehr Infos](https://www.emp.de/kontakt)
+Ja, unser Kundenservice ist heute wieder erreichbar von 08:00 Uhr bis 18:00 Uhr. [Mehr Infos](https://www.emp.de/kontakt)
 
 Live-Chat starten
 
