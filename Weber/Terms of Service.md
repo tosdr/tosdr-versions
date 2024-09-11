@@ -1,6 +1,6 @@
 [Skip to main content](#maincontent) [Skip to footer content](#footercontent)
 
- [![](https://www.weber.com/on/demandware.static/Sites-US-Site/-/default/dw6092bdac/images/flags/us.png "United States") US United States (en)](https://www.weber.com/international "United States")
+ [![](https://www.weber.com/on/demandware.static/Sites-US-Site/-/default/dwb42451b3/images/flags/us.png "United States") US United States (en)](https://www.weber.com/international "United States")
 
 * [RECIPES](https://www.weber.com/US/en/recipes/weber-31811.html)
 * [DISCOVER WEBER](https://www.weber.com/US/en/aboutus.html)
@@ -20,6 +20,7 @@ Back
 [Gas](https://www.weber.com/US/en/gas/ "Gas Grill")
 
 Gas Grills
+----------
 
 [Shop All Gas Grills](https://www.weber.com/US/en/gas/ "Shop All Gas Grills")
 
@@ -29,7 +30,7 @@ Genesis® NEW](https://www.weber.com/US/en/gas/genesis/ "Genesis®")
 
 [![](https://dw-images.weber.com/navigation/default/gas-grills/00_Spirit_E210_NAV_207x165.png?auto=compress,format)
 
-Spirit®](https://www.weber.com/US/en/gas/spirit/ "Spirit®")
+Spirit® $50 OFF](https://www.weber.com/US/en/gas/spirit/ "Spirit®")
 
 [![](https://dw-images.weber.com/navigation/default/gas-grills/summit_2024_207x165.png?auto=compress,format)
 
@@ -61,11 +62,12 @@ Gas Parts](https://www.weber.com/US/en/parts--et--support/replacement-parts/gas-
 
 [Shop All Gas Grills](https://www.weber.com/US/en/gas/ "Shop All Gas Grills")
 
-  [![](https://dw-images.weber.com/images/plp/2024_Slate_207x165.jpg?auto=compress,format)The New Slate Griddle](https://www.weber.com/US/en/slategriddle.html)[![](https://dw-images.weber.com/images/plp/2024_Summit_207x165.jpg?auto=compress,format)All-New Summit Gas Grills](https://www.weber.com/US/en/summitgasgrill.html)
+  [![](/on/demandware.static/-/Library-Sites-library-na/default/dw2eb2dcb6/24_SpringMAP_MegaMenu_207x165.jpg)Save on select Spirit® gas grills](https://www.weber.com/US/en/gas/spirit/)[![](https://dw-images.weber.com/images/plp/2024_Slate_207x165.jpg?auto=compress,format)The New Slate Griddle](https://www.weber.com/US/en/slategriddle.html)
 
 [Charcoal](https://www.weber.com/US/en/charcoal/ "Charcoal")
 
 Charcoal Grills
+---------------
 
 [Shop All Charcoal Grills](https://www.weber.com/US/en/charcoal/ "Shop All Charcoal Grills")
 
@@ -112,12 +114,13 @@ Charcoal Parts](https://www.weber.com/US/en/parts--et--support/replacement-parts
 [Wood Pellet](https://www.weber.com/US/en/wood-pellet/ "Wood Pellet")
 
 Wood Pellet Grills
+------------------
 
 [Shop All Wood Pellet Grills](https://www.weber.com/US/en/wood-pellet/ "Shop All Wood Pellet Grills")
 
 [![](https://dw-images.weber.com/navigation/default/wood-pellet-grills/searwoodXL600_207x165.png?auto=compress,format)
 
-Searwood NEW](https://www.weber.com/US/en/wood-pellet/searwood/ "Searwood")
+Searwood® NEW](https://www.weber.com/US/en/wood-pellet/searwood/ "Searwood®")
 
 [![](https://dw-images.weber.com/navigation/default/wood-pellet-grills/00_Pellets_US_Nav_207x165.png?auto=compress,format)
 
@@ -129,11 +132,12 @@ Wood Pellet Parts](https://www.weber.com/US/en/wood-pellet/wood-pellet-parts/ "W
 
 [Shop All Wood Pellet Grills](https://www.weber.com/US/en/wood-pellet/ "Shop All Wood Pellet Grills")
 
-  [![](https://dw-images.weber.com/images/Landing%20Pages/2024-landing-pages/searwood/Searwood_megamenu_207x165.jpg?auto=compress,format)Searwood™ Grills Do It All​](https://www.weber.com/US/en/searwoodpelletgrill.html)[![](https://dw-images.weber.com/navigation/default/header-banner/Nav_Promo_SF_TipsTricks_LP.jpg?auto=compress,format)SmokeFire Getting Started](https://www.weber.com/US/en/smokefire-getting-started.html)
+  [![](https://dw-images.weber.com/images/Landing%20Pages/2024-landing-pages/searwood/Searwood_megamenu_207x165.jpg?auto=compress,format)Searwood® Grills Do It All​](https://www.weber.com/US/en/searwoodpelletgrill.html)[![](https://dw-images.weber.com/navigation/default/header-banner/Nav_Promo_SF_TipsTricks_LP.jpg?auto=compress,format)SmokeFire Getting Started](https://www.weber.com/US/en/smokefire-getting-started.html)
 
 [Electric](https://www.weber.com/US/en/electric/ "Electric")
 
 Electric Grills
+---------------
 
 [Shop All Electric Grills](https://www.weber.com/US/en/electric/ "Shop All Electric Grills")
 
@@ -164,6 +168,7 @@ Electric Parts](https://www.weber.com/US/en/parts--et--support/replacement-parts
 [Griddle](https://www.weber.com/US/en/griddle/ "Griddle")
 
 Griddle
+-------
 
 [Shop All Griddles](https://www.weber.com/US/en/griddle/ "Shop All Griddles")
 
@@ -198,6 +203,7 @@ Griddle Accessories](https://www.weber.com/US/en/griddle/griddle-accessories/ "G
 [Accessories](https://www.weber.com/US/en/shopallaccessories.html "Accessories")
 
 Accessories
+-----------
 
 [Shop All Accessories](https://www.weber.com/US/en/shopallaccessories.html "Shop All Accessories")
 
@@ -221,7 +227,7 @@ Fuel and Pellets](https://www.weber.com/US/en/accessories/fuel-and-smoking/)
 
 Grilling Thermometers](https://www.weber.com/US/en/accessories/smart-grilling/)
 
-[Accessories by Grill Type](https://www.weber.com/US/en/accessories/accessories-by-grill-type/ "Accessories by Grill Type")
+[### Accessories by Grill Type](https://www.weber.com/US/en/accessories/accessories-by-grill-type/ "Accessories by Grill Type")
 
 * [Gas Grill Accessories](https://www.weber.com/US/en/accessories/accessories-by-grill-type/gas-grill-accessories/ "Gas Grill Accessories")
 * [Griddle Grill Accessories NEW](https://www.weber.com/US/en/accessories/accessories-by-grill-type/griddle-grill-accessories/ "Griddle Grill Accessories")
@@ -231,7 +237,7 @@ Grilling Thermometers](https://www.weber.com/US/en/accessories/smart-grilling/)
 
 Accessories by Grill Type
 
-[Grill Covers](https://www.weber.com/US/en/accessories/grill-covers/ "Grill Covers")
+[### Grill Covers](https://www.weber.com/US/en/accessories/grill-covers/ "Grill Covers")
 
 * [Gas Grill Covers](https://www.weber.com/US/en/accessories/grill-covers/gas-grill-covers/ "Gas Grill Covers")
 * [Griddle Grill Covers NEW](https://www.weber.com/US/en/accessories/grill-covers/griddle-grill-covers/ "Griddle Grill Covers")
@@ -243,7 +249,7 @@ Accessories by Grill Type
 
 Grill Covers
 
-[Grill Tools and Cookware](https://www.weber.com/US/en/accessories/grill-tools-and-cookware/ "Grill Tools and Cookware")
+[### Grill Tools and Cookware](https://www.weber.com/US/en/accessories/grill-tools-and-cookware/ "Grill Tools and Cookware")
 
 * [Griddles NEW](https://www.weber.com/US/en/accessories/grill-tools-and-cookware/griddles/ "Griddles")
 * [Weber Works™ NEW](https://www.weber.com/US/en/griddle/weber-works/ "Weber Works™")
@@ -256,7 +262,7 @@ Grill Covers
 
 Grill Tools and Cookware
 
-[Grill Cleaning](https://www.weber.com/US/en/accessories/grill-cleaning/ "Grill Cleaning")
+[### Grill Cleaning](https://www.weber.com/US/en/accessories/grill-cleaning/ "Grill Cleaning")
 
 * [Grill Brushes and Scrapers](https://www.weber.com/US/en/accessories/grill-cleaning/grill-brushes-and-scrapers/ "Grill Brushes and Scrapers")
 * [Grill Cleaners](https://www.weber.com/US/en/accessories/grill-cleaning/grill-cleaners/ "Grill Cleaners")
@@ -265,7 +271,7 @@ Grill Tools and Cookware
 
 Grill Cleaning
 
-[WEBER CRAFTED](https://www.weber.com/US/en/accessories/weber-crafted/ "WEBER CRAFTED")
+[### WEBER CRAFTED](https://www.weber.com/US/en/accessories/weber-crafted/ "WEBER CRAFTED")
 
 * [Frame Kits](https://www.weber.com/US/en/accessories/weber-crafted/frame-kits/ "Frame Kits")
 * [Cooking Grates](https://www.weber.com/US/en/accessories/weber-crafted/cooking-grates/ "Cooking Grates")
@@ -274,7 +280,7 @@ Grill Cleaning
 
 WEBER CRAFTED
 
-[Fuel and Smoking](https://www.weber.com/US/en/accessories/fuel-and-smoking/ "Fuel and Smoking")
+[### Fuel and Smoking](https://www.weber.com/US/en/accessories/fuel-and-smoking/ "Fuel and Smoking")
 
 * [Wood Pellets](https://www.weber.com/US/en/accessories/fuel-and-smoking/wood-pellets/ "Wood Pellets")
 * [Wood Chips](https://www.weber.com/US/en/accessories/fuel-and-smoking/wood-chips/ "Wood Chips")
@@ -283,7 +289,7 @@ WEBER CRAFTED
 
 Fuel and Smoking
 
-[Smart Grilling](https://www.weber.com/US/en/accessories/smart-grilling/ "Smart Grilling")
+[### Smart Grilling](https://www.weber.com/US/en/accessories/smart-grilling/ "Smart Grilling")
 
 * [Weber CONNECT](https://www.weber.com/US/en/accessories/smart-grilling/weber-connect/ "Weber CONNECT")
 * [Probes and Thermometers](https://www.weber.com/US/en/accessories/smart-grilling/probes-and-thermometers/ "Probes and Thermometers")
@@ -291,7 +297,7 @@ Fuel and Smoking
 
 Smart Grilling
 
-[Gear and Gifts](https://www.weber.com/US/en/accessories/gear-and-gifts/ "Gear and Gifts")
+[### Gear and Gifts](https://www.weber.com/US/en/accessories/gear-and-gifts/ "Gear and Gifts")
 
 * [eGift Cards](https://www.weber.com/US/en/giftcard/ "eGift Cards")
 * [Weber x Huckberry NEW](https://www.weber.com/US/en/weber-x-huckberry-collaboration.html "Weber x Huckberry")
@@ -308,8 +314,9 @@ Gear and Gifts
 [Parts & Support](https://www.weber.com/US/en/parts.html "Parts & Support")
 
 Parts & Support
+---------------
 
-[Orders and Shipping](https://www.weber.com/US/en/shippingandreturns.html "Orders and Shipping")
+[### Orders and Shipping](https://www.weber.com/US/en/shippingandreturns.html "Orders and Shipping")
 
 * [Track Your Order](https://www.weber.com/US/en/login/ "Track Your Order")
 * [Find a Retailer](https://www.weber.com/US/en/storefinder/ "Find a Retailer")
@@ -317,7 +324,7 @@ Parts & Support
 
 Orders and Shipping
 
-[Owner Support](https://www.weber.com/US/en/contactus.html "Owner Support")
+[### Owner Support](https://www.weber.com/US/en/contactus.html "Owner Support")
 
 * [Warranties](https://www.weber.com/US/en/warranties.html "Warranties")
 * [Manuals](https://www.weber.com/US/en/help/manuals/ "Manuals")
@@ -326,7 +333,7 @@ Orders and Shipping
 
 Owner Support
 
-[Get Help](https://www.weber.com/US/en/contactus.html "Get Help")
+[### Get Help](https://www.weber.com/US/en/contactus.html "Get Help")
 
 * [Troubleshooting and FAQs](https://consumer-care.weber.com/s/?language=en_US "Troubleshooting and FAQs")
 * [Service and Troubleshooting Videos](https://www.youtube.com/playlist?list=PL41jg6pnrcGWCqOoY5H8hOeErcrZVlb96 "Service and Troubleshooting Videos")
@@ -335,7 +342,7 @@ Owner Support
 
 Get Help
 
-[Replacement Parts](https://www.weber.com/US/en/parts.html "Replacement Parts")
+[### Replacement Parts](https://www.weber.com/US/en/parts.html "Replacement Parts")
 
 * [Search by Serial Number](https://www.weber.com/US/en/help/schematics/ "Search by Serial Number")
 or Select Your Grill Type* [![](https://dw-images.weber.com/navigation/default/parts-support/gas50x50.png?auto=compress,format)
@@ -363,7 +370,7 @@ Replacement Parts
 * [Register a Grill](https://weber.registria.com/ "Register Grill")
 * [Find a Store](https://www.weber.com/US/en/storefinder/ "Store finder")
 
-* [![](https://www.weber.com/on/demandware.static/Sites-US-Site/-/default/dw6092bdac/images/flags/us.png "United States")
+* [![](https://www.weber.com/on/demandware.static/Sites-US-Site/-/default/dwb42451b3/images/flags/us.png "United States")
     
     United States (en)](https://www.weber.com/international "United States")
     
@@ -378,7 +385,7 @@ Search
 
 Enter Keyword or Item No.  Search Clear
 
-Shipping Notice: Orders placed from 8/6 – 8/11 will ship starting on 8/12. [Learn More](https://www.weber.com/US/en/shippingandreturns.html)
+$50 off select Spirit® Gas Grills. Offer valid 8/15/24 - 9/30/24. Restrictions apply. [Shop Now](https://www.weber.com/US/en/gas/spirit/ "Shop Now")
 
 Shopping Cart
 -------------
@@ -411,9 +418,9 @@ Complete Your Grill
 Legal Notice
 ============
 
-###   
+  
 
-_Last updated: January 23, 2023_
+﻿_Last updated: January 23, 2023_
 
 Welcome to [www.weber.com](https://www.weber.com/) (the “Site”). Weber-Stephen Products LLC and its affiliates (collectively “Weber”), provides website features and other services when you visit or shop at the Site or use Weber mobile applications, engage with Weber social media accounts, participate in Weber promotions or opt-in to receive e-mails from Weber (collectively “Weber Media”). Your use of the Site and the Weber Media is subject to this Legal Notice and the following Terms and Conditions and all applicable law. PLEASE READ THESE TERMS AND CONDITIONS CAREFULLY. By accessing and browsing the Site and/or using Weber Media, you accept without limitation or qualification (except as otherwise provided) all of the Terms and Conditions and acknowledge that any other agreements between you and Weber are superseded and have no force and effect. No customer service representative is authorized to modify or amend this Legal Notice including the Terms and Conditions. If you purchase a WEBER product online using the Site, this Legal Notice including the Terms and Conditions do not affect any rights you have under state law as to products you purchase, applicable laws addressing products liability, or rights you have pursuant to Weber’s warranties, shipping or return policies which apply to products you purchase. Please see the supplemental terms and conditions (such as the shipping and return policies) that apply to purchases of WEBER products on this Site which will be disclosed at time of purchase and in the event of any conflict will prevail over these Terms and Conditions.
 
@@ -550,6 +557,15 @@ Explore
 
 © 2024 Weber. All Rights Reserved.
 
-Top
+×
 
-Country Redirect
+See what's sizzlin
+------------------
+
+### be the first to hear about new products, offers and much more!
+
+ Email Address
+
+Sign up
+
+For more about how we use your information, see our [privacy policy](https://www.weber.com/US/en/privacypolicy.html).
