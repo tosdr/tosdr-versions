@@ -548,13 +548,13 @@ Search for:
 
 ### MOST RATED
 
-*  [![](https://eitca.org/wp-content/uploads/2015/10/EITC-BI-MIIT-300x200.jpg)![](https://eitca.org/wp-content/uploads/2015/10/eitc-bi-miit-icon.png) EITC/BI/MIIT Management in information technologies](https://eitca.org/certification/eitcbimiit-management-in-information-technologies/) € 110.00
-*  [![](https://eitca.org/wp-content/uploads/2015/10/EITC-CG-AD-300x200.jpg)![](https://eitca.org/wp-content/uploads/2015/10/eitc-cg-ad-icon.png) EITC/CG/AD Web pages design fundamentals (Adobe Dreamweaver)](https://eitca.org/certification/eitccgad-web-pages-design-fundamentals-adobe-dreamweaver/) € 110.00
-*  [![](https://eitca.org/wp-content/uploads/2015/10/EITC-IS-ISCF-300x200.jpg)![](https://eitca.org/wp-content/uploads/2015/10/eitc-is-iscf-icon.png) EITC/IS/ISCF Information security and cryptography fundamentals](https://eitca.org/certification/eitcisiscf-information-security-and-cryptography-fundamentals/) € 110.00
-*  [![](https://eitca.org/wp-content/uploads/2021/03/eitc-el-ldash-300x200.jpg)![](https://eitca.org/wp-content/uploads/2021/03/eitc-el-ldash-icon.png) EITC/EL/LDASH LearnDash WordPress LMS](https://eitca.org/certification/eitc-el-ldash-learndash-wordpress-lms/) € 110.00
-*  [![](https://eitca.org/wp-content/uploads/2015/10/EITC-CN-SCN2-300x200.jpg)![](https://eitca.org/wp-content/uploads/2015/10/eitc-cn-scn2-icon.png) EITC/CN/SCN2 Computer networking 2](https://eitca.org/certification/eitccnscn2-computer-networking-2/) € 110.00
-*  [![](https://eitca.org/wp-content/uploads/2015/10/EITC-CG-CAG1-300x200.jpg)![](https://eitca.org/wp-content/uploads/2015/10/eitc-cg-cag-icon.png) EITC/CG/CAG Conceptual aspects of graphics](https://eitca.org/certification/eitccgcag-conceptual-aspects-of-graphics/) € 110.00
-*  [![](https://eitca.org/wp-content/uploads/2021/02/EITC-AI-ADL-300x200.jpg)![](https://eitca.org/wp-content/uploads/2021/02/eitc-ai-adl-icon.png) EITC/AI/ADL Advanced Deep Learning](https://eitca.org/certification/eitc-ai-adl-advanced-deep-learning/) € 110.00
+*  [![](https://eitca.org/wp-content/uploads/2015/10/EITC-IS-FAIS1-300x200.jpg)![](https://eitca.org/wp-content/uploads/2015/10/eitc-is-fais-icon.png) EITC/IS/FAIS Formal aspects of information security](https://eitca.org/certification/eitcisfais-formal-aspects-of-information-security/) € 110.00
+*  [![](https://eitca.org/wp-content/uploads/2015/10/EITC-INT-IT1-300x200.jpg)![](https://eitca.org/wp-content/uploads/2015/10/eitc-int-it1-icon.png) EITC/INT/IT1 Internet technologies 1](https://eitca.org/certification/eitcintit1-internet-technologies-1/) € 110.00
+*  [![](https://eitca.org/wp-content/uploads/2021/02/EITC-AI-MLP-300x200.jpg)![](https://eitca.org/wp-content/uploads/2021/02/eitc-ai-mlp-icon.png) EITC/AI/MLP Machine Learning with Python](https://eitca.org/certification/eitc-ai-mlp-machine-learning-with-python/) € 110.00
+*  [![](https://eitca.org/wp-content/uploads/2015/10/EITC-BI-OOC-300x200.jpg)![](https://eitca.org/wp-content/uploads/2015/10/eitc-bi-ooc-icon.png) EITC/BI/OOC Spreadsheets software fundamentals (OpenOffice)](https://eitca.org/certification/eitcbiooc-spreadsheets-software-fundamentals-openoffice/) € 110.00
+*  [![](https://eitca.org/wp-content/uploads/2015/10/EITC-EG-IEEGP-300x200.jpg)![](https://eitca.org/wp-content/uploads/2015/10/eitc-eg-ieegp-icon.png) EITC/EG/IEEGP Introduction to European e-Government programmes](https://eitca.org/certification/eitcegieegp-introduction-to-european-e-government-programmes/) € 110.00
+*  [![](https://eitca.org/wp-content/uploads/2021/03/eitc-wd-wff-300x200.jpg)![](https://eitca.org/wp-content/uploads/2021/03/eitc-wd-wff-icon.png) EITC/WD/WFF Webflow Fundamentals](https://eitca.org/certification/eitc-wd-wff-webflow-fundamentals/) € 110.00
+*  [![](https://eitca.org/wp-content/uploads/2015/10/EITC-TC-ITRSMT-300x200.jpg)![](https://eitca.org/wp-content/uploads/2015/10/eitc-tc-itrsmt-icon.png) EITC/TC/ITRSMT Internet technologies and remote system management for telework](https://eitca.org/certification/eitctcitrsmt-internet-technologies-and-remote-system-management-for-telework/) € 110.00
 
 ### What are you looking for?
 
