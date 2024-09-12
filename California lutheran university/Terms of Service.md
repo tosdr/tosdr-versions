@@ -23,7 +23,7 @@ Search CLU:  Go
     * [Facts at a Glance](https://www.callutheran.edu/about/quick-facts.html)
     * [Lutheran Higher Education](https://www.callutheran.edu/about/the-lutheran-experience/index.html)
     * [Office of the President](https://www.callutheran.edu/president/)
-    * [Diversity, Equity, Inclusion & Justice](https://www.callutheran.edu/diversity/)
+    * [Diversity & Inclusion](https://www.callutheran.edu/diversity/)
     * [Hispanic-Serving Institution](https://www.callutheran.edu/hispanic-serving/)
     * [News & Features](https://news.callutheran.edu/)
     * [Calendar of Events](https://www.callutheran.edu/calendar/)
@@ -41,7 +41,6 @@ Search CLU:  Go
     * [Research & Creative Arts](https://www.callutheran.edu/academics/research.html)
     * [Academic Centers](https://www.callutheran.edu/academics/centers-institutes.html)
     * [Education Abroad](https://www.callutheran.edu/students/education-abroad/)
-    * [Summer Courses](https://www.callutheran.edu/students/summer/)
 * [Admission & Aid](https://www.callutheran.edu/admission/) Show Admission & Aid Menu
     
     * [Apply Online](https://www.callutheran.edu/admission/apply.html)

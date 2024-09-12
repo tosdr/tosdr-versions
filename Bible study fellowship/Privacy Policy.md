@@ -9,11 +9,11 @@ Select Page
 Bible Study Fellowship Privacy Policy
 =====================================
 
-[español (Spanish)](https://www.bsfinternational.org/wp-content/uploads/2021/11/BSF-Privacy-Policy_072021_ESv2.pdf)
+[español (Spanish)](https://www.bsfinternational.org/wp-content/uploads/2024/08/BSF-Privacy-Policy_072021_ESv2.pdf)
 
-[繁體中文 (Traditional Chinese)](https://www.bsfinternational.org/wp-content/uploads/2021/11/BSF-Privacy-Policy_072021_TCv2.pdf)
+[繁體中文 (Traditional Chinese)](https://www.bsfinternational.org/wp-content/uploads/2024/08/BSF-Privacy-Policy_072021_TCv2.pdf)
 
-[简体中文 (Simplified Chinese)](https://www.bsfinternational.org/wp-content/uploads/2021/11/BSF-Privacy-Policy_072021_SCv2.pdf)
+[简体中文 (Simplified Chinese)](https://www.bsfinternational.org/wp-content/uploads/2024/08/BSF-Privacy-Policy_072021_SCv2.pdf)
 
 Last Modified: July 29, 2021
 
@@ -136,7 +136,7 @@ BSF will only hold your Personal Information for as long as is necessary for the
 
 **International Transfers and Storage**
 
-BSF is headquartered in San Antonio, Texas however it has facilities and offices  outside of the U.S. If you reside outside of the U.S., please be aware that, for the purposes enumerated, including administering BSF’s activities, BSF does transfer and store Personal Information in the United States. BSF will only transfer Personal Information outside the country in which you reside where adequate technical and organizational safeguards are in place to ensure that any Personal Information transferred remains secure and is protected. For more information about transfers of your Personal Information, please contact BSF using the contact information provided at the end of this policy.
+BSF is headquartered in Dallas, Texas however it has facilities and offices outside of the U.S. If you reside outside of the U.S., please be aware that, for the purposes enumerated, including administering BSF’s activities, BSF does transfer and store Personal Information in the United States. BSF will only transfer Personal Information outside the country in which you reside where adequate technical and organizational safeguards are in place to ensure that any Personal Information transferred remains secure and is protected. For more information about transfers of your Personal Information, please contact BSF using the contact information provided at the end of this policy.
 
 **Data Security**
 
@@ -155,8 +155,8 @@ From time to time, BSF may change this policy to accommodate new technologies, i
 To ask questions, inquire about your rights, comment about this privacy policy and BSF’s privacy practices, or to make a complaint contact BSF at:
 
 Bible Study Fellowship  
-19001 Huebner Road  
-San Antonio, TX 78258  
+PO Box 675241  
+Dallas, TX 75267-5241  
 Privacy@bsfinternational.org  
 210.492.4676
 
@@ -164,9 +164,9 @@ You may also lodge a complaint by contacting the appropriate agency in the juris
 
 [Agency Contact List – English](https://www.bsfinternational.org/wp-content/uploads/2021/06/BSF-Privacy-Policy-Agency-Contact-Information-2020.09.21-posted.pdf)
 
-[Agency Contact List – Traditional Chinese](https://www.bsfinternational.org/wp-content/uploads/2021/06/BSF-Privacy-Policy-Agency-Contact-Information-202009v1_TC.pdf)
+[Agency Contact List – Traditional Chinese](https://www.bsfinternational.org/wp-content/uploads/2024/08/BSF-Privacy-Policy-Agency-Contact-Information-2024.05.30_TC.pdf)
 
-[Agency Contact List – Simplified Chinese](https://www.bsfinternational.org/wp-content/uploads/2021/06/BSF-Privacy-Policy-Agency-Contact-Information-202009v1_SC.pdf)
+[Agency Contact List – Simplified Chinese](https://www.bsfinternational.org/wp-content/uploads/2024/08/BSF-Privacy-Policy-Agency-Contact-Information-2024.05.30_SC.pdf)
 
 [Agency Contact List – Spanish](https://www.bsfinternational.org/wp-content/uploads/2021/06/BSF-Privacy-Policy-Agency-Contact-Information-202009v1_ES.pdf)
 

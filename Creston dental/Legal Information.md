@@ -133,6 +133,7 @@ Our Locations
 * [North Charleston, SC](https://www.crestondental.com/locations/north-charleston-sc/)
 * [Orangeburg, SC](https://www.crestondental.com/locations/orangeburg-sc/)
 * [Rock Hill, SC](https://www.crestondental.com/locations/rock-hill-sc/)
+* [SR 28 - Anderson, SC](https://www.crestondental.com/locations/anderson-sc-anderson-sr-28/)
 * [Sumter, SC](https://www.crestondental.com/locations/sumter-sc/)
 
 Contact Us

@@ -1,4 +1,4 @@
-[easy cloud service](https://dfiles.eu/)
+[easy cloud service](https://depositfiles.com/)
 
 [**Sign In**](https://dfiles.eu/login.php?return=%2Fprivacy_policy.html)
 
@@ -85,7 +85,7 @@ Privacy policy
         
     4. **Right to deletion of private information.**
         
-        Commencing on May 25 2018 you shall be granted “a right to be forgotten”. You may request removal of your Private information by contacting DepositFiles [customer support](https://dfiles.eu/tickets.html) while logged into you personal account. Your private information shall not be deleted immediately. Automated step-by-step removal procedure shall commence as follows:
+        Commencing on May 25 2018 you shall be granted “a right to be forgotten”. You may request removal of your Private information by contacting DepositFiles [customer support](https://depositfiles.com/tickets.html) while logged into you personal account. Your private information shall not be deleted immediately. Automated step-by-step removal procedure shall commence as follows:
         
         1. DepositFiles immediately stops rendering Services upon request to remove private information.
         2. Your private information is pseudonymised. The instances of private information which may be used for personalization of pseudonymised data are encrypted and moved to a separate location. Encryption keys are kept offline. No such pseudonymised data private information may or can be processed other than stored.

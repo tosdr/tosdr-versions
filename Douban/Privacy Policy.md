@@ -72,9 +72,9 @@
 豆瓣个人信息保护政策
 ----------
 
-2024年6月19日更新
+2024年7月31日更新
 
-2024年6月26日生效
+2024年8月7日生效
 
 [查看历史版本](https://www.douban.com/about/privacy?page=history)
 
@@ -132,7 +132,7 @@
 
 9\. 自动化决策：是指通过计算机程序自动分析、评估个人的行为习惯、兴趣爱好或者经济、健康、信用状况等，并进行决策的活动。
 
-10\. 设备标识符：Android设备标识符包括Android ID、OAID、GUID，iOS设备标识符包括IDFV、IDFA、GUID。
+10\. 设备标识符：Android设备标识符包括Android ID、OAID、GUID，iOS设备标识符包括IDFV、IDFA、GUID，HarmonyOS设备标识符包括HarmonyOS OAID、GUID。
 
 一、我们如何收集和使用你的个人信息
 

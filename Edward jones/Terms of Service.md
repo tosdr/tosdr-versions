@@ -77,7 +77,7 @@ Back to Top
 * [Find a Financial Advisor](https://www.edwardjones.com/us-en/search/financial-advisor/results)
 * [Disclosures](https://www.edwardjones.com/us-en/disclosures)
 * [News and Media](https://www.edwardjones.com/us-en/why-edward-jones/news-media)
-* [Careers](https://careers.edwardjones.com/)
+* [Careers](https://careers.edwardjones.com/?codes=EDWARD_JONES_WEBSITE&utm_source=EDWARD_JONES_WEBSITE)
 * [Resources for CPAs and Attorneys](https://www.edwardjones.com/us-en/cpa-attorney-resources)
 * [Client Relationship Summary](https://www.edwardjones.com/us-en/disclosures/best-interest-relationship-summary)
 * [Client Resource Center](https://www.edwardjones.com/us-en/client-resource-center)

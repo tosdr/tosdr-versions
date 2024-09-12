@@ -85,6 +85,10 @@ To protect your privacy and security, we take reasonable steps to verify your id
 
 We may now or in the future make certain tools and features for configuring your privacy settings available to you through this Website, but any such features and settings we may provide do not guarantee the anonymity or confidentiality of any information, including personally identifiable information and Postings you provide or submit to this Website.
 
+### Deleting Your Information
+
+To request deletion of your data, please contact Foundation by email at: [challenge@breakthroughprize.org](mailto:challenge@breakthroughprize.org).
+
 ### Third Party Websites
 
 This Website contains links to Websites and services provided by third parties. Any personally identifiable information you provide on third party sites or services is provided directly to that third party and is subject to that third party's policies, if any, governing privacy and security. We are not responsible for the content or privacy and security practices and policies of third party sites or services to which links are displayed on this Website. We encourage you to learn about third parties' privacy and security policies before providing them with personally identifiable information.

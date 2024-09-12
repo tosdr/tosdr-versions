@@ -1,6 +1,4 @@
-[![Classic Country Music | Legendary Stories and Songs Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![Classic Country Music | Legendary Stories and Songs Logo](https://classiccountrymusic.com/wp-content/themes/brm-music-premium-rock/assets/images/ccm-desktop-logo.png)](https://classiccountrymusic.com/)
+[![Classic Country Music | Legendary Stories and Songs Logo](https://classiccountrymusic.com/wp-content/themes/brm-music-premium-rock/assets/images/ccm-desktop-logo.png)](https://classiccountrymusic.com/)
 
 * [Home](https://classiccountrymusic.com/)
 * [Artists](#)
@@ -98,9 +96,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/traditional) [See All](https://classiccountrymusic.com/genre/traditional)
 
-* [Dolly Parton’s Dollywood Theme Park Affected...](https://classiccountrymusic.com/dolly-partons-dollywood-theme-park-affected-by-severe-flash-flooding/)
-* [Willie Nelson Documentary Earns Emmy Nomination](https://classiccountrymusic.com/willie-nelson-documentary-earns-emmy-nomination/)
-* [Oak Ridge Boys Honor Joe Bonsall...](https://classiccountrymusic.com/oak-ridge-boys-honor-joe-bonsall-in-heartwarming-faith-based-music-video/)
+* [George Strait Honors Waylon Jennings With...](https://classiccountrymusic.com/george-strait-honors-waylon-jennings-with-rendition-of-waymores-blues/)
+* [George Strait Releases His 31st Studio...](https://classiccountrymusic.com/george-strait-releases-his-31st-studio-album-cowboys-dreamers/)
+* [Luke Combs Joins Brooks & Dunn...](https://classiccountrymusic.com/luke-combs-joins-brooks-dunn-for-brand-new-man-at-2019-acms/)
 
 ![bluegrass](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
@@ -110,9 +108,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/bluegrass) [See All](https://classiccountrymusic.com/genre/bluegrass)
 
-* [Ricky Skaggs Honors Longtime Friend Vince...](https://classiccountrymusic.com/ricky-skaggs-honors-longtime-friend-vince-gill-by-singing-one-more-last-chance/)
-* [Alison Krauss Sings Angelic Version Of...](https://classiccountrymusic.com/alison-krauss-sings-amazing-grace-to-honor-memorial-day-during-pbs-2019-concert/)
-* [Lester Flatt & Earl Scruggs Bring...](https://classiccountrymusic.com/lester-flatt-earl-scruggs-bring-bluegrass-sound-with-the-ballad-of-jed-clampett/)
+* [Steve Martin & Kermit The Frog...](https://classiccountrymusic.com/steve-martin-kermit-the-frog-recreate-dueling-banjos-from-deliverance/)
+* [Rhonda Vincent, Trisha Yearwood, & Jeannie...](https://classiccountrymusic.com/rhonda-vincent-trisha-yearwood-jeannie-seely-give-margaritaville-a-bluegrass-twist/)
+* [Cody Johnson, Dolly Parton & Rhonda...](https://classiccountrymusic.com/cody-johnson-dolly-parton-rhonda-vincent-reimagine-take-me-home-country-roads/)
 
 ![Outlaw](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
@@ -122,9 +120,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/outlaw) [See All](https://classiccountrymusic.com/genre/outlaw)
 
-* [Meet Willie Nelson’s Loving Wife Of...](https://classiccountrymusic.com/meet-willie-nelsons-loving-wife-of-over-30-years-annie-dangelo/)
-* [George Strait Delivers Rollicking Tribute To...](https://classiccountrymusic.com/george-strait-delivers-rollicking-tribute-to-johnny-cash-with-folsom-prison-blues/)
-* [Willie Nelson & Ray Charles Perform...](https://classiccountrymusic.com/willie-nelson-ray-charles-perform-seven-spanish-angels-duet/)
+* [Willie Nelson Teams Up With Kacey...](https://classiccountrymusic.com/willie-nelson-teams-up-with-kacey-musgraves-for-2019-cma-awards-performance-of-rainbow-connection/)
+* [Willie Nelson Announces New Album Created...](https://classiccountrymusic.com/willie-nelson-announces-new-album-created-and-produced-with-son-micah/)
+* [Lainey Wilson Says A Classic Reba...](https://classiccountrymusic.com/lainey-wilson-says-a-classic-reba-hit-is-her-all-time-guilty-pleasure-song/)
 
 Terms of Use
 ============
@@ -242,5 +240,3 @@ Date Last Modified – 01 September 2017
 ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
 ![](https://classiccountrymusic.com/wp-content/themes/brm-music-premium-rock/assets/images/guitar-asset.png)
-
-![](https://www.facebook.com/tr?id=1642875949273548&ev=PageView&noscript=1)

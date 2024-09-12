@@ -1,10 +1,3 @@
-**Generate Your First Deal 🏠 Conquer Cold Calling in 3 Weeks!**
-----------------------------------------------------------------
-
-📱 Cold Calling Challenge! Free to Register!
-
-[Learn More](https://www.dealmachine.com/dialer-challenge?hsLang=en)
-
 ![DealMachine](https://www.dealmachine.com/hubfs/Pictures/DealMachineLogo.svg "DealMachine")
 
 ![DealMachine](https://www.dealmachine.com/hubfs/Pictures/DealMachineLogo.svg "DealMachine")

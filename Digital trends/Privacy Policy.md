@@ -12,6 +12,10 @@
 
 ![Right Arrow](https://cdn.prod.website-files.com/5f93336bff93911443e348a2/6050f62f73c0bb4441301e64_Path%202092.svg)
 
+[News](https://www.dtmg.co/press-room)
+
+![Right Arrow](https://cdn.prod.website-files.com/5f93336bff93911443e348a2/6050f62f73c0bb4441301e64_Path%202092.svg)
+
 [Work With Us](https://www.dtmg.co/work-with-us)
 
 ![Right Arrow](https://cdn.prod.website-files.com/5f93336bff93911443e348a2/6050f62f73c0bb4441301e64_Path%202092.svg)

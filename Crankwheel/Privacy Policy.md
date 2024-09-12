@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-Last updated: November 30th, 2021
+Last updated: August 1st, 2024
 
 CrankWheel ehf. (“us”, “we”, or “our”) operates the http://crankwheel.com/, http://syna.is/ and http://meeting.is/ websites (the “Service”).
 
@@ -20,6 +20,8 @@ While using our Service, we may ask you to provide us with certain personally id
 The CrankWheel web application, optionally assisted by a browser extension for Microsoft Edge, Google Chrome or other browsers, collects and transmits snapshots of your screen, application window, web-cam or browser tab, upon your request. These snapshots are never stored for longer than required to transmit them to your viewers, are not written to disk, and are transmitted only over encrypted communication channels.
 
 For users of the optional add-on features audit logging and content filter, the optional CrankWheel browser extension captures and transmits to our servers the URLs of web pages you screen share.
+
+The use of information received from Google APIs will adhere to the Chrome Web Store User Data Policy, including the Limited Use requirements.
 
 **Personal Information**
 

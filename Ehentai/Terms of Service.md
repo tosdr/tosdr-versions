@@ -1,6 +1,3 @@
-Help
-====
-
 Terms of Service
 
 We strive to uphold the ideals of freedom of speech on this website. However, to stay within the confines of applicable law, there are certain rules you must obey with content you upload to this site. What you can and cannot post is listed below. If what you wish to post is not listed, you can assume that this isn't the place to post it.
@@ -25,11 +22,13 @@ You may NOT:
   
 \- Post photographic material of real people that does not fit under the Cosplay category.  
   
-\- ANY KIND OF MATERIAL INVOLVING CHILDREN IS ABSOLUTELY PROHIBITED, EVEN IF THEY ARE NOT PORNOGRAPHIC OR RISQUE IN NATURE, AND EVEN IF THEY CONTAIN NO NUDITY NOR POSES WITH SEXUAL IMPLICATIONS. JUST A SINGLE VIOLATION OF THIS RULE WILL CAUSE YOUR ACCOUNT TO BE PERMANENTLY BANNED, AND IF THE MATERIAL IS ILLICIT, YOUR DETAILS TO BE HANDED OVER TO THE AUTHORITIES IN YOUR JURISDICTION.  
+\- ANY KIND OF MATERIAL INVOLVING ACTUAL CHILDREN IS ABSOLUTELY PROHIBITED, EVEN IF THEY ARE NOT PORNOGRAPHIC OR RISQUE IN NATURE, AND EVEN IF THEY CONTAIN NO NUDITY NOR POSES WITH SEXUAL IMPLICATIONS. JUST A SINGLE VIOLATION OF THIS RULE WILL CAUSE YOUR ACCOUNT TO BE PERMANENTLY BANNED, AND IF THE MATERIAL IS ILLICIT, YOUR DETAILS TO BE HANDED OVER TO THE AUTHORITIES IN YOUR JURISDICTION.  
   
-\- Computer-generated or "virtual" child pornography is just as prohibited as the real stuff. Uploading this type of images is a one-strike-and-you're-out infraction.
+\- Photorealistic computer-generated or "virtual" child pornography is just as prohibited as the real stuff. Uploading this type of images is a one-strike-and-you're-out infraction.
 
-If you violate the rules, you agree that we can submit your browsing history, uploading history, posting history, medical history, any and all IP addresses you have ever browsed or posted with, proxy traces, e-mail addresses, referring web sites, browser type, blood type, favorite stuffed animals, and any and all other personal information gathered in any way on any of the E-Hentai services, including but not limited to E-Hentai Classic, E-Hentai Galleries and the E-Hentai Forums, to anyone we damn well please. So be warned.
+If you violate the rules, you agree that we can submit your browsing history, uploading history, posting history, medical history, any and all IP addresses you have ever browsed or posted with, proxy traces, e-mail addresses, referring web sites, browser type, blood type, favorite stuffed animals, and any and all other personal information gathered in any way on any of the E-Hentai services, including but not limited to E-Hentai Galleries and the E-Hentai Forums, to anyone we damn well please. So be warned.
+
+By using this site, you acknowledge that all characters depicted are 1000 year old shapeshifting succubus demons, and that all acts are consensual.
 
 Posting Guidelines
 

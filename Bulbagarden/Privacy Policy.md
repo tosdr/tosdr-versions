@@ -387,7 +387,7 @@ Navigation menu
 * [Editor's Hub](https://bulbapedia.bulbagarden.net/wiki/Bulbapedia:Editor%27s_Hub)
 * [Help](https://bulbapedia.bulbagarden.net/wiki/Help:Contents "General editing help")
 * [Frequently asked questions](https://bulbapedia.bulbagarden.net/wiki/Bulbapedia:FAQ)
-* [Bulbawiki forum](https://forums.bulbagarden.net/index.php?forums/bulbawiki-forum.195/ "Discussion forum for the Bulbawiki network")
+* [Bulbawiki forum](https://bulbagarden.net/forums/bulbawiki-forum.195/ "Discussion forum for the Bulbawiki network")
 * [Recent changes](https://bulbapedia.bulbagarden.net/wiki/Special:RecentChanges "View recent changes to Bulbapedia. [r]")
 * [Random page](https://bulbapedia.bulbagarden.net/wiki/Special:Random "Load a random page [x]")
 
@@ -399,7 +399,7 @@ Navigation menu
 
 * [Bulbagarden home page](https://www.bulbagarden.net/)
 * [Bulbagarden Archives](https://archives.bulbagarden.net/wiki/Main_Page "Depository for media used by Bulbagarden's wikis")
-* [Bulbagarden Forums](https://forums.bulbagarden.net/index.php)
+* [Bulbagarden Forums](https://bulbagarden.net/forums/)
 * [Bulbagarden Discord server](https://discord.gg/bulbagarden)
 * [Twitch](https://www.twitch.tv/bulbagarden)
 * [YouTube](https://www.youtube.com/user/Bulbagarden)

@@ -1,5 +1,3 @@
-[Skip to main content](#main-content)
-
 We use cookies and other tools to enhance your experience on our website and to analyze our web traffic. For more information about these cookies and the data collected, please refer to our [**privacy policy.**](https://www.childrensal.org/childrens-alabama-online-privacy-policy)
 
 Close

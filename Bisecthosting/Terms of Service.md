@@ -1,4 +1,4 @@
-[![logo](/images/logo-dark-theme.svg?0b660e7978f5e193a95067f6258dcc5a)](https://www.bisecthosting.com/)
+[![logo](/images/logo-dark-theme.svg?17145a228e3317a14cbd15825f96e8c1)](https://www.bisecthosting.com/)
 
 * [MINECRAFT](https://www.bisecthosting.com/minecraft-servers)
 * [GAME SERVERS](https://www.bisecthosting.com/game-server-hosting)
@@ -31,8 +31,6 @@
 * [Server Features](https://www.bisecthosting.com/games-panel)
 
 . . .USD
-
-USDGBPEURCADAUDNZDSGD
 
 [Home](https://www.bisecthosting.com/)TOS
 
@@ -356,6 +354,7 @@ Company
 * [Careers](https://www.bisecthosting.com/careers)
 * [Blog](https://www.bisecthosting.com/blog)
 * [Gaming Scholarship](https://www.bisecthosting.com/gaming-scholarship)
+* [Sitemap](https://www.bisecthosting.com/sitemap)
 
 Services
 
@@ -397,8 +396,6 @@ Social
 Copyright 2024 © Venture Node LLC. All rights reserved.
 
 . . .USD
-
-USDGBPEURCADAUDNZDSGD
 
 * [MINECRAFT](https://www.bisecthosting.com/minecraft-servers)
 * [GAME SERVERS](https://www.bisecthosting.com/game-server-hosting)

@@ -51,17 +51,17 @@
 [##### Press](https://press.bunq.com/)
 
 Documents
----------
+=========
 
 All the legal mumbo-jumbo, presented in a way that won't put you to sleep.
 
 Documents
----------
+=========
 
 All the legal mumbo-jumbo, presented in a way that won't put you to sleep.
 
 Documents
----------
+=========
 
 All the legal mumbo-jumbo, presented in a way that won't put you to sleep.
 
@@ -107,6 +107,12 @@ All
 
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/cookies)
 
+[![](https://framerusercontent.com/images/R0LcO6NqpZTJjHILi6boqxmLw.svg)
+
+### Data Classification Policy
+
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/data-classification-policy)
+
 [![](https://framerusercontent.com/images/J4i5bKR08B4tTV2n6q0RO19A.svg)
 
 ### Depositor Information Sheet
@@ -130,12 +136,6 @@ All
 ### Recognizing Fraud Information Sheet
 
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/recognize-fraud)
-
-[![](https://framerusercontent.com/images/PlL8EXOrpUnCAigq8maiB7C4E.svg)
-
-### 2023 Annual Report
-
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/annual-report-2023)
 
 Load more
 
@@ -181,6 +181,12 @@ All
 
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/cookies)
 
+[![](https://framerusercontent.com/images/R0LcO6NqpZTJjHILi6boqxmLw.svg)
+
+### Data Classification Policy
+
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/data-classification-policy)
+
 [![](https://framerusercontent.com/images/J4i5bKR08B4tTV2n6q0RO19A.svg)
 
 ### Depositor Information Sheet
@@ -204,12 +210,6 @@ All
 ### Recognizing Fraud Information Sheet
 
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/recognize-fraud)
-
-[![](https://framerusercontent.com/images/PlL8EXOrpUnCAigq8maiB7C4E.svg)
-
-### 2023 Annual Report
-
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/annual-report-2023)
 
 Load more
 
@@ -255,6 +255,12 @@ All
 
 ### Cookie Statement](https://www.bunq.com/assets/media/legal/en/documents/cookies)
 
+[![](https://framerusercontent.com/images/R0LcO6NqpZTJjHILi6boqxmLw.svg)
+
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
+
+### Data Classification Policy](https://www.bunq.com/assets/media/legal/en/documents/data-classification-policy)
+
 [![](https://framerusercontent.com/images/J4i5bKR08B4tTV2n6q0RO19A.svg)
 
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
@@ -278,12 +284,6 @@ All
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
 
 ### Recognizing Fraud Information Sheet](https://www.bunq.com/assets/media/legal/en/documents/recognize-fraud)
-
-[![](https://framerusercontent.com/images/PlL8EXOrpUnCAigq8maiB7C4E.svg)
-
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
-
-### 2023 Annual Report](https://www.bunq.com/assets/media/legal/en/documents/annual-report-2023)
 
 Load more
 

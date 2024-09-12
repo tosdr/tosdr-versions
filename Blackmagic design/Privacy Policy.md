@@ -656,9 +656,9 @@ Blackmagic Design Pty Ltd
 
 * [Professional Cameras](https://www.blackmagicdesign.com/products#professional-cameras)
 * [DaVinci Resolve and Fusion Software](https://www.blackmagicdesign.com/products#davinci-resolve-and-fusion-software)
-* [ATEM Live Production Switchers](https://www.blackmagicdesign.com/products#atem-live-production-switchers)
+* [ATEM Production Switchers](https://www.blackmagicdesign.com/products#atem-live-production-switchers)
 * [Ultimatte](https://www.blackmagicdesign.com/products#ultimatte)
-* [Disk Recorders and Storage](https://www.blackmagicdesign.com/products#disk-recorders-and-storage)
+* [Disk Recorders and Storage](https://www.blackmagicdesign.com/products#disk-recorders-and-storage)
 * [Capture and Playback](https://www.blackmagicdesign.com/products#capture-and-playback)
 * [Cintel Scanner](https://www.blackmagicdesign.com/products#cintel-scanner)
 
@@ -770,9 +770,9 @@ Products ![Expand Icon](https://images.blackmagicdesign.com/images/common/footer
 
 * [Professional Cameras](https://www.blackmagicdesign.com/products#professional-cameras)
 * [DaVinci Resolve and Fusion Software](https://www.blackmagicdesign.com/products#davinci-resolve-and-fusion-software)
-* [ATEM Live Production Switchers](https://www.blackmagicdesign.com/products#atem-live-production-switchers)
+* [ATEM Production Switchers](https://www.blackmagicdesign.com/products#atem-live-production-switchers)
 * [Ultimatte](https://www.blackmagicdesign.com/products#ultimatte)
-* [Disk Recorders and Storage](https://www.blackmagicdesign.com/products#disk-recorders-and-storage)
+* [Disk Recorders and Storage](https://www.blackmagicdesign.com/products#disk-recorders-and-storage)
 * [Capture and Playback](https://www.blackmagicdesign.com/products#capture-and-playback)
 * [Cintel Scanner](https://www.blackmagicdesign.com/products#cintel-scanner)
 * [Standards Conversion](https://www.blackmagicdesign.com/products#standards-conversion)

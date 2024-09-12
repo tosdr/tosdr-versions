@@ -134,7 +134,7 @@ Effortlessly gather crucial company details and use them to supercharge your cus
 
 Engage visitors with ChatBot's quick responses and personalized greetings, fueled by your data.
 
-[Create your AI chatbot now](https://accounts.chatbot.com/signup?source_id=create-ai-bot-cta&source_type=website)
+[Create your AI chatbot now](https://accounts.livechat.com/signup?client_id=92418ea187dd3c572383cbf56f015b6c&response_type=token&redirect_uri=https%3A%2F%2Fapp.chatbot.com%2Fstories?&source_id=home-create-ai-bot&source_type=website&source_url=https%3a%2f%2fwww.chatbot.com%2f)
 
 Create customer service that sells
 ----------------------------------
@@ -310,7 +310,7 @@ Send links to help center articles or other educational content
 
 Transfer to live agents
 
-Hire ChatBot as Support Agent](https://accounts.chatbot.com/signup?source_id=support-cta&source_type=website)[![](/t-icon-marketing.d7b1c8db6aa4dbd0c30baea22d5da9ab75f7349e9867c5275dd5e0374634b441.svg)
+Hire ChatBot as Support Agent](https://accounts.livechat.com/signup?client_id=92418ea187dd3c572383cbf56f015b6c&response_type=token&redirect_uri=https%3A%2F%2Fapp.chatbot.com%2Fstories?source_id=support-cta&source_type=website)[![](/t-icon-marketing.d7b1c8db6aa4dbd0c30baea22d5da9ab75f7349e9867c5275dd5e0374634b441.svg)
 
 Marketing
 
@@ -330,7 +330,7 @@ Collect leads and pass them to email marketing lists
 
 Launch AI bots on landing pages to boost conversion
 
-Hire ChatBot as Marketer](https://accounts.chatbot.com/signup?source_id=marketing-cta&source_type=website)[![](/t-icon-sales.46dddb887bfa47f3d60b9af8f42342c84a73ef6c57ee4578a5ca0b6e13e96ec1.svg)
+Hire ChatBot as Marketer](https://accounts.livechat.com/signup?client_id=92418ea187dd3c572383cbf56f015b6c&response_type=token&redirect_uri=https%3A%2F%2Fapp.chatbot.com%2Fstories?source_id=marketing-cta&source_type=website)[![](/t-icon-sales.46dddb887bfa47f3d60b9af8f42342c84a73ef6c57ee4578a5ca0b6e13e96ec1.svg)
 
 Sales
 
@@ -354,7 +354,7 @@ Transfer qualified chats to sales representatives
 
 Schedule meetings
 
-Hire ChatBot as Sales Rep](https://accounts.chatbot.com/signup?source_id=sales-cta&source_type=website)
+Hire ChatBot as Sales Rep](https://accounts.livechat.com/signup?client_id=92418ea187dd3c572383cbf56f015b6c&response_type=token&redirect_uri=https%3A%2F%2Fapp.chatbot.com%2Fstories?source_id=sales-cta&source_type=website)
 
 Get more value from your favorite tools
 ---------------------------------------

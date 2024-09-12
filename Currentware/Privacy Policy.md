@@ -27,7 +27,7 @@
 * Solutions
     
     * [By Use Case](https://www.currentware.com/solutions/#use-case)
-        * [Computer Monitoring](https://www.currentware.com/solutions/computer-monitoring/)
+        * [Computer Activity Monitoring](https://www.currentware.com/solutions/computer-monitoring/)
         * [Data Loss Prevention](https://www.currentware.com/solutions/data-loss-prevention/)
         * [Employee Investigations](https://www.currentware.com/solutions/employee-investigation/)
         * [Employee Productivity](https://www.currentware.com/solutions/employee-productivity/)
@@ -47,8 +47,7 @@
         * [Small Business](https://www.currentware.com/industries/small-business-employee-productivity/)
 * Customers
     
-    * Our Customers
-        
+    * [Our Customers](https://www.currentware.com/customers/)
         * [Case Studies](https://www.currentware.com/customers/)
         * [Reviews & Awards](https://www.currentware.com/customers/#reviews)
     * Customer Success
@@ -106,7 +105,7 @@
 * Solutions
     
     * [By Use Case](https://www.currentware.com/solutions/#use-case)
-        * [Computer Monitoring](https://www.currentware.com/solutions/computer-monitoring/)
+        * [Computer Activity Monitoring](https://www.currentware.com/solutions/computer-monitoring/)
         * [Data Loss Prevention](https://www.currentware.com/solutions/data-loss-prevention/)
         * [Employee Investigations](https://www.currentware.com/solutions/employee-investigation/)
         * [Employee Productivity](https://www.currentware.com/solutions/employee-productivity/)
@@ -126,8 +125,7 @@
         * [Small Business](https://www.currentware.com/industries/small-business-employee-productivity/)
 * Customers
     
-    * Our Customers
-        
+    * [Our Customers](https://www.currentware.com/customers/)
         * [Case Studies](https://www.currentware.com/customers/)
         * [Reviews & Awards](https://www.currentware.com/customers/#reviews)
     * Customer Success
@@ -165,7 +163,7 @@ For policies about the use of CurrentWare’s software please see the [CurrentWa
 **Privacy Policy**
 ==================
 
-**Last modified:** February 13, 2023
+**Last modified:** 28 August 2024
 
 INTRODUCTION
 ------------
@@ -220,6 +218,8 @@ The information we collect directly from you on or through our Website may inclu
 
 **Information We Collect Through Cookies and Other Automatic Data Collection Technologies**  
 
+When you visit or log in to our website, cookies and similar technologies may be used by our online data partners or vendors to associate these activities with other personal information they or others have about you, including by association with your email or online profiles. We (or service providers on our behalf) may then send communications and marketing to these emails or profiles. You may opt out of receiving this advertising by visiting [https://warmly.ai/p/do-not-sell-share-my-data](https://warmly.ai/p/do-not-sell-share-my-data)
+
 We may use cookies or other automatic data collection technologies to collect certain information about your equipment, browsing actions, and patterns, including:
 
 * Details of your visits to our Website, including traffic data, location data, logs, and other communication data and the resources that you access and use on the Website.
@@ -237,7 +237,6 @@ The information we collect automatically is statistical information and may incl
 The technologies we use for this automatic data collection may include:
 
 * Cookies (or browser cookies). A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website. 
-* Flash Cookies. Certain features of our Website may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from, and on our Website. Flash cookies are not managed by the same browser settings that are used for browser cookies. For information about managing your privacy and security settings for Flash cookies, see [Choices About How We Use and Disclose Your Information](https://docs.google.com/document/d/1UPmt1DxOfgTFNfIO-NO8QyLtG3LMyXetKYWpEOgkjls/edit#bookmark=kix.725drgh6ebfi). 
 * Web Beacons. Pages of our Website may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages or and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity). 
 
 HOW WE USE YOUR INFORMATION
@@ -335,16 +334,21 @@ CONTACT INFORMATION AND CHALLENGING COMPLIANCE
 
 We welcome your questions, comments, and requests regarding this privacy policy and our privacy practices. Please contact us at: 
 
-[info@currentware.com](mailto:info@currentware.com)  
-[](mailto:info@currentware.com)CurrentWare Inc.  
-92 Wanita Road  
-Mississauga, ON  
-L5G 1B8  
+[info@currentware.com](mailto:info@currentware.com)
+
+[](mailto:info@currentware.com)CurrentWare Inc.
+
+92 Wanita Road
+
+Mississauga, ON
+
+L5G 1B8
+
 Canada
 
 We have procedures in place to receive and respond to complaints or inquiries about our handling of personal information, our compliance with this policy, and with applicable privacy laws. To discuss our compliance with this policy please contact us using the contact information listed above.
 
-![](data:image/gif;nitro-empty-id=NjQ0OjEwOQ==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)
+![](data:image/gif;nitro-empty-id=NjQ1OjEwOQ==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)
 
 CurrentWare's data loss prevention, productivity, and security software gives you advanced control and visibility over technology use in your organization
 
@@ -415,9 +419,9 @@ CurrentWare's data loss prevention, productivity, and security software gives yo
 
 [Terms of Service](https://www.currentware.com/terms-of-service/)
 
- [![](data:image/gif;nitro-empty-id=NzM0OjIzMw==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.facebook.com/CurrentWareInc/)[![](data:image/gif;nitro-empty-id=NzM1OjIzNw==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.linkedin.com/company/currentware)[![](data:image/gif;nitro-empty-id=NzM2OjIzMg==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.youtube.com/user/Currentware)[![](data:image/gif;nitro-empty-id=NzM3OjIyMw==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)](https://twitter.com/CurrentWare)
+ [![](data:image/gif;nitro-empty-id=NzM1OjIzMw==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.facebook.com/CurrentWareInc/)[![](data:image/gif;nitro-empty-id=NzM2OjIzNw==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.linkedin.com/company/currentware)[![](data:image/gif;nitro-empty-id=NzM3OjIzMg==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.youtube.com/user/Currentware)[![](data:image/gif;nitro-empty-id=NzM4OjIyMw==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)](https://twitter.com/CurrentWare)
 
-![CurrentWare Privacy Policy](data:image/svg+xml;nitro-empty-id=NzU0OjIzNA==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTI5IDEyOCIgd2lkdGg9IjEyOSIgaGVpZ2h0PSIxMjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
+![CurrentWare Privacy Policy](data:image/svg+xml;nitro-empty-id=NzU1OjIzNA==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTI5IDEyOCIgd2lkdGg9IjEyOSIgaGVpZ2h0PSIxMjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
 This website uses cookies to improve your user experience. By using our website, you consent to all cookies in accordance with our [Privacy Policy](https://www.currentware.com/privacy-policy/)
 

@@ -12,7 +12,7 @@ What is Cookiebot
 
 Regulations
 
-[DMA (EU)](https://www.cookiebot.com/en/digital-markets-act-dma/) [GDPR (EU)](https://www.cookiebot.com/en/gdpr/) [CCPA (California)](https://www.cookiebot.com/en/what-is-ccpa/) [LGPD (Brazil)](https://www.cookiebot.com/en/lgpd/) [VCDPA (Virginia)](https://www.cookiebot.com/en/virginia-vcdpa/) [TCF 2.2 (IAB)](https://www.cookiebot.com/en/tcf/) [Google Consent Mode (EU)](https://www.cookiebot.com/en/cookiebot-cmp-and-google-consent-mode/)
+[DMA (EU)](https://www.cookiebot.com/en/digital-markets-act-dma/) [GDPR (EU)](https://www.cookiebot.com/en/gdpr/) [CCPA (California)](https://www.cookiebot.com/en/what-is-ccpa/) [LGPD (Brazil)](https://www.cookiebot.com/en/lgpd/) [VCDPA (Virginia)](https://www.cookiebot.com/en/virginia-vcdpa/) [TCF 2.2 (IAB)](https://www.cookiebot.com/en/tcf/) [Google Consent Mode (EU)](https://www.cookiebot.com/en/cookiebot-cmp-google-consent-mode/)
 
 Partners
 
@@ -24,7 +24,7 @@ Resources
 
 [Pricing](https://www.cookiebot.com/en/pricing/)
 
-[![login.svg](https://www.cookiebot.com/en/wp-content/uploads/sites/7/2023/06/login.svg)Log In](https://www.cookiebot.com/en/cmp-login/)[Free Trial](https://admin.cookiebot.com/signup)
+[![login.svg](https://www.cookiebot.com/en/wp-content/uploads/sites/7/2023/06/login.svg)Log In](https://www.cookiebot.com/en/cmp-login/)[Start Free](https://admin.cookiebot.com/signup)
 
 Cookiebot™ Terms of Service
 ===========================
@@ -362,7 +362,7 @@ Sign Up
 
 By clicking on “Sign up” I confirm that I want to subscribe to the Usercentrics newsletter. I agree that my data may be used for any information related to the products and services offered by Cookiebot™. I can easily revoke this any time by clicking the unsubscribe link or by emailing Cookiebot™ at [\[email protected\]](https://www.cookiebot.com/cdn-cgi/l/email-protection). [See Privacy Policy](https://www.cookiebot.com/en/privacy-policy/)
 
-[Blog](https://www.cookiebot.com/en/blog/) [Cookie Declaration](https://www.cookiebot.com/en/cookie-declaration/) [Cookiebot Privacy Policy](https://www.cookiebot.com/en/privacy-policy/) [Data Processing Agreement](https://www.cookiebot.com/en/wp-content/uploads/sites/7/2024/06/DPA_06_2024.pdf) [Cookiebot™ Terms of Service](https://www.cookiebot.com/en/terms-of-service/)
+[Blog](https://www.cookiebot.com/en/blog/) [Cookie Declaration](https://www.cookiebot.com/en/cookie-declaration/) [Cookiebot Privacy Policy](https://www.cookiebot.com/en/privacy-policy/) [Data Processing Agreement](https://www.cookiebot.com/en/data-processing-agreement/) [Cookiebot™ Terms of Service](https://www.cookiebot.com/en/terms-of-service/)
 
 [Cookiebot Legal Notice](https://www.cookiebot.com/en/legal-notice/) [About](https://www.cookiebot.com/en/about/) [Resellers](https://www.cookiebot.com/en/resellers/) [Cookiebot Reseller Agreement](https://www.cookiebot.com/en/reseller-agreement/) [Sitemap](https://www.cookiebot.com/en/sitemap/)
 

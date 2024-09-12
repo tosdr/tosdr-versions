@@ -1,8 +1,8 @@
 [skip to content](#main)
 
-![](https://www.color.com/wp-content/uploads/2024/07/OpenAI.svg)
+![](https://www.color.com/wp-content/uploads/2024/08/Scientific-American-Logo.svg)
 
-Color is designing new AI use cases to equip providers with specialized cancer knowledge that helps inform care plans and reduce time to treatment. [Read More](https://www.color.com/blog/colors-copilot-and-partnership-with-openai)
+It's time to shatter the "too young to get screened for cancer" myth. [Read](https://www.scientificamerican.com/article/cancer-rates-are-rising-in-young-people-heres-what-you-need-to-know/) Color CEO Othman Laraki and American Cancer Society CEO Dr. Karen Knudsen’s vision for addressing the surge in cancer among Millennials and Gen Xers.
 
  [![](https://www.color.com/wp-content/uploads/2024/04/Color-Wordmark-Logo-Registered.svg)](https://www.color.com/) Toggle Main Navigation Expanded Collapsed
 
@@ -40,7 +40,7 @@ Color is designing new AI use cases to equip providers with specialized cancer k
 **Color Health Terms of Service**
 =================================
 
-### **Last Updated: October 1, 2023**
+### **Last Updated: August 12, 2024**
 
 This content is also available in: [العربية](https://www.color.com/ar/policies/tos) [繁體中文](https://www.color.com/zh-hant/policies/tos) [Filipino](https://www.color.com/fil/policies/tos) [한국어](https://www.color.com/ko/policies/tos) [Русский](https://www.color.com/ru/policies/tos) [Español](https://www.color.com/es/policies/tos) [Tiếng Việt](https://www.color.com/vi/policies/tos) [简体中文](https://www.color.com/zh-hans/policies/%e6%9c%8d%e5%8a%a1%e6%9d%a1%e6%ac%be)
 
@@ -134,7 +134,7 @@ Color does not market to or intend for minors below thirteen (13) years of age t
 
 **15.**           **Rights and Terms for Apps.** If you comply with these Terms, Color grants to you a limited non-exclusive, non-transferable license, with no right to sublicense, to access and where applicable, download and install the App on your personal devices and to access the Site and run the App solely for your own personal non-commercial purposes (unless you are a commercial customer, in which case Color grants you the right to use the Site or App according to the terms of your applicable commercial agreement with Color). Except as expressly permitted in these Terms, you may not: (i) copy, modify or create derivative works based on the App; (ii) distribute, transfer, sublicense, lease, lend or rent the Site or App (iii) reverse engineer, decompile or disassemble the Site or App ; or (iv) make the functionality of the Site or App available to multiple users through any means.
 
-**16.           Service Emails, Text Messages, and Calls**. If you provide your email address or cellular phone number to Color (either online or via text message) you hereby authorize Color, and its service providers, to communicate with you via email, phone call, and/or SMS/text message at the email or number provided, including through auto-dialed, auto-generated and/or pre-recorded messages. You understand that such messages may include, without limitation, authentication codes for purposes of verifying your ownership of your mobile device and/or reminders about upcoming appointments. You may opt out of receiving phone calls, and/or texts by responding STOP or emailing support@color.com. However, such opt-out may impact your access to the Services. You further acknowledge and agree that communications sent via unencrypted email or via text messages over an open network are inherently not secure, and there is no assurance of confidentiality of information communicated in this manner.
+**16.           Service Emails, Text Messages, and Calls**. If you provide your email address or cellular phone number to Color (either online or via text message) you hereby authorize Color, and its service providers, to communicate with you via email, phone call, and/or SMS/text message at the email or number provided, including through auto-dialed, auto-generated and/or pre-recorded messages in order to facilitate communication regarding your treatment and to provide you with timely health and care management information. You understand that such messages may include, without limitation, authentication codes for purposes of verifying your ownership of your mobile device and/or reminders about upcoming appointments. You understand that messages may include health information such as follow ups about screenings, treatments, appointments, referrals, care preferences, risk and adherence information, insurance information and collecting necessary health information to coordinate care.  You may opt out of receiving phone calls, and/or texts by adjusting notification preferences in your Color account settings, responding STOP or emailing [support@color.com](mailto:support@color.com "mailto:support@color.com"). However, such opt-out may impact your access to the Services. You further acknowledge and agree that communications sent via unencrypted email or via text messages over an open network are inherently not secure, and there is no assurance of confidentiality of information communicated in this manner.
 
 **17.**           **General Prohibitions**. You agree not to do any of the following:
 

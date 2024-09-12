@@ -22,7 +22,7 @@
     * [Enterprise](https://www.crazyegg.com/enterprise)
     
 * Request Enterprise Demo
-* [Log In](https://auth.app.crazyegg.com/v2/login) 
+* [Log In](https://auth.app.crazyegg.com/login) 
 
 Close modal
 
@@ -30,24 +30,6 @@ Close modal
 
 ### Request a personalized  
 demo of Crazy Egg
-
- email subject 
-
-Your name\*  Company name\* 
-
-Your work email\*  Website URL\* 
-
-Average pageviews per month Select pageviewsLess than 75,00075,001 - 150,000150,001 - 500,000500,001 - 1,000,0001,000,000+ What brings you to Crazy Egg?
-
-Send
-
-![Crazy Egg will be in touch with you shortly](https://w3-assets.crazyeggcdn.com/images/svg/illustration-enterprise-modal-success-690e41bbf02cb8ecbd8ebcfdbdeaf795.svg?vsn=d)
-
-#### Thanks for your request!
-
-We’ll be in touch shortly.
-
-A team member will get back to you soon.
 
 Terms and Policies
 ==================
@@ -78,7 +60,7 @@ Close menu
     * [Shopify](https://www.crazyegg.com/shopify)
     * [Enterprise](https://www.crazyegg.com/enterprise)
 * Request Enterprise Demo
-* [Log In](https://auth.app.crazyegg.com/v2/login)
+* [Log In](https://auth.app.crazyegg.com/login)
 
 * [Terms of Use](https://www.crazyegg.com/terms)
 * [Privacy Policy](https://www.crazyegg.com/privacy)

@@ -139,6 +139,7 @@ About Dental Fear Central
 
 * [\[email protected\]](https://www.dentalfearcentral.org/cdn-cgi/l/email-protection)
 * [](https://www.facebook.com/dentalfearcentral "Facebook")
+* [](https://vimeo.com/channels/1920626 "Vimeo")
 
 © 2004-2024 [Dental Fear Central](https://www.dentalfearcentral.org/about-us/), Suite 223, 266 Banbury Road, Oxford, OX2 7DL, United Kingdom.
 

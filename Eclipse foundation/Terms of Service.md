@@ -93,14 +93,14 @@
         
         * [About the Eclipse Foundation](https://www.eclipse.org/org/)
         * [Board & Governance](https://www.eclipse.org/org/governance)
-        * [Staff](https://www.eclipse.org/org/foundation/staff.php)
+        * [Staff](https://www.eclipse.org/org/foundation/staff/)
         * [Services](https://www.eclipse.org/org/services)
         
     * Legal
         
         * [Legal Policies](https://www.eclipse.org/legal/)
-        * [Privacy Policy](https://www.eclipse.org/legal/privacy.php)
-        * [Terms of Use](https://www.eclipse.org/legal/termsofuse.php)
+        * [Privacy Policy](https://www.eclipse.org/legal/privacy/)
+        * [Terms of Use](https://www.eclipse.org/legal/terms-of-use/)
         * [Compliance](https://www.eclipse.org/legal/compliance)
         * [Eclipse Public License](https://www.eclipse.org/legal/epl-2.0/)
         
@@ -198,14 +198,14 @@ About
 
 * [About the Eclipse Foundation](https://www.eclipse.org/org/)
 * [Board & Governance](https://www.eclipse.org/org/governance)
-* [Staff](https://www.eclipse.org/org/foundation/staff.php)
+* [Staff](https://www.eclipse.org/org/foundation/staff/)
 * [Services](https://www.eclipse.org/org/services)
 
 Legal
 
 * [Legal Policies](https://www.eclipse.org/legal/)
-* [Privacy Policy](https://www.eclipse.org/legal/privacy.php)
-* [Terms of Use](https://www.eclipse.org/legal/termsofuse.php)
+* [Privacy Policy](https://www.eclipse.org/legal/privacy/)
+* [Terms of Use](https://www.eclipse.org/legal/terms-of-use/)
 * [Compliance](https://www.eclipse.org/legal/compliance)
 * [Eclipse Public License](https://www.eclipse.org/legal/epl-2.0/)
 
@@ -338,6 +338,13 @@ The Eclipse Foundation and the Members reserve the right to seek all remedies av
 
 [Back to the top](#)
 
+Follow Us:
+
+* [Twitter account](https://twitter.com/EclipseFdn "Twitter account")
+* [Facebook account](https://www.facebook.com/eclipse.org "Facebook account")
+* [Youtube account](https://www.youtube.com/user/EclipseFdn "Youtube account")
+* [Linkedin account](https://www.linkedin.com/company/eclipse-foundation "Linkedin account")
+
 Eclipse Foundation
 
 * [About](https://www.eclipse.org/org/)
@@ -348,8 +355,8 @@ Eclipse Foundation
 
 Legal
 
-* [Privacy Policy](https://www.eclipse.org/legal/privacy.php)
-* [Terms of Use](https://www.eclipse.org/legal/termsofuse.php)
+* [Privacy Policy](https://www.eclipse.org/legal/privacy/)
+* [Terms of Use](https://www.eclipse.org/legal/terms-of-use/)
 * [Compliance](https://www.eclipse.org/legal/compliance/)
 * [Code of Conduct](https://www.eclipse.org/org/documents/Community_Code_of_Conduct.php)
 * [Legal Resources](https://www.eclipse.org/legal/)
@@ -361,13 +368,6 @@ More
 * [Service Status](https://status.eclipse.org/)
 * [Contact Us](https://www.eclipse.org/org/foundation/contact.php)
 * [Support](https://www.eclipse.org/projects/support/)
-
-Follow Us:
-
-* [Twitter account](https://twitter.com/EclipseFdn "Twitter account")
-* [Facebook account](https://www.facebook.com/eclipse.org "Facebook account")
-* [Youtube account](https://www.youtube.com/user/EclipseFdn "Youtube account")
-* [Linkedin account](https://www.linkedin.com/company/eclipse-foundation "Linkedin account")
 
 Subscribe to our Newsletter
 

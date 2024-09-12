@@ -9,20 +9,17 @@ Here are the [instructions how to enable JavaScript in your web browser](https:/
     -----------
     
     * I am a shareholder
-        * [Shortcut to most common transactions](http://cshare.us/irhx)
+        * [Shortcut to most common transactions](https://www-us.computershare.com/QuickAccessHub)
         * [Log in to Investor Center](https://www-us.computershare.com/Investor)
         * [Transfer my stock](https://www-us.computershare.com/TransferWizard/default.aspx)
-        * [Make a stock purchase](https://www-us.computershare.com/Investor/DirectStock)
+        * [Make a stock purchase](https://www-us.computershare.com/Investor/DirectStock/Index)
         * [Access your tax forms](https://www-us.computershare.com/SMS/#Statements/Statements)
-        * [Help for shareholders](http://cshare.us/irhx)
+        * [Help for shareholders](https://www-us.computershare.com/Investor/#Help/Index)
         * [Fraud prevention tips](https://www.computershare.com/us/anti-fraud)
         * [Contact us](https://www.computershare.com/us/investor-inquiries)
     * I own shares in the company I work for
         * [Log in to Employee Online](https://www-us.computershare.com/employee/login/selectcompany.aspx?cc=us&amp;amp;lang=en&amp;amp;bhjs=1&amp;amp;fla=1&amp;amp;theme=cpu)
         * [Contact us](https://www-us.computershare.com/Employee/ContactUs/Default.aspx)
-    * I am an Israel Bonds bondholder
-        * [Log in to Israel Bonds Direct](https://www-us.computershare.com/BondCentre/public/login.aspx)
-        * [Contact us](https://www-us.computershare.com/BondCentre/Public/ContactUs.aspx)
     * I am a financial advisor/broker or custodian
         * [Log-in to Alternative Investment Portal](https://www-us.computershare.com/AdvisorPortal/Login)
     * Careers
@@ -79,7 +76,7 @@ Here are the [instructions how to enable JavaScript in your web browser](https:/
 Login
 
 * Individuals
-    * [### Investor Center](https://www-us.computershare.com/Investor/)
+    * [### Investor Center](https://www-us.computershare.com/Investor)
     * [### Employee Online](https://www-us.computershare.com/employee/login/selectcompany.aspx?cc=us&lang=en&bhjs=1&fla=1&theme=cpu)
     * [### Israel Bonds Direct](https://www-us.computershare.com/BondCentre/public/login.aspx)
     * [### Alternative Investment Portal](https://www-us.computershare.com/AdvisorPortal/Login)
@@ -130,7 +127,7 @@ Please note: this will take you to one of our external sites
     
     * [### Investor Center
         
-        Manage your share portfolio, update your details, access tax forms, view balances and more](https://www-us.computershare.com/Investor/)
+        Manage your share portfolio, update your details, access tax forms, view balances and more](https://www-us.computershare.com/Investor)
     * [### Employee Online
         
         Manage your employee portfolio, access tools and support features](https://www-us.computershare.com/employee/login/selectcompany.aspx?cc=us&lang=en&bhjs=1&fla=1&theme=cpu)

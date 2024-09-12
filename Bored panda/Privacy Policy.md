@@ -150,6 +150,7 @@ Agree
 * [Environment](https://www.boredpanda.com/environment/)
 * [Facts](https://www.boredpanda.com/facts/)
 * [Reviews](https://www.boredpanda.com/reviews/)
+* [Games](https://www.boredpanda.com/games/)
 * [Contact](https://www.boredpanda.com/contact/)
 * [About Us](https://www.boredpanda.com/about-us/)
 * [Jobs](https://jobs.boredpanda.com/)
@@ -188,9 +189,10 @@ Agree
     * [Environment](https://www.boredpanda.com/environment/)
     * [Facts](https://www.boredpanda.com/facts/)
     * [Reviews](https://www.boredpanda.com/reviews/)
+    * [Games](https://www.boredpanda.com/games/)
     
-
-[](https://www.boredpanda.com/)
+* [](https://www.boredpanda.com/)
+    
 
 * [Funny](https://www.boredpanda.com/funny/)
 * [Art](https://www.boredpanda.com/art/)
@@ -221,8 +223,6 @@ Agree
 * [Reviews](https://www.boredpanda.com/reviews/)
 
 * [](javascript:void(0);)
-    
-    [](javascript:void(0))
     
 * [](javascript:void(0);)
     
@@ -258,6 +258,28 @@ For Bored Panda Members Only, Join Our Weekly Newsletter
 
 Continue
 
+×
+
+![](https://storage.mlcdn.com/account_image/921775/5LrSndsFV6wmJOEudf2ye5flKRmH7hLIntvH7ZBg.png)
+
+**Join the Fun!**
+=================
+
+Join 1.2 million Panda readers who get the best art, memes, and fun stories every week!
+
+ Sign Up »
+
+Loading...
+
+**P.S. It's 100% free, unsubscribe anytime.**  
+
+×
+
+**Thank you!**
+==============
+
+You're on the list! Expect to receive your first email very soon!
+
 Bored Panda is Even Better on the App!
 
 Stay Updated with Real-Time Notifications
@@ -266,9 +288,7 @@ Instant Access via Homescreen Tap
 
 Simple Interface - Even Your Cat Can Use It!
 
-[App Store](https://borepanda.sng.link/Dril9/qwoi/upms) [App Store](https://borepanda.sng.link/Bril9/cwkg/p628)
-
-[Get it now](https://borepanda.sng.link/Bril9/2zx2/9g6j) [Skip to the website](javascript:void(0))
+[Get it now](https://play.google.com/store/apps/details?id=com.boredpanda.android&referrer=utm_source%3Dfacebook%26utm_medium%3Dcrosspromo%26utm_content%3Dbutton%26utm_campaign%3Dweb_to_app_utm) [Skip to the website](javascript:void(0))
 
 Privacy Policy
 ==============

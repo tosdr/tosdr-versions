@@ -162,16 +162,26 @@ United States (USD $)
 * [YouTube](https://www.youtube.com/channel/UCb3qBl6yySVqSVD9HxiMtyQ)
 
 * Free shipping over $100 📦
+* NEWLY ADDED [DEALS](https://www.bosu.com/collections/deals "Deals")
 * Free shipping over $100 📦
+* NEWLY ADDED [DEALS](https://www.bosu.com/collections/deals "Deals")
 * Free shipping over $100 📦
+* NEWLY ADDED [DEALS](https://www.bosu.com/collections/deals "Deals")
 * Free shipping over $100 📦
+* NEWLY ADDED [DEALS](https://www.bosu.com/collections/deals "Deals")
 * Free shipping over $100 📦
+* NEWLY ADDED [DEALS](https://www.bosu.com/collections/deals "Deals")
 
 * Free shipping over $100 📦
+* NEWLY ADDED [DEALS](https://www.bosu.com/collections/deals "Deals")
 * Free shipping over $100 📦
+* NEWLY ADDED [DEALS](https://www.bosu.com/collections/deals "Deals")
 * Free shipping over $100 📦
+* NEWLY ADDED [DEALS](https://www.bosu.com/collections/deals "Deals")
 * Free shipping over $100 📦
+* NEWLY ADDED [DEALS](https://www.bosu.com/collections/deals "Deals")
 * Free shipping over $100 📦
+* NEWLY ADDED [DEALS](https://www.bosu.com/collections/deals "Deals")
 
 Privacy policy
 ==============

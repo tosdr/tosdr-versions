@@ -1,7 +1,7 @@
 * [0Shopping Cart](https://antisemitism.org/basket/)
     
 
-[![Campaign Against Antisemitism](https://antisemitism.org/wp-content/uploads/2014/11/Logo-300x296.png)](https://antisemitism.org/)
+[![Campaign Against Antisemitism](https://antisemitism.org/wp-content/uploads/2024/09/CAA-Logo-RGB.png "CAA-Logo-RGB")](https://antisemitism.org/ "CAA-Logo-RGB")
 
 * [X](https://twitter.com/antisemitism "X")
 * [Tiktok](https://www.tiktok.com/@antisemitism "Tiktok")

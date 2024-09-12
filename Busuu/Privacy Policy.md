@@ -149,7 +149,17 @@ Where the Site, or any other part of the Service, links to other websites, such 
 
 **A. Video Recording.** You acknowledge and agree that Busuu may record videos of your lessons. This recording is intended solely for the purpose of ensuring the quality of lessons and tutoring. Recordings will not be shared externally, used for individual targeting, or used for any sales, marketing, or other promotional purposes. By using Busuu services, you agree and give consent for such recordings that is gratuitous, unsolicited, and without restriction. You agree that Busuu may use these recordings without fiduciary, or other obligation, and without any additional compensation. You may request to remove any existing recordings by writing to [privacy@busuu.com](mailto:privacy@busuu.com).
 
-**B. Audio-Only Pronunciation Assistance Recording.** If you elect to use the speaking lessons with pronunciation feedback feature, which is an AI-powered service, your voice will be recorded, retained, and used to provide you with the service you requested and improve our services, including to train the AI and similar technologies that power it. It will not be used to uniquely identify you.  
+**B. Audio-Only AI Pronunciation Assistance Recordings (“Speaking Practice”)**
+
+_The Speaking Practice feature allows you to practice speaking and receive AI-generated feedback on how to improve your pronunciation._
+
+If you choose to use this feature (which is an AI-powered service), your voice will be recorded, retained, and used to provide you with the service you requested (to provide you with feedback on your pronunciation) and to improve our services. Some portions of this feature are powered by Azure AI Speech services and other service providers. We may also process such audio information to troubleshoot and improve the service by training our machine learning models with support from expert human reviewers. Such audio information will not be used to uniquely identify you.
+
+**C. Audio-Only AI Conversation Recordings (“Busuu Conversations”)**
+
+_The Busuu Conversations feature allow you to have a conversational, spoken interaction with an AI-powered language partner specific to topics you are learning._
+
+If you choose to use this feature (which is an AI-powered service), your voice will be recorded, retained, and used to provide you with the service you requested (to facilitate interactive roleplay scenarios for your language learning) and to improve our services. Some portions of this feature are powered by OpenAI and other service providers. We may also process such audio information to troubleshoot and improve the service by training our machine learning models with support from expert human reviewers. Such audio information will not be used to uniquely identify you.  
   
   
 
@@ -232,4 +242,4 @@ Busuu is the trading name of Busuu Limited with registered address at Broadwalk 
 
 You may obtain a copy of the personal data held about you that you provide through the Site or otherwise request that Busuu updates, makes changes or deletes personal information by sending an email to [privacy@busuu.com](mailto:privacy@busuu.com). If you have any questions or suggestions regarding our Privacy Policy, you can contact Busuu by email at [privacy@busuu.com](mailto:privacy@busuu.com).  
   
-Last updated: April 2024
+Last updated: August 2024

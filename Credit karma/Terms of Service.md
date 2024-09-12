@@ -19,6 +19,7 @@ About Credit Karma
 * [Privacy Policy](https://www.intuit.com/privacy/statement/)
 * [Terms of Service](https://www.creditkarma.com/about/terms)
 * [Purchase Order Terms & Conditions](https://www.creditkarma.com/about/purchaseorderterms)
+* [Supplier Programs](https://www.creditkarma.com/about/supplierprograms)
 * [User Content Rules](https://www.creditkarma.com/about/rules)
 * [Credit Builder](https://www.creditkarma.com/about/credit-builder)
 * [Check Your Rate Platform Terms for Loans](https://www.creditkarma.com/about/checkyourrate-platform-authorization)
@@ -198,6 +199,7 @@ Scan the QR code to download the app
     * [In The News](https://www.creditkarma.com/about/press)
     * [Engineering Blog](https://engineering.creditkarma.com/)
     * [Product Blog](https://product.creditkarma.com/)
+    * [Supplier Programs](https://www.creditkarma.com/about/supplierprograms)
 * Help
     * [Help Center](https://support.creditkarma.com/s/?sessid=0474765d-7880-436e-aeb1-8a67fec8c56d)
     * [How Credit Karma Works?](https://www.creditkarma.com/faq/howitworks)

@@ -94,8 +94,6 @@ Auto
 
 Home
 
-* [SunPower Reviews](https://www.consumeraffairs.com/solar-energy/sunpower.html)
-    
 * [Sunrun Reviews](https://www.consumeraffairs.com/solar-energy/sunrun.html)
     
 * [American Home Shield Reviews](https://www.consumeraffairs.com/insurance/am_home.html)
@@ -241,8 +239,6 @@ Auto
 
 Home
 
-* [SunPower Reviews](https://www.consumeraffairs.com/solar-energy/sunpower.html)
-    
 * [Sunrun Reviews](https://www.consumeraffairs.com/solar-energy/sunrun.html)
     
 * [American Home Shield Reviews](https://www.consumeraffairs.com/insurance/am_home.html)
@@ -480,7 +476,7 @@ We may change this policy from time to time and will disclose that we have a rev
 
 [About Us](https://www.consumeraffairs.com/about/)[Careers](https://www.consumeraffairs.com/careers/)[Terms of Use](https://www.consumeraffairs.com/about/terms_of_use/)[Privacy Policy](https://www.consumeraffairs.com/about/privacy_policy/)[Licensing](https://www.consumeraffairs.com/legal/licenses-and-disclosures/)[CA Privacy Notice](https://www.consumeraffairs.com/about/privacy_policy/#california-consumers)
 
-**Follow Us:**[](https://www.facebook.com/ConsumerAffairs)[](https://instagram.com/consumeraffairs/)[](https://www.tiktok.com/@consumeraffairstiktok/)[](https://twitter.com/consumeraffairs)[](https://www.linkedin.com/company/1388840/)
+**Follow Us:**[](https://www.facebook.com/ConsumerAffairs)[](https://instagram.com/consumeraffairs/)[](https://www.tiktok.com/@consumeraffairstiktok/)[](https://x.com/consumeraffairs)[](https://www.linkedin.com/company/1388840/)
 
 * * *
 

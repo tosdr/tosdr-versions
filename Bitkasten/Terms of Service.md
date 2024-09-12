@@ -2,7 +2,7 @@
 
 [![bitkasten Logo](https://www.bitkasten.de/wp-content/uploads/2021/10/bitkasten-Logo-200x30.png)](https://www.bitkasten.de/)
 
-* [bitkasten](https://www.bitkasten.de/dein-digitaler-briefkasten/) Menü umschalten
+* [bitkasten](https://www.bitkasten.de/) Menü umschalten
     * [Produkt Sub](#)
         
         [](https://www.bitkasten.de/bitkasten/)
@@ -260,11 +260,15 @@ Akzeptierst du die Änderungen nicht, kannst du den Vertrag zum angekündigten �
 
 Aktuelle Informationen erhalten Sie in unserem monatlichen Newsletter oder in einem individuellen Gespräch.
 
+Sie möchten mehr über Ihre Vorteile als Versender erfahren? Buchen Sie ein unverbindliches Gespräch mit unserem Team.
+
 [Newsletter abonnieren](https://www.bitkasten.de/newsletter-abonnieren/)
 
 [Gesprächstermin vereinbaren](https://www.bitkasten.de/kontakt/)
 
 [Newsletter abonnieren](https://www.bitkasten.de/newsletter-abonnieren/)
+
+[Gesprächstermin vereinbaren](https://www.bitkasten.de/kontakt/)
 
 bitkasten – Mehr Einfachheit im Leben
 
@@ -272,7 +276,7 @@ Mit dem bitkasten machen wir es Unternehmen einfach, die aktuellen Prozesse auf 
 
 Made with ❤ in Germany
 
-[Instagram](https://www.instagram.com/bitkasten/) [Facebook](https://www.facebook.com/bitkasten) [Youtube](https://youtube.com/@bitkasten) [](https://twitter.com/bitkasten)[Xing](https://www.xing.com/pages/bitkasten-ag) [Linkedin](https://www.linkedin.com/company/bitkasten/)
+[Linkedin](https://www.linkedin.com/company/bitkasten/) [Youtube](https://youtube.com/@bitkasten)
 
 bitkasten GmbH
 

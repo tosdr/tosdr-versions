@@ -153,11 +153,11 @@ Main Navigation
         
         Best practices and the latest learning for social good professionals](https://blog.blackbaud.com/)
     
-    ![](https://www.blackbaud.com/wp-content/uploads/2024/06/bbcon2024-sessions-resources-megamenu-275X135.png)
+    ![](https://www.blackbaud.com/wp-content/uploads/2024/08/EOY_Toolkit_275X135_MegaMenu.png)
     
-    bbcon 2024 | Sept. 24–26
+    End-of-year Fundraising | Toolkit​
     
-    [Our lineup of 150+ bbcon sessions is live! Explore Sessions.](https://www.bbconference.com/2024/sessions?ICID=bbwebsite-mega-menu-tile-bbcon2024-sessions)
+    [Get your roadmap to end-of-year fundraising success!​](https://www.blackbaud.com/industry-insights/resources/end-of-year-fundraising-toolkit?ICID=bbwebsite-mega-menu-tile-cbr-eoytoolkit-tl-24-us)
     
     * * *
     

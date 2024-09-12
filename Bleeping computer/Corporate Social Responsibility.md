@@ -23,37 +23,40 @@
     * [Featured](#nfeatured)
     * [Latest](#nlatest)
     
-    * [![July Windows Server updates break Remote Desktop connections](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Microsoft Office 2024 to disable ActiveX controls by default](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        July Windows Server updates break Remote Desktop connections](https://www.bleepingcomputer.com/news/microsoft/july-windows-server-updates-break-remote-desktop-connections/)
-    * [![Windows 11 taskbar has a hidden ](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Microsoft Office 2024 to disable ActiveX controls by default](https://www.bleepingcomputer.com/news/microsoft/microsoft-office-2024-to-disable-activex-controls-by-default/)
+    * [![Sextortion scams now use your ](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Windows 11 taskbar has a hidden "End Task" feature, how to turn it on](https://www.bleepingcomputer.com/news/microsoft/windows-11-taskbar-has-a-hidden-end-task-feature-how-to-turn-it-on/)
-    * [![WhatsApp for Windows lets Python, PHP scripts execute with no warning](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Sextortion scams now use your "cheating" spouse’s name as a lure](https://www.bleepingcomputer.com/news/security/sextortion-scams-now-use-your-cheating-spouses-name-as-a-lure/)
+    * [![Critical SonicWall SSLVPN bug exploited in ransomware attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        WhatsApp for Windows lets Python, PHP scripts execute with no warning](https://www.bleepingcomputer.com/news/security/whatsapp-for-windows-lets-python-php-scripts-execute-with-no-warning/)
-    * [![X begins training Grok AI with your posts, here's how to disable](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Critical SonicWall SSLVPN bug exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/critical-sonicwall-sslvpn-bug-exploited-in-ransomware-attacks/)
+    * [![Meta fixes easily bypassed WhatsApp ‘View Once’ privacy feature](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        X begins training Grok AI with your posts, here's how to disable](https://www.bleepingcomputer.com/news/security/x-begins-training-grok-ai-with-your-posts-heres-how-to-disable/)
+        Meta fixes easily bypassed WhatsApp ‘View Once’ privacy feature](https://www.bleepingcomputer.com/news/security/meta-fixes-easily-bypassed-whatsapp-view-once-privacy-feature/)
     
-    * [![Start studying data analysis in this $35 course bundle deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Wix.com to block Russian users starting September 12](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Start studying data analysis in this $35 course bundle deal](https://www.bleepingcomputer.com/offer/deals/start-studying-data-analysis-in-this-35-course-bundle-deal/)
-    * [![Misconfigured Selenium Grid servers abused for Monero mining](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Wix.com to block Russian users starting September 12](https://www.bleepingcomputer.com/news/legal/wixcom-to-block-russian-users-starting-september-12/)
+    * [![Microsoft to start force-upgrading Windows 22H2 systems next month](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Misconfigured Selenium Grid servers abused for Monero mining](https://www.bleepingcomputer.com/news/security/misconfigured-selenium-grid-servers-abused-for-monero-mining/)
-    * [![Get a Costco Gold Star Membership plus a $40 Shop Card for $60](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Microsoft to start force-upgrading Windows 22H2 systems next month](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-start-force-upgrading-windows-22h2-systems-next-month/)
+    * [![Navigating Endpoint Privilege Management: Insights for CISOs and Admins   ](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Get a Costco Gold Star Membership plus a $40 Shop Card for $60](https://www.bleepingcomputer.com/offer/deals/get-a-costco-gold-star-membership-plus-a-40-shop-card-for-60/)
-    * [![Windows 11 taskbar has a hidden ](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Navigating Endpoint Privilege Management: Insights for CISOs and Admins](https://www.bleepingcomputer.com/news/security/navigating-endpoint-privilege-management-insights-for-cisos-and-admins/)
+    * [![Flipper Zero releases Firmware 1.0 after three years of development](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Windows 11 taskbar has a hidden "End Task" feature, how to turn it on](https://www.bleepingcomputer.com/news/microsoft/windows-11-taskbar-has-a-hidden-end-task-feature-how-to-turn-it-on/)
+        Flipper Zero releases Firmware 1.0 after three years of development](https://www.bleepingcomputer.com/news/hardware/flipper-zero-releases-firmware-10-after-three-years-of-development/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
     * [Latest](#tlatest)
     * [Popular](#popular)
     
+    * [![How to access the Dark Web using the Tor Browser](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
     * [![How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
@@ -63,9 +66,6 @@
     * [![How to backup and restore the Windows Registry](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         How to backup and restore the Windows Registry](https://www.bleepingcomputer.com/tutorials/how-to-backup-and-restore-the-windows-registry/)
-    * [![How to open a Windows 11 Command Prompt as Administrator](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        How to open a Windows 11 Command Prompt as Administrator](https://www.bleepingcomputer.com/tutorials/how-to-open-a-windows-11-command-prompt-as-administrator/)
     
     * [![How to start Windows in Safe Mode](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
@@ -302,19 +302,27 @@ BleepingComputer.com has partnered with [StackCommerce](https://stackcommerce.co
 
 If you have any questions or concerns regarding these policies, please free to contact us here: [https://www.bleepingcomputer.com/contact/](https://www.bleepingcomputer.com/contact/)
 
-[![Mandiant mWise Conference 2024](https://www.bleepstatic.com/c/m/mandiant/registration-discount_smartest-minds_cta-2.jpg)](https://www.bleepingcomputer.com/mgo/48/)
+[![Mandiant mWise Conference 2024](https://www.bleepstatic.com/c/m/mandiant/registration-general_last-chance-go-time.jpg)](https://www.bleepingcomputer.com/mgo/61/)
 
 Popular Stories
 
-* [![WhatsApp](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![Hacker card](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    WhatsApp for Windows lets Python, PHP scripts execute with no warning](https://www.bleepingcomputer.com/news/security/whatsapp-for-windows-lets-python-php-scripts-execute-with-no-warning/)
-* [![Windows 11](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    Payment gateway data breach affects 1.7 million credit card owners](https://www.bleepingcomputer.com/news/security/payment-gateway-data-breach-affects-17-million-credit-card-owners/)
+* [![Progress](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Windows 11 taskbar has a hidden "End Task" feature, how to turn it on](https://www.bleepingcomputer.com/news/microsoft/windows-11-taskbar-has-a-hidden-end-task-feature-how-to-turn-it-on/)
+    Progress LoadMaster vulnerable to 10/10 severity RCE flaw](https://www.bleepingcomputer.com/news/security/progress-loadmaster-vulnerable-to-10-10-severity-rce-flaw/)
 
 Latest Downloads
 
+* ![Malwarebytes Anti-Malware Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    [Malwarebytes Anti-Malware](https://www.bleepingcomputer.com/download/malwarebytes-anti-malware/)
+    
+    Version: 5.1.9.124
+    
+    **5M+ _Downloads_**
+    
 * ![AdwCleaner Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     [AdwCleaner](https://www.bleepingcomputer.com/download/adwcleaner/)
@@ -323,21 +331,13 @@ Latest Downloads
     
     **56M+ _Downloads_**
     
-* ![Malwarebytes Anti-Malware Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    [Malwarebytes Anti-Malware](https://www.bleepingcomputer.com/download/malwarebytes-anti-malware/)
-    
-    Version: 5.1.6.117
-    
-    **5M+ _Downloads_**
-    
 * ![Speccy Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     [Speccy](https://www.bleepingcomputer.com/download/speccy/)
     
     Version: 1.33.075
     
-    **54,655 _Downloads_**
+    **55,298 _Downloads_**
     
 * ![PuTTY Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -345,7 +345,7 @@ Latest Downloads
     
     Version: 0.81
     
-    **42,317 _Downloads_**
+    **43,157 _Downloads_**
     
 * ![BitDefender Uninstall Tool Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -353,7 +353,7 @@ Latest Downloads
     
     Version: NA
     
-    **103,593 _Downloads_**
+    **104,179 _Downloads_**
     
 
 ##### Follow us:

@@ -539,9 +539,9 @@ The Chief Executive, CitizenCard, 7 Prescott Place, London SW4 6BS.
 
 The PASS hologram on each CitizenCard is endorsed by the Home Office, Police, SIA and retailers.
 
-![Proof of Age Standards Scheme logo](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMzYiIGhlaWdodD0iNTgiPjwvc3ZnPg==)
+![Proof of Age Standards Scheme logo](/images/PASS/PASS-2022.png)
 
-![National Police Chiefs' Council logo](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMzYiIGhlaWdodD0iNTgiPjwvc3ZnPg==) ![Security Industry Authority logo](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMzYiIGhlaWdodD0iNTgiPjwvc3ZnPg==)
+![National Police Chiefs' Council logo](/images/PASS/npcc-2022.png) ![Security Industry Authority logo](/images/PASS/sia-2022.png)
 
 ### Contact us
 
@@ -577,7 +577,7 @@ Copyright © 2024 CitizenCard
 
 [Cookie & Privacy Policy](https://www.citizencard.com/cookie-privacy-policy "Read "Cookie & Privacy Policy"") [Terms & Conditions](https://www.citizencard.com/terms-and-conditions "Read "Terms & Conditions"")
 
-![CitizenCard logo](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxODBweCIgaGVpZ2h0PSIyNXB4Ij48L3N2Zz4=)
+![CitizenCard logo](/images/headers/citizencard-logo-white-transparent.png)
 
 CitizenCard website uses cookies. By continuing to use it, you agree to their use.
 

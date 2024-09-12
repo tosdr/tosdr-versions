@@ -371,3 +371,31 @@ Accept Deny View preferences Save preferences [View preferences](#)
 [{title}](#) [{title}](#) [{title}](#)
 
 Manage consent
+
+![](https://target-video.com/wp-content/uploads/2024/09/dmexco_pop.webp)
+
+Meet TargetVideo At DMEXCO 2024
+-------------------------------
+
+![dmexco_pop](https://target-video.com/wp-content/uploads/elementor/thumbs/dmexco_pop-qtpgbrg067wnnvrxw5t6dlp1plvqwioowy5hpj8p1y.webp "dmexco_pop")
+
+Meet TargetVideo At DMEXCO 2024
+-------------------------------
+
+We’re heading to DMEXCO! The TargetVideo team will be there to chat about your publishing and advertising strategies and share ideas on how to reach the best results for your business. Get in touch to schedule a meeting.
+
+September 18. & 19.
+
+Hall 6.1 Stand A-022
+
+[Book a Meeting](https://target-video.com/dmexco2024/)
+
+We’re heading to DMEXCO! The TargetVideo team will be there to chat about your publishing and advertising strategies and share ideas on how to reach the best results for your business. Get in touch to schedule a meeting.
+
+September 18. & 19.
+
+Hall 6.1 Stand A-022
+
+[Book a Meeting](https://target-video.com/dmexco2024/)
+
+[Book a Meeting](#)

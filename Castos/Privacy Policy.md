@@ -90,6 +90,8 @@ This privacy policy has been compiled to better serve those who are concerned wi
 
 We collect information from you when you subscribe to a newsletter, respond to a survey or enter information on our site.
 
+When you visit or log in to our website, cookies and similar technologies may be used by our online data partners or vendors to associate these activities with other personal information they or others have about you, including by association with your email or home address. We may then send communications and marketing to these email addresses.
+
 **Aggregated Statistics**
 
 Castos collects aggregated, anonymous statistics in order to provide listener data for our customers. We log information about each download of an episode including data like IP addresses and user-agents. We then display this information on a podcast episode level to our customers in the form of Castos Analytics.

@@ -18,7 +18,7 @@ The ROAS Trap: Discover 11 metrics that prove the value of retail media beyond R
     * [Commerce Growth For marketers & agencies looking for automated acquisition & retention](https://www.criteo.com/platform/commerce-growth/)
     * [Commerce Max For brands & agencies looking for retail media on the open internet](https://www.criteo.com/platform/commerce-max/)
     * [Commerce Grid For media owners, agencies, and retailers looking to connect media and commerce with programmatic](https://www.criteo.com/platform/commerce-grid/)
-    * [Commerce Yield For retailers, marketplaces & commerce companies looking to control, scale, and maximize digital and physical asset monetization](https://www.criteo.com/platform/commerce-yield/)
+    * [Commerce Yield For retailers, marketplaces & commerce companies looking to control, scale, and maximize digital asset monetization](https://www.criteo.com/platform/commerce-yield/)
     
     Technology
     
@@ -148,7 +148,7 @@ Search for:
     * [Commerce Growth For marketers & agencies looking for automated acquisition & retention](https://www.criteo.com/platform/commerce-growth/)
     * [Commerce Max For brands & agencies looking for retail media on the open internet](https://www.criteo.com/platform/commerce-max/)
     * [Commerce Grid For media owners, agencies, and retailers looking to connect media and commerce with programmatic](https://www.criteo.com/platform/commerce-grid/)
-    * [Commerce Yield For retailers, marketplaces & commerce companies looking to control, scale, and maximize digital and physical asset monetization](https://www.criteo.com/platform/commerce-yield/)
+    * [Commerce Yield For retailers, marketplaces & commerce companies looking to control, scale, and maximize digital asset monetization](https://www.criteo.com/platform/commerce-yield/)
     
     Back
     

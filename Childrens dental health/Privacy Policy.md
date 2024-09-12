@@ -2,16 +2,14 @@
 
 [![](https://cdhdental.wpenginepowered.com/wp-content/uploads/2020/09/logo@2x.png)](https://childrensdentalhealth.com/)
 
-[Locations](https://childrensdentalhealth.com/find-a-location/) [Schedule an Appointment](https://childrensdentalhealth.com/schedule-at-a-location-near-you/) [Contact](https://childrensdentalhealth.com/contact/)[](https://childrensdentalhealth.com/locations/aston/)
+[Locations](https://childrensdentalhealth.com/find-a-location/) [Schedule an Appointment](https://childrensdentalhealth.com/appointments/) [Contact](https://childrensdentalhealth.com/contact/)
 
 * [New Patients](https://childrensdentalhealth.com/new-patients/)
 * [Our Dentists](https://childrensdentalhealth.com/meet-our-dentists/)
 * [Services](https://childrensdentalhealth.com/services/)
 * [Blog](https://childrensdentalhealth.com/blog/)
 
-[Locations](https://childrensdentalhealth.com/find-a-location/) [Schedule an Appointment](https://childrensdentalhealth.com/schedule-at-a-location-near-you/) [Contact](https://childrensdentalhealth.com/contact/)[](https://childrensdentalhealth.com/locations/aston/)
-
-Call Today : [(866) KIDS-DENTAL](tel:+18665437336825) [| Schedule Now](https://childrensdentalhealth.com/appointments/)
+[Locations](https://childrensdentalhealth.com/find-a-location/) [Schedule an Appointment](https://childrensdentalhealth.com/appointments/) [Contact](https://childrensdentalhealth.com/contact/)
 
 [Home](https://childrensdentalhealth.com/) > Privacy Policy
 
@@ -152,8 +150,7 @@ If you have any complaints about your privacy rights or how your health informat
 
 ### Delaware
 
-* [Wilmington (Foulk Road)](https://childrensdentalhealth.com/locations/wilmington-foulk-road/)
-* [Wilmington (Lancaster Pike)](https://childrensdentalhealth.com/locations/wilmington/)
+* [Wilmington](https://childrensdentalhealth.com/locations/wilmington/)
 
 [](https://www.linkedin.com/company/childrens-dental-health)[](https://www.facebook.com/cdhsmiles)[](https://www.instagram.com/cdhsmiles/?hl=en)
 
@@ -164,29 +161,19 @@ If you have any complaints about your privacy rights or how your health informat
 * [Patient Policies](https://childrensdentalhealth.com/patient-policies/)
 * [Oral Surgery Referrals](https://childrensdentalhealth.com/oral-surgery-referrals/)
 
-© 2021 Children’s Dental Health
+[Change Healthcare HIPAA Notice](https://www.changehealthcare.com/hipaa-substitute-notice)
+
+© 2024 Children’s Dental Health
 
 [](#)
 
   
 
-Book An Appointment Online in Under 5 Minutes!
+We are currently experiencing higher than normal call volumes.  
+You can easily reach us by replying to your appointment reminder text to message the office directly, or email us at info@childrensdentalhealth.com with your contact information. You can also request a checkup onlineby clicking below. Thanks for your patience!
 
              
 
 **BOOK NOW**
 
-![](https://app.nexhealth.com/appt/cdm?lid=4096,4099,4106,4120,24026,4104,4114,4097,4156,4103,4109,4147,4101,4150,4121,4122,4154,4146,4110)
-
-Stay Connected!
----------------
-
-Subscribe to Tiny Bites, our Quarterly E-Newsletter to stay up-to-date on giveaways, events, and more
-
-            
-
-Email
-
-SUBSCRIBE
-
-![close-link](https://cdhdental.wpenginepowered.com/wp-content/plugins/convertplug/modules/slide_in/assets/img/cross.png)
+![](https://childrensdentalhealth.com/book-dental-appointment/)

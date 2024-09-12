@@ -87,6 +87,7 @@ Useful Links
 * [Legal terms](https://www.digitalcontrolroom.com/terms-and-conditions/)
 * [Cookie policy](https://www.digitalcontrolroom.com/cookie-policy/)
 * [Privacy policy](https://www.digitalcontrolroom.com/privacy-policy/)
+* [Vulnerability Response Programme](https://www.digitalcontrolroom.com/vulnerability-response-programme/)
 
 DCR HQ
 ------

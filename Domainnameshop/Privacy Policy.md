@@ -222,7 +222,7 @@ In Domainnameshop we take your privacy seriously. All personal data are collecte
     * We may also share your personal data in order to pursue any legal claims against you, for example in the event of infringement of the intellectual property rights of others, in the event of fraud or other criminal activity.
     * In addition, we may share personal data with Norwegian police or other public authorities if presented with a court order, seizure warrant or other equivalent request for disclosure of information. In some cases, we will also be legally obliged to share personal data with accountants, auditors or tax authorities.
     
-6. **Transfer of personal data outside EU/EEA:** Several Registry Operators that we transfer personal data to are located outside the European Union and the European Economic Area. These include VeriSign (USA), Public Interest Registry (USA), Identity Digital (USA), GoDaddy Registry (USA), Google Registry (USA), Tucows Registry (Canada), CIRA (Canada), Nominet (UK), CentralNic (UK), CI Domain Registry (Guernsey), SWITCH (Switzerland) and GMO Registry (Japan). See full list in [Appendix 2](#registries). When personal data are transferred between us and the Registry Operator, the information is always encrypted using TLS encryption of the underlying data transfer protocol (EPP or FTP).
+6. **Transfer of personal data outside EU/EEA:** Several Registry Operators that we transfer personal data to are located outside the European Union and the European Economic Area. These include VeriSign (USA), Public Interest Registry (USA), Identity Digital (USA), GoDaddy Registry (USA), Tucows Registry (Canada), CIRA (Canada), Nominet (UK), CentralNic (UK), CI Domain Registry (Guernsey), SWITCH (Switzerland) and GMO Registry (Japan). See full list in [Appendix 2](#registries). When personal data are transferred between us and the Registry Operator, the information is always encrypted using TLS encryption of the underlying data transfer protocol (EPP or FTP).
     
     The aforementioned countries are all subject to a decision on an adequate level of protection by the European Commission, which means that personal data can be transferred to these countries on the same terms as countries within the EU/EEA. For some of the countries (e.g. USA), the adequacy decision is conditional, which means that it only covers certain businesses or sectors in the country. In the event that a Registry Operator is not subject to an adequacy decision, we will provide a transfer basis according to GDPR Chapter V, for example the European Commission's standard clauses.
     
@@ -248,428 +248,428 @@ In Domainnameshop we take your privacy seriously. All personal data are collecte
 
 The Registry Operators for the TLDs we offer and their respective policies are listed and referenced below for your convenience. However, you yourself are responsible for obtaining the latest version of the policies applicable to you, in the case that the links provided here are no longer current.
 
-| TLD | Registry Operator | Country | Domain name policies |
-| --- | --- | --- | --- |
-| .ac | Identity Digital Inc. | United States | [https:/​/​www.nic.ac/​policy.htm](https://www.nic.ac/policy.htm) |
-| .academy | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .accountant | GoDaddy Registry | United States | [http:/​/​nic.accountant/​resources.html](http://nic.accountant/resources.html) |
-| .accountants | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .actor | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .agency | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .airforce | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .apartments | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .app | Google Registry | United States | [https:/​/​www.registry.google/​about/​domains.html](https://www.registry.google/about/domains.html) |
-| .army | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .art | CentralNic Ltd | United Kingdom | [http:/​/​nic.art/​policies/​](http://nic.art/policies/) |
-| .as | CI Domain Registry Ltd. | Guernsey | [https:/​/​www.nic.as/​policy.cfm](https://www.nic.as/policy.cfm) |
-| .associates | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .at | nic.at GmbH | Austria | [https:/​/​www.nic.at/​en/​terms](https://www.nic.at/en/terms) |
-| .attorney | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .auction | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .audio | CentralNic Ltd | United Kingdom | [http:/​/​uniregistry.link/​registry-​policies/​](http://uniregistry.link/registry-policies/) |
-| .autos | CentralNic Ltd | United Kingdom | [https:/​/​nic.autos/​registry-​policies](https://nic.autos/registry-policies) |
-| .baby | CentralNic Ltd | United Kingdom | [https:/​/​nic.baby/​registry-​policies](https://nic.baby/registry-policies) |
-| .band | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .bar | Tucows Registry | Canada | [http:/​/​www.register.bar/​policies/​](http://www.register.bar/policies/) |
-| .bargains | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .be | DNS Belgium | Belgium | [https:/​/​www.dnsbelgium.be/​en/​documents/​enduser-​terms-​and-​conditions-​be](https://www.dnsbelgium.be/en/documents/enduser-terms-and-conditions-be) |
-| .beauty | CentralNic Ltd | United Kingdom | [https:/​/​nic.beauty/​registry-​policies](https://nic.beauty/registry-policies) |
-| .beer | GoDaddy Registry | United States | [http:/​/​mmx.co/​policies/​](http://mmx.co/policies/) |
-| .best | CentralNic Ltd | United Kingdom | [https:/​/​app.best/​terms/​](https://app.best/terms/) |
-| .bid | GoDaddy Registry | United States | [http:/​/​nic.bid/​resources.html](http://nic.bid/resources.html) |
-| .bike | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .bingo | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .bio | Identity Digital Inc. | United States | [https:/​/​afilias.info/​policies](https://afilias.info/policies) |
-| .biz | GoDaddy Registry | United States | [https:/​/​www.my.biz/​policies/​](https://www.my.biz/policies/) |
-| .black | Identity Digital Inc. | United States | [https:/​/​afilias.info/​policies](https://afilias.info/policies) |
-| .blackfriday | GoDaddy Registry | United States | [http:/​/​uniregistry.link/​registry-​policies/​](http://uniregistry.link/registry-policies/) |
-| .blog | CentralNic Ltd | United Kingdom | [https:/​/​my.blog/​registry-​policies-​privacy/​](https://my.blog/registry-policies-privacy/) |
-| .blue | Identity Digital Inc. | United States | [https:/​/​afilias.info/​policies](https://afilias.info/policies) |
-| .boats | CentralNic Ltd | United Kingdom | [https:/​/​nic.boats/​registry-​policies](https://nic.boats/registry-policies) |
-| .bond | CentralNic Ltd | United Kingdom | [https:/​/​shortdot.bond/​terms-​and-​conditions-​for-​domain-​registration/​](https://shortdot.bond/terms-and-conditions-for-domain-registration/) |
-| .boutique | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .broker | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .build | CentralNic Ltd | United Kingdom | [http:/​/​nic.build/​#documents](http://nic.build/#documents) |
-| .builders | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .business | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .cab | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .cafe | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .cam | CentralNic Ltd | United Kingdom | [https:/​/​nic.cam/​#resources](https://nic.cam/#resources) |
-| .camera | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .camp | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .capital | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .cards | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .care | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .careers | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .casa | GoDaddy Registry | United States | [http:/​/​mmx.co/​policies/​](http://mmx.co/policies/) |
-| .cash | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .casino | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .catering | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .cc | VeriSign, Inc. | United States | [https:/​/​www.verisign.com/​en\_US/​channel-​resources/​become-​a-​registrar/​verisign-​domain-​registrar/​domain-​registration/​](https://www.verisign.com/en_US/channel-resources/become-a-registrar/verisign-domain-registrar/domain-registration/) |
-| .center | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .ceo | CentralNic Ltd | United Kingdom | [https:/​/​www.nic.ceo/​](https://www.nic.ceo/) |
-| .ch | SWITCH | Switzerland | [https:/​/​www.nic.ch/​terms/​agb/​](https://www.nic.ch/terms/agb/) |
-| .charity | Public Interest Registry | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .chat | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .cheap | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .christmas | CentralNic Ltd | United Kingdom | [http:/​/​uniregistry.link/​registry-​policies/​](http://uniregistry.link/registry-policies/) |
-| .church | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .city | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .claims | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .cleaning | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .click | Tucows Registry | Canada | [http:/​/​uniregistry.link/​registry-​policies/​](http://uniregistry.link/registry-policies/) |
-| .clinic | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .clothing | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .cloud | Tucows Registry | Canada | [https:/​/​nic.cloud/​partner-​with-​us/​policies.aspx](https://nic.cloud/partner-with-us/policies.aspx) |
-| .club | GoDaddy Registry | United States | [http:/​/​get.club/​terms/​](http://get.club/terms/) |
-| .coach | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .codes | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .coffee | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .college | CentralNic Ltd | United Kingdom | [https:/​/​nic.college/​registry-​policies](https://nic.college/registry-policies) |
-| .com | VeriSign, Inc. | United States | [https:/​/​www.verisign.com/​en\_US/​domain-​names/​com-​domain-​names/​](https://www.verisign.com/en_US/domain-names/com-domain-names/) |
-| .community | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .company | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .computer | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .condos | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .construction | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .consulting | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .contact | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .contractors | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .cooking | GoDaddy Registry | United States | [http:/​/​mmx.co/​policies/​](http://mmx.co/policies/) |
-| .cool | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .country | Tucows Registry | Canada | [http:/​/​uniregistry.link/​registry-​policies/​](http://uniregistry.link/registry-policies/) |
-| .coupons | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .credit | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .creditcard | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .cricket | GoDaddy Registry | United States | [http:/​/​nic.cricket/​resources.html](http://nic.cricket/resources.html) |
-| .cruises | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .cz | CZ.NIC, z.s.p.o. | Czech Republic | [https:/​/​www.nic.cz/​page/​314/​rules-​and-​policies/​](https://www.nic.cz/page/314/rules-and-policies/) |
-| .dad | Google Registry | United States | [https:/​/​www.registry.google/​about/​domains.html](https://www.registry.google/about/domains.html) |
-| .dance | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .date | GoDaddy Registry | United States | [http:/​/​nic.date/​resources.html](http://nic.date/resources.html) |
-| .dating | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .day | Google Registry | United States | [https:/​/​www.registry.google/​about/​domains.html](https://www.registry.google/about/domains.html) |
-| .de | DENIC eG | Germany | [http:/​/​www.denic.de/​en/​bedingungen.html](http://www.denic.de/en/bedingungen.html) |
-| .deals | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .degree | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .delivery | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .democrat | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .dental | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .dentist | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .desi | Nominet UK | United Kingdom | [https:/​/​www.icann.org/​resources/​pages/​ebero-​2013-​04-​02-​en](https://www.icann.org/resources/pages/ebero-2013-04-02-en) |
-| .design | GoDaddy Registry | United States | [https:/​/​toplevel.design/​policy/​](https://toplevel.design/policy/) |
-| .dev | Google Registry | United States | [https:/​/​www.registry.google/​about/​domains.html](https://www.registry.google/about/domains.html) |
-| .diamonds | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .diet | CentralNic Ltd | United Kingdom | [http:/​/​uniregistry.link/​registry-​policies/​](http://uniregistry.link/registry-policies/) |
-| .digital | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .direct | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .directory | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .discount | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .diy | Tucows Registry | Canada | [https:/​/​internetnaming.co/​resources](https://internetnaming.co/resources) |
-| .dk | Punktum dk A/S | Denmark | [https:/​/​www.punktum.dk/​en/​terms](https://www.punktum.dk/en/terms) |
-| .doctor | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .dog | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .domains | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .download | GoDaddy Registry | United States | [http:/​/​nic.download/​resources.html](http://nic.download/resources.html) |
-| .eco | CIRA | Canada | [https:/​/​go.eco/​policies/​](https://go.eco/policies/) |
-| .education | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .email | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .energy | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .engineer | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .engineering | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .enterprises | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .equipment | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .es | Red.es | Spain | [https:/​/​www.dominios.es/​en/​registra-​un-​dominio/​terminos-​condiciones](https://www.dominios.es/en/registra-un-dominio/terminos-condiciones) |
-| .estate | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .eu | EURid vzw | Belgium | [https:/​/​eurid.eu/​en/​other-​infomation/​document-​repository/​](https://eurid.eu/en/other-infomation/document-repository/) |
-| .events | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .exchange | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .expert | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .exposed | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .express | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .fail | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .faith | GoDaddy Registry | United States | [http:/​/​nic.faith/​resources.html](http://nic.faith/resources.html) |
-| .family | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .fans | CentralNic Ltd | United Kingdom | [http:/​/​nic.fans/​](http://nic.fans/) |
-| .farm | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .fashion | GoDaddy Registry | United States | [http:/​/​mmx.co/​policies/​](http://mmx.co/policies/) |
-| .fi | Traficom | Finland | [https:/​/​www.traficom.fi/​en/​communications/​fi-​domains/​about-​fi-​country-​code](https://www.traficom.fi/en/communications/fi-domains/about-fi-country-code) |
-| .finance | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .financial | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .fish | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .fishing | GoDaddy Registry | United States | [http:/​/​mmx.co/​policies/​](http://mmx.co/policies/) |
-| .fit | GoDaddy Registry | United States | [http:/​/​mmx.co/​policies/​](http://mmx.co/policies/) |
-| .fitness | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .flights | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .florist | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .flowers | CentralNic Ltd | United Kingdom | [http:/​/​uniregistry.link/​registry-​policies/​](http://uniregistry.link/registry-policies/) |
-| .fm | CentralNic Ltd | United Kingdom | [https:/​/​get.fm/​legal/​](https://get.fm/legal/) |
-| .fo | CentralNic Ltd | United Kingdom | [https:/​/​økisnavn.fo/​policies](https://xn--kisnavn-p1a.fo/policies) |
-| .foo | Google Registry | United States | [https:/​/​www.registry.google/​about/​domains.html](https://www.registry.google/about/domains.html) |
-| .food | Tucows Registry | Canada | [https:/​/​internetnaming.co/​resources](https://internetnaming.co/resources) |
-| .football | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .forex | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .forsale | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .forum | CentralNic Ltd | United Kingdom | [http:/​/​mmx.co/​policies/​](http://mmx.co/policies/) |
-| .foundation | Public Interest Registry | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .fr | AFNIC | France | [https:/​/​www.afnic.fr/​en/​resources/​reference/​registry-​policies/​](https://www.afnic.fr/en/resources/reference/registry-policies/) |
-| .fun | CentralNic Ltd | United Kingdom | [https:/​/​radix.website/​policies/​](https://radix.website/policies/) |
-| .fund | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .furniture | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .futbol | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .fyi | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .gallery | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .game | CentralNic Ltd | United Kingdom | [http:/​/​uniregistry.link/​registry-​policies/​](http://uniregistry.link/registry-policies/) |
-| .games | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .garden | GoDaddy Registry | United States | [http:/​/​mmx.co/​policies/​](http://mmx.co/policies/) |
-| .gay | GoDaddy Registry | United States | [https:/​/​toplevel.design/​policy/​](https://toplevel.design/policy/) |
-| .gd | CentralNic Ltd | United Kingdom | [https:/​/​nic.gd/​terms.php](https://nic.gd/terms.php) |
-| .gift | Tucows Registry | Canada | [http:/​/​uniregistry.link/​registry-​policies/​](http://uniregistry.link/registry-policies/) |
-| .gifts | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .gives | Public Interest Registry | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .gl | CentralNic Ltd | United Kingdom | [http:/​/​nic.gl/​registration-​agreement](http://nic.gl/registration-agreement) |
-| .glass | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .global | Identity Digital Inc. | United States | [http:/​/​go.global/​registry-​policies/​](http://go.global/registry-policies/) |
-| .gmbh | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .gold | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .golf | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .graphics | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .gratis | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .green | Identity Digital Inc. | United States | [https:/​/​afilias.info/​policies](https://afilias.info/policies) |
-| .gripe | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .group | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .guide | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .guitars | CentralNic Ltd | United Kingdom | [http:/​/​uniregistry.link/​registry-​policies/​](http://uniregistry.link/registry-policies/) |
-| .guru | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .hair | CentralNic Ltd | United Kingdom | [https:/​/​nic.hair/​registry-​policies](https://nic.hair/registry-policies) |
-| .haus | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .healthcare | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .help | CentralNic Ltd | United Kingdom | [http:/​/​uniregistry.link/​registry-​policies/​](http://uniregistry.link/registry-policies/) |
-| .hiphop | Tucows Registry | Canada | [http:/​/​uniregistry.link/​registry-​policies/​](http://uniregistry.link/registry-policies/) |
-| .hiv | Tucows Registry | Canada | [http:/​/​uniregistry.link/​registry-​policies/​](http://uniregistry.link/registry-policies/) |
-| .hockey | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .holdings | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .holiday | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .homes | CentralNic Ltd | United Kingdom | [https:/​/​nic.homes/​registry-​policies](https://nic.homes/registry-policies) |
-| .horse | GoDaddy Registry | United States | [http:/​/​mmx.co/​policies/​](http://mmx.co/policies/) |
-| .hospital | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .host | CentralNic Ltd | United Kingdom | [https:/​/​radix.website/​policies/​](https://radix.website/policies/) |
-| .hosting | CentralNic Ltd | United Kingdom | [http:/​/​uniregistry.link/​registry-​policies/​](http://uniregistry.link/registry-policies/) |
-| .house | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .icu | CentralNic Ltd | United Kingdom | [https:/​/​nic.icu/​policies/​](https://nic.icu/policies/) |
-| .im | Domicilium (IoM) Ltd | United Kingdom | [https:/​/​www.nic.im/​public/​terms.mth](https://www.nic.im/public/terms.mth) |
-| .immo | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .immobilien | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .industries | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .info | Identity Digital Inc. | United States | [https:/​/​afilias.info/​policies](https://afilias.info/policies) |
-| .ink | GoDaddy Registry | United States | [https:/​/​toplevel.design/​policy/​](https://toplevel.design/policy/) |
-| .institute | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .insure | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .international | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .investments | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .io | Identity Digital Inc. | United States | [https:/​/​www.nic.io/​policy.htm](https://www.nic.io/policy.htm) |
-| .irish | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .is | Internet á Íslandi hf. (ISNIC) | Iceland | [https:/​/​isnic.is/​en/​domain/​rules](https://isnic.is/en/domain/rules) |
-| .it | Registro.it | Italy | [http:/​/​www.nic.it/​en/​views/​docs?field\_doc\_categoria\_tid=179](http://www.nic.it/en/views/docs?field_doc_categoria_tid=179) |
-| .jetzt | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .jewelry | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .juegos | Tucows Registry | Canada | [http:/​/​uniregistry.link/​registry-​policies/​](http://uniregistry.link/registry-policies/) |
-| .kaufen | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .kids | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .kitchen | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .land | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .lawyer | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .lease | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .legal | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .li | SWITCH | Switzerland | [https:/​/​www.nic.ch/​terms/​agb/​](https://www.nic.ch/terms/agb/) |
-| .life | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .lifestyle | Tucows Registry | Canada | [https:/​/​internetnaming.co/​resources](https://internetnaming.co/resources) |
-| .lighting | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .limited | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .limo | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .link | Tucows Registry | Canada | [http:/​/​uniregistry.link/​registry-​policies/​](http://uniregistry.link/registry-policies/) |
-| .live | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .living | Tucows Registry | Canada | [https:/​/​internetnaming.co/​resources](https://internetnaming.co/resources) |
-| .llc | Identity Digital Inc. | United States | [https:/​/​get.llc/​about/​afilias-​anti-​abuse-​policy](https://get.llc/about/afilias-anti-abuse-policy) |
-| .loan | GoDaddy Registry | United States | [http:/​/​nic.loan/​resources.html](http://nic.loan/resources.html) |
-| .loans | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .lol | CentralNic Ltd | United Kingdom | [http:/​/​uniregistry.link/​registry-​policies/​](http://uniregistry.link/registry-policies/) |
-| .love | Tucows Registry | Canada | [http:/​/​get.love/​wp-​content/​uploads/​2015/​05/​Policies-​dotlove-​201504234.pdf](http://get.love/wp-content/uploads/2015/05/Policies-dotlove-201504234.pdf) |
-| .ltd | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .luxury | CentralNic Ltd | United Kingdom | [https:/​/​nic.luxury/​](https://nic.luxury/) |
-| .maison | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .makeup | CentralNic Ltd | United Kingdom | [https:/​/​nic.makeup/​registry-​policies](https://nic.makeup/registry-policies) |
-| .management | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .market | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .marketing | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .markets | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .mba | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .me | Identity Digital Inc. | United States | [https:/​/​domain.me/​policies/​](https://domain.me/policies/) |
-| .media | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .meme | Google Registry | United States | [https:/​/​www.registry.google/​about/​domains.html](https://www.registry.google/about/domains.html) |
-| .memorial | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .men | GoDaddy Registry | United States | [http:/​/​nic.men/​resources.html](http://nic.men/resources.html) |
-| .mobi | Identity Digital Inc. | United States | [https:/​/​dotmobi.mobi/​about/​afilias-​anti-​abuse-​policy](https://dotmobi.mobi/about/afilias-anti-abuse-policy) |
-| .moda | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .mom | CentralNic Ltd | United Kingdom | [http:/​/​uniregistry.link/​registry-​policies/​](http://uniregistry.link/registry-policies/) |
-| .money | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .monster | CentralNic Ltd | United Kingdom | [https:/​/​nic.monster/​registry-​policies](https://nic.monster/registry-policies) |
-| .mortgage | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .motorcycles | CentralNic Ltd | United Kingdom | [https:/​/​nic.motorcycles/​registry-​policies](https://nic.motorcycles/registry-policies) |
-| .mov | Google Registry | United States | [https:/​/​www.registry.google/​about/​domains.html](https://www.registry.google/about/domains.html) |
-| .movie | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .name | VeriSign, Inc. | United States | [https:/​/​www.verisign.com/​en\_US/​domain-​names/​name-​domains/​](https://www.verisign.com/en_US/domain-names/name-domains/) |
-| .navy | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .net | VeriSign, Inc. | United States | [https:/​/​www.verisign.com/​en\_US/​domain-​names/​net-​domain-​names/​](https://www.verisign.com/en_US/domain-names/net-domain-names/) |
-| .network | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .news | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .ninja | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .nl | SIDN | Netherlands | [https:/​/​www.sidn.nl/​a/​about-​sidn/​general-​terms-​and-​conditions](https://www.sidn.nl/a/about-sidn/general-terms-and-conditions) |
-| .no | UNINETT Norid AS | Norway | [https:/​/​www.norid.no/​en/​regelverk/​navnepolitikk](https://www.norid.no/en/regelverk/navnepolitikk) |
-| .nu | Internetstiftelsen i Sverige (IIS) | Sweden | [https:/​/​www.iis.se/​english/​domains/​se/​terms-​and-​conditions/​](https://www.iis.se/english/domains/se/terms-and-conditions/) |
-| .online | CentralNic Ltd | United Kingdom | [https:/​/​radix.website/​policies/​](https://radix.website/policies/) |
-| .ooo | CentralNic Ltd | United Kingdom | [http:/​/​www.nic.ooo/​policies/​ooo-​policies](http://www.nic.ooo/policies/ooo-policies) |
-| .org | Public Interest Registry | United States | [http:/​/​pir.org/​policies/​](http://pir.org/policies/) |
-| .organic | Identity Digital Inc. | United States | [https:/​/​afilias.info/​policies](https://afilias.info/policies) |
-| .page | Google Registry | United States | [https:/​/​www.registry.google/​about/​domains.html](https://www.registry.google/about/domains.html) |
-| .partners | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .parts | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .party | GoDaddy Registry | United States | [http:/​/​nic.party/​resources.html](http://nic.party/resources.html) |
-| .pet | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .phd | Google Registry | United States | [https:/​/​www.registry.google/​about/​domains.html](https://www.registry.google/about/domains.html) |
-| .photo | GoDaddy Registry | United States | [http:/​/​uniregistry.link/​registry-​policies/​](http://uniregistry.link/registry-policies/) |
-| .photography | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .photos | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .pics | CentralNic Ltd | United Kingdom | [http:/​/​uniregistry.link/​registry-​policies/​](http://uniregistry.link/registry-policies/) |
-| .pictures | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .pizza | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .pl | NASK | Poland | [https:/​/​dns.pl/​en/​pl\_domain\_name\_regulations](https://dns.pl/en/pl_domain_name_regulations) |
-| .place | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .plumbing | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .plus | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .pm | AFNIC | France | [https:/​/​www.afnic.fr/​en/​resources/​reference/​registry-​policies/​](https://www.afnic.fr/en/resources/reference/registry-policies/) |
-| .press | CentralNic Ltd | United Kingdom | [https:/​/​radix.website/​policies/​](https://radix.website/policies/) |
-| .pro | Identity Digital Inc. | United States | [https:/​/​registry.pro/​about/​afilias-​anti-​abuse-​policy](https://registry.pro/about/afilias-anti-abuse-policy) |
-| .productions | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .prof | Google Registry | United States | [https:/​/​www.registry.google/​about/​domains.html](https://www.registry.google/about/domains.html) |
-| .properties | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .property | Tucows Registry | Canada | [http:/​/​uniregistry.link/​registry-​policies/​](http://uniregistry.link/registry-policies/) |
-| .pt | DNS.PT | Portugal | [https:/​/​www.dns.pt/​en/​domain/​domain-​rules/​preamble/​](https://www.dns.pt/en/domain/domain-rules/preamble/) |
-| .pub | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .pw | CentralNic Ltd | United Kingdom | [https:/​/​registry.pw/​policies/​](https://registry.pw/policies/) |
-| .quest | CentralNic Ltd | United Kingdom | [https:/​/​nic.quest/​registry-​policies](https://nic.quest/registry-policies) |
-| .racing | GoDaddy Registry | United States | [http:/​/​nic.racing/​resources.html](http://nic.racing/resources.html) |
-| .re | AFNIC | France | [https:/​/​www.afnic.fr/​en/​resources/​reference/​registry-​policies/​](https://www.afnic.fr/en/resources/reference/registry-policies/) |
-| .recipes | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .red | Identity Digital Inc. | United States | [https:/​/​afilias.info/​policies](https://afilias.info/policies) |
-| .rehab | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .reise | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .reisen | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .rent | CentralNic Ltd | United Kingdom | [https:/​/​nic.rent/​registry-​policies](https://nic.rent/registry-policies) |
-| .rentals | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .repair | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .report | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .republican | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .rest | Tucows Registry | Canada | [http:/​/​www.register.rest/​policies/​](http://www.register.rest/policies/) |
-| .restaurant | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .review | GoDaddy Registry | United States | [http:/​/​nic.review/​resources.html](http://nic.review/resources.html) |
-| .reviews | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .rip | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .rocks | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .rodeo | GoDaddy Registry | United States | [http:/​/​mmx.co/​policies/​](http://mmx.co/policies/) |
-| .run | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .sale | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .salon | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .sarl | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .school | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .schule | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .science | GoDaddy Registry | United States | [http:/​/​nic.science/​resources.html](http://nic.science/resources.html) |
-| .se | Internetstiftelsen i Sverige (IIS) | Sweden | [https:/​/​www.iis.se/​english/​domains/​se/​terms-​and-​conditions/​](https://www.iis.se/english/domains/se/terms-and-conditions/) |
-| .services | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .sexy | Tucows Registry | Canada | [http:/​/​uniregistry.link/​registry-​policies/​](http://uniregistry.link/registry-policies/) |
-| .sh | Identity Digital Inc. | United States | [https:/​/​www.nic.sh/​policy.htm](https://www.nic.sh/policy.htm) |
-| .shoes | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .shop | GMO Registry, Inc. | Japan | [https:/​/​nic.shop/​#Anc\_policies](https://nic.shop/#Anc_policies) |
-| .shopping | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .show | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .singles | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .site | CentralNic Ltd | United Kingdom | [https:/​/​radix.website/​policies/​](https://radix.website/policies/) |
-| .ski | Identity Digital Inc. | United States | [https:/​/​domains.ski/​about/​afilias-​anti-​abuse-​policy](https://domains.ski/about/afilias-anti-abuse-policy) |
-| .skin | CentralNic Ltd | United Kingdom | [https:/​/​nic.skin/​registry-​policies](https://nic.skin/registry-policies) |
-| .soccer | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .social | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .software | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .solar | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .solutions | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .spa | Identity Digital Inc. | United States | [https:/​/​www.nic.spa/​doc/​](https://www.nic.spa/doc/) |
-| .space | CentralNic Ltd | United Kingdom | [https:/​/​radix.website/​policies/​](https://radix.website/policies/) |
-| .store | CentralNic Ltd | United Kingdom | [https:/​/​radix.website/​policies/​](https://radix.website/policies/) |
-| .stream | GoDaddy Registry | United States | [http:/​/​nic.stream/​resources.html](http://nic.stream/resources.html) |
-| .studio | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .style | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .supplies | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .supply | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .support | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .surf | GoDaddy Registry | United States | [http:/​/​mmx.co/​policies/​](http://mmx.co/policies/) |
-| .surgery | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .systems | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .tattoo | GoDaddy Registry | United States | [http:/​/​uniregistry.link/​registry-​policies/​](http://uniregistry.link/registry-policies/) |
-| .tax | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .taxi | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .team | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .tech | CentralNic Ltd | United Kingdom | [https:/​/​radix.website/​policies/​](https://radix.website/policies/) |
-| .technology | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .tennis | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .tf | AFNIC | France | [https:/​/​www.afnic.fr/​en/​resources/​reference/​registry-​policies/​](https://www.afnic.fr/en/resources/reference/registry-policies/) |
-| .theater | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .tienda | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .tips | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .tires | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .today | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .tools | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .tours | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .town | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .toys | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .trade | GoDaddy Registry | United States | [http:/​/​nic.trade/​resources.html](http://nic.trade/resources.html) |
-| .trading | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .training | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .travel | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .tv | GoDaddy Registry | United States | [https:/​/​turnon.tv/​policies](https://turnon.tv/policies) |
-| .tw | GoDaddy Registry | United States | [https:/​/​www.twnic.net.tw/​en\_dnservice\_giuldlines.php](https://www.twnic.net.tw/en_dnservice_giuldlines.php) |
-| .uk | Nominet UK | United Kingdom | [https:/​/​www.nominet.uk/​go/​terms](https://www.nominet.uk/go/terms) |
-| .university | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .uno | CentralNic Ltd | United Kingdom | [https:/​/​radix.website/​policies/​](https://radix.website/policies/) |
-| .us | GoDaddy Registry | United States | [http:/​/​www.about.us/​policies](http://www.about.us/policies) |
-| .vacations | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .ventures | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .vet | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .vg | CentralNic Ltd | United Kingdom | [https:/​/​nic.vg/​legal.php](https://nic.vg/legal.php) |
-| .viajes | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .video | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .villas | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .vin | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .vip | GoDaddy Registry | United States | [http:/​/​mmx.co/​policies/​](http://mmx.co/policies/) |
-| .vision | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .vodka | GoDaddy Registry | United States | [http:/​/​mmx.co/​policies/​](http://mmx.co/policies/) |
-| .voyage | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .watch | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .webcam | GoDaddy Registry | United States | [http:/​/​nic.webcam/​resources.html](http://nic.webcam/resources.html) |
-| .website | CentralNic Ltd | United Kingdom | [https:/​/​radix.website/​policies/​](https://radix.website/policies/) |
-| .wedding | GoDaddy Registry | United States | [http:/​/​mmx.co/​policies/​](http://mmx.co/policies/) |
-| .wf | AFNIC | France | [https:/​/​www.afnic.fr/​en/​resources/​reference/​registry-​policies/​](https://www.afnic.fr/en/resources/reference/registry-policies/) |
-| .wiki | GoDaddy Registry | United States | [https:/​/​toplevel.design/​policy/​](https://toplevel.design/policy/) |
-| .win | GoDaddy Registry | United States | [http:/​/​nic.win/​resources.html](http://nic.win/resources.html) |
-| .wine | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .work | GoDaddy Registry | United States | [http:/​/​mmx.co/​policies/​](http://mmx.co/policies/) |
-| .works | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .world | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .wtf | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .xyz | CentralNic Ltd | United Kingdom | [https:/​/​nic.xyz/​files/​XYZ-​domain-​name-​policies.pdf?v=2.0](https://nic.xyz/files/XYZ-domain-name-policies.pdf?v=2.0) |
-| .yachts | CentralNic Ltd | United Kingdom | [https:/​/​nic.yachts/​registry-​policies](https://nic.yachts/registry-policies) |
-| .yoga | GoDaddy Registry | United States | [http:/​/​mmx.co/​policies/​](http://mmx.co/policies/) |
-| .yt | AFNIC | France | [https:/​/​www.afnic.fr/​en/​resources/​reference/​registry-​policies/​](https://www.afnic.fr/en/resources/reference/registry-policies/) |
-| .zip | Google Registry | United States | [https:/​/​www.registry.google/​about/​domains.html](https://www.registry.google/about/domains.html) |
-| .zone | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| Top-Level Domain | Registry Operator | Country | Personal data stored in registry? | Domain name policies |
+| --- | --- | --- | --- | --- |
+| .ac | Identity Digital Inc. | United States | Yes | [https:/​/​www.nic.ac/​policy.htm](https://www.nic.ac/policy.htm) |
+| .academy | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .accountant | GoDaddy Registry | United States | Yes | [http:/​/​nic.accountant/​resources.html](http://nic.accountant/resources.html) |
+| .accountants | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .actor | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .agency | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .airforce | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .apartments | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .app | Google Registry | United States | No  | [https:/​/​www.registry.google/​about/​domains.html](https://www.registry.google/about/domains.html) |
+| .army | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .art | CentralNic Ltd | United Kingdom | Yes | [http:/​/​nic.art/​policies/​](http://nic.art/policies/) |
+| .as | CI Domain Registry Ltd. | Guernsey | Yes | [https:/​/​www.nic.as/​policy.cfm](https://www.nic.as/policy.cfm) |
+| .associates | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .at | nic.at GmbH | Austria | Yes | [https:/​/​www.nic.at/​en/​terms](https://www.nic.at/en/terms) |
+| .attorney | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .auction | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .audio | CentralNic Ltd | United Kingdom | Yes | [http:/​/​uniregistry.link/​registry-​policies/​](http://uniregistry.link/registry-policies/) |
+| .autos | CentralNic Ltd | United Kingdom | Yes | [https:/​/​nic.autos/​registry-​policies](https://nic.autos/registry-policies) |
+| .baby | CentralNic Ltd | United Kingdom | Yes | [https:/​/​nic.baby/​registry-​policies](https://nic.baby/registry-policies) |
+| .band | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .bar | Tucows Registry | Canada | Yes | [http:/​/​www.register.bar/​policies/​](http://www.register.bar/policies/) |
+| .bargains | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .be | DNS Belgium | Belgium | Yes | [https:/​/​www.dnsbelgium.be/​en/​documents/​enduser-​terms-​and-​conditions-​be](https://www.dnsbelgium.be/en/documents/enduser-terms-and-conditions-be) |
+| .beauty | CentralNic Ltd | United Kingdom | Yes | [https:/​/​nic.beauty/​registry-​policies](https://nic.beauty/registry-policies) |
+| .beer | GoDaddy Registry | United States | Yes | [http:/​/​mmx.co/​policies/​](http://mmx.co/policies/) |
+| .best | CentralNic Ltd | United Kingdom | Yes | [https:/​/​app.best/​terms/​](https://app.best/terms/) |
+| .bid | GoDaddy Registry | United States | Yes | [http:/​/​nic.bid/​resources.html](http://nic.bid/resources.html) |
+| .bike | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .bingo | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .bio | Identity Digital Inc. | United States | No  | [https:/​/​afilias.info/​policies](https://afilias.info/policies) |
+| .biz | GoDaddy Registry | United States | Yes | [https:/​/​www.my.biz/​policies/​](https://www.my.biz/policies/) |
+| .black | Identity Digital Inc. | United States | No  | [https:/​/​afilias.info/​policies](https://afilias.info/policies) |
+| .blackfriday | GoDaddy Registry | United States | Yes | [http:/​/​uniregistry.link/​registry-​policies/​](http://uniregistry.link/registry-policies/) |
+| .blog | CentralNic Ltd | United Kingdom | Yes | [https:/​/​my.blog/​registry-​policies-​privacy/​](https://my.blog/registry-policies-privacy/) |
+| .blue | Identity Digital Inc. | United States | No  | [https:/​/​afilias.info/​policies](https://afilias.info/policies) |
+| .boats | CentralNic Ltd | United Kingdom | Yes | [https:/​/​nic.boats/​registry-​policies](https://nic.boats/registry-policies) |
+| .bond | CentralNic Ltd | United Kingdom | Yes | [https:/​/​shortdot.bond/​terms-​and-​conditions-​for-​domain-​registration/​](https://shortdot.bond/terms-and-conditions-for-domain-registration/) |
+| .boutique | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .broker | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .build | CentralNic Ltd | United Kingdom | Yes | [http:/​/​nic.build/​#documents](http://nic.build/#documents) |
+| .builders | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .business | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .cab | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .cafe | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .cam | CentralNic Ltd | United Kingdom | Yes | [https:/​/​nic.cam/​#resources](https://nic.cam/#resources) |
+| .camera | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .camp | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .capital | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .cards | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .care | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .careers | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .casa | GoDaddy Registry | United States | Yes | [http:/​/​mmx.co/​policies/​](http://mmx.co/policies/) |
+| .cash | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .casino | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .catering | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .cc | VeriSign, Inc. | United States | No  | [https:/​/​www.verisign.com/​en\_US/​channel-​resources/​become-​a-​registrar/​verisign-​domain-​registrar/​domain-​registration/​](https://www.verisign.com/en_US/channel-resources/become-a-registrar/verisign-domain-registrar/domain-registration/) |
+| .center | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .ceo | CentralNic Ltd | United Kingdom | Yes | [https:/​/​www.nic.ceo/​](https://www.nic.ceo/) |
+| .ch | SWITCH | Switzerland | Yes | [https:/​/​www.nic.ch/​terms/​agb/​](https://www.nic.ch/terms/agb/) |
+| .charity | Public Interest Registry | United States | Yes | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .chat | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .cheap | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .christmas | CentralNic Ltd | United Kingdom | Yes | [http:/​/​uniregistry.link/​registry-​policies/​](http://uniregistry.link/registry-policies/) |
+| .church | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .city | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .claims | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .cleaning | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .click | Tucows Registry | Canada | Yes | [http:/​/​uniregistry.link/​registry-​policies/​](http://uniregistry.link/registry-policies/) |
+| .clinic | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .clothing | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .cloud | Tucows Registry | Canada | Yes | [https:/​/​nic.cloud/​partner-​with-​us/​policies.aspx](https://nic.cloud/partner-with-us/policies.aspx) |
+| .club | GoDaddy Registry | United States | Yes | [http:/​/​get.club/​terms/​](http://get.club/terms/) |
+| .coach | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .codes | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .coffee | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .college | CentralNic Ltd | United Kingdom | Yes | [https:/​/​nic.college/​registry-​policies](https://nic.college/registry-policies) |
+| .com | VeriSign, Inc. | United States | No  | [https:/​/​www.verisign.com/​en\_US/​domain-​names/​com-​domain-​names/​](https://www.verisign.com/en_US/domain-names/com-domain-names/) |
+| .community | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .company | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .computer | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .condos | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .construction | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .consulting | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .contact | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .contractors | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .cooking | GoDaddy Registry | United States | Yes | [http:/​/​mmx.co/​policies/​](http://mmx.co/policies/) |
+| .cool | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .country | Tucows Registry | Canada | Yes | [http:/​/​uniregistry.link/​registry-​policies/​](http://uniregistry.link/registry-policies/) |
+| .coupons | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .credit | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .creditcard | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .cricket | GoDaddy Registry | United States | Yes | [http:/​/​nic.cricket/​resources.html](http://nic.cricket/resources.html) |
+| .cruises | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .cz | CZ.NIC, z.s.p.o. | Czech Republic | Yes | [https:/​/​www.nic.cz/​page/​314/​rules-​and-​policies/​](https://www.nic.cz/page/314/rules-and-policies/) |
+| .dad | Google Registry | United States | No  | [https:/​/​www.registry.google/​about/​domains.html](https://www.registry.google/about/domains.html) |
+| .dance | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .date | GoDaddy Registry | United States | Yes | [http:/​/​nic.date/​resources.html](http://nic.date/resources.html) |
+| .dating | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .day | Google Registry | United States | No  | [https:/​/​www.registry.google/​about/​domains.html](https://www.registry.google/about/domains.html) |
+| .de | DENIC eG | Germany | Yes | [http:/​/​www.denic.de/​en/​bedingungen.html](http://www.denic.de/en/bedingungen.html) |
+| .deals | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .degree | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .delivery | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .democrat | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .dental | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .dentist | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .desi | Nominet UK | United Kingdom | Yes | [https:/​/​www.icann.org/​resources/​pages/​ebero-​2013-​04-​02-​en](https://www.icann.org/resources/pages/ebero-2013-04-02-en) |
+| .design | GoDaddy Registry | United States | Yes | [https:/​/​toplevel.design/​policy/​](https://toplevel.design/policy/) |
+| .dev | Google Registry | United States | No  | [https:/​/​www.registry.google/​about/​domains.html](https://www.registry.google/about/domains.html) |
+| .diamonds | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .diet | CentralNic Ltd | United Kingdom | Yes | [http:/​/​uniregistry.link/​registry-​policies/​](http://uniregistry.link/registry-policies/) |
+| .digital | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .direct | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .directory | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .discount | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .diy | Tucows Registry | Canada | Yes | [https:/​/​internetnaming.co/​resources](https://internetnaming.co/resources) |
+| .dk | Punktum dk A/S | Denmark | Yes | [https:/​/​www.punktum.dk/​en/​terms](https://www.punktum.dk/en/terms) |
+| .doctor | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .dog | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .domains | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .download | GoDaddy Registry | United States | Yes | [http:/​/​nic.download/​resources.html](http://nic.download/resources.html) |
+| .eco | CIRA | Canada | Yes | [https:/​/​go.eco/​policies/​](https://go.eco/policies/) |
+| .education | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .email | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .energy | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .engineer | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .engineering | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .enterprises | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .equipment | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .es | Red.es | Spain | Yes | [https:/​/​www.dominios.es/​en/​registra-​un-​dominio/​terminos-​condiciones](https://www.dominios.es/en/registra-un-dominio/terminos-condiciones) |
+| .estate | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .eu | EURid vzw | Belgium | Yes | [https:/​/​eurid.eu/​en/​other-​infomation/​document-​repository/​](https://eurid.eu/en/other-infomation/document-repository/) |
+| .events | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .exchange | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .expert | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .exposed | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .express | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .fail | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .faith | GoDaddy Registry | United States | Yes | [http:/​/​nic.faith/​resources.html](http://nic.faith/resources.html) |
+| .family | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .fans | CentralNic Ltd | United Kingdom | Yes | [http:/​/​nic.fans/​](http://nic.fans/) |
+| .farm | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .fashion | GoDaddy Registry | United States | Yes | [http:/​/​mmx.co/​policies/​](http://mmx.co/policies/) |
+| .fi | Traficom | Finland | Yes | [https:/​/​www.traficom.fi/​en/​communications/​fi-​domains/​about-​fi-​country-​code](https://www.traficom.fi/en/communications/fi-domains/about-fi-country-code) |
+| .finance | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .financial | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .fish | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .fishing | GoDaddy Registry | United States | Yes | [http:/​/​mmx.co/​policies/​](http://mmx.co/policies/) |
+| .fit | GoDaddy Registry | United States | Yes | [http:/​/​mmx.co/​policies/​](http://mmx.co/policies/) |
+| .fitness | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .flights | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .florist | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .flowers | CentralNic Ltd | United Kingdom | Yes | [http:/​/​uniregistry.link/​registry-​policies/​](http://uniregistry.link/registry-policies/) |
+| .fm | CentralNic Ltd | United Kingdom | Yes | [https:/​/​get.fm/​legal/​](https://get.fm/legal/) |
+| .fo | CentralNic Ltd | United Kingdom | Yes | [https:/​/​økisnavn.fo/​policies](https://xn--kisnavn-p1a.fo/policies) |
+| .foo | Google Registry | United States | No  | [https:/​/​www.registry.google/​about/​domains.html](https://www.registry.google/about/domains.html) |
+| .food | Tucows Registry | Canada | Yes | [https:/​/​internetnaming.co/​resources](https://internetnaming.co/resources) |
+| .football | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .forex | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .forsale | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .forum | CentralNic Ltd | United Kingdom | Yes | [http:/​/​mmx.co/​policies/​](http://mmx.co/policies/) |
+| .foundation | Public Interest Registry | United States | Yes | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .fr | AFNIC | France | Yes | [https:/​/​www.afnic.fr/​en/​resources/​reference/​registry-​policies/​](https://www.afnic.fr/en/resources/reference/registry-policies/) |
+| .fun | CentralNic Ltd | United Kingdom | Yes | [https:/​/​radix.website/​policies/​](https://radix.website/policies/) |
+| .fund | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .furniture | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .futbol | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .fyi | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .gallery | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .game | CentralNic Ltd | United Kingdom | Yes | [http:/​/​uniregistry.link/​registry-​policies/​](http://uniregistry.link/registry-policies/) |
+| .games | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .garden | GoDaddy Registry | United States | Yes | [http:/​/​mmx.co/​policies/​](http://mmx.co/policies/) |
+| .gay | GoDaddy Registry | United States | Yes | [https:/​/​toplevel.design/​policy/​](https://toplevel.design/policy/) |
+| .gd | CentralNic Ltd | United Kingdom | Yes | [https:/​/​nic.gd/​terms.php](https://nic.gd/terms.php) |
+| .gift | Tucows Registry | Canada | Yes | [http:/​/​uniregistry.link/​registry-​policies/​](http://uniregistry.link/registry-policies/) |
+| .gifts | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .gives | Public Interest Registry | United States | Yes | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .gl | CentralNic Ltd | United Kingdom | Yes | [http:/​/​nic.gl/​registration-​agreement](http://nic.gl/registration-agreement) |
+| .glass | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .global | Identity Digital Inc. | United States | No  | [http:/​/​go.global/​registry-​policies/​](http://go.global/registry-policies/) |
+| .gmbh | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .gold | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .golf | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .graphics | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .gratis | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .green | Identity Digital Inc. | United States | No  | [https:/​/​afilias.info/​policies](https://afilias.info/policies) |
+| .gripe | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .group | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .guide | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .guitars | CentralNic Ltd | United Kingdom | Yes | [http:/​/​uniregistry.link/​registry-​policies/​](http://uniregistry.link/registry-policies/) |
+| .guru | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .hair | CentralNic Ltd | United Kingdom | Yes | [https:/​/​nic.hair/​registry-​policies](https://nic.hair/registry-policies) |
+| .haus | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .healthcare | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .help | CentralNic Ltd | United Kingdom | Yes | [http:/​/​uniregistry.link/​registry-​policies/​](http://uniregistry.link/registry-policies/) |
+| .hiphop | Tucows Registry | Canada | Yes | [http:/​/​uniregistry.link/​registry-​policies/​](http://uniregistry.link/registry-policies/) |
+| .hiv | Tucows Registry | Canada | Yes | [http:/​/​uniregistry.link/​registry-​policies/​](http://uniregistry.link/registry-policies/) |
+| .hockey | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .holdings | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .holiday | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .homes | CentralNic Ltd | United Kingdom | Yes | [https:/​/​nic.homes/​registry-​policies](https://nic.homes/registry-policies) |
+| .horse | GoDaddy Registry | United States | Yes | [http:/​/​mmx.co/​policies/​](http://mmx.co/policies/) |
+| .hospital | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .host | CentralNic Ltd | United Kingdom | Yes | [https:/​/​radix.website/​policies/​](https://radix.website/policies/) |
+| .hosting | CentralNic Ltd | United Kingdom | Yes | [http:/​/​uniregistry.link/​registry-​policies/​](http://uniregistry.link/registry-policies/) |
+| .house | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .icu | CentralNic Ltd | United Kingdom | Yes | [https:/​/​nic.icu/​policies/​](https://nic.icu/policies/) |
+| .im | Domicilium (IoM) Ltd | United Kingdom | Yes | [https:/​/​www.nic.im/​public/​terms.mth](https://www.nic.im/public/terms.mth) |
+| .immo | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .immobilien | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .industries | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .info | Identity Digital Inc. | United States | No  | [https:/​/​afilias.info/​policies](https://afilias.info/policies) |
+| .ink | GoDaddy Registry | United States | Yes | [https:/​/​toplevel.design/​policy/​](https://toplevel.design/policy/) |
+| .institute | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .insure | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .international | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .investments | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .io | Identity Digital Inc. | United States | Yes | [https:/​/​www.nic.io/​policy.htm](https://www.nic.io/policy.htm) |
+| .irish | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .is | Internet á Íslandi hf. (ISNIC) | Iceland | Yes | [https:/​/​isnic.is/​en/​domain/​rules](https://isnic.is/en/domain/rules) |
+| .it | Registro.it | Italy | Yes | [http:/​/​www.nic.it/​en/​views/​docs?field\_doc\_categoria\_tid=179](http://www.nic.it/en/views/docs?field_doc_categoria_tid=179) |
+| .jetzt | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .jewelry | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .juegos | Tucows Registry | Canada | Yes | [http:/​/​uniregistry.link/​registry-​policies/​](http://uniregistry.link/registry-policies/) |
+| .kaufen | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .kids | Identity Digital Inc. | United States | Yes | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .kitchen | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .land | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .lawyer | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .lease | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .legal | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .li | SWITCH | Switzerland | Yes | [https:/​/​www.nic.ch/​terms/​agb/​](https://www.nic.ch/terms/agb/) |
+| .life | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .lifestyle | Tucows Registry | Canada | Yes | [https:/​/​internetnaming.co/​resources](https://internetnaming.co/resources) |
+| .lighting | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .limited | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .limo | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .link | Tucows Registry | Canada | Yes | [http:/​/​uniregistry.link/​registry-​policies/​](http://uniregistry.link/registry-policies/) |
+| .live | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .living | Tucows Registry | Canada | Yes | [https:/​/​internetnaming.co/​resources](https://internetnaming.co/resources) |
+| .llc | Identity Digital Inc. | United States | No  | [https:/​/​get.llc/​about/​afilias-​anti-​abuse-​policy](https://get.llc/about/afilias-anti-abuse-policy) |
+| .loan | GoDaddy Registry | United States | Yes | [http:/​/​nic.loan/​resources.html](http://nic.loan/resources.html) |
+| .loans | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .lol | CentralNic Ltd | United Kingdom | Yes | [http:/​/​uniregistry.link/​registry-​policies/​](http://uniregistry.link/registry-policies/) |
+| .love | Tucows Registry | Canada | Yes | [http:/​/​get.love/​wp-​content/​uploads/​2015/​05/​Policies-​dotlove-​201504234.pdf](http://get.love/wp-content/uploads/2015/05/Policies-dotlove-201504234.pdf) |
+| .ltd | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .luxury | CentralNic Ltd | United Kingdom | Yes | [https:/​/​nic.luxury/​](https://nic.luxury/) |
+| .maison | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .makeup | CentralNic Ltd | United Kingdom | Yes | [https:/​/​nic.makeup/​registry-​policies](https://nic.makeup/registry-policies) |
+| .management | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .market | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .marketing | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .markets | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .mba | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .me | Identity Digital Inc. | United States | Yes | [https:/​/​domain.me/​policies/​](https://domain.me/policies/) |
+| .media | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .meme | Google Registry | United States | No  | [https:/​/​www.registry.google/​about/​domains.html](https://www.registry.google/about/domains.html) |
+| .memorial | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .men | GoDaddy Registry | United States | Yes | [http:/​/​nic.men/​resources.html](http://nic.men/resources.html) |
+| .mobi | Identity Digital Inc. | United States | No  | [https:/​/​dotmobi.mobi/​about/​afilias-​anti-​abuse-​policy](https://dotmobi.mobi/about/afilias-anti-abuse-policy) |
+| .moda | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .mom | CentralNic Ltd | United Kingdom | Yes | [http:/​/​uniregistry.link/​registry-​policies/​](http://uniregistry.link/registry-policies/) |
+| .money | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .monster | CentralNic Ltd | United Kingdom | Yes | [https:/​/​nic.monster/​registry-​policies](https://nic.monster/registry-policies) |
+| .mortgage | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .motorcycles | CentralNic Ltd | United Kingdom | Yes | [https:/​/​nic.motorcycles/​registry-​policies](https://nic.motorcycles/registry-policies) |
+| .mov | Google Registry | United States | No  | [https:/​/​www.registry.google/​about/​domains.html](https://www.registry.google/about/domains.html) |
+| .movie | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .name | VeriSign, Inc. | United States | Yes | [https:/​/​www.verisign.com/​en\_US/​domain-​names/​name-​domains/​](https://www.verisign.com/en_US/domain-names/name-domains/) |
+| .navy | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .net | VeriSign, Inc. | United States | No  | [https:/​/​www.verisign.com/​en\_US/​domain-​names/​net-​domain-​names/​](https://www.verisign.com/en_US/domain-names/net-domain-names/) |
+| .network | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .news | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .ninja | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .nl | SIDN | Netherlands | Yes | [https:/​/​www.sidn.nl/​a/​about-​sidn/​general-​terms-​and-​conditions](https://www.sidn.nl/a/about-sidn/general-terms-and-conditions) |
+| .no | UNINETT Norid AS | Norway | Yes | [https:/​/​www.norid.no/​en/​regelverk/​navnepolitikk](https://www.norid.no/en/regelverk/navnepolitikk) |
+| .nu | Internetstiftelsen i Sverige (IIS) | Sweden | Yes | [https:/​/​www.iis.se/​english/​domains/​se/​terms-​and-​conditions/​](https://www.iis.se/english/domains/se/terms-and-conditions/) |
+| .online | CentralNic Ltd | United Kingdom | Yes | [https:/​/​radix.website/​policies/​](https://radix.website/policies/) |
+| .ooo | CentralNic Ltd | United Kingdom | Yes | [http:/​/​www.nic.ooo/​policies/​ooo-​policies](http://www.nic.ooo/policies/ooo-policies) |
+| .org | Public Interest Registry | United States | Yes | [http:/​/​pir.org/​policies/​](http://pir.org/policies/) |
+| .organic | Identity Digital Inc. | United States | No  | [https:/​/​afilias.info/​policies](https://afilias.info/policies) |
+| .page | Google Registry | United States | No  | [https:/​/​www.registry.google/​about/​domains.html](https://www.registry.google/about/domains.html) |
+| .partners | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .parts | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .party | GoDaddy Registry | United States | Yes | [http:/​/​nic.party/​resources.html](http://nic.party/resources.html) |
+| .pet | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .phd | Google Registry | United States | No  | [https:/​/​www.registry.google/​about/​domains.html](https://www.registry.google/about/domains.html) |
+| .photo | GoDaddy Registry | United States | Yes | [http:/​/​uniregistry.link/​registry-​policies/​](http://uniregistry.link/registry-policies/) |
+| .photography | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .photos | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .pics | CentralNic Ltd | United Kingdom | Yes | [http:/​/​uniregistry.link/​registry-​policies/​](http://uniregistry.link/registry-policies/) |
+| .pictures | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .pizza | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .pl | NASK | Poland | Yes | [https:/​/​dns.pl/​en/​pl\_domain\_name\_regulations](https://dns.pl/en/pl_domain_name_regulations) |
+| .place | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .plumbing | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .plus | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .pm | AFNIC | France | Yes | [https:/​/​www.afnic.fr/​en/​resources/​reference/​registry-​policies/​](https://www.afnic.fr/en/resources/reference/registry-policies/) |
+| .press | CentralNic Ltd | United Kingdom | Yes | [https:/​/​radix.website/​policies/​](https://radix.website/policies/) |
+| .pro | Identity Digital Inc. | United States | No  | [https:/​/​registry.pro/​about/​afilias-​anti-​abuse-​policy](https://registry.pro/about/afilias-anti-abuse-policy) |
+| .productions | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .prof | Google Registry | United States | No  | [https:/​/​www.registry.google/​about/​domains.html](https://www.registry.google/about/domains.html) |
+| .properties | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .property | Tucows Registry | Canada | Yes | [http:/​/​uniregistry.link/​registry-​policies/​](http://uniregistry.link/registry-policies/) |
+| .pt | DNS.PT | Portugal | Yes | [https:/​/​www.dns.pt/​en/​domain/​domain-​rules/​preamble/​](https://www.dns.pt/en/domain/domain-rules/preamble/) |
+| .pub | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .pw | CentralNic Ltd | United Kingdom | Yes | [https:/​/​registry.pw/​policies/​](https://registry.pw/policies/) |
+| .quest | CentralNic Ltd | United Kingdom | Yes | [https:/​/​nic.quest/​registry-​policies](https://nic.quest/registry-policies) |
+| .racing | GoDaddy Registry | United States | Yes | [http:/​/​nic.racing/​resources.html](http://nic.racing/resources.html) |
+| .re | AFNIC | France | Yes | [https:/​/​www.afnic.fr/​en/​resources/​reference/​registry-​policies/​](https://www.afnic.fr/en/resources/reference/registry-policies/) |
+| .recipes | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .red | Identity Digital Inc. | United States | No  | [https:/​/​afilias.info/​policies](https://afilias.info/policies) |
+| .rehab | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .reise | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .reisen | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .rent | CentralNic Ltd | United Kingdom | Yes | [https:/​/​nic.rent/​registry-​policies](https://nic.rent/registry-policies) |
+| .rentals | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .repair | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .report | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .republican | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .rest | Tucows Registry | Canada | Yes | [http:/​/​www.register.rest/​policies/​](http://www.register.rest/policies/) |
+| .restaurant | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .review | GoDaddy Registry | United States | Yes | [http:/​/​nic.review/​resources.html](http://nic.review/resources.html) |
+| .reviews | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .rip | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .rocks | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .rodeo | GoDaddy Registry | United States | Yes | [http:/​/​mmx.co/​policies/​](http://mmx.co/policies/) |
+| .run | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .sale | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .salon | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .sarl | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .school | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .schule | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .science | GoDaddy Registry | United States | Yes | [http:/​/​nic.science/​resources.html](http://nic.science/resources.html) |
+| .se | Internetstiftelsen i Sverige (IIS) | Sweden | Yes | [https:/​/​www.iis.se/​english/​domains/​se/​terms-​and-​conditions/​](https://www.iis.se/english/domains/se/terms-and-conditions/) |
+| .services | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .sexy | Tucows Registry | Canada | Yes | [http:/​/​uniregistry.link/​registry-​policies/​](http://uniregistry.link/registry-policies/) |
+| .sh | Identity Digital Inc. | United States | Yes | [https:/​/​www.nic.sh/​policy.htm](https://www.nic.sh/policy.htm) |
+| .shoes | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .shop | GMO Registry, Inc. | Japan | Yes | [https:/​/​nic.shop/​#Anc\_policies](https://nic.shop/#Anc_policies) |
+| .shopping | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .show | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .singles | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .site | CentralNic Ltd | United Kingdom | Yes | [https:/​/​radix.website/​policies/​](https://radix.website/policies/) |
+| .ski | Identity Digital Inc. | United States | No  | [https:/​/​domains.ski/​about/​afilias-​anti-​abuse-​policy](https://domains.ski/about/afilias-anti-abuse-policy) |
+| .skin | CentralNic Ltd | United Kingdom | Yes | [https:/​/​nic.skin/​registry-​policies](https://nic.skin/registry-policies) |
+| .soccer | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .social | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .software | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .solar | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .solutions | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .spa | Identity Digital Inc. | United States | No  | [https:/​/​www.nic.spa/​doc/​](https://www.nic.spa/doc/) |
+| .space | CentralNic Ltd | United Kingdom | Yes | [https:/​/​radix.website/​policies/​](https://radix.website/policies/) |
+| .store | CentralNic Ltd | United Kingdom | Yes | [https:/​/​radix.website/​policies/​](https://radix.website/policies/) |
+| .stream | GoDaddy Registry | United States | Yes | [http:/​/​nic.stream/​resources.html](http://nic.stream/resources.html) |
+| .studio | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .style | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .supplies | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .supply | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .support | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .surf | GoDaddy Registry | United States | Yes | [http:/​/​mmx.co/​policies/​](http://mmx.co/policies/) |
+| .surgery | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .systems | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .tattoo | GoDaddy Registry | United States | Yes | [http:/​/​uniregistry.link/​registry-​policies/​](http://uniregistry.link/registry-policies/) |
+| .tax | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .taxi | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .team | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .tech | CentralNic Ltd | United Kingdom | Yes | [https:/​/​radix.website/​policies/​](https://radix.website/policies/) |
+| .technology | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .tennis | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .tf | AFNIC | France | Yes | [https:/​/​www.afnic.fr/​en/​resources/​reference/​registry-​policies/​](https://www.afnic.fr/en/resources/reference/registry-policies/) |
+| .theater | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .tienda | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .tips | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .tires | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .today | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .tools | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .tours | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .town | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .toys | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .trade | GoDaddy Registry | United States | Yes | [http:/​/​nic.trade/​resources.html](http://nic.trade/resources.html) |
+| .trading | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .training | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .travel | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .tv | GoDaddy Registry | United States | Yes | [https:/​/​turnon.tv/​policies](https://turnon.tv/policies) |
+| .tw | GoDaddy Registry | United States | Yes | [https:/​/​www.twnic.net.tw/​en\_dnservice\_giuldlines.php](https://www.twnic.net.tw/en_dnservice_giuldlines.php) |
+| .uk | Nominet UK | United Kingdom | Yes | [https:/​/​www.nominet.uk/​go/​terms](https://www.nominet.uk/go/terms) |
+| .university | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .uno | CentralNic Ltd | United Kingdom | Yes | [https:/​/​radix.website/​policies/​](https://radix.website/policies/) |
+| .us | GoDaddy Registry | United States | Yes | [http:/​/​www.about.us/​policies](http://www.about.us/policies) |
+| .vacations | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .ventures | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .vet | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .vg | CentralNic Ltd | United Kingdom | Yes | [https:/​/​nic.vg/​legal.php](https://nic.vg/legal.php) |
+| .viajes | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .video | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .villas | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .vin | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .vip | GoDaddy Registry | United States | Yes | [http:/​/​mmx.co/​policies/​](http://mmx.co/policies/) |
+| .vision | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .vodka | GoDaddy Registry | United States | Yes | [http:/​/​mmx.co/​policies/​](http://mmx.co/policies/) |
+| .voyage | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .watch | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .webcam | GoDaddy Registry | United States | Yes | [http:/​/​nic.webcam/​resources.html](http://nic.webcam/resources.html) |
+| .website | CentralNic Ltd | United Kingdom | Yes | [https:/​/​radix.website/​policies/​](https://radix.website/policies/) |
+| .wedding | GoDaddy Registry | United States | Yes | [http:/​/​mmx.co/​policies/​](http://mmx.co/policies/) |
+| .wf | AFNIC | France | Yes | [https:/​/​www.afnic.fr/​en/​resources/​reference/​registry-​policies/​](https://www.afnic.fr/en/resources/reference/registry-policies/) |
+| .wiki | GoDaddy Registry | United States | Yes | [https:/​/​toplevel.design/​policy/​](https://toplevel.design/policy/) |
+| .win | GoDaddy Registry | United States | Yes | [http:/​/​nic.win/​resources.html](http://nic.win/resources.html) |
+| .wine | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .work | GoDaddy Registry | United States | Yes | [http:/​/​mmx.co/​policies/​](http://mmx.co/policies/) |
+| .works | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .world | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .wtf | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .xyz | CentralNic Ltd | United Kingdom | Yes | [https:/​/​nic.xyz/​files/​XYZ-​domain-​name-​policies.pdf?v=2.0](https://nic.xyz/files/XYZ-domain-name-policies.pdf?v=2.0) |
+| .yachts | CentralNic Ltd | United Kingdom | Yes | [https:/​/​nic.yachts/​registry-​policies](https://nic.yachts/registry-policies) |
+| .yoga | GoDaddy Registry | United States | Yes | [http:/​/​mmx.co/​policies/​](http://mmx.co/policies/) |
+| .yt | AFNIC | France | Yes | [https:/​/​www.afnic.fr/​en/​resources/​reference/​registry-​policies/​](https://www.afnic.fr/en/resources/reference/registry-policies/) |
+| .zip | Google Registry | United States | No  | [https:/​/​www.registry.google/​about/​domains.html](https://www.registry.google/about/domains.html) |
+| .zone | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
 
   
 
@@ -821,7 +821,7 @@ Here are some additional security recommendations that the Data Controller shoul
 | --- | --- |
 | [Web hosting](https://domainname.shop/web)  <br>[Read more / order](https://domainname.shop/web)  <br>[Get started](https://domainname.shop/faq?section=17)  <br>[Install Joomla](https://domainname.shop/faq?id=253)  <br>[Install WordPress](https://domainname.shop/faq?id=220) | [Help](https://domainname.shop/support)  <br>[Frequently asked questions](https://domainname.shop/faq)  <br>[Contact us](https://domainname.shop/contact)  <br>[Service announcements](https://domainname.shop/status)  <br>[Sign up](https://domainname.shop/order)  <br>[Price list](https://domainname.shop/pricelist) |
 
- [![](/png/picts/mail-white.png) support@domainnameshop.com](https://domainname.shop/contact) [![](/png/picts/phone-white.png) +47 2294 3333 (09-16)](https://domainname.shop/contact)
+ [![](/png/picts/mail-white.png) support@domainnameshop.com](https://domainname.shop/contact) [![](/png/picts/phone-white.png) +47 2294 3333 (08-17)](https://domainname.shop/contact)
 
 [![](/png/picts/rss-white.png)](https://domainname.shop/rss/en/news.rdf)  [![](/png/picts/facebook-white.png)](https://facebook.com/domeneshop)  [![](/png/picts/x-white.png)](https://twitter.com/domeneshop)  
 

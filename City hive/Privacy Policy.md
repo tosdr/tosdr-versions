@@ -67,9 +67,9 @@
     
     [Login](https://distributors.cityhive.net/)
     
-    [Get a Demo](https://www.cityhive.net/distributors/get-a-demo)
+    [Sign Up](https://www.cityhive.net/distributors/sign-up/)
     
-    [Contact Customer Service](https://www.cityhive.net/contact-cs)
+    [Get a Demo](https://www.cityhive.net/distributors/get-a-demo)
     
 * [Suppliers](https://www.cityhive.net/suppliers/)
 * [Partners](https://www.cityhive.net/partners/)
@@ -109,6 +109,7 @@ X
     * [Suppliers](https://www.cityhive.net/suppliers/get-a-demo)
 * Sign Up
     * [Merchants](https://merchants.cityhive.net/signup.html?mref=cityhive)
+    * [Distributors](https://www.cityhive.net/distributors/sign-up/)
     * [Suppliers](https://suppliers.cityhive.net/signup.html?header)
 
 * Get A Demo
@@ -117,6 +118,7 @@ X
     * [Suppliers](https://www.cityhive.net/suppliers/get-a-demo)
 * Sign Up
     * [Merchants](https://merchants.cityhive.net/signup.html?mref=cityhive)
+    * [Distributors](https://www.cityhive.net/distributors/sign-up/)
     * [Suppliers](https://suppliers.cityhive.net/signup.html?header)
 
 Privacy Policy
@@ -187,6 +189,7 @@ legal@cityhive.net
 * [Pricing](https://www.cityhive.net/retailers/pricing/)
 * [Onboarding](https://www.cityhive.net/retailers/onboarding/)
 * [New Features](https://www.cityhive.net/retailers/new-features/)
+* [Sign Up](https://merchants.cityhive.net/signup.html?mref=cityhive)
 
 ### Distributors
 
@@ -201,16 +204,19 @@ legal@cityhive.net
 
 * [Pricing](https://www.cityhive.net/distributors/pricing/)
 * [Onboarding](https://www.cityhive.net/distributors/onboarding/)
+* [Sign Up](https://www.cityhive.net/distributors/sign-up/)
 
 ### Suppliers
 
 * [Overview](https://www.cityhive.net/suppliers/)
 * [Get a Demo](https://www.cityhive.net/suppliers/get-a-demo/)
-* [Sign Up](https://suppliers.cityhive.net/signup.html?header)
+* [Sign Up](https://suppliers.cityhive.net/signup.html)
 
 ### Partners
 
 * [Become a City Hive Partner](https://www.cityhive.net/partners)
+
+* [Partner Program Details](https://www.cityhive.net/partner-program)
 
 ### City Hive
 

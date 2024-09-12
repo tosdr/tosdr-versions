@@ -24,19 +24,19 @@ Request a demo
 
 Solutions
 
-_chevron\_right_
+_expand\_more_
 
 Products
 
-_chevron\_right_
+_expand\_more_
 
 Industries
 
-_chevron\_right_
+_expand\_more_
 
 Resources
 
-_chevron\_right_
+_expand\_more_
 
 More
 
@@ -288,6 +288,8 @@ You may request a copy of this Privacy Policy from us using the contact details 
 
 If we materially change this Privacy Policy, we will notify you of the changes. Where changes to this Privacy Policy will have a fundamental impact on the nature of the processing or otherwise have a substantial impact on you, we will give you sufficient advance notice so that you have the opportunity to exercise your rights (e.g., to object to the processing).
 
+**Last Updated: April 18, 2024**
+
 ![Diligent](/_next/image?url=%2Flogo%2Fdiligent_logo_reversed_rgb.svg&w=384&q=75)
 
 ### SolutionsSolutions
@@ -319,7 +321,7 @@ At our core, transparency is key. We prioritize your privacy by providing clear 
 
 [Privacy Policy](https://boarddocs.com/legal/privacy)[Terms of use](https://boarddocs.com/legal/terms-of-use)[Cookie Policy](https://boarddocs.com/legal/cookie-policy)[Digital Services Act](https://boarddocs.com/legal/digital-services-act)
 
-[Your Privacy Choices](https://diligentlegal.results.highbond.com/survey_responses/9Wrc_yiuertX-uLJ4bJA/edit)[Trust Center](https://boarddocs.com/trust)[Vulnerability Disclosure Program](https://boarddocs.com/vulnerability-disclosure-program)[Modern Slavery Statement](https://boarddocs.com/legal/modern-slavery)
+[Your Privacy Choices](https://diligentlegal.results.highbond.com/survey_responses/9Wrc_yiuertX-uLJ4bJA/edit)[Trust Center](https://boarddocs.com/trust)[Vulnerability Disclosure Program](https://boarddocs.com/vulnerability-disclosure-program)[Modern Slavery Statement](https://boarddocs.com/legal/modern-slavery)[Accessibility Statement](https://boarddocs.com/accessibility-statement)
 
 * * *
 

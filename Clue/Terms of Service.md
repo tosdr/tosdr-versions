@@ -25,12 +25,12 @@ Close main menu
     
     * [Menstrual Cycle](https://helloclue.com/articles/menstrual-cycle)
         
+        * [Mind, mood & emotions](https://helloclue.com/articles/emotions)
         * [Your Vagina](https://helloclue.com/articles/your-vagina)
         * [Puberty](https://helloclue.com/articles/puberty)
         * [Skin & Hair](https://helloclue.com/articles/skin-and-hair)
         * [Diet & Exercise](https://helloclue.com/articles/diet-and-exercise)
         * [Bleeding](https://helloclue.com/articles/bleeding)
-        * [Emotions](https://helloclue.com/articles/emotions)
         * [Miscarriage](https://helloclue.com/articles/miscarriage)
         * [Anatomy](https://helloclue.com/articles/anatomy)
         * [Reviews](https://helloclue.com/articles/reviews)
@@ -308,7 +308,7 @@ _\- End of the revocation policy -_
 
 © 2024 Clue by Biowink GmbH, All rights reserved
 
-v: 64fd18fdb2024-07-26 14:39:38
+v: 9812786cf2024-09-10 08:24:29
 
 English (EN)Português (PT)Español (ES)Deutsch (DE)Français (FR)
 
@@ -361,4 +361,4 @@ English (EN)Português (PT)Español (ES)Deutsch (DE)Français (FR)
 
 © 2024 Clue by Biowink GmbH, All rights reserved
 
-v: 64fd18fdb2024-07-26 14:39:38
+v: 9812786cf2024-09-10 08:24:29

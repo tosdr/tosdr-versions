@@ -402,9 +402,7 @@ COMPANY
 
 * [Our Coaches](https://www.biotrust.com/pages/meet-the-team)
 * [Quality](https://www.biotrust.com/pages/quality)
-* [Our Charities](https://www.biotrust.com/pages/charity)
 * [BioTRUST Blog](https://www.biotrust.com/blog)
-* [We're Hiring](https://careers.smartrecruiters.com/BioTRUSTNutrition)
 * [Reviews](https://www.biotrust.com/pages/reviews)
 
 GET IN TOUCH
@@ -412,7 +410,6 @@ GET IN TOUCH
 
 * [Contact Us](https://helpcenter.biotrust.com/en-US)
 * [Affiliates](https://partners.biotrust.com/)
-* [Brand Ambassador](https://biotrust.grin.live/)
 
 * [](https://www.facebook.com/biotrust/)
 * [](https://www.instagram.com/biotrustnutrition/)

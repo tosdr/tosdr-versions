@@ -1,6 +1,6 @@
- [### ![](/images/promobar/lightning-yellow.svg) Discover the Top 75 Free Courses for August
+ [### ![](/images/promobar/cc-badge-white.svg) 100 Most Popular Courses For September
 
-View](https://www.classcentral.com/report/most-popular-august-2024/)
+View](https://www.classcentral.com/report/most-popular-september-2024/)
 
 Close
 
@@ -385,21 +385,21 @@ Courses from [1000+ universities](https://www.classcentral.com/universities)
 
 [The Report](https://www.classcentral.com/report/)
 
-[![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Freport%2Flearn-generative-ai-llm%2Fdall-e-grok-generative-ai-banner-image%2F?auto=format&ixlib=php-4.1.0&s=97fd6ce49838f63ccbefd70ad8adb897)](https://www.classcentral.com/report/learn-generative-ai-llm/)
+[![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Freport%2F2u-edx-bankruptcy%2F2u-bankruptcy-banner-triple-failure%2F?auto=format&ixlib=php-4.1.0&s=b93d534e7b15fcd8ebdf6e355aa7a6ef)](https://www.classcentral.com/report/2u-edx-bankruptcy/)
 
-#### [9 Weird & Wonderful Ways to Understand GenAI and Large Language Models](https://www.classcentral.com/report/learn-generative-ai-llm/)
+#### [Harvard and MIT’s $800 Million Mistake: The Triple Failure of 2U, edX, and Axim Collaborative](https://www.classcentral.com/report/2u-edx-bankruptcy/)
 
-A human neural network trained on Anime subtitles was used to generate this article.
+The future of Coursera’s only credible alternative for universities rests in the hands of 2U’s creditors.
 
-[Dhawal Shah](https://www.classcentral.com/report/author/dhawal/) Jul 08, 2024
+[Dhawal Shah](https://www.classcentral.com/report/author/dhawal/) Aug 26, 2024
 
 ##### Latest
 
-1. [150+ Universities Just Launched 700+ Free Online Courses. Here’s the Full List.](https://www.classcentral.com/report/new-online-courses/)
-2. [1000+ Courses from Top Med Schools with Free Certificate & CME Credit](https://www.classcentral.com/report/free-medical-certificate-courses/)
-3. [10 Best TypeScript Courses for 2024](https://www.classcentral.com/report/best-typescript-courses/)
-4. [5 Best Free Raspberry Pi Courses for Beginners in 2024](https://www.classcentral.com/report/best-raspberry-pi-courses/)
-5. [Learn Something New: 75 Most Popular Courses For August](https://www.classcentral.com/report/most-popular-august-2024/)
+1. [\[2024\] 1800+ Coursera Courses Still Completely Free](https://www.classcentral.com/report/coursera-free-online-courses/)
+2. [7 Best Autodesk Maya Courses for 2024: Exploring 3D Animation](https://www.classcentral.com/report/best-autodesk-maya-courses/)
+3. [\[2024\] The 100 Top FREE EdX Courses of All Time](https://www.classcentral.com/report/edx-top-courses/)
+4. [15 Best Lisp Courses for 2024](https://www.classcentral.com/report/best-lisp-courses/)
+5. [8 Best Adobe XD Courses for 2024](https://www.classcentral.com/report/best-adobe-xd-courses/)
 
 [Visit _The Report_](https://www.classcentral.com/report/)
 
@@ -410,38 +410,38 @@ A human neural network trained on Anime subtitles was used to generate this arti
 Most common
 -----------
 
-1. excel
+1. psychology
     
-2. law
+2. graphic design
     
-3. harvard
+3. html
     
 
 Popular subjects
 ----------------
 
-1. [Cybersecurity
+1. [Communication Skills
     
-    10,846 courses](https://www.classcentral.com/subject/cybersecurity)
-2. [Python
+    3,371 courses](https://www.classcentral.com/subject/communication-skills)
+2. [Data Analysis
     
-    7,253 courses](https://www.classcentral.com/subject/python)
+    6,926 courses](https://www.classcentral.com/subject/data-analysis)
 3. [Digital Marketing
     
-    5,293 courses](https://www.classcentral.com/subject/digital-marketing)
+    5,460 courses](https://www.classcentral.com/subject/digital-marketing)
 
 Popular courses
 ---------------
 
-1. [Aprender
+1. [Greening the Economy: Sustainable Cities
     
-    Universidad Nacional Autónoma de México](https://www.classcentral.com/course/aprendo-4631)
-2. [Know Thyself - The Value and Limits of Self-Knowledge: The Examined Life
+    Lund University](https://www.classcentral.com/course/gte-sustainable-cities-4851)
+2. [Product Management Essentials
     
-    University of Edinburgh](https://www.classcentral.com/course/know-thyself-the-examined-life-432)
-3. [Academic Writing Made Easy
+    University of Maryland, College Park](https://www.classcentral.com/course/product-management-essentials-46400)
+3. [El rol de la digitalización en la transición energética
     
-    Technische Universität München (Technical University of Munich)](https://www.classcentral.com/course/writing-technische-universitat-munchen-academic-w-13157)
+    Galileo University](https://www.classcentral.com/course/energy-universidad-galileo-el-rol-de-la-digitaliz-48104)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 

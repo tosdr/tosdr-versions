@@ -5,12 +5,121 @@
 * Product
     
     Close Product Open Product
+    
+    [Survey tool
+    
+    Create interactive surveys, modern forms or playful quizzes – it’s easy.
+    
+     ![Erstelle Online Umfragen für jede Art von Befragungen](https://easy-feedback.com/wp-content/uploads/2024/01/Erstelle-Online-Umfragen-fuer-jede-Art-von-Befragungen.jpg)](https://easy-feedback.com/survey-tool/) [Result Studio
+    
+    Create interactive, AI-powered reports, analyze your data and share your insights.
+    
+     ![Analysiere und Teile Ergebnisse mit dem Result STUDIO von easyfeedback](https://easy-feedback.com/wp-content/uploads/2024/01/Analysiere-und-teile-deine-Ergebnisse.jpg)](https://easy-feedback.com/result-studio-en/) 
+    
+    It’s so easy to get started with easyfeedback
+    
+    Create questionnaire, invite participants and evaluate survey results.
+    
+    * [Video tutorials](https://easy-feedback.com/videos-for-our-survey-tool/?utm_source=videos&utm_campaign=nav_en)
+    
+    easyfeedback & the Result STUDIO
+    
+    Let our experts advise you on how you can use easyfeedback.
+    
+    * [Book your demo](https://easy-feedback.com/personal-consultation/?utm_source=demo&utm_campaign=nav_en)
+    
+    **Data protection made in Germany** – GDPR | German Server | Certified
+    
 * Solutions
     
     Close Solutions Open Solutions
+    
+     [![Erstelle mit easyfeedback Mitarbeiterbefragungen](https://easy-feedback.com/wp-content/uploads/2024/01/Mitarbeiterbefragung.jpg)](https://easy-feedback.com/employee-feedback-survey-tool/)
+    
+    [Employee Survey](https://easy-feedback.com/employee-feedback-survey-tool/)
+    
+     [![Erstelle mit easyfeedback Kundenbefragungen](https://easy-feedback.com/wp-content/uploads/2024/01/Kundenbefragung.jpg)](https://easy-feedback.com/customer-feedback-survey-tool/)
+    
+    [Customer Survey](https://easy-feedback.com/customer-feedback-survey-tool/)
+    
+     [![Mache 360 Grad Feedbacks mit easyfeedback](https://easy-feedback.com/wp-content/uploads/2024/01/360-Grad-Feedback.jpg)](https://easy-feedback.com/360-degree-feedback/)
+    
+    [360 Degree Feedback](https://easy-feedback.com/360-degree-feedback/)
+    
+    [![Erstelle mit easyfeedback Umfragen für Seminare & Events](https://easy-feedback.com/wp-content/uploads/2024/01/Seminar-Event.jpg)](https://easy-feedback.com/event-feedback-survey-tool/)
+    
+    [Seminar & Event](https://easy-feedback.com/event-feedback-survey-tool/)
+    
+     [![Erstelle mit easyfeedback Marktforschungsumfragen](https://easy-feedback.com/wp-content/uploads/2024/01/Marktforschung.jpg)](https://easy-feedback.com/market-research/)
+    
+    [Market Research](https://easy-feedback.com/market-research/)
+    
+     [![Erstelle mit easyfeedback Umfragen für das Studium und im Bildungswesen](https://easy-feedback.com/wp-content/uploads/2024/01/Studium-und-Bildung.jpg)](https://easy-feedback.com/student-education-survey-tool/)
+    
+    [School & Study](https://easy-feedback.com/student-education-survey-tool/)
+    
+     [![Erstelle mit easyfeedback ein Quiz oder Test](https://easy-feedback.com/wp-content/uploads/2024/01/Quiz-Test.jpg)](https://easy-feedback.com/online-quiz-test/)
+    
+    [Quiz & Test](https://easy-feedback.com/online-quiz-test/)
+    
+     [![Erstelle mit easyfeedback kreative Online-Formulare](https://easy-feedback.com/wp-content/uploads/2024/01/Formulare.jpg)](https://easy-feedback.com/online-form/)
+    
+    [Form](https://easy-feedback.com/online-form/)
+    
+    It’s so easy to get started with easyfeedback
+    
+    Create questionnaire, invite participants and evaluate survey results.
+    
+    * [Video tutorials](https://easy-feedback.com/videos-for-our-survey-tool/?utm_source=videos&utm_campaign=nav_en)
+    
+    easyfeedback & the Result STUDIO
+    
+    Let our experts advise you on how you can use easyfeedback.
+    
+    * [Book your demo](https://easy-feedback.com/personal-consultation/?utm_source=demo&utm_campaign=nav_en)
+    
+    **Data protection made in Germany** – GDPR | German Server | Certified
+    
 * Templates
     
     Close Templates Open Templates
+    
+    Categories – Templates
+    
+    * [Employee Survey](https://easy-feedback.com/survey-templates/)
+    * [Customer Survey](https://easy-feedback.com/survey-templates/)
+    * [360 Degree Feedback](https://easy-feedback.com/survey-templates/)
+    * [Market Research](https://easy-feedback.com/survey-templates/)
+    * [Study & Education](https://easy-feedback.com/survey-templates/)
+    * [Quiz & Test](https://easy-feedback.com/survey-templates/)
+    * [Form](https://easy-feedback.com/survey-templates/)
+    
+    Popular templates
+    
+    * [Employee Satisfaction](https://easy-feedback.com/survey-templates/employee-satisfaction-survey-template/)
+    * [Customer Satisfaction](https://easy-feedback.com/survey-templates/customer-satisfaction-survey-template/)
+    * [360 Degree Feedback](https://easy-feedback.com/survey-templates/360-degree-feedback-survey-template/)
+    * [Net Promoter Score](https://easy-feedback.com/survey-templates/nps-survey-template/)
+    * [Seminar Feedback](https://easy-feedback.com/survey-templates/seminar-feedback-survey-template/)
+    * [Competitor Analysis](https://easy-feedback.com/survey-templates/competitor-analysis-survey-template/)
+    * [User Experience](https://easy-feedback.com/survey-templates/ueq-questionnaire-template/)
+    
+    * [See all templates](https://easy-feedback.com/survey-templates/)
+    
+    It’s so easy to get started with easyfeedback
+    
+    Create questionnaire, invite participants and evaluate survey results.
+    
+    * [Video tutorials](https://easy-feedback.com/videos-for-our-survey-tool/?utm_source=videos&utm_campaign=nav_en)
+    
+    easyfeedback & the Result STUDIO
+    
+    Let our experts advise you on how you can use easyfeedback.
+    
+    * [Book your demo](https://easy-feedback.com/personal-consultation/?utm_source=demo&utm_campaign=nav_en)
+    
+    **Data protection made in Germany** – GDPR | German Server | Certified
+    
 * [Pricing](https://easy-feedback.com/pricing/)
     
 * [Blog](https://easy-feedback.com/blog/)
@@ -26,112 +135,6 @@
 * [Create survey](https://app.easy-feedback.com/register?l=en)
     
 
-[Survey tool
-
-Create interactive surveys, modern forms or playful quizzes – it’s easy.
-
- ![Erstelle Online Umfragen für jede Art von Befragungen](https://easy-feedback.com/wp-content/uploads/2024/01/Erstelle-Online-Umfragen-fuer-jede-Art-von-Befragungen.jpg)](https://easy-feedback.com/survey-tool/) [Result Studio
-
-Create interactive, AI-powered reports, analyze your data and share your insights.
-
- ![Analysiere und Teile Ergebnisse mit dem Result STUDIO von easyfeedback](https://easy-feedback.com/wp-content/uploads/2024/01/Analysiere-und-teile-deine-Ergebnisse.jpg)](https://easy-feedback.com/result-studio-en/) 
-
-It’s so easy to get started with easyfeedback
-
-Create questionnaire, invite participants and evaluate survey results.
-
-* [Video tutorials](https://easy-feedback.com/videos-for-our-survey-tool/?utm_source=videos&utm_campaign=nav_en)
-
-easyfeedback & the Result STUDIO
-
-Let our experts advise you on how you can use easyfeedback.
-
-* [Book your demo](https://easy-feedback.com/personal-consultation/?utm_source=demo&utm_campaign=nav_en)
-
-**Data protection made in Germany** – GDPR | German Server | Certified
-
- [![Erstelle mit easyfeedback Mitarbeiterbefragungen](https://easy-feedback.com/wp-content/uploads/2024/01/Mitarbeiterbefragung.jpg)](https://easy-feedback.com/employee-feedback-survey-tool/)
-
-[Employee Survey](https://easy-feedback.com/employee-feedback-survey-tool/)
-
- [![Erstelle mit easyfeedback Kundenbefragungen](https://easy-feedback.com/wp-content/uploads/2024/01/Kundenbefragung.jpg)](https://easy-feedback.com/customer-feedback-survey-tool/)
-
-[Customer Survey](https://easy-feedback.com/customer-feedback-survey-tool/)
-
- [![Mache 360 Grad Feedbacks mit easyfeedback](https://easy-feedback.com/wp-content/uploads/2024/01/360-Grad-Feedback.jpg)](https://easy-feedback.com/360-degree-feedback/)
-
-[360 Degree Feedback](https://easy-feedback.com/360-degree-feedback/)
-
-[![Erstelle mit easyfeedback Umfragen für Seminare & Events](https://easy-feedback.com/wp-content/uploads/2024/01/Seminar-Event.jpg)](https://easy-feedback.com/event-feedback-survey-tool/)
-
-[Seminar & Event](https://easy-feedback.com/event-feedback-survey-tool/)
-
- [![Erstelle mit easyfeedback Marktforschungsumfragen](https://easy-feedback.com/wp-content/uploads/2024/01/Marktforschung.jpg)](https://easy-feedback.com/market-research/)
-
-[Market Research](https://easy-feedback.com/market-research/)
-
- [![Erstelle mit easyfeedback Umfragen für das Studium und im Bildungswesen](https://easy-feedback.com/wp-content/uploads/2024/01/Studium-und-Bildung.jpg)](https://easy-feedback.com/student-education-survey-tool/)
-
-[School & Study](https://easy-feedback.com/student-education-survey-tool/)
-
- [![Erstelle mit easyfeedback ein Quiz oder Test](https://easy-feedback.com/wp-content/uploads/2024/01/Quiz-Test.jpg)](https://easy-feedback.com/online-quiz-test/)
-
-[Quiz & Test](https://easy-feedback.com/online-quiz-test/)
-
- [![Erstelle mit easyfeedback kreative Online-Formulare](https://easy-feedback.com/wp-content/uploads/2024/01/Formulare.jpg)](https://easy-feedback.com/online-form/)
-
-[Form](https://easy-feedback.com/online-form/)
-
-It’s so easy to get started with easyfeedback
-
-Create questionnaire, invite participants and evaluate survey results.
-
-* [Video tutorials](https://easy-feedback.com/videos-for-our-survey-tool/?utm_source=videos&utm_campaign=nav_en)
-
-easyfeedback & the Result STUDIO
-
-Let our experts advise you on how you can use easyfeedback.
-
-* [Book your demo](https://easy-feedback.com/personal-consultation/?utm_source=demo&utm_campaign=nav_en)
-
-**Data protection made in Germany** – GDPR | German Server | Certified
-
-Categories – Templates
-
-* [Employee Survey](https://easy-feedback.com/survey-templates/)
-* [Customer Survey](https://easy-feedback.com/survey-templates/)
-* [360 Degree Feedback](https://easy-feedback.com/survey-templates/)
-* [Market Research](https://easy-feedback.com/survey-templates/)
-* [Study & Education](https://easy-feedback.com/survey-templates/)
-* [Quiz & Test](https://easy-feedback.com/survey-templates/)
-* [Form](https://easy-feedback.com/survey-templates/)
-
-Popular templates
-
-* [Employee Satisfaction](https://easy-feedback.com/survey-templates/employee-satisfaction-survey-template/)
-* [Customer Satisfaction](https://easy-feedback.com/survey-templates/customer-satisfaction-survey-template/)
-* [360 Degree Feedback](https://easy-feedback.com/survey-templates/360-degree-feedback-survey-template/)
-* [Net Promoter Score](https://easy-feedback.com/survey-templates/nps-survey-template/)
-* [Seminar Feedback](https://easy-feedback.com/survey-templates/seminar-feedback-survey-template/)
-* [Competitor Analysis](https://easy-feedback.com/survey-templates/competitor-analysis-survey-template/)
-* [User Experience](https://easy-feedback.com/survey-templates/ueq-questionnaire-template/)
-
-* [See all templates](https://easy-feedback.com/survey-templates/)
-
-It’s so easy to get started with easyfeedback
-
-Create questionnaire, invite participants and evaluate survey results.
-
-* [Video tutorials](https://easy-feedback.com/videos-for-our-survey-tool/?utm_source=videos&utm_campaign=nav_en)
-
-easyfeedback & the Result STUDIO
-
-Let our experts advise you on how you can use easyfeedback.
-
-* [Book your demo](https://easy-feedback.com/personal-consultation/?utm_source=demo&utm_campaign=nav_en)
-
-**Data protection made in Germany** – GDPR | German Server | Certified
-
 [Login](https://app.easy-feedback.com/login?l=en)
 
 [Create survey](https://app.easy-feedback.com/register?l=en)
@@ -139,6 +142,8 @@ Let our experts advise you on how you can use easyfeedback.
 [EN](https://easy-feedback.com/privacy/privacy-policy/)
 
 * [DE](https://easy-feedback.de/privacy/datenschutzerklaerung/)
+
+easyfeedback will be at the Zukunft Personal Europe trade fair in Cologne from 10.09. – 12.09.2024. During the trade exhibition, we can only offer you limited support by e-mail. From 13.09.2024 our support will be available for you again as usual.
 
 Secure German data protection
 -----------------------------

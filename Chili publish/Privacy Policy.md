@@ -19,7 +19,7 @@ Why CHILI GraFx ?
 
 [Impact](https://www.chili-publish.com/grafx/impact/)[Multichannel Graphics Production](https://www.chili-publish.com/grafx/impact/one-stop-shop-for-all-creative-production/)[Integrated Data Operations](https://www.chili-publish.com/grafx/impact/ready-to-connect-to-your-data-and-tech-stacks/)[Brand Enablement At Scale](https://www.chili-publish.com/grafx/impact/enable-non-designers-to-self-serve-design-assets/)[API-First Development & Metrics](https://www.chili-publish.com/grafx/impact/produce-graphics-at-scale-and-remain-in-control/)[Watch our Demo Videos](https://www.chili-publish.com/chili-grafx-powering-creative-automation-at-scale/)
 
-[Platform](https://www.chili-publish.com/grafx/platform/)[CHILI GraFx boosts your digital and print media creation at any scale](https://www.chili-publish.com/grafx/platform/)
+[Platform](https://www.chili-publish.com/grafx/platform/)[Create, Automate, & Publish... at Scale](https://www.chili-publish.com/grafx/platform/)[Connector Framework](https://www.chili-publish.com/grafx/platform/connectors/)
 
 [Pricing](https://www.chili-publish.com/grafx/pricing/)[Understand our pricing structure](https://www.chili-publish.com/grafx/pricing/)
 
@@ -35,13 +35,17 @@ Solutions
 
 By Use Case
 
-[Creative Automation](https://www.chili-publish.com/creative-automation-solution/)
+[Multichannel Graphic Production](https://www.chili-publish.com/solution/use-case/multichannel-graphic-production/)
 
-[Brand Portal](https://www.chili-publish.com/brand-portal-software/)
+[Brand Enablement](https://www.chili-publish.com/solution/use-case/brand-enablement/)
 
-[Web2Print](https://www.chili-publish.com/web-to-print-software-a/)
+[Web-to-Print Automation](https://www.chili-publish.com/solution/use-case/web-to-print-automation/)
 
-[Variable Data Printing](https://www.chili-publish.com/variable-data-printing-software/)
+[Variable Data Printing (Batch output)](https://www.chili-publish.com/solution/use-case/variable-data-printing-vdp/)
+
+[Social Media Visuals](https://www.chili-publish.com/solution/use-case/social-media-visuals/)
+
+[E-Commerce Graphics](https://www.chili-publish.com/solution/use-case/e-commerce-graphics/)
 
 By Business Type
 
@@ -104,14 +108,6 @@ Explore
 Tune in to CHILIpulse, your go-to channel for the latest CHILI GraFx updates. Pick up new tips and tricks, get direct access to our product organization, and use CHILI GraFx to drive ever more value for your design team.
 
 Listen Now](https://www.chili-publish.com/chilipulse/)
-
-[![](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoIDQgLDwoNDhgYFg0KEBQKFg0NFx8ZGCIfFhUaHysjGh0oHRUWJDUlKC0vMjIyHSI4PTcwPCsxMi8BCgsLDg0OHBAQHC8cFig7OzsvLy8vLy8vLy87OzsvLzsvLy8vLy8vLy8vLzsvLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIAAwAGAMBIgACEQEDEQH/xAAXAAEAAwAAAAAAAAAAAAAAAAAEAAMG/8QAHxAAAQMDBQAAAAAAAAAAAAAAAgADBAEFMREUFSFB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAwQGAf/EABgRAAMBAQAAAAAAAAAAAAAAAAABERIC/9oADAMBAAIRAxEAPwDQW1sggU6Vr75UjaJsNsdhhFlgNGMIbKndYC5anbFEicNOMx4otGOWof/Z)
-
-![](https://www.datocms-assets.com/11099/1692611092-backdrop_create_page-0001-1.jpg?auto=format&corner-radius=6%2C6%2C0%2C0&mask=corners&w=270)
-
-Enjoy instant access to the 23 speaker sessions + other relevant materials from CREATE '23 EU - the 2-day Community Conference for the New Creatives. Register to binge and relive the experience yourself. Enjoy the CREATE Content Hub!
-
-CREATE Content Hub](https://www.chili-publish.com/access-content-hub/)
 
 Company
 
@@ -265,15 +261,15 @@ For specific services, apps or events, we may collect other types of data and us
     
     Would you like to view or improve your data?
     
-    You may adjust your personal data. Contact us at [privacy@chili-publish.com](mailto:&#x70;&#x72;&#x69;&#118;&#x61;&#x63;&#121;&#64;&#99;&#x68;&#x69;&#108;&#x69;&#x2d;&#112;&#x75;&#98;&#108;&#x69;&#115;&#104;&#x2e;&#99;&#111;&#x6d;)
+    You may adjust your personal data. Contact us at [privacy@chili-publish.com](mailto:&#x70;&#x72;&#105;&#x76;&#x61;&#99;&#121;&#x40;&#99;&#x68;&#x69;&#108;&#x69;&#45;&#112;&#x75;&#98;&#108;&#105;&#115;&#x68;&#46;&#x63;&#x6f;&#x6d;)
     
     Would you like to unsubscribe from the CHILI publish newsletter?
     
     This is possible using the link at the bottom of each mail or via this preference page.
     
-    If you are not successful in removing your data via the preference page, or if you would like to invoke any other right you hold according to the General Data Protection Regulation (such as the removal of your data), you can submit a written request for this purpose via [privacy@chili-publish.com](mailto:&#x70;&#x72;&#x69;&#118;&#97;&#x63;&#121;&#64;&#99;&#x68;&#105;&#x6c;&#x69;&#x2d;&#x70;&#117;&#98;&#108;&#105;&#x73;&#104;&#46;&#99;&#x6f;&#109;) or CHILI publish NV, att Privacy, Korte Keppestraat 9, bus 11, 9320 Erembodegem, Belgium. To be certain that only you receive access to your data, we ask that you include a copy of your identification (front only).
+    If you are not successful in removing your data via the preference page, or if you would like to invoke any other right you hold according to the General Data Protection Regulation (such as the removal of your data), you can submit a written request for this purpose via [privacy@chili-publish.com](mailto:&#112;&#114;&#x69;&#x76;&#x61;&#99;&#121;&#x40;&#99;&#104;&#105;&#x6c;&#x69;&#x2d;&#112;&#x75;&#98;&#108;&#x69;&#x73;&#x68;&#46;&#99;&#x6f;&#x6d;) or CHILI publish NV, att Privacy, Korte Keppestraat 9, bus 11, 9320 Erembodegem, Belgium. To be certain that only you receive access to your data, we ask that you include a copy of your identification (front only).
     
-    You can also contact us via [privacy@chili-publish.com](mailto:&#112;&#x72;&#105;&#x76;&#97;&#99;&#x79;&#64;&#x63;&#104;&#x69;&#x6c;&#105;&#45;&#x70;&#117;&#x62;&#x6c;&#x69;&#x73;&#x68;&#x2e;&#x63;&#x6f;&#109;) if you have any questions, comments or complaints concerning this privacy statement.
+    You can also contact us via [privacy@chili-publish.com](mailto:&#x70;&#114;&#x69;&#x76;&#x61;&#x63;&#121;&#64;&#x63;&#104;&#x69;&#x6c;&#x69;&#x2d;&#x70;&#117;&#98;&#108;&#105;&#x73;&#x68;&#46;&#x63;&#111;&#109;) if you have any questions, comments or complaints concerning this privacy statement.
     
 8. How will this privacy statement be maintained?
     

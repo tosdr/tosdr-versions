@@ -22,7 +22,7 @@ Existing customer? [Login](https://app.cal.com/)
 [Get Started](https://app.cal.com/)
 
 Privacy Policy
---------------
+==============
 
 Effective date: 10/24/2023
 
@@ -346,7 +346,7 @@ Let people book when it works for both of you
 
 [Get Started](https://cal.com/signup)[Contact Sales](https://cal.com/sales)
 
-![Product of the Day](/product-of-the-day.svg)![Product of the Week](/product-of-the-week.svg)![Product of the Month](/product-of-the-month.svg)![Cal.com on Product Hunt](/producthunt.svg)![Cal.com on Google](/google-reviews.svg)![Cal.com on G2](/g2.svg)
+![Product of the Day](/product-of-the-day.svg)![Product of the Week](/product-of-the-week.svg)![Product of the Month](/product-of-the-month.svg)![Cal.com on Google](/google-reviews.svg)![Cal.com on G2](/g2.svg)
 
 ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 

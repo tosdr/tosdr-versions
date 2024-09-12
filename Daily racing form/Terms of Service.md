@@ -93,7 +93,7 @@ Sign Up for Newsletter
 * [Help Center](https://help.drf.com/hc/en-us)
 * [Contact](https://help.drf.com/hc/en-us/articles/217999487-Contact-us)
 * [Advertising](https://www.drf.com/ads/about-drf-advertising)
-* [Site Policies](http://www1.drf.com/about/about_privacy.html)
+* [Privacy Policy](https://www.drf.com/about_privacy)
 * [Sitemap](https://www.drf.com/sitemap.xml)
 * [DRF Form Finder](https://www1.drf.com/formFinder.do)
 * [Careers](https://recruiting2.ultipro.com/AFF1007AFFI/JobBoard/1b6d2bf5-cbb0-42aa-a4fd-70ea874ebe77/?q=&o=postedDateDesc)

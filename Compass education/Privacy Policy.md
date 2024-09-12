@@ -531,9 +531,3 @@ Page details
 Page updated
 
 Report abuse
-
-This site uses cookies from Google to deliver its services and to analyze traffic. Information about your use of this site is shared with Google. By using this site, you agree to its use of cookies.
-
-[Learn more](https://www.google.com/policies/technologies/cookies/)
-
-Got it

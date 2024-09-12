@@ -2,7 +2,11 @@
 
 * [Students](#)
     
-    [Student Portfolio](https://www.cirkledin.com/students/) [Search Colleges](https://www.cirkledin.com/college/) [Colleges with Open Application](https://www.cirkledin.com/college/colleges-apps-2024/) [Search Internships/Jobs](https://www.cirkledin.com/internship-and-jobs/search/) [Search Scholarships](https://www.cirkledin.com/scholarships/) [Student Ambassador](https://www.cirkledin.com/student-ambassador/)
+    [Student Portfolio](https://www.cirkledin.com/students/) [Search Colleges](https://www.cirkledin.com/college/) [Search Internships/Jobs](https://www.cirkledin.com/internship-and-jobs/search/) [Student Ambassador](https://www.cirkledin.com/student-ambassador/)
+    
+* [Search Scholarships](#)
+    
+    [Cirkledin Scholarship](https://www.cirkledin.com/scholarships/) [All Scholarships](https://www.cirkledin.com/scholarships/search/)
     
 * [K-12 Educators](https://www.cirkledin.com/schools/)
 * [Colleges](https://www.cirkledin.com/college/admin/)
@@ -16,7 +20,10 @@
 
 * [Search Colleges](https://www.cirkledin.com/college/)
 * [Search Internships/Jobs](https://www.cirkledin.com/internship-and-jobs/search/)
-* [Search Scholarships](https://www.cirkledin.com/scholarships/)
+* [Search Scholarships](#)
+    
+    [Cirkledin Scholarship](https://www.cirkledin.com/scholarships/) [All Scholarships](https://www.cirkledin.com/scholarships/search/)
+    
 * [Example Profiles](#)
     
     [Elementary student](https://www.cirkledin.com/profile.php?p=gxGYHFJrBlOp37MyobNhvEoCJq2ASnBsz) [Middle school student](https://www.cirkledin.com/profile.php?p=Wo4to63xFBKJmnpYJNvL3ZYCGvyZseWhv) [High school student](https://www.cirkledin.com/profile.php?p=a7cC9hcu5eFpDJtQkGGgFXhqYKQ9oYCev) [College student](https://www.cirkledin.com/profile.php?p=w7TcI6Oc0eBB2kdK46tmMnDDPQJuHWkDm)
@@ -29,7 +36,13 @@
     
 * [My Profile](#)
     
-    [Profile](https://www.cirkledin.com/student-profile) [Search Colleges](https://www.cirkledin.com/college/) [Colleges with Open Application](https://www.cirkledin.com/college/colleges-apps-2024/) [Search Internships/Jobs](https://www.cirkledin.com/internship-and-jobs/search/) [Search Scholarships](https://www.cirkledin.com/scholarships/) [Student Ambassador](https://www.cirkledin.com/student-ambassador/) [Settings](https://www.cirkledin.com/settings) [Subscription](https://www.cirkledin.com/pricing.php) [Logout](https://www.cirkledin.com/logout.php)
+    [Profile](https://www.cirkledin.com/student-profile) [Search Colleges](https://www.cirkledin.com/college/) [Search Internships/Jobs](https://www.cirkledin.com/internship-and-jobs/search/)
+    
+    [Search Scholarships](#)
+    
+    [Cirkledin Scholarship](https://www.cirkledin.com/scholarships/) [All Scholarships](https://www.cirkledin.com/scholarships/search/)
+    
+    [Student Ambassador](https://www.cirkledin.com/student-ambassador/) [Settings](https://www.cirkledin.com/settings) [Subscription](https://www.cirkledin.com/pricing.php) [Logout](https://www.cirkledin.com/logout.php)
     
 
 Cirkled In Privacy Policy

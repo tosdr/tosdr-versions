@@ -79,7 +79,7 @@ Support
     
     [About Us](https://www.bhsubookstore.com/site_about_us.asp?)  
     [Store Hours](https://www.bhsubookstore.com/site_about_us.asp?)  
-    [Find Us](http://maps.google.com/?q=1200%20University%20Street;%20Unit%209001,%20Spearfish,%20SD%2057799-9001)  
+    [Find Us](https://www.google.com/maps/place/BHSU+Bookstore/@44.4965092,-103.8738392,913m/data=!3m3!1e3!4b1!5s0x533299cec859d8d5:0x5bbb899c8c30c105!4m6!3m5!1s0x533299ceb7155319:0xa1876888b87d2bdd!8m2!3d44.4965054!4d-103.8712643!16s%2Fg%2F12hk5pmz9?entry=ttu)  
     [Customer Service](https://www.bhsubookstore.com/site_customer_service.asp?)  
     [Return Policy](https://www.bhsubookstore.com/site_customer_service.asp?#merchreturn)  
     [Shipping Policy](https://www.bhsubookstore.com/site_customer_service.asp?#shippingpolicies)  

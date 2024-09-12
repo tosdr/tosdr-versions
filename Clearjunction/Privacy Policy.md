@@ -296,7 +296,7 @@ We are allowed to disclose your information in the following cases: 7.1 We are a
 
 ![Clear Junction](/wp-content/themes/framework/images/clearjunction-logo-stacked.svg)
 
-© 2016-2024 Clear Junction Holding Limited. All rights reserved.
+© 2016-2024 Clear Junction. All rights reserved.
 
 Clear Junction Limited. Authorised and regulated by the Financial Conduct Authority (FCA) as Electronic Money Institution under Firm Reference Number (FRN) 900684. Registered address: 6th Floor, Manfield House, 1 Southampton Street, London, United Kingdom, WC2R 0LR.  
 Clear Junction Digital Limited. Registered with the Financial Conduct Authority (FCA) as an MLRs-registered cryptoasset business under Firm Reference Number (FRN) 900696. Registered address: 6th Floor, Manfield House, 1 Southampton Street, London, United Kingdom, WC2R 0LR.
@@ -329,7 +329,7 @@ Clear Junction Digital Limited. Registered with the Financial Conduct Authority 
 * [Legal queries](https://clearjunction.com/speak-to-support/)
 * [Speak with an expert](https://clearjunction.com/open-an-account/)
 
-![ISO 27001 Certification](/wp-content/themes/framework/images/iso-27001.png) ![The Payments Association Certification](/wp-content/themes/framework/images/pa-logo.png) ![FT 1000](/wp-content/themes/framework/images/ft1000.svg)
+![ISO 27001 Certification](/wp-content/themes/framework/images/iso-27001.png) ![The Payments Association Certification](/wp-content/themes/framework/images/pa-logo.png) ![FT 1000](/wp-content/themes/framework/images/ft1000.svg) ![Sunday Times 100](/wp-content/themes/framework/images/sunday-d.png)
 
 * [Website Terms of Use](https://clearjunction.com/legal/terms-of-use/)
 * [Privacy Notice](https://clearjunction.com/legal/privacy-notice/)

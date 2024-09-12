@@ -4,7 +4,7 @@ This website requires JavaScript.
 
 [Explore](https://codeberg.org/explore/repos) [About](https://docs.codeberg.org/getting-started/what-is-codeberg/#what-is-codeberg-e.v.%3F) [FAQ](https://docs.codeberg.org/getting-started/faq/) [Donate](https://docs.codeberg.org/improving-codeberg/#donate-to-codeberg) [Help](https://docs.codeberg.org/)
 
-[Register](https://codeberg.org/user/cbrgp/An7JdS3) [Sign In](https://codeberg.org/user/login?redirect_to=%2fCodeberg%2forg%2fsrc%2fbranch%2fmain%2fTermsOfUse.md)
+[Register](https://codeberg.org/user/cbrgp/Jx8aMgH) [Sign In](https://codeberg.org/user/login?redirect_to=%2fCodeberg%2forg%2fsrc%2fbranch%2fmain%2fTermsOfUse.md)
 
 ![Codeberg/org](/repo-avatars/67b24ac1ac2b23c0229a87f0d2d0cccabdc7f490c5a9c70b439c6d140f81e84d)
 
@@ -14,7 +14,7 @@ This website requires JavaScript.
 
 Watch [38](https://codeberg.org/Codeberg/org/watchers)
 
-Star [57](https://codeberg.org/Codeberg/org/stars)
+Star [58](https://codeberg.org/Codeberg/org/stars)
 
 Fork
 
@@ -22,13 +22,13 @@ You've already forked org
 
 [27](https://codeberg.org/Codeberg/org/forks)
 
-[Code](https://codeberg.org/Codeberg/org) [Issues 9](https://codeberg.org/Codeberg/org/issues) [Pull requests 15](https://codeberg.org/Codeberg/org/pulls) [Activity](https://codeberg.org/Codeberg/org/activity)
+[Code](https://codeberg.org/Codeberg/org) [Issues 9](https://codeberg.org/Codeberg/org/issues) [Pull requests 13](https://codeberg.org/Codeberg/org/pulls) [Activity](https://codeberg.org/Codeberg/org/activity)
 
 **main**
 
 [](https://codeberg.org/Codeberg/org/compare/main...main)[org](https://codeberg.org/Codeberg/org/src/branch/main "org")/TermsOfUse.md
 
-![](/avatars/5bf762c71ac84565e8a1773d4fd63744?size=48 "Otto") [**Otto**](https://codeberg.org/fnetX "Otto") [e0cd1ffd02](https://codeberg.org/Codeberg/org/commit/e0cd1ffd0227956593c337bf0157fb80980eab3d) [Language consistency: FOSS/OSS→FLOSS](https://codeberg.org/Codeberg/org/commit/e0cd1ffd0227956593c337bf0157fb80980eab3d)
+![](/avatars/5bf762c71ac84565e8a1773d4fd63744?size=48 "Otto") [**fnetX**](https://codeberg.org/fnetX "fnetX") [e0cd1ffd02](https://codeberg.org/Codeberg/org/commit/e0cd1ffd0227956593c337bf0157fb80980eab3d) [Language consistency: FOSS/OSS→FLOSS](https://codeberg.org/Codeberg/org/commit/e0cd1ffd0227956593c337bf0157fb80980eab3d)
 
 2022-01-22 11:15:12 +01:00
 
@@ -38,7 +38,7 @@ You've already forked org
 
 [](https://codeberg.org/Codeberg/org/src/branch/main/TermsOfUse.md?display=source)[](https://codeberg.org/Codeberg/org/src/branch/main/TermsOfUse.md)
 
-[Raw](https://codeberg.org/Codeberg/org/raw/branch/main/TermsOfUse.md) [Permalink](https://codeberg.org/Codeberg/org/src/commit/975ee655a3f19fc0554f2a3186d86c5f4a1abe7c/TermsOfUse.md) [Blame](https://codeberg.org/Codeberg/org/blame/branch/main/TermsOfUse.md) [History](https://codeberg.org/Codeberg/org/commits/branch/main/TermsOfUse.md)
+[Raw](https://codeberg.org/Codeberg/org/raw/branch/main/TermsOfUse.md) [Permalink](https://codeberg.org/Codeberg/org/src/commit/4b2a2c68549b5e62486f4f9195d2ce0044f5ddb8/TermsOfUse.md) [Blame](https://codeberg.org/Codeberg/org/blame/branch/main/TermsOfUse.md) [History](https://codeberg.org/Codeberg/org/commits/branch/main/TermsOfUse.md)
 
 [](https://codeberg.org/Codeberg/org/raw/branch/main/TermsOfUse.md)[](#)[](https://codeberg.org/Codeberg/org/rss/branch/main/TermsOfUse.md)
 
@@ -172,4 +172,4 @@ Thank you for being an awesome member of the Codeberg Community!
 
 English
 
-Bahasa Indonesia Deutsch English Español Esperanto Filipino Français Italiano Latviešu Magyar nyelv Nederlands Polski Português de Portugal Português do Brasil Slovenščina Suomi Svenska Türkçe Čeština Ελληνικά Български Русский Українська فارسی മലയാളം 日本語 简体中文 繁體中文（台灣） 繁體中文（香港） 한국어
+Bahasa Indonesia Deutsch English Español Esperanto Filipino Français Italiano Latviešu Magyar nyelv Nederlands Polski Português de Portugal Português do Brasil Slovenščina Suomi Svenska Türkçe Čeština Ελληνικά Български Русский Українська فارسی 日本語 简体中文 繁體中文（台灣） 繁體中文（香港） 한국어

@@ -60,7 +60,7 @@ Terms & Conditions
 Terms & Conditions
 ------------------
 
-10August 2008
+August 102008
 
 Text[Dazed Digital](https://www.dazeddigital.com/user/dazeddigital)
 
@@ -126,6 +126,6 @@ These terms shall be governed by and interpreted in accordance with the laws of 
 
 [Contact](https://www.dazeddigital.com/contact) [About](https://www.dazeddigital.com/info/article/824/1/dazed-confused) [Jobs](https://www.dazedmedia.com/careers) [Internship](https://careers.dazedmedia.com/) [Legal](https://www.dazeddigital.com/info/article/825/1/terms-conditions) [Privacy Policy](https://www.dazeddigital.com/privacy-policy)
 
-[Dazed Media](http://www.dazedmedia.com/) [Another](http://www.anothermag.com/) [Another Man](http://www.anothermanmag.com/) [Nowness](http://www.nowness.com/) [Dazed Studio](https://dazed.studio/)
+[Dazed Media](https://www.dazedmedia.com/) [Another](https://www.anothermag.com/) [Another Man](https://www.anothermanmag.com/) [Nowness](https://www.nowness.com/) [Dazed Studio](https://dazed.studio/)
 
 ![FB-tracker](https://www.facebook.com/tr?id=357833301087547&ev=PageView&noscript=1)

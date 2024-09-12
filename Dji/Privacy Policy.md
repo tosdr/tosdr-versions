@@ -1,29 +1,29 @@
-[](https://www.dji.com/uk)
+[](https://www.dji.com/)
 
-* [Camera Drones](https://www.dji.com/uk/camera-drones?site=brandsite&from=nav)
+* [Camera Drones](https://www.dji.com/camera-drones?site=brandsite&from=nav)
     
-* [Handheld](https://www.dji.com/uk/handheld?site=brandsite&from=nav)
+* [Handheld](https://www.dji.com/handheld?site=brandsite&from=nav)
     
-* [Power](https://www.dji.com/uk/products/power-series?site=brandsite&from=nav)
+* [Power](https://www.dji.com/products/power-series?site=brandsite&from=nav)
     
 * Specialized
     
     * [Enterprise](https://enterprise.dji.com/?site=brandsite&from=nav)
     * [Agriculture](https://ag.dji.com/?site=brandsite&from=nav)
-    * [DJI Delivery](https://www.dji.com/uk/delivery?site=brandsite&from=nav)
-    * [Drive System](https://www.dji.com/uk/avinox?site=brandsite&from=nav)
+    * [DJI Delivery](https://www.dji.com/delivery?site=brandsite&from=nav)
+    * [Drive System](https://www.dji.com/avinox?site=brandsite&from=nav)
     
 * Explore
     
     * [SkyPixel](https://www.skypixel.com/?site=brandsite&from=nav)
     * [DJI Forum](https://forum.dji.com/?site=brandsite&from=nav)
-    * [Media Center](https://www.dji.com/uk/media-center?site=brandsite&from=nav)
-    * [DJI Trust Center](https://www.dji.com/uk/trust-center?site=brandsite&from=nav)
+    * [Media Center](https://www.dji.com/media-center?site=brandsite&from=nav)
+    * [DJI Trust Center](https://www.dji.com/trust-center?site=brandsite&from=nav)
     * [Careers](https://we.dji.com/index_en.html?site=brandsite&from=nav)
     
-* [Support](https://www.dji.com/uk/support?site=brandsite&from=nav)
+* [Support](https://www.dji.com/support?site=brandsite&from=nav)
     
-* [Where to Buy](https://www.dji.com/uk/where-to-buy/online-stores?site=brandsite&from=nav)
+* [Where to Buy](https://www.dji.com/where-to-buy/online-stores?site=brandsite&from=nav)
     
 
 * [](javascript:;)
@@ -31,12 +31,12 @@
     
     * [Welcome,  {{nick\_name}}](javascript:;)
     * [My account](https://accounts.dji.com/user)
-    * [Logout](https://www-api.dji.com/uk/redirect/member/logout)
+    * [Logout](https://www-api.dji.com/redirect/member/logout)
     
 * [](javascript:void(0);;)
     
-    * [Login](https://www-api.dji.com/uk/redirect/member/login)
-    * [Register](https://www-api.dji.com/uk/redirect/member/register?autologin=y)
+    * [Login](https://www-api.dji.com/redirect/member/login)
+    * [Register](https://www-api.dji.com/redirect/member/register?autologin=y)
     
 * [Store](https://store.dji.com/?site=brandsite&from=nav)
     
@@ -590,58 +590,58 @@ Subscribe
 
 Please enter a valid email address
 
-You can learn more about how we handle user data through the [DJI Privacy Policy](https://www.dji.com/uk/policy).
+You can learn more about how we handle user data through the [DJI Privacy Policy](https://www.dji.com/policy).
 
 Product Categories
 
-* [Consumer](https://www.dji.com/uk/products/consumer?site=brandsite&from=footer)
-* [Professional](https://www.dji.com/uk/products/professional?site=brandsite&from=footer)
-* [Enterprise](https://www.dji.com/uk/products/enterprise?site=brandsite&from=footer)
-* [Components](https://www.dji.com/uk/products/components?site=brandsite&from=footer)
+* [Consumer](https://www.dji.com/products/consumer?site=brandsite&from=footer)
+* [Professional](https://www.dji.com/products/professional?site=brandsite&from=footer)
+* [Enterprise](https://www.dji.com/products/enterprise?site=brandsite&from=footer)
+* [Components](https://www.dji.com/products/components?site=brandsite&from=footer)
 
 Service Plans
 
-* [DJI Care Refresh](https://www.dji.com/uk/support/service/djicare-refresh?site=brandsite&from=footer)
-* [DJI Care Pro](https://www.dji.com/uk/service/djicare-pro?site=brandsite&from=footer)
+* [DJI Care Refresh](https://www.dji.com/support/service/djicare-refresh?site=brandsite&from=footer)
+* [DJI Care Pro](https://www.dji.com/service/djicare-pro?site=brandsite&from=footer)
 * [DJI Care Enterprise](https://enterprise.dji.com/djicare-enterprise?site=brandsite&from=footer)
 * [DJI Maintenance Program](https://enterprise.dji.com/enterprise-maintenance?site=brandsite&from=footer)
 
 Where to Buy
 
 * [DJI Online Store](https://store.dji.com/?site=brandsite&from=footer)
-* [Flagship Stores](https://www.dji.com/uk/where-to-buy/flagship?site=brandsite&from=footer)
+* [Flagship Stores](https://www.dji.com/where-to-buy/flagship?site=brandsite&from=footer)
 * [DJI-Operated Stores](https://www.dji.com/cn/where-to-buy/online-stores?site=brandsite&from=footer)
-* [Retail Stores](https://www.dji.com/uk/where-to-buy/retail-stores?site=brandsite&from=footer)
-* [Enterprise Retailers](https://www.dji.com/uk/where-to-buy/enterprise-dealers?site=brandsite&from=footer)
-* [Agricultural Drone Dealer](https://www.dji.com/uk/where-to-buy/agriculture-dealers?site=brandsite&from=footer)
-* [Delivery Drone Dealer](https://www.dji.com/uk/delivery-dealer?site=brandsite&from=footer)
-* [Pro Retailers](https://www.dji.com/uk/where-to-buy/professional-dealers?site=brandsite&from=footer)
+* [Retail Stores](https://www.dji.com/where-to-buy/retail-stores?site=brandsite&from=footer)
+* [Enterprise Retailers](https://www.dji.com/where-to-buy/enterprise-dealers?site=brandsite&from=footer)
+* [Agricultural Drone Dealer](https://www.dji.com/where-to-buy/agriculture-dealers?site=brandsite&from=footer)
+* [Delivery Drone Dealer](https://www.dji.com/delivery-dealer?site=brandsite&from=footer)
+* [Pro Retailers](https://www.dji.com/where-to-buy/professional-dealers?site=brandsite&from=footer)
 * [DJI Store App](https://store.dji.com/pages/app?site=brandsite&from=footer)
 
 Cooperation
 
 * [Become a Dealer](https://prm.dji.com/apply/step1?site=brandsite&from=footer)
-* [Apply For Authorized Store](https://www.dji.com/uk/ars/apply?site=brandsite&from=footer)
+* [Apply For Authorized Store](https://www.dji.com/ars/apply?site=brandsite&from=footer)
 
 Fly Safe
 
 * [Fly Safe](https://fly-safe.dji.com/home?site=brandsite&from=footer)
-* [DJI Flying Tips](https://www.dji.com/uk/flyingtips?site=brandsite&from=footer)
+* [DJI Flying Tips](https://www.dji.com/flyingtips?site=brandsite&from=footer)
 
 Support
 
-* [Product Support](https://www.dji.com/uk/support/product?site=brandsite&from=footer)
-* [Service Request and Inquiry](https://www.dji.com/uk/support/repair?site=brandsite&from=footer)
+* [Product Support](https://www.dji.com/support/product?site=brandsite&from=footer)
+* [Service Request and Inquiry](https://www.dji.com/support/repair?site=brandsite&from=footer)
 * [Help Center](https://support.dji.com/help/search?lang=en&re=US&site=brandsite&from=footer)
-* [After-Sales Service Policies](https://www.dji.com/uk/service/policy?site=brandsite&from=footer)
-* [Download Center](https://www.dji.com/uk/downloads?site=brandsite&from=footer)
+* [After-Sales Service Policies](https://www.dji.com/service/policy?site=brandsite&from=footer)
+* [Download Center](https://www.dji.com/downloads?site=brandsite&from=footer)
 * [Security and Privacy](https://security.dji.com/?lang=en_US&site=brandsite&from=footer)
 
 Explore
 
-* [Media Center](https://www.dji.com/uk/media-center?site=brandsite&from=footer)
+* [Media Center](https://www.dji.com/media-center?site=brandsite&from=footer)
 * [Buying Guides](https://store.dji.com/guides/?site=brandsite&from=footer)
-* [DJI Trust Center](https://www.dji.com/uk/trust-center?site=brandsite&from=footer)
+* [DJI Trust Center](https://www.dji.com/trust-center?site=brandsite&from=footer)
 
 Community
 
@@ -657,14 +657,13 @@ Get the latest news from DJI
 
 Subscribe to get exclusive offer, then login or register at [Store.dji.com](https://store.dji.com/?utm_source=official&utm_medium=subscribe&utm_campaign=subscribe_description) with your subscription email to check it.
 
-[](https://www.dji.com/uk)
+[](https://www.dji.com/)
 
-* [Who We Are](https://www.dji.com/uk/company?site=brandsite&from=footer)
-* [Contact Us](https://www.dji.com/uk/contact?site=brandsite&from=footer)
+* [Who We Are](https://www.dji.com/company?site=brandsite&from=footer)
+* [Contact Us](https://www.dji.com/contact?site=brandsite&from=footer)
 * [Careers](https://we.dji.com/index_en.html?site=brandsite&from=footer)
 * [Dealer Portal](https://prm.dji.com/?site=brandsite&from=footer)
 * [RoboMaster](https://www.robomaster.com/?site=brandsite&from=footer)
-* [DJI Automotive](https://auto.dji.com/?site=brandsite&from=footer)
 
 * [](https://www.facebook.com/DJI)
 * [](https://twitter.com/djiglobal)
@@ -672,11 +671,11 @@ Subscribe to get exclusive offer, then login or register at [Store.dji.com](http
 * [](https://vimeo.com/dji)
 * [](https://www.instagram.com/DJIglobal/)
 
-* [DJI Privacy Policy](https://www.dji.com/uk/policy?site=brandsite&from=footer)
-* [Use of Cookies](https://www.dji.com/uk/policy?site=brandsite&from=footer#12)
-* [Terms of Use](https://www.dji.com/uk/terms?site=brandsite&from=footer)
-* [Business Information](https://www.dji.com/uk/terms?site=brandsite&from=footer)
-* [Cookie Preferences](https://www.dji.com/uk)
+* [DJI Privacy Policy](https://www.dji.com/policy?site=brandsite&from=footer)
+* [Use of Cookies](https://www.dji.com/policy?site=brandsite&from=footer#12)
+* [Terms of Use](https://www.dji.com/terms?site=brandsite&from=footer)
+* [Business Information](https://www.dji.com/terms?site=brandsite&from=footer)
+* [Cookie Preferences](https://www.dji.com/)
 
 ### Select Your Country/Region
 
@@ -704,12 +703,12 @@ Other Countries and Regions
 
 * Other RegionsEnglish
 
-![](https://www1.djicdn.com/dps/dd414ceb936237ce4f434d1efcddfc1b.png)
+![](https://www-cdn.djiits.com/dps/dd414ceb936237ce4f434d1efcddfc1b.png)
 
-United Kingdom / English
+United States / English
 
 Copyright © 2024 DJI All Rights Reserved.
 
 [粤ICP备12022215号](http://www.beian.miit.gov.cn/?site=brandsite&from=footer)
 
-[Feedback on web experience](https://www.dji.com/uk/feedback?site=brandsite&from=footer)
+[Feedback on web experience](https://www.dji.com/feedback?site=brandsite&from=footer)

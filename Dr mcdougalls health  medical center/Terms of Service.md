@@ -272,10 +272,10 @@ Dr. McDougall
 * [Aging Gracefully](https://www.drmcdougall.com/aging-gracefully/)
 * [The Truth About Food](https://www.drmcdougall.com/the-truth-about-food/)
 * [McDougall’s Medicine](https://www.drmcdougall.com/the-science-behind-mcdougalls-medicine/)
+* [Free McDougall Program](https://www.drmcdougall.com/free-mcdougall-program/)
 * [Shop](https://www.drmcdougall.com/shop/)
 * [Forums](https://www.drmcdougallforums.com/)
 * [Our Story](https://www.drmcdougall.com/our-story/)
-* [Meet the Team](https://www.drmcdougall.com/meet-the-team/)
 * [Contact Us](https://www.drmcdougall.com/contact-us/)
 
 * * *

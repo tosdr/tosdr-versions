@@ -240,21 +240,10 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
   
 Please check back frequently to see any updates or changes to our privacy policy.
 
-#### Want to contribute ?
+#### Launch and scale compute workloads on KVM instances featuring hyperfast NVMe SSD storage and best price-to-performance ratio!
 
   
-
-[Submit your Article](https://www.dynu.com/Support/ContactUs)  
-  
-
-  
-
-[Suggest an Update](https://www.dynu.com/Support/ContactUs)  
-  
-
-  
-
-[Request an Article](https://www.dynu.com/Support/ContactUs)  
+[Get Started](https://www.dynu.com/en-US/ControlPanel/AddVPS)  
   
 
 ### News
@@ -319,6 +308,6 @@ HELP
 
 ##### Copyright © 1997-2024 Dynu Systems, Inc. All rights reserved.
 
-Version 3.30.8976.8676
+Version 3.30.9011.33227
 
 Loading...

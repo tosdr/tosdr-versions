@@ -116,6 +116,115 @@ Loading
 
 {{tgSettings.SearchResultsApplyToJobButtonText}} Save {{sendToFriendButtonText}} Refer
 
+You have already applied for this job. [Check application statusCheck your applications.](#)
+
+Application limit reached. {{LimitExceededMessage}}
+
+[Close](#)
+
+[Close](#JobDetailsClose)
+
+Share
+
+Job share URL  Copy Job URL
+
+Close Job share dialog.
+
+Featured Job Allows Referral
+
+View application statusView your applications {{tgSettings.JobDetailsApplyButtonText}} Easy Apply
+
+Save {{jobDetailsButtonText}} Refer Show related jobs
+
+Featured Job Allows Referral
+
+Job Details | H&R Block
+=======================
+
+{{dynamicStrings.Link\_ClearAll}}
+
+* [Job Search](#) Job Search Options expanded Job Search Options collapsed
+* [{{facet.Description}}](#) {{facet.Name}} Options expanded {{facet.Name}} Options collapsed
+
+[Close](#0)
+
+[Back](#0)
+
+### {{oActiveFacet.Description}}
+
+### Job Search
+
+[{{dynamicStrings.Link\_ClearAll}}](#0)
+
+[Close](#0)
+
+[{{refineResultsText}}](#0)
+
+Sign in Don't have an account yet?
+
+Back
+
+Save this search
+
+{{refineResultsText}}
+---------------------
+
+[Clear](#0)
+
+{{jobsHeading}}
+---------------
+
+{{jobsHeading}}
+---------------
+
+{{jobsHeading}}
+---------------
+
+List Layout Card Layout Table Layout
+
+{{filtersAppliedText}}
+
+: {{op.OptionName}} Remove selection - : {{op.OptionName}}
+
+Search Criterion :
+
+{{op}}
+
+None
+
+Location Criterion :
+
+{{op}}
+
+None
+
+{{dynamicStrings.Lbl\_RefineSearch.replace('\[jobcount\]',jobsCount)}} 
+
+{{tgSettings.SortTextLabel}} {{option.LocalizedString}}
+
+Shortcuts
+
+After your selection, please press ESC key in order to apply or take other actions.
+
+Loading
+
+*  {{oQ.Value}}
+    
+    Featured Job Allows Referral[](https://sjobs.brassring.com/%7B%7Bjob.Link%7D%7D)
+    
+    {{dynamicStrings.Lbl\_JobShare.replace('\[JobTitle\]',oQ.Value)}}
+    
+    {{dynamicStrings.Lbl\_JobURL.replace('\[JobTitle\]',oQ.Value)}} 
+    
+    {{dynamicStrings.Lbl\_CopyJobShare.replace('\[JobTitle\]',oQ.Value)}} {{dynamicStrings.Lbl\_CloseJobShare.replace('\[JobTitle\]',oQ.Value)}}
+    
+* There are no jobs that match your criteria
+    
+
+{{tgSettings.ShowMoreText}}
+
+{{tgSettings.SearchResultsApplyToJobButtonText}} Save {{sendToFriendButtonText}} Refer
+
 Back
 
 You have already applied for this job. [Check application statusCheck your applications.](#)

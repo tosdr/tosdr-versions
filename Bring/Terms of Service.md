@@ -2,7 +2,7 @@
 
 Bring!](https://www.getbring.com/en/home)
 
-[Home](https://www.getbring.com/en/home)[Why Bring?](https://www.getbring.com/en/why-bring)[Advertising](https://www.getbring.com/en/advertising/home)[About us](https://www.getbring.com/en/about-us)[Blog](https://www.getbring.com/en/blog)
+[Home](https://www.getbring.com/en/home)[Why Bring?](https://www.getbring.com/en/why-bring)[Advertising](https://www.getbring.com/en/advertising/home)[About us](https://www.getbring.com/en/about-us)[Careers](https://www.getbring.com/en/careers)[Blog](https://www.getbring.com/en/blog)
 
 [Get Bring!](https://go.getbring.com/?link=https%3A%2F%2Fdeeplink.getbring.com%2Fview%2Fmain%3Fbring_source%3DbringWebsite%26bring_medium%3Dwebsite%26bring_campaign%3Ddownload&apn=ch.publisheria.bring&isi=580669177&ibi=ch.publisheria.bring&si=https%3A%2F%2Flh3.googleusercontent.com%2FHDH9pYi8m3Rh8bBEkoIttioFTBsPNE6vmHQB3SajXTFtB0VZ31unKWttb2txE7K-S80%253Ds360-rw&utm_source=bringWebsite&utm_medium=website&utm_campaign=download&ct=bringWebsite_download&pt=1105365&ofl=https%3A%2F%2Fweb.getbring.com%3Futm_source%3DbringWebsite%26utm_medium%3Dwebsite%26utm_campaign%3Ddownload)
 

@@ -11,12 +11,13 @@ Menu
         * [Commercial Banking & Credit Analyst (CBCA®)](https://corporatefinanceinstitute.com/certifications/commercial-banking-credit-analyst-certification-cbca/)
         * [Capital Markets & Securities Analyst (CMSA®)](https://corporatefinanceinstitute.com/certifications/capital-markets-securities-analyst-cmsa/)
         * [Business Intelligence & Data Analyst (BIDA®)](https://corporatefinanceinstitute.com/certifications/business-intelligence-data-analyst-bida/)
-        * [Financial Planning & Wealth Management (FPWM™)](https://corporatefinanceinstitute.com/certifications/financial-planning-and-wealth-management-fpwm-program/)
+        * [Financial Planning & Wealth Management Professional (FPWMP™)](https://corporatefinanceinstitute.com/certifications/financial-planning-and-wealth-management-fpwm-program/)
         * [FinTech Industry Professional (FTIP™)](https://corporatefinanceinstitute.com/certifications/fintech-industry-professional/)
         
     * [Master a Specialization](#)
         * [CFI Specializations](#)
         
+        * [Accounting for Financial Analysts](https://corporatefinanceinstitute.com/accounting-for-financial-analysts/)
         * [FP&A](https://corporatefinanceinstitute.com/certifications/financial-planning-and-analysis-program/)
         * [Leadership Effectiveness](https://corporatefinanceinstitute.com/certifications/leadership-effectiveness-program/)
         * [ESG](https://corporatefinanceinstitute.com/certifications/environmental-social-governance-specialist/)
@@ -180,9 +181,9 @@ Menu
         * [Accounting](https://corporatefinanceinstitute.com/topic/accounting/)
         * [Commercial Real Estate](https://corporatefinanceinstitute.com/topic/commercial-real-estate/)
         * [ESG](https://corporatefinanceinstitute.com/topic/environment-social-governance-esg/)
-        * [Private Wealth Management](https://corporatefinanceinstitute.com/topic/private-wealth-management/)
+        * [Wealth Management](https://corporatefinanceinstitute.com/topic/wealth-management/)
         * [Foreign Exchange](https://corporatefinanceinstitute.com/topic/foreign-exchange/)
-        * [Leadership](https://corporatefinanceinstitute.com/topic/leadership/)
+        * [Management Skills](https://corporatefinanceinstitute.com/topic/management-skills/)
         * [Machine Learning](https://corporatefinanceinstitute.com/topic/data-science-machine-learning/)
         * [Financial Modeling](https://corporatefinanceinstitute.com/topic/financial-modeling/)
         * [FP&A](https://corporatefinanceinstitute.com/topic/financial-planning-analysis-fpa/)
@@ -226,18 +227,18 @@ Menu
     * [Resources](#)
         * [Resources](#)
         
-        * [Financial Modeling](https://corporatefinanceinstitute.com/topic/financial-modeling/)
         * [Career](https://corporatefinanceinstitute.com/topic/career/)
-        * [FP&A](https://corporatefinanceinstitute.com/topic/financial-planning-analysis-fpa/)
-        * [Management](https://corporatefinanceinstitute.com/topic/leadership/)
-        * [Excel](https://corporatefinanceinstitute.com/topic/excel/)
+        * [Financial Modeling](https://corporatefinanceinstitute.com/topic/financial-modeling/)
         * [Accounting](https://corporatefinanceinstitute.com/topic/accounting/)
         * [Valuation](https://corporatefinanceinstitute.com/topic/valuation/)
-        * [Economics](https://corporatefinanceinstitute.com/topic/economics/)
-        * [ESG](https://corporatefinanceinstitute.com/topic/environment-social-governance-esg/)
-        * [Capital Markets](https://corporatefinanceinstitute.com/topic/capital-markets/)
+        * [Commercial Lending](https://corporatefinanceinstitute.com/topic/commercial-lending/)
+        * [FP&A](https://corporatefinanceinstitute.com/topic/financial-planning-analysis-fpa/)
+        * [Excel](https://corporatefinanceinstitute.com/topic/excel/)
+        * [Fixed Income](https://corporatefinanceinstitute.com/topic/fixed-income/)
+        * [Management](https://corporatefinanceinstitute.com/topic/management-skills/)
         * [Data Science](https://corporatefinanceinstitute.com/topic/data-science/)
-        * [Risk Management](https://corporatefinanceinstitute.com/topic/risk-management/)
+        * [Derivatives](https://corporatefinanceinstitute.com/topic/derivatives/)
+        * [Economics](https://corporatefinanceinstitute.com/topic/economics/)
         
         * [Corporate Finance Resources](https://corporatefinanceinstitute.com/resources/)
     
@@ -261,7 +262,7 @@ Menu
     * [Certified Banking & Credit Analyst (CBCA®)](https://corporatefinanceinstitute.com/certifications/commercial-banking-credit-analyst-certification-cbca/)
     * [Capital Markets & Securities Analyst (CMSA®)](https://corporatefinanceinstitute.com/certifications/capital-markets-securities-analyst-cmsa/)
     * [Business Intelligence & Data Analyst (BIDA®)](https://corporatefinanceinstitute.com/certifications/business-intelligence-data-analyst-bida/)
-    * [Financial Planning & Wealth Management (FPWM™)](https://corporatefinanceinstitute.com/certifications/financial-planning-and-wealth-management-fpwm-program/)
+    * [Financial Planning & Wealth Management Professional (FPWMP®)](https://corporatefinanceinstitute.com/certifications/financial-planning-and-wealth-management-fpwm-program/)
     * [FinTech Industry Professional (FTIP™)](https://corporatefinanceinstitute.com/certifications/fintech-industry-professional/)
     
 * [Specializations](#)
@@ -276,6 +277,7 @@ Menu
     * [Data Science Analyst](https://corporatefinanceinstitute.com/certifications/become-data-science-analyst/)
     * [Macabacus Specialist](https://corporatefinanceinstitute.com/certifications/macabacus-specialist/)
     * [Business Essentials Bundle (BEB)](https://corporatefinanceinstitute.com/certifications/business-essentials-bundle/)
+    * [Accounting for Financial Analysts Specialization](https://corporatefinanceinstitute.com/accounting-for-financial-analysts/)
     
 * [Categories](#)
     
@@ -337,7 +339,7 @@ Menu
         * [View All](https://corporatefinanceinstitute.com/collections/?categories=86426)
     * [Wealth Management](#)
         * [Certifications](#)
-        * [Financial Planning & Wealth Management (FPWM™) Certification](https://corporatefinanceinstitute.com/certifications/financial-planning-and-wealth-management-fpwm-program/)
+        * [Financial Planning & Wealth Management Professional (FPWMP™) Certification](https://corporatefinanceinstitute.com/certifications/financial-planning-and-wealth-management-fpwm-program/)
         * [Popular Wealth Management courses](#)
         * [Behavioral Finance](https://corporatefinanceinstitute.com/course/behavioral-finance/)
         * [Mastering Client Discovery](https://corporatefinanceinstitute.com/course/client-discovery/)
@@ -356,8 +358,8 @@ Menu
     * [FP&A](https://corporatefinanceinstitute.com/topic/financial-planning-analysis-fpa/)
     * [Foreign Exchange](https://corporatefinanceinstitute.com/topic/foreign-exchange/)
     * [Machine Learning](https://corporatefinanceinstitute.com/topic/data-science-machine-learning/)
-    * [Leadership](https://corporatefinanceinstitute.com/topic/leadership/)
-    * [Private Wealth Management](https://corporatefinanceinstitute.com/topic/private-wealth-management/)
+    * [Management Skills](https://corporatefinanceinstitute.com/topic/management-skills/)
+    * [Wealth Management](https://corporatefinanceinstitute.com/topic/wealth-management/)
     
 * [CFI For Teams](https://corporatefinanceinstitute.com/cfi-for-teams/)
     
@@ -531,7 +533,7 @@ Return to [All Legal Notices](https://corporatefinanceinstitute.com/about-cfi/le
 
 0 search results for ‘’
 
-People also search for: excel Free courses esg Free accounting TEMPLATE real estate
+People also search for: excel Free courses esg Free accounting TEMPLATE fmva
 
 Explore Our Certifications
 
@@ -561,7 +563,7 @@ Resources
 
 Popular Courses
 
- [Free! FMVA® Prep Course 3.5h Excel Fundamentals - Formulas for Finance](https://corporatefinanceinstitute.com/course/excel-fundamentals-formulas-for-finance/)
+ [FMVA® Prep Course 3.5h Excel Fundamentals - Formulas for Finance](https://corporatefinanceinstitute.com/course/excel-fundamentals-formulas-for-finance/)
 
  [FMVA® Required 6.5h 3-Statement Modeling](https://corporatefinanceinstitute.com/course/3-statement-modeling/)
 
@@ -579,7 +581,7 @@ Recent Searches
 
 Suggestions
 
-[Free Courses](https://corporatefinanceinstitute.com/collections/free/) [Excel Courses](https://corporatefinanceinstitute.com/topic/excel/) [Financial Modeling & Valuation Analyst (FMVA)®](https://corporatefinanceinstitute.com/certifications/financial-modeling-valuation-analyst-fmva-program/)
+[Excel Courses](https://corporatefinanceinstitute.com/topic/excel/) [Financial Modeling & Valuation Analyst (FMVA)®](https://corporatefinanceinstitute.com/certifications/financial-modeling-valuation-analyst-fmva-program/)
 
 ×
 

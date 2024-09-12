@@ -3,7 +3,6 @@
 Close menu
 
 * [Make A Store](https://dashboard.crowdmade.com/?utm_source=crowdmade&utm_medium=header&utm_campaign=make-a-store)
-* [On Sale](https://crowdmade.com/collections/doorbusters-2023)
 * [Log in](https://crowdmade.com/account)
     
 
@@ -13,7 +12,7 @@ Close cart
 
 Subtotal
 
-£0.00
+$0.00
 
 Shipping, taxes, and discount codes calculated at checkout.  
 
@@ -24,7 +23,6 @@ Your cart is currently empty.
 [Crowdmade](https://crowdmade.com/)
 
 * [Make A Store](https://dashboard.crowdmade.com/?utm_source=crowdmade&utm_medium=header&utm_campaign=make-a-store)
-* [On Sale](https://crowdmade.com/collections/doorbusters-2023)
 
 [Log in](javascript:void(0)) [Search](https://crowdmade.com/search) Site navigation [Cart](https://crowdmade.com/cart)
 
@@ -177,7 +175,6 @@ For Creators
 For Creators
 
 * [Make A Store](https://dashboard.crowdmade.com/?utm_source=crowdmade&utm_medium=header&utm_campaign=make-a-store)
-* [On Sale](https://crowdmade.com/collections/doorbusters-2023)
 
 Policies
 

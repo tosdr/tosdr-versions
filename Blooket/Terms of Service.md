@@ -1,14 +1,14 @@
 [Blooket](https://www.blooket.com/)
 
-BLOOKET TERMS OF SERVICE
+Blooket Terms of Service
 
 ACCEPTANCE OF THE TERMS OF SERVICE
 
-Revised 9/24/2022
+Last updated September 6, 2024
 
 THE FOLLOWING TERMS AND CONDITIONS (“TERMS”) APPLY TO YOUR USE OF THE WEBSITE BLOOKET.COM, (“BLOOKET”, “WE” “US” OR “OUR”), INCLUDING ANY CONTENT, FUNCTIONALITY, PRODUCTS, AND SERVICES OFFERED ON OR THROUGH SUCH WEBSITE (COLLECTIVELY, THE “WEBSITE”), WHETHER AS A GUEST OR ACCOUNT HOLDER. THESE TERMS ALSO APPLY TO YOUR USE OF OTHER BLOOKET SERVICES THAT DISPLAY OR INCLUDE THESE TERMS (“ADDITIONAL SERVICES”). IN THESE TERMS, THE WEBSITE AND ADDITIONAL SERVICES ARE COLLECTIVELY REFERRED TO AS THE “SERVICES.”
 
-BY CLICKING/CHECKING THE “I AGREE” BUTTON/BOX, ACCESSING THE BLOOKET WEBSITE OR BY UTILIZING THE BLOOKET SERVICES YOU AGREE TO BE BOUND BY THESE TERMS OF SERVICE AND ALL EXHIBITS, ORDER FORMS, AND INCORPORATED POLICIES.
+BY CLICKING/CHECKING THE “I AGREE” BUTTON/BOX, ACCESSING THE BLOOKET WEBSITE OR BY UTILIZING THE BLOOKET SERVICES YOU AGREE TO BE BOUND BY THESE TERMS OF SERVICE AND ALL EXHIBITS, ORDER FORMS, AND INCORPORATED POLICIES AS WELL AS ALL FUTURE MODIFICATIONS TO EITHER THE TERMS OF SERVICE OF PRIVACY POLICY OF BLOOKET.
 
 PLEASE READ THESE TERMS CAREFULLY BEFORE YOU START TO USE THE SERVICES. BY USING THE SERVICES, YOU ACCEPT AND AGREE TO BE BOUND AND ABIDE BY THESE TERMS OF SERVICE. IF YOU DO NOT WANT TO AGREE TO THESE TERMS OF SERVICE, YOU MUST NOT USE THE SERVICES. BY ACCEPTING THESE TERMS:
 
@@ -17,7 +17,7 @@ PLEASE READ THESE TERMS CAREFULLY BEFORE YOU START TO USE THE SERVICES. BY USING
 
 **THESE TERMS CONTAINS A BINDING CLASS-ACTION WAIVER PROVISION. IF YOU ACCEPT THESE TERMS, YOU AND BLOOKET AGREE TO RESOLVE DISPUTES PURSUANT TO THE DISPUTE RESOLUTON PROVISIONS BELOW AND GIVE UP THE RIGHT TO GO TO COURT INDIVIDUALLY AS PART OF A CLASS ACTION.**
 
-If you are using the Service on behalf of a school, institution, company or organization that has a separate express written agreement with Blooket and the school, institution or company, that agreement shall govern your use of the Service, and all matters not covered by said agreement will be subject to our Terms of Service and Privacy Policy. Such Agreements with schools, institutions, companies or organizations shall only apply to accounts created and paid for expressly by them and not with Starter or free accounts or accounts paid for by individual educators, employees or teachers of those entities. Individuals who are employees of organizations, schools, institutions or companies which use the Starter or Free accounts or pay for accounts individually are bound by these Terms of Service agreement solely.
+If you are using the Service on behalf of a school, institution, company or organization that has a separate express written agreement with Blooket and the school, institution or company, that agreement shall govern your use of the Service, and all matters not covered by said agreement will be subject to our Terms of Service and Privacy Policy. Such Agreements with schools, institutions, companies or organizations shall only apply to accounts created and paid for expressly by them and not with Starter or free accounts or accounts paid for by individual educators, employees or teachers of those entities. Individuals who are employees of organizations, schools, institutions or companies which use the Starter or Free accounts or pay for accounts individually are bound by these Terms of Service agreement solely. Only individuals who have the express authority to bind a School District, School, or other entity, may enter into these Terms of Service on behalf of that entity. Without such express authority, the account will be considered an individual account.
 
 TO ENTER INTO THE CONTRACT CREATED BY THESE TERMS, YOU MUST BE OF THE LEGAL AGE OF MAJORITY IN YOUR COUNTRY OF RESIDENCE UNLESS THE ACCOUNT IS CREATED THROUGH AN EDUCATIONAL SUBSCRIBER'S USE EXCEPTION DESCRIBED MORE FULLY BELOW. YOU ARE LEGALLY AND FINANCIALLY RESPONSIBLE FOR ALL ACTIONS USING OR ACCESSING OUR WEBSITE, INCLUDING THE ACTIONS OF ANYONE YOU ALLOW TO ACCESS TO YOUR ACCOUNT. YOU AFFIRM THAT YOU HAVE REACHED THE LEGAL AGE OF MAJORITY, UNDERSTAND AND ACCEPT THESE TERMS (INCLUDING ITS DISPUTE RESOLUTION TERMS). IF YOU ARE UNDER THE LEGAL AGE OF MAJORITY, YOUR PARENT OR LEGAL GUARDIAN MUST CONSENT TO THESE TERMS. IF AN EDUCATIONAL INSTITUTION OR EDUCATOR CONSENTS ON YOUR BEHALF IN LOCO PARENTIS, THE EDUCATIONAL INSTITUTION OR EDUCATOR AGREES THAT IT HAS THE LEGAL AUTHORITY TO DO SO BY EXPRESS AGREEMENT WITH PARENTS OR STATUTORY AUTHORITY.
 
@@ -25,13 +25,13 @@ EDUCATIONAL INSTITUTIONS AND EDUCATIONAL INSTRUCTORS UTILIZING THE SERVICE, INCL
 
 If you are entering into this Agreement on behalf of a company, educational institution or other legal entity, you acknowledge that you have the authority to bind said entity to these terms and conditions, in which case the terms “you,” “your” or “Member” shall refer to said entity. If you do not have such authority, or if you do not agree with these terms and conditions, you must not accept this Agreement and may not use the Service, and BLOOKET shall not be responsible for any use you make of the Service without the pertinent authorization.
 
-Privacy Notice
+Privacy Policy
 
 Please review our Privacy Policy found at https://www.blooket.com/privacy which also governs your use of the Services, to understand our practices.
 
 Changes to the Terms of Service
 
-We may update the Terms of Service from time to time. You can see when the last update was by looking at the “Last Updated” date at the top of this page. We will not reduce your rights under these Terms without your explicit consent. If we make any significant changes, we will provide prominent notice by posting a notice on the Service and/or notifying you by email (using the email address you provided) prior to and after changes taking effect, so you can review and make sure you're aware of them. We encourage you to review the Terms of Service from time to time, to stay informed about our collection, use, and disclosure of personal information through the Service. If you do not agree with any changes to the Terms, you may delete your account (although we will be sad to see you go!). By continuing to use the Service after the revised Terms of Service have become effective, you acknowledge that you accept and agree to the current version of the Terms of Use.
+We may update these Terms from time to time; you should check this page regularly to take notice of any changes. Your continued use of the Services following the posting of revised Terms means that you accept and agree to the changes as well any changes to the Privacy Policy.
 
 Accessing the Services and Account Security
 
@@ -125,7 +125,7 @@ BLOOKET may use Education Records that have been de-identified for product devel
 
 GDPR and Minors
 
-The EU General Data Protection Regulation (GDPR) determines that the processing of personal data of a child residing in the European Union shall be lawful where the child is at least sixteen (16) years old, unless Member States have provided, by law, a lower age that is not below thirteen (13) years.
+The EU General Data Protection Regulation (GDPR) and UK GDPR determines that the processing of personal data of a child residing in the European Union and United Kingdom shall be lawful where the child is at least sixteen (16) years old, unless Member States have provided, by law, a lower age that is not below thirteen (13) years.
 
 As a teacher, you acknowledge, affirm and pledge to BLOOKET that you or your Institution has obtained all necessary parental or eligible student written consent to share the personal data of your students with BLOOKET, in each case, solely to enable BLOOKET's operation of the Service.
 
@@ -276,7 +276,7 @@ Disputes related to these Terms:
 
 If you have an issue related to these Terms, BLOOKET's dispute-resolution terms below apply.
 
-Informal Resolution
+1\. Informal Resolution
 
 If you have an issue that our customer support can't resolve, prior to starting arbitration you and BLOOKET agree to attempt to resolve the dispute informally to help get us to a resolution and control costs for both parties. You and BLOOKET agree to make a good-faith effort to negotiate any dispute between us for at least 30 days (“Informal Resolution”). Those informal negotiations will start on the day you or BLOOKET receive a written Notice of a Dispute in accordance with these Terms.
 
@@ -286,11 +286,11 @@ If you reside in the European Union (“EU”), you may also be entitled to subm
 
 If the dispute isn't resolved within by Informal Resolution or small-claims court (below), you or BLOOKET may start an arbitration in accordance with these Terms.
 
-Class Action Waiver
+2\. Class Action Waiver
 
 To the maximum extent permitted by applicable law, you and BLOOKET agree to only bring Disputes in an individual capacity and shall not: seek to bring, join, or participate in any class or representative action, collective or class-wide arbitration, or any other action where another individual or entity acts in a representative capacity (e.g., private attorney general actions); or consolidate or combine individual proceedings or permit an arbitrator to do so without the express consent of all parties to these Terms and all other actions or arbitrations.
 
-Severability
+3\. Severability
 
 If all or any provision of these Terms of Service is found invalid, unenforceable, or illegal, then you and BLOOKET agree that the provision will be severed and the rest of these Terms shall remain in effect and be construed as if any severed provision had not been included. The sole exception is that if the Class Action Waiver is found invalid, unenforceable, or illegal, you and BLOOKET agree that it will not be severable; any dispute will be resolved in court subject to the venue and choice of clauses specified in these Terms.
 

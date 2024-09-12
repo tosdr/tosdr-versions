@@ -5,6 +5,7 @@
 
 * [Plans](https://drinkcirkul.com/pages/plans)
 * [Products](https://drinkcirkul.com/products)
+    * [Tumblers](https://drinkcirkul.com/pages/tumbler)
     * [FLVR LAB](https://drinkcirkul.com/pages/flvr-lab)
     * [Bottle Drops](https://drinkcirkul.com/pages/bottle-drops)
     * [Bundles](https://drinkcirkul.com/pages/bundle-builder)
@@ -26,6 +27,7 @@
 * [Home](https://drinkcirkul.com/)
 * [Plans](https://drinkcirkul.com/pages/plans)
 * [Products](https://drinkcirkul.com/products)
+    * [Tumblers](https://drinkcirkul.com/pages/tumbler)
     * [FLVR LAB](https://drinkcirkul.com/pages/flvr-lab)
     * [Bottle Drops](https://drinkcirkul.com/pages/bottle-drops)
     * [Bundles](https://drinkcirkul.com/pages/bundle-builder)
@@ -604,12 +606,6 @@ Email Address
 * [Privacy Policy](https://drinkcirkul.com/pages/privacy)
 * [Terms of Use](https://drinkcirkul.com/pages/terms)
 
-© 2021 Cirkul, Inc.
+© 2021-2024 Cirkul, Inc.
 
-![Close](//drinkcirkul.com/cdn/shop/t/4/assets/icon-close-blue.svg?v=10197444204773661521565156097)
-
-[![FLVR LAB](//drinkcirkul.com/cdn/shop/t/4/assets/flavor-lab-logo.png?v=84523127850051387001688671022)](https://drinkcirkul.com/pages/flvr-lab)
-
-Exclusive flavors, limited supply. Get ‘em before they're gone.
-
-[Buy Now](https://drinkcirkul.com/pages/flvr-lab) [Shop Now](https://drinkcirkul.com/pages/flvr-lab)
+![Close](//drinkcirkul.com/cdn/shop/t/4/assets/icon-close-white.svg?v=16948782267301024411722525153) [![Don't forget your Cirkul bottle! Easy hydration to add to your routine - Save up to 35% on your bundle today! Shop Now](//drinkcirkul.com/cdn/shop/files/back-to-school-banner-mobile.png?v=4409362963350859254) ![Don't forget your Cirkul bottle! Easy hydration to add to your routine - Save up to 35% on your bundle today! Shop Now](//drinkcirkul.com/cdn/shop/files/back-to-school-banner-desktop.png?v=4976092756768634132)](https://drinkcirkul.com/pages/bundle-builder)

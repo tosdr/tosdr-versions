@@ -112,11 +112,14 @@ Coolors uses Trackers managed directly by the Owner (so-called “first-party”
 The validity and expiration periods of Cookies and other similar Trackers may vary depending on the lifetime set by the Owner or the relevant provider. Some of them expire upon termination of the User’s browsing session.  
 In addition to what’s specified in the descriptions within each of the categories below, Users may find more precise and updated information regarding lifetime specification as well as any other relevant information — such as the presence of other Trackers — in the linked privacy policies of the respective third-party providers or by contacting the Owner.
 
-### Activities strictly necessary for the operation of Coolors and delivery of the Service
+How Coolors uses Trackers
+-------------------------
+
+### Necessary
 
 Coolors uses so-called “technical” Cookies and other similar Trackers to carry out activities that are strictly necessary for the operation or delivery of the Service.
 
-#### First-party Trackers
+#### Technical Trackers
 
 Storage duration:
 
@@ -124,13 +127,7 @@ Storage duration:
 * gapi.sessionStorageTest: duration of the session
 * NID: 7 months
 
-#### Third-party Trackers
-
-### Traffic optimization and distribution
-
-This type of service allows Coolors to distribute their content using servers located across different countries and to optimize their performance.  
-Which Personal Data are processed depends on the characteristics and the way these services are implemented. Their function is to filter communications between Coolors and the User's browser.  
-Considering the widespread distribution of this system, it is difficult to determine the locations to which the contents that may contain Personal Information of the User are transferred.
+#### Trackers managed by third parties
 
 #### Cloudflare (Cloudflare Inc.)
 
@@ -143,11 +140,7 @@ Legal basis for processing: Contract.
 
 Place of processing: United States – [Privacy Policy](https://www.cloudflare.com/privacypolicy/).
 
-Data retention period: Keeping the data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
-
-### Handling payments
-
-Unless otherwise specified, Coolors processes any payments by credit card, bank transfer or other means via external payment service providers. In general and unless where otherwise stated, Users are requested to provide their payment details and personal information directly to such payment service providers. Coolors isn't involved in the collection and processing of such information: instead, it will only receive a notification by the relevant payment service provider as to whether payment has been successfully completed.
+Data retention period: Keeping the Data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
 
 #### Paddle (Paddle.com Market Limited)
 
@@ -159,11 +152,7 @@ Legal basis for processing: Contract.
 
 Place of processing: United Kingdom – [Privacy Policy](https://paddle.com/privacy-buyers/).
 
-Data retention period: Keeping the data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
-
-### Collection of privacy-related preferences
-
-This type of service allows Coolors to collect and store Users’ preferences related to the collection, use, and processing of their personal information, as requested by the applicable privacy legislation.
+Data retention period: Keeping the Data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
 
 #### iubenda Consent Solution (iubenda srl)
 
@@ -176,7 +165,7 @@ Legal basis for processing: Legal obligation.
 
 Place of processing: Italy – [Privacy Policy](https://www.iubenda.com/privacy-policy/94654098).
 
-Data retention period: Keeping the data as long as required by relevant national law.
+Data retention period: Keeping the Data as long as required by relevant national law.
 
 Storage duration:
 
@@ -192,7 +181,7 @@ Legal basis for processing: Legal obligation.
 
 Place of processing: Italy – [Privacy Policy](https://www.iubenda.com/privacy-policy/36700132).
 
-Data retention period: Keeping the data as long as required by relevant national law.
+Data retention period: Keeping the Data as long as required by relevant national law.
 
 Storage duration:
 
@@ -201,12 +190,7 @@ Storage duration:
 * euconsent-v2: 2 years
 * usprivacy: 1 year
 
-#### Other Trackers
-
-### Platform services and hosting
-
-These services have the purpose of hosting and running key components of Coolors, therefore allowing the provision of Coolors from within a unified platform. Such platforms provide a wide range of tools to the Owner – e.g. analytics, user registration, commenting, database management, e-commerce, payment processing – that imply the collection and handling of Personal Data.  
-Some of these services work through geographically distributed servers, making it difficult to determine the actual location where the Personal Data are stored.
+#### Trackers managed by third parties
 
 #### Apple App Store (Apple Inc.)
 
@@ -222,18 +206,13 @@ Place of processing: United States – [Privacy Policy.](https://www.apple.com/l
 
 Legal basis for processing: Contract.
 
-Data retention period: Keeping the data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
+Data retention period: Keeping the Data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
 
-### Other activities involving the use of Trackers
-
-#### Experience
+### Experience
 
 Coolors uses Trackers to improve the quality of the user experience and enable interactions with external content, networks and platforms.
 
-### Displaying content from external platforms
-
-This type of service allows you to view content hosted on external platforms directly from the pages of Coolors and interact with them.  
-This type of service might still collect web traffic data for the pages where the service is installed, even when Users do not use it.
+#### Trackers managed by third parties
 
 #### Google Fonts (Google Ireland Limited)
 
@@ -245,14 +224,7 @@ Legal basis for processing: Contract.
 
 Place of processing: Ireland – [Privacy Policy](https://policies.google.com/privacy).
 
-Data retention period: Keeping the data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
-
-### Interaction with external social networks and platforms
-
-This type of service allows interaction with social networks or other external platforms directly from the pages of Coolors.  
-The interaction and information obtained through Coolors are always subject to the User’s privacy settings for each social network.  
-This type of service might still collect traffic data for the pages where the service is installed, even when Users do not use it.  
-It is recommended to log out from the respective services in order to make sure that the processed data on Coolors isn’t being connected back to the User’s profile.
+Data retention period: Keeping the Data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
 
 #### Twitter Tweet button and social widgets (X Corp.)
 
@@ -264,7 +236,7 @@ Legal basis for processing: Consent.
 
 Place of processing: United States – [Privacy Policy](https://twitter.com/en/privacy).
 
-Data retention period: Keeping the data for the time necessary to fulfill statistical purposes.
+Data retention period: Keeping the Data for the time necessary to fulfill statistical purposes.
 
 Storage duration:
 
@@ -280,7 +252,7 @@ Legal basis for processing: Consent.
 
 Place of processing: Ireland – [Privacy Policy](https://www.facebook.com/about/privacy/).
 
-Data retention period: Keeping the data for the time necessary to fulfill statistical purposes.
+Data retention period: Keeping the Data for the time necessary to fulfill statistical purposes.
 
 Storage duration:
 
@@ -296,7 +268,7 @@ Legal basis for processing: Consent.
 
 Place of processing: United States – [Privacy Policy](https://www.linkedin.com/legal/privacy-policy).
 
-Data retention period: Keeping the data for the time necessary to fulfill statistical purposes.
+Data retention period: Keeping the Data for the time necessary to fulfill statistical purposes.
 
 Storage duration:
 
@@ -311,13 +283,11 @@ Storage duration:
 * lms\_ads: 1 month
 * lms\_analytics: 1 month
 
-#### Measurement
+### Measurement
 
 Coolors uses Trackers to measure traffic and analyse User behaviour to improve the Service.
 
-### Anonymized analytics services
-
-The services contained in this section allow the Owner, through the use of third-party Trackers, to collect and manage analytics in an anonymized form.
+#### Trackers managed by third parties
 
 #### Google Analytics (Universal Analytics) with anonymized IP (Google Ireland Limited)
 
@@ -333,7 +303,7 @@ Legal basis for processing: Contract.
 
 Place of processing: Ireland – [Privacy Policy](https://business.safety.google/privacy/) – [Opt Out](https://tools.google.com/dlpage/gaoptout?hl=en).
 
-Data retention period: Keeping the data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
+Data retention period: Keeping the Data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
 
 Storage duration:
 
@@ -343,20 +313,31 @@ Storage duration:
 * \_gat: 1 minute
 * \_gid: 1 day
 
-#### Marketing
+### Marketing
 
-Coolors uses Trackers to deliver personalised marketing content based on User behaviour and to operate, serve and track ads.
+Coolors uses Trackers to deliver personalized ads or marketing content, and to measure their performance.
 
 Some of the advertising services used by the Owner adhere to the [IAB Transparency and Consent Framework](https://iabeurope.eu/transparency-consent-framework/), an initiative that facilitates responsible privacy practices across the digital advertising industry - providing Users with enhanced transparency and control over how their data are used for advertising tracking purposes. Users can customize their advertising preferences at any time by accessing the advertising preferences panel from within the cookie notice or via the relevant link on Coolors.
 
 Coolors participates in the IAB Europe Transparency & Consent Framework and complies with its Specifications and Policies. Coolors uses iubenda (identification number 123) as a Consent Management Platform.
 
-### Advertising
+#### Trackers managed directly by the Owner
 
-This type of service allows User Data to be utilized for advertising communication purposes. These communications are displayed in the form of banners and other advertisements on Coolors, possibly based on User interests.  
-This does not mean that all Personal Data are used for this purpose. Information and conditions of use are shown below.  
-Some of the services listed below may use Trackers to identify Users or they may use the behavioral retargeting technique, i.e. displaying ads tailored to the User’s interests and behavior, including those detected outside Coolors. For more information, please check the privacy policies of the relevant services.  
-Services of this kind usually offer the possibility to opt out of such tracking. In addition to any opt-out feature offered by any of the services below, Users may learn more on how to generally opt out of interest-based advertising within the dedicated section "How to opt-out of interest-based advertising" in this document.
+#### Direct Advertising (Coolors)
+
+Coolors uses User Data to propose services or products provided by third parties, related or unrelated to the product or service provided by Coolors.
+
+Direct Advertising may involve the use of Trackers to monitor Users’ behavior and serve personalized ads. Users may opt-out of ad personalization by visiting their device settings or following the instructions provided by [YourOnlineChoices](https://www.youronlinechoices.com/) and [AdChoices](http://www.aboutads.info/choices/).
+
+Besides applicable device settings, the User may also make use of the rights described under User rights in the relevant section of this privacy policy.
+
+Personal Data processed: device information, Trackers, unique device identifiers for advertising (Google Advertiser ID or IDFA, for example), Universally unique identifier (UUID) and Usage Data.
+
+Legal basis for processing: Consent.
+
+Data retention period: Keeping the Data until consent is withdrawn.
+
+#### Trackers managed by third parties
 
 #### Carbon Ads (BuySellAds.com Inc.)
 
@@ -368,7 +349,7 @@ Legal basis for processing: Consent.
 
 Place of processing: United States – [Privacy Policy](https://www.buysellads.com/about/privacy?__hstc=194719090.209d2d0efcd7c95a674eaa2f39bb001d.1615826940169.1615826940169.1615826940169.1&__hssc=194719090.1.1615826940169&__hsfp=4053646362).
 
-Data retention period: Keeping the data until consent is withdrawn.
+Data retention period: Keeping the Data until consent is withdrawn.
 
 #### Carbon (Magnite, Inc. (Carbon AI Limited))
 
@@ -380,7 +361,7 @@ Legal basis for processing: Consent.
 
 Place of processing: United Kingdom – [Privacy Policy](https://carbonrmp.com/privacy/) – [Opt out](https://carbonrmp.com/privacy/).
 
-Data retention period: Keeping the data until consent is withdrawn.
+Data retention period: Keeping the Data until consent is withdrawn.
 
 Storage duration:
 
@@ -401,7 +382,7 @@ Legal basis for processing: Consent.
 
 Place of processing: United States – [Privacy Policy](https://www.buysellads.com/about/privacy).
 
-Data retention period: Keeping the data until consent is withdrawn.
+Data retention period: Keeping the Data until consent is withdrawn.
 
 #### Hotjar Form Analysis & Conversion Funnels (Hotjar Ltd.)
 
@@ -414,7 +395,7 @@ Legal basis for processing: Consent.
 
 Place of processing: Malta – [Privacy Policy](https://www.hotjar.com/legal/policies/privacy) – [Opt Out](https://www.hotjar.com/legal/compliance/opt-out).
 
-Data retention period: Keeping the data until consent is withdrawn.
+Data retention period: Keeping the Data until consent is withdrawn.
 
 Storage duration:
 
@@ -438,25 +419,11 @@ Storage duration:
 * \_hjViewportId: duration of the session
 * \_hjid: 1 year
 
-#### Direct Advertising (Coolors)
-
-Coolors uses User Data to propose services or products provided by third parties, related or unrelated to the product or service provided by Coolors.
-
-Direct Advertising may involve the use of Trackers to monitor Users’ behavior and serve personalized ads. Users may opt-out of ad personalization by visiting their device settings or following the instructions provided by [YourOnlineChoices](https://www.youronlinechoices.com/) and [AdChoices](http://www.aboutads.info/choices/).
-
-Besides applicable device settings, the User may also make use of the rights described under User rights in the relevant section of this privacy policy.
-
-Personal Data processed: device information, Trackers, unique device identifiers for advertising (Google Advertiser ID or IDFA, for example), Universally unique identifier (UUID) and Usage Data.
-
-Legal basis for processing: Consent.
-
-Data retention period: Keeping the data until consent is withdrawn.
-
 ### How to manage preferences and provide or withdraw consent on Coolors
 
 Whenever the use of Trackers is based on consent, users can provide or withdraw such consent by setting or updating their preferences via the relevant privacy choices panel available on Coolors.
 
-With regard to any third-party Trackers, Users can manage their preferences and withdraw their consent (TO BE REMOVED) via the related opt-out link (where provided), by using the means indicated in the third party's privacy policy, or by contacting the third party.
+With regard to any third-party Trackers, Users can manage their preferences via the related opt-out link (where provided), by using the means indicated in the third party's privacy policy, or by contacting the third party.
 
 #### How to control or delete Cookies and similar technologies via your device settings
 

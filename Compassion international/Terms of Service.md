@@ -431,7 +431,7 @@ Follow Us
 *  [](https://www.tiktok.com/@compassioninternational "TikTok")
 *  [](https://www.linkedin.com/company/compassion-international "LinkedIn")
 
-[Privacy Statement](https://www.compassion.com/privacy-policy.htm) [Conditions of Use](https://www.compassion.com/conditions-of-use.htm) [Disclosure Statement](https://www.compassion.com/about/disclosure-statement.htm) [Site Map](https://www.compassion.com/sitemap/sitemap.htm)
+[Privacy Statement](https://www.compassion.com/privacy-policy.htm) [Conditions of Use](https://www.compassion.com/conditions-of-use.htm) [Disclosure Statement](https://www.compassion.com/about/disclosure-statement.htm) [Cookie Settings](javascript:OneTrust.ToggleInfoDisplay();) [Site Map](https://www.compassion.com/sitemap/sitemap.htm)
 
 © 2024 Compassion International. All Rights Reserved.
 

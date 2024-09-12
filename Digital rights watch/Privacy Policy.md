@@ -94,3 +94,5 @@ Digital Rights Watch complies with [the Australian Privacy Act](http://www.oaic
 * [Contact](https://digitalrightswatch.org.au/contact/)
 * [Privacy policy](https://digitalrightswatch.org.au/privacy-policy/)
 * [Donate](https://donate.digitalrightswatch.org.au/)
+
+We use cookies to ensure that our website works on your computer. If you continue to use this site we will assume that you agree with this.[OK](#)[Privacy policy](https://digitalrightswatch.org.au/privacy-policy/)

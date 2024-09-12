@@ -123,8 +123,6 @@ AUD $
 
 New User? [Register Now](https://shirtz.cool/account/register)
 
-[Wishlist](https://shirtz.cool/pages/wishlist "Wishlist")
-
 Select LanguageAUD
 
 * [AED د.إ](#)
@@ -238,7 +236,7 @@ Select LanguageAUD
 
 AUD $
 
-[0](https://shirtz.cool/pages/wishlist "Wishlist")[0](https://shirtz.cool/cart "Cart")
+[0](https://shirtz.cool/cart "Cart")
 
 * [Tops](https://shirtz.cool/collections/tops)
     
@@ -306,7 +304,6 @@ Close Menu
 
 * [LOGIN](https://shirtz.cool/account/login)
 * [Register Now](https://shirtz.cool/account/register)
-* [Wishlist](https://shirtz.cool/pages/wishlist "Wishlist")
 
 [Home](https://shirtz.cool/ "Back to the home page") | Store Policies
 
@@ -643,6 +640,7 @@ Questions about the Terms of Service should be sent to us at help@shirtz.cool.
 * [Returns](https://shirtz.cool/pages/return-policy)
 * [General Information](https://shirtz.cool/pages/faq-information)
 * [Store Policies](https://shirtz.cool/pages/store-policies)
+* [Wholesale](https://shirtz.cool/pages/wholesale-enquiry)
 
 #### **KEEP IN THE LOOP**
 

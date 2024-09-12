@@ -7,7 +7,7 @@
 * [](#)
 * [](#)
 
-[![CreativeClash](https://xcreativeclashx.net/uploads/monthly_2023_04/creeza.png.d458a89aecb09239a642af4874a8e03c.png)](https://xcreativeclashx.net/)
+[![CreativeClash](//cdn.xcreativeclashx.net/monthly_2024_08/CCBannerLogo.png.0136900bac0ce2821aa2596aa949115f.png)](https://xcreativeclashx.net/)
 
 * [Rules](https://xcreativeclashx.net/rules/)
 * [More](#)
@@ -41,7 +41,7 @@
 * [Home](https://xcreativeclashx.net/ "Home")
 * [Privacy Policy](https://xcreativeclashx.net/privacy-policy/)
 
-[Want to help keep us running? Donate!](https://xcreativeclashx.net/announcement/9-want-to-help-keep-us-running-donate/) [×](#)
+[Get ready to Clash!](https://xcreativeclashx.net/announcement/21-get-ready-to-clash/) [×](#)
 
 * **Privacy Policy**
     

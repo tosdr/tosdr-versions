@@ -1,13 +1,11 @@
-[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2799%27%20height=%27109%27/%3e)![EarthLink logo](/images/elnk-logo.svg)
+[![EarthLink logo](/images/elnk-logo.svg)
 
-![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27300%27%20height=%2752%27/%3e)![EarthLink logo](/images/elnk-logo-type.svg)](https://www.earthlink.net/)
+![EarthLink logo](/images/elnk-logo-type.svg)](https://www.earthlink.net/)
 
 * [Home](https://www.earthlink.net/tcs/acceptable-use-policy/#)
 * [Business Internet](https://business.earthlink.net/business-internet/)
 
-[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![agent image](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-![agent image](/_next/image/?url=%2Fimages%2Favailable-agent.png&w=48&q=75)
+[![agent image](/images/available-agent.png)
 
 866-618-0264Agents Available](tel:8666180264 "Call 866-618-0264")
 
@@ -16,7 +14,7 @@
 * My Account
     * [Make a Payment](https://pay.earthlink.net/)
     * [My Earthlink](https://my.earthlink.net/)
-    * [My Account](https://myaccount.earthlink.net/)
+    * [My Account](https://portal.earthlink.net/login/)
     * [Support](https://help.earthlink.net/)
     * [Chat with Us](https://www.earthlink.net/about-us/contact/#chat-now)
     * [Text With Us](https://www.earthlink.net/about-us/contact/?open-sms-chat=true)
@@ -30,7 +28,7 @@
 EarthLink Acceptable Use Policy
 ===============================
 
-**Effective Date: April 1, 2024**
+**Effective Date: August 1, 2024**
 
 1\. Introduction
 ----------------
@@ -44,7 +42,7 @@ EarthLink reserves the right to change or modify the terms of the AUP at any tim
 2. Violations of this Acceptable Use Policy
 -------------------------------------------
 
-The AUP prohibits uses and activities involving EarthLink Services that are illegal, infringe the rights of others, or interfere with or diminish the use and enjoyment of the EarthLink Services by others.
+The AUP prohibits uses and activities involving EarthLink Services that are illegal, infringe the rights of others, or interfere with, are not supportable by EarthLink or diminish the use and enjoyment of the EarthLink Services by others.
 
 The remainder of this Section 2 includes a list and description of some, but not all, of the activities that constitute violations of this AUP if done using EarthLink Services or equipment, whether provided by EarthLink or customer-owned.
 
@@ -96,6 +94,8 @@ For information about how to protect minors online and to determine the appropri
 **Network Probing**: Any type of detective network activity, including, but not limited to, port scanning and pinging.
 
 **Terms of Use Violation**: Violating the terms of use or policies of EarthLink or any third party from or through which EarthLink provides content, including newsgroup providers.
+
+**Usage Thresholds and Excess Usage**: EarthLink endeavors to provide the best experience for all Subscribers. Subscribers’ data usage levels may, on occasion, rise to the level of “**Excess Usage**” which can jeopardize EarthLink’s ability to maintain consistent Service. Accordingly, any overage beyond your highspeed data allotment under the terms of your EarthLink Service could be deemed Excess Usage and would be a violation of this AUP. EarthLink periodically evaluates the extent of Excess Usage to manage network traffic on behalf of all Subscribers to EarthLink Services. Subscribers can learn how to monitor their usage by contacting EarthLink in any of the manners provided at EarthLink.net/about-us/contact.
 
 3\. Reporting Violations of this Acceptable Use Policy
 ------------------------------------------------------
@@ -178,7 +178,7 @@ Help
 
 Account
 
-* [My Account](https://myaccount.earthlink.net/)
+* [My Account](https://portal.earthlink.net/login/)
 * [WebMail](https://webmail1.earthlink.net/login)
 * [My EarthLink](https://my.earthlink.net/?_ga=2.162350972.1106406379.1653451767-495612541.1653451767)
 
@@ -191,8 +191,6 @@ Account
 
 © 2024 EarthLink, LLC · All rights reserved
 
-![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2780%27%20height=%2741%27/%3e)![Earthlink](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Earthlink")
-
-![Earthlink](/_next/image/?url=%2Fimages%2Ffooter.webp&w=256&q=75 "Earthlink")
+![Earthlink](/images/footer.webp "Earthlink")
 
 [Privacy Policy](https://www.earthlink.net/tcs/privacy-policy/)·[Interest-Based Ads](https://www.earthlink.net/tcs/interest-based-ads/)

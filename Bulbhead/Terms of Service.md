@@ -1,4 +1,4 @@
-               Terms of service – BulbHead                                                                               [Skip to content](#MainContent)
+               Terms of service – BulbHead                                                                                  [Skip to content](#MainContent)
 
     
 
@@ -361,6 +361,7 @@ Be the first to know about new collections and exclusive offers.
 * [Account](https://www.bulbhead.com/account)
 * [Rewards Program](https://www.bulbhead.com/pages/rewards)
 * [Track My Order](https://www.bulbhead.com/account)
+* [Wholesale](https://faire.com/direct/bulbhead)
 
 Connect With Us
 ---------------

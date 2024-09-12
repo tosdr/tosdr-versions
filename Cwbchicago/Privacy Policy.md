@@ -242,59 +242,39 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E)
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/Randle-Archie-and-Mercedes-Jones-326x245.jpg)](https://cwbchicago.com/2024/09/carjacking-charges-filed-after-cops-track-airtag-attached-to-the-victims-key-fob.html "Carjacking charges filed after cops track AirTag attached to the victim’s key fob")
 
-![](https://cwbchicago.com/wp-content/uploads/2021/12/Nokomis-Jefferson-and-recovered-gun-326x245.jpg)](https://cwbchicago.com/2024/07/14-years-for-felon-who-got-into-christmas-eve-shoot-out-with-chicago-cops.html "14 years for felon who got into Christmas Eve shoot-out with Chicago cops")
+South Chicago
 
-Near West Side
+### [Carjacking charges filed after cops track AirTag attached to the victim’s key fob](https://cwbchicago.com/2024/09/carjacking-charges-filed-after-cops-track-airtag-attached-to-the-victims-key-fob.html "Carjacking charges filed after cops track AirTag attached to the victim’s key fob")
 
-### [14 years for felon who got into Christmas Eve shoot-out with Chicago cops](https://cwbchicago.com/2024/07/14-years-for-felon-who-got-into-christmas-eve-shoot-out-with-chicago-cops.html "14 years for felon who got into Christmas Eve shoot-out with Chicago cops")
+[September 7, 2024 9:18 AM](https://cwbchicago.com/2024/09)
 
-[July 28, 2024 6:08 AM](https://cwbchicago.com/2024/07)
+Two people face carjacking charges after cops tracked them down by following an AirTag attached to the victim’s key fob.[](https://cwbchicago.com/2024/09/carjacking-charges-filed-after-cops-track-airtag-attached-to-the-victims-key-fob.html "Carjacking charges filed after cops track AirTag attached to the victim’s key fob")
 
-A man who got into a shootout with Chicago police officers on Christmas Eve 2021 has been sentenced to 14 years in prison for gun possession after a jury found him not guilty of trying to kill the cops.[](https://cwbchicago.com/2024/07/14-years-for-felon-who-got-into-christmas-eve-shoot-out-with-chicago-cops.html "14 years for felon who got into Christmas Eve shoot-out with Chicago cops")
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/chasing-squad-326x245.jpg)](https://cwbchicago.com/2024/09/chicago-cops-cant-chase-people-but-that-doesnt-stop-people-from-chasing-the-police-video.html "Chicago cops can’t chase people. But that doesn’t stop people from chasing the police (video)")
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E)
+Citywide
 
-![](https://cwbchicago.com/wp-content/uploads/2024/07/Armani-Gilbert-326x245.jpg)](https://cwbchicago.com/2024/07/man-displayed-machine-gun-while-filming-music-video-on-chicago-riverwalk-prosecutors.html "Man displayed machine gun while filming music video on Chicago Riverwalk: prosecutors")
+### [Chicago cops can’t chase people. But that doesn’t stop people from chasing the police (video)](https://cwbchicago.com/2024/09/chicago-cops-cant-chase-people-but-that-doesnt-stop-people-from-chasing-the-police-video.html "Chicago cops can’t chase people. But that doesn’t stop people from chasing the police (video)")
 
-Loop
+[September 7, 2024 8:12 AM](https://cwbchicago.com/2024/09)
 
-### [Man displayed machine gun while filming music video on Chicago Riverwalk: prosecutors](https://cwbchicago.com/2024/07/man-displayed-machine-gun-while-filming-music-video-on-chicago-riverwalk-prosecutors.html "Man displayed machine gun while filming music video on Chicago Riverwalk: prosecutors")
+To hear “activists” tell it, most Chicagoans feel oppressed by a brutal city police force and live in daily fear of the city’s cops. And then you see videos like these…[](https://cwbchicago.com/2024/09/chicago-cops-cant-chase-people-but-that-doesnt-stop-people-from-chasing-the-police-video.html "Chicago cops can’t chase people. But that doesn’t stop people from chasing the police (video)")
 
-[July 27, 2024 8:44 AM](https://cwbchicago.com/2024/07)
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/1457-N-Halsted-326x245.jpg)](https://cwbchicago.com/2024/09/shots-fired-2-detained-after-rappers-brawl-in-old-town.html "Shots fired, 2 detained after rappers brawl in Old Town")
 
-An 18-year-old man was ordered detained as a safety risk after he allegedly displayed a machine gun while filming a music video on the Chicago Riverwalk.[](https://cwbchicago.com/2024/07/man-displayed-machine-gun-while-filming-music-video-on-chicago-riverwalk-prosecutors.html "Man displayed machine gun while filming music video on Chicago Riverwalk: prosecutors")
+Near North
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E)
+### [Shots fired, 2 detained after rappers brawl in Old Town](https://cwbchicago.com/2024/09/shots-fired-2-detained-after-rappers-brawl-in-old-town.html "Shots fired, 2 detained after rappers brawl in Old Town")
 
-![](https://cwbchicago.com/wp-content/uploads/2024/07/JH343528-suspects-and-Briana-Bush-326x245.jpg)](https://cwbchicago.com/2024/07/1-charged-4-escape-after-sleeping-man-is-mugged-on-the-red-line.html "1 charged, 4 escape after sleeping man is mugged on the Red Line")
+[September 7, 2024 7:13 AM](https://cwbchicago.com/2024/09)
 
-CTA
-
-### [1 charged, 4 escape after sleeping man is mugged on the Red Line](https://cwbchicago.com/2024/07/1-charged-4-escape-after-sleeping-man-is-mugged-on-the-red-line.html "1 charged, 4 escape after sleeping man is mugged on the Red Line")
-
-[July 27, 2024 7:59 AM](https://cwbchicago.com/2024/07)
-
-Charges have been filed against one person, but four more suspects remain at large after a man was mugged on the Red Line at 95th Street, police say.[](https://cwbchicago.com/2024/07/1-charged-4-escape-after-sleeping-man-is-mugged-on-the-red-line.html "1 charged, 4 escape after sleeping man is mugged on the Red Line")
+Chicago police detained two people and recovered a firearm after shots were fired as a group of rappers were leaving the New City complex overnight.[](https://cwbchicago.com/2024/09/shots-fired-2-detained-after-rappers-brawl-in-old-town.html "Shots fired, 2 detained after rappers brawl in Old Town")
 
 Search
 
 Search
-
-#### Contact Us
-
-Please enable JavaScript in your browser to complete this form.
-
-Name \*
-
-Email \*
-
-Message \*
-
-Message
-
-Submit
 
 #### Follow Us
 
@@ -324,14 +304,31 @@ Thank you.
 
 * [Albany Park](https://cwbchicago.com/category/albany-park)
 * [Andersonville](https://cwbchicago.com/category/edgewater/andersonville)
+* [Armour Square](https://cwbchicago.com/category/armour-square)
+* [Ashburn](https://cwbchicago.com/category/ashburn)
+* [Auburn Gresham](https://cwbchicago.com/category/auburn-gresham)
+* [Austin](https://cwbchicago.com/category/austin)
+* [Avalon Park](https://cwbchicago.com/category/avalon-park)
 * [Avondale](https://cwbchicago.com/category/avondale)
+* [Back of the Yards](https://cwbchicago.com/category/back-of-the-yards)
 * [Boystown](https://cwbchicago.com/category/lakeview/boystown)
+* [Bridgeport](https://cwbchicago.com/category/armour-square/bridgeport)
+* [Bronzeville](https://cwbchicago.com/category/bronzeville)
 * [Bucktown](https://cwbchicago.com/category/bucktown)
+* [Calumet Heights](https://cwbchicago.com/category/calumet-heights)
+* [Chatham](https://cwbchicago.com/category/chatham)
+* [Chicago Lawn](https://cwbchicago.com/category/chicago-lawn)
 * [Chinatown](https://cwbchicago.com/category/chinatown)
 * [Citywide](https://cwbchicago.com/category/uncategorized)
 * [CTA](https://cwbchicago.com/category/cta)
+* [Douglas](https://cwbchicago.com/category/douglas)
+* [Dunning](https://cwbchicago.com/category/dunning)
+* [East Garfield Park](https://cwbchicago.com/category/east-garfield-park)
 * [Edgewater](https://cwbchicago.com/category/edgewater)
+* [Englewood](https://cwbchicago.com/category/englewood)
+* [Garfield Ridge](https://cwbchicago.com/category/garfield-ridge)
 * [Gold Coast](https://cwbchicago.com/category/near-north/gold-coast)
+* [Greater Grand Crossing](https://cwbchicago.com/category/greater-grand-crossing)
 * [Hermosa](https://cwbchicago.com/category/hermosa)
 * [Humboldt Park](https://cwbchicago.com/category/humboldt-park)
 * [Irving Park](https://cwbchicago.com/category/irving-park)
@@ -339,30 +336,43 @@ Thank you.
 * [Lakeview](https://cwbchicago.com/category/lakeview)
 * [Lincoln Park](https://cwbchicago.com/category/lincoln-park)
 * [Lincoln Square](https://cwbchicago.com/category/lincoln-square)
+* [Little Village](https://cwbchicago.com/category/little-village)
 * [Logan Square](https://cwbchicago.com/category/logan-square)
 * [Loop](https://cwbchicago.com/category/loop)
 * [Magnificent Mile](https://cwbchicago.com/category/near-north/streeterville/magnificent-mile)
+* [McKinley Park](https://cwbchicago.com/category/mckinley-park)
+* [Morgan Park](https://cwbchicago.com/category/morgan-park)
 * [Near North](https://cwbchicago.com/category/near-north)
 * [Near West Side](https://cwbchicago.com/category/near-west-side)
 * [North Center](https://cwbchicago.com/category/north-center)
+* [North Lawndale](https://cwbchicago.com/category/north-lawndale)
+* [Norwood park](https://cwbchicago.com/category/norwood-park)
+* [O'Hare](https://cwbchicago.com/category/ohare)
 * [Old Town](https://cwbchicago.com/category/old-town)
+* [Pilsen](https://cwbchicago.com/category/pilsen)
 * [Portage Park](https://cwbchicago.com/category/portage-park-2)
 * [Ravenswood](https://cwbchicago.com/category/ravenswood)
 * [River North](https://cwbchicago.com/category/near-north/river-north)
 * [Rogers Park](https://cwbchicago.com/category/rogers-park)
 * [Roscoe Village](https://cwbchicago.com/category/roscoe-village)
+* [Roseland](https://cwbchicago.com/category/roseland)
+* [South Chicago](https://cwbchicago.com/category/south-chicago)
 * [South Loop](https://cwbchicago.com/category/south-loop)
 * [Streeterville](https://cwbchicago.com/category/near-north/streeterville)
+* [Suburbs](https://cwbchicago.com/category/suburbs)
 * [Uptown](https://cwbchicago.com/category/uptown)
+* [Washington Park](https://cwbchicago.com/category/washington-park)
+* [West Elsdon](https://cwbchicago.com/category/west-elsdon)
+* [West Garfield Park](https://cwbchicago.com/category/west-garfield-park)
 * [West Loop](https://cwbchicago.com/category/west-loop)
+* [West Pullman](https://cwbchicago.com/category/west-pullman)
 * [West Ridge](https://cwbchicago.com/category/west-ridge)
 * [West Town](https://cwbchicago.com/category/west-town)
 * [Wicker Park](https://cwbchicago.com/category/wicker-park)
+* [Woodlawn](https://cwbchicago.com/category/woodlawn)
 * [Wrigleyville](https://cwbchicago.com/category/lakeview/wrigleyville)
 
 ###### About CWBChicago
-
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%2065'%3E%3C/svg%3E)
 
 ![](https://cwbchicago.com/wp-content/uploads/2021/08/CWBC-LOGO-2021-300x65.jpg)
 

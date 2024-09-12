@@ -44,6 +44,7 @@ Open menu
     
 * [Ambassadors](https://bumble.com/bumble-honey-ambassadors)
 * [Events](https://bumble.events/)
+* [Success Stories](https://bumble.com/success-stories)
 * [The Buzz](https://bumble-buzz.com/)
 * [About](https://bumble.com/en/about)
 
@@ -128,6 +129,7 @@ Footer
 * [Events](https://bumble.events/)
 * [Contact Us](https://bumble.com/en/contact-us)
 * [Guidelines](https://bumble.com/en/guidelines)
+* [Accessibility at Bumble](https://bumble.com/accessibility)
 * [Careers](http://team.bumble.com/)
 * [Investors](https://ir.bumble.com/)
 * [Modern Slavery Act Statement(opens in new window)](https://bumble.com/modern-slavery-act-statement)
@@ -135,7 +137,7 @@ Footer
 * [Terms & Conditions](https://bumble.com/en/terms)
 * [Privacy Policy](https://bumble.com/en/privacy)
 * [Impressum](https://bumble.com/en/impressum)
-* Manage Cookies
+* Do not sell or share my personal information
 * [Seasonal Dating Guides](https://bumble.com/date/seasonal)
 * [Washington Consumer Health Data Privacy Policy](https://bumble.com/bumble-washington-consumer-health-data-privacy-policy)
 
@@ -151,6 +153,7 @@ Close menu
     
 * [Ambassadors](https://bumble.com/bumble-honey-ambassadors)
 * [Events](https://bumble.events/)
+* [Success Stories](https://bumble.com/success-stories)
 * [The Buzz](https://bumble-buzz.com/)
 * [Shop](https://shop.bumble.com/)
 * [About](https://bumble.com/en/about)

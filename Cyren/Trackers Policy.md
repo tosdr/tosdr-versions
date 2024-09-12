@@ -31,7 +31,7 @@ Menu
     * [Access Control Manager™](https://data443.com/access-control-manager/)
     * [Cyren Threat Intelligence](https://data443.com/cyren-threat-intelligence/)
     * [Cyren Web Security Engine](https://data443.com/cyren-web-security-engine/)
-    * [Cyren Threat InDepth](https://data443.com/cyren-threat-indepth/)
+    * [Cyren Threat InDepth Feeds](https://data443.com/cyren-threat-indepth/)
     * [Cyren Email Security Engine](https://data443.com/cyren-email-security-engine/)
     * [Cyren Malware Detection](https://data443.com/cyren-malware-detection-engine/)
     * [Cyren Hybrid Analyzer](https://data443.com/cyren-hybrid-analyzer/)
@@ -63,10 +63,11 @@ Menu
     * [Blog](https://data443.com/blog/)
     * [Product Datasheets](https://data443.com/product-datasheets/)
     * [Press Releases](https://data443.com/press-releases/)
-    * [Supported Platforms](https://data443.com/supported-platforms/)
+    * [Supported Platforms](https://data443.com/our-supported-platforms/)
 * [Investor relations](#)
     * [Press Releases](https://data443.com/press-releases/)
     * [SEC Filings](https://data443.com/sec-filings/)
+    * [Stock Information](https://data443.com/stock-information/)
     * [Governance Documents](https://data443.com/governance-documents/)
     * [Investor Email Alerts](https://data443.com/investor-email-alerts/)
     * [Contact Investor Relations](https://data443.com/contact-investor-relations/)
@@ -146,7 +147,7 @@ Menu
     
     * [Cyren Threat Intelligence](https://data443.com/cyren-threat-intelligence/)
     * [Cyren Email Security Engine](https://data443.com/cyren-email-security-engine/)
-    * [Cyren Threat InDepth](https://data443.com/cyren-threat-indepth/)
+    * [Cyren Threat InDepth Feeds](https://data443.com/cyren-threat-indepth/)
     * [Cyren Web Security Engine](https://data443.com/cyren-web-security-engine/)
     * [Cyren Malware Detection](https://data443.com/cyren-malware-detection-engine/)
     * [Cyren Hybrid Analyzer](https://data443.com/cyren-hybrid-analyzer/)
@@ -154,7 +155,7 @@ Menu
     
     * [Cyren Threat Intelligence](https://data443.com/cyren-threat-intelligence/)
     * [Cyren Email Security Engine](https://data443.com/cyren-email-security-engine/)
-    * [Cyren Threat InDepth](https://data443.com/cyren-threat-indepth/)
+    * [Cyren Threat InDepth Feeds](https://data443.com/cyren-threat-indepth/)
     * [Cyren Web Security Engine](https://data443.com/cyren-web-security-engine/)
     * [Cyren Malware Detection](https://data443.com/cyren-malware-detection-engine/)
     * [Cyren Hybrid Analyzer](https://data443.com/cyren-hybrid-analyzer/)
@@ -226,7 +227,7 @@ Menu
         * [Cyren IPM Demo](https://data443.com/cyren-inbox-protection-manager/)
     * [Events](https://data443.com/events/)
     * [Blog](https://data443.com/blog/)
-    * [Supported Platforms](https://data443.com/supported-platforms/)
+    * [Supported Platforms](https://data443.com/our-supported-platforms/)
     * [Product Datasheets](https://data443.com/product-datasheets/)
     * [Press Releases](https://data443.com/press-releases/)
     
@@ -238,7 +239,7 @@ Menu
         * [Cyren IPM Demo](https://data443.com/cyren-inbox-protection-manager/)
     * [Events](https://data443.com/events/)
     * [Blog](https://data443.com/blog/)
-    * [Supported Platforms](https://data443.com/supported-platforms/)
+    * [Supported Platforms](https://data443.com/our-supported-platforms/)
     * [Product Datasheets](https://data443.com/product-datasheets/)
     * [Press Releases](https://data443.com/press-releases/)
     
@@ -246,6 +247,7 @@ Menu
     
     * [Press Releases](https://data443.com/press-releases/)
     * [SEC Filings](https://data443.com/sec-filings/)
+    * [Stock Information](https://data443.com/stock-information/)
     * [Governance Documents](https://data443.com/governance-documents/)
     * [Investor Email Alerts](https://data443.com/investor-email-alerts/)
     * [Contact Investor Relations](https://data443.com/contact-investor-relations/)
@@ -253,6 +255,7 @@ Menu
     
     * [Press Releases](https://data443.com/press-releases/)
     * [SEC Filings](https://data443.com/sec-filings/)
+    * [Stock Information](https://data443.com/stock-information/)
     * [Governance Documents](https://data443.com/governance-documents/)
     * [Investor Email Alerts](https://data443.com/investor-email-alerts/)
     * [Contact Investor Relations](https://data443.com/contact-investor-relations/)
@@ -269,32 +272,34 @@ Close this search box.
 
 [Get Demo](https://www.cyren.com/get-demo/)
 
-Privacy Notice & Legal
-======================
+Privacy Policy
+==============
 
 ![](https://data443.com/wp-content/uploads/2023/06/graphic3.png)
 
 ![](https://data443.com/wp-content/uploads/2023/06/graphic3.png)
 
-[](https://www.cyren.com/end-user-license-agreement)
+### Please identify yourself via e-mail
 
-### [End User License Agreement (EULA)](https://www.cyren.com/end-user-license-agreement)
+Enter your email address    
 
-[](https://www.cyren.com/privacy-policy/)
+### **Data443 Risk Mitigation, Inc. knows that you care how information about you is used and shared, and we appreciate your trust that we are committed to protecting your privacy.**
 
-### [Privacy Policy](https://www.cyren.com/privacy-policy/)
+This notice describes our current privacy policy. By accessing Data443 Risk Mitigation, Inc. at www.data443.com, you are accepting the practices described in this Privacy Notice.
 
-[](https://www.cyren.com/renewal-policies-and-practices)
+**What Personal Information About Customers Does Data443 Gather?  
+**The information we learn from customers and potential customers helps us personalize and continually improve your Data443 experience. Here are the types of information we gather.
 
-### [Renewal Policies & Practices](https://www.cyren.com/renewal-policies-and-practices)
+**Information You Give Us:**  
+We receive and store any information you enter on our website or give us in any other way. You can choose not to provide certain information, but then we might not be able to effectively respond to you. We use the information that you provide for such purposes as responding to your requests, improving our products, and communicating with you.
 
-[](https://www.cyren.com/terms-for-support-and-maintenance-services)
+**Automatic Information:**  
+We receive and store certain types of information whenever you interact with us. For example, like many websites, we use “cookies,” and we obtain certain types of information when your web browser accesses www.data443.com.  
+Email Communications: To help us make emails more useful and interesting, we often receive a confirmation when you open email from Data443 if your computer supports such capabilities. We also compare our customer and marketing list to lists received from other companies, in an effort to avoid sending unnecessary messages. If you do not want to receive email or other communication from us, please adjust your Customer Communications Preferences here.  
+Information from Other Sources: We might receive information about you from other sources and add it to our account information.
 
-### [Supplemental Terms for Support & Maintenance Services](https://www.cyren.com/terms-for-support-and-maintenance-services)
-
-[](https://data443.com/privacy-sub-processor-list/)
-
-### [Privacy Sub Processor List](https://data443.com/privacy-sub-processor-list/)
+**What About Cookies?  
+**Cookies are unique identifiers that we transfer to your device to enable our systems to recognize your device and customize communications. The Help feature on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on’s settings or visiting the manufacturer’s website. Because cookies allow us to customize our communications with you, we recommend that you leave them turned on.
 
 [](https://www.linkedin.com/company/data443-risk-mitigation-inc/)
 
@@ -326,7 +331,7 @@ Resources
     * [Cyren IPM Demo](https://data443.com/cyren-inbox-protection-manager/)
 * [Events](https://data443.com/events/)
 * [Blog](https://data443.com/blog/)
-* [Supported Platforms](https://data443.com/supported-platforms/)
+* [Supported Platforms](https://data443.com/our-supported-platforms/)
 * [Product Datasheets](https://data443.com/product-datasheets/)
 * [Press Releases](https://data443.com/press-releases/)
 
@@ -338,7 +343,7 @@ Resources
     * [Cyren IPM Demo](https://data443.com/cyren-inbox-protection-manager/)
 * [Events](https://data443.com/events/)
 * [Blog](https://data443.com/blog/)
-* [Supported Platforms](https://data443.com/supported-platforms/)
+* [Supported Platforms](https://data443.com/our-supported-platforms/)
 * [Product Datasheets](https://data443.com/product-datasheets/)
 * [Press Releases](https://data443.com/press-releases/)
 
@@ -347,6 +352,7 @@ Resources
 
 * [Press Releases](https://data443.com/press-releases/)
 * [SEC Filings](https://data443.com/sec-filings/)
+* [Stock Information](https://data443.com/stock-information/)
 * [Governance Documents](https://data443.com/governance-documents/)
 * [Investor Email Alerts](https://data443.com/investor-email-alerts/)
 * [Contact Investor Relations](https://data443.com/contact-investor-relations/)
@@ -354,6 +360,7 @@ Resources
 
 * [Press Releases](https://data443.com/press-releases/)
 * [SEC Filings](https://data443.com/sec-filings/)
+* [Stock Information](https://data443.com/stock-information/)
 * [Governance Documents](https://data443.com/governance-documents/)
 * [Investor Email Alerts](https://data443.com/investor-email-alerts/)
 * [Contact Investor Relations](https://data443.com/contact-investor-relations/)

@@ -116,9 +116,10 @@ BlockSite End User License Agreement
 
 _\[Last modified: January 27, 2021\]_
 
-This End User License Agreement (“EULA”) together with the privacy policies available at: [https://blocksite.co/privacy/](https://blocksite.co/privacy/) and [https://blocksite.co/privacy-app-and-web/](https://blocksite.co/privacy-app-and-web/) (“Privacy Policies”) is made between BlockSite LP (“Company”, “us”, “we” and “our”), the operator of the _BlockSite_ extensions and mobile apps (“BlockSite” or “Product”) and you, a user of BlockSite.
+This End User License Agreement (“EULA”) together with the privacy policies available at: [https://blocksite.co/privacy](https://blocksite.co/privacy) and [https://blocksite.co/privacy-app-and-web](https://blocksite.co/privacy-app-and-web) (“Privacy Policies”) is made between BlockSite LP (“Company”, “us”, “we” and “our”), the operator of the _BlockSite_ extensions and mobile apps (“BlockSite” or “Product”) and you, a user of BlockSite.
 
-### Introduction
+Introduction
+------------
 
 * By accessing or using the Product, you hereby agree to abide by this Agreement and the Privacy Policies, incorporated herein by reference (collectively the “Agreement“). If you do not agree to abide by this Agreement, please do not access or use the Product or Service (as defined below).
 * We reserve the right, at our discretion, to revise or update this Agreement at any time. Any material change will be effective five (5) days following posting the revised terms on the applicable website or by sending a notification through the Product. The last revision will be reflected in the “Last modified” heading. Your continued use of the Product thereafter means you consent to such changes and you agree to be bound by them. Please make sure to review our EULA and the Privacy Policy periodically.
@@ -138,7 +139,7 @@ You agree that you and/or any third party on your behalf shall not: (i) sublicen
 
 ### Paid Subscription Plans
 
-In addition to free versions of our Product or Service, we may offer a variety of paid subscription plans, which include additional features (“**Premium Plans**”). Our Premium Plans may have differing terms, durations, and prices, including a trial period; the applicable terms for each Premium Plan will be disclosed to you prior to purchasing any of our Premium Plans. To Learn more about our Premium Plans, please visit [https://blocksite.co/purchase](https://blocksite.co/pricing).
+In addition to free versions of our Product or Service, we may offer a variety of paid subscription plans, which include additional features (“**Premium Plans**”). Our Premium Plans may have differing terms, durations, and prices, including a trial period; the applicable terms for each Premium Plan will be disclosed to you prior to purchasing any of our Premium Plans. To Learn more about our Premium Plans, please visit [https://blocksite.co/pricing](https://blocksite.co/pricing).
 
 We may change our Premium Plans and their associated terms, including prices, at any time; however, once you have purchased a specific Premium Plan, any changes to your existing plan will apply no earlier than thirty (30) days following our notice to you, which may be provided via the email address you provided upon purchasing your Premium Plan or via the Product for which you purchased a Premium Plan, as applicable.
 
@@ -247,3 +248,7 @@ Ensure that you never miss out on our promotions and special feature releases
 Available On
 
  [![chrome icon](https://blocksite.co/wp-content/uploads/2023/12/chrome-24-single-color.svg)](https://chromewebstore.google.com/detail/blocksite-block-websites/eiimnmioipafcokbfikbljfdeojpcgbh)[![firefox icon](https://blocksite.co/wp-content/uploads/2023/12/firefox-24-single-color.svg)](https://addons.mozilla.org/en-US/firefox/addon/blocksite/)[![edge icon](https://blocksite.co/wp-content/uploads/2023/12/edge-24-single-color.svg)](https://microsoftedge.microsoft.com/addons/detail/blocksite-block-websites/lbnblmjlpifpfpefbcgefbhnlcnnjgjk)[![play icon](https://blocksite.co/wp-content/uploads/2023/12/google-play-24-single-color.svg)](https://play.google.com/store/apps/details?id=co.blocksite)[![appstore icon](https://blocksite.co/wp-content/uploads/2023/12/app-store-24-single-color.svg)](https://apps.apple.com/us/app/blocksite/id1474967653)[![windows icon](https://blocksite.co/wp-content/uploads/2023/12/windows-24-single-color.svg)](https://user.blocksite.co/desktop-lp)
+
+ [![](https://blocksite.co/wp-content/themes/blocksite/assets/images/glitter-star-magic.svg) New FEATURE](https://user.blocksite.co/suggestions-lp?utm_source=Terms%20of%20Use) **Every Second Counts** Discover Your Digital Timewasters. [Learn More ![](https://blocksite.co/wp-content/themes/blocksite/assets/images/arrow-right.svg)](https://user.blocksite.co/suggestions-lp?utm_source=Terms%20of%20Use) 
+
+![Close](https://blocksite.co/wp-content/themes/blocksite/assets/images/close-icon-dark.svg)

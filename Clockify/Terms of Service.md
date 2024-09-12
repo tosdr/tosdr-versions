@@ -216,15 +216,21 @@ Your installation or use of any Add-Ons is completely voluntary, at your own ris
 
 You also understand that Add-Ons may collect, process, disclose, store, and/or delete your information, including personal information, in a manner that is different than CAKE.com, and that by using or installing an Add-On you are providing your information, including personal information to the Add-On Provider who will act as the controller or business, as defined by applicable privacy laws, with respect to any such information.
 
-6.2 Notwithstanding the foregoing, CAKE.com shall collect and handle payment relating to your use of Add-Ons on behalf of Add-On Providers to the extent applicable. Add-On Providers will determine the amounts you must pay to use their Add-Ons, and you agree to pay those amounts in advance and in full, in U.S. dollars (USD), Euro (EUR) or Swiss francs (CHF), depending on the territory where you are domiciled and where is your official business address and, without deducting or allowing the deduction of any currency conversion, wire transfer, remittance, applicable tax, or other charges related to the payment. The fees are exclusive of any VAT or other taxes and public duties, except where explicitly stated to the contrary. It is each User's responsibility to bear all public duties related to the purchase of any Add-Ons.
+6.2 Add-Ons shall be initially installed and paid per Workspace, and gradually Add-Ons shall be installed and paid either per Workspace or per Seat. All Add-On installations and Add-On subscriptions shall be on a monthly basis. Each Add-On subscription shall have its own invoice cycle and subscription cycle.
 
-6.3 All payments are handled by a third-party payment processor. CAKE.com is not responsible for the processing of your payment and shall not be liable for any matter in connection therewith. Paid fees are non-refundable, and you understand and agree that CAKE.com is not responsible for and has no authority to negotiate or respond to any payment disputes you have with the Add-On Provider.
+You may cancel Add-On subscription by uninstalling the respective Add-On, in which case you shall not be entitled to a refund. When the Add-On is uninstalled the Add-On subscription is cancelled at the end of the subscription cycle. In case you avail yourself of your right to uninstall the Add-On, you shall be entitled to reinstall such Add-On without additional payment and your subscription shall be reactivated. Such Add-On installation shall be valid until the end of the respective subscription cycle free of charge.
 
-6.4 CAKE.com allows Add-On Providers to offer Add-Ons to you in the Marketplace, but CAKE.com has no obligation to offer, continue to offer, delete, and/or maintain any particular Add-Ons. CAKE.com may, within its sole discretion, discontinue or make unavailable any Add-Ons in its Marketplace with no liability to you. CAKE.com will endeavour where practicable to provide thirty (30) days prior notice before discontinuing or making unavailable any Add-Ons, but you acknowledge and agree that that is not always possible because CAKE.com does not provide the Add-Ons.
+Your Add-On subscription might also be cancelled in case developer requests the deletion of the Add-On and if CAKE.com approves such a request, all the subscriptions to such Add-On shall be cancelled and such subscriptions shall be valid until the end of the respective Add-On subscription cycle.
+
+6.3 Notwithstanding the foregoing, CAKE.com shall collect and handle payment relating to your use of Add-Ons on behalf of Add-On Providers to the extent applicable. Add-On Providers will determine the amounts you must pay to use their Add-Ons, and you agree to pay those amounts in advance and in full, in U.S. dollars (USD), Euro (EUR) or Swiss francs (CHF), depending on the territory where you are domiciled and where is your official business address and, without deducting or allowing the deduction of any currency conversion, remittance, applicable tax, or other charges related to the payment. Payment via wire transfer relating to your use of Add-Ons shall not be feasible and allowed. The fees are exclusive of any VAT or other taxes and public duties, except where explicitly stated to the contrary. It is each User's responsibility to bear all public duties related to the purchase of any Add-Ons.
+
+6.4 All payments are handled by a third-party payment processor. CAKE.com is not responsible for the processing of your payment and shall not be liable for any matter in connection therewith. Paid fees are non-refundable, and you understand and agree that CAKE.com is not responsible for and has no authority to negotiate or respond to any payment disputes you have with the Add-On Provider.
+
+6.5 CAKE.com allows Add-On Providers to offer Add-Ons to you in the Marketplace, but CAKE.com has no obligation to offer, continue to offer, delete, and/or maintain any particular Add-Ons. CAKE.com may, within its sole discretion, discontinue or make unavailable any Add-Ons in its Marketplace with no liability to you. CAKE.com will endeavour where practicable to provide thirty (30) days prior notice before discontinuing or making unavailable any Add-Ons, but you acknowledge and agree that that is not always possible because CAKE.com does not provide the Add-Ons.
 
 CAKE.com cannot guarantee the continued availability of Add-Ons and Third-Party Offerings and Add-On Provider may cease providing them without entitling User to any refund, credit, or other compensation, if for example and without limitation, the Add-On Provider ceases to make the Add-Ons and Third-Party Offerings available for interoperation with the corresponding Service features in a manner acceptable to CAKE.com.
 
-**6.5 Disclaimer of Warranties With Respect to Add-Ons.** CAKE.com is in no way liable or responsible for your installation or use of the Add-Ons or any claims, issues, or complaints you have relating to the Add-Ons. CAKE.com is not responsible for, and CAKE.com hereby disclaims any liability for, any act or omission of any Add-On Provider or any provider of Third-Party Offerings or the operation of any Add-Ons or Third-Party Offerings, including access to, modification of, or deletion of data, regardless of whether CAKE.com or a Service endorses, approves, or supports any such Add-Ons or Third-Party Offerings. CAKE.com is not responsible for any disclosure, modification or deletion of User Data resulting from access by such Add-On application or Add-On Provider.
+**6.6 Disclaimer of Warranties With Respect to Add-Ons.** CAKE.com is in no way liable or responsible for your installation or use of the Add-Ons or any claims, issues, or complaints you have relating to the Add-Ons. CAKE.com is not responsible for, and CAKE.com hereby disclaims any liability for, any act or omission of any Add-On Provider or any provider of Third-Party Offerings or the operation of any Add-Ons or Third-Party Offerings, including access to, modification of, or deletion of data, regardless of whether CAKE.com or a Service endorses, approves, or supports any such Add-Ons or Third-Party Offerings. CAKE.com is not responsible for any disclosure, modification or deletion of User Data resulting from access by such Add-On application or Add-On Provider.
 
 By allowing Add-On Providers to offer Add-Ons to you in the Marketplace, CAKE.com in no way endorses or sponsors any Add-Ons or Add-On Providers and makes no representations or warranties with respect to any Add-Ons. Except as otherwise provided in a writing by us, we provide our Marketplace and any Add-Ons contained thereon "as is" and "as available" without warranties of any kind, either express or implied, including implied warranties of merchantability, fitness for a particular purpose, title, and non-infringement. In addition, because Add-On Providers operate and provide Add-Ons and not CAKE.com, CAKE.com does not represent or warrant that the Add-Ons and Third-Party Offerings are accurate, complete, reliable, current, error-free, secure, timely, or will be uninterrupted or of satisfactory quality. Furthermore, CAKE.com does not guarantee the interoperation, integration, or support of any Add-Ons or Third-Party Offerings. CAKE.com may, at any time, in its sole discretion, modify the Services or Software, which may result in the failed interoperation, integration, or support of Add-Ons and Third-Party Offerings. You understand and agree that CAKE.com cannot and does not represent or warrant that any Add-Ons are free of viruses or other harmful components. You assume the entire risk as to the quality and performance of the Add-Ons. User is solely responsible for any damage User may suffer resulting from the use of or inability to use the Add-Ons. No oral or written information or advice given by CAKE.com or its authorized representatives shall create a warranty or in any way increase the scope of CAKE.com's obligations.
 
@@ -809,6 +815,8 @@ If any provision of this Agreement violates any mandatory rule of applicable Law
 
 [\[email protected\]](https://clockify.me/cdn-cgi/l/email-protection)
 
+[![Clockify](../assets/images/icons/clockify-icon-menu.svg)](https://clockify.me/ "Clockify") [![Pumble](../assets/images/icons/pumble-icon-menu.svg)](https://pumble.com/ "Pumble") [![Plaky](../assets/images/icons/plaky-icon-menu.svg)](https://plaky.com/ "Plaky")
+
 ##### Products
 
 * [Suite](https://clockify.me/suite)
@@ -816,9 +824,8 @@ If any provision of this Agreement violates any mandatory rule of applicable Law
 * [Plaky](https://clockify.me/plaky)
 * [Pumble](https://clockify.me/pumble)
 * [Clockify](https://clockify.me/clockify)
-* [Updates](https://clockify.me/updates/)
+* [Marketplace](https://marketplace.cake.com/)
 * [Try for free](https://clockify.me/try)
-* [Request a demo](https://clockify.me/empowered-team/bundle-sales/)
 
 ##### Company
 
@@ -827,13 +834,21 @@ If any provision of this Agreement violates any mandatory rule of applicable Law
 * [Press](https://clockify.me/press)
 * [Customers](https://clockify.me/customers)
 * [Affiliate](https://clockify.me/affiliate)
-* [Marketplace](https://marketplace.cake.com/)
+* [Partnerships](https://clockify.me/partnership)
+
+##### Resources
+
 * [Brand](https://brand.cake.com/)
 * [Blog](https://cake.com/empowered-team/)
+* [Updates](https://clockify.me/updates/)
+* [Tutorials](https://clockify.me/tutorials)
+* [Request a demo](https://clockify.me/empowered-team/bundle-sales/)
 
 ##### Follow us
 
-[![](/assets/images/icons/facebook.svg)](https://www.facebook.com/wwwcakecom) [![](/assets/images/icons/instagram.svg)](https://www.instagram.com/www_cake_com/) [![](/assets/images/icons/x.svg)](https://twitter.com/cake_dot_com) [![](/assets/images/icons/youtube.svg)](https://www.youtube.com/@cake_dot_com) [![](/assets/images/icons/linkedin.svg)](https://www.linkedin.com/company/cake-dot-com/)
+ [![Icon Facebook](/assets/images/icons/facebook.svg)](https://www.facebook.com/wwwcakecom)[![Icon Instagram](/assets/images/icons/instagram.svg)](https://www.instagram.com/www_cake_com/)[![Icon X](/assets/images/icons/x.svg)](https://twitter.com/cake_dot_com)[![Icon YouTube](/assets/images/icons/youtube.svg)](https://www.youtube.com/@cake_dot_com?sub_confirmation=1)[![Icon LinkedIn](/assets/images/icons/linkedin.svg)](https://www.linkedin.com/company/cake-dot-com/)
+
+[![ISO](../assets/images/icons/iso.svg)](https://clockify.me/security) [![SOC2](../assets/images/icons/soc2.svg)](https://clockify.me/security) [![GDPR](../assets/images/icons/gdpr.svg)](https://clockify.me/security)
 
 © CAKE.com Inc. All rights reserved.
 

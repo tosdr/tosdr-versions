@@ -7,8 +7,8 @@
 MENUMENU
 
 * [Explore](https://www.educba.com/explore/)
-    * [Lifetime Membership](https://www.educba.com/all-in-one/)
-    * [All in One Bundles](https://www.educba.com/all-in-one-bundles/)
+    * [EDUCBA Pro](https://www.educba.com/educba-pro/)
+    * [PRO Bundles](https://www.educba.com/pro-bundles/)
     * [Featured Skills](https://www.educba.com/featured-skills/)
     * [New & Trending](https://www.educba.com/new-trending/courses/)
     * [Fresh Entries](https://www.educba.com/fresh-entries/)
@@ -280,8 +280,8 @@ Footer
 
 ###### Popular Categories
 
-* [Lifetime Membership](https://www.educba.com/lifetime-membership/?source=footer)
-* [All in One Bundles](https://www.educba.com/all-in-one-bundles/?source=footer)
+* [Lifetime Membership](https://www.educba.com/educba-pro/?source=footer)
+* [All in One Bundles](https://www.educba.com/pro-bundles/?source=footer)
 * [Featured Skills](https://www.educba.com/featured-skills/?source=footer)
 * [New & Trending](https://www.educba.com/new-trending/courses/?source=footer)
 * [Fresh Entries](https://www.educba.com/fresh-entries/?source=footer)
@@ -346,4 +346,4 @@ OK
 
      
 
-[🚀 Limited Time Offer! \- 🎁 ENROLL NOW](https://www.educba.com/all-in-one/)
+[Early-Bird Offer: ENROLL NOW](https://www.educba.com/educba-pro/)

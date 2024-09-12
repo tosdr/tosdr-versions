@@ -1,46 +1,97 @@
 [Skip to main content](#maincontent) [Skip to footer content](#footercontent)
 
-[Sign up](https://www.bose.com/account) to be a My Bose VIP and enter for a chance to win an upcoming My Bose x NME C24 Vinyl Giveaway
+Explore the NEW limited-edition Lunar Blue Collection. [Shop](https://www.bose.com/c/lunar-blue-collection)
 
-Save an extra 20% on [Certified Refurbished](https://www.bose.com/c/refurbished) products with code SUMMER20.
+Sign up for texts & get an extra 10% off Certified Refurbished products. [Sign up](https://cloud.email.bose.com/sms-sign-up).
 
-New QuietComfort Headphones in limited-edition Chilled Lilac. [BUY NOW](https://www.bose.com/QC-HEADPHONEARN.html)
+Enter our diamond-studded giveaway. [Learn more.](https://www.bose.com/60th-anniversary-diamond-giveaway)
+
+Score up to $150 off soundbars and more. [Shop](https://www.bose.com/c/home-theater/soundbars).
 
 Back
 
 * [Shop](#)
     
-    * [All Products](https://www.bose.com/c/all-products)
     * [New & Featured](https://www.bose.com/c/new-arrivals)
     * [Headphones](https://www.bose.com/c/headphones)
     * [Earbuds](https://www.bose.com/c/earbuds)
     * [Speakers](https://www.bose.com/c/speakers)
-    
     * [Home Theater](https://www.bose.com/c/home-theater)
-    * [Portable PA](https://www.bose.com/c/portable-pa)
-    * [Aviation](https://www.bose.com/c/headphones-aviation-headsets)
     
+    * [Portable PA](https://www.bose.com/c/portable-pa)
+    * [Aviation Headsets](https://www.bose.com/c/aviation-headsets)
+    * [Accessories](https://www.bose.com/c/accessories)
+    * [All Products](https://www.bose.com/c/all-products)
+    
+    * [Sale](https://www.bose.com/c/sale)
     * [Sets](https://www.bose.com/c/sets)
     * [Refurbished](https://www.bose.com/c/refurbished)
     * [Gift Cards](https://www.bose.com/gift-cards)
-    * [Accessories](https://www.bose.com/c/accessories)
     
     Back
     
-    [![](https://assets.bosecreative.com/m/7f282209b7c5ee31/webimage-SF_QCH_M-NAV_EXPRESSIVE_CHILLED-LILAC.png)
+    * [All New & Featured](https://www.bose.com/c/new-arrivals)
+    * [Diamond Collection](https://www.bose.com/c/60th-anniversary-diamond-collection)
+    * [Lunar Blue Collection](https://www.bose.com/c/lunar-blue-collection)
     
-    Limited-edition
+    * [All Headphones](https://www.bose.com/c/headphones)
+    * [Noise Cancelling Headphones](https://www.bose.com/c/headphones/noise-cancelling)
+    * [Spatial Audio Headphones](https://www.bose.com/c/headphones/spatial-audio)
+    * [Headphone Accessories](https://www.bose.com/c/headphones/accessories)
+    * [Headphone Sets](https://www.bose.com/c/headphones/sets)
     
-    ### New QuietComfort Headphones in Chilled Lilac.](https://www.bose.com/en_us/legal/QC-HEADPHONEARN.html "BUY NOW")
+    * [All Earbuds](https://www.bose.com/c/earbuds)
+    * [In Ear Earbuds](https://www.bose.com/c/earbuds/in)
+    * [Open Ear Earbuds](https://www.bose.com/c/earbuds/open)
+    * [Noise Cancelling Earbuds](https://www.bose.com/c/earbuds/noise-cancelling)
+    * [Earbud Accessories](https://www.bose.com/c/earbuds/accessories)
+    * [Earbuds Sets](https://www.bose.com/c/earbuds/sets)
+    
+    * [All Speakers](https://www.bose.com/c/speakers)
+    * [Bluetooth Speakers](https://www.bose.com/c/speakers/portable)
+    * [Home Audio Speakers](https://www.bose.com/c/speakers/home-speakers)
+    * [Outdoor Speakers](https://www.bose.com/c/speakers/outdoors)
+    * [Waterproof Speakers](https://www.bose.com/c/speakers/waterproof)
+    * [Party Speakers](https://www.bose.com/c/speakers/party)
+    * [Stereo Speakers](https://www.bose.com/c/speakers/stereo)
+    * [Amplifiers](https://www.bose.com/p/MUAMP-AMPLIFIER.html)
+    * [Speaker Accessories](https://www.bose.com/c/speakers/accessories)
+    * [Speaker Sets](https://www.bose.com/c/speakers/sets)
+    
+    * [All Home Theater](https://www.bose.com/c/home-theater)
+    * [Soundbars](https://www.bose.com/c/home-theater/soundbars)
+    * [Subwoofers](https://www.bose.com/c/home-theater/bass-modules)
+    * [Surround Sound Speakers](https://www.bose.com/c/home-theater/surround-speakers)
+    * [Dolby Atmos Systems](https://www.bose.com/c/home-theater/dolby-atmos)
+    * [Home Theater Accessories](https://www.bose.com/c/home-theater/accessories)
+    * [Home Theater Sets](https://www.bose.com/c/home-theater/sets)
+    
+    * [All Portable PA](https://www.bose.com/c/portable-pa)
+    * [Line Array Systems](https://www.bose.com/c/portable-pa/array-systems)
+    * [PA Subwoofers](https://www.bose.com/c/portable-pa/sub-woofers)
+    * [Mixing Boards](https://www.bose.com/c/portable-pa/mixers)
+    * [Portable PA Accessories](https://www.bose.com/c/portable-pa/accessories)
+    * [Portable PA Sets](https://www.bose.com/c/portable-pa/sets)
+    
+    * [All Aviation Headsets](https://www.bose.com/c/aviation-headsets)
+    * [Aviation Headset Accessories](https://www.bose.com/c/aviation-headsets/accessories)
+    
+    [![](https://assets.bosecreative.com/m/2b71992449ce8417/webimage-LunarBlue_Family_Expressive_SF_NavFlyout.png)
+    
+    LIMITED EDITION
+    
+    ### Lunar Blue](https://www.bose.com/c/lunar-blue-collection "SHOP")
     
      
     
-    Listen with flair
-    -----------------
+    LIMITED EDITION
     
-    NEW QuietComfort Headphones in Limited-edition Chilled Lilac.
+    Welcome to Lunar Blue
+    ---------------------
     
-    [BUY NOW](https://www.bose.com/QC-HEADPHONEARN.html "BUY NOW")
+    Discover best-sellers in a new cosmic color.
+    
+    [SHOP](https://www.bose.com/c/lunar-blue-collection "SHOP")
     
 
 * [Explore](#)
@@ -57,14 +108,20 @@ Back
     
     Back
     
+    [![](https://assets.bosecreative.com/m/5978f1516262a6ab/webimage-SF_Story_Jakob_1.png)
+    
+    SPIN X BOSE
+    
+    ### Decades of Sound​](https://www.bose.com/stories/bose-celebrates-60th-anniversary-with-spin-collab "LEARN MORE")
+    
      
     
-    A generation-defining album
-    ---------------------------
+    Decades of Sound​
+    -----------------
     
-    Bose x NME present C24: a mixtape showcasing the future of music.
+    Join us with SPIN on a journey through time
     
-    [LEARN MORE](https://www.bose.com/stories/c24-the-next-generation-of-music "LEARN MORE")
+    [LEARN MORE](https://www.bose.com/stories/bose-celebrates-60th-anniversary-with-spin-collab "LEARN MORE")
     
 
 * [Support](#)
@@ -75,7 +132,7 @@ Back
     * [Returns](https://www.bose.com/returns)
     * [Contact Us](https://support.bose.com/s/get-help-landing-page?language=en_US)
     
-    * [Trade Up](https://www.bose.com/trade-up)
+    * [Trade In](https://www.bose.com/trade-up)
     * [Product Registration](https://www.bose.com/product-registration)
     * [Product Warranty](https://www.bose.com/legal/product-warranty)
     * [My Bose](https://www.bose.com/my-account)
@@ -86,24 +143,52 @@ Back
     
      
     
-    We're here to help
-    ------------------
+    Trade in and trade up
+    ---------------------
     
-    Ensure the lasting value of your Bose® products.
+    Get up to $300 towards our latest innovations when trading in.
+    
+    [Learn more](https://www.bose.com/trade-up "Learn more")
+    
+
+* [OUR 60TH](#)
+    
+    * [Explore 60th Anniversary](https://www.bose.com/60th-anniversary-details)
+    * [Shop Diamond Collection](https://www.bose.com/c/60th-anniversary-diamond-collection)
+    * [Enter Diamond Giveaway](https://www.bose.com/60th-anniversary-diamond-giveaway)
+    * [Discover SPIN x Bose](https://www.bose.com/stories/bose-celebrates-60th-anniversary-with-spin-collab)
+    * [Uncover Bose's History](https://timeline.bose.com/)
+    
+    Back
+    
+    [![](https://assets.bosecreative.com/m/1af8fe962ee36cda/webimage-SF_Mobile-Nav_Situ_Diamond-Collection.png)
+    
+    EXCLUSIVE
+    
+    ### Diamond Collection](https://www.bose.com/c/60th-anniversary-diamond-collection "SHOP")
+    
+     
+    
+    Shine in Diamond.
+    -----------------
+    
+    The dazzling, new Diamond Collection is here.
+    
+    [SHOP](https://www.bose.com/c/60th-anniversary-diamond-collection "SHOP")
     
 
 * [Sign In/Join my Bose](https://www.bose.com/login?oauthProvider=Azure-AD-B2C "Sign In/Join my Bose")
 * [Wish list](https://www.bose.com/wishlist)
-* [Contact](https://support.bose.com/s/get-help-landing-page?language=en_US)
+* [Contact Us](https://support.bose.com/s/get-help-landing-page?language=en_US)
 * [Where Is My Order?](https://www.bose.com/orders)
 
-[![](https://assets.bosecreative.com/m/7f282209b7c5ee31/webimage-SF_QCH_M-NAV_EXPRESSIVE_CHILLED-LILAC.png)
+[![](https://assets.bosecreative.com/m/2b71992449ce8417/webimage-LunarBlue_Family_Expressive_SF_NavFlyout.png)
 
-Limited-edition
+LIMITED EDITION
 
-### New QuietComfort Headphones in Chilled Lilac.](https://www.bose.com/en_us/legal/QC-HEADPHONEARN.html "BUY NOW")
+### Lunar Blue](https://www.bose.com/c/lunar-blue-collection "SHOP")
 
-[![Bose](/on/demandware.static/Sites-Bose_US-Site/-/default/dw05755e93/images/logo.svg)](https://www.bose.com/home "Bose Home")
+[![Bose](/on/demandware.static/Sites-Bose_US-Site/-/default/dwe974872f/images/logo.svg)](https://www.bose.com/home "Bose Home")
 
 [](https://www.bose.com/login?oauthProvider=Azure-AD-B2C "Sign In/Join my Bose")[](https://www.bose.com/wishlist "Wish list")
 
@@ -173,6 +258,32 @@ The product you have selected is not available at the moment. Leave your email a
 
 Please enter a valid email address.
 
+Get 10% off your first purchase\*
+
+Three steps to saving:
+
+1. Sign up to receive Bose emails and communications below
+2. Become a My Bose member
+3. Receive an email with your 10% coupon
+
+ Email address
+
+The email address is invalid
+
+SIGN UP
+
+**\*The coupon code will be sent via email. Offer valid for full-priced products with a maximum discount of $100. Please see email for full terms and conditions of this offer.**
+
+Email sign-up confirmation
+
+You are signed up for Bose marketing communications!
+
+Next step: become a My Bose member to enjoy all our perks, starting with your 10% gift!
+
+[Join My Bose](https://www.bose.com/login?oauthProvider=Azure-AD-B2C)
+
+If you don’t receive the email with your coupon code within 24 hours after creating a My Bose account, please contact [support](https://www.bose.com/s/get-help-landing-page). Enjoy shopping with your exclusive discount on Bose.com!
+
 We are experiencing issues at this moment. Please try again later.
 
 ##### Customer Care Customer Care
@@ -198,7 +309,7 @@ We are experiencing issues at this moment. Please try again later.
 
 * [Gift Cards](https://www.bose.com/gift-cards)
 * [ID.me Group Program](https://www.bose.com/idme-group-discounts-program)
-* [Corporate Gifting](https://www.bose.com/bulk-order-discount-program)
+* [Corporate Gifting](https://www.bose.com/corporate-gifting)
 * [Partner & Employee Program](https://www.bose.com/partner-employee-discount-program)
 * [Certified Refurbished](https://www.bose.com/c/refurbished)
 * [Trade Up](https://www.bose.com/trade-up)
@@ -216,4 +327,4 @@ We are experiencing issues at this moment. Please try again later.
 
 [United States](https://global.bose.com/ "United States") | English
 
-© Bose Corporation 2024 [Sitemap](https://www.bose.com/sitemap) [Legal](https://www.bose.com/legal) [Privacy Policy](https://www.bose.com/legal/privacy-policy) [CA Notice of Collection](https://assets.bosecreative.com/m/14802bcc3901876e/original/California_Privacy_Notice_of_Collection_Dec_2022_v2.pdf) [Your privacy choices](#onetrust_pop-up) [Cookies Notice](https://www.bose.com/legal/cookies-notice) [Terms of Sale](https://www.bose.com/legal/terms-of-sale) [Terms of Use](https://www.bose.com/legal/terms-of-use)
+© Bose Corporation 2024 [Sitemap](https://www.bose.com/sitemap) [Legal](https://www.bose.com/legal) [Privacy Policy](https://www.bose.com/legal/privacy-policy) [Accessibility](https://www.bose.com/legal/accessibility) [CA Notice of Collection](https://assets.bosecreative.com/m/14802bcc3901876e/original/California_Privacy_Notice_of_Collection_Dec_2022_v2.pdf) [Your privacy choices](#onetrust_pop-up) [Cookies Notice](https://www.bose.com/legal/cookies-notice) [Terms of Sale](https://www.bose.com/legal/terms-of-sale) [Terms of Use](https://www.bose.com/legal/terms-of-use) [CA Supply Chains Act](https://assets.bosecreative.com/m/2f28b642d1a7e2df/original/Bose_Modern_Slavery_Statement-Fiscal_Year_2024.pdf)

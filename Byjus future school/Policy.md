@@ -42,11 +42,7 @@ As soon as the customer purchases the plan, fulfillment happens online and #clas
 
 ##### Refund Policy:
 
-The amount of refund payable shall only be limited to the amount paid by the customer for services which were not rendered to the customer by WhiteHat Jr. In case of refund of EMI transactions, customers will be charged interest & foreclosure charges as per bank or lending partners’ terms and conditions which the customer may have agreed to. Further the deduction shall be made towards the value of any cashback, discounts or rewards, including vouchers (if applicable).  
-  
-Any refund claimed shall be subject to the Refund Policy made available to you during your enrollment and the amount of refund payable shall only be limited to the amount paid by the customer for services which were not rendered to the customer by WhiteHat Jr. For a copy of our current Refund Policy, please click on this [link](https://s3-cdnwhjr.whjr.online/abb938fe-d80b-431f-a2c7-022cf63d241a.pdf)  
-  
-A refund request will be deemed valid only if it is made through an email to [support@whitehatjr.com](mailto:support@whitehatjr.com)
+Any refunds provided will be subject to the Refund Policy made available to you during your enrollment and will be prorated depending on the number of credits consumed and the initial package purchased.
 
 ##### Refund Process:
 
@@ -62,9 +58,7 @@ As soon as the customer purchases the plan, fulfillment happens online and #clas
 
 ##### Refund Policy:
 
-Any refund claimed shall be subject to the Refund Policy made available to you during your enrollment and the amount of refund payable shall only be limited to the amount paid by the customer for services which were not rendered to the customer by WhiteHat Jr. For a copy of our current Refund Policy, please click on this [link](https://s3-cdnwhjr.whjr.online/abb938fe-d80b-431f-a2c7-022cf63d241a.pdf)  
-  
-A refund request will be deemed valid only if it is made through an email to [support@whitehatjr.com](mailto:support@whitehatjr.com)
+Refunds for eligible subscription plans will be provided subject to the Refund Policy made available to you during your enrollment and will be prorated depending on the number of credits consumed and the initial package purchased.
 
 ##### Refund Process:
 

@@ -35,6 +35,22 @@ Oops! Something went wrong while submitting the form.
 
 [](#top)
 
+Get Expert Help With the FCC’s $200M Cybersecurity Pilot Program!
+
+[Learn More
+
+](https://www.classlink.com/resources/cpp)[Get Expert Help With the FCC’s $200M Cybersecurity Pilot Program!
+
+](https://www.classlink.com/resources/cpp)
+
+LIVE in ‘25! Join the VIP experience at CLON 2025 now.
+
+[Learn More
+
+](https://www.classlink.com/clon)[Join the VIP experience at CLON 2025!
+
+](https://www.classlink.com/clon)
+
 LIVE in ‘25! Join the VIP experience at CLON 2025 now.
 
 [Learn More
@@ -131,32 +147,34 @@ Additional Products](https://www.classlink.com/products)
 
 Resources
 
-[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/628678c07b2cd73f1fc6539e_nav-blog-icon.svg)
+[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/66cc9344a598b57806f10055_nav-cpp-icon.svg)
 
-Blog](https://www.classlink.com/resources/blog)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/628678c0647ffbe111b9c91e_nav-case-study-icon.svg)
+Cybersecurity  
+Funding
+
+Cybersecurity Funding](https://www.classlink.com/resources/cpp)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/628678c0647ffbe111b9c91e_nav-case-study-icon.svg)
 
 Case Studies](https://www.classlink.com/resources/case-studies)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/628678c1afaf10a21ce63a5a_nav-videos-icon.svg)
 
-Videos](https://www.classlink.com/resources/videos)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/628678c1ed25fbdb531d0536_nav-webinar-icon.svg)
+Videos](https://www.classlink.com/resources/videos)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/628678c07b2cd73f1fc6539e_nav-blog-icon.svg)
+
+Blog](https://www.classlink.com/resources/blog)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/628678c1ed25fbdb531d0536_nav-webinar-icon.svg)
 
 Webinars](https://www.classlink.com/resources/webinars)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/628678c11764d924b3035039_nav-podcast-icon.svg)
 
 LinkedUp  
 Podcasts
 
-LinkedUp Podcasts](https://www.classlink.com/podcasts/linkedup)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/628678c11764d924b3035039_nav-podcast-icon.svg)
+LinkedUp Podcasts](https://www.classlink.com/podcasts/linkedup)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/66db3f4eee585f590a116b78_nav-bts-icon.svg)
+
+BTS Readiness](https://www.classlink.com/resources/back-to-school-readiness)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/628678c11764d924b3035039_nav-podcast-icon.svg)
 
 Perspectives  
 Podcasts
 
 Perspectives Podcasts](https://www.classlink.com/podcasts/perspectives)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/6435b2f472616441bae28801_nav-bts-checklist-icon.svg)
 
-BTS Checklist](https://www.classlink.com/resources/bts-checklist)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/6435b5bf7ecc59309a58002f_nav-bts-report-icon.svg)
-
-BTS Resource  
-Toolkit
-
-BTS Resource Toolkit](https://www.classlink.com/bts-toolkit)[![ClassLink Academy Icon](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/626072acdb5ec22da34cbb23_cl-academy-icon.svg)
+BTS Checklist](https://www.classlink.com/resources/bts-checklist)[![ClassLink Academy Icon](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/626072acdb5ec22da34cbb23_cl-academy-icon.svg)
 
 ClassLink Academy](https://www.classlink.com/academy)[![ClassLink Academy Icon](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/626072acdb5ec22da34cbb23_cl-academy-icon.svg)
 

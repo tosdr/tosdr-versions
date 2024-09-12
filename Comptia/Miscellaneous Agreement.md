@@ -64,7 +64,7 @@
         * [Enterprise](https://www.comptia.org/training/enterprise-workforce-development/enterprise-solutions)
         * [Workforce Development Solutions](https://www.comptia.org/training/employers-workforce-development/workforce-development-training)
         * [Academic Higher Ed](https://www.comptia.org/content/lp/academic-higher-education)
-        * [Academic K12](https://www.comptia.org/content/lp/k12)
+        * [Academic Secondary Ed](https://www.comptia.org/content/lp/k12)
         * [Academic/Government](https://www.comptia.org/training/employers-workforce-development/academic-government-solutions)
         * [Why CompTIA Training Solutions](https://www.comptia.org/training/employers-workforce-development/why-comptia-training-solutions)
     * [Training Resources](https://www.comptia.org/training/resources)
@@ -116,7 +116,7 @@
         
         [Podcasts](https://www.comptia.org/events/podcasts)
     * [Channel Training](https://www.comptia.org/events/channel-training/) [Event Archives](https://www.comptia.org/events/archives/)
-    * [![CompTIA ChannelCon 2024](https://comptiacdn.azureedge.net/webcontent/images/default-source/events/image-20240528-151820.png?sfvrsn=fb5d43c5_2 "CompTIA ChannelCon 2024")](https://connect.comptia.org/channelcon)
+    *  [![11047_EMEA24_MainSiteNavBannerAd_300x160px](/images/default-source/default-album/11047_emea24_mainsitenavbannerad_300x160px.png?sfvrsn=5da82a1e_0 "11047_EMEA24_MainSiteNavBannerAd_300x160px")](https://connect.comptia.org/emea)
         
 * [Resources](https://www.comptia.org/resources)
     * [](#0)[Resources](https://www.comptia.org/resources)
@@ -169,7 +169,8 @@
 Store](https://store.comptia.org/)
 
 * [](#cd-primary-nav)
-* * [](#cd-search)
+* * 
+        
     * [_3_](https://store.comptia.org/)
 
 * [Home](https://www.comptia.org/)

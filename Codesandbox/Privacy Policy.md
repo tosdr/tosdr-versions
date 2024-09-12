@@ -32,16 +32,13 @@
         Check out our latest features and fixes.](https://codesandbox.io/changelog)
 * [Docs](https://codesandbox.io/docs)
 * [Support](https://codesandbox.io/support)
-* [Enterprise](https://codesandbox.io/enterprise)
 * [Pricing](https://codesandbox.io/pricing)
 
 New
 
-### Introducing the CodeSandbox Storybook add-on
+### Introducing a new and improved editor powered by VS Code Web
 
-Bring every story to life.
-
-[Learn more](https://codesandbox.io/blog/announcing-the-codesandbox-storybook-add-on?utm_source=stripe)
+[Learn more](https://codesandbox.io/blog/a-new-and-improved-editor-powered-by-vs-code-web)
 
 Legal
 
@@ -185,12 +182,6 @@ A social media and internet screening can be part of the application procedure. 
 ### ReCAPTCHA
 
 We use the reCAPTCHA service of Google LLC. (hereinafter: “Google”) to protect our website against spam and abuse. In order for Google reCAPTCHA to work, the IP address of a website visitor, mouse movements and possibly other data are collected. This information is sent to and processed by Google for this purpose. By analysing this information, Google can determine whether we are dealing with a real website visitor or a robot. For more information, please see [Google's privacy statement](https://policies.google.com/privacy?hl=en-US).
-
-### Usage of OpenAI API Service
-
-Our AI tools, among which the AI assistant we offer as part of our services, utilize the OpenAI API Service to fulfil chat requests and operate the core functionality of the AI assistant. If permissions are explicitly granted by team admins on the CodeSandbox platform, CodeSandbox transmits the chat input, which may include personal information, to Open AI for processing.
-
-OpenAI takes appropriate security measures to protect your data and uses your data in accordance with its data usage policy. For more information on how OpenAI processes and protects your data, please visit their [Privacy Policy](https://platform.openai.com/docs/data-usage-policies) and [Terms of Service](https://platform.openai.com/docs/terms-of-service).
 
 When can we share your personal data with third parties?
 --------------------------------------------------------

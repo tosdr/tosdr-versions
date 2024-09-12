@@ -223,6 +223,7 @@ Please contact us with any questions or concerns regarding this Policy completin
     * [Privacy Policy](https://billgo.com/privacy-policy)
     * [Licenses](https://billgo.com/licenses-new)
     * [Copyright Policy](https://billgo.com/copyright-policy)
+    * [Terms and Conditions](https://billgo.com/terms-and-conditions)
 
 * [Bill Pay](https://billgo.com/billpay)
 * [BillGO Exchange](https://billgo.com/billgoexchange)
@@ -239,6 +240,7 @@ Please contact us with any questions or concerns regarding this Policy completin
     * [Privacy Policy](https://billgo.com/privacy-policy)
     * [Licenses](https://billgo.com/licenses-new)
     * [Copyright Policy](https://billgo.com/copyright-policy)
+    * [Terms and Conditions](https://billgo.com/terms-and-conditions)
 
 [](https://www.facebook.com/BillGOPayments)[](https://twitter.com/BillGOPayments)[](https://www.linkedin.com/company/billgopayments)
 

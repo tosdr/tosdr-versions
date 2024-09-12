@@ -120,7 +120,7 @@
     * [E-mail Marketing](https://www.combell.com/en/email-hosting/email-marketing "E-mail Marketing") 6 months free as a Combell customer
     * [Lead generation](https://www.combell.com/en/leadinfo "Leadinfo - Lead generation software") find out who visits your website
     * [GDPR compliance software](https://www.combell.com/en/iubenda-compliance-manager "Iubenda Compliance Software") generate a privacy policy, cookie banner, etc.
-    * [sGTM tagging server](https://www.combell.com/en/sgtm-server-side-tagging "sGTM tagging server") avoid loss of marketing data
+    * [sGTM tagging server](https://www.combell.com/en/sgtm-server-side-tagging "sGTM tagging server") avoid losing marketing data
     
 * [Servers](https://www.combell.com/en/servers "Servers")
     
@@ -607,7 +607,7 @@ You can call us day and night [0800-8-5678](tel:080085678) [+32 9 218 79 79](tel
 
 Follow us
 
-[](https://www.facebook.com/CombellGroup)[](https://twitter.com/combell)[](https://www.instagram.com/combellcom/)[](https://www.youtube.com/user/COMBELL)[](https://www.linkedin.com/company/80535)
+[](https://www.facebook.com/CombellGroup)[](https://twitter.com/combell)[](https://www.instagram.com/combellcom/)[](https://www.youtube.com/user/COMBELL)[](https://www.linkedin.com/company/combell-group-nv)
 
 * [NL](https://www.combell.com/nl/over-combell/privacy-policy)
 * [FR](https://www.combell.com/fr/a-propos-de-combell/politique-de-confidentialite)

@@ -1,12 +1,12 @@
-[](https://www.bitrix24.uk/)
+[](https://www.bitrix24.com/)
 
-[Start for free](https://www.bitrix24.uk/create.php)
+[Start for free](https://www.bitrix24.com/create.php)
 
  
 
 [](https://www.bitrix24.com/search/)
 
-[](https://www.bitrix24.uk/)
+[](https://www.bitrix24.com/)
 
 Product
 
@@ -230,43 +230,43 @@ Integrations
 
 Import & Export
 
- [![jira-migration](/upload/optimizer/converted/images/content_en/icons/menu/jira-migration.png.webp?1719827227370)Jira migration](https://www.bitrix24.com/apps/app/integrations24.jira_migration/)
+ [![jira-migration](/upload/optimizer/converted/images/content_en/icons/menu/jira-migration.png.webp?1725521592525)Jira migration](https://www.bitrix24.com/apps/app/integrations24.jira_migration/)
 
- [![trello-data-migration](/upload/optimizer/converted/images/content_en/icons/menu/trello-data-migration.png.webp?1719827227370)Trello data migration](https://www.bitrix24.com/apps/app/integrations24.trello/)
+ [![trello-data-migration](/upload/optimizer/converted/images/content_en/icons/menu/trello-data-migration.png.webp?1725521592525)Trello data migration](https://www.bitrix24.com/apps/app/integrations24.trello/)
 
- [![asana-data-migration](/upload/optimizer/converted/images/content_en/icons/menu/asana-data-migration.png.webp?1719827227370)Asana data migration](https://www.bitrix24.com/apps/app/integrations24.asana/)
+ [![asana-data-migration](/upload/optimizer/converted/images/content_en/icons/menu/asana-data-migration.png.webp?1725521592525)Asana data migration](https://www.bitrix24.com/apps/app/integrations24.asana/)
 
- [![import-from-excel](/upload/optimizer/converted/images/content_en/icons/menu/import-from-excel.png.webp?1719827227370)Import from Excel](https://www.bitrix24.com/apps/app/informunity.excel_west/)
+ [![import-from-excel](/upload/optimizer/converted/images/content_en/icons/menu/import-from-excel.png.webp?1725521592525)Import from Excel](https://www.bitrix24.com/apps/app/informunity.excel_west/)
 
 Sales & CRM
 
- [![stripe-integration](/upload/optimizer/converted/images/content_en/icons/menu/stripe-integration.png.webp?1719827227370)Stripe integration](https://www.bitrix24.com/apps/app/integrations24.stripeintegration/)
+ [![stripe-integration](/upload/optimizer/converted/images/content_en/icons/menu/stripe-integration.png.webp?1725521592525)Stripe integration](https://www.bitrix24.com/apps/app/integrations24.stripeintegration/)
 
- [![salebot](/upload/optimizer/converted/images/content_en/icons/menu/salebot.png.webp?1719827227370)Salebot](https://www.bitrix24.com/apps/app/salebot.chatter/)
+ [![salebot](/upload/optimizer/converted/images/content_en/icons/menu/salebot.png.webp?1725521592525)Salebot](https://www.bitrix24.com/apps/app/salebot.chatter/)
 
- [![call-center-wizard](/upload/optimizer/converted/images/content_en/icons/menu/call-center-wizard.png.webp?1719827227370)Call Center Wizard](https://www.bitrix24.com/apps/app/informunity.callcenterwizard/)
+ [![call-center-wizard](/upload/optimizer/converted/images/content_en/icons/menu/call-center-wizard.png.webp?1725521592525)Call Center Wizard](https://www.bitrix24.com/apps/app/informunity.callcenterwizard/)
 
- [![chat-booster](/upload/optimizer/converted/images/content_en/icons/menu/chat-booster.png.webp?1719827227370)Chat Booster](https://www.bitrix24.com/apps/app/brs4.lead_booster/)
+ [![chat-booster](/upload/optimizer/converted/images/content_en/icons/menu/chat-booster.png.webp?1725521592525)Chat Booster](https://www.bitrix24.com/apps/app/brs4.lead_booster/)
 
 Marketing
 
- [![wazzup](/upload/optimizer/converted/images/content_en/icons/menu/wazzup.png.webp?1719827227370)Wazzup](https://www.bitrix24.com/apps/app/wazzup.app/)
+ [![wazzup](/upload/optimizer/converted/images/content_en/icons/menu/wazzup.png.webp?1725521592525)Wazzup](https://www.bitrix24.com/apps/app/wazzup.app/)
 
- [![whatsapp-business-api](/upload/optimizer/converted/images/content_en/icons/menu/whatsapp-business-api.png.webp?1719827227370)WhatsApp Business API](https://www.bitrix24.com/apps/app/polyakov.ofitsialnoe_whatsapp_business_api/)
+ [![whatsapp-business-api](/upload/optimizer/converted/images/content_en/icons/menu/whatsapp-business-api.png.webp?1725521592525)WhatsApp Business API](https://www.bitrix24.com/apps/app/polyakov.ofitsialnoe_whatsapp_business_api/)
 
- [![plivo-sms](/upload/optimizer/converted/images/content_en/icons/menu/plivo-sms.png.webp?1719827227370)Plivo SMS](https://www.bitrix24.com/apps/app/integrations24.plivosms/)
+ [![plivo-sms](/upload/optimizer/converted/images/content_en/icons/menu/plivo-sms.png.webp?1725521592525)Plivo SMS](https://www.bitrix24.com/apps/app/integrations24.plivosms/)
 
- [![mailchimp-exporter](/upload/optimizer/converted/images/content_en/icons/menu/mailchimp-exporter.png.webp?1719827227370)MailChimp Exporter](https://www.bitrix24.com/apps/app/webbee.bx24tomailchimp/)
+ [![mailchimp-exporter](/upload/optimizer/converted/images/content_en/icons/menu/mailchimp-exporter.png.webp?1725521592525)MailChimp Exporter](https://www.bitrix24.com/apps/app/webbee.bx24tomailchimp/)
 
 Tasks & Projects
 
- [![mind-map](/upload/optimizer/converted/images/content_en/icons/menu/mind-map.png.webp?1719827227370)Mind Map](https://www.bitrix24.com/apps/app/integrations24.mindmap/)
+ [![mind-map](/upload/optimizer/converted/images/content_en/icons/menu/mind-map.png.webp?1725521592525)Mind Map](https://www.bitrix24.com/apps/app/integrations24.mindmap/)
 
- [![miro-boards](/upload/optimizer/converted/images/content_en/icons/menu/miro-boards.png.webp?1719827227370)Miro Boards](https://www.bitrix24.com/apps/app/integrations24.miro/)
+ [![miro-boards](/upload/optimizer/converted/images/content_en/icons/menu/miro-boards.png.webp?1725521592525)Miro Boards](https://www.bitrix24.com/apps/app/integrations24.miro/)
 
- [![billable-hours-for-tasks](/upload/optimizer/converted/images/content_en/icons/menu/billable-hours-for-tasks.png.webp?1719827227370)Billable Hours For Tasks](https://www.bitrix24.com/apps/app/integrations24.billing/)
+ [![billable-hours-for-tasks](/upload/optimizer/converted/images/content_en/icons/menu/billable-hours-for-tasks.png.webp?1725521592525)Billable Hours For Tasks](https://www.bitrix24.com/apps/app/integrations24.billing/)
 
- [![kpi-company-efficiency](/upload/optimizer/converted/images/content_en/icons/menu/kpi-company-efficiency.png.webp?1719827227370)KPI – Company Efficiency](https://www.bitrix24.com/apps/app/apikit.ikpi/)
+ [![kpi-company-efficiency](/upload/optimizer/converted/images/content_en/icons/menu/kpi-company-efficiency.png.webp?1725521592525)KPI – Company Efficiency](https://www.bitrix24.com/apps/app/apikit.ikpi/)
 
 [See 400+ apps & integrations](https://www.bitrix24.com/apps/)
 
@@ -314,23 +314,23 @@ Latest from Bitrix24
 
 [](https://www.bitrix24.com/search/)
 
-[Start for free](https://www.bitrix24.uk/create.php)
+[Start for free](https://www.bitrix24.com/create.php)
 
 Log In
 
-uk
+en
 
 America
 
-[United States (English)](https://www.bitrix24.com/terms/?moved_from=US) [América Latina (Español)](https://www.bitrix24.es/terms/?moved_from=ES) [Brasil (Português)](https://www.bitrix24.com.br/terms/?moved_from=BR) [México (Español)](https://www.bitrix24.mx/terms/?moved_from=MX) [Colombia (Español)](https://www.bitrix24.co/terms/?moved_from=CO)
+[United States (English)](https://www.bitrix24.com/?moved_from=US) [América Latina (Español)](https://www.bitrix24.es/?moved_from=ES) [Brasil (Português)](https://www.bitrix24.com.br/?moved_from=BR) [México (Español)](https://www.bitrix24.mx/?moved_from=MX) [Colombia (Español)](https://www.bitrix24.co/?moved_from=CO)
 
 Europe
 
-[Europe (English)](https://www.bitrix24.eu/terms/?moved_from=EU) [Deutschland (Deutsch)](https://www.bitrix24.de/terms/?moved_from=DE) [France (Français)](https://www.bitrix24.fr/terms/?moved_from=FR) [Polska (Polski)](https://www.bitrix24.pl/terms/?moved_from=PL) [Italia (Italiano)](https://www.bitrix24.it/terms/?moved_from=IT) [United Kingdom (English)](https://www.bitrix24.uk/terms/?moved_from=GB)
+[Europe (English)](https://www.bitrix24.eu/?moved_from=EU) [Deutschland (Deutsch)](https://www.bitrix24.de/?moved_from=DE) [France (Français)](https://www.bitrix24.fr/?moved_from=FR) [Polska (Polski)](https://www.bitrix24.pl/?moved_from=PL) [Italia (Italiano)](https://www.bitrix24.it/?moved_from=IT) [United Kingdom (English)](https://www.bitrix24.uk/?moved_from=GB)
 
 Asia
 
-[India (English)](https://www.bitrix24.in/terms/?moved_from=IN) [Türkiye (Türkçe)](https://www.bitrix24.com.tr/terms/?moved_from=TR) [中国 (简体中文)](https://www.bitrix24.cn/terms/?moved_from=CN) [台灣 (繁體中文)](https://www.bitrix24.cn/tc/terms/?moved_from=TW) [Indonesia (Bahasa Indonesia)](https://www.bitrix24.id/terms/?moved_from=ID) [Malaysia (Bahasa Melayu)](https://www.bitrix24.com/my/terms/?moved_from=MY) [ประเทศไทย (ภาษาไทย)](https://www.bitrix24.com/th/terms/?moved_from=TH) [Việt Nam (Tiếng Việt)](https://www.bitrix24.vn/terms/?moved_from=VN) [日本 (日本語)](https://www.bitrix24.jp/terms/?moved_from=JP)
+[India (English)](https://www.bitrix24.in/?moved_from=IN) [Türkiye (Türkçe)](https://www.bitrix24.com.tr/?moved_from=TR) [中国 (简体中文)](https://www.bitrix24.cn/?moved_from=CN) [台灣 (繁體中文)](https://www.bitrix24.cn/tc/?moved_from=TW) [Indonesia (Bahasa Indonesia)](https://www.bitrix24.id/?moved_from=ID) [Malaysia (Bahasa Melayu)](https://www.bitrix24.com/my/?moved_from=MY) [ประเทศไทย (ภาษาไทย)](https://www.bitrix24.com/th/?moved_from=TH) [Việt Nam (Tiếng Việt)](https://www.bitrix24.vn/?moved_from=VN) [日本 (日本語)](https://www.bitrix24.jp/?moved_from=JP)
 
 You can change your region here, if necessary
 
@@ -344,7 +344,7 @@ Terms of Service
 * [3\. USER ACCOUNT. ADMINISTRATOR. BITRIX24 CUSTOMER ACCOUNT](#3)
 * [4\. USE OF THE SERVICES BY YOU AND YOUR USERS. USER RESPONSIBILITY](#4)
 * [5\. USER CONTENT](#5)
-* [6\. CUSTOMER СARE](#6)
+* [6\. CUSTOMER CARE](#6)
 * [7\. FEES AND PAYMENT](#7)
 * [8\. TERM AND TERMINATION](#8)
 * [9\. ADDITIONAL FUNCTIONS. LINKS TO OTHER WEBSITES AND THIRD PARTY MATERIALS](#9)
@@ -374,8 +374,8 @@ Terms of Service
 * [33\. RIGHT TO AUDIT](#33)
 * [34\. CONTACT INFORMATION. CONTRACTING ENTITY](#34)
 
-Last Updated: March 27, 2024  
-Effective on: March 27, 2024
+Last updated: July 18, 2024  
+Effective on: July 18, 2024
 
 Bitrix24 Terms of Service
 -------------------------
@@ -420,7 +420,7 @@ The failure to provide satisfactory proof of residency may result in terminating
 (2) a right to delete (dismiss) users and their User Content and Personal Information;  
 (3) a right to delete (dismiss) Administrator User Accounts;  
 (4) a right to delete the Bitrix24 Customer Account (as defined below) and all its content;  
-(5) a right to enable the additional function "Multiple branches" as set forth in the Rules in section 9.1.1.(с); and  
+(5) a right to enable the additional function "Multiple branches" as set forth in the Rules in section 9.1.1.(c); and  
 (6) a right to grant users the status of the Administrator, with the granting of the privileges specified in this clause (if the corresponding functionality feature is available).  
 The Administrators be, and each of them hereby is, authorized to exercise its full scope of powers independently and solely (autonomously from the other Administrators) in the name and on behalf of the Customer.  
 The Administrator may be changed at any time through control panel of the Bitrix24 Customer’s Account.
@@ -458,7 +458,7 @@ c. not to access or attempt to access the User Content (as defined below), which
 
 5.4. Please refer to Section "Data Protection" to learn how Bitrix24 collects, uses, discloses, manages, and stores users’ personally identifiable information ("Personal Information"). You have obtained all consents and permissions required under all applicable laws, regarding the posting, transmission, and publication of any Personal Information and/or image or likeness of any person, entity or property which is part of the User Content, and you will adhere to all laws applicable thereto. Bitrix24 has no direct relationship with the end users of any Customers whose Personal Information it processes. If you are the end user of any of users and would like to make any requests or queries regarding your Personal Information, please contact such users directly. For example, if you wish to access, correct, amend, or delete inaccurate information processed by Bitrix24, please direct your query to the relevant user who controls such data. If requested to remove any end user Personal Information, we will respond to such request within thirty (30) days.
 
-#### 6\. Customer Сare.
+#### 6\. Customer Care.
 
 Bitrix24 provides support to the users in accordance with the procedures set forth in the [Support Section](https://helpdesk.bitrix24.com/) on the Website..
 
@@ -513,7 +513,7 @@ Bitrix24 reserves the right to change, suspend or discontinue the Website, the S
 Rules applicable to Additional functions are integral parts of these Terms of Service and can be found at the following links:  
 9.1.1. (a) [Rules for Bitrix24 Sites](https://www.bitrix24.com/terms/bitrix24sites-rules.php)  
 9.1.1. (b) [Rules for Bitrix24 Contact Center](https://www.bitrix24.com/terms/contact_center-rules.php)  
-9.1.1. (с) [Rules for Multiple branches](https://www.bitrix24.com/terms/multiplebranches-rules.php)  
+9.1.1. (c) [Rules for Multiple branches](https://www.bitrix24.com/terms/multiplebranches-rules.php)  
 9.1.1. (d) [Rules for Bitrix24 Sign](https://www.bitrix24.com/terms/bitrix24sign-rules.php)  
 9.1.1. (e) [Bitrix24 CoPilot Additional Terms](https://www.bitrix24.com/terms/bitrix24copilot-rules.php)  
 9.1.1. (f) [Terms of Use of Video Calls and Conferences](https://www.bitrix24.com/terms/terms-of-use-videocalls.php)
@@ -696,9 +696,9 @@ These Terms of Service will be enforced to the fullest extent permitted by appli
 
 #### 26\. Data Protection.
 
-26.1. All Personal information that Bitrix24 may use will be collected, processed, and held in accordance with the provisions of all applicable national, governmental, quasi-governmental and/or local data protection laws and regulations, including but not limited to EU Regulation 2016/679 General Data Protection Regulation (“GDPR”), (together “Data Protection Legislation”) and according to Bitrix24 Privacy Policy (the “Privacy Policy”) available at [https://www.bitrix24.uk/privacy/](https://www.bitrix24.uk/gdpr/).
+26.1. All Personal information that Bitrix24 may use will be collected, processed, and held in accordance with the provisions of all applicable national, governmental, quasi-governmental and/or local data protection laws and regulations, including but not limited to EU Regulation 2016/679 General Data Protection Regulation (“GDPR”), (together “Data Protection Legislation”) and according to Bitrix24 Privacy Policy (the “Privacy Policy”) available at [https://www.bitrix24.com/privacy/](https://www.bitrix24.com/gdpr/).
 
-26.2. Please read the [Privacy Policy](https://www.bitrix24.uk/privacy/) (the "Privacy Policy"), which describes how Bitrix24 collects, uses, discloses, manages, and stores users’ Personal Information.
+26.2. Please read the [Privacy Policy](https://www.bitrix24.com/privacy/) (the "Privacy Policy"), which describes how Bitrix24 collects, uses, discloses, manages, and stores users’ Personal Information.
 
 26.3 Bitrix24 processes any users-of-users Personal Information subject to the applicable Data Protection Legislation (as defined in the DPA), on Your behalf, under Your instructions in the provision of the Service and the terms of the [Data Processing Agreement](https://www.bitrix24.com/upload/DPA/BitrixDPA.pdf) (the "DPA"), which are hereby incorporated by reference, and the parties agree to comply with such terms.
 
@@ -750,7 +750,7 @@ During the term of this Agreement, Bitrix24 may audit the way you use the Websit
 | --- | --- | --- |
 | **Your Country (Territories)** | **Entity entering into this Agreement** | **Notification address** |
 | Albania, Andorra, Austria, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Liechtenstein, Luxembourg, Macedonia, Malta, Monaco, Montenegro, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Serbia, Slovakia, Slovenia, Sweden, Switzerland, United Kingdom, Vatican | Bitrix24 Limited  <br>Frema House, office 102, No. 9,  <br>Constantinou Paparigopoulou Str., 3106, Limassol, Cyprus | [privacy@bitrix24.eu](mailto:privacy@bitrix24.eu) |
-| India | Bitrix24 India Private Limited  <br>#66/1, Coles Road, C Stn F4, Benson Town,  <br>Bangalore, Bangalore North, Karnataka, India, 560046 | [privacy@bitrix24.in](mailto:privacy@bitrix24.in) |
+| India | Bitrix24 India Private Limited  <br>B-01, Prestige Centre Point, Edward Road, H.K.P.Road,  <br>Bangalore, Bangalore North, Karnataka, India, 560054 | [privacy@bitrix24.in](mailto:privacy@bitrix24.in) |
 | All other countries except the ones stated above for Bitrix24 Limited and Bitrix24 India and except those listed below:  <br>Armenia, Azerbaijan, Belarus, Estonia, Georgia, Kazakhstan, Kyrgyzstan, Latvia, Lithuania, Moldova, Russian Federation, Tajikistan, Turkmenistan, Ukraine, Uzbekistan | Bitrix, Inc.  <br>700 North Fairfax St., Suite 614-B, Alexandria, VA 22314, USA | [privacy@bitrix24.com](mailto:privacy@bitrix24.com) |
 
 [Back to top](#0)
@@ -832,10 +832,10 @@ Partners
 [](https://play.google.com/store/apps/details?id=com.bitrix24.android)
 
 * [](https://www.facebook.com/bitrix24)
-* [](https://twitter.com/bitrix24uk)
+* [](https://t.me/Bitrix24Talks)
 * [](https://www.youtube.com/@bitrix24)
 * [](https://www.instagram.com/bitrix24/)
-* [](https://www.linkedin.com/showcase/bitrix24-uk-community/)
+* [](https://www.linkedin.com/company/bitrix24/)
 * [](https://www.pinterest.com/bitrix24/)
 
  
@@ -850,11 +850,11 @@ Cookie Settings
 
  Strictly Necessary Cookies
 
- Analytical Cookies
+ Do Not Sell or Share My Information
 
 Cookie Policy
 
-More information about our [Cookie Policy](https://www.bitrix24.uk/privacy/#d3)
+More information about our [Cookie Policy](https://www.bitrix24.com/privacy/#d3)
 
 We use cookies to enhance your browsing experience - [Find out more](https://www.bitrix24.com/about/cookie-policy/). By continuing to browse this site you are agreeing to our use of cookies. Change your [cookie settings](#).
 

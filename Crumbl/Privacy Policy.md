@@ -1,12 +1,28 @@
-![Menu](/_next/static/media/menu-icon.9898e88f.svg)
+Sign in
 
-[![Crumbl logo](/_next/static/media/crumbl_logo.d4b6dfeb.svg)](https://crumblcookies.com/)
+[Home](https://crumblcookies.com/)[Order](https://crumblcookies.com/order)[Locations](https://crumblcookies.com/stores)[Catering](https://crumblcookies.com/catering)[Gift Cards](https://crumblcookies.com/login?next=%2Fgifting%2Fgiftcards)
 
-[![](/_next/static/media/location-icn.a8625c9b.svg)Find a Crumbl](#)
+My Bag
+
+CheckoutCheckout
+
+Select a time
+
+Continue Shopping
+
+Subtotal
+
+[Sign in to earn Crumbs for this order!](https://crumblcookies.com/login?next=%2Fprivacy)
+
+Order Now
+
+Menu
+
+[](https://crumblcookies.com/)
 
 **Crumbl Global Privacy Policy**
 
-**LAST UPDATED** October 4, 2023
+**LAST UPDATED** July 29, 2024
 
 Welcome to Crumbl Cookies! This Privacy Policy describes how Crumbl, LLC (“Crumbl”, “we”, “us”, “our”) collects, uses, stores, and shares your information when:
 
@@ -93,8 +109,8 @@ We may use your information to:
 
 We may disclose your information in the following circumstances:
 
-* **With Your Consent.** We may disclose, share, or make available your information with your consent, which may be obtained in writing, online, through “click-through” agreements, when you accept our terms for our Sites, orally (including over the telephone), or by other means.
-* **With Service Providers & Business Partners.** We may disclose, share, or make available your information with Third Parties, such as service providers, affiliates and subsidiaries, business partners, credit / debit card processing partners, partners that facilitate billing, shipping, and customer service, third-party auditors and law firms, marketing and advertising networks (including those that provide ad measurement services), internet service providers, data analytics providers, companies that help debug and identify and repair errors that may impair the functionality of our Sites, and third parties that help protect against malicious, deceptive, fraudulent, or illegal activity. We may also share your information in connection with financial products or services related to our business, such as private label credit cards. We may also share your information in connection with co-branded Product offerings.
+* **With Your Consent.** We may disclose, share, or make available your information with your consent, which may be obtained in writing, online, through “click-through” agreements, when you accept our terms for our Sites, orally (including over the telephone), or by other means. Your consent to text messaging will not be transferred to third parties.
+* **With Service Providers & Business Partners.** We may disclose, share, or make available your information with Third Parties, such as service providers, affiliates and subsidiaries, business partners, credit / debit card processing partners, partners that facilitate billing, shipping, and customer service, third-party auditors and law firms, marketing and advertising networks (including those that provide ad measurement services), internet service providers, data analytics providers, companies that help debug and identify and repair errors that may impair the functionality of our Sites, and third parties that help protect against malicious, deceptive, fraudulent, or illegal activity. We may also share your information in connection with financial products or services related to our business, such as private label credit cards. We may also share your information in connection with co-branded Product offerings. We use Stripe for payments, analytics, and other business services. Stripe may collect personal data including via cookies and similar technologies. The personal data Stripe collects may include transactional data and identifying information about devices that connect to its services. Stripe uses this information to operate and improve the services it provides to us, including for fraud detection, loss prevention, authentication, and analytics related to the performance of its services. You can learn more about Stripe and read its privacy policy at [http://stripe.com/privacy](http://stripe.com/privacy).
 * **In A Business Transfer.** We may disclose, share, or make available your information as part of a business transaction, such as a merger or acquisition, joint venture, corporate reorganization, financing, or sale of company assets, or in the unlikely event of insolvency, bankruptcy, or receivership, in which such information could be transferred to third parties as a business asset in the transaction.
 * **For Legal Process & Protection.** We may disclose, share, or make available your information to satisfy any law, regulation, legal process, governmental request, or where we have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to: (1) enforce or apply agreements, or initiate, render, or bill for use of the Sites; (2) protect our rights or interests, property or safety or that of others; (3) in connection with claims, disputes, or litigation - in court or elsewhere; (4) protect users of our Sites and other carriers, providers, or partners from fraudulent, abusive, unlawful, or otherwise improper use of our Sites; (5) facilitate or verify the appropriate calculation of taxes, fees, or other obligations due to a local, state, or federal government.
 
@@ -284,18 +300,20 @@ To receive a copy of this Privacy Policy in a different format, please contact u
 
 If you have any questions, please contact us at [\[email protected\]](https://crumblcookies.com/cdn-cgi/l/email-protection).
 
-[![Crumbl Logo](/_next/static/media/crumbl_logo_white.61ededb6.svg)![Crumbl Logo](/_next/static/media/crumbl_logo_white.61ededb6.svg)](#)© 2024. all rights reserved.
+Company
 
-**Company**
+[Order](https://crumblcookies.com/order)[Our story](https://crumblcookies.com/our-story)[Rewards](https://crumblcookies.com/rewards)[Nutrition & Allergy](https://crumblcookies.com/nutrition)[Support](https://crumblcookies.com/contact)
 
-[Our history](#)[Nutrition](#)[Canada](#)[Locations](#)[Catering](#)[Loyalty](#)[Crumbl for Business](#)[Privacy policy](#)[Terms & Conditions](#)[Cookie Settings](#)[Support and FAQ](#)
+Company
 
-**Get Involved**
+Get Involved
 
-[Media Kit](#)[Collaborate](#)[HQ Careers](#)[Franchise Store Jobs](#)[Franchising](#)
+[Media Kit](https://crumblcookies.com/press)[Collaborate](https://crumblcookies.com/collaborate)[Franchising](https://crumblcookies.com/franchising)[Franchise Store Jobs](https://crumblcookies.com/jobs)[HQ Careers](https://crumblcookies.com/careers)[Crumbl Cares](https://crumblcookies.com/crumbl-cares)
 
-**Spread the word**
+Get Involved
 
-[![Facebook](/_next/static/media/facebook.af5f539b.svg)](https://www.facebook.com/crumblcookies/)[![Instagram](/_next/static/media/instagram.f973c6e6.svg)](https://instagram.com/crumblcookies)[![Tiktok](/_next/static/media/tiktokicon.bc1bacc5.svg)](https://www.tiktok.com/@crumblcookies)[![Twitter](/_next/static/media/twitter.63ac707c.svg)](https://twitter.com/crumblcookies)[![Youtube](/_next/static/media/youtube_icon.1cb4ef73.svg)](https://www.youtube.com/c/CrumblCookies)[![LinkedIn](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flinkedin.576175f1.png&w=64&q=75)](https://www.linkedin.com/company/crumblcookies/)[![Pinterest](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpinterest.30063bbe.png&w=64&q=75)](https://www.pinterest.com/crumblcookies/)
+[](https://www.facebook.com/crumblcookies/)[](https://www.instagram.com/crumblcookies/)[](https://www.tiktok.com/@crumblcookies)[](https://x.com/crumblcookies)[](https://www.youtube.com/c/CrumblCookies)[](https://www.linkedin.com/company/crumblcookies/)[](https://www.pinterest.com/crumblcookies/)
 
-OREO® is a trademark of Mondelēz International group, used under license.
+© 2024 all rights reserved. 
+
+[Privacy policy](https://crumblcookies.com/privacy)|[Terms and Conditions](https://crumblcookies.com/termsandconditions)|Non-edible Cookie Preferences

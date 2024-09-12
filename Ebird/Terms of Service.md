@@ -6,7 +6,7 @@
 * [Members](https://www.birds.cornell.edu/home/members/)
 * [Get eNews](https://www.birds.cornell.edu/home/enews-signup/)
 * [Contact Us](https://www.birds.cornell.edu/home/contact-us/)
-* [Join Us](https://join.birds.cornell.edu/page/14619/donate/1?ea.tracking.id=WEB&utm_source=BCE&utm_medium=Website&utm_campaign=Evergreen-Acq)
+* [Join Us](https://join.birds.cornell.edu/page/150611/donate/1?ea.tracking.id=WXXXXX01C)
 
 [![The Cornell Lab](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
@@ -29,7 +29,7 @@
     * [10 Ways to Help Birds](https://www.birds.cornell.edu/home/get-involved/10-ways-to-help-birds/)
 * [Donate](https://give.birds.cornell.edu/page/87895/donate/1?ea.tracking.id=WXXXXX01C&utm_source=BCE&utm_medium=Website&utm_campaign=Evergreen-Appeal)
     * [Support Our Cause](https://www.birds.cornell.edu/home/give/)
-    * [Renew/Join](https://join.birds.cornell.edu/page/14646/donate/1?ea.tracking.id=WXXXXX01C&utm_source=BCE&utm_medium=Website&utm_campaign=Evergreen-Renew)
+    * [Renew/Join](https://join.birds.cornell.edu/page/150612/donate/1?ea.tracking.id=WXXXXX01C)
     * [Monthly Giving](https://give.birds.cornell.edu/page/99134/donate/1?ea.tracking.id=WXXXXX01C&utm_source=BCE&utm_medium=Website&utm_campaign=Evergreen-Sustainer)
     * [Gift of Membership](https://give.birds.cornell.edu/page/88136/donate/1?ea.tracking.id=WXXXXX01C&utm_source=BCE&utm_medium=Website&utm_campaign=Evergreen-Gift_Mem)
 * [All About Birds](http://allaboutbirds.org/)
@@ -49,7 +49,7 @@
 * [Members](https://www.birds.cornell.edu/home/members/)
 * [Get eNews](https://www.birds.cornell.edu/home/enews-signup/)
 * [Contact Us](https://www.birds.cornell.edu/home/contact-us/)
-* [Join Us](https://join.birds.cornell.edu/page/14619/donate/1?ea.tracking.id=WEB&utm_source=BCE&utm_medium=Website&utm_campaign=Evergreen-Acq)
+* [Join Us](https://join.birds.cornell.edu/page/150611/donate/1?ea.tracking.id=WXXXXX01C)
 
 Search
 
@@ -195,10 +195,10 @@ Golden-cheeked Warbler by [Bryan Calk/Macaulay Library](https://macaulaylibrary
     * [Join a Virtual Event](https://www.birds.cornell.edu/home/virtual-experiences/)
 * [Support the Lab](https://www.birds.cornell.edu/home/give/)
     * [Donate](https://give.birds.cornell.edu/page/87895/donate/1?ea.tracking.id=BCF)
-    * [Renew/Join](https://join.birds.cornell.edu/ea-action/action?ea.client.id=1806&ea.campaign.id=28635&ea.tracking.id=BCF)
+    * [Renew/Join](https://join.birds.cornell.edu/page/150612/donate/1?ea.tracking.id=WXXXXX04C)
     * [Monthly Giving](https://give.birds.cornell.edu/page/99134/donate/1?ea.tracking.id=BCF)
     * [Gift of Membership](https://join.birds.cornell.edu/page/88136/membership/1)
-    * [Golden-wing Society](https://join.birds.cornell.edu/ea-action/action?ea.client.id=1806&ea.campaign.id=23683&ea.tracking.id=DRD#_ga=2.237129536.1543017368.1538664071-1800547410.1538664071)
+    * [Golden-wing Society](https://join.birds.cornell.edu/page/150610/donate/1?ea.tracking.id=WXXXXX03C)
     * [Chairman’s Council](https://www.birds.cornell.edu/home/give/chairmans-council/)
     * [Planned Giving](https://birds.cornell.giftplans.org/)
     * [Shop for Our Cause](https://www.birds.cornell.edu/home/shop-for-our-cause/)

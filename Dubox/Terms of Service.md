@@ -1,40 +1,8 @@
-TeraBox Terms of Service
+{{ headText.includes('.') ? $t(headText) : $t(\`panelTitle.${headText}\`) }}
 
 ![](../images/arrow-bottom-icon.png)
 
-TeraBox Terms of Service
-
-User Data & User Permissions
-
-Acceptable Use Policy
-
-User Responsibilitie
-
-Software
-
-Company Property
-
-Copyright
-
-SUBSCRIPTION STORAGE UPGRADES & PAID FEATURES
-
-Termination
-
-Change or Discontinuation of Services
-
-Services “AS IS”
-
-Limitation of Liability
-
-Resolving Disputes
-
-Controlling Law
-
-Entire Agreement
-
-Waiver, Severability & Assignment
-
-Modifications
+{{ item.includes('.') ? $t(item) : $t(\`panelTitle.${item}\`) }}
 
 TeraBox Terms of Service
 
@@ -43,8 +11,6 @@ Posted: April 28, 2020
 Effective: April 28, 2020
 
 Thank you for using TeraBox. These terms of service (these “Terms”) govern your use of and access to our services, client software and websites (the "Services"). Your agreement is with Flextech Inc. (the “Company”, “we” or “us”). Our Privacy Policy explains how we collect and use your information. By using the Services, you are agreeing to be bound by these Terms and by our Privacy Policy.
-
-User Data & User Permissions
 
 When you use the Services, you may provide us with materials such as your files, content, messages, contacts uploaded by you (“User Material.” See Privacy Policy for the detail.). These Terms do not give the Company any right to User Data, except for the limited rights that enable it to offer the Services.
 
@@ -185,44 +151,6 @@ The Company may revise these Terms from time to time:
 The Company will notify you in advance of any update that affects your use of the Services or your legal rights as a user of the Services. These updated terms shall be effective no less than 30 days from such notification.
 
 If you do not agree to such updates, please cease to use the Services before the updates become effective. By continuing to use or access the Services after the updates come into effect, you agree to be bound by the revised Terms.
-
-TeraBox利用規約
-
-![](../images/arrow-bottom-icon.png)
-
-TeraBox利用規約
-
-ユーザーデータとユーザー権限
-
-禁止事項
-
-ユーザーの責任
-
-ソフトウェア
-
-当社の権利
-
-著作権
-
-有料サービス
-
-終了
-
-サービスの変更または中止
-
-「現状有姿」のサービス
-
-責任の制限
-
-紛争の解決
-
-準拠法
-
-完全合意
-
-権利放棄、分離可能性および譲渡
-
-規約の改訂
 
 TeraBox利用規約
 
@@ -371,44 +299,6 @@ i. いかなる間接的、特別、偶発的、懲罰的損害ii. 法的に損�
 当社は、本サービスのご利用または本サービスのユーザーとしての法的権利に影響を与える規約の改訂を事前に通知いたします。 改訂された規約は、当該通知から30日を経過した時点で有効となります。
 
 規約の改訂に同意しない場合は、当該改訂が有効になる前に本サービスのご利用を中止してください。 更新が有効になった後も本サービスの利用またはアクセスを継続する場合、改訂後の規約に同意したものとみなされます。
-
-เงื่อนไขการให้บริการของ TeraBox
-
-![](../images/arrow-bottom-icon.png)
-
-เงื่อนไขการให้บริการของ TeraBox
-
-ข้อมูลและสิทธิของท่าน
-
-นโยบายความมั่นคงปลอดภัยระบบสารสนเทศ
-
-ความรับผิดชอบของท่าน
-
-ซอฟต์แวร์
-
-ข้อมูลของพวกเรา
-
-ลิขสิทธิ์
-
-บัญชีผู้ใช้งานที่สมัครรับบริการ
-
-การยุติการใช้บริการ
-
-การปรับเปลี่ยนและยุติการให้บริการ
-
-การให้บริการตาม “สภาพความเป็นจริง”
-
-การจำกัดความรับผิดชอบ
-
-การยุติข้อขัดแย้ง
-
-กฎหมายที่บังคับใช้
-
-เงื่อนไขฉบับสมบูรณ์
-
-การละทิ้ง การแบ่งแยกและการส่งต่อ
-
-การแก้ไข
 
 เงื่อนไขการให้บริการของ TeraBox
 
@@ -566,44 +456,6 @@ ii. ความเสียหายจากประสิทธิภาพ�
 
 TeraBox 서비스 약관
 
-![](../images/arrow-bottom-icon.png)
-
-TeraBox 서비스 약관
-
-사용자의 자료와 사용자의 권한
-
-허용 가능한 사용정책
-
-사용자의 책임
-
-소프트웨어
-
-저희의 자료
-
-저작권
-
-유료 계정
-
-종료
-
-서비스 변경 또는 종료
-
-“서면 의미대로” 서비스 제공
-
-책임제한
-
-분쟁해결
-
-적용 법률
-
-완정한 협의
-
-포기, 가분성 및 양도
-
-수정
-
-TeraBox 서비스 약관
-
 발행일: 2020년 4월 28일
 
 시행일: 2020년 4월 28일
@@ -755,44 +607,6 @@ Flextech Inc.이 모 규정을 집행할 수 없다고 하여도 그 후의 집�
 만약 저희의 업데이트를 동의하지 않을 경우, 업데이트 내용이 시행되기 전에 계정을 취소하시기 바랍니다. 적용 상황하에, 저희는 사용자가 미리 지급한 서비스 비용 및 계정의 취소일자에 근거하여 비율에 따라 환불할 것입니다. 만약 업데이트 내용 시행 후 계속하여 서비스를 사용 또는 방문할 경우, 사용자가 수정 후의 약관의 구속을 받는 것에 동의함으로 간주됩니다.
 
 본 번역본은 사용자의 이해의 편의를 돕기 위할 뿐, 영문 버전과 충돌이 있을 경우, 영어 버전을 우선으로 합니다.
-
-TeraBox सेवा की शर्तें
-
-![](../images/arrow-bottom-icon.png)
-
-TeraBox सेवा की शर्तें
-
-आपकी जानकारी और आपकी अनुमतियां
-
-स्वीकार्य उपयोग नीति
-
-आपकी ज़िम्मेदारी
-
-सॉफ्टवेयर
-
-हमारी जानकारी
-
-कॉपीराइट
-
-सशुल्क खाता
-
-सेवाओं की समाप्ति
-
-सेवा के परिवर्तन या समाप्ति
-
-"जैसा है वैसा" सेवाएं प्रदान करें
-
-दायित्व की सीमा
-
-विवादों का समाधान
-
-लागू कानून
-
-संपूर्ण समझौता
-
-छूट,विच्छेदनीयता और हस्तांतरिती
-
-संशोधन
 
 TeraBox सेवा की शर्तें
 
@@ -954,44 +768,6 @@ Flextech Inc. की एक निश्चित प्रावधान क�
 
 Ketentuan Layanan TeraBox
 
-![](../images/arrow-bottom-icon.png)
-
-Ketentuan Layanan TeraBox
-
-Data Pengguna & Izin Pengguna
-
-Kebijakan Penggunaan yang Dapat Diterima
-
-Tanggungjawab pengguna
-
-Perangkat lunak
-
-Properti Kami
-
-Hak Cipta
-
-Akun pembayaran
-
-Penghentian
-
-Perubahan atau Pengakhiran Layanan
-
-Layanan “Sebagaimana Asal”
-
-Batasan Tanggungjawab
-
-Penyelesaian Perselisihan
-
-Undang-undang berlaku
-
-Perjanjian lengkap
-
-Pengesampingan, Keterpisahan & Penalihan
-
-Modifikasi
-
-Ketentuan Layanan TeraBox
-
 Waktu terbit: 28 April 2020
 
 Waktu berlaku: 28 April 2020
@@ -1143,44 +919,6 @@ Jika revisi tersebut akan memengaruhi penggunaan Anda atas layanan atau hak huku
 Jika Anda tidak setuju dengan pembaruan tersebut, harap berhenti menggunakan Layanan akun sebelum pembaruan menjadi efektif. Jika berlaku, kami akan mengembalikan secara proporsional berdasarkan biaya layanan prabayar Anda dan tanggal pembatalan akun. Jika Anda terus menggunakan atau mengakses layanan setelah konten yang diperbarui berlaku, itu berarti Anda setuju untuk terikat dengan persyaratan yang direvisi.
 
 Versi terjemahan ini tersedia hanya untuk kenyamanan fahaman Anda. Jika ada konflik dengan versi bahasa Inggris, versi bahasa Inggris yang akan berlaku.
-
-Условия предоставления услуг TeraBox
-
-![](../images/arrow-bottom-icon.png)
-
-Условия предоставления услуг TeraBox
-
-Ваши материалы и ваши права
-
-Политика допустимого использования
-
-Ваши обязанности
-
-Программное обеспечение
-
-Наши материалы
-
-Авторские права
-
-Платные учетные записи
-
-Прекращение
-
-Изменение Сервисов или прекращение их предоставления
-
-Предоставление Сервисов "как есть"
-
-Ограничение ответственности
-
-Разрешение споров
-
-Применимое законодательство
-
-Полное Соглашение
-
-Отказ, делимость и передача
-
-Изменения
 
 Условия предоставления услуг TeraBox
 
@@ -1338,44 +1076,6 @@ ii. убытки, причиненные возможности пользова
 
 Términos de Servicio de TeraBox
 
-![](../images/arrow-bottom-icon.png)
-
-Términos de Servicio de TeraBox
-
-Datos de usuario y permisos de usuario
-
-Política de uso aceptable
-
-Responsabilidades de usuario
-
-Software
-
-Propiedad de la Compañía
-
-Derechos de autor
-
-Cuenta de pago
-
-Terminación
-
-Cambio o interrupción de servicios
-
-Provisión de Servicios "Tal Cual"
-
-Limitación de responsabilidad
-
-Resolución de disputas
-
-Ley aplicable
-
-Acuerdo completo
-
-Renuncia, divisibilidad y cesión
-
-Modificaciones
-
-Términos de Servicio de TeraBox
-
 Publicado: 28 de abril de 2020
 
 Efectivo: 28 de abril de 2020
@@ -1527,44 +1227,6 @@ La Compañía le notificará antes de la fecha efectiva de la actualización si 
 Si no está de acuerdo con dichas actualizaciones, cancele su cuenta antes de que las actualizaciones entren en vigencia. Cuando corresponda, le reembolsaremos proporcionalmente según sus tarifas de servicio prepagas y la fecha de cancelación de la cuenta. Si continúa usando o accediendo a los Servicios después de que las actualizaciones entren en vigencia, significa que acepta estar sujeto a los Términos revisados.
 
 Esta versión traducida es proporcionada solo para facilitar su conocimiento, en caso de conflictos con la versión en inglés, prevalecerá la versión en inglés.
-
-شروط خدمة TeraBox
-
-![](../images/arrow-bottom-icon.png)
-
-شروط خدمة TeraBox
-
-المعلومات والأذونات الخاصة بكم
-
-سياسة الاستخدام المقبول
-
-مسؤولياتك
-
-البرنامج
-
-معلوماتنا
-
-حقوق النشر
-
-حساب مدفوع
-
-الإنهاء
-
-تغيير الخدمة أو إنهاؤها
-
-تقديم الخدمات "كما هي"
-
-حدود المسؤولية
-
-حل النزاعات
-
-القانون الواجب التطبيق
-
-الاتفاق الكامل
-
-التخلي والقابلية للتجزئة والنقل
-
-التعديل
 
 شروط خدمة TeraBox
 
@@ -1722,44 +1384,6 @@ Esta versión traducida es proporcionada solo para facilitar su conocimiento, en
 
 Termos dos Serviços do TeraBox
 
-![](../images/arrow-bottom-icon.png)
-
-Termos dos Serviços do TeraBox
-
-Dados e Permissões do Usuário
-
-Política de Utilização Aceitável
-
-Responsabilidades do Usuário
-
-Software
-
-Nossos Materiais
-
-Direito Autoral
-
-Contas Pagas
-
-Terminação
-
-Mudança ou Descontinuação de Serviços
-
-Serviços "TAL COMO ESTÃO"
-
-Limitação de Responsabilidade
-
-Resolução de Disputas
-
-Lei Aplicativa
-
-Acordo Integral
-
-Renúncia, Separabilidade e Concessão
-
-Modificações
-
-Termos dos Serviços do TeraBox
-
 Data de emissão: 28 de abril de 2020
 
 Data de vigência: 28 de abril de 2020
@@ -1911,44 +1535,6 @@ Se a atualização afetar seu uso dos Serviços ou seus direitos legais como usu
 Se você não concordar com essas atualizações, cancele a conta dos Serviços antes que as atualizações entrem em vigor. Quando aplicável, reembolsaremos proporcionalmente com base nas taxas pré-pago e na data de cancelamento da conta. Ao continuar a usar ou acessar os Serviços após as atualizações entrarem em vigor, você concorda em obedecer aos Termos revisados.
 
 A versão traduzida é fornecida apenas para facilitar o seu entendimento, caso haja conflito com a versão em inglês, a versão em inglês prevalecerá.
-
-TeraBox Terms of Service
-
-![](../images/arrow-bottom-icon.png)
-
-TeraBox Terms of Service
-
-Dữ liệu người dùng & Quyền của người dùng
-
-Quy định pháp luật
-
-Trách nhiệm của Người dùng
-
-Phần mềm
-
-Tài sản công ty
-
-Bản quyền
-
-CÁC TÍNH NĂNG NÂNG CẤP LƯU TRỮ ĐĂNG KÝ & ĐÃ THANH TOÁN
-
-Chấm dứt
-
-Thay đổi hoặc ngừng cung cấp dịch vụ
-
-Dịch vụ “NGUYÊN TRẠNG”
-
-Trách nhiệm hữu hạn
-
-Giải quyết tranh chấp
-
-Luật kiểm soát
-
-Toàn bộ thỏa thuận
-
-Miễn trừ, Hiệu lực từng phần & Chuyển nhượng
-
-Các sửa đổi
 
 TeraBox Terms of Service
 

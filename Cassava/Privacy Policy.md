@@ -222,13 +222,13 @@ Have any questions, comments, or concerns about this privacy policy, your data, 
 
 Loading
 
-v3.0.4.85ac460© 2024 Cassavarose LLC. All rights reserved
+v3.0.5.6d080f9© 2024 Cassavarose LLC. All rights reserved
 
  [![Maximize the Engagement, Adoption, and Retention of your Business Coaching Programs](https://assets.gocassava.com/assets/blog/business_coaching_400x400.png)](https://gocassava.com/blog/cassava-for-business-coaches)Maximize the Engagement, Adoption, and Retention of your Business Coaching Programs
 
- [![Supercharge the Creation of Training Modules with Mind Maps and Cassava](https://assets.gocassava.com/assets/blog/brainstorm_v2_400x400.png)](https://gocassava.com/blog/supercharge-creation-training-modules-mind-maps-cassava)Supercharge the Creation of Training Modules with Mind Maps and Cassava
-
  [![3 Fantastic Techniques to Quickly Learn Anything](https://assets.gocassava.com/assets/blog/dont_just_learn_experience_400x400.png)](https://gocassava.com/blog/three-fantastic-techniques-to-quickly-learn-anything)3 Fantastic Techniques to Quickly Learn Anything
+
+ [![Supercharge the Creation of Training Modules with Mind Maps and Cassava](https://assets.gocassava.com/assets/blog/brainstorm_v2_400x400.png)](https://gocassava.com/blog/supercharge-creation-training-modules-mind-maps-cassava)Supercharge the Creation of Training Modules with Mind Maps and Cassava
 
 Company
 

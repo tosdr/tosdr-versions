@@ -17,7 +17,7 @@ Loading...
 Estimated total
 ---------------
 
-£0.00 GBP
+$0.00 USD
 
 Taxes, discounts and shipping calculated at checkout
 
@@ -49,7 +49,7 @@ Update country/region
 Country/region
 --------------
 
-United Kingdom | GBP £
+United States | USD $
 
  Search
 

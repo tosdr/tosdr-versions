@@ -60,7 +60,7 @@ By team size
 
 [![](https://sanity-images.imgix.net/production/54e838140010ee3b4aa587b56eb348973008f66d-2400x1091.png?w=1200&auto=format%2Ccompress)
 
-How Qualtrics saves money with Coda](https://coda.io/solutions/case-studies/qualtrics)[See all →](https://coda.io/solutions/case-studies)
+How Qualtrics saves money with Coda.](https://coda.io/solutions/case-studies/qualtrics)[See all →](https://coda.io/solutions/case-studies)
 
 Resources
 

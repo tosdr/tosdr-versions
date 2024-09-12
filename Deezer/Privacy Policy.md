@@ -418,7 +418,6 @@ If you are not satisfied with our response, you can contact our Data Protection 
     
 * [Download the Deezer app](https://www.deezer.com/explore/download/)
 * [Offers](https://www.deezer.com/en/offers)
-* [Discount](https://www.deezer.com/en/offers/discount)
 * [Reviews](https://www.deezer.com/explore/reviews/)
 * [Use a promo code](https://www.deezer.com/en/gift)
 * [Buy a gift card](https://www.deezer.com/payment/go.php?id=1&gift=1&origin=footer-gift-card)
@@ -457,15 +456,14 @@ If you are not satisfied with our response, you can contact our Data Protection 
 * [Terms and Conditions](https://www.deezer.com/legal/cgu)
 * [Privacy policy](https://www.deezer.com/legal/personal-datas)
 * Cookies
-* [Modern Slavery Act](https://e-cdn-files.dzcdn.net/pdfs/legal/legal_uk_2023.pdf)
 * [Open Source Software Report](https://www.deezer.com/explore/licenses)
 * [Vulnerability Disclosure Policy](https://vdp.deezer.com/p/Welcome)
 
 [](https://www.deezer.com/en/)
 
-* [](https://www.facebook.com/DeezerUK)
-* [](https://www.instagram.com/deezeruk)
-* [](https://twitter.com/deezeruk)
+* [](https://www.facebook.com/DeezerUS)
+* [](https://www.instagram.com/deezerlatino/)
+* [](https://twitter.com/DeezerLatino)
 * [](https://www.youtube.com/deezer)
 
 © 2024 Deezer

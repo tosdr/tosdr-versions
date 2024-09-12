@@ -1,12 +1,14 @@
-Point finders for Google's Find My Device app Preorder now
+Point finders for Google's Find My Device app Order now
+
+Celebrating Friendship month - Friendship Point BUNDLE 15% OFF Order now
 
 Chipolo Fruit LIMITED edition - 4x Chipolo ONE key finder More
 
 [](https://chipolo.net/en-us/)
 
-Products Compare products [Store](https://chipolo.net/en-us/pages/chipolo-collection) [Login](https://app.chipolo.net/) [Download free app](https://chipolo.net/en-us/pages/freeapp) [Cart](https://chipolo.net/en-us/shop/cart) [Chipolo app](https://app.chipolo.net/)
+Products Compare products [Store](https://chipolo.net/en-us/pages/chipolo-collection) [Login](https://app.chipolo.net/) [Download free app](https://chipolo.net/en-us/pages/freeapp) [](#)[Cart](https://chipolo.net/en-us/shop/cart) [Chipolo app](https://app.chipolo.net/)
 
-[Store](https://chipolo.net/en-us/pages/chipolo-collection) [Cart](https://chipolo.net/en-us/shop/cart) [Hamburger button - to toggle mobile menu](javascript:;)
+[Store](https://chipolo.net/en-us/pages/chipolo-collection) [](#)[Cart](https://chipolo.net/en-us/shop/cart) [Hamburger button - to toggle mobile menu](javascript:;)
 
 Products
 
@@ -32,9 +34,9 @@ Compare products [Store](https://chipolo.net/en-us/pages/chipolo-collection) [Lo
 
 Compare products
 
-Point finders for Google’s Find My Device app
+Friendship Point BUNDLE
 
-PREORDER[](https://chipolo.net/en-us/products/category/chipolo-point)
+[Link to the promotion](https://chipolo.net/en-us/products/friendship-chipolo-point-bundle)
 
 Privacy Policy
 ==============
@@ -453,7 +455,7 @@ Compare Chipolo products
 | [![](/imager/assets/images/blocks/compareProducts/collection_core_fedb475079824ea3b813d60c8dfdae2a_4002655e99878844f0e5e2acbaa9b812.webp)](https://chipolo.net/en-us/products/category/chipolo)<br><br>[ONE & CARD](https://chipolo.net/en-us/products/category/chipolo) | [![](/imager/assets/images/blocks/compareProducts/collection_spot_fedb475079824ea3b813d60c8dfdae2a_4002655e99878844f0e5e2acbaa9b812.webp)](https://chipolo.net/en-us/products/category/chipolo-spot)<br><br>[ONE Spot & CARD Spot](https://chipolo.net/en-us/products/category/chipolo-spot) | [![](/imager/assets/images/blocks/compareProducts/collection_point_fedb475079824ea3b813d60c8dfdae2a_4002655e99878844f0e5e2acbaa9b812.webp)](https://chipolo.net/en-us/products/category/chipolo-point)<br><br>[ONE Point & CARD Point](https://chipolo.net/en-us/products/category/chipolo-point) |
 | --- | --- | --- |
 | Available |     |     |
-|     |     | Preorders only |
+|     |     |     |
 | App |     |     |
 | Chipolo app | Apple  <br>Find My app | Google’s  <br>Find My Device app |
 | Color |     |     |

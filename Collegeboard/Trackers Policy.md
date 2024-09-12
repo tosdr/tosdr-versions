@@ -14,6 +14,8 @@
 2. [Privacy Statement](https://privacy.collegeboard.org/privacy-statement)
 3. Active Page: Cookies and Website Usage
 
+[Back](#)
+
 Cookies and Website Usage
 =========================
 

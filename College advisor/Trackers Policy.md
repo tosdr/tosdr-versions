@@ -12,12 +12,14 @@
     * [9th & 10th Grade Program](https://www.collegeadvisor.com/programs/9th-10th-grade-program/)
     * [11th Grade Program](https://www.collegeadvisor.com/programs/11th-grade-program/)
     * [12th Grade Program](https://www.collegeadvisor.com/programs/12th-grade-program/)
+    * [Essay Editing Packages](https://go.collegeadvisor.com/essay-editing-packages)
     * [MBA Program](https://go.collegeadvisor.com/mba-admissions)
     * [Scholars Program](https://www.collegeadvisor.com/scholars-program/)
 * [Resources](#)
     * [Articles & Guides](https://www.collegeadvisor.com/resources)
     * [Essay Guides & Examples](https://www.collegeadvisor.com/essay-guides)
     * [Best Colleges](https://www.collegeadvisor.com/resources/category/best-colleges/)
+    * [Summer Programs](https://www.teenlife.com/category/summer?utm_source=CA-Header)
     * [How to Get Into Guides](https://www.collegeadvisor.com/how-to-get-into/)
     * [Merit-Based Scholarships](https://collegeadvisor.com/merit-based-scholarships)
     * [College Applications](https://www.collegeadvisor.com/college-applications/)
@@ -297,13 +299,13 @@ New York, NY 10001
 (t) 212.210.6390  
 [\[email protected\]](https://www.collegeadvisor.com/cdn-cgi/l/email-protection)
 
-[![College Advisor logo](data:image/svg+xml;nitro-empty-id=MTYyNjoxNzg=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTAwIDE5NSIgd2lkdGg9IjUwMCIgaGVpZ2h0PSIxOTUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.collegeadvisor.com/)
+[![College Advisor logo](data:image/svg+xml;nitro-empty-id=MTYyODoxNzg=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTAwIDE5NSIgd2lkdGg9IjUwMCIgaGVpZ2h0PSIxOTUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.collegeadvisor.com/)
 
 Personalized and effective college advising for high school students.
 
 * [Advisor Application](https://collegeadvisor.typeform.com/to/G7kq0B)
 * [Resources](https://www.collegeadvisor.com/resources)
-* [Careers](https://www.collegeadvisor.com/careers)
+* [TeenLife](https://www.teenlife.com/?utm_source=CA-Footer)
 * [Popular Colleges](https://www.collegeadvisor.com/colleges)
 * [Contact Us](https://www.collegeadvisor.com/contact-us)
 * [Privacy Policy and Cookie Notice](https://www.collegeadvisor.com/privacy-policy)
@@ -321,5 +323,3 @@ Personalized and effective college advising for high school students.
 ×
 
 By using the College Advisor site and/or working with College Advisor, you agree to our updated [Terms and Conditions](https://www.collegeadvisor.com/terms-and-conditions/) and [Privacy Policy](https://www.collegeadvisor.com/privacy-policy/), including an arbitration clause that covers any disputes relating to our policies and your use of our products and services.
-
-![](https://www.collegeadvisor.com/akam/13/pixel_5fae3c9?a=dD03YjUxYzliNzg0ZDkwNTU3MWM0YmQ2NjRjN2EyOTdjYjE0NDE5YzkwJmpzPW9mZg==)

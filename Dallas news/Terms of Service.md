@@ -1,8 +1,10 @@
+![](https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Fdmn%2Fc8973d2b-e5d3-49a8-a88d-2507acb8fb11.png?auth=52229f806c1750cb2b3aaae8c2f2ac13377589896623170d5704f9a83331c03e&height=50&width=50&smart=true&quality=80)
+
 By [The Dallas Morning News](https://www.dallasnews.com/author/the-dallas-morning-news/)
 
-3:35 PM on Aug 28, 2019 CDT — Updated at 11:17 AM on Jan 2, 2024 CST
+3:35 PM on Aug 28, 2019 CDT — Updated at 11:17 AM on Sep 5, 2024 CDT
 
-![The Rock of Truth stands over the entrance to the former Dallas Morning News headquarters...](https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/Q7EOMBJKY7VQLXJUINHW4XD3YQ.jpg?auth=d31281a70866e9cb7086e6fb880679e88416c252b48b3912040c7d71792963cd&height=553&width=830&smart=true&quality=40)
+![The Rock of Truth stands over the entrance to the former Dallas Morning News headquarters...](https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/Q7EOMBJKY7VQLXJUINHW4XD3YQ.jpg?auth=d31281a70866e9cb7086e6fb880679e88416c252b48b3912040c7d71792963cd&height=553&width=830&smart=true&quality=80)
 
 The Rock of Truth stands over the entrance to the former Dallas Morning News headquarters building on Young Street downtown.(Staff / Karen Robinson-Jacobs)
 
@@ -44,7 +46,7 @@ DallasNews Corporation Terms of Service
 
 2\. CONTENT OF THE SERVICES / MEMBERSHIPS
 
-2.1 The Content of the Services, including the Sites, are intended for your personal, noncommercial use. All materials published on the Services (including, but not limited to news articles, photographs, images, illustrations, audio clips and video clips, also known as the “Content”) are protected by copyright, and owned or controlled by The Dallas Morning News or the party credited as the provider of the Content. You shall abide by all additional copyright notices, information, or restrictions contained in any Content accessed through the Services. Personal, noncommercial use does not include the use of Content without prior written consent from The Dallas Morning News in connection with: (1) the development of any software program, including, but not limited to, training or using a machine learning or artificial intelligence (AI) system; or (2) providing archived or cached data sets containing Content to another person or entity.
+2.1 The Content of the Services, including the Sites, are intended for your personal, noncommercial use. All materials published on the Services (including, but not limited to news articles, photographs, images, illustrations, audio clips and video clips, also known as the “Content”) are protected by copyright, and owned or controlled by The Dallas Morning News or the party credited as the provider of the Content. You shall abide by all additional copyright notices, information, or restrictions contained in any Content accessed through the Services. Personal, noncommercial use does not include the use of Content without prior written consent from The Dallas Morning News in connection with: (1) the development of any software program, including, but not limited to, [training or using a machine learning or artificial intelligence (AI) system](https://www.dallasnews.com/news/inside-the-newsroom/2024/09/05/our-standards-for-using-ai-at-the-dallas-morning-news/); or (2) providing archived or cached data sets containing Content to another person or entity.
 
 2.2 The Services and Contents are protected by copyright pursuant to U.S. and international copyright laws. You may not modify, publish, transmit, participate in the transfer or sale of, reproduce (except as provided in Section 2.3 of these Terms of Service), create new works from, distribute, perform, display, or in any way exploit, any of the Content or the Services (including software) in whole or in part.
 
@@ -224,7 +226,7 @@ Email: [DMCA@dallasnews.com](mailto:DMCA@dallasnews.com)
 
 [](http://www.facebook.com/sharer/sharer.php?u=https://www.dallasnews.com/help/terms-of-service/&title=Terms%20of%20Service "Share on Facebook")[](https://twitter.com/intent/tweet?text=Terms%20of%20Service&url=https://www.dallasnews.com/help/terms-of-service/ "Share on Twitter")[](mailto:?subject=DallasNews.com%3A%20Terms%20of%20Service&body=From%20The%20Dallas%20Morning%20News%3A%0A%0ATerms%20of%20Service%0A%0Ahttps://www.dallasnews.com/help/terms-of-service/ "Share via Email")[](javascript:window.print() "Print")
 
-[![The Dallas Morning News](https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Fdmn%2Fc8973d2b-e5d3-49a8-a88d-2507acb8fb11.png?auth=52229f806c1750cb2b3aaae8c2f2ac13377589896623170d5704f9a83331c03e&height=140&width=140&smart=true&quality=40)](https://www.dallasnews.com/author/the-dallas-morning-news)
+[![The Dallas Morning News](https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Fdmn%2Fc8973d2b-e5d3-49a8-a88d-2507acb8fb11.png?auth=52229f806c1750cb2b3aaae8c2f2ac13377589896623170d5704f9a83331c03e&height=140&width=140&smart=true&quality=80)](https://www.dallasnews.com/author/the-dallas-morning-news)
 
 [The Dallas Morning News](https://www.dallasnews.com/author/the-dallas-morning-news/)
 

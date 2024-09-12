@@ -7,6 +7,7 @@
         * [Digital Wallet](https://www.dwolla.com/features/digital-wallet)
         * [Dwolla Dashboard](https://www.dwolla.com/features/dashboard)
         * [Mass Pay](https://www.dwolla.com/features/mass-pay)
+        * [Drop-In Components](https://www.dwolla.com/features/drop-in-components/)
         * [Webhooks](https://www.dwolla.com/features/webhooks)
         * [Correlation ID](https://www.dwolla.com/features/correlation-id/)
         * [Addenda Records](https://www.dwolla.com/features/addenda-records)
@@ -53,6 +54,7 @@
         * [Digital Wallet](https://www.dwolla.com/features/digital-wallet)
         * [Dwolla Dashboard](https://www.dwolla.com/features/dashboard)
         * [Mass Pay](https://www.dwolla.com/features/mass-pay)
+        * [Drop-In Components](https://www.dwolla.com/features/drop-in-components/)
         * [Webhooks](https://www.dwolla.com/features/webhooks)
         * [Correlation ID](https://www.dwolla.com/features/correlation-id/)
         * [Addenda Records](https://www.dwolla.com/features/addenda-records)
@@ -117,6 +119,9 @@ Access and manage your payments data through our user-friendly interface.
 
 **[Mass Pay](https://www.dwolla.com/features/mass-pay)**  
 Send multiple bank transfers with a single API request.
+
+[**Drop-In Components**](https://www.dwolla.com/features/drop-in-components/)  
+Complete a payment integration more quickly using pre-built components.
 
 [**Webhooks**](https://www.dwolla.com/features/webhooks)  
 Real-time notifications.
@@ -313,8 +318,12 @@ Do Not Track signals are a web browser setting or mechanism used to indicate to 
 * [Payment Methods](javascript:;)
     * [Standard ACH](https://www.dwolla.com/features/standard-ach)
     * [Same Day ACH](https://www.dwolla.com/features/same-day-ach/)
-    * [Real-Time Payment](https://www.dwolla.com/features/instant-payments)
+    * [Instant Payments](https://www.dwolla.com/features/instant-payments)
 * [Features](javascript:;)
+    * [Digital Wallet](https://www.dwolla.com/features/digital-wallet)
+    * [Dwolla Dashboard](https://www.dwolla.com/features/dashboard)
+    * [Mass Pay](https://www.dwolla.com/features/mass-pay)
+    * [Drop-In Components](https://www.dwolla.com/features/drop-in-components/)
     * [Webhooks](https://www.dwolla.com/features/webhooks)
     * [Correlation ID](https://www.dwolla.com/features/correlation-id/)
     * [Addenda Records](https://www.dwolla.com/features/addenda-records)

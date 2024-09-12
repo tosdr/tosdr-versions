@@ -16,8 +16,6 @@ English \[US\]
 * [franchising](https://www.dairyqueenfranchising.com/)
 * [Sign In](https://www.dairyqueen.com/en-us/sign-in/)
 
-* [Start OrderOrder](https://www.dairyqueen.com/en-us/order/)
-
 Terms and Conditions
 ====================
 
@@ -49,6 +47,6 @@ OUR FAMILY
 * [Accessibility Statement](https://www.dairyqueen.com/en-us/accessibility-statement/)
 * [Sitemap](https://www.dairyqueen.com/en-us/sitemap/)
 
-The DQ, Dairy Queen, ellipse shaped logo, Happy Tastes Good, Blizzard, MooLatte, Peanut Buster, Buster Bar, Dilly, Royal Treat, Royal Treats, Misty, Orange Julius, Julius, Tripleberry, Flamethrower and other related trademarks are owned by Am. D.Q. Corp. © Am. D.Q. Corp. 2024. @2024 Little League Baseball, Incorporated. All Rights Reserved. All other trademarks owned by Am. D.Q. Corp ©2024
+• The DQ, Dairy Queen, ellipse shaped logo, Happy Tastes Good, Blizzard, MooLatte, Peanut Buster, Buster Bar, Dilly, Royal Treat, Royal Treats, Misty, Orange Julius, Julius, Tripleberry, Flamethrower and other related trademarks are owned by Am. D.Q. Corp. © 2024. Products and menus may vary by location; not all products listed are available in all locations.
 
 Do Not Sell or Share My Personal Information

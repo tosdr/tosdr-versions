@@ -1,4 +1,4 @@
-![](https://www.facebook.com/tr?id=681023883819321&ev=PageView&noscript=1)              
+![](https://www.facebook.com/tr?id=681023883819321&ev=PageView&noscript=1)            
 
 * [facebook](https://www.facebook.com/Business-in-Los-Angeles-101903368991954/)
 * [twitter](https://twitter.com/biztalkla)
@@ -201,8 +201,6 @@ Search for:  Search
 ![](https://www.facebook.com/tr?id=681023883819321&ev=PageView&noscript=1&cd%5Bpage_title%5D=GDPR+Privacy+Policy&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=6786&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=businessinlosangeles.com%2Fgdpr-privacy-policy%2F)
 
                              
-
-![](https://go.ezodn.com/utilcave_com/ezoic.png "ezoic")
 
 x
 

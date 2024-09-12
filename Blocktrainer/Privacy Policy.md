@@ -25,22 +25,25 @@
 
 * [Kaufen & Verwahren](https://www.blocktrainer.de/kaufen-und-anbieter)
     * [Bitcoin-Sparplan-Vergleich](https://www.blocktrainer.de/kaufen-und-anbieter/bitcoin-sparplan-vergleich)
-    * [Anleitung - Bitcoin kaufen](https://www.blocktrainer.de/kaufen-und-anbieter/anleitung-bitcoin-kaufen)
+    * [Anleitung – Bitcoin kaufen](https://www.blocktrainer.de/kaufen-und-anbieter/anleitung-bitcoin-kaufen)
     * [Börsen & Broker](https://www.blocktrainer.de/kaufen-und-anbieter/boersen-broker)
     * [Hardware Wallets](https://www.blocktrainer.de/kaufen-und-anbieter/hardware-wallets)
-    * [Seedor Safe](https://www.blocktrainer.de/kaufen-und-anbieter/seedor-safe)
+    * [Steelwallets](https://www.blocktrainer.de/kaufen-und-anbieter/steelwallets)
     * [Bitcoin als Cashback](https://www.blocktrainer.de/kaufen-und-anbieter/bitcoin-als-cashback/satsbackcom)
     * [Krypto & Steuern](https://www.blocktrainer.de/kaufen-und-anbieter/krypto-steuern)
     * [Heizen mit Bitcoin](https://www.blocktrainer.de/kaufen-und-anbieter/heizen-mit-bitcoin)
+    * [ATM - Bitcoin am Automat kaufen](https://www.blocktrainer.de/kaufen-und-anbieter/atm-bitcoin-am-automat-kaufen)
 * [Lernen & Wissen](https://www.blocktrainer.de/wissen)
     * [Artikel für Einsteiger](https://www.blocktrainer.de/wissen/artikel-fuer-einsteiger)
     * [Tutorials](https://www.blocktrainer.de/wissen/tutorials)
     * [Mehr Wissen zu Bitcoin & Co.](https://www.blocktrainer.de/wissen/mehr-wissen-zu-bitcoin-co)
+    * [WTF Happened in 1971?](https://www.blocktrainer.de/blog/wtf-happened-in-1971-die-katastrophalen-auswirkungen-von-ungedecktem-papiergeld)
     * [Blocktrainer Podcast](https://www.blocktrainer.de/wissen/blocktrainer-podcast)
     * [Bitcoin-Bücher](https://www.blocktrainer.de/tools-services/bitcoin-buecher)
     * [Übersetzungen](https://www.blocktrainer.de/wissen/uebersetzungen)
     * [Glossar](https://www.blocktrainer.de/wissen/glossar)
 * [Tools & Services](https://www.blocktrainer.de/tools-services)
+    * [Bitcoin-Sparplan-Rechner](https://www.blocktrainer.de/tools-services/bitcoin-dca-rechner)
     * [Solo-Mining-Rechner](https://www.blocktrainer.de/tools-services/solo-mining-rechner)
     * [Satoshi-Rechner](https://www.blocktrainer.de/tools-services/satoshi-rechner)
     * [Transaktions-Rechner](https://www.blocktrainer.de/tools-services/transaktions-rechner)
@@ -55,15 +58,15 @@
 * [News & Blog](https://www.blocktrainer.de/blog)
 * [Forum](https://forum.blocktrainer.de/)
 * [Events](https://www.blocktrainer.de/bitcoin-events)
-* [Shop](https://www.blocktrainer.de/shop/alle-produkte)
-    * [Bücher](https://www.blocktrainer.de/shop/buecher)
+* [Shop](https://www.blocktrainer.de/shop)
     * [Wallet Backups](https://www.blocktrainer.de/shop/wallet-backups)
     * [Cooles Zeug](https://www.blocktrainer.de/shop/cooles-zeug)
+    * [Bücher](https://www.blocktrainer.de/shop/buecher)
 * [Unterstützen](https://www.blocktrainer.de/unterstuetze-uns)
 
-* [Bitcoin - sachlich und fundiert erklärt.](https://www.blocktrainer.de/ "Bitcoin - sachlich und fundiert erklärt.")
-* [RECHTLICHE INFOS](https://www.blocktrainer.de/rechtliche-infos "RECHTLICHE INFOS")
-* [Datenschutz](https://www.blocktrainer.de/datenschutz "Datenschutz")
+1. [Startseite](https://www.blocktrainer.de/ "Startseite")
+2. [RECHTLICHE INFOS](https://www.blocktrainer.de/rechtliche-infos "RECHTLICHE INFOS")
+3. [Datenschutz](https://www.blocktrainer.de/datenschutz "Datenschutz")
 
 Datenschutzerklärung
 ====================
@@ -135,8 +138,8 @@ Wir weisen darauf hin, dass die Datenübertragung im Internet (z. B. bei der Ko
 
 Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
 
-bCyber GmbH  
-Wolbecker Str. 68  
+Höltene Klinke 46  
+48653 Coesfeld  
 48155 Münster
 
 Telefon: 0251297946731  
@@ -564,7 +567,7 @@ Die Inhalte stellen keine Anlageberatung, sondern ein reines Bildungs- und Infor
     * [Impressum](https://www.blocktrainer.de/rechtliche-infos/impressum "Impressum")
     * [Versand & Zahlung](https://www.blocktrainer.de/rechtliche-infos/versand-zahlung "Versand & Zahlung")
     * [Widerrufsrecht](https://www.blocktrainer.de/rechtliche-infos/widerrufsrecht "Widerrufsrecht")
-    * [AGB](https://www.blocktrainer.de/fileadmin/Dateiablage/PDF/BLOCKTRAINER_-_ALLGEMEINE_GESCH%C3%84FTSBEDINGUNGEN.pdf "AGB")
+    * [AGB](https://www.blocktrainer.de/fileadmin/Dateiablage/PDF/ALLGEMEINE_GESCH%C3%84FTSBEDINGUNGEN.pdf "AGB")
 * ÜBER UNS
     * [Unser Gründer](https://www.blocktrainer.de/unser-gruender "Unser Gründer")
     * [Unsere Autoren](https://www.blocktrainer.de/ueber-uns/unsere-autoren "Unsere Autoren")
@@ -573,9 +576,8 @@ Die Inhalte stellen keine Anlageberatung, sondern ein reines Bildungs- und Infor
     * [Spenden](https://www.blocktrainer.de/unterstuetze-uns "Spenden")
     * [Patenschaft](https://www.blocktrainer.de/patenschaft "Patenschaft")
 * SONSTIGES
-    * [Shop](https://www.blocktrainer.de/shop/alle-produkte "Shop")
+    * [Shop](https://www.blocktrainer.de/shop "Shop")
     * [RSS Feed](https://www.blocktrainer.de/feed "RSS Feed")
-    * [Newsletter](https://www.blocktrainer.de/newsletter "Newsletter")
     * [Status](https://status.blocktrainer.de/ "Status")
 
 ### Diese Seite teilen
@@ -590,4 +592,65 @@ Kopieren
 
 [](#)
 
-[![Relai](/fileadmin/_processed_/9/0/csm_RelaiApp_49dbef3ad1.jpg)](https://ref.blocktrainer.de/relai/ws/blocktrainer-empfehlungslinks/logo-banner)
+[![CoinTracking](/fileadmin/_processed_/f/4/csm_Vertical_2_709de20c7b.jpg)](https://ref.blocktrainer.de/cointracking/ws/blocktrainer-empfehlungslinks/logo-banner)
+
+**Privatsphäre-Einstellungen**
+
+Mit diesem Tool können Sie Ihre Zustimmung zur Erfassung und Verarbeitung personenbezogener Daten durch Technologien von Drittanbietern verwalten.
+
+     
+
+ 
+
+*  Notwendige Cookies
+*  Funktionell
+
+Ablehnen
+
+Speichern
+
+Alle auswählen
+
+[Details anzeigen Details ausblenden](#)
+
+**Notwendige Cookies**
+
+Diese Technologien sind erforderlich, um die wesentlichen Funktionen unseres Dienstes zu aktivieren.
+
+Stripe
+
+**Anbieter:** Stripe, Inc.
+
+**Zweck:** Bezahlung von Abonemments
+
+**Cookie Laufzeit:** 2 Jahre
+
+Shopify
+
+**Anbieter:** Shopify International Limited
+
+**Zweck:** Kommerzialisierung
+
+**Cookie Laufzeit:** 1 Jahr
+
+**Funktionell**
+
+Diese Technologien ermöglichen es uns, das Nutzungsverhalten zu analysieren, um die Leistungsfähigkeit unserer Website zu messen und zu verbessern.
+
+Youtube
+
+**Anbieter:** Alphabet Inc. / Google LLC / Google Ireland Limited
+
+**Zweck:** Anzeigen von Videos.
+
+**Cookie Laufzeit:** 8 Monate
+
+Twitter
+
+**Anbieter:** Twitter International Company
+
+**Zweck:** Bereitstellung von Social-Media-Inhalten
+
+**Cookie Laufzeit:** 2 Jahre
+
+[Impressum](https://www.blocktrainer.de/rechtliche-infos/impressum) | [Datenschutz](https://www.blocktrainer.de/datenschutz)

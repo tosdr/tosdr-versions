@@ -1,44 +1,75 @@
-[Contact Us](https://debutify.com/contact/) [Help Center](https://debutify.com/help-center/) [Log in](https://debutify.com/login/)
+![Shopify](https://debutify.com/assets/icons/featured-shopify.svg)
 
-[](https://debutify.com/)
+Start a free trial and enjoy 3 months of Shopify for $1/month on select plans.
 
-* [Apps](javascript:void(0))
-    
-    [Debutify Theme
-    
-    Built to boost sales and build your brand.
-    
-    Learn more](https://debutify.com/theme/)
-    
-    [Debutify Reviews
-    
-    A simple way to request, collect, and manage reviews.
-    
-    Learn more](https://debutify.com/reviews/)
-    
-* [Pricing](https://debutify.com/pricing/theme/)
-* [Case Studies](https://debutify.com/case-study/)
-* [Demo Store](https://debutifydemo.myshopify.com/)
-* [Affiliate](https://debutify.com/affiliate/)
-* [Influencers](https://debutify.com/influencers/)
+Sign up now
 
-* [Book a demo](https://debutify.com/demo/)
-* [Start free trial](https://debutify.com/signup/)
+[Contact Us](https://debutify.com/contact)
+
+[Register](https://platform.debutify.com/signup)
+
+[Log in![Log In](https://debutify.com/assets/icons/login-icon.svg)](https://platform.debutify.com/login)
+
+[![Logo](https://debutify.com/assets/images/debutify-light-logo.svg)](https://debutify.com/)
+
+Apps
+
+![Image 1](https://debutify.com/assets/icons/hover-left.svg)
+
+![Image 1](https://debutify.com/assets/icons/hover-right.svg)
+
+[Debutify Theme
+
+Build to boost sales and build your brand.
+
+Learn More](https://debutify.com/theme)
+
+[Debutify Reviews
+
+A simple way to request,collect and manage reviews.
+
+Learn More](https://debutify.com/reviews)
+
+[Pricing](https://debutify.com/pricing/theme)
+
+[Case Studies](https://debutify.com/case-study)
+
+[Demo Store](https://debutifydemo.myshopify.com/)
+
+[Affiliate](https://debutify.com/affiliate)
+
+Start free trial
+
+[![Logo](https://debutify.com/assets/images/debutify-light-logo.svg)](https://debutify.com/)![Image 1](https://debutify.com/assets/icons/hamburger-icon.svg)
+
+![hover left](https://debutify.com/assets/icons/hover-left.svg)
 
 * Apps
+    
+    [Debutify Theme](https://debutify.com/theme)
+    
+    [Debutify Reviews](https://debutify.com/reviews)
+    
 
-* [Debutify Theme](https://debutify.com/theme/)
-* [Debutify Reviews](https://debutify.com/reviews/)
+* * *
 
-* [Pricing](https://debutify.com/pricing/theme/)
-* [Case Studies](https://debutify.com/case-study/)
-* [Demo Store](https://debutifymerch.com/)
-* [Affiliate](https://debutify.com/affiliate/)
-* [Influencers](https://debutify.com/influencers/)
+* [Pricing](https://debutify.com/pricing/theme)
 
-* [Log in](https://debutify.com/login/)
-* [Book a demo](https://debutify.com/demo/)
-* [Try For Free](https://debutify.com/signup/)
+* * *
+
+* [Case Studies](https://debutify.com/case-study)
+
+* * *
+
+* [Demo Store](https://debutifydemo.myshopify.com/)
+
+* * *
+
+* [Affiliate](https://debutify.com/affiliate)
+
+[Log in](https://platform.debutify.com/login)
+
+Start free trial
 
 Privacy Policy
 ==============
@@ -82,12 +113,12 @@ With the advent of new communication tools, it is necessary to pay particular at
 
 Debutify undertakes to respect, in accordance with applicable laws, the obligations regarding the collection and processing of personal and confidential information obtained in the context of the operation of a company so that everyone can benefit from the respect of their private life.
 
-The hereby privacy policy (hereinafter the “Policy”) describes the information that Debutify may collect from the user, that is to say, the end-user or the organization you represent or you work for (hereinafter the “User” or “Users”), in connection with its activities, the purposes for which Debutify collects it, the use it makes of it, and the circumstances under which it can pass them on to third parties. In addition, this Policy indicates the User’s rights regarding the collection, use and communication of its personal information. Debutify agrees not to collect, use or disclose the User’s personal information otherwise than in accordance with this Policy and applicable laws in the United States.
+The hereby privacy policy (hereinafter the “Policy”) describes the information that Debutify may collect from the user, that is to say, the end-user or the organization you represent or you work for (hereinafter the “User” or “Users”), in connection with its activities, the purposes for which Debutify collects it, the use it makes of it, and the circumstances under which it can pass them on to third parties. In addition, this Policy indicates the User's rights regarding the collection, use and communication of its personal information. Debutify agrees not to collect, use or disclose the User's personal information otherwise than in accordance with this Policy and applicable laws in the United States.
 
 Scope of the policy
 -------------------
 
-When the User browses Debutify’s website (hereinafter the “Website”), he agrees to the terms and conditions of this Policy. If the User continues to use the Website after a new version of this Policy has been posted here, he consents to and will be bound by the changes.
+When the User browses Debutify's website (hereinafter the “Website”), he agrees to the terms and conditions of this Policy. If the User continues to use the Website after a new version of this Policy has been posted here, he consents to and will be bound by the changes.
 
 The information we collect is necessary when we provide the User with a service that he has requested. By providing us with this information, the User consents to its collection and use as defined in this Policy.
 
@@ -198,9 +229,9 @@ This information consists mainly of the following:
 * IP address; and
 * User's language.
 
-Most of the automatically exchanged data do not allow the identification of the User. They are collected only because of the technological requirements inherent in browsing the internet. Most browsers automatically accept cookies, but it is usually possible to modify this setting. However, if the User refuses cookies, he may not be able to identify himself or use certain features of Debutify’s Website.
+Most of the automatically exchanged data do not allow the identification of the User. They are collected only because of the technological requirements inherent in browsing the internet. Most browsers automatically accept cookies, but it is usually possible to modify this setting. However, if the User refuses cookies, he may not be able to identify himself or use certain features of Debutify's Website.
 
-The use of such information allows us to improve the service, personalize the User’s experience, and better track his requests and orders.
+The use of such information allows us to improve the service, personalize the User's experience, and better track his requests and orders.
 
 This information is also used to Stay in contact with the User and provide him with a personalized service at all time.
 
@@ -375,23 +406,23 @@ You may exercise your rights provided in this Policy, or you may address any oth
 
 E-mail: [\[email protected\]](https://debutify.com/cdn-cgi/l/email-protection)
 
-### Scale your brand effortlessly with Debutify
+Scale your brand effortlessly with Debutify
 
-[Start free trial](https://debutify.com/signup/)
+Start free trial
+
+[![Debutify](https://debutify.com/assets/images/debutify-dark-logo.svg)](https://debutify.com/)
 
 Copyright 2024 Debutify Corp. All rights reserved.
 
 * * *
 
-Subscribe to our newsletter
+### Subscribe to our newsletter
 
 Sign up now and get updates on the latest eCommerce trends, news, and tips.
 
-  
-
 Subscribe
 
-Customer Service
+Custometer Service
 
 [\[email protected\]](https://debutify.com/cdn-cgi/l/email-protection)
 
@@ -401,91 +432,65 @@ Sales
 
 * * *
 
-* Product
-* [Debutify Theme](https://debutify.com/theme/)
-* [Debutify Reviews](https://debutify.com/reviews/)
-* [Pricing](https://debutify.com/pricing/theme/)
-* [Demo](https://debutify.com/demo/)
+### Product
 
-* Company
-* [About us](https://debutify.com/about-us/)
-* [Meet the team](https://debutify.com/meet-the-team/)
-* [Careers](https://debutify.com/career/)
-* [Partners](https://debutify.com/partners/)
-* [Agencies](https://debutify.com/agencies/)
-* [Influencers](https://debutify.com/influencers/)
-* [Affiliate](https://debutify.com/affiliate/)
-* [Guest Post](https://debutify.com/guest-post/)
+* [Debutify Theme](https://debutify.com/theme)
+* [Debutify Reviews](https://debutify.com/reviews)
+* [Pricing](https://debutify.com/pricing/theme)
+* [Demo](https://debutify.com/demo)
 
-* Resources
-* [Blog](https://debutify.com/blog/)
-* [Podcast](https://debutify.com/podcast/)
-* [Videos](https://debutify.com/video/)
-* [Webinars](https://debutify.com/webinar/)
-* [Compare](https://debutify.com/comparison/)
-* [Case studies](https://debutify.com/case-study/)
-* [Testimonials](https://debutify.com/testimonials/)
-* [Newsletter](https://debutify.com/newsletter/)
-* [Press and news](https://debutify.com/press-and-news/)
+### Company
 
-* Support
-* [Contact us](https://debutify.com/contact/)
-* [FAQ](https://debutify.com/faq/)
-* [Help center](https://debutify.com/help-center/)
+* [About us](https://debutify.com/about-us)
+* [Meet the team](https://debutify.com/meet-the-team)
+* [Careers](https://debutify.com/career)
+* [Partners](https://debutify.com/partners)
+* [Agencies](https://debutify.com/agencies)
+* [Influencers](https://debutify.com/influencers)
+* [Affiliate](https://debutify.com/affiliate)
+* [Guest Post](https://debutify.com/guest-post)
+
+### Resources
+
+* [Blogs](https://debutify.com/blog)
+* [Podcast](https://debutify.com/podcast)
+* [Videos](https://debutify.com/video)
+* [Webinars](https://debutify.com/webinar)
+* [Compare](https://debutify.com/comparison)
+* [Case Studies](https://debutify.com/case-study)
+* [Testimonials](https://debutify.com/testimonials)
+* [Newsletter](https://debutify.com/newsletter)
+* [Press and news](https://debutify.com/press-and-news)
+
+### Support
+
+* [Contact us](https://debutify.com/contact)
+* [FAQS](https://debutify.com/faq)
+* [Help Center](https://debutify.com/help-center)
 * [Status](https://debutifycorp1.statuspage.io/)
-* [Roadmap](https://feedback.debutify.com/?__force)
-* [Feature requests](https://feedback.debutify.com/b/feature-requests/)
-* [Sitemap](https://debutify.com/sitemap/)
-* [Legal](https://debutify.com/legal/)
+* [Roadmap](https://feedback.debutify.com/)
+* [Feature Request](https://feedback.debutify.com/b/feature-requests)
+* [Sitemap](https://debutify.com/sitemap)
+* [Legal](https://debutify.com/legal)
 
 * * *
 
-![legal-1](https://website-assets.debutify.com/images/landing/legal-1.svg)
+![legal](https://debutify.com/assets/icons/legal-1.svg)
 
-![legal-1](https://website-assets.debutify.com/images/landing/legal-2.svg)
+![legal](https://debutify.com/assets/icons/legal-2.svg)
 
-![legal-1](https://website-assets.debutify.com/images/landing/legal-4.svg)
+![legal](https://debutify.com/assets/icons/legal-3.svg)
 
-![legal-1](https://website-assets.debutify.com/images/landing/legal-5.svg)
+![legal](https://debutify.com/assets/icons/legal-4.svg)
 
-![legal-1](https://website-assets.debutify.com/images/landing/legal-6.svg)
+![legal](https://debutify.com/assets/icons/legal-5.svg)
 
-![legal-1](https://website-assets.debutify.com/images/landing/legal-7.svg)
+![legal](https://debutify.com/assets/icons/legal-6.svg)
 
-![legal-1](https://website-assets.debutify.com/images/landing/legal-8.svg)
+![legal](https://debutify.com/assets/icons/legal-7.svg)
 
 * * *
 
-* [](https://www.facebook.com/debutifycorp)
-* [](https://www.linkedin.com/company/debutify)
-* [](https://www.youtube.com/channel/UCm4-k3TAP2OPGZo47o-qZ5w)
-* [](https://www.pinterest.com/debutify)
-* [](https://www.tiktok.com/@debutify)
-* [](https://www.instagram.com/debutify)
-* [](https://twitter.com/debutify)
-* [](https://discord.com/invite/DX3x9TTNW6)
+[![Social](https://debutify.com/assets/icons/facebook.svg)](https://www.facebook.com/debutifycorp)[![Social](https://debutify.com/assets/icons/linkdin.svg)](https://www.linkedin.com/company/debutify)[![Social](https://debutify.com/assets/icons/youtube.svg)](https://www.youtube.com/channel/UCm4-k3TAP2OPGZo47o-qZ5w)[![Social](https://debutify.com/assets/icons/pinterest.svg)](https://www.pinterest.com/debutify)[![Social](https://debutify.com/assets/icons/tiktok.svg)](https://www.tiktok.com/@debutify)[![Social](https://debutify.com/assets/icons/instagram.svg)](https://www.instagram.com/debutify)[![Social](https://debutify.com/assets/icons/twitter.svg)](https://twitter.com/debutify)[![Social](https://debutify.com/assets/icons/discord.svg)](https://discord.com/invite/DX3x9TTNW6)
 
-* [](https://www.facebook.com/debutifycorp)
-* [](https://www.linkedin.com/company/debutify)
-* [](https://www.youtube.com/channel/UCm4-k3TAP2OPGZo47o-qZ5w)
-* [](https://www.pinterest.com/debutify)
-* [](https://www.tiktok.com/@debutify)
-* [](https://www.instagram.com/debutify)
-* [](https://twitter.com/debutify)
-* [](https://discord.com/invite/DX3x9TTNW6)
-
-* [Refund Policy](https://debutify.com/refund-policy/)
-* [Terms of Use](https://debutify.com/terms-of-use/)
-* [Privacy Policy](https://debutify.com/privacy-policy/)
-* [Cookie Policy](https://debutify.com/cookie-policy/)
-
-* [Refund Policy](https://debutify.com/refund-policy/)
-* [Terms of Use](https://debutify.com/terms-of-use/)
-* [Privacy Policy](https://debutify.com/privacy-policy/)
-* [Cookie Policy](https://debutify.com/cookie-policy/)
-
-We use cookies to personalize our website for you and help collect analytics to create a better browsing experience.
-
-Accept
-
-Decline
+[Refund policy](https://debutify.com/refund-policy)[Terms of Use](https://debutify.com/terms-of-use)[Privacy Policy](https://debutify.com/privacy-policy)[Cookies Policy](https://debutify.com/cookie-policy)

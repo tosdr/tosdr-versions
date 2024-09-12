@@ -7,7 +7,7 @@
 Privacy Policy and Terms of Service
 ===================================
 
-Last updated on Jul 26, 2024
+Last updated on Sep 2, 2024
 
 Privacy Policy
 --------------
@@ -296,7 +296,7 @@ If you have any questions about our policies, please contact us by email at supp
 
 Headquartered in Santa Barbara, California. Made by a remote team from all over the world.
 
-Resources[About](https://clean.email/about)[Blog](https://clean.email/blog)[Affiliate Program](https://clean.email/affiliates)
+Resources[About](https://clean.email/about)[Blog](https://clean.email/blog)[Glossary](https://clean.email/glossary)[Affiliate Program](https://clean.email/affiliates)
 
 Platforms[iPhone and iPad](https://apps.apple.com/us/app/clean-email/id1219660920)[macOS](https://apps.apple.com/us/app/clean-email/id1441250616?mt=12)[Android](https://play.google.com/store/apps/details?id=email.clean.android)[Web](https://app.clean.email/?utm_source=Website&utm_medium=footer&utm_content=privacy-en)
 

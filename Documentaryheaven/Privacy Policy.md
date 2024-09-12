@@ -108,59 +108,59 @@ Advertisement
 
 ###### Highest Rated This Month
 
+* [![Canada’s woke nightmare: A warning to the West](/wp-content/thumbnails/16701-100x70.jpg?x53432)
+    
+    Canada’s woke nightmare: A warning to the West
+    
+    Canada, under the leadership of Justin Trudeau, has positioned itself as a global advocate for progressive policies. In my latest documentary featured in The Telegraph, I embarked on a journey to the...](https://documentaryheaven.com/canadas-woke-nightmare-a-warning-to-the-west/ "Canada’s woke nightmare: A warning to the West")
+* [![Objectified](/wp-content/thumbnails/2483-100x70.jpg?x53432)
+    
+    Objectified
+    
+    Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
+* [![The Beginning and the End of the Universe](/wp-content/thumbnails/16715-100x70.jpg?x53432)
+    
+    The Beginning and the End of the Universe
+    
+    Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
 * [![Extraordinary People: The Boy Who Lived Before](/wp-content/thumbnails/861-100x70.jpg?x53432)
     
     Extraordinary People: The Boy Who Lived Before
     
     Ever since he could talk, Cameron has been telling stories of his life on Barra, a remote island in the Outer Hebrides, some 220 miles from his current home in Glasgow. He describes in detail his chil...](https://documentaryheaven.com/extraordinary-people-the-boy-who-lived-before/ "Extraordinary People: The Boy Who Lived Before")
-* [![Hillsborough Disaster](/wp-content/thumbnails/10009-100x70.jpg?x53432)
+* [![Bosnian Pyramids](/wp-content/thumbnails/1835-100x70.gif?x53432)
     
-    Hillsborough Disaster
+    Bosnian Pyramids
     
-    This ESPN 30 for 30 special examines the tragic events that took place on the 15th of April 1989, the Hillsborough Stadium disaster which resulted in the deaths of 96 people and 766 others being injur...](https://documentaryheaven.com/hillsborough-disaster/ "Hillsborough Disaster")
-* [![The Wow Signal](/wp-content/thumbnails/16683-100x70.jpg?x53432)
-    
-    The Wow Signal
-    
-    Mankind has always been fascinated by the possibility of life beyond Earth, the idea of other civilizations thriving on distant planets captivates the imagination we are driven perhaps by the hope th...](https://documentaryheaven.com/the-wow-signal/ "The Wow Signal")
-* [![Homo Futurus](/wp-content/thumbnails/2808-100x70.jpeg?x53432)
-    
-    Homo Futurus
-    
-    An interesting documentary about the future of the human species.This is a documentary about a controversial theory regarding the mechanism that drove the evolution of humans from primates to mode...](https://documentaryheaven.com/homo-futurus/ "Homo Futurus")
-* [![The Dark Side of Porn: Diary of a Porn Virgin](/wp-content/thumbnails/872-100x70.jpg?x53432)
-    
-    The Dark Side of Porn: Diary of a Porn Virgin
-    
-    Pornography in Britain has entered the mainstream. As this documentary reveals, there is now no taboo when it comes to working in the porn industry in the UK.From a 38-year-old wife, mother and su...](https://documentaryheaven.com/the-dark-side-of-porn-diary-of-a-porn-virgin/ "The Dark Side of Porn: Diary of a Porn Virgin")
+    The Bosnian Pyramid of the Sun, with its’ height of 220 meters, it’s much higher than the Great Pyramid of Egypt, which was originally 147. The Bosnian Pyramid of the Moon, 190 meters, also higher tha...](https://documentaryheaven.com/bosnian-pyramids/ "Bosnian Pyramids")
 
 ###### Throwback Documentaries
 
-* [![IRAN (Is Not The Problem)](/wp-content/thumbnails/2873-100x70.png?x53432)
+* [![Hitler’s British Girl](/wp-content/thumbnails/5971-100x70.jpg?x53432)
     
-    IRAN (Is Not The Problem)
+    Hitler’s British Girl
     
-    IRAN (Is Not The Problem) is a feature length documentary film responding to the failure of the American mass media to provide the public with relevant and accurate information about the standoff betw](https://documentaryheaven.com/iran-is-not-the-problem/ "IRAN (Is Not The Problem)")
-* [![Project Camelot: Aerospace top secret craft](/wp-content/thumbnails/3273-100x70.jpg?x53432)
+    On September 3rd 1939, 25-year-old English aristocrat Unity Mitford walked into a Munich park and shot herself in the head. Distraught at the prospect of England declaring war on her beloved Fuhrer, B](https://documentaryheaven.com/hitlers-british-girl/ "Hitler’s British Girl")
+* [![A Good Job: Stories of the FDNY](/wp-content/thumbnails/9942-100x70.jpg?x53432)
     
-    Project Camelot: Aerospace top secret craft
+    A Good Job: Stories of the FDNY
     
-    An interview with Michael Schratt, an aerospace historian regarding top secret craft that he has investigated and documented. As a top notch researcher, he has met with and interviewed many NASA and d](https://documentaryheaven.com/project-camelot/ "Project Camelot: Aerospace top secret craft")
-* [![Conspiracy of Silence](/wp-content/thumbnails/4587-100x70.jpg?x53432)
+    In this amazing HBO special we see the critically acclaimed actor and FDNY veteran Steve Buscemi explore one of the worlds most demanding fire departments. Along side other such veterans, Buscemi expl](https://documentaryheaven.com/good-job-stories-of-fdny/ "A Good Job: Stories of the FDNY")
+* [![Enemy Image](/wp-content/thumbnails/2409-100x70.jpg?x53432)
     
-    Conspiracy of Silence
+    Enemy Image
     
-    (Banned Discovery Channel Documentary)"Conspiracy of Silence" is a powerful, disturbing documentary revealing a nationwide child abuse and pedophilia ring that leads to the highest levels of gov](https://documentaryheaven.com/conspiracy-of-silence/ "Conspiracy of Silence")
-* [![Oxyana](/wp-content/thumbnails/12709-100x70.jpg?x53432)
+    When Baghdad exploded under bombs, television chose to bring us fireworks. But does this distant and spectacular image tell us what is really happening on the ground, how it feels or what it means? Te](https://documentaryheaven.com/enemy-image/ "Enemy Image")
+* [![Unforgiven: The Boys Who Killed Jamie Bulger](/wp-content/thumbnails/13858-100x70.jpg?x53432)
     
-    Oxyana
+    Unforgiven: The Boys Who Killed Jamie Bulger
     
-    At first glance you could be forgiven for thinking that the town known as Oceana, located in West Virginia is perfect. It is one of the oldest town's in Wyoming County and is surrounded by pure b](https://documentaryheaven.com/oxyana/ "Oxyana")
-* [![The Money Lobby](/wp-content/thumbnails/7176-100x70.jpg?x53432)
+    This episode of Dispatches from Channel 4 examines the crime which shook Britain to its very core, the murder of 2 year old James Bulger in 1993. More specifically it sets sights on James' killers Rob](https://documentaryheaven.com/unforgiven-boys-who-killed-jamie-bulger/ "Unforgiven: The Boys Who Killed Jamie Bulger")
+* [![Sex, Lies and Cigarettes](/wp-content/thumbnails/7174-100x70.jpg?x53432)
     
-    The Money Lobby
+    Sex, Lies and Cigarettes
     
-    They say money is the root of all evil. Well, nowhere is this more true than in US politics. The 2012 US presidential and congressional elections were the most expensive in history, costing six billio](https://documentaryheaven.com/money-lobby/ "The Money Lobby")
+    In the spring of 2010 video of a smoking baby went viral and became an international sensation. When the laughter stopped the world moved on. But there’s much more in this story then one child’s cigar](https://documentaryheaven.com/sex-lies-and-cigarettes/ "Sex, Lies and Cigarettes")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 

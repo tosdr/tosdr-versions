@@ -1,6 +1,6 @@
-[![](https://assets-global.website-files.com/5df2eaeebe804b148283a1fe/5df2eaeebe804bc8dc83a240_coil-beta-logo.svg)](https://coil.com/)
+[![](https://cdn.prod.website-files.com/5df2eaeebe804b148283a1fe/5df2eaeebe804bc8dc83a240_coil-beta-logo.svg)](https://coil.com/)
 
-![](https://assets-global.website-files.com/5d82a7d64b5d285f2b44a260/5f10a02662b628bf8553bbe8_icn-back.svg)[Access content
+![](https://cdn.prod.website-files.com/5d82a7d64b5d285f2b44a260/5f10a02662b628bf8553bbe8_icn-back.svg)[Access content
 ==============
 
 Experience web monetized content in your browser and support sites you love.

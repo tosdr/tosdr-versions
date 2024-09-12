@@ -1,4 +1,4 @@
-[![Logo of Chromatic Marketing Consulting](https://assets-global.website-files.com/64f4c6db58f6038b2ac5a45e/64fb4a010bc9696e6a6e4985_chromatic%20logo.webp)](https://www.chromatic.ee/)
+[![Logo of Chromatic Marketing Consulting](https://cdn.prod.website-files.com/64f4c6db58f6038b2ac5a45e/64fb4a010bc9696e6a6e4985_chromatic%20logo.webp)](https://www.chromatic.ee/)
 
 What we do
 
@@ -112,7 +112,7 @@ Kotkapoja tn 2a-10, 10615 Tallinn, Estonia
 Reg. No. 16048954  
 VAT No. EE102295645
 
-![](https://assets-global.website-files.com/64f4c6db58f6038b2ac5a45e/6579cc42fe5fbfd67c6e15e5_chromatic%20text%20logo.webp)
+![](https://cdn.prod.website-files.com/64f4c6db58f6038b2ac5a45e/6579cc42fe5fbfd67c6e15e5_chromatic%20text%20logo.webp)
 
 Audits
 ------

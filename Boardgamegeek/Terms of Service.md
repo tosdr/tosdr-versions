@@ -59,49 +59,50 @@ Table of Contents
 * [i. Don't slam our servers with "robots" or "spiders".](https://boardgamegeek.com/terms#toc22)
 * [ii. Don't systematically collect user data](https://boardgamegeek.com/terms#toc23)
 * [iii. Don't use our sites for commercial purposes](https://boardgamegeek.com/terms#toc24)
+* [iv. Don't use our sites to train an AI or LLM](https://boardgamegeek.com/terms#toc25)
 
-* [C. Don't make unauthorized changes to the Geek Websites](https://boardgamegeek.com/terms#toc25)
-* [D. Really, don't use the sites for unauthorized commercial purposes:](https://boardgamegeek.com/terms#toc26)
-* [E. Don't make unauthorized copies of anything on the site](https://boardgamegeek.com/terms#toc27)
-* [F. Don't do anything else shady with or on our sites:](https://boardgamegeek.com/terms#toc28)
-* [G. You must abide by proper privacy practices.](https://boardgamegeek.com/terms#toc29)
-* [H. You must abide by laws that control what sales can take place with persons outside of the U.S.](https://boardgamegeek.com/terms#toc30)
+* [C. Don't make unauthorized changes to the Geek Websites](https://boardgamegeek.com/terms#toc26)
+* [D. Really, don't use the sites for unauthorized commercial purposes:](https://boardgamegeek.com/terms#toc27)
+* [E. Don't make unauthorized copies of anything on the site](https://boardgamegeek.com/terms#toc28)
+* [F. Don't do anything else shady with or on our sites:](https://boardgamegeek.com/terms#toc29)
+* [G. You must abide by proper privacy practices.](https://boardgamegeek.com/terms#toc30)
+* [H. You must abide by laws that control what sales can take place with persons outside of the U.S.](https://boardgamegeek.com/terms#toc31)
 
-* [7\. Prohibition Against Rogue Programming](https://boardgamegeek.com/terms#toc31)
-* [8\. You and BoardGameGeek are independent contractors. BoardGameGeek is not responsible for any issues you may have with merchants, traders, or any other users.](https://boardgamegeek.com/terms#toc32)
-* [9\. Account Termination Policy](https://boardgamegeek.com/terms#toc33)
-* [10\. BoardGameGeek is based in the USA and may not be usable in your country](https://boardgamegeek.com/terms#toc34)
-* [11\. Digital Millennium Copyright Act](https://boardgamegeek.com/terms#toc35)
+* [7\. Prohibition Against Rogue Programming](https://boardgamegeek.com/terms#toc32)
+* [8\. You and BoardGameGeek are independent contractors. BoardGameGeek is not responsible for any issues you may have with merchants, traders, or any other users.](https://boardgamegeek.com/terms#toc33)
+* [9\. Account Termination Policy](https://boardgamegeek.com/terms#toc34)
+* [10\. BoardGameGeek is based in the USA and may not be usable in your country](https://boardgamegeek.com/terms#toc35)
+* [11\. Digital Millennium Copyright Act](https://boardgamegeek.com/terms#toc36)
 
-* [A. Think there is infringing content on BoardGameGeek?](https://boardgamegeek.com/terms#toc36)
-* [B.Was your content improperly removed because of a DMCA report?](https://boardgamegeek.com/terms#toc37)
+* [A. Think there is infringing content on BoardGameGeek?](https://boardgamegeek.com/terms#toc37)
+* [B.Was your content improperly removed because of a DMCA report?](https://boardgamegeek.com/terms#toc38)
 
-* [12\. WE DISCLAIM ANY WARRANTIES. YOUR USE OF OUR WEBSITES AND OUR CONTENT IS AT YOUR OWN RISK.](https://boardgamegeek.com/terms#toc38)
-* [13\. OUR LIABILITY TO YOU IS LIMITED. THAT MEANS THAT IF YOU SUFFER LOSSES, WE DO NOT HAVE TO FULLY COMPENSATE YOU FOR THEM.](https://boardgamegeek.com/terms#toc39)
-* [14\. Indemnification](https://boardgamegeek.com/terms#toc40)
-* [15\. YOU AGREE THAT ALL CLAIMS BETWEEN YOU AND BOARDGAMEGEEK WILL BE RESOLVED THROUGH MANDATORY ARBITRATION IN DALLAS, TEXAS, AND NOT BY A COURT OR BY A JURY.](https://boardgamegeek.com/terms#toc41)
+* [12\. WE DISCLAIM ANY WARRANTIES. YOUR USE OF OUR WEBSITES AND OUR CONTENT IS AT YOUR OWN RISK.](https://boardgamegeek.com/terms#toc39)
+* [13\. OUR LIABILITY TO YOU IS LIMITED. THAT MEANS THAT IF YOU SUFFER LOSSES, WE DO NOT HAVE TO FULLY COMPENSATE YOU FOR THEM.](https://boardgamegeek.com/terms#toc40)
+* [14\. Indemnification](https://boardgamegeek.com/terms#toc41)
+* [15\. YOU AGREE THAT ALL CLAIMS BETWEEN YOU AND BOARDGAMEGEEK WILL BE RESOLVED THROUGH MANDATORY ARBITRATION IN DALLAS, TEXAS, AND NOT BY A COURT OR BY A JURY.](https://boardgamegeek.com/terms#toc42)
 
-* [A. You will resolve claims with an arbitrator](https://boardgamegeek.com/terms#toc42)
-* [B. You are waiving your right to a jury trial.](https://boardgamegeek.com/terms#toc43)
-* [C. You will arbitrate under certain laws and rules.](https://boardgamegeek.com/terms#toc44)
-* [D. The fees and costs can be split in different ways.](https://boardgamegeek.com/terms#toc45)
-* [E. Either of us can try to bring a temporary injunction against the other.](https://boardgamegeek.com/terms#toc46)
-* [F. You are waiving your right to bring a claim against us as part of a class-action lawsuit.](https://boardgamegeek.com/terms#toc47)
-* [G. You elect to use certain appellate rules.](https://boardgamegeek.com/terms#toc48)
+* [A. You will resolve claims with an arbitrator](https://boardgamegeek.com/terms#toc43)
+* [B. You are waiving your right to a jury trial.](https://boardgamegeek.com/terms#toc44)
+* [C. You will arbitrate under certain laws and rules.](https://boardgamegeek.com/terms#toc45)
+* [D. The fees and costs can be split in different ways.](https://boardgamegeek.com/terms#toc46)
+* [E. Either of us can try to bring a temporary injunction against the other.](https://boardgamegeek.com/terms#toc47)
+* [F. You are waiving your right to bring a claim against us as part of a class-action lawsuit.](https://boardgamegeek.com/terms#toc48)
+* [G. You elect to use certain appellate rules.](https://boardgamegeek.com/terms#toc49)
 
-* [16\. You can’t assign your rights under these Terms of Service, but we can.](https://boardgamegeek.com/terms#toc49)
-* [17\. These Terms of Service are governed by Texas law and any claims will be dealt with in Texas.](https://boardgamegeek.com/terms#toc50)
-* [18\. Everything that you and BoardGameGeek have agreed on is contained in our Terms of Service and Privacy Policy.](https://boardgamegeek.com/terms#toc51)
-* [19\. Waiver](https://boardgamegeek.com/terms#toc52)
-* [20\. If a court finds part of the Terms of Service invalid, it won’t invalidate the whole of the Terms of Service.](https://boardgamegeek.com/terms#toc53)
-* [21\. General](https://boardgamegeek.com/terms#toc54)
+* [16\. You can’t assign your rights under these Terms of Service, but we can.](https://boardgamegeek.com/terms#toc50)
+* [17\. These Terms of Service are governed by Texas law and any claims will be dealt with in Texas.](https://boardgamegeek.com/terms#toc51)
+* [18\. Everything that you and BoardGameGeek have agreed on is contained in our Terms of Service and Privacy Policy.](https://boardgamegeek.com/terms#toc52)
+* [19\. Waiver](https://boardgamegeek.com/terms#toc53)
+* [20\. If a court finds part of the Terms of Service invalid, it won’t invalidate the whole of the Terms of Service.](https://boardgamegeek.com/terms#toc54)
+* [21\. General](https://boardgamegeek.com/terms#toc55)
 
-* [A. This caption, and all others, are not part of the Terms of Service](https://boardgamegeek.com/terms#toc55)
-* [B. We don't have to keep the site up](https://boardgamegeek.com/terms#toc56)
-* [C. Respect our Trademarks](https://boardgamegeek.com/terms#toc57)
-* [D. All other rights reserved](https://boardgamegeek.com/terms#toc58)
-* [E. Except for certain persons, nothing here applies to third parties](https://boardgamegeek.com/terms#toc59)
-* [F. Certain parts of the Terms of Service will apply after termination.](https://boardgamegeek.com/terms#toc60)
+* [A. This caption, and all others, are not part of the Terms of Service](https://boardgamegeek.com/terms#toc56)
+* [B. We don't have to keep the site up](https://boardgamegeek.com/terms#toc57)
+* [C. Respect our Trademarks](https://boardgamegeek.com/terms#toc58)
+* [D. All other rights reserved](https://boardgamegeek.com/terms#toc59)
+* [E. Except for certain persons, nothing here applies to third parties](https://boardgamegeek.com/terms#toc60)
+* [F. Certain parts of the Terms of Service will apply after termination.](https://boardgamegeek.com/terms#toc61)
 
   
 
@@ -208,6 +209,10 @@ You agree not to collect or harvest any personally identifiable information, inc
 #### iii. Don't use our sites for commercial purposes
 
 You agree not to use the communication systems provided by the Geek Websites for any commercial solicitation purposes.
+
+#### iv. Don't use our sites to train an AI or LLM
+
+You agree not to use the Geek Websites to train an AI (Artificial Intelligence) or Large Language Model (LLM) system.
 
 ### C. Don't make unauthorized changes to the Geek Websites
 

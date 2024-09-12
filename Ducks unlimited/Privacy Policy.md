@@ -28,7 +28,7 @@
     * [GIS Get insights into GIS in habitat conservation](https://www.ducks.org/conservation/conserving-wetlands-waterfowl#gis)
     * [Find DU Projects Near You
         
-        Explore conservation efforts in your area!](https://www.ducks.org/conservation/where-ducks-unlimited-works.html#find-projects "Find DU Projects Near You")
+        Explore conservation efforts in your area!](https://www.ducks.org/conservation/where-ducks-unlimited-works#find-projects "Find DU Projects Near You")
     
     * [Alaska Discover Alaska's role in waterfowl conservation](https://www.ducks.org/conservation/du-conservation-initiatives/the-alaska-initiative-born-to-fly)
     * [Boreal Forest Explore efforts in the vast North American Boreal Forest](https://www.ducks.org/conservation/du-conservation-initiatives/boreal-forest-initiative)
@@ -77,11 +77,11 @@
     * [Events Near Me Find local DU events near you](https://www.ducks.org/events#events)
     * [DU Roadshows Find a Roadshow near you](https://www.ducks.org/duroadshows)
     * [Volunteer Join DU's mission and make a difference](https://www.ducks.org/get-involved/volunteer/become-a-du-volunteer)
-    * [![Image for Join today ](/files/live/sites/ducksorg/files/products/250x152_CoolerBag-DPI_July2024.jpg)
+    * [![Image for Join today ](/files/live/sites/ducksorg/files/products/250x192_ExpeditionShirt_Aug24.jpg)
         
-        DU Flip-Top Cooler
+        DU Expedition Shirt
         
-        Join today](https://donate.ducks.org/donateonlinesecure.aspx?promokey=fliptopcoolerbag&ID=14260&responsecode=CQH0JULY&or=1)
+        Join today](https://donate.ducks.org/donateonlinesecure.aspx?promokey=expeditionshirtjoin&ID=14301&responsecode=CQH0AAAA&or=1)
     
 * [Media](https://www.ducks.org/media)
     
@@ -91,11 +91,11 @@
     * [Photo Gallery Experience wildlife in action through DU's photo gallery](https://www.ducks.org/media/photo-gallery)
     * [E-Newsletter Get the latest news and updates from DU delivered straight to you](https://www.ducks.org/newsletter)
     * [Mobile App Access exclusive features, tips, & more by downloading DU's app](https://www.ducks.org/media/mobile-app)
-    * [![Image for Join today ](/files/live/sites/ducksorg/files/products/250x152_CoolerBag-DPI_July2024.jpg)
+    * [![Image for Join today ](/files/live/sites/ducksorg/files/products/250x192_ExpeditionShirt_Aug24.jpg)
         
-        DU Flip-Top Cooler
+        DU Expedition Shirt
         
-        Join today](https://donate.ducks.org/donateonlinesecure.aspx?promokey=fliptopcoolerbag&ID=14260&responsecode=CQH0JULY&or=1)
+        Join today](https://donate.ducks.org/donateonlinesecure.aspx?promokey=expeditionshirtjoin&ID=14301&responsecode=CQH0AAAA&or=1)
     
 * [About](https://www.ducks.org/about-ducks-unlimited)
     
@@ -143,7 +143,7 @@
 * [Hunting](https://www.ducks.org/hunting "Hunting")
 * [Events](https://www.ducks.org/events "Events")
 * [Media](https://www.ducks.org/media "Media")
-* [About](https://www.ducks.org/about.html "About")
+* [About](https://www.ducks.org/about-ducks-unlimited "About")
 * [Merchandise](https://www.ducks.org/merchandise "Merchandise")
 * [Get Involved](https://www.ducks.org/get-involved "Get Involved")
 * [MyDU](https://www.ducks.org/my-du "MyDU")
@@ -168,7 +168,7 @@ Change [View State Page](https://www.ducks.org/)
     * [GIS Get insights into GIS in habitat conservation](https://www.ducks.org/conservation/conserving-wetlands-waterfowl#gis)
     * [Find DU Projects Near You
         
-        Explore conservation efforts in your area!](https://www.ducks.org/conservation/where-ducks-unlimited-works.html#find-projects "Find DU Projects Near You")
+        Explore conservation efforts in your area!](https://www.ducks.org/conservation/where-ducks-unlimited-works#find-projects "Find DU Projects Near You")
     
 * Our Initiatives
     
@@ -222,11 +222,11 @@ Change [View State Page](https://www.ducks.org/)
 * [Events Near Me Find local DU events near you](https://www.ducks.org/events#events)
 * [DU Roadshows Find a Roadshow near you](https://www.ducks.org/duroadshows)
 * [Volunteer Join DU's mission and make a difference](https://www.ducks.org/get-involved/volunteer/become-a-du-volunteer)
-* [![Image for Join today ](/files/live/sites/ducksorg/files/products/250x152_CoolerBag-DPI_July2024.jpg)
+* [![Image for Join today ](/files/live/sites/ducksorg/files/products/250x192_ExpeditionShirt_Aug24.jpg)
     
-    DU Flip-Top Cooler
+    DU Expedition Shirt
     
-    Join today](https://donate.ducks.org/donateonlinesecure.aspx?promokey=fliptopcoolerbag&ID=14260&responsecode=CQH0JULY&or=1)
+    Join today](https://donate.ducks.org/donateonlinesecure.aspx?promokey=expeditionshirtjoin&ID=14301&responsecode=CQH0AAAA&or=1)
 
 [Media](https://www.ducks.org/media)
 
@@ -236,13 +236,13 @@ Change [View State Page](https://www.ducks.org/)
 * [Photo Gallery Experience wildlife in action through DU's photo gallery](https://www.ducks.org/media/photo-gallery)
 * [E-Newsletter Get the latest news and updates from DU delivered straight to you](https://www.ducks.org/newsletter)
 * [Mobile App Access exclusive features, tips, & more by downloading DU's app](https://www.ducks.org/media/mobile-app)
-* [![Image for Join today ](/files/live/sites/ducksorg/files/products/250x152_CoolerBag-DPI_July2024.jpg)
+* [![Image for Join today ](/files/live/sites/ducksorg/files/products/250x192_ExpeditionShirt_Aug24.jpg)
     
-    DU Flip-Top Cooler
+    DU Expedition Shirt
     
-    Join today](https://donate.ducks.org/donateonlinesecure.aspx?promokey=fliptopcoolerbag&ID=14260&responsecode=CQH0JULY&or=1)
+    Join today](https://donate.ducks.org/donateonlinesecure.aspx?promokey=expeditionshirtjoin&ID=14301&responsecode=CQH0AAAA&or=1)
 
-[About](https://www.ducks.org/about.html)
+[About](https://www.ducks.org/about-ducks-unlimited)
 
 * [Our Mission](https://www.ducks.org/about-ducks-unlimited#mission)
 * [Our Vision](https://www.ducks.org/about-ducks-unlimited#vision)
@@ -464,7 +464,7 @@ The Web Site is maintained by Ducks Unlimited, Inc., One Waterfowl Way, Memphis,
 
 * [Events](https://www.ducks.org/events "Events")
 * [Local Events](https://www.ducks.org/events "Local Events")
-* [National Convention](https://www.ducks.org/events/du-national-convention.html "National Convention")
+* [National Convention](https://www.ducks.org/events/du-national-convention "National Convention")
 * [DU Expo](https://www.duckexpo.com/ "DU Expo")
 * [Online Auctions](https://www.ducks.org/events/du-state-and-regional-online-auctions "Online Auctions")
 * [National Online Auction](https://www.ducks.org/events/national-online-auction "National Online Auction")
@@ -490,7 +490,9 @@ The Web Site is maintained by Ducks Unlimited, Inc., One Waterfowl Way, Memphis,
 
 [Site Map](https://www.ducks.org/html-sitemap.html "Site Map")
 
-Select Location X
+Select Location
+
+X
 
 State Abbreviation or Zip
 
@@ -499,6 +501,8 @@ State Abbreviation or Zip
 Use Current Location
 
 X
+
+No Yes
 
 X
 

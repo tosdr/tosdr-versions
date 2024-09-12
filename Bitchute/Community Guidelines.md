@@ -22,14 +22,35 @@ Description (details)
 
 ### Table of Contents
 
+* [Respect & Decency](#respect-decency-0)
+* [Personal Responsibility](#personal-responsibility-1)
+* [Compliance with Law](#compliance-with-law-2)
+* [Content Sensitivity](#content-sensitivity-3)
+* [Normal](#normal-4)
+* [Not Safe For Work (NSFW)](#not-safe-for-work-nsfw-5)
+* [Not Safe For Life (NSFL)](#not-safe-for-life-nsfl-6)
+* [Prohibited Content](#prohibited-content-7)
+* [Abhorrent Violence](#abhorrent-violence-8)
+* [Animal Cruelty](#animal-cruelty-9)
+* [Child Abuse or Endangerment](#child-abuse-or-endangerment-10)
+* [Harassment, Doxxing](#harassment-doxxing-11)
+* [Harmful Activities](#harmful-activities-12)
+* [Incitement to Hatred (UK, EU, EEA & territories)](#incitement-to-hatred-uk-eu-eea-territories-13)
+* [Sexually Explicit](#sexually-explicit-14)
+* [Terrorism & Violent Extremism](#terrorism-violent-extremism-15)
+* [Threats or Incitement to Violence](#threats-or-incitement-to-violence-16)
+* [Exemptions](#exemptions-17)
+* [Platform Misuse](#platform-misuse-18)
+* [Disclaimer](#disclaimer-19)
+
 [Support Home](https://support.bitchute.com/) [Policies](https://support.bitchute.com/policy)
 
 Community Guidelines
 ====================
 
-Welcome to BitChute, a peer-to-peer content sharing platform and associated services. BitChute aims to put creators first and provide them with a service that they can use to flourish and express their ideas freely. In addition, we aim to provide a forum for civil, productive discourse regarding the conditions, issues, events, and creative works which comprise and affect human flourishing generally.
+Welcome to BitChute, a content sharing platform and associated services offered by Deep State Protocol, LLC ("DSP") . BitChute aims to put creators first and provide them with a service that they can use to flourish and express their ideas freely. We aim to provide a forum for civil, productive discourse regarding the conditions, issues, events, and creative works which comprise and affect human flourishing generally.
 
-These Community Guidelines describe the behaviour that is expected from you and the rest of the BitChute community. By continuing to use the site, you are agreeing with and accepting these Community Guidelines in their entirety. They should be read and understood in conjunction with [**Our Commitment**](https://support.bitchute.com/policy/our-commitment) to the BitChute community.
+These Community Guidelines describe the behavior that is expected from you and the rest of the BitChute community. By continuing to use the site, you are agreeing with and accepting these Community Guidelines in their entirety. They should be read and understood in conjunction with [**Our Commitment**](https://support.bitchute.com/policy/our-commitment) to the BitChute community.
 
 Respect & Decency
 -----------------
@@ -94,15 +115,15 @@ Not Safe For Life (NSFL) is equivalent to the [**British Board of Film Classific
 Prohibited Content
 ------------------
 
-Any individuals, organisations or other entities that are engaged in the activities described below are not permitted to have a presence on the platform.
+Any individuals, organizations or other entities that are engaged in the activities described below are not permitted to have a presence on the platform.
 
-In addition, any material that is produced by, or which endorses, empowers, or otherwise promotes individuals, organisations, or any other entity engaging in the following activities is not permitted.
+In addition, any material that is produced by, or which endorses, empowers, or otherwise promotes individuals, organizations, or any other entity engaging in the following activities is not permitted.
 
-Finally, posting, celebrating, endorsing, glorifying, denying the existence of, linking to or otherwise promoting content containing the following activities is strictly prohibited on the platform. Repeated offences will lead to account suspension or termination.
+Finally, posting, celebrating, endorsing, glorifying, linking to or otherwise promoting content containing the following activities is strictly prohibited on the platform. Repeated offences will lead to account suspension or termination.
 
 If you discover any such material on BitChute, then we expect you to report it to us immediately using the [**Flagging & Reporting**](https://support.bitchute.com/policy/guidelines-enforcement) tools provided.
 
-We acknowledge that showing and/or referencing instances of the following activities may be necessary to hold the perpetrators to account. If this your objective then you must clearly state this within the content, you must be respectful to victims, and you must do whatever you can to ensure that your content cannot be exploited to endorse, empower or otherwise promote individuals, organisations, or any other entity engaging in such activities.
+We acknowledge that showing and/or referencing instances of the following activities may be necessary to hold the perpetrators to account. If this your objective then you must clearly state this within the content, you must be respectful to victims, and you must do whatever you can to ensure that your content cannot be exploited to endorse, empower or otherwise promote individuals, organizations, or any other entity engaging in such activities.
 
 ### Abhorrent Violence
 
@@ -110,13 +131,13 @@ Content depicting real-life non-consensual acts of kidnapping, attempted murder,
 
 ### Animal Cruelty
 
-Content depicting acts defined in the Prevention of Harm section of the [**UK Animal Welfare Act 2006**](https://www.legislation.gov.uk/ukpga/2006/45/crossheading/prevention-of-harm).
+Content depicting acts defined, for example,  in the Prevention of Harm section of the [**UK Animal Welfare Act 2006**](https://www.legislation.gov.uk/ukpga/2006/45/crossheading/prevention-of-harm).
 
 ### Child Abuse or Endangerment
 
-Content depicting or promoting abuse, sexualisation, endangerment, or exploitation of children, or any offence defined within the [**UK Children and Young Persons Act 1933**](https://www.legislation.gov.uk/ukpga/Geo5/23-24/12/contents).
+Content depicting or promoting abuse, sexualisation, endangerment, or exploitation of children, or any offence defined, for example, within the [**UK Children and Young Persons Act 1933**](https://www.legislation.gov.uk/ukpga/Geo5/23-24/12/contents).
 
-### Harassment
+### Harassment, Doxxing
 
 Content depicting or materially contributing to harassment that is deemed unlawful within the domiciles of either the content originator or the target/recipient. This includes disclosure of sensitive personal information without permission of the individual, including but not limited to addresses, social security numbers, passport numbers, phone numbers, or bank account numbers.
 
@@ -138,7 +159,7 @@ Content depicting real or simulated sexual acts, including sexual intercourse or
 
 Content in the furtherance of any act of violence or intimidation carried out with the intention of achieving a religious, political, or any other ideological objective.
 
-Entities that have been designated under counterterrorism legislation will be blocked within the jurisdiction of the relevant nation state or international organisation. In addition, those designated by the United Kingdom of Great Britain, Australia, Canada, New Zealand, the United States of America, the United Nations, the European Union or any member state of the European Union are prohibited on the platform.
+Entities that have been designated under counterterrorism legislation will be blocked within the jurisdiction of the relevant nation state or international organization. In addition, those designated by the United Kingdom of Great Britain, Australia, Canada, New Zealand, the United States of America, the United Nations, the European Union or any member state of the European Union are prohibited on the platform.
 
 BitChute maintains and publishes a [**Prohibited Entities List**](https://support.bitchute.com/policy/prohibited-entities-list) of entities that have been independently identified and are explicitly prohibited on the platform under this guideline. As this list will evolve over time, we suggest that all users check it regularly.
 
@@ -153,13 +174,13 @@ For material that, on its face, seems to fall under the above categories, we con
 1. Press Freedom
 2. Political Discourse
 3. Holding Power to Account
-4. Satire, Parody, Humour or Comedy
+4. Satire, Parody, Humor or Comedy
 5. Works of Fiction
 6. Religious
 7. Historical
 8. Educational
 
-For example, if a user were to complain about a BitChute official in the form of suggesting that our CEO launch said official into space, that would fall under the Satire, Parody, Humour or Comedy exemption.
+For example, if a user were to complain about a BitChute or DSP official in the form of suggesting that our CEO launch said official into space, that would fall under the Satire, Parody, Humor or Comedy exemption.
 
 If the material does not qualify for an exemption (doxxing and child sexual abuse materials are notable examples), then we will take appropriate enforcement action.
 
@@ -183,11 +204,11 @@ Misuse of the platform and/or the functionality provided is not permitted and sh
 Disclaimer
 ----------
 
-Any action taken by BitChute or its staff whilst enforcing these Community Guidelines is at our sole discretion and is not a legal opinion. Any reference to external definitions, legislation, or other material is for reference purposes only. We reserve the right to remove content for reasons not currently defined within these Community Guidelines.
+Any action taken by DSP or its staff while enforcing these Community Guidelines is at our sole discretion and is not a legal opinion. Any reference to external definitions, legislation, or other material is for reference purposes only. We reserve the right to remove content for reasons not currently defined within these Community Guidelines.
 
 #### Was this article helpful?
 
-[12420](#) [5858](#)
+[12452](#) [5875](#)
 
 #### Related Questions:
 
@@ -197,11 +218,11 @@ Any action taken by BitChute or its staff whilst enforcing these Community Guide
     
 * [Cookie Policy](https://support.bitchute.com/policy/cookie)
     
-    This Cookie Policy outlines the manner in which BitChute uses...…
+    This Cookie Policy outlines the manner in which BitChute, a...…
     
 * [Privacy Policy](https://support.bitchute.com/policy/privacy)
     
-    Latest Update: July 11, 2024 This Privacy Policy governs the...…
+    Latest Update: August 17, 2024 This Privacy Policy governs the...…
     
 
 Can’t find what you’re looking for?
@@ -211,7 +232,7 @@ Our customer support team is here for you.
 
 [Contact Support](https://support.bitchute.com/contact-us?contact_query=Please%20enter%20your%20question)
 
-BitChute is a peer-to-peer content sharing platform. Creators are allowed to post content they produce to the platform, so long as they comply with our [policies](https://support.bitchute.com/policy). The content posted to the platform is not reflective or representative of the views of Bit Chute Limited, its staff or owners. © 2017-2023 Bit Chute Limited, Box 813, Andover House, George Yard, Andover, Hampshire, SP10 1PB. United Kingdom. Company number 10637289.
+BitChute is a peer-to-peer content sharing platform. Creators are allowed to post content they produce to the platform, so long as they comply with our [policies](https://support.bitchute.com/policy). The content posted to the platform is not reflective or representative of the views of BitChute, its staff or owners. BitChute and all associated trademarks are owned and operated by Deep State Protocol LLC. © 2017-2024 DSP LLC.
 
   
 

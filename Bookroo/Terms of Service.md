@@ -16,23 +16,19 @@ Books
 
 View bestsellers, featured, top rated, classics, hidden gems, and new releases.](https://bookroo.com/explore/books)[Find a Book
 
-Explore books by genre, topic, reading level, or series to find your next read.](https://bookroo.com/explore)[Track & Motivate Reading
+Explore books by genre, topic, reading level, or series to find your next read.](https://bookroo.com/explore)[Preview Library
 
-Record what books your kids are reading. Earn weekly rewards. Get personalized recommendations.](https://bookroo.com/parents)[Preview Library
-
-Read the first few pages of a book using our digital preview library.](https://bookroo.com/classrooms/preview-library)
+Need your next book? Read the first few pages of a book using our preview library.](https://bookroo.com/classrooms/preview-library)
 
 Schools
 
 [Classroom Reading Tools
 
-Tools to track, assess, and motivate classroom reading.](https://bookroo.com/classrooms)[Book Quizzes for Students
+Reading challenges, digital rewards, and other tools to motivate readers.](https://bookroo.com/classrooms)[Book Quizzes for Students
 
 Validate reading with our book quizzes and custom assessments.](https://bookroo.com/classrooms/book-quizzes)[Host a Book Fair
 
-Books for your students and funds for your classroom.](https://bookroo.com/classrooms/book-fairs)[Preview Library
-
-Read the first few pages of a book using our digital preview library.](https://bookroo.com/classrooms/preview-library)
+Books for your students and funds for your classroom.](https://bookroo.com/classrooms/book-fairs)
 
 [](https://bookroo.com/cart)
 

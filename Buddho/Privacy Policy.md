@@ -32,10 +32,6 @@ Email Address
 
 Warning: This form can only be used if JavaScript is enabled in your browser.
 
-Subscribe
-
- Leave this field empty if you're not a robot: 
-
 Read our [privacy policy](https://buddho.org/privacy-policy/)
 
 Don't worry, we won't spam you

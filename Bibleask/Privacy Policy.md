@@ -5,10 +5,12 @@
 Menu
 
 * [Home](https://bibleask.org/)
-* [Ask](https://bibleask.org/live/)
-* [Topics](https://bibleask.org/topics/)
+* [Ask](https://bibleask.org/ask/)
+    * [Ask on LIVE](https://bibleask.org/live/)
+    * [Ask by Email](https://bibleask.org/ask/)
+    * [Ask Alpha (AI)](https://bibleask.org/alpha/)
 * [Bible](https://bible.bibleask.org/)
-* [Apps](https://bibleask.org/apps/)
+* [Pray for the Nation](https://bibleask.org/pray/)
 * [Donate](https://donate.bibleask.org/)
     * [By Project](https://donate.bibleask.org/projects/)
     * [Shop](https://donate.bibleask.org/shop/)
@@ -27,11 +29,11 @@ Privacy
 
 * * *
 
-**BibleAsk Privacy Policy**
+**[BibleAsk](https://bibleask.org/ "BibleAsk") Privacy Policy**
 
 Effective date: July 01, 2018
 
-BibleAsk (“us”, “we”, or “our”) operates the https://bibleask.org website (the “Service”).
+[BibleAsk](https://bibleask.org/ "BibleAsk") (“us”, “we”, or “our”) operates the https://[bibleask](https://bibleask.org/ "bibleask").org website (the “Service”).
 
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
@@ -95,7 +97,7 @@ BibleAsk will take all steps reasonably necessary to ensure that your data is tr
 
 **Legal Requirements**
 
-BibleAsk may disclose your Personal Data in the good faith belief that such action is necessary to:
+BibleAsk may disclose your Personal Data in the good [faith](https://bibleask.org/how-does-faith-work/ "faith") belief that such action is necessary to:
 
 * To comply with a legal obligation
 * To protect and defend the rights or property of BibleAsk
@@ -160,6 +162,14 @@ Real Questions.
 Real Answers.  
 **Bible Based.**
 
+* [Facebook](https://facebook.com/bibleask/)
+* [X](https://x.com/bibleask/)
+* [Instagram](https://instagram.com/bibleask/)
+* [YouTube](https://facebook.com/bibleask/)
+* [Spotify](https://open.spotify.com/show/2IGMYLqSZymYybaMTYLJpo)
+* [Pinterest](https://pinterest.com/bibleask/)
+* [Reddit](https://www.reddit.com/r/BibleAsk/)
+
 Quick Links
 
 [About Us](https://bibleask.org/about/)
@@ -190,11 +200,4 @@ Subscribe (Weekly Updates)
 
 Email Address \*
 
-* [Facebook](https://facebook.com/bibleask/)
-* [Instagram](https://instagram.com/bibleask/)
-* [YouTube](https://youtube.com/bibleask/)
-* [X](https://x.com/bibleask)
-
 © 2009-2024 BibleAsk.org
-
-[](# "Scroll back to top")

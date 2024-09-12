@@ -372,7 +372,6 @@ About
 * [About Us](https://creatorink.com/pages/about)
 * [Work With Us](https://creatorink.com/pages/contact)
 * [Ink Studios Animation Services](https://creatorinkstudios.com/)
-* [7 Gates ARG](https://creatorink.com/pages/7-gates-arg)
 * [News & Blog](https://creatorink.com/blogs/news)
 
 Sign up and save

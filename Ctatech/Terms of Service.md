@@ -18,7 +18,7 @@ BACK
 * [Membership](https://www.cta.tech/SearchResults?search=Membership)
 * [Self-Driving Cars](https://www.cta.tech/SearchResults?search=Self-Driving%20Cars)
 
-[![](/Content/Assets/img/ctaces-logo.svg)](https://www.cta.tech/)
+[![](/Content/Assets/img/ctalogo.svg)](https://www.cta.tech/)
 
 Topics
 
@@ -239,7 +239,7 @@ Store Terms of Use
 
 [Review](https://www.cta.tech/Landing-Pages/Policies/Terms-of-Use/Store-Terms-of-Use)
 
-[![](/Content/Assets/img/ctaces-logo.svg)](https://www.cta.tech/)
+[![](/Content/Assets/img/ctalogohorizontal_white.svg)](https://www.cta.tech/)
 
 [703-907-7600](tel:703-907-7600) 1919 S. Eads Street, Arlington, VA 22202 [Contact Us](https://www.cta.tech/Who-We-Are/Contact-Us)
 

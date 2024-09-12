@@ -91,10 +91,6 @@ We use third-party advertising partners that use cookies to serve advertisements
 Your Privacy Choices
 --------------------
 
-### Privacy Choices for the European Economic Area (EEA)
-
-Some of the ads you see on the Internet or in applications on your mobile device are tailored to your interests and based on your activity online or in the applications on your mobile device. This type of ad tailoring -- sometimes called "interest-based" advertising -- is enabled through various technologies, including browser cookies, mobile advertising identifiers as well as other non-cookie technologies. Tailored digital ads help support the free products, services and content you enjoy online. To help protect your privacy, DigMinecraft.com has endeavored to opt out of interest-based advertising for the EEA by requesting non-personalized ads from our advertising partners where possible.
-
 ### Your Consent
 
 By using this website, you are consenting to the placement of cookies in your browser by us and our third-party advertising partners. Please read this Privacy Policy carefully for details about why we use cookies and the information they collect from and about you.

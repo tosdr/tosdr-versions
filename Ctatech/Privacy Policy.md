@@ -18,7 +18,7 @@ BACK
 * [Membership](https://www.cta.tech/SearchResults?search=Membership)
 * [Self-Driving Cars](https://www.cta.tech/SearchResults?search=Self-Driving%20Cars)
 
-[![](/Content/Assets/img/ctaces-logo.svg)](https://www.cta.tech/)
+[![](/Content/Assets/img/ctalogo.svg)](https://www.cta.tech/)
 
 Topics
 
@@ -353,7 +353,7 @@ We encourage you to periodically review the Privacy Policy to learn how CTA is p
 
 If at any time you would like to contact us with your views about our privacy practices, or with any inquiry relating to your personal information, please send an e-mail to [dataprivacy-ces@cta.tech](mailto:dataprivacy-ces@cta.tech) or write to Data Privacy – Legal, CTA, 1919 S. Eads Street, Arlington, VA 22202, United States.
 
-[![](/Content/Assets/img/ctaces-logo.svg)](https://www.cta.tech/)
+[![](/Content/Assets/img/ctalogohorizontal_white.svg)](https://www.cta.tech/)
 
 [703-907-7600](tel:703-907-7600) 1919 S. Eads Street, Arlington, VA 22202 [Contact Us](https://www.cta.tech/Who-We-Are/Contact-Us)
 

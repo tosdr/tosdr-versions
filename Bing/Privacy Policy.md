@@ -84,7 +84,7 @@ Privacy
 Microsoft Privacy Statement
 ===========================
 
-Last Updated: June 2024 [What's new?](https://go.microsoft.com/fwlink/p/?LinkId=780766 "What's new?")
+Last Updated: August 2024 [What's new?](https://go.microsoft.com/fwlink/p/?LinkId=780766 "What's new?")
 
 [Expand All](# "Expand All")[Collapse All](# "Collapse All")
 
@@ -96,9 +96,9 @@ Microsoft offers a wide range of products, including server products used to hel
 
 Please read the product-specific details in this privacy statement, which provide additional relevant information. This statement applies to the interactions Microsoft has with you and the Microsoft products listed below, as well as other Microsoft products that display this statement.
 
-Young people may prefer starting with the [Privacy for young people](https://privacy.microsoft.com/young-people) page. That page highlights information that may be helpful for young people.
+Young people may prefer starting with the [Privacy for young people](https://aka.ms/youngpeopleprivacy/) page. That page highlights information that may be helpful for young people.
 
-For individuals in the United States, please refer to our [U.S. State Data Privacy Notice](https://aka.ms/USStatePrivacyNotice) and the Washington State [Consumer Health Data Privacy Policy](https://privacy.microsoft.com/microsoft-consumer-health-data-privacy-policy) for additional information about the processing of your personal data, and your rights under applicable U.S. State data privacy laws.
+For individuals in the United States, please refer to our [U.S. State Data Privacy Notice](https://aka.ms/USStatePrivacyNotice) and the [Consumer Health Data Privacy Policy](https://privacy.microsoft.com/microsoft-consumer-health-data-privacy-policy) for additional information about the processing of your personal data, and your rights under applicable U.S. State data privacy laws.
 
 The most recent version of this privacy statement can be found at aka.ms/privacy.
 
@@ -210,6 +210,8 @@ In carrying out these purposes, we combine data we collect from different contex
 
 Our processing of personal data for these purposes includes both automated and manual (human) methods of processing. Our automated methods often are related to and supported by our manual methods. For example, to build, train, and improve the accuracy of our automated methods of processing (including artificial intelligence or AI), we manually review some of the output produced by the automated methods against the underlying data.
 
+As part of our efforts to improve and develop our products, we may use your data to develop and train our AI models. Learn more [here](https://www.microsoft.com/en-us/microsoft-copilot/learn?#faq).
+
 Full text
 
 Microsoft uses the data we collect to provide you rich, interactive experiences. In particular, we use data to:
@@ -225,7 +227,15 @@ For these purposes, we combine data we collect from different contexts (for exam
 
 Our processing of personal data for these purposes includes both automated and manual (human) methods of processing. Our automated methods often are related to and supported by our manual methods. For example, to build, train, and improve the accuracy of our automated methods of processing (including artificial intelligence or AI), we manually review some of the output produced by the automated methods against the underlying data.
 
-When we process personal data about you, we do so with your consent and/or as required to provide the products you use, operate our business, meet our contractual and legal obligations, protect the security of our systems and our customers, or fulfill other legitimate interests of Microsoft as described in this section and in the [Reasons we share personal data](#mainreasonswesharepersonaldatamodule) section of this privacy statement. When we transfer personal data from the European Economic Area, we do so based on a variety of legal mechanisms, as described in the [Where we store and process personal data](#mainwherewestoreandprocessdatamodule) section of this privacy statement.
+As part of our efforts to improve and develop our products, we may use your data to develop and train our AI models. Learn more [here](https://www.microsoft.com/en-us/microsoft-copilot/learn?#faq).
+
+**Purposes and legal bases for processing**
+
+When we process personal data about you, we do so with your consent and/or as required to provide the products you use, operate our business, meet our contractual and legal obligations, protect the security and safety of our systems and our customers, or fulfill other legitimate interests of Microsoft or third parties as described in this section and in the [Reasons we share personal data](#mainreasonswesharepersonaldatamodule) section of this privacy statement. Our bases for processing your personal data may vary depending on how and across what products and services we process your data.
+
+When we process personal data based on our or a third party’s legitimate interests, we consider and balance those interests against your rights and freedoms, and we will only process your personal data where the legitimate interests we have in processing are not outweighed by your interests.
+
+When we transfer personal data from the European Economic Area, we do so based on a variety of legal mechanisms, as described in the [Where we store and process personal data](#mainwherewestoreandprocessdatamodule) section of this privacy statement.
 
 **More on the purposes of processing:**
 
@@ -233,7 +243,7 @@ When we process personal data about you, we do so with your consent and/or as re
 * **Product improvement**. We use data to continually improve our products, including adding new features or capabilities. For example, we use error reports to improve security features, search queries and clicks in Bing to improve the relevancy of the search results, usage data to determine what new features to prioritize, and voice data to develop and improve speech recognition accuracy.
 * **Personalization**. Many products include personalized features, such as recommendations that enhance your productivity and enjoyment. These features use automated processes to tailor your product experiences based on the data we have about you, such as inferences we make about you and your use of the product, activities, interests, and location. For example, depending on your settings, if you stream movies in a browser on your Windows device, you may see a recommendation for an app from the Microsoft Store that streams more efficiently. If you have a Microsoft account, with your permission, we can sync your settings on several devices. Many of our products provide controls to disable personalized features.
 * **Product activation**. We use data—such as device and application type, location, and unique device, application, network, and subscription identifiers—to activate products that require activation.
-* **Product development**. We use data to develop new products. For example, we use data, often de-identified, to better understand our customers’ computing and productivity needs which can shape the development of new products.
+* **Product development**. We use data to develop new products. For example, we use data, often de-identified, to better understand our customers’ computing and productivity needs, and to train and fine-tune AI models, which can shape the development of new products.
 * **Customer support**. We use data to troubleshoot and diagnose product problems, repair customers’ devices, and provide other customer care and support services, including to help us provide, improve, and secure the quality of our products, services, and training, and to investigate security incidents. Call recording data may also be used to authenticate or identify you based on your voice to enable Microsoft to provide support services and investigate security incidents.
 * **Help secure and troubleshoot**. We use data to help secure and troubleshoot our products. This includes using data to protect the security and safety of our products and customers, detecting malware and malicious activities, troubleshooting performance and compatibility issues to help customers get the most out of their experiences, and notifying customers of updates to our products. This may include using automated systems to detect security and safety issues.
 * **Safety**. We use data to protect the safety of our products and our customers. Our security features and products can disrupt the operation of malicious software and notify users if malicious software is found on their devices. For example, some of our products, such as Outlook.com or OneDrive, systematically scan content in an automated manner to identify suspected spam, viruses, abusive actions, or URLs that have been flagged as fraud, phishing, or malware links; and we reserve the right to block delivery of a communication or remove content if it violates our terms. **In accordance with European Union Regulation (EU) 2021/1232, we have invoked the derogation permitted by that Regulation from Articles 5(1) and 6(1) of EU Directive 2002/58/EC. We use scanning technologies to create digital signatures (known as “hashes”) of certain images and video content on our systems. These technologies then compare the hashes they generate with hashes of reported child sexual exploitation and abuse imagery (known as a “hash set”), in a process called “hash matching”. Microsoft obtains hash sets from organizations that act in the public interest against child sex abuse. This can result in sharing information with the National Center for Missing and Exploited Children (NCMEC) and law enforcement authorities.**
@@ -245,7 +255,7 @@ When we process personal data about you, we do so with your consent and/or as re
 * **Transacting commerce**. We use data to carry out your transactions with us. For example, we process payment information to provide customers with product subscriptions and use contact information to deliver goods purchased from the Microsoft Store.
 * **Reporting and business operations**. We use data to analyze our operations and perform business intelligence. This enables us to make informed decisions and report on the performance of our business.
 * **Protecting rights and property**. We use data to detect and prevent fraud, resolve disputes, enforce agreements, and protect our property. For example, we use data to confirm the validity of software licenses to reduce piracy. We may use automated processes to detect and prevent activities that violate our rights and the rights of others, such as fraud.
-* **Legal compliance**. We process data to comply with law. For example, we use the age of our customers to assist us in meeting our obligations to protect children’s privacy. We also process contact information and credentials to help customers exercise their data protection rights.
+* **Legal compliance**. We process data to comply with applicable laws. For example, we use the age of our customers to assist us in meeting our obligations to protect children’s privacy. We also process contact information and credentials to help customers exercise their data protection rights.
 * **Research.** With appropriate technical and organizational measures to safeguard individuals’ rights and freedoms, we use data to conduct research, including advanced machine learning and artificial intelligence capabilities for the benefit of the public interest and scientific purposes.
 
 Reasons we share personal dataReasons we share personal datamainreasonswesharepersonaldatamodule
@@ -656,7 +666,7 @@ Summary
 
 If you are a U.S. resident, we process your personal data in accordance with applicable U.S. state data privacy laws, including the California Consumer Privacy Act (CCPA). This section of our privacy statement contains information required by the CCPA and other U.S. state data privacy laws and supplements our privacy statement.
 
-Please note that recent changes to the CCPA and other state data privacy laws are set to take effect in 2023; however, the rules implementing some of these laws have not yet been finalized. We are continuously working to better comply with these laws, and we will update our processes and disclosures as these implementing rules are finalized.
+Please note that rules implementing some of these laws have not yet been finalized. We will update our processes, disclosures, and this notice as these implementing rules are finalized, and as otherwise necessary.
 
 Please also see our [U.S. State Data Privacy Laws Notice](https://aka.ms/USStatePrivacyNotice) and our [Consumer Health Data Privacy Policy](https://privacy.microsoft.com/microsoft-consumer-health-data-privacy-policy) for additional information about the data we collect, process, share and disclose, and your rights under applicable U.S. state data privacy laws.
 
@@ -690,13 +700,17 @@ Categories of Personal Data
 
 Please see the [Advertising](https://privacy.microsoft.com/privacystatement#mainadvertisingmodule) section for more information about our advertising practices, and our [U.S. State Data Privacy Laws Notice](https://aka.ms/USStatePrivacyNotice) for more information on “sharing” for personalized advertising purposes under applicable U.S. state laws.
 
-**Rights**. You have the right to request that we (i) disclose what personal data we collect, use, disclose, share, and sell, (ii) delete your personal data, (iii) correct your personal data, (iv) restrict the use and disclosure of your sensitive data, and (v) opt-out of “sharing” your personal data with third parties for personalized advertising purposes on third party sites. You may make these requests yourself or through an authorized agent. If you use an authorized agent, we provide your agent with [detailed guidance](https://privacy.microsoft.com/ccpa-guidance) on how to exercise your privacy rights. Please see our [U.S. State Data Privacy Laws Notice](https://aka.ms/USStatePrivacyNotice) for additional information on how to exercise these rights. Please also see our Washington State [Consumer Health Data Privacy Policy](https://privacy.microsoft.com/consumerhealthdataprivacypolicy) for information on the rights available under Washington law.
+**Rights**. You have the right to (i) know what personal data we collect, use, disclose, “share”, and sell, (ii) delete your personal data, (iii) correct your personal data, (iv) restrict the use and disclosure of your sensitive data, (v) receive a copy of your personal data, and (vi) opt-out of “sharing” your personal data with third parties for personalized advertising purposes on third party sites. You may make these requests yourself or through an authorized agent. If you use an authorized agent, we provide your agent with [detailed guidance](https://privacy.microsoft.com/ccpa-guidance) on how to exercise your privacy rights. Please see our [U.S. State Data Privacy Laws Notice](https://aka.ms/USStatePrivacyNotice) for additional information on how to exercise these rights.
 
-If you have a Microsoft account, you can exercise your rights through the [Microsoft privacy dashboard](https://account.microsoft.com/privacy), which requires you to log in to your Microsoft account. If you have an additional request or questions after using the dashboard, you may contact Microsoft at the address in the [How to contact us](https://privacy.microsoft.com/privacystatement#mainhowtocontactusmodule) section, use our [web form](https://go.microsoft.com/fwlink/?linkid=2126612), or call our US toll free number +1 (844) 931 2038. If you do not have an account, you may exercise your rights by contacting us as described above. We may ask for additional information, such as your country of residence, email address, and phone number to validate your request before honoring the request.
+You may have additional rights related to your consumer health data as defined by applicable state consumer health privacy laws. Please see our [Consumer Health Data Privacy Policy](https://privacy.microsoft.com/consumerhealthdataprivacypolicy) for information on the rights available under Washington State’s My Health My Data Act (MHMDA) and other applicable U.S. consumer health privacy laws.
+
+If you have a Microsoft account, you can exercise your rights through the [Microsoft privacy dashboard](https://account.microsoft.com/privacy), which requires you to log in to your Microsoft account. If you have an additional request or questions after using the dashboard, you may contact Microsoft at the address in the [How to contact us](https://privacy.microsoft.com/privacystatement#mainhowtocontactusmodule) section, use our [web form](https://go.microsoft.com/fwlink/?linkid=2126612), or call our US toll free number +1 (844) 931 2038. If you do not have an account, you may exercise your rights by contacting us as described above. To further protect your personal data, we may ask for additional information, such as your country of residence, email address, and phone number to validate your identity and request before honoring the request.
 
 You may indicate your choice to opt-out of the sharing of your personal data with third parties for personalized advertising on third party sites by visiting our [sharing opt-out page.](https://aka.ms/yourcaliforniaprivacychoices) You can also control the personalized advertising you see on Microsoft properties by visiting our [opt-out page.](http://go.microsoft.com/fwlink/?LinkID=286759)
 
 We do not use or disclose your sensitive data for purposes other than those listed below, without your consent, or as permitted or required under applicable laws. So, we do not offer an ability to limit the use of sensitive data.
+
+If you have made a request to Microsoft to know, delete, correct, or receive your personal information and believe your request was denied by Microsoft, you can exercise your right to appeal the results of your request by contacting our privacy support team via our web form. If your appeal is unsuccessful and depending upon the state where you live, you may have the right to raise a concern or lodge a complaint with your state attorney general.
 
 You have a right not to receive discriminatory treatment if you exercise your privacy rights. We will not discriminate against you if you exercise your privacy rights.
 
@@ -818,7 +832,7 @@ We do not use or disclose your sensitive data for purposes other than the follow
 
 **Parties that control collection of personal data**. In certain situations, we may allow a third party to control the collection of your personal data. For example, third party applications or extensions that run on Windows or Edge browser may collect personal data based on their own practices.
 
-Microsoft allows advertising companies to collect information about your interactions with our websites in order to deliver personalized ads on Microsoft’s behalf. These companies include: Meta, LinkedIn, Google, and Adobe.
+Microsoft allows advertising companies to collect information about your interactions with our websites in order to deliver personalized ads on Microsoft’s behalf. You can view [our third party ad partners](https://learn.microsoft.com/xandr/policies-regulations/third-party-providers) on the [U.S. State Data Privacy Laws Notice](https://aka.ms/USStatePrivacyNotice), and opt-out of data sharing with third parties at our [opt-out page](https://aka.ms/yourcaliforniaprivacychoices).
 
 AdvertisingAdvertisingmainadvertisingmodule
 

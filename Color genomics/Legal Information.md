@@ -1,8 +1,8 @@
 [skip to content](#main)
 
-![](https://www.color.com/wp-content/uploads/2024/07/OpenAI.svg)
+![](https://www.color.com/wp-content/uploads/2024/08/Scientific-American-Logo.svg)
 
-Color is designing new AI use cases to equip providers with specialized cancer knowledge that helps inform care plans and reduce time to treatment. [Read More](https://www.color.com/blog/colors-copilot-and-partnership-with-openai)
+It's time to shatter the "too young to get screened for cancer" myth. [Read](https://www.scientificamerican.com/article/cancer-rates-are-rising-in-young-people-heres-what-you-need-to-know/) Color CEO Othman Laraki and American Cancer Society CEO Dr. Karen Knudsen’s vision for addressing the surge in cancer among Millennials and Gen Xers.
 
  [![](https://www.color.com/wp-content/uploads/2024/04/Color-Wordmark-Logo-Registered.svg)](https://www.color.com/) Toggle Main Navigation Expanded Collapsed
 
@@ -42,7 +42,7 @@ Color Health HIPAA Notice of Privacy Practices
 
 ### Last Updated: October 1, 2023
 
-This content is also available in: [العربية](https://www.color.com/ar/policies/%d8%a5%d8%b4%d8%b9%d8%a7%d8%b1-%d9%85%d9%85%d8%a7%d8%b1%d8%b3%d8%a7%d8%aa-%d8%a7%d9%84%d8%ae%d8%b5%d9%88%d8%b5%d9%8a%d8%a9) [Filipino](https://www.color.com/fil/policies/paunawa-sa-mga-kasanayan-sa-privacy) [Русский](https://www.color.com/ru/policies/%d1%83%d0%b2%d0%b5%d0%b4%d0%be%d0%bc%d0%bb%d0%b5%d0%bd%d0%b8%d0%b5-%d0%be-%d0%bf%d0%be%d1%80%d1%8f%d0%b4%d0%ba%d0%b5-%d0%b8%d1%81%d0%bf%d0%be%d0%bb%d1%8c%d0%b7%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d1%8f) [Español](https://www.color.com/es/policies/aviso-de-practicas-de-privacidad) [简体中文](https://www.color.com/zh-hans/policies/%e9%9a%90%e7%a7%81%e6%83%af%e4%be%8b%e9%80%9a%e7%9f%a5)
+This content is also available in: [العربية](https://www.color.com/ar/policies/%d8%a5%d8%b4%d8%b9%d8%a7%d8%b1-%d9%85%d9%85%d8%a7%d8%b1%d8%b3%d8%a7%d8%aa-%d8%a7%d9%84%d8%ae%d8%b5%d9%88%d8%b5%d9%8a%d8%a9) [Filipino](https://www.color.com/fil/policies/paunawa-sa-mga-kasanayan-sa-privacy) [Русский](https://www.color.com/ru/policies/%d1%83%d0%b2%d0%b5%d0%b4%d0%be%d0%bc%d0%bb%d0%b5%d0%bd%d0%b8%d0%b5-%d0%be-%d0%bf%d0%be%d1%80%d1%8f%d0%b4%d0%ba%d0%b5-%d0%b8%d1%81%d0%bf%d0%be%d0%bb%d1%8c%d0%b7%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d1%8f) [Samoan](https://www.color.com/sm) [Español](https://www.color.com/es/policies/aviso-de-practicas-de-privacidad) [Tiếng Việt](https://www.color.com/vi?page_id=143853) [简体中文](https://www.color.com/zh-hans/policies/%e9%9a%90%e7%a7%81%e6%83%af%e4%be%8b%e9%80%9a%e7%9f%a5)
 
 1. [SCOPE AND UPDATES TO THIS NOTICE](#scope)
 2. [USE AND DISCLOSURE OF YOUR PHI THAT DO NOT REQUIRE YOUR AUTHORIZATION](#phi)

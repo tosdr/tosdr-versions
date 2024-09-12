@@ -49,8 +49,6 @@ EN
 
 [](https://coinsbee.com/en/login/)
 
-[](#)
-
 * [Orders](https://coinsbee.com/en/settings/#orders)
 * [Settings](https://coinsbee.com/en/settings/#settings)
 * [Verify](https://coinsbee.com/en/settings/#verify)
@@ -63,8 +61,6 @@ EN
 [![coinsbeelogo](https://cdn.coinsbee.com/dist/assets/img/coinsbeelogo.svg)](https://coinsbee.com/en/)
 
 [](https://coinsbee.com/en/login/)
-
-[](#)
 
 * [Orders](https://coinsbee.com/en/settings/#orders)
 * [Settings](https://coinsbee.com/en/settings/#settings)
@@ -117,6 +113,10 @@ Categories
 * [![category image](https://cdn.coinsbee.com/dist/assets/img/categories/charity.svg)
     
     Charity](https://coinsbee.com/en/shop/gift-cards/charity)
+
+Categories
+
+Loading...
 
 * [All products](https://coinsbee.com/en/shop)
 

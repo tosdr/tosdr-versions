@@ -94,6 +94,7 @@ YOU ACKNOWLEDGE THAT YOU HAVE READ AND FULLY UNDERSTAND THESE TERMS AND CONDITIO
 
 [Year-Round Event Terms & Conditions](https://burningman.org/year-round-terms-and-conditions/ "Year-Round Event Terms & Conditions")
 
+* [Curiouser?](https://burningman.org/curiouser/ "Curiouser?")
 * [V.E.S.T. (Virtual Event Support Team)](https://burningman.org/v-e-s-t/ "V.E.S.T. (Virtual Event Support Team)")
 * [Programs](https://burningman.org/programs/ "Programs")
 * [News & Storytelling](https://burningman.org/news/ "News & Storytelling")

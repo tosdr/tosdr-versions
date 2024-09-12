@@ -67,6 +67,7 @@
     
 * [Categories](https://www.coolmathgames.com/categories)
     
+    * [![Daily Games Icon](/sites/default/files/2022-05/Daily.svg)Daily Games](https://www.coolmathgames.com/1-daily-games "Daily Games")
     * [![Creative Games Icon](/sites/default/files/2023-10/Creative.svg)Creative](https://www.coolmathgames.com/1-creative-games)
     * [![Geography Games Icon](/sites/default/files/2022-05/Geography.svg)Geography](https://www.coolmathgames.com/1-geography-games)
     * [![Memory Games Icon](/sites/default/files/2022-06/Memory.svg)Memory](https://www.coolmathgames.com/1-memory-games)
@@ -272,12 +273,13 @@ Rates for subscriber-only content are subject to change. The then-current rate w
 
 From time to time we may offer free trials to, or introductory pricing for, the subscriber-only content. These offers are available to you only if you have not previously been a subscriber to subscriber-only content. If you respond to a free trial or introductory pricing offer but do not qualify, we reserve the right to reject your order.
 
-[![Haxanaut](/themes/custom/coolmath/assets/images/promos/Hexanaut_Promo.png
-)
+[![CMG Merch Coupon: 2cool](/sites/default/files/2024-08/store-coupon-promo.png)
 
-##### Hexanaut
+##### 
 
-Multiplayer Snake Combat](https://www.coolmathgames.com/0-hexanaut-io)
+Coolmath Merch Sale
+
+Shop Now: Discount Code 2COOL](https://merch.coolmathgames.com/)
 
 [![User Profile](/themes/custom/coolmath/assets/images/promos/UserProfiles_Promo.png)
 
@@ -291,11 +293,13 @@ Get one for free!](https://www.coolmathgames.com/signup)
 
 [Visit Coolmath4Kids.com](https://www.coolmath4kids.com/)
 
-[![Leaderboards](/themes/custom/coolmath/assets/images/promos/Leaderboards_Promo.png)
+[![CMG Merch Coupon: 2cool](/sites/default/files/2024-08/store-coupon-promo.png)
 
-##### Leaderboards
+##### 
 
-See how you rank!](https://www.coolmathgames.com/profile/leaderboard)
+Coolmath Merch Sale
+
+Shop Now: Discount Code 2COOL](https://merch.coolmathgames.com/)
 
 3. [Coolmath games privacy policy](https://www.coolmathgames.com/privacyp)
     
@@ -304,6 +308,7 @@ See how you rank!](https://www.coolmathgames.com/profile/leaderboard)
 4. * COOLMATHGAMES.COM
         * [Games for Kids](https://www.coolmath4kids.com/)
         * [About Us](https://www.coolmathgames.com/about-us)
+        * [Parents](https://www.coolmathgames.com/parents)
         * [Terms of Use](https://www.coolmathgames.com/terms-use)
         * [About Our Ads](https://www.coolmathgames.com/aboutourads)
         * [Subscription FAQ](https://www.coolmathgames.com/subscription-faq)

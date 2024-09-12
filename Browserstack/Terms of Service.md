@@ -441,8 +441,8 @@ Products
 * [Test Observability](https://www.browserstack.com/test-observability)
 * [Accessibility Testing](https://www.browserstack.com/accessibility-testing)
 * [Accessibility Automation](https://www.browserstack.com/accessibility-testing/features/automated-tests)
-* [App Accessibility Testing Beta](https://www.browserstack.com/app-accessibility-testing)
-* [Low Code Automation Beta](https://www.browserstack.com/low-code-automation)
+* [App Accessibility Testing](https://www.browserstack.com/app-accessibility-testing)
+* [Low Code Automation](https://www.browserstack.com/low-code-automation)
 * [Nightwatch.js](https://nightwatchjs.org/)
 * [Enterprise](https://www.browserstack.com/enterprise?ref=footer)
 
@@ -458,6 +458,7 @@ Platform
 * [Data Centers](https://www.browserstack.com/data-centers)
 * [Real Device Features](https://www.browserstack.com/device-features)
 * [Security](https://www.browserstack.com/security)
+* [Trust Center](https://www.browserstack.com/trust)
 
 Solutions
 

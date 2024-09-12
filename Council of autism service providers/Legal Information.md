@@ -1,12 +1,12 @@
 [Skip to content](#content)
 
-[![](https://assets-002.noviams.com/novi-file-uploads/casp/auto-files/image_1721315305165.jpg)](https://www.casproviders.org/events/2024-casp-leadership-summit)
+[50 State Applied Behavior Analysis Medicaid benefit comparison is now available!](https://assets-002.noviams.com/novi-file-uploads/casp/Medicaid_Data_for_Distribution_FINAL.pdf)
 
-[ACKNOWLEDGE](##)
+ACKNOWLEDGE
 
-[**0 Items** in your cart View Cart](https://www.casproviders.org/products/checkout)
+[in your cart View Cart](https://www.casproviders.org/products/checkout)
 
-* [0 Cart](https://www.casproviders.org/products/checkout)
+* [Cart](https://www.casproviders.org/products/checkout)
 * [Join](#join-modal)
 * [Login](https://www.casproviders.org/login)
 * [Contact Us](https://www.casproviders.org/contact-us)
@@ -58,7 +58,6 @@
         * [Standards & Guidelines](https://www.casproviders.org/standards-and-guidelines)
         * [Appeals Guide](https://www.casproviders.org/appealsguide)
         * [ABA Coding Coalition](https://www.casproviders.org/aba-coding-coalition)
-    * [Apply for a Committee](https://www.casproviders.org/casp-committee-applications)
     * [Store](https://www.casproviders.org/products/)
 * [Affiliates](https://www.casproviders.org/affiliate-program-descriptions)
     * [Become an Affiliate](javascript:void(0);)
@@ -75,7 +74,7 @@
     * [Annual Events](javascript:void(0);)
         * [2024 Conference](https://www.casproviders.org/events/2024-conference)
         * [2024 Leadership Summit](https://www.casproviders.org/events/2024-casp-leadership-summit)
-        * [2024 CEO Retreat](https://www.casproviders.org/events/2024-ceo-retreat)
+        * [2025 CEO Retreat](https://www.casproviders.org/events/2025-ceo-retreat)
         * [Past Events](https://www.casproviders.org/past-events)
     * [Blogs & Press Releases](https://www.casproviders.org/news/)
     * [PodCASP](https://www.casproviders.org/news/the-podcasp)
@@ -87,9 +86,11 @@
 
 * * *
 
+* [Contact Us](https://www.casproviders.org/contact-us)
+* [](https://www.casproviders.org/search)
+    
 * [Join](#join-modal)
 * [Login](https://www.casproviders.org/login)
-* [Contact Us](https://www.casproviders.org/contact-us)
 
 Legal Notices
 =============
@@ -160,6 +161,7 @@ You can contact CASP with any privacy-related inquiries at info@casproviders.org
 * [2019](https://assets-002.noviams.com/novi-file-uploads/casp/pdfs-and-documents/990s/2019-811254601-18292562-9O.pdf)
 * [2020](https://assets-002.noviams.com/novi-file-uploads/casp/pdfs-and-documents/990s/2020-811254601-202122219349300542-9O.pdf)
 * [2021](https://assets-002.noviams.com/novi-file-uploads/casp/pdfs-and-documents/990s/2021_CASP_990.pdf)
+* [2022](https://assets-002.noviams.com/novi-file-uploads/casp/pdfs-and-documents/990s/2022_-_AS_FILED_-_Client_Copy_-_Council_of_Autism_Service_Providers_copy.pdf)
 
 > [CASP](https://www.facebook.com/CASProviders)
 

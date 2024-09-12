@@ -334,7 +334,8 @@ Social media cookies allow platforms to target you and display tailored advertis
 | act | Facebook cookie | 3 months |
 | campaign\_click\_url | Facebook cookie used for analytics and research. | 30 days |
 | C-user | Facebook cookie used for authentication purposes. | 1 year |
-| ConfusedTTpixel | TikTok cookie used to accurately track any sales from the tiktok platform. | 13 months |
+| \_ttp, \_tt\_enable\_cookie | TikTok cookie used to accurately track any sales from the tiktok platform. | 13 months |
+| ttclid | TikTok cookie used to accurately track any sales from the tiktok platform. | 1 month |
 | datr | Facebook cookie which is used to identity the web browser being used to connect to Facebook independent of the logged in user. The cookie plays a key role in Facebook’s security and site integrity features. | 2 years |
 | Fr  | Facebook cookie will collect data which may personally identify you and is used to deliver, measure and improve the relevancy of advertisements. | 90 days |
 | m-pixel-ratio | This is a Facebook pixel which allows us to measure the effectiveness of our advertising. It also allows us to retarget users with Facebook ads. | 3 months |
@@ -376,7 +377,7 @@ Confused.com, a trading name of Inspop.com Limited. Inspop.com Limited is part o
 
 We work with a range of providers for some of our comparison customer journeys. Some of these partners will drop cookies on our website domain so that they can provide the best experience between the websites. The associated Cookie Policies are operated by the underlying providers and we therefore recommend you review these where relevant. Please visit our [providers page](https://www.confused.com/about-us/providers) for more information on the partners we work with.
 
-**This policy was last updated on 2nd April 2024.**
+**This policy was last updated on 4th September 2024.**
 
 ### How do I manage my cookies?
 
@@ -418,7 +419,7 @@ If you've got an opinion, we want to hear it
 
 Our customer research community was created to gather your thoughts on Confused.com. It’s packed with forums, quick polls, and focus groups, and by taking part in the research, you could win prizes or even get paid.
 
-[Sign up and share your thoughts](https://rvucommunity.flexmr.net/oa/b85860)
+[Sign up and share your thoughts](https://rvucommunity.flexmr.net/oa/62feb1)
 
 Part of a family of brands
 

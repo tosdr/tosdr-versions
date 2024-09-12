@@ -1,8 +1,8 @@
 [skip to content](#main)
 
-![](https://www.color.com/wp-content/uploads/2024/07/OpenAI.svg)
+![](https://www.color.com/wp-content/uploads/2024/08/Scientific-American-Logo.svg)
 
-Color is designing new AI use cases to equip providers with specialized cancer knowledge that helps inform care plans and reduce time to treatment. [Read More](https://www.color.com/blog/colors-copilot-and-partnership-with-openai)
+It's time to shatter the "too young to get screened for cancer" myth. [Read](https://www.scientificamerican.com/article/cancer-rates-are-rising-in-young-people-heres-what-you-need-to-know/) Color CEO Othman Laraki and American Cancer Society CEO Dr. Karen Knudsen’s vision for addressing the surge in cancer among Millennials and Gen Xers.
 
  [![](https://www.color.com/wp-content/uploads/2024/04/Color-Wordmark-Logo-Registered.svg)](https://www.color.com/) Toggle Main Navigation Expanded Collapsed
 

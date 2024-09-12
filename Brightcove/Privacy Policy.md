@@ -42,41 +42,23 @@ LEGAL
 PRIVACY POLICY
 --------------
 
-[](https://www.brightcove.com/en/legal/brightcove-privacy-policies/)
+##### Privacy Policies Module
 
-[](https://www.brightcove.com/en/legal/brightcove-privacy-policies/)
+Learn about how Brightcove collects, uses and shares personal information collected through our Websites and Brightcove Services, and your rights with respect to that information. The policies are organized based on your relationship with Brightcove and where you reside when accessing our Websites and Brightcove Services.
 
-[](https://www.brightcove.com/en/legal/brightcove-privacy-policies/)
+[Learn more](https://www.brightcove.com/en/legal/brightcove-privacy-policies/)
 
-[##### Privacy Policies Module
+##### WebForm Module
 
-Learn about how Brightcove collects, uses and shares personal information collected through our Websites and Brightcove Services, and your rights with respect to that information. The policies are organized based on your relationship with Brightcove and where you reside when accessing our Websites and Brightcove Services.](https://www.brightcove.com/en/legal/brightcove-privacy-policies/)
+You, or someone authorized by you, can use this link to submit a data rights request.
 
-[](https://www.brightcove.com/en/legal/brightcove-privacy-policies/)[Learn more](https://www.brightcove.com/en/legal/brightcove-privacy-policies/)
+[Learn more](https://www.brightcove.com/en/legal/submit-request/)
 
-[](https://www.brightcove.com/en/legal/submit-request/)
+##### Control Center Module
 
-[](https://www.brightcove.com/en/legal/submit-request/)
+You can tell us “Do Not Sell or Share My Personal Information” here.
 
-[](https://www.brightcove.com/en/legal/submit-request/)
-
-[##### WebForm Module
-
-You, or someone authorized by you, can use this link to submit a data rights request.](https://www.brightcove.com/en/legal/submit-request/)
-
-[](https://www.brightcove.com/en/legal/submit-request/)[Learn more](https://www.brightcove.com/en/legal/submit-request/)
-
-[](https://www.brightcove.com/en/legal/opt-out-center/)
-
-[](https://www.brightcove.com/en/legal/opt-out-center/)
-
-[](https://www.brightcove.com/en/legal/opt-out-center/)
-
-[##### Control Center Module
-
-You can tell us “Do Not Sell or Share My Personal Information” here.](https://www.brightcove.com/en/legal/opt-out-center/)
-
-[](https://www.brightcove.com/en/legal/opt-out-center/)[Learn more](https://www.brightcove.com/en/legal/opt-out-center/)
+[Learn more](https://www.brightcove.com/en/legal/opt-out-center/)
 
 READY TO GET STARTED?
 ---------------------

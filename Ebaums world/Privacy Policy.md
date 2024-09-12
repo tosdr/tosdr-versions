@@ -259,15 +259,13 @@ Advertisement
 
 * ### eBaum's Picks
     
-    [![fat dude on waterslide](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/fat-guy-gets-huge-air-on-water-slide/85148225/) [Overweight Guy Wows Everyone With Huge Air On Water Slide](https://www.ebaumsworld.com/videos/fat-guy-gets-huge-air-on-water-slide/85148225/)
+    [![a man sipping whiskey in his cluttered home | video of a man drinking and his wife leaving him in the backround](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/man-reviews-scotch-while-his-wife-packs-up-her-things-and-leaves-him-in-the-background/85847868/) [Man Reviews Scotch While His Wife Packs Up Her Things and Leaves Him in The Background](https://www.ebaumsworld.com/videos/man-reviews-scotch-while-his-wife-packs-up-her-things-and-leaves-him-in-the-background/85847868/)
     
-    [![guy wearing SOA vest while getting gas](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/guy-berates-kid-wearing-a-sons-of-anarchy-vest-because-hes-not-in-a-real-biker-gang/85158575/) [Kid Wearing A 'Sons of Anarchy' Vest Gets Berated By Real Biker](https://www.ebaumsworld.com/videos/guy-berates-kid-wearing-a-sons-of-anarchy-vest-because-hes-not-in-a-real-biker-gang/85158575/)
+    [![Insane Childhood Stories As Told By Twitter Users](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/insane-childhood-stories-as-told-by-twitter-users/87497005/) [19 Insane Childhood Stories As Told By Twitter Users](https://trending.ebaumsworld.com/pictures/insane-childhood-stories-as-told-by-twitter-users/87497005/)
     
-    [![](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/guy-rips-a-massive-fart-after-finding-out-hes-being-charged-with-possession-of-a-firearm/87424149/) [Guy Rips a Massive Fart After Finding Out He Was Being Charged With Possession of a Firearm](https://www.ebaumsworld.com/videos/guy-rips-a-massive-fart-after-finding-out-hes-being-charged-with-possession-of-a-firearm/87424149/)
+    [![Touring the “Worst Resort in Las Vegas”](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/touring-the-worst-resort-in-las-vegas/87422977/) [Touring the “Worst Resort in Las Vegas”](https://www.ebaumsworld.com/videos/touring-the-worst-resort-in-las-vegas/87422977/)
     
-    Advertisement
-    
-    [![arnold schwarzenegger sitting down and standing up before getting drop kicked](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/arnold-schwarzenegger-gets-attacked-in-south-africa/85964632/) [Remember When that Douchebag Drop Kicked Arnold Schwarzenegger At Event in South Africa](https://www.ebaumsworld.com/videos/arnold-schwarzenegger-gets-attacked-in-south-africa/85964632/)
+    [![The 24 Worst Decisions in the History of Human Kind](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/the-24-worst-decisions-in-the-history-of-human-kind/87506013/) [The 24 Worst Decisions in the History of Human Kind](https://trending.ebaumsworld.com/pictures/the-24-worst-decisions-in-the-history-of-human-kind/87506013/)
     
 
 * Advertisement

@@ -9,7 +9,7 @@
 * [Pricing](https://www.dashlane.com/pricing)
 * Resources
     
-* Blog
+* Partners
     
 * [Log in](https://app.dashlane.com/)
 
@@ -330,7 +330,7 @@ d. _Germany_. If you are a resident of Germany, the Terms, including Section 13f
         * [About Us](https://www.dashlane.com/about)
         * [Leadership](https://www.dashlane.com/about/leadership)
         * [Careers](https://www.dashlane.com/about/careers)
-        * [Partners](https://dashlane.partner-experience.com/)
+        * [Partners](https://www.dashlane.com/partner-program)
     * FEATURES![open](data:image/svg+xml;utf8,%3Csvg%20width%3D%2224%22%20height%3D%2224%22%20viewBox%3D%220%200%2024%2024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cg%20clip-path%3D%22url(%23clip0_643_4102)%22%3E%3Cpath%20fill-rule%3D%22evenodd%22%20clip-rule%3D%22evenodd%22%20d%3D%22M12%2014.0157L5.55319%207L4%208.29409L12%2017L20%208.29409L18.4468%207L12%2014.0157Z%22%2F%3E%3C%2Fg%3E%3Cdefs%3E%3CclipPath%20id%3D%22clip0_643_4102%22%3E%3Crect%20width%3D%2224%22%20height%3D%2224%22%2F%3E%3C%2FclipPath%3E%3C%2Fdefs%3E%3C%2Fsvg%3E)
         * [Password Manager](https://www.dashlane.com/)
         * [Passkeys](https://www.dashlane.com/passkeys)

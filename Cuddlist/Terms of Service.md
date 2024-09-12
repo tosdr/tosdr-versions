@@ -10,15 +10,13 @@
 
 [Skip to Content](#content)
 
-[![Cuddlist](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E "Cuddlist")
-
-![Cuddlist](https://cuddlist.com/wp-content/uploads/2019/08/cuddlist-professional-cuddle-therapy-blue-large-1.png "Cuddlist")](https://cuddlist.com/ "Cuddlist Training")
+[![Cuddlist](https://cuddlist.com/wp-content/uploads/2019/08/cuddlist-professional-cuddle-therapy-blue-large-1.png "Cuddlist")](https://cuddlist.com/ "Cuddlist Training")
 
 MENUMENU
 
 * [Find a Cuddlist](https://cuddlist.com/cuddlers/)
 * [Become a Cuddlist](https://cuddlist.podia.com/?subscriber=cb9d3d7be8e3a04ab403c29e6acb3579bb7d36af63f07bcb7b41af4b4d56d07d)
-    * [Basic Training](https://cuddlist.podia.com/?subscriber=cb9d3d7be8e3a04ab403c29e6acb3579bb7d36af63f07bcb7b41af4b4d56d07d)
+    * [Cuddlist Certification](https://cuddlist.podia.com/?subscriber=cb9d3d7be8e3a04ab403c29e6acb3579bb7d36af63f07bcb7b41af4b4d56d07d)
 * [Code of Conduct](#)
     * [Code of Conduct](https://cuddlist.com/code-of-conduct/)
 * [Healthcare](#)

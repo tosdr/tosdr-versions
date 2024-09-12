@@ -348,4 +348,4 @@ Subscribe to our event
 
 Subscribe
 
-©️ 2023 ReklamStore
+©️ ReklamStore

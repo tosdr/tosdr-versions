@@ -2,7 +2,7 @@
 
 ![Menu](/_next/static/media/mobile-menu.034cfae5.svg)
 
-[Modernise](https://bloop.ai/modernise)[Write](https://bloop.ai/write)[Understand](https://bloop.ai/understand)[Blog](https://bloop.ai/blog)
+[Modernise](https://bloop.ai/modernise)[Write](https://bloop.ai/write)[Blog](https://bloop.ai/blog)
 
 Terms of Service
 ================
@@ -118,7 +118,7 @@ _Updated 12th December 2022_
 
 Product
 
-[Write](https://bloop.ai/write)[Understand](https://bloop.ai/understand)[Modernise](https://bloop.ai/modernise)
+[Write](https://bloop.ai/write)[Modernise](https://bloop.ai/modernise)
 
 Company
 
@@ -127,7 +127,5 @@ Company
 Socials
 
 [Join Discord](https://discord.com/invite/kZEgj5pyjm)[Follow us on X](https://twitter.com/bloopdotai)
-
-[GitHub · 9253](https://github.com/BloopAI/bloop)
 
 [T&Cs](https://bloop.ai/terms)[Privacy](https://bloop.ai/privacy)

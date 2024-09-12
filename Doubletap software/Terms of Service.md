@@ -1,5 +1,3 @@
-Cookie Consent by [TermsFeed Generator](https://www.termsfeed.com/)
-
 ![DoubleTap Software LLC](/images/DoubleTap.png)
 
 Creators of the hit mobile sports games Soccer Battle, Basketball Battle, and Ted Ginn: Kick Return.
@@ -7,7 +5,7 @@ Creators of the hit mobile sports games Soccer Battle, Basketball Battle, and 
 DoubleTap Terms of Service
 ==========================
 
-**Last Updated: April 18, 2022**
+**Last Updated: Sept 5, 2024**
 
 These Terms of Service ("Terms") apply to your access to and use of the websites, applications and other online products and services including our games (collectively, our "Services") provided by DoubleTap Software LLC and its affiliates ("DoubleTap" or "we"). By clicking to indicate your acceptance or otherwise using our Services, you agree to these Terms. If you do not agree to these Terms, including the mandatory arbitration provision and class action waiver in Section 16, you may not use our Services.
 
@@ -29,7 +27,7 @@ Please refer to our [Privacy Policy](https://doubletapsoftware.com/privacy/) for
 2. User Accounts
     -------------
     
-    You may need to register for an account to access some or all of our Services. If you register for an account, you must provide accurate account information and promptly update this information if it changes. You must maintain the security of your account and account credentials, and you are responsible for any activities on your account and promptly notify us if you discover or suspect that someone has accessed your account without your permission. If you permit others to use your account credentials, you are responsible for the activities of those users.
+    Certain games offered by us provide the functionality for users to create an account, enabling access across multiple devices. You are solely responsible for maintaining the confidentiality and security of your account credentials. **Sharing your account credentials with any other party is strictly prohibited under these Terms. Any such action may result in suspension, termination, or other corrective measures taken against your account at our sole discretion. Furthermore, any instances of fraudulent activity, including unauthorized purchases or tampering with our software, will lead to the immediate termination of your account.** You are solely responsible for safeguarding your account from unauthorized access or misuse.
     
 3. Limited License
     ---------------

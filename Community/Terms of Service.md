@@ -27,7 +27,7 @@ Terms of Service
 
 Last Updated:
 
-February 11, 2024
+August 1, 2024
 
 ###### [⇤ Back to legal hub](https://www.community.com/legal-hub)  
   
@@ -43,9 +43,7 @@ PAGE contents
 
 This terms of service agreement (“**Terms**”) sets forth the terms under which Community.com, Inc. (“**we**,” “**our**,” or “**us**”) provides our messaging services, including our apps, features, software, and website (“**Community**”).
 
-‍**Please note, users of the J Balvin Super Bowl Experience are chatting with a trained AI and not J Balvin himself**.
-
-‍**Users of the J Balvin Experience and other Third Party experiences please read these Terms carefully.** These terms contain (a) the general Terms that govern your use of and access to any and all of Community, as well as (b) our provision of Community with third party products and/or services. Additional terms also apply to specific services and experiences offered with Community as set forth in [Third Party Disclosures](https://www.community.com/legal/third-party-disclosures). Finally, certain offline or online services, experiences and features may have additional terms and conditions specific to them as communicated online, in advertising or in person, and those additional terms and conditions are incorporated herein by reference. If there is a conflict between these Terms and the terms posted for or applicable to a specific portion any service or experience offered with our Service, the latter terms shall control with respect to your use of that portion of the service.
+These terms contain (a) the general Terms that govern your use of and access to any and all of Community, as well as (b) our provision of Community with third party products and/or services. Additional terms also apply to specific services and experiences offered with Community as set forth in [Third Party Disclosures](https://www.community.com/legal/third-party-disclosures). Finally, certain offline or online services, experiences and features may have additional terms and conditions specific to them as communicated online, in advertising or in person, and those additional terms and conditions are incorporated herein by reference. If there is a conflict between these Terms and the terms posted for or applicable to a specific portion any service or experience offered with our Service, the latter terms shall control with respect to your use of that portion of the service.
 
 **IF YOU ARE LOCATED IN THE UNITED STATES OR CANADA, EXCEPT WHERE PROHIBITED BY LAW (WHICH MAY INCLUDED THE PROVINCE OF QUEBEC),YOU AGREE THAT DISPUTES BETWEEN US WILL BE RESOLVED BY BINDING, INDIVIDUAL ARBITRATION, AND YOU WAIVE YOUR RIGHT TO PARTICIPATE IN A CLASS ACTION LAWSUIT OR CLASS-WIDE ARBITRATION. WE EXPLAIN SOME EXCEPTIONS BELOW. PLEASE REVIEW SECTION 13.**
 

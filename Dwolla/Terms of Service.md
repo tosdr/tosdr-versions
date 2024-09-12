@@ -7,6 +7,7 @@
         * [Digital Wallet](https://www.dwolla.com/features/digital-wallet)
         * [Dwolla Dashboard](https://www.dwolla.com/features/dashboard)
         * [Mass Pay](https://www.dwolla.com/features/mass-pay)
+        * [Drop-In Components](https://www.dwolla.com/features/drop-in-components/)
         * [Webhooks](https://www.dwolla.com/features/webhooks)
         * [Correlation ID](https://www.dwolla.com/features/correlation-id/)
         * [Addenda Records](https://www.dwolla.com/features/addenda-records)
@@ -53,6 +54,7 @@
         * [Digital Wallet](https://www.dwolla.com/features/digital-wallet)
         * [Dwolla Dashboard](https://www.dwolla.com/features/dashboard)
         * [Mass Pay](https://www.dwolla.com/features/mass-pay)
+        * [Drop-In Components](https://www.dwolla.com/features/drop-in-components/)
         * [Webhooks](https://www.dwolla.com/features/webhooks)
         * [Correlation ID](https://www.dwolla.com/features/correlation-id/)
         * [Addenda Records](https://www.dwolla.com/features/addenda-records)
@@ -118,6 +120,9 @@ Access and manage your payments data through our user-friendly interface.
 **[Mass Pay](https://www.dwolla.com/features/mass-pay)**  
 Send multiple bank transfers with a single API request.
 
+[**Drop-In Components**](https://www.dwolla.com/features/drop-in-components/)  
+Complete a payment integration more quickly using pre-built components.
+
 [**Webhooks**](https://www.dwolla.com/features/webhooks)  
 Real-time notifications.
 
@@ -154,10 +159,20 @@ LEGAL DOCUMENTATION
 
 Account Terms of Service
 
+Summary of Changes to the Dwolla Account Terms of Service - July 31, 2024  
+We are updating the Dwolla Account Terms of Service, which applies to your use of the Dwolla Account, Dwolla-Enabled Services and/or Dwolla Platform. The following provides a summary of the changes to the Dwolla Account Terms of Service. To see all of the changes, please read the full Dwolla Account Terms of Service.
+
+1. Under the header, we updated the Last Updated date to July 31, 2024.
+2. In Section 5.2 we changed Financial Institution Partner to Financial Institution Partners, added a reference to Veridian Credit Union's Notice of Your Financial Privacy Rights, and changed the Real-Time Payments record retention requirement to 7 years.
+3. We updated a section reference in Section 7.3.
+4. In the About Our Financial Institution Partners page, we added language that Real-Time Payments are performed by Veridian Credit Union.
+
+  
+
 Dwolla Account Terms of Service
 -------------------------------
 
-Last Updated: October 21, 2022
+Last Updated: July 31, 2024
 
 These Dwolla Account Terms of Service (“TOS”) are a legally binding agreement between you, Dwolla, Inc. (“Dwolla”) and our financial institution partners, each a party insofar as you will access one of the services they provide (“Financial Institution Partner”). This TOS applies to your creation and use of a Dwolla Account (“Account”) provided to you through one of Dwolla’s clients. Dwolla offers a payment software platform (the “Dwolla Platform”) to its clients, who use the Dwolla Platform to provide services to consumers and/or businesses like you. The Dwolla Platform permits users to initiate and send payment instructions to one or more of our Financial Institution Partners, who will provide the funds transfer services based on those instructions.
 
@@ -207,7 +222,7 @@ We may amend this TOS at any time by posting a revised version on dwolla.com or 
 5. ### Payment Method Specific Terms.
     
     1. **ACH Payments.** You agree that you will provide us sufficient information to satisfy the requirements of the Nacha Operating Rules to create instructions to make or receive a payment in the ACH network. Dwolla has established cutoff times for receipt of payment instructions and you understand that Dwolla cannot and does not guarantee any specific time in which ACH transactions initiated through your Dwolla Account will be completed. For questions regarding any specific transaction or its anticipated timing, please contact the Dwolla client who provides you access to your Dwolla Account or the Dwolla-Enabled Services.
-    2. Real Time Payments. If the Dwolla client who provides you access to your Dwolla Account or the Dwolla-Enabled Services offers Real Time Payments (“RTP”) as an eligible payment method, these terms apply to your use of RTP. The RTP Network is owned and operated by The Clearing House. RTP transfers are made by our [Financial Institution Partner](https://www.dwolla.com/legal/about-our-financial-institution-partners). By submitting an RTP payment instruction, you agree that we may share your information with our Financial Institution Partner and that you have read and you accept the [Cross River Bank Privacy Notice](https://www.crossriver.com/privacy-notice). You shall transmit to Dwolla all information necessary to effectuate payment in accordance with the RTP Rules established by The Clearing House. You represent and warrant that (i) each RTP instruction you submit is made in accordance with the RTP Rules; (ii) as Sender of such RTP transaction, you authorize our Financial Institution Partners to initiate such payment and to debit your Linked Payment Account and send a credit to the Receiver’s account in the amount set out in your instruction; (iii) your RTP transaction is initiated in connection with a separate agreement with the Receiver; and (iv) such RTP transaction does not violate applicable law. You agree that you shall enter into an agreement with each of the Receivers prior to sending Dwolla an RTP transaction in which they authorize you to send such RTP transaction. Further, you agree that you waive, release, and discharge all rights or claims against our Financial Institution Partners in connection with the RTP services. You agree to retain records related to your RTP transactions for 6 years following the date you send such RTP instruction to Dwolla and to provide such data to Dwolla upon request. Without limiting the generality of the foregoing, you may not send RTP transactions (y) that exceed the limits provided for in the RTP Rules or any other applicable transaction limits expressly imposed on your Dwolla Account or (z) to any account not located within the United States.
+    2. Real Time Payments. If the Dwolla client who provides you access to your Dwolla Account or the Dwolla-Enabled Services offers Real Time Payments (“RTP”) as an eligible payment method, these terms apply to your use of RTP. The RTP Network is owned and operated by The Clearing House. RTP transfers are made by our [Financial Institution Partners](https://www.dwolla.com/legal/about-our-financial-institution-partners). By submitting an RTP payment instruction, you agree that we may share your information with our Financial Institution Partners and that you have read and you accept the [Cross River Bank Privacy Notice](https://www.crossriver.com/privacy-notice) and Veridian Credit Union’s [Notice of Your Financial Privacy Rights](https://www.veridiancu.org/webres/File/privacy-policy.pdf). You shall transmit to Dwolla all information necessary to effectuate payment in accordance with the RTP Rules established by The Clearing House. You represent and warrant that (i) each RTP instruction you submit is made in accordance with the RTP Rules; (ii) as Sender of such RTP transaction, you authorize our Financial Institution Partners to initiate such payment and to debit your Linked Payment Account and send a credit to the Receiver’s account in the amount set out in your instruction; (iii) your RTP transaction is initiated in connection with a separate agreement with the Receiver; and (iv) such RTP transaction does not violate applicable law. You agree that you shall enter into an agreement with each of the Receivers prior to sending Dwolla an RTP transaction in which they authorize you to send such RTP transaction. Further, you agree that you waive, release, and discharge all rights or claims against our Financial Institution Partners in connection with the RTP services. You agree to retain records related to your RTP transactions for 7 years following the date you send such RTP instruction to Dwolla and to provide such data to Dwolla upon request. Without limiting the generality of the foregoing, you may not send RTP transactions (y) that exceed the limits provided for in the RTP Rules or any other applicable transaction limits expressly imposed on your Dwolla Account or (z) to any account not located within the United States.
 6. ### No Endorsement.
     
     1. Dwolla does not endorse, guarantee, or sponsor any of the Dwolla clients who provide you with the Dwolla-Enabled Services. We are not responsible for the provision or failure to provide any services or goods by the Dwolla client or any other act or omission of such Dwolla client. Your relationship with such Dwolla client is governed by the terms of the agreements you enter into directly for the Dwolla client’s services.
@@ -215,7 +230,7 @@ We may amend this TOS at any time by posting a revised version on dwolla.com or 
     
     1. Notification of Dwolla Account Errors. Contact Dwolla immediately at [compliance@dwolla.com](mailto:compliance@dwolla.com) or 1-888-289-8744 if you believe that (i) your Dwolla Account has been accessed without your authorization; (ii) a transaction has occurred that you did not authorize; (iii) a transaction has been processed incorrectly to or from your Dwolla Account or your Linked Payment Account; or (iv) your Dwolla Account transaction history made available to you by the Dwolla client providing the Dwolla-Enabled Services contains an error (each, an “Error”). For clarity, if you give a third party access to your Dwolla Account and that person conducts transactions you did not anticipate, these transactions are not Errors. You must notify us within sixty (60) days after the Error first appeared in your transaction history.
     2. **Required Information for Notice.** When you notify us of the Error, you must provide: (i) Your name and the name of the Dwolla client who provides you with access to your Dwolla Account; (ii) the nature of the suspected Error and why you believe it is an Error; and (iii) the dollar amount of the Error. If you notify us by phone, you must provide this information in an email within ten (10) business days.
-    3. **Investigation of Errors.** We will determine whether an Error occurred within ten (10) business days after you notify us and provide all required information in Section 6(b). If we need more time, we may take up to 45 days to investigate but we will credit your Dwolla Account within ten (10) business days for the amount of the suspected error. For Errors involving new Dwolla Accounts, we may take up to 90 days to investigate and may take up to 20 business days to credit your Dwolla Account. We will tell you the results of our investigation within 3 business days after completing our investigation. If we determine there was no Error, we will provide you a written explanation. You may ask for copies of the documents that we used in our investigation.
+    3. **Investigation of Errors.** We will determine whether an Error occurred within ten (10) business days after you notify us and provide all required information in Section 7.2. If we need more time, we may take up to 45 days to investigate but we will credit your Dwolla Account within ten (10) business days for the amount of the suspected error. For Errors involving new Dwolla Accounts, we may take up to 90 days to investigate and may take up to 20 business days to credit your Dwolla Account. We will tell you the results of our investigation within 3 business days after completing our investigation. If we determine there was no Error, we will provide you a written explanation. You may ask for copies of the documents that we used in our investigation.
 8. ### Your Liability and Actions We May Take.
     
     1. **Your Liability.** You are responsible for all reversed or failed transactions, fees, claims, fines, penalties, and other liabilities incurred by Dwolla, our Financial Institution Partners, or other Dwolla customers arising from your use of your Dwolla Account or the Dwolla-Enabled Services or any breach of this TOS. Without limiting the foregoing, you agree to reimburse Dwolla or our Financial Institution Partners for any liability relating to a transaction that: (i) is reversed in accordance with Dwolla or its Financial Institution Partners’ risk management policies; (ii) is reversed in accordance with applicable laws, including without limitation, by ACH return (as that term is defined under the Nacha Rules), (iii) fails due to your error; (iv) fails due to the provision of inaccurate information; or (v) is cancelled or rejected by you or the recipient or sender, or your or their bank or credit union (each, a “Reversal”).
@@ -260,8 +275,12 @@ We may amend this TOS at any time by posting a revised version on dwolla.com or 
 * [Payment Methods](javascript:;)
     * [Standard ACH](https://www.dwolla.com/features/standard-ach)
     * [Same Day ACH](https://www.dwolla.com/features/same-day-ach/)
-    * [Real-Time Payment](https://www.dwolla.com/features/instant-payments)
+    * [Instant Payments](https://www.dwolla.com/features/instant-payments)
 * [Features](javascript:;)
+    * [Digital Wallet](https://www.dwolla.com/features/digital-wallet)
+    * [Dwolla Dashboard](https://www.dwolla.com/features/dashboard)
+    * [Mass Pay](https://www.dwolla.com/features/mass-pay)
+    * [Drop-In Components](https://www.dwolla.com/features/drop-in-components/)
     * [Webhooks](https://www.dwolla.com/features/webhooks)
     * [Correlation ID](https://www.dwolla.com/features/correlation-id/)
     * [Addenda Records](https://www.dwolla.com/features/addenda-records)

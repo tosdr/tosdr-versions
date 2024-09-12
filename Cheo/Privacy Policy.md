@@ -50,16 +50,16 @@ Accessible formats and communication supports are available, please contact [acc
     
 * [Clinics, Services & Programs](https://www.cheo.on.ca/modules/atoz/Programs-Services.aspx?lang=en "View our Clinics, Services & Programs page")
     
-    * [Directory](https://www.cheo.on.ca/modules/atoz/Programs-Services.aspx?lang=en "View our Directory page")
+    * [A-Z Directory](https://www.cheo.on.ca/modules/atoz/Programs-Services.aspx?lang=en&_mid_=1574 "View our Directory page")
+    * [Core Innovation](https://www.cheo.on.ca/en/clinics-services-programs/core-innovation.aspx "View our Core Innovation page")
     * [Emergency care](https://www.cheo.on.ca/en/clinics-services-programs/emergency-care.aspx?_mid_=1652 "View our Emergency care page")
-    * [IR/Cath and Sim Labs](https://www.cheo.on.ca/en/clinics-services-programs/ir-cath-and-sim-lab.aspx "View our IR/Cath and Sim Labs page")
     
+    * [IR/Cath and Sim Labs](https://www.cheo.on.ca/en/clinics-services-programs/ir-cath-and-sim-lab.aspx "View our IR/Cath and Sim Labs page")
     * [Make a referral](https://www.cheo.on.ca/en/clinics-services-programs/make-a-referral.aspx "View our Make a referral page")
     * [Mental health](https://www.cheo.on.ca/en/clinics-services-programs/mental-health.aspx "View our Mental health page")
-    * [School](https://www.cheo.on.ca/en/clinics-services-programs/school.aspx "View our School page")
     
+    * [School](https://www.cheo.on.ca/en/clinics-services-programs/school.aspx "View our School page")
     * [Surgical care](https://www.cheo.on.ca/en/clinics-services-programs/getting-ready-for-surgery.aspx?_mid_=1664 "View our Surgical care page")
-    * [Technology Enabling Child Health Innovations (TECHi)](https://www.cheo.on.ca/en/clinics-services-programs/8-80-incubator-program.aspx "View our Technology Enabling Child Health Innovations (TECHi) page")
     * [Virtual care](https://www.cheo.on.ca/en/clinics-services-programs/virtual-care.aspx "View our Virtual care page")
     
 * [Resources and Support](https://www.cheo.on.ca/modules/atoz/index.aspx?lang=en "View our Resources and Support page")
@@ -108,7 +108,7 @@ Search
 Privacy and confidentiality
 ===========================
 
-![Mother and child smiling at camera](/en/rotatingimages/defaultInterior/Banner-12.jpg)
+![Boy in wheelchair and father smiling at each other](/en/rotatingimages/defaultInterior/Banner-8.jpg)
 
 [Regular](# "Default text size") [Large](# "Increase to Large text size") [X-Large](# "Increase to X-Large text size")
 

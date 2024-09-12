@@ -115,7 +115,7 @@ How we use cookies
     
     From time to time our web pages contain special offers and we may use cookies to provide customers with these offers. This requires you to have cookies enabled to ensure these cookies are stored on your computer when applying.
     
-    We use Google Analytics to better understand the way in which our customers use our websites, helping us to improve your digital experience. Google Analytics uses cookies to collect information and report site usage statistics without personally identifying individuals. You can find out further information regarding Google Analytics [https://support.google.com/analytics/answer/12159447?hl=en](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsupport.google.com%2Fanalytics%2Fanswer%2F12159447%3Fhl%3Den&data=05%7C01%7CJo.Jones%40cba.com.au%7Cf8f81681136844616d7508db367fd78b%7Cdddffba06c174f3497483fa5e08cc366%7C0%7C0%7C638163694927740638%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=ZEm6Fxon1a5HU7lL86gKbi6SIQgoAp9adVpd4VgURog%3D&reserved=0)
+    We use Google Analytics to better understand the way in which our customers use our websites, helping us to improve your digital experience. Google Analytics uses cookies to collect information and report site usage statistics without personally identifying individuals. You can find out further information regarding Google Analytics [https://support.google.com/analytics/answer/12159447?hl=en](https://support.google.com/analytics/answer/12159447?hl=en)
     
 
 How to block or delete cookies

@@ -46,11 +46,13 @@ Contact details: [\[email protected\]](https://www.conflictnations.com/cdn-cgi/
 
 **2\. What information do we collect from you?**
 
-Information you provide voluntarily when using our services:
+Information you provide voluntarily when using our services such as playing our games:
 
 Your name, email address, or other contact information communicated to us.
 
 Any Personal Data provided in any communication channel available in our Services.
+
+Account information such as nickname, email and chosen login method.
 
 If you have subscribed to our communications, your content preferences or other information you submit to us when subscribing to our communications.
 
@@ -81,6 +83,8 @@ Processing is necessary to perform our contract with you in respect of our Servi
 Information provided voluntarily by you is used to enable you to use our Services and administer the Services.
 
 Information provided voluntarily by you and automatically collected data is used to provide, maintain, enhance and personalise the Service(s) (including selecting an appropriate language version for you based on your location).
+
+To take the appropriate actions in accordance with our Terms and Conditions and Game rules.
 
 Automatically collected data is used to know your preferences and to try to ensure that the content on our Website is presented in the most effective manner for you and your computer or mobile device, based on your browsing history on our services.
 
@@ -116,7 +120,7 @@ Based on our legitimate interest to facilitate performance marketing.
 
 Automatically generated data, that is not identifiable to you, specifically aggregated data regarding recency and frequency of player events such as “watched in-game advertising” or “in-app purchases” is used to understand and measure player lifetime value. Through this data, we can analyse expected future revenue from our players.
 
-Based on our legitimate interest to provide you with interest-based services and advertisement.
+Based on our legitimate interest to provide you with interest-based services and contextual advertisement.
 
 We use ad identifiers, third-party tracking ID's (such as AppsFlyer ID) and similar technologies to collect data from your device. Information from third party providers is combined with features including device type, system language and IP address to create a unique player ID. This is done for the purpose of recognising you and your device and providing you with customised player experiences and interest-based advertising.
 
@@ -134,8 +138,8 @@ In addition, we may process your data for additional purposes which are compatia
 
 Your Personal Data will (for the purposes described in this Privacy Policy) be transferred or disclosed to third parties, for the processing of that Personal Data on our behalf, such as to:
 
-* Other companies in the Stillfront Group, where they help us develop, market or operate our and affiliated Services will receive access to all available Personal Data. For information on the entities within Stillfront Group, see the most recent annual report published on https://www.stillfront.com/en/reports-presentations/, as updated from time to time.
-* For analytical and optimization purposes, we collect and transfer automatically generated data such as your recent visits to our services and how you move around different sections, in order to make our services more intuitive and evaluate user needs and preferences. This data will be shared with a limited group of employees in the Stillfront Group.
+* Other companies in the Stillfront Group, where they help us develop, administrate, market or operate our and affiliated Services will receive access to all available and required Personal Data. For information on the entities within Stillfront Group, see the most recent annual report published on https://www.stillfront.com/en/reports-presentations/, as updated from time to time.
+* For analytical, and optimization purposes, we collect and transfer automatically generated data such as your recent visits to our services and how you move around different sections, in order to make our services more intuitive and evaluate user needs and preferences. This data will be shared with a limited group of employees in the Stillfront Group.
 * Persons or companies that provide services to us and process Personal Data on our behalf when providing those services.
 * Professional advisors such as external legal and audit services etc. Personal Data shared will consist of information you provide voluntarily when using our Services and data collected from your device by automatic means.
 * Third parties to whom we outsource or collaborate with for certain services such as, without limitation, document processing and translation services, marketing, confidential waste disposal, IT systems or software providers, IT Support service providers, document and information storage providers such as Dropbox, Amazon Web Services, etc. Data shared will consist of information you provide voluntarily when using our Services and data collected from your device by automatic means.
@@ -148,7 +152,7 @@ When Personal Data is shared with our business partners, group affiliates or oth
 
 5\. Appropriate Safeguards to countries outside the EU/EEA-area
 
-In connection with some processing activities described in this Privacy Policy we share information outside of the European Union (“**EU**”) and the European Economic Area (“**EEA**”). For example, a number of servers we use for hosting data are located in the United States, and some of our group companies or the service providers we use to provide the Services may be located outside of the EU and the EEA. Where the Company transfers Personal Data outside the EU/EEA, The Company will ensure that Standard Contractual Clauses have been entered into between the transferring entity and the receiving external party. Additional safeguards will also be put in place prior to such transfers.
+In connection with some processing activities described in this Privacy Policy we share information outside of the European Union (“**EU**”) and the European Economic Area (“**EEA**”). For example, a number of servers and service providers we use for hosting and processing data are located in the United States, and some of our group companies we collaborate with to provide and optimise the Services may be located outside of the EU and the EEA. Where the Company transfers Personal Data outside the EU/EEA, The Company will ensure that Standard Contractual Clauses have been entered into between the transferring entity and the receiving external party. Additional safeguards will also be put in place prior to such transfers.
 
 Data shared will consist of information you provide voluntarily when using our Services and data collected from your device by automatic means. You are under Data Privacy Laws upon request entitled to receive a copy of any documentation demonstrating that appropriate safeguards have been taken in order to protect your Personal Data during a transfer outside the EU/EEA. You can do so by reaching out to our Data Processing Officer [\[email protected\]](https://www.conflictnations.com/cdn-cgi/l/email-protection)
 
@@ -194,3 +198,28 @@ In relation to our processing of your Personal Data you have, under certain circ
 9\. Changes to the terms of this Privacy Policy
 
 We may update this Privacy Policy from time to time, for example due to changes in our operations or the legal obligations that apply to us. Updates will be made available here. We will also inform you of any changes by other means that are appropriate to the significance of the changes.
+
+Last updated: 2024-08-13
+
+US RESIDENTS
+
+If you are based in the United States and connecting from states in which data protection laws have been enacted this section forms part of the Privacy Policy and should be read together with the other sections of the Privacy Policy. If there is any conflict between this section and the remainder of the Privacy Policy, this section shall prevail.Dorado Games\] does not sell personal data and has not done so in the last 12 months. We may share identifiers and cookie information with our third-party advertisement platforms to provide you with interest based and personalized advertisements, attribute installs and optimize our marketing, to the extent such practices are considered a “sale” under Applicable Data Protection Law you may opt out by following the steps below. For more information on our personal data collection please see the sections in this Privacy Policy concerning our data processing.
+
+* _Opt Out_
+* You have the right to opt-out of the sale or sharing of your personal information by us for targeted advertising purposes, “sale” or for profiling with Legal or significant effect on you. How to opt out is dependent on the service you use, for more information see section 8 of this privacy policy. Your opt out may be limited to the specific service.
+* _Access and Data Portability:_
+* You may have the right to request details about the Personal Data we have collected about you. You may also have the right to receive a copy of your Personal Data.
+* _Right to Correction_
+* You may have the right to request we correct incorrect or inaccurate Personal Data, subject to restrictions regarding the determination of accuracy of the existing Personal Data.
+* _Right to Deletion_
+* You may have the right to request deletion of your Personal data unless an exception applies.
+* _Right to nondiscrimination_
+* We will not change the quality of our services, deny you access or provide a different level of quality if you choose to exercise these rights, unless allowed or required under applicable law. Some rights might impact the usage and availability of certain services, such as personalization and deletion.
+* _Right to Appeal_
+* If we deny or reject your privacy rights request, you may have a right to appeal our decision if permitted by your state’s privacy law.
+* _Right of limitation;_
+* Depending on your state of residence you may have the right to ask us to limit the use of your sensitive personal information if we use it to infer characteristics about you. To exercise this right please use the provided opt out tools or contact us under the method described in section 8. Your right to limitation is subject to exception and depending on the state we will obtain your consent before collection of sensitive personal information.
+
+California Shine the Light (only applicable on California residents)
+
+Under California’s “Shine the Light” law, California residents who provide personal information (as defined by applicable California law) in obtaining products or services for personal, family, or household use are entitled to request and obtain from us once a calendar year information about the customer information we shared, if any, with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the prior calendar year. To obtain this information please send an email message to [\[email protected\]](https://www.conflictnations.com/cdn-cgi/l/email-protection) with “Request for California Privacy Information” on the subject line and in the body of your message. We may require you to verify your identity, and the information is limited to that covered by the California Shine the light law under this request.

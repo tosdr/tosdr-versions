@@ -29,7 +29,7 @@
     * [Philanthropy](https://www.bloomberg.com/company/philanthropy/?utm_source=bloomberg-menu&utm_medium=notices)
     * [Sustainability](https://www.bloomberg.com/company/sustainability/?utm_source=bloomberg-menu&utm_medium=notices)
     * [Bloomberg London](https://www.bloomberg.com/london/?utm_source=bloomberg-menu&utm_medium=notices)
-    * [Bloomberg Beta](https://www.bloomberg.com/company/beta/?utm_source=bloomberg-menu&utm_medium=notices)
+    * [Bloomberg Beta](https://www.bloomberg.com/company/values/tech-at-bloomberg/bloomberg-beta/?utm_source=bloomberg-menu&utm_medium=notices)
     * [Gender-Equality Index](https://www.bloomberg.com/gei?utm_source=bloomberg-menu&utm_medium=notices)
     
     ### Communications
@@ -89,7 +89,7 @@
     * [Philanthropy](https://www.bloomberg.com/company/philanthropy/?utm_source=bloomberg-menu&utm_medium=notices)
     * [Sustainability](https://www.bloomberg.com/company/sustainability/?utm_source=bloomberg-menu&utm_medium=notices)
     * [Bloomberg London](https://www.bloomberg.com/london/?utm_source=bloomberg-menu&utm_medium=notices)
-    * [Bloomberg Beta](https://www.bloomberg.com/company/beta/?utm_source=bloomberg-menu&utm_medium=notices)
+    * [Bloomberg Beta](https://www.bloomberg.com/company/values/tech-at-bloomberg/bloomberg-beta/?utm_source=bloomberg-menu&utm_medium=notices)
     * [Gender-Equality Index](https://www.bloomberg.com/gei?utm_source=bloomberg-menu&utm_medium=notices)
     
     ### Communications
@@ -414,7 +414,7 @@ From time to time, we offer introductory pricing at a reduced rate for a specifi
 
 For all Introductory Offers, we will require you to provide payment details to start a Subscription to Bloomberg.com. By providing such details you agree that we will automatically charge the full price of the Paid Subscription on the first day following the end of the Introductory Offer on a recurring monthly basis or another interval that we disclose to you in advance.
 
-IF YOU DO NOT WANT THIS CHARGE, YOU MUST CANCEL YOUR  SUBSCRIPTION BEFORE THE END OF THE INTRODUCTORY PERIOD BY **[CONTACTING CUSTOMER SUPPORT](https://www.bloomberg.com/feedback/)**.  IF YOU RECEIVED YOUR INTRODUCTORY OFFER THROUGH A THIRD PARTY, YOU MUST CANCEL THE APPLICABLE PAID SUBSCRIPTION THROUGH THE THIRD PARTY.
+IF YOU DO NOT WANT THIS CHARGE, YOU MUST CANCEL YOUR  SUBSCRIPTION BEFORE THE END OF THE INTRODUCTORY PERIOD BY **[CONTACTING CUSTOMER SUPPORT](https://www.bloomberg.com/help/question/cancel-digital-access-subscription/)**.  IF YOU RECEIVED YOUR INTRODUCTORY OFFER THROUGH A THIRD PARTY, YOU MUST CANCEL THE APPLICABLE PAID SUBSCRIPTION THROUGH THE THIRD PARTY.
 
 ### 4\. Acceptable Use
 
@@ -607,8 +607,8 @@ The contact at our New York office is: Paul Ramundo, Phone: [+1 (212) 617-7816](
 * [Careers](#)
     * [What we do](https://www.bloomberg.com/company/what-we-do/)
     * [Working here](https://www.bloomberg.com/company/careers/working-here/)
-    * [Early career](https://www.bloomberg.com/company/careers/early-career/)
-    * [Search jobs](https://careers.bloomberg.com/job/search)
+    * [Early career](https://www.bloomberg.com/company/early-careers/)
+    * [Search jobs](https://bloomberg.avature.net/en_US/careers/SearchJobs)
 * [Press](#)
     * [Press releases](https://www.bloomberg.com/company/press/)
     * [Press contacts](https://www.bloomberg.com/company/press-contacts/)

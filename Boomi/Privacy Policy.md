@@ -20,9 +20,9 @@
         *   [![API Management icon](https://boomi.com/wp-content/uploads/API-Management-icon-1.png)API Management
             
             Deploy and manage APIs without complexity.](https://boomi.com/platform/api-management/)
-        *   [![Boomi Master Data Hub Coral Icon](https://boomi.com/wp-content/uploads/Boomi-Master-Data-Hub-Coral-Icon-1.png)Master Data Hub
+        *   [![Boomi Master Data Hub Coral Icon](https://boomi.com/wp-content/uploads/Boomi-Master-Data-Hub-Coral-Icon-1.png)DataHub
             
-            Synchronized 360-degree view of your data.](https://boomi.com/platform/master-data-hub/)
+            The foundation for trusted data.](https://boomi.com/platform/datahub/)
         *   [![B2B EDI Management Coral Icon](https://boomi.com/wp-content/uploads/B2B-EDI-Management-Coral-Icon-1.png)B2B/EDI Management
             
             Collaborate with trading partners.](https://boomi.com/platform/b2b-management/)
@@ -109,7 +109,7 @@
     * [Learn](#)
         * [Resources Hub
             
-            Explore Boomi’s library of marketing resources.](https://resources.boomi.com/resources)
+            Explore Boomi’s library of marketing resources.](https://resources.boomi.com/)
         * [Events
             
             Join the Boomi team at upcoming events.](https://boomi.com/company/events/)
@@ -192,9 +192,9 @@
         *   [![B2B EDI Management Coral Icon](https://boomi.com/wp-content/uploads/B2B-EDI-Management-Coral-Icon-1.png)B2B/EDI Management
             
             Collaborate with trading partners.](https://boomi.com/platform/b2b-management/)
-        *   [![Boomi Master Data Hub Coral Icon](https://boomi.com/wp-content/uploads/Boomi-Master-Data-Hub-Coral-Icon-1.png)Master Data Hub
+        *   [![Boomi Master Data Hub Coral Icon](https://boomi.com/wp-content/uploads/Boomi-Master-Data-Hub-Coral-Icon-1.png)DataHub
             
-            Synchronized 360-degree view of your data.](https://boomi.com/platform/master-data-hub/)
+            Synchronized 360-degree view of your data.](https://boomi.com/platform/datahub/)
         *   [![Flow](https://boomi.com/wp-content/uploads/Flow-2.png)Flow
             
             Build apps and automate workflows with low-code.](https://boomi.com/platform/flow/)
@@ -266,7 +266,7 @@
     * [LEARN](#)
         * [Resources Hub
             
-            Explore Boomi’s library of marketing resources.](https://resources.boomi.com/resources)
+            Explore Boomi’s library of marketing resources.](https://resources.boomi.com/)
         * [Events
             
             Join the Boomi team at upcoming events.](https://boomi.com/company/events/)
@@ -318,6 +318,7 @@
 Privacy Statement
 =================
 
+  
 This Privacy Statement applies to Boomi, LP (“Boomi,” “we,” “us,” or “our”) and explains how information you provide to us or that we obtain about you from your use of our websites, products and services, is used and shared.
 
 Our privacy practices set forth here reflect Boomi’s activity as a data controller. This Privacy Statement applies only to the https://platform.boomi.com/ and www.boomi.com websites (our “Website”) and does not apply to any Business Partners (as defined below); or to any other third parties, even if links to their websites are on our Website. We recommend that you review the privacy statements of the other parties with whom you interact.
@@ -422,7 +423,7 @@ LEGAL BASIS FOR PROCESSING
 
 Our legal basis for collecting and using your Personal Information as described in this Privacy Statement will depend on the Personal Information concerned and the specific context in which we collect it. In general, we collect and process your Personal Information on one or more of the following bases:
 
-* Your consent, for example where we have obtained your consent to process your Personal Information for certain activities (such as the use of cookies for online tracking and analysis). You are free to withdraw your consent at any time by clicking [here](https://info.evidon.com/pub_info/15700?v=1&amp;nt=0&amp;nw=false).
+* Your consent, for example where we have obtained your consent to process your Personal Information for certain activities (such as the use of cookies for online tracking and analysis). You are free to withdraw your consent at any time by clicking here.
 * If you withdraw your consent, it will not affect the lawfulness of any processing based on your consent before you withdrew it. Where applicable, we may ask for your consent to processing at the point where you provide your Personal Information.
 * To comply with a contractual obligation (for example, using your shipment details to make delivery where you have bought a product from us or using your personal details where you have asked us to do something before making a purchase, such as providing you with a quote). We will advise you upon collection whether the provision of your Personal Information is mandatory and of the possible consequences if you do not provide us with your information.
 * For compliance with Boomi’s legal obligations where other laws require the processing of your Personal Information (for example, health and safety, taxation and anti-money laundering laws) or where we need your Personal Information to protect your vital interests or those of another person.
@@ -532,7 +533,7 @@ Boomi also works with third party advertising and personalization partners that 
 
 Similarly, third parties use cookies to deliver advertising for companies other than Boomi to you on the Internet, based on your visits to our Website and other websites, and to measure the effectiveness of those advertising campaigns. These cookies assist the third parties in identifying the pages you view, the links and ads you click on, other actions you take on those web pages, and the site from which you came before arriving at a web page.
 
-To enable you to opt-out of interest-based advertising delivered by partners working with Boomi, or to customize your experience on our Website, please click here to [Manage Cookies](https://info.evidon.com/pub_info/15700?v=1&amp;nt=0&amp;nw=false). If you opt-out, you may still see Boomi ads on our Website and other websites, but those ads will not be customized to you by Boomi or our partners.
+To enable you to opt-out of interest-based advertising delivered by partners working with Boomi, or to customize your experience on our Website, please click here to Manage Cookies. If you opt-out, you may still see Boomi ads on our Website and other websites, but those ads will not be customized to you by Boomi or our partners.
 
 ### TARGETED EMAIL MARKETING BY BOOMI
 
@@ -600,9 +601,9 @@ If you have questions about this Privacy Statement or would like to contact us f
     * [Leadership Team](https://boomi.com/company/leadership-team/)
     * [Awards](https://boomi.com/awards/)
     * [Careers](https://boomi.com/company/careers/)
-    * [Resources](https://resources.boomi.com/resources)
+    * [Resources](https://resources.boomi.com/)
 * [Get started](#)
-    * [Demo](https://boomi.com/boomi-demo/)
+    * [Demo](https://boomi.com/?page_id=78355)
     * [Trial](https://boomi.com/form/trial/)
     * [Contact us](https://boomi.com/company/contact/)
     * [Guided Tour](https://boomi.com/testdrive/#step1)

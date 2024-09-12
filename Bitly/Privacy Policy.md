@@ -1,10 +1,10 @@
 [Skip Navigation](#content)
 
-[![Bitly Logo](https://docrdsfx76ssb.cloudfront.net/static/1721741801/pages/wp-content/uploads/2021/08/bitly_logo.svg)](https://bitly.com/)
+[![Bitly Logo](https://docrdsfx76ssb.cloudfront.net/static/1725910790/pages/wp-content/uploads/2021/08/bitly_logo.svg)](https://bitly.com/)
 
 Menu
 
- [![Bitly Logo](https://docrdsfx76ssb.cloudfront.net/static/1721741801/pages/wp-content/uploads/2021/08/bitly_logo.svg)](https://bitly.com/)Menu
+ [![Bitly Logo](https://docrdsfx76ssb.cloudfront.net/static/1725910790/pages/wp-content/uploads/2021/08/bitly_logo.svg)](https://bitly.com/)Menu
 
 Menu
 
@@ -12,33 +12,33 @@ Menu
     
     ### Products
     
-    * ![](https://docrdsfx76ssb.cloudfront.net/static/1721741801/pages/wp-content/uploads/2024/05/link-icon.svg)[URL Shortener  
+    * ![](https://docrdsfx76ssb.cloudfront.net/static/1725910790/pages/wp-content/uploads/2024/05/link-icon.svg)[URL Shortener  
         **Customize, share and track links**](https://bitly.com/pages/products/url-shortener)
-    * ![](https://docrdsfx76ssb.cloudfront.net/static/1721741801/pages/wp-content/uploads/2024/05/qr-icon.svg)[QR Codes  
+    * ![](https://docrdsfx76ssb.cloudfront.net/static/1725910790/pages/wp-content/uploads/2024/05/qr-icon.svg)[QR Codes  
         **Dynamic solutions to fit every business need**](https://bitly.com/pages/products/qr-codes)
-    * ![](https://docrdsfx76ssb.cloudfront.net/static/1721741801/pages/wp-content/uploads/2024/05/barcode-icon.svg)[2D Barcodes  
+    * ![](https://docrdsfx76ssb.cloudfront.net/static/1725910790/pages/wp-content/uploads/2024/05/barcode-icon.svg)[2D Barcodes  
         **Add a Global Trade Number (GTIN) to QR Codes designed for packaging**](https://bitly.com/pages/products/2d-barcodes)
-    * ![](https://docrdsfx76ssb.cloudfront.net/static/1721741801/pages/wp-content/uploads/2024/05/analytics-icon.svg)[Analytics  
+    * ![](https://docrdsfx76ssb.cloudfront.net/static/1725910790/pages/wp-content/uploads/2024/05/analytics-icon.svg)[Analytics  
         **A central place to track and analyze performance of all short links and QR Codes**](https://bitly.com/pages/products/analytics)
-    * ![](https://docrdsfx76ssb.cloudfront.net/static/1721741801/pages/wp-content/uploads/2024/05/link-in-bio-icon.svg)[Pages  
+    * ![](https://docrdsfx76ssb.cloudfront.net/static/1725910790/pages/wp-content/uploads/2024/05/link-in-bio-icon.svg)[Pages  
         **Mobile-friendly, no-code landing pages**](https://bitly.com/pages/products/pages)
     
     ### Features
     
-    * ![](https://docrdsfx76ssb.cloudfront.net/static/1721741801/pages/wp-content/uploads/2024/05/link-in-bio-1.svg)[Link-in-bio  
+    * ![](https://docrdsfx76ssb.cloudfront.net/static/1725910790/pages/wp-content/uploads/2024/05/link-in-bio-1.svg)[Link-in-bio  
         **Curate and track links and content for social media profiles**](https://bitly.com/pages/features/link-in-bio)
-    * ![](https://docrdsfx76ssb.cloudfront.net/static/1721741801/pages/wp-content/uploads/2024/05/branded-links.svg)[Branded Links  
+    * ![](https://docrdsfx76ssb.cloudfront.net/static/1725910790/pages/wp-content/uploads/2024/05/branded-links.svg)[Branded Links  
         **Customize links with your brand’s URL**](https://bitly.com/pages/features/branded-links)
-    * ![](https://docrdsfx76ssb.cloudfront.net/static/1721741801/pages/wp-content/uploads/2024/05/mobile-links.svg)[Mobile Links  
+    * ![](https://docrdsfx76ssb.cloudfront.net/static/1725910790/pages/wp-content/uploads/2024/05/mobile-links.svg)[Mobile Links  
         **Short links for SMS messages**](https://bitly.com/pages/features/mobile-links)
-    * ![](https://docrdsfx76ssb.cloudfront.net/static/1721741801/pages/wp-content/uploads/2024/05/utm-campaigns.svg)[UTM Campaigns  
+    * ![](https://docrdsfx76ssb.cloudfront.net/static/1725910790/pages/wp-content/uploads/2024/05/utm-campaigns.svg)[UTM Campaigns  
         **Track links with UTM parameters**](https://bitly.com/pages/features/utm-links)
     
     ### Integrations
     
-    [![Logo for Hubspot integration](https://docrdsfx76ssb.cloudfront.net/static/1721741801/pages/wp-content/uploads/2022/12/Hubspot-Logo-150x150.png)
+    [![Logo for Hubspot integration](https://docrdsfx76ssb.cloudfront.net/static/1725910790/pages/wp-content/uploads/2022/12/Hubspot-Logo-150x150.png)
     
-    Bitly Hubspot Connector](https://bitly.com/pages/marketplace/hubspot-2)[![Logo for Canva integration](https://docrdsfx76ssb.cloudfront.net/static/1721741801/pages/wp-content/uploads/2023/08/canva-logo-app-connectors-150x150.png)
+    Bitly Hubspot Connector](https://bitly.com/pages/marketplace/hubspot-2)[![Logo for Canva integration](https://docrdsfx76ssb.cloudfront.net/static/1725910790/pages/wp-content/uploads/2023/08/canva-logo-app-connectors-150x150.png)
     
     Bitly + Canva Integration](https://bitly.com/pages/marketplace/canva)
     
@@ -78,14 +78,12 @@ Menu
     
     ### Use Cases
     
-    * [Order Confirmation](https://bitly.com/pages/use-case/order-confirmation-and-fulfillment)
-    * [Surveys and Feedback](https://bitly.com/pages/use-case/surveys-and-feedback)
-    * [Product Packaging](https://bitly.com/pages/use-case/product-packaging)
-    * [Print Advertising](https://bitly.com/pages/use-case/print-advertising)
-    * [Digital Advertising](https://bitly.com/pages/use-case/digital-advertising)
-    * [Content Sharing](https://bitly.com/pages/use-case/content-sharing)
-    
-    [See all use cases](#)
+    * [![](https://docrdsfx76ssb.cloudfront.net/static/1725910790/pages/wp-content/uploads/2024/05/check-circle.svg)Order Confirmation](https://bitly.com/pages/use-case/order-confirmation-and-fulfillment)
+    * [![](https://docrdsfx76ssb.cloudfront.net/static/1725910790/pages/wp-content/uploads/2024/05/user-survey.svg)Surveys and Feedback](https://bitly.com/pages/use-case/surveys-and-feedback)
+    * [![](https://docrdsfx76ssb.cloudfront.net/static/1725910790/pages/wp-content/uploads/2024/05/product-packaging.svg)Product Packaging](https://bitly.com/pages/use-case/product-packaging)
+    * [![](https://docrdsfx76ssb.cloudfront.net/static/1725910790/pages/wp-content/uploads/2024/05/print-ad.svg)Print Advertising](https://bitly.com/pages/use-case/print-advertising)
+    * [![](https://docrdsfx76ssb.cloudfront.net/static/1725910790/pages/wp-content/uploads/2024/05/digital-advertisement.svg)Digital Advertising](https://bitly.com/pages/use-case/digital-advertising)
+    * [![](https://docrdsfx76ssb.cloudfront.net/static/1725910790/pages/wp-content/uploads/2024/05/content-share.svg)Content Sharing](https://bitly.com/pages/use-case/content-sharing)
     
 * [Pricing](https://bitly.com/pages/pricing)
 * [Resources](#)
@@ -110,7 +108,7 @@ Menu
     
     ### What's new
     
-    [![Creativity with QR Codes Webinar Recap](https://docrdsfx76ssb.cloudfront.net/static/1721741801/pages/wp-content/uploads/2023/09/Site_resource_explosion-qr.png)
+    [![Creativity with QR Codes Webinar Recap](https://docrdsfx76ssb.cloudfront.net/static/1725910790/pages/wp-content/uploads/2023/09/Site_resource_explosion-qr.png)
     
     webinar
     
@@ -126,7 +124,7 @@ Menu
 Bitly Privacy Policy
 ====================
 
-#### Updated: August 2023
+#### Updated: September 2024
 
 This Privacy Policy outlines how we collect, use and share personal data of people who use or are connected to our services, are interested in Bitly or its services, or to whom we wish to market our services. This Privacy Policy also provides you with information on your rights as a data subject and how to reach us if you have any questions.
 
@@ -162,7 +160,7 @@ One feature of the Services is the ability to create shortened uniform resource 
 
 **When You Interact With a Bitly Product**
 
-Bitly automatically collects personal data about the interaction (such as clicks or views) with every Bitly Product created through the Services (either our bit.ly links or one of our branded domains) on a third-party website. This information includes, but is not limited to: (i) the IP address and location derived from the IP address; (ii) internet or other electronic network activity information like the referring websites or services; (iii) the time and date of each access; (iv) device settings, such as browser type, operating system, and language; and (v) cookies, as described in our cookie policy, and mobile advertising identiﬁers. As described in this Privacy Policy, we use this personal data to provide the Services, to understand and analyze how our Services are used and to identify trends, and to detect, deter and prevent malicious, fraudulent or unlawful activity. Please see the “Information We Share” section below for a description of how we may share information we collect when you create, view or interact with Bitly Products.
+Bitly automatically collects personal data about the interaction (such as clicks or views) with every Bitly Product created through the Services (either our bit.ly links or one of our branded domains) on a third-party website. This information includes, but is not limited to: (i) the IP address and location derived from the IP address; (ii) internet or other electronic network activity information like the referring websites or services; (iii) the time and date of each access; (iv) device settings, such as browser type, operating system, and language; and (v) cookies, as described in our cookie policy, and mobile advertising identiﬁers. As described in this Privacy Policy, we use this personal data to provide the Services, to understand and analyze how our Services are used and to identify trends, and to detect, deter and prevent malicious, fraudulent or unlawful activity, and in some cases we show a Destination Preview which contains information about the link or QR Code end destination, and may or may not include advertising from third parties. Please see the “Information We Share” section below for a description of how we may share information we collect when you create, view or interact with Bitly Products.
 
 **Usage Across Devices**
 
@@ -495,6 +493,11 @@ The purposes of this processing are reach measurement (e.g. access statistics, r
 
 Processing of personal data within Google products is based upon your consent. However, in some cases the use of a Google product may also form part of our (pre)contractual services, or our interest in providing our users with efficient, economical and recipient-friendly services and the improvement of our service.
 
+**Use of Google AdSense and/or Ads Manager  
+**
+
+In connection with Destination Preview, there may be advertising delivered by Google AdSense (https://adsense.google.com/) or Ad Manager (https://admanager.google.com/). Google may use cookies to serve ads based on a user’s prior visits to your website or other websites. Google’s use of advertising cookies enables it and its partners to serve ads to your users based on their visits of certain websites. If you are in the European Economic Area (EEA), the UK, and Switzerland, Bitly will obtain your consent for the use of cookies or other local storage related to any such advertising, where legally required, and for the collection, sharing, and use of personal data for any ads personalization (if any).
+
 **Possibility of Revocation of Consent and Removal from Google**
 
 You have the right to revoke your declaration of consent under data protection law at any time. The revocation of the consent does not affect the lawfulness of the processing carried out on the basis of the consent up to the revocation. You may prevent the collection and processing of your personal data by Google by preventing the storage of cookies by third parties on your computer, by using the “Do Not Track” function of a supporting browser, by deactivating the execution of script code in your browser or by installing a script blocker to Google and to prevent the processing of this data by Google by downloading and installing the browser plug-in available under the following link: [https://tools.google.com/dlpage/gaoptout?hl=en](https://tools.google.com/dlpage/gaoptout?hl=en)  
@@ -680,7 +683,7 @@ We do not knowingly collect personal data from children. If we learn that we hav
 
 Bitly complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. Bitly has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF. Bitly has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/).
 
-In compliance with the EU-U.S. DPF and the Swiss-U.S. DPF, Bitly commits to refer unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the Swiss-U.S. DPF to JAMS Data Privacy Framework Dispute Resolution, an alternative dispute resolution provider based in the United States. If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit [https://www.jamsadr.com/eu-us-data-privacy-framework](https://www.jamsadr.com/eu-us-data-privacy-framework) for more information or to file a complaint. The services of JAMS Data Privacy Framework Dispute Resolution are provided at no cost to you.
+In compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, Bitly commits to refer unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF to JAMS Data Privacy Framework Dispute Resolution, an alternative dispute resolution provider based in the United States. If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit [https://www.jamsadr.com/DPF-Dispute-Resolution](https://www.jamsadr.com/DPF-Dispute-Resolution) for more information or to file a complaint. The services of JAMS Data Privacy Framework Dispute Resolution are provided at no cost to you.
 
 Bitly is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). Under certain conditions, individuals have the right to invoke binding arbitration related to their personal data. In some cases, we hold liability in cases of onward transfers of data to third parties.
 
@@ -712,7 +715,7 @@ We reserve the right to make changes to this Privacy Policy at any time. If we m
 
 [Link- in- bio](https://bitly.com/pages/features/link-in-bio)  
 [Branded Links](https://bitly.com/pages/features/branded-links)  
-[Mobile Links](https://bitly.com/pages/features/mobile-links%20)  
+[Mobile Links](https://bitly.com/pages/features/mobile-links)  
 [UTM Campaigns](https://bitly.com/pages/features/utm-links)
 
 #### Why Bitly?
@@ -733,7 +736,7 @@ We reserve the right to make changes to this Privacy Policy at any time. If we m
 
 [Link-in-bio](https://bitly.com/pages/features/link-in-bio)  
 [Branded Links](https://bitly.com/pages/features/branded-links)  
-[Mobile Links](https://bitly.com/pages/features/mobile-links%20)  
+[Mobile Links](https://bitly.com/pages/features/mobile-links)  
 [UTM Campaigns](https://bitly.com/pages/features/utm-links)
 
 #### Solutions
@@ -828,7 +831,7 @@ We reserve the right to make changes to this Privacy Policy at any time. If we m
     * [Deutsch (German)](https://bitly.com/pages/de/privacy)
     * [Français (French)](https://bitly.com/pages/fr/privacy)
 
-![Bitly Logo](https://docrdsfx76ssb.cloudfront.net/static/1721741801/pages/wp-content/uploads/2021/08/bitly_logo.svg)
+![Bitly Logo](https://docrdsfx76ssb.cloudfront.net/static/1725910790/pages/wp-content/uploads/2021/08/bitly_logo.svg)
 
 © 2024 Bitly | Handmade in New York City, Denver, Berlin, Bielefeld, and all over the world.
 

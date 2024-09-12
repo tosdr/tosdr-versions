@@ -1,6 +1,6 @@
 ![](https://www.facebook.com/tr?id=833439704982348&ev=PageView&noscript=1)   
 
-Region: United Kingdom
+Region: United States
 
 Keyshops: Enabled
 
@@ -42,8 +42,7 @@ Light Dark
 Terms & conditions
 ==================
 
-**TERMS AND CONDITIONS OF THE GG.DEALS WEBSITE**
-------------------------------------------------
+TERMS AND CONDITIONS OF THE GG.DEALS WEBSITE
 
 **§ 1 BASIC INFORMATION ABOUT THE WEBSITE**
 
@@ -59,23 +58,23 @@ Terms & conditions
 
 For the purposes of these Terms and Conditions of the gg.deals website:
 
-1\. **Personal Data** – shall mean a set of information about a natural person that can be used to identify them;
+1\. Personal Data – shall mean a set of information about a natural person that can be used to identify them;
 
-2\. **Operator** – shall mean Łowcy Gier Bryks Spółka Komandytowa with its registered office in Łódź, at: Henryka Sienkiewicza 85/87/3.15, 90-318, Poland, entered in the register of entrepreneurs of the National Court Register under KRS: 0000916308, REGON: 389668713, NIP: 7252311223, share capital: LN 13 200 (thirteen thousand two hundred Polish zloty);
+2\. Operator – shall mean Łowcy Gier Bryks Spółka Komandytowa with its registered office in Łódź, at: Henryka Sienkiewicza 85/87/3.15, 90-318, Poland, entered in the register of entrepreneurs of the National Court Register under KRS: 0000916308, REGON: 389668713, NIP: 7252311223, share capital: LN 13 200 (thirteen thousand two hundred Polish zloty);
 
-3\. **Terms and Conditions** – shall mean the Terms and Conditions of the gg.deals website that define the rights and obligations of the Operator and the rights and obligations of the Guests and Users of the Website;
+3\. Terms and Conditions – shall mean the Terms and Conditions of the gg.deals website that define the rights and obligations of the Operator and the rights and obligations of the Guests and Users of the Website;
 
-4\. **Privacy Policy** – shall mean the Privacy Policy and Cookie Policy of the gg.deals Website provided on the Website;
+4\. Privacy Policy – shall mean the Privacy Policy and Cookie Policy of the gg.deals Website provided on the Website;
 
-5\. **Website** – shall mean the website at https://gg.deals/;
+5\. Website – shall mean the website at https://gg.deals/;
 
-6\. **Guest** – shall mean any natural person who visits the Website and uses its resources via the Internet without registering on the Website as a User;
+6\. Guest – shall mean any natural person who visits the Website and uses its resources via the Internet without registering on the Website as a User;
 
-7\. **User** – shall mean any natural person who visits the Website and uses its resources via the Internet (Guest), after logging in as a User of the Website;
+7\. User – shall mean any natural person who visits the Website and uses its resources via the Internet (Guest), after logging in as a User of the Website;
 
-8\. **User Account** – shall mean a dedicated part of the Website complete with the IT solutions that enable the Users to use selected services; The account is created by registration, and it is updated based on the User’s data;
+8\. User Account – shall mean a dedicated part of the Website complete with the IT solutions that enable the Users to use selected services; The account is created by registration, and it is updated based on the User’s data;
 
-9\. **User Data** – shall mean all information and contents, including, in particular, photos, pictures, text messages and personal data placed by the User on the Website.
+9\. User Data – shall mean all information and contents, including, in particular, photos, pictures, text messages and personal data placed by the User on the Website.
 
 **§ 3 GENERAL PROVISIONS**
 
@@ -97,9 +96,7 @@ For the purposes of these Terms and Conditions of the gg.deals website:
 
 5) tag the games the User already has to filter them off their list of special offers,
 
-6) import information about the wishlist and games the User owns from digital distribution platforms of PC games,
-
-including the option to add User comments concerning the contents published on the Website by the Operator as well as exchange opinions in the comments added by the Users under the contents published by the Operator.
+6) import information about the wishlist and games the User owns from digital distribution platforms of PC games, including the option to add User comments concerning the contents published on the Website by the Operator as well as exchange opinions in the comments added by the Users under the contents published by the Operator.
 
 5\. All activities of Website Users should be consistent with the laws applicable in the Republic of Poland and good practices. It is prohibited to use the Website contrary to its intended purpose, Terms and Conditions and applicable law.
 
@@ -117,19 +114,19 @@ e. humiliate or insult other people, including, in particular, other Users,
 
 f.   conduct money collections or other collections via the Website or promote such collections without the consent of the Operator,
 
-g. engage in any form of political agitation,
+g.  engage in any form of political agitation,
 
-h. publish any posts unrelated to the provided contents,
+h.  publish any posts unrelated to the provided contents,
 
-i.    repeatedly publish identical or similar contents on the Website, including, in particular, comments,
+i.  repeatedly publish identical or similar contents on the Website, including, in particular, comments,
 
-j.    promote, in any way and in any form, websites that publish contents or promote actions contrary to the Terms and Conditions, generally applicable law or principles of community living, including, in particular, websites offering contents whose distribution infringes upon third-party rights,
+j.  promote, in any way and in any form, websites that publish contents or promote actions contrary to the Terms and Conditions, generally applicable law or principles of community living, including, in particular, websites offering contents whose distribution infringes upon third-party rights,
 
-k. use programs (bots) generating enquiries to the servers of the Operator,
+k.  use programs (bots) generating enquiries to the servers of the Operator,
 
-l.    create multiple Accounts for a single User or creating fictional accounts,
+l.   create multiple Accounts for a single User or creating fictional accounts,
 
-m.     publish contents or links on the Website without the consent of the Operator if they are intended to promote, in any form, other websites, applications or products and services competitive to the activities of the Operator,
+m.  publish contents or links on the Website without the consent of the Operator if they are intended to promote, in any form, other websites, applications or products and services competitive to the activities of the Operator,
 
 n. take any actions that could destabilise or harm the Website.
 
@@ -151,7 +148,7 @@ n. take any actions that could destabilise or harm the Website.
 
 6\. Information about the cookies used on the Website can be found in the Privacy Policy.
 
-7\.  The Service Provider uses the following methods and technical means to detect errors in the data entered in connection with registration on the Website and the use of the functions of the Website:
+7\. The Service Provider uses the following methods and technical means to detect errors in the data entered in connection with registration on the Website and the use of the functions of the Website:
 
 1) verifying if the entered data are correct,
 
@@ -179,21 +176,29 @@ n. take any actions that could destabilise or harm the Website.
 
 2\. The creation and use of the User Account are voluntary and free of charge, but without a User Account, the functions listed in paragraph 1 will not be available.
 
-3\. The User Account is registered on the Website by logging in on the Steam website and then providing the following User Data in the registration form: user name (login), e-mail address and default region of the User – country – and by accepting these Terms and Conditions and the Privacy Policy using the relevant selection button. 
+3\. The User Account can be \[A1\] registered on the Website by logging in on the Steam website and then providing the following User Data in the registration form: user name (login), e-mail address and default region of the User – country – and by accepting these Terms and Conditions and the Privacy Policy using the relevant selection button. 
 
 4\. In the situation described in paragraph 3 above, the User agrees for Steam to provide to the Operator the unique numerical ID that enables the Operator to identify the Steam Community profile and access information about the account of the User based on the privacy settings of the Steam profile. The only data provided by Steam to the Operator are the Steam user name, ID and profile picture, if added in the Steam profile. The Operator does not acquire other data from the operator of Steam.
 
-5\. The registration of the User on the Website takes place upon the confirmation of the registration via the activation link sent to the e-mail address indicated by the User at the time of the registration.
+5\. The User Account can be registered on the Website by logging in on the Facebook, Google, Discord or Twitch and then providing the following User Data in the registration form: user name (login), e-mail address, profile picture or avatar and default region of the User – country – and by accepting these Terms and Conditions and the Privacy Policy using the relevant selection button. 
 
-6\. By approving the registration form filled out by the User, the User confirms that the information provided by the User is accurate and that the User has the right to use this information and the indicated e-mail account. The User will be responsible if they provide false data or data concerning third parties other than the User.
+6\. In the situation described in paragraph 5 above, the User agrees for Facebook, Google, Discord or Twitch to provide to the Operator the access to information about the account of the User based on the privacy settings of the profile. The only data provided by one of platforms to the Operator are the Steam user name, ID and profile picture, if added. The Operator does not acquire other data from the operator of Facebook, Google, Discord or Twitch.
 
-7\. The data provided by the User at the time of registration on the Website, including, in particular, the User Name, may be moderated by the Operator, which means that the Operator may refuse to publish them on the Website and/or block the User Account or edit such data if they are prohibited due to the Polish or international law, these Terms and Conditions or good practices, including, in particular, if they contain vulgar or obscene contents or promote hate or totalitarian systems.
+7\. The user has the right to link their account in the Website with another social platform, such as Facebook, Discord, Twitch or Google.
 
-8\. The information about games on the wishlist, collections and price alerts are publicly available by default and may be provided to external entities. The User may disable providing information about their wishlist, collections and price alerts in their account settings.
+1) The user can disconnect the social login platform from their Account at any time. Disconnection of the social login platform from the Account may require email confirmation and password setup
 
-9 The User is obliged to keep secret the data concerning their User Account, including, in particular, the password. The User will bear full responsibility for any consequences of providing the indicated data to third parties.
+8\. The registration of the User on the Website takes place upon the confirmation of the registration via the activation link sent to the e-mail address indicated by the User at the time of the registration.
 
-10\. By registering, the User represents that they are of age and have not been interdicted to any extent or that they are over 13 years of age and have the consent of their statutory representative to perform valid legal actions connected with their use of the Website.
+9\. By approving the registration form filled out by the User, the User confirms that the information provided by the User is accurate and that the User has the right to use this information and the indicated e-mail account. The User will be responsible if they provide false data or data concerning third parties other than the User.
+
+10\. The data provided by the User at the time of registration on the Website, including, in particular, the User Name, may be moderated by the Operator, which means that the Operator may refuse to publish them on the Website and/or block the User Account or edit such data if they are prohibited due to the Polish or international law, these Terms and Conditions or good practices, including, in particular, if they contain vulgar or obscene contents or promote hate or totalitarian systems.
+
+11\. The information about games on the wishlist, collections and price alerts are publicly available by default and may be provided to external entities. The User may disable providing information about their wishlist, collections and price alerts in their account settings.
+
+12\. The User is obliged to keep secret the data concerning their User Account, including, in particular, the password. The User will bear full responsibility for any consequences of providing the indicated data to third parties.
+
+13\. By registering, the User represents that they are of age and have not been interdicted to any extent or that they are over 13 years of age and have the consent of their statutory representative to perform valid legal actions connected with their use of the Website.
 
 **§ 6 ADDING COMMENTS TO THE CONTENTS PLACED ON THE WEBSITE**
 
@@ -205,7 +210,7 @@ n. take any actions that could destabilise or harm the Website.
 
 **§ 7. ACCOUNT REMOVAL BY THE USER**
 
-1\. A registered User may remove their User Account from the Website at any time by submitting a notice of the termination of the contract for the User Account using the contact form at: [https://gg.deals/contact/](https://gg.deals/contact/). After the Operator receives the notice, they will remove the User Account promptly, but in any case, not later than within 14 days. After the User Account is removed, it will not be possible to continue to provide the services intended for Users. Removal of the User Account is equivalent to the termination of the contract to this extent.
+1\. A registered User may remove their User Account from the Website at any time by submitting a notice of the termination of the contract for the User Account using the contact form at: https://gg.deals/contact/. After the Operator receives the notice, they will remove the User Account promptly, but in any case, not later than within 14 days. After the User Account is removed, it will not be possible to continue to provide the services intended for Users. Removal of the User Account is equivalent to the termination of the contract to this extent.
 
 2\. After the User removes the User Account, the Operator may use the contents published on the Website by the User by recording, duplicating or providing them in computer networks and ICT networks, including the Internet, and in such a manner that anyone can access them at a place and time selected thereby, in parts of the Website other than those indicated by the User. The contents may be used by the Operator after they are anonymised. The User undertakes towards the Operator not to exercise their moral copyrights to the contents, including, in particular, as regards the tagging of the work with their first name and last name or user name. The User is not entitled to any payment for enabling the Operator to use these contents. Irrespective of the right awarded to the Operator according to this paragraph, the User may use these contents themselves.
 
@@ -291,7 +296,7 @@ n. take any actions that could destabilise or harm the Website.
 
 2\. Enquiries concerning these Terms and Conditions should be sent to the following e-mail address: info@gg.deals.
 
-3\. The Terms and Conditions were last modified on 27th March 2023.
+3\. The Terms and Conditions were last modified on 9 September 2024.
 
 ![GG.logo](/images/logo/logo-black.svg?v=31ff8e2d)
 
@@ -317,7 +322,7 @@ GG.deals
 * [](https://www.facebook.com/GG.deals.site/)
 * [](https://twitter.com/GGdeals/)
 * [](https://steamcommunity.com/groups/gg_deals)
-* [](https://gg.deals/gb/news/feed/)
+* [](https://gg.deals/us/news/feed/)
 
 * [Privacy policy](https://gg.deals/privacy/)
 * [Terms & conditions](https://gg.deals/terms/)

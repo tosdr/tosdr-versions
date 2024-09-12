@@ -16,7 +16,7 @@ MENUMENU
 
 * [Find a Cuddlist](https://cuddlist.com/cuddlers/)
 * [Become a Cuddlist](https://cuddlist.podia.com/?subscriber=cb9d3d7be8e3a04ab403c29e6acb3579bb7d36af63f07bcb7b41af4b4d56d07d)
-    * [Basic Training](https://cuddlist.podia.com/?subscriber=cb9d3d7be8e3a04ab403c29e6acb3579bb7d36af63f07bcb7b41af4b4d56d07d)
+    * [Cuddlist Certification](https://cuddlist.podia.com/?subscriber=cb9d3d7be8e3a04ab403c29e6acb3579bb7d36af63f07bcb7b41af4b4d56d07d)
 * [Code of Conduct](#)
     * [Code of Conduct](https://cuddlist.com/code-of-conduct/)
 * [Healthcare](#)

@@ -57,8 +57,6 @@ Mere end 30 dage gammel
 
 [](https://www.facebook.com/share.php?u=undefined "Del på Facebook")
 
-[](https://www.twitter.com/share?url=undefined&text=DR%E2%80%99s%20privatlivspolitik "Del på X (Twitter)")
-
 [Ønsker du at ændre dine cookie-indstillinger eller søger du information om DR's cookiepolitik, kan du læse mere her.](https://www.dr.dk/service/cookiepolitik)
 
 Hvad indeholder DR's privatlivspolitik?
@@ -321,8 +319,6 @@ Meddelelser offentliggjort i digitale medier vil ofte være tilgængelige længe
 [Læs mere i DR’s etiske retningslinjer](http://dr.dk/etik-og-rettelser/dr-etik/drs-etik).
 
 [Facebook](https://www.facebook.com/share.php?u=undefined "Del på Facebook")
-
-[X (Twitter)](https://www.twitter.com/share?url=undefined&text=DR%E2%80%99s%20privatlivspolitik "Del på X (Twitter)")
 
 Kopier Link
 

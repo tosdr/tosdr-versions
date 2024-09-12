@@ -1,4 +1,4 @@
-![fbpx](https://www.facebook.com/tr?id=172327850997015&ev=PageView&noscript=1)                          
+![fbpx](https://www.facebook.com/tr?id=172327850997015&ev=PageView&noscript=1)                           
 
 [![Decisions in Dentistry](https://decisionsindentistry.com/wp-content/uploads/2017/08/DID_DBHeaderLogo.png)](https://decisionsindentistry.com/)
 
@@ -16,6 +16,7 @@ A peer-reviewed journal that offers evidence-based clinical information and cont
     * [Subscribe or Renew](https://decisionsindentistry.com/magazine-subscription/)
     * [Decisions in Dentistry](https://decisionsindentistry.com/about/)
     * [Editor in Chief](https://decisionsindentistry.com/editor-in-chief/)
+    * [Managing Editor](https://decisionsindentistry.com/managing-editor/)
     * [Our Authors](https://decisionsindentistry.com/contributors/)
     * [Masthead](https://decisionsindentistry.com/masthead/)
     * [Free Samples](https://decisionsindentistry.com/print-promotions/)
@@ -181,50 +182,55 @@ This Privacy Statement was last revised on and is effective as of September 1, 2
 
 [### decisionsindentistry](https://www.instagram.com/decisionsindentistry/ "@decisionsindentistry")
 
-[In this episode of The Art of Dental Finance and M ![In this episode of The Art of Dental Finance and Management,” Art welcomes dental attorney Jason Wood to discuss crucial legal considerations for practices thinking about selling to a Dental Service Organization (DSO). They cover who should (and shouldn’t) consider selling, common mistakes and how to avoid them, and essential pre-sale factors to ensure a smooth and profitable transition. Tune in for helpful advice on navigating the DSO partnership process and making informed decisions for your practice. Link in bio.⁠
+[Artificial intelligence (AI) is making waves in de ![Artificial intelligence (AI) is making waves in dentistry, especially at the VA Greater Los Angeles Healthcare System, where researchers are pioneering a study to evaluate AI’s reliability in diagnosing dental issues. This groundbreaking initiative, aptly named “VALID,” aims to validate AI’s accuracy and trustworthiness in the clinical setting. Link in bio.⁠
 ⁠
 ⁠
 ---⁠
 ⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C92ZQW6TGtt/) 
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C_DbW9esmah/) 
 
-[Explore how short dental implants can address sign ![Explore how short dental implants can address significant anatomical challenges, reduce the need for complex surgeries, and improve long-term outcomes for patients. Link in bio.⁠
+[Preventive dental screenings, though often overloo ![Preventive dental screenings, though often overlooked, are becoming essential in sports, as demonstrated by the UT Health San Antonio School of Dentistry’s efforts with University of Texas, San Antonio football and the San Antonio Spurs. These screenings not only ensure athletes have custom-fitted mouthguards but also detect serious dental issues early, potentially preventing major health crises during the season. Link in bio.⁠
 ⁠
 ⁠
 ---⁠
 ⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C9muwqOMfEr/) 
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C--Yp1pM2IY/) 
 
-[At its annual meeting, the American Medical Associ ![At its annual meeting, the American Medical Association (AMA) approved new policies to enhance healthcare coverage for Americans covered by Medicare, Medicaid, or the Children’s Health Insurance Program focusing on critical areas like hearing, vision, and dental services. These measures aim to reduce out-of-pocket costs and improve access to essential care, aligning with the AMA’s commitment to public health advocacy. Link in bio.⁠
+[This study demonstrates that using a faster firing ![This study demonstrates that using a faster firing cycle may result in color variation when producing same-day computer-aided design and computer-aided manufacturing restorations. ⁠
+⁠
+By William Elza, DMD, Bradley S. Roberts, DDS, Eugenia P. Roberts, DDS, Jason Eaton, DDS, John Mitchell, PhD, Gina Marie Agostini-Walesch, PhD and Charlotte Bolch, PhD⁠
+⁠
+Link in bio.⁠
 ⁠
 ⁠
 ---⁠
 ⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C9kQ0TEsRfQ/) 
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C-76vH-t4V9/) 
 
-[More than two thirds of Americans do not have a pr ![More than two thirds of Americans do not have a proper estate plan in place. In this episode of The Art of Dental Finance and Management,” Art is joined by attorney Joshua Meier for a conversation about the importance of estate planning — particularly in the dental profession — and the key individuals and documents involved in developing an estate plan. Art and Joshua also discuss common challenges and misconceptions in estate planning and how to address them. Link in bio.⁠
-⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C9hsDF0NpLy/) 
+[Check out some new products from DASH! Gloves t ![Check out some new products from DASH! 
+Gloves that glide on damp hands easily & don’t forget the gloves with Aloe.
+Request your FREE SAMPLE of Black Maxx® Thin Nitrile and Alasta® with Aloe Nitrile Exam Gloves by clicking the link in bio or the link in our stories!
+#blackmaxx #alasta #dashmedical #dental #dentist #dentistry #dentistrylife @dashmedicalgloves](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C-5kyOqPozS/) 
 
-[Tooth loss in older adults is linked to significan ![Tooth loss in older adults is linked to significant changes in diet, leading to both obesity and malnutrition. A new study reveals that fewer teeth and impaired chewing ability are associated with higher odds of obesity, highlighting the critical role of dental health in overall nutrition and weight management. Link in bio.⁠
+[The keystone periodontal pathogen Porphyromonas gi ![The keystone periodontal pathogen Porphyromonas gingivalis poses a significant challenge in periodontitis treatment due to its high antibiotic resistance. Recent research highlights the potential of Cissus quadrangularis extracts as a promising natural alternative, exhibiting notable antibacterial activity against P. gingivalis. Link in bio.⁠
 ⁠
 ⁠
 ---⁠
 ⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C9fOGQctjSV/) 
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C-5V72XtOOQ/) 
 
-[Earn 2 CEUs with Fact or Fiction: Debunking Curren ![Earn 2 CEUs with Fact or Fiction: Debunking Current Trends In Nonsurgical Periodontal Therapy⁠
-By Adam E. Saltz, DMD, MS, MPH and Victoria Sirois, RDH, BSDH⁠
+[“Today is the first day of the rest of your life ![“Today is the first day of the rest of your life. There’s nothing you can do about all the days before today.”⁠
 ⁠
-Strategies for evaluating current trends in periodontal therapy to ensure patients receive the most effective treatment plan. Link in bio.⁠
+In this special 200th episode of The Art of Dental Finance and Management, Art Wiederman reflects on his 40-year career as a dental CPA — including how he got to where he is today and where he hopes to go next. Art encourages listeners to do the same and shares his advice for becoming not just a more successful dentist, but a happier, more fulfilled person.⁠
 ⁠
-@mainelygums⁠
+Thank you to our listeners, creative partners, sponsors, and everyone else who has made this milestone possible!⁠
+⁠
+Link in bio.⁠
+⁠
+⁠
 ---⁠
 ⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C9cpVgCtQuM/) 
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C-2xHSAsnAJ/) 
 
 [Load More](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/decisionsindentistry/)
 

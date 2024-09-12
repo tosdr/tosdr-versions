@@ -8,14 +8,15 @@
 
 * [Duden-Mentor-Textprüfung](https://mentor.duden.de/?utm_source=duden_de&utm_medium=premium_int&utm_campaign=topnavi_service&utm_content=duden-mentor-textpruefung "Duden-Mentor")
 * [Werbe- und Trackingfreiheit](https://lp.duden.de/pur/?utm_source=duden_de&utm_medium=pur_int&utm_campaign=werbefreiheit_hauptnavi)
+* [Digitales Schulwörterbuch](https://www.duden.de/schulwoerterbuch)
 * [Digitale Abonnements](https://www.duden.de/service/abos)
-* [Duden für Schulen](https://www.duden.de/duden-digital-schulen)
 * [Sprachberatung](https://www.duden.de/Sprachberatung-0 "Duden-Sprachberatung")
 * [Newsletter](https://www.duden.de/newsletter)
 
 [Sprachwissen](https://www.duden.de/sprachwissen)
 
 * [Rechtschreibregeln](https://www.duden.de/sprachwissen/rechtschreibregeln)
+* [Sprache in Zahlen](https://www.duden.de/sprache-in-zahlen)
 * [Häufige Fehler](https://www.duden.de/haeufige_fehler)
 * [Schwierige Wörter](https://www.duden.de/Liste-der-rechtschreiblich-schwierigen-Woerter)
 * [Sprache und Stil](https://www.duden.de/sprachwissen/sprachratgeber)
@@ -23,7 +24,6 @@
 
 [Über uns](https://www.duden.de/ueber_duden)
 
-* [Leitbild](https://www.duden.de/leitbild)
 * [Dudenredaktion](https://www.duden.de/dudenredaktion)
 * [Verlagsgeschichte](https://www.duden.de/ueber_duden/verlagsgeschichte)
 * [Verlagsprogramm](https://www.duden.de/programm)
@@ -34,15 +34,14 @@
 
 [Anmelden→](https://www.duden.de/user/authenticate)
 
-**Neu hier?** [Jetzt registrieren](https://www.duden.de/user/register?source=duden-online)
+**Neu hier?** [Jetzt registrieren](https://www.duden.de/user/register?source=duden-online&acq_chnl=do-hauptnavi)
 
 * [Einloggen](https://www.duden.de/user/authenticate)
-* [Registrieren](https://www.duden.de/user/register?source=duden-online)
 * [Duden online →](https://www.duden.de/)
-* [Duden Mentor (Textprüfung) →](https://mentor.duden.de/user/authenticate)
-* [Shop →](https://shop.duden.de/?utm_source=duden_de&utm_medium=navigation&utm_campaign=default&utm_content=text)
+* [Duden Mentor (Textprüfung) →](https://mentor.duden.de/)
+* [Shop →](https://shop.duden.de/?campaignCode=do-hauptnavigation)
 * [Digitale Abonnements](https://www.duden.de/service/abos)
-* [Werbe- und Trackingfreiheit](https://www.duden.de/werbefreiheit)
+* [Werbe- und Trackingfreiheit](https://lp.duden.de/pur/?utm_source=duden_de&utm_medium=pur_int&utm_campaign=werbefreiheit_usermenu)
 * [Kundenservice](https://www.duden.de/support)
 
 ︙
@@ -67,17 +66,15 @@
 
 [Einloggen](https://www.duden.de/user/authenticate)
 
-[Registrieren](https://www.duden.de/user/register?source=duden-online)
-
 [Duden online](https://www.duden.de/)
 
-[Duden Mentor (Textprüfung)](https://mentor.duden.de/user/authenticate)
+[Duden Mentor (Textprüfung)](https://mentor.duden.de/)
 
-[Shop](https://shop.duden.de/?utm_source=duden_de&utm_medium=navigation&utm_campaign=default&utm_content=text)
+[Shop](https://shop.duden.de/?campaignCode=do-hauptnavigation)
 
 [Digitale Abonnements](https://www.duden.de/service/abos)
 
-[Werbe- und Trackingfreiheit](https://www.duden.de/werbefreiheit)
+[Werbe- und Trackingfreiheit](https://lp.duden.de/pur/?utm_source=duden_de&utm_medium=pur_int&utm_campaign=werbefreiheit_usermenu)
 
 [Kundenservice](https://www.duden.de/support)
 
@@ -95,9 +92,9 @@
 
 [Werbe- und Trackingfreiheit](https://lp.duden.de/pur/?utm_source=duden_de&utm_medium=pur_int&utm_campaign=werbefreiheit_hauptnavi)
 
-[Digitale Abonnements](https://www.duden.de/service/abos)
+[Digitales Schulwörterbuch](https://www.duden.de/schulwoerterbuch)
 
-[Duden für Schulen](https://www.duden.de/duden-digital-schulen)
+[Digitale Abonnements](https://www.duden.de/service/abos)
 
 [Sprachberatung](https://www.duden.de/Sprachberatung-0)
 
@@ -127,6 +124,8 @@
 
 [Rechtschreibregeln](https://www.duden.de/sprachwissen/rechtschreibregeln)
 
+[Sprache in Zahlen](https://www.duden.de/sprache-in-zahlen)
+
 [Häufige Fehler](https://www.duden.de/haeufige_fehler)
 
 [Schwierige Wörter](https://www.duden.de/Liste-der-rechtschreiblich-schwierigen-Woerter)
@@ -139,11 +138,11 @@
 
 [Häufige Fehler und Falsch­schreib­weisen](https://www.duden.de/haeufige_fehler)
 
+[Lehn- und Fremdwörter aus dem Ungarischen](https://www.duden.de/sprachwissen/sprachratgeber/Lehn-und-Fremdw%C3%B6rter-aus-dem-Ungarischen)
+
 [„Sprachwissen“ im Überblick](https://www.duden.de/sprachwissen/inhaltsuebersicht)
 
 [◁ Über uns](#listview-root)
-
-[Leitbild](https://www.duden.de/leitbild)
 
 [Dudenredaktion ▻](#listview-dudenredaktion)
 
@@ -483,6 +482,7 @@ Software
 * [Duden-API](https://www.duden.de/api "Duden-API")
 * [Duden-Bibliothek](https://www.duden.de/digitales/duden-bibliothek "Duden-Bibliothek")
 * [Duden für Schulen](https://www.duden.de/duden-digital-schulen "Duden für Schulen")
+* [Digitales Schulwörterbuch](https://www.duden.de/schulwoerterbuch)
 * [Rechtschreibprüfung](https://www.duden.de/rechtschreibpruefung-online "Rechtschreibprüfung")
 
 Folgen sie uns

@@ -1,4 +1,4 @@
-      Terms of Use - Washington State Local Health Insurance - CHPW                                                          
+      Terms of Use - Washington State Local Health Insurance - CHPW                                                             
 
 [](#)
 

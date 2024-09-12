@@ -115,7 +115,7 @@ Any other questions or suggestions?
 
 Feel free to contact us!
 
-[Contact](https://www.commerzbank.us/prozess/WebObjects/ProzessCenter.woa/wa/default?path=/pk_sp/en/Contact/KB03_Kontaktformular_FK_en/Main)
+[Contact](https://www.commerzbank.us/prozess/WebObjects/ProzessCenter.woa/wa/default?path=/pk_sp/en/KB03_Kontaktformular_FK_en/Main)
 
 * [Imprint](https://www.commerzbank.us/portal/en/cb/us/footer/impressum/impressum.html)
 * [Compliance](https://www.commerzbank.us/portal/en/cb/us/footer/compliance-2/compliance_8.html)

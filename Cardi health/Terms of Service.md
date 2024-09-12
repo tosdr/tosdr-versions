@@ -1,4 +1,4 @@
-[Take the quiz](https://cardi.health/en-GB/home)
+![Cardi Logo](/cardi.svg)[Take the quiz](https://cardi.health/home)
 
 General Terms and Conditions
 ============================
@@ -262,3 +262,13 @@ C/O RET\_ATL\_1 190 Bridgeport Pkwy Moreland, GA 30259
 18.5. BY USING OR ACCESING THE SERVICES, CLIENT HEREBY ACKNOWLEDGES THAT HE/SHE HAS READ THIS AGREEMENT, UNDERSTOOD IT, AND AGREES TO BE BOUND BY ITS TERMS AND CONDITIONS.
 
 **Last modified 11/01/2023.**
+
+![Cardi Logo](/cardi_dark.svg)
+
+© 2024 Cardi Health. All rights reserved.
+
+[Blog](https://cardi.health/blog/)[Contacts](https://cardi.health/contacts)[Help Center](https://help.cardi.health/hc/en-us)[Privacy Policy](https://cardi.health/privacy-policy)[Terms & Conditions](https://cardi.health/terms-of-services)
+
+[](https://www.facebook.com/Cardihealthapp)[](https://www.instagram.com/cardihealth/)[](https://www.linkedin.com/company/cardi-health/)
+
+Cardi Health's website, app, products, and other services are meant to provide users the tools to help facilitate healthy heart habits and are not intended to diagnose, treat, cure, or prevent any disease or condition. Cardi Health is NOT a health care or medical device provider, and the information we provide should not be substituted for medical advice. Please consult your physician or other health care provider in order to diagnose, treat, cure, or prevent any disease or medical condition.

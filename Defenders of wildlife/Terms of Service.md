@@ -436,7 +436,7 @@ If you have questions about this Agreement, or if you have technical questions a
 
 Image
 
-      ![Get Updates and Alerts](/sites/default/files/styles/original_size/public/2019-04/Sunset-Over-Caribou-Ranch_Jade-Sevelow_2_P8140001.jpg?itok=5cYwVT7p)
+   ![Get Updates and Alerts](https://defendersofwildlife-360365372.imgix.net/sites/default/files/2019-04/Sunset-Over-Caribou-Ranch_Jade-Sevelow_2_P8140001.jpg?fit=max&ixlib=php-3.3.1&w=2000)
 
 ### Get Alerts & Updates
 

@@ -26,11 +26,9 @@ Permission to use content from the Edmunds Automotive Network is granted on a ca
 
 DO NOT copy or adapt the HTML code we create to generate pages. It is also covered by our copyright.
 
-NOTICE: Certain automotive images contained herein are owned by eVox Productions LLC and are protected under United States and international copyright law. Access to and use of these images is restricted by the terms and conditions of a separate license agreement. Unauthorized use, reproduction, creation of derivative works, transmission, display or distribution of these images is strictly prohibited. eVox reserves the right to pursue all legal and equitable remedies against unauthorized uses.
+NOTICE: Certain automotive images displayed on this website are owned, and licensed to Edmunds by izmo, Inc. USA. As to those images: Copyright izmo, Inc. USA. All Rights Reserved. Those images are protected under United States and international copyright law. Access to and use of those images by Edmunds are restricted by the terms and conditions of a license agreement. Any unauthorized use, reproduction, distribution, recording or modification of these images is strictly prohibited.
 
-Certain automotive images displayed on this website are owned, and licensed to Edmunds by izmo, Inc. USA. As to those images: Copyright izmo, Inc. USA. All Rights Reserved. Those images are protected under United States and international copyright law. Access to and use of those images by Edmunds are restricted by the terms and conditions of a license agreement. Any unauthorized use, reproduction, distribution, recording or modification of these images is strictly prohibited.
-
-_September 2023_
+_September 2024_
 
 Requests to use Edmunds' trademarks and logos should be directed to [GeneralCounsel@edmunds.com](mailto:GeneralCounsel@edmunds.com).
 

@@ -1,10 +1,6 @@
-DAYS
+Evolution Genesis has been released
 
-: :
-
-Until Evolution Genesis Release
-
-[Learn more](https://www.dash.org/news/evolution-genesis/)
+[Learn more](https://www.dash.org/blog/dash-evolution-v1-0-0-release-announcement/)
 
 [](#)
 

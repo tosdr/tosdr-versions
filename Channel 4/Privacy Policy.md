@@ -10,8 +10,8 @@
         
         * [Help & Support Organisations](https://www.channel4.com/4viewers/help-support)
         * [Hollyoaks help & support](https://www.channel4.com/4viewers/help-support/hollyoaks-help-support)
+        * [Michael Mosley Programme Support](https://www.channel4.com/4viewers/help/michael-mosley)
         * [Ad Campaign Support](https://www.channel4.com/4viewers/ad-campaigns)
-        * [Michael Mosley Programme Support](https://www.channel4.com/4viewers/help-support/michael-mosley)
         
     
 * [Your data](https://www.channel4.com/4viewers/your-data)
@@ -68,7 +68,9 @@
         * [George Clarke's Kitchens v Gardens](https://www.channel4.com/4viewers/take-part/kitchen-garden)
         * [George Clarke's Old House New Home](https://www.channel4.com/4viewers/take-part/george-clarkes-old-house-new-home)
         * [Grand Designs](https://www.channel4.com/4viewers/take-part/grand-designs)
+        * [The Great British Bake Off: An Extra Slice](https://www.channel4.com/4viewers/take-part/extra-slice)
         * [Help! We Bought A Village](https://www.channel4.com/4viewers/take-part/bought-a-village)
+        * [Location, Location, Location](https://www.channel4.com/4viewers/takepart/location)
         * [Love It or List It](https://www.channel4.com/4viewers/take-part/love-it-or-list-it)
         * [Love Triangle](https://www.channel4.com/4viewers/take-part/love-triangle)
         * [Married at First Sight UK](https://www.channel4.com/4viewers/takepart/married-at-first-sight)
@@ -86,9 +88,9 @@
     * Latest updates
         
         * [4Viewers Blog](https://www.channel4.com/4viewers/community/blog)
+        * [South Asian Film Season 2024](https://www.channel4.com/4viewers/blog/south-asian-films-2024)
         * [Formula 1 on Channel 4](https://www.channel4.com/4viewers/blog/formula-1-2024)
         * [Walter Presents](https://www.channel4.com/4viewers/blog/walter-presents)
-        * [Paris 2024: Paralympics](https://www.channel4.com/4viewers/blog/paris-2024-paralympics)
         * [Energy Tips from 4](https://www.channel4.com/4viewers/blog/energy-saving-tips)
         * [Help! I need somebody, not just anybody](https://www.channel4.com/4viewers/news/help-i-need-somebody-not-just-anybody)
         * [Banged Up: Stars Behind Bars](https://www.channel4.com/4viewers/blog/banged-up)
@@ -102,14 +104,13 @@
     
 * [C4 Investigations](https://www.channel4.com/4viewers/c4IU)
 * [Loneliness](https://www.channel4.com/4viewers/loneliness)
-* [Contact us](https://www.channel4.com/4viewers/contact-us)
-* [Paris 2024: Paralympics](https://www.channel4.com/4viewers/paris-2024-paralympics)
 * [FAQs](https://www.channel4.com/4viewers/faqs)
     
     * [Channel 4 streaming - Website and Apps](https://www.channel4.com/4viewers/faqs/category/36)
     * [Other Channel 4 websites](https://www.channel4.com/4viewers/faqs/category/31)
     * [Our TV channels](https://www.channel4.com/4viewers/faqs/category/26)
     
+* [Contact us](https://www.channel4.com/4viewers/contact-us)
 
 * Our Policies
     * [Policies Overview](https://www.channel4.com/4viewers/policies-overview)

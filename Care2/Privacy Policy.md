@@ -1,12 +1,11 @@
 [Care2](https://www.care2.com/)
 
-* * [log off](https://www.care2.com/passport/logoff.html)
-    * [my petitionsite](https://www.care2.com/my/petitionsite)
+* * [log off](https://www.thepetitionsite.com/passport/logoff.html)
+    * [my petitionsite](https://www.thepetitionsite.com/my/petitionsite)
     
-* [MY](https://www.care2.com/c2c/my/)
 
-* [JOIN US](https://www.care2.com/passport/login.html?promo=register)
-* [SIGN IN](https://www.care2.com/passport/login.html?pg=https%3A%2F%2Fwww.care2.com%2Fprivacy-policy)
+* [JOIN US](https://www.thepetitionsite.com/passport/login.html?promo=register)
+* [SIGN IN](https://www.thepetitionsite.com/passport/login.html?pg=https%3A%2F%2Fwww.thepetitionsite.com)
 
 [Start A Petition](https://www.thepetitionsite.com/create-a-petition.html?cid=headerClickC2&src=care2&campaign=headerClickC2)
 
@@ -17,8 +16,8 @@
 
 [](#)[](https://www.care2.com/)
 
-* [JOIN US](https://www.care2.com/passport/login.html?promo=register)
-* [SIGN IN](https://www.care2.com/passport/login.html?pg=https%3A%2F%2Fwww.care2.com%2Fprivacy-policy)
+* [JOIN US](https://www.thepetitionsite.com/passport/login.html?promo=register)
+* [SIGN IN](https://www.thepetitionsite.com/passport/login.html?pg=https%3A%2F%2Fwww.thepetitionsite.com)
 
 [START A PETITION](https://www.thepetitionsite.com/create-a-petition.html)
 
@@ -291,7 +290,7 @@ Corporate contact information: Care2.com, Inc., 3141 Stevens Creek Blvd. #40394,
 * [Terms of Service](https://www.care2.com/help/general/tos.html)
 * [Do Not Sell My Info](https://www.thepetitionsite.com/do-not-sell-my-info)
 * [Contact Us](https://www.care2.com/aboutus/contactus.html)
-* [Help](https://www.care2.com/help)
+* [Help](https://www.thepetitionsite.com/help)
 * English
     
     * [Dansk](#)
@@ -307,9 +306,9 @@ Corporate contact information: Care2.com, Inc., 3141 Stevens Creek Blvd. #40394,
 
 Copyright © 2024 Care2.com, inc. and its licensors. All rights reserved
 
-* [log in / Join](https://www.care2.com/passport/login.html?pg=https%3A%2F%2Fwww.care2.com%2Fprivacy-policy)
+* [log in / Join](https://www.thepetitionsite.com/passport/login.html?pg=https%3A%2F%2Fwww.care2.com%2Fprivacy-policy)
 
-* [log out](https://www.care2.com/passport/logoff.html?pg=https%3A%2F%2Fwww.care2.com%2Fprivacy-policy)
+* [log out](https://www.thepetitionsite.com/passport/logoff.html?pg=https%3A%2F%2Fwww.care2.com%2Fprivacy-policy)
 
 ### CARE2 PETITIONS
 

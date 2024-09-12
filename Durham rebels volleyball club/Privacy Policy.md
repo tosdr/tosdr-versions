@@ -1,6 +1,6 @@
 [Skip to content](#main)
 
-[![We Are Rebels Logo](https://i0.wp.com/www.drvcvolleyball.ca/wp-content/uploads/2021/07/WeAreRebelsLogoWeb.png?fit=700%2C200&ssl=1)](https://www.drvcvolleyball.ca/)
+[![Durham Rebels Logo](https://i0.wp.com/www.drvcvolleyball.ca/wp-content/uploads/cropped-DurhamRebelsVball_Logo_OrgWhtBlue_OrgKeyline_RGB_HR.png?fit=1487%2C505&ssl=1)](https://www.drvcvolleyball.ca/)
 
 [Facebook](https://www.facebook.com/durhamrebels) [Instagram](https://www.instagram.com/durhamrebels/) [YouTube](https://www.youtube.com/channel/UCleQiqodnkgQwwICftXrbVw) [Linkedin](https://www.linkedin.com/in/durhamrebels/) [TikTok](https://www.tiktok.com/@durhamrebels)
 
@@ -28,8 +28,8 @@ SEARCH Search
         * [September Tryouts](https://www.drvcvolleyball.ca/tryouts/)
     * [Rep TeamsExpand](https://www.drvcvolleyball.ca/rep/)
         * [2024/2025 RostersExpand](#)
-            * [Junior girls (11U-14U)](https://www.drvcvolleyball.ca/junior-girls-11g-14g/)
-            * [Senior Girls (15U +)](https://www.drvcvolleyball.ca/senior-girls/)
+            * [Junior Girls (6v6 – 15U)](https://www.drvcvolleyball.ca/junior-girls-11g-14g/)
+            * [Senior Girls (16U +)](https://www.drvcvolleyball.ca/senior-girls/)
     * [Tournaments](https://www.drvcvolleyball.ca/tournaments/)
 * [Fanwear](https://www.drvcvolleyball.ca/fanwear/)
 * [SponsorsExpand](#)
@@ -38,7 +38,7 @@ SEARCH Search
 * [Contact](https://www.drvcvolleyball.ca/contact-us/)
 * [Member Zone](https://www.drvcvolleyball.ca/zone/)
 
-[![We Are Rebels Mobile Logo](https://i0.wp.com/www.drvcvolleyball.ca/wp-content/uploads/2021/07/WeAreRebelsMobile.png?fit=300%2C120&ssl=1)
+[![Durham Rebels Mobile logo](https://i0.wp.com/www.drvcvolleyball.ca/wp-content/uploads/DurhamRebelsVball_Logo_BluWhtWht_OrgKeyline_RGB_HR.png?fit=1501%2C499&ssl=1)
 
 Durham Rebels Volleyball Club](https://www.drvcvolleyball.ca/)
 
@@ -149,8 +149,8 @@ All content protected by copyright & subject to permission to use.
         
         * [2024/2025 Rosters](#)Toggle child menuExpand
             
-            * [Junior girls (11U-14U)](https://www.drvcvolleyball.ca/junior-girls-11g-14g/)
-            * [Senior Girls (15U +)](https://www.drvcvolleyball.ca/senior-girls/)
+            * [Junior Girls (6v6 – 15U)](https://www.drvcvolleyball.ca/junior-girls-11g-14g/)
+            * [Senior Girls (16U +)](https://www.drvcvolleyball.ca/senior-girls/)
     * [Tournaments](https://www.drvcvolleyball.ca/tournaments/)
 * [Fanwear](https://www.drvcvolleyball.ca/fanwear/)
 * [Sponsors](#)Toggle child menuExpand

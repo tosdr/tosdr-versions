@@ -39,7 +39,7 @@ Find expert media reviews on our Families site
 Search
 
 * [Sign in](https://www.commonsense.org/user/login)
-* [Donate](https://www.commonsensemedia.org/donate)
+* [Register](https://www.commonsense.org/user/register)
 
 * [Digital Citizenship](https://www.commonsense.org/education/digital-citizenship)
     * [Our Lesson Plans](https://www.commonsense.org/)
@@ -79,10 +79,10 @@ Search
         * [Privacy Direct (Free download)](https://www.commonsense.org/education/privacy-direct)
 * [Tips and Resources](https://www.commonsense.org/education/articles)
     * [Lessons and Activities](https://www.commonsense.org/)
+        * [Free Back-to-School Templates](https://www.commonsense.org/education/articles/free-back-to-school-templates-for-teachers-and-families)
+        * [21 Activities to Start School](https://www.commonsense.org/education/articles/21-fun-activities-to-start-the-school-year)
         * [AI Movies, Podcasts, & Books](https://www.commonsense.org/education/articles/ai-movies-books-and-podcasts-to-discuss-in-the-classroom)
         * [Learning Podcasts](https://www.commonsense.org/education/articles/25-great-learning-podcasts-for-the-classroom)
-        * [Movies to Support SEL](https://www.commonsense.org/education/articles/15-middle-school-movies-that-support-sel-in-the-classroom)
-        * [Internet Safety](https://www.commonsense.org/education/articles/23-great-lesson-plans-for-internet-safety)
         * [Books for Digital Citizenship](https://www.commonsense.org/education/articles/11-great-books-to-boost-digital-citizenship)
     * [Teaching Strategies](https://www.commonsense.org/)
         * [ChatGPT and Beyond](https://www.commonsense.org/education/articles/chatgpt-and-beyond-how-to-handle-ai-in-schools)
@@ -497,7 +497,7 @@ The capitalized terms used throughout this Policy have the following meanings:
 
 **GDPR:** The EU General Data Protection Regulation and the so-called ‘UK GDPR’
 
-Common Sense is the nation's leading nonprofit organization dedicated to improving the lives of all kids and families by providing the trustworthy information, education, and independent voice they need to thrive in the 21st century.
+Common Sense is dedicated to improving the lives of kids and families by providing the trustworthy information, education, and independent voice they need to thrive.
 
 We're a nonprofit. [Support our work](https://www.commonsense.org/donate)
 
@@ -536,7 +536,7 @@ We're a nonprofit. [Support our work](https://www.commonsense.org/donate)
         * [Apply for Free Internet](https://getmyinternet.org/)
         * [We're Hiring](https://www.commonsensemedia.org/about-us/jobs)
 
-### Follow Common Sense Education
+### Follow Commonsense Education
 
 * [Facebook](https://www.facebook.com/CommonSenseEd)
 * [Twitter](https://twitter.com/CommonSenseEd)
@@ -544,6 +544,6 @@ We're a nonprofit. [Support our work](https://www.commonsense.org/donate)
 * [YouTube](https://www.youtube.com/user/CommonSenseEducators)
 * [LinkedIn](https://www.linkedin.com/company/common-sense-media)
 
-[Contact us](https://commonsense.force.com/membersupport/s/contactsupport) _/_ [Privacy](https://www.commonsense.org/education/privacy-policy) _/_ Cookie settings _/_ [Terms of use](https://www.commonsense.org/education/terms-of-use) _/_ [Community guidelines](https://www.commonsensemedia.org/about-us/our-mission/community-guidelines)
+[Contact us](https://commonsense.force.com/membersupport/s/contactsupport) _/_ [Privacy](https://www.commonsensemedia.org/about-us/our-mission/privacy-policy) _/_ Cookie settings _/_ [Terms of use](https://www.commonsensemedia.org/about-us/our-mission/site-terms-use) _/_ [Community guidelines](https://www.commonsensemedia.org/about-us/our-mission/community-guidelines)
 
 © Common Sense Media. All rights reserved. Common Sense and other associated names and logos are trademarks of Common Sense Media, a 501(c)(3) nonprofit organization (FEIN: 41-2024986).

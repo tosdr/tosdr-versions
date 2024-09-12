@@ -29,7 +29,7 @@ Free shipping on orders $50 or more inside the contiguous U.S.A.
     [* Colombian Decaf K Cups](https://donpablocoffee.com/products/don-pablo-colombian-decaf-coffee?variant=33398429188184)[* Bourbon Infused K Cups](https://donpablocoffee.com/products/don-pablo-bourbon-infused-coffee?variant=42617880838370)
 * [More](#)
     
-    [* Sale](https://donpablocoffee.com/collections/sale)[* Blog Articles](https://donpablocoffee.com/blogs/donpablocoffeenews)[* Store Locator](https://donpablocoffee.com/pages/store-locator)[* Brewing Instructions](https://donpablocoffee.com/pages/brewing-instructions)[* Referral Program](https://donpablocoffee.com/pages/referral)[* FAQ's](https://donpablocoffee.com/pages/faqs)[* Contact Us](https://donpablocoffee.com/pages/contact-us)
+    [* Gifts](https://donpablocoffee.com/collections/don-pablo-gifts-merchandise)[* Sale](https://donpablocoffee.com/collections/sale)[* Blog Articles](https://donpablocoffee.com/blogs/donpablocoffeenews)[* Store Locator](https://donpablocoffee.com/pages/store-locator)[* Brewing Instructions](https://donpablocoffee.com/pages/brewing-instructions)[* Referral Program](https://donpablocoffee.com/pages/referral)[* FAQ's](https://donpablocoffee.com/pages/faqs)[* Contact Us](https://donpablocoffee.com/pages/contact-us)
 
 [](tel:(305) 249-5628)[](https://donpablocoffee.com/account/login)[0](https://donpablocoffee.com/cart)z
 

@@ -152,9 +152,9 @@ Your Choices
 
 **Opt out of cookies and similar technologies**. We and our service providers, advertisers, and other third parties use cookies and similar technologies to recognize you on and off our Services. For more information about the use of cookies and similar technologies on the Services (including your opt-out choices) please see our [Cookie Disclosure Statement.](https://www.drf.com/about_cookie)
 
-**Your [U.S. State Privacy Rights](https://www.drf.com/CCPA)**
+[**Your U.S. State Privacy Rights**](#PVCYRights)
 
-If you are resident of certain states in the U.S., you may have additional choices and rights regarding your personal information. Some of these choices and rights vary based on where you live. For additional information about your choices and rights under certain U.S. state privacy laws, please visit this [link.](https://www.burton.com/on/demandware.store/Sites-Burton_NA-Site/en_US/Page-Show?cid=your-california-privacy-rights)
+If you are resident of certain states in the U.S., you may have additional choices and rights regarding your personal information. Some of these choices and rights vary based on where you live. For additional information about your choices and rights under certain U.S. state privacy laws, please visit this [link.](#PVCYRights)
 
 **Third Party Web Sites**
 
@@ -172,7 +172,7 @@ The Sites are not directed toward children under 18 years of age nor does DRF kn
 
 The Daily Racing Form is responsible for your privacy protection and is the official service provider.  If you have questions regarding our Sites, the following information, or if you would like to contact our privacy protection representative, please contact us at [cservice2@drf.com](mailto:cservice2@drf.com).
 
-When you use our Sites, we share information that we collect from you, such as your email (in hashed form), IP address or information about your browser or operating system, with our partner/service provider, LiveRamp Inc. LiveRamp returns an online identification code that we may store in our first-party cookie for our use in online and cross-channel advertising and it may be shared with advertising companies to enable interest-based and targeted advertising. To opt out of this use, please click here
+When you use our Sites, we share information that we collect from you, such as your email (in hashed form), IP address or information about your browser or operating system, with our partner/service provider, LiveRamp Inc. LiveRamp returns an online identification code that we may store in our first-party cookie for our use in online and cross-channel advertising and it may be shared with advertising companies to enable interest-based and targeted advertising. To opt out of this use, please click [here](https://liveramp.com/opt_out/)
 
 **Changes and Updates**
 
@@ -194,7 +194,7 @@ New York, NY, 10017
 
 If you have any questions, concerns, or suggestions regarding this Privacy Policy, or to update any information you have provided us, please send us an e-mail at [cservice2@drf.com](mailto:cservice2@drf.com).
 
-**Your U.S. State Privacy Rights Privacy Rights**
+**Your U.S. State Privacy Rights**
 
 You have the following rights, where provided under applicable state law, regarding your personal information (each of which are subject to various exceptions and limitations):
 
@@ -226,11 +226,11 @@ Having you provide unique information relating to a recent transaction or order.
 
 We will delete your personal information to you free of charge within 45 days of receiving your verifiable request. If necessary, we will extend the time period by an additional 45 days, and will provide you with notice of the extension within the first 45-day period. 
 
-_Right to Opt Out (Do Not Sell or Share My Personal Information_). You have the right to opt-out of the “sale” of your personal information (defined very broadly to include situations where we provide personal information to partners who provide advertising services to us) and the “sharing” of personal information in connection with the display of targeted advertising across third party Web sites. You can direct us not to sell or share your personal information by submitting an opt-out request through the link “Do Not Sell or Share My Personal Information” which can be accessed at the bottom of our Site, or by contacting us at [cservice2@drf.com](mailto:cservice2@drf.com). We also honor the Global Privacy Control, a browser-based opt-out signal. We do not respond to other browser-based signals that do not meet applicable state law requirements, which may include older Do Not Track signals.
+_Right to Opt Out (Do Not Sell or Share My Personal Information_). You have the right to opt-out of the “sale” of your personal information (defined very broadly to include situations where we provide personal information to partners who provide advertising services to us) and the “sharing” of personal information in connection with the display of targeted advertising across third party Web sites. You can direct us not to sell or share your personal information by contacting us at [cservice2@drf.com](mailto:cservice2@drf.com). We also honor the Global Privacy Control, a browser-based opt-out signal. We do not respond to other browser-based signals that do not meet applicable state law requirements, which may include older Do Not Track signals.
 
 Right to Appeal. You have a right to appeal decisions concerning your ability to exercise your consumer rights.  
 
-Submission of Requests for Information. We have designated the following methods for California residents to submit requests for information:
+Submission of Requests for Information. We have designated the following methods for residents of applicable US states to submit the above requests for information:
 
 • By using your password-protected account and going to the [Member Update](https://registration.drf.com/member-update) page;
 
@@ -315,7 +315,7 @@ Sign Up for Newsletter
 * [Help Center](https://help.drf.com/hc/en-us)
 * [Contact](https://help.drf.com/hc/en-us/articles/217999487-Contact-us)
 * [Advertising](https://www.drf.com/ads/about-drf-advertising)
-* [Site Policies](http://www1.drf.com/about/about_privacy.html)
+* [Privacy Policy](https://www.drf.com/about_privacy)
 * [Sitemap](https://www.drf.com/sitemap.xml)
 * [DRF Form Finder](https://www1.drf.com/formFinder.do)
 * [Careers](https://recruiting2.ultipro.com/AFF1007AFFI/JobBoard/1b6d2bf5-cbb0-42aa-a4fd-70ea874ebe77/?q=&o=postedDateDesc)
