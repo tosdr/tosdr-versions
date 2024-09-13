@@ -38,7 +38,7 @@ By using the Simplenote app or web app (“Service”), you are agreeing to be b
 * [Terms & Conditions](https://simplenote.com/terms/)
 * [Privacy](https://automattic.com/privacy/)
 * [Press](https://automattic.com/press/)
-* [Privacy Notice for California Users](https://automattic.com/privacy/#california-consumer-privacy-act-ccpa)
+* [Privacy Notice for California Users](https://automattic.com/privacy/#us-privacy-laws)
 * [© Automattic](https://automattic.com/)
 
 [Simplenote](https://simplenote.com/), [Blog at WordPress.com.](https://wordpress.com/?ref=footer_blog)
@@ -47,7 +47,7 @@ By using the Simplenote app or web app (“Service”), you are agreeing to be b
     
     *  [![](https://simplenote.com/wp-content/uploads/2020/07/cropped-icon_512x512.png?w=50) Simplenote](https://simplenote.com/)
     
-    Join 1,707 other subscribers
+    Join 1,702 other subscribers
     
         
     
