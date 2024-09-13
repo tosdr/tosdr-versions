@@ -28,13 +28,7 @@ Light Dark
     [Community](https://forum.gg.deals/)
     
 
-* Games
-* Prepaids
-* News
-
-![Loading](https://img.gg.deals/__/__/loading_40cr40.gif)
-
-* [Sign in through **Steam**](https://gg.deals/user/login/?return=%2Fterms%2F)
+* [Sign in](https://gg.deals/login/)
 
 * [Home](https://gg.deals/) 
 * [Terms & conditions](https://gg.deals/terms/) 
@@ -330,12 +324,3 @@ GG.deals
 © Copyrights. 2024 GG.deals. All rights reserved. All trademarks are the property of their respective owners.
 
 Back To Top
-
-Sign in Sign in through Steam to customize your experience!  
-**Don't worry - Steam never shares your login and password with 3rd parties.** GG.deals will only access your public profile to sync your wishlist and collection.
-
-* Create price drop alerts
-* Link your Steam wishlist and library
-* Save filters as custom presets
-
-[Sign in through **Steam**](https://gg.deals/user/login/?return=%2Fterms%2F) Cancel
