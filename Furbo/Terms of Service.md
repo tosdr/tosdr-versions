@@ -1,6 +1,6 @@
 **Terms and Conditions**
 
-Last Modified: October 30, 2023
+Last Modified:              September 9, 2024
 
 These Terms and Conditions (“Terms” or "Agreement") constitute a legal agreement between you and Tomofun Co. Ltd. and its subsidiaries and affiliated companies (collectively, "Tomofun" or “we” or “us” or “our”), the owner, operator and developer of the Furbo website available at www.Furbo.com and all associated sites linked to [www.Furbo.com](http://www.furbo.com/) (the “Sites”), any mobile applications that may be downloaded on your device to access our services (the “Mobile Apps”), any Furbo hardware products (the “Hardware Products”), Furbo Dog Nanny, or other digital goods and services (“Subscription Services”). The term “Services” or “Tomofun Services” will collectively refer to the Tomofun Sites, Mobile Apps, Hardware Products and Subscription Services
 
@@ -34,23 +34,23 @@ You should only invite individuals you trust to become Authorized Users because 
 
 To be eligible to access, use or register with our Services, you represent and warrant:
 
-●     You have legal capacity to form a binding contract with Tomofun;
+●      You have legal capacity to form a binding contract with Tomofun;
 
-●     You are 18 years or older. Authorized Users of the account under the age of 18 must have parental or legal guardian consent to access and use the Services and can only use the Services under the supervision of their parent or legal guardian;
+●      You are 18 years or older. Authorized Users of the account under the age of 18 must have parental or legal guardian consent to access and use the Services and can only use the Services under the supervision of their parent or legal guardian;
 
-●     As an Account Owner, you agree to be fully responsible for all actions taken on your account, including any actions taken by Authorized Users;
+●      As an Account Owner, you agree to be fully responsible for all actions taken on your account, including any actions taken by Authorized Users;
 
-●     You will provide us with information that is accurate, complete, and current at all times;
+●      You will provide us with information that is accurate, complete, and current at all times;
 
-●     You will be responsible for safeguarding the password that you use to access the Service and for any activities or actions under your password, whether your password is with our Service or a third-party service;
+●      You will be responsible for safeguarding the password that you use to access the Service and for any activities or actions under your password, whether your password is with our Service or a third-party service;
 
-●     You will notify us immediately upon becoming aware of any breach of security or unauthorized use of your account;
+●      You will notify us immediately upon becoming aware of any breach of security or unauthorized use of your account;
 
-●     Your use and access of the Services will not violate any applicable laws or regulations, such as embargoes or export control laws and regulations;
+●      Your use and access of the Services will not violate any applicable laws or regulations, such as embargoes or export control laws and regulations;
 
-●     You understand and acknowledge that the sole purpose of our Service is to observe and record pets and in no event human behavior. You will not use our Service to spy on, observe or monitor the behavior of other people nor will you make audio or video recordings for this purpose; and,
+●      You understand and acknowledge that the sole purpose of our Service is to observe and record pets and in no event human behavior. You will not use our Service to spy on, observe or monitor the behavior of other people nor will you make audio or video recordings for this purpose; and,
 
-●     You will not use as a username the name of another person or entity that you do not have the right to use, or the name of a person or entity with the intent to impersonate that person or entity.
+●      You will not use as a username the name of another person or entity that you do not have the right to use, or the name of a person or entity with the intent to impersonate that person or entity.
 
 Tomofun is not liable for any loss or damage arising or resulting from your failure or the failure of your Authorized Users to comply with the above requirements. In addition, failure to meet any of the eligibility requirements listed above constitutes a breach of this Agreement, which may result in immediate termination of your account on our Service.
 
@@ -140,27 +140,27 @@ We reserve the right to refuse or cancel your order at any time for certain reas
 
 12.  **Subscription Services**
 
-a.    In order to enjoy certain advanced features of our Services, including the ability to store video and/or audio footage or photographs in cloud storage, download them to your mobile device, or receive certain types of enhanced notifications, you must activate the Subscription Services, such as the Furbo Dog Nanny®.   If you sign up for one of our special offer such as “Subscribe and Save plans” or “Premium Safety Package plan”, you have agreed to a minimum subscription of three or more continuous months (“Minimum Commitment”).  We will charge the subscription fee upfront for a minimum of three or more months depending on the purchase plan you choose. You must first complete the activation process once you receive the Hardware Product in order to enjoy the Subscription Services.  You will not be able to access or use any feature of the Hardware Product without activation.  After the Minimum Commitment, your Subscription Services will continue monthly, annually or biennially, based on the plan you selected. Your Subscription Term will automatically renew until terminated by you or us.   After you terminate the Subscription Services, or if you purchase the Camera Only without the Subscription Services, you will only be able to access a real-time stream of the area where the Hardware Product is located for the limited purpose of recording.  You will not be able to access any past recordings, nor can you activate the Subscription Services retroactively. If you or an Authorized User delete any data collected as a result of the Subscription Services, the data will be permanently deleted and no longer available to you. Please note that Tomofun may charge an additional fee for the use of some or all of the Subscription Services. We reserve the right to modify, suspend, terminate, or change the Subscription Services at any time.
+a.     In order to enjoy certain advanced features of our Services, including the ability to store video and/or audio footage or photographs in cloud storage, download them to your mobile device, or receive certain types of enhanced notifications, you must activate the Subscription Services, such as the Furbo Dog Nanny®.   If you sign up for one of our special offer such as “Subscribe and Save plans” or “Premium Safety Package plan”, you have agreed to a minimum subscription of three or more continuous months (“Minimum Commitment”).  We will charge the subscription fee upfront for a minimum of three or more months depending on the purchase plan you choose. You must first complete the activation process once you receive the Hardware Product in order to enjoy the Subscription Services.  You will not be able to access or use any feature of the Hardware Product without activation.  After the Minimum Commitment, your Subscription Services will continue monthly, annually or biennially, based on the plan you selected. Your Subscription Term will automatically renew until terminated by you or us.   After you terminate the Subscription Services, or if you purchase the Camera Only without the Subscription Services, you will only be able to access a real-time stream of the area where the Hardware Product is located for the limited purpose of recording.  You will not be able to access any past recordings, nor can you activate the Subscription Services retroactively. If you or an Authorized User delete any data collected as a result of the Subscription Services, the data will be permanently deleted and no longer available to you. Please note that Tomofun may charge an additional fee for the use of some or all of the Subscription Services. We reserve the right to modify, suspend, terminate, or change the Subscription Services at any time.
 
-b.    **Subscription.**  You can find a description of our Subscription Services on our website ( [https://help.furbo.com/hc/en-us](https://help.furbo.com/hc/en-us) ), and we will explain which Subscription Service options are available to you when you sign up for the Furbo Dog Nanny or other services we offer. Your Subscription Services will continue month-to-month, annually, or based on the other timescale subscription plan (the “Subscription Term”) that you select, and will automatically renew until terminated. You will be entitled to access the subscription-based Services you purchased for each Subscription Term until such subscription is canceled. To change or discontinue a Purchase, please go to the website ([https://furbo.com/account](https://furbo.com/account)). To use the Subscription service you must provide us with one or more Payment Methods. "Payment Method" means a current, valid, accepted method of payment, as may be updated from time to time and which may include payment through your account with a third party. You must cancel your Subscription Services before it renews to avoid billing of the next period’s fees to your Payment Method (see "Cancellation" below). 
+b.     **Subscription.**  You can find a description of our Subscription Services on our website ( [https://help.furbo.com/hc/en-us](https://help.furbo.com/hc/en-us) ), and we will explain which Subscription Service options are available to you when you sign up for the Furbo Dog Nanny or other services we offer. Your Subscription Services will continue month-to-month, annually, or based on the other timescale subscription plan (the “Subscription Term”) that you select, and will automatically renew until terminated. You will be entitled to access the subscription-based Services you purchased for each Subscription Term until such subscription is canceled. To change or discontinue a Purchase, please go to the website ([https://furbo.com/account](https://furbo.com/account)). To use the Subscription service you must provide us with one or more Payment Methods. "Payment Method" means a current, valid, accepted method of payment, as may be updated from time to time and which may include payment through your account with a third party. You must cancel your Subscription Services before it renews to avoid billing of the next period’s fees to your Payment Method (see "Cancellation" below). 
 
-If you purchase our hardware product through the special offer such as "Subscribe & save"or “Premium Safety Package”  plan, you shall subscribe to our service according to the selected purchase plan, the minimum subscription period is three months or more (depends on the plan you chose). If the user does not subscribe for the minimum required period, we reserve the right to block their access to the service until they renew their subscription for the required period.
+If you purchase our hardware product through the special offer such as "Subscribe & save", “Premium Safety Package” plan, or any other combination of hardware and subscription services, you shall subscribe to our service according to the selected purchase plan, the minimum subscription period is three months or more (depends on the plan you chose). If the user does not subscribe for the minimum required period, we reserve the right to block their access to the service until they renew their subscription for the required period.
 
 c.     **Free Trial.** Your Subscription Service may start with a trial period to use the Subscription Service at no cost (“Free Trial”). The Free Trial period of your Subscription Service lasts for one month, or as otherwise specified during sign-up and is intended to allow new subscribers to try our Subscription Service.
 
 Free Trial eligibility is determined by Tomofun at its sole discretion and we may limit eligibility or duration to prevent Free Trial abuse. We reserve the right to revoke the Free Trial and put your account on hold in the event that we determine that you are not eligible. Members of households with an existing or recent Tomofun Subscription Services are not eligible. We may use information such as device ID, method of payment or an account email address used with an existing or recent Tomofun Subscription Services to determine eligibility.
 
-d.    **Billing Cycle**. The Subscription Services will be charged based on the Subscription Term you select to your Payment Method on the calendar day corresponding to the commencement of the paying portion of your Subscription until your Subscription is cancelled. For example, if you sign up for a monthly subscription on January 15, you will be charged again on February 15 for the next month of the Subscription Services.
+d.     **Billing Cycle**. The Subscription Services will be charged based on the Subscription Term you select to your Payment Method on the calendar day corresponding to the commencement of the paying portion of your Subscription until your Subscription is cancelled. For example, if you sign up for a monthly subscription on January 15, you will be charged again on February 15 for the next month of the Subscription Services.
 
-e.    **Payment Methods**. To use the Subscription Services you must provide one or more Payment Methods. You can update your Payment Methods by going to the "Account" page. Following any update, you authorize us to continue to charge the applicable Payment Method(s). You authorize us to charge any Payment Method associated to your account in case your primary Payment Method is declined or no longer available to us for payment of your Subscription Services. You remain responsible for any uncollected amounts. If a payment is not successfully settled, due to expiration, insufficient funds, or otherwise, and you do not cancel your account, we may suspend your access to the Subscription Services until we have successfully charged a valid Payment Method. For some Payment Methods, the issuer may charge you certain fees, such as foreign transaction fees or other fees relating to the processing of your Payment Method. Check with your Payment Method service provider for details.
+e.     **Payment Methods**. To use the Subscription Services you must provide one or more Payment Methods. You can update your Payment Methods by going to the "Account" page. Following any update, you authorize us to continue to charge the applicable Payment Method(s). You authorize us to charge any Payment Method associated to your account in case your primary Payment Method is declined or no longer available to us for payment of your Subscription Services. You remain responsible for any uncollected amounts. If a payment is not successfully settled, due to expiration, insufficient funds, or otherwise, and you do not cancel your account, we may suspend your access to the Subscription Services until we have successfully charged a valid Payment Method. For some Payment Methods, the issuer may charge you certain fees, such as foreign transaction fees or other fees relating to the processing of your Payment Method. Check with your Payment Method service provider for details.
 
- If you purchase any Hardware Products by selecting the plan of "subscribe & save"  or “Premium Safety Package” , we will charge you for at least the first three months or more, depending on the purchase plan you choose at the time when you activate the hardware for the first time.
+ If you purchase any Hardware Products by selecting the plan of "subscribe & save", “Premium Safety Package” or , any other combination of hardware and subscription services, we will charge you for at least the first three months or more, depending on the purchase plan you choose at the time when you activate the hardware for the first time.
 
-f.      **Cancellation**. To cancel, go to the "Account" page on our website(https://furbo.com/account) and follow the instructions for cancellation. You can cancel your auto-renewal for your Subscription Services at any time, and you will continue to have access to the Subscription Services through the end of your Subscription Term. You must cancel your subscription-based Services at least 24 hours before the next Subscription Term to avoid further charges. Unless you cancel auto-renewal for your subscription, the Subscription Services will be automatically extended for successive renewal periods of the same duration as the Subscription Term originally selected, at the then-current non-promotional rate. We do not provide refunds or credits for any partial Subscription Term. If you cancel your Subscription Services, your account will automatically close at the end of your current billing period for your Subscription Term.
+f.       **Cancellation**. To cancel, go to the "Account" page on our website(https://furbo.com/account) and follow the instructions for cancellation. You can cancel your auto-renewal for your Subscription Services at any time, and you will continue to have access to the Subscription Services through the end of your Subscription Term. You must cancel your subscription-based Services at least 24 hours before the next Subscription Term to avoid further charges. Unless you cancel auto-renewal for your subscription, the Subscription Services will be automatically extended for successive renewal periods of the same duration as the Subscription Term originally selected, at the then-current non-promotional rate. We do not provide refunds or credits for any partial Subscription Term. If you cancel your Subscription Services, your account will automatically close at the end of your current billing period for your Subscription Term.
 
 It is your responsibility to backup any data, software, or other materials you may have stored or preserved via your use of the Subscription Services. If you cancel your Subscription Services you will lose basic features of our Subscription Services and you will permanently lose such data, software, or other materials as they will be deleted after your Subscription Services end. Tomofun will not be responsible for any such damage or loss.
 
-g.    **Changes to the Price and Subscription Terms**. We reserve the right to change our subscription plans or adjust pricing for our service or any components thereof in any manner and at any time as we may determine in our sole and absolute discretion. Except as otherwise expressly provided for in these Terms of Use, any price changes or changes to your Subscription Services will take effect following notice to you.
+g.     **Changes to the Price and Subscription Terms**. We reserve the right to change our subscription plans or adjust pricing for our service or any components thereof in any manner and at any time as we may determine in our sole and absolute discretion. Except as otherwise expressly provided for in these Terms of Use, any price changes or changes to your Subscription Services will take effect following notice to you.
 
 **h.**     **Refunds for Subscription Services.** Payments for Subscription Services are nonrefundable and there are no refunds or credits for partially used periods, unless required by the laws of the region where you reside. Following any cancellation, however, you will continue to have access to the Subscription Service through the end of your Subscription Term. You will not be eligible for a prorated refund of your payment for Subscription Services.
 
@@ -188,15 +188,15 @@ If you withdraw from the contract during the 14-day period, we shall reimburse t
 
 (If you want to withdraw from the contract, please fill out this form and send it back.) 
 
-a.    To: \[INSERT NAME, ADDRESS AND, WHERE AVAILABLE, FAX NO AND EMAIL ADDRESS OF COMPANY\]
+a.     To: \[INSERT NAME, ADDRESS AND, WHERE AVAILABLE, FAX NO AND EMAIL ADDRESS OF COMPANY\]
 
 b.     I / we (\*) hereby give notice that I/we (\*) withdraw from my / our (\*) contract of sale of the following goods (\*) / for the provision of the following service (\*)
 
-c.     Ordered on (\*) / received on (\*),
+c.      Ordered on (\*) / received on (\*),
 
 d.     Name of the consumer(s):
 
-e.     Address of the consumer(s):
+e.      Address of the consumer(s):
 
 f.      Signature of the consumer (s) (only for notification on paper):
 
@@ -208,9 +208,11 @@ g.     Date:
 
 Please refer to the [Shipping, Returns & Warranty Policy](http://www.furbo.com/shipping_return_warranty), which is incorporated herein by reference, for information about shipping limitations, returns, and any warranty attached to the Hardware Product you have purchased.
 
-15. **Service Interruptions**
+15. **Service Interruptions and Terminations**
 
 Our Services may be suspended temporarily or permanently without notice to you for security purposes, maintenance or repair, system failures, or other similar circumstances (collectively, “Service Interruptions”). You acknowledge and agree that you are not entitled to a refund or rebate related to such Service Interruptions. We do not offer a service level or uptime guarantee with our Services.
+
+Tomofun may, at its sole discretion, phase out any old Furbo Hardware Products that can no longer receive the required Software Updates in order to function properly and securely.  In the event of a phase out, Tomofun will provide a reasonable period of time to impacted Authorized Users and provide options to transition to new Hardware Products.  After the phase out period, Tomofun will no longer be able to provide support for the phased-out Hardware Products, including but not limit to software updates, security patches, and customer support.
 
 16. **Intended Use and Reliability of Services**
 
@@ -248,8 +250,6 @@ We cannot and do not guarantee the accuracy or completeness of any information, 
 
 We may, from time to time, develop updates, patches, bug fixes, upgrades or other modifications to the Services (the “Software Updates”). Software Updates may improve or optimize the Services, or make changes to the Services in our sole discretion. You hereby agree that Tomofun may automatically install the Software Updates without notice or additional consent from you, except as required by applicable law or in accordance with our Privacy Policy. If you do not want such Software Updates, you may terminate your Services with us.
 
-Tomofun may, at its sole discretion, phase out any old Furbo Hardware Products that can no longer receive the required Software Updates in order to function properly and securely.  In the event of a phase out, Tomofun will provide a reasonable period of time to impacted Authorized Users and provide options to transition to new Hardware Products.  After the phase out period, Tomofun will no longer be able to provide support for the phased-out Hardware Products, including but not limit to software updates, security patches, and customer support.
-
 21. **Third Party Links and Services**
 
 Our Services may contain links or access to third-party web sites or services that are not owned or controlled by Tomofun (“Third Party Services”). A description or link to Third Party Services does not imply an endorsement by Tomofun of the Third Party Services.
@@ -258,71 +258,23 @@ Tomofun has no control over, and assumes no responsibility for, the content, pri
 
 You may be required to agree to additional Third Party Services terms and conditions, warranties, or other policies. This Agreement or any other Tomofun agreements with you do not apply to your access or use of Third Party Services. We strongly advise you to read the terms and conditions and privacy policies of any Third Party Services that you access or use.
 
-22. **FEDERAL COMMUNICATIONS COMMISSION INTERFERENCE STATEMENT**
-
-This equipment has been tested and found to comply with the limits for a Class B digital device, pursuant to part 15 of the FCC Rules. These limits are designed to provide reasonable protection against harmful interference in a residential installation. This equipment generates, uses and can radiate radio frequency energy and, if not installed and used in accordance with the instructions, may cause harmful interference to radio communications. However, there is no guarantee that interference will not occur in a particular installation. If this equipment does cause harmful interference to radio or television reception, which can be determined by turning the equipment off and on, the user is encouraged to try to correct the interference by one or more of the following measures:
-
-\- Reorient or relocate the receiving antenna.
-
-\- Increase the separation between the equipment and receiver.
-
-\- Connect the equipment into an outlet on a circuit different from that to which the receiver is connected.
-
-\- Consult the dealer or an experienced radio/ TV technician for help.
-
-CAUTION:
-
-Any changes or modifications not expressly approved by the grantee of this device could void the user's authority to operate the equipment.
-
-RF exposure warning 
-
-This equipment must be installed and operated in accordance with provided instructions and the antenna(s) used for this transmitter must be installed to provide a separation distance of at least 20 cm from all persons and must not be co-located or operating in conjunction with any other antenna or transmitter. End-users and installers must be provide with antenna installation instructions and transmitter operating conditions for satisfying RF exposure compliance.
-
-Canada, Industry Canada (IC) Notices
-
-This device complies with Industry Canada’s licence\-exempt RSSs. Operation is subject to the following two conditions:
-
-(1)  This device may not cause interference; and
-
-(2)  This device must accept any interference, including interference that may cause undesired operation of the device.
-
-Canada, avis d'Industry Canada (IC)
-
-Le présent appareil est conforme aux CNR d'Industrie Canada applicables aux appareils radio exempts de licence. L'exploitation est autorisée aux deux conditions suivantes :
-
-(1) l'appareil ne doit pas produire de brouillage, et
-
-(2) l'utilisateur de l'appareil doit accepter tout brouillage radioélectrique subi, même si le brouillage est susceptible d'en compromettre le fonctionnement.
-
-Radio Frequency (RF) Exposure Information
-
-The radiated output power of the Wireless Device is below the Industry Canada (IC) radio frequency exposure limits. The Wireless Device should be used in such a manner such that the potential for human contact during normal operation is minimized.
-
-This device has also been evaluated and shown compliant with the IC RF Exposure limits under mobile exposure conditions. (antennas are greater than 20cm from a person's body).
-
-Informations concernant l'exposition aux fréquences radio (RF)
-
-La puissance de sortie émise par l’appareil de sans fil est inférieure à la limite d'exposition aux fréquences radio d'Industry Canada (IC). Utilisez l’appareil de sans fil de façon à minimiser les contacts humains lors du fonctionnement normal.
-
-Ce périphérique a également été évalué et démontré conforme aux limites d'exposition aux RF d'IC dans des conditions d'exposition à des appareils mobiles (antennes sont supérieures à 20 cm à partir du corps d'une personne).
-
-23. **Contests, Sweepstakes and Promotions**
+22. **Contests, Sweepstakes and Promotions**
 
 Any contests, sweepstakes or other promotions (collectively, "Promotions") made available through the Services may be governed by rules that are separate from this Agreement. If you participate in any Promotions, please review the applicable rules as well as our Privacy Policy. If the rules for a Promotion conflict with this Agreement, the Promotion rules shall apply.
 
-24. **Security**
+23. **Security**
 
 Tomofun has certain technical, administrative, and physical security measures in place to protect your personal information. However, Tomofun’s Services are provided over the Internet and we cannot guarantee that your personal information will not be accessed, used or disclosed by unauthorized third parties. In addition, you are also responsible for the security of your personal information on our Services. You should ensure that any wireless Internet connections you use for the Product Hardware, Mobile App or other Services are secure, and only share your account information with third parties you trust. If you believe that the security of your personal information on our Services has been compromised, please contact us immediately at [support@furbo.com](mailto:support@furbo.com).
 
-25. **Indemnification**
+24. **Indemnification**
 
 TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, YOU AGREE TO INDEMNIFY, DEFEND AND HOLD HARMLESS TOMOFUN, ITS OFFICERS, EMPLOYEES, AGENTS, AFFILIATES, SUPPLIERS, OR LICENSEES, FOR ANY LOSSES, DAMAGES, COSTS, LIABILITIES AND EXPENSES (INCLUDING, BUT NOT LIMITED TO, COURT COSTS, LEGAL FEES, AWARDS OR SETTLEMENTS) RELATING TO OR ARISING OUT OF YOUR OR YOUR AUTHORIZED USERS’ USE OF THE SERVICES, AND INCLUDING ANY BREACH BY YOU OF THE TERMS CONTAINED IN THIS AGREEMENT. NOTWITHSTANDING THE FOREGOING, THIS INDEMNIFICATION SHALL NOT APPLY TO CLAIMS BASED ON TOMOFUN’S OWN WILLFUL, WANTON, OR INTENTIONAL MISCONDUCT BY TOMOFUN.
 
-26. **Warranty Disclaimer**
+25. **Warranty Disclaimer**
 
-TOMOFUN PROVIDES THE SERVICES ON AN "AS IS" BASIS AND DOES NOT MAKE ANY WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE OR MERCHANTABILITY, NOR DO WE IN ANY WAY GUARANTEE THE QUALITY, DATA CONTENT, ARTISTIC WORTH OR LEGALITY OF INFORMATION, CONTENT, GOODS OR SERVICES THAT ARE TRANSFERRED, RECEIVED, PURCHASED OR OTHERWISE MADE AVAILABLE OR OBTAINED BY WAY OF THIS WEBSITE OR THE SERVICES. TOMOFUN DOES NOT REPRESENT OR WARRANT THAT THE SERVICES WILL ALWAYS BE AVAILABLE, BE SECURE, BE UNINTERRUPTED, BE ERROR FREE, MEET YOUR REQUIREMENTS, BE FREE OF ANY DEFECTS, VIRUSES OR OTHER HARMFUL COMPONENTS, OR THAT DEFECTS WILL BE CORRECTED. SOME OR ALL OF THE EXCLUSIONS ABOVE MAY NOT APPLY TO YOU DEPENDING ON THE JURISDICTION IN WHICH YOU RESIDE.
+TOMOFUN PROVIDES THE SERVICES ON AN "AS IS" BASIS AND DOES NOT MAKE ANY WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE OR MERCHANTABILITY, NOR DO WE IN ANY WAY GUARANTEE THE QUALITY, ACCURACY, DATA CONTENT, ARTISTIC WORTH OR LEGALITY OF INFORMATION, CONTENT, GOODS OR SERVICES THAT ARE TRANSFERRED, RECEIVED, PURCHASED OR OTHERWISE MADE AVAILABLE OR OBTAINED BY WAY OF THIS WEBSITE OR THE SERVICES. TOMOFUN DOES NOT REPRESENT OR WARRANT THAT THE SERVICES WILL ALWAYS BE AVAILABLE, BE SECURE, BE UNINTERRUPTED, BE ERROR FREE, MEET YOUR REQUIREMENTS, BE FREE OF ANY DEFECTS, VIRUSES OR OTHER HARMFUL COMPONENTS, OR THAT DEFECTS WILL BE CORRECTED.   YOU ACCEPT AND AGREE THAT THE OUTPUT FROM YOUR USE OF OUR SERVICES IS FOR GENERAL INFORMATION PURPOSES ONLY AND HAS NOT BEEN INDEPENDENTLY VERIFIED BY A VETERINARIAN OR HUMAN.  ANY OUTPUT FROM OUR SERVICES DOES NOT CONSTITUTE MEDICAL OR ANY OTHER FORM OF PROFESSIONAL ADVICE OR GUIDANCE.  YOU WILL NOT RELY ON THE OUTPUT AS A SOLE SOURCE OF TRUTH OR FACT, OR AS A SUBSTITUTE FOR PROFESSIONAL ADVICE.  IT IS YOUR RESPONSIBILITY TO CONFIRM THAT THE OUTPUT GENERATED BY OUR SERVICES IS CORRECT AND SUITABLE FOR YOUR INTENDED PURPOSE. SOME OR ALL OF THE EXCLUSIONS ABOVE MAY NOT APPLY TO YOU DEPENDING ON THE JURISDICTION IN WHICH YOU RESIDE.
 
-27. **Limitations of Liability**
+26. **Limitations of Liability**
 
 TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, IN ADDITION TO THE WARRANTY AND OTHER DISCLAIMERS IN THIS AGREEMENT, IN NO EVENT SHALL TOMOFUN, ITS OFFICERS, EMPLOYEES, PARTNERS, AGENTS,  OR AFFILIATES, BE (A) LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, CONSEQUENTIAL OR PUNITIVE DAMAGES, INCLUDING WITHOUT LIMITATION, LOSS OF PROFITS, DATA, USE, GOODWILL, OR OTHER INTANGIBLE LOSSES ARISING FROM OR RELATING TO THE SERVICES, WHETHER OR NOT WE HAVE BEEN INFORMED OF OR SHOULD HAVE KNOWN OF THE POSSIBILITY OF SUCH DAMAGES, AND EVEN IF A REMEDY SET FORTH HEREIN IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE, AND (B) HAVE TOTAL CUMULATIVE LIABILITY FOR ANY DIRECT DAMAGES, PROPERTY DAMAGE, PERSONAL INJURY, LOSS OF LIFE OR ANY OTHER DAMAGES NOT EXCLUDED OR PRECLUDED PURSUANT TO (A) ABOVE, ARISING FROM OR RELATED TO THE SERVICES, WHETHER IN CONTRACT OR TORT OR OTHERWISE, SHALL BE LIMITED TO AN AMOUNT NEVER TO EXCEED THE AMOUNT ACTUALLY PAID BY YOU TO TOMOFUN OR AN AUTHORIZED TOMOFUN RESELLER FOR THE SERVICES AT ISSUE WITHIN THE PRIOR TWELVE (12) MONTHS (IF ANY). TOMOFUN DISCLAIMS ALL LIABILITY OF ANY KIND OF TOMOFUN’S LICENSORS AND SUPPLIERS.
 
@@ -332,7 +284,7 @@ THIS SECTION SHALL APPLY EVEN IF TOMOFUN IS FOUND LIABLE FOR ANY LOSS OR DAMAGE 
 
 FOR THOSE JURISDICTIONS THAT DO NOT PERMIT LIMITATION OF LIABILITY FOR GROSS NEGLIGENCE, THIS LIMITATION OF LIABILITY SHALL NOT APPLY TO ANY WILLFUL, WANTON, INTENTIONAL, RECKLESS MISCONDUCT, OR GROSS NEGLIGENCE OF TOMOFUN.
 
-28. **Dispute Resolution and Waiver of Class Action and Jury Rights**
+27. **Dispute Resolution and Waiver of Class Action and Jury Rights**
 
 The following applies only to those users that reside in the United States of America or Canada:
 
@@ -346,7 +298,7 @@ You may cancel this agreement to arbitrate by giving written notice to Tomofun w
 
 If for any reason a claim proceeds in court rather than arbitration, each party waives any right to a jury trial. You agree to the personal jurisdiction by and venue in the state and federal courts of San Francisco County in the State of California or a United States District Court for the Northern District of California located in San Francisco, California, and waive any objection to such jurisdiction or venue.
 
-29. **General**
+28. **General**
 
 1. **Entire Agreement**
 
@@ -386,4 +338,4 @@ Upon termination, your right to use the Services will immediately cease. If you 
 
 9. **Contact Us**
 
-If you have any questions about this Agreement, please contact us at support@furbo.com.
+If you have any questions about this Agreement, please contact us at [support@furbo.com](mailto:support@furbo.com).
