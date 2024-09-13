@@ -632,4 +632,6 @@ Copyright © ARASHI VISION INC. All Rights Reserved.
 
 Guang Dong ICP No. 16095556.
 
+![](https://res.insta360.com/static/15de494c616f82440df402317a4f1352/feedback.svg)
+
 ![](https://www.facebook.com/tr?id=451591722489720&ev=PageView&noscript=1)
