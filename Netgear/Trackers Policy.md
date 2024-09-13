@@ -45,6 +45,7 @@ Previous Next
     Digital Frame
     
     * [Meural Canvas II](https://www.netgear.com/home/digital-art-canvas/canvasii/)
+    * [Meural Canvas II](https://www.netgear.com/test/canvasii-test/)
     * [Meural WiFi Photo Frame](https://www.netgear.com/home/digital-art-canvas/photoframe/)
     
     SERVICES & SUBSCRIPTIONS
@@ -321,7 +322,7 @@ Checkout
 
 Previous Next
 
-![Icon-Close](/system/v4.6/assets/images/Icon-Close.png)
+![Icon-Close](/system/v4.7/assets/images/Icon-Close.png)
 
 * [HOME SOLUTIONS](#t21827-k98153)
 * [BUSINESS SOLUTIONS](#t21827-k102990)
@@ -355,6 +356,7 @@ Previous Next
 [Digital Frame](#navdrop4)
 
 * [Meural Canvas II](https://www.netgear.com/home/digital-art-canvas/canvasii/)
+* [Meural Canvas II](https://www.netgear.com/test/canvasii-test/)
 * [Meural WiFi Photo Frame](https://www.netgear.com/home/digital-art-canvas/photoframe/)
 
 [SERVICES & SUBSCRIPTIONS](#navdrop5)
