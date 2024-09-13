@@ -1,4 +1,4 @@
- [![Flourish logo](/images/logo-text.png) ![Flourish logo](/images/logo-bosh.png)](https://flourish.studio/)
+[![Flourish logo](/images/Flourish_Logo_Black_small.png)](https://flourish.studio/)
 
 [Features
 ========](https://flourish.studio/features)[Examples
@@ -9,14 +9,15 @@
 [About
 -----](https://flourish.studio/company)[Blog
 ----](https://flourish.studio/blog)[Careers
--------](https://flourish.studio/jobs)[Help
+-------](https://www.lifeatcanva.com/en/locations/united-kingdom/)[Help
 ----](https://flourish.studio/resources)[Sign in
 -------](https://app.flourish.studio/login)
 
 Flourish Privacy Policy
 =======================
 
-_Last updated: 14 May 2024_
+Last updated: 14 May 2024
+-------------------------
 
 [](#1-Introduction "1. Introduction")1\. Introduction
 -----------------------------------------------------
@@ -274,11 +275,11 @@ London N1 6NN
 
 [Security](https://flourish.studio/security)
 
-[Business](https://flourish.studio/business)
+[Finance](https://flourish.studio/solutions/financial-services)
 
-[Agencies](https://flourish.studio/agencies)
+[Consultancies](https://flourish.studio/solutions/professional-services)
 
-[Newsrooms](https://flourish.studio/newsrooms)
+[Newsrooms](https://flourish.studio/solutions/newsrooms)
 
 [Developers](https://flourish.studio/developers)
 
@@ -286,7 +287,7 @@ London N1 6NN
 
 [Company](https://flourish.studio/company)
 
-[Jobs](https://flourish.studio/jobs)
+[Jobs](https://www.lifeatcanva.com/en/locations/united-kingdom/)
 
 [Blog](https://flourish.studio/blog)
 
@@ -294,4 +295,4 @@ London N1 6NN
 
 [Privacy](https://flourish.studio/privacy)
 
-[How to create animated 3D point maps without coding Read our latest blog posts »](https://flourish.studio/blog)
+[16 ways to visualize US elections data Read our latest blog posts »](https://flourish.studio/blog)
