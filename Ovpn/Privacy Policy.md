@@ -8,13 +8,13 @@ Disconnected
 
 IP address
 
-206.81.0.208
+159.223.154.84
 
 Internet provider
 
 ![us](/images/flags/4x3/us.svg)
 
-Digital Ocean
+DigitalOcean, LLC
 
 Not secure
 
