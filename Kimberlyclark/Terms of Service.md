@@ -441,7 +441,7 @@ Search
     
 
 * [Home](https://www.kimberly-clark.com/)
-* [Terms of Use](#)
+* [Terms and Conditions](#)
 
 [Back](javascript:void();)
 
