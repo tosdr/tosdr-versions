@@ -149,11 +149,11 @@ Main Menu Mega
     
     Technology Blog
     
-    ### [No, hashing still doesn't make your data anonymous](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2024/07/no-hashing-still-doesnt-make-your-data-anonymous)
+    ### [Avoiding Outages and Preventing Widespread System Failures](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2024/08/avoiding-outages-preventing-widespread-system-failures)
     
-    Staff in the Office of Technology
+    Staff at the FTC
     
-    July 24, 2024
+    August 13, 2024
     
     [View all Technology Blog posts](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc)
     
@@ -224,20 +224,20 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC and Justice Department to Host First Public Strike Force on Unfair and Illegal Pricing Meeting](https://www.ftc.gov/news-events/news/press-releases/2024/07/ftc-justice-department-host-first-public-strike-force-unfair-illegal-pricing-meeting)
+    ### [FTC Announces Tentative Agenda for September 19 Open Commission Meeting](https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-announces-tentative-agenda-september-19-open-commission-meeting)
     
-    July 26, 2024
+    September 12, 2024
     
     [View News and Events](https://www.ftc.gov/news-events)
     
     Upcoming Event
     --------------
     
-    Jul31
+    Sep13
     
-    ### [Hearing In the Matter of The Kroger Company and Albertsons Companies, Inc. - July 31, 2024](https://www.ftc.gov/news-events/events/2024/07/hearing-matter-kroger-company-albertsons-companies-inc-july-31-2024)
+    ### [Fordham Antitrust Law and Policy Conference](https://www.ftc.gov/news-events/events/2024/09/fordham-antitrust-law-policy-conference)
     
-    Wednesday, July 31, 2024 | 10:00AM
+    Friday, September 13, 2024 | 9:50AM - 10:30AM
     
     [View more Events](https://www.ftc.gov/news-events/events)
     
@@ -272,11 +272,11 @@ Main Menu Mega
     Feature
     -------
     
-    ![gaming controller illustration](/sites/default/files/styles/crop_thumbnail/public/ftc_gov/images/gaming-controller-hero.jpg?itok=9PjrGCSl)
+    ![person signing non-compete agreement](/system/files/styles/crop_thumbnail/private/ftc_gov/images/hand-signing-noncompete-agreement-smaller-istock-1455331862.jpg?itok=JSdZeTJk)
     
-    ### [Playing it Safe: Explore the FTC's Top Video Game Cases](https://www.ftc.gov/news-events/features/gaming "FTC Video Game Cases Feature")
+    ### [Noncompete Rule: What You Should Know](https://www.ftc.gov/news-events/features/noncompetes "Noncompete Rule Feature")
     
-    Learn about the FTC's notable video game cases and what our agency is doing to keep the public safe.
+    Visit the Noncompetes feature page for more information, including factsheets featuring stories on how the rule can benefit Americans.
     
     Latest Data Visualization
     -------------------------
