@@ -69,19 +69,19 @@ Search for:Search Button
 Privacy Policy
 ==============
 
-Last updated: August 6th, 2024. This was updated to replace the nonsensical boilerplate privacy policy that 99.9% of the internet uses. The old one wasn’t bad, but I want to be more explicit in my explanation of how we do business.
+Last updated: August 6th, 2024. This was updated to replace the nonsensical boilerplate privacy policy that 99.9% of the internet uses. The old one wasn't bad, but I want to be more explicit in my explanation of how we do business.
 
-Rossmann Repair Group (“us”, “we”, or “our”) operates the Rossmann Repair Group website (the “Service”).
+Rossmann Repair Group ("us", "we", or "our") operates the Rossmann Repair Group website (the "Service").
 
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
 We will not use or share your information with anyone except as described in this Privacy Policy.
 
-We use your Personal Information for providing you service. We need to know who you are so we can call or email or text you when your repair is done. You are free to not leave a name and number, but by doing so we have no way to contact you when your repair is done, and might require full payment upfront since I have a far reduced confidence in you coming back to pay your bill_(no offense I’m a privacy advocate too but business is business my friend!)_ This means three things:
+We use your Personal Information for providing you service. We need to know who you are so we can call or email or text you when your repair is done. You are free to not leave a name and number, but by doing so we have no way to contact you when your repair is done, and might require full payment upfront since I have a far reduced confidence in you coming back to pay your bill_(no offense I'm a privacy advocate too but business is business my friend!)_ This means three things:
 
 1. Without providing a phone number, email, or name, we have no way to provide you with an estimate.
 2. Without providing a phone number, email, or name, we have no way to tell you when the estimate is complete.
-3. Without providing a phone number, email, or name, we have no way to communicate any complications regarding repair(estimates are _“estimates”_ and are subject to change: however, if they do change, you reserve the right to say _“nevermind give me this back I don’t want to fix it with you anymore”_ without paying, for anything besides lab data recoveries for which a non-refundable deposit was already negotiated in explicit terms beforehand.)
+3. Without providing a phone number, email, or name, we have no way to communicate any complications regarding repair(estimates are _"estimates"_ and are subject to change: however, if they do change, you reserve the right to say _"nevermind give me this back I don't want to fix it with you anymore"_ without paying, for anything besides lab data recoveries for which a non-refundable deposit was already negotiated in explicit terms beforehand.)
 4. Without providing a phone number, email, or name, you will have to repeatedly re-visit the store in order to figure out whether your repair or data recovery is complete, which is your responsibility.
 5. **Without providing a phone number, email, or name, you have forfeited any liability or responsibility on our part for informing you that your repair is complete.**
 
@@ -90,7 +90,7 @@ By using the Service, you agree to the collection and use of information in acco
 Information Collection And Use
 ------------------------------
 
-While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information (“Personal Information”) may include, but is not limited to:
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information ("Personal Information") may include, but is not limited to:
 
 * Name
 * Email address
@@ -100,14 +100,14 @@ While using our Service, we may ask you to provide us with certain personally id
 Log Data
 --------
 
-We collect information that your browser sends whenever you visit our Service (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics. This information is not sold, nor does it contain anything that could even remotely come close to personally identifying you. This is used for google analytics so we can see if people are finding our site, and how they are finding our site, so that we may continue to compete with competitors that pay insane amounts for advertising which allows them to [rip you off with impunity](https://rossmanngroup.com/is-drivesavers-data-recovery-legit/). If you object to this practice, we strongly suggest you blocking cookies, or using a browser like [librewolf](https://librewolf.net/) or [brave](https://brave.com/) with all privacy protections turned on by default, as well as plugins like [ublock origin](https://ublockorigin.com/) that make the internet usable again.
+We collect information that your browser sends whenever you visit our Service ("Log Data"). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics. This information is not sold, nor does it contain anything that could even remotely come close to personally identifying you. This is used for google analytics so we can see if people are finding our site, and how they are finding our site, so that we may continue to compete with competitors that pay insane amounts for advertising which allows them to [rip you off with impunity](https://rossmanngroup.com/is-drivesavers-data-recovery-legit/). If you object to this practice, we strongly suggest you blocking cookies, or using a browser like [librewolf](https://librewolf.net/) or [brave](https://brave.com/) with all privacy protections turned on by default, as well as plugins like [ublock origin](https://ublockorigin.com/) that make the internet usable again.
 
 Cookies
 -------
 
-Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive.
+Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer's hard drive.
 
-We use “cookies” to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. If  you do not accept cookies, you will not be able to sign in on boards.rossmanngroup.com to post questions, and you will not be able to place orders on store.rossmanngroup.com – cookies are the foundation of what allows us to use these websites, but we collect the bare minimum I know how to collect as a board repairperson setting up a website so that you can post on the forum & we can process your order.
+We use "cookies" to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. If  you do not accept cookies, you will not be able to sign in on boards.rossmanngroup.com to post questions, and you will not be able to place orders on store.rossmanngroup.com - cookies are the foundation of what allows us to use these websites, but we collect the bare minimum I know how to collect as a board repairperson setting up a website so that you can post on the forum & we can process your order.
 
 Service Providers
 -----------------
@@ -124,14 +124,14 @@ The security of your Personal Information is important to us, but remember that 
 Links To Other Sites
 --------------------
 
-Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
 
 We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
 
-Children’s Privacy
+Children's Privacy
 ------------------
 
-Our Service does not address anyone under the age of 18 (“Children”).
+Our Service does not address anyone under the age of 18 ("Children").
 
 We do not knowingly collect personally identifiable information from children under 18. If you are a parent or guardian and you are aware that your child has provided us with Personal Information, please contact us. If we discover that a child under 18 has provided us with Personal Information, we will delete such information from our servers immediately.
 
