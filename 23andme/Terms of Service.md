@@ -257,7 +257,7 @@ Footer
 * [Individual Data Consent](https://www.23andme.com/about/individual-data-consent/)
 * [Biobanking Consent](https://www.23andme.com/about/biobanking/)
 * [Cookie Policy](https://www.23andme.com/about/cookies/)
-* [Cookie Choices](https://www.23andme.com/about/cookie-choices/)
+* [Cookie Choices](#cookie-choices)
 * [Patent Information](https://www.23andme.com/patents/)
 * [Report a Security Issue](https://www.23andme.com/security-report/)
 * [Consumer Health Data Privacy Policy](https://www.23andme.com/legal/us-privacy/#washington-consumer-health-data-privacy-policy)
