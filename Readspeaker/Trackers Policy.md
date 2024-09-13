@@ -164,7 +164,7 @@ Solutions
 
 [![Stevie Award](https://assets-www.readspeaker.com/uploads/2023/05/stevie-footer-white.png?width=120&height=120&aspect_ratio=120:120)](http://www.stevieawards.com/ABA)
 
-[![eLearning Africa](https://openbadgefactory.com/v1/badge/_/SDKID8a1GLSTaGMR.png?event=SEB33Qa15F6Ma3IW&width=120&height=120&aspect_ratio=120:120)](https://www.elearning-africa.com/)
+[![eLearning Africa](https://openbadgefactory.com/v1/badge/_/SDKID8a1GLSTaGMR.png?event=SEB33Qa15F6Ma3IW&width=120)](https://www.elearning-africa.com/)
 
 © ReadSpeaker B.V. All rights reserved.
 
