@@ -9,7 +9,7 @@ Menu
 Menu
 
 * [Start Here](#)
-    * [The Time/Life Assessment](https://p.lifehack.org/start-here-time-life-assessment)
+    * [The Time/Life Assessment](https://www.lifehack.org/tools/assessments/time-life)
     * [The Time Flow System](https://p.lifehack.org/start-here-time-flow-system)
     * [Time Flow in Motion](https://p.lifehack.org/start-here-time-flow-in-motion)
     * [Mastering Your Time](https://www.lifehack.org/start-here)
@@ -311,10 +311,14 @@ If you would like to notify us of the infringing material or activity, we encour
 * [Work Life Balance](https://www.lifehack.org/good-life-balance)
 
 * FREE TOOLS
-* [Time/Life Assessment](https://p.lifehack.org/start-here-time-life-assessment?utm_source=blog&utm_medium=footer)
+* [Time/Life Assessment](https://www.lifehack.org/tools/assessments/time-life)
 * [Your Life In Weeks](https://www.lifehack.org/tools/visualize-your-life-in-a-graph)
-* [SMART Goal Generator](https://p.lifehack.org/tools/smart-goal-generator)
-* [Find Your Biggest Time Killer](https://p.lifehack.org/tools/find-biggest-time-killer)
+* [SMART Goal Generator](https://www.lifehack.org/tools/assessments/smart)
+* [Find Your Biggest Time Killer](https://www.lifehack.org/tools/assessments/time-killer)
+* [Northstar Mission Advisor](https://www.lifehack.org/tools/assessments/northstar-mission)
+* [Goal Rescue Tool](https://www.lifehack.org/tools/assessments/goal-rescue)
+* [Morning Routine Planner](https://www.lifehack.org/tools/assessments/morning-routine)
+* [Keystone Habit Builder](https://www.lifehack.org/tools/assessments/keystone-habit)
 
 * MEMBERSHIP
 * [Plans & Pricing](https://p.lifehack.org/pricing)
