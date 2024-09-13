@@ -47,12 +47,18 @@ You can visit our website, read products description and other materials, and ch
 
 We collect personally identifiable information; such as name, mailing address and e-mail address when you register to one of our products or place an order (see the section below for more information on placing order). Website visitors may register to receive our newsletter by submitting their name and e- mail address.
 
+**Data Protection for Sensitive Information:**
+
+We take the security of your personally identifiable information and other sensitive data seriously. Our application employs industry-standard encryption techniques, including SSL/TLS for data in transit and AES-256 for data at rest, ensuring your data is always safeguarded. Additionally, access to sensitive information is limited to authorized personnel trained in securely handling user data. We adhere to strict protocols to protect against unauthorized access, disclosure, or alteration of your data, including using multi-factor authentication (MFA) and regular security audits.
+
 Additional Information
 ----------------------
 
 Our Product may have the functionality to allow you to access your files stored in online storage spaces such as Google Drive, Dropbox and Amazon S3 Servers, or other services as and when added. This functionality allows you to check for duplicate files stored online on these storage spaces. You will have to authorize the Product to access your files stored at such online servers. We do not store your credentials for any of these servers or storage spaces at any time. These storage services providers may provide details of your files, their size, and/or their MD5 or other Hash identifiers. Access to this information is limited to the PC on which the application is being used on, and is never shared with, or stored on any of our servers.  
 There may be additional Privacy Policy of these service providers that you may have already accepted, or will need to accept, to use the services provided by the Online Service Providers with the Product. You are required to check the websites of the service providers for their privacy policy and requirements.  
 The use of this Product to search and identify duplicate files on your PC is uninterrupted even without accessing the Online Storage Services in case you do not have any account with them or do not wish to connect your online accounts with the Product.
+
+We do not collect or store any personally identifiable information (PII) from your Google account or other online services on our servers. The application temporarily accesses files solely to identify duplicate files within your cloud storage. Once the duplicate scan is completed or the session expires due to inactivity, all access tokens and temporary credentials are automatically deleted from your system. In accordance with Google’s data retention policies, permissions granted to the application can be revoked at any time through your Google account settings. No information is retained post-usage, and users can manually delete cached data by navigating to Help & Clear Cache within the app. For additional assistance, users may contact our support team.
 
 Placing order
 -------------
