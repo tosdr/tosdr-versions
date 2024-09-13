@@ -263,9 +263,9 @@ H2Y 2Z4.
 
 ### Ensemble, continuons de faire vivre l’info.
 
-Vos dons permettent à nos journalistes de signer aujourd’hui les articles qui façonnent demain.
+Vos dons permettent à nos journalistes de signer aujourd’hui les articles qui façonnent demain
 
-Je soutiens La Presse
+Je soutiens La Pres
 
 ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2760%27%20height=%2760%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
