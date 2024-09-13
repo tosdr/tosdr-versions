@@ -87,7 +87,7 @@
     
     [Freelancing 101](https://www.gigworker.com/blog-category/freelancing)[Productivity 101](https://www.gigworker.com/blog-category/productivity)[Outsourcing 101](https://www.gigworker.com/blog-category/outsourcing)
     
-* [Post a job](https://gigworker.com/submit/post-a-job-template)[Login](https://gigworker.com/not-used/sign-in)
+* [Post a job](https://gigworker.com/submit/post-a-job)[Login](https://gigworker.com/not-used/sign-in)
     
 
 [Outsource](https://www.gigworker.com/#outsource-something)[Find a Gig](https://www.gigworker.com/#find-a-gig)
