@@ -8,7 +8,7 @@ Save on [Pro 5S 2K Cameras](https://www.arlo.com/en-us/cameras/pro/arlo-pro-5.ht
 * [Security Plans](#)
 * [Accessories](https://www.arlo.com/en-us/accessories)
 * [Bundle & Save](https://www.arlo.com/en-us/build-your-bundle-main.html)
-* [Arlo Total Security](https://www.arlo.com/en-us/arlototalsecurity)
+* [Arlo Total Security NEW](https://www.arlo.com/en-us/arlototalsecurity)
 
 * [Support](https://www.arlo.com/en-us/support)
 * [Sign in](https://www.arlo.com/en-us/login)
@@ -18,10 +18,10 @@ Save on [Pro 5S 2K Cameras](https://www.arlo.com/en-us/cameras/pro/arlo-pro-5.ht
     * [Order Status](https://www.arlo.com/en-us/orderstatus)
     * [My Arlo Dashboard](https://my.arlo.com/)
     
-* [![Search](/on/demandware.static/Sites-arlo-Site/-/default/dwd6a0f78c/images/assets/images/navigation/search.png)](# " ")
+* [![Search](/on/demandware.static/Sites-arlo-Site/-/default/dw92ebb612/images/assets/images/navigation/search.png)](# " ")
 * [0
     
-    ![Cart](/on/demandware.static/Sites-arlo-Site/-/default/dwb2ec88ba/images/assets/images/navigation/cart.png)](https://www.arlo.com/en-us/cart)
+    ![Cart](/on/demandware.static/Sites-arlo-Site/-/default/dwa62b48ec/images/assets/images/navigation/cart.png)](https://www.arlo.com/en-us/cart)
 
 ### Security System
 
@@ -128,15 +128,15 @@ From $249.99](https://www.arlo.com/en-us/light/arlo-pro-3-floodlight-camera.html
 
 ### Arlo Secure
 
- [![personal safety icon](https://www.arlo.com/on/demandware.static/-/Sites-arlo-Library/default/dw17207ac2/images/Security%20Plans/Arlo%20Secure.svg)Plans designed to enhance the features of Arlo Cameras, Doorbells and Home Security System. Compare Plans](https://www.arlo.com/en-us/arlosecure.html "Secure Plans")
+ [![personal safety icon](https://www.arlo.com/on/demandware.static/-/Sites-arlo-Library/default/dw17207ac2/images/Security%20Plans/Arlo%20Secure.svg)Maximize your home protection with premium security features like 30-Day Video History, 24/7 Professional Monitoring and more. Compare Subscriptions](https://www.arlo.com/en-us/arlosecure.html "Secure Plans")
 
 ### Arlo Total Security
 
- [![personal safety icon](https://www.arlo.com/on/demandware.static/-/Sites-arlo-Library/default/dw61c94f1b/images/Security%20Plans/Arlo%20Total%20Security.svg)Complete security subscriptions with 24/7 Pro Monitoring and all hardware, starting at $9.99. Compare Subscriptions](https://www.arlo.com/en-us/arlototalsecurity "Arlo Total Security Plans")
+ [![personal safety icon](https://www.arlo.com/on/demandware.static/-/Sites-arlo-Library/default/dw61c94f1b/images/Security%20Plans/Arlo%20Total%20Security.svg)Complete security bundles that include an Arlo Secure plan and all hardware, starting at $9.99. Compare Bundles](https://www.arlo.com/en-us/arlototalsecurity "Arlo Total Security Plans")
 
 ### Arlo Safe
 
- [![personal safety icon](https://www.arlo.com/on/demandware.static/-/Sites-arlo-Library/default/dw848784b8/images/Security%20Plans/Arlo%20Safe.svg)For personal and family safety – your direct connection to help anytime, anywhere. Learn More](https://www.arlo.com/en-us/arlosafe.html "Safe Plans")
+ [![personal safety icon](https://www.arlo.com/on/demandware.static/-/Sites-arlo-Library/default/dw848784b8/images/Security%20Plans/Arlo%20Safe.svg)For personal and family safety on the go – your direct connection to help anytime, anywhere. Learn More](https://www.arlo.com/en-us/arlosafe.html "Safe Plans")
 
 [### Products](https://www.arlo.com/en-us/products "Arlo Smart")
 
@@ -251,21 +251,21 @@ Security Plans
 
 [### Arlo Secure](https://www.arlo.com/en-us/security-plan-arlo-secure "Arlo Secure")
 
- [![personal safety icon](https://www.arlo.com/on/demandware.static/-/Sites-arlo-Library/default/dw17207ac2/images/Security%20Plans/Arlo%20Secure.svg)Plans designed to enhance the features of Arlo Cameras, Doorbells and Home Security System. Compare Plans](https://www.arlo.com/en-us/arlosecure.html "Secure Plans")
+ [![personal safety icon](https://www.arlo.com/on/demandware.static/-/Sites-arlo-Library/default/dw17207ac2/images/Security%20Plans/Arlo%20Secure.svg)Maximize your home protection with premium security features like 30-Day Video History, 24/7 Professional Monitoring and more. Compare Subscriptions](https://www.arlo.com/en-us/arlosecure.html "Secure Plans")
 
 [### Arlo Total Security](https://www.arlo.com/en-us/security-plan-arlo-total-security "Arlo Total Security")
 
- [![personal safety icon](https://www.arlo.com/on/demandware.static/-/Sites-arlo-Library/default/dw61c94f1b/images/Security%20Plans/Arlo%20Total%20Security.svg)Complete security subscriptions with 24/7 Pro Monitoring and all hardware, starting at $9.99. Compare Subscriptions](https://www.arlo.com/en-us/arlototalsecurity "Arlo Total Security Plans")
+ [![personal safety icon](https://www.arlo.com/on/demandware.static/-/Sites-arlo-Library/default/dw61c94f1b/images/Security%20Plans/Arlo%20Total%20Security.svg)Complete security bundles that include an Arlo Secure plan and all hardware, starting at $9.99. Compare Bundles](https://www.arlo.com/en-us/arlototalsecurity "Arlo Total Security Plans")
 
 [### Arlo Safe](https://www.arlo.com/en-us/security-plan-arlo-safe "Arlo Safe")
 
- [![personal safety icon](https://www.arlo.com/on/demandware.static/-/Sites-arlo-Library/default/dw848784b8/images/Security%20Plans/Arlo%20Safe.svg)For personal and family safety – your direct connection to help anytime, anywhere. Learn More](https://www.arlo.com/en-us/arlosafe.html "Safe Plans")
+ [![personal safety icon](https://www.arlo.com/on/demandware.static/-/Sites-arlo-Library/default/dw848784b8/images/Security%20Plans/Arlo%20Safe.svg)For personal and family safety on the go – your direct connection to help anytime, anywhere. Learn More](https://www.arlo.com/en-us/arlosafe.html "Safe Plans")
 
 [### Accessories](https://www.arlo.com/en-us/accessories "Arlo Smart")
 
 [### Bundle & Save](https://www.arlo.com/en-us/build-your-bundle-main.html "Arlo Smart")
 
-[### Arlo Total Security](https://www.arlo.com/en-us/arlototalsecurity "Arlo Smart")
+[### Arlo Total Security NEW](https://www.arlo.com/en-us/arlototalsecurity "Arlo Smart")
 
 * [### Products](https://www.arlo.com/en-us/products "Arlo Smart")
     
@@ -401,19 +401,19 @@ Security Plans
     
     [### Arlo Secure](https://www.arlo.com/en-us/security-plan-arlo-secure "Arlo Secure")
     
-     [![personal safety icon](https://www.arlo.com/on/demandware.static/-/Sites-arlo-Library/default/dw17207ac2/images/Security%20Plans/Arlo%20Secure.svg)Plans designed to enhance the features of Arlo Cameras, Doorbells and Home Security System. Compare Plans](https://www.arlo.com/en-us/arlosecure.html "Secure Plans")
+     [![personal safety icon](https://www.arlo.com/on/demandware.static/-/Sites-arlo-Library/default/dw17207ac2/images/Security%20Plans/Arlo%20Secure.svg)Maximize your home protection with premium security features like 30-Day Video History, 24/7 Professional Monitoring and more. Compare Subscriptions](https://www.arlo.com/en-us/arlosecure.html "Secure Plans")
     
     [### Arlo Total Security](https://www.arlo.com/en-us/security-plan-arlo-total-security "Arlo Total Security")
     
-     [![personal safety icon](https://www.arlo.com/on/demandware.static/-/Sites-arlo-Library/default/dw61c94f1b/images/Security%20Plans/Arlo%20Total%20Security.svg)Complete security subscriptions with 24/7 Pro Monitoring and all hardware, starting at $9.99. Compare Subscriptions](https://www.arlo.com/en-us/arlototalsecurity "Arlo Total Security Plans")
+     [![personal safety icon](https://www.arlo.com/on/demandware.static/-/Sites-arlo-Library/default/dw61c94f1b/images/Security%20Plans/Arlo%20Total%20Security.svg)Complete security bundles that include an Arlo Secure plan and all hardware, starting at $9.99. Compare Bundles](https://www.arlo.com/en-us/arlototalsecurity "Arlo Total Security Plans")
     
     [### Arlo Safe](https://www.arlo.com/en-us/security-plan-arlo-safe "Arlo Safe")
     
-     [![personal safety icon](https://www.arlo.com/on/demandware.static/-/Sites-arlo-Library/default/dw848784b8/images/Security%20Plans/Arlo%20Safe.svg)For personal and family safety – your direct connection to help anytime, anywhere. Learn More](https://www.arlo.com/en-us/arlosafe.html "Safe Plans")
+     [![personal safety icon](https://www.arlo.com/on/demandware.static/-/Sites-arlo-Library/default/dw848784b8/images/Security%20Plans/Arlo%20Safe.svg)For personal and family safety on the go – your direct connection to help anytime, anywhere. Learn More](https://www.arlo.com/en-us/arlosafe.html "Safe Plans")
     
 * [### Accessories](https://www.arlo.com/en-us/accessories "Arlo Smart")
 * [### Bundle & Save](https://www.arlo.com/en-us/build-your-bundle-main.html "Arlo Smart")
-* [### Arlo Total Security](https://www.arlo.com/en-us/arlototalsecurity "Arlo Smart")
+* [### Arlo Total Security NEW](https://www.arlo.com/en-us/arlototalsecurity "Arlo Smart")
 
 * [Support](https://www.arlo.com/en-us/support "Support")
 * [Store Sign In](https://www.arlo.com/en-us/login "Store Sign In ")
