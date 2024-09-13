@@ -17,9 +17,9 @@
         
         Webinar
         
-        Uncover retail advertising trends for 2024 in our September 10 webinar with Rockerbox!
+        Watch the recording of our 2024 retail advertising trends webinar with Rockerbox!
         
-        [Register](https://illumin.com/insights/podcasts-webinars/inside-scoop-state-of-holiday-digital-spend/)
+        [Watch](https://illumin.com/insights/podcasts-webinars/inside-scoop-state-of-holiday-digital-spend/)
         
 * [Insights](https://illumin.com/insights/)
     * [Insights](#)
@@ -27,9 +27,9 @@
         * [Guides](https://illumin.com/insights/guides/)
         * [Events](https://illumin.com/insights/events/)
         * [Podcasts & Webinars](https://illumin.com/insights/podcasts-webinars/)
-    * ![Is AI regulated? Yes! Here’s what marketers need to know](https://illumin.com/wp-content/uploads/2024/09/AI-regulations-1-263x300.jpg)
+    * ![What is the difference between offline and online retail media?](https://illumin.com/wp-content/uploads/2024/09/in-store-or-offline-retail-media-1-263x300.jpg)
         
-        Is AI regulated? Yes! Here’s what marketers need to know[Read More](https://illumin.com/insights/blog/is-ai-regulated-yes-what-need-to-know/)
+        What is the difference between offline and online retail media?[Read More](https://illumin.com/insights/blog/offline-and-online-retail-media/)
         
 * [Company](#)
     * [Company](#)
