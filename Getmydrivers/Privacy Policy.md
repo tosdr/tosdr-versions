@@ -225,6 +225,7 @@ Trademarks: Microsoft, Windows® logos are registered trademarks of Microsoft Co
 * [Update Drivers Windows 10](https://www.getmydrivers.com/device-driver.html)
 * [Partner with us](https://info.iolo.com/partner-with-us)
 * [FAQ](https://www.getmydrivers.com/faq.html)
+* [Blogs](https://www.getmydrivers.com/blog/)
 * [Contact Us](https://www.getmydrivers.com/contact-us.html)
 * [Uninstall Instructions](https://www.getmydrivers.com/uninstall.html)
 * [Terms of Service](https://www.getmydrivers.com/terms-of-service.html)
