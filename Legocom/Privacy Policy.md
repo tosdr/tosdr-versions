@@ -1,34 +1,25 @@
-[Legal](https://www.lego.com/en-us/legal/)
+[Legal](https://www.lego.com/en-us/legal)
 
-* [Legal Notice](https://www.lego.com/en-us/legal/notices-and-policies/legal-notice/ "Legal Notice")
-* [Open Source License](https://www.lego.com/en-us/legal/notices-and-policies/open-source/ "Open Source License")
-* [Fair Play](https://www.lego.com/en-us/legal/notices-and-policies/fair-play/ "Fair Play")
-* [Privacy Policy](https://www.lego.com/en-us/legal/notices-and-policies/privacy-policy/ "Privacy Policy")
-* [Terms and Code of Conduct](https://www.lego.com/en-us/legal/notices-and-policies/terms-and-code-of-conduct/ "Terms and Code of Conduct")
-* [Intellectual Property Notice](https://www.lego.com/en-us/legal/notices-and-policies/intellectual-property-notice/ "Intellectual Property Notice")
-* [LEGO® Certification](https://www.lego.com/en-us/legal/notices-and-policies/compliance/ "LEGO® Certification")
-* [Responsible Disclosure Policy](https://www.lego.com/en-us/legal/notices-and-policies/responsible-disclosure-policy/ "Responsible Disclosure Policy")
-* [Environmental policy](https://www.lego.com/en-us/legal/notices-and-policies/environmental-policy/ "Environmental policy")
-* [Notices & Policies](https://www.lego.com/en-us/legal/notices-and-policies/ "Notices & Policies")
+* [Notices & Policies](https://www.lego.com/en-us/legal/notices-and-policies)
+    
+    * [Legal Notice](https://www.lego.com/en-us/legal/notices-and-policies/legal-notice "Legal Notice")
+    * [Open Source License](https://www.lego.com/en-us/legal/notices-and-policies/open-source "Open Source License")
+    * [Fair Play](https://www.lego.com/en-us/legal/notices-and-policies/fair-play "Fair Play")
+    * [Privacy Policy](https://www.lego.com/en-us/legal/notices-and-policies/privacy-policy "Privacy Policy")
+    * [Terms and Code of Conduct](https://www.lego.com/en-us/legal/notices-and-policies/terms-and-code-of-conduct "Terms and Code of Conduct")
+    * [Intellectual Property Notice](https://www.lego.com/en-us/legal/notices-and-policies/intellectual-property-notice "Intellectual Property Notice")
+    * [LEGO® Certification](https://www.lego.com/en-us/legal/notices-and-policies/compliance "LEGO® Certification")
+    * [Responsible Disclosure Policy](https://www.lego.com/en-us/legal/notices-and-policies/responsible-disclosure-policy "Responsible Disclosure Policy")
+    * [Environmental policy](https://www.lego.com/en-us/legal/notices-and-policies/environmental-policy "Environmental policy")
+* [Cookies](https://www.lego.com/en-us/legal/cookies)
+    
+    * [LEGO® Cookie Policy](https://www.lego.com/en-us/legal/cookies/cookie-policy "LEGO® Cookie Policy")
+    * [Cookie Declaration](https://www.lego.com/en-us/legal/cookies/cookie-declaration "Cookie Declaration")
 
-* [Notices & Policies](https://www.lego.com/en-us/legal/notices-and-policies/ "Notices & Policies")
-    * [Legal Notice](https://www.lego.com/en-us/legal/notices-and-policies/legal-notice/ "Legal Notice")
-    * [Open Source License](https://www.lego.com/en-us/legal/notices-and-policies/open-source/ "Open Source License")
-    * [Fair Play](https://www.lego.com/en-us/legal/notices-and-policies/fair-play/ "Fair Play")
-    * [Privacy Policy](https://www.lego.com/en-us/legal/notices-and-policies/privacy-policy/ "Privacy Policy")
-    * [Terms and Code of Conduct](https://www.lego.com/en-us/legal/notices-and-policies/terms-and-code-of-conduct/ "Terms and Code of Conduct")
-    * [Intellectual Property Notice](https://www.lego.com/en-us/legal/notices-and-policies/intellectual-property-notice/ "Intellectual Property Notice")
-    * [LEGO® Certification](https://www.lego.com/en-us/legal/notices-and-policies/compliance/ "LEGO® Certification")
-    * [Responsible Disclosure Policy](https://www.lego.com/en-us/legal/notices-and-policies/responsible-disclosure-policy/ "Responsible Disclosure Policy")
-    * [Environmental policy](https://www.lego.com/en-us/legal/notices-and-policies/environmental-policy/ "Environmental policy")
-* [Cookies](https://www.lego.com/en-us/legal/cookies/ "Cookies")
-    * [LEGO® Cookie Policy](https://www.lego.com/en-us/legal/cookies/cookie-policy/ "LEGO® Cookie Policy")
-    * [Cookie Declaration](https://www.lego.com/en-us/legal/cookies/cookie-declaration/ "Cookie Declaration")
-
-1. [LEGO.com](https://www.lego.com/ "LEGO.com")
-2. [Legal](https://www.lego.com/en-us/legal/ "Legal")
-3. [Notices & Policies](https://www.lego.com/en-us/legal/notices-and-policies/ "Notices & Policies")
-4. [Privacy Policy](https://www.lego.com/en-us/legal/notices-and-policies/privacy-policy/ "Privacy Policy")
+1. [LEGO.com](https://www.lego.com/en-us "LEGO.com")
+2. [Legal](https://www.lego.com/en-us/legal "Legal")
+3. [Notices & Policies](https://www.lego.com/en-us/legal/notices-and-policies "Notices & Policies")
+4. [Privacy Policy](https://www.lego.com/notices-and-policies/privacy-policy "Privacy Policy")
 
 Privacy Policy
 ==============
@@ -49,7 +40,7 @@ In other words, if you’re looking for more information on how we collect, stor
 
 ### Who is responsible for your personal data?
 
-The LEGO Group is made up by several different legal entities spread around the world. You can read more about the LEGO Group here [https://www.lego.com/aboutus](https://www.lego.com/aboutus).
+The LEGO Group is made up by several different legal entities spread around the world. You can read more about the LEGO Group here https://www.lego.com/aboutus.
 
 This Privacy Policy is issued on behalf of all the companies in the LEGO Group where LEGO System A/S is the data controller (the one responsible and in charge of the data). In some circumstances a local LEGO Group entity has identified their own data controller for their local country where local processing is taking place. For the purposes of this Privacy Policy when we use “we”, “us” or “our” in this Policy, we are talking about LEGO System A/S.
 
@@ -84,7 +75,7 @@ Please note that, in certain circumstances, we may be required to retain some of
 * **Limitation of processing of personal data.** If you contest the correctness of the data which we have registered about you or lawfulness of processing, or if you have objected to the processing of the data in accordance with your right to object, you may request us to restrict the processing of this data. The processing will be restricted to storage only, until the correctness of the data can be established, or it can be checked whether our legitimate interests override your interests. Even when processing of your data has been restricted as described above, the LEGO Group may process your data in other ways if this is necessary to enforce a legal claim or to process previously collected data if you have earlier given your consent.
 * **Object to processing based on our legitimate interest.** You can always object to the processing of personal data about you which is based on legitimate interest. If we are processing your data for direct marketing and profiling in connection to such marketing, your objection will always be sustained. For objections to processing for other purposes, we will conduct a legitimate interest balancing test and consider whether to support your objection.
 * **Data portability.** You have a right to receive personal data that you have provided to us in a machine-readable format. This right applies to personal data processed only by automated means and on the basis of consent or of fulfilling a contract.
-* **Other rights.** You have the right to lodge a complaint with The Danish Data Protection Agency, if you are dissatisfied with the way we process your personal data. You will find the Danish Data Protection Agency’s contact information at [www.datatilsynet.dk](http://www.datatilsynet.dk/).
+* **Other rights.** You have the right to lodge a complaint with The Danish Data Protection Agency, if you are dissatisfied with the way we process your personal data. You will find the Danish Data Protection Agency’s contact information at www.datatilsynet.dk.
 
 ### Further information: updates
 
@@ -428,7 +419,7 @@ We are only allowed to keep your personal data for as long as we need it. Depend
 
 #### Do I have a say in what happens to my personal data?
 
-Yes you do. You have what we call ‘rights’ when we use your data. One of these is the right to know what we do with it. That’s what this page is for.
+Yes you do. You have what we call 'rights' when we use your data. One of these is the right to know what we do with it. That’s what this page is for.
 
 You can ask us to tell you what personal data we have about you, or you can tell us to stop using it or delete it. If your personal data is wrong or incorrect, you can tell us and we will fix it.
 
@@ -440,7 +431,7 @@ We have someone here at the LEGO Group called our Data Protection Officer, and t
 
 It is very important for us to keep your data safe, and to follow all the rules. If you are worried about what we do with your personal data, please [contact us](https://www.lego.com/en-gb/legal/privacy-policy/contact-us).
 
-There is also a government agency whose job it is to make sure companies like us follow the rules, and correct us if we do things wrong. You can also email or write to them. You will find their contact information at [www.datatilsynet.dk](http://www.datatilsynet.dk/).
+There is also a government agency whose job it is to make sure companies like us follow the rules, and correct us if we do things wrong. You can also email or write to them. You will find their contact information at www.datatilsynet.dk.
 
 #### About our website
 
