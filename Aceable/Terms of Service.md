@@ -2,11 +2,11 @@
 
 SALE ENDS IN
 
-08HRS
+06HRS
 
-26MIN
+00MIN
 
-46SEC
+15SEC
 
 [![Aceable Logo](https://xgrit-ecom.imgix.net/ace/Aceable-Logo1.svg?v=1712674234&auto=compress,format)](https://www.aceable.com/)
 
@@ -14,7 +14,7 @@ Drivers Ed ![](https://xgrit-ecom.imgix.net/ace/Drop-Down.svg?v=1712674559)
 
 [**California** Drivers Ed](https://www.aceable.com/drivers-ed/california/)
 
-[**California** Permit Test Prep](https://www.aceable.com/drivers-ed/california-learners-permit-test-study-guide/)
+[**California** Knowledge Test Prep Course](https://www.aceable.com/drivers-ed/california/knowledge-test-prep-course/)
 
 [**Florida** Drivers Ed](https://www.aceable.com/drivers-ed/florida/)
 
