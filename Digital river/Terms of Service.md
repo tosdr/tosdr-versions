@@ -16,8 +16,7 @@
     ---------------------](https://www.digitalriver.com/how-we-help/optimize/)[Payments
     --------](https://www.digitalriver.com/how-we-help/convert/)[Fraud Prevention
     ----------------](https://www.digitalriver.com/how-we-help/mitigate/fraud/)[Tax & Compliance
-    ----------------](https://www.digitalriver.com/how-we-help/mitigate/tax-and-compliance/)[Shipping & Returns
-    ------------------](https://www.digitalriver.com/how-we-help/logistics/)[Revenue Recognition
+    ----------------](https://www.digitalriver.com/how-we-help/mitigate/tax-and-compliance/)[Revenue Recognition
     -------------------](https://www.digitalriver.com/how-we-help/accounting/)
     
     Use Cases
@@ -1480,7 +1479,6 @@ English
 * [Payments](https://www.digitalriver.com/how-we-help/convert/)
 * [Fraud Prevention](https://www.digitalriver.com/how-we-help/mitigate/fraud/)
 * [Tax & Compliance](https://www.digitalriver.com/how-we-help/mitigate/tax-and-compliance/)
-* [Shipping & Returns](https://www.digitalriver.com/how-we-help/logistics/)
 * [Revenue Recognition](https://www.digitalriver.com/how-we-help/accounting/)
 
 ##### [Partners](https://www.digitalriver.com/partners)
