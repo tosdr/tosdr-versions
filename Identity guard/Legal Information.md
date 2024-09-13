@@ -203,7 +203,7 @@ Washington, DC 20423
 
 ‍
 
-\*\* Identity Theft Insurance underwritten by insurance company subsidiaries or affiliates of American International Group‚ Inc. The description herein is a summary and intended for informational purposes only and does not include all terms, conditions and exclusions of the policies described. Please refer to the actual policies for terms, conditions, and exclusions of coverage. Coverage may not be available in all jurisdictions.
+\*\* The Identity Theft Insurance is underwritten and administered by American Bankers Insurance Company of Florida, an Assurant company. Please refer to the actual policies for terms, conditions, and exclusions of coverage. Coverage may not be available in all jurisdictions. Review the [Summary of Benefits](https://www.aura.com/legal/insurance-summary-of-benefits).
 
 ‍
 
@@ -232,7 +232,5 @@ No one can prevent all identity theft or monitor all transactions effectively.
 ‍
 
 IDENTITY GUARD AND ASSOCIATED DESIGNS ARE TRADEMARKS OR FEDERALLY REGISTERED TRADEMARKS OF AURA SUB, LLC, REGISTERED IN MANY JURISDICTIONS WORLDWIDE.
-
-  
 
 [2\. Use of Aura Content](#)
