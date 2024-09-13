@@ -29,13 +29,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.kagstv.com/assets/WXIA/images/d1fef09d-2b7c-4bd3-aa6f-d9f4a53d4a5f/20240910T153902/d1fef09d-2b7c-4bd3-aa6f-d9f4a53d4a5f_16x9.jpg) ![](https://media.kagstv.com/assets/WXIA/images/d1fef09d-2b7c-4bd3-aa6f-d9f4a53d4a5f/20240910T153902/d1fef09d-2b7c-4bd3-aa6f-d9f4a53d4a5f_360x203.jpg)](https://www.kagstv.com/article/news/local/plane-collision-atlanta-airport-hartsfield-jackson/85-2597cee8-6218-4937-8c9b-119ff6e340e8)
+    *  [![](https://media.kagstv.com/assets/WNEP/images/e71ad2e4-4637-4d17-bc2a-e34512415aac/e71ad2e4-4637-4d17-bc2a-e34512415aac_16x9.jpg) ![](https://media.kagstv.com/assets/WNEP/images/e71ad2e4-4637-4d17-bc2a-e34512415aac/e71ad2e4-4637-4d17-bc2a-e34512415aac_360x203.jpg)](https://www.kagstv.com/article/news/crime/sept-12-2024-college-station-stabbing/499-6ce4a866-fb1c-46c8-b657-93ec65d6b716)
         
-        #### [Planes collide, damaging aircraft at Hartsfield-Jackson International Airport: FAA](https://www.kagstv.com/article/news/local/plane-collision-atlanta-airport-hartsfield-jackson/85-2597cee8-6218-4937-8c9b-119ff6e340e8)
+        #### [One in custody after stabbing investigation in College Station](https://www.kagstv.com/article/news/crime/sept-12-2024-college-station-stabbing/499-6ce4a866-fb1c-46c8-b657-93ec65d6b716) [![](https://media.kagstv.com/assets/WNEP/images/e71ad2e4-4637-4d17-bc2a-e34512415aac/e71ad2e4-4637-4d17-bc2a-e34512415aac_16x9.jpg) ![](https://media.kagstv.com/assets/WNEP/images/e71ad2e4-4637-4d17-bc2a-e34512415aac/e71ad2e4-4637-4d17-bc2a-e34512415aac_360x203.jpg)](https://www.kagstv.com/article/news/crime/sept-12-2024-college-station-stabbing/499-6ce4a866-fb1c-46c8-b657-93ec65d6b716)
         
-    *  [![](https://media.kagstv.com/assets/WBNS/images/c5af4aa9-a547-42c1-a1d3-caa29af56f85/20240908T144353/c5af4aa9-a547-42c1-a1d3-caa29af56f85_16x9.jpg) ![](https://media.kagstv.com/assets/WBNS/images/c5af4aa9-a547-42c1-a1d3-caa29af56f85/20240908T144353/c5af4aa9-a547-42c1-a1d3-caa29af56f85_360x203.jpg)](https://www.kagstv.com/article/news/local/ohio/huge-payout-expected-for-a-rare-coin-bought-by-ohio-farm-family/530-751538d5-f066-4e4e-824a-1fc823df04f9)
+        #### [One taken into custody following stabbing in College Station](https://www.kagstv.com/article/news/crime/sept-12-2024-college-station-stabbing/499-6ce4a866-fb1c-46c8-b657-93ec65d6b716)
+    *  [![](https://media.kagstv.com/assets/KENS/images/a84bb809-dc8e-4042-8a8b-f0ead4f398f3/20240913T041906/a84bb809-dc8e-4042-8a8b-f0ead4f398f3_16x9.jpg) ![](https://media.kagstv.com/assets/KENS/images/a84bb809-dc8e-4042-8a8b-f0ead4f398f3/20240913T041906/a84bb809-dc8e-4042-8a8b-f0ead4f398f3_360x203.jpg)](https://www.kagstv.com/article/news/local/missing-ingram-tx-boy-amber-talert-police/273-d267b709-f5cb-46ae-838e-649741f5c53c)
         
-        #### [Huge payout expected for a rare coin bought by Ohio farm family and hidden for decades](https://www.kagstv.com/article/news/local/ohio/huge-payout-expected-for-a-rare-coin-bought-by-ohio-farm-family/530-751538d5-f066-4e4e-824a-1fc823df04f9)
+        #### [6-year-old Ingram boy missing since Wednesday morning; AMBER Alert issued](https://www.kagstv.com/article/news/local/missing-ingram-tx-boy-amber-talert-police/273-d267b709-f5cb-46ae-838e-649741f5c53c)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -50,13 +51,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.kagstv.com/assets/KHOU/images/6a9c62bd-835c-4d81-a99c-af3f5e6b432e/20240910T031209/6a9c62bd-835c-4d81-a99c-af3f5e6b432e_16x9.jpg) ![](https://media.kagstv.com/assets/KHOU/images/6a9c62bd-835c-4d81-a99c-af3f5e6b432e/20240910T031209/6a9c62bd-835c-4d81-a99c-af3f5e6b432e_360x203.jpg)](https://www.kagstv.com/article/weather/centerpoint-energy-preparations-tropical-storm-hurricane-francine/285-865efb98-9084-4f15-b682-838229f4c5e1)
+    *  [![](https://media.kagstv.com/assets/CCT/images/df56146f-3c8c-41cc-8017-554381a94ff2/20240912T112224/df56146f-3c8c-41cc-8017-554381a94ff2_16x9.jpg) ![](https://media.kagstv.com/assets/CCT/images/df56146f-3c8c-41cc-8017-554381a94ff2/20240912T112224/df56146f-3c8c-41cc-8017-554381a94ff2_360x203.jpg)](https://www.kagstv.com/article/news/nation-world/firefighters-battle-southern-california-fires/507-15037967-5d23-49a5-ab65-24e1ec23ed01)
         
-        #### ['We're ready to show we've improved' | CenterPoint Energy says it's prepared to respond to Francine](https://www.kagstv.com/article/weather/centerpoint-energy-preparations-tropical-storm-hurricane-francine/285-865efb98-9084-4f15-b682-838229f4c5e1)
+        #### [Firefighters hope cooler weather will aid their battle against 3 major Southern California fires](https://www.kagstv.com/article/news/nation-world/firefighters-battle-southern-california-fires/507-15037967-5d23-49a5-ab65-24e1ec23ed01)
         
-    *  [![](https://media.kagstv.com/assets/CCT/images/d7c657d2-58a7-42bb-ab4e-41190b23cd98/20240910T113044/d7c657d2-58a7-42bb-ab4e-41190b23cd98_16x9.jpg) ![](https://media.kagstv.com/assets/CCT/images/d7c657d2-58a7-42bb-ab4e-41190b23cd98/20240910T113044/d7c657d2-58a7-42bb-ab4e-41190b23cd98_360x203.jpg)](https://www.kagstv.com/article/news/nation-world/francine-gains-strength-expected-to-be-hurricane-at-landfall/507-da292cd4-4f70-4865-8d13-11e1e957c9b0)
+    *  [![](https://media.kagstv.com/assets/CCT/images/f8f6c0c5-bdc3-4e70-8067-baac78f6cae3/20240912T203816/f8f6c0c5-bdc3-4e70-8067-baac78f6cae3_16x9.jpg) ![](https://media.kagstv.com/assets/CCT/images/f8f6c0c5-bdc3-4e70-8067-baac78f6cae3/20240912T203816/f8f6c0c5-bdc3-4e70-8067-baac78f6cae3_360x203.jpg)](https://www.kagstv.com/article/news/nation-world/francine-weakens-after-striking-louisiana/507-dae7d181-2a72-4529-932c-c5c3b5b22669)
         
-        #### [Francine expected to hit the US as a hurricane Wednesday, as Gulf Coast hunkers down](https://www.kagstv.com/article/news/nation-world/francine-gains-strength-expected-to-be-hurricane-at-landfall/507-da292cd4-4f70-4865-8d13-11e1e957c9b0)
+        #### [Francine weakens and moves inland after lashing Louisiana](https://www.kagstv.com/article/news/nation-world/francine-weakens-after-striking-louisiana/507-dae7d181-2a72-4529-932c-c5c3b5b22669)
         
     
 * [Sports](https://www.kagstv.com/sports)
@@ -86,9 +87,9 @@ Navigation
 
 Bryan, TX »
 
-90°
+86°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
