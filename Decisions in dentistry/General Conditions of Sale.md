@@ -138,6 +138,20 @@ Provider ID# 317924
 
 [### decisionsindentistry](https://www.instagram.com/decisionsindentistry/ "@decisionsindentistry")
 
+[Fake braces may look trendy, but they come with se ![Fake braces may look trendy, but they come with serious health risks. These nonmedical appliances can cause lasting damage to the dentition and gingiva while raising risk of infection. Link in bio.⁠
+⁠
+⁠
+---⁠
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C_0dY2NNKfI/) 
+
+[The advancement of three-dimensional printing in d ![The advancement of three-dimensional printing in dentistry offers a more efficient, cost-effective, and innovative approach to dental treatments, paving the way for complex, customized solutions that traditional methods can’t achieve. Link in bio.⁠
+⁠
+⁠
+---⁠
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C_yxje0shFr/) 
+
 [Artificial intelligence (AI) is making waves in de ![Artificial intelligence (AI) is making waves in dentistry, especially at the VA Greater Los Angeles Healthcare System, where researchers are pioneering a study to evaluate AI’s reliability in diagnosing dental issues. This groundbreaking initiative, aptly named “VALID,” aims to validate AI’s accuracy and trustworthiness in the clinical setting. Link in bio.⁠
 ⁠
 ⁠
@@ -167,26 +181,6 @@ Link in bio.⁠
 Gloves that glide on damp hands easily & don’t forget the gloves with Aloe.
 Request your FREE SAMPLE of Black Maxx® Thin Nitrile and Alasta® with Aloe Nitrile Exam Gloves by clicking the link in bio or the link in our stories!
 #blackmaxx #alasta #dashmedical #dental #dentist #dentistry #dentistrylife @dashmedicalgloves](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C-5kyOqPozS/) 
-
-[The keystone periodontal pathogen Porphyromonas gi ![The keystone periodontal pathogen Porphyromonas gingivalis poses a significant challenge in periodontitis treatment due to its high antibiotic resistance. Recent research highlights the potential of Cissus quadrangularis extracts as a promising natural alternative, exhibiting notable antibacterial activity against P. gingivalis. Link in bio.⁠
-⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C-5V72XtOOQ/) 
-
-[“Today is the first day of the rest of your life ![“Today is the first day of the rest of your life. There’s nothing you can do about all the days before today.”⁠
-⁠
-In this special 200th episode of The Art of Dental Finance and Management, Art Wiederman reflects on his 40-year career as a dental CPA — including how he got to where he is today and where he hopes to go next. Art encourages listeners to do the same and shares his advice for becoming not just a more successful dentist, but a happier, more fulfilled person.⁠
-⁠
-Thank you to our listeners, creative partners, sponsors, and everyone else who has made this milestone possible!⁠
-⁠
-Link in bio.⁠
-⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C-2xHSAsnAJ/) 
 
 [Load More](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/decisionsindentistry/)
 
