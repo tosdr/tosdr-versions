@@ -411,11 +411,11 @@ _A equipe do POSTGRAIN lhe deseja uma excelente navegação!_
 
 ### Última do blog
 
-[![Mudanças no Instagram - A imagem que ilustra o tema tem o fundo degradê nas cores do Instagram: roxo, rosa, laranja, azul e vermelho. E, no meio, em destaque, tem a logo do Instagram.](https://postgrain.com/wp-content/uploads/2024/09/THUMB-BLOG-Mudancas-no-Instagram-Conheca-o-novo-grid-580x290.jpg)](https://postgrain.com/?post_type=post&p=12531)
+[![Mudança no Instagram - a imagem que ilustra o tema tem o fundo preto e, no meio, em destaque, tem a logo do Instagram no formato 3D.](https://postgrain.com/wp-content/uploads/2024/09/THUMB-BLOG-Mudancas-no-Instagram-Crie-conteudos-mais-profundos-580x290.jpg)](https://postgrain.com/?post_type=post&p=12543)
 
-[Mudanças no Instagram: Conheça o novo layout! \[2024\]](https://postgrain.com/?post_type=post&p=12531)
+[Mudança no Instagram: Saiba como criar carrosséis com mais telas \[2024\]](https://postgrain.com/?post_type=post&p=12543)
 
-[Leia mais](https://postgrain.com/?post_type=post&p=12531)
+[Leia mais](https://postgrain.com/?post_type=post&p=12543)
 
 Ilustração de um dos personagens do Postgrain
 
