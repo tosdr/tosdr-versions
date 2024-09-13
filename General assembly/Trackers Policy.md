@@ -517,6 +517,7 @@ By providing your email, you confirm you have read and acknowledge General Assem
 * [Terms of Service](https://generalassemb.ly/terms-of-service)
 * [Privacy Policy](https://generalassemb.ly/privacy-policy)
 * [EEO Statement and Legal Notices](https://www.adeccogroupna.com/eeo-statement-and-legal-notices/)
+* [Modern Slavery Act Statement](https://www.adecco.co.uk/modern-slavery-act-statement/)
 
 ### Company
 
