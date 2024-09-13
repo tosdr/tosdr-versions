@@ -2,7 +2,7 @@
 
 [Subscribe to Beano Comic
 
-![Beano Comic](https://s3.eu-west-2.amazonaws.com/www.beano.com-assets-test/images/mag-cover.png)](https://www.beano.com/external-link-warning-shop?verify=1489bf40ce&to=https%3A%2F%2Fshop.beano.com%2Fbeano-comic-subscription%3Futm_source%3Dbeano%26utm_campaign%3DSubscribePushButton%26utm_medium%3Dreferral)
+![Beano Comic](https://s3.eu-west-2.amazonaws.com/www.beano.com-assets-test/images/mag-cover.png)](https://www.beano.com/external-link-warning-shop?verify=ceeb73af6a&to=https%3A%2F%2Fshop.beano.com%2Fbeano-comic-subscription%3Futm_source%3Dbeano%26utm_campaign%3DSubscribePushButton%26utm_medium%3Dreferral)
 
 Open Search
 
@@ -10,19 +10,109 @@ Open Search
 
 * [Home](https://www.beano.com/)
 * [Quizzes](https://www.beano.com/quiz)
+    
+    * [Animals](https://www.beano.com/quiz/animals)
+    * [Anime](https://www.beano.com/quiz/anime)
+    * [Books](https://www.beano.com/quiz/books)
+    * [Celebrity](https://www.beano.com/quiz/celebrity)
+    * [Christmas](https://www.beano.com/quiz/christmas)
+    * [Comic](https://www.beano.com/quiz/comic)
+    * [Emoji](https://www.beano.com/quiz/emoji)
+    * [Film and TV](https://www.beano.com/quiz/film-and-tv)
+    * [Food and drink](https://www.beano.com/quiz/food-and-drink)
+    * [Gaming](https://www.beano.com/quiz/gaming)
+    * [General Knowledge](https://www.beano.com/quiz/general-knowledge)
+    * [Geography](https://www.beano.com/quiz/geography)
+    * [Halloween](https://www.beano.com/quiz/halloween)
+    * [Music](https://www.beano.com/quiz/music)
+    * [Personality](https://www.beano.com/quiz/personality)
+    * [School](https://www.beano.com/quiz/school)
+    * [Science](https://www.beano.com/quiz/science)
+    * [Sport](https://www.beano.com/quiz/sport)
+    * [TikTok](https://www.beano.com/quiz/tiktok)
+    * [YouTube](https://www.beano.com/quiz/youtube)
+    
 * [Games](https://www.beano.com/games)
+    
+    * [Action](https://www.beano.com/games/action)
+    * [Beano](https://www.beano.com/games/beano)
+    * [Fun](https://www.beano.com/games/fun)
+    * [Music](https://www.beano.com/games/music)
+    * [Puzzle](https://www.beano.com/games/puzzle)
+    * [Random](https://www.beano.com/games/random)
+    * [Simulation](https://www.beano.com/games/simulation)
+    * [Sports](https://www.beano.com/games/sports)
+    * [Strategy](https://www.beano.com/games/strategy)
+    
 * [Jokes](https://www.beano.com/jokes)
+    
+    * [Animals](https://www.beano.com/jokes/animals)
+    * [Books](https://www.beano.com/jokes/books)
+    * [Celebrity](https://www.beano.com/jokes/celebrity)
+    * [Christmas](https://www.beano.com/jokes/christmas)
+    * [Comic](https://www.beano.com/jokes/comic)
+    * [Dad](https://www.beano.com/jokes/dad)
+    * [Film and TV](https://www.beano.com/jokes/film-and-tv)
+    * [Food and drink](https://www.beano.com/jokes/food-and-drink)
+    * [Funny](https://www.beano.com/jokes/funny)
+    * [Gaming](https://www.beano.com/jokes/gaming)
+    * [Halloween](https://www.beano.com/jokes/halloween)
+    * [Music](https://www.beano.com/jokes/music)
+    * [School](https://www.beano.com/jokes/school)
+    * [Science](https://www.beano.com/jokes/science)
+    * [Sport](https://www.beano.com/jokes/sport)
+    * [TikTok](https://www.beano.com/jokes/tiktok)
+    * [YouTube](https://www.beano.com/jokes/youtube)
+    
 * [Facts](https://www.beano.com/facts)
+    
+    * [Animals](https://www.beano.com/facts/animals)
+    * [Books](https://www.beano.com/facts/books)
+    * [Celebrity](https://www.beano.com/facts/celebrity)
+    * [Christmas](https://www.beano.com/facts/christmas)
+    * [Comic](https://www.beano.com/facts/comic)
+    * [Film and TV](https://www.beano.com/facts/film-and-tv)
+    * [Food and drink](https://www.beano.com/facts/food-and-drink)
+    * [Gaming](https://www.beano.com/facts/gaming)
+    * [General Knowledge](https://www.beano.com/facts/general-knowledge)
+    * [Halloween](https://www.beano.com/facts/halloween)
+    * [Music](https://www.beano.com/facts/music)
+    * [School](https://www.beano.com/facts/school)
+    * [Science](https://www.beano.com/facts/science)
+    * [Sport](https://www.beano.com/facts/sport)
+    * [TikTok](https://www.beano.com/facts/tiktok)
+    * [YouTube](https://www.beano.com/facts/youtube)
+    
 * [Comic](https://www.beano.com/comic)
+    
+    * [Beanotown](https://www.beano.com/comic/beanotown)
+    * [Boomics](https://www.beano.com/comic/boomics)
+    * [Dennis and Gnasher Unleashed](https://www.beano.com/comic/dennis-and-gnasher-unleashed)
+    * [Meet Bananaman](https://www.beano.com/comic/bananaman)
+    * [Meet Dennis and Gnasher](https://www.beano.com/comic/dennis-and-gnasher)
+    * [Meet Minnie](https://www.beano.com/comic/minnie)
+    * [Meet Roger the Dodger](https://www.beano.com/comic/roger-the-dodger)
+    * [Meet the Bash Street Kids](https://www.beano.com/comic/bash-street-kids)
+    * [Sneak Peek](https://www.beano.com/comic/sneak-peek)
+    
 * [Pranks](https://www.beano.com/pranks)
+    
+    * [April Fools pranks](https://www.beano.com/pranks/april-fools-pranks)
+    * [Christmas pranks](https://www.beano.com/pranks/christmas-pranks)
+    * [Halloween pranks](https://www.beano.com/pranks/halloween-pranks)
+    * [Holiday pranks](https://www.beano.com/pranks/pranks)
+    * [Prank your family](https://www.beano.com/pranks/prank-your-family)
+    * [Prank your friends](https://www.beano.com/pranks/prank-your-friends)
+    * [Pranks for school](https://www.beano.com/pranks/pranks-for-school)
+    
 
 [Subscribe to Beano Comic
 
-![Beano Comic](https://s3.eu-west-2.amazonaws.com/www.beano.com-assets-test/images/mag-cover.png)](https://www.beano.com/external-link-warning-shop?verify=1489bf40ce&to=https%3A%2F%2Fshop.beano.com%2Fbeano-comic-subscription%3Futm_source%3Dbeano%26utm_campaign%3DSubscribePushButton%26utm_medium%3Dreferral)
+![Beano Comic](https://s3.eu-west-2.amazonaws.com/www.beano.com-assets-test/images/mag-cover.png)](https://www.beano.com/external-link-warning-shop?verify=ceeb73af6a&to=https%3A%2F%2Fshop.beano.com%2Fbeano-comic-subscription%3Futm_source%3Dbeano%26utm_campaign%3DSubscribePushButton%26utm_medium%3Dreferral)
 
 [Subscribe to our Beano comic! Click Here
 
-![Beano Comic](https://s3.eu-west-2.amazonaws.com/www.beano.com-assets-test/images/mag-cover.png)](https://www.beano.com/external-link-warning-shop?verify=1489bf40ce&to=https%3A%2F%2Fshop.beano.com%2Fbeano-comic-subscription%3Futm_source%3Dbeano%26utm_campaign%3DSubscribePushButton%26utm_medium%3Dreferral)
+![Beano Comic](https://s3.eu-west-2.amazonaws.com/www.beano.com-assets-test/images/mag-cover.png)](https://www.beano.com/external-link-warning-shop?verify=ceeb73af6a&to=https%3A%2F%2Fshop.beano.com%2Fbeano-comic-subscription%3Futm_source%3Dbeano%26utm_campaign%3DSubscribePushButton%26utm_medium%3Dreferral)
 
 [![Beano](https://www.beano.com/app/themes/beano/assets/images/logo.svg)](https://www.beano.com/ "Beano")
 
@@ -39,16 +129,104 @@ Open Search
 [![Beano](https://www.beano.com/app/themes/beano/assets/images/burger-menu-close.svg)](https://www.beano.com/ "Close mobile menu")
 
 * [Home](https://www.beano.com/)
-* [Subscribe to comic](https://www.beano.com/subscribe)
-* [Quizzes](https://www.beano.com/categories/quizzes)
-* [Games](https://www.beano.com/categories/games)
-* [Jokes](https://www.beano.com/categories/jokes)
-* [Facts](https://www.beano.com/categories/fun-facts)
-* [Comic](https://www.beano.com/categories/beanotown)
-* [Fun Stuff](https://www.beano.com/categories/fun-stuff)
-* [Shop](https://www.beano.com/external-link-warning-shop?verify=f6d78c5732&to=https%3A%2F%2Fshop.beano.com%2F%3Futm_source%3Dbeano%26utm_campaign%3DCP%26utm_medium%3Dreferral)
+* [Quizzes](https://www.beano.com/quiz)
+    
+    * [Animals](https://www.beano.com/quiz/animals)
+    * [Anime](https://www.beano.com/quiz/anime)
+    * [Books](https://www.beano.com/quiz/books)
+    * [Celebrity](https://www.beano.com/quiz/celebrity)
+    * [Christmas](https://www.beano.com/quiz/christmas)
+    * [Comic](https://www.beano.com/quiz/comic)
+    * [Emoji](https://www.beano.com/quiz/emoji)
+    * [Film and TV](https://www.beano.com/quiz/film-and-tv)
+    * [Food and drink](https://www.beano.com/quiz/food-and-drink)
+    * [Gaming](https://www.beano.com/quiz/gaming)
+    * [General Knowledge](https://www.beano.com/quiz/general-knowledge)
+    * [Geography](https://www.beano.com/quiz/geography)
+    * [Halloween](https://www.beano.com/quiz/halloween)
+    * [Music](https://www.beano.com/quiz/music)
+    * [Personality](https://www.beano.com/quiz/personality)
+    * [School](https://www.beano.com/quiz/school)
+    * [Science](https://www.beano.com/quiz/science)
+    * [Sport](https://www.beano.com/quiz/sport)
+    * [TikTok](https://www.beano.com/quiz/tiktok)
+    * [YouTube](https://www.beano.com/quiz/youtube)
+    
+* [Games](https://www.beano.com/games)
+    
+    * [Action](https://www.beano.com/games/action)
+    * [Beano](https://www.beano.com/games/beano)
+    * [Fun](https://www.beano.com/games/fun)
+    * [Music](https://www.beano.com/games/music)
+    * [Puzzle](https://www.beano.com/games/puzzle)
+    * [Random](https://www.beano.com/games/random)
+    * [Simulation](https://www.beano.com/games/simulation)
+    * [Sports](https://www.beano.com/games/sports)
+    * [Strategy](https://www.beano.com/games/strategy)
+    
+* [Jokes](https://www.beano.com/jokes)
+    
+    * [Animals](https://www.beano.com/jokes/animals)
+    * [Books](https://www.beano.com/jokes/books)
+    * [Celebrity](https://www.beano.com/jokes/celebrity)
+    * [Christmas](https://www.beano.com/jokes/christmas)
+    * [Comic](https://www.beano.com/jokes/comic)
+    * [Dad](https://www.beano.com/jokes/dad)
+    * [Film and TV](https://www.beano.com/jokes/film-and-tv)
+    * [Food and drink](https://www.beano.com/jokes/food-and-drink)
+    * [Funny](https://www.beano.com/jokes/funny)
+    * [Gaming](https://www.beano.com/jokes/gaming)
+    * [Halloween](https://www.beano.com/jokes/halloween)
+    * [Music](https://www.beano.com/jokes/music)
+    * [School](https://www.beano.com/jokes/school)
+    * [Science](https://www.beano.com/jokes/science)
+    * [Sport](https://www.beano.com/jokes/sport)
+    * [TikTok](https://www.beano.com/jokes/tiktok)
+    * [YouTube](https://www.beano.com/jokes/youtube)
+    
+* [Facts](https://www.beano.com/facts)
+    
+    * [Animals](https://www.beano.com/facts/animals)
+    * [Books](https://www.beano.com/facts/books)
+    * [Celebrity](https://www.beano.com/facts/celebrity)
+    * [Christmas](https://www.beano.com/facts/christmas)
+    * [Comic](https://www.beano.com/facts/comic)
+    * [Film and TV](https://www.beano.com/facts/film-and-tv)
+    * [Food and drink](https://www.beano.com/facts/food-and-drink)
+    * [Gaming](https://www.beano.com/facts/gaming)
+    * [General Knowledge](https://www.beano.com/facts/general-knowledge)
+    * [Halloween](https://www.beano.com/facts/halloween)
+    * [Music](https://www.beano.com/facts/music)
+    * [School](https://www.beano.com/facts/school)
+    * [Science](https://www.beano.com/facts/science)
+    * [Sport](https://www.beano.com/facts/sport)
+    * [TikTok](https://www.beano.com/facts/tiktok)
+    * [YouTube](https://www.beano.com/facts/youtube)
+    
+* [Comic](https://www.beano.com/comic)
+    
+    * [Beanotown](https://www.beano.com/comic/beanotown)
+    * [Boomics](https://www.beano.com/comic/boomics)
+    * [Dennis and Gnasher Unleashed](https://www.beano.com/comic/dennis-and-gnasher-unleashed)
+    * [Meet Bananaman](https://www.beano.com/comic/bananaman)
+    * [Meet Dennis and Gnasher](https://www.beano.com/comic/dennis-and-gnasher)
+    * [Meet Minnie](https://www.beano.com/comic/minnie)
+    * [Meet Roger the Dodger](https://www.beano.com/comic/roger-the-dodger)
+    * [Meet the Bash Street Kids](https://www.beano.com/comic/bash-street-kids)
+    * [Sneak Peek](https://www.beano.com/comic/sneak-peek)
+    
+* [Pranks](https://www.beano.com/pranks)
+    
+    * [April Fools pranks](https://www.beano.com/pranks/april-fools-pranks)
+    * [Christmas pranks](https://www.beano.com/pranks/christmas-pranks)
+    * [Halloween pranks](https://www.beano.com/pranks/halloween-pranks)
+    * [Holiday pranks](https://www.beano.com/pranks/pranks)
+    * [Prank your family](https://www.beano.com/pranks/prank-your-family)
+    * [Prank your friends](https://www.beano.com/pranks/prank-your-friends)
+    * [Pranks for school](https://www.beano.com/pranks/pranks-for-school)
+    
 
-[Want more Beano? Subscribe ![Beano Comic](https://s3.eu-west-2.amazonaws.com/www.beano.com-assets-test/images/mag-cover-2.png)](https://www.beano.com/external-link-warning-shop?verify=1489bf40ce&to=https%3A%2F%2Fshop.beano.com%2Fbeano-comic-subscription%3Futm_source%3Dbeano%26utm_campaign%3DSubscribePushButton%26utm_medium%3Dreferral) 
+[Want more Beano? Subscribe ![Beano Comic](https://s3.eu-west-2.amazonaws.com/www.beano.com-assets-test/images/mag-cover-2.png)](https://www.beano.com/external-link-warning-shop?verify=ceeb73af6a&to=https%3A%2F%2Fshop.beano.com%2Fbeano-comic-subscription%3Futm_source%3Dbeano%26utm_campaign%3DSubscribePushButton%26utm_medium%3Dreferral) 
 
 * [Home](https://www.beano.com/)
 * [Quizzes](https://www.beano.com/categories/quizzes)
@@ -403,17 +581,17 @@ Whoopee cushion...
 
  
 
-* [Beano Shop](https://www.beano.com/external-link-warning-shop?verify=f6d78c5732&to=https%3A%2F%2Fshop.beano.com%2F%3Futm_source%3Dbeano%26utm_campaign%3DCP%26utm_medium%3Dreferral)
+* [Beano Shop](https://www.beano.com/external-link-warning-shop?verify=864c05fd0d&to=https%3A%2F%2Fshop.beano.com%2F%3Futm_source%3Dbeano%26utm_campaign%3DCP%26utm_medium%3Dreferral)
 * [Subscription Offers](https://www.beano.com/subscribe)
 * [Parent Zone](https://www.beano.com/parent-zone)
 
-[![KidAware Certified](https://www.beano.com/app/themes/beano/assets/images/footer/footer-kidawarelogo.png)](https://www.beano.com/external-link-warning?verify=c1ede84544&to=https%3A%2F%2Fwww.superawesome.com%2Fkidaware%2F)
+[![KidAware Certified](https://www.beano.com/app/themes/beano/assets/images/footer/footer-kidawarelogo.png)](https://www.beano.com/external-link-warning?verify=359bb817af&to=https%3A%2F%2Fwww.superawesome.com%2Fkidaware%2F)
 
-[![COPPA - Safe Harbor Certification (Kids' Privacy Assured Privo)](https://www.beano.com/app/themes/beano/assets/images/footer/coppa.png)](https://www.beano.com/external-link-warning?verify=c4d1c0c44e&to=https%3A%2F%2Fcert.privo.com%2F%23%2Fcompanies%2Fbeano_studios)
+[![COPPA - Safe Harbor Certification (Kids' Privacy Assured Privo)](https://www.beano.com/app/themes/beano/assets/images/footer/coppa.png)](https://www.beano.com/external-link-warning?verify=fbddd9e3db&to=https%3A%2F%2Fcert.privo.com%2F%23%2Fcompanies%2Fbeano_studios)
 
-[![GDPR - General Data Protection (Kids' Privacy Assured Privo)](https://www.beano.com/app/themes/beano/assets/images/footer/gdpr.png)](https://www.beano.com/external-link-warning?verify=c4d1c0c44e&to=https%3A%2F%2Fcert.privo.com%2F%23%2Fcompanies%2Fbeano_studios)
+[![GDPR - General Data Protection (Kids' Privacy Assured Privo)](https://www.beano.com/app/themes/beano/assets/images/footer/gdpr.png)](https://www.beano.com/external-link-warning?verify=fbddd9e3db&to=https%3A%2F%2Fcert.privo.com%2F%23%2Fcompanies%2Fbeano_studios)
 
-[![Kids' Privacy Assured Privo](https://www.beano.com/app/themes/beano/assets/images/footer/seal.png)](https://www.beano.com/external-link-warning?verify=c4d1c0c44e&to=https%3A%2F%2Fcert.privo.com%2F%23%2Fcompanies%2Fbeano_studios)
+[![Kids' Privacy Assured Privo](https://www.beano.com/app/themes/beano/assets/images/footer/seal.png)](https://www.beano.com/external-link-warning?verify=fbddd9e3db&to=https%3A%2F%2Fcert.privo.com%2F%23%2Fcompanies%2Fbeano_studios)
 
 * [Home](https://www.beano.com/)
 * [Quizzes](https://www.beano.com/categories/quizzes)
@@ -428,7 +606,7 @@ Whoopee cushion...
 * [Contact Us](https://www.beano.com/contact-us)
 * [Cookie Policy](https://www.beano.com/cookie-policy)
 * [Terms and Conditions](https://www.beano.com/terms-and-conditions)
-* [Careers](https://www.beano.com/external-link-warning?verify=18ca9a079d&to=https%3A%2F%2Fwww.beanostudios.com%2Fcareers)
+* [Careers](https://www.beano.com/external-link-warning?verify=f7ef598cac&to=https%3A%2F%2Fwww.beanostudios.com%2Fcareers)
 * [Privacy Policy](https://www.beano.com/privacy-policy)
 * [Update Cookie Preferences](https://www.beano.com/)
 
