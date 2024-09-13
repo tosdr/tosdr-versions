@@ -258,25 +258,25 @@ New York, NY 10001
 Top of Today
 ------------
 
-1. [![James Pinker](https://am23.mediaite.com/lc/cnt/uploads/2024/09/James-Pinker-432x243.jpg)](https://lawandcrime.com/crime/man-went-to-basement-where-5-year-old-girls-were-playing-monsters-then-forced-them-to-play-kissing-game/)
+1. [![Emonte Morgan shot and killed Police Officer Ella French during a traffic stop in August 2021 officers said. (Image of French and a 2019 booking photo of Morgan: Chicago Police Department)](https://am23.mediaite.com/lc/cnt/uploads/2024/03/Emonte-Morgan-and-Chicago-Police-Officer-Ella-French-432x243.png)](https://lawandcrime.com/crime/im-not-going-to-get-closure-officer-forced-into-retirement-after-cop-killer-leaves-bullet-fragments-in-his-neck-and-murders-his-partner/)
     
-    ### [Man went to basement where 5-year-old girls were playing 'Monsters,' then forced them to play 'kissing' game](https://lawandcrime.com/crime/man-went-to-basement-where-5-year-old-girls-were-playing-monsters-then-forced-them-to-play-kissing-game/)
+    ### ['I'm not going to get closure': Officer forced into retirement after cop killer leaves bullet fragments in his neck and murders his partner](https://lawandcrime.com/crime/im-not-going-to-get-closure-officer-forced-into-retirement-after-cop-killer-leaves-bullet-fragments-in-his-neck-and-murders-his-partner/)
     
-2. [![Sen. Marie Alvarado-Gil](https://am22.mediaite.com/lc/cnt/uploads/2024/09/senator-432x243.jpg)](https://lawandcrime.com/lawsuit/i-want-you-to-kiss-it-gary-condits-son-claims-state-senator-made-him-pleasure-her-in-car-hurting-his-back-in-confined-space/)
+2. [![Left: Manhattan District Attorney Alvin Bragg walks in the hallway outside a courtroom where former President Donald Trump is attending a hearing in his criminal case on charges stemming from hush money paid to a porn star in New York, Monday, March 25, 2024. (Brendan McDermid/Pool Photo via AP)/Right: Former President Donald Trump speaks during news conference Monday, March 25, 2024, in New York. (AP Photo/Frank Franklin II)](https://am23.mediaite.com/lc/cnt/uploads/2024/03/bragg-trump-gag-432x243.jpg)](https://lawandcrime.com/high-profile/denied-trump-strikes-out-as-federal-judges-say-hush-money-case-must-stay-in-new-york-state-court/)
     
-    ### ['I want you to kiss it': Gary Condit's son claims state senator made him 'pleasure' her in car, hurting his back in 'confined space'](https://lawandcrime.com/lawsuit/i-want-you-to-kiss-it-gary-condits-son-claims-state-senator-made-him-pleasure-her-in-car-hurting-his-back-in-confined-space/)
+    ### ['DENIED': Trump strikes out as federal judges say hush-money case must stay in New York state court](https://lawandcrime.com/high-profile/denied-trump-strikes-out-as-federal-judges-say-hush-money-case-must-stay-in-new-york-state-court/)
     
-3. [![Left: Brittanee Drexel. Right: Raymond Moody (Georgetown County Sheriff’s Office); Inset: Angel Vause (15th Circuit Solicitor's Office).](https://am22.mediaite.com/lc/cnt/uploads/2024/03/Drexel-Moody-Vause-432x243.jpg)](https://lawandcrime.com/crime/girlfriend-of-monster-murderer-who-kidnapped-and-raped-a-teenager-on-spring-break-at-myrtle-beach-admits-lying-to-the-fbi/)
+3. [![Maecee Lathers](https://am21.mediaite.com/lc/cnt/uploads/2024/09/Lathers1-1-432x243.jpg)](https://lawandcrime.com/crime/maecee-lathers-bodycam-revealed-showing-instagram-model-allegedly-high-on-pink-cocaine-and-telling-cops-shes-from-the-future/)
     
-    ### [Girlfriend of 'monster' murderer who kidnapped and raped a teenager on spring break at Myrtle Beach admits lying to the FBI](https://lawandcrime.com/crime/girlfriend-of-monster-murderer-who-kidnapped-and-raped-a-teenager-on-spring-break-at-myrtle-beach-admits-lying-to-the-fbi/)
+    ### ['My name is Mercedes!': Bodycam shows Instagram model allegedly high on 'pink cocaine' screaming and telling cops she's 'from the future' minutes after deadly Miami crash](https://lawandcrime.com/crime/maecee-lathers-bodycam-revealed-showing-instagram-model-allegedly-high-on-pink-cocaine-and-telling-cops-shes-from-the-future/)
     
-4. [![Nathaniel Hall and Jasmine Williams](https://am22.mediaite.com/lc/cnt/uploads/2024/09/Nathaniel-Hall-and-Jasmine-Williams-432x243.jpg)](https://lawandcrime.com/crime/murder-suspect-calls-sister-from-jail-tells-her-to-clean-up-home-where-he-2-others-killed-man-after-luring-him-there-and-torching-body-in-car-cops/)
+4. [![(KSDK/YouTube)](https://am22.mediaite.com/lc/cnt/uploads/2024/09/Florissant-Mo.-Police-Department-432x243.jpg)](https://lawandcrime.com/lawsuit/voyeur-and-predator-of-the-worst-kind-missouri-mom-sues-cop-for-allegedly-stealing-nude-selfies-meant-for-husband-during-traffic-stop/)
     
-    ### [Murder suspect calls sister from jail, tells her to 'clean up' home where he, 2 others killed man after luring him there and torching body in car: Cops](https://lawandcrime.com/crime/murder-suspect-calls-sister-from-jail-tells-her-to-clean-up-home-where-he-2-others-killed-man-after-luring-him-there-and-torching-body-in-car-cops/)
+    ### ['Voyeur and predator of the worst kind': Missouri mom sues cop for allegedly stealing nude selfies meant for husband during traffic stop](https://lawandcrime.com/lawsuit/voyeur-and-predator-of-the-worst-kind-missouri-mom-sues-cop-for-allegedly-stealing-nude-selfies-meant-for-husband-during-traffic-stop/)
     
-5. [![Popular post image](https://am22.mediaite.com/lc/cnt/uploads/2024/09/Kohberger1-432x243.jpg)](https://lawandcrime.com/crime/idaho-murders-judge-cites-extreme-news-coverage-presumed-prejudice-and-a-lack-of-courtroom-space-to-move-bryan-kohbergers-trial-somewhere-else/)
+5. [![Donald Trump, Juan Merchan](https://am22.mediaite.com/lc/cnt/uploads/2024/04/Donald-Trump-Juan-Merchan-432x243.jpg)](https://lawandcrime.com/high-profile/lacking-substantial-constitutional-question-new-yorks-top-court-again-tosses-trump-challenge-of-gag-order-barring-him-from-criticizing-hush-money-sentencing-judges-daughter/)
     
-    ### [Idaho murders judge cites 'extreme' news coverage, 'presumed prejudice,' and a lack of courtroom space to move Bryan Kohberger's trial somewhere else](https://lawandcrime.com/crime/idaho-murders-judge-cites-extreme-news-coverage-presumed-prejudice-and-a-lack-of-courtroom-space-to-move-bryan-kohbergers-trial-somewhere-else/)
+    ### [Lacking 'substantial constitutional question,' New York's top court again tosses Trump challenge of gag order barring him from criticizing hush-money sentencing judge's daughter](https://lawandcrime.com/high-profile/lacking-substantial-constitutional-question-new-yorks-top-court-again-tosses-trump-challenge-of-gag-order-barring-him-from-criticizing-hush-money-sentencing-judges-daughter/)
     
 
 [](http://eepurl.com/c89Jdb)
