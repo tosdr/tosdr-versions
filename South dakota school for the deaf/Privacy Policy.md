@@ -53,7 +53,7 @@ Button
     * [Publications](https://sddeaf.org/Resources/Publications)
 
 * [Facebook Icon](https://www.facebook.com/SouthDakotaSchoolfortheDeaf "Facebook")
-* [Pinterest Icon](http://pinterest.com/sdsdoutreach/ "Pinterest")
+* [Pinterest Icon](https://pinterest.com/sdsdoutreach/ "Pinterest")
 * [Youtube Icon](https://www.youtube.com/channel/UCrg6w933BuOQrL7xTtRphmw "Youtube")
 
 SDSD is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the SDSD site and governs data collection and usage. By using the SDSD site, you consent to the data practices described in this statement.
@@ -98,6 +98,6 @@ SDSD will occasionally update this Statement of Privacy to reflect company and c
 
 Contact Information
 
-SDSD welcomes your comments regarding this Statement of Privacy. If you believe that SDSD has not adhered to this Statement, please contact SDSD at [server@usd.edu](mailto:server@usd.edu). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+SDSD welcomes your comments regarding this Statement of Privacy. If you believe that SDSD has not adhered to this Statement, please contact SDSD at [\[email protected\]](https://sddeaf.org/cdn-cgi/l/email-protection). We will use commercially reasonable efforts to promptly determine and remedy the problem.
 
 © Copyright 2024 - South Dakota Services for the Deaf [Terms Of Use](https://sddeaf.org/Terms) [Privacy Statement](https://sddeaf.org/Privacy)
