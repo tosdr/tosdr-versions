@@ -203,7 +203,7 @@ If you register with LEO and are logged on, the following **additional** data is
 
 ### Use of LEO through the APP with log in / user account  ­
 
-* If you log in to the APP with your user name and password, the following data are linked:
+* Wenn Sie sich in der App mit Ihrer E-Mail-Adresse und Passwort anmelden, werden folgende Daten verknüpft:
     
     * The device ID is linked to your user account.
     * If you buy a language course in the APP-Store (iOS) or the Play-Store (Android), the order number is linked to your user account
@@ -216,7 +216,7 @@ Registration / User account at LEO
 
 When you create a free user account with LEO, for example in order to write contributions for the forums, to buy a language course or to use the Trainer for your personal vocabulary training, the following data are collected and stored upon registration:
 
-* User name: can be freely chosen, is not visible to other users
+* Benutzername: wird automatisch erzeugt, für andere Nutzer nicht sichtbar
 * Alias (nick name): can be freely chosen, is possibly visible to other users (e.g. if you write a contribution for the forum)
 * Email address: is used for the confirmation (verification) of the log in. Is only visible to other users if you give your explicit consent and the appropriate settings are made in your account. You can change your email address in your account settings at any time. The email address provided upon initial registration remains stored in unchanged form. We do not give your email address to third parties and we do not send newsletters.
 * LEO messages (“Private messages”): stores your wish to receive or not to receive personal messages from other users within LEO. You can change this wish at any time by adjusting your account settings. The private messages are stored permanently on our servers. Your email address is not visible to other users of the private messages facility/service. ­
@@ -323,8 +323,8 @@ We will notify you in accordance with Art. 19 GDPR of the rectification.
 
 ### Right to erasure (“Right to be forgotten”)  ­
 
-Under Art. 17 GDPR you have the right to have this data erased. If you wish this to be done, please send an ­[Email to the LEO Team](mailto:dict@leo.org)and supply your user name in order to expedite identification  
-We will notify you in accordance with Art. 19 GDPR of the erasure.
+Under Art. 17 GDPR you have the right to have this data erased. If you wish this to be done, please send an ­[Email to the LEO Team](mailto:dict@leo.org)­ von der E-Mail-Adresse aus, mit der Sie bei LEO registriert sind.  
+We will notify you in accordance with Art. 19 GDPR of the erasure.Selbstverständlich können Sie Ihr Benutzerkonto auch selbst löschen, die Möglichkeit dazu finden Sie in den Einstellungen Ihres Benutzerkontos.
 
 ### Right to restriction of processing  ­
 
@@ -568,8 +568,7 @@ English missing
 | [![ru](/img/svg/flag_ru.svg "Russian")](https://dict.leo.org/%D0%BD%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9/) | [Russian ⇔ German](https://dict.leo.org/%D0%BD%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9/) | [![de](/img/svg/flag_de.svg "German")](https://dict.leo.org/%D0%BD%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9/) | [Forums](https://dict.leo.org/forum/index.php?lp=rude&lang=ru) | [Trainer](https://dict.leo.org/trainer/index.php?lp=rude&lang=ru) | [Courses](https://dict.leo.org/content/index.php?lp=rude&lang=ru) |
 | [![pt](/img/svg/flag_pt.svg "Portuguese")](https://dict.leo.org/alem%C3%A3o-portugu%C3%AAs/) | [Portuguese ⇔ German](https://dict.leo.org/alem%C3%A3o-portugu%C3%AAs/) | [![de](/img/svg/flag_de.svg "German")](https://dict.leo.org/alem%C3%A3o-portugu%C3%AAs/) | [Forums](https://dict.leo.org/forum/index.php?lp=ptde&lang=pt) | [Trainer](https://dict.leo.org/trainer/index.php?lp=ptde&lang=pt) | [Courses](https://dict.leo.org/content/index.php?lp=ptde&lang=pt) |
 | [![pl](/img/svg/flag_pl.svg "Polish")](https://dict.leo.org/niemiecki-polsko/) | [Polish ⇔ German](https://dict.leo.org/niemiecki-polsko/) | [![de](/img/svg/flag_de.svg "German")](https://dict.leo.org/niemiecki-polsko/) | [Forums](https://dict.leo.org/forum/index.php?lp=plde&lang=pl) | [Trainer](https://dict.leo.org/trainer/index.php?lp=plde&lang=pl) | [Courses](https://dict.leo.org/content/index.php?lp=plde&lang=pl) |
-| [![es](/img/svg/flag_es.svg "Spanish")](https://dict.leo.org/portugu%C3%A9s-espa%C3%B1ol/) | [Spanish ⇔ Portuguese](https://dict.leo.org/portugu%C3%A9s-espa%C3%B1ol/) | [![pt](/img/svg/flag_pt.svg "Portuguese")](https://dict.leo.org/portugu%C3%A9s-espa%C3%B1ol/) | [Forums](https://dict.leo.org/forum/index.php?lp=espt&lang=es) | [Trainer](https://dict.leo.org/trainer/index.php?lp=espt&lang=es) | [Courses](https://dict.leo.org/content/index.php?lp=espt&lang=es) | *  [Android](https://dict.leo.org/pages/smartphones/android/ende/manual_en.html)
-*  [iPhone / iPad](https://dict.leo.org/pages/smartphones/iOS/ende/manual_en.html)
+| [![es](/img/svg/flag_es.svg "Spanish")](https://dict.leo.org/portugu%C3%A9s-espa%C3%B1ol/) | [Spanish ⇔ Portuguese](https://dict.leo.org/portugu%C3%A9s-espa%C3%B1ol/) | [![pt](/img/svg/flag_pt.svg "Portuguese")](https://dict.leo.org/portugu%C3%A9s-espa%C3%B1ol/) | [Forums](https://dict.leo.org/forum/index.php?lp=espt&lang=es) | [Trainer](https://dict.leo.org/trainer/index.php?lp=espt&lang=es) | [Courses](https://dict.leo.org/content/index.php?lp=espt&lang=es) | *  [App für Android / iPhone](https://dict.leo.org/pages/smartphones/ende/index_en.html)
 *  [Lion](https://lion.schleinzer.com/de/home)
 *  [Tools for browsers](https://dict.leo.org/pages/helpers/ende/browserTools_en.html) *  [Help](https://dict.leo.org/pages/help/ende/help_en.html)
 *  [About us / LEO’s history](https://dict.leo.org/pages/about/ende/index_en.html)
