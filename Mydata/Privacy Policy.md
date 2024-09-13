@@ -14,6 +14,7 @@ MyData
 * [Awards](https://mydata.org/participate/awards/)
 * [Participate](https://mydata.org/participate/)
     * [Become a member](https://mydata.org/participate/become-a-member/)
+    * [Members Board](https://mydata.org/member-opportunities/)
     * [Sign the Declaration](https://mydata.org/participate/declaration/)
     * [Subscribe to Newsletter](https://mydata.org/subscribe/)
     * [Projects](https://mydata.org/projects/)
