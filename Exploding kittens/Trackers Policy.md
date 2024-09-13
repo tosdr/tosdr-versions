@@ -20,13 +20,21 @@ Close
 
 Offer valid on order with subtotals of $40 or more. Tax excluded. Discount codes may change your subtotal. Offer not redeemable for cash or credit. Exploding Kittens reserves the right to modify or end this promotion without notice.
 
-Free shipping on orders of £35 or more in the UK. See Details.
+Free shipping on orders of £33 or more in the UK. See Details.
 
 Close
 
 #### UK Free Shipping Terms & Conditions
 
-Offer valid on order with subtotals of £35 or more. Tax excluded. Discount codes may change your subtotal. Offer not redeemable for cash or credit. Exploding Kittens reserves the right to modify or end this promotion without notice.
+Offer valid on order with subtotals of £33 or more. Tax excluded. Discount codes may change your subtotal. Offer not redeemable for cash or credit. Exploding Kittens reserves the right to modify or end this promotion without notice.
+
+Free shipping on orders of €40.00 in the EU. See Details.
+
+Close
+
+#### EU Free Shipping Terms & Conditions
+
+Offer valid on order with subtotals of €40.00 or more. Tax excluded. Discount codes may change your subtotal. Offer not redeemable for cash or credit. Exploding Kittens reserves the right to modify or end this promotion without notice.
 
 Next
 
@@ -91,6 +99,7 @@ Next
     
     Thanksgiving - Holiday Card](https://www.explodingkittens.com/products/holiday-card-thanksgiving)
     
+* [Collectibles](https://www.explodingkittens.com/collections/other-stuff)
 * [Instructions](https://www.explodingkittens.com/pages/instructions)
 
 Navigation[](https://www.explodingkittens.com/search)
@@ -99,7 +108,7 @@ Navigation[](https://www.explodingkittens.com/search)
 
 Newsletter[](https://www.explodingkittens.com/search)
 
- Country/region GB £
+ Country/region US $
 
 Country/region
 
@@ -170,11 +179,12 @@ Belgium € Canada $ France € Germany € Ireland € Italy € Netherlands �
     
     Thanksgiving - Holiday Card](https://www.explodingkittens.com/products/holiday-card-thanksgiving)
     
+* [Collectibles](https://www.explodingkittens.com/collections/other-stuff)
 * [Instructions](https://www.explodingkittens.com/pages/instructions)
 
 [Account](https://www.explodingkittens.com/account/login)
 
- Country/region United Kingdom (GBP £)
+ Country/region United States (USD $)
 
 Country/region
 
@@ -320,7 +330,7 @@ We like playing games with our followers.
 
 PLUS: We sometimes giveaway **free games** to our newsletter subscribers, in addition to early access to things we’re working on.
 
- Country/region United Kingdom £
+ Country/region United States $
 
 Country/region
 
