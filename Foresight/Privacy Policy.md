@@ -10,14 +10,20 @@ Popular searches
 
 Popular products
 
-* [Standard Financial Model](https://foresight.is/standard-financial-model/)
 * [Cap Table and Exit Waterfall Tool](https://foresight.is/cap-table/)
+* [Standard Financial Model](https://foresight.is/standard-financial-model/)
 * [Venture Investor Model](https://foresight.is/venture-fund-model/)
 * [See all templates, courses, and services](https://foresight.is/products/)
 
-* [75k+ Downloads](https://foresight.is/users/)
-* [Blog](https://foresight.is/blog/)
-* [Changelog](https://foresight.is/changelog/)
+* [76k+ Downloads](https://foresight.is/users/)
+* [Updates 4](#)
+    
+    * [Changelog](https://foresight.is/changelog/)
+    * [New website features](https://foresight.is/changelog/#2024-09-09-filters)
+    * [Donations update](https://foresight.is/changelog/#2024-09-09-donations)
+    * [New cap table tool features](https://foresight.is/changelog/#2024-09-04-cap-table-update)
+    * [New cap table courses live](https://foresight.is/changelog/#2024-08-31-new-cap-table-dates)
+    
 * [Docs](https://foresight.is/docs/)
 
 Login
@@ -27,14 +33,14 @@ Close
 Download Models
 ---------------
 
-Download or access models instantly after purchase. Access the latest model version anytime through your original Gumroad email receipt or by [logging into your Gumroad account](https://app.gumroad.com/login). If you do not have an account, create one with the email used for purchase.
+Download or access models instantly after purchase. Get the latest model version anytime through your original Gumroad email receipt or by [logging into your Gumroad account](https://app.gumroad.com/login). If you do not have an account, create one with the email used for purchase.
 
 [See Templates](https://foresight.is/templates/)
 
 Access Courses
 --------------
 
-Login for course content and live event schedules through either [Maven](https://maven.com/tdavidson) (for Cap Table and Exit Waterfall Masterclass) or [Gumroad](https://app.gumroad.com/login) (for How to Model Venture Funds, Beginning Cap Tables, Intermediate Cap Tables, and Intermediate Exit Waterfalls).
+Login to [Gumroad](https://app.gumroad.com/login) to access course content and live session schedules for Cap Table and Exit Waterfall Masterclass and Course, How to Model Venture Funds, and Beginning Cap Tables. If you do not have an account, create one with the email used for purchase.
 
 [See Courses](https://foresight.is/courses/)
 
@@ -46,7 +52,7 @@ Close
 
 [Templates](https://foresight.is/templates) [Courses](https://foresight.is/courses) [Services](https://foresight.is/services)
 
-[About](https://foresight.is/hello/) [75k+ Downloads](https://foresight.is/users/) [Blog](https://foresight.is/blog/) [Changelog](https://foresight.is/changelog/) [Documentation](https://foresight.is/docs/) [Help](https://foresight.is/help/) [Talent](https://foresight.is/talent/) [Contact](https://foresight.is/contact/) [Home](https://foresight.is/)
+[About](https://foresight.is/hello/) [76k+ Downloads](https://foresight.is/users/) [Blog](https://foresight.is/blog/) [Changelog 4](https://foresight.is/changelog/) [Documentation 0](https://foresight.is/docs/) [Help](https://foresight.is/help/) [Talent](https://foresight.is/talent/) [Contact](https://foresight.is/contact/) [Home](https://foresight.is/)
 
 [Legal](https://foresight.is/legal/)
 
@@ -104,7 +110,7 @@ Footer
 
 ### Latest
 
-[Blog](https://foresight.is/blog/) [Investing in AI](https://foresight.is/investing-ai/)
+[Blog](https://foresight.is/blog/) [Earn CPE credits with Foresight](https://foresight.is/earn-cpe/)
 
 ### Foresight
 
