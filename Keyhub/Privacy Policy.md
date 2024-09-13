@@ -164,6 +164,6 @@ Made with ❤️ around the 🌍
 We have no affiliation with Steam or Valve. Valve and Steam are registered trademarks of the Valve Corporation.  
 Execution Time: 2ms  
 Protected by Cloudflare  
-Your IP: 206.81.0.208
+Your IP: 159.223.154.84
 
 Using a VPN is not allowed to access this website! Thank you for understanding!
