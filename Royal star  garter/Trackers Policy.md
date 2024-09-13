@@ -1,4 +1,4 @@
-[![](/wp-content/themes/rsagh/built-assets/img/logo_v3.svg)](https://starandgarter.org/)
+[![Royal Star & Garter Homes](/wp-content/themes/rsagh/built-assets/img/logo_v3.svg)](https://starandgarter.org/)
 
 [Veteran Friendly Framework](https://veteranfriendlyframework.org.uk/)[Family Connections](https://family.starandgarter.org/)[Work for us](https://starandgarter.org/work-for-us/)[Media centre](https://starandgarter.org/media-centre/)[Contact us](https://starandgarter.org/contact-us/)
 
@@ -76,7 +76,7 @@ About
 
 [Please Donate](https://starandgarter.org/?post_type=donation-page&p=44483)
 
-[![](/wp-content/themes/rsagh/built-assets/img/logo_v3.svg)](https://starandgarter.org/)
+[![Royal Star & Garter Homes](/wp-content/themes/rsagh/built-assets/img/logo_v3.svg)](https://starandgarter.org/)
 
 Menu Close
 
@@ -171,17 +171,20 @@ Menu
 Cookies policy
 --------------
 
-#### What is a Cookie?
+What is a Cookie?
+-----------------
 
 Most websites that you visit will use cookies. Cookies are set in order to improve your overall user experience by enabling the website that you visit (in this case, _[https://starandgarter.org](https://starandgarter.org/), [https://family.starandgarter.org](https://family.starandgarter.org/) and [https://shop.starandgarter.org](https://shop.starandgarter.org/)_) to store data. Cookies will either remember you for the duration of your visit (via a session cookie) or for repeat visits (via a persistent cookie).
 
-#### Why are cookies good?
+Why are cookies good?
+---------------------
 
 Cookies perform a variety of functions, such as letting you navigate between pages efficiently, or storing your preferences so that you don’t have to re-enter these on your next visit. If the website you visit doesn’t use cookies, then it will think you are a new visitor every time you move to a new page on the site.
 
 Websites can also use cookies to enable effective targeting of advertising, based on you, the user and your browsing habits/ location. Cookies can be set by the website that you’re visiting (first party cookies) or they can be set by other websites who are running content on the page that you, the user are viewing (third party cookies).
 
-#### Types of Cookies
+Types of Cookies
+----------------
 
 * First Party Cookies
     
@@ -200,7 +203,8 @@ Websites can also use cookies to enable effective targeting of advertising, base
     These cookies are stored for a fixed period and are not deleted when the user has closed their web browser. Primarily, persistent cookies are used when a website needs to retain information about you, the user. For example, this type of cookie is used to store your preferences for the next visit, so that they don’t need to be re-entered on your next visit.
     
 
-#### What Cookies do we use?
+What Cookies do we use?
+-----------------------
 
 * Google Analytics
     
@@ -211,7 +215,8 @@ Websites can also use cookies to enable effective targeting of advertising, base
     Hotjar shows us the step-by-step path individuals take through our website and lets us know at which points users exit a page. It helps us to learn what the user finds interesting and what we need to improve. Find out more about [**Hotjar cookies**](https://www.hotjar.com/legal/policies/cookie-information).
     
 
-#### Other sites’ cookies (third party)
+Other sites’ cookies (third party)
+----------------------------------
 
 We sometimes connect our site to social media sites like Facebook and Twitter. These sites also use cookies, but we have no control over these third-party cookies.
 
@@ -223,7 +228,8 @@ Take a look at their privacy policies in more detail here:
 * [**YouTube privacy policy**](https://www.google.co.uk/intl/en-GB/policies/privacy/)
 * [**Google privacy policy**](https://www.google.com/policies/technologies/cookies/)
 
-#### Why do we use cookies set up by other websites?
+Why do we use cookies set up by other websites?
+-----------------------------------------------
 
 We use some third-party cookies to check how well our advertising campaigns are doing and improve their relevance to you. They allow us to show you ads if you have visited our site before and then track important behaviours that are valuable to us such as whether you fill in a contact form.
 
@@ -240,11 +246,13 @@ We also use Google Ads. This allows us to show ads that are more relevant to you
 
 * [**Google ads preferences**](https://www.google.com/ads/preferences/view/)
 
-#### What does a Cookie contain?
+What does a Cookie contain?
+---------------------------
 
 Each cookie is unique to the browser that you are using and is a simple text file that is stored on your computer or mobile device by a website’s server. Only the server will be able to read the contents of the cookie. The cookie allows a website to store information about your preferences.
 
-#### What cookies do we use?
+What cookies do we use?
+-----------------------
 
 | Cookie | Duration | Description |
 | --- | --- | --- |
@@ -292,17 +300,20 @@ Each cookie is unique to the browser that you are using and is a simple text fil
 | xtc | 1 year 27 days | This domain is owned by AddThis. AddThis provides web widgets that site owners embed into their pages or other content to enable visitors to create and share links to the content across social networks. They also make use of the data collected to provide advertisers and marketers with profile information for targeted behavioral advertising. |
 | YSC | session | This cookies is set by Youtube and is used to track the views of embedded videos. |
 
-#### Why are we telling you all this?
+Why are we telling you all this?
+--------------------------------
 
 Although your data is made anonymous to keep it safe, with all websites there is a risk, however small, that someone will try to maliciously steal information. We believe that cookies pose little threat to your privacy. But ultimately, we understand that you may still want to opt-out and turn off cookies.
 
-#### What can I do if I don’t want Cookies to be set?
+What can I do if I don’t want Cookies to be set?
+------------------------------------------------
 
 If you don’t like the idea of cookies storing your data, then you can block some or all cookies, you can even look to delete cookies that have already been set. The blocking of cookies can lead to the loss of some of the functionality of the website that you are currently viewing. For more information on how to delete and control cookies, please visit [_www.aboutcookies.org_](http://www.aboutcookies.org/).
 
 You can manage your cookies’ consent on this website here: [Manage consent](javascript:void(0))
 
-#### Last update
+Last update
+-----------
 
 19th February 2021
 
@@ -310,11 +321,11 @@ Get highlights of the most important news delivered to your email inbox
 
  Sign Up
 
-[![The National Care Forum Logo](/wp-content/themes/rsagh/built-assets/img/logos/ncf.svg)](http://www.nationalcareforum.org.uk/)
+[![The National Care Forum](/wp-content/themes/rsagh/built-assets/img/logos/ncf.svg)](http://www.nationalcareforum.org.uk/)
 
-[![Armed Forces Covenant Logo](/wp-content/themes/rsagh/built-assets/img/logos/afc.png)](https://www.armedforcescovenant.gov.uk/)
+[![Armed Forces Covenant](/wp-content/themes/rsagh/built-assets/img/logos/afc.png)](https://www.armedforcescovenant.gov.uk/)
 
-[![The Cofederation of Service Charities Logo](/wp-content/themes/rsagh/built-assets/img/logos/cobseo.png)](https://www.cobseo.org.uk/)
+[![The Cofederation of Service Charities](/wp-content/themes/rsagh/built-assets/img/logos/cobseo.png)](https://www.cobseo.org.uk/)
 
 [![Registered with Fundraising Regulator](/wp-content/themes/rsagh/built-assets/img/logos/fr.png)](https://www.fundraisingregulator.org.uk/)
 
@@ -346,12 +357,6 @@ Always Enabled
 
 Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.
 
-Functional
-
- functional
-
-Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
-
 Advertisement
 
  advertisement
@@ -375,5 +380,11 @@ Others
  others
 
 Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+
+Functional
+
+ functional
+
+Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
 
 Save & Accept
