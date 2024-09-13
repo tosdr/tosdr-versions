@@ -214,10 +214,10 @@ Ark Curriculum Plus and Ark UK Programmes aims to comply fully with its obligat
 **020 3116 6363**  
 **partnerships\[at\]arkcurriculumplus.org.uk**
 
-The Yellow Building,  
-1 Nicholas Road,  
+1EdCity,  
+EdCity Walk,  
 London,  
-W11 4AN
+W12 7TF
 
 **Quick Links**
 
