@@ -3,7 +3,7 @@
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
-* [Election USA](https://www.rts.ch/info/dossiers/2024/presidentielle-americaine/)
+* [Votations fédérales](https://www.rts.ch/info/dossiers/2024/votations-federales-du-22-septembre/)
 
 * TV & Streaming
 * Audio
@@ -23,7 +23,7 @@ Retour
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
-* [Election USA](https://www.rts.ch/info/dossiers/2024/presidentielle-americaine/)
+* [Votations fédérales](https://www.rts.ch/info/dossiers/2024/votations-federales-du-22-septembre/)
 
 #### S'informer
 
@@ -60,7 +60,7 @@ Retour
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
-* [Election USA](https://www.rts.ch/info/dossiers/2024/presidentielle-americaine/)
+* [Votations fédérales](https://www.rts.ch/info/dossiers/2024/votations-federales-du-22-septembre/)
 
 * TV & Streaming
 * Audio
@@ -86,7 +86,7 @@ Retour
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
-* [Election USA](https://www.rts.ch/info/dossiers/2024/presidentielle-americaine/)
+* [Votations fédérales](https://www.rts.ch/info/dossiers/2024/votations-federales-du-22-septembre/)
 
 #### S'informer
 
