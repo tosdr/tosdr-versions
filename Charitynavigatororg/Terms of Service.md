@@ -13,7 +13,6 @@
     * [Best Charities](https://www.charitynavigator.org/discover-charities/best-charities.html)
     * [Charities with Perfect Scores](https://www.charitynavigator.org/discover-charities/best-charities/highly-rated-charities.html)
     * [Charities Rated Highly by their Participants](https://www.charitynavigator.org/discover-charities/best-charities/feedback-excellence.html)
-    * [Support Animal Welfare](https://www.charitynavigator.org/discover-charities/best-charities/animal-welfare-charities.html)
     * [Mental Health](https://www.charitynavigator.org/discover-charities/best-charities/suicide-prevention-depression-awareness.html)
     * [Protect the Environment](https://www.charitynavigator.org/discover-charities/best-charities/protect-environment.html)
     
@@ -28,6 +27,14 @@
     * [Humanitarian Crisis in Israel and Gaza](https://www.charitynavigator.org/discover-charities/where-to-give/israel-hamas-conflict.html)
     * [Humanitarian Assistance in Sudan](https://www.charitynavigator.org/discover-charities/where-to-give/2023-sudan-conflict.html)
     * [Ukraine Relief & Recovery](https://www.charitynavigator.org/discover-charities/where-to-give/ukranian-crisis.html)
+    
+    * [Causeway](https://www.charitynavigator.org/discover-charities/cause-based-giving.html)
+    * [Animal Welfare Fund](https://www.charitynavigator.org/discover-charities/cause-based-giving/animal-welfare-fund.html)
+    * [End Homelessness Fund](https://www.charitynavigator.org/discover-charities/cause-based-giving/end-homelessness-fund.html)
+    * [End Hunger Fund](https://www.charitynavigator.org/discover-charities/cause-based-giving/end-hunger-fund.html)
+    * [Global Health Fund](https://www.charitynavigator.org/discover-charities/cause-based-giving/global-health-fund.html)
+    * [Global Poverty Fund](https://www.charitynavigator.org/discover-charities/cause-based-giving/global-poverty-fund.html)
+    * [Improve Education Fund](https://www.charitynavigator.org/discover-charities/cause-based-giving/improve-education-fund.html)
     
 * [Donor Basics](https://www.charitynavigator.org/donor-basics.html)
     
@@ -44,7 +51,7 @@
     
     * [Donor Tools](https://www.charitynavigator.org/donor-basics/tools-for-giving.html)
     * [Giving Basket](https://www.charitynavigator.org/donor-basics/tools-for-giving/giving-basket.html)
-    * [Causeway](https://www.charitynavigator.org/donor-basics/tools-for-giving/causeway.html)
+    * [Causeway](https://www.charitynavigator.org/discover-charities/cause-based-giving.html)
     * [Volunteer Opportunities](https://volunteer.charitynavigator.org/)
     * [Estate Planner](https://www.charitynavigator.org/donor-basics/tools-for-giving/estate-planner.html)
     * [Giving Circle Finder](https://www.charitynavigator.org/donor-basics/tools-for-giving/giving-circle-finder.html)
@@ -110,7 +117,6 @@
     * [Best Charities](https://www.charitynavigator.org/discover-charities/best-charities.html)
     * [Charities with Perfect Scores](https://www.charitynavigator.org/discover-charities/best-charities/highly-rated-charities.html)
     * [Charities Rated Highly by their Participants](https://www.charitynavigator.org/discover-charities/best-charities/feedback-excellence.html)
-    * [Support Animal Welfare](https://www.charitynavigator.org/discover-charities/best-charities/animal-welfare-charities.html)
     * [Mental Health](https://www.charitynavigator.org/discover-charities/best-charities/suicide-prevention-depression-awareness.html)
     * [Protect the Environment](https://www.charitynavigator.org/discover-charities/best-charities/protect-environment.html)
     
@@ -125,6 +131,14 @@
     * [Humanitarian Crisis in Israel and Gaza](https://www.charitynavigator.org/discover-charities/where-to-give/israel-hamas-conflict.html)
     * [Humanitarian Assistance in Sudan](https://www.charitynavigator.org/discover-charities/where-to-give/2023-sudan-conflict.html)
     * [Ukraine Relief & Recovery](https://www.charitynavigator.org/discover-charities/where-to-give/ukranian-crisis.html)
+    
+    * [Causeway](https://www.charitynavigator.org/discover-charities/cause-based-giving.html)
+    * [Animal Welfare Fund](https://www.charitynavigator.org/discover-charities/cause-based-giving/animal-welfare-fund.html)
+    * [End Homelessness Fund](https://www.charitynavigator.org/discover-charities/cause-based-giving/end-homelessness-fund.html)
+    * [End Hunger Fund](https://www.charitynavigator.org/discover-charities/cause-based-giving/end-hunger-fund.html)
+    * [Global Health Fund](https://www.charitynavigator.org/discover-charities/cause-based-giving/global-health-fund.html)
+    * [Global Poverty Fund](https://www.charitynavigator.org/discover-charities/cause-based-giving/global-poverty-fund.html)
+    * [Improve Education Fund](https://www.charitynavigator.org/discover-charities/cause-based-giving/improve-education-fund.html)
     
 * [Donor Basics](https://www.charitynavigator.org/donor-basics.html)
     
@@ -141,7 +155,7 @@
     
     * [Donor Tools](https://www.charitynavigator.org/donor-basics/tools-for-giving.html)
     * [Giving Basket](https://www.charitynavigator.org/donor-basics/tools-for-giving/giving-basket.html)
-    * [Causeway](https://www.charitynavigator.org/donor-basics/tools-for-giving/causeway.html)
+    * [Causeway](https://www.charitynavigator.org/discover-charities/cause-based-giving.html)
     * [Volunteer Opportunities](https://volunteer.charitynavigator.org/)
     * [Estate Planner](https://www.charitynavigator.org/donor-basics/tools-for-giving/estate-planner.html)
     * [Giving Circle Finder](https://www.charitynavigator.org/donor-basics/tools-for-giving/giving-circle-finder.html)
