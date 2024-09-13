@@ -249,6 +249,7 @@ Telephone: [0303 123 1113](https://www.amnesty.org/en/about-us/privacy-policy/03
     [Jobs & Internships](https://www.amnesty.org/en/careers/)
 
 * [Privacy Policy](https://www.amnesty.org/en/privacy-policy/)
+* [Accessibility](https://www.amnesty.org/en/accessibility/)
 * [Cookie Statement](https://www.amnesty.org/en/cookie-statement/)
 * [Permissions](https://www.amnesty.org/en/about-us/permissions/)
 * [Refunds of Donations](https://www.amnesty.org/en/about-us/refunds-of-donations/)
