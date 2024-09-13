@@ -250,14 +250,14 @@ S-config is a member of the Fur Ring.
 Recent Comments
 ---------------
 
+* [S-Config](https://www.s-config.com/) on [Privacy PSA time!](https://www.s-config.com/privacy-psa-time/comment-page-1/#comment-88580)
+* [S-Config](https://www.s-config.com/) on [Privacy PSA time!](https://www.s-config.com/privacy-psa-time/comment-page-1/#comment-88579)
+* Miguel on [XBCD – Original Xbox Controllers with Win10-8](https://www.s-config.com/xbcd-original-xbox-controllers-win10/comment-page-17/#comment-88528)
+* alabaster on [Privacy PSA time!](https://www.s-config.com/privacy-psa-time/comment-page-1/#comment-88521)
+* Raven on [Privacy PSA time!](https://www.s-config.com/privacy-psa-time/comment-page-1/#comment-88452)
 * guy on [Thinking WITHOUT Google. Welcome Old-Web.](https://www.s-config.com/thinking-without-google-welcome-old-web/comment-page-1/#comment-88172)
 * [S-Config](https://www.s-config.com/) on [Thinking WITHOUT Google. Welcome Old-Web.](https://www.s-config.com/thinking-without-google-welcome-old-web/comment-page-1/#comment-88107)
 * All the good names were taken so I used this one on [Thinking WITHOUT Google. Welcome Old-Web.](https://www.s-config.com/thinking-without-google-welcome-old-web/comment-page-1/#comment-88104)
-* [S-Config](https://www.s-config.com/) on [So you want to start a blog?](https://www.s-config.com/so-you-want-to-start-a-blog/comment-page-1/#comment-88023)
-* Cj on [So you want to start a blog?](https://www.s-config.com/so-you-want-to-start-a-blog/comment-page-1/#comment-88020)
-* [S-Config](https://www.s-config.com/) on [Thinking WITHOUT Google. Welcome Old-Web.](https://www.s-config.com/thinking-without-google-welcome-old-web/comment-page-1/#comment-87958)
-* N. on [Thinking WITHOUT Google. Welcome Old-Web.](https://www.s-config.com/thinking-without-google-welcome-old-web/comment-page-1/#comment-87923)
-* [S-Config](https://www.s-config.com/) on [Reverse Engineering StepMania Characters](https://www.s-config.com/addendum-reverse-engineering-stepmania-characters/comment-page-1/#comment-87904)
 
 The only advertisement banner you will see.
 -------------------------------------------
