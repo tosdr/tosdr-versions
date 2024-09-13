@@ -287,9 +287,45 @@ PARAGOULD, AR 72450
 Check Out Our Blog
 ------------------
 
+[![Cartoon-style image of a person wearing glasses, holding a piggy bank and a checklist labeled '8 Ways to Make Extra Money.' The character stands in front of festive holiday decorations, including a Christmas tree, wrapped gifts, and falling snowflakes, conveying a fun and energetic holiday theme.](https://creditnerds.com/wp-content/uploads/2024/09/Make-extra-money-30x30.webp)](https://creditnerds.com/8-best-ways-to-make-extra-money-for-the-holidays/)
+
+[Credit](https://creditnerds.com/category/credit/)
+
+September 12, 2024
+
+#### [8 Best Ways to Make Extra Money for the Holidays](https://creditnerds.com/8-best-ways-to-make-extra-money-for-the-holidays/)
+
+As the holiday season approaches, many of us feel the pressure to stretch our budgets to cover gifts and celebrations. But bringing in some extra income ahead of time can help you stay on top of your spending without taking on unnecessary debt. There are plenty of side hustles that fit various interests and skills, …
+
+[Read More](https://creditnerds.com/8-best-ways-to-make-extra-money-for-the-holidays/)
+
+[![A more realistic cartoon-style image of a man wearing glasses with human proportions, standing in front of a large five-year calendar while holding a checklist. The background shows a suburban house with a yard, symbolizing the goal of buying a home. The man appears determined, and the scene is bright and motivational with a clear blue sky and green lawn.](https://creditnerds.com/wp-content/uploads/2024/09/Owning-a-house-30x30.webp)](https://creditnerds.com/how-to-prepare-to-buy-a-house-in-five-years/)
+
+[Credit](https://creditnerds.com/category/credit/)
+
+September 11, 2024
+
+#### [How to Prepare to Buy a House in Five Years](https://creditnerds.com/how-to-prepare-to-buy-a-house-in-five-years/)
+
+Buying a home takes careful planning and preparation. If you’re aiming to buy a house within five years, it's important to start now by building up savings, reducing debt, and improving your financial health. Long-term goals like saving for a down payment and improving your debt-to-income ratio (DTI) are key steps in securing a mortgage …
+
+[Read More](https://creditnerds.com/how-to-prepare-to-buy-a-house-in-five-years/)
+
+[![Cartoon-style image of a person wearing glasses, holding a title insurance document and examining it with a magnifying glass. A modern house is shown in the background, emphasizing the importance of understanding title insurance.](https://creditnerds.com/wp-content/uploads/2024/09/Title-insurance-30x30.webp)](https://creditnerds.com/what-is-title-insurance-and-do-you-need-it/)
+
+[Credit](https://creditnerds.com/category/credit/)
+
+September 10, 2024
+
+#### [What Is Title Insurance and Do You Need It?](https://creditnerds.com/what-is-title-insurance-and-do-you-need-it/)
+
+Title insurance is a crucial form of protection for both homebuyers and mortgage lenders. It shields against financial and legal claims that may arise due to previous owners' actions. If you're purchasing a home with a mortgage, your lender will require this coverage. However, it’s also a good idea to consider getting a policy for …
+
+[Read More](https://creditnerds.com/what-is-title-insurance-and-do-you-need-it/)
+
 [![A semi-realistic cartoony image of a person with short brown hair and glasses, sitting at a desk looking worriedly at a credit report on a computer screen with 'Delinquency' highlighted in red. The desk is cluttered with bills, a calculator, and a notepad, set in a simple home office with a bookshelf, clock, and plant in the background.](https://creditnerds.com/wp-content/uploads/2024/09/What-is-a-Delinquency-30x30.webp)](https://creditnerds.com/what-is-a-delinquency-on-a-credit-report-2/)
 
-[Uncategorized](https://creditnerds.com/category/uncategorized/)
+[Credit](https://creditnerds.com/category/credit/)
 
 September 10, 2024
 
@@ -358,42 +394,6 @@ August 27, 2024
 Wondering, "What is a delinquency on a credit report?" A delinquency occurs when you fail to pay at least the minimum amount due on your account by the specified due date. Missing this payment can lead to immediate consequences, such as late fees. If the payment remains overdue for 30 days or more, it could …
 
 [Read More](https://creditnerds.com/what-is-a-delinquency-on-a-credit-report/)
-
-[![A semi-realistic cartoony image of a person with short brown hair and glasses, sitting at a desk with a worried expression. The computer screen in front of them shows a student loan application and a low credit score chart. The desk has papers, a pen, and a coffee cup. The background includes a bookshelf with textbooks, a diploma on the wall, and a plant, creating a balanced yet serious atmosphere.](https://creditnerds.com/wp-content/uploads/2024/08/Student-Loans-for-Bad-Credit-30x30.webp)](https://creditnerds.com/can-you-get-a-student-loan-with-bad-credit/)
-
-[Credit](https://creditnerds.com/category/credit/)
-
-August 23, 2024
-
-#### [Can You Get a Student Loan With Bad Credit?](https://creditnerds.com/can-you-get-a-student-loan-with-bad-credit/)
-
-Eager to pursue higher education but worried that bad credit might hold you back? Rest assured, having bad credit—typically defined as a FICO® Score of 579 or less—doesn’t automatically disqualify you from getting a student loan. In fact, there are options available to help you finance your education, even with less-than-perfect credit. How to Get …
-
-[Read More](https://creditnerds.com/can-you-get-a-student-loan-with-bad-credit/)
-
-[![A semi-realistic cartoony image of a person with short brown hair and glasses, smiling confidently while sitting at a table with a calculator, papers, and a house model. The person is pointing at a calendar with biweekly payments highlighted. The background shows a cozy living room with a sofa and a plant, creating a warm and positive atmosphere.](https://creditnerds.com/wp-content/uploads/2024/08/Biweekly-Payment-30x30.webp)](https://creditnerds.com/why-paying-your-mortgage-biweekly-can-save-you-money/)
-
-[Credit](https://creditnerds.com/category/credit/)
-
-August 22, 2024
-
-#### [Why Paying Your Mortgage Biweekly Can Save You Money](https://creditnerds.com/why-paying-your-mortgage-biweekly-can-save-you-money/)
-
-Many homeowners dream of paying off their mortgage early. One effective strategy is to make biweekly mortgage payments. By paying half your monthly mortgage every two weeks, you can potentially shave years off your loan and save thousands of dollars in interest. Before you adopt this strategy, it’s essential to check with your lender to …
-
-[Read More](https://creditnerds.com/why-paying-your-mortgage-biweekly-can-save-you-money/)
-
-[![A semi-realistic cartoony image of a person with short brown hair and glasses, sitting at a desk with a computer displaying a data breach warning. The person looks concerned, with documents and a smartphone on the desk. The background features a home office setting with a bookshelf and a plant, creating a serious but approachable atmosphere.](https://creditnerds.com/wp-content/uploads/2024/08/Data-Breach-30x30.webp)](https://creditnerds.com/what-you-should-do-after-a-data-breach/)
-
-[Credit](https://creditnerds.com/category/credit/)
-
-August 21, 2024
-
-#### [What You Should Do After a Data Breach](https://creditnerds.com/what-you-should-do-after-a-data-breach/)
-
-When a data breach occurs, confidential information, including consumer data, falls into the wrong hands. If you receive a notice that your information has been compromised, take swift action to secure your accounts and prevent fraud. Here’s what you should do after a data breach to protect yourself. 1. Stay Alert First, stay alert. If …
-
-[Read More](https://creditnerds.com/what-you-should-do-after-a-data-breach/)
 
 ![](https://creditnerds.com/wp-content/uploads/2023/12/small-logo-white-30x30.png)
 
