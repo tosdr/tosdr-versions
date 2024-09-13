@@ -89,7 +89,6 @@
         * [Newsroom](https://www.ravemobilesafety.com/about/newsroom/)
         * [Customer Success Stories](https://www.ravemobilesafety.com/customers-success-stories/)
         * [Events & Webinars](https://www.ravemobilesafety.com/about/upcoming-events-webinars/)
-        * [Rave Summit](https://www.ravemobilesafety.com/rave-summit/)
     * WORKING AT RAVE
         
         ### Do All You Can Today at Rave
