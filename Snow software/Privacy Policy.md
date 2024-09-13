@@ -84,7 +84,7 @@ Main navigation
             * [Blog](https://www.snowsoftware.com/blog/)
             * [Case studies](https://www.flexera.com/resources/case-studies)
             * [Events](https://www.flexera.com/resources?type%5Bevent%5D=event)
-            * [Analyst research](https://www.flexera.com/resources/gartner-analyst-research)
+            * [Analyst Research](https://www.flexera.com/resources/gartner-analyst-research)
             * [Glossary](https://www.flexera.com/resources/glossary)
             * [Demos & trials](https://www.flexera.com/resources?type%5Bdemo-trials%5D=demo-trials)
             * [Business value calculator](https://www.flexera.com/resources/business-value-calculator)
