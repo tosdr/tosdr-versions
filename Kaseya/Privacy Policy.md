@@ -375,11 +375,11 @@
     
     Upcoming Events
     
-    ![](https://www.kaseya.com/wp-content/uploads/2024/09/K365-Webinar-Win-the-battle-for-endpoint-security-300x200.png)
+    ![](https://www.kaseya.com/wp-content/uploads/2023/07/CITlocal-Netherlands-300x200.jpg)
     
-    Win the Battle for Endpoint Security With Kaseya 365
+    Connect Local “The Kaseya 365 World Tour” Netherlands
     
-    September 12
+    September 19
     
     [View All Events](https://www.kaseya.com/events/)
     
