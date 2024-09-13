@@ -63,6 +63,7 @@ We use cookies to improve your experience. If you'd like to continue exploring o
         * [Memorandum of Association and New Bye-laws](https://www.esprit.com/en/company/investor-relations/corporate-governance/memorandum-of-association-and-new-bye-laws)
         * [Shareholders Engagement](https://www.esprit.com/en/company/investor-relations/corporate-governance/shareholders-engagement)
         * [Notice of Replacement of the Company’s Lost Share Certificates](https://www.esprit.com/en/company/investor-relations/corporate-governance/notice-of-replacement-of-the-companys-lost-share-certificates)
+    * [Dissemination of Corporate Communications](https://www.esprit.com/en/company/investor-relations/dissemination-of-corporate-communications)
     
 * [Career](https://career.esprit.com/?locale=en_US)
     
