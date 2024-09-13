@@ -54,11 +54,11 @@
 
 [BREITBART](https://www.breitbart.com/ "Breitbart News Network")
 
-* [2024 Election](https://www.breitbart.com/tag/2024-presidential-election/)
-* [Fake News Frenzy](https://www.breitbart.com/the-media/)
-* [Hunter Biden](https://www.breitbart.com/tag/hunter-biden/)
+* [Debate Fallout](https://www.breitbart.com/tag/2024-presidential-election/)
+* [Springfield, OH](https://www.breitbart.com/tag/springfield/)
+* [Google Ad Trial](https://www.breitbart.com/tag/google/)
+* [Tyreek Hill](https://www.breitbart.com/tag/tyreek-hill/)
 * [Brazil vs Musk](https://www.breitbart.com/tag/twitter/)
-* [Wide Open Border](https://www.breitbart.com/tag/illegal-immigration/)
 * [Israel-Hamas War](https://www.breitbart.com/tag/israel/)
 
 Breitbart Privacy Policy
