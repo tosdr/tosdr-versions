@@ -52,6 +52,8 @@ Cross
             
         * [Microgynon 30](https://fettle.health/contraception/combined-pill/microgynon-30)
             
+        * [Millinette 30](https://fettle.health/contraception/combined-pill/millinette-30)
+            
         * [Ovranette](https://fettle.health/contraception/combined-pill/ovranette)
             
         * [Rigevidon](https://fettle.health/contraception/combined-pill/rigevidon)
