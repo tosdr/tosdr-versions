@@ -96,6 +96,10 @@ per line/mo
 
 $60.38 total bill/mo](https://activate-shop.circles.life/familyplan/sa_delivery?locale=en&reset=true&sim_count=4&code=FAMILYSPECIAL2024&_gl=1*1qdvf0j*_ga*MjEwNTY2NjI3NC4xNjYwMjkwMDY5*_ga_EZBPYP3T0Y*MTY2NTY0MTQxNS4yMDYuMS4xNjY1NjQ1MTk3LjAuMC4w)[Get up to 6 SIMs](https://pages.circles.life/sg/familyplan/)
 
+50GB
+
+$8/mo
+
 100GB
 
 $12/mo
