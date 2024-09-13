@@ -6,6 +6,9 @@
 
 JavaScript is disabled. For a better experience, please enable JavaScript in your browser before proceeding.
 
+You are using an out of date browser. It may not display this or other websites correctly.  
+You should upgrade or use an [alternative browser](https://www.google.com/chrome/).
+
 Privacy policy
 ==============
 
@@ -80,6 +83,11 @@ Changes to this policy
 ----------------------
 
 We may make changes to this policy at any time. You may be asked to review and re-accept the information in this policy if it changes in the future.
+
+CAPTCHA privacy policy
+----------------------
+
+This site is protected by reCAPTCHA and the Google [privacy policy](https://policies.google.com/privacy) and [terms of service](https://policies.google.com/terms) apply.
 
 * [Home](https://www.smogon.com/) 
 * [Help](https://www.smogon.com/forums/help/)
