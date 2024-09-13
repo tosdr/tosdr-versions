@@ -32,7 +32,7 @@
             
         * Analytics
             
-            Whatever they’re are saying, wherever they’re saying it, know exactly what’s going on with your people
+            Whatever they’re saying, wherever they’re saying it, know exactly what’s going on with your people
             
     * [XM for Strategy & Research](https://www.qualtrics.com/strategy/)
         * Research
