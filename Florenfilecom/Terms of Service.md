@@ -99,7 +99,3 @@ Users agree to receive informational e-mail messages from Florenfile about impor
 * [FAQ](https://florenfile.com/faq.html)
 * [Terms of service](https://florenfile.com/tos.html)
 * [Contact Us](https://florenfile.com/contact.html)
-
-* * *
-
-Florenfile.com 2014-2024 All rights reserved.
