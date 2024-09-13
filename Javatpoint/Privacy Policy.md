@@ -1,275 +1,1250 @@
-[![Javatpoint Logo](https://static.javatpoint.com/images/logo/jtp-logo3.png)](https://www.javatpoint.com/)
+[![Logo](/static/img/logo.png)](https://www.javatpoint.com/)
 
- [![Javatpoint Logo](https://static.javatpoint.com/images/logo/jtp-logo3.png)](https://www.javatpoint.com/)
+[Tutorials](#)
 
-*  [![home](https://static.javatpoint.com/images/icon/home.png) Home](https://www.javatpoint.com/)
-*  [![python](https://static.javatpoint.com/images/icon/python.png) Python](https://www.javatpoint.com/python-tutorial)
-*  [![java](https://static.javatpoint.com/images/icon/new/java2.png) Java](https://www.javatpoint.com/java-tutorial)
-*  [![javascript](https://static.javatpoint.com/images/icon/js.png) JavaScript](https://www.javatpoint.com/javascript-tutorial)
-*  [![html](https://static.javatpoint.com/images/icon/html.png) HTML](https://www.javatpoint.com/html-tutorial)
-*  [![sql](https://static.javatpoint.com/images/icon/sql.png) SQL](https://www.javatpoint.com/sql-tutorial)
-*  [![php](https://static.javatpoint.com/images/icon/php.png) PHP](https://www.javatpoint.com/php-tutorial)
-*  [![c#](https://static.javatpoint.com/images/icon/csharp.png) C#](https://www.javatpoint.com/c-sharp-tutorial)
-*  [![c++](https://static.javatpoint.com/images/icon/cpp.png) C++](https://www.javatpoint.com/cpp-tutorial)
-*  [![data structures](https://static.javatpoint.com/images/icon/ds.png) DS](https://www.javatpoint.com/data-structure-tutorial)
-*  [![aptitude](https://static.javatpoint.com/images/icon/aptitude.png) Aptitude](https://www.javatpoint.com/aptitude/quantitative)
-*  [![reasoning](https://static.javatpoint.com/images/icon/reasoning.png) Reasoning](https://www.javatpoint.com/reasoning)
-*  [![selenium](https://static.javatpoint.com/images/icon/selenium.png) Selenium](https://www.javatpoint.com/selenium-tutorial)
-*  [![dbms](https://static.javatpoint.com/images/icon/dbms.png) DBMS](https://www.javatpoint.com/dbms-tutorial)
-*  [![c](https://static.javatpoint.com/images/icon/c.png) C](https://www.javatpoint.com/c-programming-language-tutorial)
-*  [![android](https://static.javatpoint.com/images/icon/android.png) Android](https://www.javatpoint.com/android-tutorial)
-*  [![interview questions](https://static.javatpoint.com/images/icon/interview.png) Interview Q](https://www.javatpoint.com/interview-questions-and-answers)
+×  
+
+### Frontend
+
+[HTML](https://www.javatpoint.com/html-tutorial) [CSS](https://www.javatpoint.com/css-tutorial) [Bootstrap](https://www.javatpoint.com/bootstrap-tutorial) [Jquery](https://www.javatpoint.com/jquery-tutorial) [React](https://www.javatpoint.com/reactjs-tutorial) [Angular](https://www.javatpoint.com/angularjs-tutorial)
+
+### Data Analytics
+
+[Excel](https://www.javatpoint.com/excel-tutorial) [Tableau](https://www.javatpoint.com/tableau) [Power BI](https://www.javatpoint.com/power-bi) [NumPy](https://www.javatpoint.com/numpy-tutorial) [Panda](https://www.javatpoint.com/python-pandas) [Scipy](https://www.javatpoint.com/python-scipy)
+
+### Database
+
+[Sql](https://www.javatpoint.com/sql-tutorial) [Mongo DB](https://www.javatpoint.com/mongodb-tutorial) [Oracle](https://www.javatpoint.com/oracle-tutorial) [Maria DB](https://www.javatpoint.com/mariadb-tutorial) [PostgreSQL](https://www.javatpoint.com/postgresql-tutorial) [Sql Server](https://www.javatpoint.com/sql-server-tutorial)
+
+### Online Compiler
+
+[C](https://www.javatpoint.com/compiler/c) [C++](https://www.javatpoint.com/compiler/c++) [Php](https://www.javatpoint.com/compiler/php) [Java](https://www.javatpoint.com/compiler/java) [Html](https://www.javatpoint.com/compiler/html) [Python](https://www.javatpoint.com/compiler/python) [Javascript](https://www.javatpoint.com/compiler/javascript)
+
+### Backend
+
+[Python](https://www.javatpoint.com/python-tutorial) [Node Js](https://www.javatpoint.com/nodejs-tutorial) [MySQL](https://www.javatpoint.com/mysql-tutorial) [PHP](https://www.javatpoint.com/php-tutorial) [Java](https://www.javatpoint.com/java-tutorial) [C#](https://www.javatpoint.com/c-sharp-tutorial) [R](https://www.javatpoint.com/r-tutorial) [Kotlin](https://www.javatpoint.com/kotlin-tutorial) [Django](https://www.javatpoint.com/django-tutorial) [PostgreSQL](https://www.javatpoint.com/postgresql-tutorial) [Spring Boot](https://www.javatpoint.com/spring-boot-tutorial) [Ruby](https://www.javatpoint.com/ruby-tutorial) [Go](https://www.javatpoint.com/go-tutorial) [Rust](https://www.javatpoint.com/rust-tutorial)
+
+[Interview](#)
+
+×  
+
+### Technical Interview
+
+[C](https://www.javatpoint.com/c-interview-questions) [C++](https://www.javatpoint.com/cpp-interview-questions) [Php](https://www.javatpoint.com/php-interview-questions) [Java](https://www.javatpoint.com/corejava-interview-questions) [Python](https://www.javatpoint.com/python-interview-questions) [JavaScript](https://www.javatpoint.com/javascript-interview-questions) [TypeScript](https://www.javatpoint.com/typescript-interview-questions)
+
+### Java Interview
+
+[JDBC](https://www.javatpoint.com/jdbc-interview-questions) [Servlet](https://www.javatpoint.com/servletinterview) [Maven](https://www.javatpoint.com/maven-interview-questions) [Jenkins](https://www.javatpoint.com/jenkins-interview-questions) [Spring](https://www.javatpoint.com/spring-interview-questions) [Spring Boot](https://www.javatpoint.com/spring-boot-interview-questions) [JDB](https://www.javatpoint.com/jdb-interview-questions) [Hibernate](https://www.javatpoint.com/hibernate-interview-questions) [JSF](https://www.javatpoint.com/jsf-interview-questions)
+
+### Web Interview
+
+[HTML](https://www.javatpoint.com/html-interview-questions) [CSS](https://www.javatpoint.com/css-interview-questions) [JavaScript](https://www.javatpoint.com/javascript-interview-questions) [Jquery](https://www.javatpoint.com/jquery-interview-questions) [Angular](https://www.javatpoint.com/angular-interview-questions) [Node-JS](https://www.javatpoint.com/node-js-interview-questions) [AJAX](https://www.javatpoint.com/ajax-interview-questions)
+
+### Database Interview
+
+[DBMS](https://www.javatpoint.com/dbms-interview-questions) [SQL](https://www.javatpoint.com/sql-interview-questions) [PL/SQL](https://www.javatpoint.com/pl-sql-interview-questions) [Oracle](https://www.javatpoint.com/oracle-interview-questions) [MySQL](https://www.javatpoint.com/mysql-interview-questions) [MongoDB](https://www.javatpoint.com/mongodb-interview-questions) [Redis](https://www.javatpoint.com/redis-interview-questions-and-answers) [MariaDB](https://www.javatpoint.com/mariadb-interview-questions)
+
+### Company Interviews
+
+[IBM](https://www.javatpoint.com/ibm-interview-questions) [Adobe](https://www.javatpoint.com/adobe-interview-questions) [Microsoft](https://www.javatpoint.com/microsoft-interview-questions) [Amazon](https://www.javatpoint.com/amazon-interview-questions) [TCS](https://www.javatpoint.com/tcs-interview-questions) [HCL](https://www.javatpoint.com/hcl-interview-questions) [Wipro](https://www.javatpoint.com/wipro-interview-questions) [DXC](https://www.javatpoint.com/dxc-technology-interview-questions) [Accenture](https://www.javatpoint.com/accenture-interview-questions) [Capgemini](https://www.javatpoint.com/capgemini-interview-questions) [Space X](https://www.javatpoint.com/spacex-interview-questions) [Ericsson](https://www.javatpoint.com/ericsson-interview-questions) [Infosy](https://www.javatpoint.com/infosys-interview-questions) [IGate](https://www.javatpoint.com/igate-interview-questions) [EXL](https://www.javatpoint.com/exl-interview-questions) [IndiaMART](https://www.javatpoint.com/indiamart-interview-questions) [Sapient](https://www.javatpoint.com/sapient-interview-questions)
+
+* [Compiler](#)
+    * [C](https://www.javatpoint.com/compiler/c)
+    * [R](https://www.javatpoint.com/compiler/r)
+    * [C++](https://www.javatpoint.com/compiler/c++)
+    * [Php](https://www.javatpoint.com/compiler/php)
+    * [Java](https://www.javatpoint.com/compiler/java)
+    * [Html](https://www.javatpoint.com/compiler/html)
+    * [Swift](https://www.javatpoint.com/compiler/swift)
+    * [Python](https://www.javatpoint.com/compiler/python)
+    * [Javascript](https://www.javatpoint.com/compiler/javascript)
+    * [Typescript](https://www.javatpoint.com/compiler/typescript)
+
+Free Online Tutorials
+
+Discover Your Journey with Us
+=============================
+
+Get access to 500+ tutorials from top instructors around the world in one place.
+
+![Banner-2](https://d2jdgazzki9vjm.cloudfront.net/images/small_home.png) ![Banner Main](https://d2jdgazzki9vjm.cloudfront.net/images/home-1.png)
+
+### **500+**  
+TUTORIALS
+
+![Shape-4](/static/img/shape4.png) ![Shape-2](/static/img/shape2.png) ![Shape-3](/static/img/shape3.png) ![Shape-1](/static/img/shape1.png)
+
+Tutorials
+---------
+
+Start learning programming language of your choice.
+
+[**Python**](#) [**Java**](#) [**PHP**](#) [**Software Testing**](#) [**.NET Framework**](#) [**B.Tech/MCA**](#) [**Trending Technology**](#) [**Web Technology**](#) [**Database**](#) [**Cloud Computing**](#) [**Big Data Technologies**](#)
+
+### Python
+
+[](https://www.javatpoint.com/python-tutorial)
+
+[![Python](images/homeicon/python.png)
+
+Python](https://www.javatpoint.com/python-tutorial)
+
+[](https://www.javatpoint.com/selenium-python)
+
+[![Selenium Python](images/homeicon/selenium-python.png)
+
+Selenium Python](https://www.javatpoint.com/selenium-python)
+
+[](https://www.javatpoint.com/django-tutorial)
+
+[![Django](images/homeicon/django.png)
+
+Django](https://www.javatpoint.com/django-tutorial)
+
+[](https://www.javatpoint.com/flask-tutorial)
+
+[![Flask](images/homeicon/flask.png)
+
+Flask](https://www.javatpoint.com/flask-tutorial)
+
+[](https://www.javatpoint.com/numpy-tutorial)
+
+[![NumPy](images/homeicon/numpy.png)
+
+NumPy](https://www.javatpoint.com/numpy-tutorial)
+
+[](https://www.javatpoint.com/python-tkinter)
+
+[![Tkinter](images/homeicon/tkinter.png)
+
+Tkinter](https://www.javatpoint.com/python-tkinter)
+
+[](https://www.javatpoint.com/pytorch)
+
+[![Pytorch](images/homeicon/pytorch.png)
+
+Pytorch](https://www.javatpoint.com/pytorch)
+
+[](https://www.javatpoint.com/pygame)
+
+[![Pygame](images/homeicon/pygame.png)
+
+Pygame](https://www.javatpoint.com/pygame)
+
+[](https://www.javatpoint.com/python-scipy)
+
+[![Scipy](images/homeicon/scipy.png)
+
+Scipy](https://www.javatpoint.com/python-scipy)
+
+[](https://www.javatpoint.com/python-pandas)
+
+[![Pandas](images/homeicon/pandas.png)
+
+Pandas](https://www.javatpoint.com/python-pandas)
+
+[](https://www.javatpoint.com/opencv)
+
+[![OpenCV](images/homeicon/opencv.png)
+
+OpenCV](https://www.javatpoint.com/opencv)
+
+[](https://www.javatpoint.com/matplotlib)
+
+[![Matplotlib](images/homeicon/matplotlib.png)
+
+Matplotlib](https://www.javatpoint.com/matplotlib)
+
+[](https://www.javatpoint.com/python-openpyxl)
+
+[![Openpyxl](images/homeicon/openpyxl.png)
+
+Openpyxl](https://www.javatpoint.com/python-openpyxl)
+
+[](https://www.javatpoint.com/kivy)
+
+[![Kivy](images/homeicon/kivy.png)
+
+Kivy](https://www.javatpoint.com/kivy)
+
+[](https://www.javatpoint.com/jupyter-notebook)
+
+[![Jupyter](images/homeicon/jupyter.png)
+
+Jupyter](https://www.javatpoint.com/jupyter-notebook)
+
+[](https://www.javatpoint.com/python-cgi-programming)
+
+[![Python CGI Programming](images/homeicon/cgi.png)
+
+Python CGI Programming](https://www.javatpoint.com/python-cgi-programming)
+
+### Java
+
+[](https://www.javatpoint.com/python-tutorial)
+
+[![Python](images/homeicon/python.png)
+
+Python](https://www.javatpoint.com/python-tutorial)
+
+[](https://www.javatpoint.com/selenium-python)
+
+[![Selenium Python](images/homeicon/selenium-python.png)
+
+Selenium Python](https://www.javatpoint.com/selenium-python)
+
+[](https://www.javatpoint.com/django-tutorial)
+
+[![Django](images/homeicon/django.png)
+
+Django](https://www.javatpoint.com/django-tutorial)
+
+[](https://www.javatpoint.com/flask-tutorial)
+
+[![Flask](images/homeicon/flask.png)
+
+Flask](https://www.javatpoint.com/flask-tutorial)
+
+[](https://www.javatpoint.com/numpy-tutorial)
+
+[![NumPy](images/homeicon/numpy.png)
+
+NumPy](https://www.javatpoint.com/numpy-tutorial)
+
+[](https://www.javatpoint.com/python-tkinter)
+
+[![Tkinter](images/homeicon/tkinter.png)
+
+Tkinter](https://www.javatpoint.com/python-tkinter)
+
+[](https://www.javatpoint.com/pytorch)
+
+[![Pytorch](images/homeicon/pytorch.png)
+
+Pytorch](https://www.javatpoint.com/pytorch)
+
+[](https://www.javatpoint.com/pygame)
+
+[![Pygame](images/homeicon/pygame.png)
+
+Pygame](https://www.javatpoint.com/pygame)
+
+[](https://www.javatpoint.com/python-scipy)
+
+[![Scipy](images/homeicon/scipy.png)
+
+Scipy](https://www.javatpoint.com/python-scipy)
+
+[](https://www.javatpoint.com/python-pandas)
+
+[![Pandas](images/homeicon/pandas.png)
+
+Pandas](https://www.javatpoint.com/python-pandas)
+
+[](https://www.javatpoint.com/opencv)
+
+[![OpenCV](images/homeicon/opencv.png)
+
+OpenCV](https://www.javatpoint.com/opencv)
+
+[](https://www.javatpoint.com/matplotlib)
+
+[![Matplotlib](images/homeicon/matplotlib.png)
+
+Matplotlib](https://www.javatpoint.com/matplotlib)
+
+[](https://www.javatpoint.com/python-openpyxl)
+
+[![Openpyxl](images/homeicon/openpyxl.png)
+
+Openpyxl](https://www.javatpoint.com/python-openpyxl)
+
+[](https://www.javatpoint.com/kivy)
+
+[![Kivy](images/homeicon/kivy.png)
+
+Kivy](https://www.javatpoint.com/kivy)
+
+[](https://www.javatpoint.com/jupyter-notebook)
+
+[![Jupyter](images/homeicon/jupyter.png)
+
+Jupyter](https://www.javatpoint.com/jupyter-notebook)
+
+[](https://www.javatpoint.com/python-cgi-programming)
+
+[![Python CGI Programming](images/homeicon/cgi.png)
+
+Python CGI Programming](https://www.javatpoint.com/python-cgi-programming)
+
+### PHP
+
+[](https://www.javatpoint.com/python-tutorial)
+
+[![Python](images/homeicon/python.png)
+
+Python](https://www.javatpoint.com/python-tutorial)
+
+[](https://www.javatpoint.com/selenium-python)
+
+[![Selenium Python](images/homeicon/selenium-python.png)
+
+Selenium Python](https://www.javatpoint.com/selenium-python)
+
+[](https://www.javatpoint.com/django-tutorial)
+
+[![Django](images/homeicon/django.png)
+
+Django](https://www.javatpoint.com/django-tutorial)
+
+[](https://www.javatpoint.com/flask-tutorial)
+
+[![Flask](images/homeicon/flask.png)
+
+Flask](https://www.javatpoint.com/flask-tutorial)
+
+[](https://www.javatpoint.com/numpy-tutorial)
+
+[![NumPy](images/homeicon/numpy.png)
+
+NumPy](https://www.javatpoint.com/numpy-tutorial)
+
+[](https://www.javatpoint.com/python-tkinter)
+
+[![Tkinter](images/homeicon/tkinter.png)
+
+Tkinter](https://www.javatpoint.com/python-tkinter)
+
+[](https://www.javatpoint.com/pytorch)
+
+[![Pytorch](images/homeicon/pytorch.png)
+
+Pytorch](https://www.javatpoint.com/pytorch)
+
+[](https://www.javatpoint.com/pygame)
+
+[![Pygame](images/homeicon/pygame.png)
+
+Pygame](https://www.javatpoint.com/pygame)
+
+[](https://www.javatpoint.com/python-scipy)
+
+[![Scipy](images/homeicon/scipy.png)
+
+Scipy](https://www.javatpoint.com/python-scipy)
+
+[](https://www.javatpoint.com/python-pandas)
+
+[![Pandas](images/homeicon/pandas.png)
+
+Pandas](https://www.javatpoint.com/python-pandas)
+
+[](https://www.javatpoint.com/opencv)
+
+[![OpenCV](images/homeicon/opencv.png)
+
+OpenCV](https://www.javatpoint.com/opencv)
+
+[](https://www.javatpoint.com/matplotlib)
+
+[![Matplotlib](images/homeicon/matplotlib.png)
+
+Matplotlib](https://www.javatpoint.com/matplotlib)
+
+[](https://www.javatpoint.com/python-openpyxl)
+
+[![Openpyxl](images/homeicon/openpyxl.png)
+
+Openpyxl](https://www.javatpoint.com/python-openpyxl)
+
+[](https://www.javatpoint.com/kivy)
+
+[![Kivy](images/homeicon/kivy.png)
+
+Kivy](https://www.javatpoint.com/kivy)
+
+[](https://www.javatpoint.com/jupyter-notebook)
+
+[![Jupyter](images/homeicon/jupyter.png)
+
+Jupyter](https://www.javatpoint.com/jupyter-notebook)
+
+[](https://www.javatpoint.com/python-cgi-programming)
+
+[![Python CGI Programming](images/homeicon/cgi.png)
+
+Python CGI Programming](https://www.javatpoint.com/python-cgi-programming)
+
+### Software Testing
+
+[](https://www.javatpoint.com/python-tutorial)
+
+[![Python](images/homeicon/python.png)
+
+Python](https://www.javatpoint.com/python-tutorial)
+
+[](https://www.javatpoint.com/selenium-python)
+
+[![Selenium Python](images/homeicon/selenium-python.png)
+
+Selenium Python](https://www.javatpoint.com/selenium-python)
+
+[](https://www.javatpoint.com/django-tutorial)
+
+[![Django](images/homeicon/django.png)
+
+Django](https://www.javatpoint.com/django-tutorial)
+
+[](https://www.javatpoint.com/flask-tutorial)
+
+[![Flask](images/homeicon/flask.png)
+
+Flask](https://www.javatpoint.com/flask-tutorial)
+
+[](https://www.javatpoint.com/numpy-tutorial)
+
+[![NumPy](images/homeicon/numpy.png)
+
+NumPy](https://www.javatpoint.com/numpy-tutorial)
+
+[](https://www.javatpoint.com/python-tkinter)
+
+[![Tkinter](images/homeicon/tkinter.png)
+
+Tkinter](https://www.javatpoint.com/python-tkinter)
+
+[](https://www.javatpoint.com/pytorch)
+
+[![Pytorch](images/homeicon/pytorch.png)
+
+Pytorch](https://www.javatpoint.com/pytorch)
+
+[](https://www.javatpoint.com/pygame)
+
+[![Pygame](images/homeicon/pygame.png)
+
+Pygame](https://www.javatpoint.com/pygame)
+
+[](https://www.javatpoint.com/python-scipy)
+
+[![Scipy](images/homeicon/scipy.png)
+
+Scipy](https://www.javatpoint.com/python-scipy)
+
+[](https://www.javatpoint.com/python-pandas)
+
+[![Pandas](images/homeicon/pandas.png)
+
+Pandas](https://www.javatpoint.com/python-pandas)
+
+[](https://www.javatpoint.com/opencv)
+
+[![OpenCV](images/homeicon/opencv.png)
+
+OpenCV](https://www.javatpoint.com/opencv)
+
+[](https://www.javatpoint.com/matplotlib)
+
+[![Matplotlib](images/homeicon/matplotlib.png)
+
+Matplotlib](https://www.javatpoint.com/matplotlib)
+
+[](https://www.javatpoint.com/python-openpyxl)
+
+[![Openpyxl](images/homeicon/openpyxl.png)
+
+Openpyxl](https://www.javatpoint.com/python-openpyxl)
+
+[](https://www.javatpoint.com/kivy)
+
+[![Kivy](images/homeicon/kivy.png)
+
+Kivy](https://www.javatpoint.com/kivy)
+
+[](https://www.javatpoint.com/jupyter-notebook)
+
+[![Jupyter](images/homeicon/jupyter.png)
+
+Jupyter](https://www.javatpoint.com/jupyter-notebook)
+
+[](https://www.javatpoint.com/python-cgi-programming)
+
+[![Python CGI Programming](images/homeicon/cgi.png)
+
+Python CGI Programming](https://www.javatpoint.com/python-cgi-programming)
+
+### .NET Framework
+
+[](https://www.javatpoint.com/python-tutorial)
+
+[![Python](images/homeicon/python.png)
+
+Python](https://www.javatpoint.com/python-tutorial)
+
+[](https://www.javatpoint.com/selenium-python)
+
+[![Selenium Python](images/homeicon/selenium-python.png)
+
+Selenium Python](https://www.javatpoint.com/selenium-python)
+
+[](https://www.javatpoint.com/django-tutorial)
+
+[![Django](images/homeicon/django.png)
+
+Django](https://www.javatpoint.com/django-tutorial)
+
+[](https://www.javatpoint.com/flask-tutorial)
+
+[![Flask](images/homeicon/flask.png)
+
+Flask](https://www.javatpoint.com/flask-tutorial)
+
+[](https://www.javatpoint.com/numpy-tutorial)
+
+[![NumPy](images/homeicon/numpy.png)
+
+NumPy](https://www.javatpoint.com/numpy-tutorial)
+
+[](https://www.javatpoint.com/python-tkinter)
+
+[![Tkinter](images/homeicon/tkinter.png)
+
+Tkinter](https://www.javatpoint.com/python-tkinter)
+
+[](https://www.javatpoint.com/pytorch)
+
+[![Pytorch](images/homeicon/pytorch.png)
+
+Pytorch](https://www.javatpoint.com/pytorch)
+
+[](https://www.javatpoint.com/pygame)
+
+[![Pygame](images/homeicon/pygame.png)
+
+Pygame](https://www.javatpoint.com/pygame)
+
+[](https://www.javatpoint.com/python-scipy)
+
+[![Scipy](images/homeicon/scipy.png)
+
+Scipy](https://www.javatpoint.com/python-scipy)
+
+[](https://www.javatpoint.com/python-pandas)
+
+[![Pandas](images/homeicon/pandas.png)
+
+Pandas](https://www.javatpoint.com/python-pandas)
+
+[](https://www.javatpoint.com/opencv)
+
+[![OpenCV](images/homeicon/opencv.png)
+
+OpenCV](https://www.javatpoint.com/opencv)
+
+[](https://www.javatpoint.com/matplotlib)
+
+[![Matplotlib](images/homeicon/matplotlib.png)
+
+Matplotlib](https://www.javatpoint.com/matplotlib)
+
+[](https://www.javatpoint.com/python-openpyxl)
+
+[![Openpyxl](images/homeicon/openpyxl.png)
+
+Openpyxl](https://www.javatpoint.com/python-openpyxl)
+
+[](https://www.javatpoint.com/kivy)
+
+[![Kivy](images/homeicon/kivy.png)
+
+Kivy](https://www.javatpoint.com/kivy)
+
+[](https://www.javatpoint.com/jupyter-notebook)
+
+[![Jupyter](images/homeicon/jupyter.png)
+
+Jupyter](https://www.javatpoint.com/jupyter-notebook)
+
+[](https://www.javatpoint.com/python-cgi-programming)
+
+[![Python CGI Programming](images/homeicon/cgi.png)
+
+Python CGI Programming](https://www.javatpoint.com/python-cgi-programming)
+
+### B.Tech/MCA
+
+[](https://www.javatpoint.com/python-tutorial)
+
+[![Python](images/homeicon/python.png)
+
+Python](https://www.javatpoint.com/python-tutorial)
+
+[](https://www.javatpoint.com/selenium-python)
+
+[![Selenium Python](images/homeicon/selenium-python.png)
+
+Selenium Python](https://www.javatpoint.com/selenium-python)
+
+[](https://www.javatpoint.com/django-tutorial)
+
+[![Django](images/homeicon/django.png)
+
+Django](https://www.javatpoint.com/django-tutorial)
+
+[](https://www.javatpoint.com/flask-tutorial)
+
+[![Flask](images/homeicon/flask.png)
+
+Flask](https://www.javatpoint.com/flask-tutorial)
+
+[](https://www.javatpoint.com/numpy-tutorial)
+
+[![NumPy](images/homeicon/numpy.png)
+
+NumPy](https://www.javatpoint.com/numpy-tutorial)
+
+[](https://www.javatpoint.com/python-tkinter)
+
+[![Tkinter](images/homeicon/tkinter.png)
+
+Tkinter](https://www.javatpoint.com/python-tkinter)
+
+[](https://www.javatpoint.com/pytorch)
+
+[![Pytorch](images/homeicon/pytorch.png)
+
+Pytorch](https://www.javatpoint.com/pytorch)
+
+[](https://www.javatpoint.com/pygame)
+
+[![Pygame](images/homeicon/pygame.png)
+
+Pygame](https://www.javatpoint.com/pygame)
+
+[](https://www.javatpoint.com/python-scipy)
+
+[![Scipy](images/homeicon/scipy.png)
+
+Scipy](https://www.javatpoint.com/python-scipy)
+
+[](https://www.javatpoint.com/python-pandas)
+
+[![Pandas](images/homeicon/pandas.png)
+
+Pandas](https://www.javatpoint.com/python-pandas)
+
+[](https://www.javatpoint.com/opencv)
+
+[![OpenCV](images/homeicon/opencv.png)
+
+OpenCV](https://www.javatpoint.com/opencv)
+
+[](https://www.javatpoint.com/matplotlib)
+
+[![Matplotlib](images/homeicon/matplotlib.png)
+
+Matplotlib](https://www.javatpoint.com/matplotlib)
+
+[](https://www.javatpoint.com/python-openpyxl)
+
+[![Openpyxl](images/homeicon/openpyxl.png)
+
+Openpyxl](https://www.javatpoint.com/python-openpyxl)
+
+[](https://www.javatpoint.com/kivy)
+
+[![Kivy](images/homeicon/kivy.png)
+
+Kivy](https://www.javatpoint.com/kivy)
+
+[](https://www.javatpoint.com/jupyter-notebook)
+
+[![Jupyter](images/homeicon/jupyter.png)
+
+Jupyter](https://www.javatpoint.com/jupyter-notebook)
+
+[](https://www.javatpoint.com/python-cgi-programming)
+
+[![Python CGI Programming](images/homeicon/cgi.png)
+
+Python CGI Programming](https://www.javatpoint.com/python-cgi-programming)
+
+### Trending Technology
+
+[](https://www.javatpoint.com/python-tutorial)
+
+[![Python](images/homeicon/python.png)
+
+Python](https://www.javatpoint.com/python-tutorial)
+
+[](https://www.javatpoint.com/selenium-python)
+
+[![Selenium Python](images/homeicon/selenium-python.png)
+
+Selenium Python](https://www.javatpoint.com/selenium-python)
+
+[](https://www.javatpoint.com/django-tutorial)
+
+[![Django](images/homeicon/django.png)
+
+Django](https://www.javatpoint.com/django-tutorial)
+
+[](https://www.javatpoint.com/flask-tutorial)
+
+[![Flask](images/homeicon/flask.png)
+
+Flask](https://www.javatpoint.com/flask-tutorial)
+
+[](https://www.javatpoint.com/numpy-tutorial)
+
+[![NumPy](images/homeicon/numpy.png)
+
+NumPy](https://www.javatpoint.com/numpy-tutorial)
+
+[](https://www.javatpoint.com/python-tkinter)
+
+[![Tkinter](images/homeicon/tkinter.png)
+
+Tkinter](https://www.javatpoint.com/python-tkinter)
+
+[](https://www.javatpoint.com/pytorch)
+
+[![Pytorch](images/homeicon/pytorch.png)
+
+Pytorch](https://www.javatpoint.com/pytorch)
+
+[](https://www.javatpoint.com/pygame)
+
+[![Pygame](images/homeicon/pygame.png)
+
+Pygame](https://www.javatpoint.com/pygame)
+
+[](https://www.javatpoint.com/python-scipy)
+
+[![Scipy](images/homeicon/scipy.png)
+
+Scipy](https://www.javatpoint.com/python-scipy)
+
+[](https://www.javatpoint.com/python-pandas)
+
+[![Pandas](images/homeicon/pandas.png)
+
+Pandas](https://www.javatpoint.com/python-pandas)
+
+[](https://www.javatpoint.com/opencv)
+
+[![OpenCV](images/homeicon/opencv.png)
+
+OpenCV](https://www.javatpoint.com/opencv)
+
+[](https://www.javatpoint.com/matplotlib)
+
+[![Matplotlib](images/homeicon/matplotlib.png)
+
+Matplotlib](https://www.javatpoint.com/matplotlib)
+
+[](https://www.javatpoint.com/python-openpyxl)
+
+[![Openpyxl](images/homeicon/openpyxl.png)
+
+Openpyxl](https://www.javatpoint.com/python-openpyxl)
+
+[](https://www.javatpoint.com/kivy)
+
+[![Kivy](images/homeicon/kivy.png)
+
+Kivy](https://www.javatpoint.com/kivy)
+
+[](https://www.javatpoint.com/jupyter-notebook)
+
+[![Jupyter](images/homeicon/jupyter.png)
+
+Jupyter](https://www.javatpoint.com/jupyter-notebook)
+
+[](https://www.javatpoint.com/python-cgi-programming)
+
+[![Python CGI Programming](images/homeicon/cgi.png)
+
+Python CGI Programming](https://www.javatpoint.com/python-cgi-programming)
+
+### Web Technology
+
+[](https://www.javatpoint.com/python-tutorial)
+
+[![Python](images/homeicon/python.png)
+
+Python](https://www.javatpoint.com/python-tutorial)
+
+[](https://www.javatpoint.com/selenium-python)
+
+[![Selenium Python](images/homeicon/selenium-python.png)
+
+Selenium Python](https://www.javatpoint.com/selenium-python)
+
+[](https://www.javatpoint.com/django-tutorial)
+
+[![Django](images/homeicon/django.png)
+
+Django](https://www.javatpoint.com/django-tutorial)
+
+[](https://www.javatpoint.com/flask-tutorial)
+
+[![Flask](images/homeicon/flask.png)
+
+Flask](https://www.javatpoint.com/flask-tutorial)
+
+[](https://www.javatpoint.com/numpy-tutorial)
+
+[![NumPy](images/homeicon/numpy.png)
+
+NumPy](https://www.javatpoint.com/numpy-tutorial)
+
+[](https://www.javatpoint.com/python-tkinter)
+
+[![Tkinter](images/homeicon/tkinter.png)
+
+Tkinter](https://www.javatpoint.com/python-tkinter)
+
+[](https://www.javatpoint.com/pytorch)
+
+[![Pytorch](images/homeicon/pytorch.png)
+
+Pytorch](https://www.javatpoint.com/pytorch)
+
+[](https://www.javatpoint.com/pygame)
+
+[![Pygame](images/homeicon/pygame.png)
+
+Pygame](https://www.javatpoint.com/pygame)
+
+[](https://www.javatpoint.com/python-scipy)
+
+[![Scipy](images/homeicon/scipy.png)
+
+Scipy](https://www.javatpoint.com/python-scipy)
+
+[](https://www.javatpoint.com/python-pandas)
+
+[![Pandas](images/homeicon/pandas.png)
+
+Pandas](https://www.javatpoint.com/python-pandas)
+
+[](https://www.javatpoint.com/opencv)
+
+[![OpenCV](images/homeicon/opencv.png)
+
+OpenCV](https://www.javatpoint.com/opencv)
+
+[](https://www.javatpoint.com/matplotlib)
+
+[![Matplotlib](images/homeicon/matplotlib.png)
+
+Matplotlib](https://www.javatpoint.com/matplotlib)
+
+[](https://www.javatpoint.com/python-openpyxl)
+
+[![Openpyxl](images/homeicon/openpyxl.png)
+
+Openpyxl](https://www.javatpoint.com/python-openpyxl)
+
+[](https://www.javatpoint.com/kivy)
+
+[![Kivy](images/homeicon/kivy.png)
+
+Kivy](https://www.javatpoint.com/kivy)
+
+[](https://www.javatpoint.com/jupyter-notebook)
+
+[![Jupyter](images/homeicon/jupyter.png)
+
+Jupyter](https://www.javatpoint.com/jupyter-notebook)
+
+[](https://www.javatpoint.com/python-cgi-programming)
+
+[![Python CGI Programming](images/homeicon/cgi.png)
+
+Python CGI Programming](https://www.javatpoint.com/python-cgi-programming)
+
+### Database
+
+[](https://www.javatpoint.com/python-tutorial)
+
+[![Python](images/homeicon/python.png)
+
+Python](https://www.javatpoint.com/python-tutorial)
+
+[](https://www.javatpoint.com/selenium-python)
+
+[![Selenium Python](images/homeicon/selenium-python.png)
+
+Selenium Python](https://www.javatpoint.com/selenium-python)
+
+[](https://www.javatpoint.com/django-tutorial)
+
+[![Django](images/homeicon/django.png)
+
+Django](https://www.javatpoint.com/django-tutorial)
+
+[](https://www.javatpoint.com/flask-tutorial)
+
+[![Flask](images/homeicon/flask.png)
+
+Flask](https://www.javatpoint.com/flask-tutorial)
+
+[](https://www.javatpoint.com/numpy-tutorial)
+
+[![NumPy](images/homeicon/numpy.png)
+
+NumPy](https://www.javatpoint.com/numpy-tutorial)
+
+[](https://www.javatpoint.com/python-tkinter)
+
+[![Tkinter](images/homeicon/tkinter.png)
+
+Tkinter](https://www.javatpoint.com/python-tkinter)
+
+[](https://www.javatpoint.com/pytorch)
+
+[![Pytorch](images/homeicon/pytorch.png)
+
+Pytorch](https://www.javatpoint.com/pytorch)
+
+[](https://www.javatpoint.com/pygame)
+
+[![Pygame](images/homeicon/pygame.png)
+
+Pygame](https://www.javatpoint.com/pygame)
+
+[](https://www.javatpoint.com/python-scipy)
+
+[![Scipy](images/homeicon/scipy.png)
+
+Scipy](https://www.javatpoint.com/python-scipy)
+
+[](https://www.javatpoint.com/python-pandas)
+
+[![Pandas](images/homeicon/pandas.png)
+
+Pandas](https://www.javatpoint.com/python-pandas)
+
+[](https://www.javatpoint.com/opencv)
+
+[![OpenCV](images/homeicon/opencv.png)
+
+OpenCV](https://www.javatpoint.com/opencv)
+
+[](https://www.javatpoint.com/matplotlib)
+
+[![Matplotlib](images/homeicon/matplotlib.png)
+
+Matplotlib](https://www.javatpoint.com/matplotlib)
+
+[](https://www.javatpoint.com/python-openpyxl)
+
+[![Openpyxl](images/homeicon/openpyxl.png)
+
+Openpyxl](https://www.javatpoint.com/python-openpyxl)
+
+[](https://www.javatpoint.com/kivy)
+
+[![Kivy](images/homeicon/kivy.png)
+
+Kivy](https://www.javatpoint.com/kivy)
+
+[](https://www.javatpoint.com/jupyter-notebook)
+
+[![Jupyter](images/homeicon/jupyter.png)
+
+Jupyter](https://www.javatpoint.com/jupyter-notebook)
+
+[](https://www.javatpoint.com/python-cgi-programming)
+
+[![Python CGI Programming](images/homeicon/cgi.png)
+
+Python CGI Programming](https://www.javatpoint.com/python-cgi-programming)
+
+### Cloud Computing
+
+[](https://www.javatpoint.com/python-tutorial)
+
+[![Python](images/homeicon/python.png)
+
+Python](https://www.javatpoint.com/python-tutorial)
+
+[](https://www.javatpoint.com/selenium-python)
+
+[![Selenium Python](images/homeicon/selenium-python.png)
+
+Selenium Python](https://www.javatpoint.com/selenium-python)
+
+[](https://www.javatpoint.com/django-tutorial)
+
+[![Django](images/homeicon/django.png)
+
+Django](https://www.javatpoint.com/django-tutorial)
+
+[](https://www.javatpoint.com/flask-tutorial)
+
+[![Flask](images/homeicon/flask.png)
+
+Flask](https://www.javatpoint.com/flask-tutorial)
+
+[](https://www.javatpoint.com/numpy-tutorial)
+
+[![NumPy](images/homeicon/numpy.png)
+
+NumPy](https://www.javatpoint.com/numpy-tutorial)
+
+[](https://www.javatpoint.com/python-tkinter)
+
+[![Tkinter](images/homeicon/tkinter.png)
+
+Tkinter](https://www.javatpoint.com/python-tkinter)
+
+[](https://www.javatpoint.com/pytorch)
+
+[![Pytorch](images/homeicon/pytorch.png)
+
+Pytorch](https://www.javatpoint.com/pytorch)
+
+[](https://www.javatpoint.com/pygame)
+
+[![Pygame](images/homeicon/pygame.png)
+
+Pygame](https://www.javatpoint.com/pygame)
+
+[](https://www.javatpoint.com/python-scipy)
+
+[![Scipy](images/homeicon/scipy.png)
+
+Scipy](https://www.javatpoint.com/python-scipy)
+
+[](https://www.javatpoint.com/python-pandas)
+
+[![Pandas](images/homeicon/pandas.png)
+
+Pandas](https://www.javatpoint.com/python-pandas)
+
+[](https://www.javatpoint.com/opencv)
+
+[![OpenCV](images/homeicon/opencv.png)
+
+OpenCV](https://www.javatpoint.com/opencv)
+
+[](https://www.javatpoint.com/matplotlib)
+
+[![Matplotlib](images/homeicon/matplotlib.png)
+
+Matplotlib](https://www.javatpoint.com/matplotlib)
+
+[](https://www.javatpoint.com/python-openpyxl)
+
+[![Openpyxl](images/homeicon/openpyxl.png)
+
+Openpyxl](https://www.javatpoint.com/python-openpyxl)
+
+[](https://www.javatpoint.com/kivy)
+
+[![Kivy](images/homeicon/kivy.png)
+
+Kivy](https://www.javatpoint.com/kivy)
+
+[](https://www.javatpoint.com/jupyter-notebook)
+
+[![Jupyter](images/homeicon/jupyter.png)
+
+Jupyter](https://www.javatpoint.com/jupyter-notebook)
+
+[](https://www.javatpoint.com/python-cgi-programming)
+
+[![Python CGI Programming](images/homeicon/cgi.png)
+
+Python CGI Programming](https://www.javatpoint.com/python-cgi-programming)
+
+### Big Data Technologies
+
+[](https://www.javatpoint.com/python-tutorial)
+
+[![Python](images/homeicon/python.png)
+
+Python](https://www.javatpoint.com/python-tutorial)
+
+[](https://www.javatpoint.com/selenium-python)
+
+[![Selenium Python](images/homeicon/selenium-python.png)
+
+Selenium Python](https://www.javatpoint.com/selenium-python)
+
+[](https://www.javatpoint.com/django-tutorial)
+
+[![Django](images/homeicon/django.png)
+
+Django](https://www.javatpoint.com/django-tutorial)
+
+[](https://www.javatpoint.com/flask-tutorial)
+
+[![Flask](images/homeicon/flask.png)
+
+Flask](https://www.javatpoint.com/flask-tutorial)
+
+[](https://www.javatpoint.com/numpy-tutorial)
+
+[![NumPy](images/homeicon/numpy.png)
+
+NumPy](https://www.javatpoint.com/numpy-tutorial)
+
+[](https://www.javatpoint.com/python-tkinter)
+
+[![Tkinter](images/homeicon/tkinter.png)
+
+Tkinter](https://www.javatpoint.com/python-tkinter)
+
+[](https://www.javatpoint.com/pytorch)
+
+[![Pytorch](images/homeicon/pytorch.png)
+
+Pytorch](https://www.javatpoint.com/pytorch)
+
+[](https://www.javatpoint.com/pygame)
+
+[![Pygame](images/homeicon/pygame.png)
+
+Pygame](https://www.javatpoint.com/pygame)
+
+[](https://www.javatpoint.com/python-scipy)
+
+[![Scipy](images/homeicon/scipy.png)
+
+Scipy](https://www.javatpoint.com/python-scipy)
+
+[](https://www.javatpoint.com/python-pandas)
+
+[![Pandas](images/homeicon/pandas.png)
+
+Pandas](https://www.javatpoint.com/python-pandas)
+
+[](https://www.javatpoint.com/opencv)
+
+[![OpenCV](images/homeicon/opencv.png)
+
+OpenCV](https://www.javatpoint.com/opencv)
+
+[](https://www.javatpoint.com/matplotlib)
+
+[![Matplotlib](images/homeicon/matplotlib.png)
+
+Matplotlib](https://www.javatpoint.com/matplotlib)
+
+[](https://www.javatpoint.com/python-openpyxl)
+
+[![Openpyxl](images/homeicon/openpyxl.png)
+
+Openpyxl](https://www.javatpoint.com/python-openpyxl)
+
+[](https://www.javatpoint.com/kivy)
+
+[![Kivy](images/homeicon/kivy.png)
+
+Kivy](https://www.javatpoint.com/kivy)
+
+[](https://www.javatpoint.com/jupyter-notebook)
+
+[![Jupyter](images/homeicon/jupyter.png)
+
+Jupyter](https://www.javatpoint.com/jupyter-notebook)
+
+[](https://www.javatpoint.com/python-cgi-programming)
+
+[![Python CGI Programming](images/homeicon/cgi.png)
+
+Python CGI Programming](https://www.javatpoint.com/python-cgi-programming)
+
+  
+  
+  
+  
+  
+  
+
+![Ellipse-1](/static/img/Ellipse 1.png) ![Ellipse-2](/static/img/Ellipse 2.png)
+
+![About Jp](/static/img/aboutjp.png)
+
+![Followers](/static/img/followers.png)
+
+### **100K+**  
+SUBSCRIBERS
+
+Youtube Channel
+
+Explore Latest Tutorials by Subscribing to Our YouTube Channel
+--------------------------------------------------------------
+
+[Join Now](https://www.youtube.com/channel/UCUnYvQVCrJoFWZhKK3O2xLg)
+
+Program Your Dreams
+-------------------
+
+Choose a language and start building the future you want!.
+
+[![Blog Files](images/homeicon/blog-files.png)](https://www.javatpoint.com/blog-files)[![Essay](images/homeicon/essay.png)](https://www.javatpoint.com/essay)[![Gadgets Review](images/homeicon/gadgets-review.png)](https://www.javatpoint.com/gadgets-review)[![Laptop Review](images/homeicon/laptop-review.png)](https://www.javatpoint.com/laptop-review)[![Project Management](images/homeicon/project-management.png)](https://www.javatpoint.com/project-management)[![Top 10](images/homeicon/top-10.png)](https://www.javatpoint.com/top-10)[![Tourist Places](images/homeicon/tourist-places.png)](https://www.javatpoint.com/tourist-places)[![TV Reviews](images/homeicon/tv-review.png)](https://www.javatpoint.com/tv-review)[![University](images/homeicon/university.png)](https://www.javatpoint.com/university)[![Biometrics](images/homeicon/biometrics.png)](https://www.javatpoint.com/biometrics-tutorial)[![Bootstrap 5](images/homeicon/bootstrap-5.png)](https://www.javatpoint.com/bootstrap-5)[![ChatGPT](images/homeicon/chatgpt.png)](https://www.javatpoint.com/what-is-chatgpt)[![QTP](images/homeicon/qtp.png)](https://www.javatpoint.com/qtp)[![RxJS](images/homeicon/rxjs.png)](https://www.javatpoint.com/rxjs)[![Data Structures](images/homeicon/data-structures.png)](https://www.javatpoint.com/data-structure-tutorial)[![C Programming](images/homeicon/c-programming.png)](https://www.javatpoint.com/c-programming-language-tutorial)
+
+![Small-Testimonial](/static/img/small-testimonial.png) ![Main-Testimonial](/static/img/maintestimonial.png) ![Smiling-Testimonial](/static/img/smiling-testimonila.png)
+
+![Ellipse-2](/static/img/Ellipse 2.png) ![Shape 99](/static/img/shape99.png) ![Shape-Test](/static/img/shape-test.png)
+
+Student Reviews
+
+What Students Think and Say About Us
+------------------------------------
+
+This online learning platform stands out as an excellent resource. The tutorials are top-notch, making it a must-visit for all programming enthusiasts.
+
+Ayush Gupta  
+Java Developer (Student)
+
+This website offers outstanding content. The programming tutorials are incredibly informative and well-structured. Definitely a top recommendation.
+
+Suresh  
+Python Developer
+
+This online tutorial site delivers exceptional learning material. The programming tutorials are concise and comprehensive, perfect for learners at any level.
+
+Daniel  
+React Developer
+
+**Disclaimer:** This website has no relation with 'Java', it is a free study portal where you can study 200+ technologies. It is an independent online platform created for educational and informational purposes. We don't offer any training or commercial services and will never do in future. We want to make it clear that we are not affiliated with, endorsed by, or connected in any way to Oracle Corporation or the official Java programming language trademark.
+
+The term "Java" and its associated logo are registered trademarks of Oracle Corporation. Any reference to Java on this website is made solely for educational purposes, and we do not claim any ownership or partnership with Oracle Corporation.
 
   
 
-![JavaTpoint](https://www.javatpoint.com/wh.JPG)  
+![Logo](static/img/logo.png)
 
-Privacy Policy
-==============
+We provides tutorials and interview questions of all technology like java tutorial, android, java frameworks
 
-This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+##### Contact info
 
-**What personal information do we collect from the people that visit our blog, website or app?**
+G-13, 2nd Floor, Sec-3, Noida, UP, 201301, India
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your email address or other details to help you with your experience.
+[\[email protected\]](https://www.javatpoint.com/cdn-cgi/l/email-protection).
 
-  
+##### Follow us
 
-**When do we collect information?**
+[![Facebok](static/img/facebook.png)](https://www.facebook.com/javatpoint) [![Twitter](static/img/twitter.png)](https://twitter.com/pagejavatpoint) ![Rss](static/img/rss.png) [![Blogspot](static/img/jp.png)](https://javatpoint.blogspot.com/) [![Youtube](static/img/youtube.png)](https://www.youtube.com/channel/UCUnYvQVCrJoFWZhKK3O2xLg)
 
-  
+##### Tutorials
 
-We collect information from you when you register on our site, subscribe to a newsletter or enter information on our site.
+[Java](https://www.javatpoint.com/java-tutorial) [Data Structures](https://www.javatpoint.com/data-structure-tutorial) [C Programming](https://www.javatpoint.com/c-programming-language-tutorial) [C++ Tutorial](https://www.javatpoint.com/cpp-tutorial) [C# Tutorial](https://www.javatpoint.com/c-sharp-tutorial) [PHP Tutorial](https://www.javatpoint.com/php-tutorial) [HTML Tutorial](https://www.javatpoint.com/html-tutorial) [JavaScript Tutorial](https://www.javatpoint.com/javascript-tutorial) [jQuery Tutorial](https://www.javatpoint.com/jquery-tutorial) [Spring Tutorial](https://www.javatpoint.com/spring-tutorial)
 
-  
+##### Interview Questions
 
-**How do we use your information?**
+[Microsoft](https://www.javatpoint.com/microsoft-interview-questions) [Amazon](https://www.javatpoint.com/amazon-interview-questions) [Adobe](https://www.javatpoint.com/adobe-interview-questions) [Intuit](https://www.javatpoint.com/intuit-interview-questions) [Accenture](https://www.javatpoint.com/accenture-interview-questions) [Cognizant](https://www.javatpoint.com/cognizant-interview-questions) [Capgemini](https://www.javatpoint.com/capgemini-interview-questions) [Wipro](https://www.javatpoint.com/wipro-interview-questions) [Tcs](https://www.javatpoint.com/tcs-interview-questions) [Infosys](https://www.javatpoint.com/infosys-interview-questions)
 
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:  
-  
+##### Online Compiler
 
-      **•** To improve our website in order to better serve you.
+[C](https://www.javatpoint.com/compiler/c) [R](https://www.javatpoint.com/compiler/r) [C++](https://www.javatpoint.com/compiler/c++) [Php](https://www.javatpoint.com/compiler/php) [Java](https://www.javatpoint.com/compiler/java) [Html](https://www.javatpoint.com/compiler/html) [Swift](https://www.javatpoint.com/compiler/swift) [Python](https://www.javatpoint.com/compiler/python) [JavaScript](https://www.javatpoint.com/compiler/javascript) [TypeScript](https://www.javatpoint.com/compiler/typescript)
 
-      **•** To allow us to better service you in responding to your customer service requests.
+© Copyright 2024 Javatpoint. All Rights Reserved.
 
-  
-
-**How do we protect visitor information?**
-
-  
-
-We do not use an SSL certificate
-
-      **•** We only provide articles and information, and we never ask for personal or private information
-
-  
-
-**No Refund and No Cancellation Policy**
-
-There is no refund and no cancellation policy for training, development and seo services.
-
-  
-
-**Do we use 'cookies'?**
-
-  
-
-We do not use cookies for tracking purposes
-
-  
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.  
-
-  
-
-If you disable cookies off, some features will be disabled that make your site experience more efficient and some of our services will not function properly.
-
-  
-
-**Third Party Disclosure**
-
-  
-
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information.
-
-  
-
-**Third party links**
-
-  
-
-We do not include or offer third party products or services on our website.
-
-  
-
-**Google**
-
-  
-
-Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en  
-  
-
-We use Google AdSense Advertising on our website.
-
-  
-Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.  
-
-  
-**We have implemented the following:**
-
-      **•** Google Display Network Impression Reporting
-
-      **•** Demographics and Interests Reporting
-
-  
-
-We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions, and other ad service functions as they relate to our website.
-
-  
-Opting out:  
-Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
-
-  
-
-**COPPA (Children Online Privacy Protection Act)**
-
-  
-
-When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.  
-  
-
-We do not specifically market to children under 13.
-
-  
-
-**Fair Information Practices**
-
-  
-
-The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.  
-  
-
-**In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
-
-We will notify the users via email
-
-      **•** Within 1 business day
-
-We will notify the users via in site notification
-
-      **•** Within 1 business day
-
-  
-We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
-
-  
-
-**CAN SPAM Act**
-
-  
-
-The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.  
-  
-
-**We collect your email address in order to:**
-
-      **•** Send information, respond to inquiries, and/or other requests or questions.
-
-  
-**To be accordance with CANSPAM we agree to the following:**
-
-      **•** NOT use false, or misleading subjects or email addresses
-
-      **•** Honor opt-out/unsubscribe requests quickly
-
-      **•** Allow users to unsubscribe by using the link at the bottom of each email
-
-**  
-If at any time you would like to unsubscribe from receiving future emails, you can**
-
-      **•** Follow the instructions at the bottom of each email.
-
-  
-
-**Contacting Us**
-
-  
-
-If there are any questions regarding this privacy policy you may contact us [Click to Contact Us](https://www.javatpoint.com/contact-us).
-
-* * *
-
- For Videos Join Our Youtube Channel: [Join Now](https://bit.ly/2FOeX6S)
-
-* * *
-
-### Feedback
-
-* Send your Feedback to [\[email protected\]](https://www.javatpoint.com/cdn-cgi/l/email-protection)
-
-* * *
-
-Help Others, Please Share
--------------------------
-
-[![facebook](https://www.javatpoint.com/images/facebook32.png)](https://www.facebook.com/sharer.php?u=https://www.javatpoint.com/privacy-policy "Facebook") [![twitter](https://www.javatpoint.com/images/twitter32.png)](https://twitter.com/share?url=https://www.javatpoint.com/privacy-policy "Twitter") [![pinterest](https://www.javatpoint.com/images/pinterest32.png)](https://www.pinterest.com/pin/create/button/?url=https://www.javatpoint.com/privacy-policy "Pinterest")
-
-* * *
-
-Learn Latest Tutorials
-----------------------
-
-[Splunk](https://www.javatpoint.com/splunk)[SPSS](https://www.javatpoint.com/spss)[Swagger](https://www.javatpoint.com/swagger)[Transact-SQL](https://www.javatpoint.com/t-sql)[Tumblr](https://www.javatpoint.com/tumblr)[ReactJS](https://www.javatpoint.com/reactjs-tutorial)[Regex](https://www.javatpoint.com/regex)[Reinforcement Learning](https://www.javatpoint.com/reinforcement-learning)[R Programming](https://www.javatpoint.com/r-tutorial)[RxJS](https://www.javatpoint.com/rxjs)[React Native](https://www.javatpoint.com/react-native-tutorial)[Python Design Patterns](https://www.javatpoint.com/python-design-pattern)[Python Pillow](https://www.javatpoint.com/python-pillow)[Python Turtle](https://www.javatpoint.com/python-turtle-programming)[Keras](https://www.javatpoint.com/keras)
-
-* * *
-
-Preparation
------------
-
-[Aptitude](https://www.javatpoint.com/aptitude/quantitative)[Reasoning](https://www.javatpoint.com/reasoning)[Verbal Ability](https://www.javatpoint.com/verbal-ability)[Interview Questions](https://www.javatpoint.com/interview-questions-and-answers)[Company Questions](https://www.javatpoint.com/company-interview-questions-and-recruitment-process)
-
-* * *
-
-Trending Technologies
----------------------
-
-[Artificial Intelligence](https://www.javatpoint.com/artificial-intelligence-ai)[AWS](https://www.javatpoint.com/aws-tutorial)[Selenium](https://www.javatpoint.com/selenium-tutorial)[Cloud Computing](https://www.javatpoint.com/cloud-computing)[Hadoop](https://www.javatpoint.com/hadoop-tutorial)[ReactJS](https://www.javatpoint.com/reactjs-tutorial)[Data Science](https://www.javatpoint.com/data-science)[Angular 7](https://www.javatpoint.com/angular-7-tutorial)[Blockchain](https://www.javatpoint.com/blockchain-tutorial)[Git](https://www.javatpoint.com/git)[Machine Learning](https://www.javatpoint.com/machine-learning)[DevOps](https://www.javatpoint.com/devops)
-
-* * *
-
-B.Tech / MCA
-------------
-
-[DBMS](https://www.javatpoint.com/dbms-tutorial)[Data Structures](https://www.javatpoint.com/data-structure-tutorial)[DAA](https://www.javatpoint.com/daa-tutorial)[Operating System](https://www.javatpoint.com/operating-system)[Computer Network](https://www.javatpoint.com/computer-network-tutorial)[Compiler Design](https://www.javatpoint.com/compiler-tutorial)[Computer Organization](https://www.javatpoint.com/computer-organization-and-architecture-tutorial)[Discrete Mathematics](https://www.javatpoint.com/discrete-mathematics-tutorial)[Ethical Hacking](https://www.javatpoint.com/ethical-hacking)[Computer Graphics](https://www.javatpoint.com/computer-graphics-tutorial)[Software Engineering](https://www.javatpoint.com/software-engineering)[Web Technology](https://www.javatpoint.com/html-tutorial)[Cyber Security](https://www.javatpoint.com/cyber-security-tutorial)[Automata](https://www.javatpoint.com/automata-tutorial)[C Programming](https://www.javatpoint.com/c-programming-language-tutorial)[C++](https://www.javatpoint.com/cpp-tutorial)[Java](https://www.javatpoint.com/java-tutorial)[.Net](https://www.javatpoint.com/net-framework)[Python](https://www.javatpoint.com/python-tutorial)[Programs](https://www.javatpoint.com/programs-list)[Control System](https://www.javatpoint.com/control-system-tutorial)[Data Mining](https://www.javatpoint.com/data-mining)[Data Warehouse](https://www.javatpoint.com/data-warehouse)
-
-  
-  
-
-  
-  
-
-  
-
-Like/Subscribe us for latest updates or newsletter [![RSS Feed](https://static.javatpoint.com/images/social/rss1.png)](https://feeds.feedburner.com/javatpointsonoo) [![Subscribe to Get Email Alerts](https://static.javatpoint.com/images/social/mail1.png)](https://feedburner.google.com/fb/a/mailverify?uri=javatpointsonoo) [![Facebook Page](https://static.javatpoint.com/images/social/facebook1.jpg)](https://www.facebook.com/javatpoint) [![Twitter Page](https://static.javatpoint.com/images/social/twitter1.png)](https://twitter.com/pagejavatpoint) [![YouTube](https://static.javatpoint.com/images/youtube32.png)](https://www.youtube.com/channel/UCUnYvQVCrJoFWZhKK3O2xLg) [![Blog Page](https://static.javatpoint.com/images/social/blog.png)](https://javatpoint.blogspot.com/)
-
-### Learn Tutorials
-
-[Learn Java](https://www.javatpoint.com/java-tutorial)[Learn Data Structures](https://www.javatpoint.com/data-structure-tutorial)[Learn C Programming](https://www.javatpoint.com/c-programming-language-tutorial)[Learn C++ Tutorial](https://www.javatpoint.com/cpp-tutorial)[Learn C# Tutorial](https://www.javatpoint.com/c-sharp-tutorial)[Learn PHP Tutorial](https://www.javatpoint.com/php-tutorial)[Learn HTML Tutorial](https://www.javatpoint.com/html-tutorial)[Learn JavaScript Tutorial](https://www.javatpoint.com/javascript-tutorial)[Learn jQuery Tutorial](https://www.javatpoint.com/jquery-tutorial)[Learn Spring Tutorial](https://www.javatpoint.com/spring-tutorial)
-
-### Interview Questions
-
-[Java Interview Questions](https://www.javatpoint.com/corejava-interview-questions)[SQL Interview Questions](https://www.javatpoint.com/sql-interview-questions)[Python Interview Questions](https://www.javatpoint.com/python-interview-questions)[JavaScript Interview Questions](https://www.javatpoint.com/javascript-interview-questions)[Angular Interview Questions](https://www.javatpoint.com/top-angular-interview-questions)[Selenium Interview Questions](https://www.javatpoint.com/selenium-interview-questions)[Spring Boot Interview Questions](https://www.javatpoint.com/spring-boot-interview-questions)[HR Interview Questions](https://www.javatpoint.com/job-interview-questions)[C++ Interview Questions](https://www.javatpoint.com/cpp-interview-questions)[Data Structure Interview Questions](https://www.javatpoint.com/data-structure-interview-questions)
-
-### About
-
-This website is developed to help students on various technologies such as Artificial Intelligence, Machine Learning, C, C++, Python, Java, PHP, HTML, CSS, JavaScript, jQuery, ReactJS, Node.js, AngularJS, Bootstrap, XML, SQL, PL/SQL, MySQL etc.
-
-This website provides tutorials with examples, code snippets, and practical insights, making it suitable for both beginners and experienced developers.
-
-There are also many interview questions which will help students to get placed in the companies.
-
-### Contact
-
-[Contact Us](https://www.javatpoint.com/contact-us) [Privacy Policy](https://www.javatpoint.com/privacy-policy)[Sitemap](https://www.javatpoint.com/sitemap.xml)  
-[About Me](https://www.javatpoint.com/sonoo-jaiswal)
-
-© Copyright 2011-2021 www.javatpoint.com. All rights reserved. Developed by Tpoint Tech.
+[](#)
