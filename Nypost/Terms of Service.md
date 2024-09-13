@@ -279,6 +279,7 @@ If a Dispute is a Covered Dispute, the Mandatory Dispute Resolution Provisions f
     * [Real Estate](https://nypost.com/real-estate/)
     * [Media](https://nypost.com/media/)
     * [Tech](https://nypost.com/tech/)
+    * [Science](https://nypost.com/science/)
     * [Health](https://nypost.com/health/)
     * [Travel](https://nypost.com/travel/)
     * [Astrology](https://nypost.com/astrology/)
