@@ -55,11 +55,9 @@ Search site
 * [Recipes](https://www.fox4news.com/tag/series/good-day-recipes)
 * [Traffic](https://www.fox4news.com/traffic)
 * [Entertainment](https://www.fox4news.com/tag/entertainment)
-* [Save Me Steve](https://www.fox4news.com/tag/series/save-me-steve)
-* [Children's Hospital Heroes](https://www.fox4news.com/tag/series/childrens-hospital-heroes)
-* [Birthdays](https://www.fox4news.com/good-day-birthdays)
 * [Things To Do](https://www.fox4news.com/tag/lifestyle/things-to-do-in-dallas)
-* [Consumer Confidential](https://www.fox4news.com/shows/consumer-confidential)
+* [Save Me Steve](https://www.fox4news.com/tag/series/save-me-steve)
+* [Birthdays](https://www.fox4news.com/good-day-birthdays)
 
 ###### [Only on FOX 4](https://www.fox4news.com/tag/series/fox-4-features)
 
@@ -67,14 +65,12 @@ Search site
 * [Links from On Air](https://www.fox4news.com/links)
 * [FOX 4 Features](https://www.fox4news.com/tag/series/fox-4-features)
 * [Trackdown](https://www.fox4news.com/tag/series/trackdown)
-* [Investigations](https://www.fox4news.com/tag/series/fox4-investigations)
-* [Hometown Heroes](https://www.fox4news.com/tag/series/fox-4-features/clarices-hometown-heroes)
 * [Texas: The Issue Is](https://www.fox4news.com/tag/tx-politics/texas-the-issue-is)
 * [The Tex Factor](https://www.fox4news.com/shows/the-tex-factor)
-* [Last Call with Steve Noviello](https://www.fox4news.com/lastcall)
+* [Texas To-Do List](https://www.fox4news.com/tag/series/texas-to-do-list)
 * [Here's To You](https://www.fox4news.com/herestoyou)
+* [Last Call with Steve Noviello](https://www.fox4news.com/lastcall)
 * [Brand Spotlight](https://www.fox4news.com/shows/brand-spotlight)
-* [Class of 2024](https://www.fox4news.com/grads)
 
 ###### [About Us](https://www.fox4news.com/about-us)
 
@@ -405,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Argyle church's lead pastor resigns after ‘inappropriate actions’](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/V-CROSSTIMBERS-CHURCH-PASTOR-6P_00.00.02.02.jpg?ve=1&tl=1)
+ [![Rangers All-Star Corey Seager to have sports hernia surgery, ending season](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/GettyImages-2167574739.jpg?ve=1&tl=1)
 
- ![Argyle church's lead pastor resigns after ‘inappropriate actions’](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/592/333/V-CROSSTIMBERS-CHURCH-PASTOR-6P_00.00.02.02.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/cross-timbers-church-pastor-josiah-anthony-resignation)
+ ![Rangers All-Star Corey Seager to have sports hernia surgery, ending season](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/GettyImages-2167574739.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/rangers-all-star-corey-seager-have-sports-hernia-surgery-ending-season)
 
-### [Argyle church's lead pastor resigns after ‘inappropriate actions’](https://www.fox4news.com/news/cross-timbers-church-pastor-josiah-anthony-resignation)
+### [Rangers All-Star Corey Seager to have sports hernia surgery, ending season](https://www.fox4news.com/sports/rangers-all-star-corey-seager-have-sports-hernia-surgery-ending-season)
 
- [![Irving officer not seriously hurt after rollover crash](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/Irving-PD-rollover-CTSY-Henry-Palencia-pic3.png?ve=1&tl=1)
+ [![Shrimp ceviche with salsa verde fresca recipe from the Hispanic Heritage Celebration](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/091324-Meso-Maya-Hispanic-Heritage-KDFWEME001_09_5_00.05.28.26.jpg?ve=1&tl=1)
 
- ![Irving officer not seriously hurt after rollover crash](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/592/333/Irving-PD-rollover-CTSY-Henry-Palencia-pic3.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/irving-officer-not-seriously-hurt-after-rollover-crash)
+ ![Shrimp ceviche with salsa verde fresca recipe from the Hispanic Heritage Celebration](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/091324-Meso-Maya-Hispanic-Heritage-KDFWEME001_09_5_00.05.28.26.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/shrimp-ceviche-salsa-verde-fresca-recipe-from-hispanic-heritage-celebration)
 
-### [Irving officer not seriously hurt after rollover crash](https://www.fox4news.com/news/irving-officer-not-seriously-hurt-after-rollover-crash)
+### [Shrimp ceviche with salsa verde fresca recipe from the Hispanic Heritage Celebration](https://www.fox4news.com/news/shrimp-ceviche-salsa-verde-fresca-recipe-from-hispanic-heritage-celebration)
 
- [![Dallas woman warns of new jury duty scam after nearly falling for it](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/V-812-9PM-JURY-DUTY-SCAM_00.00.06.52.jpg?ve=1&tl=1)
+ [![McDonald's $5 value meal is sticking around longer at most US locations](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/McDonalds.jpg?ve=1&tl=1)
 
- ![Dallas woman warns of new jury duty scam after nearly falling for it](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/592/333/V-812-9PM-JURY-DUTY-SCAM_00.00.06.52.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-jury-duty-scam-call-scammers-consumer-warning)
+ ![McDonald's $5 value meal is sticking around longer at most US locations](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/McDonalds.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mcdonalds-value-meal-sticking-around-longer)
 
-### [Dallas woman warns of new jury duty scam after nearly falling for it](https://www.fox4news.com/news/dallas-jury-duty-scam-call-scammers-consumer-warning)
+### [McDonald's $5 value meal is sticking around longer at most US locations](https://www.fox4news.com/news/mcdonalds-value-meal-sticking-around-longer)
 
- [![Dramatic video shows stolen pickup truck ramming Dallas police vehicles](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/snapshot-1.jpg?ve=1&tl=1)
+ [!['No eating dogs and cats,' Biden jokes as he wears Trump 2024 hat](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/Biden-Trump-hat-use-this-one.jpg?ve=1&tl=1)
 
- ![Dramatic video shows stolen pickup truck ramming Dallas police vehicles](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/592/333/snapshot-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-police-shooting-deantae-moore-video)
+ !['No eating dogs and cats,' Biden jokes as he wears Trump 2024 hat](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/Biden-Trump-hat-use-this-one.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/biden-wears-trump-hat-warns-against-eating-cats-dogs)
 
-### [Dramatic video shows stolen pickup truck ramming Dallas police vehicles](https://www.fox4news.com/news/dallas-police-shooting-deantae-moore-video)
+### ['No eating dogs and cats,' Biden jokes as he wears Trump 2024 hat](https://www.fox4news.com/news/biden-wears-trump-hat-warns-against-eating-cats-dogs)
 
- [![Pets can smell your stress, study finds](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/07/32/18/GettyImages-1034567206.jpg?ve=1&tl=1)
+ [![Lowe plates winning run during 3-run 8th and Rangers rally to beat Mariners 5-4 in Rocker’s debut](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/GettyImages-2171643435.jpg?ve=1&tl=1)
 
- ![Pets can smell your stress, study finds](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/07/32/18/592/333/GettyImages-1034567206.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/pets-can-smell-your-stress-study-finds)
+ ![Lowe plates winning run during 3-run 8th and Rangers rally to beat Mariners 5-4 in Rocker’s debut](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/GettyImages-2171643435.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/lowe-plates-winning-run-during-3-run-8th-rangers-rally-beat-mariners-5-4-rockers-debut)
 
-### [Pets can smell your stress, study finds](https://www.fox4news.com/news/pets-can-smell-your-stress-study-finds)
+### [Lowe plates winning run during 3-run 8th and Rangers rally to beat Mariners 5-4 in Rocker’s debut](https://www.fox4news.com/sports/lowe-plates-winning-run-during-3-run-8th-rangers-rally-beat-mariners-5-4-rockers-debut)
 
 ###### [News](https://www.fox4news.com/news)
 
@@ -473,11 +469,9 @@ Please note that, in some instances, we may decline to honor your request where,
 * [Recipes](https://www.fox4news.com/tag/series/good-day-recipes)
 * [Traffic](https://www.fox4news.com/traffic)
 * [Entertainment](https://www.fox4news.com/tag/entertainment)
-* [Save Me Steve](https://www.fox4news.com/tag/series/save-me-steve)
-* [Children's Hospital Heroes](https://www.fox4news.com/tag/series/childrens-hospital-heroes)
-* [Birthdays](https://www.fox4news.com/good-day-birthdays)
 * [Things To Do](https://www.fox4news.com/tag/lifestyle/things-to-do-in-dallas)
-* [Consumer Confidential](https://www.fox4news.com/shows/consumer-confidential)
+* [Save Me Steve](https://www.fox4news.com/tag/series/save-me-steve)
+* [Birthdays](https://www.fox4news.com/good-day-birthdays)
 
 ###### [Only on FOX 4](https://www.fox4news.com/tag/series/fox-4-features)
 
@@ -485,14 +479,12 @@ Please note that, in some instances, we may decline to honor your request where,
 * [Links from On Air](https://www.fox4news.com/links)
 * [FOX 4 Features](https://www.fox4news.com/tag/series/fox-4-features)
 * [Trackdown](https://www.fox4news.com/tag/series/trackdown)
-* [Investigations](https://www.fox4news.com/tag/series/fox4-investigations)
-* [Hometown Heroes](https://www.fox4news.com/tag/series/fox-4-features/clarices-hometown-heroes)
 * [Texas: The Issue Is](https://www.fox4news.com/tag/tx-politics/texas-the-issue-is)
 * [The Tex Factor](https://www.fox4news.com/shows/the-tex-factor)
-* [Last Call with Steve Noviello](https://www.fox4news.com/lastcall)
+* [Texas To-Do List](https://www.fox4news.com/tag/series/texas-to-do-list)
 * [Here's To You](https://www.fox4news.com/herestoyou)
+* [Last Call with Steve Noviello](https://www.fox4news.com/lastcall)
 * [Brand Spotlight](https://www.fox4news.com/shows/brand-spotlight)
-* [Class of 2024](https://www.fox4news.com/grads)
 
 ###### [About Us](https://www.fox4news.com/about-us)
 
