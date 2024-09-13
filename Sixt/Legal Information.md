@@ -24,8 +24,6 @@ The browser version you’re using is no longer supported. Update to a newer ver
 
 [Terms & conditions](https://www.sixt.com/pages/terms-conditions/)
 
-[Airport Car Rental](https://www.sixt.com/rental-guide/top-airports/)
-
 [Cookie-Settings](#)
 
 © Sixt 2024
