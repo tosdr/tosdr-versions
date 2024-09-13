@@ -5,10 +5,6 @@ This Website collects some Personal Data from its Users.
 
   
 
-Users may be subject to different protection standards and broader standards may therefore apply to some. Users can contact the Owner, to learn more about such standards.
-
-This document contains [a section dedicated to Users in the European Union and their privacy rights](#cookie_policy_further_information).
-
 This document contains [a section dedicated to Users in the United States and their privacy rights.](#all_us_laws_info)
 
   
@@ -27,7 +23,7 @@ Cold Spring, NY 10516
 Types of Data collected
 -----------------------
 
-Among the types of Personal Data that this Website collects, by itself or through third parties, there are: Cookies; Usage Data; first name; last name; email address; Data communicated while using the service; session duration; clicks; interaction events; payment info; answers to questions; keypress events; motion sensor events; mouse movements; scroll position; touch events; browser information.
+Among the types of Personal Data that this Website collects, by itself or through third parties, there are: Cookies; Usage Data; first name; last name; email address; Data communicated while using the service; session duration; clicks; interaction events; payment info; answers to questions; keypress events; motion sensor events; mouse movements; scroll position; touch events; browser information; unique device identifiers for advertising (Google Advertiser ID or IDFA, for example); geographic position; language; metadata.
 
 Complete details on each type of Personal Data collected are provided in the dedicated sections of this privacy policy or by specific explanation texts displayed prior to the Data collection.  
 Personal Data may be freely provided by the User, or, in case of Usage Data, collected automatically when using this Website.  
@@ -58,7 +54,7 @@ Unless specified otherwise in this document, Personal Data shall be processed an
 The purposes of processing
 --------------------------
 
-The Data concerning the User is collected to allow the Owner to provide its Service, comply with its legal obligations, respond to enforcement requests, protect its rights and interests (or those of its Users or third parties), detect any malicious or fraudulent activity, as well as the following: SPAM protection, Interaction with external social networks and platforms, Displaying content from external platforms, Content commenting, Contacting the User, Managing contacts and sending messages, Traffic optimization and distribution, Handling payments, Tag Management, Hosting and backend infrastructure, Analytics, Heat mapping and session recording, Advertising, Registration and authentication provided directly by this Website and Building and running this Website.
+The Data concerning the User is collected to allow the Owner to provide its Service, comply with its legal obligations, respond to enforcement requests, protect its rights and interests (or those of its Users or third parties), detect any malicious or fraudulent activity, as well as the following: SPAM protection, Interaction with external social networks and platforms, Displaying content from external platforms, Content commenting, Contacting the User, Managing contacts and sending messages, Traffic optimization and distribution, Handling payments, Tag Management, Hosting and backend infrastructure, Analytics, Heat mapping and session recording, Advertising, Registration and authentication provided directly by this Website, Building and running this Website and Interaction with data collection platforms and other third parties.
 
 For specific information about the Personal Data used for each purpose, the User may refer to the section “Detailed information on the processing of Personal Data”.
 
@@ -416,6 +412,26 @@ Personal Data is collected for the following purposes and using the following se
     
     This processing constitutes:
     
+* ### Interaction with data collection platforms and other third parties
+    
+    This type of service allows Users to interact with data collection platforms or other services directly from the pages of this Website for the purpose of saving and reusing data. If one of these services is installed, it may collect browsing and Usage Data in the pages where it is installed, even if the Users do not actively use the service.
+    
+    #### Mailchimp widget (Intuit Inc.)
+    
+    The Mailchimp widget is a service for interacting with the Mailchimp email address management and message sending service provided by Intuit Inc.
+    
+    Personal Data processed: email address.
+    
+    Place of processing: United States – [Privacy Policy](https://www.intuit.com/privacy/statement/).
+    
+    Category of Personal Information collected according to the CCPA: identifiers.
+    
+    This processing constitutes:
+    
+    * a Sale in the United States
+    * a Sharing in California
+    * Targeted Advertising in Virginia, Colorado, Connecticut, Utah, Texas, Oregon and Montana
+    
 * ### Interaction with external social networks and platforms
     
     This type of service allows interaction with social networks or other external platforms directly from the pages of this Website.  
@@ -484,6 +500,34 @@ Personal Data is collected for the following purposes and using the following se
     
     * a Sale in the United States
     * a Sharing in California
+    
+    #### Mailgun (Mailgun Technologies, Inc.)
+    
+    Mailgun is an email address management and message sending service provided by Mailgun Technologies, Inc.
+    
+    Personal Data processed: email address.
+    
+    Place of processing: United States – [Privacy Policy](https://www.mailgun.com/privacy-policy).
+    
+    Category of Personal Information collected according to the CCPA: identifiers.
+    
+    #### OneSignal (Lilomi, Inc.)
+    
+    OneSignal is a message sending service provided by Lilomi, Inc.
+    
+    OneSignal allows the Owner to send messages and notifications to Users across platforms such as Android, iOS, and the web. Messages can be sent to single devices, groups of devices, or specific topics or User segments. Depending on the permissions granted to this Website, the Data collected may also include precise location (i.e. GPS-level data) or WiFi information, apps installed and enabled on the User's device. This Website uses identifiers for mobile devices (including Android Advertising ID or Advertising Identifier for iOS, respectively) and technologies similar to cookies to run the OneSignal service.
+    
+    **The Data collected may be used by the service provider for interest-based advertising, analytics and market research. In order to understand OneSignal's use of Data, consult [OneSignal's privacy policy](https://onesignal.com/privacy_policy#1)**.
+    
+    **Push notifications opt-out** Users may in most cases opt-out of receiving push notifications by visiting their device settings, such as the notification settings for mobile phones, and then changing those settings for some or all of the apps on the particular device.
+    
+    **Interest-based advertising opt-out** Users may opt-out of OneSignal advertising features through applicable device settings, such as the device advertising settings for mobile phones. Different device configurations, or updates to devices, may affect or change how these indicated settings work.
+    
+    Personal Data processed: email address; geographic position; language; Trackers; unique device identifiers for advertising (Google Advertiser ID or IDFA, for example); Usage Data; various types of Data as specified in the privacy policy of the service.
+    
+    Place of processing: United States – [Privacy Policy](https://onesignal.com/privacy_policy) – [Opt out](https://onesignal.com/privacy_policy#6).
+    
+    Category of Personal Information collected according to the CCPA: identifiers; internet or other electronic network activity information; geolocation data; inferences drawn from other personal information.
     
 * ### Registration and authentication provided directly by this Website
     
@@ -571,6 +615,16 @@ Personal Data is collected for the following purposes and using the following se
     
     * a Sale in California
     
+    #### Smush (Incsub, LLC)
+    
+    Smush is a traffic optimization and distribution service provided by Incsub, LLC. The service optimizes images used on this Website and may serve them to Users in order to optimize the loading times on this Website.
+    
+    Personal Data processed: metadata.
+    
+    Place of processing: United States – [Privacy Policy](https://incsub.com/privacy-policy/).
+    
+    Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
+    
 
 Information on opting out of interest-based advertising
 -------------------------------------------------------
@@ -602,10 +656,8 @@ Cookie Policy
 
 This Website uses Trackers. To learn more, Users may consult the [Cookie Policy](https://www.iubenda.com/privacy-policy/25776182/cookie-policy "Cookie Policy").
 
-Further Information for Users in the European Union
----------------------------------------------------
-
-This section applies to all Users in the European Union, according to the General Data Protection Regulation (the “GDPR”), and, for such Users, supersedes any other possibly divergent or conflicting information contained in the privacy policy. Further details regarding the categories of Data processed, the purposes of processing, the categories of recipients of the Personal Data, if any, and further information about Personal Data can be found in **the section titled “Detailed information on the processing of Personal Data” within this document**.
+Further Information for Users
+-----------------------------
 
 ### Legal basis of processing
 
@@ -678,7 +730,7 @@ _While such categorization of Personal Information is mainly based on California
 
 * ### Internet or other electronic network activity information
     
-    **Personal Information collected or disclosed:** Various types of data as specified in the privacy policy of the service, Cookies, Usage data, Data communicated while using the service, Tracker, Session duration, Clicks, Interaction events, Trackers, Answers to questions, Keypress events, Motion sensor events, Mouse movements, Scroll position, Touch events, Browser information, Email address
+    **Personal Information collected or disclosed:** various types of Data as specified in the privacy policy of the service, Cookies, Usage Data, Data communicated while using the service, Tracker, session duration, clicks, interaction events, Trackers, answers to questions, keypress events, motion sensor events, mouse movements, scroll position, touch events, browser information, email address, unique device identifiers for advertising (Google Advertiser ID or IDFA, for example), geographic position, language, metadata
     
     **Purposes:**
     
@@ -694,6 +746,7 @@ _While such categorization of Personal Information is mainly based on California
     * Heat mapping and session recording
     * Advertising
     * Building and running this Website
+    * Managing contacts and sending messages
     
     **Retention period:** for the time necessary to fulfill the purpose
     
@@ -701,11 +754,13 @@ _While such categorization of Personal Information is mainly based on California
     
     **Targeted Advertising: ℹ️:** Yes
     
-    **Third-parties:** Automattic Inc., PayPal Inc., Google LLC, Getty Images, Inc., Vimeo, LLC, Facebook, Inc., X Corp., Cloudflare Inc., Stripe Inc, Fonticons, Inc. , iubenda srl, Microsoft Corporation, Meta Platforms, Inc., this Website, AppNexus Inc.
+    **Third-parties:** Automattic Inc., PayPal Inc., Google LLC, Getty Images, Inc., Vimeo, LLC, Facebook, Inc., X Corp., Cloudflare Inc., Stripe Inc, Fonticons, Inc. , iubenda srl, Microsoft Corporation, Meta Platforms, Inc., this Website, AppNexus Inc., Lilomi, Inc.
+    
+    **Service providers or contractors:** Incsub, LLC
     
 * ### Identifiers
     
-    **Personal Information collected or disclosed:** First name, Last name, Email address, Various types of data as specified in the privacy policy of the service, Usage data
+    **Personal Information collected or disclosed:** first name, last name, email address, various types of Data as specified in the privacy policy of the service, Usage Data, Trackers, unique device identifiers for advertising (Google Advertiser ID or IDFA, for example), geographic position, language
     
     **Sensitive Personal Information collected or disclosed ℹ️:** payment info
     
@@ -717,6 +772,7 @@ _While such categorization of Personal Information is mainly based on California
     * Handling payments
     * Registration and authentication provided directly by this Website
     * Displaying content from external platforms
+    * Interaction with data collection platforms and other third parties
     
     **Retention period:** for the time necessary to fulfill the purpose
     
@@ -724,13 +780,13 @@ _While such categorization of Personal Information is mainly based on California
     
     **Targeted Advertising: ℹ️:** Yes
     
-    **Third-parties:** The Rocket Science Group LLC, PayPal Inc., this Website, Automattic Inc.
+    **Third-parties:** The Rocket Science Group LLC, PayPal Inc., this Website, Automattic Inc., Intuit Inc., Lilomi, Inc.
     
-    **Service providers or contractors:** this Website
+    **Service providers or contractors:** this Website, Mailgun Technologies, Inc.
     
 * ### Commercial information
     
-    **Personal Information collected or disclosed:** Various types of data as specified in the privacy policy of the service
+    **Personal Information collected or disclosed:** various types of Data as specified in the privacy policy of the service
     
     **Sensitive Personal Information collected or disclosed ℹ️:** payment info
     
@@ -748,11 +804,12 @@ _While such categorization of Personal Information is mainly based on California
     
 * ### Inferences drawn from other personal information
     
-    **Personal Information collected or disclosed:** Usage data, Trackers, Answers to questions, Clicks, Keypress events, Motion sensor events, Mouse movements, Scroll position, Touch events
+    **Personal Information collected or disclosed:** Usage Data, Trackers, answers to questions, clicks, keypress events, motion sensor events, mouse movements, scroll position, touch events, unique device identifiers for advertising (Google Advertiser ID or IDFA, for example), email address, geographic position, language, various types of Data as specified in the privacy policy of the service
     
     **Purposes:**
     
     * Spam and bots protection
+    * Managing contacts and sending messages
     
     **Retention period:** for the time necessary to fulfill the purpose
     
@@ -760,7 +817,23 @@ _While such categorization of Personal Information is mainly based on California
     
     **Targeted Advertising: ℹ️:** Yes
     
-    **Third-parties:** Google LLC
+    **Third-parties:** Google LLC, Lilomi, Inc.
+    
+* ### Geolocation data
+    
+    **Personal Information collected or disclosed:** Trackers, Usage Data, unique device identifiers for advertising (Google Advertiser ID or IDFA, for example), email address, geographic position, language, various types of Data as specified in the privacy policy of the service
+    
+    **Purposes:**
+    
+    * Managing contacts and sending messages
+    
+    **Retention period:** for the time necessary to fulfill the purpose
+    
+    **Sold or Shared ℹ️:** Yes
+    
+    **Targeted Advertising: ℹ️:** Yes
+    
+    **Third-parties:** Lilomi, Inc.
     
 
 ℹ️ You can read the definitions of these concepts inside the “[Definitions and legal references section](#definitions_and_legal_references)” of the privacy policy.
@@ -929,7 +1002,7 @@ This privacy statement has been prepared based on provisions of multiple legisla
 
 This privacy policy relates solely to this Website, if not stated otherwise within this document.
 
-Latest update: March 07, 2024
+Latest update: August 23, 2024
 
 [iubenda](https://www.iubenda.com/en/privacy-and-cookie-policy-generator "iubenda - Privacy Policy generator") hosts this content and only collects [the Personal Data strictly necessary](https://www.iubenda.com/privacy-policy/65675001) for it to be provided.
 
