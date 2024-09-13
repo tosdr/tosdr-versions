@@ -199,6 +199,7 @@ Footer
     * [FAQs](https://www.electrifyamerica.com/mobile-faq/)
     * [Contact us](https://www.electrifyamerica.com/contact-us/)
     * [HomeStation](https://www.electrifyamerica.com/homestation/)
+    * [Network Updates](https://bit.ly/network-upgrades-and-maintenance)
     
     Company
     
