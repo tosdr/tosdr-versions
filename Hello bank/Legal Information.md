@@ -12,8 +12,6 @@
 
 [Hello bank! la banque en ligne de BNP Paribas](https://www.hellobank.fr/ "Hello bank! la banque en ligne de BNP Paribas") Menu
 
-[Hello bank! la banque en ligne de BNP Paribas](https://www.hellobank.fr/ "Hello bank! la banque en ligne de BNP Paribas") Poser votre question  Lancer la recherche
-
 [Hello bank! la banque en ligne de BNP Paribas](https://www.hellobank.fr/ "Hello bank! la banque en ligne de BNP Paribas")
 
 * Comptes et cartes
@@ -79,15 +77,15 @@
     
     En ce moment
     
-    **Jusqu'à**
-    
     80 € OFFERTS\*
     
-    **sur Hello Prime et Hello Prime Duo** en effectuant 10 opérations carte dans les 3 mois
+    **+ 1 € / mois** pendant les 6 premiers mois sur Hello Prime **Et 40 € offerts** sur Hello One
     
-    Offre valable jusqu'au 21/08/2024
+    Offre valable jusqu'au 09/10/2024 \*
     
-    [J'en profite](https://www.hellobank.fr/fr/ouvrir-un-compte/comment-souscrire/) \* Voir conditions sur le site.
+    [J'en profite](https://www.hellobank.fr/fr/ouvrir-un-compte/comment-souscrire/)
+    
+    \* Voir conditions sur le site.
     
 * Épargne et bourse
     
@@ -132,7 +130,7 @@
     
     EN CE MOMENT Une solution d'épargne sûre
     
-    Avec le Compte à Terme Hello Max, découvrez l’épargne rémunérée à 3,50 % annuel brut pour l’ouverture d’un compte à terme de 6 mois à partir de 50 000 € au 01/07/2024.​
+    Avec le Compte à Terme Hello Max, découvrez l’épargne rémunérée à 3,35 % annuel brut pour l’ouverture d’un compte à terme de 6 mois à partir de 50 000 € au 05/08/2024.​
     
     [En savoir plus](https://www.hellobank.fr/fr/offre/epargne/compte-terme-hello-max/)
     
@@ -202,35 +200,25 @@
     [En savoir plus](https://www.hellobank.fr/fr/offre/assurance-prevoyance/assurance-appareils-mobiles/)
     
 * [Parrainage](https://www.hellobank.fr/fr/votre-offre-parrainage/)
-    
-    En ce moment
-    
-    **Jusqu'à**
-    
-    80 € OFFERTS\*
-    
-    **sur Hello Prime et Hello Prime Duo** en effectuant 10 opérations carte dans les 3 mois
-    
-    Offre valable jusqu'au 21/08/2024
-    
-    [J'en profite](https://www.hellobank.fr/fr/ouvrir-un-compte/comment-souscrire/) \* Voir conditions sur le site.
-    
 * Recherche, vous avez une question ? Vous avez une question ?
+    
+    Poser votre question  Lancer la recherche
+    
+    Posez votre question  Lancer la recherche
+    
+    Les questions les plus posées :
+    
+    * [«Quelles sont les conditions pour ouvrir un compte bancaire ? »](https://www.hellobank.fr/faq/quelles-sont-les-conditions-pour-ouvrir-un-compte-bancaire)
+    * [« L'ouverture de compte est-elle payante ? »](https://www.hellobank.fr/faq/l-ouverture-de-compte-est-elle-payante)
+    * [« Puis-je avoir un compte bancaire chez BNP Paribas et un autre chez Hello bank! ? »](https://www.hellobank.fr/faq/puis-je-avoir-un-compte-bancaire-chez-bnp-paribas-et-un-autre-chez-hello-bank)
+    * [« Quand et comment vais-je recevoir ma carte bancaire ? »](https://www.hellobank.fr/faq/quand-et-comment-vais-je-recevoir-ma-carte-bancaire)
+    
+    Appelez-nous Chattez avec un conseiller [Consultez les FAQ](https://www.hellobank.fr/faq/)
+    
 
 * [Devenir client](https://www.hellobank.fr/fr/ouvrir-un-compte/comment-souscrire/)
 *  [![](/content/dam/hellobank/header/new-hnc/icon-lock.svg) Se connecter](https://www.hellobank.fr/fr/client?requiredDAC=3)
 * [Suivre votre dossier](https://www.hellobank.fr/fr/suivi-dossier/)
-
-Posez votre question  Lancer la recherche
-
-Les questions les plus posées :
-
-* [«Quelles sont les conditions pour ouvrir un compte bancaire ? »](https://www.hellobank.fr/faq/quelles-sont-les-conditions-pour-ouvrir-un-compte-bancaire)
-* [« L'ouverture de compte est-elle payante ? »](https://www.hellobank.fr/faq/l-ouverture-de-compte-est-elle-payante)
-* [« Puis-je avoir un compte bancaire chez BNP Paribas et un autre chez Hello bank! ? »](https://www.hellobank.fr/faq/puis-je-avoir-un-compte-bancaire-chez-bnp-paribas-et-un-autre-chez-hello-bank)
-* [« Quand et comment vais-je recevoir ma carte bancaire ? »](https://www.hellobank.fr/faq/quand-et-comment-vais-je-recevoir-ma-carte-bancaire)
-
-Appelez-nous Chattez avec un conseiller [Consultez les FAQ](https://www.hellobank.fr/faq/)
 
 * [Devenir client](https://www.hellobank.fr/fr/ouvrir-un-compte/comment-souscrire/)
 *  [![icone cadnas verrouillé](/content/dam/hellobank/header/new-hnc/icon-lock.svg) Se connecter](https://www.hellobank.fr/fr/client?requiredDAC=3)
