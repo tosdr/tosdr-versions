@@ -1,10 +1,10 @@
 [Skip to content](#main)
 
-Join the AI Skills Survey and share your thoughts [Take the survey](https://www.surveymonkey.com/r/2CHCWFW)
-
-HackerRank Launches Two New Products: SkillUp and Engage [Read now](https://www.hackerrank.com/blog/hackerrank-launches-two-new-products?utm_campaign=product-launch&utm_source=banner&utm_medium=web)
+Attend the AI Skills Tech & Talent Summit at The Plaza, New York City. [Express interest](https://www.hackerrank.com/resources/ai-skills-tech-talent-summit-2024?utm_campaign=nyc-event-2024&utm_source=banner&utm_medium=web)
 
 The 2024 Developer Skills Report is here! [Read now](https://www.hackerrank.com/research/developer-skills/2024?utm_campaign=dev-skills-2024&utm_source=web-promo-popup&utm_medium=web)
+
+Discover the universities with top developer talent. Based on 860,000 student technical assessments. [Download Now](https://www.hackerrank.com/lp/university-tech-talent-infographic?utm_campaign=university-hiring-infographic-2024&utm_source=banner&utm_medium=web)
 
 [](# "Previous Notification")[](# "Next Notification")
 
@@ -95,15 +95,19 @@ The 2024 Developer Skills Report is here! [Read now](https://www.hackerrank.com/
         
     * Product Help
         
-        * [Partners](https://www.hackerrank.com/partners/)
+        * [Responsible AI](https://www.hackerrank.com/about-us/responsible-ai/)
             
-            Learn more about the HackerRank Partner Network.
+            Learn more about how we work with AI.
             
         * [What's New](https://www.hackerrank.com/whats-new/)
             
             Get the latest product news and updates.
             
-        * [Support Center](https://support.hackerrank.com/hc/en-us)
+        * [Partners](https://www.hackerrank.com/partners/)
+            
+            Learn more about the HackerRank Partner Network.
+            
+        * [Support](https://support.hackerrank.com/hc/en-us)
             
             Everything you need to know to get started.
             
@@ -367,17 +371,11 @@ AWS Cookie Notice, available at [https://aws.amazon.com/legal/cookies/](https://
 
 You agree not to take any action that violates or is reasonably likely to cause HackerRank to violate any of the AWS Terms. We reserve the right to monitor your use of the AWS services and to immediately discontinue your use of any AWS services or HackerRank services if we determine or suspect that you have taken any action in violation of your obligations under these Terms with respect to the AWS Terms.
 
-[](#close_get_started_popup "close")
-
-**Stream the HackerRank AI Day Event**
-
-Relive an inspiring event with world-renowned AI experts and thousands of tech and talent leaders.
-
-[Watch now](https://ai-day.hackerrank.com/?utm_campaign=ai-day-invite&utm_source=web-promo-popup&utm_medium=web)
-
 * [Products](https://www.hackerrank.com/products)
     * [Screen](https://www.hackerrank.com/products/screen/)
     * [Interview](https://www.hackerrank.com/products/interview/)
+    * [Engage](https://www.hackerrank.com/products/engage/)
+    * [SkillUp](https://www.hackerrank.com/products/skillup/)
     * [Certified Assessments](https://www.hackerrank.com/features/certified-assessments/)
     * [Plagiarism Detection](https://www.hackerrank.com/features/plagiarism-detection/)
     * [Real World Questions](https://www.hackerrank.com/features/real-world-questions/)
@@ -386,7 +384,6 @@ Relive an inspiring event with world-renowned AI experts and thousands of tech a
     * [Showcase Your Talent Brand](https://www.hackerrank.com/solutions/talent-brand/)
     * [Optimize Your Hiring Process](https://www.hackerrank.com/solutions/optimize-hiring/)
     * [Mobilize Your Internal Talent](https://www.hackerrank.com/solutions/internal-mobility/)
-    * [Embrace AI](https://www.hackerrank.com/products/ai/)
 * [Resources](https://www.hackerrank.com/resources/)
     * [Blog](https://www.hackerrank.com/blog/)
     * [Customer Stories](https://www.hackerrank.com/customers/)
