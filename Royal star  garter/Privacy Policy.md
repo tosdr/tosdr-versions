@@ -1,4 +1,4 @@
-[![](/wp-content/themes/rsagh/built-assets/img/logo_v3.svg)](https://starandgarter.org/)
+[![Royal Star & Garter Homes](/wp-content/themes/rsagh/built-assets/img/logo_v3.svg)](https://starandgarter.org/)
 
 [Veteran Friendly Framework](https://veteranfriendlyframework.org.uk/)[Family Connections](https://family.starandgarter.org/)[Work for us](https://starandgarter.org/work-for-us/)[Media centre](https://starandgarter.org/media-centre/)[Contact us](https://starandgarter.org/contact-us/)
 
@@ -76,7 +76,7 @@ About
 
 [Please Donate](https://starandgarter.org/donate-form/)
 
-[![](/wp-content/themes/rsagh/built-assets/img/logo_v3.svg)](https://starandgarter.org/)
+[![Royal Star & Garter Homes](/wp-content/themes/rsagh/built-assets/img/logo_v3.svg)](https://starandgarter.org/)
 
 Menu Close
 
@@ -173,13 +173,15 @@ Our privacy policy
 
 Last updated: 14 June 2024
 
-#### Summary
+Summary
+-------
 
 This privacy policy describes what information we gather about you, what we use that information for and who we give that information to. It explains why and how we collect and use the information. This privacy policy also sets out your rights in relation to your information and who you can contact for more information or queries.
 
 If you have any requests concerning your personal information or any queries with regard to our processing, please contact our Data Protection Officer at [charitysecretary@starandgarter.org](mailto:charitysecretary@starandgarter.org). You may also contact us by writing to The Data Protection Officer, Royal Star & Garter, 15 Castle Mews, Hampton TW12 2NP.
 
-#### Contents
+Contents
+--------
 
 This privacy policy consists of the sections set out below. Please click on the section below for ease of navigation.
 
@@ -201,11 +203,13 @@ This privacy policy consists of the sections set out below. Please click on the 
 * [Cookies](#cookies)
 * [How long we keep your information for](#retention-of-personal-information)
 
-#### Information about us
+Information about us
+--------------------
 
 In this privacy policy, references to ‘we’, ‘us’, ‘our’ are references to Royal Star & Garter. We are a registered charity (registration number 210119). We and the Governors of Royal Star & Garter are the “controller” for the purposes of the UK General Data Protection Regulation (“GDPR”). Our ICO registration number is Z5712729.
 
-#### Collection of information about you
+Collection of information about you
+-----------------------------------
 
 Depending on how you interact with us, we will need different information about you.
 
@@ -219,19 +223,22 @@ We may collect and process the following data about you:
 * Technical information when you visit our website, including the Internet Protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, geographical location, browser plug-in types and versions, operating system and platform
 * We use Google Analytics and Google Signal to measure how you use our website. Google Analytics sets cookies that store anonymised information about how you got to the site, the pages you visit, how long you spend on each page and what you click on while you’re visiting the site. Google Signals makes use of tools to track users across multiple devices and websites who log into their Google account, and we use it to understand the composition of our audience, marketing and as part of our Google Ads campaign.
 
-#### Children’s data
+Children’s data
+---------------
 
 It is our policy not to request donations or accept orders from children under 18. If we are contacted by anyone under 18, before we collect data from them we will always ask them to obtain the permission of a parent or guardian before we will talk or accept an order.
 
 Where anyone under 18 contacts us about volunteering or work experience in our Homes we will ask them to let an adult know about their application. We will collect information about them only where it is necessary to progress an application to volunteer or work for us and as set out in  “information we collect about you”.
 
-#### Other people’s data
+Other people’s data
+-------------------
 
 Some of the services we offer allow you to provide the personal data of other people. Before providing anyone else’s data please ensure they are happy for you to do so and under no circumstances must you make public another person’s home address, email address or phone number without their permission.
 
 Family Connections: we ask a resident’s authorised person to identify other relatives who might like to access the portal. We ask them to confirm that potential users are happy to provide their contact details. We do not use data collected for Family Connections to be used for any other purpose.
 
-#### What we do with your information
+What we do with your information
+--------------------------------
 
 When you provide personal information to us, we may use it for any of the purposes described in this privacy policy or as stated at the point of collection (or as obvious from the context of collection).
 
@@ -262,7 +269,8 @@ If you are a user of our Telephone Friendship Service, we may use your informati
 
 We will also use your information to process and acknowledge any application that you make to work or volunteer for us or apply to live in one of our Homes.
 
-#### Legal basis for processing your information
+Legal basis for processing your information
+-------------------------------------------
 
 We rely on one or more of the following processing conditions in order to process your personal information:
 
@@ -273,7 +281,8 @@ We rely on one or more of the following processing conditions in order to proces
 
 We hold and use special category data for the provision of health and social care.
 
-#### Sharing your information
+Sharing your information
+------------------------
 
 We may share your personal information with our employees, officers or professional advisers where it is reasonably necessary for the purposes set out in this privacy policy.
 
@@ -299,7 +308,8 @@ We only choose partners we can trust. Unless required by law, we will only pass 
 
 We never sell or share your information to other organisations to use for their own purposes other than as explained above.
 
-#### Building profiles of our supporters
+Building profiles of our supporters
+-----------------------------------
 
 Royal Star & Garter was founded with the help of philanthropy, and philanthropy continues to make an enormous impact on our work. Developing a better understanding of our supporters through their personal data allows us to fundraise more efficiently and make better decisions.
 
@@ -311,7 +321,8 @@ The Charity Commission requires us to know where funds come from and we may use 
 
 If you object to this, please contact us via the means set out below.
 
-#### Gifts in wills
+Gifts in wills
+--------------
 
 If you have told us that you have left a gift in your will, or are thinking about doing so, we will keep details of this. If we have a conversation or interaction with you (or with someone who contacts us in relation to your will, such as your solicitor), we will make a note of these throughout your relationship with us, as this helps to ensure we direct your gift as you wanted.
 
@@ -319,7 +330,8 @@ Where a donor has passed away and we are in the process of receiving their legac
 
 Where we would like to process data that is not for the direct purpose of the legacy administration process, we will seek specific consent from an individual – for example, if we would like to remain in contact with a donor’s relative to update them on how the legacy has been used.
 
-#### International transfers
+International transfers
+-----------------------
 
 Businesses often use third parties to help them host their application, communicate with customers and power their emails. Third party organisations engaged by us to process your personal information for the purposes set out in this privacy policy may be situated outside the United Kingdom and may therefore transfer personal information outside the UK. In order to make these systems and services work we may need to share your data with them. We will have a contract with the third party organisation requiring them to use your information only as instructed by us.
 
@@ -328,7 +340,8 @@ Transfers outside the UK will be only:
 * to a recipient located in a country which provides an adequate level of protection for your personal information; and/or
 * under an agreement or mechanism which satisfies UK requirements for the transfer of personal data to data processors or data controllers outside the UK, such as standard contractual clauses approved by the European Commission or the US Privacy Shield Framework.
 
-#### Direct marketing
+Direct marketing
+----------------
 
 We conduct marketing via post, email, telephone, SMS (text).
 
@@ -348,7 +361,8 @@ If you want to unsubscribe or change the way we communicate with you, you can do
 * visiting [www.starandgarter.org/intouch](https://starandgarter.org/intouch/); or
 * calling our Supporter Care team on weekdays between 8.30am-4.30pm on 020 8481 7676.
 
-#### Recruitment and employment
+Recruitment and employment
+--------------------------
 
 If you work for us, or apply for a job with us, we will process your personal data, including sensitive personal data, to comply with our contractual, statutory and management obligations and responsibilities.
 
@@ -362,13 +376,15 @@ Our management responsibilities are those necessary for the way the organisati
 
 More information is available in our Staff Privacy Policy.
 
-#### CCTV
+CCTV
+----
 
 Our properties have Closed Circuit Television (CCTV) and you may be recorded when you visit them.
 
 CCTV is used to provide security and protect our residents, staff and visitors. CCTV will only be viewed when necessary (for example, to detect or prevent crime or to trace a missing resident) and footage is stored for a set period of time, after which it is recorded over. We comply with the Information Commissioner’s Office CCTV Code of Practice and we put up notices so you know when CCTV is used.
 
-#### Security of your personal information
+Security of your personal information
+-------------------------------------
 
 We take all reasonable precautions to safeguard the confidentiality of personal information. We have implemented generally accepted standards of technology and operational security in order to protect personal information from loss, misuse, alteration or destruction.
 
@@ -380,21 +396,25 @@ Although we use appropriate security measures once we have received your persona
 
 Where you or we have provided a password enabling you to access parts of our websites or use our services, it is your responsibility to keep this password confidential. Please do not share your password with anyone.
 
-#### Payment card security
+Payment card security
+---------------------
 
 Where you give us money using a bank payment card, we use an active PCI-DSS (Payment Card Industry Data Security Standard) compliance programme. This is the stringent international standard for safe card payment processes. As part of our compliance, we ensure that our IT systems do not directly collect or store your payment card information, such as the full 16-digit number on the front of the card or the security code on the back.
 
 Where we collect your payment information from a form you have completed and posted to us, or where you make a payment over the telephone, we destroy any written records the same day.
 
-#### Cookies
+Cookies
+-------
 
 Our website uses cookies so that we can track how users navigate through our website, in order to enable us to evaluate and improve our website. For detailed information on the cookies we use and the purposes for which we use them please read our [cookies policy](https://starandgarter.org/cookies-policy/).
 
-#### How long we keep your personal information for
+How long we keep your personal information for
+----------------------------------------------
 
 We will keep your personal information only for as long it is required for the purposes for which it was collected, or as required to do so by law. When we no longer need information, we will dispose of it securely, using specialist companies if necessary to do this work for us.
 
-#### Your rights
+Your rights
+-----------
 
 You have certain rights in relation to the personal information we hold about you. In particular, you have a right to:
 
@@ -419,7 +439,8 @@ We are not a ‘public authority’ as defined under the Freedom of Information 
 
 For more information about your rights under the GDPR, please visit the website of the Information Commissioner’s Office at [https://ico.org.uk/](https://ico.org.uk/)
 
-#### Contact us
+Contact us
+----------
 
 If you have any questions or complaints about this privacy policy or the way your personal information is processed by us, or would like to exercise one of your rights set out above, please contact us by one of the following means:
 
@@ -433,11 +454,11 @@ Get highlights of the most important news delivered to your email inbox
 
  Sign Up
 
-[![The National Care Forum Logo](/wp-content/themes/rsagh/built-assets/img/logos/ncf.svg)](http://www.nationalcareforum.org.uk/)
+[![The National Care Forum](/wp-content/themes/rsagh/built-assets/img/logos/ncf.svg)](http://www.nationalcareforum.org.uk/)
 
-[![Armed Forces Covenant Logo](/wp-content/themes/rsagh/built-assets/img/logos/afc.png)](https://www.armedforcescovenant.gov.uk/)
+[![Armed Forces Covenant](/wp-content/themes/rsagh/built-assets/img/logos/afc.png)](https://www.armedforcescovenant.gov.uk/)
 
-[![The Cofederation of Service Charities Logo](/wp-content/themes/rsagh/built-assets/img/logos/cobseo.png)](https://www.cobseo.org.uk/)
+[![The Cofederation of Service Charities](/wp-content/themes/rsagh/built-assets/img/logos/cobseo.png)](https://www.cobseo.org.uk/)
 
 [![Registered with Fundraising Regulator](/wp-content/themes/rsagh/built-assets/img/logos/fr.png)](https://www.fundraisingregulator.org.uk/)
 
@@ -469,6 +490,18 @@ Always Enabled
 
 Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.
 
+Performance
+
+ performance
+
+Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+
+Others
+
+ others
+
+Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+
 Functional
 
  functional
@@ -486,17 +519,5 @@ Analytics
  analytics
 
 Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
-
-Performance
-
- performance
-
-Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
-
-Others
-
- others
-
-Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
 
 Save & Accept
