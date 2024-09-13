@@ -229,21 +229,4 @@ Email
 
 Copyright © 2024 SONOFF All Rights Reserved. 备案号：[粤ICP备20054679号](https://beian.miit.gov.cn/)  
 
-* [](# "Arabic")
-* [](# "Croatian")
-* [](# "Czech")
-* [](# "Dutch")
-* [](# "English")
-* [](# "Filipino")
-* [](# "French")
-* [](# "German")
-* [](# "Hungarian")
-* [](# "Italian")
-* [](# "Polish")
-* [](# "Portuguese")
-* [](# "Romanian")
-* [](# "Russian")
-* [](# "Spanish")
-* [](# "Swedish")
-
 ### Pin It on Pinterest
