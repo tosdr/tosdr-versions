@@ -104,7 +104,7 @@ About
 * [Press Room](https://www.rakuten.com/press)
 * [Careers](https://www.rakuten.com/careers)
 * [Blog](https://www.rakuten.com/blog)
-* [Site Map](https://www.rakuten.com/site_map)
+* [Site Map](https://www.rakuten.com/sitemap)
 * [Terms & Conditions](https://www.rakuten.com/help/article/terms-conditions)
 * [Privacy Policy](https://www.rakuten.com/help/article/privacy-policy)
 * [Do Not Sell or Share My Personal Information / Personal Data Opt-out](https://www.rakuten.com/anon-privacy-preferences.htm)
