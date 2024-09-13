@@ -7,7 +7,6 @@
     * Latest
         * [News](https://www.goal.com/en/news)
         * [Transfers](https://www.goal.com/en/category/transfers/1/k94w8e1yy9ch14mllpf4srnks)
-        * [Tables](https://www.goal.com/en/tables)
     * Features
         * [Opinion](https://www.goal.com/en/category/opinion/1/bltda2eefda7fac61db)
         * [Analysis](https://www.goal.com/en/category/analysis/1/blt0e4843c7e245b533)
