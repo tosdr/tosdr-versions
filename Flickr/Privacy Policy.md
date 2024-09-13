@@ -38,7 +38,7 @@
 
 * [Get Pro](https://www.flickr.com/account/upgrade/pro?utm_campaign=web&utm_source=desktop&utm_medium=gn&utm_content=Get%20Pro)
 
-[About](https://www.flickr.com/about) [Jobs](https://www.flickr.com/jobs) [Blog](https://blog.flickr.net/en) [Advertise](https://www.flickrads.com/?utm_source=flickr&utm_campaign=footer) [Developers](https://www.flickr.com/services/developer) [Guidelines](https://www.flickr.com/help/guidelines) [Help](https://flickrhelp.com/) [Help forum](https://www.flickr.com/help/forum) [Privacy](https://www.flickr.com/help/privacy) [Terms](https://www.flickr.com/help/terms) [Cookies](https://www.flickr.com/help/cookies)
+[About](https://www.flickr.com/about) [Jobs](https://www.flickr.com/jobs) [Blog](https://blog.flickr.net/en) [Advertise](https://www.flickrads.com/?utm_source=flickr&utm_campaign=footer) [Developers](https://www.flickr.com/services/developer) [Guidelines](https://www.flickr.com/help/guidelines) [Help](https://flickrhelp.com/) [Privacy](https://www.flickr.com/help/privacy) [Terms](https://www.flickr.com/help/terms) [Cookies](https://www.flickr.com/help/cookies)
 
 [English](https://www.flickr.com/change_language.gne?lang=en-US&csrf=)
 
@@ -375,12 +375,11 @@ Sutton, England, SM1 1JB
 * [Terms](https://www.flickr.com/help/terms)
 * [Help](https://flickrhelp.com/)
 * [Report abuse](https://www.flickr.com/abuse)
-* [Help forum](https://www.flickr.com/help/forum)
 * [English](https://www.flickr.com/change_language.gne?lang=en-US&csrf=)
 * [](https://www.awesome.co/)
     
 * * [](https://www.facebook.com/flickr)
-    * [](https://twitter.com/flickr)
+    * [](https://www.youtube.com/user/smugmug)
     * [](https://www.instagram.com/flickr/)
     
 
@@ -391,7 +390,7 @@ Sutton, England, SM1 1JB
 [](https://www.awesome.co/)Connecting people through photography.[](https://www.greatplacetowork.com/certified-company/7051750)[](https://www.climateneutral.org/brand/flickr)[](https://www.conservationalliance.com/)[](https://www.tugboatinstitute.com/certified-evergreen/)
 
 * [](https://www.facebook.com/flickr)
-* [](https://twitter.com/flickr)
+* [](https://www.youtube.com/user/smugmug)
 * [](https://www.instagram.com/flickr/)
 
 * [About](https://www.flickr.com/about)
@@ -403,7 +402,6 @@ Sutton, England, SM1 1JB
 * [Report abuse](https://www.flickr.com/abuse)
 * [Privacy](https://www.flickr.com/help/privacy)
 * [Terms](https://www.flickr.com/help/terms)
-* [Help forum](https://www.flickr.com/help/forum)
 * [English](https://www.flickr.com/change_language.gne?lang=en-US&csrf=)
 
 * [Privacy](https://www.flickr.com/help/privacy)
@@ -416,5 +414,5 @@ Sutton, England, SM1 1JB
 [](https://www.greatplacetowork.com/certified-company/7051750)[](https://www.climateneutral.org/brand/flickr)[](https://www.conservationalliance.com/)[](https://www.tugboatinstitute.com/certified-evergreen/)
 
 * [](https://www.facebook.com/flickr)
-* [](https://twitter.com/flickr)
+* [](https://www.youtube.com/user/smugmug)
 * [](https://www.instagram.com/flickr/)
