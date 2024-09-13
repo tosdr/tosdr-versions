@@ -4,10 +4,14 @@ Search  Submit your search query
 
 [Forum](https://forum.freecodecamp.org/) [Donate](https://www.freecodecamp.org/donate/)
 
-May 25, 2018 / [#freeCodeCamp](https://terms-of-service.freecodecamp.org/news/tag/freecodecamp/)
+May 25, 2018 / [#freeCodeCamp.org](https://terms-of-service.freecodecamp.org/news/tag/freecodecamp/)
 
 freeCodeCamp's Terms of Service
 ===============================
+
+![freeCodeCamp](https://cdn.hashnode.com/res/hashnode/image/upload/v1712072540742/C7c8AOPN6.png)
+
+[freeCodeCamp](https://terms-of-service.freecodecamp.org/news/author/freeCodeCamp/)
 
   ![freeCodeCamp's Terms of Service](https://cdn-media-2.freecodecamp.org/w1280/5f9cad5c740569d1a4ca9ee5.jpg)
 
@@ -200,9 +204,19 @@ ADVERTISEMENT
 
 ADVERTISEMENT
 
+ADVERTISEMENT
+
 * * *
 
-If this article was helpful, share it.
+![freeCodeCamp](https://cdn.hashnode.com/res/hashnode/image/upload/v1712072540742/C7c8AOPN6.png)
+
+[freeCodeCamp](https://terms-of-service.freecodecamp.org/news/author/freeCodeCamp/)
+
+Learn to code. Build projects. Earn certifications—All for free.
+
+* * *
+
+If you read this far, thank the author to show them you care. Say Thanks
 
 Learn to code for free. freeCodeCamp's open source curriculum has helped more than 40,000 people get jobs as developers. [Get started](https://www.freecodecamp.org/learn/)
 
