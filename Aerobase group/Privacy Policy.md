@@ -200,6 +200,11 @@ This document was last updated on January 1, 2014
 
 #### Defense News
 
+* [Italian Air Force’s famed acrobatic squad changes course on new planes](https://www.defensenews.com/global/europe/2024/09/13/italian-air-forces-famed-acrobatic-squad-changes-course-on-new-planes/)  
+    09/13/24 05:07am  
+    
+    The Frecce Tricolori (Tricolor Arrows) perform during the opening ceremony of the 2023 Ryder Cup at Marco Simone Golf Club in Rome on Sept. 28, 2023. (Jamie Squire/Getty Images)
+    
 * [Small fleet, fewer flights weaken Army aircraft training, report says](https://www.defensenews.com/news/your-army/2024/09/09/report-shows-a-smaller-us-army-aircraft-fleet-with-fewer-flying-hours/)  
     09/09/24 07:45am  
     
@@ -215,21 +220,8 @@ This document was last updated on January 1, 2014
     
     The 'niche capabilities' smaller firms specialize in will be important parts of a revamped design for the NGAD future fighter system, Air Force officials said. (File)
     
-* [Air Force going ‘line by line’ to bring down nuclear missile costs](https://www.defensenews.com/air/2024/09/04/air-force-going-line-by-line-to-bring-down-nuclear-missile-costs/)  
-    09/04/24 04:56pm  
-    
-    The Air Force "neglected" the complexity of the LGM-35A Sentinel's ground infrastructure, officials said, and is now looking to bring down costs. (Northrop Grumman)
-    
 
 Recent parts by keyword  
-
-* [mcgill](https://aerobasegroup.com/search/?term=mcgill)
-* [5617760-](https://aerobasegroup.com/search/?term=5617760-)
-* [mms159c0ndt7351](https://aerobasegroup.com/search/?term=mms159c0ndt7351)
-* [MMS-159](https://aerobasegroup.com/search/?term=MMS-159)
-* [92150a125](https://aerobasegroup.com/search/?term=92150a125)
-* [zplm0812](https://aerobasegroup.com/search/?term=zplm0812)
-* [fluke 77](https://aerobasegroup.com/search/?term=fluke+77)
 
 The AeroBase Group Family ..
 
