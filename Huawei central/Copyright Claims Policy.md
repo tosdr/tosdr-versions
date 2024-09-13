@@ -65,6 +65,12 @@ Huawei Central
     
 * [Wearables](https://www.huaweicentral.com/category/wearables/)
     
+    * [![Huawei wearables this month](https://www.huaweicentral.com/wp-content/uploads/2024/09/Huawei-products-400x240.jpg)
+        
+        Huawei might unveil 6 more products including wearables this month](https://www.huaweicentral.com/huawei-might-unveil-6-more-products-including-wearables-this-month/)
+    * [![Huawei Watch GT 5 first look](https://www.huaweicentral.com/wp-content/uploads/2024/09/Watch-GT-5-image-400x240.jpg)
+        
+        This could be our first look at Huawei Watch GT 5](https://www.huaweicentral.com/this-could-be-our-first-look-at-huawei-watch-gt-5/)
     * [![Huawei Watch Fit 3 September 2024 update](https://www.huaweicentral.com/wp-content/uploads/2024/09/Watch-Fit-3-400x240.jpg)
         
         Huawei Watch Fit 3 gets September 2024 improvements update](https://www.huaweicentral.com/huawei-watch-fit-3-gets-september-2024-improvements-update/)
@@ -74,12 +80,6 @@ Huawei Central
     * [![Huawei Watch D2 design](https://www.huaweicentral.com/wp-content/uploads/2024/09/Watch-D2-400x240.jpg)
         
         Huawei is launching Watch D2 with a stylish design](https://www.huaweicentral.com/huawei-is-launching-watch-d2-with-a-stylish-design/)
-    * [![Huawei Watch 4 Pro August 2024 update](https://www.huaweicentral.com/wp-content/uploads/2024/09/Watch-4-Pro-400x240.jpg)
-        
-        Huawei Watch 4 Pro series gets new update with August 2024 security patch](https://www.huaweicentral.com/huawei-watch-4-pro-series-gets-new-update-with-august-2024-security-patch/)
-    * [![Huawei Watch GT 5 Release](https://www.huaweicentral.com/wp-content/uploads/2024/09/Watch-GT-5-400x240.jpg)
-        
-        Huawei Watch GT 5 Release Date and Features](https://www.huaweicentral.com/huawei-watch-gt-5-release-date-and-features/)
     
 * [Contact Us](https://www.huaweicentral.com/contact/)
 
