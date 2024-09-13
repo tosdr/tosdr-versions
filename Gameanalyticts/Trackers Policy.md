@@ -12,17 +12,16 @@ This Application uses Trackers managed directly by the Owner (so-called “first
 The validity and expiration periods of Cookies and other similar Trackers may vary depending on the lifetime set by the Owner or the relevant provider. Some of them expire upon termination of the User’s browsing session.  
 In addition to what’s specified in the descriptions within each of the categories below, Users may find more precise and updated information regarding lifetime specification as well as any other relevant information — such as the presence of other Trackers — in the linked privacy policies of the respective third-party providers or by contacting the Owner.
 
-### Activities strictly necessary for the operation of this Application and delivery of the Service
+How this Application uses Trackers
+----------------------------------
+
+### Necessary
 
 This Application uses so-called “technical” Cookies and other similar Trackers to carry out activities that are strictly necessary for the operation or delivery of the Service.
 
-#### Third-party Trackers
+#### Trackers managed by third parties
 
-* ### Spam and bots protection
-    
-    This type of service analyzes the traffic of this Application, potentially containing Users' Personal Data, with the purpose of filtering it from unwanted parts of traffic, messages and content that are recognized as spam or protecting it from malicious bots activities.
-    
-    #### Cloudflare Bot Management (Cloudflare, Inc.)
+* ### Cloudflare Bot Management (Cloudflare, Inc.)
     
     Cloudflare Bot Management is a malicious bot protection and management service provided by Cloudflare, Inc.
     
@@ -38,7 +37,7 @@ This Application uses so-called “technical” Cookies and other similar Tracke
     * cf\_use\_ob: 3 seconds
     * cfmrk\_cic: 3 months
     
-    #### Google reCAPTCHA (Google Ireland Limited)
+* ### Google reCAPTCHA (Google Ireland Limited)
     
     Google reCAPTCHA is a SPAM protection service provided by Google Ireland Limited.  
     The use of reCAPTCHA is subject to the Google [privacy policy](https://www.google.com/policies/privacy/) and [terms of use](https://www.google.com/intl/en/policies/terms/).
@@ -56,12 +55,7 @@ This Application uses so-called “technical” Cookies and other similar Tracke
     * rc::b: duration of the session
     * rc::c: duration of the session
     
-* ### Tag Management
-    
-    This type of service helps the Owner to manage the tags or scripts needed on this Application in a centralized fashion.  
-    This results in the Users' Data flowing through these services, potentially resulting in the retention of this Data.
-    
-    #### Google Tag Manager (Google Ireland Limited)
+* ### Google Tag Manager (Google Ireland Limited)
     
     Google Tag Manager is a tag management service provided by Google Ireland Limited.
     
@@ -70,18 +64,13 @@ This Application uses so-called “technical” Cookies and other similar Tracke
     Place of processing: Ireland – [Privacy Policy](https://policies.google.com/privacy).
     
 
-### Other activities involving the use of Trackers
-
-#### Functionality
+### Functionality
 
 This Application uses Trackers to enable basic interactions and functionalities, allowing Users to access selected features of the Service and facilitating the User's communication with the Owner.
 
-* ### Handling activities related to productivity
-    
-    This type of service helps the Owner to manage tasks, collaboration and, in general, activities related to productivity. In using this type of service, Data of Users will be processed and may be retained, depending on the purpose of the activity in question.  
-    These services may be integrated with a wide range of third-party services disclosed within this privacy policy to enable the Owner to import or export Data needed for the relative activity.
-    
-    #### Workable (Workable Software Limited)
+#### Trackers managed by third parties
+
+* ### Workable (Workable Software Limited)
     
     Workable is a service that supports the Owner in managing HR processes, provided by Workable Software Limited. In particular, it allows the Owner to communicate with candidates and keep track of the recruiting process.
     
@@ -89,27 +78,18 @@ This Application uses Trackers to enable basic interactions and functionalities,
     
     Place of processing: United Kingdom – [Privacy Policy](https://www.workable.com/privacy).
     
-* ### Registration and authentication
-    
-    By registering or authenticating, Users allow this Application to identify them and give them access to dedicated services.  
-    Depending on what is described below, third parties may provide registration and authentication services. In this case, this Application will be able to access some Data, stored by these third-party services, for registration or identification purposes.  
-    Some of the services listed below may also collect Personal Data for targeting and profiling purposes; to find out more, please refer to the description of each service.
-    
-    #### GameAnalytics.com
+* ### GameAnalytics.com
     
     GameAnalytics cookies are used to identify and verify users, allowing them access without repeated log-in. These cookies store unique identifiers and tokens that authenticate a user’s session.
     
 
-#### Experience
+### Experience
 
 This Application uses Trackers to improve the quality of the user experience and enable interactions with external content, networks and platforms.
 
-* ### Displaying content from external platforms
-    
-    This type of service allows you to view content hosted on external platforms directly from the pages of this Application and interact with them. Such services are often referred to as widgets, which are small elements placed on a website or app. They provide specific information or perform a particular function and often allow for user interaction.  
-    This type of service might still collect web traffic data for the pages where the service is installed, even when Users do not use it.
-    
-    #### Vimeo video (Vimeo, LLC)
+#### Trackers managed by third parties
+
+* ### Vimeo video (Vimeo, LLC)
     
     Vimeo is a video content visualization service provided by Vimeo, LLC that allows this Application to incorporate content of this kind on its pages.
     
@@ -122,7 +102,7 @@ This Application uses Trackers to improve the quality of the user experience and
     * player: 1 year
     * vuid: 2 years
     
-    #### YouTube video widget (Google Ireland Limited)
+* ### YouTube video widget (Google Ireland Limited)
     
     YouTube is a video content visualization service provided by Google Ireland Limited that allows this Application to incorporate content of this kind on its pages.
     
@@ -136,7 +116,7 @@ This Application uses Trackers to improve the quality of the user experience and
     * VISITOR\_INFO1\_LIVE: 8 months
     * YSC: duration of the session
     
-    #### YouTube video widget (Privacy Enhanced Mode) (Google Ireland Limited)
+* ### YouTube video widget (Privacy Enhanced Mode) (Google Ireland Limited)
     
     YouTube is a video content visualization service provided by Google Ireland Limited that allows this Application to incorporate content of this kind on its pages.  
     This widget is set up in a way that ensures that YouTube won't store information and cookies about Users on this Application unless they play the video.
@@ -146,15 +126,13 @@ This Application uses Trackers to improve the quality of the user experience and
     Place of processing: Ireland – [Privacy Policy](https://policies.google.com/privacy).
     
 
-#### Measurement
+### Measurement
 
 This Application uses Trackers to measure traffic and analyse User behaviour to improve the Service.
 
-* ### Analytics
-    
-    The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior.
-    
-    #### Google Analytics 4 (Google Ireland Limited)
+#### Trackers managed by third parties
+
+* ### Google Analytics 4 (Google Ireland Limited)
     
     Google Analytics 4 is a web analysis service provided by Google Ireland Limited (“Google”). Google utilizes the Data collected to track and examine the use of this Application, to prepare reports on its activities and share them with other Google services.  
     Google may use the Data collected to contextualize and personalize the ads of its own advertising network.  
@@ -171,7 +149,7 @@ This Application uses Trackers to measure traffic and analyse User behaviour to 
     * \_ga: 2 years
     * \_ga\_\*: 2 years
     
-    #### Meta Events Manager (Meta Platforms Ireland Limited)
+* ### Meta Events Manager (Meta Platforms Ireland Limited)
     
     Meta Events Manager is an analytics service provided by Meta Platforms Ireland Limited. By integrating the Meta pixel, Meta Events Manager can give the Owner insights into the traffic and interactions on this Application.
     
@@ -184,18 +162,13 @@ This Application uses Trackers to measure traffic and analyse User behaviour to 
     * \_fbp: 3 months
     
 
-#### Marketing
+### Marketing
 
-This Application uses Trackers to deliver personalised marketing content based on User behaviour and to operate, serve and track ads.
+This Application uses Trackers to deliver personalized ads or marketing content, and to measure their performance.
 
-* ### Advertising
-    
-    This type of service allows User Data to be utilized for advertising communication purposes. These communications are displayed in the form of banners and other advertisements on this Application, possibly based on User interests.  
-    This does not mean that all Personal Data are used for this purpose. Information and conditions of use are shown below.  
-    Some of the services listed below may use Trackers for identifying Users, behavioral retargeting i.e. displaying ads tailored to the User’s interests and behavior, or to measure ads performance. For more information, please check the privacy policies of the relevant services.  
-    Services of this kind usually offer the possibility to opt out of such tracking. In addition to any opt-out feature offered by any of the services below, Users may learn more on how to generally opt out of interest-based advertising within the dedicated section "How to opt-out of interest-based advertising" in this document.
-    
-    #### LinkedIn Ads (LinkedIn Ireland Unlimited Company)
+#### Trackers managed by third parties
+
+* ### LinkedIn Ads (LinkedIn Ireland Unlimited Company)
     
     LinkedIn Ads is an advertising service provided by LinkedIn Ireland Unlimited Company.
     
@@ -219,7 +192,7 @@ This Application uses Trackers to deliver personalised marketing content based o
     * oribi\_session: 2 hours
     * oribi\_user\_guid: 7 months
     
-    #### Meta ads conversion tracking (Meta pixel) (Meta Platforms Ireland Limited)
+* ### Meta ads conversion tracking (Meta pixel) (Meta Platforms Ireland Limited)
     
     Meta ads conversion tracking (Meta pixel) is an analytics service provided by Meta Platforms Ireland Limited that connects data from the Meta Audience Network with actions performed on this Application. The Meta pixel tracks conversions that can be attributed to ads on Facebook, Instagram and Meta Audience Network.
     
@@ -232,7 +205,7 @@ This Application uses Trackers to deliver personalised marketing content based o
     * \_fbp: 3 months
     * fr: 3 months
     
-    #### Google Ad Manager (Google Ireland Limited)
+* ### Google Ad Manager (Google Ireland Limited)
     
     Google Ad Manager is an advertising service provided by Google Ireland Limited that allows the Owner to run advertising campaigns in conjunction with external advertising networks that the Owner, unless otherwise specified in this document, has no direct relationship with.  
     In order to understand Google's use of Data, consult [Google's partner policy](https://policies.google.com/technologies/partner-sites).  
@@ -256,11 +229,15 @@ This Application uses Trackers to deliver personalised marketing content based o
     * FPGCLAW: 3 months
     * FPGCLDC: 3 months
     * FPGCLGB: 3 months
+    * GCL\_AW\_P: 3 months
+    * GED\_PLAYLIST\_ACTIVITY: duration of the session
     * IDE: 2 years
     * NID: 6 months
     * RUL: 1 year
     * TAID: 14 days
     * \_\_gads: 2 years
+    * \_\_gpi: 2 years
+    * \_\_gpi\_optout: 2 years
     * \_\_gsas: 2 years
     * \_gac\_: 3 months
     * \_gac\_gb\_: 3 months
@@ -273,9 +250,10 @@ This Application uses Trackers to deliver personalised marketing content based o
     * \_gcl\_gs: 3 months
     * \_gcl\_ha: 3 months
     * id: 2 years
+    * receive-cookie-deprecation: 6 months
     * test\_cookie: 15 minutes
     
-    #### Google AdSense (Google Ireland Limited)
+* ### Google AdSense (Google Ireland Limited)
     
     Google AdSense is an advertising service provided by Google Ireland Limited. This service uses the “DoubleClick” Cookie, which tracks use of this Application and User behavior concerning ads, products and services offered.  
     Users may decide to disable all the DoubleClick Cookies by going to: [Google Ad Settings](https://adssettings.google.com/authenticated?hl=en).
@@ -298,11 +276,15 @@ This Application uses Trackers to deliver personalised marketing content based o
     * FPGCLAW: 3 months
     * FPGCLDC: 3 months
     * FPGCLGB: 3 months
+    * GCL\_AW\_P: 3 months
+    * GED\_PLAYLIST\_ACTIVITY: duration of the session
     * IDE: 2 years
     * NID: 6 months
     * RUL: 1 year
     * TAID: 14 days
     * \_\_gads: 2 years
+    * \_\_gpi: 2 years
+    * \_\_gpi\_optout: 2 years
     * \_\_gsas: 2 years
     * \_gac\_: 3 months
     * \_gac\_gb\_: 3 months
@@ -315,16 +297,10 @@ This Application uses Trackers to deliver personalised marketing content based o
     * \_gcl\_gs: 3 months
     * \_gcl\_ha: 3 months
     * id: 2 years
+    * receive-cookie-deprecation: 6 months
     * test\_cookie: 15 minutes
     
-* ### Remarketing and behavioral targeting
-    
-    This type of service allows this Application and its partners to inform, optimize and serve advertising based on past use of this Application by the User.  
-    This activity is facilitated by tracking Usage Data and by using Trackers to collect information which is then transferred to the partners that manage the remarketing and behavioral targeting activity.  
-    Some services offer a remarketing option based on email address lists.  
-    Services of this kind usually offer the possibility to opt out of such tracking. In addition to any opt-out feature offered by any of the services below, Users may learn more on how to generally opt out of interest-based advertising within the dedicated section "How to opt-out of interest-based advertising" in this document.
-    
-    #### LinkedIn Website Retargeting (LinkedIn Corporation)
+* ### LinkedIn Website Retargeting (LinkedIn Corporation)
     
     LinkedIn Website Retargeting is a remarketing and behavioral targeting service provided by LinkedIn Corporation that connects the activity of this Application with the LinkedIn advertising network.
     
@@ -345,12 +321,7 @@ This Application uses Trackers to deliver personalised marketing content based o
     * lms\_ads: 1 month
     * lms\_analytics: 1 month
     
-* ### User database management
-    
-    This type of service allows the Owner to build user profiles by starting from an email address, a personal name, or other information that the User provides to this Application, as well as to track User activities through analytics features. This Personal Data may also be matched with publicly available information about the User (such as social networks' profiles) and used to build private profiles that the Owner can display and use for improving this Application.  
-    Some of these services may also enable the sending of timed messages to the User, such as emails based on specific actions performed on this Application.
-    
-    #### HubSpot CRM (HubSpot, Inc.)
+* ### HubSpot CRM (HubSpot, Inc.)
     
     HubSpot CRM is a User database management service provided by HubSpot, Inc.
     
@@ -372,7 +343,7 @@ This Application uses Trackers to deliver personalised marketing content based o
 
 Users can set or update their preferences via the relevant privacy choices panel available on this Application.
 
-With regard to any third-party Trackers, Users can manage their preferences and withdraw their consent (TO BE REMOVED) via the related opt-out link (where provided), by using the means indicated in the third party's privacy policy, or by contacting the third party.
+With regard to any third-party Trackers, Users can manage their preferences via the related opt-out link (where provided), by using the means indicated in the third party's privacy policy, or by contacting the third party.
 
 #### How to control or delete Cookies and similar technologies via your device settings
 
