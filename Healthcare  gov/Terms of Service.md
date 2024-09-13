@@ -169,44 +169,38 @@ Connect with us
 * [Find Local Help](https://localhelp.healthcare.gov/)
 * [Visit the HealthCare.gov blog](https://www.healthcare.gov/blog/)
 
-[This link goes to an external site](https://www.facebook.com/Healthcare.gov/)
+[This link goes to an external site](https://www.facebook.com/Healthcare.gov)
 
 You are leaving HealthCare.gov.
-===============================
-
-Close
+-------------------------------
 
 You're about to connect to a third-party site. Select CONTINUE to proceed or CANCEL to stay on this site.
 
 [Learn more about links to third-party sites](https://www.healthcare.gov/using-this-site).
 
-[Continue](https://www.facebook.com/Healthcare.gov/)Cancel
+[Continue](https://www.facebook.com/Healthcare.gov)Cancel
 
-[This link goes to an external site](https://twitter.com/HealthCareGov/)
+[This link goes to an external site](https://twitter.com/HealthCareGov)
 
 You are leaving HealthCare.gov.
-===============================
-
-Close
+-------------------------------
 
 You're about to connect to a third-party site. Select CONTINUE to proceed or CANCEL to stay on this site.
 
 [Learn more about links to third-party sites](https://www.healthcare.gov/using-this-site).
 
-[Continue](https://twitter.com/HealthCareGov/)Cancel
+[Continue](https://twitter.com/HealthCareGov)Cancel
 
-[This link goes to an external site](https://www.youtube.com/HealthCareGov/)
+[This link goes to an external site](https://www.youtube.com/HealthCareGov)
 
 You are leaving HealthCare.gov.
-===============================
-
-Close
+-------------------------------
 
 You're about to connect to a third-party site. Select CONTINUE to proceed or CANCEL to stay on this site.
 
 [Learn more about links to third-party sites](https://www.healthcare.gov/using-this-site).
 
-[Continue](https://www.youtube.com/HealthCareGov/)Cancel
+[Continue](https://www.youtube.com/HealthCareGov)Cancel
 
 * [Contact us](https://www.healthcare.gov/contact-us)
 * [Archive](https://www.healthcare.gov/archive)
@@ -214,9 +208,7 @@ You're about to connect to a third-party site. Select CONTINUE to proceed or CAN
 * Privacy settings
     
     HealthCare.gov privacy settings
-    ===============================
-    
-    Close
+    -------------------------------
     
     We take your privacy seriously. You can change the settings for each category to choose how we collect and use information while you’re on HealthCare.gov. For details, [review our full privacy policy](https://www.healthcare.gov/privacy/) or [get the list of specific tools in each category](https://www.healthcare.gov/third-party-privacy-policies/).
     
