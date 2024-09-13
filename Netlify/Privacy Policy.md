@@ -76,15 +76,16 @@ Toggle main menu
     
     ### Project Kickstarts
     
+    * [Astro](https://docs.netlify.com/frameworks/astro/)
     * [Next.js](https://www.netlify.com/with/nextjs/)
-    * [Jamstack](https://www.netlify.com/jamstack/)
+    * [Nuxt](https://www.netlify.com/with/nuxt/)
+    * [Gatsby](https://www.netlify.com/with/gatsby/)
+    * [WordPress](https://www.netlify.com/with/wordpress/)
     * [React](https://www.netlify.com/with/react/)
     * [Vue](https://www.netlify.com/with/vue/)
     * [Svelte](https://www.netlify.com/with/svelte/)
-    * [Gatsby](https://www.netlify.com/with/gatsby/)
-    * [WordPress](https://www.netlify.com/with/wordpress/)
-    * [Nuxt](https://www.netlify.com/with/nuxt/)
     * [Sitecore](https://www.netlify.com/with/sitecore/)
+    * [Jamstack](https://www.netlify.com/jamstack/)
     * [\+ More](https://www.netlify.com/integrations/frameworks/)
     
 * [Docs](https://docs.netlify.com/)
