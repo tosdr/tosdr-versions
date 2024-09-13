@@ -5,7 +5,7 @@ Privacy Policy
 ==============
 
 Released: Jan 5, 2019  
-Last Update: Feb 27, 2023
+Last Update: Feb 27, 2024
 
 ### Who is collecting the data?
 
@@ -55,6 +55,6 @@ Please also visit our Terms and Conditions section establishing the use, disclai
 
 By using our site, you consent to our online privacy policy.
 
-GameMonetize.com - GMO Holding Ltd. - All Rights Reserved © 2023
+GameMonetize.com - GMO Holding Ltd. - All Rights Reserved © 2024
 
-Copyright © 2023
+Copyright © 2024
