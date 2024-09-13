@@ -223,7 +223,7 @@ Company
 
 Recent Posts
 
-[Is Japanese really that hard?](https://ai.glossika.com/blog/is-japanese-really-that-hard "blog") [Opera Singer to Polyglot: "No character opens their mouth to speak unless they want something"](https://ai.glossika.com/blog/opera-singer-to-polyglot-no-character-opens-their-mouth-to-speak-unless-they-want-something "blog") [Language fossilization: What it is and how to overcome it](https://ai.glossika.com/blog/language-fossilization "blog") [Read More →](https://ai.glossika.com/blog "blog")
+[Polyglot Interviews: Insights into Language Learning](https://ai.glossika.com/blog/polyglot-conversations-insights-for-language-learning "blog") [One, two, punch: How a “bad” language learner became a polyglot](https://ai.glossika.com/blog/sebastiao-gomes-story "blog") [Is Japanese really that hard?](https://ai.glossika.com/blog/is-japanese-really-that-hard "blog") [Read More →](https://ai.glossika.com/blog "blog")
 
 Get the latest news and updates!
 
