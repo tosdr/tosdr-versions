@@ -10,7 +10,7 @@
 
  
 
-[Fibra, móvil y TV](https://www.movistar.es/fibra-y-movil/ "configura tu pack title")[Fibra](https://www.movistar.es/internet "Fibra")[Tarifas móviles](https://www.movistar.es/tarifas-moviles "Tarifas móviles")[Televisión](https://www.movistar.es/tv "Televisión")[Móviles y dispositivos](https://www.movistar.es/dispositivos "Móviles y dispositivos")[Alarmas](https://www.movistar.es/alarmas-para-casa/ "Alarmas para casa")[Ofertas](https://www.movistar.es/ofertas-movistar "Ofertas")[Más servicios](https://www.movistar.es/mas-servicios "Más servicios")
+[miMovistar: Fibra, móvil y TV](https://www.movistar.es/fibra-y-movil/ "configura tu pack title")[Fibra](https://www.movistar.es/fibra-optica "Fibra")[Tarifas móviles](https://www.movistar.es/tarifas-moviles "Tarifas móviles")[Televisión](https://www.movistar.es/tv "Televisión")[Móviles y dispositivos](https://www.movistar.es/dispositivos "Móviles y dispositivos")[Alarmas](https://www.movistar.es/alarmas-para-casa/ "Alarmas para casa")[Ofertas](https://www.movistar.es/ofertas-movistar "Ofertas")[Más servicios](https://www.movistar.es/mas-servicios "Más servicios")
 
 [Autónomos](https://www.movistar.es/autonomos "Autónomos")
 
@@ -110,21 +110,21 @@ Estas Condiciones Generales se rigen por la ley española. Así mismo, en cumpli
   
 Además te recordamos que puedes acceder a la plataforma de resolución de litigios en línea de la Unión Europea siguiendo este enlace: [https://ec.europa.eu/consumers/odr/main/?event=main.home2.show](https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home2.show&lng=ES)
 
-Packs con Internet
+miMovistar: Fibra, móvil y TV
 
 * [Fibra y móvil](https://www.movistar.es/fibra-y-movil/ "Fibra y móvil")
-* [Ofertas fibra](https://www.movistar.es/internet/ "Ofertas fibra")
-* [Fibra 600 Mb](https://www.movistar.es/internet/fibra-600mb/ "Fibra 600 Mb")
-* [Fibra 1 Gb](https://www.movistar.es/internet/fibra-1gb/ "Fibra 1 Gb")
-* [Internet Segunda Residencia](https://www.movistar.es/internet/segunda-residencia/ "Internet Segunda Residencia")
-
-Televisión
-
+* [Contratar Fútbol](https://www.movistar.es/tv/futbol/ "Contratar Fútbol")
+* [Partidos televisados](https://www.movistar.es/tv/agenda-deportiva/calendario-laliga-futbol-partidos-televisados "Partidos televisados")
 * [Movistar Plus](https://www.movistar.es/tv/movistar-plus/ "Movistar Plus")
-* [Contratar fútbol](https://www.movistar.es/tv/futbol/ "Contratar fútbol")
-* [Oferta con Dazn](https://www.movistar.es/tv/dazn/ "Oferta con Dazn")
-* [Max en Movistar](https://www.movistar.es/tv/max/ "Max en Movistar")
 * [Contratar Netflix](https://www.movistar.es/tv/netflix/ "Contratar Netflix")
+
+Packs con Internet
+
+* [Ofertas fibra](https://www.movistar.es/fibra-optica/ "Ofertas fibra")
+* [Fibra 300 Mb](https://www.movistar.es/fibra-optica/fibra-300mb/ "Fibra 300 Mb")
+* [Fibra 600 Mb](https://www.movistar.es/fibra-optica/fibra-600mb/ "Fibra 600 Mb")
+* [Fibra 1 Gb](https://www.movistar.es/fibra-optica/fibra-1gb/ "Fibra 1 Gb")
+* [Internet Segunda Residencia](https://www.movistar.es/fibra-optica/segunda-residencia/ "Internet Segunda Residencia")
 
 Móvil
 
@@ -148,7 +148,7 @@ Más productos Movistar
 * [Movistar Prosegur Alarmas](https://www.movistar.es/particulares/movistar-prosegur-alarmas/ "Movistar Prosegur Alarmas")
 * [Placas solares para casa](https://www.movistar.es/mas-servicios/energia/ "Placas solares para casa")
 * [Kit solares autoinstalables](https://www.movistar.es/mas-servicios/energia/paneles-solares-autoinstalables-400-w/ "Kit solares autoinstalables")
-* [Reloj para personas mayores](https://www.movistar.es/salud/reloj-personas-mayores "Reloj para personas mayores")
+* [Ver Formula 1](https://www.movistar.es/tv/motor/ "Ver Formula 1")
 
 Síguenos
 
@@ -156,6 +156,6 @@ Síguenos
 
 [Comunidad](https://comunidad.movistar.es/?_gl=1*1slhvxb*_ga*MTk5NDQ4NzE4Mi4xNjg3ODYyMDg0*_ga_J1GJWFY08P*MTY5MjI2MTA2OC4xNDMuMC4xNjkyMjYxMDY4LjAuMC4w "Comunidad")
 
-[Aviso Legal](https://www.movistar.es/atencion-cliente/aviso-legal "Aviso Legal") [Accesibilidad](https://www.movistar.es/atencion-cliente/accesibilidad "Accesibilidad") [Avisos de incidencias](https://petter.telefonica.es/pett/login?_gl=1*1wgw0tq*_ga*MTg1ODQ2NTc5MS4xNjk1MDI3NDEw*_ga_J1GJWFY08P*MTY5NTI5MTI4OC40NC4xLjE2OTUyOTEzMDYuNDIuMC4w "Avisos de incidencias") [Contratos](https://www.movistar.es/contratos "Contratos") [Privacidad](https://www.movistar.es/particulares/centro-de-privacidad "Privacidad") [Centro de transparencia](https://www.movistar.es/Microsites/centro-transparencia/ "Centro de transparencia") [Disputas online](https://webgate.ec.europa.eu/odr/main/?event=main.home.show&lng=ES "Disputas online") [Fondos Públicos](https://www.movistar.es/particulares/XuntaGalicia "Fondos Públicos")   Cookies [Seguridad](https://www.movistar.es/atencion-cliente/centro-de-seguridad "Seguridad")
+[Aviso Legal](https://www.movistar.es/atencion-cliente/aviso-legal "Aviso Legal") [Accesibilidad](https://www.movistar.es/atencion-cliente/accesibilidad "Accesibilidad") [Avisos de incidencias](https://petter.telefonica.es/pett/login?_gl=1*1wgw0tq*_ga*MTg1ODQ2NTc5MS4xNjk1MDI3NDEw*_ga_J1GJWFY08P*MTY5NTI5MTI4OC40NC4xLjE2OTUyOTEzMDYuNDIuMC4w "Avisos de incidencias") [Contratos](https://www.movistar.es/contratos "Contratos") [Privacidad](https://www.movistar.es/atencion-cliente/centro-de-privacidad "Privacidad") [Centro de transparencia](https://www.movistar.es/atencion-cliente/centro-de-transparencia "Centro de transparencia") [Disputas online](https://webgate.ec.europa.eu/odr/main/?event=main.home.show&lng=ES "Disputas online") [Fondos Públicos](https://www.movistar.es/particulares/XuntaGalicia "Fondos Públicos")   Cookies [Seguridad](https://www.movistar.es/atencion-cliente/centro-de-seguridad "Seguridad")
 
 [](https://www.telefonica.es/ "Telefónica")
