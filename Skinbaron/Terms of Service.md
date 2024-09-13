@@ -397,7 +397,7 @@ Follow us +
 
 [](https://steamcommunity.com/groups/SkinBaronDE)
 
-[](https://skinbaron.de/twitch_link)
+[](https://www.twitch.tv/skinbaron_tv)
 
 [](https://www.instagram.com/skinbaronen/)
 
