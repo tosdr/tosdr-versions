@@ -3,11 +3,16 @@
 ![Lemon.io](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20390%20100%22%3E%3C/svg%3E)](https://lemon.io/)
 
 * [Start hiring](https://magic.lemon.io/welcome?from=hire-talent)
-* [Apply as developer](https://me.lemon.io/escape-the-matrix/?from=header)
+* [Find jobs](https://me.lemon.io/escape-the-matrix/?from=header)
 * [Login](https://app.lemon.io/auth/login)
 
 * [For developers](https://lemon.io/for-developers/)
-* [Services for clients](#)
+* [For companies](#)
+    * [About us](https://lemon.io/about-us/)
+    * [FAQ for companies](https://lemon.io/support-help-faq/)
+    * [Case studies](https://lemon.io/case-studies/)
+    * [Testimonials](https://www.trustpilot.com/review/lemon.io)
+* [Services](#)
     * [Hire by role](#)
         * [Hire Full-stack developers](https://lemon.io/hire/full-stack-developers/)
         * [Hire Front-end developers](https://lemon.io/hire/front-end-developers/)
@@ -46,7 +51,7 @@
         * [Hire Android developers](https://lemon.io/hire/android-developers/)
     * [View all services](https://lemon.io/hire)
 
-[home](https://lemon.io/) TERMS OF USE
+[Home](https://lemon.io/) TERMS OF USE
 
 TERMS OF USE
 ============
