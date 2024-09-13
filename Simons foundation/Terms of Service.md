@@ -492,8 +492,6 @@ Continue
                     
                     * [Astronomical Data](https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/astronomical-data/)
                         
-                    * [Astrophysical Gases and Fluids](https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/astrophysical-gases-and-fluids/)
-                        
                     * [Cosmology](https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/cosmology-x-data-science/)
                         
                     * [Exoplanets](https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/exoplanets/)
