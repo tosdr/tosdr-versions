@@ -18,6 +18,8 @@ Search
 
 [](https://tabletvilla.com/wishlist/ "Wishlist")
 
+00 items
+
 * [Home](https://tabletvilla.com/)
 * [Erectile Dysfunction](https://tabletvilla.com/product-category/erectile-dysfunction/)
 * [Sildenafil](https://tabletvilla.com/product-category/sildenafil/)
@@ -166,7 +168,7 @@ Get in touch
 Get all the latest information on Events, Sales and Offers.  
 Sign up for newsletter today.
 
-     
+\[contact-form-7 id="1611" title="Footer Newsletter Form"\]
 
 * * *
 
