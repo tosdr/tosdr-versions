@@ -1,10 +1,6 @@
 [![](https://cdn.prod.website-files.com/65991d8455ab821f56e541e6/659a0e6b264ad19f20f9849b_FileFactory_Logo_large.svg)](https://www.filefactory.com/)
 
-[About Us](https://www.filefactory.com/)[Pricing](https://www.filefactory.com/pricing/upgrade-to-filefactory-premium)[Wall Of Love](https://www.filefactory.com/testimonials/wall-of-love)[Contact Us](https://www.filefactory.com/contact/contact-filefactory)
-
-[![](https://cdn.prod.website-files.com/65991d8455ab821f56e541e6/65991d8555ab821f56e5432d_arrow_forward_black_24dp.svg)
-
-Sign In](https://www.filefactory.com/member/signin.php)
+[About Us](https://www.filefactory.com/)[Pricing](https://www.filefactory.com/pricing/upgrade-to-filefactory-premium)[Wall Of Love](https://www.filefactory.com/testimonials/wall-of-love)[Contact Us](https://www.filefactory.com/contact/contact-filefactory)[Sign In](https://www.filefactory.com/member/signin.php)
 
 Fair Use Policy
 ---------------
