@@ -121,233 +121,357 @@ Search
 Privacy policy
 ==============
 
-Thank you for visiting the easybreathe.com website (the “Site”). Please read the following information carefully. It tells you when this notice is effective, what information we collect from you, how we might use it, how you can review or change the personal information you provided to us, how we may change this notice, and the steps we take to ensure that your personal information is protected. We are committed to the privacy of our visitors and hope you enjoy your visit!
+Privacy Notice
 
-This Privacy Notice will remain in effect until a new notice supersedes it. We may choose to update this notice at our discretion, so you should check this page periodically as the terms may change from time to time. The most recent version of the notice will be reflected by the “last updated” date noted at the bottom of the page. Your continued use of the Site will constitute your acknowledgment of the Notice in its current version and your understanding of the terms of the Notice.
+Thank you for visiting the easybreathe.com website and using our Online CPAP Store and related goods and services (collectively, the “Site”). Please read the following information. It tells you what information we collect from you, how we might use it, and how you have certain privacy rights. We are committed to the privacy of our visitors and hope you enjoy your visit!
 
-If you have a specific question, feel free to click to the appropriate section below:
+ This Privacy Notice covers the practices of Easy Breathe, Inc. (“Easy Breathe”) and will remain in effect until a new notice supersedes it. We may update this Notice, so you should check this page periodically as the terms may change from time to time. The most recent version of the Notice will be reflected by the “last updated” date noted at the bottom of the page. Your continued use of the Site will constitute your acknowledgment of the Notice in its current version and your understanding of the terms of the Notice.  This Notice incorporates the below HIPAA Notice  under the Health Insurance Portability and Accountability Act of 1996 (“HIPAA”), such as for protected health information (“PHI”). Please also review our separate Terms of Use .
 
-* [What information is collected?](https://www.easybreathe.com/Privacy-Policy-2.html#1)
-* [How do we use this information?](https://www.easybreathe.com/Privacy-Policy-2.html#2)
-* [How does easybreathe.com verify insurance coverage?](https://www.easybreathe.com/Privacy-Policy-2.html#3)
-* [How does our Site interact with third party services and content?](https://www.easybreathe.com/Privacy-Policy-2.html#4)
-* [What information do we share with third parties (or what information may they access because of the services they provide to us)?](https://www.easybreathe.com/Privacy-Policy-2.html#5)
-* [What choices do you have over how your information is used?](https://www.easybreathe.com/Privacy-Policy-2.html#6)
-* [How can you edit or delete your information?](https://www.easybreathe.com/Privacy-Policy-2.html#7)
-* [Does our Site respond to do-not-track signals?](https://www.easybreathe.com/Privacy-Policy-2.html#8)
-* [What if I access the Site from my mobile phone?](https://www.easybreathe.com/Privacy-Policy-2.html#9)
-* [How do we secure your information on our Site?](https://www.easybreathe.com/Privacy-Policy-2.html#10)
-* [What age do I have to be to use this Site?](https://www.easybreathe.com/Privacy-Policy-2.html#11)
-* [What governing law applies?](https://www.easybreathe.com/Privacy-Policy-2.html#12)
-* [California Residents' Privacy Rights](https://www.easybreathe.com/Privacy-Policy-2.html#13)
-* [What if I live outside of the United States?](https://www.easybreathe.com/Privacy-Policy-2.html#14)
-* [Who should I contact with questions or concerns?](https://www.easybreathe.com/Privacy-Policy-2.html#15)
-* [When was this notice last updated?](https://www.easybreathe.com/Privacy-Policy-2.html#16)
+ If you have a specific question, feel free to click to the appropriate section below: 
 
-### What information is collected?
+1.  [What information is collected?](https://www.easybreathe.com/Privacy-Policy-2.html#1)
 
-We collect two types of information: Identifying Information and Non-Identifying Information.
+2.  [Why and how do we use this information?](https://www.easybreathe.com/Privacy-Policy-2.html#2)
 
-_Types of Identifying Information we collect:_ When you create an account, make a purchase, or when you enter information on this Site, we may collect personal information from you including your:
+3.  [How do we verify insurance coverage?](https://www.easybreathe.com/Privacy-Policy-2.html#3)
 
-* First and Last name
-* Email address
-* Phone and Fax numbers
-* Billing and Shipping addresses
-* Payment information, such as your credit card number and debit card number
-* Date of Birth
-* Order History, including history of products considered
-* Account Name and Password
-* Health Insurance Account Information (if needed)
-* Medical Prescription (if needed)
-* Medical Records (if needed)
-* Signature
-* Audio (recorded during some customer service calls for training purposes)
-* Inferences such as your purchasing or consuming tendencies
+4.  [How does our Site interact with third party services and content?](https://www.easybreathe.com/Privacy-Policy-2.html#4)
 
-_A Note Regarding Your Sensitive Medical Information:_ To receive your health insurance benefits, we must file a claim with your insurance provider. Some of the items we sell are only available with a valid prescription. As such, we are a covered entity and subject to the U.S. Health Insurance Portability and Accountability Act (HIPAA). If you choose to have us submit your claim through insurance, we will collect your health insurance account information, medical prescription, and medical records if necessary. This can be obtained through your doctor’s office. In some circumstances, you may also be able to upload your records. Please note, only customers choosing to utilize their health insurance benefits and/or purchase a prescription-only item will have to submit this sensitive medical information. **Either way, rest assured, we are HIPAA compliant.**
+5.  [What information is disclosed to third parties?](https://www.easybreathe.com/Privacy-Policy-2.html#5)
 
-_Types of Non-Identifying Information We Collect:_ We may also collect general information resulting from your activity on the Site, including your preferences and other tendencies. This may include anonymous “traffic data” or tracking information provided by the website’s host or similar provider of such information (i.e., Google Analytics and Hotjar) that does not personally identify you, but may be helpful for marketing purposes or for improving the services we offer. Analytics is the process of collecting, analyzing, and reporting aggregate data. This information may include which pages visitors visit, how long visitors may stay on a particular page, and where visitors are located. It may also provide information about what browser, network, or device is used to visit our Site. To learn more about Google Analytics and how to opt out, please visit their [Privacy Policy](https://www.google.com/analytics/learn/privacy.html). To learn more about Hotjar and how to opt out, please visit [their page](https://www.hotjar.com/opt-out).
+6.  [What choices do you have over how your information is used?](https://www.easybreathe.com/Privacy-Policy-2.html#6)
 
-In addition, when you visit our Site, we may also log your anonymous IP addresses, a unique identifier for your computer or other access device. This helps us diagnose problems with our server, to administer our Site, or to display the content according to your preferences.
+7.  [Does our Site respond to do-not-track signals?](https://www.easybreathe.com/Privacy-Policy-2.html#8)
 
-_We Also Use Cookies and Web Beacons:_ A cookie is a small string of information that the website you visit transfers to your computer for identification purposes. Cookies can be used to follow your activity on the website and that information helps websites to understand your preferences and improve your website experience. Cookies are also used for such activities as remembering your username and password, if you use such a feature on this Site. You can turn off all cookies in the event you prefer not to receive them. You can also have your computer warn you whenever cookies are being used. There are also software products available that can manage cookies for you. Please be aware, however, that when you choose to reject cookies, this choice may limit the functionality of the website and you may lose access to some of its features.
+8.  [What if I access the Site from my mobile phone?](https://www.easybreathe.com/Privacy-Policy-2.html#9)
 
-A web beacon is an invisible pixel-sized graphic image on a web page, web-based document or e-mail message. It helps us do things like view the URL of the page on which the beacon appears and the time the Site, document or email in question is viewed. They can be used to confirm the receipt of, and response to, our emails, including those that you forward to friends and family; and they help deliver a more personalized online experience.
+9.  [How do we secure and retain your information?](https://www.easybreathe.com/Privacy-Policy-2.html#10)
 
-### How do we use this information?
+10.  [What age do I have to be to use this Site?](https://www.easybreathe.com/Privacy-Policy-2.html#11)
 
-We primarily use the personal information you provide and any general information we receive from you to provide the following:
+11.  [What are my privacy rights](https://www.easybreathe.com/Privacy-Policy-2.html#13)?
 
-* Create and manage your account;
-* Process your online orders;
-* Conduct required medical billing;
-* Personalize your online experience;
-* Provide customer service, whether it’s responding to a request or following up on an order;
-* Improve our services and the interactions you have with our Site;
-* Market products and services that may be of interest to you--for instance, we may add you to the easybreathe.com email list and newsletter when you make an online purchase or sign up; and
-* Comply with and enforce applicable legal requirements, relevant industry standards and our policies.
+12.  [What if I live outside of the United States?](https://www.easybreathe.com/Privacy-Policy-2.html#14)
 
-### How does easybreathe.com verify insurance coverage?
+13.  [Who should I contact with questions or concerns?](https://www.easybreathe.com/Privacy-Policy-2.html#15)
 
-The Check Your Insurance link opens a Typeform that collects your insurance information. This feature is optional. You can also fill out the “Check Your Insurance Coverage Today” form. These forms collect you first and last name, email address, phone number, zip code, and insurance carrier.  You may be given the choice to complete your sign-up online, which prompts you to enter your Insurance Member ID and date of birth, or submit the form immediately, in which case you will be called to obtain that information.
+14.  [When was this notice last updated?](https://www.easybreathe.com/Privacy-Policy-2.html#16)
 
-Once we have your complete insurance information, it is verified by one of our team members. You will then receive an email and/or phone call letting you know that we have your coverage information and are ready to discuss it with you. By requesting a call from Easy Breathe, you agree to be contacted by either a human caller or by an AI outbond phone system.  If we do not receive a response, we may send your basic coverage summary to you via email.
+What information is collected?
 
-### How does our Site interact with third party services and content?
+We collect the following types of personal information for the reasons outlined below. Our purposes for collecting information include our business purposes, namely to provide and improve our Site, including by fulfilling your orders and requests, and where authorized, for commercial purposes to market our Site and relevant offers to you. 
 
-For your convenience, we may link to third party sites and services, or otherwise display third party content through our Site. Here are some examples of third party content and services available through or via our Site:
+Contact and Order Information: When you interact with us to make a purchase, including by entering a transaction on our website or calling our phone number, we may collect personal information from you as necessary to provide you with the features of the Site, including your: 
 
-* Third party email providers: We may automate our marketing and newsletters.
-* YouTube or Vimeo: We may embed content on our Site from other online services, such as a recorded video.
-* Social Media: We may facilitate easy access to third party sites and online services, like social networks and other services that host user-generated content such as Facebook, Twitter, and Pinterest.
-* Payment Processing: We work with third party vendors to process payments. These include, but are not limited to: Stripe, Authorize.net, and PayPal.
-* Delivery: We work with third party vendors to deliver our products. These include, but are not limited to: FedEx, UPS, and the United States Postal Service.
-* Content Delivery: We work with third party vendors to deliver web-content to our visitors. These include, but are not limited to: Outbrain and Tabloola.
-* Ads: We work with third party vendors to deliver targeted advertising to our visitors. These include, but are not limited to: Google AdSense, Bing, Yahoo, Facebook, and Twitter Ads.
-* Live chat: We work with Zendesk to provide live chat technology to our users.
+§  First and last name
 
-These links take you outside our service and off our Site and are beyond our control. Please note that these other sites may send their own cookies to users, collect data, or solicit personal information. We urge you to review the equivalent data protection, privacy, and cookie policies available on their websites. _We do not accept any responsibility or liability for the data protection of privacy practices of third parties in relation to such websites and your use of third party websites is entirely at your own risk._
+§  Email address
 
-### What information do we share with third parties (or what information may they access because of the services they provide to us)?
+§  Phone and fax numbers
 
-We will not sell, trade, or otherwise transfer your personal information or general information to third parties without informing you in advance. However, we may provide some of our services through contractual arrangements with affiliates, services providers, partners and other third parties. Our service partners may use your personal information to operate the website and deliver services. We use these third parties to help handle parts of our business. They help us do things like fulfill orders, process payments, provide analytics, monitor activity, maintain databases, and administer and monitor emails. These parties will only use your data for the purpose of carrying out the work as agreed with us.
+§  Billing and shipping addresses
 
-_Disclosure of your information for security purposes:_ easybreathe.com fully cooperates with law enforcement agencies in identifying those who use our Site for illegal activities. We will release personal or general information without your consent for security purposes, when required by law, or to prevent imminent harm to any person or entity. We will disclose personal or general information upon receipt of a court order or subpoena, or to cooperate with a law enforcement investigation, which may include responding to requests and court orders from jurisdictions outside the United States. We reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful, as determined in our sole discretion.
+§  Payment information, such as your credit card number and debit card number
 
-### What choices do you have over how your information is used?
+§  Date of birth
 
-* Email: Those who wish to opt-out from receiving email offers will have their address removed within 1-10 days of receipt of their request to opt-out or to unsubscribe at info@easybreathe.com or by calling our customer service team at (866) 564-2252. If you have multiple email addresses you will need to opt-out for each address in order to be removed from our active database.  
-    
-* Telephone/Text:  Those who wish to opt out from telephone/text/automated dialing technologies may email info@easybreathe.com or by calling our customer service team at (866) 564-2252. If you have multiple telephone numbers you will need to opt-out for each number in order to be removed from our active database.
-* Location information: You may have the ability to turn location-based services on and off by adjusting the settings of your Internet browser or mobile device or, for some devices, by revoking permission for our mobile apps to access your location information.
-* Cookies and web beacons: Your browser may offer the ability to block or delete cookies from your device. Please follow your individual browser’s instructions on how to block and clear cookies.
+§  Order history, including history of products considered
 
-### How can you edit or delete your information?
+§  Account name and password  
+  
+§  Signature
 
-By logging into your account, you may edit your billing and shipping address information, your phone number, and email address. If you would like to permanently delete your account, you can email us at [info@easybreathe.com](mailto:info@easybreathe.com). _Please note, your name, order history, and insurance account information cannot be deleted from our system._
+§  Audio (recorded during some customer service calls
 
-### Does our Site respond to do-not-track signals?
+§  Communications (such as if you contact customer support or use our chat feature)
 
-At this time easybreathe.com does not recognize automated browser signals regarding tracking mechanisms, which may include ‘do-not-track’ instructions. However, you can change your privacy preferences regarding the use of cookies and similar technologies through your browser. You may set your browser to accept all cookies, block certain cookies, require your consent before a cookie is placed in your browser, or block all cookies. Please note, blocking all cookies will affect your online experience and may prevent you from enjoying the full features offered by our website.
+§  Inferences such as your purchasing or consuming tendencies
 
-[](https://www.easybreathe.com/Privacy-Policy-2.html#top) 
+ This information includes personal identifiers and information under California Civil Code §1798.80, such as your name and address, and commercial information, such as purchases.
 
-### What if I access the Site from my mobile phone?
+ Health and Insurance Information: We may also collect health information from you to provide certain products and services, including your: 
 
-We collect and use information about you in the same way and for the same purposes if you access the easybreathe.com from your mobile phone, as we do when you use our website.
+§  Health insurance information (if needed)
 
-### How do we secure your information on our Site?
+§  Medical prescription (if needed)
 
-In order to protect both the personal information and the general information that we receive from you through the website, we have implemented various security measures. We will take all steps reasonably necessary to ensure that your data is treated securely. All information you provide to us is stored in secure managed servers.
+§  Medical records (if needed)
 
-_We are PCI compliant._ In addition, our third party payment processing vendors are also PCI compliant. Where we have given you (or where you have chosen) a password which enables you to access certain parts of the Site, you are responsible for keeping this password confidential. We ask that you never share your password with anyone.
+ For example, some of the items we sell are only available with a valid prescription, or if you request an insurance check, we collect your name, provider, email, and phone number. If you have us submit a claim through insurance, we collect your health insurance information, medical prescription, and medical records if necessary. This can be obtained through your doctor’s office. In some circumstances, you may also upload your records. Only customers choosing to utilize their health insurance benefits and/or purchase a prescription-only item will have to submit this information. Health information may constitute PHI and sensitive information.
 
-_We are HIPAA compliant._ Some of the items we sell are only available with a valid prescription. As such, we are a covered entity and subject to the [U.S. Health Insurance Portability and Accountability Act (HIPAA)](https://www.hhs.gov/hipaa/index.html).
+ Cookie and Device Data: We may also collect device, internet, and technical information related to your activity on the Site through cookies and other technologies for marketing purposes and providing and improving certain services. For example, we may collect data for analytics (e.g., through Google Analytics and Hotjar) on which pages visitors visit, how long visitors may stay on a particular page, and where visitors are located generally. We may also obtain information about what browser, network, or device is used to visit our Site. To learn more about Google Analytics and how to opt out, please visit their [Privacy Policy](https://www.google.com/analytics/learn/privacy.html) and [Google Analytics Opt-Out Browser Add-On Page](https://tools.google.com/dlpage/gaoptout). To learn more about Hotjar and how to opt out, please visit [their page](https://www.hotjar.com/opt-out).
 
-To ensure compliance, we utilize the following third-party vendors:
+ In particular, a cookie is a small string of information that a website transfers to your computer and can help remember your preferences and improve your experience. Cookies are also used for activities such as analytics and marketing. You can disable cookies in your browser and device settings. For more information, see [AllAboutCookies.org](https://www.allaboutcookies.org/) or [AboutAds.Info](http://www.aboutads.info/choices). Further, a web beacon is an invisible pixel-sized graphic image on a webpage or email. It helps us do things like understand when certain content is viewed and to deliver a more personalized experience. 
 
-* ZeroLag: Zerolag services are located in a dedicated HIPAA environment and are compliant with HIPAA processes. You can read more about ZeroLag’s security protocols by visiting [their security page](http://www.zerolag.com/data-security-overview).
-* Typeform: Typeform data is hosted on Amazon’s AWS service. You can read more about Typeform’s security protols by visiting [here](https://www.typeform.com/help/what-happens-to-my-data/).
-* Salesforce: We utilize Salesforce’s Customer Relationship Management (CRM) software. You can read more about Salesforce’s security protocols by visiting [here](https://www.salesforce.com/hub/technology/cloud-security-is-salesforce-priority).
-* Zapier: We utilize Zapier to move the information we collect using Typeform to our Salesforce CRM. You can read more about Zapier’s security protocols by visiting [here](https://zapier.com/help/data-privacy/).
+In addition, when you visit our Site, we may also log your anonymous IP addresses and unique identifier for your computer or other access device. This helps us diagnose problems with our server, to administer our Site, and to display the content according to your preferences.
 
-Whenever you give out personal information online there is a risk that third parties may intercept and use that information. _While we strive to protect your personal information and privacy, we cannot guarantee the security of any information you disclose online. By using this Site, you expressly acknowledge and agree that we cannot guarantee the security of any data provided to or received by us through this Site and that any personal information, general information, or other data or information received from you through the Site is provided at your own risk. We are not liable for any damages arising out of, or in any way connect with, a third party’s unauthorized access to your information._
+Promotional Information. We collect information from you when you respond to a survey, sweepstakes, or promotion or sign up for our newsletter. This may include your name, phone number, email address, and any other necessary information, such as your insurance information if necessary to qualify for an offer. We use this information to provide the outlined parts of the Site, such as to notify you of selection for a sweepstakes or to email you our newsletter with helpful tips, and to market to you, such as through advertising emails.
 
-While we implement the above security measures on our Site, you should be aware that 100% security is not always possible. Whenever you give out personal information online there is a risk that a third party may intercept and use that information. While we strive to protect your personal information and privacy, we cannot guarantee the security of any information you disclose online. By using this Site, you expressly acknowledge and agree that we cannot guarantee the security of any data provided to or received by us through this Site and that any personal information, general information, or other data or information received from you through the Site is provided at your own risk.
+ Financial Incentive Data. From time to time, we may offer optional incentives related to the collection, retention, or sharing of information that may be deemed a “financial incentive” or “price or service difference.” If you opt in to such an offering pursuant to the terms described at the time of signup, we may collect information such as name and email address, commercial information and preferences, internet or other network activity, and device information. Any difference in price or rate, such as a discount, will be reasonably related to the value of the data. If you want to withdraw from the offering, please contact us.
 
-### What age do I have to be to use this Site?
+ Business Information. If you contact us as a business partner or for media or marketing inquiries, we collect the information you provide, such as to consider a potential business relationship.
 
-_This Site is not intended for use by people under 13 years of age._ We will not knowingly collect information from minors in the United States or elsewhere with or without the consent of their parents or guardians. Personal registration information submitted by a person under the age of 13 will not be accepted. Any general information provided by a person under the age of 13 and gathered (for example, through the use of cookies) during his or her visit may be used as indicated in this).
+ Employment and Education Data. If you provide this information to us, such as if you apply for a job and forward your resume, we may collect your professional, employment, or education history for business purposes, such as reviewing job applications.
 
-_You may only order products if you are 18 years old or older._ If you place an order, you promise that you are 18 years old or older. If you are under the age of 18 and would like to purchase a product, your parent or guardian should place the order for you.
+ Public Data. If you publicize something about Easy Breathe or our Site, we may collect and use it for business purposes, such as reviewing and improving our Site, and commercial purposes, such as sharing a public review posted to social media.
 
-### What governing law applies?
+ Aggregate Data. We may collect and use aggregate data as authorized by applicable laws. For example, we may use aggregate group analytics to improve our Site without identifying you.
 
-This notice and our privacy practices will be subject exclusively to the laws of the State of California within the United States of America. By using our Site, you hereby irrevocably submit to the exclusive jurisdiction of the competent courts of California any claim or matter arising under or in connection with the Site.
+[Back to Top](https://www.easybreathe.com/Privacy-Policy-2.html#top)
 
-### California Residents' Privacy Rights
+ Why and how do we use this information?
 
-The California Consumer Privacy Act of 2018 (the “CCPA”) is a California law that gives California residents (“consumers”), the right to learn about and control certain aspects of how a business handles the personal information that a business collects about them. For purposes of this addendum, Easy Breathe is referred to as “we” or “our”. Pursuant to the CCPA, effective January 1, 2010, consumers have certain rights, including:
+We use the personal information about you for the reasons outlined above and below, which fulfills our business purposes, namely to provide and improve our Site, and specifically to: 
 
-* The right to know the categories of personal information we’ve collected and the categories of sources from which we got the information;
-* The right to know the business purposes for sharing personal information;
-* The right to know the categories of third parties with whom we’ve shared personal information;
-* The right to access the specific pieces of personal information we’ve collected;
-* The right to delete your information; and
-* The right to opt-out of the sale of your information.
-* California residents also have the right to not be discriminated against if they choose to exercise their privacy rights.
+§  Operate our business, including to provide goods and services through the Site;
 
-Your Personal Information
+§  Create and manage your account;
 
-| CATEGORIES OF PERSONAL INFORMATION UNDER THE CCPA | WHAT WE COLLECT | WHY WE COLLECT THAT INFORMATION |
-| --- | --- | --- |
-| Identifiers | We may collect your:<br><br>* Name<br>* Postal address<br>* Email address<br>* Personal/online identifier<br>* Password<br>* IP address | We collect this information in order to provide services, complete transactions, and market to you. |
-| Personal information described in [California Civil Code section 1798.80](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1798.80.&lawCode=CIV) | We may collect your:<br><br>* Name<br>* Signature<br>* Address<br>* Phone number<br>* Fax number<br>* Insurance policy number (when needed)<br>* Credit card number<br>* Debit card number<br>* Health insurance information<br>* Prescription information (when needed)<br>* Medical records (when needed) | We collect this information in order to provide services and complete transactions. |
-| Protected classifications under California or federal law | We do not collect this information. | Not applicable. |
-| Commercial information | * Records of products/services, purchased, obtained or considered<br>* Purchasing or Consuming History<br>* Purchasing or consuming tendencies | We collect this information in order to provide services, complete transactions, and market to you. |
-| Biometric information | We do not collect this information. | Not applicable. |
-| Internet or other electronic network activity information | We may collect:<br><br>* Browser type<br>* Device type<br>* Domain names<br>* Access time/logs<br>* Information regarding your interactions with the website and ads. | We collect this information to keep track of login information, trailer content to consumer interests, personalize our website, and market to you. |
-| Geolocation data | We do not collect this information. | Not applicable. |
-| Audio, electronic, visual, thermal, olfactory, or similar information | Expect that any call with Easy Breathe, both inbound and outbound, will be recorded for training and quality control purposes. | We collect this information to provide our services and for training purposes. |
-| Professional or employment-related information | We do not collect this information. | Not applicable. |
-| Education information | We do not collect this information. | Not applicable. |
-| Inferences drawn from any of the above to create a profile about a consumer | We do not collect this information. | Not applicable. |
+§  Process and fulfill your orders;
 
-While the chart above contains the categories and primary purposes of processing for each category of personal information, we also collect information as described in “What information is collected?” and “How do we use this information?”, above. For more information about “What information do we share with third parties (or what information may they access because of the services they provide to us)?”, please click on the respective links or read more, above.
+§  Personalize your user experience;
 
-Your Rights Under the CCPA
+§  Provide customer service, such as responding to a request or order;
 
-_**Right to Opt-Out of Sale of Your Personal Information**_
+§  Obtain and respond to feedback and other communications;
 
-Consumers have the right to request that a business that sells the consumer’s personal information, or that discloses it for a business purpose, inform the consumer of what has been collected about them and who it has been sold or disclosed to. Consumers also have the right, at any time, to direct a business that sells personal information about them not to sell their personal information.
+§  Monitor and improve our Site and the interactions you have with our Site. For example, we may use data to troubleshoot, debug issues, and internal training;
 
-* Easy Breathe does not sell or share your personal information for monetary or other valuable consideration.
+§  Audit and respond to security incidents and protect against harmful activity; and
 
-_**Right to Access / Data Portability**_
+§  Comply with and enforce applicable legal requirements, relevant industry standards, and our policies.
 
-Consumers have the right to request that a business that collects personal information about them disclose the following: (1) The categories of personal information it has collected about that consumer; (2) The categories of sources from which the personal information is collected; (3) The business or commercial purpose for collecting or selling personal information; (4) The categories of third parties with whom the business shares personal information; (5) The specific pieces of personal information it has collected about that consumer. The disclosure shall cover the 12-month period preceding your request.
+We also use, if applicable, contact and order information, cookie and device data, promotional information, financial incentive data, business information, public data, and aggregate data for our commercial purposes to market to you. For example, we may use this data to: 
 
-1. To exercise your right to access, you may submit a Verifiable Consumer Request by calling us toll free at (866)-564-2252, or by sending an email to privacy@easybreathe.com. Please include “Request for Access” in the subject line.
-2. If you submit your response via email, we will reach out within 10 days to confirm that we have received your request.
-3. We will then take steps to determine whether your request is a valid Verifiable Consumer Request. If you have an account, we may ask you to login to confirm this information. We will not ask you to create an account if you do not already have one. We will only ask for information that is reasonable in light of the nature of your request.
-4. When you submit a request for access:
-    * Within 45 days, we will provide you with a copy of the information listed in “Right to Access / Data Portability,” above, by mail or electronically.  To the extent possible, this information shall be provided in a portable and useable format.
-    * In the event we need additional time, we will inform you within the initial 45-day period of our need for an additional 45 days (for a maximum of 90 days between request and provision of information).
-    * We are not required to provide personal information to a consumer more than twice in a 12-month period.
-    * Please note, the CCPA does not apply to protected health information that is collected by a covered entity or business associate governed by the Health Insurance Portability and Accountability Act of 1996 (HIPAA).  Much of the information we collect and maintain is governed by HIPAA, and as such, may not be provided upon submission of a request for access.  If you would like to learn more about your rights to access protected health information, please visit the U.S. Department of Health & Human Services at: [https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/access/index.html](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/access/index.html).
+§  Advertise products and services that may be of interest to you;
 
-_**Right to Deletion**_
+§  Add you to our email list and newsletter;
 
-Consumers have the right to request that a business delete any personal information about them. However, there are exceptions to this rule. For example, a business does not have to delete information if it is necessary to: a) complete a transaction; b) prevent illegal activity; c) exercise free speech; d) comply with a legal obligation; e) identify or repair errors that impair functionality; or f) otherwise use a consumer’s personal information, internally, that is compatible with the context in which the consumer provided that information.
+§  Provide and notify users of promotions and sweepstakes; and
 
-* To exercise your right to deletion, you may submit a Verifiable Consumer Request by calling us toll free at (866)-564-2252, or by sending an email to privacy@easybreathe.com. Please include “Request for Deletion” in the subject line.
-* We will reach out within 10 days to confirm that we have received your request.
-* We will then take steps to determine whether your request is a valid Verifiable Consumer Request. If you have an account, we may ask you to login to confirm this information. We will not ask you to create an account if you do not already have one. We will only ask for information that is reasonable in light of the nature of your request.
-* When you submit a request for deletion:
-    * If you have an account, you can log in to request deletion.
-    * For consumers that do not have an account, we have created a two-step process for responding to requests for deletion.  After you submit the initial request, we will ask that you separately confirm that you would like your information deleted.
-    * If your request does not fall within one of the exceptions to deletion listed in “Right to Deletion,” above, we will confirm deletion within 45 days.  If we are not required to delete your account, we also let you know within 45 days.
+§  Analyze user viewing and purchasing trends.
 
-_**Right to Non-Discrimination**_
+Further, we may use, if applicable, health and insurance information to: 
 
-A business cannot discriminate against a consumer because the consumer exercised any of the consumer’s rights listed above.
+§  Perform services as outlined in the HIPAA notice;
 
-Questions:
+§  Respond to requests for insurance checks;
 
-If you have any questions about this California Privacy Rights, or any Easy Breathe privacy practices, please reach out to us at privacy@easybreathe.com. You can also call us at (866)-564-2252, or write to us at: 11859 Wilshire Blvd. Suite 110; Los Angeles, CA 90025.
+§  Conduct any required medical billing;
 
-### What if I live outside of the United States?
+§  Communicate with you about care coordination and continuity of care; and
 
-The easybreathe.com is hosted and operated entirely in the United States and is subject to United States law. _Please do not do not provide us with any information or attempt to purchase our products if you live outside of the United States._ If you are from a jurisdiction outside of the United States, please notify us so that we may take necessary action. This may include terminating your account and deleting your information. We are committed to resolving those issues, so if you have any questions about how we collect or use your information you may email us at [info@easybreathe.com](mailto:info@easybreathe.com).
+§  Market to you if and as authorized by you and applicable laws. 
 
-### Who should I contact with questions or concerns?
+Note that we only use and disclose any “sensitive” data as necessary to provide the Site and which should be reasonably expected by you, such as verifying information, maintaining the quality or safety of the Site, performing services or providing goods reasonably expected (such as to fulfill your orders), for short-term use where there is no disclosure or profiling, or to resist malicious, fraudulent, or illegal actions or to ensure physical safety. 
 
-If you have any questions or comments relating to the easybreathe.com Site or this Privacy Notice, send an email to [info@easybreathe.com](mailto:info@easybreathe.com) or call our customer service team at (866) 564-2252. You may also [submit a contact form](https://easybreathe.com/pages/contact "Contact Form").
+[Back to Top](https://www.easybreathe.com/Privacy-Policy-2.html#top)
 
-### When was this notice last updated?
+How do we verify insurance coverage?
+
+If you request an optional insurance check, you may provide certain information, such as your first and last name, email address, phone number, zip code, and insurance carrier. You may be given the choice to complete your sign-up online, which prompts you to enter your Insurance Member ID and date of birth, or submit the form immediately, in which case you will be called to obtain that information.
+
+Once we have your complete insurance information, it is verified by one of our team members. You will then receive an email and/or phone call letting you know that we have your coverage information and are ready to discuss it with you. If we do not receive a response, we may send your basic coverage summary to you via email.
+
+[Back to Top](https://www.easybreathe.com/Privacy-Policy-2.html#top)
+
+ How does our Site interact with third party services and content?
+
+For your convenience, we may link to third party websites and services, or otherwise display third party content through our Site. Here are some potential examples:
+
+§  Klayvio/or other Third Party Mail Service: We may automate our marketing and newsletters.
+
+§  YouTube or Vimeo: We may embed content on our Site from other online services, such as a recorded video.
+
+§  Social Media: We may facilitate easy access to third party sites and online services, like social networks and other services that host user-generated content such as Facebook, Twitter, and Pinterest.
+
+§  Payment Processing: We work with third party vendors to process payments. These include, but are not limited to: Stripe, Authorize.net, and PayPal.
+
+§  Delivery: We work with third party vendors to deliver our products. These include, but are not limited to: FedEx, UPS, and the United States Postal Service.
+
+§  Content Delivery: We work with third party vendors to deliver web-content to our visitors. These include, but are not limited to: Outbrain and Tabloola.
+
+§  Ads: We work with third party vendors to deliver targeted advertising to our visitors. These include, but are not limited to: Google AdSense, Bing, Yahoo, Facebook, and Twitter Ads.
+
+§  Live chat:  We work with Zendesk to provide live (people) chat technology to our users. 
+
+These links take you off our Site and are beyond our control. Please note that these other websites are not subject to this Privacy Notice and may send their own cookies to users, collect data, or solicit personal information. We urge you to review the equivalent data protection, privacy, and cookie policies of these third parties. We do not accept any responsibility or liability for third parties, and your use of third party websites or services is entirely at your own risk. 
+
+[Back to Top](https://www.easybreathe.com/Privacy-Policy-2.html#top)
+
+What information is disclosed to third parties?
+
+We generally disclose information to provide and improve the Site and comply with legal and contractual obligations, including to fulfill your orders. Specifically, we disclose information to:
+
+§  Service providers and contractors to provide and improve the Site, such as to help fulfill orders and process payments, store data, and provide customer service. These third parties agree to only use your information for contracted business purposes, rather than for their own data sales or marketin.
+
+§  Related parties, including business partners or if there is a merger, acquisition, or sale, including to consider a potential contract and provide and improve the Site.
+
+§  Legal parties and law enforcement to comply with legal obligations, such as to respond to subpoenas, court orders, or government or law enforcement requests. Likewise, we may disclose information to investigate, prevent, or respond to illegal, fraudulent, or injurious actions or security incidents that may cause imminent harm, or to investigate a violation of our terms, policies, or legal rights.
+
+§  Third parties with your consent, such as to fulfill your requests, or if information is in the aggregate or de-identified form and does not identify you.
+
+In addition, cookie, device, and related data may be shared with advertising partners and affiliates, as outlined above, to provide analytics and tailor marketing content to be relevant to you. For example, we may use custom audience functions, which shares “hashed” data with digital advertising platforms to target our marketing to provide you with the most helpful information and a more personalized experience. Once these custom audiences are created, we may also use the custom audience to create a “lookalike audience” to target ads to new people who share similar characteristics to individuals in the existing custom audience. Your privacy settings for advertising platforms, such as social media websites, are set and can be updated by the respective platform. You can also disable cookies and similar technologies as outlined above. 
+
+We do not “sell” your personal information for monetary consideration. However, the Site uses cookies and technologies, which may involve sharing of your device and technical information. This may be considered a data “sale” or data “sharing” under certain laws, depending on legal exceptions, which furthers our business purposes (e.g., providing the Site) and commercial purposes (e.g., other marketing). To opt out of these practices, contact us as outlined below. 
+
+[Back to Top](https://www.easybreathe.com/Privacy-Policy-2.html#top)
+
+What choices do you have over how your information is used?
+
+You have choices regarding how your information is used. Some examples are below. For more information, please see the section below on your privacy rights. 
+
+§  Email: Those who wish to opt-out from receiving email offers will have their email address removed within 1-10 business days of receipt of their request to opt-out or to unsubscribe at info@easybreathe.com or by calling our customer service team at (866) 564-2252, subject to applicable laws. If you have multiple email addresses, you will need to opt-out for or identify each email address.
+
+§  Accounts. By logging into your account, you may edit your billing and shipping address information, phone number, and email address. To permanently delete your account, you can email us at info@easybreathe.com. Please note, in certain circumstances, your name, order history, and insurance account information cannot be deleted from our system, subject to applicable laws.  
+
+§  Location information\[ : You have the ability to turn location-based services on and off, if applicable, by adjusting the settings of your internet browser or device.
+
+§  Cookies and web beacons: You can disable cookies, web beacons, and similar technologies through your browser or device, as outlined above. 
+
+[Back to Top](https://www.easybreathe.com/Privacy-Policy-2.html#top)
+
+Does our Site respond to do-not-track signals?
+
+At this time, easybreathe.com does not recognize “do-not-track” instructions. However, you can change your privacy preferences regarding the use of cookies and similar technologies.
+
+[Back to Top](https://www.easybreathe.com/Privacy-Policy-2.html#top)
+
+What if I access the Site from my mobile phone?
+
+We collect and use information about you in the same way and for the same purposes if you access the Site from your mobile phone as we do when you use our website.
+
+[Back to Top](https://www.easybreathe.com/Privacy-Policy-2.html#top) 
+
+How do we secure and retain your information?
+
+We have implemented various security measures to protect personal information and to treat your data securely, including by using secure managed servers to store information. Further, some of the items we sell are only available with a valid prescription. As such, we respect [HIPAA](https://www.hhs.gov/hipaa/index.html) where applicable. We may utilize the following vendors for different parts of the Site:
+
+§  ZeroLag: Zerolag services are located in a dedicated HIPAA environment. You can read more about ZeroLag’s security protocols by visiting [their security page](http://www.zerolag.com/data-security-overview).
+
+§  Typeform: Typeform data is hosted on Amazon’s AWS service. You can read more about Typeform’s security protols [here](https://www.typeform.com/help/what-happens-to-my-data/).
+
+§  Salesforce: Salesforce provides Customer Relationship Management (CRM) software. You can read more about Salesforce’s security protocols [here](https://www.salesforce.com/hub/technology/cloud-security-is-salesforce-priority).
+
+§  Zapier: Zapier can help move the information from Typeform to a Salesforce CRM. You can read more about Zapier’s security protocols [here](https://zapier.com/help/data-privacy/).
+
+However, whenever you give out personal information online there are risks, including that third parties may intercept and use that information. While we strive to protect your personal information and privacy, we cannot guarantee the security of your information. By using this Site, you expressly acknowledge and agree that we cannot guarantee the security of any data provided to or received by us through this Site and that any personal information or data is provided at your own risk. To the extent allowable, we are not liable for any damages arising out of, or in any way connected with, a third party’s unauthorized access to your information. In other words, 100% security is not always possible. Whenever you give out personal information, including online, there is a risk that a third party may intercept and use that information. Data security also depends on you. For example, you should always keep your password and account information confidential and immediately alert us of any suspected breach relating to the Site.
+
+We retain personal information for the length of time necessary to fulfill the purposes outlined in this Privacy Notice, unless a different retention period is requested by you or required by applicable laws. For example, we will retain your personal information for as long as it is needed to provide the Site features to you or fulfill a legal or contractual obligation. We may also aggregate, de-identify, or anonymize data as applicable for use in analytics, such as to track trends over time without identifying you. For requests to delete data, see below.  We use the following criteria to determine how long we retain personal information: (a) our relationship with you, such as if there is a pending transaction or active account, (b) legal obligations to retain personal information for certain purposes, such as to maintain transaction records, including under HIPAA and state laws, and (c) other obligations or considerations relating to the retention of data, such as litigation holds, investigations, or statutes of limitation. 
+
+[Back to Top](https://www.easybreathe.com/Privacy-Policy-2.html#top) 
+
+What age do I have to be to use this Site?
+
+This Site is not intended for use by people under 13 years of age. We will not knowingly collect information from minors, and if we become aware of such data, we will delete it. We do not have knowledge of “selling or sharing” the personal information of consumers under the age of 16.
+
+You may only order products if you are 18 years old or older. If you place an order, you warrant that you are 18 years old or older. If you are under the age of 18 and would like to purchase a product, your parent or guardian should place the order for you.
+
+[Back to Top](https://www.easybreathe.com/Privacy-Policy-2.html#top) 
+
+What are my privacy rights?
+
+Different laws, such as the California Consumer Privacy Act (“CCPA”), govern your privacy rights and may depend on where you reside. To assert your rights, you may contact us as outlined below through your account, or with your full name and email address or phone number  used in connection with the Site, for verification. If an authorized agent is making a request on your behalf, the agent should provide its name and contact information, such as an email address, in addition to your information. If you are requesting to access or change sensitive data, we may require additional verification. There may be situations where we cannot grant your request, for example, if you make a request and we cannot verify your identity, or if you request deletion of data that we have a legal obligation to keep. Where we deny your request, we will take steps to inform you of the denial and provide an explanation for our actions and reasons for the denial.
+
+Generally, we adhere to the following set of privacy rights to the extent applicable and subject to any limitations authorized by law.
+
+§  The right to know the categories of personal information we collect and use; the categories of the sources of data at issue; the business or commercial purposes for any collecting, selling, or sharing of data; the categories of third parties to whom data is disclosed; and the specific pieces of personal information collected;
+
+§  The right to amend or correct your personal information;
+
+§  The right to limit the processing of certain data;
+
+§  The right to delete your personal information subject to legal limitations;
+
+§  The right to opt-out of the sale of your information and certain data practices. 
+
+§  California residents also have the right under the “Shine the Light” law to request information about the sharing of information for direct marketing purposes; and
+
+§  The right to not be discriminated against for exercising privacy rights. 
+
+For California residents, you can find a list of your rights, along with the categories of personal information we collect and use, the sources of personal information, our business and commercial purposes, and third parties to whom information is disclosed, as well as information about our retention of data, above. Please contact us with any privacy requests or questions.
+
+To exercise your right to access, you may submit a verifiable consumer request by calling us toll free at (866)-564-2252, or by sending an email to privacy@easybreathe.com. Please include “Request for Access” in the subject line. You can also write to us at: 11859 Wilshire Blvd. Suite 110, Los Angeles, CA 90025. We strive to respond to you promptly within any legal time limits; and disclosures of information generally cover the 12-month period preceding your request, subject to applicable laws. Please note, certain laws like the CCPA do not apply to PHI that is collected by a covered entity or business associate governed by HIPAA. To learn more about your rights under HIPAA, visit the U.S. Department of Health & Human Services site at: [https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/access/index.html](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/access/index.html).
+
+[Back to Top](https://www.easybreathe.com/Privacy-Policy-2.html#top)
+
+What if I live outside of the United States?
+
+The Site is hosted and intended for users in the United States and is subject to United States laws. Please do not provide us with any information or attempt to purchase our products if you live outside of the United States. 
+
+[Back to Top](https://www.easybreathe.com/Privacy-Policy-2.html#top)
+
+Who should I contact with questions or concerns?
+
+If you have any questions or comments relating to the Site or this Privacy Notice, send an email to info@easybreathe.com or call our customer service team at (866) 564-2252. You may also [submit a contact form](https://www.easybreathe.com/contact.html).
+
+[Back to Top](https://www.easybreathe.com/Privacy-Policy-2.html#top) 
+
+When was this notice last updated?
 
 June 28, 2024
+
+**HIPAA Notice**
+
+Summary 
+
+This HIPAA Notice is a summary of privacy rights and practices under HIPAA. This HIPAA Notice is incorporated by reference into our Privacy Notice, which contains certain definitions.
+
+Use and Disclosure of PHI
+-------------------------
+
+Generally, we use and disclose PHI to provide the Site and related goods and services, including to provide you with CPAP offers, fulfill your transactions of CPAP masks, machines, parts, and accessories as applicable, assist with continuity of care, and respond to your requests. We also use information, including any insurance information, for insurance checks and billing purposes if applicable. To the extent permitted under HIPAA, we may use PHI to improve the Site, to train staff, and for customer support and internal authorized business purposes.
+
+We may also use or disclose your PHI as outlined in our Privacy Policy, such as to comply with legal obligations, such as responding to subpoenas, court orders, and law enforcement requests, or to prevent serious threats, subject to applicable laws; to communicate with insurers and other individuals authorized to be included in your care; to communicate within our company to provide the Site to you; to provide information to our service providers and vendors as necessary to perform the Site; and to fulfil your requests or otherwise with your lawful consent as required under applicable privacy laws. Further, we may use information for marketing purposes, or aggregate or de-identified data, subject to the legal requirements under applicable laws.
+
+We keep records of PHI that you provide through the Site, which may include your health insurance information, medical prescription, and medical records if necessary, for as long as required or allowed under applicable laws, subject to any instructions from you and your insurer. Your insurer may also collect other information, such as your insurance plan information.
+
+Responsibilities with Respect to PHI 
+-------------------------------------
+
+HIPAA requires covered entities and business associates to:
+
+·         Maintain the privacy and security of your PHI
+
+·         Provide this HIPAA Notice about our duties and privacy practices regarding PHI
+
+·         Abide by the effective HIPAA Notice
+
+·         Notify you of any covered security breach of PHI
+
+HIPAA Rights for PHI
+--------------------
+
+If we have your PHI, you have the following rights, in addition to those in our Privacy Policy. We will respond to requests within the authorized time required. We may charge a reasonable fee if allowed by law. Your medical power of attorney or legal guardian may exercise your rights.
+
+·         Inspect and Amend. You may inspect, copy, and amend certain portions of your PHI. We will provide a copy or a summary. We will inform you of any denial of a request.
+
+·         Disclosures. You may request an accounting of the disclosures of your PHI, subject to certain limitations. You may also request restrictions on how we use or disclose your PHI. We will inform you of any denial of a request.
+
+·         Communications. You may request that we communicate with you in a specific way, such as by email, and we will comply with reasonable requests.
+
+·         Paper copies. You have the right to obtain a paper copy of this HIPAA Notice.
+
+HIPAA Notice Changes
+--------------------
+
+We may update the HIPAA Notice as outlined in our Privacy Policy, and we reserve the right to do so. Your continued use of the Site constitutes your acceptance of the terms of the effective HIPAA Notice. The effective date of this HIPAA Notice is the same as our Privacy Policy.
+
+Complaints  
+------------
+
+If you believe there has been a HIPAA violation, you may start a complaint by contacting us as outlined below. To file a complaint with the Secretary of Health and Human Site, you can contact them at (877) 696-6775, 200 Independence Avenue SW, Washington, DC 20201, [www.hhs.gov/ocr/privacy/hipaa/complaints](http://www.hhs.gov/ocr/privacy/hipaa/complaints). We will not retaliate against you or penalize you for asserting your privacy rights, such as filing a HIPAA complaint.
+
+Contact Us 
+-----------
+
+Please contact us with any questions or to assert your rights. We can be reached at:
+
+Easy Breathe, Inc.
+
+11859 Wilshire Blvd. Suite 110
+
+Los Angeles, CA 90025
 
 Subscribe to our newsletter for tips, discounts and more!
 
