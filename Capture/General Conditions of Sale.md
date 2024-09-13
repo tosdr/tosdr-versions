@@ -1,6 +1,6 @@
 [Skip to content](#MainContent)
 
-[Limited Time Offer! Unlock 40% OFF your entire order today with code SAVE40](https://www.capture.com/collections/all)
+[SIGN UP OFFER: Unlock 40% OFF your entire order today! Prices start at just $17.99](#)
 
      
 
