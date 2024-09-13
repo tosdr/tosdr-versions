@@ -133,29 +133,29 @@
 
 #### Latest news
 
-[![News app NC](/topic-and-subtopics/media-use-and-attitudes/attitudes-to-news/news-and-updates/tv-loses-its-crown-as-main-source-for-news/contentassets/news-app-nc.png?width=1920&height=1085&quality=80)
+[![woman holding tv remote and mug with pet on her lap.](/siteassets/resources/images/-news-centre/thumbnail-images/tv-and-on-demand/woman-holding-tv-remote-and-mug-with-pet-on-her-lap-web.jpg?width=1920&height=1085&quality=80)
 
-### TV loses its crown as main source for news
+### New ten-year public service broadcast licences for Channel 3 and Channel 5
 
-10 September 2024](https://www.ofcom.org.uk/media-use-and-attitudes/attitudes-to-news/tv-loses-its-crown-as-main-source-for-news/?language=en)
+12 September 2024](https://www.ofcom.org.uk/tv-radio-and-on-demand/public-service-broadcasting/new-ten-year-psb-licences-for-c3-and-c5/)
 
-[![MSOM-evaluation 1330x560](/topic-and-subtopics/media-use-and-attitudes/media-literacy/news-and-updates/what-works-in-media-literacy-evaluations/contentassets/msom-evaluation-1330x560.png?width=1920&height=1085&quality=80)
+[![A Wi-Fi router on a desk](/siteassets/resources/images/-news-centre/thumbnail-images/broadband/broadband-check-social.png?width=1920&height=1085&quality=80)
 
-### What works in Media Literacy evaluations
+### Simpler broadband switching is here
 
-9 September 2024](https://www.ofcom.org.uk/media-use-and-attitudes/media-literacy/what-works-in-media-literacy-evaluations/)
+12 September 2024](https://www.ofcom.org.uk/phones-and-broadband/switching-provider/simpler-broadband-switching-is-here/)
 
-[![Man using his mobile phone on the bus](/siteassets/resources/images/-news-centre/thumbnail-images/phones/mobile-matters-2024-web.jpg?width=1920&height=1085&quality=80)
+[![](/siteassets/resources/images/-news-centre/thumbnail-images/about-ofcom/ofcom-staff/melanie-connected-britain-web.png?width=1920&height=1085&quality=80)
 
-### Size doesn’t matter: Which mobile operator has the longest file download time?
+### Speech: Innovation and imagination: helping our industries lead the world
 
-6 September 2024](https://www.ofcom.org.uk/phones-and-broadband/mobile-phones/size-doesnt-matter-which-mobile-operator-has-the-longest-file-download-time/)
+11 September 2024](https://www.ofcom.org.uk/phones-and-broadband/telecoms-infrastructure/speech-innovation-and-imagination-helping-our-industries-lead-the-world/)
 
-[![Royal-Mail-van-sunshine-1336x560](/siteassets/resources/images/-news-centre/thumbnail-images/post/royal-mail-van-sunshine-1336x560.jpg?width=1920&height=1085&quality=80)
+[![Openreach](/siteassets/resources/images/-news-centre/body-images/openreach-web.jpg?width=1920&height=1085&quality=80)
 
-### Securing the future of the universal postal service
+### Monitoring Openreach’s independence
 
-5 September 2024](https://www.ofcom.org.uk/post/royal-mail/securing-the-future-of-the-universal-postal-service/)
+11 September 2024](https://www.ofcom.org.uk/phones-and-broadband/telecoms-infrastructure/monitoring-openreachs-independence/)
 
  [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/cookies-policy/?language=cy "Switch to Welsh")
 
