@@ -31,16 +31,6 @@ see more
 Cookie Policy of Hacker Noon
 ----------------------------
 
-To find more information on California consumers and their privacy rights, Users may [read the privacy policy](https://www.iubenda.com/privacy-policy/18778700/legal?from_cookie_policy=true&no_markup=false "Show the complete Privacy Policy").
-
-To find more information on Virginia consumers and their privacy rights, Users may [read the privacy policy](https://www.iubenda.com/privacy-policy/18778700/legal?from_cookie_policy=true&no_markup=false "Show the complete Privacy Policy").
-
-To find more information on Colorado consumers and their privacy rights, Users may [read the privacy policy](https://www.iubenda.com/privacy-policy/18778700/legal?from_cookie_policy=true&no_markup=false "Show the complete Privacy Policy").
-
-To find more information on Connecticut consumers and their privacy rights, Users may [read the privacy policy](https://www.iubenda.com/privacy-policy/18778700/legal?from_cookie_policy=true&no_markup=false "Show the complete Privacy Policy").
-
-To find more information on Utah consumers and their privacy rights, Users may [read the privacy policy](https://www.iubenda.com/privacy-policy/18778700/legal?from_cookie_policy=true&no_markup=false "Show the complete Privacy Policy").
-
 This document informs Users about the technologies that help this Website to achieve the purposes described below. Such technologies allow the Owner to access and store information (for example by using a Cookie) or use resources (for example by running a script) on a User’s device as they interact with this Website.
 
 For simplicity, all such technologies are defined as "Trackers" within this document – unless there is a reason to differentiate.  
@@ -52,36 +42,27 @@ This Website uses Trackers managed directly by the Owner (so-called “first-par
 The validity and expiration periods of Cookies and other similar Trackers may vary depending on the lifetime set by the Owner or the relevant provider. Some of them expire upon termination of the User’s browsing session.  
 In addition to what’s specified in the descriptions within each of the categories below, Users may find more precise and updated information regarding lifetime specification as well as any other relevant information — such as the presence of other Trackers — in the linked privacy policies of the respective third-party providers or by contacting the Owner.
 
-### Activities strictly necessary for the operation of this Website and delivery of the Service
+How this Website uses Trackers
+------------------------------
+
+### Necessary
 
 This Website uses so-called “technical” Cookies and other similar Trackers to carry out activities that are strictly necessary for the operation or delivery of the Service.
 
 #### Other Trackers
 
-* ### Hosting and backend infrastructure
-    
-    This type of service has the purpose of hosting Data and files that enable this Website to run and be distributed as well as to provide a ready-made infrastructure to run specific features or parts of this Website.
-    
-    Some services among those listed below, if any, may work through geographically distributed servers, making it difficult to determine the actual location where the Personal Data are stored.
-    
-    #### Vercel Inc.
+* ### Vercel Inc.
     
     Vercel provides a cloud platform for on-demand deployment, related hosting and sharing services and analytics tools ("Services"). See more at https://vercel.com/legal/privacy-policy
     
 
-### Other activities involving the use of Trackers
-
-#### Functionality
+### Functionality
 
 This Website uses Trackers to enable basic interactions and functionalities, allowing Users to access selected features of the Service and facilitating the User's communication with the Owner.
 
-* ### Registration and authentication
-    
-    By registering or authenticating, Users allow this Website to identify them and give them access to dedicated services.  
-    Depending on what is described below, third parties may provide registration and authentication services. In this case, this Website will be able to access some Data, stored by these third-party services, for registration or identification purposes.  
-    Some of the services listed below may also collect Personal Data for targeting and profiling purposes; to find out more, please refer to the description of each service.
-    
-    #### Facebook Oauth (Facebook, Inc.)
+#### Trackers managed by third parties
+
+* ### Facebook Oauth (Facebook, Inc.)
     
     Facebook Oauth is a registration and authentication service provided by Facebook, Inc. and is connected to the Facebook social network.
     
@@ -94,16 +75,25 @@ This Website uses Trackers to enable basic interactions and functionalities, all
     * \_fbp: 3 months
     
 
-#### Experience
+### Experience
 
 This Website uses Trackers to improve the quality of the user experience and enable interactions with external content, networks and platforms.
 
-* ### Displaying content from external platforms
+#### Trackers managed by third parties
+
+* ### Twitter Tweet button and social widgets (X Corp.)
     
-    This type of service allows you to view content hosted on external platforms directly from the pages of this Website and interact with them.  
-    This type of service might still collect web traffic data for the pages where the service is installed, even when Users do not use it.
+    The Twitter Tweet button and social widgets are services allowing interaction with the Twitter social network provided by Twitter, Inc.
     
-    #### YouTube video widget
+    Personal Data processed: Cookies and Usage Data.
+    
+    Place of processing: United States – [Privacy Policy](https://twitter.com/en/privacy).
+    
+    Storage duration:
+    
+    * personalization\_id: 2 years
+    
+* ### YouTube video widget
     
     YouTube is a video content visualization service provided by Google LLC or by Google Ireland Limited, depending on how the Owner manages the Data processing, that allows this Website to incorporate content of this kind on its pages.
     
@@ -117,35 +107,14 @@ This Website uses Trackers to improve the quality of the user experience and ena
     * VISITOR\_INFO1\_LIVE: 8 months
     * YSC: duration of the session
     
-* ### Interaction with external social networks and platforms
-    
-    This type of service allows interaction with social networks or other external platforms directly from the pages of this Website.  
-    The interaction and information obtained through this Website are always subject to the User’s privacy settings for each social network.  
-    This type of service might still collect traffic data for the pages where the service is installed, even when Users do not use it.  
-    It is recommended to log out from the respective services in order to make sure that the processed data on this Website isn’t being connected back to the User’s profile.
-    
-    #### Twitter Tweet button and social widgets (X Corp.)
-    
-    The Twitter Tweet button and social widgets are services allowing interaction with the Twitter social network provided by Twitter, Inc.
-    
-    Personal Data processed: Cookies and Usage Data.
-    
-    Place of processing: United States – [Privacy Policy](https://twitter.com/en/privacy).
-    
-    Storage duration:
-    
-    * personalization\_id: 2 years
-    
 
-#### Measurement
+### Measurement
 
-This Website uses Trackers to measure traffic and analyze User behavior to improve the Service.
+This Website uses Trackers to measure traffic and analyse User behaviour to improve the Service.
 
-* ### Analytics
-    
-    The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior.
-    
-    #### Google Analytics (Universal Analytics) (Google LLC)
+#### Trackers managed by third parties
+
+* ### Google Analytics (Universal Analytics) (Google LLC)
     
     Google Analytics (Universal Analytics) is a web analysis service provided by Google LLC (“Google”). Google utilizes the Data collected to track and examine the use of this Website, to prepare reports on its activities and share them with other Google services.  
     Google may use the Data collected to contextualize and personalize the ads of its own advertising network.
@@ -165,29 +134,21 @@ This Website uses Trackers to measure traffic and analyze User behavior to impro
     * \_gid: 1 day
     
 
-#### Marketing
+### How to manage preferences on this Website
 
-This Website uses Trackers to deliver personalized marketing content based on User behavior and to operate, serve and track ads.
-
-Some of the advertising services used by the Owner adhere to the [IAB Transparency and Consent Framework](https://iabeurope.eu/transparency-consent-framework/), an initiative that facilitates responsible privacy practices across the digital advertising industry - providing Users with enhanced transparency and control over how their data are used for advertising tracking purposes. Users can customize their advertising preferences at any time by accessing the advertising preferences panel from within the cookie notice or via the relevant link on this Website.
-
-This Website participates in the IAB Europe Transparency & Consent Framework and complies with its Specifications and Policies. This Website uses iubenda (identification number 123) as a Consent Management Platform.
-
-### How to manage preferences and provide or withdraw consent
-
-There are various ways to manage Tracker related preferences and to provide and withdraw consent, where relevant:
-
-Users can manage preferences related to Trackers from directly within their own device settings, for example, by preventing the use or storage of Trackers.
-
-Additionally, whenever the use of Trackers is based on consent, Users can provide or withdraw such consent by setting their preferences within the cookie notice or by updating such preferences accordingly via the relevant consent-preferences privacy widget, if available.
-
-It is also possible, via relevant browser or device features, to delete previously stored Trackers, including those used to remember the User’s initial consent preferences.
-
-Other Trackers in the browser’s local memory may be cleared by deleting the browsing history.
+Users can set or update their preferences via the relevant privacy choices panel available on this Website.
 
 With regard to any third-party Trackers, Users can manage their preferences via the related opt-out link (where provided), by using the means indicated in the third party's privacy policy, or by contacting the third party.
 
-#### Locating Tracker Settings
+#### How to control or delete Cookies and similar technologies via your device settings
+
+Users may use their own browser settings to:
+
+* See what Cookies or other similar technologies have been set on the device;
+* Block Cookies or similar technologies;
+* Clear Cookies or similar technologies from the browser.
+
+The browser settings, however, do not allow granular control of consent by category.
 
 Users can, for example, find information about how to manage Cookies in the most commonly used browsers at the following addresses:
 
@@ -278,4 +239,4 @@ This privacy statement has been prepared based on provisions of multiple legisla
 
 This privacy policy relates solely to this Website, if not stated otherwise within this document.
 
-Latest update: May 08, 2024
+Latest update: August 06, 2024
