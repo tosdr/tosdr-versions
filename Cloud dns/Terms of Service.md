@@ -166,12 +166,16 @@ Privacy Policy
 
 The Company's Privacy Policy is incorporated herein by reference and governs all collection, storage and usage of personal data. By accepting the terms and conditions in this section, the Customer expressly consents to the use and disclosure of his/her personally identifiable and other information as described in [the Privacy Policy](https://www.cloudns.net/privacy-policy/).
 
-The Company Website Information Use
------------------------------------
+Limitation Of Liability
+-----------------------
 
 The Customer can use the information posted at The Company’s Website for informational purpose only. The information at The Website cannot be used in any other way without a prior written consent from The Company. Third Parties Websites Use
 
 The Company has no liability or responsibility for the accuracy or suitability of content on a third party website that can be reached by using The Company website. The Customer’s use of any content from a third party website, including but not limited to, information, downloadable files, etc. is at The Customer’s own risk.
+
+In no event shall ClouDNS, nor its directors, employees, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, special, consequential, or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from (i) your access to or use of or inability to access or use the Service; (ii) any conduct or content of any third party on the Service; (iii) any content obtained from the Service; and (iv) unauthorized access, use or alteration of your transmissions or content, whether based on warranty, contract, tort (including negligence) or any other legal theory, whether or not we have been informed of the possibility of such damage, and even if a remedy set forth herein is found to have failed of its essential purpose.
+
+You shall indemnify and hold harmless the Domain Registry Operator and its directors, officers, employees, and agents from and against any and all claims, damages, liabilities, costs, and expenses (including reasonable legal fees and expenses) arising out of or related to the registrant’s domain name registration.
 
 Linked Websites
 ---------------
@@ -198,6 +202,8 @@ Governing Law
 
 The Customer agrees that this Agreement shall be governed in all respects by the laws and courts of the Republic of Bulgaria. The Customer agrees that any claim or dispute The Customer may have against ClouDNS must be resolved by a court located in the Republic of Bulgaria without reference to any governing law rules that would result in the application of the substantive law of any other jurisdiction; The Customer hereby waives all rights to any kind of legal actions in any other court and/or under any other law except those of the Republic of Bulgaria; The Customer agrees to submit to the personal jurisdiction of the courts located within the Republic of Bulgaria for the purpose of litigating all such claims or disputes. In any legal action, the prevailing party will be entitled to recover all legal expenses incurred in connection with the action, including but not limited to its costs, both taxable and non-taxable, and reasonable attorney's fees. These Terms are effective unless and until terminated by the Company.
 
+For the adjudication of disputes concerning or arising from use of the Registered Name, the Registered Name Holder shall submit, without prejudice to other potentially applicable jurisdictions, to the jurisdiction of the courts (1) of the Registered Name Holder's domicile and (2) where Registrar is located.
+
 Refund policy
 -------------
 
@@ -209,7 +215,9 @@ Refund policy
 
 2.2. Renewals of domain names are non-refundable.
 
-2.3. Transfers can be canceled if they are not confirmed or completed. In case The Customer want to cancel such transfer, he has to contact technical support team by chat or ticket, the payment will be refunded with deducted transaction fees.
+2.3. You agree that the registration of the domain name shall be subject to suspension, cancellation, or transfer pursuant to any Specification or Policy, or pursuant to any registrar or registry procedure not inconsistent with any Specification or Policy, (1) to correct mistakes by ClouDNS or the Registry Operator in registering the name or (2) for the resolution of disputes concerning the domain name.
+
+2.4. Transfers can be canceled if they are not confirmed or completed. In case The Customer want to cancel such transfer, he has to contact technical support team by chat or ticket, the payment will be refunded with deducted transaction fees.
 
 3\. SSL certificates - Sectigo offers unconditional 30 days money-back period. In case The Customer want to cancel newly purchased ssl certificate, he has to contact technical support team by chat or ticket. The payment will be refunded with deducted transaction fees.
 
@@ -253,6 +261,8 @@ DNS Hosting and Domain Name Rules
 * ClouDNS may remove any Content and Submissions at any time for any reason (including, but not limited to, upon receipt of claims or allegations from third parties or authorities relating to such Content or Submissions).
 * Customer may not harvest or collect information, including, without limitation, screen names, about other members or users of the Site or the Service. The use of any information learned through the Service or while in the Site is limited to the express purposes set forth in these Terms of Service; all other uses, including, without limitation, sending unsolicited bulk e-mail, are strictly prohibited.
 * ClouDNS may, at its sole discretion, immediately terminate Customer's access to the Site and/or the Service should Customer's conduct fail to conform strictly and terms or conditions of these Terms of Service, including, without limitation, with any provision of this section.
+* During the registration process, you will be asked in the wizard if you agree to our terms and conditions and the registry policies. The links to all documents will be provided. Your confirmation will be stored in our database together with a timestamp, IP address, and browser details.
+    
 
 3\. The customer agrees that his DNS zones can be deleted, if they are inactive (there are no DNS queries for the DNS zone) for over 30 days, especially if he is using free DNS hosting plan without prior notification.
 
@@ -270,6 +280,17 @@ Customer service and complaints
 -------------------------------
 
 ClouDNS provides 24/7 available livechat and e-mail (also known as tickets) communication for customer service, technical support and complaints. All contacts are available in our [Contacts page](https://www.cloudns.net/contact/). Livechat provides a connection to the ClouDNS staff in real time. In some cases it is possible the livechat to be offline or unavailable due to technical or other issues. In such cases you can reach our staff by e-mail. Based on the case and required actions, response to the received e-mails may take up to 1 business day.
+
+Data Accuracy
+-------------
+
+You as Domain Registrant shall provide ClouDNS accurate and reliable contact details and correct and update them within seven (7) days of any change during the term of the domain registration, including the full name, postal address, e-mail address, telephone number, and fax number if available – for the domain name registrant; the name of an authorized person for contact purposes in the case of a registrant that is an organization; the same personal and contact details for domain administrative, technical or billing contacts; the nameserver(s) for the domain name.
+
+Registrant's willful provision of inaccurate or unreliable information, registrant's willful failure to update the information provided to ClouDNS within seven (7) days of any change, or your failure to respond for over fifteen (15) days to inquiries by ClouDNS concerning the accuracy of contact details associated with the domain registration shall constitute a material breach of this contract and be a basis for suspension and/or cancellation of the domain registration.
+
+If domain registrant intend to license the use of a domain name to a third party, you are nonetheless the registrant of record and are responsible for providing your own full contact information and for providing and updating accurate technical and administrative contact information adequate to facilitate timely resolution of any problems that arise in connection with the domain name. A licensing use of a domain according to this provision shall accept liability for harm caused by wrongful use of the domain unless it discloses the current contact information provided by the licensee and the identity of the licensee within seven (7) days to a party providing the domain registrant reasonable evidence of actionable harm.
+
+If you purchased a domain through our aftermarket service, you are obliged to change the registrant of record to your own registrant details, within seven (7) days of the purchase. If you do not change the registrant details, we reserve the right to lock your domain until you comply with the requirement. Our support team will assist with the manual changes.
 
 Additional Domain Names Rules
 -----------------------------
