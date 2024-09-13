@@ -2,12 +2,12 @@
 
 [](https://ethereum.org/en/)
 
-Search
+search
 
 1. [Home](https://ethereum.org/en/)/
 2. Cookie policy
 
-Page last updated: August 15, 2023
+Page last updated: August 8, 2024
 
 On this page
 
@@ -19,7 +19,7 @@ Cookie Policy
 Our Websites may use cookies to distinguish you from other users of our Websites. This may help us to provide you with a good experience when you browse our Websites and may also allow us to improve our Websites. By continuing to browse the Websites, you are agreeing to our use of cookies as well as the terms of this policy (the “Cookie Policy”). A cookie is a small file of letters and numbers that we may store on your browser or the hard drive of your computer if you agree. Cookies contain information that is transferred to your computer's hard drive. We may use the following cookies:
 
 * **Strictly necessary cookies.** These are cookies that are required for the operation of our websites. They include, for example, cookies that enable you to log into secure areas of our websites, use a shopping cart or make use of e-commerce payment processing services.
-* **Analytical/performance cookies.** They allow us to recognise and count the number of visitors and to see how visitors move around our websites when they are using it. This may help us to improve the way our websites work, for example, by ensuring that users are finding what they are looking for easily.
+* **Analytical/performance cookies.** They allow us to recognise and count the number of visitors and to see how visitors move around our websites when they are using them. This may help us to improve the way our websites work, for example, by ensuring that users are finding what they are looking for easily.
 * **Functionality cookies.** These cookies are used to recognise you when you return to our websites. They may enable us to personalise our content for you, greet you by name, or remember your preferences (for example, your choice of language or region).
 * **Targeting cookies.** These cookies record your visit to our websites, the pages you have visited and the links you have followed.
 
@@ -38,15 +38,15 @@ You can block cookies by activating the setting on your browser that allows you 
 
 Except for essential cookies, all cookies will expire after two years.
 
-### Was this article helpful?
+#### Was this article helpful?
 
 YesNo
 
-* On this page
-    
-    * [Cookie Policy](#cookie-policy)
+On this page
 
-Website last updated: July 24, 2024
+* [Cookie Policy](#cookie-policy)
+
+Website last updated: September 4, 2024
 
 Go to top
 
