@@ -6,7 +6,7 @@
     
 * Get Help
     
-    [Manual](https://theforeman.org/manuals/latest/index.html) [Plugins](https://theforeman.org/plugins/) [API docs](https://apidocs.theforeman.org/foreman/latest/apidoc/v2.html) [Training](https://theforeman.org/training.html) [Support](https://theforeman.org/support.html) [Professional Services](https://theforeman.org/professional-services.html)
+    [Manual](https://theforeman.org/manuals/latest/index.html) [Plugins](https://theforeman.org/plugins/) [Foreman API docs](https://apidocs.theforeman.org/foreman/latest/apidoc/v2.html) [Foreman+Katello API docs](https://apidocs.theforeman.org/katello/latest/apidoc/v2.html) [Training](https://theforeman.org/training.html) [Support](https://theforeman.org/support.html) [Professional Services](https://theforeman.org/professional-services.html)
     
 * Get involved
     
@@ -173,9 +173,9 @@ Changes to this Privacy Statement
 
 Foreman reserves the right to update this policy from time to time. Material changes will be posted to the [Announcements list](https://community.theforeman.org/c/release-announcements) and posted to the front page of the [website](https://theforeman.org/). This policy was last updated on 10th May 2024.
 
-Foreman 3.11.1 has been released! [Follow the quick start to install it.](https://theforeman.org/manuals/3.11/quickstart_guide.html)
+Foreman 3.11.2 has been released! [Follow the quick start to install it.](https://theforeman.org/manuals/3.11/quickstart_guide.html)
 
-Foreman 3.10.0 has been released! [Follow the quick start to install it.](https://theforeman.org/manuals/3.10/quickstart_guide.html)
+Foreman 3.10.1 has been released! [Follow the quick start to install it.](https://theforeman.org/manuals/3.10/quickstart_guide.html)
 
 View our [Privacy Policy](https://theforeman.org/privacy.html)
 
