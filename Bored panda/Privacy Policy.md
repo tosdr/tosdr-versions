@@ -102,7 +102,13 @@ By using our services you agree to our use of cookies to improve your visit. You
 
 Agree
 
-[BoredPanda](https://www.boredpanda.com/) [Log in](javascript:void(0);) [_Add post form top_Add Post](https://www.boredpanda.com/add-new-post/)
+[BoredPanda](https://www.boredpanda.com/) [Log in](javascript:void(0);)
+
+[](javascript:void(0);)
+
+[_Add post form top_Add Post](https://www.boredpanda.com/add-new-post/)
+
+[](https://www.boredpanda.com/games/)
 
 [](javascript:void(0);)
 
@@ -224,6 +230,8 @@ Agree
 
 * [](javascript:void(0);)
     
+* [](https://www.boredpanda.com/games/)
+    
 * [](javascript:void(0);)
     
 * [_Add post form top_ Add post](https://www.boredpanda.com/add-new-post/)
@@ -233,6 +241,7 @@ Agree
 * [Trending](https://www.boredpanda.com/?show=trending)
 * [Latest](https://www.boredpanda.com/?show=recent)
 * [Newsletter](https://www.boredpanda.com/bored-panda-newsletter/)
+*  [![](https://assets.boredpanda.com/blog/wp-content/themes/boredpanda/images/icons/ic_games_link.svg)](https://www.boredpanda.com/games/)[Games](https://www.boredpanda.com/games/)
 
 [**The Bored Panda iOS app is live!**](https://itunes.apple.com/app/apple-store/id1001593357?pt=117833574&ct=Website%20Top%20Message&mt=8) Fight boredom with iPhones and iPads [**here**](https://itunes.apple.com/app/apple-store/id1001593357?pt=117833574&ct=Website%20Top%20Message&mt=8).[](javascript:void(0);)
 
