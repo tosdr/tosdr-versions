@@ -1,6 +1,6 @@
 [Skip to content](#main)
 
-[**LABOR DAY SALE!! - Up to 50% Off 🦍**](https://www.gorillagrowtent.com/collections/lotus-nutrients "https://www.gorillagrowtent.com/collections/lotus-nutrients")
+[**BACK TO THE INDOOR SALE!! - Up to 50% Off 🦍**](https://www.gorillagrowtent.com/collections/lotus-nutrients "https://www.gorillagrowtent.com/collections/lotus-nutrients")
 
 [Lotus Premium Plant Nutrients![](//lotusnutrients.com/cdn/shop/files/Lotus-Logo.webp?v=1683572191&width=409)](https://lotusnutrients.com/)
 
