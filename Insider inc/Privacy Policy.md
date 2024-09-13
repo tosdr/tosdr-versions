@@ -4,13 +4,13 @@ Please ensure Javascript is enabled for purposes of [website accessibility](http
 
 [](https://www.insider-inc.com/search)
 
-[What We Do](https://www.insider-inc.com/#home-brand-bi) [Who We Are](https://www.insider-inc.com/who-we-are) [Advertise With Us](https://info.insider.com/advertising_media_kit)
+[What We Do](https://www.insider-inc.com/#home-brand-bi) [Who We Are](https://www.insider-inc.com/who-we-are) [Advertise With Us](https://advertising.businessinsider.com/?utm_campaign=2024_Brand_AdvertisingLaunch&utm_content=AdvertiseWithUs&utm_medium=website&utm_source=InsiderInc)
 
 [News](https://www.insider-inc.com/news) [Careers](https://www.insider-inc.com/careers) [Contact Us](https://www.businessinsider.com/contact)
 
 [](https://twitter.com/InsiderInc)[](https://www.linkedin.com/company/insider-inc/)
 
-[What We Do](https://www.insider-inc.com/#home-brand-bi)[Who We Are](https://www.insider-inc.com/who-we-are)[Advertise With Us](https://info.insider.com/advertising_media_kit)
+[What We Do](https://www.insider-inc.com/#home-brand-bi)[Who We Are](https://www.insider-inc.com/who-we-are)[Advertise With Us](https://advertising.businessinsider.com/?utm_campaign=2024_Brand_AdvertisingLaunch&utm_content=AdvertiseWithUs&utm_medium=website&utm_source=InsiderInc)
 
 [![Insider Inc.](//images.squarespace-cdn.com/content/v1/5bbb7c1bca525b7d8aa66d29/1544556700340-UQPR9FTO9NAA1UYAV0MU/Logo.png?format=1500w)](https://www.insider-inc.com/)
 
