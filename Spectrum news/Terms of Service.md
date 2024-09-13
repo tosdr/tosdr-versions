@@ -204,6 +204,7 @@ Have you recently published new research in neuroscience?
 * [The Team](https://www.thetransmitter.org/staff/)
 * [Partners](https://www.thetransmitter.org/partners/)
 * [Newsletters](https://www.thetransmitter.org/newsletters/)
+* [Announcements](https://www.thetransmitter.org/announcements/)
 * [RSS](https://www.thetransmitter.org/feed/)
 * [Terms and Conditions](https://www.thetransmitter.org/terms-and-conditions/)
 * [Editorial Policies](https://www.thetransmitter.org/editorial-policies/)
