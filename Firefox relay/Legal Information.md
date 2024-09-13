@@ -19,7 +19,7 @@ Please download Firefox ESR (Extended Support Release) to use Firefox.
 
 [Download Firefox ESR 32-bit](https://download.mozilla.org/?product=firefox-esr-latest-ssl&os=win&lang=en-US)
 
-[Download a different build](https://www.mozilla.org/en-US/firefox/all/#product-desktop-esr)
+[Download a different build](https://www.mozilla.org/en-US/firefox/all/desktop-esr/)
 
 **Firefox is [no longer supported](https://support.mozilla.org/kb/firefox-users-macos-1012-1013-1014-moving-to-extended-support) on macOS 10.14 and below.**
 
@@ -65,7 +65,7 @@ Please download Firefox ESR (Extended Support Release) to use Firefox.
         
     * [#### Release Notes
         
-        Get the details on the latest Firefox updates.](https://www.mozilla.org/firefox/128.0.3/releasenotes/)
+        Get the details on the latest Firefox updates.](https://www.mozilla.org/firefox/130.0/releasenotes/)
         
     
     [View all Firefox Browsers](https://www.mozilla.org/en-US/firefox/)
@@ -227,7 +227,7 @@ In addition, if you have provided consent to data collection within the applicat
     
 * [Amazon Web Services (AWS).](https://aws.amazon.com/privacy/) Mozilla Monitor uses AWS so as to be able to email you in connection with the Mozilla Monitor Service, which includes Full Reports, Breach Alerts, and Safety Tips. This data will be deleted when you unsubscribe from your Monitor subscription.
     
-* [Formstack.](https://www.formstack.com/) Mozilla Monitor uses Formstack to capture feedback optionally provided by users on account cancellation. For information on Formstack’s privacy practices, see the [Formstack Privacy Policy](https://www.formstack.com/legal).
+* [Formstack.](https://www.formstack.com/) Mozilla Monitor uses Formstack to capture feedback optionally provided by users. For information on Formstack’s privacy practices, see the [Formstack Privacy Policy](https://www.formstack.com/legal).
     
 * [Google Analytics.](https://marketingplatform.google.com/about/analytics/) Mozilla Monitor uses Google Analytics to obtain metrics on how users engage with our websites. This helps us to improve site content. For more information about how Google uses your personal information, please visit [Google Analytics’ Privacy & Security](https://support.google.com/analytics/topic/2919631?&ref_topic=1008008&sjid=14989286036636170427-NA). You can install the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) to prevent data collection about your visits to the Service and prohibit data transmission to Google Analytics.
     
