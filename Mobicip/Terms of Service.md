@@ -2,7 +2,7 @@
 
 Start Free Trial
 
-Hurry up! Ends 9/15](https://www.mobicip.com/pricing)
+Hurry up! Ends 9/30](https://www.mobicip.com/pricing)
 
 [](https://www.mobicip.com/ "Mobicip")
 
