@@ -205,27 +205,23 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [The Mind-Blowing Cover Art of Classic D&D](https://www.somethingawful.com/dungeons-and-dragons/classic-dungeons-dragons/1/)
-* [The Hangover Part II; Kung Fu Panda 2; MILF](https://www.somethingawful.com/current-movie-reviews/hangover-part-ii/1/)
-* [SEA OF DOGS](https://www.somethingawful.com/news/sea-dog-classifieds/)
-* [Beast Forum](https://www.somethingawful.com/weekend-web/beastforum/1/)
-* [The Lawnchair Sniper!](https://www.somethingawful.com/comedy-goldmine/lawnchair-sniper/1/)
+* [i started working on this car yesterday and im still working on it today](https://www.somethingawful.com/comedy-goldmine/still-working-car/)
+* [Emotinomicon: Emoticons of the Dead](https://www.somethingawful.com/news/emotinomicon-emoticons-dead/)
+* [Herein Lies the Promise of J. F. Swanton](https://www.somethingawful.com/news/fur-trapper-promise/)
+* [Indiana Jones and the Crossovers of Doom](https://www.somethingawful.com/photoshop-phriday/indiana-jones-crossovers/1/)
+* [E-mail Reaction to SA's Sarah Palin Apology](https://www.somethingawful.com/news/email-palin-apology/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/books.png) [I will make you a Lord of the Rings character, based mostly on your name](http://forums.somethingawful.com/showthread.php?threadid=4070054 "I will make you a Lord of the Rings character, based mostly on your name")
-* ![](https://fi.somethingawful.com/forums/posticons/pi-cock.png) [are peaches supposed to be soft](http://forums.somethingawful.com/showthread.php?threadid=4070028 "are peaches supposed to be soft")
-* ![](https://fi.somethingawful.com/forums/posticons/byob-slayer.gif) [I can not be the first person to call Seth](http://forums.somethingawful.com/showthread.php?threadid=4070102 "I can not be the first person to call Seth")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/school.png) [Did you have to watch Clean Teen Kenneth Jones?](http://forums.somethingawful.com/showthread.php?threadid=4070031 "Did you have to watch Clean Teen Kenneth Jones?")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/event.png) [Halloween 2024](http://forums.somethingawful.com/showthread.php?threadid=4070039 "Halloween 2024")
+* ![](https://fi.somethingawful.com/forums/posticons/fyad-mystery.gif) [Can some sea goon ID this cool boat for me](http://forums.somethingawful.com/showthread.php?threadid=4070248 "Can some sea goon ID this cool boat for me")
 
 ### Random Articles
 
-* [Bling H20](https://www.somethingawful.com/awful-links/bling-h20/)
-* [Cut-Rate Books! (Part Two of Two)](https://www.somethingawful.com/photoshop-phriday/cutrate-books/1/)
-* [SIGA](https://www.somethingawful.com/awful-links/awful-link-1709/)
-* [Too Long; Didn't See!](https://www.somethingawful.com/comedy-goldmine/cave-dwellers-filmguess/1/)
-* [OLDWALLET.com: Great Deals from Local Seniors!](https://www.somethingawful.com/news/oldwallet4/1/)
+* [Whose Nokia Cellphone Keeps Ruining the Clash’s Rock the Casbah?](https://www.somethingawful.com/news/clash-casbah-cellphone/)
+* [X-files Shipper Fic by Livasnaps](https://www.somethingawful.com/awful-links/awful-link-768/)
+* [The Forgotten Permutations Of Green Day](https://www.somethingawful.com/music-article/green-day-permutations/)
+* [Variety Pack #26: Fishin' Politicians and The First Lady!](https://www.somethingawful.com/photoshop-phriday/politicians-fishin-michelleobama/1/)
+* [The Ultimate Gamer](https://www.somethingawful.com/awful-links/awful-link-3664/)
 
 [Random!](https://www.somethingawful.com/random/)
 
