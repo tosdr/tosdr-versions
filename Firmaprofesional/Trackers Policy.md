@@ -4,7 +4,7 @@ Información [934 774 245](tel:934774245) | [915 762 181](tel:915762181)
 
 Soporte de 9:00 h. a 19:00 h.
 
-[![Firmaprofesional](https://firmaprofesional.com/wp-content/uploads/2021/07/Firmaprofesional-20_años_menu.png)](https://firmaprofesional.com/)
+[![Firmaprofesional](https://firmaprofesional.com/wp-content/uploads/2019/07/Firmaprofesional_Digital_Color_Pequeno.png)](https://firmaprofesional.com/)
 
 * [Soluciones](https://firmaprofesional.com/soluciones-para-la-gestion-de-certificados-digitales/)
     * [Firmacloud](https://firmaprofesional.com/soluciones-para-la-gestion-de-certificados-digitales/firmacloud/)
@@ -127,8 +127,6 @@ Cookies usadas por Google Analytics :
 
 En cualquier caso, puedes inhabilitar las cookies de Google Analytics desde [aquí](https://tools.google.com/dlpage/gaoptout)
 
-![Logo Firmaprofesional](https://firmaprofesional.com/wp-content/uploads/2019/07/logo_footer.png)
-
 #### SOMOS
 
 [Sobre nosotros](https://firmaprofesional.com/somos-firmaprofesional/)  
@@ -143,7 +141,7 @@ En cualquier caso, puedes inhabilitar las cookies de Google Analytics desde [aq
 [Trabaja con nosotros](https://empleo.firmaprofesional.com/)  
 [Canal de denuncias](https://start.regtechsolutions.es/es/complaintchannel/report/1992c79e-0045-4b52-a484-c67828038f63)
 
-![](https://firmaprofesional.com/wp-content/uploads/2021/07/Firmaprofesional-20_años_footer.png)
+![](https://firmaprofesional.com/wp-content/uploads/2024/09/Logo-FP_White.png)
 
 #### OFRECEMOS
 
@@ -167,18 +165,13 @@ En cualquier caso, puedes inhabilitar las cookies de Google Analytics desde [aq
 
 **BARCELONA**  
 Passeig de Gracia 50, 2º1º  
-08007 Barcelona  
-+34 934 774 245
+08007 Barcelona
 
 **MADRID**  
 Edif. Amura  
-c/ de Cantabria, 5  
+c/ de Cantabria, 2  
 28108 Alcobendas  
-+34 915 762 181
-
-#### PRESTADOR CUALIFICADO
-
-[![Logo Ministerio Asuntos Economicos y transformacion digital](https://firmaprofesional.com/wp-content/uploads/2020/12/download.png "ACREDITACIONES")](https://sedeaplicaciones.minetur.gob.es/Prestadores/)
+Madrid
 
 [![](https://firmaprofesional.com/wp-content/uploads/2024/06/eidas-negativo-firma.png)](https://eidas.ec.europa.eu/efda/tl-browser/#/screen/tl/ES/17)
 
@@ -190,4 +183,4 @@ c/ de Cantabria, 5
 
 [![ISO9001 Firmaprofesional](https://firmaprofesional.com/wp-content/uploads/2024/05/firmaprofesional_1s_talogo_qm_23-e1717068612393.png)](https://firmaprofesional.com/wp-content/uploads/pdfs/ISO9001_Firmaprofesional_esp_2024.pdf)
 
-© Copyright 2024 Firmaprofesional | [AVISO LEGAL](https://www.firmaprofesional.com/aviso-legal) | [POLÍTICA DE PRIVACIDAD](https://www.firmaprofesional.com/aviso-legal#politica-de-privacidad) | [COOKIES](https://www.firmaprofesional.com/cookies/)
+© 2024 Firmaprofesional | [AVISO LEGAL](https://www.firmaprofesional.com/aviso-legal) | [POLÍTICA DE PRIVACIDAD](https://www.firmaprofesional.com/aviso-legal#politica-de-privacidad) | [COOKIES](https://www.firmaprofesional.com/cookies/)
