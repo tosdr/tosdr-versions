@@ -1,6 +1,6 @@
 ![](https://www.facebook.com/tr?id=781049163457265&ev=PageView&noscript=1)        
 
-            
+             
 
 [Skip to content](#MainContent)
 
@@ -128,7 +128,7 @@ Check out
 
 Continue shopping
 
-         
+           
 
 [![cow colostrum with vitamin d3](https://ucarecdn.com/bcbf385c-7e91-47a8-b02e-40cf92f5065e/-/format/auto/-/preview/3000x3000/-/quality/lighter/WhatsApp%20Image%202023-11-08%20at%205.01.37%20PM.jpeg)](https://aadvikfoods.com/products/cow-colostrum-powder)
 
@@ -137,14 +137,25 @@ White Gold of Desert - Camel Milk
 
 Long revered as the "white gold" of the desert, camel milk offers a taste of resilience and tradition. Nomadic cultures have cherished this unique beverage for centuries, and now, its unique properties are captivating the world. Dive deeper to discover the secrets of camel milk and explore its surprisingly versatile uses.
 
-Milk Powder
-===========
+Pure and Natural
+================
+
+Goat Milk Ghee
+==============
 
 [![Goat Milk Powder | Pure & Natural | 200g](//aadvikfoods.com/cdn/shop/files/Revised_Images3_2048x2048.jpg?v=1719209311)](https://aadvikfoods.com/products/goat-milk-powder)
 
 ### [Goat Milk Powder | Pure & Natural | 200g](https://aadvikfoods.com/products/goat-milk-powder)
 
 Rs. 1,299.00Rs. 1,262.00
+
+Buy Now
+
+[![Camel Milk Powder | Pure and Natural | Sachets](//aadvikfoods.com/cdn/shop/files/WhatsApp_Image_2024-06-24_at_12.04.52_PM_2048x2048.jpg?v=1719223534)](https://aadvikfoods.com/products/camel-milk-powder-sachets)
+
+### [Camel Milk Powder | Pure and Natural | Sachets](https://aadvikfoods.com/products/camel-milk-powder-sachets)
+
+Rs. 1,449.00Rs. 1,423.00
 
 Buy Now
 
@@ -159,14 +170,14 @@ Buy Now
 Pure & Natural
 ==============
 
-Raw Camel Milk Powder
-=====================
+Goat Milk Ghee
+==============
 
-Discover the goodness of our raw camel milk powder, straight from nature. Packed with protein, vitamins, and minerals, it's great for your health. Plus, it's pure and natural, making it ideal choice for you. It offers unique benefits, supporting  overall well-being.
+Discover the goodness of Goat Milk Ghee straight from nature. Packed with protein, vitamins, and minerals, it's great for your health. Plus, it's pure and natural, making it ideal choice for you. It offers unique benefits, supporting  overall well-being.
 
-[Explore](https://aadvikfoods.com/pages/camel-milk)
+[Explore](https://aadvikfoods.com/products/goat-milk-ghee-100-pure-natural)
 
-[![](https://ucarecdn.com/7c5b22cc-cfe3-4590-8eca-8d509b60843c/-/format/auto/-/preview/3000x3000/-/quality/lighter/Raw-Camel-Milk.jpg)](https://aadvikfoods.com/products/raw-camel-milk-powder)
+[![](https://ucarecdn.com/b70b83ce-2b24-4dca-bdc8-ac646f52c10f/-/format/auto/-/preview/3000x3000/-/quality/lighter/goat%20ghee%204.png)](https://aadvikfoods.com/products/raw-camel-milk-powder)
 
 Premium Chocolates
 ==================
