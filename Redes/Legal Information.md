@@ -33,12 +33,18 @@ Portales de Red.es
     * [Qué hacemos](http://red.es/es/sobre-nosotros/que-hacemos)
     * [Quiénes somos](http://red.es/es/sobre-nosotros/quienes-somos)
     * [Sistemas de Gestión Corporativos](http://red.es/es/sobre-nosotros/sistemas-de-gestion-corporativos)
-    * [Transparencia y Buen Gobierno](http://red.es/es/sobre-nosotros/transparencia-y-buen-gobierno)
     * [Trabaja con nosotros](http://red.es/es/sobre-nosotros/trabaja-con-nosotros)
+* [Transparencia](http://red.es/es/sobre-nosotros/transparencia-y-buen-gobierno)
 
 Buscar
 
 You must have JavaScript enabled to use this form.
+
+ 
+
+    
+
+ 
 
 **¿Quieres descubrir todo lo que te ofrecemos en red.es?** [Explorar todo el contenido](http://red.es/buscador)
 
@@ -51,8 +57,8 @@ You must have JavaScript enabled to use this form.
     * [Qué hacemos](http://red.es/es/sobre-nosotros/que-hacemos)
     * [Quiénes somos](http://red.es/es/sobre-nosotros/quienes-somos)
     * [Sistemas de Gestión Corporativos](http://red.es/es/sobre-nosotros/sistemas-de-gestion-corporativos)
-    * [Transparencia y Buen Gobierno](http://red.es/es/sobre-nosotros/transparencia-y-buen-gobierno)
     * [Trabaja con nosotros](http://red.es/es/sobre-nosotros/trabaja-con-nosotros)
+* [Transparencia](http://red.es/es/sobre-nosotros/transparencia-y-buen-gobierno)
 
 Nuestros portales
 
@@ -78,7 +84,7 @@ Idioma
 
 Un punto y seguido en la transformación digital
 
-   ![KC_Abierta_Convocatoria](/sites/redes/files/styles/mosaico_grande_dcha_sm/public/media/images/KC_abierta%20convocatoria_1400px.png?h=30c5353c&itok=4GeUNFAb)
+       ![KC_Abierta_Convocatoria](/sites/redes/files/styles/mosaico_grande_dcha_sm/public/media/images/KC_abierta%20convocatoria_1400px.png?h=30c5353c&itok=I306YWSJ)
 
 Noticia
 
@@ -90,7 +96,7 @@ El plazo de presentación de las solicitudes se realiza a través de la sede ele
 
 [La ayuda del programa Kit Consulting ya se puede solicitar para acceder a bonos de asesoramiento digital especializado](http://red.es/es/actualidad/noticias/la-ayuda-del-programa-kit-consulting-ya-se-puede-solicitar-para-acceder-bonos "Ir al contenido de: La ayuda del programa Kit Consulting ya se puede solicitar para acceder a bonos de asesoramiento digital especializado")
 
-![Kit Digital. Genérica](/sites/redes/files/styles/ratio_1_1/public/media/images/Kit%20digital%202.png?h=e25c4709&itok=OutC1Lyp)
+![Kit Digital. Genérica](/sites/redes/files/styles/ratio_1_1/public/media/images/Kit%20digital%202.png?h=e25c4709&itok=F7Yh6zdv)   
 
 Noticia
 
@@ -100,7 +106,7 @@ Las empresas de menos de 3 trabajadores ya pueden pedir su bono de 3.000 euros d
 
 [Las empresas de menos de 3 trabajadores ya pueden pedir su bono de 3.000 euros de Kit Digital](http://red.es/es/actualidad/noticias/las-empresas-de-menos-de-3-trabajadores-ya-pueden-pedir-su-bono-de-3000-euros "Ir al contenido de: Las empresas de menos de 3 trabajadores ya pueden pedir su bono de 3.000 euros de Kit Digital")
 
-![Smart City Expo World Congress 2024](/sites/redes/files/styles/ratio_1_1/public/media/images/SC_NOTIWEB.png?h=b878dce1&itok=cmNnGqho)
+![Smart City Expo World Congress 2024](/sites/redes/files/styles/ratio_1_1/public/media/images/SC_NOTIWEB.png?h=b878dce1&itok=jWdH64nl)   
 
 Noticia
 
@@ -131,13 +137,11 @@ Red.es lanza el Bono de Conectividad: 48 millones de euros para pymes y autónom
 
 Para empresas, pymes y emprendedores
 
-   ![](/sites/redes/files/styles/ratio_1_1/public/media/images/acelerapyme.png?h=f33afb83&itok=enbBcUck)
+       ![](/sites/redes/files/styles/ratio_1_1/public/media/images/acelerapyme.png?h=f33afb83&itok=SFH1RA0c)
 
 Acelera pyme
 
 ![LOGO FEDER](/sites/redes/files/inline-images/LOGO_FDER_transparente_0%20%281%29_4.png)
-
-  
 
 Esta iniciativa desarrollada por Red.es, entidad dependiente de la [Secretaría de Estado de Digitalización e Inteligencia Artificial](https://portal.mineco.gob.es/es-es/digitalizacionIA/Paginas/sedia.aspx), se enmarca en el Plan de...
 
@@ -147,13 +151,11 @@ Esta iniciativa desarrollada por Red.es, entidad dependiente de la [Secretaría 
 
 Para la ciudadanía
 
-   ![](/sites/redes/files/styles/ratio_1_1/public/media/images/talento%20digital.png?h=55542b95&itok=8_eFCGfQ)
+       ![](/sites/redes/files/styles/ratio_1_1/public/media/images/talento%20digital.png?h=55542b95&itok=nY4ztmBV)
 
 Talento Digital
 
 ![Logo FDER](/sites/redes/files/inline-images/LOGO_FDER_transparente_7.png)
-
-  
 
 La iniciativa de Talento Digital tiene como objetivo facilitar la empleabilidad en el ámbito de la economía digital, favoreciendo tanto el acceso, como una mayor...
 
@@ -163,15 +165,13 @@ La iniciativa de Talento Digital tiene como objetivo facilitar la empleabilidad 
 
 Para las administraciones y servicios públicos
 
-   ![](/sites/redes/files/styles/ratio_1_1/public/media/images/5G_0.png?h=e6a33e25&itok=ZzpaxOiE)
+       ![](/sites/redes/files/styles/ratio_1_1/public/media/images/5G_0.png?h=e6a33e25&itok=NPFD01WV)
 
 Tecnología 5G
 
 ![FEDER](/sites/redes/files/inline-images/LOGO_FDER_transparente_1.png)
 
-  
-
-Red.es lleva a cabo las convocatorias para fomentar el desarrollo de proyectos y experiencias piloto de tecnología 5G, que se enmarcan en el Plan Nacional 5G y...
+Red.es lleva a cabo las convocatorias para fomentar el desarrollo de proyectos y experiencias piloto de tecnología 5G, que se enmarcan en el Plan Nacional 5G y en...
 
 [Tecnología 5G](http://red.es/es/iniciativas/tecnologia-5g "Ir al contenido de: Tecnología 5G")
 
