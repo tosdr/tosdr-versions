@@ -1,232 +1,35 @@
-Language
+![hw-icon](https://a.hwstatic.com/raw/upload/f_auto,q_auto/wds/logos/brand/hw-icon.svg "hw-icon")
 
-* English
-    
-* Français
-    
-* Deutsch
-    
-* Español
-    
-* Italiano
-    
-* Português
-    
-* Português (Brasil)
-    
-* Svenska
-    
-* Polski
-    
-* Suomi
-    
-* Dansk
-    
-* Nederlands
-    
-* Norsk
-    
-* český
-    
-* Русский
-    
-* Türk
-    
-* 中文
-    
-* 日本語
-    
-* 한국어
-    
+Where do you want to go?
 
-[![Hostelworld](https://a.hwstatic.com/raw/upload/f_auto,q_auto/wds/logos/brand/hw-full.svg "Hostelworld")](https://www.hostelworld.com/)
+Dates
 
- Where do you want to go?
+Guests
 
- Dates
+Where do you want to go?
 
- Guests
+Check In
 
- Where do you want to go?
+Check Out
 
- Check In
+Dates
 
- Check Out
-
- Dates
-
- Guests
+Guests
 
 Let's go!
 
 Destination Dates Guests
 
- Where do you want to go?
+Where do you want to go?
 
 * Current Location
     
 
- Check In
+Check In
 
- Check Out
+Check Out
 
 3 nights selected
-
-July 2024
-
-Mon
-
-Tue
-
-Wed
-
-Thu
-
-Fri
-
-Sat
-
-Sun
-
-1
-
-2
-
-3
-
-4
-
-5
-
-6
-
-7
-
-8
-
-9
-
-10
-
-11
-
-12
-
-13
-
-14
-
-15
-
-16
-
-17
-
-18
-
-19
-
-20
-
-21
-
-22
-
-23
-
-24
-
-25
-
-26
-
-27
-
-28
-
-29
-
-30
-
-31
-
-August 2024
-
-Mon
-
-Tue
-
-Wed
-
-Thu
-
-Fri
-
-Sat
-
-Sun
-
-1
-
-2
-
-3
-
-4
-
-5
-
-6
-
-7
-
-8
-
-9
-
-10
-
-11
-
-12
-
-13
-
-14
-
-15
-
-16
-
-17
-
-18
-
-19
-
-20
-
-21
-
-22
-
-23
-
-24
-
-25
-
-26
-
-27
-
-28
-
-29
-
-30
-
-31
 
 September 2024
 
@@ -1994,7 +1797,173 @@ Sun
 
 31
 
+August 2026
+
+Mon
+
+Tue
+
+Wed
+
+Thu
+
+Fri
+
+Sat
+
+Sun
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+September 2026
+
+Mon
+
+Tue
+
+Wed
+
+Thu
+
+Fri
+
+Sat
+
+Sun
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
 Guests
+
+EnglishEUR
+
+English
+
+EUR
+
+* Accommodation
+* Explore Hostelworld
+* Work With Us
+
+* [Help](https://hwhelp.hostelworldgroup.com/hc/en-us "Help")
 
 Hostelworld - Data Protection Notice
 ------------------------------------
@@ -2003,20 +1972,18 @@ Hey there and welcome to our Data Protection Notice! It’s great to see that yo
 
 So, if you’re looking for more information on how we collect, store, use and share your personal data we collect, you’ve come to the right place!
 
-What is the purpose of this notice?
------------------------------------
+### What is the purpose of this notice?
 
-This Data Protection Notice, together with our [Cookies Policy](https://www.hostelworld.com/st/cookiespolicy/), explains things like:
+This Data Protection Notice, together with our [Cookies Policy](https://www.hostelworld.com/cookiespolicy/), explains things like:
 
 * what personal data do we collect about you when you visit our website or make a booking on any of our platforms or apply for a job with us;
 * how we look after this personal data;
 * who we share it with; and
 * how long we keep it.
 
-This notice also tells you about your rights under data protection law in relation to our processing of your data and how the law protects you. Please also read our separate [Cookies Policy](https://www.hostelworld.com/st/cookiespolicy/), which explains how Hostelworld makes use of cookies and other similar tracking technologies.
+This notice also tells you about your rights under data protection law in relation to our processing of your data and how the law protects you. Please also read our separate [Cookies Policy](https://www.hostelworld.com/cookiespolicy/), which explains how Hostelworld makes use of cookies and other similar tracking technologies.
 
-What personal data does this notice apply to?
----------------------------------------------
+### What personal data does this notice apply to?
 
 This Data Protection Notice covers all personal data that is collected from visitors and users of:
 
@@ -2030,17 +1997,15 @@ We may amend or update this Data Protection Notice from time to time. We encoura
 
 If you disagree with this Data Protection Notice, you should discontinue using our services.
 
-Who controls the use of your personal data?
--------------------------------------------
+### Who controls the use of your personal data?
 
 The Hostelworld Group is made up of several different legal entities spread around the world. Read more about the Hostelworld Group at https://www.hostelworldgroup.com/about-us.
 
 When this Data Protection Notice mentions "we", "us", "our" or "Hostelworld", we actually mean Hostelworld.com Limited. This is the Irish company that operates the HW Platform that allows you to make bookings for accommodation, tours, tickets, attractions or other travel-related experiences provided by third-party travel service providers and is the controller of your personal data. When we refer to "you" or “your”, we mean any person that accesses or uses the HW Platform. [For more information about us, and contact details for our Data Protection Officer, please click here](#).
 
-Hostelworld.com Limited's registered company number is 337103, and its registered address is Charlemont Exchange, Charlemont St, Dublin, D02 VN88. You can contact us using the details at the end of this notice, or if you have any queries in relation to the processing of your personal data you can also contact our Data Protection Officer by emailing [DataProtectionOfficer@hostelworld.com](mailto:DataProtectionOfficer@hostelworld.com).
+Hostelworld.com Limited's registered company number is 337103, and its registered address is Charlemont Exchange, Charlemont St, Dublin, D02 VN88. You can contact us using the details at the end of this notice, or if you have any queries in relation to the processing of your personal data you can also contact our Data Protection Officer by emailing [dataprotectionofficer@hostelworld.com](mailto:dataprotectionofficer@hostelworld.com).
 
-What personal data is collected?
---------------------------------
+### What personal data is collected?
 
 In order to process your booking, we will ask you for certain information, such as your name, date of birth, email address, payment information and expiry and booking details. We also collect certain information from the device you use to access the HW Platform, such as your IP address, what browser you use and what type of device you are using. In addition to the information that we collect ourselves, we sometimes receive information about you that is collected on our behalf by third parties, such as when you see a Hostelworld advert displayed on a third-party site. We also collect information about you on behalf of our trusted partners such as experience booking platforms like G Adventures when you book tours on the HW Roamies platform. [For more details about the information that we collect, please click here](#).
 
@@ -2049,7 +2014,7 @@ Most of the personal data that we collect about you will be information that you
 
 * **Recruitment** \- If you apply for a job with us, we will review your cv and application form to assess suitability for the job. You may also provide additional information voluntarily which you feel might be useful in considering your application. We may request further information from you or from third parties as the recruitment process progresses.
 * **Account** - If you set up an account with us, we will store details of your username and password, your settings preferences (e.g, language, currency and distance units), your past trips and any ‘wish lists’ that you create.
-* **Booking Details** - When you make an accommodation or tour/experience booking, we will ask you for information that we need to process the booking. This will include your name, date of birth, email address, nationality, passport number and expiry date, gender, mobile number (if you want to receive a free confirmation by SMS message) and your payment details. As part of our social features functionality, if your account settings are public, and you book a stay in a hostel, other users who have also booked a stay in the same hostel for the same night(s) will see your name, picture, age, nationality and countries you have visited. If your account settings are private, this information will not be visible.
+* **Booking Details** - When you make an accommodation or tour/experience booking, we will ask you for information that we need to process the booking. This will include your name, date of birth, email address, nationality, gender, mobile number (if you want to receive a free confirmation by SMS message) and your payment details. As part of our social features functionality, if your account settings are public, and you book a stay in a hostel, other users who have also booked a stay in the same hostel for the same night(s) will see your name, picture, age, nationality and countries you have visited. If your account settings are private, this information will not be visible.
 * **Message Details** – When you message or communicate with others through our social features functionality, the information or content you provide will be transmitted through our platform. Automated decisions may be made in relation to the content of messages to ensure inappropriate message content is not transmitted.
 * **Queries and Complaints** - If you contact our Customer Service team with a query or a complaint, we will record details of the query or complaint and how it is dealt with on our systems. We may also seek further details about the query or compliant from an accommodation provider, which we will also record in our systems.
 * **Reviews** - If you leave a review in relation to your stay at a property or your experience on a tour, this will be linked to your Hostelworld account, which means we will treat it as containing your personal data.
@@ -2073,14 +2038,14 @@ Although we mainly collect information directly from you, there are circumstance
 * **Strategic Partners** - We may receive your personal data from partner companies we work closely with and companies we invest in, such as Goki Pty Ltd. in Australia with whom we partner to enable Goki guests to access to HW inventory of hostel accommodation, allowing them to make their next booking after check-out and move seamlessly between the two platforms, whether this is to engage directly with other guests, the hostel or to book ancillary activities.
 * **Properties** - If there are any issues with your stay at a property, the property might contact us with information about the issue.
 * **Experiences** - If there are any issues with an experience, the operator or aggregator platform might contact us with information about the issue.
-* **Advertisements** - When we work with third parties to display advertisements, we may use technologies like cookies or pixel tas sometimes sent to us through cookies and pixel tags that are set on our begs to record details of your interaction with those advertisements. This data ihalf by those third parties. Please read our [Cookies Policy](https://www.hostelworld.com/st/cookiespolicy/) which further explains how Hostelworld makes use of cookies and other similar tracking technologies.
+* **Advertisements** - When we work with third parties to display advertisements, we may use technologies like cookies or pixel tas sometimes sent to us through cookies and pixel tags that are set on our begs to record details of your interaction with those advertisements. This data ihalf by those third parties. Please read our [Cookies Policy](https://www.hostelworld.com/cookiespolicy/) which further explains how Hostelworld makes use of cookies and other similar tracking technologies.
 
-Why do you use my personal data?
---------------------------------
+### Why do you use my personal data?
 
 As you probably expect, the main reason we use your personal data is in order to process your accommodation and tour/experience bookings and to deal with any queries or issues that arise in relation to those bookings. We also use your personal data for a number of other reasons, such as tailoring adverts and our marketing emails so they are relevant to you, monitoring your use of the HW Platform to help us make improvements, and to provide the additional services that we make available on our website and apps. [For more details about why we use your personal data, click here](#).
 
 * **Bookings** - We use your personal data in order to process bookings with properties and tour/experience providers and aggregators, and to let you manage your bookings through the HW Platform. Where we process personal data for this purpose, we will do so either on the basis that we have a contractual obligation to you or a third party to do so, or on the basis of our legitimate interests in providing the booking service.
+* **Fraud Prevention** - When we processes your booking, we may send your email address to, and also use the resulting information from, email verification agencies to assist us in detecting activities suggestive of fraud. The legal basis for this processing is the legitimate interest of ourselves and our partners to deter fraudulent and illegal conduct.
 * **Queries and Complaints** - When you send us a query in relation to a booking, or if you have a complaint in relation to a property or tour/experience, we will process your personal data to answer your query or in order to help resolve your complaint. Where we process personal data in the context of a query or complaint, we will do so on the basis of our legitimate interest in resolving customer queries and complaints. If you volunteer data in relation to your health, we will process that personal data on the basis that you consent to us using it to resolve your query or complaint only.
 * **Reviews** - When you provide a review for a property or tour/experience, we will publish this on the property's page or the tour/experience’s page on our website, and on our some of our partners' sites. We will display the text of your review, alongside details of your gender, age range, home country and number of previous reviews. If you have not opted to be anonymous, we will also display your username alongside your review. Our processing of your personal data to make reviews available is on the basis of our legitimate interest in making the review system available to our users.
 * **Providing and Improving our Services** - Where we collect data in relation to your use of our services, such as your device details and how you interact with our services, we use this data to deliver our services and personalise your experience (e.g, if you turn on location services on your mobile device, we will use this as part of the search function). We also use the data to test new features that we are thinking about introducing, to analyse how our website is used, and to evaluate and improve our services. If we find a problem on our websites or apps, we will use your data to fix any bugs that we find. We may also process your personal data as part of our development work, where we take a copy of our database and test our code on that before rolling it out to the live version of the database. Where possible, we use this data on an anonymous basis, but sometimes this might not be possible. All of this processing of your personal data is on the basis of our legitimate interests in operating, improving and securing our services. Please also see our separate notice in relation to the testing that we undertake.
@@ -2100,15 +2065,13 @@ As you probably expect, the main reason we use your personal data is in order to
     * We use Tableau which has analytical tools to aid in visualising and understanding our raw data. [The privacy details of Snowflake can be found here](https://www.tableau.com/privacy).
     * We also use a number of tools, including Adobe Analytics and Google Analytics, to better understand how our sites and apps are being used and enable us to build the right solution for you. This means we can find out what works and what doesn't, optimise and improve our websites or apps, understand the effectiveness of advertisements and communications, and ensure we continue to be interesting and relevant. The data we gather can include which web pages you have viewed, which referring/exit pages you have entered and left from, which platform type you have used, which emails you have opened and acted upon, and date and time stamp information. It also means we can use details about how you’ve interacted with the site, such as the number of clicks you make on a given page, your mouse movements and scrolling activity, the search words you use and the text you enter into various fields. We send Adobe Analytics and Google Analytics website interaction data. To control the collection of data for analytical purposes through Google Analytics from certain browser types, you may want to visit the following link [Google Analytics Opt-out Browser Add-on (only for desktop).](https://tools.google.com/dlpage/gaoptout)
 
-Information you are required to provide
----------------------------------------
+### Information you are required to provide
 
 You are not obliged to provide us with any of your personal data. However, if you want to make a booking, you will need to provide us with the information that is indicated as required on our checkout page. If you don't provide us with this information, we won't be able to process your booking. Similarly, you may be required to provide certain information if you want to enter a competition, participate in a survey, book a tour/experience with a travel service provider or if you contact our Customer Services team with a query or complaint. We will inform you where such information is required.
 
-Who do we share your personal data with?
-----------------------------------------
+### Who do we share your personal data with?
 
-**Properties and Experiences -** In order to process your booking, we have to send your details to the property or experience provider/aggregator that you have booked. The property is the data controller of your personal data relating to your booking and responsible for your personal data, Hostelworld act in accordance with the property's instructions. This includes making your credit or debit card details (not including the CVV code, which we do not store) available to the property or experience provider/ aggregator so they can take payments where this is required (e.g., the charges that are applicable if you fail to show up at a property or tour/experience and have not cancelled your booking in accordance with the travel service provider’s cancellation policy). If you purchase an ancillary service, we may need to share personal data with the third-party service provider so that they can provide you with that service..
+**Properties and Experiences -** In order to process your booking, we have to send your details to the property or experience provider/aggregator that you have booked. The property is the data controller of your personal data relating to your booking and responsible for your personal data, Hostelworld act in accordance with the property's instructions. This includes making your credit or debit card details (not including the CVV code, which we do not store) available to the property or experience provider/ aggregator so they can take payments where this is required (e.g., the charges that are applicable if you fail to show up at a property or tour/experience and have not cancelled your booking in accordance with the travel service provider’s cancellation policy). If you purchase an ancillary service, we may need to share personal data with the third-party service provider so that they can provide you with that service.
 
 **Advertising -** As part of our online advertising programmes, we may also share your personal data with third parties, who will combine it with data that they hold about you to tailor adverts that appear on third-party websites (which may be our own adverts, or adverts we serve on behalf of third parties). Where this data is shared, you are not directly identifiable from the information itself, as we use technologies that use non-personally identifiable codes and tags.
 
@@ -2119,7 +2082,7 @@ Who do we share your personal data with?
 [For further details of third parties who we share your personal data with, please click here](#).
 
 * **Properties** - We share the following details of your booking with properties: your name, gender, nationality, email address, booking details and debit/credit card details (excluding the CVV code, which we do not store). We also share details of any reviews that you provide in relation to the property, so that they can address any complaints or make sure that they keep up the good work. If you contact us with a query or complaint in relation to a property, we may also share details of the query or complaint with the property so that we can resolve it.
-* **Tour/Experience Providers and Aggregators –** We share details of your tour/experience booking with tour/experience operators and/or aggregators like Viator including, but not limited to: your name, date of birth, height, passport number and expiry, nationality, email address and booking details. Tour/experience aggregators will also further share your information with tour/experience operators in accordance with own privacy policies. We also share details of any reviews that you provide in relation to the tour/experience, so that they can address any complaints or make sure that they keep up the good work. If you contact us with a query or complaint in relation to a tour/experience, we may also share details of the query or complaint with the tour/experience provider or aggregate so that we can help resolve it.
+* **Tour/Experience Providers and Aggregators –** We share details of your tour/experience booking with tour/experience operators and/or aggregators like Viator including, but not limited to: your name, date of birth, height, nationality, email address and booking details. Tour/experience aggregators will also further share your information with tour/experience operators in accordance with own privacy policies. We also share details of any reviews that you provide in relation to the tour/experience, so that they can address any complaints or make sure that they keep up the good work. If you contact us with a query or complaint in relation to a tour/experience, we may also share details of the query or complaint with the tour/experience provider or aggregate so that we can help resolve it.
 * **Group Companies** - There are a number of companies in our Group that help us to provide our services. This includes:
     
     * a subsidiary in the UK (Hostelworld Services Limited) that provides help with our marketing initiatives";
@@ -2140,8 +2103,7 @@ Who do we share your personal data with?
 * **Third-Party Advertisers** - When we purchase advertising on third-party websites, we may share information with them about your use of our services, which they then combine with the information that they hold about you in order to implement the particular advertising campaign. The data that is shared with third-party advertisers relates to how you use our websites and apps, such as the pages you have visited, the searches you have made, and whether you have made a booking. We use specialist service providers to help us purchase advertising, and to transfer the information about your use of our services to third party advertisers that is required for those third party advertisers to be able to show you the correct advert.
 * **Ancillary Services** - We sometimes work with partners to make services available to you that we think will be useful, such as travel insurance. If you avail of one of these services, we may need to provide your details to that third party in order to allow them to provide the service. We may also share non-personally identifiable information with the third party to enable them to track that we referred you to them.
 
-Social Media
-------------
+### Social Media
 
 We use social media platforms in a variety of different ways, including to enable the use of online reservation services, to promote our properties, experience providers and aggregators’ travel-related products and services and to advertise, improve and facilitate our own services. For further details of how your personal data will be exchanged with social media platforms, please click here.
 
@@ -2153,15 +2115,13 @@ You are always free not to use any of the social media platform features that we
 
 Any personal information you chose to share will be used by us to provide you with the service you requested, tailor our services to suit your needs, connect you and your friends with the best travel destinations and analyse and improve our travel-related services. The relevant social media platform will be able to tell you, via their own privacy/ data protection, more about how they use and process your personal data when you connect to Hostelworld through them. This often includes combining the personal data they collect when you use Hostelworld services through them with information they collect when you use other online platforms you have also linked to your social media account.
 
-Transfers of Personal Data
---------------------------
+### Transfers of Personal Data
 
 There are certain circumstances where we will need to transfer your personal data outside of the European Union (“EU”) / European Economic Area (“EEA”) to countries which have been recognised by the European Commission as providing an equivalent level of protection for personal data as is provided for in the EU/EEA (such as the UK (until June 2021), Canada, Switzerland, Japan, New Zealand and Argentina) and to countries that have not (the USA, China and Australia). The most common of these in both cases is where we transfer personal data to an accommodation provider or experience operator or aggregator that they can fulfil your booking. We may also transfer your personal data outside of the EU/EEA in connection with the operation of our business, such as when we use a service provider that is based in another jurisdiction. If we transfer your personal data outside of the EU/EEA, please rest assured that we will ensure that appropriate measures are in place to protect your personal data and to comply with our obligations under applicable data protection law. [Please click here for more details](#).
 
 When we transfer your personal data outside of the EU/EEA, if required under applicable data protection law we will, prior to sharing your personal data, establish the necessary means to ensure an adequate level of data protection. This may be an adequacy decision of the European Commission confirming an adequate level of data protection in the respective non-EU/EEA country or a contractual agreement on the basis of the EU Standard Model Contractual Clauses (a set of non-negotiable contract clauses approved and issued by the European Commission). We will provide further information on the means to ensure an adequate level of data protection on request. If you would like further details about the measures we have taken in relation to the transfer of your personal data, or copies of the agreements that we have put in place in relation to the transfers, please contact us using the details at the bottom of this Notice.
 
-Retention of personal data
---------------------------
+### Retention of personal data
 
 We retain your personal data in accordance with our record retention policy. The record retention policy operates on the principle that we keep personal data for no longer than is necessary for the purpose for which we collected it, and in accordance with any requirements that are imposed on us by law. This means that the retention period for your personal data will vary depending on the type of personal data. [For further information about the criteria that we apply to determine retention periods, please click here](#).
 
@@ -2173,13 +2133,11 @@ For personal data that is not transaction data or related to email marketing, we
 * **Managing legal claims** – When we assess how long we keep personal data, we take into account whether that data may be required to defend any legal claims which may be made. If such data is required, we may keep it until the statute of limitations runs out in relation to the type of claim that can be made (which varies from 2 to 12 years).
 * **Business requirements** – As we only collect personal data for defined purposes, we assess how long we need to keep personal data for to meet our reasonable business purposes.
 
-Important Information about Consent
------------------------------------
+### Important Information about Consent
 
 When we process your personal data on the basis of your consent, you are free to withdraw that consent at any time. You can withdraw your consent by contacting us using the contact details at the bottom of this notice. If your consent relates to receiving email marketing, you can use the unsubscribe link in the email, or if it relates to app notifications, you can turn off app notifications using your device settings. The withdrawal of your consent does not affect the lawfulness of any processing activities based on such consent before its withdrawal. Please note that if you withdraw your consent, we may not be able to continue to provide the related service to you.
 
-Your rights under data protection law
--------------------------------------
+### Your rights under data protection law
 
 You have various rights under data protection law in connection with our processing of your personal data. For example, you have the right to request a copy of your personal data that we hold and to request that we correct any errors in the personal data that we hold. These rights are subject to certain exceptions and exemptions. [For more details about your rights, click here](#).
 
@@ -2191,8 +2149,7 @@ You have the following rights under data protection law:
 * **Right to restriction of processing or to object to processing** – You have the right to request that we no longer process your personal data for particular purposes, or to object to our processing of your personal data for particular purposes.
 * **Right to data portability** – You have the right to request us to provide you, or a third party, with a copy of your personal data in a structured, commonly used machine readable format.
 
-Third Party Privacy Policies
-----------------------------
+### Third Party Privacy Policies
 
 Some of our third party advertising and other partners ask us to make you aware of their privacy policies. These policies are available by following the links below:
 
@@ -2207,10 +2164,9 @@ Some of our third party advertising and other partners ask us to make you aware 
 * [Stripe](https://stripe.com/ie/privacy)
 * [Worldpay](https://online.worldpay.com/terms/privacy)
 
-Cookies
--------
+### Cookies
 
-Whenever you use our online services, including our applications, cookies and other tracking technologies can be used in various ways, such as making the HW Platform work, to analyse traffic, or for advertisement purposes. These technologies are either used by us directly, or by our business partners, including third party service providers and advertisers we work with. We use cookies and similar technologies to improve your experience, to enhance site security and to show you relevant advertising – all to make your access to our services to be as easy, efficient and useful as possible. If you want to learn more about our cookies, please read our [Cookie Policy](https://www.hostelworld.com/st/cookiespolicy/).
+Whenever you use our online services, including our applications, cookies and other tracking technologies can be used in various ways, such as making the HW Platform work, to analyse traffic, or for advertisement purposes. These technologies are either used by us directly, or by our business partners, including third party service providers and advertisers we work with. We use cookies and similar technologies to improve your experience, to enhance site security and to show you relevant advertising – all to make your access to our services to be as easy, efficient and useful as possible. If you want to learn more about our cookies, please read our [Cookie Policy](https://www.hostelworld.com/cookiespolicy/).
 
 To learn more generally about cookies and how to manage or delete them, simply visit [allaboutcookies.org](https://allaboutcookies.org/) allaboutcookies.org and the help section of your browser. In the settings for browsers such as Edge, Safari, Firefox or Chrome, you can set which cookies to accept and which to reject. Where you find these settings depends on which browser you use. Use the "Help" function in your browser to locate the settings you need.
 
@@ -2222,25 +2178,45 @@ To opt out of an NAI member's behavioural advertising program, simply check the 
 
 **Analytics**\- To control the collection of data for analytical purposes through Google Analytics from certain browser types, you may want to visit the following link: [Google Analytics Opt-out Browser Add-on (only for desktop)](https://chrome.google.com/webstore/detail/google-analytics-opt-out/fllaojicojecljbmefodhfapmkghcbnh?hl=en-GB).
 
-Questions and Complaints
-------------------------
+### Questions and Complaints
 
 If you have any queries or complaints in connection with our processing of your personal data or this Data Protection Notice, you can get in touch with us using the following contact details:
 
-Email: [DataProtectionOfficer@hostelworld.com](mailto:DataProtectionOfficer@hostelworld.com)Post: Hostelworld.com Limited, Charlemont Exchange, Charlemont St, Dublin, D02 VN88, Ireland
+Email: [dataprotectionofficer@hostelworld.com](mailto:dataprotectionofficer@hostelworld.com)Post: Hostelworld.com Limited, Charlemont Exchange, Charlemont St, Dublin, D02 VN88, Ireland
 
 You also have the right to lodge a complaint with the Irish Data Protection Commission (“DPC”), our lead data protection supervisory authority in Europe, or your local data protection supervisory authority, if you are unhappy with our processing of your personal data. Details of how to lodge a complaint with the DPC can be found on the [DPC’s website](https://www.dataprotection.ie/), or you can call the DPC directly on +353 1 890 252 231.
 
-Digital Service Act
--------------------
+### Digital Service Act
 
-In compliance with Regulation (EU) 2022/2065 of the European Parliament and of the Council of 19 October 2022 on a Single Market for Digital Services and amending Directive 2000/31/EC (the “DSA”), which under Article 24(2) requires the publication of information on the average monthly active recipients of services in the European Union as defined in Article 3(i), calculated as an average over the period of the past six months, the average monthly active recipients of Hostelworld services is 1,541,614 for the period 1 July 2023 to 31 December 2023.
+In compliance with Regulation (EU) 2022/2065 of the European Parliament and of the Council of 19 October 2022 on a Single Market for Digital Services and amending Directive 2000/31/EC (the “DSA”), which under Article 24(2) requires the publication of information on the average monthly active recipients of services in the European Union as defined in Article 3(i), calculated as an average over the period of the past six months, the average monthly active recipients of Hostelworld services is 1,135,214 for the period 1 January 2024 to 30 June 2024.
 
 For the purposes of this calculation, active recipients have been calculated on the basis of all users landing on the Hostelworld platform with search IP addresses in EU/EEA countries where possible to establish, and includes our hostel partners who offer listings on the Hostelworld platform.
 
 Hostelworld will continue to publish updated information on the average monthly active recipients of services in accordance with Article 24(2) of the DSA.
 
 In compliance with Article 11(1) and (2), and Article 12(1) and (2) of the DSA, John Duggan ([corporate@hostelworld.com](mailto:corporate@hostelworld.com)) General Counsel for Hostelworld, is designated the single point of contact for communication by electronic means with Member States’ authorities, the European Commission, the European Board for Digital Services and members of the public in relation to application of the DSA. For the purposes of Article 11(3) of the DSA, the English language shall be used in such communications.
+
+Language
+
+* [English](https://www.hostelworld.com/securityprivacy/)
+* [Français](https://www.hostelworld.com/fr/securityprivacy/)
+* [Deutsch](https://www.hostelworld.com/de/securityprivacy/)
+* [Español](https://www.hostelworld.com/es/securityprivacy/)
+* [Italiano](https://www.hostelworld.com/it/securityprivacy/)
+* [Português](https://www.hostelworld.com/pt/securityprivacy/)
+* [Português (Brasil)](https://www.hostelworld.com/br/securityprivacy/)
+* [Svenska](https://www.hostelworld.com/sv/securityprivacy/)
+* [Polski](https://www.hostelworld.com/pl/securityprivacy/)
+* [Suomi](https://www.hostelworld.com/fi/securityprivacy/)
+* [Dansk](https://www.hostelworld.com/da/securityprivacy/)
+* [Nederlands](https://www.hostelworld.com/nl/securityprivacy/)
+* [Norsk](https://www.hostelworld.com/no/securityprivacy/)
+* [český](https://www.hostelworld.com/cs/securityprivacy/)
+* [Русский](https://www.hostelworld.com/ru/securityprivacy/)
+* [Türk](https://www.hostelworld.com/tr/securityprivacy/)
+* [中文](https://www.hostelworld.com/zh/securityprivacy/)
+* [日本語](https://www.hostelworld.com/ja/securityprivacy/)
+* [한국어](https://www.hostelworld.com/ko/securityprivacy/)
 
 **Follow us on**
 
@@ -2250,15 +2226,15 @@ English
 
 EUR
 
-**Accommodation**[Blog](https://www.hostelworld.com/blog/ "Blog") [Hostels](https://www.hostelworld.com/hostels/ "Hostels") [Hotels](https://www.hostelworld.com/hotels/ "Hotels") [Bed and Breakfast](https://www.hostelworld.com/bed-and-breakfasts/ "Bed and Breakfast")
+**Accommodation**[Hostels](https://www.hostelworld.com/hostels/ "Hostels")[Hotels](https://www.hostelworld.com/hotels/ "Hotels")[Bed and Breakfast](https://www.hostelworld.com/bed-and-breakfasts/ "Bed and Breakfast")
 
-**Customer Support**[Talk to Us](https://hwhelp.hostelworldgroup.com/hc/en-us/requests/new?ticket_form_id=63361 "Talk to Us") [Help](https://hwhelp.hostelworldgroup.com/hc/en-us "Help")
+**Customer Support**[Talk to Us](https://hwhelp.hostelworldgroup.com/hc/en-us/requests/new?ticket_form_id=63361 "Talk to Us")[Help](https://hwhelp.hostelworldgroup.com/hc/en-us "Help")
 
-**Quick Links**[Blog](https://www.hostelworld.com/blog/ "Blog") [Booking Guarantee](https://www.hostelworld.com/guarantee/ "Booking Guarantee") [Hostel Awards](https://www.hostelworld.com/hoscars "Hostel Awards") [Tours and Experiences](https://www.hostelworld.com/experiences-hub "Tours and Experiences") [Solo Travel](https://www.hostelworld.com/blog/c/solo-travel/ "Solo Travel") [Student Discount](https://connect.studentbeans.com/v4/hostelworld/uk "Student Discount")
+**Quick Links**[Blog](https://www.hostelworld.com/blog/ "Blog")[Booking Guarantee](https://www.hostelworld.com/guarantee/ "Booking Guarantee")[Hostel Awards](https://www.hostelworld.com/hoscars "Hostel Awards")[Tours & Experiences](https://www.hostelworld.com/experiences-hub/ "Tours & Experiences")[Solo Travel](https://www.hostelworld.com/blog/solo-travel/ "Solo Travel")[Student Discount](https://connect.studentbeans.com/v4/hostelworld/uk "Student Discount")[Roamies](https://www.hostelworld.com/roamies/ "Roamies")
 
-**About Us**[Hostelworld Group PLC](https://www.hostelworldgroup.com/ "Hostelworld Group PLC") [Press](https://www.hostelworldgroup.com/media/press-releases/ "Press") [Careers](https://people.hostelworld.com/ "Careers")
+**About Us**[Hostelworld Group PLC](https://www.hostelworldgroup.com/ "Hostelworld Group PLC")[Press](https://www.hostelworldgroup.com/media/press-releases/ "Press")[Careers](https://people.hostelworld.com/ "Careers")
 
-**Work With Us**[Hostel Sign Up](https://signup.hostelworld.com/en/property/intro "Hostel Sign Up") [Affiliate Program](https://partners.hostelworld.com/ "Affiliate Program") [Hostelworld Inbox](https://inbox.hostelworld.com/inbox/?Language=English "Hostelworld Inbox")
+**Work With Us**[Hostel Sign Up](https://signup.hostelworld.com/en/property/intro "Hostel Sign Up")[Affiliate Program](https://partners.hostelworld.com/ "Affiliate Program")[Hostelworld Inbox](https://inbox.hostelworld.com/inbox/?Language=English "Hostelworld Inbox")
 
 ![Secure GlobalSign](https://a.hwstatic.com/raw/upload/f_auto,q_auto/wds/logos/docusign.svg "Secure GlobalSign")
 
@@ -2266,4 +2242,4 @@ EUR
 
 © 1999-2024 Hostelworld.com Limited
 
-[Data Protection Notice](https://www.hostelworld.com/securityprivacy/ "Data Protection Notice") [Terms & Legal](https://www.hostelworld.com/hosteltermsandconditions/ "Terms & Legal") [Coupons](https://www.hostelworld.com/coupons-terms-conditions/ "Coupons") [Vouchers](https://www.hostelworld.com/vouchertermsandconditions/ "Vouchers") [Website Testing](https://www.hostelworld.com/website-testing/ "Website Testing") [Site Map](https://www.hostelworld.com/sitemap/ "Site Map")
+[Data Protection Notice](https://www.hostelworld.com/securityprivacy/ "Data Protection Notice")[Terms & Legal](https://www.hostelworld.com/hosteltermsandconditions/ "Terms & Legal")[Coupons](https://www.hostelworld.com/coupons-terms-conditions/ "Coupons")[Vouchers](https://www.hostelworld.com/vouchertermsandconditions/ "Vouchers")[Website Testing](https://www.hostelworld.com/website-testing/ "Website Testing")[Site Map](https://www.hostelworld.com/sitemap/ "Site Map")
