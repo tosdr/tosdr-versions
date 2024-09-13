@@ -12,6 +12,8 @@
         
     * [The Business Plan](https://pages.ovoenergy.com.au/the-business-plan)
         
+    * [The Battery Plan](https://pages.ovoenergy.com.au/the-battery-plan)
+        
     
 * Products
     
