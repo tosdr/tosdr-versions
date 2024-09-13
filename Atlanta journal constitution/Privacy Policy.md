@@ -1,6 +1,6 @@
-[Breaking: Delta plane hits tail of another aircraft at Hartsfield-Jackson](https://www.ajc.com/news/business/delta-plane-hits-tail-of-another-aircraft-at-atlanta-airport/54PQFAAXYZFAJF5YEGBDBPMT64/)
+[Breaking: LIVE: Fani Willis to skip GOP-led state Senate committee hearing into her Trump investigation](https://www.ajc.com/news/live-fani-willis-plans-to-skip-hearing-before-a-gop-led-state-senate-committee/NALTNMN7ZNBS7EIEXPYUULQDRY/)
 
-[![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1660)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1660)](https://www.ajc.com/)
+[![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1677)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1677)](https://www.ajc.com/)
 
 Log In
 
@@ -16,14 +16,15 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
-* [A.M. ATL Newsletter](https://www.ajc.com/news/am-atl-apalachee-high-and-the-presidential-debate/I3XUGEGOKZAJLA5PJMOX5DVJ3Y/)
+* [A.M. ATL Newsletter](https://www.ajc.com/news/am-atl-about-that-training-center-referendum/7VWZKNEU4VGFLC4GEKUDG23VIM/)
+* [Weekend Things to Do](https://www.ajc.com/things-to-do/things-to-do-in-atlanta-this-weekend-sept-13-15/FYRL3Q4XNRD77NMXTDXDR5NWRM/)
 * [Georgia School Shooting](https://www.ajc.com/news/georgia-school-shooting/)
 * [Politically Georgia](https://www.ajc.com/politics/politics-blog/)
 * [High School Sports](https://www.ajc.com/sports/high-school/)
 * [Falcons](https://www.ajc.com/sports/atlanta-falcons/)
 * [Braves](https://www.ajc.com/sports/atlanta-braves/)
 
-![Search icon](/pf/resources/icons/search-burger.svg?d=1660)
+![Search icon](/pf/resources/icons/search-burger.svg?d=1677)
 
 * Quick Links
     
@@ -147,7 +148,7 @@ Log In
     * [Videos](https://www.ajc.com/news/video/)
     
 
-[![ajc logo in background](/pf/resources/logos/AJC/logo-white.svg?d=1660)](https://www.ajc.com/)
+[![ajc logo in background](/pf/resources/logos/AJC/logo-white.svg?d=1677)](https://www.ajc.com/)
 
 * [About](https://www.ajc.com/about-AJC/)
     * [Help Center](https://ajc.zendesk.com/hc/en-us)
