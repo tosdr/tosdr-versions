@@ -293,7 +293,7 @@ Table of Contents Table of Contents Toggle navigation
         * [Updated Articles list](https://www.knowledgeowl.com/help/updated-articles-list)
         * [Popular Articles list](https://www.knowledgeowl.com/help/popular-articles-list)
         * [Recent Articles list](https://www.knowledgeowl.com/help/recent-articles-list)
-        * [Remove article lists from your homepage](https://www.knowledgeowl.com/help/remove-article-lists-from-your-homepage)New
+        * [Remove article lists from your homepage](https://www.knowledgeowl.com/help/remove-article-lists-from-your-homepage)
         * [Create a custom homepage articles list](https://www.knowledgeowl.com/help/create-a-custom-homepage-articles-list)
         * [Add a custom banner with built-in div styles](https://www.knowledgeowl.com/help/add-a-custom-banner-div-styles)
         * [Add a custom icon and header link on your homepage](https://www.knowledgeowl.com/help/add-a-custom-icon-and-header-link)
@@ -790,7 +790,7 @@ Table of Contents Table of Contents Toggle navigation
         * [Create a private knowledge base with different content for different readers](https://www.knowledgeowl.com/help/create-a-private-knowledge-base-with-different-content-for-different-readers)
         * [Restrict content to logged in readers](https://www.knowledgeowl.com/help/restrict-content-to-logged-in-readers)
         * [Restrict by IP address, shared passwords, reader logins, or a combination](https://www.knowledgeowl.com/help/security)
-        * [Convert a private knowledge base to mixed public and private](https://www.knowledgeowl.com/help/convert-a-private-knowledge-base-to-mixed)New
+        * [Convert a private knowledge base to mixed public and private](https://www.knowledgeowl.com/help/convert-a-private-knowledge-base-to-mixed)
     * [Advanced security options](https://www.knowledgeowl.com/help/advanced-security-options)
         
         * [Requiring login to view files/images](https://www.knowledgeowl.com/help/secure-file-library)
