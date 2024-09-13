@@ -62,7 +62,7 @@
 Privacy Policy
 ==============
 
-Date Last Revised: December 1, 2023
+Date Last Revised: August 15, 2024
 
 **Introduction**
 ================
@@ -75,33 +75,20 @@ Evident offers you a secure platform to share your personal information with oth
 
 To make it easy for you to navigate and understand our data practices, use these hyperlinks to find the section relevant to you.
 
-[Scope](#Scope)  
-[Collection of Personal Data](#Collection-of-Personal-Data)  
-[Definition of “Personal Data”](#Collection-of-Personal-Data)  
-[How We Collect Personal Data](#How-We-Collect-Personal-Data)  
-[How We Use Personal Data and Other Information](#How-We-Use-Personal-Data-and-Other-Information)  
-[How We Share Your Information](#How-We-Share-Your-Information)  
-[Links to Other Websites](#Links-to-Other-Websites)  
-[Security](#Security)  
-[Use of Cookies and Other Data Technologies](#Use-of-Cookies-and-Other-Data-Technologies)  
-[Access and Your Choices](#Access-and-Your-Choices)  
-[International Data Transfers and Our Privacy Shield Compliance](#International-Data-Transfers-and-Our-Privacy--Shield-Compliance)  
-[Retention](#Retention)  
-[Children Under 13](#Children-Under-13)  
-[Do Not Track Signals](#Do-Not-Track-Signals)  
-[California Privacy Rights](#California-Privacy-Rights)  
-[Illinois Privacy Rights](#Illinois-Privacy-Rights)  
-[Your Privacy Rights under Other US State Laws](#Your-Privacy-Rights-under-Other-US-State-Laws)  
-[Changes to this Privacy Policy](#Changes-to-this-Privacy-Policy)  
-[Contact Us](#contact-us)
+[Scope](https://www.evidentid.com/privacy-policy/#scope)[Collection of Personal Data  
+Definition of “Personal Data”](https://www.evidentid.com/privacy-policy/#collection-of-personal-data)[How We Collect Personal Data](https://www.evidentid.com/privacy-policy/#how-we-collect-personal-data)[How We Use Personal Data and Other Information](https://www.evidentid.com/privacy-policy/#use-of-personal-data)[How We Share Your Information](https://www.evidentid.com/privacy-policy/#how-we-share-your-information)[Links to Other Websites](https://www.evidentid.com/privacy-policy/#links-to-other-websites)[Security](https://www.evidentid.com/privacy-policy/#security)[Use of Cookies and Other Data Technologies](https://www.evidentid.com/privacy-policy/#use-of-cookies-and-other-data-technologies)[Access and Your Choices](https://www.evidentid.com/privacy-policy/#access-and-your-choices)[International Data Transfers](https://www.evidentid.com/privacy-policy/#international-data-transfers)  
+[Retention](https://www.evidentid.com/privacy-policy/#Retention)[Children Under 13](https://www.evidentid.com/privacy-policy/#children)[Do Not Track Signals](https://www.evidentid.com/privacy-policy/#do-not-track-signals)[California Privacy Rights](https://www.evidentid.com/privacy-policy/#california-privacy-rights)[Illinois Privacy Rights](https://www.evidentid.com/privacy-policy/#illinois-privacy-rights)
 
-Scope
------
+Your Privacy Rights under Other US State Laws  
+[Changes to this Privacy Policy](https://www.evidentid.com/privacy-policy/#changes-to-this-privacy-policy)[Contact Us](https://www.evidentid.com/privacy-policy/#contact-us)
+
+**Scope**
+=========
 
 Evident ID is the operator of our Sites and the controller of data collected from you by our Sites. With respect to the use of our Services by EU data subjects, we are either a controller or processor of your data, depending upon the circumstances that give rise to our processing of your data. We are a United States corporation registered in the State of Delaware and located in Atlanta, Georgia.
 
-Collection of Personal Data
----------------------------
+**Collection of Personal Data**
+-------------------------------
 
 “**Personal Data**” are data that identify you as an individual or relate to an identifiable individual. Personal Data may include Stored Data as defined in our Terms of Use. We collect Personal Data in accordance with law and this Policy. Examples of such data are:
 
@@ -129,8 +116,8 @@ Collection of Personal Data
 * Credit card and billing information (if submitted as payment for Services)
 * Other data about you that is requested by a Relying Party or that you authorize us to process
 
-How We Collect Personal Data
-----------------------------
+**How We Collect Personal Data**
+--------------------------------
 
 We collect Personal Data in a variety of ways as described below.
 
@@ -181,8 +168,8 @@ We securely store the information that we receive from Facebook and Google with 
 
 Any third-party social networking site controls the information it collects from you. For information about how they may use and disclose your information, including any information you make public, please consult their respective privacy policies. We have no control over how any third-party social networking site uses or discloses the personal information it collects about you.
 
-How We Use Personal Data and Other Information
-----------------------------------------------
+**Use of Personal Data and Other Information**
+==============================================
 
 We use the Personal Data collected for a number of purposes as described below.
 
@@ -200,6 +187,7 @@ Evident uses your information, including Personal Data, for the following purpos
 * To verify information about you, with your permission where required, we may employ various methods, such contacting governmental authorities (such as state licensing boards), receiving information from third parties, reviewing public records, for purposes such as verifying that you hold a particular license or credential, or running a criminal background or credit check (in accordance with applicable laws). The data received from these third parties and sources is used solely to prevent fraud and verify information about you, unless you authorize additional uses.
 
 **To Communicate with You**
+---------------------------
 
 We use the information that we collect when you visit our Sites to respond to questions, comments or requests for information from us and to send applicable and personalized marketing messages in accordance with applicable laws. These marketing messages may include emails, texts, online advertisements, or phone calls. Marketing-related communications to you will contain instructions on how to unsubscribe from receiving them. See more on how to opt out in the Your Choices section below.
 
@@ -212,8 +200,8 @@ We may anonymize, de-identify and/or aggregate the information that we collect a
 
 We use Personal Data and other data for data analysis, security and fraud monitoring and prevention, product development and testing, improving or modifying our Sites and Services, analyzing website traffic patterns and behaviors, statistical and survey purposes, determining the effectiveness of our promotional campaigns and operating and expanding our business activities.
 
-How We Share Your Information
------------------------------
+**How We Share Your Information**
+=================================
 
 Evident may share your information, including Personal Data, in the circumstances described below.
 
@@ -225,20 +213,20 @@ Evident may share your information, including Personal Data, in the circumstance
 * In Response to Legal Process. We may disclose the information we collect from you in order to comply with the law, a judicial or regulatory proceeding, court or governmental agency order, or other legal process, such as in response to a court order or a subpoena.
 * To Protect Us and Others. We may disclose the information we collect from you where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person, violations of our Terms of Use or this Policy, or as evidence in litigation in which Evident is involved.
 
-Links to Other Websites
------------------------
+**Links to Other Websites**
+===========================
 
 Our Sites and Services may contain links to other websites not operated or controlled by Evident (“**Third Party Sites**”). The privacy practices described in this Privacy Policy do not apply to Third Party Sites. By providing these links we do not imply that we endorse or have reviewed these sites. Please contact the operators of Third Party Sites directly for information on their privacy practices and policies.
 
-Security
---------
+**Security**
+============
 
 Evident is built to protect your private information and to allow you to securely share your information with Relying Parties. We have implemented commercially reasonable and appropriate precautions to protect the information we collect from loss, misuse, and unauthorized access, disclosure, alteration, and destruction. For example, we protect the Personal Data that you submit to us through encryption and access controls.
 
 You should take steps to protect against unauthorized access to your password, phone, and computer by, among other things, signing off after using a shared computer, choosing a robust password that nobody else knows or can easily guess, and keeping your log-in and password private. We are not responsible for any lost, stolen, or compromised passwords or for any activity on your account via unauthorized password activity.
 
-Use of Cookies and Other Data Technologies
-------------------------------------------
+**Use of Cookies and Other Digital Technologies**
+=================================================
 
 We may use “cookies” (a small text file sent by your computer each time you visit our site) or similar digital technologies to record log data. Many browsers default to accepting cookies. You may be able to change this setting in your browser and you can also clear your cookies. If you do, you may lose some functionality of our Sites or Services. Check your browser’s help function to learn more about your cookie setting options.
 
@@ -254,8 +242,8 @@ We may use the following types of cookies and digital technologies:
 * We might also use a pixel tag which is a small graphic file that allows us and third parties to monitor the use of the Sites and Services and provide us with information based on your interaction with the Sites, Services and e-mails. These tags may collect the IP address from the device which you loaded the page, your browser type, and other data. Pixel tags are also used by our third parties to collect information when you visit our Site, the links and other actions you take on our Site, and we may use this information in combination with cookies to display targeted advertisements.
 * Other data technologies may be used that collect comparable information for security and fraud detection purposes.
 
-Access and Your Choices
------------------------
+**Access and Your Choices**
+===========================
 
 **Cookies**
 -----------
@@ -289,8 +277,8 @@ We use third parties such as network advertisers to serve advertisements on thir
 
 You may modify Personal Data that you have submitted by logging into your account and updating your profile information. Please note that copies of information that you have updated, modified or deleted may remain viewable in cached and archived pages of the Services for a period of time and in accordance with our data retention policies.
 
-Do Not Track Signals
---------------------
+**Do Not Track Signals**
+------------------------
 
 Your browser may offer you a “Do Not Track” (“**DNT**”) option, which allows you to signal to operators of websites and web applications that you do not wish such operators to track some of your online activities over time and across different websites and platforms. There is no universally agreed-upon standard for what an organization should do when it detects a DNT signal. Currently, we do not monitor or take any action with respect to these signals or other mechanisms. Learn more about Do Not Track [here](https://allaboutdnt.com/).
 
@@ -328,14 +316,18 @@ Subject to applicable law and reasonable steps that we may take to verify your i
 
 EU Data Subjects may contact us about these rights at [compliance@evidentid.com](mailto:compliance@evidentid.com) or at the address set out in the Contact Us section below.
 
-International Data Transfers
-----------------------------
+**International Data Transfers** 
+=================================
 
 The Personal Data we process may be transferred to, and processed in, any country in which we, our group companies, or our service providers or partners operate, which may include countries other than the country in which you are resident. These countries may have data protection laws that are different than the laws of your country.
 
 However, we have taken appropriate safeguards to require that your Personal Data will remain protected in accordance with this Policy. Evident ID complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce.  Evident has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF.  Evident has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF.  If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern.  As with other participants in the DPF, we are subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC).To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/).
 
-When we transfer Personal Information to a third party acting as an agent, we ensure that that we (i) transfer such information only for limited and specified purposes; (ii) ascertain that the agent is obligated to provide at least the same level of privacy protection as is required by the Principles; (iii) take reasonable and appropriate steps to ensure that the agent effectively processes the Personal Information transferred in a manner consistent with our obligations under the Principles; (iv) require the agent to notify us if it makes a determination that it can no longer meet its obligation to provide the same level of protection as is required by the Principles; (v) upon notice, including under (iv), take reasonable and appropriate steps to stop and remediate unauthorized processing; and (vi) provide a summary or a representative copy of the relevant privacy provisions of its contract with that agent to the U.S. Department of Commerce upon request.In compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, Evident commits to resolve DPF Principles-related complaints about our collection and use of your personal information.  EU, UK and Swiss individuals with inquiries or complaints regarding our handling of personal data received in reliance on the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF should first contact Evident at: 
+In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+When we transfer Personal Information to a third party acting as an agent, we ensure that that we (i) transfer such information only for limited and specified purposes; (ii) ascertain that the agent is obligated to provide at least the same level of privacy protection as is required by the Principles; (iii) take reasonable and appropriate steps to ensure that the agent effectively processes the Personal Information transferred in a manner consistent with our obligations under the Principles; (iv) require the agent to notify us if it makes a determination that it can no longer meet its obligation to provide the same level of protection as is required by the Principles; (v) upon notice, including under (iv), take reasonable and appropriate steps to stop and remediate unauthorized processing; and (vi) provide a summary or a representative copy of the relevant privacy provisions of its contract with that agent to the U.S. Department of Commerce upon request.Our accountability for personal data that we receive in the United States under the Data Privacy Frameworks and subsequently transfer to a third party is described in the Data Privacy Framework Principles. In particular, we remain responsible and liable under the Data Privacy Framework Principles if third-party agents that we engage to process personal data on our behalf do so in a manner inconsistent with the Data Privacy Framework Principles, unless we prove that we are not responsible for the event giving rise to the damage.
+
+In compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, Evident commits to resolve DPF Principles-related complaints about our collection and use of your personal information.  EU, UK and Swiss individuals with inquiries or complaints regarding our handling of personal data received in reliance on the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF should first contact Evident at: 
 
 [compliance@evidentid.com](mailto:compliance@evidentid.com) 
 
@@ -346,10 +338,12 @@ United States 
 
 In compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, Evident commits to refer unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF to TrustE, an alternative dispute resolution provider. If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit [https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request) for more information or to file a complaint.  These services are provided at no cost to you.
 
+If your DPF complaint cannot be resolved through the above channels, under certain conditions, you may invoke binding arbitration for some residual claims not resolved by other redress mechanisms. See [https://www.dataprivacyframework.gov/s/article/G-Arbitration-Procedures-dpf?tabset-35584=2](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.dataprivacyframework.gov%2Fs%2Farticle%2FG-Arbitration-Procedures-dpf%3Ftabset-35584%3D2&data=05%7C01%7Csteve%40redcloveradvisors.com%7Ca9bf8b17700f42d9ddd308db8a18c134%7Cb6d9c0ffe6d34fe8a5b34fa851d9e47e%7C0%7C0%7C638255611190075316%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=r%2FhryO1%2B5ESOlFRS2Hx%2B%2FuwCVCtPrDZih0mo%2BYwNXaI%3D&reserved=0)
+
 For more information about the EU-U.S. Data Privacy Framework, visit [https://www.dataprivacyframework.gov](https://www.dataprivacyframework.gov/).
 
-Retention
----------
+**Retention**
+=============
 
 Evident will retain Personal Data for the period necessary to provide our Services or for the purposes it was collected for, as otherwise required by our contracts or by law.
 
@@ -357,13 +351,13 @@ When determining how long we should keep data, we consider the length of time we
 
 We may also anonymize or de-identify Personal Data so it would no longer be associated with you for research or analytical purposes. If data is anonymized or de-identified, we may use this data for as long as we have a legitimate business purpose for such use, without additional notice to you.
 
-Children Under 13
------------------
+**Children Under 13**
+=====================
 
 Our Services and Sites are not directed at children under 13 years of age (or older where required by law), and we do not knowingly collect or receive Personal Data from them. If we learn that we have received Personal Data from a child whose age requires parental consent for processing, we will delete the data. If you believe that we have received Personal Data from a child whose age requires parental consent, you may contact us at [compliance@evidentid.com](mailto:compliance@evidentid.com).
 
-California Privacy Rights
--------------------------
+**California Privacy Rights**
+=============================
 
 **Personal Information We Collect about California Consumers**
 --------------------------------------------------------------
@@ -372,241 +366,20 @@ Additional Notice for California Consumers – This part of our Privacy Policy a
 
 We describe the personal information we have collected from consumers in the twelve (12) months preceding the effective date of this Privacy Notice in the part of our Privacy Notice titled, “Collection of Personal Data” above. The information we collect includes the following:
 
-**Category of Personal Information****Examples of this Category****Sources of Personal Information****Business Purpose for Collection****Identifiers**Real name, alias, postal address, unique personal identifier, online identifier, Internal Protocol address, email address, account name, social security number, driver’s license number, passport number or other similar identifiers.You
-
-Automatically
-
-Third Parties
-
-To provide our products and Services
-
-To provide information you requested
-
-To improve our products and Services
-
-To identify potential customers
-
-To market our products and Services
-
-To verify identity
-
-To prevent fraud
-
-To process payments
-
-To comply with law
-
-To offer employment, to provide insurance and benefits, for background checks
-
-**Personal information described in California Civ. Code § 1798.80(e)**Name, signature, social security number, physical characteristics or description, address, telephone number, passport number, driver’s license or state identification card number, insurance policy number, education, employment, employment history, bank account number, credit card number, debit card number, or any other financial information, medical information, or health insurance information.You
-
-Automatically
-
-Third Parties
-
-To provide our products and Services
-
-To provide information you requested
-
-To improve our products and Services
-
-To identify potential customers
-
-To market our products and Services
-
-To verify identity
-
-To prevent fraud
-
-To process payments
-
-To comply with law
-
-To manage payroll and provide and administer employee benefits
-
-**Characteristics of protected classifications under California or federal law**Age (40 years or older), race, color, ancestry, national origin, citizenship, religion or credit, marital status, medical condition (AIDS/HIV status, cancer), physical or mental disability, sex (including gender, gender identity, gender expression, pregnancy or childbirth and related medical conditions), sexual orientation, veteran or military status, genetic information (including familial genetic information), political activities or affiliations, familial status, source of income status, status as a victim of domestic violence, assault, or stalking.You
-
-Third Parties
-
-To provide our products and Services to customers
-
-To improve our products and Services
-
-To offer employment, to provide insurance and benefits, for background checks
-
-To comply with law
-
-**Commercial information**Records of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies.You
-
-Automatically
-
-To provide our products and Services
-
-To market our products and Services
-
-To improve our products and Services
-
-To provide information you requested
-
-To comply with law
-
-**Biometric information**An individual’s genetic, physiological, biological or behavioral characteristics, including information pertaining to an individual’s deoxyribonucleic acid (DNA) or activity patterns that can be used to establish individual identity, including images of the iris, retina, fingerprint, face, hand, palm, vein patterns, and voice recordings, from which a faceprint, a minutiae template, or a voiceprint, can be extracted, and keystroke patterns or rhythms, gait patterns or rhythms, and sleep, health or exercise data that contain identifying information.You
-
-Automatically
-
-Third Parties
-
-To provide our products and Services
-
-To provide information you requested
-
-To improve our products and Services
-
-To identify potential customers
-
-To market our products and Services
-
-To verify identity
-
-To prevent fraud
-
-To process payments
-
-To comply with law
-
-To offer employment, to provide insurance and benefits, for background checks
-
-**Internet or other electronic network activity information**Browsing history, search history, and information regarding a consumer’s interaction with an Internet Web site, application, or advertisement.AutomaticallyTo provide our products and services 
-
-To market our products and services
-
-To improve our products and services (e.g., usage pattern data)
-
-To track employee actions for internal reports and information security purposes
-
-**Geolocation data**Physical location and/or movements.You 
-
-Automatically
-
-Third Parties
-
-To market our products and services
-
-To detect security incidents and protect our Sites or App
-
-**Sensory data**Audio, electronic, visual, thermal, olfactory, or similar information.You
-
-Automatically
-
-Third Parties
-
-To provide our products and Services
-
-To provide information you requested
-
-To improve our products and Services
-
-To identify potential customers
-
-To market our products and Services
-
-To verify identity
-
-To prevent fraud
-
-To process payments
-
-To comply with law
-
-To offer employment, to provide insurance and benefits, for background checks
-
-**Professional or employment related information**Current or past job history or performance evaluationsYou
-
-Third Parties
-
-To provide our products and Services
-
-To provide information you requested
-
-To improve our products and Services
-
-To identify potential customers
-
-To market our products and Services
-
-To verify identity
-
-To prevent fraud
-
-To process payments
-
-To comply with law
-
-To offer employment, to provide insurance and benefits, for background checks
-
-**Non-public education information (per the Family Educational Rights and Privacy Act – 20 U.S.C. § 1232g, 34 CFR Part 99)**Education records directly related to a student maintained by an educational institution or party acting on its behalf, such as grades, transcripts, class lists, student schedules, student identification codes, student financial information, or student disciplinary records.You
-
-Third Parties
-
-To provide our products and Services
-
-To provide information you requested
-
-To improve our products and Services
-
-To identify potential customers
-
-To market our products and Services
-
-To verify identity
-
-To prevent fraud
-
-To process payments
-
-To comply with law
-
-To offer employment, to provide insurance and benefits, for background checks
-
-**Inferences drawn from other Personal Information**Information used to create a profile about a consumer reflecting the consumer’s preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes.You
-
-Automatically
-
-Third Parties
-
-To provide our products and services 
-
-To market our products and services
-
-To improve our products and services
-
-To detect security incidents and protect our Sites or App
-
-**Sensitive Personal Information**Social security number, driver’s license number, account log-in, debit, or credit card number in combination with password or PIN, precise geolocation (less than 1850 sf radius), racial/ethnic origins, religious or philosophical beliefs, union membership, contents of e-mails or texts to others, genetic/biometric data, health information, sex life/sexual orientation dataYou
-
-Automatically
-
-Third Parties
-
-To provide our products and Services
-
-To provide information you requested
-
-To improve our products and Services
-
-To identify potential customers
-
-To market our products and Services
-
-To verify identity
-
-To prevent fraud
-
-To process payments
-
-To comply with law
-
-To offer employment, to provide insurance and benefits, for background checks
+| **Category of Personal Information** | **Examples of this Category** | **Sources of Personal Information** | **Business Purpose for Collection** |
+| --- | --- | --- | --- |
+| **Identifiers** | Real name, alias, postal address, unique personal identifier, online identifier, Internal Protocol address, email address, account name, social security number, driver’s license number, passport number or other similar identifiers. | You<br><br>Automatically<br><br>Third Parties | To provide our products and Services<br><br>To provide information you requested<br><br>To improve our products and Services<br><br>To identify potential customers<br><br>To market our products and Services<br><br>To verify identity<br><br>To prevent fraud<br><br>To process payments<br><br>To comply with law<br><br>To offer employment, to provide insurance and benefits, for background checks |
+| **Personal information described in California Civ. Code § 1798.80(e)** | Name, signature, social security number, physical characteristics or description, address, telephone number, passport number, driver’s license or state identification card number, insurance policy number, education, employment, employment history, bank account number, credit card number, debit card number, or any other financial information, medical information, or health insurance information. | You<br><br>Automatically<br><br>Third Parties | To provide our products and Services<br><br>To provide information you requested<br><br>To improve our products and Services<br><br>To identify potential customers<br><br>To market our products and Services<br><br>To verify identity<br><br>To prevent fraud<br><br>To process payments<br><br>To comply with law<br><br>To manage payroll and provide and administer employee benefits |
+| **Characteristics of protected classifications under California or federal law** | Age (40 years or older), race, color, ancestry, national origin, citizenship, religion or credit, marital status, medical condition (AIDS/HIV status, cancer), physical or mental disability, sex (including gender, gender identity, gender expression, pregnancy or childbirth and related medical conditions), sexual orientation, veteran or military status, genetic information (including familial genetic information), political activities or affiliations, familial status, source of income status, status as a victim of domestic violence, assault, or stalking. | You<br><br>Third Parties | To provide our products and Services to customers<br><br>To improve our products and Services<br><br>To offer employment, to provide insurance and benefits, for background checks<br><br>To comply with law |
+| **Commercial information** | Records of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies. | You<br><br>Automatically | To provide our products and Services<br><br>To market our products and Services<br><br>To improve our products and Services<br><br>To provide information you requested<br><br>To comply with law |
+| **Biometric information** | An individual’s genetic, physiological, biological or behavioral characteristics, including information pertaining to an individual’s deoxyribonucleic acid (DNA) or activity patterns that can be used to establish individual identity, including images of the iris, retina, fingerprint, face, hand, palm, vein patterns, and voice recordings, from which a faceprint, a minutiae template, or a voiceprint, can be extracted, and keystroke patterns or rhythms, gait patterns or rhythms, and sleep, health or exercise data that contain identifying information. | You<br><br>Automatically<br><br>Third Parties | To provide our products and Services<br><br>To provide information you requested<br><br>To improve our products and Services<br><br>To identify potential customers<br><br>To market our products and Services<br><br>To verify identity<br><br>To prevent fraud<br><br>To process payments<br><br>To comply with law<br><br>To offer employment, to provide insurance and benefits, for background checks |
+| **Internet or other electronic network activity information** | Browsing history, search history, and information regarding a consumer’s interaction with an Internet Web site, application, or advertisement. | Automatically | To provide our products and services <br><br>To market our products and services<br><br>To improve our products and services (e.g., usage pattern data)<br><br>To track employee actions for internal reports and information security purposes |
+| **Geolocation data** | Physical location and/or movements. | You <br><br>Automatically<br><br>Third Parties | To market our products and services<br><br>To detect security incidents and protect our Sites or App |
+| **Sensory data** | Audio, electronic, visual, thermal, olfactory, or similar information. | You<br><br>Automatically<br><br>Third Parties | To provide our products and Services<br><br>To provide information you requested<br><br>To improve our products and Services<br><br>To identify potential customers<br><br>To market our products and Services<br><br>To verify identity<br><br>To prevent fraud<br><br>To process payments<br><br>To comply with law<br><br>To offer employment, to provide insurance and benefits, for background checks |
+| **Professional or employment related information** | Current or past job history or performance evaluations | You<br><br>Third Parties | To provide our products and Services<br><br>To provide information you requested<br><br>To improve our products and Services<br><br>To identify potential customers<br><br>To market our products and Services<br><br>To verify identity<br><br>To prevent fraud<br><br>To process payments<br><br>To comply with law<br><br>To offer employment, to provide insurance and benefits, for background checks |
+| **Non-public education information (per the Family Educational Rights and Privacy Act – 20 U.S.C. § 1232g, 34 CFR Part 99)** | Education records directly related to a student maintained by an educational institution or party acting on its behalf, such as grades, transcripts, class lists, student schedules, student identification codes, student financial information, or student disciplinary records. | You<br><br>Third Parties | To provide our products and Services<br><br>To provide information you requested<br><br>To improve our products and Services<br><br>To identify potential customers<br><br>To market our products and Services<br><br>To verify identity<br><br>To prevent fraud<br><br>To process payments<br><br>To comply with law<br><br>To offer employment, to provide insurance and benefits, for background checks |
+| **Inferences drawn from other Personal Information** | Information used to create a profile about a consumer reflecting the consumer’s preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes. | You<br><br>Automatically<br><br>Third Parties | To provide our products and services <br><br>To market our products and services<br><br>To improve our products and services<br><br>To detect security incidents and protect our Sites or App |
+| **Sensitive Personal Information** | Social security number, driver’s license number, account log-in, debit, or credit card number in combination with password or PIN, precise geolocation (less than 1850 sf radius), racial/ethnic origins, religious or philosophical beliefs, union membership, contents of e-mails or texts to others, genetic/biometric data, health information, sex life/sexual orientation data | You<br><br>Automatically<br><br>Third Parties | To provide our products and Services<br><br>To provide information you requested<br><br>To improve our products and Services<br><br>To identify potential customers<br><br>To market our products and Services<br><br>To verify identity<br><br>To prevent fraud<br><br>To process payments<br><br>To comply with law<br><br>To offer employment, to provide insurance and benefits, for background checks |
 
 Information related to how long we retain each category of personal information is included in the Retention section above. 
 
@@ -617,7 +390,7 @@ For more information, please see “Collection of Personal Data” and “Inform
 
 We don’t sell consumers’ personal information in the sense that most people think of selling, but we do provide it to other companies that you should expect to interact with, such as a Relying Party, and those companies we have contracted with to help provide some part of our services, like marketing services providers and sponsors of events. The term, “sale,” is broadly defined in CCPA and includes any sharing of your personal information to a third party for consideration if the third party might use the information for their own purpose (such as in advertising or analytics). 
 
-As is common practice among businesses that operate websites, we may have disclosed certain online identifiers, information about the use of our Sites and inferences drawn about you to our social media, advertising and analytics partners for our marketing and related purposes. While we do not view these data sharing activities as “sales,” if you wish to opt-out of our uses of personal information for these purposes, click here Cookie Settings. We don’t intend for our Services to be used by anyone under 16 and therefore do not knowingly collect, sell or share personal information of individuals under age 16.
+As is common practice among businesses that operate websites, we may have disclosed certain online identifiers, information about the use of our Sites and inferences drawn about you to our social media, advertising and analytics partners for our marketing and related purposes. While we do not view these data sharing activities as “sales,” if you wish to opt-out of our uses of personal information for these purposes, click here. We don’t intend for our Services to be used by anyone under 16 and therefore do not knowingly collect, sell or share personal information of individuals under age 16.
 
 We have disclosed the following categories of personal information for business purposes in the last twelve (12) months:
 
@@ -636,7 +409,7 @@ We have disclosed the following categories of personal information for business 
 | **Inferences drawn from other Personal Information** | Service Providers<br><br>Relying Parties | Helping to ensure the security and integrity of personal information<br><br>Performing services on behalf of the business<br><br>Internal research for technological development and demonstration<br><br>Activities to verify or maintain the quality of, improve, upgrade, and/or enhance our services |
 | **Sensitive Personal Information** | Service Providers<br><br>Relying Parties | Helping to ensure the security and integrity of personal information<br><br>Performing services on behalf of the business<br><br>Internal research for technological development and demonstration<br><br>Activities to verify or maintain the quality of, improve, upgrade, and/or enhance our services |
 
-For additional information regarding the purposes for which we use the personal information we collect, please see “Use of Personal Data and Other Information” and “How we Share your Information” sections above
+For additional information regarding the purposes for which we use the personal information we collect, please see “Use of Personal Data and Other Information” and “How we Share your Information” sections above.
 
 **Your California Privacy Rights**
 ----------------------------------
@@ -663,11 +436,11 @@ You have the right to request that we delete personal information about you that
 
 ### **Right to Correct Personal Information**
 
-You have the right to request that we correct any inaccurate information that we maintain about you.
+You have the right to request that we correct any inaccurate information that we maintain about you. 
 
 ### **Right to Opt Out**
 
-You have the right to opt out of the sale or sharing of personal information. We do not sell personal information, but we recognize that some privacy laws define “personal information” in such a way that making available identifiers linked to you for a benefit may be considered a “sale.” To opt-out of this, please click onCookie Settings.
+You have the right to opt out of the sale or sharing of personal information. We do not sell personal information, but we recognize that some privacy laws define “personal information” in such a way that making available identifiers linked to you for a benefit may be considered a “sale.” To opt-out of this, please click on this link.
 
 ### **Right to Limit the Use or Disclosure of Sensitive Personal Information** 
 
@@ -699,8 +472,8 @@ Please note that we may take steps to verify your identity before granting you a
 
 If you are a California resident, you may ask us for a notice describing what categories of personal information we share with third parties or affiliates for those third parties or affiliates’ direct marketing purposes and identify the name and address of the third parties that received such personal information. We don’t share this information with others for their direct marketing purposes.
 
-Illinois Privacy Rights
------------------------
+**Illinois Privacy Rights**
+===========================
 
 Additional Notice for Illinois Residents – This part of our Privacy Policy applies to residents of Illinois. We have provided this additional notice to ensure we give Illinois residents the disclosures that are required by Illinois laws, (e.g. the Illinois Biometric Information Privacy Act or “**BIPA**”).
 
@@ -708,31 +481,27 @@ Evident’s collection of personal information may include biometric identifiers
 
 Facial images. Specifically with respect to facial images, if you agree to use our facial recognition service that we offer to Relying Parties, we will collect an image of your face that you provide through a web or mobile app (i.e. a selfie) and a photo or scan of your face as it appears on an identification document, such as a driver license. We will use facial recognition technology only for the purpose of verifying your identity as the person who appears on the identification document. We may share the facial scans and related biometric data with the Relying Party through which you used our identity verification service. In general (but subject to the retention periods for biometric data described above), we will retain your facial recognition information, including the photo of your face and photo or scan of your identification document, for the amount of time needed to fulfil the Relying Party’s requirements and applicable audit and verification purposes. In no event will Evident store your facial recognition information after Evident ceases to have a customer relationship with such Relying Party.
 
-Your Privacy Rights under Other US State Laws
----------------------------------------------
+**Your Privacy Rights under Other US State Laws**
+=================================================
 
-Based on the applicable law in the state where you live, you may have the following rights with respect to your Personal Information:
+If you are a resident of Colorado, Connecticut or Virginia, you have the right, upon a verified request, to:
 
-* To confirm whether or not a controller is processing your personal data and to access such personal data; 
+* To confirm whether a controller is processing your personal data and to access such personal data; 
 * To correct inaccuracies in your personal data; 
 * To delete your personal data; 
 * To obtain a copy of your personal data that you previously provided to us in a portable, and if technically feasible, readily usable format, if processing is carried out by automated means; 
 * To opt out of the processing of your personal data for purposes of (i) targeted advertising, (ii) the sale of personal data, or (iii) profiling in furtherance of decisions that produce legal or similarly significant effects concerning the consumer. 
-* Not to discriminate against you because you have exercised any of these rights, including by:
-    * denying you Services;
-    * charging different prices or rates for our Services, including through the use of discounts or other benefits or imposing penalties;
-    * providing you a different level or quality of Services; and/or
-    * suggesting that you will receive a different price or rate for Services, or at a different level or quality of Services.
 
-To exercise any of these rights, you may make a request to confirm, access, correct, delete, obtain a copy, or opt-out of the processing of your personal data for targeting advertising, sale, or profiling by Cookie Settings using this webform or contacting us using the information in the [Contact Us](#_Contact_Us) section below.
+To exercise these rights, you or your authorized agent may make a request to confirm, access, correct, delete, obtain a copy, or opt-out of the processing of your personal data for targeting advertising, sale, or profiling by using this link or contacting us using the information in the [Contact Us](https://docs.google.com/document/d/1B-fUqqifE6BT76S6naJBtgKNhCYwRgpU/edit#heading=h.1t3h5sf) section below.
 
-We may require you to confirm your identity and your residency in order to obtain the information, and you are only entitled to make this request up to twice annually. For emails, please include “Privacy Rights” as the subject line. You must include your full name, email address, and attest to the fact that you are a resident. We will process your request within 45 days or let you know if we need additional time or cannot process your request. If you make this request by telephone, we may also ask you to provide the request in writing so that we may verify your identity. If we are unable to honor your request for any reason, we will notify you of the reason within the request time period.
+If you use an authorized agent to submit your request, we may require proof of the written authorization you have given. We also may require you to confirm your identity and your residency in order to obtain the information. For emails, please include “Privacy Rights” as the subject line. You must include your full name, email address, and attest to the fact that you are a resident of Colorado, Connecticut or Virginia. We will process your request within 45 days or let you know if we need additional time or cannot process your request. If you make this request by telephone, we may also ask you to provide the request in writing so that we may verify your identity. If we are unable to honor your request for any reason, we will notify you of the reason within the request time period. 
 
-**Right to Opt Out**
---------------------
+**Right to Opt Out Under Applicable State Laws** 
+-------------------------------------------------
 
-You may have the right to opt out of the sale of their Personal Information and targeted advertising. To exercise your right, please click on this link  
-Cookie Settings on the bottom of the webpage where your information is being collected.
+Residents of Colorado, Connecticut, and Virginia have the right to opt out of the sale of their personal data and targeted advertising. To exercise your right, please click on this link.
+
+California residents may have additional rights, as shown in the “California Privacy Rights” section above.
 
 **Opt-Out Preference Signals**
 ------------------------------
@@ -742,17 +511,19 @@ Some browsers and browser extensions support opt-out preference signals such as 
 **Appeals of Our Decisions**
 ----------------------------
 
-In some jurisdictions, you may appeal to us if we refuse to take action on your exercise of certain choices described above. In order to appeal such a refusal, please contact us using the information in the Contact Us section below with the subject line “Appeal of Refusal to Take Action on Privacy Request” and provide the relevant information in the email. 
+In some states, you may appeal to us if we refuse to take action on your exercise of certain choices described above. To appeal such a refusal, please contact us using the information in the Contact Us section below with the subject line “Appeal of Refusal to Take Action on Privacy Request” and provide the relevant information in the email. If your appeal is denied, residents of certain states can contact their attorney general as follows:
 
-If we decline to take action on any request you make, we will provide you with the information required by the applicable law where you live. This may include an explanation of why we declined your request, information on how to appeal our decision, and/or how to make a complaint to your state Attorney General.
+* [Virginia Attorney General](https://www.virginia.gov/agencies/office-of-the-attorney-general/)
+* [Colorado Attorney General](https://coag.gov/protecting-consumers/)
+* [Connecticut Attorney General](https://portal.ct.gov/AG/Common/Complaint-Form-Landing-page)
 
-Changes to this Privacy Policy
-------------------------------
+**Changes to this Privacy Policy**
+==================================
 
 We may change this Privacy Policy at any time. We will post all changes to this Privacy Policy on this page and will indicate at the top of the page the modified policy’s effective date. We therefore encourage you to refer to this page on an ongoing basis so that you are aware of our current privacy policy. If required by the applicable law, we will notify you of the changes. By continuing to use the Sites and/or the Services or providing us with information following such a replacement Policy being provided, you agree that you will be deemed to have agreed to be bound by the Privacy Policy as changed.
 
-Contact Us
-----------
+**Contact Us**
+==============
 
 If you have any questions or suggestions regarding this Privacy Policy, please contact us at [compliance@evidentid.com](mailto:compliance@evidentid.com) or send postal mail to: P.O. Box 19119 Atlanta, GA 31126, United States Attention: Privacy Office
 
