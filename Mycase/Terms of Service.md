@@ -872,7 +872,7 @@ Hours: Mon-Fri 6am-5pm PST
 Contact Support: [(800) 571-8062](tel:800571-8062)  
 Contact Sales: [(800) 462-8173](tel:800462-8173)
 
-[Contact us](https://mycasekegging.com/contact/)
+[Contact us](https://www.mycase.com/contact/)
 
   
 Search
