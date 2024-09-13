@@ -57,7 +57,7 @@ We use data to help customize your experience with more products and offers rele
 
 Privacy Policy
 
-Updated April 2, 2024
+Updated September 13, 2024
 
 Click to expand all sections of the P&G Privacy Policy
 
@@ -1153,6 +1153,58 @@ Any such complaints should be reported within 72 (seventy-two) hours of the occu
 **Reporting a data breach to the authorities**
 
 P&G will seek to report potential data breaches within 72 hours of knowledge of such breaches to the relevant authorities responsible for monitoring the security of personal data.
+
+Background
+
+Saudi Arabia Privacy
+
+This notice supplements the Global Privacy Policy above (the "**Privacy Policy**"). Terms which appear capitalized but ae not defined in the Policy or in the Notice have the meaning given under the Personal Data Protection Law promulgated by Royal Decree No. M/19, dated 09/02/1443H on 24 September 2021
+
+Background
+
+Data Controller
+
+Ismail Abudawood and Procter & Gamble Limited
+
+Modern Products Company Limited
+
+Background
+
+Categories of Personal Data & Legal Basis for Processing
+
+In Saudi Arabia, 'Sensitive Data' includes personal information revealing racial or ethnic origin, or religious, intellectual, or political belief, data relating to security criminal convictions and offenses, biometric or Genetic Data for the purpose of identifying the person, Health Data, and data that indicates that one or both of the individual’s parents are unknown.
+
+Our legal basis for processing personal data are set out in the Privacy Policy. Where we process Sensitive Data, we will always obtain explicit consent as required by law.
+
+Background
+
+How We Collect Personal Data
+
+When we collect personal data from third parties, we do so in accordance with the Privacy Policy and only to the extent permitted by applicable law.
+
+Background
+
+How we Disclose Personal Data
+
+When we disclose personal data to third parties, we do so in accordance with the Privacy Policy as well as the applicable requirements under the law.
+
+Background
+
+International Transfers
+
+We may transfer your personal data to countries outside Saudi Arabia as set out in the Privacy Policy above. When doing so, we are complying with all applicable requirements under applicable law to protect personal data transferred outside Saudi Arabia adequately. This includes transferring your data to countries that are recognized by the competent authority as adequately protecting personal data or implementing certain additional and appropriate safeguards to protect personal data (as required by applicable law).
+
+Background
+
+Data Subject Rights
+
+You have the right to access the personal data we hold about you, the right to request access to such personal data in a readable and clear format, the right to request correction of personal data where you believe it is inaccurate, and the right to request destruction of personal data (in certain circumstances). You may also withdraw your consent at any time where we are relying on your consent to process your personal data. To exercise your rights, [click here](https://preferencecenter.pg.com/en-sa/) or send us an email by [clicking here](https://consumersupport.pg.com/CarehubStandalone?Country=sa&Language=en&Brand=P%26G&popup=false#brandListDiv).
+
+If you are not happy with our response to your requests, you have the right to lodge a complaint with the data protection regulator, the Saudi Data & Artificial Intelligence Authority (“SDAIA”). You can contact SDAIA using the following details:
+
+Website: [https://sdaia.gov.sa](https://sdaia.gov.sa/)
+
+Phone: +966 11 223 2222
 
 Background
 
