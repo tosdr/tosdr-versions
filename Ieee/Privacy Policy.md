@@ -144,7 +144,7 @@ Search all IEEE websites
 * [Conferences](https://www.ieee.org/conferences.html)
     
     * [Upcoming conferences](https://conferences.ieee.org/conferences_events/conferences/search?q=*&subsequent_q=&date=all&from=&to=&region=all&country=all&pos=0&sortorder=desc&sponsor=&sponsor_type=all&state=all&field_of_interest=all&sortfield=relevance?utm_source=mm_con_search&utm_medium=hp&utm_campaign=conferences-search-all)
-    * [IEEE Meetings, Conferences & Events (MCE)](http://ieeemce.org/)
+    * [IEEE Conferences, Events & Experiences (CEE)](http://ieeemce.org/)
     * [IEEE Conference Application](https://www.ieee.org/conferences/organizers/conf-app.html)
     * [See benefits of authoring a conference paper](https://www.ieee.org/publications/authors/publishing-benefits/index.html)
     
@@ -163,7 +163,7 @@ Search all IEEE websites
     * [Register a conference](https://www.ieee.org/conferences/application-form.html?utm_source=mm_wdw&utm_campaign=register_conf&utm_medium=conf&utm_term=register%20a%20conference)
     * [Publish conference papers](https://www.ieee.org/conferences/organizers/publishing-conference-papers.html?utm_source=mm_wdw&utm_campaign=conf_pap&utm_medium=conf&utm_term=publish%20conference%20papers)
     * [Manage conference finances](https://www.ieee.org/conferences/organizers/managing-conference-finances.html?utm_source=mm_wdw&utm_campaign=conf_fin&utm_medium=conf&utm_term=conference%20finances)
-    * [Learn about IEEE Meetings, Conferences & Events (MCE)](http://www.ieeemce.org/?utm_source=mm_wdw&utm_campaign=ben_pub&utm_medium=conf&utm_term=benefits_publishing)
+    * [Learn about IEEE Conferences, Events & Experiences (CEE)](http://www.ieeemce.org/?utm_source=mm_wdw&utm_campaign=ben_pub&utm_medium=conf&utm_term=benefits_publishing)
     
     [See results](#)
     
