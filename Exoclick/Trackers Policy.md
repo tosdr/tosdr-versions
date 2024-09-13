@@ -69,29 +69,29 @@ Target double opt-in users with our high converting Email Clicks ad format.
 [Blog](https://www.exoclick.com/blog/)
 --------------------------------------
 
-* [![ExoClick Customer Success Team](https://www.exoclick.com/wp-content/uploads/2022/10/Client-Care-3-1-320x180.png)](https://www.exoclick.com/your-success-is-our-commitment-meet-exoclicks-customer-success-team/)
+* [![Increase watch time with Fluid Player’s new Suggested Videos feature View time has a huge impact on advertising metrics How to increase watch time on my website Increase website video monetization opportunities Suggest interesting video content to website users Benefits of Suggested Videos feature How to set up Fluid Player on my website Best video player to monetize video on my website](https://www.exoclick.com/wp-content/uploads/2024/09/Fluid-player-320x180.png)](https://www.exoclick.com/increase-watch-time-with-fluid-players-new-suggested-videos-feature/)
     
-    ### [‘Your success is our commitment’: Meet the ExoClick Customer Success Team!](https://www.exoclick.com/your-success-is-our-commitment-meet-exoclicks-customer-success-team/)
+    ### [Increase watch time with Fluid Player’s new Suggested Videos feature](https://www.exoclick.com/increase-watch-time-with-fluid-players-new-suggested-videos-feature/)
     
-    An instrumental part of ExoClick is the Client Care team and Tech Support Team, which provides 24/7 multilingual assistance.
+    Learn how to increase watch time with Fluid Player’s new Suggested Videos feature and increase website video monetization opportunities.
     
-    [Read More](https://www.exoclick.com/your-success-is-our-commitment-meet-exoclicks-customer-success-team/)
+    [Read More](https://www.exoclick.com/increase-watch-time-with-fluid-players-new-suggested-videos-feature/)
     
-* [![What is keyword targeting in advertising? How to target specific keywords on an advertiser campaign How to use keyword targeting effectively on my campaigns Advertiser Keyword Targeting feature](https://www.exoclick.com/wp-content/uploads/2024/07/keyword-targeting-320x180.png)](https://www.exoclick.com/exoclicks-advertiser-keyword-targeting-feature/)
+* [![launching a seasonal marketing campaign to increase conversions](https://www.exoclick.com/wp-content/uploads/2024/09/Halloween-320x180.png)](https://www.exoclick.com/leverage-halloween-for-campaign-creatives/)
     
-    ### [ExoClick’s Advertiser Keyword Targeting feature](https://www.exoclick.com/exoclicks-advertiser-keyword-targeting-feature/)
+    ### [Leverage Halloween for campaign creatives](https://www.exoclick.com/leverage-halloween-for-campaign-creatives/)
     
-    Learn how to use ExoClick’s Advertiser Keyword Targeting feature to reach your preferred audiences through simple keyword associations.
+    Leverage Halloween for your campaign creatives! Discover expert tips to create engaging Halloween campaigns that resonate with your audience.
     
-    [Read More](https://www.exoclick.com/exoclicks-advertiser-keyword-targeting-feature/)
+    [Read More](https://www.exoclick.com/leverage-halloween-for-campaign-creatives/)
     
-* [![When should i bid or buy a traffic share](https://www.exoclick.com/wp-content/uploads/2024/07/biddint-vs-TS-1-320x180.png)](https://www.exoclick.com/bidding-vs-traffic-share-when-should-i-bid-or-buy-a-traffic-share-deal/)
+* [![How targeting can help you reach your conversion goals](https://www.exoclick.com/wp-content/uploads/2024/08/targeting-320x180.png)](https://www.exoclick.com/how-targeting-can-help-you-reach-your-conversion-goals/)
     
-    ### [Bidding Vs Traffic Share: When should I bid or buy a Traffic Share deal?](https://www.exoclick.com/bidding-vs-traffic-share-when-should-i-bid-or-buy-a-traffic-share-deal/)
+    ### [How targeting can help you reach your conversion goals!](https://www.exoclick.com/how-targeting-can-help-you-reach-your-conversion-goals/)
     
-    Advertisers! Let’s explore Bidding Vs Traffic Share and answer the question ‘When should I bid or buy a Traffic Share?’
+    Learn how targeting can help you reach your conversion goals! This is everything you need to know about Targeting and Frequency Capping!
     
-    [Read More](https://www.exoclick.com/bidding-vs-traffic-share-when-should-i-bid-or-buy-a-traffic-share-deal/)
+    [Read More](https://www.exoclick.com/how-targeting-can-help-you-reach-your-conversion-goals/)
     
 
 [Tutorials](https://www.youtube.com/playlist?list=PL_vgYj9CKceY3zVm3W_G7_Sdiu1OXrJja)
@@ -131,17 +131,25 @@ Target double opt-in users with our high converting Email Clicks ad format.
 [Events](https://www.exoclick.com/events/)
 ------------------------------------------
 
-* [![ExoClick at Affiliate Summit East](https://www.exoclick.com/wp-content/uploads/2024/06/Affiliate-Summit-East-2-320x179.png)](https://www.exoclick.com/event/affiliate-summit-east-new-york-2024/)
+* [![Book a meeting with exoClick at TES Affiliate Conference, Prague](https://www.exoclick.com/wp-content/uploads/2024/08/TES-Prague-320x179.jpg)](https://www.exoclick.com/event/exoclick-at-tes-affiliate-conference-prague-2024/)
     
-    ### [Affiliate Summit East, New York 2024](https://www.exoclick.com/event/affiliate-summit-east-new-york-2024/)
+    ### [ExoClick at TES Affiliate Conference, Prague 2024](https://www.exoclick.com/event/exoclick-at-tes-affiliate-conference-prague-2024/)
     
-    When: July 29, 2024 - July 30, 2024 Organiser: Affiliate Summit
+    When: September 16, 2024 - September 19, 2024 Organiser: TES Affiliate Conferences
     
-    ExoClick is attending Affiliate Summit East on July 29th and 30th 2024 in New York. 
+    ExoClick is exhibiting at the TES Affiliate Conference in Prague from the 16th to the 19th of September 2024! Visit our booth B34 or book a meeting with our experts!
     
-    Visit us at Meet Market Table 1200 and meet the team!
+    [Read More](https://www.exoclick.com/event/exoclick-at-tes-affiliate-conference-prague-2024/)
     
-    [Read More](https://www.exoclick.com/event/affiliate-summit-east-new-york-2024/)
+* [![ExoClick is Attending AW Summit in Bucharest on the 12-15th 2024!](https://www.exoclick.com/wp-content/uploads/2024/08/Bucharest-1-320x179.png)](https://www.exoclick.com/event/exoclick-is-attending-aw-summit/)
+    
+    ### [ExoClick is Attending AW Summit](https://www.exoclick.com/event/exoclick-is-attending-aw-summit/)
+    
+    When: September 12, 2024 - September 15, 2024 Organiser: AW Summit
+    
+    ExoClick is Attending AW Summit in Bucharest on the 12-15th 2024! Book a meeting with Artem
+    
+    [Read More](https://www.exoclick.com/event/exoclick-is-attending-aw-summit/)
     
 
 #### [Advertisers](https://www.exoclick.com/advertisers-2/)
