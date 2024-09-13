@@ -92,7 +92,7 @@ If you have general questions about Megaphone’s policies or terms, please emai
 Privacy Policy
 --------------
 
-Effective Date: January 1, 2024
+Effective Date: September 1, 2024
 
 Megaphone, a service offered by Spotify (“**Megaphone**,” “**we**,” or “**us**”). Megaphone is committed to treating the personal data we process with respect and sensitivity. We want to transparently explain how and why we gather, store, share and use your personal data - as well as outline the controls and choices you have around when and how you choose to share your personal data. This Privacy Policy (“**Policy**”) aims to explain what we mean in further detail below.
 
@@ -144,7 +144,7 @@ If your request is denied you may have the right to appeal the denial in accorda
 
 CCPA rights request metrics
 
-Between January 1 and December 31, 2022, we have not received any verifiable requests for access or deletion of data that we are the controllers of.
+Between January 1 and December 31, 2023, we have not received any verifiable requests for access or deletion of data that we are the controllers of.
 
 No Sales or Sensitive Data
 
