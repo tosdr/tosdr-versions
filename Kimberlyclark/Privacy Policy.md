@@ -468,7 +468,7 @@ We are committed to earning and maintaining trust by honoring the following prin
 GLOBAL PRIVACY POLICY
 =====================
 
-Last Updated : 08/01/2024
+Last Updated : 09/13/2024
 
 [](javascript:void(0))
 
@@ -1054,16 +1054,19 @@ Read more Read less
 Bahrain
 -------
 
+This section pertains to personal information collected in Bahrain and it is in compliance with the Personal Data Protection Law No. 30 of 2018 and corresponding resolutions, as amended from time to time.
+
 If you reside in Bahrain, you may request access to or correction of the personal information that we have collected about you. To access or correct your personal information, please contact:
 
-Olayan Kimberly-Clark (Bahrain)  
-W.L.L.  
+Olayan Kimberly-Clark (Bahrain) W.L.L.  
 P. O. Box 33124  
-Isa Town  
+Building No. 1051, Street No. 5135, Block 951,  
+Askar, Al-Mazraa Industrial Park  
 Kingdom of Bahrain  
-Phone: +973 17834494  
-800 1242330 (toll free)  
-Fax: 973-17-830-449
+Phone: +973 1783 0688  
+80080427 (HR Toll free number)  
+Fax: 973 17 830 175  
+[\[email protected\]](https://www.kimberly-clark.com/cdn-cgi/l/email-protection)
 
 Read more Read less
 
@@ -1542,6 +1545,23 @@ Russia
 
 If you reside in Russia, please find applicable privacy policy [here](https://www.huggies.ru/privacy-policy).
 
+Saudi Arabia (KSA)
+------------------
+
+This section pertains to personal information collected in the Kingdom of Saudi Arabia (“KSA”) and is in compliance with the Personal Data Protection Law no. (M/19) dated 9/2/1443 AH and its implanting regulations, as amended from time to time.
+
+If you reside in KSA, you may request access to or correction of the personal information that we have collected about you. To access or correct your personal information, please contact:
+
+Olayan Kimberly Clark Saudi Company Limited  
+Building 5105, 11th Street  
+First Industrial City Dammam  
+Saudi Arabia  
+Phone +966-138063126  
+Toll free 800 1242330  
+[\[email protected\]](https://www.kimberly-clark.com/cdn-cgi/l/email-protection)
+
+Read more Read less
+
 South Africa
 ------------
 
@@ -1665,6 +1685,22 @@ Istanbul
 Turkey  
 Phone: 90-216-410-8182  
 Fax: 90-216-410-8192
+
+Read more Read less
+
+UAE
+---
+
+This section pertains to personal information collected in the United Arab Emirates (“UAE”) and is in compliance with the Federal Personal Data Protection Law No. 45 of 2021, as amended from time to time.
+
+If you reside in UAE, you may request access to or correction of the personal information that we have collected about you. To access or correct your personal information, please contact:
+
+Kimberly Clark MEA DMCC  
+Jumeirah Lake Towers  
+Unit 1101, Cluster O, Reef Tower  
+P.O. Box 5003338  
+Dubai, UAE  
+[\[email protected\]](https://www.kimberly-clark.com/cdn-cgi/l/email-protection)
 
 Read more Read less
 
