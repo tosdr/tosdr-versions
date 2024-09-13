@@ -167,15 +167,15 @@
 
 [EVERY ORDER CAN HELP END CHILDHOOD HUNGER](https://www.biotrust.com/pages/charity)
 
- [![Customer Support](https://bio-img.biotrust.com/Shopify/header/chat-bubbles.png) CUSTOMER SUPPORT](#)
+ [![Customer Support](//www.biotrust.com/cdn/shop/t/41/assets/chat-bubbles.png?v=95742358852790106191726098757) CUSTOMER SUPPORT](#)
 
- ![Customer Support](https://bio-img.biotrust.com/Shopify/header/chat-bubbles.png) CUSTOMER SUPPORT expand
+ ![Customer Support](//www.biotrust.com/cdn/shop/t/41/assets/chat-bubbles.png?v=95742358852790106191726098757) CUSTOMER SUPPORT expand
 
 MY ACCOUNT expand
 
 [MY ACCOUNT expand](https://www.biotrust.com/account)
 
- [![Cart Icon](https://bio-img.biotrust.com/Shopify/global/vip/cart.png)](https://www.biotrust.com/cart)[MY CART (0) items](https://www.biotrust.com/cart)
+ [![Cart Icon](//www.biotrust.com/cdn/shop/t/41/assets/cart.png?v=66477680444600225761726098759)](https://www.biotrust.com/cart)[MY CART (0) items](https://www.biotrust.com/cart)
 
 [![BioTRUST](//www.biotrust.com/cdn/shop/files/naturally-honest_911b83fb-85cd-42d6-8bc9-aab9bb97abb8_300x300.png?v=1674668138)
 
