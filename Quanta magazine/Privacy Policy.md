@@ -309,18 +309,6 @@ _By_ [Joseph Howlett](https://www.quantamagazine.org/authors/josephhowlett)
 
 _By_ [Erica Klarreich](https://www.quantamagazine.org/authors/erica-klarreich)
 
-[![](https://www.quantamagazine.org/wp-content/uploads/2024/08/EntanglementSuddenDeath-crKristinaArmitage-Thumbnail.webp)](https://www.quantamagazine.org/computer-scientists-prove-that-heat-destroys-entanglement-20240828/)
-
-[#### Computer Scientists Prove That Heat Destroys Quantum Entanglement](https://www.quantamagazine.org/computer-scientists-prove-that-heat-destroys-entanglement-20240828/)
-
-_By_ [Ben Brubaker](https://www.quantamagazine.org/authors/brubaker_ben)
-
-[![](https://www.quantamagazine.org/wp-content/uploads/2024/08/MassiveGravity-cr.PeterGreenwood-Thumbnail.webp)](https://www.quantamagazine.org/do-we-need-a-new-theory-of-gravity-20240829/)
-
-[#### Do We Need a New Theory of Gravity?](https://www.quantamagazine.org/do-we-need-a-new-theory-of-gravity-20240829/)
-
-_By_ [Janna Levin](https://www.quantamagazine.org/authors/jannalevin)
-
 The Quanta Newsletter
 
 _Get highlights of the most important news delivered to your email inbox_
