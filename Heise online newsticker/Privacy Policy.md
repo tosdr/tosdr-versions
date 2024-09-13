@@ -6,7 +6,7 @@
 
   
 
-[Menü](#topnavigation__sub)
+[](#topnavigation__sub)
 
 * [c't Magazin Logo c't – Magazin für Computertechnik](https://www.heise.de/ct/ "c't – Magazin für Computertechnik")
 * [iX Magazin Logo iX – Magazin für professionelle Informationstechnik](https://www.heise.de/ix/ "iX – Magazin für professionelle Informationstechnik")
@@ -86,12 +86,12 @@ Services
 
 [Newsticker](https://www.heise.de/newsticker/) [Foren](https://www.heise.de/forum/)
 
+* [IFA 📺](https://www.heise.de/thema/IFA "News und Artikel zum Thema IFA 📺")
 * [Künstliche Intelligenz 🤖](https://www.heise.de/thema/K%C3%BCnstliche-Intelligenz "News und Artikel zum Thema Künstliche Intelligenz 🤖")
 * [Windows 🪟](https://www.heise.de/thema/Windows "News und Artikel zum Thema Windows 🪟")
 * [Energie 🔥](https://www.heise.de/thema/Energie "News und Artikel zum Thema Energie 🔥")
-* [Datenleck 🔓](https://www.heise.de/thema/Datenklau "News und Artikel zum Thema Datenleck 🔓")
-* [eHealth ⚕️](https://www.heise.de/thema/Digital-Health "News und Artikel zum Thema eHealth ⚕️")
 * [Raumfahrt 🚀](https://www.heise.de/thema/Raumfahrt "News und Artikel zum Thema Raumfahrt 🚀")
+* [eHealth ⚕️](https://www.heise.de/thema/Digital-Health "News und Artikel zum Thema eHealth ⚕️")
 * [Podcasts 🎙](https://www.heise.de/podcasts "News und Artikel zum Thema Podcasts 🎙")
 * [Downloads 💾](https://www.heise.de/download "News und Artikel zum Thema Downloads 💾")
 
@@ -772,8 +772,9 @@ Die rasante Entwicklung des Internets macht von Zeit zu Zeit Anpassungen in unse
 * 09.06.2023: Erweiterung der [individuellen Datenschutzinformationen für heise online und Telepolis](https://www.heise.de/Individuelle-Datenschutzinformationen-fuer-heise-online-und-Telepolis-4058147.html) um Punkt 19, "BusinessAd"
 * 21.08.2023: Erweiterung der [individuellen Datenschutzinformationen für heise online und Telepolis](https://www.heise.de/Individuelle-Datenschutzinformationen-fuer-heise-online-und-Telepolis-4058147.html) um Punkt 20, "Scalooper ABM-Campaign Targeting"
 * 07.02.2024: Erweiterung der [individuellen Datenschutzinformationen für heise online und Telepolis](https://www.heise.de/Individuelle-Datenschutzinformationen-fuer-heise-online-und-Telepolis-4058147.html) um Punkt 21, "ID5"
-* 01.07.24: Die [individuellen Datenschutzinformationen für die Pro-Services](https://www.heise.de/Individuelle-Datenschutzinformationen-fuer-Pro-Services-der-Heise-Medien-GmbH-Co-KG-9784579.html) wurden in die Liste der Online-Angebote aufgenommen und dort verlinkt  
-    
+* 01.07.2024: Die [individuellen Datenschutzinformationen für die Pro-Services](https://www.heise.de/Individuelle-Datenschutzinformationen-fuer-Pro-Services-der-Heise-Medien-GmbH-Co-KG-9784579.html) wurden in die Liste der Online-Angebote aufgenommen und dort verlinkt
+* 23.08.2024: Änderung von Punkt 1 der [individuellen Datenschutzinformationen für heise online und Telepolis](https://www.heise.de/Individuelle-Datenschutzinformationen-fuer-heise-online-und-Telepolis-4058147.html), "Google Ad Manager / Google Ad Exchange / Google Advertising Products (Google Ads)" (3. Absatz)
+* 29.08.2024: Erweiterung der [individuellen Datenschutzinformationen für heise online und Telepolis](https://www.heise.de/Individuelle-Datenschutzinformationen-fuer-heise-online-und-Telepolis-4058147.html) um Punkt 22, "Datawrapper"
 
 Hannover, den 12. Juni 2018
 
