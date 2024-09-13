@@ -1,6 +1,6 @@
 None
 
-Save up to 50% on select major appliances.Ends 9/11.[Shop now](https://www.bestbuy.com/site/home-appliances/major-appliances-sale-event/pcmcat321600050000.c?id=pcmcat321600050000)
+3-Day SaleEnds 9/15. Limited quantities. No rainchecks.[Shop now](https://www.bestbuy.com/site/clp/sale-page/pcmcat185700050011.c?id=pcmcat185700050011)
 
 [Skip to content](#headerskip "Skip to content")
 
@@ -200,8 +200,8 @@ You may use the Best Buy Properties for your personal, noncommercial use only. Y
 
 ![](https://pisces.bbystatic.com/image2/BestBuy_US/Gallery/GL-44833-icnhd-help-2002241-206914.png;maxHeight=160;maxWidth=160)
 
-[Help Center.](https://www.bestbuy.com/site/customer-service/help-topics/pcmcat203400050001.c?id=pcmcat203400050001)
---------------------------------------------------------------------------------------------------------------------
+[Help Center](https://www.bestbuy.com/site/customer-service/help-topics/pcmcat203400050001.c?id=pcmcat203400050001)
+-------------------------------------------------------------------------------------------------------------------
 
 Find answers to commonly asked questions about orders, product information, returns and more.
 
