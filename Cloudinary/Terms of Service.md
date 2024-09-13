@@ -172,15 +172,13 @@ Notwithstanding any remedies that may be available to Cloudinary under any appli
 * #### 4\. Acceptable Use of the Services
     
 
-When using the Services, you will abide by the applicable laws, rules and regulations, and by any usage guidelines Cloudinary may convey to you from time to time.
+When using the Services, you will abide by the applicable laws, rules and regulations, [Cloudinary Acceptable Use Policy](https://cloudinary.com/trust/aup) and by any usage guidelines Cloudinary may convey to you from time to time.
 
-You may not access or use the Services for any illegal or abusive purposes, or to develop or create a similar or competitive product or service to the Services. You will be responsible for all acts and omissions associated with your access and use of the Services and the access and use of the Services by employees, agents, contractors, end-users and any other third party who may access or use the Services on your behalf, or at your permission (“**Authorized Users**“).
+You may not access or use the Services for any illegal or abusive purposes, or to develop or create a similar or competitive product or service to the Services. You will be responsible for all acts and omissions associated with your access and use of the Services and the access and use of the Services by employees, agents, contractors, end-users and any other third party who may access or use the Services on your behalf, or at your permission (“**Authorized Users**“). Any use of your account is subject to your sole responsibility.
 
 You can use your account for, and may allow your Authorized Users to, upload, store, administrate, edit, deliver, make available and distribute content (“**Contributed Content**“) on your website and applications, subject to any content upload technical and safety guidelines and limitations which will be conveyed to you through your account dashboard, and amended from time to time. Cloudinary may, but is under no duty to, review all Contributed Content and remove or block access to such content, as more fully described below.
 
-Any use of your account is subject to your sole responsibility. You will not, and be responsible that your Authorized Users will not, access and use the Services (including as to upload or transmit any Contributed Content) for any illegal, harmful, fraudulent, offensive purpose or to transmit, store, display, distribute or otherwise make available content that is infringing upon any third party rights, illegal, harmful, supportive of or promoting violence or violent extremism, advocating hatred against any person or group of people based on their race, religion, ethnicity, sex, gender identity, sexual orientation, disability, or impairment, indecent, obscene, defamatory, libelous, harassing, threatening, fraudulent, offensive, enables online gambling or inconsistent with the generally accepted practices of the Internet community, including without limitation promoting or facilitating pornography, offering or disseminating fraudulent goods, services, schemes, or promotions, spamming, make-money-fast schemes, ponzi and pyramid schemes, phishing, or pharming, and use of content or technology that may damage, interfere with, surreptitiously intercept, or expropriate any system, program, or data, including viruses, Trojan horses, worms or time bombs.
-
-As between you and Cloudinary, and to the extent permitted by applicable law, you own and  retain all rights in any Contributed Content. You acknowledge that you are responsible to make sure you have all sufficient copyrights and Intellectual Property rights to the Contributed Content, including for ensuring that it does not violate any third party’s rights, applicable law or these Terms.
+Without derogating from any provisions under Cloudinary Acceptable Use Policy, you will not, and be responsible that your Authorized Users will not, access and use the Services (including as to upload or transmit any Contributed Content) for any illegal, harmful, fraudulent, offensive purpose or to transmit, store, display, distribute or otherwise make available content that is infringing upon any third party rights, illegal, harmful, supportive of or promoting violence or violent extremism, advocating hatred against any person or group of people based on their race, religion, ethnicity, sex, gender identity, sexual orientation, disability, or impairment, indecent, obscene, defamatory, libelous, harassing, threatening, fraudulent, offensive, enables online gambling or inconsistent with the generally accepted practices of the Internet community, including without limitation promoting or facilitating pornography, offering or disseminating fraudulent goods, services, schemes, or promotions, spamming, make-money-fast schemes, ponzi and pyramid schemes, phishing, or pharming, and use of content or technology that may damage, interfere with, surreptitiously intercept, or expropriate any system, program, or data, including viruses, Trojan horses, worms or time bombs.
 
 * #### 5\. Privacy and Data Protection
     
@@ -207,7 +205,7 @@ Cloudinary also offers fee-based plans. You may use them subject to purchasing o
 
 You may pay the fees by using the methods of payments as available, published and updated from time to time on the Services. Fees will be regarded as paid only after your payment has been confirmed. The Services will be available to you promptly after you have paid the Service fees. You acknowledge that fees are not refundable.
 
-Payments will include applicable taxes. You will pay all fees and taxes in a timely manner and in compliance with Cloudinary’s pricing schedule and you will reimburse Cloudinary for any interest and collection costs resulting from overdue payments. All invoices will be sent digitally.
+Payments will include applicable taxes and you are responsible for all taxes, including sales tax where applicable. You will pay all fees and taxes in a timely manner and in compliance with Cloudinary’s pricing schedule and you will reimburse Cloudinary for any interest and collection costs resulting from overdue payments. All invoices will be sent digitally.
 
 Cloudinary will make its best efforts to have a transaction processed accurately and expeditiously and reimburse you for any excess payment that you were mistakenly charged with. However, Cloudinary will not be liable for mistakes, errors, malfunctions and miscalculations made by the payment service providers.
 
@@ -225,11 +223,13 @@ Information about our support plans can be found here: [**https://cloudinary.co
 * #### 9\. Intellectual Property
     
 
+As between you and Cloudinary, and to the extent permitted by applicable law, you own and  retain all rights in any Contributed Content. You acknowledge that you are responsible to make sure you have all sufficient copyrights and Intellectual Property rights to the Contributed Content, including for ensuring that it does not violate any third party’s rights, applicable law or these Terms.
+
 Except for your Contributed Content, all rights, title and interest in and to the Services, including any intellectual property rights, whether registered or not, and any goodwill associated therewith, are owned by, or licensed to Cloudinary Ltd. Unless as expressly provided herein, these Terms do not grant you any rights to patents, copyrights, trademarks (whether registered or unregistered), trade names, trade secrets, domain names or any other rights, functions or licenses with respect to the Services and you may not use the Services for any other purpose without Cloudinary’s prior, express written authorization.
 
 Cloudinary does not claim ownership over Contributed Content. However, you grant Cloudinary permission to use your Contributed Content, for the purposes of providing, developing and supporting the Services. You grant Cloudinary permission to use your Company name and logo in Cloudinary website and any Cloudinary issued publications. If you wish to decline Cloudinary’s use of your name and logo, please contact Cloudinary at: [**support@cloudinary.com**](mailto:support@cloudinary.com). You acknowledge that Cloudinary may adjust and modify Contributed Content, per your requests.
 
-Some features or capabilities of the Services integrate with or use generative Artificial Intelligence tools and machine learning abilities. If you use the Services for generating any type of materials or output, including images and video files, such output will be deemed as part of your Contributed Content, and is subject to these Terms, including our acceptable use restrictions. Note that generated output may be similar across users, may not be complete or accurate and should be evaluated and reviewed by you prior to any use.
+Some features or capabilities of the Services integrate with or use generative Artificial Intelligence tools and machine learning abilities. If you use the Services for generating any type of materials or output, including images and video files, such output will be deemed as part of your Contributed Content, and is subject to these Terms, including our Acceptable Use Policy. Note that generated output may be similar across users, may not be complete or accurate and should be evaluated and reviewed by you prior to any use. For more information about Cloudinary use of AI, please visit our [AI Trust page](https://cloudinary.com/products/cloudinary_ai/faq).
 
 * #### 10\. Confidentiality
     
@@ -292,7 +292,7 @@ If any provision of these Terms is held by a court of competent jurisdiction to 
 
 You may contact Cloudinary with any questions about the Services, through the contact form at: [**https://cloudinary.com/contact**](https://cloudinary.com/contact) Cloudinary will make efforts to address your inquiry promptly.
 
-Last updated: May 1, 2023
+Last updated: September 11, 2024
 
 [Cloudinary Logo](https://cloudinary.com/)
 
@@ -324,7 +324,6 @@ Last updated: May 1, 2023
 * [SDKs](https://cloudinary.com/documentation/cloudinary_sdks)
 * [Add-Ons](https://cloudinary.com/addons)
 * [Podcasts](https://cloudinary.com/podcasts)
-* [Cookbook](https://cloudinary.com/cookbook)
 
 **Company**
 
