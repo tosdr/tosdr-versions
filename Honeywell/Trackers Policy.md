@@ -274,7 +274,7 @@ Cookies are small text files that our Sites place on your Devices. When you re-v
 **There are four types of cookies that we may use:**
 
 * **Strictly necessary cookies** are needed for our Sites to function and to provide you with the services and information that you have requested. Strictly necessary cookies are exempt from the consent requirement.
-* **Functional cookies** enable enhanced functionality and personalisation. For example, they allow our Sites to remember information that you provide such as your language preferences and to store technical information useful for your interactions with our Sites. They may be set by us or by third-party providers whose services we have added to our Sites.  If you do not allow these cookies then some or all of these services may not function properly.
+* **Functional cookies** enable enhanced functionality and personalization. For example, they allow our Sites to remember information that you provide such as your language preferences and to store technical information useful for your interactions with our Sites. They may be set by us or by third-party providers whose services we have added to our Sites.  If you do not allow these cookies then some or all of these services may not function properly.
 * **Performance cookies** collect information about your use of our Sites (for e.g. it allows us to count visits and traffic sources) and help us learn how our Sites are performing so that we can make relevant improvements that could better your browsing experience (for e.g. it allow us to know which pages are the most and least popular). All information these cookies collect is aggregated and therefore anonymous.
 * **Advertising/ targeting cookies** collect data about your online activity and identify your interests so that we can create a profile for you and to provide advertising that is more relevant to you. They also perform functions like preventing the same adverts from continuously reappearing, ensuring that adverts are properly displayed, and selecting adverts that are based on your interests.
 
@@ -300,7 +300,7 @@ The information stored in our Sites’ Cookies is used exclusively by us (or by 
 
 **What about Flash Cookies or Local Shared Objects?**
 
-We may use Flash Cookies or Local Shared Objects (“Flash LSOs”) to store your website preferences, personalise your visit, prevent fraud and for other site operations. If you do not want Flash LSOs stored on your computer, you can adjust the settings of your Flash player to block Flash LSOs storage using the tools contained in the Website Storage Settings Panel. You can also control Flash LSOs by going to the Global Storage Settings Panel and following the instructions (which may include instructions that explain, for example, how to delete existing Flash LSOs).
+We may use Flash Cookies or Local Shared Objects (“Flash LSOs”) to store your website preferences, personalize your visit, prevent fraud and for other site operations. If you do not want Flash LSOs stored on your computer, you can adjust the settings of your Flash player to block Flash LSOs storage using the tools contained in the Website Storage Settings Panel. You can also control Flash LSOs by going to the Global Storage Settings Panel and following the instructions (which may include instructions that explain, for example, how to delete existing Flash LSOs).
 
 **Targeted Advertising**
 
@@ -1881,7 +1881,7 @@ Cookies are small text files that our Sites place on your Devices. When you re-v
 **There are four types of cookies that we may use:**
 
 * **Strictly necessary cookies** are needed for our Sites to function and to provide you with the services and information that you have requested. Strictly necessary cookies are exempt from the consent requirement.
-* **Functional cookies** enable enhanced functionality and personalisation. For example, they allow our Sites to remember information that you provide such as your language preferences and to store technical information useful for your interactions with our Sites. They may be set by us or by third-party providers whose services we have added to our Sites.  If you do not allow these cookies then some or all of these services may not function properly.
+* **Functional cookies** enable enhanced functionality and personalization. For example, they allow our Sites to remember information that you provide such as your language preferences and to store technical information useful for your interactions with our Sites. They may be set by us or by third-party providers whose services we have added to our Sites.  If you do not allow these cookies then some or all of these services may not function properly.
 * **Performance cookies** collect information about your use of our Sites (for e.g. it allows us to count visits and traffic sources) and help us learn how our Sites are performing so that we can make relevant improvements that could better your browsing experience (for e.g. it allow us to know which pages are the most and least popular). All information these cookies collect is aggregated and therefore anonymous.
 * **Advertising/ targeting cookies** collect data about your online activity and identify your interests so that we can create a profile for you and to provide advertising that is more relevant to you. They also perform functions like preventing the same adverts from continuously reappearing, ensuring that adverts are properly displayed, and selecting adverts that are based on your interests.
 
@@ -1907,7 +1907,7 @@ The information stored in our Sites’ Cookies is used exclusively by us (or by 
 
 **What about Flash Cookies or Local Shared Objects?**
 
-We may use Flash Cookies or Local Shared Objects (“Flash LSOs”) to store your website preferences, personalise your visit, prevent fraud and for other site operations. If you do not want Flash LSOs stored on your computer, you can adjust the settings of your Flash player to block Flash LSOs storage using the tools contained in the Website Storage Settings Panel. You can also control Flash LSOs by going to the Global Storage Settings Panel and following the instructions (which may include instructions that explain, for example, how to delete existing Flash LSOs).
+We may use Flash Cookies or Local Shared Objects (“Flash LSOs”) to store your website preferences, personalize your visit, prevent fraud and for other site operations. If you do not want Flash LSOs stored on your computer, you can adjust the settings of your Flash player to block Flash LSOs storage using the tools contained in the Website Storage Settings Panel. You can also control Flash LSOs by going to the Global Storage Settings Panel and following the instructions (which may include instructions that explain, for example, how to delete existing Flash LSOs).
 
 **Targeted Advertising**
 
