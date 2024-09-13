@@ -35,7 +35,7 @@ Store Crypto
 * [Bitcoin Wallet](https://bitpay.com/wallet/btc/)
 * [Ethereum Wallet](https://bitpay.com/wallet/eth/)
 * [Tether Wallet](https://bitpay.com/wallet/usdt/)
-* [Polygon Wallet](https://bitpay.com/wallet/matic/)
+* [Polygon Wallet](https://bitpay.com/wallet/pol/)
 * [Litecoin Wallet](https://bitpay.com/wallet/ltc/)
 
 [Pay with Crypto ![Arrow Right](data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMTVweCIgaGVpZ2h0PSIxNHB4IiB2aWV3Qm94PSIwIDAgMTUgMTQiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgICA8dGl0bGU+QlAtQXJyb3ctUmlnaHQ8L3RpdGxlPgogICAgPGcgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj4KICAgICAgICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMTUyLjAwMDAwMCwgLTUuMDAwMDAwKSIgc3Ryb2tlPSIjMDI1MEM1Ij4KICAgICAgICAgICAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTUzLjAwMDAwMCwgNi4wMDAwMDApIj4KICAgICAgICAgICAgICAgIDxnPgogICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wLDYgTDEzLDYiIHN0cm9rZS13aWR0aD0iMiI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgIDxwb2x5bGluZSBzdHJva2Utd2lkdGg9IjIiIHBvaW50cz0iNyAwIDEzIDYgNyAxMiI+PC9wb2x5bGluZT4KICAgICAgICAgICAgICAgIDwvZz4KICAgICAgICAgICAgPC9nPgogICAgICAgIDwvZz4KICAgIDwvZz4KPC9zdmc+Cg==)](https://bitpay.com/spend-crypto/) 
