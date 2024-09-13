@@ -29,7 +29,7 @@
 Privacy Policy
 ==============
 
-_Last Modified: Dec 15, 2023_
+_Last Modified: September 12, 2024_
 
 CustomInk, LLC ("Custom Ink", “we” or “us”) understands that security and privacy are important issues for users of our services available at [www.customink.com](https://www.customink.com/about/privacy) (the "Site"). The following Privacy Policy (this "Policy") describes how we collect, use and share the information that we gather about the users of our Site.
 
@@ -48,6 +48,7 @@ This Policy may change from time to time (see [Changes to this Policy](#12)). Yo
 [Your European privacy rights](#15)  
 [Your California privacy rights](#8)  
 [Your Virginia privacy rights](#17)  
+[Your Texas privacy rights](#18)  
 [Children’s privacy](#9)  
 [External links](#10)  
 [Security](#11)  
@@ -61,7 +62,7 @@ Information we collect
 
 We may collect information about you, including information that can identify you as an individual (“Personal Information”), (i) directly from you, (ii) automatically through your use of our Site, and (iii) from third parties. We may combine the information we collect about you from these various sources.
 
-* **Information we collect directly from you.** Depending on how you use our Site, you may provide us with personal information such as your name, email address, phone number, credit or debit card information and shipping or billing address. We will also collect any other information that you choose to provide to us through our Site (e.g., contents of messages you send to us through our Site).
+* **Information we collect directly from you.** Depending on how you use our Site, you may provide us with Personal Information such as your name, email address, phone number, credit or debit card information and shipping or billing address. We will also collect any other information that you choose to provide to us through our Site (e.g., contents of messages you send to us through our Site).
 * **Content that you provide.** You may upload comments, reviews, graphics, photos or other materials to the Site ("Content"). If you post Content on our Site, the Content (e.g., t-shirt designs or photos submitted as part of a contest), as well as other information (e.g., user name or profile picture), may be available to all visitors to our Site. We cannot prevent such Content or information from being used in a manner that may violate this Policy, our [User Agreement](https://www.customink.com/about/user_agreement), the law, or your personal privacy.
 * **Information we collect about you from third parties.** We may collect information about you from third parties. For example, we may collect demographics information from public sources and from third-party data and analytics companies. In addition, we may collect information about you from other Custom Ink users (e.g., if one user ships a package to another user).
 * **Information we collect automatically through your use of our Site.** We may automatically collect information about your use of our Site and your orders, including but not limited to your Internet protocol (“IP”) address; the type of web browser you are using; the website that led you to our Site; the website you visit after leaving our Site; the pages you view on our Site; the dates and times you access our Site; and information about any orders you place, such as your order identification number, items ordered and the cost of your order.
@@ -147,7 +148,7 @@ If you are a resident of the European Union or the United Kingdom, you have cert
 * The right to object to our processing of your Personal Information for direct marketing purposes.
 * The right to receive your Personal Information from us in a structured, commonly used and machine-readable format, and the right to transmit your Personal Information to another controller without hindrance from us (data portability).
 
-If you are located in the European Union or the United Kingdom and you are or have been our customer, we may send you marketing communications based on our legitimate interests, subject always to your right to opt out of such communications. Further, if you are located in the European Union or the United Kingdom, we will never share your personal information with a third party for such third party’s marketing purposes, unless you have specifically consented to us doing so.
+If you are located in the European Union or the United Kingdom and you are or have been our customer, we may send you marketing communications based on our legitimate interests, subject always to your right to opt out of such communications. Further, if you are located in the European Union or the United Kingdom, we will never share your Personal Information with a third party for such third party’s marketing purposes, unless you have specifically consented to us doing so.
 
 You may fill out a request [here](https://privacyportal.onetrust.com/webform/ad37f637-4936-48fb-9de5-eacfd28c9739/81ffeefa-aa44-4b28-9a0e-e8710790f056) to exercise any of the above rights. We may request specific information from you to confirm your identity, and in some circumstances we may charge a reasonable fee for access to your Personal Information.
 
@@ -158,12 +159,12 @@ For purposes of the GDPR, we are a “controller” and you are a “data subjec
 Your California privacy rights
 ------------------------------
 
-If you are a California resident, California law provides you with additional rights regarding our use of your personal information. To learn more about your California privacy rights, visit [CUSTOM INK PRIVACY NOTICE FOR CALIFORNIA RESIDENTS.](https://www.customink.com/about/ccpa)
+If you are a California resident, California law provides you with additional rights regarding our use of your Personal Information. To learn more about your California privacy rights, visit [CUSTOM INK PRIVACY NOTICE FOR CALIFORNIA RESIDENTS.](https://www.customink.com/about/ccpa)
 
 Your Virginia privacy rights
 ----------------------------
 
-If you are a Virginia resident, Virginia law provides you with additional rights regarding our use of your personal information. Specifically, you may exercise the following rights:
+If you are a Virginia resident, Virginia law provides you with additional rights regarding our use of your Personal Information. Specifically, you may exercise the following rights:
 
 * To confirm whether or not we are processing your Personal Information and to access such Personal Information.
 * To correct inaccuracies in your Personal Information, taking into account the nature of the Personal Information and the purposes of the processing of your Personal Information.
@@ -171,7 +172,20 @@ If you are a Virginia resident, Virginia law provides you with additional rights
 * To obtain a copy of your Personal Information that you previously provided us in a portable and, to the extent technically feasible, readily usable format that allows you to transmit your Personal Information to another entity without hindrance, where the processing is carried out by automated means.
 * To opt out of the processing of your Personal Information for purposes of targeted advertising, the sale of your Personal Information and profiling in furtherance of decisions that produce legal or similarly significant effects concerning you.
 
-To help protect your privacy and maintain security, we will take steps to verify your identity before complying with your request. If we decline to take action in any request that you submit in connection with the rights described above, you may ask that we reconsider our response by sending an email to us at privacy@customink.com. You must ask us to reconsider our decision within 45 days after we send you our decision.
+To help protect your privacy and maintain security, we will take steps to verify your identity before complying with your request. If we decline to take action in response to any request that you submit in connection with the rights described above, you may ask that we reconsider our response by sending an email to us at privacy@customink.com. You must ask us to reconsider our decision within 45 days after we send you our decision.
+
+Your Texas privacy rights
+-------------------------
+
+If you are a Texas resident, Texas law provides you with additional rights regarding our use of your Personal Information. Specifically, you may exercise the following rights:
+
+* To confirm whether or not we are processing your Personal Information and to access and obtain a copy of such Personal Information.
+* To correct inaccuracies in your Personal Information, taking into account the nature of the Personal Information and the purposes of the processing of your Personal Information.
+* To request that we delete Personal Information that you provide or that we obtain about you.
+* To obtain a copy of your Personal Information that you previously provided us in a portable and, to the extent technically feasible, readily usable format that allows you to transmit your Personal Information to another entity without hindrance, where the data is available in a digital format.
+* To opt out of the processing of your Personal Information for purposes of targeted advertising, the sale of your Personal Information and profiling in furtherance of decisions that produce legal or similarly significant effects concerning you.
+
+To help protect your privacy and maintain security, we will take steps to verify your identity before complying with your request. If we decline to take action in response to any request that you submit in connection with the rights described above, you may ask that we reconsider our response by sending an email to us at [privacy@customink.com](mailto:privacy@customink.com). You must ask us to reconsider our decision within 45 days after we send you our decision.
 
 Children’s privacy
 ------------------
