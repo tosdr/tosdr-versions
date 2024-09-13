@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-6dfa9b55ed46100cf9035f7d6369a6bd
+8e541bd8d60df54caa7c3e311a9afae8
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Gold flower and pearl earrings](https://www.sojourner.biz/images/cache/E0040.200.jpg)](https://www.sojourner.biz/jewelry/earrings/gold-flower-and-pearl-earrings.html "Gold flower and pearl earrings")
+[![Jet Swarovski rivoli clasp](https://www.sojourner.biz/images/cache/SKU0348variations.200.jpg)](https://www.sojourner.biz/clasps/swarovski/jet-swarovski-rivoli-clasp.html "Jet Swarovski rivoli clasp")
 
-#### [Gold flower and pearl earrings](https://www.sojourner.biz/jewelry/earrings/gold-flower-and-pearl-earrings.html "Gold flower and pearl earrings")
+#### [Jet Swarovski rivoli clasp](https://www.sojourner.biz/clasps/swarovski/jet-swarovski-rivoli-clasp.html "Jet Swarovski rivoli clasp")
 
-$35.00
+$20.00
 
 ### Best Sellers
 
@@ -195,10 +195,10 @@ $35.00
     $15.00
 8. [Red bar clasp](https://www.sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
     $23.00
-9. [Citrine clasp](https://www.sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
-    $26.00
-10. [Mother-of-pearl box clasp](https://www.sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
+9. [Mother-of-pearl box clasp](https://www.sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
     $17.00
+10. [Citrine clasp](https://www.sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
+    $26.00
 
 [Top](#)
 
