@@ -369,7 +369,7 @@ Log in to order, manage your products and services, and track your orders.
             
         * Containers & Orchestration Explore all our Containers & Orchestration products
             
-            * [Managed Rancher Service Beta](https://www.ovhcloud.com/en/public-cloud/managed-rancher-service/) Simplified and centralised management of your Kubernetes clusters
+            * [Managed Rancher Service New](https://www.ovhcloud.com/en/public-cloud/managed-rancher-service/) Simplified and centralised management of your Kubernetes clusters
             * [Managed Kubernetes Service](https://www.ovhcloud.com/en/public-cloud/kubernetes/) Orchestrate your containerised applications with a CNCF-certified Kubernetes cluster
             * [Managed Private Registry](https://www.ovhcloud.com/en/public-cloud/managed-private-registry/) A repository for your software building blocks, in the form of Docker images or Helm charts
             * [Private Image catalog](https://www.ovhcloud.com/en/public-cloud/private-image-catalog/) Maintain & store custom images of your virtual servers
