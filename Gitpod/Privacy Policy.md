@@ -8,20 +8,20 @@
 * [Customers](https://www.gitpod.io/customers)
 * [Pricing](https://www.gitpod.io/pricing)
 
-[12.6k](https://github.com/gitpod-io/gitpod)
+[12.7k](https://github.com/gitpod-io/gitpod)
 
 * [Login](https://gitpod.io/login/)
 
 [Get a demo](https://www.gitpod.io/contact/get-demo)
 
-[12.6k](https://github.com/gitpod-io/gitpod)
+[12.7k](https://github.com/gitpod-io/gitpod)
 
 [Login](https://gitpod.io/login/)
 
 Privacy policy
 ==============
 
-Effective Date: December 20th, 2023
+Effective Date: August 19th, 2024
 
 Below we provide you with an overview of what data we collect for what purpose and how we ensure the protection of the data [in short](#short) and [in a more detailed form](#detailed).
 
@@ -221,10 +221,6 @@ More Detailed Information
     
     You can also find more information in Metabase's privacy policy: [https://metabase.com/privacy/](https://metabase.com/privacy/).
     
-    ### Orbit Labs
-    
-    We use Orbit Labs, provided by Orbit Labs, Inc., to analyse engagement of our community on social Platforms such as GitHub, Twitter and Discord. Orbit Labs has no access to data of our Website Visitors. Orbit Labs acts as data controller in accordance with the GDPR (see Section _Who is responsible for your personal information_ of the [Privacy policy](https://orbit.love/privacy-policy)).
-    
     ### Youtube
     
     We use the YouTube.com platform to \[post our own videos and\] make them publicly available. YouTube is operated by Google (inter alia Youtube LLC, USA and Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland).
@@ -248,9 +244,9 @@ More Detailed Information
     
     ### Registration and Access to Existing Account
     
-    In order to fully use our full online Service, you will need to register. You may only register if you have an existing user account at the third party services set forth on the Website, for example the service offered on the website [https://github.com](https://github.com/) operated by GitHub Inc., 88 Colin P Kelly Jr St, San Francisco, CA 94107, USA, (**"Existing Account"**).
+    In order to fully use our full online Service, you will need to register. You may only register if you have an existing user account at the third party services set forth on the Website, for example the service offered on the website [https://github.com](https://github.com/) operated by GitHub Inc., 88 Colin P Kelly Jr St, San Francisco, CA 94107, USA or [https://google.com](https://google.com/) operated by Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA, (**"Existing Account"**).
     
-    When you sign up for using the Gitpod Service via your Existing Account, data at such Existing Account with be accessible by us with your explicit consent only. Such data include: _user profile data (name, username and email address), list of repositories you have access to._
+    When you sign up for using the Gitpod Service via your Existing Account, data at such Existing Account with be accessible by us with your explicit consent only. Such data include: _user profile data (name, username and email address) and list of repositories you have access to._
     
     You can manage these data at any time via using your Existing Account linked to the Gitpod Service.
     
@@ -397,7 +393,7 @@ More Detailed Information
 * Gitpod
 * [Getting started](https://www.gitpod.io/docs/introduction/getting-started)
 * [CDEs](https://www.gitpod.io/cde)
-* [Enterprise](https://www.gitpod.io/contact/enterprise-self-serve)
+* [Enterprise](https://www.gitpod.io/enterprise)
 * [Pricing](https://www.gitpod.io/pricing)
 * [Ready-to-code](https://www.gitpod.io/ready-to-code)
 * [Support](https://www.gitpod.io/support)
