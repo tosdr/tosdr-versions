@@ -1054,7 +1054,7 @@ Other uncategorized cookies are those that are being analyzed and have not been 
 
 SAVE & ACCEPT
 
-Powered by [![CookieYes Logo](https://www.gensolve.com/nz/wp-content/plugins/cookie-law-info/public/images/logo-cookieyes.svg)](https://www.cookieyes.com/)
+Powered by [![CookieYes Logo](https://www.gensolve.com/nz/wp-content/plugins/cookie-law-info/legacy/public/images/logo-cookieyes.svg)](https://www.cookieyes.com/)
 
 ![Gensolve Practice Manager, cloud based, secure, feature rich](https://www.gensolve.com/nz/wp-content/uploads/sites/5/2020/05/Gensolve-Header-31.03-300x76.png)
 
