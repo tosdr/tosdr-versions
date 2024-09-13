@@ -1,7 +1,7 @@
 ![](https://www.facebook.com/tr?id=1786287688265762&ev=PageView&noscript=1)
 
 1. [Home](https://www.grameenphone.com/)
-2. [Privacy Policy](https://www.grameenphone.com/privacy-policy/#)
+2. [Privacy Policy](https://www.grameenphone.com/privacy-policy#)
 
 Privacy Policy
 ==============
@@ -149,8 +149,8 @@ MyGP App
 
 © 2024 Grameenphone Limited | Part of Telenor Group
 
-[Sitemap](https://www.grameenphone.com/sitemap/)
+[Sitemap](https://www.grameenphone.com/sitemap)
 
-[Terms of Use](https://www.grameenphone.com/terms-use/)
+[Terms of Use](https://www.grameenphone.com/terms-use)
 
-[Privacy Policy](https://www.grameenphone.com/privacy-policy/)
+[Privacy Policy](https://www.grameenphone.com/privacy-policy)
