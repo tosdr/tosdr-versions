@@ -1,14 +1,14 @@
 src="https://www.googletagmanager.com/ns.html?id=GTM-TLZVJ35" height="0" width="0" style="display:none;visibility:hidden">
 
-[Get the Soltera.2 Now for Just $999!](https://www.aventon.com/products/soltera-2-ebike)
+[Free extra battery with the purchase of Aventure and Pace ebikes](https://www.aventon.com/collections/sale)
 
 — —
 
-View All Offers 4
+View All Offers 5
 
 SUPPORT
 
-[Bike Registration](https://www.aventon.com/pages/bike-registration) [Contact Us](https://rideaventon.zendesk.com/hc/en-us/requests/new) [FAQ](https://rideaventon.zendesk.com/hc/en-us) [Manuals & Guides](https://rideaventon.zendesk.com/hc/en-us/categories/23148443363227-Model-Specific-Information) [Return Policy](https://www.aventon.com/pages/terms-of-service#returns) [Shipping](https://www.aventon.com/pages/terms-of-service#shipping) [Warranty](https://www.aventon.com/pages/warranty) [Order Cancelation](https://www.aventon.com/pages/terms-of-service#cancelations)
+[Bike Registration](https://www.aventon.com/pages/bike-registration) [Contact Us](https://rideaventon.zendesk.com/hc/en-us/requests/new) [FAQ](https://rideaventon.zendesk.com/hc/en-us) [Manuals & Guides](https://rideaventon.zendesk.com/hc/en-us/categories/23148443363227-Model-Specific-Information) [Return Policy](https://www.aventon.com/pages/terms-of-service#returns) [Shipping](https://www.aventon.com/pages/terms-of-service#shipping) [Warranty](https://www.aventon.com/pages/warranty) [Order Cancelation](https://www.aventon.com/pages/terms-of-service#cancelations) [Refer A Friend](https://www.aventon.com/pages/share)
 
 Send us a message
 
@@ -22,7 +22,7 @@ US/EN
 
 YOUR OFFERS
 
-[![](https://aventon-images.imgix.net/files/Promo-Side-Drawer-Cargo-Bundles.jpg?v=1721240815&auto=compress,format&w=10&blur=10)](https://www.aventon.com/products/abound-ebike)[![](https://aventon-images.imgix.net/files/57eb89b3-6ec2-4d11-ad67-cb71bf85dd0b_promo-free-shipping-all-bikes-2_6862aff3-6291-4154-8340-73832a16587f.jpg?v=1714157335&auto=compress,format&w=10&blur=10)](https://www.aventon.com/collections/ebikes)[![](https://aventon-images.imgix.net/files/Promo-Side-Drawer-US-Soltera2.jpg?v=1725923813&auto=compress,format&w=10&blur=10)](https://www.aventon.com/products/soltera-2-ebike)[![](https://aventon-images.imgix.net/files/Promo-Side-Drawer-Pace_3d59955e-8a7c-41f6-9897-e28a462f8ddf.jpg?v=1725397344&auto=compress,format&w=10&blur=10)](https://www.aventon.com/products/pace500-3-step-through-ebike)
+[![](https://aventon-images.imgix.net/files/Promo-Side-Drawer-Cargo-Bundles.jpg?v=1721240815&auto=compress,format&w=10&blur=10)](https://www.aventon.com/products/abound-ebike)[![](https://aventon-images.imgix.net/files/Aventure_CA-neutral.png?v=1726006811&auto=compress,format&w=10&blur=10)](https://www.aventon.com/products/aventure2-ebike)[![](https://aventon-images.imgix.net/files/57eb89b3-6ec2-4d11-ad67-cb71bf85dd0b_promo-free-shipping-all-bikes-2_6862aff3-6291-4154-8340-73832a16587f.jpg?v=1714157335&auto=compress,format&w=10&blur=10)](https://www.aventon.com/collections/ebikes)[![](https://aventon-images.imgix.net/files/Promo-Side-Drawer-US-Soltera2.jpg?v=1725923813&auto=compress,format&w=10&blur=10)](https://www.aventon.com/products/soltera-2-ebike)[![](https://aventon-images.imgix.net/files/Promo-Side-Drawer-Pace_3d59955e-8a7c-41f6-9897-e28a462f8ddf.jpg?v=1725397344&auto=compress,format&w=10&blur=10)](https://www.aventon.com/products/pace500-3-step-through-ebike)
 
 [Aventon](https://www.aventon.com/)
 
@@ -302,13 +302,6 @@ YOUR OFFERS
         Peace of mind for you
         
         View Warranty Details >](https://www.aventon.com/pages/warranty)
-    * [![](//www.aventon.com/cdn/shop/files/cancelation_icon_7d169289-eb67-4a98-8c27-dde241dadf15.png?v=1721856116&width=128)
-        
-        Order Cancelation
-        
-        Cancel your order here
-        
-        Learn How >](https://www.aventon.com/pages/terms-of-service#cancelations)
     
     Send us a message
     
@@ -566,6 +559,9 @@ Open menu
         Cancel your order here
         
         Learn How >](https://www.aventon.com/pages/terms-of-service#cancelations)
+    * [Liquid error (snippets/anatta-header-nav line 181): invalid url input
+        
+        \>](https://www.aventon.com/pages/share)
     
 * [FIND A BIKE SHOP](https://www.aventon.com/pages/electric-bike-shop-dealer-locator)
 
