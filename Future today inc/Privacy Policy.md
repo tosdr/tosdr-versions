@@ -26,7 +26,7 @@ Privacy Summary
 
 OUR CONTACT INFORMATION  
 Future Today Inc.  
-Address: 3723 Haven Ave, Ste 133, Menlo Park, CA, USA, 94025  
+Address: Future Today Inc. 3705 Haven Ave, Suite 133 Menlo Park, CA 94025  
 Phone number: [1 888 575 7564](callto:1 888 575 7564)  
 Email address: [privacy@futuretodayinc.com](mailto:privacy@futuretodayinc.com)  
 
@@ -469,12 +469,12 @@ If you are submitting a privacy rights request, include the information we menti
 
 * * *
 
-![logo](img/Logo.png)
+![logo](img/Logo.png) 
 
 Future Today Inc.  
-3723 Haven Ave,  
-Ste 133, Menlo Park,  
-CA, USA, 94025
+3705 Haven Ave,  
+Suite 133 Menlo Park,  
+CA 94025
 
 [Distribute Your Content](http://futuretodayinc.com/distribute-your-content)
 
