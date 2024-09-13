@@ -412,11 +412,11 @@ Main navigation
             [Go to **Local brands**](https://www.nestle.com/brands/chocolate-confectionery/local-brands)
             
         
-    * [Coffee](https://www.nestle.com/brands/coffee-new)
+    * [Coffee](https://www.nestle.com/brands/coffee)
         
         [Back](# "Close Menu")
         
-        [Go to **Coffee**](https://www.nestle.com/brands/coffee-new)
+        [Go to **Coffee**](https://www.nestle.com/brands/coffee)
         
         * [Blue Bottle Coffee](https://www.nestle.com/brands/coffee/blue-bottle-coffee)
             
