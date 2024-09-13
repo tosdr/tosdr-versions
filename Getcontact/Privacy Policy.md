@@ -40,7 +40,7 @@ This Privacy Policy  explains the following:
 **Privacy Policy**
 ------------------
 
-Last modified:  May 30 2024
+Last modified:  June 11 2024
 
 ### **1\. Who are we?**
 
@@ -77,7 +77,9 @@ Please note that if you will share content in channels, your content will be vis
 
 • If the channel is public, admins can add, use an invite link, and search for the channel directly in the search section and join.
 
-For your enhanced security and privacy, we do not technically decrypt or retain any messages or content delivered over our Services (including your chats, media, audio or video files or location data) in the ordinary course of providing our Services to you. In addition to chat service we provide, Getcontact also technically supports communication channels which is detailly explained below sections. Everything you post in channels will be accessible to User. You can create, join, or get added to groups, and such groups get associated with your account information.
+For your enhanced security and privacy, we do not technically decrypt or retain any messages or content delivered over our Services (including your chats, media, audio or video files or location data) in the ordinary course of providing our Services to you. In addition to chat service we provide, Getcontact also technically supports communication channels which is detailly explained below sections. Everything you post in channels will be accessible to User. 
+
+For our video calling feature, we only temporarily store call duration and call ID durations. All this information is deleted immediately after the call ends. However we may store call start time and durations for up to 6 months. At the end of this period, we may store your data in an anonymized form after separating it from your personal information.
 
 By using Getcontact Telco Services, you acknowledge and expressly agree that Getcontct may record voicemail or have recorded by a third party and store or have stored by a third party vendor such recordings, and to make such recordings available to you. We may keep this data for up to 3 months.
 
