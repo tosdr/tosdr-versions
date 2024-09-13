@@ -17,7 +17,7 @@
     * [Secure](https://seravo.com/en/features/secure/)
     * [Green](https://seravo.com/en/features/green/)
     * [Real](https://seravo.com/en/features/real/)
-* [Services](https://seravo.com/en/plans/)
+* [Hosting](https://seravo.com/en/plans/)
     * [WP Start](https://seravo.com/en/wp-start/)
     * [WP Pro](https://seravo.com/en/wp-pro/)
     * [WP Business](https://seravo.com/en/wp-business/)
@@ -236,7 +236,7 @@ help@seravo.com
 
 ### Services
 
-* [Hosting Plans](https://seravo.com/en/plans/)
+* [WordPress](https://seravo.com/en/plans/)
 * [Additional Services](https://seravo.com/en/additional-services/)
 * [Domains](https://seravo.com/en/domains/)
 * [Order Form](https://seravo.com/en/order/)
