@@ -6,7 +6,7 @@ General Terms and Conditions for Bigpoint GmbH (hereinafter Bigpoint)
 1 Scope of application
 ----------------------
 
-These General Terms and Conditions apply to the games and other services (“Services”) provided by Bigpoint on its Internet portal [www.bigpoint.net/games/](https://www.bigpoint.net/games/), Internet sites and in its app stores (“Websites”). These Services include downloading, installing and participating in games, creating a customer account, creating a profile page, participating in blogs and forums, uploading media including photographs, text and games and purchasing virtual items and other Services. The players of Bigpoint games and the users of the Services and Websites are hereinafter referred to as the “User”. In the following general terms and conditions (“Terms and Conditions”), any references to “Games” or “Services” shall relate to the Games and/or Services provided by Bigpoint. The business relationship between Bigpoint and the User shall be based exclusively upon these Terms and Conditions, the Data Protection Policy and the Imprint, both of which constitute an integral part of the Terms and Conditions.
+These General Terms and Conditions apply to the games and other services (“Services”) provided by Bigpoint on its Internet portal [www.bigpoint.net/games/](https://www.bigpoint.net/games/), Internet sites and in its app stores (“Websites”). These Services include downloading, installing and participating in games, creating a customer account, creating a profile page, participating in blogs and forums, uploading media including photographs, text and games and purchasing virtual items and other Services. The players of Bigpoint games and the users of the Services and Websites are hereinafter referred to as the “User”. In the following general terms and conditions (“Terms and Conditions”), any references to “Games” or “Services” shall relate to the Games and/or Services provided by Bigpoint. The business relationship between Bigpoint and the User shall be based exclusively upon these Terms and Conditions, the game rules of the respective games (see 1.2.12), the Data Protection Policy and the Imprint.
 
 The contractual partner is Bigpoint GmbH. The User’s Terms and Conditions are not considered part of the contract unless Bigpoint approves such Terms and Conditions in writing.
 
@@ -14,13 +14,9 @@ These Terms and Conditions expressly exclude issues arising from the use of the 
 
 ### 1.1 Users
 
-1.1.1 Bigpoint offers its Games and Services to Users exclusively under the terms of § 13 of the German Civil Code (BGB). The use of Bigpoint Games and Services for purposes other than private entertainment, in particular pecuniary or any other commercial purposes, is hereby prohibited.
+1.1.1 Bigpoint offers its Games and Services to Users exclusively under the terms of § 13 of the German Civil Code (BGB). The use of Bigpoint Games and Services for purposes other than private entertainment, notably pecuniary or any other commercial purposes, is hereby prohibited.
 
 1.1.2 Only individuals who have reached the age of 18 are entitled to use the full scope of the Games and Services provided by Bigpoint. Users under a certain age who have the express consent of their legal guardian may nonetheless be prohibited from participating in specific Games owing to the age restrictions applied to such.
-
-1.1.3 By registering to use and/or install the Games or Services, Users expressly warrant and declare that (i) they have reached the age of majority and are legally competent and/or (ii) if a minor, they have obtained the express consent of their legal guardian(s).
-
-Furthermore, continued use of the Games and/or Services by minors attaining the age of majority shall signify approval of all the declarations of intent previously made in connection with the User contract unless Bigpoint is notified in writing of such approval being withdrawn within two (2) weeks of the date the minor reaches the age of majority.
 
 ### 1.2 Subject matter of the Contract, use of and changes to the Games and Services
 
@@ -48,7 +44,15 @@ Furthermore, even in Games that enable Users to have multiple Accounts, communic
 
 1.2.11 The User has no automatic right to open an Account or to publish any content whatsoever within the scope of the Services.
 
-1.2.12 All the latest technical and other Game and participation requirements for the Services provided are contained on the respective Game Websites.
+1.2.12 All the latest technical and other Game and participation requirements for the Services provided are contained in the following game rules:
+
+For Dark Orbit: [House Rules | DarkOrbit](https://board-en.darkorbit.com/forums/house-rules.153/)
+
+For Drakensang: [Rules | Drakensang Online EN](https://board-en.drakensang.com/forums/rules.116/)
+
+For Farmerama: [House Rules | Farmerama EN](https://board-en.farmerama.com/forums/house-rules.566/)
+
+For Seafight: [House Rules | Seafight](https://board-en.seafight.com/forums/house-rules.153/)
 
 1.2.13 All the Games and Services are regularly updated, adapted, expanded and modified. The User’s right to play the game is limited to the current version of the Game and the Services respectively.
 
@@ -73,7 +77,7 @@ Users may withdraw their contractual agreement to use Bigpoint Games and Service
 
 The cancellation period is fixed at 14 days from the date of the conclusion of the contract.
 
-To exercise the right of withdrawal, Users must notify Bigpoint (Bigpoint GmbH, Sachsenstraße 20, 20097 Hamburg, Germany, email: [stop\_en@customerservice-bigpoint.com](mailto:stop_en@customerservice-bigpoint.com)) with a clear statement (e.g. with a letter sent via surfacemail, fax or email) of their decision to terminate the contract for the use of the Games and Services or to order Premium Features. The User may use the sample cancellation form provided below, but this is not mandatory. The withdrawal deadline shall be considered as fulfilled if the User sends the email regarding the right of withdrawal within the deadline set for such. For rapid processing, please specify the name of the Game and any Premium Features or Services, including the User’s name and User ID in the email subject line.
+To exercise the right of withdrawal, Users must notify Bigpoint (Bigpoint GmbH, Sachsenstraße 20, 20097 Hamburg, Germany, email: [stop\_en@customerservice-bigpoint.com](mailto:stop_en@customerservice-bigpoint.com)) with a clear statement (e.g. with a letter sent via surface mail, fax or email) of their decision to terminate the contract for the use of the Games and Services or to order Premium Features. The User may use the sample cancellation form provided below, but this is not mandatory. The withdrawal deadline shall be considered as fulfilled if the User sends the email regarding the right of withdrawal within the deadline set for such. For rapid processing, please specify the name of the Game and any Premium Features or Services, including the User’s name and User ID in the email subject line.
 
 Consequences of withdrawal:  
 Should the User decide to cancel the contract, all payments made by the User to Bigpoint, including any associated delivery/shipping costs (excluding any additional costs incurred by the User by selecting another type of delivery other than the cheapest standard shipping offered by Bigpoint), shall be refunded immediately by Bigpoint, and no later than 14 days after receipt by Bigpoint of the withdrawal notification from the User. Bigpoint shall use the same method of payment to refund the User as that selected for the original transaction unless explicitly agreed otherwise with the User; under no circumstances shall the User be charged fees for such refund.
@@ -88,14 +92,12 @@ Sample cancellation form
 (If you wish to cancel the contract, please complete this form and return it to us.)
 
 * To: Bigpoint GmbH, Sachsenstraße 20, 20097 Hamburg, Germany; email: [stop\_en@customerservice-bigpoint.com](mailto:stop_en@customerservice-bigpoint.com)
-* I/We(\*) hereby declare that I/We(\*) withdraw from my/our\* contract for the purchase of the following products\*/the provision of the following Service (\*)
-* Ordered on (\*)/received on (\*)
-* Name of the user(s)
-* Address of the user(s)
-* Signature of the user(s) (for notification on paper only)
+* I hereby declare that I withdraw from my contract for the purchase of the following products\*/the provision of the following Service (\*)
+* Ordered on (\*)
+* Name of the user
+* Address of the user
+* Signature of the user (for notification on paper only)
 * Date
-
-(\*) Delete as applicable.
 
 4 Availability
 --------------
@@ -105,11 +107,11 @@ Bigpoint guarantees that its Games and Services will be available on average 90%
 5 Access to and acknowledgment of these Terms and Conditions, changes and further notifications, contact by the User
 --------------------------------------------------------------------------------------------------------------------
 
-5.1 The User accepts these Terms and Conditions as binding when submitting their User Application and using Bigpoint Games and/or Services. These Terms and Conditions apply to every login within the scope of the Services and to participation in the Games and/or other use of the Services.
+5.1 The User accepts these Terms and Conditions as binding by agreeing to these Terms and Conditions, when submitting their User Application and using Bigpoint Games and/or Services. These Terms and Conditions apply to every login within the scope of the Services and to participation in the Games and/or other use of the Services.
 
 5.2 Bigpoint reserves the right to change or amend these Terms and Conditions with regard to future arrangements at any time provided this is deemed necessary and if the User is thereby not disadvantaged in a breach of good faith.
 
-5.3 The User will be notified of the changes made to the Terms and Conditions either on the Websites or by email. Changes to the Terms and Conditions will always be clearly indicated to the User the next time they log in. The amended Terms and Conditions shall be effective immediately provided the User has agreed to such. Furthermore, the conditions as stipulated in section 5.1 shall apply.
+5.3 The User will be notified of the changes made to the Terms and Conditions on the Websites and by email. Changes to the Terms and Conditions will always be clearly indicated to the User the next time they log in. The amended Terms and Conditions shall be effective immediately provided the User has agreed to such. Furthermore, the conditions as stipulated in section 5.1 shall apply.
 
 5.4 Should the User not agree to the amendments to the Terms and Conditions, both parties may terminate this contract with a notice period of one month, unless a mutual right of termination exists pursuant to section 8.2.1. The original Terms and Conditions will remain in effect until the termination comes into effect. Payments made for Games and/or Services prior to the termination date relating to a time-limited continuing obligation will be reimbursed to the User on a pro rata basis. Any additional claims by the User shall be excluded.
 
@@ -124,9 +126,9 @@ Bigpoint guarantees that its Games and Services will be available on average 90%
 
 6.1 The Game instructions and the Game rules of the relevant Games and Services will be published on the Websites of the respective Games or Services.
 
-6.2 Users acknowledge that they play and communicate with numerous other Users in the Game worlds and it is therefore imperative that the rules are upheld by all Users to ensure an enjoyable gameplay experience. When participating, the User accepts the rules and conditions for the participation in the Games and Services as legally binding.
+6.2 Users acknowledge that they play and communicate with numerous other Users in the Game worlds and it is therefore imperative that the rules are upheld by all Users to ensure a good gameplay experience. When participating, the User accepts the rules and conditions for the participation in the Games and Services as legally binding.
 
-6.3 The User will also refrain from undertaking any activity which could disrupt the normal operation of the Games and/or Services or disrupt the successful gameplay interaction between Users.
+6.3 The User will also refrain from undertaking any activity which could disrupt the normal operation of the Games and/or Services or disrupt the successful gameplay interaction between Users; see in particular sections 8.3 and 9.4 of these Terms and Conditions.
 
 7 Fees, payment conditions, late payment
 ----------------------------------------
@@ -137,17 +139,13 @@ Bigpoint provides Users access to the Games and Services essentially and to the 
 
 ### 7.2 Premium features
 
-The User may acquire features for a fee which are not available in the basic version (“Premium Features”) e.g. advanced game functions or additional virtual Game products. No intangible and/or tangible assets are transferred when acquiring Premium Features, and the assignment of such to third parties is prohibited.
+The User may acquire features that are not available in the basic version (“Premium Features”) for a fee; e.g. advanced game functions or additional virtual Game products. No intangible and/or tangible assets are transferred when acquiring Premium Features, and the assignment of such to third parties is prohibited.
 
 Premium Features may vary depending on the Game. Information regarding the cost of the Premium Features offered, the functions included with such and their requirements for use can be viewed on the Website of the respective Game. Depending on the specific Premium Feature and cost, one-time payments may be made to credit a Game with features or items which may be used for certain purposes subject to the relevant Game rules, or payments may be due periodically, i.e. on a daily, weekly, monthly, quarterly, six-monthly or yearly basis. All the charges are gross amounts and include the applicable taxes.
 
 The Games are constantly evolving, and Bigpoint therefore reserves the right to offer new Premium Features at any time. In the course of adapting and developing the Games, Bigpoint also reserves the right to discontinue individual Premium Features with effect for the future and/or to offer them in the basic version (see section 7.1 above). In the latter case, claims from Users for the reimbursement of fees already paid are excluded.
 
 Section 1.2.15 shall apply in the event of a permanent discontinuation of a Game.
-
-If the User is a minor, they shall expressly declare when ordering the Premium Features that they have the means to pay for such Services or that such means were freely available to them.
-
-If payment is made through a mobile-based method of payment, (e.g. Premium SMS, Premium Call, short codes, etc.), the order and payment of the terminal with the mobile application shall be deemed authorised and initiated by the owner on the User’s behalf if the User and the terminal owner are different persons.
 
 If access via downloadable software for mobile phones is available for specific Games, the rules governing Premium Features will also apply to the payment of any costs arising.
 
@@ -159,15 +157,13 @@ If payments for Premium Features are required for a specific period of time, the
 
 Bigpoint is authorised to request advance payment for the use of Premium Features (see section 7.2 above). Such payments will be due upon conclusion of the contract and via the payment method selected by the User, (e.g. bank account, credit card, Premium SMS, etc.). The amount to be collected will be listed on the credit card bill or bank statement against Bigpoint.
 
-Any objections to mobile billing may be raised within eight weeks following receipt of such mobile bill pursuant to § 45 i TKG (German Telecommunications Act).
-
-The calculations forming the basis of the billing shall be considered applicable insofar as there is no indication of manipulation.
+Any objections to mobile billing may be raised within eight weeks following receipt of such mobile bill pursuant to § 67 II TKG (German Telecommunications Act).
 
 ### 7.5 Amendments to charges
 
 7.5.1 Bigpoint reserves the right to reduce costs or to offer new products, services or methods of payment at any time, either on a temporary or permanent basis. In addition, Bigpoint is authorised to increase charges for all Services that _do not_ represent subscriptions (continuing obligations), at any time and with effect for the future.
 
-7.5.2. Charges within the scope of continuing obligations may be modified with a notice period of six weeks either in writing or by email sent to the email address provided by the User. The amended cost will take effect if the User does not object to the modified charge within six weeks. The contractual relationship will continue under the modified conditions and costs. When notifying the User of such changes, Bigpoint will inform the User of their right to object to such, to cancel the Services, the deadline and the legal implications in force if they fail to submit an objection within the period specified. Should the User object within the deadline, both parties reserve the right to terminate this contract with a notice period of one month, unless a mutual right of termination exists under section 8.1. The original tariffs will remain in effect until the termination of the contract. Any fees (payments) made for continuing obligations that extend beyond the termination date will be reimbursed to the User pro rata. Further claims by the User shall be excluded.
+7.5.2. Charges for development costs within the scope of continuing obligations may be amended with a notice period of six weeks either in writing or by email and sent to the email address provided by the User. Development costs include, in particular, production and licensing costs, costs for the technical provision and distribution of our service, customer service and other sales costs (e.g. invoicing and payment, marketing), general administrative and other overheads (e.g. rent, interest and other financing costs, personnel costs, external service providers and services, IT systems, energy) and levies imposed by government bodies, contributions, taxes and duties. Bigpoint will exercise its reasonable discretion and will select the respective times of any price changes such that cost reductions will not be applied based on standards or conditions that are less favourable for the User than cost increases, i.e. cost reductions will, as a minimum, have the same impact on prices as cost increases. The amended cost will take effect if the User does not object to the modified charge within six weeks. The contractual relationship will continue under the modified conditions and costs. When notifying the User of such changes, Bigpoint will inform the User of their right to object to such, to cancel the Services, the deadline and the legal implications in force if they fail to submit an objection within the period specified. Should the User object within the deadline, both parties reserve the right to terminate this contract with a notice period of one month, unless a mutual right of termination exists under section 8.1. The original tariffs will remain in effect until the termination of the contract. Any fees (payments) made for continuing obligations that extend beyond the termination date will be reimbursed to the User pro rata. Further claims by the User shall be excluded.
 
 ### 7.6 Late payment
 
@@ -177,7 +173,7 @@ In the event of late payment, Bigpoint is authorised to charge interest at the c
 
 Should Bigpoint incur cancellation fees arising from a fault of the User arising from circumstances for which the User is responsible or owing to cancelled transactions, the User shall bear all the costs associated with such.
 
-Bigpoint reserves the right to demand payment of the costs incurred by repeated attempts to debit the charges from the User’s account in addition to the original charge. Bigpoint also reserves the right to demand an admin fee of up to EUR 5.00 per cancelled transaction The User reserves the right to prove that no damage or a substantially lower level of damage was incurred.
+Bigpoint reserves the right to demand payment of the costs incurred by repeated attempts to debit the charges from the User’s account in addition to the original charge. Bigpoint also reserves the right to demand an admin fee of up to EUR 5.00 per cancelled transaction. The User reserves the right to prove that no damage or a substantially lower level of damage was incurred.
 
 ### 7.8 SEPA procedure
 
@@ -189,7 +185,7 @@ Bigpoint cannot guarantee any gains or prizes to Users. In particular, Users hav
 
 A claim to the payment of a prize is only permitted if Bigpoint has explicitly offered or advertised such.
 
-Moreover, claims to payments of prizes shall be excluded if Bigpoint learns that a potential claim to a prize may be the result of technical or legal manipulations and/or the result of any other kind of criminal conduct in general. By using Bigpoint Games and Services, Users thereby agree that Bigpoint may conduct a thorough investigation at any time pertaining to the legality of claims for prizes, and may withhold the payment of such from Users without their consent while the claim is under investigation. Claims to prizes will also be forfeited if the User has not complied with the rules of the Game. If a reason to doubt a claim arises, Users must provide sufficient evidence that they acted in accordance with the Game rules. The User acknowledges and explicitly accepts this obligation to provide evidence, even if this is not expressly the case in law.
+Moreover, claims to payments of prizes shall be excluded if Bigpoint learns that a potential claim to a prize may be the result of technical or legal manipulations and/or the result of any other kind of criminal conduct in general. By using Bigpoint Games and Services, Users thereby agree that Bigpoint may conduct a thorough investigation at any time pertaining to the legality of claims for prizes and may withhold the payment of such from Users without their consent while the claim is under investigation. Claims to prizes will also be forfeited if the User has not complied with the rules of the Game. If a reason to doubt a claim arises, Users must provide sufficient evidence that they acted in accordance with the Game rules. The User acknowledges and explicitly accepts this obligation to provide evidence, even if this is not expressly the case in law.
 
 ### 7.10 No offsetting, right of retention
 
@@ -208,7 +204,7 @@ Either party may terminate the contractual agreement with a period of notice and
 
 8.2.1 If no limited contractual term has been agreed for a contract, both parties reserve the right to an ordinary termination at any time and with immediate effect.
 
-8.2.2 If a contract for Games or Services for the use/provision of Premium Features has been agreed for a determinate term (“initial term”) with an automatic renewal (see also section 7.2), the contract will be automatically renewed after the expiry of the initial term (i) for the period of the initial term if the contract was concluded before 1st March 2022, or (ii) for an indefinite term if the contract was concluded after 1st March 2022. This shall not apply if the User or Bigpoint terminates the contract (i) before the expiry of the initial term with a notice period of 7 days (or a shorter notice period if agreed), or (ii) at any time after the renewal of the initial term with a notice period of one month (or a shorter notice period if agreed).
+8.2.2 If a contract for Games or Services for the use/provision of Premium Features has been agreed for a determinate term (“initial term”) with an automatic renewal (see also section 7.2), the contract will be automatically renewed after the expiry of the initial term (i) for the period of the initial term if the contract was concluded before 1st March 2022, or (ii) for an indefinite term if the contract was concluded after 1st March 2022. This shall not apply if the User or Bigpoint terminates the contract (i) if the contract was concluded before 1st March 2022 by the period of the initial term, but by a maximum period of one year, or (ii) at any time after the renewal of the initial term with a notice period of one month (or a shorter notice period if agreed).
 
 ### 8.3 Termination on serious grounds
 
@@ -239,12 +235,16 @@ Notwithstanding the right of termination, Bigpoint is entitled to temporarily bl
 
 Bigpoint cannot be held responsible for any scores or achievements obtained and, should the player be blocked, shall not be liable for any tangible and/or intangible damages owing to the loss of opportunity to participate during the period of the suspension.
 
+### 8.5 Consequences of termination
+
+The player’s account and all the data relating thereto will be deleted in the event of termination of the contractual relationship.
+
 9 Responsibilities and other obligations of the User, liability for information uploaded by the User, copyright
 ---------------------------------------------------------------------------------------------------------------
 
 ### 9.1 Obligations
 
-The primary obligation of the User is to pay all applicable charges, unless they are using the free basic version of the Game and/or Services (see section 7 above). In addition, the primary obligation of the User is also to comply with all the applicable Game rules and provide accurate and complete information required by Bigpoint when concluding this agreement and during the term thereof. Users therefore declare that all the information relating to their person or other facts relevant to the contract (in particular bank and credit card details) and which Users state on the User application form or during the contractual agreement are, to the best of their knowledge, complete and correct. The User shall notify Bigpoint immediately of any changes to this information, and shall confirm the data following a corresponding request from Bigpoint. In the event of a repeated violation of the rules, despite warnings to this effect, or a serious breach in accordance with section 8.3, Bigpoint reserves the right to suspend all the contractual Services and deliveries immediately and without warning and to terminate the contract.
+The primary obligation of the User is to pay all applicable charges, unless they are using the free basic version of the Game and/or Services (see section 7 above). In addition, the primary obligation of the User is also to comply with all the applicable Game rules and provide accurate and complete information required by Bigpoint when concluding this agreement and during the term thereof. Users therefore declare that all the information relating to their person or other facts relevant to the contract (in particular bank and credit card details) and which Users state on the User application form or during the contractual agreement are, to the best of their knowledge, complete and correct. The User shall notify Bigpoint immediately of any changes to this information and shall confirm the data following a corresponding request from Bigpoint. In the event of a repeated violation of the rules, despite warnings to this effect, or a serious breach in accordance with section 8.3, Bigpoint reserves the right to suspend all the contractual Services and deliveries immediately and without warning and to terminate the contract.
 
 ### 9.2 Installation of software
 
@@ -254,11 +254,11 @@ Bigpoint shall not be liable for any damages or loss of data arising from the in
 
 9.3.1 Bigpoint may sometimes provide the Games or Services online. Bigpoint neither provides nor installs any of the software required locally on the User’s Terminal (in particular operating systems, web browsers and plug-ins, including Flash or Java). Bigpoint can provide no support for such software. The User shall be responsible for maintaining the Terminal in a state which enables the use of Bigpoint Games and Services, and Bigpoint cannot provide technical support for the installation of any software required locally.
 
-9.3.2 The User shall treat all non-public Account and access data (login, passwords, AccountID, etc.) in a strictly confidential manner with respect to third parties. The obligation of confidentiality also applies to friends, acquaintances, family members and other players (e.g. clan members) or other Users of the Services. Users will immediately notify Bigpoint if they learn or suspect that an unauthorised third party has accessed such access data. Bigpoint advises Users to use the contact form to do this for evidence reasons. Should a third party use an Account after obtaining the User’s access data because the User failed to take sufficient protective measures against unauthorised access, Users must assume the same liability for such misuse as if they themselves actually performed such action owing to the risk and uncertainty caused regarding who manipulated the Account and who will be liable in the event of a contractual or legal infringement of said Account. Bigpoint reserves the right to consider all input into an Account using the User’s access data as input carried out by the authorised User. Bigpoint recommends Users to change their passwords regularly as a security measure. Users are solely responsible for the access to and use of their Account.
+9.3.2 The User shall treat all non-public Account and access data (login, passwords, Account ID, etc.) in a strictly confidential manner with respect to third parties. The obligation of confidentiality also applies to friends, acquaintances, family members and other players (e.g. clan members) or other Users of the Services. Users will immediately notify Bigpoint if they learn or suspect that an unauthorised third party has accessed such access data. Bigpoint advises Users to use the contact form to do this for evidence reasons. Should a third party use an Account after obtaining the User’s access data because the User failed to take sufficient protective measures against unauthorised access, Users must assume the same liability for such misuse as if they themselves actually performed such action owing to the risk and uncertainty caused regarding who manipulated the Account and who will be liable in the event of a contractual or legal infringement of said Account. Bigpoint reserves the right to consider all input into an Account using the User’s access data as input carried out by the authorised User. Bigpoint recommends Users to change their passwords regularly as a security measure. Users are solely responsible for the access to and use of their Account.
 
 9.3.3 Should Bigpoint have justifiable grounds to suspect that an unauthorised third party is unlawfully in possession of a non-public Account or access data, Bigpoint may, but is not required to do so, and at its own discretion, change the account access data without prior notice, or suspend the respective Account as a security measure. Bigpoint will promptly inform the authorised User and will, upon request, promptly communicate the new access data to such User. The User has no right to request Bigpoint to restore the original access data.
 
-9.3.4 The User is neither entitled to sell their complete Account nor any individual Game items, Premium Features or Game functions to a third party, or to transfer such in any other way. This shall not apply to the sale or transfer of offers or products created and provided by Bigpoint for this purpose.
+9.3.4 The User is neither entitled to sell their complete Account or any individual Game items, Premium Features or Game functions to a third party, nor to transfer such in any other way. This shall not apply to the sale or transfer of offers or products created and provided by Bigpoint for this purpose.
 
 9.3.5 Although Bigpoint protects its systems against viruses, virus infections can never be completely eliminated. In addition, unauthorised third parties may also send emails using Bigpoint’s name but without the consent of Bigpoint, and such emails may contain viruses, spyware or links to web content which may also contain viruses or spyware. Bigpoint has no influence over such occurrences. The User agrees to check all incoming emails sent or supposedly sent by or in the name of Bigpoint for potential viruses. The also applies to emails from other Users of the Games or Services.
 
@@ -319,7 +319,7 @@ Moreover, Bigpoint is also entitled to exclude the User from further participati
 
 10.1 Bigpoint grants the User access to the Games and Services in their current version only (section 1.2). Users have no right to demand the maintenance or restoration of a specific version or range of functions of the Games and Services and/or a score. When purchasing Premium Features, the User is granted all the statutory and contractual rights. The User acknowledges and agrees that, similar to any other software, the Games and Services provided by Bigpoint can never be totally free of errors. The Games and Services can only therefore be considered defective if their playability or usability is severely compromised and over a prolonged period of time.
 
-Users shall document any faults regarding the Games and Services and/or other services or products supplied by Bigpoint, and will provide a full written report of the error messages displayed. Before reporting potential bugs, Users must consult the instructions for the Games and Services and any other troubleshooting tools provided by Bigpoint (in particular FAQ lists and discussion forums for problems). Users will use their best endeavours to support Bigpoint in its attempts to remove the bug or defect from the relevant Game or Service.
+Users shall document any faults regarding the Games and Services and/or other services or products supplied by Bigpoint and will provide a full written report of the error messages displayed. Before reporting potential bugs, Users must consult the instructions for the Games and Services and any other troubleshooting tools provided by Bigpoint (in particular FAQ lists and discussion forums for problems). Users will use their best endeavours to support Bigpoint in its attempts to remove the bug or defect from the relevant Game or Service.
 
 10.2 Users will immediately notify Bigpoint of any faults upon detection of such. For the purposes of evidence, it is advisable to submit such reports in writing (by fax, letter or the Support contact form) to Bigpoint.
 
@@ -346,7 +346,7 @@ Users shall document any faults regarding the Games and Services and/or other se
 
 11.8 Bigpoint expressly disassociates itself from the content of any sites to which direct or indirect references, “links”, exist from within the Services offered by Bigpoint. Bigpoint shall assume no responsibility whatsoever for such content or sites, and the relevant operators shall be exclusively liable for any content provided on such.
 
-12 Final Clauses
+12 Final clauses
 ----------------
 
 12.1 Any notifications and declarations made to Bigpoint by the user must be made in writing, and this shall also apply to the amendment or cancellation of the requirement of the written form.
@@ -357,15 +357,15 @@ Users shall document any faults regarding the Games and Services and/or other se
 
 12.4 Should any provisions of these Terms and Conditions be or become invalid, the validity of the other provisions shall remain unaffected.
 
-Hamburg, 28th February 2022
+Hamburg, 02 September 2024
 
 Bigpoint GmbH  
 Sachsenstraße 20  
 20097 Hamburg  
-Deutschland
+Germany
 
 **HTC Reg.** HRB-Hamburg 94148
 
 **VAT ID No.:** DE813 602 704
 
-**CEO:** Wanqin Liu, Yingying Zou
+**CEO:** Yingying Zou
