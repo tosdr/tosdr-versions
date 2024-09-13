@@ -130,17 +130,6 @@ Speedify is the only app that combines all of your Internet connections to keep 
 
 [Download Speedify](https://speedify.com/download/) 
 
-Upcoming Events
----------------
-
-Sep 11
-
-10:00 am - 11:00 am EDT
-
-### [9/11 @ 10am EDT – AMD vs Intel vs ARM – What’s going on with Server CPUs? | Ask the CEO your tech questions](http://speedify.com/event/9-11-10am-edt-amd-vs-intel-vs-arm-whats-going-on-with-server-cpus-ask-the-ceo-your-tech-questions/ "9/11 @ 10am EDT – AMD vs Intel vs ARM – What’s going on with Server CPUs? | Ask the CEO your tech questions")
-
-[View Calendar](https://speedify.com/calendar/ "View more events.")
-
 #### Popular Posts
 
 * [\[SOLVED\] Mobile Hotspot Connected but No Internet](https://speedify.com/blog/fix-slow-internet/mobile-hotspot-connected-but-no-internet-fix/)
