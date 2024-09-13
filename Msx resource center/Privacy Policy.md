@@ -137,39 +137,39 @@ MSX Music player
 
 Latest reactions
 
+* [Málaga MSX meeting 2024](https://www.msx.org/news/events/en/m%C3%A1laga-msx-meeting-2024 "Málaga MSX meeting 2024")
+* [Carnivore2+ is now available for purchasing!](https://www.msx.org/news/en/carnivore2-is-now-available-for-purchasing "Carnivore2+ is now available for purchasing!")
+* [MSX Fair Nijmegen 2025](https://www.msx.org/news/en/march-8-2025-20th-msx-fair-nijmegen "MSX Fair Nijmegen 2025")
 * [MSX UK fun day](https://www.msx.org/news/en/msx-uk-fun-day "MSX UK fun day")
+* [MSX Pico - multi Flash ROM cartridge](https://www.msx.org/news/hardware/en/msx-pico-cartridge "MSX Pico - multi Flash ROM cartridge")
+* [Zandvoort 1995 - An impression of the fair.](https://www.msx.org/photoshoots/zandvoort-1995/zandvoort-1995-impression-fair-14 "Zandvoort 1995  - An impression of the fair.")
 * [MSX Association to collaborate with Western MSX scene once again?](https://www.msx.org/news/en/msx-association-to-collaborate-with-western-msx-scene-once-again "MSX Association to collaborate with Western MSX scene once again?")
 * [HD Menu 3.2](https://www.msx.org/downloads/utilities/msx-dos-2/hd-menu-32 "HD Menu 3.2")
 * [Fruit Mazes and Pallo](https://www.msx.org/news/en/pallo-a-new-game-for-your-msx2 "Fruit Mazes and Pallo")
 * [Nemesis 2 demo](https://www.msx.org/downloads/demos/disks/nemesis-2-demo "Nemesis 2 demo")
-* [Hype OPL3](https://www.msx.org/news/en/hypeopl3 "Hype OPL3")
-* [Shockwave2 and Audiowave new batches](https://www.msx.org/news/en/opl4-shockwave-2-ready-delivery "Shockwave2 and Audiowave new batches")
-* [MSX Fair Nijmegen 2025](https://www.msx.org/news/en/march-8-2025-20th-msx-fair-nijmegen "MSX Fair Nijmegen 2025")
-* [MSXdev24 #10 Harker's Escape](https://www.msx.org/news/challenges/en/msxdev24-10-harkers-escape "MSXdev24 #10 Harker's Escape")
-* [MSXdev24 #09 Wizsoul](https://www.msx.org/news/challenges/en/msxdev24-09 "MSXdev24 #09 Wizsoul")
 
 Latest forum posts
 
-* [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=115 "Please help testing upcoming openMSX release!")
-* [The Big MegaFlashROM SCC+ SD Topic](https://www.msx.org/forum/msx-talk/hardware/big-megaflashrom-scc-sd-topic?page=99 "The Big MegaFlashROM SCC+ SD Topic")
-* [Forcing VDP to 50 Hz on NTSC MSX2](https://www.msx.org/forum/msx-talk/development/forcing-vdp-to-50-hz-on-ntsc-msx2?page=4 "Forcing VDP to 50 Hz on NTSC MSX2")
-* [best music disk/demos?](https://www.msx.org/forum/msx-talk/graphics-and-music/best-music-diskdemos "best music disk/demos?")
-* [vFM (virtual Full Music) MSX universal audio Cartridge](https://www.msx.org/forum/msx-talk/hardware/vfm-virtual-full-music-msx-universal-audio-cartridge?page=5 "vFM (virtual Full Music) MSX universal audio Cartridge")
-* [tniasm 1.0](https://www.msx.org/forum/msx-talk/development/tniasm-10 "tniasm 1.0")
-* [Hype - OPL3 version 1.0](https://www.msx.org/forum/msx-talk/software/hype-opl3-version-10?page=3 "Hype - OPL3 version 1.0")
-* [Salamander 1cc tips](https://www.msx.org/forum/msx-talk/software/salamander-1cc-tips?page=1 "Salamander 1cc tips")
-* [Hi i'm looking for an Scart to HMDI confurter with RGB suport.](https://www.msx.org/forum/msx-talk/graphics-and-music/hi-im-looking-for-an-scart-to-hmdi-confurter-with-rgb-suport "Hi i'm looking for an Scart to HMDI confurter with RGB suport.")
-* [BEER-MSX RUN](https://www.msx.org/forum/msx-talk/hardware/beer-msx-run?page=2 "BEER-MSX RUN")
-* [Help wanted on repair of a turbo r gt (i bought this around 1997 from a near dark member)](https://www.msx.org/forum/msx-talk/hardware/help-wanted-on-repair-of-a-turbo-r-gt-i-bought-this-around-1997-from-a-near- "Help wanted on repair of a turbo r gt (i bought this around 1997 from a near dark member)")
-* [Emulating MSX on the MiSTer (FPGA)](https://www.msx.org/forum/msx-talk/hardware/emulating-msx-on-the-mister-fpga?page=2 "Emulating MSX on the MiSTer (FPGA)")
-* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=46 "WonderTANG! Who wants to juice up your MSX?")
+* [The story of the GT with the dead R800](https://www.msx.org/forum/msx-talk/hardware/the-story-of-the-gt-with-the-dead-r800 "The story  of the GT with the dead R800")
+* [Copy games from cassette to 360K floppy](https://www.msx.org/forum/msx-talk/hardware/copy-games-from-cassette-to-360k-floppy?page=1 "Copy games from cassette to 360K floppy")
+* [Forcing VDP to 50 Hz on NTSC MSX2](https://www.msx.org/forum/msx-talk/development/forcing-vdp-to-50-hz-on-ntsc-msx2?page=5 "Forcing VDP to 50 Hz on NTSC MSX2")
+* [MSX0 Discussion](https://www.msx.org/forum/msx-talk/hardware/msx0-discussion "MSX0 Discussion")
+* [LaserDisc player with MSX cartridge slot? (Pioneer LD-V6100)](https://www.msx.org/forum/msx-talk/hardware/laserdisc-player-with-msx-cartridge-slot-pioneer-ld-v6100?page=1 "LaserDisc player with MSX cartridge slot? (Pioneer LD-V6100)")
+* [V9990 incomplete initialization on ASM Ghost'n'Goblins ?](https://www.msx.org/forum/msx-talk/software/v9990-incomplete-initialization-on-asm-ghostngoblins?page=1 "V9990 incomplete initialization on ASM Ghost'n'Goblins ?")
+* [Charging the MSX0](https://www.msx.org/forum/msx-talk/hardware/charging-the-msx0 "Charging the MSX0")
+* [Parodius information...](https://www.msx.org/forum/msx-talk/software/parodius-information "Parodius information...")
+* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=47 "WonderTANG! Who wants to juice up your MSX?")
+* [making exact copy of SD card for use in openmsx](https://www.msx.org/forum/msx-talk/emulation/making-exact-copy-of-sd-card-for-use-in-openmsx "making exact copy of SD card for use in openmsx")
+* [Is it the Omega or the Carnivore? (I'm guessing the Omega)](https://www.msx.org/forum/msx-talk/hardware/is-it-the-omega-or-the-carnivore-im-guessing-the-omega?page=2 "Is it the Omega or the Carnivore? (I'm guessing the Omega)")
+* [Hi i'm looking for an Scart to HMDI converter with RGB suport.](https://www.msx.org/forum/msx-talk/graphics-and-music/hi-im-looking-for-an-scart-to-hmdi-confurter-with-rgb-suport?page=1 "Hi i'm looking for an Scart to HMDI converter with RGB suport.")
+* [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=116 "Please help testing upcoming openMSX release!")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
 News headlines
 
 * [MSX UK fun day](https://www.msx.org/news/en/msx-uk-fun-day "MSX UK fun day")
-* [Hype OPL3](https://www.msx.org/news/en/hypeopl3 "Hype OPL3")
+* [Hype OPL3](https://www.msx.org/news/en/hypeopl "Hype OPL3")
 * [Fruit Mazes and Pallo](https://www.msx.org/news/en/pallo-a-new-game-for-your-msx2 "Fruit Mazes and Pallo")
 * [MSX Fair Nijmegen 2025](https://www.msx.org/news/en/march-8-2025-20th-msx-fair-nijmegen "MSX Fair Nijmegen 2025")
 * [Shockwave2 and Audiowave new batches](https://www.msx.org/news/en/opl4-shockwave-2-ready-delivery "Shockwave2 and Audiowave new batches")
