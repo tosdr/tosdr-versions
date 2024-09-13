@@ -1572,7 +1572,7 @@ We can't wait to see what you build.
 * [Verify](https://segment.com/en-us/user-authentication-identity/verify)
 * [Voice](https://segment.com/en-us/voice)
 * [Messaging](https://segment.com/en-us/messaging)
-* Beta products and features
+* [Beta products and features](https://segment.com/en-us/products/beta)
 * [All products](https://segment.com/en-us/products#all-products)
 
 ### Solutions
