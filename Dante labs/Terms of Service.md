@@ -1,4 +1,4 @@
-           [Skip to content](#main-content)
+          [Skip to content](#main-content)
 
 * [](https://www.facebook.com/DanteLabs/ "Facebook")
 * [](https://twitter.com/dantelabs?lang=en "X")
@@ -91,9 +91,7 @@ Dante Labs reserves the right to amend the Terms (or any part thereof) at any ti
 * If you are a consumer with your habitual residence in the European Union, you may benefit from the additional protection provided by the mandatory rules of your country of residence, which means that you may be able to enforce your rights in connection with these Terms in Italy or in any other country part of the European Union.
 * If you are a European Union resident, you will also be able to have access to the European Commission online dispute resolution platform, which you can access from here: [https://ec.europa.eu/consumers/odr](https://ec.europa.eu/consumers/odr).
 
-![](//www.dantelabs.com/cdn/shop/files/logo_footer_20x8_crop_center.png?v=1712583034)
-
-![](//www.dantelabs.com/cdn/shop/files/logo_footer_240x100_crop_center.png?v=1712583034)
+![](//www.dantelabs.com/cdn/shop/files/logo_footer.png?crop=center&height=8&v=1712583034&width=20)
 
 Company
 
@@ -165,25 +163,19 @@ Search
 
 Trending Now
 
-* [![Achromatopsia Report - Dante Labs World](//www.dantelabs.com/cdn/shop/files/achromatopsia-report-389836_20x_crop_center.jpg?v=1714716586)
-    
-    ![Achromatopsia Report - Dante Labs World](//www.dantelabs.com/cdn/shop/files/achromatopsia-report-389836.jpg?v=1714716586)
+* [![Achromatopsia Report - Dante Labs World](//www.dantelabs.com/cdn/shop/files/achromatopsia-report-389836.jpg?v=1714716586&width=20)
     
     Quick view](https://dantelabs.com/products/achromatopsia-panel "Achromatopsia Report")
     
     [Achromatopsia Report](https://dantelabs.com/products/achromatopsia-panel "Achromatopsia Report") €29.00 /
     
-* [![ACMG Report - Dante Labs World](//www.dantelabs.com/cdn/shop/files/acmg-report-740601_20x_crop_center.jpg?v=1714589664)
-    
-    ![ACMG Report - Dante Labs World](//www.dantelabs.com/cdn/shop/files/acmg-report-740601.jpg?v=1714589664)
+* [![ACMG Report - Dante Labs World](//www.dantelabs.com/cdn/shop/files/acmg-report-740601.jpg?v=1714589664&width=20)
     
     Quick view](https://dantelabs.com/products/acmg-panel "ACMG Report")
     
     [ACMG Report](https://dantelabs.com/products/acmg-panel "ACMG Report") €29.00 /
     
-* [![Acrodermatitis Enteropathica Report - Dante Labs World](//www.dantelabs.com/cdn/shop/files/acrodermatitis-enteropathica-report-828321_20x_crop_center.jpg?v=1714716088)
-    
-    ![Acrodermatitis Enteropathica Report - Dante Labs World](//www.dantelabs.com/cdn/shop/files/acrodermatitis-enteropathica-report-828321.jpg?v=1714716088)
+* [![Acrodermatitis Enteropathica Report - Dante Labs World](//www.dantelabs.com/cdn/shop/files/acrodermatitis-enteropathica-report-828321.jpg?v=1714716088&width=20)
     
     Quick view](https://dantelabs.com/products/acrodermatitis-enteropathica-panel "Acrodermatitis Enteropathica Report")
     
