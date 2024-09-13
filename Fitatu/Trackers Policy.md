@@ -28,7 +28,7 @@
 I. DEFINITIONS
 --------------
 
-1. Data Controller: Fitatu Sp. z o.o. with the seat at ul. Stanisława Wyspiańskiego 10/5, Poznań 60-749, entered into the Business Register of the National Court Register kept by the District Court in Poznań for Poznań-Nowe Miasto i Wilda, VIII Department for Business Matters of the National Court Register, under KRS number 0000635344, NIP 7792444235, REGON 364839278, iod@fitatu.com
+1. Data Controller: Fitatu Sp. z o.o. with the seat at ul. Stanisława Wyspiańskiego 10/5, Poznań 60-749, entered into the Business Register of the National Court Register kept by the District Court in Poznań for Poznań-Nowe Miasto i Wilda, VIII Department for Business Matters of the National Court Register, under KRS number 0000635344, NIP 7792444235, REGON 364839278, [\[email protected\]](https://www.fitatu.com/cdn-cgi/l/email-protection)
 2. Cookies: IT data, small text files, recorded by websites you visit, stored on the Devices through which you use the Controller’s Website. The information contained in cookies is necessary for the website to function properly; these files are encrypted, which prevents the files from being made available to unauthorised persons. The information collected in cookies can be read by the Controller and its contractors (for technical reasons).
 3. Device: the electronic device through which you access the Controller’s website.
 4. User: any person visiting the website www.fitatu.com
@@ -153,7 +153,7 @@ V. DETAILED INFORMATION ON COOKIES
 
 [](https://www.tiktok.com/@fitatu.polska)
 
-© Fitatu 2024. All rights reserved
+© Fitatu Calorie Calculator 2024. All rights reserved
 
 ![](/img/footer/intelligent/en_GB.jpg)
 
