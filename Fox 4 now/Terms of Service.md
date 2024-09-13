@@ -49,7 +49,7 @@ Search site  Go
     * [Hourly Forecast](https://www.fox4now.com/weather/forecast/todays-forecast)
     * [Daily Forecast](https://www.fox4now.com/www.fox4now.com/weather/your-forecast-from-the-wftx-weather-team)
     * [Hurricane Center](https://www.fox4now.com/weather/hurricane-center)
-    * [Severe Weather Alerts](https://www.fox4now.com/weather/wdt-alert)
+    * [Severe Weather Alerts](https://www.fox4now.com/weather/alerts)
     * [Weather Radar](https://www.fox4now.com/weather/interactive-radar)
     * [Live Cameras](https://www.fox4now.com/weather/weather-cams)
     
@@ -64,6 +64,8 @@ Search site  Go
     * [Trusted Advisors](https://www.fox4now.com/lifestyle/advisor-expert)
     
 * [4 Things To Do This Weekend](https://www.fox4now.com/4thingstodo)
+    
+* [Florida Panthers](https://www.fox4now.com/sports/florida-panthers)
     
 * [Florida Lottery Winning Numbers](https://www.fox4now.com/florida-lottery/florida-lottery-winning-numbers)
     
