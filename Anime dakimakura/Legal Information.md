@@ -75,6 +75,8 @@
         * [Goblin Slayer](https://www.animedakimakura.com/goblin-slayer-c-1_61_69/)
         * [Goddess of Victory: Nikke](https://www.animedakimakura.com/goddess-of-victory-nikke-c-1_61_232/)
         * [Granblue Fantasy](https://www.animedakimakura.com/granblue-fantasy-c-1_61_92/)
+        * [Guilty Crown](https://www.animedakimakura.com/guilty-crown-c-1_61_243/)
+        * [Guilty Gear](https://www.animedakimakura.com/guilty-gear-c-1_61_244/)
         * [Gundam](https://www.animedakimakura.com/gundam-c-1_61_227/)
         * [Haganai](https://www.animedakimakura.com/haganai-c-1_61_163/)
         * [Heaven's Lost Property](https://www.animedakimakura.com/heavens-lost-property-c-1_61_178/)
@@ -332,6 +334,8 @@ english
         * [Goblin Slayer](https://www.animedakimakura.com/goblin-slayer-c-1_61_69/)
         * [Goddess of Victory: Nikke](https://www.animedakimakura.com/goddess-of-victory-nikke-c-1_61_232/)
         * [Granblue Fantasy](https://www.animedakimakura.com/granblue-fantasy-c-1_61_92/)
+        * [Guilty Crown](https://www.animedakimakura.com/guilty-crown-c-1_61_243/)
+        * [Guilty Gear](https://www.animedakimakura.com/guilty-gear-c-1_61_244/)
         * [Gundam](https://www.animedakimakura.com/gundam-c-1_61_227/)
         * [Haganai](https://www.animedakimakura.com/haganai-c-1_61_163/)
         * [Heaven's Lost Property](https://www.animedakimakura.com/heavens-lost-property-c-1_61_178/)
@@ -669,6 +673,10 @@ Navigation 
             * [Goddess of Victory: Nikke](https://www.animedakimakura.com/goddess-of-victory-nikke-c-1_61_232/)
                 
             * [Granblue Fantasy](https://www.animedakimakura.com/granblue-fantasy-c-1_61_92/)
+                
+            * [Guilty Crown](https://www.animedakimakura.com/guilty-crown-c-1_61_243/)
+                
+            * [Guilty Gear](https://www.animedakimakura.com/guilty-gear-c-1_61_244/)
                 
             * [Gundam](https://www.animedakimakura.com/gundam-c-1_61_227/)
                 
