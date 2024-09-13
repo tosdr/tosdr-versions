@@ -1,7 +1,5 @@
                  
 
-[**get 20% OFF With code: FLOWERS**](https://fanjoy.co/collections/essentials)
-
 [![Fanjoy](//fanjoy.co/cdn/shop/files/Fanjoy_Logo_v3_Black-use_0a125238-7535-47a2-8b57-75fbca51ad73_1000x1000.png?v=1630032270)
 
 ![Fanjoy](//fanjoy.co/cdn/shop/files/Fanjoy_Logo_v3_Black-use_0a125238-7535-47a2-8b57-75fbca51ad73_150x.png?v=1630032270)](https://fanjoy.co/)
@@ -220,6 +218,11 @@ Connect With Us
 Contact
 
 Please email hello@fanjoy.co with any questions and we'll always be happy to help.
+
+Currency
+--------
+
+CAD $ GBP £ USD $
 
 Amazon American Express Diners Club Discover Meta Pay Google Pay Mastercard PayPal Shop Pay Venmo Visa
 
