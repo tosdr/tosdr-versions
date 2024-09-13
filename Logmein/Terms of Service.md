@@ -354,7 +354,7 @@ Last Updated: July 2024 (2024.v2.0)
 * [Imprint](https://www.logmein.com/company/legal/impressum)
 * [Trademark](https://www.logmein.com/company/legal/trademark)
 
-* [Your Privacy Choices](https://submit-irm.trustarc.com/services/validation/dbde78c2-bfa4-48bd-8246-dcfd2d69f986)
+* [Do Not Sell or Share My Personal Info](https://submit-irm.trustarc.com/services/validation/dbde78c2-bfa4-48bd-8246-dcfd2d69f986)
 * [Sitemap](https://www.logmein.com/sitemap)
 
 [English](#)
