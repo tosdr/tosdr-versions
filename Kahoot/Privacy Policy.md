@@ -65,7 +65,7 @@ The Personal Information we process depends on the context of your interactions 
 
 * Cookies which allow us to collect information such as browser type and other anonymous traffic data. Please see our [Cookie Notice](https://trust.kahoot.com/cookie-notice/) for more information on our use of cookies.
 
-Information we collect from other sources: From time to time, we may collect Personal Information about you from other sources, such as our Partners, integrations or other third parties, for example where you have given permission to the third party to share your information with us.
+**Information we collect from other sources:** From time to time, we may collect Personal Information about you from other sources, such as our Partners or other third parties, for example where you have given permission to the third party to share your information with us. We may also collect Personal Information from integrated third party technologies. For example, when you choose to import slides from Google Slides to our platform by using the import slides feature, we process your Google email address and any personal data included in the slides you choose to import.
 
 3\. Use of Personal Information
 -------------------------------
@@ -101,7 +101,7 @@ We may use your Personal Information which we collect for the purposes and on th
 4\. Third-Party Applications and websites
 -----------------------------------------
 
-We may use the Personal Information we collect or receive through the Service, as a processor and as otherwise stated in this Privacy Policy, to enable your use of the integrations and plugins you choose to connect to your Kahoot! account. For instance, if you choose to connect a Google integration to your Kahoot! account, we’ll ask you to grant us permission to view and/or download, as applicable, your Google Sheets, Google Contacts and Google Drive. This allows us to configure your Google integration(s) in accordance with your preferences.
+We may use the Personal Information we collect or receive through the Service, as a processor and as otherwise stated in this Privacy Policy, to enable your use of the integrations and plugins you choose to connect to your Kahoot! account. For instance, if you choose to connect a Google integration to your Kahoot! account, we’ll ask you to grant us permission to view and/or download, as applicable, your Google Sheets, Google Contacts, Google Slides and Google Drive. This allows us to configure your Google integration(s) in accordance with your preferences.
 
 We also integrate with third parties that make available content, products, and/or services to you, such as the YouTube API for videos. Use of these Third Party Applications is optional. The Third Party Applications may have their own privacy policies that apply to you when you choose to use these Third Party Applications, including but not limited to YouTube whose privacy notice is located at [http://www.google.com/policies/privacy](http://www.google.com/policies/privacy).
 
@@ -335,7 +335,7 @@ Solutions
 * [At home](https://kahoot.com/home/)
 * [At school](https://kahoot.com/schools/)
 * [At work](https://kahoot.com/business/)
-* [Academy](https://kahoot.com/academy/)
+* [Community](https://kahoot.com/community/)
 * [Marketplace](https://create.kahoot.it/hub/marketplace)
 * [Actimo](https://kahoot.com/business/solutions/actimo/)
 * [Motimate](https://kahoot.com/business/solutions/motimate/)
@@ -345,7 +345,7 @@ Solutions
 
 Resources
 
-* [Explore content](https://kahoot.com/academy/study/)
+* [Explore content](https://kahoot.com/community/study/)
 * [Blog](https://kahoot.com/blog/)
 * [Webinars](https://kahoot.com/webinars/)
 * [Kahoot! Certified](https://kahoot.com/certified/)
@@ -367,7 +367,7 @@ Terms and conditions
 
 Follow us
 
-* [Twitter](https://twitter.com/kahoot)
+* [X](https://x.com/kahoot)
 * [Facebook](https://www.facebook.com/getkahoot)
 * [LinkedIn](https://www.linkedin.com/company/kahoot)
 * [Instagram](https://www.instagram.com/kahoot/)
