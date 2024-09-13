@@ -263,7 +263,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/)[Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy-pr/) and [online Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Can lung cancer be seen on a ct scan?](https://www.pintas.com/wp-content/uploads/2020/11/failure-to-diagnose-lung-cancer-can-lung-cancer-be-seen-on-a-ct-scan.jpg "Can Lung Cancer Be Seen on a CT Scan?")](https://www.pintas.com/practice-areas/lung-cancer/can-lung-cancer-be-seen-on-a-ct-scan/ "Can Lung Cancer Be Seen on a CT Scan?")
+[![How do you get mesothelioma lung cancer?](https://www.pintas.com/wp-content/uploads/2020/06/mesothelioma-how-do-you-get-mesothelioma-lung-cancer.jpg "How Do You Get Mesothelioma Lung Cancer?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-do-you-get-mesothelioma-lung-cancer/ "How Do You Get Mesothelioma Lung Cancer?")
 
-[#### Can Lung Cancer Be Seen on a CT Scan?](https://www.pintas.com/practice-areas/lung-cancer/can-lung-cancer-be-seen-on-a-ct-scan/)
+[#### How Do You Get Mesothelioma Lung Cancer?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-do-you-get-mesothelioma-lung-cancer/)
 
-[![Can i file a claim against roundup for a loved one’s death?](https://www.pintas.com/wp-content/uploads/2020/11/can-i-file-a-claim-against-roundup-for-a-loved-ones-death.jpg "Can I File a Claim Against Roundup for a Loved One’s Death?")](https://www.pintas.com/lawsuit/roundup-weed-killer/can-i-file-a-claim-against-roundup-for-a-loved-ones-death/ "Can I File a Claim Against Roundup for a Loved One’s Death?")
+[![What lung cancer is caused by asbestos?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-what-lung-cancer-is-caused-by-asbestos.jpg "What Lung Cancer Is Caused By Asbestos?")](https://www.pintas.com/lung-cancer/what-lung-cancer-is-caused-by-asbestos/ "What Lung Cancer Is Caused By Asbestos?")
 
-[#### Can I File a Claim Against Roundup for a Loved One’s Death?](https://www.pintas.com/lawsuit/roundup-weed-killer/can-i-file-a-claim-against-roundup-for-a-loved-ones-death/)
+[#### What Lung Cancer Is Caused By Asbestos?](https://www.pintas.com/lung-cancer/what-lung-cancer-is-caused-by-asbestos/)
 
-[![Who do i file a complaint with about a home health aide?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-who-do-i-file-a-complaint-with-about-a-home-health-aide-scaled.jpg "Who Do I File a Complaint With About a Home Health Aide?")](https://www.pintas.com/faq/who-do-i-file-a-complaint-with-about-a-home-health-aide/ "Who Do I File a Complaint With About a Home Health Aide?")
+[![What causes scabies in nursing homes?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-scabies-what-causes-scabies-in-nursing-homes.jpg "What Causes Scabies in Nursing Homes?")](https://www.pintas.com/faq/what-causes-scabies-in-nursing-homes/ "What Causes Scabies in Nursing Homes?")
 
-[#### Who Do I File a Complaint With About a Home Health Aide?](https://www.pintas.com/faq/who-do-i-file-a-complaint-with-about-a-home-health-aide/)
+[#### What Causes Scabies in Nursing Homes?](https://www.pintas.com/faq/what-causes-scabies-in-nursing-homes/)
 
 ### Injured?  
 Tell Us What Happened.
