@@ -354,7 +354,7 @@ This section applies only to residents of California. It describes how we collec
 | Information about the Possibility of Not Consenting | You have the right to receive clear and complete information about the possibility and consequences of not providing consent when requested by **PSafe**. Your consent, when necessary, must be freely given and informed. Therefore, whenever we ask for your consent, you will be free to deny it – in these cases, it may be that some services cannot be provided. |
 | Objection | The law authorizes the processing of Personal Data even without your consent or a contract with us. In these situations, we will only process your Personal Data if we have legitimate reasons to do so, such as when it is necessary to ensure security in our services. If you do not agree with any purpose of processing your Personal Data, you may object by requesting its interruption. |
 
-**XIII. HOW TO EXERCISE YOUR RIGHTS  
+**XIV. HOW TO EXERCISE YOUR RIGHTS  
 **You can exercise your privacy rights as follows:
 
 **Right to information, access, and deletion.**  
@@ -363,6 +363,8 @@ You can request the exercise of your rights to information, access, and deletion
 * sending us an email to [dpo@psafe.com](mailto:dpo@psafe.com)
 
 We must confirm your identity and place of residency to process your requests to exercise your rights. If you do not provide us with sufficient details, we may not be able to process your request respond to it.
+
+To facilitate the provision of information about the processing of personal data, a [Privacy Portal](https://www.psafe.com/privacy-portal/). You can access it to ask your questions.
 
 **Personal information we collect, use, and share**  
 The chart presented below provides a summary of how we collect, use, and share Personal Information, in accordance with the legal categories outlined in the CCPA.
@@ -385,6 +387,9 @@ The chart presented below provides a summary of how we collect, use, and share P
 E-mail: [privacidade@psafe.com](mailto:privacidade@psafe.com).
 
 **PSafe’s Data Protection Officer (DPO):**  
+If necessary, you can also contact our Data Protection Officer/DPO:  
+Data Protection Officer (DPO) Responsible: Maurício José Ribeiro Rotta
+
 GEP Soluções em Compliance – [dpo@psafe.com](mailto:dpo@psafe.com).
 
 **XVI. ATUALIZAÇÕES  
