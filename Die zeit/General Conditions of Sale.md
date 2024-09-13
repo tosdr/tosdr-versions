@@ -68,7 +68,6 @@ Verlagsangebote
 Anzeigen
 
 * [Reisepodcast: Überm Berg](https://www.zeit.de/angebote/zeit-magazin/ueberm-berg-reisepodcast/geschichte/index)
-* [Deine Goldene Zeit in RLP](https://www.zeit.de/angebote/goldene-zeit-rheinland-pfalz/index)
 * [Beliebteste Arbeitgeber 2024](https://www.zeit.de/angebote/most-wanted-employer-2024/index)
 * [Gemeinsam für Demokratie](https://cmk.zeit.de/cms/hub/13121/anzeige/dm-drogerie-markt-gmbh)
 * [congstar Fairnessheld\*innen](https://www.zeit.de/campus/angebote/congstar/fairnessheldinnen/index)
