@@ -334,25 +334,25 @@ Mo-Fr 8:00 - 17:00
 
 Klick des Tages
 
-[VIGANTOLVIT 2000 I.E. Vitamin D3 Weichgummis - 2x60St - Doppelpack](https://www.medikamente-per-klick.de/product?artnr=81011793&simpleContentAttachmentId=14183&wochenklick)  
+[WICK MediNait Erkältungssirup für die Nacht 180ml](https://www.medikamente-per-klick.de/product?artnr=01689009&simpleContentAttachmentId=14183&wochenklick)  
 **Sonderpreis**  
-[![Sonderpreis](/images/products/medikamenteperklick/mittel/81011793_m.jpg "Sonderpreis")](https://www.medikamente-per-klick.de/product?artnr=81011793&simpleContentAttachmentId=14183&wochenklick)
+[![Sonderpreis](/images/products/medikamenteperklick/mittel/01689009_m.jpg "Sonderpreis")](https://www.medikamente-per-klick.de/product?artnr=01689009&simpleContentAttachmentId=14183&wochenklick)
 
 UVP2:
 
-25,98 €\*
+25,49 €\*
 
 Ihr Preis:
 
-15,20 €\*
+15,15 €\*
 
 Sie sparen:
 
-10,78 € \-41%
+10,34 € \-41%
 
-2024-09-12 13:00:00
+2024-09-19 12:00:00
 
-[Jetzt sichern](https://www.medikamente-per-klick.de/quickAddProductsToCart?pzn=81011793&quantity=1&simpleContentAttachmentId=14183&Wochenklick)
+[Jetzt sichern](https://www.medikamente-per-klick.de/quickAddProductsToCart?pzn=01689009&quantity=1&simpleContentAttachmentId=14183&Wochenklick)
 
 layoutStyle2
 
@@ -644,4 +644,4 @@ Haben Sie bitte auch dafür Verständnis, dass wir aus Datenschutzgründen Ausk�
 
 ![](https://www.facebook.com/tr?id=338982736604254&ev=PageView&noscript=1)
 
-![](https://c.paypal.com/v1/r/d/b/ns?f=jeyeojnrhdhwugbprsgxndbpovbtkzzv&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
+![](https://c.paypal.com/v1/r/d/b/ns?f=zlhobrnrusyhudwhhlchoiqqzluyuvak&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
