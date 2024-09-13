@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**September 10, 2024**
+**September 13, 2024**
 
 * * *
 
@@ -229,16 +229,16 @@ this hour
 
 * * *
 
-* [Methane Emissions Are Rising Faster Than Ever](https://www.sciencedaily.com/releases/2024/09/240910121039.htm)
-* [Is It Dark Matter or Cosmic Noise?](https://www.sciencedaily.com/releases/2024/09/240906141702.htm)
-* [Giant Fanged Frog Went Unrecognized](https://www.sciencedaily.com/releases/2024/09/240909160259.htm)
-* [AI Can ID Brain Patterns for Specific Behaviors](https://www.sciencedaily.com/releases/2024/09/240909175239.htm)
-* [Formation of Super-Earths](https://www.sciencedaily.com/releases/2024/09/240909160254.htm)
-* [Old Theory for the Doldrums Sinks Away](https://www.sciencedaily.com/releases/2024/09/240909160244.htm)
-* [Artificial Muscles Propel Jumping Robotic Leg](https://www.sciencedaily.com/releases/2024/09/240909113111.htm)
-* [Near-Death Experiences, Empathy, Connection](https://www.sciencedaily.com/releases/2024/09/240909113039.htm)
-* [Extreme Weather to Strengthen Rapidly](https://www.sciencedaily.com/releases/2024/09/240909113037.htm)
-* [US Droughts, Rainy Extremes Becoming More Severe](https://www.sciencedaily.com/releases/2024/09/240906141644.htm)
+* [Could Invisibility Cloaks Become a Reality?](https://www.sciencedaily.com/releases/2024/09/240912135948.htm)
+* [Antifungal Resistance Is Growing](https://www.sciencedaily.com/releases/2024/09/240913003332.htm)
+* [Easter Island: Popular Theory Disproven](https://www.sciencedaily.com/releases/2024/09/240911112147.htm)
+* ['Wobble' Made in Nucleus of Single Atom](https://www.sciencedaily.com/releases/2024/09/240912135652.htm)
+* [200 Meter Landslide: Earth Vibrated for 9 Days](https://www.sciencedaily.com/releases/2024/09/240912142355.htm)
+* [El Nino, Warming, Caused Huge Mass Extinction](https://www.sciencedaily.com/releases/2024/09/240912142358.htm)
+* [Hair-Thin Wire for Cosmic Simulations](https://www.sciencedaily.com/releases/2024/09/240912135814.htm)
+* [Path to Prosperity for Planet Shrinking Rapidly](https://www.sciencedaily.com/releases/2024/09/240912135718.htm)
+* [Impact of Climate Change On Agriculture](https://www.sciencedaily.com/releases/2024/09/240912135716.htm)
+* [Microbes Turn CO2 Into Protein and Vitamins](https://www.sciencedaily.com/releases/2024/09/240912135704.htm)
 
 Trending Topics
 ---------------
@@ -249,27 +249,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Intelligence](https://www.sciencedaily.com/news/mind_brain/intelligence/)
+[Skin Cancer](https://www.sciencedaily.com/news/health_medicine/skin_cancer/)
 
-[Lung Cancer](https://www.sciencedaily.com/news/health_medicine/lung_cancer/)
+[Child Psychology](https://www.sciencedaily.com/news/mind_brain/child_psychology/)
 
-[Fitness](https://www.sciencedaily.com/news/health_medicine/fitness/)
+[Elder Care](https://www.sciencedaily.com/news/health_medicine/caregiving/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Stars](https://www.sciencedaily.com/news/space_time/stars/)
+[Materials Science](https://www.sciencedaily.com/news/matter_energy/materials_science/)
 
-[Galaxies](https://www.sciencedaily.com/news/space_time/galaxies/)
+[Biochemistry](https://www.sciencedaily.com/news/matter_energy/biochemistry/)
 
-[Batteries](https://www.sciencedaily.com/news/matter_energy/batteries/)
+[Spintronics](https://www.sciencedaily.com/news/matter_energy/spintronics/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Ecology](https://www.sciencedaily.com/news/earth_climate/ecology/)
+[Energy and the Environment](https://www.sciencedaily.com/news/earth_climate/energy/)
 
-[Renewable Energy](https://www.sciencedaily.com/news/earth_climate/renewable_energy/)
+[Marine Biology](https://www.sciencedaily.com/news/plants_animals/marine_biology/)
 
-[Food](https://www.sciencedaily.com/news/plants_animals/food/)
+[Water](https://www.sciencedaily.com/news/earth_climate/water/)
 
   
 
