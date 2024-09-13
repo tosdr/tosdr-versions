@@ -17,6 +17,7 @@ Offers
 
 Go to previous offer
 
+*  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **FREE Advanced Marvel Screening** RSVP to see Marvel Television's Agatha All Along
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Gift, Give or Receive a ticket to The Forge** With The Kingdom Builders Gifted Ticket Program
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Save over 50% on Transformers Double Feature!** When you buy a ticket to Transformers One
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Buy a ticket to Usher: Rendezvous in Paris** Chance to win an Usher concert experience for 2!
@@ -57,13 +58,13 @@ Offers
 
 [SEE ALL OFFERS](https://www.fandango.com/offers)
 
-* [APPLE PAY WEDNESDAY image link ![APPLE PAY WEDNESDAY](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/56039dc0-6bcd-11ef-a588-3b078e6b3d8a--fan-globalofferunit-homepage-applepay-week10-tickets-292x118.png)](https://www.fandangomovietickets.com/applepaywednesday?cmp=TARS~FANDANGO~Fandango_footer~applepaywednesday~unbounce) 
+* [FREE Advanced Marvel Screening image link ![FREE Advanced Marvel Screening](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/f0001f90-7071-11ef-a588-3b078e6b3d8a--fan-globalofferunit-homepage-agatha-292x118.png)](https://fandango.az1.qualtrics.com/jfe/form/SV_eeosLS0c9xQxOSO?cmp=TARS~FANDANGO~AgathaAllAlong_Footer) 
     
-    ### APPLE PAY WEDNESDAY
+    ### FREE Advanced Marvel Screening
     
-    Get $5 off ticket orders made on Wednesday, 9/11 using Apple Pay, for any movie playing on any day! Limited quantity. Terms Apply.
+    RSVP to Marvel Television's Agatha All Along Advanced Fandango Screening
     
-    [LEARN MORE](https://www.fandangomovietickets.com/applepaywednesday?cmp=TARS~FANDANGO~Fandango_footer~applepaywednesday~unbounce)
+    [RSVP NOW](https://fandango.az1.qualtrics.com/jfe/form/SV_eeosLS0c9xQxOSO?cmp=TARS~FANDANGO~AgathaAllAlong_Footer)
     
 * [SAVE OVER 50% OFF ON TRANSFORMERS DOUBLE FEATURE image link ![SAVE OVER 50% OFF ON TRANSFORMERS DOUBLE FEATURE](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/ef8909b0-619d-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-transformersonegwp-292x118.png)](https://www.fandangomovietickets.com/TransformersOneGWPOffer?cmp=TARS~FANDANGO~TransformersOneTicketingOffer_Footer) 
     
@@ -186,6 +187,16 @@ New & Coming soon
 [Advertise With Us](https://together.nbcuni.com/advertise/?utm_source=fandango&utm_medium=referral&utm_campaign=property_ad_pages)
 
 © 2024 Fandango
+
+### FREE Advanced Screening of Marvel Television's Agatha All Along!y
+
+Close
+
+![FREE Advanced Marvel Screening](https://images.fandango.com/cms/assets/dc64bda0-707c-11ef-8321-2b978811c524--fan-globalnavbar-agatha-343x362.jpg)
+
+#### RSVP to see the first two episodes in theaters ahead of the Disney+ premiere, along with complimentary refreshments, photo ops, and a mini poster giveaway.
+
+The showing is a first come, first serve event and admission is not guaranteed. This show is TV-14. By submitting this form you agree to the Terms & Policies, Privacy Policy, and to receive marketing emails from Fandango media brands. [RSVP NOW](https://fandango.az1.qualtrics.com/jfe/form/SV_eeosLS0c9xQxOSO?cmp=TARS~FANDANGO~AgathaAllAlong_promomodule)
 
 ### Fandango offer: Gift, Give or Receive a ticket to The Forge
 
