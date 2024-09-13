@@ -1,82 +1,113 @@
-### Summary
+### **Cookies Policy**
 
-1. [Strictly necessary cookies placed by Focus Entertainment](#summary-1)
-    
-2. [Third party optional cookies](#summary-2)
-    
-3. [Third-party cookie exempt from consent](#summary-3)
-    
-4. [Video and social network sharing buttons](#summary-4)
-    
+**Focus Entertainment Publishing**
 
-Cookies Policy
-==============
+_Last update: 31 July 2024_
 
-A “cookie” is a string of information, usually small and identified with a name, that may be transmitted to your browser by a website you connect to. Your web browser will store it for a certain period of time and send it back to the web server each time you log onto it again.
+Welcome to Focus Entertainment Publishing (the “Website”). Our Website uses cookies and similar technologies to improve your user experience and understand how you use our Website.
 
-Our website also contains tags: web beacons which are images embedded in the site but invisible to you. Your browser downloads them only if you have consented when visiting the site, thus allowing us to collect anonymous data about how you use our website in order to provide you with personalised or targeted content on this site, as well as on third party sites.
+This Cookies Policy allows you to learn more about the origin and use of the browsing information collected and processed during your visit to our Website and your options regarding the settings of these cookies.
 
-It also helps us to identify the types of browsers and search criteria that bring visitors to this site in order to improve our services.
+**1\. What is a cookie?**
 
-This cookies policy enables you to find out more about the origin and use of the navigation information collected and processed while you browse our website and about your options regarding these cookies’ settings.
+Cookies are small text data files that are stored by your browser on your device (computer, tablet, mobile phone, etc.) when you visit a website, in order to remember information about you, such as your language preferences or login information.
 
-You can give or withdraw your consent when you first visit our website via the cookies settings window and at any time by clicking on the cookies button available on the website.
+**2\. How do we use cookies?**
 
-Please note that cookies will not be stored and maintained for more than 6 months. At the end of this period, we will ask you for your consent again before re-using these cookies.
+**2.1 Required Cookies**
 
-### 1. Strictly necessary cookies placed by Focus Entertainment
-
-The table below explains to you which types of cookies we use and why:
+Some cookies are necessary for the display and secure operation of the Website. They allow you to browse the Website and use its features. They are deposited on our Website on the basis of our legitimate interest. These cookies include:
 
 |     |     |     |
 | --- | --- | --- |
-| **CATEGORY OF COOKIE** | **PURPOSE(S)** | **DURATION** |
-| **Necessary operational cookies** | To manage the display and ensure the availability of services and proper functioning of our website so as to provide you with services requested during your visit. | **Session cookies** |
-| **Security cookie** | To ensure an adequate level of security for our website and our services during your visit and detect fraud attempts or protect you from abuse. | **Session cookie** |
-| **Preference cookie** | To store your browser, language and country preferences. | **Session cookie** |
-| **Cookie which retains your preferences when placing cookies** | To enable us to demonstrate at any time that your consent has been validly obtained to place all or part of the cookies offered by Focus Entertainment. | **Session cookie** |
+| **COOKIE CATEGORY** | **PURPOSE(S)** | **DURATION OF THE COOKIE\*** |
+| Operating cookies | Ensure the display, availability of services and proper functioning of our Website and in order to provide you with the services requested during your visit. | Session duration |
+| Security cookies | To ensure an adequate level of security of our Website and services during your visit and to detect attempted fraud or to protect you against abuse. | Session duration |
+| Cookies storing your choices | To allow us to demonstrate at any time that we respect your choice in terms of depositing cookies. | 6 months |
 
-### 2. Third-party optional cookies
+\*Aggregated data from these cookies will not be stored for more than 25 months.
 
-The table below explains which types of third-party cookies we allow after you have given your consent and for what purposes.
+You can disable these cookies by accessing your browser settings, but some parts of the Website may be affected and no longer work optimally.
 
-Data collected by Focus Entertainment for the purpose of audience measurement and/or display of personalized content and targeted advertising on third party sites via the third party cookies listed below are processed in accordance with this cookie policy and our [privacy policy.](https://www.focus-entmt.com/en-us/privacy-policy)
+**2.2 Third-party cookies for personalised advertising**
 
-Any other processing of data by the third parties listed below using the trackers on this site will be governed by the privacy and cookie policies of those third parties.
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| **ORIGIN** | **CATEGORY** | **PURPOSE(S)** | **DURATION** |
-| **Google Analytics** | Audience measurement cookies | To enable us to compile on our behalf exclusively traffic and/or performance statistics for the proper management, optimisation and improvement of the user experience on our website. | Aggregated data collected via audience measurement cookies will **not be retained for more than 24 months.**<br><br>We will ask for your consent again after **6 months** before allowing audience measurement cookies to be placed again. |
-| **_Google Analytics_**<br><br>**_Display video 360_**<br><br>**_Google Ads_**<br><br>**_Campaign Manager 360_** | Cookies tags and web beacons, analytics, statistics and targeted advertising | _Google Analytics_ and _Manager Campaign 360_ via cookies and web beacons collect your IP address and information about your use of our website to enable us to improve our services and content.<br><br>They also make it possible to display targeted advertisements and content tailored to your interests and your use of our services on third-party sites.<br><br>_Google Display Vidéo 360, Campaign Manager 360 and Google Ads_ are set up to analyse the effectiveness of an advertising campaign and to prevent the same advertisement from being displayed repeatedly on third-party sites. | Data collected via _Google_ cookies and web beacons will **not be retained for more than 18 months after their collection.**<br><br>We will ask for your consent again after **6 months** before allowing _Google_ trackers to be placed again. |
-| **_Facebook_** | Web beacons, statistics and targeted advertising | These cookies and web beacons are set up to analyze the effectiveness of an advertising campaign and make it possible to display targeted advertisements and content tailored to your interests and your use of our services on third-party sites | Data collected via _Facebook_ will **not be retained for more than 12 months after their collection.**<br><br>We will ask for your consent again after **6 months** before allowing _Facebook_ trackers to be placed again. |
-| **_Twitter_** | Web beacons, statistics and targeted advertising | These cookies and web beacons collect your IP address and information about your use of our website to enable us to improve our services and content.<br><br>They also make it possible to display targeted advertisements and content tailored to your interests and your use of our services on third-party sites. | Data collected via _Twitter_ will **not be retained for more than 18 months after their collection.**<br><br>We will ask for your consent again after **6 months** before allowing _Twitter_ trackers to be placed again |
-| **_Reddit_** | Web beacons, statistics and targeted advertising | These cookies and web beacons collect your IP address and information about your use of our website to enable us to improve our services and content.<br><br>They also make it possible to display targeted advertisements and content tailored to your interests and your use of our services on third-party sites. | Data collected via _Reddit_ will **not be retained for more than 6 months after their collection.**<br><br>We will ask for your consent again after **6 months** before allowing _Twitter_ trackers to be placed again. |
-| **_Tik Tok_** | Web beacons, statistics, and targeted advertising | These web beacons collect your IP address, your location, information about your use of our website, and information about the device you use to connect to our website so that we can improve our services and content.<br><br>They also allow us to tell us how effective our advertisements are with different audiences. | Data collected via _Tik Tok_ will **not be retained for more than 6 months after their collection**.<br><br>We will ask you again for your consent after **6 months** before allowing _Tik Tok_ trackers to be placed again. |
-| **_Amazon_** | Web beacons, statistics, and targeted advertising | These cookies and web beacons are set up to analyze the effectiveness of an advertising campaign and make it possible to display targeted advertisements and content tailored to your interests and your use of our services on third-party sites. | Data collected via _Amazon_ will **not be retained for more than 13 months after their collection**.<br><br>We will ask you again for your consent after **6 months** before allowing _Amazon_ trackers to be placed again. |
-| **_Youtube_** | Preferences | _Youtube_ cookies are used to identify your device in order to record your preferences for playing Youtube videos embedded on our website. | Data collected via _Youtube_ will **not be retained for more than 6 months after their collection**.<br><br>We will ask for your consent again after **6 months** before re-authorising the _Youtube_ repository. |
-
-### 3\. Third-party cookie exempt from consent
-
-Focus Entertainment uses an audience measurement solution, which consists of a tag placed on our website:
+These cookies, subject to your prior consent, may be placed on our Website by our partners. They may be used by our partners to profile your interests and offer you relevant advertisements on other websites. These cookies include:
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| **ORIGIN** | **CATEGORY** | **PURPOSE(S)** | **DURATION** |
-| **_Beyable_** | Audience measurement cookie | To measure the audience of our website (performance measurement, analysis of content consulted) exclusively on our behalf, and to produce only anonymous statistical data. | This cookie expires after **12 days**, and aggregate data obtained via _Beyable_’s tag will not be retained for more than **25 months**. |
+| **ORIGIN OF THE COOKIE** | **PURPOSE(S)** | **COOKIE CATEGORY** | **DURATION OF THE COOKIE** |
+| Amazon Advertising | Personalised advertising, advertising performance measurement, audience studies and service development | Third-party cookie | Aggregate data collected via audience measurement cookies will not be kept by Amazon for more than 13 months.<br><br> We will ask for your consent after 6 months before again authorising the deposit of audience measurement cookies. |
+| Google Advertising Products | Personalised advertising, advertising performance measurement, audience studies and service development | Third-party cookie | Aggregate data collected via audience measurement cookies will not be kept by Google for more than 18 months.<br><br> We will ask for your consent after 6 months before again authorising the deposit of audience measurement cookies. |
+| Meta (Facebook) | To enable the display of targeted advertisements and content tailored to your interests and your use of our services on third-party websites | Pixels (tracer) | The data collected via Meta (Facebook) will not be kept by the latter for more than 24 months from their collection.<br><br> We will ask for your consent after 6 months before again authorising the deposit of Meta (Facebook) tracers. |
+| X (Twitter) | To enable the display of targeted advertisements and content tailored to your interests and your use of our services on third-party websites | Pixels (tracer) | The data collected via X (Twitter) will not be kept by the latter for more than 24 months from their collection.<br><br> We will ask for your consent after 6 months before again authorising the deposit of X (Twitter) tracers. |
+| Reddit | To enable the display of targeted advertisements and content tailored to your interests and your use of our services on third-party websites | Pixels (tracer) | The data collected via Reddit will not be kept by the latter for more than 3 months from their collection.<br><br> We will ask for your consent after 6 months before again authorising the deposit of Reddit tracers. |
+| TikTok | To enable the display of targeted advertisements and content tailored to your interests and your use of our services on third-party websites | Pixels (tracer) | The data collected via TikTok will not be kept by the latter for more than 13 months from their collection.<br><br> We will ask for your consent after 6 months before again authorising the deposit of TikTok tracers. |
 
-This cookie is exempt from consent under French law since it is set up by default to produce anonymous data which is not reused by third parties (Beyable included) and does not allow global tracking of your navigation through multiple websites.
+**2.3 Third-party cookies for viewing multimedia content**
 
-You can refuse the use of this cookie at any time by following Beyable’s opt-out procedure available on their website: [https://beyable.com/optout/](https://beyable.com/optout/).
+|     |     |     |     |
+| --- | --- | --- | --- |
+| **ORIGIN OF THE COOKIE** | **PURPOSE(S)** | **COOKIE CATEGORY** | **DURATION OF THE COOKIE** |
+| YouTube | Identify your device in order to record your preferences for playing _YouTube_ videos embedded on our Website | Preferences | The aggregated data collected will not be stored by the latter for more than 180 days.<br><br> We will ask for your consent after 6 months before again authorising the deposit of multimedia content viewing preference cookies. |
 
-You can exercise your rights of access to and rectification or erasure of your personal data and to restrict or object to its processing, as well as the right to data portability, by making a written request to one of the following addresses: BEYABLE, 241, boulevard Voltaire, 75011 Paris – France ; or [contact@beyable.com](mailto:contact@beyable.com).
+**2.4 Third-party cookies exempt from consent**
 
-### 4. Video and social network sharing buttons
+Consent-exempt audience measurement cookies are deposited on our Website, based on our legitimate interest, configured by default to produce anonymous data that are not reused by third parties (Beyable included) and does not allow global tracking of your browsing on several websites:
 
-Focus Entertainment allows third-party social network plug-ins to be inserted only to let you share content from your Focus Entertainment experience on the social platforms listed below. Any further processing of your data implemented by these platforms will be governed by the privacy and cookie policies of each platform / social network concerned. 
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| **ORIGIN OF THE COOKIE** | **PURPOSE(S)** | **COOKIE CATEGORY** | **DURATION OF THE COOKIE** |     |
+| Beyable | Audience measurement of the Website (performance measurement, analysis of content viewed) exclusively on our behalf and producing anonymous statistical data. | Audience measurement cookie | This cookie expires after 12 days and the aggregated information collected by this cookie is not stored beyond a period of 25 months. |     |
+|     |
 
-* **Facebook**: read Facebook's [privacy](https://facebook.com/policy.php) and [cookies policy](https://facebook.com/policies/cookies/);
-    
-* **Twitter**: read Twitter's [privacy](https://twitter.com/privacy#update) and [cookies policy](https://help.twitter.com/rules-and-policies/twitter-cookies).
-    
-* **Reddit** : read Reddit's [privacy](https://www.redditinc.com/policies/privacy-policy) and [cookies policy](https://www.redditinc.com/policies/cookies).
+You may refuse the use of this cookie at any time [by clicking here](https://www.focus-entmt.com/#beyable-optout=1).
+
+Please note: this option does not necessarily delete the cookie update, but it does prevent it from being collected and signals BEYABLE to stop contacting its servers. If the visitor cleans his/her cookies, deletes the exclusion cookie, or if he/she changes computer or browser, he/she will have to repeat this operation.
+
+You may exercise your rights of access, rectification, portability and deletion of your personal data, and restriction or opposition to the processing carried out by Beyable, by making a written request to one of the following addresses:
+
+\-        BEYABLE, 241, boulevard Voltaire, 75011 Paris, France
+
+\-         [contact@beyable.com](file:///C:/Users/i_hanna/AppData/Local/Temp/msohtmlclip1/01/clip_filelist.xml)
+
+**3\. Cookie management**
+
+You can give or withdraw consent to the deposit of these cookies via the cookie management banner during your first visit to our Website, and change your choice at any time via the “Cookie Management” option at the bottom of the Website’s pages.
+
+You can set up your computer so that it accepts or refuses certain cookies, in particular by using ad blockers. Indeed, at any time and at your free discretion, you can decide to configure your computer in such a way that it is possible:
+
+·        To systematically record all cookies issued on the visited website;
+
+·        Or to configure your browsing software or using an ad blocker so that it allows you to accept or on the contrary to refuse the various cookies that may be offered to you regularly;
+
+·        Or to systematically refuse all cookies issued on the visited website.
+
+However, be aware that
+
+\-        refusing cookies may result in a restriction of functionality ;
+
+\-        using an advertising blocker may prevent the cookie management banner from being displayed.
+
+ We deny any liability for the consequences resulting from the malfunction of the Website, in particular concerning the creation of an online account or the use of the Website’s features, due to the inability for our services to record or consult the cookies issued that you have decided to delete or withdraw, in particular by using ad blockers or by configuring your browsing software.
+
+You can configure your browser to set the management of your cookies. The procedure for changing your cookie preferences is indicated in your browser’s help menu:
+
+\- For Internet Explorer™: click [here](https://support.microsoft.com/fr-fr/help/17442/windows-internet-explorer-delete-manage-cookies)
+
+\- For Safari™: click [here](https://support.apple.com/fr-fr/guide/safari/sfri11471/mac)
+
+\- For Chrome™: click [here](https://support.google.com/chrome/answer/95647?hl=fr&hlrm=en)
+
+\- For Firefox™: click [here](https://support.mozilla.org/fr/kb/activer-desactiver-cookies%20preferences?redirectlocale=fr&redirectslug=Activer+et+d%C3%A9sactiver+les+cookies)
+
+\- For Opera™: click [here](https://www.accepterlescookies.com/comment-accepter-les-cookies-sur-opera.html)
+
+**4\. Changes to the Cookies Policy**
+
+We reserve the right to change this Cookies Policy at any time.
+
+Any changes will be published on this page with the date of the last update.
+
+**5\. Contact us**
+
+If you have any questions about our use of cookies, please contact us at: [personaldata@focusent.com](file:///C:/Users/i_hanna/AppData/Local/Temp/msohtmlclip1/01/clip_filelist.xml)
