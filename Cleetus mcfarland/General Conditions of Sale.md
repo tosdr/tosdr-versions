@@ -39,6 +39,7 @@
     * [Freedom Factory Website](https://freedomfactoryusa.com/)
     * [FF Tickets](https://tickets.thefoat.com/FreedomFactory)
     * [Schedule](https://www.cleetusmcfarland.com/pages/events)
+    * [Lights Festival](https://www.freedomfactoryusa.com/lightsfestival)
     
 * [Livestreams](https://www.frdmplus.com/)
 * [Driving Exp.](https://tickets.thefoat.com/fa/sg-ticketbuy.home?keywords=Cleetus%20Mcfarland%20Driving)
@@ -340,6 +341,7 @@ United States | USD $
     * [Freedom Factory Website](https://freedomfactoryusa.com/)
     * [FF Tickets](https://tickets.thefoat.com/FreedomFactory)
     * [Schedule](https://www.cleetusmcfarland.com/pages/events)
+    * [Lights Festival](https://www.freedomfactoryusa.com/lightsfestival)
     
 * [Livestreams](https://www.frdmplus.com/)
 * [Driving Exp.](https://tickets.thefoat.com/fa/sg-ticketbuy.home?keywords=Cleetus%20Mcfarland%20Driving)
