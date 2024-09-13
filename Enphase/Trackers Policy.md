@@ -32,7 +32,6 @@
 * [](javascript:void(0);)
 * [ESG](https://enphase.com/company/sustainability)
 * [ClipperCreek Landing Page](https://enphase.com/ev-chargers/clippercreek)
-* [ESG](https://enphase.com/company/sustainability)
 
 [](#)
 
@@ -281,6 +280,7 @@ Your session expired. Please login again to continue to purchase.
     
     * [Homeowners](https://enphase.com/support/homeowners)
     * [Installers](https://enphase.com/support/installers)
+    * [SunPower](https://enphase.com/support/sunpower)
     * [Enphase Community](https://support.enphase.com/s/community-home)
     * [Training events](https://enphase.com/installers/training/events)
     * [Warranty and labor](https://enphase.com/installers/resources/warranty)
