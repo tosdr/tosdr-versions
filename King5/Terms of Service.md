@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/deafc819-8836-402b-96c4-e27a87ee4a46/20240812T190549/deafc819-8836-402b-96c4-e27a87ee4a46_16x9.jpg) ![](https://media.king5.com/assets/KING/images/deafc819-8836-402b-96c4-e27a87ee4a46/20240812T190549/deafc819-8836-402b-96c4-e27a87ee4a46_360x203.jpg)](https://www.king5.com/article/news/local/seattle/belltown-hellcat-lawyer-withdraws-civil-case/281-dd413e7b-b098-4bac-906f-35113ef28d9a)
+    *  [![](https://media.king5.com/assets/KING/images/f46f39c9-cbf1-4169-9e33-b0200b924547/20240912T235952/f46f39c9-cbf1-4169-9e33-b0200b924547_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f46f39c9-cbf1-4169-9e33-b0200b924547/20240912T235952/f46f39c9-cbf1-4169-9e33-b0200b924547_360x203.jpg)](https://www.king5.com/article/news/local/otter-attacks-child-drags-them-under-water-bremerton-marina/281-5eae4466-ff87-4c55-84c9-ffed8d863ec9)
         
-        #### ['Belltown Hellcat' driver's lawyer withdraws from civil case as motion to set aside default denied](https://www.king5.com/article/news/local/seattle/belltown-hellcat-lawyer-withdraws-civil-case/281-dd413e7b-b098-4bac-906f-35113ef28d9a)
+        #### [Otter attacks child, drags them underwater at Bremerton Marina](https://www.king5.com/article/news/local/otter-attacks-child-drags-them-under-water-bremerton-marina/281-5eae4466-ff87-4c55-84c9-ffed8d863ec9)
         
-    *  [![](https://media.king5.com/assets/KING/images/4faf5d3d-4835-4200-9d94-85bcefc5f0a4/4faf5d3d-4835-4200-9d94-85bcefc5f0a4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/4faf5d3d-4835-4200-9d94-85bcefc5f0a4/4faf5d3d-4835-4200-9d94-85bcefc5f0a4_360x203.jpg)](https://www.king5.com/article/news/local/gary-ridgway-transferred-king-county-jail/281-e9eaac8a-ea35-4593-8562-78195e9618c1)
+    *  [![](https://media.king5.com/assets/KING/images/aa07b338-a1ba-44be-9b4b-f4944a73684f/20240907T003319/aa07b338-a1ba-44be-9b4b-f4944a73684f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/aa07b338-a1ba-44be-9b4b-f4944a73684f/20240907T003319/aa07b338-a1ba-44be-9b4b-f4944a73684f_360x203.jpg)](https://www.king5.com/article/news/crime/uw-police-majority-championship-rings-recovered/281-227f1f4f-0f87-4501-be18-1bccc82963e7)
         
-        #### [Gary Ridgway booked into King County Jail](https://www.king5.com/article/news/local/gary-ridgway-transferred-king-county-jail/281-e9eaac8a-ea35-4593-8562-78195e9618c1)
+        #### [UW police say majority of championship rings stolen from football staffer recovered](https://www.king5.com/article/news/crime/uw-police-majority-championship-rings-recovered/281-227f1f4f-0f87-4501-be18-1bccc82963e7)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/7c09346c-bfd4-45fc-9c63-69af0d22b0b3/20240910T115536/7c09346c-bfd4-45fc-9c63-69af0d22b0b3_16x9.jpg) ![](https://media.king5.com/assets/KING/images/7c09346c-bfd4-45fc-9c63-69af0d22b0b3/20240910T115536/7c09346c-bfd4-45fc-9c63-69af0d22b0b3_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/fea5be71-49ad-4793-b17e-81de739413c8/20240913T003609/fea5be71-49ad-4793-b17e-81de739413c8_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fea5be71-49ad-4793-b17e-81de739413c8/20240913T003609/fea5be71-49ad-4793-b17e-81de739413c8_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
-    *  [![](https://media.king5.com/assets/KING/images/ae38afe2-b318-49f3-a922-9dd37c316ee1/20240906T130900/ae38afe2-b318-49f3-a922-9dd37c316ee1_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ae38afe2-b318-49f3-a922-9dd37c316ee1/20240906T130900/ae38afe2-b318-49f3-a922-9dd37c316ee1_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/late-summer-heat-wave-western-washington-seattle/281-f02e1b5c-4b7b-4bd6-afa7-a3fc9d362029)
+    *  [![](https://media.king5.com/assets/CCT/images/a7762b9b-f674-41df-b6e6-12f57481bd89/20240912T031957/a7762b9b-f674-41df-b6e6-12f57481bd89_16x9.jpg) ![](https://media.king5.com/assets/CCT/images/a7762b9b-f674-41df-b6e6-12f57481bd89/20240912T031957/a7762b9b-f674-41df-b6e6-12f57481bd89_360x203.jpg)](https://www.king5.com/article/news/nation-world/california-wildfires/507-b7fa1da4-8cd1-4e3f-b209-72deaa1aabb6)
         
-        #### [Temperature records broken around the Puget Sound amid late summer heat wave](https://www.king5.com/article/weather/weather-blog/late-summer-heat-wave-western-washington-seattle/281-f02e1b5c-4b7b-4bd6-afa7-a3fc9d362029)
+        #### [Wildfires in Southern California torch dozens of homes and force thousands to evacuate](https://www.king5.com/article/news/nation-world/california-wildfires/507-b7fa1da4-8cd1-4e3f-b209-72deaa1aabb6)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -95,9 +95,9 @@ Navigation
 
 Seattle, WA »
 
-67°
+58°
 
-![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
