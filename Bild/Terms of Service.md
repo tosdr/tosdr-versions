@@ -161,6 +161,7 @@ Menü
 * [Broker Vergleich](https://www.bild.de/trading/)
 * [Kreditkarten](https://www.bild.de/kreditkarten/)
 * [Kredit Vergleich](https://www.bild.de/kredit/)
+* [Strompreisvergleich](https://www.bild.de/strompreisvergleich/)
 * [BILD Stellenmarkt](https://jobs.bild.de/)
 * [BILD Tagesgeld](https://www.bild.de/tagesgeld/)
 
