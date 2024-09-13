@@ -94,12 +94,6 @@ However if you are still looking for more information then you can contact us th
 * Email: [\[email protected\]](https://www.hahucloud.com/cdn-cgi/l/email-protection)
 * By visiting this link: https://www.hahucloud.com
 
-Call For More Information
-=========================
-
-0933 75 3333
-============
-
 [](https://hahucloudsupport.t.me/ "Contact us on Telegram")
 
 ![](https://www.facebook.com/tr?id=2722933384599429&ev=PageView&noscript=1)
@@ -136,9 +130,10 @@ Call For More Information
 * [Announcements](https://my.hahucloud.com/announcements)
 * [Knowledgebase](https://my.hahucloud.com/knowledgebase)
 * [.et Domain Name](https://www.hahucloud.com/et-domain)
-* [💚 Free Web Hosting](https://www.hahucloud.com/charity)
+* [Free Web Hosting](https://www.hahucloud.com/charity)
 * [hahu.io SMS Gateway](https://hahu.io/)
 * [Tender Alert iChereta](https://ichereta.com/)
+* [My Public IP](https://www.hahucloud.com/ip)
 
 ‭
 
