@@ -127,7 +127,20 @@ Los Angeles, CA 90024
 
 If you are a California resident, you may have these Terms mailed to you electronically by sending a letter to the  address above with your electronic mail address and a request for these Terms. Under California Civil Code Section 1789.3, California Website users are entitled to the following specific consumer rights notice: The Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs may be contacted in writing at 1625 N. Market Blvd., Suite S-202, Sacramento, California 95834, or by telephone at (800) 952-5210.
 
-**Last Revised: August 26, 2015**
+PrettyLitter Referral Offer Terms
+---------------------------------
+
+EFFECTIVE DATE: Sep 1, 2024
+
+Thank you for participating in PrettyLitter’s Offer Referral Program (the “Program)! The Program allows users (the “Advocates”) to share an offer (“Offer”) by using a personalized link that Advocates share with their friends (the “Friends”). Subject to these Offer Terms, and as described below, Advocates and Friends will be able to obtain an online coupon code (“Reward”) that they can redeem with PrettyLitter.
+
+By participating in the Program, you, as an Advocate or Friend, as the case may be (collectively, “You”), agree to enter into these Offer Terms with PrettyLitter.
+
+Subject to these Offer Terms and any other terms described in the offer page, the personalized links that Advocates share with their Friends will allow their Friends to obtain Rewards that ​they can redeem when making their first purchase order with PrettyLitter (a “Qualifying Purchase”). A Qualifying Purchase may be subject to a minimum spend. When a Friend uses an active personalized link to make their Qualifying Purchase with PrettyLitter, the Advocate who referred that Friend will earn their own Reward that the Advocate can use for future purchases with PrettyLitter or, if applicable, at third-party retailers. To qualify for a Reward, the Friend must be a new customer to PrettyLitter the Advocate must be a PrettyLitter customer for more than two (2) months. Rewards will be automatically applied to the next monthly subscription as a credit to the subscription order in the amount of the cost of one bag of litter. Rewards will be applied after the completion of a Qualifying Purchase and after approval by PrettyLitter, in its sole discretion. Advocates may not earn more than one (1) Reward in 30 days or more than five (5) Rewards in total. Advocates may earn only one (1) Reward per Friend, regardless of the number of purchases that his or her Friends make. Rewards cannot be combined with other discount codes in a single order. To receive multiple Rewards, Advocates must introduce multiple Friends who make a Qualifying Purchase using the Advocate’s active personalized referral link. An Advocate cannot refer themself to earn a Reward. In addition, the Referred Customer and the Referrer cannot be the same person (for example, by using a different email address). When sharing Rewards, Advocates must tell their Friends that Advocates will receive a reward from PrettyLitter if they make their Qualifying Purchase using your personalized link. PrettyLitter, in its sole discretion, may impose limits on how many Offers may be shared by an Advocate, as well as how frequently those Offers can be made, and Rewards may not be given if those limits are exceeded.
+
+PrettyLitter reserves the right to refuse to issue or redeem a Reward to Advocates or Friends at any time. Further, PrettyLitter reserves the right, in its sole discretion, to (i) vary any and all elements of an Offer at any time without notice to You and (ii) to prevent any individual from participating in this or future promotions. An Offer cannot be applied to previous purchases and is not redeemable for cash. You understand that although You initially participated in an Offer as a Friend, You will be considered an Advocate if You share a personalized link with your own Friends.
+
+**Last Revised: September 11, 2024**
 
 ![PrettyLitter, cat, and bowl of litter with colored spots](https://res.cloudinary.com/prettylitter/image/upload/w_auto,q_auto,f_auto,dpr_2/pages/pl_color_guide)
 
@@ -155,7 +168,6 @@ Follow Us
 
 * [Facebook](https://facebook.com/prettylittercats "Facebook")
 * [Instagram](https://instagram.com/prettylitter "Instagram")
-* [Twitter](http://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=prettylitter "Twitter")
 * [Tiktok](http://tiktok.com/@prettylitter "Tiktok")
 
 Let's Be Friends
