@@ -145,7 +145,7 @@ Terms of Service Privacy Policy Specific Privacy Notices Product Specific Terms 
 Privacy Policy
 ==============
 
-**Effective Date: August 28, 2023**
+**Effective Date: September 12, 2024**
 
 Squarespace (“Squarespace”, “we”, “us” or “our”) respects your privacy. When it comes to your personal information, we believe in transparency, not surprises. That’s why we’ve set out here what personal information we collect, what we do with it and your choices and rights.
 
@@ -385,7 +385,7 @@ Our accountability for personal information we receive and subsequently transfer
 
 If you have a question or complaint you believe to be within the scope of our Data Privacy Frameworks certification, please contact us first at [privacy@squarespace.com](mailto:privacy@squarespace.com), or using the contact details in the “How to contact us” section below. We'll respond within 45 days.
 
-For any complaints that we can’t resolve directly, JAMS is the independent organization responsible for reviewing and resolving complaints about our Data Privacy Frameworks compliance. You can contact JAMS free of charge at [https://www.jamsadr.com/eu-us-data-privacy-framework](https://www.jamsadr.com/eu-us-data-privacy-framework). JAMS is an alternative dispute resolution provider based in the US.
+For any complaints that we can’t resolve directly, JAMS is the independent organization responsible for reviewing and resolving complaints about our Data Privacy Frameworks compliance. You can contact JAMS free of charge at [https://www.jamsadr.com/DPF-Dispute-Resolution](https://www.jamsadr.com/DPF-Dispute-Resolution). JAMS is an alternative dispute resolution provider based in the US.
 
 If your concern still isn't addressed by JAMS, you may be entitled to a binding arbitration under the DPF Principles. For purposes of enforcing compliance with the Data Privacy Frameworks, Squarespace, Inc. is subject to the investigatory and enforcement authority of the U.S. Federal Trade Commission.
 
