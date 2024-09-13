@@ -39,6 +39,7 @@
         * [Privacy](https://www.channel4.com/4viewers/privacy)
         * [SU2C: Contributor Privacy Policy](https://www.channel4.com/4viewers/SU2Cprivacypolicy)
         * [SU2C: Donation Terms and Conditions](https://www.channel4.com/4viewers/su2c-terms)
+        * [Terms and Conditions: Task Within Taskmaster Competiton](https://www.channel4.com/4viewers/task-within-taskmaster-tandc)
         * [Terms of use](https://www.channel4.com/4viewers/ts-and-cs)
         * [Terms of Use – In-programme Interactivity](https://www.channel4.com/4viewers/programme-ts-and-cs)
         
@@ -70,8 +71,8 @@
         * [Grand Designs](https://www.channel4.com/4viewers/take-part/grand-designs)
         * [The Great British Bake Off: An Extra Slice](https://www.channel4.com/4viewers/take-part/extra-slice)
         * [Help! We Bought A Village](https://www.channel4.com/4viewers/take-part/bought-a-village)
+        * [Kirstie and Phil's Love It or List It](https://www.channel4.com/4viewers/take-part/kirstie-and-phils-love-it-or-list-it)
         * [Location, Location, Location](https://www.channel4.com/4viewers/takepart/location)
-        * [Love It or List It](https://www.channel4.com/4viewers/take-part/love-it-or-list-it)
         * [Love Triangle](https://www.channel4.com/4viewers/take-part/love-triangle)
         * [Married at First Sight UK](https://www.channel4.com/4viewers/takepart/married-at-first-sight)
         * [Millionaire Hoarders](https://www.channel4.com/4viewers/take-part/millionaire-hoarders)
@@ -124,6 +125,7 @@
     * [Privacy](https://www.channel4.com/4viewers/privacy)
     * [SU2C: Contributor Privacy Policy](https://www.channel4.com/4viewers/SU2Cprivacypolicy)
     * [SU2C: Donation Terms and Conditions](https://www.channel4.com/4viewers/su2c-terms)
+    * [Terms and Conditions: Task Within Taskmaster Competiton](https://www.channel4.com/4viewers/task-within-taskmaster-tandc)
     * [Terms of use](https://www.channel4.com/4viewers/ts-and-cs)
     * [Terms of Use – In-programme Interactivity](https://www.channel4.com/4viewers/programme-ts-and-cs)
 
