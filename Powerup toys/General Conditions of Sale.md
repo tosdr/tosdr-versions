@@ -1,4 +1,4 @@
-FREE SHIPPING ON ORDERS $48+
+FREE SHIPPING ON ORDERS $60+
 
 Menu
 
@@ -60,7 +60,6 @@ Menu
     * Central African Republic (XAF Fr)
     * Chad (XAF Fr)
     * Chile (USD $)
-    * China (CNY ¥)
     * Christmas Island (AUD $)
     * Cocos (Keeling) Islands (AUD $)
     * Colombia (USD $)
@@ -122,7 +121,6 @@ Menu
     * Israel (ILS ₪)
     * Italy (EUR €)
     * Jamaica (JMD $)
-    * Japan (JPY ¥)
     * Jersey (USD $)
     * Jordan (USD $)
     * Kazakhstan (KZT 〒)
@@ -197,7 +195,6 @@ Menu
     * Serbia (RSD РСД)
     * Seychelles (USD $)
     * Sierra Leone (SLL Le)
-    * Singapore (SGD $)
     * Sint Maarten (ANG ƒ)
     * Slovakia (EUR €)
     * Slovenia (EUR €)
@@ -205,7 +202,6 @@ Menu
     * Somalia (USD $)
     * South Africa (USD $)
     * South Georgia & South Sandwich Islands (GBP £)
-    * South Korea (KRW ₩)
     * South Sudan (USD $)
     * Spain (EUR €)
     * Sri Lanka (LKR ₨)
@@ -261,7 +257,7 @@ Menu
 
 [0](https://www.poweruptoys.com/cart "Cart")
 
-FREE SHIPPING ON ORDERS $48+
+FREE SHIPPING ON ORDERS $60+
 
 * [](mailto:support@poweruptoys.com "Email POWERUP®")
 * [](https://www.facebook.com/Poweruptoys "POWERUP® on Facebook")
@@ -304,7 +300,6 @@ FREE SHIPPING ON ORDERS $48+
     * CAD $
     * CDF Fr
     * CHF CHF
-    * CNY ¥
     * CRC ₡
     * CVE $
     * CZK Kč
@@ -330,12 +325,10 @@ FREE SHIPPING ON ORDERS $48+
     * INR ₹
     * ISK kr
     * JMD $
-    * JPY ¥
     * KES KSh
     * KGS som
     * KHR ៛
     * KMF Fr
-    * KRW ₩
     * KYD $
     * KZT 〒
     * LAK ₭
@@ -368,7 +361,6 @@ FREE SHIPPING ON ORDERS $48+
     * SAR ر.س
     * SBD $
     * SEK kr
-    * SGD $
     * SHP £
     * SLL Le
     * STD Db
@@ -774,7 +766,6 @@ USD $
 * CAD $
 * CDF Fr
 * CHF CHF
-* CNY ¥
 * CRC ₡
 * CVE $
 * CZK Kč
@@ -800,12 +791,10 @@ USD $
 * INR ₹
 * ISK kr
 * JMD $
-* JPY ¥
 * KES KSh
 * KGS som
 * KHR ៛
 * KMF Fr
-* KRW ₩
 * KYD $
 * KZT 〒
 * LAK ₭
@@ -838,7 +827,6 @@ USD $
 * SAR ر.س
 * SBD $
 * SEK kr
-* SGD $
 * SHP £
 * SLL Le
 * STD Db
