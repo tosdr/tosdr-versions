@@ -1,4 +1,4 @@
-[📣 Buy 1, Get 1 FREE Generator Event is Back For National Preparedness Month
+[📣 Buy 1, Get 1 FREE Generator Event Is Back for National Preparedness Month
 
 Shop Now >>](https://products.4patriots.com/holiday/leap-year/solar-event?afid=mkt&aff_sub=20240904_cam_4p_ecom_announce_ppgs-x&utm_campaign=mkt_ecom_ppgs-x_20240904&utm_medium=ecom&utm_source=cam&utm_content=announce&utm_term=4p&nb_klid)
 
@@ -192,7 +192,7 @@ We Champion Freedom & Self-Reliance
         
         ###### Freedom Fridge Electric Cooler & Warmer
         
-        111 reviews](https://4patriots.com/products/freedom-fridge-1)
+        112 reviews](https://4patriots.com/products/freedom-fridge-1)
         
         [![ BugOUT Solar Lantern](//4patriots.com/cdn/shop/products/ARRAY-1BUG-1024x1024_360x.jpg?v=1664803167)
         
@@ -255,7 +255,7 @@ We Champion Freedom & Self-Reliance
         
         ###### 72-Hour Emergency Survival Food Kit
         
-        2245 reviews](https://4patriots.com/products/72-hour-survival-food-kit)
+        2246 reviews](https://4patriots.com/products/72-hour-survival-food-kit)
         
         [![ Food & Fire Emergency Cooking Bundle](//4patriots.com/cdn/shop/files/FOOD-FIRE-BUNDLE-PDP-ARRAY-2000x2000_64a9088f-0bdd-49ae-9e3a-222825d212e7_360x.jpg?v=1714588231)
         
@@ -268,8 +268,6 @@ We Champion Freedom & Self-Reliance
     
     Learn
     
-    * [Heat Wave Preparedness Guide](https://4patriots.com/blogs/news/extreme-heat-deadlier-than-extreme-storms)
-    * [Heat Wave Tips for Pet Owners](https://4patriots.com/blogs/news/summer-survival-tips-for-pet-owners)
     * [Hurricane Preparedness Guide](https://4patriots.com/blogs/news/when-mother-nature-strikes-will-you-be-ready)
     * [Preparedness Blog](https://4patriots.com/blogs/news)
     * [Online Classes](https://4patriots.com/pages/webinars)
