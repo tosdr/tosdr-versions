@@ -86,15 +86,15 @@ Close
     
     BRIDGE
     
-     [![GLEANER-JD S9 COMBINE](https://www.agragps.com/wp-content/uploads/2022/04/xgleanerS9-thegem-product-justified-square-xxs.jpg.pagespeed.ic.IAuaYVekyN.jpg)](https://www.agragps.com/product/gleaner-jd-s9-combine/)
+     [![CNH-JD Magnum/T8/Analog 2009](https://www.agragps.com/wp-content/uploads/2024/07/xMagnum2009-thegem-product-justified-square-xxs.jpg.pagespeed.ic.PzCA5GGIOr.jpg)](https://www.agragps.com/product/cnh-jd-magnum-t8-analog-2009/)
     
-    [GLEANER-JD S9 COMBINE](https://www.agragps.com/product/gleaner-jd-s9-combine/)
+    [CNH-JD Magnum/T8/Analog 2009](https://www.agragps.com/product/cnh-jd-magnum-t8-analog-2009/)
     
     $3,380.00
     
-     [![AGCO-JD Rogator 932-937 SERIES](https://www.agragps.com/wp-content/uploads/2023/05/x20230525_163159-scaled-thegem-product-justified-square-xxs.jpg.pagespeed.ic.R81JYgTrln.jpg)](https://www.agragps.com/product/agco-jd-rogator-932-937-series/)
+     [![CNH-JD Magnum/T8/Analog 2012-2019](https://www.agragps.com/wp-content/uploads/2022/02/xDSC00162-scaled-thegem-product-justified-square-xxs.jpg.pagespeed.ic.A6FkpPuYj7.jpg)](https://www.agragps.com/product/cnh-jd-magnum-t8-analog-2012-2019/)
     
-    [AGCO-JD Rogator 932-937 SERIES](https://www.agragps.com/product/agco-jd-rogator-932-937-series/)
+    [CNH-JD Magnum/T8/Analog 2012-2019](https://www.agragps.com/product/cnh-jd-magnum-t8-analog-2012-2019/)
     
     $3,380.00
     
@@ -110,21 +110,21 @@ Close
     
     Accessories
     
-     [![CAB-RAM Display mount](https://www.agragps.com/wp-content/uploads/2022/10/x20220403_114913-scaled-thegem-product-justified-square-xxs.jpg.pagespeed.ic.uPk0t3qePx.jpg)](https://www.agragps.com/product/cab-ram/)
-    
-    [CAB-RAM Display mount](https://www.agragps.com/product/cab-ram/)
-    
-    $90.00
-    
-     [![MTG POWER CABLE 6POS](https://www.agragps.com/wp-content/uploads/2022/04/x20220403_112154-thegem-product-justified-square-xxs.jpg.pagespeed.ic.OuTJI2461j.jpg)](https://www.agragps.com/product/mtg-power-cable-6pos/)
-    
-    [MTG POWER CABLE 6POS](https://www.agragps.com/product/mtg-power-cable-6pos/)
-    
-    $140.00
-    
      [![FENDT ROOF MOUNT 7XX-10XX](https://www.agragps.com/wp-content/uploads/2021/10/xfendtmount7xx-thegem-product-justified-square-xxs.jpg.pagespeed.ic.vVGCq-_fUN.jpg)](https://www.agragps.com/product/fendt-mount-2/)
     
     [FENDT ROOF MOUNT 7XX-10XX](https://www.agragps.com/product/fendt-mount-2/)
+    
+    $120.00
+    
+     [![CLAAS AXION ROOF MOUNT – FRONT](https://www.agragps.com/wp-content/uploads/2024/05/xAxion-F-M-thegem-product-justified-square-xxs.jpg.pagespeed.ic.0zFTjpsgg-.jpg)](https://www.agragps.com/product/claas-axion-roof-mount-front/)
+    
+    [CLAAS AXION ROOF MOUNT – FRONT](https://www.agragps.com/product/claas-axion-roof-mount-front/)
+    
+    $120.00
+    
+     [![CLAAS LEXION ROOF MOUNT](https://www.agragps.com/wp-content/uploads/2021/10/x20220403_112336-thegem-product-justified-square-xxs.jpg.pagespeed.ic.VUNyWe8Xy5.jpg)](https://www.agragps.com/product/claas-lexion-mount/)
+    
+    [CLAAS LEXION ROOF MOUNT](https://www.agragps.com/product/claas-lexion-mount/)
     
     $120.00
     
@@ -228,15 +228,15 @@ Menu
     
     BRIDGE
     
-     [![VALTRA Bridge compatible with John Deere Receiver](https://www.agragps.com/wp-content/uploads/2021/10/xValtra-thegem-product-justified-square-xxs.jpg.pagespeed.ic.r_EDAVTIOR.jpg)](https://www.agragps.com/product/valtra-jd-n-t/)
+    [](https://www.agragps.com/product/goldacres-jd-crop-cruiser/)
     
-    [VALTRA Bridge compatible with John Deere Receiver](https://www.agragps.com/product/valtra-jd-n-t/)
+    [GOLDACRES-JD CROP CRUISER](https://www.agragps.com/product/goldacres-jd-crop-cruiser/)
     
-    USD $3,380.00
+    $3,380.00
     
-     [![Massey Swather (99XX)](https://www.agragps.com/wp-content/uploads/2022/04/xmassey-thegem-product-justified-square-xxs.jpg.pagespeed.ic.AN9fXCPQno.jpg)](https://www.agragps.com/product/massey-swather-99xx/)
+     [![GLEANER-JD S9 COMBINE](https://www.agragps.com/wp-content/uploads/2022/04/xgleanerS9-thegem-product-justified-square-xxs.jpg.pagespeed.ic.IAuaYVekyN.jpg)](https://www.agragps.com/product/gleaner-jd-s9-combine/)
     
-    [Massey Swather (99XX)](https://www.agragps.com/product/massey-swather-99xx/)
+    [GLEANER-JD S9 COMBINE](https://www.agragps.com/product/gleaner-jd-s9-combine/)
     
     $3,380.00
     
@@ -252,23 +252,23 @@ Menu
     
     Accessories
     
-     [![CNH-JD-QA Wheel Angle](https://www.agragps.com/wp-content/uploads/2022/04/xwheel-angle-thegem-product-justified-square-xxs.jpg.pagespeed.ic.2-SO2WYbB6.jpg)](https://www.agragps.com/product/cnhqa-wheel-angle/)
+     [![CAB-RAM Display mount](https://www.agragps.com/wp-content/uploads/2022/10/x20220403_114913-scaled-thegem-product-justified-square-xxs.jpg.pagespeed.ic.uPk0t3qePx.jpg)](https://www.agragps.com/product/cab-ram/)
     
-    [CNH-JD-QA Wheel Angle](https://www.agragps.com/product/cnhqa-wheel-angle/)
+    [CAB-RAM Display mount](https://www.agragps.com/product/cab-ram/)
     
-    $960.00
+    $90.00
+    
+     [![MTG POWER CABLE 12POS](https://www.agragps.com/wp-content/uploads/2022/04/x20220403_112225-thegem-product-justified-square-xxs.jpg.pagespeed.ic.G7AFfIV5DV.jpg)](https://www.agragps.com/product/mtg-power-cable-12pos/)
+    
+    [MTG POWER CABLE 12POS](https://www.agragps.com/product/mtg-power-cable-12pos/)
+    
+    $140.00
     
      [![CASE CNH OVAL mount](https://www.agragps.com/wp-content/uploads/2022/11/xCNH-OVAL-thegem-product-justified-square-xxs.jpg.pagespeed.ic.6aOVQv9bO5.jpg)](https://www.agragps.com/product/case-cnh-oval-mount/)
     
     [CASE CNH OVAL mount](https://www.agragps.com/product/case-cnh-oval-mount/)
     
     $120.00
-    
-     [![DELUXE John Deere MOUNT](https://www.agragps.com/wp-content/uploads/2021/10/x20220403_112348-thegem-product-justified-square-xxs.jpg.pagespeed.ic.W1Rlnb1kuW.jpg)](https://www.agragps.com/product/deluxe-jd-mount/)
-    
-    [DELUXE John Deere MOUNT](https://www.agragps.com/product/deluxe-jd-mount/)
-    
-    USD $80.00
     
 * [About CRG](https://www.agragps.com/about-crg/)
 * [Become a Dealer](https://www.agragps.com/dealer-request/)
