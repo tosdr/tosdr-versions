@@ -6,7 +6,7 @@ Website Terms and Conditions of Use and Agency Agreement
 * [Copyright Notification](https://rumble.com/s/dmca)
 * [Counter Notification](https://rumble.com/s/dmca#counter)
 
-Last modified July 10, 2024 \[See Changes\]
+Last modified September 2, 2024 \[See Changes\]
 
 ### TERMS AND CONDITIONS OF USE OF WEB SITE
 
@@ -421,7 +421,7 @@ Without limiting anything else contained herein, if you, or a service provider w
 Rumble offers a monthly or annual premium subscription (collectively the “Rumble Premium Subscriptions”). Without limiting anything else contained herein, the following additional terms and conditions apply to the Rumble Premium Subscriptions:
 
 1. Rumble Premium Subscriptions allow you to watch programmatic advertisement-free Content on the Rumble Service (i.e., website and mobile app). Content viewed with a Rumble Premium Subscription may still contain live read advertisements.
-2. Rumble Premium Subscriptions may only be purchased through the Rumble mobile app. In addition to the terms and conditions contained in this Agreement, the terms and conditions of the applicable mobile app store apply to any such purchases.
+2. Rumble Premium Subscriptions may only be purchased through the Rumble mobile app. In addition to the terms and conditions contained in this Agreement, the terms and conditions of the applicable mobile app store apply to Rumble Premium Subscriptions purchased through the Rumble mobile app.
 3. Rumble Premium Subscriptions are non-refundable.
 4. Rumble Premium Subscriptions will automatically renew unless you cancel prior to the renewal date.
 
@@ -448,123 +448,133 @@ Go Ad-Free
 
 ### Featured Channels Featured
 
-[Bannons War Room
+[The Dan Bongino Show
 
-12.6K](https://rumble.com/v5e9khd-live-u.s.-house-of-representatives.html "Bannons War Room")
+34.6K](https://rumble.com/v5et2t1-live-the-dan-bongino-radio-show-091324.html "The Dan Bongino Show")
+
+[Donald J. Trump
+
+11.8K](https://rumble.com/v5estlw-live-president-trump-in-los-angeles-ca.html "Donald J. Trump")
+
+[The Charlie Kirk Show
+
+7.22K](https://rumble.com/v5et4sd-abc-under-fire-no-tax-on-overtime-emmons-posobiec-schlichter-rep.-fulcher-d.html "The Charlie Kirk Show")
 
 [NEWSMAX
 
-7.25K](https://rumble.com/v5eanz1-trump-vs.-harris-abc-news-presidential-debate-simulcast-preview-and-post-de.html "NEWSMAX")
+6.66K](https://rumble.com/v5eth4r-trump-on-the-trail-the-newsmax-daily-091324.html "NEWSMAX")
 
-[Tate Speech by Andrew Tate
+[Bannons War Room
 
-1.72K](https://rumble.com/v5effrv-emergency-meeting-episode-70-presidential-debate-live-round-2.html "Tate Speech by Andrew Tate")
+3.47K](https://rumble.com/v3by09g-warroom-live.html "Bannons War Room")
 
 [Badlands Media
 
-1.56K](https://rumble.com/v5ed2ct-badlands-story-hour-ep.-83-swordfish-600-pm-et-.html "Badlands Media")
+3.16K](https://rumble.com/v5et32c-badlands-media-special-coverage-president-trump-press-conference.html "Badlands Media")
 
-[Geeks + Gamers
+[Ben Shapiro
 
-426](https://rumble.com/v5efqul-tuesday-nights-main-event.html "Geeks + Gamers")
+3K](https://rumble.com/v5et46t-ep.-2047-matt-walsh-destroys-the-dei-industry.html "Ben Shapiro")
+
+[vivafrei
+
+2.21K](https://rumble.com/v5esyhv-john-legend-on-haitians-new-dietary-preferences-kamala-the-prostitutor-trum.html "vivafrei")
+
+[Matt Kim
+
+814](https://rumble.com/v5etcn9-cigarette-companies-control-your-food-ex-lobbyist-calley-means-exposes-the-.html "Matt Kim")
+
+[Rebel News
+
+629](https://rumble.com/v5etbil-rebel-roundup-yaniv-threats-update-carbon-tax-election-bc-removes-crack-pip.html "Rebel News")
 
 [Lofi Girl
 
-331](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
+388](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
+
+[John Burk
+
+308](https://rumble.com/v5ete5h-loomer-sinks-the-trump-campaign-and-more..html "John Burk")
+
+[Barstool Yak
+
+157](https://rumble.com/v5esjvp-the-yak-with-big-cat-and-co.-presented-by-rhoback-the-yak-9-13-24.html "Barstool Yak")
 
 [barstoolsports
 
-275](https://rumble.com/v5eejm5-jerry-after-dark-double-doink-challenge-presented-by-gametime.html "barstoolsports")
+157](https://rumble.com/v5esjvp-the-yak-with-big-cat-and-co.-presented-by-rhoback-the-yak-9-13-24.html "barstoolsports")
 
-[Jerry After Dark
-
-262](https://rumble.com/v5eejm5-jerry-after-dark-double-doink-challenge-presented-by-gametime.html "Jerry After Dark")
-
-[Mike Crispi
-
-116](https://rumble.com/v5eei1x-trump-vs.-kamala-the-presidential-debate-pregame-show.html "Mike Crispi")
-
-[VIVA TV](https://rumble.com/c/VivaTV "VIVA TV")
-
-[Nerdrotic](https://rumble.com/c/Nerdrotic "Nerdrotic")
-
-[Howard Lutnick](https://rumble.com/c/HowardLutnick "Howard Lutnick")
-
-[Barstool Baseball](https://rumble.com/c/BarstoolBaseball "Barstool Baseball")
-
-[Kim Iversen](https://rumble.com/c/KimIversen "Kim Iversen")
-
-[Hannah Barron](https://rumble.com/c/HannahBarron "Hannah Barron")
-
-[GOP](https://rumble.com/c/GOP "GOP")
-
-[TruthStream with Joe and Scott](https://rumble.com/c/TruthStream "TruthStream with Joe and Scott")
-
-[ItGirl](https://rumble.com/c/ItGirl "ItGirl")
-
-[Amateur Hour](https://rumble.com/c/amateurhourgolf "Amateur Hour")
-
-[Devin Nunes](https://rumble.com/c/DevinNunes "Devin Nunes")
-
-[Chicks in the Office](https://rumble.com/c/ChicksInTheOffice "Chicks in the Office")
-
-[Ben Shapiro](https://rumble.com/c/BenShapiro "Ben Shapiro")
-
-[The Chris Cuomo Project](https://rumble.com/c/chriscuomo "The Chris Cuomo Project")
-
-[SNEAKO](https://rumble.com/c/SNEAKO "SNEAKO")
-
-[The Chris Salcedo Show](https://rumble.com/c/TheChrisSalcedoShow "The Chris Salcedo Show")
-
-[The Kai 'N Speed Show](https://rumble.com/c/KaiNSpeed "The Kai 'N Speed Show")
-
-[Fore Play Golf](https://rumble.com/c/ForeplayGolf "Fore Play Golf")
-
-[Who's the Biggest A\*\*Hole?](https://rumble.com/c/WhosTheBiggestAHole "Who's the Biggest A**Hole?")
-
-[OutdoorChannelTV](https://rumble.com/c/OutdoorChannelTV "OutdoorChannelTV")
-
-[Wake Up Mintzy](https://rumble.com/c/Barstoolmintzyofficial "Wake Up Mintzy")
-
-[The Casey Adams Show](https://rumble.com/c/CaseyAdamsShow "The Casey Adams Show")
-
-[Theo Von](https://rumble.com/c/TheoVon "Theo Von")
-
-[Hi-Rez](https://rumble.com/c/HIREZTV "Hi-Rez")
-
-[Barstool Yak](https://rumble.com/c/BarstoolYak "Barstool Yak")
-
-[OUT OF ORDER](https://rumble.com/c/OutofOrderrr "OUT OF ORDER")
-
-[Robert F. Kennedy Jr.](https://rumble.com/c/RFKjr "Robert F. Kennedy Jr.")
-
-[Steve-O's Wild Ride! Podcast](https://rumble.com/c/WildRide "Steve-O's Wild Ride! Podcast")
-
-[Scumbag Golf](https://rumble.com/c/scumbagolf "Scumbag Golf")
-
-[Zero Blog Thirty](https://rumble.com/c/ZeroBlogThirty "Zero Blog Thirty")
-
-[Rubbin Is Racing](https://rumble.com/c/rubbinisracing "Rubbin Is Racing")
-
-[Sean Hannity](https://rumble.com/c/SeanHannity "Sean Hannity")
-
-[Athlete & Artist Show](https://rumble.com/c/AthleteArtistShow "Athlete & Artist Show")
-
-[Michael Franzese](https://rumble.com/c/MichaelFranzese "Michael Franzese")
-
-[Gia Mariano](https://rumble.com/c/giamariano "Gia Mariano")
-
-[The Kirk Minihane Show](https://rumble.com/c/thekirkminihaneshow "The Kirk Minihane Show")
-
-[Mountain Rug Cleaning](https://rumble.com/c/MountainRugCleaning "Mountain Rug Cleaning")
-
-[Sports Wars](https://rumble.com/c/SportsWars "Sports Wars")
+[Power Slap](https://rumble.com/c/powerslap "Power Slap")
 
 [Barstool Radio Clips](https://rumble.com/c/BarstoolRadioClips "Barstool Radio Clips")
 
-[Barstool Outdoors](https://rumble.com/c/BarstoolOutdoors "Barstool Outdoors")
+[The Pat Bev Podcast with Rone](https://rumble.com/c/ThePatBevPodcastWithRone "The Pat Bev Podcast with Rone")
 
-[Rebel News](https://rumble.com/c/RebelNews "Rebel News")
+[LockPickingLawyer](https://rumble.com/c/LockPickingLawyer "LockPickingLawyer")
+
+[NHRA](https://rumble.com/c/NHRA "NHRA")
+
+[Zero Blog Thirty](https://rumble.com/c/ZeroBlogThirty "Zero Blog Thirty")
+
+[Steven Crowder](https://rumble.com/c/StevenCrowder "Steven Crowder")
+
+[Awaken With JP](https://rumble.com/c/AwakenWithJP "Awaken With JP")
+
+[Frank the Tank Fleming](https://rumble.com/c/FrankTheTankFleming "Frank the Tank Fleming")
+
+[VIVA TV](https://rumble.com/c/VivaTV "VIVA TV")
+
+[Rasmussen Reports](https://rumble.com/c/RasmussenReports "Rasmussen Reports")
+
+[The Osbournes](https://rumble.com/c/TheOsbournesPodcast "The Osbournes")
+
+[Dani Jackel](https://rumble.com/c/DaniJackel "Dani Jackel")
+
+[Daily Caller News Foundation](https://rumble.com/c/DailyCallerNewsFoundation "Daily Caller News Foundation")
+
+[Amateur Hour](https://rumble.com/c/amateurhourgolf "Amateur Hour")
+
+[WeAreChange](https://rumble.com/c/WeAreChange "WeAreChange")
+
+[Akademiks](https://rumble.com/c/Akademiks "Akademiks")
+
+[JustPearlyThings](https://rumble.com/c/JustPearlyThings "JustPearlyThings")
+
+[Out & About](https://rumble.com/c/OutAndAbout "Out & About")
+
+[The Wonton Don](https://rumble.com/c/TheWontonDon "The Wonton Don")
+
+[Medical Medium](https://rumble.com/c/MedicalMedium "Medical Medium")
+
+[Havoc](https://rumble.com/c/Havoc "Havoc")
+
+[Twisted History](https://rumble.com/c/TwistedHistory "Twisted History")
+
+[Rubbin Is Racing](https://rumble.com/c/rubbinisracing "Rubbin Is Racing")
+
+[The Rich Dad Channel](https://rumble.com/c/TheRichDadChannel "The Rich Dad Channel")
+
+[Unnecessary Roughness](https://rumble.com/c/UnnecessaryRoughness "Unnecessary Roughness")
+
+[One Bite Pizza Reviews](https://rumble.com/c/OneBitePizzaReviews "One Bite Pizza Reviews")
+
+[Rough N' Rowdy](https://rumble.com/c/RoughNRowdy "Rough N' Rowdy")
+
+[Anthony Pompliano](https://rumble.com/c/AnthonyPompliano "Anthony Pompliano")
+
+[Only Stans](https://rumble.com/c/OnlyStansshow "Only Stans")
+
+[Nitrocross](https://rumble.com/c/Nitrocross "Nitrocross")
+
+[Chicks in the Office](https://rumble.com/c/ChicksInTheOffice "Chicks in the Office")
+
+[Jerry After Dark](https://rumble.com/c/JerryAfterDark "Jerry After Dark")
+
+[Caleb Hammer](https://rumble.com/c/calebhammerFA "Caleb Hammer")
+
+[The Kai 'N Speed Show](https://rumble.com/c/KaiNSpeed "The Kai 'N Speed Show")
+
+[Breaking Points](https://rumble.com/c/BreakingPoints "Breaking Points")
 
 ### Theme
 
