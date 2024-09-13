@@ -554,6 +554,7 @@ SUPPORT  
 
 * [Parts](https://www.drpower.com/pages/content/customer-support/product-support/ordering-parts?aribrand=chp)
 * [Products](https://www.drpower.com/pages/content/customer-support/product-support)
+* [Register a Product](https://register.generac.com/)
 * [Returns & Exchange Policy](https://www.drpower.com/pages/content/customer-support/shopping-resources/returns)
 * [Shopping Resources](https://www.drpower.com/pages/content/customer-support/shopping-resources)
 * [Shop With Confidence](https://www.drpower.com/pages/content/company/privacy)
