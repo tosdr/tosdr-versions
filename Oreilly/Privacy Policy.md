@@ -510,6 +510,7 @@ Please note that this Policy may change from time to time. We will not reduce yo
 * [Contact us](https://www.oreilly.com/about/contact.html)
 * [Newsletters](https://www.oreilly.com/emails/newsletters/)
 * [Privacy policy](https://www.oreilly.com/privacy.html)
+* [AI policy](https://www.oreilly.com/about/oreilly-approach-to-generative-ai.html)
 
 [linkedin-logo](https://www.linkedin.com/company/oreilly-media) [youtube-logo](https://www.youtube.com/user/OreillyMedia)
 
