@@ -36,7 +36,7 @@ EN
 
 [Account Sign‑In](https://www.endurancewarranty.com/policy/) [See Your Price](https://buy.endurancewarranty.com/page?slugType=ecommerce_page_v2&slug=page-ecomm-manual-vehicle-entry-v2)
 
-[Sign up and get $300 off your new contract!](#get-quote-request)
+Call for $300 off any new plan! [(800) 506-4640](tel:8005064640)
 
 Online Terms
 ============
@@ -75,7 +75,11 @@ Get started with a FREE quote.
 
  Make
 
+* Select Year First...
+
  Model
+
+* Select Make First...
 
 [Get a FREE Quote](#)
 
@@ -88,6 +92,7 @@ Get Started
 * [Get a FREE Quote](#quote-form)
 * [How it Works](https://www.endurancewarranty.com/coverage-plans/#how-it-works)
 * [Mechanical Breakdown Insurance California](https://www.endurancewarranty.com/mechanical-breakdown-insurance-ca/)
+* [Home Warranty](https://www.libertyhomeguard.com/endurance/)
 
 Resources
 ---------
@@ -193,7 +198,7 @@ Speak with a vehicle protection plan specialist and get $300 off any new contrac
 Request your FREE quote now
 ---------------------------
 
-Sign up and get $300 off your new contract!
+Call for $300 off any new plan!
 
         
 
@@ -205,9 +210,13 @@ Make
 
  Make
 
+* Select Year First...
+
 Model
 
  Model
+
+* Select Make First...
 
 ZIP Code
 
@@ -279,6 +288,17 @@ Send Message
 
 Δ
 
+Get this deal! Call now.
+------------------------
+
+Speak with a vehicle protection plan specialist and get **$300 off** any new contract instantly.
+
+[Call 866-678-4172](tel:866-678-4172)
+
+No thanks, I'll continue unprotected
+
+![](https://www.endurancewarranty.com/wp-content/themes/endurancewarranty/images/wired_phone.webp)
+
 [![logo](https://www.endurancewarranty.com/wp-content/themes/endurancewarranty/images/logo-md.svg)](#)
 
 Request your FREE quote now
@@ -296,9 +316,13 @@ Make
 
  Make
 
+* Select Year First...
+
 Model
 
  Model
+
+* Select Make First...
 
 Estimated Mileage
 
