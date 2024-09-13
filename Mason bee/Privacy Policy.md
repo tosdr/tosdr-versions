@@ -19,7 +19,7 @@ Menu
     * [Robert Louis Stevenson Trail](https://tane.harre.nz/tags/robert-louis-stevenson-trail/)
     * [Te Araroa](https://tane.harre.nz/tags/te-araroa/)
 
-Last Updated: 05/09/2024
+Last Updated: 11/09/2024
 
 Privacy Policy
 ==============
@@ -109,23 +109,23 @@ I am a New Zealander, living in France, who is interested in guitar, hiking, ope
 
 ### Related posts
 
-[![](https://tane.harre.nz/media/posts/684/responsive/freedom_of_thought-1-xs.jpg)](https://tane.harre.nz/data-privacy-allows-for-freedom-of-thought-and-speech/)
-
-#### [Data privacy allows for freedom of thought and speech](https://tane.harre.nz/data-privacy-allows-for-freedom-of-thought-and-speech/)
-
-07/05/2018
-
 [![](https://tane.harre.nz/media/posts/690/responsive/Eu-European-Union-Data-Regulation-Gdpr-3222692-xs.jpg)](https://tane.harre.nz/gdpr-privacy-policy-overview-for-new-zealand/)
 
 #### [GDPR Privacy Policy Overview for New Zealand](https://tane.harre.nz/gdpr-privacy-policy-overview-for-new-zealand/)
 
 24/05/2018
 
-[![](https://tane.harre.nz/media/posts/686/responsive/The_Privacy_Shop_banner-1080x496-xs.jpg)](https://tane.harre.nz/what-is-the-cost-of-privacy-online/)
+[![](https://tane.harre.nz/media/posts/684/responsive/freedom_of_thought-1-xs.jpg)](https://tane.harre.nz/data-privacy-allows-for-freedom-of-thought-and-speech/)
 
-#### [What is the cost of privacy online?](https://tane.harre.nz/what-is-the-cost-of-privacy-online/)
+#### [Data privacy allows for freedom of thought and speech](https://tane.harre.nz/data-privacy-allows-for-freedom-of-thought-and-speech/)
 
-12/05/2018
+07/05/2018
+
+[![](https://tane.harre.nz/media/posts/688/responsive/Parliament_House_Wellington_New_Zealand_50-xs.jpg)](https://tane.harre.nz/make-a-submission-on-the-privacy-bill/)
+
+#### [Make a submission on the Privacy Bill](https://tane.harre.nz/make-a-submission-on-the-privacy-bill/)
+
+16/05/2016
 
 Comments
 --------
