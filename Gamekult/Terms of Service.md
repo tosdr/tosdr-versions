@@ -16,7 +16,7 @@ Découvrez tous nos contenus exclusifs (tests, vidéos, podcasts…) en illimit�
 
 En ce moment
 
-[Stellar Blade](https://www.gamekult.com/jeux/project-eve-3050880487.html) [Senua's Saga : Hellblade II](https://www.gamekult.com/jeux/hellblade-ii-senua-s-saga-3050881633.html) [Paper Mario : La Porte Millénaire](https://www.gamekult.com/jeux/paper-mario-la-porte-millenaire-remake-3050887120.html) [Dragon's Dogma 2](https://www.gamekult.com/jeux/dragon-s-dogma-2-3050885777.html) [Rise of the Ronin](https://www.gamekult.com/jeux/rise-of-the-ronin-3050886183.html) [Unicorn Overlord](https://www.gamekult.com/jeux/unicorn-overlord-3050887113.html)
+[Star Wars Outlaws](https://www.gamekult.com/jeux/star-wars-outlaws-3050886905.html) [Concord](https://www.gamekult.com/jeux/concord-3050886837.html) [Black Myth : Wukong](https://www.gamekult.com/jeux/black-myth-wu-kong-3050882675.html) [Senua's Saga : Hellblade II](https://www.gamekult.com/jeux/hellblade-ii-senua-s-saga-3050881633.html) [Paper Mario : La Porte Millénaire](https://www.gamekult.com/jeux/paper-mario-la-porte-millenaire-remake-3050887120.html) [Stellar Blade](https://www.gamekult.com/jeux/project-eve-3050880487.html)
 
 * [Émissions](https://www.gamekult.com/emissions.html)
 * [News](https://www.gamekult.com/actualite.html)
