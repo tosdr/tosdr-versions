@@ -1,3 +1,13 @@
+![](/img/ic-cord.svg)
+
+![](/img/img-glasswirelogo.svg)
+
+* Concerned about your network's security, monitoring your computer connections, and protecting your privacy?
+* Shed light over your network traffic with GlassWire!
+
+* Yes
+* OK
+
 [](https://www.glasswire.com/)
 
 * **Features**
@@ -10,18 +20,6 @@
 * [Blog](https://www.glasswire.com/blog/)
 * [Help](https://www.glasswire.com/help/)
 * [Pricing](https://www.glasswire.com/pricing/)
-
-![Logo](/img/gw-logo-w.svg)
-
-### 15% OFF
-
-GlassWire’s Personal Plan \*
-
-Answer [3 quick questions](https://www.glasswire.com/intro-survey/) and claim your discount!
-
-[Go to the Survey](https://www.glasswire.com/intro-survey/) \* Valid for new purchases only
-
-![GlassWire UI](/img/sale/ui.png?_=955840)
 
 Glasswire Website Privacy Policy
 ================================
