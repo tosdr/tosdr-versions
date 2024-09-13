@@ -31,6 +31,7 @@ Nature's Way
         
     * FEATURED
         
+        * [Back to Balance](https://naturesway.com/collections/back-to-balance)
         * [Popular Products](https://naturesway.com/collections/trending-products)
         * [Subscribe & Save](https://naturesway.com/collections/subscribe-save)
         * [Last Chance](https://naturesway.com/collections/last-chance)
@@ -171,6 +172,7 @@ Nature's Way
     
     FEATURED
     
+    * [Back to Balance](https://naturesway.com/collections/back-to-balance)
     * [Popular Products](https://naturesway.com/collections/trending-products)
     * [Subscribe & Save](https://naturesway.com/collections/subscribe-save)
     * [Bundle & Save](https://naturesway.com/collections/bundle-save-1)
