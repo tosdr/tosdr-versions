@@ -33,6 +33,14 @@ Services such as OwnCloud are not permitted on our shared hosting and accounts f
 
 We don't limit your disk space providing the majority of your space is used for web hosting. We do not permit the use of our shared hosting as an e-mail archival system and you may be asked to remove e-mail, archive e-mail to your computer or upgrade to a VPS solution if it is determined your account is being used as such.
 
+#### Free Domain Terms
+
+Customers who purchase a hosting package from HahuCloud are eligible to receive a free domain registration, subject to the specifications outlined in their hosting plan. The free domain offer includes select domain extensions specified in the plan and is valid as long as the customer renews their hosting package with HahuCloud.
+
+Only one free domain is available per hosting plan, and the extension must match those specified in the plan. Customers must purchase the domain and hosting package simultaneously to qualify for the free domain offer. Domains purchased separately from the hosting package do not qualify for the free offer.
+
+If a customer cancels or fails to renew their hosting package, they are responsible for the applicable domain registration fees to retain ownership. Additional services related to the domain may incur extra charges according to HahuCloud’s pricing policies.
+
 #### Audio/Video Streaming
 
 Audio/Video Streaming is not hosting friendly. As such, we do not allow any streaming of audio or video content where the core files are hosted on our platform. Offending accounts will be suspended without noticed or terminated.
@@ -86,9 +94,10 @@ HahuCloud will suspend Web Hosting after 3 days of non-payment. After 10 days of
 * [Announcements](https://my.hahucloud.com/announcements)
 * [Knowledgebase](https://my.hahucloud.com/knowledgebase)
 * [.et Domain Name](https://www.hahucloud.com/et-domain)
-* [💚 Free Web Hosting](https://www.hahucloud.com/charity)
+* [Free Web Hosting](https://www.hahucloud.com/charity)
 * [hahu.io SMS Gateway](https://hahu.io/)
 * [Tender Alert iChereta](https://ichereta.com/)
+* [My Public IP](https://www.hahucloud.com/ip)
 
 ‭
 
