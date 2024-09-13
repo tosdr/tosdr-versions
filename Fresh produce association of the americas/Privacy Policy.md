@@ -6,7 +6,7 @@ Mon-Fri 8am to 5pm: +1 (520) 287-2707|[info@freshfrommexico.com](mailto:info@fre
 * [Logout](https://www.freshfrommexico.com/login2fpaa?action=logout)
 * [Profile](https://www.freshfrommexico.com/profile/)
 
-  [![FPAA Logo](https://www.freshfrommexico.com/wp-content/uploads/2017/06/fpaa-logo-transparent-1.png)  ![FPAA Logo](https://www.freshfrommexico.com/wp-content/uploads/2017/06/fpaa-logo-transparent-1.png)](https://www.freshfrommexico.com/)
+  [![FPAA Logo](https://www.freshfrommexico.com/wp-content/uploads/2017/06/fpaa-logo-transparent-1.png)  ![FPAA Logo](https://www.freshfrommexico.com/wp-content/uploads/2017/06/fpaa-logo-transparent-1.png)](https://swipeexpo.com/)
 
 Search for: 
 
