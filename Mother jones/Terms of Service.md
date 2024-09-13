@@ -8,10 +8,10 @@
 
 *  
     
-* [Kamala Harris](https://www.motherjones.com/politics/2024/09/emerge-backed-kamala-harris-in-2003-now-its-trying-to-change-the-face-of-politics/)
-* [Reproductive Rights](https://www.motherjones.com/politics/2024/09/missouri-ballot-measure-abortion-violation-judge/)
-* [Trump](https://www.motherjones.com/politics/2024/09/trump-vance-child-care-plan/)
-* [Harris/Trump Debate](https://www.motherjones.com/politics/2024/09/derision-and-danger-the-democrats-figure-out-how-to-attack-trump/)
+* [Florida’s Abortion Ban](https://www.motherjones.com/politics/2024/09/floridas-6-week-ban-caused-abortions-to-plummet/)
+* [Gaza Protests](https://www.motherjones.com/politics/2024/09/new-university-rules-crack-down-on-gaza-protests/)
+* [Trump](https://www.motherjones.com/politics/2024/09/donald-trump-victory-november-climate-crisis/)
+* [Kamala Harris](https://www.motherjones.com/politics/2024/09/kamala-harris-unrealized-capital-gains-tax-plan/)
 
 * [Newsletters](https://www.motherjones.com/newsletters/?mj_oac=dropdown_nav)
 * [Politics](https://www.motherjones.com/politics/)
@@ -27,10 +27,10 @@
 
 *  
     
-* [Kamala Harris](https://www.motherjones.com/politics/2024/09/emerge-backed-kamala-harris-in-2003-now-its-trying-to-change-the-face-of-politics/)
-* [Reproductive Rights](https://www.motherjones.com/politics/2024/09/missouri-ballot-measure-abortion-violation-judge/)
-* [Trump](https://www.motherjones.com/politics/2024/09/trump-vance-child-care-plan/)
-* [Harris/Trump Debate](https://www.motherjones.com/politics/2024/09/derision-and-danger-the-democrats-figure-out-how-to-attack-trump/)
+* [Florida’s Abortion Ban](https://www.motherjones.com/politics/2024/09/floridas-6-week-ban-caused-abortions-to-plummet/)
+* [Gaza Protests](https://www.motherjones.com/politics/2024/09/new-university-rules-crack-down-on-gaza-protests/)
+* [Trump](https://www.motherjones.com/politics/2024/09/donald-trump-victory-november-climate-crisis/)
+* [Kamala Harris](https://www.motherjones.com/politics/2024/09/kamala-harris-unrealized-capital-gains-tax-plan/)
 
 [Subscribe to our magazine](https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGHOP&c=SEGHOC&d=SEGHOD&f=SEGHOF "Subscribe")
 
@@ -57,7 +57,7 @@ Smart, Fearless Journalism
 Membership Ticker
 -----------------
 
-[Double my gift](https://secure.motherjones.com/flex/mj/key/7LIGHTA/src/7AHPR59|PAHPR59/)
+[Donate Now](https://secure.motherjones.com/flex/mj/key/7LIGHTA/src/7AHPR59|PAHPR59/)
 
 Please don’t miss this chance
 
@@ -65,7 +65,7 @@ We’ve been offered a $50,000 digital matching gift by a generous board member,
 
 We’ve been offered a $50,000 digital matching gift by a generous board member, and **we need your help** to make sure we get every dollar of it. Any donation you make online this month will be matched dollar-for-dollar. You know the stakes in this all-important election season. And the fearless, kickass, truth-telling reporting Americans need doesn’t pay for itself. Please chip in right now with any amount if you can.
 
-[Double my gift](https://secure.motherjones.com/flex/mj/key/7LIGHTA/src/7AHPMRU|PAHPMRU/)
+[Donate Now](https://secure.motherjones.com/flex/mj/key/7LIGHTA/src/7AHPMRU|PAHPMRU/)
 
 Terms of Service
 ================
