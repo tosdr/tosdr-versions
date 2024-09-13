@@ -1,11 +1,9 @@
 [](https://freeyourmusic.com/)
 
-* [Features](https://freeyourmusic.com/#features)
-* [Available services](https://freeyourmusic.com/#available-music-services)
 * [Pricing](https://freeyourmusic.com/pricing)
 * [How to](#)
     
-    [Transfer playlists](https://freeyourmusic.com/how-to-transfer-playlists)[Transfer albums](https://freeyourmusic.com/how-to-transfer-albums)[Transfer liked songs](https://freeyourmusic.com/how-to-transfer-liked-songs)[Transfer all music library](https://freeyourmusic.com/how-to-transfer-all-music-library)[See your stats](https://freeyourmusic.com/stats)
+    [Transfer Spotify to Apple Music](https://freeyourmusic.com/transfer-spotify-to-apple-music)[Transfer Spotify to Tidal](https://freeyourmusic.com/transfer-spotify-to-tidal)[Transfer Spotify to YouTube Music](https://freeyourmusic.com/transfer-spotify-to-youtube-music)[Transfer Apple Music to Spotify](https://freeyourmusic.com/transfer-apple-music-to-spotify)[Transfer Apple Music to Tidal](https://freeyourmusic.com/transfer-apple-music-to-tidal)[Transfer Apple Music to YouTube Music](https://freeyourmusic.com/transfer-apple-music-to-youtube-music)[Transfer Tidal to Apple Music](https://freeyourmusic.com/transfer-tidal-to-apple-music)[Transfer Tidal to YouTube Music](https://freeyourmusic.com/transfer-tidal-to-youtube-music)[Transfer Amazon Music to Spotify](https://freeyourmusic.com/transfer-amazon-music-to-spotify)[Transfer Amazon Music to Apple Music](https://freeyourmusic.com/transfer-amazon-music-to-apple-music)
     
 * [Blog](https://freeyourmusic.com/blog)
 * [FAQ](https://support.freeyourmusic.com/helpdesk/)
@@ -151,6 +149,7 @@ Company
 * [FAQ](https://support.freeyourmusic.com/helpdesk/)
 * [Press Kit](https://freeyourmusic.com/press-kit)
 * [Listening Stats](https://freeyourmusic.com/stats)
+* [All available services list](https://freeyourmusic.com/available-music-services)
 
 Trust & Legal
 
