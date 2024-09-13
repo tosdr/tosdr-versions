@@ -10,7 +10,7 @@ Free standard shipping on **orders over $49**
 
 Free standard shipping on **orders over $49**
 
-[Help](https://www.bulbhead.com/pages/bulbhead-support)
+[Help Center](https://www.bulbhead.com/pages/bulbhead-support)
 
 Hello, Sign in
 
