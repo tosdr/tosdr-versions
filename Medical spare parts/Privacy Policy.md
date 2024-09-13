@@ -10,7 +10,7 @@ Customer Service: [\+ 31 88 0531000](tel:+3188 0531000)
 
 [![Go to homepage](https://msp-medical.com/media/2c/48/82/1639650665/msp-logo.svg?ts=1639650665)](https://www.medicalspareparts.com/ "Go to homepage")
 
-![language flag](https://msp-medical.com/theme/a8836e05a2694e89855145d497ca3d13/assets/images/flag.svg?1724249880)
+![language flag](https://msp-medical.com/theme/a8836e05a2694e89855145d497ca3d13/assets/images/flag.svg?1726230731)
 
 EN
 
@@ -395,9 +395,6 @@ or [sign up](https://www.medicalspareparts.com/account/login "Sign up")
     * [Patient Monitoring](https://msp-medical.com/battery-technology/application/patient-monitoring/ "Patient Monitoring")
     * [Medical Equipment](https://msp-medical.com/battery-technology/application/medical-equipment/ "Medical Equipment")
     
-* [Chemicals](https://msp-medical.com/chemicals/ "Chemicals")
-* close
-    
 * [Customization](https://msp-medical.com/customization/ "Customization")
 * close
     
@@ -406,7 +403,7 @@ We are your partner in Reliable Spare Parts
 
 Close menu
 
-![language flag](https://msp-medical.com/theme/a8836e05a2694e89855145d497ca3d13/assets/images/flag.svg?1724249880)
+![language flag](https://msp-medical.com/theme/a8836e05a2694e89855145d497ca3d13/assets/images/flag.svg?1726230731)
 
 Language: EN
 
@@ -445,7 +442,6 @@ About MSP
 * [Medical Products](https://msp-medical.com/medical-products/ "Medical Products")
 * [Disposables](https://msp-medical.com/disposables/ "Disposables")
 * [Battery Technology](https://msp-medical.com/battery-technology/ "Battery Technology")
-* [Chemicals](https://msp-medical.com/chemicals/ "Chemicals")
 * [Customization](https://msp-medical.com/customization/ "Customization")
 
 **Quickly go to**
