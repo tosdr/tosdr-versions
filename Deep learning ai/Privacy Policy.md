@@ -1,4 +1,4 @@
-Andrew Ng's [AI Python for Beginners final courses](https://bit.ly/4cKI3Og) are live. Join now!
+🌟 New Course! Enroll in [Multimodal RAG: Chat with Videos](https://bit.ly/4efHjSG)
 
 [](https://www.deeplearning.ai/)
 
