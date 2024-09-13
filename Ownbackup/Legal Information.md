@@ -1,4 +1,4 @@
-[![Own logo](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d3993aeb60ee547f18c083_4c%20Black.png)](https://www.ownbackup.com/)
+[![Own logo](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d3993aeb60ee547f18c083_4c%20Black.avif)](https://www.ownbackup.com/)
 
 Thank you! Your submission has been received!
 
@@ -12,37 +12,37 @@ Solutions
 
 Solutions For
 
-[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/668ea0673f43ea3eddf2286b_Group%20226023%20(1).png)
+[![Gear and arrows icon](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/668ea0673f43ea3eddf2286b_Group%20226023%20(1).avif)
 
 BUSINESS CONTINUITY
 
-Rapidly recover from data breaches, loss or corruption](https://www.ownbackup.com/solutions/ensuring-business-continuity)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/668ea06616792bea67f878e0_Group%20225750%20(1).png)
+Rapidly recover from data breaches, loss or corruption](https://www.ownbackup.com/solutions/ensuring-business-continuity)[![monitor with code icon](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/668ea06616792bea67f878e0_Group%20225750%20(1).avif)
 
 ON-PLATFORM DEVELOPMENT
 
-Ensure accurate development environments and protect production environments](https://www.ownbackup.com/solutions/on-platform-development)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/668ea0665f189e5d14f50087_Group%20226021%20(1).png)
+Ensure accurate development environments and protect production environments](https://www.ownbackup.com/solutions/on-platform-development)[![clipboard and checkmark icon](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/668ea0665f189e5d14f50087_Group%20226021%20(1).avif)
 
 ENSURING COMPLIANCE
 
-Comply with regulatory requirements and internal policies while staying audit ready](https://www.ownbackup.com/solutions/compliance)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/668ea0665790ca6cbcb03a68_Group%20225743%20(1).png)
+Comply with regulatory requirements and internal policies while staying audit ready](https://www.ownbackup.com/solutions/compliance)[![graph icon](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/668ea0665790ca6cbcb03a68_Group%20225743%20(1).avif)
 
 OFF-PLATFORM ANALYTICS
 
-Accelerate insights and AI training with time-series data from your backups](https://www.ownbackup.com/solutions/off-platform-analytics)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/668ea0667cb851945770ee3a_Group%20226022%20(1).png)
+Accelerate insights and AI training with time-series data from your backups](https://www.ownbackup.com/solutions/off-platform-analytics)[![shield and lock icon](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/668ea0667cb851945770ee3a_Group%20226022%20(1).avif)
 
 SECURING ACCESS
 
-Detect, prioritize, and remediate risks, while staying ahead of threats](https://www.ownbackup.com/solutions/securing-acccess)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/668ea39164d9b2ddf6932fb1_FEDRAMP-4C-LOGO%402x%202.png)
+Detect, prioritize, and remediate risks, while staying ahead of threats](https://www.ownbackup.com/solutions/securing-acccess)[![Fedramp Logo](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/668ea39164d9b2ddf6932fb1_FEDRAMP-4C-LOGO%402x%202.avif)
 
 FEDRAMP™
 
-SaaS data protection platform for the U.S. Federal Government](https://www.ownbackup.com/own-for-the-us-federal-government)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/668ea066e092998f1c8a55ce_Group%20225749%20(1).png)
+SaaS data protection platform for the U.S. Federal Government](https://www.ownbackup.com/own-for-the-us-federal-government)[![people icon](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/668ea066e092998f1c8a55ce_Group%20225749%20(1).avif)
 
 LIFECYCLE MANAGEMENT
 
 Ensure data integrity through storage, usage, archival and destruction](https://www.ownbackup.com/solutions/life-cycle-management)
 
-[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
+[![ ](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
 
 solution overview](https://www.ownbackup.com/solutions-overview)
 
@@ -78,11 +78,11 @@ limited availability
 
 DATA DISCOVERY
 
-Use historical SaaS data to fuel powerful trend analysis and AI innovation](https://www.ownbackup.com/products-discover)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
+Use historical SaaS data to fuel powerful trend analysis and AI innovation](https://www.ownbackup.com/products-discover)[![ ](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
 
 Full Product Overview](https://www.ownbackup.com/product-overview)
 
-![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/650b9c9b69d5b970c27b85d3_Line%203.png)
+![ ](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/650b9c9b69d5b970c27b85d3_Line%203.avif)
 
 Partners
 
@@ -96,47 +96,47 @@ Resources
 
 Resources
 
-[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
+[![ ](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
 
 ![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d387dce73db7f113fe888b_svgexport-14.svg)
 
-Blog](https://www.ownbackup.com/blog)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
+Blog](https://www.ownbackup.com/blog)[![ ](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
 
 ![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d387dce73db7f113fe8887_svgexport-15.svg)
 
-Events](https://www.ownbackup.com/events)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
+Events](https://www.ownbackup.com/events)[![ ](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
 
 ![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d387dce73db7f113fe888b_svgexport-14.svg)
 
-On-demand](https://www.ownbackup.com/resources/on-demand)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
+On-demand](https://www.ownbackup.com/resources/on-demand)[![ ](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
 
 ![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d387dce73db7f113fe8886_svgexport-17.svg)
 
-eBooks](https://www.ownbackup.com/resources/ebook)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
+eBooks](https://www.ownbackup.com/resources/ebook)[![ ](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
 
 ![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d387dce73db7f113fe888b_svgexport-14.svg)
 
-Data Sheets](https://www.ownbackup.com/resources/data-sheets)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
+Data Sheets](https://www.ownbackup.com/resources/data-sheets)[![ ](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
 
 ![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d387dce73db7f113fe888b_svgexport-14.svg)
 
-Own+](https://ownplus.owndata.com/plus)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
+Own+](https://ownplus.owndata.com/plus)[![ ](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
 
 All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
-[Salesforce
-
-Getting Ahead: Why Federal Government Agencies Need to Proactively Strengthen Salesforce Data](https://www.ownbackup.com/blog/why-federal-government-agencies-need-to-proactively-strengthen-salesforce-data)
-
-[Cybersecurity
-
-Zero Trust in the Private Sector: Aligning with Government Cybersecurity Standards](https://www.ownbackup.com/blog/zero-trust-in-the-private-sector-aligning-with-government-cybersecurity-standards)
-
 [Government
 
-How to Protect Your Agency's Cloud Data: Understanding the Shared Responsibility Model](https://www.ownbackup.com/blog/how-to-protect-your-agencys-cloud-data-understanding-the-shared-responsibility-model)
+How Agencies Can Build a Compliant and Secure Data Retention Policy](https://www.ownbackup.com/blog/how-agencies-can-build-a-compliant-and-secure-data-retention-policy)
+
+[Own Accelerate
+
+Introducing New Data Seeding Options: Essential, Unlimited, and Sandbox Anonymization](https://www.ownbackup.com/blog/introducing-new-data-seeding-options-essential-unlimited-and-sandbox-anonymization)
+
+[Data Security
+
+Why Cloud Security Strategy is Changing to Prioritise Recovery](https://www.ownbackup.com/blog/why-cloud-security-strategy-is-changing-to-prioritise-recovery)
 
 Company
 
@@ -144,33 +144,33 @@ Company
 
 Company
 
-[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
+[![ ](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
 
 ![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d387dce73db7f113fe888d_svgexport-18.svg)
 
-About Us](https://www.ownbackup.com/company)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
+About Us](https://www.ownbackup.com/company)[![ ](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
 
 ![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d387dce73db7f113fe8888_svgexport-19.svg)
 
-Careers](https://www.ownbackup.com/careers)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
+Careers](https://www.ownbackup.com/careers)[![ ](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
 
 ![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d387dce73db7f113fe888c_svgexport-20.svg)
 
-Partners](https://www.ownbackup.com/partners)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
+Partners](https://www.ownbackup.com/partners)[![ ](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
 
 ![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d387dce73db7f113fe88a3_svgexport-21.svg)
 
-Newsroom](https://www.ownbackup.com/newsroom)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
+Newsroom](https://www.ownbackup.com/newsroom)[![ ](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
 
 Support & Services](https://www.ownbackup.com/services)
 
-[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77f0bb0003bf0734d0385_Group%20224924.png)
+[![Chat icon](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77f0bb0003bf0734d0385_Group%20224924.avif)
 
 Support & Services](https://www.ownbackup.com/services)
 
 Global Offices
 
-![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c0493a0e4d0e5b6c660b4_new-jersey.png)
+![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c0493a0e4d0e5b6c660b4_new-jersey.avif)
 
 New Jersey
 
@@ -178,35 +178,35 @@ New Jersey
 940 Sylvan Ave  
 Englewood Cliffs, NJ 07632
 
-![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c04936dc3120db4a8a22b_tel-aviv.png)
+![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c04936dc3120db4a8a22b_tel-aviv.avif)
 
 Tel Aviv
 
 Azrieli Sarona Tower - 41st Floor  
 Tel Aviv 6701203, Israel
 
-![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c0493e16172db223a8dba_london.png)
+![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c0493e16172db223a8dba_london.avif)
 
 London
 
 9 Devonshire Square  
 London, EC2M 4YF
 
-![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c0492fa67e96fa3c2c1ab_paris.png)
+![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c0492fa67e96fa3c2c1ab_paris.avif)
 
 Paris
 
 40 Rue du Colisée,  
 75008 France
 
-![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c0493a350fa312c7414eb_san-diego.png)
+![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c0493a350fa312c7414eb_san-diego.avif)
 
 San Diego
 
 11455 El Camino Real #300  
 San Diego, CA 92130
 
-![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c0493860dbcb3a8d782c8_Hyderabad.png)
+![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c0493860dbcb3a8d782c8_Hyderabad.avif)
 
 Hyderabad
 
@@ -220,7 +220,7 @@ Hyderabad, Telangana 500081
 
 [](https://www.ownbackup.com/search)[Support](https://support.owndata.com/s/)[Get a Demo](https://www.ownbackup.com/request-demo)
 
-[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d3993aeb60ee547f18c083_4c%20Black.png)](https://www.ownbackup.com/)
+[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d3993aeb60ee547f18c083_4c%20Black.avif)](https://www.ownbackup.com/)
 
 Thank you! Your submission has been received!
 
@@ -234,37 +234,37 @@ Solutions
 
 Solutions For
 
-[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/668ea0673f43ea3eddf2286b_Group%20226023%20(1).png)
+[![Gear and arrows icon](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/668ea0673f43ea3eddf2286b_Group%20226023%20(1).avif)
 
 BUSINESS CONTINUITY
 
-Rapidly recover from data breaches, loss or corruption](https://www.ownbackup.com/solutions/ensuring-business-continuity)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/668ea06616792bea67f878e0_Group%20225750%20(1).png)
+Rapidly recover from data breaches, loss or corruption](https://www.ownbackup.com/solutions/ensuring-business-continuity)[![monitor with code icon](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/668ea06616792bea67f878e0_Group%20225750%20(1).avif)
 
 ON-PLATFORM DEVELOPMENT
 
-Ensure accurate development environments and protect production environments](https://www.ownbackup.com/solutions/on-platform-development)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/668ea0665f189e5d14f50087_Group%20226021%20(1).png)
+Ensure accurate development environments and protect production environments](https://www.ownbackup.com/solutions/on-platform-development)[![clipboard and checkmark icon](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/668ea0665f189e5d14f50087_Group%20226021%20(1).avif)
 
 ENSURING COMPLIANCE
 
-Comply with regulatory requirements and internal policies while staying audit ready](https://www.ownbackup.com/solutions/compliance)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/668ea0665790ca6cbcb03a68_Group%20225743%20(1).png)
+Comply with regulatory requirements and internal policies while staying audit ready](https://www.ownbackup.com/solutions/compliance)[![graph icon](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/668ea0665790ca6cbcb03a68_Group%20225743%20(1).avif)
 
 OFF-PLATFORM ANALYTICS
 
-Accelerate insights and AI training with time-series data from your backups](https://www.ownbackup.com/solutions/off-platform-analytics)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/668ea0667cb851945770ee3a_Group%20226022%20(1).png)
+Accelerate insights and AI training with time-series data from your backups](https://www.ownbackup.com/solutions/off-platform-analytics)[![shield and lock icon](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/668ea0667cb851945770ee3a_Group%20226022%20(1).avif)
 
 SECURING ACCESS
 
-Detect, prioritize, and remediate risks, while staying ahead of threats](https://www.ownbackup.com/solutions/securing-acccess)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/668ea39164d9b2ddf6932fb1_FEDRAMP-4C-LOGO%402x%202.png)
+Detect, prioritize, and remediate risks, while staying ahead of threats](https://www.ownbackup.com/solutions/securing-acccess)[![Fedramp Logo](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/668ea39164d9b2ddf6932fb1_FEDRAMP-4C-LOGO%402x%202.avif)
 
 FEDRAMP™
 
-SaaS data protection platform for the U.S. Federal Government](https://www.ownbackup.com/own-for-the-us-federal-government)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/668ea066e092998f1c8a55ce_Group%20225749%20(1).png)
+SaaS data protection platform for the U.S. Federal Government](https://www.ownbackup.com/own-for-the-us-federal-government)[![people icon](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/668ea066e092998f1c8a55ce_Group%20225749%20(1).avif)
 
 LIFECYCLE MANAGEMENT
 
 Ensure data integrity through storage, usage, archival and destruction](https://www.ownbackup.com/solutions/life-cycle-management)
 
-[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
+[![ ](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
 
 solution overview](https://www.ownbackup.com/solutions-overview)
 
@@ -300,11 +300,11 @@ limited availability
 
 DATA DISCOVERY
 
-Use historical SaaS data to fuel powerful trend analysis and AI innovation](https://www.ownbackup.com/products-discover)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
+Use historical SaaS data to fuel powerful trend analysis and AI innovation](https://www.ownbackup.com/products-discover)[![ ](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
 
 Full Product Overview](https://www.ownbackup.com/product-overview)
 
-![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/650b9c9b69d5b970c27b85d3_Line%203.png)
+![ ](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/650b9c9b69d5b970c27b85d3_Line%203.avif)
 
 Partners
 
@@ -318,47 +318,47 @@ Resources
 
 Resources
 
-[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
+[![ ](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
 
 ![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d387dce73db7f113fe888b_svgexport-14.svg)
 
-Blog](https://www.ownbackup.com/blog)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
+Blog](https://www.ownbackup.com/blog)[![ ](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
 
 ![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d387dce73db7f113fe8887_svgexport-15.svg)
 
-Events](https://www.ownbackup.com/events)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
+Events](https://www.ownbackup.com/events)[![ ](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
 
 ![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d387dce73db7f113fe888b_svgexport-14.svg)
 
-On-demand](https://www.ownbackup.com/resources/on-demand)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
+On-demand](https://www.ownbackup.com/resources/on-demand)[![ ](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
 
 ![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d387dce73db7f113fe8886_svgexport-17.svg)
 
-eBooks](https://www.ownbackup.com/resources/ebook)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
+eBooks](https://www.ownbackup.com/resources/ebook)[![ ](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
 
 ![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d387dce73db7f113fe888b_svgexport-14.svg)
 
-Data Sheets](https://www.ownbackup.com/resources/data-sheets)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
+Data Sheets](https://www.ownbackup.com/resources/data-sheets)[![ ](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
 
 ![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d387dce73db7f113fe888b_svgexport-14.svg)
 
-Own+](https://ownplus.owndata.com/plus)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
+Own+](https://ownplus.owndata.com/plus)[![ ](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
 
 All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
-[Salesforce
-
-Getting Ahead: Why Federal Government Agencies Need to Proactively Strengthen Salesforce Data](https://www.ownbackup.com/blog/why-federal-government-agencies-need-to-proactively-strengthen-salesforce-data)
-
-[Cybersecurity
-
-Zero Trust in the Private Sector: Aligning with Government Cybersecurity Standards](https://www.ownbackup.com/blog/zero-trust-in-the-private-sector-aligning-with-government-cybersecurity-standards)
-
 [Government
 
-How to Protect Your Agency's Cloud Data: Understanding the Shared Responsibility Model](https://www.ownbackup.com/blog/how-to-protect-your-agencys-cloud-data-understanding-the-shared-responsibility-model)
+How Agencies Can Build a Compliant and Secure Data Retention Policy](https://www.ownbackup.com/blog/how-agencies-can-build-a-compliant-and-secure-data-retention-policy)
+
+[Own Accelerate
+
+Introducing New Data Seeding Options: Essential, Unlimited, and Sandbox Anonymization](https://www.ownbackup.com/blog/introducing-new-data-seeding-options-essential-unlimited-and-sandbox-anonymization)
+
+[Data Security
+
+Why Cloud Security Strategy is Changing to Prioritise Recovery](https://www.ownbackup.com/blog/why-cloud-security-strategy-is-changing-to-prioritise-recovery)
 
 Company
 
@@ -366,33 +366,33 @@ Company
 
 Company
 
-[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
+[![ ](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
 
 ![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d387dce73db7f113fe888d_svgexport-18.svg)
 
-About Us](https://www.ownbackup.com/company)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
+About Us](https://www.ownbackup.com/company)[![ ](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
 
 ![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d387dce73db7f113fe8888_svgexport-19.svg)
 
-Careers](https://www.ownbackup.com/careers)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
+Careers](https://www.ownbackup.com/careers)[![ ](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
 
 ![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d387dce73db7f113fe888c_svgexport-20.svg)
 
-Partners](https://www.ownbackup.com/partners)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
+Partners](https://www.ownbackup.com/partners)[![ ](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
 
 ![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d387dce73db7f113fe88a3_svgexport-21.svg)
 
-Newsroom](https://www.ownbackup.com/newsroom)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
+Newsroom](https://www.ownbackup.com/newsroom)[![ ](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
 
 Support & Services](https://www.ownbackup.com/services)
 
-[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77f0bb0003bf0734d0385_Group%20224924.png)
+[![Chat icon](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77f0bb0003bf0734d0385_Group%20224924.avif)
 
 Support & Services](https://www.ownbackup.com/services)
 
 Global Offices
 
-![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c0493a0e4d0e5b6c660b4_new-jersey.png)
+![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c0493a0e4d0e5b6c660b4_new-jersey.avif)
 
 New Jersey
 
@@ -400,35 +400,35 @@ New Jersey
 940 Sylvan Ave  
 Englewood Cliffs, NJ 07632
 
-![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c04936dc3120db4a8a22b_tel-aviv.png)
+![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c04936dc3120db4a8a22b_tel-aviv.avif)
 
 Tel Aviv
 
 Azrieli Sarona Tower - 41st Floor  
 Tel Aviv 6701203, Israel
 
-![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c0493e16172db223a8dba_london.png)
+![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c0493e16172db223a8dba_london.avif)
 
 London
 
 9 Devonshire Square  
 London, EC2M 4YF
 
-![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c0492fa67e96fa3c2c1ab_paris.png)
+![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c0492fa67e96fa3c2c1ab_paris.avif)
 
 Paris
 
 40 Rue du Colisée,  
 75008 France
 
-![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c0493a350fa312c7414eb_san-diego.png)
+![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c0493a350fa312c7414eb_san-diego.avif)
 
 San Diego
 
 11455 El Camino Real #300  
 San Diego, CA 92130
 
-![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c0493860dbcb3a8d782c8_Hyderabad.png)
+![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c0493860dbcb3a8d782c8_Hyderabad.avif)
 
 Hyderabad
 
@@ -451,7 +451,7 @@ Privacy Notice
 
 [Data Processing Addendum](http://owndata.com/company/dpa)[Data Transfer Impact Assessment](https://cdn.prod.website-files.com/63b466db0286c668fc09be2f/64390ba54aca827102d778be_Data-Transfer-Impact-Assessment-2022-10.pdf)
 
-![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d4ec34980b0e35281d5bf4_Line%203.png)
+![ ](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d4ec34980b0e35281d5bf4_Line%203.avif)
 
 Effective Date: May 28, 2024  
 Last Reviewed: May 28, 2024
