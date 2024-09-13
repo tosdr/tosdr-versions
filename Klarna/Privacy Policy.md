@@ -447,7 +447,7 @@ Klarna
 * [Press](https://www.klarna.com/international/press/)
 * [Privacy and security](https://www.klarna.com/us/privacy-and-security/)
 * [Sustainability](https://www.klarna.com/us/sustainability/)
-* [Import Services](https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/emailconnect)
+* [Auto-Track](https://cdn.klarna.com/1.0/shared/content/legal/terms/en-US/Auto-Track)
 * [ESG at Klarna](https://www.klarna.com/international/sustainability/)
 * [Wikipink](https://www.klarna.com/us/wikipink/)
 
@@ -628,7 +628,7 @@ Română](https://www.klarna.com/ro/)
 * [Press](https://www.klarna.com/international/press/)
 * [Privacy and security](https://www.klarna.com/us/privacy-and-security/)
 * [Sustainability](https://www.klarna.com/us/sustainability/)
-* [Import Services](https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/emailconnect)
+* [Auto-Track](https://cdn.klarna.com/1.0/shared/content/legal/terms/en-US/Auto-Track)
 * [ESG at Klarna](https://www.klarna.com/international/sustainability/)
 * [Wikipink](https://www.klarna.com/us/wikipink/)
 
