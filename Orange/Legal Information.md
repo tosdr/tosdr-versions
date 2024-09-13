@@ -87,10 +87,13 @@
             * [Debt and rating](https://www.orange.com/en/finance/investors/debt-and-rating)
         * Individual shareholders
             * Individual shareholders
-            * [Become a shareholder](https://www.orange.com/en/finance/individual-shareholders/become-a-shareholder)
-            * [Being a shareholder](https://www.orange.com/en/finance/individual-shareholders/advisory-committee)
-            * [Understanding our challenges](https://www.orange.com/en/finance/individual-shareholders/shareholder-information)
+            * [The Retail Investor Club](https://investisseurs-individuels.orange.com/en/)
+            * [Why invest](https://investisseurs-individuels.orange.com/fr/reasons_to_invest)
+            * [How to invest](https://investisseurs-individuels.orange.com/en/how_to_invest)
+            * [The value of your investment](https://investisseurs-individuels.orange.com/en/what_to_invest_in)
+            * [The individual shareholders' committee](https://www.orange.com/en/finance/individual-shareholders/advisory-committee)
             * [Annual Shareholders' Meeting](https://www.orange.com/en/finance/individual-shareholders/shareholders-meeting)
+            * [Questions & Answers](https://www.orange.com/en/shareholders-meeting/questions-answers?hv=)
     * * Orange share
             * Cotation
             * [](https://www.orange.com/en/orange-share-price)
