@@ -269,7 +269,7 @@ Find Help
 
 * [Technical Documents](https://www.andersenwindows.com/for-professionals/documents/)
 * [Dealer Portal](http://my.andersenwindows.com/s/servicehome)
-* [MyAndersen](https://adfs.andersencorp.com/)
+* [MyAndersen (Opens in a new tab)](https://adfs.andersencorp.com/adfs/ls/?SAMLRequest=jZJdc6owEIb%2FCpN7BKG2yhQ7WFQ%2B%2FKpCrd4wQILBExIkoWh%2F%2FaG2PdNzLjpnZ3ORbPbdTfa5fzgXRHpFFc8ZNUG3owIJ0ZTBnB5MEAYTuQ8ehvc8LohWGlYtMF2jU424kNpEyo2PiAnqihos5jk3aFwgbojU2FjzmaF1VKOsmGApI0CyOEeVaEs9MsrrAlUbVL3mKQrXMxNgIUpuKEpx6cQUti0h2uQUsoZ3UlYo6XtmliOoEHbI6QNnpqrauvph3VvdBpLdNpbTWFwf86UXw4z%2FUUxZVV7l3k8VwhUgubYJIu3Ram3vlU9H%2BzS3rebf9R6WC%2BHv33qPuhec2FvsX7ZHf%2ByoeJVYFg58%2FQXDwRIvbLWxRjs5nN%2BI7lPs%2BGNbuyNTDkl%2BtMTSzppzuQjd1VILUuw%2BFxcZxqwO%2Bzs3zG1EDutjoR10P8O2PNPJ1IWBVy77akReB9YsH%2FvP69mhiV5eImdSvyG4QDeVNtpMpwnV7NV2BqE3FgOncs%2FbCJ4SOV30ioJkeI%2F1bRJVuNs%2FZ9SPUm8zyS6OCwUeIOTt2DqpiM3VKbx1JkRNipHcS%2FWnIiajOy%2F85TsyPu%2Ba9rc4r5FLuYipMIGmajeyOmg90HSj23q%2F07%2Ft7YG0%2Bhz6qB3hFaafCEk%2BLnHDCYKVvFpuAiA9f0HZXgCfCBrX6tV39n4Wjr%2BAA8P%2Fxete%2BV5q%2BLn9G%2F7hbw%3D%3D&RelayState=%2Fcertified%2Fs%2F&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=lky7aDU07hxwpPPuKikG70YylQK2fZ7kKIgD%2FeGxWRk1kgzxM6BaspncFyM%2BObnGHHYOjiAlgzF%2FJwrdi27deNmc29UdOPyHE7qxv0SgE%2B3E4YfT5cOJ%2BOaCW8B9MijOvrouo3xRyadUrCW34fx2aExAwAxqQ1c75xRW2N57lSptv%2BjURInVC6xA%2BFVAqaHMCsSUCEbsVUrIe5SRzxOHmCMjcs4YCsFdPrNBNCffbEbLCUJpk6aG3z3WXSgp%2FlkLM6y%2FMOQ20Kv0l0Owje%2Fn1Aube7773NDfB4po%2F1DqrU169U9TsyCmyluPlR9rMNbFzaVeWunMpmyMZkKEqnhiIw%3D%3D)
 * [Contact Us](https://www.andersenwindows.com/support/contact-us/)
 * [FAQs](https://www.andersenwindows.com/support/faqs/)
 * [Window & Door Safety](https://www.andersenwindows.com/support/window-and-door-safety/)
