@@ -421,7 +421,7 @@ These Terms and Conditions are governed by the substantive laws of the State of 
 [News](https://www.safewise.com/blog/category/safety-news/)  
 [Deals](https://www.safewise.com/deals/)
 
-[Home Security](https://www.safewise.com/blog/category/home-security/)  
+[Home Security](https://www.safewise.com/home-security/)  
 [Internet Security](https://www.safewise.com/blog/category/internet-security/)  
 [Home Safety](https://www.safewise.com/blog/category/home-safety/)  
 [Family Safety](https://www.safewise.com/blog/category/family-safety/)  
@@ -449,7 +449,11 @@ By signing up, you agree to our [Terms and Conditions](https://www.safewise.com/
 
 * * *
 
-[Terms of Service](https://www.safewise.com/terms-of-service/) | [Privacy Policy](https://www.safewise.com/privacy-policy/) | [How We Rank and Review](https://www.safewise.com/ranking-reviews/) | \*SafeWise has conducted impartial research to recommend products. This is not a guarantee. Each individual’s unique needs should be considered when deciding on chosen products. © 2024 SafeWise. All rights reserved.
+[Terms of Service](https://www.safewise.com/terms-of-service/) | [Privacy Policy](https://www.safewise.com/privacy-policy/) | [How We Rank and Review](https://www.safewise.com/ranking-reviews/) |
+
+\*SafeWise has conducted impartial research to recommend products. This is not a guarantee. Each individual’s unique needs should be considered when deciding on chosen products.
+
+© 2024 SafeWise. All rights reserved.
 
 ![Icon Caret Up  Light](https://www.safewise.com/app/themes/coolwhip/assets/icons/icon-caret-up--light.svg)
 
