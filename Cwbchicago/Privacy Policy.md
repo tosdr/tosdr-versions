@@ -242,35 +242,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/Randle-Archie-and-Mercedes-Jones-326x245.jpg)](https://cwbchicago.com/2024/09/carjacking-charges-filed-after-cops-track-airtag-attached-to-the-victims-key-fob.html "Carjacking charges filed after cops track AirTag attached to the victim’s key fob")
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/semi-greenleaf-326x245.jpg)](https://cwbchicago.com/2024/09/gun-fires-after-11-year-old-finds-it-lying-on-a-north-side-lawn.html "Gun fires after 11-year-old finds it lying on a North Side lawn")
 
-South Chicago
+West Ridge
 
-### [Carjacking charges filed after cops track AirTag attached to the victim’s key fob](https://cwbchicago.com/2024/09/carjacking-charges-filed-after-cops-track-airtag-attached-to-the-victims-key-fob.html "Carjacking charges filed after cops track AirTag attached to the victim’s key fob")
+### [Gun fires after 11-year-old finds it lying on a North Side lawn](https://cwbchicago.com/2024/09/gun-fires-after-11-year-old-finds-it-lying-on-a-north-side-lawn.html "Gun fires after 11-year-old finds it lying on a North Side lawn")
 
-[September 7, 2024 9:18 AM](https://cwbchicago.com/2024/09)
+[September 11, 2024 10:56 AM](https://cwbchicago.com/2024/09)
 
-Two people face carjacking charges after cops tracked them down by following an AirTag attached to the victim’s key fob.[](https://cwbchicago.com/2024/09/carjacking-charges-filed-after-cops-track-airtag-attached-to-the-victims-key-fob.html "Carjacking charges filed after cops track AirTag attached to the victim’s key fob")
+A tragedy was narrowly averted when an 11-year-old boy found a loaded firearm lying in the front yard of a West Rogers Park residence and it fired when he picked it up.[](https://cwbchicago.com/2024/09/gun-fires-after-11-year-old-finds-it-lying-on-a-north-side-lawn.html "Gun fires after 11-year-old finds it lying on a North Side lawn")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/chasing-squad-326x245.jpg)](https://cwbchicago.com/2024/09/chicago-cops-cant-chase-people-but-that-doesnt-stop-people-from-chasing-the-police-video.html "Chicago cops can’t chase people. But that doesn’t stop people from chasing the police (video)")
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/Lamont-Smith-326x245.jpg)](https://cwbchicago.com/2024/09/man-convicted-of-attempted-murder-in-1989-gets-another-20-years-for-murdering-woman-found-dead-near-goose-island-in-2017.html "Man convicted of attempted murder in 1989 gets another 20 years for murdering woman found dead near Goose Island in 2017")
 
 Citywide
 
-### [Chicago cops can’t chase people. But that doesn’t stop people from chasing the police (video)](https://cwbchicago.com/2024/09/chicago-cops-cant-chase-people-but-that-doesnt-stop-people-from-chasing-the-police-video.html "Chicago cops can’t chase people. But that doesn’t stop people from chasing the police (video)")
+### [Man convicted of attempted murder in 1989 gets another 20 years for murdering woman found dead near Goose Island in 2017](https://cwbchicago.com/2024/09/man-convicted-of-attempted-murder-in-1989-gets-another-20-years-for-murdering-woman-found-dead-near-goose-island-in-2017.html "Man convicted of attempted murder in 1989 gets another 20 years for murdering woman found dead near Goose Island in 2017")
 
-[September 7, 2024 8:12 AM](https://cwbchicago.com/2024/09)
+[September 10, 2024 3:35 PM](https://cwbchicago.com/2024/09)
 
-To hear “activists” tell it, most Chicagoans feel oppressed by a brutal city police force and live in daily fear of the city’s cops. And then you see videos like these…[](https://cwbchicago.com/2024/09/chicago-cops-cant-chase-people-but-that-doesnt-stop-people-from-chasing-the-police-video.html "Chicago cops can’t chase people. But that doesn’t stop people from chasing the police (video)")
+A man who once went to prison for attempted murder is going back to prison again after he pleaded guilty on Tuesday to murdering a woman who was found dead near Goose Island in 2017.[](https://cwbchicago.com/2024/09/man-convicted-of-attempted-murder-in-1989-gets-another-20-years-for-murdering-woman-found-dead-near-goose-island-in-2017.html "Man convicted of attempted murder in 1989 gets another 20 years for murdering woman found dead near Goose Island in 2017")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/1457-N-Halsted-326x245.jpg)](https://cwbchicago.com/2024/09/shots-fired-2-detained-after-rappers-brawl-in-old-town.html "Shots fired, 2 detained after rappers brawl in Old Town")
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/Chicago-police-lined-up-DNC-protest-michigan-wacker-august-2024-326x245.jpg)](https://cwbchicago.com/2024/09/complaints-anti-police-bias-grow-at-copa-the-agency-charged-with-investigating-wrongdoing-by-chicago-cops.html "Complaints anti-police bias grow at COPA, the agency charged with investigating wrongdoing by Chicago cops")
 
-Near North
+Citywide
 
-### [Shots fired, 2 detained after rappers brawl in Old Town](https://cwbchicago.com/2024/09/shots-fired-2-detained-after-rappers-brawl-in-old-town.html "Shots fired, 2 detained after rappers brawl in Old Town")
+### [Complaints anti-police bias grow at COPA, the agency charged with investigating wrongdoing by Chicago cops](https://cwbchicago.com/2024/09/complaints-anti-police-bias-grow-at-copa-the-agency-charged-with-investigating-wrongdoing-by-chicago-cops.html "Complaints anti-police bias grow at COPA, the agency charged with investigating wrongdoing by Chicago cops")
 
-[September 7, 2024 7:13 AM](https://cwbchicago.com/2024/09)
+[September 10, 2024 9:24 AM](https://cwbchicago.com/2024/09)
 
-Chicago police detained two people and recovered a firearm after shots were fired as a group of rappers were leaving the New City complex overnight.[](https://cwbchicago.com/2024/09/shots-fired-2-detained-after-rappers-brawl-in-old-town.html "Shots fired, 2 detained after rappers brawl in Old Town")
+There’s trouble brewing at the Civilian Office of Police Accountability, better known as COPA, the agency charged with investigating allegations of serious wrongdoing by Chicago police officers.[](https://cwbchicago.com/2024/09/complaints-anti-police-bias-grow-at-copa-the-agency-charged-with-investigating-wrongdoing-by-chicago-cops.html "Complaints anti-police bias grow at COPA, the agency charged with investigating wrongdoing by Chicago cops")
 
 Search
 
@@ -360,6 +360,7 @@ Thank you.
 * [South Loop](https://cwbchicago.com/category/south-loop)
 * [Streeterville](https://cwbchicago.com/category/near-north/streeterville)
 * [Suburbs](https://cwbchicago.com/category/suburbs)
+* [Ukrainian Village](https://cwbchicago.com/category/west-town/ukrainian-village)
 * [Uptown](https://cwbchicago.com/category/uptown)
 * [Washington Park](https://cwbchicago.com/category/washington-park)
 * [West Elsdon](https://cwbchicago.com/category/west-elsdon)
@@ -367,6 +368,7 @@ Thank you.
 * [West Loop](https://cwbchicago.com/category/west-loop)
 * [West Pullman](https://cwbchicago.com/category/west-pullman)
 * [West Ridge](https://cwbchicago.com/category/west-ridge)
+* [West Rogers Park](https://cwbchicago.com/category/west-ridge/west-rogers-park)
 * [West Town](https://cwbchicago.com/category/west-town)
 * [Wicker Park](https://cwbchicago.com/category/wicker-park)
 * [Woodlawn](https://cwbchicago.com/category/woodlawn)
