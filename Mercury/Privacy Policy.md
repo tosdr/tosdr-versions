@@ -49,8 +49,8 @@ Personal Data collected from third parties. In addition to the information that 
 
 * Affiliates, Subsidiaries, Business Partners, and Service Providers. We may obtain your Personal Data from our affiliates, subsidiaries, Business Partners, and Service Providers to offer and provide our products and services and to support our core business functions.
 * Credit Bureau and Agencies. We may obtain third-party information (consumer and/or commercial credit reports) from credit bureaus and agencies, which is reviewed to make a credit decision, determine risk and fraud profiles, and provide underwriting for accounts.
-* Marketing Partners. We may obtain your Personal Data from our marketing partners, which may include, if applicable, third parties from whom we purchase data.  
-    Information from Other Sources. We may supplement the information we collect with information from other sources, such as publicly available information about your online and offline activity from advertisers, commercially available sources, and information from our affiliates, subsidiaries, or Business Partners.
+* Marketing Partners. We may obtain your Personal Data from our marketing partners, which may include, if applicable, third parties from whom we purchase data.
+* Information from Other Sources. We may supplement the information we collect with information from other sources, such as publicly available information about your online and offline activity from advertisers, commercially available sources, and information from our affiliates, subsidiaries, or Business Partners.
 
 2\. How We Use Information.
 
