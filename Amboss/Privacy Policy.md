@@ -6,7 +6,7 @@ Students
 
 [Exam Preparation](https://www.amboss.com/us/students/exams)[USMLE®](https://www.amboss.com/us/usmle)[COMLEX®](https://www.amboss.com/us/comlex)[Shelf Exams](https://www.amboss.com/us/shelf)
 
-[Popular Features](https://www.amboss.com/us/tour)[Mobile Apps](https://www.amboss.com/us/mobile-app)[Anki Add-on](https://www.amboss.com/us/anki)[Chrome Extension](https://chromewebstore.google.com/detail/amboss-medical-knowledge/hnlpidgbnmikgkmccephgaljihheckii?hl=en&pli=1) [Score Predictor](https://www.amboss.com/us/score-predictor)
+[Popular Features](https://www.amboss.com/us/tour)[Mobile Apps](https://www.amboss.com/us/mobile-app)[Anki Add-on](https://www.amboss.com/us/anki)[Chrome Extension](https://www.amboss.com/us/chrome) [AMBOSS GPT](https://www.amboss.com/us/gpt)[Score Predictor](https://www.amboss.com/us/score-predictor)
 
 [Love](https://www.amboss.com/us/reviews)
 
