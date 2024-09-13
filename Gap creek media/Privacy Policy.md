@@ -116,7 +116,7 @@ This website contains links to other websites. Please be aware that we are not r
 Onboarding starts at just $800
 ------------------------------
 
-Current Openings: 7
+Current Openings: 4
 
  [](https://gapcreekmedia.com/pricing/onboarding/)
 
@@ -219,7 +219,7 @@ Recent Blog Posts
 Onboarding starts at just $800
 ------------------------------
 
-Current Openings: 7
+Current Openings: 4
 
  [](https://gapcreekmedia.com/pricing/onboarding/)
 
