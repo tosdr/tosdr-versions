@@ -32,6 +32,10 @@ Users are solely responsible for the content of their messages including without
 
 You hereby agree to comply with all laws that apply or may apply to your use of or activities on Scholastic.com and any rules for conduct on Scholastic.com or use of specific features and/or services offered thereon that may be posted on Scholastic.com, whether in these terms of use or otherwise, from time to time.
 
+### TEXT MESSAGING
+
+If you elect to receive marketing and support text messages from us, whether via our website or otherwise, you are providing prior express written consent to receive recurring marketing or promotional and support text messages from us (each, a “Text Message”) sent through an automatic telephone dialing system. These may include cart abandon messages. Message frequency varies. This service is optional, and your consent is not a condition for purchase. You can opt out of receiving any further Text Messages from this program at any time by replying “STOP” to any Text Message you receive from us. For help, reply “HELP” to any Text Message you receive from us. In addition to any fee of which you are notified, your mobile provider’s message and data rates may apply to our confirmation Text Message and all subsequent Text Message correspondence according to your individual rate plan provided by your wireless carrier.
+
 ### NO PERSONAL ADVICE
 
 Any informational materials provided on Scholastic.com, including without limitation the opinions and/or recommendations of any authors and/or moderators, are not intended to substitute for any professional educational, medical, legal, psychiatric, employment or other advice. Without limitation of the Disclaimer paragraphs set forth below, Scholastic makes no representations or warranties regarding, and expressly disclaims any and all liability concerning, any action by any person following the information offered or provided within or through Scholastic.com. If you have concerns or a situation in which you require professional advice, then you should consult with an appropriately qualified professional in the relevant field.
@@ -117,17 +121,15 @@ The notification must be in writing and include:
 
 ### SUBSCRIPTION TERMS
 
-Access to Learn At Home For Families (the “Service”) is sold on a subscription model (“Subscriptions”). Subscriptions can be purchased by paying a monthly subscription fee. When you register for a Subscription, you consent to get access to the Service immediately. SUBSCRIPTIONS CANNOT BE TERMINATED BEFORE THE END OF THE PERIOD FOR WHICH YOU HAVE ALREADY PAID, AND SCHOLASTIC WILL NOT REFUND ANY FEES THAT YOU HAVE ALREADY PAID.
+For terms and conditions applicable to subscriptions, please [click here](https://www.scholastic.com/site/subscription-terms.html).
 
-1. Automatic Renewal. Subscriptions to the Service renew automatically. If you purchase a Subscription, you acknowledge and agree that we are authorized to use the payment information on file for the recurring renewal fee. You may cancel your account at any time from within your Manage Subscription settings. This will stop future subscription charges from accruing to your account. Until you cancel, your Subscription will renew monthly on the same day of the month as the date you made your initial purchase, and the payment information on file will be billed for the then-current subscription fee. This purchase date will be included on your Subscription confirmation receipt that will be emailed to you at the email you provide.
-2. Cancellations. You can cancel your Subscription at any time by logging into your account through My Scholastic and following the instructions on the Manage Subscription tab. The cancellation will take effect the day after the last day of the current subscription period. You must cancel your Subscription prior to your next recurring billing date in order to avoid being charged. If you cancel your Subscription, you will continue to have access to the Service through the end of your current billing period. Cancelling your Subscription will not completely delete your account from our website. You may choose to delete your account, but you will not be able to recover data from your former account at a later date if you do so.
-3. No refunds. While you may cancel your Subscription at any time, there are no partial or pro-rata refunds for cancellation. Scholastic may, however, offer partial, pro rata refunds for Scholastic’s early suspension, termination, or cancellation of a paid program, where the pricing and payment terms for the specific Scholastic program expressly state that such refunds are available in such scenarios and/or as required by law. In the event that you cancel your account or Scholastic suspends or terminates your account under this Agreement for your breach of this Agreement, you understand and agree that you shall receive no refund for any unused time on a Subscription, any license or Subscription fees for any portion of the Service, any content or data associated with your account, or for anything else.
-4. Pricing. Scholastic may change the price for the Subscriptions, from time to time, by posting the new price on the Service. Price changes for Subscriptions will take effect at the start of the next subscription period following the date of the price change. As permitted by local law, you accept the new price by continuing to use the Service after the price change takes effect. If you do not agree with the price changes, you have the right to reject the change by canceling your Subscription prior to the price change going into effect. Please therefore make sure you read any such notification of price changes carefully. Additional terms may apply.
+  
 
-Scholastic reserves the right, at its sole discretion, to change, modify, add or delete portions of these terms of use at any time. The current terms of use may be viewed at [http://www.scholastic.com/terms.htm](http://www.scholastic.com/terms.htm) along with the date of most recent update.
+Scholastic reserves the right, at its sole discretion, to change, modify, add or delete portions of these terms of use at any time. The current terms of use may be viewed at [http://www.scholastic.com/terms.htm](http://www.scholastic.com/terms.htm) along with the date of most recent update.  
+This Terms of Use replaces our former terms of use which you can find posted [here](https://www.scholastic.com/site/terms-archive.html).
 
 For other questions about Scholastic.com, please consult [CUSTOMER SERVICE](http://www.scholastic.com/custsupport/).
 
-Most recently updated June, 2020.
+Most recently updated September, 2024.
 
 ![](https://www.scholastic.com/akam/11/pixel_543cd153?a=dD1iYzk2ZGExYjE4ZWY1NTlkYTBjMmQzMWMyODFjYjM3NWI0ZTViNDAyJmpzPW9mZg==)
