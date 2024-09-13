@@ -2,7 +2,7 @@
 
 [](https://ethereum.org/en/)
 
-Search
+search
 
 1. [Home](https://ethereum.org/en/)/
 2. Privacy policy
@@ -239,15 +239,15 @@ For more information on applicable privacy regulations, you may refer to:
 
 Please do not hesitate to contact us if you have any questions regarding this Privacy Policy by contacting us at [support@ethereum.org(opens in a new tab)](mailto:support@ethereum.org).
 
-### Was this article helpful?
+#### Was this article helpful?
 
 YesNo
 
-* On this page
-    
-    * [Privacy Policy](#privacy-policy)
+On this page
 
-Website last updated: July 24, 2024
+* [Privacy Policy](#privacy-policy)
+
+Website last updated: September 4, 2024
 
 Go to top
 
