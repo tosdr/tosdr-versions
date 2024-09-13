@@ -99,6 +99,8 @@ After your selection, please press ESC key in order to apply or take other actio
 
 Loading
 
+Jump to selected job details
+
 *  {{oQ.Value}}
     
     Featured Job Allows Referral[](https://sjobs.brassring.com/%7B%7Bjob.Link%7D%7D)
@@ -122,7 +124,7 @@ Application limit reached. {{LimitExceededMessage}}
 
 [Close](#)
 
-[Close](#JobDetailsClose)
+[Close](#JobDetailsClose) Return to selected search result
 
 Share
 
@@ -131,6 +133,8 @@ Job share URL  Copy Job URL
 Close Job share dialog.
 
 Featured Job Allows Referral
+
+Read Job Details
 
 View application statusView your applications {{tgSettings.JobDetailsApplyButtonText}} Easy Apply
 
@@ -246,6 +250,8 @@ Job share URL  Copy Job URL
 Close Job share dialog.
 
 Featured Job Allows Referral
+
+Read Job Details
 
 Job Details | H&R Block
 =======================
