@@ -26,7 +26,7 @@
     * [Identity: CORE ID](https://www.epsilon.com/us/products-and-services/identity-core-id)
     * [Data](https://www.epsilon.com/us/products-and-services/data)
     * [Publishers](https://www.epsilon.com/us/products-and-services/publishers)
-    * [Strategic Consulting](https://www.epsilon.com/us/products-and-services/marketing-services/strategic-consulting)
+    * [Epsilon Services](https://www.epsilon.com/us/products-and-services/marketing-services)
     
 * Industries
     
@@ -79,8 +79,7 @@
     About us
     --------
     
-    * [Who we are](https://www.epsilon.com/us/about-us)
-    * [Why Epsilon](https://www.epsilon.com/us/about-us/why-epsilon)
+    * [About us](https://www.epsilon.com/us/about-us)
     * [Diversity, Equity, & Inclusion](https://www.epsilon.com/us/about-us/diversity-equity-inclusion)
     * [Corporate Social Responsibility](https://www.epsilon.com/us/about-us/corporate-social-responsibility)
     * [Our culture](https://www.epsilon.com/us/about-us/our-culture-epsilon)
@@ -197,15 +196,15 @@ Select a region (US)United States中国Deutschland日本EMEAAPACUnited KingdomFr
     ----------
     
     * [Retail](https://www.epsilon.com/us/industries/retail)
-    * [Consumer packaged goods](https://www.epsilon.com/us/industries/cpg)
+    * [Consumer Packaged Goods](https://www.epsilon.com/us/industries/cpg)
     * [Restaurants](https://www.epsilon.com/us/industries/restaurants)
     * [Travel](https://www.epsilon.com/us/industries/travel)
     * [Tourism](https://www.epsilon.com/us/industries/tourism)
     * [Healthcare](https://www.epsilon.com/us/industries/healthcare)
-    * [Financial services & insurance](https://www.epsilon.com/us/industries/financial-services)
+    * [Financial Services & Insurance](https://www.epsilon.com/us/industries/financial-services)
     * [Auto](https://www.epsilon.com/us/industries/auto)
     * [Nonprofits](https://www.epsilon.com/us/industries/nonprofits)
-    * [Telecom, media & entertainment](https://www.epsilon.com/us/industries/telecom-media-entertainment)
+    * [Telecom, Media & Entertainment](https://www.epsilon.com/us/industries/telecom-media-entertainment)
 * Insights
     --------
     
@@ -218,17 +217,17 @@ Select a region (US)United States中国Deutschland日本EMEAAPACUnited KingdomFr
         * [IDFA](https://www.epsilon.com/us/insights/idfa)
     * [Case Studies](https://www.epsilon.com/us/client-success/case-studies)
     * [Pressroom](https://www.epsilon.com/us/about-us/pressroom)
-* About us
+* About Us
     --------
     
     * [Careers](https://www.epsilon.com/us/careers)
-    * [Who we are](https://www.epsilon.com/us/about-us)
+    * [Who We Are](https://www.epsilon.com/us/about-us)
     * [Why Epsilon](https://www.epsilon.com/us/about-us/why-epsilon)
-    * [Diversity, equity & inclusion](https://www.epsilon.com/us/about-us/diversity-equity-inclusion)
-    * [Corporate social responsibility](https://www.epsilon.com/us/about-us/corporate-social-responsibility)
-    * [Our culture](https://www.epsilon.com/us/about-us/our-culture-epsilon)
-    * [Our partners](https://www.epsilon.com/us/about-us/our-partners)
-    * [Our locations](https://www.epsilon.com/us/about-us/our-locations)
+    * [Diversity, Equity & Inclusion](https://www.epsilon.com/us/about-us/diversity-equity-inclusion)
+    * [Corporate Social Responsibility](https://www.epsilon.com/us/about-us/corporate-social-responsibility)
+    * [Our Culture](https://www.epsilon.com/us/about-us/our-culture-epsilon)
+    * [Our Partners](https://www.epsilon.com/us/about-us/our-partners)
+    * [Our Locations](https://www.epsilon.com/us/about-us/our-locations)
     * [Epic Blog](https://www.epsilon.com/us/about-us/epic-blog)
 
 [Consumer Info](https://www.epsilon.com/us/consumer-information) 
