@@ -503,13 +503,13 @@ Regular price $28
 
 Unit price /  per](https://www.atari.com/products/atari-katakana-logo-tee)       
 
-[![RCT 25th Anniversary Shadowbox Art (Signed Limited Edition)](files/rctarto-product-01-a.jpg)
+[![Rollercoaster Tycoon Shadowbox Art (Signed Limited Edition)](files/rctarto-product-01-a.jpg)
 
-![RCT 25th Anniversary Shadowbox Art (Signed Limited Edition)](files/rctarto-product-02-c.jpg)
+![Rollercoaster Tycoon Shadowbox Art (Signed Limited Edition)](files/rctarto-product-02-c.jpg)
 
 Add to cart
 
-##### RCT 25th Anniversary Shadowbox Art (Signed Limited Edition)
+##### Rollercoaster Tycoon Shadowbox Art (Signed Limited Edition)
 
 Regular price Sale price $199.00
 
@@ -774,6 +774,7 @@ Newsletters from the future
 * [Investors](https://atari-investisseurs.fr/en/)
 * [Careers](https://www.atari.com/pages/careers)
 * [Contact Us](https://www.atari.com/pages/contact)
+* [IP List](https://docs.google.com/presentation/d/1e-tl9Oqwnr78879Lnne_uhlsGkPWFK_z428ZmUaJjog/edit?usp=sharing)
 
 * [](https://www.twitter.com/atari)
 * [](https://www.facebook.com/atari)
