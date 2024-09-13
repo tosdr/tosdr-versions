@@ -168,7 +168,7 @@ Remove all filters
 
 Sorting
 
-[FREE SHIPPING ON ORDERS OVER 100 EUR](https://www.skatedeluxe.ch/en/shipping "FREE SHIPPING ON ORDERS OVER 100 EUR")
+[FREE SHIPPING ON ORDERS OVER CHF 100](https://www.skatedeluxe.ch/en/shipping "FREE SHIPPING ON ORDERS OVER 100 EUR")
 
 [FAST SHIPPING](https://www.skatedeluxe.ch/en/shipping "fastest Skateshop")
 
