@@ -139,6 +139,7 @@ Switch to
             * [Razer 130W USB-C GaN charger](https://www.razer.com/gaming/pc/accessories/razer-usb-c-gan-charger)
             * [Razer 230W Blade Adapter](https://www.razer.com/gaming-pc-accessories/Razer-230W-Power-Adapter/RC30-02480100-B3U1)
             * [Razer 280W Blade Adapter](https://www.razer.com/gaming-pc-accessories/Razer-GaN-Power-Adapter-280W/RC30-04230300-B3U1)
+            * [Razer 330W Blade Adapter](https://www.razer.com/gaming-pc-accessories/Razer-330W-GaN-Power-Adapter/RC30-04840200-B3U1)
             
         * Accessories
             
@@ -336,6 +337,7 @@ Switch to
             Product Line
             ------------
             
+            * [Razer BlackWidow V4 Pro 75%](https://www.razer.com/gaming-keyboards/razer-blackwidow-v4-pro-75)
             * [Razer BlackWidow V4 Pro](https://www.razer.com/gaming-keyboards/razer-blackwidow-v4-pro)
             * [Razer BlackWidow V4](https://www.razer.com/gaming-keyboards/razer-blackwidow-v4)
             * [Razer BlackWidow V4 75%](https://www.razer.com/gaming-keyboards/razer-blackwidow-v4-75)
@@ -373,6 +375,7 @@ Switch to
             ------------
             
             * [View All BlackWidow](https://www.razer.com/pc/gaming-keyboards/blackwidow-line)
+            * [Razer BlackWidow V4 Pro 75%](https://www.razer.com/gaming-keyboards/razer-blackwidow-v4-pro-75)
             * [Razer BlackWidow V4 Pro](https://www.razer.com/gaming-keyboards/razer-blackwidow-v4-pro)
             * [Razer BlackWidow V4](https://www.razer.com/gaming-keyboards/razer-blackwidow-v4)
             * [Razer BlackWidow V4 75%](https://www.razer.com/gaming-keyboards/razer-blackwidow-v4-75)
@@ -1402,16 +1405,16 @@ Switch to
         
     * [Developers](https://developer.razer.com/)
     
-* [Support](https://https//mysupport.razer.com/app/home)Support
+* [Support](https://mysupport.razer.com/)Support
     
     Product Line
     ------------
     
-    * [All Support](https://https//mysupport.razer.com/app/home)
+    * [All Support](https://mysupport.razer.com/)
     * [PC Support](https://mysupport.razer.com/app/categories/m/pc)
-    * [Console Support](https://support.razer.com/console)
-    * [Mobile Support](https://support.razer.com/mobile)
-    * [Lifestyle Support](https://support.razer.com/lifestyle)
+    * [Console Support](https://mysupport.razer.com/app/categories/m/console)
+    * [Mobile Support](https://mysupport.razer.com/app/categories/m/mobile)
+    * [Lifestyle Support](https://mysupport.razer.com/app/categories/m/lifestyle)
     * [Services Support](https://mysupport.razer.com/app/categories/m/services)
     * [Gold Support](https://gold.razer.com/us/en/help?section=0)
     * [Replacement Parts](https://www.razer.com/shop/replacement-parts/)
