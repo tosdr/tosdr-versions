@@ -168,11 +168,11 @@ Experience unparalleled board control and responsiveness while you skate iconic 
 
 Recent Reviews:
 
-Very Positive (44) \- 86% of the 44 user reviews in the last 30 days are positive.
+Very Positive (37) \- 89% of the 37 user reviews in the last 30 days are positive.
 
 All Reviews:
 
-Very Positive (18,088) \- 86% of the 18,088 user reviews for this game are positive.    
+Very Positive (18,087) \- 86% of the 18,087 user reviews for this game are positive.    
 
 Release Date:
 
@@ -198,11 +198,11 @@ Reviews
 
 All Reviews:
 
-Very Positive (86% of 18,088) All Time
+Very Positive (86% of 18,087) All Time
 
 Recent Reviews:
 
-Very Positive (86% of 44) Recent
+Very Positive (89% of 37) Recent
 
 ![](https://store.akamai.steamstatic.com/public/images/game/game_highlight_image_spacer.gif)
 
@@ -314,7 +314,7 @@ See all 7 supported languages
 
 Ratings
 
-All Ages
+![](https://store.akamai.steamstatic.com/public/shared/images/game_ratings/ESRB/e.png?v=2)
 
 Age rating for: ESRB
 
@@ -328,7 +328,7 @@ Age rating for: ESRB
 **Release Date:** Jul 28, 2020  
 **Early Access Release Date:** Dec 19, 2018  
 
-[Visit the website ![](https://store.akamai.steamstatic.com/public/images/v5/ico_external_link.gif)](https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Fwww.skaterxl.com)[![](https://store.akamai.steamstatic.com/public/images/v6/social/facebook_32_white.png) Facebook ![](https://store.akamai.steamstatic.com/public/images/v5/ico_external_link.gif)](https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fwww.facebook.com%2FSkater-XL-199597780921060%2F)[![](https://store.akamai.steamstatic.com/public/images/v6/social/x_32_white.png) X (Twitter) ![](https://store.akamai.steamstatic.com/public/images/v5/ico_external_link.gif)](https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fx.com%2Fskater_xl)[![](https://store.akamai.steamstatic.com/public/images/v6/social/youtube_32_white.png) YouTube ![](https://store.akamai.steamstatic.com/public/images/v5/ico_external_link.gif)](https://www.youtube.com/channel/UCpBQRZl7apZt_LQXKgqKQiQ/)  [View update history](https://store.steampowered.com/newshub/?appids=962730&snr=1_5_9__408) [Read related news](https://store.steampowered.com/newshub/app/962730?snr=1_5_9__408) [View discussions](https://steamcommunity.com/app/962730/discussions/) [Find Community Groups](https://steamcommunity.com/actions/Search?T=ClanAccount&K=Skater%20XL%20-%20The%20Ultimate%20Skateboarding%20Game)
+[Visit the website ![](https://store.akamai.steamstatic.com/public/images/v5/ico_external_link.gif)](https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Fwww.skaterxl.com)  [Facebook ![](https://store.akamai.steamstatic.com/public/images/v5/ico_external_link.gif)](https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fwww.facebook.com%2FSkater-XL-199597780921060%2F)  [X ![](https://store.akamai.steamstatic.com/public/images/v5/ico_external_link.gif)](https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fx.com%2Fskater_xl)  [YouTube ![](https://store.akamai.steamstatic.com/public/images/v5/ico_external_link.gif)](https://www.youtube.com/channel/UCpBQRZl7apZt_LQXKgqKQiQ/)  [View update history](https://store.steampowered.com/newshub/?appids=962730&snr=1_5_9__408) [Read related news](https://store.steampowered.com/newshub/app/962730?snr=1_5_9__408) [View discussions](https://steamcommunity.com/app/962730/discussions/) [Find Community Groups](https://steamcommunity.com/actions/Search?T=ClanAccount&K=Skater%20XL%20-%20The%20Ultimate%20Skateboarding%20Game)
 
 [Share](#) [Embed](#)  [](javascript:void(0))
 
@@ -456,28 +456,28 @@ Customer reviews for Skater XL - The Ultimate Skateboarding Game
 
 Overall Reviews:
 
-Very Positive (18,088 reviews) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark.png)
+Very Positive (18,087 reviews) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark.png)
 
 Recent Reviews:
 
-Very Positive (44 reviews) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark.png)
+Very Positive (37 reviews) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark.png)
 
 Review Type
 
- All (19,218)  
+ All (19,217)  
  Positive (16,536)  
- Negative (2,682)
+ Negative (2,681)
 
 Purchase Type
 
- All (19,218)  
- Steam Purchasers (18,088) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
+ All (19,217)  
+ Steam Purchasers (18,087) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
  Other (1,130) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png) 
 
 Language
 
- All Languages (19,218)  
- Your Languages (13,293) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
+ All Languages (19,217)  
+ Your Languages (13,292) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
 
 [Customize](https://store.steampowered.com//account/languagepreferences)
 
