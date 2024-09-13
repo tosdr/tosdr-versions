@@ -207,9 +207,9 @@ Email: [legal@edriving.com](mailto:legal@edriving.com)
 
 [](https://www.edriving.com/)
 
-211 Bayberry Drive,  
-Suites 1 D, E & F  
-Cape May Court House, NJ 08210  
+1500 Solana Blvd.,  
+Bldg. 6 Ste. 6300,  
+Westlake, TX 76262  
 Toll Free Phone: [+1 855 999 9094](tel:+18559999094)
 
 Pennine Business Park  
