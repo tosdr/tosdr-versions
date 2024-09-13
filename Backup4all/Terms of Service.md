@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [Using Backup4all - FAQ 2](https://www.backup4all.com/using-backup4all-faq-2-kb.html)  
+* [What is an Incremental Backup?](https://www.backup4all.com/incremental-backup-kb.html)  
     
-* [Data filtering in Backup4all Monitor](https://www.backup4all.com/data-filtering-in-backup4all-monitor-kb.html)  
+* [Activation - Frequently Asked Questions](https://www.backup4all.com/activation-faq-kb.html)  
     
-* [How to backup on two external drives using th ...](https://www.backup4all.com/how-to-backup-on-two-external-drives-using-the-daily-rotation-scheme-kb.html)  
+* [What is a Public-Private Key Pair](https://www.backup4all.com/what-is-a-public-private-key-pair-kb.html)  
     
-* [What is cloud backup](https://www.backup4all.com/what-is-cloud-backup-kb.html)  
+* [How to back up data files from HostEurope usi ...](https://www.backup4all.com/how-to-back-up-data-files-from-hosteurope-using-backup4all-kb.html)  
     
-* [What is a Mirror Backup?](https://www.backup4all.com/mirror-backup-kb.html)  
+* [How to back up files from Cloudflare R2 using ...](https://www.backup4all.com/how-to-back-up-files-from-cloudflare-r2-using-backup4all-kb.html)  
     
 
 Choose language:
