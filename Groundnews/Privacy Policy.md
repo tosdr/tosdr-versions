@@ -207,6 +207,6 @@ or address at _151 Charles St, Kitchener, ON, Canada N2G 1H6_
 
 * * *
 
-©2023 Snapwise Inc. d/b/a Ground News
+©2024 Snapwise Inc. d/b/a Ground News
 
 [Cookie Preference Center](https://about.ground.news/cookie-preferences)[DNSSMPI](https://about.ground.news/do-not-sell-my-personal-information)[Feedback](https://about.ground.news/feedback)[Terms & Conditions](https://about.ground.news/)[Privacy Policy](https://about.ground.news/privacy-policy)
