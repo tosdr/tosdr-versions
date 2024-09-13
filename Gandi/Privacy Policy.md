@@ -403,6 +403,8 @@ Consequently, Gandi declines all responsibility concerning the processing of you
 
 [You gave us 4 stars](https://www.trustpilot.com/review/gandi.net)
 
+[Gandi implements an Information Security Management System that is certified by BSI against the ISO27001:2022 standard.](https://www.gandi.net/en/trust-center)
+
 [Change Region](#region-picker) [Change Language](#language-picker)
 
 ### Choose your region
