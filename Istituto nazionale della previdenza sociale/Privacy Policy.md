@@ -195,7 +195,7 @@
             * [Direzione Centrale Comunicazione](https://www.inps.it/it/it/l-istituto/struttura-organizzativa/direzioni-centrali/direzione-centrale-comunicazione.html)
             * [Direzione Centrale Credito Welfare e Strutture Sociali](https://www.inps.it/it/it/l-istituto/struttura-organizzativa/direzioni-centrali/direzione-centrale-credito-welfare-e-strutture-sociali.html)
             * [Direzione Centrale Entrate](https://www.inps.it/it/it/l-istituto/struttura-organizzativa/direzioni-centrali/direzione-centrale-entrate.html)
-            * [Direzione Centrale Formazione e Accademia Inps](https://www.inps.it/it/it/l-istituto/struttura-organizzativa/direzioni-centrali/direzione-centrale-formazione-e-accademia-inps.html)
+            * [Direzione Centrale Formazione e Accademia INPS](https://www.inps.it/it/it/l-istituto/struttura-organizzativa/direzioni-centrali/direzione-centrale-formazione-e-accademia-inps.html)
             * [Direzione Centrale Inclusione e Sostegno alla Famiglia e alla Genitorialità](https://www.inps.it/it/it/l-istituto/struttura-organizzativa/direzioni-centrali/Direzione-Centrale-Inclusione-e-Sostegno-alla-Famiglia-e-alla-Genitorialita.html)
             * [Direzione Centrale Internal Audit, Risk Management, Compliance e Antifrode](https://www.inps.it/it/it/l-istituto/struttura-organizzativa/direzioni-centrali/Direzione-Centrale-Internal-Audit-Risk-Management-Compliance-e-Antifrode.html)
             * [Direzione Centrale Organizzazione](https://www.inps.it/it/it/l-istituto/struttura-organizzativa/direzioni-centrali/direzione-centrale-organizzazione.html)
@@ -721,9 +721,10 @@
             
             * [Esplora INPS per tutti](https://www.inps.it/it/it/inps-comunica/dossier/inps-per-tutti.html)
             * [INPS per tutti: la strada per l’integrazione](https://www.inps.it/it/it/inps-comunica/dossier/inps-per-tutti/inps-per-tutti--la-strada-per-l-integrazione.html)
-            * [Gli infopoint metropolitani](https://www.inps.it/it/it/inps-comunica/dossier/inps-per-tutti/gli-infopoint-metropolitani.html)
-            * [INPS per tutti in sicurezza](https://www.inps.it/it/it/inps-comunica/dossier/inps-per-tutti/inps-per-tutti-in-sicurezza.html)
-            * [Accordi con ANCI, Caritas, CSV e Comunità di Sant’Egidio](https://www.inps.it/it/it/inps-comunica/dossier/inps-per-tutti/accordi-con-anci--caritas--csv-e-comunit--di-sant-egidio.html)
+            * [Accordi Quadro](https://www.inps.it/it/it/inps-comunica/dossier/inps-per-tutti/accordi-quadro.html)
+            * [Accordi locali e linee di azione](https://www.inps.it/it/it/inps-comunica/dossier/inps-per-tutti/accordi-locali-e-linee-di-azione.html)
+            * [Monitoraggio](https://www.inps.it/it/it/inps-comunica/dossier/inps-per-tutti/monitoraggio.html)
+            * [Questionario](https://www.inps.it/it/it/inps-comunica/dossier/inps-per-tutti/questionario.html)
             
         * [INPGI passa a INPS](#)
             
