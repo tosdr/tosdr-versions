@@ -77,39 +77,17 @@ Toggle navigation
 
 Top Searches
 
-[Erdtree](https://www.greenmangaming.com/games/elden-ring-shadow-of-the-erdtree-pc/)
+[Space Marine](https://www.greenmangaming.com/games/warhammer-40000-space-marine-2-pc/)
 
-[Ghost of Tsushima](https://www.greenmangaming.com/games/ghost-of-tsushima-directors-cut-pc/)
+[Final Fantasy](https://www.greenmangaming.com/games/final-fantasy-xvi-complete-edition-pc/)
 
-[Hitman](https://www.greenmangaming.com/games/hitman-world-of-assassination-pc/)
+[Black Myth](https://www.greenmangaming.com/games/black-myth-wukong-pc/)
 
-[Horizon](https://www.greenmangaming.com/games/horizon-forbidden-west-complete-edition-pc/)
+[Castlevania](https://www.greenmangaming.com/games/castlevania-dominus-collection-pc/)
 
-[God of War Ragnarok](https://www.greenmangaming.com/games/god-of-war-ragnarok-pc/)
+[Dragon Quest](https://www.greenmangaming.com/games/dragon-quest-monsters-the-dark-prince-pc/)
 
-[Batman](https://www.greenmangaming.com/games/telltale-batman-shadows-edition-pc/)
-
-[Destiny](https://www.greenmangaming.com/games/destiny-2-the-final-shape-annual-pass-pc/)
-
-[Dave the Diver](https://www.greenmangaming.com/games/dave-the-diver-pc/)
-
-[SaGa](https://www.greenmangaming.com/games/romancing-saga-minstrel-song-remastered-pc/)
-
-[Helldivers](https://www.greenmangaming.com/games/helldivers-2-pc/)
-
-[Fallout](https://www.greenmangaming.com/games/fallout-76-pc/)
-
-[Resident Evil](https://www.greenmangaming.com/games/resident-evil-4-remake-pc/)
-
-[Red Dead](https://www.greenmangaming.com/games/red-dead-redemption-2-rockstar-pc/)
-
-[Days Gone](https://www.greenmangaming.com/games/days-gone-pc/)
-
-[NieR](https://www.greenmangaming.com/games/nierautomata-game-of-the-yorha-edition-pc/)
-
-[Sniper Elite 5](https://www.greenmangaming.com/games/sniper-elite-5-pc/)
-
-[DOOM](https://www.greenmangaming.com/games/doom-eternal-pc/)
+[Red Dead](https://www.greenmangaming.com/games/red-dead-redemption-2-pc/)
 
 You can search things like: Games, Franchises, DLC
 
@@ -129,6 +107,7 @@ You can search things like: Games, Franchises, DLC
     * [Blog](https://www.greenmangaming.com/blog/)
     * [Green Room](https://www.greenmangaming.com/green-room/)
 * [XBOX](https://www.greenmangaming.com/xbox/)
+* [Showcase](https://www.greenmangaming.com/showcase/)
 
 * [All Games](https://www.greenmangaming.com/all-games/)
     
@@ -139,6 +118,7 @@ You can search things like: Games, Franchises, DLC
 * [Community](https://discord.gg/kpyQAYr9vq)
     
 * [XBOX](https://www.greenmangaming.com/xbox/)
+* [Showcase](https://www.greenmangaming.com/showcase/)
 
 You can search things like:
 
@@ -183,7 +163,7 @@ This section explains what data we collect about you and the sources of this inf
   
 You may provide us with certain information directly, including:  
 
-1. **Account information:** When you create an account for Green Man Gaming, we ask you to provide information such as your username, email address or telephone number, date of birth and password to create the account. You can also add a profile picture, and other details about you to your account profile and set various [account settings](https://www.greenmangaming.com/my-account/profile/) (including social privacy controls)
+1. **Account information:** When you create an account for Green Man Gaming, we ask you to provide information such as your username, email address or telephone number, date of birth and password to create the account. You can also add a profile picture, and other details about you to your account profile and set various account settings [account settings](https://www.greenmangaming.com/my-account/profile/) (including social privacy controls)
 2. **Payment information:** If you wish to purchase games or credit for your account wallet or make any other payments via Green Man Gaming using a payment method, we will ask you to provide certain data such as your billing address and payment details
 3. **User Content:** Some Green Man Gaming products and services will allow you to upload to our servers: messages, comments, forum posts, game levels, videos, images and other information
 4. **Customer Services:** If you contact us for assistance we may ask you to provide information about you (such as your name and contact details) and the nature of your query, and you may choose to send further communications about your query
@@ -247,20 +227,32 @@ We may receive limited information about you from third party partners, includin
 4. Other third parties where permitted under notices and choices that they or we have provided to you (for example, we may receive information from a Green Man Gaming partner that you visit if you've agreed that the provider of that service can send us information about your activity, such as Facebook)
 
 **  
+First Party Platforms**  
+  
+The below information relates to customers who purchase Green Man Gaming’s published titles on first party platforms, including Valve, Microsoft, Sony, Nintendo, Epic Games and others, across all applicable hardware and subscription based services. These companies collect and use information under their own privacy notices.  
+  
+Green Man Gaming may receive limited personal information about you from first party platforms, including:
+
+1. Device, number of associated accounts, region  
+    
+2. Player telemetry, including collective and average playtime, crash/bug reports and other insights into community behaviour  
+    
+
+**  
 LEGAL BASES WE RELY ON**  
   
 Under the General Data Protection Regulation (GDPR), the lawful bases we rely on for processing this information are:
 
-1. Your consent.  
+1. **Your consent.**  
     We can collect and process your data with your consent in specific situations, i.e. when you tick a box to receive email newsletter. You are able to remove your consent at any time by changing your preferences. Where consent isn't provided, Google fills their data collection gaps with conversion modelling and behavioural modelling.  
     
-2. We have a contractual obligation  
+2. **We have a contractual obligation.**  
     In certain circumstances, we need your personal data to comply with our contractual obligations, i.e. if you order a game from us, we’ll collect your name email address/ phone number and payment details to deliver your purchase,  
     
-3. We have a legal obligation  
+3. **We have a legal obligation.**  
     If the law requires us to, we may need to collect and process your data and we can pass on details of people involved in fraud or other criminal activity affecting Green Man Gaming to law enforcement.
-4. We have a legitimate interest.  
-    In specific situations, we require your data to pursue our legitimate interests in a way which might reasonably be expected as part of running our business, and which does not materially impact your rights, freedom, or interests. For example, we will use your purchase history to send you or make available personalised offers. We will also send you direct marketing emails when you shop with us and do not choose to opt out - this is often called a 'soft opt in'. We also combine the shopping history of many customers to identify trends and ensure we can keep up with demand. We may contact you regarding market research.  
+4. **We have a legitimate interest.**  
+    In specific situations, we require your data to pursue our legitimate interests in a way which might reasonably be expected as part of running our business, and which does not materially impact your rights, freedom, or interests. For example, we will use your purchase history to send you or make available personalised offers. We will also send you direct marketing emails when you shop with us and do not choose to opt out - this is often called a 'soft opt in'. We also combine the shopping history of many customers to identify trends and ensure we can keep up with demand. We may contact you regarding market research. With your consent, or when you shop with us and do not choose to opt out from receiving our emails ('soft opt in') we will use your personal data, preferences, and details of your transactions to keep you informed by email, web, text and through our contact centre about relevant products and services including tailored special offers, discounts, promotions, events, competitions and so on.  
     With your consent, or when you shop with us and do not choose to opt out from receiving our emails ('soft opt in') we will use your personal data, preferences, and details of your transactions to keep you informed by email, web, text and through our contact centre about relevant products and services including tailored special offers, discounts, promotions, events, competitions and so on.  
     
 
@@ -280,7 +272,7 @@ We use the data we collect to understand, improve and enhance our existing produ
   
 **Moderation and Safety**  
   
-We cannot monitor the whole of Green Man Gaming and make no commitment to do so. However, we reserve the right in our sole discretion to monitor and record your online activity and communication throughout Green Man Gaming and to remove and/or delete any content. We may use the combined data we collect (including information such as the content of your voice, video (Twitch video posting), and text communications, the time and location of your activities, and your Green Man Gaming Online Account, registered account details and IP address) to detect breaches and enforce our Green Man Gaming Terms and Conditions and any other [terms of service](https://www.greenmangaming.com/terms-and-conditions/#forum) you have agreed to and any rules or codes of conduct applying to your use of Green Man Gaming. Enforcement action that we may take can include suspending or banning accounts and/or devices.  
+We cannot monitor the whole of Green Man Gaming and make no commitment to do so. However, we reserve the right in our sole discretion to monitor and record your online activity and communication throughout Green Man Gaming and to remove and/or delete any content. We may use the combined data we collect (including information such as the content of your voice, video (Twitch video posting), and text communications, the time and location of your activities, and your Green Man Gaming Online Account, registered account details and IP address) to detect breaches and enforce our Green Man Gaming [terms of service](https://www.greenmangaming.com/terms-and-conditions/#forum) and any other terms of service you have agreed to and any rules or codes of conduct applying to your use of Green Man Gaming. Enforcement action that we may take can include suspending or banning accounts and/or devices.  
   
 **Legal and Compliance**  
   
@@ -369,7 +361,7 @@ Your information may be processed, stored, and transferred outside your country 
 
 **Storage**  
   
-We keep the data that we collect about you for as long as necessary for the purposes set out in this Privacy Notice. In general, we will retain information that is associated with your account or device until you close your account. Even following account closure, please be aware that the data that we collect about you may still be retained for legal, fraud, accounting and community reasons.  
+We keep the data that we collect about you for as long as necessary for the purposes set out in this Privacy Notice. In general, we will retain information that is associated with your account or device until you close your account. Even following account closure, please be aware that the data that we collect about you may still be retained for legal, fraud and accounting reasons.  
   
 **Security**  
   
@@ -385,7 +377,7 @@ If you are a user of our services, you can access, correct, and modify some of t
   
 You also have the right to request a copy, rectification, erasure or blocking of your personal information and to object to our processing of your personal information in certain situations. You can exercise these rights by contacting us via the information in the About Us and Complaints section of this Privacy Notice.  
   
-You can close your account for Green Man Gaming by contacting Green Man Gaming Help & Support. Please be advised that account changes can take up to 28 days.  
+You can close your account for Green Man Gaming by contacting Green Man Gaming Help & Support. Please be advised that account changes can take up to 1 month.  
   
 Note that this will not affect any alternative accounts that you might have; you will need to close those accounts separately.  
   
@@ -393,17 +385,17 @@ Note that this will not affect any alternative accounts that you might have; you
   
 If you have a concern about our information rights practises, please get in contact with us first so we can try to resolve your query using the details in the 'About Us and this Notice' section of this Privacy Notice.  
   
-If however you feel we have not dealt with your concern and that we are failing to meet our legal obligations, you can report this to your local data protection regulator, or Data Protection Commission (DPC) in Ireland [https://www.dataprotection.ie/](https://www.dataprotection.ie/), or the Information Commissioner's Office ("ICO") in the United Kingdom. More information on reporting a concern to the ICO can be found at [https://ico.org.uk/](https://ico.org.uk/) .
+If however you feel we have not dealt with your concern and that we are failing to meet our legal obligations, you can report this to your local data protection regulator, or Data Protection Commission (“DPC”) in Ireland[https://www.dataprotection.ie/](https://www.dataprotection.ie/) or the Information Commissioner's Office ("ICO") in the United Kingdom. More information on reporting a concern to the ICO can be found at [https://ico.org.uk/](https://ico.org.uk/) .
 
 ### UPDATES AND CHANGES TO THIS PRIVACY NOTICE
 
-We may make alterations to this Privacy Notice from time to time and these variations shall become effective immediately upon being accessible from [here](https://www.greenmangaming.com/privacy-notice/) or on the Effective Date.  
+We may make alterations to this Privacy Notice from time to time and these variations shall become effective immediately upon being accessible from[here](https://www.greenmangaming.com/privacy-notice/) or on the Effective Date.  
   
 We will use our reasonable efforts to notify you of any such changes, which will not apply to any earlier use of the Service or purchases of Games through the Service.  
   
 Your continued use of our Services will be deemed acceptance of the updated or amended Privacy Notice and these variations shall become effective immediately upon being accessible. If you do not agree to the changes, you should cease using the Service. If there is any conflict between this Privacy Notice and any terms or specific local terms appearing elsewhere on the Service then this notice shall prevail.  
   
-Version 0.9 (June 2024)  
+Version 1.0 (August 2024)  
   
 Effective Date on May 25th, 2018
 
@@ -445,12 +437,6 @@ Union Pay
 
 Kakao Pay
 
-### Work with us:
-
-* [Get Your Game On Store](https://corporate.greenmangaming.com/store/)
-* [Get Your Game Published](https://corporate.greenmangaming.com/publishing/)
-* [Need Something Else?](https://corporate.greenmangaming.com/partners/)
-
 * [Facebook](https://www.facebook.com/GreenManGaming)
 
 * [X](http://twitter.com/greenmangaming)
@@ -462,7 +448,7 @@ Kakao Pay
 * [Youtube](https://www.youtube.com/channel/UCbONsRevt2_YIN6sLigGIzQ)
 
 * [About Us](https://www.greenmangaming.com/who-we-are/)
-* [Careers](https://corporate.greenmangaming.com/careers/)
+* [Corporate](https://www.greenmangaming.com/company/)
 * [Redeem a Gift](https://www.greenmangaming.com/gift-redemption/)
 * [Affiliate Partnerships](https://www.greenmangaming.com/affiliates/)
 * [Vouchers](https://www.greenmangaming.com/vouchers/)
