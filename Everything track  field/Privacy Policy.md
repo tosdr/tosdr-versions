@@ -1,10 +1,6 @@
 **Javascript is disabled on your browser.**  
 To view this site, you must enable JavaScript or upgrade to a JavaScript-capable browser.
 
-Check out our new 2024 products now! [SHOP](https://www.everythingtrackandfield.com/categories/new-products)
-
-Check out our new 2024 products now! [SHOP](https://www.everythingtrackandfield.com/categories/new-products)
-
 [![](https://www.everythingtrackandfield.com/sca-dev-vinson/img/MF_ETF_1482x659.png)
 
 Since 1960](https://www.everythingtrackandfield.com/ "Everything Track and Field")
