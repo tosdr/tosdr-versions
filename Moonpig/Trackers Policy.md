@@ -12,7 +12,7 @@ Open menu
 
 Menu
 
-* Open Birthday dropdown[![Birthday](https://static.web-explore-server.prod.moonpig.net/_next/static/images/birthday-f0b12328b3bd6540e96cf61a50bbbf53.svg)
+* Open Birthday dropdown[![Birthday](https://static.web-explore.prod.moonpig.net/_next/static/images/birthday-f0b12328b3bd6540e96cf61a50bbbf53.svg)
     
     Birthday](https://www.moonpig.com/uk/birthday/)
     
@@ -61,7 +61,7 @@ Menu
     * [Alcohol Gifts](https://www.moonpig.com/uk/gifts/alcohol/birthday/)
     * [Personalised Gifts](https://www.moonpig.com/uk/gifts/personalised-gifts/birthday/)
     
-* Open Cards dropdown[![Cards](https://static.web-explore-server.prod.moonpig.net/_next/static/images/cards-1216848fbcfa3b9ed73fa8e0965c9adc.svg)
+* Open Cards dropdown[![Cards](https://static.web-explore.prod.moonpig.net/_next/static/images/cards-1216848fbcfa3b9ed73fa8e0965c9adc.svg)
     
     Cards](https://www.moonpig.com/uk/personalised-cards/)
     
@@ -121,7 +121,7 @@ Menu
     * [Engagement Party](https://www.moonpig.com/uk/personalised-cards/invitations/engagement/)
     * [Wedding Invitations](https://www.moonpig.com/uk/personalised-cards/invitations/wedding/)
     
-* Open Flowers & Plants dropdown[![Flowers & Plants](https://static.web-explore-server.prod.moonpig.net/_next/static/images/flowers-9b242982b53cdca5921bd21b3669c284.svg)
+* Open Flowers & Plants dropdown[![Flowers & Plants](https://static.web-explore.prod.moonpig.net/_next/static/images/flowers-9b242982b53cdca5921bd21b3669c284.svg)
     
     Flowers & Plants](https://www.moonpig.com/uk/flowers-and-plants/)
     
@@ -145,6 +145,7 @@ Menu
     * [New Baby](https://www.moonpig.com/uk/flowers-and-plants/new-baby/)
     * [New Home](https://www.moonpig.com/uk/flowers-and-plants/new-home/)
     * [Get Well Soon](https://www.moonpig.com/uk/flowers-and-plants/get-well-soon/)
+    * [Thinking of You](https://www.moonpig.com/uk/flowers-and-plants/thinking-of-you/)
     
     ### Who's it For?
     
@@ -152,7 +153,7 @@ Menu
     * [For Him](https://www.moonpig.com/uk/flowers-and-plants/for-him/)
     * [For Mum](https://www.moonpig.com/uk/flowers-and-plants/for-mum/)
     * [For Friend](https://www.moonpig.com/uk/flowers-and-plants/for-friend/)
-    * [For Granny](https://www.moonpig.com/uk/flowers-and-plants/for-granny/)
+    * [For Grandma](https://www.moonpig.com/uk/flowers-and-plants/for-granny/)
     * [For Daughter](https://www.moonpig.com/uk/flowers-and-plants/for-daughter/)
     * [For Sister](https://www.moonpig.com/uk/flowers-and-plants/for-sister/)
     * [For Wife](https://www.moonpig.com/uk/flowers-and-plants/for-wife/)
@@ -170,7 +171,7 @@ Menu
     * [Letterbox](https://www.moonpig.com/uk/flowers-and-plants/letterbox/)
     * [Garden Gifts](https://www.moonpig.com/uk/gifts/garden/all/)
     
-* Open Gifts dropdown[![Gifts](https://static.web-explore-server.prod.moonpig.net/_next/static/images/gift-d3ad42021d858e2f931dda63c7cd66cd.svg)
+* Open Gifts dropdown[![Gifts](https://static.web-explore.prod.moonpig.net/_next/static/images/gift-d3ad42021d858e2f931dda63c7cd66cd.svg)
     
     Gifts](https://www.moonpig.com/uk/gifts/)
     
@@ -234,7 +235,7 @@ Menu
     * [Disney](https://www.moonpig.com/uk/disney/)
     * [LEGO](https://www.moonpig.com/uk/gifts/lego/)
     
-* Open Balloons dropdown[![Balloons](https://static.web-explore-server.prod.moonpig.net/_next/static/images/balloons-ede525326ffc97c5100878fbf7305677.svg)
+* Open Balloons dropdown[![Balloons](https://static.web-explore.prod.moonpig.net/_next/static/images/balloons-ede525326ffc97c5100878fbf7305677.svg)
     
     Balloons](https://www.moonpig.com/uk/gifts/balloons/)
     
@@ -262,7 +263,7 @@ Menu
     * [Number Balloons](https://www.moonpig.com/uk/gifts/balloons/number-balloons/)
     * [Letterbox Balloons](https://www.moonpig.com/uk/gifts/balloons/letterbox/)
     
-* Open Experiences dropdown[![Experiences](https://static.web-explore-server.prod.moonpig.net/_next/static/images/egifts-c9ec0761fc008af85e648577c9c0ac4a.svg)
+* Open Experiences dropdown[![Experiences](https://static.web-explore.prod.moonpig.net/_next/static/images/egifts-c9ec0761fc008af85e648577c9c0ac4a.svg)
     
     Experiences](https://www.moonpig.com/uk/gifts/experience-gifts/)
     
@@ -298,7 +299,7 @@ Menu
     * [Scotland](https://www.moonpig.com/uk/gifts/experience-gifts/experience-vouchers/scotland/)
     * [Wales](https://www.moonpig.com/uk/gifts/experience-gifts/experience-vouchers/wales/)
     
-* [![Moonpig Plus](https://static.web-explore-server.prod.moonpig.net/_next/static/images/moonpig-plus-1a2f22a29d9ebb9afd135971743e0783.svg)
+* [![Moonpig Plus](https://static.web-explore.prod.moonpig.net/_next/static/images/moonpig-plus-1a2f22a29d9ebb9afd135971743e0783.svg)
     
     Moonpig Plus](https://www.moonpig.com/uk/moonpig-plus/)
     
