@@ -207,6 +207,7 @@ No failure to exercise promptly any right under this TOS will create a continuin
 * [Contact us](https://www.oreilly.com/about/contact.html)
 * [Newsletters](https://www.oreilly.com/emails/newsletters/)
 * [Privacy policy](https://www.oreilly.com/privacy.html)
+* [AI policy](https://www.oreilly.com/about/oreilly-approach-to-generative-ai.html)
 
 [linkedin-logo](https://www.linkedin.com/company/oreilly-media) [youtube-logo](https://www.youtube.com/user/OreillyMedia)
 
