@@ -98,12 +98,31 @@ Mobile Menu
 Privacy Policy
 ==============
 
-Personal information may be requested or required on some areas of glma.org to allow us to contact you, to verify your identity, or to ensure that you qualify to use particular sections of the site. GLMA will not rent or sell your personal or contact information with other organizations or individuals, and will only share your information with a partner or affiliated organizations if you have given us explicit permission to do so to provide you with a service you have requested.
+GLMA: Health Professionals Advancing LGBTQ+ Equality is committed to protecting your privacy and the confidentiality of your personal information. For each visitor to GLMA’s website, our server automatically recognizes information such as the visitor's IP address. We use this information to maintain and improve our website.
 
-If you have any questions about this Privacy Policy, please contact us at [info@glma.org](mailto:info@glma.org).
+### CME/CE Activity Attendance Records Retention
 
   
- 
+As required by accrediting bodies, GLMA maintains databases containing user profile information as well as a record of CME/CE activities completed. These records include CME/CE credit claimed, pre-test and post-test results, and evaluation assessment question responses associated with completed activities.  
+As an accredited CME/CE provider, GLMA is required to maintain records in order to verify participation in CME/CE activities for six years from the date of the activity. Learners may request that their information is deleted for a particular activity after that time.   
+  
+To do so, please email [annualconference@glma.org](mailto:annualconference@glma.org) after the activity has expired and provide your complete name, the title of the activity, the date of the activity.  Additionally, please provide the following:  
+a) for live activities—the city and state where you participated;   
+b) for online activities—the website where you participated;   
+c) for print activities—publication name and date.   
+_\*\*Please note that learners’ information will continue to be retained as required for other activities they participated in less than six years ago._        
+
+### Uses of Data Collected from CME/CE Certificates
+
+  
+GLMA does not sell or offer to sell any user data, including registration information, to any third parties for commercial purposes. GLMA does, when required, provide the minimum subset of information to those agencies (including State Boards of Medical Examiners) that are responsible for accreditation and issuance of certification of continuing education. Further, GLMA may work with third-party educational partners on its CME/CE activities (eg, logistics providers, web hosting platforms, outcomes analysis organizations) who utilize activity data for the execution and evaluation of educational activities in conjunction with GLMA.
+
+### Sharing of Aggregated Data for CME/CE Activities
+
+  
+Information provided by learners related to specific activities, including amount of CME/CE credit claimed, pre-test and post-test results, evaluation assessment responses, and demographic information is compiled and analyzed in aggregate and anonymous form to evaluate the effectiveness of CME/CE activities and identify future educational needs. Aggregated data and analysis may be shared with third-parties.  
+  
+All personally identifiable information contained in GLMA databases is treated as confidential and will be used only for the purposes stated in this policy, except where required by law, to the extent necessary to comply with law, court order or subpoena. By participating in a CME/CE activity, you agree that GLMA has full permission to provide and utilize your information for the purposes stated above.
 
 1629 K St. NW  
 Suite 300  
