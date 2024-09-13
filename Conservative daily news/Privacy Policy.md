@@ -1,15 +1,15 @@
-Tuesday, September 10 2024
+Friday, September 13 2024
 
 Breaking News
 
-* [President Joe Biden’s Schedule for Tuesday, September 10, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-tuesday-september-10-2024/)
-* [What Lies Will Kamala Harris Tell On The Debate Stage?](https://www.conservativedailynews.com/2024/09/what-lies-will-kamala-harris-tell-on-the-debate-stage/)
-* [Mark Levin Announces Major Injury Will Keep Him Away From Mic](https://www.conservativedailynews.com/2024/09/mark-levin-announces-major-injury-will-keep-him-away-from-mic/)
-* [President Of Medical Society Explains Why He Won’t Do Sex Change Procedures For Kids](https://www.conservativedailynews.com/2024/09/president-of-medical-society-explains-why-he-wont-do-sex-change-procedures-for-kids/)
-* [Kamala’s Debate Prep With Lead Google Attorney Sets Off Alarm Bells With Gov’t Watchdogs](https://www.conservativedailynews.com/2024/09/kamalas-debate-prep-with-lead-google-attorney-sets-off-alarm-bells-with-govt-watchdogs/)
-* [Megyn Kelly Says We Are ‘Living In The End Times’ Of Corporate Media](https://www.conservativedailynews.com/2024/09/megyn-kelly-says-we-are-living-in-the-end-times-of-corporate-media/)
-* [Hunter Pleads Guilty, Joe Is Wrong Again](https://www.conservativedailynews.com/2024/09/hunter-pleads-guilty-joe-is-wrong-again/)
-* [Elite University Trustee Steps Down Over Vote On Israel Divestment](https://www.conservativedailynews.com/2024/09/elite-university-trustee-steps-down-over-vote-on-israel-divestment/)
+* [Focus on The Family Demands ABC Corrects The Record – but it’s not just ABC peddling misinformation](https://www.conservativedailynews.com/2024/09/focus-on-the-family-demands-abc-corrects-the-record-but-its-not-just-abc-peddling-misinformation/)
+* [The 3 against 1 (Harris and the 2 “Moderators”) ABC News Debate against Donald Trump](https://www.conservativedailynews.com/2024/09/the-3-against-1-harris-and-the-2-moderators-abc-news-debate-against-donald-trump/)
+* [The Independents Won The Debate](https://www.conservativedailynews.com/2024/09/the-independents-won-the-debate/)
+* [President Joe Biden’s Schedule for Thursday, September 12, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-wednesday-september-12-2024/)
+* [Deplorables Now Have A Different Orientation](https://www.conservativedailynews.com/2024/09/deplorables-now-have-a-different-orientation/)
+* [America In The Age Of Stupidity: Show This Video To Your Democrat Friends Before They Vote](https://www.conservativedailynews.com/2024/09/america-in-the-age-of-stupidity-show-this-video-to-your-democrat-friends-before-they-vote/)
+* [Long term Democrat Election Strategy: Create an Unserious Electorate](https://www.conservativedailynews.com/2024/09/long-term-democrat-election-strategy-create-an-unserious-electorate/)
+* [President Joe Biden’s Schedule for Wednesday, September 11, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-wednesday-september-11-2024/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -107,86 +107,84 @@ Support Conservative Daily News with a small donation via [Paypal or credit card
 
 Support CDN!
 
-Your donations help us purchase content, pay for servers, and reduce advertising. We are currently fundraising for November. [CLICK HERE](https://www.conservativedailynews.com/privacy-policy/support-conservative-news) to help out or to see what we do with the money.
+Your donations help us purchase content, pay for servers, and reduce advertising. We are currently fundraising for November. [CLICK HERE](https://www.conservativedailynews.com/privacy-policy/support-conservative-news) to help out or to see what we do with the money. \[thermometer align=center alt=off\]
 
-Created using the Donation Thermometer plugin https://wordpress.org/plugins/donation-thermometer/.46%
-
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/IMG_5590-220x150.jpeg)](https://www.conservativedailynews.com/2024/09/the-independents-won-the-debate/)
+    
+    [The Independents Won The Debate](https://www.conservativedailynews.com/2024/09/the-independents-won-the-debate/)
+    
+    September 12, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/Donald-Trump-Kamala-Harris-tied-in-Pennsylvania-220x150.jpg)](https://www.conservativedailynews.com/2024/09/cnns-harry-enten-sounds-alarm-about-harris-vanishing-lead-in-very-pivotal-swing-state/)
     
     [CNN’s Harry Enten Sounds Alarm About Harris’ Vanishing Lead In ‘Very Pivotal’ Swing State](https://www.conservativedailynews.com/2024/09/cnns-harry-enten-sounds-alarm-about-harris-vanishing-lead-in-very-pivotal-swing-state/)
     
     September 9, 2024
     
-* [![gas prices](https://www.conservativedailynews.com/wp-content/uploads/2022/03/mrz032822dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/biden-appointed-judges-ruling-could-bring-drilling-in-gulf-of-mexico-to-a-halt/)
-    
-    [Biden-Appointed Judge’s Ruling Could Bring Drilling to a Halt in Gulf Of Mexico](https://www.conservativedailynews.com/2024/09/biden-appointed-judges-ruling-could-bring-drilling-in-gulf-of-mexico-to-a-halt/)
-    
-    September 8, 2024
-    
 
 Recent Posts
 
-* [![Dick Cheney Liz Cheney TDS](https://www.conservativedailynews.com/wp-content/uploads/2024/09/gv091024dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/tds-3/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/hollis-feat-220x150-1.jpg)](https://www.conservativedailynews.com/2024/09/whats-wrong-with-american-schools/)
     
-    [TDS](https://www.conservativedailynews.com/2024/09/tds-3/)
+    [What’s Wrong With American Schools?](https://www.conservativedailynews.com/2024/09/whats-wrong-with-american-schools/)
     
-    September 10, 2024
+    September 13, 2024
     
-* [![Government](https://www.conservativedailynews.com/wp-content/uploads/2021/04/The-White-House-220x150.jpg)](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-tuesday-september-10-2024/)
+* [![Title IX Women sports transgender athletes](https://www.conservativedailynews.com/wp-content/uploads/2024/05/02-title-9-dt-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/09/high-school-girls-field-hockey-team-forfeits-game-over-male-player-on-opponents-roster/)
     
-    [President Joe Biden’s Schedule for Tuesday, September 10, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-tuesday-september-10-2024/)
+    [High School Girls’ Field Hockey Team Forfeits Game Over Male Player On Opponent’s Roster](https://www.conservativedailynews.com/2024/09/high-school-girls-field-hockey-team-forfeits-game-over-male-player-on-opponents-roster/)
     
-    September 10, 2024
+    September 12, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2017/06/money-600-x-366.jpg)](https://www.conservativedailynews.com/2024/09/risks-on-govt-loans-issued-next-fiscal-year-will-cost-taxpayers-more-than-65-billion-cbo-says/)
+* [![ABC News media bias Kamala Harris debate](https://www.conservativedailynews.com/wp-content/uploads/2024/09/gv091124dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/focus-on-the-family-demands-abc-corrects-the-record-but-its-not-just-abc-peddling-misinformation/)
     
-    [Risks On Gov’t Loans Issued Next Fiscal Year Will Cost Taxpayers More Than $65 Billion, CBO Says](https://www.conservativedailynews.com/2024/09/risks-on-govt-loans-issued-next-fiscal-year-will-cost-taxpayers-more-than-65-billion-cbo-says/)
+    [Focus on The Family Demands ABC Corrects The Record – but it’s not just ABC peddling misinformation](https://www.conservativedailynews.com/2024/09/focus-on-the-family-demands-abc-corrects-the-record-but-its-not-just-abc-peddling-misinformation/)
     
-    September 10, 2024
+    September 12, 2024
     
-* [![Kamala Harris 2024 election empty pantsuit](https://www.conservativedailynews.com/wp-content/uploads/2024/08/stg082624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/what-lies-will-kamala-harris-tell-on-the-debate-stage/)
+* [![Kamala Harris ABC News Media Bias](https://www.conservativedailynews.com/wp-content/uploads/2024/09/stg091224dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/the-3-against-1-harris-and-the-2-moderators-abc-news-debate-against-donald-trump/)
     
-    [What Lies Will Kamala Harris Tell On The Debate Stage?](https://www.conservativedailynews.com/2024/09/what-lies-will-kamala-harris-tell-on-the-debate-stage/)
+    [The 3 against 1 (Harris and the 2 “Moderators”) ABC News Debate against Donald Trump](https://www.conservativedailynews.com/2024/09/the-3-against-1-harris-and-the-2-moderators-abc-news-debate-against-donald-trump/)
     
-    September 10, 2024
+    September 12, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/wedding-gce23393c5_1920-220x150.jpg)](https://www.conservativedailynews.com/2024/09/a-wedding-from-hel/)
+* [![Kamala Harris ABC News Media Bias](https://www.conservativedailynews.com/wp-content/uploads/2024/09/stg091224dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/partial/)
     
-    [A Wedding From HEL](https://www.conservativedailynews.com/2024/09/a-wedding-from-hel/)
+    [Partial](https://www.conservativedailynews.com/2024/09/partial/)
     
-    September 10, 2024
+    September 12, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/05/Mark-Levin.jpg)](https://www.conservativedailynews.com/2024/09/mark-levin-announces-major-injury-will-keep-him-away-from-mic/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/IMG_5590-220x150.jpeg)](https://www.conservativedailynews.com/2024/09/the-independents-won-the-debate/)
     
-    [Mark Levin Announces Major Injury Will Keep Him Away From Mic](https://www.conservativedailynews.com/2024/09/mark-levin-announces-major-injury-will-keep-him-away-from-mic/)
+    [The Independents Won The Debate](https://www.conservativedailynews.com/2024/09/the-independents-won-the-debate/)
     
-    September 10, 2024
+    September 12, 2024
     
-* [![gender surgery pediaquack](https://www.conservativedailynews.com/wp-content/uploads/2023/06/mrz061323dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/president-of-medical-society-explains-why-he-wont-do-sex-change-procedures-for-kids/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/the-economy-220x150.jfif)](https://www.conservativedailynews.com/2024/09/inflation-rate-inches-down-as-economy-continues-to-slow/)
     
-    [President Of Medical Society Explains Why He Won’t Do Sex Change Procedures For Kids](https://www.conservativedailynews.com/2024/09/president-of-medical-society-explains-why-he-wont-do-sex-change-procedures-for-kids/)
+    [Inflation Rate Inches Down As Economy Continues To Slow](https://www.conservativedailynews.com/2024/09/inflation-rate-inches-down-as-economy-continues-to-slow/)
     
-    September 10, 2024
+    September 12, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/03/Kamala_Harris_48004691487-220x150.jpg)](https://www.conservativedailynews.com/2024/09/kamalas-debate-prep-with-lead-google-attorney-sets-off-alarm-bells-with-govt-watchdogs/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/03-sinkingpolic-ci-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/09/gaslighter/)
     
-    [Kamala’s Debate Prep With Lead Google Attorney Sets Off Alarm Bells With Gov’t Watchdogs](https://www.conservativedailynews.com/2024/09/kamalas-debate-prep-with-lead-google-attorney-sets-off-alarm-bells-with-govt-watchdogs/)
+    [Gaslighter](https://www.conservativedailynews.com/2024/09/gaslighter/)
     
-    September 9, 2024
+    September 12, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
-* [Bear Creek Arsenal Offers New 7mm Magnum AR](https://www.thegunpage.com/bear-creek-arsenal-offers-new-7mm-magnum-ar/10610441)
-* [Pervert Popped Crawling Into Girl’s Bedroom Window in Chicago](https://www.thegunpage.com/pervert-popped-crawling-into-girls-bedroom-window-in-chicago/10610434)
-* [Sig Sauer Announces The New KILO6K-HDX Gen II Rangefinding Binoculars](https://www.thegunpage.com/sig-sauer-announces-the-new-kilo6k-hdx-gen-ii-rangefinding-binoculars/10610442)
-* [CCKRBA Calls Out VP Harris For Seeking Removal Of School Resource Officers](https://www.thegunpage.com/cckrba-calls-out-vp-harris-for-seeking-removal-of-school-resource-officers/10610430)
-* [2024 Daisy BB Gun Nationals Communication Contest Winners](https://www.thegunpage.com/2024-daisy-bb-gun-nationals-communication-contest-winners/10610443)
-* [Brandon Powell Wins High Over All At 2024 Northeast Regional Sporting Clays Championship](https://www.thegunpage.com/brandon-powell-wins-high-over-all-at-2024-northeast-regional-sporting-clays-championship/10610440)
-* [New: Springfield Armory Optics-Ready 1911 AOS Pistols](https://www.thegunpage.com/new-springfield-armory-optics-ready-1911-aos-pistols/10610433)
-* [New: Magpul DT-PR Stock](https://www.thegunpage.com/new-magpul-dt-pr-stock/10610432)
-* [SSUSA Q&A: What Is Dry-Firing?](https://www.thegunpage.com/ssusa-qa-what-is-dry-firing/10610429)
-* [Best Glock 19 Holsters](https://www.thegunpage.com/best-glock-19-holsters/10610425)
+* [TFB Review: Delta Optical Stryker HD 1-10×28 SDOG-1 (MRAD) Riflescope](https://www.thegunpage.com/tfb-review-delta-optical-stryker-hd-1-10x28-sdog-1-mrad-riflescope/10610522)
+* [POTD: Green Berets In Training](https://www.thegunpage.com/potd-green-berets-in-training/10610523)
+* [Concealed Carry Corner: Setting Up A Carry Bag](https://www.thegunpage.com/concealed-carry-corner-setting-up-a-carry-bag/10610524)
+* [DA Targets Self-Healing Targets](https://www.thegunpage.com/da-targets-self-healing-targets/10610521)
+* [NH: Anti-Gunners are acting up again!](https://www.thegunpage.com/nh-anti-gunners-are-acting-up-again/10610517)
+* [Senator Introduces Resolution to Keep Names of Mass Shooters Out of Media](https://www.thegunpage.com/senator-introduces-resolution-to-keep-names-of-mass-shooters-out-of-media/10610515)
+* [Steelhead Outdoors Launches The Scout 25 High-Security Ammo Cabinet](https://www.thegunpage.com/steelhead-outdoors-launches-the-scout-25-high-security-ammo-cabinet/10610519)
+* [Galco's Corvus Speed Cut Belt & IWB Holster Available For 1911s](https://www.thegunpage.com/galcos-corvus-speed-cut-belt-iwb-holster-available-for-1911s/10610520)
+* [Texas Border Gun Shop Owner Says Guns Purchases Increasing](https://www.thegunpage.com/texas-border-gun-shop-owner-says-guns-purchases-increasing/10610512)
+* [Do Austrian Special Forces Prefer the AR-15 or the AUG?](https://www.thegunpage.com/do-austrian-special-forces-prefer-the-ar-15-or-the-aug/10610510)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -228,15 +226,15 @@ Contact Us
 
 Recent Comments
 
+* Nathan Z. Solomon on [Trump Should Propose a 15% Single Tax Rate for All](https://www.conservativedailynews.com/2024/09/trump-should-propose-a-15-single-tax-rate-for-all/#comment-782014)
+* Sara on [Kamala Harris Will Shut Down X If Elected](https://www.conservativedailynews.com/2024/09/kamala-harris-will-shut-down-x-if-elected/#comment-782013)
+* Michael Busler on [Trump Should Propose a 15% Single Tax Rate for All](https://www.conservativedailynews.com/2024/09/trump-should-propose-a-15-single-tax-rate-for-all/#comment-782007)
 * kaycee on [What Do Nancy Pelosi And The Vatican Have In Common?](https://www.conservativedailynews.com/2024/09/what-do-nancy-pelosi-and-the-vatican-have-in-common/#comment-782003)
 * KayCee on [What Do Nancy Pelosi And The Vatican Have In Common?](https://www.conservativedailynews.com/2024/09/what-do-nancy-pelosi-and-the-vatican-have-in-common/#comment-782002)
 * Mr. Nathan Z. Solomon on [Trump Should Propose a 15% Single Tax Rate for All](https://www.conservativedailynews.com/2024/09/trump-should-propose-a-15-single-tax-rate-for-all/#comment-782001)
 * Leonard J Testa on [Venezuelan Migrant Appears To Fight Back Tears, Says She’d ‘Return’ To Country After Living In Blue State](https://www.conservativedailynews.com/2024/09/venezuelan-migrant-appears-to-fight-back-tears-says-shed-return-to-country-after-living-in-blue-state/#comment-781996)
 * [clm](http://conservativedailynews.com/) on [Venezuelan Migrant Appears To Fight Back Tears, Says She’d ‘Return’ To Country After Living In Blue State](https://www.conservativedailynews.com/2024/09/venezuelan-migrant-appears-to-fight-back-tears-says-shed-return-to-country-after-living-in-blue-state/#comment-781939)
 * Richard McDonough on [American Pravda’s “Legally Wrong and Dangerous” Never-ending Anti-Trump Propaganda](https://www.conservativedailynews.com/2024/09/american-pravdas-legally-wrong-and-dangerous-never-ending-anti-trump-propaganda/#comment-781936)
-* Jeff L. on [American Pravda’s “Legally Wrong and Dangerous” Never-ending Anti-Trump Propaganda](https://www.conservativedailynews.com/2024/09/american-pravdas-legally-wrong-and-dangerous-never-ending-anti-trump-propaganda/#comment-781931)
-* James Martin on [American Pravda’s “Legally Wrong and Dangerous” Never-ending Anti-Trump Propaganda](https://www.conservativedailynews.com/2024/09/american-pravdas-legally-wrong-and-dangerous-never-ending-anti-trump-propaganda/#comment-781915)
-* Average American on [The Evil of Cowardice](https://www.conservativedailynews.com/2024/09/the-evil-of-cowardice/#comment-781879)
 
 [Close](#)
 
