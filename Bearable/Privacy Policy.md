@@ -1,6 +1,4 @@
-[![cropped-logo.png](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20259%20250'%3E%3C/svg%3E "cropped-logo.png")
-
-![cropped-logo.png](https://bearable.app/wp-content/uploads/2020/11/cropped-logo.png "cropped-logo.png")](https://bearable.app/)
+[![cropped-logo.png](https://bearable.app/wp-content/uploads/2020/11/cropped-logo.png "cropped-logo.png")](https://bearable.app/)
 
 [Bearable](https://bearable.app/)
 ---------------------------------
@@ -424,12 +422,12 @@ Menu
 [Bearable](https://bearable.app/)
 ---------------------------------
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20259%20250'%3E%3C/svg%3E)
-
-![](https://bearable.app/wp-content/uploads/2020/11/cropped-logo.png)](https://bearable.app/)
+[![](https://bearable.app/wp-content/uploads/2020/11/cropped-logo.png)](https://bearable.app/)
 
 ©2024 Bearable Ltd
 
 [Privacy Policy](http://bearable.app/privacy-policy)
 
 [Terms & Conditions](http://bearable.app/terms-and-conditions)
+
+![](https://www.facebook.com/tr?id=1464682303877027&ev=PageView&noscript=1&cd%5Bpage_title%5D=Privacy+Policy&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=3&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=bearable.app%2Fprivacy-policy%2F)
