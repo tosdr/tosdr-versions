@@ -8,9 +8,8 @@ Toggle navigation
 * [Events](https://www.lexology.com/events)
 * Awards
     
-    * [Client Choice](https://www.lexology.com/clientchoice)
     * [Influencers](https://www.lexology.com/influencers)
-    * [WWL Awards 2023](https://events.whoswholegal.com/event/90a11a68-a9d8-48d5-a613-bf22c5f6d576/summary)
+    * [WWL Awards 2024](https://events.whoswholegal.com/lnGyzr?RefId=lexawardstab)
     
     **Introducing Instruct Counsel**
     
