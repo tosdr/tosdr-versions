@@ -71,6 +71,7 @@ Toggle navigation
     * [DevOps](https://github.com/resources/articles/devops)
     * [Security](https://github.com/resources/articles/security)
     * [Software Development](https://github.com/resources/articles/software-development)
+    * [View all](https://github.com/resources/articles)
     
     Explore
     
@@ -151,14 +152,14 @@ Cancel Create saved search
 
 [Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fspesmilo%2Felectrum%2Fblob%2F1102ea50e878d02c126cbb27480abb39e74e0534%2FLICENCE)
 
-[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&source=header-repo&source_repo=spesmilo%2Felectrum)
+[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&source=header-repo&source_repo=spesmilo%2Felectrum) Reseting focus
 
 You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
 
 [spesmilo](https://github.com/spesmilo) / **[electrum](https://github.com/spesmilo/electrum)** Public
 
 * [Notifications](https://github.com/login?return_to=%2Fspesmilo%2Felectrum) You must be signed in to change notification settings
-* [Fork 3k](https://github.com/login?return_to=%2Fspesmilo%2Felectrum)
+* [Fork 3.1k](https://github.com/login?return_to=%2Fspesmilo%2Felectrum)
 * [Star 7.3k](https://github.com/login?return_to=%2Fspesmilo%2Felectrum)
     
 
