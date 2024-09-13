@@ -321,6 +321,7 @@ Do Not Track signals are a web browser setting or mechanism used to indicate to 
     * [Instant Payments](https://www.dwolla.com/features/instant-payments)
 * [Features](javascript:;)
     * [Digital Wallet](https://www.dwolla.com/features/digital-wallet)
+    * [Open Banking](https://www.dwolla.com/features/open-banking-services)
     * [Dwolla Dashboard](https://www.dwolla.com/features/dashboard)
     * [Mass Pay](https://www.dwolla.com/features/mass-pay)
     * [Drop-In Components](https://www.dwolla.com/features/drop-in-components/)
