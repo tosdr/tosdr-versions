@@ -264,7 +264,7 @@ English
 
 ![](https://storage.googleapis.com/landing-strapi-v4/assets/png/visma-white-logo-rsFZgPKaCHGaHxSGAnKW7F.png)
 
-[Visma Group](https://www.visma.com/careers)[Visma in Spain](https://www.visma.es/)[Visma Careers](https://www.visma.com/careers)
+[Visma Group](https://www.visma.com/)[Visma in Spain](https://www.visma.es/)[Visma Careers](https://www.visma.com/careers)
 
 Footer
 
@@ -307,4 +307,4 @@ English
 
 ![](https://storage.googleapis.com/landing-strapi-v4/assets/png/visma-white-logo-rsFZgPKaCHGaHxSGAnKW7F.png)
 
-[Visma Group](https://www.visma.com/careers)[Visma in Spain](https://www.visma.es/)[Visma Careers](https://www.visma.com/careers)
+[Visma Group](https://www.visma.com/)[Visma in Spain](https://www.visma.es/)[Visma Careers](https://www.visma.com/careers)
