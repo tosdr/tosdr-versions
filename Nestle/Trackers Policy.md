@@ -412,11 +412,11 @@ Main navigation
             [Go to **Local brands**](https://www.nestle.com/brands/chocolate-confectionery/local-brands)
             
         
-    * [Coffee](https://www.nestle.com/brands/coffee-new)
+    * [Coffee](https://www.nestle.com/brands/coffee)
         
         [Back](# "Close Menu")
         
-        [Go to **Coffee**](https://www.nestle.com/brands/coffee-new)
+        [Go to **Coffee**](https://www.nestle.com/brands/coffee)
         
         * [Blue Bottle Coffee](https://www.nestle.com/brands/coffee/blue-bottle-coffee)
             
@@ -1923,101 +1923,58 @@ Share this page
 
 How Nestlé uses cookies and other tracking technology
 
-Thank you for visiting www.nestle.com (“Website”). This cookie notice applies to the Website, any website or branded pages on third party platforms (e.g.YouTube and Facebook) and applications accessed or used through such websites or platforms which are operated by or on behalf of Nestlé (“Nestlé Site”).
+This cookie notice applies to all Nestlé websites and mobile applications ("Nestlé Sites").
 
-By using a Nestlé Site, you are consenting to our use of cookies and other tracking technology in accordance with this notice. If you do not agree to our use of cookies and other tracking technology in this way, you should set your browser settings accordingly or not use the Nestlé Site. If you disable cookies that we use, this may impact your user experience while on the Nestlé Site.
+1\. What are cookies?
+---------------------
 
-When using a mobile device to connect to the internet, you should also refer to the privacy notice of the specific App you are using to understand its specific data collection practices.
+Cookies are text files that are placed on your computer by websites that you visit. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognizes that cookie. They are used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the website.
 
- 
+We use the term "cookies" throughout this notice to also cover all similar technologies, such as web beacons SDK, log files, pixel tags.
 
-### 1\. What are Cookies?
+2\. What types of cookies are used on Nestlé Sites?
+---------------------------------------------------
 
-Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the website. See below for details on what information is collected by cookies and how we use that information.
+You may see what cookies are used on this website by clicking on the Cookie Settings icon at the bottom left of the screen.
 
-For more information about the kinds of data that we generally collect, please read our [privacy notice](https://www.nestle.com/info/yourdata).
+We use the following types of cookies on Nestlé Sites:
 
- 
+#### a) Strictly necessary cookies
 
-### 2\. How and why do we use Cookies?
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms.
 
-We use cookies to improve the use and functionality of Nestlé Sites and to gain a better understanding of how visitors use Nestlé Sites and the tools and services offered on it. Cookies help us tailor Nestlé Sites to your personal needs, to improve user-friendliness, gain customer satisfaction feedback and to communicate to you elsewhere on the internet.
+#### b) Functionality cookies
 
- 
+These cookies enable the website to provide enhanced functionality and personalization. They may be set by us or by third party service providers. Functionality cookies allow to remember your preferences when you navigate the site and use our features, such as registration, logging in, language, location, and product favorites. If you disable these cookies certain parts of the website will not function properly for you. When you are browsing on our sites, these cookies will remember your preferences (like your language or location), and other information you choose to provide to us, so we can help tailor your experience and make it more relevant and personal to you.
 
-### 3\. What types of cookies may be used on Nestlé Sites?
+#### c) Performance cookies
 
-We may use the following types of cookies on Nestlé Sites:
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us measure and analyze how you use our websites, apps and mobile platforms, to know which pages are the most and least popular and see how visitors move around the site to improve both its functionality and your experience.
 
-#### Session cookies
+#### d) Targeting cookies
 
-Session cookies are temporary cookie files which are erased when you close your browser. When you restart your browser and go back to the site that created that cookie, the website will treat you as a new visitor.
+These cookies are used to deliver ads relevant to you. They also limit the number of times that you see an ad and help us measure the effectiveness of our marketing campaigns. We may also use the information obtained via these cookies to serve you with advertising that may be of interest to you based on your past online behaviour. We may share this information with other parties, including our partners.
 
-#### Persistent cookies
+#### e) Social media cookies
 
-Persistent cookies stay on your browser until you delete them manually or until your browser deletes them based on the duration period set within the cookie. These cookies will recognise you as a return visitor.
+These cookies are used by social media services added to our site to enable you to share content with your friends and networks e.g. by using a social media sharing button on a Nestle Site. The social network will record that you have done this. This information may be linked to targeting/advertising activities.
 
-#### Necessary cookies
+6\. Manage your cookies preferences
+-----------------------------------
 
-Necessary cookies are strictly necessary for the operation of a Nestlé Site. They enable you to navigate around the site and use our features.
+You may access and change your cookie preferences at any time by clicking on the Cookie Settings icon at the bottom left of the screen.
 
-#### Cookies that send information to us
+7\. Notice update
+-----------------
 
-These are the cookies that we set on a Nestlé Sites and they can only be read by that site. This is known as a “First Party” cookie.
+We reserve the right to make any changes and corrections to this Notice. Please refer to this page from time to time to review these and new additional information. We will place updates on Nestlé Sites and, where appropriate, we will notify of any changes by email.
 
-We also place cookies on Nestlé ads which are placed on other websites owned by third parties (e.g. Facebook). We obtain information via those cookies when you click on or interact with the advertisement. In this situation Nestlé is placing a “Third Party” cookie. Nestlé may use the information obtained by these cookies to serve you with advertising that is relevant and of interest to you based on your past online behaviour.
+8\. Privacy policy
+------------------
 
-#### Cookies that send information to other companies
+For further information about how your data is used (including controller details), please see our [Privacy Notice](https://www.nestle.com/info/privacy).
 
-These are cookies that are set on a Nestlé Site by our partner companies (e.g. Facebook or advertisers). They may use the data collected from these cookies to anonymously target advertising to you on other websites, based on your visit to this Website. For example, if you use a social widget (e.g. the Facebook icon) on the Website, it will record your “share” or “like”. Facebook (as the company setting the cookie) will collect the data.
-
- 
-
-### 4\. Examples of cookies used on this Website
-
- 
-
-| Cookie used/  <br>type and  <br>category | Purpose | Does this cookie  <br>collect my personal  <br>data? | Details |
-| --- | --- | --- | --- |
-| **Performance Cookies**<br><br>Type:  <br>Analytics<br><br>Category:  <br>Persistent  <br>Session  <br>Third party | Help us understand how visitors interact with our Website by providing information about the areas visited, time spent and any issues encountered, such as error messages. This helps us improve the performance of our websites. | No, they do not identify you as an individual. All data is collected and aggregated anonymously. | [Google Analytics Cookie Usage on Websites](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage "Opens in a new window:  Google Developers website")<br><br>[DoubleClick cookies](https://policies.google.com/technologies/types?hl=en-US "Opens in a new window: Support Google website") |
-| **Social Sharing Cookies (sometimes called “Third Party” cookies, or “Social Widgets”)**<br><br>Type:  <br>Social Media/Sharing<br><br>Category:  <br>Third Party | Social sharing offered on the Website is run by third parties. These third parties may drop cookies on your computer when you use social sharing features on the Website, or if you are already logged into them. These cookies help improve your experience on the Website.<br><br>They allow you to share comments/ratings/pages/bookmarks and help to provide access to social networks and social online tools more easily. | These cookies may collect personal information that you have voluntarily disclosed, such as your username. | [About Facebook Social Plugins](https://apps.ghostery.com/en/apps/facebook_social_plugins "Opens in a new window: Ghostery website")<br><br>[About Twitter](https://apps.ghostery.com/en/apps/twitter_button "Opens in a new window: Ghostery website") |
-| **Targeting/Advertising**<br><br>Type:  <br>Cross Site Tracking<br><br>Category:  <br>Persistent  <br>Session  <br>Third party | These cookies are used to deliver content via targeted advertising that is relevant to you and your interests or to limit the number of times you see a particular advertisement.<br><br>These cookies also help us measure the effectiveness of advertising campaigns on Nestlé and Non-Nestlé websites. We may share this information with other parties, including our agencies. | Most Targeting/Advertising cookies track consumers via their IP address. In some countries IP addresses are classified as personal data. | [About DoubleClick](https://apps.ghostery.com/en/apps/doubleclick "Opens in a new window: Ghostery website") |
-
- 
-
-### 5\. Other similar technologies
-
-Nestlé Sites also make use of other tracking technologies including IP addresses, log files and web beacons, which also help us tailor Nestlé Sites to your personal needs.
-
-_IP addresses_
-
-An IP address is a number that is used by computers on the network to identify your computer every time you log on to the Internet. We may record IP Addresses for the following purposes: (i) troubleshoot technical concerns, (ii) maintain website safety and security (iii) better understand how our websites are utilised, and (iv) to better tailor content to your needs depending on the country you are in.
-
-_Log Files_
-
-We (or a third party on our behalf) may collect information in the form of logs files that record website activity and gather statistics about a user’s browsing habits. These entries are generated anonymously, and help us gather (among other things) (i) a user’s browser type and operating system, (ii) information about a user’s session (such as the URL they came from, the date and time they visited our website, and which pages they've viewed on our website and for how long), and, (iii) other similar navigational or click-stream data.
-
-_Web Beacons_
-
-We may use web beacons (or clear GIFs) on the Nestlé Sites. Web beacons (also known as “web bugs”) are small strings of code that provide a method of delivering a graphic image on a web page for the purpose of transferring data back to us. The information collected via web beacons may include information about how a user responds to an email campaign (e.g. the time the email is opened, where does the user link to from the email, etc.). We use web beacon information for a variety of purposes, including, site traffic reporting, unique visitor counts, advertising and email auditing and reporting, and personalisation.
-
- 
-
-### 6\. Manage your cookies / preferences
-
-You should ensure that your computer setting reflects whether you are happy to accept cookies or not. You can set your browser to warn you before accepting cookies, or you can simply set it to refuse them. You do not need to have cookies on to use or navigate through many parts of Nestlé Sites although you may not have access to all the features on Nestlé Sites if you do so. See the 'help' button on your browser (e.g. Internet Explorer, Firefox) for how you can do this. Remember that if you use different computers in different locations, you will need to ensure that each browser is adjusted to suit your cookie preferences.
-
-As a web beacon forms part of a webpage, it is not possible to ‘opt-out’ but you can render them ineffective by opting out of the cookies they set.
-
-Additionally, where available, you can exercise your choice in allowing for cookies to be placed on your computer or to opt-out of cookies by visiting the following sites andAbout Ads websiteselecting which company’s cookies you would like to opt out of: [Digital Advertising Alliance Consumer Choice Page](http://www.aboutads.info/choices/#completed "Opens in a new window: About Ads website") or [Your Online Choices](http://www.youronlinechoices.eu/ "Opens in a new window: Your Online Choices website").
-
- 
-
-### 7\. Legal Notice update
-
-We reserve the right to make any changes and corrections to this notice. Please refer to this page from time to time to review these and new additional information.
-
-This notice was last updated November 2015
+This notice was last updated September 2024.
 
 Share this page
 
