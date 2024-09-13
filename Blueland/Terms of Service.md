@@ -141,41 +141,36 @@ Certain content, products and services available via our Service may include mat
 Third-party links on this site may direct you to third-party websites that are not affiliated with us. We are not responsible for examining or evaluating the content or accuracy and we do not warrant and will not have any liability or responsibility for any third-party materials or websites, or for any other materials, products, or services of third-parties.  
 We are not liable for any harm or damages related to the purchase or use of goods, services, resources, content, or any other transactions made in connection with any third-party websites. Please review carefully the third-party's policies and practices and make sure you understand them before you engage in any transaction. Complaints, claims, concerns, or questions regarding third-party products should be directed to the third-party.
 
-SECTION 9 - SMS MOBILE MESSAGE MANAGEMENT PROGRAM TERMS AND CONDITIONS
+SECTION 9 - SMS MOBILE MESSAGE MANAGEMENT SERVICE TERMS AND CONDITIONS
 
-ReChargeSMS (hereinafter, “We,” “Us,” “Our”) is offering a mobile messaging program (the “Program”), which you agree to use and participate in subject to these Mobile Messaging Terms and Conditions and Privacy Policy (the “Agreement”). By opting in to or participating in any of our Programs, you accept and agree to these terms and conditions, including, without limitation, your agreement to resolve any disputes with us through binding, individual-only arbitration, as detailed in the “Dispute Resolution” section below. This Agreement is limited to the Program and is not intended to modify other Terms and Conditions or Privacy Policy that may govern the relationship between you and Us in other contexts.
+The Blueland mobile message service (the "Service") is operated by One Home Brands, Inc (“Blueland”, “we”, or “us”). Your use of the Service constitutes your agreement to these terms and conditions (“Mobile Terms”). We may modify or cancel the Service or any of its features without notice. To the extent permitted by applicable law, we may also modify these Mobile Terms at any time and your continued use of the Service following the effective date of any such changes shall constitute your acceptance of such changes.
 
-  
-User Opt In  
-The Program allows Users to receive SMS mobile messages by affirmatively opting into the Program, such as through online or application-based enrollment forms. Regardless of the opt-in method you utilized to join the Program, you agree that this Agreement applies to your participation in the Program. By participating in the Program, you agree to receive autodialed or predetermined mobile messages at the phone number associated with your opt-in, and you understand that consent is not required to make any purchase from Us. While you consent to receive messages sent using an autodialer, the foregoing shall not be interpreted to suggest or imply that any or all of Our mobile messages are sent using an automatic telephone dialing system (“ATDS” or “autodialer”). Message and data rates may apply.
+By consenting to Blueland’s SMS/text messaging service, you agree to receive recurring SMS/text messages from and on behalf of Blueland through your wireless provider to the mobile number you provided, even if your mobile number is registered on any state or federal Do Not Call list. Text messages may be sent using an automatic telephone dialing system or other technology. Service-related messages may include updates, alerts, and information (e.g., order updates, account alerts, etc.). Promotional messages may include promotions, specials, and other marketing offers (e.g., cart reminders).
 
-  
-User Opt Out  
-If you do not wish to continue participating in the Program or no longer agree to this Agreement, you agree to reply STOP, STOPALL, to any mobile message from Us in order to opt out of the Program. You may receive an additional mobile message confirming your decision to opt out. You understand and agree that the foregoing options are the only reasonable methods of opting out. You also understand and agree that any other method of opting out, including, but not limited to, texting words other than those set forth above or verbally requesting one of our employees to remove you from our list, is not a reasonable means of opting out.
+You understand that you do not have to sign up for this program or the Service in order to make any purchases, and your consent is not a condition of any purchase with Blueland. Your participation in this program or the Service is completely voluntary.
 
-  
-Duty to Notify and Indemnify  
-If at any time you intend to stop using the mobile telephone number that has been used to subscribe to the Program, including canceling your service plan or selling or transferring the phone number to another party, you agree that you will complete the User Opt Out process set forth above prior to ending your use of the mobile telephone number. You understand and agree that your agreement to do so is a material part of these terms and conditions. You further agree that, if you discontinue the use of your mobile telephone number without notifying Us of such change, you agree that you will be responsible for all costs (including attorneys’ fees) and liabilities incurred by Us, or any party that assists in the delivery of the mobile messages, as a result of claims brought by individual(s) who are later assigned that mobile telephone number. This duty and agreement shall survive any cancellation or termination of your agreement to participate in any of our Programs.  
+We do not charge for the Service, but you are responsible for all charges and fees associated with text messaging imposed by your wireless provider. Message frequency varies. Message and data rates may apply. Check your mobile plan and contact your wireless provider for details. You are solely responsible for all charges related to SMS/text messages, including charges from your wireless provider.
+
+You may opt-out of the Service at any time. Text the single keyword command STOP to 73986 or click the unsubscribe link (where available) in any text message to cancel. You'll receive a one-time opt-out confirmation text message. No further messages will be sent to your mobile device, unless initiated by you. If you have subscribed to other Blueland mobile message programs and wish to cancel, except where applicable law requires otherwise, you will need to opt out separately from those programs by following the instructions provided in their respective mobile terms.
+
+For Service support or assistance, text HELP to 73986 or email help@blueland.com.
+
+We may change any short code or telephone number we use to operate the Service at any time and will notify you of these changes. You acknowledge that any messages, including any STOP or HELP requests, you send to a short code or telephone number we have changed may not be received and we will not be responsible for honoring requests made in such messages.
+
+The wireless carriers supported by the Service are not liable for delayed or undelivered messages. You agree to provide us with a valid mobile number. If you get a new mobile number, you will need to sign up for the Service with your new number.
+
+To the extent permitted by applicable law, you agree that we will not be liable for failed, delayed, or misdirected delivery of any information sent through the Service, any errors in such information, and/or any action you may or may not take in reliance on the information or Service. We respect your right to privacy. To see how we collect and use your personal information, please see our[](https://www.blueland.com/privacy-policy)
+
+[Privacy Notice](https://www.blueland.com/privacy-policy)
+
+.
+
+Indemnification for these Mobile Terms  
 YOU AGREE THAT YOU SHALL INDEMNIFY, DEFEND, AND HOLD US HARMLESS FROM ANY CLAIM OR LIABILITY RESULTING FROM YOUR FAILURE TO NOTIFY US OF A CHANGE IN THE INFORMATION YOU HAVE PROVIDED, INCLUDING ANY CLAIM OR LIABILITY UNDER THE TELEPHONE CONSUMER PROTECTION ACT, 47 U.S.C. § 227, et seq., OR SIMILAR STATE AND FEDERAL LAWS, AND ANY REGULATIONS PROMULGATED THEREUNDER RESULTING FROM US ATTEMPTING TO CONTACT YOU AT THE MOBILE TELEPHONE NUMBER YOU PROVIDED.
 
   
-Program Description  
-Without limiting the scope of the Program, users that opt into the Program can expect to receive messages concerning the management of the users digital subscription, services, and events.
-
-  
-Cost and Frequency  
-Message and data rates may apply. The Program involves recurring mobile messages, and additional mobile messages may be sent periodically based on your interaction with Us.
-
-  
-Support Instructions  
-For support regarding the Program, text “HELP” to the number you received messages from or email us at wesley@rechargeapps.com. Please note that the use of this email address is not an acceptable method of opting out of the program. Opt outs must be submitted in accordance with the procedures set forth above.
-
-  
 Our Disclaimer of Warranty  
-The Program is offered on an "as-is" basis and may not be available in all areas at all times and may not continue to work in the event of product, software, coverage or other changes made by your wireless carrier. We will not be liable for any delays or failures in the receipt of any mobile messages connected with this Program. Delivery of mobile messages is subject to effective transmission from your wireless service provider/network operator and is outside of Our control. T-Mobile is not liable for delayed or undelivered mobile messages.
-
-  
-Participant Requirements You must have a wireless device of your own, capable of two-way messaging, be using a participating wireless carrier, and be a wireless service subscriber with text messaging service. Not all cellular phone providers carry the necessary service to participate. Check your phone capabilities for specific text messaging instructions.
+The Service is offered on an "as-is" basis and may not be available in all areas at all times and may not continue to work in the event of product, software, coverage or other changes made by your wireless carrier. We will not be liable for any delays or failures in the receipt of any mobile messages connected with this Service. Delivery of mobile messages is subject to effective transmission from your wireless service provider/network operator and is outside of Our control.
 
   
 Age Restriction  
@@ -193,12 +188,12 @@ You acknowledge and agree to not send any prohibited content over the Platform. 
 * Any other content that is prohibited by Applicable Law in the jurisdiction from which the message is sent.
 
 Dispute Resolution  
-In the event that there is a dispute, claim, or controversy between you and Us, or between you and ReChargeSMS or any other third-party service provider acting on Our behalf to transmit the mobile messages within the scope of the Program, arising out of or relating to federal or state statutory claims, common law claims, this Agreement, or the breach, termination, enforcement, interpretation or validity thereof, including the determination of the scope or applicability of this agreement to arbitrate, such dispute, claim, or controversy will be, to the fullest extent permitted by law, determined by arbitration in Los Angeles, California before one arbitrator.
+In the event that there is a dispute, claim, or controversy between you and Us, or between you and any other third-party service provider acting on Our behalf to transmit the mobile messages within the scope of the Service, arising out of or relating to federal or state statutory claims, common law claims, this Agreement, or the breach, termination, enforcement, interpretation or validity thereof, including the determination of the scope or applicability of this agreement to arbitrate, such dispute, claim, or controversy will be, to the fullest extent permitted by law, determined before one arbitrator.
 
-The parties agree to submit the dispute to binding arbitration in accordance with the Commercial Arbitration Rules of the American Arbitration Association (“AAA”) then in effect. Except as otherwise provided herein, the arbitrator shall apply the substantive laws of the Federal Judicial Circuit in which ReChargeSMS’s principle place of business is located, without regard to its conflict of laws rules. Within ten (10) calendar days after the arbitration demand is served upon a party, the parties must jointly select an arbitrator with at least five years’ experience in that capacity and who has knowledge of and experience with the subject matter of the dispute. If the parties do not agree on an arbitrator within ten (10) calendar days, a party may petition the AAA to appoint an arbitrator, who must satisfy the same experience requirement. In the event of a dispute, the arbitrator shall decide the enforceability and interpretation of this arbitration agreement in accordance with the Federal Arbitration Act (“FAA”). The parties also agree that the AAA’s rules governing Emergency Measures of Protection shall apply in lieu of seeking emergency injunctive relief from a court. The decision of the arbitrator shall be final and binding, and no party shall have rights of appeal except for those provided in section 10 of the FAA. Each party shall bear its share of the fees paid for the arbitrator and the administration of the arbitration; however, the arbitrator shall have the power to order one party to pay all or any portion of such fees as part of a well-reasoned decision. The parties agree that the arbitrator shall have the authority to award attorneys’ fees only to the extent expressly authorized by statute or contract. The arbitrator shall have no authority to award punitive damages and each party hereby waives any right to seek or recover punitive damages with respect to any dispute resolved by arbitration. The parties agree to arbitrate solely on an individual basis, and this agreement does not permit class arbitration or any claims brought as a plaintiff or class member in any class or representative arbitration proceeding. Except as may be required by law, neither a party nor the arbitrator may disclose the existence, content, or results of any arbitration without the prior written consent of both parties, unless to protect or pursue a legal right. If any term or provision of this Section is invalid, illegal, or unenforceable in any jurisdiction, such invalidity, illegality, or unenforceability shall not affect any other term or provision of this Section or invalidate or render unenforceable such term or provision in any other jurisdiction. If for any reason a dispute proceeds in court rather than in arbitration, the parties hereby waive any right to a jury trial. This arbitration provision shall survive any cancellation or termination of your agreement to participate in any of our Programs.
+The parties agree to submit the dispute to binding arbitration in accordance with the Commercial Arbitration Rules of the American Arbitration Association (“AAA”) then in effect. Except as otherwise provided herein, the arbitrator shall apply the substantive laws of the Federal Judicial Circuit in which Blueland's principle place of business is located, without regard to its conflict of laws rules. Within ten (10) calendar days after the arbitration demand is served upon a party, the parties must jointly select an arbitrator with at least five years’ experience in that capacity and who has knowledge of and experience with the subject matter of the dispute. If the parties do not agree on an arbitrator within ten (10) calendar days, a party may petition the AAA to appoint an arbitrator, who must satisfy the same experience requirement. In the event of a dispute, the arbitrator shall decide the enforceability and interpretation of this arbitration agreement in accordance with the Federal Arbitration Act (“FAA”). The parties also agree that the AAA’s rules governing Emergency Measures of Protection shall apply in lieu of seeking emergency injunctive relief from a court. The decision of the arbitrator shall be final and binding, and no party shall have rights of appeal except for those provided in section 10 of the FAA. Each party shall bear its share of the fees paid for the arbitrator and the administration of the arbitration; however, the arbitrator shall have the power to order one party to pay all or any portion of such fees as part of a well-reasoned decision. The parties agree that the arbitrator shall have the authority to award attorneys’ fees only to the extent expressly authorized by statute or contract. The arbitrator shall have no authority to award punitive damages and each party hereby waives any right to seek or recover punitive damages with respect to any dispute resolved by arbitration. The parties agree to arbitrate solely on an individual basis, and this agreement does not permit class arbitration or any claims brought as a plaintiff or class member in any class or representative arbitration proceeding. Except as may be required by law, neither a party nor the arbitrator may disclose the existence, content, or results of any arbitration without the prior written consent of both parties, unless to protect or pursue a legal right. If any term or provision of this Section is invalid, illegal, or unenforceable in any jurisdiction, such invalidity, illegality, or unenforceability shall not affect any other term or provision of this Section or invalidate or render unenforceable such term or provision in any other jurisdiction. If for any reason a dispute proceeds in court rather than in arbitration, the parties hereby waive any right to a jury trial. This arbitration provision shall survive any cancellation or termination of your agreement to participate in any of our Services.
 
   
-Miscellaneous: You warrant and represent to Us that you have all necessary rights, power, and authority to agree to these Terms and perform your obligations hereunder, and nothing contained in this Agreement or in the performance of such obligations will place you in breach of any other contract or obligation. The failure of either party to exercise in any respect any right provided for herein will not be deemed a waiver of any further rights hereunder. If any provision of this Agreement is found to be unenforceable or invalid, that provision will be limited or eliminated to the minimum extent necessary so that this Agreement will otherwise remain in full force and effect and enforceable. Any new features, changes, updates or improvements of the Program shall be subject to this Agreement unless explicitly stated otherwise in writing. We reserve the right to change this Agreement from time to time. Any updates to this Agreement shall be communicated to you. You acknowledge your responsibility to review this Agreement from time to time and to be aware of any such changes. By continuing to participate in the Program after any such changes, you accept this Agreement, as modified.
+Miscellaneous: You warrant and represent to Us that you have all necessary rights, power, and authority to agree to these Terms and perform your obligations hereunder, and nothing contained in this Agreement or in the performance of such obligations will place you in breach of any other contract or obligation. The failure of either party to exercise in any respect any right provided for herein will not be deemed a waiver of any further rights hereunder. If any provision of this Agreement is found to be unenforceable or invalid, that provision will be limited or eliminated to the minimum extent necessary so that this Agreement will otherwise remain in full force and effect and enforceable. Any new features, changes, updates or improvements of the Service shall be subject to this Agreement unless explicitly stated otherwise in writing. We reserve the right to change this Agreement from time to time. Any updates to this Agreement shall be communicated to you. You acknowledge your responsibility to review this Agreement from time to time and to be aware of any such changes. By continuing to participate in the Service after any such changes, you accept this Agreement, as modified.
 
 SECTION 10 - USER COMMENTS, FEEDBACK AND OTHER SUBMISSIONS
 
@@ -274,6 +269,12 @@ Email AddressSubmit
 You've joined the movement!
 
 Oops, something went wrong
+
+By signing up, you consent to our[](https://www.blueland.com/privacy-policy)
+
+[Privacy Policy](https://www.blueland.com/privacy-policy)
+
+. You may unsubscribe at any time.
 
 * [![Blueland: Eco-Friendly Cleaning Products](https://cdn.sanity.io/images/d864s8gp/production/d41921b9a74af010b21cd04da21ebc507926884c-13x13.svg?q=80&fit=max&auto=format)](https://www.instagram.com/blueland/)
 * [![Blueland: Eco-Friendly Cleaning Products](https://cdn.sanity.io/images/d864s8gp/production/b8b6494962c3a199a7597f253c23ff43cb1e345a-96x96.png?q=80&fit=max&auto=format)](https://www.facebook.com/liveblueland/)
@@ -392,14 +393,10 @@ Bestseller
 
 35% Kit Savings](https://www.blueland.com/products/the-clean-suite)
 
-[Clean Suite Kit](https://www.blueland.com/products/the-clean-suite)$98
+[Clean Suite Kit](https://www.blueland.com/products/the-clean-suite)
 
 
----------------------------------------------------------------------------
-
-No Reviews Yet
-
-Quick Add
+------------------------------------------------------------------------
 
 [![Blueland Dishwasher Tablets Starter Set](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
@@ -411,27 +408,19 @@ Quick Add
 
 Bestseller](https://www.blueland.com/products/dishwasher-starter-set)
 
-[Dishwasher Starter Set](https://www.blueland.com/products/dishwasher-starter-set)$25
+[Dishwasher Starter Set](https://www.blueland.com/products/dishwasher-starter-set)
 
 
------------------------------------------------------------------------------------------
-
-No Reviews Yet
-
-Quick Add
+--------------------------------------------------------------------------------------
 
 [![Laundry Starter Set](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
 ![Laundry Starter Set](https://cdn.sanity.io/images/d864s8gp/production/7025db7b813ff428d0930a54bd5579603e9b2600-1790x1790.jpg?w=300&h=300&q=75&fit=clip&auto=format)](https://www.blueland.com/products/laundry-starter-set)
 
-[Laundry Starter Set](https://www.blueland.com/products/laundry-starter-set)$25
+[Laundry Starter Set](https://www.blueland.com/products/laundry-starter-set)
 
 
------------------------------------------------------------------------------------
-
-No Reviews Yet
-
-Quick Add
+--------------------------------------------------------------------------------
 
 [![Toilet Bowl Cleaner Starter Set](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
@@ -443,11 +432,7 @@ Quick Add
 
 Bestseller](https://www.blueland.com/products/toilet-cleaner-starter-set)
 
-[Toilet Bowl Cleaner Starter Set](https://www.blueland.com/products/toilet-cleaner-starter-set)$23
+[Toilet Bowl Cleaner Starter Set](https://www.blueland.com/products/toilet-cleaner-starter-set)
 
 
-------------------------------------------------------------------------------------------------------
-
-No Reviews Yet
-
-Quick Add
+---------------------------------------------------------------------------------------------------
