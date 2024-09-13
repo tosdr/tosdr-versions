@@ -24,8 +24,8 @@ Customer Services Helpline
             * [Cooking Oils](https://www.ethicalsuperstore.com/category/groceries-and-everyday/store-cupboard/oils/)
             * [Tinned Tomatoes & Veg](https://www.ethicalsuperstore.com/category/groceries-and-everyday/store-cupboard/tinned-veg-and-pulses/)
             * [Soup](https://www.ethicalsuperstore.com/category/groceries-and-everyday/store-cupboard/soup/)
-            * [Fish & Seafood](https://www.ethicalsuperstore.com/category/groceries-and-everyday/store-cupboard/fish-and-seafood/)
             * [Coconut](https://www.ethicalsuperstore.com/category/groceries-and-everyday/store-cupboard/coconut/)
+            * [Fish & Seafood](https://www.ethicalsuperstore.com/category/groceries-and-everyday/store-cupboard/fish-and-seafood/)
         * [Pasta & Noodles](https://www.ethicalsuperstore.com/category/groceries-and-everyday/pasta-and-noodles/)
             * [Pasta](https://www.ethicalsuperstore.com/category/groceries-and-everyday/pasta-and-noodles/pasta/)
             * [Noodles](https://www.ethicalsuperstore.com/category/groceries-and-everyday/pasta-and-noodles/noodles/)
@@ -140,9 +140,9 @@ Customer Services Helpline
             
         * [Bin Bags & Foils](https://www.ethicalsuperstore.com/category/cleaning-and-household/bin-bags-and-foils/)
             
-        * [Tissues & Towels](https://www.ethicalsuperstore.com/category/cleaning-and-household/tissues-and-towels/)
-            
         * [Utility & DIY](https://www.ethicalsuperstore.com/category/cleaning-and-household/diy/)
+            
+        * [Tissues & Towels](https://www.ethicalsuperstore.com/category/cleaning-and-household/tissues-and-towels/)
             
         * [Shopping & Storage Bags](https://www.ethicalsuperstore.com/category/cleaning-and-household/shopping-and-storage-bags/)
             
@@ -162,14 +162,14 @@ Customer Services Helpline
             * [Socks & Tights](https://www.ethicalsuperstore.com/category/fashion/womens/socks/)
             * [Nightwear](https://www.ethicalsuperstore.com/category/fashion/womens/nightwear/)
             * [Trousers & Leggings](https://www.ethicalsuperstore.com/category/fashion/womens/trousers/)
-            * [Graphic T-Shirts & Jumpers](https://www.ethicalsuperstore.com/category/fashion/womens/graphic-t_shirt-and-jumpers/)
             * [Swimwear](https://www.ethicalsuperstore.com/category/fashion/womens/swimwear/)
+            * [Graphic T-Shirts & Jumpers](https://www.ethicalsuperstore.com/category/fashion/womens/graphic-t_shirt-and-jumpers/)
             * [Bags](https://www.ethicalsuperstore.com/category/fashion/womens/bags/)
         
         * [Mens](https://www.ethicalsuperstore.com/category/fashion/mens/)
             * [Tops & T-Shirts](https://www.ethicalsuperstore.com/category/fashion/mens/t_shirts/)
-            * [Shirts](https://www.ethicalsuperstore.com/category/fashion/mens/shirts/)
             * [Graphic Tees](https://www.ethicalsuperstore.com/category/fashion/mens/graphic-tees/)
+            * [Shirts](https://www.ethicalsuperstore.com/category/fashion/mens/shirts/)
             * [Trousers & Shorts](https://www.ethicalsuperstore.com/category/fashion/mens/trousers-and-shorts/)
             * [Jackets & Jumpers](https://www.ethicalsuperstore.com/category/fashion/mens/jackets-and-jumpers/)
             * [Pyjamas & Underwear](https://www.ethicalsuperstore.com/category/fashion/mens/underwear/)
@@ -206,8 +206,8 @@ Customer Services Helpline
         * [Garden & Outdoor](https://www.ethicalsuperstore.com/category/home-and-garden/garden-and-outdoor/)
             * [Garden Accessories](https://www.ethicalsuperstore.com/category/home-and-garden/garden-and-outdoor/garden-accessories/)
             * [Plants & Seeds](https://www.ethicalsuperstore.com/category/home-and-garden/garden-and-outdoor/trees-plants-and-seeds/)
-            * [Wildlife](https://www.ethicalsuperstore.com/category/home-and-garden/garden-and-outdoor/wildlife/)
             * [Solar Lighting](https://www.ethicalsuperstore.com/category/home-and-garden/garden-and-outdoor/solar-garden-products/)
+            * [Wildlife](https://www.ethicalsuperstore.com/category/home-and-garden/garden-and-outdoor/wildlife/)
             * [Picnic & Outdoor Living](https://www.ethicalsuperstore.com/category/home-and-garden/garden-and-outdoor/outdoor-furniture/)
         
         * [Kitchen & Dining](https://www.ethicalsuperstore.com/category/home-and-garden/kitchen-and-dining/)
@@ -263,8 +263,8 @@ Customer Services Helpline
             * [Nail Polish](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/make-up/nail-polish/)
         * [For Men](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/for-men/)
             * [Shaving](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/for-men/shaving/)
-            * [Skin Care](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/for-men/skin-care/)
             * [Bath & Shower](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/for-men/bath-and-shower/)
+            * [Skin Care](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/for-men/skin-care/)
         
         * [Dental Care](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/dental-care/)
             * [Toothbrushes](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/dental-care/toothbrushes/)
@@ -307,7 +307,6 @@ Customer Services Helpline
         
         * [Nappy Changing](https://www.ethicalsuperstore.com/category/baby-child-and-toys/nappies/)
             * [Disposable Eco Nappies](https://www.ethicalsuperstore.com/category/baby-child-and-toys/nappies/eco-nappies/)
-            * [Reusable Nappies](https://www.ethicalsuperstore.com/category/baby-child-and-toys/nappies/reusable-nappies/)
             * [Wipes & Essentials](https://www.ethicalsuperstore.com/category/baby-child-and-toys/nappies/wipes-and-creams/)
         * [Bath & Body](https://www.ethicalsuperstore.com/category/baby-child-and-toys/bodycare/)
             * [Bathtime](https://www.ethicalsuperstore.com/category/baby-child-and-toys/bodycare/bathtime/)
@@ -362,7 +361,7 @@ Customer Services Helpline
 
 **Subtotal** (excluding delivery): **£ 0.00**
 
-Delivery options from £0.99
+Delivery options from £4.95
 
  
 
@@ -401,8 +400,8 @@ You are here:
 
 You haven't viewed any products yet
 
-* [99p Standard UK Delivery\*](https://www.ethicalsuperstore.com/help-despatch-and-delivery/)
-* [Summer Sale](https://www.ethicalsuperstore.com/summer-sale)
+* [20% Off Fair Trade\*](https://www.ethicalsuperstore.com/fairtrade-fortnight/)
+* [Clearance Sale](https://www.ethicalsuperstore.com/summer-sale/)
 * [30 day no-quibble returns policy](https://www.ethicalsuperstore.com/help-returns-and-refunds/)
 
 Help - Returns & Refunds
@@ -412,9 +411,9 @@ Help - Returns & Refunds
 
 ### RETURNS POLICY
 
-We want you to be completely satisfied with your purchases. If for any reason you are not satisfied with an item you have ordered, please return it, within the extended Christmas returns period and we will refund your money or send you a replacement.
+We want you to be completely satisfied with your purchases. If for any reason you are not satisfied with an item you have ordered, please return it within 30 days of the date of receipt and we will refund your money or send you a replacement. 
 
-Items returned in this extended period should be returned to us in their original condition including any packaging. Please check the ‘Products we are unable to refund’ section below for exceptions.
+Items returned under our 30 day guarantee should be returned to us in their original condition including any packaging. Please check the ‘Products we are unable to refund’ section below for exceptions.
 
 This guarantee is in addition to your statutory rights.
 
