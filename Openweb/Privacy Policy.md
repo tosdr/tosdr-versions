@@ -4,14 +4,12 @@
 It all starts with a conversation](https://www.openweb.com/)
 
 * Publishers
-    * [The OpenWebOS](https://www.openweb.com/openwebos/)
-    * [Moderation](https://www.openweb.com/openwebos/moderation/)
-    * [Experience](https://www.openweb.com/openwebos/experience/)
-    * [Identity](https://www.openweb.com/openwebos/identity/)
-    * [Activate](https://www.openweb.com/openwebos/activate/)
+    * [Community](https://www.openweb.com/community/)
+    * [Moderation](https://www.openweb.com/community/moderation/)
+    * [Monetization](https://www.openweb.com/monetization/)
 * Advertisers
     * [OpenWeb for Advertisers](https://www.openweb.com/advertisers/)
-    * [Explore our Ad Products](https://www.openweb.com/openweb-ad-products/)
+    * [Explore Ad Products](https://www.openweb.com/advertisers/adproducts/)
 * [Blog](https://www.openweb.com/blog/)
 * Resources
     * [Case Studies](https://www.openweb.com/resources/case-studies/)
@@ -207,17 +205,16 @@ Data Protection Officer: OpenWeb has appointed a Data Protection Officer for mo
 
 [](https://www.openweb.com/)
 
-### Publishers:
+### Publishers
 
-* [The OpenWebOS](https://www.openweb.com/openwebos/)
-* [Moderation](https://www.openweb.com/openwebos/moderation/)
-* [Experience](https://www.openweb.com/openwebos/experience/)
-* [Identity](https://www.openweb.com/openwebos/identity/)
-* [Activate](https://www.openweb.com/openwebos/activate/)
+* [Monetization](https://www.openweb.com/monetization/)
+* [Community](https://www.openweb.com/community/)
+* [Moderation](https://www.openweb.com/community/moderation/)
 
 ### Advertisers:
 
 * [OpenWeb for Advertisers](https://www.openweb.com/advertisers/)
+* [Explore our Products](https://www.openweb.com/advertisers/adproducts/)
 
 ### Resources:
 
