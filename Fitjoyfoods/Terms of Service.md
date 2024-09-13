@@ -82,11 +82,15 @@ Your cart is currently empty.
 
 ![](//fitjoyfoods.com/cdn/shop/files/FCM_x_FItJoy_July_5.jpg?v=1687878575&width=1000)
 
-Attention Cracker Snackers!
+Hey Snackers!
 
-Introducing our **NEW** Grain-Free Cracker Rounds in three delicious flavors: Classic, Pepper Jack & Cheezy White Cheddar.
+Sign up for our newsletter to learn about the latest product launches, promotins & more!
 
-[Dig Into The Details](https://fitjoyfoods.com/collections/grain-free-cracker-rounds)
+ Enter your email Subscribe  
+
+Subscribe icon-right-arrow
+
+[Or, explore out full lineup](https://fitjoyfoods.com/collections/all)
 
 "Close (esc)"
 
