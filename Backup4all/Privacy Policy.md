@@ -301,15 +301,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How do I use the history](https://www.backup4all.com/how-do-i-use-the-history-kb.html)  
+* [How to use the backup list](https://www.backup4all.com/how-to-use-the-backup-list-kb.html)  
     
-* [Backup music with Backup4all](https://www.backup4all.com/backup-music-with-backup4all-kb.html)  
+* [How to upgrade from FBackup to Backup4all](https://www.backup4all.com/how-to-upgrade-from-fbackup-to-backup4all-kb.html)  
     
-* [How to change the backup job name, tag or ico ...](https://www.backup4all.com/how-to-change-the-backup-job-name-group-or-icon-kb.html)  
+* [How to fix "there is not enough space on the ...](https://www.backup4all.com/how-to-fix-there-is-not-enough-space-on-the-disk-error-kb.html)  
     
-* [How to configure Backup4all Monitor](https://www.backup4all.com/how-to-configure-backup4all-monitor-kb.html)  
+* [Why some of the source files are not backed u ...](https://www.backup4all.com/why-some-of-the-source-files-are-not-backed-up-kb.html)  
     
-* [How to back up data files from Azure using Ba ...](https://www.backup4all.com/how-to-back-up-data-files-from-azure-using-backup4all-kb.html)  
+* [How to back up data files from Aruba](https://www.backup4all.com/how-to-back-up-data-files-from-aruba-kb.html)  
     
 
 Choose language:
