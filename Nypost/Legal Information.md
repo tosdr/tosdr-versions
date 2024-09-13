@@ -193,6 +193,7 @@ Please click here to review the full [Privacy Notice](https://nypost.com/privacy
     * [Real Estate](https://nypost.com/real-estate/)
     * [Media](https://nypost.com/media/)
     * [Tech](https://nypost.com/tech/)
+    * [Science](https://nypost.com/science/)
     * [Health](https://nypost.com/health/)
     * [Travel](https://nypost.com/travel/)
     * [Astrology](https://nypost.com/astrology/)
