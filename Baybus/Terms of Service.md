@@ -94,9 +94,9 @@ To
 * [##### Arataki Bus Hub Upgrade - Farm Street One Way & Temporary Bus Stops, Routes CT, 2, 5, 20, 21, 143A & 143B
     
     Now until Fri 15 Nov 10:00 pm](https://www.baybus.co.nz/latest-updates/service-updates/arataki-bus-hub-upgrade-farm-street-one-way-temporary-bus-stops-routes-ct-2-5-20-21-143a-143b/)
-* [##### AIMS Games are underway until Friday 13 September - Expect Traffic Delays
+* [##### Detour Route 135 - Road Closure SH 34 Kawerau Road (SH34/30 intersection) to Charterisi Lane
     
-    Now until Fri 13 Sept 08:00 pm](https://www.baybus.co.nz/latest-updates/service-updates/aims-games-are-underway-until-friday-13-september-expect-traffic-delays/)
+    Mon 16 Sept 08:00 am - Fri 25 Oct 04:00 pm](https://www.baybus.co.nz/latest-updates/service-updates/detour-route-135-road-closure-sh-34-kawerau-road-sh3430-intersection-to-charterisi-lane/)
 * [##### Detour Route 1 - Night Closure of Devonport Road
     
     Now until Sun 03 Nov 06:00 am](https://www.baybus.co.nz/latest-updates/service-updates/detour-route-1-night-closure-of-devonport-road/)
@@ -116,7 +116,9 @@ To
 * [##### Detour Routes 122 & 135 - Kakahoroa Drive, Whakatāne - Project Future Proof
     
     Now until Thu 31 Oct 08:00 pm](https://www.baybus.co.nz/latest-updates/service-updates/detour-routes-122-135-kakahoroa-drive-whakatane-project-future-proof/)
-* [##### Route Name Change to Route 2](https://www.baybus.co.nz/latest-updates/service-updates/route-name-change-to-route-2/)
+* [##### Detour Routes CT, 1, 55 and 59 - Greerton Spring Fling
+    
+    Sat 21 Sept 06:00 am - 03:00 pm](https://www.baybus.co.nz/latest-updates/service-updates/detour-routes-ct-1-55-and-59-greerton-spring-fling/)
 
 Search 
 
