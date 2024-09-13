@@ -233,7 +233,7 @@ Notwithstanding any language to the contrary therein, no terms or conditions sta
 
 ​
 
-![Orange Neurosciences Logo in white color](https://static.wixstatic.com/media/ba438b_af9a0fe3aaf94c6fbcf4c6f715b0c6ce~mv2.png/v1/fill/w_98,h_77,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/Orange_logo_white.png)
+![Orange Neurosciences Logo in white color](https://static.wixstatic.com/media/ba438b_af9a0fe3aaf94c6fbcf4c6f715b0c6ce~mv2.png/v1/fill/w_98,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Orange_logo_white.png)
 
 * [](https://www.facebook.com/OrangeNeurosciences/)
 * [](https://www.instagram.com/orangeneurosciences/)
