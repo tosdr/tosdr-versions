@@ -273,13 +273,11 @@ Rates for subscriber-only content are subject to change. The then-current rate w
 
 From time to time we may offer free trials to, or introductory pricing for, the subscriber-only content. These offers are available to you only if you have not previously been a subscriber to subscriber-only content. If you respond to a free trial or introductory pricing offer but do not qualify, we reserve the right to reject your order.
 
-[![CMG Merch Coupon: 2cool](/sites/default/files/2024-08/store-coupon-promo.png)
+[![Hexanaut](/themes/custom/coolmath/assets/images/promos/Hexanaut_Promo.png)
 
-##### 
+##### Hexanaut
 
-Coolmath Merch Sale
-
-Shop Now: Discount Code 2COOL](https://merch.coolmathgames.com/)
+Multiplayer Snake Combat](https://www.coolmathgames.com/0-hexanaut-io)
 
 [![User Profile](/themes/custom/coolmath/assets/images/promos/UserProfiles_Promo.png)
 
@@ -293,13 +291,11 @@ Get one for free!](https://www.coolmathgames.com/signup)
 
 [Visit Coolmath4Kids.com](https://www.coolmath4kids.com/)
 
-[![CMG Merch Coupon: 2cool](/sites/default/files/2024-08/store-coupon-promo.png)
+[![Leaderboards](/themes/custom/coolmath/assets/images/promos/Leaderboards_Promo.png)
 
-##### 
+##### Leaderboards
 
-Coolmath Merch Sale
-
-Shop Now: Discount Code 2COOL](https://merch.coolmathgames.com/)
+See how you rank!](https://www.coolmathgames.com/profile/leaderboard)
 
 3. [Coolmath games privacy policy](https://www.coolmathgames.com/privacyp)
     
