@@ -116,7 +116,6 @@
         [GravityZone for Managed Service Providers](https://www.bitdefender.com/business/products/managed-service-providers-security.html)
         
         * [Cloud MSP Security](https://www.bitdefender.com/business/service-providers-products/cloud-security-msp.html)
-        * [Security Solutions for MSP](https://www.bitdefender.com/business/products/msp-security-solutions.html) _NEW_
         * [Managed Detection and Response Services for MSPs](https://www.bitdefender.com/business/products/mdr-for-msp.html)
         
         Threat Intelligence Solutions
@@ -127,8 +126,7 @@
         
         [Security Services](https://www.bitdefender.com/business/services/managed-services.html)
         
-        * [Managed Detection and Response PLUS](https://www.bitdefender.com/business/products/managed-detection-response-plus.html)
-        * [Managed Detection and Response](https://www.bitdefender.com/business/products/managed-detection-response-service.html)
+        * [Managed Detection and Response](https://www.bitdefender.com/business/services/managed-services.html)
         * [Managed Detection and Response for MSPs](https://www.bitdefender.com/business/products/mdr-for-msp.html)
         * [Offensive Security Services](https://www.bitdefender.com/business/products/offensive-services.html) _New_
         
