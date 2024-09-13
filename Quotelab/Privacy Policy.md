@@ -7,7 +7,6 @@ New Jersey
 * [Auto](https://www.quotelab.com/)
 * [Home](https://www.quotelab.com/home.html)
 * [Health](https://www.quotelab.com/health.html)
-* [Medicare](https://www.quotelab.com/medicare.html)
 
 **Speak with an agent**
 
