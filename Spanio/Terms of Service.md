@@ -327,7 +327,7 @@ Product
 
 Why SPAN?
 
-[Adding or existing home battery system](https://www.span.io/battery-install)[Adding an EV, heat pump & more](https://www.span.io/appliance-install)[Renovations & New Construction](https://www.span.io/major-construction)[Incentives](https://www.span.io/rebates)
+[Adding or existing home battery system](https://www.span.io/battery-install)[Adding an EV, heat pump & more](https://www.span.io/appliance-install)[Renovations & New Construction](https://www.span.io/major-construction)[Incentives](https://www.span.io/calculator)
 
 Professionals
 
