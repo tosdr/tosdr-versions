@@ -283,9 +283,9 @@ Your partner in trust transformation
 
 ### Resources
 
+* [Global regulatory update: Recent privacy developments and compliance trends](https://www.onetrust.com/resources/global-regulatory-update-recent-privacy-developments-and-compliance-trends-webinar/)
 * [From reactive to proactive: Transforming your ethics & compliance program](https://www.onetrust.com/resources/from-reactive-to-proactive-transforming-your-ethics-and-compliance-program-webinar/)
-* [PDPL and third-party risk](https://www.onetrust.com/resources/pdpl-and-third-party-risk-webinar/)
-* [Navigating the intersection: Third-party risk management in South Africa's evolving data landscape](https://www.onetrust.com/resources/navigating-third-party-risk-management-in-south-africa-webinar/)
+* [From policy to practice: Bringing your AI Governance program to life](https://www.onetrust.com/resources/from-policy-to-practice-bringing-your-ai-governance-program-to-life-webinar/)
 
 ### Platform
 
