@@ -55,7 +55,7 @@ To opt-out of interest-based advertising by participating companies in the follo
 
 Data stored within the Leap Conventions systems is collected and processed with an end to service Leap Conventions clients and their customers in event related services. This personal data is defined as necessary data in providing contracted services for Leap Conventions clients and their customers.
 
-GrowTix is a data controller in regard to your user account created within GrowTix. Only an email address and name are required to create an account within Leap Conventions and said account is used to access data that has been processed on behalf of our clients. Leap Conventions accounts will remain active within the system with the purpose of accessing data processed by our clients. You can request for your user account to be removed from the Leap Conventions system by submitting a request to [privacy@growtix.com](mailto:privacy@growtix.com).
+GrowTix is a data controller in regard to your user account created within GrowTix. Only an email address and name are required to create an account within Leap Conventions and said account is used to access data that has been processed on behalf of our clients. Leap Conventions accounts will remain active within the system with the purpose of accessing data processed by our clients. You can request for your user account to be removed from the Leap Conventions system by submitting a request to [\[email protected\]](https://purchase.growtix.com/cdn-cgi/l/email-protection).
 
 ### Sub-Processors
 
@@ -137,7 +137,7 @@ The above rights are only exercisable by you where applicable law in the jurisdi
 
 **Exercising Your Rights.** To exercise the rights described above only to the extent applicable law grants you such rights, please submit a verifiable consumer request to:
 
-Email us: [privacy@growtix.com](mailto:privacy@growtix.com)
+Email us: [\[email protected\]](https://purchase.growtix.com/cdn-cgi/l/email-protection)
 
 Only you or a registered agent (if and only as permitted under applicable law) that you authorize to act on your behalf, may make a verifiable consumer request related to your personal information. If you have a registered agent act on your behalf, we have the right to authenticate such agent’s authority to act. You may only make a verifiable consumer request for access or data portability twice within a 12-month period. The verifiable consumer request must:
 
@@ -148,11 +148,11 @@ We cannot respond to your request or provide you with personal information if we
 
 Response Timing and Format. Your request will be responded to within 45 days, and in any event, we will respond to you within the timeframe required under applicable law. We do not charge a fee to process or respond to your verifiable consumer request unless it is excessive, repetitive, or manifestly unfounded. If we determine that the request warrants a fee, we will tell you why we made that decision and provide you with a cost estimate before completing your request.
 
-If we deny your request, you can appeal such denial by [privacy@growtix.com](mailto:privacy@growtix.com).
+If we deny your request, you can appeal such denial by [\[email protected\]](https://purchase.growtix.com/cdn-cgi/l/email-protection).
 
 ### Questions
 
-For questions or comments on this policy email privacy@growtix.com or write Privacy Manager, GrowTix, 10675 Perry Hwy, #1316, Wexford, PA 15090
+For questions or comments on this policy email [\[email protected\]](https://purchase.growtix.com/cdn-cgi/l/email-protection) or write Privacy Manager, GrowTix, 10675 Perry Hwy, #1316, Wexford, PA 15090
 
   
   
