@@ -2,7 +2,7 @@
 
 [](https://ethereum.org/en/)
 
-Search
+search
 
 1. [Home](https://ethereum.org/en/)/
 2. Terms of use
@@ -152,15 +152,15 @@ The Terms of Use, our Privacy Policy and terms of conditions for the registratio
 
 The Websites are operated by the Foundation. All other feedback, comments, requests for technical support and other communications relating to the Websites should be directed to: [support@ethereum.org(opens in a new tab)](mailto:support@ethereum.org).
 
-### Was this article helpful?
+#### Was this article helpful?
 
 YesNo
 
-* On this page
-    
-    * [Terms of Use](#terms-of-use)
+On this page
 
-Website last updated: July 24, 2024
+* [Terms of Use](#terms-of-use)
+
+Website last updated: September 4, 2024
 
 Go to top
 
