@@ -80,7 +80,7 @@ If you are concerned about the topic covered by this policy, you should read it 
 
 You may also mail your concerns to us at the following address:
 
-Global Virtual Opportunities  
+Global Virtual Opportunities Inc.  
 6701 Guada Coma Drive  
 Schertz, Texas 78154  
 USA
@@ -89,16 +89,14 @@ CALIFORNIA PRIVACY RIGHTS
 
 If you are a California resident and our customer, Cal. Civ. Code § 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, please send an e-mail to notice\[at\]gvocorp.com or write us at the following address:
 
-Global Virtual Opportunities  
+Global Virtual Opportunities Inc.  
 6701 Guada Coma Drive  
 Schertz, Texas 78154  
 USA
 
 This privacy policy was last updated on 08-20-2010.
 
-Copyright © [Law Office of Michael E. Young, LLC](https://www.nitroshoppingcart.com/app/?af=1234148), and licensed for use by the owner of this website at https://GoGVO.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
-
-Do you need **Legal Forms** for **YOUR** website or blog - [Click Here](https://www.nitroshoppingcart.com/app/?af=1234148)
+Copyright © [Law Office of Michael E. Young, LLC](https://www.nitroshoppingcart.com/app/?af=1234148), and licensed for use by the owner of this website at https://gogvo.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
 
 [![](https://gogvo.com/images/legal_top.png)](#)
 
