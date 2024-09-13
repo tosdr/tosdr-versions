@@ -201,12 +201,12 @@ The National Geographic Society is proud to invest in a global community of intr
 
 [Give $500](https://give.nationalgeographic.org/page/49060/donate/1?transaction.donationAmt=500)
 
-[Give $35](https://give.nationalgeographic.org/page/49060/donate/1?ea.tracking.id=WSXX1W&utm_content=acq&utm_medium=web&utm_source=ngs&en_txn6=WSXX1W&en_txn7=XXXX1&transaction.donationAmt=35)
+[Give $35](https://give.nationalgeographic.org/page/49060/donate/1?ea.tracking.id=WSXX1W&utm_content=acq&utm_medium=web&utm_source=ngs&en_txn6=WSXX1W&en_txn7=XXXX2&transaction.donationAmt=35)
 
-[Give $50](https://give.nationalgeographic.org/page/49060/donate/1?ea.tracking.id=WSXX1W&utm_content=acq&utm_medium=web&utm_source=ngs&en_txn6=WSXX1W&en_txn7=XXXX1&transaction.donationAmt=50)
+[Give $50](https://give.nationalgeographic.org/page/49060/donate/1?ea.tracking.id=WSXX1W&utm_content=acq&utm_medium=web&utm_source=ngs&en_txn6=WSXX1W&en_txn7=XXXX2&transaction.donationAmt=50)
 
-[Give $100](https://give.nationalgeographic.org/page/49060/donate/1?ea.tracking.id=WSXX1W&utm_content=acq&utm_medium=web&utm_source=ngs&en_txn6=WSXX1W&en_txn7=XXXX1&transaction.donationAmt=100)
+[Give $100](https://give.nationalgeographic.org/page/49060/donate/1?ea.tracking.id=WSXX1W&utm_content=acq&utm_medium=web&utm_source=ngs&en_txn6=WSXX1W&en_txn7=XXXX2&transaction.donationAmt=100)
 
-[Give $250](https://give.nationalgeographic.org/page/49060/donate/1?ea.tracking.id=WSXX1W&utm_content=acq&utm_medium=web&utm_source=ngs&en_txn6=WSXX1W&en_txn7=XXXX1&transaction.donationAmt=250)
+[Give $250](https://give.nationalgeographic.org/page/49060/donate/1?ea.tracking.id=WSXX1W&utm_content=acq&utm_medium=web&utm_source=ngs&en_txn6=WSXX1W&en_txn7=XXXX2&transaction.donationAmt=250)
 
-[OTHER GIFT](https://give.nationalgeographic.org/page/49060/donate/1?ea.tracking.id=WSXX1W&utm_content=acq&utm_medium=web&utm_source=ngs&en_txn6=WSXX1W&en_txn7=XXXX1&transaction.donationAmt=Other)
+[OTHER GIFT](https://give.nationalgeographic.org/page/49060/donate/1?ea.tracking.id=WSXX1W&utm_content=acq&utm_medium=web&utm_source=ngs&en_txn6=WSXX1W&en_txn7=XXXX2&transaction.donationAmt=Other)
