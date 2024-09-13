@@ -1,290 +1,214 @@
-* [Menu](#)
-    
-* [![Prey Logo - Back to Homepage](https://cdn.prod.website-files.com/62d054a8c3443d06a404c424/62d054a8c3443d7abb04c437_prey-logo-full-color.svg)](https://preyproject.com/)
-* Features
-    
-    [Tracking & Location](https://preyproject.com/features/tracking-and-location)[Device Security](https://preyproject.com/features/device-security)[Data Protection](https://preyproject.com/features/data-protection)[Device Management](https://preyproject.com/features/device-management)[General Features](https://preyproject.com/features)
-    
-    [Breach Monitoring](https://preyproject.com/breach-monitoring)
-    
-    New
-    
-    Solutions
-    
-    [Business](https://preyproject.com/solutions/business)[Education](https://preyproject.com/solutions/education)[Managed Service Providers](https://preyproject.com/solutions/managed-service-providers)[Resellers](https://preyproject.com/solutions/resellers)[Personal](https://preyproject.com/solutions/personal)
-    
-    Plans
-    
-    [Prey Full Suite](https://preyproject.com/plans/full-suite)[Prey Protection](https://preyproject.com/plans/protection)[Prey Tracking](https://preyproject.com/plans/tracking)
-    
-    [Pricing](https://preyproject.com/pricing)
-    
-    Resources
-    
-    [Webinar](https://preyproject.com/resources/webinars/prey-unboxing)[Blog](https://preyproject.com/blog)[Developer API](https://api.preyproject.com/)[Latest Release  
-    **SHIFT**  
-    Status Of The Remote Work Cybersecurity Landscape](https://preyproject.com/resources/ebooks/shift)
-    
-    [Help Center](https://support.preyproject.com/)
-    
-    [Get Started](https://preyproject.com/get-started)[Login](https://panel.preyproject.com/login)
-    
+[Ver sitio en Español](https://preyproject.com/cookies)
+
+[Ver sitio en Español](https://preyproject.com/es/cookies)
+
+[Login](https://panel.preyproject.com/login)
+
+[](https://preyproject.com/)
+
+[About us](https://preyproject.com/about-us)
+
+Products
+
+Down icon
+
+[Prey Full Suite
+
+Complete device security that tracks, acts upon, and helps manage devices. Made for businesses!](https://preyproject.com/products/prey-full-suite)
+
+[Prey Protection
+
+24/7 tracking with the security tools to prevent loss and protect your sensitive data.](https://preyproject.com/products/prey-protection)
+
+[Prey Tracking
+
+A clear-cut service that locates and monitors fleets, and gives you the tools to secure your devices.](https://preyproject.com/products/prey-tracking)
+
+Solutions
+
+Down icon
+
+**By Feature**
+
+[Radar icon
+
+**Tracking & location**](https://preyproject.com/features/device-tracking-and-location)[Laptop with keyhole icon
+
+**Device security**](https://preyproject.com/features/device-security)[File with lock icon
+
+**Data protection**](https://preyproject.com/features/data-protection)[Management Diagram icon
+
+**Device management**](https://preyproject.com/features/device-management)[Dashboard icon
+
+**See all features**](https://preyproject.com/features)
+
+**By Use Case**
+
+[Loaned Device icon
+
+**Device loan programs**](https://preyproject.com/use-cases/device-lending-programs)[Map icon
+
+**Tracking your fleets**](https://preyproject.com/use-cases/tracking-your-fleets)[Remote Lock icon
+
+**Secure data & devices**](https://preyproject.com/use-cases/secure-data-devices)[Missing device icon
+
+**Lost or stolen devices**](https://preyproject.com/use-cases/lost-or-stolen-devices)[Personal Solution icon
+
+**Personal use**](https://preyproject.com/products/individuals)
+
+**For Industries**
+
+[Business
+
+Business
+
+Effortlessly monitor and manage your devices with a complete system](https://preyproject.com/industries/business)[Education icon
+
+Education
+
+Track, protect, and manage checkout devices at any given moment](https://preyproject.com/industries/education)[Hospital icon
+
+Health
+
+Secure healthcare devices with advanced tracking and protection, ensuring compliance](https://preyproject.com/industries/health)
+
+[Managed Service Providers icon
+
+Managed Service Providers
+
+Check all your client accounts from a tailor-made panel](https://preyproject.com/partners/managed-service-providers)[Reseller Solution icon
+
+Reseller program
+
+Expand your offer by adding Prey’s security and management to the mix](https://preyproject.com/partners/resellers)
+
+[Pricing](https://preyproject.com/pricing)
+
+Resources
+
+Down icon
+
+**For Industries**
+
+[Notebook with bookmark icon
+
+Resource hub
+
+Tools, guides & best practices for device management](https://preyproject.com/resources)[File with check icon
+
+Case studies
+
+Learn how others are using Prey](https://preyproject.com/collections/case-studies)[Open book icon
+
+Ebooks
+
+Learn how to secure & manage devices effortlessly](https://preyproject.com/resources-type/ebooks)
+
+[Help icon
+
+Help Center
+
+Explore Prey's Help Center for self-service options](https://support.preyproject.com/hc/en-us)[Videos icon
+
+Videos
+
+Live & on-demand learning](https://preyproject.com/resources-type/videos)[Newspaper icon
+
+Blog
+
+Latest updates & insights about security](https://preyproject.com/blog)
+
+[![Dark Web Monitoring Solutions for MSPs: Protecting Clients from Hidden Threats](https://cdn.prod.website-files.com/664e6b29f3ed49c2317db2f2/6686b13be3d80da6c43dcb9e_Dark-Web-monitoring-msp.png)
+
+Editor's Pick
+
+Dark Web Monitoring Solutions for MSPs: Protecting Clients from Hidden Threats
+
+From shadowy threats to new business opportunities: How MSPs can leverage Dark Web monitoring to enhance client's security and drive growth.](https://preyproject.com/blog/dark-web-monitoring-solutions-for-msp)
+
+[Rocket icon
+
+Get started](https://preyproject.com/get-started#quote)
 
 Cookies
 =======
 
-Our website, including the user panel of PREY, uses first and third-party cookies to obtain anonymous usage statistics with the purpose of providing you with a better service. We do not do tracking outside our website nor do we install these cookies without your prior consent. The other cookies used on our website are essential to its operation and their objective is to facilitate its usability and configuration, they don’t track any Personally Identifiable Information (PII) whatsoever.
+Our website, including Prey's Control Panel, uses first and third-party cookies to obtain anonymous usage statistics with the purpose of providing you with a better service. We do not do tracking outside our website nor do we install these cookies without your prior consent. The other cookies used on our website are essential to its operation and their objective is to facilitate its usability and configuration, they don’t track any Personally Identifiable Information (PII) whatsoever.
 
 Following the California Online Privacy Protection Act (CalOPPA) and given that there is no existing standard governing the Do Not Track signals, we do not comply with these requests nor can we ensure third-party cookies in our website will.
 
 Third-party cookies on our website and panel include Hotjar, Google Analytics, Google Adwords, Kissmetrics, Active Campaign and Facebook’s Pixel. All of them require your express consent.
 
-Cookie
+| Cookie | Description | More information |
+| --- | --- | --- |
+| \_uvc, \_uvs\* | The uvc cookie is one of the cookies used to track usage of the Addthis.com service. It allows a user to share a webpage with many social sites. | Decided by AddThis |
+| \_ga\* | Google Analytics cookies, used to distinguish user sessions. [Read more](https://developers.google.com/analytics/devguides/collection/gajs/cookie-usage) | Decided by Google |
+| \_utm\* | Google Analytics cookies, used to distinguish users and sessions. [Read more](https://developers.google.com/analytics/devguides/collection/gajs/cookie-usage) | Decided by Google |
+| \_utmx\* | Google Analytics cookies, used for Content Experiments and A/B Testing purposes. [Read more](https://developers.google.com/analytics/devguides/collection/gajs/cookie-usage) | 18 months |
+| \_dc\_gtm\_\* | Google Tag Manager Cookie. Set to help identify visitors by age, gender, or interests by DoubleClick. [Read more](https://developers.google.com/analytics/devguides/collection/gajs/cookie-usage) | Decided by Google |
+| \_cfduid | CloudFare Cookie. This cookie is used to identify individual clients behind a shared IP address and apply security settings on a per-client basis. [Read more](https://support.cloudflare.com/hc/en-us/articles/200170156-What-does-the-Cloudflare-cfduid-cookie-do-) | Decided by CloudFare |
+| \_hjDonePolls  <br>\_hjMinimizedPolls  <br>\_hjDoneTestersWidgets  <br>\_hjMinimizedTestersWidgets  <br>\_hjIncludedInSample | Hotjar cookie. This session cookie is set to let Hotjar know that visitor interacts with polls, surveys, feedback polls, forms and to generate funnels. [Read more](https://www.hotjar.com/legal/policies/cookie-information) | Decided by Hotjar |
+| km\_ai  <br>km\_vs  <br>kvcd  <br>km\_lv | Cookies set by Kissmetrics to collect information about how visitors use our site. [Read More](https://www.kissmetrics.com/user-privacy) | Decided by Kissmetrics |
+| FirstSession  <br>RecurringSession | Active Campaign cookie. This cookie is used to tracks page visits and sessions interactions. | 180 days |
+| ac\_enable\_tracking | Active Campaign cookie. This cookie is used to tracks page visits and sessions interactions. |     |
+| lang | Prey cookie, used to know the user selected language. |     |
+| lang\_exist | Prey cookie, used to know if the user has a selected language. |     |
+| layout | Prey cookie, used to set the layout of the Prey control panel. |     |
+| policy\_rule\_cookie | Prey cookie, used to check if the user has accepted the policies. |     |
+| \_prey\_session  <br>rack.session  <br>\_mkra\_ctxt | Prey cookie, used to keep the user's session alive. |     |
 
-Description
+[Rocket icon
 
-Duration
+Get started](https://preyproject.com/get-started#quote)[Download Prey](https://preyproject.com/download)
 
-Cookie
+Cambiar idioma a
 
-\_uvc, \_uvs\*
+[Globe with speech bubble icon
 
-Description
+Español](https://preyproject.com/cookies)
 
-The uvc cookie is one of the cookies used to track usage of the Addthis.com service. It allows a user to share a webpage with many social sites.
+[Globe with speech bubble icon
 
-Duration
+Español](https://preyproject.com/es/cookies)
 
-Decided by AddThis
+[Prey Project's Instagram Profile](https://instagram.com/preyproject)[Prey Project's Twitter Profile](https://x.com/preyproject/)[Prey Project's LinkedIn profile](https://www.linkedin.com/company/931433?trk=tyah&trkInfo=clickedVertical%3Acompany%2Cidx%3A1-1-1%2CtarId%3A1435102161956%2Ctas%3Aprey)[Prey Project's Youtube Channel](https://www.youtube.com/user/PreyAntiTheft)
 
-Cookie
+Prey's SOC2 Certification Badge
 
-\_ga\*
-
-Description
-
-Google Analytics cookies, used to distinguish user sessions. [Read more](https://developers.google.com/analytics/devguides/collection/gajs/cookie-usage)
-
-Duration
-
-Decided by Google
-
-Cookie
-
-\_utm\*
-
-Description
-
-Google Analytics cookies, used to distinguish users and sessions. [Read more](https://developers.google.com/analytics/devguides/collection/gajs/cookie-usage)
-
-Duration
-
-Decided by Google
-
-Cookie
-
-\_utmx\*
-
-Description
-
-Google Analytics cookies, used for Content Experiments and A/B Testing purposes. [Read more](https://developers.google.com/analytics/devguides/collection/gajs/cookie-usage)
-
-Duration
-
-18 months
-
-Cookie
-
-\_dc\_gtm\_\*
-
-Description
-
-Google Tag Manager Cookie. Set to help identify visitors by age, gender, or interests by DoubleClick. [Read more](https://developers.google.com/analytics/devguides/collection/gajs/cookie-usage)
-
-Duration
-
-Decided by Google
-
-Cookie
-
-\_cfduid
-
-Description
-
-CloudFare Cookie. This cookie is used to identify individual clients behind a shared IP address and apply security settings on a per-client basis. [Read more](https://support.cloudflare.com/hc/en-us/articles/200170156-What-does-the-Cloudflare-cfduid-cookie-do-)
-
-Duration
-
-Decided by Hotjar
-
-Cookie
-
-\_hjDonePolls  
-\_hjMinimizedPolls  
-\_hjDoneTestersWidgets  
-\_hjMinimizedTestersWidgets  
-\_hjIncludedInSample
-
-Description
-
-Hotjar cookie. This session cookie is set to let Hotjar know that visitor interacts with polls, surveys, feedback polls, forms and to generate funnels. [Read more](https://www.hotjar.com/legal/policies/cookie-information)
-
-Duration
-
-Decided by Hotjar
-
-Cookie
-
-km\_ai  
-km\_vs  
-kvcd  
-km\_lv
-
-Description
-
-Cookies set by Kissmetrics to collect information about how visitors use our site. [Read More](https://www.kissmetrics.com/user-privacy)
-
-Duration
-
-Decided by Kissmetrics
-
-Cookie
-
-FirstSession  
-RecurringSession
-
-Description
-
-Active Campaign cookie. This cookie is used to tracks page visits and sessions interactions.
-
-Duration
-
-180 days
-
-Cookie
-
-ac\_enable\_tracking
-
-Description
-
-Cookie configurada por Active Campaign para rastrear las sesiones del usuario en el sitio y sus interacciones.
-
-Duration
-
-Cookie
-
-lang
-
-Description
-
-Prey cookie, used to know the user selected language.
-
-Duration
-
-Cookie
-
-lang\_exist
-
-Description
-
-Prey cookie, used to know if the user has a selected language.
-
-Duration
-
-Cookie
-
-layout
-
-Description
-
-Prey cookie, used to set the layout of the Prey control panel.
-
-Duration
-
-Cookie
-
-policy\_rule\_cookie
-
-Description
-
-Prey cookie, used to check if the user has accepted the policies.
-
-Duration
-
-Cookie
-
-\_prey\_session  
-rack.session  
-\_mkra\_ctxt
-
-Description
-
-Prey cookie, used to keep the user's session alive.
-
-Duration
+Prey Live Status
 
 About Prey
-----------
 
-* [How It Works](https://preyproject.com/how-it-works)
-* [Features](https://preyproject.com/features)
-* [Pricing](https://preyproject.com/pricing)
-* [Download Prey](https://preyproject.com/download)
-* [Prey Reviews](https://preyproject.com/prey-reviews)
-* [What's New](https://updates.preyproject.com/en/)
+[About us](https://preyproject.com/about-us)[Features](https://preyproject.com/features)[Pricing](https://preyproject.com/pricing)[What's new](https://updates.preyproject.com/en/#)
+
+Products
+
+[Prey Full Suite](https://preyproject.com/products/prey-full-suite)[Prey Protection](https://preyproject.com/products/prey-protection)[Prey Tracking](https://preyproject.com/products/prey-tracking)
+
+Features
+
+[Tracking & monitoring](https://preyproject.com/features/device-tracking-and-location)[Data protection](https://preyproject.com/features/data-protection)[Device security](https://preyproject.com/features/device-security)[Device management](https://preyproject.com/features/device-management)
 
 Solutions
----------
 
-* By Industry
-    
-* [Business](https://preyproject.com/solutions/business)
-* [Education](https://preyproject.com/solutions/education)
-* [Personal](https://preyproject.com/solutions/personal)
-* [Resellers](https://preyproject.com/solutions/resellers)
-* [Managed Service Providers](https://preyproject.com/solutions/managed-service-providers)
-* By Use Case
-    
-* [Tracking & Location](https://preyproject.com/features/tracking-and-location)
-* [Device Security](https://preyproject.com/features/device-security)
-* [Data Protection](https://preyproject.com/features/data-protection)
-* [Device Management](https://preyproject.com/features/device-management)
+By Use Case
 
-COMMUNITY
----------
+[Tracking your fleets](https://preyproject.com/use-cases/tracking-your-fleets)[Device loan programs](https://preyproject.com/use-cases/device-lending-programs)[Lost or stolen devices](https://preyproject.com/use-cases/lost-or-stolen-devices)[Data & device security](https://preyproject.com/use-cases/secure-data-devices)
 
-* [Blog](https://preyproject.com/blog)
-* [Help Center](https://support.preyproject.com/)
+By Industries
+
+[Business](https://preyproject.com/industries/business)[Education](https://preyproject.com/industries/education)[Health](https://preyproject.com/industries/health)[Managed Service Providers](https://preyproject.com/partners/managed-service-providers)[Resellers](https://preyproject.com/partners/resellers)
 
 Resources
----------
 
-* [Data Security](https://preyproject.com/category/data-security)
-* [Data Privacy Legislations](https://preyproject.com/collections/data-privacy)
-* [Cybersecurity Essentials](https://preyproject.com/category/cybersec-essentials)
-* [Cyber Threats](https://preyproject.com/category/cyber-threats)
-* [Developer API](https://api.preyproject.com/)
+[Resource hub](https://preyproject.com/resources)[Blog](https://preyproject.com/blog)[Help Center](https://support.preyproject.com/hc/en-us)[Developer API](https://api.preyproject.com/?_gl=1*1bdk3jo*_gcl_au*MTk4NzkxNjAyLjE3MTcxNzg3Mzc.*_ga*MTAyNTU5MTgwLjE3MDk2NDk1NDY.*_ga_PQML3KDTRV*MTcyMzAzOTg3My42MC4xLjE3MjMwMzk4NzYuNTcuMC4w)
 
-Legal
------
+Prey Vs
 
-* [Terms & Conditions](https://preyproject.com/terms)
-* [Privacy](https://preyproject.com/privacy)
-* [Cookies](https://preyproject.com/cookies)
-* [GDPR](https://preyproject.com/gdpr)
-* ![](https://cdn.prod.website-files.com/62d054a8c3443d06a404c424/65e60e8095116de6e059bfc6_21972-312_SOC_NonCPA.webp)
-
-[![Back to Home - Prey Icon](https://cdn.prod.website-files.com/62d054a8c3443d06a404c424/62d054a8c3443dd06b04c438_prey-iso-full-color-alt.svg)](https://preyproject.com/)
+[Prey vs Absolute](https://preyproject.com/prey-alternatives/prey-vs-absolute)[Prey vs Intune](https://preyproject.com/prey-alternatives/prey-vs-intune)[Prey vs Drivestrike](https://preyproject.com/prey-alternatives/prey-vs-drivestrike)
 
 © — Prey
 
-548 Market St. #30152,  
-San Francisco, CA 94104, USA
+[Terms of service](https://preyproject.com/terms)[GDPR](https://preyproject.com/gdpr)[Privacy](https://preyproject.com/privacy)[Cookies](https://preyproject.com/cookies)[Security & compliance](https://preyproject.com/security-compliance)
 
-[get started](https://preyproject.com/get-started)
-
-[![](https://cdn.prod.website-files.com/62d054a8c3443d06a404c424/62d054a8c3443dce9604c45f_flag.svg)
-
-Es](https://preyproject.com/es)[![Link to Prey's Instagram](https://cdn.prod.website-files.com/62d054a8c3443d06a404c424/62d054a8c3443d400604c476_instagram.svg)](https://instagram.com/preyproject)[![Link to Prey's Twitter](https://cdn.prod.website-files.com/62d054a8c3443d06a404c424/62d054a8c3443d1a2304c4ef_twitter.svg)](https://twitter.com/preyproject)[![Link to Prey's LinkedIn](https://cdn.prod.website-files.com/62d054a8c3443d06a404c424/62d054a8c3443d344604c481_linkedin.svg)](https://www.linkedin.com/company/931433?trk=tyah&trkInfo=clickedVertical%3Acompany%2Cidx%3A1-1-1%2CtarId%3A1435102161956%2Ctas%3Aprey)[![Link to Prey's YouTube](https://cdn.prod.website-files.com/62d054a8c3443d06a404c424/62d054a8c3443d7ef904c4fa_youtube.svg)](https://www.youtube.com/user/PreyAntiTheft)
-
-Status
+548 Market St. #30152, SF, CA 94104, USA
