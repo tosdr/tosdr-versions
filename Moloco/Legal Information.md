@@ -1,5 +1,3 @@
-[![](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/66aa37bffbaf345075a702c8_x.svg)](#)
-
 ###### Join us at MAU Vegas (April 2 - 4, 2024). Discover exclusive events and connect with the Moloco team.
 
 [![White arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6544c48db72afc64022178de_Arrow-white.webp)](#)[Learn more
