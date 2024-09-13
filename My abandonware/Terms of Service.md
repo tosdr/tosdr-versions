@@ -85,20 +85,20 @@ Top downloads
 
 Latest releases
 
-* [NHL Open Ice: 2 On 2 Challenge](https://www.myabandonware.com/game/nhl-open-ice-2-on-2-challenge-a5p)
-* [Neo Turf Masters](https://www.myabandonware.com/game/neo-turf-masters-czr)
-* [Neo Drift Out: New Technology](https://www.myabandonware.com/game/neo-drift-out-new-technology-jyh)
-* [Akai Katana](https://www.myabandonware.com/game/akai-katana-s9a)
-* [American Speedway](https://www.myabandonware.com/game/american-speedway-s99)
+* [Metro Cross](https://www.myabandonware.com/game/metro-cross-644)
+* [Mania Challenge](https://www.myabandonware.com/game/mania-challenge-ks6)
+* [Trivial Pursuit](https://www.myabandonware.com/game/trivial-pursuit-sbh)
+* [Trick Trap: 1771](https://www.myabandonware.com/game/trick-trap-1771-sbg)
+* [Tranquilizer Gun](https://www.myabandonware.com/game/tranquilizer-gun-sbf)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [Yaksa](https://www.myabandonware.com/game/yaksa-q8f)
-* [Kingdom](https://www.myabandonware.com/game/kingdom-mzd)
-* [Indoor Football](https://www.myabandonware.com/game/indoor-football-oni)
+* [Akai Katana](https://www.myabandonware.com/game/akai-katana-s9a)
+* [Guardian Force](https://www.myabandonware.com/game/guardian-force-n8l)
+* [For Gold or Glory](https://www.myabandonware.com/game/for-gold-or-glory-kef)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
