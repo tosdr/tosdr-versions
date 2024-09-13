@@ -12,7 +12,7 @@ Toggle navigation [](https://www.enpass.io/)[Enpass](https://www.enpass.io/)
 Privacy Notice
 ==============
 
-Effective Date: Feb 23, 2024
+Effective Date: Sept 10, 2024
 
 #### Data Controller Contact Information
 
@@ -24,7 +24,7 @@ Delaware 19801
 Email: [support@enpass.io](mailto:support@enpass.io)  
 Phone: +1 302 208-2510
 
-Enpass Technologies Inc and its business partners believe in high standards when protecting information provided by our users and customers. This privacy notice applies to the information that we collect from you when you use our Platform, [https://www.enpass.io](https://www.enpass.io/), [https://discussion.enpass.io](https://discussion.enpass.io/), and our software for mobiles and desktops applications, collectively and herein after called “Platform.”
+Enpass Technologies Inc and its business partners believe in high standards when protecting information provided by our users and customers. This privacy notice applies to the information that we collect from you when you use our Platform, [https://www.enpass.io](https://www.enpass.io/), [https://discussion.enpass.io](https://discussion.enpass.io/), [https://support.enpass.io](https://support.enpass.io/), Enpass Admin Console and our software for mobiles and desktops applications, collectively and herein after called “Platform.”
 
 Our privacy notice tells you what personal data and nonpersonal data we may collect from you, how we collect them, how we protect them, how we disclose them, how you can access and change them, and how you can limit our disclosing of them. Our privacy notice also explains certain legal rights that you have with respect to your personal data.
 
@@ -111,10 +111,6 @@ When we provide support for you, we may collect some personal data in order to h
 
 You may have purchased one of our mobile apps through any of our partners or affiliates. These partners and affiliates may provide your PD to us so we can activate your license.
 
-#### Gravatar.com
-
-We use a service from [www.en.gravatar.com](https://en.gravatar.com/) that allows you to have an image that represents you when you are online. It is a picture that appears next to your name when you interact with different Gravatar enabled websites and mobile apps. To make this happen a tracking mechanism is used that follows you on the Internet.
-
 #### Device Data from app usage
 
 To enhance and improve our product, we gather certain device data to analyze apps usage. This information includes:
@@ -125,6 +121,10 @@ To enhance and improve our product, we gather certain device data to analyze app
 * Installed operating system and version
 * Device language
 * Device country
+* IP address
+* Apple Identifier (if you choose to sign-in with Apple)
+* Google Identifier (if you choose to sign-in with Apple)
+* Browser user-agent
 
 #### Enpass-hosted Hub for Enpass Business
 
@@ -136,7 +136,7 @@ Our Platform contains contact forms that enable visitors to communicate with us 
 
 #### Our Community Forums and blogs
 
-Our Platform contains discussion forums “[https://discussion.enpass.io](https://discussion.enpass.io/)” where you provide us with your PD to create an account. Our discussion forums use a third-party software “CleanTalk” to reject spam postings, and your PD will be shared with them while creating an account. Read their privacy policy [here](https://cleantalk.org/publicoffer#privacy). Also, you may provide us with your PD when you comment on our blog posts running on WordPress. There we use a service called “Akismet” for spam-filtration and they may have your PD. See their privacy policy [here](https://akismet.com/privacy/).
+Our Platform contains discussion forums ” [https://discussion.enpass.io](https://discussion.enpass.io/) ” where you provide us with your PD to create an account.
 
 #### Analytics
 
@@ -182,9 +182,9 @@ You may share your information with third parties such as [Facebook.com](https:/
 
 If you sign up for our services you are giving us your consent and authorize us to send you push notifications. You are not required to give us your consent for these push notifications. However, withholding your consent may interfere or prevent us from providing some or all of our services to you.
 
-#### Disclosing PD With Our Subsidiaries
+#### Disclosing PD With Our Subprocessors
 
-We may share your PD with our subsidiaries. We share this information with them so that they can send you information about our products and services as well as their products and services. When you choose to take part in our services and/or offerings, you are authorizing us to provide your email address and other PD to our subsidiaries.
+We may share your PD with our [subprocessors](https://www.enpass.io/subprocessors/). We share this information with them so that they can send you information about our products and services as well as their products and services. When you choose to take part in our services and/or offerings, you are authorizing us to provide your email address and other PD to our [subprocessors](https://www.enpass.io/subprocessors/).
 
 #### Legally Required Releases of Information
 
@@ -288,7 +288,8 @@ _Copyright © This Privacy Notice is protected under United States and foreign c
 
 * Company
 * [About](https://www.enpass.io/about)
-* [Privacy](https://www.enpass.io/privacy)
+* [Privacy Notice](https://www.enpass.io/privacy-notice)
+* [Cookie Policy](https://www.enpass.io/cookie)
 * [Terms of Use](https://www.enpass.io/terms-of-use)
 
 * Stay In Touch
@@ -296,9 +297,8 @@ _Copyright © This Privacy Notice is protected under United States and foreign c
     * [![Facebook](/wp-content/uploads/2023/10/fb.svg)](https://www.facebook.com/EnpassApp/)
     * [![Linkedin](/wp-content/uploads/2023/10/linkedin.svg)](https://www.linkedin.com/company/enpass-tech)
     * [![YouTube](/wp-content/uploads/2023/10/youtube.svg)](https://youtube.com/sinewsoft)
-* We do not send more than one email a month about the latest news of Enpass, special promotions and sneak peek of future releases.
-    
 * 
+* By subscribing, you agree to our [Terms of Use](https://www.enpass.io/terms-of-use) and [Privacy Notice](https://www.enpass.io/privacy-notice/). We do not send more than one email a month about the latest news of Enpass, special promotions and sneak peek of future releases.
 
 * * *
 
