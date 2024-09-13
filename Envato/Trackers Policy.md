@@ -1,4 +1,4 @@
-![Hamburger](/static/media/hamburger.a63e4328.svg)[![envato logo](/static/media/envato.13edc57e.svg)](https://envato.com/about/ "Envato")
+![Hamburger](/static/media/hamburger.a63e4328.svg)[![envato logo](/static/media/envato.44bb3d4c.svg)](https://envato.com/about/ "Envato")
 
 * [Products](https://envato.com/products/)
 * [About](https://envato.com/about/)
@@ -74,7 +74,7 @@ Contact
 
 If you have any questions about our privacy practices, or about how to change your cookie preferences, please contact our privacy champion at [\[email protected\]](https://envato.com/cdn-cgi/l/email-protection). You can also write to us at PO Box 16122 Collins Street West Victoria 8007 Australia.
 
-[![envato logo](/static/media/envato.13edc57e.svg)](https://www.envato.com/about)
+[![envato logo](/static/media/envato.44bb3d4c.svg)](https://www.envato.com/about)
 
 * [Products](https://envato.com/products/)
 * [Purpose](https://envato.com/about/purpose/)
