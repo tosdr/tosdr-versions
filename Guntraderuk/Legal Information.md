@@ -2,6 +2,8 @@ THE UK's **NO.1** GUN MARKETPLACE Buy or sell new and used shotguns, rifles, and
 
 [Place an advert](#) [find a dealer](https://www.guntrader.uk/find-dealer)
 
+Add Photos to Make Your Advert Stand Out! Listings with images get more attention and sell Faster.
+
 [![](https://www.guntrader.uk/assets/guntrader_logo.svg)](https://www.guntrader.uk/)
 
 guns
@@ -292,7 +294,7 @@ Close
 Sign up
 -------
 
-Trade and Private users receive a different service. If you hold a current Form 117 please sign up as Trade.
+Trade and Private users receive a different service. If you hold a current RFD please sign up as Trade.
 
 ### Select account type
 
@@ -336,7 +338,7 @@ Do you give guntrader.uk consent to send you News & Updates? This consent can be
 
  Yes No
 
-create account
+Back create account
 
 ### Your details
 
@@ -376,7 +378,7 @@ Address line 2
 
 Town/City
 
-County
+County \-- Select -- Non UK Angus Antrim Argyll Armagh Avon Ayrshire Bedfordshire Berkshire Borders Buckinghamshire Cambridgeshire Central Cheshire Cleveland Cornwall Cumbria Derbyshire Devon Dorset Down Dumfries & Galloway Durham Dyfed East Sussex East Yorkshire Edinburgh Essex Fermanagh Fife Gloucestershire Grampian Greater Manchester Hampshire Herefordshire Hertfordshire Highland Humberside Inverness-shire Isle of Man Isle of Wight Kent Lancashire Leicestershire Lincolnshire London (Greater) Londonderry Lothian Morayshire Merseyside Mid Glamorgan Middlesex Norfolk North Yorkshire Northamptonshire Northumberland Nottinghamshire Orkney Oxfordshire Perthshire Ross-shire Shetland Shropshire Somerset South Ayrshire South Glamorgan South Yorkshire Staffordshire Strathclyde Suffolk Surrey Tyne and Wear Tyrone Warwickshire West Glamorgan West Midlands West Sussex West Yorkshire Western Isles Wiltshire Worcestershire Channel Islands North Wales Mid Wales South Wales
 
 Postcode
 
@@ -385,7 +387,7 @@ Do you give guntrader.uk consent to send you News & Updates? This consent can be
  Yes No
 
 By continuing you are agreeing to both our  
-Terms & Conditions and to our Privacy Policy
+[Terms & Conditions](https://www.guntrader.uk/About/terms) and to our [Privacy Policy](https://www.guntrader.uk/About/privacy)
 
 Continue
 
@@ -405,7 +407,7 @@ Beretta\_20gauge\_686\_Silver\_P…
 
 Please upload in either pdf, jpg, png or doc format with a max size of 5 MB
 
-Create account
+Back Create account
 
 ### Trade types
 
@@ -517,7 +519,7 @@ RFD documentation upload
 
 Please upload in either pdf, jpg, png or doc format with a max size of 5 MB
 
-Continue
+Back Continue
 
 Check your email
 ----------------
