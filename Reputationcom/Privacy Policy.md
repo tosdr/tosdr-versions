@@ -344,8 +344,12 @@ CAYA Postbox 799114
 * [![](https://reputation.com/wp-content/uploads/2024/01/2024_social_facebook_icon.svg)](https://www.facebook.com/profile.php?id=100064396375731)
 * [![](https://reputation.com/wp-content/uploads/2024/01/2024_social_instagram_icon.svg)](https://www.instagram.com/reputation_com/)
 * [![](https://reputation.com/wp-content/uploads/2022/10/youtube.svg)](https://www.youtube.com/channel/UCzgjQHzKoKoCHAXhRB45pfg/featured)
-* [![](https://reputation.com/wp-content/uploads/2021/01/linkedin.svg)](https://www.linkedin.com/company/reputation-com/)
-* [![](https://reputation.com/wp-content/uploads/2024/01/2024_social_glassdoor_new_icon.svg)](https://www.glassdoor.com/Overview/Working-at-Reputation-com-EI_IE224737.11,25.htm)
+* [![](https://reputation.com/wp-content/uploads/2021/01/linkedin.svg)
+    
+    ![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2016%2016%22%3E%3C/svg%3E)](https://www.linkedin.com/company/reputation-com/)
+* [![](https://reputation.com/wp-content/uploads/2024/01/2024_social_glassdoor_new_icon.svg)
+    
+    ![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2016%2016%22%3E%3C/svg%3E)](https://www.glassdoor.com/Overview/Working-at-Reputation-com-EI_IE224737.11,25.htm)
 
 Company
 -------
@@ -373,13 +377,29 @@ Newsletter
 ----------
 
 * ![DMA Member logo](https://reputation.com/wp-content/uploads/2021/01/reputation.com120img-logo-footer-dma-member.jpg)
+    
+    ![DMA Member logo](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)
 * ![HIPAA logo](https://reputation.com/wp-content/uploads/2018/05/img-logo-footer-hippa.jpg)
+    
+    ![HIPAA logo](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)
 * ![](https://reputation.com/wp-content/uploads/2019/08/logo-footer-2019-Globee-Gold.png)
+    
+    ![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)
 * ![](https://reputation.com/wp-content/uploads/2021/01/reputation.com386logo-footerInc.5000_Honoree2019_Medallion.png)
+    
+    ![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)
 * ![Logo of the eHealthcare Leadership Awards, Winner 2019](https://reputation.com/wp-content/uploads/2022/10/eHealthcare-leadership-awards.png)
+    
+    ![Logo of the eHealthcare Leadership Awards, Winner 2019](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)
 * ![](https://reputation.com/wp-content/uploads/2019/08/logo-footer-SAAS-awards-finalist-2019.png)
+    
+    ![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)
 * ![Logo for the Innovator Awards, 2019](https://reputation.com/wp-content/uploads/2021/01/reputation.com565footer-logo-SF_Awards_badge.png)
+    
+    ![Logo for the Innovator Awards, 2019](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)
 * ![Google Build Premier Partner badge](https://reputation.com/wp-content/uploads/2023/08/GC-PP-Build-Outline-90.png)
+    
+    ![Google Build Premier Partner badge](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)
 
 * [Legal](https://reputation.com/legal-information/)
 * [Privacy Notice](https://reputation.com/privacy-notice/)
