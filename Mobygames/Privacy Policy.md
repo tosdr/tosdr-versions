@@ -37,7 +37,7 @@
         * [Login](https://www.mobygames.com/user/login/)
         * [Register](https://www.mobygames.com/user/register/)
 
-In memoriam, [James Earl Jones](https://www.mobygames.com/person/7796/james-earl-jones/)
+🏆 Congrats to [August's top contributors](https://www.mobygames.com/leaderboard/last-month/)! Top 3: [Tim Janssen](https://www.mobygames.com/user/65110/tim-janssen/), [Koterminus](https://www.mobygames.com/user/760723/koterminus/) and [Plok](https://www.mobygames.com/user/180419/plok/)
 
 [![Atari 7800+](https://www.mobygames.com/static/img/7800__1180x90.03241eff.jpg)](https://atari.com/products/atari-7800?utm_source=mobygames&utm_medium=referral&utm_campaign=launch)
 
@@ -194,4 +194,4 @@ Please contact us with any questions or comments about this Privacy Policy, your
 
 © 1999–2024 MobyGames ™
 
-v2024.08.31
+v2024.09.12a
