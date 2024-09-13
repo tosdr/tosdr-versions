@@ -186,13 +186,14 @@ GreenLightDepot.com uses cookies, web beacons and similar technology to help yo
 
 We are committed to adhering to our privacy policy and applicable laws and to making your online experience secure and valuable. If you have a question, request, complaint, dispute or concern related to this privacy policy, please contact us by emailing support@greenlightdepot.com.
 
-#### Links
+#### Company
 
 * [Contact Us](https://greenlightdepot.com/pages/contact-us)
 * [Privacy Policy](https://greenlightdepot.com/pages/privacy-policy)
 * [Refund Policy](https://greenlightdepot.com/pages/customer-warranty)
 * [Terms of Service](https://greenlightdepot.com/pages/terms-of-service)
 * [Track My Order](https://greenlightdepot.com/pages/track-my-order)
+* [Blogs](https://7j691vn640nhsajo-9318152.shopifypreview.com/blogs/news)
 
 #### Support
 
