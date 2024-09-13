@@ -1689,6 +1689,30 @@ What do top resumes look like? Check out these expertly-written samples:
 
 [Entry-Level Web Designer](https://cvcompiler.com/entry-level-web-designer-resume-examples)
 
+[Hospitality Manager](https://cvcompiler.com/hospitality-manager-resume-examples)
+
+[Public Accountant](https://cvcompiler.com/public-accountant-resume-examples)
+
+[Entry-Level Backend Developer](https://cvcompiler.com/entry-level-backend-developer-resume-examples)
+
+[Cloud Developer](https://cvcompiler.com/cloud-developer-resume-examples)
+
+[Onboarding Specialist](https://cvcompiler.com/onboarding-specialist-resume-examples)
+
+[FedEx Operations Manager](https://cvcompiler.com/fedex-operations-manager-resume-examples)
+
+[Social Media Influencer](https://cvcompiler.com/social-media-influencer-resume-examples)
+
+[Data Science Intern](https://cvcompiler.com/data-science-intern-resume-examples)
+
+[Retail District Manager](https://cvcompiler.com/retail-district-manager-resume-examples)
+
+[Senior Accounts Receivable](https://cvcompiler.com/senior-accounts-receivable-resume-examples)
+
+[KYC Analyst](https://cvcompiler.com/kyc-analyst-resume-examples)
+
+[Sports Analyst](https://cvcompiler.com/sports-analyst-resume-examples)
+
 ![Upload resume illustration](uploads-pre-acq/img/upload-illustration.svg)
 
 ### Upload  
