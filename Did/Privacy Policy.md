@@ -48,7 +48,7 @@ D-ID Privacy Policy
 * [Studio EULA](https://www.d-id.com/studio-end-user-license-agreement/)
 * [End User Agreement](https://www.d-id.com/eua/)
 
-_Last Updated: June 24th, 2024_
+_Last Updated: September 11th, 2024_
 
 This privacy policy (“**Privacy Policy**”) governs how we, De-Identification Ltd. and De-Identification Inc. (together, “**D-ID**”, “**we**”, “**our**” or “**us**”) use, collect and store Personal Data we collect or receive from or about you (“**you**”) such as in the following use cases:
 
@@ -262,7 +262,7 @@ We reserve the right to remove or add new analytic tools.
 
 We use commercially reasonable efforts to retain non-customer Personal Data and Applicative Data in accordance with the below:
 
-11. 1\. Applicative Data uploaded through the API which is not deleted by the user upon completion of a job (See [docs.d-id.com](https://docs.d-id.com/)) is erased automatically, through AWS settings, within 24h.
+11. 1\. Applicative Data uploaded through the API which is not deleted by the user upon completion of a job (See [docs.d-id.com](https://docs.d-id.com/)) is erased automatically: (i) through AWS settings, within 24 hours, (ii) in case of the D-ID Product is Agents, within 72 hours and (iii) in case of Insight Service, within 14 days.
 
 11. 2.  While in the storage, awaiting processing or deletion, the Applicative Data is not accessed for any purpose, including not accessed for model training.
 
@@ -280,12 +280,14 @@ We use commercially reasonable efforts to retain non-customer Personal Data and 
 
 11. 9.  Applicative Data may be accessed by authorized operators as a result of a customer support ticket or an operational case service ticket.
 
+11. 10\. D-ID does not backup Customer’s Applicative Data other than as set forth in the Data Retention Policy above.
+
 12\. **CONTACT US**.
 
 If you have any questions, concerns or complaints regarding our compliance with this notice and the data protection laws, or if you wish to exercise your rights, we encourage you to first contact us at support@d-id.com. De-Identification Ltd. 84 Hahashmonaim St., Tel Aviv, Israel.  
   
 
-* [Download PDF File](https://www.d-id.com/wp-content/uploads/2024/07/D-ID-Privacy-Policy-20240624-Clean.pdf)
+* [Download PDF File](https://www.d-id.com/wp-content/uploads/2024/09/D-ID-Privacy-Policy-September-2024.pdf)
 
 * Products
     * [Creative Reality™ Studio](https://www.d-id.com/creative-reality-studio/)
