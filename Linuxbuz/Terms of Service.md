@@ -2,7 +2,7 @@
 
 [Top Menu](#)
 
-September 10, 2024
+September 13, 2024
 
 * [ABOUT US](https://linuxbuz.com/about-us)
 * [PRIVACY POLICY](https://linuxbuz.com/privacy-policy)
@@ -83,3 +83,13 @@ If you have any questions about these Terms, please contact us at **[\[email pr
 Copyright © 2024 [LinuxBuz](https://linuxbuz.com/ "LinuxBuz").
 
 [Proudly powered by WordPress](https://wordpress.org/) | Theme: HitMag Pro by [ThemezHut](https://themezhut.com/themes/hitmag-pro/).
+
+Close this module
+
+Join 10k+ Community
+
+Welcome to Linuxbuz, your one-stop shop for mastering DevOps, Kubernetes, Ansible, Docker, Git, CI/CD, Jenkins, and more. We'll provide you with hands-on, practical and real-world tutorials that you can use to build your DevOps skills.
+
+EmailEnter your email address
+
+Subscribe
