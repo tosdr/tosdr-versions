@@ -490,6 +490,7 @@ Use cases
 * [Diagramming](https://www.figma.com/figjam/diagramming-tool/)
 * [Prototyping](https://www.figma.com/prototyping/)
 * [Brainstorming](https://www.figma.com/figjam/brainstorming-tool/)
+* [Presentation maker](https://www.figma.com/presentation-maker/)
 * [Online whiteboard](https://www.figma.com/figjam/online-whiteboard/)
 * [Agile](https://www.figma.com/figjam/agile-workflows/)
 * [Strategic planning](https://www.figma.com/figjam/strategic-planning/)
