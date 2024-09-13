@@ -28,9 +28,9 @@ Search
 2. [Learn](https://learn.adafruit.com/)
 3. [Blog](https://blog.adafruit.com/)
 4. [Forums](https://forums.adafruit.com/)
-5. [LIVE!](https://www.youtube.com/adafruit/live)
-6. [AdaBox](https://www.adafruit.com/adabox)
-7. [IO](https://io.adafruit.com/)
+5. [IO](https://io.adafruit.com/)
+6. [LIVE!](https://www.youtube.com/adafruit/live)
+7. [AdaBox](https://www.adafruit.com/adabox)
 
 [Sign In](https://www.adafruit.com/login)
 
@@ -75,23 +75,27 @@ Search
     
     New Products[view all](https://www.adafruit.com/new)
     
-    ![Angled shot of 1-meter-long USB-to-RS232 adapter cable, semi-coiled up.](https://cdn-shop.adafruit.com/230x173/5994-02.jpg)[USB to Multi-Protocol Serial Cable - RS-232 / TTL UART / RS-485
+    ![Angled shot of black, square-shaped breakout board.](https://cdn-shop.adafruit.com/230x173/6039-00.jpg)[Adafruit SPI Flash SD Card - XTSD 4 GB
     
-    $24.95](https://www.adafruit.com/product/5994)
+    $12.50](https://www.adafruit.com/product/6039)
     
-    ![Angled shot of black and green, rectangular, USB-to-RS232 adapter.](https://cdn-shop.adafruit.com/230x173/5995-00.jpg)[USB to Multi-Protocol Serial Adapter: RS-232 / TTL UART / RS-485
+    ![Angled Shot of the Adafruit SPI Flash SD Card - XTSD 2 GB.](https://cdn-shop.adafruit.com/230x173/6038-00.jpg)[Adafruit SPI Flash SD Card - XTSD 2 GB
     
-    $21.95](https://www.adafruit.com/product/5995)
+    $10.95](https://www.adafruit.com/product/6038)
     
-    ![Twelve scattered half-height key switches.](https://cdn-shop.adafruit.com/230x173/6022-02.jpg)[Half Height / Low Profile MX-Compatible Key Switches - 12 pack
+    ![Angled shot of 20cm long, 22-pin FPC cable.](https://cdn-shop.adafruit.com/230x173/6036-00.jpg)[22-pin 0.5mm pitch FPC Flex Cable for DSI CSI or HSTX - 20cm
     
-    $5.95](https://www.adafruit.com/product/6022)
+    $0.95](https://www.adafruit.com/product/6036)
     
-    ![Angled shot of green microcontroller.](https://cdn-shop.adafruit.com/230x173/6007-00.jpg)[Raspberry Pi 5 - 2 GB RAM
+    ![Angled shot of 10cm long 22-pin FPC cable.](https://cdn-shop.adafruit.com/230x173/6035-00.jpg)[22-pin 0.5mm pitch FPC Flex Cable for DSI CSI or HSTX - 10cm
     
-    $50.00](https://www.adafruit.com/product/6007)
+    $0.95](https://www.adafruit.com/product/6035)
     
     Featured Products[view all](https://www.adafruit.com/featured)
+    
+    ![Angled shot of thin, green rectangular microcontroller with castellated pads.](https://cdn-shop.adafruit.com/230x173/6006-02.jpg)[Raspberry Pi Pico 2 - RP2350
+    
+    $5.00](https://www.adafruit.com/product/6006)
     
     ![Angled shot of rectangular dev board.](https://cdn-shop.adafruit.com/230x173/5933-01.jpg)[Adafruit ESP32-C6 Feather - STEMMA QT
     
@@ -104,10 +108,6 @@ Search
     ![Angled shot of black, rectangular doubler prototyping board.](https://cdn-shop.adafruit.com/230x173/5906-00.jpg)[Adafruit Proto Doubler PiCowbell for Pico and PicoW
     
     $7.50](https://www.adafruit.com/product/5906)
-    
-    ![Angled shot of black, rectangular microcontroller.](https://cdn-shop.adafruit.com/230x173/5890-05.jpg)[Adafruit ItsyBitsy ESP32 - wFL Antenna - 8 MB Flash / 2 MB PSRAM
-    
-    $14.95](https://www.adafruit.com/product/5890)
     
 * [Gift Ideas](https://www.adafruit.com/explore)
 * [What's New](https://www.adafruit.com/new)
@@ -419,9 +419,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Calculation and reasoning, like weaving and ploughing, are work, not for human souls, but for clever combinations of iron and wood”
+“ The only way to do great work is to love what you do. If you haven’t found it yet, keep looking. Don’t settle”
 
-[Mary Boole](http://books.google.com/books?oe=UTF-8&id=k7s0AAAAMAAJ&q=calculation#v=onepage&q=calculation&f=false)
+[Steve Jobs](http://www.youtube.com/watch?v=UF8uR6Z6KLc)
 
 [](https://www.adafruit.com/about)
 
