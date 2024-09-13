@@ -36,7 +36,7 @@
 Privacy Policy
 ==============
 
-Please note that by using pro.embed.ly, api.embed.ly, and related websites (the “Site”) or the services (the “Services”) provided by A Medium Corporation (“Medium”, “we” or “us”), you are accepting the practices described in this Privacy Policy. If you do not agree to this Privacy Policy, please do not use the Site or Services.
+Please note that by using pro.embed.ly, api.embed.ly, and related websites (the “Site”) or the services (the “Services”) provided by Embedly LLC (“Embedly”, “we” or “us”), you are accepting the practices described in this Privacy Policy. If you do not agree to this Privacy Policy, please do not use the Site or Services.
 
 **What is the purpose of this Privacy Policy?**
 
@@ -52,7 +52,7 @@ We process the personal information we obtain on our servers in the United State
 
 Although we currently do not have a parent company, any subsidiaries, joint ventures, or other companies under a common control (collectively, "Affiliates"), we may in the future. We may share some or all of your personal information with these Affiliates, in which case we will require our Affiliates to honor this Privacy Policy.
 
-In the event Medium goes through a business transition such as a merger, acquisition by another company, or sale of all or a portion of its assets to which this Privacy Policy relates, your personal information will likely be among the assets transferred. You acknowledge that such transfers may occur.
+In the event Embedly goes through a business transition such as a merger, acquisition by another company, or sale of all or a portion of its assets to which this Privacy Policy relates, your personal information will likely be among the assets transferred. You acknowledge that such transfers may occur.
 
 **What information do we collect from users and how is it used?**
 
@@ -72,32 +72,32 @@ If you correspond with us via email, we may gather in a file specific to you the
 
 URL and IP address
 
-Like many other services, Medium collects information about users’ utilization and navigation of our Site and use of Services. This information helps us to design our Site and Services to better suit our users’ needs. For example, our Site or Services will track the URL that you visited before you came to our Site or used our Services, the URL to which you next go, your Internet Protocol (IP) address and any URLs to which you link using the Services. We use your IP address to help diagnose problems with our server and to administer our Site or Services. Your IP address also is used to help identify you and to gather broad demographic information.
+Like many other services, Embedly collects information about users’ utilization and navigation of our Site and use of Services. This information helps us to design our Site and Services to better suit our users’ needs. For example, our Site or Services will track the URL that you visited before you came to our Site or used our Services, the URL to which you next go, your Internet Protocol (IP) address and any URLs to which you link using the Services. We use your IP address to help diagnose problems with our server and to administer our Site or Services. Your IP address also is used to help identify you and to gather broad demographic information.
 
 Information Collected With Cookies
 
 Like most major websites and services, we may use cookies on certain pages of our Site or pages using our Services. Cookies make using the Internet easier by, among other things, saving your preferences for you. For example, a cookie lets a Site or Services remember that you’ve registered, which allows us to speed up your future activities at our Site or Services, and which allows you to enter your registration information less frequently while visiting our Site or using our Services. We may also use cookies to deliver content tailored to your interests. Our cookies may enable us to relate your use of our Site or Services to personally identifying information that you previously submitted, such as calling you by name when you return to our Site or use our Services. If your browser is set to reject cookies, or if your browser notifies you that you are about to receive a cookie and you reject it, then your use of the Site or Services may not be as efficient or as enjoyable as it would be if the cookie were enabled. The information that we collect with cookies allows us to improve our marketing and promotional efforts, to statistically analyze Site or Services usage, to improve our content and product offerings and to customize our Site’s or Services’ content, or sslayout. However, we only use information collected with cookies on an aggregated basis without the use of any information that personally identifies you. You may opt out of our use of cookies by [configuring your browser to reject them](http://www.usa.gov/optout-instructions.shtml).
 
-**To whom does Medium disclose information about you that we collect?**
+**To whom does Embedly disclose information about you that we collect?**
 
-Medium will not share, rent, sell or otherwise disclose any of the personally identifiable information that we collect about you, except when we have your permission or in any of the following situations:
+Embedly will not share, rent, sell or otherwise disclose any of the personally identifiable information that we collect about you, except when we have your permission or in any of the following situations:
 
 * We may disclose information that we collect about you to our third-party contractors who perform services for us in order to provide certain services or to complete or confirm a transaction that you conduct with us.
     
 * We may disclose information about you as part of a merger, acquisition or other sale or transfer of its assets or business. We do not guarantee that any entity receiving such information in connection with one of these transactions will comply with all terms of this Privacy Policy.
     
-* We may be legally obligated to preserve or disclose information about you to the government or to third parties under certain circumstances, such as in connection with illegal activity on our Site or Services or to respond to a subpoena, court order or other legal process. Medium reserves the right to preserve or disclose information that we collect to law enforcement or other government officials, as we, in our sole and absolute discretion, deem necessary or appropriate.
+* We may be legally obligated to preserve or disclose information about you to the government or to third parties under certain circumstances, such as in connection with illegal activity on our Site or Services or to respond to a subpoena, court order or other legal process. Embedly reserves the right to preserve or disclose information that we collect to law enforcement or other government officials, as we, in our sole and absolute discretion, deem necessary or appropriate.
     
 
-If you use our Site or Services outside of the United States, information that we collect about you will be transferred to servers inside the United States and maintained indefinitely (unless you have requested for account deletion), which may involve the transfer of information out of countries located in the European Economic Area. By allowing Medium to collect information about you, you consent to such transfer and processing of your data.
+If you use our Site or Services outside of the United States, information that we collect about you will be transferred to servers inside the United States and maintained indefinitely (unless you have requested for account deletion), which may involve the transfer of information out of countries located in the European Economic Area. By allowing Embedly to collect information about you, you consent to such transfer and processing of your data.
 
 **What security measures does the Site employ?**
 
-To help protect the privacy of data you transmit through this Site or Service, where personally identifiable information is requested, Medium uses technology designed to encrypt the information that you input before it is sent to us. In addition, Medium takes steps to protect the user data we collect against unauthorized access. However, you should keep in mind that this Site and our Services are run on software, hardware and networks, any component of which may, from time to time, require maintenance or experience problems or breaches of security beyond our control.
+To help protect the privacy of data you transmit through this Site or Service, where personally identifiable information is requested, Embedly uses technology designed to encrypt the information that you input before it is sent to us. In addition, Embedly takes steps to protect the user data we collect against unauthorized access. However, you should keep in mind that this Site and our Services are run on software, hardware and networks, any component of which may, from time to time, require maintenance or experience problems or breaches of security beyond our control.
 
-Medium takes commercially reasonable security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of information that you share and that we store.
+Embedly takes commercially reasonable security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of information that you share and that we store.
 
-We restrict access to personal information only to Medium employees, contractors and agents who need to know that information in order to operate, develop or improve our Services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. However, no security system can be fully secured; accordingly, Medium cannot guarantee the security of any information you provide to us in connection with the delivery of our Services.
+We restrict access to personal information only to Embedly employees, contractors and agents who need to know that information in order to operate, develop or improve our Services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. However, no security system can be fully secured; accordingly, Embedly cannot guarantee the security of any information you provide to us in connection with the delivery of our Services.
 
 Please also be aware that despite our best intentions and the guidelines outlined in this Privacy Policy, no data transmission over the Internet or encryption method can be guaranteed to be 100% secure.
 
@@ -107,15 +107,15 @@ You may correct or update information collected about you by managing your accou
 
 **What are the policies of linked sites and other third parties?**
 
-This Privacy Policy only addresses the use and disclosure of information we collect from you. You should be aware that when you are on the Site or using the Services, you can be directed to other websites that are beyond our control, and Medium is not responsible for the privacy practices of third parties or the content of linked websites. We encourage you to read the posted privacy policy whenever interacting with any website. Specifically, if you use Embedly to embed YouTube Videos, you agree that the [Google Privacy Policy](http://www.google.com/policies/privacy) will apply.
+This Privacy Policy only addresses the use and disclosure of information we collect from you. You should be aware that when you are on the Site or using the Services, you can be directed to other websites that are beyond our control, and Embedly is not responsible for the privacy practices of third parties or the content of linked websites. We encourage you to read the posted privacy policy whenever interacting with any website. Specifically, if you use Embedly to embed YouTube Videos, you agree that the [Google Privacy Policy](http://www.google.com/policies/privacy) will apply.
 
 **How will I know about changes in the Privacy Policy?**
 
-Medium reserves the right to update this Privacy Policy from time to time. Please visit this page periodically so that you will be apprised of any changes.
+Embedly reserves the right to update this Privacy Policy from time to time. Please visit this page periodically so that you will be apprised of any changes.
 
 **What is our policy on children users of our Site?**
 
-We do not knowingly collect or maintain personally identifiable information from persons under 13 years old, and no part of our Site is directed to persons under 13. IF YOU ARE UNDER 13 YEARS OF AGE, PLEASE DO NOT USE OR ACCESS OUR SITE AT ANY TIME OR IN ANY MANNER. If Medium learns that personally identifiable information of persons less than 13 years old has been collected without verifiable parental consent, then we will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your child under the age of 13 has obtained an Embedly account, then you may alert us at the address below and request that we delete that child’s personal information from our systems.
+We do not knowingly collect or maintain personally identifiable information from persons under 13 years old, and no part of our Site is directed to persons under 13. IF YOU ARE UNDER 13 YEARS OF AGE, PLEASE DO NOT USE OR ACCESS OUR SITE AT ANY TIME OR IN ANY MANNER. If Embedly learns that personally identifiable information of persons less than 13 years old has been collected without verifiable parental consent, then we will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your child under the age of 13 has obtained an Embedly account, then you may alert us at the address below and request that we delete that child’s personal information from our systems.
 
 **Will my employer have access to information that we collect about you?**
 
@@ -163,7 +163,7 @@ Customers:
 
 **Categories of Recipients**
 
-Medium shares minimal personal data with third-party processors in order to provide the Services. These processors offer at least the same level of data protection as that set out in this statement. This includes the following categories of recipients:
+Embedly shares minimal personal data with third-party processors in order to provide the Services. These processors offer at least the same level of data protection as that set out in this statement. This includes the following categories of recipients:
 
 * Hosting, Storage, & Other Infrastructure
 * Security
@@ -220,7 +220,7 @@ Right to Delete Request - Under the CCPA, you also have a right to request that 
 
 Household Requests - We do not knowingly collect household data. If all the members of a household makes a Right to Know or Right to Delete request, we will respond as if the requests are individual requests.
 
-General Requests under CCPA - if you do not have a Embedly account, we will not have enough information about you to verify your Right to Know and Right to Delete requests since we do not keep sufficient information to reidentify and link you to a prior visit to Medium. You may make a verifiable consumer request related to your personal information twice per 12-month period. We will not discriminate against you for exercising any of your rights under the CCPA.
+General Requests under CCPA - if you do not have a Embedly account, we will not have enough information about you to verify your Right to Know and Right to Delete requests since we do not keep sufficient information to reidentify and link you to a prior visit to Embedly. You may make a verifiable consumer request related to your personal information twice per 12-month period. We will not discriminate against you for exercising any of your rights under the CCPA.
 
 Requests made through Agents - You may designate, in writing or through a power of attorney document, an authorized agent to make requests on your behalf to exercise your rights. Before accepting such a request from an agent, we will require that the agent provide proof you have authorized them to act on your behalf, and we may need you to verify your identity directly with us.
 
@@ -236,25 +236,25 @@ Logged in customers:
 * Usage history
 * Billing information and history
 
-No Sale of Personal Information - Under the CCPA, a “sale” means providing to a third party personal information for valuable consideration. Since Medium doesn’t make money from ads, we don’t collect data to facilitate nor enable third parties to advertise to you. At this time and pending final regulations and guidance interpreting the CCPA, we don't believe any of our data practices constitute a "sale" under the CCPA.
+No Sale of Personal Information - Under the CCPA, a “sale” means providing to a third party personal information for valuable consideration. Since Embedly doesn’t make money from ads, we don’t collect data to facilitate nor enable third parties to advertise to you. At this time and pending final regulations and guidance interpreting the CCPA, we don't believe any of our data practices constitute a "sale" under the CCPA.
 
 **Contact Information**
 
-A Medium Corporation
+Embedly LLC
 
-799 Market Street, 5th floor
+611 South DuPont Highway, Suite 102
 
-San Francisco, CA 94103, United States of America
+Dover, DE 19901, United States of America
 
   
 
 **Representative**
 
-Head of Legal - legal@medium.com
+Head of Legal - legal@embed.ly
 
   
 
-_Last Updated:02/24/2020_
+_Last Updated:09/03/2024_
 
 ![Embedly Footer Logo](/static/images/footer/footer_embedly_logo_bw_122_39.png?v=ddd48fd2910ccdd805623fbc6d77e039)
 
