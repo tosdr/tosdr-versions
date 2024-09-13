@@ -4,20 +4,29 @@ Accept Decline [Privacy Policy](https://jefawk.com/privacy-policy.html)
 
 [Spaghettorium](https://jefawk.com/index.html)Toggle navigation
 
-*  [![Play our JeFawk Games](assets/img/icons/joystick-01-24x24.png) Games](https://jefawk.com/index.html)
-*  [![Website design portfolio](assets/img/icons/lightbulb-1-24x24.png) Gamedev resources](https://jefawk.com/gamedev-resources/index.html) [![Website design portfolio](assets/img/icons/sticker-1-24x24.png) Stickers](https://jefawk.com/stickers/about.html)
-*  [![Website design portfolio](assets/img/icons/cogwheel-01-60x60.png) Apps](https://jefawk.com/apps/index.html)
-*  [![Website design portfolio](assets/img/icons/folder-01-24x24.png) Websites](https://jefawk.com/website-portfolio/index.html)
-*  [![Website design portfolio](assets/img/icons/pen-01-24x24.png) Blogs](https://jefawk.com/blogs/eagle-quick-overview.html)
+*  [![Play our games](assets/img/icons/console-1-128x73.webp) Games](https://jefawk.com/index.html)
+*  [![Gamedev resources - info for all game developers to step up their game :)](assets/img/icons/lightbulb-1-128x128.webp) Gamedev resources](https://jefawk.com/gamedev-resources/index.html) [![Our stickers and prints](assets/img/icons/printables-1-128x128.webp) Shop](https://www.etsy.com/shop/JeFawksSpaghettorium)
+*  [![Our apps and smol programs](assets/img/icons/apps-1-128x128.webp) Apps](https://jefawk.com/apps/index.html)
+*  [![Website design portfolio](assets/img/icons/coding-1-128x128.webp) Websites](https://jefawk.com/website-portfolio/index.html)
+*  [![We write blogs about gamedev, how to fix issues, printers, stickers, and other things that we encounter and enjoy, or hate enough 😁](assets/img/icons/writing-1-128x128.webp) Blogs](https://jefawk.com/blogs/index.html)
 
 Terms and Conditions
 ====================
 
-Welcome to JeFawk.com!
+Welcome to JeFawk's Spaghettorium! 👋🍻
 
-These terms and conditions outline the rules and regulations for the use of JeFawk Games's Website, located at https://jefawk.com.
+Our Products
+------------
 
-By accessing this website we assume you accept these terms and conditions. Do not continue to use JeFawk.com if you do not agree to take all of the terms and conditions stated on this page.
+The term "our products" refers to everything we create and make available to the public, whether free or paid. This includes our games, apps, programs, books, art, writing (such as blog posts, short stories, books, novels, and compilations), and both digital and physical products (like stickers, prints, books, bookmarks, magnets, etc.).
+
+y using this website and purchasing or using our products, you agree to adhere to our Terms and Conditions and acknowledge the associated [Disclaimers](https://jefawk.com/legal/disclaimers.html). If you do not agree to these terms, please do not use our website or products.
+
+Accessing our website and ordering our products implies acceptance of these Terms and Conditions.
+
+* * *
+
+These terms and conditions outline the rules and regulations for the use of our games, programs, digital and physical products, located at https://jefawk.com and its subdomains.
 
 The following terminology applies to these Terms and Conditions, Privacy Statement and Disclaimer Notice and all Agreements: "Client", "You" and "Your" refers to you, the person log on this website and compliant to the Company’s terms and conditions. "The Company", "Ourselves", "We", "Our" and "Us", refers to our Company. "Party", "Parties", or "Us", refers to both the Client and ourselves. All terms refer to the offer, acceptance and consideration of payment necessary to undertake the process of our assistance to the Client in the most appropriate manner for the express purpose of meeting the Client’s needs in respect of provision of the Company’s stated services, in accordance with and subject to, prevailing law of Netherlands. Any use of the above terminology or other words in the singular, plural, capitalization and/or he/she or they, are taken as interchangeable and therefore as referring to same.
 
@@ -124,8 +133,8 @@ The limitations and prohibitions of liability set in this Section and elsewhere 
 
 As long as the website and the information and services on the website are provided free of charge, we will not be liable for any loss or damage of any nature.
 
-Privacy Policy
-==============
+Privacy Policy & GDPR
+=====================
 
 This privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information' (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.  
 
@@ -135,7 +144,7 @@ This privacy policy has been compiled to better serve those who are concerned wi
 
   
 
-When ordering, registering, surfing or using apps and games on our site, as appropriate, you may be asked to enter your email address, a nickname or other details to help you with your experience. Your IP address might also be recorded as anonimously as possible for tracking reasons and sometimes by our third party partners for targeted advertising.
+When ordering, registering, surfing or using apps and games on our site, as appropriate, you may be asked to enter your email address, a nickname or other details to help you with your experience. Your IP address might also be recorded as anonimously as possible for tracking reasons and sometimes by our third party partners for targeted advertising. We collect any information we receive from you regarding selling products, and shipping them (such as name, address, phone number, etc). We do not hold on to this information more than needed for us to sell and ship the product to you. We do not sell any information.
 
   
 
@@ -573,38 +582,29 @@ We may use third-party Service Providers to show advertisements to you to help s
 | Yieldr | [https://www.yieldr.com/privacy/](http://www.yieldr.com/privacy/) |
 | ZMS | https://zms.zalando.com/# |
 
-  
-  
+Contact
+-------
 
-**Contacting Us**
+If there are any questions regarding this privacy policy, you may contact us [here](https://jefawk.com/contact/index.html).
 
-  
+Last edited on 2024.Sep.11
 
-If there are any questions regarding this privacy policy, you may contact us using the information below.  
-  
+### Some links 👀
 
-jefawk.com
+[Contact](https://jefawk.com/contact/index.html)[Contributors & Tools](https://jefawk.com/contributors-and-tools.html)[Frostnight Illustrations](https://frostnightillustrations.com/)[Haranutarie](https://haranutarie.com/)[Links Page](https://jefawk.com/links.html)
 
-6M Preciziei Street
+### More links 😱
 
-Bucharest, Bucharest 062203
+[Etsy Shop](https://www.etsy.com/shop/JeFawksSpaghettorium)[Patreon](https://www.patreon.com/jefawks_spaghettorium)[Discord](https://jefawk.com/contact/discord.html)[#### Patreon](https://www.patreon.com/jefawk)[Instagram](https://www.instagram.com/jefawks_spaghettorium/)[Facebook](https://jefawk.com/contact/facebook.html)[Twitter](https://jefawk.com/contact/twitter.html)[YouTube](https://jefawk.com/contact/youtube.html)[Padlet](https://jefawk.com/contact/padlet.html)
 
-Romania
+### Legal ⚖
 
-jefawk at outlook com
+[About The Company](https://jefawk.com/legal/about-the-company.html)[Cancellation, Returns, and Withdrawals Policy](https://jefawk.com/legal/cancellation-policy.html)[EU Online Dispute Resolution](https://ec.europa.eu/consumers/odr/)[GDPR, Privacy policy, Terms and conditions](https://jefawk.com/privacy-policy.html)[Disclaimers](https://jefawk.com/legal/disclaimers.html)
 
-Last edited on 2020.Jan.18
-
-### Links
-
-[Contact](https://jefawk.com/contact/index.html)[Contributors & Tools](https://jefawk.com/contributors-and-tools.html)[Privacy policy & Terms and conditions](https://jefawk.com/privacy-policy.html)[Frostnight Illustrations](https://frostnightillustrations.com/)[Haranutarie](https://haranutarie.com/)
-
-[Discord](https://jefawk.com/contact/discord.html)[#### Patreon](https://www.patreon.com/jefawk)[Facebook](https://jefawk.com/contact/facebook.html)[Twitter](https://jefawk.com/contact/twitter.html)[YouTube](https://jefawk.com/contact/youtube.html)[Padlet](https://jefawk.com/contact/padlet.html)[Instagram](https://www.instagram.com/jefawks_spaghettorium/)
-
-### Talk to us here
+### Talk to us here 💬🗨
 
 [Contact form](https://jefawk.com/contact/index.html)
 
-[![Discord logo image](assets/img/logos/discord-white-245x240.png "Discord logo")](https://jefawk.com/contact/discord.html)[![Patreon logo image](assets/img/logos/patreon-60x60.png "Patreon logo")](https://www.patreon.com/jefawk)[](https://jefawk.com/contact/facebook.html)[](https://jefawk.com/contact/twitter.html)[](https://www.instagram.com/jefawk/)
+[![Discord logo image](assets/img/logos/discord-white-245x240.png "Discord logo")](https://jefawk.com/contact/discord.html)[![Patreon logo image](assets/img/logos/patreon-60x60.webp "Patreon logo")](https://www.patreon.com/jefawk)[](https://jefawk.com/contact/facebook.html)[](https://jefawk.com/contact/twitter.html)[](https://www.instagram.com/jefawk/)
 
 Copyright © 2024 JeFawk & Frostnight Illustrations. All rights reserved.
