@@ -3,12 +3,11 @@
 menu
 
 * [Auto](https://auto.everquote.com/?tid=2818)down
-* [Home](https://home.everquote.com/)down
-* [Renters](https://renters.everquote.com/)down
+* [Home & Renters](https://home.everquote.com/)down
 * [Life](https://life.everquote.com/)down
 * [For Agents](https://www.everquote.com/pro)
 
-[Get Auto Quotes](https://auto.everquote.com/?source=lightning&tid=2818&clickedon=top_nav)
+[Get auto quotes](https://auto.everquote.com/?source=lightning&tid=2818&clickedon=top_nav)
 
 1. [Home](https://www.everquote.com/)
 
@@ -216,7 +215,7 @@ If you have any questions regarding any of these Terms, please contact us by cli
 
 ### Fast, Free Auto Insurance Quotes
 
-Zip Code
+ZIP Code
 
 checkContinue
 
