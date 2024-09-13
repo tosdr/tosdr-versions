@@ -231,7 +231,7 @@ ACT collects your personal information so that we can use the information as des
 
 ACT may use automated means to make decisions about you, including scoring assessments, assigning you a testing location, and carrying out test security. ACT will only use such automated means as (1) necessary for the performance of its contract with you to provide the ACT Products, or (2) as explicitly consented to by you.
 
-_Last Updated: July 12, 2024_
+_Last Updated: August 30, 2024_
 
 [![Link to Home Page](/etc/designs/act/clientlibs/act-base/img/logo-act-rev-300.png)](https://www.act.org/)
 
