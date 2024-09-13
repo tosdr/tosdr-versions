@@ -1,8 +1,6 @@
-![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)             
+![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)            
 
-Terms & Conditions – Omax Health - Omax Health               
-
-               
+Terms & Conditions – Omax Health - Omax Health                                      
 
 FREE U.S. SHIPPING ON ALL ORDERS
 
@@ -303,13 +301,13 @@ Go to product page
 
 ### Let customers speak for us
 
-[3380 reviews](https://omaxhealth.com/pages/reviews)
+[3383 reviews](https://omaxhealth.com/pages/reviews)
 
 [Write a review](#)
 
 91%
 
-(3063)
+(3064)
 
 5%
 
@@ -325,9 +323,17 @@ Go to product page
 
 2%
 
-(52)
+(53)
 
-2180
+2182
+
+V
+
+[3 Pack CryoFreeze® Hemp CBD Roll-On | Extra Strength](https://omaxhealth.com/products/3-pack-cryofreeze-hemp-cbd-roll-on-extra-strength#judgeme_product_reviews)
+
+Valerie
+
+One of the best I have ever tried. If you’re used to muscle rubs- then try this one. I prefer the extra strength option. But it’s great on my back and knees.
 
 K
 
@@ -350,15 +356,5 @@ Ray A.
 Learned about Omax Health from The Dan Bongino Show and thought it’s worth a try. Having had back and neck fusion surgery, both shoulders replaced along with a hip replacement MANY TOPICAL PAIN RELIEVERS have been tried with no appreciable pain relief. UNTIL OMAC ROLLON MIRACLE IN A TUBE!! This product has proved since day one to be an almost instant pain relief! THRILLED TO HAVE FOUND YOU!!!
 
 [](https://judgeme.imgix.net/omax-health/1725741320__image__original.jpg?auto=format)
-
-S
-
-[Omax3® Omega 3 Fish Oil | 750 mg](https://omaxhealth.com/products/omax3-ultra-pure#judgeme_product_reviews)
-
-Silvio H.
-
-**BEST PRODUCT FOR INFLAMMATION**
-
-I've been taking this supplement for ten years. Recently I switched to a different manufacturer upon the recommendation of a friend. Within two weeks the pain, stiffness and infammation was back with a vengeance. I have since returned to OMAX3 and I now live pain free. I'll never stop using this product.
 
 Load More
