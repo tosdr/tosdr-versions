@@ -1,4 +1,4 @@
-ForwardQ3 2024 product showcase for what's new and next at Paddle   [Join us live](https://www.paddle.com/forward "Join us")
+ForwardQ3 2024 product showcase for what's new and next at Paddle   [Join us live](https://paddle.com/forward "Join us")
 
 [](https://www.paddle.com/)
 
