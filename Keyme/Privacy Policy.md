@@ -17,7 +17,7 @@ undefined
 _close_
 
 Privacy Policy
---------------
+==============
 
 We're committed to protecting your privacy
 
