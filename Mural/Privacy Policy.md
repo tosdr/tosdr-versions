@@ -68,7 +68,7 @@ The state of teamwork is ... not great. Learn why workers and leaders are feelin
 
 Search
 
-[](https://app.mural.co/signin)
+[Sign in](https://app.mural.co/signin)
 
 Sign in
 
