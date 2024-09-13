@@ -857,14 +857,14 @@ Previous Version(s):
 
 ‍
 
-![Backblaze logo](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/663e56ecd400ff9b4fd5acc2_whiteBackblazeLogo.svg)
-
 A Publicly Traded Company (BLZE)  
 Backblaze © 2024
 
-[![](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/6655f4a13916f094bbd5082e_linkedin%20logo.svg)](https://www.linkedin.com/company/backblaze/)[![](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/6655f4de99620d07dc8a1c4b_youtube.svg)](https://www.youtube.com/channel/UCpIVQUYBArvA9JcnGJksxGA)[![](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/6655f4de51abfc4eb15dfe91_twitter.svg)](https://twitter.com/backblaze)[![](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/6655f4b7675e810a69fb82d1_facebook.svg)](https://facebook.com/backblaze)
+[](https://www.linkedin.com/company/backblaze/)[](https://www.youtube.com/channel/UCpIVQUYBArvA9JcnGJksxGA)[](https://twitter.com/backblaze)[](https://facebook.com/backblaze)
 
-[About Us](https://www.backblaze.com/company/about)[Newsroom](https://www.backblaze.com/company/news)[Investor Relations](https://ir.backblaze.com/)[Careers](https://www.backblaze.com/company/jobs)[Terms and Policies](https://www.backblaze.com/company/policy/terms-of-service)[Privacy](https://www.backblaze.com/company/policy/privacy)[Contact](https://www.backblaze.com/company/contact)
+[About Us](https://www.backblaze.com/company/about)[Newsroom](https://www.backblaze.com/company/news)[Investor Relations](https://ir.backblaze.com/)[Careers](https://www.backblaze.com/company/jobs)
+
+[Terms and Policies](https://www.backblaze.com/company/policy/terms-of-service)[Privacy](https://www.backblaze.com/company/policy/privacy)[Contact](https://www.backblaze.com/company/contact)
 
 ### Staging secure is temporarily unavailable. Please check for any ongoing deploys. If none are in progress, contact the fullstack team for assistance. Click me to dismiss.
 
