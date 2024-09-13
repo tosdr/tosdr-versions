@@ -14,17 +14,17 @@
 #### Link trực tiếp xem  
 bóng đá 1
 
-[xem ngay](https://bit.ly/colatv1)
+[xem ngay](https://bit.ly/colatv01)
 
 #### Link trực tiếp xem  
 bóng đá 2
 
-[xem ngay](https://bit.ly/colatv1)
+[xem ngay](https://bit.ly/colatv01)
 
 #### Giới thiệu
 
-Saoke TV - Xem trực tiếp bóng đá sao ke tv chất lượng cao
-=========================================================
+Saoke TV - Link trực tiếp bóng đá sao ke không QC, full HD
+==========================================================
 
 [Saoke](http://www.scamcallfighters.com/) Tv - Xem trực tiếp bóng đá chất lượng tại saoke tv với sự đa dạng video phát trực tiếp thể thao hoàn toàn miễn phí, link trực tiếp bóng đá an toàn không quảng cáo. Saoke TV còn hỗ trợ xem bóng đá trực tiếp trên điện thoại.
 
@@ -306,7 +306,7 @@ Giới thiệu trang phunucodon.me - Saoke(\*\*\*.0.57). Saoke TV - Trang web xe
 
 ![protect](/themes/colatv/assets/image/CN_cola.png)
 
-Trang web saoketva.site đang chờ đăng ký giấy phép hoạt động.
+Trang web saoketvc.world đang chờ đăng ký giấy phép hoạt động.
 
 Điện thoại: [09789234820](tel:09789234820)
 
@@ -316,7 +316,7 @@ Email: [\[email protected\]](http://www.scamcallfighters.com/cdn-cgi/l/email-pr
 
 [RSS](http://www.scamcallfighters.com/feed/) [Giới thiệu](http://www.scamcallfighters.com/gioi-thieu.html "Giới thiệu") [Liên hệ](http://www.scamcallfighters.com/lien-he.html "Liên hệ") [Điều khoản](http://www.scamcallfighters.com/dieu-khoan-html "Điều khoản")
 
-Copyright 2023 by [saoketva.site](http://www.scamcallfighters.com/ana-cooljapan.com) . All rights reserved.
+Copyright 2023 by [saoketvc.world](http://www.scamcallfighters.com/ana-cooljapan.com) . All rights reserved.
 
 x
 
