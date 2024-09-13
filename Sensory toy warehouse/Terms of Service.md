@@ -98,6 +98,7 @@
 * [Kits](https://www.sensorytoywarehouse.com/product-category/sensory-toys-kits-collections/)
 * [Pocket Money Toys](https://www.sensorytoywarehouse.com/product-category/pocketmoney/)
 * [Adult](https://www.sensorytoywarehouse.com/product-category/adult-sensory-toys/)
+* [Clearance](https://www.sensorytoywarehouse.com/product-category/clearance/)
 
 Back to School 20% Discount applied to all products
 
@@ -330,6 +331,7 @@ Copyright 2024 © **Sensory Toy Warehouse**
 * [Kits](https://www.sensorytoywarehouse.com/product-category/sensory-toys-kits-collections/)
 * [Pocket Money Toys](https://www.sensorytoywarehouse.com/product-category/pocketmoney/)
 * [Adult](https://www.sensorytoywarehouse.com/product-category/adult-sensory-toys/)
+* [Clearance](https://www.sensorytoywarehouse.com/product-category/clearance/)
 * [Login](https://www.sensorytoywarehouse.com/my-account/)
 * [Newsletter](#header-newsletter-signup "Sign up for Newsletter")
 * [](http://url/ "Follow on Facebook")[](http://url/ "Follow on Instagram")[](http://url/ "Follow on Twitter")[](mailto:your@email "Send us an email")
