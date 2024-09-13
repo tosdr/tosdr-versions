@@ -28,7 +28,7 @@ Wann? Camp oder Cabin? Suchen
 
 * * *
 
-* SpracheDeutschEnglishItaliano
+* SpracheDeutschEnglishItalianoFrançaisEspañol
     
 
 AGB
@@ -277,6 +277,9 @@ Entspannt: Der Gast kann bis 10 Tag vor seiner Anreise stornieren und erhält de
 
 Moderat: Der Gast kann bis 30 Tag vor seiner Anreise stornieren und erhält den gesamten Buchungsbetrag inkl. Hinterland Servicegebühren zurück.
 
+5.3  
+Eine Rückbuchung über die Kreditkarte oder eine SEPA Lastschriftrückgabe der Zahlung (Chargeback) ist nicht als Stornierung zulässig. Die entstandenen Bearbeitungs- und Anfechtungsgebühren durch die Bank sowie Stripe die durch abgebrochenen Zahlungen entstehen, werden an den Gast weiterberechnet.  
+
 ### 6\. Hinweise zur Einhaltung von Gesetzen, Vorschriften und Rechten Dritter
 
   
@@ -414,7 +417,7 @@ Auf ins Hinterland, wo Freiheit und Abenteuer Zuhause sind! Bei uns findest du 3
 
 [App Store![App Store Logo](/footer/app-store.svg)](https://apps.apple.com/app/hinterland/id1634171157)[Google Play Store![Google Play Store Logo](/footer/play-store.svg)](https://play.google.com/store/apps/details?id=camp.hinterland.app&hl=de)
 
-SpracheDeutschEnglishItaliano
+SpracheDeutschEnglishItalianoFrançaisEspañol
 
 [Impressum](https://www.hinterland.camp/imprint)[AGB](https://www.hinterland.camp/terms)[Datenschutz](https://www.hinterland.camp/privacy)Cookies
 
