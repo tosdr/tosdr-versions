@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![30 Facts About Randy Arozarena ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/lifestyle/sports/30-facts-about-randy-arozarena/)
+[![16 Facts About National Zoo  Aquarium ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/world/landmarks/16-facts-about-national-zoo-aquarium/)
 
-Sports
+Landmarks
 
-30 Jul 2024
+12 Sep 2024
 
-[30 Facts About Randy Arozarena](https://facts.net/lifestyle/sports/30-facts-about-randy-arozarena/)
+[16 Facts About National Zoo Aquarium](https://facts.net/world/landmarks/16-facts-about-national-zoo-aquarium/)
 
-[![24 Facts About Heaven In Christianity ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2279%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/religion/24-facts-about-heaven-in-christianity/)
+[![35 Facts About German New Medicine ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/medicine/35-facts-about-german-new-medicine/)
 
-Religion
+Medicine
 
-30 Jul 2024
+12 Sep 2024
 
-[24 Facts About Heaven In Christianity](https://facts.net/history/religion/24-facts-about-heaven-in-christianity/)
+[35 Facts About German New Medicine](https://facts.net/fitness-and-wellbeing/medicine/35-facts-about-german-new-medicine/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
@@ -479,5 +479,10 @@ If you have questions or comments about this policy, email us at **contact@facts
 * [Submit Facts](https://facts.net/fact-submission-page/)
 * [More Facts](https://facts.net/more-category/)
 * [Shop Facts.net Merchandise](https://shop.facts.net/)
+* [🇩🇪 Fakten auf Deutsch](https://de.facts.net/)
+* [🇫🇷 Faits en français](https://fr.facts.net/)
+* [🇪🇸 Hechos en Español](https://es.facts.net/)
+* [🇮🇹 Fatti in Italiano](https://it.facts.net/)
+* [🇧🇷 🇵🇹 Fatos em português](https://pt.facts.net/)
 
 Follow us [Subscribe to our channel](https://www.youtube.com/channel/UCkEWgtngMrn9AcsRTmDgPIQ)
