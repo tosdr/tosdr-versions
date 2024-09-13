@@ -392,7 +392,7 @@ Solutions
 * [At home](https://kahoot.com/home/)
 * [At school](https://kahoot.com/schools/)
 * [At work](https://kahoot.com/business/)
-* [Academy](https://kahoot.com/academy/)
+* [Community](https://kahoot.com/community/)
 * [Marketplace](https://create.kahoot.it/hub/marketplace)
 * [Actimo](https://kahoot.com/business/solutions/actimo/)
 * [Motimate](https://kahoot.com/business/solutions/motimate/)
@@ -402,7 +402,7 @@ Solutions
 
 Resources
 
-* [Explore content](https://kahoot.com/academy/study/)
+* [Explore content](https://kahoot.com/community/study/)
 * [Blog](https://kahoot.com/blog/)
 * [Webinars](https://kahoot.com/webinars/)
 * [Kahoot! Certified](https://kahoot.com/certified/)
@@ -424,7 +424,7 @@ Terms and conditions
 
 Follow us
 
-* [Twitter](https://twitter.com/kahoot)
+* [X](https://x.com/kahoot)
 * [Facebook](https://www.facebook.com/getkahoot)
 * [LinkedIn](https://www.linkedin.com/company/kahoot)
 * [Instagram](https://www.instagram.com/kahoot/)
