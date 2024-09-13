@@ -59,13 +59,14 @@ English Français Deutsch 日本語 한국어 Italiano Español
         * [Manufacturing](https://www.panopto.com/industries/manufacturing/)
         * [Telecommunications](https://www.panopto.com/industries/telecommunications/)
     * By Use Case
-        * [Video Platform for Corporate Communications](https://www.panopto.com/use-cases/corporate-communications/)
+        * [Video Platform forCorporate Communications](https://www.panopto.com/use-cases/corporate-communications/)
         * [Employee Onboarding Software](https://www.panopto.com/use-cases/employee-onboarding/)
         * [Hybrid & Hyflex Learning](https://www.panopto.com/use-cases/hybrid-hyflex-learning/)
         * [Knowledge Sharing Platform](https://www.panopto.com/use-cases/knowledge-sharing/)
         * [AI Meeting Recording Software](https://www.panopto.com/use-cases/meeting-intelligence/)
         * [Online Video Training Platform](https://www.panopto.com/use-cases/video-training/)
     
+* [Switch to Panopto](https://www.panopto.com/switching-to-panopto/)
 * Resources & Support
     
     ![](https://www.panopto.com/wp-content/uploads/2024/07/1075-_pop-650x650.png)
@@ -210,3 +211,7 @@ We believe in the power of learning, and we built an intelligent platform to hel
 Copyright © 2024 Panopto. All Rights reserved.
 
 ![](https://px.ads.linkedin.com/collect/?pid=3246241&fmt=gif)
+
+[![](https://www.panopto.com/wp-content/uploads/2024/09/1200x628_popup-ai-powered-video-1-1.png)](https://www.panopto.com/resource/2024-video-training-trends-for-a-smarter-workforce/?utm_source=homepage&utm_medium=pop_up&utm_campaign=2024_video_training_trends&utm_id=1165)
+
+X
