@@ -119,6 +119,7 @@ If you have any questions about this Privacy Policy, please contact us via this 
 * [Blog](https://blog.giveawayoftheday.com/)
 * [Privacy Policy](https://www.giveawayoftheday.com/privacy_policy.html)
 * [Cookie Policy](https://www.giveawayoftheday.com/cookie_policy.html)
+* [Terms](https://www.giveawayoftheday.com/terms.html)
 
 * [RSS Feed](https://www.giveawayoftheday.com/feed/)
 * [RSS Comments Feed](https://www.giveawayoftheday.com/comments/feed/)
