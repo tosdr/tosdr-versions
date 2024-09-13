@@ -111,8 +111,6 @@ We may use your personal information, including any health-related information y
 * **Security and Auditing:** We may use your information to audit interactions with you, count ad impressions, detect security incidents, protect against fraud or other malicious activity, and identify and repair errors that may arise.
 * **Complying with Law:** We may use your information to comply with applicable laws, including as required by judicial or administrative proceedings.
 
-In addition to the specific uses described above, we may use any of the above information to provide you with the Services, to maintain our business relationship, to enforce any applicable terms of service, and to protect the Services, our rights, and the rights of our employees, users or other individuals.
-
 ### How We Share Your Personal Information
 
 **With Other Members of the Social Network**
