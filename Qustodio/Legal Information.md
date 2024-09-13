@@ -193,9 +193,3 @@ Follow @qustodio
 ![](https://www.qustodio.com/wp-content/themes/Divi-child/assets/src/img/template-parts/footer/copyright-logo.png) © 2024 Qustodio is a registered trademark of Qustodio LLC. All rights reserved.
 
 ![](https://www.qustodio.com/wp-content/themes/Divi-child/assets/src/img/template-parts/footer/badges.png)
-
-### **Back to school sale!**
-
-Give your child the digital tools to succeed this school year. Use code BTS10 for 10% off Premium.
-
-[Explore features](https://www.qustodio.com/en/premium/) [Explore features](https://www.qustodio.com/en/premium/) [Explore features](https://www.qustodio.com/en/premium/)
