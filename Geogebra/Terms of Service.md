@@ -8,37 +8,37 @@ Search
 
 Resources
 
-[![Number Sense](https://www.geogebra.org/sp-assets/assets/images/header-images/en-resources/Number_sense_1x.webp)
+[![Number Sense](/sp-assets/assets/images/header-images/en-resources/Number_sense_1x.3b248a69.webp)
 
 Number Sense
 
 Understanding numbers, their relationships and numerical reasoning](https://www.geogebra.org/math/number-sense)
 
-[![Algebra](https://www.geogebra.org/sp-assets/assets/images/header-images/en-resources/Algebra_1x.webp)
+[![Algebra](/sp-assets/assets/images/header-images/en-resources/Algebra_1x.5153ec62.webp)
 
 Algebra
 
 Using symbols to solve equations and express patterns](https://www.geogebra.org/math/algebra)
 
-[![Geometry](https://www.geogebra.org/sp-assets/assets/images/header-images/en-resources/Geometry_1x.webp)
+[![Geometry](/sp-assets/assets/images/header-images/en-resources/Geometry_1x.db34e5a8.webp)
 
 Geometry
 
 Studying shapes, sizes and spatial relationships in mathematics](https://www.geogebra.org/math/geometry)
 
-[![Measurement](https://www.geogebra.org/sp-assets/assets/images/header-images/en-resources/Measurement_1x.webp)
+[![Measurement](/sp-assets/assets/images/header-images/en-resources/Measurement_1x.3408bddc.webp)
 
 Measurement
 
 Quantifying and comparing attributes like length, weight and volume](https://www.geogebra.org/math/measurement)
 
-[![Operations](https://www.geogebra.org/sp-assets/assets/images/header-images/en-resources/Operations_1x.webp)
+[![Operations](/sp-assets/assets/images/header-images/en-resources/Operations_1x.087d7ea7.webp)
 
 Operations
 
 Performing mathematical operations like addition, subtraction, division](https://www.geogebra.org/math/operations)
 
-[![Probability and Statistics](https://www.geogebra.org/sp-assets/assets/images/header-images/en-resources/Probability_and_Statistics_1x.webp)
+[![Probability and Statistics](/sp-assets/assets/images/header-images/en-resources/Probability_and_Statistics_1x.113a4954.webp)
 
 Probability and Statistics
 
@@ -92,37 +92,37 @@ Exploring apps bundle including free tools for geometry, spreadsheet and CAS](ht
 
 Join Lesson
 
-[![Number Sense](https://www.geogebra.org/sp-assets/assets/images/header-images/en-resources/Number_sense_1x.webp)
+[![Number Sense](/sp-assets/assets/images/header-images/en-resources/Number_sense_1x.3b248a69.webp)
 
 Number Sense
 
 Understanding numbers, their relationships and numerical reasoning](https://www.geogebra.org/math/number-sense)
 
-[![Algebra](https://www.geogebra.org/sp-assets/assets/images/header-images/en-resources/Algebra_1x.webp)
+[![Algebra](/sp-assets/assets/images/header-images/en-resources/Algebra_1x.5153ec62.webp)
 
 Algebra
 
 Using symbols to solve equations and express patterns](https://www.geogebra.org/math/algebra)
 
-[![Geometry](https://www.geogebra.org/sp-assets/assets/images/header-images/en-resources/Geometry_1x.webp)
+[![Geometry](/sp-assets/assets/images/header-images/en-resources/Geometry_1x.db34e5a8.webp)
 
 Geometry
 
 Studying shapes, sizes and spatial relationships in mathematics](https://www.geogebra.org/math/geometry)
 
-[![Measurement](https://www.geogebra.org/sp-assets/assets/images/header-images/en-resources/Measurement_1x.webp)
+[![Measurement](/sp-assets/assets/images/header-images/en-resources/Measurement_1x.3408bddc.webp)
 
 Measurement
 
 Quantifying and comparing attributes like length, weight and volume](https://www.geogebra.org/math/measurement)
 
-[![Operations](https://www.geogebra.org/sp-assets/assets/images/header-images/en-resources/Operations_1x.webp)
+[![Operations](/sp-assets/assets/images/header-images/en-resources/Operations_1x.087d7ea7.webp)
 
 Operations
 
 Performing mathematical operations like addition, subtraction, division](https://www.geogebra.org/math/operations)
 
-[![Probability and Statistics](https://www.geogebra.org/sp-assets/assets/images/header-images/en-resources/Probability_and_Statistics_1x.webp)
+[![Probability and Statistics](/sp-assets/assets/images/header-images/en-resources/Probability_and_Statistics_1x.113a4954.webp)
 
 Probability and Statistics
 
