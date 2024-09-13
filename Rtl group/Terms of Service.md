@@ -315,6 +315,14 @@ Europe's leading entertainment brand
     
     Modernity meets history and sustainability: RTL Hungary has moved part of its operations to a newly renovated building in downtown Budapest.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/A-new-home-for-RTL-Hungary/)
     
+* [![slide-RTL Deutschland expands partnership with Vodafone](/.galleries/images/RTL-Deutschland-Vodafone_16-9.jpg?__scale=undefined&description=)
+    
+    RTL Deutschland expands partnership with Vodafone
+    
+    13.09.2024
+    
+    RTL Deutschland extends its partnership with Vodafone to offer content across streaming and linear TV to customers in Germany.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/RTL-Deutschland-expands-partnership-with-Vodafone/)
+    
 * [![slide-RTL Deutschland's 2024 Sustainability Week](/.galleries/images/Sustainability-week-2024_16-9.jpg?__scale=undefined&description=)
     
     RTL Deutschland's 2024 Sustainability Week
@@ -346,14 +354,6 @@ Europe's leading entertainment brand
     09.09.2024
     
     RTL Deutschland and UFA have secured 20 nominations in total at the 2024 Deutscher Fernsehpreis (German Television Awards).](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/20-nominations-for-the-Deutscher-Fernsehpreis/)
-    
-* [![slide-New branding for Enex](/.galleries/images/ENEX-Strong-Partners.-Strong-News.png?__scale=undefined&description=)
-    
-    New branding for Enex
-    
-    02.09.2024
-    
-    Enex introduces a new logo, brand identity and public website to reflect the news agency’s recent innovations and strong international network.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/New-branding-for-Enex/)
     
 * [![slide-RTL Group interim results 2024](/.galleries/images/RTL-Group-interim-results-2024_16-9.jpg?__scale=undefined&description=)
     
