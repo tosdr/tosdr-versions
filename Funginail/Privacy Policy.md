@@ -1,28 +1,28 @@
 [Skip to content](#content)
 
-[![Maximum Strength Fungi-Nail® Anti Fungal Products](https://funginail.wpengine.com/wp-content/uploads/2019/05/funginail-logo.jpg)](https://funginail.wpengine.com/)
+[![Maximum Strength Fungi-Nail® Anti Fungal Products](https://funginail.com/wp-content/uploads/2019/05/funginail-logo.jpg)](https://funginail.com/)
 
-* [Fungi-Nail® Products](https://funginail.wpengine.com/products/)
-* [Toe Fungus](https://funginail.wpengine.com/toe-fungus/)
-* [FAQ](https://funginail.wpengine.com/faq/)
-* [Where to Buy](https://funginail.wpengine.com/where-to-buy/)
-* [Fungi-Nail® Reviews](https://funginail.wpengine.com/reviews/)
-* [Product Guarantee](https://funginail.wpengine.com/product-guarantee/)
+* [Fungi-Nail® Products](https://funginail.com/products/)
+* [Toe Fungus](https://funginail.com/toe-fungus/)
+* [FAQ](https://funginail.com/faq/)
+* [Where to Buy](https://funginail.com/where-to-buy/)
+* [Fungi-Nail® Reviews](https://funginail.com/reviews/)
+* [Product Guarantee](https://funginail.com/product-guarantee/)
 
 * [Fungi-Nail® Products](# "Fungi-Nail® Products")
     * [All Products](https://funginail.com/products/ "All Products")
-    * [Fungi-Nail® Anti-Fungal Pen](https://funginail.wpengine.com/products/fungi-nail-toe-pen/ "Fungi-Nail® Anti-Fungal Pen")
-    * [Fungi-Nail® Anti-Fungal Liquid](https://funginail.wpengine.com/products/fungi-nail-toe-solution/ "Fungi-Nail® Anti-Fungal Liquid")
-    * [Fungi-Nail® Anti-Fungal Ointment](https://funginail.wpengine.com/products/fungi-nail-toe-ointment/ "Fungi-Nail® Anti-Fungal Ointment")
-* [Toe Fungus](https://funginail.wpengine.com/toe-fungus/ "Toe Fungus")
-* [FAQ](https://funginail.wpengine.com/faq/ "FAQ")
-* [Where to Buy](https://funginail.wpengine.com/where-to-buy/ "Where to Buy")
+    * [Fungi-Nail® Anti-Fungal Pen](https://funginail.com/products/fungi-nail-toe-pen/ "Fungi-Nail® Anti-Fungal Pen")
+    * [Fungi-Nail® Anti-Fungal Liquid](https://funginail.com/products/fungi-nail-toe-solution/ "Fungi-Nail® Anti-Fungal Liquid")
+    * [Fungi-Nail® Anti-Fungal Ointment](https://funginail.com/products/fungi-nail-toe-ointment/ "Fungi-Nail® Anti-Fungal Ointment")
+* [Toe Fungus](https://funginail.com/toe-fungus/ "Toe Fungus")
+* [FAQ](https://funginail.com/faq/ "FAQ")
+* [Where to Buy](https://funginail.com/where-to-buy/ "Where to Buy")
 
 ### Privacy Policy
 
 Our privacy policy
 
-![Fungi-Nail Products](https://funginail.wpengine.com/wp-content/uploads/2021/02/funginail-product-trio-safe.png)
+![Fungi-Nail Products](https://funginail.com/wp-content/uploads/2021/02/funginail-product-trio-safe.png)
 
 ![](/wp-content/uploads/2019/05/money-back.png)
 
@@ -175,12 +175,12 @@ Learn more at [KramerLabs.com](http://kramerlabs.com/)
 
 [HC Max™](http://hongocura.com/)
 
-* [Where To Buy Fungi-Nail®](https://funginail.wpengine.com/where-to-buy/)
-* [Fungi-Nail® Reviews](https://funginail.wpengine.com/reviews/)
-* [FAQ](https://funginail.wpengine.com/faq/)
-* [Product Guarantee](https://funginail.wpengine.com/product-guarantee/)
-* [Privacy Policy](https://funginail.wpengine.com/privacy-policy/)
-* [Terms of Use](https://funginail.wpengine.com/terms-of-use/)
+* [Where To Buy Fungi-Nail®](https://funginail.com/where-to-buy/)
+* [Fungi-Nail® Reviews](https://funginail.com/reviews/)
+* [FAQ](https://funginail.com/faq/)
+* [Product Guarantee](https://funginail.com/product-guarantee/)
+* [Privacy Policy](https://funginail.com/privacy-policy/)
+* [Terms of Use](https://funginail.com/terms-of-use/)
 
 **Kramer Laboratories, Inc.**
 
