@@ -101,14 +101,14 @@ Vous avez la possibilité de paramétrer la réception de cookies sur votre term
 2. **IAB Initiative ( Groupe d'annonceurs )** [Your ad choices](https://www.youronlinechoices.com/fr/controler-ses-cookies/)
 3. **FACEBOOK AD CHOICE** [FaceBook Ad Choices](https://accountscenter.facebook.com/ad_preferences#_=_)
 
-### Offres & Services
+Offres & Services
 
 ![arrow icon](/assets/footer/icons/arrow-down-s.svg)
 
 * [Freebox Ultra](https://www.free.fr/freebox/freebox-ultra/)
 * [Freebox Ultra Essentiel](https://www.free.fr/freebox/freebox-ultra-essentiel/)
 * [Freebox Pop](https://www.free.fr/freebox/freebox-pop/)
-* [Freebox Révolution Light](https://www.free.fr/freebox/freebox-revolution-light/)
+* [Série Spéciale Freebox Révolution Light](https://www.free.fr/freebox/freebox-revolution-light/)
 * [Freebox + Mobile](https://www.free.fr/freebox/offres-freebox-mobile/)
 * [Répéteur Wi-Fi](https://www.free.fr/freebox/repeteur-wifi/)
 * [OQEE by Free](https://www.free.fr/freebox/oqee-by-free/)
@@ -116,7 +116,7 @@ Vous avez la possibilité de paramétrer la réception de cookies sur votre term
 * [Carte fibre / ADSL](https://www.free.fr/freebox/carte-fibre-optique/)
 * [Plan du site](https://www.free.fr/plan-du-site/)
 
-### Abonné
+Abonné
 
 ![arrow icon](/assets/footer/icons/arrow-down-s.svg)
 
@@ -128,7 +128,7 @@ Vous avez la possibilité de paramétrer la réception de cookies sur votre term
 * [Compte accès libre](https://subscribe.free.fr/account/#/)
 * [Applications Free](https://www.free.fr/freebox/vos-applications/)
 
-### Aide & Contact
+Aide & Contact
 
 ![arrow icon](/assets/footer/icons/arrow-down-s.svg)
 
@@ -141,7 +141,7 @@ Vous avez la possibilité de paramétrer la réception de cookies sur votre term
 * [Guide Pratique](https://www.free.fr/pdf/cnc_guide_interactif.pdf)
 * [Protection de l'enfance](https://www.free.fr/freebox/informations/protection-enfance/)
 
-### Société
+Société
 
 ![arrow icon](/assets/footer/icons/arrow-down-s.svg)
 
@@ -155,7 +155,7 @@ Offres & Services
 * [Freebox Ultra](https://www.free.fr/freebox/freebox-ultra/)
 * [Freebox Ultra Essentiel](https://www.free.fr/freebox/freebox-ultra-essentiel/)
 * [Freebox Pop](https://www.free.fr/freebox/freebox-pop/)
-* [Freebox Révolution Light](https://www.free.fr/freebox/freebox-revolution-light/)
+* [Série Spéciale Freebox Révolution Light](https://www.free.fr/freebox/freebox-revolution-light/)
 * [Freebox + Mobile](https://www.free.fr/freebox/offres-freebox-mobile/)
 * [Répéteur Wi-Fi](https://www.free.fr/freebox/repeteur-wifi/)
 * [OQEE by Free](https://www.free.fr/freebox/oqee-by-free/)
