@@ -81,7 +81,6 @@ Menu
     * [Sports](https://apnews.com/sports)
         
         * [MLB](https://apnews.com/hub/mlb)
-        * [U.S. Open Tennis](https://apnews.com/hub/us-open-tennis-championships)
         * [Paralympic Games](https://apnews.com/hub/paralympic-games)
         * [NFL](https://apnews.com/hub/nfl)
         * [College football](https://apnews.com/hub/college-football)
@@ -177,7 +176,6 @@ Show Search
 * [Sports](https://apnews.com/sports)
     
     * [MLB](https://apnews.com/hub/mlb)
-    * [U.S. Open Tennis](https://apnews.com/hub/us-open-tennis-championships)
     * [Paralympic Games](https://apnews.com/hub/paralympic-games)
     * [NFL](https://apnews.com/hub/nfl)
     * [College football](https://apnews.com/hub/college-football)
@@ -275,15 +273,15 @@ Show Search
 * Copyright 2024 The Associated Press. All Rights Reserved.
     
 
-[Live updates: Debate night](https://apnews.com/live/harris-trump-debate-election-2024-updates)
+[Israel-Hamas war](https://apnews.com/projects/west-bank-palestinian-teenagers-israel/)
 
-[SpaceX launch](https://apnews.com/article/spacex-polaris-dawn-private-spacewalk-707e90a2868ce37f8c0c2028004f91b9)
+[Tua Tagovailoa concussion](https://apnews.com/article/tua-tagovailoa-injury-a8cc153d3ac902be42b710a187cea50e)
 
-[Hurricane Francine](https://apnews.com/article/tropical-storm-francine-hurricane-louisiana-9e12ece295d4728a556caa31959de83e)
+[Chad McQueen dies](https://apnews.com/article/chad-mcqueen-dead-obit-46564c50b5cefee553273ad0e932318b)
 
-[US wildfires](https://apnews.com/article/wildfires-california-nevada-heat-wave-0a0eb753eb8cf3f4224e6838cc47e5e5)
+[Mortgage rates](https://apnews.com/article/mortgage-rates-housing-interest-financing-home-loan-8570c997a844845d08eb123ab7aac5c2)
 
-[iPhone 16](https://apnews.com/article/apple-iphone-16-artificial-intelligence-google-samsung-4f30bf40ad89793d80f8ac3a20f9e79c)
+[F1 Azerbaijan](https://apnews.com/article/f1-azerbaijan-grand-prix-max-verstappen-a99d4e56e36e782933a32f2e797f295b)
 
 The Associated Press
 ====================
