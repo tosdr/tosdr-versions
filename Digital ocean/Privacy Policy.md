@@ -239,9 +239,9 @@ Privacy Policy
 
 Last Updated on May 14, 2024
 
-This Privacy Policy describes how DigitalOcean, LLC and its affiliates (“DigitalOcean,” “we,” “our” or “us”) collect, use, and share information in connection with your use of our websites (including www.digitalocean.com), services, and applications (collectively, the “Services”). This Privacy Policy (the “Privacy Policy”) does not apply to information our customers may process when using our Services.
+This Privacy Policy describes how DigitalOcean, LLC and its affiliates (“DigitalOcean,” “we,” “our” or “us”) collect, use, and share information in connection with your use of our websites (including [www.digitalocean.com](https://www.digitalocean.com/)), services, and applications (collectively, the “Services”). This Privacy Policy (the “Privacy Policy”) does not apply to information our customers may process when using our Services.
 
-If you are looking for California-specific information, check out our [CCPA Privacy Notice](https://www.digitalocean.com/legal/ccpa-privacy-notice/) as well, which is incorporated into this Privacy Policy.
+If you are looking for California-specific information, check out our [CCPA Privacy Notice](https://www.digitalocean.com/legal/ccpa-privacy-notice) as well, which is incorporated into this Privacy Policy.
 
 We may collect and receive information about users of our Services (“users,” “you,” or “your”) from various sources, including: (i) information you provide through your user account on the Services (your “Account”) if you register for the Services; (ii) your use of the Services; and (iii) from third-party websites, services, and partners.
 
@@ -328,8 +328,8 @@ DigitalOcean is committed to protecting your information. To do so, we employ a 
 
 For more information on DigitalOcean’s security controls, please see the following resources:
 
-* [Data Processing Agreement (DPA)](https://www.digitalocean.com/legal/data-processing-agreement/)
-* [Certification Reports](https://www.digitalocean.com/trust/certification-reports/)
+* [Data Processing Agreement (DPA)](https://www.digitalocean.com/legal/data-processing-agreement)
+* [Certification Reports](https://www.digitalocean.com/trust/certification-reports)
 * SOC 2 Type II (upon request to [privacy@digitalocean.com](mailto:privacy@digitalocean.com))
 * [SOC 3 Type II](https://www-static.cdn.prismic.io/www-static/62aae0a4-619c-4b87-9e91-deca34e0c07c_DigitalOcean+-+2021+Type+2+SOC+3+-+Report.pdf)
 
@@ -387,7 +387,7 @@ With respect to Personal Data of Data Subjects located in the EEA, Switzerland, 
 
 DigitalOcean, LLC complies with the EU-U.S. Data Privacy Framework (“EU-U.S. DPF”), the UK Extension to the EU-U.S. DPF (“UK Extension”), and the Swiss-U.S. Data Privacy Framework (“Swiss-U.S. DPF”) as set forth by the U.S. Department of Commerce. DigitalOcean has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension. DigitalOcean has also certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (together with the EU-U.S. Data Privacy Framework Principles, the “DPF Principles”) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this Privacy Policy and the DPF Principles, the DPF Principles will govern. To learn more about the Data Privacy Framework (“DPF”) program, and to view our certification, please visit [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/). DigitalOcean’s compliance with the EU-U.S. DPF, UK Extension, and Swiss-U.S. DPF is subject to the investigatory and enforcement powers of the Federal Trade Commission.
 
-Please also refer to our [GDPR FAQ](https://www.digitalocean.com/legal/gdpr-faq/) and [Data Processing Agreement](https://www.digitalocean.com/legal/data-processing-agreement/) for more information about data transfers.
+Please also refer to our [GDPR FAQ](https://www.digitalocean.com/legal/gdpr-faq) and [Data Processing Agreement](https://www.digitalocean.com/legal/data-processing-agreement) for more information about data transfers.
 
 DigitalOcean complies with the DPF Principles for all onward transfers of personal data from the EU, UK, and Switzerland, including the onward transfer liability provisions.
 
@@ -413,7 +413,7 @@ The data controller of your personal information is DigitalOcean, LLC.
 [Additional Disclosures](#additional-disclosures)[](#additional-disclosures)
 ----------------------------------------------------------------------------
 
-[CCPA Privacy Notice](https://www.digitalocean.com/legal/ccpa-privacy-notice/)
+[CCPA Privacy Notice](https://www.digitalocean.com/legal/ccpa-privacy-notice)
 
 [**Prior Versions of our Privacy Policy**](#prior-versions-of-our-privacy-policy)[](#prior-versions-of-our-privacy-policy)
 --------------------------------------------------------------------------------------------------------------------------
