@@ -5,9 +5,8 @@
 * [Company](https://fragmnt.com/company/)
 * [Careers](https://fragmnt.com/careers/)
 * [News](https://fragmnt.com/news/)
-
-* [LinkedIn](https://www.linkedin.com/company/fragment-media-group)
-* [contact](https://fragmnt.com/company/#contact)
+* * [LinkedIn](https://www.linkedin.com/company/fragment-media-group)
+    * [contact](https://fragmnt.com/company/#contact)
 
 We at Fragment Media Group created this privacy policy because we know that you care about how information you provide to us is used and shared. 
 
