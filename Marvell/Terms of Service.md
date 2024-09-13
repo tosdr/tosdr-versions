@@ -79,7 +79,7 @@ English
 
 * [About](https://www.marvell.com/company.html)
 * [Careers](https://www.marvell.com/company/careers.html)
-* [Environment, Social and Governance](https://www.marvell.com/company/esg.html)
+* [Sustainability](https://www.marvell.com/company/sustainability.html)
 * [Investors](https://investor.marvell.com/?src=main)
 * [Leadership](https://www.marvell.com/company/leadership/executive-team.html)
 
@@ -172,7 +172,7 @@ Our Company
 
 * [About](https://www.marvell.com/company.html)
 * [Careers](https://www.marvell.com/company/careers.html)
-* [Environment, Social and Governance](https://www.marvell.com/company/esg.html)
+* [Sustainability](https://www.marvell.com/company/sustainability.html)
 * [Investors](https://investor.marvell.com/?src=main)
 * [Leadership](https://www.marvell.com/company/leadership/executive-team.html)
 
