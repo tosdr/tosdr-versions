@@ -38,7 +38,7 @@
     * [Live Chat](javascript:%24zopim.livechat.window.show(); "Live Chat")
 * [Blog](https://internetbs.net/blog)
 
-[![Internet.bs](/themes/default/img/ibs-new-logo.png?v=3099044694 "Domain Registration, Web Hosting, Email Hosting, SSL Certificates")](https://internetbs.net/en/)
+[![Internet.bs](/themes/default/img/ibs-new-logo.png?v=3068470252 "Domain Registration, Web Hosting, Email Hosting, SSL Certificates")](https://internetbs.net/en/)
 
 [Login](https://internetbs.net/en/login.html)
 
@@ -812,4 +812,4 @@ Get Instant First Class Support
 
 This site is protected by reCAPTCHA and the Google [Privacy Policy](https://policies.google.com/privacy) and [Terms of Service](https://policies.google.com/terms) apply.
 
-Page Loading. Please wait... en 00b991d76a8342366f00697e3dcbd14fb097b168-1725996021-fbba12f0538fc8a1ed189677351d962c
+Page Loading. Please wait... en e4002d8412a2f190ec3eb9b203b14d4ea7e2b2ee-1726245192-cc9c345edc848725edfb8f075493bca0
