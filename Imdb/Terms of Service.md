@@ -1,4 +1,4 @@
-![](//fls-na.amazon.com/1/batch/1/OP/A1EVAM02EL8SFB:137-4841893-5787502:ASC3ASYEJ1CNAY5R3P99$uedata=s:%2Frd%2Fuedata%3Fstaticb%26id%3DASC3ASYEJ1CNAY5R3P99:0)      
+![](//fls-na.amazon.com/1/batch/1/OP/A1EVAM02EL8SFB:146-5032336-6345165:CHTE8VE0VJJ9XY3RQDZV$uedata=s:%2Frd%2Fuedata%3Fstaticb%26id%3DCHTE8VE0VJJ9XY3RQDZV:0)      
 
 Menu
 
@@ -58,9 +58,9 @@ AllAll
 
 [](https://pro.imdb.com/login/ap?u=/login/lwa&imdbPageAction=signUp&rf=cons_nb_hm&ref_=cons_nb_hm)
 
-[Watchlist](https://www.imdb.com/list/watchlist?ref_=nv_usr_wl_all_0)
+[Watchlist](https://www.imdb.com/list/watchlist/?ref_=nv_usr_wl_all_0)
 
-[Sign In](https://www.imdb.com/registration/signin?ref=nv_generic_lgin&u=)
+[Sign In](https://www.imdb.com/registration/signin/?ref=nv_generic_lgin&u=)
 
 EN
 
@@ -242,8 +242,8 @@ For Android and iOS
 * [Press Room](https://www.imdb.com/pressroom/?ref_=ft_pr)
 * [Advertising](https://advertising.amazon.com/resources/ad-specs/imdb/)
 * [Jobs](https://www.amazon.jobs/en/teams/imdb)
-* [Conditions of Use](https://www.imdb.com/conditions?ref_=ft_cou)
-* [Privacy Policy](https://www.imdb.com/privacy?ref_=ft_pvc)
+* [Conditions of Use](https://www.imdb.com/conditions/?ref_=ft_cou)
+* [Privacy Policy](https://www.imdb.com/privacy/?ref_=ft_pvc)
 * [](https://www.imdb.com/privacy/redirect/?ref_=ft_redir)[Your Ads Privacy Choices](https://www.imdb.com/privacy/redirect/?ref_=ft_redir)
     
 
@@ -251,4 +251,4 @@ IMDb, an Amazon company
 
 © 1990-2024 by IMDb.com, Inc.
 
-![](//fls-na.amazon.com/1/batch/1/OP/A1EVAM02EL8SFB:137-4841893-5787502:ASC3ASYEJ1CNAY5R3P99$uedata=s:%2Frd%2Fuedata%3Fnoscript%26id%3DASC3ASYEJ1CNAY5R3P99:0)
+![](//fls-na.amazon.com/1/batch/1/OP/A1EVAM02EL8SFB:146-5032336-6345165:CHTE8VE0VJJ9XY3RQDZV$uedata=s:%2Frd%2Fuedata%3Fnoscript%26id%3DCHTE8VE0VJJ9XY3RQDZV:0)
