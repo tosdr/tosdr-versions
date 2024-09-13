@@ -127,7 +127,7 @@ Menu
         * [Wealth Management](#)
             * [Wealth Management](#)
             
-            * [Financial Planning & Wealth Management (FPWM™)](https://corporatefinanceinstitute.com/certifications/financial-planning-and-wealth-management-fpwm-program/)
+            * [Financial Planning & Wealth Management Professional (FPWMP™)](https://corporatefinanceinstitute.com/certifications/financial-planning-and-wealth-management-fpwm-program/)
             
             * [Popular Wealth Management courses](#)
             
@@ -535,7 +535,7 @@ If you have any questions or comments regarding these Website Terms of Use, plea
     * [CBCA®](https://corporatefinanceinstitute.com/certifications/commercial-banking-credit-analyst-certification-cbca/)
     * [CMSA®](https://corporatefinanceinstitute.com/certifications/capital-markets-securities-analyst-cmsa/)
     * [BIDA®](https://corporatefinanceinstitute.com/certifications/business-intelligence-data-analyst-bida/)
-    * [FPWM™](https://corporatefinanceinstitute.com/certifications/financial-planning-and-wealth-management-fpwm-program/)
+    * [FPWMP™](https://corporatefinanceinstitute.com/certifications/financial-planning-and-wealth-management-fpwm-program/)
     * [ESG](https://corporatefinanceinstitute.com/certifications/environmental-social-governance-specialist/)
     * [Leadership](https://corporatefinanceinstitute.com/certifications/leadership-effectiveness-program/)
     * [Excel](https://corporatefinanceinstitute.com/certifications/excel-data-analysis-specialist/)
@@ -573,7 +573,7 @@ If you have any questions or comments regarding these Website Terms of Use, plea
 
 0 search results for ‘’
 
-People also search for: excel Free courses esg Free accounting TEMPLATE fmva
+People also search for: excel power bi esg accounting balance sheet fmva real estate
 
 Explore Our Certifications
 
@@ -585,7 +585,7 @@ Explore Our Certifications
 
 [Certified Business Intelligence & Data Analyst (BIDA)®](https://corporatefinanceinstitute.com/certifications/business-intelligence-data-analyst-bida/)
 
-[Financial Planning & Wealth Management (FPWM)™](https://corporatefinanceinstitute.com/certifications/financial-planning-and-wealth-management-fpwm-program/)
+[Financial Planning & Wealth Management Professional (FPWMP)™](https://corporatefinanceinstitute.com/certifications/financial-planning-and-wealth-management-fpwm-program/)
 
 [FinTech Industry Professional (FTIP)™](https://corporatefinanceinstitute.com/certifications/fintech-industry-professional/)
 
