@@ -1,13 +1,174 @@
-[![omada-logo](https://www.omadahealth.com/hubfs/omada-logo.svg "omada-logo")](https://www.omadahealth.com/)
+[![Omada Health logo](https://www.omadahealth.com/hs-fs/hubfs/omada_logo_horizontal.png?width=113&height=27&name=omada_logo_horizontal.png "Omada Health logo")](https://www.omadahealth.com/)
 
    
 
-* [Why Omada?](https://www.omadahealth.com/why-omada)
-* [What We Do](https://www.omadahealth.com/platform)
+* [For Individuals](https://www.omadahealth.com/)
+* [For Organizations](https://www.omadahealth.com/for-organizations)
+* 
+
+   
+
+ [![](https://www.omadahealth.com/hubfs/2024%20Assets/nav_back-arrow.svg) Main Menu](#)
+
+* How We Can Help
+    
+    * [###### Programs For You
+        
+        A healthier you is within reach. Omada is a virtual care program that helps you achieve your health goals.
+        
+        Learn More](https://www.omadahealth.com/for-individuals)
+        
+        * [![Prediabetes](https://www.omadahealth.com/hubfs/omada-images/website/Prediabetes.svg)
+            
+            Prevention](https://www.omadahealth.com/for-individuals/prediabetes)
+        * [![Diabetes](https://www.omadahealth.com/hubfs/omada-images/website/Diabetes.svg)
+            
+            Diabetes](https://www.omadahealth.com/for-individuals/diabetes)
+        * [![Hypertension](https://www.omadahealth.com/hubfs/omada-images/website/Hypertension.svg)
+            
+            Hypertension](https://www.omadahealth.com/for-individuals/hypertension)
+        * [![Musculoskeletal](https://www.omadahealth.com/hubfs/omada-images/website/Musculoskeletal.svg)
+            
+            Joint & Muscle Health](https://www.omadahealth.com/for-individuals/musculoskeletal)
+        
+    
+* [Success Stories](https://www.omadahealth.com/success-stories)
+* [Who We Are](https://www.omadahealth.com/about-us-2)
+* [FAQs](https://www.omadahealth.com/frequently-asked-questions)
+* [Support](#)
+    
+    * [###### Member Support
+        
+        Whatever you need, the Omada team is here to help.
+        
+        Learn More](https://support.omadahealth.com/hc/en-us)
+        
+        * [![OH_Icons__support_help_center_Message_White](https://www.omadahealth.com/hubfs/omada-assets/OH_Icons__support_help_center_Message_White.svg)
+            
+            Help Center](https://support.omadahealth.com/hc/en-us)
+        * [![OH_Icons__support_FAQ_Inspect_White](https://www.omadahealth.com/hubfs/omada-assets/OH_Icons__support_FAQ_Inspect_White.svg)
+            
+            Member Blog](https://resourcecenter.omadahealth.com/for-individuals)
+        * [![OH_Icons__contact_Phone_White](https://www.omadahealth.com/hubfs/omada-assets/OH_Icons__contact_Phone_White.svg)
+            
+            Contact Us](https://www.omadahealth.com/contact)
+        * [![OH_Icons__team_group_White](https://www.omadahealth.com/hubfs/omada-assets/OH_Icons__leadership_team_Group2_White.svg)
+            
+            Privacy Policy](https://www.omadahealth.com/privacy-policy)
+        
+    
+* [Member Login](https://app.omadahealth.com/login)
+* [Am I eligible?](https://go.omadahealth.com/?check-coverage=)
+* Search
+
+[![Omada Health logo](https://www.omadahealth.com/hs-fs/hubfs/omada_logo_horizontal.png?width=113&height=27&name=omada_logo_horizontal.png "Omada Health logo")](https://www.omadahealth.com/)
+
+   
+
+[![](https://www.omadahealth.com/hubfs/2024%20Assets/OH_Icons__Person_Black.svg)For Individuals ![](https://www.omadahealth.com/hubfs/2024%20Assets/nav_right%20caret.svg)](#) 
+
+  
+Health programs built just for you. Check your eligibility today!
+
+[Am I elible? ![](https://www.omadahealth.com/hubfs/2024%20Assets/nav_white-arrow.svg)](https://go.omadahealth.com/?check-coverage=)   
+
+ [![](https://www.omadahealth.com/hubfs/2024%20Assets/Member%20Login%20Icon-green.svg) Member Login](https://app.omadahealth.com/login)
+
+  
+
+* * *
+
+[![](https://www.omadahealth.com/hubfs/2024%20Assets/OH_Icons__Group2_Black.svg)For Organizations ![](https://www.omadahealth.com/hubfs/2024%20Assets/nav_right%20caret.svg)
+
+  
+Quality virtual care that is personal, connected, & sustainable.](#)[Contact Sales ![](https://www.omadahealth.com/hubfs/2024%20Assets/nav_white-arrow.svg)](https://www.omadahealth.com/contact-sales)   
+ [![](https://www.omadahealth.com/hubfs/2024%20Assets/OH_Icons__Play_Black-1.svg) View Demo](https://www.omadahealth.com/how-omada-works-demo-video)
+
+ [![](https://www.omadahealth.com/hubfs/2024%20Assets/nav_back-arrow.svg) Main Menu](#)
+
+* How We Can Help
+    
+    * [###### Programs For You
+        
+        A healthier you is within reach. Omada is a virtual care program that helps you achieve your health goals.
+        
+        Learn More](https://www.omadahealth.com/for-individuals)
+        
+        * [![Prediabetes](https://www.omadahealth.com/hubfs/omada-images/website/Prediabetes.svg)
+            
+            Prevention](https://www.omadahealth.com/for-individuals/prediabetes)
+        * [![Diabetes](https://www.omadahealth.com/hubfs/omada-images/website/Diabetes.svg)
+            
+            Diabetes](https://www.omadahealth.com/for-individuals/diabetes)
+        * [![Hypertension](https://www.omadahealth.com/hubfs/omada-images/website/Hypertension.svg)
+            
+            Hypertension](https://www.omadahealth.com/for-individuals/hypertension)
+        * [![Musculoskeletal](https://www.omadahealth.com/hubfs/omada-images/website/Musculoskeletal.svg)
+            
+            Joint & Muscle Health](https://www.omadahealth.com/for-individuals/musculoskeletal)
+        
+    
+* [Success Stories](https://www.omadahealth.com/success-stories)
+* [Who We Are](https://www.omadahealth.com/about-us-2)
+* [FAQs](https://www.omadahealth.com/frequently-asked-questions)
+* [Support](#)
+    
+    * [###### Member Support
+        
+        Whatever you need, the Omada team is here to help.
+        
+        Learn More](https://support.omadahealth.com/hc/en-us)
+        
+        * [![OH_Icons__support_help_center_Message_White](https://www.omadahealth.com/hubfs/omada-assets/OH_Icons__support_help_center_Message_White.svg)
+            
+            Help Center](https://support.omadahealth.com/hc/en-us)
+        * [![OH_Icons__support_FAQ_Inspect_White](https://www.omadahealth.com/hubfs/omada-assets/OH_Icons__support_FAQ_Inspect_White.svg)
+            
+            Member Blog](https://resourcecenter.omadahealth.com/for-individuals)
+        * [![OH_Icons__contact_Phone_White](https://www.omadahealth.com/hubfs/omada-assets/OH_Icons__contact_Phone_White.svg)
+            
+            Contact Us](https://www.omadahealth.com/contact)
+        * [![OH_Icons__team_group_White](https://www.omadahealth.com/hubfs/omada-assets/OH_Icons__leadership_team_Group2_White.svg)
+            
+            Privacy Policy](https://www.omadahealth.com/privacy-policy)
+        
+    
+* [Member Login](https://app.omadahealth.com/login)
+* [Am I eligible?](https://go.omadahealth.com/?check-coverage=)
+* Search
+
+ [![](https://www.omadahealth.com/hubfs/2024%20Assets/nav_back-arrow.svg) Main Menu](#)
+
+* [Who We Serve](#)
+    
+    * [###### Who We Serve
+        
+        Omada's integrated care pathways deliver lasting change, meaningful outcomes, and cost savings to our partners.
+        
+        Learn More](https://www.omadahealth.com/for-organizations)[](https://www.omadahealth.com/for-organizations)
+        
+        * [![OH_Icons__whoweserverEmployer_White](https://www.omadahealth.com/hubfs/omada-assets/OH_Icons__whoweserverEmployer_White.svg)
+            
+            Employers](https://www.omadahealth.com/who-we-serve/employers)
+        * [![OH_Icons__whoweserver%20HealthPlans_White](https://www.omadahealth.com/hubfs/omada-assets/OH_Icons__whoweserver%20HealthPlans_White.svg)
+            
+            Health Plans](https://www.omadahealth.com/who-we-serve/health-plan)
+        * [![OH_Icons__whoweserverBenefitCons_White](https://www.omadahealth.com/hubfs/omada-assets/OH_Icons__whoweserverBenefitCons_White.svg)
+            
+            Benefit Consultants](https://www.omadahealth.com/who-we-serve/benefit-consultants)
+        * [![OH_Icons__whoweserverHealthSystems_White](https://www.omadahealth.com/hubfs/omada-assets/OH_Icons__whoweserverHealthSystems_White.svg)
+            
+            Health Systems & Providers](https://www.omadahealth.com/who-we-serve/health-systems-and-providers)
+        * [![OH_Icons__customers_HighFive2_White](https://www.omadahealth.com/hubfs/omada-assets/OH_Icons__customers_HighFive2_White.svg)
+            
+            Hear From Our Customers](https://www.omadahealth.com/about-us/customers)
+        
+    
+* [What We Do](#)
     
     * [###### The Omada Platform
         
-        A virtual-first, integrated solution to care, Omada helps members make mindset changes to make lasting health changes on their terms.
+        Omada provides everything you need to streamline and improve care across multiple chronic conditions.
         
         Learn More](https://www.omadahealth.com/platform)
         
@@ -29,132 +190,363 @@
             
             Musculoskeletal (MSK)](https://www.omadahealth.com/musculoskeletal)
         
-        [###### Insights Lab
+        [###### Innovation
         
         With dynamic insights and analysis, the Insights Lab powers Omada's ability to meet every member's unique health needs.
         
         Learn More](https://www.omadahealth.com/insights-lab)
         
     
-* [Who We Serve](https://www.omadahealth.com/)
-    
-    * [###### WHO WE SERVE
-        
-        Omada's integrated care pathways deliver lasting change, meaningful outcomes, and cost savings to our partners.](https://omadahealth.com/)[](https://omadahealth.com/)
-        
-        * [![OH_Icons__whoweserverEmployer_White](https://www.omadahealth.com/hubfs/omada-assets/OH_Icons__whoweserverEmployer_White.svg)
-            
-            Employers](https://www.omadahealth.com/who-we-serve/employers)
-        * [![OH_Icons__whoweserver%20HealthPlans_White](https://www.omadahealth.com/hubfs/omada-assets/OH_Icons__whoweserver%20HealthPlans_White.svg)
-            
-            Health Plans](https://www.omadahealth.com/who-we-serve/health-plan)
-        * [![OH_Icons__whoweserverBenefitCons_White](https://www.omadahealth.com/hubfs/omada-assets/OH_Icons__whoweserverBenefitCons_White.svg)
-            
-            Benefit Consultants](https://www.omadahealth.com/who-we-serve/benefit-consultants)
-        * [![OH_Icons__whoweserverHealthSystems_White](https://www.omadahealth.com/hubfs/omada-assets/OH_Icons__whoweserverHealthSystems_White.svg)
-            
-            Health Systems & Providers](https://www.omadahealth.com/who-we-serve/health-systems-and-providers)
-        
-    
-* [For Individuals](https://www.omadahealth.com/for-individuals)
-    
-    * [###### For Individuals](https://www.omadahealth.com/for-individuals)
-        
-        [###### CONDITIONS WE TREAT
-        
-        Omada provides everything you need to streamline and improve care across multiple chronic conditions.](https://www.omadahealth.com/for-individuals)
-        
-        * [![Prediabetes](https://www.omadahealth.com/hubfs/omada-images/website/Prediabetes.svg)
-            
-            Prevention](https://www.omadahealth.com/for-individuals/prediabetes)
-        * [![Diabetes](https://www.omadahealth.com/hubfs/omada-images/website/Diabetes.svg)
-            
-            Diabetes](https://www.omadahealth.com/for-individuals/diabetes)
-        * [![Hypertension](https://www.omadahealth.com/hubfs/omada-images/website/Hypertension.svg)
-            
-            Hypertension](https://www.omadahealth.com/for-individuals/hypertension)
-        * [![Musculoskeletal](https://www.omadahealth.com/hubfs/omada-images/website/Musculoskeletal.svg)
-            
-            Joint & Muscle Health](https://www.omadahealth.com/for-individuals/musculoskeletal)
-        
-        [###### SUPPORT
-        
-        Whatever you need, the Omada team is here to help.](https://support.omadahealth.com/)
-        
-        * [![OH_Icons__support_help_center_Message_White](https://www.omadahealth.com/hubfs/omada-assets/OH_Icons__support_help_center_Message_White.svg)
-            
-            Help Center](https://support.omadahealth.com/hc/en-us)
-        * [![OH_Icons__support_FAQ_Inspect_White](https://www.omadahealth.com/hubfs/omada-assets/OH_Icons__support_FAQ_Inspect_White.svg)
-            
-            FAQs](https://www.omadahealth.com/frequently-asked-questions)
-        * [![OH_Icons__team_group_White](https://www.omadahealth.com/hubfs/omada-assets/OH_Icons__leadership_team_Group2_White.svg)
-            
-            Am I eligible?](https://go.omadahealth.com/?check-coverage=)
-        
-    
-* [Resource Center](https://resourcecenter.omadahealth.com/)
+* [Resource Center](#)
     
     * [###### Resource Center
         
-        Access relevant trends, powerful insights, multi-disciplinary analysis, live-event learning, and more.](https://resourcecenter.omadahealth.com/)
+        Access relevant trends, powerful insights, multi-disciplinary analysis, live-event learning, and more.
         
-        * [![OH_Icons__BLOG_Writing_White](https://www.omadahealth.com/hubfs/omada-assets/OH_Icons__BLOG_Writing_White.svg)
-            
-            Blog](https://resourcecenter.omadahealth.com/blog)
+        Learn More](https://resourcecenter.omadahealth.com/)[](https://resourcecenter.omadahealth.com/)
+        
         * [![OH_Icons__case_studies_Inspect_White](https://www.omadahealth.com/hubfs/omada-assets/OH_Icons__case_studies_Inspect_White.svg)
             
             Case Studies](https://resourcecenter.omadahealth.com/case-studies)
         * [![OH_Icons__whitepaperNotebook_White](https://www.omadahealth.com/hubfs/omada-assets/OH_Icons__whitepaperNotebook_White.svg)
             
             Whitepapers](https://resourcecenter.omadahealth.com/white-papers)
-        * [![OH_Icons__events_Community_White](https://www.omadahealth.com/hubfs/omada-assets/OH_Icons__events_Community_White.svg)
-            
-            Webinars and Events](https://resourcecenter.omadahealth.com/webinars-events)
-        * [![OH_Icons__Video_White](https://www.omadahealth.com/hubfs/omada-assets/OH_Icons__Video_White.svg)
-            
-            Videos](https://resourcecenter.omadahealth.com/videos)
         * [![OH_Icons__though_leadership_Lightbulb_White](https://www.omadahealth.com/hubfs/omada-assets/OH_Icons__though_leadership_Lightbulb_White.svg)
             
             Thought Leadership](https://resourcecenter.omadahealth.com/thought-leadership)
+        * [![OH_Icons__events_Community_White](https://www.omadahealth.com/hubfs/omada-assets/OH_Icons__events_Community_White.svg)
+            
+            Webinars & Events](https://resourcecenter.omadahealth.com/webinars-events)
         * [![OH_Icons__peer_reviewed_studies Book_White](https://www.omadahealth.com/hubfs/omada-assets/OH_Icons__peer_reviewed_studies%20Book_White.svg)
             
             Peer-Reviewed Studies](https://resourcecenter.omadahealth.com/peer-reviewed-studies)
-        * [![OH_Icons__Podcast_White](https://www.omadahealth.com/hubfs/omada-assets/OH_Icons__Podcast_White.svg)
+        * [![OH_Icons__Video_White](https://www.omadahealth.com/hubfs/omada-assets/OH_Icons__Video_White.svg)
             
-            Podcasts](https://resourcecenter.omadahealth.com/podcasts)
-        
-        [![Between-Visit Care: The Key to Managing Diabetes with Health Coaching](https://content.cdntwrk.com/files/aHViPTEyNTczOCZjbWQ9aXRlbUVtYmVkJnZlcnNpb249MTY5MDgxNDA5NyZpbWc9dGlsZS1odWItMTI1NzM4LXN0cmVhbS05ODcyNDYwLWl0ZW0tNjgyMjI5Mjg1JmltYWdlVHlwZT1wbmcmc2lnPWIwMjIxNTZkMDE2ODI4ZGU3NGUyNDE0ZDZmMzNjMzQ1?v=1702066211)](https://resourcecenter.omadahealth.com/latest-content/between-visit-care-the-key-to-managing-diabetes-with-health-coaching-3)
+            Videos](https://resourcecenter.omadahealth.com/videos)
+        * [![OH_Icons__BLOG_Writing_White](https://www.omadahealth.com/hubfs/omada-assets/OH_Icons__BLOG_Writing_White.svg)
+            
+            Blog](https://resourcecenter.omadahealth.com/blog)
         
     
-* [About Omada](https://www.omadahealth.com/about-us)
+* [About](#)
     
     * [###### About Omada
         
-        Omada helps people change how they think about their health to experience powerful health changes.](https://www.omadahealth.com/about-us)
+        Omada helps people change how they think about their health to experience powerful health changes.
+        
+        Learn More](https://www.omadahealth.com/about-us)
         
         * [![OH_Icons__leadership_team_Group2_White](https://www.omadahealth.com/hubfs/omada-assets/OH_Icons__leadership_team_Group2_White.svg)
             
             Leadership](https://www.omadahealth.com/about-us/leadership-team)
-        * [![OH_Icons__customers_HighFive2_White](https://www.omadahealth.com/hubfs/omada-assets/OH_Icons__customers_HighFive2_White.svg)
-            
-            Customers](https://www.omadahealth.com/about-us/customers)
         * [![OH_Icons__careersr_White](https://www.omadahealth.com/hubfs/omada-assets/OH_Icons__careersr_White.svg)
             
             Careers](https://www.omadahealth.com/about-us/careers)
         * [![OH_Icons__PRESS_Phone](https://www.omadahealth.com/hubfs/omada-assets/OH_Icons__PRESS_Phone+Paper_White.svg)
             
-            Press & Editorial](https://resourcecenter.omadahealth.com/press-releases)
+            Media Center](https://resourcecenter.omadahealth.com/press-releases)
         * [![OH_Icons__Security_White](https://www.omadahealth.com/hubfs/omada-assets/OH_Icons__Security_White.svg)
             
-            Security](https://www.omadahealth.com/about-us/security)
+            Data Security](https://www.omadahealth.com/about-us/security)
         * [![OH_Icons__contact_Phone_White](https://www.omadahealth.com/hubfs/omada-assets/OH_Icons__contact_Phone_White.svg)
             
             Contact Us](https://www.omadahealth.com/contact)
         
     
-* Search
-* [Member Login](https://app.omadahealth.com/login)
-* [Contact Us](https://www.omadahealth.com/contact)
+* [View Demo](https://www.omadahealth.com/how-omada-works-demo-video)
+* [Contact Sales](https://www.omadahealth.com/contact-sales)
+
+* [For Individuals](#)
+    [Home](#)* [Why Omada?](https://www.omadahealth.com/why-omada)
+    * [What We Do](#)
+        
+        * [###### The Omada Platform
+            
+            Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem necelit. Nullam quis risus eget urna mollis.
+            
+            Learn More](https://www.omadahealth.com/platform)
+            
+            ###### PROGRAMS
+            
+            * [![](https://www.omadahealth.com/hubfs/omada-assets/Prediabetes.svg)
+                
+                Prediabetes](https://www.omadahealth.com/programs/prediabetes)
+            * [![](https://www.omadahealth.com/hubfs/omada-assets/Diabetes.svg)
+                
+                Diabetes](https://www.omadahealth.com/programs/diabetes)
+            * [![](https://www.omadahealth.com/hubfs/omada-assets/Hypertension.svg)
+                
+                Hypertension](https://www.omadahealth.com/programs/hypertension)
+            * [![](https://www.omadahealth.com/hubfs/omada-assets/Musculoskeletal.svg)
+                
+                Musculoskeletal (MSK)](https://www.omadahealth.com/programs/musuloskeletal)
+            
+            [###### Insights Lab
+            
+            Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.
+            
+            Learn More](https://www.omadahealth.com/insights-lab)
+            
+        
+    * [Who We Serve](#)
+        
+        * [###### WHO WE SERVE
+            
+            Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Nullam quis risus eget urna mollis.](#)
+            
+            * [![](https://www.omadahealth.com/hubfs/omada-assets/Prediabetes.svg)
+                
+                Employers](https://www.omadahealth.com/employers)
+            * [![](https://www.omadahealth.com/hubfs/omada-assets/Diabetes.svg)
+                
+                Health Plans](https://www.omadahealth.com/health-plan)
+            * [![](https://www.omadahealth.com/hubfs/omada-assets/Hypertension.svg)
+                
+                Benefit Consultants](https://www.omadahealth.com/benefit-consultants)
+            
+        
+    * [For Individuals](https://www.omadahealth.com/for-individuals)
+        
+        * [###### For Individuals](https://www.omadahealth.com/for-individuals)
+            
+            [###### CONDITIONS WE TREAT
+            
+            Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.](#)
+            
+            * [![](https://www.omadahealth.com/hubfs/omada-assets/Prediabetes.svg)
+                
+                Prediabetes](https://www.omadahealth.com/for-individuals/prediabetes)
+            * [![](https://www.omadahealth.com/hubfs/omada-assets/Diabetes.svg)
+                
+                Diabetes](https://www.omadahealth.com/for-individuals/diabetes)
+            * [![](https://www.omadahealth.com/hubfs/omada-assets/Hypertension.svg)
+                
+                Hypertension](https://www.omadahealth.com/for-individuals/hypertension)
+            * [![](https://www.omadahealth.com/hubfs/omada-assets/Musculoskeletal.svg)
+                
+                Joint & Muscle Health](https://www.omadahealth.com/for-individuals/joint-and-muscle-health)
+            
+            [###### SUPPORT
+            
+            Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.](#)
+            
+            * [![](https://www.omadahealth.com/hubfs/omada-assets/Hypertension.svg)
+                
+                Help Center](https://www.omadahealth.com/hc/en-us)
+            * [![](https://www.omadahealth.com/hubfs/omada-assets/Prediabetes.svg)
+                
+                FAQs](https://www.omadahealth.com/frequently-asked-questions)
+            
+        
+    * [Resource Center](#)
+        
+        * [###### Resource Center
+            
+            Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio elit.](#)
+            
+            * [![](https://www.omadahealth.com/hubfs/omada-assets/Prediabetes.svg)
+                
+                Blog](#)
+            * [![](https://www.omadahealth.com/hubfs/omada-assets/Hypertension.svg)
+                
+                Whitepapers](#)
+            * [![](https://www.omadahealth.com/hubfs/omada-assets/Diabetes.svg)
+                
+                Webinars and Events](#)
+            * [![](https://www.omadahealth.com/hubfs/omada-assets/Hypertension.svg)
+                
+                Videos](#)
+            * [![](https://www.omadahealth.com/hubfs/omada-assets/Musculoskeletal.svg)
+                
+                Thought Leadership](#)
+            * [![](https://www.omadahealth.com/hubfs/omada-assets/Prediabetes.svg)
+                
+                Peer Reviewed Studies](#)
+            * [![](https://www.omadahealth.com/hubfs/omada-assets/Diabetes.svg)
+                
+                Podcasts](#)
+            
+            [![Using Semaphore CI to Push packages to Cloudsmith](https://content.cdntwrk.com/files/aHViPTEyMzY2NSZjbWQ9aXRlbUVtYmVkJnZlcnNpb249MTYzNDgyMTA5OSZpbWc9dGlsZS1odWItMTIzNjY1LXN0cmVhbS04NzUwNjg3LWl0ZW0tNjYzNzgwMTAzJmltYWdlVHlwZT1wbmcmc2lnPWVhNzQ0ODFhNzgwM2QxMTFhZjNhMGFlN2U4Njk4NWYy?v=1637869463)](https://cloudsmith.com/resources/integrations/using-semaphore-ci-to-push-packages-to-cloudsmith)
+            
+        
+    * [About Omada](https://www.omadahealth.com/about-omada)
+        
+        * [###### About Omada
+            
+            Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio elit.](https://www.omadahealth.com/about-omada)
+            
+            * [![](https://www.omadahealth.com/hubfs/omada-assets/Hypertension.svg)
+                
+                About](https://www.omadahealth.com/about-omada)
+            * [![](https://www.omadahealth.com/hubfs/omada-assets/Musculoskeletal.svg)
+                
+                Leadership](https://www.omadahealth.com/leadership-team)
+            * [![](https://www.omadahealth.com/hubfs/omada-assets/Prediabetes.svg)
+                
+                Customers](https://www.omadahealth.com/customers)
+            * [![](https://www.omadahealth.com/hubfs/omada-assets/Diabetes.svg)
+                
+                Careers](https://www.omadahealth.com/careers)
+            * [![](https://www.omadahealth.com/hubfs/omada-assets/Hypertension.svg)
+                
+                Press & Editorial](#)
+            * [![](https://www.omadahealth.com/hubfs/omada-assets/Hypertension.svg)
+                
+                Security](https://www.omadahealth.com/security)
+            * [![](https://www.omadahealth.com/hubfs/omada-assets/Musculoskeletal.svg)
+                
+                Contact Us](https://www.omadahealth.com/contact-us)
+            
+        
+    * Search
+    * Member Login
+    * [Request a Demo](https://www.omadahealth.com/request-a-demo)
+
+* [For Organizations](#)
+    [Home](#)* [Why Omada?](https://www.omadahealth.com/why-omada)
+    * [What We Do](#)
+        
+        * [###### The Omada Platform
+            
+            Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem necelit. Nullam quis risus eget urna mollis.
+            
+            Learn More](https://www.omadahealth.com/platform)
+            
+            ###### PROGRAMS
+            
+            * [![](https://www.omadahealth.com/hubfs/omada-assets/Prediabetes.svg)
+                
+                Prediabetes](https://www.omadahealth.com/programs/prediabetes)
+            * [![](https://www.omadahealth.com/hubfs/omada-assets/Diabetes.svg)
+                
+                Diabetes](https://www.omadahealth.com/programs/diabetes)
+            * [![](https://www.omadahealth.com/hubfs/omada-assets/Hypertension.svg)
+                
+                Hypertension](https://www.omadahealth.com/programs/hypertension)
+            * [![](https://www.omadahealth.com/hubfs/omada-assets/Musculoskeletal.svg)
+                
+                Musculoskeletal (MSK)](https://www.omadahealth.com/programs/musuloskeletal)
+            
+            [###### Insights Lab
+            
+            Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.
+            
+            Learn More](https://www.omadahealth.com/insights-lab)
+            
+        
+    * [Who We Serve](#)
+        
+        * [###### WHO WE SERVE
+            
+            Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Nullam quis risus eget urna mollis.](#)
+            
+            * [![](https://www.omadahealth.com/hubfs/omada-assets/Prediabetes.svg)
+                
+                Employers](https://www.omadahealth.com/employers)
+            * [![](https://www.omadahealth.com/hubfs/omada-assets/Diabetes.svg)
+                
+                Health Plans](https://www.omadahealth.com/health-plan)
+            * [![](https://www.omadahealth.com/hubfs/omada-assets/Hypertension.svg)
+                
+                Benefit Consultants](https://www.omadahealth.com/benefit-consultants)
+            
+        
+    * [For Individuals](https://www.omadahealth.com/for-individuals)
+        
+        * [###### For Individuals](https://www.omadahealth.com/for-individuals)
+            
+            [###### CONDITIONS WE TREAT
+            
+            Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.](#)
+            
+            * [![](https://www.omadahealth.com/hubfs/omada-assets/Prediabetes.svg)
+                
+                Prediabetes](https://www.omadahealth.com/for-individuals/prediabetes)
+            * [![](https://www.omadahealth.com/hubfs/omada-assets/Diabetes.svg)
+                
+                Diabetes](https://www.omadahealth.com/for-individuals/diabetes)
+            * [![](https://www.omadahealth.com/hubfs/omada-assets/Hypertension.svg)
+                
+                Hypertension](https://www.omadahealth.com/for-individuals/hypertension)
+            * [![](https://www.omadahealth.com/hubfs/omada-assets/Musculoskeletal.svg)
+                
+                Joint & Muscle Health](https://www.omadahealth.com/for-individuals/joint-and-muscle-health)
+            
+            [###### SUPPORT
+            
+            Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.](#)
+            
+            * [![](https://www.omadahealth.com/hubfs/omada-assets/Hypertension.svg)
+                
+                Help Center](https://www.omadahealth.com/hc/en-us)
+            * [![](https://www.omadahealth.com/hubfs/omada-assets/Prediabetes.svg)
+                
+                FAQs](https://www.omadahealth.com/frequently-asked-questions)
+            
+        
+    * [Resource Center](#)
+        
+        * [###### Resource Center
+            
+            Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio elit.](#)
+            
+            * [![](https://www.omadahealth.com/hubfs/omada-assets/Prediabetes.svg)
+                
+                Blog](#)
+            * [![](https://www.omadahealth.com/hubfs/omada-assets/Hypertension.svg)
+                
+                Whitepapers](#)
+            * [![](https://www.omadahealth.com/hubfs/omada-assets/Diabetes.svg)
+                
+                Webinars and Events](#)
+            * [![](https://www.omadahealth.com/hubfs/omada-assets/Hypertension.svg)
+                
+                Videos](#)
+            * [![](https://www.omadahealth.com/hubfs/omada-assets/Musculoskeletal.svg)
+                
+                Thought Leadership](#)
+            * [![](https://www.omadahealth.com/hubfs/omada-assets/Prediabetes.svg)
+                
+                Peer Reviewed Studies](#)
+            * [![](https://www.omadahealth.com/hubfs/omada-assets/Diabetes.svg)
+                
+                Podcasts](#)
+            
+            [![Using Semaphore CI to Push packages to Cloudsmith](https://content.cdntwrk.com/files/aHViPTEyMzY2NSZjbWQ9aXRlbUVtYmVkJnZlcnNpb249MTYzNDgyMTA5OSZpbWc9dGlsZS1odWItMTIzNjY1LXN0cmVhbS04NzUwNjg3LWl0ZW0tNjYzNzgwMTAzJmltYWdlVHlwZT1wbmcmc2lnPWVhNzQ0ODFhNzgwM2QxMTFhZjNhMGFlN2U4Njk4NWYy?v=1637869463)](https://cloudsmith.com/resources/integrations/using-semaphore-ci-to-push-packages-to-cloudsmith)
+            
+        
+    * [About Omada](https://www.omadahealth.com/about-omada)
+        
+        * [###### About Omada
+            
+            Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio elit.](https://www.omadahealth.com/about-omada)
+            
+            * [![](https://www.omadahealth.com/hubfs/omada-assets/Hypertension.svg)
+                
+                About](https://www.omadahealth.com/about-omada)
+            * [![](https://www.omadahealth.com/hubfs/omada-assets/Musculoskeletal.svg)
+                
+                Leadership](https://www.omadahealth.com/leadership-team)
+            * [![](https://www.omadahealth.com/hubfs/omada-assets/Prediabetes.svg)
+                
+                Customers](https://www.omadahealth.com/customers)
+            * [![](https://www.omadahealth.com/hubfs/omada-assets/Diabetes.svg)
+                
+                Careers](https://www.omadahealth.com/careers)
+            * [![](https://www.omadahealth.com/hubfs/omada-assets/Hypertension.svg)
+                
+                Press & Editorial](#)
+            * [![](https://www.omadahealth.com/hubfs/omada-assets/Hypertension.svg)
+                
+                Security](https://www.omadahealth.com/security)
+            * [![](https://www.omadahealth.com/hubfs/omada-assets/Musculoskeletal.svg)
+                
+                Contact Us](https://www.omadahealth.com/contact-us)
+            
+        
+    * Search
+    * Member Login
+    * [Request a Demo](https://www.omadahealth.com/request-a-demo)
 
 Privacy Policy
 ==============
@@ -755,34 +1147,42 @@ Fecha de vigencia: 1 de abril de 2024
 
 Effective Date: April 1, 2024
 
-* [Why Omada?](https://www.omadahealth.com/why-omada)
-* [Who We Serve](#)
+* [FOR INDIVIDUALS](https://www.omadahealth.com/)
+* [How We Can Help You](https://www.omadahealth.com/for-individuals)
+    * [Prevention](https://www.omadahealth.com/for-individuals/prediabetes)
+    * [Diabetes](https://www.omadahealth.com/for-individuals/diabetes)
+    * [Hypertension](https://www.omadahealth.com/for-individuals/hypertension)
+    * [Joint & Muscle Health](https://www.omadahealth.com/for-individuals/musculoskeletal)
+    * [Success Stories](https://www.omadahealth.com/success-stories)
+    * [Who We Are](https://www.omadahealth.com/about-us-2)
+* [Support](https://support.omadahealth.com/hc/en-us)
+    * [Help Center](https://support.omadahealth.com/hc/en-us)
+    * [Member Blog](https://resourcecenter.omadahealth.com/for-individuals)
+    * [Contact Us](https://www.omadahealth.com/contact)
+    * [FAQs](https://www.omadahealth.com/frequently-asked-questions)
+    * [Get Started](https://go.omadahealth.com/?check-coverage=)
+    * [Login](https://app.omadahealth.com/login)
+
+* [FOR ORGANIZATION](https://www.omadahealth.com/for-organizations)
+* [Who We Serve](https://www.omadahealth.com/for-organizations)
     * [Employers](https://www.omadahealth.com/who-we-serve/employers)
     * [Health Plans](https://www.omadahealth.com/who-we-serve/health-plan)
     * [Benefit Consultants](https://www.omadahealth.com/who-we-serve/benefit-consultants)
     * [Health Systems & Providers](https://www.omadahealth.com/who-we-serve/health-systems-and-providers)
-
-* [The Omada Platform](https://www.omadahealth.com/platform)
-    * [PROGRAMS](#)
-        * [Prediabetes](https://www.omadahealth.com/prediabetes)
-        * [Diabetes](https://www.omadahealth.com/diabetes)
-        * [Hypertension](https://www.omadahealth.com/hypertension)
-        * [Musculoskeletal (MSK)](https://www.omadahealth.com/musculoskeletal)
-* [Insights Lab](https://www.omadahealth.com/insights-lab)
-
-* [For Individuals](https://www.omadahealth.com/for-individuals)
-    * [CONDITIONS WE TREAT](#)
-        * [Prevention](https://www.omadahealth.com/for-individuals/prediabetes)
-        * [Diabetes](https://www.omadahealth.com/for-individuals/diabetes)
-        * [Hypertension](https://www.omadahealth.com/for-individuals/hypertension)
-        * [Joint & Muscle Health](https://www.omadahealth.com/for-individuals/musculoskeletal)
-    * [SUPPORT](#)
-        * [Help Center](https://support.omadahealth.com/hc/en-us)
-        * [FAQs](https://www.omadahealth.com/frequently-asked-questions)
-        * [Join Now](https://go.omadahealth.com/?check-coverage=)
+    * [Hear From Our Customers](https://www.omadahealth.com/about-us/customers)
 
 * [](#)
-* [RESOURCE CENTER](https://resourcecenter.omadahealth.com/)
+* [What We Do](https://www.omadahealth.com/platform)
+    * [The Omada Platform](https://www.omadahealth.com/platform)
+    * [Prediabetes](https://www.omadahealth.com/prediabetes)
+    * [Diabetes](https://www.omadahealth.com/diabetes)
+    * [Hypertension](https://www.omadahealth.com/hypertension)
+    * [GLP-1 Care Track](https://www.omadahealth.com/glp-1-care-track)
+    * [Musculoskeletal (MSK)](https://www.omadahealth.com/musculoskeletal)
+    * [Innovation at Omada](https://www.omadahealth.com/insights-lab)
+
+* [](#)
+* [Resource Center](https://resourcecenter.omadahealth.com/)
     * [Case Studies](https://resourcecenter.omadahealth.com/case-studies)
     * [White Papers](https://resourcecenter.omadahealth.com/white-papers)
     * [Thought Leadership](https://resourcecenter.omadahealth.com/thought-leadership)
@@ -792,13 +1192,13 @@ Effective Date: April 1, 2024
     * [Blog](https://resourcecenter.omadahealth.com/blog)
 
 * [](#)
-* [ABOUT OMADA](https://www.omadahealth.com/about-us)
+* [About Omada](https://www.omadahealth.com/about-us)
     * [About](https://www.omadahealth.com/about-us)
     * [Leadership](https://www.omadahealth.com/about-us/leadership-team)
     * [Careers](https://www.omadahealth.com/about-us/careers)
     * [Media Center](https://resourcecenter.omadahealth.com/press-releases)
     * [Data Security](https://www.omadahealth.com/about-us/security)
-    * [Contact Sales](https://www-omadahealth-com.sandbox.hs-sites.com/contact-sales)
+    * [Contact Sales](https://www.omadahealth.com/contact-sales)
 
 [![Footer Logo](https://www.omadahealth.com/hubfs/footer-logo-2.svg)](https://www.omadahealth.com/)
 
