@@ -8,9 +8,6 @@ Log in  Remember me
 
 ### Privacy Policy
 
-Privacy Policy of Autism Date
-=============================
-
 If you DO NOT agree with our privacy policy, then the use of our website/apps is NOT permitted.
 
 1\. Members and Visitors of Autism Date
