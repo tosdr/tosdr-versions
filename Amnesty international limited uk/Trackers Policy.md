@@ -231,6 +231,7 @@ We use both Facebook and Twitter pixel tags. Pixel tags are used to track conver
     [Jobs & Internships](https://www.amnesty.org/en/careers/)
 
 * [Privacy Policy](https://www.amnesty.org/en/privacy-policy/)
+* [Accessibility](https://www.amnesty.org/en/accessibility/)
 * [Cookie Statement](https://www.amnesty.org/en/cookie-statement/)
 * [Permissions](https://www.amnesty.org/en/about-us/permissions/)
 * [Refunds of Donations](https://www.amnesty.org/en/about-us/refunds-of-donations/)
