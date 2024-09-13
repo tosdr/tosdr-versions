@@ -1,4 +1,4 @@
-![](https://p.alocdn.com/c/mm7och2x/a/etarget/p.gif?label=journeyhlthlife)                 
+![](https://p.alocdn.com/c/mm7och2x/a/etarget/p.gif?label=journeyhlthlife)                      
 
 [Skip to content](#MainContent)
 
@@ -107,7 +107,7 @@ Your cart is currently empty.
 * [Get a Call Back](https://www.perfectsleepchair.com/pages/get-a-call-back)
 * [About Journey](https://www.perfectsleepchair.com/pages/about-our-company)
 
-[account Log in](https://www.perfectsleepchair.com/account) [icon-search Search](https://www.perfectsleepchair.com/search) icon-hamburger Site navigation [icon-bag-minimalCart](https://www.perfectsleepchair.com/cart)
+[account Log in](https://www.perfectsleepchair.com/account) [icon-search Search](https://www.perfectsleepchair.com/search) icon-hamburger Site navigation [Cart](https://www.perfectsleepchair.com/cart)
 
 Search
 
@@ -627,7 +627,7 @@ Sort Most RecentOldestMost HelpfulPhotos & VideosHighest RatingLowest RatingLeas
     
     Was this helpful?
     
-    Yes, this review was helpful 1 person voted yesNo, this review was not helpful 1 person voted no
+    Yes, this review was helpful 2 people voted yesNo, this review was not helpful 1 person voted no
     
 * **D E C.**
     
@@ -653,7 +653,7 @@ Sort Most RecentOldestMost HelpfulPhotos & VideosHighest RatingLowest RatingLeas
     
     Was this helpful?
     
-    Yes, this review was helpful 1 person voted yesNo, this review was not helpful 0 people voted no
+    Yes, this review was helpful 2 people voted yesNo, this review was not helpful 0 people voted no
     
     **JH** 
     
@@ -730,7 +730,7 @@ Sort Most RecentOldestMost HelpfulPhotos & VideosHighest RatingLowest RatingLeas
     
     Was this helpful?
     
-    Yes, this review was helpful 35 people voted yesNo, this review was not helpful 8 people voted no
+    Yes, this review was helpful 36 people voted yesNo, this review was not helpful 8 people voted no
     
     **JH** 
     
@@ -766,7 +766,7 @@ Sort Most RecentOldestMost HelpfulPhotos & VideosHighest RatingLowest RatingLeas
     
     Was this helpful?
     
-    Yes, this review was helpful 48 people voted yesNo, this review was not helpful 4 people voted no
+    Yes, this review was helpful 49 people voted yesNo, this review was not helpful 4 people voted no
     
 
 Loading...
@@ -783,6 +783,7 @@ About Us
 About Us
 
 * [Provider Locator](https://www.perfectsleepchair.com/pages/store-locator)
+* [Refer a Friend](https://www.perfectsleepchair.com/pages/referral-program)
 * [About Our Company](https://www.perfectsleepchair.com/pages/about-our-company)
 * [Become a Provider](https://www.perfectsleepchair.com/pages/product-provider-form)
 * [Careers](https://www.perfectsleepchair.com/pages/careers)
