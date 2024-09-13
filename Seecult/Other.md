@@ -322,11 +322,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/galerija-talenata/godisnja-izlozba-studenata-flu-beograd/ana-mrdjetko-ii-mastera.jpg?itok=UQr5yQVG)](http://seecult.org/galerija/galerija-umetnika/galerija-talenata/godisnja-izlozba-studenata-flu-beograd-20122013)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/milovan-destil-markovic/homeless-project/lothar-goerke-portret.?itok=UkBY0dum)](http://seecult.org/galerija/galerija-umetnika/milovan-destil-markovic/homeless-project)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/x-02.jpg?itok=Z-ra396d)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/prototype.jpg?itok=Km3z6WHp)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -342,27 +342,27 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
-* [Retrospektiva Mastrojanija u Kinoteci](http://seecult.org/vest/retrospektiva-mastrojanija-u-kinoteci)
-* [Jubilarni Sedam veličanstvenih](http://seecult.org/vest/jubilarni-sedam-velicanstvenih)
-* [Pištalo dobitnik nagrade Prozart](http://seecult.org/vest/pistalo-dobitnik-nagrade-prozart)
-* [After Sugimoto](http://seecult.org/vest/after-sugimoto)
-* [Veber ponovo snima u Beogradu](http://seecult.org/vest/veber-ponovo-snima-u-beogradu)
-* [Picelj i prijatelji](http://seecult.org/vest/picelj-i-prijatelji)
-* [Legat Medakovića u Salonu MGB](http://seecult.org/vest/legat-medakovica-u-salonu-mgb)
-* [Trijumf Ćelave pevačice na Teatru na raskrću](http://seecult.org/vest/trijumf-celave-pevacice-na-teatru-na-raskrcu)
-* [Ponovljeni zahtevi Parade ponosa](http://seecult.org/vest/ponovljeni-zahtevi-parade-ponosa)
-* [Oproštaj od Bore Đorđevića](http://seecult.org/vest/oprostaj-od-bore-dordevica)
+* [Ilija Bosilj u Švajcarskoj](http://seecult.org/vest/ilija-bosilj-u-svajcarskoj)
+* [Slem nije mrtav, samo tako smrdi!](http://seecult.org/vest/slem-nije-mrtav-samo-tako-smrdi)
+* [Zadužbina Milana Mladenovića povodom Mascomovih izdanja](http://seecult.org/vest/zaduzbina-milana-mladenovica-povodom-mascomovih-izdanja)
+* [Rokenrol škola - Čudna šuma i Detektori muzike](http://seecult.org/vest/rokenrol-skola-cudna-suma-i-detektori-muzike)
+* [Memorijal Sonja S.](http://seecult.org/vest/memorijal-sonja-s)
+* [Kultni albumi EKV na vinilu](http://seecult.org/vest/kultni-albumi-ekv-na-vinilu)
+* [Metro Gaza otvara 64. MESS](http://seecult.org/vest/metro-gaza-otvara-64-mess)
+* [Porodična terapija slovenački kandidat za Oskara](http://seecult.org/vest/porodicna-terapija-slovenacki-kandidat-za-oskara)
+* [Film i muzika](http://seecult.org/vest/film-i-muzika)
+* [Ruski konzul srpski kandidat za Oskara](http://seecult.org/vest/ruski-konzul-srpski-kandidat-za-oskara)
 
 * [Konkursi](#tab1_1)
 
+* [Konkurs za volontere jubilarnog, 20. Filmskog festivala Slobodna zona](http://seecult.org/konkurs/konkurs-za-volontere-jubilarnog-20-filmskog-festivala-slobodna-zona)
+* [Produžen konkurs za otkup dela vizuelnih umetnosti - Slika grada](http://seecult.org/konkurs/produzen-konkurs-za-otkup-dela-vizuelnih-umetnosti-slika-grada)
+* [Konkurs za 31. Jesenji likovni salon u Velikoj Plani](http://seecult.org/konkurs/konkurs-za-31-jesenji-likovni-salon-u-velikoj-plani)
+* [Sekundarna arhiva – otvoren konkurs za umetnice mlađe generacije](http://seecult.org/konkurs/sekundarna-arhiva-otvoren-konkurs-za-umetnice-mlade-generacije)
 * [Konkurs za prijavu filmova za 15. MikroFAF – Fresh Frames](http://seecult.org/konkurs/konkurs-za-prijavu-filmova-za-15-mikrofaf-fresh-frames)
 * [Kulturpunktova novinarska školica u Zagrebu i onlajn](http://seecult.org/konkurs/kulturpunktova-novinarska-skolica-u-zagrebu-i-onlajn)
 * [Konkurs za stipendije Žarana Papić](http://seecult.org/konkurs/konkurs-za-stipendije-zarana-papic-0)
 * [Konkurs za izlaganje na Trijenalu crteža i male plastike](http://seecult.org/konkurs/konkurs-za-izlaganje-na-trijenalu-crteza-i-male-plastike)
-* [Poziv za učešće na Bijenalu mladih 2025.](http://seecult.org/konkurs/poziv-za-ucesce-na-bijenalu-mladih-2025)
-* [Konkurs za nagradu Ranko Radović za 2024.](http://seecult.org/konkurs/konkurs-za-nagradu-ranko-radovic-za-2024)
-* [Konkurs za nagradu Milica Stojadinović Srpkinja za 2024. godinu](http://seecult.org/konkurs/konkurs-za-nagradu-milica-stojadinovic-srpkinja-za-2024-godinu)
-* [Konkurs ULUS-a za Jesenu izložbu 2024.](http://seecult.org/konkurs/konkurs-ulus-za-jesenu-izlozbu-2024)
 
 * [Kritika](#tab2_1)
 
