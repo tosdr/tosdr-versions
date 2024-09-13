@@ -71,6 +71,7 @@ Cookie Policy
 
 **Languages**
 
+* [Arabic](https://glooko.com/wp-content/uploads/2024/08/Glooko-Cookies-Policy-Arabic-2024.pdf)
 * [Čeština](https://glooko.com/wp-content/uploads/2022/08/Glooko-Inc.-Cookies-Policy-2022_CZ.pdf)
 * [Dansk](https://glooko.com/wp-content/uploads/2022/08/Glooko-Inc.-Cookies-Policy-2022_DK.pdf)
 * [Deutsch](https://glooko.com/wp-content/uploads/2022/08/Glooko.com-Cookie-Policy-May-2022_DE-de.pdf)
