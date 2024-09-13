@@ -71,7 +71,7 @@ Terms and Conditions 
 
 Last updated: December 17, 2022
 
-Please read these Terms of Use (“Terms”, “Terms of Use”) carefully before using the https://rossmanngroup.com website (the “Service”) operated by Rossmann Repair Group (“us”, “we”, or “our”).
+Please read these Terms of Use ("Terms", "Terms of Use") carefully before using the https://rossmanngroup.com website (the "Service") operated by Rossmann Repair Group ("us", "we", or "our").
 
 Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who access or use the Service.
 
@@ -101,7 +101,7 @@ All provisions of the Terms which by their nature should survive termination sha
 Disclaimer
 ----------
 
-Your use of the Service is at your sole risk. The Service is provided on an “AS IS” and “AS AVAILABLE” basis. The Service is provided without warranties of any kind, whether express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, non-infringement or course of performance.
+Your use of the Service is at your sole risk. The Service is provided on an "AS IS" and "AS AVAILABLE" basis. The Service is provided without warranties of any kind, whether express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, non-infringement or course of performance.
 
 Governing Law
 -------------
