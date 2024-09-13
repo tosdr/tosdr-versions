@@ -28,31 +28,31 @@ However, you’re fully protected by a 100% money-back guarantee return policy.
 
 Here’s how it works…
 
-Once the first month of the service ends, your account will automatically be billed for the next month, unless we are notified through our SUPPORT (Online chats or phone support) and  TICKET system during your trial period (the first month of usage) that you wish to discontinue your services with Gogvo.com
+Once the first month of the service ends, your account will automatically be billed for the next month, unless we are notified through our SUPPORT (Online chats or phone support) and  TICKET system during your trial period (the first month of usage) that you wish to discontinue your services with gogvo.com
 
 You can also call our office at **1-210-651-4487** (You can reach us from 9 a.m till 5 p.m Monday-Friday
 
-Your GVO support and ticket system can be found in your GVO members area.
+Your Global Virtual Opportunities support and ticket system can be found in your Global Virtual Opportunities members area.
 
-Once your account has been auto billed for the first month you have a full 30 days, starting on your billing date of your chosen package to receive a refund granted by our 30 Days Money Back Guarantee Policy, if you choose to cancel your GVO account.
+Once your account has been auto billed for the first month you have a full 30 days, starting on your billing date of your chosen package to receive a refund granted by our 30 Days Money Back Guarantee Policy, if you choose to cancel your Global Virtual Opportunities account.
 
-**Be advised that your recurring payments for GVO products are non-refundable.**
+**Be advised that your recurring payments for Global Virtual Opportunities products are non-refundable.**
 
 **Note: the first payment can be refunded only if the recurring payment has not been processed yet.**
 
-**With any $1.00 trial sign up (for the packages which include the trial price) via the Gogvo you will get products and services. This Trial Fee of $1.00 is 100% NON-REFUNDABLE.**
+**With any $1.00 trial sign up (for the packages which include the trial price) via the Global Virtual Opportunities Inc. you will get products and services. This Trial Fee of $1.00 is 100% NON-REFUNDABLE.**
 
 Kindly pay attention that in case of **ANNUAL** recurring payments (based on your package plan) you have 7 days to get a refund after the recurrent payment gone through.
 
-Please understand if data was stored in your GVO account and you request your account to be closed or canceled, you will lose any data that was currently stored in your GVO account.
+Please understand if data was stored in your Global Virtual Opportunities account and you request your account to be closed or canceled, you will lose any data that was currently stored in your Global Virtual Opportunities account.
 
-All future upgrades within the GVO system are as follows, and are purchased by the account holder and are under NO obligations to purchase these upgrades. The GVO 30 day money back guarantee also applies to all upgrades, and takes immediate effect on the date of purchase.
+All future upgrades within the Global Virtual Opportunities system are as follows, and are purchased by the account holder and are under NO obligations to purchase these upgrades. The Global Virtual Opportunities 30 day money back guarantee also applies to all upgrades, and takes immediate effect on the date of purchase.
 
 To serve you and other customers better in the future, we request (but do not require) that you tell us why you want a refund. We want satisfied customers.
 
 **Traffic Co-oP refund policy:**
 
-The payment for **Coop Leads**, via any Co op share offers, are (**100% non-refundable**). Leads are purchased with the intent to increase engagement and sales for the purchaser. There is no possible way that the company GVO (Global Virtual Opportunities) can reclaim back purchased leads from a cash refund.  Any purchase for Co op Leads is 100% non-refundable.
+The payment for **Coop Leads**, via any Co op share offers, are (**100% non-refundable**). Leads are purchased with the intent to increase engagement and sales for the purchaser. There is no possible way that the company Global Virtual Opportunities Inc. can reclaim back purchased leads from a cash refund.  Any purchase for Co op Leads is 100% non-refundable.
 
 **Downloadable content refund policy:**
 
@@ -62,7 +62,7 @@ Please remember that asking for a refund but continuing to use the products purc
 
 This Returns Policy was last updated on 03-18-2017.
 
-Gogvo
+Global Virtual Opportunities Inc.
 
 Attn: Returns Department
 
