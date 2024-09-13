@@ -89,21 +89,21 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Psychology](https://www.sciencenews.org/topic/psychology)
     * * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
-            ### [The first face transplant to include an eye shows no rejection a year later](https://www.sciencenews.org/article/eye-transplant-partial-face-transplant)
+            ### [Can taking ashwagandha supplements improve health?](https://www.sciencenews.org/article/does-ashwagandha-improve-health)
             
-            By [Aimee Cunningham](https://www.sciencenews.org/author/aimee-cunningham "Posts by Aimee Cunningham")September 9, 2024
+            By [Sean Cummings](https://www.sciencenews.org/author/sean-cummings "Posts by Sean Cummings")2 hours ago
+            
+        * [Anthropology](https://www.sciencenews.org/topic/anthropology)
+            
+            ### [Ancient DNA unveils a previously unknown line of Neandertals](https://www.sciencenews.org/article/ancient-dna-unveils-unknown-neandertals)
+            
+            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")September 11, 2024
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
-            ### [50 years ago, some of plastic’s toxic hazards were exposed](https://www.sciencenews.org/article/50-years-ago-plastic-hazard)
+            ### [California droughts may help valley fever spread](https://www.sciencenews.org/article/valley-fever-fungus-california-drought)
             
-            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")September 6, 2024
-            
-        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
-            
-            ### [A new drug shows promise for hot flashes due to menopause](https://www.sciencenews.org/article/hot-flashes-drug-menopause-symptoms)
-            
-            By [Aimee Cunningham](https://www.sciencenews.org/author/aimee-cunningham "Posts by Aimee Cunningham")September 5, 2024
+            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")September 11, 2024
             
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
@@ -114,23 +114,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
         * [Genetics](https://www.sciencenews.org/topic/genetics)
         * [Microbes](https://www.sciencenews.org/topic/microbes)
-    * * [Animals](https://www.sciencenews.org/topic/animals)
+    * * [Life](https://www.sciencenews.org/topic/life)
+            
+            ### [Mega El Niños kicked off the world’s worst mass extinction](https://www.sciencenews.org/article/mega-el-ninos-mass-extinction)
+            
+            By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")23 hours ago
+            
+        * [Anthropology](https://www.sciencenews.org/topic/anthropology)
+            
+            ### [Ancient DNA unveils a previously unknown line of Neandertals](https://www.sciencenews.org/article/ancient-dna-unveils-unknown-neandertals)
+            
+            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")September 11, 2024
+            
+        * [Animals](https://www.sciencenews.org/topic/animals)
             
             ### [Bumblebees lose most of their sense of smell after heat waves](https://www.sciencenews.org/article/bumblebees-lose-smell-after-heat-waves)
             
             By [Gennaro Tomma](https://www.sciencenews.org/author/gennaro-tomma "Posts by Gennaro Tomma")September 6, 2024
-            
-        * [Environment](https://www.sciencenews.org/topic/environment)
-            
-            ### [Fiddler crabs are migrating north to cooler waters](https://www.sciencenews.org/article/fiddler-crabs-climate-migrants)
-            
-            By [Luke Groskin](https://www.sciencenews.org/author/luke-groskin "Posts by Luke Groskin")September 4, 2024
-            
-        * [Paleontology](https://www.sciencenews.org/topic/paleontology)
-            
-            ### [Despite new clues, this ancient fish has stumped scientists for centuries](https://www.sciencenews.org/article/ancient-fish-pegasus-volans-new-clues)
-            
-            By [Sean Cummings](https://www.sciencenews.org/author/sean-cummings "Posts by Sean Cummings")September 3, 2024
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
@@ -138,23 +138,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Climate](https://www.sciencenews.org/topic/climate)
         * [Oceans](https://www.sciencenews.org/topic/oceans)
         * [Environment](https://www.sciencenews.org/topic/environment)
-    * * [Earth](https://www.sciencenews.org/topic/earth)
+    * * [Climate](https://www.sciencenews.org/topic/climate)
             
-            ### [How earthquakes build beefy gold nuggets](https://www.sciencenews.org/article/earthquakes-build-gold-nuggets)
+            ### [Can solar farms and crop farms coexist?](https://www.sciencenews.org/article/solar-agriculture-farming-argivoltaic)
             
-            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")September 9, 2024
+            By [Luke Groskin](https://www.sciencenews.org/author/luke-groskin "Posts by Luke Groskin")26 mins ago
             
-        * [Environment](https://www.sciencenews.org/topic/environment)
+        * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
             
-            ### [Fiddler crabs are migrating north to cooler waters](https://www.sciencenews.org/article/fiddler-crabs-climate-migrants)
+            ### [Scientists find a long-sought electric field in Earth’s atmosphere](https://www.sciencenews.org/article/electric-field-in-earths-atmosphere)
             
-            By [Luke Groskin](https://www.sciencenews.org/author/luke-groskin "Posts by Luke Groskin")September 4, 2024
+            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")4 hours ago
             
-        * [Climate](https://www.sciencenews.org/topic/climate)
+        * [Life](https://www.sciencenews.org/topic/life)
             
-            ### [Summer-like heat is scorching the Southern Hemisphere — in winter](https://www.sciencenews.org/article/heat-scorch-southern-hemisphere-winter)
+            ### [Mega El Niños kicked off the world’s worst mass extinction](https://www.sciencenews.org/article/mega-el-ninos-mass-extinction)
             
-            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")September 2, 2024
+            By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")23 hours ago
             
 * [Physics](https://www.sciencenews.org/topic/physics)
     * [Physics](https://www.sciencenews.org/topic/physics)
@@ -165,7 +165,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [A quantum computer corrected its own errors, improving its calculations](https://www.sciencenews.org/article/quantum-computer-error-correction) 
             
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")9 hours ago
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")September 10, 2024
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
@@ -184,7 +184,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Astronomy](https://www.sciencenews.org/topic/astronomy)
         * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
         * [Cosmology](https://www.sciencenews.org/topic/cosmology)
-    * * [Cosmology](https://www.sciencenews.org/topic/cosmology)
+    * * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
+            
+            ### [Scientists find a long-sought electric field in Earth’s atmosphere](https://www.sciencenews.org/article/electric-field-in-earths-atmosphere)
+            
+            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")4 hours ago
+            
+        * [Cosmology](https://www.sciencenews.org/topic/cosmology)
             
             ### [In an epic cosmology clash, rival scientists begin to find common ground](https://www.sciencenews.org/article/cosmology-expansion-universe) 
             
@@ -195,12 +201,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [2 spacecraft caught the waves that might heat and accelerate the solar wind](https://www.sciencenews.org/article/waves-heat-accelerate-solar-wind)
             
             By [Adam Mann](https://www.sciencenews.org/author/adam-mann "Posts by Adam Mann")August 29, 2024
-            
-        * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
-            
-            ### [The Webb telescope’s peek into a stellar nursery finds baby planets too](https://www.sciencenews.org/article/webb-peek-stellar-nursery-baby-planets)
-            
-            By [Adam Mann](https://www.sciencenews.org/author/adam-mann "Posts by Adam Mann")August 27, 2024
             
 
 Terms of Service
