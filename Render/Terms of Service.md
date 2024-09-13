@@ -45,6 +45,8 @@ Runtimes
 * [Careers](https://render.com/careers)
 * [About](https://render.com/about)
 
+[Contact](https://render.com/contact)
+
 [Sign In](https://dashboard.render.com/)
 
 [Get Started](https://dashboard.render.com/register)
