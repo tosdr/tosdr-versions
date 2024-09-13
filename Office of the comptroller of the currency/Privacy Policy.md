@@ -21,8 +21,8 @@ An official website of the United States government
     * More OCC Websites
     * * [![Banknet quick access](/images/c-clamp-images/quickaccess_banknet.png "Banknet quick access")BankNet.gov  
             Find resources for bankers.](https://www.banknet.gov/)
-        * [![](/images/c-clamp-images/quickaccess_helpwith.png "HWMB Quick access")HelpWithMyBank.gov  
-            Get answers to banking questions.](https://www.helpwithmybank.gov/index.html "Get Answers ")
+        * ![](/images/c-clamp-images/quickaccess_helpwith.png "HWMB Quick access")HelpWithMyBank.gov  
+            Get answers to banking questions.
         *  [![Quick Access Search](/images/c-clamp-images/quickaccess_search.png "Search quick access") Careers.occ.gov  
             Join one of the best places to work.](https://careers.occ.gov/index.html "Home")
     
@@ -429,9 +429,9 @@ Email Address
     
     Find resources for bankers.
     
-* [![Help With My Bank website](/images/c-clamp-images/footer-helpwithmybank.png "HWMB footer")](https://www.helpwithmybank.gov/index.html "Get Answers ")
+* ![Help With My Bank website](/images/c-clamp-images/footer-helpwithmybank.png "HWMB footer")
     
-    [HelpWithMyBank.gov](https://www.helpwithmybank.gov/index.html "Get Answers ")
+    HelpWithMyBank.gov
     
     Get answers to banking questions.
     
