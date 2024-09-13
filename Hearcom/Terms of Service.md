@@ -47,6 +47,7 @@ Explore our resource center for expert recommendations, answers to frequently as
 
 * [FAQ](https://www.hear.com/faqs/)
 * [Hearing Test](https://www.hear.com/hearing-test/)
+* [Videos](https://www.hear.com/resources/videos/)
 
 About Us
 
@@ -80,6 +81,7 @@ hear.com provides free consultations and top-of-the-line hearing aids. Your perf
     * [Hearing Aids Success](https://www.hear.com/resources/hearing-aid-success/)
     * [FAQ](https://www.hear.com/faqs/)
     * [Hearing Test](https://www.hear.com/hearing-test/)
+    * [Videos](https://www.hear.com/resources/videos/)
 * About Us
     * [Why hear.com](https://www.hear.com/about-us/why-hear/)
     * [How It Works](https://www.hear.com/about-us/how-it-works/)
@@ -93,7 +95,7 @@ Terms and Conditions
 1. [Home](https://www.hear.com/) ›
 2. [terms and conditions](https://www.hear.com/terms-and-conditions/)
 
-**Hear.com Mobile Communications Terms and Conditions (“Mobile Terms”)**
+**hear.com Mobile Communications Terms and Conditions (“Mobile Terms”)**
 
 Effective date: April 9th, 2018
 
@@ -107,7 +109,7 @@ Consent is not a condition of receiving hear.com products or any hear.com servic
 
 **B. Non-secure transmission of protected health information**
 
-Mobile communications sent by hear.com may contain protected health information (“PHI”) that is subject to certain legal protections under the Health Insurance Portability and Accountability Act (“HIPAA”) and other federal and state laws. Hear.com will treat all PHI in accordance with its Notice of Privacy Practices ([https://www.hear.com/privacy-policy/](https://www.hear.com/privacy-policy/)) and will minimize the amount of PHI transmitted in mobile communications to the minimum amount necessary to achieve the purpose of the mobile communication. However, by signing up for mobile alerts, you expressly acknowledge that mobile communications hear.com sends may be unencrypted or insecure, that mobile communications are sent over public communications networks or similar facilities that are not within hear.com’s control, and that there is the possibility that unauthorized individuals may intercept, access, or read mobile communications that hear.com sends. **IF YOU ARE CONCERNED ABOUT THE POSSIBLE DISCLOSURE OF PHI CONTAINED IN HEAR.COM MOBILE COMMUNICATIONS, DO NOT SIGN UP TO RECEIVE MOBILE COMMUNICATIONS.** You agree to hold hear.com harmless against any unauthorized third party access to PHI contained in mobile communications from hear.com.
+Mobile communications sent by hear.com may contain protected health information (“PHI”) that is subject to certain legal protections under the Health Insurance Portability and Accountability Act (“HIPAA”) and other federal and state laws. hear.com will treat all PHI in accordance with its Notice of Privacy Practices ([https://www.hear.com/privacy-policy/](https://www.hear.com/privacy-policy/)) and will minimize the amount of PHI transmitted in mobile communications to the minimum amount necessary to achieve the purpose of the mobile communication. However, by signing up for mobile alerts, you expressly acknowledge that mobile communications hear.com sends may be unencrypted or insecure, that mobile communications are sent over public communications networks or similar facilities that are not within hear.com’s control, and that there is the possibility that unauthorized individuals may intercept, access, or read mobile communications that hear.com sends. **IF YOU ARE CONCERNED ABOUT THE POSSIBLE DISCLOSURE OF PHI CONTAINED IN HEAR.COM MOBILE COMMUNICATIONS, DO NOT SIGN UP TO RECEIVE MOBILE COMMUNICATIONS.** You agree to hold hear.com harmless against any unauthorized third party access to PHI contained in mobile communications from hear.com.
 
 **C. Mobile communications means and content**
 
@@ -125,11 +127,11 @@ Hear.com will not impose any charges on you associated with its sending of mobil
 
 You may revoke your consent to receive mobile communications from hear.com at any time by texting “STOP” in reply to any hear.com mobile communication or by writing an email to info@hear.com clearly indicating that you do not wish to receive additional mobile communications from hear.com. Hear.com may, in its sole discretion, choose to honor or disregard revocation requests made through other means.
 
-You agree to notify hear.com immediately if you cancel your subscription to the number you provided to hear.com at the time of registration by writing an email to info@hear.com or change your domicile to a location outside of the United States. Hear.com will terminate your subscription to mobile alerts within a reasonable period of time upon receipt of such a notice. Upon its own election, hear.com may terminate your participation in its mobile communications program at any time, in its sole discretion.
+You agree to notify hear.com immediately if you cancel your subscription to the number you provided to hear.com at the time of registration by writing an email to info@hear.com or change your domicile to a location outside of the United States. hear.com will terminate your subscription to mobile alerts within a reasonable period of time upon receipt of such a notice. Upon its own election, hear.com may terminate your participation in its mobile communications program at any time, in its sole discretion.
 
 **G. Modification**
 
-Hear.com may modify or revise these Mobile Terms at any time by posting revisions on the hear.com website. If you do not opt-out of receiving additional messages by texting “STOP” in reply to any hear.com mobile communication or by writing an email to info@hear.com clearly indicating that you do not wish to receive additional mobile communications from hear.com after changes to these Mobile Terms, you agree to be bound by the modified or revised Mobile Terms. You may not modify these Mobile Terms without express written consent from hear.com.
+hear.com may modify or revise these Mobile Terms at any time by posting revisions on the hear.com website. If you do not opt-out of receiving additional messages by texting “STOP” in reply to any hear.com mobile communication or by writing an email to info@hear.com clearly indicating that you do not wish to receive additional mobile communications from hear.com after changes to these Mobile Terms, you agree to be bound by the modified or revised Mobile Terms. You may not modify these Mobile Terms without express written consent from hear.com.
 
 **H. Disputes**
 
@@ -139,23 +141,27 @@ The arbitrator may award money or equitable relief in favor of only the individu
 
 Any arbitration award and any judgment confirming shall not have any precedential effect and may not be used in any other case except to enforce the award itself. To reduce the time and expense of the arbitration, the arbitrator will not provide a statement of reasons for his or her award unless requested to do so by all parties.
 
-For arbitration claims you assert against hear.com in accordance with this Section (but not for any arbitration claim against you), hear.com will pay your administrative, hearing, and arbitrator’s fees and costs for the arbitration (but not the fees, expenses, and costs of your lawyers, experts, or witnesses) in excess of any filing fee you would have been required to pay to file the claim as a lawsuit in a state or federal court (whichever is greater) in the judicial district in which you reside. Hear.com will pay its, and you will pay your, lawyers’, experts’, and witnesses’ fees, expenses, and costs with respect to all claims.
+For arbitration claims you assert against hear.com in accordance with this Section (but not for any arbitration claim against you), hear.com will pay your administrative, hearing, and arbitrator’s fees and costs for the arbitration (but not the fees, expenses, and costs of your lawyers, experts, or witnesses) in excess of any filing fee you would have been required to pay to file the claim as a lawsuit in a state or federal court (whichever is greater) in the judicial district in which you reside. hear.com will pay its, and you will pay your, lawyers’, experts’, and witnesses’ fees, expenses, and costs with respect to all claims.
 
 Before seeking arbitration, you must first send to hear.com a written Notice of Dispute (“Notice”). The Notice must be sent by certified mail to hear.com LLC 396 Alhambra Circle, Suite 1200 Coral Gables, FL 33134. The Notice should describe the nature and basis of your claim or dispute and the specific relief you seek. If you and hear.com cannot reach an agreement to resolve the claim within thirty days after the Notice is received, you or hear.com may commence arbitration.
 
 **I. Disclaimer of warranties**
 
-Hear.com sends mobile communications on an “as-is” basis. Hear.com specifically disclaims all express or implied warranties related to its mobile communications.
+hear.com sends mobile communications on an “as-is” basis. Hear.com specifically disclaims all express or implied warranties related to its mobile communications.
 
-**J. Governing law**
+**J. Disclaimer of insurances**
+
+hear.com LLC is not responsible for any insurance claims filed by customers for services provided, and customers are solely liable for ensuring such claims are accurate and compliant with insurance regulations.
+
+**K. Governing law**
 
 These Mobile Terms shall be governed by and construed in accordance with the laws of the state of Delaware, without regard to conflicts of law provisions.
 
-**K. Severability**
+**L. Severability**
 
 If, for any reason, a court or arbitrator of competent jurisdiction finds any provision, or portion thereof, of these Mobile Terms unenforceable, that provision shall be enforced to the maximum extent permissible, and the remainder of these Mobile Terms shall remain in full force and effect.
 
-**L. Survival**
+**M. Survival**
 
 Sections H through K shall survive any termination of these Mobile Terms by either hear.com or you.
 
@@ -222,7 +228,7 @@ The Program is offered at the discretion of hear.com, and hear.com reserves the 
 
 By participating in this Program, you agree that hear.com and its agents, representatives, affiliates, officers, directors and employees will have no liability whatsoever for any injuries, losses, claims, damages or any special, exemplary, punitive, indirect, incidental or consequential damages of any kind, whether based in contract, tort, strict liability or otherwise, resulting from any use of the Program, any failure or delay by hear.com in connection with the Program, or the performance or non-performance of the Program by hear.com, even if hear.com has been advised of the possibility of damages. This disclaimer of liability applies to any damages or injury caused by any failure of performance, error, omission, interruption, deletion, defect, delay in operation, computer virus, communications line failure, theft or destruction, or unauthorized access to, alteration of, or use of your information.
 
-Hear.com makes no warranty of any kind regarding the Program, which is provided on an “as is” and “as available” basis. Hear.com expressly disclaims all warranties, including implied warranties of merchantability, fitness for a particular purpose, title, non-infringement, and those arising by statute or otherwise in law or from a course of dealing or usage of trade. Hear.com is not responsible or liable for any warranty, representation, or guarantee, express or implied, in fact or in law, relative to the Program, including without limitation that the Program will be error-free, or as to the accuracy, completeness and timeliness of any content or information distributed with respect to the Program. SOME STATES DO NOT ALLOW THE LIMITATION OF LIABILITY AND DISCLAIMER OF IMPLIED WARRANTIES, SO THE DISCLAIMERS AND LIMITATIONS ABOVE MAY NOT APPLY TO YOU.
+hear.com makes no warranty of any kind regarding the Program, which is provided on an “as is” and “as available” basis. Hear.com expressly disclaims all warranties, including implied warranties of merchantability, fitness for a particular purpose, title, non-infringement, and those arising by statute or otherwise in law or from a course of dealing or usage of trade. Hear.com is not responsible or liable for any warranty, representation, or guarantee, express or implied, in fact or in law, relative to the Program, including without limitation that the Program will be error-free, or as to the accuracy, completeness and timeliness of any content or information distributed with respect to the Program. SOME STATES DO NOT ALLOW THE LIMITATION OF LIABILITY AND DISCLAIMER OF IMPLIED WARRANTIES, SO THE DISCLAIMERS AND LIMITATIONS ABOVE MAY NOT APPLY TO YOU.
 
 **7\. ADDITIONAL TERMS**
 
