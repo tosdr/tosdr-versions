@@ -48,8 +48,8 @@ Rechercher
 
 Recherches populaires
 
-* [iphone 15](https://www.proximus.be/fr/id_search-private-ES/particuliers/p-orphans/pdr-part.html?q=iphone%2015)
-* [doro](https://www.proximus.be/fr/id_search-private-ES/particuliers/p-orphans/pdr-part.html?q=doro)
+* [iphone 16](https://www.proximus.be/fr/id_cr_iphone16/particuliers/equipement/boutique/cr-campaigns/iphone-16.html)
+* [iphone 15](https://www.proximus.be/fr/id_cr_iphone15/particuliers/equipement/boutique/cr-campaigns/iphone-15.html#/)
 * [fibre](https://www.proximus.be/fr/id_search-private-ES/particuliers/p-orphans/pdr-part.html?q=fibre)
 * [facture](https://www.proximus.be/fr/id_search-private-ES/particuliers/p-orphans/pdr-part.html?q=facture)
 
