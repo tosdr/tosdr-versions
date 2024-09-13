@@ -10,6 +10,7 @@
     * [Administrators](https://www.sentral.com.au/im-an-administrator)
     * [School Leaders](https://www.sentral.com.au/im-a-senior-leader)
     * [Solutions](https://www.sentral.com.au/overview)
+    * [StudentPayPlus](https://www.sentral.com.au/studentpayplus)
     * [Partners](https://www.sentral.com.au/partners)
     * [Support](https://www.sentral.com.au/support)
     
@@ -18,7 +19,6 @@
     * [Parents](https://www.sentral.com.au/parents)
     * [Getting Started](https://www.sentral.com.au/getting-started)
     * [Portal & App Help](https://www.sentral.com.au/portal-app-help)
-    * [StudentPayPlus](https://www.sentral.com.au/studentpayplus)
     
 * [About Us](https://www.sentral.com.au/about-us) [ ] 
     
