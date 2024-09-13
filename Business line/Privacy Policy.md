@@ -1,48 +1,48 @@
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=123456&cs_ucfr=1&cv=2.0&cj=1)
 
-##### SENSEX   81,183.93
+##### SENSEX   82,395.38
 
- -1,017.23
++ 872.22
 
-##### NIFTY   24,852.15
+##### NIFTY   25,133.95
 
- -292.95
++ 215.50
 
-##### CRUDEOIL   5,700.00
+##### CRUDEOIL   5,727.00
 
- -4.00
++ 37.00
 
-##### GOLD   71,460.00
+##### GOLD   71,966.00
 
-+ 34.00
++ 39.00
 
-##### SILVER   82,864.00
+##### SILVER   85,000.00
 
-+ 107.00
++ 550.00
 
-##### SENSEX   81,183.93
+##### SENSEX   82,395.38
 
- -1,017.23
++ 872.22
 
-##### NIFTY   24,852.15
+##### NIFTY   25,133.95
 
- -292.95
++ 215.50
 
-##### NIFTY   24,852.15
+##### NIFTY   25,133.95
 
- -292.95
++ 215.50
 
-##### CRUDEOIL   5,700.00
+##### CRUDEOIL   5,727.00
 
- -4.00
++ 37.00
 
-##### CRUDEOIL   5,700.00
+##### CRUDEOIL   5,727.00
 
- -4.00
++ 37.00
 
-##### GOLD   71,460.00
+##### GOLD   71,966.00
 
-+ 34.00
++ 39.00
 
 [![Businessline Logo](https://assetsbl.thehindubusinessline.com/theme/images/bl-online/logo.svg)](https://www.thehindubusinessline.com/)
 
@@ -689,7 +689,7 @@ The Courts in Chennai in India shall have the exclusive jurisdiction to the excl
     * [Company Index](https://www.thehindubusinessline.com/companies/index/)
     * [Home Loan Interest Rate](https://www.thehindubusinessline.com/money-and-banking/The-Latest-Home-Loan-Interest-Rates-Apr-28-2023/article64808517.ece)
     * [Fixed Deposit Interest Rate](https://www.thehindubusinessline.com/money-and-banking/The-Latest-Fixed-Deposit-Interest-Rates-Apr-28-2023/article64808518.ece)
-    * [Income Tax Calculator 2023-2024](https://www.thehindubusinessline.com/income-tax-calculator/)
+    * [Income Tax Calculator 2024-2025](https://www.thehindubusinessline.com/income-tax-calculator/)
     * [NSE Holidays](https://www.thehindubusinessline.com/money-and-banking/nse-holidays/article67022753.ece)
     * [BSE Holidays](https://www.thehindubusinessline.com/money-and-banking/bse-holidays/article67022721.ece)
     * [Bank Holidays](https://www.thehindubusinessline.com/money-and-banking/bank-holidays/article67022728.ece)
@@ -699,13 +699,13 @@ The Courts in Chennai in India shall have the exclusive jurisdiction to the excl
 
 ##### Trending on businessline
 
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Stock Market Live](https://www.thehindubusinessline.com/markets/stock-market-live-updates-6-september-2024-stock-to-buy-today-alembic-ltd-163/article68610005.ece)
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Suzlon Share Price Live](https://www.thehindubusinessline.com/markets/stock-markets/suzlon-energy-share-price-today-suzlon-shares-today-live-updates-06-sep-2024/article68612540.ece)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Stock Market Live](https://www.thehindubusinessline.com/markets/share-market-nifty-sensex-live-updates-11-september-2024/article68626024.ece)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Tata Motors Share Price Live](https://www.thehindubusinessline.com/markets/stock-markets/tata-motors-stocks-tata-motors-share-price-today-live-updates-11-sep-2024/article68531439.ece)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Suzlon Share Price Live](https://www.thehindubusinessline.com/markets/stock-markets/suzlon-energy-share-price-today-suzlon-shares-today-live-updates-10-sep-2024/article68612540.ece)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) SBI Share Price Live](https://www.thehindubusinessline.com/markets/stock-markets/sbi-stocks-state-bank-of-india-share-price-today-live-updates-09-sep-2024/article68620768.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Premier Energies IPO Share Price Live](https://www.thehindubusinessline.com/markets/stock-markets/premier-energies-ipo-premier-energies-share-price-live-updates-03-sep-2024/article68599597.ece)
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Reliance AGM 2024 Highlights](https://www.thehindubusinessline.com/companies/reliance-agm-2024-highlights-ril-47th-annual-general-meeting-news-updates/article68580061.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) RBI MPC Meeting Highlights](https://www.thehindubusinessline.com/money-and-banking/rbi-monetary-policy-committee-mpc-meeting-live-updates-and-news-august-2024/article68496081.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Budget 2024 Highlights](https://www.thehindubusinessline.com/economy/budget/budget-2024-highlights-key-updates-new-income-tax-announcements-by-fm-nirmala-sitharaman/article68432665.ece)
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Election Results 2024](https://www.thehindubusinessline.com/news/elections/india-general-election-results-2024-updates/article68246360.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Reliance Share Price](https://www.thehindubusinessline.com/stocks/reliance-industries-ltd/)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Adani Enterprises Share Price](https://www.thehindubusinessline.com/stocks/adani-enterprises-ltd/)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Nifty Prediction Today](https://www.thehindubusinessline.com/portfolio/technical-analysis/nifty-prediction-todaymarch-20-2024-bears-gain-traction-consider-shorts/article67971033.ece)
