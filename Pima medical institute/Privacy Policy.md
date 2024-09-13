@@ -33,7 +33,6 @@ Close this search box.
         * [Medical Laboratory Technician](https://pmi.edu/on-campus-programs/associate/medical-laboratory-technician/)
         * [Nursing](https://pmi.edu/on-campus-programs/associate/nursing/)
         * [Occupational Therapy Assistant](https://pmi.edu/on-campus-programs/associate/occupational-therapy-assistant/)
-        * [Ophthalmic Medical Technician](https://pmi.edu/on-campus-programs/associate/ophthalmic-medical-technician/)
         * [Paramedic](https://pmi.edu/on-campus-programs/associate/paramedic/)
         * [Physical Therapist Assistant](https://pmi.edu/on-campus-programs/associate/physical-therapist-assistant/)
         * [Radiography](https://pmi.edu/on-campus-programs/associate/radiography/)
@@ -125,7 +124,6 @@ Close this search box.
         * [Medical Laboratory Technician](https://pmi.edu/on-campus-programs/associate/medical-laboratory-technician/)
         * [Nursing](https://pmi.edu/on-campus-programs/associate/nursing/)
         * [Occupational Therapy Assistant](https://pmi.edu/on-campus-programs/associate/occupational-therapy-assistant/)
-        * [Ophthalmic Medical Technician](https://pmi.edu/on-campus-programs/associate/ophthalmic-medical-technician/)
         * [Paramedic](https://pmi.edu/on-campus-programs/associate/paramedic/)
         * [Physical Therapist Assistant](https://pmi.edu/on-campus-programs/associate/physical-therapist-assistant/)
         * [Radiography](https://pmi.edu/on-campus-programs/associate/radiography/)
@@ -235,11 +233,11 @@ Ready To Start Your Future In Healthcare?
 
 Request More Information here and a member of our team will get back to you as soon as possible to answer your questions and talk you through the process of enrolling for our on-campus programs. Or give us a call at [(800) 477-7462](tel:8004777462)
 
-                    
+                 
 
 * Program 
     
-    Select ProgramB.S. Health Care AdministrationB.S. Nursing (RN to BSN)B.S. Physical Therapist AssistantB.S. Radiologic SciencesB.S. Respiratory TherapyComputed TomographyDental AssistantDental HygieneDiagnostic Medical SonographyExpanded Duties Dental AssistantHealth Care Administration (Online)Health Care Administration CertificateM.S. Organizational LeadershipMedical AssistantMedical Billing and CodingMedical Laboratory TechnicianNursingNursing Assistant/Nurse AideOccupational Therapy AssistantOphthalmic Medical TechnicianParamedicPharmacy TechnicianPhlebotomy TechnicianPhysical Therapist AssistantPractical NursingRadiographyRadiography – Bridge (Online)Respiratory TherapySterile Processing TechnicianSurgical TechnologyVeterinary AssistantVeterinary TechnicianUndecided
+    Select ProgramB.S. Health Care AdministrationB.S. Nursing (RN to BSN)B.S. Physical Therapist AssistantB.S. Radiologic SciencesB.S. Respiratory TherapyComputed TomographyDental AssistantDental HygieneDiagnostic Medical SonographyExpanded Duties Dental AssistantHealth Care Administration (Online)Health Care Administration CertificateM.S. Organizational LeadershipMedical AssistantMedical Billing and CodingMedical Laboratory TechnicianNursingNursing Assistant/Nurse AideOccupational Therapy AssistantParamedicPharmacy TechnicianPhlebotomy TechnicianPhysical Therapist AssistantPractical NursingRadiographyRadiography – Bridge (Online)Respiratory TherapySterile Processing TechnicianSurgical TechnologyVeterinary AssistantVeterinary TechnicianUndecided
     
     (not all programs are offered at all campuses)
     
@@ -326,7 +324,7 @@ Follow your passion for a career in healthcare and make a difference.
 
 ###### Program
 
-Select Program B.S. Health Care AdministrationB.S. Nursing (RN to BSN)B.S. Physical Therapist AssistantB.S. Radiologic SciencesB.S. Respiratory TherapyComputed TomographyDental AssistantDental HygieneDiagnostic Medical SonographyExpanded Duties Dental AssistantHealth Care Administration (Online)Health Care Administration CertificateM.S. Organizational LeadershipMedical AssistantMedical Billing and CodingMedical Laboratory TechnicianNursingNursing Assistant/Nurse AideOccupational Therapy AssistantOphthalmic Medical TechnicianParamedicPharmacy TechnicianPhlebotomy TechnicianPhysical Therapist AssistantPractical NursingRadiographyRadiography – Bridge (Online)Respiratory TherapySterile Processing TechnicianSurgical TechnologyVeterinary AssistantVeterinary Technician Undecided
+Select Program B.S. Health Care AdministrationB.S. Nursing (RN to BSN)B.S. Physical Therapist AssistantB.S. Radiologic SciencesB.S. Respiratory TherapyComputed TomographyDental AssistantDental HygieneDiagnostic Medical SonographyExpanded Duties Dental AssistantHealth Care Administration (Online)Health Care Administration CertificateM.S. Organizational LeadershipMedical AssistantMedical Billing and CodingMedical Laboratory TechnicianNursingNursing Assistant/Nurse AideOccupational Therapy AssistantParamedicPharmacy TechnicianPhlebotomy TechnicianPhysical Therapist AssistantPractical NursingRadiographyRadiography – Bridge (Online)Respiratory TherapySterile Processing TechnicianSurgical TechnologyVeterinary AssistantVeterinary Technician Undecided
 
 ###### Campus Location
 
