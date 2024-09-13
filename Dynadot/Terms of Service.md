@@ -99,7 +99,7 @@ Support
 
 Help Center
 
-**Chat** : Online
+**Chat** : Busy
 
 [Tickets](https://www.dynadot.com/account/ticket/open.html)
 
@@ -248,7 +248,7 @@ Support
 
 Help Center
 
-Chat: Online
+Chat: Busy
 
 [Tickets](https://www.dynadot.com/account/ticket/open.html)
 
@@ -2097,7 +2097,7 @@ Current chats in queue: 0
 
 Chat Online0
 
-EN  
+EN
 
 * [Español](https://www.dynadot.com/es/terminos-de-uso)
 * [中文](https://www.dynadot.com/zh/terms-of-use)
@@ -2113,7 +2113,7 @@ EN  
 * [Indonesia](https://www.dynadot.com/id/terms-of-use)
 * [Српски](https://www.dynadot.com/sr/terms-of-use)
 
-USD ($)  
+USD ($)
 
 * [US Dollar USD ($)](https://www.dynadot.com/terms-of-use)
 * [Euro EUR (€)](https://www.dynadot.com/change_currency.html?chg_currency=EUR&pg=%2Fterms-of-use)
@@ -2132,231 +2132,22 @@ Newsletter sign-up
 
 Submit
 
-Domains
-
-[Domain Search](https://www.dynadot.com/domain/search)
-
-[Transfer](https://www.dynadot.com/domain/transfer)
-
-[IDNs Search](https://www.dynadot.com/domain/idn-search)
-
-[TLD Prices](https://www.dynadot.com/domain/tlds-prices)
-
-[Domain Sales](https://www.dynadot.com/domain/sales)
-
-[Resellers](https://www.dynadot.com/domain/reseller-program)
-
-[Websites](https://www.dynadot.com/website-builder)
-
-[Email](https://www.dynadot.com/email)
-
-[SSL](https://www.dynadot.com/ssl)
-
-[Domain Suggestion Tool](https://www.dynadot.com/domain/suggestion-tool)
-
-[Security](https://www.dynadot.com/domain/security)
-
-[Grace Deletion](https://www.dynadot.com/domain/grace-deletion)
-
-[API](https://www.dynadot.com/domain/api)
-
-[Whois Lookup](https://www.dynadot.com/domain/whois)
-
-[Payment Plan](https://www.dynadot.com/payment-plan)
-
-Aftermarket
-
-[Aftermarket Search](https://www.dynadot.com/market/search)
-
-[Market Overview](https://www.dynadot.com/market)
-
-[User Listings](https://www.dynadot.com/market/user-listings)
-
-[Backorders](https://www.dynadot.com/market/backorder)
-
-[Expired Auctions](https://www.dynadot.com/market/auction)
-
-[User Auctions](https://www.dynadot.com/market/user-auction)
-
-[Backorder Auctions](https://www.dynadot.com/market/backorder-auction)
-
-[Last Chance Auctions](https://www.dynadot.com/market/last-chance-auction)
-
-[Expired Closeout](https://www.dynadot.com/market/expired-closeout)
-
-Support
-
-[Blog](https://www.dynadot.com/blog)
-
-[Help Files](https://www.dynadot.com/community/help)
-
-[Forums](https://www.dynadot.com/community/forums)
-
-[Buying Domains](https://www.dynadot.com/market/buy-domains)
-
-[Selling Domains](https://www.dynadot.com/market/sell-domains)
-
-[Newsletter](https://www.dynadot.com/market/newsletter)
-
-[Prepay](https://www.dynadot.com/prepay)
-
-[Payment Options](https://www.dynadot.com/payment-options)
-
-[Report Abuse](https://www.dynadot.com/report-abuse)
-
-Dynadot
-
-[About](https://www.dynadot.com/community/about-us)
-
-[Contact](https://www.dynadot.com/community/contact)
-
-[Events](https://www.dynadot.com/community/events)
-
-[Site Map](https://www.dynadot.com/sitemap)
-
-[APP](https://www.dynadot.com/domain/dynadot-app)
-
-[Refer-a-friend](https://www.dynadot.com/community/refer-a-friend)
-
-[Affiliate](https://www.dynadot.com/affiliate)
-
-[Auction Affiliate](https://www.dynadot.com/expired-affiliate)
-
 Download the app:[](https://itunes.apple.com/us/app/dynadot/id1209930282?mt=8)[](https://play.google.com/store/apps/details?id=com.dynadot.search)
-
-Copyright © 2002-2024 Dynadot Inc. All rights reserved.
-
-[Privacy Policy](https://www.dynadot.com/privacy_policy.html)     [Terms of Use](https://www.dynadot.com/terms-of-use)     [Registrant Educational Information](https://www.icann.org/resources/pages/benefits-2013-09-16-en)     [Registrants Benefits and Responsibilities](https://www.icann.org/resources/pages/approved-with-specs-2013-09-17-en#registrant)
-
-          
-
-EN  
-
-* [Español](https://www.dynadot.com/es/terminos-de-uso)
-* [中文](https://www.dynadot.com/zh/terms-of-use)
-* [العربية](https://www.dynadot.com/ar/terms-of-use)
-* [Deutsch](https://www.dynadot.com/de/terms-of-use)
-* [Português](https://www.dynadot.com/pt/terms-of-use)
-* [Français](https://www.dynadot.com/fr/terms-of-use)
-* [Русский](https://www.dynadot.com/ru/terms-of-use)
-* [हिन्दी](https://www.dynadot.com/hi/terms-of-use)
-* [Italiano](https://www.dynadot.com/it/terms-of-use)
-* [日本語](https://www.dynadot.com/ja/terms-of-use)
-* [한국어](https://www.dynadot.com/ko/terms-of-use)
-* [Indonesia](https://www.dynadot.com/id/terms-of-use)
-* [Српски](https://www.dynadot.com/sr/terms-of-use)
-
-USD ($)  
-
-* [US Dollar USD ($)](https://www.dynadot.com/terms-of-use)
-* [Euro EUR (€)](https://www.dynadot.com/change_currency.html?chg_currency=EUR&pg=%2Fterms-of-use)
-* [人民币 CNY (¥)](https://www.dynadot.com/change_currency.html?chg_currency=CNY&pg=%2Fterms-of-use)
-* [Canadian Dollar CAD (C$)](https://www.dynadot.com/change_currency.html?chg_currency=CAD&pg=%2Fterms-of-use)
-* [Pesos Mexicanos MXN (MX$)](https://www.dynadot.com/change_currency.html?chg_currency=MXN&pg=%2Fterms-of-use)
-* [British Pound GBP (£)](https://www.dynadot.com/change_currency.html?chg_currency=GBP&pg=%2Fterms-of-use)
-* [Real Brasileiro BRL (R$)](https://www.dynadot.com/change_currency.html?chg_currency=BRL&pg=%2Fterms-of-use)
-* [Indian Rupee INR (Rs.)](https://www.dynadot.com/change_currency.html?chg_currency=INR&pg=%2Fterms-of-use)
-* [Indonesian Rupiah IDR (Rp)](https://www.dynadot.com/change_currency.html?chg_currency=IDR&pg=%2Fterms-of-use)
-* [Australian Dollar AUD (AU$)](https://www.dynadot.com/change_currency.html?chg_currency=AUD&pg=%2Fterms-of-use)
-
-[](https://www.facebook.com/pages/Dynadot/119239589383 "Dynadot on Facebook")[](https://instagram.com/dynadot/ "Dynadot on Instagram")[](https://pinterest.com/teamdynadot/ "Dynadot on Pinterest")[](https://www.linkedin.com/company/dynadot?trk=fc_badge "Dynadot on LinkedIn")[](https://www.twitter.com/dynadot "Dynadot on Twitter")[](https://www.youtube.com/user/teamdynadot "Dynadot on YouTube")
-
-Newsletter sign-up
-
-Submit
 
 Domains
 
-[Domain Search](https://www.dynadot.com/domain/search)
-
-[Transfer](https://www.dynadot.com/domain/transfer)
-
-[IDNs Search](https://www.dynadot.com/domain/idn-search)
-
-[TLD Prices](https://www.dynadot.com/domain/tlds-prices)
-
-[Domain Sales](https://www.dynadot.com/domain/sales)
-
-[Resellers](https://www.dynadot.com/domain/reseller-program)
-
-[Websites](https://www.dynadot.com/website-builder)
-
-[Email](https://www.dynadot.com/email)
-
-[SSL](https://www.dynadot.com/ssl)
-
-[Domain Suggestion Tool](https://www.dynadot.com/domain/suggestion-tool)
-
-[Security](https://www.dynadot.com/domain/security)
-
-[Grace Deletion](https://www.dynadot.com/domain/grace-deletion)
-
-[API](https://www.dynadot.com/domain/api)
-
-[Whois Lookup](https://www.dynadot.com/domain/whois)
-
-[Payment Plan](https://www.dynadot.com/payment-plan)
-
-Dynadot
-
-[About](https://www.dynadot.com/community/about-us)
-
-[Contact](https://www.dynadot.com/community/contact)
-
-[Events](https://www.dynadot.com/community/events)
-
-[Site Map](https://www.dynadot.com/sitemap)
-
-[APP](https://www.dynadot.com/domain/dynadot-app)
-
-[Refer-a-friend](https://www.dynadot.com/community/refer-a-friend)
-
-[Affiliate](https://www.dynadot.com/affiliate)
-
-[Auction Affiliate](https://www.dynadot.com/expired-affiliate)
+[Domain Search](https://www.dynadot.com/domain/search)[Transfer](https://www.dynadot.com/domain/transfer)[IDNs Search](https://www.dynadot.com/domain/idn-search)[TLD Prices](https://www.dynadot.com/domain/tlds-prices)[Domain Sales](https://www.dynadot.com/domain/sales)[Resellers](https://www.dynadot.com/domain/reseller-program)[Websites](https://www.dynadot.com/website-builder)[Email](https://www.dynadot.com/email)[SSL](https://www.dynadot.com/ssl)[Domain Suggestion Tool](https://www.dynadot.com/domain/suggestion-tool)[Security](https://www.dynadot.com/domain/security)[Grace Deletion](https://www.dynadot.com/domain/grace-deletion)[API](https://www.dynadot.com/domain/api)[Whois Lookup](https://www.dynadot.com/domain/whois)[Payment Plan](https://www.dynadot.com/payment-plan)
 
 Aftermarket
 
-[Aftermarket Search](https://www.dynadot.com/market/search)
-
-[Market Overview](https://www.dynadot.com/market)
-
-[User Listings](https://www.dynadot.com/market/user-listings)
-
-[Backorders](https://www.dynadot.com/market/backorder)
-
-[Expired Auctions](https://www.dynadot.com/market/auction)
-
-[User Auctions](https://www.dynadot.com/market/user-auction)
-
-[Backorder Auctions](https://www.dynadot.com/market/backorder-auction)
-
-[Last Chance Auctions](https://www.dynadot.com/market/last-chance-auction)
-
-[Expired Closeout](https://www.dynadot.com/market/expired-closeout)
+[Aftermarket Search](https://www.dynadot.com/market/search)[Market Overview](https://www.dynadot.com/market)[User Listings](https://www.dynadot.com/market/user-listings)[Backorders](https://www.dynadot.com/market/backorder)[Expired Auctions](https://www.dynadot.com/market/auction)[User Auctions](https://www.dynadot.com/market/user-auction)[Backorder Auctions](https://www.dynadot.com/market/backorder-auction)[Last Chance Auctions](https://www.dynadot.com/market/last-chance-auction)[Expired Closeout](https://www.dynadot.com/market/expired-closeout)
 
 Support
 
-[Blog](https://www.dynadot.com/blog)
+[Blog](https://www.dynadot.com/blog)[Help Files](https://www.dynadot.com/community/help)[Forums](https://www.dynadot.com/community/forums)[Buying Domains](https://www.dynadot.com/market/buy-domains)[Selling Domains](https://www.dynadot.com/market/sell-domains)[Newsletter](https://www.dynadot.com/market/newsletter)[Prepay](https://www.dynadot.com/prepay)[Payment Options](https://www.dynadot.com/payment-options)[Report Abuse](https://www.dynadot.com/report-abuse)
 
-[Help Files](https://www.dynadot.com/community/help)
+Dynadot
 
-[Forums](https://www.dynadot.com/community/forums)
+[About](https://www.dynadot.com/community/about-us)[Contact](https://www.dynadot.com/community/contact)[Events](https://www.dynadot.com/community/events)[Site Map](https://www.dynadot.com/sitemap)[APP](https://www.dynadot.com/domain/dynadot-app)[Refer-a-friend](https://www.dynadot.com/community/refer-a-friend)[Affiliate](https://www.dynadot.com/affiliate)[Auction Affiliate](https://www.dynadot.com/expired-affiliate)
 
-[Buying Domains](https://www.dynadot.com/market/buy-domains)
-
-[Selling Domains](https://www.dynadot.com/market/sell-domains)
-
-[Newsletter](https://www.dynadot.com/market/newsletter)
-
-[Prepay](https://www.dynadot.com/prepay)
-
-[Payment Options](https://www.dynadot.com/payment-options)
-
-[Report Abuse](https://www.dynadot.com/report-abuse)
-
-Download the app:[](https://itunes.apple.com/us/app/dynadot/id1209930282?mt=8)[](https://play.google.com/store/apps/details?id=com.dynadot.search)
-
-Copyright © 2002-2024 Dynadot Inc. All rights reserved.
-
-[Privacy Policy](https://www.dynadot.com/privacy_policy.html)     [Terms of Use](https://www.dynadot.com/terms-of-use)     [Registrant Educational Information](https://www.icann.org/resources/pages/benefits-2013-09-16-en)     [Registrants Benefits and Responsibilities](https://www.icann.org/resources/pages/approved-with-specs-2013-09-17-en#registrant)
+Copyright © 2002-2024 Dynadot Inc. All rights reserved. [Privacy Policy](https://www.dynadot.com/privacy_policy.html)[Terms of Use](https://www.dynadot.com/terms-of-use)[Registrant Educational Information](https://www.icann.org/resources/pages/benefits-2013-09-16-en)[Registrants Benefits and Responsibilities](https://www.icann.org/resources/pages/approved-with-specs-2013-09-17-en#registrant)
