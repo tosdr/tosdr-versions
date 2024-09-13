@@ -197,7 +197,7 @@ Investments
 * [Indulgence](https://www.jabholco.com/jab-coffee)
 * [Petcare](https://www.jabholco.com/petcare)
 * [Pet Insurance](https://www.jabholco.com/pethealth)
-* [Beauty & Luxury](https://www.jabholco.com/coty)
+* [Beauty](https://www.jabholco.com/coty)
 
 Legal Area
 ----------
