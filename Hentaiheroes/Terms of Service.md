@@ -1,6 +1,6 @@
 Loading...
 
-![background](https://hh2.hh-content.com/pictures/backgrounds/2200x/homepage_path_event.jpg)
+![background](https://hh2.hh-content.com/pictures/backgrounds/2200x/town-v5.jpg)
 
 [![](https://hh2.hh-content.com/design/ic_arrow-back.svg)](https://www.hentaiheroes.com/home.html)[![](https://hh2.hh-content.com/design/ic_legal.svg)
 
@@ -16,7 +16,7 @@ Loading...
 
 #### Contact
 
-For any technical issues, questions or suggestions, please contact our support team. To have access to our support, you must be logged in to create a ticket. In case you can not log in for any reason, please send us an email from the email you used to create your account, detailing your problem, by clicking the button below.  
+For any technical issues, questions or suggestions, please contact our support team. To access our support you must be logged in and validated your email. In case you can not log in for any reason, please send us an email detailing your problem to support@kinkoid.com.  
 [Customer Support](mailto:support@kinkoid.com)
 
 #### Content Removal
