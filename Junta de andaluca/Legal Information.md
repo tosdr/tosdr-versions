@@ -43,7 +43,7 @@
     * [Secretaría Virtual de los centros docentes](https://www.juntadeandalucia.es/educacion/secretariavirtual/ "Secretaría Virtual de los centros docentes")
     * [Distrito Único Andaluz](https://www.juntadeandalucia.es/economiaconocimientoempresasyuniversidad/sguit/?q=grados "Distrito Único Andaluz")
     * [iPasen](https://www.juntadeandalucia.es/educacion/pasen/ "iPasen")
-    * [Bonificación de los servicios complementarios](https://www.juntadeandalucia.es/servicios/sede/tramites/procedimientos/detalle/25586.html "Bonificación de los servicios complementarios")
+    * [Moodle Centros](https://www.juntadeandalucia.es/educacion/eaprendizaje/moodle-centros/ "Moodle Centros")
     
 * [Trabajar](https://www.juntadeandalucia.es/temas/trabajar.html "Trabajar")
     
