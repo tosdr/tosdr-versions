@@ -1,10 +1,10 @@
-[About Us](https://www.cookiebot.com/en/about/)[Help](https://support.cookiebot.com/hc/en-us/)[Newsletter](javascript:void(0))
+[Log In](https://www.cookiebot.com/en/cmp-login/) [About Us](https://www.cookiebot.com/en/about/)[Help](https://support.cookiebot.com/hc/en-us/)[Newsletter](javascript:void(0))
 
 English
 
 [Dansk](https://www.cookiebot.com/da/privacy-policy/) [Deutsch](https://www.cookiebot.com/de/privacy-policy/) [English](https://www.cookiebot.com/en/privacy-policy/) [Español](https://www.cookiebot.com/es/privacy-policy/) [Français](https://www.cookiebot.com/fr/privacy-policy/) [Italiano](https://www.cookiebot.com/it/privacy-policy/)
 
-[![Cookiebot Logo - Cookiebot](/wp-content/themes/cookiebot/img/logo.svg)](https://www.cookiebot.com/)
+[![Cookiebot Logo - Cookiebot](/wp-content/themes/cookiebot/img/logo-cb.svg)](https://www.cookiebot.com/)
 
 What is Cookiebot
 
@@ -499,9 +499,9 @@ Subscribe By clicking on “Subscribe” I confirm that I want to subscribe to t
 
 [![wix_20x20.svg](https://www.cookiebot.com/en/wp-content/uploads/sites/7/2024/05/wix_20x20.svg)Cookiebot™ for Wix by Usercentrics](https://www.wix.com/app-market/cookiebot-for-wix?utm_source=cb_footer_cta&utm_medium=referral)
 
-![usercentrics-cookiebot-logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20110%2032'%3E%3C/svg%3E)
+![UC_MasterLogo_Logo_BluOnBlk](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20110%2032'%3E%3C/svg%3E)
 
-![usercentrics-cookiebot-logo](https://www.cookiebot.com/en/wp-content/uploads/sites/7/2024/04/usercentrics-cookiebot-logo.svg)
+![UC_MasterLogo_Logo_BluOnBlk](https://www.cookiebot.com/en/wp-content/uploads/sites/7/2024/09/UC_MasterLogo_Logo_BluOnBlk.svg)
 
 Euro - €
 
@@ -533,17 +533,11 @@ By clicking on “Sign up” I confirm that I want to subscribe to the Usercentr
 
 Follow us
 
-[![LinkedIn Logo - Cookiebot](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2010%2010'%3E%3C/svg%3E)
+[](https://www.linkedin.com/showcase/cookiebot/)[](https://twitter.com/CookiebotCMP)[](https://www.facebook.com/CookiebotCMP/)
 
-![LinkedIn Logo - Cookiebot](https://www.cookiebot.com/en/wp-content/uploads/sites/7/2022/03/iconmonstr-linkedin-4.svg)](https://www.linkedin.com/showcase/cookiebot/)[![Twitter Logo - Cookiebot](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2010%2010'%3E%3C/svg%3E)
+[![CMP_Badge](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2060%2064'%3E%3C/svg%3E)
 
-![Twitter Logo - Cookiebot](https://www.cookiebot.com/en/wp-content/uploads/sites/7/2023/11/x-logo.svg)](https://twitter.com/CookiebotCMP)[![Facebook Logo - Cookiebot](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2010%2010'%3E%3C/svg%3E)
-
-![Facebook Logo - Cookiebot](https://www.cookiebot.com/en/wp-content/uploads/sites/7/2022/03/iconmonstr-facebook-4.svg)](https://www.facebook.com/CookiebotCMP/)
-
-[![Cookiebot CMP - Certified by Google - CMP Partner Badge](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E)
-
-![Cookiebot CMP - Certified by Google - CMP Partner Badge](https://www.cookiebot.com/en/wp-content/uploads/sites/7/2023/04/cmp-badge.svg)](https://www.cookiebot.com/en/google-certified-cmp-requirement-cookiebot/)[![Badge iab Europe TCF (Transparency and Consent Framework) - Cookiebot Registered CMP](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20365%20204'%3E%3C/svg%3E)
+![CMP_Badge](https://www.cookiebot.com/en/wp-content/uploads/sites/7/2024/09/CMP_Badge.svg)](https://www.cookiebot.com/en/google-certified-cmp-requirement-cookiebot/)[![Badge iab Europe TCF (Transparency and Consent Framework) - Cookiebot Registered CMP](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20365%20204'%3E%3C/svg%3E)
 
 ![Badge iab Europe TCF (Transparency and Consent Framework) - Cookiebot Registered CMP](https://www.cookiebot.com/en/wp-content/uploads/sites/7/2023/08/iab_tcf_certification.png)](https://www.cookiebot.com/en/iab-cookies/)![Patented Scanner](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20320%20240'%3E%3C/svg%3E)
 
