@@ -96,9 +96,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/traditional) [See All](https://classiccountrymusic.com/genre/traditional)
 
-* [George Strait Honors Waylon Jennings With...](https://classiccountrymusic.com/george-strait-honors-waylon-jennings-with-rendition-of-waymores-blues/)
-* [George Strait Releases His 31st Studio...](https://classiccountrymusic.com/george-strait-releases-his-31st-studio-album-cowboys-dreamers/)
-* [Luke Combs Joins Brooks & Dunn...](https://classiccountrymusic.com/luke-combs-joins-brooks-dunn-for-brand-new-man-at-2019-acms/)
+* [Dolly Parton’s New Chardonnay Is Now...](https://classiccountrymusic.com/dolly-partons-new-chardonnay-is-now-available-nationwide/)
+* [Reba Says She Never Wanted to...](https://classiccountrymusic.com/reba-says-she-never-wanted-to-meet-merle-haggard/)
+* [Lee Greenwood Sings “God Bless The...](https://classiccountrymusic.com/lee-greenwood-sings-god-bless-the-usa-to-a-full-yankee-stadium/)
 
 ![bluegrass](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
