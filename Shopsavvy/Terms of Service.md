@@ -1,10 +1,10 @@
 [ShopSavvy![](https://shopsavvy-website-static.storage.googleapis.com/assets/logo-2022-glyph.svg)](https://shopsavvy.com/)
 
-[App](https://shopsavvy.com/app)[Browser Extension](https://shopsavvy.com/browser-extension)[Deals](https://shopsavvy.com/deals)[Answers](https://shopsavvy.com/answers)[TLDR Reviews](https://shopsavvy.com/reviews-tldr)[About](https://shopsavvy.com/about)
+[App](https://shopsavvy.com/app)[Browser Extension](https://shopsavvy.com/browser-extension)[Deals](https://shopsavvy.com/deals)[Best Picks](https://shopsavvy.com/best-picks)[TLDR Reviews](https://shopsavvy.com/reviews-tldr)[Answers](https://shopsavvy.com/answers)[About](https://shopsavvy.com/about)
 
 [Get ShopSavvy](https://shopsavvy.com/download)[Sign In](https://shopsavvy.com/sign-in)[Sign Up](https://shopsavvy.com/sign-up)
 
-[App](https://shopsavvy.com/app)[Browser Extension](https://shopsavvy.com/browser-extension)[Deals](https://shopsavvy.com/deals)[Answers](https://shopsavvy.com/answers)[TLDR Reviews](https://shopsavvy.com/reviews-tldr)[About](https://shopsavvy.com/about)
+[App](https://shopsavvy.com/app)[Browser Extension](https://shopsavvy.com/browser-extension)[Deals](https://shopsavvy.com/deals)[Best Picks](https://shopsavvy.com/best-picks)[TLDR Reviews](https://shopsavvy.com/reviews-tldr)[Answers](https://shopsavvy.com/answers)[About](https://shopsavvy.com/about)
 
 **TERMS OF USE**
 
