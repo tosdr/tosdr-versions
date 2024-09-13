@@ -191,7 +191,7 @@ Popular tutorials
 
 [Featured
 
-How to Backup and Restore the Windows Registry](https://en.freedownloadmanager.org/tutorials/how-to-backup-and-restore-the-windows-registry.html)
+How to **convert PNG to animated GIF** with Any to GIF](https://en.freedownloadmanager.org/tutorials/how-to-convert-png-to-animated-gif-with-any-to-gif.html)
 
 [Featured
 
@@ -199,7 +199,7 @@ How to clean registry](https://en.freedownloadmanager.org/tutorials/how-to-clean
 
 [Featured
 
-How to block applications from accessing the Internet in Windows 10](https://en.freedownloadmanager.org/tutorials/how-to-block-applications-from-accessing-the-internet.html)
+How to check your WiFi connection speed in Mac OS X](https://en.freedownloadmanager.org/tutorials/how-to-check-your-wifi-connection-speed-in-mac-os-x.html)
 
 [Terms & Privacy](https://www.freedownloadmanager.org/privacy.htm) • [Contact us](https://www.freedownloadmanager.org/contactus.htm) • [Donate](https://www.freedownloadmanager.org/donate.htm)
 
