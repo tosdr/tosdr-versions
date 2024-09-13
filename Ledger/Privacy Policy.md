@@ -247,6 +247,7 @@ Payment methods
 * Crypto Assets
     * [Bitcoin wallet](https://www.ledger.com/coin/wallet/bitcoin)
     * [Ethereum wallet](https://www.ledger.com/coin/wallet/ethereum)
+    * [Solana wallet](https://www.ledger.com/coin/wallet/solana)
     * [Cardano wallet](https://www.ledger.com/coin/wallet/cardano)
     * [XRP wallet](https://www.ledger.com/coin/wallet/ripple)
     * [Monero wallet](https://www.ledger.com/coin/wallet/monero)
