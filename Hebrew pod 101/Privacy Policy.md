@@ -1,5 +1,9 @@
 [Hallo, Pooh, you're just in time for a little smackerel of something](https://vkt979ywwg.execute-api.us-east-1.amazonaws.com/ProdStage)
 
+[![Get 40% Off Forever Discount. Sale Ends Soon!](https://cdn.innovativelanguage.com/sns/em/2024/September/HP/hebrew.png)](https://www.hebrewpod101.com/epic-lp?src=banner_hp)
+
+[![Get 40% Off Forever Discount. Sale Ends Soon!](https://cdn.innovativelanguage.com/sns/em/2024/September/HP/homepage_mob-banner(3).gif)](https://www.hebrewpod101.com/epic-lp?src=mbanner_hp)
+
 ![Home](/static/images/hebrewpod101/splash/logo-desktop-transparent.svg)
 
 Sign In
