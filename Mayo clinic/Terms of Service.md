@@ -310,7 +310,7 @@ Intended for users 18 and older
 
 Other than our [Patient Portal](https://onlineservices.mayoclinic.org/content/staticpatient/showpage/patientonline), the Site is intended for use by individuals 18 years of age or older. This Site is not directed for use by children under the age of 18. Users under the age of 18 should get the assistance of a parent or guardian to use this Site.
 
-OurPatient Portal is available to patients 18 years of age and older. It is also available to patients who are between the ages of 13 years old and 17 years old with the permission of their parents or legal guardians.
+Our Patient Portal is available to patients 18 years of age and older. It is also available to patients who are between the ages of 13 years old and 17 years old with the permission of their parents or legal guardians.
 
 Acceptable use
 --------------
