@@ -1359,7 +1359,7 @@ We can't wait to see what you build.
 * [Verify](https://www.twilio.com/en-us/user-authentication-identity/verify)
 * [Voice](https://www.twilio.com/en-us/voice)
 * [Messaging](https://www.twilio.com/en-us/messaging)
-* Beta products and features
+* [Beta products and features](https://www.twilio.com/en-us/products/beta)
 * [All products](https://www.twilio.com/en-us/products#all-products)
 
 ### Solutions
