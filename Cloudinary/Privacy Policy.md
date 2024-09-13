@@ -537,7 +537,6 @@ Last updated: April 18, 2024
 * [SDKs](https://cloudinary.com/documentation/cloudinary_sdks)
 * [Add-Ons](https://cloudinary.com/addons)
 * [Podcasts](https://cloudinary.com/podcasts)
-* [Cookbook](https://cloudinary.com/cookbook)
 
 **Company**
 
