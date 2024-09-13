@@ -2636,7 +2636,7 @@ Disclosure Scotland specific Consent - HR - English
 
 ### Version 7.0
 
-##### Effective August 29th 2024
+##### Effective September 11th 2024
 
 [Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/640866a9a6f77e6f0a8de59b.pdf)
 
@@ -5193,11 +5193,11 @@ If you reside in a location that is different from our processing locations or t
 Biometric Notice
 ----------------
 
-### Version 1.2
+### Version 1.3
 
-##### Effective March 8th 2024
+##### Effective September 11th 2024
 
-[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/65eb5b15c3c8ea9905027364.pdf)
+[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/66c4f3dbc52bd5f795bf88f8.pdf)
 
 * * *
 
@@ -5205,55 +5205,78 @@ Biometric Notice
 
 * * *
 
-  
+Biometric Notice  
 
-Biometric Notice
-
-**PLEASE REVIEW THIS BIOMETRIC DATA NOTICE CAREFULLY. IT OUTLINES THE COLLECTION, USE, AND RETENTION OF YOUR BIOMETRIC DATA.**
-
-This Biometric Data Notice and Consent Form (“**Notice**”) shall be deemed your notice that Certn Holdings Inc., its subsidiaries (collectively the “**Company**”, “**Our**”, “**We**”) and its sub-processors, as available at [https://trust.certn.co/](https://trust.certn.co/), collects, retains, transmits, and uses your biometric data for the purpose of providing services to you and, when applicable, our client with whom you have a direct relationship.
-
-For the purpose of this Notice, “**Biometric Data**” means personal information resulting from specific technical processing relating to the physical, physiological or behavioral characteristics of a natural person, which allow or confirm the unique identification of that natural person, such as facial images or dactyloscopic data.
-
-Company processes your Biometric Data in accordance with Our Privacy Policy ([https://certn.co/privacy-policy/](https://certn.co/privacy-policy/)). By choosing to use Our services and agreeing to this Notice, you are consenting to Our collection, use, transmission, and retention of your Biometric Data.
-
-**Our Purpose for Collecting Your Biometric Data**
-
-As part of Our services, We collect your Biometric Data, (i) for the safety, security and convenience of Our services, (ii) to verify your identity and to help resolve disputes you may raise, and (iii) in an effort to prevent and combat fraud. Wel compare photo imagery provided to Us directly by you with symbols that represent features extracted from your profile imagery to confirm your identity using facial recognition technology. This process involves detecting and comparing Your face from the imagery using Biometric Data, such as facial geometry. Both the Company and its applicable sub-processors may have access to such Biometric Data, as necessary to provide the services.
-
-Except where required by law, your Biometric Data is accessible only to us and Our sub-processors who require access to Biometric Data to help us provide our Services. We do not share Biometric Data with any other third parties. Notwithstanding the foregoing, the client on whose behalf Company processes your Biometric Data may receive information about you, such as copies of the identification document and photo you provided us, and data indicating whether We were able to identify and authenticate your identity.
-
-**Biometric Storage and Security of Your Biometric Data**
-
-The Company uses reasonable standards of care to store, transmit, and protect from your Biometric Data, in a manner that is the same as or more protective as the manner We store, transmit, and protect other confidential and/or sensitive information, and the Company processes your Biometric Data in accordance with Our Privacy Policy ([https://certn.co/privacy-policy/](https://certn.co/privacy-policy/)). The Company does not sell, lease, trade or otherwise profit from your Biometric Data. The Company will retain your Biometric Data for as long as necessary to fulfill the purpose for which it was collected.
-
-**Notice to Residents of the State of Illinois, the State of Texas, and Washington State**
-
-**(1)** The Illinois Biometric Information Privacy Act, 740 ILCS 14/1 et seq., Washington Biometric Privacy Protection Act, RCW 19.375.010 et seq., and the Business and Commerce Code of Texas on the Capture or Use of Biometric Identifiers, Tex.Bus.& Comm.Code § 503.001, regulates the collection, storage, use, and retention of “biometric identifiers'' and “biometric information”. “Biometric identifier” means a retina or iris scan, fingerprint, voiceprint, photographs used for identity verification, or scan of hand or face geometry.
-
-**(2)** The Company collects certain biometric identifiers and biometric information, namely face scan information (face geometry information and information based on that), during the identity verification process. The Company collects and uses this information to verify your identity, prevent fraud, and provide authentication Services to Our clients on an ongoing basis.
-
-**(3)** For **Illinois residents**, We will permanently destroy their biometric identifiers and biometric information when the initial purpose for collecting or obtaining such identifiers or information has been satisfied or within 3 years of the individual’s last interaction with the Company’s clients, whichever occurs first.
-
-**(4)** For **Texas residents**, We will permanently destroy their biometric identifiers the later of (1) one year after the purpose for collecting the identifier expires, or (2) one year after any recordkeeping obligations imposed by law in connection with the collection of the biometric identifier expires.
-
-**(5)** For **Washington residents**, We will permanently destroy their biometric identifiers and biometric information when the initial purpose for collecting or obtaining such identifiers or information has been satisfied or within 3 years of the individual’s last interaction with the Company.
-
-**Contact Information**
-
-If you have any questions about the Company’s Biometric Data Notice, please contact Us at [privacy@certn.co](mailto:privacy@certn.co).
-
-**Right to Refuse Processing of Biometric Data**
-
-You have a right to refuse to provide Us with your Biometric Data. If you choose to refrain from moving forward with this process please contact the client that you have a direct relationship with, or Our Customer Support Team at [support@certn.co](mailto:support@certn.co).
-
-**Your Acknowledgment and Consent**
-
-By clicking the relevant button or icons presented prior to the verification or authentication process, and choosing to continue, you acknowledge and agree that you have read and understood this Notice, and that you voluntarily consent to Our collection, storage, retention, use, transfer, disclosure, and retention of your Biometric Data as described above and in the Company’s Privacy Policy ([https://certn.co/privacy-policy/](https://certn.co/privacy-policy/)).
+Please review the below information before providing your consent for Certn to process your Biometric Data.
 
   
 
+“**Biometric Data**” is personal information resulting from specific technical processing relating to the physical, physiological or behavioral characteristics which allow or confirm the unique identification of that natural person.
+
   
+
+**Why do you need my biometric data?**
+
+  
+
+As part of the remote background screening services we provide to our clients, we collect your Biometric Data to (i) remotely verify your identity, and (ii) prevent and combat fraud.
+
+  
+
+**How does it work?**
+
+  
+
+We will ask you to scan a copy of your government-issued ID, and take a selfie using your mobile device or laptop. We use an AI algorithm to measure certain features of your face in both your ID photo and your selfie, and compare them to one another to confirm the person completing background screening matches the person on the ID. This helps us combat fraud, and ensures we are providing accurate information to our clients.
+
+  
+
+**Who will have access to my Biometric Data?**
+
+  
+
+Except where required by law, your Biometric Data is accessible only to us and our service providers who require access to Biometric Data to help us provide our Services. We do not share Biometric Data with any other third parties. That said, we will provide certain information about you to the client on whose behalf we are performing the background check, which could include copies of the ID document and photo you provided us, and confirmation that we were or were not able to verify your identity.
+
+  
+
+Certn does not sell, lease, trade or otherwise profit from your Biometric Data.
+
+  
+
+**How will you protect my Biometric Data?**
+
+  
+
+The Company uses industry standard security safeguards to store and protect your Biometric Data, in accordance with our [Privacy Policy](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/legal.html?g=37964#contract-byeg-ihlj). Unless required by law, once your identity has been verified, we will delete your biometric data from our systems within 30 days.
+
+  
+
+The location of Biometric Data storage is based on the location of our client. For example, if our client on whose behalf we are performing a background check is located in Canada, your Biometric Data will be stored in Canada. If you reside in a different country from our processing locations or the location of our client, we may transfer your Biometric Data for the purpose of completing the identity verification, in accordance with our Privacy Policy ([https://certn.co/privacy-policy/](https://certn.co/privacy-policy/)) and applicable privacy laws.
+
+  
+
+**What are my rights?**
+
+  
+
+You may choose not to consent to the processing of your Biometric Data. If you choose not to consent to biometric identity verification, we may not be able to process your application or provide verification results to our client.
+
+  
+
+You can also:
+
+* revoke your consent to the processing of your Biometric Data,
+* request a copy of your Biometric Data,
+* request corrections to your Biometric Data, and
+* request deletion of your Biometric Data,
+
+  
+
+at any time by contacting us at [privacy@certn.co](mailto:privacy@certn.co). Upon receiving notice, we will notify our client on whose behalf we are performing the background check, and promptly respond to your request.
+
+  
+
+If you require more information about the nature and scope of your data processing, please contact Certn’s Privacy Officer at [privacy@certn.co](mailto:privacy@certn.co).
 
 SGP Biometric Consent (B2B) - FR
 --------------------------------
@@ -5548,11 +5571,11 @@ where a mandatory forfeiture, disability or bar to employment is imposed by law,
 Avis biométrique - FR
 ---------------------
 
-### Version 1.1
+### Version 1.2
 
-##### Effective June 25th 2024
+##### Effective September 11th 2024
 
-[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/667aee573574d5cfb0386ec8.pdf)
+[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/66e1b1fff07ca852b55c6f79.pdf)
 
 * * *
 
@@ -5562,47 +5585,80 @@ Avis biométrique - FR
 
 Avis biométrique
 
-**VEUILLEZ LIRE ATTENTIVEMENT CETTE NOTICE SUR LES DONNÉES BIOMÉTRIQUES. ELLE DÉCRIT LA COLLECTE, L'UTILISATION ET LA CONSERVATION DE VOS DONNÉES BIOMÉTRIQUES.**
+Veuillez prendre connaissance des informations ci-dessous avant de donner votre accord au Certn pour le traitement de vos données biométriques.
 
-Cet avis de données biométriques et ce formulaire de consentement (" Avis ") sont considérés comme votre avis que Certn Holdings Inc. et ses filiales (collectivement la " Société ", " Notre ", " Nous ") et ses sous-traitants, tels que disponibles sur https://trust.certn.co/, collectent, conservent, transmettent et utilisent vos données biométriques dans le but de vous fournir des services et, le cas échéant, à notre client avec lequel vous avez une relation directe.
+  
 
-Aux fins du présent avis, on entend par "données biométriques" les informations à caractère personnel résultant d'un traitement technique spécifique relatif aux caractéristiques physiques, physiologiques ou comportementales d'une personne physique, qui permettent ou confirment l'identification unique de cette personne physique, telles que les images faciales ou les données dactyloscopiques.
+Les “données biométriques” sont des informations personnelles résultant d'un traitement technique spécifique relatif aux caractéristiques physiques, physiologiques ou comportementales qui permettent ou confirment l'identification unique de cette personne physique.
 
-La Société traite vos données biométriques conformément à notre politique de confidentialité (https://certn.co/privacy-policy/). En choisissant d'utiliser nos services et en acceptant le présent avis, vous consentez à ce que nous collections, utilisions, transmettions et conservions vos données biométriques.
+  
 
-**Objectif de la collecte de vos données biométriques**
+**Pourquoi avez-vous besoin de mes données biométriques ?**
 
-Dans le cadre de nos services, nous collectons vos données biométriques (i) pour la sécurité et la commodité de nos services, (ii) pour vérifier votre identité et aider à résoudre les litiges que vous pourriez soulever, et (iii) dans un effort de prévention et de lutte contre la fraude. On compare les images photographiques que vous nous fournissez directement avec des symboles représentant des caractéristiques extraites des images de votre profil afin de confirmer votre identité à l'aide de la technologie de reconnaissance faciale. Ce processus implique la détection et la comparaison de votre visage à partir de l'imagerie à l'aide de données biométriques, telles que la géométrie faciale. La Société et ses sous-traitants peuvent avoir accès à ces données biométriques, dans la mesure où cela est nécessaire pour fournir les services.
+  
 
-Sauf si la loi l'exige, vos données biométriques ne sont accessibles qu'à nous et à nos sous-traitants qui ont besoin d'accéder aux données biométriques pour nous aider à fournir nos services. Nous ne partageons pas les données biométriques avec d'autres tiers. Nonobstant ce qui précède, le client pour le compte duquel la Société traite vos Données Biométriques peut recevoir des informations vous concernant, telles que des copies du document d'identification et de la photo que vous nous avez fournis, et des données indiquant si Nous avons pu identifier et authentifier votre identité.
+Dans le cadre des services de vérification à distance des antécédents que nous fournissons à nos clients, nous collectons vos données biométriques pour (i) vérifier à distance votre identité, et (ii) prévenir et combattre la fraude.
 
-**Stockage biométrique et sécurité de vos données biométriques**
+  
 
-La Société utilise des normes raisonnables de diligence pour stocker, transmettre et protéger vos Données biométriques, d'une manière identique ou plus protectrice que la manière dont nous stockons, transmettons et protégeons d'autres informations confidentielles et/ou sensibles, et la Société traite vos Données biométriques conformément à notre Politique de confidentialité (https://certn.co/privacy-policy/). La Société ne vend pas, ne loue pas, n'échange pas et ne tire aucun profit de vos données biométriques. La Société conservera vos données biométriques aussi longtemps que nécessaire pour atteindre l'objectif pour lequel elles ont été collectées.
+**Comment cela fonctionne-t-il ?**
 
-**Avis aux résidents de l'État de l'Illinois, de l'État du Texas et de l'État de Washington**
+  
 
-(1) La loi de l'Illinois sur la confidentialité des informations biométriques (740 ILCS 14/1 et suivants), la loi de Washington sur la protection de la confidentialité des informations biométriques (RCW 19.375.010 et suivants) et le code des affaires et du commerce du Texas sur la saisie ou l'utilisation d'identifiants biométriques (Tex.Bus.& Comm.Code § 503.001) réglementent la collecte, le stockage, l'utilisation et la conservation des "identifiants biométriques" et des "informations biométriques". Par "identifiant biométrique", on entend un balayage de la rétine ou de l'iris, une empreinte digitale, une empreinte vocale, des photographies utilisées pour la vérification de l'identité ou un balayage de la géométrie de la main ou du visage.
+Nous vous demanderons de scanner une copie de votre pièce d'identité délivrée par le gouvernement et de prendre un selfie à l'aide de votre appareil mobile ou de votre ordinateur portable. Nous utilisons un algorithme d'intelligence artificielle pour mesurer certaines caractéristiques de votre visage sur la photo de votre pièce d'identité et sur votre selfie, et les comparer l'une à l'autre pour confirmer que la personne qui effectue la vérification des antécédents correspond à celle qui figure sur la pièce d'identité. Cela nous aide à lutter contre la fraude et à garantir que nous fournissons des informations exactes à nos clients.
 
-(2) L'entreprise recueille certains identificateurs et informations biométriques, à savoir les informations obtenues par balayage du visage (informations sur la géométrie du visage et informations basées sur celles-ci), au cours du processus de vérification de l'identité. La Société recueille et utilise ces informations pour vérifier votre identité, prévenir la fraude et fournir des services d'authentification à nos clients sur une base continue.
+  
 
-(3) Pour les **résidents de l'Illinois**, nous détruirons définitivement leurs identifiants biométriques et leurs informations biométriques lorsque l'objectif initial de la collecte ou de l'obtention de ces identifiants ou informations aura été atteint ou dans les trois ans suivant la dernière interaction de l'individu avec les clients de la société, selon ce qui se produit en premier.
+**Qui aura accès à mes données biométriques ?**
 
-(4) Pour les **résidents du Texas**, nous détruirons définitivement leurs identifiants biométriques à la plus tardive des deux dates suivantes : (1) un an après l'expiration de l'objectif de collecte de l'identifiant, ou (2) un an après l'expiration de toute obligation d'enregistrement imposée par la loi en rapport avec la collecte de l'identifiant biométrique.
+  
 
-(5) Pour les **résidents de l'État de Washington**, nous détruirons définitivement leurs identifiants biométriques et leurs informations biométriques lorsque l'objectif initial de la collecte ou de l'obtention de ces identifiants ou informations aura été atteint ou dans les trois ans suivant la dernière interaction de l'individu avec la société.
+Sauf si la loi l'exige, vos données biométriques ne sont accessibles qu'à nous et à nos fournisseurs de services qui ont besoin d'accéder aux données biométriques pour nous aider à fournir nos services. Nous ne partageons pas les données biométriques avec d'autres tiers. Cela dit, nous fournirons certaines informations vous concernant au client pour le compte duquel nous effectuons la vérification des antécédents, notamment des copies du document d'identité et de la photo que vous nous avez fournis, ainsi que la confirmation que nous avons été en mesure ou non de vérifier votre identité.
 
-**Informations de contact**
+  
 
-Si vous avez des questions sur l'avis relatif aux données biométriques de la société, veuillez nous contacter à l'adresse suivante : privacy@certn.co.
+Le Certn ne vend pas, ne loue pas, n'échange pas et ne tire aucun profit de vos données biométriques.
 
-Droit de refuser le traitement des données biométriques
+  
 
-Vous avez le droit de refuser de nous fournir vos données biométriques. Si vous choisissez de ne pas poursuivre ce processus, veuillez contacter le client avec lequel vous avez une relation directe, ou notre équipe d'assistance à la clientèle à l'adresse support@certn.co.
+**Comment protégez-vous mes données biométriques ?**
 
-**Votre reconnaissance et votre consentement**
+  
 
-En cliquant sur le bouton ou les icônes pertinents présentés avant le processus de vérification ou d'authentification, et en choisissant de continuer, vous reconnaissez et acceptez que vous avez lu et compris cet Avis, et que vous consentez volontairement à ce que nous collections, stockions, conservons, utilisons, transférons, divulguons et conservions vos Données biométriques comme décrit ci-dessus et dans la Politique de confidentialité de la Société (https://certn.co/privacy-policy/).
+La société utilise des mesures de sécurité standard pour stocker et protéger vos données biométriques, conformément à notre politique de confidentialité. Sauf obligation légale, une fois votre identité vérifiée, nous supprimerons vos données biométriques de nos systèmes dans un délai de 30 jours.
+
+  
+
+Le lieu de stockage des données biométriques dépend de la localisation de notre client. Par exemple, si le client pour le compte duquel nous effectuons une vérification des antécédents est situé au Canada, vos données biométriques seront stockées au Canada. Si vous résidez dans un pays différent de nos sites de traitement ou de l'emplacement de notre client, nous pouvons transférer vos données biométriques dans le but de compléter la vérification d'identité, conformément à notre politique de confidentialité (https://certn.co/privacy-policy/) et aux lois applicables en matière de protection de la vie privée.
+
+  
+
+**Quels sont mes droits ?**
+
+  
+
+Vous pouvez choisir de ne pas consentir au traitement de vos données biométriques. Si vous choisissez de ne pas consentir à la vérification biométrique de l'identité, il se peut que nous ne soyons pas en mesure de traiter votre demande ou de fournir les résultats de la vérification à notre client.
+
+  
+
+Vous pouvez également
+
+* révoquer votre consentement au traitement de vos données biométriques,
+* demander une copie de vos données biométriques,
+* demander des corrections à vos données biométriques, et
+* demander la suppression de vos données biométriques,
+
+  
+
+à tout moment en nous contactant à l'adresse [privacy@certn.co](mailto:privacy@certn.co). Dès réception de la notification, nous informerons notre client au nom duquel nous effectuons la vérification des antécédents, et nous répondrons rapidement à votre demande.
+
+  
+
+Si vous souhaitez obtenir de plus amples informations sur la nature et la portée du traitement de vos données, veuillez contacter le responsable de la protection de la vie privée du Certn à l'adresse suivante : [privacy@certn.co](mailto:privacy@certn.co).  
+
+  
+
+  
 
 Roomies Custom Criminal Consent
 -------------------------------
