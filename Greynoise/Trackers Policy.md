@@ -1,125 +1,101 @@
-Our new report "Honeypots Are Back" is now available!
+Don't miss our Quarterly Roadmap Showcase, Thursday, October 24
 
-[Download now
+[Register now
 
-![](https://cdn.prod.website-files.com/625f93b2923b4f2b1f2e7b64/662bd4263913619a396b63ab_arrow-right-icon-black.svg)](https://hubs.la/Q02r8YDx0)
+![](https://cdn.prod.website-files.com/667dd40ebb8095e89f275639/667dd40ebb8095e89f275b5d_arrow-right-icon-black.svg)](https://info.greynoise.io/webinar/quarterly-product-showcase-q4-2024)
 
-[![](https://cdn.prod.website-files.com/625f93b2923b4f2b1f2e7b64/662bd34aebda998e6427a9e9_x-icon-black.svg)](#)
+[![](https://cdn.prod.website-files.com/667dd40ebb8095e89f275639/667dd40ebb8095e89f275b5c_x-icon-black.svg)](#)
 
-[![](https://cdn.prod.website-files.com/625f93b2923b4f2b1f2e7b64/625f93b2923b4fe58f2e7c34_greynoise-logo-new.svg)](https://www.greynoise.io/)
+[![GreyNoise logo](https://cdn.prod.website-files.com/667dd40ebb8095e89f275639/667dd40ebb8095e89f27569d_GN_Logotype_20220410.svg)](https://www.greynoise.io/)
 
-[plans](https://www.greynoise.io/plans)[Blog](https://www.greynoise.io/blog)[Integrations](https://www.greynoise.io/integrations)[Documentation](https://docs.greynoise.io/)[Log In](https://viz.greynoise.io/login)
+* [Why GreyNoise](https://www.greynoise.io/why-greynoise)
+* Products
+    
+    * [For SOC teams](https://www.greynoise.io/products/soc-teams)
+    * [For Vulnerability Management teams](https://www.greynoise.io/products/vulnerability-management-teams)
+    * [For Threat Hunting teams](https://www.greynoise.io/products/threat-hunting-teams)
+    * [Integrations](https://www.greynoise.io/integrations)
+    
+* Partners
+    
+    * [GreyNoise Partnerships](https://www.greynoise.io/partners)
+    * [Reseller Partners](https://www.greynoise.io/partners/reseller-partners)
+    * [MSSPs](https://www.greynoise.io/partners/mssp-mdr)
+    * [Technical Alliances](https://www.greynoise.io/partners/technical-alliances)
+    * [OEM Partners](https://www.greynoise.io/partners/oem-partners)
+    
+* Resources
+    
+    * [Blog](https://www.greynoise.io/blog)
+    * [Resource Library](https://www.greynoise.io/resources)
+    * [Storm Watch Podcast](https://www.greynoise.io/stormwatch)
+    * [ROI Calculator](https://www.greynoise.io/roi-calculator)
+    * [Tag Request](https://www.greynoise.io/community-tag-request)
+    * [Documentation](https://docs.greynoise.io/)
+    
+* Company
+    
+    * [About](https://www.greynoise.io/about)
+    * [Press Room](https://www.greynoise.io/press)
+    * [In the News](https://www.greynoise.io/news)
+    * [Upcoming Events](https://www.greynoise.io/events)
+    * [Community](https://www.greynoise.io/community)
+    * [Careers](https://www.greynoise.io/careers)
+    * [GreyNoise Love](https://www.greynoise.io/community-love)
+    
 
-Product
+[Login](https://viz.greynoise.io/login)
 
-GreyNoise identifies internet scanners and common business activity in your security events so you can make confident decisions, faster!
+[Search for free](https://viz.greynoise.io/)
 
-[Product Overview](https://www.greynoise.io/greynoise-product)
+[Get a demo](https://www.greynoise.io/contact/sales)
 
-Explore
+[Get a demo](https://www.greynoise.io/contact/sales)
 
-[Search](https://www.greynoise.io/features/product-feature-search)[IP Similarity](https://www.greynoise.io/features/product-feature-ip-similarity)[Trends](https://www.greynoise.io/features/product-feature-trends)
+[Login](https://viz.greynoise.io/login)
 
-Investigate
+[Search data](https://viz.greynoise.io/)
 
-[IP Timeline](https://www.greynoise.io/features/product-feature-ip-timeline)[IP Details](https://www.greynoise.io/features/product-feature-ip-details)[Tag Details](https://www.greynoise.io/features/product-feature-tag-details)
-
-Act
-
-[Blocklists](https://www.greynoise.io/features/product-feature-blocklist)[Alerts](https://www.greynoise.io/features/product-feature-alerts)
-
-Integrate
-
-[Integrations](https://www.greynoise.io/features/product-feature-integrations)[API](https://www.greynoise.io/features/product-feature-api)
-
-Solutions
-
-GreyNoise deploys solutions tailored to the needs of specific industries and use cases.
-
-[Maximize SOC Efficiency](https://www.greynoise.io/solutions/maximize-soc-efficiency)[Mass Exploitation Defense](https://www.greynoise.io/solutions/mass-exploitation-defense)[Contextualized Threat Hunting](https://www.greynoise.io/solutions/contextualized-threat-hunting)
-
-Resources
-
-Checkout our demos, case studies, and more to help you expand your skills.
-
-Featured Content
-
-[How I Use GreyNoise (video)](https://www.greynoise.io/resources/how-i-use-greynoise-jonathan-reiter)[CyberWire: Hacking Humans #199 (podcast)](https://www.greynoise.io/resources/podcast-cyberwire-hacking-humans-199)
-
-GreyNoise Resources
-
-[Resources Hub](https://www.greynoise.io/resources)[Storm Watch](https://www.greynoise.io/stormwatch)[Community](https://www.greynoise.io/community)[Tag Request](https://www.greynoise.io/community-tag-request)[ROI Calculator](https://www.greynoise.io/roi-calculator)[Glossary of Terms](https://www.greynoise.io/glossary)
-
-Company
-
-GreyNoise collects, analyzes, and labels data on IPs that scan the internet and saturate security tools with noise.
-
-Press Room
-
-[GreyNoise in the News](https://www.greynoise.io/news)[Press Releases](https://www.greynoise.io/press)[GreyNoise Community Love](https://www.greynoise.io/community-love)
-
-[Events](https://www.greynoise.io/events)[Request GreyNoise Swag](https://www.greynoise.io/contact/request-swag)[Careers at GreyNoise](https://www.greynoise.io/careers)[Contact Us](https://www.greynoise.io/contact/general)
-
-Partners
-
-Expand your reach, increase revenues, and deepen customer relationships by partnering with GreyNoise.
-
-[GreyNoise Partners](https://www.greynoise.io/partners)[Reseller Partners](https://www.greynoise.io/partners/reseller-partners)[Technical Alliances](https://www.greynoise.io/partners/technical-alliances)[OEM Partners](https://www.greynoise.io/partners/oem-partners)[MSSPs & MDRs](https://www.greynoise.io/partners/mssp-mdr)
-
-[![](https://cdn.prod.website-files.com/625f93b2923b4f2b1f2e7b64/6410c04653b80d19530583ec_magnifying-glass.svg)Explore Our Data](https://viz.greynoise.io/)
-
-[![GreyNoise logo](https://cdn.prod.website-files.com/625f93b2923b4f2b1f2e7b64/625f93b2923b4f074a2e7c09_GN_Logotype_20220410.svg)](https://www.greynoise.io/)[![](https://cdn.prod.website-files.com/625f93b2923b4f2b1f2e7b64/6410c04653b80d19530583ec_magnifying-glass.svg)Explore Our Data](https://viz.greynoise.io/)
-
-Product
-
-[Product Overview](https://www.greynoise.io/greynoise-product)
-
-Explore
-
-[Search](https://www.greynoise.io/features/product-feature-search)[IP Similarity](https://www.greynoise.io/features/product-feature-ip-similarity)[Trends](https://www.greynoise.io/features/product-feature-trends)
-
-Investigate
-
-[IP Timeline](https://www.greynoise.io/features/product-feature-ip-timeline)[IP Details](https://www.greynoise.io/features/product-feature-ip-details)[Tag Details](https://www.greynoise.io/features/product-feature-tag-details)
-
-Act
-
-[Blocklists](https://www.greynoise.io/features/product-feature-blocklist)[Alerts](https://www.greynoise.io/features/product-feature-alerts)
-
-Integrate
-
-[API](https://www.greynoise.io/features/product-feature-api)[Integrations](https://www.greynoise.io/features/product-feature-integrations)
-
-Solutions
-
-[Automated Alert Reduction](https://www.greynoise.io/solutions/automated-alert-reduction)[Maximize SOC Efficiency](https://www.greynoise.io/solutions/maximize-soc-efficiency)[Mass Exploitation Defense](https://www.greynoise.io/solutions/mass-exploitation-defense)
-
-Resources
-
-[Resources Hub](https://www.greynoise.io/resources)[Storm Watch](https://www.greynoise.io/stormwatch)[Community](https://www.greynoise.io/community)[Tag Request](https://www.greynoise.io/community-tag-request)[ROI Calculator](https://www.greynoise.io/roi-calculator)[Glossary of Terms](https://www.greynoise.io/glossary)
-
-Company
-
-Press Room
-
-[GreyNoise in the News](https://www.greynoise.io/news)[Press Releases](https://www.greynoise.io/press)[GreyNoise Community Love](https://www.greynoise.io/community-love)
-
-More
-
-[Events](https://www.greynoise.io/events)[Request GreyNoise Swag](https://www.greynoise.io/contact/request-swag)[Careers at GreyNoise](https://www.greynoise.io/careers)[Contact Us](https://www.greynoise.io/contact/general)
-
-Partners
-
-[GreyNoise Partners](https://www.greynoise.io/partners)[Reseller Partners](https://www.greynoise.io/partners/reseller-partners)[Technical Alliances](https://www.greynoise.io/partners/technical-alliances)[OEM Partners](https://www.greynoise.io/partners/oem-partners)[MSSPs & MDRs](https://www.greynoise.io/partners/mssp-mdr)
-
-[Pricing](https://www.greynoise.io/pricing)[Blog](https://www.greynoise.io/blog)[integrations](https://www.greynoise.io/integrations)[Documentation](https://docs.greynoise.io/)[Log In](https://viz.greynoise.io/login)
-
-Search plans and pricing, blog posts, company info, and more.
-
-Hoping to access our Visualizer? [Go here instead](https://viz.greynoise.io/).
+* [Why GreyNoise](https://www.greynoise.io/why-greynoise)
+* Products
+    
+    * [For SOC teams](https://www.greynoise.io/products/soc-teams)
+    * [For Vulnerability Management teams](https://www.greynoise.io/products/vulnerability-management-teams)
+    * [For Threat Hunting teams](https://www.greynoise.io/products/threat-hunting-teams)
+    * [Integrations](https://www.greynoise.io/integrations)
+    
+* Partners
+    
+    * [GreyNoise Partnerships](https://www.greynoise.io/partners)
+    * [Reseller Partners](https://www.greynoise.io/partners/reseller-partners)
+    * [MSSPs](https://www.greynoise.io/partners/mssp-mdr)
+    * [Technical Alliances](https://www.greynoise.io/partners/technical-alliances)
+    * [OEM Partners](https://www.greynoise.io/partners/oem-partners)
+    
+* Resources
+    
+    * [Blog](https://www.greynoise.io/blog)
+    * [Resource Library](https://www.greynoise.io/resources)
+    * [Storm Watch Podcast](https://www.greynoise.io/stormwatch)
+    * [ROI Calculator](https://www.greynoise.io/roi-calculator)
+    * [Tag Request](https://www.greynoise.io/community-tag-request)
+    * [Documentation](https://docs.greynoise.io/)
+    
+* Company
+    
+    * [About](https://www.greynoise.io/about)
+    * [Press Room](https://www.greynoise.io/press)
+    * [In the News](https://www.greynoise.io/news)
+    * [Upcoming Events](https://www.greynoise.io/events)
+    * [Community](https://www.greynoise.io/community)
+    * [Careers](https://www.greynoise.io/careers)
+    * [GreyNoise Love](https://www.greynoise.io/community-love)
+    
 
 Cookie Policy
 =============
+
+![](https://cdn.prod.website-files.com/667dd40ebb8095e89f275639/668c043a8df4a0484d7b0b71_scan-lines-highlight.png)
 
 We use cookies to help improve your experience of [greynoise.io](https://www.greynoise.io/). This cookie policy is part of GreyNoise Intelligence's privacy policy, and covers the use of cookies between your device and our site. We also provide basic information on third-party services we may use, who may also use cookies as part of their service, though they are not covered by our policy.
 
@@ -171,50 +147,60 @@ If you browse websites from multiple devices, you may need to update your settin
 
 Although some cookies can be blocked with little impact on your experience of a website, blocking all cookies may mean you are unable to access certain features and content across the sites you visit.
 
-![GreyNoise logo icon](https://cdn.prod.website-files.com/625f93b2923b4f2b1f2e7b64/6377a273dbdca419ecad23af_White%20Icon.svg)
+Cut through the noise
+---------------------
 
-Solutions
+[Get a demo](https://www.greynoise.io/contact/sales)[Search for free](https://viz.greynoise.io/)
 
-[Accelerated Alert Triage](https://www.greynoise.io/solutions/maximize-soc-efficiency)[Mass Exploitation Defense](https://www.greynoise.io/solutions/mass-exploitation-defense)[Contextualized Threat Hunting](https://www.greynoise.io/solutions/contextualized-threat-hunting)
+Products
 
-[Company](https://www.greynoise.io/partners)[News](https://www.greynoise.io/news)[Press Releases](https://www.greynoise.io/press)[Community Love](https://www.greynoise.io/community-love)[Events](https://www.greynoise.io/events)[Request Swag](https://www.greynoise.io/contact/request-swag)[Careers](https://www.greynoise.io/careers)[Contact](https://www.greynoise.io/contact/general)
-
-Resources
-
-[Resource Hub](https://www.greynoise.io/resources)[Storm Watch](https://www.greynoise.io/stormwatch)[Community](https://www.greynoise.io/community)[Tag Request](https://www.greynoise.io/community-tag-request)[ROI Calculator](https://www.greynoise.io/roi-calculator)[Glossary of Terms](https://www.greynoise.io/glossary)
+* [SOC teams](https://www.greynoise.io/products/soc-teams)
+* [Vulnerability Management teams](https://www.greynoise.io/products/vulnerability-management-teams)
+* [Threat Hunting teams](https://www.greynoise.io/products/threat-hunting-teams)
+* [Integrations](https://www.greynoise.io/integrations)
 
 Partners
 
-[GreyNoise Partners](https://www.greynoise.io/partners)[Reseller Partners](https://www.greynoise.io/partners/reseller-partners)[Technical Alliances](https://www.greynoise.io/partners/technical-alliances)[OEM Partners](https://www.greynoise.io/partners/oem-partners)[MSSPS & MDRS](https://www.greynoise.io/partners/mssp-mdr)
+* [GreyNoise Partnerships](https://www.greynoise.io/partners)
+* [Reseller Partners](https://www.greynoise.io/partners/reseller-partners)
+* [MSSPs](https://www.greynoise.io/partners/mssp-mdr)
+* [Technical Alliances](https://www.greynoise.io/partners/technical-alliances)
+* [OEM Partners](https://www.greynoise.io/partners/oem-partners)
 
-[Plans](https://www.greynoise.io/plans)[Blog](https://www.greynoise.io/blog)[Documentation](https://docs.greynoise.io/)[Log In](https://viz.greynoise.io/login)
+Resources
 
-© 2023 GreyNoise, Inc. All Rights Reserved.
+* [Blog](https://www.greynoise.io/blog)
+* [Resources Library](https://www.greynoise.io/resources)
+* [Storm Watch Podcast](https://www.greynoise.io/stormwatch)
+* [ROI Calculator](https://www.greynoise.io/roi-calculator)
+* [Tag Request](https://www.greynoise.io/community-tag-request)
+* [Documentation](https://docs.greynoise.io/)
 
-[Terms](https://www.greynoise.io/terms)
+Company
 
-|
+* [About](https://www.greynoise.io/about)
+* [Press Room](https://www.greynoise.io/press)
+* [In the News](https://www.greynoise.io/news)
+* [Upcoming Events](https://www.greynoise.io/events)
+* [Community](https://www.greynoise.io/community)
+* [Careers](https://www.greynoise.io/careers)
+* [GreyNoise Love](https://www.greynoise.io/community-love)
 
-[Privacy](https://www.greynoise.io/privacy)
+© 2024 GreyNoise, Inc. All rights reserved.
 
-|
+![](https://cdn.prod.website-files.com/667dd40ebb8095e89f275639/667dd40ebb8095e89f275975_White%20Icon.svg)
 
-[Security](https://greynoise.hypercomply.io/)
+[![X (formerly Twitter) logo](https://cdn.prod.website-files.com/667dd40ebb8095e89f275639/667dd40ebb8095e89f275b13_twitter-logo.png)](https://x.com/GreyNoiseIO)[![](https://cdn.prod.website-files.com/667dd40ebb8095e89f275639/667dd40ebb8095e89f275a86_mastodon-icon.svg)](https://infosec.exchange/@greynoise)[![](https://cdn.prod.website-files.com/667dd40ebb8095e89f275639/667dd40ebb8095e89f275a81_linkedin-icon.svg)](https://www.linkedin.com/company/greynoise)[![YouTube logo](https://cdn.prod.website-files.com/667dd40ebb8095e89f275639/667dd40ebb8095e89f275b14_youtube-logo.png)](https://www.youtube.com/channel/UCenRCNSQ3pCBuWNDOne606w)[![Join us on Slack!](https://cdn.prod.website-files.com/667dd40ebb8095e89f275639/667dd40ebb8095e89f275b2e_slack-icon.svg)](https://join.slack.com/t/greynoiseintel/shared_invite/zt-1pz66753m-gakjNlolL6bbPuqfjnm3pg)[![Discord logo](https://cdn.prod.website-files.com/667dd40ebb8095e89f275639/667dd40ebb8095e89f275b18_discord-logo.png)](#)[![](https://cdn.prod.website-files.com/667dd40ebb8095e89f275639/667dd40ebb8095e89f275b57_reddit-icon.svg)](https://www.reddit.com/r/GreyNoiseIntelligence/)[![TikTok logo](https://cdn.prod.website-files.com/667dd40ebb8095e89f275639/667dd40ebb8095e89f275b29_tiktok-logo.png)](https://www.tiktok.com/@greynoiseintelligence)
 
-|
-
-[Cookies](https://www.greynoise.io/cookie)
-
-|
-
-[Patents](https://www.greynoise.io/patents)
-
-|
-
-[Principles](https://www.greynoise.io/principles)
+* [Terms](https://www.greynoise.io/terms)
+* [Privacy](https://www.greynoise.io/privacy)
+* [Security](https://greynoise.hypercomply.io/)
+* [Cookies](https://www.greynoise.io/cookie)
+* [Patents](https://www.greynoise.io/patents)
+* [Principles](https://www.greynoise.io/principles)
 
 Cookie Settings
 
 We use cookies to ensure you get the best experience on our website. [Learn more](#)
 
-[Got It](#)
+[Got it](#)
