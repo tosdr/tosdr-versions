@@ -278,6 +278,7 @@ We may amend this TOS at any time by posting a revised version on dwolla.com or 
     * [Instant Payments](https://www.dwolla.com/features/instant-payments)
 * [Features](javascript:;)
     * [Digital Wallet](https://www.dwolla.com/features/digital-wallet)
+    * [Open Banking](https://www.dwolla.com/features/open-banking-services)
     * [Dwolla Dashboard](https://www.dwolla.com/features/dashboard)
     * [Mass Pay](https://www.dwolla.com/features/mass-pay)
     * [Drop-In Components](https://www.dwolla.com/features/drop-in-components/)
