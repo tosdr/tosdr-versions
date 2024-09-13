@@ -1,7 +1,5 @@
 [](https://fibery.io/)
 
-+[AI Now!](https://fibery.io/ai)
-
 Use cases
 
 [Feedback  
@@ -112,11 +110,11 @@ Team
 
 ![Fibery loader image](/img/fibery-loader.gif)
 
+Request a demo
+
 [Log in](https://fibery.io/login)
 
-Get a demo
-
-[Try for free](https://fibery.io/sign-up)
+[Get started](https://fibery.io/sign-up)
 
 Policies
 
@@ -252,10 +250,6 @@ A 14-day trial is on us. No credit card required.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Rated 4.8 on [G2](https://www.g2.com/products/fibery/reviews) and [Capterra](https://www.capterra.com/p/210658/Fibery/#reviews)
-
-Inspired by inventors
-
-[![Douglas Engelbart, engineer and inventor](https://images-temp.fibery.io/website-static/footer-photo-line/image1.webp)Douglas Engelbart, engineer and inventor](https://en.wikipedia.org/wiki/Douglas_Engelbart)[![Bret Victor, interface designer](https://images-temp.fibery.io/website-static/footer-photo-line/image2.webp)Bret Victor, interface designer](https://en.wikipedia.org/wiki/Bret_Victor)[![Alan Kay, computer scientist](https://images-temp.fibery.io/website-static/footer-photo-line/image3.webp)Alan Kay, computer scientist](https://en.wikipedia.org/wiki/Alan_Kay)[![Wassily Kandinsky, painter and art theorist](https://images-temp.fibery.io/website-static/footer-photo-line/image4.webp)Wassily Kandinsky, painter and art theorist](https://en.wikipedia.org/wiki/Wassily_Kandinsky)[![Margaret Hamilton, software engineer](https://images-temp.fibery.io/website-static/footer-photo-line/image5.webp)Margaret Hamilton, software engineer](https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer))[![Rich Hickey, creator of Clojure](https://images-temp.fibery.io/website-static/footer-photo-line/hickey.webp)Rich Hickey, creator of Clojure](https://en.wikipedia.org/wiki/Clojure)[![Edwin Catmull, president of Pixar](https://images-temp.fibery.io/website-static/footer-photo-line/image6.webp)Edwin Catmull, president of Pixar](https://en.wikipedia.org/wiki/Edwin_Catmull)[![Benoit Mandelbrot, mathematician](https://images-temp.fibery.io/website-static/footer-photo-line/image7.webp)Benoit Mandelbrot, mathematician](https://en.wikipedia.org/wiki/Benoit_Mandelbrot)[![Ada Lovelace, mathematician](https://images-temp.fibery.io/website-static/footer-photo-line/image8.webp)Ada Lovelace, mathematician](https://en.wikipedia.org/wiki/Ada_Lovelace)[![Richard Feynman, theoretical physicist](https://images-temp.fibery.io/website-static/footer-photo-line/image9.webp)Richard Feynman, theoretical physicist](https://en.wikipedia.org/wiki/Richard_Feynman)[![J. C. R. Licklider, psychologist and computer scientist](https://images-temp.fibery.io/website-static/footer-photo-line/licklider.webp)J. C. R. Licklider, psychologist and computer scientist](https://en.wikipedia.org/wiki/J._C._R._Licklider)[![Boris Delaunay, mathematician](https://images-temp.fibery.io/website-static/footer-photo-line/image10.webp)Boris Delaunay, mathematician](https://en.wikipedia.org/wiki/Boris_Delaunay)[![Georgy Voronoy, mathematician](https://images-temp.fibery.io/website-static/footer-photo-line/image11.webp)Georgy Voronoy, mathematician](https://en.wikipedia.org/wiki/Georgy_Voronoy)
 
 [](https://fibery.io/)
 
