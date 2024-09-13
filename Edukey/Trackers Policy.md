@@ -124,7 +124,7 @@ International schoolsUK editionAustralia edition
 Cookies Policy
 ==============
 
-LAST UPDATED 03 JUNE 2024 Open all
+LAST UPDATED 12 SEPTEMBER 2024 Open all
 
 1\. What are cookies?
 
@@ -225,6 +225,10 @@ The following information is correct at the time of writing.  It contains a lis
 | \_ju\_pn | JustUno: Used to present targeted marketing messages in response to user action. |
 | \_ju\_dc | JustUno: Used to present targeted marketing messages in response to user action. |
 | ju\_v | JustUno: Used to present targeted marketing messages in response to user action. |
+| ABTasty | ABTasty: Contains all the experiments data: visitor ID, campaignHistory, timestamp and account settings. |
+| ABTastySession | ABTasty: Contains landing page URL. Also used to determine if new session. |
+| ABTastyDomainTest | ABTasty: Checks that we are operating on the expected domain. |
+| abTastyDebug | ABTasty: Set at true to enter debug mode. |
 | Session - cookies used to maintain state and manage the current browser session. |
 | aucp13n | Authentication cookie used by our Content Management System. |
 | SSESS6a207cf063c42ff9948ec180cec61f1c | Authentication cookie used by our Content Management System. |
