@@ -2,9 +2,9 @@
 
 ### Neu?
 
-![Bergfreund Hannes](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-hannes.png)
+![Bergfreund Max](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-max.png)
 
-Bergfreund Hannes
+Bergfreund Max
 
 "Herzlich willkommen bei den Bergfreunden!"
 
@@ -72,6 +72,10 @@ Portofrei ab € 69 (DE)
 100 Tage Rückgaberecht
 
 HINWEIS: Um bei uns bestellen zu können musst Du [» Bitte aktiviere Javascript!» Javascript aktivieren!](https://www.bergfreunde.de/javascript-aktivieren/ "Anleitung zum Aktivieren von Javascript")
+
+[Lagerräumung - Spare bis zu 60%](https://www.bergfreunde.de/outlet/?listorderby=bfdiscountpercent&listorder=desc)
+
+Lagerräumung - Spare bis zu 60% »
 
 Menü
 
@@ -1140,9 +1144,9 @@ Von Zeit zu Zeit ist es erforderlich, den Inhalt der vorliegenden Datenschutzhin
 
 Stand: Juli 2024
 
-![Bergfreund Thomas - Versand](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-thomas.png) Bergfreund Thomas - Versand
+![Bergfreundin Johanna - Nachhaltigkeitsmanagement](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-johanna.png) Bergfreundin Johanna - Nachhaltigkeitsmanagement
 
-"Wir geben alles, damit Dein Paket schnell bei Dir ankommt."
+"Ich suche nach kleinen und großen Ideen, wie die Bergfreunde nachhaltiger werden können."
 
 [Portofrei ab € 69 (DE)](https://www.bergfreunde.de/versandkosten/ "Finde mehr Info zu den Versandkosten hier!")
 
@@ -1150,11 +1154,11 @@ Stand: Juli 2024
 
 [100 Tage Rückgaberecht](https://www.bergfreunde.de/rueckgabe/ "Gehe hier zu den Rückgabe-Richtlinien")
 
-[![So bewerten uns 43914 Kunden](https://www.bergfreunde.de/out/pictures/img/trust/trusted-shops-logo-big.png)](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
+[![So bewerten uns 43861 Kunden](https://www.bergfreunde.de/out/pictures/img/trust/trusted-shops-logo-big.png)](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
 
 [( 0 )
 
-So bewerten uns 43.914 Kunden](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
+So bewerten uns 43.861 Kunden](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
 
 holt 3x am Tag die Pakete bei uns ab
 
