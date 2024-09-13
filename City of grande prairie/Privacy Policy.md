@@ -348,6 +348,7 @@ Mobile Menu
         * [Eastlink Centre](https://www.cityofgp.com/parks-recreation/facilities-venues/eastlink-centre)
             * [Annual Aquatics Maintenance Shutdown](https://www.cityofgp.com/parks-recreation/facilities-venues/eastlink-centre/annual-aquatics-maintenance-shutdown)
             * [Aquatics Careers](https://www.cityofgp.com/parks-recreation/facilities-venues/eastlink-centre/aquatics-careers)
+                * [National Safe Swimming Recovery Program](https://www.cityofgp.com/parks-recreation/facilities-venues/eastlink-centre/aquatics-careers/national-safe-swimming-recovery)
             * [Amenities](https://www.cityofgp.com/parks-recreation/facilities-venues/eastlink-centre/amenities)
             * [Clubs & User Groups](https://www.cityofgp.com/parks-recreation/facilities-venues/eastlink-centre/clubs-user-groups)
             * [Facility Map](https://www.cityofgp.com/parks-recreation/facilities-venues/eastlink-centre/facility-map)
