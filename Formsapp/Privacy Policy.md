@@ -1,11 +1,3 @@
-![](/assets/img/summer/tree.png)
-
-![discount](/assets/img/summer/65-min.png)
-
-**Summer is here, and so is the sale. Get a yearly plan with up to 65% off today! 🌴🌞**
-
-[Upgrade Now](https://forms.app/en/pricing?campaign=2024-summer&medium=header-upgrade-button)
-
 [![forms.app Logo](/assets/img/formsapp-logo-white.svg)![forms.app Logo](/assets/img/logo-home.svg)![forms.app Logo](/assets/img/f-white-logo.svg)](https://forms.app/en)
 
 * Solutions
@@ -150,6 +142,14 @@ See the technical measures we take and learn how we keep your data safe and secu
 * [Sign In](https://forms.app/auth/signin)[Sign Up Free](https://forms.app/auth/signup)
     
 
+* [Privacy Policy](https://forms.app/en/privacy-policy)
+* [Terms of Use](https://forms.app/en/terms)
+* [Cookie Policy](https://forms.app/en/cookie-policy)
+* [UK & EEA notice](https://forms.app/en/uk-eea-notice)
+* [GDPR](https://forms.app/en/gdpr)
+* [CCPA](https://forms.app/en/ccpa)
+* [DPA](https://forms.app/en/dpa)
+
 Privacy Policy
 ==============
 
@@ -220,7 +220,7 @@ If you visit our website from an external source (such as a link on another webs
 
 ### 2.4. Information from third parties
 
-We collect your personal information from third parties, where you give permission to those third parties to share your information with us, where such information is publicly available online or through your device/browser data. forms.app also collects information through authentications when you connect it with other applications. We do not use Google Workplace APIs to develop, improve, or train generalized AI and/or ML models.
+We collect your personal information from third parties, where you give permission to those third parties to share your information with us, where such information is publicly available online or through your device/browser data. We do not use Google Workplace APIs to develop, improve, or train generalized AI and/or ML models.
 
 3- How we use the information we collect
 ----------------------------------------
@@ -376,6 +376,7 @@ English
 * [Youtube Page Logo](https://www.youtube.com/channel/UCQt7DCyRWr9190OhYKbeZzA)
 * [Tiktok Page Logo](https://www.tiktok.com/@forms.app)
 
+* [Legal](https://forms.app/en/privacy-policy)
 * [Privacy Policy](https://forms.app/en/privacy-policy)
 * [Terms of Use](https://forms.app/en/terms)
 * [GDPR](https://forms.app/en/help-center/is-formsapp-gdpr-compliant)
