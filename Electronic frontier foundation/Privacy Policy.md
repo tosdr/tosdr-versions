@@ -30,13 +30,13 @@
     * [Certbot](https://www.eff.org/pages/certbot)
     * [Atlas of Surveillance](https://www.eff.org/pages/atlas-surveillance)
     * [Cover Your Tracks](https://www.eff.org/pages/cover-your-tracks)
-    * [Crocodile Hunter](https://www.eff.org/pages/crocodile-hunter)
     * [Street Level Surveillance](https://sls.eff.org/)
     * [apkeep](https://github.com/EFForg/apkeep)
 * [Donate](https://supporters.eff.org/donate/join-eff-today "Donate to EFF")
     * [Donate to EFF](https://supporters.eff.org/donate/join-eff-today)
     * [Giving Societies](https://www.eff.org/givingsociety)
     * [Shop](https://shop.eff.org/)
+    * [Org. Membership](https://www.eff.org/thanks#organizational_members)
     * [Other Ways to Give](https://www.eff.org/helpout)
     * [Membership FAQ](https://www.eff.org/pages/membership-faq "Frequently Asked Questions and other information about EFF Memberships.")
 * [Donate](https://supporters.eff.org/donate/site-m--h "Donate to EFF")
@@ -66,8 +66,6 @@ and events in your area.
 [Electronic Frontier Foundation](https://www.eff.org/)
 
 [Donate](https://supporters.eff.org/donate/site-m--m)
-
-[![](https://www.eff.org/files/htfi-doctorow-site2_1.png)Podcast Episode: Fighting Enshittification](https://www.eff.org/deeplinks/2024/06/podcast-episode-fighting-enshittification "Podcast Episode: Fighting Enshittification") [![](https://www.eff.org/files/htfi-doctorow-site1_0.png)](https://www.eff.org/deeplinks/2024/06/podcast-episode-fighting-enshittification "Podcast Episode: Fighting Enshittification")[](https://www.eff.org/ "Close")
 
 [Electronic Frontier Foundation](https://www.eff.org/)
 
@@ -101,13 +99,13 @@ and events in your area.
     * [Certbot](https://www.eff.org/pages/certbot)
     * [Atlas of Surveillance](https://www.eff.org/pages/atlas-surveillance)
     * [Cover Your Tracks](https://www.eff.org/pages/cover-your-tracks)
-    * [Crocodile Hunter](https://www.eff.org/pages/crocodile-hunter)
     * [Street Level Surveillance](https://sls.eff.org/)
     * [apkeep](https://github.com/EFForg/apkeep)
 * [Donate](https://supporters.eff.org/donate/join-eff-today "Donate to EFF")
     * [Donate to EFF](https://supporters.eff.org/donate/join-eff-today)
     * [Giving Societies](https://www.eff.org/givingsociety)
     * [Shop](https://shop.eff.org/)
+    * [Org. Membership](https://www.eff.org/thanks#organizational_members)
     * [Other Ways to Give](https://www.eff.org/helpout)
     * [Membership FAQ](https://www.eff.org/pages/membership-faq "Frequently Asked Questions and other information about EFF Memberships.")
 * [Donate](https://supporters.eff.org/donate/site-m--h "Donate to EFF")
