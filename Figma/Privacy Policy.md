@@ -246,14 +246,14 @@ Privacy Policy
 
 Effective Date
 
-August 15, 2024
+September 12, 2024
 
-See all versionsAugust 15, 2024June 12, 2024May 24, 2024May 24, 2024January 19, 2024December 1, 2023June 19, 2023March 7, 2023December 12, 2022September 1, 2022August 8, 2022November 10, 2021August 31, 2021June 3, 2021April 15, 2021June 23, 2020November 5, 2018
+See all versionsSeptember 12, 2024August 15, 2024June 12, 2024May 24, 2024May 24, 2024January 19, 2024December 1, 2023August 31, 2023June 19, 2023March 7, 2023December 12, 2022September 1, 2022August 8, 2022November 10, 2021August 31, 2021June 3, 2021April 15, 2021June 23, 2020November 5, 2018
 
 [1\. ABOUT](#_1-about)
 ----------------------
 
-Figma, Inc. and its affiliates’ (“**Figma**,” “**we**,” “**us**,” and “**our**”) goal is to make design accessible to all. This Privacy Policy will help you understand how we collect, use and share your personal information and assist you in exercising the privacy rights available to you.
+Figma, Inc. and its affiliates’ (“**Figma**,” “**we**,” “**us**,” and “**our**”) goal is to make design accessible to all. This Privacy Policy will help you understand how we collect, use and disclose your personal information and assist you in exercising the privacy rights available to you.
 
 Capitalized terms not defined in this Privacy Policy have the meanings set forth in our [Terms of Service](https://www.figma.com/tos/).
 
@@ -311,7 +311,7 @@ With your permission, we may also collect information about your operating syste
 [4\. HOW WE USE YOUR INFORMATION AND OUR LEGAL BASIS FOR PROCESSING](#_4-how-we-use-your-information-and-our-legal)
 -------------------------------------------------------------------------------------------------------------------
 
-In this section we describe all the ways we use your personal data, and the legal bases we rely on to do so.
+In this section we describe all the ways we use your personal information, and the legal bases we rely on to do so.
 
 In certain situations, we require your data to pursue our legitimate interests in a way which is reasonable for you to expect as part of running our business and which does not materially affect your rights and freedoms.  We have identified below what our legitimate interests are.
 
@@ -328,11 +328,11 @@ We use your personal information for a variety of business purposes, including: 
 * managing payments and recovery of debts due to us;
 * providing access to certain areas, functionalities, and features of our Services, including the sharing of content with friends, colleagues and other users, and certain AI powered functionality if this option is in use on your account;
 * answering requests for customer or technical support; and
-* responding to requests in relation to personal data processed about the individual.
+* responding to requests in relation to personal information processed about the individual.
 
 This includes: the processing of all categories of information except for Candidate Information.
 
-Legal Basis: Performance of the contract with you. Necessary for our legitimate interests to recover debts due to us.  Necessary for our legitimate interests to respond to and communicate with you (where we do not have a contractual relationship or legal obligation to do so). Necessary to comply with a legal obligation (including national data protection and consumer protection laws, for example to respond to requests in relation to personal data processed about the individual)
+Legal Basis: Performance of the contract with you. Necessary for our legitimate interests to recover debts due to us.  Necessary for our legitimate interests to respond to and communicate with you (where we do not have a contractual relationship or legal obligation to do so). Necessary to comply with a legal obligation (including national data protection and consumer protection laws, for example to respond to requests in relation to personal information processed about the individual)
 
 **2\. Communicating with you** about your account, activities on our Services and Privacy Policy or terms of service changes.
 
@@ -392,9 +392,9 @@ This includes: the processing of Customer Content in connection with your use of
 
 Legal Basis: Consent.
 
-**11\. Enforcing our agreements, and complying with our legal obligations including to share information with law enforcement, the courts and other authorities.**
+**11\. Enforcing our agreements, and complying with our legal obligations including to disclose information to law enforcement, the courts and other authorities.**
 
-This could include any personal data we process about you.
+This could include any personal information we process about you.
 
 Legal Basis: Necessary to comply with a legal obligation (including national data protection, cyber security, export control, sanctions and surveillance laws). Necessary for our legitimate interests (to enforce our agreements, to seek professional advice, or to establish, exercise or defend a legal claim).
 
@@ -413,23 +413,23 @@ Legal Basis: Necessary for our legitimate interests (to use personal information
 [5\. DISCLOSING YOUR INFORMATION TO THIRD PARTIES](#_5-disclosing-your-information-to-third-parties)
 ----------------------------------------------------------------------------------------------------
 
-We may share any personal information we collect with the following categories of third parties:
+We may disclose any personal information we collect to the following categories of third parties:
 
-**Other Users of Figma’s Services.** When you use the Services to collaborate or interact with others (including viewing files of other users), we will share certain information with your collaborators. For example, you can create content, which may contain information about you, and grant permission to others to see, share, edit, copy and download that content based on settings you or your administrator (if applicable) select. In addition, some of the collaboration features of the Services display some or all of your information to other Service users when you share or interact with specific content. For example, when you comment, we display your profile picture (if you upload one) and name next to your comments so that other users with access to the comment know who made it. Similarly, when you join a team, your name, profile picture and contact information will be displayed in a list for other team members so they can find and interact with you. When you interact with a user’s file, information about your interaction, including your IP address and the actions you’ve taken in connection with the file, may be made available to the file’s administrator. If your Figma account has the “domain capture” functionality enabled, your name, email and profile picture (if you upload one) will be shared with other users across your Figma organization who share the same email domain. Please note that while we require all our users to comply with our [acceptable use policy](https://www.figma.com/aup/), we are not responsible for privacy practices of users who receive information about you through the Services.
+**Other Users of Figma’s Services.** When you use the Services to collaborate or interact with others (including viewing files of other users), we will disclose certain information to your collaborators. For example, you can create content, which may contain information about you, and grant permission to others to see, disclose, edit, copy and download that content based on settings you or your administrator (if applicable) select. In addition, some of the collaboration features of the Services display some or all of your information to other Service users when you disclose or interact with specific content. For example, when you comment, we display your profile picture (if you upload one) and name next to your comments so that other users with access to the comment know who made it. Similarly, when you join a team, your name, profile picture and contact information will be displayed in a list for other team members so they can find and interact with you. When you interact with a user’s file, information about your interaction, including your IP address and the actions you’ve taken in connection with the file, may be made available to the file’s administrator. If your Figma account has the “domain capture” functionality enabled, your name, email and profile picture (if you upload one) will be disclosed to other users across your Figma organization who share the same email domain. Please note that while we require all our users to comply with our [acceptable use policy](https://www.figma.com/aup/), we are not responsible for privacy practices of users who receive information about you through the Services.
 
-**Figma K12 Educational Accounts & Domain Capture.** Figma for Education’s Enterprise accounts have domain capture functionality enabled by default in order to protect against unauthorized access from users with a different email domain. With domain capture enabled your name, email and profile picture (if you upload one) will be shared with other users across your Figma organization. This should be noted if email domains are shared across multiple educational institutions.
+**Figma K12 Educational Accounts & Domain Capture.** Figma for Education’s Enterprise accounts have domain capture functionality enabled by default in order to protect against unauthorized access from users with a different email domain. With domain capture enabled your name, email and profile picture (if you upload one) will be disclosed to other users across your Figma organization. This should be noted if email domains are shared across multiple educational institutions.
 
-**The Public.** Content can be made publicly available by you or others collaborating on it, and in such cases any information about you included in such content is also publicly available and can be indexed by search engines. You can check at any time whether particular content is public or private by viewing the content’s settings. In addition, in connection with your posting of content on Figma Community, we will publicly share your profile picture, name, user handle, and Twitter (or other social networking site) handle (to the extent you have provided us with this information).
+**The Public.** Content can be made publicly available by you or others collaborating on it, and in such cases any information about you included in such content is also publicly available and can be indexed by search engines. You can check at any time whether particular content is public or private by viewing the content’s settings. In addition, in connection with your posting of content on Figma Community, we will publicly disclose your profile picture, name, user handle, and Twitter (or other social networking site) handle (to the extent you have provided us with this information).
 
-**Service Providers**. We may share personal information we collect about you with our service providers. The categories of service providers to whom we entrust personal information include service providers for: (i) the provision of the Services; (ii) the provision of information, products, and other services you have requested; (iii) marketing and advertising; (iv) payment and transaction processing; (v) customer service activities; and (vi) the provision of IT and related services. Third-party services include, for example, reCAPTCHA and anti-spam services provided by Arkose Labs which are subject to their [Privacy Policy](https://www.arkoselabs.com/legal/privacy-policy/), helpdesk support services provided by Zendesk, [analytic and experimental services](https://www.statsig.com/) provided by Statsig, subject to [Statsig's Privacy Policy](https://www.statsig.com/privacy), and anti-spam services provided by Akismet subject to [Akismet’s Privacy Policy](https://automattic.com/privacy/).  The Figma Store ([https://store.figma.com/](https://store.figma.com/)) and related subdomains are operated by Shopify, and therefore subject to [Shopify’s privacy policy](https://www.shopify.com/legal/privacy). Certain cookies and chatbot features may be provided by third parties as well.
+**Service Providers**. We may disclose personal information we collect about you to our service providers. The categories of service providers to whom we entrust personal information include service providers for: (i) the provision of the Services; (ii) the provision of information, products, and other services you have requested; (iii) marketing and advertising; (iv) payment and transaction processing; (v) customer service activities; and (vi) the provision of IT and related services. Third-party services include, for example, reCAPTCHA and anti-spam services provided by Arkose Labs which are subject to their [Privacy Policy](https://www.arkoselabs.com/legal/privacy-policy/), helpdesk support services provided by Zendesk, [analytic and experimental services](https://www.statsig.com/) provided by Statsig, subject to [Statsig's Privacy Policy](https://www.statsig.com/privacy), and anti-spam services provided by Akismet subject to [Akismet’s Privacy Policy](https://automattic.com/privacy/).  The Figma Store ([https://store.figma.com/](https://store.figma.com/)) and related subdomains are operated by Shopify, and therefore subject to [Shopify’s privacy policy](https://www.shopify.com/legal/privacy). Certain cookies and chatbot features may be provided by third parties as well.
 
-**Your Organization and Administrator.** If you access the Services on behalf of an organization (such as with your organization’s domain) or have your account paid for by another party, we will share your information with that organization or paying party at its request and give such organization certain rights over your information.  For example, your organization may request that we provide extra security controls around your account to protect information about your organization or your organization may request that we link your Figma account with your organization’s account to enhance collaboration. If you are the administrator of a team, organization or other account holder within the Services, we may share your contact information with current or past Service users related to you, for the purpose of facilitating Service-related requests. Please note that your information may also be subject to your organization’s privacy policy, and we are not responsible for the privacy or security practices of our customers.
+**Your Organization and Administrator.** If you access the Services on behalf of an organization (such as with your organization’s domain) or have your account paid for by another party, we will disclose your information to that organization or paying party at its request and give such organization certain rights over your information.  For example, your organization may request that we provide extra security controls around your account to protect information about your organization or your organization may request that we link your Figma account with your organization’s account to enhance collaboration. If you are the administrator of a team, organization or other account holder within the Services, we may disclose your contact information to current or past Service users related to you, for the purpose of facilitating Service-related requests. Please note that your information may also be subject to your organization’s privacy policy, and we are not responsible for the privacy or security practices of our customers.
 
-**Community Creators**. If you acquire any resources from third-party creators on Figma Community (available at [www.figma.com/community](https://www.figma.com/community)), in connection with the transaction we will share your relevant personal information with such creators, including your name and any other information reasonably related to the transaction. Any other information shared between you and the creator (if any) is governed by the creator’s privacy policy.
+**Community Creators**. If you acquire any resources from third-party creators on Figma Community (available at [www.figma.com/community](https://www.figma.com/community)), in connection with the transaction we will disclose your relevant personal information to such creators, including your name and any other information reasonably related to the transaction. Any other information shared between you and the creator (if any) is governed by the creator’s privacy policy.
 
-**Third-Party Platforms and Services.** We will share certain personal information with third-party platforms and/or services if you have expressly consented or requested that we do so. Please note we do not endorse, screen or approve, and are not responsible for, the practices or conduct of such third-party services.
+**Third-Party Platforms and Services.** We will disclose certain personal information to third-party platforms and/or services if you have expressly consented or requested that we do so. Please note we do not endorse, screen or approve, and are not responsible for, the practices or conduct of such third-party services.
 
-**Advertising Partners.** Through our Services, we allow third-party advertising partners to set Technologies and other tracking tools to collect information regarding your activities and your device (e.g., your IP address, cookie identifiers, page(s) visited, location, time of day). These advertising partners use this information (and similar information collected from other websites) for purposes of delivering targeted advertisements to you when you visit third-party services within their networks. This practice is commonly referred to as “interest-based advertising” or “personalized advertising.” If you prefer not to share your personal information with third-party advertising partners, you may follow the instructions under the Your Choices heading below.
+**Advertising Partners.** Through our Services, we allow third-party advertising partners to set Technologies and other tracking tools to collect information regarding your activities and your device (e.g., your IP address, cookie identifiers, page(s) visited, location, time of day). These advertising partners use this information (and similar information collected from other websites) for purposes of delivering targeted advertisements to you when you visit third-party services within their networks. This practice is commonly referred to as “interest-based advertising” or “personalized advertising.” If you prefer not to disclose your personal information to third-party advertising partners, you may follow the instructions under the Your Choices heading below.
 
 **Disclosures to Protect Us or Others.** We will access, preserve, and disclose information we have associated with you to competent law enforcement bodies, regulatory and government agencies, courts or other third parties if we believe doing so is required or appropriate to: (i) comply with law enforcement or national security requests and legal process, such as a court order or subpoena; (ii) protect your, our or others’ rights, property, or safety; (iii) enforce Figma’s policies and contracts; (iv) collect amounts owed to us; (v) prevent financial loss or in connection with an investigation or prosecution of suspected or actual illegal activity; or (vi) if we, in good faith, believe that disclosure is otherwise necessary or advisable.
 
@@ -438,28 +438,38 @@ We may share any personal information we collect with the following categories o
 [6\. INTERNATIONAL DATA TRANSFERS](#_6-international-data-transfers)
 --------------------------------------------------------------------
 
-All information processed by us may be transferred, processed, and stored anywhere in the world, which may have data protection laws that are different from the laws where you live. We endeavor to safeguard your information consistently with the requirements of applicable laws.
+The personal information we process may be transferred to, processed and stored in jurisdictions which may have data protection laws that are different from the laws where you are located (and, in some cases, may not be as protective), and may be subject to access requests from governments, courts, or law enforcement in those ‎jurisdictions according to applicable laws. We endeavor to safeguard your personal information in accordance with the requirements of applicable laws.
 
-Where we transfer your personal information to countries and territories outside of the European Economic Area and the UK, which have been formally recognized as providing an adequate level of protection for personal information, we rely on the relevant “adequacy decisions” from the European Commission and “adequacy regulations” from the Secretary of State in the UK.
+Specifically, all personal information we process is transferred to, processed and stored in the United States, where our headquarters and our main servers are located. Our group affiliates and our third party service providers and partners operate in the geographies identified on https://www.figma.com/sub-processors/ . This means that when we collect your personal information, we will process it in any of these countries.
 
-Where the transfer is not subject to an adequacy decision or regulations, we have taken appropriate safeguards to require that your personal information will remain protected in accordance with this Privacy Policy. These include implementing the European Commission’s Standard Contractual Clauses and Standard Contractual Clauses adopted pursuant to or permitted under Article 46 of the UK GDPR.
+Where we transfer your personal information to countries and territories outside of the European Economic Area (“EEA”), Switzerland and the UK which have been formally recognized as providing an adequate level of protection for personal information, we rely on the relevant “adequacy decisions” and “adequacy regulations” from the European Commission, Swiss and UK authorities.
 
-Our Standard Contractual Clauses can be provided on request.  We have also implemented Standard Contractual Clauses with our third party service providers and partners and further details can be provided upon request.
+Where the transfer is not subject to an adequacy decision or derogation under the applicable law, we take appropriate safeguards to ensure that your personal information will remain protected in accordance with this Privacy Policy and applicable laws. These safeguards include implementing the Module 2 of European Commission’s Standard Contractual Clauses as issued on 4 June 2021 under Article 46(2) GDPR for transfers originating in the EEA, Switzerland (with amendments required under the applicable Swiss law) and the UK Addendum permitted under Article 46(2) of the UK GDPR for the transfer of data originating in the UK.
 
-[7\. E.U. – U.S. PRIVACY SHIELD AND SWISS – U.S. PRIVACY SHIELD](#_7-e-u-u-s-privacy-shield-and-swiss-u-s-privacy)
-------------------------------------------------------------------------------------------------------------------
+You can access Standard Contractual Clauses implemented into Figma's Customer DPA here. We have also implemented Standard Contractual Clauses into contracts with our third party service providers and partners. If you have any questions or concerns related to international data transfers, please contact us using the information set forth below.
 
-Figma relies on Standard Contractual Clauses for the transfer of personal data. In addition, Figma continues to comply with the E.U. - U.S. Privacy Shield Framework and the Swiss - U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States.
+[7\. E.U. – U.S. DATA PRIVACY FRAMEWORK, UK EXTENSION AND SWISS – U.S. DATA PRIVACY FRAMEWORK](#_7-e-u-u-s-data-privacy-framework-uk-extension)
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
-Figma has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield Framework, and to view our certification, please [visit the U.S. Department of Commerce’s Privacy Shield List](https://www.privacyshield.gov/list).
+Figma, Inc. (for the purposes of this section, “Figma”, “we”, or “us”) has certified to the U.S. Department of Commerce that we adhere to: (i) the EU-U.S. Data Privacy Framework Principles with regards to the processing of personal information received from the European Union in reliance on the EU-U.S. Data Privacy Framework (“EU-U.S. DPF”), (ii) and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF, and (iii) the Swiss-U.S. Data Privacy Framework (“Swiss-U.S. DPF”) with regards to the processing of personal information received from Switzerland in reliance on the Swiss-U.S. DPF (collectively, the “DPF Principles”).
 
-Figma is responsible for onward transfers to our agents under the Privacy Shield Framework. With respect to personal information received or transferred pursuant to the Privacy Shield Framework, Figma is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.
+The Federal Trade Commission has jurisdiction over our compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF. If there is any conflict between the terms in this Privacy Policy and the DPF Principles, the DPF Principles shall govern. To learn more about the DPF, and to view our certifications, please [visit the Data Privacy Framework Program's website](https://www.dataprivacyframework.gov/s/).
 
-If you have any questions or concerns related to our Privacy Shield certification or to resolve any complaints about our collection or use of your personal information, you should first contact us using the information set forth below.
+The types of personal information we receive in the U.S., as well as the purposes for which we collect and use it, are set out in Section 3 and 4 above. We will give you an opportunity to opt out where personal information we control about you is to be disclosed to an independent third party, or is to be used for a purpose that is materially different from those set out in this Privacy Policy. If you otherwise wish to limit the use or disclosure of your personal information, please contact us via the contact details set out below.
 
-Figma has further committed to refer unresolved complaints related to personal information to JAMS Privacy Shield Dispute Resolution Program, an independent dispute resolution provider located in the United States made available free of charge. For more information or to submit a complaint visit: [https://www.jamsadr.com/eu-us-privacy-shield](https://www.jamsadr.com/eu-us-privacy-shield).
+Information about the types of third parties to which we disclose personal information and the purposes for which we do so is described in Section 5 above. If we have received your personal information in the U.S. and subsequently transfer that information to a third party acting as an agent, and such third party agent processes your personal information in a manner inconsistent with the DPF Principles, we will remain liable unless we can prove we are not responsible for the event giving rise to the damage.
 
-Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/), you may be entitled to invoke binding arbitration when other dispute resolution options do not satisfactorily resolve your concerns.
+Please note that, under certain circumstances, we may be required to disclose your personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+If you are from the EEA, UK or Switzerland, you have the right to request access to the personal information that we hold about you and request that we correct, amend, or delete it if it is inaccurate or processed in violation of the DPF Principles. If you would like to exercise these rights, please write to us at the contact details provided below. We may request specific information from you to confirm your identity and we will respond to your request in accordance with the DPF Principles and applicable data protection laws. You may also opt-out of receiving marketing communications from us by writing to us at the contact details provided below or by clicking on the “unsubscribe” or “opt-out” link in the marketing emails we send you.
+
+We commit to resolve DPF-related complaints about our collection and use of your personal information. EU, UK and Swiss individuals with inquiries or complaints regarding our handling of personal information received in reliance on the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF should first contact us using the contact details provided below. We will investigate and attempt to resolve any DPF-related complaints or disputes within forty-five (45) days of receipt.
+
+If you have an unresolved DPF complaint that we have not addressed satisfactorily, we have further committed to refer unresolved complaints to JAMS Data Privacy Dispute Resolution Program, an independent dispute resolution provider located in the U.S. made available free of charge. For more information or to submit a complaint please visit: [https://www.jamsadr.com/eu-us-data-privacy-framework](https://www.jamsadr.com/eu-us-data-privacy-framework).
+
+Under certain conditions, more fully described on the [Data Privacy Framework website](https://www.jamsadr.com/eu-us-data-privacy-framework), you may be entitled to invoke binding arbitration when other dispute resolution options do not satisfactorily resolve your concerns.
+
+We reserve the right to amend this section from time to time consistent with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF requirements.
 
 [8\. YOUR CHOICES](#_8-your-choices)
 ------------------------------------
@@ -472,29 +482,30 @@ Under certain conditions, more fully described on the [Privacy Shield website](
 
 **AI**. Learn more about how you can manage your AI features and content training [here](https://www.figma.com/legal/ai-terms/).
 
-**Cookies and Interest-Based Advertising.** You have the right to decide whether to accept or reject cookies.  If you are located in the European Union, you can change your cookie preferences through our cookie consent tool, which you can access at any time by clicking the “cookie settings” in the footer of our website (you may need to log out of your Figma account to access the footer). You can also stop or restrict the placement of Technologies on your device or remove them by adjusting your preferences as your browser or device permits. Please note that cookie-based opt-outs are not effective on mobile applications. However, you may opt out of personalized advertisements on some mobile applications by following the instructions for [Android](https://support.google.com/googleplay/android-developer/answer/6048248?hl=en) and [iOS](https://support.apple.com/en-us/HT202074).
+**Cookies and Interest-Based Advertising.** You have the right to decide whether to accept or reject cookies.  If you are located in the European Union, you can change your cookie preferences through our cookie consent tool, which you can access at any time by clicking “Manage cookies” in the footer of our website (you may need to log out of your Figma account to access the footer). You can also stop or restrict the placement of Technologies on your device or remove them by adjusting your preferences as your browser or device permits. Please note that cookie-based opt-outs are not effective on mobile applications. However, you may opt out of personalized advertisements on some mobile applications by following the instructions for [Android](https://support.google.com/googleplay/android-developer/answer/6048248?hl=en) and [iOS](https://support.apple.com/en-us/HT202074).
 
 The online advertising industry also provides websites from which you may opt out of receiving targeted ads from data partners and other advertising partners that participate in self-regulatory programs. You can access these websites and learn more about targeted advertising and consumer choice and privacy, at [www.networkadvertising.org/managing/opt\_out.asp](https://www.networkadvertising.org/managing/opt_out.asp), [http://www.youronlinechoices.eu/](https://www.youronlinechoices.eu/), [https://youradchoices.ca/choices/](https://youradchoices.ca/choices/), and [www.aboutads.info/choices/](https://www.aboutads.info/choices/).
 
 Please note you must separately opt out in each browser and on each device.
 
-**“Do Not Track”.** Do Not Track (“**DNT**”) is a privacy preference that users can set in certain web browsers. We do not respond to DNT signals or similar mechanisms transmitted by web browsers.
+“Do Not Track” and “Global Privacy Consent”. Do Not Track (“DNT”) and Global Privacy Consent (“GPC”) signals are a privacy preferences that users can set in certain web browsers. We do not respond to DNT signals; however, we do recognize and process GPC signals by certain web browsers. If we are able to reasonably associate a GPC signal with an identifiable consumer, we will treat it as a request to opt-out of the “sale” or “sharing”/processing for targeted advertising of that consumer’s personal information (as such terms are defined by the California Consumer Privacy Act). You can also opt out of the “sale” or “sharing” of your personal information by clicking on the “Manage Cookies” link in the footer of figma.com.
 
 [9\. YOUR PRIVACY RIGHTS](#_9-your-privacy-rights)
 --------------------------------------------------
 
-In accordance with applicable law, you may have the right to:
+In accordance with applicable law (including in the EU/UK, California, Connecticut, Colorado, and other U.S. states with comprehensive privacy laws), you may have the right to:
 
-* **Access Personal Information** about you, including: (i) confirming whether we are processing your personal information; (ii) obtaining access to or a copy of your personal information; and (iii) receiving an electronic copy of personal information that you have provided to us, or asking us to send that information to another company (the “right of data portability”);
-* **Request Correction** of your personal information where it is inaccurate or incomplete. In some cases, we may provide self-service tools that enable you to update your personal information;
-* **Request Deletion** of your personal information;
-* **Request Restriction of or Object to** our processing of your personal information; and
-* **Withdraw your Consent** to our processing of your personal information.
-* **Opt-out of marketing communications.**  Please see more on this above.
+* Confirm whether we are processing your personal information;
+* Request access to and portability of your personal information about you, including: (i) obtaining access to or a copy of your personal information; and (ii) receiving an electronic copy of personal information that you have provided to us, or asking us to send that information to another company (the “right of data portability”);
+* Request correction of your personal information where it is inaccurate or incomplete. In some cases, we may provide self-service tools that enable you to update your personal information;
+* Request deletion of your personal information (including to request deletion of your account). In limited circumstances, it may be necessary to retain your Personal Information to comply with legal requirements even if a deletion request is made;
+* Request restriction of or object to our processing of your personal information;
+* Withdraw your consent to our processing of your personal information; and
+* Opt-out of marketing communications. Please see more on this in Section 8, above.
 
-If you would like to exercise any of these rights, please contact us as set forth below.
+If you would like to exercise any of these rights, please contact us as set forth below. If you are not satisfied with how we process your request, you may have a right to appeal our decision under applicable law. Where such an appeal right exists, if so required by applicable law, we will inform you of such right and how to initiate an appeal.
 
-We will process such requests in accordance with applicable laws. To protect your privacy, we will take steps to verify your identity before fulfilling your request.
+We will process such requests in accordance with applicable laws. To protect your privacy, we will take steps to verify your identity before fulfilling your request. Only you, or someone legally authorized to act on your behalf, may make a verifiable consumer request related to your personal information. You may also make a verifiable consumer request on behalf of your minor child. To designate an authorized agent, please contact us as set forth below.
 
 Please note that if you use our Services on behalf of an organization (e.g., your employer), that organization may be responsible for fulfilling the individual rights requests referenced above.
 
@@ -503,7 +514,7 @@ Please note that if you use our Services on behalf of an organization (e.g., you
 
 We store the personal information we receive as described in this Privacy Policy for as long as you use our Services or as necessary to fulfill the purpose(s) for which it was collected, provide our Services, resolve disputes, establish legal defenses, conduct audits, pursue legitimate business purposes, enforce our agreements, and/or comply with applicable laws. The specific retention periods depend on the nature of the information and why it is collected and processed and the nature of the legal requirement.
 
-When we have no ongoing legitimate business need or legal reason to process your personal information, we will either delete or anonymize it or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible. You may request deletion of your personal information at any time as noted in “Your Privacy Rights”, above, but that will require you to delete your account with us, as we need your personal data to maintain your account.
+When we have no ongoing legitimate business need or legal reason to process your personal information, we will either delete or anonymize it or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible. You may request deletion of your personal information at any time as noted in “Your Privacy Rights”, above, but that will require you to delete your account with us, as we need your personal information to maintain your account.
 
 [11\. SECURITY OF YOUR INFORMATION](#_11-security-of-your-information)
 ----------------------------------------------------------------------
@@ -520,41 +531,62 @@ The Services may contain links to other websites/applications and other websites
 [13\. SUPPLEMENTAL NOTICE FOR CALIFORNIA RESIDENTS](#_13-supplemental-notice-for-california-residents)
 ------------------------------------------------------------------------------------------------------
 
-This Supplemental California Privacy Notice only applies to our processing of personal information that is subject to the California Consumer Privacy Act of 2018 (“CCPA”). The CCPA provides California residents with the right to know what categories of personal information Figma has collected about them and whether Figma disclosed that personal information for a business purpose (e.g., to a service provider) in the preceding 12 months. California residents can find this information above, in the respective sections of this Privacy Policy, and below:
+This Supplemental Notice for California Residents supplements our Privacy Policy and only applies to our processing of personal information that is subject to the California Consumer Privacy Act of 2018 (as amended from time to time) (“CCPA”). The CCPA provides California residents with the right to know what categories of personal information Figma has collected about them,whether Figma disclosed that personal information for a business purpose (e.g., to a service provider), whether Figma “sold” that personal information, and whether Figma “shared” that personal information for “cross-context behavioral advertising” in the preceding 12 months. California residents can find this information above, in the respective sections of this Privacy Policy, and below:
 
 Figma collects the following Categories of Personal Information:
 
-* **Identifiers:** A real name, alias, postal address, unique personal identifier, online identifier, Internet Protocol address, email address, or other similar identifiers.
-* **Personal information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e)):** A name, signature, address, telephone number or employment. Personal Information does not include publicly available information that is lawfully made available to the general public from federal, state, or local government records. Note: Some personal information included in this category may overlap with other categories.
-* (In connection with Employment): **Protected classification characteristics under California or federal law:** Age (40 years or older), race, color, ancestry, national origin, citizenship, religion or creed, marital status, medical condition, physical or mental disability, sex (including gender, gender identity, gender expression, pregnancy or childbirth and related medical conditions), sexual orientation, veteran or military status.
-* **Commercial information:** Records of products or services purchased or obtained from Figma.
-* **Internet or other electronic network activity:** Information on a consumer's interaction with websites, applications, or advertisements related to the Services.
-* **Geolocation data:** Physical location.
-* **Sensory data:** Audio, electronic, visual, or similar information.
-* **Inferences drawn from other personal information to create a profile about a consumer:** Profile reflecting a consumer's preferences or characteristics as they relate to the Services.
+* Identifiers: A real name, alias, postal address, unique personal identifier, online identifier, Internet Protocol address, email address, or other similar identifiers.
+* Personal information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e)): A name, signature, address, telephone number or employment. personal information does not include publicly available information that is lawfully made available to the general public from federal, state, or local government records. Note: Some personal information included in this category may overlap with other categories.
+* Protected classification characteristics under California or federal law: Age (40 years or older), race, color, ancestry, national origin, citizenship, religion or creed, marital status, medical condition, physical or mental disability, sex (including gender, gender identity, gender expression, pregnancy or childbirth and related medical conditions), sexual orientation, veteran or military status.
+* Commercial information: Records of products or services purchased or obtained from Figma.
+* Internet or other electronic network activity: Information on a consumer's interaction with websites, applications, or advertisements related to the Services.
+* Geolocation data: Physical location.
+* Sensory data: Audio, electronic, visual, or similar information.
+* Inferences drawn from other personal information to create a profile about a consumer: Profile reflecting a consumer's preferences or characteristics as they relate to the Services.
+* Personal information that reveals a consumer’s account log-in, financial account, debit card, or credit card number in combination with any required security or access code, password, or credentials allowing access to an account: Figma account credentials, payment information. For clarification, Figma does not process your credit card information, but instead uses a third party, Stripe.
 
 Figma Discloses to the following Categories of Third Parties for a Business Purpose:
 
-* Advertising networks
+* Other users of Figma’s Services
+* The public (as set forth in Section 5)
+* Your organization and administrator
+* Community creators
 * Internet service providers
 * Data analytics providers
-* Operating systems and platforms
 * Social networks
 * Service providers
 * Creators on Figma Community
+* Advertising networks
 
-**Sales of Personal Information under the CCPA**
+**Sales of Personal Information and Sharing of Personal Information for Cross-Context Behavioral Advertising under the CCPA**
 
-As defined by the CCPA, Figma does not sell personal information of California residents, nor do we have actual knowledge of any sale of personal information of minors under 16 years of age.
+Under the CCPA, Figma’s use of retargeting pixels or third party cookies as described above in this Privacy Policy may be considered: (1) a “sale” of personal information and/or (2) “sharing” personal information for “cross-context behavioral advertising.”
+
+Based on how these terms are defined and interpreted under the CCPA, the following is a list of the categories of personal information Figma has “sold” or “shared” for “cross-context behavioral advertising” in the last twelve months:
+
+* Identifiers disclosed to advertising networks.
+* Internet or other electronic network activity disclosed to advertising networks.
+* Inferences drawn from other personal information to create a profile about a consumer disclosed to advertising networks.
+
+**Additional Disclosures for California Residents**
+
+**Notice of Right to Opt-Out of “Sale” of Personal Information and/or “Sharing” for “Cross-Context Behavioral Advertising”**. California residents have the right to opt out of the “sale” of personal information and the “sharing” of personal information for “cross-context behavioral advertising.” California residents may exercise these rights by clicking on the “Manage Cookies” link in the footer of figma.com (users may need to log out of their Figma account to access the footer) and following the instructions on that page.
+
+**Disclosure Regarding Individuals Under the Age of 16.** Figma does not have actual knowledge of any “sale” of personal information of minors under 16 years of age. Figma does not have actual knowledge of any “sharing” of personal information of minors under 16 years of age for “cross-context behavioral advertising.”
+
+**Disclosure Regarding Sensitive Personal Information**. Figma only uses and discloses “sensitive personal information” as defined by the CCPA for the following purposes:
+
+* To perform the services or provide the goods reasonably expected by an average consumer who requests those goods or services.
+* To prevent, detect, and investigate security incidents that compromise the availability, authenticity, integrity, and or confidentiality of stored or transmitted personal information.
+* To resist malicious, deceptive, fraudulent, or illegal actions directed at Figma and to prosecute those responsible for those actions.
+* To ensure the physical safety of natural persons.
+* For purposes that do not infer characteristics about individuals.
 
 **Additional Privacy Rights for California Residents**
 
-* **Non-Discrimination.** California residents have the right not to receive discriminatory treatment by us for the exercise of their rights conferred by the CCPA.
-* **Authorized Agent.** Only you, or someone legally authorized to act on your behalf, may make a verifiable consumer request related to your personal information. You may also make a verifiable consumer request on behalf of your minor child. To designate an authorized agent, please contact us as set forth below.
+* Non-Discrimination. California residents have the right not to receive discriminatory treatment by us for the exercise of their rights conferred by the CCPA.
 
-**Verification**. To protect your privacy, we will take steps to verify your identity before fulfilling your request. When you make a request, we will ask you to provide sufficient information that allows us to reasonably verify you are the person about whom we collected personal information or an authorized representative, which may include asking you to log in to your account or verify your email address.
-
-If you are a California resident and would like to exercise any of your rights under the CCPA, please contact us as set forth below. We will process such requests in accordance with applicable laws.
+If you are a California resident and would like to exercise any of your rights under the CCPA (including the rights included in Section 9 of the Privacy Policy above), please contact us as set forth below. We will process such requests in accordance with applicable laws.
 
 [14\. SUPPLEMENTAL NOTICE FOR NEVADA RESIDENTS](#_14-supplemental-notice-for-nevada-residents)
 ----------------------------------------------------------------------------------------------
@@ -564,7 +596,7 @@ If you are a resident of Nevada, you have the right to opt out of the sale of ce
 [15\. CHILDREN’S INFORMATION](#_15-children-s-information)
 ----------------------------------------------------------
 
-The Services are not directed to children under 13 (or other age as required by local law), and, except for limited circumstances set forth below, we do not knowingly collect personal information from children. If you learn that your child has provided us with personal information without your consent, you may contact us as set forth below. If we learn that we have collected a child’s personal information in violation of applicable law, we will promptly take steps to delete such information and terminate the child’s account, or, if appropriate and possible, seek written consent from such child’s guardian.
+The Services are not directed to children under 13 ((or other age as required by local law - please see Section 3. In many jurisdictions, including California and the EU, the Services may not be used by anyone under 16), and, except for limited circumstances set forth below, we do not knowingly collect personal information from children. If you learn that your child has provided us with personal information without your consent, you may contact us as set forth below. If we learn that we have collected a child’s personal information in violation of applicable law, we will promptly take steps to delete such information and terminate the child’s account, or, if appropriate and possible, seek written consent from such child’s guardian.
 
 Although our Services are designed for a general audience, in some cases students under the age of thirteen may use the Services pursuant to an agreement we have with the student’s educational institution. For more details regarding our processing of personal information that we collect from children in the United States, please see our Supplemental Privacy Policy for Children attached hereto as [**Exhibit A**](https://www.figma.com/legal/privacy/#exhibit-a).
 
@@ -625,8 +657,8 @@ Figma only uses personal information collected from Children to provide the Ser
 
 Figma may disclose a Child’s personal information:
 
-* To the general public., if link sharing or posting to Figma Community is turned on . Content can be made publicly available by a Child or others collaborating on it, and in such cases any information about a Child included in such content is also publicly available and can be indexed by search engines. A Child can check at any time whether particular content is public or private by viewing the content’s settings. In addition, in connection with a Child’s posting of content on Figma Community, Figma will publicly share the Child’s profile picture, name, user handle, and other online handle(s) (to the extent a Child has provided us with this information).
-* To other users of the Services that a Child shares or interacts with.
+* To the general public., if link sharing or posting to Figma Community is turned on . Content can be made publicly available by a Child or others collaborating on it, and in such cases any information about a Child included in such content is also publicly available and can be indexed by search engines. A Child can check at any time whether particular content is public or private by viewing the content’s settings. In addition, in connection with a Child’s posting of content on Figma Community, Figma will publicly disclose the Child’s profile picture, name, user handle, and other online handle(s) (to the extent a Child has provided us with this information).
+* To other users of the Services that a Child disclose to or interacts with.
 * To the teacher, school, and/or school district on whose behalf the Child uses the Services.
 * To service providers Figma uses to provide the Services.
 * If Figma is required to do so by law or legal process, such as to comply with any court order or subpoena or to respond to any government or regulatory request.
@@ -638,7 +670,7 @@ Figma may disclose a Child’s personal information:
 
 In addition, if Figma is involved in a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Figma’s assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding or event, Figma may transfer the Children’s personal information it has collected or maintain to the buyer or other successor.
 
-Figma K12 Educational Accounts & Domain Capture. Figma for Education’s Enterprise accounts have domain capture functionality enabled by default in order to protect against unauthorized access from users with a different email domain. With domain capture enabled your name, email and profile picture (if you upload one) will be shared with other users across your Figma organization. This should be noted if email domains are shared across multiple educational institutions.
+Figma K12 Educational Accounts & Domain Capture. Figma for Education’s Enterprise accounts have domain capture functionality enabled by default in order to protect against unauthorized access from users with a different email domain. With domain capture enabled your name, email and profile picture (if you upload one) will be disclosed to other users across your Figma organization. This should be noted if email domains are shared across multiple educational institutions.
 
 **Third-Party Operators**
 
@@ -685,6 +717,7 @@ Use cases
 * [Diagramming](https://www.figma.com/figjam/diagramming-tool/)
 * [Prototyping](https://www.figma.com/prototyping/)
 * [Brainstorming](https://www.figma.com/figjam/brainstorming-tool/)
+* [Presentation maker](https://www.figma.com/presentation-maker/)
 * [Online whiteboard](https://www.figma.com/figjam/online-whiteboard/)
 * [Agile](https://www.figma.com/figjam/agile-workflows/)
 * [Strategic planning](https://www.figma.com/figjam/strategic-planning/)
