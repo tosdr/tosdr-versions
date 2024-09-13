@@ -692,7 +692,7 @@ If you have any questions or concerns about our use of your information, please 
 
 [PreviousTerms of Service](https://info.sonorancad.com/other/policy/terms-of-service)[NextRefund and Purchase Policy](https://info.sonorancad.com/other/policy/refund-and-purchase-policy)
 
-Last updated 3 months ago
+Last updated 4 months ago
 
 On this page
 
