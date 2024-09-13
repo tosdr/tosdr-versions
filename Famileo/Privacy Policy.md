@@ -27,7 +27,7 @@ The company ENTOURAGE SOLUTIONS (hereinafter called « ENTOURAGE SOLUTIONS »), 
   
 This personal data processing policy aims to inform the user (subscriber, loved one or family member), the contact or the potential customer on the commitments and practical measures taken by **FAMILEO** in order to ensure the respectful use of your personal data when visiting their website: http://www.famileo.com (hereinafter called « **_the Site_** »), and their mobile application FAMILEO (hereinafter called « **_the Application_** »).
 
-This document is available to read and download in PDF format [here](https://www.famileo.com/famileo/en-US/privacy-policy.pdf).
+This document is available to read and download in PDF format [here](https://www.famileo.com/en-US/privacy-policy.pdf).
 
  ![1. General provisions](/bundles/web/img/icon/faq_item/placeholder.svg?v10-1) 1. General provisions
 
@@ -238,7 +238,7 @@ If the data subject does not provide the data or withdraws consent to the data p
 
 If you have any questions about this Privacy Policy, how we collect or process your personal information, how to exercise your rights, or any other aspect of our privacy practices, please feel free to contact us. You can contact us at any time using the following email address: [dpo@famileo.com](http://dpo@famileo.com/) or by mail to FAMILEO (Personal data), 4 Avenue Louis Martin, 35400 Saint-Malo, France.  
   
-We reserve the right to modify this Privacy Policy at any time. The latest version of this policy governs our processing of your personal data and will always be available at [https://www.famileo.com/famileo/en-EU/privacy-policy](https://www.famileo.com/famileo/en-EU/privacy-policy).  
+We reserve the right to modify this Privacy Policy at any time. The latest version of this policy governs our processing of your personal data and will always be available at [https://www.famileo.com/en-EU/privacy-policy](https://www.famileo.com/en-EU/privacy-policy).  
   
 If we modify this policy in a manner that we, at our sole discretion, consider to be material, we will notify you by sending an email to the address associated with your account. By continuing to access or using the Services after these changes take effect, you agree to be bound by the terms set out in the new Privacy Policy.  
   
