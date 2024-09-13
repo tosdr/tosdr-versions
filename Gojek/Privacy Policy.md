@@ -4,6 +4,8 @@
 
 Partner with us
 
+[GoCorp](https://www.gojek.com/en-id/gocorp)
+
 [Careers](https://gojek.jobs/)
 
 Company
@@ -30,11 +32,11 @@ GOJEK PRIVACY POLICY
 PRIVACY NOTICE
 --------------
 
-Effective Date: 30 May 2024
+Effective Date: 14 August 2024
 
 **INTRODUCTION**
 
-The following Privacy Notice will become effective on 30 May 2024.
+The following Privacy Notice will become effective on 14 August 2024.
 
 This Privacy Notice describes how We, PT GoTo Gojek Tokopedia Tbk and/or its affiliates (“**Gojek**”) obtain, collect, store, control, use, process, analyse, correct, update, display, publish, transfer, disclose and protect Your personal data ("**Processing of Personal Data**"). This Privacy Notice applies to all users and/or service providers (“**User**” or “**You**”) in Our mobile applications (including the Gojek, GoPartner, GoBiz-GoFood Merchant App, GoAgent), websites (including www.gojek.com and its derivative sites), features, services and products (collectively referred as the “**Applications**”), unless covered by a separate privacy notice.
 
@@ -54,7 +56,7 @@ You may withdraw Your consent to any or all Processing of Your Personal Data at 
 
 **Changes from the Previous Version**
 
-In this Privacy Notice, We have made several editorial adjustments to enhance clarity and accuracy, added links to a dedicated website for account deletion requests, and provided further details on the Personal Data that We collect, the purposes of disclosing personal data to Our affiliates, and the retention period of Your Personal Data. Additionally, for country-specific provisions in Vietnam, we have updated the minimum User age to 18 (eighteen) years old.
+In this Privacy Notice, we make adjustments related to Users' obligations when processing other Users' Personal Data, and regulations concerning the processing of Users' application data for the purpose of preventing illegal transactions.
 
   
 
@@ -134,7 +136,7 @@ To the extent permitted by Applicable Laws, We may process  collect, use, store
 8. **Device Data** includes device data, including the type of device You are using to access the Application, including hardware model, operating system and version, software, IMEI number, file name and version, language preference, unique device identifier, advertising identifier, serial number, device movement information, and/or mobile network information.
 9. **Log Data** includes records on the server that receive data such as device IP address, date and time of access, Application features or pages viewed, Application work processes and other system activities, browser type, and/or third party sites or services that the User used before interacting with the Application. 
 10. **Location Data** includes Your real-time geo-location data. 
-11. **Installed Apps Data,** only applies if You are using the GoPartner mobile application on an Android device, refers to information about the applications You installed on Your device, including but not limited to applications that, at our discretion, may pose a risk of suspicious transactions or prohibited, illegal, unauthorised, or fraudulent activities, with the amount of information We collect may change from time to time.
+11. **Installed Apps Data,** only applies if You are using the Gojek app (on Android & iOS devices) and the GoPartner app (on Android devices), refers to information about the applications You installed on Your device, including but not limited to applications that, at our discretion as long as it does not violate the relevant regulations, may pose a risk of suspicious transactions or prohibited, illegal, unauthorised, or fraudulent activities, with the amount of information We collect may change from time to time.
 
 We may create, use, license or disclose **Aggregated Data** such as statistical or demographic data for any purpose. Aggregated Data could be derived from Your Personal Data but would not be considered Personal Data as this data will not directly or indirectly reveal Your identity as We will ensure: (i) that all identifiers have been removed such that the data, alone or in combination with other available data, cannot be linked or associated with or identify anyone, and (ii) the data is subsequently combined with similar data such that the original data forms parts of a larger data set.
 
@@ -269,6 +271,8 @@ Where it is not necessary for the Personal Data to be associated with You, We wi
 We will not sell or lease Your Personal Data.
 
 Other than as provided for in this Privacy Notice, We may disclose or share Your Personal Data if We notify You or We have obtained Your consent for the disclosure or sharing.
+
+If you receive other Users' Personal Data (including our partners' Personal Data) while using our Application, you understand and warrant that such Personal Data will only be used for the purpose of using the service. You are fully responsible for any misuse of Personal Data that you may commit. To the extent that it does not conflict with applicable laws and regulations, you release us from any liability related to any misuse of Personal Data that you commit.
 
 **6\. DATA RETENTION**
 
@@ -482,19 +486,19 @@ Browse Topics
 
 * [![logo](https://lelogama.go-jek.com/prime/upload/image/solv-logo-green.svg)Gojek PLUS](https://www.gojek.com/en-id/terms-and-condition/gojekplus)
 * [![logo](https://lelogama.go-jek.com/prime/upload/image/solv-logo-green.svg)Gojek Transjakarta](https://www.gojek.com/en-id/terms-and-condition/gojek-transjakarta)
-* [![logo](https://lelogama.go-jek.com/prime/upload/image/solv-logo-green.svg)GoCar](https://www.gojek.com/en-id/terms-and-condition/gocar)
-* [![logo](https://lelogama.go-jek.com/service_icon/bluebird_favicon_color.svg)GoBluebird](https://www.gojek.com/en-id/terms-and-condition/gobluebird)
 * [![logo](https://lelogama.go-jek.com/prime/upload/image/solv-logo-blue.svg)GoPay](https://www.gojek.com/en-id/terms-and-condition/gopay)
 * [![logo](https://lelogama.go-jek.com/prime/upload/image/solv-logo-blue.svg)GoPayLater](https://www.gojek.com/en-id/terms-and-condition/gopaylater)
 * [![logo](https://lelogama.go-jek.com/prime/upload/image/solv-logo-blue.svg)GoTagihan](https://www.gojek.com/en-id/terms-and-condition/gotagihan)
 * [![logo](https://lelogama.go-jek.com/prime/upload/image/solv-logo-red.svg)GoFood](https://www.gojek.com/en-id/terms-and-condition/gofood)
-* [![logo](https://lelogama.go-jek.com/prime/upload/image/solv-logo-red.svg)GoMart](https://www.gojek.com/en-id/terms-and-condition/gomart)
-* [![logo](https://lelogama.go-jek.com/prime/upload/image/solv-logo-red.svg)GoShop](https://www.gojek.com/en-id/terms-and-condition/goshop)
-* [![logo](https://lelogama.go-jek.com/prime/upload/image/solv-logo-green.svg)Gojek](https://www.gojek.com/en-id/terms-and-condition/gojek)
 * [![logo](https://lelogama.go-jek.com/prime/upload/image/solv-logo-green.svg)GoBox](https://www.gojek.com/en-id/terms-and-condition/gobox)
-* [![logo](https://lelogama.go-jek.com/prime/upload/image/solv-logo-green.svg)GoSend](https://www.gojek.com/en-id/terms-and-condition/gosend)
 * [![logo](https://lelogama.go-jek.com/prime/upload/image/solv-logo-green.svg)GoRide](https://www.gojek.com/en-id/terms-and-condition/goride)
 * [![logo](https://lelogama.go-jek.com/prime/upload/image/solv-logo-green.svg)Third-Party](https://www.gojek.com/en-id/terms-and-condition/third-party)
+* [![logo](https://lelogama.go-jek.com/prime/upload/image/solv-logo-green.svg)GoSend](https://www.gojek.com/en-id/terms-and-condition/gosend)
+* [![logo](https://lelogama.go-jek.com/prime/upload/image/solv-logo-red.svg)GoShop](https://www.gojek.com/en-id/terms-and-condition/goshop)
+* [![logo](https://lelogama.go-jek.com/prime/upload/image/solv-logo-red.svg)GoMart](https://www.gojek.com/en-id/terms-and-condition/gomart)
+* [![logo](https://lelogama.go-jek.com/prime/upload/image/solv-logo-green.svg)GoCar](https://www.gojek.com/en-id/terms-and-condition/gocar)
+* [![logo](https://lelogama.go-jek.com/service_icon/bluebird_favicon_color.svg)GoBluebird](https://www.gojek.com/en-id/terms-and-condition/gobluebird)
+* [![logo](https://lelogama.go-jek.com/prime/upload/image/solv-logo-green.svg)Gojek](https://www.gojek.com/en-id/terms-and-condition/gojek)
 
 ![logo-white](https://lelogama.go-jek.com/prime/upload/gojek-horizontal-logo-white.svg)
 
