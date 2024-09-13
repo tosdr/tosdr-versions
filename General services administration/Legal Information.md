@@ -40,7 +40,7 @@ close mobile menu
         
     * [Products and services
         
-        Toggle submenu](https://www.gsa.gov/travel/travel-and-lodging-services?topnav=buy-through-us)
+        Toggle submenu](https://www.gsa.gov/buy-through-us/products-and-services?topnav=buy-through-us)
         
         * [Facilities and construction](https://www.gsa.gov/buy-through-us/products-and-services/facilities-and-construction?topnav=buy-through-us)
         * [Human capital](https://www.gsa.gov/buy-through-us/products-and-services/human-capital?topnav=buy-through-us)
@@ -271,24 +271,24 @@ close mobile menu
     * [Explore travel](https://www.gsa.gov/travel?topnav=travel)
     * [Plan a trip
         
-        Toggle submenu](https://www.gsa.gov/travel/plan-and-book?topnav=plan-a-trip)
+        Toggle submenu](https://www.gsa.gov/travel/plan-a-trip?topnav=travel)
         
         * [Per diem rates](https://www.gsa.gov/travel/plan-book/per-diem-rates?topnav=travel)
-        * [Transportation (airfare rates, POV rates, etc.)](https://www.gsa.gov/travel/plan-book/transportation-airfare-pov-etc?topnav=travel)
-        * [Lodging](https://www.gsa.gov/travel/plan-book/gsa-lodging?topnav=travel)
-        * [State tax exemption](https://smartpay.gsa.gov/smarttax/state-tax-forms/?source=gsa.gov-travel)
+        * [Transportation (airfare rates, POV rates, etc.)](https://www.gsa.gov/travel/plan-a-trip/transportation-airfare-rates-pov-rates-etc?topnav=travel)
+        * [Lodging](https://www.gsa.gov/travel/plan-a-trip/lodging?topnav=travel)
+        * [State tax exemption](https://smartpay.gsa.gov/smarttax/state-tax-forms/?topnav=travel)
         * [Travel charge card](https://www.gsa.gov/travel/plan-a-trip/travel-charge-card?topnav=travel)
-        * [Conferences and meetings](https://www.gsa.gov/travel/plan-book/conference-and-meeting-planning?topnav=travel)
+        * [Conferences and meetings](https://www.gsa.gov/travel/plan-a-trip/conference-and-meeting-planning?topnav=travel)
         
     * [Travel and lodging services
         
         Toggle submenu](https://www.gsa.gov/travel/travel-and-lodging-services?topnav=travel)
         
-        * [E-gov travel service (ETS)](https://www.gsa.gov/travel/agency-services/egov-travel-service-ets?topnav=travel)
-        * [Travel category schedule](https://www.gsa.gov/travel/agency-services/travel-category-schedule?topnav=travel)
+        * [E-gov travel service (ETS)](https://www.gsa.gov/travel/travel-and-lodging-services/egov-travel-services-ets?topnav=travel)
+        * [Travel category schedule](https://www.gsa.gov/travel/travel-and-lodging-services/travel-category-schedule?topnav=travel)
         
     * [Federal travel regulation](https://www.gsa.gov/policy-regulations/regulations/federal-travel-regulation?topnav=travel)
-    * [Travel policy](https://www.gsa.gov/policy-regulations/policy/travel-management-policy?topnav=travel)
+    * [Travel policy](https://www.gsa.gov/policy-regulations/policy/travel-management-policy-overview?topnav=travel)
     
     Featured Topics
     ---------------
@@ -303,32 +303,32 @@ close mobile menu
     * [Explore technology](https://www.gsa.gov/technology?topnav=technology)
     * [Products and services
         
-        Toggle submenu](https://www.gsa.gov/technology/technology-products-services?topnav=technology)
+        Toggle submenu](https://www.gsa.gov/technology/it-contract-vehicles-and-purchasing-programs/information-technology-category?topnav=technology)
         
         * [Cloud computing services](https://www.gsa.gov/technology/it-contract-vehicles-and-purchasing-programs/multiple-award-schedule-it/cloud-and-cloud-related-it-services?topnav=technology)
-        * [Cybersecurity products and services](https://www.gsa.gov/technology/technology-products-services/it-security?topnav=technology)
+        * [Cybersecurity products and services](https://www.gsa.gov/technology/it-contract-vehicles-and-purchasing-programs/information-technology-category/it-security?topnav=technology)
         * [Data center services](https://www.gsa.gov/technology/it-contract-vehicles-and-purchasing-programs/information-technology-category/it-services/data-center-services?topnav=technology)
-        * [Hardware products and services](https://www.gsa.gov/technology/technology-products-services/it-hardware?topnav=technology)
+        * [Hardware products and services](https://www.gsa.gov/technology/it-contract-vehicles-and-purchasing-programs/information-technology-category/it-hardware?topnav=technology)
         * [Professional IT services](https://www.gsa.gov/technology/it-contract-vehicles-and-purchasing-programs/information-technology-category/it-services?topnav=technology)
-        * [Software products and services](https://www.gsa.gov/technology/technology-products-services/it-software?topnav=technology)
-        * [Telecommunications and network services](https://www.gsa.gov/technology/technology-purchasing-programs/telecommunications-and-network-services?topnav=technology)
-        * [Work with small businesses](https://www.gsa.gov/technology/technology-products-services/work-with-small-businesses?topnav=technology)
+        * [Software products and services](https://www.gsa.gov/technology/it-contract-vehicles-and-purchasing-programs/information-technology-category/it-software?topnav=technology)
+        * [Telecommunications and network services](https://www.gsa.gov/technology/it-contract-vehicles-and-purchasing-programs/information-technology-category/telecommunications?topnav=technology)
+        * [Work with small businesses](https://www.gsa.gov/technology/it-contract-vehicles-and-purchasing-programs/information-technology-category/work-with-small-businesses?topnav=technology)
         
     * [Purchasing programs
         
-        Toggle submenu](https://www.gsa.gov/technology/technology-purchasing-programs?topnav=technology)
+        Toggle submenu](https://www.gsa.gov/technology/it-contract-vehicles-and-purchasing-programs?topnav=technology)
         
-        * [Governmentwide acquisition contracts](https://www.gsa.gov/technology/technology-purchasing-programs/governmentwide-acquisition-contracts?topnav=technology)
-        * [MAS information technology](https://www.gsa.gov/technology/it-contract-vehicles-and-purchasing-programs/multiple-award-schedule-it)
-        * [Software purchase agreements](https://www.gsa.gov/technology/technology-purchasing-programs/smartbuy-bpas?topnav=technology)
-        * [Telecommunications and network services](https://www.gsa.gov/technology/technology-purchasing-programs/telecommunications-and-network-services?topnav=technology)
-        * [USAccess](https://www.gsa.gov/technology/technology-purchasing-programs/federal-credentialing-services?topnav=technology)
+        * [Governmentwide acquisition contracts](https://www.gsa.gov/technology/it-contract-vehicles-and-purchasing-programs/governmentwide-acquisition-contracts?topnav=technology)
+        * [MAS information technology](https://www.gsa.gov/technology/it-contract-vehicles-and-purchasing-programs/multiple-award-schedule-it?topnav=technology)
+        * [Software purchase agreements](https://www.gsa.gov/technology/it-contract-vehicles-and-purchasing-programs/multiple-award-schedule-it/smartbuy-bpa?topnav=technology)
+        * [Telecommunications and network services](https://www.gsa.gov/technology/it-contract-vehicles-and-purchasing-programs/telecommunications-and-network-services?topnav=technology)
+        * [USAccess](https://www.gsa.gov/technology/it-contract-vehicles-and-purchasing-programs/federal-credentialing-services?topnav=technology)
         
     * [Government initiatives
         
         Toggle submenu](https://www.gsa.gov/technology/government-it-initiatives?topnav=technology)
         
-        * [18F](https://18f.gsa.gov/?source=gsa.gov-technology)
+        * [18F](https://18f.gsa.gov/?topnav=technology)
         * [Cybersecurity](https://www.gsa.gov/technology/government-it-initiatives/cybersecurity?topnav=technology)
         * [Digital strategy](https://www.gsa.gov/technology/government-it-initiatives/digital-strategy?topnav=technology)
         * [Emerging citizen technology](https://www.gsa.gov/technology/government-it-initiatives/emerging-technologies?topnav=technology)
@@ -337,7 +337,7 @@ close mobile menu
         * [Mobile government](https://www.gsa.gov/technology/it-contract-vehicles-and-purchasing-programs/multiple-award-schedule-it/wireless-mobility-solutions/federal-mobility-group?topnav=technology)
         * [Technology modernization fund](https://www.gsa.gov/technology/government-it-initiatives/technology-modernization-fund?topnav=technology)
         
-    * [Training](https://www.gsa.gov/about-us/events-and-training/gsa-training-programs/training-for-federal-employees/technology-management-training?topnav=technology)
+    * [Training](https://www.gsa.gov/about-us/events-and-training/our-training-programs/training-for-federal-employees/find-technology-training?topnav=technology)
     * [IT policy](https://www.gsa.gov/policy-regulations/policy/information-technology-policy?topnav=technology)
     
     Featured Topics
@@ -352,12 +352,12 @@ close mobile menu
     Toggle submenu
     
     * [Explore about us](https://www.gsa.gov/about-us?topnav=about-us)
-    * [Annual reports](https://www.gsa.gov/reference/reports/budget-performance/annual-reports?topnav=about-us)
+    * [Annual reports](https://www.gsa.gov/reference/reports/budget-and-performance/annual-reports?topnav=about-us)
     * [Background and history
         
         Toggle submenu](https://www.gsa.gov/about-us/mission-and-background?topnav=about-us)
         
-        * [Overview](https://www.gsa.gov/about-us/mission-and-background?topnav=about-us)
+        * [Overview](https://www.gsa.gov/about-us/mission-and-background/background?topnav=about-us)
         * [Mission and strategic goals](https://www.gsa.gov/about-us/mission-and-background/our-missions-evolution?topnav=about-us)
         * [Role in presidential transitions](https://www.gsa.gov/about-us/mission-and-background/our-role-in-presidential-transitions?topnav=about-us)
         
@@ -376,12 +376,12 @@ close mobile menu
         
         Toggle submenu](https://www.gsa.gov/about-us/newsroom?topnav=about-us)
         
-        * [Agency blog](https://www.gsa.gov/blog/?topnav=about-us)
+        * [Agency blog](https://www.gsa.gov/blog?topnav=about-us)
         * [Congressional testimony](https://www.gsa.gov/about-us/newsroom/congressional-testimony?topnav=about-us)
-        * [GSA does that podcast](https://www.gsa.gov/about-us/newsroom/listen-to-the-gsa-does-that-podcast)
+        * [GSA does that podcast](https://www.gsa.gov/about-us/newsroom/listen-to-the-gsa-does-that-podcast?topnav=about-us)
         * [News releases](https://www.gsa.gov/about-us/newsroom/news-releases?topnav=about-us)
-        * [Speeches](https://www.gsa.gov/about-us/newsroom/speeches/speeches-by-the-administrator?topnav=about-us)
-        * [Videos](https://search.gsa.gov/search/news?affiliate=gsa.gov&channel=663&query=)
+        * [Speeches](https://www.gsa.gov/about-us/newsroom/speeches-by-the-administrator?topnav=about-us)
+        * [Videos](https://search.gsa.gov/search/news?affiliate=gsa.gov&channel=663)
         
     * [Organization
         
@@ -389,28 +389,28 @@ close mobile menu
         
         * [Leadership directory](https://www.gsa.gov/about-us/organization/leadership-directory?topnav=about-us)
         * [Staff directory](https://www.gsa.gov/staff-directory?topnav=about-us)
-        * [Office of the administrator](https://www.gsa.gov/about-us/organization/office-of-the-administrator?topnav=about-us)
+        * [Office of the Administrator](https://www.gsa.gov/about-us/organization/office-of-the-administrator-overview?topnav=about-us)
         * [Federal Acquisition Service](https://www.gsa.gov/about-us/organization/federal-acquisition-service?topnav=about-us)
         * [Public Buildings Service](https://www.gsa.gov/about-us/organization/public-buildings-service?topnav=about-us)
-        * [Staff offices](https://www.gsa.gov/about-us/organization?topnav=about-us-staff-offices)
-        * [Board of Contract Appeals](https://www.cbca.gov/?source=gsa.gov-about-us)
+        * [Staff offices](https://www.gsa.gov/about-us/organization?topnav=about-us)
+        * [Board of Contract Appeals](https://www.cbca.gov/?topnav=about-us)
         * [Office of Inspector General](https://www.gsa.gov/about-us/organization/gsa-office-of-inspector-general?topnav=about-us)
         
     * [Regions
         
-        Toggle submenu](https://www.gsa.gov/about-us/regions?topnav=about-us)
+        Toggle submenu](https://www.gsa.gov/about-us/gsa-regions?topnav=about-us)
         
-        * [Region 1 | New England](https://www.gsa.gov/about-us/regions/region-1-new-england?topnav=about-us)
-        * [Region 2 | Northeast and Caribbean](https://www.gsa.gov/about-us/regions/region-2-northeast-and-caribbean?topnav=about-us)
-        * [Region 3 | Mid-Atlantic](https://www.gsa.gov/about-us/regions/region-3-midatlantic?topnav=about-us)
-        * [Region 4 | Southeast Sunbelt](https://www.gsa.gov/about-us/regions/region-4-southeast-sunbelt?topnav=about-us)
-        * [Region 5 | Great Lakes](https://www.gsa.gov/about-us/regions/region-5-great-lakes?topnav=about-us)
-        * [Region 6 | Heartland](https://www.gsa.gov/about-us/regions/region-6-heartland?topnav=about-us)
-        * [Region 7 | Greater Southwest](https://www.gsa.gov/about-us/regions/region-7-greater-southwest?topnav=about-us)
-        * [Region 8 | Rocky Mountain](https://www.gsa.gov/about-us/regions/region-8-rocky-mountain?topnav=about-us)
-        * [Region 9 | Pacific Rim](https://www.gsa.gov/about-us/regions/region-9-pacific-rim?topnav=about-us)
-        * [Region 10 | Northwest/Arctic](https://www.gsa.gov/about-us/regions/region-10-northwest-arctic?topnav=about-us)
-        * [Region 11 | National Capital Region](https://www.gsa.gov/about-us/regions/region-11-national-capital?topnav=about-us)
+        * [Region 1 | New England](https://www.gsa.gov/about-us/gsa-regions/region-1-new-england?topnav=about-us)
+        * [Region 2 | Northeast and Caribbean](https://www.gsa.gov/about-us/gsa-regions/region-2-northeast-and-caribbean?topnav=about-us)
+        * [Region 3 | Mid-Atlantic](https://www.gsa.gov/about-us/gsa-regions/region-3-midatlantic?topnav=about-us)
+        * [Region 4 | Southeast Sunbelt](https://www.gsa.gov/about-us/gsa-regions/region-4-southeast-sunbelt?topnav=about-us)
+        * [Region 5 | Great Lakes](https://www.gsa.gov/about-us/gsa-regions/region-5-great-lakes?topnav=about-us)
+        * [Region 6 | Heartland](https://www.gsa.gov/about-us/gsa-regions/region-6-heartland?topnav=about-us)
+        * [Region 7 | Greater Southwest](https://www.gsa.gov/about-us/gsa-regions/region-7-greater-southwest?topnav=about-us)
+        * [Region 8 | Rocky Mountain](https://www.gsa.gov/about-us/gsa-regions/region-8-rocky-mountain?topnav=about-us)
+        * [Region 9 | Pacific Rim](https://www.gsa.gov/about-us/gsa-regions/region-9-pacific-rim?topnav=about-us)
+        * [Region 10 | Northwest/Arctic](https://www.gsa.gov/about-us/gsa-regions/region-10-northwestarctic?topnav=about-us)
+        * [Region 11 | National Capital Region](https://www.gsa.gov/about-us/gsa-regions/region-11-national-capital?topnav=about-us)
         
     * [Contact us](https://www.gsa.gov/about-us/contact-us?topnav=about-us)
     
@@ -439,7 +439,7 @@ Buy through us expand menu
 
 [Vehicle sales](https://www.gsa.gov/buy-through-us/products-and-services/transportation-and-logistics-services/fleet-management/vehicle-leasing/sales-of-gsa-fleet-vehicles?topnav=buy-through-us)
 
-[Products and services](https://www.gsa.gov/travel/travel-and-lodging-services?topnav=buy-through-us) expand menu
+[Products and services](https://www.gsa.gov/buy-through-us/products-and-services?topnav=buy-through-us) expand menu
 
 [Facilities and construction](https://www.gsa.gov/buy-through-us/products-and-services/facilities-and-construction?topnav=buy-through-us)
 
@@ -677,67 +677,67 @@ Travel expand menu
 
 [Explore travel](https://www.gsa.gov/travel?topnav=travel)
 
-[Plan a trip](https://www.gsa.gov/travel/plan-and-book?topnav=plan-a-trip) expand menu
+[Plan a trip](https://www.gsa.gov/travel/plan-a-trip?topnav=travel) expand menu
 
 [Per diem rates](https://www.gsa.gov/travel/plan-book/per-diem-rates?topnav=travel)
 
-[Transportation (airfare rates, POV rates, etc.)](https://www.gsa.gov/travel/plan-book/transportation-airfare-pov-etc?topnav=travel)
+[Transportation (airfare rates, POV rates, etc.)](https://www.gsa.gov/travel/plan-a-trip/transportation-airfare-rates-pov-rates-etc?topnav=travel)
 
-[Lodging](https://www.gsa.gov/travel/plan-book/gsa-lodging?topnav=travel)
+[Lodging](https://www.gsa.gov/travel/plan-a-trip/lodging?topnav=travel)
 
-[State tax exemption](https://smartpay.gsa.gov/smarttax/state-tax-forms/?source=gsa.gov-travel)
+[State tax exemption](https://smartpay.gsa.gov/smarttax/state-tax-forms/?topnav=travel)
 
 [Travel charge card](https://www.gsa.gov/travel/plan-a-trip/travel-charge-card?topnav=travel)
 
-[Conferences and meetings](https://www.gsa.gov/travel/plan-book/conference-and-meeting-planning?topnav=travel)
+[Conferences and meetings](https://www.gsa.gov/travel/plan-a-trip/conference-and-meeting-planning?topnav=travel)
 
 [Travel and lodging services](https://www.gsa.gov/travel/travel-and-lodging-services?topnav=travel) expand menu
 
-[E-gov travel service (ETS)](https://www.gsa.gov/travel/agency-services/egov-travel-service-ets?topnav=travel)
+[E-gov travel service (ETS)](https://www.gsa.gov/travel/travel-and-lodging-services/egov-travel-services-ets?topnav=travel)
 
-[Travel category schedule](https://www.gsa.gov/travel/agency-services/travel-category-schedule?topnav=travel)
+[Travel category schedule](https://www.gsa.gov/travel/travel-and-lodging-services/travel-category-schedule?topnav=travel)
 
 [Federal travel regulation](https://www.gsa.gov/policy-regulations/regulations/federal-travel-regulation?topnav=travel)
 
-[Travel policy](https://www.gsa.gov/policy-regulations/policy/travel-management-policy?topnav=travel)
+[Travel policy](https://www.gsa.gov/policy-regulations/policy/travel-management-policy-overview?topnav=travel)
 
 Technology expand menu
 
 [Explore technology](https://www.gsa.gov/technology?topnav=technology)
 
-[Products and services](https://www.gsa.gov/technology/technology-products-services?topnav=technology) expand menu
+[Products and services](https://www.gsa.gov/technology/it-contract-vehicles-and-purchasing-programs/information-technology-category?topnav=technology) expand menu
 
 [Cloud computing services](https://www.gsa.gov/technology/it-contract-vehicles-and-purchasing-programs/multiple-award-schedule-it/cloud-and-cloud-related-it-services?topnav=technology)
 
-[Cybersecurity products and services](https://www.gsa.gov/technology/technology-products-services/it-security?topnav=technology)
+[Cybersecurity products and services](https://www.gsa.gov/technology/it-contract-vehicles-and-purchasing-programs/information-technology-category/it-security?topnav=technology)
 
 [Data center services](https://www.gsa.gov/technology/it-contract-vehicles-and-purchasing-programs/information-technology-category/it-services/data-center-services?topnav=technology)
 
-[Hardware products and services](https://www.gsa.gov/technology/technology-products-services/it-hardware?topnav=technology)
+[Hardware products and services](https://www.gsa.gov/technology/it-contract-vehicles-and-purchasing-programs/information-technology-category/it-hardware?topnav=technology)
 
 [Professional IT services](https://www.gsa.gov/technology/it-contract-vehicles-and-purchasing-programs/information-technology-category/it-services?topnav=technology)
 
-[Software products and services](https://www.gsa.gov/technology/technology-products-services/it-software?topnav=technology)
+[Software products and services](https://www.gsa.gov/technology/it-contract-vehicles-and-purchasing-programs/information-technology-category/it-software?topnav=technology)
 
-[Telecommunications and network services](https://www.gsa.gov/technology/technology-purchasing-programs/telecommunications-and-network-services?topnav=technology)
+[Telecommunications and network services](https://www.gsa.gov/technology/it-contract-vehicles-and-purchasing-programs/information-technology-category/telecommunications?topnav=technology)
 
-[Work with small businesses](https://www.gsa.gov/technology/technology-products-services/work-with-small-businesses?topnav=technology)
+[Work with small businesses](https://www.gsa.gov/technology/it-contract-vehicles-and-purchasing-programs/information-technology-category/work-with-small-businesses?topnav=technology)
 
-[Purchasing programs](https://www.gsa.gov/technology/technology-purchasing-programs?topnav=technology) expand menu
+[Purchasing programs](https://www.gsa.gov/technology/it-contract-vehicles-and-purchasing-programs?topnav=technology) expand menu
 
-[Governmentwide acquisition contracts](https://www.gsa.gov/technology/technology-purchasing-programs/governmentwide-acquisition-contracts?topnav=technology)
+[Governmentwide acquisition contracts](https://www.gsa.gov/technology/it-contract-vehicles-and-purchasing-programs/governmentwide-acquisition-contracts?topnav=technology)
 
-[MAS information technology](https://www.gsa.gov/technology/it-contract-vehicles-and-purchasing-programs/multiple-award-schedule-it)
+[MAS information technology](https://www.gsa.gov/technology/it-contract-vehicles-and-purchasing-programs/multiple-award-schedule-it?topnav=technology)
 
-[Software purchase agreements](https://www.gsa.gov/technology/technology-purchasing-programs/smartbuy-bpas?topnav=technology)
+[Software purchase agreements](https://www.gsa.gov/technology/it-contract-vehicles-and-purchasing-programs/multiple-award-schedule-it/smartbuy-bpa?topnav=technology)
 
-[Telecommunications and network services](https://www.gsa.gov/technology/technology-purchasing-programs/telecommunications-and-network-services?topnav=technology)
+[Telecommunications and network services](https://www.gsa.gov/technology/it-contract-vehicles-and-purchasing-programs/telecommunications-and-network-services?topnav=technology)
 
-[USAccess](https://www.gsa.gov/technology/technology-purchasing-programs/federal-credentialing-services?topnav=technology)
+[USAccess](https://www.gsa.gov/technology/it-contract-vehicles-and-purchasing-programs/federal-credentialing-services?topnav=technology)
 
 [Government initiatives](https://www.gsa.gov/technology/government-it-initiatives?topnav=technology) expand menu
 
-[18F](https://18f.gsa.gov/?source=gsa.gov-technology)
+[18F](https://18f.gsa.gov/?topnav=technology)
 
 [Cybersecurity](https://www.gsa.gov/technology/government-it-initiatives/cybersecurity?topnav=technology)
 
@@ -753,7 +753,7 @@ Technology expand menu
 
 [Technology modernization fund](https://www.gsa.gov/technology/government-it-initiatives/technology-modernization-fund?topnav=technology)
 
-[Training](https://www.gsa.gov/about-us/events-and-training/gsa-training-programs/training-for-federal-employees/technology-management-training?topnav=technology)
+[Training](https://www.gsa.gov/about-us/events-and-training/our-training-programs/training-for-federal-employees/find-technology-training?topnav=technology)
 
 [IT policy](https://www.gsa.gov/policy-regulations/policy/information-technology-policy?topnav=technology)
 
@@ -761,11 +761,11 @@ About us expand menu
 
 [Explore about us](https://www.gsa.gov/about-us?topnav=about-us)
 
-[Annual reports](https://www.gsa.gov/reference/reports/budget-performance/annual-reports?topnav=about-us)
+[Annual reports](https://www.gsa.gov/reference/reports/budget-and-performance/annual-reports?topnav=about-us)
 
 [Background and history](https://www.gsa.gov/about-us/mission-and-background?topnav=about-us) expand menu
 
-[Overview](https://www.gsa.gov/about-us/mission-and-background?topnav=about-us)
+[Overview](https://www.gsa.gov/about-us/mission-and-background/background?topnav=about-us)
 
 [Mission and strategic goals](https://www.gsa.gov/about-us/mission-and-background/our-missions-evolution?topnav=about-us)
 
@@ -787,17 +787,17 @@ About us expand menu
 
 [Newsroom](https://www.gsa.gov/about-us/newsroom?topnav=about-us) expand menu
 
-[Agency blog](https://www.gsa.gov/blog/?topnav=about-us)
+[Agency blog](https://www.gsa.gov/blog?topnav=about-us)
 
 [Congressional testimony](https://www.gsa.gov/about-us/newsroom/congressional-testimony?topnav=about-us)
 
-[GSA does that podcast](https://www.gsa.gov/about-us/newsroom/listen-to-the-gsa-does-that-podcast)
+[GSA does that podcast](https://www.gsa.gov/about-us/newsroom/listen-to-the-gsa-does-that-podcast?topnav=about-us)
 
 [News releases](https://www.gsa.gov/about-us/newsroom/news-releases?topnav=about-us)
 
-[Speeches](https://www.gsa.gov/about-us/newsroom/speeches/speeches-by-the-administrator?topnav=about-us)
+[Speeches](https://www.gsa.gov/about-us/newsroom/speeches-by-the-administrator?topnav=about-us)
 
-[Videos](https://search.gsa.gov/search/news?affiliate=gsa.gov&channel=663&query=)
+[Videos](https://search.gsa.gov/search/news?affiliate=gsa.gov&channel=663)
 
 [Organization](https://www.gsa.gov/about-us/organization?topnav=about-us) expand menu
 
@@ -805,46 +805,47 @@ About us expand menu
 
 [Staff directory](https://www.gsa.gov/staff-directory?topnav=about-us)
 
-[Office of the administrator](https://www.gsa.gov/about-us/organization/office-of-the-administrator?topnav=about-us)
+[Office of the Administrator](https://www.gsa.gov/about-us/organization/office-of-the-administrator-overview?topnav=about-us)
 
 [Federal Acquisition Service](https://www.gsa.gov/about-us/organization/federal-acquisition-service?topnav=about-us)
 
 [Public Buildings Service](https://www.gsa.gov/about-us/organization/public-buildings-service?topnav=about-us)
 
-[Staff offices](https://www.gsa.gov/about-us/organization?topnav=about-us-staff-offices)
+[Staff offices](https://www.gsa.gov/about-us/organization?topnav=about-us)
 
-[Board of Contract Appeals](https://www.cbca.gov/?source=gsa.gov-about-us)
+[Board of Contract Appeals](https://www.cbca.gov/?topnav=about-us)
 
 [Office of Inspector General](https://www.gsa.gov/about-us/organization/gsa-office-of-inspector-general?topnav=about-us)
 
-[Regions](https://www.gsa.gov/about-us/regions?topnav=about-us) expand menu
+[Regions](https://www.gsa.gov/about-us/gsa-regions?topnav=about-us) expand menu
 
-[Region 1 | New England](https://www.gsa.gov/about-us/regions/region-1-new-england?topnav=about-us)
+[Region 1 | New England](https://www.gsa.gov/about-us/gsa-regions/region-1-new-england?topnav=about-us)
 
-[Region 2 | Northeast and Caribbean](https://www.gsa.gov/about-us/regions/region-2-northeast-and-caribbean?topnav=about-us)
+[Region 2 | Northeast and Caribbean](https://www.gsa.gov/about-us/gsa-regions/region-2-northeast-and-caribbean?topnav=about-us)
 
-[Region 3 | Mid-Atlantic](https://www.gsa.gov/about-us/regions/region-3-midatlantic?topnav=about-us)
+[Region 3 | Mid-Atlantic](https://www.gsa.gov/about-us/gsa-regions/region-3-midatlantic?topnav=about-us)
 
-[Region 4 | Southeast Sunbelt](https://www.gsa.gov/about-us/regions/region-4-southeast-sunbelt?topnav=about-us)
+[Region 4 | Southeast Sunbelt](https://www.gsa.gov/about-us/gsa-regions/region-4-southeast-sunbelt?topnav=about-us)
 
-[Region 5 | Great Lakes](https://www.gsa.gov/about-us/regions/region-5-great-lakes?topnav=about-us)
+[Region 5 | Great Lakes](https://www.gsa.gov/about-us/gsa-regions/region-5-great-lakes?topnav=about-us)
 
-[Region 6 | Heartland](https://www.gsa.gov/about-us/regions/region-6-heartland?topnav=about-us)
+[Region 6 | Heartland](https://www.gsa.gov/about-us/gsa-regions/region-6-heartland?topnav=about-us)
 
-[Region 7 | Greater Southwest](https://www.gsa.gov/about-us/regions/region-7-greater-southwest?topnav=about-us)
+[Region 7 | Greater Southwest](https://www.gsa.gov/about-us/gsa-regions/region-7-greater-southwest?topnav=about-us)
 
-[Region 8 | Rocky Mountain](https://www.gsa.gov/about-us/regions/region-8-rocky-mountain?topnav=about-us)
+[Region 8 | Rocky Mountain](https://www.gsa.gov/about-us/gsa-regions/region-8-rocky-mountain?topnav=about-us)
 
-[Region 9 | Pacific Rim](https://www.gsa.gov/about-us/regions/region-9-pacific-rim?topnav=about-us)
+[Region 9 | Pacific Rim](https://www.gsa.gov/about-us/gsa-regions/region-9-pacific-rim?topnav=about-us)
 
-[Region 10 | Northwest/Arctic](https://www.gsa.gov/about-us/regions/region-10-northwest-arctic?topnav=about-us)
+[Region 10 | Northwest/Arctic](https://www.gsa.gov/about-us/gsa-regions/region-10-northwestarctic?topnav=about-us)
 
-[Region 11 | National Capital Region](https://www.gsa.gov/about-us/regions/region-11-national-capital?topnav=about-us)
+[Region 11 | National Capital Region](https://www.gsa.gov/about-us/gsa-regions/region-11-national-capital?topnav=about-us)
 
 [Contact us](https://www.gsa.gov/about-us/contact-us?topnav=about-us)
 
 1. [Home](https://www.gsa.gov/)
-2. [Using the GSA.gov Website](https://www.gsa.gov/website-information)
+2. [Website Information](https://www.gsa.gov/website-information)
+3. Website policies
 
 Website policies
 ================
@@ -1035,7 +1036,7 @@ Last updated: May 6, 2024
     
 * Also of Interest
     
-    * [Data.gov](http://www.data.gov/?footer=gsa)
+    * [Data.gov](https://www.data.gov/?footer=gsa)
     * [Whitehouse.gov](https://www.whitehouse.gov/?footer=gsa)
     
 * [Tools](https://www.gsa.gov/tools-overview?footer=gsa)
@@ -1106,7 +1107,7 @@ Rates for foreign countries are set by the [State Department](https://aoprals.st
 
 ### 2 Choose a date
 
-Select Fiscal Year \- Select - 2024 (Current Fiscal Year) 2023 2022
+Select Fiscal Year \- Select - 2025 2024 (Current Fiscal Year) 2023
 
 * * *
 
@@ -1116,7 +1117,7 @@ Travel start date (mm/dd/yyyy)
 
 Travel end date (mm/dd/yyyy)
 
-Rates are available between 10/1/2021 and 09/30/2024.
+Rates are available between 10/1/2022 and 09/30/2025.
 
 The End Date of your trip can not occur before the Start Date.
 
