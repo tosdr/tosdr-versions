@@ -254,7 +254,7 @@ Password
 
 #### CURRENT AFP ISSUE
 
-[![American Free Press](https://americanfreepress.net/assets/images/35&36_2024_AFP_Front_page_pic.jpg "American Free Press")](https://americanfreepress.net/Issue_35_36_AFP_2024_FP.pdf)  
+[![American Free Press](https://americanfreepress.net/assets/images/37&38_2024_AFP_Front_page_pic.jpg "American Free Press")](https://americanfreepress.net/Issue_37_38_AFP_2024_FP.pdf)  
 
 #### ADVERTISING
 
@@ -318,4 +318,4 @@ Any cookies that may not be particularly necessary for the website to function a
 
 SAVE & ACCEPT
 
-![css.php](https://americanfreepress.net/wp-content/plugins/cookies-for-comments/css.php?k=8a9b2c33f69fe9773bed4bd13516bab6&o=i&t=525896281)
+![css.php](https://americanfreepress.net/wp-content/plugins/cookies-for-comments/css.php?k=8a9b2c33f69fe9773bed4bd13516bab6&o=i&t=205380496)
