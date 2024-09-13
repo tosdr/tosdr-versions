@@ -18,6 +18,7 @@ Prev
 
 * [New Products](https://www.redteamtools.com/new-products/)
 * [About Us](https://www.redteamtools.com/about-us/)
+* [Restricted Items](https://www.redteamtools.com/restricted-items/)
 * [Shop All](https://www.redteamtools.com/shop-all/)
 * [Lock Picks](https://www.redteamtools.com/lock-picks-manipulation)
 * [Bypass Tools](https://www.redteamtools.com/quick-entry)
