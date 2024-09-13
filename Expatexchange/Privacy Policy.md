@@ -18,7 +18,9 @@ Send Login Link
 
 Interested in our Partner Program for businesses or our Local Guide Program for experienced expats and digital nomads? [Click here to learn more](https://www.expatexchange.com/partnering).
 
-     Privacy Policy | Expat Exchange                                 
+       Privacy Policy | Expat Exchange                                   
+
+ 
 
 * [Home](https://www.expatexchange.com/ "Expat Exchange Home")
 * [](javascript:void(0); "Partners and Local Guides")[Partners & Local Guides](javascript:void(0); "Partners and Local Guides")
@@ -59,6 +61,8 @@ Choose Your Destination: Algeria Antigua & Barbuda Argentina Australia Austria B
 
 [Home](https://www.expatexchange.com/ "Expat Exchange Home") ![Destination Countries](/imagesnew/destinations-icon-000000.png)[Explore Countries](https://www.expatexchange.com/countries "Destination Countries") [](https://www.expatexchange.com/feed/popular/260/living-international "Living Internationally Community")[Community](https://www.expatexchange.com/feed/popular/260/living-international "Living Internationally Community") [](https://www.expatexchange.com/membersubscription/159 "Subscribe")[Newsletter](https://www.expatexchange.com/membersubscription "Subscribe") [](https://www.expatexchange.com/partnerconnect "Plan Your Move")[Plan Your Move](https://www.expatexchange.com/partnerconnect "Plan Your Move") [](https://www.expatexchange.com/expat-health-insurance.html "Health Insurance")[Insurance](https://www.expatexchange.com/expat-health-insurance.html "Health Insurance")
 
+ 
+
 * [Home](https://www.expatexchange.com/ "Expat Exchange Home")
 * [](javascript:void(0); "Partners and Local Guides")[Partners & Local Guides](javascript:void(0); "Partners and Local Guides")
 * [Explore Countries](https://www.expatexchange.com/countries "Countries")
@@ -92,9 +96,9 @@ Choose Your Destination: Algeria Antigua & Barbuda Argentina Australia Austria B
 * [Real Estate Listings](https://www.expatexchange.com/realestate "Real Estate International")
 * [More Resources](https://www.expatexchange.com/expatresources "More Resources")
 
-[![AGS Worldwide Movers](https://www.expatexchange.com/banner/international_moving_company_ags_ldr.gif)](http://www.agsmovers.com/moving-quote?utm_source=expatexchange&utm_medium=native-ad-text-article7-en&utm_campaign=ags-expat-sites&campaign_id=2598)
+[![GeoBlue](https://www.expatexchange.com/banner/INDV2079-ExpatExchangeAd_728x90_FNL.jpg)](https://www.expatexchange.com/partnerdirect/76/71346-DESKTOP-leader-leaderad-vrs-B-Global-leader)
 
-[![AGS Worldwide Movers](https://www.expatexchange.com/banner/AGS_300X250_EN1.gif)](http://www.agsmovers.com/moving-quote?utm_source=expatexchange&utm_medium=native-ad-text-article7-en&utm_campaign=ags-expat-sites&campaign_id=2598)
+[![GeoBlue](https://www.expatexchange.com/banner/INDV2079-ExpatExchangeAd_300x250_FNL.jpg)](https://www.expatexchange.com/partnerdirect/76/71346-MOBILE-leader-leaderad-vrs-B-Global-leader)
 
 Privacy Policy
 ==============
@@ -435,17 +439,17 @@ Based on the applicable laws of your country, you may have the right to request 
 
 This privacy policy was created using Termly's [Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/).
 
-[![Innoinsure](https://www.expatexchange.com/images/segur_family_insure_200.jpg)](https://www.innoinsure.com/adeslas/expatexchange)
+[![Allianz Care](https://www.expatexchange.com/images/lab-healthcare-quote.jpg)](https://www.kqzyfj.com/click-1462468-13892475?sid=37548-DESKTOP-cbar-vrs-B-hicontent-Global-62)
 
-[Innoinsure](https://www.innoinsure.com/adeslas/expatexchange)
+[Allianz Care](https://www.kqzyfj.com/click-1462468-13892475?sid=37548-DESKTOP-cbar-vrs-B-hicontent-Global-62)
 
-Hassle-free health insurance policies that meet all Spanish visa and residency requirements. We are Innoinsure and we offer policies from the 2 leading health insurance companies in Spain: DKV and Asisa. 100% success rate for VISA and residency applications.  
-[Get Quote](https://www.innoinsure.com/adeslas/expatexchange "Get Quote")
+Flexible solutions allow you to tailor your cover to meet your needs and budget. Use Promocode: LIFE10 and get 10% off your international health insurance for life!  
+[Get Quote](https://www.kqzyfj.com/click-1462468-13892475?sid=37548-DESKTOP-cbar-vrs-B-hicontent-Global-62 "Get Quote")
 
-[![Innoinsure](https://www.expatexchange.com/images/segur_family_insure_200.jpg)](https://www.innoinsure.com/adeslas/expatexchange)[Innoinsure](https://www.innoinsure.com/adeslas/expatexchange)
+[![Allianz Care](https://www.expatexchange.com/images/lab-healthcare-quote.jpg)](https://www.kqzyfj.com/click-1462468-13892475?sid=37548-MOBILE-cbar-vrs-B-hicontent-Global-62)[Allianz Care](https://www.kqzyfj.com/click-1462468-13892475?sid=37548-MOBILE-cbar-vrs-B-hicontent-Global-62)
 
-Hassle-free health insurance policies that meet all Spanish visa and residency requirements. We are Innoinsure and we offer policies from the 2 leading health insurance companies in Spain: DKV and Asisa. 100% success rate for VISA and residency applications.  
-[Get Quote](https://www.innoinsure.com/adeslas/expatexchange "Get Quote")
+Flexible solutions allow you to tailor your cover to meet your needs and budget. Use Promocode: LIFE10 and get 10% off your international health insurance for life!  
+[Get Quote](https://www.kqzyfj.com/click-1462468-13892475?sid=37548-MOBILE-cbar-vrs-B-hicontent-Global-62 "Get Quote")
 
 How do I use Expat Exchange?  
 You'll gain access to the best information and features when you [join our site](https://www.expatexchange.com/jointhecommunity "Join Expat Exchange") (it's free). Then, choose your destination and you'll find many of these features for your country:  
