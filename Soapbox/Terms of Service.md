@@ -299,6 +299,7 @@ Copyright © 2024 Soapbox.
 * Diners Club
 * Discover
 * Meta Pay
+* JCB
 * Mastercard
 * PayPal
 * Shop Pay
