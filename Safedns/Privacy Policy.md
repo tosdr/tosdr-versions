@@ -1,6 +1,12 @@
 [![safedns logo](/_next/static/media/safedns-main-logo.3354086f.svg)](https://www.safedns.com/)
 
-[Features](https://www.safedns.com/features)[Pricing](https://www.safedns.com/pricing/business)[About](https://www.safedns.com/about-us)
+Pricing
+
+Features
+
+Resources
+
+[About](https://www.safedns.com/about-us)
 
 [Log in](https://www.safedns.com/auth/signin/?btn_name=login)[Free trial](https://www.safedns.com/auth/signup/?btn_name=free_trial_header)
 
