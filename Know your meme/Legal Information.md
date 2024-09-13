@@ -97,30 +97,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [![Kendrick Lamar's 'Top Of The Morning' Chant On Baby Keem's 'Range Brothers' Has Hip-Hop Heads Confused](https://i.kym-cdn.com/featured_items/icons/wide/000/025/827/keem.jpg "On This Day Three Years Ago Baby Keem's 'Range Brothers' Featuring Kendrick Lamar Leaked On Reddit")
+* [![Twitter Is Mocking the Scourge of YouTube "Rantsonas"](https://i.kym-cdn.com/featured_items/icons/wide/000/025/873/Rantsonas.png "It's The Anniversary Of The Term 'Rantsona'")
     
-    On This Day Three Years Ago Baby Keem's 'Range Brothers' Featuring Kendrick Lamar Leaked On Reddit](https://knowyourmeme.com/memes/baby-keems-range-brothers-featuring-kendrick-lamar-top-of-the-mornin)
+    It's The Anniversary Of The Term 'Rantsona'](https://knowyourmeme.com/memes/rantsona)
     
-* [![Nikocado Avocado Reveals His Dramatic 250 Lbs Weight Loss In A New Video, Claims That This All Has Been A 'Social Experiment'](https://i.kym-cdn.com/featured_items/icons/wide/000/025/826/cover11.jpg "Nikocado Avocado Reveals His Dramatic Weight Loss In A New Video, Claims That This All Has Been A 'Social Experiment'")
+* [![Thomas Jefferson drawn with purple hair wearing a Miku Hatsune binder and a sweater with the writing MET GOD SHE'S Black | historical figures on tumblr dot com ](https://i.kym-cdn.com/featured_items/icons/wide/000/025/872/Screen_Shot_2020-12-01_at_10.38.42_AM.png "It's The 7 Year Anniversary Of Miku Binder Thomas Jefferson")
     
-    Nikocado Avocado Reveals His Dramatic Weight Loss In A New Video, Claims That This All Has Been A 'Social Experiment'](https://knowyourmeme.com/memes/events/nikocado-avocados-weight-loss)
+    It's The 7 Year Anniversary Of Miku Binder Thomas Jefferson](https://knowyourmeme.com/memes/miku-binder-thomas-jefferson)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/025/825/ccc.jpg "What Is The 'I Am Steve' Meme? Jack Black's Viral 'Minecraft Movie' Scene Explained")
+* [![Sending Abdul From the Taliban a Picture of His House](https://i.kym-cdn.com/featured_items/icons/wide/000/025/871/abdul_from_the_taliban.jpg "Abdul, The Falsely Labeled 'Head Of The Taliban,' Was Allegedly Sent A Picture Of His House By Former President Trump")
     
-    What Is The 'I Am Steve' Meme? Jack Black's Viral 'Minecraft Movie' Scene Explained](https://knowyourmeme.com/editorials/guides/what-is-the-i-am-steve-meme-jack-blacks-viral-minecraft-movie-scene-explained)
+    Abdul, The Falsely Labeled 'Head Of The Taliban,' Was Allegedly Sent A Picture Of His House By Former President Trump](https://knowyourmeme.com/memes/sending-abdul-from-the-taliban-a-picture-of-his-house)
     
-* [![celebrity number 6 fabric next to alleged identity](https://i.kym-cdn.com/featured_items/icons/wide/000/025/824/2df.jpg "Years-Long Search For A Celebrity On A Piece Of Fabric Seemingly Comes To An End")
+* [![Alf meme examples](https://i.kym-cdn.com/featured_items/icons/wide/000/025/870/1d2.jpg "Memes About 'Alf' Being The 'Illegal Alien Eating Cats' Going Viral On Social Media Following The Presidential Debate")
     
-    Years-Long Search For A Celebrity On A Piece Of Fabric Seemingly Comes To An End](https://knowyourmeme.com/memes/celebrity-number-six)
+    Memes About 'Alf' Being The 'Illegal Alien Eating Cats' Going Viral On Social Media Following The Presidential Debate](https://knowyourmeme.com/memes/alf-eating-cats)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/025/823/hust.jpg "What Is The 'Humans Saw This And Invented Excel' Meme? The Viral Social Media Trend Explained")
+* [![Balkan Breakfast trend](https://i.kym-cdn.com/featured_items/icons/wide/000/025/869/50b.jpg "'Balkan Breakfast' Trend Of Eating Raw Vegetables And Salt With Your Bare Hands Rings True For Many Balkans")
     
-    What Is The 'Humans Saw This And Invented Excel' Meme? The Viral Social Media Trend Explained](https://knowyourmeme.com/editorials/guides/what-is-the-humans-saw-this-and-invented-excel-meme-the-viral-social-media-trend-explained)
+    'Balkan Breakfast' Trend Of Eating Raw Vegetables And Salt With Your Bare Hands Rings True For Many Balkans](https://knowyourmeme.com/memes/balkan-breakfast)
     
 
 ##### Also Trending:
 
-[Haitian Immigrants Eating Pets Rumor](https://knowyourmeme.com/memes/events/haitian-immigrants-eating-pets-and-geese-rumor "Haitian Immigrants Eating Pets Rumor") [I Am Steve](https://knowyourmeme.com/memes/i-am-steve "I Am Steve") [I Want to F an Elf Unprotected](https://knowyourmeme.com/memes/i-want-to-fuck-an-elf-unprotected "I Want to F an Elf Unprotected") [Donald Trump Cat and Duck AI Images](https://knowyourmeme.com/memes/donald-trump-cat-and-duck-ai-images "Donald Trump Cat and Duck AI Images")
+[Australian Senator Gen Z Slang Speech](https://knowyourmeme.com/memes/australian-senator-gen-z-slang-speech "Australian Senator Gen Z Slang Speech") [Kamala Earbuds Conspiracy Theory](https://knowyourmeme.com/memes/kamala-harris-nova-earbuds-or-tiffany-earrings-conspiracy-theory "Kamala Earbuds Conspiracy Theory") [Trump-Harris Presidential Debate](https://knowyourmeme.com/memes/events/september-2024-us-presidential-debate "Trump-Harris Presidential Debate")
 
 Copyright Infringement Notice
 =============================
@@ -186,7 +186,7 @@ Please be advised that we may terminate the accounts of repeat copyright infring
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Word Up! You must login or signup first!
+### Howdy! You must login or signup first!
 
 |     |     |
 | --- | --- |
