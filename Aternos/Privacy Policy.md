@@ -47,7 +47,9 @@ Besides that, we never save your **IP address** for the long term when you use o
   
 To be able to understand what happened when errors or problems occur, we save **miscellaneous activities** on our website in a log file, e.g. when you start your server, who enters or leaves your server, when you up- or download a world or when you change your email address or password. This data will not be processed automatically. It will only be used manually to solve errors or to help you.  
   
-Some **errors** that can occur in our system, e.g. different errors related to transferring files or when starting your Minecraft server are stored together with your username for up to 24 hours to detect unusual peak occurrences of those errors, to analyse those errors and to solve them.
+Some **errors** that can occur in our system, e.g. different errors related to transferring files or when starting your Minecraft server are stored together with your username for up to 24 hours to detect unusual peak occurrences of those errors, to analyse those errors and to solve them.  
+  
+Our website uses JavaScript to detect the use of **ad blocking extensions** for web browsers. This script is implemented in the source code of our website and does not store any information on your devices and processes no personal data. If we detect that a user deploys an ad blocker, we may interact with them on the use of ad blockers and/or adapt the content available to them. If you no longer wants us to use ad blocker detection mechanisms, you may opt-out by [closing your account](https://aternos.org/close/). We reserve the right to restrict access to our websites if you do not agree to the use of ad blocker detection mechanisms.
 
 Who has access to your data and why?
 ------------------------------------
