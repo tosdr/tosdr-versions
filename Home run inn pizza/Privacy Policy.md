@@ -27,11 +27,9 @@
 
 [Order Now](https://www.homeruninnpizza.com/order-online/)
 
-**H****OME RUN INN INC.’S**
-===========================
-
+**HOME RUN INN INC.’S**  
 **PRIVACY POLICY**
-==================
+============================================
 
 Home Run Inn, Inc. (“Home Run Inn”) values your privacy. This Privacy Policy applies to the Home Run Inn online and mobile web sites (collectively, the “Web Sites“) and the Home Run Inn platforms and applications owned and operated by Home Run Inn and our direct and indirect parents, subsidiaries and affiliates (“we,” “our,” “us“). This Privacy Policy describes how Home Run Inn collects, uses, and shares information provided through the Web Sites and Applications and information received from other sources. It also describes your rights and choices regarding our use and sharing of your information, including how you can access and update such information.
 
