@@ -10,13 +10,13 @@
 [个人信息保护政策](https://store.steamchina.com/privacy_agreement?snr=1_subscriberagreement_PrivacyAgreement__global-responsive-menu)  |   [个人信息出境告知书](https://store.steamchina.com/data_outbound?snr=1_subscriberagreement_PrivacyAgreement__global-responsive-menu)  |    
 [不良内容举报投诉](https://about.steamchina.com/content_report.html)  |   [侵权投诉](https://about.steamchina.com/infringement_report.html)  |   [家长监护](https://about.steamchina.com/parentguardianship_agreement.html)
 
-[![微博](https://store.steamchina.eccdnx.com/public/shared/images/footer/weibo_logo.svg?v=1)
+[![微博](https://store.steamchina.queniuam.com/public/shared/images/footer/weibo_logo.svg?v=1)
 
-微博](http://qr.weibo.cn/g/7kla92)[![微信](https://store.steamchina.eccdnx.com/public/shared/images/footer/wechat_logo.svg?v=1)
+微博](http://qr.weibo.cn/g/7kla92)[![微信](https://store.steamchina.queniuam.com/public/shared/images/footer/wechat_logo.svg?v=1)
 
 微信](http://weixin.qq.com/r/LC-K0i3EunDFrWmx93o_)
 
- [![](https://store.steamchina.eccdnx.com/public/shared/images/footer/pw_logo.svg?v=1)](https://www.wanmei.com/)[![](https://store.steamchina.eccdnx.com/public/shared/images/footer/valve_logo.svg?v=1)](https://www.valvesoftware.com/)
+ [![](https://store.steamchina.queniuam.com/public/shared/images/footer/pw_logo.svg?v=1)](https://www.wanmei.com/)[![](https://store.steamchina.queniuam.com/public/shared/images/footer/valve_logo.svg?v=1)](https://www.valvesoftware.com/)
 
 © 2024 Valve Corporation 版权所有，完美世界已获授权。  
 所有商标均属于其在美国或其他国家的拥有者。
@@ -24,11 +24,11 @@
 © 完美世界征奇(上海)多媒体科技有限公司 版权所有。  
 增值电信业务经营许可证沪B2-20180406
 
-![](https://store.steamchina.eccdnx.com/public/shared/images/responsive/header_menu_hamburger.png)
+![](https://store.steamchina.queniuam.com/public/shared/images/responsive/header_menu_hamburger.png)
 
-[![](https://store.steamchina.eccdnx.com/public/shared/images/header/logo_steamchina.svg)](https://store.steamchina.com/?snr=1_subscriberagreement_PrivacyAgreement__global-responsive-menu)
+[![](https://store.steamchina.queniuam.com/public/shared/images/header/logo_steamchina.svg)](https://store.steamchina.com/?snr=1_subscriberagreement_PrivacyAgreement__global-responsive-menu)
 
-[![](https://store.steamchina.eccdnx.com/public/shared/images/header/logo_steamchina.svg?t=962016)](https://store.steamchina.com/?snr=1_subscriberagreement_PrivacyAgreement__global-header)
+[![](https://store.steamchina.queniuam.com/public/shared/images/header/logo_steamchina.svg?t=962016)](https://store.steamchina.com/?snr=1_subscriberagreement_PrivacyAgreement__global-header)
 
 [商店](https://store.steamchina.com/?snr=1_subscriberagreement_PrivacyAgreement__global-header)
 
@@ -468,18 +468,18 @@
 
 16\. “**控制**”：系指直接或间接地拥有影响所提及公司管理的能力，无论是通过所有权、有投票权的股份、合同或其他被人民法院认定的方式。
 
-[![](https://store.steamchina.eccdnx.com/public/shared/images/footer/steam_logo.svg?v=1)](https://store.steamchina.com/?snr=1_44_44_)
+[![](https://store.steamchina.queniuam.com/public/shared/images/footer/steam_logo.svg?v=1)](https://store.steamchina.com/?snr=1_44_44_)
 
 [公告](https://about.steamchina.com/upgrade_announcement.html)  |   [关于蒸汽平台](https://store.steamchina.com/about?snr=1_44_44_)  |   [退款政策](https://store.steamchina.com/steam_refunds?snr=1_44_44_)  |   [软件许可服务协议](https://store.steamchina.com/subscriber_agreement?snr=1_44_44_)  |   [个人信息保护政策](https://store.steamchina.com/privacy_agreement?snr=1_44_44_)  |   [个人信息出境告知书](https://store.steamchina.com/data_outbound?snr=1_44_44_)  |   [不良内容举报投诉](https://about.steamchina.com/content_report.html)  |    
 [侵权投诉](https://about.steamchina.com/infringement_report.html)  |   [家长监护](https://about.steamchina.com/parentguardianship_agreement.html)
 
- [![](https://store.steamchina.eccdnx.com/public/shared/images/footer/pw_logo.svg?v=1)](https://www.wanmei.com/)[![](https://store.steamchina.eccdnx.com/public/shared/images/footer/valve_logo.svg?v=1)](https://www.valvesoftware.com/)
+ [![](https://store.steamchina.queniuam.com/public/shared/images/footer/pw_logo.svg?v=1)](https://www.wanmei.com/)[![](https://store.steamchina.queniuam.com/public/shared/images/footer/valve_logo.svg?v=1)](https://www.valvesoftware.com/)
 
-![微博](https://store.steamchina.eccdnx.com/public/shared/images/footer/weibo_logo.svg?v=1)
+![微博](https://store.steamchina.queniuam.com/public/shared/images/footer/weibo_logo.svg?v=1)
 
 微博
 
-![微信](https://store.steamchina.eccdnx.com/public/shared/images/footer/wechat_logo.svg?v=1)
+![微信](https://store.steamchina.queniuam.com/public/shared/images/footer/wechat_logo.svg?v=1)
 
 微信
 
