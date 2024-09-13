@@ -382,17 +382,13 @@ Updated: April 26, 2021.
 
 * 1355 Peachtree St NE Suite 600
 * Atlanta, GA 30309
-* Helpline: [1-800-283-7800](tel:800-283-7800)
+* [Helpline](https://www.arthritis.org/helpline) | [1-800-283-7800](tel:800-283-7800)
 * [Contact Us](https://www.arthritis.org/about-us/contact-us)
 
-North Bergen, NJ
+Atlanta, GA
 
-72° Arthritis Index Beneficial
+70° Arthritis Index Neutral
 
 [See More Details](https://www.arthritis.org/weather)
 
 Arthritis Foundation is a qualified 501(c)(3) EIN 58-1341679[](https://www.facebook.com/Arthritis.org/)[](https://www.instagram.com/arthritisfoundation/)[](https://www.linkedin.com/company/arthritis-foundation)[](https://twitter.com/ArthritisFdn)
-
-[I Want to Donate](https://www.arthritis.org/about-us/privacy-notice?form=FUNMPPXNHEF)
-
-[I Need Help](https://www.arthritis.org/helpline)
