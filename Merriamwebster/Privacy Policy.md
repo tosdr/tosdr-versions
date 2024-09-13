@@ -9,8 +9,8 @@ Menu Toggle [Merriam-Webster Logo](https://www.merriam-webster.com/ "Merriam Web
 * [Thesaurus](https://www.merriam-webster.com/thesaurus)
 * [Join MWU](https://unabridged.merriam-webster.com/subscriber/register/p1?refc=HDR_GLOBAL_JOINMWU)
 * * Shop
-    * [Books ![link icon](/dist-cross-dungarees/2024-09-05--19-59-30-rvhre/images/svg/link-icon.svg)](https://shop.merriam-webster.com/?utm_source=mwsite&utm_medium=nav&utm_content=header) 
-    * [Merch ![link icon](/dist-cross-dungarees/2024-09-05--19-59-30-rvhre/images/svg/link-icon.svg)](https://merriamwebster.threadless.com/?utm_source=mwsite&utm_medium=nav&utm_content=header) 
+    * [Books ![link icon](/dist-cross-dungarees/2024-09-12--20-35-33-m58bx/images/svg/link-icon.svg)](https://shop.merriam-webster.com/?utm_source=mwsite&utm_medium=nav&utm_content=header) 
+    * [Merch ![link icon](/dist-cross-dungarees/2024-09-12--20-35-33-m58bx/images/svg/link-icon.svg)](https://merriamwebster.threadless.com/?utm_source=mwsite&utm_medium=nav&utm_content=header) 
 * * Settings
     * [My Words](https://www.merriam-webster.com/saved-words)
     * [Recents](https://www.merriam-webster.com/recents)
@@ -18,10 +18,10 @@ Menu Toggle [Merriam-Webster Logo](https://www.merriam-webster.com/ "Merriam Web
     * [Log Out](https://www.merriam-webster.com/logout)
 * [More](javascript:void(0);)
     * [Thesaurus](https://www.merriam-webster.com/thesaurus)
-    * [Join MWU ![link icon](/dist-cross-dungarees/2024-09-05--19-59-30-rvhre/images/svg/link-icon.svg)](https://unabridged.merriam-webster.com/subscriber/register/p1?refc=HDR_GLOBAL_JOINMWU) 
+    * [Join MWU ![link icon](/dist-cross-dungarees/2024-09-12--20-35-33-m58bx/images/svg/link-icon.svg)](https://unabridged.merriam-webster.com/subscriber/register/p1?refc=HDR_GLOBAL_JOINMWU) 
     * Shop
-    * [Books ![link icon](/dist-cross-dungarees/2024-09-05--19-59-30-rvhre/images/svg/link-icon.svg)](https://shop.merriam-webster.com/?utm_source=mwsite&utm_medium=nav&utm_content=header) 
-    * [Merch ![link icon](/dist-cross-dungarees/2024-09-05--19-59-30-rvhre/images/svg/link-icon.svg)](https://merriamwebster.threadless.com/?utm_source=mwsite&utm_medium=nav&utm_content=header) 
+    * [Books ![link icon](/dist-cross-dungarees/2024-09-12--20-35-33-m58bx/images/svg/link-icon.svg)](https://shop.merriam-webster.com/?utm_source=mwsite&utm_medium=nav&utm_content=header) 
+    * [Merch ![link icon](/dist-cross-dungarees/2024-09-12--20-35-33-m58bx/images/svg/link-icon.svg)](https://merriamwebster.threadless.com/?utm_source=mwsite&utm_medium=nav&utm_content=header) 
     
     * [Log In](https://www.merriam-webster.com/login)
     * Username
@@ -419,11 +419,11 @@ Missing Letter A daily crossword with a twist
 
 Play](https://www.merriam-webster.com/games/missing-letter)
 
-[![vector art of man ready to cut messy balls of thread with scissors](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+[![cow coming home](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-Commonly Confused Words Quiz Vol. 2 A quiz to (peak/peek/pique) your interest.
+Farm Idioms Quiz If you've got a pig in a poke - what exactly is a...
 
-Take the quiz](https://www.merriam-webster.com/games/commonly-confused-quiz-2)
+Take the quiz](https://www.merriam-webster.com/games/farm-words)
 
 [Merriam Webster](https://www.merriam-webster.com/)
 
