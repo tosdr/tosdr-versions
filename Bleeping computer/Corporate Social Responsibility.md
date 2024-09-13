@@ -23,31 +23,31 @@
     * [Featured](#nfeatured)
     * [Latest](#nlatest)
     
-    * [![Microsoft Office 2024 to disable ActiveX controls by default](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Fake password manager coding test used to hack Python developers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Microsoft Office 2024 to disable ActiveX controls by default](https://www.bleepingcomputer.com/news/microsoft/microsoft-office-2024-to-disable-activex-controls-by-default/)
-    * [![Sextortion scams now use your ](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Fake password manager coding test used to hack Python developers](https://www.bleepingcomputer.com/news/security/fake-password-manager-coding-test-used-to-hack-python-developers/)
+    * [![Fortinet confirms data breach after hacker claims to steal 440GB of files](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Sextortion scams now use your "cheating" spouse’s name as a lure](https://www.bleepingcomputer.com/news/security/sextortion-scams-now-use-your-cheating-spouses-name-as-a-lure/)
-    * [![Critical SonicWall SSLVPN bug exploited in ransomware attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Fortinet confirms data breach after hacker claims to steal 440GB of files](https://www.bleepingcomputer.com/news/security/fortinet-confirms-data-breach-after-hacker-claims-to-steal-440gb-of-files/)
+    * [![Hackers targeting WhatsUp Gold with public exploit since August](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Critical SonicWall SSLVPN bug exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/critical-sonicwall-sslvpn-bug-exploited-in-ransomware-attacks/)
-    * [![Meta fixes easily bypassed WhatsApp ‘View Once’ privacy feature](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Hackers targeting WhatsUp Gold with public exploit since August](https://www.bleepingcomputer.com/news/security/hackers-targeting-whatsup-gold-with-public-exploit-since-august/)
+    * [![FBI: Reported cryptocurrency losses reached $5.6 billion in 2023](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Meta fixes easily bypassed WhatsApp ‘View Once’ privacy feature](https://www.bleepingcomputer.com/news/security/meta-fixes-easily-bypassed-whatsapp-view-once-privacy-feature/)
+        FBI: Reported cryptocurrency losses reached $5.6 billion in 2023](https://www.bleepingcomputer.com/news/security/fbi-reported-cryptocurrency-losses-reached-56-billion-in-2023/)
     
-    * [![Wix.com to block Russian users starting September 12](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![New Vo1d malware infects 1.3 million Android streaming boxes](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Wix.com to block Russian users starting September 12](https://www.bleepingcomputer.com/news/legal/wixcom-to-block-russian-users-starting-september-12/)
-    * [![Microsoft to start force-upgrading Windows 22H2 systems next month](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        New Vo1d malware infects 1.3 million Android streaming boxes](https://www.bleepingcomputer.com/news/security/new-vo1d-malware-infects-13-million-android-streaming-boxes/)
+    * [![FBI: Reported cryptocurrency losses reached $5.6 billion in 2023](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Microsoft to start force-upgrading Windows 22H2 systems next month](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-start-force-upgrading-windows-22h2-systems-next-month/)
-    * [![Navigating Endpoint Privilege Management: Insights for CISOs and Admins   ](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        FBI: Reported cryptocurrency losses reached $5.6 billion in 2023](https://www.bleepingcomputer.com/news/security/fbi-reported-cryptocurrency-losses-reached-56-billion-in-2023/)
+    * [![Fortinet confirms data breach after hacker claims to steal 440GB of files](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Navigating Endpoint Privilege Management: Insights for CISOs and Admins](https://www.bleepingcomputer.com/news/security/navigating-endpoint-privilege-management-insights-for-cisos-and-admins/)
-    * [![Flipper Zero releases Firmware 1.0 after three years of development](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Fortinet confirms data breach after hacker claims to steal 440GB of files](https://www.bleepingcomputer.com/news/security/fortinet-confirms-data-breach-after-hacker-claims-to-steal-440gb-of-files/)
+    * [![UK arrests teen linked to Transport for London cyber attack](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Flipper Zero releases Firmware 1.0 after three years of development](https://www.bleepingcomputer.com/news/hardware/flipper-zero-releases-firmware-10-after-three-years-of-development/)
+        UK arrests teen linked to Transport for London cyber attack](https://www.bleepingcomputer.com/news/security/uk-arrests-teen-linked-to-transport-for-london-cyber-attack/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -302,16 +302,22 @@ BleepingComputer.com has partnered with [StackCommerce](https://stackcommerce.co
 
 If you have any questions or concerns regarding these policies, please free to contact us here: [https://www.bleepingcomputer.com/contact/](https://www.bleepingcomputer.com/contact/)
 
-[![Mandiant mWise Conference 2024](https://www.bleepstatic.com/c/m/mandiant/registration-general_last-chance-go-time.jpg)](https://www.bleepingcomputer.com/mgo/61/)
+[![Mandiant mWise Conference 2024](https://www.bleepstatic.com/c/m/mandiant/registration-general_last-chance-cant-miss.jpg)](https://www.bleepingcomputer.com/mgo/60/)
 
 Popular Stories
 
-* [![Hacker card](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![Fortinet](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Payment gateway data breach affects 1.7 million credit card owners](https://www.bleepingcomputer.com/news/security/payment-gateway-data-breach-affects-17-million-credit-card-owners/)
-* [![Progress](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    Fortinet confirms data breach after hacker claims to steal 440GB of files](https://www.bleepingcomputer.com/news/security/fortinet-confirms-data-breach-after-hacker-claims-to-steal-440gb-of-files/)
+* [![Software Developer](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Progress LoadMaster vulnerable to 10/10 severity RCE flaw](https://www.bleepingcomputer.com/news/security/progress-loadmaster-vulnerable-to-10-10-severity-rce-flaw/)
+    Fake password manager coding test used to hack Python developers](https://www.bleepingcomputer.com/news/security/fake-password-manager-coding-test-used-to-hack-python-developers/)
+* [![Adobe](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    Adobe fixes Acrobat Reader zero-day with public PoC exploit](https://www.bleepingcomputer.com/news/security/adobe-fixes-acrobat-reader-zero-day-with-public-poc-exploit/)
+* [![Android TV](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    New Vo1d malware infects 1.3 million Android streaming boxes](https://www.bleepingcomputer.com/news/security/new-vo1d-malware-infects-13-million-android-streaming-boxes/)
 
 Latest Downloads
 
@@ -337,7 +343,7 @@ Latest Downloads
     
     Version: 1.33.075
     
-    **55,298 _Downloads_**
+    **55,347 _Downloads_**
     
 * ![PuTTY Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -345,7 +351,7 @@ Latest Downloads
     
     Version: 0.81
     
-    **43,157 _Downloads_**
+    **43,255 _Downloads_**
     
 * ![BitDefender Uninstall Tool Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -353,7 +359,7 @@ Latest Downloads
     
     Version: NA
     
-    **104,179 _Downloads_**
+    **104,223 _Downloads_**
     
 
 ##### Follow us:
