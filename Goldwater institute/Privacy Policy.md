@@ -96,7 +96,7 @@ The Goldwater Institute’s Web server does not automatically recognize a visito
 
 If you sign up to receive email but later decide you do not want to receive e-mail , please [send an email](mailto:info@goldwaterinstitute.org) requesting to be removed from the email list.
 
-If you supply us with your postal address you may receive periodic mailings with information on new policy reports or upcoming events. If you do not wish to receive postal mail, please [send an email](mailto:info@goldwaterinstitute.org) requesting to be removed from the mailing list.
+If you supply us with your postal address you may receive periodic mailings with information on new policy reports or upcoming events. If you do not wish to receive postal mail, please [send an email](mailto:info@goldwaterinstitute.org) requesting to be removed from the mailing list. SMS opt-in consent will not be shared with third parties.
 
 To learn more about how the Institute protects your privacy as a donor, please click [here](https://www.goldwaterinstitute.org/wp-content/uploads/2018/02/DONOR-CONFIDENTIALITY.pdf).
 
