@@ -26,7 +26,7 @@ When you register with Headspace, we understand that you are choosing to place y
 * * *
 
   
-Effective: June 14, 2024.  
+Effective: June 17, 2024.  
   
 If you are visually impaired, have another disability or seek support in other languages, you may access these Terms by emailing us at help@headspace.com.  
   
@@ -277,7 +277,7 @@ Notwithstanding anything to the contrary in these Terms, Headspace’s affiliate
 9\. ASSUMPTION OF RISK
 ----------------------
 
-By granting you the right to use the Products or Services, the Headspace Entities (as defined in Section 14) do not assume any obligation or liability with respect to your health or your physical activity or condition. In no event will the Headspace Entities be liable for any death or bodily injury that you suffer, or that you cause to any third party, in connection with your use of the Products or Services or any activity you undertake in connection therewith. As between you and the Headspace Entities, you are solely responsible for your use of the Products and Services and your health and medical conditions and treatment related thereto. The Headspace Entities will have no liability for any unauthorized disclosure of your personally identifiable information caused by your actions or omissions.
+By granting you the right to use the Products or Services, the Headspace Entities (as defined in Section 15) do not assume any obligation or liability with respect to your health or your physical activity or condition. In no event will the Headspace Entities be liable for any death or bodily injury that you suffer, or that you cause to any third party, in connection with your use of the Products or Services or any activity you undertake in connection therewith. As between you and the Headspace Entities, you are solely responsible for your use of the Products and Services and your health and medical conditions and treatment related thereto. The Headspace Entities will have no liability for any unauthorized disclosure of your personally identifiable information caused by your actions or omissions.
 
 EXCEPT AS OTHERWISE EXPRESSLY SET FORTH IN THIS AGREEMENT, YOU AGREE THAT:
 
@@ -371,7 +371,7 @@ You may not export or re-export any Products except in full compliance with all 
 
 You may not access to the Products or Services or any features thereof from countries or territories where such access is illegal, banned or restricted, including in any sanctioned countries or territories.
 
-SOME JURISDICTIONS DO NOT ALLOW EXCLUSION OF CERTAIN TYPES OF WARRANTIES AND CONDITIONS OR LIMITATIONS ON CERTAIN TYPES OF DAMAGES, SO SOME OF THE DISCLAIMERS IN SECTION 10 OR LIMITATIONS IN SECTION 14.3 MAY NOT APPLY TO YOU.
+SOME JURISDICTIONS DO NOT ALLOW EXCLUSION OF CERTAIN TYPES OF WARRANTIES AND CONDITIONS OR LIMITATIONS ON CERTAIN TYPES OF DAMAGES, SO SOME OF THE DISCLAIMERS IN SECTION 10 OR LIMITATIONS IN SECTION 15.3 MAY NOT APPLY TO YOU.
 
 14\. DISPUTE RESOLUTION & BINDING ARBITRATION
 ---------------------------------------------
