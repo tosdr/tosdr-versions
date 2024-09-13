@@ -277,4 +277,4 @@ Retrieved from "[https://wiki.gentoo.org/index.php?title=Foundation:Privacy\_Pol
 * [](https://www.facebook.com/gentoo.org "Gentoo on Facebook")
 
 **© 2001–2024 Gentoo Authors**  
-Gentoo is a trademark of the Gentoo Foundation, Inc. The contents of this document, unless otherwise expressly stated, are licensed under the [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/) license. The [Gentoo Name and Logo Usage Guidelines](https://www.gentoo.org/inside-gentoo/foundation/name-logo-guidelines.html) apply.
+Gentoo is a trademark of the Gentoo Foundation, Inc. and of Förderverein Gentoo e.V. The contents of this document, unless otherwise expressly stated, are licensed under the [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/) license. The [Gentoo Name and Logo Usage Guidelines](https://www.gentoo.org/inside-gentoo/foundation/name-logo-guidelines.html) apply.
