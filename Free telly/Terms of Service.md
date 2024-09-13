@@ -11,7 +11,7 @@ Terms of Service
 
 Welcome to Telly, the ultimate free television upgrade for the living room. Please read on to learn the rules and restrictions that govern your use of our website(s), products, services and applications (the “Services”), including, without limitation, any request to receive information about, or to acquire any product made available by Telly (each, a “Product”). Your acquisition of any Products will also be governed by any other terms made available by us to you during the sign-up process. If you have any questions, comments, or concerns regarding these terms or the Services, please contact us at:
 
-Email: [support@freetelly.com](http://support@freetelly.com/)
+Email: [support@telly.com](http://support@telly.com/)
 
 These Terms of Use (the “Terms”) are a binding contract between you and TELLY, INC. (“Telly,” “we” and “us”). Your use of the Services in any way means that you agree to all of these Terms, and these Terms will remain in effect while you use the Services. These Terms include the provisions in this document as well as those in the Privacy Policy www.freetelly.com, any other relevant policies and any other accompanying terms and conditions of sale entered into between you and us for the sale of any Products. Your use of or participation in certain Services may also be subject to additional policies, rules and/or conditions (“Additional Terms”), which are incorporated herein by reference, and you understand and agree that by using or participating in any such Services, you agree to also comply with these Additional Terms.
 
