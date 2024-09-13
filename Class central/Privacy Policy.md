@@ -395,11 +395,11 @@ The future of Coursera’s only credible alternative for universities rests in t
 
 ##### Latest
 
-1. [\[2024\] 1800+ Coursera Courses Still Completely Free](https://www.classcentral.com/report/coursera-free-online-courses/)
-2. [7 Best Autodesk Maya Courses for 2024: Exploring 3D Animation](https://www.classcentral.com/report/best-autodesk-maya-courses/)
-3. [\[2024\] The 100 Top FREE EdX Courses of All Time](https://www.classcentral.com/report/edx-top-courses/)
-4. [15 Best Lisp Courses for 2024](https://www.classcentral.com/report/best-lisp-courses/)
-5. [8 Best Adobe XD Courses for 2024](https://www.classcentral.com/report/best-adobe-xd-courses/)
+1. [1000s of Free Digital Marketing Courses](https://www.classcentral.com/report/digital-marketing-online-courses-moocs/)
+2. [10 Best Data Analysis Courses for 2024: From Data to Insights](https://www.classcentral.com/report/best-data-analysis-courses/)
+3. [Replacing Bad Study Habits with Effective Learning Techniques](https://www.classcentral.com/report/study-habits/)
+4. [\[2024\] 1800+ Coursera Courses Still Completely Free](https://www.classcentral.com/report/coursera-free-online-courses/)
+5. [7 Best Autodesk Maya Courses for 2024: Exploring 3D Animation](https://www.classcentral.com/report/best-autodesk-maya-courses/)
 
 [Visit _The Report_](https://www.classcentral.com/report/)
 
@@ -410,11 +410,11 @@ The future of Coursera’s only credible alternative for universities rests in t
 Most common
 -----------
 
-1. psychology
+1. hacking
     
-2. graphic design
+2. c
     
-3. html
+3. psychology
     
 
 Popular subjects
@@ -425,23 +425,23 @@ Popular subjects
     3,371 courses](https://www.classcentral.com/subject/communication-skills)
 2. [Data Analysis
     
-    6,926 courses](https://www.classcentral.com/subject/data-analysis)
-3. [Digital Marketing
+    6,927 courses](https://www.classcentral.com/subject/data-analysis)
+3. [Python
     
-    5,460 courses](https://www.classcentral.com/subject/digital-marketing)
+    7,813 courses](https://www.classcentral.com/subject/python)
 
 Popular courses
 ---------------
 
-1. [Greening the Economy: Sustainable Cities
+1. [The Emergence of the Modern Middle East - Part I
     
-    Lund University](https://www.classcentral.com/course/gte-sustainable-cities-4851)
-2. [Product Management Essentials
+    Tel Aviv University](https://www.classcentral.com/course/modernmiddleeast1-976)
+2. [Whole genome sequencing of bacterial genomes - tools and applications
     
-    University of Maryland, College Park](https://www.classcentral.com/course/product-management-essentials-46400)
-3. [El rol de la digitalización en la transición energética
+    Technical University of Denmark (DTU)](https://www.classcentral.com/course/wgs-bacteria-8907)
+3. [Positive Psychiatry and Mental Health
     
-    Galileo University](https://www.classcentral.com/course/energy-universidad-galileo-el-rol-de-la-digitaliz-48104)
+    The University of Sydney](https://www.classcentral.com/course/positive-psychiatry-8783)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
