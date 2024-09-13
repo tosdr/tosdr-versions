@@ -260,5 +260,3 @@ Connect With Us
  [![Get it on Google Play](https://simplenursing.com/wp-content/themes/simplenursing-bootstrap/images/button-download-google-play-download.svg)](https://play.google.com/store/apps/details?id=com.simple.simplenursing "Get it on Google Play")[![Download on the App Store](https://simplenursing.com/wp-content/themes/simplenursing-bootstrap/images/button-download-apple-download.svg)](https://apps.apple.com/us/app/simplenursing/id1491093181 "Download on the App Store")
 
 Copyright © 2024 SimpleNursing.com. All Rights Reserved.
-
-![](https://www.facebook.com/tr?id=1368568374090462&ev=PageView&noscript=1)
