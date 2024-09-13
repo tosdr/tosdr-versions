@@ -300,7 +300,7 @@ Terms of Service
 
 * This guide is designed to assist customers in their completion of the New Relic Data Processing Addendum.
 
-[Developer Terms and Conditions](https://docs.newrelic.com/docs/licenses/product-or-service-licenses/new-relic-developer-edition/developer-program/)
+[Developer Terms and Conditions](https://newrelic.com/termsandconditions/developers)
 
 [New Relic Service Specific Terms](https://newrelic.com/termsandconditions/service-specific)
 
