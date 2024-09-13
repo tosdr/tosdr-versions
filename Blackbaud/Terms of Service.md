@@ -108,9 +108,6 @@ Main Navigation
     * [The Blackbaud Difference
         
         Discover why we're your best partner](https://www.blackbaud.com/why-blackbaud)
-    * [Our Vision
-        
-        Build a Better World](https://www.blackbaud.com/company/build-a-better-world)
     * [Blackbaud Institute
         
         Industry-leading research and insights](https://institute.blackbaud.com/)
