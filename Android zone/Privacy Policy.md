@@ -97,6 +97,6 @@ Important Information
 
 This website uses cookies. To learn more, visit our [Privacy Policy](https://android-zone.ws/privacy/).
 
-  [I accept](https://android-zone.ws/index.php?app=core&module=system&controller=terms&do=dismiss&ref=aHR0cHM6Ly9hbmRyb2lkLXpvbmUud3Mv&csrfKey=b8df8577b20bde6b4b0196e8ae199c22)
+  [I accept](https://android-zone.ws/index.php?app=core&module=system&controller=terms&do=dismiss&ref=aHR0cHM6Ly9hbmRyb2lkLXpvbmUud3Mv&csrfKey=b40706b47669a9c7d5ae563c59766504)
 
  Change theme
