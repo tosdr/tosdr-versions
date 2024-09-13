@@ -18,7 +18,7 @@
     * [CURRENT CASES](https://firstliberty.org/cases-status/active/)
     * [PAST CASES](https://firstliberty.org/cases-status/resolved/)
     * [SUPREME COURT VICTORIES](https://firstliberty.org/supreme-court-cases/)
-    * [COVID-19: VICTORIES](https://firstliberty.org/covidvictories/)
+    * [KEY VICTORIES](https://firstliberty.org/key-victories/)
 * [NEWS](https://firstliberty.org/news)
     * [FLI INSIDER](https://firstliberty.org/news)
     * [FIRST LIBERTY LIVE!](https://firstlibertylive.com/)
