@@ -30,8 +30,7 @@ Site Navigation
     * [Circle of Hope](https://www.hopelink.org/take-action/circle-of-hope/)
 * [Events](https://www.hopelink.org/events/)
     * [Upcoming Events](https://www.hopelink.org/events/)
-    * [Farm Fresh Feast](https://www.hopelink.org/events/farm-fresh-feast/)
-    * [Neighborhood Fair](https://www.hopelink.org/events/hopelink-neighborhood-fair/)
+    * [Employment Fair](https://www.hopelink.org/events/hopelink-employment-fair/)
     * [Reaching Out Luncheon](https://www.hopelink.org/events/reaching-out-luncheon/)
 * [About Us](https://www.hopelink.org/about-us/)
     * [About Us](https://www.hopelink.org/about-us/)
@@ -90,8 +89,7 @@ Open navigation
 
 * [Main Menu](#)
 * [Upcoming Events](https://www.hopelink.org/events/)
-* [Farm Fresh Feast](https://www.hopelink.org/events/farm-fresh-feast/)
-* [Neighborhood Fair](https://www.hopelink.org/events/hopelink-neighborhood-fair/)
+* [Employment Fair](https://www.hopelink.org/events/hopelink-employment-fair/)
 * [Reaching Out Luncheon](https://www.hopelink.org/events/reaching-out-luncheon/)
 
 * [Main Menu](#)
