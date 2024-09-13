@@ -77,79 +77,11 @@ All
 
 [Information Sheets](https://www.bunq.com/assets/media/legal/en/documents/information-sheets)
 
-[![](https://framerusercontent.com/images/J4i5bKR08B4tTV2n6q0RO19A.svg)
-
-### Pricing Sheet
-
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/pricing)
-
-[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
-
-### Personal Account T&C
-
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/personal-account)
-
-[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
-
-### Business Account T&C
-
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/business-account)
-
 [![](https://framerusercontent.com/images/R0LcO6NqpZTJjHILi6boqxmLw.svg)
 
-### Privacy Policy
+### Operational Resilience Policy
 
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/privacy)
-
-[![](https://framerusercontent.com/images/R0LcO6NqpZTJjHILi6boqxmLw.svg)
-
-### Cookie Statement
-
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/cookies)
-
-[![](https://framerusercontent.com/images/R0LcO6NqpZTJjHILi6boqxmLw.svg)
-
-### Data Classification Policy
-
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/data-classification-policy)
-
-[![](https://framerusercontent.com/images/J4i5bKR08B4tTV2n6q0RO19A.svg)
-
-### Depositor Information Sheet
-
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/dgs)
-
-[![](https://framerusercontent.com/images/R0LcO6NqpZTJjHILi6boqxmLw.svg)
-
-### Environmental, Social and Governance Policy
-
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/environmental-social-and-governance)
-
-[![](https://framerusercontent.com/images/J4i5bKR08B4tTV2n6q0RO19A.svg)
-
-### Suspecting Fraud Information Sheet
-
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/suspect-fraud)
-
-[![](https://framerusercontent.com/images/J4i5bKR08B4tTV2n6q0RO19A.svg)
-
-### Recognizing Fraud Information Sheet
-
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/recognize-fraud)
-
-Load more
-
-![icon entry point for Site Search](https://framerusercontent.com/images/7P9NYdUF6WL8xPNH8CdC2hhlLjc.svg)
-
-All
-
-[Terms & Conditions](https://www.bunq.com/assets/media/legal/en/documents/terms-conditions)
-
-[Policies & Standards](https://www.bunq.com/assets/media/legal/en/documents/policies-standards)
-
-[Reports & Statements](https://www.bunq.com/assets/media/legal/en/documents/reports-statements)
-
-[Information Sheets](https://www.bunq.com/assets/media/legal/en/documents/information-sheets)
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/operational-resilience-policy)
 
 [![](https://framerusercontent.com/images/J4i5bKR08B4tTV2n6q0RO19A.svg)
 
@@ -205,11 +137,79 @@ All
 
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/suspect-fraud)
 
+Load more
+
+![icon entry point for Site Search](https://framerusercontent.com/images/7P9NYdUF6WL8xPNH8CdC2hhlLjc.svg)
+
+All
+
+[Terms & Conditions](https://www.bunq.com/assets/media/legal/en/documents/terms-conditions)
+
+[Policies & Standards](https://www.bunq.com/assets/media/legal/en/documents/policies-standards)
+
+[Reports & Statements](https://www.bunq.com/assets/media/legal/en/documents/reports-statements)
+
+[Information Sheets](https://www.bunq.com/assets/media/legal/en/documents/information-sheets)
+
+[![](https://framerusercontent.com/images/R0LcO6NqpZTJjHILi6boqxmLw.svg)
+
+### Operational Resilience Policy
+
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/operational-resilience-policy)
+
 [![](https://framerusercontent.com/images/J4i5bKR08B4tTV2n6q0RO19A.svg)
 
-### Recognizing Fraud Information Sheet
+### Pricing Sheet
 
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/recognize-fraud)
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/pricing)
+
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
+
+### Personal Account T&C
+
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/personal-account)
+
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
+
+### Business Account T&C
+
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/business-account)
+
+[![](https://framerusercontent.com/images/R0LcO6NqpZTJjHILi6boqxmLw.svg)
+
+### Privacy Policy
+
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/privacy)
+
+[![](https://framerusercontent.com/images/R0LcO6NqpZTJjHILi6boqxmLw.svg)
+
+### Cookie Statement
+
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/cookies)
+
+[![](https://framerusercontent.com/images/R0LcO6NqpZTJjHILi6boqxmLw.svg)
+
+### Data Classification Policy
+
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/data-classification-policy)
+
+[![](https://framerusercontent.com/images/J4i5bKR08B4tTV2n6q0RO19A.svg)
+
+### Depositor Information Sheet
+
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/dgs)
+
+[![](https://framerusercontent.com/images/R0LcO6NqpZTJjHILi6boqxmLw.svg)
+
+### Environmental, Social and Governance Policy
+
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/environmental-social-and-governance)
+
+[![](https://framerusercontent.com/images/J4i5bKR08B4tTV2n6q0RO19A.svg)
+
+### Suspecting Fraud Information Sheet
+
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/suspect-fraud)
 
 Load more
 
@@ -224,6 +224,12 @@ All
 [Reports & Statements](https://www.bunq.com/assets/media/legal/en/documents/reports-statements)
 
 [Information Sheets](https://www.bunq.com/assets/media/legal/en/documents/information-sheets)
+
+[![](https://framerusercontent.com/images/R0LcO6NqpZTJjHILi6boqxmLw.svg)
+
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
+
+### Operational Resilience Policy](https://www.bunq.com/assets/media/legal/en/documents/operational-resilience-policy)
 
 [![](https://framerusercontent.com/images/J4i5bKR08B4tTV2n6q0RO19A.svg)
 
@@ -278,12 +284,6 @@ All
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
 
 ### Suspecting Fraud Information Sheet](https://www.bunq.com/assets/media/legal/en/documents/suspect-fraud)
-
-[![](https://framerusercontent.com/images/J4i5bKR08B4tTV2n6q0RO19A.svg)
-
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
-
-### Recognizing Fraud Information Sheet](https://www.bunq.com/assets/media/legal/en/documents/recognize-fraud)
 
 Load more
 
