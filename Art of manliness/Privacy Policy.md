@@ -45,6 +45,10 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 * [Facial Hair](https://www.artofmanliness.com/style/facial-hair/)
 * [Ties](https://www.artofmanliness.com/style/ties/)
 
+[![](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/style/clothing/iron-your-jeans/)
+
+[Iron Your Jeans, Pardner](https://www.artofmanliness.com/style/clothing/iron-your-jeans/)
+
 [![A man in a fitted, tucked-in white t-shirt and dark pants stands casually against a textured wall with one hand in his pocket, in a black-and-white photo.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/style/clothing/tucking-in-your-t-shirt/)
 
 [Tucking in Your T-Shirt](https://www.artofmanliness.com/style/clothing/tucking-in-your-t-shirt/)
@@ -56,10 +60,6 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 [![Close-up of the back patch label on a pair of Levi's 501 original shrink-to-fit jeans, serving as a guide to the brand and fit style.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/style/clothing/a-guide-to-shrinking-levis-501-shrink-to-fit-jeans/)
 
 [A Guide to Shrinking Levi’s 501 Shrink-to-Fit Jeans](https://www.artofmanliness.com/style/clothing/a-guide-to-shrinking-levis-501-shrink-to-fit-jeans/)
-
-[![Man in a white long-sleeve Henley shirt with folded arms, showcasing one of the stylish ways to wear it.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/style/clothing/3-ways-to-wear-a-henley-shirt/)
-
-[3 Ways to Wear a Henley Shirt](https://www.artofmanliness.com/style/clothing/3-ways-to-wear-a-henley-shirt/)
 
 [![A man is holding a spray bottle and another man is following proper dos and don'ts in applying cologne.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/style/accessories/how-to-apply-cologne/)
 
@@ -115,6 +115,10 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 * [Health](https://www.artofmanliness.com/health-fitness/health/)
 * [Program Review](https://www.artofmanliness.com/health-fitness/program-review/)
 
+[![](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/fitness/podcast-1021-you-were-born-to-run/)
+
+[Podcast #1,021: You Were Born to Run](https://www.artofmanliness.com/health-fitness/fitness/podcast-1021-you-were-born-to-run/)
+
 [![A man performs a bicep curl with a dumbbell on a beach while wearing shorts and a weightlifting belt, showcasing his dedication to fitness. Several people are in the background.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/fitness/bro-splits/)
 
 [Bro Splits: Are They Right For You?](https://www.artofmanliness.com/health-fitness/fitness/bro-splits/)
@@ -126,10 +130,6 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 [![A shirtless man with claw marks on his chest and face stands indoors, gesturing with his hand and looking determined, embodying the intensity of a Bruce Lee workout.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/fitness/bruce-lee-workout/)
 
 [The Secrets to Bruce Lee’s Legendary Physical Training](https://www.artofmanliness.com/health-fitness/fitness/bruce-lee-workout/)
-
-[![Man squatting and pointing to his tattooed arm in a wooden-paneled room, embodying the essence of an Agile Human Being.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/fitness/podcast-885-the-essential-habits-for-becoming-an-agile-vital-and-durable-human-being/)
-
-[Podcast #885: The Essential Habits for Becoming an Agile, Vital, and Durable Human Being](https://www.artofmanliness.com/health-fitness/fitness/podcast-885-the-essential-habits-for-becoming-an-agile-vital-and-durable-human-being/)
 
 [![Chalk drawing of a human head with a clock face inside, surrounded by arrows, a crescent moon, and a sun on a black background, symbolizing circadian rhythm and its role in health and better sleep.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/health/podcast-1016-unlock-better-sleep-and-health-by-harnessing-your-circadian-rhythm/)
 
@@ -170,6 +170,10 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 * [Relationships](https://www.artofmanliness.com/people/relationships/)
 * [Social Skills](https://www.artofmanliness.com/people/social-skills/)
 
+[![](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/family/take-the-d-word-off-the-table/)
+
+[Take the D Word Off the Table](https://www.artofmanliness.com/people/family/take-the-d-word-off-the-table/)
+
 [![](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/family/podcast-1020-becoming-a-tech-intentional-family/)
 
 [Podcast #1,020: Becoming a Tech Intentional Family](https://www.artofmanliness.com/people/family/podcast-1020-becoming-a-tech-intentional-family/)
@@ -181,10 +185,6 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 [![Illustration of a family walking in a line against a green background. The child in front is playing a toy flute, followed by another child with a drum, a woman with a backpack, and a man carrying a rake. This scene reflects the harmony and bond of these little platoons as they cherish simple moments together.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/family/sunday-firesides-in-praise-of-little-platoons/)
 
 [Sunday Firesides: In Praise of Little Platoons](https://www.artofmanliness.com/people/family/sunday-firesides-in-praise-of-little-platoons/)
-
-[![A man and woman holding hands.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/family/podcast-967-busting-the-myths-of-marriage-why-getting-hitched-still-matters/)
-
-[Podcast #967: Busting the Myths of Marriage — Why Getting Hitched Still Matters](https://www.artofmanliness.com/people/family/podcast-967-busting-the-myths-of-marriage-why-getting-hitched-still-matters/)
 
 [![A dad is lifting a young child in the air. Both are wearing capes and masks, playing in a room with large windows. He embraces his essential role, making kids awesome through imaginative play.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/podcast/podcast-998-dads-essential-role-in-making-kids-awesome/)
 
@@ -649,6 +649,12 @@ I agree to the [privacy policy](#) terms.
 
 ![podcast](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-2.jpg)
 
+[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/health-fitness/fitness/podcast-1021-you-were-born-to-run/)
+
+[Podcast #1,021
+
+###### You Were Born to Run](https://www.artofmanliness.com/health-fitness/fitness/podcast-1021-you-were-born-to-run/)
+
 [![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/people/family/podcast-1020-becoming-a-tech-intentional-family/)
 
 [Podcast #1,020
@@ -666,12 +672,6 @@ I agree to the [privacy policy](#) terms.
 [Podcast #865
 
 ###### How to Win Friends and Influence People in the 21st Century](https://www.artofmanliness.com/people/relationships/podcast-865-how-to-win-friends-and-influence-people-in-the-21st-century/)
-
-[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/career-wealth/career/podcast-1018-its-never-too-late-to-achieve-your-dream-receive-recognition-or-make-your-mark/)
-
-[Podcast #1,018
-
-###### It’s Never Too Late to Achieve Your Dream, Receive Recognition, or Make Your Mark](https://www.artofmanliness.com/career-wealth/career/podcast-1018-its-never-too-late-to-achieve-your-dream-receive-recognition-or-make-your-mark/)
 
 [View all](https://www.artofmanliness.com/podcast/)
 
