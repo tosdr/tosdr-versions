@@ -2,6 +2,7 @@
 
 [![Dryad](/assets/stash_engine/logo_dryad-a315fdb354b0a30994a5cb776d0d577fcd8a37ffc607330b074c80db8c8ea08d.png)](https://datadryad.org/)
 
+* [Explore](https://datadryad.org/stash/pots)
 * [Explore data](https://datadryad.org/search)
 *  Search Dryad data 
     
