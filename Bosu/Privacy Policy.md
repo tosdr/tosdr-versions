@@ -162,26 +162,26 @@ United States (USD $)
 * [YouTube](https://www.youtube.com/channel/UCb3qBl6yySVqSVD9HxiMtyQ)
 
 * Free shipping over $100 📦
-* NEWLY ADDED [DEALS](https://www.bosu.com/collections/deals "Deals")
+* 🎨 BUILD YOUR OWN BOSU AND [SAVE $30](https://www.bosu.com/collections/build-your-own-bosu "Build Your Own BOSU")
 * Free shipping over $100 📦
-* NEWLY ADDED [DEALS](https://www.bosu.com/collections/deals "Deals")
+* 🎨 BUILD YOUR OWN BOSU AND [SAVE $30](https://www.bosu.com/collections/build-your-own-bosu "Build Your Own BOSU")
 * Free shipping over $100 📦
-* NEWLY ADDED [DEALS](https://www.bosu.com/collections/deals "Deals")
+* 🎨 BUILD YOUR OWN BOSU AND [SAVE $30](https://www.bosu.com/collections/build-your-own-bosu "Build Your Own BOSU")
 * Free shipping over $100 📦
-* NEWLY ADDED [DEALS](https://www.bosu.com/collections/deals "Deals")
+* 🎨 BUILD YOUR OWN BOSU AND [SAVE $30](https://www.bosu.com/collections/build-your-own-bosu "Build Your Own BOSU")
 * Free shipping over $100 📦
-* NEWLY ADDED [DEALS](https://www.bosu.com/collections/deals "Deals")
+* 🎨 BUILD YOUR OWN BOSU AND [SAVE $30](https://www.bosu.com/collections/build-your-own-bosu "Build Your Own BOSU")
 
 * Free shipping over $100 📦
-* NEWLY ADDED [DEALS](https://www.bosu.com/collections/deals "Deals")
+* 🎨 BUILD YOUR OWN BOSU AND [SAVE $30](https://www.bosu.com/collections/build-your-own-bosu "Build Your Own BOSU")
 * Free shipping over $100 📦
-* NEWLY ADDED [DEALS](https://www.bosu.com/collections/deals "Deals")
+* 🎨 BUILD YOUR OWN BOSU AND [SAVE $30](https://www.bosu.com/collections/build-your-own-bosu "Build Your Own BOSU")
 * Free shipping over $100 📦
-* NEWLY ADDED [DEALS](https://www.bosu.com/collections/deals "Deals")
+* 🎨 BUILD YOUR OWN BOSU AND [SAVE $30](https://www.bosu.com/collections/build-your-own-bosu "Build Your Own BOSU")
 * Free shipping over $100 📦
-* NEWLY ADDED [DEALS](https://www.bosu.com/collections/deals "Deals")
+* 🎨 BUILD YOUR OWN BOSU AND [SAVE $30](https://www.bosu.com/collections/build-your-own-bosu "Build Your Own BOSU")
 * Free shipping over $100 📦
-* NEWLY ADDED [DEALS](https://www.bosu.com/collections/deals "Deals")
+* 🎨 BUILD YOUR OWN BOSU AND [SAVE $30](https://www.bosu.com/collections/build-your-own-bosu "Build Your Own BOSU")
 
 Privacy policy
 ==============
