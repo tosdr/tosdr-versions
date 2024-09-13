@@ -17,6 +17,56 @@
 * [Pinterest](https://www.pinterest.com/pin/hug-sleep-pod-as-seen-on-shark-tank--446700856800189056/)
 * [Instagram](https://www.instagram.com/hug_sleep/?hl=en)
 
+### BEST SELLERS
+
+[![mother tucking in son in sleep pod](//hugsleep.com/cdn/shop/files/SquarePDPs.001.jpg?v=1709244147&width=533)
+
+311 reviews
+
+### Kids - Hooded Sleep Pod Move
+
+Regular price $69.99
+
+Regular price ~$99.99~ Sale price $69.99
+
+Unit price /  per](https://hugsleep.com/products/kids-hooded-sleep-pod-move) 
+
+[![woman laying in bed with sleep pod asleep](//hugsleep.com/cdn/shop/products/download.jpg?v=1659988966&width=533)
+
+311 reviews
+
+### Sleep Pod Move
+
+Regular price $74.99
+
+Regular price ~$99.99~ Sale price $74.99
+
+Unit price /  per](https://hugsleep.com/products/sleep-pod-move-adult) 
+
+[![man in bed with hooded sleep pod move](//hugsleep.com/cdn/shop/files/Untitled5.007.jpg?v=1695958490&width=533)
+
+311 reviews
+
+### Hooded Sleep Pod Move
+
+Regular price $89.99
+
+Regular price ~$109.99~ Sale price $89.99
+
+Unit price /  per](https://hugsleep.com/products/sleep-pod-move-hood) 
+
+[![little girl laying in bed with sleep pod asleep](//hugsleep.com/cdn/shop/products/download_29b35f00-49b7-4236-a9a8-e998a7292bba.jpg?v=1659989428&width=533)
+
+311 reviews
+
+### Sleep Pod Move - Kids
+
+Regular price $59.99
+
+Regular price ~$89.99~ Sale price $59.99
+
+Unit price /  per](https://hugsleep.com/products/sleep-pod-move-kids) 
+
 * [Adults Collection Featuring 100% HugStretch™ Technology](#)
 
 BACK
