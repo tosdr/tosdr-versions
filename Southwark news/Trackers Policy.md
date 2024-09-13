@@ -19,42 +19,42 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
-    [![A previous performance of theirs (credit: Paraorchestra)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-10-09-2024-at-16.19-360x180.jpg)](https://southwarknews.co.uk/area/south-bank/paraorchestra-to-perform-an-immersive-classical-concert-at-the-southbank-centre/)
+    [![An anti-LTN protest in Dulwich](https://southwarknews.co.uk/wp-content/uploads/2021/05/Dulwich-LTN-protest-scaled.jpg)](https://southwarknews.co.uk/area/southwark/council-investment-in-ltns-and-cyle-lanes-has-failed-as-fewer-people-walking-and-cycling-data-suggests/)
     
-    ### [Paraorchestra to perform an immersive classical concert at the Southbank Centre](https://southwarknews.co.uk/area/south-bank/paraorchestra-to-perform-an-immersive-classical-concert-at-the-southbank-centre/)
+    ### [Council investment in LTNs and cycle lanes has ‘failed’ as fewer people walking and cycling, data suggests](https://southwarknews.co.uk/area/southwark/council-investment-in-ltns-and-cyle-lanes-has-failed-as-fewer-people-walking-and-cycling-data-suggests/)
     
-    [![Fenstanton Primary School in Tulse Hill, South London will close from September 2026 under council plans.
-    Image from Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/09/Fenstanton-Primary-School-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/two-south-london-primary-schools-set-to-close-while-four-more-will-be-merged/)
+    [![People have been amazing since the breakin - pic from SouthwarkFoodbank](https://southwarknews.co.uk/wp-content/uploads/2024/09/People-have-been-amazing-since-the-breakin-pic-from-SouthwarkFoodbank-360x180.jpg)](https://southwarknews.co.uk/area/peckham/exclusive-peckham-food-bank-making-back-everything-it-lost-in-burglary-thanks-to-community-support/)
     
-    ### [Two South London primary schools set to close while four more will be merged](https://southwarknews.co.uk/area/camberwell/two-south-london-primary-schools-set-to-close-while-four-more-will-be-merged/)
+    ### [Exclusive: Peckham food bank making ‘back everything it lost in burglary’ thanks to community support](https://southwarknews.co.uk/area/peckham/exclusive-peckham-food-bank-making-back-everything-it-lost-in-burglary-thanks-to-community-support/)
     
-    [![Dulwich Hamlet forward George Porter. Photo: Rob Avis](https://southwarknews.co.uk/wp-content/uploads/2024/09/George-Porter-Rob-Avis--360x180.jpeg)](https://southwarknews.co.uk/news/dulwich-hamlet-boss-pleased-as-porter-nets-late-winner/)
+    [![Miatta Fahnbulleh](https://southwarknews.co.uk/wp-content/uploads/2024/01/Miatta-Fahnbulleh-e1704998877172-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/after-lakanal-fire-in-camberwell-with-the-loss-of-three-women-and-children-opportunities-on-safety-were-squandered/)
     
-    ### [Dulwich Hamlet boss pleased as Porter nets late winner](https://southwarknews.co.uk/news/dulwich-hamlet-boss-pleased-as-porter-nets-late-winner/)
+    ### [‘After Lakanal fire in Camberwell with the loss of three women and children opportunities on safety were squandered’](https://southwarknews.co.uk/area/peckham/after-lakanal-fire-in-camberwell-with-the-loss-of-three-women-and-children-opportunities-on-safety-were-squandered/)
     
-    [![(credit: Flickr, Xurxo Martínez)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-10-09-2024-at-12.33-360x180.jpg)](https://southwarknews.co.uk/area/southwark/southwark-is-the-third-highest-area-for-pickpocketing-in-the-uk/)
+    [![Sadiq Khan at Mayor's Question Time. Credit - London Assembly webcast](https://southwarknews.co.uk/wp-content/uploads/2024/05/Sadiq-Khan-at-Mayors-Question-Time.-Credit-London-Assembly-webcast-360x180.jpg)](https://southwarknews.co.uk/area/london/does-sadiq-khan-have-a-grip-on-the-metropolitan-police/)
     
-    ### [Southwark is the third-highest area for pickpocketing in the UK](https://southwarknews.co.uk/area/southwark/southwark-is-the-third-highest-area-for-pickpocketing-in-the-uk/)
+    ### [Does Sadiq Khan have a grip on the Metropolitan Police?](https://southwarknews.co.uk/area/london/does-sadiq-khan-have-a-grip-on-the-metropolitan-police/)
     
-    [![Tower of London, pic by LDR Julia Gregory](https://southwarknews.co.uk/wp-content/uploads/2024/07/Tower-of-London-360x180.jpg)](https://southwarknews.co.uk/area/london/more-concerns-over-the-tower-of-london-as-a-world-heritage-site/)
+    [![Cee, 29 is the artist behind it.](https://southwarknews.co.uk/wp-content/uploads/2024/09/image002-360x180.png)](https://southwarknews.co.uk/area/elephant-and-castle/new-mural-to-be-unveiled-in-elephant-and-castle-by-former-art-student/)
     
-    ### [More concerns over the Tower of London as a World Heritage Site](https://southwarknews.co.uk/area/london/more-concerns-over-the-tower-of-london-as-a-world-heritage-site/)
+    ### [New mural to be unveiled in Elephant and Castle by former art student](https://southwarknews.co.uk/area/elephant-and-castle/new-mural-to-be-unveiled-in-elephant-and-castle-by-former-art-student/)
     
-    [![Rotherhithe Tunnel (Hjamesberglen, Wiki Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/03/Rotherhithe-Tunnel-car-on-fire-simulation-TfL-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/major-congestion-whilst-rotherhithe-tunnel-is-closed-with-no-estimate-of-when-it-will-reopen/)
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/09/Location-of-the-refused-club-360x180.jpg)](https://southwarknews.co.uk/area/walworth/nightclub-bid-refused-after-owner-admits-we-dont-know-nothing/)
     
-    ### [Major congestion whilst Rotherhithe Tunnel is closed with ‘no estimate’ of when it will reopen](https://southwarknews.co.uk/area/rotherhithe/major-congestion-whilst-rotherhithe-tunnel-is-closed-with-no-estimate-of-when-it-will-reopen/)
+    ### [Nightclub bid refused after owner admits ‘we don’t know nothing’](https://southwarknews.co.uk/area/walworth/nightclub-bid-refused-after-owner-admits-we-dont-know-nothing/)
     
-    [![Victory Community Park. Image: Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/09/07_09_2024_Southwatk-Council_Victory-Community-Park_0324-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/underused-walworth-park-gets-1-million-refresh/)
+    [![Peckham Festival 
+    - photo supplied](https://southwarknews.co.uk/wp-content/uploads/2024/09/PeckhamFestival-4206-360x180.jpg)](https://southwarknews.co.uk/area/peckham/peckham-festival-starts-on-friday-and-the-programme-of-events-is-massive/)
     
-    ### [Underused Walworth park gets £1 million refresh](https://southwarknews.co.uk/area/walworth/underused-walworth-park-gets-1-million-refresh/)
+    ### [Peckham Festival starts on Friday – and the programme of events is massive](https://southwarknews.co.uk/area/peckham/peckham-festival-starts-on-friday-and-the-programme-of-events-is-massive/)
     
-    [![L: Southwark Foodbank office, Peckham High Street. R: Empty shelves.](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-09-09-2024-at-16.41-360x180.jpg)](https://southwarknews.co.uk/area/peckham/peckham-food-bank-ransacked-overnight-leaving-struggling-families-in-crisis/)
+    [![City Hall in the Royal Docks, east London. Photo by Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/07/City-Hall-in-the-Royal-Docks-east-London.-Photo-by-Noah-Vickers-360x180.jpg)](https://southwarknews.co.uk/area/london/city-hall-staff-told-to-work-from-home-and-there-are-fears-over-passengers-bank-details-being-exposed-after-cyber-attack-on-tfl/)
     
-    ### [Peckham food bank ransacked overnight, leaving struggling families in crisis](https://southwarknews.co.uk/area/peckham/peckham-food-bank-ransacked-overnight-leaving-struggling-families-in-crisis/)
+    ### [City Hall staff told to work from home and there are fears over passengers bank details being exposed, after cyber-attack on TfL](https://southwarknews.co.uk/area/london/city-hall-staff-told-to-work-from-home-and-there-are-fears-over-passengers-bank-details-being-exposed-after-cyber-attack-on-tfl/)
     
-    [![left to right Althea Loderick (CEO, Southwark Council); Emma Cox (CEO, Endometriosis UK); Maddie O’Connor (National Management Trainee, Southwark Council); Kirsty Dutton (Head of Organisational Development, Southwark Council); Emily Bakosi (Internal Communications Officer, Southwark Council); Catalina Narvaez Buitrago (Quality Officer, Southwark Council); and Councillor Steph Cryan (Southwark Council Cabinet Member for Equalities, Democracy and Finance).](https://southwarknews.co.uk/wp-content/uploads/2024/09/endo-360x180.png)](https://southwarknews.co.uk/area/southwark/women-with-period-pains-to-get-special-support-from-southwark-council-in-a-national-first/)
+    [![Mike Williams, one half of the Peckham duo behind Flake Bake.](https://southwarknews.co.uk/wp-content/uploads/2024/09/IMG_4438-e1726140300690-360x180.jpg)](https://southwarknews.co.uk/area/peckham/jamaican-patties-made-by-peckham-duo-will-now-be-sold-permanently-in-aldi/)
     
-    ### [Women with endometriosis to get special support from Southwark Council in a national first](https://southwarknews.co.uk/area/southwark/women-with-period-pains-to-get-special-support-from-southwark-council-in-a-national-first/)
+    ### [Jamaican patties made by Peckham duo will now be sold permanently in Aldi](https://southwarknews.co.uk/area/peckham/jamaican-patties-made-by-peckham-duo-will-now-be-sold-permanently-in-aldi/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -73,6 +73,10 @@
 * [Lifestyle](https://southlondon.co.uk/category/lifestyle/)
 * [Obituaries](https://southwarknews.co.uk/category/obituaries/)
 * [Public Notices](https://southlondon.co.uk/category/public-notices/)
+    * [All notices](https://southlondon.co.uk/category/public-notices/)
+    * [Southwark News Public Notices Portal](https://publicnoticeportal.uk/southwark-news)
+    * [Greenwich and Lewisham Public Notices Portal](https://publicnoticeportal.uk/greenwich-and-lewisham-weekender)
+    * [South London Weekly Public Notices Portal](https://publicnoticeportal.uk/south-london-weekly)
 * [MORE…](#)
     * [View digital editions of our print products](https://issuu.com/communitymattersmedia)
     * [Our newsletters](https://southwarknews.co.uk/newsletter/)
@@ -96,42 +100,42 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
-    [![A previous performance of theirs (credit: Paraorchestra)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-10-09-2024-at-16.19-360x180.jpg)](https://southwarknews.co.uk/area/south-bank/paraorchestra-to-perform-an-immersive-classical-concert-at-the-southbank-centre/)
+    [![An anti-LTN protest in Dulwich](https://southwarknews.co.uk/wp-content/uploads/2021/05/Dulwich-LTN-protest-scaled.jpg)](https://southwarknews.co.uk/area/southwark/council-investment-in-ltns-and-cyle-lanes-has-failed-as-fewer-people-walking-and-cycling-data-suggests/)
     
-    ### [Paraorchestra to perform an immersive classical concert at the Southbank Centre](https://southwarknews.co.uk/area/south-bank/paraorchestra-to-perform-an-immersive-classical-concert-at-the-southbank-centre/)
+    ### [Council investment in LTNs and cycle lanes has ‘failed’ as fewer people walking and cycling, data suggests](https://southwarknews.co.uk/area/southwark/council-investment-in-ltns-and-cyle-lanes-has-failed-as-fewer-people-walking-and-cycling-data-suggests/)
     
-    [![Fenstanton Primary School in Tulse Hill, South London will close from September 2026 under council plans.
-    Image from Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/09/Fenstanton-Primary-School-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/two-south-london-primary-schools-set-to-close-while-four-more-will-be-merged/)
+    [![People have been amazing since the breakin - pic from SouthwarkFoodbank](https://southwarknews.co.uk/wp-content/uploads/2024/09/People-have-been-amazing-since-the-breakin-pic-from-SouthwarkFoodbank-360x180.jpg)](https://southwarknews.co.uk/area/peckham/exclusive-peckham-food-bank-making-back-everything-it-lost-in-burglary-thanks-to-community-support/)
     
-    ### [Two South London primary schools set to close while four more will be merged](https://southwarknews.co.uk/area/camberwell/two-south-london-primary-schools-set-to-close-while-four-more-will-be-merged/)
+    ### [Exclusive: Peckham food bank making ‘back everything it lost in burglary’ thanks to community support](https://southwarknews.co.uk/area/peckham/exclusive-peckham-food-bank-making-back-everything-it-lost-in-burglary-thanks-to-community-support/)
     
-    [![Dulwich Hamlet forward George Porter. Photo: Rob Avis](https://southwarknews.co.uk/wp-content/uploads/2024/09/George-Porter-Rob-Avis--360x180.jpeg)](https://southwarknews.co.uk/news/dulwich-hamlet-boss-pleased-as-porter-nets-late-winner/)
+    [![Miatta Fahnbulleh](https://southwarknews.co.uk/wp-content/uploads/2024/01/Miatta-Fahnbulleh-e1704998877172-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/after-lakanal-fire-in-camberwell-with-the-loss-of-three-women-and-children-opportunities-on-safety-were-squandered/)
     
-    ### [Dulwich Hamlet boss pleased as Porter nets late winner](https://southwarknews.co.uk/news/dulwich-hamlet-boss-pleased-as-porter-nets-late-winner/)
+    ### [‘After Lakanal fire in Camberwell with the loss of three women and children opportunities on safety were squandered’](https://southwarknews.co.uk/area/peckham/after-lakanal-fire-in-camberwell-with-the-loss-of-three-women-and-children-opportunities-on-safety-were-squandered/)
     
-    [![(credit: Flickr, Xurxo Martínez)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-10-09-2024-at-12.33-360x180.jpg)](https://southwarknews.co.uk/area/southwark/southwark-is-the-third-highest-area-for-pickpocketing-in-the-uk/)
+    [![Sadiq Khan at Mayor's Question Time. Credit - London Assembly webcast](https://southwarknews.co.uk/wp-content/uploads/2024/05/Sadiq-Khan-at-Mayors-Question-Time.-Credit-London-Assembly-webcast-360x180.jpg)](https://southwarknews.co.uk/area/london/does-sadiq-khan-have-a-grip-on-the-metropolitan-police/)
     
-    ### [Southwark is the third-highest area for pickpocketing in the UK](https://southwarknews.co.uk/area/southwark/southwark-is-the-third-highest-area-for-pickpocketing-in-the-uk/)
+    ### [Does Sadiq Khan have a grip on the Metropolitan Police?](https://southwarknews.co.uk/area/london/does-sadiq-khan-have-a-grip-on-the-metropolitan-police/)
     
-    [![Tower of London, pic by LDR Julia Gregory](https://southwarknews.co.uk/wp-content/uploads/2024/07/Tower-of-London-360x180.jpg)](https://southwarknews.co.uk/area/london/more-concerns-over-the-tower-of-london-as-a-world-heritage-site/)
+    [![Cee, 29 is the artist behind it.](https://southwarknews.co.uk/wp-content/uploads/2024/09/image002-360x180.png)](https://southwarknews.co.uk/area/elephant-and-castle/new-mural-to-be-unveiled-in-elephant-and-castle-by-former-art-student/)
     
-    ### [More concerns over the Tower of London as a World Heritage Site](https://southwarknews.co.uk/area/london/more-concerns-over-the-tower-of-london-as-a-world-heritage-site/)
+    ### [New mural to be unveiled in Elephant and Castle by former art student](https://southwarknews.co.uk/area/elephant-and-castle/new-mural-to-be-unveiled-in-elephant-and-castle-by-former-art-student/)
     
-    [![Rotherhithe Tunnel (Hjamesberglen, Wiki Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/03/Rotherhithe-Tunnel-car-on-fire-simulation-TfL-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/major-congestion-whilst-rotherhithe-tunnel-is-closed-with-no-estimate-of-when-it-will-reopen/)
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/09/Location-of-the-refused-club-360x180.jpg)](https://southwarknews.co.uk/area/walworth/nightclub-bid-refused-after-owner-admits-we-dont-know-nothing/)
     
-    ### [Major congestion whilst Rotherhithe Tunnel is closed with ‘no estimate’ of when it will reopen](https://southwarknews.co.uk/area/rotherhithe/major-congestion-whilst-rotherhithe-tunnel-is-closed-with-no-estimate-of-when-it-will-reopen/)
+    ### [Nightclub bid refused after owner admits ‘we don’t know nothing’](https://southwarknews.co.uk/area/walworth/nightclub-bid-refused-after-owner-admits-we-dont-know-nothing/)
     
-    [![Victory Community Park. Image: Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/09/07_09_2024_Southwatk-Council_Victory-Community-Park_0324-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/underused-walworth-park-gets-1-million-refresh/)
+    [![Peckham Festival 
+    - photo supplied](https://southwarknews.co.uk/wp-content/uploads/2024/09/PeckhamFestival-4206-360x180.jpg)](https://southwarknews.co.uk/area/peckham/peckham-festival-starts-on-friday-and-the-programme-of-events-is-massive/)
     
-    ### [Underused Walworth park gets £1 million refresh](https://southwarknews.co.uk/area/walworth/underused-walworth-park-gets-1-million-refresh/)
+    ### [Peckham Festival starts on Friday – and the programme of events is massive](https://southwarknews.co.uk/area/peckham/peckham-festival-starts-on-friday-and-the-programme-of-events-is-massive/)
     
-    [![L: Southwark Foodbank office, Peckham High Street. R: Empty shelves.](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-09-09-2024-at-16.41-360x180.jpg)](https://southwarknews.co.uk/area/peckham/peckham-food-bank-ransacked-overnight-leaving-struggling-families-in-crisis/)
+    [![City Hall in the Royal Docks, east London. Photo by Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/07/City-Hall-in-the-Royal-Docks-east-London.-Photo-by-Noah-Vickers-360x180.jpg)](https://southwarknews.co.uk/area/london/city-hall-staff-told-to-work-from-home-and-there-are-fears-over-passengers-bank-details-being-exposed-after-cyber-attack-on-tfl/)
     
-    ### [Peckham food bank ransacked overnight, leaving struggling families in crisis](https://southwarknews.co.uk/area/peckham/peckham-food-bank-ransacked-overnight-leaving-struggling-families-in-crisis/)
+    ### [City Hall staff told to work from home and there are fears over passengers bank details being exposed, after cyber-attack on TfL](https://southwarknews.co.uk/area/london/city-hall-staff-told-to-work-from-home-and-there-are-fears-over-passengers-bank-details-being-exposed-after-cyber-attack-on-tfl/)
     
-    [![left to right Althea Loderick (CEO, Southwark Council); Emma Cox (CEO, Endometriosis UK); Maddie O’Connor (National Management Trainee, Southwark Council); Kirsty Dutton (Head of Organisational Development, Southwark Council); Emily Bakosi (Internal Communications Officer, Southwark Council); Catalina Narvaez Buitrago (Quality Officer, Southwark Council); and Councillor Steph Cryan (Southwark Council Cabinet Member for Equalities, Democracy and Finance).](https://southwarknews.co.uk/wp-content/uploads/2024/09/endo-360x180.png)](https://southwarknews.co.uk/area/southwark/women-with-period-pains-to-get-special-support-from-southwark-council-in-a-national-first/)
+    [![Mike Williams, one half of the Peckham duo behind Flake Bake.](https://southwarknews.co.uk/wp-content/uploads/2024/09/IMG_4438-e1726140300690-360x180.jpg)](https://southwarknews.co.uk/area/peckham/jamaican-patties-made-by-peckham-duo-will-now-be-sold-permanently-in-aldi/)
     
-    ### [Women with endometriosis to get special support from Southwark Council in a national first](https://southwarknews.co.uk/area/southwark/women-with-period-pains-to-get-special-support-from-southwark-council-in-a-national-first/)
+    ### [Jamaican patties made by Peckham duo will now be sold permanently in Aldi](https://southwarknews.co.uk/area/peckham/jamaican-patties-made-by-peckham-duo-will-now-be-sold-permanently-in-aldi/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -150,6 +154,10 @@ View All Result
 * [Lifestyle](https://southlondon.co.uk/category/lifestyle/)
 * [Obituaries](https://southwarknews.co.uk/category/obituaries/)
 * [Public Notices](https://southlondon.co.uk/category/public-notices/)
+    * [All notices](https://southlondon.co.uk/category/public-notices/)
+    * [Southwark News Public Notices Portal](https://publicnoticeportal.uk/southwark-news)
+    * [Greenwich and Lewisham Public Notices Portal](https://publicnoticeportal.uk/greenwich-and-lewisham-weekender)
+    * [South London Weekly Public Notices Portal](https://publicnoticeportal.uk/south-london-weekly)
 * [MORE…](#)
     * [View digital editions of our print products](https://issuu.com/communitymattersmedia)
     * [Our newsletters](https://southwarknews.co.uk/newsletter/)
@@ -185,11 +193,24 @@ This site uses cookies – small text files that are placed on your machine to h
 
 ### Popular Articles
 
+[![Mike Williams, one half of the Peckham duo behind Flake Bake.](https://southwarknews.co.uk/wp-content/uploads/2024/09/IMG_4438-e1726140300690-120x86.jpg)](https://southwarknews.co.uk/area/peckham/jamaican-patties-made-by-peckham-duo-will-now-be-sold-permanently-in-aldi/)
+
+### [Jamaican patties made by Peckham duo will now be sold permanently in Aldi](https://southwarknews.co.uk/area/peckham/jamaican-patties-made-by-peckham-duo-will-now-be-sold-permanently-in-aldi/)
+
+[12th September 2024](https://southwarknews.co.uk/area/peckham/jamaican-patties-made-by-peckham-duo-will-now-be-sold-permanently-in-aldi/)
+
 [![L: Southwark Foodbank office, Peckham High Street. R: Empty shelves.](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-09-09-2024-at-16.41-120x86.jpg)](https://southwarknews.co.uk/area/peckham/peckham-food-bank-ransacked-overnight-leaving-struggling-families-in-crisis/)
 
 ### [Peckham food bank ransacked overnight, leaving struggling families in crisis](https://southwarknews.co.uk/area/peckham/peckham-food-bank-ransacked-overnight-leaving-struggling-families-in-crisis/)
 
 [9th September 2024](https://southwarknews.co.uk/area/peckham/peckham-food-bank-ransacked-overnight-leaving-struggling-families-in-crisis/)
+
+[![Fenstanton Primary School in Tulse Hill, South London will close from September 2026 under council plans.
+Image from Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/09/Fenstanton-Primary-School-120x86.jpg)](https://southwarknews.co.uk/area/camberwell/two-south-london-primary-schools-set-to-close-while-four-more-will-be-merged/)
+
+### [Two South London primary schools set to close while four more will be merged](https://southwarknews.co.uk/area/camberwell/two-south-london-primary-schools-set-to-close-while-four-more-will-be-merged/)
+
+[10th September 2024](https://southwarknews.co.uk/area/camberwell/two-south-london-primary-schools-set-to-close-while-four-more-will-be-merged/)
 
 [![Aged Cheeseburger, Whole Beast](https://southwarknews.co.uk/wp-content/uploads/2024/09/Whole-Beast-Aged-Cheeseburger-2-120x86.jpeg)](https://southwarknews.co.uk/area/peckham/peckham-pub-has-the-best-burger-in-the-uk/)
 
@@ -203,62 +224,50 @@ This site uses cookies – small text files that are placed on your machine to h
 
 [10th September 2024](https://southwarknews.co.uk/area/rotherhithe/major-congestion-whilst-rotherhithe-tunnel-is-closed-with-no-estimate-of-when-it-will-reopen/)
 
-[![Casper De Norre, right, and Zian Flemming. Photo: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/09/Flemming-De-Norre--120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/casper-de-norre-opens-up-on-zian-flemmings-millwall-exit-and-gives-insight-into-what-happened-on-deadline-day-before-burnley-move/)
+[![Josh Stephenson. Photo: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/09/Josh-Stephenson-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/millwall-defender-set-to-complete-move-to-brentford/)
 
-### [Casper De Norre opens up on Zian Flemming’s Millwall exit – and gives insight into what happened on deadline day before Burnley move](https://southwarknews.co.uk/sport/football/millwall/casper-de-norre-opens-up-on-zian-flemmings-millwall-exit-and-gives-insight-into-what-happened-on-deadline-day-before-burnley-move/)
+### [Millwall defender set to complete move to Brentford](https://southwarknews.co.uk/sport/football/millwall/millwall-defender-set-to-complete-move-to-brentford/)
 
-[5th September 2024](https://southwarknews.co.uk/sport/football/millwall/casper-de-norre-opens-up-on-zian-flemmings-millwall-exit-and-gives-insight-into-what-happened-on-deadline-day-before-burnley-move/)
-
-[![Josh Coburn is congratulated by Neil Harris. Image - Millwall FC.](https://southwarknews.co.uk/wp-content/uploads/2024/08/Coburn-82828-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-discusses-how-club-were-able-to-loan-in-demand-striker-from-championship-rivals/)
-
-### [Millwall boss discusses how club were able to loan in-demand striker from Championship rivals](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-discusses-how-club-were-able-to-loan-in-demand-striker-from-championship-rivals/)
-
-[9th September 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-discusses-how-club-were-able-to-loan-in-demand-striker-from-championship-rivals/)
-
-[![Card Corner, Camberwell New Road (Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-03-09-2024-at-14.22-120x86.jpg)](https://southwarknews.co.uk/area/camberwell/camberwell-card-shop-closes-after-decades-of-service/)
-
-### [Camberwell card shop closes after decades of service](https://southwarknews.co.uk/area/camberwell/camberwell-card-shop-closes-after-decades-of-service/)
-
-[3rd September 2024](https://southwarknews.co.uk/area/camberwell/camberwell-card-shop-closes-after-decades-of-service/)
+[11th September 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-defender-set-to-complete-move-to-brentford/)
 
 ### Featured Articles
 
-[![A previous performance of theirs (credit: Paraorchestra)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-10-09-2024-at-16.19-120x86.jpg)](https://southwarknews.co.uk/area/south-bank/paraorchestra-to-perform-an-immersive-classical-concert-at-the-southbank-centre/)
+[![An anti-LTN protest in Dulwich](https://southwarknews.co.uk/wp-content/uploads/2021/05/Dulwich-LTN-protest-scaled.jpg)](https://southwarknews.co.uk/area/southwark/council-investment-in-ltns-and-cyle-lanes-has-failed-as-fewer-people-walking-and-cycling-data-suggests/)
 
-### [Paraorchestra to perform an immersive classical concert at the Southbank Centre](https://southwarknews.co.uk/area/south-bank/paraorchestra-to-perform-an-immersive-classical-concert-at-the-southbank-centre/)
+### [Council investment in LTNs and cycle lanes has ‘failed’ as fewer people walking and cycling, data suggests](https://southwarknews.co.uk/area/southwark/council-investment-in-ltns-and-cyle-lanes-has-failed-as-fewer-people-walking-and-cycling-data-suggests/)
 
-[10th September 2024](https://southwarknews.co.uk/area/south-bank/paraorchestra-to-perform-an-immersive-classical-concert-at-the-southbank-centre/)
+[13th September 2024](https://southwarknews.co.uk/area/southwark/council-investment-in-ltns-and-cyle-lanes-has-failed-as-fewer-people-walking-and-cycling-data-suggests/)
 
-[![Fenstanton Primary School in Tulse Hill, South London will close from September 2026 under council plans.
-Image from Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/09/Fenstanton-Primary-School-120x86.jpg)](https://southwarknews.co.uk/area/camberwell/two-south-london-primary-schools-set-to-close-while-four-more-will-be-merged/)
+[![People have been amazing since the breakin - pic from SouthwarkFoodbank](https://southwarknews.co.uk/wp-content/uploads/2024/09/People-have-been-amazing-since-the-breakin-pic-from-SouthwarkFoodbank-120x86.jpg)](https://southwarknews.co.uk/area/peckham/exclusive-peckham-food-bank-making-back-everything-it-lost-in-burglary-thanks-to-community-support/)
 
-### [Two South London primary schools set to close while four more will be merged](https://southwarknews.co.uk/area/camberwell/two-south-london-primary-schools-set-to-close-while-four-more-will-be-merged/)
+### [Exclusive: Peckham food bank making ‘back everything it lost in burglary’ thanks to community support](https://southwarknews.co.uk/area/peckham/exclusive-peckham-food-bank-making-back-everything-it-lost-in-burglary-thanks-to-community-support/)
 
-[10th September 2024](https://southwarknews.co.uk/area/camberwell/two-south-london-primary-schools-set-to-close-while-four-more-will-be-merged/)
+[13th September 2024](https://southwarknews.co.uk/area/peckham/exclusive-peckham-food-bank-making-back-everything-it-lost-in-burglary-thanks-to-community-support/)
 
-[![L: Southwark Foodbank office, Peckham High Street. R: Empty shelves.](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-09-09-2024-at-16.41-120x86.jpg)](https://southwarknews.co.uk/area/peckham/peckham-food-bank-ransacked-overnight-leaving-struggling-families-in-crisis/)
+[![Sadiq Khan at Mayor's Question Time. Credit - London Assembly webcast](https://southwarknews.co.uk/wp-content/uploads/2024/05/Sadiq-Khan-at-Mayors-Question-Time.-Credit-London-Assembly-webcast-120x86.jpg)](https://southwarknews.co.uk/area/london/does-sadiq-khan-have-a-grip-on-the-metropolitan-police/)
 
-### [Peckham food bank ransacked overnight, leaving struggling families in crisis](https://southwarknews.co.uk/area/peckham/peckham-food-bank-ransacked-overnight-leaving-struggling-families-in-crisis/)
+### [Does Sadiq Khan have a grip on the Metropolitan Police?](https://southwarknews.co.uk/area/london/does-sadiq-khan-have-a-grip-on-the-metropolitan-police/)
 
-[9th September 2024](https://southwarknews.co.uk/area/peckham/peckham-food-bank-ransacked-overnight-leaving-struggling-families-in-crisis/)
+[13th September 2024](https://southwarknews.co.uk/area/london/does-sadiq-khan-have-a-grip-on-the-metropolitan-police/)
 
-[![An 1820 image of Brockwell Park Hall. Credit- London Metropolitan Archives](https://southwarknews.co.uk/wp-content/uploads/2024/09/An-1820-image-of-Brockwell-Park-Hall.-Credit-London-Metropolitan-Archives-120x86.jpeg)](https://southwarknews.co.uk/area/herne-hill/how-brockwell-halls-restoration-is-rekindling-memories-of-when-the-park-was-wartime-farmland-and-training-grounds/)
+[![Peckham Festival 
+- photo supplied](https://southwarknews.co.uk/wp-content/uploads/2024/09/PeckhamFestival-4206-120x86.jpg)](https://southwarknews.co.uk/area/peckham/peckham-festival-starts-on-friday-and-the-programme-of-events-is-massive/)
 
-### [How Brockwell Hall’s restoration is rekindling memories of when the park was wartime farmland and training grounds](https://southwarknews.co.uk/area/herne-hill/how-brockwell-halls-restoration-is-rekindling-memories-of-when-the-park-was-wartime-farmland-and-training-grounds/)
+### [Peckham Festival starts on Friday – and the programme of events is massive](https://southwarknews.co.uk/area/peckham/peckham-festival-starts-on-friday-and-the-programme-of-events-is-massive/)
 
-[9th September 2024](https://southwarknews.co.uk/area/herne-hill/how-brockwell-halls-restoration-is-rekindling-memories-of-when-the-park-was-wartime-farmland-and-training-grounds/)
+[12th September 2024](https://southwarknews.co.uk/area/peckham/peckham-festival-starts-on-friday-and-the-programme-of-events-is-massive/)
 
-[![left to right Althea Loderick (CEO, Southwark Council); Emma Cox (CEO, Endometriosis UK); Maddie O’Connor (National Management Trainee, Southwark Council); Kirsty Dutton (Head of Organisational Development, Southwark Council); Emily Bakosi (Internal Communications Officer, Southwark Council); Catalina Narvaez Buitrago (Quality Officer, Southwark Council); and Councillor Steph Cryan (Southwark Council Cabinet Member for Equalities, Democracy and Finance).](https://southwarknews.co.uk/wp-content/uploads/2024/09/endo-120x86.png)](https://southwarknews.co.uk/area/southwark/women-with-period-pains-to-get-special-support-from-southwark-council-in-a-national-first/)
+[![City Hall in the Royal Docks, east London. Photo by Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/07/City-Hall-in-the-Royal-Docks-east-London.-Photo-by-Noah-Vickers-120x86.jpg)](https://southwarknews.co.uk/area/london/city-hall-staff-told-to-work-from-home-and-there-are-fears-over-passengers-bank-details-being-exposed-after-cyber-attack-on-tfl/)
 
-### [Women with endometriosis to get special support from Southwark Council in a national first](https://southwarknews.co.uk/area/southwark/women-with-period-pains-to-get-special-support-from-southwark-council-in-a-national-first/)
+### [City Hall staff told to work from home and there are fears over passengers bank details being exposed, after cyber-attack on TfL](https://southwarknews.co.uk/area/london/city-hall-staff-told-to-work-from-home-and-there-are-fears-over-passengers-bank-details-being-exposed-after-cyber-attack-on-tfl/)
 
-[9th September 2024](https://southwarknews.co.uk/area/southwark/women-with-period-pains-to-get-special-support-from-southwark-council-in-a-national-first/)
+[12th September 2024](https://southwarknews.co.uk/area/london/city-hall-staff-told-to-work-from-home-and-there-are-fears-over-passengers-bank-details-being-exposed-after-cyber-attack-on-tfl/)
 
-[![Detectives are searching for the culprits are the war memorial was snatched late last month. Image: Historic England](https://southwarknews.co.uk/wp-content/uploads/2024/09/Detectives-are-searching-for-the-culprits-are-the-war-memorial-was-snatched-late-last-month.-Image-Historic-England-120x86.png)](https://southwarknews.co.uk/area/crystal-palace/theft-of-world-war-one-monument-from-crystal-palace-park-an-insult-to-thousands-who-paid-the-ultimate-sacrifice/)
+[![Mike Williams, one half of the Peckham duo behind Flake Bake.](https://southwarknews.co.uk/wp-content/uploads/2024/09/IMG_4438-e1726140300690-120x86.jpg)](https://southwarknews.co.uk/area/peckham/jamaican-patties-made-by-peckham-duo-will-now-be-sold-permanently-in-aldi/)
 
-### [Theft of World War One monument from Crystal Palace Park an ‘insult’ to thousands who ‘paid the ultimate sacrifice’](https://southwarknews.co.uk/area/crystal-palace/theft-of-world-war-one-monument-from-crystal-palace-park-an-insult-to-thousands-who-paid-the-ultimate-sacrifice/)
+### [Jamaican patties made by Peckham duo will now be sold permanently in Aldi](https://southwarknews.co.uk/area/peckham/jamaican-patties-made-by-peckham-duo-will-now-be-sold-permanently-in-aldi/)
 
-[9th September 2024](https://southwarknews.co.uk/area/crystal-palace/theft-of-world-war-one-monument-from-crystal-palace-park-an-insult-to-thousands-who-paid-the-ultimate-sacrifice/)
+[12th September 2024](https://southwarknews.co.uk/area/peckham/jamaican-patties-made-by-peckham-duo-will-now-be-sold-permanently-in-aldi/)
 
 ### USEFUL PAGES
 
