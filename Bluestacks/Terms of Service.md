@@ -182,7 +182,7 @@ The Services may allow you to copy or download certain Content; please remember 
 **Do I have to grant consent to BlueStacks to communicate with me?**
 --------------------------------------------------------------------
 
-You acknowledge that our collection, use, and sharing of your information is subject to our [Privacy Policy](https://www.bluestacks.com/terms-and-privacy.html). You can unsubscribe or opt out from such communication at any time, but you may be unable to receive crucial account related communication. To unsubscribe, please visit [https://bluestacks-cloud.appspot.com/communications.html](https://bluestacks-cloud.appspot.com/communications.html), enter your email address that you wish to unsubscribe and click on the “unsubscribe” button or click on the unsubscribe link in your email.
+You acknowledge that our collection, use, and sharing of your information is subject to our [Privacy Policy](https://www.bluestacks.com/terms-and-privacy.html). You can unsubscribe or opt out from such communication at any time, but you may be unable to receive crucial account related communication. To unsubscribe, please visit [https://cloud.bluestacks.com/communications.html](https://cloud.bluestacks.com/communications.html), enter your email address that you wish to unsubscribe and click on the “unsubscribe” button or click on the unsubscribe link in your email.
 
 **Contests and Sweepstakes**
 ----------------------------
@@ -778,4 +778,4 @@ Unlock your PC's gaming potential. And yours too.
 
 © 2024 BlueStacks name and logo are registered trademarks of now.gg, inc
 
-[Terms and Privacy](https://www.bluestacks.com/terms-and-privacy.html) | [Copyright Dispute Policy](https://www.bluestacks.com/copyright-dispute-policy.html) | [EU Privacy](https://www.bluestacks.com/terms-and-privacy.html#eu-privacy)
+[Terms and Privacy](https://www.bluestacks.com/terms-and-privacy.html) | [Copyright Dispute Policy](https://www.bluestacks.com/copyright-dispute-policy.html) | [EU Privacy](https://www.bluestacks.com/terms-and-privacy.html#eu-privacy) | Do Not Sell My Information
