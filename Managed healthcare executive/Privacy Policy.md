@@ -100,7 +100,7 @@ Choose Topic
 
 [Plaque Psoriasis](https://www.managedhealthcareexecutive.com/clinical/plaque-psoriasis)
 
-[Population Health](https://www.managedhealthcareexecutive.com/clinical/population-health)[Population Health](https://www.managedhealthcareexecutive.com/clinical/population-health)
+[Population Health](https://www.managedhealthcareexecutive.com/clinical/population-health)
 
 [Post-Acute Care](https://www.managedhealthcareexecutive.com/clinical/ltach)
 
@@ -245,7 +245,7 @@ Choose Topic
 
 [Plaque Psoriasis](https://www.managedhealthcareexecutive.com/clinical/plaque-psoriasis)
 
-[Population Health](https://www.managedhealthcareexecutive.com/clinical/population-health)[Population Health](https://www.managedhealthcareexecutive.com/clinical/population-health)
+[Population Health](https://www.managedhealthcareexecutive.com/clinical/population-health)
 
 [Post-Acute Care](https://www.managedhealthcareexecutive.com/clinical/ltach)
 
