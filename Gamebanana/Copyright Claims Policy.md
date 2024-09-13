@@ -1,3 +1,5 @@
+ [![Logo](https://images.gamebanana.com/static/img/banana.png) ![Logo](https://images.gamebanana.com/static/img/logo.png)](https://gamebanana.com/)
+
 **Ads keep us online.** Without them, we wouldn't exist. We don't have paywalls or sell mods - **we never will.** But every month we have large bills and running ads is our only way to cover them. Please consider unblocking us. Thank you from GameBanana **<3**
 
 DMCA Policy \- A Wiki.
@@ -24,7 +26,6 @@ DMCA Policy \- A Wiki.
     
     Collections](https://gamebanana.com/wikis/collections/677)
 * [Thankers](https://gamebanana.com/wikis/thankers/677)
-* [Flags](https://gamebanana.com/wikis/admin/flags/677)
 * [Report](https://gamebanana.com/support/add?s=Wiki.677)
 
 This site requires JavaScript
