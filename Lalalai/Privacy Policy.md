@@ -8,7 +8,7 @@ Echo & Reverb Remover Remove echo and reverb from vocals, voice recordings, song
 
 Lead/Back Splitter Separate lead and backing vocals with pinpoint accuracy.](https://www.lalal.ai/lead-back-vocals-remover/)
 
-[Tools & API](https://www.lalal.ai/tools-and-api/)
+[Apps](https://www.lalal.ai/apps-and-plugins/)
 
 Pricing
 
@@ -30,7 +30,7 @@ En
 
 Echo & Reverb Remover Remove echo and reverb from vocals, voice recordings, songs, and videos.](https://www.lalal.ai/echo-reverb-remover/)[![Lead/Back Splitter](https://s.lalal.ai/img/lead-back-vocal-remover/lead-back-vocal-icon.svg)
 
-Lead/Back Splitter Separate lead and backing vocals with pinpoint accuracy.](https://www.lalal.ai/lead-back-vocals-remover/)[Tools & API](https://www.lalal.ai/tools-and-api/) [Package Pricing](https://www.lalal.ai/pricing/) [Enterprise Solution](https://www.lalal.ai/business-solutions/) [Help](https://www.lalal.ai/help/) [About](https://www.lalal.ai/about/)
+Lead/Back Splitter Separate lead and backing vocals with pinpoint accuracy.](https://www.lalal.ai/lead-back-vocals-remover/)[Apps & Plugins](https://www.lalal.ai/apps-and-plugins/) [Package Pricing](https://www.lalal.ai/pricing/) [Enterprise Solution](https://www.lalal.ai/business-solutions/) [Help](https://www.lalal.ai/help/) [About](https://www.lalal.ai/about/)
 
 [Blog](https://www.lalal.ai/blog/)
 
@@ -247,15 +247,24 @@ Follow us
 
 [](https://github.com/OmniSaleGmbH/lalalai)
 
+En
+
+[English](https://www.lalal.ai/privacy-policy/) [简体中文](https://www.lalal.ai/zh-hans/privacy-policy/) [繁體中文](https://www.lalal.ai/zh-hant/privacy-policy/) [français](https://www.lalal.ai/fr/privacy-policy/) [Deutsch](https://www.lalal.ai/de/privacy-policy/) [italiano](https://www.lalal.ai/it/privacy-policy/) [日本語](https://www.lalal.ai/ja/privacy-policy/) [한국어](https://www.lalal.ai/ko/privacy-policy/) [español](https://www.lalal.ai/es/privacy-policy/) [Nederlands](https://www.lalal.ai/nl/privacy-policy/) [Português](https://www.lalal.ai/pt/privacy-policy/) [Português Brasileiro](https://www.lalal.ai/pt-br/privacy-policy/)
+
 Explore
 -------
 
-[Help](https://www.lalal.ai/help/) [Pricing](https://www.lalal.ai/pricing/) [For Business](https://www.lalal.ai/business-solutions/) [Tools & API](https://www.lalal.ai/tools-and-api/) [Support](mailto:support@lalal.ai) [Affiliate Program](https://www.lalal.ai/affiliate-program/)
+[Help](https://www.lalal.ai/help/) [Pricing](https://www.lalal.ai/pricing/) [For Business](https://www.lalal.ai/business-solutions/) [API](https://www.lalal.ai/api/) [Support](mailto:support@lalal.ai) [Affiliate Program](https://www.lalal.ai/affiliate-program/)
 
 Company
 -------
 
 [About](https://www.lalal.ai/about/) [Blog](https://www.lalal.ai/blog/) [Media Kit](https://www.lalal.ai/media-kit/) [Press](https://www.lalal.ai/press/) [Ambassador Program](https://www.lalal.ai/ambassador-program/)
+
+Apps
+----
+
+[Desktop App](https://www.lalal.ai/desktop-app/) [iOS App](https://www.lalal.ai/ios-app/) [Android App](https://www.lalal.ai/android-app/)
 
 En
 
