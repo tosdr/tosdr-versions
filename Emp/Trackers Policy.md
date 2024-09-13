@@ -28,9 +28,9 @@ Reviews
 
 Login
 
-[Shopping from United Kingdom Please click here to visit EMP Online Shop for customers from United Kingdom
+[Shopping from International Please click here to visit EMP Online Shop for customers from International
 
-Ok](https://www.emp.co.uk/home?forceThisShop=1)
+Ok](https://www.emp-online.com/?forceThisShop=1)
 
 [EMP International](https://www.emp-online.com/?forceThisShop=1 "International")
 
@@ -78,11 +78,7 @@ Ok](https://www.emp.co.uk/home?forceThisShop=1)
     
 * [Brands](https://www.emp-online.com/clothing-brands/)
     
-* [Movies & TV](https://www.emp-online.com/fan-merch/)
-    
-* [Anime](https://www.emp-online.com/fan-merch/anime/)
-    
-* [Gaming](https://www.emp-online.com/gaming/)
+* [Entertainment](https://www.emp-online.com/entertainment/)
     
 * [Homeware](https://www.emp-online.com/fun-lifestyle/homeware/)
     
@@ -319,11 +315,11 @@ I hereby consent to receive the EMP Newsletter and consent that EMP Mail Order U
 
 Subscribe
 
-\*Valid for 4 weeks. Only redeemable online. Cannot be used in conjunction with any other promotional codes. After entering the code, the discount will be automatically deducted from your shopping basket. Books, media, tickets, Rammstein, Die Ärzte, Die Toten Hosen, Feine Sahne Fischfilet, Broilers, New Balance, Böhse Onkelz, Funko Pop!, vouchers & items that include a donation in the price are excluded from the promotion.
+\*Valid for 4 weeks. Only redeemable online. Cannot be used in conjunction with any other promotional codes. After entering the code, the discount will be automatically deducted from your shopping basket. Books, media, tickets, Rammstein, Die Ärzte, Die Toten Hosen, Feine Sahne Fischfilet, Broilers, Böhse Onkelz, vouchers & items that include a donation in the price are excluded from the promotion.
 
 Our customer services are here for you
 
-Today our customer service is available from 9:00 AM am to 5:30 PM pm. [More Info](https://www.emp-online.com/contact)
+Today our customer service is available till 5:30 PM. [More Info](https://www.emp-online.com/contact)
 
 Start chat
 
