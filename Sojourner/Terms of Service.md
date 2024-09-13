@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-2ddb5f01a88447efdb347320efb37281
+8c066d01914a702b660340d58e75d170
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Faux coral clasp](https://sojourner.biz/images/cache/SKU0272variations.200.jpg)](https://sojourner.biz/clasps/glass/faux-coral-clasp.html "Faux coral clasp")
+[![8 mm oval peacock pearls](https://sojourner.biz/images/cache/pearls/PE0228.200.jpg)](https://sojourner.biz/beads/pearls/8-mm-oval-peacock-pearls.html "8 mm oval peacock pearls")
 
-#### [Faux coral clasp](https://sojourner.biz/clasps/glass/faux-coral-clasp.html "Faux coral clasp")
+#### [8 mm oval peacock pearls](https://sojourner.biz/beads/pearls/8-mm-oval-peacock-pearls.html "8 mm oval peacock pearls")
 
-$30.00
+$51.00
 
 ### Best Sellers
 
@@ -166,10 +166,10 @@ $30.00
     $15.00
 8. [Red bar clasp](https://sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
     $23.00
-9. [Citrine clasp](https://sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
-    $26.00
-10. [Mother-of-pearl box clasp](https://sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
+9. [Mother-of-pearl box clasp](https://sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
     $17.00
+10. [Citrine clasp](https://sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
+    $26.00
 
 [Top](#)
 
