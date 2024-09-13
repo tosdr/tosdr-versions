@@ -2,6 +2,8 @@
 
 [Buy Crypto](https://www.binance.com/en/crypto/buy)
 
+[Buy & Sell](https://www.binance.com/en/convert-buy)
+
 [Markets](https://www.binance.com/en/markets/overview)
 
 Trade
