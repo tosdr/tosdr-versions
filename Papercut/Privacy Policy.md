@@ -248,30 +248,13 @@ Discover everything we do
     Explore all our products, and find real-world examples](https://www.papercut.com/discover/)
     
 
-Popular Resources
+Popular resources
 
-* [![label icon](https://cdn1.papercut.com/web/cloudcannon/G2_Logo_Red_RGB.svg)
-    
-    Grid® Report for Print Management | Summer 2024](https://www.papercut.com/resources/reports/grid-report-for-print-management-summer-2024/)
-    
-* [![label icon](https://cdn.papercut.com/web/cloudcannon/navigation/nav-icon-higher-education.svg)
-    
-    Complete Guide to Printing in Education](https://www.papercut.com/resources/ebooks/teachings-changed-weve-changed-printing-to-suit/)
-    
-* [![label icon](https://cdn.papercut.com/web/cloudcannon/navigation/nav-icon-decentralised.svg)
-    
-    Get Print Resiliency and Security Without Servers](https://www.papercut.com/resources/white_papers/edge-mesh-how-to-get-print-resiliency-and-security-without-servers)
-    
-* [![label icon](https://cdn.papercut.com/web/cloudcannon/navigation/nav-icon-security.svg)
-    
-    Securing Your Print System with PaperCut Whitepaper](https://www.papercut.com/resources/white_papers/securing-your-print-system-with-papercut)
-    
-* [![label icon](https://cdn.papercut.com/web/cloudcannon/navigation/nav-icon-book.svg)
-    
-    Find more
-    
-    Reports, White Papers, Customer Stories, Ebooks and more](https://www.papercut.com/resources/)
-    
+[![label icon](https://cdn.papercut.com/web/cloudcannon/navigation/nav-icon-book.svg)
+
+Find more
+
+Reports, White Papers, Customer Stories, Ebooks and more](https://www.papercut.com/resources/)
 
 Click-through demos
 
@@ -536,30 +519,13 @@ Discover everything we do
     Explore all our products, and find real-world examples](https://www.papercut.com/discover/)
     
 
-Popular Resources
+Popular resources
 
-* [![label icon](https://cdn1.papercut.com/web/cloudcannon/G2_Logo_Red_RGB.svg)
-    
-    Grid® Report for Print Management | Summer 2024](https://www.papercut.com/resources/reports/grid-report-for-print-management-summer-2024/)
-    
-* [![label icon](https://cdn.papercut.com/web/cloudcannon/navigation/nav-icon-higher-education.svg)
-    
-    Complete Guide to Printing in Education](https://www.papercut.com/resources/ebooks/teachings-changed-weve-changed-printing-to-suit/)
-    
-* [![label icon](https://cdn.papercut.com/web/cloudcannon/navigation/nav-icon-decentralised.svg)
-    
-    Get Print Resiliency and Security Without Servers](https://www.papercut.com/resources/white_papers/edge-mesh-how-to-get-print-resiliency-and-security-without-servers)
-    
-* [![label icon](https://cdn.papercut.com/web/cloudcannon/navigation/nav-icon-security.svg)
-    
-    Securing Your Print System with PaperCut Whitepaper](https://www.papercut.com/resources/white_papers/securing-your-print-system-with-papercut)
-    
-* [![label icon](https://cdn.papercut.com/web/cloudcannon/navigation/nav-icon-book.svg)
-    
-    Find more
-    
-    Reports, White Papers, Customer Stories, Ebooks and more](https://www.papercut.com/resources/)
-    
+[![label icon](https://cdn.papercut.com/web/cloudcannon/navigation/nav-icon-book.svg)
+
+Find more
+
+Reports, White Papers, Customer Stories, Ebooks and more](https://www.papercut.com/resources/)
 
 Click-through demos
 
