@@ -127,6 +127,10 @@ We may amend these Terms of Use from time to time at our discretion. We will pos
 
 These Terms of Use contain provisions that require the use of arbitration on an individual basis to resolve disputes, rather than jury trials or class actions, and also limit the remedies available to you in the event of a dispute. See Section 16 for full details.
 
+### Where can I find your Mobile Terms of Service?
+
+Our Mobile Terms of Service explain the conditions for receiving SMS updates, including how to opt in or out of text messages, message frequency, and any applicable data rates. You can find the complete Mobile Terms of Service here: [https://easybreathe.com/pages/mobile-terms-of-service](https://easybreathe.com/pages/mobile-terms-of-service) 
+
 ### Where can I find your Privacy Notice?
 
 We respect your privacy. Our Privacy Notice governs the use of information collected from or provided by you at the Site. A complete statement of our current Privacy Notice can be found here: [https://easybreathe.com/policies/privacy-policy](https://easybreathe.com/policies/privacy-policy "Privacy Policy"). Our Privacy Notice is incorporated herein by reference.
