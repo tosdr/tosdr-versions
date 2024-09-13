@@ -1,4 +1,4 @@
- [![Mythic Beasts logo graphic](/static/img/beasts-256h.png)![Mythic Beasts](/static/img/logotext.svg)](https://www.mythic-beasts.com/)
+ [![Mythic Beasts logo](/static/img/beasts-256h.png)![Mythic Beasts](/static/img/logotext.svg)](https://www.mythic-beasts.com/)
 
 * [Servers](https://www.mythic-beasts.com/servers/overview)
     
@@ -97,6 +97,8 @@
     [Domains](https://www.mythic-beasts.com/support/domains)
     
 * [Blog](https://www.mythic-beasts.com/blog/)
+
+ Submit search
 
 [Log in / Sign up](https://www.mythic-beasts.com/customer/)
 
