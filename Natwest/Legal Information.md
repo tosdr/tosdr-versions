@@ -151,6 +151,7 @@ NatWest Group
             3. [How to apply for a loan](https://personal.natwest.com/loans/how-to-apply-for-a-loan.html)
             4. [Our lending commitments](https://personal.natwest.com/content/dam/natwest/personal/our-lending-commitments.pdf)
             5. [Check your Credit Score](https://personal.natwest.com/banking-with-natwest/natwest-app/features/know-my-credit-score.html)
+            6. [Compare options to borrow money](https://personal.natwest.com/borrowing-needs/borrowing-needs-tool.html)
         
     * [Child and teen](https://personal.natwest.com/current-accounts/childrens-accounts.html)
         
@@ -226,6 +227,7 @@ NatWest Group
             3. [Credit card repayment calculator](https://personal.natwest.com/credit-cards/tools-calculators/repayment-calculator.html)
             4. [Our lending commitments](https://personal.natwest.com/content/dam/natwest/personal/our-lending-commitments.pdf)
             5. [Check your Credit Score](https://personal.natwest.com/banking-with-natwest/natwest-app/features/know-my-credit-score.html)
+            6. [Compare options to borrow money](https://personal.natwest.com/borrowing-needs/borrowing-needs-tool.html)
         
     * [Insurance](https://personal.natwest.com/insurance.html)
         
