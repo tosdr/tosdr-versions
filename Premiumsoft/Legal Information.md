@@ -1,3 +1,9 @@
+Upgrade to Navicat 17.1 Today and Save 15% !
+
+[Upgrade Now](https://customer.navicat.com/)
+
+more Info
+
 ![](/images/00_BacktoTop.svg)
 
 * [Products](https://www.navicat.com/products)
@@ -179,3 +185,9 @@ Our site uses cookies.
 We use cookies to ensure its efficient functioning. Read about how we use cookies [here](https://www.navicat.com/GDPR). By continuing to use this site, you are giving us your consent to do this.
 
 Accept
+
+![](/images/promotion/20240912/PromotionBanner_20240916_CN.png) ![](/images/Btn_close.svg)
+
+[Upgrade Now!](https://customer.navicat.com/)
+
+\*Promotion ends on 26 Sep, 2024 (23:59 ET).
