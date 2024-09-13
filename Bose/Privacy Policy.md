@@ -1,12 +1,10 @@
 [Skip to main content](#maincontent) [Skip to footer content](#footercontent)
 
-Explore the NEW limited-edition Lunar Blue Collection. [Shop](https://www.bose.com/c/lunar-blue-collection)
-
-Sign up for texts & get an extra 10% off Certified Refurbished products. [Sign up](https://cloud.email.bose.com/sms-sign-up).
+Vibe more, pause less with Ultra Open Earbuds. [Shop](https://www.bose.com/ULT-HEADPHONEOPN.html)
 
 Enter our diamond-studded giveaway. [Learn more.](https://www.bose.com/60th-anniversary-diamond-giveaway)
 
-Score up to $150 off soundbars and more. [Shop](https://www.bose.com/c/home-theater/soundbars).
+Sign up for texts & get an extra 10% off Certified Refurbished products. [Sign up](https://cloud.email.bose.com/sms-sign-up).
 
 Back
 
@@ -76,22 +74,20 @@ Back
     * [All Aviation Headsets](https://www.bose.com/c/aviation-headsets)
     * [Aviation Headset Accessories](https://www.bose.com/c/aviation-headsets/accessories)
     
-    [![](https://assets.bosecreative.com/m/2b71992449ce8417/webimage-LunarBlue_Family_Expressive_SF_NavFlyout.png)
+    [![](https://assets.bosecreative.com/m/3681820ab85c63e4/webimage-SF_UOE-Q3_MOBILE-NAV_LISA.png)
     
-    LIMITED EDITION
+    Ultra Open Earbuds
     
-    ### Lunar Blue](https://www.bose.com/c/lunar-blue-collection "SHOP")
+    ### Hear it all. All the time.](https://www.bose.com/en_us/legal/p/ULT-HEADPHONEOPN.html "Shop")
     
      
     
-    LIMITED EDITION
+    Fit? Check. Life? Yes.
+    ----------------------
     
-    Welcome to Lunar Blue
-    ---------------------
+    Experience life and music combined with Ultra Open Earbuds.
     
-    Discover best-sellers in a new cosmic color.
-    
-    [SHOP](https://www.bose.com/c/lunar-blue-collection "SHOP")
+    [BUY NOW](https://www.bose.com/ULT-HEADPHONEOPN.html "BUY NOW")
     
 
 * [Explore](#)
@@ -108,20 +104,20 @@ Back
     
     Back
     
-    [![](https://assets.bosecreative.com/m/5978f1516262a6ab/webimage-SF_Story_Jakob_1.png)
+    [![](https://assets.bosecreative.com/m/29c44cdbb392898b/webimage-SF_UOE-Q3_MOBILE-NAV_MULTI.png)
     
-    SPIN X BOSE
+    "ON IN 5!"
     
-    ### Decades of Sound​](https://www.bose.com/stories/bose-celebrates-60th-anniversary-with-spin-collab "LEARN MORE")
+    ### Scenes behind the sound](https://www.bose.com/stories/why-musicians-love-ultra-open-earbuds "LEARN MORE")
     
      
     
-    Decades of Sound​
-    -----------------
+    Scenes behind the sound
+    -----------------------
     
-    Join us with SPIN on a journey through time
+    These rising stars are “on in 5!”
     
-    [LEARN MORE](https://www.bose.com/stories/bose-celebrates-60th-anniversary-with-spin-collab "LEARN MORE")
+    [LEARN MORE](https://www.bose.com/stories/why-musicians-love-ultra-open-earbuds "LEARN MORE")
     
 
 * [Support](#)
@@ -182,13 +178,13 @@ Back
 * [Contact Us](https://support.bose.com/s/get-help-landing-page?language=en_US)
 * [Where Is My Order?](https://www.bose.com/orders)
 
-[![](https://assets.bosecreative.com/m/2b71992449ce8417/webimage-LunarBlue_Family_Expressive_SF_NavFlyout.png)
+[![](https://assets.bosecreative.com/m/757d1c13537d9d37/webimage-SF_UOE-Q3_MOBILE-NAV_MULTI.png)
 
-LIMITED EDITION
+ULTRA OPEN EARBUDS
 
-### Lunar Blue](https://www.bose.com/c/lunar-blue-collection "SHOP")
+### Hear it all. All the time.](https://www.bose.com/en_us/legal/p/ULT-HEADPHONEOPN.html "Shop")
 
-[![Bose](/on/demandware.static/Sites-Bose_US-Site/-/default/dwe974872f/images/logo.svg)](https://www.bose.com/home "Bose Home")
+[![Bose](/on/demandware.static/Sites-Bose_US-Site/-/default/dwf37c584d/images/logo.svg)](https://www.bose.com/home "Bose Home")
 
 [](https://www.bose.com/login?oauthProvider=Azure-AD-B2C "Sign In/Join my Bose")[](https://www.bose.com/wishlist "Wish list")
 
