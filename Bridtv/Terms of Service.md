@@ -322,24 +322,6 @@ The website may contain links to websites run by other parties. The linked websi
 
 These Terms and Conditions and the relationship between the Client and TargetVideo shall be governed by the laws of the Federal Republic of Germany without regard to its conflict of law provisions. Place of jurisdiction shall be Munich, Germany. However, TargetVideo stays entitled to file at any other competent court.
 
-![](https://target-video.com/wp-content/uploads/2023/08/logowhite.svg)
-
-![](https://target-video.com/wp-content/uploads/2022/04/iab-europe-targetvideo-1.png)
-
-![gcpp](https://target-video.com/wp-content/uploads/2023/08/gcpp.svg)
-
-![](https://target-video.com/wp-content/uploads/2022/04/BVDWMitglied-targetvideo.png)
-
-[Terms & Conditions](https://www.brid.tv/terms-and-conditions/)
-
-[Imprint](https://www.brid.tv/Imprint/)
-
-[Privacy Policy](https://target-video.com/privacy-policy/)
-
-Copyright © 2023 TargetVideo GmbH All rights reserved.Targetvideo™ is a registered trademark
-
-[Facebook-f](https://www.facebook.com/bridtv/) [Twitter](https://twitter.com/bridtv) [Linkedin](https://www.linkedin.com/company/targetvideo-gmbh/) [Instagram](https://www.instagram.com/wearetargetvideo/)
-
 [](#)
 
 ![Target Video](https://target-video.com/wp-content/uploads/2024/03/logo_dark_targetvideo-01.svg)
