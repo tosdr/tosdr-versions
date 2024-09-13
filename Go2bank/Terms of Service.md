@@ -4,7 +4,7 @@ PLEASE READ THESE SITE TERMS OF USE CAREFULLY BEFORE ACCESSING ORUSING THIS WEBS
 
 
 
-Last Updated: December 2020
+Last Updated: May 2024
 
 The following Site Terms of Use (“Terms of Use”) govern your access to and use of websitesowned and operated by Green Dot Corporation, Green Dot Bank d/b/a GoBank, GO2bank andBonneville Bank, and their subsidiaries and affiliated companies (“Green Dot”, “we”, “us” or “our”),including any content, functionality, products and services offered on or through such websites(collectively, the “Services”). Please note that if you are a cardholder, these Terms of Use are notintended to, and do not, modify or alter the terms of your Deposit Account Agreement orCardholder Agreement, as applicable, which governs your use of your debit card (“Card”). Byaccessing or using the Services, whether via computer, mobile device or other technology, yourepresent that you are 18 years of age or older and you have read and agree to be bound bythese Terms of Use in their entirety and all applicable laws, rules and regulations governing youruse of the Services. These Terms of Use may be amended by posting a new version on ourServices which version will be effective upon posting. If you do not agree to the new version ofthese Terms of Use, do not use the Services.
 
@@ -62,4 +62,4 @@ No waiver of by Green Dot of any term or condition set forth in these Terms of U
 
 Contact Us
 
-Green Dot Customer Service, P.O. Box 5100, Pasadena, California 91117.
+Green Dot Customer Service, P.O. Box 1070, West Chester, OH 45071.
