@@ -4,10 +4,14 @@ Search  Submit your search query
 
 [Forum](https://forum.freecodecamp.org/) [Donate](https://www.freecodecamp.org/donate/)
 
-October 14, 2019 / [#freeCodeCamp](https://www.freecodecamp.org/news/tag/freecodecamp/)
+October 14, 2019 / [#freeCodeCamp.org](https://www.freecodecamp.org/news/tag/freecodecamp/)
 
 The freeCodeCamp Code of Conduct
 ================================
+
+![freeCodeCamp](https://cdn.hashnode.com/res/hashnode/image/upload/v1712072540742/C7c8AOPN6.png)
+
+[freeCodeCamp](https://www.freecodecamp.org/news/author/freeCodeCamp/)
 
   ![The freeCodeCamp Code of Conduct](https://cdn-media-2.freecodecamp.org/w1280/5f9c9ff6740569d1a4ca45c8.jpg)
 
@@ -31,7 +35,15 @@ ADVERTISEMENT
 
 * * *
 
-If this article was helpful, share it.
+![freeCodeCamp](https://cdn.hashnode.com/res/hashnode/image/upload/v1712072540742/C7c8AOPN6.png)
+
+[freeCodeCamp](https://www.freecodecamp.org/news/author/freeCodeCamp/)
+
+Learn to code. Build projects. Earn certifications—All for free.
+
+* * *
+
+If you read this far, thank the author to show them you care. Say Thanks
 
 Learn to code for free. freeCodeCamp's open source curriculum has helped more than 40,000 people get jobs as developers. [Get started](https://www.freecodecamp.org/learn/)
 
