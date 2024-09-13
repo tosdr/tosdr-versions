@@ -22,7 +22,7 @@ DIGITAL MILLENNIUM COPYRIGHT ACT ("DMCA") NOTICE
 
 This notice is for informational purposes only. It is not intended as, nor should it be construed as, legal advice. If you believe that your intellectual property rights have been infringed upon, or if a notice of infringement has been filed against you, you should immediately seek legal counsel.
 
-This website (see our website's Terms and Conditions of Use for definitions), including all text, HTML, scripts, and images are copyrighted and owned by Global Virtual Opportunities. All rights reserved.
+This website (see our website's Terms and Conditions of Use for definitions), including all text, HTML, scripts, and images are copyrighted and owned by Global Virtual Opportunities Inc. All rights reserved.
 
 NO PART OF THIS WEBSITE MAY BE REPRODUCED OR TRANSMITTED IN ANY FORM OR BY ANY MEANS, MECHANICAL, ELECTRONIC, OR OTHERWISE, INCLUDING PHOTOCOPYING AND RECORDING, OR BY ANY INFORMATION STORAGE AND RETRIEVAL SYSTEM, OR TRANSMITTED BY E-MAIL, OR USED IN ANY OTHER FASHION WITHOUT THE EXPRESS PRIOR WRITTEN PERMISSION OF THE WEBSITE OWNER.
 
@@ -43,7 +43,7 @@ Please send DMCA notifications of claimed copyright infringement to:
 THE WEBSITE OWNER
 
 Copyright Agent  
-Global Virtual Opportunities  
+Global Virtual Opportunities Inc.  
 6701 Guada Coma Drive  
 Schertz, Texas 78154  
 USA
@@ -51,7 +51,7 @@ USA
 THE INTERNET SERVICE PROVIDER ("ISP")
 
 Copyright Agent  
-Global Virtual Opportunities  
+Global Virtual Opportunities Inc.  
 6701 Guada Coma Dr  
 Schertz, Texas 78154  
 USA  
@@ -81,9 +81,7 @@ The website owner and/or the ISP will replace the removed material and cease dis
 
 Please be advised that United States copyright law provides substantial penalties for a false counter notice filed in response to a notice of copyright infringement. Accordingly, if you are not sure whether certain material of yours is protected by copyright laws, we suggest that you first contact an attorney.
 
-Copyright © [Law Office of Michael E. Young, LLC](https://www.nitroshoppingcart.com/app/?af=1234148), and licensed for use by the owner of this website at https://GoGVO.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
-
-Do you need **Legal Forms** for **YOUR** website or blog - [Click Here](https://www.nitroshoppingcart.com/app/?af=1234148)
+Copyright © [Law Office of Michael E. Young, LLC](https://www.nitroshoppingcart.com/app/?af=1234148), and licensed for use by the owner of this website at https://gogvo.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
 
 [![](https://gogvo.com/images/legal_top.png)](#)
 
