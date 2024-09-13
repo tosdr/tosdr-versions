@@ -414,38 +414,59 @@ Phone:  608.662.4700 
 
 Fax: 608.662.4701
 
-[Back to Top](javascript:void(0);)
+We use cookies to improve your experience on this site, to show you personalized advertising, and to gather web traffic data.  
+To find more, please read our [**Privacy Policy**](https://www.greatwolf.com/terms "Privacy Policy") and [**Cookie Policy**.](https://www.greatwolf.com/cookie-policy "Cookie Policy")
 
- [](https://www.greatwolf.com/ "Great Wolf Lodge Home")
+Close ![Close](https://cdn.greatwolf.com/content/png/cookie-close-icon.png) 
 
-* [Groups & Meetings](https://www.greatwolf.com/groups "Groups & Meetings")
-* [Blog](https://www.greatwolf.com/blog/ "Blog")
-* [Jobs](https://www.greatwolf.com/jobs "Jobs")
-* [Accessibility](https://www.greatwolf.com/accessibility "Accessibility")
-* [Media](https://www.greatwolf.com/jobs/media "Media")
+[](https://www.greatwolf.com/ "Great Wolf Lodge Home")
+
+ [](https://apps.apple.com/us/app/great-wolf-lodge/id1409843426)[](https://play.google.com/store/apps/details?id=com.greatwolf.app&hl=en_US)
+
+General Info
+
 * [Locations](https://www.greatwolf.com/locations "Locations")
-* [Lost & Found](https://www.greatwolf.com/lost-and-found "Lost & Found")
-* [Privacy Policy](https://www.greatwolf.com/terms#privacy-policy "Privacy Policy")
-* [Your California Privacy Rights](https://www.greatwolf.com/your-california-privacy-rights "Your California Privacy Rights")
-* [Cookie Policy](https://www.greatwolf.com/cookie-policy "Cookie Policy")
+* [Voyagers Club](https://www.greatwolf.com/voyagers-club "Voyagers Club")
+* [Preferred Pack Club](https://www.greatwolf.com/ppc "Preferred Pack Club")
+* [Groups & Meetings](https://www.greatwolf.com/groups "Groups & Meetings")
+* [Careers](https://www.greatwolf.com/jobs "Careers")
+* [Media](https://www.greatwolf.com/jobs/media "Media")
+* [Blog](https://greatwolf.com/blog/ "Blog")
+* [Mobile App](https://www.greatwolf.com/mobile-app "Mobile App")
+* [Accessibility](https://www.greatwolf.com/accessibility "Accessibility")
 * [Sitemap](https://www.greatwolf.com/sitemap "Sitemap")
-* [Donations](https://www.greatwolf.com/donation "Donations")
 
-Follow Us
+Water Park & More
+
+* [Water Park Safety Rules](https://www.greatwolf.com/water-park-safety-rules "Water Park Safety Rules")
+* [Activities](https://www.greatwolf.com/activities "Activities")
+* [Dining](https://www.greatwolf.com/dining "Dining")
+* [Suites](https://www.greatwolf.com/rooms "Suites")
+
+Offers
+
+* [Deals](https://www.greatwolf.com/deals "Deals")
+* [Day Passes](https://www.greatwolf.com/day-pass "Day Passes")
+* [Birthday Parties](https://www.greatwolf.com/birthday-party "Birthday Parties")
+
+Customer Support
+
+* [Lost & Found](https://www.greatwolf.com/lost-and-found "Lost & Found")
+* [Donation Requests](https://www.greatwolf.com/donation "Donation Requests")
+
+Legal Info
+
+* [Terms & Conditions](https://www.greatwolf.com/terms "Terms & Conditions")
+* [Privacy Policy](https://www.greatwolf.com/terms#privacy-policy "Privacy Policy")
+* [Cookie Policy](https://www.greatwolf.com/cookie-policy "Cookie Policy")
+* [Your California Privacy Rights](https://www.greatwolf.com/your-california-privacy-rights "Your California Privacy Rights")
+
+© 2024 Great Wolf Resorts, Inc. All rights reserved.
 
 *  [](https://www.facebook.com/GreatWolfWaterPark "Facebook")
-*  [](https://twitter.com/greatwolflodge "Twitter")
+*  [](https://twitter.com/greatwolflodge "X")
 *  [](https://www.tiktok.com/@greatwolflodge "TikTok")
 *  [](https://www.instagram.com/greatwolflodge/ "Instagram")
 *  [](https://www.pinterest.com/GreatWolfLodge/ "Pinterest")
 *  [](https://www.youtube.com/channel/UCxAwV8pBsHpMq-WQo326UnQ "YouTube")
 *  [](https://www.linkedin.com/company/great-wolf-lodge "LinkedIn")
-
-[Terms and Conditions](https://www.greatwolf.com/terms)
-
-© 2024 Great Wolf Resorts, Inc. All rights reserved.
-
-We use cookies to improve your experience on this site, to show you personalized advertising, and to gather web traffic data.  
-To find more, please read our [**Privacy Policy**](https://www.greatwolf.com/terms "Privacy Policy") and [**Cookie Policy**.](https://www.greatwolf.com/cookie-policy "Cookie Policy")
-
-Close ![Close](https://cdn.greatwolf.com/content/png/cookie-close-icon.png)
