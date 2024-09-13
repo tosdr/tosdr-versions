@@ -1,4 +1,4 @@
-![icon](data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSI5OTk5OXB4IiBoZWlnaHQ9Ijk5OTk5cHgiIHZpZXdCb3g9IjAgMCA5OTk5OSA5OTk5OSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48ZyBzdHJva2U9Im5vbmUiIGZpbGw9Im5vbmUiIGZpbGwtb3BhY2l0eT0iMCI+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9Ijk5OTk5IiBoZWlnaHQ9Ijk5OTk5Ij48L3JlY3Q+IDwvZz4gPC9zdmc+)                              [Skip to content](#site-main)
+![icon](data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSI5OTk5OXB4IiBoZWlnaHQ9Ijk5OTk5cHgiIHZpZXdCb3g9IjAgMCA5OTk5OSA5OTk5OSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48ZyBzdHJva2U9Im5vbmUiIGZpbGw9Im5vbmUiIGZpbGwtb3BhY2l0eT0iMCI+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9Ijk5OTk5IiBoZWlnaHQ9Ijk5OTk5Ij48L3JlY3Q+IDwvZz4gPC9zdmc+)                                       [Skip to content](#site-main)
 
 * [SHOP](https://www.furtherfood.com/collections/all-products)
 * [SUBSCRIBE](https://www.furtherfood.com/pages/subscribe-and-save)
@@ -8,9 +8,10 @@
     
 * **10,000+ 5 STAR REVIEWS ⭐️⭐️⭐️⭐️⭐️**
     
+* **PUMPKIN SPICE COLLAGEN IS HERE!** [**SHOP NOW >>**](https://www.furtherfood.com/products/pumpkin-spice-collagen-powder "Pumpkin Spice Collagen Powder")
+    
 * **TRY WITH OUR 30-DAY MONEY BACK GUARANTEE**
     
-* [**SHARE THE LOVE 💕 GIVE $10. GET $10 >>**](https://furtherfood.referralcandy.com/)
 
 [![](//www.furtherfood.com/cdn/shop/files/FurtherFood_Logo_Digital_White_290x88.png?v=1703188360)
 
@@ -62,7 +63,7 @@ Menu Close
         *  [![](https://cdn.shopify.com/s/files/1/2527/7032/files/Anti-Inflammatory.png) Anti-Inflammatory](https://www.furtherfood.com/collections/reduce-inflammation)
         *  [![](https://cdn.shopify.com/s/files/1/2527/7032/files/GutHealth.png) Gut Health](https://www.furtherfood.com/collections/gut-health)
     
-    [](https://www.furtherfood.com/pages/subscribe-and-save)![](//www.furtherfood.com/cdn/shop/files/GAT_Desktop_400_x_500_px.png?v=1706738101)
+    [](https://www.furtherfood.com/products/pumpkin-spice-collagen-powder)![](//www.furtherfood.com/cdn/shop/files/Screenshot_2024-08-26_at_9.47.00_AM.png?v=1724690836)
     
 * SUBSCRIBE
     
