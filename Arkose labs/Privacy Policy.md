@@ -697,4 +697,4 @@ Arkose Labs ranks No. 33 in the security category of the 2024 Inc. 5000!
 
                                                  
 
-https://www.arkoselabs.com/wp-login
+https://www.arkoselabs.com
