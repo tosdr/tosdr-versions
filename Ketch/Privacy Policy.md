@@ -1,4 +1,4 @@
-[**\[New\] Data Permissioning for Media Companies: privacy-safe data activation is here**
+[**\[New\] Data Permissioning for Media Companies is here**
 
 ![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/6348baa4ea56f615eca27f50_arrow_right_steel.svg)](https://www.ketch.com/blog/posts/data-permissioning-media-companies)
 
