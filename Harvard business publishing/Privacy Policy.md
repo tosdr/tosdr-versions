@@ -26,7 +26,6 @@ Explore HBR
 
 * [Latest](https://hbr.org/the-latest)
 * [The Magazine](https://hbr.org/magazine)
-* [Ascend](https://hbr.org/ascend)
 * [Podcasts](https://hbr.org/podcasts)
 * [Store](https://hbr.org/store)
 * [Webinars](https://hbr.org/webinars)
@@ -47,7 +46,6 @@ For Subscribers
 
 * [The Big Idea](https://hbr.org/big-ideas)
 * [Data & Visuals](https://hbr.org/data-visuals)
-* [Reading Lists](https://hbr.org/reading-lists)
 * [Case Selections](https://hbr.org/case-selections)
 * [HBR Learning](https://hbr.org/learning)
 * [Subscribe](https://hbr.org/subscriptions?ab=leftnav-subtout&tpcc=houseads.site.leftnav-subtout)
@@ -67,7 +65,7 @@ My Account
 * [](https://www.linkedin.com/company/harvard-business-review?trk=biz-companies-cym)
 * [](https://www.instagram.com/harvard_business_review/?hl=en)
 
-[Subscribe](https://hbr.org/subscriptions?ab=leftnav-subtout&tpcc=houseads.site.leftnav-subtout) [Latest](https://hbr.org/the-latest) [Podcasts](https://hbr.org/podcasts) [The Magazine](https://hbr.org/magazine) [Ascend](https://hbr.org/ascend) [Store](https://hbr.org/store) [Webinars](https://hbr.org/webinars) [Newsletters](https://hbr.org/email-newsletters) [All Topics](https://hbr.org/topics) [The Big Idea](https://hbr.org/big-ideas) [Data & Visuals](https://hbr.org/data-visuals) [Reading Lists](https://hbr.org/reading-lists) [Case Selections](https://hbr.org/case-selections) [HBR Learning](https://hbr.org/learning) [My Library](https://hbr.org/my-library) [Account Settings](https://hbr.org/my-library/settings) [Log Out](https://hbr.org/logout) [Sign In](#)
+[Subscribe](https://hbr.org/subscriptions?ab=leftnav-subtout&tpcc=houseads.site.leftnav-subtout) [Latest](https://hbr.org/the-latest) [Podcasts](https://hbr.org/podcasts) [The Magazine](https://hbr.org/magazine) [Store](https://hbr.org/store) [Webinars](https://hbr.org/webinars) [Newsletters](https://hbr.org/email-newsletters) [All Topics](https://hbr.org/topics) [The Big Idea](https://hbr.org/big-ideas) [Data & Visuals](https://hbr.org/data-visuals) [Case Selections](https://hbr.org/case-selections) [HBR Learning](https://hbr.org/learning) [My Library](https://hbr.org/my-library) [Account Settings](https://hbr.org/my-library/settings) [Log Out](https://hbr.org/logout) [Sign In](#)
 
 [](#)
 
@@ -89,7 +87,7 @@ Reading List
 
 Reading Lists
 
-[Latest](https://hbr.org/the-latest) [Magazine](https://hbr.org/magazine) [Ascend](https://hbr.org/ascend) [Topics](https://hbr.org/topics) [Podcasts](https://hbr.org/podcasts) [Store](https://hbr.org/store) [The Big Idea](https://hbr.org/big-ideas) [Data & Visuals](https://hbr.org/data-visuals) [Case Selections](https://hbr.org/case-selections) [HBR Learning](https://hbr.org/learning) [Ask AI](https://hbr.org/ai-beta)
+[Latest](https://hbr.org/the-latest) [Magazine](https://hbr.org/magazine) [Topics](https://hbr.org/topics) [Podcasts](https://hbr.org/podcasts) [Store](https://hbr.org/store) [The Big Idea](https://hbr.org/big-ideas) [Data & Visuals](https://hbr.org/data-visuals) [Case Selections](https://hbr.org/case-selections) [HBR Learning](https://hbr.org/learning) [Ask AI](https://hbr.org/ai-beta)
 
 [![Harvard Business Review Home](/resources/css/images/hbr_logo.svg)](https://hbr.org/)
 
@@ -101,7 +99,6 @@ Reading Lists
 * [All Topics](https://hbr.org/topics)
 * [Magazine Archive](https://hbr.org/magazine)
 * [The Big Idea](https://hbr.org/big-ideas)
-* [Reading Lists](https://hbr.org/reading-lists)
 * [Case Selections](https://hbr.org/case-selections)
 * [Podcasts](https://hbr.org/podcasts)
 * [Webinars](https://hbr.org/webinars)
@@ -109,7 +106,6 @@ Reading Lists
 * [My Library](https://hbr.org/my-library)
 * [Newsletters](https://hbr.org/email-newsletters)
 * [HBR Press](https://hbr.org/hbrpress)
-* [HBR Ascend](https://hbr.org/ascend)
 
 ###### HBR Store
 
