@@ -1,7 +1,3 @@
-Level up your CX Game at the #1 DX event
-
-[Save your spot for Contentsquare's CX Circle in New York](https://go.contentsquare.com/cxcircle-nyc?utm_campaign=701SZ000007HwDKYA0&utm_source=we[%E2%80%A6]utm_medium=organic&utm_content=banner_header&utm_term=heap)
-
 [skip to content](#main)
 
 [Loading...](https://www.heap.io/)
@@ -22,11 +18,12 @@ Toggle Main Navigation
     
     Data Insights
     
+    * [Journeys Visual maps of all user flows](https://heap.io/platform/journey-maps)
+    * [AI CoPilot Analytics for everyone](https://heap.io/platform/artificial-intelligence)
+    * [Web Analytics Integrate key web metrics](https://heap.io/platform/web-analytics)
     * [Session Replay Complete context with a single click](https://heap.io/platform/session-replay)
     * [Heatmaps Visualize user behavior instantly](https://heap.io/platform/heatmaps)
     * [Heap Illuminate Data science that pinpoints unknown friction](https://heap.io/platform/illuminate)
-    * [Journeys Visual maps of all user flows](https://heap.io/platform/journey-maps)
-    * [AI CoPilot Analytics for everyone](https://heap.io/platform/artificial-intelligence)
     
     Data Analysis
     
