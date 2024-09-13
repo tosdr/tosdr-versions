@@ -45,7 +45,7 @@ SMS recipients should see the [Care2 SMS Privacy Policy](https://www.care2.com/p
 
 This privacy policy provides you with the following information relating to how Care2 processes your personally identifiable information when you use either Care2.com or ThePetitionSite.com.
 
-Questions regarding this privacy statement should be submitted to Care2 Customer Support using the [Help Form](https://www.care2.com/help/support).
+Questions regarding this privacy statement should be submitted to Care2 Customer Support using the [Help Form](https://www.thepetitionsite.com/help/support).
 
 **Privacy Questions**
 
@@ -113,9 +113,9 @@ For some petitions we provide an advocacy service allowing individuals to send i
 
 During the signing process, you may opt to receive certain newsletters and memberships, in which case Care2 will send your contact information, including email address, street address, and sometimes phone, to those third-party providers. However, unless you specifically opt to receive such offers or send your contact information to third parties during the signing process, Care2 will keep your email address information confidential. Note that for many campaigns, the default settings assume that you want to receive communications from the petition sponsor. If you do not wish to receive such communications, please uncheck the box next to the signup offer. Please note that when you join a third party we may use your petition activity to personalize the actions you see on the site and that we send to you by email.
 
-[Newsletters:](https://www.care2.com/newsletters)
+[Newsletters:](https://www.thepetitionsite.com/newsletters)
 
-Care2 offers a variety of newsletters. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the unsubscribe instructions included in each newsletter, or by going to your [My Subscriptions](https://www.care2.com/newsletters) page to change your subscription preferences.
+Care2 offers a variety of newsletters. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the unsubscribe instructions included in each newsletter, or by going to your [My Subscriptions](https://www.thepetitionsite.com/newsletters) page to change your subscription preferences.
 
 Facebook Connect:
 
@@ -127,7 +127,7 @@ Our Site includes links to other Web sites whose privacy practices may differ fr
 
 _Will Care2 disclose any of my personal information?_
 
-Care2 will share your personal information with third parties only in the ways that are described in this privacy policy. Please see the section above about The Petition Site to learn how your petition signature information is shared. In certain situations, Care2 may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. Care2 will only disclose your personal information when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, such as to comply with a subpoena, or similar legal process, or to protect the rights or property of Care2, or as necessary to provide personalized Care2 member services. If Care2 is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. Care2 may also disclose your personal information, including name and contact information in some limited circumstances such as when you specifically opt to receive a 3rd party newsletter. We may also provide information to trusted partners who work on behalf of or with Care2 under confidentiality agreements. These companies may use your personal information to communicate with you about offers from Care2 and our marketing partners. However, these companies do not have any independent right to share this information or use for any other purposes other than to provide these services to us. If you do not want us to share your personal information with these companies, contact us through our [Help Request Form](https://www.care2.com/help/support). Under confidentiality agreements, Care2 may also match user information with third-party data. Also, Care2 does disclose aggregated user statistics (for example, _X% of our users are female_) in order to describe our services to prospective partners, advertisers, and other third parties, and for other lawful purposes.
+Care2 will share your personal information with third parties only in the ways that are described in this privacy policy. Please see the section above about The Petition Site to learn how your petition signature information is shared. In certain situations, Care2 may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. Care2 will only disclose your personal information when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, such as to comply with a subpoena, or similar legal process, or to protect the rights or property of Care2, or as necessary to provide personalized Care2 member services. If Care2 is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. Care2 may also disclose your personal information, including name and contact information in some limited circumstances such as when you specifically opt to receive a 3rd party newsletter. We may also provide information to trusted partners who work on behalf of or with Care2 under confidentiality agreements. These companies may use your personal information to communicate with you about offers from Care2 and our marketing partners. However, these companies do not have any independent right to share this information or use for any other purposes other than to provide these services to us. If you do not want us to share your personal information with these companies, contact us through our [Help Request Form](https://www.thepetitionsite.com/help/support). Under confidentiality agreements, Care2 may also match user information with third-party data. Also, Care2 does disclose aggregated user statistics (for example, _X% of our users are female_) in order to describe our services to prospective partners, advertisers, and other third parties, and for other lawful purposes.
 
 The above excludes text messaging originator opt-in data and consent; this information will not be shared with any third parties without user consent.
 
@@ -151,9 +151,9 @@ _How can I opt-out or opt-in to the sale of my personal information?_
 
 If you are 16 years of age or older, you have the right to direct us to not sell your personal information at any time (the "right to opt-out"). We do not sell the personal information of consumers we actually know are less than 16 years of age, unless we receive affirmative authorization (the "right to opt-in") from either the consumer who is between 13 and 16 years of age, or the parent or guardian of a consumer less than 13 years of age.
 
-Consumers who opt-in to personal information sales may opt-out of future sales at any time. To exercise the right to opt-out, you (or your authorized representative) may submit a request to us by contacting Care2 support and asking to opt-out of personal information sales: [Care2 Support Request Form](https://www.care2.com/help/support).
+Consumers who opt-in to personal information sales may opt-out of future sales at any time. To exercise the right to opt-out, you (or your authorized representative) may submit a request to us by contacting Care2 support and asking to opt-out of personal information sales: [Care2 Support Request Form](https://www.thepetitionsite.com/help/support).
 
-Once you make an opt-out request, we will wait at least twelve (12) months before asking you to reauthorize personal information sales. However, you may change your mind and opt back in to personal information sales at any time by contacting Care2 support and asking to opt-in to personal information sales: [Care2 Support Request Form](https://www.care2.com/help/support).
+Once you make an opt-out request, we will wait at least twelve (12) months before asking you to reauthorize personal information sales. However, you may change your mind and opt back in to personal information sales at any time by contacting Care2 support and asking to opt-in to personal information sales: [Care2 Support Request Form](https://www.thepetitionsite.com/help/support).
 
 _Will I be discriminated against for opting-out of the sale of my personal information?_
 
@@ -165,7 +165,7 @@ We will not discriminate against you for exercising any of your CCPA rights. Unl
 
 _How do I change or delete my personal information?_
 
-Please contact Care2 using the [Help Request Form](https://www.care2.com/help/support).
+Please contact Care2 using the [Help Request Form](https://www.thepetitionsite.com/help/support).
 
 _Will Care2 use my information for direct e-mailings?_
 
@@ -173,7 +173,7 @@ Care2 offers e-mail subscriptions describing action alerts, petition success sto
 
 If you sign a petition on [ThePetitionSite.com](https://www.thepetitionsite.com/), you will automatically receive emailed news updates about the petition and other important causes.
 
-Regardless of the above, Care2 may send occasional emailed messages, such as critical service announcements or other correspondence, to all registered members. To stop all such announcements, you must delete your account. You may do so by following [this link](https://www.care2.com/accounts/delete_this_account.html).
+Regardless of the above, Care2 may send occasional emailed messages, such as critical service announcements or other correspondence, to all registered members. To stop all such announcements, you must delete your account. You may do so by following [this link](https://www.thepetitionsite.com/accounts/delete_this_account.html).
 
 Care2 also offers optional mailings from our partner nonprofit organizations and from commercial entities. If you elect to receive any of these newsletters, some personal information, including your name and email address, will be sent to the respective nonprofit or commercial entity delivering the newsletter. In these cases, Care2 would no longer be able to track and control the user information. The user would be able to contact the newsletter publishers in order to control subscription preferences.
 
@@ -182,7 +182,7 @@ _Does Care2 use Tracking Technologies?_
 Yes, cookies and other tracking technologies are used on Care2 in several ways.
 
 * As is true of most web sites, Care2.com gathers certain information automatically. This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We do link this automatically collected data to other information collected about site visitors.
-* Care2 and its partners use cookies or similar technologies to analyze trends, administer the website, track users' movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service. To manage Flash cookies, please [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
+* Care2 and its partners use cookies or similar technologies to analyze trends, administer the website, track users' movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service.
 
 _Does Care2 sell e-mail addresses to advertisers?_
 
@@ -206,7 +206,7 @@ Care2 is committed to keeping your personal information safe and secure and we h
 
 This includes corporate policies and staff training regarding how your personal information should be handled, as well as physical security, encryption, and network security for IT infrastructure. Your personal information is only accessible by appropriately trained staff.
 
-Care2 has [self-certified with the US Department of Commerce](https://www.care2.com/help/general/privacy-shield.html) that it adheres to the seven Privacy Shield principles. Care2 is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). Under certain conditions an individual has the right to invoke binding arbitration. Care2 acknowledges liability in cases of onward transfers to third parties.
+Care2 has [self-certified with the US Department of Commerce](https://www.care2.com/privacy-shield) that it adheres to the seven Privacy Shield principles. Care2 is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). Under certain conditions an individual has the right to invoke binding arbitration. Care2 acknowledges liability in cases of onward transfers to third parties.
 
 _How does Care2 secure your information and its data storage?_
 
@@ -234,9 +234,9 @@ Care2 reserves the right to change the privacy policy, but will notify users of 
 
 [Electronic Privacy Information Center](https://epic.org/) - established to focus public attention on emerging civil liberties issues relating to the National Information Infrastructure.
 
-[Care2 Customer Support](https://www.care2.com/help/support) - Care2 attempts to respond to all inquiries within 48 hours.
+[Care2 Customer Support](https://www.thepetitionsite.com/help/support) - Care2 attempts to respond to all inquiries within 48 hours.
 
-[Report Spam Abuse](https://www.care2.com/help/support)
+[Report Spam Abuse](https://www.thepetitionsite.com/help/support)
 
 Corporate contact information: Care2.com, Inc., 3141 Stevens Creek Blvd. #40394, San Jose, CA 95117. Phone: 650-622-0860
 
