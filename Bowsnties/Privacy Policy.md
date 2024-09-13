@@ -259,3 +259,5 @@ Logo BNT
 [Terms of Use](https://www.bows-n-ties.com/terms-of-use/)
 
 [Sitemap](https://www.bows-n-ties.com/sitemap)
+
+[](https://www.bows-n-ties.com/contact)
