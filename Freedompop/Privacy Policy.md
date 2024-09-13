@@ -1,4 +1,4 @@
-[![Freedom Pop logo](https://polaris.truevaultcdn.com/logos/organizations/RM5WMURNE-logo-145964.png)](https://freedompop.com/)
+[![FreedomPop logo](https://polaris.truevaultcdn.com/logos/organizations/RM5WMURNE-logo-145964.png)](https://freedompop.com/)
 
 ![Open Menu icon](/_next/static/media/hamburger_menu.bac2162d.svg)
 
@@ -128,10 +128,10 @@ We may disclose personal information about you for business and commercial purpo
 
 | Personal Information Category | Categories of Service Providers | Categories of Third Parties |
 | --- | --- | --- |
-| Personal Identifiers | Business Operations Tool, Collaboration & Productivity Tools, Contractors, Customer Support Tools, Governance, Risk & Compliance Software, IT Infrastructure Services, Payment Processors, and Sales & Marketing Tools | Ad Networks, Data Analytics Providers, and Shipping Services |
+| Personal Identifiers | Business Operations Tool, Collaboration & Productivity Tools, Contractors, Customer Support Tools, Governance, Risk & Compliance Software, IT Infrastructure Services, Payment Processors, Sales & Marketing Tools, and Shipping Services | Ad Networks, Data Analytics Providers, and Shipping Services |
 | Internet Activity | Collaboration & Productivity Tools, Contractors, IT Infrastructure Services, Payment Processors, and Sales & Marketing Tools | Ad Networks and Data Analytics Providers |
-| Commercial Information | Collaboration & Productivity Tools, Contractors, IT Infrastructure Services, Payment Processors, and Sales & Marketing Tools | Ad Networks and Payment Processors |
-| Financial Information | Collaboration & Productivity Tools, Contractors, IT Infrastructure Services, Payment Processors, and Sales & Marketing Tools | Ad Networks and Payment Processors |
+| Commercial Information | Business Operations Tool, Collaboration & Productivity Tools, Contractors, IT Infrastructure Services, Payment Processors, and Sales & Marketing Tools | Ad Networks and Payment Processors |
+| Financial Information | Business Operations Tool, Collaboration & Productivity Tools, Contractors, IT Infrastructure Services, Payment Processors, and Sales & Marketing Tools | Ad Networks and Payment Processors |
 | Location Information | Collaboration & Productivity Tools, Contractors, Customer Support Tools, IT Infrastructure Services, and Payment Processors | Data Analytics Providers |
 
 Do we disclose the information we collect to outside parties?
