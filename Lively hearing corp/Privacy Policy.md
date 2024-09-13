@@ -6,11 +6,11 @@ The Enhance Select 500 has arrived! [Shop now](https://www.listenlively.com/prod
 
 The Enhance Select 500 has arrived! [Shop now](https://www.listenlively.com/product/enhanceselect500)
 
-100-day risk-free trial, US-based support!
+Try risk-free for 100 days. [Shop now](https://www.listenlively.com/product)
 
-100-day risk-free trial and US-based customer support!
+Try Enhance Select hearing aids risk-free for 100 days. [Shop now](https://www.listenlively.com/product)
 
-100-day risk-free trial and US-based customer support!
+Try Enhance Select hearing aids risk-free for 100 days. [Shop now](https://www.listenlively.com/product)
 
 [Jabra EnhanceTM](https://www.listenlively.com/)
 
@@ -19,8 +19,6 @@ The Enhance Select 500 has arrived! [Shop now](https://www.listenlively.com/prod
 [(800) 854-2772We're open! Call now](tel:8008542772)[](tel:8008542772 "Call us")
 
 [](https://www.listenlively.com/survey)
-
-![NCOA](/_next/static/media/ncoa-adviser-logo.d5975983.svg)
 
 Previous
 
@@ -47,13 +45,9 @@ sound, our most discreet design](https://www.listenlively.com/product)[Our clear
 sound, our most discreet design _Shop Now_](https://www.listenlively.com/product)[Our clearest  
 sound, our most discreet design _Shop the Select 500_](https://www.listenlively.com/product)
 
-“Best Hearing Aids of 2024 Editor's Pick”
-
-![NCOA](/_next/static/media/ncoa-adviser-logo.d5975983.svg)
+“Best if you're new to hearing aids”
 
 Next
-
-![NCOA](/_next/static/media/ncoa-adviser-logo.d5975983.svg)
 
 What you get with Jabra Enhance Select
 --------------------------------------
@@ -89,7 +83,7 @@ Try Enhance Select hearing aids for 100 days. If you're not fully satisfied, we'
 90% of customers using Enhance Select Premium report hearing better\*
 ---------------------------------------------------------------------
 
-4.6 out of 5(3723 reviews)
+4.6 out of 5(3733 reviews)
 
 * _**95%** report hearing friends & family better_
 * _**95%** report asking others to repeat themselves less_
@@ -136,7 +130,7 @@ With our **Premium Package**, our Audiology Team works with you remotely to impr
 
 ### Everything you need for better hearing
 
-4.6 out of 5(3723 reviews)
+4.6 out of 5(3733 reviews)
 
 ![](/cdn-cgi/image/width=1920,quality=80,format=auto/_next/static/media/hp-bundle.072d2d18.png)
 
