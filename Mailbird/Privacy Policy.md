@@ -162,7 +162,12 @@ I agree
 
 ##### Mailbird for Mac
 
+##### Mailbird for Mac is coming!
+
 Sign up to get early access!
+
+Our Early Access program is full.  
+Stay tuned; the official launch is right around the corner.
 
  Sign up
 
