@@ -88,6 +88,8 @@ Driversnote
 
 [French Canada](https://www.fr.driversnote.ca/conditions-de-service)
 
+[Germany](https://www.driversnote.de/AGB)
+
 [Netherlands](https://www.driversnote.nl/servicevoorwaarden)
 
 [New Zealand](https://www.driversnote.co.nz/terms-of-service)
