@@ -561,7 +561,7 @@ Main
             
             Check out the highlights from InstructureCon 24.
             
-            [Explore More](https://info.badgr.com/events/instructurecon/2024)
+            [Explore More](https://info.badgr.com/resources/instructurecon-2024)
             
 * About Us
     * Column
