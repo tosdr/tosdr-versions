@@ -2,18 +2,22 @@
 
 * [Home](https://www.ihyperg.com/)
 * [ ]  News
-    * [Tech News](https://www.ihyperg.com/search/label/Tech%20News)
-    * [Gadgets News](https://www.ihyperg.com/search/label/Gadgets%20News)
-    * [Apps News](https://www.ihyperg.com/search/label/Apps%20News)
-    * [Crypto News](https://www.skyversed.com/search/label/Crypto%20News)
+    * [Tech](https://www.ihyperg.com/search/label/Tech%20News)
+    * [Gadgets](https://www.ihyperg.com/search/label/Gadgets%20News)
+    * [Apps](https://www.ihyperg.com/search/label/Apps%20News)
+    * [Space](https://www.ihyperg.com/search/label/Space%20News)
+    * [Gaming](https://www.ihyperg.com/search/label/Gaming%20News)
+    * [AI & Machine Learning](https://www.ihyperg.com/search/label/AI%20News)
+    * [Cybersecurity](https://www.ihyperg.com/search/label/Cybersecurity%20News)
+    * [Crypto](https://www.skyversed.com/search/label/Crypto%20News)
 * [ ]  Pages
     * [Bridge Milky Launcher](https://www.ihyperg.com/p/how-to-use-launcher-bridge-milky.html)
     * [Bridge Star Launcher](https://www.ihyperg.com/p/how-to-use-launcher-bridge-star-launcher.html)
     * [Milky Launcher FAQ](https://www.ihyperg.com/p/milky-launcher-frequently-asked.html)
     * [Star Launcher FAQ](https://www.ihyperg.com/p/star-launcher-frequently-asked-question.html)
 * [ ]  Apps
-    * [Pichype Photo Editor](https://www.ihyperg.com/p/pichype-photo-editor.html)
-    * [MonHype Photo Motion](https://www.ihyperg.com/p/monhype-photo-motion.html)
+    * [Pichype](https://www.ihyperg.com/p/pichype-photo-editor.html)
+    * [VROF](https://www.ihyperg.com/p/monhype-photo-motion.html)
     * [Star Launcher Prime](https://www.ihyperg.com/p/star-launcher-prime.html)
     * [Milky Launcher Pro](https://www.ihyperg.com/p/milky-launcher-pro.html)
 * [ ]  Links
@@ -26,7 +30,7 @@
     * [Pages Sitemap](https://ihyperg.com/sitemap-pages.xml)
 * [Privacy Policy](https://www.ihyperg.com/p/privacy-policy.html)
 
-We're back to bring you the most interesting news after a long break, and we hope for your continued support. Don't forget to follow us on Twitter to stay updated! [Open](https://twitter.com/ihyperg_com)
+Stay ahead with the latest tech news – follow us for more --> [Open](https://twitter.com/ihyperg_com)
 
 [Home](https://www.ihyperg.com/) 
 
