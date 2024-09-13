@@ -8,7 +8,7 @@
 
 [Who We Are](https://redventures.com/aabfa599-02e7-4d61-80d4-1d7ee7b6364a)
 
-[Who We Are](https://redventures.com/about/who-we-are)
+[About RV](https://redventures.com/about/who-we-are)
 
 [Leadership](https://redventures.com/about/leadership)
 
@@ -44,7 +44,7 @@ Open Menu Close Menu
 
 [Who We Are](https://redventures.com/aabfa599-02e7-4d61-80d4-1d7ee7b6364a)
 
-[Who We Are](https://redventures.com/about/who-we-are)
+[About RV](https://redventures.com/about/who-we-are)
 
 [Leadership](https://redventures.com/about/leadership)
 
@@ -80,7 +80,7 @@ Open Menu Close Menu
 
 [Back](https://redventures.com/)
 
-[Who We Are](https://redventures.com/about/who-we-are)
+[About RV](https://redventures.com/about/who-we-are)
 
 [Leadership](https://redventures.com/about/leadership)
 
@@ -151,8 +151,6 @@ Open Menu Close Menu
 [Blog](https://redventures.com/blog)
 
 [Press](https://redventures.com/press)
-
-[Contact](https://redventures.com/contact)
 
 [Legal & Privacy](https://redventures.com/legal)
 
