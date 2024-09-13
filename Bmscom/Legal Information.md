@@ -328,8 +328,6 @@ Related links
 
 [Download business development brochure](https://www.bms.com/assets/bms/us/en-us/pdf/bms-business-development-brochure.pdf)
 
-"Golden Ticket" contests
-
 News _Next Page Icon_
 
 [News](https://www.bms.com/media.html)
