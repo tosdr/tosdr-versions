@@ -23,8 +23,8 @@ Popular Games
 
 Latest game news
 
-* [Interview with Jun Furutani, Producer of Sparking! ZERO](https://en.bandainamcoent.eu/dragon-ball/news/interview-jun-furutani-producer-of-sparking-zero)
-* [Get a chance to win a life-size replica of the Arm of Malenia by participating in the Official Elden Ring Quiz!](https://en.bandainamcoent.eu/elden-ring/news/get-chance-win-life-size-replica-of-the-arm-of-malenia-participating-the-official)
+* [GT Characters added to roster of the upcoming DRAGON BALL: Sparking! ZERO !](https://en.bandainamcoent.eu/dragon-ball/news/gt-characters-added-roster-of-the-upcoming-dragon-ball-sparking-zero)
+* [ELDEN RING Shadow of the Erdtree - Stats from the Shadows (Infographic)](https://en.bandainamcoent.eu/elden-ring/news/elden-ring-shadow-of-the-erdtree-stats-the-shadows-infographic)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
