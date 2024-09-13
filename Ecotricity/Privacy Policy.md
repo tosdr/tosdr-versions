@@ -460,7 +460,7 @@ Ecotricity is recommended by
 * [Ecotricity innovation](https://www.ecotricity.co.uk/our-story/ecotricity-innovation)
 * [Walking the talk](https://www.ecotricity.co.uk/our-story/walking-the-talk)
 * [Our partners](https://www.ecotricity.co.uk/our-story/our-partners)
-* [Our news](https://www.ecotricity.co.uk/our-news)
+* [Green news](https://www.ecotricity.co.uk/our-news)
 
 * Our green energy
     
