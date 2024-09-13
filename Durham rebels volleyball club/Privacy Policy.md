@@ -18,13 +18,12 @@ SEARCH Search
     * [Rebels for a Cause](https://www.drvcvolleyball.ca/rebelsforacause/)
     * [Safety](https://www.drvcvolleyball.ca/safety/)
 * [TrainExpand](#)
-    * [Learn to Play Volleyball (LTP)](https://www.drvcvolleyball.ca/ltp/)
+    * [Learn to Play Volleyball](https://www.drvcvolleyball.ca/ltp/)
     * [Clinics](https://www.drvcvolleyball.ca/clinics/)
     * [Summer Camp](https://www.drvcvolleyball.ca/camp/)
 * [CompeteExpand](#)
     * [Committing to Rep](https://www.drvcvolleyball.ca/rep/)
     * [TryoutsExpand](#)
-        * [Open Gyms](https://www.drvcvolleyball.ca/opengym/)
         * [September Tryouts](https://www.drvcvolleyball.ca/tryouts/)
     * [Rep TeamsExpand](https://www.drvcvolleyball.ca/rep/)
         * [2024/2025 RostersExpand](#)
@@ -135,7 +134,7 @@ All content protected by copyright & subject to permission to use.
     * [Safety](https://www.drvcvolleyball.ca/safety/)
 * [Train](#)Toggle child menuExpand
     
-    * [Learn to Play Volleyball (LTP)](https://www.drvcvolleyball.ca/ltp/)
+    * [Learn to Play Volleyball](https://www.drvcvolleyball.ca/ltp/)
     * [Clinics](https://www.drvcvolleyball.ca/clinics/)
     * [Summer Camp](https://www.drvcvolleyball.ca/camp/)
 * [Compete](#)Toggle child menuExpand
@@ -143,7 +142,6 @@ All content protected by copyright & subject to permission to use.
     * [Committing to Rep](https://www.drvcvolleyball.ca/rep/)
     * [Tryouts](#)Toggle child menuExpand
         
-        * [Open Gyms](https://www.drvcvolleyball.ca/opengym/)
         * [September Tryouts](https://www.drvcvolleyball.ca/tryouts/)
     * [Rep Teams](https://www.drvcvolleyball.ca/rep/)Toggle child menuExpand
         
