@@ -1548,6 +1548,7 @@ We share the SDK Information with service providers, to perform any of the act
 * [We Care For You](https://www.hdfcbank.com/personal/need-help/we-care-for-you)
 * [FAQs](https://www.hdfcbank.com/personal/need-help/faqs)
 * [Customer Care](https://www.hdfcbank.com/personal/need-help/customer-care)
+* [HDFC Bank Credit Card Customer Care](https://www.hdfcbank.com/personal/need-help/credit-card-customer-care)
 * [Grievance Redressal Officer](https://www.hdfcbank.com/personal/need-help/grievance-redressal-officer)
 * [Contact Us](https://www.hdfcbank.com/personal/need-help/contact-us)
 * [Use Of Unparliamentary Language By Customers](https://www.hdfcbank.com/htdocs/common/Unparliamentary_Language/index.html)
