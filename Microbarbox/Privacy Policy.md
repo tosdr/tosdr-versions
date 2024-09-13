@@ -23,8 +23,8 @@ Close
     
     * [All Cocktail Gift Sets](https://www.microbarbox.com/cocktail-gift-sets "All Cocktail Gift Sets")
     * [Pornstar Martini](https://www.microbarbox.com/pornstar-martini-gift-sets "Pornstar Martini")
-    * [Margarita](https://www.microbarbox.com/margarita-cocktail-gift-sets "Margarita")
     * [Gin & Tonic](https://www.microbarbox.com/gin-tonic-gift-sets "Gin & Tonic")
+    * [Margarita](https://www.microbarbox.com/margarita-cocktail-gift-sets "Margarita")
     * [Negroni](https://www.microbarbox.com/negroni-gift-sets "Negroni")
     * [Mojito](https://www.microbarbox.com/mojito-cocktail-gift-sets "Mojito")
     * [Prosecco Cocktails](https://www.microbarbox.com/prosecco-cocktail-gift-sets "Prosecco Cocktails")
@@ -96,8 +96,8 @@ Menu
         * back
         * [All Cocktail Gift Sets](https://www.microbarbox.com/cocktail-gift-sets "All Cocktail Gift Sets")
         * [Pornstar Martini](https://www.microbarbox.com/pornstar-martini-gift-sets "Pornstar Martini")
-        * [Margarita](https://www.microbarbox.com/margarita-cocktail-gift-sets "Margarita")
         * [Gin & Tonic](https://www.microbarbox.com/gin-tonic-gift-sets "Gin & Tonic")
+        * [Margarita](https://www.microbarbox.com/margarita-cocktail-gift-sets "Margarita")
         * [Negroni](https://www.microbarbox.com/negroni-gift-sets "Negroni")
         * [Mojito](https://www.microbarbox.com/mojito-cocktail-gift-sets "Mojito")
         * [Prosecco Cocktails](https://www.microbarbox.com/prosecco-cocktail-gift-sets "Prosecco Cocktails")
