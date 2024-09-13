@@ -93,9 +93,9 @@ Apply
 
  ![](https://www.mypillow.com/media/wysiwyg/promotions/free-shipping-75-exclude.jpg)
 
-[](https://www.mypillow.com/tv-specials)
-
 [](https://www.mypillow.ca/25-extravaganza-new)
+
+[](https://www.mypillow.com/tv-specials)
 
 [](https://www.mypillow.com/mymattress-topper-with-free-mypillow-percale-sheets)
 
@@ -105,23 +105,23 @@ Apply
 
    [](https://www.mypillow.com/mypillows)
 
-   [](https://www.mypillow.com/toppers)
-
    [](https://www.mypillow.com/bath/bath-towels)
+
+   [](https://www.mypillow.com/toppers)
 
    [](https://www.mypillow.com/bedding)
 
-   [](https://www.mypillow.com/bath/kitchen-towels)
+   [](https://www.mypillow.com/slipper-specials)
 
    [](https://www.mypillow.com/accessory-pillows)
 
-   [](https://www.mypillow.com/slipper-specials)
+   [](https://www.mypillow.com/clothing/made-in-america-socks-category)
 
    [](https://www.mypillow.ca/mypillow-2-0)
 
    [](https://www.mypillow.com/mattresses)
 
-   [](https://www.mypillow.com/clothing/made-in-america-socks-category)
+   [](https://www.mypillow.com/bath/kitchen-towels)
 
    [](https://www.mypillow.com/accessory-pillows)
 
