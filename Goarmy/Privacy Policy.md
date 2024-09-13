@@ -6,41 +6,36 @@
         
         Left Caret Icon
         
-        * * ### [What to Consider](https://www.goarmy.com/explore-the-army/what-to-consider.html)
-                
-            * ### [Ways to Serve](https://www.goarmy.com/explore-the-army/army-structure.html)
-                
-            * ### [Active Duty](https://www.goarmy.com/explore-the-army/army-structure/active-duty.html)
-                
-            * ### [Reasons to Join](https://www.goarmy.com/explore-the-army/reasons-to-join.html)
-                
-            * ### [Army National Guard](https://www.goarmy.com/explore-the-army/army-structure/national-guard.html)
-                
-        * #### Why the Army
+        * * [What to Consider](https://www.goarmy.com/explore-the-army/what-to-consider)
+            * [Ways to Serve](https://www.goarmy.com/explore-the-army/army-structure)
+            * [Active Duty](https://www.goarmy.com/explore-the-army/army-structure/active-duty)
+            * [Reasons to Join](https://www.goarmy.com/explore-the-army/reasons-to-join)
+            * [Army National Guard](https://www.goarmy.com/explore-the-army/army-structure/national-guard)
+        * Why the Army
             
-            [Reasons to Join](https://www.goarmy.com/explore-the-army/reasons-to-join.html)
+            [Reasons to Join](https://www.goarmy.com/explore-the-army/reasons-to-join)
             
-            [What to Consider](https://www.goarmy.com/explore-the-army/what-to-consider.html)
+            [What to Consider](https://www.goarmy.com/explore-the-army/what-to-consider)
             
-            #### Service Options
+            Service Options
             
-            [Ways to Serve](https://www.goarmy.com/explore-the-army/army-structure.html)
+            [Ways to Serve](https://www.goarmy.com/explore-the-army/army-structure)
             
-            [Active Duty](https://www.goarmy.com/explore-the-army/army-structure/active-duty.html)
+            [Active Duty](https://www.goarmy.com/explore-the-army/army-structure/active-duty)
             
-            [Army Reserve](https://www.goarmy.com/explore-the-army/army-structure/reserve.html)
+            [Army Reserve](https://www.goarmy.com/explore-the-army/army-structure/reserve)
             
-            [Army National Guard](https://www.goarmy.com/explore-the-army/army-structure/national-guard.html)
+            [Army National Guard](https://www.goarmy.com/explore-the-army/army-structure/national-guard)
             
-            #### About
+            About
             
-            [About the Army](https://www.goarmy.com/explore-the-army/about.html)
+            [About the Army](https://www.goarmy.com/explore-the-army/about)
             
-            [Purpose & Legacy](https://www.goarmy.com/explore-the-army/about/purpose-legacy.html)
+            [Purpose & Legacy](https://www.goarmy.com/explore-the-army/about/purpose-legacy)
             
-            [One Army for All](https://www.goarmy.com/explore-the-army/about/one-army-for-all.html)
+            [One Army for All](https://www.goarmy.com/explore-the-army/about/one-army-for-all)
             
-            [Holistic Health](https://www.goarmy.com/explore-the-army/holistic-health-fitness.html)
+            [Holistic Health](https://www.goarmy.com/explore-the-army/holistic-health-fitness)
             
         
         Switch between site languages:
@@ -49,7 +44,7 @@
         
         Esp
         
-        * [Apply](https://www.goarmy.com/apply.html)
+        * [Apply](https://www.goarmy.com/apply)
         
         Close Icon
         
@@ -59,37 +54,32 @@
         
         Left Caret Icon
         
-        * * ### [Basic Training](https://www.goarmy.com/army-life/basic-training.html)
-                
-            * ### [Intro to Army Life](https://www.goarmy.com/army-life/intro-to-army-life.html)
-                
-            * ### [Day in the Life](https://www.goarmy.com/army-life/intro-to-army-life/daily-routine.html)
-                
-            * ### [Housing](https://www.goarmy.com/army-life/housing.html)
-                
-            * ### [Family Life](https://www.goarmy.com/army-life/family-living.html)
-                
-        * #### What to Expect
+        * * [Basic Training](https://www.goarmy.com/army-life/basic-training)
+            * [Intro to Army Life](https://www.goarmy.com/army-life/intro-to-army-life)
+            * [Day in the Life](https://www.goarmy.com/army-life/intro-to-army-life/daily-routine)
+            * [Housing](https://www.goarmy.com/army-life/housing)
+            * [Family Life](https://www.goarmy.com/army-life/family-living)
+        * What to Expect
             
-            [Deployment](https://www.goarmy.com/army-life/intro-to-army-life/deployment.html)
+            [Deployment](https://www.goarmy.com/army-life/intro-to-army-life/deployment)
             
-            [Service Commitment](https://www.goarmy.com/army-life/intro-to-army-life/time-commitment.html)
+            [Service Commitment](https://www.goarmy.com/army-life/intro-to-army-life/time-commitment)
             
-            #### Training
+            Training
             
-            [Basic Training](https://www.goarmy.com/army-life/basic-training.html)
+            [Basic Training](https://www.goarmy.com/army-life/basic-training)
             
-            [Officer Training](https://www.goarmy.com/army-life/officer-training.html)
+            [Officer Training](https://www.goarmy.com/army-life/officer-training)
             
-            #### Daily Life
+            Daily Life
             
-            [Intro to Army Life](https://www.goarmy.com/army-life/intro-to-army-life.html)
+            [Intro to Army Life](https://www.goarmy.com/army-life/intro-to-army-life)
             
-            [Day in the Life](https://www.goarmy.com/army-life/intro-to-army-life/daily-routine.html)
+            [Day in the Life](https://www.goarmy.com/army-life/intro-to-army-life/daily-routine)
             
-            [Housing](https://www.goarmy.com/army-life/housing.html)
+            [Housing](https://www.goarmy.com/army-life/housing)
             
-            [Family Life](https://www.goarmy.com/army-life/family-living.html)
+            [Family Life](https://www.goarmy.com/army-life/family-living)
             
         
         Switch between site languages:
@@ -98,7 +88,7 @@
         
         Esp
         
-        * [Apply](https://www.goarmy.com/apply.html)
+        * [Apply](https://www.goarmy.com/apply)
         
         Close Icon
         
@@ -108,83 +98,78 @@
         
         Left Caret Icon
         
-        * * ### [Find Your Path](https://www.goarmy.com/careers-and-jobs/find-your-path.html)
-                
-            * ### [Job Training](https://www.goarmy.com/careers-and-jobs/job-training.html)
-                
-            * ### [All Jobs](https://www.goarmy.com/careers-and-jobs/browse-jobs.html)
-                
-            * ### [Enlisted Soldiers](https://www.goarmy.com/careers-and-jobs/find-your-path/enlisted-soldiers.html)
-                
-            * ### [Career Match Quiz](https://www.goarmy.com/careers-and-jobs/career-match/quiz.html)
-                
-        * #### Career Paths
+        * * [Find Your Path](https://www.goarmy.com/careers-and-jobs/find-your-path)
+            * [Job Training](https://www.goarmy.com/careers-and-jobs/job-training)
+            * [All Jobs](https://www.goarmy.com/careers-and-jobs/browse-jobs)
+            * [Enlisted Soldiers](https://www.goarmy.com/careers-and-jobs/find-your-path/enlisted-soldiers)
+            * [Career Match Quiz](https://www.goarmy.com/careers-and-jobs/career-match/quiz)
+        * Career Paths
             
-            [Find Your Path](https://www.goarmy.com/careers-and-jobs/find-your-path.html)
+            [Find Your Path](https://www.goarmy.com/careers-and-jobs/find-your-path)
             
-            [Enlisted Soldiers](https://www.goarmy.com/careers-and-jobs/find-your-path/enlisted-soldiers.html)
+            [Enlisted Soldiers](https://www.goarmy.com/careers-and-jobs/find-your-path/enlisted-soldiers)
             
-            [Army Officers](https://www.goarmy.com/careers-and-jobs/find-your-path/army-officers.html)
+            [Army Officers](https://www.goarmy.com/careers-and-jobs/find-your-path/army-officers)
             
-            [Officer Candidate School](https://www.goarmy.com/careers-and-jobs/find-your-path/army-officers/ocs.html)
+            [Officer Candidate School](https://www.goarmy.com/careers-and-jobs/find-your-path/army-officers/ocs)
             
-            [Warrant Officers](https://www.goarmy.com/careers-and-jobs/find-your-path/warrant-officers.html)
+            [Warrant Officers](https://www.goarmy.com/careers-and-jobs/find-your-path/warrant-officers)
             
-            [Army Civilians Careers](https://www.goarmy.com/careers-and-jobs/find-your-path/army-civilians.html)
+            [Army Civilians Careers](https://www.goarmy.com/careers-and-jobs/find-your-path/army-civilians)
             
-            #### College Path
+            College Path
             
-            [Army ROTC](https://www.goarmy.com/careers-and-jobs/find-your-path/army-officers/rotc.html)
+            [Army ROTC](https://www.goarmy.com/careers-and-jobs/find-your-path/army-officers/rotc)
             
-            [ROTC Scholarships](https://www.goarmy.com/careers-and-jobs/find-your-path/army-officers/rotc/scholarships.html)
+            [ROTC Scholarships](https://www.goarmy.com/careers-and-jobs/find-your-path/army-officers/rotc/scholarships)
             
-            [USMA at West Point](https://www.goarmy.com/careers-and-jobs/find-your-path/army-officers/military-academy.html)
+            [USMA at West Point](https://www.goarmy.com/careers-and-jobs/find-your-path/army-officers/military-academy)
             
-            [Green to Gold](https://www.goarmy.com/careers-and-jobs/find-your-path/army-officers/green-to-gold.html)
+            [Green to Gold](https://www.goarmy.com/careers-and-jobs/find-your-path/army-officers/green-to-gold)
             
-            #### Medical Path
+            Medical Path
             
-            [Army Medical](https://www.goarmy.com/careers-and-jobs/specialty-careers/medical.html)
+            [Army Medical](https://www.goarmy.com/careers-and-jobs/specialty-careers/medical)
             
-            [Medical Scholarships](https://www.goarmy.com/careers-and-jobs/specialty-careers/medical/amedd-scholarship.html)
+            [Medical Scholarships](https://www.goarmy.com/careers-and-jobs/specialty-careers/medical/amedd-scholarship)
             
-            [Medical Training](https://www.goarmy.com/careers-and-jobs/specialty-careers/medical/residency-locations.html)
+            [Medical Training](https://www.goarmy.com/careers-and-jobs/specialty-careers/medical/residency-locations)
             
-            #### Specialized Paths
+            Specialized Paths
             
-            [Specialty Jobs](https://www.goarmy.com/careers-and-jobs/specialty-careers.html)
+            [Specialty Jobs](https://www.goarmy.com/careers-and-jobs/specialty-careers)
             
-            [Army Law](https://www.goarmy.com/careers-and-jobs/specialty-careers/law.html)
+            [Army Law](https://www.goarmy.com/careers-and-jobs/specialty-careers/law)
             
-            [Army Chaplain](https://www.goarmy.com/careers-and-jobs/specialty-careers/chaplain.html)
+            [Army Chaplain](https://www.goarmy.com/careers-and-jobs/specialty-careers/chaplain)
             
-            [Army Cyber & Technology](https://www.goarmy.com/careers-and-jobs/specialty-careers/army-cyber.html)
+            [Army Cyber & Technology](https://www.goarmy.com/careers-and-jobs/specialty-careers/army-cyber)
             
-            [Army Aviation](https://www.goarmy.com/careers-and-jobs/specialty-careers/aviation.html)
+            [Army Aviation](https://www.goarmy.com/careers-and-jobs/specialty-careers/aviation)
             
-            [Army Bands](https://www.goarmy.com/careers-and-jobs/specialty-careers/band.html)
+            [Army Bands](https://www.goarmy.com/careers-and-jobs/specialty-careers/band)
             
-            #### Special Operations
+            Special Operations
             
-            [Special Operations](https://www.goarmy.com/careers-and-jobs/specialty-careers/special-ops.html)
+            [Special Operations](https://www.goarmy.com/careers-and-jobs/specialty-careers/special-ops)
             
-            [Army Rangers](https://www.goarmy.com/careers-and-jobs/specialty-careers/special-ops/army-rangers.html)
+            [Army Rangers](https://www.goarmy.com/careers-and-jobs/specialty-careers/special-ops/army-rangers)
             
-            [Special Forces](https://www.goarmy.com/careers-and-jobs/specialty-careers/special-ops/special-forces.html)
+            [Special Forces](https://www.goarmy.com/careers-and-jobs/specialty-careers/special-ops/special-forces)
             
-            [Psychological Operations](https://www.goarmy.com/careers-and-jobs/specialty-careers/special-ops/psychological-operations.html)
+            [Psychological Operations](https://www.goarmy.com/careers-and-jobs/specialty-careers/special-ops/psychological-operations)
             
-            [Civil Affairs](https://www.goarmy.com/careers-and-jobs/specialty-careers/special-ops/civil-affairs.html)
+            [Civil Affairs](https://www.goarmy.com/careers-and-jobs/specialty-careers/special-ops/civil-affairs)
             
-            #### Career Development
+            Career Development
             
-            [Army Career Match](https://www.goarmy.com/careers-and-jobs/career-match.html)
+            [Army Career Match](https://www.goarmy.com/careers-and-jobs/career-match)
             
-            [Job Training](https://www.goarmy.com/careers-and-jobs/job-training.html)
+            [Job Training](https://www.goarmy.com/careers-and-jobs/job-training)
             
-            [Advanced Individual Training](https://www.goarmy.com/careers-and-jobs/job-training/advanced-individual-training.html)
+            [Advanced Individual Training](https://www.goarmy.com/careers-and-jobs/job-training/advanced-individual-training)
             
-            [Leadership Training](https://www.goarmy.com/careers-and-jobs/job-training/leadership-schools.html)
+            [Leadership Training](https://www.goarmy.com/careers-and-jobs/job-training/leadership-schools)
             
         
         Switch between site languages:
@@ -193,7 +178,7 @@
         
         Esp
         
-        * [Apply](https://www.goarmy.com/apply.html)
+        * [Apply](https://www.goarmy.com/apply)
         
         Close Icon
         
@@ -203,45 +188,40 @@
         
         Left Caret Icon
         
-        * * ### [Money & Pay Charts](https://www.goarmy.com/benefits/while-you-serve/money-pay.html)
-                
-            * ### [Army Benefits](https://www.goarmy.com/benefits/while-you-serve.html)
-                
-            * ### [Family Benefits](https://www.goarmy.com/benefits/family.html)
-                
-            * ### [Home Loans](https://www.goarmy.com/benefits/while-you-serve/home-loans.html)
-                
-            * ### [Health Care](https://www.goarmy.com/benefits/while-you-serve/health-care.html)
-                
-        * #### While Serving
+        * * [Money & Pay Charts](https://www.goarmy.com/benefits/while-you-serve/money-pay)
+            * [Army Benefits](https://www.goarmy.com/benefits/while-you-serve)
+            * [Family Benefits](https://www.goarmy.com/benefits/family)
+            * [Home Loans](https://www.goarmy.com/benefits/while-you-serve/home-loans)
+            * [Health Care](https://www.goarmy.com/benefits/while-you-serve/health-care)
+        * While Serving
             
-            [Army Benefits](https://www.goarmy.com/benefits/while-you-serve.html)
+            [Army Benefits](https://www.goarmy.com/benefits/while-you-serve)
             
-            [Education & Training](https://www.goarmy.com/benefits/while-you-serve/education-training.html)
+            [Education & Training](https://www.goarmy.com/benefits/while-you-serve/education-training)
             
-            [GI Bill](https://www.goarmy.com/benefits/while-you-serve/education-training/gi-bill.html)
+            [GI Bill](https://www.goarmy.com/benefits/while-you-serve/education-training/gi-bill)
             
-            [Army Certifications](https://www.goarmy.com/benefits/while-you-serve/education-training/certifications-and-credentials.html)
+            [Army Certifications](https://www.goarmy.com/benefits/while-you-serve/education-training/certifications-and-credentials)
             
-            [Money & Pay Charts](https://www.goarmy.com/benefits/while-you-serve/money-pay.html)
+            [Money & Pay Charts](https://www.goarmy.com/benefits/while-you-serve/money-pay)
             
-            [Army Bonuses](https://www.goarmy.com/benefits/while-you-serve/bonuses.html)
+            [Army Bonuses](https://www.goarmy.com/benefits/while-you-serve/bonuses)
             
-            [Health Care](https://www.goarmy.com/benefits/while-you-serve/health-care.html)
+            [Health Care](https://www.goarmy.com/benefits/while-you-serve/health-care)
             
-            [Home Loans](https://www.goarmy.com/benefits/while-you-serve/home-loans.html)
+            [Home Loans](https://www.goarmy.com/benefits/while-you-serve/home-loans)
             
-            [Perks & Incentives](https://www.goarmy.com/benefits/while-you-serve/perks-incentives.html)
+            [Perks & Incentives](https://www.goarmy.com/benefits/while-you-serve/perks-incentives)
             
-            [Family Benefits](https://www.goarmy.com/benefits/family.html)
+            [Family Benefits](https://www.goarmy.com/benefits/family)
             
-            #### After Serving
+            After Serving
             
-            [Veteran Benefits](https://www.goarmy.com/benefits/veterans.html)
+            [Veteran Benefits](https://www.goarmy.com/benefits/veterans)
             
-            [Veteran Programs & Services](https://www.goarmy.com/benefits/veterans/services.html)
+            [Veteran Programs & Services](https://www.goarmy.com/benefits/veterans/services)
             
-            [Retirement & Pension Plans](https://www.goarmy.com/benefits/veterans/retirement.html)
+            [Retirement & Pension Plans](https://www.goarmy.com/benefits/veterans/retirement)
             
         
         Switch between site languages:
@@ -250,7 +230,7 @@
         
         Esp
         
-        * [Apply](https://www.goarmy.com/apply.html)
+        * [Apply](https://www.goarmy.com/apply)
         
         Close Icon
         
@@ -260,39 +240,34 @@
         
         Left Caret Icon
         
-        * * ### [Working With a Recruiter](https://www.goarmy.com/how-to-join/steps/recruiter.html)
-                
-            * ### [Steps to Join](https://www.goarmy.com/how-to-join/steps.html)
-                
-            * ### [Soldier Prep Quiz](https://www.goarmy.com/how-to-join/soldier-prep-quiz.html)
-                
-            * ### [Your First Weeks](https://www.goarmy.com/how-to-join/after-you-join.html)
-                
-            * ### [Requirements to Join](https://www.goarmy.com/how-to-join/requirements.html)
-                
-        * #### Process
+        * * [Working With a Recruiter](https://www.goarmy.com/how-to-join/steps/recruiter)
+            * [Steps to Join](https://www.goarmy.com/how-to-join/steps)
+            * [Soldier Prep Quiz](https://www.goarmy.com/how-to-join/soldier-prep-quiz)
+            * [Your First Weeks](https://www.goarmy.com/how-to-join/after-you-join)
+            * [Requirements to Join](https://www.goarmy.com/how-to-join/requirements)
+        * Process
             
-            [Steps to Join](https://www.goarmy.com/how-to-join/steps.html)
+            [Steps to Join](https://www.goarmy.com/how-to-join/steps)
             
-            [Working With a Recruiter](https://www.goarmy.com/how-to-join/steps/recruiter.html)
+            [Working With a Recruiter](https://www.goarmy.com/how-to-join/steps/recruiter)
             
-            [Entrance Test](https://www.goarmy.com/how-to-join/steps/asvab.html)
+            [Entrance Test](https://www.goarmy.com/how-to-join/steps/asvab)
             
-            [Processing & Screening](https://www.goarmy.com/how-to-join/steps/processing-station.html)
+            [Processing & Screening](https://www.goarmy.com/how-to-join/steps/processing-station)
             
-            [Your First Weeks](https://www.goarmy.com/how-to-join/after-you-join.html)
+            [Your First Weeks](https://www.goarmy.com/how-to-join/after-you-join)
             
-            #### Qualifications
+            Qualifications
             
-            [Requirements to Join](https://www.goarmy.com/how-to-join/requirements.html)
+            [Requirements to Join](https://www.goarmy.com/how-to-join/requirements)
             
-            [Fitness Requirements](https://www.goarmy.com/how-to-join/requirements/fitness.html)
+            [Fitness Requirements](https://www.goarmy.com/how-to-join/requirements/fitness)
             
-            [Hair & Appearance Guidelines](https://www.goarmy.com/how-to-join/requirements/appearance.html)
+            [Hair & Appearance Guidelines](https://www.goarmy.com/how-to-join/requirements/appearance)
             
-            #### Test Your Readiness
+            Test Your Readiness
             
-            [Soldier Prep Quiz](https://www.goarmy.com/how-to-join/soldier-prep-quiz.html)
+            [Soldier Prep Quiz](https://www.goarmy.com/how-to-join/soldier-prep-quiz)
             
         
         Switch between site languages:
@@ -301,18 +276,18 @@
         
         Esp
         
-        * [Apply](https://www.goarmy.com/apply.html)
+        * [Apply](https://www.goarmy.com/apply)
         
         Close Icon
         
-    * [Apply](https://www.goarmy.com/apply.html)
+    * [Apply](https://www.goarmy.com/apply)
 * Switch between site languages:
     
     En
     
     Esp
     
-    * [Apply](https://www.goarmy.com/apply.html)
+    * [Apply](https://www.goarmy.com/apply)
     
 
 * Bookmark Icon
@@ -327,17 +302,17 @@
     
     Submit Search
     
-    ### Recent Searches
+    Recent Searches
     
-    ### Most Frequently Searched
+    Most Frequently Searched
     
-    * [Entrance Test](https://www.goarmy.com/how-to-join/steps/asvab.html)
-    * [Army ROTC](https://www.goarmy.com/careers-and-jobs/find-your-path/army-officers/rotc.html)
-    * [Army Officers](https://www.goarmy.com/careers-and-jobs/find-your-path/army-officers.html)
-    * [Money & Pay Charts](https://www.goarmy.com/benefits/while-you-serve/money-pay.html)
-    * [All Jobs](https://www.goarmy.com/careers-and-jobs/browse-jobs.html)
+    * [Entrance Test](https://www.goarmy.com/how-to-join/steps/asvab)
+    * [Army ROTC](https://www.goarmy.com/careers-and-jobs/find-your-path/army-officers/rotc)
+    * [Army Officers](https://www.goarmy.com/careers-and-jobs/find-your-path/army-officers)
+    * [Money & Pay Charts](https://www.goarmy.com/benefits/while-you-serve/money-pay)
+    * [All Jobs](https://www.goarmy.com/careers-and-jobs/browse-jobs)
     
-    ### Suggested Searches
+    Suggested Searches
     
     Close Icon
     
@@ -356,7 +331,7 @@ U.S. Army privacy & security policy
 
 When you agree to be contacted by the United States Army, communications with you may be via mail, telephone, text message, e-mail, social media, and other electronic messages unless you opt-out or revoke your consent. By checking the applicable box, and submitting your personal information, you explicitly agree with all information outlined below on this page.  
   
-You may opt-out or revoke consent to receive communications from the United States Army at any time. To opt-out of email communication from the United States Army, go to [https://www.goarmy.com/a/optout/global/(Opens in new window)](https://www.goarmy.com/a/optout/global.html). To revoke consent to receive SMS (text message) communication from the United States Army, a user must reply “STOP” to an SMS message generated by the United States Army. To revoke consent to receive phone calls from the United States Army, call 1-800-USA-ARMY or advise the United States Army representative calling you.
+You may opt-out or revoke consent to receive communications from the United States Army at any time. To opt-out of email communication from the United States Army, go to [https://www.goarmy.com/a/optout/global/(Opens in new window)](https://www.goarmy.com/a/optout/global). To revoke consent to receive SMS (text message) communication from the United States Army, a user must reply “STOP” to an SMS message generated by the United States Army. To revoke consent to receive phone calls from the United States Army, call 1-800-USA-ARMY or advise the United States Army representative calling you.
 
 ### United States Army Event Waiver and Release of Liability
 
@@ -390,9 +365,29 @@ The GoArmy.com Privacy Impact Assessment (PIA) can be [found by clicking this l
 
 GoArmy.com System of Record Notice (SORN) ID is A0601-210c TRADOC and can be [found by clicking this link(Opens in new window)](https://dpcld.defense.gov/Privacy/SORNsIndex/DOD-wide-SORN-Article-View/Article/570073/a0601-210c-tradoc).
 
-### Accessibility statement
+### Marketing SMS terms & conditions
 
-The United States Army is dedicated to making all information and technology available to individuals with disabilities. In 1998, Section 508 of the Rehabilitation Act Amendments, as amended by the Workforce Investment Act of 1998, issued accessibility standards setting forth electronic and information technology performance criteria. As amended, Section 508 requires that when Federal agencies develop, procure, maintain, or use electronic and information technology, they must ensure that this information is accessible to every individual.
+**Program Name:** U.S. Army SMS Recruitment  
+**  
+Program Description:** By subscribing to the U.S. Army SMS Recruitment, you will receive approximately up to two marketing SMS messages per week containing information about joining the U.S. Army, career opportunities, benefits, events, news, and other updates related to military service.  
+**  
+Cancellation and Opt-Out:** You can opt out or cancel your consent to receive SMS messages at any time. Just text "STOP" to the short code number. Once you send "STOP", we may send you an SMS reply to confirm that you have been unsubscribed, and you will no longer receive SMS messages from us. If you wish to re-subscribe in the future, you can sign up again as you did initially.  
+**  
+Support:** If you experience any issues with the messaging program, reply with the keyword "HELP" to the short code number for assistance, or contact our support team at support@aemo.goarmy.com.
+
+  
+You acknowledge and agree the Cancellation/Opt-Out and Support methods are reasonable to revoke consent for SMS messages.  
+**  
+Cost and Carrier Disclaimer:** U.S. Army SMS Recruitment will never charge for the text messages you receive. Message and data rates may apply in accordance with the terms of your cellular subscription plan. Other carrier-specific rates may apply, depending on your individual wireless pricing plan, in accordance with your wireless customer agreement. You are responsible for all applicable taxes. Carriers are not liable for delayed or undelivered messages. If you have any questions about your text plan or data plan, please contact your wireless service provider.  
+**  
+Message Frequency:** You will receive approximately up to two marketing SMS messages per week.   
+**  
+Privacy Policy:** Your privacy is important to us, for information regarding our privacy practices, please refer to our Privacy Policy at [https://www.goarmy.com/privacy.html.](https://www.goarmy.com/privacy.html. "https://www.goarmy.com/privacy.html.")
+
+  
+Your wireless carrier and other service providers may collect data about your SMS usage, and their practices are governed by their own privacy policies. You acknowledge and agree that the SMS Service is provided via wireless systems which use radios (and other means) to transmit communications over complex networks. We do not guarantee that your use of the SMS Service will be private or secure, and we are not liable to you for any lack of privacy or security you may experience. You are fully responsible for taking precautions and providing security measures best suited for your situation and intended use of the SMS Service.  
+  
+By subscribing to the U.S. Army SMS Recruitment, you agree to these Terms and Conditions.
 
 ### Freedom of Information Act (FOIA) office
 
@@ -405,6 +400,10 @@ The United States Army Recruiting web site (GoArmy.com) is provided as a public 
 ### Medical disclaimer
 
 The United States Army may offer fitness information designed for educational purposes only. You should not rely on this information as a substitute for, nor does it replace, professional medical advice, diagnosis, or treatment. If you have any concerns or questions about your health, you should always consult with a physician or other health-care professional. You should consult your physician or other health care professional before starting any fitness program to determine if it is right for your needs. Do not start any fitness program if your physician or health care provider advises against it. If you experience faintness, dizziness, pain or shortness of breath at any time while exercising you should stop immediately. Do not disregard, avoid or delay obtaining medical or health related advice from your health-care professional because of something you may have read on this site. The use of any information provided on this site is solely at your own risk.
+
+### Accessibility statement
+
+The United States Army is dedicated to making all information and technology available to individuals with disabilities. In 1998, Section 508 of the Rehabilitation Act Amendments, as amended by the Workforce Investment Act of 1998, issued accessibility standards setting forth electronic and information technology performance criteria. As amended, Section 508 requires that when Federal agencies develop, procure, maintain, or use electronic and information technology, they must ensure that this information is accessible to every individual.
 
 ### Contact information
 
@@ -420,18 +419,18 @@ Footer
     * [![Army Logo](/etc.clientlibs/goarmy/clientlibs/clientlib-site/resources/static/icons/logos/army-dark-logo.svg)](https://www.goarmy.com/)
     * #### Teams & Events
         
-        * [Golden Knights](https://www.goarmy.com/golden-knights.html)
-        * [Army Marksmanship Unit](https://www.goarmy.com/army-marksmanship-unit.html)
-        * [World Class Athlete Program](https://www.goarmy.com/world-class-athlete-program.html)
-        * [Army Events Search](https://www.goarmy.com/events.html)
+        * [Golden Knights](https://www.goarmy.com/golden-knights)
+        * [Army Marksmanship Unit](https://www.goarmy.com/army-marksmanship-unit)
+        * [World Class Athlete Program](https://www.goarmy.com/world-class-athlete-program)
+        * [Army Events Search](https://www.goarmy.com/events)
     * #### Support
         
-        * [Technical & Site Feedback](https://www.goarmy.com/technical-site-feedback.html)
-        * [Site Map](https://www.goarmy.com/site-map.html)
+        * [Technical & Site Feedback](https://www.goarmy.com/technical-site-feedback)
+        * [Site Map](https://www.goarmy.com/site-map)
     * #### Legal
         
-        * [Privacy & Security](https://www.goarmy.com/privacy.html)
-        * [Social Guidelines](https://www.goarmy.com/social-guidelines.html)
+        * [Privacy & Security](https://www.goarmy.com/privacy)
+        * [Social Guidelines](https://www.goarmy.com/social-guidelines)
 * ### Site Information
     
     * #### Social Media Links
@@ -479,7 +478,7 @@ GoArmy Title:
 
 ### Now, who referred you?
 
-Fill in the first and last names of the person who referred you, along with their Department of Defense identification number (DoD ID #) for proof of service and phone number if they want to receive status updates. Their information is protected and maintained by the [Privacy & Security Notice](https://www.goarmy.com/privacy.html)
+Fill in the first and last names of the person who referred you, along with their Department of Defense identification number (DoD ID #) for proof of service and phone number if they want to receive status updates. Their information is protected and maintained by the [Privacy & Security Notice](https://www.goarmy.com/privacy)
 
  First Name Please enter DoD agent's First Name Last Name Please enter DoD agent's Last Name  DoD ID # Please enter DoD agent's ID  Phone Number (Optional) Please enter DoD agent's Phone Number
 
@@ -575,11 +574,13 @@ School selection is required.
 
 [See Program Details](https://www.goarmy.com/)
 
-By checking this box and submitting this form, I agree to receive communications from the U.S. Army (via email and text). I verify this is my mobile number and consent to receive up to two text messages/week via automated technology on the behalf of the U.S. Army and may also be contacted by individual recruiters via text. I also agree to the [Waiver & Release of Liability and the Privacy Policy.](https://www.goarmy.com/privacy.html) Message and Data rates may apply.
+By checking this box and submitting this form, I agree to receive email communications from the U.S. Army. I verify this is my mobile number and consent to being contacted by individual recruiters via text. I also agree to the [Waiver & Release of Liability and the Privacy Policy](https://www.goarmy.com/privacy). Message and Data rates may apply.
+
+I consent to receiving up to two automated marketing texts per week from the U.S. Army. Message and data rates may apply. Text HELP for support, STOP to opt out. See the [Privacy Policy](https://www.goarmy.com/privacy). (Optional)
 
 Get More Information
 
-Privacy Act Notice: The above disclosure is voluntary. All information will be used strictly for recruiting purposes. The authority for the collection of this information is Title 10, United States Code, Sections 503, 505, 508, and 12102, and EO 9397. For more information, please review our [Privacy & Security Notice.](https://www.goarmy.com/privacy.html)
+Privacy Act Notice: The above disclosure is voluntary. All information will be used strictly for recruiting purposes. The authority for the collection of this information is Title 10, United States Code, Sections 503, 505, 508, and 12102, and EO 9397. For more information, please review our [Privacy & Security Notice.](https://www.goarmy.com/privacy)
 
 Recent entries.
 
