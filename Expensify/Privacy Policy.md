@@ -20,18 +20,21 @@
     * [Expensify Chat](https://use.expensify.com/expensify-business-chat-app)
     * [Split Expenses](https://use.expensify.com/expensify-split-expense-app)
     * [Group Chat](https://use.expensify.com/expensify-group-chat)
+    * [Mobile App](https://use.expensify.com/expensify-mobile-app)
 * [Integrations](https://use.expensify.com/all-integrations)
 * [Industries](https://use.expensify.com/industries)
     * [Accountants](https://use.expensify.com/expense-tracking-for-accountants)
     * [Churches](https://use.expensify.com/church-expenses)
     * [Construction](https://use.expensify.com/construction-expense-management)
-    * [Legal Expense](https://use.expensify.com/legal-expense-tracking)
+    * [Legal](https://use.expensify.com/legal-expense-tracking)
     * [Nonprofits](https://use.expensify.com/nonprofit-expense-management)
     * [Professional Services](https://use.expensify.com/professional-services-expense-tracking)
     * [Real Estate](https://use.expensify.com/tracking-real-estate-expenses)
     * [Schools & Universities](https://use.expensify.com/student-organization-expense-management)
     * [Self-Employed](https://use.expensify.com/self-employed-expense-tracking)
     * [Startups](https://use.expensify.com/startup-expense-management)
+    * [Small Business](https://use.expensify.com/expensify-for-small-businesses)
+    * [Trucking](https://use.expensify.com/trucking-expense-tracking)
 * [Pricing](https://www.expensify.com/pricing)
 * [Blog](https://use.expensify.com/blog)
 * [Partners](https://use.expensify.com/partners)
@@ -52,17 +55,17 @@
 Privacy Policy
 ==============
 
-Last Updated: June 6, 2024
+Last Updated: August 1, 2024
 
  **EXPENSIFY GLOBAL PRIVACY POLICY**
 
-At Expensify, Inc. (“Expensify”, “we”, “us”, or “our”, which include our group and affiliated companies, including, without limitation, Expensify Limited, Expensify Australia Pty Ltd, and Expensify Canada Inc., which such entities collect information from users from particular jurisdictions), our most important asset is our relationship with our user community. We are committed to maintaining the confidentiality, integrity and security of information about our users and their organizations. This privacy policy (“Privacy Policy” or “Policy”) describes how we collect, use, disclose, share and secure the personal and company information you provide when you use our expense management, invoicing or bill processing software, through our mobile application (the “Application”) or visit the Expensify websites [www.expensify.com](https://www.expensify.com/) or [www.use.expensify.com](https://www.use.expensify.com/) or [new.expensify.com](https://new.expensify.com/) (collectively, the “Site” and, together with any related software, tools and services provided in connection with the Application or the Site, the “Expensify Service”). It also describes your choices regarding the use, access and correction of your Personal Data (as defined in Section 3 of this Privacy Policy) and how to contact us if you have any further queries or complaints about our management of your personal information.
+At Expensify, Inc. (“Expensify”, “we”, “us”, or “our”, which include our group and affiliated companies, including, without limitation, Expensify Payments LLC, Expensify Limited, Expensify Australia Pty Ltd, and Expensify Canada Inc., which such entities collect information from users from particular jurisdictions), our most important asset is our relationship with our user community. We are committed to maintaining the confidentiality, integrity and security of information about our users and their organizations. This privacy policy (“Privacy Policy” or “Policy”) describes how we collect, use, disclose, share and secure the personal and company information you provide when you use our expense management, invoicing or bill processing software, through our mobile application (the “Application”) or visit the Expensify websites [www.expensify.com](https://www.expensify.com/) or [www.use.expensify.com](https://www.use.expensify.com/) or [new.expensify.com](https://new.expensify.com/) (collectively, the “Site” and, together with any related software, tools and services provided in connection with the Application or the Site, the “Expensify Service”). It also describes your choices regarding the use, access and correction of your Personal Data (as defined in Section 3 of this Privacy Policy) and how to contact us if you have any further queries or complaints about our management of your personal information.
 
 In this Privacy Policy, “you” and “your” refers to individual users of the Expensify Service, as well as to Members and Corporate Members. “Members,” “Corporate Members,” and other capitalized terms not defined in this privacy policy are defined in the Expensify Terms of Service.
 
  We process your Personal Data as set out in the Privacy Policy which you should read.
 
- Please review the Jurisdiction-specific provisions below for more information if you are visiting from Europe, Australia, California, Colorado, Connecticut, Nevada, or Virginia.
+ Please review the Jurisdiction-specific provisions below for more information if you are visiting from Europe, Australia, California, Colorado, Connecticut, Nevada, Utah, or Virginia.
 
 **1\. MEMBER ACKNOWLEDGMENT**
 
@@ -250,6 +253,50 @@ Except as otherwise stated in this policy and our Terms of Service, we do not se
 
 We may aggregate or de-identify information collected through the Expensify Service so that such information is no longer directly identifiable to an individual. We may use and share such aggregated or de-identified information solely for marketing purposes or distribution to third party research firms. 
 
+**Expensify Payments LLC Privacy Notice**
+
+| FACTS | WHAT DOES EXPENSIFY PAYMENTS LLC  <br>DO WITH YOUR PERSONAL INFORMATION? |
+| --- | --- |
+| Why? | Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do. |
+| What? | The types of personal information we collect, and share depend on the product or service you have with us. This information can include:<br><br>* Name and date-of-birth<br>* Social Security number<br>* Personal and/or business address<br>* Account balances and transaction history<br><br>When you are _no longer_ our customer, we continue to share your information as described in this notice. |
+| How? | All financial companies need to share customers' personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers' personal information; the reasons Expensify Payments chooses to share; and whether you can limit this sharing. |
+
+  
+
+| Reasons we can share your personal information | Does The Expensify Payments share? | Can you limit this sharing? |
+| --- | --- | --- |
+| **For our everyday business purposes—**  <br>such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus | Yes | No  |
+| **For our marketing purposes—**  <br>to offer our products and services to you | Yes | No  |
+| **For joint marketing with other financial companies** | No  | We don't share |
+| **For our affiliates' everyday business purposes—**  <br>information about your transactions and experiences | No  | We don't share |
+| **For our affiliates' everyday business purposes—**  <br>information about your creditworthiness | No  | We don't share |
+| **For nonaffiliates to market to you** | No  | We don't share |
+
+  
+
+  
+
+| Who we are |     |
+| --- | --- |
+| **Who is providing this notice?** | This notice is provided by the business units of Expensify Payments LLC, and its affiliates, including, but not limited to, Expensify Inc. |
+| What we do |     |
+| **How does Expensify Payments protect my personal information?** | To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings.  <br>We also limit access to information to those employees for whom access is necessary. |
+| **How does Expensify Payments collect my personal information?** | We collect your personal information, for example, when you<br><br>* open an account or apply for a loan<br>* pay your bills or make a wire transfer<br>* provide account information<br><br>We also collect your personal information from others, such as credit bureaus, affiliates, or other companies. |
+| **Why can't I limit all sharing?** | Federal law gives you the right to limit only<br><br>* sharing for affiliates' everyday business purposes— information about your creditworthiness<br>* affiliates from using your information to market to you<br>* sharing for nonaffiliates to market to you<br><br>State laws and individual companies may give you additional rights to limit sharing. |
+| Definitions |     |
+| **Affiliates** | Companies related by common ownership or control. They can be financial and nonfinancial companies. |
+| **Nonaffiliates** | Companies not related by common ownership or control. They can be financial and nonfinancial companies.<br><br>* _Expensify Payments does not share with nonaffiliates so they can market to you._ |
+| **Joint marketing** | A formal agreement between nonaffiliated financial companies that together market financial products or services to you.<br><br>* _Expensify Payments doesn't jointly market._ |
+
+  
+
+|     |     |
+| --- | --- |
+| **Other Important Information** |     |
+| Vermont Residents: | In accordance with Vermont law, we will not share personal information about you other than transaction experience information, with other Expensify companies or affiliates, nor will we share any personal financial information about you with other Expensify companies for marketing purposes. |
+| Nevada Residents: | Nevada law requires that we provide you with the following contact information: Bureau of Consumer Protection, Office of the Nevada Attorney General, 555 E. Washington Ave., Suite 3900, Las Vegas, NV 89101; Phone number: 702-486-3132; email: [agInfo@ag.nv.gov](mailto:agInfo@ag.nv.gov) |
+| California Residents: | Effective January 1, 2020, the California Consumer Privacy Act (CCPA) permits consumers who are California residents to (a) ask a covered business which categories and pieces of personal information it collects and how the information is used; (b) request deletion of the information; and (c) opt out of the sale of such information, if applicable. These provisions of the CCPA do not apply to personal information collected, processed, shared, or disclosed by financial institutions pursuant to federal law. To contact us with questions about our compliance with the CCPA, please reach out to privacy@expensify.com. |
+
 **Service Provider, Sub-Processors/Onward Transfer**
 
 Expensify may transfer Personal Data to companies that help us provide the Expensify Service and related programs. Transfers to subsequent third parties are covered by the provisions in this Policy regarding notice and choice and the service agreements with our Clients. 
@@ -362,7 +409,7 @@ Where we transfer your Personal Data to another country outside the UK, EEA and 
 
 4\. in other circumstances the law may permit us to otherwise transfer your Personal Data outside Europe. 
 
-You can obtain more details of the protection given to your Personal Data when it is transferred outside the UK, EEA and / or Switzerland (including a copy of the standard data protection clauses which we have entered into with recipients of your Personal Data) by contacting us as described in Section      16      below.  Please note, following recent decisions invalidating the adequacy of the EU-U.S. and Swiss-U.S. Privacy Shields, we no longer rely on the Privacy Shields for cross-border personal data transfers. However, Expensify still participates in the EU-U.S. and the Swiss-U.S. Privacy Shield Frameworks and more information about this program is also provided below.
+You can obtain more details of the protection given to your Personal Data when it is transferred outside the UK, EEA and / or Switzerland (including a copy of the standard data protection clauses which we have entered into with recipients of your Personal Data) by contacting us as described in Section      16      below.  Please note, following recent decisions invalidating the adequacy of the EU-U.S. and Swiss-U.S. Privacy Shields, we no longer rely on the Privacy Shields for cross-border personal data transfers. However, Expensify participates in the EU-U.S. Data Privacy Framework with UK Extension, and Swiss-U.S. Data Privacy Framework, and more information about these programs is also provided below.
 
 **II.  Our Relationship with You**
 
@@ -405,23 +452,21 @@ For individuals located in the European Economic Area (“EEA”), United Kingdo
 
 You also have a right to lodge a complaint with a competent supervisory authority situated in a member state of your habitual residence, place of work, or place of alleged infringement. You can find the relevant supervisory authority name and contact details [here for individuals located in the EEA](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-are-data-protection-authorities-dpas_en) and [here for individuals located in the United Kingdom](https://ico.org.uk/make-a-complaint/).
 
-**Participation in the Privacy Shield**
+**EU-U.S. Data Privacy Framework with UK Extension, and Swiss-U.S. Data Privacy Framework**
 
-Please note, following recent decisions invalidating the adequacy of the EU-U.S. and Swiss-U.S. Privacy Shields, we no longer rely on the Privacy Shields for cross-border personal data transfers and instead rely on mechanisms set forth in Section 15(A)(1). However, Expensify, Inc. and its subsidiary company, Expensify Ltd. still comply with the EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield Frameworks (Privacy Shield) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data transferred from the European Union and the United Kingdom and Switzerland to the United States in reliance on Privacy Shield. Expensify, Inc. and its subsidiary company, Expensify Ltd. has certified to the Department of Commerce that it adheres to the Privacy Shield Principles with respect to such information. Visit the [Privacy Shield website](https://www.privacyshield.gov/) to learn more about the program and view our certification. 
+Expensify, Inc. and its subsidiary company, Expensify, Ltd., comply with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce.  Expensify, Inc. and its subsidiary company, Expensify, Ltd., have certified to the U.S. Department of Commerce that they adhere to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) under the UK Extension to the EU-U.S. DPF.  Expensify, Inc. and its subsidiary company, Expensify, Ltd., have certified to the U.S. Department of Commerce that they adhere to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF.  If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern.  To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/).
 
-The Privacy Shield Framework and Privacy Shield Principles only apply to Members and Corporate Members located in the EU. Accordingly, Expensify, Inc. is not liable under the Privacy Shield Framework and Privacy Shield Principles to Members or Corporate Members located outside the EU.
+Expensify, Inc. and its subsidiary company, Expensify, Ltd., are responsible for the processing of personal data they receive, under the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and Swiss-U.S. DPF and subsequently transfers to a third party acting as an agent on its behalf.  Expensify, Inc. and its subsidiary company, Expensify, Ltd., comply with the EU-U.S. DPF Principles and the Swiss-U.S. DPF Principles for all onward transfers of personal data from the EU, UK, and Switzerland, including the onward transfer liability provisions.
 
-Expensify likewise is responsible for the processing of Personal Data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. We comply with the Privacy Shield Principles for all onward transfers of Personal Data from the EU and Switzerland, including the onward transfer liability provisions. 
+The Federal Trade Commission has jurisdiction over Expensify’s compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF. In certain situations, Expensify, Inc. and its subsidiary company, Expensify, Ltd., may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. 
 
-In compliance with the Privacy Shield Principles, Expensify Inc. commits to resolve complaints about our collection or use of your Personal Data. European Union individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Expensify Inc. via email at: [concierge@expensify.com](mailto:concierge@expensify.com) or via post addressed to Operations Lead, 88 Kearny Street, San Francisco, CA 94108.
+In compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF, Expensify, Inc. and its subsidiary company, Expensify, Ltd., commit to refer unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF to TRUSTe, an alternative dispute resolution provider based in the United States.  If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit [https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request) for more information or to file a complaint.  These dispute resolution services are provided at no cost to you.
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, you can [file a report](https://feedback-form.truste.com/watchdog/request) with our U.S.-based third party dispute resolution provider (free of charge). As further explained in the [Privacy Shield Principles](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), a binding arbitration option also be made available to you in order to address residual complaints not resolved by any other means.
+For complaints regarding EU-U.S. DPF, the UK Extension to the EU-U.S DPF, and Swiss-U.S. DPF compliance not resolved by any of the other DPF mechanisms, you have the possibility, under certain conditions, to invoke binding arbitration. Further information can be found on the official DPF website [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/).
 
-With respect to Personal Data received or transferred pursuant to the Privacy Shield Framework, we are subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, we may be required to disclose Personal Data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+ **B. Additional Disclosures for Data Subjects in California, Colorado, Connecticut, Nevada, Utah, and Virginia**
 
-**B. Additional Disclosures for Data Subjects in California, Colorado, Connecticut, Nevada, Utah, and Virginia**
-
-This Statement is designed to be consistent with California, Colorado, Connecticut, Nevada, and Virginia privacy laws. When addressing California law, this Statement uses certain terms that have the meanings given to them by the California Consumer Privacy Act (CCPA), as amended, unless otherwise specified.
+This Statement is designed to be consistent with California, Colorado, Connecticut, Nevada, Utah, and Virginia privacy laws. When addressing California law, this Statement uses certain terms that have the meanings given to them by the California Consumer Privacy Act (CCPA), as amended, unless otherwise specified.
 
 **Definitions Specific to this Section for California Residents**
 
@@ -775,7 +820,7 @@ We have appointed a data protection officer (DPO) who is responsible for oversee
 * [![](/assets/img/download-ios.svg)](https://apps.apple.com/us/app/expensify-receipts-expenses/id471713959)
 * [![](/assets/img/download-android.svg)](https://play.google.com/store/apps/details?id=org.me.mobiexpensifyg&hl=en_US&gl=US)
 
-©2008-2023 Expensify, Inc.
+©2008-2024 Expensify, Inc.
 
 The Expensify Visa® Commercial Card is issued by The Bancorp Bank, N.A. pursuant to a license from Visa U.S.A. Inc. and may not be used at all merchants that accept Visa cards. Apple® and the Apple logo® are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc. Google Play and the Google Play logo are trademarks of Google LLC.
 
