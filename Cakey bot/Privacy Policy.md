@@ -2,9 +2,10 @@
 
 * [Home](https://cakey.bot/index.html)
 * [Commands](https://cakey.bot/commands.html)
-* [Wiki](https://wiki.cakey.bot/)
-* [FAQ](https://cakey.bot/faq.html)
-* [Translate](https://translate.cakey.bot/)
+* [Resources](#)
+    
+    [Wiki](https://wiki.cakey.bot/) [FAQ](https://cakey.bot/faq.html) [Translate](https://translate.cakey.bot/) [XP Table](https://cakey.bot/xp-table.html) [XP Calculator](https://cakey.bot/xp-calculator.html)
+    
 * [Premium](https://cakey.bot/premium.php)
 * [Add To Server](https://cakey.bot/invite)
 * [Add To User](https://cakey.bot/user-app)
@@ -13,9 +14,10 @@
 * [![Cake Craft Logo](assets/images/logo.webp)](https://cakey.bot/index.html)
 * [Home](https://cakey.bot/index.html)
 * [Commands](https://cakey.bot/commands.html)
-* [Wiki](https://wiki.cakey.bot/)
-* [FAQ](https://cakey.bot/faq.html)
-* [Translate](https://translate.cakey.bot/)
+* [Resources](#)
+    
+    [Wiki](https://wiki.cakey.bot/) [FAQ](https://cakey.bot/faq.html) [Translate](https://translate.cakey.bot/) [XP Table](https://cakey.bot/xp-table.html) [XP Calculator](https://cakey.bot/xp-calculator.html)
+    
 * [Premium](https://cakey.bot/premium.php)
 
 * [Add To Server](https://cakey.bot/invite)
@@ -144,4 +146,4 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 If you have specific questions or feedback about our privacy policy you can [\[email protected\]](https://cakey.bot/cdn-cgi/l/email-protection).
 
-© 2016-2024 ~ MrCakeSlayer [Add to Server](https://cakey.bot/invite) [Terms of Service](https://cakey.bot/terms.html) | [Privacy Policy](https://cakey.bot/privacy.html)
+© 2016-2024 ~ Nexfinity [Add to Server](https://cakey.bot/invite) [Terms of Service](https://cakey.bot/terms.html) | [Privacy Policy](https://cakey.bot/privacy.html)
