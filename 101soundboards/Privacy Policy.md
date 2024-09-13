@@ -1,7 +1,5 @@
 * [Skip to content](#content-anchor)
 
-Install App
-
 * [Search](https://www.101soundboards.com/search) Find a sound
 * [Funny](https://www.101soundboards.com/?sort=funny#sort_filters) Funny sounds
 * [Topics](#collapseCategoriesSidebar) Topics
@@ -31,6 +29,7 @@ Install App
 * [AI Terminal](https://www.101soundboards.com/terminal) AI Sound Generator
 * [TikTok Voice](https://www.101soundboards.com/boards/72272-tiktok-tts-official-tiktok-lady-computer-voice) The Famous TikTok Voice
 * [Help](https://www.101soundboards.com/pages/about) Help
+* [Donate](https://www.101soundboards.com/pages/support) Support the site
 * [Discord Bot](https://www.101soundboards.com/pages/discordbot) Audio bot for Discord
 * [Live](https://www.101soundboards.com/sounds/live) Sounds playing now
 * [Popular](https://www.101soundboards.com/?sort=hits_recent#sort_filters) Most Popular boards
@@ -42,7 +41,7 @@ Install App
     
     [Text-to-Speech AI Voices](https://www.101soundboards.com/tts) [TikTok TTS Voice](https://www.101soundboards.com/boards/72272-tiktok-tts-official-tiktok-lady-computer-voice) [Ghostface Voice](https://www.101soundboards.com/boards/72298-ghostface-scream-tts-computer-ai-voice) [TikTok Song Generators](https://www.101soundboards.com/tts#song_generators) [AI Sound FX Generator](https://www.101soundboards.com/terminal) [My TTS Phrases](https://www.101soundboards.com/tts/me)
     
-    [iOS and Android Apps](https://www.101soundboards.com/pages/app?referrer=https%3A%2F%2Fwww.101soundboards.com%2Fpages%2Fabout) [Alexa](https://www.101soundboards.com/pages/app?referrer=https%3A%2F%2Fwww.101soundboards.com%2Fpages%2Fabout) [![Twitter](/img/twitter-round.svg) Twitter](https://twitter.com/101soundboards "Twitter") [Discord Bot](https://www.101soundboards.com/pages/discordbot) [Free Audio Editor](https://www.101soundboards.com/pages/editor) [Privacy](https://www.101soundboards.com/pages/about#privacy)
+    [iOS and Android Apps](https://www.101soundboards.com/pages/app?referrer=https%3A%2F%2Fwww.101soundboards.com%2Fpages%2Fabout) [Alexa](https://www.101soundboards.com/pages/app?referrer=https%3A%2F%2Fwww.101soundboards.com%2Fpages%2Fabout) [![Twitter](/img/twitter-round.svg) Twitter](https://twitter.com/101soundboards "Twitter") [Discord Bot](https://www.101soundboards.com/pages/discordbot) [Free Audio Editor](https://www.101soundboards.com/pages/editor) [Privacy](https://www.101soundboards.com/pages/about#privacy) [Donate](https://www.101soundboards.com/pages/donate) [Sticker Shop](https://shop.101soundboards.com/) [Merch](https://www.101soundboards.com/pages/donate#merch)
     
     [Latest Boards](https://www.101soundboards.com/?sort=updated#sort_filters "Most recently added and updated soundboards") [Elites Leaderboard](https://www.101soundboards.com/elites)
     
@@ -53,13 +52,15 @@ Install App
 * [Login/Register](https://www.101soundboards.com/login)
 
 × Your AdBlocker was detected as enabled 😔😞😭 Ads fund this site. It costs money to run.  
-Consider disabling to support the site
+Consider disabling or [buying a sticker pack (with free shipping)](https://shop.101soundboards.com/) so we can continue running this awesome service!  
+  
+ [![Ko-fi](/img/kofi_cup.png) Support Us on Ko-fi](https://ko-fi.com/B0B8H3JMY) [![CashApp](/img/cashapp-2.svg) CashApp](https://cash.app/$101soundboards) [![PayPal](/img/paypal-2.svg) PayPal](https://www.paypal.com/donate/?hosted_button_id=7FBV3YC5ZMJT8)
 
 Main Content
 
 [Back to the homepage](https://www.101soundboards.com/)
 
-[Site Status](https://101soundboards.statuspage.io/) [Help](#help) [About](#about) [Disclaimer](#disclaimer) [Privacy & Terms](#privacy) [Contact](https://www.101soundboards.com/pages/contact) [Feature Suggestions & Bugs](https://101soundboards.canny.io/feature-requests)
+[Site Status](https://101soundboards.statuspage.io/) [Help](#help) [About](#about) [Disclaimer](#disclaimer) [Privacy & Terms](#privacy) [Contact](https://www.101soundboards.com/pages/contact) [Donate](https://www.101soundboards.com/pages/support) [Feature Suggestions & Bugs](https://101soundboards.canny.io/feature-requests)
 
   
 
@@ -231,6 +232,10 @@ Empty soundboards are automatically deleted daily to keep the site clean and tid
 ##### I have a question
 
 Please [contact us](https://www.101soundboards.com/pages/contact) with any questions you have.
+
+##### How do I donate?
+
+Check out the [donation](https://www.101soundboards.com/pages/support) page.
 
 ##### How can I suggest a new feature or report a bug?
 
@@ -491,7 +496,7 @@ If you have any questions about this Privacy Policy, please contact us:
   
   
 
-[Search](https://www.101soundboards.com/search) [Your Favorites Soundboard](https://www.101soundboards.com/favorites/me)[](https://www.101soundboards.com/terminal "AI Sound FX Generator CLI Terminal")
+[Search](https://www.101soundboards.com/search) [Your Favorites Soundboard](https://www.101soundboards.com/favorites/me) [TTS](https://www.101soundboards.com/tts/me "Text to Speech")[](https://www.101soundboards.com/terminal "AI Sound FX Generator CLI Terminal")
 
 Dark Mode Light Mode
 
