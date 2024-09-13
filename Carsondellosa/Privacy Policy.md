@@ -1,4 +1,6 @@
-![null](https://www.facebook.com/tr?id=1565747026990890&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-2-prd-us-central1-186000141725)                                                   
+![null](https://www.facebook.com/tr?id=1565747026990890&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-2-prd-us-central1-186172747955)                                                   
+
+TODAY ONLY—31% OFF CLEARANCE! | [SHOP](https://www.carsondellosa.com/sale/clearance/)
 
 Just For You, Free Shipping on Online Orders $40+
 
@@ -225,12 +227,12 @@ Search  search
     * [![Mystery Grab Bags](https://cdn11.bigcommerce.com/s-swdvv2w64y/stencil/dd71e3a0-152d-013d-4bef-5a7493aeac3c/e/c6caede0-3350-013d-0015-329e35608485/img/loading.svg)
         
         Mystery Grab Bags](https://www.carsondellosa.com/sale/mystery-grab-bags/)
+    * [![Featured Offer](https://cdn11.bigcommerce.com/s-swdvv2w64y/stencil/dd71e3a0-152d-013d-4bef-5a7493aeac3c/e/c6caede0-3350-013d-0015-329e35608485/img/loading.svg)
+        
+        Featured Offer](https://www.carsondellosa.com/sale/featured-offer/)
     * [![Today's Offers](https://cdn11.bigcommerce.com/s-swdvv2w64y/stencil/dd71e3a0-152d-013d-4bef-5a7493aeac3c/e/c6caede0-3350-013d-0015-329e35608485/img/loading.svg)
         
         Today's Offers](https://www.carsondellosa.com/sale/todays-offers/)
-    * [![Online Exclusive Bundles](https://cdn11.bigcommerce.com/s-swdvv2w64y/stencil/dd71e3a0-152d-013d-4bef-5a7493aeac3c/e/c6caede0-3350-013d-0015-329e35608485/img/loading.svg)
-        
-        Online Exclusive Bundles](https://www.carsondellosa.com/sale/online-exclusive-bundles/)
     
 
 * [Shop by Grade](https://www.carsondellosa.com/shop-by-grade/)
@@ -395,6 +397,7 @@ Search  search
         * [Teaching Supplies](https://www.carsondellosa.com/sale/clearance/teaching-supplies/)
         * [Shop All](https://www.carsondellosa.com/sale/)
     * [Mystery Grab Bags](https://www.carsondellosa.com/sale/mystery-grab-bags/)
+    * [Featured Offer](https://www.carsondellosa.com/sale/featured-offer/)
     * [Today's Offers](https://www.carsondellosa.com/sale/todays-offers/)
         * Back
         * [Cutouts](https://www.carsondellosa.com/sale/todays-offers/cutouts/)
@@ -428,7 +431,6 @@ Search  search
         * [Mini Poster Sets](https://www.carsondellosa.com/sale/todays-offers/mini-poster-sets)
         * [Rolled Borders](https://www.carsondellosa.com/sale/todays-offers/rolled-borders/)
         * [Shop All](https://www.carsondellosa.com/sale/)
-    * [Online Exclusive Bundles](https://www.carsondellosa.com/sale/online-exclusive-bundles/)
     * Shop All
 * [Brands](https://www.carsondellosa.com/brands/)
     * Back
