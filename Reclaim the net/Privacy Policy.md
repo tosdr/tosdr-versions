@@ -4,6 +4,8 @@
 
 * [Reclaim The Net](https://reclaimthenet.org/)
     
+* [Latest](https://reclaimthenet.org/posts)
+    
 * [Free Speech](https://reclaimthenet.org/category/free-speech)
     
 * [Surveillance](https://reclaimthenet.org/category/privacy)
