@@ -1107,6 +1107,6 @@ Last updated: 02/08/2024
 
 * Choosing a selection results in a full page refresh.
 
-     
+      
 
 Checkout:Agree:
