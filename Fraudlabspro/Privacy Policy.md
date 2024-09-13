@@ -433,7 +433,7 @@ If you are a resident of the European Union, you may have the right to lodge a c
 * [CSCart](https://www.fraudlabspro.com/supported-platforms/cscart)
 * [CubeCart](https://www.fraudlabspro.com/supported-platforms/cubecart)
 * [LiteCart](https://www.fraudlabspro.com/supported-platforms/litecart)
-* [WP E-Commerce](https://www.fraudlabspro.com/supported-platforms/wp-ecommerce)
+* [VirtueMart](https://www.fraudlabspro.com/supported-platforms/virtuemart)
 * [View More »](https://www.fraudlabspro.com/supported-platforms)
 
 ##### Newsletter
