@@ -1,5 +1,5 @@
 ![](
-https://px.ads.linkedin.com/collect/?pid=6473260&fmt=gif)                                  Cookie Policy – 100% PURE                                                                                                
+https://px.ads.linkedin.com/collect/?pid=6473260&fmt=gif)                                  Cookie Policy – 100% PURE                                                                                               
 
 My Tote
 -------
@@ -24,7 +24,7 @@ My Tote
 
 ### [Coffee Bean Caffeine Eye Cream](https://www.100percentpure.com/products/coffee-bean-caffeine-eye-cream)
 
-5737 reviews (5738)
+5740 reviews (5740)
 
 $16.00 $29.00
 
@@ -120,7 +120,7 @@ CHOOSE Color
 
 ### [Coconut Nourishing Body Cream](https://www.100percentpure.com/products/coconut-nourishing-body-cream)
 
-761 reviews (761)
+762 reviews (762)
 
 $12.00 $26.00
 
@@ -174,7 +174,7 @@ ADD TO TOTE
 
 ### [Creamy Long Last Liner](https://www.100percentpure.com/products/creamy-long-last-liner)
 
-2016 reviews (2016)
+2017 reviews (2017)
 
 $27.00 $27.00
 
@@ -196,7 +196,7 @@ CHOOSE Color
 
 ### [Watermelon Cucumber Water Locking Mist](https://www.100percentpure.com/products/watermelon-cucumber-water-locking-mist)
 
-41 reviews (41)
+42 reviews (42)
 
 $25.00
 
@@ -230,7 +230,7 @@ CHOOSE Size
 
 ### [Acai Pulp Facial Scrub](https://www.100percentpure.com/products/acai-pulp-facial-scrub)
 
-837 reviews (837)
+839 reviews (839)
 
 $38.00
 
@@ -260,7 +260,7 @@ ADD TO TOTE
 
 ### [Organic Mint Lip Balm](https://www.100percentpure.com/products/organic-mint-lip-balm)
 
-511 reviews (511)
+512 reviews (512)
 
 $8.00
 
@@ -288,7 +288,7 @@ ADD TO TOTE
 
 ### [French Lavender Nourishing Body Cream](https://www.100percentpure.com/products/french-lavender-nourishing-body-cream)
 
-348 reviews (348)
+349 reviews (349)
 
 $26.00
 
@@ -302,7 +302,7 @@ ADD TO TOTE
 
 ### [Honey Almond Nourishing Body Cream](https://www.100percentpure.com/products/honey-almond-nourishing-body-cream)
 
-382 reviews (382)
+384 reviews (384)
 
 $26.00
 
@@ -362,7 +362,7 @@ ADD TO TOTE
 
 ### [Long Last Liquid Eye Liner](https://www.100percentpure.com/products/long-last-liquid-eye-liner)
 
-1557 reviews (1557)
+1558 reviews (1560)
 
 $30.00 $30.00
 
@@ -384,7 +384,7 @@ CHOOSE Color
 
 ### [Mattifying Primer](https://www.100percentpure.com/products/mattifying-primer)
 
-1121 reviews (1121)
+1123 reviews (1124)
 
 $45.00
 
@@ -438,7 +438,7 @@ or 4 interest-free payments of **$0.00** with ![Klarna Logo](https://www.100perc
 
  
 
-[TODAY ONLY! ACAI FACIAL SCRUB LOCK-IN and SAVE FLASH DEALS!](https://www.100percentpure.com/collections/lock-in-save "TODAY ONLY! ACAI FACIAL SCRUB LOCK-IN and SAVE FLASH DEALS!")
+[HAPPY CHOCOLATE DAY! CHOCOLATE SGWP FREE W/ $49+ USE CODE: CHOCOLATEDAY](https://www.100percentpure.com/products/chocolate-day-sgwp "HAPPY CHOCOLATE DAY! CHOCOLATE SGWP FREE W/ $49+ USE CODE: CHOCOLATEDAY")
 
 icon-account icon-account icon-arrow-right icon-arrow-down icon-arrow-next icon-arrow-prev icon-slideshow-next icon-slideshow-previous icon-comment icon-heart icon-cart icon-bag icon-close icon-glasses icon-menu icon-minus icon-play icon-plus social-seach social-facebook social-fancy social-instagram social-pinterest social-rss social-twitter
 
