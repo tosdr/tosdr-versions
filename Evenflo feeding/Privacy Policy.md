@@ -343,7 +343,7 @@ _Last updated: August 30, 2021_
 * [1-855-334-BABY (2229)](tel:(855)334-2229 "Phone: 1-855-334-BABY (2229)")
 * [support@evenflofeeding.com](mailto:support@evenflofeeding.com)  
     
-* [8200 Becket Park Dr. Suite 111 West Chester, OH 45069](https://www.google.com/maps/place/9277+Centre+Pointe+Dr+%23160,+West+Chester+Township,+OH+45069)
+* [8200 Beckett Park Dr. Suite 111 West Chester, OH 45069](https://www.google.com/maps/place/8200+Centre+Pointe+Dr+%23160,+West+Chester+Township,+OH+45069)
 
 * [](https://www.instagram.com/evenflofeeding)
 * [](https://www.facebook.com/evenflofeeding)
@@ -382,11 +382,9 @@ Continue shopping Go to cart Proceed to checkout
 
  [](https://www.evenflofeeding.com/products/balance-baby-bottles-wide-plastic)
 
-[sold out](https://www.evenflofeeding.com/products/balance-baby-bottles-wide-plastic)
-
 #### [Balance + Bottles - WIDE Neck, Plastic](https://www.evenflofeeding.com/products/balance-baby-bottles-wide-plastic)
 
-$12.99
+$6.19
 
  [](https://www.evenflofeeding.com/products/balance-bottles-glass-wide-neck)
 
@@ -398,15 +396,11 @@ $29.99
 
  [](https://www.evenflofeeding.com/products/balance-bottles-standard-neck-plastic)
 
-[sold out](https://www.evenflofeeding.com/products/balance-bottles-standard-neck-plastic)
-
 #### [Balance + Bottles - STANDARD Neck, Plastic](https://www.evenflofeeding.com/products/balance-bottles-standard-neck-plastic)
 
-$14.99
+$6.19
 
  [](https://www.evenflofeeding.com/products/classic-baby-bottles-glass)
-
-[sold out](https://www.evenflofeeding.com/products/classic-baby-bottles-glass)
 
 #### [Classic Baby Bottles GLASS](https://www.evenflofeeding.com/products/classic-baby-bottles-glass)
 
