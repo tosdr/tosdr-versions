@@ -1,5 +1,3 @@
-We’re excited to announce our latest improvements for B2B companies including a new Hubspot Integration and a wide variety of APIs. [Learn more here.](https://fastspring.com/blog/fastspring-launches-hubspot-integration-and-expands-its-b2b-offering-with-summer-product-releases/)
-
 [![FastSpring](https://fastspring.com/wp-content/themes/fastspring-bamboo/images/logos/fastspring-logo-orange-gray.svg?2)](https://fastspring.com/)
 
 * [Product](#)
@@ -176,5 +174,15 @@ All rights reserved. [Privacy](https://fastspring.com/privacy/) | [Terms](https:
 [](https://fastspring.com/)
 
 [](https://www.linkedin.com/company/fastspring)[](https://twitter.com/fastspring)[](https://www.facebook.com/fastspring)[](https://www.instagram.com/fastspringsb/)
+
+FastSpring
+
+Have any questions about FastSpring? We’re here to help!
+
+[I want a better way to sell my software!](https://fastspring.com/request-demo/) [I need to contact support.](https://community.fastspring.com/s/) [I have a question about a charge.](https://fastspring.com/consumer-support-form/look-up-charge/)
+
+Hi there! 👋 Have any questions about FastSpring? We’re here to help!
+
+1
 
 Loading video...
