@@ -15,20 +15,20 @@
     
     [See All](https://www.coolthings.com/gadgets/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/sony-playstation-5-pro-4k-60-fps-gaming-ai-upscaling-advanced-ray-tracing/)
+    
+    [Sony Playstation 5 Pro Brings 4K 60FPS Gaming, AI Upscaling, and More](https://www.coolthings.com/sony-playstation-5-pro-4k-60-fps-gaming-ai-upscaling-advanced-ray-tracing/)
+    ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/apple-watch-series-10-slimmer-case-biggest-screen-neural-processor-smartwatch/)
+    
+    [Apple Watch Series 10 Debuts the Slimmest Case and the Biggest Screen on Apple’s Wearable Yet](https://www.coolthings.com/apple-watch-series-10-slimmer-case-biggest-screen-neural-processor-smartwatch/)
+    ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-steam-deck-cases-to-protect-your-gaming-handheld/)
     
     [The Best Steam Deck Cases to Protect Your Gaming Handheld](https://www.coolthings.com/the-best-steam-deck-cases-to-protect-your-gaming-handheld/)
     --------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/dji-neo-crams-djis-smart-tech-in-a-compact-toy-sized-drone/)
-    
-    [DJI Neo Crams DJI’s Smart Tech in a Compact Toy-Sized Drone](https://www.coolthings.com/dji-neo-crams-djis-smart-tech-in-a-compact-toy-sized-drone/)
-    -----------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/acer-nitro-blaze-7-gaming-handheld-ryzen-ai-chips/)
-    
-    [Acer Nitro Blaze 7 Gaming Handheld Combines Solid Specs with AI Processing Capabilities](https://www.coolthings.com/acer-nitro-blaze-7-gaming-handheld-ryzen-ai-chips/)
-    ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
 * [GIFTS](http://www.coolthings.com/gifts/)
     
@@ -95,20 +95,20 @@
     
     [See All](https://www.coolthings.com/house/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/morphy-richards-ductless-portable-ac-airconditioner-vent-free/)
+    
+    [Morphy Richards Ductless Portable AC Eliminates the Need to Expel Hot Air from the AC](https://www.coolthings.com/morphy-richards-ductless-portable-ac-airconditioner-vent-free/)
+    ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/glasst-unpaint-peelable-architectural-paint-dries-into-elastic-film/)
+    
+    [Glasst Unpaint Lets You Paint Your House in One Color and Peel it All Off When You Get Bored](https://www.coolthings.com/glasst-unpaint-peelable-architectural-paint-dries-into-elastic-film/)
+    -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-cooling-sheets-to-help-you-sleep-better-during-hot-summer-nights/)
     
     [The Best Cooling Sheets to Help You Sleep Better During Hot Summer Nights](https://www.coolthings.com/the-best-cooling-sheets-to-help-you-sleep-better-during-hot-summer-nights/)
     ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/roto-vr-explorer-motorized-chair-vr-motion-platform/)
-    
-    [Roto VR Explorer Uses a Motorized Chair as VR Motion Platform](https://www.coolthings.com/roto-vr-explorer-motorized-chair-vr-motion-platform/)
-    ------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/nanoleaf-x-fantaqi-expo-smart-led-display-case-synchronize-stackable/)
-    
-    [Nanoleaf x Fantaqi EXPO Smart LED Display Case Lets You Sync the Lighting for up to 300 Cases](https://www.coolthings.com/nanoleaf-x-fantaqi-expo-smart-led-display-case-synchronize-stackable/)
-    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
     * [FURNITURE](https://www.coolthings.com/house/furniture/)
     * [KITCHEN](https://www.coolthings.com/kitchen-dining/)
@@ -120,6 +120,11 @@
     
     [See All](https://www.coolthings.com/vehicles/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/segway-ninebot-zt3-pro-electric-scooter-offroad/)
+    
+    [Segway Ninebot ZT3 Pro Takes the Outfit’s Electric Scooters to the Off-Road](https://www.coolthings.com/segway-ninebot-zt3-pro-electric-scooter-offroad/)
+    ----------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/2025-can-am-canyon-adventure-touring-trike-off-road-vehicle/)
     
     [2025 Can-Am Canyon Brings the Outfit’s Three-Wheel Moto Design to the Rugged Off-Road](https://www.coolthings.com/2025-can-am-canyon-adventure-touring-trike-off-road-vehicle/)
@@ -129,11 +134,6 @@
     
     [Segway Ninebot eKickScooter C2 Lite Brings Unique Assist Mode to Electric Scooters](https://www.coolthings.com/segway-ninebot-ekickscooter-c2-lite-electric-scooter-for-kids-power-assist-mode/)
     -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/solar-hyperion-electric-scooter-65-mph-top-speed-70-mile-range/)
-    
-    [Solar Hyperion Electric Scooter Offers 65 Mph Top Speed and 70-Mile Range](https://www.coolthings.com/solar-hyperion-electric-scooter-65-mph-top-speed-70-mile-range/)
-    -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
 * [CLAD](https://www.clad.com/ "Men’s Style and Gear Magazine")
 
