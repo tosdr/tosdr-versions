@@ -501,39 +501,39 @@ Looking for the perfect gift? Send a [Houzz Gift Card!](https://www.houzz.com/gi
 
 Cancel
 
-[Lighting Sale Sale](https://www.houzz.com/shop-houzz/lighting-sale)
+[Fall Rug & Decor Event Sale](https://www.houzz.com/sales)
 
 [ON SALE - UP TO 75% OFF](https://www.houzz.com/sales)
 
 [Bathroom Vanities](https://www.houzz.com/products/bathroom-vanities-and-sink-consoles/on-sale)[Chandeliers](https://www.houzz.com/products/chandeliers/on-sale)[Bar Stools](https://www.houzz.com/products/bar-stools-and-counter-stools/on-sale)[Pendant Lights](https://www.houzz.com/products/pendant-lighting/on-sale)[Rugs](https://www.houzz.com/products/rugs/on-sale)[Living Room Chairs](https://www.houzz.com/products/chairs/on-sale)[Dining Room Furniture](https://www.houzz.com/products/kitchen-and-dining-furniture/on-sale)[Wall Lighting](https://www.houzz.com/products/wall-lighting/on-sale)[Coffee Tables](https://www.houzz.com/products/coffee-tables/on-sale)[Side & End Tables](https://www.houzz.com/products/side-tables-and-accent-tables/on-sale)[Home Office Furniture](https://www.houzz.com/products/home-office-furniture/on-sale)[Sofas](https://www.houzz.com/products/sofas/on-sale)[Bedroom Furniture](https://www.houzz.com/products/bedroom-furniture/on-sale)[Lamps](https://www.houzz.com/products/lamps/on-sale)[Mirrors](https://www.houzz.com/products/mirrors/on-sale)
 
-[Lighting Sale](https://www.houzz.com/shop-houzz/lighting-sale)
+[Fall Rug & Decor Event](https://www.houzz.com/sales)
 
-[![Chandeliers With Free Shipping](https://st.hzcdn.com/fimgs/7431c02c06d9433b_4556-w150-h150-b0-p0--home-design.jpg)
+[![Create a Fall Bathroom](https://st.hzcdn.com/fimgs/5401a8a606e21963_3667-w150-h150-b0-p0--home-design.jpg)
 
-UP TO 60% OFF
+SHOP THE LOOK
 
-Chandeliers With Free Shipping](https://www.houzz.com/ideabooks/81746838) 
+Create a Fall Bathroom](https://www.houzz.com/ideabooks/170150829) 
 
-[![The Ultimate Lighting Sale](https://st.hzcdn.com/fimgs/21c17bec06d94330_4544-w150-h150-b0-p0--home-design.jpg)
+[![Rugs With Free Shipping](https://st.hzcdn.com/fimgs/1081134506e21966_3671-w150-h150-b0-p0--home-design.jpg)
 
 UP TO 75% OFF
 
-The Ultimate Lighting Sale](https://www.houzz.com/ideabooks/111051966) 
+Rugs With Free Shipping](https://www.houzz.com/ideabooks/177333062) 
 
-[![Outdoor Lighting](https://st.hzcdn.com/fimgs/5a41126806d94337_4552-w150-h150-b0-p0--home-design.jpg)
+[![Fall Home Decor](https://st.hzcdn.com/fimgs/fc6120c506e21964_3669-w150-h150-b0-p0--home-design.jpg)
 
-UP TO 60% OFF
+NEW ARRIVALS
 
-Outdoor Lighting](https://www.houzz.com/ideabooks/139316379) 
+Fall Home Decor](https://www.houzz.com/ideabooks/177652592) 
 
-[![Bestselling Pendants](https://st.hzcdn.com/fimgs/f1c1c8c806d94339_4553-w150-h150-b0-p0--home-design.jpg)
+[![Fall Savings on Mirrors](https://st.hzcdn.com/fimgs/8171e33406e2195f_3664-w150-h150-b0-p0--home-design.jpg)
 
-UP TO 60% OFF
+UP TO 75% OFF
 
-Bestselling Pendants](https://www.houzz.com/ideabooks/177513226) 
+Fall Savings on Mirrors](https://www.houzz.com/ideabooks/177679909) 
 
-[![Shop Promo Banner](https://st.hzcdn.com/fimgs/888100bf06d9ad67_1737-w566-h722-b0-p0--home-design.jpg)](https://www.houzz.com/shop-houzz/lighting-sale) 
+[![Shop Promo Banner](https://st.hzcdn.com/fimgs/1651e3ee06e2efc6_8552-w566-h722-b0-p0--home-design.jpg)](https://www.houzz.com/sales) 
 
 [0](https://www.houzz.com/viewCart)
 
@@ -561,7 +561,7 @@ Houzz Pro: One simple solution for contractors and design pros
 
 [History of Houzz](https://www.houzz.com/houzz-historyzz)
 
-![Houzz Logo Print](//www.houzz.com/res/28759295/pic/houzz_logo.svg?v=28759295)
+![Houzz Logo Print](//www.houzz.com/res/28769522/pic/houzz_logo.svg?v=28769522)
 
 **COOKIE POLICY**
 =================
