@@ -42,7 +42,7 @@ More
 
 [Diligent Elevate_open\_in\_new_
 
-(formerly Modern Governance Summit)](https://boarddocs.com/elevate)[Diligent Institute_open\_in\_new_](https://www.diligentinstitute.com/)
+(formerly Modern Governance Summit)](https://boarddocs.com/elevate)[MG100_open\_in\_new_](https://boarddocs.com/mg100)[Diligent Institute_open\_in\_new_](https://www.diligentinstitute.com/)
 
 Diligent Privacy Policy
 -----------------------
