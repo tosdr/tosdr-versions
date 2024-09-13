@@ -542,17 +542,12 @@ Follow us
 * About us
     --------
     
-    [About Elastic](https://www.elastic.co/about/)[Our story](https://www.elastic.co/about/history-of-elasticsearch)[Leadership](https://www.elastic.co/about/leadership)[DE&I](https://www.elastic.co/careers/diversity-and-inclusion)[Blog](https://www.elastic.co/blog)
+    [About Elastic](https://www.elastic.co/about/)[Our story](https://www.elastic.co/about/history-of-elasticsearch)[Leadership](https://www.elastic.co/about/leadership)[DE&I](https://www.elastic.co/careers/diversity-and-inclusion)[Blog](https://www.elastic.co/blog)[Newsroom](https://www.elastic.co/about/press)
     
 * Join us
     -------
     
     [Careers](https://www.elastic.co/careers)[Career portal](https://jobs.elastic.co/#/)
-    
-* Press
-    -----
-    
-    [Press releases](https://www.elastic.co/about/press#press-releases)[News articles](https://www.elastic.co/about/press#elastic-in-the-news)
     
 
 * Partners
@@ -580,17 +575,12 @@ Follow us
 About us
 --------
 
-[About Elastic](https://www.elastic.co/about/)[Our story](https://www.elastic.co/about/history-of-elasticsearch)[Leadership](https://www.elastic.co/about/leadership)[DE&I](https://www.elastic.co/careers/diversity-and-inclusion)[Blog](https://www.elastic.co/blog)
+[About Elastic](https://www.elastic.co/about/)[Our story](https://www.elastic.co/about/history-of-elasticsearch)[Leadership](https://www.elastic.co/about/leadership)[DE&I](https://www.elastic.co/careers/diversity-and-inclusion)[Blog](https://www.elastic.co/blog)[Newsroom](https://www.elastic.co/about/press)
 
 Join us
 -------
 
 [Careers](https://www.elastic.co/careers)[Career portal](https://jobs.elastic.co/#/)
-
-Press
------
-
-[Press releases](https://www.elastic.co/about/press#press-releases)[News articles](https://www.elastic.co/about/press#elastic-in-the-news)
 
 Partners
 --------
