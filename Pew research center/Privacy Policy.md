@@ -9,7 +9,7 @@ Numbers, Facts and Trends Shaping Your World
 Read our research on:
 
 * [Economy & Work](https://www.pewresearch.org/topic/economy-work/)
-* [Family & Relationships](https://www.pewresearch.org/topic/family-relationships/)
+* [Hispanics](https://www.pewresearch.org/topic/race-ethnicity/racial-ethnic-groups/hispanics-latinos/)
 * [Election 2024](https://www.pewresearch.org/topic/politics-policy/us-elections-voters/election-2024/)
 
 [](https://www.pewresearch.org/)[](https://www.pewresearch.org/)[](https://www.pewresearch.org/decoded)
@@ -98,7 +98,7 @@ Search
     Read Our Research On:
     
     * [Economy & Work](https://www.pewresearch.org/topic/economy-work/)
-    * [Family & Relationships](https://www.pewresearch.org/topic/family-relationships/)
+    * [Hispanics](https://www.pewresearch.org/topic/race-ethnicity/racial-ethnic-groups/hispanics-latinos/)
     * [Election 2024](https://www.pewresearch.org/topic/politics-policy/us-elections-voters/election-2024/)
     
 
