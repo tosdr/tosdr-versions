@@ -45,6 +45,7 @@ Previous Next
     Digital Frame
     
     * [Meural Canvas II](https://www.netgear.com/home/digital-art-canvas/canvasii/)
+    * [Meural Canvas II](https://www.netgear.com/test/canvasii-test/)
     * [Meural WiFi Photo Frame](https://www.netgear.com/home/digital-art-canvas/photoframe/)
     
     SERVICES & SUBSCRIPTIONS
@@ -321,7 +322,7 @@ Checkout
 
 Previous Next
 
-![Icon-Close](/system/v4.6/assets/images/Icon-Close.png)
+![Icon-Close](/system/v4.7/assets/images/Icon-Close.png)
 
 * [HOME SOLUTIONS](#t21827-k98153)
 * [BUSINESS SOLUTIONS](#t21827-k102990)
@@ -355,6 +356,7 @@ Previous Next
 [Digital Frame](#navdrop4)
 
 * [Meural Canvas II](https://www.netgear.com/home/digital-art-canvas/canvasii/)
+* [Meural Canvas II](https://www.netgear.com/test/canvasii-test/)
 * [Meural WiFi Photo Frame](https://www.netgear.com/home/digital-art-canvas/photoframe/)
 
 [SERVICES & SUBSCRIPTIONS](#navdrop5)
@@ -692,7 +694,7 @@ Your consent to these Terms and Conditions is required in order to use Your NETG
   
     (b)    YOU ARE RESPONSIBLE FOR THE TIMELY PAYMENT OF ALL FEES AND FOR PROVIDING NETGEAR WITH A VALID CREDIT CARD OR OTHER PAYMENT PROCESSING ACCOUNT DETAILS FOR PAYMENT OF ALL FEES.  
   
-6.2    Billing Account and Payment Method. You will be asked to provide a payment method at the time you sign up for a Service. You can access and change Your billing information and payment method by emailing **[customer.service@netgear.com](mailto:customer.service@netgear.com).** Additionally, You agree to permit NETGEAR to use any updated account information regarding Your selected payment method provided by Your issuing bank or the applicable payment network. If You want to designate a different payment processing account or if there is a change in Your credit card other payment processing account status, You must change Your information online or by contacting customer support, which may temporarily disrupt Your access to the Services while NETGEAR verifies Your new payment information.  
+6.2    Billing Account and Payment Method. You will be asked to provide a payment method at the time you sign up for a Service. You can access and change Your billing information and payment method by emailing **[customer.service@netgear.com](mailto:customer.service@netgear.com) .** Additionally, You agree to permit NETGEAR to use any updated account information regarding Your selected payment method provided by Your issuing bank or the applicable payment network. If You want to designate a different payment processing account or if there is a change in Your credit card other payment processing account status, You must change Your information online or by contacting customer support, which may temporarily disrupt Your access to the Services while NETGEAR verifies Your new payment information.  
   
 6.3    Recurring Payments. When You purchase the Subscription Services on a recurring basis (e.g., monthly or annually), **You agree that You are authorizing recurring payments, and payments will be made to NETGEAR by the method and at the recurring intervals You have agreed to, until the subscription for that Service is terminated by You or by NETGEAR**. By authorizing recurring payments, You are authorizing NETGEAR to store Your payment instrument and process such payments as either electronic debits or fund transfers, or as electronic drafts from Your designated account (for Automated Clearing House or similar payments), or as charges to Your designated account (for credit card or similar payments) (collectively, “Electronic Payments”). Subscription fees are generally charged in advance of the applicable subscription period.  
   
@@ -818,7 +820,7 @@ Upon any such termination of Your account by NETGEAR, You will remain obligated 
 
 ##### 13.    PRIVACY AND PROTECTION OF PERSONAL DATA
 
-13.1    Privacy Policy. By creating a NETGEAR account, You understand and consent to NETGEAR’s collection, storage and use of Your Account Data in accordance with NETGEAR’s Privacy Policy at [http://www.NETGEAR.com/about/privacy-policy/](http://www.netgear.com/about/privacy-policy/). We encourage You to review the Privacy Policy frequently.  
+13.1    Privacy Policy. By creating a NETGEAR account, You understand and consent to NETGEAR’s collection, storage and use of Your Account Data in accordance with NETGEAR’s Privacy Policy at [https://www.NETGEAR.com/about/privacy-policy/](https://www.netgear.com/about/privacy-policy/). We encourage You to review the Privacy Policy frequently.  
   
 13.2    Compliance with Data Protection Laws. Each party shall comply with its respective obligations under applicable data protection laws (“DPL”). You will not perform any act that puts NETGEAR in breach of its obligations, and nothing in this Agreement shall be deemed to prevent any party from taking action it reasonably deems necessary to comply with DPL. You agree that: (i) with respect to data You collect, access or otherwise use, You alone shall determine the purposes for which and the manner in which personal data is, or will be, processed; (ii) You are the data controller in respect of all personal data You may process; and (iii) You consent and, in the event You process any third party data, have obtained the consent from such third party, to send its personal data to NETGEAR. You warrant and undertake that any instructions given by You to NETGEAR will at all times be in accordance with the requirements of DPL. You expressly agree that NETGEAR may transfer personal data outside the European Economic Area without Your further consent in order to provide services related to the Products. NETGEAR may comply with requests for information from legitimate judicial, legal or regulatory authorities or pursuant to a court order or a subpoena, discovery request or other lawful process that NETGEAR receives. NETGEAR may comply with these subpoenas or court orders with or without notice to You.
 
@@ -826,7 +828,7 @@ Upon any such termination of Your account by NETGEAR, You will remain obligated 
 
 ##### 15.    SOFTWARE UPDATES AND UPDATES TO THE PRODUCTS
 
-Software Updates . By using the Product, You agree to receive all Software Updates and upgrades that NETGEAR sends to the software included in the Product. You specifically agree Your Product may: (i) communicate with NETGEAR servers from time to time to automatically check for available updates, such as bug fixes, critical system updates, patches, enhanced functions, upgrades, missing plug-ins and new versions (collectively, “**Software Updates**”) and (ii) install the Software Updates. Such Software Updates may be in various forms and are generally provided for the purposes of improving the performance, security and reliability of the Product.
+Software Updates . By using the Product, You agree to receive all Software Updates and upgrades that NETGEAR sends to the software included in the Product. You specifically agree Your Product may: (i) communicate with NETGEAR servers from time to time to automatically check for available updates, such as bug fixes, critical system updates, patches, enhanced functions, upgrades, missing plug-ins and new versions (collectively, “ **Software Updates** ”) and (ii) install the Software Updates. Such Software Updates may be in various forms and are generally provided for the purposes of improving the performance, security and reliability of the Product.
 
 ##### 16.    PROVISION OF THE PRODUCT AND LIMITATIONS ON USAGE
 
@@ -940,12 +942,12 @@ Software Updates . By using the Product, You agree to receive all Software Updat
 
 24.1    Registration. Notwithstanding other provisions in this Agreement, NETGEAR warrants to the original purchaser that if You register Your new device online with NETGEAR, the device will be free from defects in materials and workmanship under normal use for a period of one (1) year from the date of original retail purchase (“Limited Device Warranty”). For more specific instructions on how to register Your NETGEAR device and warranty details, visit https://www.netgear.com/about/warranty/.
 
-24.2    Refurbished Product Warranty. Not withstanding other provisions in this Agreement, NETGEAR warrants to the purchaser of a refurbished product purchased from [www.netgear.com](http://www.netgear.com/) or an authorized reseller that if You register Your refurbished device online with NETGEAR, the device will be free from defects in materials and workmanship under normal use for a period of ninety (90) days from the date of purchase (“Refurbished Product Warranty”).
+24.2    Refurbished Product Warranty. Not withstanding other provisions in this Agreement, NETGEAR warrants to the purchaser of a refurbished product purchased from [www.netgear.com](https://www.netgear.com/) or an authorized reseller that if You register Your refurbished device online with NETGEAR, the device will be free from defects in materials and workmanship under normal use for a period of ninety (90) days from the date of purchase (“Refurbished Product Warranty”).
 
   
-24.3    Remedies . If during this period, such a defect arises, NETGEAR will, at its option and to the extent permitted by law, either (1) repair the device at no charge, using new or refurbished replacement parts, or (2) replace the device with a new or refurbished device. In the event of such a defect, to the extent permitted by law, these are Your sole and exclusive remedies. The Limited Device Warranty and Refurbished Product Warranty are valid only in the jurisdictions where the devices are sold through [www.netgear.com](http://www.netgear.com/) or NETGEAR’s authorized resellers or agents, and is valid to the extent permitted by the applicable laws of such jurisdictions. Any replacement device will be warranted for the remainder of the original warranty period or thirty (30) days, whichever is longer, or for any additional period of time that may be required by applicable law.  
+24.3    Remedies . If during this period, such a defect arises, NETGEAR will, at its option and to the extent permitted by law, either (1) repair the device at no charge, using new or refurbished replacement parts, or (2) replace the device with a new or refurbished device. In the event of such a defect, to the extent permitted by law, these are Your sole and exclusive remedies. The Limited Device Warranty and Refurbished Product Warranty are valid only in the jurisdictions where the devices are sold through [www.netgear.com](https://www.netgear.com/) or NETGEAR’s authorized resellers or agents, and is valid to the extent permitted by the applicable laws of such jurisdictions. Any replacement device will be warranted for the remainder of the original warranty period or thirty (30) days, whichever is longer, or for any additional period of time that may be required by applicable law.  
   
-24.4    Instructions. To obtain service under the Limited Device Warranty or Refurbished Product Warranty, contact NETGEAR’s customer service team at [**customer.service@netgear.com**](mailto:customer.service@netgear.com). NETGEAR may require You to furnish proof of purchase details and/or comply with other requirements before receiving warranty service.  
+24.4    Instructions . To obtain service under the Limited Device Warranty or Refurbished Product Warranty, contact NETGEAR’s customer service team at [**customer.service@netgear.com**](mailto:customer.service@netgear.com) . NETGEAR may require You to furnish proof of purchase details and/or comply with other requirements before receiving warranty service.  
   
 24.5    Exclusions and Limitations . This warranty does not apply to a device or part of a device that has been serviced, altered, refurbished, or modified by anyone who is not authorized by NETGEAR, nor does it apply to any cosmetic damage such as scratches and dents. In addition, this Limited Device Warranty does not apply to damage or defects caused by (1) accident, abuse, misuse, mishandling, flood, fire, earthquake or other external causes; (2) normal wear and tear or aging of the device; or (3) operating the device (a) outside the permitted or intended uses described by NETGEAR, (b) not in accordance with instructions provided by NETGEAR, or (c) with improper voltage or power supply.  
   
@@ -1131,7 +1133,7 @@ Please mail this information to: Legal Department, NETGEAR, 350 E Plumeria Drive
   
 Extended Warranty extends and enhances the Limited Hardware Warranty for a supported and new NETGEAR product for which You purchase the Extended Warranty (“Supported Product”). You must purchase Extended Warranty within one hundred twenty (120) days from the date of Your purchase of a supported and new NETGEAR product. The Extended Warranty will start from the subscription purchase date.
 
-Extended Warranty also extends your Refurbished Product Warranty for a supported and refurbished product purchased from [www.netgear.com](http://www.netgear.com/) or an authorized reseller (“Supported Product”). You must purchase Extended Warranty within one hundred twenty (120) days from the date of Your purchase of a supported and refurbished product. 
+Extended Warranty also extends your Refurbished Product Warranty for a supported and refurbished product purchased from [www.netgear.com](https://www.netgear.com/) or an authorized reseller (“Supported Product”). You must purchase Extended Warranty within one hundred twenty (120) days from the date of Your purchase of a supported and refurbished product. 
 
 While a Supported Product is under warranty, NETGEAR will repair or replace the product with the same or functionally equivalent product free of charge.  
   
@@ -1155,7 +1157,7 @@ Premium Support covers computers, peripherals, software, and any other computer-
 ##### ADDITIONAL SUBSCRIPTION TERMS FOR NETGEAR GEARHEAD FOR HOME
 
   
-1.    NETGEAR GearHead for Home Services provides remote technical support, where a Technical Support Engineer (TSE) may, with your permission, take over Your computer from the TSE’s remote location. Support for specific computers, peripherals, software, and any other computer-related product are generally described at [http://gearhead.netgear.com/products\_supported.html](http://gearhead.netgear.com/products_supported.html).  
+1.    NETGEAR GearHead for Home Services provides remote technical support, where a Technical Support Engineer (TSE) may, with your permission, take over Your computer from the TSE’s remote location. Support for specific computers, peripherals, software, and any other computer-related product are generally described at [https://gearhead.netgear.com/products\_supported.html](https://gearhead.netgear.com/products_supported.html) .  
   
 2.    A subscription to NETGEAR GearHead for Home Services covers computers designated under Your NETGEAR account. The subscription covers up to three (3) computers in a home, unless You pay for additional computers to be covered under the same subscription. You may request for additional computer support by contacting NETGEAR support at 1-855-432-7432.
 
@@ -1170,7 +1172,7 @@ Premium Support covers computers, peripherals, software, and any other computer-
 
 ##### ADDITIONAL TERMS FOR NETGEAR E-STORE
 
-1.    Account. You may need to set up an account to make purchases on [www.netgear.com](https://www.netgear.com/) (“eStore Account”) and have a valid payment method associated with it. If there is a problem charging your selected payment method, NETGEAR may charge any other valid payment method associated with your eStore Account. You are responsible for maintaining the confidentiality of Your eStore Account and password and for restricting access to Your account, and You agree to accept responsibility for all activities that occur under Your account or password. NETGEAR does not sell products for children. If You are under 18, You may not create an eStore Account and may only make purchases with a parent or guardian. NETGEAR reserves the right to refuse service, terminate accounts, remove or edit content, or cancel orders in its sole discretion. NETGEAR’s collection, storage and use of Your eStore Account data will be in accordance with NETGEAR’s Privacy Policy at [http://www.NETGEAR.com/about/privacy-policy/](http://www.netgear.com/about/privacy-policy/).  
+1.    Account. You may need to set up an account to make purchases on [www.netgear.com](https://www.netgear.com/) (“eStore Account”) and have a valid payment method associated with it. If there is a problem charging your selected payment method, NETGEAR may charge any other valid payment method associated with your eStore Account. You are responsible for maintaining the confidentiality of Your eStore Account and password and for restricting access to Your account, and You agree to accept responsibility for all activities that occur under Your account or password. NETGEAR does not sell products for children. If You are under 18, You may not create an eStore Account and may only make purchases with a parent or guardian. NETGEAR reserves the right to refuse service, terminate accounts, remove or edit content, or cancel orders in its sole discretion. NETGEAR’s collection, storage and use of Your eStore Account data will be in accordance with NETGEAR’s Privacy Policy at [https://www.NETGEAR.com/about/privacy-policy/](https://www.netgear.com/about/privacy-policy/).  
   
 2.    Paying for Your Order. NETGEAR will charge Your payment method for an item at the time of shipment. However, NETGEAR may pre-authorize Your order amount with Your credit card, credit account, or debit card issuer at the time You place the order. When You pre-order with a debit card, NETGEAR will debit Your card when You place the pre-order.  
   
