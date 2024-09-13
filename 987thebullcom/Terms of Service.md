@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| Drinkin' Beer. Talkin' God. Amen.Chase Rice Ft Florida Georgia Line<br><br>8:31am |
-| Its 5 Oclock SomewhereAlan Jackson And Jimmy Buffett<br><br>7:29am |
-| Crash My PartyLuke Bryan<br><br>6:34am |
-| Pour Me A DrinkPost Malone Ft Blake Shelton<br><br>4:57am |
-| I'M Comin' OverChris Young<br><br>4:53am |
+| SpeechlessDan Shay<br><br>7:28am |
+| Dont YaBrett Eldredge<br><br>6:32am |
+| Shes In Love With The BoyTrisha Yearwood<br><br>4:57am |
+| 23Chayce Beckham<br><br>4:53am |
+| This Town'S Been Too Good To UsDylan Scott<br><br>4:50am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -358,6 +358,10 @@ State
 Featured Brands
 ---------------
 
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+
+News Talk • Eastern
+
 [![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
 Top 40 • Eastern
@@ -366,11 +370,7 @@ Top 40 • Eastern
 
 Spanish • Western
 
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
-
-News Talk • Eastern
-
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
 Country • Western
 
