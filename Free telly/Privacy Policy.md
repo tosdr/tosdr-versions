@@ -8,11 +8,11 @@
 
 Effective date: 7/11/2023 
 
-At Telly, we take your privacy seriously. Please read this Telly Website, App and Reservations Privacy Policy to learn how we collect, use and disclose information about you when you reserve our free internet-connected television (a “Telly Device,” “Device” or “Telly”) or use our website ([https://www.freetelly.com/](https://www.freetelly.com/)) or mobile application. **By using our website or mobile application you acknowledge that you accept the practices and policies outlined below, and you hereby consent that we will collect, use, and disclose your information as described in this Telly Website, App and Reservations Privacy Policy.** 
+At Telly, we take your privacy seriously. Please read this Telly Website, App and Reservations Privacy Policy to learn how we collect, use and disclose information about you when you reserve our free internet-connected television (a “Telly Device,” “Device” or “Telly”) or use our website ([https://www.telly.com/](https://www.telly.com/)) or mobile application. **By using our website or mobile application you acknowledge that you accept the practices and policies outlined below, and you hereby consent that we will collect, use, and disclose your information as described in this Telly Website, App and Reservations Privacy Policy.** 
 
 ‍  
 
-Remember that your use of Telly's website and mobile application is at all times subject to our Telly Reservation Terms of Service at \[[www.freetelly.com/reservation-terms-of-service](http://www.freetelly.com/reservation-terms-of-service)\], which incorporates this Telly Website, App and Reservations Privacy Policy. Any undefined terms in this Policy have the definitions given to them in the Telly Reservation Terms of Service. 
+Remember that your use of Telly's website and mobile application is at all times subject to our Telly Reservation Terms of Service at \[[www.telly.com/reservation-terms-of-service](http://www.telly.com/reservation-terms-of-service)\], which incorporates this Telly Website, App and Reservations Privacy Policy. Any undefined terms in this Policy have the definitions given to them in the Telly Reservation Terms of Service. 
 
 ‍  
 
@@ -21,8 +21,6 @@ Please note that if we notify you that you have been selected to receive a Telly
 ‍
 
 As we continually work to improve our Services, we may need to change this Policy from time to time. We will alert you to any such changes by placing a notice on the Telly website, by sending you an email and/or by some other means. Please note that if you’ve opted not to receive legal notice emails from us (or you haven’t provided us with your email address), those legal notices will still govern your use of the Telly Device, and you are still responsible for reading and understanding them. If you use your Telly Device after any changes to the Telly Product Privacy Policy have been posted, that means you agree to all of the changes.
-
-  
 
 **Telly Website, App and Reservations Privacy Policy Table of Contents**
 
@@ -52,8 +50,6 @@ As we continually work to improve our Services, we may need to change this Polic
 **Other State Law Privacy Rights** 
 
 **Contact Information** 
-
-  
 
 **What this Telly Website, App and Reservations Privacy Policy Covers**
 
@@ -386,7 +382,7 @@ Once you have submitted an opt-out request, we will not ask you to reauthorize t
 
 To our knowledge, we do not sell the Personal Data governed by the Telly Website, App and Reservations Privacy Policyof minors under 16 years of age.
 
-Please note that if you are selected to receive a Telly device, our collection, use and sharing of your Personal Data will be governed by our Telly Device Privacy Policy \[www.freetelly.com/device-privacy-policy\]. Please refer to that Policy for more information. 
+Please note that if you are selected to receive a Telly device, our collection, use and sharing of your Personal Data will be governed by our Telly Device Privacy Policy \[www.telly.com/device-privacy-policy\]. Please refer to that Policy for more information. 
 
 _We Will Not Discriminate Against You for Exercising Your Rights Under the CCPA_
 
@@ -418,15 +414,15 @@ _Opt-Out of Certain Processing Activities_
 
 If you are a Virginia resident, you may have the right to opt-out of the processing activities identified below.
 
-* You may have the right to opt-out of the processing of your Personal Data for targeted advertising purposes. We may process Personal Data governed by the Telly Website, App and Reservations Privacy Policy for targeted advertising purposes. To opt-out of our processing of Personal Data for targeted advertising purposes, please click Do Not Sell or Share My Personal Information \[[www.freetelly.com/do-not-sell-my-personal-data](http://www.freetelly.com/do-not-sell-my-personal-data)\] or email us at support@freetelly.com.
+* You may have the right to opt-out of the processing of your Personal Data for targeted advertising purposes. We may process Personal Data governed by the Telly Website, App and Reservations Privacy Policy for targeted advertising purposes. To opt-out of our processing of Personal Data for targeted advertising purposes, please click Do Not Sell or Share My Personal Information \[[www.telly.com/do-not-sell-my-personal-data](http://www.telly.com/do-not-sell-my-personal-data)\] or email us at support@freetelly.com.
 
-               -  Please note that if you are selected to receive a Telly Device, our processing of your Personal Data will be governed by our Telly Product Privacy                   Policy \[www.freetelly.com/product-privacy-policy\]; we process Personal Data governed by our Telly Product Privacy Policy                   \[[www.freetelly.com/product-privacy-policy](http://www.freetelly.com/product-privacy-policy)\] for targeted advertising purposes. Please refer to that Policy for more information.
+               -  Please note that if you are selected to receive a Telly Device, our processing of your Personal Data will be governed by our Telly Product Privacy                   Policy \[www.telly.com/product-privacy-policy\]; we process Personal Data governed by our Telly Product Privacy Policy                   \[[www.telly.com/product-privacy-policy](http://www.telly.com/product-privacy-policy)\] for targeted advertising purposes. Please refer to that Policy for more information.
 
 ‍
 
 * You may have the right to opt-out to the sale of your Personal Data. As discussed in the “Personal Data Sales and Sharing Opt-Out and Opt-In” under the “California Resident Rights” section, some of our data sharing relationships may constitute a “sale” as defined by the VCDPA. 
 
-                -  Please note that if you are selected to receive a Telly Device, our processing of your Personal Data will be governed by our Telly Product Privacy                     Policy \[www.freetelly.com/product-privacy-policy\]; we sell Personal Data governed by our Telly Product Privacy Policy                    \[[www.freetelly.com/product-privacy-policy](http://www.freetelly.com/product-privacy-policy)\]. Please refer to that Policy for more information.
+                -  Please note that if you are selected to receive a Telly Device, our processing of your Personal Data will be governed by our Telly Product Privacy                     Policy \[www.telly.com/product-privacy-policy\]; we sell Personal Data governed by our Telly Product Privacy Policy                    \[[www.telly.com/product-privacy-policy](http://www.telly.com/product-privacy-policy)\]. Please refer to that Policy for more information.
 
 * You may have the right to opt-out from the processing of your data for the purposes of profiling in furtherance of decisions that produce legal or similarly significant effects to you, if applicable
 
@@ -475,7 +471,7 @@ If you are a resident of Nevada, you have the right to opt-out of the sale of ce
 
 If you have any questions or comments about this Telly Website, App and Reservations Privacy Policy, the ways in which we collect and use your data or your choices and rights regarding such collection and use, please do not hesitate to contact us at:
 
-* www.freetelly.com
+* [www.telly.com](https://www.telly.com/)
 * support@freetelly.com
 * 14622 VENTURA BLVD #102 PMB 2037 SHERMAN OAKS, CA 91403
 
