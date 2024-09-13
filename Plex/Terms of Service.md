@@ -80,7 +80,8 @@ Plex Pro Downloads
 
 * [Plex Media Server Create, organize, and store your collections.](https://www.plex.tv/media-server-downloads/#plex-media-server)
 * [Plexamp Experience the app made for audiophiles.](https://www.plex.tv/plexamp/#downloads)
-* [Plex Dash (Plex Pass Exclusive) A custom app for remote server monitoring.](https://www.plex.tv/plex-labs/#plex-dash)
+* [Plex Photos (Beta) New All your photo collections. One easy app.](https://www.plex.tv/media-server-downloads/#plex-plexphotos)
+* [Plex Dash (Plex Pass Exclusive) A custom app for remote server monitoring.](https://www.plex.tv/media-server-downloads/#plex-plexdash)
 
 Free Movies & TV
 
@@ -122,7 +123,8 @@ Plex Pro Downloads
 
 * [Plex Media Server](https://www.plex.tv/media-server-downloads/#plex-media-server)
 * [Plexamp (Plex Pass Exclusive)](https://www.plex.tv/plexamp/#downloads)
-* [Plex Dash (Plex Pass Exclusive)](https://www.plex.tv/plex-labs/#plex-dash)
+* [Plex Photos (Beta)](https://www.plex.tv/media-server-downloads/#plex-plexphotos)
+* [Plex Dash (Plex Pass Exclusive)](https://www.plex.tv/media-server-downloads/#plex-plexdash)
 
 Terms of Service
 ================
@@ -339,8 +341,10 @@ No credit card required.
     * [Get Perks](https://www.plex.tv/plex-pass/perks/)
 * [Downloads](https://www.plex.tv/media-server-downloads/)
     * [Plex Media Server](https://www.plex.tv/media-server-downloads/#plex-media-server)
-    * [Apps & Devices](https://www.plex.tv/media-server-downloads/#plex-app)
+    * [Plex](https://www.plex.tv/media-server-downloads/#plex-app)
     * [Plexamp](https://www.plex.tv/media-server-downloads/#plex-plexamp)
+    * [Plex Photos](https://www.plex.tv/media-server-downloads/#plex-plexphotos)
+    * [Plex Dash](https://www.plex.tv/media-server-downloads/#plex-plexdash)
     * [Where to Watch](https://www.plex.tv/apps-devices/)
 * [Support](https://support.plex.tv/)
     * [Finding Help](https://support.plex.tv/)
