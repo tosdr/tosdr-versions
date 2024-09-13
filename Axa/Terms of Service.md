@@ -292,6 +292,7 @@ Menu Close
         * [Musician insurance](https://www.axa.co.uk/business-insurance/musician-insurance/)
         * [Nail technician insurance](https://www.axa.co.uk/business-insurance/nail-technician-insurance/)
         * [Personal trainers insurance](https://www.axa.co.uk/business-insurance/personal-trainers-insurance/)
+        * [Accountant's insurance](https://www.axa.co.uk/business-insurance/accountants-insurance/)
         * [Photography insurance](https://www.axa.co.uk/business-insurance/photography-insurance/)
         * [Scientific researcher insurance](https://www.axa.co.uk/business-insurance/scientific-researcher-insurance/)
         * [Software developer insurance](https://www.axa.co.uk/business-insurance/software-developer-insurance/)
