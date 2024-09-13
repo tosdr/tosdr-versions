@@ -26,6 +26,7 @@ sign in / register
 * [score](https://osu.ppy.sh/rankings/osu/score)
 * [country](https://osu.ppy.sh/rankings/osu/country)
 * [multiplayer](https://osu.ppy.sh/multiplayer/rooms/latest)
+* [daily challenge](https://osu.ppy.sh/rankings/daily-challenge)
 * [seasons](https://osu.ppy.sh/seasons/latest)
 * [spotlights (old)](https://osu.ppy.sh/rankings/osu/charts)
 * [kudosu](https://osu.ppy.sh/rankings/kudosu)
@@ -125,6 +126,7 @@ sign in / register
 * [score](https://osu.ppy.sh/rankings/osu/score)
 * [country](https://osu.ppy.sh/rankings/osu/country)
 * [multiplayer](https://osu.ppy.sh/multiplayer/rooms/latest)
+* [daily challenge](https://osu.ppy.sh/rankings/daily-challenge)
 * [seasons](https://osu.ppy.sh/seasons/latest)
 * [spotlights (old)](https://osu.ppy.sh/rankings/osu/charts)
 * [kudosu](https://osu.ppy.sh/rankings/kudosu)
@@ -216,6 +218,7 @@ sign in / register
 * [score](https://osu.ppy.sh/rankings/osu/score)
 * [country](https://osu.ppy.sh/rankings/osu/country)
 * [multiplayer](https://osu.ppy.sh/multiplayer/rooms/latest)
+* [daily challenge](https://osu.ppy.sh/rankings/daily-challenge)
 * [seasons](https://osu.ppy.sh/seasons/latest)
 * [spotlights (old)](https://osu.ppy.sh/rankings/osu/charts)
 * [kudosu](https://osu.ppy.sh/rankings/kudosu)
@@ -309,6 +312,7 @@ sign in / register
 * [score](https://osu.ppy.sh/rankings/osu/score)
 * [country](https://osu.ppy.sh/rankings/osu/country)
 * [multiplayer](https://osu.ppy.sh/multiplayer/rooms/latest)
+* [daily challenge](https://osu.ppy.sh/rankings/daily-challenge)
 * [seasons](https://osu.ppy.sh/seasons/latest)
 * [spotlights (old)](https://osu.ppy.sh/rankings/osu/charts)
 * [kudosu](https://osu.ppy.sh/rankings/kudosu)
@@ -396,6 +400,7 @@ English
 * [score](https://osu.ppy.sh/rankings/osu/score)
 * [country](https://osu.ppy.sh/rankings/osu/country)
 * [multiplayer](https://osu.ppy.sh/multiplayer/rooms/latest)
+* [daily challenge](https://osu.ppy.sh/rankings/daily-challenge)
 * [seasons](https://osu.ppy.sh/seasons/latest)
 * [spotlights (old)](https://osu.ppy.sh/rankings/osu/charts)
 * [kudosu](https://osu.ppy.sh/rankings/kudosu)
@@ -475,7 +480,7 @@ English
 
 [rankings](https://osu.ppy.sh/rankings/osu/performance)
 
-[performance](https://osu.ppy.sh/rankings/osu/performance) [score](https://osu.ppy.sh/rankings/osu/score) [country](https://osu.ppy.sh/rankings/osu/country) [multiplayer](https://osu.ppy.sh/multiplayer/rooms/latest) [seasons](https://osu.ppy.sh/seasons/latest) [spotlights (old)](https://osu.ppy.sh/rankings/osu/charts) [kudosu](https://osu.ppy.sh/rankings/kudosu)
+[performance](https://osu.ppy.sh/rankings/osu/performance) [score](https://osu.ppy.sh/rankings/osu/score) [country](https://osu.ppy.sh/rankings/osu/country) [multiplayer](https://osu.ppy.sh/multiplayer/rooms/latest) [daily challenge](https://osu.ppy.sh/rankings/daily-challenge) [seasons](https://osu.ppy.sh/seasons/latest) [spotlights (old)](https://osu.ppy.sh/rankings/osu/charts) [kudosu](https://osu.ppy.sh/rankings/kudosu)
 
 [community](https://osu.ppy.sh/community/forums)
 
@@ -509,7 +514,7 @@ English اَلْعَرَبِيَّةُ‎ беларуская мова бълг
 
 [rankings](https://osu.ppy.sh/rankings/osu/performance)
 
-[performance](https://osu.ppy.sh/rankings/osu/performance) [score](https://osu.ppy.sh/rankings/osu/score) [country](https://osu.ppy.sh/rankings/osu/country) [multiplayer](https://osu.ppy.sh/multiplayer/rooms/latest) [seasons](https://osu.ppy.sh/seasons/latest) [spotlights (old)](https://osu.ppy.sh/rankings/osu/charts) [kudosu](https://osu.ppy.sh/rankings/kudosu)
+[performance](https://osu.ppy.sh/rankings/osu/performance) [score](https://osu.ppy.sh/rankings/osu/score) [country](https://osu.ppy.sh/rankings/osu/country) [multiplayer](https://osu.ppy.sh/multiplayer/rooms/latest) [daily challenge](https://osu.ppy.sh/rankings/daily-challenge) [seasons](https://osu.ppy.sh/seasons/latest) [spotlights (old)](https://osu.ppy.sh/rankings/osu/charts) [kudosu](https://osu.ppy.sh/rankings/kudosu)
 
 [community](https://osu.ppy.sh/community/forums)
 
@@ -543,7 +548,7 @@ English اَلْعَرَبِيَّةُ‎ беларуская мова бълг
 
 [rankings](https://osu.ppy.sh/rankings/osu/performance)
 
-[performance](https://osu.ppy.sh/rankings/osu/performance) [score](https://osu.ppy.sh/rankings/osu/score) [country](https://osu.ppy.sh/rankings/osu/country) [multiplayer](https://osu.ppy.sh/multiplayer/rooms/latest) [seasons](https://osu.ppy.sh/seasons/latest) [spotlights (old)](https://osu.ppy.sh/rankings/osu/charts) [kudosu](https://osu.ppy.sh/rankings/kudosu)
+[performance](https://osu.ppy.sh/rankings/osu/performance) [score](https://osu.ppy.sh/rankings/osu/score) [country](https://osu.ppy.sh/rankings/osu/country) [multiplayer](https://osu.ppy.sh/multiplayer/rooms/latest) [daily challenge](https://osu.ppy.sh/rankings/daily-challenge) [seasons](https://osu.ppy.sh/seasons/latest) [spotlights (old)](https://osu.ppy.sh/rankings/osu/charts) [kudosu](https://osu.ppy.sh/rankings/kudosu)
 
 [community](https://osu.ppy.sh/community/forums)
 
@@ -577,7 +582,7 @@ English اَلْعَرَبِيَّةُ‎ беларуская мова бълг
 
 [rankings](https://osu.ppy.sh/rankings/osu/performance)
 
-[performance](https://osu.ppy.sh/rankings/osu/performance) [score](https://osu.ppy.sh/rankings/osu/score) [country](https://osu.ppy.sh/rankings/osu/country) [multiplayer](https://osu.ppy.sh/multiplayer/rooms/latest) [seasons](https://osu.ppy.sh/seasons/latest) [spotlights (old)](https://osu.ppy.sh/rankings/osu/charts) [kudosu](https://osu.ppy.sh/rankings/kudosu)
+[performance](https://osu.ppy.sh/rankings/osu/performance) [score](https://osu.ppy.sh/rankings/osu/score) [country](https://osu.ppy.sh/rankings/osu/country) [multiplayer](https://osu.ppy.sh/multiplayer/rooms/latest) [daily challenge](https://osu.ppy.sh/rankings/daily-challenge) [seasons](https://osu.ppy.sh/seasons/latest) [spotlights (old)](https://osu.ppy.sh/rankings/osu/charts) [kudosu](https://osu.ppy.sh/rankings/kudosu)
 
 [community](https://osu.ppy.sh/community/forums)
 
@@ -611,7 +616,7 @@ English اَلْعَرَبِيَّةُ‎ беларуская мова бълг
 
 [rankings](https://osu.ppy.sh/rankings/osu/performance)
 
-[performance](https://osu.ppy.sh/rankings/osu/performance) [score](https://osu.ppy.sh/rankings/osu/score) [country](https://osu.ppy.sh/rankings/osu/country) [multiplayer](https://osu.ppy.sh/multiplayer/rooms/latest) [seasons](https://osu.ppy.sh/seasons/latest) [spotlights (old)](https://osu.ppy.sh/rankings/osu/charts) [kudosu](https://osu.ppy.sh/rankings/kudosu)
+[performance](https://osu.ppy.sh/rankings/osu/performance) [score](https://osu.ppy.sh/rankings/osu/score) [country](https://osu.ppy.sh/rankings/osu/country) [multiplayer](https://osu.ppy.sh/multiplayer/rooms/latest) [daily challenge](https://osu.ppy.sh/rankings/daily-challenge) [seasons](https://osu.ppy.sh/seasons/latest) [spotlights (old)](https://osu.ppy.sh/rankings/osu/charts) [kudosu](https://osu.ppy.sh/rankings/kudosu)
 
 [community](https://osu.ppy.sh/community/forums)
 
@@ -647,11 +652,11 @@ English اَلْعَرَبِيَّةُ‎ беларуская мова бълг
 
 [rankings](https://osu.ppy.sh/rankings/osu/performance)
 
-[performance](https://osu.ppy.sh/rankings/osu/performance) [score](https://osu.ppy.sh/rankings/osu/score) [country](https://osu.ppy.sh/rankings/osu/country) [multiplayer](https://osu.ppy.sh/multiplayer/rooms/latest) [seasons](https://osu.ppy.sh/seasons/latest) [spotlights (old)](https://osu.ppy.sh/rankings/osu/charts) [kudosu](https://osu.ppy.sh/rankings/kudosu)
+[performance](https://osu.ppy.sh/rankings/osu/performance) [score](https://osu.ppy.sh/rankings/osu/score) [country](https://osu.ppy.sh/rankings/osu/country) [multiplayer](https://osu.ppy.sh/multiplayer/rooms/latest) [daily challenge](https://osu.ppy.sh/rankings/daily-challenge) [seasons](https://osu.ppy.sh/seasons/latest) [spotlights (old)](https://osu.ppy.sh/rankings/osu/charts) [kudosu](https://osu.ppy.sh/rankings/kudosu)
 
-[performance](https://osu.ppy.sh/rankings/osu/performance) [score](https://osu.ppy.sh/rankings/osu/score) [country](https://osu.ppy.sh/rankings/osu/country) [multiplayer](https://osu.ppy.sh/multiplayer/rooms/latest) [seasons](https://osu.ppy.sh/seasons/latest) [spotlights (old)](https://osu.ppy.sh/rankings/osu/charts) [kudosu](https://osu.ppy.sh/rankings/kudosu)
+[performance](https://osu.ppy.sh/rankings/osu/performance) [score](https://osu.ppy.sh/rankings/osu/score) [country](https://osu.ppy.sh/rankings/osu/country) [multiplayer](https://osu.ppy.sh/multiplayer/rooms/latest) [daily challenge](https://osu.ppy.sh/rankings/daily-challenge) [seasons](https://osu.ppy.sh/seasons/latest) [spotlights (old)](https://osu.ppy.sh/rankings/osu/charts) [kudosu](https://osu.ppy.sh/rankings/kudosu)
 
-[performance](https://osu.ppy.sh/rankings/osu/performance) [score](https://osu.ppy.sh/rankings/osu/score) [country](https://osu.ppy.sh/rankings/osu/country) [multiplayer](https://osu.ppy.sh/multiplayer/rooms/latest) [seasons](https://osu.ppy.sh/seasons/latest) [spotlights (old)](https://osu.ppy.sh/rankings/osu/charts) [kudosu](https://osu.ppy.sh/rankings/kudosu)
+[performance](https://osu.ppy.sh/rankings/osu/performance) [score](https://osu.ppy.sh/rankings/osu/score) [country](https://osu.ppy.sh/rankings/osu/country) [multiplayer](https://osu.ppy.sh/multiplayer/rooms/latest) [daily challenge](https://osu.ppy.sh/rankings/daily-challenge) [seasons](https://osu.ppy.sh/seasons/latest) [spotlights (old)](https://osu.ppy.sh/rankings/osu/charts) [kudosu](https://osu.ppy.sh/rankings/kudosu)
 
 [community](https://osu.ppy.sh/community/forums)
 
