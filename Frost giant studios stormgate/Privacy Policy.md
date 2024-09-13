@@ -6,13 +6,13 @@ Own a Piece of Frost Giant Today!
 
 [Home](https://playstormgate.com/) [News](https://playstormgate.com/news) [SUPPORT](https://support.playstormgate.com/)
 
-🇺🇸   English 🇪🇸   Español 🇫🇷   Français 🇵🇹   Português 🇩🇪   Deutsch 🇷🇺   Русский 🇰🇷   한국어 🇨🇳   中文 🇹🇼   中文（繁體） [Wishlist on Steam](https://store.steampowered.com/app/2012510/)[Pre-Purchase](https://playstormgate.com/prepurchase)
+🇺🇸   English 🇪🇸   Español 🇫🇷   Français 🇵🇹   Português 🇩🇪   Deutsch 🇷🇺   Русский 🇰🇷   한국어 🇨🇳   中文 🇹🇼   中文（繁體） [Play Now](https://store.steampowered.com/app/2012510/)[TUTORIALS](https://stormgate.untapped.gg/en/learn)
 
 Privacy Policy
 ==============
 
   
-This Privacy Policy was last updated on July 24, 2024.
+This Privacy Policy was last updated on August 12, 2024.
 
 Welcome to the home of Frost Giant Studios!   We’re on a mission to bring you the best in real time strategy games.
 
@@ -147,6 +147,7 @@ If you participate in one of our esports competitions, we may share via API pers
 * GGWP
 * Untapped
 * Kakao Games
+* ModSquad
 
 We authorize such service providers to use or disclose your personal information only as necessary to perform the relevant services on our behalf or to comply with legal obligations. We require our service providers to contractually commit to protecting the security and confidentiality of the personal information they process on our behalf and not use your data for anything other than to provide services on our behalf.
 
