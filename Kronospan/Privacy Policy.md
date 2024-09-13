@@ -81,7 +81,6 @@ Flooring and Wall Panels
 * [My Style](https://www.mystyle-flooring.com/ "My Style")
 * [KronoOriginal](https://www.krono-original.com/ "KronoOriginal")
 * [Eurohome](https://www.euro-home.com/ "Eurohome")
-* [Binyl Pro](https://www.binyl-flooring.com/ "Binyl Pro")
 
 ##### [Kronodesign](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign "Kronodesign")
 
@@ -141,7 +140,6 @@ Flooring and Wall Panels
 * [My Style](https://www.mystyle-flooring.com/ "My Style")
 * [KronoOriginal](https://www.krono-original.com/ "KronoOriginal")
 * [Eurohome](https://www.euro-home.com/ "Eurohome")
-* [Binyl Pro](https://www.binyl-flooring.com/ "Binyl Pro")
 
 ##### [Stock Availability](https://www.kronospan-worldwide.com/privacy/?action=index&controller=express_services&lang=0&action=index&controller=express_services "Stock Availability")
 
@@ -390,7 +388,6 @@ Flooring and Wall Panels
 * [My Style](https://www.mystyle-flooring.com/ "My Style")
 * [KronoOriginal](https://www.krono-original.com/ "KronoOriginal")
 * [Eurohome](https://www.euro-home.com/ "Eurohome")
-* [Binyl Pro](https://www.binyl-flooring.com/ "Binyl Pro")
 
 ##### [Decors](# "Decors") ![up](/public/krono/img/icons/up.png) 
 
@@ -452,7 +449,6 @@ Flooring and Wall Panels
 * [My Style](https://www.mystyle-flooring.com/ "My Style")
 * [KronoOriginal](https://www.krono-original.com/ "KronoOriginal")
 * [Eurohome](https://www.euro-home.com/ "Eurohome")
-* [Binyl Pro](https://www.binyl-flooring.com/ "Binyl Pro")
 
 ##### [Express Services](# "Express Services") ![up](/public/krono/img/icons/up.png) 
 
@@ -536,9 +532,9 @@ Country Albania Algeria Andorra Argentina Armenia Australia Austria Bahrain Bela
 
 ##### Organization ![dropdown menu](/public/krono/img/icons/down-blk.png) 
 
-[About us](https://kronospan.com/en_EN/company/organisation "About us")
-
 [Kronospan's Vision](https://kronospan.com/en_EN/company/kronospan-s-vision "Kronospan's Vision")
+
+[About us](https://kronospan.com/en_EN/company/organisation "About us")
 
 [Environment](https://kronospan.com/en_EN/company/sustainability "Environment")
 
@@ -582,7 +578,7 @@ Country \* Albania Algeria Andorra Argentina Armenia Australia Austria Bahrain B
 
 ##### [Organization](https://kronospan.com/en_EN/company "Organization")
 
-[About us](https://kronospan.com/en_EN/company/organisation "About us") [Kronospan's Vision](https://kronospan.com/en_EN/company/kronospan-s-vision "Kronospan's Vision") [Environment](https://kronospan.com/en_EN/company/sustainability "Environment") [Work With Us](https://kronospan-candidate.talent-soft.com/homepage.aspx?LCID=2057 "Work With Us") [Kronology](https://kronospan.com/en_EN/company/kronology "Kronology") [News](https://kronospan.com/en_EN/company/news "News") [Furniture Cluster](https://www.furniture-cluster.com/ "Furniture Cluster")
+[Kronospan's Vision](https://kronospan.com/en_EN/company/kronospan-s-vision "Kronospan's Vision") [About us](https://kronospan.com/en_EN/company/organisation "About us") [Environment](https://kronospan.com/en_EN/company/sustainability "Environment") [Work With Us](https://kronospan-candidate.talent-soft.com/homepage.aspx?LCID=2057 "Work With Us") [Kronology](https://kronospan.com/en_EN/company/kronology "Kronology") [News](https://kronospan.com/en_EN/company/news "News") [Furniture Cluster](https://www.furniture-cluster.com/ "Furniture Cluster")
 
 ##### [Privacy & Legal](javascript:; "Privacy & Legal")
 
