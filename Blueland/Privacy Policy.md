@@ -84,7 +84,7 @@ The Personal Information that we collect depends on the nature of the relationsh
 
 **Our Customers**
 
-When you make a purchase or attempt to make a purchase through the Site, we collect certain information from you to process your order, including your name, billing address, shipping address, payment information (including credit card numbers), email address, and phone number. We refer to this information as “Order Information.”
+When you make a purchase or attempt to make a purchase through the Site, we collect certain information from you to process your order, including your name, billing address, shipping address, payment information (including credit card numbers), email address, and phone number which we may use to contact you regarding your order, including by Short Message Service (SMS) text messaging, according to your preferences. We refer to this information as “Order Information.”
 
 **  
 Visitors to Our Site**
@@ -129,7 +129,7 @@ Our Site may also contain links to third-party web sites. These links are provid
 
 We use Order Information generally to fulfill any orders placed through the Site (including processing your payment information, arranging for shipping, and providing you with invoices and/or order confirmations). Additionally, we use this Order Information to: communicate with you and provide customer service; screen our orders for potential risk or fraud; and provide you with information or advertising relating to our products or services, in accordance with the preferences you have shared with us.
 
-We use Device Information to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Site (for example, by generating analytics about how our customers browse and interact with the Site, and to assess the success of our marketing and advertising campaigns). We also use Device Information to provide you with information or advertising relating to our products or services, in accordance with the preferences you have shared with us.
+We use Device Information to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Site (for example, by generating analytics about how our customers browse and interact with the Site, and to assess the success of our marketing and advertising campaigns). We also use Device Information to provide you with information or advertising relating to our products or services, in accordance with the preferences you have shared with us. The Site also uses cookies to help keep track of items you put into your shopping cart, including when you have abandoned your cart, and this information is used to determine when to send cart reminder messages via SMS.
 
 We use Employee Information for standard employment purposes such as processing payroll, providing human resources, administering our business (including managing our employees and providing our services) and to fulfill our legal and reporting obligations.
 
@@ -140,6 +140,8 @@ We use Marketing Information to provide you with information or advertising rela
 We share your Personal Information with third parties to help us use it for the purposes described above. For example, we use Shopify to power our online store and share Device Information and Order Information with Shopify. You can read more about how Shopify uses your Personal Information here: https://www.shopify.com/legal/privacy. We also share your Personal Information, including Device Information, Marketing Information, and Order Information, with Google Analytics and similar third parties (including Meta and Disco) to help us understand how our customers use the Site or for advertising purposes. You can read more about how Google uses your Personal Information here: https://www.google.com/intl/en/policies/privacy/. You can also opt-out of Google Analytics here: https://tools.google.com/dlpage/gaoptout or by disabling advertising cookies on our website.
 
 We also share your Personal Information with our third-party service providers, in order to perform business functions such as fulfilling or shipping your orders, customer service, hosting services, communications, software and website development services, payment processing services, accounting and audit services, compliance services, quality control services, and analytics services. Our third-party service providers are only allowed to use, disclose, or retain your Personal Information for the purpose of providing these services to us, and are prohibited from selling your Personal Information. We also share Employee Information with third party service providers to provide services to our employees, such as payroll.
+
+We will not share your opt-in to an SMS campaign with any third party for purposes unrelated to providing you with the services of that campaign. We may share your Personal Data, including your SMS opt-in or consent status, with third parties that help us provide our messaging services, including but not limited to platform providers, phone companies, and any other vendors who assist us in the delivery of text messages.
 
 Finally, we may also share your Personal Information to comply with applicable laws and regulations, to prevent fraud, to respond to a subpoena other lawful request for information, or to otherwise protect our rights or the rights of others. In the event that we choose to sell, transfer, or merge parts of our business or our assets with another business or a third-party, your personal information may also be disclosed or transferred as part of that merger or transaction.
 
@@ -363,7 +365,7 @@ Residents of the European Economic Area and the United Kingdom may report privac
 We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons. Please check back regularly to ensure you have up-to-date notice.
 
   
-This Privacy Policy was last updated on April 30, 2024.  
+This Privacy Policy was last updated on September 12, 2024.  
 
 **CONTACT US**
 
@@ -385,6 +387,12 @@ Email AddressSubmit
 You've joined the movement!
 
 Oops, something went wrong
+
+By signing up, you consent to our[](https://www.blueland.com/privacy-policy)
+
+[Privacy Policy](https://www.blueland.com/privacy-policy)
+
+. You may unsubscribe at any time.
 
 * [![Blueland: Eco-Friendly Cleaning Products](https://cdn.sanity.io/images/d864s8gp/production/d41921b9a74af010b21cd04da21ebc507926884c-13x13.svg?q=80&fit=max&auto=format)](https://www.instagram.com/blueland/)
 * [![Blueland: Eco-Friendly Cleaning Products](https://cdn.sanity.io/images/d864s8gp/production/b8b6494962c3a199a7597f253c23ff43cb1e345a-96x96.png?q=80&fit=max&auto=format)](https://www.facebook.com/liveblueland/)
@@ -503,14 +511,10 @@ Bestseller
 
 35% Kit Savings](https://www.blueland.com/products/the-clean-suite)
 
-[Clean Suite Kit](https://www.blueland.com/products/the-clean-suite)$98
+[Clean Suite Kit](https://www.blueland.com/products/the-clean-suite)
 
 
----------------------------------------------------------------------------
-
-No Reviews Yet
-
-Quick Add
+------------------------------------------------------------------------
 
 [![Blueland Dishwasher Tablets Starter Set](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
@@ -522,27 +526,19 @@ Quick Add
 
 Bestseller](https://www.blueland.com/products/dishwasher-starter-set)
 
-[Dishwasher Starter Set](https://www.blueland.com/products/dishwasher-starter-set)$25
+[Dishwasher Starter Set](https://www.blueland.com/products/dishwasher-starter-set)
 
 
------------------------------------------------------------------------------------------
-
-No Reviews Yet
-
-Quick Add
+--------------------------------------------------------------------------------------
 
 [![Laundry Starter Set](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
 ![Laundry Starter Set](https://cdn.sanity.io/images/d864s8gp/production/7025db7b813ff428d0930a54bd5579603e9b2600-1790x1790.jpg?w=300&h=300&q=75&fit=clip&auto=format)](https://www.blueland.com/products/laundry-starter-set)
 
-[Laundry Starter Set](https://www.blueland.com/products/laundry-starter-set)$25
+[Laundry Starter Set](https://www.blueland.com/products/laundry-starter-set)
 
 
------------------------------------------------------------------------------------
-
-No Reviews Yet
-
-Quick Add
+--------------------------------------------------------------------------------
 
 [![Toilet Bowl Cleaner Starter Set](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
@@ -554,11 +550,7 @@ Quick Add
 
 Bestseller](https://www.blueland.com/products/toilet-cleaner-starter-set)
 
-[Toilet Bowl Cleaner Starter Set](https://www.blueland.com/products/toilet-cleaner-starter-set)$23
+[Toilet Bowl Cleaner Starter Set](https://www.blueland.com/products/toilet-cleaner-starter-set)
 
 
-------------------------------------------------------------------------------------------------------
-
-No Reviews Yet
-
-Quick Add
+---------------------------------------------------------------------------------------------------
