@@ -38,7 +38,7 @@ Terms \& Conditions covering Sale and Use of the FAMILEO Services
 
 for individuals
 
-Applicable from 2nd August 2023
+Applicable from 11th September 2024
 
 
 
@@ -156,6 +156,28 @@ cease all access to the Site and the Application and to no longer make any use o
 
 
 
+ENTOURAGE SOLUTIONS places great importance on the security of its Users' personal information
+
+and implements various measures to protect them against unauthorized access.
+
+To enhance the security of the mobile applications, ENTOURAGE SOLUTIONS uses reCAPTCHA
+
+Enterprise, a service provided by Google. reCAPTCHA helps prevent abuse and spam by verifying
+
+that connections to the FAMILEO applications are made by humans and not automated robots. The
+
+use of reCAPTCHA is subject to Google's Terms of Use and Privacy Policy. By using the FAMILEO
+
+4
+
+
+
+mobile applications owned by ENTOURAGE SOLUTIONS, the User agrees that these terms and
+
+privacy rules apply.
+
+
+
 Article 2 - Description of FAMILEO Services
 
 
@@ -167,10 +189,6 @@ paid subscription:
 - Creation of a private family group network – at the end of the registration process, a family
 
 group code is generated and sent to the Subscriber. This code allows other family group members -
-
-4
-
-
 
 up to 60 accounts - to join the family group network free of charge and to send messages to the Loved-
 
@@ -220,6 +238,10 @@ Other features may be maintained for a limited time from the date of termination
 
 Article 3 - Conditions of access and use of FAMILEO Services
 
+5
+
+
+
 Use of the Services is personal and intended exclusively for non-commercial use. As such, Users
 
 undertake not to use the Services for commercial, political or advertising purposes and for any form of
@@ -237,10 +259,6 @@ after downloading and installing the Application.
 
 
 Access to FAMILEO Services requires an internet connection and, if applicable, a mobile data
-
-5
-
-
 
 connection for mobile phones. It is specified that supporting these connections is not handled by
 
@@ -290,6 +308,10 @@ and/or proceedings against him as a result.
 
 Temporary interruptions shall, as far as possible, be notified through the Site at least twenty-four (24)
 
+6
+
+
+
 hours before they occur, except where such interruptions are of an emergency nature and do not allow
 
 ENTOURAGE SOLUTIONS to notify the User in advance.
@@ -307,10 +329,6 @@ has a period of fourteen days from the date of subscription to exercise his or h
 without penalty and without obligation of cause - by sending written notice thereof by mail addressed
 
 to ENTOURAGE SOLUTIONS at 4 Avenue Louis Martin, 35400 Saint-Malo, by completing the
-
-6
-
-
 
 withdrawal form downloadable here, or by means of an unambiguous declaration sent to the email
 
@@ -358,6 +376,8 @@ SOLUTIONS of the request for retraction, being specified that any day on which a
 
 due.
 
+7
+
 
 
 The refund will be made within a period of fourteen days from the date on which ENTOURAGE
@@ -375,10 +395,6 @@ latter.
 The subscription is taken out for a fixed term of one month and is tacitly renewed every month . It
 
 is also possible that there are offers on the Site of special plans of variable duration for a trial or
-
-7
-
-
 
 discovery of one of the FAMILEO Services, be it a temporary arrangement or not.
 
@@ -428,6 +444,8 @@ the end date and time indicated on the Subscriber's account for a trial or disco
 
 otherwise indicated on the Site.
 
+8
+
 
 
 In case of non-compliance with these notification deadlines, the subscription is fully renewed.
@@ -443,10 +461,6 @@ Article 6 - Declaration of capacity
 The User declares that he or she has the legal capacity allowing him or her to validly accept these
 
 Terms \& Conditions, i.e. he or she complies with the legal age of majority and is not the subject to
-
-8
-
-
 
 legal protection of majors (i.e. subject to a safeguard set by the courts, subject to guardianship or
 
@@ -496,6 +510,10 @@ It is the Subscriber's responsibility to communicate this family group code, und
 
 responsibility, to his or her family group members and to the Loved-one. Subject to the other
 
+9
+
+
+
 stipulations of these Terms \& Conditions, a subscription to one of the FAMILEO Services only comes
 
 into force when ENTOURAGE SOLUTIONS has sent the confirmation email referred to in the
@@ -511,8 +529,6 @@ The Subscriber undertakes to provide true and reliable information in regard to 
 concerning the Loved-one in question. ENTOURAGE SOLUTIONS cannot be held responsible for
 
 failures of Services that are linked to incorrect information being provided by the Subscriber.
-
-9
 
 
 
@@ -560,6 +576,8 @@ the Application available to the Subscriber and Loved ones (50% of the fees), th
 
 Site (10% of the fees), as well as the cost of printing and sending the gazettes (40% of the fees).
 
+10
+
 
 
 ENTOURAGE SOLUTIONS reserves the right to change the fee for each subscription plan, the rate
@@ -577,10 +595,6 @@ his or her account at a later date).
 
 
 In such a case, a Subscriber who does not accept this rate increase will be free to not renew the
-
-10
-
-
 
 subscription through his or her account on the Site as, indicated in article 5 above, this termination
 
@@ -604,9 +618,11 @@ a tax increase or creation of new taxes.
 
 
 
-A gift box code can not be used in combination with another gift box code. All gift box codes are only
+A gift box code can not be used in combination with another gift box code and is non-refundable. All
 
-valuable for new Subscribers and can not be used in conjunction with an existing Subscription.
+gift box codes are only valuable for new Subscribers and can not be used in conjunction with an
+
+existing Subscription.
 
 
 
@@ -628,6 +644,10 @@ credit cards.
 
 If the Subscriber has more than one subscription plan, all subscription plans are paid for using the
 
+11
+
+
+
 same credit card.
 
 
@@ -647,10 +667,6 @@ cancellation is through Subscriber’s initiative or that of ENTOURAGE SOLUTIONS
 
 
 In order to optimize transaction security, ENTOURAGE SOLUTIONS has chosen the DALENYS and
-
-11
-
-
 
 CHECKOUT payment systems. The guarantees granted by ENTOURAGE SOLUTIONS for the
 
@@ -698,6 +714,8 @@ well as to facilitate resolution of disputes in cases of retro-billing or refund
 
 associated with the acceptance of credit or debit cards.
 
+12
+
 
 
 The Subscriber can consult DALENYS’ or CHECKOUT’s privacy policies on their websites:
@@ -719,10 +737,6 @@ in the interest of the Loved-one. (Including but not restricted to: Flowers, Cho
 This allows Users, who wish to do so, to use the links on the store's portal to access partner merchant
 
 sites for online purchases of products and/or services offered by third parties.
-
-12
-
-
 
 ENTOURAGE SOLUTIONS is prohibited from sending directly to the partners any details regarding
 
@@ -768,6 +782,10 @@ Article 14 - Area of operation
 
 The FAMILEO Services subscription is open to anyone with a valid bank card. If the Loved-one resides
 
+13
+
+
+
 in a country that is not listed on the Site when registering, the Subscriber must contact ENTOURAGE
 
 SOLUTIONS by email or phone prior to validation of his or her subscription, to validate the shipping
@@ -787,10 +805,6 @@ The User declares that he or she is aware of the constraints and limitations of 
 data networks. ENTOURAGE SOLUTIONS can under no circumstances be held responsible for the
 
 following:
-
-13
-
-
 
 - Possible malfunctions in access to FAMILEO Services,
 
@@ -838,6 +852,10 @@ ENTOURAGE SOLUTIONS cannot be held responsible in the event that the proposed Se
 
 incompatible with certain equipment and/or functionalities of the User’s computer hardware. The User
 
+14
+
+
+
 is also solely responsible for the adequacy of the Services for his or her needs.
 
 
@@ -856,13 +874,7 @@ emanating from a third party, which is related to the User’s use of a FAMILEO 
 
 Every User is solely responsible for all the content that he makes accessible, whether through emails
 
-or content stored on user accounts. ENTOURAGE SOLUTIONS has no control over the content
-
-14
-
-
-
-published by Users through the Site or the Application.
+or content stored on user accounts.
 
 
 
@@ -910,23 +922,79 @@ ENTOURAGE SOLUTIONS by sending an email to the following address: hello@famileo.
 
 report must be accompanied by all the information enabling ENTOURAGE SOLUTIONS to identify the
 
+15
+
+
+
 illegal or fraudulent content.
 
 
 
-Article 16 - Personal data
+Article 16 – Moderation
+
+ENTOURAGE SOLUTIONS has implemented a moderation procedure. This moderation procedure is
+
+applied to any content published by a User, both on the application and the website, that does not
+
+comply with the terms of the General Conditions, or more generally, with the laws and regulations in
+
+force.
+
+
+
+The moderation procedure implemented by ENTOURAGE SOLUTIONS follows these steps:
+
+• Reporting of content by a User: ENTOURAGE SOLUTIONS allows its Subscribers to report
+
+content published on FAMILEO;
+
+• Reception and analysis of the report and its content by ENTOURAGE SOLUTIONS;
+
+• Following this analysis, ENTOURAGE SOLUTIONS may decide either not to act on the report
+
+because the reported content complies with the provisions of the General Conditions, or
+
+ENTOURAGE SOLUTIONS may consider the reported content as contrary to the provisions of
+
+the General Conditions;
+
+• In the latter case, ENTOURAGE SOLUTIONS contacts the User who published the reported
+
+content and informs them: of the non-compliance with the provisions of the General Conditions,
+
+of the removal of the reported content, of the capture of screenshots of the content, and of the
+
+possible application of sanctions (such as the deletion of the User account, for example);
+
+• ENTOURAGE SOLUTIONS then contacts the reporter to inform them of the outcome of their
+
+report.
+
+
+
+ENTOURAGE SOLUTIONS is also subject to the provisions of Regulation (EU) 2022/2065 of 19
+
+October 2022. As such, ENTOURAGE SOLUTIONS is required to notify the law enforcement or judicial
+
+authorities of the Member State of the European Union in which the content was published of any
+
+information leading to suspicion that a criminal offence posing a threat to the life or safety of one or
+
+more persons has been committed, is being committed, or is likely to be committed.
+
+
+
+Article 17 - Personal data
 
 To learn more, please visit our privacy policy page https://www.famileo.com/famileo/en-EU/privacy-
 
 policy.
 
+16
 
 
-Article 17 - Suspension and/or early termination at the initiative of ENTOURAGE
 
-15
-
-
+Article 18 - Suspension and/or early termination at the initiative of ENTOURAGE
 
 SOLUTIONS or the Subscriber
 
@@ -988,17 +1056,15 @@ compensation on the part of ENTOURAGE SOLUTIONS, in a case of serious breach of 
 
 obligations as defined in these General Terms and Conditions by ENTOURAGE SOLUTIONS.
 
+17
 
 
-Article 18 - Changes to these Terms and Conditions
+
+Article 19 - Changes to these Terms and Conditions
 
 ENTOURAGE SOLUTIONS reserves the right to modify at its discretion these Terms \& Conditions,
 
 under the condition that the Terms \& Conditions applicable to the Subscriber are those in force on the
-
-16
-
-
 
 date of initial subscription or the date of renewal.
 
@@ -1020,7 +1086,7 @@ following their introduction.
 
 
 
-Article 19 - Intellectual property
+Article 20 - Intellectual property
 
 The Site and the Application as well as all of its content (trademarks, photographs, texts, illustrations,
 
@@ -1054,7 +1120,11 @@ For their part, the User grants ENTOURAGE SOLUTIONS the right to reproduce and p
 
 
 
-Article 20 - Customer Service
+Article 21- Customer Service
+
+18
+
+
 
 For any information or question concerning FAMILEO Services, the User may contact ENTOURAGE
 
@@ -1062,15 +1132,11 @@ SOLUTIONS via the Site by clicking on the "contact" section or by sending a lett
 
 address: ENTOURAGE SOLUTIONS Customer Service, 4 Avenue Louis Martin, 35400 Saint-Malo
 
-17
-
-
-
 35400 St Malo.
 
 
 
-Article 21 - Nullity of a clause
+Article 22 - Nullity of a clause
 
 In the event that any provision in these Terms \& Conditions is declared invalid or unenforceable for any
 
@@ -1078,7 +1144,7 @@ reason whatsoever, the remaining provisions will continue to apply without chang
 
 
 
-Article 22 - Applicable law and litigation
+Article 23 - Applicable law and litigation
 
 These Terms \& Conditions and the subscriptions they govern are subject to French law.
 
@@ -1098,7 +1164,7 @@ with the Consumer Mediation Commission or with existing sector-related mediation
 
 alternative dispute resolution method (conciliation, for example) in a case of dispute.
 
-18
+19
 
 
 
@@ -1166,7 +1232,7 @@ An individual Sponsor has the opportunity to sponsor up to 20 Referrals over a r
 
 from the date of his or her first sponsorship.
 
-19
+20
 
 
 
@@ -1238,7 +1304,7 @@ The Sponsor Code is personal and non-transferable. The act of sponsorship must b
 
 the context of a personal relationship with the Referral.
 
-20
+21
 
 
 
@@ -1284,7 +1350,7 @@ In particular, it is stipulated that ENTOURAGE SOLUTIONS has the right to modify
 
 table for sponsorship bonuses.
 
-21
+22
 
 
 
@@ -1350,7 +1416,7 @@ For example:
 
 - In the case of a subscription of €9.99 VAT/month, the maximum kitty amount will be €119.88 VAT
 
-22
+23
 
 
 
@@ -1396,9 +1462,9 @@ articles 5.2 and 5.3 below.
 
 5.2 Conditions for receiving the remaining amount as a refund
 
-The Subscriber must contact customer support hello@famileo.com and ask for the refund of the kitty,
+The Subscriber must contact customer support hello@famileo.com and ask for the refund of the kitty
 
-providing a copy of a valid ID credentials.
+(excluding gift box codes), providing a copy of a valid ID credentials.
 
 
 
@@ -1416,7 +1482,7 @@ customer support to ask for a refund of the credit in the kitty, customer suppor
 
 informing them that there is still credit in the kitty and asking them if they would like to receive the
 
-23
+24
 
 
 
@@ -1428,13 +1494,15 @@ terminated, the Subscriber has not replied to the email, the remaining funds wil
 
 to the FAMILEO Foundation.
 
-24
+25
 
 
 
 Terms \& Conditions of Use of FAMILEO applicable under the framework of
 
 partnerships established by ENTOURAGE SOLUTIONS with Professionals
+
+Applicable from 11 September 2024
 
 
 
@@ -1496,7 +1564,25 @@ The latter are invited to refer to the Terms \& Conditions of Sale and Use of FA
 
 “Monthly+”, "Bi-Monthly" and "Weekly" services.
 
-25
+26
+
+
+
+ENTOURAGE SOLUTIONS places great importance on the security of its Users' personal information
+
+and implements various measures to protect them against unauthorized access.
+
+To enhance the security of the mobile applications, ENTOURAGE SOLUTIONS uses reCAPTCHA
+
+Enterprise, a service provided by Google. reCAPTCHA helps prevent abuse and spam by verifying that
+
+connections to the FAMILEO applications are made by humans and not automated robots. The use of
+
+reCAPTCHA is subject to Google's Terms of Use and Privacy Policy. By using the FAMILEO mobile
+
+applications owned by ENTOURAGE SOLUTIONS, the User agrees that these terms and privacy rules
+
+apply.
 
 
 
@@ -1548,6 +1634,10 @@ free to modify at any time.
 
 These Terms \& Conditions of Use are available on the Portal at any time. It is the
 
+27
+
+
+
 responsibility of Users to check these Terms \& Conditions of Use regularly.
 
 
@@ -1565,8 +1655,6 @@ and no longer make any use of FAMILEO Services.
 If one or more provisions of the Terms \& Conditions of Use are declared void by a competent court, the
 
 other provisions remain enforceable in regard to Users.
-
-26
 
 
 
@@ -1592,9 +1680,17 @@ responding to a wish or need of the Beneficiary or his, her or its Family group.
 
 No items that do not comply with this objective should be posted on the Portal.
 
+
+
 This excludes, in particular, all messages intended to promote or help commercial promotion of a
 
 service or product.
+
+
+
+Messages, comments, and group names that make reference to personal health data (illness, physical
+
+condition, or any other personal health-related information) are also prohibited.
 
 
 
@@ -1608,17 +1704,23 @@ legal action likely to emanate from third parties, be they public authorities or
 
 of said items being posted.
 
+28
+
+
+
 The User indemnifies the Company against all liabilities or convictions that could be pronounced against
 
 it because of the comments and items in question.
 
 
 
-4.3 The Company reserves the right to remove from the Portal comments and/or items that
+4.3 The Company reserves the right to delete, at any time and without notice, any language
 
-would appear contrary to good morality, these Terms \& Conditions of Use and/or any
+and/or elements from the online account and deemed by the company to be in breach of
 
-applicable regulations.
+moral standards, these General Terms and Conditions of Use, and/or any regulations
+
+currently in force.
 
 
 
@@ -1633,10 +1735,6 @@ supervision and responsibility of their legal representatives.
 
 
 4.5 The User agrees, in particular, that his, her or their remarks respect the rights of
-
-27
-
-
 
 persons and their right of privacy, trademark law, copyright and other intellectual property
 
@@ -1666,7 +1764,65 @@ that does not appear to comply with these Terms of Use.
 
 
 
-Article 5 - Registration
+Article 5 – Moderation
+
+ENTOURAGE SOLUTIONS has implemented a moderation procedure. This moderation procedure is
+
+applied to any content published by a User, both on the application and the website, that does not
+
+comply with the terms of the General Conditions, or more generally, with the laws and regulations in
+
+29
+
+
+
+force.
+
+
+
+The moderation procedure implemented by ENTOURAGE SOLUTIONS follows these steps:
+
+• Reporting of content by a User: ENTOURAGE SOLUTIONS allows its Subscribers to report
+
+content published on FAMILEO;
+
+• Reception and analysis of the report and its content by ENTOURAGE SOLUTIONS;
+
+• Following this analysis, ENTOURAGE SOLUTIONS may decide either not to act on the report
+
+because the reported content complies with the provisions of the General Conditions, or
+
+ENTOURAGE SOLUTIONS may consider the reported content as contrary to the provisions of
+
+the General Conditions;
+
+• In the latter case, ENTOURAGE SOLUTIONS contacts the User who published the reported
+
+content and informs them: of the non-compliance with the provisions of the General Conditions,
+
+of the removal of the reported content, of the capture of screenshots of the content, and of the
+
+possible application of sanctions (such as the deletion of the User account, for example);
+
+• ENTOURAGE SOLUTIONS then contacts the reporter to inform them of the outcome of their
+
+report.
+
+
+
+ENTOURAGE SOLUTIONS is also subject to the provisions of Regulation (EU) 2022/2065 of 19
+
+October 2022. As such, ENTOURAGE SOLUTIONS is required to notify the law enforcement or judicial
+
+authorities of the Member State of the European Union in which the content was published of any
+
+information leading to suspicion that a criminal offence posing a threat to the life or safety of one or
+
+more persons has been committed, is being committed, or is likely to be committed.
+
+
+
+Article 6 - Registration
 
 Users may only use the Portal only after registering and accepting these Terms \& Conditions of Use.
 
@@ -1686,6 +1842,10 @@ which is confidential and specific to each Beneficiary. At the end of this proce
 
 have a username and a personal password, which they are responsible for and must not
 
+30
+
+
+
 communicate to anyone. The username and password are required for these Users to access the
 
 Portal.
@@ -1703,10 +1863,6 @@ The Professional undertakes to carry out a rigorous control of the procedure it 
 its staff the "family codes" communicated to him by the Company. In the event of termination of the
 
 existing contractual relations between the Professional and the Company, for whatever reason, the
-
-28
-
-
 
 Company may, without delay, deactivate the "family codes” it has provided, without the User having
 
@@ -1728,9 +1884,9 @@ be it temporarily or permanently.
 
 
 
-Article 6 - Competent court of jurisdiction
+Article 7 - Competent court of jurisdiction
 
-6.1 For all disputes that may arise in connection with the interpretation, acceptance and
+7.1 For all disputes that may arise in connection with the interpretation, acceptance and
 
 performance of these, Terms \& Conditions, regardless of the place of subscription or
 
@@ -1752,13 +1908,17 @@ mediation bodies, or any alternative dispute resolution method (e.g. conciliatio
 
 
 
-6.2 These Terms \& Conditions and the relationships they govern are subject to French
+7.2 These Terms \& Conditions and the relationships they govern are subject to French
+
+31
+
+
 
 law.
 
 
 
-Article 7 - Intellectual property
+Article 8 - Intellectual property
 
 This includes all constituent items of the Portal (texts, graphics, software, photographs, images, videos,
 
@@ -1771,10 +1931,6 @@ intellectual property.
 These elements are the exclusive property of the Company.
 
 This implies irrevocably that the User agrees to the following:
-
-29
-
-
 
 • He she or it shall not reproduce any information on the Portal for commercial or non-commercial
 
@@ -1824,9 +1980,11 @@ realize a collection in the form of a gazette or any other format, exclusively f
 
 which the Personal Space in question is associated.
 
+32
 
 
-Article 7 - Protection of personal data
+
+Article 9 - Protection of personal data
 
 To learn more, please visit our privacy policy page https://www.famileo.com/famileo/en-EU/privacy-
 
@@ -1834,17 +1992,13 @@ policy.
 
 
 
-Article 8 - FAMILEO Store
+Article 10 - FAMILEO Store
 
 The Company reserves the right to create an online store (accessible with the Application and through
 
 the internet Site) in order to allow partners to offer Users selected products and/or services selected in
 
 the interest of the Beneficiary. (Including but not restricted to: Flowers, Chocolates, Shawls, etc.)
-
-30
-
-
 
 This allows Users, who wish to do so, to use the links on the store's Portal to access partner merchant
 
@@ -1882,7 +2036,7 @@ order-related problems he or she may have encountered with one or more of its pa
 
 
 
-Article 9 - Responsibilities
+Article 11 - Responsibilities
 
 The Company declines all responsibility for the following:
 
@@ -1893,6 +2047,10 @@ updating published information;
 • Cases of temporary inability to access the Portal, due to technical problems and regardless of
 
 the origin and source (e.g. unavailability of the access provider, the Company’s host, etc.). The
+
+33
+
+
 
 Company will do its utmost to maintain operational access to the Portal. However, this is only an
 
@@ -1914,10 +2072,6 @@ Portal).
 
 responsible for damage to third parties and the consequences of any claims or actions that may result.
 
-31
-
-
-
 The User also waives the right to exercise any recourse against the Company in the case of
 
 proceedings instituted by a third party against him her or it as a result of the use and/or illegal
@@ -1926,13 +2080,13 @@ exploitation of the Portal.
 
 
 
-Article 10 - Sponsorship
+Article 12 - Sponsorship
 
 The Company offers its Users a Sponsorship plan, for which the Terms \& Conditions are stated in
 
 Annexe 1.
 
-32
+34
 
 
 
@@ -2002,7 +2156,7 @@ An individual Sponsor has the opportunity to sponsor up to 20 Referrals over a r
 
 months from the date of his or her first sponsorship.
 
-33
+35
 
 
 
@@ -2070,7 +2224,7 @@ Referral, the FAMILEO account associated with each Loved-one will be credited wi
 
 3.3 Terms of Use for the Sponsor Code
 
-34
+36
 
 
 
