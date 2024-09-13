@@ -747,6 +747,7 @@ Newsletters from the future
 * [Investors](https://atari-investisseurs.fr/en/)
 * [Careers](https://www.atari.com/pages/careers)
 * [Contact Us](https://www.atari.com/pages/contact)
+* [IP List](https://docs.google.com/presentation/d/1e-tl9Oqwnr78879Lnne_uhlsGkPWFK_z428ZmUaJjog/edit?usp=sharing)
 
 * [](https://www.twitter.com/atari)
 * [](https://www.facebook.com/atari)
