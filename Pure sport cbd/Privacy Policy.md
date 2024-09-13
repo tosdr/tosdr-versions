@@ -33,21 +33,21 @@ Check out
     
     -------------
     
-    [ELECTROLYTES](https://puresportcbd.com/en-us/collections/electrolytes) [FREEZE ROLL & BALMS](https://puresportcbd.com/en-us/collections/cbd-balm-freeze-roll-on) [PERFORMANCE SUPPLEMENTS](https://puresportcbd.com/en-us/collections/performance-nootropics) [FUNCTIONAL MUSHROOMS](https://puresportcbd.com/en-us/collections/functional-mushrooms) [SHOP ALL](https://puresportcbd.com/en-us/collections/all) [BUNDLES](https://puresportcbd.com/en-us/collections/bundles)
+    [ELECTROLYTES](https://puresportcbd.com/en-us/collections/electrolytes) [FREEZE ROLL & BALMS](https://puresportcbd.com/en-us/collections/cbd-balm-freeze-roll-on) [PERFORMANCE SUPPLEMENTS](https://puresportcbd.com/en-us/collections/nootropics) [FUNCTIONAL MUSHROOMS](https://puresportcbd.com/en-us/collections/functional-mushrooms) [SHOP ALL](https://puresportcbd.com/en-us/collections/all) [BUNDLES](https://puresportcbd.com/en-us/collections/bundles)
     
 * APPAREL
     
     
     ---------
     
-    [SHOP ALL](https://puresportcbd.com/en-us/collections/shop-all-apparel) [TONAL COLLECTION](https://puresportcbd.com/en-us/collections/tonal-collection) [COLLECTION 02](https://puresportcbd.com/en-us/collections/collection-02) [PERFORMANCE WEAR](https://puresport.co/collections/performance-wear) [SOCKS & CAPS](https://puresportcbd.com/en-us/collections/socks)
+    [SOCKS](https://puresportcbd.com/en-us/collections/socks) [TOPS AND T-SHIRTS](https://puresportcbd.com/en-us/collections/running-tops) [HOODIES AND SWEATSHIRTS](https://puresportcbd.com/en-us/collections/hoodies-sweatshirts) [CAPS](https://puresportcbd.com/en-us/collections/caps) [SHOP ALL](https://puresportcbd.com/en-us/collections/shop-all-apparel) [PERFORMANCE WEAR](https://puresport.co/collections/performance-wear) [TONAL COLLECTION](https://puresportcbd.com/en-us/collections/tonal-collection)
     
 * SHOP BY GOAL
     
     
     --------------
     
-    [HYDRATION](https://puresportcbd.com/en-us/collections/electrolytes) [PERFORMANCE](https://puresport.co/collections/performance-supplements) [SLEEP](https://puresportcbd.com/en-us/collections/sleep-1) [RECOVERY](https://puresportcbd.com/en-us/collections/recovery) [HORMONE BALANCE](https://puresportcbd.com/en-us/collections/hormone-support)
+    [HYDRATION](https://puresportcbd.com/en-us/collections/electrolytes) [PERFORMANCE](https://puresport.co/collections/performance-supplements) [SLEEP](https://puresportcbd.com/en-us/collections/sleep) [RECOVERY](https://puresportcbd.com/en-us/collections/recovery) [HORMONE BALANCE](https://puresportcbd.com/en-us/collections/hormone-support)
     
 * Community
     
@@ -58,24 +58,28 @@ Check out
 
 * [ ]  [Supplements](https://puresportcbd.com/en-us/collections/all)
     
-    [![](//puresport.co/cdn/shop/files/Categories4_0fd5bd8f-22c6-4b35-98f7-7560c6c69e2f.jpg?v=1719560420&width=900)](https://puresportcbd.com/en-us/collections/electrolytes)[![](//puresport.co/cdn/shop/files/Hovers.jpg?v=1722351932&width=900)](https://puresportcbd.com/en-us/collections/cbd-balm-freeze-roll-on)[![](//puresport.co/cdn/shop/files/Hormone_Balance.jpg?v=1722345375&width=900)](https://puresportcbd.com/en-us/collections/performance-nootropics)[![](//puresport.co/cdn/shop/files/Hovers5.jpg?v=1722351810&width=900)](https://puresportcbd.com/en-us/collections/functional-mushrooms)[![](//puresport.co/cdn/shop/files/Performance_3419c296-7e11-4124-9b5e-4d309cd1e3cd.jpg?v=1722352355&width=900)](https://puresportcbd.com/en-us/collections/all)[](https://puresportcbd.com/en-us/collections/bundles)
+    [![](//puresport.co/cdn/shop/files/Categories4_0fd5bd8f-22c6-4b35-98f7-7560c6c69e2f.jpg?v=1719560420&width=900)](https://puresportcbd.com/en-us/collections/electrolytes)[![](//puresport.co/cdn/shop/files/Hovers.jpg?v=1722351932&width=900)](https://puresportcbd.com/en-us/collections/cbd-balm-freeze-roll-on)[![](//puresport.co/cdn/shop/files/Hormone_Balance.jpg?v=1722345375&width=900)](https://puresportcbd.com/en-us/collections/nootropics)[![](//puresport.co/cdn/shop/files/Hovers5.jpg?v=1722351810&width=900)](https://puresportcbd.com/en-us/collections/functional-mushrooms)[![](//puresport.co/cdn/shop/files/Performance_3419c296-7e11-4124-9b5e-4d309cd1e3cd.jpg?v=1722352355&width=900)](https://puresportcbd.com/en-us/collections/all)[](https://puresportcbd.com/en-us/collections/bundles)
     
     SHOP BY CATEGORY
     
-    [Electrolytes](https://puresportcbd.com/en-us/collections/electrolytes) [Freeze Roll & Balms](https://puresportcbd.com/en-us/collections/cbd-balm-freeze-roll-on) [Performance Supplements](https://puresportcbd.com/en-us/collections/performance-nootropics) [Functional Mushrooms](https://puresportcbd.com/en-us/collections/functional-mushrooms) [Shop All](https://puresportcbd.com/en-us/collections/all) [Bundles](https://puresportcbd.com/en-us/collections/bundles)
+    [Electrolytes](https://puresportcbd.com/en-us/collections/electrolytes) [Freeze Roll & Balms](https://puresportcbd.com/en-us/collections/cbd-balm-freeze-roll-on) [Performance Supplements](https://puresportcbd.com/en-us/collections/nootropics) [Functional Mushrooms](https://puresportcbd.com/en-us/collections/functional-mushrooms) [Shop All](https://puresportcbd.com/en-us/collections/all) [Bundles](https://puresportcbd.com/en-us/collections/bundles)
     
     SHOP BY GOAL
     
-    [Hydration](https://puresportcbd.com/en-us/collections/electrolytes) [Performance](https://puresportcbd.com/en-us/collections/performance-nootropics) [Sleep](https://puresportcbd.com/en-us/collections/sleep-1) [Recovery](https://puresportcbd.com/en-us/collections/recovery) [Hormone Balance](https://puresportcbd.com/en-us/collections/hormone-support)
+    [Hydration](https://puresportcbd.com/en-us/collections/electrolytes) [Performance](https://puresportcbd.com/en-us/collections/nootropics) [Sleep](https://puresportcbd.com/en-us/collections/sleep) [Recovery](https://puresportcbd.com/en-us/collections/recovery) [Hormone Balance](https://puresportcbd.com/en-us/collections/hormone-support)
     
 
 * [ ]  [Apparel](https://puresportcbd.com/en-us/collections/shop-all-apparel)
     
-    [![](//puresport.co/cdn/shop/files/V2_Mobile_Banner.jpg?v=1721205064&width=900)](https://puresportcbd.com/en-us/collections/shop-all-apparel)[![](//puresport.co/cdn/shop/files/Puresport_EccomResizes25.jpg?v=1724922250&width=900)](https://puresportcbd.com/en-us/collections/tonal-collection)[![](//puresport.co/cdn/shop/files/C2_Collection.jpg?v=1722330970&width=900)](https://puresportcbd.com/en-us/collections/collection-02)[![](//puresport.co/cdn/shop/files/Performance.jpg?v=1719560391&width=900)](https://puresportcbd.com/en-us/collections/performance-wear)[![](//puresport.co/cdn/shop/files/Square_Extra_Socks2_1.jpg?v=1720541194&width=900)](https://puresportcbd.com/en-us/collections/socks)
+    [![](//puresport.co/cdn/shop/files/Square_Extra_Socks2_1.jpg?v=1720541194&width=900)](https://puresportcbd.com/en-us/collections/socks)[![](//puresport.co/cdn/shop/files/C2_Collection.jpg?v=1722330970&width=900)](https://puresportcbd.com/en-us/collections/running-tops)[![](//puresport.co/cdn/shop/files/Puresport_EccomResizes25.jpg?v=1724922250&width=900)](https://puresportcbd.com/en-us/collections/hoodies-sweatshirts)[![](//puresport.co/cdn/shop/files/Black_Cap.jpg?v=1721924588&width=900)](https://puresportcbd.com/en-us/collections/caps)[![](//puresport.co/cdn/shop/files/V2_Mobile_Banner.jpg?v=1721205064&width=900)](https://puresportcbd.com/en-us/collections/shop-all-apparel)
     
     SHOP BY CATEGORY
     
-    [Shop All](https://puresportcbd.com/en-us/collections/shop-all-apparel) [Tonal Collection](https://puresportcbd.com/en-us/collections/tonal-collection) [Collection 02](https://puresportcbd.com/en-us/collections/collection-02) [Performance](https://puresportcbd.com/en-us/collections/performance-wear) [Socks & Caps](https://puresportcbd.com/en-us/collections/socks)
+    [Socks](https://puresportcbd.com/en-us/collections/socks) [Tops and T-Shirts](https://puresportcbd.com/en-us/collections/running-tops) [Hoodies and Sweatshirts](https://puresportcbd.com/en-us/collections/hoodies-sweatshirts) [Caps](https://puresportcbd.com/en-us/collections/caps) [Shop All](https://puresportcbd.com/en-us/collections/shop-all-apparel)
+    
+    SHOP BY COLLECTION
+    
+    [Shop All](https://puresportcbd.com/en-us/collections/shop-all-apparel) [Performance Wear](https://puresportcbd.com/en-us/collections/performance-wear) [Tonal Collection](https://puresportcbd.com/en-us/collections/tonal-collection)
     
 * [Our Story](https://puresportcbd.com/en-us/pages/our-story)
 * [Community](https://puresportcbd.com/en-us/pages/community)
