@@ -233,7 +233,7 @@
 Terms of Service: Payment and Rewards
 =====================================
 
-Last modified: 6 March 2024
+Last modified: 14 August 2024
 
 **Important** – please read these terms carefully. By using the Service (as defined below), you agree that you have read, understood, accepted and agreed with the Terms of Service. You further agree to the representations made by yourself below. If you do not agree to or fall within the Terms of Service and wish to discontinue using the Service, please do not continue using the Application (as defined below) or the Service.
 
@@ -530,7 +530,8 @@ provided that in the event your data is shared with an external third party, suc
 
 **16\. Complaints about use of the Service**
 
-* Users are invited to contact the Company in the first instance in the event they wish to make a complaint about the use of the Service via our Help Centre [http://help.grab.com](https://help.grab.com/).
+* Users are invited to contact the Company in the first instance in the event they wish to make a complaint about the use of the Service via our Help Centre in the Application or at [http://help.grab.com](https://help.grab.com/).
+* The Company wishes to make users aware of the services provided by the Financial Industry Disputes Resolution Centre Ltd (FIDReC). FIDReC handles complaints and assists in the resolution of disputes between consumers and financial institutions including licensed payment service providers such as the Company. The Company is committed to full cooperation with FIDReC and encourage users to make full use of these services should they wish to do so. Details of FIDReC services can be accessed at the following link: [https://www.fidrec.com.sg/](https://www.fidrec.com.sg/) 
 * You agree to raise any complaints and disputes about incorrect Service within one month of the transaction for payment of goods and services or within seven days of the person to person transfer of GrabPay Credits, or of you becoming aware of the fraudulent usage of the GrabPay Wallet, whichever is earlier.
 
 **17\. Notices**
