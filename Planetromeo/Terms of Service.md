@@ -2,7 +2,6 @@
 
 * [About](https://www.romeo.com/en/about)
 * [App](https://www.romeo.com/en/app)
-* [News](https://www.romeo.com/en/blog)
 * [Community](https://www.romeo.com/en/care)
 * Tips
     * [Dating Safely](https://www.romeo.com/en/care/safety)
@@ -21,7 +20,6 @@
 
 * [About](https://www.romeo.com/en/about)
 * [App](https://www.romeo.com/en/app)
-* [News](https://www.romeo.com/en/blog)
 * [Community](https://www.romeo.com/en/care)
 * Tips
     * [Dating Safely](https://www.romeo.com/en/care/safety)
@@ -250,14 +248,12 @@ These Terms of Use apply to the use of the Service by ROMEO BV. Please read thes
 #### Follow Us
 
 * [instagram](https://www.instagram.com/planetromeo/ "Instagram")
-* [twitter](https://twitter.com/planetromeo "X (ex Twitter)")
 * [tiktok](https://www.tiktok.com/@romeo_app "TikTok")
 * [facebook](https://www.facebook.com/PlanetRomeo "Facebook")
 * [youtube](https://www.youtube.com/c/ROMEOTV "YouTube")
 
 * [About](https://www.romeo.com/en/about)
 * [App](https://www.romeo.com/en/app)
-* [News](https://www.romeo.com/en/blog)
 * [Community](https://www.romeo.com/en/care)
 * Tips
     * [Dating Safely](https://www.romeo.com/en/care/safety)
