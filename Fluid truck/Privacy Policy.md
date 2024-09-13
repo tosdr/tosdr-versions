@@ -225,7 +225,7 @@ Connect
 
 [![fluid truck facebook](https://cdn.prod.website-files.com/5f4914aeac9b5242f7b3078b/5f4914aeac9b527479b30800_facebook.svg)](https://www.facebook.com/FluidTruck)[![fluid truck instagram](https://cdn.prod.website-files.com/5f4914aeac9b5242f7b3078b/5f4914aeac9b52978eb30801_instagram.svg)](https://www.instagram.com/fluidtruck/)[![fluid truck twitter](https://cdn.prod.website-files.com/5f4914aeac9b5242f7b3078b/5f4914aeac9b52744cb30802_twitter.svg)](https://twitter.com/fluidtruck)[![](https://cdn.prod.website-files.com/5f4914aeac9b5242f7b3078b/60f9bd4c78bbf639038bd980_linkedin.svg)](https://www.linkedin.com/company/fluid-inc./)
 
-[![](https://cdn.prod.website-files.com/5f4914aeac9b5242f7b3078b/611d5f91460e4c31ecfeb840_Apple%20App%20Store.webp)](https://apps.apple.com/us/app/fluid-truck-share/id1114189236)[![](https://cdn.prod.website-files.com/5f4914aeac9b5242f7b3078b/611d5fbf984466ec723d54be_Google%20Play%20Store.webp)](https://play.google.com/store/apps/details?id=com.fluidmarket.fluid)
+[![](https://cdn.prod.website-files.com/5f4914aeac9b5242f7b3078b/611d5f91460e4c31ecfeb840_Apple%20App%20Store.avif)](https://apps.apple.com/us/app/fluid-truck-share/id1114189236)[![](https://cdn.prod.website-files.com/5f4914aeac9b5242f7b3078b/611d5fbf984466ec723d54be_Google%20Play%20Store.avif)](https://play.google.com/store/apps/details?id=com.fluidmarket.fluid)
 
 ©2024 Fluid Market Inc.
 
@@ -265,7 +265,7 @@ Connect
 
 [![fluid truck facebook](https://cdn.prod.website-files.com/5f4914aeac9b5242f7b3078b/5f4914aeac9b527479b30800_facebook.svg)](https://www.facebook.com/FluidTruck)[![fluid truck instagram](https://cdn.prod.website-files.com/5f4914aeac9b5242f7b3078b/5f4914aeac9b52978eb30801_instagram.svg)](https://www.instagram.com/fluidtruck/)[![fluid truck twitter](https://cdn.prod.website-files.com/5f4914aeac9b5242f7b3078b/5f4914aeac9b52744cb30802_twitter.svg)](https://twitter.com/fluidtruck)
 
-[![](https://cdn.prod.website-files.com/5f4914aeac9b5242f7b3078b/611d5f91460e4c31ecfeb840_Apple%20App%20Store.webp)](https://apps.apple.com/us/app/fluid-truck-share/id1114189236)[![](https://cdn.prod.website-files.com/5f4914aeac9b5242f7b3078b/611d5fbf984466ec723d54be_Google%20Play%20Store.webp)](https://play.google.com/store/apps/details?id=com.fluidmarket.fluid)
+[![](https://cdn.prod.website-files.com/5f4914aeac9b5242f7b3078b/611d5f91460e4c31ecfeb840_Apple%20App%20Store.avif)](https://apps.apple.com/us/app/fluid-truck-share/id1114189236)[![](https://cdn.prod.website-files.com/5f4914aeac9b5242f7b3078b/611d5fbf984466ec723d54be_Google%20Play%20Store.avif)](https://play.google.com/store/apps/details?id=com.fluidmarket.fluid)
 
 ©2021 Fluid Truck, Inc.
 
@@ -319,7 +319,7 @@ Top Cities
 
 [San Francisco](https://www.fluidtruck.com/locations/san-francisco-metro)
 
-[![](https://cdn.prod.website-files.com/5f4914aeac9b5242f7b3078b/611d5f91460e4c31ecfeb840_Apple%20App%20Store.webp)](https://apps.apple.com/us/app/fluid-truck-share/id1114189236)
+[![](https://cdn.prod.website-files.com/5f4914aeac9b5242f7b3078b/611d5f91460e4c31ecfeb840_Apple%20App%20Store.avif)](https://apps.apple.com/us/app/fluid-truck-share/id1114189236)
 
 [![fluid truck facebook](https://cdn.prod.website-files.com/5f4914aeac9b5242f7b3078b/5f4914aeac9b527479b30800_facebook.svg)](https://www.facebook.com/FluidTruck)[![fluid truck instagram](https://cdn.prod.website-files.com/5f4914aeac9b5242f7b3078b/5f4914aeac9b52978eb30801_instagram.svg)](https://www.instagram.com/fluidtruck/)[![fluid truck twitter](https://cdn.prod.website-files.com/5f4914aeac9b5242f7b3078b/5f4914aeac9b52744cb30802_twitter.svg)](https://twitter.com/fluidtruck)
 
