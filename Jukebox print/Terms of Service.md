@@ -69,7 +69,7 @@ EUR
     
     Information[#### Transparent Stickers](https://www.jukeboxprint.com/transparent-stickers)[Our transparent stickers use see-through stock and a white ink underlay to showcase your designs with rich, popping colors.](https://www.jukeboxprint.com/transparent-stickers)
     
-    Information[#### Custom Sticker Rolls](https://www.jukeboxprint.com/Custom-Sticker-Rolls-and-Roll-Label-Printing)[Sticker rolls are ideal for production lines or any business looking for a quick way to apply product labels. Our sticker rolls are easy to peel, produced next day, and available in Soft Matte and High Gloss coating.](https://www.jukeboxprint.com/Custom-Sticker-Rolls-and-Roll-Label-Printing)
+    Information[#### Custom Sticker Rolls](https://www.jukeboxprint.com/Custom-Sticker-Rolls-and-Roll-Label-Printing)[Sticker rolls are ideal for production lines or any business looking for a quick way to apply product labels. Our sticker rolls are easy to peel, produced in two business days, and available in Soft Matte and High Gloss coating.](https://www.jukeboxprint.com/Custom-Sticker-Rolls-and-Roll-Label-Printing)
     
     Information[#### Glitter Stickers](https://www.jukeboxprint.com/glitter-stickers)[Experience the ultimate in uniqueness with our holographic glitter stickers - long-lasting and durable.](https://www.jukeboxprint.com/glitter-stickers)
     
