@@ -171,42 +171,42 @@ F-Droid is powered by your donations!
 
 ### News
 
-* [The anti-feature you've asked for](https://f-droid.org/en/2024/07/25/twif.html) Jul 25, 2024
-* [Open letter in support of Next Generation Internet](https://f-droid.org/en/2024/07/23/ngi-funding-open-letter.html) Jul 23, 2024
-* [Big cleanup and smaller repo](https://f-droid.org/en/2024/07/18/twif.html) Jul 18, 2024
-* [Maps, emulators, croissants and changed keys](https://f-droid.org/en/2024/07/11/twif.html) Jul 11, 2024
-* [Soon to be modern](https://f-droid.org/en/2024/07/04/twif.html) Jul 04, 2024
+* [Encode your nostalgia](https://f-droid.org/en/2024/09/12/twif.html) Sep 12, 2024
+* [Voice your updates](https://f-droid.org/en/2024/09/05/twif.html) Sep 05, 2024
+* [It's all about self-hosting it](https://f-droid.org/en/2024/08/29/twif.html) Aug 29, 2024
+* [Playing with old apps](https://f-droid.org/en/2024/08/22/twif.html) Aug 22, 2024
+* [FOSS contributors' first step: translation](https://f-droid.org/en/2024/08/15/twif.html) Aug 15, 2024
 
 ### Last Updated
 
-[![](https://f-droid.org/repo/org.purplei2p.i2pd/en-US/icon_s8LzOD_2B2FH6LSuaQfSFbLiiF-Hams5GCRkChgpWeo=.png)
+[![](https://f-droid.org/repo/xyz.apiote.bimba.czwek/en/icon_FDJ5OEjVG8QC2w1VqOh8oryRHRpqC3B4Ddmk3n-elGM=.png)
 
-#### i2pd
+#### Bimba
 
-Full-featured C++ implementation of I2P client](https://f-droid.org/en/packages/org.purplei2p.i2pd/)[![](https://f-droid.org/repo/org.piepmeyer.gauguin/en-US/icon_Pp0IthYj4RE6O_3BQcd_ApZWV8iNei9l_LspIKJIoak=.png)
+FLOSS public transport passenger companion; a timetable in your pocket.](https://f-droid.org/en/packages/xyz.apiote.bimba.czwek/)[![](https://f-droid.org/repo/v4lpt.vpt.f036.esw/en-US/icon_YMJSZ1Le9dWBiEIxhwttD8JDPD0Sh1--c-bp2ga9P3M=.png)
 
-#### Gauguin
+#### Valentin's PowerTools #036 - Ease The Waiting
 
-A Sudoku-like logic game](https://f-droid.org/en/packages/org.piepmeyer.gauguin/)[![](https://f-droid.org/repo/org.openhab.habdroid.beta/en-US/icon_MbJ4aGShNFnfKlhvFAVK16j1qoM_JBPo0xjNuwSsP_g=.png)
+A mix between a calendar and a clock that makes you wait faster.](https://f-droid.org/en/packages/v4lpt.vpt.f036.esw/)[![](https://f-droid.org/repo/v4lpt.vpt.f012.ryp/en-US/icon_cNDSBx9nLlOKnXLYQY2KM0DUN_lZ4qTRirG4Q_xYv4Y=.png)
 
-#### openHAB Beta
+#### Valentin's PowerTools #012 - Rate Your Pics
 
-Vendor and technology agnostic open source home automation](https://f-droid.org/en/packages/org.openhab.habdroid.beta/)
+Rate your pictures very quickly.](https://f-droid.org/en/packages/v4lpt.vpt.f012.ryp/)
 
-### App più recenti
+### Latest Apps
 
-[![](https://f-droid.org/repo/ac.mdiq.podcini.R/en-US/icon_O12aJDb4GhueOvrF174ocFnxMJHR8fItA0PRVR4ngVE=.png)
+[![](https://f-droid.org/repo/v4lpt.vpt.f036.esw/en-US/icon_YMJSZ1Le9dWBiEIxhwttD8JDPD0Sh1--c-bp2ga9P3M=.png)
 
-#### Podcini
+#### Valentin's PowerTools #036 - Ease The Waiting
 
-Riproduttore e gestore di podcast facile da usare, flessibile e open source.](https://f-droid.org/en/packages/ac.mdiq.podcini.R/)[![](https://f-droid.org/repo/org.opensurge2d.surgeengine/en-US/icon_y00XnoBPnodoJADb489FZtgOI5j5dU_rSk2Wp55eHrI=.png)
+A mix between a calendar and a clock that makes you wait faster.](https://f-droid.org/en/packages/v4lpt.vpt.f036.esw/)[![](https://f-droid.org/repo/v4lpt.vpt.f012.ryp/en-US/icon_cNDSBx9nLlOKnXLYQY2KM0DUN_lZ4qTRirG4Q_xYv4Y=.png)
 
-#### Open Surge: motore di gioco retrò
+#### Valentin's PowerTools #012 - Rate Your Pics
 
-Un motore di gioco retrò con un platform divertente per realizzare i tuoi sogni!](https://f-droid.org/en/packages/org.opensurge2d.surgeengine/)[![](https://f-droid.org/repo/com.game.asteroids_revenge/en-US/icon_WSTO3sD5p5YqIA_I-yfluQsBroCqaP6EOsZPIcFeQaY=.png)
+Rate your pictures very quickly.](https://f-droid.org/en/packages/v4lpt.vpt.f012.ryp/)[![](https://f-droid.org/repo/me.velc.devqs/en-US/icon_bpyX2iC_LAVwQ-4bKmhJznl7t-YRTt_G4WsxxmlXqe0=.png)
 
-#### La vendetta degli asteroidi
+#### DevQS
 
-Inferno di proiettili di sopravvivenza senza fine (basato su punteggi elevati).](https://f-droid.org/en/packages/com.game.asteroids_revenge/)
+Quick Settings tiles for developers](https://f-droid.org/en/packages/me.velc.devqs/)
 
-© 2010-2024 F-Droid Contributors (F-Droid 2024-07-27, fdroid-website [2.245](https://gitlab.com/fdroid/fdroid-website/tree/c8ec380366)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
+© 2010-2024 F-Droid Contributors (F-Droid 2024-09-13, fdroid-website [2.261](https://gitlab.com/fdroid/fdroid-website/tree/ba0b27a097)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
