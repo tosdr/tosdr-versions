@@ -4,6 +4,10 @@ Product
 
 [Feature Flagging](https://www.growthbook.io/products/feature-flagging)[Experiments](https://www.growthbook.io/products/experiments)
 
+Solutions
+
+[For Fintech](https://www.growthbook.io/solutions/fintech)[For Edtech](https://www.growthbook.io/solutions/edtech)
+
 Resources
 
 [Blog](https://blog.growthbook.io/)[Docs](https://docs.growthbook.io/)[Releases](https://github.com/growthbook/growthbook/releases)
