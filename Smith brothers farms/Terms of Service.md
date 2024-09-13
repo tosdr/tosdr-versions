@@ -190,11 +190,11 @@ Hi
     * BACK
     * [All Products](https://www.smithbrothersfarms.com/all-products)
         
-    * [New! (71)](https://www.smithbrothersfarms.com/featured-products)
+    * [New! (65)](https://www.smithbrothersfarms.com/featured-products)
         
-    * [On Sale (29)](https://www.smithbrothersfarms.com/on-special)
+    * [On Sale (23)](https://www.smithbrothersfarms.com/on-special)
         
-    * [Summer Essentials (32)](https://www.smithbrothersfarms.com/summer-essentials)
+    * [Summer Essentials (27)](https://www.smithbrothersfarms.com/summer-essentials)
         
     * [Milk & Cream (57)](https://www.smithbrothersfarms.com/milk-cream)
         
