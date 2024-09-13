@@ -53,7 +53,7 @@ You have the ability control, accept and decline cookies, if you choose to decli
 
 All recent versions of popular browsers give users a level of control over cookies. Users can set their browsers to accept or reject all, or certain, cookies. You should do this through the web browser settings for each web browser you use, and, on each device, you use to access the Internet.
 
-Alternatively, you may wish to visit [www.allaboutcookies.org](https://hackster.io/www.allaboutcookies.org) which contains comprehensive information on how to do this on a wider variety of browsers.
+Alternatively, you may wish to visit [www.allaboutcookies.org](https://www.allaboutcookies.org/) which contains comprehensive information on how to do this on a wider variety of browsers.
 
 To opt out of being tracked by Google Analytics across all websites visit [http://tools.google.com/dlpage/gaoptout](http://tools.google.com/dlpage/gaoptout).
 
@@ -68,6 +68,7 @@ To opt out of being tracked by Google Analytics across all websites visit [http:
 * ### Legal Thingies
     
 * [Terms of Service](https://hackster.io/terms "Terms of Service")
+* [Contest Rules](https://hackster.io/contest-rules "Contest Rules")
 * [Code of Conduct](https://hackster.io/conduct "Code of Conduct")
 * [Privacy Policy](https://hackster.io/privacy "Privacy Policy")
 * [Privacy Policy for California Residents](https://hackster.io/privacy/ccpa "Privacy Policy for California Residents")
