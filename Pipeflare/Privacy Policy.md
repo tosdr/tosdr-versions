@@ -6,7 +6,7 @@
 
 Active Players
 
-1 , 0 6 1 , 6 9 9
+1 , 0 6 2 , 3 5 0
 
 * [Play](#)
     
@@ -16,7 +16,7 @@ Active Players
     
     Free Giveaways
     
-    [BAIR Giveaway](https://gleam.io/8ISPi/500-bair-x-pipeflare-giveaway) [Battleworld Giveaway](https://gleam.io/bsPiC/500-battleworld-x-pipeflare-giveaway) [PipeFlare Giveaway](https://bit.ly/pipeflaregiveaway) [Mega MAGA Giveaway](https://gleam.io/et88I/550-mega-maga-x-pipeflare-giveaway)
+    [Battleworld Giveaway](https://gleam.io/bsPiC/500-battleworld-x-pipeflare-giveaway) [PipeFlare Giveaway](https://bit.ly/pipeflaregiveaway) [Mega MAGA Giveaway](https://gleam.io/et88I/550-mega-maga-x-pipeflare-giveaway)
     
     My Free Spin
     
@@ -135,7 +135,7 @@ Upcoming
 
 Add a daily reminder to your calendar:
 
-[Google](https://www.google.com/calendar/render?action=TEMPLATE&text=Claim+Free+Crypto&dates=20240910T100000+0000/20240910T103000+0000&details=www.pipeflare.io+-+Claim+Free+ZEC%2C+MATIC%2C+and+1FLR&location=&sf=true&output=xml&recur=RRULE:FREQ%3DDAILY)  \[  [Yahoo](https://calendar.yahoo.com/?v=60&view=d&type=20&title=Claim+Free+Crypto&st=20240910T100000+0000&et=20240910T103000+0000&desc=www.pipeflare.io+-+Claim+Free+ZEC%2C+MATIC%2C+and+1FLR&uid=)  \[  Apple 2024-09-10T10:00:00+00:00 2024-09-10T10:30:00+00:00
+[Google](https://www.google.com/calendar/render?action=TEMPLATE&text=Claim+Free+Crypto&dates=20240913T100000+0000/20240913T103000+0000&details=www.pipeflare.io+-+Claim+Free+ZEC%2C+MATIC%2C+and+1FLR&location=&sf=true&output=xml&recur=RRULE:FREQ%3DDAILY)  \[  [Yahoo](https://calendar.yahoo.com/?v=60&view=d&type=20&title=Claim+Free+Crypto&st=20240913T100000+0000&et=20240913T103000+0000&desc=www.pipeflare.io+-+Claim+Free+ZEC%2C+MATIC%2C+and+1FLR&uid=)  \[  Apple 2024-09-13T10:00:00+00:00 2024-09-13T10:30:00+00:00
 
 Close
 
@@ -147,7 +147,7 @@ If you can't find the email, check your Spam folder
 
 ![verify your email](https://statics.pipeflare.io/assets/images/modals/email_verify.png)
 
-If you have not received an email [Please Click Here](https://pipeflare.io/auth/resend-activation-email?_t=1726005288) to resend activation email.
+If you have not received an email [Please Click Here](https://pipeflare.io/auth/resend-activation-email?_t=1726248352) to resend activation email.
 
 OK
 
@@ -296,7 +296,7 @@ If you can't find the email, check your Spam folder
 
 ![verify your email](https://statics.pipeflare.io/assets/images/modals/email_verify.png)
 
-If you have not received an email [Please Click Here](https://pipeflare.io/auth/resend-activation-email?_t=1726005288) to resend activation email.
+If you have not received an email [Please Click Here](https://pipeflare.io/auth/resend-activation-email?_t=1726248352) to resend activation email.
 
 OK
 
@@ -1100,7 +1100,7 @@ sale
 
 ![1FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr1_2.png)
 
-x 235000
+x 275000
 
 ![2FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr2_2.png)
 
@@ -1129,7 +1129,7 @@ sale
 
 ![1FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr1_2.png)
 
-x 380000
+x 450000
 
 ![2FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr2_2.png)
 
@@ -1165,7 +1165,7 @@ sale
 
 ![1FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr1_2.png)
 
-x 235000
+x 275000
 
 ![2FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr2_2.png)
 
@@ -1194,7 +1194,7 @@ sale
 
 ![1FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr1_2.png)
 
-x 380000
+x 450000
 
 ![2FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr2_2.png)
 
