@@ -584,15 +584,15 @@ DANS TOUTE LA MESURE PERMISE PAR LA LOI, EN AUCUN CAS L'EDITEUR OU SES PARTENAIR
 Les plus lus
 ------------
 
-1. [![La voiture accidentée abandonnée par l'homme qui a tiré sur un agent municipal à Grenoble, le 8 septembre 2024](https://images.bfmtv.com/l3vG0ELfh2bThHTRoHORm0grMaA=/0x0:1920x1080/300x0/images/La-voiture-accidentee-abandonnee-par-l-homme-qui-a-tire-sur-un-agent-municipal-a-Grenoble-le-8-septembre-2024-1933834.jpg)
+1. [![Le président français Emmanuel Macron assiste à une cérémonie de commémoration du 80e anniversaire de la libération de la ville portuaire du Havre pendant la Seconde Guerre mondiale, dans le nord de la France, le 12 septembre 2024.](https://images.bfmtv.com/PwP3tMRUUqKyFpCZmDDUfuBIXOY=/0x106:2048x1258/300x0/images/Emmanuel-Macron-assiste-a-une-ceremonie-de-commemoration-du-80e-anniversaire-de-la-liberation-du-Havre-pendant-la-Seconde-Guerre-mondiale-dans-le-nord-de-la-France-le-12-septembre-2024-1936091.jpg)
     
-    ![La voiture accidentée abandonnée par l'homme qui a tiré sur un agent municipal à Grenoble, le 8 septembre 2024](https://images.bfmtv.com/l3vG0ELfh2bThHTRoHORm0grMaA=/0x0:1920x1080/300x0/images/La-voiture-accidentee-abandonnee-par-l-homme-qui-a-tire-sur-un-agent-municipal-a-Grenoble-le-8-septembre-2024-1933834.jpg)
+    ![Le président français Emmanuel Macron assiste à une cérémonie de commémoration du 80e anniversaire de la libération de la ville portuaire du Havre pendant la Seconde Guerre mondiale, dans le nord de la France, le 12 septembre 2024.](https://images.bfmtv.com/PwP3tMRUUqKyFpCZmDDUfuBIXOY=/0x106:2048x1258/300x0/images/Emmanuel-Macron-assiste-a-une-ceremonie-de-commemoration-du-80e-anniversaire-de-la-liberation-du-Havre-pendant-la-Seconde-Guerre-mondiale-dans-le-nord-de-la-France-le-12-septembre-2024-1936091.jpg)
     
-    ### Agent municipal tué à Grenoble: le profil du suspect toujours activement recherché](https://www.bfmtv.com/police-justice/agent-municipal-tue-a-grenoble-le-profil-du-suspect-toujours-activement-recherche_AV-202409100080.html "Agent municipal tué à Grenoble: le profil du suspect toujours activement recherché")
-2. [### Vers un retour d'un ministère de l'Immigration? Michel Barnier "veut traiter avec sérieux le sujet"](https://www.bfmtv.com/politique/gouvernement/vers-un-retour-d-un-ministere-de-l-immigration-michel-barnier-veut-traiter-avec-serieux-le-sujet_AN-202409090889.html "Vers un retour d'un ministère de l'Immigration? Michel Barnier "veut traiter avec sérieux le sujet"")
-3. [### Kate Middleton: la presse britannique soulagée après l'annonce de la fin de sa chimiothérapie](https://www.bfmtv.com/people/tetes-couronnees/kate-middleton-la-presse-britannique-soulagee-apres-l-annonce-de-la-fin-de-sa-chimiotherapie_AV-202409100033.html "Kate Middleton: la presse britannique soulagée après l'annonce de la fin de sa chimiothérapie")
-4. [### Près d'une personne sur deux en surpoids: la corpulence des Français a beaucoup augmenté en 20 ans](https://www.bfmtv.com/sante/le-surpoids-et-l-obesite-en-hausse-constante-chez-les-femmes-semblent-atteindre-un-palier-chez-les-hommes_AV-202409100025.html "Près d'une personne sur deux en surpoids: la corpulence des Français a beaucoup augmenté en 20 ans")
-5. [### iPhone 16, iPhone 16 Pro: voici tous les prix des nouveaux smartphones d'Apple](https://www.bfmtv.com/tech/apple/i-phone-16-i-phone-16-pro-voici-tous-les-prix-des-nouveaux-smartphones-d-apple_AN-202409090894.html "iPhone 16, iPhone 16 Pro: voici tous les prix des nouveaux smartphones d'Apple")
+    ### Emmanuel Macron évoque une "ère nouvelle" au Parlement et appelle à nouveau à des "compromis"](https://www.bfmtv.com/politique/elysee/emmanuel-macron-evoque-une-ere-nouvelle-au-parlement-et-appelle-a-nouveau-a-des-compromis_AD-202409130198.html "Emmanuel Macron évoque une "ère nouvelle" au Parlement et appelle à nouveau à des "compromis"")
+2. [### Mohamed Amra: quatre mois après son évasion, ce que l'on sait sur la traque de l'homme le plus recherché de France](https://www.bfmtv.com/normandie/mohamed-amra-ce-que-l-on-sait-sur-la-traque-de-l-homme-le-plus-recherche-de-france_AN-202409130097.html "Mohamed Amra: quatre mois après son évasion, ce que l'on sait sur la traque de l'homme le plus recherché de France")
+3. [### Les vitraux du 19e siècle de Notre-Dame remplacés? Les origines du projet contesté](https://www.bfmtv.com/paris/notre-dame-en-quoi-le-projet-de-vitraux-contemporains-pour-la-cathedrale-consiste-t-il_AN-202409130058.html "Les vitraux du 19e siècle de Notre-Dame remplacés? Les origines du projet contesté")
+4. [### Les images des superbes aurores boréales vues en France et au Royaume-Uni cette nuit](https://www.bfmtv.com/sciences/les-images-des-superbes-aurores-boreales-vues-en-france-et-au-royaume-uni-cette-nuit_AN-202409130106.html "Les images des superbes aurores boréales vues en France et au Royaume-Uni cette nuit")
+5. [### "Il me faisait du chantage": Hiromi Rollin raconte ses années passées avec Alain Delon, un homme "colérique et violent"](https://www.bfmtv.com/people/il-me-faisait-du-chantage-hiromi-rollin-raconte-ses-annees-passees-avec-alain-delon-un-homme-colerique-et-violent_AN-202409130235.html ""Il me faisait du chantage": Hiromi Rollin raconte ses années passées avec Alain Delon, un homme "colérique et violent"")
 
 ![BFMTV](/assets/v6/images/BFMTV.848c19e09c92f3ced2163a1a0399be11.svg "BFMTV")
 
@@ -639,7 +639,7 @@ nos services
 en savoir plus
 
 * [Nous contacter](https://www.bfmtv.com/contacts/ "Nous contacter")
-* [Devenir Annonceur](https://www.rmcbfm-ads.com/nos-marques/bfmtv.html "Devenir Annonceur")
+* [Devenir Annonceur](https://www.rmcbfm-ads.com/ "Devenir Annonceur")
 * [Recrutement](https://recrutement.alticemedia.com/ "Recrutement")
 * [Mentions légales](https://www.bfmtv.com/mentions-legales/ "Mentions légales")
 * [Données personnelles](https://www.bfmtv.com/politique-donnees-personnelles/ "Données personnelles")
