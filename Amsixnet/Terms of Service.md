@@ -16,7 +16,7 @@ Amsterdam
 
 Current
 
-11.206 Tb/s
+6.381 Tb/s
 
 Peak
 
@@ -24,7 +24,7 @@ Peak
 
 [ASNS
 
-877](https://www.ams-ix.net/ams/connected-networks)
+878](https://www.ams-ix.net/ams/connected-networks)
 
 [GET STARTED](https://www.ams-ix.net/ams/get-started)
 
@@ -85,7 +85,7 @@ General Terms and Conditions
         
     * [Article 6. Term and Termination](#section-21280)
         
-    * [Article 7. Use and Limitations](#section-369023)
+    * [Article 7. Use and Limitations](#section-19228861)
         
     * [Article 8. Liability](#section-21282)
         
@@ -194,9 +194,13 @@ Article 7. Use and Limitations
 * No valid AMS-IX Connection Agreement exists between the parties;
 * Customer does not have at its disposal an Autonomous System Number (ASN), assigned by an official assigning Authority.
 
-**7.3** Customer agrees to exchange traffic through the AMS-IX Infrastructure only when there is a bilateral agreement to exchange traffic between Customer and the other individual Customers on the AMS-IX Infrastructure.**7.4** AMS-IX Company shall provide all reasonable care, skill and diligence to ensure that the Connection functions in accordance with the operational and functional specifications in the Service Description, available on the website of that Co-location as established and adapted from time-to-time by AMS-IX B.V., provided that Customer warrants a 24 hours per day reachability and has appointed a NOC as set forth in article 4.3 above.**7.5** Customer is solely responsible that its use of the Connection does not cause or is likely to cause any damage, or is in any other way harmful, to the AMS-IX Infrastructure, to AMS-IX Company, to the AMS-IX Association or to the normal operation, availability or functionality of the Connection and/or the Co-location or to the traffic exchanged. Specifically, the Customer will adhere to the restrictions relating to [Allowed Traffic](https://www.ams-ix.net/ams/documentation/allowed-traffic).**  
-  
-7.6.** Customer agrees to implement any reasonable measurements that AMS-IX Company may propose in order to prevent or repair such damage or harm as described in article 7.5.
+**7.3** Customer agrees to exchange traffic through the AMS-IX Infrastructure only when there is a bilateral agreement to exchange traffic between Customer and the other individual Customers on the AMS-IX Infrastructure.
+
+**7.4** AMS-IX Company shall provide all reasonable care, skill and diligence to ensure that the Connection functions in accordance with the operational and functional specifications in the Service Description, available on the website of that Co-location as established and adapted from time-to-time by AMS-IX B.V., provided that Customer warrants a 24 hours per day reachability and has appointed a NOC as set forth in article 4.3 above.
+
+**7.5** Customer is solely responsible that its use of the Connection does not cause or is likely to cause any damage, or is in any other way harmful, to the AMS-IX Infrastructure, to AMS-IX Company, to the AMS-IX Association or to the normal operation, availability or functionality of the Connection and/or the Co-location or to the traffic exchanged. Specifically, the Customer will adhere to the restrictions relating to [Allowed Traffic](https://www.ams-ix.net/ams/documentation/allowed-traffic).
+
+**7.6** Customer agrees to implement any reasonable measurements that AMS-IX Company may propose in order to prevent or repair such damage or harm as described in article 7.5.
 
 **7.7** AMS-IX Company is entitled to (a) suspend or (b) discontinue the Connection, in whole or in part, and/or (c) to require that certain conditions be met before continuation thereof, if:
 
