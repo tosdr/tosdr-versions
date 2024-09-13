@@ -354,7 +354,7 @@ Menu Close
     
     * [About us](https://www.acronis.com/en-us/company/)
     * [History](https://history.acronis.com/)
-    * [Awards](https://www.acronis.com/en-us/company/awards/)
+    * [Industry Recognition](https://www.acronis.com/en-us/company/awards/)
     * [Careers](https://www.acronis.com/en-us/careers/)
     * [Contacts](https://www.acronis.com/en-us/company/contacts/)
     * [Press releases](https://www.acronis.com/en-us/pr/)
