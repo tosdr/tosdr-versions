@@ -321,7 +321,6 @@ CLOSE
     * [Maclaren](https://www.adaptivemall.com/seemorebrands/mamaspnest.html)
     * [Making Sense](https://www.adaptivemall.com/seemorebrands/makingsense.html)
     * [Meywalk](https://www.adaptivemall.com/seemorebrands/meywalk.html)
-    * [Ormesa](https://www.adaptivemall.com/seemorebrands/ormesa.html)
     * [Quokka](https://www.adaptivemall.com/seemorebrands/quokka.html)
     * [R.E.A.L. Design](https://www.adaptivemall.com/seemorebrands/realdesign.html)
     * [Redbarn Enterprises](https://www.adaptivemall.com/seemorebrands/reenin.html)
