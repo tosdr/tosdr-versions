@@ -16,35 +16,37 @@ Free Shower Caddy On Orders Over $80
     * [Devices](https://blackwolfnation.com/collections/devices)
         * Back
         * [Devices](https://blackwolfnation.com/collections/devices)
+        * [NEW Sonic Scalp](https://blackwolfnation.com/products/sonic-scalp)
         * [Sonic Scrubber](https://blackwolfnation.com/products/sonic-scrubber)
         * [WUSH™ PRO Ear Cleaner](https://blackwolfnation.com/products/wush)
-        * [Sonic Scalp](https://blackwolfnation.com/products/sonic-scalp)
     * [Haircare](https://blackwolfnation.com/collections/hair)
     * [Face + Body](https://blackwolfnation.com/collections/face-body)
     * [Bundles + Sets](https://blackwolfnation.com/collections/bundle-save)
     * [Accessories](https://blackwolfnation.com/collections/accessories)
     * [NEW! Shower Caddy](https://blackwolfnation.com/products/shower-caddy)
-    * [![](//blackwolfnation.com/cdn/shop/files/62.png?v=1724254436&width=1200)
+    * [![](//blackwolfnation.com/cdn/shop/files/35.png?v=1723578015&width=1200)
         
-        BESTSELLER: Charcoal Face Wash](https://blackwolfnation.com/products/activated-charcoal-facewash)
+        NEW DEVICE: Sonic Scalp](https://blackwolfnation.com/products/sonic-scalp)
         
-        [![](//blackwolfnation.com/cdn/shop/files/31_56de8be4-dffa-47f8-a3c2-f21959e19de9.png?v=1724432674&width=1080)
+        [![](//blackwolfnation.com/cdn/shop/files/NEWPRODUCTIMAGES-NEWSITE_10.png?v=1726165506&width=1080)
         
-        NEW BUNDLE: Sonic Shower System](https://blackwolfnation.com/products/sonic-scrubber-body-wash-face-wash-shampoo-1)
+        Bundle Highlight: Cleanse + Style](https://blackwolfnation.com/products/sonic-scrubber-body-wash-face-wash-shampoo-1)
         
 * [Best Sellers](https://blackwolfnation.com/collections/black-wolf-bestsellers)
     * Back
     * [Best Sellers](https://blackwolfnation.com/collections/black-wolf-bestsellers)
+    * [NEW Sonic Scalp](https://blackwolfnation.com/products/sonic-scalp)
     * [Sonic Scrubber](https://blackwolfnation.com/products/sonic-scrubber)
     * [WUSH™ PRO Ear Cleaner](https://blackwolfnation.com/products/wush)
     * [Charcoal Body Wash Liter](https://blackwolfnation.com/products/charcoal-body-wash-liter)
     * [Shampoo & Conditioner - 1 Liter Combo Pack](https://blackwolfnation.com/products/shampoo-conditioner-1-liter-combo-pack)
     * [Charcoal Face Wash](https://blackwolfnation.com/products/activated-charcoal-facewash)
-    * [![](//blackwolfnation.com/cdn/shop/files/Untitled_design_29_25b10946-025e-4ce0-9117-0c530993540f.png?v=1724256358&width=1500)
+    * [![](//blackwolfnation.com/cdn/shop/files/NEWPRODUCTIMAGES-NEWSITE_10.png?v=1726165506&width=1080)
         
-        Brand New: Shower Caddy](https://blackwolfnation.com/products/shower-caddy)
+        Save $43: Cleanse + Style Bundle](https://blackwolfnation.com/products/sonic-scalp-cleanse-style-system)
         
 * [Bundles & Sets](https://blackwolfnation.com/collections/bundle-save)
+* [NEW Sonic Scalp](https://blackwolfnation.com/products/sonic-scalp)
 * [Sonic Scrubber](https://blackwolfnation.com/products/sonic-scrubber)
 * [Wush Pro Ear Cleaner](https://blackwolfnation.com/products/wush)
 
@@ -54,13 +56,13 @@ Free Shower Caddy On Orders Over $80
 
 * [Shop All](https://blackwolfnation.com/collections/shop-all)
     
-    [![](//blackwolfnation.com/cdn/shop/files/62.png?v=1724254436&width=1200)
+    [![](//blackwolfnation.com/cdn/shop/files/35.png?v=1723578015&width=1200)
     
-    BESTSELLER: Charcoal Face Wash](https://blackwolfnation.com/products/activated-charcoal-facewash)
+    NEW DEVICE: Sonic Scalp](https://blackwolfnation.com/products/sonic-scalp)
     
-    [![](//blackwolfnation.com/cdn/shop/files/31_56de8be4-dffa-47f8-a3c2-f21959e19de9.png?v=1724432674&width=1080)
+    [![](//blackwolfnation.com/cdn/shop/files/NEWPRODUCTIMAGES-NEWSITE_10.png?v=1726165506&width=1080)
     
-    NEW BUNDLE: Sonic Shower System](https://blackwolfnation.com/products/sonic-scrubber-body-wash-face-wash-shampoo-1)
+    Bundle Highlight: Cleanse + Style](https://blackwolfnation.com/products/sonic-scrubber-body-wash-face-wash-shampoo-1)
     
     * [Haircare](https://blackwolfnation.com/collections/hair)
     * [Face + Body](https://blackwolfnation.com/collections/face-body)
@@ -69,16 +71,17 @@ Free Shower Caddy On Orders Over $80
     * [NEW! Shower Caddy](https://blackwolfnation.com/products/shower-caddy)
     
     * [Devices](https://blackwolfnation.com/collections/devices)
+        * [NEW Sonic Scalp](https://blackwolfnation.com/products/sonic-scalp)
         * [Sonic Scrubber](https://blackwolfnation.com/products/sonic-scrubber)
         * [WUSH™ PRO Ear Cleaner](https://blackwolfnation.com/products/wush)
-        * [Sonic Scalp](https://blackwolfnation.com/products/sonic-scalp)
     
 * [Best Sellers](https://blackwolfnation.com/collections/black-wolf-bestsellers)
     
-    [![](//blackwolfnation.com/cdn/shop/files/Untitled_design_29_25b10946-025e-4ce0-9117-0c530993540f.png?v=1724256358&width=1500)
+    [![](//blackwolfnation.com/cdn/shop/files/NEWPRODUCTIMAGES-NEWSITE_10.png?v=1726165506&width=1080)
     
-    Brand New: Shower Caddy](https://blackwolfnation.com/products/shower-caddy)
+    Save $43: Cleanse + Style Bundle](https://blackwolfnation.com/products/sonic-scalp-cleanse-style-system)
     
+    * [NEW Sonic Scalp](https://blackwolfnation.com/products/sonic-scalp)
     * [Sonic Scrubber](https://blackwolfnation.com/products/sonic-scrubber)
     * [WUSH™ PRO Ear Cleaner](https://blackwolfnation.com/products/wush)
     * [Charcoal Body Wash Liter](https://blackwolfnation.com/products/charcoal-body-wash-liter)
@@ -86,6 +89,7 @@ Free Shower Caddy On Orders Over $80
     * [Charcoal Face Wash](https://blackwolfnation.com/products/activated-charcoal-facewash)
     
 * [Bundles & Sets](https://blackwolfnation.com/collections/bundle-save)
+* [NEW Sonic Scalp](https://blackwolfnation.com/products/sonic-scalp)
 * [Sonic Scrubber](https://blackwolfnation.com/products/sonic-scrubber)
 * [Wush Pro Ear Cleaner](https://blackwolfnation.com/products/wush)
 
