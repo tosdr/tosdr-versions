@@ -371,7 +371,7 @@ Support
 * [Shipping & Delivery](https://www.lacrossetechnology.com/pages/shipping-and-delivery)
 * [Returns & Replacements](https://www.lacrossetechnology.com/pages/returns)
 * [Warranty](https://lacrossetechnology.zendesk.com/hc/en-us/articles/4405728600987-Where-can-I-find-the-Warranty-Details-for-my-Item)
-* [Military / First-Responders Discount](http://lacrosse-technology.myshopify.com/pages/govx-id-military-discount)
+* [Military & First-Responders Discount](http://lacrosse-technology.myshopify.com/pages/govx-id-military-discount)
 
 Account
 
