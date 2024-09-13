@@ -121,9 +121,9 @@
             
             Solution Brief
             
-            ##### Introducing LevelBlue. Cybersecurity. Simplified.
+            ##### LevelBlue Managed Threat Detection and Response for Government
             
-            [Learn more](https://cyber.levelblue.com/m/4a1fe39cf66df595/original/SB-LevelBlue-Overview.pdf)
+            [Learn more](https://cyber.levelblue.com/m/5602dd156749d021/original/SB-MTDR-for-Gov.pdf)
             
             [View all Solution Briefs](https://www.alienvault.com/resource-center#content_solution-brief)
             
@@ -131,9 +131,9 @@
             
             video
             
-            ##### Focusing on Cyber Resilience, Not Just Security
+            ##### LevelBlue. Cybersecurity. Simplified.
             
-            [Learn more](https://cybersecurity.att.com/resource-center/videos/focusing-on-cyber-resilience-not-just-security)
+            [Learn more](https://cybersecurity.att.com/resource-center/videos/levelblue-cybersecurity-simplified)
             
             [View all Videos](https://www.alienvault.com/resource-center#content_video)
             
@@ -183,9 +183,9 @@
             
             webcast
             
-            ##### More Regulatory Scrutiny Means IRR Must Be a Priority: September 26, 2024
+            ##### Evolve Your Endpoint Security Strategy to Stay in Step with New Regulations
             
-            [Learn more](https://cybersecurity.att.com/resource-center/webcasts/more-regulatory-scrutiny-means-irr-must-be-a-priority)
+            [Learn more](https://cybersecurity.att.com/resource-center/webcasts/evolve-your-endpoint-security-strategy)
             
             [View all Webcasts](https://www.alienvault.com/resource-center#content_webcast)
             
