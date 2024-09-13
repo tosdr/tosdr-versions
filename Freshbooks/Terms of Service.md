@@ -8,17 +8,23 @@ Free - Google Play
 
 [Get it](https://play.google.com/store/apps/details?id=com.freshbooks.andromeda&utm_source=)
 
-[****Hot Summer Savings ☀️**** 60% Off for 4 Months. **Buy Now & Save**
+[****Falling leaves. Falling prices 🍂**** 70% Off for 3 Months. **Buy Now & Save**
 
 📣 Only
 
 0 0 Days : 0 0 Hours : 0 0 Minutes : 0 0 Seconds
 
-Left to Get 60% Off for 4 Months **BUY NOW & SAVE**
+Left to Get 70% Off for 3 Months **BUY NOW & SAVE**
 
-**60% Off for 4 Months Buy Now & Save**
+**70% Off for 3 Months Buy Now & Save**
 
 ![Close promo banner](https://www.freshbooks.com/wp-content/themes/freshpress/dist/images/icons/promo-topbar-close.965a416c.svg)](https://www.freshbooks.com/pricing)
+
+You're currently on our **US** site. Select your regional site here:
+
+Select your region Australia Canada European Union Mexico South Africa United Kingdom United States
+
+×
 
 [![Freshbooks Logo](https://www.freshbooks.com/wp-content/themes/freshpress/dist/images/logos/freshbooks-logo.svg)](https://www.freshbooks.com/)
 
