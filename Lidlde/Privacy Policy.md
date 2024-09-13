@@ -2,10 +2,11 @@
 
 [Jetzt sparen: Onlineshop-Highlights im September](https://www.lidl.de/c/shop-highlights/a10053491)
 
-[![Lidl Logo Deutschland](/static/assets/c6855ba1-a17c-468f-b8b0-09fdab67dea7.svg)](https://www.lidl.de/ "Lidl Onlineshop - Online. Immer. Mehr.")2. Menü
+1. [![Lidl Logo Deutschland](/static/assets/c6855ba1-a17c-468f-b8b0-09fdab67dea7.svg)](https://www.lidl.de/ "Lidl Onlineshop - Online. Immer. Mehr.")
+2. Menü
 3. [Onlineshop](https://www.lidl.de/)
 4. [Filiale](https://www.lidl.de/store)
-
+5. 
 6. [](https://www.lidl.de/c/online-prospekte/s10005610)
 7. 1. [](https://www.lidl.de/mla/)
     2. Herzlich willkommen in deinem Lidl-Konto.
@@ -229,7 +230,7 @@ Brand Navigation
         
     
 
-[Datenschutzhinweise Download](https://www.lidl.de/static/assets/DSH_Online-Shop_07-08-2024-1099961.pdf)
+[Datenschutzhinweise Download](https://www.lidl.de/static/assets/DSH_Online-Shop_13-09-2024-1158960.pdf)
 
 Zum Betrachten des PDF-Dokumentes benötigst du den kostenlosen [Adobe Acrobat Reader](https://get.adobe.com/reader/).
 
@@ -239,7 +240,7 @@ Datenschutz
 Datenschutz auf www.lidl.de
 ---------------------------
 
-(Version 12.24; Stand 07.08.2024)
+(Version 12.26; Stand 13.09.2024)
 ---------------------------------
 
 Datenschutzbestimmungen für den Lidl Online-Shop, das Lidl-Filialgeschäft und Geschäftspartner
@@ -308,7 +309,7 @@ Speicherdauer/ Kriterien für Festlegung der Speicherdauer:
 
 Die Daten werden für einen Zeitraum von sieben Tagen gespeichert und danach automatisch gelöscht. Beenden Sie die Nutzung unserer Webseite, werden die Geolokalisationsdaten gelöscht.
 
-3\. Abwicklung von Kaufverträgen
+3\. Abwicklung von Kaufverträgen inkl. Gewährleistungsfällen
 
 Zwecke der Datenverarbeitung/ Rechtsgrundlagen:
 
@@ -316,16 +317,21 @@ Zwecke der Datenverarbeitung/ Rechtsgrundlagen:
 
 Tätigkeitsgegenstand der Lidl Digital Deutschland GmbH & Co. KG ist der Fernabsatz von Waren und Dienstleistungen im Rahmen der behördlich erteilten Genehmigungen. In diesem Zusammenhang verarbeiten wir die für den **Abschluss, die Durchführung oder die Beendigung eines Vertrages** erforderlichen Daten. Hierzu zählen insbesondere:
 
-* Vorname, Nachname,
-* Rechnungs- und Lieferanschrift,
-* E-Mail-Adresse,
-* Rechnungs- und Bezahldaten,
-* Geburtsdatum,
-* Telefonnummer (optional).
+• Vorname, Nachname,
+
+• Rechnungs- und Lieferanschrift,
+
+• E-Mail-Adresse,
+
+• Rechnungs- und Bezahldaten,
+
+• Geburtsdatum,
+
+• Telefonnummer (optional).
 
   
 
-Rechtsgrundlage hierfür ist Artikel 6 Absatz 1 Buchstabe b) DSGVO, d.h., Sie stellen uns die Daten auf Grundlage des Vertragsverhältnisses zwischen Ihnen und uns zur Verfügung.
+Rechtsgrundlage hierfür ist Artikel 6 Absatz 1 Buchstabe b) DSGVO, d.h. wir verarbeiten die Daten zur Erfüllung unserer vertraglichen Pflichten.
 
   
 
@@ -337,7 +343,7 @@ Im Rahmen der oben genannten Datenverarbeitungen werden Ihre Daten in unserem Au
 
   
 
-Angaben zu Ihrer Lieferanschrift geben wir zum Zwecke der **Abwicklung des Kaufvertrages** an ein von uns beauftragtes Logistikunternehmen weiter. Nur in Fällen von Sperrgut, verderblichen Waren oder vergleichbaren Sachverhalten übermitteln wir Ihre E-Mail-Adresse und ggf. Ihre Telefonnummer an das von uns beauftragte Logistikunternehmen, um sicherzustellen, dass die Warenzustellung bzw. Retoure wie geplant erfolgen kann. Das Logistikunternehmen wird im Vorfeld der Zustellung oder Retoure mit Ihnen Kontakt aufnehmen, um Einzelheiten der Abwicklung mit Ihnen abzustimmen. Die Daten werden allein zu diesem Zweck an das beauftragte Logistikunternehmen übermittelt und durch dieses rein zweckgebunden verarbeitet.
+Angaben zu Ihrer Lieferanschrift geben wir zum Zwecke der **Abwicklung des Kaufvertrages sowie zur Abwicklung von Gewährleistungsfällen** an einen von uns beauftragten Dienstleister (z.B. Logistikunternehmen oder Reparaturservice bzw. den Hersteller) weiter. Nur in Fällen von Sperrgut, verderblichen Waren oder in Gewährleistungsfällen übermitteln wir Ihre E-Mail-Adresse und ggf. Ihre Telefonnummer an den von uns beauftragten Dienstleister, um sicherzustellen, dass die Warenzustellung, Retoure, Reparatur oder Abholung wie geplant erfolgen kann. Der Dienstleister wird im Vorfeld der Zustellung, Retoure, Reparatur oder Abholung mit Ihnen Kontakt aufnehmen, um Einzelheiten der Abwicklung mit Ihnen abzustimmen. Die Daten werden allein zu diesem Zweck an den Dienstleister übermittelt und durch diesen rein zweckgebunden verarbeitet.
 
   
 
@@ -714,7 +720,7 @@ Die **Inhalte des Newsletters** umfassen Aktionen (Angebote, Rabatt-Aktionen, Ge
 
 12.2 Personalisiertes Nutzungsprofil
 
-Mit Ihrer Einwilligung erfassen wir Ihr Nutzungsverhalten auf den unter www.lidl.de angeschlossenen Webseiten, mobilen Apps sowie Newslettern von uns und unseren Partnerunternehmen (Lidl Dienstleistung GmbH & Co. KG, Lidl Digital Deutschland GmbH & Co. KG, Lidl Stiftung & Co. KG, Lidl Digital Trading GmbH & Co. KG ( [www.lidl.de](https://www.lidl.de/), [www.lidl-reisen.de](https://www.lidl-reisen.de/), [www.lidlplus.de](https://www.lidlplus.de/)), Picanova GmbH ( [www.lidl-fotos.de](https://www.lidl-fotos.de/)), der E.ON Energie Deutschland GmbH ( [www.lidl-strom.de](https://www.lidl-strom.de/)), Vodafone GmbH ( [registrierung.lidl-connect.de](https://registrierung.lidl-connect.de/)). Die Auswertung des Nutzungsverhaltens umfasst insbesondere, auf welchen Bereichen der jeweiligen Webseite, der mobilen App bzw. des Newsletters Sie sich aufhalten und welche Links Sie dort betätigen. Dabei werden personalisierte Nutzungsprofile unter Zuordnung Ihrer Person und/ oder E-Mail-Adresse erstellt, um eine mögliche werbliche Ansprache, insbesondere in Form von Newslettern, On-Site-Werbeeinblendungen und Printwerbung besser auf Ihre persönlichen Interessen ausrichten zu können und um die Webangebote zu verbessern.
+Mit Ihrer Einwilligung erfassen wir Ihr Nutzungsverhalten auf den unter www.lidl.de angeschlossenen Webseiten, mobilen Apps sowie Newslettern von uns und unseren Partnerunternehmen (Lidl Dienstleistung GmbH & Co. KG, Lidl Digital Deutschland GmbH & Co. KG, Lidl Stiftung & Co. KG, Lidl Digital Trading GmbH & Co. KG ( [www.lidl.de](https://www.lidl.de/), [www.lidl-reisen.de](https://www.lidl-reisen.de/), [www.lidlplus.de](https://www.lidl.de/c/lidl-plus/s10007388)), Picanova GmbH ( [www.lidl-fotos.de](https://www.lidl-fotos.de/)), der E.ON Energie Deutschland GmbH ( [www.lidl-strom.de](https://www.lidl-strom.de/)), Vodafone GmbH ( [registrierung.lidl-connect.de](https://www.lidl.de/c/lidl-connect/s10007717)). Die Auswertung des Nutzungsverhaltens umfasst insbesondere, auf welchen Bereichen der jeweiligen Webseite, der mobilen App bzw. des Newsletters Sie sich aufhalten und welche Links Sie dort betätigen. Dabei werden personalisierte Nutzungsprofile unter Zuordnung Ihrer Person und/ oder E-Mail-Adresse erstellt, um eine mögliche werbliche Ansprache, insbesondere in Form von Newslettern, On-Site-Werbeeinblendungen und Printwerbung sowie die Darstellung dieser Webseite besser auf Sie und Ihre persönlichen Interessen ausrichten zu können und um die Webangebote zu verbessern. Dieses Nutzungsprofil können wir zudem mit Informationen zu von Ihnen auf [www.lidl.de](https://www.lidl.de/) gekauften Produkten, Ihrem Namen, Alter und Geschlecht anreichern, wenn Sie uns hierfür Ihre Einwilligung zu Zwecken der Eigenwerbung erteilt haben.
 
 12.3 Produktbewertungen
 
@@ -779,6 +785,10 @@ Für einige der mit den Marketing-Cookies verbundenen Datenverarbeitungen **zur 
 
   
 
+Für die ebenfalls zu Zwecken der Eigenwerbung eingesetzten Cookies und die damit verbundenen Datenverarbeitungen, mithilfe derer Ihr Kaufverhalten auf den Lidl Webseiten bzw. Apps, Ihrem Namen, Ihr Alter und Ihr Geschlecht mit Ihrem Nutzungsverhalten der Webseite oder der Lidl App zu einem Profil verbunden werden kann, ist neben der Lidl Digital und der Lidl Stiftung auch die Lidl Dienstleistung GmbH & Co. KG, Bonfelder Straße 2, 74206 Bad Wimpfen, Deutschland gemeinsam Verantwortliche gemäß Artikel 26 DSGVO.
+
+  
+
 Sie können sich bei der Ausübung Ihrer weiter unten dargestellten Betroffenenrechte in Bezug auf die in diesem Absatz dargestellten Datenverarbeitungen neben uns auch an unsere oben genannten Partner wenden.
 
   
@@ -837,7 +847,7 @@ Der Einsatz von Cookies und den anderen Technologien zur Verarbeitung von Nutzun
 * **Technisch notwendig:** Dies sind Cookies und ähnliche Methoden, ohne die Sie unsere Dienste nicht nutzen können (etwa zur richtigen Anzeige unserer Webseite einschließlich der Schriftart und Farbe, zur Bereitstellung der von Ihnen gewünschten Funktionen und zur Berücksichtigung Ihrer Einstellungen wie Ihrer getroffenen Auswahl zu Cookies und ähnlichen Technologien und den damit verbundenen Datenverarbeitungen, zum Speichern Ihrer Anmeldung im Login-Bereich, um beim Online-Shopping den Warenkorb zu befüllen, etc.).
 * **Komfort:** Mithilfe dieser Techniken können wir Ihre tatsächlichen oder vermuteten Präferenzen für die komfortable Nutzung unserer Webseite berücksichtigen. Beispielsweise können wir anhand Ihrer Einstellungen unsere Webseite in einer für Sie passenden Sprache anzeigen und Ihnen auch beim erneuten Besuch unsere Homepage nicht abgeschlossene Bestellungen im Warenkorb anzeigen. Außerdem vermeiden wir auf diese Weise, Ihnen Produkte anzuzeigen, die ggf. in Ihrer Region nicht verfügbar sind.
 * **Statistik:** Diese Techniken ermöglichen es uns, pseudonyme Statistiken zur Nutzung unserer Dienste zu erstellen. Dadurch können wir beispielsweise bestimmen, auf welche Weise wir unsere Webseite noch besser auf die Gewohnheiten der Nutzer anpassen können.
-* **Marketing - Eigenwerbung:** Hierdurch können wir und andere Verantwortliche Ihnen und anderen Nutzern passende Werbeinhalte anzeigen, die auf der Analyse des Nutzungsverhaltens basieren. Ihr Nutzungsverhalten kann dabei auch über verschiedene Webseiten, Browser oder Endgeräte anhand einer User-ID (eindeutige Kennung) nachvollzogen werden.
+* **Marketing – Eigenwerbung**: Hierdurch können wir und andere Verantwortliche Ihnen und anderen Nutzern passende Werbeinhalte anzeigen, die auf der Analyse des Nutzungsverhaltens und von Informationen aus Ihrem Kundenkonto (zum Beispiel Ihrem Namen, Ihr Alter, Ihr Geschlecht, Ihr Kaufverhalten auf www.lidl.de) basieren. Ihr Nutzungsverhalten kann dabei auch über verschiedene Webseiten, Browser oder Endgeräte anhand einer User-ID (eindeutige Kennung) nachvollzogen werden.
 * **Marketing - Werbung und Erfolgsmessung unter Einsatz des IAB TCF:** Hierdurch können wir jeweils gemeinsam mit Criteo sowie der Virtual Minds GmbH mit Ihrer Einwilligung ein individuelles Profil über Sie und/oder Zielgruppen, in die wir Sie einordnen (sog. Segmente), erstellen, um Dritten die Ausspielung personalisierter Werbung auf Drittmedien über die Ihnen und Ihren Haushaltsangehörigen zugeordneten Endgeräte zu ermöglichen. . Im Zusammenhang mit dem Ausspielen dieser Werbung erfolgen Verarbeitungen mit Ihrer Einwilligung auch zur Messung der Werbung (insbesondere um die Leistung und den Erfolg einer Werbung zu ermitteln), zur Zielgruppenforschung (insbesondere um mehr über die Zielgruppen zu erfahren, an welche die Werbung ausgespielt wird), zur Entwicklung von Dienstleistungen sowie zur technischen Sicherung und Optimierung dieser Werbeausspielungen. Sofern ein Haushaltsangehöriger von Ihnen ebenso seine Einwilligung hierzu erteilt hat, verknüpfen wir Ihre Daten auch mit denen Ihres Haushaltsangehörigen und verarbeiten diese mit ihrer Einwilligung zu den genannten Zwecken bzw. verarbeiten Ihre Daten zu den von ihrem Haushaltsangehörigen gewünschten Zwecken. Teilweise werden Segmente, die wir gemeinsam mit der Virtual Minds GmbH nach Maßgabe Ihrer Einwilligung zur „Werbung und Erfolgsmessung unter Einsatz des IAB TCF“ gebildet haben, auch unserem Werbepartner The UK Trade Desk Ltd. zur Verfügung gestellt, damit dieser unter Verwendung der Segmente als separat Verantwortlicher personalisierte Werbung auf Drittmedien ausspielen kann. Zudem erfassen wir gemeinsam mit der Virtual Minds GmbH Angaben über Ihr Kaufverhalten in unseren Onlineshops, damit unser Werbepartner The UK Trade Desk Ltd. („TTD“) den Erfolg von Werbekampagnen seiner Auftraggeber messen kann, die über TTD ausgespielt wurden. Wenn Sie ein Produkt in unseren Onlineshops erworben haben, für das TTD eine Werbekampagne ausgespielt hat, stellen wir TTD hierzu auf Anfrage Angaben über Ihr Kaufverhalten zur Verfügung. In der Folge kann TTD sodann ermitteln, ob Ihnen oder einem Haushaltsangehörigen von Ihnen vor dem Erwerb eine Werbung für das Produkt über TTD angezeigt wurde und auf dieser Basis den Erfolg (verschiedener) Werbekampagnen messen. Aggregierte Berichte hierzu kann TTD dann auch den Werbetreibenden zur Verfügung stellen. Die einzelnen Zwecke und Funktionen und die ihnen zugeordneten Verarbeitungen sind in der Einwilligungserklärung näher spezifiziert, die Sie unter der Funktion [Voreinstellungen verwalten](https://www.lidl.de/c/cookie-hinweise/s10005399?hidebanner=true42) einsehen können.
 
   
@@ -885,7 +895,7 @@ Im Rahmen des Einsatzes von Cookies und ähnlichen Techniken zur Verarbeitung vo
 * Maus-/ Scrollbewegungen,
 * ausgelöste Events auf der Webseite (Surfverhalten).
 * Die IP-Adressen werden dabei regelmäßig anonymisiert, sodass darüber ein Rückschluss auf Ihre Person grundsätzlich ausgeschlossen ist.
-* Wir führen die User-ID mit weiteren Daten von Ihnen (z.B. Name, E-Mail-Adresse, etc.) nur mit Ihrer ausdrücklichen Einwilligung (siehe z.B. Ziffer 12 dieser Datenschutzbestimmungen) zusammen. Anhand der User-ID an sich ist uns kein Rückschluss auf Ihre Person möglich. Wir teilen die User-ID und die zugehörigen Nutzungsprofile ggfs. über die Anbieter von Werbenetzwerken mit Dritten.
+* Wir führen die User-ID mit weiteren Daten von Ihnen (z.B. Name, E-Mail-Adresse, Alter, Geschlecht, Kaufverhalten auf [www.lidl.de](https://www.lidl.de/) etc.) nur mit Ihrer ausdrücklichen Einwilligung (siehe z.B. Ziffer 12 dieser Datenschutzbestimmungen) zusammen. Anhand der User-ID an sich ist uns kein Rückschluss auf Ihre Person möglich. Wir teilen die User-ID und die zugehörigen Nutzungsprofile ggfs. über die Anbieter von Werbenetzwerken mit Dritten.
 
   
 
@@ -1477,7 +1487,7 @@ Bei Interaktion mit einem Bot nutzen wir die Anliegen, um Fragen und Antworten d
 
   
 
-Bei telefonischer Bearbeitung von Kundenanliegen nutzen wir zur schnellen und effektiven Bearbeitung der Anliegen zudem KI (Künstliche Intelligenz) - gestützte Anwendungen zur Transkription und Zusammenfassung der Gespräche (digitale Sprachassistenten). Zur Verbesserung der KI werden auch hier nur anonyme Daten verwendet
+Bei telefonischer Bearbeitung von Kundenanliegen nutzen wir zur schnellen und effektiven Bearbeitung der Anliegen zudem KI (Künstliche Intelligenz) - gestützte Anwendungen zur Transkription und Zusammenfassung der Gespräche (digitale Sprachassistenten). Zur Verbesserung der KI werden auch hier nur anonyme Daten verwendet.
 
   
 
