@@ -477,9 +477,6 @@ _Munich, May 25, 2018_
 
  [![](/assets/usa/v2/career/logo_with_claim-57edab533a3ec23ffc57afdc72493c19769cc7a423bfcaa037e7cc7b3a557b8d.svg) ![](/assets/usa/v2/career/logo_without_claim-c73c9251bd34ab1f3bbac497a5575f042755c7c00ead0357e0d941f5fb166869.svg)](https://us.experteer.com/)
 
-* [![Experteer App in AppStore](/assets/EN_US/button-appstore-8927d51c4c03af8daa0d75750ee1755c459c6b65f8861811a51c9d25cd9e7d00.png)](https://us.experteer.com/iphone_app)
-* [![Experteer App in Google Play](/assets/EN_US/button-googleplay-b9dfcc0fced6e2bab6c4865dfac0fdc4898e395ab537b2b01d6184aa43e25abf.png)](https://us.experteer.com/android_app)
-
 * [Facebook](https://www.facebook.com/Experteer)
 * [Twitter](https://twitter.com/ExperteerWorld)
 * [Magazine](https://us.experteer.com/magazine/)
@@ -498,7 +495,6 @@ _Munich, May 25, 2018_
 * [Headhunter Directory](https://us.experteer.com/headhunter/Top)
 * [Job Search](https://us.experteer.com/vacancies)
 * [Salary Comparison](https://us.experteer.com/salary_calculator)
-* [Mobile](https://us.experteer.com/docs/mobile)
 * [Sitemap](https://us.experteer.com/docs/sitemap)
 
 © 2024 [Experteer GmbH](https://us.experteer.com/)
