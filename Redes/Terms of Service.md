@@ -33,12 +33,18 @@ Portales de Red.es
     * [Qué hacemos](https://red.es/es/sobre-nosotros/que-hacemos)
     * [Quiénes somos](https://red.es/es/sobre-nosotros/quienes-somos)
     * [Sistemas de Gestión Corporativos](https://red.es/es/sobre-nosotros/sistemas-de-gestion-corporativos)
-    * [Transparencia y Buen Gobierno](https://red.es/es/sobre-nosotros/transparencia-y-buen-gobierno)
     * [Trabaja con nosotros](https://red.es/es/sobre-nosotros/trabaja-con-nosotros)
+* [Transparencia](https://red.es/es/sobre-nosotros/transparencia-y-buen-gobierno)
 
 Buscar
 
 You must have JavaScript enabled to use this form.
+
+ 
+
+    
+
+ 
 
 **¿Quieres descubrir todo lo que te ofrecemos en red.es?** [Explorar todo el contenido](https://red.es/buscador)
 
@@ -51,8 +57,8 @@ You must have JavaScript enabled to use this form.
     * [Qué hacemos](https://red.es/es/sobre-nosotros/que-hacemos)
     * [Quiénes somos](https://red.es/es/sobre-nosotros/quienes-somos)
     * [Sistemas de Gestión Corporativos](https://red.es/es/sobre-nosotros/sistemas-de-gestion-corporativos)
-    * [Transparencia y Buen Gobierno](https://red.es/es/sobre-nosotros/transparencia-y-buen-gobierno)
     * [Trabaja con nosotros](https://red.es/es/sobre-nosotros/trabaja-con-nosotros)
+* [Transparencia](https://red.es/es/sobre-nosotros/transparencia-y-buen-gobierno)
 
 Nuestros portales
 
@@ -111,7 +117,9 @@ Gestión de las solicitudes de los derechos de los interesados ejercidas sobre s
 **\- Responsable:**
 
 Red.es: Edificio Bronce  
+  
 Plaza Manuel Gómez Moreno, s/n  
+  
 28020 Madrid, email: _[protecciondedatos@red.es](mailto:protecciondedatos@red.es)_
 
 **\- Encargado:**
@@ -194,7 +202,9 @@ Gestión de la relación de los ciudadanos con Red.es a través de los servicios
 **\- Responsable:**
 
 Red.es: Edificio Bronce  
+  
 Plaza Manuel Gómez Moreno, s/n  
+  
 28020 Madrid, email: _[protecciondedatos@red.es](mailto:protecciondedatos@red.es)_
 
 **\- Encargado:**
@@ -276,7 +286,9 @@ Gestión del control de acceso a las instalaciones de Red.es.
 **\- Responsable:**
 
 Red.es: Edificio Bronce  
+  
 Plaza Manuel Gómez Moreno, s/n  
+  
 28020 Madrid, email: _[protecciondedatos@red.es](mailto:protecciondedatos@red.es)_
 
 **\- Encargado:**
@@ -358,7 +370,9 @@ Videovigilancia del centro de procesado de datos y almacén.
 **\- Responsable:**
 
 Red.es: Edificio Bronce  
+  
 Plaza Manuel Gómez Moreno, s/n  
+  
 28020 Madrid, email: _[protecciondedatos@red.es](mailto:protecciondedatos@red.es)_
 
 **\- Encargado:**
@@ -441,7 +455,9 @@ Gestión de nóminas, Procesos de promoción (cobertura interna de vacantes y pr
 **\- Responsable:**
 
 Red.es: Edificio Bronce  
+  
 Plaza Manuel Gómez Moreno,  
+  
 28020 Madrid, email: _[protecciondedatos@red.es](mailto:protecciondedatos@red.es)_
 
 **\- Encargado:**
@@ -534,7 +550,9 @@ Selección a través de Convocatorias de Empleo Publico.
 **\- Responsable:**
 
 Red.es: Edificio Bronce  
+  
 Plaza Manuel Gómez Moreno, s/n  
+  
 28020 Madrid, email: _[protecciondedatos@red.es](mailto:protecciondedatos@red.es)_
 
 **\- Encargado:**
@@ -616,7 +634,9 @@ Selección y gestión de los becarios incorporados a través de convenios con la
 **\- Responsable:**
 
 Red.es: Edificio Bronce  
+  
 Plaza Manuel Gómez Moreno, s/n  
+  
 28020 Madrid, email: _[protecciondedatos@red.es](mailto:protecciondedatos@red.es)_
 
 **\- Encargado:**
@@ -699,7 +719,9 @@ Gestión de personal externo que trabaja en las oficinas de Red.es.
 **\- Responsable:**
 
 Red.es: Edificio Bronce  
+  
 Plaza Manuel Gómez Moreno, s/n  
+  
 28020 Madrid, email: _[protecciondedatos@red.es](mailto:protecciondedatos@red.es)_
 
 **\- Encargado:**
@@ -781,7 +803,9 @@ Gestión de datos de contacto de licitadores adjudicatarios y no adjudicatarios.
 **\- Responsable:**
 
 Red.es: Edificio Bronce  
+  
 Plaza Manuel Gómez Moreno, s/n  
+  
 28020 Madrid, email: _[protecciondedatos@red.es](mailto:protecciondedatos@red.es)_
 
 **\- Encargado:**
@@ -867,6 +891,7 @@ Se incluyen los datos de terceros cuyos sus derechos o intereses pudieran verse 
 Entidad pública empresarial Red.es
 
 Red.es: Edificio Bronce Plaza Manuel Gómez Moreno, s/n  
+  
 28020 Madrid, email: _[protecciondedatos@red.es](mailto:protecciondedatos@red.es)_
 
 **\- Encargado:**
@@ -888,6 +913,7 @@ Datos identificativos y de contacto; y firma.
 #### Colectivo
 
 Solicitantes de información pública  
+  
 Terceros
 
 * * *
@@ -955,7 +981,9 @@ Se anexa el [listado de boletines de Red.es](https://red.es/es/area-prensa/multi
 **\- Responsable:**
 
 Red.es: Edificio Bronce  
+  
 Plaza Manuel Gómez Moreno, s/n  
+  
 28020 Madrid, email: _[protecciondedatos@red.es](mailto:protecciondedatos@red.es)_
 
 **\- Encargado:**
@@ -1037,7 +1065,9 @@ Gestión de personas relacionadas con la organización de eventos y jornadas, in
 **\- Responsable:**
 
 Red.es: Edificio Bronce  
+  
 Plaza Manuel Gómez Moreno, s/n  
+  
 28020 Madrid, email: _[protecciondedatos@red.es](mailto:protecciondedatos@red.es)_
 
 **\- Encargado:**
@@ -1123,7 +1153,9 @@ Debido a la finalización del servicio con fecha 31 de mayo de 2021 la única fi
 **\- Responsable:**
 
 Red.es: Edificio Bronce  
+  
 Plaza Manuel Gómez Moreno, s/n  
+  
 28020 Madrid_,_ email: _[protecciondedatos@red.es](mailto:protecciondedatos@red.es)_
 
 **\- Encargado:**
@@ -1207,7 +1239,9 @@ Debido a la finalización del servicio con fecha 31 de mayo de 2021 la única fi
 **\- Responsable:**
 
 Red.es: Edificio Bronce  
+  
 Plaza Manuel Gómez Moreno, s/n  
+  
 28020 Madrid, email: _[protecciondedatos@red.es](mailto:protecciondedatos@red.es)_
 
 **\- Encargado:**
@@ -1297,7 +1331,9 @@ Realización de estudios, fines de archivo en interés público, fines de invest
 **\- Responsable:**
 
 Red.es: Edificio Bronce  
+  
 Plaza Manuel Gómez Moreno, s/n  
+  
 28020 Madrid, email: _[protecciondedatos@red.es](mailto:protecciondedatos@red.es)_
 
 **\- Encargado:**
@@ -1384,7 +1420,9 @@ Gestión de la relación contractual con las [entidades afiliadas](https://www.r
 **\- Responsable:**
 
 Red.es: Edificio Bronce  
+  
 Plaza Manuel Gómez Moreno, s/n  
+  
 28020 Madrid, email: _[protecciondedatos@red.es](mailto:protecciondedatos@red.es)_
 
 **\- Encargado:**
@@ -1484,7 +1522,9 @@ Gestión de los datos de la prestación de los servicios de RedIRIS.
 **\- Encargado:**
 
 Red.es: Edificio Bronce  
+  
 Plaza Manuel Gómez Moreno, s/n  
+  
 28020 Madrid, email: _[protecciondedatos@red.es](mailto:protecciondedatos@red.es)_
 
 **\- Subencargados:**
@@ -1652,7 +1692,9 @@ Gestión de los Proyectos de Ciudades y Territorios Inteligentes
 **\- Encargado:**
 
 Red.es: Edificio Bronce  
+  
 Plaza Manuel Gómez Moreno, s/n  
+  
 28020 Madrid, email: _[protecciondedatos@red.es](mailto:protecciondedatos@red.es)_
 
 **\- Subencargados:**
@@ -1736,7 +1778,9 @@ Gestión de los Proyectos de Sanidad.
 **\- Encargado:**
 
 Red.es: Edificio Bronce  
+  
 Plaza Manuel Gómez Moreno, s/n  
+  
 28020 Madrid, email: _[protecciondedatos@red.es](mailto:protecciondedatos@red.es)_
 
 **\- Subencargados:**
@@ -1820,7 +1864,9 @@ Gestión de los Proyectos de Educación.
 **\- Encargado:**
 
 Red.es: Edificio Bronce  
+  
 Plaza Manuel Gómez Moreno, s/n  
+  
 28020 Madrid, email: _[protecciondedatos@red.es](mailto:protecciondedatos@red.es)_
 
 **\- Subencargados:**
@@ -1900,7 +1946,9 @@ Gestión de ayudas y subvenciones a personas jurídicas y a personas físicas.
 **\- Responsable:**
 
 Red.es: Edificio Bronce  
+  
 Plaza Manuel Gómez Moreno, s/n  
+  
 28020 Madrid, email: _[protecciondedatos@red.es](mailto:protecciondedatos@red.es)_
 
 **\- Encargado:**
@@ -1982,7 +2030,9 @@ Gestión de las solicitudes de acceso al servicio de whois a través del puerto 
 **\- Responsable:**
 
 Red.es: Edificio Bronce  
+  
 Plaza Manuel Gómez Moreno, s/n  
+  
 28020 Madrid, email: _[protecciondedatos@red.es](mailto:protecciondedatos@red.es)_
 
 **\- Encargado:**
@@ -2062,7 +2112,9 @@ Gestión de las solicitudes de descarga de un fichero de texto con los datos de 
 **\- Responsable:**
 
 Red.es: Edificio Bronce  
+  
 Plaza Manuel Gómez Moreno, s/n  
+  
 28020 Madrid, email: _[protecciondedatos@red.es](mailto:protecciondedatos@red.es)_
 
 **\- Encargado:**
@@ -2142,7 +2194,9 @@ Gestión de datos de contacto con medios de comunicación. Envío de comunicacio
 **\- Responsable:**
 
 Red.es: Edificio Bronce  
+  
 Plaza Manuel Gómez Moreno, s/n  
+  
 28020 Madrid, email: _[protecciondedatos@red.es](mailto:protecciondedatos@red.es)_
 
 **\- Encargado:**
@@ -2222,7 +2276,9 @@ Gestión de subvenciones Segundo Dividendo Digital.
 **\- Responsable:**
 
 Red.es: Edificio Bronce  
+  
 Plaza Manuel Gómez Moreno, s/n  
+  
 28020 Madrid, email: _[protecciondedatos@red.es](mailto:protecciondedatos@red.es)_
 
 **\- Encargado:**
@@ -2348,7 +2404,9 @@ Gestionar las solicitudes de participación en el Desafio Aporta 4ª edición.
 **\- Responsable:**
 
 Red.es: Edificio Bronce  
+  
 Plaza Manuel Gómez Moreno, s/n  
+  
 28020 Madrid, email: _[protecciondedatos@red.es](mailto:protecciondedatos@red.es)_
 
 **\- Encargado:**
@@ -2424,13 +2482,17 @@ Cumplimiento de las obligaciones legales.
 **\- Fines:**
 
 Gestionar las inscripciones y participación de pymes en el portal Acelera pyme.  
+  
 Registro e inscripción de pymes para el acceso al área privada de la plataforma y uso de sus herramientas.  
+  
 Envío de comunicados (mediante correo electrónico y/o sms o herramientas de mensajería móvil) relacionados con el Programa Acelera pyme así como relacionados con los programas de transformación digital de Red.es.
 
 **\- Responsable:**
 
 Red.es: Edificio Bronce  
+  
 Plaza Manuel Gómez Moreno, s/n  
+  
 28020 Madrid, email: _[protecciondedatos@red.es](mailto:protecciondedatos@red.es)_
 
 **\- Encargado:**
@@ -2446,19 +2508,33 @@ Email: _[protecciondedatos@red.es](mailto:protecciondedatos@red.es)_
 #### Categoría de datos
 
 Datos de contacto de la pyme:  
+  
 Nombre y apellidos  
+  
 Documento de identidad  
+  
 Correo electrónico  
+  
 Teléfono móvil  
+  
 Cargo del solicitante
 
+  
+  
 Datos de la pyme:  
+  
 NIF  
+  
 Razón social  
+  
 Comunidad autónoma, Provincia, Municipio, Código postal.  
+  
 Código de Actividad (CNAE)  
+  
 Autónomo/a  
+  
 Número de trabajadores  
+  
 Fecha de inicio de actividad
 
 * * *
@@ -2524,7 +2600,9 @@ Facilitación o cesión a aquellas entidades que pudieran colaborar en la ejecuc
 **\- Responsable:**
 
 Red.es: Edificio Bronce  
+  
 Plaza Manuel Gómez Moreno, s/n  
+  
 28020 Madrid, email: _[protecciondedatos@red.es](mailto:protecciondedatos@red.es)_
 
 **\- Encargado:**
@@ -2540,19 +2618,31 @@ Email: _[protecciondedatos@red.es](mailto:protecciondedatos@red.es)_
 #### Categoría de datos
 
 Datos de contacto de las entidades solicitantes:  
+  
 NIF  
+  
 Razón Social  
+  
 Fecha de inicio de actividad; Periodo de actividad  
+  
 Tipo de entidad (persona física, persona jurídica).  
+  
 Tamaño de la entidad (Microempresa; Pequeña empresa; Mediana empresa; Empresa no PYME; Entidad no mercantil.)  
+  
 Código NACE  
+  
 Domicilio fiscal (Pais, Dirección, Código postal, Comunidad Autónoma, Provincia, Municipio)
 
 Datos del representante de la entidad solicitante (NIF, NIE, Documento identificativo, Nombre y apellidos, Teléfono móvil, e-mail,  
+  
 Nombre y apellidos  
+  
 Documento de identidad  
+  
 Correo electrónico  
+  
 Teléfono móvil  
+  
 Cargo del solicitante (administrador único, administrador solidario, administrador mancomunado, apoderado, consejero delegado, consejero delegado mancomunado, presidente, secretario y otros.)
 
 * * *
@@ -2572,7 +2662,9 @@ Economía Digital y Sistemas
 #### Legitimación
 
 Obligación legal para el Responsable de Tratamiento.  
+  
 Tratamiento necesario para el cumplimiento de una misión realizada en interés público o en el ejercicio de poderes públicos conferidos al Responsable de Tratamiento.  
+  
 Mantenimiento de una relación contractual o precontractual.
 
 * * *
@@ -2622,12 +2714,15 @@ Gestionar las inscripciones y participación de las entidades solicitantes e int
 Analizar el cumplimiento de los requisitos para ser beneficiario del Programa, gestión y solicitud de la documentación acreditativa del cumplimiento de los requisitos del Programa. Realización de todos aquellos trámites oportunos y relativos al Programa.
 
 Facilitación o cesión a aquellas entidades que pudieran colaborar en la ejecución del presente programa o auditar el mismo, a aquellas Administraciones Públicas que pudieran estar implicadas en su ejecución o cumplimiento, así como a la Comisión Europea en virtud de lo estipulado en la Orden HFP/1030/2021, de 29 de septiembre, por la que se configura el sistema de gestión del Plan de Recuperación, Transformación y Resiliencia.  
+  
  
 
  **Responsable:**
 
 Red.es: Edificio Bronce  
+  
 Plaza Manuel Gómez Moreno, s/n  
+  
 28020 Madrid, teléfono: 901100167, email: _[protecciondedatos@red.es](mailto:protecciondedatos@red.es)_
 
 **\- Encargado:**
@@ -2643,21 +2738,35 @@ Email: _[protecciondedatos@red.es](mailto:protecciondedatos@red.es)_
 #### Categoría de datos
 
 Datos de contacto de las entidades solicitantes:  
+  
 NIF  
+  
 Razón Social / Denominación  
+  
 Teléfono movil  
+  
 Correo electrónico de contacto  
+  
 Domicilio Fiscal   
+  
 Empresas vinculadas o asociadas  
+  
 Detalle de trabajadores en régimen de mutualistas  
+  
 Detalle de trabajadores autónomos colaboradores  
+  
 Certificado de situación censal
 
 Datos del/los representantes/s de la entidad solicitante:  
+  
 Nombre y apellidos  
+  
 Documento de identidad  
+  
 Correo electrónico  
+  
 Teléfono móvil  
+  
 Cargo del solicitante (administrador único, administrador solidario, administrador mancomunado, apoderado, consejero delegado, consejero delegado mancomunado, presidente, secretario y otros.)
 
 * * *
@@ -2677,7 +2786,9 @@ Sistemas
 #### Legitimación
 
 Obligación legal para el Responsable de Tratamiento.   
+  
 Tratamiento necesario para el cumplimiento de una misión realizada en interés público o en el ejercicio de poderes públicos conferidos al Responsable de Tratamiento.  
+  
 Mantenimiento de una relación contractual o precontractual.
 
 * * *
@@ -2697,6 +2808,7 @@ Las medidas de seguridad implantadas se corresponden con las previstas en el Ane
 Los datos podrán ser comunicados a aquellas entidades que pudieran colaborar en la ejecución del presente programa o auditar el mismo, a aquellas Administraciones Públicas que pudieran estar implicadas en su ejecución o cumplimiento, así como a la Comisión Europea en virtud de lo estipulado en la Orden HFP/1030/2021, de 29 de septiembre, por la que se configura el sistema de gestión del Plan de Recuperación, Transformación y Resiliencia.
 
 Se contemplan igualmente las cesiones previstas en el artículo 27 de la Orden ETD/1498/2021, de 29 de diciembre, por la que se aprueban las bases reguladoras de la concesión de ayudas para la digitalización de pequeñas empresas, microempresas y personas en situación de autoempleo, en el marco de la Agenda España Digital 2025, el Plan de Digitalización PYMEs 2021-2025 y el Plan de Recuperación, Transformación y Resiliencia de España -Financiado por la Unión Europea- Next Generation EU (Programa Kit Digital), así como las contempladas a las entidad colaboradoras descritas en el artículo 14  de la Orden ETD/1498/2021, siendo la Cámara Oficial de Comercio, Industria, Servicios y Navegación de España, el Consejo General del Notariado.  
+  
  
 
 **Transferencias Internacionales**
@@ -2730,7 +2842,9 @@ Selección de empresas expositoras en el Pabellón de España del MWC y gestión
  **Responsable:**
 
 Red.es: Edificio Bronce  
+  
 Plaza Manuel Gómez Moreno, s/n  
+  
 28020 Madrid, teléfono: 901100167, email: _[protecciondedatos@red.es](mailto:protecciondedatos@red.es)_
 
 **\- Encargado:**
@@ -2746,25 +2860,41 @@ Email: _[protecciondedatos@red.es](mailto:protecciondedatos@red.es)_
 #### Categoría de datos
 
 Datos de la entidad solicitante:  
+  
 NIF  
+  
 Razón social  
+  
 Nombre comercial de la empresa  
+  
 Año de constitución  
+  
 Tipo de entidad  
+  
 Tamaño de la empresa  
+  
 Número de personas empleadas  
+  
 Domicilio fiscal  
+  
 Número de cuenta bancaria
 
 Datos de la/s persona/s representantes de la entidad solicitante:  
+  
 Documento de identidad  
+  
 Nombre y Apellidos  
+  
 Teléfono  
+  
 Email 
 
 Datos de contacto operativo:  
+  
 Nombre y Apellidos  
+  
 Teléfono  
+  
 Email 
 
 * * *
@@ -2778,6 +2908,7 @@ Email 
 #### Departamento implicado
 
 Economía Digital  
+  
 Comunicación
 
 * * *
@@ -2806,6 +2937,7 @@ Se cederán los siguientes datos a las empresas 
 
 * Al organizador de la MWC: GSMA. Mail del contacto operativo, nombre y teléfono siendo estos datos necesarios para conceder acceso al catálogo online desde el que las empresas podrán completar su perfil y manejar su visibilidad como expositores del Pabellón de España.
 * A las empresas encargadas de la construcción y prestación de servicios del Pabellón de España en MWC Barcelona, que se seleccionarán a través de los correspondientes procedimientos de licitación. Se cederán los datos necesarios, mínimos e imprescindibles, para que las empresas encargadas de la construcción y prestación de servicios del Pabellón de España pueda contactar con las empresas expositoras.  
+      
      
 
 #### Transferencias Internacionales
@@ -2839,7 +2971,9 @@ Gestión de datos de denuncias recibidas sobre conductas irregulares, infraccion
  **Responsable:**
 
 Red.es: Edificio Bronce  
+  
 Plaza Manuel Gómez Moreno, s/n  
+  
 28020 Madrid, email: _[protecciondedatos@red.es](mailto:protecciondedatos@red.es)_
 
 **\- Encargado:**
@@ -2919,7 +3053,9 @@ Registro e inscripción en el área privada de la plataforma de la Oficina Nacio
  **Responsable:**
 
 Red.es: Edificio Bronce  
+  
 Plaza Manuel Gómez Moreno, s/n  
+  
 28020 Madrid, email: _[protecciondedatos@red.es](mailto:protecciondedatos@red.es)_
 
 **\- Encargado:**
@@ -2941,6 +3077,7 @@ Red.es informará y puede recoger datos de las siguientes categorías de datos p
 * Datos transaccionales, esto es, cualquier operación, movimiento y consulta asociado a cualquiera de los servicios que un usuario mantenga con Red.es.
 * Datos socioeconómicos y laborales.
 * Datos de representación legal.  
+      
      
 
 * * *
@@ -3022,19 +3159,27 @@ Gestionar las solicitudes de información de la iniciativa Datos Abiertos
 **\- Responsable:**
 
 Ministerio de Asuntos Económicos y Transformación Digital  
+  
 Secretaría de Estado de Digitalización e Inteligencia Artificial  
+  
 Paseo de la Castellana, 162 - 28046 Madrid  
+  
 Delegado de Protección de Datos a través de: [dpd@economia.gob.es](mailto:dpd@economia.gob.es)
 
 Ministerio de Hacienda y Función Pública  
+  
 Secretaría de Estado de Función Pública  
+  
 Calle de Santa Engracia, 7 - 28010 Madrid  
+  
 Delegado de Protección de Datos a través de:  [DPDHacienda@hacienda.gob.es](mailto:DPDHacienda@hacienda.gob.es)
 
 **\- Encargado:**
 
 Red.es: Edificio Bronce  
+  
 Plaza Manuel Gómez Moreno, s/n  
+  
 28020 Madrid, email: _[protecciondedatos@red.es](mailto:protecciondedatos@red.es)n_
 
 **\- Subencargado:**
@@ -3068,7 +3213,9 @@ RedIris y Servicios Públicos Digitales.
 #### Legitimación
 
 RGPD: 6.1. a) El interesado dio su consentimiento para el tratamiento de sus datos personales para uno o varios fines específicos.  
+  
 RGPD: 6.1.e) Tratamiento necesario para el cumplimiento de una misión realizada en interés público o en el ejercicio de poderes públicos conferidos al responsable del tratamiento.  
+  
 Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público.
 
 * * *
@@ -3109,6 +3256,7 @@ Dentro del Espacio Económico Europeo con nivel de protección adecuado:  
 
 * Administraciones Públicas  (Cesión de datos)
 * Proveedores (Encargo de Tratamiento)  
+      
      
 
 #### **35.- Invitación general para participar en los programas de atracción, y retención de talento**
@@ -3118,12 +3266,15 @@ Dentro del Espacio Económico Europeo con nivel de protección adecuado:  
 **\- Fines:**
 
 Gestionar los datos de carácter personal de la “Invitación General para participar en los Programas de Atracción y Retención de Talento dentro de la Inversión 4 del Componente 19 en el marco del Plan de Recuperación, Transformación y Resiliencia (C005/24-ED)”.  
+  
 Se utilizarán algunos datos recopilados de las Entidades beneficiarias, Personal Investigador o Técnico contratado/becado, contratistas o subcontratistas, en el marco de las actividades inherentes al desarrollo de la Invitación.
 
 **\- Responsable:**
 
 Red.es: Edificio Bronce  
+  
 Plaza Manuel Gómez Moreno, s/n  
+  
 28020 Madrid, teléfono: 901100167, email: [protecciondedatos@red.es](mailto:%20protecciondedatos@red.es)
 
 **\- Delegado de Protección de Datos:**
