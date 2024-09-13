@@ -1,8 +1,8 @@
-💼 Back to work, back to privacy! 78% OFF all lifetime plans!
+🔒 Get complete privacy for less: Up to 75% OFF all storage plans!
 
-[Choose plan](https://internxt.com/lifetime)
+[Choose plan](https://internxt.com/pricing)
 
-[🔒 Back to work, back to privacy! 78% OFF all lifetime plans!](https://internxt.com/lifetime)
+[🔒 Get complete privacy for less: Up to 75% OFF all storage plans!](https://internxt.com/pricing)
 
 [![Internxt logo](https://pub-a9deffb393604831b8b467f4ec97bf3a.r2.dev/website/logos/internxt/cool-gray-90.svg)](https://internxt.com/)[![Internxt logo](https://pub-a9deffb393604831b8b467f4ec97bf3a.r2.dev/website/logos/internxt/cool-gray-90.svg)](https://internxt.com/)
 
@@ -1283,6 +1283,22 @@ Work smart,
 not hard!
 
 Choose plan
+
+Available now!
+
+S3 compatible object storage
+
+Up to 80% cheaper than AWS
+
+Secure, scalable, S3-compatible
+
+Native Rclone support
+
+Get 1TB for free
+
+\*Offer only for the first month
+
+![cloud object storage](/_next/image?url=https%3A%2F%2Fpub-a9deffb393604831b8b467f4ec97bf3a.r2.dev%2Fwebsite%2Fimages%2Fcloud-object-storage%2Fs3_internxt.webp&w=750&q=75)
 
 Hold on! Special 75% OFF deal!
 
