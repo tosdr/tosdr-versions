@@ -134,105 +134,105 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![xBidetti](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1251677.thumb.png.90ec6bb13da27b5c65ca5ba2bc56cf61.png)](https://www.clubedohardware.com.br/profile/1251677-xbidetti/ "Ir ao perfil de xBidetti")
+    * [![Desempregado](https://www.clubedohardware.com.br/uploads/members/monthly_2020_10/photo.thumb.jpg.6ff5d272ee7bf9c52d93035875ee3337.jpg)](https://www.clubedohardware.com.br/profile/1014524-desempregado/ "Ir ao perfil de Desempregado")
         
         0
         
-        [Por R$ 11.000: ASUS Prime Z790-A, Core i7-14700K, 32GB e GeForce RTX 4070, vale?](https://www.clubedohardware.com.br/forums/topic/1697132-por-r-11000-asus-prime-z790-a-core-i7-14700k-32gb-e-geforce-rtx-4070-vale/?do=getNewComment "Por R$ 11.000: ASUS Prime Z790-A, Core i7-14700K, 32GB e GeForce RTX 4070, vale?")
+        [Opções de upgrade para quem tem um s20 fe ?](https://www.clubedohardware.com.br/forums/topic/1697356-op%C3%A7%C3%B5es-de-upgrade-para-quem-tem-um-s20-fe/?do=getNewComment "Opções de upgrade para quem tem um s20 fe ?")
         
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [xBidetti](https://www.clubedohardware.com.br/profile/1251677-xbidetti/ "Ir ao perfil de xBidetti")  
-        41 minutos atrás
+        [Smartphones, celulares, tablets e apps](https://www.clubedohardware.com.br/forums/forum/195-smartphones-celulares-tablets-e-apps/ "Smartphones, celulares, tablets e apps")  
+        Por [Desempregado](https://www.clubedohardware.com.br/profile/1014524-desempregado/ "Ir ao perfil de Desempregado")  
+        44 minutos atrás
         
-    * [![vini2004](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1247286.thumb.png.b8c89e0f21ddefbbd1a530c20ad8ac78.png)](https://www.clubedohardware.com.br/profile/1247286-vini2004/ "Ir ao perfil de vini2004")
+    * [![Gustavo20021802](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253006.thumb.png.4b6d6f7f8367ff0a3e38d516338a1cc5.png)](https://www.clubedohardware.com.br/profile/1253006-gustavo20021802/ "Ir ao perfil de Gustavo20021802")
         
-        1
+        0
         
-        [windows 11 tirando print sozinho](https://www.clubedohardware.com.br/forums/topic/1697131-windows-11-tirando-print-sozinho/?do=getNewComment "windows 11 tirando print sozinho")
+        [Como melhorar a refrigeração do computador](https://www.clubedohardware.com.br/forums/topic/1697355-como-melhorar-a-refrigera%C3%A7%C3%A3o-do-computador/?do=getNewComment "Como melhorar a refrigeração do computador")
         
-        [Windows 11](https://www.clubedohardware.com.br/forums/forum/284-windows-11/ "Windows 11")  
-        Por [vini2004](https://www.clubedohardware.com.br/profile/1247286-vini2004/ "Ir ao perfil de vini2004")  
-        1 hora atrás
+        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
+        Por [Gustavo20021802](https://www.clubedohardware.com.br/profile/1253006-gustavo20021802/ "Ir ao perfil de Gustavo20021802")  
+        49 minutos atrás
         
-    * [![xKlarin](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1251388.thumb.jpeg.d66e4ae6965335d280587223cb07d108.jpeg)](https://www.clubedohardware.com.br/profile/1251388-xklarin/ "Ir ao perfil de xKlarin")
+    * [![Arthurw2](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253053.thumb.jpeg.42ba28341efcfd0ecbd974af235f8067.jpeg)](https://www.clubedohardware.com.br/profile/1253053-arthurw2/ "Ir ao perfil de Arthurw2")
         
         2
         
-        [Fonte Corsair CX550 suporta Ryzen 7 5800X e GeForce RTX 4070 Super?](https://www.clubedohardware.com.br/forums/topic/1697130-fonte-corsair-cx550-suporta-ryzen-7-5800x-e-geforce-rtx-4070-super/?do=getNewComment "Fonte Corsair CX550 suporta Ryzen 7 5800X e GeForce RTX 4070 Super?")
+        [Como ligar fan de 6 pinos?](https://www.clubedohardware.com.br/forums/topic/1697352-como-ligar-fan-de-6-pinos/?do=getNewComment "Como ligar fan de 6 pinos?")
         
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [xKlarin](https://www.clubedohardware.com.br/profile/1251388-xklarin/ "Ir ao perfil de xKlarin")  
+        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
+        Por [Arthurw2](https://www.clubedohardware.com.br/profile/1253053-arthurw2/ "Ir ao perfil de Arthurw2")  
         1 hora atrás
         
-    * [![Fredxis](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1252903.thumb.png.fed8e15776f9ad31576fede40d0b1a81.png)](https://www.clubedohardware.com.br/profile/1252903-fredxis/ "Ir ao perfil de Fredxis")
+    * [![JiukOn](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1208677.thumb.jpeg.fa3adfa090c6dd21623d4c3a69e77c9c.jpeg)](https://www.clubedohardware.com.br/profile/1208677-jiukon/ "Ir ao perfil de JiukOn")
         
-        8
+        3
         
-        [Upgrade placa de vídeo até R$1.200,00 para Core i5 8400](https://www.clubedohardware.com.br/forums/topic/1697128-upgrade-placa-de-v%C3%ADdeo-at%C3%A9-r120000-para-core-i5-8400/?do=getNewComment "Upgrade placa de vídeo até R$1.200,00 para Core i5 8400")
+        [Qual fonte vocês recomendam para minha config de Ryzen 7 5700g + RTX 4060?](https://www.clubedohardware.com.br/forums/topic/1697348-qual-fonte-voc%C3%AAs-recomendam-para-minha-config-de-ryzen-7-5700g-rtx-4060/?do=getNewComment "Qual fonte vocês recomendam para minha config de Ryzen 7 5700g + RTX 4060?")
         
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Fredxis](https://www.clubedohardware.com.br/profile/1252903-fredxis/ "Ir ao perfil de Fredxis")  
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [JiukOn](https://www.clubedohardware.com.br/profile/1208677-jiukon/ "Ir ao perfil de JiukOn")  
         2 horas atrás
         
-    * [![JK_freeitas](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1237326.thumb.jpeg.0c40f4c25f28ac081da51184f0b403f3.jpeg)](https://www.clubedohardware.com.br/profile/1237326-jk_freeitas/ "Ir ao perfil de JK_freeitas")
+    * [![LucasMZ2](https://www.clubedohardware.com.br/uploads/members/monthly_2022_08/1435600673_bigssomkeeluiZ.thumb.jpg.064063177acb23d9abdb5278c6268b27.jpg)](https://www.clubedohardware.com.br/profile/1201084-lucasmz2/ "Ir ao perfil de LucasMZ2")
+        
+        7
+        
+        [Como evitar superaquecimento em computadores de uso ininterrupto.](https://www.clubedohardware.com.br/forums/topic/1697347-como-evitar-superaquecimento-em-computadores-de-uso-ininterrupto/?do=getNewComment "Como evitar superaquecimento em computadores de uso ininterrupto.")
+        
+        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
+        Por [LucasMZ2](https://www.clubedohardware.com.br/profile/1201084-lucasmz2/ "Ir ao perfil de LucasMZ2")  
+        2 horas atrás
+        
+    * [![DTavaresRush2112](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1241155.thumb.jpeg.21a5d9018127133d4927d857d601abb3.jpeg)](https://www.clubedohardware.com.br/profile/1241155-dtavaresrush2112/ "Ir ao perfil de DTavaresRush2112")
+        
+        2
+        
+        [SSD Kingston NV2 1TB é compatível com placa-mãe SuperFrame A520M Gaming?](https://www.clubedohardware.com.br/forums/topic/1697346-ssd-kingston-nv2-1tb-%C3%A9-compat%C3%ADvel-com-placa-m%C3%A3e-superframe-a520m-gaming/?do=getNewComment "SSD Kingston NV2 1TB é compatível com placa-mãe SuperFrame A520M Gaming?")
+        
+        [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
+        Por [DTavaresRush2112](https://www.clubedohardware.com.br/profile/1241155-dtavaresrush2112/ "Ir ao perfil de DTavaresRush2112")  
+        2 horas atrás
+        
+    * [![Rafael Roedel](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1252997.thumb.png.d53bcce35ed5808926d830c47ee07db8.png)](https://www.clubedohardware.com.br/profile/1252997-rafael-roedel/ "Ir ao perfil de Rafael Roedel")
+        
+        3
+        
+        [Tela ficou com mancha de "luz" após limpeza com alcool isopropilico](https://www.clubedohardware.com.br/forums/topic/1697345-tela-ficou-com-mancha-de-luz-ap%C3%B3s-limpeza-com-alcool-isopropilico/?do=getNewComment "Tela ficou com mancha de "luz" após limpeza com alcool isopropilico")
+        
+        [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
+        Por [Rafael Roedel](https://www.clubedohardware.com.br/profile/1252997-rafael-roedel/ "Ir ao perfil de Rafael Roedel")  
+        3 horas atrás
+        
+    * [![Felipe Sak](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c462be%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EFS%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1210240-felipe-sak/ "Ir ao perfil de Felipe Sak")
         
         4
         
-        [fps baixo após virus](https://www.clubedohardware.com.br/forums/topic/1697127-fps-baixo-ap%C3%B3s-virus/?do=getNewComment "fps baixo após virus")
+        [Sugestões placa-mãe AMD, vale a pena ou dinheiro jogado fora?](https://www.clubedohardware.com.br/forums/topic/1697344-sugest%C3%B5es-placa-m%C3%A3e-amd-vale-a-pena-ou-dinheiro-jogado-fora/?do=getNewComment "Sugestões placa-mãe AMD, vale a pena ou dinheiro jogado fora?")
         
-        [Problemas de desempenho](https://www.clubedohardware.com.br/forums/forum/256-problemas-de-desempenho/ "Problemas de desempenho")  
-        Por [JK\_freeitas](https://www.clubedohardware.com.br/profile/1237326-jk_freeitas/ "Ir ao perfil de JK_freeitas")  
-        2 horas atrás
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [Felipe Sak](https://www.clubedohardware.com.br/profile/1210240-felipe-sak/ "Ir ao perfil de Felipe Sak")  
+        3 horas atrás
         
-    * [![Alexesm](https://www.clubedohardware.com.br/uploads/members/monthly_2021_11/images.thumb.jpg.82a72503c44bf7ae983658c19adff7dd.jpg)](https://www.clubedohardware.com.br/profile/1135821-alexesm/ "Ir ao perfil de Alexesm")
-        
-        2
-        
-        [Recomendação de fone até R$ 300,00 que não seja chinês](https://www.clubedohardware.com.br/forums/topic/1697126-recomenda%C3%A7%C3%A3o-de-fone-at%C3%A9-r-30000-que-n%C3%A3o-seja-chin%C3%AAs/?do=getNewComment "Recomendação de fone até R$ 300,00 que não seja chinês")
-        
-        [Caixas de som, fones, microfones e headsets](https://www.clubedohardware.com.br/forums/forum/144-caixas-de-som-fones-microfones-e-headsets/ "Caixas de som, fones, microfones e headsets")  
-        Por [Alexesm](https://www.clubedohardware.com.br/profile/1135821-alexesm/ "Ir ao perfil de Alexesm")  
-        2 horas atrás
-        
-    * [![Nycolas santos](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/850183400_.thumb.jpg.e799c1ab2c8abc7ddf8148ffac6bb4b6.jpg)](https://www.clubedohardware.com.br/profile/1252626-nycolas-santos/ "Ir ao perfil de Nycolas santos")
-        
-        2
-        
-        [Core i5 12400f operando com o clock de 4,00GHz](https://www.clubedohardware.com.br/forums/topic/1697125-core-i5-12400f-operando-com-o-clock-de-400ghz/?do=getNewComment "Core i5 12400f operando com o clock de 4,00GHz")
-        
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [Nycolas santos](https://www.clubedohardware.com.br/profile/1252626-nycolas-santos/ "Ir ao perfil de Nycolas santos")  
-        2 horas atrás
-        
-    * [![LeonardoFernandes](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c47962%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EL%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1061392-leonardofernandes/ "Ir ao perfil de LeonardoFernandes")
-        
-        6
-        
-        [Erro de memória instalada x ativada](https://www.clubedohardware.com.br/forums/topic/1697124-erro-de-mem%C3%B3ria-instalada-x-ativada/?do=getNewComment "Erro de memória instalada x ativada")
-        
-        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
-        Por [LeonardoFernandes](https://www.clubedohardware.com.br/profile/1061392-leonardofernandes/ "Ir ao perfil de LeonardoFernandes")  
-        2 horas atrás
-        
-    * [![Nichzeras](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1244532.thumb.jpeg.c4f44f50cb83d413c3c8fe02349aba1c.jpeg)](https://www.clubedohardware.com.br/profile/1244532-nichzeras/ "Ir ao perfil de Nichzeras")
+    * [![Lost7](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253050.thumb.jpeg.688224bd16e68ad872117bcb1b824fd7.jpeg)](https://www.clubedohardware.com.br/profile/1253050-lost7/ "Ir ao perfil de Lost7")
         
         3
         
-        [DRAM voltage fica vermelho quando muda de 1.2 para 1.35](https://www.clubedohardware.com.br/forums/topic/1697122-dram-voltage-fica-vermelho-quando-muda-de-12-para-135/?do=getNewComment "DRAM voltage fica vermelho quando muda de 1.2 para 1.35")
+        [Primeiro pc gamer montado, como posso reduzir o valor final?](https://www.clubedohardware.com.br/forums/topic/1697343-primeiro-pc-gamer-montado-como-posso-reduzir-o-valor-final/?do=getNewComment "Primeiro pc gamer montado, como posso reduzir o valor final?")
         
-        [Overclock](https://www.clubedohardware.com.br/forums/forum/11-overclock/ "Overclock")  
-        Por [Nichzeras](https://www.clubedohardware.com.br/profile/1244532-nichzeras/ "Ir ao perfil de Nichzeras")  
-        2 horas atrás
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [Lost7](https://www.clubedohardware.com.br/profile/1253050-lost7/ "Ir ao perfil de Lost7")  
+        3 horas atrás
         
-    * [![Middoken](https://www.clubedohardware.com.br/uploads/members/monthly_2024_05/gifsung.thumb.gif.eebd16af02de9845e493df2890951126.gif)](https://www.clubedohardware.com.br/profile/1235353-middoken/ "Ir ao perfil de Middoken")
+    * [![emanuel490](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/20230908-jujutsu-kaisen-t2ee.thumb.png.0d17bd98b8463006ba3046dbebc1e429.png)](https://www.clubedohardware.com.br/profile/1252307-emanuel490/ "Ir ao perfil de emanuel490")
         
-        3
+        1
         
-        [PC com Core i5-2400 com GeForce GTX 1650 4GB terá muito gargalo? Como diminuir?](https://www.clubedohardware.com.br/forums/topic/1697121-pc-com-core-i5-2400-com-geforce-gtx-1650-4gb-ter%C3%A1-muito-gargalo-como-diminuir/?do=getNewComment "PC com Core i5-2400 com GeForce GTX 1650 4GB terá muito gargalo? Como diminuir?")
+        [HOLA, como saber se se monitor é compatível com PC?](https://www.clubedohardware.com.br/forums/topic/1697342-hola-como-saber-se-se-monitor-%C3%A9-compat%C3%ADvel-com-pc/?do=getNewComment "HOLA, como saber se se monitor é compatível com PC?")
         
-        [Problemas de desempenho](https://www.clubedohardware.com.br/forums/forum/256-problemas-de-desempenho/ "Problemas de desempenho")  
-        Por [Middoken](https://www.clubedohardware.com.br/profile/1235353-middoken/ "Ir ao perfil de Middoken")  
-        2 horas atrás
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [emanuel490](https://www.clubedohardware.com.br/profile/1252307-emanuel490/ "Ir ao perfil de emanuel490")  
+        3 horas atrás
         
     
 
