@@ -232,7 +232,7 @@ Het neusje van de zalm
   
 [Duurzaamheid](https://www.kronch.nl/duurzaamheid)   [](https://www.kronch.nl/duurzaamheid)[Privacybeleid](https://www.kronch.nl/privacyverklaring)
 
-![Deense vlag](https://static.wixstatic.com/media/6f2cfa_41666c7d7b48451ebd25c4c3821dec3e~mv2.png/v1/fill/w_118,h_89,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/Flag_of_Denmark.png)
+![Deense vlag](https://static.wixstatic.com/media/6f2cfa_41666c7d7b48451ebd25c4c3821dec3e~mv2.png/v1/fill/w_128,h_89,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Flag_of_Denmark.png)
 
 ###### Onze producten
 
