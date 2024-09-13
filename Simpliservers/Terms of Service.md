@@ -16,8 +16,6 @@
 * [Partners](https://noxity.io/partners)
 * [Service Status](https://status.noxity.io/)
 
-_menu_
-
 ### This page cannot be found
 
 We're very sorry but the page you were looking for could not be found.  
