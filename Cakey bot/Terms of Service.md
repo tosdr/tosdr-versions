@@ -2,9 +2,10 @@
 
 * [Home](https://cakey.bot/index.html)
 * [Commands](https://cakey.bot/commands.html)
-* [Wiki](https://wiki.cakey.bot/)
-* [FAQ](https://cakey.bot/faq.html)
-* [Translate](https://translate.cakey.bot/)
+* [Resources](#)
+    
+    [Wiki](https://wiki.cakey.bot/) [FAQ](https://cakey.bot/faq.html) [Translate](https://translate.cakey.bot/) [XP Table](https://cakey.bot/xp-table.html) [XP Calculator](https://cakey.bot/xp-calculator.html)
+    
 * [Premium](https://cakey.bot/premium.php)
 * [Add To Server](https://cakey.bot/invite)
 * [Add To User](https://cakey.bot/user-app)
@@ -13,9 +14,10 @@
 * [![Cake Craft Logo](assets/images/logo.webp)](https://cakey.bot/index.html)
 * [Home](https://cakey.bot/index.html)
 * [Commands](https://cakey.bot/commands.html)
-* [Wiki](https://wiki.cakey.bot/)
-* [FAQ](https://cakey.bot/faq.html)
-* [Translate](https://translate.cakey.bot/)
+* [Resources](#)
+    
+    [Wiki](https://wiki.cakey.bot/) [FAQ](https://cakey.bot/faq.html) [Translate](https://translate.cakey.bot/) [XP Table](https://cakey.bot/xp-table.html) [XP Calculator](https://cakey.bot/xp-calculator.html)
+    
 * [Premium](https://cakey.bot/premium.php)
 
 * [Add To Server](https://cakey.bot/invite)
@@ -141,4 +143,4 @@ If you believe your situation is viable for a refund you may wish to contact us 
 3. In any private message chat with a staff member from the Cakey Bot team. Find online staff members at [https://cakey.bot/discord](https://cakey.bot/discord)
     
 
-© 2016-2024 ~ MrCakeSlayer [Add to Server](https://cakey.bot/invite) [Terms of Service](https://cakey.bot/terms.html) | [Privacy Policy](https://cakey.bot/privacy.html)
+© 2016-2024 ~ Nexfinity [Add to Server](https://cakey.bot/invite) [Terms of Service](https://cakey.bot/terms.html) | [Privacy Policy](https://cakey.bot/privacy.html)
