@@ -266,7 +266,7 @@ Support
 -------
 
 * [Help Center / Contact Us](https://www.lttstore.com/pages/contact-us)
-![linus tech tips logo](//www.lttstore.com/cdn/shop/t/120/assets/ltt-logo.svg?v=133296236752336137041725992568)
+![linus tech tips logo](//www.lttstore.com/cdn/shop/t/121/assets/ltt-logo.svg?v=133296236752336137041726070947)
 
 © LINUS TECH TIPS STORE Powered by Shopify
 
