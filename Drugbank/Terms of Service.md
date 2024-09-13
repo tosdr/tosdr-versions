@@ -1,4 +1,4 @@
-[eBook: Your Essential Guide to Unlocking Undruggable Targets](https://bit.ly/4dCSPHu)
+[eBook: Your Essential Guide to Unlocking Undruggable TargetsRead Now!](https://bit.ly/4dCSPHu)
 
 [![DrugBank logo](/assets/logo-online-pink-69f661028a0befc92ef5e94f23828096639203be3dc44b98e29be5a7e60b49e9.svg)](https://go.drugbank.com/)
 
@@ -86,12 +86,13 @@ DrugBank Terms of Use
 
 [Terms of Use](https://go.drugbank.com/legal/terms_of_use)[Privacy Policy](https://go.drugbank.com/legal/privacy_policy)
 
-_Updated: June 1, 2017_
+_Updated: September 12, 2024_
 
 Change Log
 ----------
 
-* Removed reference to sharing data via the Disqus service for comments, as this service is no longer used on DrugBank.
+* June 1, 2017 - Removed reference to sharing data via the Disqus service for comments, as this service is no longer used on DrugBank.
+* September 12, 2024 - Updated the citation requirements to DrugBank 6.0 (2024).
 
 * * *
 
@@ -189,8 +190,7 @@ By accessing any part of our website or application, be it go.drugbank.com, www.
     
     Your access to DrugBank Content on the Platform is provided under, and subject to, a [Creative Common’s Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/legalcode). When using DrugBank Content in an academic publication, DrugBank is to be cited as follows:
     
-        Wishart DS, Knox C, Guo AC, Shrivastava S, Hassanali M, Stothard P, Chang Z, Woolsey J. Drugbank: a comprehensive resource for in silico drug discovery and exploration. Nucleic Acids Res. 2006 Jan 1;34 (Database issue):D668-72. 16381955.
-        
+    `Knox C, Wilson M, Klinger CM, et al. DrugBank 6.0: the DrugBank Knowledgebase for 2024. Nucleic Acids Res. 2024 Jan 5;52(D1):D1265-D1275. doi: 10.1093/nar/gkad976. PMID: 37953279; PMCID: PMC10767804.`
     
     If you wish to use the DrugBank Content for commercial purposes, please contact [info@drugbank.com](mailto:info@drugbank.com) to inquire about a separate agreement.
     
