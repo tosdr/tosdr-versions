@@ -2,10 +2,11 @@
 
 [Jetzt sparen: Onlineshop-Highlights im September](https://www.lidl.de/c/shop-highlights/a10053491)
 
-[![Lidl Logo Deutschland](/static/assets/c6855ba1-a17c-468f-b8b0-09fdab67dea7.svg)](https://www.lidl.de/ "Lidl Onlineshop - Online. Immer. Mehr.")2. Menü
+1. [![Lidl Logo Deutschland](/static/assets/c6855ba1-a17c-468f-b8b0-09fdab67dea7.svg)](https://www.lidl.de/ "Lidl Onlineshop - Online. Immer. Mehr.")
+2. Menü
 3. [Onlineshop](https://www.lidl.de/)
 4. [Filiale](https://www.lidl.de/store)
-
+5. 
 6. [](https://www.lidl.de/c/online-prospekte/s10005610)
 7. 1. [](https://www.lidl.de/mla/)
     2. Herzlich willkommen in deinem Lidl-Konto.
