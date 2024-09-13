@@ -1,6 +1,6 @@
 None
 
-Save up to 50% on select major appliances.Ends 9/11.[Shop now](https://www.bestbuy.com/site/home-appliances/major-appliances-sale-event/pcmcat321600050000.c?id=pcmcat321600050000)
+3-Day SaleEnds 9/15. Limited quantities. No rainchecks.[Shop now](https://www.bestbuy.com/site/clp/sale-page/pcmcat185700050011.c?id=pcmcat185700050011)
 
 [Skip to content](#headerskip "Skip to content")
 
