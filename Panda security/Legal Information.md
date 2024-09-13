@@ -11,13 +11,6 @@ If this is not what you’re looking for,
 
 [Visit our Welcome Page!](https://www.pandasecurity.com/)
 
-![image](/rfilescms/Teaser/CAMPAIGNS/teaser_acq_bts_2024.png)
-
-**Get back into routine without online threats!**  
-50% Off + 3 months of Panda Family for Free
-
-[**Get the offer now!**](https://www.pandasecurity.com/security-promotion/?campaign=dome2305&coupon=50OFFMULTIP&recommendation=FAMILY3MONTHS&track=190478)
-
 * Protection
 * [Panda Dome product range](https://www.pandasecurity.com/en/homeusers/)
 * [Panda Dome Essential](https://www.pandasecurity.com/en/dome/essential/)
