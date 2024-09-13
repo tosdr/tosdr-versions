@@ -5,7 +5,7 @@
 Main navigation
 ---------------
 
-* [labor day sale](https://www.lelo.com/discount-and-deals)
+* [orgasm day](https://www.lelo.com/discount-and-deals)
 * [Best Selling Sex Toys](https://www.lelo.com/bestsellers)
 * [Sex Toys for Women](https://www.lelo.com/sex-toys-for-women)
     * [VIEW ALL PRODUCTS](https://www.lelo.com/sex-toys-for-women)
@@ -71,7 +71,7 @@ back to menu
 * [日本語](https://www.lelo.com/ja/privacy-policy)
 * [한국어](https://www.lelo.com/ko/privacy-policy)
 
-LABOR DAY DEALS - SAVE UP TO 50% + GET A FREE TOR™ 2
+ORGASM DAY - SCORE UP TO 40% OFF + CHOOSE TWO GIFTS!
 
 [SHOP NOW](https://www.lelo.com/discount-and-deals)
 
@@ -313,6 +313,7 @@ follow
 * [X](http://twitter.com/Lelo_Official)
 * [facebook](https://www.facebook.com/LELO.Official)
 * [audio erotica](https://www.lelo.com/blog/erotic-fantasies/audio-erotica)
+* [our sexual health experts](https://www.lelo.com/blog/science-and-medical-advisory-board-2/)
 
 © 2003-2024 LELO iAB. All rights reserved.
 
