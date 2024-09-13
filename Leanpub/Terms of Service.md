@@ -1,7 +1,7 @@
 Leanpub Terms of Service
 ------------------------
 
-_These Terms of Service (the “Terms of Service” or “Terms”) are effective as of April 21, 2010, and were last updated on May 31, 2024. These Terms of Service may be updated from time to time, and we recommend users check them regularly._
+_These Terms of Service (the “Terms of Service” or “Terms”) are effective as of April 21, 2010, and were last updated on September 11, 2024. These Terms of Service may be updated from time to time, and we recommend users check them regularly._
 
 Leanpub (“Leanpub”) is a service of Ruboss Technology Corporation (“Ruboss”), a corporation incorporated in British Columbia, Canada. These Terms of Service govern your access to and use of Leanpub, the Leanpub website, applications, public APIs and client software (collectively referred to as the “Site”, the “Service” or the “Services”), and any information, texts, graphics, or other materials uploaded, downloaded or appearing on the Services, including without limitation videos, code samples, Course material or any other content made available for download or streaming, as well as PDF files, EPUB files, MOBI files, LPUB files and other formats of ebooks, and any other forms of content added and/or made available for sale (free or otherwise) on the Site (all of which is collectively referred to in the Terms as “Content”).
 
@@ -748,7 +748,7 @@ Ruboss, at its sole discretion, reserves the right to refuse publication on the 
 
 Ruboss reserves the right to remove any Content or Product and suspend or delete any account that has apparently been abandoned in an incomplete state. This includes the right to appropriate a URL that a User has associated with a Product. For example, if you create a book and assign it a generic URL such as leanpub.com/computers, and you do not publish a Product, we may appropriate the URL and assign you a new one. This is to prevent Users from “squatting” on potentially valuable URLs.
 
-At our discretion, we may remove Content and/or ban Users deemed to be suspicious and Users we deem to have violated or probably violated our policies with respect to the Site or Services. We reserve the right to amend our policies from time to time at our sole discretion, without notice.^
+At our discretion, we may remove Content and/or ban Users deemed to be suspicious and Users we deem to have violated or probably violated our policies with respect to the Site or Services. We reserve the right to amend our policies from time to time at our sole discretion, without notice.
 
 If you believe any materials in the Site infringe your copyright, you should notify Ruboss of your copyright infringement claim and at our discretion Ruboss will take appropriate action in accordance with our Copyright Take Down Policy, which governs how we respond to claims of copyright infringement. The Copyright Take Down Policy can be found [here](https://leanpub.com/takedown). Accepting these Terms constitutes acceptance of the Copyright Take Down Policy.
 
@@ -837,6 +837,14 @@ This restriction is not limited to a published Product; it applies to a Product 
 Any activity deemed by Ruboss, at its sole discretion, to be in violation of this restriction, may result in a Product being removed from the Site, and potentially to Account suspension, without notification to you.
 
 If you are concerned that your Content may violate these Terms, before publishing on Leanpub or creating a Leanpub Product, please contact us at hello@leanpub.com for guidance.
+
+#### 9.6 Providing Time-of-Purchase Content
+
+At our discretion, at any time after their purchase, we may provide Users who have purchased Content (including Free purchases of Content) with the Content as it was at the time they made their purchase (the “Time-of-Purchase Content”). This right is reserved without restriction, although it is primarily meant for circumstances where an author has replaced substantial content, such as a completed Book, with trivial content, such as a one-page PDF promoting another book, or with substantially different content from the Time-of-Purchase content. Typically, this is required if an Author has misunderstood the fact that a change they made to their Product has removed it from Users’ Leanpub libraries, and our intent is to restore Users’ access to the Product. To be clear, this does not establish a right for Users to access or to be provided with Time-of-Purchase content, but does establish our right to provide Time-of-Purchase Content to them upon their request, should we choose to do so.
+
+#### 9.7 Restoring a Previous Version of a Product
+
+At our discretion, we may restore a previously published version of any Product. This may involve replacing the current version of a Product, and publishing a new version the Product, based on a previously published version of the Product. It may also involve things like changing the book’s writing mode, setting up a new GitHub repository, and updating the book’s description, or anything else we deem necessary in this context. We may also change a book’s State as we deem necessary, for example, we may temporarily change a book’s state from Retired to Published, and then change it back to the Retired State. This right is reserved without restriction, although it is primarily meant for circumstances where an Author has replaced substantial content, such as a completed Book, with trivial content, such as a one-page PDF promoting another book, or with substantially different content from the Time-of-Purchase content. Typically, this is required if an Author has misunderstood the fact that a change they made to their Product has removed it from Users’ Leanpub libraries, and our intent is to restore Users’ access to the Product.
 
 ### 10\. Rights to Content Posted on the Site
 
