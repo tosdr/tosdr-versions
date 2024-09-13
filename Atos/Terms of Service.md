@@ -219,33 +219,6 @@ Homepage](https://atos.net/en)
         Eviden helps optimize Electric Vehicle Manufacturing through the European e-BEAT Project
         ----------------------------------------------------------------------------------------
         
-    * [Blog](https://atos.net/en/atos-blog)˅
-        
-        * [Blog](https://atos.net/en/atos-blog)˅
-        * [Tech Insights](https://atos.net/en/atos-blog/tech-insights)
-        * [Industry Insights](https://atos.net/en/atos-blog/industry-insights)
-        * [Essentials](https://atos.net/en/atos-blog/essentials)
-        
-        Latest blog
-        -----------
-        
-        April 19, 2024
-        
-        Creativity matters: The human superpower in an increasingly digital world
-        -------------------------------------------------------------------------
-        
-    * [Events](https://atos.net/en/newsroom/events)˅
-        
-        Upcoming events
-        ---------------
-        
-        * **Your search did not return any results.**
-            
-        
-        [**All events**](https://atos.net/en/newsroom/events)
-        
-        **Your search did not return any results.**
-        
     * [Awards](https://atos.net/en/newsroom/awards)˅
         
         Awards
