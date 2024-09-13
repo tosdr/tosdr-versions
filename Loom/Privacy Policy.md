@@ -161,12 +161,6 @@ Choose your language
     
     Knowledge, all in one place](https://www.loom.com/software/confluence)
     
-    [![](https://wac-cdn.atlassian.com/misc-assets/adg4-nav/prod-icon-Trello.svg)
-    
-    ### Trello
-    
-    Organized & visualized work](https://trello.com/home)
-    
     [![](https://wac-cdn.atlassian.com/misc-assets/adg4-nav/prod-icon-Loom.svg)
     
     ### Loom NEW
@@ -174,12 +168,6 @@ Choose your language
     Quick, async video updates](https://loom.com/)
     
     ##### Leadership Teams
-    
-    [![](https://wac-cdn.atlassian.com/misc-assets/adg4-nav/prod-icon-Jira-Align.svg)
-    
-    ### Jira Align
-    
-    Enterprise strategy alignment](https://www.loom.com/software/jira/align)
     
     [![](https://wac-cdn.atlassian.com/misc-assets/adg4-nav/prod-icon-Jira.svg)
     
@@ -198,6 +186,12 @@ Choose your language
     ### Loom NEW
     
     Quick, async video updates](https://loom.com/)
+    
+    [![](https://wac-cdn.atlassian.com/misc-assets/adg4-nav/prod-icon-Jira-Align.svg)
+    
+    ### Jira Align
+    
+    Enterprise-wide work planning & value](https://www.loom.com/software/jira/align)
     
     Back
     
@@ -360,7 +354,7 @@ Back
 
 [Try now](https://www.loom.com/try)
 
- [![Atlassian logo](/assets/img/icons/imkt/imkt-navbar__charlie-logo.svg?cdnVersion=2228)](https://www.atlassian.com/ "Visit the Atlassian homepage")[Legal](https://www.loom.com/legal)
+ [![Atlassian logo](/assets/img/icons/imkt/imkt-navbar__charlie-logo.svg?cdnVersion=2235)](https://www.atlassian.com/ "Visit the Atlassian homepage")[Legal](https://www.loom.com/legal)
 
 * [Legal information](https://www.loom.com/legal)
 * [Privacy Policy](https://www.loom.com/legal/privacy-policy)
@@ -770,7 +764,7 @@ Subscribe to receive notifications from us about updates to our legal terms (inc
 
 [Sign up for updates](https://privacy.atlassian.net/servicedesk/customer/portal/1/group/1/create/39)
 
-![](https://wac-cdn.atlassian.com/dam/jcr:9c4bf443-5045-4ff9-a48d-36ae466f3ced/logos-atlassian-mini-icon-onecolor-blue.svg?cdnVersion=2228)
+![](https://wac-cdn.atlassian.com/dam/jcr:9c4bf443-5045-4ff9-a48d-36ae466f3ced/logos-atlassian-mini-icon-onecolor-blue.svg?cdnVersion=2235)
 
 [Company](https://www.loom.com/company)
 
