@@ -19,9 +19,9 @@ svg gradient [Skip to main content](#main-content)
      [![](/asset/shared-images/ui/navigation/primary-navigation/single-row-icons/icon-nav-primary-financial.png) Financial  
     Services](https://www.nuance.com/industries/financial-services.html)
     
-     [![](/asset/shared-images/ui/navigation/primary-navigation/single-row-icons/icon-nav-primary-telecommunications.png) Telecom](https://www.nuance.com/omni-channel-customer-engagement/industry/telecommunications.html)
+     [![](/asset/shared-images/ui/navigation/primary-navigation/single-row-icons/icon-nav-primary-telecommunications.png) Telecom](https://www.nuance.com/omni-channel-customer-engagement.html)
     
-     [![](/asset/shared-images/ui/navigation/primary-navigation/single-row-icons/icon-nav-primary-retail.png) Retail](https://www.nuance.com/omni-channel-customer-engagement/industry/retail.html)
+     [![](/asset/shared-images/ui/navigation/primary-navigation/single-row-icons/icon-nav-primary-retail.png) Retail](https://www.nuance.com/omni-channel-customer-engagement.html)
     
      [![](/asset/shared-images/ui/navigation/primary-navigation/single-row-icons/icon-nav-primary-government.png) Government](https://www.nuance.com/industries/government.html)
     
