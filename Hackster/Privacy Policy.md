@@ -158,6 +158,7 @@ Hackster Avnet Legal | Version 1.3 - 10.2021
 * ### Legal Thingies
     
 * [Terms of Service](https://www.hackster.io/terms "Terms of Service")
+* [Contest Rules](https://www.hackster.io/contest-rules "Contest Rules")
 * [Code of Conduct](https://www.hackster.io/conduct "Code of Conduct")
 * [Privacy Policy](https://www.hackster.io/privacy "Privacy Policy")
 * [Privacy Policy for California Residents](https://www.hackster.io/privacy/ccpa "Privacy Policy for California Residents")
