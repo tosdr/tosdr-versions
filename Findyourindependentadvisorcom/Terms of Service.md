@@ -31,14 +31,15 @@ The IARD/CRD# is used by the Securities & Exchange Commission to provide backgro
 Terms and Conditions×
 ---------------------
 
-The information in this Directory is made available to you and other investors by Charles Schwab & Co., Inc. ("Schwab") as a convenience. Inclusion in the Directory does not constitute a recommendation, endorsement or sponsorship of the RIA by Schwab. Each RIA in the Directory is responsible for the content of its own listing, has voluntarily agreed to be included, and does not pay to or receive from Schwab any compensation relating to their listing. The Directory includes some, but not all, of the RIAs that have an agreement with Schwab to provide custody, trading and other support services relating to RIA client accounts that are maintained at Schwab. In order to be listed in the Directory, RIAs must be registered with the SEC or state securities regulators, have had some client assets with Schwab for at least 1 year, and have $35MM in regulatory assets under management as of their last Form ADV registration filing with the SEC or one or more states. The Directory is not all-inclusive and there may be other RIA firms in your area.
+Schwab operates this Advisor Directory to provide helpful information to you. It includes some, but not all of the registered investment advisors (“RIAs”) that custody client assets with Schwab. There may be other investment professionals in your area.
+
+The Directory generally includes RIAs registered with the SEC or state securities regulators, and those that have had some client assets with Schwab for at least 1 year, and have $25MM in regulatory assets under management as of their last Form ADV registration filing with the SEC or one or more states.
 
 **By clicking "I Agree" below, you agree that you:**
 
 * Understand the purpose and limitations of the Directory.
-* Acknowledge that Schwab is not referring you to an RIA and is not endorsing or recommending any RIA.
-* Will not rely on a listing in the Directory to make your final decision whether to hire an RIA.
-* Are solely responsible for performing a review of and signing an agreement with an RIA.
+* Will not rely only on this list and acknowledge that you are solely responsible for your own research when hiring an advisor.
+* Understand that Schwab is not endorsing, recommending, or referring any advisor listed in the Directory.
 
 ▼
 
@@ -102,15 +103,15 @@ More Ways to Find An Advisor Near You
 
 Charles Schwab logo
 
-RIAs are independent from and not affiliated with Schwab. Schwab does not review, monitor, or supervise any of the services RIAs provide to their clients.
+These advisors custody with Schwab Advisor Services™ and were not compensated for their comments. Schwab paid travel-related costs.
 
-Links to third-party websites on this page are provided by Schwab solely as a convenience to you. These sites are not affiliated with Schwab. Schwab has not reviewed the sites and is not responsible for the content. Schwab has made no judgment or warranty with respect to the accuracy, timeliness, completeness, or suitability of the content on these sites. Your use of these sites is at your own risk.
+The Independent Difference campaign is brought to you compliments of Charles Schwab & Co., Inc. The sole purpose of this campaign is to help educate investors about working with an RIA. Clients should evaluate an RIA based on their own particular needs.
 
-This content is made available and managed by Charles Schwab & Co., Inc. ("Schwab"). The purpose of this information is to educate investors about working with an independent Registered Investment Advisor (RIA). Schwab provides custody, trading, and operational support services for RIAs.
+Each Registered Investment Advisor (“RIA”) in the Directory is responsible for the content of its own listing, has voluntarily agreed to be included, and does not pay or receive any compensation from Schwab to include their listing in the Directory. However, Schwab does benefit from RIAs opening client accounts and maintaining their client accounts with Schwab. RIAs may have multiple listings if they operate from multiple office locations.
 
-Many independent RIAs and other financial services professionals receive compensation for services in a variety of ways. It is the responsibility of each investor to determine which method of compensation offers the lowest total costs and best aligns the interests and needs of the investor with those of the investment professional chosen.
+Schwab Advisor Services serves independent investment advisors and includes the custody, trading, and support services of Schwab. Independent investment advisors are not owned by, affiliated with, or supervised by Schwab. Charles Schwab & Co., Inc. (“Schwab”), Member SIPC., is a separate but affiliated company and subsidiary of The Charles Schwab Corporation.
 
-© 2024 Charles Schwab & Co., Inc. All rights reserved. Member [SIPC](http://www.sipc.org/). (0416-EXR7) (06/16)
+©2024 Charles Schwab & Co., Inc. All rights reserved. (0324-NBYY)
 
 [Do Not Sell or Share My Personal Information](javascript:void(0);)
 
