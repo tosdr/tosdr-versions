@@ -4,20 +4,6 @@
 
  
 
-Close banner ![](https://archive.org/components/donation-banner/images/close-circle-dark.svg) ![](https://archive.org/components/donation-banner/images/close-circle-white.svg)  
-
-This week, an appellate court ruled in favor of major corporations, removing access to over 500,000 books. But we will continue to defend the rights of all libraries, and **we ask you to stand with us.**  
-We rely on donations that average just $15.58; we would be deeply grateful if you would join the 1 in 1000 of our users who choose to give. If you find our library useful, **please pitch in**.
-
-This week, an appellate court ruled in favor of major corporations, removing access to over 500,000 books. But we will continue to defend the rights of all libraries, and **we ask you to stand with us.**  
-We rely on donations that average just $15.58; we would be deeply grateful if you would join the 1 in 1000 of our users who choose to give. If you find our library useful, **please pitch in**.
-
- 
-
-**Can You Chip In?** (USD)
-
- 
-
 [Internet Archive logo A line drawing of the Internet Archive headquarters building façade.](https://archive.org/ "Go home")
 
 [Donate icon An illustration of a heart shape "Donate to the archive"](https://archive.org/donate/?origin=iawww-mbhrt) Search icon An illustration of a magnifying glass.  Search icon An illustration of a magnifying glass.[Upload icon An illustration of a horizontal line over an up pointing arrow. Upload](https://archive.org/create)
@@ -298,6 +284,6 @@ Email: [info@archive.org](mailto:info@archive.org)
 **For More Information**  
 If you have any questions or comments regarding these terms and policies or the Archive’s data collection practices, please contact the Archive at [info@archive.org](mailto:info@archive.org) or Internet Archive, 300 Funston Ave., San Francisco, CA 94118, phone 415-561-6767.  
 
-![](//athena.archive.org/0.gif?kind=track_js&track_js_case=control&cache_bust=1443694804)
+![](//athena.archive.org/0.gif?kind=track_js&track_js_case=control&cache_bust=1918924080)
 
-![](//athena.archive.org/0.gif?kind=track_js&track_js_case=disabled&cache_bust=1786785318)
+![](//athena.archive.org/0.gif?kind=track_js&track_js_case=disabled&cache_bust=145207405)
