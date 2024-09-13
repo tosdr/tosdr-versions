@@ -154,7 +154,7 @@ For Tes Institute Learners, the following policies also apply
 * [Cancellation Policy](https://www.tes.com/institute/institute-rights-cancellation)
 * [Complaints Procedure](https://www.tes.com/institute/institute-complaints-procedure)
 * [Equality and Diversity Policy](https://docs.google.com/document/d/19DjJUpPzrNOxp8pF_6syIaor6H513w9ZyAi3-JW99jU/edit)
-* [Consumer Protection Policy](https://docs.google.com/document/d/1s_kkt2jrJwS28XbKemLbl_xCi07-KeoH/edit)
+* [Consumer Protection Policy](https://docs.google.com/document/d/1_WvmZbASnfxPa6B1H5cavYOomA185W7T)
 
 Back to top
 
