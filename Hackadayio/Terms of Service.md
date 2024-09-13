@@ -197,8 +197,4 @@ If you have any questions or suggestions regarding this agreement please contact
 
 [© 2024 Hackaday](https://hackaday.io/)
 
-By using our website and services, you expressly agree to the placement of our performance, functionality, and advertising cookies. [Learn More](https://hackaday.io/privacy-policy)
-
-Ok, I agree
-
 ![](//analytics.supplyframe.com/trackingservlet/impression?action=pageImpression&zone=HIO_tos&extra=logged%3Dfalse%7ChaveAccountCookie%3D0%7C&ab=undefined)
