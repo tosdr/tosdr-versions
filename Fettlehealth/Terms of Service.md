@@ -52,6 +52,8 @@ Cross
             
         * [Microgynon 30](https://fettle.health/contraception/combined-pill/microgynon-30)
             
+        * [Millinette 30](https://fettle.health/contraception/combined-pill/millinette-30)
+            
         * [Ovranette](https://fettle.health/contraception/combined-pill/ovranette)
             
         * [Rigevidon](https://fettle.health/contraception/combined-pill/rigevidon)
@@ -485,7 +487,7 @@ To contact us, please email [info@fettle.health](mailto:info@fettle.health)
 
 Thank you for visiting our site.
 
-Last updated at: 17 June 2024
+Last updated at 17 June 2024
 
 ![Inspected and rated outstanding - Care Quality Commission](https://images.ctfassets.net/67y6xvdyeixo/4QA0vIrTnuWsDA7d0mStbm/e89c4ef40ba2f5a9b3f9cbd26427897b/logo_-_cqc.png?w=640&q=75)
 
