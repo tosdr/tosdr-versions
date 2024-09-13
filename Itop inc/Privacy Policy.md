@@ -92,7 +92,7 @@
         Secure and advanced password manager.](https://www.itopvpn.com/dualsafe-password-manager)
 * Blog
     
-    [_VPN for Apps_](https://www.itopvpn.com/blog?sort_id=96) [_VPN for Locations_](https://www.itopvpn.com/blog?sort_id=86) [_Data Recovery_](https://www.itopvpn.com/blog?sort_id=166) [_Meeting Screen Recorder_](https://recorder.itopvpn.com/blog?sort=7) [_Game Screen Recorder_](https://recorder.itopvpn.com/blog?sort=4) [_PDF Tips_](https://pdf.itopvpn.com/blog/)
+    [_Data Recovery_](https://www.itopvpn.com/blog?sort_id=166) [_Meeting Screen Recorder_](https://recorder.itopvpn.com/blog?sort=7) [_Game Screen Recorder_](https://recorder.itopvpn.com/blog?sort=4) [_PDF Tips_](https://pdf.itopvpn.com/blog/)
     
 * [Store](https://www.itopvpn.com/store?ref=navigation)
 * [Log in](https://www.itopvpn.com/login)
