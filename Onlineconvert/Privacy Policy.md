@@ -98,7 +98,7 @@ In order to keep the following privacy policy clear, we refer to information and
     If you have any questions regarding the processing of your personal data, as well as your rights regarding data privacy, please contact:
     
     Jens Bierkandt  
-    E-Mail: [\[email protected\]](https://www.online-convert.com/cdn-cgi/l/email-protection)
+    E-Mail: time2help@online-convert.com
     
     4\. Log-Files
     -------------
@@ -123,7 +123,7 @@ In order to keep the following privacy policy clear, we refer to information and
     
     **Right of objection**
     
-    **You have the right to object.**You can inform us about or send your objection at any time (e.g. via e-mail to [\[email protected\]](https://www.online-convert.com/cdn-cgi/l/email-protection).
+    **You have the right to object.**You can inform us about or send your objection at any time (e.g. via e-mail to time2help@online-convert.com.
     
     The provision of personal data is neither required by law nor by contract, and it is not necessary for the conclusion of a contract. You are also not obliged to provide personal data. However, the lack of provision may result in you not being able to use our website entirely or to its full extent.
     
@@ -447,7 +447,7 @@ In order to keep the following privacy policy clear, we refer to information and
     Right of objection
     ------------------
     
-    You can send or inform us about your objection at any time (e.g. via e-mail to [\[email protected\]](https://www.online-convert.com/cdn-cgi/l/email-protection)).
+    You can send or inform us about your objection at any time (e.g. via e-mail to time2help@online-convert.com).
     
     The provision of personal data is neither required by law nor by contract but it is necessary for the conclusion of a contract. The lack of provision results in us not being able to provide you with a user account and a contract cannot be concluded.
     
@@ -549,7 +549,7 @@ In order to keep the following privacy policy clear, we refer to information and
     Right of objection
     ------------------
     
-    You can send or inform us about your objection at any time (e.g. via e-mail to [\[email protected\]](https://www.online-convert.com/cdn-cgi/l/email-protection)).
+    You can send or inform us about your objection at any time (e.g. via e-mail to time2help@online-convert.com).
     
       
     
@@ -615,7 +615,7 @@ In order to keep the following privacy policy clear, we refer to information and
         Right of revocation
         -------------------
         
-        **You have the right to revoke your consent at any time without affecting the legality of processing carried out on the basis of your consent given until revocation.** You can send or inform us about your revocation of consent at any time (e.g. via e-mail to [\[email protected\]](https://www.online-convert.com/cdn-cgi/l/email-protection)).
+        **You have the right to revoke your consent at any time without affecting the legality of processing carried out on the basis of your consent given until revocation.** You can send or inform us about your revocation of consent at any time (e.g. via e-mail to time2help@online-convert.com).
         
         You can also revoke your consent simply by clicking on the appropriate link in our newsletter (“Unsubscribe”).
         
@@ -629,7 +629,7 @@ In order to keep the following privacy policy clear, we refer to information and
         
         **You have the right to object.**
         
-        You can send or inform us about your objection at any time (e.g. via e-mail to [\[email protected\]](https://www.online-convert.com/cdn-cgi/l/email-protection)).
+        You can send or inform us about your objection at any time (e.g. via e-mail to time2help@online-convert.com).
         
         Furthermore, you can change your cookie preferences (e.g. deleting cookies, blocking cookies, etc.). More information about this can be found under “**5) Cookies**”.
         
@@ -658,7 +658,7 @@ In order to keep the following privacy policy clear, we refer to information and
     Right of objection
     ------------------
     
-    **You have the right to object.** You can send or inform us about your objection at any time (e.g. via e-mail to [\[email protected\]](https://www.online-convert.com/cdn-cgi/l/email-protection)).
+    **You have the right to object.** You can send or inform us about your objection at any time (e.g. via e-mail to time2help@online-convert.com).
     
       
     
@@ -686,7 +686,7 @@ In order to keep the following privacy policy clear, we refer to information and
     Right of objection
     ------------------
     
-    **You have the right to object.** You can send or inform us about your objection at any time (e.g. via e-mail to [\[email protected\]](https://www.online-convert.com/cdn-cgi/l/email-protection)).
+    **You have the right to object.** You can send or inform us about your objection at any time (e.g. via e-mail to time2help@online-convert.com).
     
       
     
@@ -771,7 +771,7 @@ In order to keep the following privacy policy clear, we refer to information and
     
       
     
-    For inquiries of this kind, please contact [\[email protected\]](https://www.online-convert.com/cdn-cgi/l/email-protection). Please note that we must ensure that inquiries of this kind are actually from the person in question.
+    For inquiries of this kind, please contact time2help@online-convert.com. Please note that we must ensure that inquiries of this kind are actually from the person in question.
     
     You have the right to complain to a data protection supervisory without prejudice to any other administrative or judicial remedy.
     
