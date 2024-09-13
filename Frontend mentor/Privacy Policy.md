@@ -388,7 +388,7 @@ _While such categorization of Personal Information is mainly based on California
 
 * ### Internet or other electronic network activity information
     
-    **Personal Information collected or disclosed:** Various types of data as specified in the privacy policy of the service, Cookies, Usage data, Trackers, Tracker
+    **Personal Information collected or disclosed:** various types of Data as specified in the privacy policy of the service, Cookies, Usage Data, Trackers, Tracker
     
     **Purposes:**
     
@@ -412,7 +412,7 @@ _While such categorization of Personal Information is mainly based on California
     
 * ### Identifiers
     
-    **Personal Information collected or disclosed:** Email address
+    **Personal Information collected or disclosed:** email address
     
     **Sensitive Personal Information collected or disclosed ℹ️:** payment info
     
@@ -430,7 +430,7 @@ _While such categorization of Personal Information is mainly based on California
     
 * ### Commercial information
     
-    **Personal Information collected or disclosed:** Email address
+    **Personal Information collected or disclosed:** email address
     
     **Sensitive Personal Information collected or disclosed ℹ️:** payment info
     
