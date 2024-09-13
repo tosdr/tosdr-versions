@@ -141,14 +141,26 @@ Integrating Chaty into your website takes less than 2 minutes. Sign up now and s
 
 [![Chaty footer logo - visit chaty's homepage](https://chaty.app/wp-content/themes/chaty.app-website//images/chaty-white-logo.svg)](https://chaty.app/)
 
+[](https://www.facebook.com/premio.io/)[](https://www.linkedin.com/company/premioio/)
+
+© 2024 Chaty. All rights reserved.
+
+Company
+-------
+
 * [About Us](https://chaty.app/about-us/)
 * [Help Center](https://chaty.app/help/)
-* [Website Live Chat](https://chatway.app/?utm_source=chatyfooter)
-* [Contact Us](https://chaty.app/contact/)
+* [Contact](https://chaty.app/contact/)
+
+Resources
+---------
+
 * [Privacy Policy](https://chaty.app/privacy-policy/)
 * [GDPR](https://chaty.app/gdpr/)
 * [Terms of Service](https://chaty.app/terms-of-service/)
 
-[](https://www.facebook.com/premio.io/)[](https://www.linkedin.com/company/premioio/)
+Product
+-------
 
-Built with ❤️ by the [Premio team](https://premio.io/)
+* [Website Live Chat](https://chatway.app/?utm_source=chatyfooter)
+* [Chat Buttons](https://chaty.app/chat-button/)
