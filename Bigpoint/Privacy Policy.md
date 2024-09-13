@@ -14,8 +14,6 @@ Sachsenstraße 20
 
 Germany
 
-Tel.: +49 (0) 40 8814130 (no support)
-
 [info@bigpoint.net](mailto:info@bigpoint.net) (no support)
 
 Name and address of the data protection officer
@@ -37,7 +35,7 @@ privacy@bigpoint.net
 
 ### General
 
-This Data Privacy Information informs you of which personal data is collected by Bigpoint in the context of our websites and the games and other services provided by us (jointly referred to as the “Online Offer”). It also explains how such data is processed and used. The protection of your personal information is important to us.
+This Data Privacy Information informs you of which personal data is collected by Bigpoint in the context of our websites, our apps and the games and other services provided by us (jointly referred to as the “Online Offer”). It also explains how such data is processed and used. The protection of your personal information is important to us.
 
 Your data is protected against unauthorised access and loss through the use of various electronic, technical, physical, administrative and contractual measures. Bigpoint has taken the necessary technical and organisational precautions to ensure that the regulations for data privacy are respected both internally and by external service providers.
 
@@ -46,7 +44,7 @@ This Data Privacy Information contains transparent and clear information to ensu
 What is personal data?
 ----------------------
 
-Personal data is any information relating to an identified or identifiable natural person (e.g. name, address, telephone number, date of birth or email address). Basically, you can use our Online Offer without providing personal information; however, the use of certain services may require you to submit personal information, e.g. registration for our games or participation in a competition.
+Personal data is any information relating to an identified or identifiable natural person (e.g. name, address, telephone number, date of birth or email address).
 
 Legal basis
 -----------
@@ -55,7 +53,7 @@ We process personal data in accordance with the legal bases of the General Data 
 
 Consent
 
-Insofar as we obtain the consent of the data subject to process personal data, Article 6 para 1 (a) GDPR serves as the legal basis for the processing of such personal data.
+Insofar as we obtain your consent to process personal data, Article 6 para 1 (a) GDPR serves as the legal basis for the processing of such personal data.
 
 Contract fulfilment and pre-contractual enquiries
 
@@ -78,10 +76,10 @@ Purposes of processing
 
 We collect personal data for various purposes as described in this Data Privacy Information; these include:
 
-* To provide our Online Offer and to perform a contract in accordance with [our General Terms and Conditions](https://legal.bigpoint.com/DE/terms-and-conditions/en-GB);
+* To provide our Online Offer and to perform a contract in accordance with [our Terms of Use / General Terms and Conditions](https://legal.bigpoint.com/DE/terms-and-conditions/en-GB);
 * For contact requests and communication, in particular to provide help and support, and to send you relevant information regarding your contract;
 * For the use and payment of fee-based goods and services;
-* For our own and third-party advertising, market research and reach measurement to the extent permitted by law or based on your consent;
+* For our own and third-party advertising and market research to the extent permitted by law or based on your consent;
 * To send a newsletter subject to your consent;
 * To shape and improve our offer as required, partially in pseudonymised and/or anonymous form;
 * To prevent, investigate and report criminal offences, e.g. fraud, e.g. credit card misuse, identity fraud;
@@ -90,15 +88,10 @@ We collect personal data for various purposes as described in this Data Privacy 
 
 If you have used our games for an extended period of time, we would like to inform you that we also use data from our predecessor company, Bigpoint S.à.r.l. Co, SCS, 10A rue Henri M. Schnadt, L-2530 Luxembourg. This refers to master data that we require to continue offering games without interruption. This data refers in particular to game progress, game scores and information regarding the use of and payment for services.
 
-Credit information
-------------------
-
-For German users, we will obtain information about your previous payment history from infoscore Consumer Data GmbH, Rheinstr. 99, 76532 Baden-Baden, insofar as this is necessary for the conclusion or performance of a contract between the data subject and the responsible body (data controller).
-
 Cookies and the collection of log files
 ---------------------------------------
 
-Bigpoint collects the following non-personal information within the context of the use of our websites, forums and games:
+Bigpoint collects the following personal information within the context of the use of our websites, forums and games:
 
 * IP addresses, including the time and date;
 * Statistical information including the browser type, operating system, redirecting URL, date, time, pages used, total time of use, frequency of use.
@@ -109,7 +102,7 @@ IP addresses and the corresponding Internet information are saved for a period o
 
 Cookies and similar technologies
 
-We and our partners use cookies and similar technologies that fulfil the same functions as cookies (“Cookies”) in our Online Offer, among others to improve our Online Offer, to improve the user experience and to carry out personalised online advertising. Cookies are small text files that contain data from websites visited, e.g. the language settings on a website or the login status. Cookies are stored on your device by the browser you are using for their respective lifetime. Some Cookies are automatically deleted after the browser session has ended (“session” Cookies), while others are stored for a specified time or permanently in the user's browser, and delete themselves automatically after the specified time has elapsed (“temporary” or “permanent” Cookies).
+We and our partners use cookies and similar technologies that fulfil the same functions as cookies (“Cookies”) in our Online Offer, among others to improve our Online Offer, to improve the user experience and to carry out personalised online advertising. Cookies are small text files that contain data from websites visited, e.g. the language settings on a website or the login status. Cookies are stored on your device by the browser you are using for their respective lifetime. Some Cookies are automatically deleted after the browser session has ended (“session” Cookies), while others are stored for a specified time or permanently in the user's browser and delete themselves automatically after the specified time has elapsed (“temporary” or “permanent” Cookies).
 
 We may sometimes request your consent for the use of Cookies by us and our partners to save and retrieve information on your device. If you provide your consent, we will process your data on the legal basis of the declared consent. In certain cases, the data processed using Cookies is processed based on our legitimate interests or those of our partners, or if the use of Cookies is essential to fulfil our contractual obligations to you (e.g. the secure operation of our Online Offer).
 
@@ -119,15 +112,10 @@ You can also disable the storage of Cookies in your browser settings and delete 
 
 In addition, please note that objections to the use of Cookies are sometimes implemented through opt-out Cookies. Should you delete all the Cookies, any objections may therefore no longer be taken into account and must be obtained from you again.
 
-Range measurement
------------------
-
-Our online service uses the “Scalable Central Measuring method” (SCM/SCMnG) from INFOline Ltd. GmbH (https://www.infonline.de) to determine statistical values for the use our offers. Anonymous measured data will be collected. For the recognition of computer systems, the SCM measurement method alternatively uses either a cookie with the ID “ioam.de”, “ivwbox.de”, a local storage object or a signature that is automatically created from different information transmitted by the browser. IP addresses are only processed in anonymous form. The range measurement was developed under strict observation of data protection policies. The objective of the range measurement system is to statistically determine how intensively, and by how many users, a website is being used. At no point in time will individual users be identified; their identities will always remain protected and they will receive no promotional material via the system. For online offers that are part of the Association of the Distribution of Advertising Materials (Informationsgemeinschaft zur Feststellung der Verbreitung von Werbeträgern e.V., IVW – www.ivw.eu) or are a part of the German Study Group for Online Research (Arbeitsgemeinschaft Online-Forschung e.V., AGOF – www.agof.de) study, “Internet Facts,” the usage statistics will be published on a monthly basis by AGOF, the Working Group of Media Analysis (Arbeitsgemeinschaft Media-Analyse e.V., ag.ma - www.agma-mmc.de), and by the IVW. The results can be viewed at: http://www.agof.de, http://www.agma-mmc.de and http://www.ivw.eu. In addition to the publication of measured data, the IVW regularly checks the SCM process to make sure it remains consistent with the data protection regulations. Additional information on the SCM process is available on the INFOnline GmbH website (https://www.infonline.de), which operates the system itself, on the AGOF’s data protection website (http://www.agof.de/datenschutz), and on the IVW’s data protection website (http://www.ivw.eu). You can object to SCM processing your data via the following website: http://optout.ioam.de and http://optout.ivwbox.de.
-
 Data transfer and service providers
 -----------------------------------
 
-We will treat your data as strictly confidential and will not disclose it to third parties unless we are legally permitted to do so. We may, in individual cases, be legally obliged to disclose your information, for example to investigating authorities, whereby disclosure will only take place to the extent required by law. We use the companies affiliated with the Bigpoint Group and/or third parties to provide services on our behalf. This is mainly for payment transactions by external service providers (PayPal, Global Collect, etc.) and, in the event of default, by a debt collection company. Moreover, we provide your data to affiliated companies of the Bigpoint Group for marketing purposes and to further develop and improve our games. These affiliated companies of the Bigpoint Group and external companies are under an obligation to handle your data confidentially and securely, and may only use your data insofar as it is required for completing the task they have been assigned. Service providers are generally involved as processors who are only authorised to process the personal data of users of this Online Offer in accordance with our explicit instructions.
+We will treat your data as strictly confidential and will not disclose it to third parties without your consent or unless we are legally permitted to do so. We may, in individual cases, be legally obliged to disclose your information, for example to investigating authorities, whereby disclosure will only take place to the extent required by law. We use the companies affiliated with the Bigpoint Group and/or third parties to provide services on our behalf. This is mainly for payment transactions by external service providers (PayPal, Global Collect, etc.) and, in the event of default, by a debt collection company. Moreover, we provide your data to affiliated companies of the Bigpoint Group for marketing purposes and to further develop and improve our games. These affiliated companies of the Bigpoint Group and external companies are under an obligation to handle your data confidentially and securely and may only use your data insofar as it is required for completing the task they have been assigned. Service providers are generally involved as processors who are only authorised to process the personal data of users of this Online Offer in accordance with our explicit instructions.
 
 Period of storage/retention periods
 -----------------------------------
@@ -137,7 +125,7 @@ We store your data for as long as this is necessary for the provision of our Onl
 Game information and partner offers
 -----------------------------------
 
-When you check the box next to “Game information and partner offers”, you are granting us your express consent to receive this information. Your consent will be recorded and saved, and may be revoked at any time by using our contact form ([www.bigpoint.net/support/](https://www.bigpoint.net/support/)).
+When you check the box next to “Game information and partner offers”, you are granting us your express consent to receive this information. Your consent will be recorded and saved and may be revoked at any time by using our contact form ([www.bigpoint.net/support/](https://www.bigpoint.net/support/)).
 
 Surveys
 -------
@@ -147,7 +135,7 @@ We carry out satisfaction surveys to improve our Online Offer. We therefore coll
 Google Analytics
 ----------------
 
-This website uses Google Analytics and Google Analytics reports to evaluate demographic characteristics and interests. These services are provided by Google LLC (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer to help the website analyse how users use the site. The information generated by the cookie about your use of the website is normally transmitted to, and stored by, Google on servers in the United States. If, however, you activate the Anonymise IP option on this website, Google will truncate your IP address so it only locates you within the member states of the European Union or other contracting states of the European Economic Area. Only in rare cases will the full IP address be transmitted to a Google server in the USA and truncated there. Google will use this information to evaluate your use of the website, to compile reports on website activity for website operators and to provide other services relating to website activity and Internet usage. The operator of this website will use information gathered via interest-related advertising and third-party visitor data (e.g. age, gender and interests) for the purpose of evaluation to find out more about the users of this website. No data that can be attributed to a specific person will be used here; this is for the exclusive purpose of a statistical evaluation of anonymous data sets. Google will not associate your IP address as transmitted by Google Analytics with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings in our cookie manager or your browser software, however please note that, if you do this, you may not be able to use the full functionality of this website. Furthermore, you can prohibit Google from collecting and analysing the data generated by the cookie about your use of the website (including your IP address) by downloading and installing the browser plugin available here [http://tools.google.com/dlpage/gaoptout](http://tools.google.com/dlpage/gaoptout?hl=de). Should you wish to adjust or prevent the analysis of your demographic or interest-based information, you can disable Google Analytics display ads and adjust the ads in the Google Display Network: [https://www.google.com/settings/ads](https://www.google.com/settings/ads?hl=de).
+This website uses Google Analytics and Google Analytics reports to evaluate demographic characteristics and interests. These services are provided by Google LLC (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer to help the website analyse how users use the site. The information generated by the cookie about your use of the website is normally transmitted to, and stored by, Google on servers in the United States. If, however, you activate the Anonymise IP option on this website, Google will truncate your IP address, so it only locates you within the member states of the European Union or other contracting states of the European Economic Area. Only in rare cases will the full IP address be transmitted to a Google server in the USA and truncated there. Google will use this information to evaluate your use of the website, to compile reports on website activity for website operators and to provide other services relating to website activity and Internet usage. The operator of this website will use information gathered via interest-related advertising and third-party visitor data (e.g. age, gender and interests) for the purpose of evaluation to find out more about the users of this website. No data that can be attributed to a specific person will be used here; this is for the exclusive purpose of a statistical evaluation of anonymous data sets. Google will not associate your IP address as transmitted by Google Analytics with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings in our cookie manager or your browser software; please note however that, if you do this, you may not be able to use the full functionality of this website. Furthermore, you can prohibit Google from collecting and analysing the data generated by the cookie about your use of the website (including your IP address) by downloading and installing the browser plugin available here [http://tools.google.com/dlpage/gaoptout](http://tools.google.com/dlpage/gaoptout?hl=de). Should you wish to adjust or prevent the analysis of your demographic or interest-based information, you can disable Google Analytics display ads and adjust the ads in the Google Display Network: [https://www.google.com/settings/ads](https://www.google.com/settings/ads?hl=de).
 
 If you access this website via a mobile device (smartphone, tablet, etc.) you may object to the use of your data by Google by clicking a separate link in the dialog box displayed.
 
@@ -186,7 +174,7 @@ IT security
 
 With the help of an IT security provider, we use Cookies to collect and process specific data anonymously about the features of the terminal device used by the user (“device-specific data”), raw data from the TCP/IP connection and data on the use of our website to prevent the misuse of our services.
 
-Initially, the IP address is also collected and processed but encrypted within a few seconds. No personal data is collected or stored. The information is stored with the IT security provider in a database for the prevention of fraud.
+Initially, the IP address is also collected and processed but encrypted within a few seconds. The information is stored with the IT security provider in a database for the prevention of fraud.
 
 If you conclude a contract on our website that involves a fee, or if the conclusion of a contract that involves a fee is approaching (e.g. at the beginning of the checkout process), we can access a risk evaluation regarding the terminal device you are using from the IT security provider's database which has been stored there.
 
@@ -214,7 +202,7 @@ You have the right to file a complaint with a data protection authority. You can
 Security provisions
 -------------------
 
-All the employees in our company receive regular training in data protection and are committed to data protection. Our computer centre and our in-house EDP department continuously adapt the technical security precautions to the current security conditions and requirements. Both are subject to constant monitoring by our internal procedures and the data protection officer. Nevertheless, Internet technologies may have security loopholes that cannot guarantee 100% full protection and users can therefore submit data to us via other methods, e.g. fax.
+All the employees in our company receive regular training in data protection and are committed to data protection. Our computer centre and our in-house EDP department continuously adapt the technical security precautions to the current security conditions and requirements. Both are subject to constant monitoring by our internal procedures and the data protection officer. Nevertheless, Internet technologies may have security loopholes that cannot guarantee 100% full protection, and users can therefore submit data to us via other methods, e.g. fax.
 
 Changes and updates to the Data Privacy Information
 ---------------------------------------------------
@@ -223,4 +211,4 @@ We would ask you to keep regularly informed regarding the content of this Data P
 
 If we provide addresses and contact information of companies and organisations in this Data Privacy Information, please note that the addresses may change over time, so please check the information before contacting us.
 
-Version date: 26.04.2021
+Version date: 04/09/2024
