@@ -1,4 +1,4 @@
-Set your skills ablaze with **$/£/€1,500 off a short course**.
+Hot skills summer is back. Get **$/£/€1,500 off a short course.**
 
 [Cash in](https://generalassemb.ly/blog/hot-skills-summer-your-skills-on-fire-with-the-seasons-hottest-discounts/)
 
@@ -461,6 +461,7 @@ By providing your email, you confirm you have read and acknowledge General Assem
 * [Terms of Service](https://generalassemb.ly/terms-of-service)
 * [Privacy Policy](https://generalassemb.ly/privacy-policy)
 * [EEO Statement and Legal Notices](https://www.adeccogroupna.com/eeo-statement-and-legal-notices/)
+* [Modern Slavery Act Statement](https://www.adecco.co.uk/modern-slavery-act-statement/)
 
 ### Company
 
