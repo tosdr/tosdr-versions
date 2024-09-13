@@ -118,57 +118,59 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> One of the best decisions I've made for my business
-> ---------------------------------------------------
+> Quick and efficient support
+> ---------------------------
 > 
-> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
+> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
+> 
+> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
 
-Anri van der Linde
+Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
 
-![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=51ab9c3de463d883c5600133ee17cd225ea1d1fd84a6edd1022dd7eb429d4871&c=140781002)  
-RADIO TYGERBERG 104FM NPC
+![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=ac5348405ac1d8da2e6f4a329fd7f53f36fd51871f7c5783bed5135146cbef00&c=108546012)  
+TurboFibre
 
-![valued client Calonet ](https://www.invoicesonline.co.za/scripts/image.php?bid=3324&file=logo_300_100&type=&fe=51ab9c3de463d883c5600133ee17cd225ea1d1fd84a6edd1022dd7eb429d4871&c=37854004)  
-Calonet
+![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=ac5348405ac1d8da2e6f4a329fd7f53f36fd51871f7c5783bed5135146cbef00&c=59600717)  
+Prosper Park
 
-![valued client Moulded Wax SA - The Candle Store](https://www.invoicesonline.co.za/scripts/image.php?bid=8218&file=logo_300_100&type=&fe=51ab9c3de463d883c5600133ee17cd225ea1d1fd84a6edd1022dd7eb429d4871&c=151249186)  
-Moulded Wax SA - The Candle Store
-
-![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=51ab9c3de463d883c5600133ee17cd225ea1d1fd84a6edd1022dd7eb429d4871&c=35705691)  
-MOSELA GROUP Pty(ltd)
-
-![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=51ab9c3de463d883c5600133ee17cd225ea1d1fd84a6edd1022dd7eb429d4871&c=90601634)  
-Wiselink Broadband Dundee
-
-![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=51ab9c3de463d883c5600133ee17cd225ea1d1fd84a6edd1022dd7eb429d4871&c=69729180)  
-Repairs In Motion
-
-![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=51ab9c3de463d883c5600133ee17cd225ea1d1fd84a6edd1022dd7eb429d4871&c=82815949)  
-NJR ICT Services (Pty) Ltd
-
-![valued client High Point Marketing CC t/a Leads For Africa](https://www.invoicesonline.co.za/scripts/image.php?bid=6845&file=logo_300_100&type=&fe=51ab9c3de463d883c5600133ee17cd225ea1d1fd84a6edd1022dd7eb429d4871&c=119297713)  
-High Point Marketing CC t/a Leads For Africa
-
-![valued client Stevens Consulting](https://www.invoicesonline.co.za/scripts/image.php?bid=5551&file=logo_300_100&type=&fe=51ab9c3de463d883c5600133ee17cd225ea1d1fd84a6edd1022dd7eb429d4871&c=27949216)  
-Stevens Consulting
-
-![valued client One2b](https://www.invoicesonline.co.za/scripts/image.php?bid=4093&file=logo_300_100&type=&fe=51ab9c3de463d883c5600133ee17cd225ea1d1fd84a6edd1022dd7eb429d4871&c=133388198)  
-One2b
-
-![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=51ab9c3de463d883c5600133ee17cd225ea1d1fd84a6edd1022dd7eb429d4871&c=22753094)  
+![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=ac5348405ac1d8da2e6f4a329fd7f53f36fd51871f7c5783bed5135146cbef00&c=214054377)  
 Camp 4 Africa (Pty) Ltd
 
-![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=51ab9c3de463d883c5600133ee17cd225ea1d1fd84a6edd1022dd7eb429d4871&c=63819296)  
-Myfinance-Online
+![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=ac5348405ac1d8da2e6f4a329fd7f53f36fd51871f7c5783bed5135146cbef00&c=89248888)  
+Skinz Printing & Branding
 
-![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=51ab9c3de463d883c5600133ee17cd225ea1d1fd84a6edd1022dd7eb429d4871&c=116953957)  
-GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS
+![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=ac5348405ac1d8da2e6f4a329fd7f53f36fd51871f7c5783bed5135146cbef00&c=96535909)  
+kidoscabbie
 
-![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=51ab9c3de463d883c5600133ee17cd225ea1d1fd84a6edd1022dd7eb429d4871&c=104466954)  
-Alliance Energy
+![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=ac5348405ac1d8da2e6f4a329fd7f53f36fd51871f7c5783bed5135146cbef00&c=56628420)  
+OPTIMUS ELECTRICAL PTY (LTD)
 
-![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=51ab9c3de463d883c5600133ee17cd225ea1d1fd84a6edd1022dd7eb429d4871&c=198510300)  
-Little Nutty Professors
+![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=ac5348405ac1d8da2e6f4a329fd7f53f36fd51871f7c5783bed5135146cbef00&c=114453984)  
+Qothiphango Mining
+
+![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=ac5348405ac1d8da2e6f4a329fd7f53f36fd51871f7c5783bed5135146cbef00&c=119703964)  
+Roamfree Boerdery (PTY) LTD
+
+![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=ac5348405ac1d8da2e6f4a329fd7f53f36fd51871f7c5783bed5135146cbef00&c=29679139)  
+ELLIE'S CLEANING CHICKS
+
+![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=ac5348405ac1d8da2e6f4a329fd7f53f36fd51871f7c5783bed5135146cbef00&c=164341012)  
+Echo Recording Studio cc
+
+![valued client Meyer Towing & Recovery ](https://www.invoicesonline.co.za/scripts/image.php?bid=7983&file=logo_300_100&type=&fe=ac5348405ac1d8da2e6f4a329fd7f53f36fd51871f7c5783bed5135146cbef00&c=177131004)  
+Meyer Towing & Recovery
+
+![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=ac5348405ac1d8da2e6f4a329fd7f53f36fd51871f7c5783bed5135146cbef00&c=206850968)  
+Laurinda Pretorius Spraak en Drama Ateljee
+
+![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=ac5348405ac1d8da2e6f4a329fd7f53f36fd51871f7c5783bed5135146cbef00&c=92499752)  
+FJW Security Cc
+
+![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=ac5348405ac1d8da2e6f4a329fd7f53f36fd51871f7c5783bed5135146cbef00&c=214624477)  
+NIMAWELL
+
+![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=ac5348405ac1d8da2e6f4a329fd7f53f36fd51871f7c5783bed5135146cbef00&c=212060429)  
+NEW BEGINNINGS DESIGNS
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
