@@ -1,12 +1,12 @@
 [![](//www.genmobile.com/cdn/shop/files/GenMobile-logo-red-v2_400x.png?v=1649179654)](https://www.genmobile.com/ "Gen Mobile")
 
-[Cart (00)](https://www.genmobile.com/cart)
+[Cart (0)](https://www.genmobile.com/cart)
 
 [![](//www.genmobile.com/cdn/shop/files/GenMobile-logo-red-v2_400x.png?v=1649179654)](https://www.genmobile.com/ "Gen Mobile")
 
 Search   
 
-[Cart (00)](https://www.genmobile.com/cart)
+[Cart (0)](https://www.genmobile.com/cart)
 
 * [![](//www.genmobile.com/cdn/shop/files/GenMobile-logo-red-v2_400x.png?v=1649179654)](https://www.genmobile.com/ "Gen Mobile")
     
@@ -25,7 +25,7 @@ Search
     * [Contact Us](https://www.genmobile.com/pages/contact-us)
     * [Coverage](https://www.genmobile.com/pages/5g)
     * [Easy Pay](https://www.genmobile.com/pages/easypay)
-* [Cart (00)](https://www.genmobile.com/cart)
+* [Cart (0)](https://www.genmobile.com/cart)
     
 
 [MyAccount
@@ -41,7 +41,7 @@ Gen Mobile Consumer Policies & Privacy Notice
 
 ### **GEN MOBILE CONSUMER POLICIES & PRIVACY NOTICE**
 
-Version December 2023
+Version July 2024
 
 This Consumer Policies & Privacy Notice provide information about consumer protection, which includes Gen Mobile’s Privacy Notice, California Specific Privacy Policies, California Prepaid Mobile Telephony Service Surcharge, if applicable, and Customer Proprietary Network Information (“CPNI”) Policy (collectively, the “Notice”).
 
@@ -57,7 +57,7 @@ If you have any questions or concerns about the Notice, you may contact Gen Mobi
 
 Gen Mobile reserves the sole right to make updates to these Notice. Please revisit www.genmobile.com for updates. If any changes are made, Gen Mobile will revise the effective date of these Policies.
 
-### **PRIVACY POLICY**
+**PRIVACY POLICY**
 
 **Gen Mobile is Committed to Protecting Your Privacy**
 
@@ -65,7 +65,7 @@ Gen Mobile takes your privacy seriously and is dedicated to providing its custom
 
 **California Notice at Collection** 
 
-We collect the categories of personal information (as defined in the California Consumer Privacy Act (CCPA)) listed in the table below.
+We collect the categories of personal information (as defined in the California Consumer Privacy Act (CCPA)) listed in the table below. 
 
 |     |     |
 | --- | --- |
@@ -80,11 +80,11 @@ We collect the categories of personal information (as defined in the California 
 | Professional or employment-related information, including employment status and history. | No  |
 | Education information, including education history. | No  |
 | Inferences, meaning inferences drawn from any of the information in the above-listed categories of information to create profiles about consumers. | Yes |
-| Sensitive personal information, including account log-in information in combination with passwords and information revealing consumers’ racial or ethnic origin. | No  |
+| Sensitive personal information, including account log-in information in combination with passwords. | No  |
 
 As further described in this Notice, we generally collect and use the above-listed categories of personal information to provide and manage the Services and achieve legitimate business or commercial purposes. 
 
-As noted in the table above, we “sell” or “share” (as these terms are defined in the CCPA) certain categories of personal information, and you may exercise your right to opt out of such disclosures by clicking the “Your Privacy Choices” link in the footer of our website www.genmobile.com and following the instructions. 
+As noted in the table above, we “sell” or “share” (as these terms are defined in the CCPA) certain categories of personal information, and you may exercise your right to opt out of such disclosures by following the instructions provided in the footer link at https://www.genmobile.com/pages/your-privacy-choice.
 
 We retain each category of personal information that we collect for as long as necessary to fulfill the purposes described in this Notice, including to satisfy legal or reporting requirements. 
 
@@ -162,7 +162,7 @@ Gen Mobile will collect, disclose, and protect your personal information via MyG
 
 Gen Mobile does not intentionally or knowingly collect information from, market to, or solicit information online from children under the age of 13 without first obtaining legal guardian or parental consent. Gen Mobile encourages legal guardians or parents to be involved with their children's online activities to ensure no information is collected from a child without legal guardian or parental consent. If a legal guardian or parent authorizes a child to use Gen Mobile’s products and/or services by providing them with a device associated with an active account, any information acquired as a result of such use will be treated as the legal guardian’s or parent’s information in accordance with this Notice.
 
-### **CUSTOMER CHOICE AND CONTROL**
+**CUSTOMER CHOICE AND CONTROL**
 
 **Accessing Your Information**
 
@@ -184,11 +184,11 @@ The Federal Trade Commission’s “Do Not Call” laws allow customers to place
 
 Gen Mobile follows the CCWS established by the Cellular Telecommunications & Internet Association (“CTIA”). CTIA and the wireless carriers adhering to the CCWS have made a voluntary commitment to help consumers make informed choices when selecting their wireless service. For information about the voluntary guidelines included in the CCWS, please visit CTIA’s website at www.ctia.org/the-wireless-industry/industry-commitments/consumer-code-for-wireless-service.
 
-### **STATE PRIVACY RIGHTS**
+**STATE PRIVACY RIGHTS**
 
-**California, Colorado, Connecticut, Utah and Virginia**
+**California, Colorado, Connecticut, Oregon, Texas, Utah and Virginia**
 
-California, Colorado, Connecticut, Utah and Virginia give residents the right to know what categories of personal information are collected about them and how it will be used, disclosed, and sold or shared. The purpose of this section of the Notice is to provide residents of these states with a description of our practices regarding the collection, use, disclosure, correction, deletion, and sale or sharing of personal information.
+California, Colorado, Connecticut, Oregon, Texas, Utah and Virginia give residents the right to know what categories of personal information are collected about them and how it will be used, disclosed, and sold or shared. The purpose of this section of the Notice is to provide residents of these states with a description of our practices regarding the collection, use, disclosure, correction, deletion, and sale or sharing of personal information.
 
 **Categories of personal information collected:**
 
@@ -208,7 +208,6 @@ We have collected the following categories of personal information about consume
 | Professional or employment-related information | Employment status and history | Account creation and facilitating usage of service |
 | Inferences drawn from any of the above information to create a profile about a consumer | Consumer preferences, characteristics, trends, and behavior | Development and optimization of Services, personalization, and internal marketing |
 | Sensitive personal information | A consumer's account log-in, financial account, debit card, or credit card number in combination with any required security or access code, password, or credentials allowing access to an account | Account creation/management |
-| Demographic information such as racial or ethnic origin and religion | Personalization and marketing |
 | Precise Geolocation | Provision, development, and optimization of our Services |
 
 **Categories of personal information sold or shared:**
@@ -230,13 +229,15 @@ There are a number of circumstances where we disclose personal information to co
 
 **Your Data Rights:**
 
-Residents of California, Colorado, Connecticut, Utah, and Virginia have the right to request certain actions with respect to their personal information. Residents of these states may:
+Residents of California, Colorado, Connecticut, Oregon, Texas, Utah, and Virginia have the right to request certain actions with respect to their personal information. Residents of these states may:
 
 * Request that we disclose what categories and specific pieces of personal information we collected about you in the preceding 12 months, the business purposes for such collection, the categories of sources from which we collected the information, the categories of personal information we sold or disclosed for a business purpose, and the categories of recipients of such information
 * Request deletion of any personal information about you that we have collected from you subject to certain legal exceptions
 * Correct inaccuracies of any personal information about you we have collected from you
 * Opt-out of the sale or sharing of your personal information, or of targeted advertising 
 * Appeal the denial of any of your access requests
+
+Residents of Oregon may request a list of specific third parties with which we have shared any personal data.
 
 If you choose to exercise these rights, you will not receive discriminatory treatment by us for your exercise of your rights.
 
@@ -260,7 +261,7 @@ Please note that we may not be required to delete information under certain circ
 
 You can designate an authorized agent to make a request to know, delete, correct, or opt-out on your behalf. When you use an authorized agent to submit a request for access or deletion, you must provide the authorized agent with written permission to do so, and, in certain circumstances, we may ask you to verify your own identity directly with us. We may deny a request from an authorized agent that does not submit proof that they have been authorized by you to act on your behalf.
 
-#### **California**
+**California**
 
 **California Web Site Data Collection & “Do Not Track” Notices**
 
@@ -268,11 +269,11 @@ Gen Mobile does not knowingly allow third-parties to collect personally identifi
 
 California customers who wish to request more information about Gen Mobile’s compliance with these requirements, or who have questions or concerns about our privacy practices and policies, may contact us via e-mail at genmobilelegal@dish.com.
 
-#### **Nevada**
+**Nevada**
 
 Nevada law permits Nevada residents to make certain requests about how their personal information is shared with third parties or affiliated companies. To make such a request, please visit our Privacy Portal at [www.genmobile.com/pages/your-privacy-choice](http://www.genmobile.com/pages/your-privacy-choice).
 
-### **IMPORTANT NOTICE FOR CALIFORNIA PREPAID WIRELESS CUSTOMERS**
+**IMPORTANT NOTICE FOR CALIFORNIA PREPAID WIRELESS CUSTOMERS**
 
 **Court Decision**
 
@@ -301,7 +302,7 @@ To better understand your total charges since the invalidation of the Act, here 
 
 For more information please go to the [CDTFA’s website](https://www.cdtfa.ca.gov/industry/prepaid-mts-surcharge.htm) or you may contact Customer Care by calling at 833-528-1380 or dialing 611 from your device on the Gen Mobile network.
 
-### **CUSTOMER PROPRIETARY NETWORK INFORMATION (“CPNI”) POLICY**
+**CUSTOMER PROPRIETARY NETWORK INFORMATION (“CPNI”) POLICY**
 
 **Your Privacy is Very Important to Gen Mobile**
 
@@ -349,11 +350,11 @@ SHOP
 
 SERVICE FEATURES
 
-* [What is 5G](https://www.genmobile.com/pages/5g#whatis5g)
+* [5G Coverage](https://www.genmobile.com/pages/5g#whatis5g)
 * [Affordable Connectivity Program](https://www.genmobile.com/pages/acp)
 * [Lifeline](https://www.genmobile.com/pages/lifeline-program)
-* [Coverage](https://www.genmobile.com/pages/5g)
 * [Call Mexico](https://www.genmobile.com/pages/call-international-mexico)
+* [Call Canada](https://www.genmobile.com/pages/buy-prepaid-phone-card-to-call-canada)
 * [Call China](https://www.genmobile.com/pages/buy-prepaid-phone-card-to-call-china)
 * [Call India](https://www.genmobile.com/pages/buy-prepaid-phone-card-to-call-india)
 
@@ -361,7 +362,6 @@ OUR COMPANY
 
 * [About Us](https://www.genmobile.com/pages/about-us)
 * [Why Gen](https://www.genmobile.com/pages/why-gen-mobile)
-* [Dish Wireless](https://www.dishwireless.com/home)
 * [Blog](https://www.genmobile.com/blogs/news)
 * [Become a Dealer](https://www.genmobile.com/pages/dealer)
 * [Become an Affiliate](https://www.genmobile.com/pages/affiliate-program)
@@ -395,7 +395,7 @@ SUPPORT
 * [Your Privacy Choices![](https://cdn.shopify.com/s/files/1/2954/7774/files/Checkbox_3.svg?v=1680889787)](https://www.genmobile.com/pages/your-privacy-choice)
 * [Do Not Contact](https://www.genmobile.com/pages/do-not-contact)
 
-© 2024 DISH Wireless, L.L.C. All rights reserved
+© 2024 Gen Mobile, a division of DISH Wireless, L.L.C. All rights reserved
 
   
   
