@@ -1173,8 +1173,6 @@ Wohlbefinden & Pflege
 
 [Natrol](https://de.iherb.com/c/natrol)
 
-SALE
-
 [Natural Factors](https://de.iherb.com/c/natural-factors)
 
 [Nature's Bounty](https://de.iherb.com/c/nature-s-bounty)
@@ -1185,8 +1183,6 @@ SALE
 
 [NeoCell](https://de.iherb.com/c/neocell)
 
-SALE
-
 [Nordic Naturals](https://de.iherb.com/c/nordic-naturals)
 
 [NOW Foods](https://de.iherb.com/c/now-foods)
@@ -1196,8 +1192,6 @@ SALE
 [Optimum Nutrition](https://de.iherb.com/c/optimum-nutrition)
 
 [Paradise Herbs](https://de.iherb.com/c/paradise-herbs)
-
-SALE
 
 [Professional Brands](https://de.iherb.com/cl/professional-brands)
 
@@ -1212,6 +1206,8 @@ SALE
 [Source Naturals](https://de.iherb.com/c/source-naturals)
 
 [Sports Research](https://de.iherb.com/c/sports-research)
+
+SALE
 
 [Super Nutrition](https://de.iherb.com/c/super-nutrition)
 
@@ -1231,25 +1227,25 @@ SALE
 
 Marken der Woche
 
-[![](https://s3.images-iherb.com/brand/logo/NTL/1658267562.png)](https://de.iherb.com/c/natrol)
+[![](https://s3.images-iherb.com/brand/logo/AUN/1657045451.png)](https://de.iherb.com/c/aurora-nutrascience)
 
-[![](https://s3.images-iherb.com/brand/logo/RLT/1658257432.png)](https://de.iherb.com/c/rainbow-light)
+[![](https://s3.images-iherb.com/brand/logo/FHH/1676394712.png)](https://de.iherb.com/c/fairhaven-health)
 
-[![](https://s3.images-iherb.com/brand/logo/PAR/1652389975.png)](https://de.iherb.com/c/paradise-herbs)
+[![](https://s3.images-iherb.com/brand/logo/MHN/1683728977.png)](https://de.iherb.com/c/michaels-naturopathic)
 
-[![](https://s3.images-iherb.com/brand/logo/ZHO/1656433384.png)](https://de.iherb.com/c/zhou-nutrition)
+[![](https://s3.images-iherb.com/brand/logo/MTE/1712158458.png)](https://de.iherb.com/c/martha-stewart-wellness)
 
-[![](https://s3.images-iherb.com/brand/logo/NEL/1658357613.png)](https://de.iherb.com/c/neocell)
+[![](https://s3.images-iherb.com/brand/logo/NTC/1661531120.png)](https://de.iherb.com/c/naturalcare)
 
 [Alle anzeigen](https://de.iherb.com/c/brands-of-the-week)
 
 [Specials](https://de.iherb.com/specials)[Neu](https://de.iherb.com/new-products)[Ausprobieren](https://de.iherb.com/trial-pricing)[Bestseller](https://de.iherb.com/catalog/topsellers)
 
-[\-28% auf Antioxidantien
+[\-28% auf Körperpflege
 
  
 
-‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/antioxidants?pcode=28ANTIOX)
+‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/body-care?pcode=28BODY)
 
       
 
