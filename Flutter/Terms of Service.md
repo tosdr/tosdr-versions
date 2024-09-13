@@ -12,6 +12,7 @@ _menu_ [![Flutter logo](/assets/images/branding/flutter/logo+text/horizontal/def
     * [Write your first app](https://flutter.dev/get-started/codelab)
     * [Learn more](https://flutter.dev/get-started/learn-more)
     
+    * [Where to get Flutter support](https://flutter.dev/resources/support)
     * [From another platform?](https://flutter.dev/get-started/flutter-for)
         * [Flutter for Android devs](https://flutter.dev/get-started/flutter-for/android-devs)
         * [Flutter for SwiftUI devs](https://flutter.dev/get-started/flutter-for/swiftui-devs)
@@ -64,6 +65,7 @@ _menu_ [![Flutter logo](/assets/images/branding/flutter/logo+text/horizontal/def
             * [Add AdMob ads to your Flutter app](https://codelabs.developers.google.com/codelabs/admob-ads-in-flutter)
             * [Add an AdMob banner and native inline ads](https://codelabs.developers.google.com/codelabs/admob-inline-ads-in-flutter)
             * [Google AdMob mediation](https://developers.google.com/admob/flutter/mediation)
+            * [Interactive Media Ads SDK](https://pub.dev/packages/interactive_media_ads)
         * [In-app purchases](#header-sidenav-4-4-2)
             * [In-app purchases overview](https://flutter.dev/resources/in-app-purchases-overview)
             * [Add in-app purchases](https://codelabs.developers.google.com/codelabs/flutter-in-app-purchases)
@@ -227,10 +229,12 @@ _menu_ [![Flutter logo](/assets/images/branding/flutter/logo+text/horizontal/def
         * [Add web as build target](https://flutter.dev/platform-integration/web/install-web)
         * [Build a web app](https://flutter.dev/platform-integration/web/building)
         * [WebAssembly](https://flutter.dev/platform-integration/web/wasm)
-        * [Web FAQ](https://flutter.dev/platform-integration/web/faq)
-        * [Web renderers](https://flutter.dev/platform-integration/web/renderers)
         * [Customize app initialization](https://flutter.dev/platform-integration/web/initialization)
+        * [Embedding Flutter web](https://flutter.dev/platform-integration/web/embedding-flutter-web)
+        * [Web content in Flutter](https://flutter.dev/platform-integration/web/web-content-in-flutter)
+        * [Web renderers](https://flutter.dev/platform-integration/web/renderers)
         * [Display images on the web](https://flutter.dev/platform-integration/web/web-images)
+        * [Web FAQ](https://flutter.dev/platform-integration/web/faq)
     * [Windows](https://flutter.dev/platform-integration/windows)
         * [Add Windows as build target](https://flutter.dev/platform-integration/windows/install-windows)
         * [Build a Windows app](https://flutter.dev/platform-integration/windows/building)
@@ -303,6 +307,7 @@ _menu_ [![Flutter logo](/assets/images/branding/flutter/logo+text/horizontal/def
     * [Add to an iOS app](https://flutter.dev/add-to-app/ios)
         * [Set up iOS project](https://flutter.dev/add-to-app/ios/project-setup)
         * [Add a single Flutter screen](https://flutter.dev/add-to-app/ios/add-flutter-screen)
+    * [Add to a web app](https://flutter.dev/platform-integration/web/embedding-flutter-web)
     * [Debug embedded Flutter module](https://flutter.dev/add-to-app/debugging)
     * [Add multiple Flutter instances](https://flutter.dev/add-to-app/multiple-flutters)
     * [Loading sequence and performance](https://flutter.dev/add-to-app/performance)
@@ -376,7 +381,7 @@ _menu_ [![Flutter logo](/assets/images/branding/flutter/logo+text/horizontal/def
 
 [Get started](https://flutter.dev/get-started/install/)
 
-[Flutter 3.22 and Dart 3.4](https://medium.com/flutter/io24-5e211f708a37) are live! Check out [what's new](https://flutter.dev/release/whats-new) on the website.
+[Flutter 3.24 and Dart 3.5](https://medium.com/flutter/flutter-3-24-dart-3-5-204b7d20c45d) are here! Check out [what's new](https://flutter.dev/release/whats-new) on the website.
 
 * [Get started](#fixed-sidenav-1)
     * [Install Flutter](https://flutter.dev/get-started/install)
@@ -384,6 +389,7 @@ _menu_ [![Flutter logo](/assets/images/branding/flutter/logo+text/horizontal/def
     * [Write your first app](https://flutter.dev/get-started/codelab)
     * [Learn more](https://flutter.dev/get-started/learn-more)
     
+    * [Where to get Flutter support](https://flutter.dev/resources/support)
     * [From another platform?](https://flutter.dev/get-started/flutter-for)
         * [Flutter for Android devs](https://flutter.dev/get-started/flutter-for/android-devs)
         * [Flutter for SwiftUI devs](https://flutter.dev/get-started/flutter-for/swiftui-devs)
@@ -436,6 +442,7 @@ _menu_ [![Flutter logo](/assets/images/branding/flutter/logo+text/horizontal/def
             * [Add AdMob ads to your Flutter app](https://codelabs.developers.google.com/codelabs/admob-ads-in-flutter)
             * [Add an AdMob banner and native inline ads](https://codelabs.developers.google.com/codelabs/admob-inline-ads-in-flutter)
             * [Google AdMob mediation](https://developers.google.com/admob/flutter/mediation)
+            * [Interactive Media Ads SDK](https://pub.dev/packages/interactive_media_ads)
         * [In-app purchases](#fixed-sidenav-4-4-2)
             * [In-app purchases overview](https://flutter.dev/resources/in-app-purchases-overview)
             * [Add in-app purchases](https://codelabs.developers.google.com/codelabs/flutter-in-app-purchases)
@@ -599,10 +606,12 @@ _menu_ [![Flutter logo](/assets/images/branding/flutter/logo+text/horizontal/def
         * [Add web as build target](https://flutter.dev/platform-integration/web/install-web)
         * [Build a web app](https://flutter.dev/platform-integration/web/building)
         * [WebAssembly](https://flutter.dev/platform-integration/web/wasm)
-        * [Web FAQ](https://flutter.dev/platform-integration/web/faq)
-        * [Web renderers](https://flutter.dev/platform-integration/web/renderers)
         * [Customize app initialization](https://flutter.dev/platform-integration/web/initialization)
+        * [Embedding Flutter web](https://flutter.dev/platform-integration/web/embedding-flutter-web)
+        * [Web content in Flutter](https://flutter.dev/platform-integration/web/web-content-in-flutter)
+        * [Web renderers](https://flutter.dev/platform-integration/web/renderers)
         * [Display images on the web](https://flutter.dev/platform-integration/web/web-images)
+        * [Web FAQ](https://flutter.dev/platform-integration/web/faq)
     * [Windows](https://flutter.dev/platform-integration/windows)
         * [Add Windows as build target](https://flutter.dev/platform-integration/windows/install-windows)
         * [Build a Windows app](https://flutter.dev/platform-integration/windows/building)
@@ -675,6 +684,7 @@ _menu_ [![Flutter logo](/assets/images/branding/flutter/logo+text/horizontal/def
     * [Add to an iOS app](https://flutter.dev/add-to-app/ios)
         * [Set up iOS project](https://flutter.dev/add-to-app/ios/project-setup)
         * [Add a single Flutter screen](https://flutter.dev/add-to-app/ios/add-flutter-screen)
+    * [Add to a web app](https://flutter.dev/platform-integration/web/embedding-flutter-web)
     * [Debug embedded Flutter module](https://flutter.dev/add-to-app/debugging)
     * [Add multiple Flutter instances](https://flutter.dev/add-to-app/multiple-flutters)
     * [Loading sequence and performance](https://flutter.dev/add-to-app/performance)
@@ -737,7 +747,7 @@ As noted above, Google owns the Flutter trademarks, but we license them so they 
 
 At the same time, it's important to make sure that people don't use the marks in ways that could cause confusion or otherwise misuse the marks, so we have prepared [brand guidelines](https://flutter.dev/brand) that describe the allowed uses of the marks. Our goal in protecting the Flutter trademarks is to benefit the entire community by ensuring that the marks are only used in ways that are consistent with Google's mission to provide a free and open source SDK.
 
-Unless stated otherwise, the documentation on this site reflects the latest stable version of Flutter. Page last updated on 2024-06-05. [View source](https://github.com/flutter/website/tree/main/src/content/tos/index.md) or [report an issue](https://github.com/flutter/website/issues/new?template=1_page_issue.yml&&page-url=https://docs.flutter.dev/tos/&page-source=https://github.com/flutter/website/tree/main/src/content/tos/index.md "Report an issue with this page").
+Unless stated otherwise, the documentation on this site reflects the latest stable version of Flutter. Page last updated on 2024-09-11. [View source](https://github.com/flutter/website/tree/main/src/content/tos/index.md) or [report an issue](https://github.com/flutter/website/issues/new?template=1_page_issue.yml&&page-url=https://docs.flutter.dev/tos/&page-source=https://github.com/flutter/website/tree/main/src/content/tos/index.md "Report an issue with this page").
 
 ![Flutter Logo](/assets/images/branding/flutter/logo/flutter-mono-81x100.png)
 
