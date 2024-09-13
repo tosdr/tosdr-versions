@@ -168,31 +168,31 @@ You may contact us:
 * By email: [support@hide.me](mailto:support@hide.me)
 * By visiting this page on our website: [https://hide.me/support](https://hide.me/support)
 
-### Products
+Products
 
 [VPN for Windows](https://hide.me/en/software/windows) [VPN for macOS](https://hide.me/en/software/mac) [VPN for Android](https://hide.me/en/software/android) [VPN for iPhone / iPad](https://hide.me/en/software/ios) [VPN for Linux](https://hide.me/en/software/linux) [VPN for Amazon Fire TV](https://hide.me/en/software/amazon-fire-vpn) [VPN for Chrome](https://hide.me/en/software/chrome-vpn) [VPN for Firefox](https://hide.me/en/software/firefox-vpn) [VPN for Edge](https://hide.me/en/software/edge-vpn) [Free VPN](https://hide.me/en/free-vpn) [Free Proxy](https://hide.me/en/proxy)
 
-### Learn more
+Learn more
 
 [What is a VPN?](https://hide.me/en/what-is-vpn) [Hide IP Address](https://hide.me/en/hide-ip-address) [Our VPN Protocols](https://hide.me/en/features/vpn-protocols) [Bolt - Fast Proxy](https://hide.me/en/bolt-fastest-vpn) [Multihop](https://hide.me/en/multihop-double-vpn)
 
-### Tools
+Tools
 
 [DNS Leak Test](https://hide.me/en/dns-leak-test) [Password Generator](https://hide.me/en/password-generator) [WebRTC Leak Test](https://hide.me/en/webrtc-leak-test) [What is My IP?](https://hide.me/check) [VPN Setup Guide](https://hide.me/en/vpnsetup/)
 
-### About
+About
 
 [Blog](https://hide.me/en/blog/) [Community](https://community.hide.me/) [Our Mission](https://hide.me/en/about) [Press](https://hide.me/en/press) [Privacy Policy](https://hide.me/en/privacy) [Terms of Service](https://hide.me/en/legal) [VPN Reviews](https://hide.me/en/reviews)
 
-### Partners
+Partners
 
-[Affiliates](https://hide.me/en/affiliates) [Business](https://hide.me/en/business) [Reseller](https://hide.me/en/reseller) [Student Discount](https://hide-me-uk.connect.studentbeans.com/uk)
+[Affiliates](https://hide.me/en/affiliates) [Business](https://hide.me/en/business) [Reseller](https://hide.me/en/reseller)
 
-### Follow Us
+Follow Us
 
 [Twitter](https://x.com/thevpncompany "Twitter") [TikTok](https://www.tiktok.com/@hide.me_uk "TikTok") [Reddit](https://www.reddit.com/r/hidemeVPN/ "Reddit") [Discord](https://hide.me/discord "Discord") [Facebook](https://www.facebook.com/www.hide.me "Facebook") [YouTube](https://www.youtube.com/channel/UCaK_HWlsCg5hSVi5BTlgv6w "YouTube")
 
-### Language
+Language
 
 العَرَبِية Bahasa Indonesia Deutsch English Español Français Hrvatski Italiano 日本語 Język polski Nederlands Português ру́сский Türkçe
 
