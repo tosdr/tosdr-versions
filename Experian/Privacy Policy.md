@@ -440,13 +440,33 @@ Experian may periodically change its privacy policies as new products and servic
 
 Recent updates to any Experian U.S. privacy policy will be posted to this section.
 
-**Updated:February 9, 2023**
+**Updated: August 28, 2024**
 
-Removed Data Select Policy due to decomissioning of the product
+Published Experian Marketing Solutions Data Practices Notice
+
+**Updated: June 28, 2024**
+
+Updated the U.S. Consumer Data Privacy Policy
+
+**Updated: November 3, 2023**
+
+Refreshed EU-U.S. Data Privacy Framework Privacy Notice to include CSID
+
+**Updated: September 5, 2023**
+
+Updated CCPA Privacy Policy to U.S. Consumer Data Privacy Policy
 
 **Updated: February 28, 2023**
 
 ConsumerInfo.com, Inc. Policy
+
+**Updated: February 9, 2023**
+
+Removed Data Select Policy due to decomissioning of the product
+
+**Updated: February 7, 2023**
+
+Updated sharing of personal information in Autocheck privacy policy
 
 **Updated: July 7, 2022**
 
@@ -459,100 +479,6 @@ CSID Privacy Policy
 **Updated: March 1, 2019**
 
 Updated the U.S.- EU Privacy Shield Privacy Policy to include the application of the policy to the United Kingdom.
-
-**Updated: October 15, 2018**
-
-Modified URL link for the independent dispute resolution mechanism in the U.S.- EU Privacy Shield Privacy Policy.
-
-**Updated: May 15, 2018**
-
-Experian U.S.- EU Privacy Shield Privacy Policy added to the Experian.com website.
-
-**Updated: June 17, 2015**
-
-Updated Hitwise Privacy Policy to now include information about data collected through partnerships.
-
-**Updated: May 14, 2015**
-
-Updated Opting Out page and subpages Direct Mail and Telemarketing to now include information on online advertising and introduced a new page, Request Experian Marketing Data Report.
-
-**Updated: August 26, 2011**
-
-Experian ConnectSM
-
-**Updated: October 16, 2009**
-
-The AutoCount privacy policy.
-
-**Updated: January 28, 2009**
-
-The Experian Small Business privacy policy was added.  
-
-**Updated: October 31, 2008**
-
-The AutoCount privacy policy.  
-
-**Updated: July 22, 2007**
-
-The Online Personal Credit Reports policy was updated.  
-
-**Updated: July 18, 2007**
-
-Autocheck privacy policy updated integrating commercial and consumer policies and enhancements to non-personal information uses.  
-
-**Updated: June 8, 2007**
-
-The AutoCount consumer privacy policy was added.  
-
-**Updated: January 20, 2006**
-
-The AutoCheck consumer privacy policy has been updated. Changes include revisions to the Information Collection and Uses section, and the addition of information on how Experian uses Web site 'cookies'. Web Log Information has also been replaced with the Web site Analysis section which further defines our Web site measurement practices.
-
-**Updated: July 1, 2004**
-
-In the "Permission email" section, language was updated to outline how email addresses are shared and used.
-
-The AutoCheck® Vehicle History Report privacy policy has been updated.
-
-Contact information for questions regarding the privacy policy was updated.
-
-**Updated: August 28, 2003**
-
-The Auto Prospect Online privacy policy was added.
-
-**Updated: June 12, 2003**
-
-The AutoCheck privacy policy was updated for consumers, and a privacy policy for commercial users has been created. In each, Experian identifies the use of a credit card processing company. In the commercial, Experian retains the commercial users' credit card information for billing purposes only.
-
-**Updated: March 11, 2003**
-
-The Online Personal Credit Reports policy was updated to state that information other than credit report information may be used for authentication.
-
-**Updated: March 7, 2003**
-
-ePIN+ is a Web-based relational database system for reporting relevant delivery status about a piece of mail as it moves through the U.S. Postal Service® delivery network, either on its way to a consumer's mailbox, or from an individual delivery point back to a remittance or other service facility.
-
-**Updated: February 26, 2003**
-
-Within the U.S. section of www.experian.com Web logs and cookies are used to collect aggregated statistics about Web site visitors so that we can better understand what areas of our Web site are of interest to you. This technology does not track any individually identifiable information, but rather records your Web site visit anonymously.
-
-**Updated: February 10, 2003**
-
-The Opting out of Direct Mail and Opting out of Telemarketing sections of Experian's privacy policy were updated to reflect a new telephone number to contact Experian.
-
-**Updated: October 23, 2002**
-
-Experian's product and service privacy section of our U.S. Web site was updated to add a privacy policy description for business-to-business Internet client registration. This application is for new and current subscribers serviced by Experian Information Solutions, Inc.
-
-**Updated: September 26, 2002**
-
-Experian's product and service privacy section of our U.S. Web site was updated to add a privacy policy description for List Link ExpressSM and List Link AdvancedSM business-to-business online prospecting tools of Experian Marketing Solutions, Inc.
-
-**Updated: March 8, 2002**
-
-Experian's Product and service privacy policies section of our U.S. Web site was updated to add a privacy policy description for AutoCheck, Experian's comprehensive vehicle history report service. Please visit our AutoCheck privacy policy for more information.
-
-Experian is a non-exclusive Full Service Provider Licensee of the USPS®. The prices established for these products are not established, controlled, or approved by the U.S. Government or the USPS. The following trademarks are owned by the USPS: U.S. Postal Service®
 
 Experian Privacy Policies
 -------------------------
@@ -576,6 +502,7 @@ The notices are clearly posted, either at the point of collection or through an 
 * [Experian Background Data, Inc.](https://www.experian.com/privacy/experian-background-data-inc "Experian Background Data, Inc. Privacy Policy")
 * [Experian EU-U.S. Data Privacy Framework Privacy Policy](https://www.experian.com/privacy/eu-us-data-privacy-framework-privacy-notice "Experian EU-U.S. Data Privacy Framework Privacy Policy")
 * [Experian Connect](https://www.experian.com/privacy/experian-connect "Experian Connect Privacy Policy")
+* [Experian Marketing Solutions - Data Practices Notice](https://www.experian.com/privacy/marketing-data-practices-and-policies "EMS Data Practices Notice") 
 * [Online Business Credit Reports](https://www.experian.com/privacy/online-small-business-credit-self-services "Online Business Credit Reports")
 * [Online Credit Reports](https://www.experian.com/privacy/online_credit_reports "Online Credit Reports Privacy Policy")
 * [Scorecard](https://www.experian.com/privacy/scorecard "Scorecard Privacy Policy")
