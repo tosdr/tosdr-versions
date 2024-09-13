@@ -371,6 +371,6 @@ Stay connected
 
 [](https://www.sanity.io/)
 
-©Sanity 2024
+© Sanity 2024
 
 Cookie preferences
