@@ -161,4 +161,4 @@ Our Accreditations:
 
 [](https://www.linkedin.com/company/eras)[](https://twitter.com/eras_ltd)
 
-© 2024 eras Ltd®. All rights reserved.
+[Privacy Policy](https://www.eras.co.uk/policies/privacy) Cookies Policy © 2024 eras Ltd®. All rights reserved.
