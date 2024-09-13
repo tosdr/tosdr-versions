@@ -12,6 +12,8 @@ Safe & Secure 100% secure and 24h support
 
 Super Fast instant digital download
 
+[Friday The 13th Slash Sale! 🎮 Shop Now](https://www.cdkeys.com/flash-sale)
+
 Toggle Nav[](https://www.cdkeys.com/)
 
 ![Super Fast](https://cdn.omn-it.net/media/icons/fast_2x.png)
@@ -43,9 +45,9 @@ Search
     * [POL](#)
     * [PRT](#)
     
-* [My Wish List ![](https://www.cdkeys.com/static/version1725958928/frontend/Medialounge/cdkeys/en_GB/images/icons/white/wishlist.svg)![](https://www.cdkeys.com/static/version1725958928/frontend/Medialounge/cdkeys/en_GB/images/icons/white/wishlist.svg)](https://www.cdkeys.com/wishlist/) 
+* [My Wish List ![](https://www.cdkeys.com/static/version1726038569/frontend/Medialounge/cdkeys/en_GB/images/icons/white/wishlist.svg)![](https://www.cdkeys.com/static/version1726038569/frontend/Medialounge/cdkeys/en_GB/images/icons/white/wishlist.svg)](https://www.cdkeys.com/wishlist/) 
 * 
-* [My Cart ![](https://www.cdkeys.com/static/version1725958928/frontend/Medialounge/cdkeys/en_GB/images/icons/white/basket.svg)![](https://www.cdkeys.com/static/version1725958928/frontend/Medialounge/cdkeys/en_GB/images/icons/white/basket.svg)](https://www.cdkeys.com/checkout/cart/) 
+* [My Cart ![](https://www.cdkeys.com/static/version1726038569/frontend/Medialounge/cdkeys/en_GB/images/icons/white/basket.svg)![](https://www.cdkeys.com/static/version1726038569/frontend/Medialounge/cdkeys/en_GB/images/icons/white/basket.svg)](https://www.cdkeys.com/checkout/cart/) 
     
 
 Menu
@@ -432,7 +434,7 @@ You acknowledge that you have read, understood, and accepted to be bound by thes
 
 ### We accept
 
-![Visa](https://www.cdkeys.com/static/version1725434787/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/visa.png) ![MasterCard](https://www.cdkeys.com/static/version1725434787/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/mastercard.png) ![Maestro](https://www.cdkeys.com/static/version1725434787/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/maestro.png) ![PayPal](https://www.cdkeys.com/static/version1725434787/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/paypal.png) ![Apple Pay](https://www.cdkeys.com/static/version1725434787/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/apple-pay.png) ![IDeal](https://www.cdkeys.com/static/version1725434787/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/ideal.svg) ![Sofort](https://www.cdkeys.com/static/version1725434787/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/sofort.png) ![Giro Pay](https://www.cdkeys.com/static/version1725434787/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/giropay.png) ![Bancontact](https://www.cdkeys.com/static/version1725434787/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/bancontact.svg) ![Pix](https://www.cdkeys.com/static/version1725434787/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/pix.svg) ![PromptPay](https://www.cdkeys.com/static/version1725434787/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/prompt-pay.svg) ![Blik](https://www.cdkeys.com/static/version1725434787/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/blik.svg) ![Crypto](https://www.cdkeys.com/static/version1725434787/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/crypto.svg)
+![Visa](https://www.cdkeys.com/static/version1726038569/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/visa.png) ![MasterCard](https://www.cdkeys.com/static/version1726038569/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/mastercard.png) ![Maestro](https://www.cdkeys.com/static/version1726038569/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/maestro.png) ![PayPal](https://www.cdkeys.com/static/version1726038569/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/paypal.png) ![Apple Pay](https://www.cdkeys.com/static/version1726038569/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/apple-pay.png) ![IDeal](https://www.cdkeys.com/static/version1726038569/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/ideal.svg) ![Sofort](https://www.cdkeys.com/static/version1726038569/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/sofort.png) ![Giro Pay](https://www.cdkeys.com/static/version1726038569/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/giropay.png) ![Bancontact](https://www.cdkeys.com/static/version1726038569/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/bancontact.svg) ![Pix](https://www.cdkeys.com/static/version1726038569/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/pix.svg) ![PromptPay](https://www.cdkeys.com/static/version1726038569/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/prompt-pay.svg) ![Blik](https://www.cdkeys.com/static/version1726038569/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/blik.svg) ![Crypto](https://www.cdkeys.com/static/version1726038569/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/crypto.svg)
 
 894K likes
 
@@ -444,47 +446,61 @@ No Payment Fees \- No Hidden Fees
 
 Copyright CDKeys.com 2024, all rights reserved
 
-By continuing to use this site you automatically accept our [privacy policy](https://www.cdkeys.com/privacy-policy/) and [terms and conditions](https://www.cdkeys.com/terms-conditions/).
-
-Allow Cookies
-
 You are seeing games that are valid in your region which is ‘%1’. If you want to see all games available click here
 
 To view games that are valid in your region ‘%1’, click here
 
-1.    [![The Sims 4: Lovestruck Expansion Pack PC/Mac](https://cdn.cdkeys.com/245x340/media/catalog/product/t/h/the_sims_4_lovestruck.jpg)   No 1. \-47%
+1.    [![ARMORED CORE VI FIRES OF RUBICON PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_21__3.jpg)   No 1. \-54%](https://www.cdkeys.com/pc/armored-core-vi-fires-of-rubicon-pc-steam)
     
-    DLC](https://www.cdkeys.com/pc/the-sims-4-lovestruck-pack-pc-dlc-ea-app)
+    **[ARMORED CORE VI FIRES OF RUBICON PC](https://www.cdkeys.com/pc/armored-core-vi-fires-of-rubicon-pc-steam "ARMORED CORE VI FIRES OF RUBICON PC")**
     
-    **[The Sims 4: Lovestruck Expansion Pack PC/Mac](https://www.cdkeys.com/pc/the-sims-4-lovestruck-pack-pc-dlc-ea-app "The Sims 4: Lovestruck Expansion Pack PC/Mac")**
-    
-    Special Price $23.69 RRP $44.69
+    Special Price $29.99 RRP $65.69
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-2.    [![Test Drive Unlimited Solar Crown - Gold Edition PC](https://cdn.cdkeys.com/245x340/media/catalog/product/t/e/test_drive_unlimited_solar_crown_-_gold_edition.jpg)   No 2. \-40%](https://www.cdkeys.com/pc/test-drive-unlimited-solar-crown-gold-edition-pc-steam)
+2.    [![Dying Light 2 Stay Human: Reloaded Edition PC](https://cdn.cdkeys.com/245x340/media/catalog/product/r/e/reloaded_edition.jpg)   No 2. \-70%](https://www.cdkeys.com/pc/dying-light-2-stay-human-reloaded-edition-pc-steam)
     
-    **[Test Drive Unlimited Solar Crown - Gold Edition PC](https://www.cdkeys.com/pc/test-drive-unlimited-solar-crown-gold-edition-pc-steam "Test Drive Unlimited Solar Crown - Gold Edition PC")**
+    **[Dying Light 2 Stay Human: Reloaded Edition PC](https://www.cdkeys.com/pc/dying-light-2-stay-human-reloaded-edition-pc-steam "Dying Light 2 Stay Human: Reloaded Edition PC")**
     
-    Special Price $54.99 RRP $91.99
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-3.    [![Grand Theft Auto Online (GTA V 5): Megalodon Shark Cash Card PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-11-28t153630.660.jpg)   No 3. \-72%](https://www.cdkeys.com/pc/grand-theft-auto-online-megalodon-shark-cash-card-pc)
-    
-    **[Grand Theft Auto Online (GTA V 5): Megalodon Shark Cash Card PC](https://www.cdkeys.com/pc/grand-theft-auto-online-megalodon-shark-cash-card-pc "Grand Theft Auto Online (GTA V 5): Megalodon Shark Cash Card PC")**
-    
-    Special Price $22.29 RRP $78.89
+    Special Price $17.99 RRP $59.19
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-4.    [![FINAL FANTASY XVI COMPLETE EDITION PC](https://cdn.cdkeys.com/245x340/media/catalog/product/f/i/final_fantasy_xvi_complete_edition.png)   No 4. \-28%
+3.    [![REKA PC](https://cdn.cdkeys.com/245x340/media/catalog/product/r/e/reka.png)   No 3. \-51%](https://www.cdkeys.com/pc/reka-pc-steam)
+    
+    **[REKA PC](https://www.cdkeys.com/pc/reka-pc-steam "REKA PC")**
+    
+    Special Price $12.89 RRP $26.29
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+4.    [![Squad PC ](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_21_.jpg)   No 4. \-52%](https://www.cdkeys.com/pc/squad-pc-steam)
+    
+    **[Squad PC](https://www.cdkeys.com/pc/squad-pc-steam "Squad PC ")**
+    
+    Special Price $26.29 RRP $52.59
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+5.    [![Kingdom Come: Deliverance Royal Edition PC](https://cdn.cdkeys.com/245x340/media/catalog/product/m/o/mordhau-button-01-1558657551015_4_.jpg)   No 5. \-90%](https://www.cdkeys.com/pc/kingdom-come-deliverance-royal-edition-steam-pc)
+    
+    **[Kingdom Come: Deliverance Royal Edition PC](https://www.cdkeys.com/pc/kingdom-come-deliverance-royal-edition-steam-pc "Kingdom Come: Deliverance Royal Edition PC")**
+    
+    Special Price $3.89 RRP $39.39
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+6.    [![FINAL FANTASY XVI COMPLETE EDITION PC](https://cdn.cdkeys.com/245x340/media/catalog/product/f/i/final_fantasy_xvi_complete_edition.png)   No 6. \-28%
     
     Pre-order](https://www.cdkeys.com/pc/final-fantasy-xvi-complete-edition-pc-steam)
     
@@ -496,31 +512,31 @@ To view games that are valid in your region ‘%1’, click here
     
      Buy Now
     
-5.    [![Warhammer 40,000: Space Marine 2 - Gold Edition PC](https://cdn.cdkeys.com/245x340/media/catalog/product/w/a/warhammer_40000_space_marine_2_-_gold_edition_2.jpg)   No 5. \-26%](https://www.cdkeys.com/pc/warhammer-40-000-space-marine-2-gold-edition-pc-steam)
+7.    [![Test Drive Unlimited Solar Crown PC](https://cdn.cdkeys.com/245x340/media/catalog/product/t/e/test_drive_unlimited_solar_crown.jpg)   No 7. \-44%](https://www.cdkeys.com/pc/test-drive-unlimited-solar-crown-pc-steam)
     
-    **[Warhammer 40,000: Space Marine 2 - Gold Edition PC](https://www.cdkeys.com/pc/warhammer-40-000-space-marine-2-gold-edition-pc-steam "Warhammer 40,000: Space Marine 2 - Gold Edition PC")**
+    **[Test Drive Unlimited Solar Crown PC](https://www.cdkeys.com/pc/test-drive-unlimited-solar-crown-pc-steam "Test Drive Unlimited Solar Crown PC")**
     
-    Special Price $77.99 RRP $105.19
+    Special Price $29.59 RRP $52.59
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-6.    [![Warhammer 40,000: Space Marine 2 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/6/9/69654.jpg)   No 6. \-28%](https://www.cdkeys.com/pc/warhammer-40-000-space-marine-2-pc-steam)
+8.    [![HELLDIVERS 2 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-09-18t175517.723.jpg)   No 8. \-31%](https://www.cdkeys.com/pc/helldivers-2-pc-steam)
+    
+    **[HELLDIVERS 2 PC](https://www.cdkeys.com/pc/helldivers-2-pc-steam "HELLDIVERS 2 PC")**
+    
+    Special Price $27.59 RRP $39.99
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+9.    [![Warhammer 40,000: Space Marine 2 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/6/9/69654.jpg)   No 9. \-28%](https://www.cdkeys.com/pc/warhammer-40-000-space-marine-2-pc-steam)
     
     **[Warhammer 40,000: Space Marine 2 PC](https://www.cdkeys.com/pc/warhammer-40-000-space-marine-2-pc-steam "Warhammer 40,000: Space Marine 2 PC")**
     
     Special Price $51.99 RRP $72.29
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-7.    [![Visions of Mana PC](https://cdn.cdkeys.com/245x340/media/catalog/product/v/i/visions_of_mana.jpg)   No 7. \-24%](https://www.cdkeys.com/pc/visions-of-mana-pc-steam)
-    
-    **[Visions of Mana PC](https://www.cdkeys.com/pc/visions-of-mana-pc-steam "Visions of Mana PC")**
-    
-    Special Price $49.99 RRP $65.69
     
     [Add to Wish List](# "Add to Wish List")
     
