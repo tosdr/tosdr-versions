@@ -86,7 +86,7 @@ Das Angebot von zeit.de können Sie entweder über einen kostenlosen, ausschlie�
 
 Nur wenn Sie sich aktiv für den kostenlosen Zugang entschieden haben, speichern und nutzen wir Cookies, Geräte-IDs und ähnliche Tracking-Technologien auf Endgeräten, um die Erhebung von Nutzungsdaten und deren pseudonymisierte Verarbeitung zu Nutzungsprofilen zum Zwecke einer nutzungsbasierten Werbeausspielung zu ermöglichen ("Werbetracking"). Dies geschieht, weil wir in diesem Fall unser Angebot mit Ihrer Einwilligung durch weitere, mittels Werbetracking optimierte Werbung finanzieren. Rechtsgrundlage der Datenverarbeitung ist dann Art. 6 Abs. 1 lit. a DSGVO
 
-Unabhängig von Ihrer Zustimmung zum Werbetracking werden jedoch auch im Pur-Abo weiterhin essentielle sowie für interne/allgemeine Nutzungsanalysen notwendige Cookies und Tracking-Technologien, insbesondere zur Reichweitenmessung und Funktionssicherung, genutzt. Hieran haben wir ein überwiegendes berechtigtes Interesse, Rechtsgrundlage ist DSGVO Art. 6 Abs. 1 lit. f DSGVO, sowie TTDSG §25 Abs. 2 Nr.2.
+Unabhängig von Ihrer Zustimmung zum Werbetracking werden jedoch auch im Pur-Abo weiterhin essentielle sowie für interne/allgemeine Nutzungsanalysen notwendige Cookies und Tracking-Technologien, insbesondere zur Reichweitenmessung und Funktionssicherung, genutzt. Hieran haben wir ein überwiegendes berechtigtes Interesse, Rechtsgrundlage ist DSGVO Art. 6 Abs. 1 lit. f DSGVO, sowie TDDDG §25 Abs. 2 Nr.2.
 
 Die Cookies im Einzelnen:
 
@@ -1169,6 +1169,13 @@ Die Installation von Cookies können Sie verhindern, indem Sie vorhandene Cookie
 Weitere Informationen des Drittanbieters zum Datenschutz können Sie der nachfolgenden Webseite von emetriq entnehmen: [https://www.emetriq.com/datenschutz/](https://www.emetriq.com/datenschutz/).
 
 [Zum Abschnittsanfang](#emetriq)
+
+### ID5 Technology Limited
+
+Auf unserer Webseite verwenden wir ID5, einen Dienst der ID5 Technology Limited. ID5 kann personenbezogene Daten oder andere Informationen, die wir von Ihnen erheben, an ID5 Technology Limited weitergeben, welche als Controller fungieren. Diese Informationen können u.a. Ihre E-Mail-Adresse (in gehashter, pseudonymer Form), Ihre IP-Adresse und/oder Informationen über Ihren Browser oder Ihr Betriebssystem umfassen. ID5 verwendet diese Informationen, um eine ID zu erstellen, mit der Sie auf Ihren Geräten erkannt werden können. Diese ID enthält keine Ihrer identifizierbaren persönlichen Daten. Wir können diese ID in unserem First-Party-Cookie platzieren oder ein ID5-Cookie verwenden und zulassen, dass sie für Online- und kanalübergreifende Werbung verwendet wird. Diese ID kann von uns oder in unserem Namen an unsere Werbepartner und andere Drittanbieter von Werbung weltweit weitergegeben werden, um interessenbasierte Inhalte und/oder gezielte Werbung in Ihrem gesamten Online-Erlebnis zu ermöglichen (z. B. Web, E-Mail, verbundene Geräte, In-App-Werbung usw.). Detaillierte Informationen zu den Datenverarbeitungsaktivitäten von ID5 im Zusammenhang mit dieser ID und dem Opt-out von ID5 finden Sie in der Datenschutzrichtlinie der ID5-Plattform hier: [https://id5.io/platform-privacy-policy](https://id5.io/platform-privacy-policy).  
+Wir setzen ID5 nur mit Ihrer Einwilligung ein, die sie jederzeit widerrufen können. Die entsprechende Datenverarbeitung beruht auf Art. 6 Abs. 1 lit. a) DSGVO sowie §25 Abs. 1 TDDDG. Die maximale Speicherdauer beträgt drei Monate.
+
+[Zum Abschnittsanfang](#is5 technology limited)
 
 ### Facebook Audiences Retargeting
 
