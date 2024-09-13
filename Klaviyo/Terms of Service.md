@@ -24,12 +24,6 @@
 * [](https://community.klaviyo.com/topic/new)
 * [](#)
 
-[](https://community.klaviyo.com/events/klaviyo-connect-bfcm-san-diego-223)
-
-Klaviyo Connect: BFCM (San Diego)
-
-(Tue, 10 Sept, 8:00 pm)
-
 * [Home](https://community.klaviyo.com/)
 * Terms
 
