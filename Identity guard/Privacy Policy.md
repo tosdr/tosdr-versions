@@ -8,7 +8,7 @@ Features
 
 ![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/6217a7163eefc57e4be4c560_chevron_down_small%20(1).svg)
 
-[Financial Fraud Protection](https://www.identityguard.com/credit-monitoring)[Identity Theft Protection](https://www.identityguard.com/identity-theft-protection)[Identity Theft Insurance](https://www.identityguard.com/identity-theft-insurance)[VPN & Online Privacy](https://www.identityguard.com/vpn)
+[Identity Theft Protection](https://www.identityguard.com/identity-theft-protection)[Identity Theft Insurance](https://www.identityguard.com/identity-theft-insurance)[Financial Fraud Protection](https://www.identityguard.com/credit-monitoring)[VPN & Online Privacy](https://www.identityguard.com/vpn)
 
 [Antivirus](https://www.identityguard.com/antivirus)[Password Manager & Vault](https://www.identityguard.com/password-manager)[Spam Call Protection](https://www.identityguard.com/spam-call-message-protection)[Parental Controls & Safe Gaming](https://www.identityguard.com/parental-controls)[Find Your Perfect Plan](https://my.aura.com/enrollment/v95/1?cc=a_pchp1)
 
@@ -26,7 +26,7 @@ Resources
 
 ![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/6217a7163eefc57e4be4c560_chevron_down_small%20(1).svg)
 
-[Customer Service](https://www.identityguard.com/customer-service)[FAQ](https://www.identityguard.com/faq)[Help](https://www.identityguard.com/help)[Resolution Resources](https://www.identityguard.com/resolution-resources)
+[Customer Service](https://www.identityguard.com/customer-service)[FAQ](https://www.identityguard.com/faq)[Help](https://help.aura.com/s/)[Resolution Resources](https://www.identityguard.com/resolution-resources)
 
 [Digital Security 101](https://www.identityguard.com/digital-security-101)[Newsroom](https://www.identityguard.com/press)[Partnerships](https://www.identityguard.com/partnerships)[Aura & AI](https://www.identityguard.com/ai)[Digital Parenthood](https://www.identityguard.com/digital-parenthood)
 
@@ -42,7 +42,7 @@ Expert advice and community support for parents.
 
 [](https://www.identityguard.com/)
 
-[Sign in](https://my.aura.com/sign-in)[Help](https://www.identityguard.com/help)
+[Sign in](https://my.aura.com/sign-in)[Help](https://help.aura.com/s/)
 
 [Start Free Trial](https://www.identityguard.com/pricing)
 
