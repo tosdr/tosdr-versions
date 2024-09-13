@@ -1,62 +1,63 @@
 [](https://girls.xyz/)
 
-2092 Connecté
+3257 Online
 
-[Connexion](https://girls.xyz/login) [Inscrivez-vous Gratuitement](https://girls.xyz/members/join)
+[Login](https://girls.xyz/login) [Join now for free](https://girls.xyz/members/join)
 
-[](https://en.girls.xyz/ "Anglais")[](https://fr.girls.xyz/ "Français")[](https://rt.girls.xyz/ "Russe")[](https://cz.girls.xyz/ "Tchèque")[](https://ee.girls.xyz/ "Estonien")[](https://lt.girls.xyz/ "Lituanien")[](https://bg.girls.xyz/ "Bulgare")[](https://lv.girls.xyz/ "Letton")[](https://pl.girls.xyz/ "Polonais")[](https://ua.girls.xyz/ "Ukrainien")[](https://fi.girls.xyz/ "Finlandais")[](https://rs.girls.xyz/ "Serbe")[](https://si.girls.xyz/ "Slovaque")[](https://dk.girls.xyz/ "Danois")[](https://no.girls.xyz/ "Norvégien")[](https://es.girls.xyz/ "Espagnol")[](https://se.girls.xyz/ "Suédois")[](https://gr.girls.xyz/ "Grecque")[](https://hu.girls.xyz/ "Hongrois")[](https://sk.girls.xyz/ "Slovaque")[](https://ro.girls.xyz/ "Roumain")[](https://pt.girls.xyz/ "Portugais")[](https://hr.girls.xyz/ "Croate")[](https://fr.girls.xyz/ "Français")[](https://it.girls.xyz/ "Italien")[](https://de.girls.xyz/ "Allemand")[](https://mk.girls.xyz/ "Macédonien")[](https://nl.girls.xyz/ "Hollandais")[](https://tr.girls.xyz/ "Turque")[](https://cn.girls.xyz/ "Chinois")[](https://kr.girls.xyz/ "Coréen")[](https://jp.girls.xyz/ "Japonais")[](https://in.girls.xyz/ "Hindi")[](https://pt.girls.xyz/ "Portugais")[](https://ar.girls.xyz/ "Arabe")[](https://il.girls.xyz/ "Hébreu")
+[](https://en.girls.xyz/ "English")[](https://fr.girls.xyz/ "French")[](https://rt.girls.xyz/ "Russian")[](https://cz.girls.xyz/ "Czech")[](https://ee.girls.xyz/ "Estonian")[](https://lt.girls.xyz/ "Lithuanian")[](https://bg.girls.xyz/ "Bulgarian")[](https://lv.girls.xyz/ "Latvian")[](https://pl.girls.xyz/ "Polish")[](https://ua.girls.xyz/ "Ukrainian")[](https://fi.girls.xyz/ "Finnish")[](https://rs.girls.xyz/ "Serbian")[](https://si.girls.xyz/ "Slovenian")[](https://dk.girls.xyz/ "Danish")[](https://no.girls.xyz/ "Norwegian")[](https://es.girls.xyz/ "Spanish")[](https://se.girls.xyz/ "Swedish")[](https://gr.girls.xyz/ "Greek")[](https://hu.girls.xyz/ "Hungarian")[](https://sk.girls.xyz/ "Slovakian")[](https://ro.girls.xyz/ "Romanian")[](https://pt.girls.xyz/ "Portuguese")[](https://hr.girls.xyz/ "Croatian")[](https://fr.girls.xyz/ "French")[](https://it.girls.xyz/ "Italian")[](https://de.girls.xyz/ "German")[](https://mk.girls.xyz/ "Macedonian")[](https://nl.girls.xyz/ "Dutch")[](https://tr.girls.xyz/ "Turkish")[](https://cn.girls.xyz/ "Chinese")[](https://kr.girls.xyz/ "Korean")[](https://jp.girls.xyz/ "Japanese")[](https://in.girls.xyz/ "Hindi")[](https://pt.girls.xyz/ "Portuguese")[](https://ar.girls.xyz/ "Arabic")[](https://il.girls.xyz/ "Hebrew")
 
-[Tous les modèles](https://girls.xyz/all-models)
+[All models](https://girls.xyz/all-models)
 
-Catégories
+Categories
 
-* [Anal (607 Live)](https://girls.xyz/anal)
-* [Arabe (4 Live)](https://girls.xyz/arabe)
-* [Asiatique (75 Live)](https://girls.xyz/asiatique)
-* [Belles et rondes (102 Live)](https://girls.xyz/belles-et-rondes)
-* [Blacks (148 Live)](https://girls.xyz/blacks)
-* [Blanches (736 Live)](https://girls.xyz/blanches)
-* [Blondes (295 Live)](https://girls.xyz/blonde)
-* [Brunes (820 Live)](https://girls.xyz/brune)
-* [Chattes poilues (136 Live)](https://girls.xyz/chattes-poilues)
-* [Chattes rasées (910 Live)](https://girls.xyz/chattes-ras%C3%A9es)
-* [Enceintes (1 Live)](https://girls.xyz/enceintes)
-* [Etudiantes (357 Live)](https://girls.xyz/lyc%C3%A9ennes)
-* [Femmes au Foyer (464 Live)](https://girls.xyz/femmes-au-foyer)
-* [Femmes fontaines (648 Live)](https://girls.xyz/squirting)
-* [Femmes mûres (328 Live)](https://girls.xyz/femmes-m%C3%BBres)
-* [Fetiche (909 Live)](https://girls.xyz/fetiche)
-* [Fumeuses (17 Live)](https://girls.xyz/fumeuses)
-* [Gros cul (571 Live)](https://girls.xyz/gros-cul)
-* [Gros seins (440 Live)](https://girls.xyz/gros-seins)
-* [Gros Seins (92 Live)](https://girls.xyz/seins-enormes)
-* [Grosses (266 Live)](https://girls.xyz/grosses)
-* [Indienne (10 Live)](https://girls.xyz/indienne)
-* [Jeunes 18+ (357 Live)](https://girls.xyz/ados-18)
-* [Jouets sexuels (909 Live)](https://girls.xyz/jouets)
-* [Latinas (303 Live)](https://girls.xyz/latinas)
-* [Lesbiennes (16 Live)](https://girls.xyz/lesbi%C3%A8nes)
-* [Minettes (591 Live)](https://girls.xyz/babes)
-* [Musclé (32 Live)](https://girls.xyz/muscl%C3%A9)
-* [Petite (116 Live)](https://girls.xyz/petite)
-* [Petits seins (215 Live)](https://girls.xyz/petits-seins)
-* [Pornstar (2 Live)](https://girls.xyz/stars-du-porno)
-* [Rousses (161 Live)](https://girls.xyz/rousses)
-* [Seins moyens (529 Live)](https://girls.xyz/seins-moyens)
-* [Sexe en Groupe (0 Live)](https://girls.xyz/sexe-en-groupe)
-* [SM (215 Live)](https://girls.xyz/sm)
-* [Vieilles (20 Live)](https://girls.xyz/vieilles)
+* [Anal (1057 Live)](https://girls.xyz/anal)
+* [Arab (29 Live)](https://girls.xyz/arab)
+* [Asian (69 Live)](https://girls.xyz/asian)
+* [Babes (855 Live)](https://girls.xyz/babes)
+* [BBW (177 Live)](https://girls.xyz/bbw)
+* [Best for Privates (25 Live)](https://girls.xyz/best-for-privates)
+* [Big Ass (901 Live)](https://girls.xyz/big-ass)
+* [Big Tits (649 Live)](https://girls.xyz/big-tits)
+* [Blonde (352 Live)](https://girls.xyz/blonde)
+* [Bondage (518 Live)](https://girls.xyz/bondage)
+* [Brunette (1432 Live)](https://girls.xyz/brunette)
+* [College Girls (718 Live)](https://girls.xyz/college-girls)
+* [Curvy (403 Live)](https://girls.xyz/curvy)
+* [Ebony (229 Live)](https://girls.xyz/ebony)
+* [Fetish (1519 Live)](https://girls.xyz/fetish)
+* [Granny (25 Live)](https://girls.xyz/granny)
+* [Group Sex (0 Live)](https://girls.xyz/group-sex)
+* [Hairy Pussy (222 Live)](https://girls.xyz/hairy-pussy)
+* [Housewives (836 Live)](https://girls.xyz/housewives)
+* [Huge Tits (139 Live)](https://girls.xyz/huge-tits)
+* [Indian (18 Live)](https://girls.xyz/indian)
+* [Latina (978 Live)](https://girls.xyz/latina)
+* [Lesbian (17 Live)](https://girls.xyz/lesbian)
+* [Mature (457 Live)](https://girls.xyz/mature)
+* [Medium Tits (845 Live)](https://girls.xyz/medium-tits)
+* [Muscle (105 Live)](https://girls.xyz/muscle)
+* [Petite (261 Live)](https://girls.xyz/petite)
+* [Pornstar (9 Live)](https://girls.xyz/pornstar)
+* [Pregnant (6 Live)](https://girls.xyz/pregnant)
+* [Redhead (246 Live)](https://girls.xyz/redhead)
+* [Shaved Pussy (1358 Live)](https://girls.xyz/shaved-pussy)
+* [Small Tits (394 Live)](https://girls.xyz/small-tits)
+* [Smoking (19 Live)](https://girls.xyz/smoking)
+* [Squirt (1194 Live)](https://girls.xyz/squirt)
+* [Teens 18+ (718 Live)](https://girls.xyz/teens-18)
+* [Toys (1527 Live)](https://girls.xyz/toys)
+* [White Girls (706 Live)](https://girls.xyz/white-girls)
 
-Historique
+History
 
-[Toutes les promotions](https://girls.xyz/free-tokens) [Concours](https://girls.xyz/contest/queen-of-queens) [Girls App](https://girls.xyz/mobile-app)
+[All Promotions](https://girls.xyz/free-tokens) [Contests](https://girls.xyz/contest/queen-of-queens-international) [Girls App](https://girls.xyz/mobile-app)
 
-Politique de Confidentialité
-============================
+Privacy Policy
+==============
 
-LAST REVISION: 25.07.2023
+LAST REVISION: 15.08.2024
 
-Please read this Girls.xyz Privacy Policy carefully. It sets forth the practices of ![Adresse 1](//i.wlicdn.com/images/replace/14/arial/666/bnct.svg) (“![Adresse 2](//i.wlicdn.com/images/replace/14/arial/666/bnct.svg)” and / or “Company”) with respect to information collected from basic members, premium members, guests and visitors of girls.xyz with respect to all services provided by the company or services requiring a log-in or password (the “Services”). By visiting the site or completing the registration process and clicking the “Submit” button, you agree to be bound by all of the terms and conditions of this Privacy Policy.
+Please read this Girls.xyz Privacy Policy carefully. It sets forth the practices of ![Address 1](//i.wlicdn.com/images/replace/14/arial/666/bnct.svg) (“![Address 2](//i.wlicdn.com/images/replace/14/arial/666/bnct.svg)” and / or “Company”) with respect to information collected from basic members, premium members, guests and visitors of girls.xyz with respect to all services provided by the company or services requiring a log-in or password (the “Services”). By visiting the site or completing the registration process and clicking the “Submit” button, you agree to be bound by all of the terms and conditions of this Privacy Policy.
 
 The Company does not knowingly collect personal data from children. If you are under the age of eighteen (18) or of the age of majority in your jurisdiction (Age of Majority), please do not give us any personal data. If you have reason to believe that anyone under the Age of Majority has provided personal data to the Company, please contact us, and we will endeavor to delete that information from our databases.
 
@@ -70,12 +71,12 @@ As for this document, both Personal Data and Personal Information will be refe
 Data Controller
 ---------------
 
-The data controller of your personal data is ![Adresse 1](//i.wlicdn.com/images/replace/14/arial/666/bnct.svg), ![Adresse 3](//i.wlicdn.com/images/replace/14/arial/666/bnct_add1_v2.svg) ![Adresse 4](//i.wlicdn.com/images/replace/14/arial/666/bnct_add2.svg).
+The data controller of your personal data is ![Address 1](//i.wlicdn.com/images/replace/14/arial/666/bnct.svg), ![Address 3](//i.wlicdn.com/images/replace/14/arial/666/bnct_add1_v2.svg) ![Address 4](//i.wlicdn.com/images/replace/14/arial/666/bnct_add2.svg).
 
 Data Protection Officer
 -----------------------
 
-If you have any questions regarding data protection you can contact our data protection officer via email: [![Adresse 6](//i.wlicdn.com/images/replace/12/helvetica/009eeb/700/dpo_wl.svg)](mailto:dpo@webcamsupport.net)
+If you have any questions regarding data protection you can contact our data protection officer via email: [![Address 6](//i.wlicdn.com/images/replace/12/helvetica/009eeb/700/dpo_wl.svg)](mailto:dpo@webcamsupport.net)
 
 We process personal data in compliance with applicable data protection laws, including the General Data Protection Regulation (GDPR) and California Consumer Privacy Act (CCPA).
 
@@ -184,15 +185,15 @@ The personal data stored by us will be deleted in accordance with legal requi
 
 ### Disclosure of data and payment
 
-In general, no data is passed on to the third parties.
+In general, no data is passed on to third parties without your consent. However, certain circumstances necessitate the sharing of personal data with third parties, particularly in the context of payment processing.
 
-We have commissioned service providers to process payments. During payment processes, the data protection information and conditions of the relevant service provider are applied, which you can view during the payment process.
+We have commissioned service providers to process payments. During payment processes, you may be required to provide personal payment information, including your email address and/or phone number. This information may be shared with third-party payment processors and card brands as part of the transaction authorization process. The legal basis for this data processing is Art. 6 (1) (a) — (c) GDPR.
 
-As part of the payment processing provided by the payment processor and the associated identity and credit check, you usually have to provide personal payment information. The data you enter in the entry field will be transmitted to the payment processor and us and will be stored by us.
+As part of the payment processing provided by the payment processor, the data you enter in the entry field will be transmitted to the payment processor. The email address associated with your Girls.xyz account may be automatically provided to payment processors when purchasing tokens on the platform, in compliance with the requirements set forth by card brands and other payment methods.
 
-The legal basis for the data processing is Art. 6 (1) (a) — (b) GDPR.
+By proceeding with the purchase of tokens, you explicitly give your consent for the transfer of your email address and/or phone number to payment processors solely for transaction-related purposes. This sharing of information is necessary for facilitating transactions, ensuring compliance with legal and regulatory requirements, and enhancing payment security.
 
-In some cases, we use processors who process personal data on our behalf and provide it to us as a service. We have entered into contracts with our processors. This means that the processors may only process your personal data in a way that we have explicitly instructed them to do. The processors will only share your personal data with us and no other entities or organizations. They will also ensure that necessary technical and organizational measures are taken to process your data securely and will only store your personal data for as long as we have instructed them to do so.
+In some cases, we use processors who process personal data on our behalf and provide it to us as a service. These processors will only share your personal data with us and no other entities or organizations. They will also ensure that necessary technical and organizational measures are taken to process your data securely and will only store your personal data for as long as required by law.
 
 For fraud prevention reasons we can request certain evidence in order to prevent unauthorized use of payment methods. As an example of such evidence can be a photo of identification document and/or payment method. The legal basis for this processing is Art. 6 (1) (a) — (d). We would like to point out that we are not processing biometric data as we are not using any type of technology to process the abovementioned evidence.
 
@@ -225,7 +226,7 @@ If you are a resident of California, you have the following rights under the 
 
 We would like to point out that we do not “sell” your Personal Data. The term “sell” is defined in 1798.140. (ad) (1) CCPA.
 
-You can exercise your rights by sending an e-mail to the responsible office: ![Adresse 1](//i.wlicdn.com/images/replace/14/arial/666/bnct.svg), ![Adresse 3](//i.wlicdn.com/images/replace/14/arial/666/bnct_add1_v2.svg) ![Adresse 4](//i.wlicdn.com/images/replace/14/arial/666/bnct_add2.svg); email: [![Adresse 6](//i.wlicdn.com/images/replace/12/helvetica/009eeb/700/dpo_wl.svg)](mailto:dpo@webcamsupport.net)
+You can exercise your rights by sending an e-mail to the responsible office: ![Address 1](//i.wlicdn.com/images/replace/14/arial/666/bnct.svg), ![Address 3](//i.wlicdn.com/images/replace/14/arial/666/bnct_add1_v2.svg) ![Address 4](//i.wlicdn.com/images/replace/14/arial/666/bnct_add2.svg); email: [![Address 6](//i.wlicdn.com/images/replace/12/helvetica/009eeb/700/dpo_wl.svg)](mailto:dpo@webcamsupport.net)
 
 Alternatively, you can contact us by using our [Customer Support Chat](https://girls.xyz/contact-support).
 
@@ -320,7 +321,7 @@ The legal basis for the processing of personal data using technically necessary
 
 ### Our cookies
 
-Publisher: ![Adresse 2](//i.wlicdn.com/images/replace/14/arial/666/bnct.svg)
+Publisher: ![Address 2](//i.wlicdn.com/images/replace/14/arial/666/bnct.svg)
 
 | Name | Runtime | Purpose |
 | --- | --- | --- |
@@ -485,11 +486,11 @@ We reserve the right to review and revise this Privacy Policy from time to ti
 
 The last revision will be indicated at the top of this document and takes precedence over all previous versions. You agree to review the Privacy Policy periodically to be aware of such changes. If any change is unacceptable to you, you may terminate your membership as provided in the Terms and Conditions of Use. Your use or continued use of the Services following the Effective Date of any such change to the Privacy Policy constitutes acceptance of all such changes.
 
-![Adresse 1](//i.wlicdn.com/images/replace/14/arial/666/bnct.svg)  
-![Adresse 3](//i.wlicdn.com/images/replace/14/arial/666/bnct_add1_v2.svg)  
-![Adresse 4](//i.wlicdn.com/images/replace/14/arial/666/bnct_add2.svg)
+![Address 1](//i.wlicdn.com/images/replace/14/arial/666/bnct.svg)  
+![Address 3](//i.wlicdn.com/images/replace/14/arial/666/bnct_add1_v2.svg)  
+![Address 4](//i.wlicdn.com/images/replace/14/arial/666/bnct_add2.svg)
 
-Langues Disponibles
+Supported Languages
 
 * [English](https://en.girls.xyz/)
 * [Русский](https://rt.girls.xyz/)
@@ -526,37 +527,36 @@ Langues Disponibles
 * [العربية](https://ar.girls.xyz/)
 * [עברית](https://il.girls.xyz/)
 
-Assistance
+Support
 
 * [FAQ](https://girls.xyz/user-faq)
-* [Service d'Assistance](https://girls.xyz/contact-support)
-* [Service de conciergerie](https://girls.xyz/concierge-service)
-* [Politique de Confidentialité](https://girls.xyz/privacy)
-* [Termes et Conditions d'Utilisation](https://girls.xyz/terms)
-* [Politique sur les droits d’auteur et la propriété intellectuelle](https://girls.xyz/dmca)
-* [Loi européenne sur les services numériques](https://girls.xyz/digital-services)
-* [Guide de contrôle parental](https://girls.xyz/parental-control-guidance)
+* [Contact Support](https://girls.xyz/contact-support)
+* [Concierge Service](https://girls.xyz/concierge-service)
+* [Privacy Policy](https://girls.xyz/privacy)
+* [Terms & Conditions](https://girls.xyz/terms)
+* [Copyright and Intellectual Property Policy](https://girls.xyz/dmca)
+* [Parental Control Guidance](https://girls.xyz/parental-control-guidance)
 *   
     
-* [Avis des utilisateurs](https://girls.xyz/reviews)
-* [Retrait de contenu](https://girls.xyz/content-removal)
+* [Reviews](https://girls.xyz/reviews)
+* [Complaints & Content Removal](https://girls.xyz/content-removal)
 
-Concours / Argent
+Contest / Money
 
-* [Top 100 de la Semaine](https://girls.xyz/contest/queen-of-queens)
-* [Toutes les promotions](https://girls.xyz/free-tokens)
-* [Inscription Partenaire](https://fr.bongacash.com/ref?c=696088)
+* [Top 100 of the Week](https://girls.xyz/contest/queen-of-queens-international)
+* [All Promotions](https://girls.xyz/free-tokens)
+* [Affiliate Sign up](https://en.bongacash.com/ref?c=696088)
 
-[Visiter](https://girls.xyz/user-faq)
+[Take a tour](https://girls.xyz/user-faq)
 
-Réseaux sociaux
+Social Networks
 
 [Twitter](https://twitter.com/BongacamsM "Twitter") [Instagram](https://www.instagram.com/media.bongacams "Instagram") [Blog](https://blog.bongacams.com/en "Blog") [Telegram](https://t.me/bongacamsofficial "Telegram")
 
-Disponible sur smartphones
+Smartphone compatible
 
-Avertissement: tous les membres et personnes qui apparaissent sur ce site, se sont déclarés comme ayant 18 ans ou plus.
+Disclaimer: All members and persons appearing on this site have contractually represented to us that they are 18 years of age or older.
 
-[Déclaration de Conformité aux Conditions de Tenue d'Archives 18 U.S.C. 2257](https://girls.xyz/2257)
+[18 U.S.C. 2257 Record Keeping Requirements Compliance Statement](https://girls.xyz/2257)
 
-© Tous droits réservés. 2024 [www.girls.xyz](https://girls.xyz/)    Visitez aussi [EPOCH](https://www.epoch.com/) et [SEGPAY](https://www.segpay.com/), nos agents commerciaux agréés. This site is Managed & Operated by ![Adresse 13](//i.wlicdn.com/images/replace/10/arial/999/bnct_v2.svg) ![Adresse 16](//i.wlicdn.com/images/replace/10/arial/999/bnct_add1_v2.svg) ![Adresse 19](//i.wlicdn.com/images/replace/10/arial/999/bnct_add2.svg)
+© All Rights Reserved. 2024 [www.girls.xyz](https://girls.xyz/)    Please visit [EPOCH](https://www.epoch.com/) and [SEGPAY](https://www.segpay.com/), our authorized sales agents. This site is Managed & Operated by ![Address 13](//i.wlicdn.com/images/replace/10/arial/999/bnct_v2.svg) ![Address 16](//i.wlicdn.com/images/replace/10/arial/999/bnct_add1_v2.svg) ![Address 19](//i.wlicdn.com/images/replace/10/arial/999/bnct_add2.svg)
