@@ -89,7 +89,7 @@ OECK
 
 * [Network Graphs](https://www.oeck.com/network-graphs/)
 * [Manual](https://www.oeck.com/manual/)
-* [Community](https://www.oeck.com/community/)
+* [Youtube Channel](https://www.youtube.com/@oeckvpn)
 
 Manage
 
@@ -106,5 +106,5 @@ Legal & Other
 * [About Us](https://www.oeck.com/about-us/)
 * [Contact Us](https://www.oeck.com/support/)
 
-Copyright © 2023 OECK Limited. All rights reserved.  
+Copyright © 2024 OECK Limited. All rights reserved.  
 CRN: 2845103
