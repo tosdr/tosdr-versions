@@ -6,6 +6,9 @@
 
 JavaScript is disabled. For a better experience, please enable JavaScript in your browser before proceeding.
 
+You are using an out of date browser. It may not display this or other websites correctly.  
+You should upgrade or use an [alternative browser](https://www.google.com/chrome/).
+
 Terms and rules
 ===============
 
