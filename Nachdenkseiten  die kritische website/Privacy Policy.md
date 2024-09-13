@@ -518,16 +518,16 @@ Weitere Informationen zu Umfang und Zweck der Datenverarbeitung durch INFOnline 
 
 ### [Lisa Fitz auf den NDS](https://www.nachdenkseiten.de/?gastautor=lisa-fitz)
 
-[![Alle Beiträge von Lisa Fitz](https://www.nachdenkseiten.de/wp-content/uploads/2024/07/240722-Lisa-Fitz-021-Sommerwetter-Kasten.jpg "Alle Beiträge von Lisa Fitz")](https://www.nachdenkseiten.de/?gastautor=lisa-fitz)
+[![Alle Beiträge von Lisa Fitz](https://www.nachdenkseiten.de/wp-content/uploads/2024/09/240913-Lisa-Fitz-Miosga-Miasma-Kasten-NDS.jpg "Alle Beiträge von Lisa Fitz")](https://www.nachdenkseiten.de/?gastautor=lisa-fitz)
 
 * [Alle Beiträge von Lisa Fitz](https://www.nachdenkseiten.de/?gastautor=lisa-fitz)
 * [Termine - Lisa Fitz](https://www.lisa-fitz.de/termine/)
 
 ### [NachDenkSeiten im Gespräch](https://www.youtube.com/playlist?list=PLpNi0Wmi7L80YYabA3qOGKP8ZporDTlRA)
 
-[![Gespräch mit dem Palästinenser George Rashmawi](https://www.nachdenkseiten.de/wp-content/uploads/2023/04/230413-Gespraech-Rashmawi-Mueller-TitelbildKasten.jpg "Gespräch mit dem Palästinenser George Rashmawi")](https://www.nachdenkseiten.de/?p=96323)
+[![Michael Hartmann im Gespräch mit Albrecht Müller (Teil 1/3)](https://www.nachdenkseiten.de/wp-content/uploads/2022/09/2022-09-13-Hartmann-Gespraech-Teil1-Cover-YTButton.jpg "Michael Hartmann im Gespräch mit Albrecht Müller (Teil 1/3)")](https://www.nachdenkseiten.de/?p=88058)
 
-* [Gespräch mit dem Palästinenser George Rashmawi](https://www.nachdenkseiten.de/?p=96323)
+* [Michael Hartmann im Gespräch mit Albrecht Müller (Teil 1/3)](https://www.nachdenkseiten.de/?p=88058)
 * [Videoangebot der NachDenkSeiten](https://www.nachdenkseiten.de/?page_id=47509)
 
 ![Albrecht Müller: Glaube wenig. Hinterfrage alles. Denke selbst.](https://www.nachdenkseiten.de/wp-content/uploads/2022/05/220510-glaube.jpg "Albrecht Müller: Glaube wenig. Hinterfrage alles. Denke selbst.")
@@ -542,12 +542,12 @@ Weitere Informationen zu Umfang und Zweck der Datenverarbeitung durch INFOnline 
 
 ### Wichtige Artikel
 
-* [„Neuwahlen? Quatsch!”: Albrecht Müller, Ex-Berater von SPD-Legende Willy Brandt, über die Wahlen in Ostdeutschland](https://www.nachdenkseiten.de/?p=120729)
-* [Im Osten nichts Neues](https://www.nachdenkseiten.de/?p=120626)
-* [Auswärtiges Amt: Kerngeschäft der Diplomatie ist das Führen von Gesprächen – außer mit Russland](https://www.nachdenkseiten.de/?p=120895)
-* [Neuer Volkssport: Bürger(-Geld-)Bashing](https://www.nachdenkseiten.de/?p=120833)
-* [Autoland ist abgebrannt](https://www.nachdenkseiten.de/?p=120760)
-* [Ein interessantes Buch. Aber der Titel stimmt nicht](https://www.nachdenkseiten.de/?p=120839)
+* [US-Diplomatin Nuland räumt offen ein: Friedensverhandlungen zwischen Kiew und Moskau auf „Empfehlung“ von Washington abgebrochen](https://www.nachdenkseiten.de/?p=121031)
+* [Verbreiten die NachDenkSeiten russische Narrative? Der bayerische Verfassungsschutz rudert zurück](https://www.nachdenkseiten.de/?p=121174)
+* [„Der Kanzler lügt“ – Der hilflose Versuch des Regierungssprechers, Wagenknecht-Vorwurf zu entkräften](https://www.nachdenkseiten.de/?p=121180)
+* [Corona-Urteil von Osnabrück: „Das alleine hätte noch vor einem Jahr (…) die Richter in die Querdenker-Ecke gestellt“](https://www.nachdenkseiten.de/?p=121119)
+* [„Denn eine Meinungsfreiheit, die nur politisch genehme Positionen zulässt, ist keine“](https://www.nachdenkseiten.de/?p=121102)
+* [Videos vom Vortrag Krone-Schmalz und von der Diskussion beim Pleisweiler Gespräch](https://www.nachdenkseiten.de/?p=121107)
 
 ### Audioangebot
 
