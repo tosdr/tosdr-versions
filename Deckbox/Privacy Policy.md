@@ -13,6 +13,7 @@
     * [![](https://s.deckbox.org/images/icons/32x32/logo-dark.png)Magic the Gathering Decks](https://deckbox.org/decks/mtg)
     * [![](https://s.deckbox.org/images/icon_spacer.gif)Warhammer Invasion](https://deckbox.org/games/whi/cards)
     * [![](https://s.deckbox.org/images/icon_spacer.gif)World of Warcraft](https://deckbox.org/games/wow/cards)
+* [](#)
 
 * ABOUT
 * * [![](https://s.deckbox.org/images/icon_spacer.gif)About Us](https://deckbox.org/contact)
@@ -28,7 +29,6 @@
     * [![](https://s.deckbox.org/images/icon_spacer.gif)Trading Rules](https://deckbox.org/help/trade_rules)
     * [![](https://s.deckbox.org/images/icon_spacer.gif)Guidelines and FAQ](https://deckbox.org/help/trade_guidelines)
     * [![](https://s.deckbox.org/images/icon_spacer.gif)Mail Fraud Information](https://deckbox.org/help/trade_mail_fraud)
-    * [![](https://s.deckbox.org/images/icon_spacer.gif)Card Prices](https://deckbox.org/help/card_prices)
     * [![](https://s.deckbox.org/images/icons/32x32/logo-dark.png)Deck building](https://deckbox.org/help/decks)
     * [![](https://s.deckbox.org/images/icon_spacer.gif)Communities](https://deckbox.org/help/communities)
     * [![](https://s.deckbox.org/images/icon_spacer.gif)Card tooltips (for your site)](https://deckbox.org/help/tooltips)
