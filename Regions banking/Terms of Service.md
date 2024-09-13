@@ -212,7 +212,7 @@ Menu [![Regions logo](/rdcresources/content/media/img/regions-logo-no-r.svg)](ht
         * [Retirement Planning](https://www.regions.com/wealth-management/retirement-planning)
         * [Annuities](https://www.regions.com/wealth-management/annuities)
         * [Life Insurance](https://www.regions.com/wealth-management/life-insurance)
-        * [Find a Financial Advisor](https://www.regions.com/locator?type=fc)
+        * [Find a Financial Advisor](https://www.regions.com/directory/financial-advisor)
         
     * [Institutional Wealth](#)
         
@@ -396,14 +396,14 @@ You are here:
 * [Notice at Collection](https://www.regions.com/about-regions/privacy-security/ccpa-disclosure#collection)
 * [Accessible Banking](https://www.regions.com/about-regions/accessible-banking)
 
-\*Investment, Insurance, and Annuities Products
+Non-deposit products including investments, securities, mutual funds, insurance products, crypto assets and annuities:
 
-* Are Not FDIC-Insured
-* Are Not Bank Guaranteed
-* May Lose Value
-* Are Not Deposits
-* Are Not a Condition of Any Banking Activity
-* Are Not Insured by Any Federal Government Entity
+* Are not FDIC-insured
+* Are not bank guaranteed
+* May lose value
+* Are not deposits
+* Are not a condition of any banking activity
+* ​Are not insured by any government entity
 
 © 2024 Regions Bank. 1900 5th Avenue North, Birmingham, AL 35203. All Rights Reserved.
 
