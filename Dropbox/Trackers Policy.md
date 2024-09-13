@@ -146,9 +146,9 @@ Thanks for your feedback!
 
 * [When I try to upload content using the website, nothing happens.](https://www.dropboxforum.com/t5/Create-upload-and-share/When-I-try-to-upload-content-using-the-website-nothing-happens/td-p/782184)
     
-    Posted by: rbkeep 59 days ago
+    Posted by: rbkeep 65 days ago
     
-    ![](https://aem.dropbox.com/cms/etc.clientlibs/settings/wcm/designs/dropbox-birch-help/clientlib-all/resources/icon-view.svg) 19930
+    ![](https://aem.dropbox.com/cms/etc.clientlibs/settings/wcm/designs/dropbox-birch-help/clientlib-all/resources/icon-view.svg) 20814
     
     ![](https://aem.dropbox.com/cms/etc.clientlibs/settings/wcm/designs/dropbox-birch-help/clientlib-all/resources/icon-chat.svg) 8
     
