@@ -125,14 +125,12 @@ This privacy policy covers noyb.eu, support.noyb.eu and the noyb.eu newsletters.
 **Processors:** We only use trustworthy third parties that only process your personal data on our behalf (“processors”). For mailing we currently use dialog-Mail eMarketing Systems GmbH. The particular provider may be subject to change over time.  
 **Other Recipients:** Usually none. The only exception can be our external backend support (nycro UG, Hütten 118, 20355 Hamburg, Germany) that can have unavoidable access to information when solving technical issues.  
 **Third Country Transfers:** None. We process your data within the EEA/EU.  
-**Cookies:** We use a session cookie (named “PHPSESSID”), to process your signup, which holds a random string. It is deleted when you close your browser.  
- 
+**Cookies:** We use a session cookie (named “PHPSESSID”), to process your signup, which holds a random string. It is deleted when you close your browser.
 
 **(4) Additional Processing when you share our page on external networks or follow links**
 
 **It’s simple:** We currently cannot really guarantee other people’s compliance – but working on this issue is exactly the purpose of _noyb_!  
-**More Details:** If you click on any button that allows you to share our page (e.g. Twitter or Facebook) or follow a link to a third party page, you will be redirected to this other page; you are then subject to the privacy policy of this third party. We currently cannot guarantee these third parties’ compliance with the GDPR – but with your help we are working on their GDPR compliance too!  
- 
+**More Details:** If you click on any button that allows you to share our page (e.g. Twitter or Facebook) or follow a link to a third party page, you will be redirected to this other page; you are then subject to the privacy policy of this third party. We currently cannot guarantee these third parties’ compliance with the GDPR – but with your help we are working on their GDPR compliance too!
 
 **(5) When you send us a message via our ticket system**
 
@@ -142,15 +140,26 @@ This privacy policy covers noyb.eu, support.noyb.eu and the noyb.eu newsletters.
 **Legal Basis:** Your consent when sending us an email ("affirmative action" when sending an email to a recipient) and, in certain cases, our legitimate interest or legal duty to keep communication as evidence.  
 **Processors:** We may use trustworthy processors that only process your personal data on our behalf (“processors”). The particular provider may be subject to change over time. Currently all our core systems, including our ticket system, are hosted on our own servers.  
 **Other Recipients:** Usually none. The only exception can be our external backend support (nycro UG, Hütten 118, 20355 Hamburg, Germany) that can have unavoidable access to information when solving technical issues.  
-**Third Country Transfers:** None. We process your data within the EEA/EU.  
- 
+**Third Country Transfers:** None. We process your data within the EEA/EU.
 
-**(6) In all cases, you have the following rights**
+**(6) Additional processing when you enter your data at** [**https://donations.noyb.eu/form/**](https://donations.noyb.eu/form/) **for automatic tax return**
+
+**In brief:** In addition to the processing described under (1), we process the data that is necessary for managing the deductibility of donations, such as your date of birth, full name, email address or IBAN and the amount of the donation.  
+**Purpose:** The forwarding of your personal data to the Austrian tax office in order to claim your donation for tax purposes.  
+**Storage:** If you enter your data and consent to it being forwarded to the Austrian tax office, we will store your data for the statutory period of seven years. In individual cases, other unforeseen obligations may arise, such as exceptional legitimate interests (e.g. if you assert a legal claim against us). This may necessitate a longer storage period that is not foreseeable.  
+**Legal basis:** Your consent to reporting to the tax office and statutory retention obligations.  
+**Legitimate interests:** We process personal data (IP addresses) for reasons of fraud prevention.  
+**Processors:** We may use trustworthy processors that only process your personal data on our behalf (“processors”). The particular provider may be subject to change over time. Currently all our core systems, including our member system, are hosted on our own servers.  
+**Other Recipients:** Usually none. The only exceptions are (1) our external technical support (nycro UG, Hütten 118, 20355 Hamburg, Germany) that can have unavoidable access to information when solving technical issues and (2) the Austrian tax authority, but only if you choose that we report your membership fee or donation to have this deducted from your Austrian taxes.  
+**Third Country Transfers:** None. We process your data within the EEA/EU.  
+**Cookies:** We use a session cookie (named “session”). It is deleted when you close your browser.
+
+**(7) In all cases, you have the following rights**
 
 **It’s simple:** Just send us a message at [info@noyb.eu](mailto:info@noyb.eu "mailto:info@noyb.eu") and we’ll take care of things!  
 **More Details:** You have the right to access, to rectify, to erasure, to object, to restrict processing, to data portability, to withdraw your consent and to launch a complaint with your local data protection authority. We are governed by the Austrian data protection authority (“Datenschutzbehörde”).
 
-**Copyright and Open Source for noyb.eu**
+#### Copyright and Open Source for noyb.eu
 
 All content on noyb.eu that we have created is licensed under the Creative Commons Attribution and Non-Commercial Licence ([CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/ "https://creativecommons.org/licenses/by-nc/3.0/")), unless indicated otherwise. This means you can always use content from noyb.eu if you do not make a profit from it or use it in commercial settings, and if you refer to us (at least as “noyb.eu” or “noyb”) when using our content.
 
