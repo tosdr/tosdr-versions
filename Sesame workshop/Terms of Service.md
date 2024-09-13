@@ -90,7 +90,7 @@
 * [Our Work](https://sesameworkshop.org/our-work/ "Our Work")
     
     * [Shows](https://sesameworkshop.org/our-work/shows/ "Shows")
-    * [What We Do](https://sesameworkshop.org/our-work/impact-areas/ "What We Do")
+    * [What We Do](https://sesameworkshop.org/our-work/what-we-do/ "What We Do")
     * [Where We Work](https://sesameworkshop.org/our-work/where-we-work/ "Where We Work")
     * [Research and Insights](https://sesameworkshop.org/our-work/research-and-insights/ "Research and Insights")
     * [Fellowships](https://sesameworkshop.org/our-work/fellowships/ "Fellowships")
@@ -210,7 +210,7 @@ Search
 * [Our Work](https://sesameworkshop.org/our-work/ "Our Work")
     
     * [Shows](https://sesameworkshop.org/our-work/shows/ "Shows")
-    * [What We Do](https://sesameworkshop.org/our-work/impact-areas/ "What We Do")
+    * [What We Do](https://sesameworkshop.org/our-work/what-we-do/ "What We Do")
     * [Where We Work](https://sesameworkshop.org/our-work/where-we-work/ "Where We Work")
     * [Research and Insights](https://sesameworkshop.org/our-work/research-and-insights/ "Research and Insights")
     * [Fellowships](https://sesameworkshop.org/our-work/fellowships/ "Fellowships")
@@ -364,7 +364,7 @@ Follow Us[](https://www.instagram.com/sesameworkshop/ "Instagram")[](https://www
 [Our Work](https://sesameworkshop.org/our-work/)
 
 * [Shows](https://sesameworkshop.org/our-work/shows/ "Shows")
-* [What We Do](https://sesameworkshop.org/our-work/impact-areas/ "What We Do")
+* [What We Do](https://sesameworkshop.org/our-work/what-we-do/ "What We Do")
 * [Where We Work](https://sesameworkshop.org/our-work/where-we-work/ "Where We Work")
 * [Research and Insights](https://sesameworkshop.org/our-work/research-and-insights/ "Research and Insights")
 * [Fellowships](https://sesameworkshop.org/our-work/fellowships/ "Fellowships")
