@@ -163,7 +163,7 @@ Menu Menu
 * [Resources](https://www.globalsign.com/en/resources) [Resources](https://www.globalsign.com/en-sg/resources)
     * [Datasheets](https://www.globalsign.com/en/resources/datasheets) [Datasheets](https://www.globalsign.com/en-sg/resources/datasheets)
     * [White Papers & eBooks](https://www.globalsign.com/en/resources/white-papers-ebooks) [White Papers & eBooks](https://www.globalsign.com/en-sg/resources/white-papers-ebooks)
-    * [Case Studies](https://www.globalsign.com/en/resources/case-studies)
+    * [Case Studies](https://www.globalsign.com/en/resources/case-studies) [Case Studies](https://www.globalsign.com/en/resources/success-stories)
     * [How-to Videos](https://www.globalsign.com/en/resources/how-videos) [How-to Videos](https://www.globalsign.com/en-sg/resources/how-videos)
     * [Site Seal](https://www.globalsign.com/en/ssl/secure-site-seal)
     * [Webinars](https://www.globalsign.com/en/resources/webinars) [Webinars](https://www.globalsign.com/en-sg/resources/webinars)
@@ -240,33 +240,23 @@ GlobalSign is the leading provider of trusted identity and security solutions en
 Follow Us
 
 * [](https://www.facebook.com/GlobalSignSSL)
+* [](https://www.facebook.com/GlobalSignAPAC)
 * [](https://www.instagram.com/globalsign/)
 * [](https://www.linkedin.com/company/globalsign/)
-* [](https://twitter.com/globalsign)
-* [](https://www.youtube.com/user/GlobalSignVideos)
-
-* [](https://www.facebook.com/GlobalSignAPAC)
-* [](https://twitter.com/globalsignapac)
-* [](https://www.linkedin.com/company/globalsign-apac/)
-* [](https://www.youtube.com/channel/UCXSgY-l9xFbpRIVObBegFSw)
-
-* [](https://www.facebook.com/GlobalSignSSL)
-* [](https://www.instagram.com/globalsign/)
 * [](https://www.linkedin.com/showcase/globalsign-middle-east/)
-* [](https://twitter.com/globalsign)
-* [](https://www.youtube.com/user/GlobalSignVideos)
-
-* [](https://www.facebook.com/GlobalSignSSL)
-* [](https://twitter.com/globalsign)
 * [](https://www.linkedin.com/showcase/globalsign-india/)
+* [](https://www.linkedin.com/company/globalsign-apac/)
+* [](https://twitter.com/globalsign)
+* [](https://twitter.com/globalsignapac)
 * [](https://www.youtube.com/user/GlobalSignVideos)
-* [](https://www.instagram.com/globalsign/)
+* [](https://www.youtube.com/channel/UCXSgY-l9xFbpRIVObBegFSw)
 
 About
 
 * [Company Profile](https://www.globalsign.com/en/company)
 * [News & Events](https://www.globalsign.com/en/company/news-events)
 * [Blog](https://www.globalsign.com/en/blog)
+* [Blog](https://www.globalsign.com/en-sg/blog)
 * [Legal Repository](https://www.globalsign.com/en/repository)
 * [Corporate Policies](https://www.globalsign.com/en/company/corporate-policies)
 * [Locations & Contacts](https://www.globalsign.com/en/company/contact)
@@ -282,7 +272,9 @@ Learning
 * [Support Site](https://support.globalsign.com/)
 * [SSL Information Center](https://www.globalsign.com/en/ssl-information-center)
 * [Resources](https://www.globalsign.com/en/resources)
+* [Resources](https://www.globalsign.com/en-sg/resources)
 * [Customer Stories](https://www.globalsign.com/en/resources/case-studies)
+* [Customer Stories](https://www.globalsign.com/en/resources/success-stories)
 
 Contact
 
@@ -325,7 +317,7 @@ Your file has been downloaded, check your file in downloads folder.
 * [Preference Center Login](https://preferences.globalsign.com/PreferencesCenter/)
 * [Cookie Policy / DNT](https://www.globalsign.com/en/cookie-policy)
 
-[沪ICP备08025378号](https://beian.miit.gov.cn/#/Integrated/index)
+[沪ICP备08025378号](https://beian.miit.gov.cn/#/Integrated/index) [沪公网安备31010702008301](https://beian.mps.gov.cn/#/query/webSearch?code=31010702008301)
 
 View our [Privacy Policy](https://www.globalsign.com/en/repository/GlobalSign-Privacy-Policy.pdf) to understand how we collect and use your personal data. © 2024 GlobalSign. All Rights Reserved.
 
@@ -356,7 +348,7 @@ APAC
 * [EN / Hong Kong](https://www.globalsign.com/en)
 * [EN / India](https://www.globalsign.com/en)
 * [EN / Singapore](https://www.globalsign.com/en-sg)
-* [EN / Australia & New Zealand](https://www.globalsign.com/en-au)
+* [EN / Australia & New Zealand](https://www.globalsign.com/en)
 * [EN / Philippines](https://www.globalsign.com/en-ph)
 * [ภาษาไทย](https://www.globalsign.com/th-th)
 
