@@ -113,6 +113,9 @@ Close menu
     * [![Our Partners](/globalassets/media/redesign2024/icons/outlined__icon_nav_our_partners2-12.png)
         
         Our Partners](https://siteimprove.com/partners/)
+    * [![Optimizely Partner Page](/globalassets/media/redesign2024/icons/outlined_icon_nav_optimizely.png)
+        
+        Optimizely Partner Page](https://siteimprove.com/optimizely-partner-page/)
     * [![Become a Partner](/globalassets/media/redesign2024/icons/outlined_icon_nav_become_a_partner2.png)
         
         Become a Partner](https://siteimprove.com/partners/become-a-partner/)
