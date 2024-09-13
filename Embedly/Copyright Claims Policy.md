@@ -36,9 +36,9 @@
 Copyright Policy
 ================
 
-A Medium Corporation (“Medium”) has adopted the following general policy toward copyright infringement in accordance with the Digital Millennium Copyright Act ([http://lcweb.loc.gov/copyright/legislation/dmca.pdf](http://lcweb.loc.gov/copyright/legislation/dmca.pdf)). The address of Medium’s Designated Agent to Receive Notification of Claimed Infringement (“Designated Agent”) is listed at the end of this policy.
+Embedly LLC (“Embedly”) has adopted the following general policy toward copyright infringement in accordance with the Digital Millennium Copyright Act ([http://lcweb.loc.gov/copyright/legislation/dmca.pdf](http://lcweb.loc.gov/copyright/legislation/dmca.pdf)). The address of Embedly’s Designated Agent to Receive Notification of Claimed Infringement (“Designated Agent”) is listed at the end of this policy.
 
-It is Medium’s policy to (1) block access to or remove material that it believes in good faith to be copyrighted material that has been illegally copied and distributed by any of our users; and (2) remove and discontinue service to repeat offenders.
+It is Embedly’s policy to (1) block access to or remove material that it believes in good faith to be copyrighted material that has been illegally copied and distributed by any of our users; and (2) remove and discontinue service to repeat offenders.
 
 1. **Procedure for Reporting Copyright Infringements:**
     
@@ -48,7 +48,7 @@ It is Medium’s policy to (1) block access to or remove material that it believ
         
     2. Identification of works or materials being infringed;
         
-    3. Identification of the material that is claimed to be infringing including information regarding the location of the infringing materials that the copyright owner seeks to have removed, with sufficient detail so that Medium is capable of finding and verifying its existence;
+    3. Identification of the material that is claimed to be infringing including information regarding the location of the infringing materials that the copyright owner seeks to have removed, with sufficient detail so that Embedly is capable of finding and verifying its existence;
         
     4. Contact information about the notifier including address, telephone number and, if available, e-mail address;
         
@@ -64,7 +64,7 @@ It is Medium’s policy to (1) block access to or remove material that it believ
         
     2. to notify the user that it has removed or disabled access to the material; and
         
-    3. that repeat offenders will have the infringing material removed from the system and that Medium will terminate such user’s access to the Embedly website and service
+    3. that repeat offenders will have the infringing material removed from the system and that Embedly will terminate such user’s access to the Embedly website and service
         
 3. **Procedure to Supply a Counter-Notice to the Designated Agent:**
     
@@ -76,21 +76,20 @@ It is Medium’s policy to (1) block access to or remove material that it believ
         
     3. A statement that the user has a good faith belief that the material was removed or disabled as a result of mistake or a misidentification of the material; and
         
-    4. User’s name, address, telephone number, and, if available, e-mail address and a statement that such person or entity consents to the jurisdiction of the Federal Court for the judicial district in which the user’s address is located, or if the user’s address is located outside the United States, for any judicial district in which Medium is located, and that such person or entity will accept service of process from the person who provided notification of the alleged infringement.
+    4. User’s name, address, telephone number, and, if available, e-mail address and a statement that such person or entity consents to the jurisdiction of the Federal Court for the judicial district in which the user’s address is located, or if the user’s address is located outside the United States, for any judicial district in which Embedly is located, and that such person or entity will accept service of process from the person who provided notification of the alleged infringement.
         
         If a counter-notice is received by the Designated Agent, we may send a copy of the counter-notice to the original complaining party informing that person that it may replace the removed material or cease disabling it in 10 business days. Unless the copyright owner files an action seeking a court order against the user, the removed material may be replaced or access to it restored in 10 to 14 business days after receipt of the counter-notice, at our discretion.
         
 
-Please contact Medium’s Designated Agent to Receive Notification of Claimed Infringement at the following address:
+Please contact Embedly’s Designated Agent to Receive Notification of Claimed Infringement at the following address:
 
 Designated Agent to Receive Notification of Claimed Infringement:
 
-Luke Esterkyn  
-A Medium Corporation  
-799 Market Street, 5th Floor  
-San Francisco, CA 94102  
-Phone: ![](/static/images/legal/phone.png?v=df13678acbe9816f8bb3d413fcc0569b)  
-E-mail to: info@embed.ly  
+Embedly Operations  
+Embedly LLC  
+611 South DuPont Highway, Suite 102  
+Dover, DE 19901, United States of America  
+E-mail to: legal@embed.ly  
 
 ![Embedly Footer Logo](/static/images/footer/footer_embedly_logo_bw_122_39.png?v=ddd48fd2910ccdd805623fbc6d77e039)
 
