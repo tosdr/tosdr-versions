@@ -1,4 +1,4 @@
-[![](/wp-content/themes/rsagh/built-assets/img/logo_v3.svg)](https://starandgarter.org/)
+[![Royal Star & Garter Homes](/wp-content/themes/rsagh/built-assets/img/logo_v3.svg)](https://starandgarter.org/)
 
 [Veteran Friendly Framework](https://veteranfriendlyframework.org.uk/)[Family Connections](https://family.starandgarter.org/)[Work for us](https://starandgarter.org/work-for-us/)[Media centre](https://starandgarter.org/media-centre/)[Contact us](https://starandgarter.org/contact-us/)
 
@@ -76,7 +76,7 @@ About
 
 [Please Donate](https://starandgarter.org/?post_type=donation-page&p=44483)
 
-[![](/wp-content/themes/rsagh/built-assets/img/logo_v3.svg)](https://starandgarter.org/)
+[![Royal Star & Garter Homes](/wp-content/themes/rsagh/built-assets/img/logo_v3.svg)](https://starandgarter.org/)
 
 Menu Close
 
@@ -171,7 +171,8 @@ Menu
 Terms and conditions of use of this site
 ----------------------------------------
 
-#### Access to and use of this site is provided by The Royal Star & Garter Homes (RS&GH) subject to the following Terms and Conditions. Your use of this site constitutes acceptance of these Terms and Conditions as at the date of your first use of the site. RS&GH reserves the right to change these Terms and Conditions at any time by posting changes online. Your continued use of this site after changes are posted constitutes your acceptance of this agreement as modified.
+Access to and use of this site is provided by The Royal Star & Garter Homes (RS&GH) subject to the following Terms and Conditions. Your use of this site constitutes acceptance of these Terms and Conditions as at the date of your first use of the site. RS&GH reserves the right to change these Terms and Conditions at any time by posting changes online. Your continued use of this site after changes are posted constitutes your acceptance of this agreement as modified.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 You agree to use this site only for lawful purposes and in a manner, which does not infringe the rights or restrict, or inhibit the use and enjoyment of the site by any third party.
 
@@ -197,7 +198,8 @@ If you have any comments regarding the site, please contact: _[general.enquirie
 
 21.03.2018
 
-#### Connections Supporter Survey 2022 prize draw
+Connections Supporter Survey 2022 prize draw
+--------------------------------------------
 
 The Connections Survey 2022 prize draw from Royal Star & Garter.
 
@@ -224,11 +226,11 @@ Get highlights of the most important news delivered to your email inbox
 
  Sign Up
 
-[![The National Care Forum Logo](/wp-content/themes/rsagh/built-assets/img/logos/ncf.svg)](http://www.nationalcareforum.org.uk/)
+[![The National Care Forum](/wp-content/themes/rsagh/built-assets/img/logos/ncf.svg)](http://www.nationalcareforum.org.uk/)
 
-[![Armed Forces Covenant Logo](/wp-content/themes/rsagh/built-assets/img/logos/afc.png)](https://www.armedforcescovenant.gov.uk/)
+[![Armed Forces Covenant](/wp-content/themes/rsagh/built-assets/img/logos/afc.png)](https://www.armedforcescovenant.gov.uk/)
 
-[![The Cofederation of Service Charities Logo](/wp-content/themes/rsagh/built-assets/img/logos/cobseo.png)](https://www.cobseo.org.uk/)
+[![The Cofederation of Service Charities](/wp-content/themes/rsagh/built-assets/img/logos/cobseo.png)](https://www.cobseo.org.uk/)
 
 [![Registered with Fundraising Regulator](/wp-content/themes/rsagh/built-assets/img/logos/fr.png)](https://www.fundraisingregulator.org.uk/)
 
