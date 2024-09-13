@@ -119,6 +119,7 @@
     * [Outdoor Accessories](https://www.mycoolingstore.com/outdoor.html)
     * [Powersports](https://www.mycoolingstore.com/motorcycle.html)
     * [Bug & Pest Control](https://www.mycoolingstore.com/bug-and-pest-control.html)
+    * [KUMA Outdoor Gear](https://www.mycoolingstore.com/kuma-outdoor-gear.html)
     * [Sunrise Ebikes](https://www.mycoolingstore.com/sunrise-ebikes.html)
     * [Barebones Living Outdoor](https://www.mycoolingstore.com/barebones-living.html)
     * [Nathan Hydration Products](https://www.mycoolingstore.com/nathan.html)
@@ -165,6 +166,7 @@
     * [Heat Holders Thermal Wear](https://www.mycoolingstore.com/heat-holders.html)
     * [Jobar Home Products](https://www.mycoolingstore.com/jobar.html)
     * [POC](https://www.mycoolingstore.com/poc.html)
+    * [Korkers Ice Traction](https://www.mycoolingstore.com/korkers.html)
     * [Inov-8](https://www.mycoolingstore.com/innov-8.html)
     * [Ice & Snow Traction](https://www.mycoolingstore.com/ice-cleats.html)
     * [Merino Skins](https://www.mycoolingstore.com/merino-skins.html)
@@ -451,7 +453,6 @@
         * [EcoFlow Portable Power](https://www.mycoolingstore.com/ecoflow.html)
         * [Anker Portable Power Stations](https://www.mycoolingstore.com/anker.html)
         * [Zero Breeze](https://www.mycoolingstore.com/zero-breeze.html)
-        * [Mpowerd Solar Lighting](https://www.mycoolingstore.com/mpowerd-solar-lighting.html)
     * ![SealSkinz Waterproof Gear](https://s.turbifycdn.com/aah/yhst-136372476553304/sealskinz-waterproof-gear-40.png)
         
         [SealSkinz Waterproof Gear](https://www.mycoolingstore.com/seal-skinz.html)
