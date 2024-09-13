@@ -396,7 +396,7 @@ Support
 Company
 
 * [About Us](https://www.exceldryer.com/about-us/)
-* [In The News](https://www.exceldryer.com/press/)
+* [Awards / In The News](https://www.exceldryer.com/press/)
 * [Blog](https://www.exceldryer.com/blog/)
 
 [Excel Dryer Inc.](https://www.google.com/maps/place/Excel+Dryer/@42.055087,-72.5274727,17z/data=!4m12!1m6!3m5!1s0x89e6e5fe61f60d0d:0x92bed71db5840644!2sExcel+Dryer!8m2!3d42.055087!4d-72.525284!3m4!1s0x89e6e5fe61f60d0d:0x92bed71db5840644!8m2!3d42.055087!4d-72.525284)
