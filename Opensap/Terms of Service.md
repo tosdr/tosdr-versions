@@ -2,16 +2,13 @@ Javascript must be enabled for the correct page display
 
 **[Skip to Content](#main)**
 
-[Contact Us](https://www.sap.com/registration/contact.html?pageTitle=Terms+of+Use+for+SAP+Websites&countryOfOrigin=en_us&refererPagePath=https%3A%2F%2Fwww.sap.com%2Fabout%2Flegal%2Fterms-of-use.html&refererContentPath=%2Fcontent%2Fsapdx%2Flanguages%2Fen_us%2Fabout%2Flegal%2Fterms-of-use&navTitle=Contact+Form "Contact Us") [Contact us](https://www.sap.com/registration/contact.html?navTitle=Contact+Form)
+[Contact Us](https://www.sap.com/registration/contact.html?pageTitle=Terms+of+Use+for+SAP+Websites+&countryOfOrigin=en_us&refererPagePath=https%3A%2F%2Fwww.sap.com%2Fabout%2Flegal%2Fterms-of-use.html&refererContentPath=%2Fcontent%2Fsapdx%2Flanguages%2Fen_us%2Fabout%2Flegal%2Fterms-of-use&navTitle=Contact+Form "Contact Us") [Contact us](https://www.sap.com/registration/contact.html?navTitle=Contact+Form)
 
 Chat now
 
 Terms of Use for SAP Websites  
 
 ================================
-
-Terms of Use for SAP Websites
------------------------------
 
 #### 1\. SCOPE
 
@@ -55,7 +52,7 @@ You agree not to use an SAP Website to:
     
 * harvest, collect, or store personal information or data of other users.
     
-* Use any automated data gathering or extraction methods designed to scrape or extract data from SAP Websites, including for text and data mining purposes.
+* Use any automated data gathering or extraction methods designed to scrape or extract data from SAP Websites, including for text and data mining purposes. 
     
 
 #### 5\. TERMINATION OF USE
@@ -98,7 +95,7 @@ Information on requirements for using SAP trademarks can be found by clicking on
 
 #### 10\. RESPONSIBILITY FOR CONTENT AND LINKS
 
-SAP IS ONLY RESPONSIBLE OR LIABLE FOR THE CONTENT POSTED ON AN SAP WEBSITE TO THE EXTENT REQUIRED BY THE GERMAN TELEMEDIA ACT (TELEMEDIENGESETZ, TMG). TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, YOUR USE OF CONTENT SHALL BE AT YOUR OWN RISK. Any Content, whether publicly posted or privately transmitted, is the sole responsibility of the person or entity providing the Content. SAP does not represent or endorse the accuracy, reliability, completeness, usefulness, non-infringement of intellectual property rights, or quality of any Content provided by third parties on an SAP Website. SAP may remove any Content posted on an SAP Website at SAP’s sole discretion, but, if You believe that material that You hold the copyright on is being infringed upon on any SAP web site, please notify SAP’s Copyright Agent in accordance with the procedure set forth at the following link: [https://www.sap.com/copyright](https://www.sap.com/copyright).
+SAP IS ONLY RESPONSIBLE OR LIABLE FOR THE CONTENT POSTED ON AN SAP WEBSITE TO THE EXTENT REQUIRED BY THE GERMAN TELEMEDIA ACT (TELEMEDIENGESETZ, TMG). TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, YOUR USE OF CONTENT SHALL BE AT YOUR OWN RISK. Any Content, whether publicly posted or privately transmitted, is the sole responsibility of the person or entity providing the Content. SAP does not represent or endorse the accuracy, reliability, completeness, usefulness, non-infringement of intellectual property rights, or quality of any Content provided by third parties on an SAP Website. SAP may remove any Content posted on an SAP Website at SAP’s sole discretion, but, if You believe that material that You hold the copyright on is being infringed upon on any SAP web site, please notify SAP’s Copyright Agent in accordance with the procedure set forth at the following link: [https://www.sap.com/corporate/en/legal/copyright.html](https://www.sap.com/corporate/en/legal/copyright.html).
 
 SAP Websites may contain links to external websites. SAP shall not be responsible for the contents of any linked website, or any changes or updates to such websites. Additionally, SAP shall not be directly or indirectly responsible or liable for any damage or loss caused or alleged to be caused by or in connection with Your use of or reliance on any software, content, goods or services available on or through any such linked website. SAP does not control and/or review the linked web-pages and the information provided by third parties.
 
@@ -231,7 +228,7 @@ About SAP
 Site Information
 
 * [Privacy](https://www.sap.com/about/legal/privacy.html)
-* [Terms of Use](https://www.sap.com/corporate/en/legal/terms-of-use.html)
+* [Terms of Use](https://www.sap.com/about/legal/terms-of-use.html)
 * [Legal Disclosure](https://www.sap.com/about/legal/impressum.html)
 * [Copyright](https://www.sap.com/about/legal/copyright.html)
 * [Trademark](https://www.sap.com/about/legal/trademark.html)
