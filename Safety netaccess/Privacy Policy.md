@@ -153,7 +153,9 @@ Effective January 1, 2020
 
 Since 2001, Safety NetAccess has been designing, building and supporting wireless networks for hotels, resorts and other public properties. We’ve grown from a two-man start-up to one of the country’s most trusted providers, and yet we still feel like we’re just getting started.
 
-855-SNA-HSIA
+##### Help Desk: 888-636-5212
+
+##### Toll Free: 855-SNA-HSIA
 
 Office: 617-268-1134
 
