@@ -331,10 +331,6 @@ Im Rahmen der Verbesserung der Sicherheit sowohl für die hier gespeicherten Dat
 
 ### Termine
 
-**06.09.2024**
-
-Hausarbeitstag wegen Lehrerfortbildung
-
 **17.09.2024**
 
 19.30 Uhr Elternsprechersitzung in der Aula
