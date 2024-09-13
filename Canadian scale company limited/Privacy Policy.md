@@ -172,7 +172,7 @@ If you have any questions about this Privacy Policy, You can contact us:
 Celebrating 100 Years—1924-2024
 
 * ![Ontario Road
-    Builders Association](http://orba.org/wp-content/uploads/2017/01/logo.png)
+    Builders Association](https://orba.org/ORBA/media/Images/Site/orba_site_logox2.png)
 * ![Ontario Waste Management
     Association](http://canscale.com/Images/owma-logo.webp)
 * ![Ontario Stone, Sand &
