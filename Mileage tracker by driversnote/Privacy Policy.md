@@ -88,6 +88,8 @@ Driversnote
 
 [French Canada](https://www.fr.driversnote.ca/politique-de-confidentialit%C3%A9)
 
+[Germany](https://www.driversnote.de/Datenschutzerkl%C3%A4rung)
+
 [Netherlands](https://www.driversnote.nl/privacybeleid)
 
 [New Zealand](https://www.driversnote.co.nz/privacy-policy)
