@@ -1,4 +1,4 @@
-![](https://ct.pinterest.com/v3/?tid=2613714762118&noscript=1)   Terms and Conditions – ~Pourri                                    
+![](https://ct.pinterest.com/v3/?tid=2613714762118&noscript=1)   Terms and Conditions – ~Pourri                                   
 
       
 
@@ -8,9 +8,9 @@
 
    [Skip to Content](#main-content) [Skip to Navigation](#masthead)
 
-[Free Shipping On All Orders Over $35\*](https://www.poopourri.com/collections/all-products)
+[20% Off Pet~Pourri!](https://www.poopourri.com/collections/pet-pourri)
 
-[![~Pourri](//pourri.com/cdn/shop/t/769/assets/pourri--logo-150.gif?v=92675186479064556311725386321)](https://www.poopourri.com/)
+[![~Pourri](//pourri.com/cdn/shop/t/771/assets/pourri--logo-150.gif?v=92675186479064556311725872219)](https://www.poopourri.com/)
 
 shop
 
@@ -46,23 +46,23 @@ shop
     * [New!](https://www.poopourri.com/collections/new)
     * [Limited Time Scents](https://www.poopourri.com/collections/seasonal)
     
-    [](https://www.poopourri.com/products/lime-zest-matcha-trash-can-odor-spray)
-    
-    **New Trash Spray**
-    
     [](https://www.poopourri.com/collections/pet-pourri)
     
-    **New Pet Parent Essentials**
+    **20% Off Pet~Pourri**
+    
+    [](https://www.poopourri.com/pages/limited-time-fall-pourri-scents)
+    
+    **NEW! Shop Fall Collection**
     
 * [Build Your Own Bundle](https://www.poopourri.com/pages/build-your-own-bundle)
 * [Sale](https://www.poopourri.com/collections/sale)
 * Search  
     
-* ![customer account icon](//pourri.com/cdn/shop/t/769/assets/icon--nav-account-v2.svg?v=125546052516818336491725386212)
+* ![customer account icon](//pourri.com/cdn/shop/t/771/assets/icon--nav-account-v2.svg?v=125546052516818336491725872116)
     
     **Sign in** to earn rewards
     
-*  ![shopping bag icon](//pourri.com/cdn/shop/t/769/assets/icon--cart.svg?v=43504665361036498501725386208) **0**
+*  ![shopping bag icon](//pourri.com/cdn/shop/t/771/assets/icon--cart.svg?v=43504665361036498501725872113) **0**
 
 X* [![cat-image](//pourri.com/cdn/shop/files/best-smeller-mob_small.jpg?v=18042034792411084763)
     
@@ -79,32 +79,32 @@ X* [![cat-image](//pourri.com/cdn/shop/files/best-smeller-mob_small.jpg?v=180420
     ### Sale
     
     Save Up to 40%](https://www.poopourri.com/collections/sale)
-* [![cat-image](//pourri.com/cdn/shop/t/769/assets/bar-menu--poo.jpg?v=47379815496088024721725386075)
+* [![cat-image](//pourri.com/cdn/shop/t/771/assets/bar-menu--poo.jpg?v=47379815496088024721725871986)
     
     ### Poo~Pourri
     
     Before-You-Go Toilet Fresheners](https://www.poopourri.com/collections/toilet-sprays)
-* [![cat-image](//pourri.com/cdn/shop/t/769/assets/Travel-collection-mob.jpg?v=169265678626251582081725386446)
+* [![cat-image](//pourri.com/cdn/shop/t/771/assets/Travel-collection-mob.jpg?v=169265678626251582081725872341)
     
     ### Travel Collection
     
     Shop Travel-Sized Fresheners](https://www.poopourri.com/collections/gifts-for-travel)
-* [![cat-image](//pourri.com/cdn/shop/t/769/assets/bar-menu--home.jpg?v=1526822056388772681725386073)
+* [![cat-image](//pourri.com/cdn/shop/t/771/assets/bar-menu--home.jpg?v=1526822056388772681725871983)
     
     ### Home~Pourri
     
     Multi-Purpose Odor Fresheners](https://www.poopourri.com/collections/home-pourri)
-* [![cat-image](//pourri.com/cdn/shop/t/769/assets/bar-menu--pet.jpg?v=181139846575367696271725386074)
+* [![cat-image](//pourri.com/cdn/shop/t/771/assets/bar-menu--pet.jpg?v=181139846575367696271725871984)
     
     ### Pet~Pourri
     
     Pet Odor Fresheners](https://www.poopourri.com/collections/pet-pourri)
-* [![cat-image](//pourri.com/cdn/shop/t/769/assets/bar-menu--pot.jpg?v=37423939330182177851725386076)
+* [![cat-image](//pourri.com/cdn/shop/t/771/assets/bar-menu--pot.jpg?v=37423939330182177851725871986)
     
     ### Pot~Pourri
     
     Smoke Odor Fresheners](https://www.poopourri.com/products/pot-pourri-high-hopes)
-* [![cat-image](//pourri.com/cdn/shop/t/769/assets/bar-menu--sole.jpg?v=184380636308178010761725386077)
+* [![cat-image](//pourri.com/cdn/shop/t/771/assets/bar-menu--sole.jpg?v=184380636308178010761725871987)
     
     ### Sole~Pourri
     
@@ -129,7 +129,7 @@ X* [![cat-image](//pourri.com/cdn/shop/files/best-smeller-mob_small.jpg?v=180420
     ### New!
     
     The Latest & Greatest](https://www.poopourri.com/collections/new)
-* [![cat-image](//pourri.com/cdn/shop/t/769/assets/bar-menu--all.jpg?v=127310225224191499861725386072)
+* [![cat-image](//pourri.com/cdn/shop/t/771/assets/bar-menu--all.jpg?v=127310225224191499861725871982)
     
     ### Shop All Products](https://www.poopourri.com/collections/all-products)
 
@@ -180,7 +180,7 @@ Create Account Log In
 
 Loading...
 
-![customer account icon](//pourri.com/cdn/shop/t/769/assets/icon--nav-account-v2.svg?v=125546052516818336491725386212)
+![customer account icon](//pourri.com/cdn/shop/t/771/assets/icon--nav-account-v2.svg?v=125546052516818336491725872116)
 
 **Sign in to earn rewards** Don’t have an account? Create an account
 
@@ -188,6 +188,9 @@ Sign In
 
 Terms and Conditions
 ====================
+
+**20% off Pet~Pourri**  
+20% off Pet~Pourri 2 Year Anniversary promotion is only available for a limited time on all Pet~Pourri products. Discount will be reflected at checkout. Cannot be combined with other offers, promotions or applied to previous purchases. ~Pourri reserves the right to end or modify promotional prices at any time. Exclusions apply. Offer subject to change. Offer valid while supplies last or until the expiration of promotion on 9/14/24 at 11:59 pm PST.
 
 **FREE STANDARD SHIPPING**
 
@@ -276,7 +279,7 @@ For any content that you submit, you grant **Scentsible, LLC** a perpetual, ir
 
 All content that you submit may be used at **Scentsible, LLC's** sole discretion. **Scentsible, LLC** reserves the right to change, condense, withhold publication, remove or delete any content on **Scentsible, LLC's** website that **Scentsible, LLC** deems, in its sole discretion, to violate the content guidelines or any other provision of these Terms of Use. **Scentsible, LLC** does not guarantee that you will have any recourse through **Scentsible, LLC** to edit or delete any content you have submitted. Ratings and written comments are generally posted within two to four business days. However, **Scentsible, LLC** reserves the right to remove or to refuse to post any submission to the extent authorized by law. You acknowledge that you, not **Scentsible, LLC**, are responsible for the contents of your submission. None of the content that you submit shall be subject to any obligation of confidence on the part of **Scentsible, LLC**, its agents, subsidiaries, affiliates, partners or third party service providers and their respective directors, officers and employees.
 
-![Poo~Pourri](//pourri.com/cdn/shop/t/769/assets/pourri--logo-300.jpg?v=158840465595963141081725386322)
+![Poo~Pourri](//pourri.com/cdn/shop/t/771/assets/pourri--logo-300.jpg?v=158840465595963141081725872220)
 
 Freshen funky odors without funky ingredients—guaranteed
 
