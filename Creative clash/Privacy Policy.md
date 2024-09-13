@@ -43,6 +43,8 @@
 
 [Get ready to Clash!](https://xcreativeclashx.net/announcement/21-get-ready-to-clash/) [×](#)
 
+[Server Upgrade](https://xcreativeclashx.net/announcement/22-server-upgrade/) [×](#)
+
 * **Privacy Policy**
     
     CreativeClash is committed to protecting and respecting your privacy. We collect only the personal information that we need from you to operate our website, and we do not divulge your personal information to anyone else unless we are ordered to do so by a court that has jurisdiction over us.
