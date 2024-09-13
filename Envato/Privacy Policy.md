@@ -1,4 +1,4 @@
-![Hamburger](/static/media/hamburger.a63e4328.svg)[![envato logo](/static/media/envato.13edc57e.svg)](https://envato.com/about/ "Envato")
+![Hamburger](/static/media/hamburger.a63e4328.svg)[![envato logo](/static/media/envato.44bb3d4c.svg)](https://envato.com/about/ "Envato")
 
 * [Products](https://envato.com/products/)
 * [About](https://envato.com/about/)
@@ -259,7 +259,7 @@ Archive
 * [2021-10-11](https://envato.com/privacy/archive/2021-10-11/)
 * [2019-04-10](https://envato.com/privacy/archive/2019-04-10/)
 
-[![envato logo](/static/media/envato.13edc57e.svg)](https://www.envato.com/about)
+[![envato logo](/static/media/envato.44bb3d4c.svg)](https://www.envato.com/about)
 
 * [Products](https://envato.com/products/)
 * [Purpose](https://envato.com/about/purpose/)
