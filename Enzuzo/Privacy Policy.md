@@ -36,6 +36,8 @@
     * [Privacy Policy Generator](https://www.enzuzo.com/ecommerce-privacy-policy-generator)
     * [Cookie Banner Generator](https://www.enzuzo.com/cookie-banner-generator)
     * [Terms of Service Generator](https://www.enzuzo.com/terms-of-service-generator)
+    * [Data Requests (DSARs)](https://www.enzuzo.com/dsar-software)
+    * [CCPA Compliance](https://www.enzuzo.com/ccpa-compliance-software)
     
     #### By Industry
     
@@ -149,6 +151,7 @@ made easy
 #### Company
 
 * [Contact Us](https://www.enzuzo.com/contact)
+* [Pricing](https://www.enzuzo.com/pricing)
 * [Get a Demo](https://www.enzuzo.com/demo)
 * [Become a Partner](https://www.enzuzo.com/partners)
 * [About Us](https://www.enzuzo.com/about)
