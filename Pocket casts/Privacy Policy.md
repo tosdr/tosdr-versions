@@ -250,7 +250,7 @@ _This Privacy Policy was last revised: **April 22, 2024**._
 
 ### Related Articles
 
-* [Sharing Podcasts and Episodes](https://support.pocketcasts.com/knowledge-base/sharing-podcasts-and-episodes/)
+* [Sharing Podcasts, Episodes, and Clips](https://support.pocketcasts.com/knowledge-base/sharing-podcasts-and-episodes/)
 * [Uninstalling and Reinstalling the App](https://support.pocketcasts.com/knowledge-base/uninstalling-and-reinstalling-the-app/)
 * [Single Sign-On: Accounts Using “Continue With Google” or “Continue With Apple”](https://support.pocketcasts.com/knowledge-base/single-sign-on-accounts-using-continue-with-google-or-continue-with-apple/)
 * [Adding or Updating My Avatar](https://support.pocketcasts.com/knowledge-base/adding-or-updating-my-avatar/)
