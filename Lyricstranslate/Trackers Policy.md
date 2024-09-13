@@ -28,11 +28,11 @@ Search
 * [Artists](https://lyricstranslate.com/en/artists)
 * [Translations](https://lyricstranslate.com/en/translations)
 * [Languages](https://lyricstranslate.com/en/languages.html)
-* [Actions](https://lyricstranslate.com/en/add-post)
+* [Actions](#)
     
-    * [Add new translation](https://lyricstranslate.com/en/add/translate)
+    * [Add new translation](https://lyricstranslate.com/en/how-add-new-translation)
     * [Add new song](https://lyricstranslate.com/en/add/song)
-    * [Request a translation](https://lyricstranslate.com/en/add/request)
+    * [Request a translation](https://lyricstranslate.com/en/how-request-translation)
     * [Request lyrics transcription](https://lyricstranslate.com/en/add/transrequest)
     * [Start forum thread](https://lyricstranslate.com/en/node/add/forum)
     
@@ -137,67 +137,69 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![Muffinssi](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1521382-1722856099.png)](https://lyricstranslate.com/en/translator/muffinssi "Muffinssi")
+[![Kevin Rainbow](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1454922-1651518411.jpg)](https://lyricstranslate.com/en/translator/kevin-rainbow "Kevin Rainbow")
+
+New song
+
+[Sariel Orenda - Събуди се](https://lyricstranslate.com/en/sariel-orenda-sbudi-se-lyrics)
+
+Bulgarian
+
+[![Leonburger](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1489681-1648133115.jpg)](https://lyricstranslate.com/en/translator/leonburger "Leonburger")
+
+New song
+
+[Morat - Por si no te vuelvo a ver](https://lyricstranslate.com/en/morat-por-si-no-te-vuelvo-ver-lyrics)
+
+Spanish
+
+[![Teapot29](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/teapot29 "Teapot29")
 
 New translation
 
-[Kim Petras - Turn Off the Light](https://lyricstranslate.com/en/kim-petras-turn-light-finnish)
+[Posduif - Stellenbosch Somersaand](https://lyricstranslate.com/en/posduif-stellenbosch-somersaand-english)
 
-English → Finnish
+Afrikaans → English
 
-[![Klaarzin](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1517013-1636035828.png)](https://lyricstranslate.com/en/translator/klaarzin "Klaarzin")
+[![Mrs. Beagle](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1559144-1673390316.jpg)](https://lyricstranslate.com/en/translator/mrs-beagle "Mrs. Beagle")
 
-New translation
+Transcription request fulfilled
 
-[Paul Verlaine - Chanson d'automne](https://lyricstranslate.com/en/paul-verlaine-chanson-dautomne-dutch)
+[트위니스 (Tweenies Intro)](https://lyricstranslate.com/en/tweenies-ost-teuwiniseu-lyrics)
 
-French → Dutch
+Korean
 
-[![cherrychu](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1610789-1724255456.jpg)](https://lyricstranslate.com/en/translator/cherrychu "cherrychu")
+[![Mrs. Beagle](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1559144-1673390316.jpg)](https://lyricstranslate.com/en/translator/mrs-beagle "Mrs. Beagle")
 
-New translation
+New song
 
-[Kuroyuri To Kage - 絵の具まみれ (Enogu mamire)](https://lyricstranslate.com/en/kuroyuri-kage-enogu-mamire-turkish)
+[Tweenies (ost) - 트위니스 (Tweenies Intro)](https://lyricstranslate.com/en/tweenies-ost-teuwiniseu-lyrics)
 
-Japanese → Turkish
+Korean
 
-[![Elian E.](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/elian-e "Elian E.")
+[![Mrs. Beagle](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1559144-1673390316.jpg)](https://lyricstranslate.com/en/translator/mrs-beagle "Mrs. Beagle")
 
-New translation
+New song
 
-[Eddy Mitchell - Le bon temps qui passe](https://lyricstranslate.com/en/eddy-mitchell-le-bon-temps-qui-passe-english)
+[Tweenies (ost) - Tweenies Intro (Indonesian)](https://lyricstranslate.com/en/tweenies-ost-tweenies-intro-indonesia-lyrics)
 
-French → English
+Indonesian
 
-[![ErikaCh](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1590455-1693163951.png)](https://lyricstranslate.com/en/translator/erikach "ErikaCh")
+[![BlackRyder](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1429942-1641186576.png)](https://lyricstranslate.com/en/translator/blackryder "BlackRyder")
 
-New translation
+New song
 
-[Bush - Little Things](https://lyricstranslate.com/en/bush-little-things-italian)
+[Pinguini Tattici Nucleari - Romantico ma muori](https://lyricstranslate.com/en/pinguini-tattici-nucleari-romantico-ma-muori-lyrics)
 
-English → Italian
+Italian
 
-[![Silverblue](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1418394-1706209641.jpg)](https://lyricstranslate.com/en/translator/silverblue "Silverblue")
+[![Yerassyl Kuanysh](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1494613-1702305620.png)](https://lyricstranslate.com/en/translator/yerassyl-kuanysh "Yerassyl Kuanysh")
 
-New comment
+New song
 
-Hi, https://lyricstranslate.com/es/...  [more](https://lyricstranslate.com/en/comment/1164538#comment-1164538)
+[Meyrambek Bespayev - Сағынышым](https://lyricstranslate.com/en/meyrambek-bespayev-saghynyshym-lyrics)
 
-[![damianzimu](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1547118-1662476290.jpg)](https://lyricstranslate.com/en/translator/damianzimu "damianzimu")
-
-New translation
-
-[Hozier - Arsonist's lullaby](https://lyricstranslate.com/en/hozier-arsonists-lullaby-czech)
-
-English → Czech
-
-[![Kososka](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1627760-1725318425.jpg)](https://lyricstranslate.com/en/translator/kososka "Kososka")
-
-New translation
-
-[The Vaccines - Handsome](https://lyricstranslate.com/en/vaccines-handsome-finnish)
-
-English → Finnish
+Kazakh
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
