@@ -242,7 +242,7 @@ Sign me up for the following e-mail:
 
  Membership Updates PETA News
 
-Current subscribers: You will continue to receive e-mail unless you explicitly opt out by clicking [here](https://support.peta.org/page/921/action/1).
+Current subscribers: You will continue to receive e-mails unless you explicitly [opt out here](https://support.peta.org/page/53017/data/1).
 
 By submitting this form, you’re acknowledging that you have read and agree to our [privacy policy](https://www.peta.org/about-peta/learn-about-peta/website-policies/privacy/) and agree to receive e-mails from us.
 
@@ -303,7 +303,7 @@ Sign me up for the following e-mail:
 
  Membership Updates PETA News PETA Living
 
-Current subscribers: You will continue to receive e-mail unless you explicitly opt out by clicking [here](https://support.peta.org/page/921/action/1).
+Current subscribers: You will continue to receive e-mails unless you explicitly [opt out here](https://support.peta.org/page/53017/data/1).
 
 By submitting this form, you’re acknowledging that you have read and agree to our [privacy policy](https://www.peta.org/about-peta/learn-about-peta/website-policies/privacy/) and agree to receive e-mails from us.
 
@@ -317,7 +317,7 @@ Sign me up for the following e-mail:
 
  Membership Updates PETA News PETA Living
 
-Current subscribers: You will continue to receive e-mail unless you explicitly opt out by clicking [here](https://support.peta.org/page/921/action/1).
+Current subscribers: You will continue to receive e-mails unless you explicitly [opt out here](https://support.peta.org/page/53017/data/1).
 
 By submitting this form, you’re acknowledging that you have read and agree to our [privacy policy](https://www.peta.org/about-peta/learn-about-peta/website-policies/privacy/) and agree to receive e-mails from us.
 
