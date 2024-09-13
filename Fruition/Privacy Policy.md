@@ -56,7 +56,7 @@ United States
 
 #### Quicklinks
 
-[Home](https://fruition.net/)[Careers](https://fruition.net/careers)[About](https://fruition.net/about)[Work](https://fruition.net/clients)[Insights](https://fruition.net/blog)[Contact](https://fruition.net/contact)
+[Home](https://fruition.net/)[Careers](https://fruition.net/careers)[About](https://fruition.net/about)[Work](https://fruition.net/clients)[Insights](https://fruition.net/blog)[Contact](https://fruition.net/contact)[Privacy Policy](https://fruition.net/privacy-policy)
 
 Get Expert Insights and Notices from FruitionSubmit
 
