@@ -86,15 +86,15 @@ MENU SEARCH FIND [SUBSCRIBE](https://independentaustralia.net/about-ia/subscribe
 
 * * *
 
-[Gina drills, digs and destroys](https://independentaustralia.net/article-display/gina-drills-digs-and-destroys,18951)
+[ABC trails Coalition on its Road to Nowhere](https://independentaustralia.net/article-display/abc-trails-coalition-on-its-road-to-nowhere,18972)
 
 [More time to write and win in IA Writing Comp!](https://independentaustralia.net/article-display/ia-writing-competition-more-time-to-win-prizes,18918)
 
-[ANZ reaches new low in breaching agreement over Katoomba closure](https://independentaustralia.net/article-display/politics-display/anz-reaches-new-low-in-breaching-agreement-over-katoomba-closure,18964)
+[Colombia enters top five asylum source nations](https://independentaustralia.net/article-display/politics-display/colombia-enters-top-five-asylum-source-nations,18969)
 
-[UK Labour’s Scrooge makeover](https://independentaustralia.net/article-display/uk-labours-scrooge-makeover,18963)
+[NSW Government criminal policies ensuring koala extinction](https://independentaustralia.net/article-display/nsw-government-criminal-policies-ensuring-koala-extinction,18968)
 
-[The economic debate that Treasurer Chalmers has won](https://independentaustralia.net/article-display/the-economic-debate-that-treasurer-chalmers-has-won,18961)
+[Norway a world leader in broadband access](https://independentaustralia.net/article-display/norway-a-world-leader-in-broadband-access,18966)
 
 Comments Policy
 
@@ -134,13 +134,13 @@ Join the **I_A_** newsletter for regular updates on our latest news stories.
 Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
-* [Government rationale for student visa caps revealed](https://independentaustralia.net/article-display/government-rationale-for-student-visa-caps-revealed,18959 "Permanent Link : Government rationale for student visa caps revealed")
-* [ANZ reaches new low in breaching agreement over Katoomba closure](https://independentaustralia.net/article-display/anz-reaches-new-low-in-breaching-agreement-over-katoomba-closure,18964 "Permanent Link : ANZ reaches new low in breaching agreement over Katoomba closure")
-* [POEM: Plastic Apocalypse](https://independentaustralia.net/article-display/poem-plastic-apocalypse,18958 "Permanent Link : POEM: Plastic Apocalypse")
-* [UK Labour’s Scrooge makeover](https://independentaustralia.net/article-display/uk-labours-scrooge-makeover,18963 "Permanent Link : UK Labour’s Scrooge makeover")
-* [The economic debate that Treasurer Chalmers has won](https://independentaustralia.net/article-display/the-economic-debate-that-treasurer-chalmers-has-won,18961 "Permanent Link : The economic debate that Treasurer Chalmers has won")
-* [Latest snapshot of Albo’s economy defies mainstream media negativity](https://independentaustralia.net/article-display/latest-snapshot-of-albos-economy-defies-mainstream-media-negativity,18962 "Permanent Link : Latest snapshot of Albo’s economy defies mainstream media negativity")
-* [Ukraine’s incursion into Kursk offers possibilities and difficulties](https://independentaustralia.net/article-display/ukraines-incursion-into-kursk-offers-possibilities-and-difficulties,18960 "Permanent Link : Ukraine’s incursion into Kursk offers possibilities and difficulties")
+* [ABC trails Coalition on its Road to Nowhere](https://independentaustralia.net/article-display/abc-trails-coalition-on-its-road-to-nowhere,18972 "Permanent Link : ABC trails Coalition on its Road to Nowhere")
+* [Fight or flight: Adapting to the climate crisis](https://independentaustralia.net/article-display/fight-or-flight-adapting-to-the-climate-crisis,18975 "Permanent Link : Fight or flight: Adapting to the climate crisis")
+* [International law being abandoned for self-defence](https://independentaustralia.net/article-display/international-law-being-abandoned-for-self-defence,18967 "Permanent Link : International law being abandoned for self-defence")
+* [CARTOONS: Donald Trump — aliens are eating dogs](https://independentaustralia.net/article-display/cartoons-donald-trump-aliens-are-eating-dogs,18976 "Permanent Link : CARTOONS: Donald Trump — aliens are eating dogs")
+* [Soldier of courage: An open letter to David McBride](https://independentaustralia.net/article-display/soldier-of-courage-an-open-letter-to-david-mcbride,18974 "Permanent Link : Soldier of courage: An open letter to David McBride")
+* [UK arms curb exposes Australia's role in Israeli war crimes](https://independentaustralia.net/article-display/uk-arms-curb-exposes-australias-role-in-israeli-war-crimes,18973 "Permanent Link : UK arms curb exposes Australia's role in Israeli war crimes")
+* [Census gender inclusion ruffles Right-wing feathers](https://independentaustralia.net/article-display/census-gender-inclusion-ruffles-right-wing-feathers,18970 "Permanent Link : Census gender inclusion ruffles Right-wing feathers")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
