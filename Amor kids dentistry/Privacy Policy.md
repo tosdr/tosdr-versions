@@ -109,8 +109,8 @@ Los Angeles, CA 90044
     **323.776.1300**](tel: 323.776.1300)
     
 
-Pediatric Conscious Oral Sedation Certified
--------------------------------------------
+High Quality Pediatric Dentistry
+--------------------------------
 
 [Learn More](https://www.amorkidsdentistry.com/about/)
 
