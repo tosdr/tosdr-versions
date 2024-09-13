@@ -6,7 +6,7 @@ Own a Piece of Frost Giant Today!
 
 [Home](https://playstormgate.com/) [News](https://playstormgate.com/news) [SUPPORT](https://support.playstormgate.com/)
 
-🇺🇸   English 🇪🇸   Español 🇫🇷   Français 🇵🇹   Português 🇩🇪   Deutsch 🇷🇺   Русский 🇰🇷   한국어 🇨🇳   中文 🇹🇼   中文（繁體） [Wishlist on Steam](https://store.steampowered.com/app/2012510/)[Pre-Purchase](https://playstormgate.com/prepurchase)
+🇺🇸   English 🇪🇸   Español 🇫🇷   Français 🇵🇹   Português 🇩🇪   Deutsch 🇷🇺   Русский 🇰🇷   한국어 🇨🇳   中文 🇹🇼   中文（繁體） [Play Now](https://store.steampowered.com/app/2012510/)[TUTORIALS](https://stormgate.untapped.gg/en/learn)
 
 End User License Agreement
 ==========================
