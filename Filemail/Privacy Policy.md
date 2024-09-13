@@ -8,9 +8,9 @@
     
     File transfer apps
     
-    * [Android](https://www.filemail.com/content/apps/android-file-transfer-app/)
+    * [Android](https://www.filemail.com/sharing-apps/android-file-transfer-app)
     * [API](https://www.filemail.com/apps/file-sharing-api)
-    * [iPhone](https://www.filemail.com/apps/iphone)
+    * [iPhone](https://www.filemail.com/sharing-apps/iphone-file-transfer-app)
     * [Outlook](https://www.filemail.com/apps/outlook-add-in-to-send-large-files)
     * [Mac](https://www.filemail.com/apps/mac)
     * [Windows](https://www.filemail.com/apps/windows)
@@ -19,7 +19,7 @@
     Products
     
     * [Pro](https://www.filemail.com/pro)
-    * [Business](https://www.filemail.com/business)
+    * [Business](https://www.filemail.com/plans/business)
     * [Enterprise MFT](https://www.filemail.com/enterprise-managed-file-transfer-mft)
     
 * Features
@@ -29,11 +29,11 @@
     * [Automatic Download](https://www.filemail.com/share/automatic-download)
     * [Download files](https://www.filemail.com/share/download-files-any-way-you-like)
     * [Filemail API](https://www.filemail.com/share/filemail-apis)
-    * [File request](https://www.filemail.com/content/share/file-request/)
+    * [File request](https://www.filemail.com/share/file-request)
     * [File tracking](https://www.filemail.com/share/keep-track-of-files-and-people)
     * [Link Sharing](https://www.filemail.com/share/link-sharing)
-    * [Receive large files](https://www.filemail.com/content/share/receive-large-files/)
-    * [UDP Transfer Acceleration](https://www.filemail.com/content/share/udp-transfer-acceleration/)
+    * [Receive large files](https://www.filemail.com/share/receive-large-files)
+    * [UDP Transfer Acceleration](https://www.filemail.com/share/udp-transfer-acceleration)
     * [Upload files](https://www.filemail.com/share/upload-file)
     * [Upload form integration](https://www.filemail.com/share/upload-form-integration)
     * [Upload Images](https://www.filemail.com/share/upload-images)
@@ -46,7 +46,7 @@
     MFT Features
     
     * [Full audit trail and governance](https://www.filemail.com/mft-features/full-audit-trail-and-governance)
-    * [HIPAA compliant file sharing](https://www.filemail.com/content/mft-features/hipaa-compliant-file-sharing/)
+    * [HIPAA compliant file sharing](https://www.filemail.com/mft-features/hipaa-compliant-file-sharing)
     * [Pentest report access](https://www.filemail.com/mft-features/pentest-report-access)
     * [SAML/SSO](https://www.filemail.com/mft-features/saml-sso)
     * [Two factor authentication](https://www.filemail.com/mft-features/two-factor-authentication)
@@ -57,7 +57,7 @@
     * [GDPR](https://www.filemail.com/security/gdpr)
     
 
-* [Affiliate program](https://www.filemail.com/content/filemail-affiliate-program/)
+* [Affiliate program](https://www.filemail.com/resources/affiliate-program)
 * [Blog](https://www.filemail.com/blog)
 * Help
     
@@ -171,9 +171,9 @@ Company
 -------
 
 * [About us](https://www.filemail.com/about-us)
-* [Terms of use](https://www.filemail.com/terms)
-* [Privacy Policy](https://www.filemail.com/privacy)
-* [Cookie policy](https://www.filemail.com/cookies)
+* [Terms of use](https://support.filemail.com/en/articles/9756527-terms-and-conditions-of-use)
+* [Privacy Policy](https://support.filemail.com/en/articles/9756652-privacy-policy)
+* [Cookie policy](https://support.filemail.com/en/articles/9756667-cookies-policy)
 
 Secure File Sharing Apps & Plugins
 ----------------------------------
@@ -182,8 +182,8 @@ Secure File Sharing Apps & Plugins
 * [Filemail Mac](https://www.filemail.com/apps/mac-file-transfer-app)
 * [Filemail Linux](https://www.filemail.com/apps/linux-file-transfer-app)
 * [Outlook Addin](https://www.filemail.com/apps/outlook-add-in-to-send-large-files)
-* [Filemail iOS](https://itunes.apple.com/us/app/filemail/id665033466?mt=8)
-* [Filemail Android](https://www.filemail.com/content/apps/android-file-transfer-app/)
+* [Filemail iOS](https://www.filemail.com/sharing-apps/iphone-file-transfer-app)
+* [Filemail Android](https://www.filemail.com/sharing-apps/android-file-transfer-app)
 
 Upgrade
 -------
@@ -218,8 +218,8 @@ Resources
 * [Blog](https://www.filemail.com/blog)
 * [File Transfer Time Calculator](https://www.filemail.com/file-transfer-time-calculator)
 * [How To Send Large Videos](https://www.filemail.com/the-ultimate-guide-on-how-to-send-large-videos)
-* [Affiliate program](https://www.filemail.com/content/filemail-affiliate-program/)
-* [Awards](https://www.filemail.com/content/awards/)
+* [Affiliate program](https://www.filemail.com/resources/affiliate-program)
+* [Awards](https://www.filemail.com/resources/awards)
 * [Send Large Files Free](https://www.filemail.com/)
 
 Get Social
