@@ -140,3 +140,5 @@ This product uses the Instagram API but is not endorsed or certified by Instagra
 [About Us](https://dumpoir.com/page/about) [Privacy Policy](https://dumpoir.com/page/privacy) [Remove Profile](https://dumpoir.com/page/remove)
 
 ![](https://mc.yandex.ru/watch/88160843)
+
+[instagram story viewer](https://greatfon.com/)
