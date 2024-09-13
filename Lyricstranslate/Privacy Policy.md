@@ -28,11 +28,11 @@ Search
 * [Artists](https://lyricstranslate.com/en/artists)
 * [Translations](https://lyricstranslate.com/en/translations)
 * [Languages](https://lyricstranslate.com/en/languages.html)
-* [Actions](https://lyricstranslate.com/en/add-post)
+* [Actions](#)
     
-    * [Add new translation](https://lyricstranslate.com/en/add/translate)
+    * [Add new translation](https://lyricstranslate.com/en/how-add-new-translation)
     * [Add new song](https://lyricstranslate.com/en/add/song)
-    * [Request a translation](https://lyricstranslate.com/en/add/request)
+    * [Request a translation](https://lyricstranslate.com/en/how-request-translation)
     * [Request lyrics transcription](https://lyricstranslate.com/en/add/transrequest)
     * [Start forum thread](https://lyricstranslate.com/en/node/add/forum)
     
@@ -107,69 +107,69 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![RetroPanda](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1536684-1650612822.jpg)](https://lyricstranslate.com/en/translator/retropanda "RetroPanda")
+[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
 
-New request
+New song
 
-[Yoshimi Iwasaki - 揺れて純愛 (Yurete Jun'ai)](https://lyricstranslate.com/en/request/%E6%8F%BA%E3%82%8C%E3%81%A6%E7%B4%94%E6%84%9B)
+[Wonderful Pretty Cure! (OST) - わんだフル・わんデイ～Remix for Chihaya Yoshitake Ver.～](https://lyricstranslate.com/en/wonderful-pretty-cure-o-wandahuruwandeiremix-lyrics-1)
 
-Japanese → English
-
-[![road to progress](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1342528-1569415592.jpg)](https://lyricstranslate.com/en/translator/road-progress "road to progress")
-
-New translation
-
-[Ajar - pire que la mort](https://lyricstranslate.com/en/ajar-pire-que-la-mort-english)
-
-French → English
+Japanese
 
 [![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
 
 New song
 
-[Renzo Arbore - Luna rossa](https://lyricstranslate.com/en/renzo-arbore-luna-rossa-lyrics)
+[Luciano Pavarotti - Maria, Marì](https://lyricstranslate.com/en/luciano-pavarotti-maria-mari-lyrics)
 
 Neapolitan
 
-[![RetroPanda](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1536684-1650612822.jpg)](https://lyricstranslate.com/en/translator/retropanda "RetroPanda")
+[![NightSky88](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1626941-1724948538.png)](https://lyricstranslate.com/en/translator/nightsky88 "NightSky88")
 
-New request
+New song
 
-[Yūki Kudō - JUN](https://lyricstranslate.com/en/request/jun)
+[Torii Wolf - Shadows Crawl](https://lyricstranslate.com/en/torii-wolf-shadows-crawl-lyrics)
+
+English
+
+[![akastanci](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1553472-1725719595.png)](https://lyricstranslate.com/en/translator/akastanci "akastanci")
+
+New translation
+
+[London Grammar - You And I](https://lyricstranslate.com/en/london-grammar-you-and-i-turkish)
+
+English → Turkish
+
+[![NightSky88](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1626941-1724948538.png)](https://lyricstranslate.com/en/translator/nightsky88 "NightSky88")
+
+New song
+
+[Torii Wolf - Colours](https://lyricstranslate.com/en/torii-wolf-colours-lyrics)
+
+English
+
+[![Enoo](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1145429-1427889571.jpg)](https://lyricstranslate.com/en/translator/enoo "Enoo")
+
+New translation
+
+[T-killah - Мира мало (Mira malo)](https://lyricstranslate.com/en/t-killah-mira-malo-french)
+
+Russian → French
+
+[![Anastasya Milutina](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1594339-1696153472.jpg)](https://lyricstranslate.com/en/translator/anastasya-milutina "Anastasya Milutina")
+
+New translation
+
+[Tzila Dagan - על הדרך עץ עומד (שיר על עץ) (Al Haderech Etz Omed \[Shir Al Etz\])](https://lyricstranslate.com/en/tzila-dagan-al-haderech-etz-omed-shi-ukrainian)
+
+Hebrew → Ukrainian
+
+[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
+
+New translation
+
+[Wonderful Pretty Cure! (OST) - わんだフル・わんデイ～Remix for Moeha Nochimoto Ver.～](https://lyricstranslate.com/en/wonderful-pretty-cur-wandahuruwandeiremix-english-0)
 
 Japanese → English
-
-[![broken machine](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1521536-1714957153.jpg)](https://lyricstranslate.com/en/translator/broken-machine "broken machine")
-
-New translation
-
-[Memento • Mori - 菊ノ傘ト籠女唄 (kiku no kasa to kagomeuta)](https://lyricstranslate.com/en/memento-mori-kiku-no-kasa-kagomeuta-russian)
-
-Japanese → Russian
-
-[![broken machine](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1521536-1714957153.jpg)](https://lyricstranslate.com/en/translator/broken-machine "broken machine")
-
-New translation
-
-[Memento • Mori - 菊ノ傘ト籠女唄 (kiku no kasa to kagomeuta)](https://lyricstranslate.com/en/memento-mori-kiku-no-kasa-kagomeuta-transliteration)
-
-Japanese → Transliteration
-
-[![Barbarossa Davide](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/barbarossa-davide "Barbarossa Davide")
-
-New translation
-
-[South Korean Military & Patriotic Songs - 멸공의 횃불 (Myeolgongui Hwaetbul)](https://lyricstranslate.com/en/south-korean-militar-myeolgongui-hwaetbul-english)
-
-Korean → English
-
-[![Barbarossa Davide](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/barbarossa-davide "Barbarossa Davide")
-
-New translation
-
-[South Korean Military & Patriotic Songs - 멸공의 횃불 (Myeolgongui Hwaetbul)](https://lyricstranslate.com/en/south-korean-militar-myeolgongui-hwaetbul-chinese)
-
-Korean → Chinese
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
