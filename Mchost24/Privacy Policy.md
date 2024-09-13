@@ -1,6 +1,6 @@
-Unser Community Discord ist aktiv. Schau gerne mal vorbei.
+Wir schenken dir 35 % auf jede Aufladung bis zum 15.09.2024!
 
-[Zu Discord](https://discord.com/invite/gSSUc8R)
+[Anmelden](#)
 
 [](#)
 
