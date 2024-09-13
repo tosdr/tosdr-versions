@@ -19,7 +19,7 @@ Controller
 
   
 
-[![en_2381.svg](https://shields.tosdr.org/en_2381.svg)](https://tosdr.org/de/service/2381)
+[**Duty to provide information in accordance with the E-Commerce Act and the Media Act**](https://www.wkoecg.at/Ecg.aspx?FirmaID=0562025f-b32b-44a4-9e15-a02c14f302b1)
 
   
 
@@ -59,7 +59,9 @@ Court of jurisdiction Graz, Austria
 
   
 
-Report a vulnerability: [Coordinated Vulnerability Disclosure (CVD) Policy](https://neurohr.bytes.software/public/cvd-policy)
+**[Duty to provide information in accordance with the E-Commerce Act and the Media Act](https://www.wkoecg.at/Ecg.aspx?FirmaID=de1b5892-fd85-41e2-aedb-38228c3f112f)**
+
+  
 
   
 
@@ -110,6 +112,14 @@ Deutschland
 +49 89 25552276
 
 [Transparency report](https://www.cloudflare.com/en-gb/transparency/)
+
+  
+
+Legally required information: Consumers have the option of submitting complaints to the EU's online dispute resolution platform: [Online Dispute Resolution](https://ec.europa.eu/odr).
+
+  
+
+Report a vulnerability: [Coordinated Vulnerability Disclosure (CVD) Policy](https://neurohr.bytes.software/public/cvd-policy)
 
   
 
