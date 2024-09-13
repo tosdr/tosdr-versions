@@ -108,59 +108,59 @@ Advertisement
 
 ###### Highest Rated This Month
 
-* [![Canada’s woke nightmare: A warning to the West](/wp-content/thumbnails/16701-100x70.jpg?x53432)
-    
-    Canada’s woke nightmare: A warning to the West
-    
-    Canada, under the leadership of Justin Trudeau, has positioned itself as a global advocate for progressive policies. In my latest documentary featured in The Telegraph, I embarked on a journey to the...](https://documentaryheaven.com/canadas-woke-nightmare-a-warning-to-the-west/ "Canada’s woke nightmare: A warning to the West")
 * [![Objectified](/wp-content/thumbnails/2483-100x70.jpg?x53432)
     
     Objectified
     
     Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
+* [![Canada’s woke nightmare: A warning to the West](/wp-content/thumbnails/16701-100x70.jpg?x53432)
+    
+    Canada’s woke nightmare: A warning to the West
+    
+    Canada, under the leadership of Justin Trudeau, has positioned itself as a global advocate for progressive policies. In my latest documentary featured in The Telegraph, I embarked on a journey to the...](https://documentaryheaven.com/canadas-woke-nightmare-a-warning-to-the-west/ "Canada’s woke nightmare: A warning to the West")
+* [![Louis Theroux: Drinking To Oblivion](/wp-content/thumbnails/16353-100x70.jpg?x53432)
+    
+    Louis Theroux: Drinking To Oblivion
+    
+    Drinking To Oblivion sees Louis Theroux set about spending some time in the world of extreme drinkers, getting to know people who consume alcohol not just to excess but to the point of total oblivio...](https://documentaryheaven.com/louis-theroux-drinking-to-oblivion/ "Louis Theroux: Drinking To Oblivion")
+* [![Horizon: The Secret You](/wp-content/thumbnails/4506-100x70.jpg?x53432)
+    
+    Horizon: The Secret You
+    
+    With the help of a hammer-wielding scientist, Jennifer Aniston and a general anaesthetic, Professor Marcus du Sautoy goes in search of answers to one of science’s greatest mysteries: how do we know wh...](https://documentaryheaven.com/horizon-the-secret-you/ "Horizon: The Secret You")
 * [![The Beginning and the End of the Universe](/wp-content/thumbnails/16715-100x70.jpg?x53432)
     
     The Beginning and the End of the Universe
     
     Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
-* [![Extraordinary People: The Boy Who Lived Before](/wp-content/thumbnails/861-100x70.jpg?x53432)
-    
-    Extraordinary People: The Boy Who Lived Before
-    
-    Ever since he could talk, Cameron has been telling stories of his life on Barra, a remote island in the Outer Hebrides, some 220 miles from his current home in Glasgow. He describes in detail his chil...](https://documentaryheaven.com/extraordinary-people-the-boy-who-lived-before/ "Extraordinary People: The Boy Who Lived Before")
-* [![Bosnian Pyramids](/wp-content/thumbnails/1835-100x70.gif?x53432)
-    
-    Bosnian Pyramids
-    
-    The Bosnian Pyramid of the Sun, with its’ height of 220 meters, it’s much higher than the Great Pyramid of Egypt, which was originally 147. The Bosnian Pyramid of the Moon, 190 meters, also higher tha...](https://documentaryheaven.com/bosnian-pyramids/ "Bosnian Pyramids")
 
 ###### Throwback Documentaries
 
-* [![Hitler’s British Girl](/wp-content/thumbnails/5971-100x70.jpg?x53432)
+* [![Paris Is Burning](/wp-content/thumbnails/6532-100x70.jpg?x53432)
     
-    Hitler’s British Girl
+    Paris Is Burning
     
-    On September 3rd 1939, 25-year-old English aristocrat Unity Mitford walked into a Munich park and shot herself in the head. Distraught at the prospect of England declaring war on her beloved Fuhrer, B](https://documentaryheaven.com/hitlers-british-girl/ "Hitler’s British Girl")
-* [![A Good Job: Stories of the FDNY](/wp-content/thumbnails/9942-100x70.jpg?x53432)
+    Paris Is Burning is a 1990 documentary film directed by Jennie Livingston. Filmed in the mid-to-late 1980s, it chronicles the ball culture of New York City and the African American, Latino,](https://documentaryheaven.com/paris-is-burning/ "Paris Is Burning")
+* [![An Inconvenient Border](/wp-content/thumbnails/13551-100x70.jpg?x53432)
     
-    A Good Job: Stories of the FDNY
+    An Inconvenient Border
     
-    In this amazing HBO special we see the critically acclaimed actor and FDNY veteran Steve Buscemi explore one of the worlds most demanding fire departments. Along side other such veterans, Buscemi expl](https://documentaryheaven.com/good-job-stories-of-fdny/ "A Good Job: Stories of the FDNY")
-* [![Enemy Image](/wp-content/thumbnails/2409-100x70.jpg?x53432)
+    The relationship between China and North Korea has always been complicated, China's Mao Zedong famously said that the two countries were as close as lips and teeth. A relationship forged in blood and](https://documentaryheaven.com/an-inconvenient-border/ "An Inconvenient Border")
+* [![Paul Sykes: At Large](/wp-content/thumbnails/13059-100x70.jpg?x53432)
     
-    Enemy Image
+    Paul Sykes: At Large
     
-    When Baghdad exploded under bombs, television chose to bring us fireworks. But does this distant and spectacular image tell us what is really happening on the ground, how it feels or what it means? Te](https://documentaryheaven.com/enemy-image/ "Enemy Image")
-* [![Unforgiven: The Boys Who Killed Jamie Bulger](/wp-content/thumbnails/13858-100x70.jpg?x53432)
+    Paul Sykes was a heavyweight boxer and weightlifter from Wakefield in England, he had ten professional fights but his entire adult life was marred by alcohol abuse and both petty and violent crimes. A](https://documentaryheaven.com/paul-sykes-large/ "Paul Sykes: At Large")
+* [![Bompton with Kendrick Lamar](/wp-content/thumbnails/11523-100x70.jpg?x53432)
     
-    Unforgiven: The Boys Who Killed Jamie Bulger
+    Bompton with Kendrick Lamar
     
-    This episode of Dispatches from Channel 4 examines the crime which shook Britain to its very core, the murder of 2 year old James Bulger in 1993. More specifically it sets sights on James' killers Rob](https://documentaryheaven.com/unforgiven-boys-who-killed-jamie-bulger/ "Unforgiven: The Boys Who Killed Jamie Bulger")
-* [![Sex, Lies and Cigarettes](/wp-content/thumbnails/7174-100x70.jpg?x53432)
+    On August 9, 1988 the hardcore rap group known as N.W.A. released their debut album entitled Straight Outta Compton, this release saw the birth of gangsta rap as a music genre and definitive](https://documentaryheaven.com/bompton-with-kendrick-lamar/ "Bompton with Kendrick Lamar")
+* [![The Great Human Odyssey](/wp-content/thumbnails/12865-100x70.jpg?x53432)
     
-    Sex, Lies and Cigarettes
+    The Great Human Odyssey
     
-    In the spring of 2010 video of a smoking baby went viral and became an international sensation. When the laughter stopped the world moved on. But there’s much more in this story then one child’s cigar](https://documentaryheaven.com/sex-lies-and-cigarettes/ "Sex, Lies and Cigarettes")
+    It shouldn't have happened that Homo sapiens, our species, managed to survive and overcome the odd which have been against us for over 200,000 years. We are not indestructible and there are many evolu](https://documentaryheaven.com/great-human-odyssey/ "The Great Human Odyssey")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
