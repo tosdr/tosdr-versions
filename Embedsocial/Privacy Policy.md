@@ -61,6 +61,7 @@ Search
     * [Free Instagram Stories Widget](https://embedsocial.com/free-instagram-stories-widget/ "Free Instagram Stories Widget")
     * [Free Instagram Feed Widget](https://embedsocial.com/free-instagram-widget/ "Free Instagram Feed Widget")
     * [Free Social Media Aggregator](https://embedsocial.com/products/free-social-media-aggregator/ "Free Social Media Aggregator")
+    * [Free Google Reviews Widget](https://embedsocial.com/free-google-reviews-widget/ "Free Google Reviews Widget")
     
     [EmbedFeedSocial media aggregator](https://embedsocial.com/social-media-aggregator/)
     
@@ -110,7 +111,7 @@ Search
         
         YouTube Widget](https://embedsocial.com/youtube-widget/ "YouTube Widget")
     * [![facebook feeds](https://embedsocial.com/wp-content/uploads/2020/12/facebook.svg)Facebook Albums](https://embedsocial.com/facebook-albums/ "Facebook Albums")
-    * [Free Threads Widget](https://embedsocial.com/free-threads-widget/ "Free Threads Widget")
+    * [![Embed Threads widget](https://embedsocial.com/wp-content/uploads/2024/09/threads-icon.svg)Free Threads Widget](https://embedsocial.com/free-threads-widget/ "Free Threads Widget")
     
     [EmbedReviewsReviews management](https://embedsocial.com/products/reviews/)
     
@@ -155,11 +156,6 @@ Search
          ![EmbedForms logo icon](https://embedsocial.com/wp-content/uploads/2022/01/forms-icon-36x36.png)
         
         Collect Reviews Forms](https://embedsocial.com/products/reviews/forms/ "Collect Reviews Forms")
-    * [![Google reviews logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
-        
-        ![Google reviews logo](https://embedsocial.com/wp-content/uploads/2024/03/google-gmb-logo-36x36.png)
-        
-        Free Google Reviews Widget](https://embedsocial.com/free-google-reviews-widget/ "Free Google Reviews Widget")
     
     New: Widgets Templates Library
     
@@ -442,6 +438,10 @@ By email: [privacy@embedsocial.com.](mailto:privacy@embedsocial.com)
     
 * [Social Media Publishing](https://embedsocial.com/social-media-publishing/)
     
+* [GBP Software](https://embedsocial.com/gbp/)
+    
+* [GBP API](https://embedsocial.com/gbp/api/)
+    
 * [Google Posts Scheduler](https://embedsocial.com/google-posts-scheduler/)
     
 * [Feedlink](https://feed.link/)
@@ -493,9 +493,13 @@ By email: [privacy@embedsocial.com.](mailto:privacy@embedsocial.com)
     
 * [Embed Threads Feed](https://embedsocial.com/blog/embed-threads-feed/)
     
+* [Embed Facebook Reels](https://embedsocial.com/blog/embed-facebook-reels-on-website/)
+    
 
 ### Popular Widgets
 
+* [Google Reviews Widget](https://embedsocial.com/google-reviews-widget/)
+    
 * [Instagram Widget](https://embedsocial.com/instagram-widget/)
     
 * [Instagram Shop](https://embedsocial.com/social-media-aggregator/shop/)
@@ -517,8 +521,6 @@ By email: [privacy@embedsocial.com.](mailto:privacy@embedsocial.com)
 * [Wall of Love Page](https://embedsocial.com/products/reviews/reviews-page/)
     
 * [Facebook Reviews Widget](https://embedsocial.com/widgets/facebook-reviews/)
-    
-* [Google Reviews Widget](https://embedsocial.com/google-reviews-widget/)
     
 * [Google Reviews Slider](https://embedsocial.com/google-reviews-slider/)
     
@@ -555,14 +557,15 @@ By email: [privacy@embedsocial.com.](mailto:privacy@embedsocial.com)
     
 * [Google Reviews Wall of Love](https://embedsocial.com/p/templates/rainbow-wall-of-love)
     
-* [50+ Reviews Widgets ↗](https://embedsocial.com/p/templates/reviews/)
+* [Shoppable Google Reviews Widget](https://embedsocial.com/p/templates/shoppable-google-reviews-widget)
+    
+* [60+ Reviews Widgets ↗](https://embedsocial.com/p/templates/reviews/)
     
 
 © EmbedSocial 2024 All rights reserved. Privacy Policy | Terms of use |
 
 * [](https://www.facebook.com/embedreviews "Facebook")
 * [](https://www.instagram.com/embedsocial/ "Instagram")
-* [](https://www.youtube.com/EmbedSocial "YouTube")
 * [](https://www.linkedin.com/company/embedsocial "LinkedIn")
 
 We use cookies to personalize your experience.  
