@@ -1,4 +1,4 @@
-Your IP: 51.195.149.220 - Unknown · ISP: Unknown · Your Status: Unknown
+Your IP: 159.223.154.84 - Unknown · ISP: Unknown · Your Status: Unknown
 
 [FreeVPN](https://freevpn.us/)
 
@@ -118,19 +118,19 @@ FreeVPN.us is dedicated to providing free and fast VPN services to users worldwi
 
 The following is our total achievement so far.
 
-32.410
+43.583
 
 User registered
 
-20
+17
 
 Premium User
 
-12.046
+11.608
 
 Active account
 
-1.791.638
+1.849.008
 
 Account created
 
