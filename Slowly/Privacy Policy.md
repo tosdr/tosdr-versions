@@ -33,7 +33,7 @@ You can change your account settings at any time, including how you share your l
 
 Deleting Your Account:
 
-You can delete your Account at any time by going to the ‘Settings’ page when you are logged in and clicking on the ‘Remove Account’’ link. Your Account will be deactivated immediately but it may take a little while for Your Content (defined below) to be completely removed from the App. We will save your profile information in case you decide to restore your Account (which you can do within 30 days of deactivating your Account). We reserve the right at our sole discretion to terminate or suspend any Account, or make use of any operational, technological, legal or other means available to enforce the Terms (including without limitation blocking specific IP addresses), at any time without liability and without the need to give you prior notice.
+You can delete your Account at any time by going to the ‘Settings’ page when you are logged in and clicking on the ‘Remove Account’’ link. Your Account will be deactivated immediately but it may take a little while for Your Content (defined below) to be completely removed from the App. We will save your profile information in case you decide to restore your Account (which you can do within 30 days of deactivating your Account). If you delete your Account and try to create a new account within this time period using the same credentials, we will re-activate your Account for you. We reserve the right at our sole discretion to terminate or suspend any Account, or make use of any operational, technological, legal or other means available to enforce the Terms (including without limitation blocking specific IP addresses), at any time without liability and without the need to give you prior notice.
 
 Deleting Your Information and Content:
 
@@ -228,8 +228,10 @@ This Privacy Policy was written in English. If you are reading a translation and
 
 **12\. Our Contact Information**
 
-If you have questions regarding these Privacy Policy, please contact us.  
-Web: https://help.slowly.app  
+If you have questions regarding these Privacy Policy, please contact us.
+
+Web: https://help.getslowly.com
+
 Email: [\[email protected\]](https://slowly.app/cdn-cgi/l/email-protection)
 
 Updated as of September 13, 2019
@@ -238,7 +240,10 @@ Updated as of September 13, 2019
 
 ![SLOWLY](https://slowly.app/wp-content/themes/slowly/assets/img/logo.svg)
 
-Start connecting with the world now!
+Find someone who reads you
+
+Find someone  
+who reads you
 
 4.7   8M+
 
@@ -248,8 +253,8 @@ Start connecting with the world now!
 
 © 2024 Slowly Communications Ltd.    
 
-[Terms of Service](https://slowly.app/terms/)     [Privacy Policy](https://slowly.app/privacy/)     [Cookies](#) [Special Thanks 💛](https://slowly.app/credits/)
+[Terms of Service](https://slowly.app/terms/)     [Privacy Policy](https://slowly.app/privacy/)     [Cookies](#)
 
-   
+[](https://www.facebook.com/slowlyapp/ "facebook")  [](https://www.instagram.com/slowlyapp/ "instagram")  [](https://x.com/slowlyapp "twitter")  [](https://medium.com/slowlyapp/ "pinterest") [](https://www.pinterest.com/slowlyapp/ "pinterest")
 
-[Special Thanks 💛](https://slowly.app/credits/)
+[](https://www.facebook.com/slowlyapp/ "facebook")  [](https://www.instagram.com/slowlyapp/ "instagram")  [](https://x.com/slowlyapp "twitter")  [](https://medium.com/slowlyapp/ "pinterest") [](https://www.pinterest.com/slowlyapp/ "pinterest")
