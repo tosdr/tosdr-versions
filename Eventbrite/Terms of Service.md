@@ -4,8 +4,6 @@
 
 Help Center](https://www.eventbrite.com/help/en-us/)
 
-Support availability is limited due to extreme weather conditions in areas where representatives are located. We appreciate your understanding and patience.
-
 [Terms and policies](https://www.eventbrite.com/help/en-us/topics/terms-and-policies/)
 
 [Help Center](https://www.eventbrite.com/help/en-us/)
@@ -19,19 +17,31 @@ Eventbrite Terms of Service
 
 In this article
 
-* 1-2
-* 3-4
-* 5-6
-* 7-8
-* 9-10
-* 11-12
-* 13-14
-* 15-16
-* 17-18
-* 19-20
-* 21-22
-* 23-24
-* 25
+* 1\. Accepting These Terms
+* 2\. Eventbrite's Services and Role
+* 3\. Privacy and Consumer Information
+* 4\. Term; Termination
+* 5\. Export Controls and Restricted Countries
+* 6\. Release and Indemnification
+* 7\. Disclaimer of Warranties and Assumption of Risks by You 
+* 8\. Limitation of Liability
+* 9\. IMPORTANT: BINDING ARBITRATION AND CLASS ACTION WAIVER PROVISIONS
+* 10\. License to the Eventbrite Services
+* 11\. Licenses and Permits Organizers Must Obtain
+* 12\. Your Rights to Submit a Copyright Takedown Notice
+* 13\. Scraping or Commercial Use of Site Content is Prohibited
+* 14\. Fees and Refunds
+* 15\. Your Account with Eventbrite
+* 16\. Your Content and Your Trademarks
+* 17\. Notices
+* 18\. Modifications to the Terms or Services
+* 19\. Assignment
+* 20\. Entire Agreement
+* 21\. Applicable Law and Jurisdiction 
+* 22\. Feedback
+* 23\. Third Party Websites; Linked Accounts; Third Party Offers
+* 24\. Additional Miscellaneous Provisions
+* 25\. Additional Clauses for Users in Certain Locations
 
 Welcome to Eventbrite! We know as event creators and consumers that you want your events to run safely and smoothly. We want the same thing for our platform. We're excited you’re here! Please read these Terms of Service (“Terms”) carefully because they contain important information about your legal rights, remedies, and obligations.
 
@@ -41,10 +51,8 @@ For an overview of Eventbrite’s various legal terms and policies, click [here]
 
 **IMPORTANT NOTICE: SECTION 9 OF THESE TERMS OF SERVICE CONTAINS A BINDING ARBITRATION AND CLASS ACTION WAIVER THAT MAY AFFECT YOUR LEGAL RIGHTS. PLEASE READ SECTION 9 VERY CAREFULLY.**
 
-1-2
----
-
-### 1\. Accepting These Terms
+1\. Accepting These Terms
+-------------------------
 
 **1.1** **What's what.**
 
@@ -124,7 +132,8 @@ D. If you are a third party interacting with our Services not as an Organizer or
 
 If you will be using the Services on behalf of an entity (such as on behalf of your employer), you agree to these Terms on behalf of that entity and its Affiliates and you represent that you have the authority to do so. In that case, "you" and "your" will refer to that entity as well as yourself.
 
-### 2\. Eventbrite's Services and Role
+2\. Eventbrite's Services and Role
+----------------------------------
 
 **2.1** **What we do.** 
 
@@ -140,10 +149,8 @@ If the Organizer is hosting an event with paid tickets, the Organizer selects th
 
 If the Organizer uses Eventbrite Payment Processing (defined in the [Merchant Agreement](https://www.eventbrite.com/help/en-us/articles/346993/eventbrite-merchant-agreement/)), we act as the Organizer's limited agent to process payments from Consumers on the Organizer's behalf using our third-party payment service providers. If the Organizer selects Facilitated Payment Processing (defined in the [Merchant Agreement](https://www.eventbrite.com/help/en-us/articles/346993/eventbrite-merchant-agreement/)), we transmit the Consumer’s payment details to the Organizer’s designated payment provider but do not process the transaction.
 
-3-4
----
-
-### 3\. Privacy and Consumer Information
+3\. Privacy and Consumer Information
+------------------------------------
 
 **3.1 Privacy Policy.**
 
@@ -165,7 +172,8 @@ Our [Cookie Statement](https://www.eventbrite.com/help/en-us/articles/666792/eve
 
 If you are an Organizer, you will at all times comply with all applicable local, state, provincial, national, and other laws, rules, and regulations with respect to information you collect from (or receive about) Consumers or other individuals, and comply with any applicable policies posted by us on the Services with respect to information you collect from (or receive about) Consumers.
 
-### 4\. Term; Termination
+4\. Term; Termination
+---------------------
 
 **4.1 Term.**
 
@@ -201,10 +209,10 @@ Except as agreed otherwise in a separate written agreement between you and us or
 
 All provisions of these Terms that by their nature should survive termination of these Terms will survive (i.e., they will continue to apply to you) including all limitations on liability, releases, indemnification obligations, disclaimers of warranties, agreements to arbitrate, choices of law and judicial forum, and intellectual property protections and licenses.
 
-5-6
----
+5\. Export Controls and Restricted Countries
+--------------------------------------------
 
-### 5\. Export Controls and Restricted Countries We’re not allowed to provide our Services to certain people.
+We’re not allowed to provide our Services to certain people.
 
 As a global company based in the United States, we are subject to and must comply with applicable export controls and economic sanctions laws and regulations, including those imposed by the United States and similar laws and regulations of the other jurisdictions where we operate (collectively, "Trade Controls"). You should familiarize yourself with these restrictions, regardless of your location or the location of the events hosted by you on the Services (“Your Eventbrite Events”). You represent and warrant, on a continuing basis, that:
 
@@ -220,7 +228,8 @@ ii. is located, organized, resident in, or the government of, any country or ter
 
 3\. you will not use the Services in connection with any direct or indirect activities or dealings with or involving any Restricted Area or Restricted Party, and will not otherwise use the Services in any manner that would cause Eventbrite to be in violation of applicable Trade Controls. 
 
-### 6\. Release and Indemnification
+6\. Release and Indemnification
+-------------------------------
 
 **6.1 Release.**
 
@@ -260,10 +269,8 @@ G. if you are an Organizer, Your Eventbrite Events (including where we have prov
 
 2\. We will provide notice to you of any such Claim, but our failure or delay in providing such notice will not limit your indemnification obligations except to the extent you are materially prejudiced by such failure. Also, in certain circumstances, we may choose to handle the Claim ourselves, in which case you agree to cooperate with us in any way we request.
 
-7-8
----
-
-### 7\. Disclaimer of Warranties and Assumption of Risks by You 
+7\. Disclaimer of Warranties and Assumption of Risks by You 
+------------------------------------------------------------
 
 **7.1 Disclaimers.**
 
@@ -305,7 +312,8 @@ We may make available certain beta and other pre-release software, services, equ
 
 The disclaimers in these Terms apply to the maximum extent permitted by law. If any warranties are required by applicable law, they will be limited to the shortest duration allowed. 
 
-### 8\. Limitation of Liability
+8\. Limitation of Liability
+---------------------------
 
 **8.1 Eventbrite Liability.**
 
@@ -337,10 +345,8 @@ ii. If no tickets or registrations were purchased one hundred U.S. Dollars (USD 
 
 Some jurisdictions do not allow the exclusion of certain warranties or conditions on, or the limitation of, liability for loss or damage caused by willful acts, negligence, breach of contract or breach of implied terms, or incidental or consequential damages. Only those liability and other limitations which are lawful in your jurisdiction (if any) will apply to you, and our liability is limited to the maximum extent permitted by law.
 
-9-10
-----
-
-### 9\. IMPORTANT: BINDING ARBITRATION AND CLASS ACTION WAIVER PROVISIONS.
+9\. IMPORTANT: BINDING ARBITRATION AND CLASS ACTION WAIVER PROVISIONS
+---------------------------------------------------------------------
 
 **PLEASE READ THIS SECTION CAREFULLY AS IT AFFECTS YOUR RIGHTS. ANY DISPUTE OR CLAIM UNDER THESE TERMS OR WITH RESPECT TO THE SERVICES WILL BE SETTLED BY BINDING ARBITRATION OR IN SMALL CLAIMS COURT (TO THE EXTENT THE CLAIM QUALIFIES) AND WILL TAKE PLACE ON AN INDIVIDUAL BASIS ONLY; YOU AGREE THAT CLASS, CONSOLIDATED (EXCEPT IN THE LIMITED CIRCUMSTANCES DESCRIBED BELOW), OR REPRESENTATIVE ARBITRATIONS AND CIVIL ACTIONS ARE NOT PERMITTED AND ANY RIGHTS TO BRING SUCH ACTIONS ARE WAIVED BY EACH PARTY.**
 
@@ -432,7 +438,8 @@ In the event that any provisions of this Section 9 are found to be invalid or un
 
 You have the right to opt out and not be bound by the arbitration or class action waiver provisions set forth above in this Section 9 by sending (from the email address we associate with you as a User) written notice of your decision to opt-out to [legal@eventbrite.com](mailto:legal@eventbrite.com).  Please include the following in the  subject line, "ARBITRATION AND CLASS ACTION WAIVER OPT-OUT." The notice must be sent within thirty (30) days of your first use of the Services or your agreement to these Terms (whichever is later); otherwise, you will be bound to arbitrate disputes in accordance with the terms of these provisions. Note that if you opt out of these arbitration provisions, Eventbrite also will not be bound by them.
 
-### 10\. License to the Eventbrite Services
+10\. License to the Eventbrite Services
+---------------------------------------
 
 **10.1 License to Services.**
 
@@ -484,10 +491,10 @@ You agree that all Site Content may be protected by copyrights, trademarks, serv
 
 We may provide you with the right to use a sub-domain within the Site (e.g., \[sub-domain prefix\].eventbrite.com) for one or more of Your Eventbrite Events. All such sub-domains are solely our property and we reserve the right to determine the appearance, design, functionality, and all other aspects of such sub-domains. If we provide you with a sub-domain, your right to use it will continue only for so long as you are actively selling tickets for Your Eventbrite Events on the Services and provided you are in compliance with the Terms. If we terminate your right to use a sub-domain for any other reason, we will provide you with a new sub-domain.
 
-11-12
------
+11\. Licenses and Permits Organizers Must Obtain
+------------------------------------------------
 
-### 11\. Licenses and Permits Organizers Must Obtain Organizers must obtain all applicable licenses, permits, and authorizations for their events.
+Organizers must obtain all applicable licenses, permits, and authorizations for their events.
 
 If you are an Organizer, along with your other representations and warranties, you represent and warrant to us that:
 
@@ -500,20 +507,22 @@ If you are an Organizer, along with your other representations and warranties, y
 4. You will provide evidence of Licensure and related information prior to offering tickets or registrations for Your Eventbrite Events and promptly upon our reasonable request from time to time.
     
 
-### 12\. Your Rights to Submit a Copyright Takedown Notice What to do if you believe your copyrights are being violated.
+12\. Your Rights to Submit a Copyright Takedown Notice
+------------------------------------------------------
+
+What to do if you believe your copyrights are being violated.
 
 If you are a copyright owner or an agent of a copyright owner and you believe that any content on the Sites infringes your copyrights, you may submit a notice pursuant to the Digital Millennium Copyright Act ("DMCA") by following the directions we provided in Eventbrite's [Trademark and Copyright Policy](https://www.eventbrite.com/help/en-us/articles/562130/eventbrite-trademark-copyright-policy/).
 
-13-14
------
-
-### 13\. Scraping or Commercial Use of Site Content is Prohibited
+13\. Scraping or Commercial Use of Site Content is Prohibited
+-------------------------------------------------------------
 
 **13.1 You can’t use our content for your own purposes.**
 
 You have no right to use, and you agree not to use, any Site Content for your own commercial purposes. You have no right to, and you agree not to, scrape, crawl, or employ any automated means to extract data from the Sites.
 
-### 14\. Fees and Refunds.
+14\. Fees and Refunds
+---------------------
 
 **14.1 Fees.**
 
@@ -540,10 +549,8 @@ If you wish to transfer tickets to an event you have purchased on the Site, plea
 4. We will not be liable under any circumstances for any costs arising from Organizers’ non-compliance with the procedures that must be implemented by Organizers to check the validity of tickets. We will not be liable under any circumstances for costs and/or damage arising from ticket-related fraud and/or the purchase of the ticket through non-official means, such as third parties.
     
 
-15-16
------
-
-### 15\. Your Account with Eventbrite
+15\. Your Account with Eventbrite
+---------------------------------
 
 **15.1 Do's and Dont's.**
 
@@ -566,7 +573,8 @@ We may require you to create an account to access certain features or functions 
 7. You will not use the Services to collect any sensitive personal information, such as health information (including "protected health information" as defined in 45 C.F.R. §160.103), social security numbers, financial information, payment card numbers, driver's license numbers, and passport numbers, unless otherwise permitted by these Terms or we have consented to the collection of the information in writing.
     
 
-### 16\. Your Content and Your Trademarks.
+16\. Your Content and Your Trademarks
+-------------------------------------
 
 **16.1 Rights and Responsibilities.**
 
@@ -582,7 +590,7 @@ ii. Eventbrite’s internal purposes (such as employee or shareholder communicat
 
 iii. when you give your permission, for the purposes of promoting Eventbrite or our Services; and
 
-B. our Trademarks,
+B. Your Trademarks,
 
 i. in connection with our use of Your Content; and
 
@@ -622,10 +630,8 @@ D. protect the rights, property, and/or personal safety of us, our Users and/or 
 
 You understand that the technical processing and transmission of the Services, including Your Content and Your Trademarks, may involve transmissions over various networks and/or changes to conform and adapt to technical requirements of connecting networks or devices.
 
-17-18
------
-
-### 17\. Notices. 
+17\. Notices
+------------
 
 **Here’s how to notify us.**
 
@@ -634,7 +640,8 @@ You understand that the technical processing and transmission of the Services, i
 2. If you wish to contact us or deliver any notice(s), you can do so at the following address:  Eventbrite, Inc., Attn: Legal Department, 95 Third Street, 2nd Floor, San Francisco, California, 94103 USA; or via email to [legal@eventbrite.com](mailto:legal@eventbrite.com).
     
 
-### **18\. Modifications to the Terms or Services.** 
+18\. Modifications to the Terms or Services
+-------------------------------------------
 
 **We may modify these Terms from time to time and will notify you of material changes.**
 
@@ -652,25 +659,22 @@ C. sending you an email or message about the Modifications.
 
 4\. We are constantly evolving our products and services to better meet the needs of our Users. Because of this, we cannot guarantee the availability of certain product features or functionality. We reserve the right to modify, replace, or discontinue any part of the Services or the entire Services at any time and for any reason.
 
-19-20
------
-
-### 19\. Assignment. 
+19\. Assignment
+---------------
 
 **We can assign our rights and obligations under these Terms.**
 
 We may, without your consent, freely assign these Terms and our rights and obligations under these Terms, whether to an Affiliate or to another entity, in connection with a corporate transaction or otherwise.
 
-### 20\. Entire Agreement. 
+20\. Entire Agreement
+---------------------
 
 **These Terms make up our entire agreement with you unless we also enter into a separate written agreement.**
 
 Except as otherwise stated in these Terms, these Terms are the entire agreement between you and us and govern your use of the Services, superseding any prior or contemporaneous agreements, proposals, discussions, or communications between you and Eventbrite on the subject matter of these Terms, other than any written agreement for Services between you and us relating to a specified event or events.
 
-21-22
------
-
-### 21\. Applicable Law and Jurisdiction. 
+21\. Applicable Law and Jurisdiction 
+-------------------------------------
 
 **Disputes that can’t be resolved under our arbitration agreement will be resolved in the courts of San Francisco under California law.**
 
@@ -679,31 +683,29 @@ Except as otherwise stated in these Terms, these Terms are the entire agreement 
 2. Eventbrite is based in San Francisco, California. Any legal action against us related to our Services and not subject to the arbitration provisions in Section 9 of these Terms will take place in San Francisco. By agreeing to these Terms, you submit to the personal jurisdiction of the state or federal courts (as applicable) in San Francisco County, California.
     
 
-### 22\. Feedback. 
+22\. Feedback
+-------------
 
 **We have a right to use any feedback you provide us.**
 
 We welcome and encourage you to provide feedback, comments, and suggestions for improvements to the Services, as well as feedback, comments, suggestions, and ratings regarding the services and events of third parties such as the Organizers of events you attend (collectively, "Feedback"). Any Feedback you submit to us will be considered non-confidential and non-proprietary to you. By submitting Feedback to us, you grant us a non-exclusive, worldwide, royalty-free, irrevocable, sub-licensable, perpetual license to use, publish, and exploit those ideas and materials for any purpose, with or without your name, without compensation to you. We may collect testimonials, ratings, and reviews about Site Content, the Services, and, if you are an Organizer, Your Content and events. These testimonials, ratings and reviews will be considered Feedback. We retain full discretion on whether, when, where, with whom, and how Feedback is shared or published.  
 
-23-24
------
-
-### 23\. Third Party Websites; Linked Accounts; Third Party Offers. 
+23\. Third Party Websites; Linked Accounts; Third Party Offers
+--------------------------------------------------------------
 
 **We are not responsible for third-party websites or materials that you access.**
 
 The Services or Users may provide links to other Internet websites or resources. Because we have no control over such websites and resources, you agree that we are not responsible for the availability of such websites or resources. We do not endorse and are not responsible or liable for any Site Content, advertising, offers, products, services, or other materials on or available from such websites or resources and are not responsible for any damages or losses related to them, even if such websites or resources are connected with our partners or third-party service providers. For example, if you purchase ticket insurance on the Site from a third party, your contractual relationship is with the third-party ticket insurance provider, not with us.
 
-### 24\. Additional Miscellaneous Provisions. 
+24\. Additional Miscellaneous Provisions
+----------------------------------------
 
 **Here’s some more legal stuff before you go.**
 
 If we fail to enforce any part of these Terms, that will not amount to a waiver of our right to later enforce that or any other part of these Terms. Except as expressly set out in these Terms, the exercise by us of any of our remedies under these Terms will not preclude us from exercising our other remedies under these Terms or otherwise. No oral waiver, amendment, or modification of these Terms will be effective. If any provision of these Terms is found to be unenforceable, that part will be limited to the minimum extent necessary and the other provisions of these Terms remain in full force and effect. Section titles and subtitles in these Terms, along with the italicized text following them, are for convenience only and have no legal or contractual effect and do not amount to legal advice. When we say Eventbrite “may” or has the right, is permitted, authorized, or allowed to do something in these Terms, it means we may, but are not obligated to, exercise the applicable rights or options or take the applicable action, as we determine in our sole discretion. Any determinations, decisions, or beliefs by us under these Terms may be made by us in our sole discretion. As used in these Terms, “including” means “including, but not limited to.” When these Terms say that you “will” take an action, this means that you are agreeing to take the action and that you must take that action. Your obligations, duties, warranties, representations, releases, and waivers throughout these Terms are also the obligations, duties, warranties, representations, releases, and waivers of your Affiliates. No independent contractor, agency, partnership, joint venture, or other such relationship is created by these Terms. We may freely assign any of our rights and obligations under these Terms. We may translate these Terms into other languages for your convenience. If there is a conflict between the English version and a translated version, the English version will control.
 
-25
---
-
-### 25\. Additional Clauses for Users in Certain Locations
+25\. Additional Clauses for Users in Certain Locations
+------------------------------------------------------
 
 Eventbrite is a global company offering Organizers and Consumers the opportunity to benefit from our Services worldwide. To allow each User full advantage of our Services and applicable law, certain additional provisions included in this Section may be applicable to you.
 
@@ -763,6 +765,6 @@ Still have questions?
 
 * © 2024 Eventbrite
     
-* [About](https://www.eventbrite.com/about/)[Blog](https://www.eventbrite.com/blog/)[Help](https://www.eventbrite.com/help/en-us/)[Careers](https://www.eventbritecareers.com/home)[Press](https://www.eventbrite.com/blog/press/)[Security](https://www.eventbrite.com/security/)[Developers](https://www.eventbrite.com/platform/)[Terms](https://www.eventbrite.com/l/legalterms/)[Privacy](https://www.eventbrite.com/help/en-us/articles/460838/eventbrite-privacy-policy/)[Accessibility](https://www.eventbrite.com/l/accessibility/)[Cookies](https://www.eventbrite.com/help/en-us/articles/666792/eventbrite-cookie-policy/)
+* [About](https://www.eventbrite.com/about/)[Blog](https://www.eventbrite.com/blog/)[Help](https://www.eventbrite.com/help/en-us/)[Careers](https://www.eventbritecareers.com/home)[Press](https://www.eventbrite.com/blog/press/)[Security](https://www.eventbrite.com/security/)[Developers](https://www.eventbrite.com/platform/)[Terms](https://www.eventbrite.com/l/legalterms/)[Privacy](https://www.eventbrite.com/help/en-us/articles/460838/eventbrite-privacy-policy/)[Accessibility](https://www.eventbrite.com/l/accessibility/)[Cookies](https://www.eventbrite.com/help/en-us/articles/666792/eventbrite-cookie-policy/)[Manage Cookie Preferences](#)
     
 * ArgentinaAustraliaBrasilCanada (EN)Canada (FR)ChileColombiaDenmarkDeutschlandEspañaFinlandFranceHong KongIrelandItaliaMéxicoNederlandNew ZealandPerúPortugalSchweizSingaporeSuisseSwedenUnited KingdomUnited States
