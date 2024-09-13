@@ -145,7 +145,7 @@ Main Tags
 * [Oral Sex](https://gamcore.com/oral_sex)
 * [Adult Games](https://gamcore.com/over_18)
 * [Overwatch](https://gamcore.com/overwatch)
-* [Paranormal games](https://gamcore.com/paranormal_games)
+* [Paranormal Games](https://gamcore.com/paranormal_games)
 * [Parodies](https://gamcore.com/parodies)
 * [Perversion](https://gamcore.com/perversion)
 * [Physics](https://gamcore.com/physics)
