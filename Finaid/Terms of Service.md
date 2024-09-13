@@ -109,7 +109,9 @@ Weston, MA 02493
 Primary Sidebar
 ---------------
 
-[![Fastweb](https://www.fastweb.com/nfs/fastweb/static/2024/house-ads/300x250-scholarships.jpg)](https://www.fastweb.com/?utm_source=finaid&Utm_medium=referral&campaign=FWhouse)
+[![Fastweb's $1,250 Your Future is Now Sweepstakes](https://www.fastweb.com/nfs/fastweb/static/1-250-your-future-is-now-sweepstakes/fastweb-1-250k-yfin-sweeps-600x500.jpg)
+
+![Fastweb's $1,250 Your Future is Now Sweepstakes](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20300%20200%22%3E%3C/svg%3E)](https://www.fastweb.com/contests/fastweb-1250-your-future-is-now-sweepstakes-summer-2024)
 
 ### Helpful Links
 
@@ -127,18 +129,26 @@ Primary Sidebar
 * [Financial Aid Applications](https://finaid.org/financial-aid-applications/)
 * [Parents](https://finaid.org/parents/)
 
-### MetaSlider
+* [![](https://finaid.org/wp-content/uploads/2024/02/sai-calculator-slide-350x350.png "sai-calculator-slide")
+    
+    ![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20350%20350%22%3E%3C/svg%3E "sai-calculator-slide")](https://finaid.org/calculators/saicalculator/)
+* [![PREPAYMENT CALCULATOR](https://finaid.org/wp-content/uploads/2020/04/prepayment-calculator-350x350.png "prepayment-calculator")
+    
+    ![PREPAYMENT CALCULATOR](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20350%20350%22%3E%3C/svg%3E "prepayment-calculator")](https://finaid.org/calculators/prepayment/)
+* [![LOAN PAYMENT CALCULATOR](https://finaid.org/wp-content/uploads/2020/04/loan-payment-calculator-350x350.png "loan-payment-calculator")
+    
+    ![LOAN PAYMENT CALCULATOR](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20350%20350%22%3E%3C/svg%3E "loan-payment-calculator")](https://finaid.org/calculators/loanpayments/)
 
-* [![](https://finaid.org/wp-content/uploads/2024/02/sai-calculator-slide-350x350.png "sai-calculator-slide")](https://finaid.org/calculators/saicalculator/)
-* [![PREPAYMENT CALCULATOR](https://finaid.org/wp-content/uploads/2020/04/prepayment-calculator-350x350.png "prepayment-calculator")](https://finaid.org/calculators/prepayment/)
-* [![LOAN PAYMENT CALCULATOR](https://finaid.org/wp-content/uploads/2020/04/loan-payment-calculator-350x350.png "loan-payment-calculator")](https://finaid.org/calculators/loanpayments/)
+[![Invite a Friend to Fastweb](https://www.fastweb.com/nfs/fastweb/static/2024/house-ads/300x250-invite-a-friend.jpg)
 
-[![Invite a Friend to Fastweb](https://www.fastweb.com/nfs/fastweb/static/2024/house-ads/300x250-invite-a-friend.jpg)](https://www.fastweb.com/invite-a-friend?utm_source=finaid&Utm_medium=referral&campaign=FW-IAF-house)
+![Invite a Friend to Fastweb](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20300%20200%22%3E%3C/svg%3E)](https://www.fastweb.com/invite-a-friend?utm_source=finaid&Utm_medium=referral&campaign=FW-IAF-house)
 
 Footer
 ------
 
 ![FinAid](https://finaid.org/wp-content/uploads/2019/12/finaid-logo-light.svg)
+
+![FinAid](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)
 
 ### Quick Links
 
@@ -170,5 +180,9 @@ Footer
 * [Contact Us](https://finaid.org/about/contact/)
 * [Sitemap](https://finaid.org/sitemap.xml)
 
-[Terms of Use](https://finaid.org/about/terms/) | [Your Privacy Choices ![](https://finaid.org/wp-content/uploads/2022/12/privacyoptions.svg)](https://finaid.org/your-privacy-choices/)   
+[Terms of Use](https://finaid.org/about/terms/) | [Your Privacy Choices
+
+![](https://finaid.org/wp-content/uploads/2022/12/privacyoptions.svg)
+
+![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)](https://finaid.org/your-privacy-choices/)  
 Copyright © 2024 · finaid.org
