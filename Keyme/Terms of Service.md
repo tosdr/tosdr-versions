@@ -17,7 +17,7 @@ undefined
 _close_
 
 Terms and Conditions
---------------------
+====================
 
 ### Terms of Service
 
