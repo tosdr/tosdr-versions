@@ -32,9 +32,7 @@ Please note that the content of this page can change without prior notice.
 
 This policy was last updated on 08-20-2010
 
-Copyright © [Law Office of Michael E. Young, LLC](https://www.nitroshoppingcart.com/app/?af=1234148), and licensed for use by the owner of this website at https://GoGVO.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
-
-Do you need **Legal Forms** for **YOUR** website or blog - [Click Here](https://www.nitroshoppingcart.com/app/?af=1234148)
+Copyright © [Law Office of Michael E. Young, LLC](https://www.nitroshoppingcart.com/app/?af=1234148), and licensed for use by the owner of this website at https://gogvo.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
 
 [![](https://gogvo.com/images/legal_top.png)](#)
 
