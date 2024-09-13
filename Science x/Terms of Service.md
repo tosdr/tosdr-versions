@@ -63,6 +63,10 @@ Science X offers AI-generated images for illustrative purposes only. These image
 
 The names, images and logos identifying the Science X or third parties and their products and services are subject to copyright, design rights and trade marks of the Science X and/or third parties. Nothing contained in these terms shall be construed as conferring by implication, estoppel or otherwise any licence or right to use any trademark, patent, design right or copyright of the Science X or any other third party.
 
+### No AI Training
+
+Any data, content, or information obtained from our sites shall not be used for training, development, or enhancement of machine learning, large language models or other similar algorithms or systems without our explicit written permission. This prohibition includes, but is not limited to, using such data for training, fine-tuning, or enhancing machine learning algorithms.
+
 ### Contributions to Science X
 
 Where you are invited to submit any contribution to Science X (including any text, photographs, graphics, video or audio) you agree, by submitting your contribution, to grant the Science X a perpetual, royalty-free, non-exclusive, sub-licenseable right and license to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, perform, play, make available to the public, and exercise all copyright and publicity rights with respect to your contribution worldwide and/or to incorporate your contribution in other works in any media now known or later developed for the full term of any rights that may exist in your contribution, and in accordance with privacy restrictions set out in the Science X's [privacy policy](https://sciencex.com/help/privacy/). If you do not want to grant to the Science X the rights set out above, please do not submit your contribution to Science X.
@@ -92,4 +96,4 @@ Science X policy on corrections and retractions can be found [here](https://sci
 
 If you have any questions, please feel free to [contact us](https://sciencex.com/help/feedback/).
 
-Updated: **November 9, 2023**
+Updated: **September 12, 2024**
