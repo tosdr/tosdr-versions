@@ -106,7 +106,8 @@
             
             Streamline issuing with a single platform for every credential you need, from diplomas to digital badges.](https://www.parchment.com/platform/international/global-issuing/)
             * [Digitary Services](https://www.parchment.com/platform/international/global-issuing/digitary-services/)
-            * [Digital Badges](https://www.parchment.com/platform/international/global-issuing/digitary-services-badges/)
+            * [Badges](https://www.parchment.com/platform/international/global-issuing/digitary-services-badges/)
+            * [Orders](https://www.parchment.com/platform/international/global-issuing/issuing-orders/)
         * [Admissions & Enrollment
             
             Simplify your institution’s document intake process, eliminate paperwork, and streamline communication with your applicants.](https://www.parchment.com/platform/international/global-admissions-enrollment/digitary-services-receiving/)
