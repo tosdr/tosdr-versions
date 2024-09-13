@@ -17,9 +17,9 @@
         
         Webinar
         
-        Uncover retail advertising trends for 2024 in our September 10 webinar with Rockerbox!
+        Watch the recording of our 2024 retail advertising trends webinar with Rockerbox!
         
-        [Register](https://illumin.com/insights/podcasts-webinars/inside-scoop-state-of-holiday-digital-spend/)
+        [Watch](https://illumin.com/insights/podcasts-webinars/inside-scoop-state-of-holiday-digital-spend/)
         
 * [Insights](https://illumin.com/insights/)
     * [Insights](#)
@@ -27,9 +27,9 @@
         * [Guides](https://illumin.com/insights/guides/)
         * [Events](https://illumin.com/insights/events/)
         * [Podcasts & Webinars](https://illumin.com/insights/podcasts-webinars/)
-    * ![Is AI regulated? Yes! Here’s what marketers need to know](https://illumin.com/wp-content/uploads/2024/09/AI-regulations-1-263x300.jpg)
+    * ![What is the difference between offline and online retail media?](https://illumin.com/wp-content/uploads/2024/09/in-store-or-offline-retail-media-1-263x300.jpg)
         
-        Is AI regulated? Yes! Here’s what marketers need to know[Read More](https://illumin.com/insights/blog/is-ai-regulated-yes-what-need-to-know/)
+        What is the difference between offline and online retail media?[Read More](https://illumin.com/insights/blog/offline-and-online-retail-media/)
         
 * [Company](#)
     * [Company](#)
@@ -487,3 +487,7 @@ A platform that provides the perfect space for journey planning, execution, and 
 * [Data Subject Access Request](https://illumin.com/legal/subject-access-request/)
 * [Privacy Policy](https://illumin.com/legal/privacy/)
 * [Opt Out/Do Not Sell or Share My Info](https://illumin.com/opt-out.html)
+
+![](https://www.facebook.com/tr?id=791746128738564&ev=ViewContent&noscript=1&cd%5Bpage_title%5D=Terms+and+Conditions&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=1682&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=illumin.com%2Flegal%2Fterms-and-conditions%2F)
+
+![](https://www.facebook.com/tr?id=791746128738564&ev=PageView&noscript=1&cd%5Bpage_title%5D=Terms+and+Conditions&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=1682&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=illumin.com%2Flegal%2Fterms-and-conditions%2F)
