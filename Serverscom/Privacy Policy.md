@@ -165,6 +165,8 @@ Why we collect and process your Personal Data
 
 \- to the extent that you have consented to being contacted for marketing purposes, we will use your personal data for the purposes of providing you with email newsletters, surveys, any other communication for the purposes of advertising and marketing of our services as well as providing you with targeted advertisements on our or third party websites. You have the right to revoke consent at any time by contacting us at [privacy@servers.com](mailto:privacy@servers.com) or by clicking unsubscribe on the email you will receive from us.
 
+\- To the extent that you have consented to your data being processed we will use your personal data for the purpose for which you consented to at the time of your consent.
+
 \- As indicated above, where you have been selected for the purposes of conducting identification diligence compliance and further checks against the data in multiple databases and sanctions lists or where you have requested a free trial of our services or have changed your payment method as otherwise set out in the paragraph further above which is necessary in order to protect our legitimate interests against fraud, misuses of our terms and conditions and for ensuring that the person paying for the service is the rightful owner of the Servers account and bank card used for the purposes of payment.
 
 \- In order to comply with legal obligations to which we are subject (including tax, VAT accounting, AML laws, compliance with court or other regulatory orders etc.) and
@@ -173,7 +175,7 @@ Why we collect and process your Personal Data
 
 \- (i) Initiating legal claims and preparing our defense in litigation procedures,
 
-\- (ii) Measures to manage business and for further developing and improving products and services;
+\- (ii) Measures to manage business and for further developing and improving products and services and measuring the effectiveness of our advertising campaigns;
 
 \- (iii) to help verify accounts and activity, and to promote safety and security on and off of our services, such as by investigating suspicious activity or violations of Servers.com terms or policies
 
@@ -262,7 +264,7 @@ EU Representative pursuant to Article 27 of the GDPR.
 
 * * *
 
-Last modified: February 23rd, 2024
+Last modified: September 12th, 2024
 
 ##### Why servers.com
 
