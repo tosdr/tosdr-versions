@@ -14,8 +14,8 @@ Hamburger [Parliament of Victoria logo](https://parliament.vic.gov.au/)
     
     #### [Hansard](https://parliament.vic.gov.au/hansard) Chevron-right
     
-    * [Read today's Hansard](https://parliament.vic.gov.au/parliamentary-activity/hansard/hansard-debate/)
     * [Search Hansard](https://hansard.parliament.vic.gov.au/isysadvsearch.html)
+    * [Browse Hansard](https://parliament.vic.gov.au/parliamentary-activity/hansard/hansard-debate/)
     
     #### [Resources](https://parliament.vic.gov.au/link/4e38f172ae854e1fe76eee60cfb9f2ee.aspx#resources) Chevron-right
     
@@ -96,17 +96,17 @@ Hamburger [Parliament of Victoria logo](https://parliament.vic.gov.au/)
     
     * [Next
         
+        Creativity for a healthy future
+        
+        Next](https://parliament.vic.gov.au/news/health/healthy-future)[Next
+        
+        Rate cap a big concern for councils
+        
+        Next](https://parliament.vic.gov.au/news/economy/traralgonlceic)[Next
+        
         First Peoples of Victoria honoured at Parliament
         
-        Next](https://parliament.vic.gov.au/news/general-news/first-peoples-plaque)[Next
-        
-        Bill paves the way for funeral cost transparency
-        
-        Next](https://parliament.vic.gov.au/news/society/funeral-transparency)[Next
-        
-        Forward thinking by a growing industry
-        
-        Next](https://parliament.vic.gov.au/news/general-news/horticulture)
+        Next](https://parliament.vic.gov.au/news/general-news/first-peoples-plaque)
     
 * Visit Chevron-down
     
