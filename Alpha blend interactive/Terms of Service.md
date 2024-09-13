@@ -135,10 +135,14 @@ Rules, guidelines & ToS
         
         Components
         
+        * [CVR Asset Info](https://documentation.abinteractive.net/cck/components/CVRAssetInfo/)
+        * [Combat System](https://documentation.abinteractive.net/cck/components/Combat%20System/)
+        * [Damage](https://documentation.abinteractive.net/cck/components/Damage/)
+        * [Game Instance Controller](https://documentation.abinteractive.net/cck/components/Game%20Instance%20Controller/)
+        * [Object Health](https://documentation.abinteractive.net/cck/components/Object%20Health/)
         * [CVR Advanced Avatar Trigger Helper](https://documentation.abinteractive.net/cck/components/aas-trigger-helper/)
         * [CVR Advanced Avatar Trigger](https://documentation.abinteractive.net/cck/components/aas-trigger/)
         * [CVR Animator Driver](https://documentation.abinteractive.net/cck/components/animator-driver/)
-        * [CVR Asset Info](https://documentation.abinteractive.net/cck/components/asset-info/)
         * [CVR Attachment](https://documentation.abinteractive.net/cck/components/attachment/)
         * [CVR Audio Driver](https://documentation.abinteractive.net/cck/components/audio-driver/)
         * [CVR Audio Material Parser](https://documentation.abinteractive.net/cck/components/audio-material-parser/)
@@ -225,6 +229,7 @@ Rules, guidelines & ToS
             * [How to get Players in an Instance](https://documentation.abinteractive.net/cck/lua/recipes/getting-users/)
             * [Listening to Events](https://documentation.abinteractive.net/cck/lua/recipes/listen-game-events/)
             * [Getting Components](https://documentation.abinteractive.net/cck/lua/recipes/getting-components/)
+            * [How to output text into UI](https://documentation.abinteractive.net/cck/lua/recipes/outputting-text/)
             
         
     * [ ]  Examples
