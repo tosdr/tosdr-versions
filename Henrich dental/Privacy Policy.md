@@ -160,7 +160,7 @@ Last Update 02/03/2016
 
 ### From Our Blog
 
-[Times You May Need Porcelain Veneers](https://www.henrichdental.com/2024/07/times-you-may-need-porcelain-veneers/)[Exploring the Benefits of Botox for TMJ Disorder and Cosmetic Dentistry](https://www.henrichdental.com/2024/06/exploring-the-benefits-of-botox-for-tmj-disorder-and-cosmetic-dentistry/)[Can Dental Crowns Restore Your Smile?](https://www.henrichdental.com/2024/05/can-dental-crowns-restore-your-smile/)
+[Wisdom Tooth Removal: What to Expect](https://www.henrichdental.com/2024/09/wisdom-tooth-removal-what-to-expect/)[Could You Benefit From Sedation Dentistry?](https://www.henrichdental.com/2024/08/could-you-benefit-from-sedation-dentistry/)[Times You May Need Porcelain Veneers](https://www.henrichdental.com/2024/07/times-you-may-need-porcelain-veneers/)
 
 * * *
 
