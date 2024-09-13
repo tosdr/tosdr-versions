@@ -1,4 +1,4 @@
-[Viator - A TripAdvisor Company: Extra $50 off when you spend $550 on your next travel experience. Terms apply + 10% Cash Back
+[Viator - A TripAdvisor Company: Extra $50 off when you spend $550 on your next travel experience. Terms apply + 12% Cash Back
 
 Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/viator?store=viator&sourceName=sitewide-sticky-header)
 
@@ -11,7 +11,7 @@ FR
 [Sign In](https://www.rakuten.ca/login?form) [Join Now](https://www.rakuten.ca/login?form)
 
 * [All Stores](https://www.rakuten.ca/stores "All Stores at Rakuten.ca")
-    * [🍎 Shop Essentials](https://www.rakuten.ca/everyday-essentials "🍎 Shop Essentials at Rakuten.ca")
+    * [⚡️Up to 12% Cash Back](https://www.rakuten.ca/flash-event "⚡️Up to 12% Cash Back at Rakuten.ca")
     
     * [Baby, Kids & Toys](https://www.rakuten.ca/stores/baby-kids-toys "Baby, Kids & Toys Promo Codes and Coupons")
         
@@ -21,7 +21,7 @@ FR
         
         [Joe Fresh
         
-        2% Cash Back](https://www.rakuten.ca/joe-fresh-canada)[Carter’s OshKosh B’gosh
+        12% Cash Back](https://www.rakuten.ca/joe-fresh-canada)[Carter’s OshKosh B’gosh
         
         2% Cash Back](https://www.rakuten.ca/carters-oshkosh-bgosh)[Baby Gap
         
@@ -107,13 +107,13 @@ FR
         
         [Dell Technologies
         
-        up to 5% Cash Back](https://www.rakuten.ca/dell-consumer)[HP Canada
+        12% Cash Back](https://www.rakuten.ca/dell-consumer)[HP Canada
         
-        10% Cash Back](https://www.rakuten.ca/hp-canada)[NordVPN
+        15% Cash Back](https://www.rakuten.ca/hp-canada)[NordVPN
         
         80% Cash Back](https://www.rakuten.ca/nordvpn)[Lenovo Canada
         
-        3% Cash Back](https://www.rakuten.ca/lenovo-canada)[Samsung
+        12% Cash Back](https://www.rakuten.ca/lenovo-canada)[Samsung
         
         up to 2% Cash Back](https://www.rakuten.ca/samsung.com)
         
@@ -139,9 +139,9 @@ FR
         
         1% Cash Back](https://www.rakuten.ca/ebay-canada)[Canadian Tire
         
-        1% Cash Back](https://www.rakuten.ca/canadian-tire)[Chefs Plate
+        2% Cash Back](https://www.rakuten.ca/canadian-tire)[Chefs Plate
         
-        $7.50 Cash Back](https://www.rakuten.ca/chefsplate)[HelloFresh
+        $15 Cash Back](https://www.rakuten.ca/chefsplate)[HelloFresh
         
         $7.50 Cash Back](https://www.rakuten.ca/hellofresh)[TEMU
         
@@ -167,9 +167,9 @@ FR
         
         [Jamieson Vitamins
         
-        2.5% Cash Back](https://www.rakuten.ca/jamieson-vitamins)[iHerb
+        12% Cash Back](https://www.rakuten.ca/jamieson-vitamins)[iHerb
         
-        2% Cash Back](https://www.rakuten.ca/iherb)[Vitacost
+        12% Cash Back](https://www.rakuten.ca/iherb)[Vitacost
         
         2% Cash Back](https://www.rakuten.ca/vitacost)
         
@@ -211,7 +211,7 @@ FR
         
         TSC
         
-        1.5% Cash Back](https://www.rakuten.ca/ticket/campaign/8CategoryFeaturedStores/store/tsc?sourceName=nav-menu)
+        12% Cash Back](https://www.rakuten.ca/ticket/campaign/8CategoryFeaturedStores/store/tsc?sourceName=nav-menu)
         
     * [Hardware & Tools](https://www.rakuten.ca/stores/hardware-tools "Hardware & Tools Promo Codes and Coupons")
         
@@ -221,9 +221,9 @@ FR
         
         [Canadian Tire
         
-        1% Cash Back](https://www.rakuten.ca/canadian-tire)[Rona
+        2% Cash Back](https://www.rakuten.ca/canadian-tire)[Rona
         
-        2% Cash Back](https://www.rakuten.ca/rona)[Worx
+        up to 2% Cash Back](https://www.rakuten.ca/rona)[Worx
         
         2% Cash Back](https://www.rakuten.ca/worx)[eBay.ca
         
@@ -257,7 +257,7 @@ FR
         
         up to 5% Cash Back](https://www.rakuten.ca/clearly)[MAC Cosmetics Canada
         
-        2% Cash Back](https://www.rakuten.ca/mac-cosmetics-ca)
+        12% Cash Back](https://www.rakuten.ca/mac-cosmetics-ca)
         
         Featured Shops & Deals
         
@@ -309,7 +309,7 @@ FR
         
         [Michael Kors
         
-        2% Cash Back](https://www.rakuten.ca/michael-kors)[Mejuri
+        10% Cash Back](https://www.rakuten.ca/michael-kors)[Mejuri
         
         2% Cash Back](https://www.rakuten.ca/mejuri)[Shoppers Drug Mart Beauty
         
@@ -317,7 +317,7 @@ FR
         
         2% Cash Back](https://www.rakuten.ca/banana-republic-ca)[Simons
         
-        2% Cash Back](https://www.rakuten.ca/simons)
+        12% Cash Back](https://www.rakuten.ca/simons)
         
         Featured Shops & Deals
         
@@ -359,7 +359,7 @@ FR
         
         Canadian Tire
         
-        1% Cash Back](https://www.rakuten.ca/ticket/campaign/18CategoryFeaturedStores/store/canadian-tire?sourceName=nav-menu)
+        2% Cash Back](https://www.rakuten.ca/ticket/campaign/18CategoryFeaturedStores/store/canadian-tire?sourceName=nav-menu)
         
     * [Pets](https://www.rakuten.ca/stores/pets "Pets Promo Codes and Coupons")
         
@@ -369,7 +369,7 @@ FR
         
         [Chewy
         
-        2.5% Cash Back](https://www.rakuten.ca/chewy)[PetSmart
+        12% Cash Back](https://www.rakuten.ca/chewy)[PetSmart
         
         2% Cash Back](https://www.rakuten.ca/petsmart)[Rover
         
@@ -401,7 +401,7 @@ FR
         
         2% Cash Back](https://www.rakuten.ca/sport-chek-canada)[MEC
         
-        2% Cash Back](https://www.rakuten.ca/mec)[Lululemon
+        4% Cash Back](https://www.rakuten.ca/mec)[Lululemon
         
         4% Cash Back](https://www.rakuten.ca/lululemon)[Columbia Sportswear Canada
         
@@ -459,7 +459,7 @@ FR
         
         up to 8% Cash Back](https://www.rakuten.ca/hotels-com)[Viator - A TripAdvisor Company
         
-        10% Cash Back](https://www.rakuten.ca/viator)[Flight Centre
+        12% Cash Back](https://www.rakuten.ca/viator)[Flight Centre
         
         up to 6% Cash Back](https://www.rakuten.ca/flight-centre)[TravelPro
         
@@ -496,7 +496,7 @@ FR
         
     * [See All Stores](https://www.rakuten.ca/stores "See All Stores at Rakuten.ca")
 * [2X Cash Back](https://www.rakuten.ca/fall-refresh "Double Cash Back Promo Codes and Coupons at Rakuten.ca")
-* [🍎 Shop Essentials](https://www.rakuten.ca/everyday-essentials " at Rakuten.ca")
+* [⚡️Up to 12% Cash Back](https://www.rakuten.ca/flash-event " at Rakuten.ca")
 * [Hot Deals](https://www.rakuten.ca/hot-deals "Hot Deals")
 * [Travel](https://www.rakuten.ca/stores/travel-vacations "Travel")
 * [Gift Card Shop](https://www.rakuten.ca/giftcardshop "Gift Card Shop")
@@ -622,7 +622,13 @@ All rights reserved.
 
  ![](//static.rakuten.ca/static/img/footer_close.svg) ![](//static.rakuten.ca/static/img/footer_open.svg)
 
-[![](//static.rakuten.ca/img/campaign_entity/258100/en_stickyfooter-1170x60_new_stores_.png)](https://www.rakuten.ca/new-stores)
+[![Earn 12% Cash Back from Rakuten.ca with Dyson Coupons, Promo Codes](//static.rakuten.ca/img/campaign_entity/297422/en-stickyfooter-1170x60_dyson-1.png "Dyson Coupons, Promo Codes")
+
+was 2.5%, now
+
+12% Cash Back
+
+Shop Now](https://www.rakuten.ca/ticket/campaign/sticky-footer-base-1/store/dyson?sourceName=stickyfooter1)
 
 × ![Rakuten White Logo](//static.rakuten.ca/static/images/logo/logo_Rakuten_white.svg)
 
