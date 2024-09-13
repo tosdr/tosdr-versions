@@ -1,35 +1,31 @@
 [Skip to main content](#main-content)
 
-[![cpsc logo](/sites/default/themes/cpsc/assets/images/cpsc_logo.png)
+[![CPSC logo](/sites/default/themes/cpsc/assets/images/cpsc_logo.png)
 
 United States
 
-Consumer Product Safety Commission](https://www.cpsc.gov/ "CPSC home")
+Consumer Product Safety Commission](https://www.cpsc.gov/ "CPSC Home")
 
-*   [Recalls](https://www.cpsc.gov/Recalls "Recalls")
-*   [Business Education](https://www.cpsc.gov/Business--Manufacturing/Business-Education "Business Education")
-*   [News Releases](https://www.cpsc.gov/Newsroom/News-Releases "News Releases")
-*   [Regulatory Robot](https://www.cpsc.gov/Business--Manufacturing/Regulatory-Robot/Safer-Products-Start-Here "Regulatory Robot")
-*   [Calendar Events](https://www.cpsc.gov/newsroom/public-calendar "Calendar Events")
-*   [Multimedia](https://www.cpsc.gov/Newsroom/Multimedia "Multimedia")
+* [Calendar](https://www.cpsc.gov/Newsroom/Public-Calendar "Calendar")•
+* [News](https://www.cpsc.gov/Newsroom/News-Releases "News")•
+* [Email Signup](https://www.cpsc.gov/Newsroom/Subscribe "Email Signup")•
+* [Contact Us](https://www.cpsc.gov/About-CPSC/Contact-Information "Contact Us")
 
 Menu
 
-*   [Recalls](https://www.cpsc.gov/Recalls "Recalls")
-*   [Business Education](https://www.cpsc.gov/Business--Manufacturing/Business-Education "Business Education")
-*   [News Releases](https://www.cpsc.gov/Newsroom/News-Releases "News Releases")
-*   [Regulatory Robot](https://www.cpsc.gov/Business--Manufacturing/Regulatory-Robot/Safer-Products-Start-Here "Regulatory Robot")
-*   [Calendar Events](https://www.cpsc.gov/newsroom/public-calendar "Calendar Events")
-*   [Multimedia](https://www.cpsc.gov/Newsroom/Multimedia "Multimedia")
+* [Calendar](https://www.cpsc.gov/Newsroom/Public-Calendar "Calendar")•
+* [News](https://www.cpsc.gov/Newsroom/News-Releases "News")•
+* [Email Signup](https://www.cpsc.gov/Newsroom/Subscribe "Email Signup")•
+* [Contact Us](https://www.cpsc.gov/About-CPSC/Contact-Information "Contact Us")
 
-* Safety Education
-    * [Safety Education Resources](https://www.cpsc.gov/Safety-Education)
-    * [Safety Education Materials Library](https://www.cpsc.gov/Safety-Education/Safety-Education-Materials)
+* Recalls & Safety Education
+    * [Recalls](https://www.cpsc.gov/Recalls)
+    * [Safety Education](https://www.cpsc.gov/Safety-Education)
     * [Neighborhood Safety Network](https://www.cpsc.gov/Safety-Education/Neighborhood-Safety-Network)
     * [Community Outreach Center](https://www.cpsc.gov/Safety-Education/Community-Outreach-Resource-Center)
     * [Recall App](https://www.cpsc.gov/Data)
-* Business and Manufacturing
-    * [Business and Manufacturing Resources](https://www.cpsc.gov/Business--Manufacturing)
+* Business & Manufacturing
+    * [Business & Manufacturing Resources](https://www.cpsc.gov/Business--Manufacturing)
     * [Testing & Certification](https://www.cpsc.gov/Business--Manufacturing/Testing-Certification)
     * [Regulatory Robot](https://www.cpsc.gov/Business--Manufacturing/Regulatory-Robot/Safer-Products-Start-Here)
     * [Recall Guidance](https://www.cpsc.gov/Business--Manufacturing/Recall-Guidance)
@@ -40,7 +36,7 @@ Menu
     * [CPSC Data](https://www.cpsc.gov/Data)
     * [Recall API](https://www.cpsc.gov/Recalls/CPSC-Recalls-Application-Program-Interface-API-Information)
     * [Section 6(b) Information Disclosure](https://www.cpsc.gov/Business--Manufacturing/section-6b-information-disclosure)
-* Laws, Regulations, and Proceedings
+* Laws, Regulations & Proceedings
     * [Regulations, Laws & Standards](https://www.cpsc.gov/Regulations-Laws--Standards)
     * [Statutes](https://www.cpsc.gov/Regulations-Laws--Standards/Statutes)
     * [Voluntary Standards](https://www.cpsc.gov/Regulations-Laws--Standards/Voluntary-Standards)
@@ -48,7 +44,7 @@ Menu
     * [Notices of Violations](https://www.cpsc.gov/Recalls/violations)
     * [Rulemaking](https://www.cpsc.gov/Regulations-Laws--Standards/Rulemaking)
     * [Adjudicative Proceedings](https://www.cpsc.gov/Recalls/Recall-Lawsuits-Adjudicative-Proceedings)
-* Research and Reports
+* Research & Reports
     * [Research and Reports Overview](https://www.cpsc.gov/research-and-reports-overview)
     * [Agency Reports](https://www.cpsc.gov/About-CPSC/Agency-Reports)
     * [Clearinghouse Online Query Tool](https://www.cpsc.gov/Research--Statistics/Clearinghouse-Online-Query-Tool)
@@ -280,38 +276,40 @@ U.S. Consumer Product Safety Commission
 Contact Us: 800-638-2772 (TTY 800-638-8270)  
 Toll-Free Consumer Hotline | Time: 8 a.m. - 5.30. p.m. ET
 
-* [Accessibility](https://www.cpsc.gov/About-CPSC/Miscellaneous/508)
-* [Vulnerability Disclosure Policy](https://www.cpsc.gov/vulnerability-disclosure-policy)
-* [Privacy Policy](https://www.cpsc.gov/About-CPSC/Policies-Statements-and-Directives/Privacy-Policy)
+![CPSC logo](/sites/default/themes/cpsc/assets/images/cpsc_logo_text.png)
+
 * [Budget, Performances & Finance](https://www.cpsc.gov/About-CPSC/Agency-Reports/Performance-and-Budget)
 * [Information Quality Act](https://www.cpsc.gov/Research--Statistics/Information-Quality-Act)
 * [Data](https://www.cpsc.gov/Data)
-* [FOIA](https://www.cpsc.gov/Newsroom/FOIA)
-* [Inspector General](https://www.cpsc.gov/OIG)
-* [No Fear Act](https://www.cpsc.gov/About-CPSC/No-FEAR-Act)
 * [USA.gov](https://www.usa.gov/)
 
 Connect
 
-  [facebook](https://www.facebook.com/USCPSC/ "CPSC Facebook")
+*   [facebook](https://www.facebook.com/USCPSC/ "CPSC Facebook")
+*   [Instagram](https://www.instagram.com/uscpsc/ "CPSC Instagram")
+*   [Youtube](https://www.youtube.com/uscpsc "CPSC Youtube")
+*   [Twitter](https://twitter.com/USCPSC "CPSC Twitter")
+*   [Linkedin](https://www.linkedin.com/company/u.s.-consumer-product-safety-commission/ "CPSC Linkedin")
 
-  [Instagram](https://www.instagram.com/uscpsc/ "CPSC Instagram")
+En español
 
-  [Youtube](https://www.youtube.com/uscpsc "CPSC Youtube")
-
-  [Twitter](https://twitter.com/USCPSC "CPSC Twitter")
-
-  [Linkedin](https://www.linkedin.com/company/u.s.-consumer-product-safety-commission/ "CPSC Linkedin")
-
-En Español
-
-  [facebook](https://www.facebook.com/USCPSCenEspanol "CPSC Facebook en Español")
-
-  [Twitter](https://twitter.com/seguridadconsum "CPSC Twitter en Español")
+*   [facebook](https://www.facebook.com/USCPSCenEspanol "CPSC Facebook en Español")
+*   [Twitter](https://twitter.com/seguridadconsum "CPSC Twitter en EspaÃ±ol")
 
 [Website Feedback](https://www.cpsc.gov/website-feedback "Website Feedback")
 
 CPSC.gov is an official website of the United States government.
+
+Identifier Menu
+---------------
+
+* [Accessibility](https://www.cpsc.gov/About-CPSC/Miscellaneous/508 "Accessibility Guidelines by CPSC")
+* [Vulnerability Disclosure Policy](https://www.cpsc.gov/vulnerability-disclosure-policy "Vulnerability Disclosure Policy")
+* [Privacy Policy](https://www.cpsc.gov/About-CPSC/Policies-Statements-and-Directives/Privacy-Policy "Privacy Policy")
+* [Open Government](https://www.cpsc.gov/About-CPSC/Agency-Reports/open "Open Government")
+* [FOIA](https://www.cpsc.gov/Newsroom/FOIA "FOIA")
+* [Inspector General](https://www.cpsc.gov/OIG "Inspector General")
+* [No Fear Act](https://www.cpsc.gov/About-CPSC/No-FEAR-Act "No Fear Act")
 
 #### You are about to leave the U.S. Consumer Product Safety Commission (CPSC) public website.
 
