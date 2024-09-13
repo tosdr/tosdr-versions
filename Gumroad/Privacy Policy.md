@@ -1,4 +1,4 @@
-[![](https://assets-global.website-files.com/6171b265e5c8aa59b42c3472/6536cd1ec3e5cefba840fb29_logo.svg)](https://gumroad.com/)
+[![](https://cdn.prod.website-files.com/6171b265e5c8aa59b42c3472/6536cd1ec3e5cefba840fb29_logo.svg)](https://gumroad.com/)
 
 [Login](https://app.gumroad.com/login)[Start Selling](https://app.gumroad.com/signup)[About](https://gumroad.com/about)[Features](https://gumroad.com/about/features)[Pricing](https://gumroad.com/about/pricing)
 
@@ -283,11 +283,11 @@ Please contact us if you want further information on the specific mechanism used
 
   →
 
-[Help](https://help.gumroad.com/)[Terms of Service](https://gumroad.com/about/terms)[Privacy Policy](https://gumroad.com/about/pricing)
+[Help](https://help.gumroad.com/)[Terms of Service](https://gumroad.com/about/terms)[Privacy Policy](https://gumroad.com/about/privacy)
 
 [Features](https://gumroad.com/about/features)[Pricing](https://gumroad.com/about/pricing)[About](https://gumroad.com/about)[Jobs](https://jobs.gumroad.com/)[Board meetings](https://www.youtube.com/watch?v=st8ns96z7d4)
 
-![](https://assets-global.website-files.com/6171b265e5c8aa59b42c3472/618f28a89e94524552a002cb_g-icon.svg)
+![](https://cdn.prod.website-files.com/6171b265e5c8aa59b42c3472/618f28a89e94524552a002cb_g-icon.svg)
 
 Ⓒ Gumroad, Inc.
 
