@@ -135,7 +135,7 @@ QaamGo Media GmbH
 Hohenstaufenring 62  
 50674 Köln  
 Fax: +49 7732 9391657  
-E-Mail: [\[email protected\]](https://www.online-convert.com/cdn-cgi/l/email-protection)  
+E-Mail: time2talk@online-convert.com  
   
 **Consequences of the revocation**  
   
