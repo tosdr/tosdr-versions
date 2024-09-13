@@ -176,293 +176,335 @@ Privacy Notice
 ==============
 
 Privacy Notice  
-Version 3.1, Effective 13 July 2022  
-PLEASE READ THIS PRIVACY POLICY VERY CAREFULLY
 
-**SETTING THE SCENE**
+Version 4.0 | Effective from 11 September 2024  
 
-At Starling, service is our no.1 priority. This includes respecting your privacy and protecting your information.
+Looking after your personal information is a responsibility we take really seriously. This notice explains how and why we use your information, and what we do to help keep it safe. It also sets out the rights you have when it comes to the information we hold about you.
 
-To make this notice easier to understand, we use some straightforward words throughout the notice and we then explain the meaning of those words at the bottom of this document - so if you need to check what one of these words means, scroll down to the bottom.
+You don’t have to share your information with us, but we won’t be able to offer you an account if you don’t.
 
-The notice describes how we collect and use your information and it covers all the ways you can interact with us... and there are lots of ways! For example: when you visit any of our websites, you use the App, you have an account with us, you get in touch with us, you apply for a job or you use a service that integrates with us.
+The ‘data controller’ is us, Starling Bank Limited. Our company number is 09092149. Our registered office is at 5th Floor, London Fruit & Wool Exchange, 1 Duval Square, London, E1 6PW. You can contact our Data Protection Officer at [privacy@starlingbank.com](mailto:privacy@starlingbank.com).
 
-**Please note that you do not have to transfer your information to us; however, if you do not, it will severely limit your ability to use our products and services - in particular, you will not be able to have a bank account with us.**
+### What types of information do you collect?
 
-The notice has the following sections:
+#### Information you give us
 
-* What information do we collect;
-* How do we use your information and what is the lawful basis;
-* Who do we share your information with;
-* Some specific information about credit reference and fraud prevention agencies;
-* Where do we process and store your information or transfer it;
-* Your rights;
-* Other information that we need to give you or we think you will find useful;
-* Meanings of some of the terms we use.
+We collect information about you when you:
 
-Each section has two parts:
+* download our app
+* apply for an account
+* use our app and Online Banking
+* make and receive payments
+* use our banking services
+* visit our websites
+* get in touch with us, including through the app, by phone, email, or on social media
+* take part in customer research or competitions
+* apply to or act as an account holder’s power of attorney
 
-1. * **In short** - this sets out a brief, easy to read summary of that section; and
-2. * **If you want more detail** - this is a more comprehensive explanation of that section. Our websites and the App may, from time to time, contain links to and from the websites or other links or apps of our partner networks and our affiliates. If you follow one of these links, please note that these links and destinations have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any of your information via these links or destinations.
+This information might include:
 
-**1\. WHAT INFORMATION DO WE COLLECT?**
+* your name and date of birth
+* your photograph ID
+* your address (and previous addresses), email address, and phone number
+* transactional and financial information, including information about your income
+* credit and debit card details
+* personal descriptions and photographs
+* video or audio files
 
-**In short**, we collect and use information about you that is picked up when you interact with us such as through our websites, when you use the App, if you have an account with us, if you get in touch with us, if you apply for a job or if you use a service that integrates with us. We also collect and use information about you that is provided by third parties.
+We might also ask for information about someone else, like if you apply for a Kite Space for a child. If you give us information about someone else, you should let them know that you’ve done this.
 
-**If you want more detail**, here is the information that we may collect about you:
+#### Information from third parties
 
-* 1.1. information you give us when you get in touch with us (through the App, or by phone (and we monitor and record calls), email or otherwise) such as the information you provide when you download the App, register or use our websites, transact or use our banking service, when you engage in customer research or similar, participate in discussion boards or other social media platforms, when you report a problem with our websites or the App. Examples of this information are your name, address and previous addresses, email addresses and phone number,financial and credit and debit card information, personal description and photographs, videos or audio files;
-    
-* 1.2. transactional information in relation to banking and financial products and services including from our debit card provider;
-    
-* 1.3. information from Marketplace partners where you integrate services between us and them;
-    
-* 1.4. technical information, including the Internet protocol (IP) address used to connect your computer or device to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform;
-    
-* 1.5. information about your visit to our websites, including the full Uniform Resource Locators clickstream to, through and from our websites (including date and time), products you viewed, page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page - our websites may also use cookies (please refer to our Cookie Policy for detailed information on this: [https://www.starlingbank.com/legal/cookie-policy/](https://www.starlingbank.com/legal/cookie-policy/));
-    
-* 1.6. telephone log information, such as your phone number, calling-party number, forwarding numbers, time and date of calls, duration of calls, SMS routing information and types of calls, any phone number used to call us and the content of those calls;
-    
-* 1.7. information about the device you are using including information relating to your mobile phone network, which operating system you use and the version of that operating system, information which enables the identification of that device. If you download the App, we will link your mobile number with that device;
-    
-* 1.8. information about where you are located which is provided through our technology by using details like your IP address or GPS sensors;
-    
-* 1.9. the App collects certain information when you install, use or uninstall it (including information about your device and the way you use the App and our products and services) and it may periodically contact our servers automatically and we may collect and store information (including information about you) on your device itself - the App may also use cookies (please refer to our Cookie Policy for detailed information on this: [https://www.starlingbank.com/legal/cookie-policy/](https://www.starlingbank.com/legal/cookie-policy/);
-    
-* 1.10. information you provide when applying for a job or to provide us with services;
-    
-* 1.11. we also work closely with third parties (including, for example, business partners, subcontractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies, other lenders we are connected with and that you use (such as peer-to-peer platforms or mortgage providers)) and may receive information about you from them; and
-    
-* 1.12. we may need to process your special category personal data in certain situations. This is information that can reveal a person's racial or ethnic origin, political opinions, religious or philosophical beliefs or trade union membership, as well as genetic or biometric data (if used to uniquely identify that person) and information concerning a person's health, sex life, or sexual orientation.
-    
+We also collect the types of information listed above from third parties, including:
 
-**2\. HOW DO WE USE YOUR INFORMATION AND WHAT IS THE LAWFUL BASIS?**
+* our debit card provider
+* any companies you use through Marketplace
+* our business partners
+* sub-contractors in technical, payment, and delivery services
+* advertising networks
+* analytics providers
+* search information providers
+* credit reference agencies
+* other lenders you use that we’re connected with, like peer-to-peer platforms or mortgage providers
 
-**In short**, we use your information in order to carry out our operation as a bank and provide banking and financial products and services, to make sure we do not breach any contracts, to keep Starling and you secure, to give people information about products and services and to comply with the law.
+#### Information from your device
 
-**If you want more detail**, we use your information in the following ways:
+We collect technical information from your device, including your:
 
-* 2.1. for our operation as a bank and to provide banking and financial products and services including:
-    
-* 2.1.1. to operate bank accounts, make payments (including through digital services like GooglePay, ApplePay, SamsungPay, GarminPay), to comply with obligations to our debit card partner, run our Marketplace and let you use all these services and to allow you to participate in interactive features of our service and the Marketplace, when you choose to do so;
-    
-* 2.1.2. to ensure the App, our websites, content and services are as effective and relevant as possible and give you the best experience they can;
-    
-* 2.1.3. to administer our business, including troubleshooting, fraud detection, data analysis, testing, research, marketing, statistical and survey purposes, to identify and assist you if you are a vulnerable customer, and to keep our business, websites, the App, bank accounts and our systems safe and secure;
-    
-* 2.1.4. to ensure that we comply with the law and regulations, for regulatory purposes generally as well as to help detect or prevent fraud or other crimes, and for tax, legal, reporting and auditing obligations;
-    
-* 2.1.5. in case we need to check we have carried out your instructions correctly or to resolve queries or issues;
-    
-* 2.1.6. for staff training purposes where we may monitor or record conversations;
-    
-* 2.1.7. in connection with agreements with credit reference agencies and fraud prevention agencies - please see section "CREDIT REFERENCE AGENCIES, CREDIT SCORING AND FRAUD PREVENTION AGENCIES" below in particular;
-    
-* 2.1.8. to assess if you are suitable to work with or for us.
-    
+* IP address
+* login information
+* browser type and version, as well as any plug-ins you have installed
+* time zone
+* operating system and platform
+* mobile phone network
 
-We process your information for the purposes set out above on the following grounds: given our legitimate interest in providing banking and financial products and services, operating and improving Starling, marketing our products and services to you and others and being as efficient as we can about complying with legal duties, obligations and regulations that apply to us and keeping our records up to date.
+If you download the app, we’ll link your mobile number with the device you’ve used.
 
-* 2.2. to carry out our obligations arising from any contracts entered into between you and us;
+We also collect information from phone conversations we have with you, including:
 
-We process your information for the purposes set out above on the following grounds: where it is necessary for the adequate performance of contracts with you and to take steps requested by you prior to you entering into contracts with us.
+* any phone number used to call us, including your phone number and anyone else’s that you use
+* any forwarding numbers
+* the time, date, and duration of calls
+* the content of any calls
+* the types of calls
 
-* 2.3. to operate our Marketplace and to provide information about you to Marketplace and professional partners and businesses that integrate with our APIs that you choose to integrate with;
+We might also contact you by text message every now and again - like when we share security codes or to let you know we’ve sent you an in-app message. When we do this, we also collect the SMS routing information.
 
-We process your information for the purposes set out above on the following grounds: (i) your consent to do so where you choose to share your information with Marketplace and professional partners and any other third parties; (ii) where it is necessary for the adequate performance of contracts with you and to take steps requested by you prior to you entering into contracts with us where Marketplace partners share it with us; and (iii) being as efficient as we can about complying with legal duties, obligations and regulations that apply to us and keeping our records up to date.
+#### Information about how you use our websites
 
-* 2.4. to provide you or others, directly or via third party platforms (such as social media platforms): information, products and services that are requested from us; other information, products and services we offer or our business partners offer; and notice about changes to our products or services;
+We collect information on how you use our websites, including:
 
-We process your information for the purposes set out above on the following grounds: given our legitimate interest in undertaking activities to offer you products or services that may be of interest to you or that you have expressed an interest in hearing about, given our legitimate interest in providing banking and financial products and services, operating and improving Starling, marketing our products and services to you and others and being as efficient as we can about complying with legal duties, obligations and regulations that apply to us and keeping our records up to date.
+* the URLs you click to get to, from, and around our website
+* the date and time you click any URLs
+* the products you view
+* how long it takes the pages to respond
+* any download errors
+* how long you spend on pages
+* how you interact with the pages, like where you scroll, click, and hover your mouse
 
-* 2.5. to measure, understand and improve the effectiveness of any functionality or access to, or the commerciality of, any products or services we offer or to which we provide access and to inform and deliver our marketing communications, and we use social media platforms and other communication platforms, analytics and search engine providers to assist us in marketing and the improvement and optimisation of our websites, the App and our business generally.
+We also use cookies on our websites. You can find more information about this in our cookie policy at [https://www.starlingbank.com/legal/cookie-policy](https://www.starlingbank.com/legal/cookie-policy)
 
-We process your information for the purposes set out above on the following grounds: given our legitimate interest in operating and improving Starling, marketing our products and services to you and others and providing banking and financial products and services.
+#### Information about your location
 
-Special category personal data: If there is special category personal data for any of the purposes set out above in Section 2 we will process that data on the following grounds: (1) where we have your explicit consent; or (2) it is necessary for: (i) the protection of your vital interests or of another person, or (ii) reasons of substantial public interest, or (iii) the establishment, exercise or defence of legal claims.
+We collect information about your location by using details like your IP address or GPS sensors.
 
-**3\. WHO DO WE SHARE YOUR INFORMATION WITH?**
+#### Sensitive information
 
-**In short**, sometimes we share your information with our affiliates, with those we do business with, with credit reference and fraud prevention agencies, with law enforcement bodies and regulators or if the information is aggregated (and so cannot identify you specifically).
+Every now and then, we might ask you for information that may seem sensitive. We’ll only ask for this when we really need to.
 
-**If you want more detail**, we may share your information in certain circumstances, including:
+For example, we might need to use facial or voice recognition technology to identify you and protect your account from fraud. As part of our regulatory obligations, we might have to ask you if you have any criminal convictions. Or, if you tell us about a health issue or a difficult situation you’re in, we might ask for more information so that we can make any adjustments to your account that you might need.
 
-* 3.1. with our affiliates to ensure we can do the things set out above in the section HOW DO WE USE YOUR INFORMATION AND WHAT IS THE LAWFUL BASIS?;
-    
-* 3.2. with business partners, suppliers and subcontractors, social media platforms and other related service providers, with companies, organisations or individuals outside Starling (such as fraud prevention suppliers and analytics providers) for the performance of any contract we enter into with them or you or for the uses set out in the section HOW DO WE USE YOUR INFORMATION AND WHAT IS THE LAWFUL BASIS?;
-    
-* 3.3. other third parties where you ask us to, including with Marketplace partners, those who have integrated with Starling through our API or in connection with banking and financial products and services we offer like Settle Up;
-    
-* 3.4. with credit reference agencies and fraud prevention agencies - please see the section CREDIT REFERENCE AGENCIES, CREDIT SCORING AND FRAUD PREVENTION AGENCIES below. Sometimes this is a condition of us entering into a contract with you;
-    
-* 3.5. if we are under a duty to disclose or share your information in order to comply with any legal obligation, or in order to enforce or apply any agreement with you or our suppliers, to protect the rights, property or safety of Starling, our customers or others. This includes:
-    
-* 3.5.1. exchanging information with the Financial Services Compensation Scheme and with other companies and organisations for the purposes of fraud protection and credit risk reduction - again please see the section CREDIT REFERENCE AGENCIES, CREDIT SCORING AND FRAUD PREVENTION AGENCIES below;
-    
-* 3.5.2. with tax authorities;
-    
-* 3.5.3. with the police and other law enforcement bodies;
-    
-* 3.6. the App can use Google Maps/Earth services, including the Google Maps APIs and users of this are bound by the Google Maps/Earth Additional Terms of Use (including the Google Privacy Policy) - see [](https://policies.google.com/privacy)[https://policies.google.com/privacy](https://policies.google.com/privacy).
-    
+### How do you use my information?
 
-**4\. CREDIT REFERENCE AGENCIES, CREDIT SCORING AND FRAUD PREVENTION AGENCIES**
+We have to have a valid reason for using your information. This is called the ‘lawful basis for processing’.
 
-**In short**, we use credit reference and fraud prevention agencies for a number of matters including when you apply for an account with us and in relation to lending. Some of the ways we use them is through automated decision making but you can contact us if this happens and you want us to look at an application again.
+How we use your information – and the lawful basis for using it – depends on the type of information we collect and the reason we collect it.
 
-**If you want more detail**:
+#### To operate as a bank
 
-* 4.1. We use credit reference agencies and fraud prevention agencies. For a detailed explanation of what they do and what they do with information about you, please refer to the following: [](https://www.transunion.co.uk/crain)[https://www.transunion.co.uk/crain](https://www.transunion.co.uk/crain), [](https://www.equifax.co.uk/crain/)[https://www.equifax.co.uk/crain/](https://www.equifax.co.uk/crain/) or [](https://www.experian.co.uk/legal/crain/)[https://www.experian.co.uk/legal/crain/](https://www.experian.co.uk/legal/crain/). Where we share personal data about you with Cifas, it will process that personal data in accordance with its Fair Processing Notice, a copy of which can be found at: [](https://www.cifas.org.uk/fpn)[https://www.cifas.org.uk/fpn](https://www.cifas.org.uk/fpn).
-    
-* 4.2. We use systems to make solely automated decisions in the following areas:
-    
-* 4.2.1. whether to give you an account or check a product or service is relevant for you;
-    
-* 4.2.2. detecting fraud or money-laundering and taking action (e.g. closing or freezing accounts);
-    
-* 4.2.3. additionally, if you apply for an overdraft or want to extend an overdraft, we use a credit scoring system. Please note the following:
-    
-* 4.2.3.1. this is an automated system which most lenders use to make fair and informed decisions on whether to lend money to certain people and how much. This helps us to lend responsibly. The credit scoring methods used are regularly tested to ensure they remain fair, effective and unbiased;
-    
-* 4.2.3.2. if you apply to borrow money, the system takes account of different information, including that of the credit reference agencies and the information we already hold about you. The system applies the information to look at your application and whether it is responsible to agree to lend to you.
-    
-* 4.3. If your application is declined via the system, you can still contact us if you want to have your application looked at again.
-    
-* 4.4. Ongoing reports may also be provided by credit reference or fraud agencies.
-    
+This includes:
 
-**5\. AUTOMATED DECISION MAKING**
+* operating bank accounts and allowing you to make and receive payments (including through digital services like GooglePay, ApplePay, SamsungPay, GarminPay, and Click to Pay)
+* making sure our app, websites, and services are relevant and give you the best experience they can
+* keeping our business and your accounts safe
+* training our teams, for which we might use recorded conversations
+* resolving problems or answering your questions
+* making sure we comply with the law and regulations
+* sharing information with credit reference agencies and fraud prevention agencies
+* sharing information with security organisations and agencies
+* checking if you can work with or for us
 
-* 5.1. Restricted automated decision making (including profiling) is when we use systems to make decisions solely by automated means without any human involvement - which then has a legal or similarly significant effect on you. This specific type of decision making has additional rules to protect you.
-    
-* 5.2. Here at Starling, except as set out in Section 4 above, we do not conduct such (restricted) automated decision making because any output from our automated decision making is checked by humans before a final decision is taken.
-    
+The lawful basis for processing this information:
 
-**6\. WHERE DO WE PROCESS AND STORE YOUR INFORMATION OR TRANSFER IT?**
+* **legitimate interest**: we use your data in a way you’d reasonably expect us to. In this case, to provide banking products and services, operate and improve Starling, provide service messages, keep records up to date and comply with legal duties, obligations and regulations that apply to us.
+* **legal obligation**: to comply with the law or other regulation
+* **contract**: we have a contract with you
 
-**In short**, we generally process your information through servers in the UK and EEA and normally store it for six years. Sometimes the information goes outside the UK and EEA but we try and keep this to a minimum and we put safeguards in place as far as possible.
+#### To connect you to other providers through our Marketplace
 
-**If you want more detail**:
+This includes:
 
-* 6.1. We process your information and store it on servers managed by our hosting providers.
-    
-* 6.2. Those servers are located across a number of secure data centres in the UK and EEA. Our server environment is highly secure and there is very limited personnel access. Any information will be encrypted at rest (in other words, on being stored).
-    
-* 6.3. We try to ensure that we do not send your information outside the UK and EEA. However, this is not possible in all cases:
-    
-* 6.3.1. in relation to a very small number of our suppliers, your information may be transferred to, and stored at, a destination outside the UK and EEA as well as processed by staff operating outside the UK and EEA who work for them. We will ensure that suitable safeguards are in place before your information is transferred outside the UK and EEA as required by law and we will take all steps reasonably necessary to ensure that information about you is treated securely and in accordance with this notice;
-    
-* 6.3.2. if you are outside the UK and EEA and make payments or send messages, or you are in the UK and EEA and make payments or send messages outside the UK and EEA, we may process payments through other institutions and payment systems. They may have to process and store information about you in connection with their own regulations; please note that the standards to which they adhere may not be as stringent as those in the UK and EEA.
-    
-* 6.4. Unfortunately, the transmission of your information via the Internet can never be 100% secure. Although we will do our best to protect your information, we cannot guarantee the security of information about you transmitted to us and so any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
-    
+* operating our Marketplace
+* sharing information about you with our partners that you connect with using Marketplace
 
-**7\. YOUR RIGHTS**
+The lawful basis for processing this information:
 
-**In short**, you have certain rights under the law and under this notice to request access to your information, to manage it, to withdraw consent, and to request us to delete or transfer information about you or restrict the way it is used. You also have a right to complain.
+* **consent**: you’ve given us clear and informed consent to use your information for a specific reason
+* **legal obligation**: to comply with legal duties, obligations and regulations that apply to us
+* **contract**: we have a contract with you
 
-**If you want more detail**:
+#### To contact you or others
 
-* 7.1. Accessing information about you: You may access information held about you. Your right of access can be exercised as follows:
-    
-* 7.1.1. if you are a customer of Starling, please make a request through the App;
-    
-* 7.1.2. if you are not a customer, please email Starling at [privacy@starlingbank.com](mailto:privacy@starlingbank.com).
-    
-* 7.2. Managing your information:
-    
-* 7.2.1. To provide outstanding customer service we need accurate customer information. You can help by informing us whenever your circumstances change.
-    
-* 7.2.2. If you wish to update information about you which is inaccurate or incorrect:
-    
-* 7.2.2.1. if you are a customer of Starling, please make a request through the App;
-    
-* 7.2.2.2. if you are not a customer, please email \* Starling at [privacy@starlingbank.com](mailto:privacy@starlingbank.com).
-    
-* 7.2.3. We may need to ensure that your information is accurate and correct and this may involve a number of further steps.
-    
-* 7.3. Deleting your information:
-    
-* 7.3.1. Generally, we will store your information for six years but in certain circumstances, including through regulatory requirements, we may have to store this for a longer period.
-    
-* 7.3.2. You may request that we delete your information and we will do so but:
-    
-* 7.3.2.1. only if we do not need to retain it for any of the matters set out in the section HOW DO WE USE YOUR INFORMATION AND WHAT IS THE LAWFUL BASIS? above;
-    
-* 7.3.2.2. your information may be impossible to permanently delete and where this is not possible we will put that information beyond reasonable use;
-    
-* 7.3.2.3. your information which you have shared with others (e.g. on our websites) may remain publicly available;
-    
-* 7.3.2.4. please note that your information which you have transmitted to others, e.g. Marketplace partners, will be subject to the privacy policies of those others.
-    
-* 7.4. Objecting to, withdrawing consent, or restricting use of your information:
-    
-* 7.4.1. You can ask us to stop using all or some of your information, withdraw consent or to limit our use of it:
-    
-* 7.4.1.1. if you are a customer of Starling, please make a request through the App;
-    
-* 7.4.1.2. if you are not a customer, please email Starling at [privacy@starlingbank.com](mailto:privacy@starlingbank.com).
-    
-* 7.4.2. We will do so but:
-    
-* 7.4.2.1. only if we do not need to retain or use it for any of the matters set out in the section HOW DO WE USE THE INFORMATION AND WHAT IS THE LAWFUL BASIS? above;
-    
-* 7.4.2.2. your information which you have shared with others (e.g. on our websites) may remain publicly available;
-    
-* 7.4.2.3. please note that your information which you have transmitted to others, e.g. Marketplace partners, will be subject to the privacy policies of those others.
-    
-* 7.4.3. Before sending you direct marketing in your personal capacity, we will always obtain your permission to do so. Please note that if you update your permissions on direct marketing, there may be a period of time before the update takes effect and you may be sent direct marketing during this time.
-    
-* 7.5. Transferring your information:
-    
-* 7.5.1. You can ask to have transferred elsewhere information about you that you have provided to us:
-    
-* 7.5.1.1. if you are a customer of Starling, please make a request through the App;
-    
-* 7.5.1.2. if you are not a customer, please email Starling at [privacy@starlingbank.com](mailto:privacy@starlingbank.com).
-    
-* 7.5.2. We will do so but:
-    
-* 7.5.2.1. we may also need to retain it for any of the matters set out in the section HOW DO WE USE YOUR INFORMATION AND WHAT IS THE LAWFUL BASIS? above;
-    
-* 7.5.2.2. we may be restricted from doing so for the same reasons.
-    
-* 7.6. You have the right to lodge a complaint with the Information Commissioner’s Office (go to [](https://ico.org.uk/)[https://ico.org.uk/](https://ico.org.uk/)).
-    
+This includes:
 
-**8\. OTHER IMPORTANT MATTERS**
+* sharing information about our products and services, and letting you know about any changes to them
+* sharing information about products and services our partners offer
+* sending marketing communications you’ve consented to
+* managing giveaways and competitions you take part in
 
-**In short**, please check frequently for updates to this notice and, if you need to contact us, details are below.
+The lawful basis for processing this information:
 
-**If you want more detail**:
+* **legitimate interest**: we use your data in a way you’d reasonably expect us to. In this case, to provide and offer products or services, and to operate and improve Starling
+* **legal obligation**: to comply with the law or other regulation
+* **consent**: you’ve given us clear and informed consent to use your information for a specific reason
+* **contract**: we have a contract with you
 
-* 8.1. Updates: This notice may be updated from time to time. Any updates we make to this notice will become effective immediately on posting on our websites. If such an update is significant we will provide you with notice of this via email or any other method we think is suitable.
-    
-* 8.2. Contact:
-    
-* 8.2.1. If you have any questions about this notice or suggestions on any ways it can be improved, please let us know at [privacy@starlingbank.com](mailto:privacy@starlingbank.com) or by getting in touch. Our Data Protection Officer can be contacted at [dpo@starlingbank.com](mailto:dpo@starlingbank.com).
-    
-* 8.2.2. For the purposes of the data protection laws, the data controller is Starling Bank Limited company number 09092149 and we have our registered office at 5th Floor, London Fruit & Wool Exchange, Duval Square, London, E1 6PW.
-    
+#### To research and improve what we offer
 
-**9\. WHAT THE WORDS MEAN**
+This includes:
 
-* 9.1. Unless they are defined specifically in here, words used in here have the same meaning as in the Starling Current Account Terms and Conditions - General Part, as amended from time to time.
-    
-* 9.2. The following terms have the meanings opposite them:
-    
-* 9.2.1. affiliates means from time to time our holding companies, subsidiary companies and all the subsidiary companies of such holding companies;
-    
-* 9.2.2. data protection laws means the General Data Protection Regulation (EU 2016/679) or any substantially equivalent law enacted in the UK, as applicable;
-    
-* 9.2.3. EEA means the European Economic Area;
-    
-* 9.2.4. our websites means the Starling Bank Online Banking site and www.starlingbank.com and all related sites;
-    
-* 9.2.5. we, us, our or Starling means Starling Bank Limited and all its affiliates;
-    
-* 9.2.6. your information or information about you means personal data (as defined in the data protection laws) about you.
-    
+* measuring how effective, accessible, and commercial our products and services are
+* using our findings to improve our products and services, and to inform our marketing communications
+
+The lawful basis for processing this information:
+
+* **legitimate interest**: we use your data in a way you’d reasonably expect us to. In this case, to provide products and services, and to operate and improve Starling.
+
+#### Using sensitive information
+
+We need a second lawful basis to be able to process sensitive information. This could include:
+
+* if you or someone acting on your behalf has given us clear and informed consent
+* to protect someone’s life
+* if we’re carrying out a task to protect or improve your financial wellbeing, or to prevent illegal activity
+* if it’s in relation to legal claims
+
+### Who do you share my information with?
+
+There are certain organisations we might need to share your information with so we can do the things set out in the 'How do you use my information' section above. This includes:
+
+#### Organisations we work and connect with
+
+* Affiliated companies, including companies within our group
+* Partners, suppliers, subcontractors
+* Social media platforms
+* Fraud prevention suppliers and analytics providers
+* Google Maps and Google Earth
+
+When you use Google Maps and Google Earth, you have to follow the Google Maps/Earth Additional Terms of Service. This includes Google’s privacy policy, which you can read at [https://policies.google.com/privacy](https://policies.google.com/privacy).
+
+#### Organisations you can choose to give us permission to share with
+
+* Open Banking providers you use
+* Marketplace partners you use
+* Organisations who’ve integrated with us through our API
+* Other banks in connection with services we offer
+
+#### Organisations that help to protect against fraud and reduce credit risk
+
+* Credit reference agencies
+* Fraud prevention agencies
+* The Financial Services Compensation Scheme
+* Tax authorities
+* The police and other law enforcement agencies
+
+For more information about how credit reference and fraud prevention agencies use your information, you can read their privacy policies at the following websites:
+
+Credit reference agencies
+
+* [https://www.transunion.co.uk/crain](https://www.transunion.co.uk/crain)
+* [https://www.equifax.co.uk/privacy-hub/crain](https://www.equifax.co.uk/privacy-hub/crain)
+* [http://www.experian.co.uk/crain/](http://www.experian.co.uk/crain/)
+
+Fraud prevention agencies
+
+* [https://www.cifas.org.uk/fpn](https://www.cifas.org.uk/fpn)
+* [https://www.synectics-solutions.com/privacy-policy](https://www.synectics-solutions.com/privacy-policy)
+* [https://www.napier.ai/privacy-policy](https://www.napier.ai/privacy-policy)
+
+Our websites and app might sometimes contain links to the websites or apps of organisations we work and connect with. These websites and apps have their own privacy policies and we’re not responsible or liable for these. Please check their policies before you submit any information to these websites or apps
+
+### Do you make automated decisions about me?
+
+We use systems to help us make certain decisions. We decide the level of automated decision-making we need on a case-by-case basis.
+
+We use systems to help us make decisions on things like:
+
+* whether to give you an account, or if a product or service is relevant for you
+* detecting fraud or money-laundering, and taking action against it
+
+To help us make these decisions, we use information from credit reference and fraud prevention agencies, as well as facial and voice recognition tools.
+
+We also use credit scoring systems to help us decide whether to give you an overdraft, or offer you a higher overdraft limit. These systems work by taking into account information from credit reference agencies as well as information we already hold about you, and analysing how much money we can responsibly lend to you. They’re regularly reviewed to check they stay fair and effective.
+
+If your application for an account, product or service is declined, you can ask for it to be reviewed in full by a human. To do this, send us a message in the app if you’re a customer, or email us at [privacy@starlingbank.com](mailto:privacy@starlingbank.com) if you’re not.
+
+#### Do you apply artificial intelligence and machine learning to my data?
+
+We use artificial intelligence as part of us operating as a bank (for example, during the account application process). We use it to extract information from your application and help us understand if we’re able to offer you an account or service.
+
+We might also use machine learning:
+
+* to prevent fraud
+* to transcribe calls you have with us, or identify if you’ve asked us to access your personal information – we do this for training and quality purposes so we can improve the service we give our customers
+* for other reasons from time to time, as long as we don’t use machine learning on its own to make a decision
+
+### How do you store my information and do you transfer it anywhere?
+
+Where we can, we store and process your information using servers in the UK and European Economic Area (EEA). The servers are secure, and very few people have access to them. All your information stored on these servers is also encrypted, which makes it impossible for anyone who isn't authorised to read it.
+
+The only times your information might go outside the UK and EEA are:
+
+* if a supplier has to store or process it elsewhere, which only applies to a very small number of our suppliers. We try to avoid this, but when it does happen we put safeguards in place to help keep your information secure.
+* if you’re outside the UK and EEA and make payments or send messages, or you’re in the UK and EEA and make payments or send messages to other places. If this happens, your information will be stored and processed in line with the countries’ own regulations, which might not be as rigorous as those in the UK and EEA.
+
+We have appropriate technical and organisational measures in place to protect your information. Although we’ll always do our best to keep it safe once it reaches us, we’re not responsible if anything happens to it before that point.
+
+### How long do you hold my information for?
+
+We usually keep your information for six years from the date you stop using Starling products or services, which is the minimum the law says we have to keep it for.
+
+### What are my rights?
+
+#### The right to access
+
+You have the right to access information we hold about you. To do this, send us a message in the app if you’re a customer, or email us at [privacy@starlingbank.com](mailto:privacy@starlingbank.com) if you’re not.
+
+#### The right to update
+
+You have the right to update information we hold about you so it’s correct. You can update your address, email address, and phone number in the app. To update any other details, get in touch with us.
+
+We’ll also check in with you every year to make sure the information we hold about you is up-to-date.
+
+#### The right to delete
+
+You have the right to ask us to delete your information, but we might not always be able to for legal reasons. For example, if you’re applying to open an account and we’ve started checks with a credit reference agency, we have to keep your information to comply with the law and other regulations.
+
+We’ll delete your information if you ask us to, unless:
+
+* we need to keep it for any of the reasons set out in the **How do you use my information?** section
+* we’re not reasonably able to permanently delete it
+* you’ve shared the information for use on our website – this might stay publicly available
+* you’ve shared the information with other companies, like our Marketplace partners – their own privacy policies will apply
+
+To ask us to delete your information, send us a message in the app or email us at [privacy@starlingbank.com](mailto:privacy@starlingbank.com).
+
+#### The right to restrict processing
+
+You can ask us to limit how we use your information. To do this, send us a message in the app if you’re a customer, or email us at [privacy@starlingbank.com](mailto:privacy@starlingbank.com) if you’re not.
+
+We’ll do what you ask, unless:
+
+* we need to use it for any of the reasons set out in the **How do you use my information?** section
+* you’ve shared the information for use on our website – this might stay publicly available
+* you’ve shared the information with other companies, like our Marketplace partners – their own privacy policies will apply
+
+#### The right to object
+
+You can ask us to stop using all or some of your information. To do this, send us a message in the app if you’re a customer, or email us at [privacy@starlingbank.com](mailto:privacy@starlingbank.com) if you’re not.
+
+We’ll stop using the information you ask us to, unless:
+
+* we need to use it for any of the reasons set out in the **How do you use my information?** section
+* you’ve shared the information for use on our website – this might stay publicly available
+* you’ve shared the information with other companies, like our Marketplace partners – their own privacy policies will apply
+
+If you’ve consented to receiving marketing communications, you can withdraw this consent at any time. To do this, you can update your marketing preferences in the app if you’re a customer, or email us at [privacy@starlingbank.com](mailto:privacy@starlingbank.com) if you’re not. Any updates might not take effect immediately, so you might still get marketing communications from us for a short time afterwards.
+
+#### The right to transfer
+
+You can ask us to transfer information about you that you’ve given us to somewhere else. To do this, send us a message in the app if you’re a customer, or email us at [privacy@starlingbank.com](mailto:privacy@starlingbank.com) if you’re not.
+
+We’ll usually transfer your information, but
+
+* there are some reasons we might not be able to
+* we might have to keep a copy of it
+
+Either of these things might happen for any of the reasons set out in the **How do you use my information?** section.
+
+We’ll usually respond to any requests relating to these rights within one calendar month. But if we receive several requests from you, or your request is complex or involves a lot of information, we might need up to three months to get back to you.
+
+### How do I make a complaint?
+
+If you think we’ve broken data protection laws when it comes to your information, you can make a complaint. To do this, send an email with your name and details of your complaint to [privacy@starlingbank.com](mailto:privacy@starlingbank.com). We’ll then investigate and let you know the outcome.
+
+If you’re unhappy with the outcome, you can raise a complaint with the Information Commissioner’s Office (ICO). For more information about the ICO, visit [https://ico.org.uk](https://ico.org.uk/).
+
+### About this notice
+
+We might update this notice from time to time. Any changes will become effective as soon as we post the updated version on our websites and app. If we make a significant change, we’ll let you know by email or in-app message.
+
+If you have any questions about this notice, or suggestions on how to improve it, let us know at [privacy@starlingbank.com](mailto:privacy@starlingbank.com).
 
 ### Apply for a Starling bank account today and enjoy app-based banking at its best.
 
