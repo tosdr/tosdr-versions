@@ -5,7 +5,7 @@ Just added to your cart
 
 Qty:
 
-[View cart ()](https://www.fubar-themovie.com/cart)
+[View cart ()](https://www.fubar-themovie.com/en-us/cart)
 
 Continue shopping
 
@@ -21,17 +21,17 @@ FREE SHIPPING WITHIN AB OVER $50 - FREE SHIPPING ALL OF CANADA OVER $80
 
 [![FUBAR -Just Give&#39;r](//www.fubar-themovie.com/cdn/shop/files/download-removebg-preview_300x300.png?v=1692712818)
 
-![FUBAR -Just Give'r](//www.fubar-themovie.com/cdn/shop/files/download-removebg-preview_150x.png?v=1692712818)](https://www.fubar-themovie.com/)
+![FUBAR -Just Give'r](//www.fubar-themovie.com/cdn/shop/files/download-removebg-preview_150x.png?v=1692712818)](https://www.fubar-themovie.com/en-us)
 
-* [HOME](https://www.fubar-themovie.com/)
-* [STORE](https://www.fubar-themovie.com/collections/all)
+* [HOME](https://www.fubar-themovie.com/en-us)
+* [STORE](https://www.fubar-themovie.com/en-us/collections/all)
 
-Search [Log in](https://www.fubar-themovie.com/account/login) [Cart
+Search [Log in](https://www.fubar-themovie.com/en-us/account/login) [Cart
 
-0 items](https://www.fubar-themovie.com/cart)
+0 items](https://www.fubar-themovie.com/en-us/cart)
 
-* [HOME](https://www.fubar-themovie.com/)
-* [STORE](https://www.fubar-themovie.com/collections/all)
+* [HOME](https://www.fubar-themovie.com/en-us)
+* [STORE](https://www.fubar-themovie.com/en-us/collections/all)
 
 Refund policy
 =============
@@ -68,10 +68,10 @@ We will notify you once we’ve received and inspected your return, and let you 
 
 Quick links
 
-* [Search](https://www.fubar-themovie.com/search)
-* [Terms of service](https://www.fubar-themovie.com/policies/terms-of-service)
-* [Refund policy](https://www.fubar-themovie.com/policies/refund-policy)
-* [Do not sell my personal information](https://www.fubar-themovie.com/pages/ccpa-opt-out)
+* [Search](https://www.fubar-themovie.com/en-us/search)
+* [Terms of service](https://www.fubar-themovie.com/en-us/policies/terms-of-service)
+* [Refund policy](https://www.fubar-themovie.com/en-us/policies/refund-policy)
+* [Do not sell my personal information](https://www.fubar-themovie.com/en-us/pages/ccpa-opt-out)
 
 Newsletter
 
@@ -84,7 +84,7 @@ Newsletter
 Currency
 --------
 
-GBP £
+USD $
 
 * [AED د.إ](#)
 * [AFN ؋](#)
@@ -224,9 +224,9 @@ Payment methods
 * Shop Pay
 * Visa
 
-© 2024, [FUBAR -Just Give'r](https://www.fubar-themovie.com/) [Powered by Shopify](https://www.shopify.com/?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore)
+© 2024, [FUBAR -Just Give'r](https://www.fubar-themovie.com/en-us) [Powered by Shopify](https://www.shopify.com/?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore)
 
-© 2024, [FUBAR -Just Give'r](https://www.fubar-themovie.com/) [Powered by Shopify](https://www.shopify.com/?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore)
+© 2024, [FUBAR -Just Give'r](https://www.fubar-themovie.com/en-us) [Powered by Shopify](https://www.shopify.com/?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore)
 
 Use left/right arrows to navigate the slideshow or swipe left/right if using a mobile device
 
