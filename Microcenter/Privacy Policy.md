@@ -38,19 +38,19 @@ Search for product
 
 * ![get store info](https://60a99bedadae98078522-a9b6cded92292ef3bace063619038eb1.ssl.cf2.rackcdn.com/storeWHITE.svg)![get store info](https://60a99bedadae98078522-a9b6cded92292ef3bace063619038eb1.ssl.cf2.rackcdn.com/storeBLACK.svg)
     
-    Shippable Items
+    Dallas
+    
+    Open until 9PM
     
     ![get store info](https://60a99bedadae98078522-a9b6cded92292ef3bace063619038eb1.ssl.cf2.rackcdn.com/chevron-downWhite.svg)
     
-
+* Open 10am - 9pm today
 * * ![Close Modal](https://60a99bedadae98078522-a9b6cded92292ef3bace063619038eb1.ssl.cf2.rackcdn.com/images_buttons_btn_closeModal.png)Close Your Store Modal
     * Your Store
         
-        Shippable Items
+        Dallas
         
-    * Choose your store to see our full product selection with local pricing and availability The best deals are in-store only! Please select a store below:
-        
-    * Shippable Items
+    * TX - Dallas
         
         * [CA - Tustin](https://www.microcenter.com/site/customer-support/privacy_policy.aspx?storeid=101)
         * [CO - Denver](https://www.microcenter.com/site/customer-support/privacy_policy.aspx?storeid=181)
@@ -81,6 +81,30 @@ Search for product
         * [TX - Dallas](https://www.microcenter.com/site/customer-support/privacy_policy.aspx?storeid=131)
         * [VA - Fairfax](https://www.microcenter.com/site/customer-support/privacy_policy.aspx?storeid=081)
         * [Shippable Items](https://www.microcenter.com/site/customer-support/privacy_policy.aspx?storeid=029)
+        
+    * 13929 N Central Expy
+        
+        Dallas, TX 75243
+        
+        Questions? Text or call
+        
+        Open Now
+        
+        Mon - Sat 10 to 9, Sun 11 to 6
+        
+        [Directions
+        
+        to
+        
+        Dallas](https://maps.google.com/maps?daddr=13929+N+Central+Expy+Dallas%2c+TX+75243)
+        
+        [Dallas
+        
+         
+        
+        Store Info](https://www.microcenter.com/site/stores/dallas.aspx "Store Info")
+        
+    *  [![Visit our virtual store](https://60a99bedadae98078522-a9b6cded92292ef3bace063619038eb1.ssl.cf2.rackcdn.com/Store-131-3D.webp) Visit our Dallas virtual store](https://www.microcenter.com/findit/Findit3d.aspx)
         
     * Store Locator:
         
