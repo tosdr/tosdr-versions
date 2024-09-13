@@ -144,7 +144,6 @@ Follow Us
 
 * [Facebook](https://facebook.com/prettylittercats "Facebook")
 * [Instagram](https://instagram.com/prettylitter "Instagram")
-* [Twitter](http://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=prettylitter "Twitter")
 * [Tiktok](http://tiktok.com/@prettylitter "Tiktok")
 
 Let's Be Friends
