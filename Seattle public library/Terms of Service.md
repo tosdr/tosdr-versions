@@ -1,3 +1,7 @@
+* **New Fall Hours Begin on Sept. 25**
+    
+    We will transition to our fall hours schedule beginning Wednesday, Sept. 25. For more information and complete fall hours schedules, visit [www.spl.org/FallHours](https://www.spl.org/FallHours). 
+
 [Skip to Main Content](https://www.spl.org/about-us/policies/online-privacy-and-terms-of-use#main-content)
 
  [![The Seattle Public Library logo](/Seattle-Public-Library/images/Header-images/logo-white.svg) ![The Seattle Public Library logo graphic](/Seattle-Public-Library/images/Header-images/spl-stickylogo.png)](https://www.spl.org/ "SPL - Home")
