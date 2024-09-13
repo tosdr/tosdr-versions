@@ -27,7 +27,7 @@ ADVERTISEMENT
 Privacy Policy
 ==============
 
-[Definition.org](https://definition.org/) (“Defintion.org,” “Us,” “Our” or “We”) is committed to protecting Your privacy online. This Privacy Policy discloses the privacy practices for the website at www.Defintion.org and various related services (together referred to as the “Site”). All visitors to, or users of, the Site are referred to individually, as “You” or “Your.”
+[Definition.org](https://definition.org/) (“Defintion.org,” “Us,” “Our” or “We”) is committed to protecting Your privacy online. This Privacy Policy discloses the privacy practices for the website at www.Defintion.org and various related services (together referred to as the “Site”). All visitors to, or users of, the Site are referred to individually, as “You” or “Your.” [Definition.org](https://definition.org/) is a part of the Spine Media network of websites.
 
 You acknowledge that this Privacy Policy is part of Our Site Terms of Service, available at [definition.org/terms](https://definition.org/terms/), and by accessing or using Our Site, You agree to be bound by all of its terms and conditions. The Terms of Service establishes the use, disclaimers, and limitations of liability governing the use of Our Site. **If You do not agree to these terms, please do not access or use this Site.**
 
