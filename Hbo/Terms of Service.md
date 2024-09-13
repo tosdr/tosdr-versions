@@ -10,6 +10,8 @@
     [Documentaries](https://www.hbo.com/documentaries)[Specials](https://www.hbo.com/specials)[Sports](https://www.hbo.com/sports)[Podcasts](https://www.hbo.com/podcasts)[Max](https://www.hbo.com/hbo-and-max)
     
 
+[SIGN IN](https://auth.max.com/login?hbo_source=hbo.com&hbo_medium=referral&hbo_campaign=max_button_&hbo_term=nav)[SIGN UP FOR](https://auth.max.com/product?hbo_source=hbo.com&hbo_medium=referral&hbo_campaign=max_button_&hbo_term=nav)
+
 [SIGN IN](https://auth.max.com/login?hbo_source=hbo.com&hbo_medium=referral&hbo_campaign=max_button_&hbo_term=nav)
 
 [SIGN UP FOR](https://auth.max.com/product?hbo_source=hbo.com&hbo_medium=referral&hbo_campaign=max_button_&hbo_term=nav)
@@ -25,6 +27,8 @@
     
     [Documentaries](https://www.hbo.com/documentaries)[Specials](https://www.hbo.com/specials)[Sports](https://www.hbo.com/sports)[Podcasts](https://www.hbo.com/podcasts)[Max](https://www.hbo.com/hbo-and-max)
     
+
+[SIGN IN](https://auth.max.com/login?hbo_source=hbo.com&hbo_medium=referral&hbo_campaign=max_button_&hbo_term=nav)[SIGN UP FOR](https://auth.max.com/product?hbo_source=hbo.com&hbo_medium=referral&hbo_campaign=max_button_&hbo_term=nav)
 
 [SIGN IN](https://auth.max.com/login?hbo_source=hbo.com&hbo_medium=referral&hbo_campaign=max_button_&hbo_term=nav)
 
