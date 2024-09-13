@@ -28,7 +28,7 @@ The financial incentives we offer to consumers are reasonably related to the val
 
 Get to know us
 
-* [About Grubhub](https://about.grubhub.com/about-us/what-is-grubhub/default.aspx)
+* [About Grubhub](https://about.grubhub.com/)
 * [Our apps](https://www.grubhub.com/mobile_home)
 * [Our blog](https://blog.grubhub.com/?utm_source=grubhub.com_umami&utm_medium=content_owned&utm_campaign=umami_footer-link)
 * [Careers](https://careers.grubhub.com/)
