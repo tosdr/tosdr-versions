@@ -114,7 +114,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
         * [Genetics](https://www.sciencenews.org/topic/genetics)
         * [Microbes](https://www.sciencenews.org/topic/microbes)
-    * * [Life](https://www.sciencenews.org/topic/life)
+    * * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
+            
+            ### [Pregnancy overhauls the brain. Here’s what that looks like](https://www.sciencenews.org/article/pregnancy-brain-overhauls-mother)
+            
+            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")6 hours ago
+            
+        * [Life](https://www.sciencenews.org/topic/life)
             
             ### [Mega El Niños kicked off the world’s worst mass extinction](https://www.sciencenews.org/article/mega-el-ninos-mass-extinction)
             
@@ -125,12 +131,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [Ancient DNA unveils a previously unknown line of Neandertals](https://www.sciencenews.org/article/ancient-dna-unveils-unknown-neandertals)
             
             By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")September 11, 2024
-            
-        * [Animals](https://www.sciencenews.org/topic/animals)
-            
-            ### [Bumblebees lose most of their sense of smell after heat waves](https://www.sciencenews.org/article/bumblebees-lose-smell-after-heat-waves)
-            
-            By [Gennaro Tomma](https://www.sciencenews.org/author/gennaro-tomma "Posts by Gennaro Tomma")September 6, 2024
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
@@ -188,7 +188,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [How a dying star is similar to a lava lamp](https://www.sciencenews.org/article/dying-star-lava-lamp-convection)
             
-            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")59 mins ago
+            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")8 hours ago
             
         * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
             
