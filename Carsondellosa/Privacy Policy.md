@@ -1,12 +1,14 @@
-![null](https://www.facebook.com/tr?id=1565747026990890&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-2-prd-us-central1-186345633423)                                                   
+![null](https://www.facebook.com/tr?id=1565747026990890&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-2-prd-us-central1-186358551733)                                                   
 
-Just For You, Free Shipping on Online Orders $40+
+FREE SHIPPING on Online Orders $40+
 
 SPARK EXCLUSIVE - Free 36' Orange Rolled Border | [SHOP](https://www.carsondellosa.com/108213--orange-rolled-scalloped-borders-108213/)
 
 BOGO Educational Décor | [SHOP](https://www.carsondellosa.com/teaching-supplies/categories/educational-decor/)
 
 BOGO eBooks | [SHOP](https://www.carsondellosa.com/teaching-supplies/categories/ebooks/)
+
+TODAY ONLY - $5 Vinyl Sticker Packs | [SHOP](https://www.carsondellosa.com/sale/todays-offers/vinyl-sticker-packs/)
 
 [Toggle menu](#)
 
