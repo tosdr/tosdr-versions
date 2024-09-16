@@ -1,15 +1,15 @@
-Friday, September 13 2024
+Monday, September 16 2024
 
 Breaking News
 
-* [Focus on The Family Demands ABC Corrects The Record – but it’s not just ABC peddling misinformation](https://www.conservativedailynews.com/2024/09/focus-on-the-family-demands-abc-corrects-the-record-but-its-not-just-abc-peddling-misinformation/)
-* [The 3 against 1 (Harris and the 2 “Moderators”) ABC News Debate against Donald Trump](https://www.conservativedailynews.com/2024/09/the-3-against-1-harris-and-the-2-moderators-abc-news-debate-against-donald-trump/)
-* [The Independents Won The Debate](https://www.conservativedailynews.com/2024/09/the-independents-won-the-debate/)
-* [President Joe Biden’s Schedule for Thursday, September 12, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-wednesday-september-12-2024/)
-* [Deplorables Now Have A Different Orientation](https://www.conservativedailynews.com/2024/09/deplorables-now-have-a-different-orientation/)
-* [America In The Age Of Stupidity: Show This Video To Your Democrat Friends Before They Vote](https://www.conservativedailynews.com/2024/09/america-in-the-age-of-stupidity-show-this-video-to-your-democrat-friends-before-they-vote/)
-* [Long term Democrat Election Strategy: Create an Unserious Electorate](https://www.conservativedailynews.com/2024/09/long-term-democrat-election-strategy-create-an-unserious-electorate/)
-* [President Joe Biden’s Schedule for Wednesday, September 11, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-wednesday-september-11-2024/)
+* [Trump’s Legal Battles Have Slowed To A Crawl As Election Becomes ‘Largest Jury Verdict In History’](https://www.conservativedailynews.com/2024/09/trumps-legal-battles-have-slowed-to-a-crawl-as-election-becomes-largest-jury-verdict-in-history/)
+* [Harris Doesn’t Want To Talk About EVs – It’s Easy To Understand Why](https://www.conservativedailynews.com/2024/09/harris-doesnt-want-to-talk-about-evs-its-easy-to-understand-why/)
+* [Companies Are Getting Back To Business And Backing Away From DEI](https://www.conservativedailynews.com/2024/09/companies-are-getting-back-to-business-and-backing-away-from-dei/)
+* [The Truth About Kamala Harris’s Gun Policy](https://www.conservativedailynews.com/2024/09/the-truth-about-kamala-harriss-gun-policy/)
+* [IBM Vice Chairman Says Consumers Are ‘Under Enormous Pressure,’ Warns Of Economic ‘Softness’](https://www.conservativedailynews.com/2024/09/ibm-vice-chairman-says-consumers-are-under-enormous-pressure-warns-of-economic-softness/)
+* [Secret Service, Local Officials Speak On Apparent Second Trump Assassination Attempt](https://www.conservativedailynews.com/2024/09/secret-service-local-officials-speak-on-apparent-second-trump-assassination-attempt/)
+* [Harris Flatlines In Post-Debate Polls Despite Claims Of Victory](https://www.conservativedailynews.com/2024/09/harris-flatlines-in-post-debate-polls-despite-claims-of-victory/)
+* [Springfield Residents Know Exactly Who To Blame For Migrant Crisis Hitting Their Town](https://www.conservativedailynews.com/2024/09/springfield-residents-know-exactly-who-to-blame-for-migrant-crisis-hitting-their-town/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -107,84 +107,86 @@ Support Conservative Daily News with a small donation via [Paypal or credit card
 
 Support CDN!
 
-Your donations help us purchase content, pay for servers, and reduce advertising. We are currently fundraising for November. [CLICK HERE](https://www.conservativedailynews.com/privacy-policy/support-conservative-news) to help out or to see what we do with the money. \[thermometer align=center alt=off\]
+Your donations help us purchase content, pay for servers, and reduce advertising. We are currently fundraising for November. [CLICK HERE](https://www.conservativedailynews.com/privacy-policy/support-conservative-news) to help out or to see what we do with the money.
 
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/IMG_5590-220x150.jpeg)](https://www.conservativedailynews.com/2024/09/the-independents-won-the-debate/)
+Created using the Donation Thermometer plugin https://wordpress.org/plugins/donation-thermometer/.47%
+
+* [![Bills unpaid past due broke](https://www.conservativedailynews.com/wp-content/uploads/2023/09/past-due-unpaid-bills-220x150.jpg)](https://www.conservativedailynews.com/2024/09/ibm-vice-chairman-says-consumers-are-under-enormous-pressure-warns-of-economic-softness/)
     
-    [The Independents Won The Debate](https://www.conservativedailynews.com/2024/09/the-independents-won-the-debate/)
+    [IBM Vice Chairman Says Consumers Are ‘Under Enormous Pressure,’ Warns Of Economic ‘Softness’](https://www.conservativedailynews.com/2024/09/ibm-vice-chairman-says-consumers-are-under-enormous-pressure-warns-of-economic-softness/)
     
-    September 12, 2024
+    September 15, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/Donald-Trump-Kamala-Harris-tied-in-Pennsylvania-220x150.jpg)](https://www.conservativedailynews.com/2024/09/cnns-harry-enten-sounds-alarm-about-harris-vanishing-lead-in-very-pivotal-swing-state/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/Second-Trump-assassination-attempt-220x150.jpg)](https://www.conservativedailynews.com/2024/09/secret-service-local-officials-speak-on-apparent-second-trump-assassination-attempt/)
     
-    [CNN’s Harry Enten Sounds Alarm About Harris’ Vanishing Lead In ‘Very Pivotal’ Swing State](https://www.conservativedailynews.com/2024/09/cnns-harry-enten-sounds-alarm-about-harris-vanishing-lead-in-very-pivotal-swing-state/)
+    [Secret Service, Local Officials Speak On Apparent Second Trump Assassination Attempt](https://www.conservativedailynews.com/2024/09/secret-service-local-officials-speak-on-apparent-second-trump-assassination-attempt/)
     
-    September 9, 2024
+    September 15, 2024
     
 
 Recent Posts
 
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/hollis-feat-220x150-1.jpg)](https://www.conservativedailynews.com/2024/09/whats-wrong-with-american-schools/)
+* [![Kamala Harris Karl Marx Marxism Communism economic policy](https://www.conservativedailynews.com/wp-content/uploads/2024/08/gv082124dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/one-of-kamala-harris-tax-proposals-could-be-an-economic-doomsday-device-experts-say/)
     
-    [What’s Wrong With American Schools?](https://www.conservativedailynews.com/2024/09/whats-wrong-with-american-schools/)
+    [One Of Kamala Harris’ Tax Proposals Could Be ‘An Economic Doomsday Device,’ Experts Say](https://www.conservativedailynews.com/2024/09/one-of-kamala-harris-tax-proposals-could-be-an-economic-doomsday-device-experts-say/)
     
-    September 13, 2024
+    September 15, 2024
     
-* [![Title IX Women sports transgender athletes](https://www.conservativedailynews.com/wp-content/uploads/2024/05/02-title-9-dt-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/09/high-school-girls-field-hockey-team-forfeits-game-over-male-player-on-opponents-roster/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/10/Lady-Justice-Peaking.jpg)](https://www.conservativedailynews.com/2024/09/trumps-legal-battles-have-slowed-to-a-crawl-as-election-becomes-largest-jury-verdict-in-history/)
     
-    [High School Girls’ Field Hockey Team Forfeits Game Over Male Player On Opponent’s Roster](https://www.conservativedailynews.com/2024/09/high-school-girls-field-hockey-team-forfeits-game-over-male-player-on-opponents-roster/)
+    [Trump’s Legal Battles Have Slowed To A Crawl As Election Becomes ‘Largest Jury Verdict In History’](https://www.conservativedailynews.com/2024/09/trumps-legal-battles-have-slowed-to-a-crawl-as-election-becomes-largest-jury-verdict-in-history/)
     
-    September 12, 2024
+    September 15, 2024
     
-* [![ABC News media bias Kamala Harris debate](https://www.conservativedailynews.com/wp-content/uploads/2024/09/gv091124dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/focus-on-the-family-demands-abc-corrects-the-record-but-its-not-just-abc-peddling-misinformation/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/08/gv081723dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/harris-doesnt-want-to-talk-about-evs-its-easy-to-understand-why/)
     
-    [Focus on The Family Demands ABC Corrects The Record – but it’s not just ABC peddling misinformation](https://www.conservativedailynews.com/2024/09/focus-on-the-family-demands-abc-corrects-the-record-but-its-not-just-abc-peddling-misinformation/)
+    [Harris Doesn’t Want To Talk About EVs – It’s Easy To Understand Why](https://www.conservativedailynews.com/2024/09/harris-doesnt-want-to-talk-about-evs-its-easy-to-understand-why/)
     
-    September 12, 2024
+    September 15, 2024
     
-* [![Kamala Harris ABC News Media Bias](https://www.conservativedailynews.com/wp-content/uploads/2024/09/stg091224dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/the-3-against-1-harris-and-the-2-moderators-abc-news-debate-against-donald-trump/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/03/Depositphotos_243585218_S-220x150.jpg)](https://www.conservativedailynews.com/2024/09/blue-state-hunters-slam-environmental-initiative-to-curtail-trophy-hunting/)
     
-    [The 3 against 1 (Harris and the 2 “Moderators”) ABC News Debate against Donald Trump](https://www.conservativedailynews.com/2024/09/the-3-against-1-harris-and-the-2-moderators-abc-news-debate-against-donald-trump/)
+    [Blue State Hunters Slam Environmental Initiative To Curtail ‘Trophy Hunting’](https://www.conservativedailynews.com/2024/09/blue-state-hunters-slam-environmental-initiative-to-curtail-trophy-hunting/)
     
-    September 12, 2024
+    September 15, 2024
     
-* [![Kamala Harris ABC News Media Bias](https://www.conservativedailynews.com/wp-content/uploads/2024/09/stg091224dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/partial/)
+* [![Fox News Bud Light Woke garbage](https://www.conservativedailynews.com/wp-content/uploads/2023/04/gv042823dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/companies-are-getting-back-to-business-and-backing-away-from-dei/)
     
-    [Partial](https://www.conservativedailynews.com/2024/09/partial/)
+    [Companies Are Getting Back To Business And Backing Away From DEI](https://www.conservativedailynews.com/2024/09/companies-are-getting-back-to-business-and-backing-away-from-dei/)
     
-    September 12, 2024
+    September 15, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/IMG_5590-220x150.jpeg)](https://www.conservativedailynews.com/2024/09/the-independents-won-the-debate/)
+* [![Kamala Harris 2024 election empty pantsuit](https://www.conservativedailynews.com/wp-content/uploads/2024/08/stg082624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/the-truth-about-kamala-harriss-gun-policy/)
     
-    [The Independents Won The Debate](https://www.conservativedailynews.com/2024/09/the-independents-won-the-debate/)
+    [The Truth About Kamala Harris’s Gun Policy](https://www.conservativedailynews.com/2024/09/the-truth-about-kamala-harriss-gun-policy/)
     
-    September 12, 2024
+    September 15, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/the-economy-220x150.jfif)](https://www.conservativedailynews.com/2024/09/inflation-rate-inches-down-as-economy-continues-to-slow/)
+* [![Bills unpaid past due broke](https://www.conservativedailynews.com/wp-content/uploads/2023/09/past-due-unpaid-bills-220x150.jpg)](https://www.conservativedailynews.com/2024/09/ibm-vice-chairman-says-consumers-are-under-enormous-pressure-warns-of-economic-softness/)
     
-    [Inflation Rate Inches Down As Economy Continues To Slow](https://www.conservativedailynews.com/2024/09/inflation-rate-inches-down-as-economy-continues-to-slow/)
+    [IBM Vice Chairman Says Consumers Are ‘Under Enormous Pressure,’ Warns Of Economic ‘Softness’](https://www.conservativedailynews.com/2024/09/ibm-vice-chairman-says-consumers-are-under-enormous-pressure-warns-of-economic-softness/)
     
-    September 12, 2024
+    September 15, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/03-sinkingpolic-ci-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/09/gaslighter/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/Second-Trump-assassination-attempt-220x150.jpg)](https://www.conservativedailynews.com/2024/09/secret-service-local-officials-speak-on-apparent-second-trump-assassination-attempt/)
     
-    [Gaslighter](https://www.conservativedailynews.com/2024/09/gaslighter/)
+    [Secret Service, Local Officials Speak On Apparent Second Trump Assassination Attempt](https://www.conservativedailynews.com/2024/09/secret-service-local-officials-speak-on-apparent-second-trump-assassination-attempt/)
     
-    September 12, 2024
+    September 15, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
-* [TFB Review: Delta Optical Stryker HD 1-10×28 SDOG-1 (MRAD) Riflescope](https://www.thegunpage.com/tfb-review-delta-optical-stryker-hd-1-10x28-sdog-1-mrad-riflescope/10610522)
-* [POTD: Green Berets In Training](https://www.thegunpage.com/potd-green-berets-in-training/10610523)
-* [Concealed Carry Corner: Setting Up A Carry Bag](https://www.thegunpage.com/concealed-carry-corner-setting-up-a-carry-bag/10610524)
-* [DA Targets Self-Healing Targets](https://www.thegunpage.com/da-targets-self-healing-targets/10610521)
-* [NH: Anti-Gunners are acting up again!](https://www.thegunpage.com/nh-anti-gunners-are-acting-up-again/10610517)
-* [Senator Introduces Resolution to Keep Names of Mass Shooters Out of Media](https://www.thegunpage.com/senator-introduces-resolution-to-keep-names-of-mass-shooters-out-of-media/10610515)
-* [Steelhead Outdoors Launches The Scout 25 High-Security Ammo Cabinet](https://www.thegunpage.com/steelhead-outdoors-launches-the-scout-25-high-security-ammo-cabinet/10610519)
-* [Galco's Corvus Speed Cut Belt & IWB Holster Available For 1911s](https://www.thegunpage.com/galcos-corvus-speed-cut-belt-iwb-holster-available-for-1911s/10610520)
-* [Texas Border Gun Shop Owner Says Guns Purchases Increasing](https://www.thegunpage.com/texas-border-gun-shop-owner-says-guns-purchases-increasing/10610512)
-* [Do Austrian Special Forces Prefer the AR-15 or the AUG?](https://www.thegunpage.com/do-austrian-special-forces-prefer-the-ar-15-or-the-aug/10610510)
+* [Blue State Hunters Slam Environmental Initiative To Curtail ‘Trophy Hunting’](https://www.thegunpage.com/blue-state-hunters-slam-environmental-initiative-to-curtail-trophy-hunting/10610578)
+* [The Truth About Kamala Harris’s Gun Policy](https://www.thegunpage.com/the-truth-about-kamala-harriss-gun-policy/10610579)
+* [BREAKING – ASSASSINATION ATTEMPT 2.0: Trump Unharmed After Shots Fired in Another Assassination Attempt – UPDATED](https://www.thegunpage.com/breaking-assassination-attempt-2-0-trump-unharmed-after-shots-fired-in-another-assassination-attempt-updated/10610576)
+* [Ruger Announces the LC Carbine Now in 10mm Auto](https://www.thegunpage.com/ruger-announces-the-lc-carbine-now-in-10mm-auto/10610573)
+* [Olympus Arms Vulcan "Zero Recoil AR-10" Review](https://www.thegunpage.com/olympus-arms-vulcan-zero-recoil-ar-10-review/10610568)
+* [Armed Robbers “Find Out” Texas Style](https://www.thegunpage.com/armed-robbers-find-out-texas-style/10610565) 
+* [Results: 2024 NRA National Precision Pistol Championships](https://www.thegunpage.com/results-2024-nra-national-precision-pistol-championships/10610563)
+* [Ghost Gunner 3-S and the Optics Cut Library 2.0, Part 2 Hands-On](https://www.thegunpage.com/ghost-gunner-3-s-and-the-optics-cut-library-2-0-part-2-hands-on/10610559)
+* [Silencer Saturday #346: SilencerCo’s Hunting Suppressor Evolution](https://www.thegunpage.com/silencer-saturday-346-silencercos-hunting-suppressor-evolution/10610561)
+* [Anti-Gun Site The Trace Tries To Scare Readers Into Voting For Kamala](https://www.thegunpage.com/anti-gun-site-the-trace-tries-to-scare-readers-into-voting-for-kamala/10610551)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -226,15 +228,15 @@ Contact Us
 
 Recent Comments
 
+* charles wilkins on [Harris Asked How She Will Make Life Affordable, Immediately Pivots To Word Salad About Middle Class Upbringing, Lawns](https://www.conservativedailynews.com/2024/09/harris-asked-how-she-will-make-life-affordable-immediately-pivots-to-word-salad-about-middle-class-upbringing-lawns/#comment-782116)
+* charles wilkins on [Victor Davis Hanson Suggests Harris Seeking Second Debate Signals She’s Shaken By ‘Internal Polls’](https://www.conservativedailynews.com/2024/09/victor-davis-hanson-suggests-harris-seeking-second-debate-signals-shes-shaken-by-internal-polls/#comment-782115)
+* Dr. Ramon Argila deTorres y Sandoval on [The Independents Won The Debate](https://www.conservativedailynews.com/2024/09/the-independents-won-the-debate/#comment-782083)
 * Nathan Z. Solomon on [Trump Should Propose a 15% Single Tax Rate for All](https://www.conservativedailynews.com/2024/09/trump-should-propose-a-15-single-tax-rate-for-all/#comment-782014)
 * Sara on [Kamala Harris Will Shut Down X If Elected](https://www.conservativedailynews.com/2024/09/kamala-harris-will-shut-down-x-if-elected/#comment-782013)
 * Michael Busler on [Trump Should Propose a 15% Single Tax Rate for All](https://www.conservativedailynews.com/2024/09/trump-should-propose-a-15-single-tax-rate-for-all/#comment-782007)
 * kaycee on [What Do Nancy Pelosi And The Vatican Have In Common?](https://www.conservativedailynews.com/2024/09/what-do-nancy-pelosi-and-the-vatican-have-in-common/#comment-782003)
 * KayCee on [What Do Nancy Pelosi And The Vatican Have In Common?](https://www.conservativedailynews.com/2024/09/what-do-nancy-pelosi-and-the-vatican-have-in-common/#comment-782002)
 * Mr. Nathan Z. Solomon on [Trump Should Propose a 15% Single Tax Rate for All](https://www.conservativedailynews.com/2024/09/trump-should-propose-a-15-single-tax-rate-for-all/#comment-782001)
-* Leonard J Testa on [Venezuelan Migrant Appears To Fight Back Tears, Says She’d ‘Return’ To Country After Living In Blue State](https://www.conservativedailynews.com/2024/09/venezuelan-migrant-appears-to-fight-back-tears-says-shed-return-to-country-after-living-in-blue-state/#comment-781996)
-* [clm](http://conservativedailynews.com/) on [Venezuelan Migrant Appears To Fight Back Tears, Says She’d ‘Return’ To Country After Living In Blue State](https://www.conservativedailynews.com/2024/09/venezuelan-migrant-appears-to-fight-back-tears-says-shed-return-to-country-after-living-in-blue-state/#comment-781939)
-* Richard McDonough on [American Pravda’s “Legally Wrong and Dangerous” Never-ending Anti-Trump Propaganda](https://www.conservativedailynews.com/2024/09/american-pravdas-legally-wrong-and-dangerous-never-ending-anti-trump-propaganda/#comment-781936)
 
 [Close](#)
 
