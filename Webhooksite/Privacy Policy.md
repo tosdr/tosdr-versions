@@ -8,7 +8,7 @@ Table of Contents
 Terms of Use for Webhook.site
 -----------------------------
 
-Last Updated: 6 February 2024.
+Last Updated: 13 September 2024.
 
 ### 1\. Your Responsibilities
 
@@ -171,3 +171,11 @@ User accounts can be deleted (resulting in subscription being canceled) by conta
 Data is not sent to third parties by Webhook.site.
 
 A user can choose to redirect content to any URL using the _Server Redirect_ feature, the response of which is logged in Webhook.site.
+
+### 7\. Data Protection
+
+We meet the technical and organizational security measures in order to protect your personal or sensitive data from loss or misuse. Thus, your data is stored in a secure operations environment which is not accessible to the public. We utilize industry standard encryption practices to protect data from being intercepted by third-parties.
+
+We want your information (including personally identifiable information) to remain secure. We strive to provide transmission of your information from your computer or mobile device to our servers through techniques that are consistent with industry standards and to employ administrative, physical, and electronic measures designed to protect your information from loss, misuse, unauthorized access, disclosures, alteration, and destruction, taking into account the risks involved and the nature of the information.
+
+Notwithstanding the above, you should be aware that there is always some risk involved in transmitting information over the Internet. There is also some risk that others could find a way to thwart the security systems. As a result, while we strive to protect your information, we cannot ensure or warrant the security or privacy of any information you transmit to us, and, by using the Service, you do so at your own risk.
