@@ -228,11 +228,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-If you like these links, you'll love
+Want to see behind the curtain? Try
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-Come for the Total, stay for the Farking.
+It's how we feed the squirrel
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -332,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Another day, another military vehicle, another train. Is this going to be the new thing?](https://www.fark.com/goto/13394804) ( [whdh.com](https://www.fark.com/goto/13394804) ) » [(0 comments)](https://www.fark.com/comments/13394804/Another-day-another-military-vehicle-another-train-Is-this-going-to-be-new-thing) |
-| [Discussion](https://www.fark.com/discussion/) | [We go to Houston for Sunday Night Football for Da Bears and the Texans. Will Chicago triumph on the road? Or will Houston win this one with ease? Kickoff is at 8:20 PM ET on NBC/Peacock](https://www.fark.com/goto/13393930) ( [espn.com](https://www.fark.com/goto/13393930) ) » [(820 comments)](https://www.fark.com/comments/13393930/We-go-to-Houston-for-Sunday-Night-Football-for-Da-Bears-the-Texans-Will-Chicago-triumph-on-road-Or-will-Houston-win-this-one-with-ease-Kickoff-is-at-820-PM-ET-on-NBCPeacock) |
-| [Sports](https://www.fark.com/sports/) | [It's either never happened before, or it's happened 1,086 times before. It's Shrodinger's Stupidity](https://www.fark.com/goto/13394778) ( [msn.com](https://www.fark.com/goto/13394778) ) » [(6 comments)](https://www.fark.com/comments/13394778/Its-either-never-happened-before-its-happened-1086-times-before-Its-Shrodingers-Stupidity) |
-| [Business](https://www.fark.com/business/) | [Delta Airlines would like to remind you that prospective flight attendants are required to wear underwear to the interview. Thank you](https://www.fark.com/goto/13394546) ( [paddleyourownkanoo.com](https://www.fark.com/goto/13394546) ) » [(26 comments)](https://www.fark.com/comments/13394546/Delta-Airlines-would-like-to-remind-you-that-prospective-flight-attendants-are-required-to-wear-underwear-to-interview-Thank-you) |
-| [STEM](https://www.fark.com/stem/) | [The biggest biohazard on the ISS is when somebody opens a can of gravy](https://www.fark.com/goto/13394862) ( [yahoo.com](https://www.fark.com/goto/13394862) ) » [(1 comment)](https://www.fark.com/comments/13394862/The-biggest-biohazard-on-ISS-is-when-somebody-opens-a-can-of-gravy) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Tito dead. Jacksons, Yugoslavia mourn](https://www.fark.com/goto/13394876) ( [people.com](https://www.fark.com/goto/13394876) ) » [(2 comments)](https://www.fark.com/comments/13394876/Tito-dead-Jacksons-Yugoslavia-mourn) |
-| [Fandom](https://www.fark.com/fandom/) | [Richard Hammond roasts YouTuber cars. "Your claim is its a $50,000 Civic. It isn't. It's a pile of crap with $50,000 worth of parts that were worth money until you attached them to that. It's the world's most polished and gilded turd"](https://www.fark.com/goto/13394454) ( [youtube.com](https://www.fark.com/goto/13394454) ) » [(16 comments)](https://www.fark.com/comments/13394454/Richard-Hammond-roasts-YouTuber-cars-Your-claim-is-its-a-$50000-Civic-It-isnt-Its-a-pile-of-crap-with-$50000-worth-of-parts-that-were-worth-money-until-you-attached-them-to-that-Its-worlds-most-polished-gilded-turd) |
-| [D'awww](https://www.fark.com/dawww/) | [Shy kids take the best photos](https://www.fark.com/goto/13394516) ( [newsweek.com](https://www.fark.com/goto/13394516) ) » [(6 comments)](https://www.fark.com/comments/13394516/Shy-kids-take-best-photos) |
-| [Food](https://www.fark.com/food/) | [Restaurants that care more about instagrammable decor than knockout meals](https://www.fark.com/goto/13394448) ( [independent.co.uk](https://www.fark.com/goto/13394448) ) » [(6 comments)](https://www.fark.com/comments/13394448/Restaurants-that-care-more-about-instagrammable-decor-than-knockout-meals) |
-| [Politics](https://www.fark.com/politics/) | [You've been given free passes to give homeless children the trip of a lifetime, what will you do? AH'LL TAKE MY OWN DAMN KIDS - Bonus: Those weren't the only destinations for these kids](https://www.fark.com/goto/13394856) ( [dailymail.co.uk](https://www.fark.com/goto/13394856) ) » [(14 comments)](https://www.fark.com/comments/13394856/Youve-been-given-free-passes-to-give-homeless-children-trip-of-a-lifetime-what-will-you-do-AHLL-TAKE-MY-OWN-DAMN-KIDS-Bonus-Those-werent-only-destinations-for-these-kids) |
+| [Main](https://www.fark.com/) | [For less than $3 you can get NYPD to do a mass shooting. What a deal](https://www.fark.com/goto/13394812) ( [cbsnews.com](https://www.fark.com/goto/13394812) ) » [(1 comment)](https://www.fark.com/comments/13394812/For-less-than-$3-you-can-get-NYPD-to-do-a-mass-shooting-What-a-deal) |
+| [Discussion](https://www.fark.com/discussion/) | ["My son freed a fox from a fence and it now follows us around when we go out for a walk. I think he's secretly feeding it and I don't want a fox as a pet. What do?"](https://www.fark.com/goto/13394998) ( [slate.com](https://www.fark.com/goto/13394998) ) » [(9 comments)](https://www.fark.com/comments/13394998/My-son-freed-a-fox-from-a-fence-it-now-follows-us-around-when-we-go-out-for-a-walk-I-think-hes-secretly-feeding-it-I-dont-want-a-fox-as-a-pet-What-do) |
+| [Sports](https://www.fark.com/sports/) | [Bend it over like Beckham](https://www.fark.com/goto/13394898) ( [mirror.co.uk](https://www.fark.com/goto/13394898) ) » [(0 comments)](https://www.fark.com/comments/13394898/Bend-it-over-like-Beckham) |
+| [Business](https://www.fark.com/business/) | [Yo, Microsoft: Fark your lame, cluttered File Explorer](https://www.fark.com/goto/13394972) ( [popsci.com](https://www.fark.com/goto/13394972) ) » [(3 comments)](https://www.fark.com/comments/13394972/Yo-Microsoft-Fark-your-lame-cluttered-File-Explorer) |
+| [STEM](https://www.fark.com/stem/) | [Network boffin: "Leave the 240/4 block alone"](https://www.fark.com/goto/13394974) ( [theregister.com](https://www.fark.com/goto/13394974) ) » [(1 comment)](https://www.fark.com/comments/13394974/Network-boffin-Leave-2404-block-alone) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Shakira catches fans trying to take upskirt video of her during performance](https://www.fark.com/goto/13394770) ( [dailymail.co.uk](https://www.fark.com/goto/13394770) ) » [(7 comments)](https://www.fark.com/comments/13394770/Shakira-catches-fans-trying-to-take-upskirt-video-of-her-during-performance) |
+| [Fandom](https://www.fark.com/fandom/) | [Defamation lawsuit is on like Donkey Kong](https://www.fark.com/goto/13394948) ( [dailyliberal.com.au](https://www.fark.com/goto/13394948) ) » [(7 comments)](https://www.fark.com/comments/13394948/Defamation-lawsuit-is-on-like-Donkey-Kong) |
+| [D'awww](https://www.fark.com/dawww/) | [Second set of ugly-ass cotton-top tamarin triplets born at Disney World's Animal Kingdom, making it the tamarinest place on earth](https://www.fark.com/goto/13394950) ( [upi.com](https://www.fark.com/goto/13394950) ) » [(0 comments)](https://www.fark.com/comments/13394950/Second-set-of-ugly-ass-cotton-top-tamarin-triplets-born-at-Disney-Worlds-Animal-Kingdom-making-it-tamarinest-place-on-earth) |
+| [Food](https://www.fark.com/food/) | [Latest outrage: British bread not fitting in foreign toasters](https://www.fark.com/goto/13394960) ( [dailyrecord.co.uk](https://www.fark.com/goto/13394960) ) » [(4 comments)](https://www.fark.com/comments/13394960/Latest-outrage-British-bread-not-fitting-in-foreign-toasters) |
+| [Politics](https://www.fark.com/politics/) | [How dare 60 Minutes run a planned segment on Jan. 6th just hours after shots were fired in the vicinity our cult leader](https://www.fark.com/goto/13395020) ( [newsweek.com](https://www.fark.com/goto/13395020) ) » [(15 comments)](https://www.fark.com/comments/13395020/How-dare-60-Minutes-run-a-planned-segment-on-Jan-6th-just-hours-after-shots-were-fired-in-vicinity-our-cult-leader) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -351,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Sep 16 2024 04:42:15  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Sep 16 2024 08:43:59  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
