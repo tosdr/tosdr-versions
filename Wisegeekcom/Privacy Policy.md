@@ -2,7 +2,8 @@ We are independent & ad-supported. We may earn a commission for purchases made t
 
 [![WiseGeek](//assets.wise-geek.com/res/common/img/public/logo.svg)](https://www.wise-geek.com/)
 
-* [Explore](#!)
+* Explore
+    
     * [Health](https://www.wise-geek.com/health-and-wellness.htm)
     * [Technology](https://www.wise-geek.com/technology.htm)
     * [Finance](https://www.wise-geek.com/finance-and-legal.htm)
@@ -10,7 +11,8 @@ We are independent & ad-supported. We may earn a commission for purchases made t
     * [Culture](https://www.wise-geek.com/culture.htm)
     * [Home](https://www.wise-geek.com/home-and-education.htm)
 * [Quizzes](https://www.wise-geek.com/quizzes.htm)
-* [About](#!)
+* About
+    
     * [About](https://www.wise-geek.com/about.htm)
     * [Contact Us](https://www.wise-geek.com/contact.htm)
 * Join Newsletter
@@ -43,7 +45,7 @@ WiseGeek's Privacy Policy
 
 Updated: May 21, 2024
 
-Views: 1,023,151
+Views: 1,023,197
 
 Share
 
