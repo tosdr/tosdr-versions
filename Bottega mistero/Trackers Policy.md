@@ -18,7 +18,7 @@ Alza il velo della realtà per portare alla luce curiosità, misteri, eventi gro
 * [Shop](https://www.bottegamistero.com/shop/)
 * [Donazioni](https://www.bottegamistero.com/donazioni/)
 
-[](https://www.bottegamistero.com/perche-il-gay-pride-si-festeggia-a-giugno-i-moti-di-stonewall/ "Mostra un articolo casuale")
+[](https://www.bottegamistero.com/il-mostro-di-ravenna/ "Mostra un articolo casuale")
 
 [](https://www.bottegamistero.com/privacy-policy/ "Privacy policy")
 
