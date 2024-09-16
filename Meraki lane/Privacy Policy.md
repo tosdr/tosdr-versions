@@ -41,17 +41,17 @@ Main Menu
     
     [Fashion](https://www.merakilane.com/category/fashion/)
     
+    [![How to Minimize Pores | 7 Tips and Products that Work! | Pore size is largely due to genetics, so you can’t actually shrink your pores, but there are natural ways to make them look smaller. Having a solid skincare routine and using the right products for your skin type to remove excess oil and impurities is key. From regular exfoliation and face masks, to selecting non pore-blogging moisturizers and makeup products, we have everything you need to reduce the look of your pores in this post!](https://www.merakilane.com/wp-content/uploads/2024/09/1-2.png)](https://www.merakilane.com/how-to-minimize-pores-7-tips-and-products-that-work/)
+    
+    ### [How to Minimize Pores: 7 Tips and Products that Work!](https://www.merakilane.com/how-to-minimize-pores-7-tips-and-products-that-work/)
+    
+    [![The Best Skincare Routine For Your 30s | 16 Tips & Products | Once you turn 30, your hormones change, your body stops producing as much collagen and elastin, and cell turnover slows down resulting in hormonal breakouts / adult acne, fine lines, hyperpigmentation, and even volume loss. The good news is that a few simple changes to your skincare routine and the products you use can make a huge difference. If you need some anti-aging tips for a beautiful glow up, click for our best skin tips!](https://www.merakilane.com/wp-content/uploads/2024/09/4-1.png)](https://www.merakilane.com/the-best-skincare-routine-for-your-30s-16-tips-products/)
+    
+    ### [The Best Skincare Routine For Your 30s: 16 Tips & Products](https://www.merakilane.com/the-best-skincare-routine-for-your-30s-16-tips-products/)
+    
     [![19 Tips & Treatments to Prevent and Get Rid of Acne Scars | There are 3 different types of acne scars -- atrophic (shallow indentations caused by cystic acne), hypertrophic and keloid (raised lumps of scar tissue), and post-inflammatory hyperpigmentation (darker patches of skin). Each of these are caused by more severe acne and can be permanent. Fortunately, there are things you can do to prevent acne scars, hide them when they do occur, and get rid of them -- click for our best acne remedies!](https://www.merakilane.com/wp-content/uploads/2024/09/6.png)](https://www.merakilane.com/19-tips-treatments-to-prevent-and-get-rid-of-acne-scars/)
     
     ### [19 Tips & Treatments to Prevent and Get Rid of Acne Scars](https://www.merakilane.com/19-tips-treatments-to-prevent-and-get-rid-of-acne-scars/)
-    
-    [![19 Naturally Curly Wedding Hairstyles for Brides & Bridesmaids | When it comes to wedding hair updos, there are so many options to choose from –– you can leave it down, pin it half up, or opt for a full updo. This post has tons of wedding hair inspo for curly haired gals, with step-by-step tutorials to teach you how to get these looks at home. Whether your hair is short, medium length, or long, there's a style here for the entire bridal party –– the maid of honor, bridesmaids, and the bride!](https://www.merakilane.com/wp-content/uploads/2024/09/4.png)](https://www.merakilane.com/19-naturally-curly-wedding-hairstyles-for-brides-bridesmaids/)
-    
-    ### [19 Naturally Curly Wedding Hairstyles for Brides & Bridesmaids](https://www.merakilane.com/19-naturally-curly-wedding-hairstyles-for-brides-bridesmaids/)
-    
-    [![Microneedling 101 | If you're looking for anti-aging skin care treatments, microneedling may be what you need. It offers many benefits –– it improves skin texture, stimulates collagen production, minimizes pores, helps get rid of acne scars, wrinkles, and stretch marks –– but there are risks you should know about and steps you should take before and after your treatment. Click to learn more about this popular cosmetic treatment, if it's right for you, and skin safety tips you need to know!](https://www.merakilane.com/wp-content/uploads/2024/09/3-1.png)](https://www.merakilane.com/7-things-to-know-before-trying-microneedling/)
-    
-    ### [7 Things to Know Before Trying Microneedling](https://www.merakilane.com/7-things-to-know-before-trying-microneedling/)
     
 * [Wellness](https://www.merakilane.com/category/wellness/)
     
@@ -67,6 +67,10 @@ Main Menu
     
     [Natural Remedies](https://www.merakilane.com/category/natural-remedies/)
     
+    [![17 Healthy Summer Dip Recipes | Whether you’re hosting a backyard barbecue, heading to a picnic, or lounging by the pool, dips are the ultimate crowd-pleaser because they go with everything - chips, crackers, vegetables, and fruit! But they can also be loaded with unnecessary fat and calories, and since they taste so good, it's easy to overeat them. In this post, we're sharing the best, healthy, easy summer dip recipes plus 10 simple tips to make your dips healthier without sacrificing flavor.](https://www.merakilane.com/wp-content/uploads/2024/09/5-1.png)](https://www.merakilane.com/17-healthy-summer-dip-recipes-that-hit-the-spot/)
+    
+    ### [17 Healthy Summer Dip Recipes that Hit the Spot](https://www.merakilane.com/17-healthy-summer-dip-recipes-that-hit-the-spot/)
+    
     [![19 Nutritious Beet Recipes | Beetroot offers so many health benefits. They are anti-inflammatory and high in antioxidants and support the health of your heart, brain, and digestive system. They are also incredibly easy to cook -- you can boil, steam, roast, and microwave beets, and even grate them raw as a crunchy salad topper. Click for our favorite beet recipes, from a 5-minute beet berry smoothie, to a whipped feta beet dip, to beet hummus, to crispy beet fries and much more!](https://www.merakilane.com/wp-content/uploads/2024/08/4-1.png)](https://www.merakilane.com/19-nutritious-beet-recipes-youll-actually-enjoy/)
     
     ### [19 Nutritious Beet Recipes You’ll Actually Enjoy](https://www.merakilane.com/19-nutritious-beet-recipes-youll-actually-enjoy/)
@@ -74,10 +78,6 @@ Main Menu
     [![16 Savory Leek Recipes that Hit the Spot | Leeks are a nutritious vegetable that offer many health benefits, from reducing inflammation to promoting healthy digestion and more. But how do you prepare and cook leeks, and what can you make with them other than leek soup? We're sharing everything you need to know in this post. Chicken and leeks are a popular dish, but you can also enjoy them roasted, pickled, grilled, and fresh out of the air fryer. Click for our favorite recipes!](https://www.merakilane.com/wp-content/uploads/2024/08/featured-images-july-8th-3.png)](https://www.merakilane.com/16-savory-leek-recipes-that-hit-the-spot/)
     
     ### [16 Savory Leek Recipes that Hit the Spot](https://www.merakilane.com/16-savory-leek-recipes-that-hit-the-spot/)
-    
-    [![15 Simple and Delicious Portobello Mushroom Recipes | High in riboflavin, niacin, and pantothenic acid (B vitamins), mushrooms are said to improve energy and immunity while also providing mental health benefits. They are a healthy addition to any diet, and you can enjoy them so many ways! You can eat them stuffed, sautéed, sliced over a salad, cooked on the BBQ, or fresh out of the air fryer. Click to learn how to cook portobello mushrooms plus the best recipes that are easy and delicious!](https://www.merakilane.com/wp-content/uploads/2024/08/5-1.png)](https://www.merakilane.com/15-simple-and-delicious-portabella-mushroom-recipes/)
-    
-    ### [15 Simple and Delicious Portabella Mushroom Recipes](https://www.merakilane.com/15-simple-and-delicious-portabella-mushroom-recipes/)
     
 * [Mental Health](https://www.merakilane.com/category/mental-health/)
     
@@ -91,6 +91,10 @@ Main Menu
     
     [Everything Else](https://www.merakilane.com/category/mental-health/)
     
+    [![How to Set Intentions for a Positive Life | Intention setting is the process of creating a clear intention for a specific desired goal. It helps you align your goals and vision for your life with your day-to-day routine. Think of intentions as an aim, purpose, or resolution -- something you plan to do or achieve in a given timeframe. By putting intentions behind your goals, you are more likely to follow through. Click for examples of intentions plus tips to stay accountable and be successful.](https://www.merakilane.com/wp-content/uploads/2024/09/2-2.png)](https://www.merakilane.com/intention-setting-101-how-to-set-intentions-for-a-positive-life/)
+    
+    ### [Intention Setting 101: How to Set Intentions for a Positive Life](https://www.merakilane.com/intention-setting-101-how-to-set-intentions-for-a-positive-life/)
+    
     [![How to Get Over a Breakup: 9 Ways to Heal | Moving on after heart break can be incredibly difficult. Whether you were the one to initiative the breakup, you need tips for navigating a breakup when you have kids, or you're a parent of teens who are experiencing the ups and downs of relationships for the first time, this post has tons of tips to help you (or your kids) deal with it all in a healthy way. From self-care, to writing in a journal, to self-discovery, and more, these ideas will help.](https://www.merakilane.com/wp-content/uploads/2024/08/7-2.png)](https://www.merakilane.com/how-to-get-over-a-breakup-9-ways-to-heal/)
     
     ### [How to Get Over a Breakup: 9 Ways to Heal](https://www.merakilane.com/how-to-get-over-a-breakup-9-ways-to-heal/)
@@ -98,10 +102,6 @@ Main Menu
     [![How to Set Boundaries with Yourself | The internet is full of tips to help you learn how to set healthy boundaries with friends, family, colleagues, and even your boss, but sometimes the person you need to set boundaries with it YOU. Personal boundaries are important as they keep us healthy, safe, and accountable to our personal goals. Think of them as a form of self-respect and self-care, allowing you to prioritize your own needs above others. Click to learn how to set personal boundaries.](https://www.merakilane.com/wp-content/uploads/2024/08/5.png)](https://www.merakilane.com/how-to-set-boundaries-with-yourself-5-tips-to-help/)
     
     ### [How to Set Boundaries with Yourself: 5 Tips to Help](https://www.merakilane.com/how-to-set-boundaries-with-yourself-5-tips-to-help/)
-    
-    [![12 Traits Of Narcissistic Men & How to Deal with Them | If you suspect your boyfriend, husband, dad, brother, or boss is a narcissist, this post is a great resource. We share the main types of narcissism, the differences between narcissistic women and men, we outline the characteristics of narcissism that are specific to men, and also provide tips to make interacting with these people easier. If you're thinking of leaving a man (or need to heal from a man) with NPD, this post is for you.](https://www.merakilane.com/wp-content/uploads/2024/07/2-3.png)](https://www.merakilane.com/12-traits-of-narcissistic-men-how-to-deal-with-them/)
-    
-    ### [12 Traits Of Narcissistic Men & How to Deal with Them](https://www.merakilane.com/12-traits-of-narcissistic-men-how-to-deal-with-them/)
     
 * [Family](https://www.merakilane.com/category/family/)
     
@@ -117,6 +117,10 @@ Main Menu
     
     [Travel Guides](https://www.merakilane.com/category/family-travel-guides/)
     
+    [![13 Tips to Help Kids Who Are Afraid of the Dark | Many kids are scared of the dark. It's a common fear children outgrow, but it can become a persistent phobia that can be disruptive for the whole family.Thankfully, there are many effective strategies to help. By understanding the causes of their fears and identifying triggers, you can provide them with practical tips to deal with their thoughts and feelings and create a calming nighttime routine to help the whole family sleep through the night.](https://www.merakilane.com/wp-content/uploads/2024/09/3-2.png)](https://www.merakilane.com/13-tips-to-help-kids-who-are-afraid-of-the-dark/)
+    
+    ### [13 Tips to Help Kids Who Are Afraid of the Dark](https://www.merakilane.com/13-tips-to-help-kids-who-are-afraid-of-the-dark/)
+    
     [![21 Tape Art Projects for All Ages | Masking tape, painters tape, duct tape (note: it's NOT "duck tape!"), washi tape, scotch tape, and any other type of adhesive tape doubles as a versatile crafting medium. From wall murals, to abstract canvas designs, to picture frames, to bracelets, to cellphone cases, to nail art, to no-sew purses and wallets, there are so many creative things you can make with a roll of tape. Click for our favorite ideas for toddlers, school-aged kids, tweens, and teens!](https://www.merakilane.com/wp-content/uploads/2024/09/7.png)](https://www.merakilane.com/21-tape-art-projects-for-all-ages-and-stages/)
     
     ### [21 Tape Art Projects for All Ages and Stages](https://www.merakilane.com/21-tape-art-projects-for-all-ages-and-stages/)
@@ -124,10 +128,6 @@ Main Menu
     [![46 Teen Slang Words of 2024 & What They Mean | Bussin, Drip & Rizz! Say what? These are a few of the current popular words carried over from 2023, and while you may have heard your teenagers throwing these phrases around with their friends, do you know what they mean? If not, we have you covered. Click for a list of 46 popular gen Z and gen alpha slang words, what they mean, and how to use them so you can better understand and communicate with your teenage son and/or daughter.](https://www.merakilane.com/wp-content/uploads/2024/09/5.png)](https://www.merakilane.com/46-teen-slang-words-of-2024-all-parents-should-know/)
     
     ### [46 Teen Slang Words of 2024 All Parents Should Know](https://www.merakilane.com/46-teen-slang-words-of-2024-all-parents-should-know/)
-    
-    [![The Busy Moms Guide to an Organized Car | As a mom, it can sometimes feel like you're living in your car. School pick-up, drop-off, extracurriculars, errands, family summer road trips and all of the gear (and snacks!) each of these require can leave even the most organized mom feeling overwhelmed If this sounds like you, we've curated tons of tips and hacks to transform the aesthetic of your car from cluttered to organized using DIY items and organizers from dollar tree and amazon!](https://www.merakilane.com/wp-content/uploads/2024/09/2-1.png)](https://www.merakilane.com/10-genius-car-organization-ideas-for-busy-moms/)
-    
-    ### [10 Genius Car Organization Ideas for Busy Moms](https://www.merakilane.com/10-genius-car-organization-ideas-for-busy-moms/)
     
 * [Contact](https://www.merakilane.com/contact/)
 
@@ -234,6 +234,17 @@ Search  Search
 
 [follow us @merakilane](https://www.instagram.com/merakilane/)
 
+[i wish i’d learned number 3 sooner. ❤️ #pow ![i wish i’d learned number 3 sooner. ❤️
+#powerfulwords #powerfulthoughts #spilledthoughts #friendlyreminder #thingsiwanttoremember #thoughtsoftheday #wordstoremember #lifelessonslearned #lessonslearnedinlife #ownwhoyouare #ceoofmylife #gentlereminder](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C_3A13euN2N/) 
+
+[hahahahaha help 🛍 #raisingdaughters #momtruth ![hahahahaha help 🛍
+#raisingdaughters #momtruth #momtruths #realmom #realmoms #trends #funnymom #funnymoms #momhumor #makemelaugh #imfunny #relatable #relatablehumor #relatablememe #relatablereel #relatablereels #torontomom #canadianmom](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C_0fIJ8OO_X/) 
+
+[🫶🏻 🎥 @wildmediaco 📸 @thisismaxpower ![🫶🏻
+🎥 @wildmediaco
+📸 @thisismaxpower
+#womenover40 #40andfabulous #40andfit #unbothered #unapologetically #unapologetic #perimenopause #menopause #adulting101 #wordstoremember #lessonslearned #lessonslearnedinlife #lifelessonslearned #lifelessons101 #mindsetquotes](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C_yCiu6uI6V/) 
+
 [tbh, sometimes it takes 3…🥂 🎥 @wildmediac ![tbh, sometimes it takes 3…🥂
 🎥 @wildmediaco
 📸 @thisismaxpower
@@ -241,15 +252,6 @@ Search  Search
 
 [psa: other people’s feelings are just as valid a ![psa: other people’s feelings are just as valid as your own. ✨
 #powerfulwords #powerfulthoughts #spilledthoughts #friendlyreminder #gentlereminder #thingsiwanttoremember #thoughtsoftheday #adulting101 #wordstoremember #lessonsoflife #lifelessonslearned](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C_svCJsu_fm/) 
-
-[choose people who choose you. ❤️ #lifelessons ![choose people who choose you. ❤️
-#lifelessonslearned #lessonslearnedinlife #wordstoremember #adulting101 #powerfulwords #powerfulthoughts #spilledthoughts #friendlyreminder #thoughtsoftheday](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C_qU_iiucLg/) 
-
-[i can’t be the only one? 🤷🏼‍♀️ #rel ![i can’t be the only one? 🤷🏼‍♀️
-#relatables #relatablememes #relatablemom #relatableposts #anxiousmoms #anxiousmom #realmom #realmomlife #momtruth #momtruths #momhumor #imfunny #funnymeme #funnyreel #funnymoms #momlife #makemelaugh #womenover40 #40andfit #40andfabulous #canadianmom #torontomom](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C_nu2k9phKT/) 
-
-[keep going. 🫶🏻 #simplereminders #reminderto ![keep going. 🫶🏻
-#simplereminders #remindertoself #hardday #toughday #roughday #lessonslearned #lifelessonslearned #thingsiwanttoremember #adulting101 #adultingishard #wordstoremember #spilledthoughts #gentlereminder #friendlyreminder](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C_ianWZOzf6/) 
 
 COPYRIGHT © 2022 MERAKI LANE INC. · [Site Credit](https://lennoxcreative.co/)
 
