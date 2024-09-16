@@ -98,6 +98,7 @@ Courses from [1000+ universities](https://www.classcentral.com/universities)
 * [Anatomy](https://www.classcentral.com/subject/anatomy)
 * [Veterinary Science](https://www.classcentral.com/subject/veterinary-science)
 * [Continuing Medical Education (CME)](https://www.classcentral.com/subject/cme)
+* [Blood Pressure](https://www.classcentral.com/subject/blood-pressure)
 * [Wellbeing](https://www.classcentral.com/subject/wellbeing)
 * [Women's Health](https://www.classcentral.com/subject/women-s-health)
 * [Hygiene](https://www.classcentral.com/subject/hygiene)
@@ -246,10 +247,10 @@ Courses from [1000+ universities](https://www.classcentral.com/universities)
 * [Online Learning](https://www.classcentral.com/subject/online-learning)
 * [Educational Technology](https://www.classcentral.com/subject/educational-technology)
 * [Curriculum Development](https://www.classcentral.com/subject/curriculum-development)
+* [Next Generation Science Standards](https://www.classcentral.com/subject/next-generation-science-standards)
 * [Student-Centered Learning](https://www.classcentral.com/subject/student-centered-learning)
 * [Student Engagement](https://www.classcentral.com/subject/student-engagement)
 * [Classroom Management](https://www.classcentral.com/subject/classroom-management)
-* [Early Childhood Education](https://www.classcentral.com/subject/early-childhood-education)
 * [View all Education & Teaching](https://www.classcentral.com/subject/education)
 
 ### Social Sciences
@@ -290,6 +291,7 @@ Courses from [1000+ universities](https://www.classcentral.com/universities)
 * [Golden Ratio](https://www.classcentral.com/subject/golden-ratio)
 * [Pattern Design](https://www.classcentral.com/subject/pattern-design)
 * [Geometric Patterns](https://www.classcentral.com/subject/geometric-patterns)
+* [Copic Markers](https://www.classcentral.com/subject/copic-markers)
 * [Jewelry Design](https://www.classcentral.com/subject/jewelry-design)
 * [Botanical Drawing](https://www.classcentral.com/subject/botanical-drawing)
 * [Animal Illustration](https://www.classcentral.com/subject/animal-illustration)
@@ -341,6 +343,7 @@ Courses from [1000+ universities](https://www.classcentral.com/universities)
 * [Generic Programming](https://www.classcentral.com/subject/generic-programming)
 * [Programming Language Development](https://www.classcentral.com/subject/programming-language-development)
 * [Leetcode](https://www.classcentral.com/subject/leetcode)
+* [GNU Toolchain](https://www.classcentral.com/subject/gnu-toolchain)
 * [View all Programming](https://www.classcentral.com/subject/programming-and-software-development)
 
 ### Personal Development
@@ -410,11 +413,11 @@ The future of Coursera’s only credible alternative for universities rests in t
 Most common
 -----------
 
-1. hacking
+1. psychology
     
-2. c
+2. project management
     
-3. psychology
+3. web development
     
 
 Popular subjects
@@ -422,26 +425,26 @@ Popular subjects
 
 1. [Communication Skills
     
-    3,371 courses](https://www.classcentral.com/subject/communication-skills)
-2. [Data Analysis
+    3,716 courses](https://www.classcentral.com/subject/communication-skills)
+2. [Project Management
     
-    6,927 courses](https://www.classcentral.com/subject/data-analysis)
-3. [Python
+    3,652 courses](https://www.classcentral.com/subject/project-management)
+3. [Language Learning
     
-    7,813 courses](https://www.classcentral.com/subject/python)
+    1,848 courses](https://www.classcentral.com/subject/language-learning)
 
 Popular courses
 ---------------
 
-1. [The Emergence of the Modern Middle East - Part I
+1. [FinTech Ethics and Risks
     
-    Tel Aviv University](https://www.classcentral.com/course/modernmiddleeast1-976)
-2. [Whole genome sequencing of bacterial genomes - tools and applications
+    The University of Hong Kong](https://www.classcentral.com/course/fintech-university-of-hong-kong-fintech-ethics-an-11392)
+2. [Mining Massive Datasets
     
-    Technical University of Denmark (DTU)](https://www.classcentral.com/course/wgs-bacteria-8907)
-3. [Positive Psychiatry and Mental Health
+    Stanford University](https://www.classcentral.com/course/mining-stanford-university-mining-massive-dataset-2406)
+3. [The Science of the Solar System
     
-    The University of Sydney](https://www.classcentral.com/course/positive-psychiatry-8783)
+    California Institute of Technology](https://www.classcentral.com/course/solarsystem-1813)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
