@@ -465,7 +465,10 @@ The Services are hosted and operated in the United States (“U.S.”) through F
 
 * We may update this Privacy Policy from time to time to account for new technologies, industry practices, regulatory requirements or for other purposes. If we do, we will change the “last updated” date at the top of this policy and the revised policy will be posted to this page so that you are aware of the information we collect, how we use it, and under what circumstances we may disclose it. We encourage you to periodically review this Privacy Policy for the latest information on our privacy practices. Under certain circumstances (for example, with certain material changes or where it is required by applicable privacy laws), we will provide notice to you of these changes, and where required by applicable law, we will obtain your consent. Notice may be by email to you, by posting a notice of such changes on our Services, or by other means consistent with applicable law.
     
-* If you have a privacy question, concern, or request, contact us at:
+* If you have a privacy question, concern, or request, contact us at:  
+    [www.frame.io](https://frame.io/)  
+    [support@frame.io](mailto:support@frame.io)  
+    345 Park Avenue, San Jose, CA 95110, United States
     
 
 [](https://frame.io/)
