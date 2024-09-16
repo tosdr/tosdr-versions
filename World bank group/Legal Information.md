@@ -56,7 +56,7 @@ Global Search
     * [Accountability Mechanism](https://www.worldbank.org/en/programs/accountability)
     * [World Bank Group Scorecard](https://scorecard.worldbank.org/)
     * [Data Privacy](https://www.worldbank.org/en/programs/accountability/data-privacy)
-    * [World Bank Group Finances](https://financesone.worldbank.org/)
+    * [World Bank Group Finances One](https://financesone.worldbank.org/)
     * [Integrity Vice Presidency](https://www.worldbank.org/en/about/unit/integrity-vice-presidency)
     * [Inspection Panel](https://www.inspectionpanel.org/)
     * [Grievance Redress Service](https://www.worldbank.org/en/projects-operations/products-and-services/grievance-redress-service)
