@@ -1,4 +1,6 @@
-[![](/images/HomeLogo.svg)](https://lesslikely.com/)
+                                                                                                  
+
+[![](/images/HomeLogo.svg)](https://www.lesslikely.com/)
 
 * [](https://www.lesslikely.com/)
 * | Articles
@@ -15,7 +17,7 @@
 
 ![](/images/sun.png)
 
-[![](/images/HomeLogo.svg)](https://lesslikely.com/)
+[![](/images/HomeLogo.svg)](https://www.lesslikely.com/)
 
 [![Powered by Algolia](/images/algolia.svg)](https://algolia.com/)
 
@@ -62,11 +64,11 @@ If you have any questions about this Privacy Policy, the practices of this Websi
 
 * * *
 
-* [](https://twitter.com/share?url=https%3a%2f%2flesslikely.com%2fprivacy-policy%2f&text=Privacy%20Policy&via=dailyzad "Share on Twitter")
-* [](https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2flesslikely.com%2fprivacy-policy%2f "Share on Facebook")
-* [](https://reddit.com/submit?url=https%3a%2f%2flesslikely.com%2fprivacy-policy%2f&title=Privacy%20Policy "Share on Reddit")
-* [](https://www.linkedin.com/shareArticle?url=https%3a%2f%2flesslikely.com%2fprivacy-policy%2f&title=Privacy%20Policy "Share on LinkedIn")
-* [](https://www.pinterest.com/pin/create/button/?url=https%3a%2f%2flesslikely.com%2fprivacy-policy%2f&description=Privacy%20Policy "Share on Pinterest")
+* [](https://twitter.com/share?url=%2fprivacy-policy%2f&text=Privacy%20Policy&via=dailyzad "Share on Twitter")
+* [](https://www.facebook.com/sharer/sharer.php?u=%2fprivacy-policy%2f "Share on Facebook")
+* [](https://reddit.com/submit?url=%2fprivacy-policy%2f&title=Privacy%20Policy "Share on Reddit")
+* [](https://www.linkedin.com/shareArticle?url=%2fprivacy-policy%2f&title=Privacy%20Policy "Share on LinkedIn")
+* [](https://www.pinterest.com/pin/create/button/?url=%2fprivacy-policy%2f&description=Privacy%20Policy "Share on Pinterest")
 
 #### See also:
 
@@ -84,7 +86,7 @@ Code
   
   
 
- [![](/images/HomeLogo.gif) Powered by stochastic processes.](https://lesslikely.com/build)
+ [![](/images/HomeLogo.gif) Powered by stochastic processes.](https://www.lesslikely.com/build)
 
       
 
