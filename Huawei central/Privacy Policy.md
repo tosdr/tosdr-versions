@@ -47,6 +47,9 @@ Huawei Central
     * [HarmonyOS 2](https://www.huaweicentral.com/?s=harmonyos+2)
 * [Updates](https://www.huaweicentral.com/category/updates/)
     
+    * [![Huawei FreeClip September 2024 update](https://www.huaweicentral.com/wp-content/uploads/2024/09/FreeClip-400x240.jpg)
+        
+        Huawei improves FreeClip connectivity with September 2024 update](https://www.huaweicentral.com/huawei-improves-freeclip-connectivity-with-september-2024-update/)
     * [![Huawei Eyewear 2 sound improvements update](https://www.huaweicentral.com/wp-content/uploads/2024/08/Eyewear-2-400x240.jpg)
         
         Huawei Eyewear 2 grabs a new update with sound detection improvements](https://www.huaweicentral.com/huawei-eyewear-2-grabs-a-new-update-with-sound-detection-improvements/)
@@ -59,12 +62,15 @@ Huawei Central
     * [![Huawei FreeLace Pro 2 July 2024 update](https://www.huaweicentral.com/wp-content/uploads/2024/07/FreeLace-Pro-2-400x240.jpg)
         
         Huawei optimizes FreeLace Pro 2 with July 2024 software update](https://www.huaweicentral.com/huawei-optimizes-freelace-pro-2-with-july-2024-software-update/)
-    * [![Huawei FreeClip July 2024 update](https://www.huaweicentral.com/wp-content/uploads/2024/07/FreeClip-400x240.jpg)
-        
-        Huawei FreeClip gets July 2024 update with new improvements](https://www.huaweicentral.com/huawei-freeclip-gets-july-2024-update-with-new-improvements/)
     
 * [Wearables](https://www.huaweicentral.com/category/wearables/)
     
+    * [![Huawei Watch GT 5 live video](https://www.huaweicentral.com/wp-content/uploads/2024/09/Watch-GT-5-video-400x240.jpg)
+        
+        Huawei Watch GT 5 live unboxing video leaked before official release](https://www.huaweicentral.com/huawei-watch-gt-5-live-unboxing-video-leaked-before-official-release/)
+    * [![Huawei Watch GT 5 renders](https://www.huaweicentral.com/wp-content/uploads/2024/09/Watch-GT-5-renders-400x240.jpg)
+        
+        Alleged Huawei Watch GT 5 renders reveal familiar design and price details](https://www.huaweicentral.com/alleged-huawei-watch-gt-5-renders-reveal-familiar-design-and-price-details/)
     * [![Huawei wearables this month](https://www.huaweicentral.com/wp-content/uploads/2024/09/Huawei-products-400x240.jpg)
         
         Huawei might unveil 6 more products including wearables this month](https://www.huaweicentral.com/huawei-might-unveil-6-more-products-including-wearables-this-month/)
@@ -74,12 +80,6 @@ Huawei Central
     * [![Huawei Watch Fit 3 September 2024 update](https://www.huaweicentral.com/wp-content/uploads/2024/09/Watch-Fit-3-400x240.jpg)
         
         Huawei Watch Fit 3 gets September 2024 improvements update](https://www.huaweicentral.com/huawei-watch-fit-3-gets-september-2024-improvements-update/)
-    * [![Huawei Watch GT 5 crown design](https://www.huaweicentral.com/wp-content/uploads/2024/09/Watch-crown-400x240.jpg)
-        
-        Huawei Watch GT 5 series to flaunt a stunning crown design](https://www.huaweicentral.com/huawei-watch-gt-5-series-to-flaunt-a-stunning-crown-design/)
-    * [![Huawei Watch D2 design](https://www.huaweicentral.com/wp-content/uploads/2024/09/Watch-D2-400x240.jpg)
-        
-        Huawei is launching Watch D2 with a stylish design](https://www.huaweicentral.com/huawei-is-launching-watch-d2-with-a-stylish-design/)
     
 * [Contact Us](https://www.huaweicentral.com/contact/)
 
