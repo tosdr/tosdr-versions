@@ -814,16 +814,16 @@ If you have any questions about this Privacy Policy, please contact us:
 
 ### Most read articles
 
-* 1[Chinese firms condemn Draghi's support for tariffs](http://en.euractiv.eu/section/economy-jobs/news/chinese-firms-condemn-draghis-support-for-tariffs/?utm_source=website&utm_campaign=popular)
-* 2[Businesses, unions clash on Draghi’s call to cut EU regulations](http://en.euractiv.eu/section/economy-jobs/news/businesses-unions-clash-on-draghis-call-to-cut-eu-regulations/?utm_source=website&utm_campaign=popular)
-* 3[Tusk cancels trip to Germany amid deteriorating relations](http://en.euractiv.eu/section/politics/news/tusk-cancels-trip-to-germany-amid-deteriorating-relations/?utm_source=website&utm_campaign=popular)
-* 4[How the Draghi report could affect future EU-US relations](http://en.euractiv.eu/section/economy-jobs/news/how-the-draghi-report-could-affect-future-eu-us-relations/?utm_source=website&utm_campaign=popular)
-* 5[Lack of productivity growth 'existential challenge' for Europe, Draghi report says](http://en.euractiv.eu/section/economy-jobs/news/lack-of-productivity-growth-existential-challenge-for-europe-draghi-report-says/?utm_source=website&utm_campaign=popular)
-* 6[EU politicians weigh in on Draghi report](http://en.euractiv.eu/section/politics/news/eu-politicians-weigh-in-on-draghi-report/?utm_source=website&utm_campaign=popular)
-* 7[China's green 'trojan horses' are starting to divide Europe](http://en.euractiv.eu/section/energy-environment/opinion/chinas-green-trojan-horses-are-starting-to-divide-europe/?utm_source=website&utm_campaign=popular)
-* 8[Brazil asks EU to hold off on implementing deforestation law](http://en.euractiv.eu/section/agriculture-food/news/brazil-asks-eu-to-hold-off-on-implementing-deforestation-law/?utm_source=website&utm_campaign=popular)
-* 9[Draghi’s pitch to save green growth](http://en.euractiv.eu/section/energy-environment/news/draghis-pitch-to-save-green-growth/?utm_source=website&utm_campaign=popular)
-* 10[Far-right AfD cheers Scholz’s call for peace summit with Russia](http://en.euractiv.eu/section/politics/news/far-right-afd-cheers-scholzs-call-for-peace-summit-with-russia/?utm_source=website&utm_campaign=popular)
+* 1[China's green 'trojan horses' are starting to divide Europe](http://en.euractiv.eu/section/energy-environment/opinion/chinas-green-trojan-horses-are-starting-to-divide-europe/?utm_source=website&utm_campaign=popular)
+* 2[Poland backs ending EU benefits for Ukrainian men of fighting age](http://en.euractiv.eu/section/europe-s-east/news/poland-backs-ending-eu-benefits-for-ukrainian-men-of-fighting-age/?utm_source=website&utm_campaign=popular)
+* 3[Brazil asks EU to hold off on implementing deforestation law](http://en.euractiv.eu/section/agriculture-food/news/brazil-asks-eu-to-hold-off-on-implementing-deforestation-law/?utm_source=website&utm_campaign=popular)
+* 4[Bird research in Malta has reached the EU courts](http://en.euractiv.eu/section/energy-environment/opinion/bird-research-in-malta-has-reached-the-eu-courts/?utm_source=website&utm_campaign=popular)
+* 5[EU court says Hungary broke competition rules by fixing food prices](http://en.euractiv.eu/section/agriculture-food/news/eu-court-says-hungary-broke-competition-rules-by-fixing-food-prices/?utm_source=website&utm_campaign=popular)
+* 6[Austria’s biggest utility company to ditch Russian gas from 2025](http://en.euractiv.eu/section/energy-environment/news/austrias-biggest-utility-company-to-ditch-russian-gas-from-2025/?utm_source=website&utm_campaign=popular)
+* 7['Reward those who serve our planet': Von der Leyen floats 'nature credits'](http://en.euractiv.eu/section/biodiversity/news/reward-those-who-serve-our-planet-von-der-leyen-floats-nature-credits/?utm_source=website&utm_campaign=popular)
+* 8[EU passes 50% renewables milestone amid missing climate plans](http://en.euractiv.eu/section/energy-environment/news/eu-passes-50-renewables-milestone-amid-missing-climate-plans/?utm_source=website&utm_campaign=popular)
+* 9[China uses LinkedIn to recruit academics for espionage, Czech intelligence warns](http://en.euractiv.eu/section/politics/news/china-uses-linkedin-to-recruit-academics-for-espionage-czech-intelligence-warns/?utm_source=website&utm_campaign=popular)
+* 10[New Dutch government unveils toughest asylum reform in history](http://en.euractiv.eu/section/politics/news/new-dutch-government-unveils-toughest-asylum-reform-in-history/?utm_source=website&utm_campaign=popular)
 
 ###### Advertisement
 
