@@ -303,9 +303,94 @@
             * [Beginner's DSA Sheet](https://www.geeksforgeeks.org/explore?page=1&sprint=ca8ae412173dbd8346c26a0295d098fd&sortBy=submissions&sprint_name=Beginner%27s%20DSA%20Sheet&itm_source=geeksforgeeks&itm_medium=main_header_outIndia&itm_campaign=DSA_Header)
             * [Top 50 Array Problems](https://www.geeksforgeeks.org/explore?page=1&sprint=50746f92a895c22a50504ac0c1fb9c84&sortBy=submissions&sprint_name=Top%2050%20Array%20Problems&itm_source=geeksforgeeks&itm_medium=main_header_outIndia&itm_campaign=DSA_Header)
             * [Top 50 String Problems](https://www.geeksforgeeks.org/explore?page=1&sprint=57184072610b884e5df3584cc534115d&sortBy=submissions&sprint_name=Top%2050%20String%20Problems&itm_source=geeksforgeeks&itm_medium=main_header_outIndia&itm_campaign=DSA_Header)
-            * [Top 50 DP Problems](https://www.geeksforgeeks.org/explore?page=1&sprint=93d672753b74440c7427214c8ebf866d&sortBy=submissions&sprint_name=Top%2050%20DP%20Problems&itm_source=geeksforgeeks&itm_medium=main_header_outIndia&itm_campaign=DSA_Header)<
-                * 
-                
+            * [Top 50 DP Problems](https://www.geeksforgeeks.org/explore?page=1&sprint=93d672753b74440c7427214c8ebf866d&sortBy=submissions&sprint_name=Top%2050%20DP%20Problems&itm_source=geeksforgeeks&itm_medium=main_header_outIndia&itm_campaign=DSA_Header)
+            * [Top 50 Graph Problems](https://www.geeksforgeeks.org/explore?page=1&sprint=405e9db0f353691ad3b2d546b19145e9&sortBy=submissions&sprint_name=Top%2050%20Graph%20Problems&itm_source=geeksforgeeks&itm_medium=main_header_outIndia&itm_campaign=DSA_Header)
+            * [Top 50 Tree Problems](https://www.geeksforgeeks.org/explore?page=1&sprint=5f24de84b65bf7c4f4399c8111e26b81&sortBy=submissions&sprint_name=Top%2050%20Tree%20Problems&itm_source=geeksforgeeks&itm_medium=main_header_outIndia&itm_campaign=DSA_Header)
+    * [Competitive Programming](https://www.geeksforgeeks.org/competitive-programming-a-complete-guide/?ref=outind)
+    * Company Wise SDE Sheets
+        * [Facebook SDE Sheet](https://www.geeksforgeeks.org/facebookmeta-sde-sheet-interview-questions-and-answers/?ref=outind)
+        * [Amazon SDE Sheet](https://www.geeksforgeeks.org/amazon-sde-sheet-interview-questions-and-answers/?ref=outind)
+        * [Apple SDE Sheet](https://www.geeksforgeeks.org/apple-sde-sheet-interview-questions-and-answers/?ref=outind)
+        * [Netflix SDE Sheet](https://www.geeksforgeeks.org/netflix-sde-sheet-interview-questions-and-answers/?ref=outind)
+        * [Google SDE Sheet](https://www.geeksforgeeks.org/google-sde-sheet-interview-questions-and-answers/?ref=outind)
+    * DSA Cheat Sheets
+        * [SDE Sheet](https://www.geeksforgeeks.org/sde-sheet-a-complete-guide-for-sde-preparation/?ref=outind)
+        * [DSA Sheet for Beginners](https://www.geeksforgeeks.org/most-asked-dsa-interview-problems-for-beginners/?ref=outind)
+        * [FAANG Coding Sheet](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/?ref=outind)
+        * [Product-Based Coding Sheet](https://www.geeksforgeeks.org/must-do-coding-questions-for-product-based-companies/?ref=outind)
+        * [Company-Wise Preparation Sheet](https://www.geeksforgeeks.org/must-coding-questions-company-wise/?ref=outind)
+    * [Top Interview Questions](https://www.geeksforgeeks.org/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise/?ref=outind)
+    * Puzzles
+        * [All Puzzles](https://www.geeksforgeeks.org/puzzles/?ref=outind)
+        * [Top 100 Puzzles Asked In Interviews](https://www.geeksforgeeks.org/top-100-puzzles-asked-in-interviews/?ref=outind)
+        * [Top 20 Puzzles Commonly Asked During SDE Interviews](https://www.geeksforgeeks.org/top-20-puzzles-commonly-asked-during-sde-interviews/?ref=outind)
+* Data Science
+    * [Python Tutorial](https://www.geeksforgeeks.org/python-programming-language/?ref=outind)
+    * [R Tutorial](https://www.geeksforgeeks.org/r-tutorial/?ref=outind)
+    * [Machine Learning](https://www.geeksforgeeks.org/machine-learning/?ref=outind)
+    * [Data Science using Python](https://www.geeksforgeeks.org/data-science-with-python-tutorial/?ref=outind)
+    * [Data Science using R](https://www.geeksforgeeks.org/r-programming-for-data-science/?ref=outind)
+    * Data Science Packages
+        * [Pandas Tutorial](https://www.geeksforgeeks.org/pandas-tutorial/?ref=outind)
+        * [NumPy Tutorial](https://www.geeksforgeeks.org/numpy-tutorial/?ref=outind)
+    * Data Visualization
+        * [Python Data Visualization Tutorial](https://www.geeksforgeeks.org/python-data-visualization-tutorial/?ref=outind)
+        * [Data Visualization with R](https://www.geeksforgeeks.org/data-visualization-in-r/?ref=outind)
+    * Data Analysis
+        * [Data Analysis with Python](https://www.geeksforgeeks.org/data-analysis-with-python/?ref=outind)
+        * [Data Analysis with R](https://www.geeksforgeeks.org/data-analysis-using-r/?ref=outind)
+    * [Deep Learning](https://www.geeksforgeeks.org/deep-learning-tutorial/?ref=outind)
+    * [NLP Tutorial](https://www.geeksforgeeks.org/natural-language-processing-nlp-tutorial/?ref=outind)
+* Web Tech
+    * [HTML Tutorial](https://www.geeksforgeeks.org/html-tutorial/?ref=outind)
+    * [CSS Tutorial](https://www.geeksforgeeks.org/css-tutorial/?ref=outind)
+    * [JavaScript Tutorial](https://www.geeksforgeeks.org/javascript/?ref=outind)
+    * [PHP Tutorial](https://www.geeksforgeeks.org/php-tutorial/?ref=outind)
+    * [ReactJS Tutorial](https://www.geeksforgeeks.org/react-tutorial/?ref=outind)
+    * [NodeJS Tutorial](https://www.geeksforgeeks.org/nodejs/?ref=outind)
+    * [AngularJS Tutorial](https://www.geeksforgeeks.org/introduction-to-angularjs/?ref=outind)
+    * [Bootstrap Tutorial](https://www.geeksforgeeks.org/bootstrap/?ref=outind)
+    * [Typescript](https://www.geeksforgeeks.org/typescript/?ref=outind)
+    * Web Development Using Python
+        * Django
+            * [Django Tutorial](https://www.geeksforgeeks.org/django-tutorial/?ref=outind)
+            * [Django Projects](https://www.geeksforgeeks.org/top-django-projects-for-beginners/?ref=outind)
+            * [Django Interview Questions](https://www.geeksforgeeks.org/django-interview-questions/?ref=outind)
+        * Flask
+            * [Flask Tutorial](https://www.geeksforgeeks.org/flask-tutorial/?ref=outind)
+            * [Flask Projects](https://www.geeksforgeeks.org/flask-projects/?ref=outind)
+            * [Flask Interview Questions](https://www.geeksforgeeks.org/flask-interview-questions-and-answers/?ref=outind)
+        * [Postman](https://www.geeksforgeeks.org/postman-tutorial/?ref=outind)
+        * [Github](https://www.geeksforgeeks.org/introduction-to-github/?ref=outind)
+    * [Wordpress Tutorial](https://www.geeksforgeeks.org/wordpress-tutorial/?ref=outind)
+    * [Web Design](https://www.geeksforgeeks.org/web-design/?ref=outind)
+    * Cheat Sheets
+        * [HTML Cheat Sheet](https://www.geeksforgeeks.org/html-cheat-sheet-a-basic-guide-to-html/?ref=outind)
+        * [CSS Cheat Sheet](https://www.geeksforgeeks.org/css-cheat-sheet-a-basic-guide-to-css/?ref=outind)
+        * [JavaScript Cheat Sheet](https://www.geeksforgeeks.org/javascript-cheat-sheet-a-basic-guide-to-javascript/?ref=outind)
+        * [React Cheat Sheet](https://www.geeksforgeeks.org/react-cheat-sheet/?ref=outind)
+        * [Angular Cheat Sheet](https://www.geeksforgeeks.org/angular-cheat-sheet-a-basic-guide-to-angular/?ref=outind)
+        * [jQuery Cheat Sheet](https://www.geeksforgeeks.org/jquery-cheat-sheet-a-basic-guide-to-jquery/?ref=outind)
+        * [Bootstrap Cheat Sheet](https://www.geeksforgeeks.org/bootstrap-cheatsheet-a-basic-guide-to-bootstrap/?ref=outind)
+    * [Learn Complete Web Development](https://www.geeksforgeeks.org/web-development/?ref=outind)
+* Courses
+    * [Coding for Everyone](https://www.geeksforgeeks.org/courses/coding-for-everyone?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=courses)
+    * [DSA to Development](https://www.geeksforgeeks.org/courses/dsa-to-development-coding-guide?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=courses)
+    * [Machine Learning & Data Science](https://www.geeksforgeeks.org/courses/data-science-live?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=courses)
+    * [Generative AI & ChatGPT](https://www.geeksforgeeks.org/courses/mastering-generative-ai-and-chat-gpt?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=courses)
+    * [Become AWS Certified](https://www.geeksforgeeks.org/courses/search?query=AWS&itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=courses)
+    * DSA Courses
+        * [Data Structure & Algorithm(C++/JAVA)](https://www.geeksforgeeks.org/courses/dsa-self-paced?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=courses)
+        * [Data Structure & Algorithm(Python)](https://www.geeksforgeeks.org/courses/Data-Structures-With-Python?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=courses)
+        * [Data Structure & Algorithm(JavaScript)](https://www.geeksforgeeks.org/courses/data-structures-and-algorithms-in-javascript?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=courses)
+    * Programming Languages
+        * [CPP](https://www.geeksforgeeks.org/courses/cpp-programming-basic-to-advanced?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=courses)
+        * [Java](https://www.geeksforgeeks.org/courses/Java-Programming-basic-to-advanced?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=courses)
+        * [Python](https://www.geeksforgeeks.org/courses/Python-Foundation?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=courses)
+        * [JavaScript](https://www.geeksforgeeks.org/courses/javascript?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=courses)
+        * [C](https://www.geeksforgeeks.org/courses/c-Programming-basic-to-advanced?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=courses)
+
+* 
 
 * [Trending Now](https://www.geeksforgeeks.org/trending/?ref=shm)
 * [DSA](https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/?ref=shm)
