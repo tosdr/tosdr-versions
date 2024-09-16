@@ -11,6 +11,7 @@ On Demand Webinar: Getting IoT Security Right [Watch it now](https://info.aeris.
 * [News & Press](https://www.aeris.com/news-press/ "News & Press")
 * [Resources](https://www.aeris.com/resource-library/ "Resources")
 * [Support](https://www.aeris.com/services-and-support/ "Support")
+* [Partners](https://www.aeris.com/partners/ "Partners")
 *  [Log In](https://aerport.aeris.com/ "Log In")
 
 Search
