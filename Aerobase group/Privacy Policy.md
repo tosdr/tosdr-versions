@@ -200,6 +200,16 @@ This document was last updated on January 1, 2014
 
 #### Defense News
 
+* [US clears F-35 sale to Romania, bolstering NATO’s eastern flank](https://www.defensenews.com/breaking-news/2024/09/13/us-clears-f-35-sale-to-romania-bolstering-natos-eastern-flank/)  
+    09/13/24 05:14pm  
+    
+    Romania would get its first F-35 Joint Strike Fighters as part of a deal approved by the U.S. State Department. (A1C Mason Hargrove/U.S. Air Force)
+    
+* [Massive Boeing machinist strike hits KC-46 tanker production](https://www.defensenews.com/air/2024/09/13/massive-boeing-machinist-strike-hits-kc-46-tanker-production/)  
+    09/13/24 02:32pm  
+    
+    Boeing workers in Washington state overwhelmingly voted to reject a contract and go on strike Thursday. Boeing's CFO said the strike will affect a facility working on the KC-46. (Jason Redmond/AFP via Getty Images)
+    
 * [Italian Air Force’s famed acrobatic squad changes course on new planes](https://www.defensenews.com/global/europe/2024/09/13/italian-air-forces-famed-acrobatic-squad-changes-course-on-new-planes/)  
     09/13/24 05:07am  
     
@@ -209,16 +219,6 @@ This document was last updated on January 1, 2014
     09/09/24 07:45am  
     
     US soldiers and members of the Indonesian military board a UH-60 Black Hawk. (Spc. William D. Kennedy III/Army)
-    
-* [In first, F-35s land on Finnish highway to drill for future wars](https://www.defensenews.com/air/2024/09/06/in-first-f-35s-land-on-finnish-highway-to-drill-for-future-wars/)  
-    09/06/24 01:50pm  
-    
-    The U.S. Air Force landed an F-35 on a Finnish highway for the first time during a recent NATO exercise. (Air Force video)
-    
-* [Air Force’s NGAD revamp could open up more business to smaller firms](https://www.defensenews.com/air/2024/09/05/air-forces-ngad-revamp-could-open-up-more-business-to-smaller-firms/)  
-    09/05/24 03:06pm  
-    
-    The 'niche capabilities' smaller firms specialize in will be important parts of a revamped design for the NGAD future fighter system, Air Force officials said. (File)
     
 
 Recent parts by keyword  
