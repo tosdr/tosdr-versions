@@ -1,5 +1,18 @@
 [Skip to main content](#main)
 
+[![Nextcloud Hub 9 is here!
+](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+
+![Nextcloud Hub 9 is here!
+](https://nextcloud.com/c/uploads/2024/07/nc-hub9-logo-blue-gradient.svg)](https://nextcloud.com/blog/nextcloud-hub9/ "Nextcloud Hub 9 is here!
+")
+
+[**Nextcloud Hub 9** is here!](https://nextcloud.com/blog/nextcloud-hub9/ "Nextcloud Hub 9 is here!
+")
+
+[Learn more](https://nextcloud.com/blog/nextcloud-hub9/ "Nextcloud Hub 9 is here!
+")
+
 [![Nextcloud Enterprise](https://nextcloud.com/c/uploads/2024/07/Nextcloud_Enterprise.png)](https://nextcloud.com/enterprise-day/ "Nextcloud Enterprise Day 2024")
 
 [Nextcloud **Enterprise Day 2024**](https://nextcloud.com/enterprise-day/ "Nextcloud Enterprise Day 2024")
@@ -13,19 +26,6 @@
 [Nextcloud Community **Conference 2024**](https://nextcloud.com/conference-2024/ "Nextcloud Community Conference 2024")
 
 [Register now](https://nextcloud.com/conference-2024/ "Nextcloud Community Conference 2024")
-
-[![Nextcloud Hub 9 is coming!
-](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![Nextcloud Hub 9 is coming!
-](https://nextcloud.com/c/uploads/2024/07/nc-hub9-logo-blue-gradient.svg)](https://nextcloud.com/hub9/ "Nextcloud Hub 9 is coming!
-")
-
-[**Nextcloud Hub 9** is coming!](https://nextcloud.com/hub9/ "Nextcloud Hub 9 is coming!
-")
-
-[Learn more](https://nextcloud.com/hub9/ "Nextcloud Hub 9 is coming!
-")
 
 [![Nextcloud logo](https://nextcloud.com/c/uploads/2023/02/logo_nextcloud_white.svg)](https://nextcloud.com/ "Nextcloud")
 
