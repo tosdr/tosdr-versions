@@ -5,7 +5,7 @@ Privacy Policy
 
 * * *
 
-**Date effective: July 2023**
+**Date effective: September 2024**
 
 **1. This Privacy Policy**  
 
@@ -17,7 +17,7 @@ Expand All Collapse All
 
 [2\. How to Contact Us](#expander-image-panel-tent_parsys_expander_0)
 
-Delta has a Privacy Team, including a Data Protection Officer, that is dedicated to protecting your privacy. If you have any questions or comments regarding this Privacy Policy or any complaints about our adherence to it, please contact our Data Protection Officer, Renee Lopez-Pineda, at [Privacy@delta.com](mailto:privacy@delta.com) or contact our [Customer Care Center](https://www.delta.com/us/en/need-help/overview) by telephone or mail. We adhere to applicable notification requirements and reporting obligations to supervising authorities and/or data subjects regarding violations of this Privacy Policy as required by law.  The substance and time frames applicable to these remedies are set forth in applicable laws.
+Delta has a Privacy Team, including a Data Protection Officer, that is dedicated to protecting your privacy. If you have any questions or comments regarding this Privacy Policy or any complaints about our adherence to it, please contact our Data Protection Officer, Renee Lopez-Pineda, at [Privacy@delta.com](mailto:privacy@delta.com) or contact our [Customer Care](https://www.delta.com/us/en/need-help/overview) Center by telephone or mail. We adhere to applicable notification requirements and reporting obligations to supervising authorities and/or data subjects regarding violations of this Privacy Policy as required by law.  The substance and time frames applicable to these remedies are set forth in applicable laws.
 
 Additional remedies available in the event of a perceived violation of your privacy rights are discussed **in sections 9.7** and **section 12** regarding information security safeguards and data breach notification procedures.
 
@@ -27,13 +27,13 @@ Additional remedies available in the event of a perceived violation of your priv
 
 We may collect and receive information from you, including when you:
 
-* Use or access our Website or App, such as when you enter information during the course of a booking, even if you do not complete the booking;
-* Register, create, or modify an online or in-app account with us, including your [SkyMiles Partners](https://www.delta.com/us/en/skymiles/how-to-earn-miles/airline-partners) account and [Promotional Partners](https://www.delta.com/us/en/skymiles/how-to-earn-miles/overview) account, or any account to use our online corporate travel tool(s), communicate with us by email, including when you email us at Privacy@delta.com, telephone, in writing, through our customer services pages, or social media;  
+* use or access our Website or App, such as when you enter information during the course of a booking, even if you do not complete the booking;
+* register, create, or modify an online or in-app account with us, including your [SkyMiles Partners](https://www.delta.com/us/en/skymiles/how-to-earn-miles/skymiles-partners-offers) account and promotional partners account, or any account to use our online corporate travel tool(s), communicate with us by email, including when you email us at Privacy@delta.com, telephone, in writing, through our customer services pages, or social media;  
       
-    * Our [SkyMiles Partners](https://www.delta.com/us/en/skymiles/how-to-earn-miles/airline-partners) are hotel, car rental, shopping, dining, vacation, and other businesses with whom you can earn, transfer, or redeem miles in the SkyMiles Program or otherwise qualify for discounts or benefits in connection with SkyMiles membership or Medallion Status. Our [Promotional Partners](https://www.delta.com/us/en/skymiles/how-to-earn-miles/overview) are businesses with whom you may be offered a discount or benefit as a result of your transactions with Delta.
-* Use any of our services, including when you travel with us, use airports where we operate, or use any facilities, such as Delta Sky Club lounge facilities, within those airports;
-* Through cookies and other tracking technologies on our Website and App (see section 6 below); and
-* Are associated to a company we do business with
+    * Our [SkyMiles Partners](https://www.delta.com/us/en/skymiles/how-to-earn-miles/skymiles-partners-offers) are hotel, car rental, shopping, dining, vacation, and other businesses with whom you can earn, transfer, or redeem miles in the SkyMiles Program or otherwise qualify for discounts or benefits in connection with SkyMiles membership or Medallion Status. Our promotional partners are businesses with whom you may be offered a discount or benefit as a result of your transactions with Delta.
+* use any of our services, including when you travel with us, use airports where we operate, or use any facilities, such as Delta Sky Club lounge facilities, within those airports;
+* through cookies and other tracking technologies on our Website and App (see section 6 below); and
+* are associated to a company we do business with
 
 **3.2 Automatic access and data collection from our App**
 
@@ -43,7 +43,7 @@ Our App may access certain device information and/or components automatically.
 
 We may receive your personal information from other airlines, and from travel agencies and your employer or company in connection with your travel booking.
 
-We may also receive your personal information from [SkyMiles Partners](https://www.delta.com/us/en/skymiles/how-to-earn-miles/airline-partners) and [Promotional Partners](https://www.delta.com/us/en/skymiles/how-to-earn-miles/overview) in connection with our SkyMiles Program.
+We may also receive your personal information from [SkyMiles Partners](https://www.delta.com/us/en/skymiles/how-to-earn-miles/skymiles-partners-offers) and promotional partners in connection with our SkyMiles Program.
 
 Our suppliers and other businesses we deal with provide us personal information of their representatives.
 
@@ -53,7 +53,7 @@ This Privacy Policy applies to information we receive from those other sources, 
 
 #### **4.1 Information about you and how we use it**
 
-This section describes what personal information we collect about you, the purposes for which we use it, and the legal basis under applicable law pursuant to which we process it. Please also see section 4.2 regarding information collected through our App, and section 4.6 regarding our use of sensitive types of information.
+This section describes what personal information we collect about you, the purposes for which we use it, and the legal basis under applicable law pursuant to which we process it. We may also use your personal information for other purposes if they are reasonably expected or incidental to those described in this Privacy Policy. Please also see section 4.2 regarding information collected through our App, and section 4.6 regarding our use of sensitive types of information.
 
 #### 4.1.a
 
@@ -88,7 +88,7 @@ This section describes what personal information we collect about you, the purpo
 * send you marketing communications, offers, and invitations to events, which may be based on our segmentation and modelling of your personal information;
 * provide you with assistance in an emergency, including communicating with your emergency contacts;
 * share it with other airlines for the purposes of your itinerary or re-booking you if there is a travel disruption;
-* share it with our [SkyMiles Partners](https://www.delta.com/us/en/skymiles/how-to-earn-miles/airline-partners) and [Promotional Partners](https://www.delta.com/us/en/skymiles/how-to-earn-miles/overview) for the purpose of their providing services to you; 
+* share it with our [SkyMiles Partners](https://www.delta.com/us/en/skymiles/how-to-earn-miles/skymiles-partners-offers) and promotional partners for the purpose of their providing services to you; 
 * share it with authorized government agencies and as otherwise described in **section 7**.
 * share it for luggage security screening to enable you to travel within and between countries.
 * tailor our products and services for you, including anticipating your likely preferences based on information concerning your previous travel with us, previous transactions, or communications with us, any of which we may combine with other information we have about you, and which may be based on our segmentation and modelling of your personal information.
@@ -103,7 +103,7 @@ This section describes what personal information we collect about you, the purpo
 * the information is publicly available;
 * we have a legitimate business interest, for example, in assisting you with making and managing your bookings with us, managing and administering our business and protecting it from fraud, improving and promoting our service and better understanding how customers use it, ensuring that our technical systems operate properly, protecting against risks to customers and aircraft, streamlining customs clearance processes for our customers, enabling Delta to support public health authorities’ efforts to inhibit the spread of COVID-19 or other global pandemic symptoms, and ensuring the health and safety of customers traveling on Delta flights, and complying with applicable law and regulations;
 * we and third party airlines have a legitimate business interest in making and operating connections between multiple flights and expediting baggage clearance across international borders; or
-* we and our [SkyMiles Partners](https://www.delta.com/us/en/skymiles/how-to-earn-miles/airline-partners), [Promotional Partners](https://www.delta.com/us/en/skymiles/how-to-earn-miles/overview) and other businesses that are providing services that you request have a legitimate business interest in using the information to provide their services.
+* we and our [SkyMiles Partners](https://www.delta.com/us/en/skymiles/how-to-earn-miles/skymiles-partners-offers), promotional partners and other businesses that are providing services that you request have a legitimate business interest in using the information to provide their services.
 
 #### 4.1.b
 
@@ -137,7 +137,7 @@ We use this information because:
 
 #### 4.1.c
 
-Information related to your membership in our Delta Sky Club, the SkyMiles Program or other account, or activities within our [SkyMiles Partners](https://www.delta.com/us/en/skymiles/how-to-earn-miles/airline-partners) and [Promotional Partners](https://www.delta.com/us/en/skymiles/how-to-earn-miles/overview), including:
+Information related to your membership in our Delta Sky Club, the SkyMiles Program or other account, or activities with our [SkyMiles Partners](https://www.delta.com/us/en/skymiles/how-to-earn-miles/skymiles-partners-offers) and promotional partners, including:
 
 * your name and contact details;
 * your SkyMiles status;
@@ -145,7 +145,7 @@ Information related to your membership in our Delta Sky Club, the SkyMiles Pro
 * your transactions and SkyMiles Program activity;
 * your choice of SkyMiles benefits;
 * your flight information including any travel group to which you are assigned;
-* your membership information for [SkyMiles Partner](https://www.delta.com/us/en/skymiles/how-to-earn-miles/airline-partners) or other account and [Promotional Partner](https://www.delta.com/us/en/skymiles/how-to-earn-miles/overview) loyalty programs;
+* your membership information for [SkyMiles Partners](https://www.delta.com/us/en/skymiles/how-to-earn-miles/skymiles-partners-offers) or other account and promotional partners loyalty programs;
 * your employer or company details, your role, use of corporate forms of payment, and other information submitted through our online corporate travel tool(s), where you agree to associate your SkyMiles Program account with your employer’s or corporate business SkyBonus/SkyMiles for Business or other travel program
 * your date of birth; 
 * your gender;
@@ -154,7 +154,7 @@ Information related to your membership in our Delta Sky Club, the SkyMiles Pro
 
 We use this information to:
 
-* provide you with services related to your SkyMiles Program membership and activity with [SkyMiles Partners](https://www.delta.com/us/en/skymiles/how-to-earn-miles/airline-partners), or [Promotional Partners](https://www.delta.com/us/en/skymiles/how-to-earn-miles/overview), if applicable, including mileage tracking;
+* provide you with services related to your SkyMiles Program membership and activity with [SkyMiles Partners](https://www.delta.com/us/en/skymiles/how-to-earn-miles/skymiles-partners-offers), or promotional partners, if applicable, including mileage tracking;
 *  tailor our products and services for you, including anticipating your likely preferences based on information concerning your previous travel with us, previous transactions, or communications with us, any of which we may combine with other information we have about you, and which may be based on our segmentation and modelling of your personal information;
 * improve our products and services, including through statistical analysis, segmentation, and research for program development;
 * manage and administer our Delta Sky Clubs or the SkyMiles Program and for our related record-keeping requirements;
@@ -162,7 +162,7 @@ We use this information to:
 * send you information about our products and services;
 * send you marketing communications, offers, and invitations to events, which may be based on segmentation and modelling of your personal information;
 * recognize your loyalty to the SkyMiles Program;
-* share your information with [SkyMiles Partners](https://www.delta.com/us/en/skymiles/how-to-earn-miles/airline-partners) and [Promotional Partners](https://www.delta.com/us/en/skymiles/how-to-earn-miles/overview) as mentioned in section 7;
+* share your information with [SkyMiles Partners](https://www.delta.com/us/en/skymiles/how-to-earn-miles/skymiles-partners-offers) and promotional partners as mentioned in section 7;
 *  verify and authenticate your identity to prevent fraud ; and
 * maintain the operational availability and reliability of our IT systems with infrastructure backups and testing (which may use a copy of live data where test data is not practical).
 
@@ -193,7 +193,7 @@ We use this information to:
 *  improve our products and services, including through statistical analysis and research for program development;
 *  maintain the operational availability and reliability of our IT systems with infrastructure backups and testing (which may use a copy of live data where test data is not practical):
 * send you marketing communications, offers, and invitations to events, which may be based on segmentation and modelling of your personal information;
-*  send you online messages about products and services provided by us or our [SkyMiles Partners](https://www.delta.com/us/en/skymiles/how-to-earn-miles/airline-partners), [Promotional Partners,](https://www.delta.com/us/en/skymiles/how-to-earn-miles/overview) and other third parties that may be of interest to you.
+*  send you online messages about products and services provided by us or our [SkyMiles Partners](https://www.delta.com/us/en/skymiles/how-to-earn-miles/skymiles-partners-offers), promotional partners, and other third parties that may be of interest to you.
 
 We use this information because:
 
@@ -224,7 +224,7 @@ We use this information to:
 * operate and administer our Website and App;
 * provide our products and services to you.  In the case of services provided through the App, these will be only the services you have chosen within the App, as further described in section 4.2;
 * improve our products and services, including through statistical analysis and research for program development;
-* send you messages and offers, about products and services provided by us or our [SkyMiles Partners,](https://www.delta.com/us/en/skymiles/how-to-earn-miles/airline-partners) [Promotional Partners](https://www.delta.com/us/en/skymiles/how-to-earn-miles/overview) and other third parties that may be of interest to you, which may be based on your online behavior combined with other information we have about you and/or segmentation and modelling of your personal information;
+* send you messages and offers, about products and services provided by us or our [SkyMiles Partners](https://www.delta.com/us/en/skymiles/how-to-earn-miles/skymiles-partners-offers), promotional partners and other third parties that may be of interest to you, which may be based on your online behavior combined with other information we have about you and/or segmentation and modelling of your personal information;
 * tailor products and services for you, based or your browsing history on our Website, and use of the App, and combining this information with other information we have about you;
 * identify issues with our Website and App and users' experience of them;
 * monitor the way our Website and App are used;
@@ -305,7 +305,7 @@ We use this information because:
 
 Information we receive about you from other sources, including:
 
-* from [SkyMiles Partners](https://www.delta.com/us/en/skymiles/how-to-earn-miles/airline-partners), or other account, [Promotional Partners](https://www.delta.com/us/en/skymiles/how-to-earn-miles/overview), your SkyMiles Program activity and redemptions;
+* from [SkyMiles Partners](https://www.delta.com/us/en/skymiles/how-to-earn-miles/skymiles-partners-offers) or other account, promotional partners, your SkyMiles Program activity and redemptions;
 * from other airlines, your and your fellow travelers' Passenger Name Record containing your names and itineraries;
 * from travel agencies;
 * from your employer;
@@ -436,6 +436,8 @@ We may process sensitive or special categories of personal information, such as
 
 We occasionally receive personal information from law enforcement agencies and other sources relating to criminal activity (or alleged criminal activity) and may use that information where necessary, and where permitted by applicable law, to detect or prevent unlawful activity occurring during air travel. We consider this to be in the substantial public interest.
 
+Some services may require the disclosure of sensitive information to third parties as described in Section 7 of this Privacy Policy. We will notify you of any right to deny consent in advance of processing sensitive information, where required by law.
+
 [5\. Data Retention](#expander-image-panel-tent_parsys_expander_3)
 
 We store your information for as long as legally required or for so long as necessary to support business purposes described in **section 4** and consistent with our record retention policies. In general, this storage will be (i) at least for the duration of our relationship, (ii) for as long as you can bring a claim against us and for us to be able to defend ourselves, and (iii) for any period required by tax, aviation, and other applicable laws and regulations.
@@ -448,7 +450,7 @@ Our App will store user-provided data for as long as you use the related feature
 
 Delta uses cookies, tags, and other similar technologies. For simplicity, we refer to all these technologies as "cookies". These technologies allow us to recognize your preference information, keep track of your purchases, remember your SkyMiles number, and facilitate effective Website administration. We use the information we collect to enhance your visit to the Website and to provide you with information tailored to your needs.  
   
-Your Internet browser(s) will offer you the option to refuse cookies, but doing so may affect your use of some portions of Delta’s and our [SkyMiles Partners'](https://www.delta.com/us/en/skymiles/how-to-earn-miles/airline-partners) and [Promotional Partners](https://www.delta.com/us/en/skymiles/how-to-earn-miles/overview)’ web services. Please refer to your browser options to learn more about cookie management.  
+Your Internet browser(s) will offer you the option to refuse cookies, but doing so may affect your use of some portions of Delta’s and our [SkyMiles Partners](https://www.delta.com/us/en/skymiles/how-to-earn-miles/skymiles-partners-offers)' and promotional partners’ web services. Please refer to your browser options to learn more about cookie management.  
   
 Delta has engaged third party tracking and advertising providers to act on Delta's behalf to track and analyze your usage of our Website through the use of cookies, pixel tags / web beacons, and similar technologies. At our request, these third parties collect, and share with us, usage information about visits to our Website, measure and research the effectiveness of our advertisements, track page usage and paths followed during visits through our Website, help us target our Internet banner advertisements on our Website and on other sites, and track use of our Internet banner advertisements and other links from our marketing partners' sites to our Website. To learn about the available mechanisms for opting out of cookies and technologies related to interest-based advertising, see the descriptions and links in the table below.  
   
@@ -532,8 +534,6 @@ To opt out of third party tracking (that is, tracking with cookies placed by per
 
 #### 7.1. **In general**
 
-We do not sell your name or other personal information to third parties, and do not intend to do so in the future.
-
 We may disclose your information we collect or receive:
 
 * To third parties to process your information on our behalf, or to assist us in providing our services and/or products, such as our customer care center operators and providers of technical services such as data centers, biometric verification services, and online tools.  
@@ -545,7 +545,7 @@ We may disclose your information we collect or receive:
 * To you or those acting on your behalf. Where local regulations require, we may obtain your consent in writing for the purpose of allowing someone else to act on your behalf.  
       
     
-* To our [SkyMiles Partners](https://www.delta.com/us/en/skymiles/how-to-earn-miles/airline-partners), [Promotional Partners](https://www.delta.com/us/en/skymiles/how-to-earn-miles/overview) and other [Delta Group Companies](https://www.delta.com/content/dam/delta-com/aboutdelta/Delta-Group-Companies.pdf) for the purposes described in and in accordance with this Privacy Policy. Further information regarding Delta Group Companies is available in Delta’s filings with the U.S. Securities and Exchange Commission, including SEC Form 10-K.  
+* To our [SkyMiles Partners](https://www.delta.com/us/en/skymiles/how-to-earn-miles/skymiles-partners-offers), promotional partners and other [Delta Group Companies](https://www.delta.com/content/dam/delta-com/aboutdelta/Delta-Group-Companies.pdf) for the purposes described in and in accordance with this Privacy Policy. Further information regarding Delta Group Companies is available in Delta’s filings with the U.S. Securities and Exchange Commission, including SEC Form 10-K.  
       
     
 * To other airlines, including members of our **SkyTeam** alliance, for the purpose of servicing your travel, servicing your flight reservation, recognizing your loyalty program status, rebooking your flight in the event of an unexpected disruption in your travel, or protecting crewmembers, customers, and the overall safety and security of our flight operations and those of our alliance partners.  
@@ -607,7 +607,7 @@ When children travel alone on our flights, we take every step to make sure the c
 
 If you believe that any information we hold about you is incorrect or incomplete, or if you want to change your marketing preferences, you have a number of options:
 
-* You can log in and visit our [SkyMiles Partners](https://www.delta.com/us/en/skymiles/how-to-earn-miles/airline-partners) and [Promotional Partners](https://www.delta.com/us/en/skymiles/how-to-earn-miles/overview) on our Website if you want to modify your subscription, email or contact preferences.  
+* You can log in and visit our [SkyMiles Partners](https://www.delta.com/us/en/skymiles/how-to-earn-miles/skymiles-partners-offers) and promotional partners on our Website if you want to modify your subscription, email or contact preferences.  
       
     
 * You can withdraw consent you have given us to process your information at any time by opting out in your SkyMiles Profile, or by contacting us by using the [Email Us](https://www.delta.com/contactus/commentComplaint) page.  
@@ -708,7 +708,14 @@ Where we receive a request to exercise one of these rights, we will provide info
 
 Where we do not carry out your request, we will tell you without delay and in any event within one month of receipt of the request, and we will explain our reasons for not taking the action requested.  
 
-Any request you make must be in writing and include your name and address and any other information that may identify you, such as where your request relates to a travel booking, please provide your booking reference (e.g., confirmation number or record locator number), SkyMiles Account number if you have one, the dates on which the travel took place, and any other relevant information that will assist us to identify your booking. You must also provide a photocopy of your passport or driver’s license so we can verify your identity. Please send your written requests to:
+Any request you make must be in writing and include your name and address and any other information that may identify you, such as where your request relates to a travel booking, please provide your booking reference (e.g., confirmation number or record locator number), SkyMiles Account number if you have one, the dates on which the travel took place, and any other relevant information that will assist us to identify your booking. You must also provide a photocopy of one of the following forms of identification so we can verify your identity:
+
+* Passport;
+* National ID;
+* Driver’s License; or
+* State-issued REAL ID Compliant Identification document. 
+
+Please send your written requests to:
 
 Data Protection Officer  
 1030 Delta Blvd  
@@ -749,13 +756,13 @@ Some of the countries where Delta operates or where third parties operate on be
 
 [14\. Promotional Partners](#expander-image-panel-tent_parsys_expander_12)
 
-We want to give you more opportunities to earn miles in the Delta SkyMiles Program. One of the ways we do this is by sharing your information with [Promotional Partners](https://www.delta.com/us/en/skymiles/how-to-earn-miles/overview). Typically, these promotional offerings are limited in quantity and geographic reach and targeted to specific demographic audiences. If you fall within the audience a [Promotional Partner](https://www.delta.com/us/en/skymiles/how-to-earn-miles/overview) is trying to reach, and (where required under applicable law) you have consented to receive information about their services, you may receive a promotional e-mail or direct mail. Although we select our partners with care, these partners have their own privacy policies that apply to the way they use your personal data.
+We want to give you more opportunities to earn miles in the Delta SkyMiles Program. One of the ways we do this is by sharing your information with promotional partners. Typically, these promotional offerings are limited in quantity and geographic reach and targeted to specific demographic audiences. If you fall within the audience a promotional partners is trying to reach, and (where required under applicable law) you have consented to receive information about their services, you may receive a promotional e-mail or direct mail. Although we select our partners with care, these partners have their own privacy policies that apply to the way they use your personal data.
 
 If you do not want us to share your information with one of these partners, you can always opt out by contacting us by using the [Email Us](https://www.delta.com/contactus/commentComplaint) page or by calling the SkyMiles Service Center at +1-800-323-2323.
 
 [15\. SkyMiles Program](#expander-image-panel-tent_parsys_expander_13)
 
-In addition to the Data Transfers explained in section 13, information you provide in connection with the SkyMiles Program (as summarized in the table at section 4.1.c.), may be transferred to Delta entities in other jurisdictions, including the Cayman Islands.  This may include sensitive information as defined under the Data Protection Law, 2017 of the Cayman Islands ("DPL"), the GDPR, the UK GDPR, or other applicable law if you have provided such information to Delta in connection with your SkyMiles account.  Where your information is shared with a Delta entity established in the Cayman Islands, you may have various rights under the DPL.  These rights are similar to the rights described in section 9.  Where your information is shared with a Delta entity established in the Cayman Islands, you also may have the right to lodge a complaint with the Cayman Islands Ombudsman.  Any onward transfer of your information by any Delta entities in the Cayman Islands shall be in accordance with the requirements of the DPL and may include measures similar to those described in section 13 above.  If you have any questions regarding this section, or if you would like to exercise your data protection rights under the DPL, please contact our Data Protection Officer at Cayman.Privacy@delta.com or contact our Customer Care center by telephone or mail.
+In addition to the Data Transfers explained in section 13, information you provide in connection with the SkyMiles Program (as summarized in the table at section 4.1.c.), may be transferred to Delta entities in other jurisdictions, including the Cayman Islands.  This may include sensitive information as defined under the Data Protection Law, 2017 of the Cayman Islands ("DPL"), the GDPR, the UK GDPR, or other applicable law if you have provided such information to Delta in connection with your SkyMiles account.  Where your information is shared with a Delta entity established in the Cayman Islands, you may have various rights under the DPL.  These rights are similar to the rights described in section 9.  Where your information is shared with a Delta entity established in the Cayman Islands, you also may have the right to lodge a complaint with the Cayman Islands Ombudsman.  Any onward transfer of your information by any Delta entities in the Cayman Islands shall be in accordance with the requirements of the DPL and may include measures similar to those described in section 13 above.  If you have any questions regarding this section, or if you would like to exercise your data protection rights under the DPL, please contact our Data Protection Officer at Cayman.Privacy@delta.com or contact our [Customer Care](https://www.delta.com/us/en/need-help/overview) center by telephone or mail.
 
 In addition, each of SkyMiles IP Ltd. and SkyMiles IP Finance Ltd., whose address is at c/o Maples Corporate Services Limited, P.O. Box 309, Ugland House, Grand Cayman, KY1-1104, Cayman Islands, will be a data controller of personal information of SkyMiles members.  This Privacy Policy constitutes a notice by such entities to those SkyMiles members about its use of their personal information, which only concerns the SkyMiles Program.
 
@@ -773,7 +780,7 @@ Delta reserves the right to modify this Privacy Policy and will post any changes
 
 **2\. How to Contact Us?**
 
-For the exercise of data protection rights and/or if you have any questions or comments regarding this Privacy Policy, please contact our Data Protection Officer at Privacy@delta.com or contact our Customer Care center by telephone or mail.
+For the exercise of data protection rights and/or if you have any questions or comments regarding this Privacy Policy, please contact our Data Protection Officer at Privacy@delta.com or contact our [Customer Care](https://www.delta.com/us/en/need-help/overview) center by telephone or mail.
 
 **3\. How Delta Uses Your Data**
 
@@ -824,7 +831,7 @@ We use this information  for the reasons, and subject to the limitations, spe
 * we have a legitimate business interest in ensuring that our technical systems operate properly;
 * we must comply with certain regulatory requirements regarding emergencies and otherwise in relation to operating passenger flights. We also have a legitimate business interest in complying with legal and regulatory requirements applicable in Peru;
 * we and third party airlines have a legitimate business interest in making and operating connections between multiple flights and expediting baggage clearance across international borders;
-* we and our [SkyMiles Partners](https://www.delta.com/us/en/skymiles/how-to-earn-miles/airline-partners)**,** [Promotional Partners](https://www.delta.com/us/en/skymiles/how-to-earn-miles/overview) and other businesses that are providing services that you request have a legitimate business interest in using the information to provide their services;
+* we and our [SkyMiles Partners](https://www.delta.com/us/en/skymiles/how-to-earn-miles/skymiles-partners-offers), promotional partners and other businesses that are providing services that you request have a legitimate business interest in using the information to provide their services; 
 * we have a legitimate business interest in protecting against risks to customers and aircraft;
 * we have a legitimate business interest in streamlining customs clearance processes for our customers.
 
