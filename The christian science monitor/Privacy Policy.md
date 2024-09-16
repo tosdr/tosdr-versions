@@ -92,17 +92,17 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Compassion
+
+### Ukraine’s high ground in Russia](https://www.csmonitor.com/Commentary/the-monitors-view/2024/0916/Ukraine-s-high-ground-in-Russia "Ukraine’s high ground in Russia")
+
+[Transformation
+
+### Tango for all? How Argentine artists are upending stereotypes.](https://www.csmonitor.com/World/Americas/2024/0916/Tango-for-all-How-Argentine-artists-are-upending-stereotypes "Tango for all? How Argentine artists are upending stereotypes.")
+
 [Equality
 
 ### The new kids in the huddle](https://www.csmonitor.com/Commentary/the-monitors-view/2024/0913/The-new-kids-in-the-huddle "The new kids in the huddle")
-
-[Safety
-
-### ‘I have nowhere to go’: With Russia at their door, Ukrainians flee Pokrovsk](https://www.csmonitor.com/World/Europe/2024/0913/ukraine-war-pokrovsk-russia-evacuation-putin "‘I have nowhere to go’: With Russia at their door, Ukrainians flee Pokrovsk")
-
-[Justice
-
-### In a gun-friendly state, parental liability looms following school shooting](https://www.csmonitor.com/USA/Military/2024/0912/georgia-school-shooting-parental-liability "In a gun-friendly state, parental liability looms following school shooting")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -140,11 +140,11 @@ More
 
 Monitor Daily
 
-September 13, 2024
+September 16, 2024
 
-A different lens on today’s problems
+The need for a new kind of alertness
 
-Former Monitor Editor Marshall Ingwerson had a radical idea. Inside the newsroom and out, he would often ask: What works? The idea is that looking at successful solutions circumvents so much needless politics and rhetoric. He’s since gone on to found The What Works Initiative. Today, Troy Aidan Sambajon does Marshall proud. Education is full of challenges. But Troy finds that new efforts to make community colleges affordable, even free, are making a difference. It’s a reminder of Marshall’s main point: There is a different way to look at today’s problems. 
+A second attempt to assassinate former President Donald Trump raises questions the world is struggling to answer. The United States is not alone. Europe faces a spike in political violence, too. How do nations turn down the tone of political apocalypse at a time of significant change?  Christa Case Bryant notes something important today – an increased alertness among those entrusted to protect politicians in the U.S. It is not too much to say that a similar mental alertness is needed among all of us to recognize that anger and hatred are their own forms of violence.
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### Expanding possibilities for renters who want solar, and for animation in Africa](https://www.csmonitor.com/World/Points-of-Progress/2024/0916/German-apartment-solar-African-arts "Expanding possibilities for renters who want solar, and for animation in Africa")
+
+[### Tango for all? How Argentine artists are upending stereotypes.](https://www.csmonitor.com/World/Americas/2024/0916/Tango-for-all-How-Argentine-artists-are-upending-stereotypes "Tango for all? How Argentine artists are upending stereotypes.")
+
 [### Texas to follow Florida law that has patients report immigration status](https://www.csmonitor.com/USA/2024/0916/florida-texas-illegal-immigration-hospitals "Texas to follow Florida law that has patients report immigration status")
-
-[### Two American friends went to the Congo on vacation. Then they got swept up in a coup.](https://www.csmonitor.com/World/Africa/2024/0916/Americans-Congo-coup-death-penalty "Two American friends went to the Congo on vacation. Then they got swept up in a coup.")
-
-[### Illegal immigration spikes fuel European politics. New data tells a different story.](https://www.csmonitor.com/World/Europe/2024/0913/Europe-immigration-numbers-drop-far-right "Illegal immigration spikes fuel European politics. New data tells a different story.")
 
 * * *
 
