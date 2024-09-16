@@ -23,8 +23,8 @@ Popular Games
 
 Latest game news
 
+* [Secrets of UNKNOWN 9 Revealed – Interview with Producer Thea Danielak](https://en.bandainamcoent.eu/news/secrets-of-unknown-9-revealed-interview-producer-thea-danielak)
 * [Embrace the Fear Together in Little Nightmares 3 – Interview with Producer Coralie Feniello](https://en.bandainamcoent.eu/little-nightmares/news/embrace-the-fear-together-little-nightmares-3-interview-producer-coralie)
-* [Explore the Larger Universe of Unknown 9: Awakening](https://en.bandainamcoent.eu/unknown-9/news/explore-the-larger-universe-of-unknown-9-awakening)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
