@@ -10,7 +10,6 @@
         * [Bonus Abuse](https://www.arkoselabs.com/solutions/bonus-abuse/)
         * [SMS Toll Fraud](https://www.arkoselabs.com/solutions/sms-toll-fraud/)
     * Business Model Abuse
-        * [Web Scraping & Content Theft](https://www.arkoselabs.com/solutions/scraping/)
         * [GPT Prompt Compromise](https://www.arkoselabs.com/solutions/gpt-prompt-compromise/)
         * [LLM Platform Abuse](https://www.arkoselabs.com/solutions/llm-platform-abuse)
     * In-Platform Abuse
@@ -132,7 +131,6 @@
         * [Bonus Abuse](https://www.arkoselabs.com/solutions/bonus-abuse/)
         * [SMS Toll Fraud](https://www.arkoselabs.com/solutions/sms-toll-fraud/)
     * Business Model Abuse
-        * [Web Scraping & Content Theft](https://www.arkoselabs.com/solutions/scraping/)
         * [GPT Prompt Compromise](https://www.arkoselabs.com/solutions/gpt-prompt-compromise/)
         * [LLM Platform Abuse](https://www.arkoselabs.com/solutions/llm-platform-abuse)
     * In-Platform Abuse
@@ -618,8 +616,6 @@ In compliance with the EU-US Data Privacy Framework Principles, Arkose Labs comm
     
     Login* [Account Takeover](https://www.arkoselabs.com/account-takeover/account-takeover-solution "Account Takeover")
     * [Loyalty Fraud](https://www.arkoselabs.com/solutions/loyalty-fraud/ "Loyalty Fraud")
-    
-    Business Model Abuse* [Web Scraping and Content Theft](https://www.arkoselabs.com/web-scraping/web-scraping-solution "Web Scraping and Content Theft")
     * [GPT Prompt Compromise](https://www.arkoselabs.com/solutions/gpt-prompt-compromise/ "GPT Prompt Compromise")
     * [LLM Platform Abuse](https://www.arkoselabs.com/solutions/llm-platform-abuse/ "LLM Platform Abuse")
     
@@ -694,7 +690,3 @@ X
 Arkose Labs ranks No. 33 in the security category of the 2024 Inc. 5000!
 
 [Learn More](https://www.arkoselabs.com/latest-news/third-time-arkose-labs-makes-inc-5000-list-fastest-growing-private-companies-ranking-high-security-category/)
-
-                                                 
-
-https://www.arkoselabs.com
