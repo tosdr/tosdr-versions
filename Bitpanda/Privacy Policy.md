@@ -194,6 +194,10 @@ Search IconSearch Icon
 
 [Sign-up](https://account.bitpanda.com/en/register)
 
+1. [Home](https://www.bitpanda.com/en)
+2. Legal
+    
+
 **Legal & Privacy**
 ===================
 
