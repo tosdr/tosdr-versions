@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.kagstv.com/assets/KHOU/images/fb60edf4-974c-4cc5-a4d7-3bb9b38ffead/20240916T181117/fb60edf4-974c-4cc5-a4d7-3bb9b38ffead_16x9.jpg) ![](https://media.kagstv.com/assets/KHOU/images/fb60edf4-974c-4cc5-a4d7-3bb9b38ffead/20240916T181117/fb60edf4-974c-4cc5-a4d7-3bb9b38ffead_360x203.jpg)](https://www.kagstv.com/article/news/local/la-porte-pipeline-fire-evacuations-brookglen-spencer-highway-luella-canada/285-1967e745-6d8c-420e-ab56-a65e4d98a8e0)
+        
+        #### ['Devastating to see this in the back of my yard' | Residents near Deer Park pipeline fire watch anxiously](https://www.kagstv.com/article/news/local/la-porte-pipeline-fire-evacuations-brookglen-spencer-highway-luella-canada/285-1967e745-6d8c-420e-ab56-a65e4d98a8e0)
+        
     *  [![](https://media.kagstv.com/assets/KENS/images/dfd221e9-346c-45fe-b049-de11c376de4f/20240916T023752/dfd221e9-346c-45fe-b049-de11c376de4f_16x9.jpg) ![](https://media.kagstv.com/assets/KENS/images/dfd221e9-346c-45fe-b049-de11c376de4f/20240916T023752/dfd221e9-346c-45fe-b049-de11c376de4f_360x203.jpg)](https://www.kagstv.com/article/news/local/san-antonio-teen-dog-homeless-job-family-shelter-bee-pawsitive-husky-rescue-community/273-bd362dc5-e325-4f1e-893c-9a2366eff9f4)
         
         #### ['He's my son' | Homeless teen chooses to be with his dog on the streets, after shelter says he can't bring dog along](https://www.kagstv.com/article/news/local/san-antonio-teen-dog-homeless-job-family-shelter-bee-pawsitive-husky-rescue-community/273-bd362dc5-e325-4f1e-893c-9a2366eff9f4)
-        
-    *  [![](https://media.kagstv.com/assets/KAGS/images/d4418ebe-b34d-490c-b9b2-29d231419b62/d4418ebe-b34d-490c-b9b2-29d231419b62_16x9.jpg) ![](https://media.kagstv.com/assets/KAGS/images/d4418ebe-b34d-490c-b9b2-29d231419b62/d4418ebe-b34d-490c-b9b2-29d231419b62_360x203.jpg)](https://www.kagstv.com/article/news/local/csfd-receives-over-3-million-in-grants-to-staff-fire-station-no-7/499-acce8439-718e-4b93-b85c-166d8dd7b070)
-        
-        #### [College Station Fire Department receives $3.8 million grant to staff new fire station](https://www.kagstv.com/article/news/local/csfd-receives-over-3-million-in-grants-to-staff-fire-station-no-7/499-acce8439-718e-4b93-b85c-166d8dd7b070)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -86,7 +86,7 @@ Navigation
 
 Bryan, TX »
 
-85°
+94°
 
 ![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
