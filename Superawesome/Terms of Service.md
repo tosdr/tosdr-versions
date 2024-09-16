@@ -10,6 +10,7 @@
     * [Rich Media, Video and Display Advertising](https://www.superawesome.com/awesomeads-for-advertisers/)
     * [Influencer Marketing](https://www.superawesome.com/superawesome-creators/)
     * [Gaming Experiences](https://www.superawesome.com/superawesome-gaming/)
+    * [Awesome Intelligence](https://www.superawesome.com/awesome-intelligence/)
 * Certifications
     * [KidAware](https://www.superawesome.com/kidaware/)
     * [SafeFam](https://www.superawesome.com/safefam/)
@@ -36,6 +37,7 @@
     * [Rich Media, Video and Display Advertising](https://www.superawesome.com/awesomeads-for-advertisers/)
     * [Influencer Marketing](https://www.superawesome.com/superawesome-creators/)
     * [Gaming Experiences](https://www.superawesome.com/superawesome-gaming/)
+    * [Awesome Intelligence](https://www.superawesome.com/awesome-intelligence/)
 * Certifications
     * [KidAware](https://www.superawesome.com/kidaware/)
     * [SafeFam](https://www.superawesome.com/safefam/)
