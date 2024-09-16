@@ -180,8 +180,6 @@
 
 [Konrad Duden](https://www.duden.de/ueber_duden/konrad-duden)
 
-[Der neue Duden 2024 – ab jetzt erhältlich!](https://www.duden.de/duden-2024) [Der neue Duden 2024 – ab jetzt erhältlich!](https://www.duden.de/duden-2024) [Der neue Duden 2024 – ab jetzt erhältlich!](https://www.duden.de/duden-2024) [Der neue Duden 2024 – ab jetzt erhältlich!](https://www.duden.de/duden-2024) [Der neue Duden 2024 – ab jetzt erhältlich!](https://www.duden.de/duden-2024)
-
 Datenschutz­erklärung
 =====================
 
