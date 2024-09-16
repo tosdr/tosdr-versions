@@ -16,13 +16,12 @@ Popular products
 * [See all templates, courses, and services](https://foresight.is/products/)
 
 * [76k+ Downloads](https://foresight.is/users/)
-* [Updates 4](#)
+* [Updates 3](#)
     
     * [Changelog](https://foresight.is/changelog/)
     * [New website features](https://foresight.is/changelog/#2024-09-09-filters)
     * [Donations update](https://foresight.is/changelog/#2024-09-09-donations)
     * [New cap table tool features](https://foresight.is/changelog/#2024-09-04-cap-table-update)
-    * [New cap table courses live](https://foresight.is/changelog/#2024-08-31-new-cap-table-dates)
     
 * [Docs](https://foresight.is/docs/)
 
@@ -52,7 +51,7 @@ Close
 
 [Templates](https://foresight.is/templates) [Courses](https://foresight.is/courses) [Services](https://foresight.is/services)
 
-[About](https://foresight.is/hello/) [76k+ Downloads](https://foresight.is/users/) [Blog](https://foresight.is/blog/) [Changelog 4](https://foresight.is/changelog/) [Documentation 0](https://foresight.is/docs/) [Help](https://foresight.is/help/) [Talent](https://foresight.is/talent/) [Contact](https://foresight.is/contact/) [Home](https://foresight.is/)
+[About](https://foresight.is/hello/) [76k+ Downloads](https://foresight.is/users/) [Blog](https://foresight.is/blog/) [Changelog 3](https://foresight.is/changelog/) [Documentation 0](https://foresight.is/docs/) [Help](https://foresight.is/help/) [Talent](https://foresight.is/talent/) [Contact](https://foresight.is/contact/) [Home](https://foresight.is/)
 
 [Legal](https://foresight.is/legal/)
 
