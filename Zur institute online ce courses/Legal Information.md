@@ -15,7 +15,7 @@ Explore
 
 Open menu
 
-[Virtual EMDR Certificate Training / 30 CE credit hours trainingMore Info](https://www.zurinstitute.com/webinars/virtual-emdr-certificate-training/)
+[Helping Patients Make Better Decisions / A Live 2.5 CE credit hours webinarMore Info](https://www.zurinstitute.com/webinars/helping-patients-make-better-decisions-2/)
 
 [Course Catalog](https://www.zurinstitute.com/privacy-disclaimer-terms-of-use-dmca/# "Course Catalog")
 
