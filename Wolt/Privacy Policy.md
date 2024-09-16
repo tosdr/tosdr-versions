@@ -38,7 +38,7 @@ This Privacy Statement may be updated from time to time in order to reflect the 
 **1\. DATA CONTROLLERS**
 ------------------------
 
-This Privacy Statement applies to processing of personal data carried out by Wolt. Wolt is part of DoorDash, Inc., a technology company with an official address at 303 2nd St, Suite 800, San Francisco, CA 94107, USA. We form one team and sometimes we can decide together on processing of personal data.
+This Privacy Statement applies to processing of personal data carried out by Wolt. Wolt is part of DoorDash, Inc., a technology company with an official address at 303 2nd St, Suite 800, San Francisco, CA 94107, USA.
 
 In relation to the processing of personal data of Users in the below countries, Wolt Enterprises Oy and the local Wolt group company are acting as joint data controllers. This means that Wolt Enterprises Oy and the local Wolt group company together determine the purposes for and means by which personal data is processed. The country-specific joint controllers are listed below:
 
@@ -459,6 +459,10 @@ Follow us
 
 FinlandEnglishAccessibility
 
-[Accessibility Statement](https://explore.wolt.com/en/fin/accessibility-statement)[User Terms of Service](https://explore.wolt.com/en/fin/terms)[Privacy Statement](https://explore.wolt.com/en/fin/privacy)
+[Accessibility Statement](https://explore.wolt.com/en/fin/accessibility-statement)
+
+[User Terms of Service](https://explore.wolt.com/en/fin/terms)
+
+[Privacy Statement](https://explore.wolt.com/en/fin/privacy)
 
 © Wolt 2014-2024
