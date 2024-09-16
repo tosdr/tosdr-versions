@@ -361,11 +361,13 @@ The personal information we collect about you may include:
 
 2. contact information such as your address, email address, telephone number(s), and emergency contact details;
 
-3. sensitive information including racial or ethnic origin; political or religious affiliations; and sexual orientation or practices.
+3. sensitive information including racial or ethnic origin; political or religious affiliations; and sexual orientation or practices;
 
 4. financial information such as bank account details; Tax File Number (TFN) and superannuation information;
 
-5. images, audio and video of you.
+5. information in connection with services provided to you while you are an Alumni such as library usage;
+
+6. images, audio and video of you;
 
 ### When will your personal information be used or disclosed?
 
