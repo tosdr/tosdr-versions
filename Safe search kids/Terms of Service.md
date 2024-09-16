@@ -167,8 +167,6 @@ Share This Article
 
 [Scam Awareness Series - Part 1](https://www.safesearchkids.com/common-scams-to-be-aware-of-and-prepare-for-part-1/)
 
-[![](https://www.safesearchkids.com/wp-content/uploads/2024/08/phonsee-banner.jpg)](https://track.bzfrs.co/aff_c?offer_id=104&aff_id=14471)
-
 ### Parenting and Well-Being
 
 * [How Women’s Soccer Programs are Shaping the Future](https://www.safesearchkids.com/game-changers-how-womens-soccer-programs-are-shaping-the-future/)
