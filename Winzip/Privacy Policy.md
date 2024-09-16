@@ -314,7 +314,7 @@ For information pertaining to individuals in the People’s Republic of China pl
 
 ### 9\. Information for Residents of Japan
 
-For information pertaining to individuals located in Japan please click [here](https://www.winzip.com/en/legal/privacy/japan/).
+For information pertaining to individuals located in Japan please click [here](https://www.winzip.com/jp/legal/privacy/japan/).
 
 ### 10\. Notice for Ad Remover Customers
 
