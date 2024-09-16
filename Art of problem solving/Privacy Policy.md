@@ -61,7 +61,7 @@ Middle & High School
 
 [Online Classes: AoPS Online](https://artofproblemsolving.com/) [In-person: AoPS Academy](https://aopsacademy.org/)
 
-[Challenge your student](https://artofproblemsolving.com/school/schedule) with our math, computer science, contest, and science courses!
+Math competition season is approaching fast!  Have you [enrolled in a contest preparation class](https://artofproblemsolving.com/school/schedule)?
 
 JavaScript is not enabled. JavaScript is required to fully utilize the site.
 
