@@ -2,7 +2,7 @@
 
 [](#)
 
-[![THE BRICK](//www.thebrick.com/cdn/shop/t/802/assets/lazyPixel.png?v=40482922527014850811725379275)](https://www.thebrick.com/)
+[![THE BRICK](//www.thebrick.com/cdn/shop/t/804/assets/lazyPixel.png?v=40482922527014850811725905258)](https://www.thebrick.com/)
 
 [Furniture](https://www.thebrick.com/collections/furniture) [Mattresses](https://www.thebrick.com/collections/mattresses) [Home Decor](https://www.thebrick.com/collections/home-decor) [Appliances](https://www.thebrick.com/collections/appliances) [Electronics](https://www.thebrick.com/collections/electronics) [Outdoor](https://www.thebrick.com/collections/outdoor-living)
 
@@ -27,7 +27,7 @@ Your closest store based on
 
 Get Directions
 
-[View more stores](https://www.thebrick.com/apps/store-locator) 
+[View more stores](https://www.thebrick.com/pages/store-locator) 
 
 [Back to Menu](#)
 
@@ -66,7 +66,7 @@ Get Directions
 
 [Mattresses](https://www.thebrick.com/collections/mattresses) [Mattresses](https://www.thebrick.com/collections/mattress-store) [Mattress Sets](https://www.thebrick.com/collections/mattresses-mattress-sets) [Mattress in a Box](https://www.thebrick.com/collections/mattresses-mattress-in-a-box) [Boxsprings & Bases](https://www.thebrick.com/collections/mattresses-boxsprings-bases) [Accessories](https://www.thebrick.com/collections/mattresses-accessories) [Brands](#)
 
-* [![The Brick mattress store](//www.thebrick.com/cdn/shop/t/802/assets/lazyPixel.png?v=40482922527014850811725379275)](https://www.thebrick.com/pages/brick-mattress-store)
+* [![The Brick mattress store](//www.thebrick.com/cdn/shop/t/804/assets/lazyPixel.png?v=40482922527014850811725905258)](https://www.thebrick.com/pages/brick-mattress-store)
 
 [Back to Mattresses](#)
 
@@ -74,7 +74,7 @@ Get Directions
 
 [Back to Mattresses](#)
 
-[Mattress Sets](https://www.thebrick.com/collections/mattresses-mattress-sets) [All Mattresses Sets](https://www.thebrick.com/collections/mattresses-mattress-sets) [King](https://www.thebrick.com/collections/mattresses-mattress-sets-king-sets) [Queen](https://www.thebrick.com/collections/mattresses-mattress-sets-queen-sets) [Full](https://www.thebrick.com/collections/mattresses-mattress-sets-full-sets) [Twin](https://www.thebrick.com/collections/mattresses-mattress-sets-twin-sets)
+[Mattress Sets](https://www.thebrick.com/collections/mattresses-mattress-sets) [All Mattress Sets](https://www.thebrick.com/collections/mattresses-mattress-sets) [King](https://www.thebrick.com/collections/mattresses-mattress-sets-king-sets) [Queen](https://www.thebrick.com/collections/mattresses-mattress-sets-queen-sets) [Full](https://www.thebrick.com/collections/mattresses-mattress-sets-full-sets) [Twin](https://www.thebrick.com/collections/mattresses-mattress-sets-twin-sets)
 
 [Back to Mattresses](#)
 
@@ -218,7 +218,7 @@ Seller Name
 * [Contact Us](https://www.thebrick.com/pages/contact-us)
 * [Français](https://www.brickenligne.com/pages/privacy-policy)
 
-[![THE BRICK](//www.thebrick.com/cdn/shop/t/802/assets/Brick-logo-en.svg?v=144201696812184966561725379240)](https://www.thebrick.com/)
+[![THE BRICK](//www.thebrick.com/cdn/shop/t/804/assets/Brick-logo-en.svg?v=144201696812184966561725905224)](https://www.thebrick.com/)
 
  
 
@@ -439,7 +439,7 @@ Join the Conversation
 Customer Service
 ----------------
 
-[Contact Us](https://www.thebrick.com/pages/contact-us) [Help Centre](https://www.thebrick.com/pages/help-centre) [Store Locator](https://www.thebrick.com/apps/store-locator) [Stores Listing](https://www.thebrick.com/pages/stores-listing) [The Brick Financing](https://www.thebrick.com/pages/financing) [Gift Card Purchase](https://www.thebrick.com/pages/egift-card) [Check Gift Card Balance](https://www.thebrick.com/pages/egift-card-check-balance) [Trans Global Insurance](http://transglobalinsurance.ca/)[Price Guarantee](https://www.thebrick.com/pages/holiday-price-guarantee) [Returns and Exchanges](https://www.thebrick.com/pages/satisfaction-guarantee) [Accessible Customer Service Policy for Manitoba](https://www.thebrick.com/pages/accessible-customer-service-policy-for-manitoba)[Warranties and Protection Plans](https://www.thebrick.com/pages/warranties-and-protection-plans) [Installation and Assembly](https://www.thebrick.com/pages/installation-and-assembly) [Appliance and Electronics Repairs](http://transglobalservice.com/) [Shipping and Delivery](https://www.thebrick.com/pages/shipping-and-delivery)[Delivery Tracking](https://bit.ly/3LQs8CZEN) [Removal and Recycling](https://www.thebrick.com/pages/removal-and-recycling) [Complete Your Payment](https://www.thebrick.com/pages/complete-your-payment)
+[Contact Us](https://www.thebrick.com/pages/contact-us) [Help Centre](https://www.thebrick.com/pages/help-centre) [Store Locator](https://www.thebrick.com/pages/store-locator) [Stores Listing](https://www.thebrick.com/pages/stores-listing) [The Brick Financing](https://www.thebrick.com/pages/financing) [Gift Card Purchase](https://www.thebrick.com/pages/egift-card) [Check Gift Card Balance](https://www.thebrick.com/pages/egift-card-check-balance) [Trans Global Insurance](http://transglobalinsurance.ca/)[Price Guarantee](https://www.thebrick.com/pages/holiday-price-guarantee) [Returns and Exchanges](https://www.thebrick.com/pages/satisfaction-guarantee) [Accessible Customer Service Policy for Manitoba](https://www.thebrick.com/pages/accessible-customer-service-policy-for-manitoba)[Warranties and Protection Plans](https://www.thebrick.com/pages/warranties-and-protection-plans) [Installation and Assembly](https://www.thebrick.com/pages/installation-and-assembly) [Appliance and Electronics Repairs](http://transglobalservice.com/) [Shipping and Delivery](https://www.thebrick.com/pages/shipping-and-delivery)[Delivery Tracking](https://bit.ly/3LQs8CZEN) [Removal and Recycling](https://www.thebrick.com/pages/removal-and-recycling) [Complete Your Payment](https://www.thebrick.com/pages/complete-your-payment)
 
 Company Information
 -------------------
@@ -448,11 +448,11 @@ Company Information
 
 We accept:
 
-* ![flexiti card.](//www.thebrick.com/cdn/shop/t/802/assets/lazyPixel.png?v=40482922527014850811725379275)
-* ![visa card.](//www.thebrick.com/cdn/shop/t/802/assets/lazyPixel.png?v=40482922527014850811725379275)
-* ![visa debit card.](//www.thebrick.com/cdn/shop/t/802/assets/lazyPixel.png?v=40482922527014850811725379275)
-* ![AmericanExpress.](//www.thebrick.com/cdn/shop/t/802/assets/lazyPixel.png?v=40482922527014850811725379275)
-* ![Mastercard.](//www.thebrick.com/cdn/shop/t/802/assets/lazyPixel.png?v=40482922527014850811725379275)
+* ![flexiti card.](//www.thebrick.com/cdn/shop/t/804/assets/lazyPixel.png?v=40482922527014850811725905258)
+* ![visa card.](//www.thebrick.com/cdn/shop/t/804/assets/lazyPixel.png?v=40482922527014850811725905258)
+* ![visa debit card.](//www.thebrick.com/cdn/shop/t/804/assets/lazyPixel.png?v=40482922527014850811725905258)
+* ![AmericanExpress.](//www.thebrick.com/cdn/shop/t/804/assets/lazyPixel.png?v=40482922527014850811725905258)
+* ![Mastercard.](//www.thebrick.com/cdn/shop/t/804/assets/lazyPixel.png?v=40482922527014850811725905258)
 
 Prices on this website are for online purchases only. Prices in-store may differ.
 
