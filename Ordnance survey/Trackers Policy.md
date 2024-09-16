@@ -57,11 +57,11 @@
     
     Shop
     
-    [Visit our shop](https://shop.ordnancesurvey.co.uk/)[Maps](https://shop.ordnancesurvey.co.uk/maps/)[Custom made maps](https://shop.ordnancesurvey.co.uk/custom-made/)[OS Maps subscriptions](https://shop.ordnancesurvey.co.uk/maps/os-maps-subscriptions/)
+    [Visit our shop](https://shop.ordnancesurvey.co.uk/)[Maps](https://shop.ordnancesurvey.co.uk/maps/)[Custom made maps](https://shop.ordnancesurvey.co.uk/custom-made/)[Christmas gifts](https://shop.ordnancesurvey.co.uk/christmas/)[OS Maps subscriptions](https://shop.ordnancesurvey.co.uk/maps/os-maps-subscriptions/)
     
     Go to
     
-    [OS Maps](https://explore.osmaps.com/)
+    [OS Maps](https://explore.osmaps.com/)[OS GetOutside blog](https://getoutside.ordnancesurvey.co.uk/)
     
 
 search
