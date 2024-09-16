@@ -223,9 +223,7 @@ The University of South Dakota (USD) is committed to ensuring equal access for i
 
 Cheryl Tiahrt, Chief Information Officer, [Cheryl.Tiahrt@usd.edu](mailto:Cheryl.Tiahrt@usd.edu)  605-658-6000
 
-Disability Services, [disabilityservices@usd.edu](mailto:disabilityservices@usd.edu) 605-658-3745
-
-Digital Accessibility, [udl@usd.edu](mailto:udl@usd.edu) 605-677-5411
+Office of Accessibillity, [accessibility@usd.edu](mailto:accessibility@usd.edu) 605-658-3745 
 
 [![USD logo in white](/-/media/Themes/USD/DotEdu/DotEdu/images/logo-white.svg?rev=ddd45cabe4fc46f589fdc1ec0cf25745&la=en&hash=CFBA48E4DCD72819E0B921C47486BD67)](https://www.usd.edu/)
 
