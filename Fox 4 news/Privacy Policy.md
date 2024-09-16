@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Trump assassination attempt suspect's son says dad hated Trump, 'not a violent person'](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/Trump-International-Golf-Club.jpg?ve=1&tl=1)
+ [![Lyft unveils feature to help riders avoid surge pricing](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/Lyft-car.jpg?ve=1&tl=1)
 
- ![Trump assassination attempt suspect's son says dad hated Trump, 'not a violent person'](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/Trump-International-Golf-Club.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-assassination-attempt-suspect-son-dad-not-violent)
+ ![Lyft unveils feature to help riders avoid surge pricing](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/Lyft-car.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/lyft-feature-riders-surge-pricing)
 
-### [Trump assassination attempt suspect's son says dad hated Trump, 'not a violent person'](https://www.fox4news.com/news/trump-assassination-attempt-suspect-son-dad-not-violent)
+### [Lyft unveils feature to help riders avoid surge pricing](https://www.fox4news.com/news/lyft-feature-riders-surge-pricing)
 
- [![Trump's apparent assassination attempt at Florida golf course: What we know so far](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-2172255079.jpg?ve=1&tl=1)
+ [![New bill would ban sports betting ads during games, bets on college athletes](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/nfl-getty.jpg?ve=1&tl=1)
 
- ![Trump's apparent assassination attempt at Florida golf course: What we know so far](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-2172255079.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-assassination-attempt-golf-course-what-we-know)
+ ![New bill would ban sports betting ads during games, bets on college athletes](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/nfl-getty.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/new-bill-ban-sports-betting-ads-games-bets-college-athletes)
 
-### [Trump's apparent assassination attempt at Florida golf course: What we know so far](https://www.fox4news.com/news/trump-assassination-attempt-golf-course-what-we-know)
+### [New bill would ban sports betting ads during games, bets on college athletes](https://www.fox4news.com/news/new-bill-ban-sports-betting-ads-games-bets-college-athletes)
 
- [![Hawaiian ahi poke recipe from Pacific Table](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/091624-Chef-Graham-Elliot-Cam7-KDFWEME001_09_48_10_00.10.46.52.jpg?ve=1&tl=1)
+ [![How to register to vote in Texas](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2020/11/32/18/GettyImages-1210216546.jpg?ve=1&tl=1)
 
- ![Hawaiian ahi poke recipe from Pacific Table](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/091624-Chef-Graham-Elliot-Cam7-KDFWEME001_09_48_10_00.10.46.52.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hawaiian-ahi-poke-recipe-from-pacific-table)
+ ![How to register to vote in Texas](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2020/11/32/18/592/333/GettyImages-1210216546.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/register-vote-texas-2024-election)
 
-### [Hawaiian ahi poke recipe from Pacific Table](https://www.fox4news.com/news/hawaiian-ahi-poke-recipe-from-pacific-table)
+### [How to register to vote in Texas](https://www.fox4news.com/news/register-vote-texas-2024-election)
 
- [![Tropical Cyclone 8 moves towards Carolinas, may become Tropical Storm Helene](https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/09/32/18/download-32.png?ve=1&tl=1)
+ [![WATCH: Body cam video shows deputies arresting Ryan Routh, alleged suspect in Trump assassination attempt](https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/09/32/18/0CE2B23787EFBDF5A8ECC8AA224D57E8.jpg?ve=1&tl=1)
 
- ![Tropical Cyclone 8 moves towards Carolinas, may become Tropical Storm Helene](https://images.foxtv.com/images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/09/32/18/592/333/download-32.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/weather/tropical-cyclone-8-tropical-storm-helene-flooding)
+ ![WATCH: Body cam video shows deputies arresting Ryan Routh, alleged suspect in Trump assassination attempt](https://images.foxtv.com/images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/09/32/18/592/333/0CE2B23787EFBDF5A8ECC8AA224D57E8.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/watch-body-cam-video-shows-deputies-arresting-ryan-routh-alleged-suspect-trump-assassination-attempt)
 
-### [Tropical Cyclone 8 moves towards Carolinas, may become Tropical Storm Helene](https://www.fox4news.com/weather/tropical-cyclone-8-tropical-storm-helene-flooding)
+### [WATCH: Body cam video shows deputies arresting Ryan Routh, alleged suspect in Trump assassination attempt](https://www.fox4news.com/news/watch-body-cam-video-shows-deputies-arresting-ryan-routh-alleged-suspect-trump-assassination-attempt)
 
- [![Titan submersible Coast Guard hearings begin this week](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-1258956250-scaled.jpg?ve=1&tl=1)
+ [![LIVE: La Porte pipeline fire near Spencer Highway causes road closures, evacuations](https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/09/32/18/CaptureWEWWSW.jpg?ve=1&tl=1)
 
- ![Titan submersible Coast Guard hearings begin this week](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-1258956250-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/titan-submersible-implosion-hearing-live-coast-guard)
+ ![LIVE: La Porte pipeline fire near Spencer Highway causes road closures, evacuations](https://images.foxtv.com/images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/09/32/18/592/333/CaptureWEWWSW.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/la-porte-pipeline-fire-near-spencer-highway-causes-road-closures-evacuations)
 
-### [Coast Guard hearings begin on doomed Titan submersible](https://www.fox4news.com/news/titan-submersible-implosion-hearing-live-coast-guard)
+### [LIVE: La Porte pipeline fire near Spencer Highway causes road closures, evacuations](https://www.fox4news.com/news/la-porte-pipeline-fire-near-spencer-highway-causes-road-closures-evacuations)
 
 ###### [News](https://www.fox4news.com/news)
 
