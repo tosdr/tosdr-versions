@@ -40,7 +40,7 @@ Search for product
     
     Dallas
     
-    Opens at 10AM
+    Open until 9PM
     
     ![get store info](https://60a99bedadae98078522-a9b6cded92292ef3bace063619038eb1.ssl.cf2.rackcdn.com/chevron-downWhite.svg)
     
@@ -88,7 +88,7 @@ Search for product
         
         Questions? Text or call
         
-        Closed
+        Open Now
         
         Mon - Sat 10 to 9, Sun 11 to 6
         
@@ -1070,6 +1070,7 @@ Product category, brand navigation and general site naviation
     * [Laptop Screen Replacement](https://www.microcenter.com/product/607202/laptop-screen-repair-service)
     * [Apple Certified Repair](https://www.microcenter.com/site/service/apple-repair.aspx)
     * [GPU Trade-in Program](https://www.microcenter.com/site/content/trade-in-landing.aspx)
+    * [Virus Removal](https://www.microcenter.com/site/service/instore-service-virus-removal.aspx)
     * [Data Recovery](https://www.microcenter.com/site/service/instore-service-hdd-data-recovery.aspx)
     * [Custom Built PCs](https://www.microcenter.com/site/service/instore-service-complete-build.aspx)
     * [Service FAQs](https://www.microcenter.com/site/service/service.aspx#faq)
