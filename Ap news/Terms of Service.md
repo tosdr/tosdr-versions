@@ -277,13 +277,13 @@ Show Search
 * Copyright 2024 The Associated Press. All Rights Reserved.
     
 
-[Donald Trump](https://apnews.com/live/trump-shooting-west-palm-beach-updates)
+[Live updates: Donald Trump](https://apnews.com/live/trump-shooting-west-palm-beach-updates)
 
 [Emmy winners: Full list](https://apnews.com/article/2024-emmy-awards-winners-list-f5c4451fae5cf7d702281aaa41f9177a)
 
 [Tito Jackson dies](https://apnews.com/article/tito-jackson-dead-jackson-5-03d6bfb14b84b27d99f9c26411d83a8a)
 
-[Europe floods](https://apnews.com/article/central-europe-floods-poland-czech-e9501517da041fda946454f875dc890c)
+[Analysis: NFL Sunday](https://apnews.com/article/mahomes-butker-minshew-carr-prescott-kamara-shaheed-purdy-goff-66936841731534b22d6270ad6f176337)
 
 [AP Top 25](https://apnews.com/article/ap-top-25-50179e2ca80290fc81919aadbab2a593)
 
