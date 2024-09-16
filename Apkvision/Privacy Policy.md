@@ -5,8 +5,8 @@
 * [Home](https://apkvision.com/)
 * [Games](https://apkvision.org/games/)
 * [Apps](https://apkvision.org/app/)
-* [News](https://apkvision.org/news/)
-* [TOP 100](https://apkvision.org/top-100-games/)
+* [MOD APK](https://apkvision.org/mod/)
+* [Request](https://apkvision.org/request/)
 
 Dark mode
 
@@ -61,7 +61,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using [this form](https://apkvision.org/contacts/).
 
-© 2024 APKVISION.ORG | [Send Request](https://apkvision.org/request/)
+© 2015 - 2024 APKVISION.ORG
 
 * [TERMS](https://apkvision.org/terms-of-service/)
 * [PRIVACY POLICY](https://apkvision.org/privacy-policy/)
