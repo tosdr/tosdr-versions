@@ -1,4 +1,4 @@
-[![Mix](/logo_white.svg)](https://mix.com/)
+[![Mix](/logo_black.svg)](https://mix.com/)
 
 Get the app
 
@@ -8,7 +8,8 @@ Get the app
 
 © 2024 - Mix is an [Expa](https://expa.com/) company
 
-#### Privacy Policy
+Privacy Policy
+==============
 
 LAST UPDATED: September 15, 2023
 
