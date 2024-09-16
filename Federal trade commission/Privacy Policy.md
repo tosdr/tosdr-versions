@@ -224,9 +224,9 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC Announces Tentative Agenda for September 19 Open Commission Meeting](https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-announces-tentative-agenda-september-19-open-commission-meeting)
+    ### [FTC Sends More Than $2.6 Million to Consumers Harmed by FloatMe’s Deceptive and Discriminatory Lending Practices](https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-sends-more-26-million-consumers-harmed-floatmes-deceptive-discriminatory-lending-practices)
     
-    September 12, 2024
+    September 16, 2024
     
     [View News and Events](https://www.ftc.gov/news-events)
     
