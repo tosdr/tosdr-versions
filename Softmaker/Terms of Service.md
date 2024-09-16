@@ -28,17 +28,8 @@
 * [My account](https://www.softmaker.com/en/my-account)
 * [![Cart](https://eshop.softmaker.com/cart-image)](https://www.softmaker.com/en/shopping-cart)
 
- [![English](/media/mod_falang/images/en_gb.gif "English")English](javascript:;)
-
-*  [![Deutsch](/media/mod_falang/images/de_de.gif "Deutsch")Deutsch](http://www.softmaker.de/allgemeine-geschaeftsbedingungen)
-*  [![Français](/media/mod_falang/images/fr_fr.gif "Français")Français](https://www.softmaker.com/fr/conditions-generales)
-*  [![Italiano](/media/mod_falang/images/it_it.gif "Italiano")Italiano](https://www.softmaker.com/it/termini-e-condizioni-generali)
-*  [![Español](/media/mod_falang/images/es_es.gif "Español")Español](https://www.softmaker.com/es/terminos-generales-y-condiciones)
-*  [![Português](/media/mod_falang/images/pt_br.gif "Português")Português](https://www.softmaker.com/pt/termos-e-condicoes-gerais)
-*  [![Nederlands](/media/mod_falang/images/nl_nl.gif "Nederlands")Nederlands](https://www.softmaker.com/nl/algemene-voorwaarden)
-*  [![Svenska](/media/mod_falang/images/sv_se.gif "Svenska")Svenska](https://www.softmaker.com/sv/allmanna-villkor)
-*  [![Polski](/media/mod_falang/images/pl_pl.gif "Polski")Polski](https://www.softmaker.com/pl/ogolne-warunki-i-postanowienia)
-*  [![Русский](/media/mod_falang/images/ru_ru.gif "Русский")Русский](https://www.softmaker.com/ru/general-terms-and-conditions)
+* [My account](https://www.softmaker.com/en/my-account)
+* [![Cart](https://eshop.softmaker.de/cart-image)](https://www.softmaker.com/en/shopping-cart)
 
  [![English](/media/mod_falang/images/en_gb.gif "English")](javascript:;)
 
