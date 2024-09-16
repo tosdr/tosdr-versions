@@ -411,11 +411,11 @@ _A equipe do POSTGRAIN lhe deseja uma excelente navegação!_
 
 ### Última do blog
 
-[![](https://postgrain.com/wp-content/uploads/2024/09/THUMB-BLOG-Sazonais-para-Vender-Mais-no-Final-do-Ano-580x290.jpg)](https://postgrain.com/?post_type=post&p=12547)
+[![BlueSky Social - a imagem que ilustra o tema tem o fundo degradê nas cores azul e branco e, no meio, em destaque, tem o logotipo da rede social BlueSky com o ícone da borboleta na cor branca ao lado.](https://postgrain.com/wp-content/uploads/2024/09/THUMB-BLOG-BlueSky-Social-a-nova-rede-social-dos-brasileiros-580x290.jpg)](https://postgrain.com/?post_type=post&p=12554)
 
-[Datas Sazonais para Vender Mais no Final do Ano: Confira todas!](https://postgrain.com/?post_type=post&p=12547)
+[BlueSky Social: A Nova Rede Social dos Brasileiros \[2024\]](https://postgrain.com/?post_type=post&p=12554)
 
-[Leia mais](https://postgrain.com/?post_type=post&p=12547)
+[Leia mais](https://postgrain.com/?post_type=post&p=12554)
 
 Ilustração de um dos personagens do Postgrain
 
