@@ -393,4 +393,4 @@ Login
 * [Blackboard](https://blackboard.syr.edu/)
 * [MySlice](https://myslice.syr.edu/)
 
-          ![Overhead photo of campus features the Hall of Languages.](/images/-lNgH1USjsbrCL2H55GfeU_s6mg=/3903/width-1300/FooterImageV3.jpg)
+          ![Overhead photo of campus features the Hall of Languages.](/images/9X0SuhJmZx4eiVevi5bfKOd0zbU=/5206/width-1300/footer-image-for-fall-24.jpg)
