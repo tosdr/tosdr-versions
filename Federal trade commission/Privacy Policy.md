@@ -233,11 +233,11 @@ Main Menu Mega
     Upcoming Event
     --------------
     
-    Sep19
+    Sep18
     
-    ### [Open Commission Meeting - September 19, 2024](https://www.ftc.gov/news-events/events/2024/09/open-commission-meeting-september-19-2024)
+    ### [Chair Khan to appear at Aspen Institute Cybersecurity Summit](https://www.ftc.gov/news-events/events/2024/09/chair-khan-appear-aspen-institute-cybersecurity-summit)
     
-    Thursday, September 19, 2024 | 11:00AM - 1:00PM
+    Wednesday, September 18, 2024 | 4:20PM - 5:20PM
     
     [View more Events](https://www.ftc.gov/news-events/events)
     
