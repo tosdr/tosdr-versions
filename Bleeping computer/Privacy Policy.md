@@ -23,19 +23,22 @@
     * [Featured](#nfeatured)
     * [Latest](#nlatest)
     
-    * [![Fake password manager coding test used to hack Python developers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Windows vulnerability abused braille “spaces” in zero-day attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Fake password manager coding test used to hack Python developers](https://www.bleepingcomputer.com/news/security/fake-password-manager-coding-test-used-to-hack-python-developers/)
-    * [![Fortinet confirms data breach after hacker claims to steal 440GB of files](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Windows vulnerability abused braille “spaces” in zero-day attacks](https://www.bleepingcomputer.com/news/security/windows-vulnerability-abused-braille-spaces-in-zero-day-attacks/)
+    * [![TfL requires in-person password resets for 30,000 employees after hack](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Fortinet confirms data breach after hacker claims to steal 440GB of files](https://www.bleepingcomputer.com/news/security/fortinet-confirms-data-breach-after-hacker-claims-to-steal-440gb-of-files/)
-    * [![Hackers targeting WhatsUp Gold with public exploit since August](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        TfL requires in-person password resets for 30,000 employees after hack](https://www.bleepingcomputer.com/news/security/tfl-requires-in-person-password-resets-for-30-000-employees-after-hack/)
+    * [![23andMe to pay $30 million in genetics data breach settlement](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Hackers targeting WhatsUp Gold with public exploit since August](https://www.bleepingcomputer.com/news/security/hackers-targeting-whatsup-gold-with-public-exploit-since-august/)
-    * [![FBI: Reported cryptocurrency losses reached $5.6 billion in 2023](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        23andMe to pay $30 million in genetics data breach settlement](https://www.bleepingcomputer.com/news/security/23andme-to-pay-30-million-in-genetics-data-breach-settlement/)
+    * [![Port of Seattle hit by Rhysida ransomware in August attack](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        FBI: Reported cryptocurrency losses reached $5.6 billion in 2023](https://www.bleepingcomputer.com/news/security/fbi-reported-cryptocurrency-losses-reached-56-billion-in-2023/)
+        Port of Seattle hit by Rhysida ransomware in August attack](https://www.bleepingcomputer.com/news/security/port-of-seattle-says-rhysida-ransomware-was-behind-august-attack/)
     
+    * [![D-Link fixes critical RCE, hardcoded password flaws in WiFi 6 routers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        D-Link fixes critical RCE, hardcoded password flaws in WiFi 6 routers](https://www.bleepingcomputer.com/news/security/d-link-fixes-critical-rce-hardcoded-password-flaws-in-wifi-6-routers/)
     * [![Get hands-on cybersecurity training in this $30 course bundle](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Get hands-on cybersecurity training in this $30 course bundle](https://www.bleepingcomputer.com/offer/deals/get-hands-on-cybersecurity-training-in-this-30-course-bundle/)
@@ -45,9 +48,6 @@
     * [![Get unbeatable value with a Sam’s Club membership for just $15](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Get unbeatable value with a Sam’s Club membership for just $15](https://www.bleepingcomputer.com/offer/deals/get-unbeatable-value-with-a-sams-club-membership-for-just-15/)
-    * [![FBI tells public to ignore false claims of hacked voter data](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        FBI tells public to ignore false claims of hacked voter data](https://www.bleepingcomputer.com/news/security/fbi-tells-public-to-ignore-false-claims-of-hacked-voter-data/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -442,15 +442,19 @@ Popular Stories
 * [![Kiosk](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Malware locks browser in kiosk mode to steal Google credentials](https://www.bleepingcomputer.com/news/security/malware-locks-browser-in-kiosk-mode-to-steal-google-credentials/)
-* [![Windows red](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Windows vulnerability abused braille “spaces” in zero-day attacks](https://www.bleepingcomputer.com/news/security/windows-vulnerability-abused-braille-spaces-in-zero-day-attacks/)
 * [![CISA](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     FBI tells public to ignore false claims of hacked voter data](https://www.bleepingcomputer.com/news/security/fbi-tells-public-to-ignore-false-claims-of-hacked-voter-data/)
+* [![D-Link](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    D-Link fixes critical RCE, hardcoded password flaws in WiFi 6 routers](https://www.bleepingcomputer.com/news/security/d-link-fixes-critical-rce-hardcoded-password-flaws-in-wifi-6-routers/)
 
 Latest forum topics
 
+* [Introduction](https://www.bleepingcomputer.com/forums/t/801230/introduction/)
+    
+    [badger1066](https://www.bleepingcomputer.com/forums/u/1323104/badger1066/) in [Introductions](https://www.bleepingcomputer.com/forums/f/64/introductions/)
+    
 * [Files encrypted with .AJYZZ38OG file ext (LockBit 3 Black)](https://www.bleepingcomputer.com/forums/t/801227/files-encrypted-with-ajyzz38og-file-ext-lockbit-3-black/)
     
     [Phillabs](https://www.bleepingcomputer.com/forums/u/1323092/phillabs/) in [Ransomware Help & Tech Support](https://www.bleepingcomputer.com/forums/f/239/ransomware-help-tech-support/)
@@ -458,10 +462,6 @@ Latest forum topics
 * [Startup repair loop after malware removal](https://www.bleepingcomputer.com/forums/t/801226/startup-repair-loop-after-malware-removal/)
     
     [levana9393](https://www.bleepingcomputer.com/forums/u/1323088/levana9393/) in [Virus, Trojan, Spyware, and Malware Removal Help](https://www.bleepingcomputer.com/forums/f/22/virus-trojan-spyware-and-malware-removal-help/)
-    
-* [Browser Search Bar Went Dark](https://www.bleepingcomputer.com/forums/t/801225/browser-search-bar-went-dark/)
-    
-    [R2Beep2](https://www.bleepingcomputer.com/forums/u/1105437/r2beep2/) in [Web Browsing/Email and Other Internet Applications](https://www.bleepingcomputer.com/forums/f/14/web-browsingemail-and-other-internet-applications/)
     
 
 Latest virus removal guides
@@ -516,7 +516,7 @@ Latest Downloads
     
     Version: 1.33.075
     
-    **55,389 _Downloads_**
+    **55,392 _Downloads_**
     
 * ![PuTTY Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -524,7 +524,7 @@ Latest Downloads
     
     Version: 0.81
     
-    **43,310 _Downloads_**
+    **43,315 _Downloads_**
     
 * ![BitDefender Uninstall Tool Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -532,7 +532,7 @@ Latest Downloads
     
     Version: NA
     
-    **104,251 _Downloads_**
+    **104,253 _Downloads_**
     
 
 ##### Follow us:
