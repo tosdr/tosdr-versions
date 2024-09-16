@@ -264,7 +264,7 @@ von Ihnen abgerufen und ausgedruckt werden.
 * [YOC Universal Display Solution](https://yoc.com/products/yoc-universal-display-solution)
 * [YOC Universal Video Solution](https://yoc.com/products/yoc-universal-video-solution)
 * [YOC Mystery Ad®](https://yoc.com/products/yoc-mystery-ad)
-* [YOC Understitial Ad®](https://yoc.com/products/understitial-ad)
+* [YOC Unterstitial Ad®](https://yoc.com/products/understitial-ad)
 * [YOC Mystery Scroller®](https://yoc.com/products/yoc-mystery-scroller)
 * [YOC Branded Takeover](https://yoc.com/products/yoc-branded-takeover-)
 * [YOC Skin](https://yoc.com/products/yoc-skin)
@@ -305,7 +305,7 @@ von Ihnen abgerufen und ausgedruckt werden.
 
 ![logo-dark](https://yoc.com/media/yoc logo-1.svg)
 
-[Datenschutzerklärung](https://yoc.com/privacy)[Kontakt](https://yoc.com/kontakt)[Impressum](https://yoc.com/imprint)[Login](https://hub.yoc.com/)
+[Datenschutzerklärung](https://yoc.com/legal)[Kontakt](https://yoc.com/kontakt)[Impressum](https://yoc.com/impressum)[Login](https://hub.yoc.com/)
 
 [![linkedin](https://yoc.com/media/Vector.svg)](https://www.linkedin.com/company/38324)[![instagram](https://yoc.com/media/Social Icons.svg)](https://www.instagram.com/yoc_group/)[![youtube](https://yoc.com/media/Vector-1.svg)](https://www.youtube.com/@YOCgroup)[![facebook](https://yoc.com/media/Vector-2.svg)](https://www.facebook.com/YOCGroup)
 
@@ -323,7 +323,7 @@ Newsletter
 
 ### Investor Relations
 
-[Datenschutzerklärung](https://yoc.com/privacy)[Kontakt](https://yoc.com/kontakt)[Impressum](https://yoc.com/imprint)[Login](https://hub.yoc.com/)
+[Datenschutzerklärung](https://yoc.com/legal)[Kontakt](https://yoc.com/kontakt)[Impressum](https://yoc.com/impressum)[Login](https://hub.yoc.com/)
 
 Newsletter
 
