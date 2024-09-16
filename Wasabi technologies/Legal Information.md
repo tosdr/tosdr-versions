@@ -26,13 +26,15 @@ Wasabi Privacy Policy
   
   
 
-[Company](https://wasabi.com/legal/privacy-policy?_hsenc=p2ANqtz--hnVcI47wJs6HpyRziUKJ_hNVxEKFRiEzoW8K9Eft3BWL6d5CbyPnG0hpFhAFlbFEzKNWvpxOA3JkAJlxve858WAqWaw&_hsmi=84987810#)
+[Company](https://wasabi.com/legal/privacy-policy#)
 
 * [About Wasabi](https://wasabi.com/company)
     
 * [Storage Regions](https://wasabi.com/company/storage-regions)
     
 * [Newsroom](https://wasabi.com/company/newsroom)
+    
+* [Press Releases](https://wasabi.com/company/newsroom/press-releases)
     
 * [Leadership Team](https://wasabi.com/company/leadership)
     
@@ -81,7 +83,7 @@ Popular
 * [System Status](https://status.wasabi.com/)
     
 
-[![Wasabi Logo Secondary](/_next/image?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1019449%2F1148x270%2F00676e941d%2Fsecondary-logo-knockout-rgb.png%2Fm%2F172x0%2Ffilters%3Aquality(50)&w=3840&q=75)](https://wasabi.com/)
+[![Wasabi Logo Secondary](/_next/image?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1019449%2F1148x270%2F00676e941d%2Fsecondary-logo-knockout-rgb.png%2Fm%2F172x0%2Ffilters%3Aquality(50)&w=1200&q=75)](https://wasabi.com/)
 
 © 2024 Wasabi Technologies
 
