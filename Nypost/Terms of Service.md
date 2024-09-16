@@ -76,9 +76,9 @@ Search
 
 Search
 
-#### Breaking News
+#### Live updates
 
-[Tito Jackson, member of the Jackson 5 and brother of Michael and Janet, dead at 70](https://nypost.com/2024/09/16/entertainment/tito-jackson-brother-of-michael-jackson-and-jackson-5-member-dead-at-70/)
+[Neighbor of Trump shooting suspect says he was 'a little cuckoo': 'People were afraid of him'](https://nypost.com/2024/09/15/us-news/shots-fired-near-trump-live-updates-reactions-photos-more/)
 
 Terms Of Use
 ============
