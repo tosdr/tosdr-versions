@@ -177,7 +177,7 @@ Main navigation
             
         * Company size
             
-            * [Start-up](https://www.usertesting.com/solutions/company-size/startups)
+            * [Startup](https://www.usertesting.com/solutions/company-size/startups)
                 
             * [Small business](https://www.usertesting.com/solutions/company-size/small-businesses)
                 
@@ -217,6 +217,14 @@ Main navigation
     
     * Featured Card
         
+        * Canva
+            
+            See how Canva uses human insight to make design accessible to everyone.
+            
+            [Learn More](https://www.usertesting.com/resources/customers/canva)
+            
+              ![UserTesting customer logos in white](https://usertesting.widen.net/content/pxj0wj143k/webp/LOGO-2023-customer-Canva-white-224x72.png?w=120)
+            
         * Adobe Photoshop
             
             "UserTesting makes getting feedback from a wide range of users fast and easy for us at Adobe"
