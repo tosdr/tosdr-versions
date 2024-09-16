@@ -19,7 +19,7 @@
 * [Reddit](https://www.reddit.com/r/PinballFX3/)
 * [Twitch](https://www.twitch.tv/zenstudios)
 
-[![The Princess Bride Pinball](https://zensite.wpenginepowered.com/wp-content/uploads/2024/08/3840-2160-max-15-scaled.jpg)](https://zenstudios.com/games/the-princess-bride-pinball/)
+[![Goat Simulator Pinball](https://zensite.wpenginepowered.com/wp-content/uploads/2024/07/Goat_Simulator_keyart_4K_16_9_mod-scaled.jpg)](https://zenstudios.com/games/goat-simulator-pinball/)
 
 * [YouTube](http://www.youtube.com/user/zenstudiosgames)
 * [Instagram](http://instagram.com/zen_studios)
@@ -708,7 +708,7 @@ Stay Connected
 * [Reddit](https://www.reddit.com/r/PinballFX3/)
 * [Twitch](https://www.twitch.tv/zenstudios)
 
-© 2006-2024 [Zen Studios Ltd.](https://zenstudios.com/) All rights reserved. Zen Studios is a part of the Embracer Group
+© 2006-2024 [Home of the Best Pinball Games and Exciting DLCs](https://zenstudios.com/) All rights reserved. Zen Studios is a part of the Embracer Group
 
 * [Legal Notices](https://zenstudios.com/legal-notices/)
 * [EULA](https://zenstudios.com/eula/)
