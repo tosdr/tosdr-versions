@@ -262,7 +262,7 @@ Trademarks
 
 All third party trademarks are owned by their respective entities and used with their permission. If you are the owner of a trademark and you believe it is being used in an unauthorized manner, please contact hello@hostedscan.com.
 
-### Trusted by these companies and 1000s more
+### Trusted by teams who require high-quality scans at speed
 
 ![BbAmericas](/customers/v2/bb-americas-dark.svg)
 
@@ -368,9 +368,9 @@ All third party trademarks are owned by their respective entities and used with 
 
 ![BbAmericas](/customers/v2/bb-americas-dark.svg)
 
-### Sign up to get started
+### See the Power of HostedScan
 
-HostedScan is 100% read-only, and will never make any modifications to your servers.
+HostedScan enables companies to meet compliance and security goals.
 
 Sign up by entering your emailSend me the link
 
