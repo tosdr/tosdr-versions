@@ -34,10 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Guess Who BN Is! (4,042)](https://forum.nationstates.net/viewtopic.php?t=553505&f=25&view=unread#unread ""Guess Who BN Is!" (4,042 posts)")
-* [Ukrainian War VII: Kursk, Act II (5,170)](https://forum.nationstates.net/viewtopic.php?t=551126&f=20&view=unread#unread ""Ukrainian War VII: Kursk, Act II" (5,170 posts)")
-* [Geography Game II (10,026)](https://forum.nationstates.net/viewtopic.php?t=529733&f=25&view=unread#unread ""Geography Game II" (10,026 posts)")
-* [How do you imagine the player above y… (1,963)](https://forum.nationstates.net/viewtopic.php?t=539223&f=25&view=unread#unread ""How do you imagine the player above you in real life?" (1,963 posts)")
+* [2023 Israel–Hamas War Thread mk3 (7,035)](https://forum.nationstates.net/viewtopic.php?t=549839&f=20&view=unread#unread ""2023 Israel–Hamas War Thread mk3" (7,035 posts)")
+* [Is AU A Liberal, Centrist, or Conserv… (175)](https://forum.nationstates.net/viewtopic.php?t=555272&f=25&view=unread#unread ""Is AU A Liberal, Centrist, or Conservative?" (175 posts)")
+* [NationVision 39 | Tolosa, País Occitans (47)](https://forum.nationstates.net/viewtopic.php?t=554683&f=4&view=unread#unread ""NationVision 39 | Tolosa, País Occitans" (47 posts)")
+* [Fries or Chips? (66)](https://forum.nationstates.net/viewtopic.php?t=555304&f=20&view=unread#unread ""Fries or Chips?" (66 posts)")
+* [Internal and International Incidents… (4,261)](https://forum.nationstates.net/viewtopic.php?t=525784&f=5&view=unread#unread ""Internal and International Incidents [OOC • OPEN]" (4,261 posts)")
 
 Advertisement
 
