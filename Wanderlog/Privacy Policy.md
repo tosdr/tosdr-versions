@@ -100,6 +100,12 @@ When using Wanderlog, you may select places, write comments, Like specific place
 
 To delete your account and associated user data, you may sign in and visit [our settings page](https://wanderlog.com/settings), which includes a "Delete account" button. Our system will fully delete your account within two weeks of receiving the request.
 
+### Mobile phone number
+
+You might provide your phone number to us so that we can send you a text message to download our app. This will only be used to send texts directly from us.
+
+No phone numbers or mobile information will be shared with third parties/affiliates for marketing/promotional purposes. All the above categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties.
+
 5\. Third Party Advertisers
 ---------------------------
 
