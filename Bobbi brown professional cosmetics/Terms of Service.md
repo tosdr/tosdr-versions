@@ -2,7 +2,7 @@
 
 Previous
 
-[Get a free set on $95+. Use code: bbset at checkout.](https://www.bobbibrowncosmetics.com/offers-landing-page)
+[Get a free bestsellers set on $85+ ($55 value). Use code: bests at checkout.](https://www.bobbibrowncosmetics.com/offers-landing-page)
 
 [Join our mailing list and get 15% off your first order.](https://www.bobbibrowncosmetics.com/account/signin.tmpl)
 
@@ -24,15 +24,15 @@ Close
 
 Shop By
 
- [NEW](https://www.bobbibrowncosmetics.com/polished-grunge-collection) NEW 
+ [NEW](https://www.bobbibrowncosmetics.com/kerri-rosenthal-landing-page) NEW 
 
 NEW
 
-[Shop NEW Polished Grunge](https://www.bobbibrowncosmetics.com/polished-grunge-collection "Shop NEW Polished Grunge") Shop NEW Polished Grunge
+[Shop Limited-Edition Kerri Rosenthal Collection](https://www.bobbibrowncosmetics.com/kerri-rosenthal-landing-page "Shop Limited-Edition Kerri Rosenthal Collection") Shop Limited-Edition Kerri Rosenthal Collection
 
-   [![](/media/export/cms/Homepage/94 Hannah/FY25_HannahMurray_Digital_GNAV_SLICE.jpg)](https://www.bobbibrowncosmetics.com/polished-grunge-collection)
+   [![](/media/export/cms/Homepage/Kerri Rosenthal Collection/FY24_KerriRosenthal_Digital_GNAV_Collection_03-1.jpg)](https://www.bobbibrowncosmetics.com/kerri-rosenthal-landing-page)
 
-[Shop NEW Polished Grunge](https://www.bobbibrowncosmetics.com/polished-grunge-collection "Shop NEW Polished Grunge")
+[Shop Limited-Edition Kerri Rosenthal Collection](https://www.bobbibrowncosmetics.com/kerri-rosenthal-landing-page "Shop Limited-Edition Kerri Rosenthal Collection")
 
  [BESTSELLERS](https://www.bobbibrowncosmetics.com/products/14358/best-sellers) BESTSELLERS 
 
@@ -230,7 +230,7 @@ Trending
 
  [NEW WEIGHTLESS FOUNDATION](https://www.bobbibrowncosmetics.com/product/14017/129115/makeup/face/foundation/weightless-skin-foundation-spf-15#/family/all)
 
- [POLISHED GRUNGE COLLECTION](https://www.bobbibrowncosmetics.com/polished-grunge-collection)
+ [Kerri Rosenthal Collection](https://www.bobbibrowncosmetics.com/kerri-rosenthal-landing-page)
 
  [Last chance](https://www.bobbibrowncosmetics.com/products/16111/Makeup/last-call)
 
