@@ -18,31 +18,31 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Vídeo: carro tem princípio de incêndio em rua do Centro de Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/5/csm_carro_que_pegou_fogo_no_centro_cortesia_ao_TNH1_739296aaef.jpg)
-
-tomado por fumaça
-
-Vídeo: carro tem princípio de incêndio em rua do Centro de Maceió](https://www.tnh1.com.br/noticia/nid/video-carro-tem-principio-de-incendio-em-rua-do-centro-de-maceio/ "Vídeo: carro tem princípio de incêndio em rua do Centro de Maceió")   [![Prefeitura de Maceió abre segundo edital de 2024 para pagamento de precatórios](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/1/csm_sede-da-pgm_2024-09-10-185259_eump_cc84512842.jpg)
+   [![Vinte bairros de Maceió devem ter fornecimento d'água afetado nesta terça-feira, 17](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/6/csm_sistema_pratagy_ascom_87765be2cc.jpg)
 
 Maceió
 
-Prefeitura de Maceió abre segundo edital de 2024 para pagamento de precatórios](https://www.tnh1.com.br/noticia/nid/prefeitura-de-maceio-abre-segundo-edital-de-2024-para-pagamento-de-precatorios/ "Prefeitura de Maceió abre segundo edital de 2024 para pagamento de precatórios")   [![Família denuncia que paciente de clínica de reabilitação morreu após espancamento e abuso sexual](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/7/csm_dionisio_morte_upa_2dd92fc7dd.jpg)
+Vinte bairros de Maceió devem ter fornecimento d'água afetado nesta terça-feira, 17](https://www.tnh1.com.br/noticia/nid/vinte-bairros-de-maceio-devem-ter-fornecimento-dagua-afetado-nesta-terca-feira-17/ "Vinte bairros de Maceió devem ter fornecimento d'água afetado nesta terça-feira, 17")   [![Banhista salta de emissário submarino, não consegue voltar e é resgatado por bombeiros](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/6/csm_emissario-casal_-_foto_Divulgacao_49ae7f080d.jpg)
+
+Praia da Avenida
+
+Banhista salta de emissário submarino, não consegue voltar e é resgatado por bombeiros](https://www.tnh1.com.br/noticia/nid/banhista-salta-de-emissario-submarino-nao-consegue-voltar-e-e-resgatado-por-bombeiros/ "Banhista salta de emissário submarino, não consegue voltar e é resgatado por bombeiros")   [![Vídeo: motociclista fica ferido após bater em poste na Avenida Juca Sampaio](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/a/csm_acidente_moto_barro_duro_f0c963ed48.jpg)
+
+vítima socorrida
+
+Vídeo: motociclista fica ferido após bater em poste na Avenida Juca Sampaio](https://www.tnh1.com.br/noticia/nid/video-motociclista-fica-ferido-apos-bater-em-poste-na-avenida-juca-sampaio/ "Vídeo: motociclista fica ferido após bater em poste na Avenida Juca Sampaio")   [![Mulher encontra marido morto a tiros dentro de casa em residencial no Benedito Bentes](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/2/csm_csm_csm_IML_IC_-_Assessoria_788299d465_a0c9ce6a3a_6960fae54a.jpeg)
+
+na madrugada
+
+Mulher encontra marido morto a tiros dentro de casa em residencial no Benedito Bentes](https://www.tnh1.com.br/noticia/nid/mulher-encontra-marido-morto-a-tiros-dentro-de-casa-em-residencial-no-benedito-bentes/ "Mulher encontra marido morto a tiros dentro de casa em residencial no Benedito Bentes")   [![Educação de Maceió convoca mais 125 aprovados no Processo Seletivo Simplificado](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/4/csm_convocados-educacao-maceio-foto-assessoria_0af81b24ea.jpeg)
+
+Veja lista
+
+Educação de Maceió convoca mais 125 aprovados no Processo Seletivo Simplificado](https://www.tnh1.com.br/noticia/nid/educacao-de-maceio-convoca-mais-125-aprovados-no-processo-seletivo-simplificado/ "Educação de Maceió convoca mais 125 aprovados no Processo Seletivo Simplificado")   [![Vídeo: agente do DMTT usa spray de pimenta para afastar manifestantes ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/3/csm_agente_dmtt_spray_de_pimenta_fdc12cc6fd.jpg)
 
 EM MACEIÓ
 
-Família denuncia que paciente de clínica de reabilitação morreu após espancamento e abuso sexual](https://www.tnh1.com.br/noticia/nid/familia-denuncia-que-paciente-de-clinica-de-reabilitacao-morreu-apos-espancamento-e-abuso-sexual/ "Família denuncia que paciente de clínica de reabilitação morreu após espancamento e abuso sexual")   [![Fiscais da Prefeitura autuam clínica médica flagrada com ligação clandestina ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/6/csm_clinica_ligacao_clandestina_d2e37ee3d0.jpeg)
-
-fiscalização
-
-Fiscais da Prefeitura autuam clínica médica flagrada com ligação clandestina](https://www.tnh1.com.br/noticia/nid/fiscais-da-prefeitura-autuam-clinica-medica-flagrada-com-ligacao-clandestina/ "Fiscais da Prefeitura autuam clínica médica flagrada com ligação clandestina ")   [![Maioria dos afroempreendedores em Maceió é mulher; 41% estão na informalidade](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/8/csm_afroempreendedores_Oswaldo_Bahi-rede_cenafro_2de633611b.png)
-
-Maceió
-
-Maioria dos afroempreendedores em Maceió é mulher; 41% estão na informalidade](https://www.tnh1.com.br/noticia/nid/maioria-dos-afroempreendedores-em-maceio-e-mulher-41-estao-na-informalidade/ "Maioria dos afroempreendedores em Maceió é mulher; 41% estão na informalidade")   [![Projeto Flexais dá início à construção de creche-escola](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/c/csm_creche_flexais_1181b2ab8a.jpeg)
-
-Maceió
-
-Projeto Flexais dá início à construção de creche-escola](https://www.tnh1.com.br/noticia/nid/projeto-flexais-da-inicio-a-construcao-de-creche-escola/ "Projeto Flexais dá início à construção de creche-escola")
+Vídeo: agente do DMTT usa spray de pimenta para afastar manifestantes](https://www.tnh1.com.br/noticia/nid/video-agente-do-dmtt-usa-spray-de-pimenta-para-afastar-manifestantes/ "Vídeo: agente do DMTT usa spray de pimenta para afastar manifestantes ")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -50,31 +50,31 @@ Projeto Flexais dá início à construção de creche-escola](https://www.tnh1.c
 
 [Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
 
-   [![DNIT divulga instalação de pardais em Alagoas; confira locais](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/8/csm_pardal_radar_transito_foto_ilustrativa_freepik_8083b14737.jpg)
+   [![Menino de 6 anos morre atropelado por carro ao andar de bicicleta em São Miguel dos Milagres](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/9/csm_atropelamento-crianca-sao-miguel-milagres-reproducao_9cad01f552.jpeg)
 
-fiscalização
+Trânsito
 
-DNIT divulga instalação de pardais em Alagoas; confira locais](https://www.tnh1.com.br/noticia/nid/dnit-divulga-instalacao-de-pardais-em-alagoas-confira-locais/ "DNIT divulga instalação de pardais em Alagoas; confira locais")   [![Alerta de vendaval é disparado para 51 cidades de Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/2/csm_csm_Alerta_de_vendaval_-_foto_Reproducao_Inmet_2b1c796662_86f5374895.jpg)
+Menino de 6 anos morre atropelado por carro ao andar de bicicleta em São Miguel dos Milagres](https://www.tnh1.com.br/noticia/nid/menino-de-6-anos-morre-atropelado-por-carro-ao-andar-de-bicicleta-em-sao-miguel-dos-milagres/ "Menino de 6 anos morre atropelado por carro ao andar de bicicleta em São Miguel dos Milagres")   [![Confira os resultados do Alagoas dá Sorte deste domingo (15)](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/a/csm_csm_csm_ALAGOAS_DA_SORTE_0070ad69ae__3__f98bd4eda6_10c94654c6.jpg)
 
-meteorologia
+premiados
 
-Alerta de vendaval é disparado para 51 cidades de Alagoas](https://www.tnh1.com.br/noticia/nid/alerta-de-vendaval-e-disparado-para-51-cidades-de-alagoas/ "Alerta de vendaval é disparado para 51 cidades de Alagoas")   [![Trabalhadores alagoanos são resgatados em situação análoga à escravidão em usina de São Paulo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/c/csm_alagoanos-escravidao-sp_3420c7396d.jpg)
+Confira os resultados do Alagoas dá Sorte deste domingo (15)](https://www.tnh1.com.br/noticia/nid/confira-os-resultados-do-alagoas-da-sorte-deste-domingo-15-1/ "Confira os resultados do Alagoas dá Sorte deste domingo (15)")   [![TNH1 e TV Pajuçara levam 1º lugar no Prêmio Sebrae de Jornalismo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/e/csm_premio_sebrae_de_jornalsimo_2024_d14dbd3b6e.jpeg)
 
-Condições precárias
+Alagoas
 
-Trabalhadores alagoanos são resgatados em situação análoga à escravidão em usina de São Paulo](https://www.tnh1.com.br/noticia/nid/trabalhadores-alagoanos-sao-resgatados-em-situacao-analoga-a-escravidao-em-usina-de-sao-paulo/ "Trabalhadores alagoanos são resgatados em situação análoga à escravidão em usina de São Paulo")   [![Vídeo: homem de 37 anos morre vítima de afogamento na Praia do Francês](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/e/csm_afogamento_frances_69d581a2b1.png)
+TNH1 e TV Pajuçara levam 1º lugar no Prêmio Sebrae de Jornalismo](https://www.tnh1.com.br/noticia/nid/tnh1-e-tv-pajucara-levam-1o-lugar-no-premio-sebrae-de-jornalismo/ "TNH1 e TV Pajuçara levam 1º lugar no Prêmio Sebrae de Jornalismo")   [![Caminhonete fica destruída após colisão com carreta no interior de Alagoas; motorista foi socorrido ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/3/csm_acidente-transito-interior-alagoas_f54232160a.jpeg)
 
-região dos coqueirais
+NA BR-101
 
-Vídeo: homem de 37 anos morre vítima de afogamento na Praia do Francês](https://www.tnh1.com.br/noticia/nid/video-homem-de-37-anos-morre-vitima-de-afogamento-na-praia-do-frances/ "Vídeo: homem de 37 anos morre vítima de afogamento na Praia do Francês")   [![Veículos disponíveis para leilão do Detran podem ser visitados a partir desta segunda](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/f/csm_leilao_detran_e10fb071b4.jpeg)
+Caminhonete fica destruída após colisão com carreta no interior de Alagoas; motorista foi socorrido](https://www.tnh1.com.br/noticia/nid/caminhonete-fica-destruida-apos-colisao-com-carreta-no-interior-de-alagoas-motorista-foi-socorrido/ "Caminhonete fica destruída após colisão com carreta no interior de Alagoas; motorista foi socorrido ")   [![Revolução Silenciosa, por Paulo Dantas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/f/csm_paulo_dantas_foto_edvan_ferreira_secom_alagoas_43dd9ec93f.jpg)
 
-Maceió e Arapiraca
+16 de setembro
 
-Veículos disponíveis para leilão do Detran podem ser visitados a partir desta segunda](https://www.tnh1.com.br/noticia/nid/veiculos-disponiveis-para-leilao-do-detran-podem-ser-visitados-a-partir-desta-segunda/ "Veículos disponíveis para leilão do Detran podem ser visitados a partir desta segunda")   [![Homem denunciado por compra de votos é preso por conduzir moto embriagado e portar arma](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/6/csm_nova_central_de_flagrantes_ascom_pc-al_d686586caa.jpeg)
+Revolução Silenciosa, por Paulo Dantas](https://www.tnh1.com.br/noticia/nid/revolucao-silenciosa-por-paulo-dantas/ "Revolução Silenciosa, por Paulo Dantas")   [![Comissão do meio ambiente discute impacto das queimadas em Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/b/csm_comissao-do-meio-ambiente-discute-impacto-das-queimadas-em-alagoas__1__bbc9fe3521.jpeg)
 
-No Litoral Norte
+combate e fiscalização
 
-Homem denunciado por compra de votos é preso por conduzir moto embriagado e portar arma](https://www.tnh1.com.br/noticia/nid/homem-denunciado-por-compra-de-votos-e-preso-por-conduzir-moto-embriagado-e-portar-arma/ "Homem denunciado por compra de votos é preso por conduzir moto embriagado e portar arma")
+Comissão do meio ambiente discute impacto das queimadas em Alagoas](https://www.tnh1.com.br/noticia/nid/comissao-do-meio-ambiente-discute-impacto-das-queimadas-em-alagoas/ "Comissão do meio ambiente discute impacto das queimadas em Alagoas")
 
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
 
@@ -82,31 +82,31 @@ Homem denunciado por compra de votos é preso por conduzir moto embriagado e por
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Polícia Científica coleta DNA de homem que confessou ter matado jovem em Guaxuma ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/b/csm_corpo-mulher-residencia-abandonada-reproducao-cortesia_eb17fc72ea.jpeg)
+   [![Homem tenta furtar bicicleta e termina preso no Centro de Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/7/csm_Ronda_no_Bairro_-_furto_Centro_-_608800ec72.jpeg)
 
-provas técnicas
+ronda no bairro
 
-Polícia Científica coleta DNA de homem que confessou ter matado jovem em Guaxuma](https://www.tnh1.com.br/noticia/nid/policia-cientifica-coleta-dna-de-homem-que-confessou-ter-matado-jovem-em-guaxuma/ "Polícia Científica coleta DNA de homem que confessou ter matado jovem em Guaxuma ")   [![Pedreiro escapa de atentado após ser baleado nas costas em porta de igreja; assista](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/e/csm_atentado-tiros-cidade-universitaria-cortesia_cbda7d7be0.jpeg)
+Homem tenta furtar bicicleta e termina preso no Centro de Maceió](https://www.tnh1.com.br/noticia/nid/homem-tenta-furtar-bicicleta-e-termina-preso-no-centro-de-maceio/ "Homem tenta furtar bicicleta e termina preso no Centro de Maceió")   [![Homem é ferido com dois tiros nas nádegas dentro de bar no Cleto Marques](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/1/csm_csm_UPA_Benedito_Bentes_-_foto_Secom_Alagoas__reproducao_34132c8016_d2288c86be.jpeg)
 
-parte alta de Maceió
+Polícia
 
-Pedreiro escapa de atentado após ser baleado nas costas em porta de igreja; assista](https://www.tnh1.com.br/noticia/nid/pedreiro-escapa-de-atentado-apos-ser-baleado-nas-costas-em-porta-de-igreja-assista/ "Pedreiro escapa de atentado após ser baleado nas costas em porta de igreja; assista")   [![Stalker é preso após se deslocar mais de 2 mil km para perseguir e ameaçar ex em Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/c/csm_stalker-preso-reproducao-freepik_060c1b0716.jpeg)
+Homem é ferido com dois tiros nas nádegas dentro de bar no Cleto Marques](https://www.tnh1.com.br/noticia/nid/homem-e-ferido-com-dois-tiros-nas-nadegas-dentro-de-bar-no-cleto-marques/ "Homem é ferido com dois tiros nas nádegas dentro de bar no Cleto Marques")   [![Embriaguez: motorista bate em outro carro e é preso ao tentar subornar policiais em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/b/csm_Central_de_Flagrantes__Maceio_-_foto_SSPAL_a09a66da25.jpg)
 
-EM SP
+no trapiche
 
-Stalker é preso após se deslocar mais de 2 mil km para perseguir e ameaçar ex em Alagoas](https://www.tnh1.com.br/noticia/nid/stalker-e-preso-apos-se-deslocar-mais-de-2-mil-km-para-perseguir-e-ameacar-ex-em-alagoas/ "Stalker é preso após se deslocar mais de 2 mil km para perseguir e ameaçar ex em Alagoas")   [![Pedreiro é preso suspeito de roubo e se preocupa com hora de obra: "tinha que ir trabalhar"](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/5/csm_Pedreiro_e_preso_suspeito_de_roubo_e_se__preocupa__com_hora_de_obra_-_foto_Ronda_no_Bairro_c7474350f2.jpeg)
+Embriaguez: motorista bate em outro carro e é preso ao tentar subornar policiais em Maceió](https://www.tnh1.com.br/noticia/nid/embriaguez-motorista-bate-em-outro-carro-e-e-preso-ao-tentar-subornar-policiais-em-maceio/ "Embriaguez: motorista bate em outro carro e é preso ao tentar subornar policiais em Maceió")   [![Polícia apreende 23 armas de fogo e mais de 11 kg de drogas em uma semana](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/c/csm_policia-militar-apreende-23-armas-de-fogo-e-mais-de-11-kg-de-drogas-em-uma-semana_04acf29076.jpg)
 
-centro de maceió
+EM ALAGOAS
 
-Pedreiro é preso suspeito de roubo e se preocupa com hora de obra: "tinha que ir trabalhar"](https://www.tnh1.com.br/noticia/nid/pedreiro-e-preso-suspeito-de-roubo-e-se-preocupa-com-hora-de-obra-tinha-que-ir-trabalhar/ "Pedreiro é preso suspeito de roubo e se preocupa com hora de obra: "tinha que ir trabalhar"")   [![Polícia procura mais um feirante suspeito de estuprar mulher com deficiência intelectual](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/c/csm_ceasa_googlemaps_f6d809be51.png)
+Polícia apreende 23 armas de fogo e mais de 11 kg de drogas em uma semana](https://www.tnh1.com.br/noticia/nid/policia-apreende-23-armas-de-fogo-e-mais-de-11-kg-de-drogas-em-uma-semana/ "Polícia apreende 23 armas de fogo e mais de 11 kg de drogas em uma semana")   [![Homem é agredido com arma branca ao tentar impedir esposa de bater em filha de 2 anos](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/b/csm_Hospital-Emergencia-Agreste_65ce0a2e9f.png)
 
-parte alta de maceió
+em arapiraca
 
-Polícia procura mais um feirante suspeito de estuprar mulher com deficiência intelectual](https://www.tnh1.com.br/noticia/nid/policia-procura-mais-um-feirante-suspeito-de-estuprar-mulher-com-deficiencia-intelectual/ "Polícia procura mais um feirante suspeito de estuprar mulher com deficiência intelectual")   [![MP recomenda padronização e tramitação de inquéritos policiais entre as polícias Civil e Judiciária](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/9/csm_corregedoria_mp_al_assessoria_880c0aa795.jpg)
+Homem é agredido com arma branca ao tentar impedir esposa de bater em filha de 2 anos](https://www.tnh1.com.br/noticia/nid/homem-e-agredido-com-arma-branca-ao-tentar-impedir-esposa-de-bater-em-filha-de-2-anos/ "Homem é agredido com arma branca ao tentar impedir esposa de bater em filha de 2 anos")   [![PM apreende mais de R$8 mil guardados em sacolas debaixo de guarda-roupa, em Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/a/csm_Central_de_Policia_de_Arapiraca_fb9d405eee.jpg)
 
-em alagoas
+e um celular
 
-MP recomenda padronização e tramitação de inquéritos policiais entre as polícias Civil e Judiciária](https://www.tnh1.com.br/noticia/nid/mp-recomenda-padronizacao-e-tramitacao-de-inqueritos-policiais-entre-as-policias-civil-e-judiciaria/ "MP recomenda padronização e tramitação de inquéritos policiais entre as polícias Civil e Judiciária")
+PM apreende mais de R$8 mil guardados em sacolas debaixo de guarda-roupa, em Alagoas](https://www.tnh1.com.br/noticia/nid/pm-apreende-mais-de-r8-mil-guardados-em-sacolas-debaixo-de-guarda-roupa-em-alagoas/ "PM apreende mais de R$8 mil guardados em sacolas debaixo de guarda-roupa, em Alagoas")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -115,6 +115,16 @@ MP recomenda padronização e tramitação de inquéritos policiais entre as pol
 [TV](https://www.tnh1.com.br/videos/ "TV ")
 
 [Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Pessoas&Negócios")
+
+Últimas de Pessoas&Negócios
+
+[Leia tudo sobre Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Ir para Pessoas&Negócios")
+
+   [![Uninassau Maceió recebe selo "OAB Indica" por excelência no ensino de Direito](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/0/csm_UNINASSAU_SELO_OAB___2__f9527de421.jpg)
+
+Pessoas & Negócios
+
+Uninassau Maceió recebe selo "OAB Indica" por excelência no ensino de Direito](https://www.tnh1.com.br/noticia/nid/uninassau-maceio-recebe-selo-oab-indica-por-excelencia-no-ensino-de-direito/ "Uninassau Maceió recebe selo "OAB Indica" por excelência no ensino de Direito")
 
 [Pajuçara.com](https://pajucara.tnh1.com.br/ "Pajuçara.com")
 
@@ -188,73 +198,73 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Saiba quem são as vítimas do acidente aéreo com helicóptero em Caruaru](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/9/csm_vitimas_acidente_aereo_caruaru_-_foto_montagem_tnh1_879a0c8096.jpg)
+[![Cunhado suspeito de matar comerciante após traição é preso em esconderijo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/9/csm_Cunhado_suspeito_de_matar_comerciante_apos_traicao_e_preso_em_esconderijo_-_foto_Reproducao_d92a98156f.jpg)
 
-Em Chamas
+praia grande
 
-Em Chamas
+praia grande
 
-Saiba quem são as vítimas do acidente aéreo com helicóptero em Caruaru
+Cunhado suspeito de matar comerciante após traição é preso em esconderijo
 
-Saiba quem são as vítimas do acidente aéreo com helicóptero em Caruaru](https://www.tnh1.com.br/noticia/nid/saiba-quem-sao-as-vitimas-do-acidente-aereo-com-helicoptero-em-caruaru/ "Saiba quem são as vítimas do acidente aéreo com helicóptero em Caruaru")[![DNIT divulga instalação de pardais em Alagoas; confira locais](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/8/csm_pardal_radar_transito_foto_ilustrativa_freepik_2db84cb0e9.jpg)
+Cunhado suspeito de matar comerciante após traição é preso em esconderijo](https://www.tnh1.com.br/noticia/nid/cunhado-suspeito-de-matar-comerciante-apos-traicao-e-preso-em-esconderijo/ "Cunhado suspeito de matar comerciante após traição é preso em esconderijo")[![Veja quem são os primeiros participantes confirmados em A Fazenda 16](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/b/csm_Camila_Moura_-_a_Fazenda_-_foto_Reproducao__Instagram_732e1e4d59.jpg)
 
-fiscalização
+reality show
 
-fiscalização
+reality show
 
-DNIT divulga instalação de pardais em Alagoas; confira locais
+Veja quem são os primeiros participantes confirmados em A Fazenda 16
 
-DNIT divulga instalação de pardais em Alagoas; confira locais](https://www.tnh1.com.br/noticia/nid/dnit-divulga-instalacao-de-pardais-em-alagoas-confira-locais/ "DNIT divulga instalação de pardais em Alagoas; confira locais")[![Precatórios do Fundef: é preciso ter advogado para receber? Veja alertas do Sinteal](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/5/csm_Dinheiro_-_Foto_Jose_Cruz_-_Agencia_Brasil_6_3e14b36392.jpg)
+Veja quem são os primeiros participantes confirmados em A Fazenda 16](https://www.tnh1.com.br/noticia/nid/veja-quem-sao-os-primeiros-participantes-confirmados-em-a-fazenda-16/ "Veja quem são os primeiros participantes confirmados em A Fazenda 16")[![Homem é ferido com dois tiros nas nádegas dentro de bar no Cleto Marques](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/1/csm_csm_UPA_Benedito_Bentes_-_foto_Secom_Alagoas__reproducao_34132c8016_da66dcbaab.jpeg)
 
-cuidado com golpe
+Polícia
 
-cuidado com golpe
+Polícia
 
-Precatórios do Fundef: é preciso ter advogado para receber? Veja alertas do Sinteal
+Homem é ferido com dois tiros nas nádegas dentro de bar no Cleto Marques
 
-Precatórios do Fundef: é preciso ter advogado para receber? Veja alertas do Sinteal](https://www.tnh1.com.br/noticia/nid/precatorios-do-fundef-e-preciso-ter-advogado-para-receber-veja-alertas-do-sinteal/ "Precatórios do Fundef: é preciso ter advogado para receber? Veja alertas do Sinteal")[![Deolane Bezerra publica nova carta; veja o que disse a influencer presa](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/7/csm_deolane_presa_-_foto_montagem_tnh1_cf07b32e65.jpg)
+Homem é ferido com dois tiros nas nádegas dentro de bar no Cleto Marques](https://www.tnh1.com.br/noticia/nid/homem-e-ferido-com-dois-tiros-nas-nadegas-dentro-de-bar-no-cleto-marques/ "Homem é ferido com dois tiros nas nádegas dentro de bar no Cleto Marques")[![Empresária que ‘descobriu’ cobras em foto na cachoeira diz que foi alertada por seguidor](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/7/csm_Gabriella_Oliveira_cobras_ao_ver_fotos_em_cachoeira_de_Alto_Paraiso_de_Goias__Foto_Arquivo_Pessoal_-_Gabriella_Oliveira_1f269316d7.jpg)
 
-Investigada
+"em choque"
 
-Investigada
+"em choque"
 
-Deolane Bezerra publica nova carta; veja o que disse a influencer presa
+Empresária que ‘descobriu’ cobras em foto na cachoeira diz que foi alertada por seguidor
 
-Deolane Bezerra publica nova carta; veja o que disse a influencer presa](https://www.tnh1.com.br/noticia/nid/deolane-bezerra-publica-nova-carta-veja-o-que-disse-a-influencer-presa/ "Deolane Bezerra publica nova carta; veja o que disse a influencer presa")
+Empresária que ‘descobriu’ cobras em foto na cachoeira diz que foi alertada por seguidor](https://www.tnh1.com.br/noticia/nid/empresaria-que-descobriu-cobras-em-foto-na-cachoeira-diz-que-foi-alertada-por-seguidor/ "Empresária que ‘descobriu’ cobras em foto na cachoeira diz que foi alertada por seguidor")
 
-[![Anatel amplia regras para ligações de telemarketing; veja o que muda](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/e/csm_uso_de_smartphone_e_celular050720211245_b7811ea7b1.jpg)
+[![Menino de 6 anos morre atropelado por carro ao andar de bicicleta em São Miguel dos Milagres](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/9/csm_atropelamento-crianca-sao-miguel-milagres-reproducao_d94f511141.jpeg)
 
-foram publicadas
+Trânsito
 
-foram publicadas
+Trânsito
 
-Anatel amplia regras para ligações de telemarketing; veja o que muda
+Menino de 6 anos morre atropelado por carro ao andar de bicicleta em São Miguel dos Milagres
 
-Anatel amplia regras para ligações de telemarketing; veja o que muda](https://www.tnh1.com.br/noticia/nid/anatel-amplia-regras-para-ligacoes-de-telemarketing-veja-o-que-muda/ "Anatel amplia regras para ligações de telemarketing; veja o que muda")[![Jovem hindu é confundido com mulçumano e executado por 'vigilantes de vacas' na Índia](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/5/csm_jovem-hindu-executado-india-reproducao_0f7ce40b5c.jpg)
+Menino de 6 anos morre atropelado por carro ao andar de bicicleta em São Miguel dos Milagres](https://www.tnh1.com.br/noticia/nid/menino-de-6-anos-morre-atropelado-por-carro-ao-andar-de-bicicleta-em-sao-miguel-dos-milagres/ "Menino de 6 anos morre atropelado por carro ao andar de bicicleta em São Miguel dos Milagres")[![Ator Mário Gomes é despejado da casa onde mora com a família, no RJ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/b/csm_mario-gomes-despejado-residEncia-familia-reporducao-sandro-cardozo-extra_6a15080d97.jpg)
 
-19 anos
+foi para leilão
 
-19 anos
+foi para leilão
 
-Jovem hindu é confundido com mulçumano e executado por 'vigilantes de vacas' na Índia
+Ator Mário Gomes é despejado da casa onde mora com a família, no RJ
 
-Jovem hindu é confundido com mulçumano e executado por 'vigilantes de vacas' na Índia](https://www.tnh1.com.br/noticia/nid/jovem-hindu-e-confundido-com-mulcumano-e-executado-por-vigilantes-de-vacas-na-india/ "Jovem hindu é confundido com mulçumano e executado por 'vigilantes de vacas' na Índia")[![O espetáculo ''A Kama Surta'' que vai 'esquentar' Maceió neste domingo (15)](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/7/csm_agenda-cultural-reproducao_4ee2289c8a.jpeg)
+Ator Mário Gomes é despejado da casa onde mora com a família, no RJ](https://www.tnh1.com.br/noticia/nid/ator-mario-gomes-e-despejado-da-casa-onde-mora-com-a-familia-no-rj/ "Ator Mário Gomes é despejado da casa onde mora com a família, no RJ")[![Mundo ultrapassa 100 mil casos de Mpox desde 2022, diz OMS](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/8/csm_Mpox_variola_dos_macacos_-_foto_Arquivo_pessoal_73a15ff5a5.jpg)
 
-Agenda Cultural
+Saúde
 
-Agenda Cultural
+Saúde
 
-O espetáculo ''A Kama Surta'' que vai 'esquentar' Maceió neste domingo (15)
+Mundo ultrapassa 100 mil casos de Mpox desde 2022, diz OMS
 
-O espetáculo ''A Kama Surta'' que vai 'esquentar' Maceió neste domingo (15)](https://www.tnh1.com.br/noticia/nid/o-espetaculo-a-kama-surta-que-vai-esquentar-maceio-neste-domingo-15/ "O espetáculo ''A Kama Surta'' que vai 'esquentar' Maceió neste domingo (15)")[![Helicóptero vindo da Venezuela com 240 kg de drogas é interceptado pela FAB e PF](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/1/csm_drogas-helicoptero-fab-reproducao_fdc339f9d1.jpeg)
+Mundo ultrapassa 100 mil casos de Mpox desde 2022, diz OMS](https://www.tnh1.com.br/noticia/nid/mundo-ultrapassa-100-mil-casos-de-mpox-desde-2022-diz-oms/ "Mundo ultrapassa 100 mil casos de Mpox desde 2022, diz OMS")[![Campeão da Champions com Real critica comemoração de Vinicius Jr.](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/c/csm_Vini_Jr_-_foto_Divulgacao_Real_Madrid_13018f4c96.jpg)
 
-EM MANAUS
+Pedja Mijatovic
 
-EM MANAUS
+Pedja Mijatovic
 
-Helicóptero vindo da Venezuela com 240 kg de drogas é interceptado pela FAB e PF
+Campeão da Champions com Real critica comemoração de Vinicius Jr.
 
-Helicóptero vindo da Venezuela com 240 kg de drogas é interceptado pela FAB e PF](https://www.tnh1.com.br/noticia/nid/helicoptero-vindo-da-venezuela-com-240-kg-de-drogas-e-interceptado-pela-fab-e-pf/ "Helicóptero vindo da Venezuela com 240 kg de drogas é interceptado pela FAB e PF")
+Campeão da Champions com Real critica comemoração de Vinicius Jr.](https://www.tnh1.com.br/noticia/nid/campeao-da-champions-com-real-critica-comemoracao-de-vinicius-jr/ "Campeão da Champions com Real critica comemoração de Vinicius Jr.")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
