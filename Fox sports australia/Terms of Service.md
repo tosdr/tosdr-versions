@@ -83,26 +83,26 @@ FOX SCORES
     
 * [NFL
     
-    Full Time
+    17/9 10:15 AEST
     
     |     |     |
     | --- | --- |
-    | HOU | 19  |
-    | CHI | 13  |
+    | PHI | –   |
+    | ATL | –   |
     
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250215)
+    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250216)
 * Motorsport
     
 * [Formula 1
     
-    Complete
+    20/9 19:30 AEST
     
     |     |
     | --- |
-    | Azerbaijan Grand Prix |
+    | Singapore Grand Prix |
     |     |
     
-    Race Centre](https://www.foxsports.com.au/motorsport/formula-one/race-centre?meetingid=591)
+    Race Centre](https://www.foxsports.com.au/motorsport/formula-one/race-centre?meetingid=592)
 * [MotoGP
     
     20/9 18:45 AEST
@@ -861,7 +861,7 @@ FOX SCORES
 
 [Fox sports](https://www.foxsports.com.au/)
 
-[Scores](https://www.foxsports.com.au/score-centre)
+[Scores](https://www.foxsports.com.au/score-centre/live-now)
 
 * [Video](https://www.foxsports.com.au/video)
 * [NRL](https://www.foxsports.com.au/nrl)
