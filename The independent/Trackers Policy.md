@@ -21,7 +21,7 @@ Support NowMenu
     * [UK](https://www.independent.co.uk/news/uk)
     * [Europe](https://www.independent.co.uk/news/world/europe)
     * [World](https://www.independent.co.uk/news/world)
-    * [US Politics](https://www.the-independent.com/news/world/americas/us-politics)
+    * [US Politics](https://www.independent.co.uk/news/world/americas/us-politics)
     * [UK Politics](https://www.independent.co.uk/news/uk/politics)
     * [Health](https://www.independent.co.uk/news/health)
     * [Business](https://www.independent.co.uk/news/business)
@@ -305,7 +305,7 @@ Already subscribed? Log in
     * [Privacy policy](https://www.independent.co.uk/service/privacy-notice-a6184181.html)
     * 
     * [User policies](https://www.independent.co.uk/service/user-policies-a6184151.html)
-    * [Modern Slavery Statement](https://static.independent.co.uk/static-assets/IND-Modern-Slavery-Statement-22-23.pdf)
+    * [Modern Slavery Statement](https://www.independent.co.uk/static-assets/IND-Modern-Slavery-Statement-22-23.pdf)
 
 ### Thank you for registering
 
