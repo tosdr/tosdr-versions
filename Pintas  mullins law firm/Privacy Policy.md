@@ -263,7 +263,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/)[Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy-pr/) and [online Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Comments
+Email
 
 This field is for validation purposes and should be left unchanged.
 
@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Lung cancer basics](https://www.pintas.com/wp-content/uploads/2020/01/lung-cancer-lung-cancer-basics.jpg "Lung Cancer Basics")](https://www.pintas.com/practice-areas/lung-cancer/lung-cancer-basics "Lung Cancer Basics")
+[![What are the types of lung cancer?](https://www.pintas.com/wp-content/uploads/2020/06/lung-cancer-what-are-the-types-of-lung-cancer.jpg "What Are the Types of Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/types-of-lung-cancer "What Are the Types of Lung Cancer?")
 
-[#### Lung Cancer Basics](https://www.pintas.com/practice-areas/lung-cancer/lung-cancer-basics)
+[#### What Are the Types of Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/types-of-lung-cancer)
 
-[![Can a ct scan be wrong about cancer?](https://www.pintas.com/wp-content/uploads/2020/11/failure-to-diagnose-lung-cancer-can-a-ct-scan-be-wrong-about-cancer.jpg "Can a CT Scan Be Wrong About Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/failure-to-diagnose/can-a-ct-scan-be-wrong-about-cancer/ "Can a CT Scan Be Wrong About Cancer?")
+[![Is asbestos harmful to skin?](https://www.pintas.com/wp-content/uploads/2020/11/lung-cancer-lawyer-is-asbestos-harmful-to-skin.jpg "Is Asbestos Harmful to Skin?")](https://www.pintas.com/practice-areas/lung-cancer/is-asbestos-harmful-to-skin/ "Is Asbestos Harmful to Skin?")
 
-[#### Can a CT Scan Be Wrong About Cancer?](https://www.pintas.com/practice-areas/lung-cancer/failure-to-diagnose/can-a-ct-scan-be-wrong-about-cancer/)
+[#### Is Asbestos Harmful to Skin?](https://www.pintas.com/practice-areas/lung-cancer/is-asbestos-harmful-to-skin/)
 
-[![Is there a high risk for infection in nursing homes?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-is-there-a-high-risk-for-infection-in-nursing-homes-scaled.jpg "Is There a High Risk For Infection in Nursing Homes?")](https://www.pintas.com/faq/is-there-a-high-risk-for-infection-in-nursing-homes/ "Is There a High Risk For Infection in Nursing Homes?")
+[![Can asbestos cause pancreatic cancer?](https://www.pintas.com/wp-content/uploads/2020/02/lung-cancer-can-asbestos-cause-pancreatic-cancer.jpg "Can Asbestos Cause Pancreatic Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/can-asbestos-cause-pancreatic-cancer/ "Can Asbestos Cause Pancreatic Cancer?")
 
-[#### Is There a High Risk For Infection in Nursing Homes?](https://www.pintas.com/faq/is-there-a-high-risk-for-infection-in-nursing-homes/)
+[#### Can Asbestos Cause Pancreatic Cancer?](https://www.pintas.com/practice-areas/lung-cancer/can-asbestos-cause-pancreatic-cancer/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -306,7 +306,7 @@ message
 
 Yes. Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/) and [online Terms](https://www.pintas.com/website-terms-of-use/), including its mandatory arbitration provision.
 
-Comments
+Email
 
 This field is for validation purposes and should be left unchanged.
 
