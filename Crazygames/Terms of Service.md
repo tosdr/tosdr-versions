@@ -119,6 +119,8 @@ English
 
 © 2024 CrazyGames
 
+![](/images/background2.jpg)
+
 General terms and conditions and privacy policy
 ===============================================
 
