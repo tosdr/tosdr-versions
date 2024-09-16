@@ -1,6 +1,7 @@
   [![Brave Merch Store](/images/brave-logo.svg) ![Brave Merch Store](/images/brave-logo-dark.svg) | merch](https://store.brave.com/)
 
 * [Home](https://store.brave.com/)
+* [Products](https://store.brave.com/categories/all/)
 * [Privacy](https://brave.com/privacy/website/#brave-merch-store)
 
 [](https://store.brave.com/cart/)
@@ -8,6 +9,7 @@
   [![Brave Merch Store](/images/brave-logo.svg) ![Brave Merch Store](/images/brave-logo-dark.svg) | merch](https://store.brave.com/)
 
 * [Home](https://store.brave.com/)
+* [Products](https://store.brave.com/categories/all/)
 * [Privacy](https://brave.com/privacy/website/#brave-merch-store)
 
 Refunds & Returns
