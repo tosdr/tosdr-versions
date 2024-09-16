@@ -229,7 +229,7 @@ Members are required to disclose interests (including shareholdings, directorshi
 
 Published: 6 March 2024
 
-Last updated: 12 September 2024
+Last updated: 16 September 2024
 
 Ofcom's Board provides strategic direction for the organisation.](https://www.ofcom.org.uk/about-ofcom/structure-and-leadership/ofcom-board/)
 
