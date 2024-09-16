@@ -559,11 +559,11 @@ MENU MENU
     
     September 16, 2024
     
-    [Treasury Sanctions Enablers of the Intellexa Commercial Spyware Consortium](https://home.treasury.gov/news/press-releases/jy2581)
+    [Treasury Sanctions Georgian Officials and Extremists for Serious Human Rights Abuse](https://home.treasury.gov/news/press-releases/jy2580)
     
     September 16, 2024
     
-    [Treasury Sanctions Georgian Officials and Extremists for Serious Human Rights Abuse](https://home.treasury.gov/news/press-releases/jy2580)
+    [Treasury Sanctions Enablers of the Intellexa Commercial Spyware Consortium](https://home.treasury.gov/news/press-releases/jy2581)
     
     September 13, 2024
     
