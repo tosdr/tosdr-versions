@@ -124,7 +124,7 @@ of Podcasting
 
 [For Business](https://riverside.fm/business)[Pricing](https://riverside.fm/pricing)
 
-[Contact Sales](#contact_sales_button)[Login](https://riverside.fm/dashboard)[Get Started](https://riverside.fm/start)
+[Contact Sales](#contact_sales_button)[Login](https://riverside.fm/dashboard)[Start for Free](https://riverside.fm/start)
 
 [Get started](https://riverside.fm/start)
 
