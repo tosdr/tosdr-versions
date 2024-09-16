@@ -207,10 +207,6 @@ We’d be happy to answer them. Shoot us an email or send us a note:
 2. Mailing Address: DApps Platform, Inc. 2810 N Church St, PMB 96630 Wilmington, Delaware 19802 US
     
 
-#### Simple and convenient to use, seamless to explore
-
-[Download Trust Wallet](https://trustwallet.com/download)
-
 ##### Stay Connected:
 
 [](https://facebook.com/trustwalletapp)[](https://github.com/trustwallet)[](https://instagram.com/trustwallet)[](https://twitter.com/trustwallet)[](https://discord.gg/trustwallet)[](https://reddit.com/r/trustapp)[](https://t.me/trustwallet)[](https://www.tiktok.com/@trustwalletweb3)
