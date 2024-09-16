@@ -184,15 +184,15 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 ###### LATEST VIDEO
 
-* [**September 15, 2024 - PBS News Weekend full episode** | PBS News Hour](https://video.nhpbs.org/video/september-15-2024-pbs-news-weekend-full-episode-1726415221?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Episode 2 Preview** | Van der Valk](https://video.nhpbs.org/video/episode-2-preview-0w5rkp?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Episode 2 Preview** | Moonflower Murders](https://video.nhpbs.org/video/episode-2-preview-xr98p7?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Preview** | Jazz Music Awards 2023](https://video.nhpbs.org/video/preview-4evwgt?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Silence in Sikeston Love & Grief for a Young, Black Father** | Local, USA](https://video.nhpbs.org/video/local-usa-silence-in-sikeston-love-grief-young-black-father?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**The role of celebrity endorsements in modern politics** | PBS News Hour](https://video.nhpbs.org/video/star-power-1726428190?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**"South Korea's Adoption Reckoning" - Preview** | FRONTLINE](https://video.nhpbs.org/video/south-koreas-adoption-reckoning-preview?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Silence in Sikeston Witnesses to a Lynching** | Local, USA](https://video.nhpbs.org/video/local-usa-silence-in-sikeston-witnesses-to-a-lynching-cleo-wright?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Episode 1: Safe in Amsterdam: Part 1** | Van der Valk](https://video.nhpbs.org/video/episode-1-safe-in-amsterdam-part-1-octqxm?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Vetting Candidates** | The State We're In](https://video.nhpbs.org/video/vetting-candidates-laf8jc?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Kevin Hassett** | Firing Line](https://video.nhpbs.org/video/kevin-hassett-u7vonu?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**full episode, 9/13/24** | Washington Week with The Atlantic](https://video.nhpbs.org/video/washington-week-with-the-atlantic-full-episode-91324-3cnurw?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**TTC Extra: Who Will Win - Trump or Harris?** | To The Contrary](https://video.nhpbs.org/video/ttc-extra-who-will-win-trump-or-harris-z9tj3p?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**September 13, 2024** | Amanpour and Company](https://video.nhpbs.org/video/september-13-2024-lmepnj?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
