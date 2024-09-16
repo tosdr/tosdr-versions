@@ -113,7 +113,7 @@ Regras do Clube do Hardware
 **Por [Gabriel Torres](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/ "Ir ao perfil de Gabriel Torres")**  
 10 de novembro de 2021 em [Avisos da administração](https://www.clubedohardware.com.br/forums/forum/9-avisos-da-administra%C3%A7%C3%A3o/)
 
- [Compartilhar](#elShareItem_813393218_menu)
+ [Compartilhar](#elShareItem_1313834098_menu)
 
 * [](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")[](https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no Facebook")
@@ -324,7 +324,7 @@ Mais opções...
 
 Este tópico está impedido de receber novas respostas.
 
- [Compartilhar](#elShareItem_1934639052_menu)
+ [Compartilhar](#elShareItem_1630292910_menu)
 
 * [](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")[](https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no Facebook")
@@ -365,6 +365,56 @@ Mais opções...
 
 * ### Últimos tópicos
     
+    * [![Cristian_SSP](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253180.thumb.png.776fd4c3aafdfe0907b6122af0f41f9d.png)](https://www.clubedohardware.com.br/profile/1253180-cristian_ssp/ "Ir ao perfil de Cristian_SSP")
+        
+        0
+        
+        [Como desbloquear Xbox 360 slin RGA](https://www.clubedohardware.com.br/forums/topic/1697546-como-desbloquear-xbox-360-slin-rga/?do=getNewComment "Como desbloquear Xbox 360 slin RGA")
+        
+        [Consoles (videogames)](https://www.clubedohardware.com.br/forums/forum/84-consoles-videogames/ "Consoles (videogames)")  
+        Por [Cristian\_SSP](https://www.clubedohardware.com.br/profile/1253180-cristian_ssp/ "Ir ao perfil de Cristian_SSP")  
+        35 minutos atrás
+        
+    * [![Yan Tolentino](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c48f%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EYT%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/783707-yan-tolentino/ "Ir ao perfil de Yan Tolentino")
+        
+        1
+        
+        [Recomendações de Water Cooler custo/benefício para Intel Core i7-13700KF e i7-14](https://www.clubedohardware.com.br/forums/topic/1697544-recomenda%C3%A7%C3%B5es-de-water-cooler-custobenef%C3%ADcio-para-intel-core-i7-13700kf-e-i7-14/?do=getNewComment "Recomendações de Water Cooler custo/benefício para Intel Core i7-13700KF e i7-14")
+        
+        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
+        Por [Yan Tolentino](https://www.clubedohardware.com.br/profile/783707-yan-tolentino/ "Ir ao perfil de Yan Tolentino")  
+        47 minutos atrás
+        
+    * [![Traumacore](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1251549.thumb.jpeg.74fcd49ed8227018a453fa1066d7ab2a.jpeg)](https://www.clubedohardware.com.br/profile/1251549-traumacore/ "Ir ao perfil de Traumacore")
+        
+        2
+        
+        [placa de Vídeo usa so 70% .](https://www.clubedohardware.com.br/forums/topic/1697543-placa-de-v%C3%ADdeo-usa-so-70/?do=getNewComment "placa de Vídeo usa so 70% .")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Traumacore](https://www.clubedohardware.com.br/profile/1251549-traumacore/ "Ir ao perfil de Traumacore")  
+        56 minutos atrás
+        
+    * [![Chriss318](https://www.clubedohardware.com.br/uploads/members/monthly_2022_02/imported-photo-1188773.thumb.jpeg.daabb083519d9588e5fdc34715305893.jpeg)](https://www.clubedohardware.com.br/profile/1188773-chriss318/ "Ir ao perfil de Chriss318")
+        
+        1
+        
+        [Placa-mãe IPMH510G tem suporte para NVMe?](https://www.clubedohardware.com.br/forums/topic/1697541-placa-m%C3%A3e-ipmh510g-tem-suporte-para-nvme/?do=getNewComment "Placa-mãe IPMH510G tem suporte para NVMe?")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [Chriss318](https://www.clubedohardware.com.br/profile/1188773-chriss318/ "Ir ao perfil de Chriss318")  
+        1 hora atrás
+        
+    * [![thiago312](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253047.thumb.png.7020bd08be78b18b5d9a9357892a29fd.png)](https://www.clubedohardware.com.br/profile/1253047-thiago312/ "Ir ao perfil de thiago312")
+        
+        1
+        
+        [Qual receptor é adequado como presente de inauguração de casa?](https://www.clubedohardware.com.br/forums/topic/1697540-qual-receptor-%C3%A9-adequado-como-presente-de-inaugura%C3%A7%C3%A3o-de-casa/?do=getNewComment "Qual receptor é adequado como presente de inauguração de casa?")
+        
+        [TV box e similares](https://www.clubedohardware.com.br/forums/forum/143-tv-box-e-similares/ "TV box e similares")  
+        Por [thiago312](https://www.clubedohardware.com.br/profile/1253047-thiago312/ "Ir ao perfil de thiago312")  
+        2 horas atrás
+        
     * [![Arthur Barreto](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253176.thumb.png.feea5dbcfc65b1ec682f1c1b12785c0d.png)](https://www.clubedohardware.com.br/profile/1253176-arthur-barreto/ "Ir ao perfil de Arthur Barreto")
         
         0
@@ -373,17 +423,17 @@ Mais opções...
         
         [Computador não liga ou não dá vídeo](https://www.clubedohardware.com.br/forums/forum/122-computador-n%C3%A3o-liga-ou-n%C3%A3o-d%C3%A1-v%C3%ADdeo/ "Computador não liga ou não dá vídeo")  
         Por [Arthur Barreto](https://www.clubedohardware.com.br/profile/1253176-arthur-barreto/ "Ir ao perfil de Arthur Barreto")  
-        2 horas atrás
+        6 horas atrás
         
     * [![Jeancp33](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253175.thumb.png.2bbbfe5286a7993c5c52d7b258c6de46.png)](https://www.clubedohardware.com.br/profile/1253175-jeancp33/ "Ir ao perfil de Jeancp33")
         
-        0
+        2
         
-        [I5 9400f rx 6600 desempenho abaixo do normal](https://www.clubedohardware.com.br/forums/topic/1697538-i5-9400f-rx-6600-desempenho-abaixo-do-normal/?do=getNewComment "I5 9400f  rx 6600 desempenho abaixo do normal")
+        [Core I5 9400F e Radeon RX 6600 com desempenho abaixo do normal em jogos](https://www.clubedohardware.com.br/forums/topic/1697538-core-i5-9400f-e-radeon-rx-6600-com-desempenho-abaixo-do-normal-em-jogos/?do=getNewComment "Core I5 9400F e Radeon RX 6600 com desempenho abaixo do normal em jogos")
         
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        [Problemas de desempenho](https://www.clubedohardware.com.br/forums/forum/256-problemas-de-desempenho/ "Problemas de desempenho")  
         Por [Jeancp33](https://www.clubedohardware.com.br/profile/1253175-jeancp33/ "Ir ao perfil de Jeancp33")  
-        4 horas atrás
+        7 horas atrás
         
     * [![udanznh](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1233457.thumb.jpeg.a8a5720a41a31cdd2724e6dcc105dea3.jpeg)](https://www.clubedohardware.com.br/profile/1233457-udanznh/ "Ir ao perfil de udanznh")
         
@@ -393,77 +443,27 @@ Mais opções...
         
         [Jogo não roda ou dá erro](https://www.clubedohardware.com.br/forums/forum/278-jogo-n%C3%A3o-roda-ou-d%C3%A1-erro/ "Jogo não roda ou dá erro")  
         Por [udanznh](https://www.clubedohardware.com.br/profile/1233457-udanznh/ "Ir ao perfil de udanznh")  
-        4 horas atrás
+        8 horas atrás
         
     * [![PedroK](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253172.thumb.jpeg.7742f1a79aef16a848d44d083a20b266.jpeg)](https://www.clubedohardware.com.br/profile/1253172-pedrok/ "Ir ao perfil de PedroK")
         
-        0
+        2
         
         [placa-mãe Pichau Alphard A520M-P, aceita Ryzen 7 5700x3d???](https://www.clubedohardware.com.br/forums/topic/1697536-placa-m%C3%A3e-pichau-alphard-a520m-p-aceita-ryzen-7-5700x3d/?do=getNewComment "placa-mãe Pichau Alphard A520M-P, aceita Ryzen 7 5700x3d???")
         
         [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
         Por [PedroK](https://www.clubedohardware.com.br/profile/1253172-pedrok/ "Ir ao perfil de PedroK")  
-        5 horas atrás
+        9 horas atrás
         
     * [![sandrofabres](https://www.clubedohardware.com.br/uploads/members/monthly_2019_09/sandrofa.thumb.jpg.069be2cb7716a9595f675c52528e8493.jpg)](https://www.clubedohardware.com.br/profile/1004875-sandrofabres/ "Ir ao perfil de sandrofabres")
         
-        1
+        2
         
         [Qual seria um notebook que não tem carcaça quebradiça e parafuso que não empena?](https://www.clubedohardware.com.br/forums/topic/1697535-qual-seria-um-notebook-que-n%C3%A3o-tem-carca%C3%A7a-quebradi%C3%A7a-e-parafuso-que-n%C3%A3o-empena/?do=getNewComment "Qual seria um notebook que não tem carcaça quebradiça e parafuso que não empena?")
         
         [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
         Por [sandrofabres](https://www.clubedohardware.com.br/profile/1004875-sandrofabres/ "Ir ao perfil de sandrofabres")  
-        6 horas atrás
-        
-    * [![UMARIZAL](https://www.clubedohardware.com.br/uploads/members/monthly_2021_06/2021-200x200.thumb.jpg.52a208353eb4523391150926b9efe534.jpg)](https://www.clubedohardware.com.br/profile/294044-umarizal/ "Ir ao perfil de UMARIZAL")
-        
-        0
-        
-        [Processador não chega ao TDP em watts anunciado pelo fabricante](https://www.clubedohardware.com.br/forums/topic/1697534-processador-n%C3%A3o-chega-ao-tdp-em-watts-anunciado-pelo-fabricante/?do=getNewComment "Processador não chega ao TDP em watts anunciado pelo fabricante")
-        
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [UMARIZAL](https://www.clubedohardware.com.br/profile/294044-umarizal/ "Ir ao perfil de UMARIZAL")  
-        6 horas atrás
-        
-    * [![Luis Fillipe Nicola](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2371c462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ELF%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1253170-luis-fillipe-nicola/ "Ir ao perfil de Luis Fillipe Nicola")
-        
-        6
-        
-        [Qual placa-mãe é melhor comprar?](https://www.clubedohardware.com.br/forums/topic/1697533-qual-placa-m%C3%A3e-%C3%A9-melhor-comprar/?do=getNewComment "Qual placa-mãe é melhor comprar?")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [Luis Fillipe Nicola](https://www.clubedohardware.com.br/profile/1253170-luis-fillipe-nicola/ "Ir ao perfil de Luis Fillipe Nicola")  
-        6 horas atrás
-        
-    * [![leonardosouzajose](https://www.clubedohardware.com.br/uploads/members/monthly_2023_10/imported-photo-1229803.thumb.png.c59b0378444232692c0454a3ec8f0a56.png)](https://www.clubedohardware.com.br/profile/1229803-leonardosouzajose/ "Ir ao perfil de leonardosouzajose")
-        
-        0
-        
-        [placa de Vídeo desconectando](https://www.clubedohardware.com.br/forums/topic/1697532-placa-de-v%C3%ADdeo-desconectando/?do=getNewComment "placa de Vídeo desconectando")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [leonardosouzajose](https://www.clubedohardware.com.br/profile/1229803-leonardosouzajose/ "Ir ao perfil de leonardosouzajose")  
-        6 horas atrás
-        
-    * [![LUFFY2011](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1252088.thumb.png.369e24ba367dfa97f9206927b32aa047.png)](https://www.clubedohardware.com.br/profile/1252088-luffy2011/ "Ir ao perfil de LUFFY2011")
-        
-        3
-        
-        [AMD Ryzen 9 7900X ou AMD Ryzen 7 7800x3d?qual devo comprar](https://www.clubedohardware.com.br/forums/topic/1697531-amd-ryzen-9-7900x-ou-amd-ryzen-7-7800x3dqual-devo-comprar/?do=getNewComment "AMD Ryzen 9 7900X ou AMD Ryzen 7 7800x3d?qual devo comprar")
-        
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [LUFFY2011](https://www.clubedohardware.com.br/profile/1252088-luffy2011/ "Ir ao perfil de LUFFY2011")  
-        7 horas atrás
-        
-    * [![Wolf-G](https://www.clubedohardware.com.br/uploads/members/monthly_2020_03/89284396398f575ff6f41ea2c5bee0f6.thumb.png.65a5ddbf976fa4434c45afb1c5f287c6.png)](https://www.clubedohardware.com.br/profile/429459-wolf-g/ "Ir ao perfil de Wolf-G")
-        
-        1
-        
-        [Upgrade de PC - Consigo aproveitar a placa-mãe ?](https://www.clubedohardware.com.br/forums/topic/1697530-upgrade-de-pc-consigo-aproveitar-a-placa-m%C3%A3e/?do=getNewComment "Upgrade de PC - Consigo aproveitar a placa-mãe ?")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Wolf-G](https://www.clubedohardware.com.br/profile/429459-wolf-g/ "Ir ao perfil de Wolf-G")  
-        7 horas atrás
+        9 horas atrás
         
     
 
@@ -623,5 +623,11 @@ Clube do Hardware [Powered by Invision Community](https://www.invisioncommunity.
 [×](#)
 
 * Criar novo...
+
+[![Ebook grátis: Aprenda a ler resistores e capacitores!](https://www.clubedohardware.com.br/uploads/attachments/monthly_2021_01/Aprenda_a_Ler_Resistores_e_Capacitores-capa-3d-newsletter.thumb.jpg.8e89ae55e5231cd11f4fddb26b4d3aeb.jpg)](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
+
+**EBOOK GRÁTIS!**
+
+[**CLIQUE AQUI E BAIXE AGORA MESMO!**](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
 
 ![](https://www.facebook.com/tr?id=1945334499261173&ev=PageView&cd%5Bitem_id%5D=690576&cd%5Bitem_name%5D=Regras+do+Clube+do+Hardware&cd%5Bitem_type%5D=topic&cd%5Bcategory_name%5D=Avisos da administração)
