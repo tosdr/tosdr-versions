@@ -213,13 +213,17 @@ Log in to order, manage your products and services, and track your orders.
         * Identity, Security & Operations
             
             * Identity and Access Management (IAM) Secure your access management and enhance your productivity
-    * [SecNumCloud](https://www.ovhcloud.com/en/solutions/uc-secnumcloud-environment/)
+    * [Bare Metal Pod](https://www.ovhcloud.com/en/solutions/uc-secnumcloud-environment/)
         * Back to menu
-        * [SecNumCloud](https://www.ovhcloud.com/en/solutions/uc-secnumcloud-environment/)
+        * [Bare Metal Pod](https://www.ovhcloud.com/en/solutions/uc-secnumcloud-environment/)
             
-        * SecNumCloud
+        * Bare Metal Pod
             
-            * [SecNumCloud-qualified Baremetal Pod](https://www.ovhcloud.com/en/enterprise/products/secnumcloud/bare-metal/) The power of Bare Metal, combined with the flexibility of OpenStack cloud and the security of SecNumCloud-qualified sovereign cloud.
+            * [Process underway to obtain SecNumCloud qualification for Bare Metal Pod](https://www.ovhcloud.com/en/enterprise/products/secnumcloud/bare-metal/) Bare Metal performance in a SecNumCloud compliant sovereign environment.
+        * Use Cases
+            
+            * [Data sovereignty](https://www.ovhcloud.com/en/about-us/data-sovereignty/)
+            * [SecNumCloud Qualified Offers](https://www.ovhcloud.com/en/solutions/uc-secnumcloud-environment/)
 * [Web Hosting & Domain](https://www.ovhcloud.com/en/web-cloud/)
     * Back to menu
     * [Web Hosting & Domain](https://www.ovhcloud.com/en/web-cloud/)
