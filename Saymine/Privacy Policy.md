@@ -1,6 +1,4 @@
-[![](https://cdn.prod.website-files.com/628ca7512a3d4b82cd74bf49/62933cf3e865838f47ae73e5_Mine%20Logo%20Black.svg)](https://www.saymine.com/)
-
-[What we do](https://www.saymine.com/)
+[![Mine](https://cdn.prod.website-files.com/628ca7512a3d4b82cd74bf49/62933cf3e865838f47ae73e5_Mine%20Logo%20Black.svg)](https://www.saymine.com/mineapp)
 
 About
 
@@ -299,11 +297,11 @@ Unleash yourself. Remove your personal data from services you no longer use.
 
 ![](https://cdn.prod.website-files.com/628ca7512a3d4b82cd74bf49/62986fa17a0fbb6f07a923bd_illu-ostrich-banner-bottom-mobile.png)
 
-[![](https://cdn.prod.website-files.com/628ca7512a3d4b82cd74bf49/62933cf374c4061ab1f382ef_Mine%20Logo%20White.svg)](https://www.saymine.com/welcome)
+[![](https://cdn.prod.website-files.com/628ca7512a3d4b82cd74bf49/62933cf374c4061ab1f382ef_Mine%20Logo%20White.svg)](https://www.saymine.com/mineapp)
 
 ABOUT US
 
-[What we do](https://www.saymine.com/)[Who we are](https://www.saymine.com/about)[MineOS](https://business.saymine.com/)[Privacy heroes](https://privacy-heroes.saymine.com/)[Our users](https://www.saymine.com/wall-of-love)[Contact us](https://www.saymine.com/contact)[Careers](https://www.comeet.com/jobs/saymine/39.003)
+[What we do](https://www.saymine.com/old-home-2)[Who we are](https://www.saymine.com/about)[MineOS](https://business.saymine.com/)[Privacy heroes](https://privacy-heroes.saymine.com/)[Our users](https://www.saymine.com/wall-of-love)[Contact us](https://www.saymine.com/contact)[Careers](https://www.comeet.com/jobs/saymine/39.003)
 
 RESOURCES
 
