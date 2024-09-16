@@ -102,7 +102,7 @@ Privacy Policy
 
 [![TRUSTe Verified Privacy](//privacy-policy.truste.com/privacy-seal/seal?rid=b660c4bf-c1cd-44c9-a527-f428e5f1f5d2)](https://privacy.truste.com/privacy-seal/validation?rid=b660c4bf-c1cd-44c9-a527-f428e5f1f5d2)[![TRUSTe Data Certification](//privacy-policy.truste.com/privacy-seal/seal?rid=0d325ffb-5c6a-4c69-9edd-3380254e97d6)](https://privacy.truste.com/privacy-seal/validation?rid=0d325ffb-5c6a-4c69-9edd-3380254e97d6) 
 
-**Effective Date**: June 14, 2024  
+**Effective Date**: September 13, 2024  
 You can find the prior version [here](https://www.applovin.com/privacy-prior/).
 
 AppLovin Corporation (“we,” “us,” “our,” or “AppLovin”) operates a suite of tools for app developers and other businesses to automate and optimize the marketing and monetization of their platforms, products, or services by enabling the placement of different types of advertisements on digital properties including mobile apps, websites, and connected TV devices (collectively, the “Advertising Services” or “Services”).  As explained below, consumers interact with us in a few ways, primarily through advertisements served by AppLovin on behalf of advertisers.
@@ -186,7 +186,7 @@ We may share information we collect or derive with third parties in the followin
       
     Unless otherwise noted in our partner list, each AppLovin advertising partner is an independent controller of your data. You can view a list of AppLovin advertising partners with whom we share your data [here](https://www.applovin.com/applovin-partners-privacy/), current as of the date listed at the top of that page.  
       
-    If you do not want to receive interest-based advertisements, please see the [“Manage Your Privacy Choices”](https://www.applovin.com/privacy/#manage-privacy) section below. If you are located in the European Union, UK, or Switzerland, you may also see the [“Additional Provisions for EU/UK Individuals”](https://www.applovin.com/privacy/#specific-provisions-eu) section below for more options. If you are an individual resident of the U.S. states that have enacted comprehensive consumer privacy laws, you may also review the “[U.S. Multistate Privacy Notice](https://www.applovin.com/privacy/#specific-provisions)” section below for more options.  
+    If you do not want to receive interest-based advertisements, please see the [“Manage Your Privacy Choices”](https://www.applovin.com/privacy/#manage-privacy) section below. If you are located in the European Union, UK, or Switzerland, you may also see the [“Additional Provisions for EU/UK/Swiss Individuals”](https://www.applovin.com/privacy/#specific-provisions-eu) section below for more options. If you are an individual resident of the U.S. states that have enacted comprehensive consumer privacy laws, you may also review the “[U.S. Multistate Privacy Notice](https://www.applovin.com/privacy/#specific-provisions)” section below for more options.  
       
     Please note that the practices of our third-party advertising partners delivering advertisements through our Services are subject to those partners’ own privacy policies.
 * **Regulatory or Legal Requirements.** We may disclose information to governmental regulatory authorities as required by law, including for tax or accounting purposes, in response to their requests for such information or to assist in investigations. We may also disclose personal information to third parties in connection with claims, disputes, or litigation, when otherwise required by law or court order.
@@ -205,11 +205,9 @@ To see or manage the data collected by AppLovin from your device, you may downlo
 
 By navigating through the tabs in the AppLovin Privacy Management Application, you can erase the personal information that AppLovin may have collected about you or request a copy of that personal information.
 
-### Children’s Online Privacy Protection
+### Children’s Privacy
 
-We do not knowingly collect personal information from, or serve advertisements to, children as defined and required by applicable laws. If you believe we have served an advertisement to a child or might have any personal information from or about a child, or if you believe a mobile application may be exclusively designed for, directed to, or pass personal information knowingly from, children, please contact us via email at [\[email protected\]](https://www.applovin.com/cdn-cgi/l/email-protection).
-
-We may collect certain types of information (e.g., IDFV, publisher age-related flags) from general audience apps for activities that fit within the “support for internal operations” exception from the notice and consent requirements in the Children’s Online Privacy Protection Rule.
+We do not knowingly collect personal information from, or serve advertisements to, children as defined and required by applicable laws. If you believe we have served an advertisement to a child or might have any personal information from or about a child, or if you believe a mobile application in which an AppLovin-served advertisement appeared may be designed for, directed to, or pass personal information knowingly from, children in violation of our policies, please contact us via email at [\[email protected\]](https://www.applovin.com/cdn-cgi/l/email-protection).
 
 ### Data Security and Retention
 
@@ -286,22 +284,22 @@ We retain other information such as customer contact and payment information in 
 
 ![AppLovin](https://www.applovin.com/wp-content/uploads/2019/09/applovin-logo-hz-blue-2019.svg)
 
-Additional Provisions for EU/UK Individuals
--------------------------------------------
+Additional Provisions for EU/UK/Swiss Individuals
+-------------------------------------------------
 
-If you are located in the European Union, Switzerland, or the United Kingdom, the following additional provisions apply to you.
+If you are located in the European Union, United Kingdom, or Switzerland, the following additional provisions apply to you.
 
 ### **Data Privacy Framework**
 
 AppLovin complies with the EU-U.S Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce.
 
-AppLovin has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) under the UK Extension to the EU-U.S. DPF.  AppLovin has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. AppLovin is committed to subjecting all personal data received from the Data Privacy Framework, to the Framework’s applicable Principles. To learn more about the Data Privacy Framework, visit the U.S. Department of Commerce’s Data Privacy Framework List, available at: [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/).
+AppLovin has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union and the United Kingdom in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF.  AppLovin has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this Privacy Policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/).
 
-AppLovin is responsible for the processing of personal data it receives under each Data Privacy Framework and subsequently transfers to a third party acting as an agent on its behalf. AppLovin complies with the Data Privacy Framework Principles for all onward transfers of personal data from the EU, the United Kingdom, and Switzerland, including the onward transfer liability provisions.
+If you are an EU, UK, or Swiss individual, where we transfer your personal data to third party servicer providers (see above) who perform services for us or on our behalf, we are responsible for the processing of that data by them and shall remain liable if they process your personal data in a manner inconsistent with the DPF Principles, unless we are not responsible for the event giving rise to the damage. 
 
 With respect to personal data received or transferred pursuant to the Data Privacy Framework, AppLovin is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, AppLovin may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-In compliance with the EU-U.S. DPF,  the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF, AppLovin commits to refer unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF to TRUSTe, an alternative dispute resolution provider based in the United States.  If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit [https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request) for more information or to file a complaint.  These dispute resolution services are provided at no cost to you.
+In compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF, AppLovin commits to resolve DPF Principles-related complaints about our collection and use of your personal information. EU, UK, and Swiss individuals with inquiries or complaints regarding our handling of personal data received in reliance on the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF should first contact AppLovin at [\[email protected\]](https://www.applovin.com/cdn-cgi/l/email-protection). AppLovin refers unresolved complaints to TRUSTe, an alternative dispute resolution provider based in the United States.  If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit [https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request) for more information or to file a complaint.  These dispute resolution services are provided at no cost to you.
 
 For complaints regarding DPF compliance not resolved by any of the other DPF mechanisms, you have the possibility, under certain conditions, to invoke binding arbitration. Further information can be found on the official DPF website.
 
@@ -315,15 +313,13 @@ Additionally, we process your personal data when necessary to do so for fraud pr
 
 If the processing of your personal data is necessary, we will generally ensure that consent has been obtained from you if there is no other lawful basis for such processing. You have the right to withdraw your consent to processing of personal data at any time.
 
+If personal data covered by this Privacy Policy is to be used for a new purpose that is materially different from that for which the personal data was originally collected or subsequently authorized, or is to be disclosed to a non-agent third party in a manner not specified in this Privacy Policy, we will provide you with an opportunity to choose whether to have your personal data so used or disclosed. Requests to opt out of such uses or disclosures of personal data should be sent to us as specified in the “Contact” section below. Certain personal data, such as information about medical or health conditions, racial or ethnic origin, political opinions, religious or philosophical beliefs, is considered “Sensitive Information”. AppLovin does not collect or seek to elicit “Sensitive Information”.
+
 For questions about data processing, please contact our Data Protection Officer. Visit the “Contact” section below for contact information.
-
-### Children
-
-We do not knowingly collect personal information from, or serve advertising to, children under the age of 16 through the Advertising Services and the Website. If you believe we have served an advertisement to a child or might have any personal information from or about a child, or if you believe a mobile application may be exclusively designed for, directed to, or pass personal information knowingly from, children, please contact us via email at [\[email protected\]](https://www.applovin.com/cdn-cgi/l/email-protection).
 
 ### Your Rights
 
-**If you are an individual in the EU or UK, you are able:**
+**If you are an individual in the EU, UK, or Switzerland, you are able:**
 
 * To request access to the personal data we hold about you;
 * To request that we rectify or erase your personal data;
@@ -339,7 +335,7 @@ Additionally, you have the right to lodge a complaint against us. To do so, cont
 
 **EU and UK Privacy Representatives**
 
-We have appointed [Prighter Group](https://prighter.com/) as our privacy representatives in the EU and UK.  You can contact us through our privacy representatives at the following addresses: 
+We have appointed [Prighter Group](https://prighter.com/) as our privacy representatives in the EU and UK.  You can contact us through our privacy representatives at the following addresses:
 
 _For residents of the EU_:**  
 PrighterGDPR-Rep by Maetzler Rechtsanwalts GmbH & Co KG  
@@ -357,7 +353,7 @@ United Kingdom
 
 Additional information regarding our privacy representatives can be found at the following link: [https://prighter.com/q/19826057144](https://prighter.com/q/19826057144).
 
-\[END OF EU/UK SPECIFIC PROVISIONS\]
+\[END OF EU/UK/SWISS SPECIFIC PROVISIONS\]
 
 ![AppLovin](https://www.applovin.com/wp-content/uploads/2019/09/applovin-logo-hz-blue-2019.svg)
 
