@@ -1,6 +1,6 @@
 [Skip to main content](#maincontent) [Skip to footer content](#footercontent)
 
- [![](https://www.weber.com/on/demandware.static/Sites-US-Site/-/default/dwd9f7bfb8/images/flags/us.png "United States") US United States (en)](https://www.weber.com/international "United States")
+ [![](https://www.weber.com/on/demandware.static/Sites-US-Site/-/default/dw92fe0b64/images/flags/us.png "United States") US United States (en)](https://www.weber.com/international "United States")
 
 * [RECIPES](https://www.weber.com/US/en/recipes/weber-31811.html)
 * [DISCOVER WEBER](https://www.weber.com/US/en/aboutus.html)
@@ -370,7 +370,7 @@ Replacement Parts
 * [Register a Grill](https://weber.registria.com/ "Register Grill")
 * [Find a Store](https://www.weber.com/US/en/storefinder/ "Store finder")
 
-* [![](https://www.weber.com/on/demandware.static/Sites-US-Site/-/default/dwd9f7bfb8/images/flags/us.png "United States")
+* [![](https://www.weber.com/on/demandware.static/Sites-US-Site/-/default/dw92fe0b64/images/flags/us.png "United States")
     
     United States (en)](https://www.weber.com/international "United States")
     
