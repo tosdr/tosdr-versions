@@ -276,15 +276,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The name Harry Potter appears 29 times in Harry Potter and the Philosopher’s Stone, while the name Voldemort appears 38 times.
+“Pensieve” is made up of two words: French for “to think” (“penser”) and an English synonym of “strainer” (“sieve”). A Pensieve strains your thoughts!
 
 ### Potter History
 
-July 16, 2009 – Harry Potter and the Half-Blood Prince film breaks records to have the highest grossing first 24 hours of all time.
+February 10, 2008 – Jim Dale wins a Grammy Award for his reading of the Harry Potter and the Deathly Hallows audiobook.
 
 ### Potter Quote
 
-“Dear, dear. Miss Brown, would you mind running along to the head-mistress and informing her that we have an escaped firework in our classroom?”
+“I can, you know, do math and stuff.”
 
 [](#)
 
