@@ -103,11 +103,11 @@
     
     [Go to blog](https://timeular.com/blog/)
     
+    [Don’t Break the Chain: The Productivity Hack That Made Seinfeld a Legend](https://timeular.com/blog/dont-break-chain/)
+    
+    [What Are Some of the Downsides to Electronic Monitoring of Employees?](https://timeular.com/blog/downsides-monitoring-employees/)
+    
     [The 2 2 3 Schedule: Pros, Cons, and Alternatives](https://timeular.com/blog/2-2-3-schedule/)
-    
-    [Workload Management Guide: How To Master Work Planning](https://timeular.com/blog/workload-management/)
-    
-    [11 Proven Ways to Motivate Employees](https://timeular.com/blog/ways-motivate-employees/)
     
 * [Pricing](https://timeular.com/pricing/)
 * [Enterprise](https://timeular.com/enterprise-time-tracking/)
@@ -168,7 +168,7 @@ PRIVACY POLICY
     3. In case of an information or revocation request, you need to file sufficient information to your individualization (at least your first name, surname and e-mail address) and valid evidence that this information refers to you. In these cases, or if you have other questions to our data security please contact our data protection office, whose contact details you will find below.
     4. If you consider that the processing of your personal data infringes applicable data protection law, you can lodge a complaint with the competent supervisory authority. In Austria the competent supervisory authority is the Austrian Data Protection Authority.
 8. **Data protection officer**
-    1. Timeular has appointed a data protection officer. You can contact our data protection officer Manuel Bruschi via e-mail under [\[email protected\]](https://timeular.com/cdn-cgi/l/email-protection).
+    1. Timeular has appointed a data protection officer. You can contact our data protection officer, Mitchell Maynard, via e-mail at [\[email protected\]](https://timeular.com/cdn-cgi/l/email-protection).
 9. **Google Data**
     1. Timeular’s use and transfer of information received from Google APls to any other app will adhere to [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy), including the Limited Use requirements.
     2. Timeular does not share any Google user data with third-party tools, including AI models.
@@ -178,8 +178,14 @@ PRIVACY POLICY
 English
 
 * [Deutsch](https://timeular.com/de/privacy-policy/?wg-choose-original=false "Language switcher : German")
-* [Español](https://timeular.com/es/privacy-policy/?wg-choose-original=false "Language switcher : Spanish")
-* [Français](https://timeular.com/fr/privacy-policy/?wg-choose-original=false "Language switcher : French")
+* [Español](https://timeular.com/es/politica-de-privacidad/?wg-choose-original=false "Language switcher : Spanish")
+* [Français](https://timeular.com/fr/politique-de-confidentialite/?wg-choose-original=false "Language switcher : French")
+* [Polski](https://timeular.com/pl/polityka-prywatnosci/?wg-choose-original=false "Language switcher : Polish")
+* [Dansk](https://timeular.com/da/privacy-policy/?wg-choose-original=false "Language switcher : Danish")
+* [Italiano](https://timeular.com/it/privacy-policy/?wg-choose-original=false "Language switcher : Italian")
+* [Português Brasileiro](https://timeular.com/pt-br/privacy-policy/?wg-choose-original=false "Language switcher : Brazilian Portuguese")
+* [Svenska](https://timeular.com/sv/privacy-policy/?wg-choose-original=false "Language switcher : Swedish")
+* [Norsk](https://timeular.com/no/privacy-policy/?wg-choose-original=false "Language switcher : Norwegian")
 
 Solutions
 
