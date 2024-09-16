@@ -41,11 +41,13 @@
         * [eBooks & guides](https://www.watermarkinsights.com/resources/ebooks-guides)
         * [Reports](https://www.watermarkinsights.com/resources/reports)
         * [Videos](https://www.watermarkinsights.com/resources/videos)
-    * * ### Navigating the enrollment cliff with Gaston College
+    * * ### Watermark Student Success Webinar Series
             
-            [Register](https://go.watermarkinsights.com/WBN-2024-08-29-Navigating-the-enrollment-cliff-SSE_LPRegistration.html "Register")
+            [Register](https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&eventid=4685244&sessionid=1&key=C0459A10BCFA2DF4E3FB35F8F34CA951&groupId=5666134&sourcepage=register "Register")
             
-            ![](https://www.watermarkinsights.com/wp-content/uploads/2024/08/Regular-Promo-4.png)
+            ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20214%20210'%3E%3C/svg%3E)
+            
+            ![](https://www.watermarkinsights.com/wp-content/uploads/2024/09/MENU-WB-2024-10-Student-Success-Webinar-Series-2.png)
             
 * [Who we are](https://www.watermarkinsights.com/about-us/)
     * * [Company](https://www.watermarkinsights.com/about-us/)
@@ -116,11 +118,13 @@
         * [eBooks & guides](https://www.watermarkinsights.com/resources/ebooks-guides)
         * [Reports](https://www.watermarkinsights.com/resources/reports)
         * [Videos](https://www.watermarkinsights.com/resources/videos)
-    * * ### Navigating the enrollment cliff with Gaston College
+    * * ### Watermark Student Success Webinar Series
             
-            [Register](https://go.watermarkinsights.com/WBN-2024-08-29-Navigating-the-enrollment-cliff-SSE_LPRegistration.html "Register")
+            [Register](https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&eventid=4685244&sessionid=1&key=C0459A10BCFA2DF4E3FB35F8F34CA951&groupId=5666134&sourcepage=register "Register")
             
-            ![](https://www.watermarkinsights.com/wp-content/uploads/2024/08/Regular-Promo-4.png)
+            ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20214%20210'%3E%3C/svg%3E)
+            
+            ![](https://www.watermarkinsights.com/wp-content/uploads/2024/09/MENU-WB-2024-10-Student-Success-Webinar-Series-2.png)
             
 * [Who we are](https://www.watermarkinsights.com/about-us/)
     * * [Company](https://www.watermarkinsights.com/about-us/)
