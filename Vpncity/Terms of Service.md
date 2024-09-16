@@ -1,4 +1,4 @@
-Stealth mode: [Exposed](https://www.vpncity.com/page/hide-my-ip) 206.81.0.208 North Bergen, US DIGITALOCEAN-ASN
+Stealth mode: [Exposed](https://www.vpncity.com/page/hide-my-ip) 159.223.154.84 Unknown Unknown
 
 [![VPNCity Logo](https://d1eb2n65zrr15p.cloudfront.net/img/vpncity-logo-blue.svg)](https://www.vpncity.com/)
 
