@@ -12,7 +12,7 @@ disabled Mode
     * [Explore hotels](https://www.virginaustralia.com/au/hotels/)
     * [Hire a car](https://www.virginaustralia.com/au/car-hire/)
     * [Travel insurance](https://covermore.virginaustralia.com/)
-    * [Pride Flight](https://www.virginaustralia.com/au/en/book/pride-flight/)
+    * [Pride Flight](https://www.virginaustralia.com/au/en/book/pride-flight-2025/)
     * [Activities](https://www.virginaustralia.com/au/en/experiences/en?&icmpid=va:aem:aem_nav:exp_lnk:ao:na)
     
     Flight specials
