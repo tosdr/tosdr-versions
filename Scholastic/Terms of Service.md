@@ -125,6 +125,8 @@ For terms and conditions applicable to subscriptions, please [click here](https:
 
   
 
+  
+
 Scholastic reserves the right, at its sole discretion, to change, modify, add or delete portions of these terms of use at any time. The current terms of use may be viewed at [http://www.scholastic.com/terms.htm](http://www.scholastic.com/terms.htm) along with the date of most recent update.  
 This Terms of Use replaces our former terms of use which you can find posted [here](https://www.scholastic.com/site/terms-archive.html).
 
