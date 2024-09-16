@@ -1,5 +1,3 @@
-![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66d1c53c2701e33359eccaf7_LES%20JOURS%20PROMO%20-%20banner.svg)
-
 0
 
 3
@@ -12,7 +10,9 @@ Jours
 
 Heures
 
-Jusqu'à -100€\* sur les packs permis ! Du 02 au 18/09 inclus. [J'en profite](https://app.ornikar.com/inscription?redirect=%2Fboutique)
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66e7d8e6fff0d6185bb86f75_Badge%20DERNIER%20JOURS%20(2).svg)
+
+Jusqu’à -100€ sur les packs permis\* Jusqu'au 18/09 inclus. [J'en profite](https://app.ornikar.com/inscription?redirect=%2Fboutique)
 
 [![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/65def2364a136ea2280a63c2_logo-ornikar.svg)](https://www.ornikar.com/)
 
@@ -104,9 +104,9 @@ Jours
 
 Heures
 
-![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/668fa89be611649a2aeaca55_PROLONGATION%20logo.svg)
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66e7d8e6fff0d6185bb86f75_Badge%20DERNIER%20JOURS%20(2).svg)
 
-Jusqu’à -100€ sur les packs permis\* Jusqu'au 15 juillet inclus. [J'en profite](https://app.ornikar.com/inscription?redirect=%2Fboutique)
+Jusqu’à -100€ sur les packs permis\* Jusqu'au 18/09 inclus. [J'en profite](https://app.ornikar.com/inscription?redirect=%2Fboutique)
 
 Je gère mes contrats et conduis en toute tranquillité.
 
