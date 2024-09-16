@@ -227,43 +227,30 @@ While we and others give users the choices described in this policy, there are m
 We use the personal data we collect for purposes described in this privacy statement or as otherwise disclosed to you, including for the following purposes:
 
 * _To improve customer service and respond to your questions and queries_
-
-* Information users provide helps us respond to their customer service requests and support needs.
-* Applicable categories of user information: Contact information, account activity, payment information, content and files, usage data, inferences
-
+    * Information users provide helps us respond to their customer service requests and support needs.
+    * Applicable categories of user information: Contact information, account activity, payment information, content and files, usage data, inferences
 * _To improve our site and services_
-
-* We may use feedback users provide to improve our products and services.
-* We may use information in the aggregate to understand how our users as a group use the services and resources provided on our site.
-* Applicable categories of user information: Contact information, account activity, payment information, content and files, usage data, inferences
-
+    * We may use feedback users provide to improve our products and services.
+    * We may use information in the aggregate to understand how our users as a group use the services and resources provided on our site.
+    * Applicable categories of user information: Contact information, account activity, payment information, content and files, usage data, inferences
 * _To provide and deliver our products, including securing, troubleshooting, improving, and personalizing those products_
-
-* To offer our users relevant content and recommendations
-* To display marketing and advertising tailored to our users on our site and on other sites
-* Applicable categories of user information: Contact information, account activity, payment information, content and files, identifiers and device information, usage data, sensor data, inferences
-
+    * To offer our users relevant content and recommendations
+    * To display marketing and advertising tailored to our users on our site and on other sites
+    * Applicable categories of user information: Contact information, account activity, payment information, content and files, identifiers and device information, usage data, sensor data, inferences
 * _For business operations, including to process payments and fulfill orders and for other accounting and internal operations_
-
-* We use the information users provide about themselves when placing an order only as described in this policy and to process and fulfill that order. We do not share this information with outside parties except to the extent appropriate to provide the service.
-* Applicable categories of user information: Contact information, account activity, payment information, content and files, identifiers and device information, usage data, inferences
-
+    * We use the information users provide about themselves when placing an order only as described in this policy and to process and fulfill that order. We do not share this information with outside parties except to the extent appropriate to provide the service.
+    * Applicable categories of user information: Contact information, account activity, payment information, content and files, identifiers and device information, usage data, inferences
 * _To prevent fraud and abuse_
-
-* We may use the information contained in orders to prevent fraudulent financial transactions and other illicit activity or violations of our terms of service.
-* We may use network addresses and similar data to block or report abusive and harassing users. In cases involving potential harm to individuals, we may submit personally identifiable information to law enforcement or other third parties.
-* Applicable categories of user information: Contact information, account activity, payment information, content and files, usage data, inferences
-
+    * We may use the information contained in orders to prevent fraudulent financial transactions and other illicit activity or violations of our terms of service.
+    * We may use network addresses and similar data to block or report abusive and harassing users. In cases involving potential harm to individuals, we may submit personally identifiable information to law enforcement or other third parties.
+    * Applicable categories of user information: Contact information, account activity, payment information, content and files, usage data, inferences
 * _To send periodic emails and otherwise communicate with you through confirmations, invoices, notices, alerts, and administrative messages_
-
-* We may use the email address to send users information pertaining to their orders and accounts. It may also be used to respond to their inquiries, questions, and other requests.
-* Applicable categories of user information: Contact information, account activity, payment information, content and files, identifiers and device information, usage data, inferences
-
+    * We may use the email address to send users information pertaining to their orders and accounts. It may also be used to respond to their inquiries, questions, and other requests.
+    * Applicable categories of user information: Contact information, account activity, payment information, content and files, identifiers and device information, usage data, inferences
 * _Marketing and Advertising_
-
-* If our users so choose, we may send them emails about products, events, promotions, and offers.
-* We use third party advertising providers as described in the Cookies and Similar Tracking Technologies section.
-* Applicable categories of user information: Contact information, account activity, identifiers and device information, usage data, inferences
+    * If our users so choose, we may send them emails about products, events, promotions, and offers.
+    * We use third party advertising providers as described in the Cookies and Similar Tracking Technologies section.
+    * Applicable categories of user information: Contact information, account activity, identifiers and device information, usage data, inferences
 
 In carrying out these purposes, we combine data we collect from different sources to give you a more seamless, consistent, and personalized experience.
 
@@ -419,9 +406,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Perfect is the enemy of good”
+“ Elegance is not a dispensable luxury but a quality that decides between success and failure”
 
-[Voltaire](http://en.wikipedia.org/wiki/Perfect_is_the_enemy_of_good)
+[Edsger Dijkstra](http://en.wikipedia.org/wiki/Edsger_W._Dijkstra)
 
 [](https://www.adafruit.com/about)
 
