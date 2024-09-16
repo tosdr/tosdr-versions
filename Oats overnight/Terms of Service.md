@@ -273,8 +273,6 @@ SECTION 21 - CONTACT INFORMATION
   
 Questions about the Terms of Service should be sent to us at support@oatsovernight.com.
 
-![Join the Rumor Mill](//www.oatsovernight.com/cdn/shop/t/415/assets/static.mill_logo.png?v=173123316556213718451725915537)
-
 Special Offers, Flavor Releases, and More.
 ------------------------------------------
 
