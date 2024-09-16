@@ -125,11 +125,11 @@ Your contact information / Additional information
 
 #### Recent Comments
 
-* Jonathan on [SMALL PRINT](https://weshareabundance.com/small-print/#comment-3866)
-* [Lt Francis Brown Chafwa Mutale](http://ltfbcmutale/) on [SMALL PRINT](https://weshareabundance.com/small-print/#comment-3852)
-* [Lt Francis Brown Chafwa Mutale](http://ltfbcmutale/) on [SMALL PRINT](https://weshareabundance.com/small-print/#comment-3851)
-* [Lt Francis Brown Chafwa Mutale](http://ltfbcmutale/) on [SMALL PRINT](https://weshareabundance.com/small-print/#comment-3850)
-* Jason on [SMALL PRINT](https://weshareabundance.com/small-print/#comment-3849)
+* [Graham Frame](https://success-lifestyles.com/) on [SMALL PRINT](https://weshareabundance.com/small-print/#comment-3898)
+* [Graham Frame](https://success-lifestyles.com/) on [SMALL PRINT](https://weshareabundance.com/small-print/#comment-3897)
+* Ali+Raza on [SMALL PRINT](https://weshareabundance.com/small-print/#comment-3895)
+* [پخش زنده اخبار ورزشی شبکه سه](http://pk/) on [Bonus](https://weshareabundance.com/bonus/#comment-3893)
+* Angel Luis on [SMALL PRINT](https://weshareabundance.com/small-print/#comment-3884)
 
 Contact Info
 ------------
