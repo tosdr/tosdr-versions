@@ -14,8 +14,6 @@ Compare Them All](https://www.wikimatrix.org/)
 * [Search](https://www.wikimatrix.org/search)
 * [About](https://www.wikimatrix.org/static/about)
 
-[![](/display/7/468_60/2b487300a7fe2c89e4e66959c3ef5014)](http://www.kontextwork.de/?ad=wm)
-
 Privacy Policy
 ==============
 
