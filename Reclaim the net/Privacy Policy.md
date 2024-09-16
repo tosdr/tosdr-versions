@@ -14,7 +14,7 @@
     
 * [Big Tech Alternatives](https://reclaimthenet.org/category/tools)
     
-* [Merch](https://merch.reclaimthenet.org/)
+* [Merch](https://shop.reclaimthenet.org/)
     
 * [Donate](https://donorbox.org/reclaim-the-net)
     
@@ -138,7 +138,7 @@ Updated September 10, 2019.
 
 * [Login](https://reclaimthenet.org/?memberful_endpoint=auth)
 * [Home](https://reclaimthenet.org/)
-* [Merch](https://merch.reclaimthenet.org/)
+* [Merch](https://shop.reclaimthenet.org/)
 * [Donate](https://donorbox.org/reclaim-the-net)
 * [Donate Crypto](https://reclaimthenet.org/donate-cryptocurrency)
 * [Contact](https://reclaimthenet.org/contact)
@@ -147,7 +147,7 @@ Updated September 10, 2019.
 
 ![](https://reclaimthenet.org/wp-content/uploads/2020/03/ORIGINAL-LOGO-good-variation-300x106.png)
 
-[![](https://reclaimthenet.org/wp-content/uploads/2020/04/reclaim-merch.png)](https://merch.reclaimthenet.org/)
+[![](https://reclaimthenet.org/wp-content/uploads/2020/04/reclaim-merch.png)](https://shop.reclaimthenet.org/)
 
 [](#elementor-action%3Aaction%3Dpopup%3Aclose%26settings%3DeyJkb19ub3Rfc2hvd19hZ2FpbiI6IiJ9)
 
@@ -157,12 +157,12 @@ Search  Search
 
 * [Home](https://reclaimthenet.org/)
 * [Subscribe](https://reclaimthenet.org/join)
-* [Merch](https://merch.reclaimthenet.org/)
+* [Merch](https://shop.reclaimthenet.org/)
 * [Donate](https://donorbox.org/reclaim-the-net)
 
 * [Home](https://reclaimthenet.org/)
 * [Subscribe](https://reclaimthenet.org/join)
-* [Merch](https://merch.reclaimthenet.org/)
+* [Merch](https://shop.reclaimthenet.org/)
 * [Donate](https://donorbox.org/reclaim-the-net)
 
 SUPPORTERS:
