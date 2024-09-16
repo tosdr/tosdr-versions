@@ -295,8 +295,6 @@ CentOS would not be possible without the support of our sponsors. We would like 
 
 [![](/assets/img/sponsors/stablepoint.png)](https://www.stablepoint.com/)
 
-[![](/assets/img/sponsors/tailoredservers.png)](http://www.tailoredservers.com/)
-
 [![](/assets/img/sponsors/trabia.png)](https://www.trabia.com/)
 
 [![](/assets/img/sponsors/vhostvn.gif)](http://vhost.vn/)
