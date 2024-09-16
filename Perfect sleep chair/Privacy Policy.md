@@ -1,4 +1,4 @@
-![](https://p.alocdn.com/c/mm7och2x/a/etarget/p.gif?label=journeyhlthlife)                       
+![](https://p.alocdn.com/c/mm7och2x/a/etarget/p.gif?label=journeyhlthlife)                 
 
 [Skip to content](#MainContent)
 
@@ -37,7 +37,8 @@ icon-X Close menu
     
 * [Call Us: 1-888-404-1724](tel:18884041724)
 * [Get a Call Back](https://www.perfectsleepchair.com/pages/get-a-call-back)
-* [About Journey](https://www.perfectsleepchair.com/pages/about-our-company)
+* [On Sale](https://www.perfectsleepchair.com/collections/clearance)
+* [About Us](https://www.perfectsleepchair.com/pages/about-our-company)
 * [Log in](https://www.perfectsleepchair.com/account)
     
 
@@ -105,7 +106,8 @@ Your cart is currently empty.
     
 * [Call Us: 1-888-404-1724](tel:18884041724)
 * [Get a Call Back](https://www.perfectsleepchair.com/pages/get-a-call-back)
-* [About Journey](https://www.perfectsleepchair.com/pages/about-our-company)
+* [On Sale](https://www.perfectsleepchair.com/collections/clearance)
+* [About Us](https://www.perfectsleepchair.com/pages/about-our-company)
 
 [account Log in](https://www.perfectsleepchair.com/account) [icon-search Search](https://www.perfectsleepchair.com/search) icon-hamburger Site navigation [Cart](https://www.perfectsleepchair.com/cart)
 
