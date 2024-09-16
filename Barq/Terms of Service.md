@@ -9,7 +9,7 @@ HomeTeamVolunteer!
 Terms & Conditions
 ==================
 
-Last updated February 20, 2023
+Last updated February 28th, 55109
 
 barq is a free service catered to the Furry Fandom. We define Furries as all who have any form of interest in or relation to anthropomorphic animals (animals with human-like aspects). We understand that our users are often interested in similar fandoms (anime, cosplay, gaming etc.) as well. We don't mind overlapping content but our primary focus is the Furry Fandom.
 
