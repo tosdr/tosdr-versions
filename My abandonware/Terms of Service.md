@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
+* [Liquid Kids](https://www.myabandonware.com/game/liquid-kids-kqr)
 * [Lode Runner](https://www.myabandonware.com/game/lode-runner-xt)
 * [Knights of the Round](https://www.myabandonware.com/game/knights-of-the-round-b2o)
 * [Speed Up](https://www.myabandonware.com/game/speed-up-sd5)
 * [Speed Freak](https://www.myabandonware.com/game/speed-freak-sd4)
-* [Spectar](https://www.myabandonware.com/game/spectar-sd3)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
