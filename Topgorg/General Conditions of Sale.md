@@ -9,10 +9,6 @@ Refund Policy
 
 You agree with this terms when making a payment to us.
 
-**🚨 Limited-Time Offer: Get 30% MORE CREDITS on ANY Purchase! 🚨**  
-. Get 30% extra credits with every purchase! Don't miss out on this exclusive deal—stock up on credits now.  
-👉 [Click here to buy credits](https://topg.org/buy_credits) and claim your bonus before time runs out!
-
 Please take a moment to review these terms detailed below. Only if you agree with them you may proceed with making a payment.  
   
 _Definitions_  
