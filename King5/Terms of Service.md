@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/f0a0f3ae-acf3-40b6-808f-bd07a7146c24/20240915T211150/f0a0f3ae-acf3-40b6-808f-bd07a7146c24_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f0a0f3ae-acf3-40b6-808f-bd07a7146c24/20240915T211150/f0a0f3ae-acf3-40b6-808f-bd07a7146c24_360x203.jpg)](https://www.king5.com/article/news/crime/two-dead-stolen-trailer-bonney-lake/281-c4501446-63b8-4acc-9bb6-d165594479c2)
+    *  [![](https://media.king5.com/assets/KING/images/e724fd11-339b-4e0f-b0c6-db453cc0b60a/20240916T150829/e724fd11-339b-4e0f-b0c6-db453cc0b60a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e724fd11-339b-4e0f-b0c6-db453cc0b60a/20240916T150829/e724fd11-339b-4e0f-b0c6-db453cc0b60a_360x203.jpg)](https://www.king5.com/article/money/business/washington-kroger-albertsons-merger-court-hearing/281-ac977eff-2fcf-4f0d-aabf-124393867946)
         
-        #### [Deadly confrontation over stolen trailer ends in Bonney Lake](https://www.king5.com/article/news/crime/two-dead-stolen-trailer-bonney-lake/281-c4501446-63b8-4acc-9bb6-d165594479c2)
+        #### [A state's experience with grocery chain mergers spurs a fight to stop Albertsons' deal with Kroger](https://www.king5.com/article/money/business/washington-kroger-albertsons-merger-court-hearing/281-ac977eff-2fcf-4f0d-aabf-124393867946)
         
-    *  [![](https://media.king5.com/assets/KING/images/04c4d898-f43e-40ba-8654-4588dec344d7/04c4d898-f43e-40ba-8654-4588dec344d7_16x9.jpg) ![](https://media.king5.com/assets/KING/images/04c4d898-f43e-40ba-8654-4588dec344d7/04c4d898-f43e-40ba-8654-4588dec344d7_360x203.jpg)](https://www.king5.com/article/news/crime/2-year-old-accidentally-shot-by-3-year-old-sibling-des-moines/281-6774c0ce-5ca0-40cd-b5ac-dabdaebd8d24)
+    *  [![](https://media.king5.com/assets/KING/images/c733d3d2-9961-4b0e-b39d-66b87200f533/20240812T163342/c733d3d2-9961-4b0e-b39d-66b87200f533_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c733d3d2-9961-4b0e-b39d-66b87200f533/20240812T163342/c733d3d2-9961-4b0e-b39d-66b87200f533_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/northern-lights-may-be-visible-in-western-washington/281-155d6662-e596-4e30-94f7-d4e43461db47)
         
-        #### [2-year-old girl hospitalized after 3-year-old sibling accidentally shoots her, police say](https://www.king5.com/article/news/crime/2-year-old-accidentally-shot-by-3-year-old-sibling-des-moines/281-6774c0ce-5ca0-40cd-b5ac-dabdaebd8d24)
+        #### [Northern lights possible in western Washington Monday night](https://www.king5.com/article/weather/weather-blog/northern-lights-may-be-visible-in-western-washington/281-155d6662-e596-4e30-94f7-d4e43461db47)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/f05ff363-9f64-4f19-979e-9e923cca790f/20240916T052233/f05ff363-9f64-4f19-979e-9e923cca790f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f05ff363-9f64-4f19-979e-9e923cca790f/20240916T052233/f05ff363-9f64-4f19-979e-9e923cca790f_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/666cbdc4-28a2-43fc-a91c-8e2d3423902f/20240916T115830/666cbdc4-28a2-43fc-a91c-8e2d3423902f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/666cbdc4-28a2-43fc-a91c-8e2d3423902f/20240916T115830/666cbdc4-28a2-43fc-a91c-8e2d3423902f_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
-    *  [![](https://media.king5.com/assets/CCT/images/b19ce186-e13f-4d38-8d95-fcacbd385ae3/20240818T162111/b19ce186-e13f-4d38-8d95-fcacbd385ae3_16x9.jpg) ![](https://media.king5.com/assets/CCT/images/b19ce186-e13f-4d38-8d95-fcacbd385ae3/20240818T162111/b19ce186-e13f-4d38-8d95-fcacbd385ae3_360x203.jpg)](https://www.king5.com/article/news/nation-world/full-moon-supermoon-lunar-eclipse-harvest-moon/507-27188f92-97c9-4f20-beea-2cd4b0c14fba)
+    *  [![](https://media.king5.com/assets/KING/images/c733d3d2-9961-4b0e-b39d-66b87200f533/20240812T163342/c733d3d2-9961-4b0e-b39d-66b87200f533_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c733d3d2-9961-4b0e-b39d-66b87200f533/20240812T163342/c733d3d2-9961-4b0e-b39d-66b87200f533_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/northern-lights-may-be-visible-in-western-washington/281-155d6662-e596-4e30-94f7-d4e43461db47)
         
-        #### [The next full moon will also feature a lunar eclipse. Here's when to look up](https://www.king5.com/article/news/nation-world/full-moon-supermoon-lunar-eclipse-harvest-moon/507-27188f92-97c9-4f20-beea-2cd4b0c14fba)
+        #### [Northern lights possible in western Washington Monday night](https://www.king5.com/article/weather/weather-blog/northern-lights-may-be-visible-in-western-washington/281-155d6662-e596-4e30-94f7-d4e43461db47)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -95,9 +95,9 @@ Navigation
 
 Seattle, WA »
 
-54°
+58°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
