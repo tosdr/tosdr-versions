@@ -402,25 +402,25 @@ Top
     
     [List of common Hindi swear words (with formatting for blocklists)](https://blog.karlrock.com/list-of-common-hindi-swear-words/ "List of common Hindi swear words (with formatting for blocklists)")
     
-* [![Best Videos for Learning the Urdu Alphabet](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/05/20210531_143932-01_copy_1280x960.jpeg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/best-videos-for-learning-the-urdu-alphabet/ "Best Videos for Learning the Urdu Alphabet")
-    
-    [Best Videos for Learning the Urdu Alphabet](https://blog.karlrock.com/best-videos-for-learning-the-urdu-alphabet/ "Best Videos for Learning the Urdu Alphabet")
-    
 * [![How to Book a Train Ticket in India (For Foreigners)](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2023/04/pexels-vishnudeep-dixit-1260805.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-to-book-a-train-ticket-in-india-for-foreigners/ "How to Book a Train Ticket in India (For Foreigners)")
     
     [How to Book a Train Ticket in India (For Foreigners)](https://blog.karlrock.com/how-to-book-a-train-ticket-in-india-for-foreigners/ "How to Book a Train Ticket in India (For Foreigners)")
     
-* [![How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2019/11/Kartarpur-Darbar-Sahib-Main-Prayer-Hall.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-to-travel-to-kartarpur-sahib-via-kartarpur-corridor/ "How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)")
+* [![Best Videos for Learning the Urdu Alphabet](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/05/20210531_143932-01_copy_1280x960.jpeg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/best-videos-for-learning-the-urdu-alphabet/ "Best Videos for Learning the Urdu Alphabet")
     
-    [How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)](https://blog.karlrock.com/how-to-travel-to-kartarpur-sahib-via-kartarpur-corridor/ "How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)")
+    [Best Videos for Learning the Urdu Alphabet](https://blog.karlrock.com/best-videos-for-learning-the-urdu-alphabet/ "Best Videos for Learning the Urdu Alphabet")
     
 * [![Keys to Learning Hindi: 1. Learn to Read First!](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/07/Hindi-Script.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/keys-to-learning-hindi-1-learn-to-read-first/ "Keys to Learning Hindi: 1. Learn to Read First!")
     
     [Keys to Learning Hindi: 1. Learn to Read First!](https://blog.karlrock.com/keys-to-learning-hindi-1-learn-to-read-first/ "Keys to Learning Hindi: 1. Learn to Read First!")
     
-* [![Travellers Beware, Don’t Buy Fake Water in India!](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/10/Fake-Bisleri-Mineral-Water-Bottles-1L-Bilseir-Bisferi-Bisllari.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/travellers-beware-dont-buy-fake-water-in-india/ "Travellers Beware, Don’t Buy Fake Water in India!")
+* [![How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2019/11/Kartarpur-Darbar-Sahib-Main-Prayer-Hall.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-to-travel-to-kartarpur-sahib-via-kartarpur-corridor/ "How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)")
     
-    [Travellers Beware, Don’t Buy Fake Water in India!](https://blog.karlrock.com/travellers-beware-dont-buy-fake-water-in-india/ "Travellers Beware, Don’t Buy Fake Water in India!")
+    [How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)](https://blog.karlrock.com/how-to-travel-to-kartarpur-sahib-via-kartarpur-corridor/ "How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)")
+    
+* [![How to Rent a Motorcycle in Pakistan (with Prices)](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2023/08/img_9157-scaled.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-to-rent-a-motorcycle-in-pakistan-with-prices/ "How to Rent a Motorcycle in Pakistan (with Prices)")
+    
+    [How to Rent a Motorcycle in Pakistan (with Prices)](https://blog.karlrock.com/how-to-rent-a-motorcycle-in-pakistan-with-prices/ "How to Rent a Motorcycle in Pakistan (with Prices)")
     
 
 © 2024 [Karl Rock's Blog](https://blog.karlrock.com/)
