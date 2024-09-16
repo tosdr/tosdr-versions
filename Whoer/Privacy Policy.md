@@ -19,8 +19,8 @@
 
 [Buy VPN now](https://whoer.net/vpn/buy)
 
-* [AML check](https://whoaml.is/?utm_source=whoer&utm_campaign=header_main)
 * [My IP](https://whoer.net/)
+* [Anonymity](https://whoer.net/best-anonymity-tools?category=all)
 * [VPN](https://whoer.net/vpn)
 * [Download](https://whoer.net/download)
 * [Antidetect](https://wade.is/?utm_source=whoer&utm_campaign=header_main)
