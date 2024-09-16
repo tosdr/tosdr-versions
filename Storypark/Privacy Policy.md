@@ -392,9 +392,11 @@ By clicking “Accept”, you agree to the storing of cookies on your device to 
 
 * [sales@storypark.com](mailto:sales@storypark.com?subject=I'm%20interested%20in%20Storypark)[**US/Canada** 1 888 330 9658](tel:8883309658)
 * [**  
-    Already use Storypark? Contact:**](#)[**AUST** 1800 225 147](tel:1800225147)
+    Already use Storypark? Contact:**](#)[**US/CAN** 1 888 330 9658  
+      
+    Already use Storypark? Contact:](tel:1800225147)
 * [**hello@storypark.com**](mailto:hello@storypark.com?subject=Support%20request)
-* [**US/CAN** 1 888 330 9658](tel:8883309658)
+* [](tel:8883309658)
 
 [![App Store button](https://cdn.prod.website-files.com/5fc718ea6b8b956a4a9117f3/5fc718ea6b8b95b62b911824_icon-app-store.svg)](https://apps.apple.com/nz/developer/storypark/id867828320)[![Google Play button](https://cdn.prod.website-files.com/5fc718ea6b8b956a4a9117f3/5fc718ea6b8b952ce291181b_icon-play-store.svg)](https://play.google.com/store/apps/developer?id=Storypark&hl=en)
 
