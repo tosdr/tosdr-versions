@@ -195,6 +195,8 @@ If you’ve already contacted the Klaviyo Support Team about this issue, **plea
 
 ### Most helpful members this week
 
+### Most helpful members this week
+
 [Powered by Gainsight](https://www.gainsight.com/customer-communities/ "Visit Gainsight.com")
 
 [Terms & Conditions](https://community.klaviyo.com/site/terms)[Cookie settings](#)
