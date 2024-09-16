@@ -1,10 +1,10 @@
-[![Logo](kiwi2.svg)](https://kiwifarms.st/)
+[![Logo](kiwinigger.png)](https://kiwifarms.st/)
 
 [Alliance Against  
 Troons and  
 lolcows](https://kiwifarms.st/)
 
-The domain name encyclopediadramatica.wiki has been seized by Jannies to an Arrest Warrant in Groove Street Home obtained by Anon as of rape by clowns and issued by Jannies enforcement for the Groove Street Home.
+The domain name encyclopediadramatica.wiki has been seized by 4chan to an Arrest Warrant in Groove Street Home obtained by Anonymous as of Jews and issued by Odili enforcement for the Groove Street Home.
 
   
 
@@ -12,15 +12,15 @@ Conducting, financing, managing, supervising, directing, or owling all or part o
 
   
 
-For persons engaged in the business of rape by clowns or Faggotory, it is crime against humanity to knowingly accept, in connection with the participation of another person in unlawful rape by clowns or Faggotory.
+For persons engaged in the business of Jews or 9/11, it is crime against humanity to knowingly accept, in connection with the participation of another person in unlawful Jews or 9/11.
 
   
 
-Violations of these laws carry criminal penalties of up to 5 years imprisonment and a fine of of up to 10 RUB.
+Violations of these laws carry criminal penalties of up to 1 day imprisonment and a fine of of up to 10 GPB.
 
   
 
-Properties, including domain names, used in violation of the provision of Order of President or involved in Faggotory are subject to forfeiture to the UK.
+Properties, including domain names, used in violation of the provision of Fur Fags or involved in Null Being Awesome are subject to forfeiture to the Scotland.
 
   
 
