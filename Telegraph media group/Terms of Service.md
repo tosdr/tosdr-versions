@@ -207,16 +207,22 @@ Terms and Conditions
 
 These are the terms and conditions for Telegraph.co.uk and all associated websites
 
-31 August 2023 • 11:29am
+Save
 
-* [X Icon](https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.telegraph.co.uk%2Fabout-us%2Fterms-and-conditions%2F&text=Terms+and+Conditions)
-* [Facebook Icon](https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.telegraph.co.uk%2Fabout-us%2Fterms-and-conditions%2F)
-* [WhatsApp Icon](https://wa.me/?text=https%3A%2F%2Fwww.telegraph.co.uk%2Fabout-us%2Fterms-and-conditions%2F)
-* [Email Icon](mailto:?to=&subject=Terms+and+Conditions&body=https%3A%2F%2Fwww.telegraph.co.uk%2Fabout-us%2Fterms-and-conditions%2F)
+[Comment speech bubble icon](#comment)
+
+Share icon
+
+31 August 2023 11:29am
 
 Save
 
 [Comment speech bubble icon](#comment)
+
+* [X Icon](https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.telegraph.co.uk%2Fabout-us%2Fterms-and-conditions%2F&text=Terms+and+Conditions)
+* [Facebook Icon](https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.telegraph.co.uk%2Fabout-us%2Fterms-and-conditions%2F)
+* [WhatsApp Icon](https://wa.me/?text=https%3A%2F%2Fwww.telegraph.co.uk%2Fabout-us%2Fterms-and-conditions%2F)
+* [](mailto:?to=&subject=Terms+and+Conditions&body=https%3A%2F%2Fwww.telegraph.co.uk%2Fabout-us%2Fterms-and-conditions%2F)
 
 If you are visiting our Service from the United Kingdom, European Union, or other non-U.S. location, please review our [General Terms and Conditions](#ukterms). If you are visiting our Service from the United States, please review our [U.S. Terms and Conditions](#usterms).
 
@@ -562,15 +568,6 @@ It is your responsibility to review the posted Terms and any applicable Addition
 California residents should visit our [**Privacy Policy**](https://www.telegraph.co.uk/about-us/privacy-and-cookie-policy/) to learn more about their California privacy rights. 
 
 _©_ _February 14, 2024.  Telegraph Media Group Limited.  All Rights Reserved._
-
-* [X Icon](https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.telegraph.co.uk%2Fabout-us%2Fterms-and-conditions%2F&text=Terms+and+Conditions)
-* [Facebook Icon](https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.telegraph.co.uk%2Fabout-us%2Fterms-and-conditions%2F)
-* [WhatsApp Icon](https://wa.me/?text=https%3A%2F%2Fwww.telegraph.co.uk%2Fabout-us%2Fterms-and-conditions%2F)
-* [Email Icon](mailto:?to=&subject=Terms+and+Conditions&body=https%3A%2F%2Fwww.telegraph.co.uk%2Fabout-us%2Fterms-and-conditions%2F)
-
-[Comment speech bubble icon](#comment)
-
-[License this content](https://www.telegraph.co.uk/syndication/contact-us/)
 
 Advertisement
 
