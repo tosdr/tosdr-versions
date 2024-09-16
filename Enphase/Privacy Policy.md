@@ -51,7 +51,7 @@ Fremont, CA 94538, United States of America
 You may direct any questions or comments about this Privacy Policy or our privacy practices to our privacy office and your communication will be handled by our privacy team (what is sometimes referred to as a Grievance Officer, Data Protection Officer, or Privacy Officer). Our privacy office may be contacted by:
 
 * Clicking on the Privacy link, Settings/Do Not Sell My Personal Information link, or SecurePrivacy trust badge at the bottom of any website;
-* Emailing privacy@enphaseenergy.com; or
+* Emailing [privacy@enphaseenergy.com](mailto:privacy@enphaseenergy.com); or
 * Calling us toll free at 1-877-797-4743 and selecting option 3;
 * Sending postal mail to:  
     Enphase Energy, Inc.  
