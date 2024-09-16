@@ -101,7 +101,7 @@ We may terminate these Terms without cause and without prior notice if we choose
 
 Clauses 1, 2, 4, 5, 6, and 7 shall survive the termination of these Terms regardless of reason, and shall continue to bind both you and us.
 
-### 7\. General
+### 8\. General
 
 #### a) Governing law and jurisdiction
 
