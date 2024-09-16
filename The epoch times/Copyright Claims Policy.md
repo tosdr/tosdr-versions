@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [42 Attorneys General Urge Congress to Add Surgeon General Warning on Social Media Platforms](https://www.theepochtimes.com/us/42-attorneys-general-urge-congress-to-add-surgeon-general-warning-on-social-media-platforms-5721588)
+* [UK’s Starmer Visits Rome to Discuss Migration with Meloni](https://www.theepochtimes.com/world/uks-starmer-visits-rome-to-discuss-migration-with-meloni-5724901)
     
-    1hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
+    NEW By [Guy Birchall](https://www.theepochtimes.com/author/guy-birchall)
     
-    [![42 Attorneys General Urge Congress to Add Surgeon General Warning on Social Media Platforms](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![UK’s Starmer Visits Rome to Discuss Migration with Meloni](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![42 Attorneys General Urge Congress to Add Surgeon General Warning on Social Media Platforms](https://img.theepochtimes.com/assets/uploads/2024/05/08/id5646568-Teen-Phone-205x123.jpg.webp)](https://www.theepochtimes.com/us/42-attorneys-general-urge-congress-to-add-surgeon-general-warning-on-social-media-platforms-5721588)
-* [Congress Passes Bill to Reduce Chinese Influence on US Campuses](https://www.theepochtimes.com/us/congress-passes-bill-to-reduce-chinese-influence-on-us-campuses-5721722)
+    ![UK’s Starmer Visits Rome to Discuss Migration with Meloni](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5724953-2024-09-16T105441Z_1_LYNXMPEK8F0B9_RTROPTP_4_ITALY-BRITAIN-205x123.jpg.webp)](https://www.theepochtimes.com/world/uks-starmer-visits-rome-to-discuss-migration-with-meloni-5724901)
+* [23andMe Proposes $30 Million Payment for Data Breach](https://www.theepochtimes.com/business/23andme-proposes-30-million-payment-for-data-breach-5725008)
     
-    2hr By [Terri Wu](https://www.theepochtimes.com/author/terri-wu)
+    NEW By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
-    [![Congress Passes Bill to Reduce Chinese Influence on US Campuses](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![23andMe Proposes $30 Million Payment for Data Breach](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Congress Passes Bill to Reduce Chinese Influence on US Campuses](https://img.theepochtimes.com/assets/uploads/2024/09/10/id5721729-EpochImages-1144217228-205x123.jpg.webp)](https://www.theepochtimes.com/us/congress-passes-bill-to-reduce-chinese-influence-on-us-campuses-5721722)
-* [Trump, Harris to Square Off in High-Stakes Debate](https://www.theepochtimes.com/us/trump-harris-to-square-off-in-high-stakes-debate-5721833)
+    ![23andMe Proposes $30 Million Payment for Data Breach](https://img.theepochtimes.com/assets/uploads/2024/06/12/id5667398-GettyImages-1978236895-205x123.jpg.webp)](https://www.theepochtimes.com/business/23andme-proposes-30-million-payment-for-data-breach-5725008)
+* [Biden Says Secret Service Needs ‘More Help’ After 2nd Trump Assassination Attempt](https://www.theepochtimes.com/us/biden-says-secret-service-needs-more-help-after-2nd-trump-assassination-attempt-5724958)
     
-    2hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![Trump, Harris to Square Off in High-Stakes Debate](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Biden Says Secret Service Needs ‘More Help’ After 2nd Trump Assassination Attempt](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump, Harris to Square Off in High-Stakes Debate](https://img.theepochtimes.com/assets/uploads/2024/09/10/id5721839-09102024-DSC08007-Presidential-debate-between-Trump-Harris-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-harris-to-square-off-in-high-stakes-debate-5721833)
-* [Louisiana Residents Evacuate, Make Final Preparations for Tropical Storm Francine](https://www.theepochtimes.com/us/louisiana-residents-evacuate-make-final-preparations-for-tropical-storm-francine-5721584)
+    ![Biden Says Secret Service Needs ‘More Help’ After 2nd Trump Assassination Attempt](https://img.theepochtimes.com/assets/uploads/2024/09/04/id5717881-GettyImages-2170083414-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-says-secret-service-needs-more-help-after-2nd-trump-assassination-attempt-5724958)
+* [Suspect of 2nd Trump Assassination Attempt Identified as Ryan Wesley Routh](https://www.theepochtimes.com/us/trump-assassination-suspect-identified-as-ryan-wesley-routh-5724730)
     
-    2hr By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
+    3hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips), [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord), [Melanie Sun](https://www.theepochtimes.com/author/melanie-sun) and [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
     
-    [![Louisiana Residents Evacuate, Make Final Preparations for Tropical Storm Francine](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Suspect of 2nd Trump Assassination Attempt Identified as Ryan Wesley Routh](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Louisiana Residents Evacuate, Make Final Preparations for Tropical Storm Francine](https://img.theepochtimes.com/assets/uploads/2024/09/10/id5721704-tsfrancinesatimg2-205x123.jpeg.webp)](https://www.theepochtimes.com/us/louisiana-residents-evacuate-make-final-preparations-for-tropical-storm-francine-5721584)
-* [Day in Photos: California Fire, Remembering the Fallen, and Polaris Dawn Mission Begins](https://www.theepochtimes.com/article/day-in-photos-remembering-the-fallen-polaris-dawn-mission-begins-and-an-ethiopian-new-year-5720902)
+    ![Suspect of 2nd Trump Assassination Attempt Identified as Ryan Wesley Routh](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5725002-pspspspdasdada8ds8ad8ads8-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-assassination-suspect-identified-as-ryan-wesley-routh-5724730)
+* [Floods Across Central and Eastern Europe Cause 10 Deaths, Thousands to Be Evacuated](https://www.theepochtimes.com/world/floods-across-central-and-eastern-europe-cause-10-deaths-thousands-to-be-evacuated-5724839)
     
-    3hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    6hr By [Owen Evans](https://www.theepochtimes.com/author/owen-evans)
     
-    [![Day in Photos: California Fire, Remembering the Fallen, and Polaris Dawn Mission Begins](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Floods Across Central and Eastern Europe Cause 10 Deaths, Thousands to Be Evacuated](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Day in Photos: California Fire, Remembering the Fallen, and Polaris Dawn Mission Begins](https://img.theepochtimes.com/assets/uploads/2024/09/10/id5721746-EpochImages-3914722503-xl-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-remembering-the-fallen-polaris-dawn-mission-begins-and-an-ethiopian-new-year-5720902)
-* [US Sanctions Iran for Providing Hundreds of Missiles to Russia](https://www.theepochtimes.com/world/us-sanctions-iran-for-providing-hundreds-of-missiles-to-russia-5721511)
+    ![Floods Across Central and Eastern Europe Cause 10 Deaths, Thousands to Be Evacuated](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5724923-3.tagreuters.com2024binary_LYNXMPEK8F05U-FILEDIMAGE.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/floods-across-central-and-eastern-europe-cause-10-deaths-thousands-to-be-evacuated-5724839)
+* [Controversial Mexican Judicial Reforms Take Effect](https://www.theepochtimes.com/world/controversial-mexican-judicial-reforms-take-effect-5724838)
     
-    5hr By [Andrew Thornebrooke](https://www.theepochtimes.com/author/andrew-thornebrooke)
+    7hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
     
-    [![US Sanctions Iran for Providing Hundreds of Missiles to Russia](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Controversial Mexican Judicial Reforms Take Effect](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![US Sanctions Iran for Providing Hundreds of Missiles to Russia](https://img.theepochtimes.com/assets/uploads/2024/09/10/id5721766-bolgorod-missile-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/us-sanctions-iran-for-providing-hundreds-of-missiles-to-russia-5721511)
-* [Speaker Johnson Vows to Press Ahead With Stopgap Spending Plan](https://www.theepochtimes.com/us/speaker-johnson-schedules-floor-vote-for-stopgap-spending-plan-5721004)
+    ![Controversial Mexican Judicial Reforms Take Effect](https://img.theepochtimes.com/assets/uploads/2024/09/11/id5722232-2024-09-11T062335Z_1_LYNXMPEK8A075_RTROPTP_4_MEXICO-POLITICS-JUDICIAL-REFORM-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/controversial-mexican-judicial-reforms-take-effect-5724838)
+* [Reforming Maternal Care Could Avoid Postpartum Crisis](https://www.theepochtimes.com/health/beyond-birth-reforming-maternal-care-could-avoid-postpartum-crisis-5717867)
     
-    6hr By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord)
+    7hr By [Amy Denney](https://www.theepochtimes.com/author/amy-denney)
     
-    [![Speaker Johnson Vows to Press Ahead With Stopgap Spending Plan](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Reforming Maternal Care Could Avoid Postpartum Crisis](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Speaker Johnson Vows to Press Ahead With Stopgap Spending Plan](https://img.theepochtimes.com/assets/uploads/2024/09/10/id5721717-GettyImages-2170520395KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/speaker-johnson-schedules-floor-vote-for-stopgap-spending-plan-5721004)
-* [Study Links Children’s Skin Care Products to Hormone-Disrupting Chemical](https://www.theepochtimes.com/health/study-links-childrens-skin-care-products-to-hormone-disrupting-chemical-5721147)
+    ![Reforming Maternal Care Could Avoid Postpartum Crisis](https://img.theepochtimes.com/assets/uploads/2024/09/11/id5722487-Shutterstock_1050001460-205x123.jpg.webp)](https://www.theepochtimes.com/health/beyond-birth-reforming-maternal-care-could-avoid-postpartum-crisis-5717867)
+* [Lawmakers Condemn Political Violence After 2nd Apparent Assassination Attempt on Trump](https://www.theepochtimes.com/us/lawmakers-condemn-political-violence-after-2nd-apparent-assassination-attempt-on-trump-5724754)
     
-    6hr By [Huey Freeman](https://www.theepochtimes.com/author/huey-freeman)
+    8hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
     
-    [![Study Links Children’s Skin Care Products to Hormone-Disrupting Chemical](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Lawmakers Condemn Political Violence After 2nd Apparent Assassination Attempt on Trump](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Study Links Children’s Skin Care Products to Hormone-Disrupting Chemical](https://img.theepochtimes.com/assets/uploads/2024/09/10/id5721644-shutterstock_2155184679_toddler_sunscreen_skincare_moisturizer-205x123.jpg.webp)](https://www.theepochtimes.com/health/study-links-childrens-skin-care-products-to-hormone-disrupting-chemical-5721147)
-* [When Imbalanced pH-Levels Cause Illnesses–Part 1](https://www.theepochtimes.com/health/acid-base-homeostasis-when-imbalanced-ph-levels-cause-arbitrary-illnesses-5710798)
+    ![Lawmakers Condemn Political Violence After 2nd Apparent Assassination Attempt on Trump](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5724921-Trump-assassination-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/lawmakers-condemn-political-violence-after-2nd-apparent-assassination-attempt-on-trump-5724754)
+* [How Will Trump, Harris Address the Housing Affordability Crisis?](https://www.theepochtimes.com/us/how-will-trump-harris-address-the-housing-affordability-crisis-5721579)
     
-    7hr By [Alexandra Roach](https://www.theepochtimes.com/author/alexandra-roach)
+    8hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
     
-    [![When Imbalanced pH-Levels Cause Illnesses–Part 1](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![How Will Trump, Harris Address the Housing Affordability Crisis?](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![When Imbalanced pH-Levels Cause Illnesses–Part 1](https://img.theepochtimes.com/assets/uploads/2024/09/05/id5718879-Shutterstock_1439735357-205x123.jpg.webp)](https://www.theepochtimes.com/health/acid-base-homeostasis-when-imbalanced-ph-levels-cause-arbitrary-illnesses-5710798)
-* [Credit Card Payment Processor Says Hack Affected Nearly 1.7 Million People](https://www.theepochtimes.com/business/credit-card-payment-processor-says-hack-affected-nearly-1-7-million-people-5721551)
+    ![How Will Trump, Harris Address the Housing Affordability Crisis?](https://img.theepochtimes.com/assets/uploads/2024/09/14/id5724435-GettyImages-1387361630-205x123.jpg.webp)](https://www.theepochtimes.com/us/how-will-trump-harris-address-the-housing-affordability-crisis-5721579)
+* [Early Voting, Mail-in Voting, and Drop Boxes: The Rules in Each Battleground State](https://www.theepochtimes.com/article/if-you-live-in-a-battleground-state-everything-to-know-about-voting-by-mail-5723217)
     
-    8hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    8hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
     
-    [![Credit Card Payment Processor Says Hack Affected Nearly 1.7 Million People](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Early Voting, Mail-in Voting, and Drop Boxes: The Rules in Each Battleground State](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Credit Card Payment Processor Says Hack Affected Nearly 1.7 Million People](https://img.theepochtimes.com/assets/uploads/2024/09/10/id5721770-GettyImages-1228231209-1200x800-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/credit-card-payment-processor-says-hack-affected-nearly-1-7-million-people-5721551)
+    ![Early Voting, Mail-in Voting, and Drop Boxes: The Rules in Each Battleground State](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5724935-VOTING3-205x123.jpg.webp)](https://www.theepochtimes.com/article/if-you-live-in-a-battleground-state-everything-to-know-about-voting-by-mail-5723217)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
