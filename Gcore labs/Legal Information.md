@@ -455,52 +455,46 @@ Customer shall be entitled to terminate for cause the Agreement within the meani
   
 18.13 By derogation from clause 15.1, the Services will renew automatically for periods equal to the Initial Subscription Term, not exceeding one year each.
 
-We provide powerful solutions that will help your business grow globally. Try our superior performance for free.
+* ### Products
+    
+    [Edge AI](https://gcorelabs.com/inference-at-the-edge)[Edge Cloud](https://gcorelabs.com/cloud)[Edge Network](https://gcorelabs.com/edge-network)[Edge Security](https://gcorelabs.com/ddos-protection)[Pricing](https://gcorelabs.com/pricing/cloud)
+    
+* ### Resources
+    
+    [Blog](https://gcorelabs.com/blog)[Case Studies](https://gcorelabs.com/case-studies)[Resource Library](https://gcorelabs.com/library)[Events](https://gcorelabs.com/events)
+    
+* ### Documentation
+    
+    [Docs](https://gcorelabs.com/docs)[API](https://api.gcore.com/docs/iam)[Product Roadmap](https://roadmap.gcore.com/roadmap)[Help Center](https://support.gcore.com/hc/en-us)[Gcore Status](https://status.gcore.com/)
+    
+* ### Platform
+    
+    [Network](https://gcorelabs.com/network)[Infrastructure](https://gcorelabs.com/infrastructure)[Internet Peering Points](https://gcorelabs.com/internet-peering)[Compliance](https://gcorelabs.com/secure-infrastructure)
+    
+* ### Company
+    
+    [About Gcore](https://gcorelabs.com/about)[Press](https://gcorelabs.com/press)[Awards](https://gcorelabs.com/awards-recognition)[Careers](https://gcorelabs.com/careers)[Legal Information](https://gcorelabs.com/legal)
+    
+* ### Partners
+    
+    [White Label Solutions](https://gcorelabs.com/whitelabel)[Referral Program](https://gcorelabs.com/referral-program)
+    
+* ### Contact us
+    
+    [sales@gcore.com](mailto:sales@gcore.com)[support@gcore.com](mailto:support@gcore.com)[info@gcore.com](mailto:info@gcore.com)[+352 208 80 507](tel:+35220880507)
+    
 
-Convenient cloud services with low latency around the world proven by the largest online businesses.
+* [](https://www.linkedin.com/company/g-core/)
+* [](https://www.youtube.com/@GCoreOfficial)
+* [](https://x.com/gcore_official)
+* [](https://www.instagram.com/gcore.official/)
 
-![Made in Luxembourg](../../../../../assets/logos/made-lux.svg)
+EN
 
-[![Association of the internet industry](../../../../../assets/logos/eco.svg)](https://international.eco.de/)
+©2024 Gcore. All rights reserved.
 
-![World Records Guinness](../../../../../assets/logos/guinness.svg)
-
-### Products
-
-[CDN](https://gcorelabs.com/cdn)[DNS](https://gcorelabs.com/dns)[Hosting](https://gcorelabs.com/hosting)[Streaming Platform](https://gcorelabs.com/streaming-platform)[Storage](https://gcorelabs.com/storage)[DDoS Protection](https://gcorelabs.com/ddos-protection)[Cloud](https://gcorelabs.com/cloud)[IT Infrastructure Management](https://gcorelabs.com/it-infrastructure-management)
-
-### Company
-
-[About](https://gcorelabs.com/about)[Referral Program](https://gcorelabs.com/referral-program)[Case Studies](https://gcorelabs.com/case-studies/)[Careers](https://gcorelabs.com/careers)[Blog](https://gcorelabs.com/blog/)[Learning](https://gcorelabs.com/learning/)[Press](https://gcorelabs.com/press)[Legal Information](https://gcorelabs.com/legal)[#SupportUkraine](https://gcorelabs.com/business-support-for-ukraine)
-
-### Resources
-
-[Status Page](https://status.gcore.com/)[API Documentation](https://api.gcore.com/docs)[Product Documentation](https://gcorelabs.com/docs)[Looking Glass](https://lg.gcore.lu/)[Developer Tools](https://gcorelabs.com/dev-tools)[Products Roadmap](https://roadmap.gcore.com/roadmap)[Help Center](https://support.gcore.com/hc/en-us)
-
-### Contact
-
-[support@gcore.com](mailto:support@gcore.com)[info@gcore.com](mailto:info@gcore.com)[Report abuse](https://gcorelabs.com/report-abuse)
-
-### Sales
-
-[\+ 352 208 80 507](tel:+ 352 208 80 507)[sales@gcore.com](mailto:sales@gcore.com)
-
-### Follow us on social media
-
-[](https://www.linkedin.com/company/g-core/)[](https://www.youtube.com/@GCoreOfficial)[](https://www.facebook.com/officialgcore)[](https://x.com/gcore_official)[](https://www.instagram.com/gcore.official/)[](https://www.tiktok.com/@gcore.com)[](https://www.quora.com/profile/Gcore)[](https://www.reddit.com/r/gcoreofficial/)
-
-### Subscribe and discover the latest updates, news, and features
-
-By submitting this form, I agree to the processing of my personal data for specified or additionally selected purposes and in accordance with Gcore's [Privacy Policy](https://gcorelabs.com/legal?tab=privacy_policy).
-
-This site is protected by reCAPTCHA and the Google [Privacy Policy](https://policies.google.com/privacy) and [Terms of Service](https://policies.google.com/terms) apply.
-
-![Mastercard](../../../../../assets/logos/mastercard.svg)![PayPal](../../../../../assets/logos/paypal.svg)![Visa](../../../../../assets/logos/viza.svg)![Mastercard](../../../../../assets/logos/mastercard_v.svg)![Visa Verified](../../../../../assets/logos/visa_v.svg)
-
-G-Core Labs S.A. © 2015–2024 All rights reserved. Principal place of business and postal address: 2-4, Rue Edmond Reuter, L-5326 Contern, Luxembourg
-
-![Made in Luxembourg](../../../../../assets/logos/made-lux.svg)
-
-[![Association of the internet industry](../../../../../assets/logos/eco.svg)](https://international.eco.de/)
-
-![World Records Guinness](../../../../../assets/logos/guinness.svg)
+* [Terms of Service](https://policies.google.com/terms)
+    
+* [Privacy Policy](https://policies.google.com/privacy)
+    
+* [Report Abuse](https://gcorelabs.com/report-abuse)
