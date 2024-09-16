@@ -571,7 +571,7 @@
 Equifax Privacy Statement
 -------------------------
 
-_Last Updated:  June 2024_  
+_Last Updated:  September 2024_  
 This privacy statement describes how Equifax Inc. ("Equifax") and its United States affiliates (collectively, "Equifax", "we", "us", "our") collect, use, and share personal data about individuals in the United States. Individuals outside the United States should refer to the privacy statements for their country on our country-specific websites.  
  
 
@@ -596,6 +596,7 @@ Anchor Text
 [Choices and Control over your Information](#ChoicesAndControlOverYourInformation)  
 [Security](#Security)  
 [California Residents Privacy Statement and Notice at Collection](#California)  
+[EU-U.S. and the UK Extension to the EU-U.S. Data Privacy Frameworks](#EU)  
 [Consumer Rights Requests](#Consumer)  
 [Changes to this Privacy Statement](#Privacy)  
 [Contact Us](#Contact)
@@ -771,7 +772,7 @@ In some instances, when permitted by its clients, EWS uses deidentified employee
 
 #### Notice of Collection, Storage, Use and Destruction of Biometric Information
 
-Equifax Information Services LLC partners with Mitek Systems, Inc., Private Identity LLC, and Acuant, Inc. to offer products through which Equifax, other businesses, and government agencies allow you to verify your identity by submitting photos of yourself and your photo identification. If you utilize one of these products, Equifax Information Services LLC, its partners Mitek Systems, Inc. and Acuant, Inc., and the other business or government agency with which you initiate the transaction (the "Parties"), may collect, capture, transmit, store, maintain, use, and otherwise process information about face geometry and related biometric information derived from the photos and other information (including information from your driver's license/passport) that you submit to us for the purpose of providing identity-verification services.
+Equifax Information Services LLC partners with Mitek Systems Inc., Private Identity LLC, and Acuant Inc. to offer products through which Equifax, other businesses, and government agencies allow you to verify your identity by submitting photos of yourself and your photo identification. If you utilize one of these products, Equifax Information Services LLC, its partners Mitek Systems Inc., Private Identity LLC, Acuant Inc., and the other business or government agency with which you initiate the transaction (the "Parties"), may collect, capture, transmit, store, maintain, use, and otherwise process information about face geometry and related biometric information derived from the photos and other information (including information from your driver's license/passport) that you submit to us for the purpose of providing identity-verification services.
 
 The Parties may use this information from the time of your submission of the information to us, and for the duration of the period that we need to retain the information for identity-verification purposes. We will promptly destroy all biometric information after the completion of our verification process, in no case longer than 13 months after your submission of the information to us.
 
@@ -1041,6 +1042,16 @@ The following metrics are representative of individual rights requests submitted
 | Right to Limit Use | 2,473 | 2,473 | 0   | 1   | 1   |
 
 \* Equifax does not delete data that is exempt from the requirements of the California Consumer Privacy Act, including data subject to the Fair Credit Reporting Act, Gramm-Leach-Bliley Act, and for fraud prevention purposes.
+
+[**BACK TO TOP**](#Top)
+
+#### EU-U.S. and the UK Extension to the EU-U.S. Data Privacy Frameworks
+
+Equifax Inc. and its U.S. subsidiary Kount Inc. (together, "Equifax") comply with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the UK Extension to the EU-U.S. DPF as set forth by the U.S. Department of Commerce. Equifax has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom in reliance on the UK Extension to the EU-U.S. DPF. Equifax adheres to the EU-U.S. DPF Principles for consumer data. If there is any conflict between the terms in this Privacy Statement and the EU-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/). 
+
+Personal data collected from you may be stored in the region in which you reside, and depending on the service or data use, Equifax may also store and process your data in other regions where Equifax or its affiliates, subsidiaries, or service providers operate. Equifax takes steps to process data we collect in accordance with this Privacy Statement and the requirements of applicable law. Your personal data may be shared with third parties to perform services on our behalf. In the context of an onward transfer, Equifax has responsibility for processing personal data it receives under the DPF and subsequently transfers to a third party for external processing. If we transfer personal data received under the DPF to a third party, the third party's access, use, and disclosure of personal data must also be in compliance with our DPF obligations, and we will remain liable under the DPF for any failure to do so by the third party unless we prove we are not responsible for the event giving rise to the damage. For information related to the types of data we collect, the purposes for collecting data, the types of third parties we may disclose your data to, and your rights, please refer to the applicable sections of this Privacy Statement. 
+
+If you have a question or complaint related to our participation in the DPF, we encourage you to contact us through our [Privacy Contact Form](https://www.equifax.com/privacy/contactus/) or write to the Chief Privacy Officer, Equifax Inc., 1550 Peachtree Street, NW, Atlanta, GA 30309. Please reference “Data Privacy Framework,” when contacting us about the DPF. For any complaints related to the DPF that Equifax cannot resolve directly, we have chosen to cooperate with the relevant [EU Data Protection Authority](https://edpb.europa.eu/about-edpb/about-edpb/members_en), or a panel established by the European data protection authorities, for resolving disputes with EU individuals, and the [UK Information Commissioner’s Office](https://ico.org.uk/make-a-complaint/) for resolving disputes with UK individuals. As further explained in the DPF Principles, binding arbitration is available, under certain conditions, to address residual complaints not resolved by other means. Individuals seeking additional information can visit the [DPF Annex I](https://www.dataprivacyframework.gov/framework-article/ANNEX-I-introduction) for more information. Equifax is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC) and may be required to disclose personal data we handle under the DPF in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
 [**BACK TO TOP**](#Top)
 
