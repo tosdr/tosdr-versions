@@ -138,23 +138,21 @@ Save settings
 
 ### Featured Articles
 
-[![Sell Your Hair](https://www.wikihow.com/images/thumb/f/f8/Sell-Your-Hair-Step-14.jpg/-crop-126-120-126px-Sell-Your-Hair-Step-14.jpg)
+[![Open a Beer Bottle with a Key](https://www.wikihow.com/images/thumb/5/56/Open-a-Beer-Bottle-with-a-Key-Step-14.jpg/-crop-126-120-126px-Open-a-Beer-Bottle-with-a-Key-Step-14.jpg)
 
-How to  
-Sell Your Hair](https://www.wikihow.com/Sell-Your-Hair)
+How to Remove a Bottlecap with a Key](https://www.wikihow.com/Open-a-Beer-Bottle-with-a-Key)
 
-[![Start Exercising when You're Out of Shape](https://www.wikihow.com/images/thumb/b/bd/Start-Exercising-when-You%27re-Out-of-Shape-Step-17.jpg/-crop-126-120-126px-Start-Exercising-when-You%27re-Out-of-Shape-Step-17.jpg)
+[![Get Rid of Fruit Flies](https://www.wikihow.com/images/thumb/4/4c/Get-Rid-of-Fruit-Flies-Step-14-Version-4.jpg/-crop-126-120-126px-Get-Rid-of-Fruit-Flies-Step-14-Version-4.jpg)
 
-How to Start Working Out if You're Out of Shape: Tips & Beginner Exercises](https://www.wikihow.com/Start-Exercising-when-You%27re-Out-of-Shape)
+How to Get Rid of Fruit Flies in Your House](https://www.wikihow.com/Get-Rid-of-Fruit-Flies)
 
-[![Know when to Kiss on a Date](https://www.wikihow.com/images/thumb/3/3b/Know-when-to-Kiss-on-a-Date-Step-1-Version-3.jpg/-crop-126-120-126px-Know-when-to-Kiss-on-a-Date-Step-1-Version-3.jpg)
+[![Learn Hiragana](https://www.wikihow.com/images/thumb/f/f8/Learn-Hiragana-Step-14-Version-2.jpg/-crop-126-120-126px-Learn-Hiragana-Step-14-Version-2.jpg)
 
-When Is It OK to Kiss on a Date? (And How Will You Know?)](https://www.wikihow.com/Know-when-to-Kiss-on-a-Date)
+How to Learn Hiragana](https://www.wikihow.com/Learn-Hiragana)
 
-[![Be Single and Happy in Your 30s](https://www.wikihow.com/images/thumb/e/ec/Be-Single-and-Happy-in-Your-30s-Step-10.jpg/-crop-126-120-126px-Be-Single-and-Happy-in-Your-30s-Step-10.jpg)
+[![Are You Happy](https://www.wikihow.com/images/thumb/2/29/Be-a-Hipster-Girl-Step-12-Version-2.jpg/-crop-126-120-126px-Be-a-Hipster-Girl-Step-12-Version-2.jpg)
 
-How to  
-Be Single and Happy in Your 30s](https://www.wikihow.com/Be-Single-and-Happy-in-Your-30s)
+How Happy Am I Quiz](https://www.wikihow.com/Are-You-Happy)
 
   
 
@@ -197,4 +195,4 @@ Follow Us
 
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=8003466&cv=3.9.1&cj=1)
 
-140
+135
