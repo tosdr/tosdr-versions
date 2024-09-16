@@ -764,7 +764,6 @@ Snowplow speichert die IP-Adresse nur in gekürzter, anonymisierter Form. Sie wi
 
 * Session Cookie (für Session-Erkennung, Lebensdauer: 30 Minuten)
 * Langzeit-Cookie (zur Erkennung Neu-/Stammkunde: 24 Monate)
-* Opt-out-Cookie (bei Widerspruch gegen das Tracking: Dauer der Session)
 
 Wir verwenden Snowlpow zu Marketing- und Optimierungszwecken, insbesondere um die Nutzung unserer Website zu analysieren und um einzelne Funktionen und Angebote sowie das Nutzungserlebnis fortlaufend verbessern zu können.
 
