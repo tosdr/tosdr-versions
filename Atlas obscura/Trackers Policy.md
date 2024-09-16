@@ -14,33 +14,38 @@ Force Open Search
 
 Open main menu
 
-Loading...
+![](https://assets.atlasobscura.com/assets/hermes/aoa_logo_aon-fb53a8d4415047286c25915bdbbdf3721acc39fd90bd71bf7712345c0096a45b.svg)
+
+Take your next trip with Atlas Obscura!
+---------------------------------------
+
+Our small-group adventures are inspired by our Atlas of the world's most fascinating places, the stories behind them, and the people who bring them to life.
+
+[Visit Adventures](https://www.atlasobscura.com/adventures/)
+
+Trips Highlight
+
+   [![Egypt - Abu Simbel](https://img.atlasobscura.com/zmL_8N1QLi_bg4azbHqED4RVtZOZrf_l2Nzm9hkOaV8/rs:fill:256:192/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V2ZW50/X2ltYWdlcy9lOWVl/Mjg5Yy1jY2I4LTRm/ZjgtOTgxYy1kNmM3/ZWNhNTI0N2YyYjg3/MWUxYWQwYWZmYTk5/MDdfRWd5cHQgMSAt/IEFidSBTaW1iZWwu/cG5n.png)](https://www.atlasobscura.com/adventures/trips/egypt)
+
+Egypt • 11 days, 10 nights
+
+[Treasures of Egypt: Hidden Tombs, Ancient Pyramids & Old Cairo](https://www.atlasobscura.com/adventures/trips/egypt)
+
+from
+
+   [![New Zealand, South Island, Wanaka](https://img.atlasobscura.com/knTC-fD-tJhZigIK456j_esuV2jEb8sBH855Yw3DJmA/rs:fill:256:192/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V2ZW50/X2ltYWdlcy8yYThk/NTNkOS0wZTQyLTQ1/MjAtOWFkNC02Yzlj/NGFjNDUwMWUxYWJm/ZThmZTc2OGViYzNh/Y2RfR2V0dHlJbWFn/ZXMtMTA5MDcwNTUx/Ni5qcGc.jpg)](https://www.atlasobscura.com/adventures/trips/new-zealand)
+
+New Zealand • 12 days, 11 nights
+
+[Wild New Zealand: Exploring the North & South Islands](https://www.atlasobscura.com/adventures/trips/new-zealand)
+
+from
+
+[View all trips](https://www.atlasobscura.com/adventures/trips)
 
 Loading...
 
-Upcoming Courses
-
-[View All Courses »](https://www.atlasobscura.com/online-courses)
-
-   [![](https://img.atlasobscura.com/4zXwawpP8paCNkaAVjuZfmJoVQ7If5i1znNlqm5AzOM/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy8wOWI3/ZDM4Ny0xNmVkLTQx/NjAtOGFlOC03NzAw/N2RjZGMzZDg2OTQy/NmYyZGJkNmZmMzlj/NjJfQ3Jvc3N3b3Jk/cy1zaHV0dGVyc3Rv/Y2stMjcxNzI5NDI0/LmpwZw.jpg)
-
-Creating Crossword Puzzles With Brooke Husic & Natan Last](https://www.atlasobscura.com/experiences/crossword-course)
-
-   [![](https://img.atlasobscura.com/qsjldIj5qK07gCdxw2VOKvN5GgtIYtyj4-JQNok_A0M/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy80MTk1/ZDlmYi01M2Q2LTQ4/NzYtYjZiOS1kZWVl/YTU5YTllMGNhNDE0/MTY4MTE2OTZiMWQ0/OWNfSU1HXzk3NjAu/anBn.jpg)
-
-In Deep: Life at the Bottom of the Ocean With Dr. Sarah McAnulty](https://www.atlasobscura.com/experiences/deep-sea-course)
-
-   [![](https://img.atlasobscura.com/4uz4wcavh0V55emo3HUSphzseKRFvELBw3-2IDQqDdE/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy9jMThi/YjhkOS1hYWI5LTQ1/ZjktYTMzYS03Yzky/ZTliNjVkOWIwOWVm/Y2I3MTRhNTY0M2Qw/ODhfbWFyay1vbHNl/bi1RMVU5Y1BubEUx/cy11bnNwbGFzaC5q/cGVn.jpg)
-
-Introduction to Birding With Annie Novak](https://www.atlasobscura.com/experiences/birding-online-course)
-
-   [![](https://img.atlasobscura.com/mw6XQrcvv8bED55hweNZfTLYB7myt__AO5BFAUThhZg/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy8zMmU3/OTA4NS1jNGMyLTQ3/MWYtOGEyNy04M2I3/ODY2MmRhM2ZjYzkz/MmIxMjg4NTkzM2I4/OTdfUnViU3VtbWVy/UGxheS00Mi5qcGc.jpg)
-
-How to Make a Murder: Writing Your Own Murder Mystery Party With Abi Inman](https://www.atlasobscura.com/experiences/murder-mystery-party-online-course)
-
-   [![](https://img.atlasobscura.com/-BHb2cg8f71hNJMoFtoio8UWnFrrWIAo4TK6498kLU0/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy80ZTJh/ZTZjNS1iYzgzLTQx/N2YtOWRiNC1mOGNm/NmNjYWE4YmEwY2E3/YzQ5Yzk2MDUxYzlj/YWZfSU1HXzI0NzQu/anBn.jpg)
-
-Stories in the Stones: How to Read a Gravestone With Dr. Elise M. Ciregna](https://www.atlasobscura.com/experiences/gravestone-reading-online-course)
+Loading...
 
 Top Destinations
 
@@ -94,6 +99,10 @@ Latest Places
 
 [View All Places »](https://www.atlasobscura.com/places?sort=published_at)
 
+   [![The entrance is overgrown and largely hidden.](https://img.atlasobscura.com/lVi8WzHE9WB2USH3sgi2EnOQNuVR1kntL_09ucIuyTo/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9iYzhj/MjZhNS0wYzM1LTQ2/ZGEtOGZhZS1kYTY4/YWYwZmE0M2FlNTg5/NTE3YTNhMjU1NGMx/ZmNfRFNDXzAxNTcu/anBlZw.jpg)
+
+Yatozaka Kiridoshi Pass](https://www.atlasobscura.com/places/yatozaka-kiridoshi-pass)
+
    [![UV Reactive Glass](https://img.atlasobscura.com/MkmH1jx0q6wxhhNcnDcYsAXjv2YgIuVZfyHPgEsNvqY/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy82MTU2/M2YyNC05OTE5LTQ5/NWItOGU3Zi0wMzQ4/OTRlNTZhNDQwY2Zi/NWE4MTIyYTJlYzli/NzdfSU1HXzY0NDYu/anBn.jpg)
 
 Historical Glass Museum](https://www.atlasobscura.com/places/historical-glass-museum)
@@ -106,57 +115,9 @@ Postbllok Memorial](https://www.atlasobscura.com/places/postbllok-memorial)
 
 All Saints’ Church, Daresbury](https://www.atlasobscura.com/places/all-saints-church-daresbury)
 
-   [![Mural on the ceiling of the church](https://img.atlasobscura.com/3Rln5sZhE1gOCAftCnx48P9qEmfjqAhMkQ8YZm1AhIc/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy80Zjgz/YTY1Zi03NjA0LTQ5/MjUtOGVkZS0yNzJj/NzZlMjRjM2Y1YWJl/YzA2Zjg1ZGIxNmFh/MGNfSU1HXzE1OTcu/anBlZw.jpg)
+Loading...
 
-Italian Chapel of Saint Francis of Assisi](https://www.atlasobscura.com/places/italian-chapel-saint-francis-of-assisi)
-
-Latest Places to Eat & Drink
-
-[View All Places to Eat »](https://www.atlasobscura.com/cool-places-to-eat)
-
-   [![This "little French girl" is a Porto icon.](https://img.atlasobscura.com/mNMhuHvy9kgw2wWJs_Lc1mMNFDqV--HWQK2L3npb7MY/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy80ZTRh/N2UxMTkxOTMzM2Q4/ZmFfMjAyMzEwX1Bv/cnRvX1BvcnR1Z2Fs/LTEwMDUuanBn.jpg)
-
-A Regaleira](https://www.atlasobscura.com/places/a-regaleira)
-
-   [![A blowtorch makes for an exquisitely caramelized crust.](https://img.atlasobscura.com/z50sRCyDFJSsmObZVyyed4AoWQtxRve8_wf3qz8b_4I/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy84MmI5/MjI0NzBjN2QzOTFm/M2VfMjAyNDA2IFBv/cnRvIFBvcnR1Z2Fs/LTMxMzYuanBn.jpg)
-
-Semea](https://www.atlasobscura.com/places/semea)
-
-   [![Visitors can try all manner of fortified wines here. ](https://img.atlasobscura.com/GulxFmgj6cUiI7lP5EjxwsELDevwAa5XTAxYQFr0I5o/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9iNmYx/OTNjMWRmYWYxNWM3/NjhfMjAyNDA2IFBv/cnRvIFBvcnR1Z2Fs/LTM2NTEuanBn.jpg)
-
-Poças](https://www.atlasobscura.com/places/pocas)
-
-   [![A dish of frango à cafreal, a Goan-Mozambican-Portuguese dish that’s the precursor of Nando’s peri-peri chicken, is the specialty here.](https://img.atlasobscura.com/K0oLIwSoDJnqadBQifsIJs4FF2RLNbEqSpjlVqvndiI/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9mMzkx/MDIyNmM2MTc2ZTgy/NTlfMjAyNDA5X0xp/c2Jvbl9Qb3J0dWdh/bC00NjI3LmpwZw.jpg)
-
-Piri Piri](https://www.atlasobscura.com/places/piri-piri)
-
-   [![With their beautiful designs, the tins make for great souvenirs.](https://img.atlasobscura.com/s_I9iEErgWc1p6MceubuUTrHuVkckSiDySgwXhiX0hE/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9iOTYy/NmU0MzAwZjU4OWNh/ODVfMjAyNDA2IFBv/cnRvIFBvcnR1Z2Fs/LTM0NjYuanBn.jpg)
-
-Conservas Pinhais](https://www.atlasobscura.com/places/conservas-pinhais)
-
-Recent Stories
-
-[All Stories](https://www.atlasobscura.com/articles) [Puzzles](https://www.atlasobscura.com/series/ao-puzzles) [Video](https://www.atlasobscura.com/videos) [Podcast](https://www.atlasobscura.com/podcast)
-
-Most Recent Stories
-
-[View All Stories »](https://www.atlasobscura.com/articles)
-
-   [![Puffling chicks hatch around July and start leaving the colony in mid-September.](https://img.atlasobscura.com/eR589Cxqv4SYqNdMnt5fHOftytpUrglpVcwDLOxbSF4/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9lYzM3MTIzNy02/MTlhLTQwNmUtYjk3/NC1hNGQ1NzIwYTBi/MWQwOGE1ZjE2M2Uw/ZjhjODc4NGZfR0c3/TkFLLmpwZw.jpg)
-
-How a 'Puffling Patrol' Protects Iceland’s Puffin Babies](https://www.atlasobscura.com/articles/atlantic-puffins-wild-life-excerpt)
-
-   [![The gym and auditorium at Schenley High School in Pittsburgh was built just before the school closed in 2008.](https://img.atlasobscura.com/zUuH72bJ2xLQxZzFP0YynXORT-GMpUR5NtW7orvNNek/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy8wN2EzOGRhZGYw/NjllYzAzNjVfSU1H/XzIxOTBfMS5qcGc.jpg)
-
-What Abandoned Schools Can Teach Us](https://www.atlasobscura.com/articles/abandoned-america-schools)
-
-   [![A 15th-century Iranian manuscript of the Shahnama ("The Book of Kings)" depicts a lavish banquet.](https://img.atlasobscura.com/M_H1dOM5EdkNG92-lfaW41NSxvh12I-qzUPqqa6DNfI/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy82MTU2NTQ5OC0w/NjZjLTRhMWYtYjM4/Ny03MzU1OTVkMTUx/NjUwOThmOGZmYjY2/YmI1MjliZjVfZTIw/MjNfY3JvcC5wbmc.png)
-
-A New Exhibition Features Culinary Art From Across the Islamic World](https://www.atlasobscura.com/articles/detroit-institute-of-arts-food-exhibition)
-
-   [![These roughly 4,000-year-old tablets may be the oldest existing cookbook.](https://img.atlasobscura.com/-AhfePK9DIy5M5GAvKwC_zQwFTLJ52kHOCahonIbRHo/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy81NjJlZjg0Y2Zi/ZmU1MGYzNWFfV29y/bGQncyBPbGRlc3Qg/Q29va2Jvb2sgLSBD/b3VydGVzeSBvZiB0/aGUgWWFsZSBQZWFi/b2R5IE11c2V1bS5q/cGVn.jpg)
-
-What Researchers Learned From the World’s Oldest Cookbook](https://www.atlasobscura.com/articles/worlds-oldest-cookbook-babylonian-collection)
+Loading...
 
 No search results found for  
 “”
