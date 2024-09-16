@@ -19,42 +19,44 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
-    [![An anti-LTN protest in Dulwich](https://southwarknews.co.uk/wp-content/uploads/2021/05/Dulwich-LTN-protest-scaled.jpg)](https://southwarknews.co.uk/area/southwark/council-investment-in-ltns-and-cyle-lanes-has-failed-as-fewer-people-walking-and-cycling-data-suggests/)
+    [![Southwark Council HQ on Tooley Street. Photo from Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/06/Southwark-Council-HQ-on-Tooley-Street.-Photo-from-Google-Street-View-1-360x180.jpg)](https://southwarknews.co.uk/area/southwark/unexpected-success-of-southwark-councils-green-investment-scheme-sees-new-funding-round-launched/)
     
-    ### [Council investment in LTNs and cycle lanes has ‘failed’ as fewer people walking and cycling, data suggests](https://southwarknews.co.uk/area/southwark/council-investment-in-ltns-and-cyle-lanes-has-failed-as-fewer-people-walking-and-cycling-data-suggests/)
+    ### [Unexpected success of Southwark Council’s green investment scheme sees new funding round launched](https://southwarknews.co.uk/area/southwark/unexpected-success-of-southwark-councils-green-investment-scheme-sees-new-funding-round-launched/)
     
-    [![People have been amazing since the breakin - pic from SouthwarkFoodbank](https://southwarknews.co.uk/wp-content/uploads/2024/09/People-have-been-amazing-since-the-breakin-pic-from-SouthwarkFoodbank-360x180.jpg)](https://southwarknews.co.uk/area/peckham/exclusive-peckham-food-bank-making-back-everything-it-lost-in-burglary-thanks-to-community-support/)
+    [![Miatta Fahnbulleh (second from left) visited the store to thank workers.](https://southwarknews.co.uk/wp-content/uploads/2024/09/Southwark-Food-Bank-Morrisons-1-1-360x180.png)](https://southwarknews.co.uk/area/peckham/morrisons-supermarket-becomes-latest-donor-to-burgled-peckham-food-bank-with-1000-contribution/)
     
-    ### [Exclusive: Peckham food bank making ‘back everything it lost in burglary’ thanks to community support](https://southwarknews.co.uk/area/peckham/exclusive-peckham-food-bank-making-back-everything-it-lost-in-burglary-thanks-to-community-support/)
+    ### [Morrisons supermarket becomes latest donor to burgled Peckham food bank with £1,000 contribution](https://southwarknews.co.uk/area/peckham/morrisons-supermarket-becomes-latest-donor-to-burgled-peckham-food-bank-with-1000-contribution/)
     
-    [![Miatta Fahnbulleh](https://southwarknews.co.uk/wp-content/uploads/2024/01/Miatta-Fahnbulleh-e1704998877172-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/after-lakanal-fire-in-camberwell-with-the-loss-of-three-women-and-children-opportunities-on-safety-were-squandered/)
+    [![Bayo Dosunmu 
+    Photo by Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/09/Bayo-Dosunmu-ex-chief-executive-of-Lambeth-Council-360x180.jpg)](https://southwarknews.co.uk/featured/former-top-council-boss-has-been-disqualified-from-driving-for-two-years/)
     
-    ### [‘After Lakanal fire in Camberwell with the loss of three women and children opportunities on safety were squandered’](https://southwarknews.co.uk/area/peckham/after-lakanal-fire-in-camberwell-with-the-loss-of-three-women-and-children-opportunities-on-safety-were-squandered/)
+    ### [Former top council boss has been disqualified from driving for two years](https://southwarknews.co.uk/featured/former-top-council-boss-has-been-disqualified-from-driving-for-two-years/)
     
-    [![Sadiq Khan at Mayor's Question Time. Credit - London Assembly webcast](https://southwarknews.co.uk/wp-content/uploads/2024/05/Sadiq-Khan-at-Mayors-Question-Time.-Credit-London-Assembly-webcast-360x180.jpg)](https://southwarknews.co.uk/area/london/does-sadiq-khan-have-a-grip-on-the-metropolitan-police/)
+    [![The Walworth Society excitedly posted this photo of the coverings removed from the historic building. Credit: The Walworth Society](https://southwarknews.co.uk/wp-content/uploads/2024/09/boom-360x180.png)](https://southwarknews.co.uk/area/walworth/walworths-victorian-town-hall-now-worth-staggering-25-million-eleven-years-after-being-ravaged-by-devastating-fire-after-stunning-restoration/)
     
-    ### [Does Sadiq Khan have a grip on the Metropolitan Police?](https://southwarknews.co.uk/area/london/does-sadiq-khan-have-a-grip-on-the-metropolitan-police/)
+    ### [Walworth’s Victorian town hall now worth staggering £25 million eleven years after being ravaged by devastating fire after stunning restoration](https://southwarknews.co.uk/area/walworth/walworths-victorian-town-hall-now-worth-staggering-25-million-eleven-years-after-being-ravaged-by-devastating-fire-after-stunning-restoration/)
     
-    [![Cee, 29 is the artist behind it.](https://southwarknews.co.uk/wp-content/uploads/2024/09/image002-360x180.png)](https://southwarknews.co.uk/area/elephant-and-castle/new-mural-to-be-unveiled-in-elephant-and-castle-by-former-art-student/)
+    [![Emergency services attended the incident on Rye Lane, Peckham. Image: Google Maps](https://southwarknews.co.uk/wp-content/uploads/2024/09/Emergency-services-attended-the-incident-on-Rye-Lane-Peckham.-Image-Google-Maps-360x180.png)](https://southwarknews.co.uk/area/peckham/man-stabbed-on-peckham-high-street/)
     
-    ### [New mural to be unveiled in Elephant and Castle by former art student](https://southwarknews.co.uk/area/elephant-and-castle/new-mural-to-be-unveiled-in-elephant-and-castle-by-former-art-student/)
+    ### [Man stabbed on Peckham high street](https://southwarknews.co.uk/area/peckham/man-stabbed-on-peckham-high-street/)
     
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/09/Location-of-the-refused-club-360x180.jpg)](https://southwarknews.co.uk/area/walworth/nightclub-bid-refused-after-owner-admits-we-dont-know-nothing/)
+    [![Police would like to speak to the man pictured in connection with the incident. Image: British Transport Police](https://southwarknews.co.uk/wp-content/uploads/2024/09/Police-would-like-to-speak-to-the-man-pictured-in-connection-with-the-incident.-Image-British-Transport-Police-360x180.png)](https://southwarknews.co.uk/area/borough/police-investigating-masturbator-on-london-bridge-train/)
     
-    ### [Nightclub bid refused after owner admits ‘we don’t know nothing’](https://southwarknews.co.uk/area/walworth/nightclub-bid-refused-after-owner-admits-we-dont-know-nothing/)
+    ### [Police investigating ‘masturbator’ on London Bridge train](https://southwarknews.co.uk/area/borough/police-investigating-masturbator-on-london-bridge-train/)
     
-    [![Peckham Festival 
-    - photo supplied](https://southwarknews.co.uk/wp-content/uploads/2024/09/PeckhamFestival-4206-360x180.jpg)](https://southwarknews.co.uk/area/peckham/peckham-festival-starts-on-friday-and-the-programme-of-events-is-massive/)
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/09/Mike-Victoria-sign-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/the-vics-mike-mckenna-a-big-bermondsey-character-whose-life-was-framed-around-promoting-the-good-work-of-others/)
     
-    ### [Peckham Festival starts on Friday – and the programme of events is massive](https://southwarknews.co.uk/area/peckham/peckham-festival-starts-on-friday-and-the-programme-of-events-is-massive/)
+    ### [The Vic’s Mike McKenna – a big Bermondsey character whose life was framed around promoting the good work of others](https://southwarknews.co.uk/area/bermondsey/the-vics-mike-mckenna-a-big-bermondsey-character-whose-life-was-framed-around-promoting-the-good-work-of-others/)
     
-    [![City Hall in the Royal Docks, east London. Photo by Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/07/City-Hall-in-the-Royal-Docks-east-London.-Photo-by-Noah-Vickers-360x180.jpg)](https://southwarknews.co.uk/area/london/city-hall-staff-told-to-work-from-home-and-there-are-fears-over-passengers-bank-details-being-exposed-after-cyber-attack-on-tfl/)
+    [![Joel Victorious 
+    Photo from the Met](https://southwarknews.co.uk/wp-content/uploads/2024/09/JOELVICTORIOUS-jpeg-360x180.avif)](https://southwarknews.co.uk/area/southwark/man-who-hammer-attacked-woman-leaving-her-with-brain-damage-receives-life-sentence/)
     
-    ### [City Hall staff told to work from home and there are fears over passengers bank details being exposed, after cyber-attack on TfL](https://southwarknews.co.uk/area/london/city-hall-staff-told-to-work-from-home-and-there-are-fears-over-passengers-bank-details-being-exposed-after-cyber-attack-on-tfl/)
+    ### [Man who hammer-attacked woman leaving her with brain damage receives life sentence](https://southwarknews.co.uk/area/southwark/man-who-hammer-attacked-woman-leaving-her-with-brain-damage-receives-life-sentence/)
     
-    [![Mike Williams, one half of the Peckham duo behind Flake Bake.](https://southwarknews.co.uk/wp-content/uploads/2024/09/IMG_4438-e1726140300690-360x180.jpg)](https://southwarknews.co.uk/area/peckham/jamaican-patties-made-by-peckham-duo-will-now-be-sold-permanently-in-aldi/)
+    [![Christine Rixon, 75, and Paul Rixon, 76, shown on Bromley High Street.
+    Photo by  Joe Coughlan.](https://southwarknews.co.uk/wp-content/uploads/2024/09/Christine-and-Paul-Rixon-360x180.jpg)](https://southwarknews.co.uk/area/south-london/pensioners-in-south-london-disgusted-by-governments-cut-to-winter-fuel-payments/)
     
-    ### [Jamaican patties made by Peckham duo will now be sold permanently in Aldi](https://southwarknews.co.uk/area/peckham/jamaican-patties-made-by-peckham-duo-will-now-be-sold-permanently-in-aldi/)
+    ### [Pensioners in South London ‘disgusted’ by Government’s cut to Winter Fuel Payments](https://southwarknews.co.uk/area/south-london/pensioners-in-south-london-disgusted-by-governments-cut-to-winter-fuel-payments/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -100,42 +102,44 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
-    [![An anti-LTN protest in Dulwich](https://southwarknews.co.uk/wp-content/uploads/2021/05/Dulwich-LTN-protest-scaled.jpg)](https://southwarknews.co.uk/area/southwark/council-investment-in-ltns-and-cyle-lanes-has-failed-as-fewer-people-walking-and-cycling-data-suggests/)
+    [![Southwark Council HQ on Tooley Street. Photo from Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/06/Southwark-Council-HQ-on-Tooley-Street.-Photo-from-Google-Street-View-1-360x180.jpg)](https://southwarknews.co.uk/area/southwark/unexpected-success-of-southwark-councils-green-investment-scheme-sees-new-funding-round-launched/)
     
-    ### [Council investment in LTNs and cycle lanes has ‘failed’ as fewer people walking and cycling, data suggests](https://southwarknews.co.uk/area/southwark/council-investment-in-ltns-and-cyle-lanes-has-failed-as-fewer-people-walking-and-cycling-data-suggests/)
+    ### [Unexpected success of Southwark Council’s green investment scheme sees new funding round launched](https://southwarknews.co.uk/area/southwark/unexpected-success-of-southwark-councils-green-investment-scheme-sees-new-funding-round-launched/)
     
-    [![People have been amazing since the breakin - pic from SouthwarkFoodbank](https://southwarknews.co.uk/wp-content/uploads/2024/09/People-have-been-amazing-since-the-breakin-pic-from-SouthwarkFoodbank-360x180.jpg)](https://southwarknews.co.uk/area/peckham/exclusive-peckham-food-bank-making-back-everything-it-lost-in-burglary-thanks-to-community-support/)
+    [![Miatta Fahnbulleh (second from left) visited the store to thank workers.](https://southwarknews.co.uk/wp-content/uploads/2024/09/Southwark-Food-Bank-Morrisons-1-1-360x180.png)](https://southwarknews.co.uk/area/peckham/morrisons-supermarket-becomes-latest-donor-to-burgled-peckham-food-bank-with-1000-contribution/)
     
-    ### [Exclusive: Peckham food bank making ‘back everything it lost in burglary’ thanks to community support](https://southwarknews.co.uk/area/peckham/exclusive-peckham-food-bank-making-back-everything-it-lost-in-burglary-thanks-to-community-support/)
+    ### [Morrisons supermarket becomes latest donor to burgled Peckham food bank with £1,000 contribution](https://southwarknews.co.uk/area/peckham/morrisons-supermarket-becomes-latest-donor-to-burgled-peckham-food-bank-with-1000-contribution/)
     
-    [![Miatta Fahnbulleh](https://southwarknews.co.uk/wp-content/uploads/2024/01/Miatta-Fahnbulleh-e1704998877172-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/after-lakanal-fire-in-camberwell-with-the-loss-of-three-women-and-children-opportunities-on-safety-were-squandered/)
+    [![Bayo Dosunmu 
+    Photo by Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/09/Bayo-Dosunmu-ex-chief-executive-of-Lambeth-Council-360x180.jpg)](https://southwarknews.co.uk/featured/former-top-council-boss-has-been-disqualified-from-driving-for-two-years/)
     
-    ### [‘After Lakanal fire in Camberwell with the loss of three women and children opportunities on safety were squandered’](https://southwarknews.co.uk/area/peckham/after-lakanal-fire-in-camberwell-with-the-loss-of-three-women-and-children-opportunities-on-safety-were-squandered/)
+    ### [Former top council boss has been disqualified from driving for two years](https://southwarknews.co.uk/featured/former-top-council-boss-has-been-disqualified-from-driving-for-two-years/)
     
-    [![Sadiq Khan at Mayor's Question Time. Credit - London Assembly webcast](https://southwarknews.co.uk/wp-content/uploads/2024/05/Sadiq-Khan-at-Mayors-Question-Time.-Credit-London-Assembly-webcast-360x180.jpg)](https://southwarknews.co.uk/area/london/does-sadiq-khan-have-a-grip-on-the-metropolitan-police/)
+    [![The Walworth Society excitedly posted this photo of the coverings removed from the historic building. Credit: The Walworth Society](https://southwarknews.co.uk/wp-content/uploads/2024/09/boom-360x180.png)](https://southwarknews.co.uk/area/walworth/walworths-victorian-town-hall-now-worth-staggering-25-million-eleven-years-after-being-ravaged-by-devastating-fire-after-stunning-restoration/)
     
-    ### [Does Sadiq Khan have a grip on the Metropolitan Police?](https://southwarknews.co.uk/area/london/does-sadiq-khan-have-a-grip-on-the-metropolitan-police/)
+    ### [Walworth’s Victorian town hall now worth staggering £25 million eleven years after being ravaged by devastating fire after stunning restoration](https://southwarknews.co.uk/area/walworth/walworths-victorian-town-hall-now-worth-staggering-25-million-eleven-years-after-being-ravaged-by-devastating-fire-after-stunning-restoration/)
     
-    [![Cee, 29 is the artist behind it.](https://southwarknews.co.uk/wp-content/uploads/2024/09/image002-360x180.png)](https://southwarknews.co.uk/area/elephant-and-castle/new-mural-to-be-unveiled-in-elephant-and-castle-by-former-art-student/)
+    [![Emergency services attended the incident on Rye Lane, Peckham. Image: Google Maps](https://southwarknews.co.uk/wp-content/uploads/2024/09/Emergency-services-attended-the-incident-on-Rye-Lane-Peckham.-Image-Google-Maps-360x180.png)](https://southwarknews.co.uk/area/peckham/man-stabbed-on-peckham-high-street/)
     
-    ### [New mural to be unveiled in Elephant and Castle by former art student](https://southwarknews.co.uk/area/elephant-and-castle/new-mural-to-be-unveiled-in-elephant-and-castle-by-former-art-student/)
+    ### [Man stabbed on Peckham high street](https://southwarknews.co.uk/area/peckham/man-stabbed-on-peckham-high-street/)
     
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/09/Location-of-the-refused-club-360x180.jpg)](https://southwarknews.co.uk/area/walworth/nightclub-bid-refused-after-owner-admits-we-dont-know-nothing/)
+    [![Police would like to speak to the man pictured in connection with the incident. Image: British Transport Police](https://southwarknews.co.uk/wp-content/uploads/2024/09/Police-would-like-to-speak-to-the-man-pictured-in-connection-with-the-incident.-Image-British-Transport-Police-360x180.png)](https://southwarknews.co.uk/area/borough/police-investigating-masturbator-on-london-bridge-train/)
     
-    ### [Nightclub bid refused after owner admits ‘we don’t know nothing’](https://southwarknews.co.uk/area/walworth/nightclub-bid-refused-after-owner-admits-we-dont-know-nothing/)
+    ### [Police investigating ‘masturbator’ on London Bridge train](https://southwarknews.co.uk/area/borough/police-investigating-masturbator-on-london-bridge-train/)
     
-    [![Peckham Festival 
-    - photo supplied](https://southwarknews.co.uk/wp-content/uploads/2024/09/PeckhamFestival-4206-360x180.jpg)](https://southwarknews.co.uk/area/peckham/peckham-festival-starts-on-friday-and-the-programme-of-events-is-massive/)
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/09/Mike-Victoria-sign-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/the-vics-mike-mckenna-a-big-bermondsey-character-whose-life-was-framed-around-promoting-the-good-work-of-others/)
     
-    ### [Peckham Festival starts on Friday – and the programme of events is massive](https://southwarknews.co.uk/area/peckham/peckham-festival-starts-on-friday-and-the-programme-of-events-is-massive/)
+    ### [The Vic’s Mike McKenna – a big Bermondsey character whose life was framed around promoting the good work of others](https://southwarknews.co.uk/area/bermondsey/the-vics-mike-mckenna-a-big-bermondsey-character-whose-life-was-framed-around-promoting-the-good-work-of-others/)
     
-    [![City Hall in the Royal Docks, east London. Photo by Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/07/City-Hall-in-the-Royal-Docks-east-London.-Photo-by-Noah-Vickers-360x180.jpg)](https://southwarknews.co.uk/area/london/city-hall-staff-told-to-work-from-home-and-there-are-fears-over-passengers-bank-details-being-exposed-after-cyber-attack-on-tfl/)
+    [![Joel Victorious 
+    Photo from the Met](https://southwarknews.co.uk/wp-content/uploads/2024/09/JOELVICTORIOUS-jpeg-360x180.avif)](https://southwarknews.co.uk/area/southwark/man-who-hammer-attacked-woman-leaving-her-with-brain-damage-receives-life-sentence/)
     
-    ### [City Hall staff told to work from home and there are fears over passengers bank details being exposed, after cyber-attack on TfL](https://southwarknews.co.uk/area/london/city-hall-staff-told-to-work-from-home-and-there-are-fears-over-passengers-bank-details-being-exposed-after-cyber-attack-on-tfl/)
+    ### [Man who hammer-attacked woman leaving her with brain damage receives life sentence](https://southwarknews.co.uk/area/southwark/man-who-hammer-attacked-woman-leaving-her-with-brain-damage-receives-life-sentence/)
     
-    [![Mike Williams, one half of the Peckham duo behind Flake Bake.](https://southwarknews.co.uk/wp-content/uploads/2024/09/IMG_4438-e1726140300690-360x180.jpg)](https://southwarknews.co.uk/area/peckham/jamaican-patties-made-by-peckham-duo-will-now-be-sold-permanently-in-aldi/)
+    [![Christine Rixon, 75, and Paul Rixon, 76, shown on Bromley High Street.
+    Photo by  Joe Coughlan.](https://southwarknews.co.uk/wp-content/uploads/2024/09/Christine-and-Paul-Rixon-360x180.jpg)](https://southwarknews.co.uk/area/south-london/pensioners-in-south-london-disgusted-by-governments-cut-to-winter-fuel-payments/)
     
-    ### [Jamaican patties made by Peckham duo will now be sold permanently in Aldi](https://southwarknews.co.uk/area/peckham/jamaican-patties-made-by-peckham-duo-will-now-be-sold-permanently-in-aldi/)
+    ### [Pensioners in South London ‘disgusted’ by Government’s cut to Winter Fuel Payments](https://southwarknews.co.uk/area/south-london/pensioners-in-south-london-disgusted-by-governments-cut-to-winter-fuel-payments/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -212,12 +216,6 @@ Image from Google Street View](https://southwarknews.co.uk/wp-content/uploads/20
 
 [10th September 2024](https://southwarknews.co.uk/area/camberwell/two-south-london-primary-schools-set-to-close-while-four-more-will-be-merged/)
 
-[![Aged Cheeseburger, Whole Beast](https://southwarknews.co.uk/wp-content/uploads/2024/09/Whole-Beast-Aged-Cheeseburger-2-120x86.jpeg)](https://southwarknews.co.uk/area/peckham/peckham-pub-has-the-best-burger-in-the-uk/)
-
-### [Peckham pub has the ‘best burger’ in the UK](https://southwarknews.co.uk/area/peckham/peckham-pub-has-the-best-burger-in-the-uk/)
-
-[7th September 2024](https://southwarknews.co.uk/area/peckham/peckham-pub-has-the-best-burger-in-the-uk/)
-
 [![Rotherhithe Tunnel (Hjamesberglen, Wiki Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/03/Rotherhithe-Tunnel-car-on-fire-simulation-TfL-120x86.jpg)](https://southwarknews.co.uk/area/rotherhithe/major-congestion-whilst-rotherhithe-tunnel-is-closed-with-no-estimate-of-when-it-will-reopen/)
 
 ### [Major congestion whilst Rotherhithe Tunnel is closed with ‘no estimate’ of when it will reopen](https://southwarknews.co.uk/area/rotherhithe/major-congestion-whilst-rotherhithe-tunnel-is-closed-with-no-estimate-of-when-it-will-reopen/)
@@ -230,44 +228,50 @@ Image from Google Street View](https://southwarknews.co.uk/wp-content/uploads/20
 
 [11th September 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-defender-set-to-complete-move-to-brentford/)
 
+[![Femi Azeez and Neil Harris. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/08/BAT_3135-2024-08-24T20_26_38.968-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/i-want-to-be-coached-by-that-guy-millwall-attacker-gives-insight-into-drawn-out-transfer/)
+
+### [‘I want to be coached by that guy’ – Millwall attacker gives insight into drawn-out transfer](https://southwarknews.co.uk/sport/football/millwall/i-want-to-be-coached-by-that-guy-millwall-attacker-gives-insight-into-drawn-out-transfer/)
+
+[12th September 2024](https://southwarknews.co.uk/sport/football/millwall/i-want-to-be-coached-by-that-guy-millwall-attacker-gives-insight-into-drawn-out-transfer/)
+
 ### Featured Articles
 
-[![An anti-LTN protest in Dulwich](https://southwarknews.co.uk/wp-content/uploads/2021/05/Dulwich-LTN-protest-scaled.jpg)](https://southwarknews.co.uk/area/southwark/council-investment-in-ltns-and-cyle-lanes-has-failed-as-fewer-people-walking-and-cycling-data-suggests/)
+[![Southwark Council HQ on Tooley Street. Photo from Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/06/Southwark-Council-HQ-on-Tooley-Street.-Photo-from-Google-Street-View-1-120x86.jpg)](https://southwarknews.co.uk/area/southwark/unexpected-success-of-southwark-councils-green-investment-scheme-sees-new-funding-round-launched/)
 
-### [Council investment in LTNs and cycle lanes has ‘failed’ as fewer people walking and cycling, data suggests](https://southwarknews.co.uk/area/southwark/council-investment-in-ltns-and-cyle-lanes-has-failed-as-fewer-people-walking-and-cycling-data-suggests/)
+### [Unexpected success of Southwark Council’s green investment scheme sees new funding round launched](https://southwarknews.co.uk/area/southwark/unexpected-success-of-southwark-councils-green-investment-scheme-sees-new-funding-round-launched/)
 
-[13th September 2024](https://southwarknews.co.uk/area/southwark/council-investment-in-ltns-and-cyle-lanes-has-failed-as-fewer-people-walking-and-cycling-data-suggests/)
+[16th September 2024](https://southwarknews.co.uk/area/southwark/unexpected-success-of-southwark-councils-green-investment-scheme-sees-new-funding-round-launched/)
 
-[![People have been amazing since the breakin - pic from SouthwarkFoodbank](https://southwarknews.co.uk/wp-content/uploads/2024/09/People-have-been-amazing-since-the-breakin-pic-from-SouthwarkFoodbank-120x86.jpg)](https://southwarknews.co.uk/area/peckham/exclusive-peckham-food-bank-making-back-everything-it-lost-in-burglary-thanks-to-community-support/)
+[![Miatta Fahnbulleh (second from left) visited the store to thank workers.](https://southwarknews.co.uk/wp-content/uploads/2024/09/Southwark-Food-Bank-Morrisons-1-1-120x86.png)](https://southwarknews.co.uk/area/peckham/morrisons-supermarket-becomes-latest-donor-to-burgled-peckham-food-bank-with-1000-contribution/)
 
-### [Exclusive: Peckham food bank making ‘back everything it lost in burglary’ thanks to community support](https://southwarknews.co.uk/area/peckham/exclusive-peckham-food-bank-making-back-everything-it-lost-in-burglary-thanks-to-community-support/)
+### [Morrisons supermarket becomes latest donor to burgled Peckham food bank with £1,000 contribution](https://southwarknews.co.uk/area/peckham/morrisons-supermarket-becomes-latest-donor-to-burgled-peckham-food-bank-with-1000-contribution/)
 
-[13th September 2024](https://southwarknews.co.uk/area/peckham/exclusive-peckham-food-bank-making-back-everything-it-lost-in-burglary-thanks-to-community-support/)
+[16th September 2024](https://southwarknews.co.uk/area/peckham/morrisons-supermarket-becomes-latest-donor-to-burgled-peckham-food-bank-with-1000-contribution/)
 
-[![Sadiq Khan at Mayor's Question Time. Credit - London Assembly webcast](https://southwarknews.co.uk/wp-content/uploads/2024/05/Sadiq-Khan-at-Mayors-Question-Time.-Credit-London-Assembly-webcast-120x86.jpg)](https://southwarknews.co.uk/area/london/does-sadiq-khan-have-a-grip-on-the-metropolitan-police/)
+[![Bayo Dosunmu 
+Photo by Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/09/Bayo-Dosunmu-ex-chief-executive-of-Lambeth-Council-120x86.jpg)](https://southwarknews.co.uk/featured/former-top-council-boss-has-been-disqualified-from-driving-for-two-years/)
 
-### [Does Sadiq Khan have a grip on the Metropolitan Police?](https://southwarknews.co.uk/area/london/does-sadiq-khan-have-a-grip-on-the-metropolitan-police/)
+### [Former top council boss has been disqualified from driving for two years](https://southwarknews.co.uk/featured/former-top-council-boss-has-been-disqualified-from-driving-for-two-years/)
 
-[13th September 2024](https://southwarknews.co.uk/area/london/does-sadiq-khan-have-a-grip-on-the-metropolitan-police/)
+[16th September 2024](https://southwarknews.co.uk/featured/former-top-council-boss-has-been-disqualified-from-driving-for-two-years/)
 
-[![Peckham Festival 
-- photo supplied](https://southwarknews.co.uk/wp-content/uploads/2024/09/PeckhamFestival-4206-120x86.jpg)](https://southwarknews.co.uk/area/peckham/peckham-festival-starts-on-friday-and-the-programme-of-events-is-massive/)
+[![The Walworth Society excitedly posted this photo of the coverings removed from the historic building. Credit: The Walworth Society](https://southwarknews.co.uk/wp-content/uploads/2024/09/boom-120x86.png)](https://southwarknews.co.uk/area/walworth/walworths-victorian-town-hall-now-worth-staggering-25-million-eleven-years-after-being-ravaged-by-devastating-fire-after-stunning-restoration/)
 
-### [Peckham Festival starts on Friday – and the programme of events is massive](https://southwarknews.co.uk/area/peckham/peckham-festival-starts-on-friday-and-the-programme-of-events-is-massive/)
+### [Walworth’s Victorian town hall now worth staggering £25 million eleven years after being ravaged by devastating fire after stunning restoration](https://southwarknews.co.uk/area/walworth/walworths-victorian-town-hall-now-worth-staggering-25-million-eleven-years-after-being-ravaged-by-devastating-fire-after-stunning-restoration/)
 
-[12th September 2024](https://southwarknews.co.uk/area/peckham/peckham-festival-starts-on-friday-and-the-programme-of-events-is-massive/)
+[16th September 2024](https://southwarknews.co.uk/area/walworth/walworths-victorian-town-hall-now-worth-staggering-25-million-eleven-years-after-being-ravaged-by-devastating-fire-after-stunning-restoration/)
 
-[![City Hall in the Royal Docks, east London. Photo by Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/07/City-Hall-in-the-Royal-Docks-east-London.-Photo-by-Noah-Vickers-120x86.jpg)](https://southwarknews.co.uk/area/london/city-hall-staff-told-to-work-from-home-and-there-are-fears-over-passengers-bank-details-being-exposed-after-cyber-attack-on-tfl/)
+[![Emergency services attended the incident on Rye Lane, Peckham. Image: Google Maps](https://southwarknews.co.uk/wp-content/uploads/2024/09/Emergency-services-attended-the-incident-on-Rye-Lane-Peckham.-Image-Google-Maps-120x86.png)](https://southwarknews.co.uk/area/peckham/man-stabbed-on-peckham-high-street/)
 
-### [City Hall staff told to work from home and there are fears over passengers bank details being exposed, after cyber-attack on TfL](https://southwarknews.co.uk/area/london/city-hall-staff-told-to-work-from-home-and-there-are-fears-over-passengers-bank-details-being-exposed-after-cyber-attack-on-tfl/)
+### [Man stabbed on Peckham high street](https://southwarknews.co.uk/area/peckham/man-stabbed-on-peckham-high-street/)
 
-[12th September 2024](https://southwarknews.co.uk/area/london/city-hall-staff-told-to-work-from-home-and-there-are-fears-over-passengers-bank-details-being-exposed-after-cyber-attack-on-tfl/)
+[16th September 2024](https://southwarknews.co.uk/area/peckham/man-stabbed-on-peckham-high-street/)
 
-[![Mike Williams, one half of the Peckham duo behind Flake Bake.](https://southwarknews.co.uk/wp-content/uploads/2024/09/IMG_4438-e1726140300690-120x86.jpg)](https://southwarknews.co.uk/area/peckham/jamaican-patties-made-by-peckham-duo-will-now-be-sold-permanently-in-aldi/)
+[![Police would like to speak to the man pictured in connection with the incident. Image: British Transport Police](https://southwarknews.co.uk/wp-content/uploads/2024/09/Police-would-like-to-speak-to-the-man-pictured-in-connection-with-the-incident.-Image-British-Transport-Police-120x86.png)](https://southwarknews.co.uk/area/borough/police-investigating-masturbator-on-london-bridge-train/)
 
-### [Jamaican patties made by Peckham duo will now be sold permanently in Aldi](https://southwarknews.co.uk/area/peckham/jamaican-patties-made-by-peckham-duo-will-now-be-sold-permanently-in-aldi/)
+### [Police investigating ‘masturbator’ on London Bridge train](https://southwarknews.co.uk/area/borough/police-investigating-masturbator-on-london-bridge-train/)
 
-[12th September 2024](https://southwarknews.co.uk/area/peckham/jamaican-patties-made-by-peckham-duo-will-now-be-sold-permanently-in-aldi/)
+[16th September 2024](https://southwarknews.co.uk/area/borough/police-investigating-masturbator-on-london-bridge-train/)
 
 ### USEFUL PAGES
 
