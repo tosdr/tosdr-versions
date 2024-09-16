@@ -18,6 +18,9 @@ Header - Shapes Theme
 
 * Toys
     
+    * [![REVERSIBLE HALLOWEEN PLUSH](//www.unspeakable.com/cdn/shop/files/ECM00356_1.jpg?v=1726250376&width=700)
+        
+        REVERSIBLE HALLOWEEN PLUSH](https://www.unspeakable.com/products/reversible-halloween-plush)
     * [![GRAVITY TRACKS](//www.unspeakable.com/cdn/shop/files/DSC_0978.jpg?v=1713976660&width=700)
         
         GRAVITY TRACKS](https://www.unspeakable.com/products/gravity-tracks)
@@ -33,32 +36,29 @@ Header - Shapes Theme
     * [![SCENTED SLIME](//www.unspeakable.com/cdn/shop/files/DSC_0889.jpg?v=1698765468&width=700)
         
         SCENTED SLIME](https://www.unspeakable.com/products/scented-slime)
-    * [![MAGIC CUBE](//www.unspeakable.com/cdn/shop/files/DSC_0913_1_c5c69abb-77f3-47d3-94bc-57fe145a48cd.jpg?v=1699029762&width=700)
-        
-        MAGIC CUBE](https://www.unspeakable.com/products/magic-cube)
     
     [View All](https://www.unspeakable.com/collections/toys-fun-stuff)
     
 * Merch
     
-    * [![4 PACK SHOE CHARMS](//www.unspeakable.com/cdn/shop/files/DSC_1018_2.jpg?v=1724174114&width=700)
+    * [![2024 HALLOWEEN T-SHIRT](//www.unspeakable.com/cdn/shop/files/DSC_1044.jpg?v=1725906609&width=700)
         
-        4 PACK SHOE CHARMS](https://www.unspeakable.com/products/4-pack-shoe-charms)
+        2024 HALLOWEEN T-SHIRT](https://www.unspeakable.com/products/2024-halloween)
+    * [![REVERSIBLE HALLOWEEN PLUSH](//www.unspeakable.com/cdn/shop/files/ECM00356_1.jpg?v=1726250376&width=700)
+        
+        REVERSIBLE HALLOWEEN PLUSH](https://www.unspeakable.com/products/reversible-halloween-plush)
     * [![BIRTHDAY CARD](//www.unspeakable.com/cdn/shop/files/unnamed_2.jpg?v=1724348147&width=700)
         
         BIRTHDAY CARD](https://www.unspeakable.com/products/birthday-card)
+    * [![4 PACK SHOE CHARMS](//www.unspeakable.com/cdn/shop/files/DSC_1018_2.jpg?v=1724174114&width=700)
+        
+        4 PACK SHOE CHARMS](https://www.unspeakable.com/products/4-pack-shoe-charms)
     * [![3D ICON BACKPACK](//www.unspeakable.com/cdn/shop/files/unnamed_1_634190cc-ac31-4067-be1f-81975c90e5f8.jpg?v=1721926739&width=700)
         
         3D ICON BACKPACK](https://www.unspeakable.com/products/backpack)
     * [![STREET ART T-SHIRT](//www.unspeakable.com/cdn/shop/files/IMG_2976.jpg?v=1719407713&width=700)
         
         STREET ART T-SHIRT](https://www.unspeakable.com/products/noodle-guy-shirt)
-    * [![3 SILICONE WRISTBANDS](//www.unspeakable.com/cdn/shop/files/DSC_0999.jpg?v=1718112203&width=700)
-        
-        3 SILICONE WRISTBANDS](https://www.unspeakable.com/products/3-silicon-wristbands)
-    * [![YELLOW TORNADO HUNTER T-SHIRT](//www.unspeakable.com/cdn/shop/files/yellowtornado.jpg?v=1715611755&width=700)
-        
-        YELLOW TORNADO HUNTER T-SHIRT](https://www.unspeakable.com/products/yellow-tornado-hunter-t-shirt)
     
     [View All](https://www.unspeakable.com/collections/merch)
     
