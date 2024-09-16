@@ -36,18 +36,18 @@
         
         Port of Seattle hit by Rhysida ransomware in August attack](https://www.bleepingcomputer.com/news/security/port-of-seattle-says-rhysida-ransomware-was-behind-august-attack/)
     
+    * [![Microsoft rolls out Office LTSC 2024 for Windows and Mac](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Microsoft rolls out Office LTSC 2024 for Windows and Mac](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-office-ltsc-2024-for-windows-and-mac/)
+    * [![US cracks down on spyware vendor Intellexa with more sanctions](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        US cracks down on spyware vendor Intellexa with more sanctions](https://www.bleepingcomputer.com/news/security/us-cracks-down-on-spyware-vendor-intellexa-with-more-sanctions/)
+    * [![Chrome switching to NIST-approved ML-KEM quantum encryption](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Chrome switching to NIST-approved ML-KEM quantum encryption](https://www.bleepingcomputer.com/news/security/chrome-switching-to-nist-approved-ml-kem-quantum-encryption/)
     * [![D-Link fixes critical RCE, hardcoded password flaws in WiFi 6 routers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         D-Link fixes critical RCE, hardcoded password flaws in WiFi 6 routers](https://www.bleepingcomputer.com/news/security/d-link-fixes-critical-rce-hardcoded-password-flaws-in-wifi-6-routers/)
-    * [![Get hands-on cybersecurity training in this $30 course bundle](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Get hands-on cybersecurity training in this $30 course bundle](https://www.bleepingcomputer.com/offer/deals/get-hands-on-cybersecurity-training-in-this-30-course-bundle/)
-    * [![Windows vulnerability abused braille “spaces” in zero-day attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Windows vulnerability abused braille “spaces” in zero-day attacks](https://www.bleepingcomputer.com/news/security/windows-vulnerability-abused-braille-spaces-in-zero-day-attacks/)
-    * [![Get unbeatable value with a Sam’s Club membership for just $15](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Get unbeatable value with a Sam’s Club membership for just $15](https://www.bleepingcomputer.com/offer/deals/get-unbeatable-value-with-a-sams-club-membership-for-just-15/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -302,7 +302,7 @@ BleepingComputer.com has partnered with [StackCommerce](https://stackcommerce.co
 
 If you have any questions or concerns regarding these policies, please free to contact us here: [https://www.bleepingcomputer.com/contact/](https://www.bleepingcomputer.com/contact/)
 
-[![Mandiant mWise Conference 2024](https://www.bleepstatic.com/c/m/mandiant/registration-general_mwise-anywhere.jpg)](https://www.bleepingcomputer.com/mgo/62/)
+[![Mandiant mWise Conference 2024](https://www.bleepstatic.com/c/m/mandiant/registration-general_last-chance-cant-miss.jpg)](https://www.bleepingcomputer.com/mgo/60/)
 
 Popular Stories
 
@@ -315,6 +315,9 @@ Popular Stories
 * [![D-Link](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     D-Link fixes critical RCE, hardcoded password flaws in WiFi 6 routers](https://www.bleepingcomputer.com/news/security/d-link-fixes-critical-rce-hardcoded-password-flaws-in-wifi-6-routers/)
+* [![Google Chrome](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    Chrome switching to NIST-approved ML-KEM quantum encryption](https://www.bleepingcomputer.com/news/security/chrome-switching-to-nist-approved-ml-kem-quantum-encryption/)
 
 Latest Downloads
 
@@ -340,7 +343,7 @@ Latest Downloads
     
     Version: 1.33.075
     
-    **55,392 _Downloads_**
+    **55,395 _Downloads_**
     
 * ![PuTTY Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -348,7 +351,7 @@ Latest Downloads
     
     Version: 0.81
     
-    **43,315 _Downloads_**
+    **43,325 _Downloads_**
     
 * ![BitDefender Uninstall Tool Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -356,7 +359,7 @@ Latest Downloads
     
     Version: NA
     
-    **104,253 _Downloads_**
+    **104,259 _Downloads_**
     
 
 ##### Follow us:
