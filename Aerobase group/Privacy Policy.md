@@ -200,25 +200,25 @@ This document was last updated on January 1, 2014
 
 #### Defense News
 
+* [Anduril unveils modular, high-production Barracuda cruise missiles](https://www.defensenews.com/air/2024/09/12/anduril-unveils-modular-high-production-barracuda-cruise-missiles/)  
+    09/16/24 08:00am  
+    
+    Anduril's Barracuda cruise missiles can be launched from a variety of aircraft, depending on their size. Here, a Barracuda-100 is loaded onto an AH-1Z Viper helicopter. (Anduril)
+    
+* [Air Force’s ChatGPT-like AI pilot draws 80K users in initial months](https://www.defensenews.com/air/2024/09/16/air-forces-chatgpt-like-ai-pilot-draws-80k-users-in-initial-months/)  
+    09/16/24 07:31am  
+    
+    The Air Force and Space Force are seeing high demand for an experimental generative AI tool, like the one illustrated here, called NIPR GPT. (Oliver Berg via Getty Images)
+    
+* [How the Air Force averted a major flaw in its drone wingmen approach](https://www.defensenews.com/digital-show-dailies/afa-air-space/2024/09/16/how-the-air-force-averted-a-major-flaw-in-its-drone-wingmen-approach/)  
+    09/16/24 06:01am  
+    
+    Operators from Air Combat Command helped the Air Force pinpoint range shortcomings in the planned collaborative combat aircraft program early in the acquisition process. (General Atomics)
+    
 * [US clears F-35 sale to Romania, bolstering NATO’s eastern flank](https://www.defensenews.com/breaking-news/2024/09/13/us-clears-f-35-sale-to-romania-bolstering-natos-eastern-flank/)  
     09/13/24 05:14pm  
     
     Romania would get its first F-35 Joint Strike Fighters as part of a deal approved by the U.S. State Department. (A1C Mason Hargrove/U.S. Air Force)
-    
-* [Massive Boeing machinist strike hits KC-46 tanker production](https://www.defensenews.com/air/2024/09/13/massive-boeing-machinist-strike-hits-kc-46-tanker-production/)  
-    09/13/24 02:32pm  
-    
-    Boeing workers in Washington state overwhelmingly voted to reject a contract and go on strike Thursday. Boeing's CFO said the strike will affect a facility working on the KC-46. (Jason Redmond/AFP via Getty Images)
-    
-* [Italian Air Force’s famed acrobatic squad changes course on new planes](https://www.defensenews.com/global/europe/2024/09/13/italian-air-forces-famed-acrobatic-squad-changes-course-on-new-planes/)  
-    09/13/24 05:07am  
-    
-    The Frecce Tricolori (Tricolor Arrows) perform during the opening ceremony of the 2023 Ryder Cup at Marco Simone Golf Club in Rome on Sept. 28, 2023. (Jamie Squire/Getty Images)
-    
-* [Small fleet, fewer flights weaken Army aircraft training, report says](https://www.defensenews.com/news/your-army/2024/09/09/report-shows-a-smaller-us-army-aircraft-fleet-with-fewer-flying-hours/)  
-    09/09/24 07:45am  
-    
-    US soldiers and members of the Indonesian military board a UH-60 Black Hawk. (Spc. William D. Kennedy III/Army)
     
 
 Recent parts by keyword  
