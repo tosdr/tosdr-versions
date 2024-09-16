@@ -138,6 +138,33 @@ Provider ID# 317924
 
 [### decisionsindentistry](https://www.instagram.com/decisionsindentistry/ "@decisionsindentistry")
 
+[Innovative sensor positioning solutions enhance de ![Innovative sensor positioning solutions enhance dental imaging comfort and accuracy. Read this clinical insights via the link in bio.⁠
+⁠
+@pac_dent⁠
+⁠
+⁠
+---⁠
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C_8LundNI1U/) 
+
+[A new study from Umeå University reveals that ind ![A new study from Umeå University reveals that individuals with periodontitis have distinct protein profiles in their blood, which could serve as biomarkers for the disease. These findings provide potential pathways for the development of personalized treatments and preventive methods for periodontitis. Link in bio.⁠
+⁠
+⁠
+---⁠
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C_5tzBkN3AR/) 
+
+[Janice Hurley has helped practices across the coun ![Janice Hurley has helped practices across the country increase their profit margins by decreasing their dependency on outside insurance plans. In this episode of The Art of Dental Finance and Management, Janice walks Art through the five things any dental practice must consider before dropping an insurance plan, as well as how to prevent losing patients during the transition.⁠
+⁠
+Listeners of the podcast are encouraged to email Janice at jhurley@janicehurley.com for a chance to win a free copy of her book, Dental Image Branding: How to Create Optimal Patient Impact.⁠
+⁠
+Link in bio.⁠
+⁠
+⁠
+---⁠
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C_3CKU1ME05/) 
+
 [Fake braces may look trendy, but they come with se ![Fake braces may look trendy, but they come with serious health risks. These nonmedical appliances can cause lasting damage to the dentition and gingiva while raising risk of infection. Link in bio.⁠
 ⁠
 ⁠
@@ -158,29 +185,6 @@ Provider ID# 317924
 ---⁠
 ⁠
 #dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C_DbW9esmah/) 
-
-[Preventive dental screenings, though often overloo ![Preventive dental screenings, though often overlooked, are becoming essential in sports, as demonstrated by the UT Health San Antonio School of Dentistry’s efforts with University of Texas, San Antonio football and the San Antonio Spurs. These screenings not only ensure athletes have custom-fitted mouthguards but also detect serious dental issues early, potentially preventing major health crises during the season. Link in bio.⁠
-⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C--Yp1pM2IY/) 
-
-[This study demonstrates that using a faster firing ![This study demonstrates that using a faster firing cycle may result in color variation when producing same-day computer-aided design and computer-aided manufacturing restorations. ⁠
-⁠
-By William Elza, DMD, Bradley S. Roberts, DDS, Eugenia P. Roberts, DDS, Jason Eaton, DDS, John Mitchell, PhD, Gina Marie Agostini-Walesch, PhD and Charlotte Bolch, PhD⁠
-⁠
-Link in bio.⁠
-⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C-76vH-t4V9/) 
-
-[Check out some new products from DASH! Gloves t ![Check out some new products from DASH! 
-Gloves that glide on damp hands easily & don’t forget the gloves with Aloe.
-Request your FREE SAMPLE of Black Maxx® Thin Nitrile and Alasta® with Aloe Nitrile Exam Gloves by clicking the link in bio or the link in our stories!
-#blackmaxx #alasta #dashmedical #dental #dentist #dentistry #dentistrylife @dashmedicalgloves](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C-5kyOqPozS/) 
 
 [Load More](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/decisionsindentistry/)
 
