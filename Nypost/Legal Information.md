@@ -76,9 +76,9 @@ Search
 
 Search
 
-#### Breaking News
+#### Exclusive
 
-[Suspect in Trump assassination attempt hit with federal gun charges as he appears in court for first time](https://nypost.com/2024/09/16/us-news/suspect-in-trump-assassination-attempt-appears-in-federal-court-in-shackles/)
+[Would-be Trump assassin exploited security hole that Secret Service has known about for years — and the pictures prove it](https://nypost.com/2024/09/16/us-news/trump-gunman-exploited-security-hole-that-secret-service-has-known-for-years/)
 
 Privacy Notice Highlights
 =========================
