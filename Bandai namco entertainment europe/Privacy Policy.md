@@ -23,8 +23,8 @@ Popular Games
 
 Latest game news
 
-* [GT Characters added to roster of the upcoming DRAGON BALL: Sparking! ZERO !](https://en.bandainamcoent.eu/dragon-ball/news/gt-characters-added-roster-of-the-upcoming-dragon-ball-sparking-zero)
-* [ELDEN RING Shadow of the Erdtree - Stats from the Shadows (Infographic)](https://en.bandainamcoent.eu/elden-ring/news/elden-ring-shadow-of-the-erdtree-stats-the-shadows-infographic)
+* [Embrace the Fear Together in Little Nightmares 3 – Interview with Producer Coralie Feniello](https://en.bandainamcoent.eu/little-nightmares/news/embrace-the-fear-together-little-nightmares-3-interview-producer-coralie)
+* [Explore the Larger Universe of Unknown 9: Awakening](https://en.bandainamcoent.eu/unknown-9/news/explore-the-larger-universe-of-unknown-9-awakening)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
