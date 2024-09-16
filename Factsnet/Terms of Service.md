@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![40 Facts About Panayiotopoulos Syndrome ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2279%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/lifestyle/health/40-facts-about-panayiotopoulos-syndrome/)
+[![50 Facts About Edna Cintron ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/people/50-facts-about-edna-cintron/)
 
-Health
+People
 
-11 Sep 2024
+14 Sep 2024
 
-[40 Facts About Panayiotopoulos Syndrome](https://facts.net/lifestyle/health/40-facts-about-panayiotopoulos-syndrome/)
+[50 Facts About Edna Cintron](https://facts.net/history/people/50-facts-about-edna-cintron/)
 
-[![45 Facts About Ancient Mesopotamian Astronomy ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2285%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/45-facts-about-ancient-mesopotamian-astronomy/)
+[![50 Facts About La Nina ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/earth-and-life-science/earth-sciences/50-facts-about-la-nina/)
 
-History
+Earth Sciences
 
-11 Sep 2024
+14 Sep 2024
 
-[45 Facts About Ancient Mesopotamian Astronomy](https://facts.net/history/45-facts-about-ancient-mesopotamian-astronomy/)
+[50 Facts About La Nina](https://facts.net/earth-and-life-science/earth-sciences/50-facts-about-la-nina/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
