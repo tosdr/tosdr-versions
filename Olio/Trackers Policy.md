@@ -13,7 +13,7 @@ English
 
 New
 
-Save money and time this back to school season, and be in with a chance of winning our prize draw! Find out more [**here**](https://olioapp.com/en/olio-updates/olios-big-back-to-school-share/).
+Over 4 million portions of free food are shared on Olio every month – [download Olio](https://olioapp.com/en/download-olio/) and pick up your free dinner today!
 
 [Olio | At Home](https://olioapp.com/en/)
 
