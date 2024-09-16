@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-8e541bd8d60df54caa7c3e311a9afae8
+216a9aa5947b9da4600db2b58797e310
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Jet Swarovski rivoli clasp](https://www.sojourner.biz/images/cache/SKU0348variations.200.jpg)](https://www.sojourner.biz/clasps/swarovski/jet-swarovski-rivoli-clasp.html "Jet Swarovski rivoli clasp")
+[![EB15 bead](https://www.sojourner.biz/images/cache/EB15l.200.jpg)](https://www.sojourner.biz/beads/metal/eb15-bead.html "EB15 bead")
 
-#### [Jet Swarovski rivoli clasp](https://www.sojourner.biz/clasps/swarovski/jet-swarovski-rivoli-clasp.html "Jet Swarovski rivoli clasp")
+#### [EB15 bead](https://www.sojourner.biz/beads/metal/eb15-bead.html "EB15 bead")
 
-$20.00
+$5.70
 
 ### Best Sellers
 
@@ -187,10 +187,10 @@ $20.00
     $16.00
 4. [Swarovski crystal AB clasp](https://www.sojourner.biz/clasps/swarovski/swarovski-crystal-ab-clasp.html "Swarovski crystal AB clasp")  
     $28.00
-5. [White pearl toggle clasp](https://www.sojourner.biz/clasps/toggles/white-pearl-toggle-clasp.html "White pearl toggle clasp")  
-    $28.00
-6. [Square pearl clasp](https://www.sojourner.biz/clasps/pearl/square-pearl-clasp.html "Square pearl clasp")  
+5. [Square pearl clasp](https://www.sojourner.biz/clasps/pearl/square-pearl-clasp.html "Square pearl clasp")  
     $16.00
+6. [White pearl toggle clasp](https://www.sojourner.biz/clasps/toggles/white-pearl-toggle-clasp.html "White pearl toggle clasp")  
+    $28.00
 7. [Neon blue Swarovski polka dot clasp](https://www.sojourner.biz/clasps/swarovski/neon-blue-swarovski-polka-dot-clasp.html "Neon blue Swarovski polka dot clasp")  
     $15.00
 8. [Red bar clasp](https://www.sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
