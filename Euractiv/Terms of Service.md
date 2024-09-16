@@ -215,9 +215,9 @@ Toggle navigation
     
     ##### Promoted Content
     
+    * [Time for the flat glass industry’s decarbonization efforts to pay off](https://www.euractiv.com/section/energy-environment/opinion/time-for-the-flat-glass-industrys-decarbonization-efforts-to-pay-off/)
     * [A Letter for the Future of Packaging](https://www.euractiv.com/section/energy-environment/opinion/a-letter-for-the-future-of-packaging/)
     * [Inspiring Energy Solutions Powering our Cities, Homes and Businesses](https://www.euractiv.com/section/energy-environment/video/inspiring-energy-solutions-powering-our-cities-homes-and-businesses/)
-    * [Map the Green Deal’s drivers: Distribution grids across the EU](https://www.euractiv.com/section/energy-environment/opinion/map-the-green-deals-drivers-distribution-grids-across-the-eu/)
     
 * [Global Europe](https://www.euractiv.com/sections/global-europe/)
     
@@ -987,7 +987,7 @@ Languages: [Français](https://www.euractiv.fr/?post_type=page&p=179361) | [Deut
 * 1[China's green 'trojan horses' are starting to divide Europe](http://en.euractiv.eu/section/energy-environment/opinion/chinas-green-trojan-horses-are-starting-to-divide-europe/?utm_source=website&utm_campaign=popular)
 * 2[Poland backs ending EU benefits for Ukrainian men of fighting age](http://en.euractiv.eu/section/europe-s-east/news/poland-backs-ending-eu-benefits-for-ukrainian-men-of-fighting-age/?utm_source=website&utm_campaign=popular)
 * 3[Brazil asks EU to hold off on implementing deforestation law](http://en.euractiv.eu/section/agriculture-food/news/brazil-asks-eu-to-hold-off-on-implementing-deforestation-law/?utm_source=website&utm_campaign=popular)
-* 4[Bird research in Malta has reached the EU courts](http://en.euractiv.eu/section/energy-environment/opinion/bird-research-in-malta-has-reached-the-eu-courts/?utm_source=website&utm_campaign=popular)
+* 4[French Commissioner Thierry Breton resigns over row with Von der Leyen](http://en.euractiv.eu/section/defence-and-security/news/french-commissioner-thierry-breton-resigns-over-row-with-von-der-leyen/?utm_source=website&utm_campaign=popular)
 * 5[EU court says Hungary broke competition rules by fixing food prices](http://en.euractiv.eu/section/agriculture-food/news/eu-court-says-hungary-broke-competition-rules-by-fixing-food-prices/?utm_source=website&utm_campaign=popular)
 * 6[Austria’s biggest utility company to ditch Russian gas from 2025](http://en.euractiv.eu/section/energy-environment/news/austrias-biggest-utility-company-to-ditch-russian-gas-from-2025/?utm_source=website&utm_campaign=popular)
 * 7['Reward those who serve our planet': Von der Leyen floats 'nature credits'](http://en.euractiv.eu/section/biodiversity/news/reward-those-who-serve-our-planet-von-der-leyen-floats-nature-credits/?utm_source=website&utm_campaign=popular)
