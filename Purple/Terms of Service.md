@@ -450,7 +450,7 @@ Footer menu
     * [Careers](https://purple.com/careers)
     * [Investors](https://investors.purple.com/overview/default.aspx)
     * [Mattress Reviews](https://purple.com/reviews)
-    * [Purple Reviews](https://www.bbb.org/us/ut/alpine/profile/mattress/purple-1166-90015217/#sealclick)
+    * [BBB® Reviews](https://www.bbb.org/us/ut/alpine/profile/mattress/purple-1166-90015217/#sealclick)
     * [Mattress Types](https://purple.com/blog/types-of-mattresses)
     * [Patents](https://purple.com/patents)
     * [Videos](https://purple.com/videos)
