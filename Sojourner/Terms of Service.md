@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-5f26257bdaa5057986aefc2c1531174f
+5c9bc06a154e86c09cc55615d3cbc88f
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![8 mm round vintage German glass beads](https://sojourner.biz/images/cache/glass/GL0152.200.jpg)](https://sojourner.biz/beads/glass/8-mm-round-vintage-german-glass-beads.html "8 mm round vintage German glass beads")
+[![26 mm by 7 mm vintage Czech glass teardrop beads](https://sojourner.biz/images/cache/glass/GL0168.200.jpg)](https://sojourner.biz/beads/glass/26-mm-by-7-mm-vintage-czech-glass-teardrop-beads.html "26 mm by 7 mm vintage Czech glass teardrop beads")
 
-#### [8 mm round vintage German glass beads](https://sojourner.biz/beads/glass/8-mm-round-vintage-german-glass-beads.html "8 mm round vintage German glass beads")
+#### [26 mm by 7 mm vintage Czech glass teardrop beads](https://sojourner.biz/beads/glass/26-mm-by-7-mm-vintage-czech-glass-teardrop-beads.html "26 mm by 7 mm vintage Czech glass teardrop beads")
 
-$7.00
+$9.00
 
 ### Best Sellers
 
@@ -164,12 +164,12 @@ $7.00
     $28.00
 7. [Neon blue Swarovski polka dot clasp](https://sojourner.biz/clasps/swarovski/neon-blue-swarovski-polka-dot-clasp.html "Neon blue Swarovski polka dot clasp")  
     $15.00
-8. [Red bar clasp](https://sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
-    $23.00
-9. [Mother-of-pearl box clasp](https://sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
+8. [Mother-of-pearl box clasp](https://sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
     $17.00
-10. [Citrine clasp](https://sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
+9. [Citrine clasp](https://sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
     $26.00
+10. [Red bar clasp](https://sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
+    $23.00
 
 [Top](#)
 
