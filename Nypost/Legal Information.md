@@ -78,7 +78,7 @@ Search
 
 #### Breaking News
 
-[Son of alleged would-be Trump assassin Ryan Routh claims father hates ex-prez but is 'not a violent person'](https://nypost.com/2024/09/15/us-news/son-of-alleged-would-be-trump-assassin-ryan-routh-claims-father-hates-ex-president-but-is-not-a-violent-person-i-dont-like-trump-either/)
+[Suspect in Trump assassination attempt hit with federal gun charges as he appears in court for first time](https://nypost.com/2024/09/16/us-news/suspect-in-trump-assassination-attempt-appears-in-federal-court-in-shackles/)
 
 Privacy Notice Highlights
 =========================
