@@ -2,7 +2,7 @@
 
 [New Zealand Parliament Pāremata Aotearoa](https://www.parliament.nz/en/)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/get-involved/features/new-zealand-s-first-constitution-act-passed-165-years-ago/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/submissions-and-advice/document/54SCEDUW_ADV_127187_EDUW217/deputy-clerk-of-committee-legislative-scrutiny-for-employment/)
 
 Search [Advanced Search](https://www.parliament.nz/en/search)
 
@@ -14,7 +14,7 @@ Search
 
 [Advanced Search](https://www.parliament.nz/en/search)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/get-involved/features/new-zealand-s-first-constitution-act-passed-165-years-ago/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/submissions-and-advice/document/54SCEDUW_ADV_127187_EDUW217/deputy-clerk-of-committee-legislative-scrutiny-for-employment/)
 
 * [Home](https://www.parliament.nz/en/ "Home")
 * [Parliamentary Business](https://www.parliament.nz/en/pb/)
