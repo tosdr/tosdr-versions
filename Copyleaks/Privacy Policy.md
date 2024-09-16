@@ -1,11 +1,19 @@
 [Skip to content](#content)
 
-[![logo](https://copyleaks.com/wp-content/uploads/2023/01/logom.png)](https://copyleaks.com/)
+[![logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20128%20128'%3E%3C/svg%3E)
+
+![logo](https://copyleaks.com/wp-content/uploads/2023/01/logom.png)](https://copyleaks.com/)
 
 * [Login](https://app.copyleaks.com/dashboard/v1)
 * [Get a Demo](https://copyleaks.com/book-a-demo)
 
-![menu](https://copyleaks.com/wp-content/uploads/2024/05/ic-baseline-menu.svg)![close](https://copyleaks.com/wp-content/uploads/2024/05/ic-baseline-close.svg)
+![menu](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3E%3C/svg%3E)
+
+![menu](https://copyleaks.com/wp-content/uploads/2024/05/ic-baseline-menu.svg)
+
+![close](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3E%3C/svg%3E)
+
+![close](https://copyleaks.com/wp-content/uploads/2024/05/ic-baseline-close.svg)
 
 * [](https://copyleaks.com/)
 * Products
@@ -69,9 +77,61 @@
 * [Get a Demo](https://copyleaks.com/book-a-demo)
 * [Try it Now](https://app.copyleaks.com/dashboard/v1?isGuest=true)
 * [Login](https://app.copyleaks.com/dashboard/v1)
-*  [![en_US](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/en_US.png "English") English](# "English")
+* [![en_US](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "English")
     
-     [![en_US](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/en_US.png "English") English](# "English")[![ar](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/ar.png "Arabic") Arabic](https://copyleaks.com/ar/privacy-policy/ "Arabic")[![zh_CN](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/zh_CN.png "Chinese") Chinese](https://copyleaks.com/zh/privacy-policy/ "Chinese")[![fr_FR](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/fr_FR.png "French") French](https://copyleaks.com/fr/privacy-policy/ "French")[![de_DE](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/de_DE.png "German") German](https://copyleaks.com/de/privacy-policy/ "German")[![hi_IN](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/hi_IN.png "Hindi") Hindi](https://copyleaks.com/hi/privacy-policy/ "Hindi")[![it_IT](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/it_IT.png "Italian") Italian](https://copyleaks.com/it/privacy-policy/ "Italian")[![ja](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/ja.png "Japanese") Japanese](https://copyleaks.com/ja/privacy-policy/ "Japanese")[![ru_RU](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/ru_RU.png "Russian") Russian](https://copyleaks.com/ru/privacy-policy/ "Russian")[![es_ES](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/es_ES.png "Spanish") Spanish](https://copyleaks.com/es/privacy-policy/ "Spanish")[![tr_TR](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/tr_TR.png "Turkish") Turkish](https://copyleaks.com/tr/privacy-policy/ "Turkish")[![pt_PT](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/pt_PT.png "Portuguese") Portuguese](https://copyleaks.com/pt/privacy-policy/ "Portuguese")
+    ![en_US](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/en_US.png "English")
+    
+    English](# "English")
+    
+    [![en_US](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "English")
+    
+    ![en_US](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/en_US.png "English")
+    
+    English](# "English") [![ar](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "Arabic")
+    
+    ![ar](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/ar.png "Arabic")
+    
+    Arabic](https://copyleaks.com/ar/privacy-policy/ "Arabic") [![zh_CN](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "Chinese")
+    
+    ![zh_CN](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/zh_CN.png "Chinese")
+    
+    Chinese](https://copyleaks.com/zh/privacy-policy/ "Chinese") [![fr_FR](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "French")
+    
+    ![fr_FR](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/fr_FR.png "French")
+    
+    French](https://copyleaks.com/fr/privacy-policy/ "French") [![de_DE](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "German")
+    
+    ![de_DE](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/de_DE.png "German")
+    
+    German](https://copyleaks.com/de/privacy-policy/ "German") [![hi_IN](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "Hindi")
+    
+    ![hi_IN](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/hi_IN.png "Hindi")
+    
+    Hindi](https://copyleaks.com/hi/privacy-policy/ "Hindi") [![it_IT](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "Italian")
+    
+    ![it_IT](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/it_IT.png "Italian")
+    
+    Italian](https://copyleaks.com/it/privacy-policy/ "Italian") [![ja](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "Japanese")
+    
+    ![ja](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/ja.png "Japanese")
+    
+    Japanese](https://copyleaks.com/ja/privacy-policy/ "Japanese") [![ru_RU](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "Russian")
+    
+    ![ru_RU](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/ru_RU.png "Russian")
+    
+    Russian](https://copyleaks.com/ru/privacy-policy/ "Russian") [![es_ES](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "Spanish")
+    
+    ![es_ES](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/es_ES.png "Spanish")
+    
+    Spanish](https://copyleaks.com/es/privacy-policy/ "Spanish") [![tr_TR](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "Turkish")
+    
+    ![tr_TR](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/tr_TR.png "Turkish")
+    
+    Turkish](https://copyleaks.com/tr/privacy-policy/ "Turkish") [![pt_PT](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "Portuguese")
+    
+    ![pt_PT](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/pt_PT.png "Portuguese")
+    
+    Portuguese](https://copyleaks.com/pt/privacy-policy/ "Portuguese")
     
 
 [Home](https://staging.copyleaks.com/) 〉 **Privacy Policy**
@@ -164,11 +224,17 @@ Email: [\[email protected\]](https://copyleaks.com/cdn-cgi/l/email-protection)
 
 Table of Contents
 
+![logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E)
+
 ![logo](https://copyleaks.com/wp-content/uploads/2023/01/logo.svg)
 
-[![SOC II and SOC III compliant badge](https://copyleaks.com/wp-content/uploads/2023/04/SOC_Badge-300x300.webp)](https://copyleaks.com/compliance-certifications#soc2)
+[![SOC II and SOC III compliant badge](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E)
 
-[![](https://copyleaks.com/wp-content/uploads/2023/04/PCI-Logo.webp)](https://copyleaks.com/compliance-certifications#pci)
+![SOC II and SOC III compliant badge](https://copyleaks.com/wp-content/uploads/2023/04/SOC_Badge-300x300.webp)](https://copyleaks.com/compliance-certifications#soc2)
+
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20181%20181'%3E%3C/svg%3E)
+
+![](https://copyleaks.com/wp-content/uploads/2023/04/PCI-Logo.webp)](https://copyleaks.com/compliance-certifications#pci)
 
 700 Canal St.
 
@@ -248,6 +314,58 @@ Manage Cookies
 
 All rights reserved. Use of this website signifies your agreement to the [Terms of Use](https://copyleaks.com/legal/termsofuse).
 
- [![en_US](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/en_US.png "English") English](# "English")
+[![en_US](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "English")
 
- [![en_US](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/en_US.png "English") English](# "English")[![ar](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/ar.png "Arabic") Arabic](https://copyleaks.com/ar/privacy-policy/ "Arabic")[![zh_CN](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/zh_CN.png "Chinese") Chinese](https://copyleaks.com/zh/privacy-policy/ "Chinese")[![fr_FR](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/fr_FR.png "French") French](https://copyleaks.com/fr/privacy-policy/ "French")[![de_DE](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/de_DE.png "German") German](https://copyleaks.com/de/privacy-policy/ "German")[![hi_IN](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/hi_IN.png "Hindi") Hindi](https://copyleaks.com/hi/privacy-policy/ "Hindi")[![it_IT](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/it_IT.png "Italian") Italian](https://copyleaks.com/it/privacy-policy/ "Italian")[![ja](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/ja.png "Japanese") Japanese](https://copyleaks.com/ja/privacy-policy/ "Japanese")[![ru_RU](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/ru_RU.png "Russian") Russian](https://copyleaks.com/ru/privacy-policy/ "Russian")[![es_ES](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/es_ES.png "Spanish") Spanish](https://copyleaks.com/es/privacy-policy/ "Spanish")[![tr_TR](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/tr_TR.png "Turkish") Turkish](https://copyleaks.com/tr/privacy-policy/ "Turkish")[![pt_PT](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/pt_PT.png "Portuguese") Portuguese](https://copyleaks.com/pt/privacy-policy/ "Portuguese")
+![en_US](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/en_US.png "English")
+
+English](# "English")
+
+[![en_US](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "English")
+
+![en_US](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/en_US.png "English")
+
+English](# "English") [![ar](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "Arabic")
+
+![ar](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/ar.png "Arabic")
+
+Arabic](https://copyleaks.com/ar/privacy-policy/ "Arabic") [![zh_CN](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "Chinese")
+
+![zh_CN](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/zh_CN.png "Chinese")
+
+Chinese](https://copyleaks.com/zh/privacy-policy/ "Chinese") [![fr_FR](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "French")
+
+![fr_FR](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/fr_FR.png "French")
+
+French](https://copyleaks.com/fr/privacy-policy/ "French") [![de_DE](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "German")
+
+![de_DE](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/de_DE.png "German")
+
+German](https://copyleaks.com/de/privacy-policy/ "German") [![hi_IN](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "Hindi")
+
+![hi_IN](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/hi_IN.png "Hindi")
+
+Hindi](https://copyleaks.com/hi/privacy-policy/ "Hindi") [![it_IT](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "Italian")
+
+![it_IT](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/it_IT.png "Italian")
+
+Italian](https://copyleaks.com/it/privacy-policy/ "Italian") [![ja](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "Japanese")
+
+![ja](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/ja.png "Japanese")
+
+Japanese](https://copyleaks.com/ja/privacy-policy/ "Japanese") [![ru_RU](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "Russian")
+
+![ru_RU](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/ru_RU.png "Russian")
+
+Russian](https://copyleaks.com/ru/privacy-policy/ "Russian") [![es_ES](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "Spanish")
+
+![es_ES](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/es_ES.png "Spanish")
+
+Spanish](https://copyleaks.com/es/privacy-policy/ "Spanish") [![tr_TR](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "Turkish")
+
+![tr_TR](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/tr_TR.png "Turkish")
+
+Turkish](https://copyleaks.com/tr/privacy-policy/ "Turkish") [![pt_PT](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "Portuguese")
+
+![pt_PT](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/pt_PT.png "Portuguese")
+
+Portuguese](https://copyleaks.com/pt/privacy-policy/ "Portuguese")
