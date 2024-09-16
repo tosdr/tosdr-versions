@@ -150,6 +150,16 @@ For further information regarding the applicable laws, regulations, and policies
 
 #### Defense News
 
+* [Houthi rebels claim they shot down another US MQ-9 Reaper drone](https://www.defensenews.com/news/your-military/2024/09/16/houthi-rebels-claim-they-shot-down-another-us-mq-9-reaper-drone/)  
+    09/16/24 01:04pm  
+    
+    A Reaper drone flies during training in Nevada. Yemen's Houthi rebels claim they downed another Reaper drone. (Senior Airman Haley Stevens/U.S. Air Force)
+    
+* [New Zealand Air Force receives first Super Hercules cargo plane](https://www.defensenews.com/global/asia-pacific/2024/09/16/new-zealand-air-force-receives-first-super-hercules-cargo-plane/)  
+    09/16/24 12:31pm  
+    
+    The first C-130J-30 Super Hercules transport aircraft of the Royal New Zealand Air Force arrived Air Force Base Auckland, Whenuapai, on Sept. 4, 2024. (NZDF)
+    
 * [Personnel shortages may force US Air Force pilots to fly non-fighters](https://www.defensenews.com/smr/air-warfare/2024/09/16/personnel-shortages-may-force-us-air-force-pilots-to-fly-non-fighters/)  
     09/16/24 10:00am  
     
@@ -159,16 +169,6 @@ For further information regarding the applicable laws, regulations, and policies
     09/16/24 09:00am  
     
     The U.S. Air Force plans to bed down 25 F-35As in fiscal 2026, according to a DOD report outlining the number of fighters the service intends to field through FY29. (Staff Sgt. Andrew Lee/U.S. Air Force)
-    
-* [Anduril unveils modular, high-production Barracuda cruise missiles](https://www.defensenews.com/air/2024/09/12/anduril-unveils-modular-high-production-barracuda-cruise-missiles/)  
-    09/16/24 08:00am  
-    
-    Anduril's Barracuda cruise missiles can be launched from a variety of aircraft, depending on their size. Here, a Barracuda-100 is loaded onto an AH-1Z Viper helicopter. (Anduril)
-    
-* [Air Force’s ChatGPT-like AI pilot draws 80K users in initial months](https://www.defensenews.com/air/2024/09/16/air-forces-chatgpt-like-ai-pilot-draws-80k-users-in-initial-months/)  
-    09/16/24 07:31am  
-    
-    The Air Force and Space Force are seeing high demand for an experimental generative AI tool, like the one illustrated here, called NIPR GPT. (Oliver Berg via Getty Images)
     
 
 Recent parts by keyword  
