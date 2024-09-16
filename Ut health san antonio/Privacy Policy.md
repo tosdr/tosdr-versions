@@ -25,7 +25,7 @@ San Antonio, TX 78229
 * [Faculty directory](https://directory.uthscsa.edu/ "Faculty directory")
 * [Job openings](https://wp.uthscsa.edu/careers/ "Job openings")
 * [Newsroom](http://news.uthscsa.edu/ "Newsroom")
-* [Compliance Hotline](https://wp.uthscsa.edu/compliance/ "Compliance Hotline")
+* [Compliance Hotline](https://secure.ethicspoint.com/domain/media/en/gui/67623/index.html "Compliance Hotline")
 
 * [](https://www.facebook.com/UTHealthSA "Facebook link")
 * [](https://www.instagram.com/uthealthsa/ "Instagram link")
@@ -48,6 +48,8 @@ San Antonio, TX 78229
 * [Veterans Portal](https://veterans.portal.texas.gov/ "Veterans Portal")
 * [Web Accessibility](https://uthscsa.edu/university/web-accessibility "Web Accessibility")
 * [Web Privacy](https://uthscsa.edu/university/web-privacy "Web Privacy")
+* [Notice of Privacy Practices](https://wp.uthscsa.edu/compliance/wp-content/uploads/sites/174/2024/02/Notice_of_Privacy_Practices-UTHSA_ENGLISH.pdf "Notice of Privacy Practices")
+* [Policies](https://wp.uthscsa.edu/pao/hop/ "Policies")
 
 © Copyright 2014 - 2024 UT Health San Antonio
 
