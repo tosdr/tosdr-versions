@@ -19,8 +19,7 @@ Close
 * [Irish News](https://www.thejournal.ie/irish/)
 * [FactCheck](https://www.thejournal.ie/factcheck/news/)
 * [Voices](https://www.thejournal.ie/voices/)
-* [Climate](https://www.thejournal.ie/climate-change/news/)
-* [Housing](https://www.thejournal.ie/housing/news/)
+* [Investigates](https://www.thejournal.ie/investigates/)
 * [J-TV](https://www.thejournal.ie/tv/)
 
 [Support Us](https://www.thejournal.ie/contribute?utm_source=thejournal&utm_medium=masthead)
@@ -31,7 +30,7 @@ Close
 
 sections
 
-[Voices](https://www.thejournal.ie/voices/) [FactCheck](https://www.thejournal.ie/factcheck/news/) [Noteworthy](https://www.thejournal.ie/noteworthy/news/) [Quizzes](https://www.thejournal.ie/quiz/news/) [Money Diaries](https://www.thejournal.ie/money-diaries/news/) [Explainers](https://www.thejournal.ie/explainer/news/) [Daft.ie Property Magazine](https://www.thejournal.ie/magazine/property/) [The Journal TV](https://www.thejournal.ie/tv/)
+[Voices](https://www.thejournal.ie/voices/) [FactCheck](https://www.thejournal.ie/factcheck/news/) [Investigates](https://www.thejournal.ie/investigates/) [Quizzes](https://www.thejournal.ie/quiz/news/) [Money Diaries](https://www.thejournal.ie/money-diaries/news/) [Explainers](https://www.thejournal.ie/explainer/news/) [Daft.ie Property Magazine](https://www.thejournal.ie/magazine/property/) [The Journal TV](https://www.thejournal.ie/tv/)
 
 topics
 
@@ -288,7 +287,7 @@ Sections
 
 * [Voices](https://www.thejournal.ie/voices/)
 * [FactCheck](https://www.thejournal.ie/factcheck/news/)
-* [Noteworthy](https://www.thejournal.ie/noteworthy/news)
+* [Investigates](https://www.thejournal.ie/investigates/)
 * [Daft.ie Property Magazine](https://www.thejournal.ie/magazine/property/)
 * [Money Diaries](https://www.thejournal.ie/money-diaries/news/)
 * [The Journal TV](https://www.thejournal.ie/tv/)
