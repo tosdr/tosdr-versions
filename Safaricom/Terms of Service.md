@@ -222,6 +222,104 @@ out of 5 based on
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
+> Sep 15, 2024
+
+> Very responsive
+
+> Very responsive, I sent an email and got a response almost immediately (I checked it’s like 11pm their time…on a Sunday)
+
+customer
+
+,
+
+US
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Sep 15, 2024
+
+> Shann was amazingly helpful
+
+> Shann was amazingly helpful! After spending several days online on our own trying to find good accommodation or even available rooms and lodges, we reached out to safari and to shann, who set us up in record time with a beautiful destination, flights and transfers. I absolutely recommend this dite and the incredible service
+
+Anna
+
+,
+
+DE
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Sep 15, 2024
+
+> Safari booking
+
+> Fadiel was very prompt in responding to my emails. Despite a double booking for our Safari - not his fault - everything worked out well in the end.
+
+PeterB
+
+,
+
+GB
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Sep 14, 2024
+
+> Sara Van Coillie
+
+> Sara Van Coillie, representing Safari.com, has gone above and beyond in assisting with a custom booking for an African safari experience I wanted arranged for my colleagues visiting Namibia for the first time. I highly recommend reaching out to her—she’s a true champion! It’s been a pleasure working with her.
+
+Christina Hutchinson
+
+,
+
+GB
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Sep 14, 2024
+
+> Had such an amazing experience working…
+
+> Had such an amazing experience working with Leigh-Ann. She was able to get me everything I wanted at the price I wanted. Could not recommend more.
+
+Ben
+
+,
+
+US
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Sep 13, 2024
+
+> Sara curated a trip of a lifetime
+
+> Sara curated a trip of a lifetime. Met all our requirements and exceeded our expectations all within our budget!
+
+Jodi Wernikoff
+
+,
+
+US
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Sep 13, 2024
+
+> South Africa Here We Come!!!
+
+> We had the inclination to take Rovos Rail through part of South Africa and found Safari.com online. Nicole Van der Merwe, the friendly agent who connected with us was amazing! We connected on WhatsApp and were handled with absolute care. Nicole answered our questions in detail and within one day, were were booked on the train in the Royal Suite! We look forward to completing the additional details of our fabulous train/safari trip with her! As we have never been to SA, Nicole and Safari.com took away ALL of the concerns we had about making our trip a reality. to tell you the truth, it has been a long time since we have been treated this way by such a wonderful travel firm. Safari.com makes makes traveling to SA simple! We look forward to having them assist us with the additional details.
+
+Michael J. Russ
+
+,
+
+US
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
 > Sep 13, 2024
 
 > Jayson is polite and knowledgeable…Highly recommend
@@ -243,104 +341,6 @@ AU
 > making it very difficult to get included transfer from Ulusaba lodge to Skukuza airport. the Lodge includes this Transfer, but Jayson said I have to contact the Lodge directly to set it up. He will not set it up for me.
 
 maeve
-
-,
-
-US
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Sep 12, 2024
-
-> Jayson was very professional helpful…
-
-> Jayson was very professional helpful and patient with me. I would recommend him Anytime. Too bad the Ngorongoro crater lodge will be closed during our visit
-
-F M
-
-,
-
-US
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Sep 11, 2024
-
-> SANPARKS booking.
-
-> Very prompt and efficient response and service.
-
-Trevor Thompson
-
-,
-
-ZA
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Sep 11, 2024
-
-> Fadiel did a great job
-
-> Fadiel did a great job helping us plan and customize our trip. His follow up was timely and consistent.
-
-William Hill Jr
-
-,
-
-US
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Sep 10, 2024
-
-> Quick reactions to requests
-
-> Quick reactions to requests. Very efficient.
-
-Wim
-
-,
-
-NL
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Sep 9, 2024
-
-> First Time Safari
-
-> Mel provided an amazing itinerary and took our feedback and adjusted accordingly. She was very helpful and would strongly recommend her to anyone new to the process.
-
-Jessica
-
-,
-
-US
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Sep 9, 2024
-
-> It was a great experience dealing with…
-
-> It was a great experience dealing with Shann. She was most accommodating and patient. We managed to sort things out very eventually. The only sore point I have is the 2 % surcharge for the card handling fee, which I find too excessive. Otherwise, I am pleased with everything.
-
-Richard
-
-,
-
-AU
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Sep 8, 2024
-
-> Keith went above and beyond…
-
-> Keith went above and beyond expectations arranging our holiday safari travels (for one vegan and one mobility-impaired traveller, no less:-). Safari.com is lucky to have Keith on board. He helped us feel confident in our choices, keeping us up to date with options, and finessing holiday scheduling issues with aplomb.
-
-L.M. Archer
 
 ,
 
