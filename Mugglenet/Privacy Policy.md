@@ -244,37 +244,27 @@ MuggleNet Archive Select Month September 2024  (13) August 2024  (30) July 202
 
 ### September 2024
 
-#### Fri, Sep 13
-
-Stan Shunpike is arrested for suspected Death Eater activity
-
-Recurs yearly
-
-1996
-
-The trio meets Fluffy for the first time
-
-Recurs yearly
-
-#### Sat, Sep 14
-
-First Slug Club dinner
-
-Recurs yearly
-
-1996
-
-Ron tries out for Keeper, and Hermione Confunds Cormac at tryouts
-
-Recurs yearly
-
-1996
-
 #### Thu, Sep 19
 
 Hermione Granger's birthday
 
 Recurs yearly
+
+#### Fri, Sep 20
+
+Harry receives his Nimbus 2000
+
+Recurs yearly
+
+1991
+
+#### Sun, Sep 22
+
+Tom Felton's birthday
+
+Recurs yearly
+
+Draco Malfoy
 
 MuggleNet podcasts are sponsored in part by [Secretlab](https://secretlab.co/harrypotter?rfsn=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc).
 
@@ -286,15 +276,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The Harry Potter books were the first children’s books included on the New York Times Best Seller list since E.B. White’s Charlotte’s Web in 1952.
+There are 1,100,086 words in the entire “Harry Potter” series.
 
 ### Potter History
 
-June 18, 2010 – The Wizarding World of Harry Potter opens at Universal Orlando Resort.
+September 22, 2008 – Scholastic announces that Harry Potter and the Deathly Hallows will be released in paperback on July 7, 2009.
 
 ### Potter Quote
 
-“You’re dead, Potter.”
+“And Potter — do try and win, won’t you? Or we’ll be out of the running for the eighth year in a row, as Professor Snape was kind enough to remind me only last night. . . .”
 
 [](#)
 
