@@ -57,10 +57,10 @@ The place for ready-to-use ESL lesson plans for teaching online and offline.
 
 ### New Lessons
 
+* [Ethical dilemmas in science](https://eslbrains.com/ethical-dilemmas-in-science/ "Ethical dilemmas in science")
+* [How about a tattoo?](https://eslbrains.com/how-about-a-tattoo/ "How about a tattoo?")
+* [In a league of your own](https://eslbrains.com/in-a-league-of-your-own/ "In a league of your own")
 * [At your own risk](https://eslbrains.com/at-your-own-risk/ "At your own risk")
-* [Introducing: Lesson Flows!](https://eslbrains.com/introducing-lesson-flows/ "Introducing: Lesson Flows!")
-* [Research and Development](https://eslbrains.com/research-and-development/ "Research and Development")
-* [Month in a Nutshell: August 2024](https://eslbrains.com/month-in-a-nutshell-august-2024/ "Month in a Nutshell: August 2024")
 
 © ESL Brains 2023
 
