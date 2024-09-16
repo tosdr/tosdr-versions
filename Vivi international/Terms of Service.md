@@ -82,10 +82,18 @@ For monthly classroom technology resources.
 
 ##### Follow us
 
-* [![Follow us on facebook](/wp-content/uploads/2024/07/facebook.svg)](https://www.facebook.com/vivieducation)
-* [![Follow us on X](/wp-content/uploads/2024/07/x-twitter.svg)](http://www.twitter.com/vivieducation)
-* [![Follow us on linkedin](/wp-content/uploads/2024/07/linkedin.svg)](https://www.linkedin.com/company/vivieducation/)
-* [![Subscribe us on YouTube](/wp-content/uploads/2024/07/youtube.svg)](https://www.youtube.com/channel/UCQbZJeWGyP4LeSmy0elootg)
+* [![Follow us on facebook](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![Follow us on facebook](/wp-content/uploads/2024/07/facebook.svg)](https://www.facebook.com/vivieducation)
+* [![Follow us on X](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![Follow us on X](/wp-content/uploads/2024/07/x-twitter.svg)](http://www.twitter.com/vivieducation)
+* [![Follow us on linkedin](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![Follow us on linkedin](/wp-content/uploads/2024/07/linkedin.svg)](https://www.linkedin.com/company/vivieducation/)
+* [![Subscribe us on YouTube](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![Subscribe us on YouTube](/wp-content/uploads/2024/07/youtube.svg)](https://www.youtube.com/channel/UCQbZJeWGyP4LeSmy0elootg)
 
 © 2024 Vivi International Pty Ltd
 
