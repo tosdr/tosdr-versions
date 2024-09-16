@@ -1,5 +1,5 @@
   
-Shipping – G FUEL                                                                                                                         
+Shipping – G FUEL                                                                                                                      
 
 [Skip to content](#MainContent) 
 
@@ -200,7 +200,7 @@ View more
 * [Rewards](https://gfuel.com/pages/rewards)
 * [Flavor Quiz](https://gfuel.com/pages/flavor-quiz)
 
- [![Account Icon](//gfuel.com/cdn/shop/t/558/assets/fearfest-account-icon.png?v=76113951967063794631726230483) Log in](https://gfuel.com/account)[![Search Icon](//gfuel.com/cdn/shop/t/558/assets/fearfest-search-icon.png?v=128343480261873985371726230498) Search](https://gfuel.com/search) Site navigation [![Cart Icon](//gfuel.com/cdn/shop/t/558/assets/fearfest-cart-icon.png?v=118199243717223592911726230491) Cart](https://gfuel.com/cart)
+ [![Account Icon](//gfuel.com/cdn/shop/t/559/assets/fearfest-account-icon.png?v=76113951967063794631726241544) Log in](https://gfuel.com/account)[![Search Icon](//gfuel.com/cdn/shop/t/559/assets/fearfest-search-icon.png?v=128343480261873985371726241544) Search](https://gfuel.com/search) Site navigation [![Cart Icon](//gfuel.com/cdn/shop/t/559/assets/fearfest-cart-icon.png?v=118199243717223592911726241544) Cart](https://gfuel.com/cart)
 
   Search 
 
@@ -210,7 +210,7 @@ View more
 
 Pause slideshow Play slideshow
 
-[countdown to Halloween 🔪 d h m s](https://gfuel.com/collections/fear-fest)
+[Fuel Up and Get 50% off! Use Code: levelup50 d h m s](https://gfuel.com/collections/video-game)
 
 ![](https://cdn.shopify.com/s/files/1/0223/3113/files/check-cart.svg?v=1689600224) ITEM ADDED TO YOUR CART! [View Cart](https://gfuel.com/cart)
 
@@ -550,7 +550,7 @@ DOWNLOAD THE APP
 
 EASY NAVIGATION - EXCLUSIVE DROPS - COOL ASF
 
- [![](//gfuel.com/cdn/shop/t/558/assets/app-store-badge.svg?v=123926581890561309811726230352)](https://apps.apple.com/app/g-fuel/id1205219305 "Download on the App Store")[![](//gfuel.com/cdn/shop/t/558/assets/google-play-badge.png?v=132395384020293405351726230352)](https://play.google.com/store/apps/details?id=com.aeron.shopifycore.gfuel "Get it on Google Play")
+ [![](//gfuel.com/cdn/shop/t/559/assets/app-store-badge.svg?v=123926581890561309811726241544)](https://apps.apple.com/app/g-fuel/id1205219305 "Download on the App Store")[![](//gfuel.com/cdn/shop/t/559/assets/google-play-badge.png?v=132395384020293405351726241544)](https://play.google.com/store/apps/details?id=com.aeron.shopifycore.gfuel "Get it on Google Play")
 
 The statements contained in this website have not been evaluated by the Food and Drug Administration (FDA). No statements shall be construed as a claim or representation of a diagnosis, treatment, cure, or prevention of any disease. No product listed in this website is intended to diagnose, treat, cure, or prevent any disease. Products are not intended for those with a medical condition, pregnant or nursing.
 
@@ -570,19 +570,19 @@ The statements contained in this website have not been evaluated by the Food and
 
 Rated 4.7 out of 5 stars
 
-2,871 Reviews
+2,874 Reviews
 
-4.4
+4.3
 
-Rated 4.4 out of 5 stars
+Rated 4.3 out of 5 stars
 
-34 Reviews
+35 Reviews
 
 4.7
 
 Rated 4.7 out of 5 stars
 
-107 Reviews
+109 Reviews
 
 4.5
 
@@ -602,17 +602,17 @@ Rated 4.7 out of 5 stars
 
 2,051 Reviews
 
+4.5
+
+Rated 4.5 out of 5 stars
+
+37 Reviews
+
 4.4
 
 Rated 4.4 out of 5 stars
 
-34 Reviews
-
-4.4
-
-Rated 4.4 out of 5 stars
-
-1,748 Reviews
+1,754 Reviews
 
 4.7
 
