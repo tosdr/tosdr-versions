@@ -1,4 +1,4 @@
-[![CWB Chicago](https://cwbchicago.com/wp-content/uploads/2023/04/small-header-logo.jpg)](https://cwbchicago.com/)
+[![CWB Chicago](https://cwbchicago.com/wp-content/uploads/2024/09/cropped-header-2024-copy-scaled-1.jpg)](https://cwbchicago.com/)
 
 * [Contact Us/About Us](https://cwbchicago.com/contact-us)
 * [Courtroom Transparency Fund](https://cwbchicago.com/courtroom-transparency-fund)
@@ -242,35 +242,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/semi-greenleaf-326x245.jpg)](https://cwbchicago.com/2024/09/gun-fires-after-11-year-old-finds-it-lying-on-a-north-side-lawn.html "Gun fires after 11-year-old finds it lying on a North Side lawn")
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/Torrence-Franklin-Andre-Prescott-and-Terrell-Herron-326x245.jpg)](https://cwbchicago.com/2024/09/3-charged-with-armed-robbery-after-victim-takes-picture-of-their-license-plate-and-police-chopper-tracks-it-down.html "3 charged with armed robbery after victim takes picture of their license plate and police chopper tracks it down")
 
-West Ridge
+Lincoln Park
 
-### [Gun fires after 11-year-old finds it lying on a North Side lawn](https://cwbchicago.com/2024/09/gun-fires-after-11-year-old-finds-it-lying-on-a-north-side-lawn.html "Gun fires after 11-year-old finds it lying on a North Side lawn")
+### [3 charged with armed robbery after victim takes picture of their license plate and police chopper tracks it down](https://cwbchicago.com/2024/09/3-charged-with-armed-robbery-after-victim-takes-picture-of-their-license-plate-and-police-chopper-tracks-it-down.html "3 charged with armed robbery after victim takes picture of their license plate and police chopper tracks it down")
 
-[September 11, 2024 10:56 AM](https://cwbchicago.com/2024/09)
+[September 13, 2024 12:47 PM](https://cwbchicago.com/2024/09)
 
-A tragedy was narrowly averted when an 11-year-old boy found a loaded firearm lying in the front yard of a West Rogers Park residence and it fired when he picked it up.[](https://cwbchicago.com/2024/09/gun-fires-after-11-year-old-finds-it-lying-on-a-north-side-lawn.html "Gun fires after 11-year-old finds it lying on a North Side lawn")
+Three men face felony charges after they allegedly robbed a woman at gunpoint at a busy Lincoln Park shopping plaza.[](https://cwbchicago.com/2024/09/3-charged-with-armed-robbery-after-victim-takes-picture-of-their-license-plate-and-police-chopper-tracks-it-down.html "3 charged with armed robbery after victim takes picture of their license plate and police chopper tracks it down")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/Lamont-Smith-326x245.jpg)](https://cwbchicago.com/2024/09/man-convicted-of-attempted-murder-in-1989-gets-another-20-years-for-murdering-woman-found-dead-near-goose-island-in-2017.html "Man convicted of attempted murder in 1989 gets another 20 years for murdering woman found dead near Goose Island in 2017")
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/14th-district-award-326x245.jpg)](https://cwbchicago.com/2024/09/cops-honored-for-their-response-to-violent-armed-robbery-in-logan-square.html "Cops honored for their response to violent armed robbery in Logan Square")
 
-Citywide
+Logan Square
 
-### [Man convicted of attempted murder in 1989 gets another 20 years for murdering woman found dead near Goose Island in 2017](https://cwbchicago.com/2024/09/man-convicted-of-attempted-murder-in-1989-gets-another-20-years-for-murdering-woman-found-dead-near-goose-island-in-2017.html "Man convicted of attempted murder in 1989 gets another 20 years for murdering woman found dead near Goose Island in 2017")
+### [Cops honored for their response to violent armed robbery in Logan Square](https://cwbchicago.com/2024/09/cops-honored-for-their-response-to-violent-armed-robbery-in-logan-square.html "Cops honored for their response to violent armed robbery in Logan Square")
 
-[September 10, 2024 3:35 PM](https://cwbchicago.com/2024/09)
+[September 13, 2024 11:07 AM](https://cwbchicago.com/2024/09)
 
-A man who once went to prison for attempted murder is going back to prison again after he pleaded guilty on Tuesday to murdering a woman who was found dead near Goose Island in 2017.[](https://cwbchicago.com/2024/09/man-convicted-of-attempted-murder-in-1989-gets-another-20-years-for-murdering-woman-found-dead-near-goose-island-in-2017.html "Man convicted of attempted murder in 1989 gets another 20 years for murdering woman found dead near Goose Island in 2017")
+A group of Chicago cops who tracked down and arrested two robbers who fired shots while mugging a woman in Logan Square this spring are being honored for their efforts.[](https://cwbchicago.com/2024/09/cops-honored-for-their-response-to-violent-armed-robbery-in-logan-square.html "Cops honored for their response to violent armed robbery in Logan Square")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/Chicago-police-lined-up-DNC-protest-michigan-wacker-august-2024-326x245.jpg)](https://cwbchicago.com/2024/09/complaints-anti-police-bias-grow-at-copa-the-agency-charged-with-investigating-wrongdoing-by-chicago-cops.html "Complaints anti-police bias grow at COPA, the agency charged with investigating wrongdoing by Chicago cops")
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/Michael-Perkins-326x245.jpg)](https://cwbchicago.com/2024/09/sex-offender-kidnapped-nurse-from-hospital-parking-lot-forced-her-to-withdraw-cash-from-atm-prosecutors.html "Sex offender kidnapped nurse from hospital parking lot, forced her to withdraw cash from ATM: prosecutors")
 
-Citywide
+Ukrainian Village
 
-### [Complaints anti-police bias grow at COPA, the agency charged with investigating wrongdoing by Chicago cops](https://cwbchicago.com/2024/09/complaints-anti-police-bias-grow-at-copa-the-agency-charged-with-investigating-wrongdoing-by-chicago-cops.html "Complaints anti-police bias grow at COPA, the agency charged with investigating wrongdoing by Chicago cops")
+### [Sex offender kidnapped nurse from hospital parking lot, forced her to withdraw cash from ATM: prosecutors](https://cwbchicago.com/2024/09/sex-offender-kidnapped-nurse-from-hospital-parking-lot-forced-her-to-withdraw-cash-from-atm-prosecutors.html "Sex offender kidnapped nurse from hospital parking lot, forced her to withdraw cash from ATM: prosecutors")
 
-[September 10, 2024 9:24 AM](https://cwbchicago.com/2024/09)
+[September 12, 2024 8:09 PM](https://cwbchicago.com/2024/09)
 
-There’s trouble brewing at the Civilian Office of Police Accountability, better known as COPA, the agency charged with investigating allegations of serious wrongdoing by Chicago police officers.[](https://cwbchicago.com/2024/09/complaints-anti-police-bias-grow-at-copa-the-agency-charged-with-investigating-wrongdoing-by-chicago-cops.html "Complaints anti-police bias grow at COPA, the agency charged with investigating wrongdoing by Chicago cops")
+A convicted sex offender with a long, violent criminal history is now accused of randomly kidnapping a nurse from a Ukrainian Village hospital parking lot and robbing her at knifepoint.[](https://cwbchicago.com/2024/09/sex-offender-kidnapped-nurse-from-hospital-parking-lot-forced-her-to-withdraw-cash-from-atm-prosecutors.html "Sex offender kidnapped nurse from hospital parking lot, forced her to withdraw cash from ATM: prosecutors")
 
 Search
 
@@ -358,6 +358,7 @@ Thank you.
 * [Roseland](https://cwbchicago.com/category/roseland)
 * [South Chicago](https://cwbchicago.com/category/south-chicago)
 * [South Loop](https://cwbchicago.com/category/south-loop)
+* [South Shore](https://cwbchicago.com/category/south-shore)
 * [Streeterville](https://cwbchicago.com/category/near-north/streeterville)
 * [Suburbs](https://cwbchicago.com/category/suburbs)
 * [Ukrainian Village](https://cwbchicago.com/category/west-town/ukrainian-village)
