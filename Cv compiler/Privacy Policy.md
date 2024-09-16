@@ -1737,6 +1737,8 @@ What do top resumes look like? Check out these expertly-written samples:
 
 [Research Associate](https://cvcompiler.com/research-associate-resume-examples)
 
+[Senior Office Administrator](https://cvcompiler.com/senior-office-administrator-resume-examples)
+
 ![Upload resume illustration](uploads-pre-acq/img/upload-illustration.svg)
 
 ### Upload  
