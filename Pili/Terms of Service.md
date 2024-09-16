@@ -265,6 +265,13 @@ Hello, 你好!
 
 #### 焦點新聞
 
+* [![【PILI線上看】網域服務器異常公告](/img/news/548x316/202409142355199527.jpg)
+    
+    公告
+    
+    2024.09.15
+    
+    ##### 【PILI線上看】網域服務器異常公告](https://www.pili.com.tw/news-view/202409142355199527/)
 * [![《TBF東離劍遊紀４》主題曲決定為西川貴教〈天叢雲劍-SKYBREAKER-〉！](/img/news/548x316/2024090911105413970.jpg)
     
     公告
@@ -272,13 +279,6 @@ Hello, 你好!
     2024.09.09
     
     ##### 《TBF東離劍遊紀４》主題曲決定為西川貴教〈天叢雲劍-SKYBREAKER-〉！](https://www.pili.com.tw/news-view/2024090911105413970/)
-* [![《Thunderbolt Fantasy 東離劍遊紀４》五大平台 即將開播！](/img/news/548x316/2024090610300529834.jpg)
-    
-    公告
-    
-    2024.09.06
-    
-    ##### 《Thunderbolt Fantasy 東離劍遊紀４》五大平台 即將開播！](https://www.pili.com.tw/news-view/2024090610300529834/)
 
 [探索全部](https://www.pili.com.tw/news-browse.php)
 
