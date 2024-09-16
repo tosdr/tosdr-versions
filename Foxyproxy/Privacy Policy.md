@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thanks for the quick response. Really great service!
+I love your service and support.
 
-Hayley Gent
+William Rolson
