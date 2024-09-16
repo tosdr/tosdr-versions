@@ -419,9 +419,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ The miracle is this: The more we share, the more we have”
+“ Perfect is the enemy of good”
 
-[Leonard Nimoy](http://en.wikipedia.org/wiki/Leonard_Nimoy)
+[Voltaire](http://en.wikipedia.org/wiki/Perfect_is_the_enemy_of_good)
 
 [](https://www.adafruit.com/about)
 
