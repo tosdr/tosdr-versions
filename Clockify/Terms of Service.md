@@ -834,7 +834,7 @@ If any provision of this Agreement violates any mandatory rule of applicable Law
 * [Press](https://clockify.me/press)
 * [Customers](https://clockify.me/customers)
 * [Affiliate](https://clockify.me/affiliate)
-* [Partnerships](https://clockify.me/partnership)
+* [Partnership](https://clockify.me/partnership)
 
 ##### Resources
 
