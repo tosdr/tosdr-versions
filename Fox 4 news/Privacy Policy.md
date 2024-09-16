@@ -401,43 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Trump subject of apparent assassination attempt, FBI says](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/snapshot-7-1.jpg?ve=1&tl=1)
+ [![Haltom City road rage shooting critically injures teen](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2019/08/32/18/af15bf6c-Haltom20City20Police20Car_1504405694347_4082922_ver1.0.jpg?ve=1&tl=1)
 
- ![Trump subject of apparent assassination attempt, FBI says](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/snapshot-7-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/shots-fired-trump-national-golf-club-trump-golfing)
+ ![Haltom City road rage shooting critically injures teen](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2019/08/32/18/592/333/af15bf6c-Haltom20City20Police20Car_1504405694347_4082922_ver1.0.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/haltom-city-road-rage-shooting-critically-injures-teen)
 
-### [Trump subject of apparent assassination attempt, FBI says](https://www.fox4news.com/news/shots-fired-trump-national-golf-club-trump-golfing)
+### [Haltom City road rage shooting critically injures teen](https://www.fox4news.com/news/haltom-city-road-rage-shooting-critically-injures-teen)
 
- [![Donald Trump shooting suspect in custody; brought backpack, rifle, camera to Trump golf course: officials](https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/Martin-County-Sheriffs-Office.png?ve=1&tl=1)
+ [![Trump's apparent assassination attempt at Florida golf course: What we know so far](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-2172255079.jpg?ve=1&tl=1)
 
- ![Donald Trump shooting suspect in custody; brought backpack, rifle, camera to Trump golf course: officials](https://images.foxtv.com/images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/592/333/Martin-County-Sheriffs-Office.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/donald-trump-shooting-suspect-detained-martin-county-sheriff-says)
+ ![Trump's apparent assassination attempt at Florida golf course: What we know so far](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-2172255079.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-assassination-attempt-golf-course-what-we-know)
 
-### [Donald Trump shooting suspect in custody; brought backpack, rifle, camera to Trump golf course: officials](https://www.fox4news.com/news/donald-trump-shooting-suspect-detained-martin-county-sheriff-says)
+### [Trump's apparent assassination attempt at Florida golf course: What we know so far](https://www.fox4news.com/news/trump-assassination-attempt-golf-course-what-we-know)
 
- [![Murdered Cleburne 18-year-old remembered at candlelight vigil Sunday](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/kaylee-merchant-new.jpg?ve=1&tl=1)
+ [![Tito Jackson, member of the Jackson 5, dies at 70](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-1173571317.jpg?ve=1&tl=1)
 
- ![Murdered Cleburne 18-year-old remembered at candlelight vigil Sunday](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/kaylee-merchant-new.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/kaylee-merchant-cleburne-murder-giovanni-jimenez-diaz)
+ ![Tito Jackson, member of the Jackson 5, dies at 70](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-1173571317.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/tito-jackson-jackson-5-dies-70)
 
-### [Murdered Cleburne 18-year-old remembered at candlelight vigil Sunday](https://www.fox4news.com/news/kaylee-merchant-cleburne-murder-giovanni-jimenez-diaz)
+### [Tito Jackson, member of the Jackson 5, dies at 70](https://www.fox4news.com/news/tito-jackson-jackson-5-dies-70)
 
- [![Car crashes into Arlington home, police searching for driver](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/V-ARLINGTON-SHERRY-ST-CRASH-5P_00.00.00.00.jpg?ve=1&tl=1)
+ [![Kirby pitches 7 strong innings and Garver homers to lift Mariners over Rangers 7-0](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/GettyImages-2171582843.jpg?ve=1&tl=1)
 
- ![Car crashes into Arlington home, police searching for driver](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/V-ARLINGTON-SHERRY-ST-CRASH-5P_00.00.00.00.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/car-crashes-arlington-home-police-searching-driver)
+ ![Kirby pitches 7 strong innings and Garver homers to lift Mariners over Rangers 7-0](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/GettyImages-2171582843.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/kirby-pitches-7-strong-innings-garver-homers-lift-mariners-over-rangers-7-0)
 
-### [Car crashes into Arlington home, police searching for driver](https://www.fox4news.com/news/car-crashes-arlington-home-police-searching-driver)
+### [Kirby pitches 7 strong innings and Garver homers to lift Mariners over Rangers 7-0](https://www.fox4news.com/sports/kirby-pitches-7-strong-innings-garver-homers-lift-mariners-over-rangers-7-0)
 
- [![Kamara scores 4 TDs, Saints end Cowboys’ 16-game home streak in regular season with 44-19 win](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/GettyImages-2172210307-scaled.jpg?ve=1&tl=1)
+ [![Ryan Routh: Who is the alleged suspect in the Trump assassination attempt in Florida?](https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/GettyImages-2171592164.jpg?ve=1&tl=1)
 
- ![Kamara scores 4 TDs, Saints end Cowboys’ 16-game home streak in regular season with 44-19 win](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/GettyImages-2172210307-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/dallas-cowboys-new-orleans-saints-week-2)
+ ![Ryan Routh: Who is the alleged suspect in the Trump assassination attempt in Florida?](https://images.foxtv.com/images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/592/333/GettyImages-2171592164.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/ryan-routh-who-is-alleged-suspect-trump-assassination-attempt-florida)
 
-### [Kamara scores 4 TDs, Saints end Cowboys’ 16-game home streak in regular season with 44-19 win](https://www.fox4news.com/sports/dallas-cowboys-new-orleans-saints-week-2)
-
-[![Trump subject of apparent assassination attempt, FBI says](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/149/84/snapshot-7-1.jpg?ve=1&tl=1)](https://www.fox4news.com/news/shots-fired-trump-national-golf-club-trump-golfing)
-
-BREAKING NEWS
-
-[Live updates: Trump subject of apparent assassination attempt, FBI says](https://www.fox4news.com/news/shots-fired-trump-national-golf-club-trump-golfing)
-
-[The FBI says it's investigating “what appears to be an attempted assassination" of Donald Trump at his golf club in West Palm Beach, Florida.](https://www.fox4news.com/news/shots-fired-trump-national-golf-club-trump-golfing)
+### [Ryan Routh: Who is the alleged suspect in the Trump assassination attempt in Florida?](https://www.fox4news.com/news/ryan-routh-who-is-alleged-suspect-trump-assassination-attempt-florida)
 
 ###### [News](https://www.fox4news.com/news)
 
