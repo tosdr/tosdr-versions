@@ -416,7 +416,6 @@ Offers
 
 Support
 
-* [Activate](https://www.krogerwireless.com/activate)
 * [My Account](https://www.krogerwireless.com/account/my-account)
 * [Contact Us](https://www.krogerwireless.com/contact-us)
 * [FAQ](https://www.krogerwireless.com/faq)
