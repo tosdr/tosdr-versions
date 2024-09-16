@@ -540,6 +540,10 @@ MENU MENU
     [Featured Stories](https://home.treasury.gov/news/featured-stories)
     -------------------------------------------------------------------
     
+    September 12, 2024
+    
+    [From Car Dealers to Union Workers: Engaging Stakeholders on Historic Biden-Harris Climate Law](https://home.treasury.gov/news/featured-stories/from-car-dealers-to-union-workers-engaging-stakeholders-on-historic-biden-harris-climate-law)
+    
     September 4, 2024
     
     [Analysis of the First Year of the Low-Income Communities Bonus Credit Program: Building an Inclusive and Affordable Clean Energy Economy](https://home.treasury.gov/news/featured-stories/analysis-of-the-first-year-of-the-low-income-communities-bonus-credit-program-building-an-inclusive-and-affordable-clean-energy-economy)
@@ -548,26 +552,22 @@ MENU MENU
     
     [Small Business and Entrepreneurship in the Post-COVID Expansion](https://home.treasury.gov/news/featured-stories/small-business-and-entrepreneurship-in-the-post-covid-expansion)
     
-    August 21, 2024
-    
-    [Modernizing Treasury’s Office of Foreign Assets Control](https://home.treasury.gov/news/press-releases/jy2544)
-    
     [View all Featured Stories](https://home.treasury.gov/news/featured-stories "View all Featured Stories")
     
     [Press Releases](https://home.treasury.gov/news/press-releases)
     ---------------------------------------------------------------
     
-    September 10, 2024
+    September 16, 2024
     
-    [U.S. Department of the Treasury Awards $4 Million to Nevada to Help Small Businesses in Key Sectors of the Economy Grow and Hire](https://home.treasury.gov/news/press-releases/jy2571)
+    [Treasury Sanctions Enablers of the Intellexa Commercial Spyware Consortium](https://home.treasury.gov/news/press-releases/jy2581)
     
-    September 10, 2024
+    September 16, 2024
     
-    [Treasury Targets Key Funding Source of Deadly Fentanyl- Trafficking Cartel CJNG](https://home.treasury.gov/news/press-releases/jy2568)
+    [Treasury Sanctions Georgian Officials and Extremists for Serious Human Rights Abuse](https://home.treasury.gov/news/press-releases/jy2580)
     
-    September 10, 2024
+    September 13, 2024
     
-    [Treasury Designates Actors Facilitating Iran’s Transfer of Lethal Aid to Russia](https://home.treasury.gov/news/press-releases/jy2570)
+    [U.S. Department of the Treasury Issues Proposed Rules Supporting Expanded Tribal General Welfare for Tribal Communities](https://home.treasury.gov/news/press-releases/jy2579)
     
     [View All Press Releases](https://home.treasury.gov/news/press-releases "View all Press Releases")
     
@@ -578,13 +578,13 @@ MENU MENU
     
     [Joint Statement on the U.S.-UK Financial Regulatory Working Group](https://home.treasury.gov/news/press-releases/jy2569)
     
+    September 9, 2024
+    
+    [Remarks by Treasury Department’s Counselor for Racial Equity Janis Bowdler at the Treasury Advisory Committee on Racial Equity Fall Meeting](https://home.treasury.gov/news/press-releases/jy2582)
+    
     September 6, 2024
     
     [Remarks by Secretary of the Treasury Janet L. Yellen in Austin, Texas](https://home.treasury.gov/news/press-releases/jy2564)
-    
-    September 4, 2024
-    
-    [Remarks by Deputy Assistant Secretary for Financial Institutions Policy Jeanette Quick at the 2024 AAPISTRONG Annual Conference](https://home.treasury.gov/news/press-releases/jy2560)
     
     [View All Remarks and Statements](https://home.treasury.gov/news/press-releases/statements-remarks "View all Remarks and Statements")
     
