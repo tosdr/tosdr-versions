@@ -34,11 +34,10 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [What Music Are You Listening to? v18 (10,547)](https://forum.nationstates.net/viewtopic.php?t=534070&f=19&view=unread#unread ""What Music Are You Listening to? v18" (10,547 posts)")
-* [American Politics: Another Attempt Av… (6,357)](https://forum.nationstates.net/viewtopic.php?t=553897&f=20&view=unread#unread ""American Politics: Another Attempt Avoided" (6,357 posts)")
-* [AN Video Game Achievements (6,010)](https://forum.nationstates.net/viewtopic.php?t=518577&f=25&view=unread#unread ""AN Video Game Achievements" (6,010 posts)")
-* [Language Evolution Thread 2 (11,890)](https://forum.nationstates.net/viewtopic.php?t=419117&f=25&view=unread#unread ""Language Evolution Thread 2" (11,890 posts)")
-* [F7 creates chaos (25)](https://forum.nationstates.net/viewtopic.php?t=555315&f=25&view=unread#unread ""F7 creates chaos" (25 posts)")
+* [Guess Who BN Is! (4,042)](https://forum.nationstates.net/viewtopic.php?t=553505&f=25&view=unread#unread ""Guess Who BN Is!" (4,042 posts)")
+* [Ukrainian War VII: Kursk, Act II (5,170)](https://forum.nationstates.net/viewtopic.php?t=551126&f=20&view=unread#unread ""Ukrainian War VII: Kursk, Act II" (5,170 posts)")
+* [Geography Game II (10,026)](https://forum.nationstates.net/viewtopic.php?t=529733&f=25&view=unread#unread ""Geography Game II" (10,026 posts)")
+* [How do you imagine the player above y… (1,963)](https://forum.nationstates.net/viewtopic.php?t=539223&f=25&view=unread#unread ""How do you imagine the player above you in real life?" (1,963 posts)")
 
 Advertisement
 
