@@ -26,61 +26,65 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2023/11/SG-Alexander-Vindman-1200x630.jpeg)](https://americanwirenews.com/alexander-vindmans-wife-has-stunningly-evil-response-to-2nd-attempt-on-trumps-life/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/03/SG-Biden-Harris-Trump-1200x630.jpg)](https://americanwirenews.com/trump-pulls-no-punches-says-rhetoric-from-kamala-and-biden-causing-me-to-be-shot-at/)
 
-[Alexander Vindman’s wife has stunningly evil response to 2nd attempt on Trump’s life](https://americanwirenews.com/alexander-vindmans-wife-has-stunningly-evil-response-to-2nd-attempt-on-trumps-life/)
+[Trump pulls no punches, says rhetoric from Kamala Harris and Biden ‘causing me to be shot at’](https://americanwirenews.com/trump-pulls-no-punches-says-rhetoric-from-kamala-and-biden-causing-me-to-be-shot-at/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-msnbcalex-1200-x-628-1200x630.jpg)](https://americanwirenews.com/msnbc-other-libs-blame-trump-for-second-assassination-attempt/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-veltri-1200x630.jpg)](https://americanwirenews.com/fbis-miami-field-office-chief-who-spoke-on-second-assassination-attempt-a-notorious-trump-hater/)
 
-[MSNBC, other libs blame Trump for second assassination attempt](https://americanwirenews.com/msnbc-other-libs-blame-trump-for-second-assassination-attempt/)
+[FBI’s Miami field office chief who spoke on second assassination attempt ‘a notorious Trump hater’](https://americanwirenews.com/fbis-miami-field-office-chief-who-spoke-on-second-assassination-attempt-a-notorious-trump-hater/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-donaldjtrump-1200-x-628-1200x630.jpg)](https://americanwirenews.com/i-will-never-surrender-trumps-defiant-message-to-voters-after-second-assassination-attempt/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-musk-biden-harris-1200x630.jpg)](https://americanwirenews.com/elon-musk-scrubs-post-made-in-jest-wondering-why-trump-is-the-only-target-of-assassins/)
 
-[‘I will NEVER SURRENDER’: Trump’s defiant message to voters after second assassination attempt](https://americanwirenews.com/i-will-never-surrender-trumps-defiant-message-to-voters-after-second-assassination-attempt/)
+[Elon Musk scrubs post made ‘in jest’ wondering why Trump is the only target of assassins](https://americanwirenews.com/elon-musk-scrubs-post-made-in-jest-wondering-why-trump-is-the-only-target-of-assassins/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-shooter-djt-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/son-of-attempted-assassin-says-dad-hates-trump-like-all-reasonable-people/)
+[![](https://americanwirenews.com/wp-content/uploads/2022/07/SG-Trump-Golf-1200x630.png)](https://americanwirenews.com/in-trouble-time-magazine-cover-featuring-trump-on-a-golf-course-sets-off-social-media/)
 
-[Son of attempted assassin says dad’s not ‘batsh\*t,’ he hates Trump ‘like every reasonable’ person does](https://americanwirenews.com/son-of-attempted-assassin-says-dad-hates-trump-like-all-reasonable-people/)
+[‘In Trouble’: Time Magazine cover featuring Trump on a golf course sets off social media](https://americanwirenews.com/in-trouble-time-magazine-cover-featuring-trump-on-a-golf-course-sets-off-social-media/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-routh-1200x630.jpg)](https://americanwirenews.com/video-shows-trumps-alleged-would-be-assassin-in-ukraine-playing-a-shocking-roll-in-the-war/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-martin-county-sheriffs-office-donald-trump-ryan-wesley-routh-split-1200x630.jpg)](https://americanwirenews.com/former-fbi-asst-director-raises-scary-prospect-ryan-routh-had-inside-info-on-trump-schedule/)
 
-[Video shows Trump’s alleged would-be assassin in Ukraine playing a shocking role in the war](https://americanwirenews.com/video-shows-trumps-alleged-would-be-assassin-in-ukraine-playing-a-shocking-roll-in-the-war/)
+[Former FBI asst. director raises ‘scary’ prospect Ryan Routh had inside info on Trump schedule](https://americanwirenews.com/former-fbi-asst-director-raises-scary-prospect-ryan-routh-had-inside-info-on-trump-schedule/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/01/SG-DeSantis-3-1200x630.jpg)](https://americanwirenews.com/the-people-deserve-the-truth-desantis-vows-florida-will-do-own-investigation-of-2nd-trump-assassination-attempt/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-bartiromo-cotton-1200x630.jpg)](https://americanwirenews.com/sen-cotton-quips-kamala-fixing-the-border-is-like-oj-promising-to-find-the-real-killer/)
 
-[‘The people deserve the truth’: DeSantis vows Florida will do own investigation of 2nd Trump assassination attempt](https://americanwirenews.com/the-people-deserve-the-truth-desantis-vows-florida-will-do-own-investigation-of-2nd-trump-assassination-attempt/)
+[Sen. Cotton quips Kamala fixing the border is like OJ ‘promising to find the real killer’](https://americanwirenews.com/sen-cotton-quips-kamala-fixing-the-border-is-like-oj-promising-to-find-the-real-killer/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-roberts-1200x630.jpg)](https://americanwirenews.com/another-supreme-court-leak-this-time-about-trump-cases/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-routh-interviews-1200x630.jpg)](https://americanwirenews.com/social-media-posts-of-2nd-trump-gunman-echo-dem-talking-points-draws-in-elon-musk/)
 
-[Another Supreme Court leak, this time about Trump cases](https://americanwirenews.com/another-supreme-court-leak-this-time-about-trump-cases/)
+[Social media posts of 2nd Trump gunman echo Dem talking points, draws in Elon Musk](https://americanwirenews.com/social-media-posts-of-2nd-trump-gunman-echo-dem-talking-points-draws-in-elon-musk/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-harris-degeneres-1200x630.jpg)](https://americanwirenews.com/clip-of-kamala-joking-about-killing-trump-trends-after-second-assassination-attempt/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-brian-pannebecker-1200x630.jpg)](https://americanwirenews.com/auto-workers-for-trump-leader-claims-thousands-of-union-members-could-dump-dems-over-green-agenda/)
 
-[Clip of Kamala joking about killing Trump trends after second assassination attempt](https://americanwirenews.com/clip-of-kamala-joking-about-killing-trump-trends-after-second-assassination-attempt/)
+[‘Auto Workers for Trump’ leader claims thousands of union members could dump Dems over green agenda](https://americanwirenews.com/auto-workers-for-trump-leader-claims-thousands-of-union-members-could-dump-dems-over-green-agenda/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-harris-2-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-jr-1200x630.jpg)
 
-### Kamala’s reaction to potential Trump assassination attempt savaged by X users](https://americanwirenews.com/kamalas-reaction-to-potential-trump-assassination-attempt-savaged-by-x-users/)
+### Don Jr reveals impact of telling his kids about people out to kill grandpa: ‘No person should have to do this’](https://americanwirenews.com/don-jr-reveals-impact-of-telling-his-kids-about-people-out-to-kill-grandpa-no-person-should-have-to-do-this/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
-### [U.S. military raid results in death of four ISIS leaders](https://americanwirenews.com/u-s-military-raid-results-in-death-of-four-isis-leaders/)
+### [Kamala unveils new ‘cringe’ accent at Black Caucus Dinner – Biden bungles second fiddle role](https://americanwirenews.com/kamala-unveils-new-cringe-accent-at-black-caucus-dinner-biden-bungles-second-fiddle-role/)
 
-### [IRS whistleblowers sue Hunter Biden’s attorney for defamation](https://americanwirenews.com/irs-whistleblowers-sue-hunter-bidens-attorney-for-defamation/)
+### [Alert Kamala Harris and ABC’s David Muir, murders soar 60% on NYC subways](https://americanwirenews.com/alert-kamala-harris-and-abcs-david-muir-murders-soar-60-on-nyc-subways/)
 
-### [Billionaire philanthropist urges conservatives to follow left’s blueprint: ‘We need to crush liberal dominance’](https://americanwirenews.com/billionaire-philanthropist-urges-conservatives-to-follow-lefts-blueprint-we-need-to-crush-liberal-dominance/)
+### [Elon Musk hammers ‘massive voter importation to make swing states permanently blue’](https://americanwirenews.com/elon-musk-hammers-massive-voter-importation-to-make-swing-states-permanently-blue/)
 
-### [NYT fact-check of Trump admits Harris supports funding sex changes for migrants](https://americanwirenews.com/nyt-fact-check-of-trump-admits-harris-supports-funding-sex-changes-for-migrants/)
+### [Heartfelt message from Trump brings 8-year-old boy with rare brain disorder to tears](https://americanwirenews.com/heartfelt-message-from-trump-brings-8-year-old-boy-with-rare-brain-disorder-to-tears/)
 
-### [Biden is big mad that pet eating stories hurt feelings of ‘proud Haitian American’ Karine Jean-Pierre](https://americanwirenews.com/biden-is-big-mad-that-pet-eating-stories-hurt-feelings-of-proud-haitian-american-karine-jean-pierre/)
+### [Trump weighs in on ‘free spirit’ Laura Loomer](https://americanwirenews.com/trump-weighs-in-on-free-spirit-laura-loomer/)
 
-### [‘You’re supporting a war criminal!’ Harris rally interrupted by anti-Israel supporters](https://americanwirenews.com/youre-supporting-a-war-criminal-harris-rally-interrupted-by-anti-israel-supporters/)
+### [‘Beat makes me feel some type of way’: Social media goes wild over viral ‘Eat The Cat’ Trump remix](https://americanwirenews.com/beat-makes-me-feel-some-type-of-way-social-media-goes-wild-over-viral-eat-the-cat-trump-remix/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-routh-interviews-220x180.jpg)](https://americanwirenews.com/social-media-posts-of-2nd-trump-gunman-echo-dem-talking-points-draws-in-elon-musk/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-chapman-220x180.jpg)](https://americanwirenews.com/ex-nba-star-implores-media-to-ignore-2nd-attempt-on-trumps-life-stay-focused-on-cats-in-ohio/)
 
-[Social media posts of 2nd Trump gunman echo Dem talking points, draws in Elon Musk](https://americanwirenews.com/social-media-posts-of-2nd-trump-gunman-echo-dem-talking-points-draws-in-elon-musk/)
+[Ex-NBA star implores media to ignore 2nd attempt on Trump’s life, stay focused on cats in Ohio](https://americanwirenews.com/ex-nba-star-implores-media-to-ignore-2nd-attempt-on-trumps-life-stay-focused-on-cats-in-ohio/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-shakira-220x180.jpg)](https://americanwirenews.com/shakira-walks-off-stage-at-miami-nightclub-after-fans-appear-to-film-up-her-very-short-dress/)
+
+[Shakira walks off stage at Miami nightclub after fans appear to film up her very short dress](https://americanwirenews.com/shakira-walks-off-stage-at-miami-nightclub-after-fans-appear-to-film-up-her-very-short-dress/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/gi-epsteinmug-sg-routh-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/epsteined-trends-on-social-media-as-would-be-trump-assassin-jailed/)
 
@@ -95,6 +99,42 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-burchett-220x180.jpg)](https://americanwirenews.com/secret-service-is-compromised-says-lawmaker-after-second-trump-assassination-attempt/)
 
 [Secret Service ‘is compromised,’ says lawmaker after second Trump assassination attempt](https://americanwirenews.com/secret-service-is-compromised-says-lawmaker-after-second-trump-assassination-attempt/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-harris-degeneres-220x180.jpg)](https://americanwirenews.com/clip-of-kamala-joking-about-killing-trump-trends-after-second-assassination-attempt/)
+
+[Clip of Kamala joking about killing Trump trends after second assassination attempt](https://americanwirenews.com/clip-of-kamala-joking-about-killing-trump-trends-after-second-assassination-attempt/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-roberts-220x180.jpg)](https://americanwirenews.com/another-supreme-court-leak-this-time-about-trump-cases/)
+
+[Another Supreme Court leak, this time about Trump cases](https://americanwirenews.com/another-supreme-court-leak-this-time-about-trump-cases/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/01/SG-DeSantis-3-220x180.jpg)](https://americanwirenews.com/the-people-deserve-the-truth-desantis-vows-florida-will-do-own-investigation-of-2nd-trump-assassination-attempt/)
+
+[‘The people deserve the truth’: DeSantis vows Florida will do own investigation of 2nd Trump assassination attempt](https://americanwirenews.com/the-people-deserve-the-truth-desantis-vows-florida-will-do-own-investigation-of-2nd-trump-assassination-attempt/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-routh-220x180.jpg)](https://americanwirenews.com/video-shows-trumps-alleged-would-be-assassin-in-ukraine-playing-a-shocking-roll-in-the-war/)
+
+[Video shows Trump’s alleged would-be assassin in Ukraine playing a shocking role in the war](https://americanwirenews.com/video-shows-trumps-alleged-would-be-assassin-in-ukraine-playing-a-shocking-roll-in-the-war/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-shooter-djt-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/son-of-attempted-assassin-says-dad-hates-trump-like-all-reasonable-people/)
+
+[Son of attempted assassin says dad’s not ‘batsh\*t,’ he hates Trump ‘like every reasonable’ person does](https://americanwirenews.com/son-of-attempted-assassin-says-dad-hates-trump-like-all-reasonable-people/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-donaldjtrump-1200-x-628-220x180.jpg)](https://americanwirenews.com/i-will-never-surrender-trumps-defiant-message-to-voters-after-second-assassination-attempt/)
+
+[‘I will NEVER SURRENDER’: Trump’s defiant message to voters after second assassination attempt](https://americanwirenews.com/i-will-never-surrender-trumps-defiant-message-to-voters-after-second-assassination-attempt/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-msnbcalex-1200-x-628-220x180.jpg)](https://americanwirenews.com/msnbc-other-libs-blame-trump-for-second-assassination-attempt/)
+
+[MSNBC, other libs blame Trump for second assassination attempt](https://americanwirenews.com/msnbc-other-libs-blame-trump-for-second-assassination-attempt/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2023/11/SG-Alexander-Vindman-220x180.jpeg)](https://americanwirenews.com/alexander-vindmans-wife-has-stunningly-evil-response-to-2nd-attempt-on-trumps-life/)
+
+[Alexander Vindman’s wife has stunningly evil response to 2nd attempt on Trump’s life](https://americanwirenews.com/alexander-vindmans-wife-has-stunningly-evil-response-to-2nd-attempt-on-trumps-life/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-harris-2-220x180.jpg)](https://americanwirenews.com/kamalas-reaction-to-potential-trump-assassination-attempt-savaged-by-x-users/)
+
+[Kamala’s reaction to potential Trump assassination attempt savaged by X users](https://americanwirenews.com/kamalas-reaction-to-potential-trump-assassination-attempt-savaged-by-x-users/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-hart-house-220x180.jpg)](https://americanwirenews.com/comedian-kevin-hart-shutters-vegan-fast-food-chain-in-ca-on-heels-of-minimum-wage-hike/)
 
@@ -135,48 +175,6 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-beck-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/glenn-beck-says-arena-show-with-energetic-trump-likely-he-is-so-different-since-he-was-shot/)
 
 [Glenn Beck says ‘arena show’ with energetic Trump likely: ‘He is so different since he was shot’](https://americanwirenews.com/glenn-beck-says-arena-show-with-energetic-trump-likely-he-is-so-different-since-he-was-shot/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-kamalacbc-1200-x-628-220x180.jpg)](https://americanwirenews.com/kamala-unveils-new-cringe-accent-at-black-caucus-dinner-biden-bungles-second-fiddle-role/)
-
-[Kamala unveils new ‘cringe’ accent at Black Caucus Dinner – Biden bungles second fiddle role](https://americanwirenews.com/kamala-unveils-new-cringe-accent-at-black-caucus-dinner-biden-bungles-second-fiddle-role/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-harris-muir-220x180.jpg)](https://americanwirenews.com/alert-kamala-harris-and-abcs-david-muir-murders-soar-60-on-nyc-subways/)
-
-[Alert Kamala Harris and ABC’s David Muir, murders soar 60% on NYC subways](https://americanwirenews.com/alert-kamala-harris-and-abcs-david-muir-murders-soar-60-on-nyc-subways/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-democrat-plan-220x180.jpg)](https://americanwirenews.com/elon-musk-hammers-massive-voter-importation-to-make-swing-states-permanently-blue/)
-
-[Elon Musk hammers ‘massive voter importation to make swing states permanently blue’](https://americanwirenews.com/elon-musk-hammers-massive-voter-importation-to-make-swing-states-permanently-blue/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-birthday-message-220x180.jpg)](https://americanwirenews.com/heartfelt-message-from-trump-brings-8-year-old-boy-with-rare-brain-disorder-to-tears/)
-
-[Heartfelt message from Trump brings 8-year-old boy with rare brain disorder to tears](https://americanwirenews.com/heartfelt-message-from-trump-brings-8-year-old-boy-with-rare-brain-disorder-to-tears/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-loomer-220x180.jpg)](https://americanwirenews.com/trump-weighs-in-on-free-spirit-laura-loomer/)
-
-[Trump weighs in on ‘free spirit’ Laura Loomer](https://americanwirenews.com/trump-weighs-in-on-free-spirit-laura-loomer/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-kamla-djg-pxbkitty-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/beat-makes-me-feel-some-type-of-way-social-media-goes-wild-over-viral-eat-the-cat-trump-remix/)
-
-[‘Beat makes me feel some type of way’: Social media goes wild over viral ‘Eat The Cat’ Trump remix](https://americanwirenews.com/beat-makes-me-feel-some-type-of-way-social-media-goes-wild-over-viral-eat-the-cat-trump-remix/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/rf-pimentelsoriano-sg-ubaldomorenos-220x180.jpg)](https://americanwirenews.com/illegal-wanted-for-murder-in-his-home-country-suspected-of-slaying-family-of-four-in-ny/)
-
-[Illegal wanted for murder in his home country suspected of slaying family of four in NY](https://americanwirenews.com/illegal-wanted-for-murder-in-his-home-country-suspected-of-slaying-family-of-four-in-ny/)
-
-Image via Dominican Republic National Police
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-schumer-2025-220x180.jpg)](https://americanwirenews.com/dems-quadruple-down-on-project-2025-hoax-despite-repeated-trump-denials/)
-
-[Dems quadruple down on Project 2025 hoax despite repeated Trump denials](https://americanwirenews.com/dems-quadruple-down-on-project-2025-hoax-despite-repeated-trump-denials/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-tim-walz-2-220x180.jpg)](https://americanwirenews.com/can-kamala-get-a-mulligan-walz-no-help-as-mn-independents-break-for-trump/)
-
-[Can Kamala get a mulligan? Walz no help as MN independents break for Trump](https://americanwirenews.com/can-kamala-get-a-mulligan-walz-no-help-as-mn-independents-break-for-trump/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-joemaga-charlamagne-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/charlamagne-tha-god-says-donkey-of-the-day-biden-should-stay-in-the-basement-after-trump-hat-stunt/)
-
-[Charlamagne tha God says ‘donkey of the day’ Biden should stay ‘in the basement’ after Trump hat stunt](https://americanwirenews.com/charlamagne-tha-god-says-donkey-of-the-day-biden-should-stay-in-the-basement-after-trump-hat-stunt/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
@@ -246,6 +244,10 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 [Swing state bakery known for correct election predictions selling Trump cookies like hotcakes](https://americanwirenews.com/swing-state-bakery-known-for-correct-election-predictions-selling-trump-cookies-like-hotcakes/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-tapper-220x180.jpg)](https://americanwirenews.com/cnn-financial-secrets-could-be-exposed-amid-defamation-lawsuit/)
+
+[CNN financial secrets could be exposed amid defamation lawsuit](https://americanwirenews.com/cnn-financial-secrets-could-be-exposed-amid-defamation-lawsuit/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2022/10/SGMikeLindell-220x180.png)](https://americanwirenews.com/shipping-company-hits-mike-lindell-with-lawsuit-over-nearly-800k-debt/)
 
 [Shipping company hits Mike Lindell with lawsuit over nearly $800K debt](https://americanwirenews.com/shipping-company-hits-mike-lindell-with-lawsuit-over-nearly-800k-debt/)
@@ -257,10 +259,6 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-aurora-pd-220x180.png)](https://americanwirenews.com/landlord-to-sell-colorado-apartment-complex-taken-over-by-vicious-foreign-gang/)
 
 [Landlord to sell Colorado apartment complex ‘taken over’ by vicious foreign gang](https://americanwirenews.com/landlord-to-sell-colorado-apartment-complex-taken-over-by-vicious-foreign-gang/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-musk-mars-220x180.jpg)](https://americanwirenews.com/elon-musk-predicts-manned-spacex-flights-to-mars-by-2028-envisions-self-sustaining-city-in-20-years/)
-
-[Elon Musk predicts manned SpaceX flights to Mars by 2028, envisions ‘self-sustaining city’ in 20 years](https://americanwirenews.com/elon-musk-predicts-manned-spacex-flights-to-mars-by-2028-envisions-self-sustaining-city-in-20-years/)
 
 ### [POLITICS](https://www.commdiginews.com/category/featured-politics/)
 
@@ -276,17 +274,17 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 [Melania issues ‘warning to all Americans’ when it comes to FBI, invasion of privacy](https://americanwirenews.com/melania-issues-warning-to-all-americans-when-it-comes-to-fbi-invasion-of-privacy/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-maga-people-220x180.jpg)](https://americanwirenews.com/who-really-are-the-maga-people-rfk-jr-vp-pick-drops-brilliant-satirical-ad-exploring-trump-supporters/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-schumer-2025-220x180.jpg)](https://americanwirenews.com/dems-quadruple-down-on-project-2025-hoax-despite-repeated-trump-denials/)
 
-[‘Who really are the MAGA People?’ RFK Jr. VP pick drops ‘brilliant’ satirical ad exploring Trump supporters](https://americanwirenews.com/who-really-are-the-maga-people-rfk-jr-vp-pick-drops-brilliant-satirical-ad-exploring-trump-supporters/)
+[Dems quadruple down on Project 2025 hoax despite repeated Trump denials](https://americanwirenews.com/dems-quadruple-down-on-project-2025-hoax-despite-repeated-trump-denials/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-kjp-220x180.jpg)](https://americanwirenews.com/kjp-snaps-at-reporter-trying-to-ask-question-not-everybody-wants-to-hear-the-sound-of-your-voice-sir/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-tim-walz-2-220x180.jpg)](https://americanwirenews.com/can-kamala-get-a-mulligan-walz-no-help-as-mn-independents-break-for-trump/)
 
-[KJP snaps at reporter trying to ask question: ‘Not everybody wants to hear the sound of your voice, sir’](https://americanwirenews.com/kjp-snaps-at-reporter-trying-to-ask-question-not-everybody-wants-to-hear-the-sound-of-your-voice-sir/)
+[Can Kamala get a mulligan? Walz no help as MN independents break for Trump](https://americanwirenews.com/can-kamala-get-a-mulligan-walz-no-help-as-mn-independents-break-for-trump/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trumptrace-1200-x-628-220x180.jpg)](https://americanwirenews.com/trump-blasts-abc-news-debate-moderator-for-not-fact-checking-kamalas-lies/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-joemaga-charlamagne-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/charlamagne-tha-god-says-donkey-of-the-day-biden-should-stay-in-the-basement-after-trump-hat-stunt/)
 
-[Trump blasts ABC News debate moderator for not fact-checking Kamala’s lies](https://americanwirenews.com/trump-blasts-abc-news-debate-moderator-for-not-fact-checking-kamalas-lies/)
+[Charlamagne tha God says ‘donkey of the day’ Biden should stay ‘in the basement’ after Trump hat stunt](https://americanwirenews.com/charlamagne-tha-god-says-donkey-of-the-day-biden-should-stay-in-the-basement-after-trump-hat-stunt/)
 
 ### [HUMOR](https://www.commdiginews.com/category/featured-humor/)
 
@@ -324,6 +322,12 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 [Independent probe finds that yes, migrants ‘appear’ to be eating cats in Ohio](https://americanwirenews.com/independent-probe-finds-that-yes-migrants-appear-to-be-eating-cats-in-ohio/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/rf-pimentelsoriano-sg-ubaldomorenos-220x180.jpg)](https://americanwirenews.com/illegal-wanted-for-murder-in-his-home-country-suspected-of-slaying-family-of-four-in-ny/)
+
+[Illegal wanted for murder in his home country suspected of slaying family of four in NY
+
+Image via Dominican Republic National Police](https://americanwirenews.com/illegal-wanted-for-murder-in-his-home-country-suspected-of-slaying-family-of-four-in-ny/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-sg-sg-palistinian-supporer-boston-military-veteran-split-220x180.jpg)](https://americanwirenews.com/iraq-veteran-arrested-after-raging-pro-palestine-protester-reportedly-attacks-him-gets-shot/)
 
 [Iraq veteran arrested after raging pro-Palestine protester reportedly attacks him, gets shot](https://americanwirenews.com/iraq-veteran-arrested-after-raging-pro-palestine-protester-reportedly-attacks-him-gets-shot/)
@@ -335,11 +339,5 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-james-earl-jones-220x180.jpg)](https://americanwirenews.com/james-earl-jones-decision-before-death-to-allow-darth-vader-to-live-on-sparks-concern-among-actors/)
 
 [James Earl Jones’ decision before death to allow Darth Vader to live on sparks concern among actors](https://americanwirenews.com/james-earl-jones-decision-before-death-to-allow-darth-vader-to-live-on-sparks-concern-among-actors/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/02/RF-Police-car-220x180.jpg)](https://americanwirenews.com/springfield-city-hall-evacuated-over-bomb-threat-as-small-ohio-town-blasts-onto-nations-radar/)
-
-[Springfield City Hall evacuated over bomb threat as small Ohio town blasts onto nation’s radar
-
-Getty Images](https://americanwirenews.com/springfield-city-hall-evacuated-over-bomb-threat-as-small-ohio-town-blasts-onto-nations-radar/)
 
 © 2024. All Rights Reserved. American Wire News
