@@ -27,9 +27,9 @@ Questions? Call [(206) 590-3278](tel:2065903278)
     * [Adult Clinic](https://www.arenasports.net/adult-leagues/#adult-clinic)
 * [Camps](https://www.arenasports.net/camps/)
     * [School’s Out Camp](https://www.arenasports.net/schools-out-camp/)
-    * [Summer Camp](https://www.arenasports.net/summer-camp/)
     * [Skills Institute Camp](https://www.arenasports.net/skills-institute/#si-camp)
     * [Parents’ Night Out](https://www.arenasports.net/schools-out-camp/#pno)
+    * [Summer Camp](https://www.arenasports.net/summer-camp/)
 * [Attractions](https://www.arenasports.net/attractions/)
     * [Family Entertainment Center (Issaquah)](https://www.arenasports.net/issaquah/attractions/)
     * [Family Entertainment Center (Mill Creek)](https://www.arenasports.net/mill-creek/attractions/)
@@ -283,6 +283,10 @@ This form needs Javascript to display, which your browser doesn't support. [Sign
 * [Advertisement Opportunities](https://www.arenasports.net/advertisement-opportunities/)
 
 [Page load link](#)
+
+![Graphic image announcing partnership with Seattle Sounders as the new Youth Sports Sponsor](https://www.arenasports.net/wp-content/uploads/2024/09/SFC-Partnership-Announcement-Desktop-Web-Pop-up-550x650-px.jpg "SFC Partnership Announcement – Desktop Web Pop-up (550×650 px)")
+
+![Graphic image announcing partnership with Seattle Sounders as the new Youth Sports Sponsor](https://www.arenasports.net/wp-content/uploads/2024/09/SFC-partnership-announcement-website-pop-up-360x400-1.jpg "SFC-partnership-announcement-website pop-up-360×400")
 
               
 
