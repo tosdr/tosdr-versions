@@ -297,17 +297,17 @@ _By_ [Matt Strassler](https://www.quantamagazine.org/authors/mattstrassler)
 
 _By_ [Leila Sloman](https://www.quantamagazine.org/authors/leila-sloman)
 
+[![Scientists looking at globe of interconnected lights](https://www.quantamagazine.org/wp-content/uploads/2024/09/YesWeKans-crNicoRoper-Thumbnail.webp)](https://www.quantamagazine.org/novel-architecture-makes-neural-networks-more-understandable-20240911/)
+
+[#### Novel Architecture Makes Neural Networks More Understandable](https://www.quantamagazine.org/novel-architecture-makes-neural-networks-more-understandable-20240911/)
+
+_By_ [Steve Nadis](https://www.quantamagazine.org/authors/nadis_steven)
+
 [![Illustration of a deconstructed clock where one metal layer is imprinted to look like a thorium atom.](https://www.quantamagazine.org/wp-content/uploads/2024/09/NuclearClock-crNashWeerasekera-Thumbnail.webp)](https://www.quantamagazine.org/the-first-nuclear-clock-will-test-if-fundamental-constants-change-20240904/)
 
 [#### The First Nuclear Clock Will Test if Fundamental Constants Change](https://www.quantamagazine.org/the-first-nuclear-clock-will-test-if-fundamental-constants-change-20240904/)
 
 _By_ [Joseph Howlett](https://www.quantamagazine.org/authors/josephhowlett)
-
-[![](https://www.quantamagazine.org/wp-content/uploads/2024/08/Daniel_Litt-cr.MartaIwanek-Thumbnail.webp)](https://www.quantamagazine.org/perplexing-the-web-one-probability-puzzle-at-a-time-20240829/)
-
-[#### Perplexing the Web, One Probability Puzzle at a Time](https://www.quantamagazine.org/perplexing-the-web-one-probability-puzzle-at-a-time-20240829/)
-
-_By_ [Erica Klarreich](https://www.quantamagazine.org/authors/erica-klarreich)
 
 The Quanta Newsletter
 
