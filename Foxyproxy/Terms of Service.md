@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I am very impressed with your service which seems to work quite well. Please can you tell me how I can renew for a longer period of time when my subscription ends on September 1st.
+I'm actually quite impressed with the product \[GeoShift\].
 
-Neil Hodgson
+Dustin Personius
