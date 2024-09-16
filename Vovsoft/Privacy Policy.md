@@ -69,6 +69,7 @@ If you have any questions about this privacy statement, the practices of our sof
 | ![Newsletter](/images/newsletter.png) **Vovsoft Newsletter** |     |
 | ![Checkmark](/images/checkmark.png)Updates ![Checkmark](/images/checkmark.png)Giveaways ![Checkmark](/images/checkmark.png)Special Offers |     |
 |     |     |
+|     |     |
 | Join **60,000+** other subscribers.  <br><br>And don't worry, we hate spam too! You can [unsubscribe](https://vovsoft.com/newsletter/?p=unsubscribe) at anytime. |     |
 
 [Home](https://vovsoft.com/)
@@ -125,7 +126,7 @@ If you have any questions about this privacy statement, the practices of our sof
 
 ![Top](/images/arrow-up.png)
 
-* [![Share on Facebook](/images/share-facebook.png "Share on Facebook")](https://www.facebook.com/sharer.php?u=https%3A%2F%2Fvovsoft.com%2Fprivacy-policy%2F)
-* [![Share on Twitter](/images/share-x.png "Share on Twitter")](https://twitter.com/share/?url=https%3A%2F%2Fvovsoft.com%2Fprivacy-policy%2F&text=Privacy+Policy+-+Vovsoft&via=vovsoft)
+* [![Share on Facebook](/images/share-facebook.png "Share on Facebook")](http://www.facebook.com/sharer.php?u=https%3A%2F%2Fvovsoft.com%2Fprivacy-policy%2F)
+* [![Share on Twitter](/images/share-x.png "Share on Twitter")](http://twitter.com/share/?url=https%3A%2F%2Fvovsoft.com%2Fprivacy-policy%2F&text=Privacy+Policy+-+Vovsoft&via=vovsoft)
 * [![Share on Linkedin](/images/share-linkedin.png "Share on Linkedin")](http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fvovsoft.com%2Fprivacy-policy%2F)
 * [![Share on WhatsApp](/images/share-whatsapp.png "Share on WhatsApp")](https://web.whatsapp.com/send?text=https%3A%2F%2Fvovsoft.com%2Fprivacy-policy%2F)
