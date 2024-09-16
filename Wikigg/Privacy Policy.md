@@ -12,7 +12,7 @@ top of page
 
 Indie.io - Privacy Policy
 
-Last modified May 31, 2024
+Last modified September 10, 2024
 
 ​
 
@@ -168,7 +168,7 @@ Contacting us
 
 ​
 
-If you would like to contact us regarding any concerns of, or if there is a violation or possible violation of this policy, please contact our support team at [https://support.freedom.gg/hc/en-us](https://support.freedom.gg/hc/en-us) or [support@freedom.gg](mailto:support@freedom.gg). All communications shall be treated as confidential and will be addressed promptly.
+If you would like to contact us regarding any concerns of, or if there is a violation or possible violation of this policy, please contact our support team at [https://support.indie.io/hc/en-us/requests/new?ticket\_form\_id=15482174733709](https://support.indie.io/hc/en-us/requests/new?ticket_form_id=15482174733709) or [support@indie.io](mailto:support@indie.io).
 
 ​
 
@@ -188,7 +188,7 @@ Developer
 
 TRAGsoft
 
-![indie.io logo](https://static.wixstatic.com/media/71cf2b_221fd008f5b347fc8297753a73e0d487~mv2.png/v1/fill/w_144,h_35,al_c,q_85,blur_3,enc_auto/71cf2b_221fd008f5b347fc8297753a73e0d487~mv2.png)
+![indie.io logo](https://static.wixstatic.com/media/71cf2b_221fd008f5b347fc8297753a73e0d487~mv2.png/v1/fill/w_144,h_35,al_c,q_85,enc_auto/71cf2b_221fd008f5b347fc8297753a73e0d487~mv2.png)
 
 © 2024 indie.io
 
