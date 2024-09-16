@@ -200,6 +200,16 @@ This document was last updated on January 1, 2014
 
 #### Defense News
 
+* [Personnel shortages may force US Air Force pilots to fly non-fighters](https://www.defensenews.com/smr/air-warfare/2024/09/16/personnel-shortages-may-force-us-air-force-pilots-to-fly-non-fighters/)  
+    09/16/24 10:00am  
+    
+    Instructor pilots and a student fly a training sortie in two T-38C Talons, August 2024. (Senior Airman Ashley Crist/U.S. Air Force)
+    
+* [US Air Force plans to bed down 25 F-35s in FY26, report says](https://www.defensenews.com/smr/air-warfare/2024/09/16/us-air-force-plans-to-bed-down-25-f-35s-in-fy26-report-says/)  
+    09/16/24 09:00am  
+    
+    The U.S. Air Force plans to bed down 25 F-35As in fiscal 2026, according to a DOD report outlining the number of fighters the service intends to field through FY29. (Staff Sgt. Andrew Lee/U.S. Air Force)
+    
 * [Anduril unveils modular, high-production Barracuda cruise missiles](https://www.defensenews.com/air/2024/09/12/anduril-unveils-modular-high-production-barracuda-cruise-missiles/)  
     09/16/24 08:00am  
     
@@ -209,16 +219,6 @@ This document was last updated on January 1, 2014
     09/16/24 07:31am  
     
     The Air Force and Space Force are seeing high demand for an experimental generative AI tool, like the one illustrated here, called NIPR GPT. (Oliver Berg via Getty Images)
-    
-* [How the Air Force averted a major flaw in its drone wingmen approach](https://www.defensenews.com/digital-show-dailies/afa-air-space/2024/09/16/how-the-air-force-averted-a-major-flaw-in-its-drone-wingmen-approach/)  
-    09/16/24 06:01am  
-    
-    Operators from Air Combat Command helped the Air Force pinpoint range shortcomings in the planned collaborative combat aircraft program early in the acquisition process. (General Atomics)
-    
-* [US clears F-35 sale to Romania, bolstering NATO’s eastern flank](https://www.defensenews.com/breaking-news/2024/09/13/us-clears-f-35-sale-to-romania-bolstering-natos-eastern-flank/)  
-    09/13/24 05:14pm  
-    
-    Romania would get its first F-35 Joint Strike Fighters as part of a deal approved by the U.S. State Department. (A1C Mason Hargrove/U.S. Air Force)
     
 
 Recent parts by keyword  
