@@ -77,7 +77,7 @@
         
         Risk-aware MDR with Unlimited Incident Response
         
-        [Request Demo](https://www.rapid7.com/solutions/unified-mdr-xdr-vm/get-started/)
+        [Request Demo](https://www.rapid7.com/services/managed-detection-and-response-mdr/demo/)
         
     
     * DETECTION & RESPONSE
@@ -88,7 +88,7 @@
         
         EXPERIENCING A BREACH?](https://www.rapid7.com/services/incident-response-customer-escalation/)
     
-    * OTHER SERVICES
+    * EXPOSURE MANAGEMENT
     * [Managed Vulnerability Management
         
         OPTIMIZED RISK ASSESSMENT](https://www.rapid7.com/services/managed-services/vulnerability-management/)
@@ -283,7 +283,7 @@
         
         Risk-aware MDR with Unlimited Incident Response
         
-        [Request Demo](https://www.rapid7.com/solutions/unified-mdr-xdr-vm/get-started/)
+        [Request Demo](https://www.rapid7.com/services/managed-detection-and-response-mdr/demo/)
         
     
     * DETECTION & RESPONSE
@@ -294,7 +294,7 @@
         
         EXPERIENCING A BREACH?](https://www.rapid7.com/services/incident-response-customer-escalation/)
     
-    * OTHER SERVICES
+    * EXPOSURE MANAGEMENT
     * [Managed Vulnerability Management
         
         OPTIMIZED RISK ASSESSMENT](https://www.rapid7.com/services/managed-services/vulnerability-management/)
