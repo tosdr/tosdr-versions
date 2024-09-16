@@ -2,7 +2,7 @@
 
 ![](https://www.facebook.com/tr?id=1013298092648180&ev=PageView&noscript=1)
 
-[We've recently launched .IT.COM for anyone in the Information Technology sector! Now on sale for $11.49 🚀](https://www.dynadot.com/domain/it.com?utm_source=Promobar&utm_campaign=IT%20COM%20Promobar%20Sept%202024&utm_medium=it%20com&drefid=4595)
+[Back to school sale with .COLLEGE 📚 Register your school for only $1.99 until 9/30/24!](https://www.dynadot.com/domain/college?utm_source=Promobar&utm_campaign=COLLEGE%20Promobar%20Sept%202024&utm_medium=college&drefid=4579)
 
 [](https://www.dynadot.com/)
 
