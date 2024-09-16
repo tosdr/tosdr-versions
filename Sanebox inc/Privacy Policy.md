@@ -12,18 +12,18 @@
 ### How can we help you?
 
 **Find an answer**  
-Search our extensive [help documentation](https://www.sanebox.com/help) or [take a tour](https://www.sanebox.com/learn) of SaneBox.
+Search our extensive **help documentation** or[take a tour](https://www.sanebox.com/learn) of SaneBox.
 
 **Let us help you**  
-You can [create a help request](https://www.sanebox.com/help/request/new) or [Chat Live](javascript:void(0)) [](javascript:void(0) "Chat hours: Mon-Fri 8am-9pm ET<br><br><b>By clicking on the link you agree to enable the cookies necessary to access live chat support.</b>") with our wonderful support staff.
+You can[create a help request](https://www.sanebox.com/help/request/new) or[Chat Live](javascript:void(0)) [](javascript:void(0) "Chat hours: Mon-Fri 8am-9pm ET<br><br><b>By clicking on the link you agree to enable the cookies necessary to access live chat support.</b>") with our wonderful support staff.
 
 * * *
 
 **Share an idea or feedback**  
-Send feature requests and comments to [feedback@sanebox.com](mailto:feedback@sanebox.com).
+Send feature requests and comments to[feedback@sanebox.com](mailto:feedback@sanebox.com).
 
 **Report a bug**  
-Submit bug reports to [support@sanebox.com](mailto:support@sanebox.com).
+Submit bug reports to[support@sanebox.com](mailto:support@sanebox.com).
 
 Close
 
@@ -36,11 +36,14 @@ Menu
 
 * [Try it FREE](https://www.sanebox.com/signup)
 * [Tour](https://www.sanebox.com/learn)
-* [Help](https://www.sanebox.com/help)
 * [Pricing](https://www.sanebox.com/pricing)
 * [Home](https://www.sanebox.com/home)
-* [Log In](https://www.sanebox.com/login)
-* Cookie Preferences
+
+[Support](https://www.sanebox.com/help)
+
+Cookie Preferences
+
+[Log In](https://www.sanebox.com/login)
 
 Email contains your most private data
 =====================================
