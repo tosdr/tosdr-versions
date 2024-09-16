@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/corona-kwestie/de-balans-3000-miljard-niet-werkende-wegwerpmondkapjes/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/hoofdartikelen/mysterieuze-krachten-van-piramide-structuren/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
@@ -203,6 +203,14 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 * [Last 8](#first)
 * [9 - 16](#second)
 * [17 - 24](#third)
+
+![robvdz](https://secure.gravatar.com/avatar/1a031a4277be07cef6901ec8e8af995b?s=50&d=identicon&r=g)
+
+##### **robvdz** reacts on:
+
+##### MH17 en de waarheidsvinding over deze aanslag…
+
+[Goed dat jullie zoveel aandacht verlenen aan dit onderwerp.…](https://www.wanttoknow.nl/politiek/valse-vlag-operaties/mh17-en-de-waarheidsvinding-over-deze-aanslag/comment-page-1/#comment-626328)
 
 ![inhetmeer](https://secure.gravatar.com/avatar/e59606caac6119e46905799cf0c15cc3?s=50&d=identicon&r=g)
 
@@ -451,14 +459,6 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 ##### Israël: de holocaust-bonus raakt op..?
 
 [Ik ben allerlei (predictive programming) berichten tegengeko…](https://www.wanttoknow.nl/geschiedenis/geloof-religie/israel-de-holocaust-bonus-raakt-op/comment-page-1/#comment-626292)
-
-![GuidoJ.](https://secure.gravatar.com/avatar/379ae4ab61453c2ebafbbe75126acc17?s=50&d=identicon&r=g)
-
-##### **GuidoJ.** reacts on:
-
-##### WHO-‘Pandemie-verdrag’ volledig gammel…!!
-
-[Dank voor je ondersteunende woorden!…](https://www.wanttoknow.nl/politiek/who-pandemie-verdrag-volledig-gammel/comment-page-1/#comment-626291)
 
 [![VaccinVrij banner](https://www.wanttoknow.nl/wp-content/uploads/stichting-vaccin-vrij-banner.jpg)](https://stichtingvaccinvrij.nl/)
 
