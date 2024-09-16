@@ -1,4 +1,4 @@
-Save 20% on personalized strengths resources with code **STRENGTHS20** _(books, CSI course & bulk orders excluded)_
+🎒Back-To-School, Forward with Strengths — [Explore limited time savings on strength-based tools!](https://www.viacharacter.org/topics/articles/back-to-school-2024)
 
 [Sign in](https://www.viacharacter.org/account/login)
 
@@ -43,7 +43,7 @@ Menu
     * For Workplaces ▾
     * [Strength-Based Workplaces](https://www.viacharacter.org/strength-based-workplaces)
     * For Educators ▾
-    * [Strengths-Based Education at VIA](https://www.viacharacter.org/programs/thriving-learning-communities)
+    * [Strengths-Based Education](https://www.viacharacter.org/programs/thriving-learning-communities)
     
 * [Wellbeing](https://www.viacharacter.org/topics)
     
