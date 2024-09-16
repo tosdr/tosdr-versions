@@ -199,3 +199,7 @@ English![en](/images/flags/flag_en.png)
 © 2024 7 Data Recovery LLC
 
 2400 Herodian Way SE #224, Smyrna, GA 30080, USA
+
+This site uses cookies. By continuing to use this site, you are agreeing to our use of cookies.
+
+[Learn More](https://7datarecovery.com/privacy-policy.html#Cookies_and_Web_Beacons) Accept
