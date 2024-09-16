@@ -1,4 +1,4 @@
-[![TikTok](https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/legal/static/build/_assets/tiktok-header-logo-06fe0df37ccabdcf75f1-339cf5cabd5eac712073549cfb4134eb419f1064.svg)](https://www.tiktok.com/ "TikTok")
+[![TikTok](https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/legal/static/build/_assets/tiktok-header-logo-06fe0df37ccabdcf75f1-4c02f4d664da53728d26e6cc4f6d9853bd3edd61.svg)](https://www.tiktok.com/ "TikTok")
 
 U.S.
 
@@ -284,13 +284,13 @@ By downloading the Platform from Google Play (or its successors) operated by Goo
 
 You can reach us at: [https://www.tiktok.com/legal/report/feedback](https://www.tiktok.com/legal/report/feedback) or write us at TikTok Inc.: 5800 Bristol Parkway, Suite 100, Culver City, CA 90230, USA
 
-[![](https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/legal/static/build/_assets/logo-27d6cf4b2491ddf10a58-339cf5cabd5eac712073549cfb4134eb419f1064.svg)![](https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/legal/static/build/_assets/logotext-969cd3ed892da756e59b-339cf5cabd5eac712073549cfb4134eb419f1064.svg)](https://www.tiktok.com/ "TikTok")**TikTok**
+[![](https://p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/acf493e846430d78c050e9d8d7382c6b.svg~tplv-1rzkm2vceq-default:0:0:q75.image)](https://www.tiktok.com/ "TikTok")**TikTok**
 
 #### Company
 
 [About TikTok](https://www.tiktok.com/about?lang=en)
 
-[Newsroom](https://newsroom.tiktok.com/en-us?lang=en)
+[Newsroom](https://newsroom.tiktok.com/?lang=en)
 
 [Contact](https://www.tiktok.com/about/contact?lang=en)
 
@@ -300,13 +300,13 @@ You can reach us at: [https://www.tiktok.com/legal/report/feedback](https://www.
 
 #### Programs
 
-[TikTok for Good](https://www.tiktok.com/forgood?lang=en)
+[TikTok for Good](https://www.tiktok.com/for-good?lang=en)
 
-[TikTok for Developers](https://developers.tiktok.com/?refer=tiktok_web&lang=en)
+[TikTok for Developers](https://developers.tiktok.com/?lang=en)
 
-[Effect House](https://effecthouse.tiktok.com/?utm_source=tiktok_article_legal&lang=en)
+[Effect House](https://effecthouse.tiktok.com/?lang=en)
 
-[Advertise on TikTok](https://www.tiktok.com/business/&attr_source=tt_official_site&attr_medium=tt_official_site_guidance?lang=en)
+[Advertise on TikTok](https://www.tiktok.com/business?lang=en)
 
 [TikTok Browse](https://www.tiktok.com/browse?lang=en)
 
@@ -316,13 +316,13 @@ You can reach us at: [https://www.tiktok.com/legal/report/feedback](https://www.
 
 #### Resources
 
-[Help Center](https://support.tiktok.com/en?lang=en)
+[Help Center](https://support.tiktok.com/?lang=en)
 
 [Safety Center](https://www.tiktok.com/safety?lang=en)
 
-[Privacy Center](https://www.tiktok.com/privacy/overview/en?enter_method=footer&lang=en)
+[Privacy Center](https://www.tiktok.com/privacy/overview?lang=en)
 
-[Creator Portal](https://www.tiktok.com/creators/creator-portal/?lang=en)
+[Creator Portal](https://www.tiktok.com/creator-academy?lang=en)
 
 [Community Guidelines](https://www.tiktok.com/community-guidelines?lang=en)
 
@@ -336,13 +336,9 @@ You can reach us at: [https://www.tiktok.com/legal/report/feedback](https://www.
 
 [Privacy Policy](https://www.tiktok.com/legal/privacy-policy?lang=en)
 
-[TikTok Platform Cookies Policy](https://www.tiktok.com/legal/cookie-policy?lang=en)
-
 [Intellectual Property Policy](https://www.tiktok.com/legal/copyright-policy?lang=en)
 
 [TikTok Law Enforcement Guidelines](https://www.tiktok.com/legal/law-enforcement?lang=en)
-
-[TikTok UK Modern Slavery Statement 2023](https://www.tiktok.com/legal/modern-slavery-statement?lang=en)
 
 [Children's Privacy Policy](https://www.tiktok.com/legal/privacy-policy-for-younger-users?lang=en)
 
