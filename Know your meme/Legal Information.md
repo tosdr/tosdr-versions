@@ -97,30 +97,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [![Twitter Is Mocking the Scourge of YouTube "Rantsonas"](https://i.kym-cdn.com/featured_items/icons/wide/000/025/873/Rantsonas.png "It's The Anniversary Of The Term 'Rantsona'")
+* [![street name real name video examples](https://i.kym-cdn.com/featured_items/icons/wide/000/025/902/snc.jpg "People Share Their 'Street Names' vs. Their Real Names In This Viral Trend")
     
-    It's The Anniversary Of The Term 'Rantsona'](https://knowyourmeme.com/memes/rantsona)
+    People Share Their 'Street Names' vs. Their Real Names In This Viral Trend](https://knowyourmeme.com/memes/whats-your-street-name-street-name-vs-real-name)
     
-* [![Thomas Jefferson drawn with purple hair wearing a Miku Hatsune binder and a sweater with the writing MET GOD SHE'S Black | historical figures on tumblr dot com ](https://i.kym-cdn.com/featured_items/icons/wide/000/025/872/Screen_Shot_2020-12-01_at_10.38.42_AM.png "It's The 7 Year Anniversary Of Miku Binder Thomas Jefferson")
+* [![Old <i>Mitchell and Webb</i> Sketch Becomes Prevalent In Current Era](https://i.kym-cdn.com/featured_items/icons/wide/000/025/901/ccvzrbwha9tx.jpg "The Classic 'Are We the Baddies?' Meme Aired On 'That Mitchell and Webb Look' Nearly 20 Years Ago Today")
     
-    It's The 7 Year Anniversary Of Miku Binder Thomas Jefferson](https://knowyourmeme.com/memes/miku-binder-thomas-jefferson)
+    The Classic 'Are We the Baddies?' Meme Aired On 'That Mitchell and Webb Look' Nearly 20 Years Ago Today](https://knowyourmeme.com/memes/are-we-the-baddies)
     
-* [![Sending Abdul From the Taliban a Picture of His House](https://i.kym-cdn.com/featured_items/icons/wide/000/025/871/abdul_from_the_taliban.jpg "Abdul, The Falsely Labeled 'Head Of The Taliban,' Was Allegedly Sent A Picture Of His House By Former President Trump")
+* [![Member Berries](https://i.kym-cdn.com/featured_items/icons/wide/000/025/900/member_berries_meme_banner.jpg "It's Been Eight Years Since The 'Member Berries' Scene Aired On 'South Park'")
     
-    Abdul, The Falsely Labeled 'Head Of The Taliban,' Was Allegedly Sent A Picture Of His House By Former President Trump](https://knowyourmeme.com/memes/sending-abdul-from-the-taliban-a-picture-of-his-house)
+    It's Been Eight Years Since The 'Member Berries' Scene Aired On 'South Park'](https://knowyourmeme.com/memes/member-berries)
     
-* [![Alf meme examples](https://i.kym-cdn.com/featured_items/icons/wide/000/025/870/1d2.jpg "Memes About 'Alf' Being The 'Illegal Alien Eating Cats' Going Viral On Social Media Following The Presidential Debate")
+* [![trump and laura loomer, left, meme, right](https://i.kym-cdn.com/featured_items/icons/wide/000/025/899/78d.jpg "Rumors Of An Affair Between Far-Right Activist 'Laura Loomer' And Former President 'Donald Trump' Go Viral")
     
-    Memes About 'Alf' Being The 'Illegal Alien Eating Cats' Going Viral On Social Media Following The Presidential Debate](https://knowyourmeme.com/memes/alf-eating-cats)
+    Rumors Of An Affair Between Far-Right Activist 'Laura Loomer' And Former President 'Donald Trump' Go Viral](https://knowyourmeme.com/memes/events/donald-trump-and-laura-loomer-affair-rumors)
     
-* [![Balkan Breakfast trend](https://i.kym-cdn.com/featured_items/icons/wide/000/025/869/50b.jpg "'Balkan Breakfast' Trend Of Eating Raw Vegetables And Salt With Your Bare Hands Rings True For Many Balkans")
+* [![This Printed-Out Picture A Therapist Gave To Their Client Is Making Rounds On Socials, And Nobody Can Even](https://i.kym-cdn.com/featured_items/icons/wide/000/025/898/cover8.jpg "This Printed-Out Picture A Therapist Gave To Their Client Is Making Rounds On Socials, And Nobody Can Even")
     
-    'Balkan Breakfast' Trend Of Eating Raw Vegetables And Salt With Your Bare Hands Rings True For Many Balkans](https://knowyourmeme.com/memes/balkan-breakfast)
+    This Printed-Out Picture A Therapist Gave To Their Client Is Making Rounds On Socials, And Nobody Can Even](https://knowyourmeme.com/memes/my-therapist-gave-me-this-and-said-thats-you)
     
 
 ##### Also Trending:
 
-[Australian Senator Gen Z Slang Speech](https://knowyourmeme.com/memes/australian-senator-gen-z-slang-speech "Australian Senator Gen Z Slang Speech") [Kamala Earbuds Conspiracy Theory](https://knowyourmeme.com/memes/kamala-harris-nova-earbuds-or-tiffany-earrings-conspiracy-theory "Kamala Earbuds Conspiracy Theory") [Trump-Harris Presidential Debate](https://knowyourmeme.com/memes/events/september-2024-us-presidential-debate "Trump-Harris Presidential Debate")
+[Haitian Immigrants Eating Pets Rumor](https://knowyourmeme.com/memes/events/haitian-immigrants-eating-pets-and-geese-rumor "Haitian Immigrants Eating Pets Rumor")
 
 Copyright Infringement Notice
 =============================
@@ -186,7 +186,7 @@ Please be advised that we may terminate the accounts of repeat copyright infring
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Howdy! You must login or signup first!
+### Greetings! You must login or signup first!
 
 |     |     |
 | --- | --- |
