@@ -1,4 +1,4 @@
-Wednesday, September 11 2024
+Tuesday, September 17 2024
 
 * [About](https://fifthperson.com/about/)
 * [Charity](https://fifthperson.com/charity/)
@@ -171,11 +171,19 @@ Quick Guides
 
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
+    ![](https://fifthperson.com/wp-content/uploads/2020/09/gloves-220x150.jpg)](https://fifthperson.com/2024-hartalega-agm/)
+    
+    [10 things I learned from the 2024 Hartalega AGM](https://fifthperson.com/2024-hartalega-agm/)
+    
+    4 days ago
+    
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
     ![](https://fifthperson.com/wp-content/uploads/2022/11/USD-220x150.jpg)](https://fifthperson.com/best-places-to-stash-us-dollars/)
     
     [4 best places to stash your U.S. dollars](https://fifthperson.com/best-places-to-stash-us-dollars/)
     
-    1 day ago
+    7 days ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -183,7 +191,7 @@ Quick Guides
     
     [Nvidia Q2 2025 earnings call: AI and data centers continue to push growth](https://fifthperson.com/nvidia-q2-2025-earnings-call/)
     
-    5 days ago
+    2 weeks ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -191,7 +199,7 @@ Quick Guides
     
     [Trusts: A powerful financial planning tool for any net worth](https://fifthperson.com/trusts-a-powerful-financial-planning-tool-for-any-net-worth/)
     
-    1 week ago
+    2 weeks ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -199,7 +207,7 @@ Quick Guides
     
     [Meta Q2 2024 earnings driven by AI and advertising growth](https://fifthperson.com/meta-q2-2024-earnings/)
     
-    2 weeks ago
+    3 weeks ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -207,7 +215,7 @@ Quick Guides
     
     [Microsoft Q4 2024 earnings fuelled by AI and cloud growth](https://fifthperson.com/microsoft-q4-2024-earnings/)
     
-    2 weeks ago
+    3 weeks ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -215,7 +223,7 @@ Quick Guides
     
     [Amazon Q2 2024 earnings call: Strong performance across all segments](https://fifthperson.com/amazon-q2-2024-earnings-call/)
     
-    3 weeks ago
+    4 weeks ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -223,7 +231,7 @@ Quick Guides
     
     [8 things I learned from the 2024 Mapletree Pan Asia Commercial Trust AGM](https://fifthperson.com/2024-mapletree-pan-asia-commercial-trust-agm/)
     
-    3 weeks ago
+    4 weeks ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -231,7 +239,7 @@ Quick Guides
     
     [Nike’s 30% stock plunge: Can the sportswear giant regain its crown?](https://fifthperson.com/nike-stock-plunge-sportswear-giant-regain-crown/)
     
-    4 weeks ago
+    August 15, 2024
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -239,15 +247,7 @@ Quick Guides
     
     [Apple Q3 2024 earnings call: Services and Apple Intelligence lead the way](https://fifthperson.com/apple-q3-2024-earnings-apple-intelligence/)
     
-    4 weeks ago
-    
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://fifthperson.com/wp-content/uploads/2024/08/calculate-220x150.jpg)](https://fifthperson.com/rule-of-72-better-investment-decisions/)
-    
-    [How to use the Rule of 72 to make better investment decisions](https://fifthperson.com/rule-of-72-better-investment-decisions/)
-    
-    4 weeks ago
+    August 13, 2024
     
 
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -331,6 +331,14 @@ Quick Guides
     February 18, 2020
     
 
+* [![Photo of Edmund Ng](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![Photo of Edmund Ng](https://secure.gravatar.com/avatar/6c87c4d2b391399d5eb121b2d3ab7759?s=70&d=mm&r=g)](https://fifthperson.com/trusts-a-powerful-financial-planning-tool-for-any-net-worth/#comment-675833)
+    
+    [Edmund Ng](https://fifthperson.com/trusts-a-powerful-financial-planning-tool-for-any-net-worth/#comment-675833)
+    
+    Like your article " Trusts: A powerful financial planning to...
+    
 * [![Photo of Adam Wong](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![Photo of Adam Wong](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -414,14 +422,6 @@ Quick Guides
     [greg](https://fifthperson.com/3-companies-own-us-soft-drink-market/#comment-674805)
     
     nanoparticles in coke is criminal...
-    
-* [![Photo of Darren Yeo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![Photo of Darren Yeo](https://secure.gravatar.com/avatar/b60f9a3df7cf7d46e57ba880e0feb0cc?s=70&d=mm&r=g)](https://fifthperson.com/warren-buffett-dump-apple/#comment-674759)
-    
-    [Darren Yeo](https://fifthperson.com/warren-buffett-dump-apple/#comment-674759)
-    
-    Hi Jonathan, thank you for sharing your experience and the i...
     
 
 Advertisement
