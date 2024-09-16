@@ -2,8 +2,8 @@
 
 ![Admozart](http://admozart.com/wp-content/uploads/2024/02/Admozart_logo_new.png)
 
-* [Advertisers](https://admozart.com/dsp/ "Advertisers")
-* [Publishers](https://admozart.com/ssp/ "Publishers")
+* [Demand Side Platform](https://admozart.com/dsp/ "Demand Side Platform")
+* [Supply Side Platform](https://admozart.com/ssp/ "Supply Side Platform")
 * [Media Channels](https://admozart.com/media-channels/ "Media Channels")
     * [Display Ads](https://admozart.com/media-channels/#display-ads "Display Ads")
     * [Video Ads](https://admozart.com/media-channels/#video-ads "Video Ads")
@@ -58,8 +58,8 @@ Arrived compass prepare an on as. Reasonable particular on my it in sympathize. 
 
 ![Admozart](http://admozart.com/wp-content/uploads/2024/02/Admozart_logo_new.png)
 
-* [Advertisers](https://admozart.com/dsp/ "Advertisers")
-* [Publishers](https://admozart.com/ssp/ "Publishers")
+* [Demand Side Platform](https://admozart.com/dsp/ "Demand Side Platform")
+* [Supply Side Platform](https://admozart.com/ssp/ "Supply Side Platform")
 * [Media Channels](https://admozart.com/media-channels/ "Media Channels")
     * [Display Ads](https://admozart.com/media-channels/#display-ads "Display Ads")
     * [Video Ads](https://admozart.com/media-channels/#video-ads "Video Ads")
@@ -195,8 +195,8 @@ Our Real-time Advertising Exchange (Ad Exchange) platform connects the world's l
 #### Quick Links
 
 * [About Us](https://admozart.com/about-us/)
-* [Advertiser](https://admozart.com/dsp/)
-* [Publisher](https://admozart.com/ssp/)
+* [DSP](https://admozart.com/dsp/)
+* [SSP](https://admozart.com/ssp/)
 * [Media Channels](https://admozart.com/media-channels/)
 * [Blogs](https://admozart.com/blogs/)
 * [Contact Us](https://admozart.com/contact-us/)
