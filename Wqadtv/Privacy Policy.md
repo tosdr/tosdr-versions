@@ -30,13 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
+    *  [![](https://media.tegna-media.com/assets/WNEP/images/f47e35ac-6fbe-42b7-8fad-97c5eb5eb342/f47e35ac-6fbe-42b7-8fad-97c5eb5eb342_16x9.jpg) ![](https://media.tegna-media.com/assets/WNEP/images/f47e35ac-6fbe-42b7-8fad-97c5eb5eb342/f47e35ac-6fbe-42b7-8fad-97c5eb5eb342_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/power-outage-davenport-midamerican/526-35f2e47c-b69f-4370-8c79-e0b2db3ae0a6)
         
-        #### [Boil orders in the Quad Cities region](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
+        #### [Thousands of MidAmerican customers lose power in Davenport Monday morning](https://www.wqad.com/article/news/local/public-safety/power-outage-davenport-midamerican/526-35f2e47c-b69f-4370-8c79-e0b2db3ae0a6) [![](https://media.tegna-media.com/assets/WNEP/images/f47e35ac-6fbe-42b7-8fad-97c5eb5eb342/f47e35ac-6fbe-42b7-8fad-97c5eb5eb342_16x9.jpg) ![](https://media.tegna-media.com/assets/WNEP/images/f47e35ac-6fbe-42b7-8fad-97c5eb5eb342/f47e35ac-6fbe-42b7-8fad-97c5eb5eb342_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/power-outage-davenport-midamerican/526-35f2e47c-b69f-4370-8c79-e0b2db3ae0a6)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/2f5ebf5e-e1a6-4dbc-b8bc-e6c7df896fd5/20240913T222621/2f5ebf5e-e1a6-4dbc-b8bc-e6c7df896fd5_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/2f5ebf5e-e1a6-4dbc-b8bc-e6c7df896fd5/20240913T222621/2f5ebf5e-e1a6-4dbc-b8bc-e6c7df896fd5_360x203.jpg)](https://www.wqad.com/article/life/heartwarming/augustana-college-immigrant-naturalization-ceremony-us-citizens/526-6e2f38f9-6303-400c-8cda-40fc87680ca8)
+        #### [Thousands of power outages reported in Davenport Monday morning](https://www.wqad.com/article/news/local/public-safety/power-outage-davenport-midamerican/526-35f2e47c-b69f-4370-8c79-e0b2db3ae0a6)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/abae0728-cb54-414d-bb50-55aa2a5097a7/abae0728-cb54-414d-bb50-55aa2a5097a7_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/abae0728-cb54-414d-bb50-55aa2a5097a7/abae0728-cb54-414d-bb50-55aa2a5097a7_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/davenport-shooting-saturday-non-life-threatening-injuries/526-2d93fb4a-ff75-4450-90a0-d6ab6a1f010c)
         
-        #### [93 immigrants become citizens at Augustana College ceremony](https://www.wqad.com/article/life/heartwarming/augustana-college-immigrant-naturalization-ceremony-us-citizens/526-6e2f38f9-6303-400c-8cda-40fc87680ca8)
+        #### [Shooting in Davenport Saturday night injures 2 men](https://www.wqad.com/article/news/local/public-safety/davenport-shooting-saturday-non-life-threatening-injuries/526-2d93fb4a-ff75-4450-90a0-d6ab6a1f010c)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -86,7 +87,7 @@ Navigation
 
 Davenport, IA »
 
-63°
+85°
 
 ![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
