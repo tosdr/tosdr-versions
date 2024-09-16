@@ -2,15 +2,15 @@
 
 [![NHL logo](https://media.d3.nhle.com/image/private/t_q-best/prd/assets/nhl/logos/nhl_shield_wm_on_dark_fqkbph)](https://www.nhl.com/ "Go to NHL.com Homepage")[![NHL logo](https://media.d3.nhle.com/image/private/t_q-best/prd/assets/nhl/logos/nhl_shield_on_dark_kl1omz)](https://www.nhl.com/ "Go to NHL.com Homepage")
 
-* [Playoffs](https://www.nhl.com/playoffs/2024/bracket)
 * [News](https://www.nhl.com/news)
+* [Video](https://www.nhl.com/video)
 * [Scores](https://www.nhl.com/scores)
 
 Navigation Menu
 
 * [Schedule](https://www.nhl.com/schedule)
 * [Stats](https://www.nhl.com/stats)
-* [Video](https://www.nhl.com/video)
+* [Standings](https://www.nhl.com/standings)
 * [Players](https://www.nhl.com/player)
 * [Fantasy](https://www.nhl.com/fantasy)
 * [Community](https://www.nhl.com/community)
