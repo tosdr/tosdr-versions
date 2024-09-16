@@ -21,7 +21,7 @@
 * [Login](#)
 * [Request a demo](https://www.lifespeak.com/lp/request-a-demo/)
 
-* [Français](https://www.lifespeak.com/fr/)
+* [Français](https://www.lifespeak.com/fr/politique-de-confidentialite/)
 
 🎧 New Podcast [Finding joy and resilience as a caregiver](https://www.lifespeak.com/resource/finding-joy-and-resilience-as-a-high-needs-caregiver-a-conversation-with-michele-rosner/)
 
@@ -45,7 +45,7 @@
     * [Our Approach](https://www.lifespeak.com/what-we-offer/our-approach/)
 * [Contact](https://www.lifespeak.com/contact/)
 
-* [Français](https://www.lifespeak.com/fr/)
+* [Français](https://www.lifespeak.com/fr/politique-de-confidentialite/)
 
 * [Login](#)
 * [Request a demo](https://www.lifespeak.com/lp/request-a-demo/)
