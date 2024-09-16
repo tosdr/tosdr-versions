@@ -22,7 +22,7 @@ Welcome to the
 * Computing
 * Displays
 * Accessories
-* Discover Samsung Sale
+* SmartThings
 
 * Explore
 * Support
