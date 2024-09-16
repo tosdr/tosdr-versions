@@ -26,7 +26,9 @@
     
     Our daily coverage of the world of ideas](https://ideas.ted.com/)[Newsletters
     
-    Inspiration delivered straight to your inbox](https://www.ted.com/newsletters)
+    Inspiration delivered straight to your inbox](https://www.ted.com/newsletters)[TED Games
+    
+    Innovative games that challenge you to think differently](https://www.ted.com/games)
     
 * ATTEND
     
@@ -50,7 +52,7 @@
     
     Bring TED to the non-English speaking world](https://www.ted.com/participate/translate)[TED Fellows
     
-    Join or support innovators from around the globe](https://www.ted.com/participate/ted-fellows-program)
+    Join or support innovators from around the globe](https://fellows.ted.com/)
     
 * ABOUT
     
@@ -93,7 +95,7 @@ About  ›  [Our Organization](https://www.ted.com/about/our-organization) 
 Privacy Policy
 ==============
 
-Updated: March 1, 2024  
+Updated: July 10, 2024  
 
 **Introduction**  
 TED is a global community, welcoming people from every discipline and culture who seek a deeper understanding of the world. While gathering information about the people who use TED.com, our mobile apps, platforms and related sites (collectively referred to as “TED Sites”), we take your privacy very seriously and make every effort to safeguard your personal data. This privacy policy is intended to inform you of what information we collect, how this information is used and what steps we take to protect this information, as well as providing you a process to update, change or delete your personal data.  
@@ -178,7 +180,7 @@ When signing up as a subscriber to TED’s ad-free video content in TED’s iOS 
 
 ##### Member information
 
-When signing up as a member, you agree to donate the specified amount on TED.com. By making the donation, TED processes your payment through a secured third party provider and does not collect or store your payment information. We collect your personal information to manage, store and process member information, including your name and amount of donation so that we can provide a receipt of any donations above $250.00 and send you member related information such as benefits and virtual events.
+When signing up as a member, you agree to donate the specified amount on TED.com. By making the donation, TED processes your payment through a secured third party provider and does not collect or store your payment information. We collect your personal information to manage, store and process member information, including your name and amount of donation so that we can provide a receipt of any donations above $250.00 and send you member related information such as benefits and virtual events. In addition, we may provide your personal information such as emails to selected trusted partners to help us provide the benefits and specified options that are available to members, such as [Amazon](https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ), [Zoom](https://explore.zoom.us/en/privacy/), [Fundraise Up](https://fundraiseup.com/terms/) and/or other trusted providers that are provided personal information by TED for membership purposes. Privacy terms for their sites are available and are linked where indicated for further review.
 
 * * *
 
@@ -511,7 +513,7 @@ We do not knowingly collect personal information from children under 13 without 
 
 ##### Changes to this privacy policy
 
-This privacy policy may be updated from time to time, and when the policy is updated, the version date will appear at the top of this privacy policy. If we make material changes, you will be notified here for a period of 30 - 60 days based on our last update. As of July 2016, we added information to our privacy policy to define cookies and outline how we use this data to optimize our website based on your preferences, and made a change to our policy update section. As of May 2018, we added information to our privacy policy based on new requirements from GDPR, including more details pertaining to: what type of personal information TED collects, how TED uses this information and a process in which users can update their information. As of February, 2019, we added details on how TED uses cookies to help TED with targeted marketing on third party platforms, such as Facebook, as well as information on how to deactivate cookies when browsing the TED website based on industry tools and sites that help you personalize your settings with respect to cookies and advertising. As of September 13, 2019, we added details pertaining to the TED Masterclass app which collects information from users, and is separately available through an organizational license or directly for consumers via a platform where the TED Masterclass app is available. As of December, 2019, we added details pertaining to TED’s Countdown conference and launch. As of February 19, 2020, we added details pertaining to TED’s Red Circle community and hosting TED Circles. As of March 19, 2020, we added details regarding how TED enables users to find relevant videos on YouTube to integrate into TED Ed lessons and included Google’s privacy policy for information on how they process personal information. As of May 14, 2020, we updated the policy to include how we manage data with respect to subscriptions to TED, and TED’s online browser extension for the Healthy Internet Project. As of September 2, 2020, we updated the policy to include how we manage data with respect to donations by TED subscribers. As of December 6, 2020, we updated the policy to describe how we manage data with respect to social science research managed by TED. As of March 3, 2021, we added details on how TED uses cookies to help TED with targeted marketing on LinkedIn and updated how we collect data from individuals who sign up as a member to TED.com. As of September 8, 2021, we provided information related to TED’s membership communities that are powered by the Mighty Network platform, and included updates such as reference to their privacy policy and explained how we use data from this platform. As of January 10, 2022, we updated our policy to define how we collect information for our TED Courses beta program. As of March 3, 2022, TED updated our cookie disclosures and provide a new way for visitors of TED.com to adjust their privacy preferences. As of March 14 , 2022, we updated our Tracking Usage description to clarify how we collect and analyze data, including adding how we use pixels, share data with Mixpanel and how TED utilizes its own first party cookies to help us track usage on TED and update our communication disclosure to include collecting feedback from users of TED offerings. As of June 6, 2022, we updated our Personalization section to describe TED’s use of Sailthru, a third party vendor to help TED understand our users. As of July 29, 2022, TED has added language regarding TED’s use of personal data as it pertains to a legitimate business purpose as defined under GDPR, the General Data Protection Regulation. As of April 4, 2023, TED updated the "How we use your data" section to add "Learning about our community" explaining how we use the data provided by TED Community members to conduct research to help improve our fundraising efforts. As of July 5, 2023, TED updated the "Speaker community site (Red Circle)" section to "Speaker community (Red Circle)" as the digital platform is no longer in use. As of March 1, 2024, TED updated the Communications section to include a description that TED will send specific programmed newsletters to subscribers who provide their email address.
+This privacy policy may be updated from time to time, and when the policy is updated, the version date will appear at the top of this privacy policy. If we make material changes, you will be notified here for a period of 30 - 60 days based on our last update. As of July 2016, we added information to our privacy policy to define cookies and outline how we use this data to optimize our website based on your preferences, and made a change to our policy update section. As of May 2018, we added information to our privacy policy based on new requirements from GDPR, including more details pertaining to: what type of personal information TED collects, how TED uses this information and a process in which users can update their information. As of February, 2019, we added details on how TED uses cookies to help TED with targeted marketing on third party platforms, such as Facebook, as well as information on how to deactivate cookies when browsing the TED website based on industry tools and sites that help you personalize your settings with respect to cookies and advertising. As of September 13, 2019, we added details pertaining to the TED Masterclass app which collects information from users, and is separately available through an organizational license or directly for consumers via a platform where the TED Masterclass app is available. As of December, 2019, we added details pertaining to TED’s Countdown conference and launch. As of February 19, 2020, we added details pertaining to TED’s Red Circle community and hosting TED Circles. As of March 19, 2020, we added details regarding how TED enables users to find relevant videos on YouTube to integrate into TED Ed lessons and included Google’s privacy policy for information on how they process personal information. As of May 14, 2020, we updated the policy to include how we manage data with respect to subscriptions to TED, and TED’s online browser extension for the Healthy Internet Project. As of September 2, 2020, we updated the policy to include how we manage data with respect to donations by TED subscribers. As of December 6, 2020, we updated the policy to describe how we manage data with respect to social science research managed by TED. As of March 3, 2021, we added details on how TED uses cookies to help TED with targeted marketing on LinkedIn and updated how we collect data from individuals who sign up as a member to TED.com. As of September 8, 2021, we provided information related to TED’s membership communities that are powered by the Mighty Network platform, and included updates such as reference to their privacy policy and explained how we use data from this platform. As of January 10, 2022, we updated our policy to define how we collect information for our TED Courses beta program. As of March 3, 2022, TED updated our cookie disclosures and provide a new way for visitors of TED.com to adjust their privacy preferences. As of March 14 , 2022, we updated our Tracking Usage description to clarify how we collect and analyze data, including adding how we use pixels, share data with Mixpanel and how TED utilizes its own first party cookies to help us track usage on TED and update our communication disclosure to include collecting feedback from users of TED offerings. As of June 6, 2022, we updated our Personalization section to describe TED’s use of Sailthru, a third party vendor to help TED understand our users. As of July 29, 2022, TED has added language regarding TED’s use of personal data as it pertains to a legitimate business purpose as defined under GDPR, the General Data Protection Regulation. As of April 4, 2023, TED updated the "How we use your data" section to add "Learning about our community" explaining how we use the data provided by TED Community members to conduct research to help improve our fundraising efforts. As of July 5, 2023, TED updated the "Speaker community site (Red Circle)" section to "Speaker community (Red Circle)" as the digital platform is no longer in use. As of March 1, 2024, TED updated the Communications section to include a description that TED will send specific programmed newsletters to subscribers who provide their email address. As of July 10, 2024 we added that with respect to Member information, we intend to share certain information to provide benefits to members, including specific third party trusted vendors.
 
 ##### Deactivating your account and managing privacy settings
 
@@ -526,7 +528,7 @@ Explore
 
 * [TEDx](https://www.ted.com/about/programs-initiatives/tedx-program)
     
-* [TED Fellows](https://www.ted.com/about/programs-initiatives/ted-fellows-program)
+* [TED Fellows](https://fellows.ted.com/)
     
 * [TED Ed](https://www.ted.com/about/programs-initiatives/ted-ed)
     
@@ -549,7 +551,7 @@ Our community
 
 * [TED Speakers](https://www.ted.com/people/speakers)
     
-* [TED Fellows](https://www.ted.com/people/fellows)
+* [TED Fellows](https://fellows.ted.com/directory)
     
 * [TED Translators](https://www.ted.com/people/translators)
     
