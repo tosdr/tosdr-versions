@@ -6,9 +6,9 @@
 
 Log in  Remember me
 
-[](https://www.facebook.com/v2.2/dialog/oauth?client_id=1188063591229567&state=8e50b85dfb0086217ff4ccf24edce6eb&response_type=code&sdk=php-sdk-5.6.2&redirect_uri=https%3A%2F%2Fwww.autismdate.com%2Fjoin_facebook.php%3Fcmd%3Dfb_login&scope=email)
+[](https://www.facebook.com/v2.2/dialog/oauth?client_id=1188063591229567&state=6e6e54b5f64df94857e7f00a299d63c5&response_type=code&sdk=php-sdk-5.6.2&redirect_uri=https%3A%2F%2Fwww.autismdate.com%2Fjoin_facebook.php%3Fcmd%3Dfb_login&scope=email)
 
-[](https://www.autismdate.com/joeyclub09/photos "Joeyclub09")[](https://www.autismdate.com/graceamanda3488/photos "graceamanda3488")[](https://www.autismdate.com/charlie22/photos "Charlie22")[](https://www.autismdate.com/yang_roi_ha/photos "Yang Roi Ha")[](https://www.autismdate.com/amber_cruse/photos "Amber Cruse")
+[](https://www.autismdate.com/brians/photos "Brians")[](https://www.autismdate.com/joeyclub09/photos "Joeyclub09")[](https://www.autismdate.com/graceamanda3488/photos "graceamanda3488")[](https://www.autismdate.com/charlie22/photos "Charlie22")[](https://www.autismdate.com/yang_roi_ha/photos "Yang Roi Ha")
 
 Autism Date
 ===========
@@ -48,21 +48,21 @@ January February March April May June July August September October November Dec
 
 Man (looking for women) Woman (looking for men) Non-binair (looking for all genders) Man (looking for men) Woman (looking for women) Man (looking for all genders) Woman (looking for all genders) Non-binair (looking for women) Non-binair (looking for men)
 
-[](https://www.facebook.com/v2.2/dialog/oauth?client_id=1188063591229567&state=8e50b85dfb0086217ff4ccf24edce6eb&response_type=code&sdk=php-sdk-5.6.2&redirect_uri=https%3A%2F%2Fwww.autismdate.com%2Fjoin_facebook.php%3Fcmd%3Dfb_login&scope=email)
+[](https://www.facebook.com/v2.2/dialog/oauth?client_id=1188063591229567&state=6e6e54b5f64df94857e7f00a299d63c5&response_type=code&sdk=php-sdk-5.6.2&redirect_uri=https%3A%2F%2Fwww.autismdate.com%2Fjoin_facebook.php%3Fcmd%3Dfb_login&scope=email)
 
  I agree to the [Terms](#null) and [Privacy Policy](#null)
 
-[](https://www.facebook.com/v2.2/dialog/oauth?client_id=1188063591229567&state=8e50b85dfb0086217ff4ccf24edce6eb&response_type=code&sdk=php-sdk-5.6.2&redirect_uri=https%3A%2F%2Fwww.autismdate.com%2Fjoin_facebook.php%3Fcmd%3Dfb_login&scope=email)
+[](https://www.facebook.com/v2.2/dialog/oauth?client_id=1188063591229567&state=6e6e54b5f64df94857e7f00a299d63c5&response_type=code&sdk=php-sdk-5.6.2&redirect_uri=https%3A%2F%2Fwww.autismdate.com%2Fjoin_facebook.php%3Fcmd%3Dfb_login&scope=email)
 
  I agree to the [Terms](#null) and [Privacy Policy](#null)
 
-[](https://www.facebook.com/v2.2/dialog/oauth?client_id=1188063591229567&state=8e50b85dfb0086217ff4ccf24edce6eb&response_type=code&sdk=php-sdk-5.6.2&redirect_uri=https%3A%2F%2Fwww.autismdate.com%2Fjoin_facebook.php%3Fcmd%3Dfb_login&scope=email)
+[](https://www.facebook.com/v2.2/dialog/oauth?client_id=1188063591229567&state=6e6e54b5f64df94857e7f00a299d63c5&response_type=code&sdk=php-sdk-5.6.2&redirect_uri=https%3A%2F%2Fwww.autismdate.com%2Fjoin_facebook.php%3Fcmd%3Dfb_login&scope=email)
 
  I agree to the [Terms](#null) and [Privacy Policy](#null)
 
 Register now!
 
-[](https://www.facebook.com/v2.2/dialog/oauth?client_id=1188063591229567&state=8e50b85dfb0086217ff4ccf24edce6eb&response_type=code&sdk=php-sdk-5.6.2&redirect_uri=https%3A%2F%2Fwww.autismdate.com%2Fjoin_facebook.php%3Fcmd%3Dfb_login&scope=email)
+[](https://www.facebook.com/v2.2/dialog/oauth?client_id=1188063591229567&state=6e6e54b5f64df94857e7f00a299d63c5&response_type=code&sdk=php-sdk-5.6.2&redirect_uri=https%3A%2F%2Fwww.autismdate.com%2Fjoin_facebook.php%3Fcmd%3Dfb_login&scope=email)
 
 * * *
 
@@ -77,7 +77,7 @@ Forgot password?
 
 Log in
 
-[](https://www.facebook.com/v2.2/dialog/oauth?client_id=1188063591229567&state=8e50b85dfb0086217ff4ccf24edce6eb&response_type=code&sdk=php-sdk-5.6.2&redirect_uri=https%3A%2F%2Fwww.autismdate.com%2Fjoin_facebook.php%3Fcmd%3Dfb_login&scope=email)
+[](https://www.facebook.com/v2.2/dialog/oauth?client_id=1188063591229567&state=6e6e54b5f64df94857e7f00a299d63c5&response_type=code&sdk=php-sdk-5.6.2&redirect_uri=https%3A%2F%2Fwww.autismdate.com%2Fjoin_facebook.php%3Fcmd%3Dfb_login&scope=email)
 
 Forgot password?
 
