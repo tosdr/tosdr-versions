@@ -27,9 +27,9 @@
         * [Guides](https://illumin.com/insights/guides/)
         * [Events](https://illumin.com/insights/events/)
         * [Podcasts & Webinars](https://illumin.com/insights/podcasts-webinars/)
-    * ![What is the difference between offline and online retail media?](https://illumin.com/wp-content/uploads/2024/09/in-store-or-offline-retail-media-1-263x300.jpg)
+    * ![The right and wrong ways to use AI to grow your brand: a marketers guide](https://illumin.com/wp-content/uploads/2023/09/right-and-wrong-ways-to-use-AI-1-263x300.jpg)
         
-        What is the difference between offline and online retail media?[Read More](https://illumin.com/insights/blog/offline-and-online-retail-media/)
+        The right and wrong ways to use AI to grow your brand: a marketers guide[Read More](https://illumin.com/insights/blog/right-and-wrong-ways-to-use-ai/)
         
 * [Company](#)
     * [Company](#)
