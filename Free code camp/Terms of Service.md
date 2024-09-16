@@ -9,10 +9,6 @@ May 25, 2018 / [#freeCodeCamp.org](https://terms-of-service.freecodecamp.org/new
 freeCodeCamp's Terms of Service
 ===============================
 
-![freeCodeCamp](https://cdn.hashnode.com/res/hashnode/image/upload/v1712072540742/C7c8AOPN6.png)
-
-[freeCodeCamp](https://terms-of-service.freecodecamp.org/news/author/freeCodeCamp/)
-
   ![freeCodeCamp's Terms of Service](https://cdn-media-2.freecodecamp.org/w1280/5f9cad5c740569d1a4ca9ee5.jpg)
 
 These terms govern use of the website [https://www.freecodecamp.org](https://www.freecodecamp.org/). To use the website, you must agree to these terms with Free Code camp, Inc., the nonprofit company that runs the website.
@@ -205,14 +201,6 @@ ADVERTISEMENT
 ADVERTISEMENT
 
 ADVERTISEMENT
-
-* * *
-
-![freeCodeCamp](https://cdn.hashnode.com/res/hashnode/image/upload/v1712072540742/C7c8AOPN6.png)
-
-[freeCodeCamp](https://terms-of-service.freecodecamp.org/news/author/freeCodeCamp/)
-
-Learn to code. Build projects. Earn certifications—All for free.
 
 * * *
 
