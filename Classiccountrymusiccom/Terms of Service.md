@@ -96,9 +96,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/traditional) [See All](https://classiccountrymusic.com/genre/traditional)
 
-* [Dolly Parton’s New Chardonnay Is Now...](https://classiccountrymusic.com/dolly-partons-new-chardonnay-is-now-available-nationwide/)
-* [Reba Says She Never Wanted to...](https://classiccountrymusic.com/reba-says-she-never-wanted-to-meet-merle-haggard/)
-* [Lee Greenwood Sings “God Bless The...](https://classiccountrymusic.com/lee-greenwood-sings-god-bless-the-usa-to-a-full-yankee-stadium/)
+* [John Michael Montgomery Reacts To His...](https://classiccountrymusic.com/john-michael-montgomery-reacts-to-his-sons-remake-of-i-love-the-way-you-love-me/)
+* [Tommy Cash, Brother of Johnny Cash,...](https://classiccountrymusic.com/tommy-cash-brother-of-johnny-cash-dead-at-84/)
+* [John Michael Montgomery’s Son Remakes His...](https://classiccountrymusic.com/john-michael-montgomerys-son-remakes-his-dads-1994-hit-i-love-the-way-you-love-me/)
 
 ![bluegrass](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
