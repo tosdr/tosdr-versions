@@ -9,10 +9,6 @@ Privacy Policy
 
 Please take a moment to read our privacy policy
 
-**🚨 Limited-Time Offer: Get 30% MORE CREDITS on ANY Purchase! 🚨**  
-. Get 30% extra credits with every purchase! Don't miss out on this exclusive deal—stock up on credits now.  
-👉 [Click here to buy credits](https://topg.org/buy_credits) and claim your bonus before time runs out!
-
 TOPG is owned by SPREADBEYOND LTD and is registered and approved by ANSPDCP (National Supervisory Authority for Personal Data Processing) under no. registration 32985. We have also made all required changes to be in accordance with the EU GDPR Regulations.  
   
 **Information note on personal data protection**  
