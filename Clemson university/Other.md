@@ -171,7 +171,7 @@ Clemson University
     * [Research Facilities](https://www.clemson.edu/research/facilities.html)
     * [Postdoctoral Affairs](https://www.clemson.edu/research/post-docs/)
     * [Serving South Carolina Through Research](https://www.clemson.edu/research/serving-our-state.html)
-    * [School of Health Research](https://www.clemson.edu/health-research/)
+    * [Clemson University School of Health Research (CUSHR)](https://www.clemson.edu/health-research/)
     
     ### Public Service and Agriculture
     
@@ -383,7 +383,7 @@ Forward Arrow Icon Back Arrow Icon Back
     * [Research Facilities](https://www.clemson.edu/research/facilities.html)
     * [Postdoctoral Affairs](https://www.clemson.edu/research/post-docs/)
     * [Serving South Carolina Through Research](https://www.clemson.edu/research/serving-our-state.html)
-    * [School of Health Research](https://www.clemson.edu/health-research/)
+    * [Clemson University School of Health Research (CUSHR)](https://www.clemson.edu/health-research/)
     
     Public Service and Agriculture
     ------------------------------
