@@ -66,13 +66,15 @@ Resources
 
 [For Professionals](https://www.squarespace.com/circle)
 
+[Pricing](https://www.squarespace.com/pricing)
+
 [Log In](https://account.squarespace.com/) [Log Out](https://www.squarespace.com/)
 
 [Get started](https://www.squarespace.com/templates)
 
 [Squarespace Logo](https://www.squarespace.com/)
 
-Products [Templates](https://www.squarespace.com/templates) Resources
+Products [Templates](https://www.squarespace.com/templates) Resources [Pricing](https://www.squarespace.com/pricing)
 
 [Log In](https://account.squarespace.com/)
 
