@@ -170,6 +170,7 @@ Home of the Terrapins, the University of Maryland has one of the nation’s most
 * [Health Center](http://health.umd.edu/)
 * [Memorial Chapel](https://stamp.umd.edu/centers/memorial_chapel)
 * [Off-Campus Housing](http://och.umd.edu/)
+* [Residential Facilities](https://drf.umd.edu/)
 * [Resident Life](http://reslife.umd.edu/)
 * [Stamp Student Union](http://thestamp.umd.edu/)
 * [Student Affairs](http://studentaffairs.umd.edu/)
