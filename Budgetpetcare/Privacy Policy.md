@@ -45,8 +45,8 @@
 * [Hygiene](https://www.budgetpetcare.com/hygiene-supplies-109.aspx)
     * [Oral](https://www.budgetpetcare.com/hygiene-oral-treatment-141.aspx)
     * [Aural](https://www.budgetpetcare.com/hygiene-aural-treatment-142.aspx)
+* [New Arrivals](https://www.budgetpetcare.com/new-arrivals.aspx)
 * Special Offer
     * [**Latest Offers**](https://www.budgetpetcare.com/sale.aspx)
-    * [New Arrivals](https://www.budgetpetcare.com/new-arrivals.aspx)
     * [**Cat Month Sale**](https://www.budgetpetcare.com/seasonal-offers.aspx)
     * [**Flash Sale**](https://www.budgetpetcare.com/flash-offers.aspx)
