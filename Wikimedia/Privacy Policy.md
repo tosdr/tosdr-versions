@@ -60,6 +60,8 @@ Search
 
 * [English](#)
 
+ Appearance
+
 * [Log in](https://foundation.wikimedia.org/w/index.php?title=Special:UserLogin&returnto=Policy%3APrivacy+policy "You are encouraged to log in; however, it is not mandatory [o]")
 
  Personal tools
@@ -190,6 +192,10 @@ Print/export
 * [Printable version](https://foundation.wikimedia.org/w/index.php?title=Policy:Privacy_policy&printable=yes "Printable version of this page [p]")
 
 In other projects
+
+Appearance
+
+move to sidebar hide
 
 From Wikimedia Foundation Governance Wiki
 
@@ -855,5 +861,3 @@ Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Priva
 
 * [![Wikimedia Foundation](/static/images/footer/wikimedia-button.svg)](https://wikimediafoundation.org/)
 * [![Powered by MediaWiki](/w/resources/assets/poweredby_mediawiki.svg)](https://www.mediawiki.org/)
-
-* Toggle limited content width
