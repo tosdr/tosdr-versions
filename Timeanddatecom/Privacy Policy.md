@@ -1,4 +1,8 @@
+[Sep 17–18](https://www.timeanddate.com/eclipse/lunar/2024-september-18)
+
 [](https://www.timeanddate.com/ "Home page timeanddate.com")
+
+[](https://www.timeanddate.com/eclipse/lunar/2024-september-18)
 
 [![timeanddate.com](//c.tadst.com/gfx/n/logo/logo-2021--horizontal-inverted-darkbg.svg)](https://www.timeanddate.com/ "Home page timeanddate.com")
 
