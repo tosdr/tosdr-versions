@@ -189,10 +189,12 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Families of lost soldiers.](https://cdn.returningveterans.org/images/honor/flag_generic_wall_of_honor.jpg)  
+![Sergeant Delmas G. Akers](https://cdn.returningveterans.org/images/honor/Delmas_Akers_2.jpg)  
 
-**In Honor of Families of lost soldiers.**  
-Submitted by Abe Cohen](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Memory of Sergeant Delmas G. Akers**  
+United States Air Force  
+United States Army  
+Submitted by Monte Akers](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -239,5 +241,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 ![](https://dc.ads.linkedin.com/collect/?pid=576569&fmt=gif)
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 9/13/24 - 10:38:39  
+Printed 9/16/24 - 9:49:51  
 © 2024 Returning Veterans Project
