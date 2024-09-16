@@ -90,7 +90,7 @@
     * [Hospital Management Software](https://wa.me/917060371701)
     * [LMS Solutions](https://wa.me/917060371701)
     * [Clone Solutions](https://wa.me/917060371701)
-    * [Get Premium Pitch Deck](https://pitchdeckcreator.pages.dev/)
+    * [Get Premium Pitch Deck](https://pitchdeckmakers.liveupx.com/)
     * [Get FREE AI ChatBot](https://widgetx.site/)
     * [Get Widgets for Your Website](https://widgetx.site/)
 
