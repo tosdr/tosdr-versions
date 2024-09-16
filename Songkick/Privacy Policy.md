@@ -3,12 +3,14 @@
         
         [Jersey City concerts](https://www.songkick.com/metro-areas/4690-us-jersey-city) [Jersey City concerts](https://www.songkick.com/metro-areas/4690-us-jersey-city "Jersey City concerts")
         
+        *  [![Lucinda Williams Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Lucinda Williams  
+            White Eagle Hall](https://www.songkick.com/concerts/42164992-lucinda-williams-at-white-eagle-hall)
         *  [![The Dracu-Las (NJ) Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) The Dracu-Las (NJ)  
             White Eagle Hall](https://www.songkick.com/concerts/42140044-draculas-nj-at-white-eagle-hall)
         
         [](https://www.songkick.com/metro-areas/4690-us-jersey-city)See all Jersey City concerts ([Change location](https://www.songkick.com/session/filter_metro_area))  
           
-        [Today ·](https://www.songkick.com/en/metro-areas/4690-us-jersey-city?filters%5BmaxDate%5D=09%2F13%2F2024&filters%5BminDate%5D=09%2F13%2F2024#date-filter-form) [Next 7 days ·](https://www.songkick.com/en/metro-areas/4690-us-jersey-city?filters%5BmaxDate%5D=09%2F20%2F2024&filters%5BminDate%5D=09%2F13%2F2024#date-filter-form) [Next 30 days](https://www.songkick.com/en/metro-areas/4690-us-jersey-city?filters%5BmaxDate%5D=10%2F13%2F2024&filters%5BminDate%5D=09%2F13%2F2024#date-filter-form)
+        [Today ·](https://www.songkick.com/en/metro-areas/4690-us-jersey-city?filters%5BmaxDate%5D=09%2F16%2F2024&filters%5BminDate%5D=09%2F16%2F2024#date-filter-form) [Next 7 days ·](https://www.songkick.com/en/metro-areas/4690-us-jersey-city?filters%5BmaxDate%5D=09%2F23%2F2024&filters%5BminDate%5D=09%2F16%2F2024#date-filter-form) [Next 30 days](https://www.songkick.com/en/metro-areas/4690-us-jersey-city?filters%5BmaxDate%5D=10%2F16%2F2024&filters%5BminDate%5D=09%2F16%2F2024#date-filter-form)
         
     * [Artists](https://www.songkick.com/artists)
         
@@ -29,8 +31,8 @@
         *  [![dublon Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) dublon](https://www.songkick.com/artists/10349544-dublon)
         *  [![Oasis Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Oasis](https://www.songkick.com/artists/548892-oasis)
         *  [![Scarlet House Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Scarlet House](https://www.songkick.com/artists/10349081-scarlet-house)
-        *  [![Rangga Jones Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Rangga Jones](https://www.songkick.com/artists/10347902-rangga-jones)
         *  [![VALORANT Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) VALORANT](https://www.songkick.com/artists/10347901-valorant)
+        *  [![ASTRØ Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) ASTRØ](https://www.songkick.com/artists/10348173-astro)
         
         Get your tour dates seen by one billion fans: [Sign up as an artist](https://tourbox.songkick.com/?utm_medium=referral&utm_source=songkick.com&utm_campaign=visitor)
         
