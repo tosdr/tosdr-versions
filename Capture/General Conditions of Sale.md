@@ -1,6 +1,6 @@
 [Skip to content](#MainContent)
 
-[SIGN UP OFFER: Unlock 40% OFF your entire order today! Prices start at just $17.99](#)
+[SIGN UP OFFER: Unlock 45% OFF your entire order today! Prices start at just $16.50](#)
 
      
 
