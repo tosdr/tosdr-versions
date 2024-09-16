@@ -4,7 +4,7 @@
 
 ![logo](/_next/static/media/logo-reason-labs.884f8136.svg)](https://www.reasonsecurity.com/)
 
-* Platform
+* Pricing
 * Resources
 * [Company](https://www.reasonsecurity.com/company)
 * Threat Intelligence
