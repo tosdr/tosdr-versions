@@ -46,6 +46,7 @@ Menu [![VORO MOTORS](//www.voromotors.com/cdn/shop/files/logo_white_410x.png?v=1
 * [Accessories](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/accessories)
     * [EMOVE](https://www.voromotors.com/collections/emove-accessories-and-parts/accessories)
         * [Cruiser](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/emove-cruiser+accessories)
+        * [Cruiser V2](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/emove-cruiser-v2+accessories)
         * [Touring](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/emove-touring+accessories)
         * [RoadRunner SE](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/emove-roadrunner-se+accessories)
         * [RoadRunner](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/emove-roadrunner+accessories)
@@ -59,8 +60,9 @@ Menu [![VORO MOTORS](//www.voromotors.com/cdn/shop/files/logo_white_410x.png?v=1
         * [Mantis King GT](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/kaabo-mantis-king-gt+accessories)
     * [Inmotion](https://www.voromotors.com/collections/inmotion-accessories-and-parts)
         * [RS Midnight](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/inmotion-rs+accessories)
+        * [Climber](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/inmotion-climber+accessories)
     * [Others](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/accessories)
-        * [E Ride Pro SS](https://www.voromotors.com/collections/eride-pro-ss-parts-and-accessories/accessories)
+        * [E Ride Pro SS](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/eride-pro-ss-19+accessories)
         * [Fiido](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/fiido-q1s+accessories)
         * [Dualtron](https://www.voromotors.com/collections/dualtron-accessories-and-parts/accessories)
         * [Safety Gear](https://www.voromotors.com/collections/safety-gear)
@@ -235,6 +237,7 @@ Continue Shopping
 * [EMOVE](https://www.voromotors.com/collections/emove-accessories-and-parts/accessories)
 
 * [Cruiser](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/emove-cruiser+accessories)
+* [Cruiser V2](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/emove-cruiser-v2+accessories)
 * [Touring](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/emove-touring+accessories)
 * [RoadRunner SE](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/emove-roadrunner-se+accessories)
 * [RoadRunner](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/emove-roadrunner+accessories)
@@ -252,10 +255,11 @@ Continue Shopping
 * [Inmotion](https://www.voromotors.com/collections/inmotion-accessories-and-parts)
 
 * [RS Midnight](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/inmotion-rs+accessories)
+* [Climber](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/inmotion-climber+accessories)
 
 * [Others](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/accessories)
 
-* [E Ride Pro SS](https://www.voromotors.com/collections/eride-pro-ss-parts-and-accessories/accessories)
+* [E Ride Pro SS](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/eride-pro-ss-19+accessories)
 * [Fiido](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/fiido-q1s+accessories)
 * [Dualtron](https://www.voromotors.com/collections/dualtron-accessories-and-parts/accessories)
 * [Safety Gear](https://www.voromotors.com/collections/safety-gear)
