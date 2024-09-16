@@ -1,4 +1,4 @@
-[Viator - A TripAdvisor Company: Extra $50 off when you spend $550 on your next travel experience. Terms apply + 10% Cash Back
+[Viator - A TripAdvisor Company: Save up to 30% off your next summer travel experience + 10% Cash Back
 
 Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/viator?store=viator&sourceName=sitewide-sticky-header)
 
