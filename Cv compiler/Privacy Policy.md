@@ -1735,6 +1735,8 @@ What do top resumes look like? Check out these expertly-written samples:
 
 [Entry-Level Brand Ambassador](https://cvcompiler.com/entry-level-brand-ambassador-resume-examples)
 
+[Research Associate](https://cvcompiler.com/research-associate-resume-examples)
+
 ![Upload resume illustration](uploads-pre-acq/img/upload-illustration.svg)
 
 ### Upload  
