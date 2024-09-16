@@ -508,7 +508,7 @@ Impact Powered by:
 
 **Empowering entrepreneurship to build the local economy** 
 
-TBD
+Learn how Wilmington Alliance utilized technology to address inequity within its borders.
 
 [Read their story onEmpowering entrepreneurship to build the local economy](https://www.everyaction.com/case-studies/empowering-entrepreneurship-build-local-economy) 
 
