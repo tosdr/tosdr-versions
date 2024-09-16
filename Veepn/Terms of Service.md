@@ -1,4 +1,4 @@
-[![veepn home](/assets/89e68a4f/images/logo-main.svg)](https://veepn.com/)
+[![veepn home](/assets/dffb5ff2/images/logo-main.svg)](https://veepn.com/)
 
 * VPN Apps
     
@@ -82,7 +82,7 @@
 
 [Get VeePN Now](https://order.veepn.com/pricing/)
 
-![en language](/assets/89e68a4f/images/flags/en.svg) en
+![en language](/assets/dffb5ff2/images/flags/en.svg) en
 
 *  [Українська](https://veepn.com/uk/terms-of-service/)
 *  [Deutsch](https://veepn.com/de/terms-of-service/)
@@ -187,6 +187,8 @@ Refunds are generally processed within ten (10) working days. The payment provid
 Any change to the original purchase, such as upgrading to an extended billing term or purchasing of additional licenses under the same account, shall constitute a waiver of the Money Back Guarantee option.
 
 You can only get a refund for our Services once. If your subscription has been rebilled, or was canceled and later renewed, it is considered to be non-refundable. No refunds will be considered for accounts terminated for violation of these Terms.
+
+All fees associated with discounted trials are strictly non-refundable. By signing up for a discounted trial, you explicitly acknowledge and agree that the fee for the trial is non-refundable under any circumstances. This means that even if you choose to cancel your subscription before the trial period ends, the fee you paid for the discounted trial will not be returned to you. Please note that general refund rules do not apply to discounted trial fees.
 
 Our Support Team at [\[email protected\]](https://veepn.com/cdn-cgi/l/email-protection) will be happy to help you with the refund request. It's obligatory to contact the Support Team with the same email address that you used for registration, otherwise the refund procedure will not be started.
 
@@ -353,7 +355,9 @@ All notices to you relating to these Terms shall be notified to you either via t
 
 Please submit any notices to us with respect to the Service or these Terms via [\[email protected\]](https://veepn.com/cdn-cgi/l/email-protection).
 
-[![veepn home](/assets/89e68a4f/images/logo-main.svg)](https://veepn.com/)
+Last updated: September 13, 2024
+
+[![veepn home](/assets/dffb5ff2/images/logo-main.svg)](https://veepn.com/)
 
 Products
 
