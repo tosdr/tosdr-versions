@@ -240,16 +240,13 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
   
 Please check back frequently to see any updates or changes to our privacy policy.
 
-![Free for Open Source Projects](/content/images/content/strip/IDN.png)
+#### Ready to get started?
 
   
+Sign up for a free dynamic DNS account, no credit card needed  
   
-
-### DNS for IDNs is fully supported
-
-If you are looking for a DNS provider for an International Domain Name, you are welcome here.  
+[Sign Up for Free](https://www.dynu.com/ControlPanel/CreateAccount)  
   
-[Get Started](https://www.dynu.com/ControlPanel/AddDDNS)
 
 ### News
 
