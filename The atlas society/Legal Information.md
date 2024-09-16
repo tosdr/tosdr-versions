@@ -2,7 +2,7 @@
 
 [Atlas University](https://www.atlassociety.org/atlas-university)
 
-[Galt's Gulch](https://www.atlassociety.org/galts-gulch)[Bring Us to Your Campus](https://www.atlassociety.org/atlas-university/bring-us-to-your-campus)[Atlas Intellectuals](https://www.atlassociety.org/atlas-university/atlas-intellectuals)
+[Galt's Gulch 2025](https://www.atlassociety.org/galts-gulch-2025)[Bring Us to Your Campus](https://www.atlassociety.org/atlas-university/bring-us-to-your-campus)[Atlas Intellectuals](https://www.atlassociety.org/atlas-university/atlas-intellectuals)
 
 [Morals and Markets](https://www.atlassociety.org/atlas-university/morals-and-markets)
 
