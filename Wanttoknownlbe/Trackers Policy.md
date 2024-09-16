@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/meelezen/its-got-to-be-perfect/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/9-11/ken-je-dr-robert-bowman-officier-en-911-patriot/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
@@ -88,31 +88,31 @@ Inschrijven
 
 #### Quote van de week
 
-> Voordat je iemand beoordeelt op zijn agressie, vraag naar diens pijn
+> De analfabeten van de 21e eeuw zullen niet degenen zijn die niet kunnen lezen en schrijven, maar degenen die niet kunnen leren, afleren en opnieuw leren.
 > 
-> Carl Gustav Jung (1875-1961), psychiater/psycholoog
+> Alvin Toffler (1928-2016), publicist/futoroloog
 
 #### WantToKnow Aanbieding
 
-![](https://i0.wp.com/www.wanttoknow.nl/wp-content/uploads/242018170033_zoom-e1622637308367.jpg?fit=419%2C440&ssl=1)
-
-### [Cadeautip: De Magische Flower of Life…](https://www.wanttoknow.nl/aanbieding/cadeautip-de-magische-flower-of-life-2/)
-
-[– Let op! Aanbieding geldig t/m 12 september! – Het patroon van de ‘Flower of Life’ of ‘Levensbloem’ toont de blauwdruk van de schepping. Het symbool werd en wordt gevonden in vrijwel alle oude culturen, en in bijvoorbeeld Hindoetempels in India, in het Oude Griekenland, China, Japan en Israël is het symbool te vinden in oude tempels, synagogen en in Mesada. . In Egypte is de Flower of Life te zien in bijvoorbeeld de tempel van Abydos. Daar werden de 19 basiscirkels van het symbool gevonden. Wij vonden voor jou een aantal bijzondere ‘Flower-of-Life’ producten, die wij zelf importeren van onze buitenlandse producent. Zo kan je het universele levenssymbool (zoals boven is beschreven) opnemen in jouw dagelijkse leven. Elk artikel wordt met de hand gemaakt in een atelier op Bali. Wees er snel bij, want de vorige keer waren ze snel uitverkocht..! …](https://www.wanttoknow.nl/aanbieding/cadeautip-de-magische-flower-of-life-2/)
-
-[Order now](https://www.wanttoknow.nl/aanbieding/cadeautip-de-magische-flower-of-life-2/#pt-field-text-5)
-
-[![Energetische atlasprofilax](https://www.wanttoknow.nl/wp-content/uploads/Atlas-banner2.jpg)](https://lucardie.eu/de-energetische-atlascorrectieeen-nieuwe-balans/)
-
-#### WantToKnow Aanbieding
-
-![](https://i0.wp.com/www.wanttoknow.nl/wp-content/uploads/buy-elite-shungite-wholesale-800x800.jpg?fit=440%2C440&ssl=1)
+![](https://i0.wp.com/www.wanttoknow.nl/wp-content/uploads/ruwe-elite-shungit.jpg?fit=477%2C440&ssl=1)
 
 ### [Weer beschikbaar: ‘Elite’ Shungiet & Tibetaans Bergkristal!](https://www.wanttoknow.nl/aanbieding/eindelijk-weer-beschikbaar-elite-shungiet-tibetaans-bergkristal-balans-in-jezelf-balans-om-je-heen/)
 
 [– Let op! Aanbieding geldig t/m 19 september. – We zijn ontzettend blij dat we deze Shungiet aanbieding weer kunnen doen! Shungiet is maar op één plek in de wereld te vinden: in Rusland en je weet; import en export is nu dus extreem moeilijk! De enige plek ter wereld waar het gevonden wordt, Shun’ga (Шуньга) ligt aan een groot meer oostelijk van Finland. Shungiet is uniek, omdat het bijna volledig uit een zeldzame ‘Fullereen’ ofwel ‘Buckyball’-carbon (koolstof) bestaat.. Bijzonder, fascinerend materiaal! Lees snel verder voor alle info en hoe je Shungiet ontstorend kunt gebruiken in je dagelijks leven. We vullen deze aanbieding van Elite Shungiet aan, met Tibetaans bergkristal; hoog energetisch en perfect complementair bij Elite Shungiet. Energetische professionals weten: Elite Shungiet maakt een schone lei in huis, waarna de schone energie (weer) kan stromen. Met behulp van deze unieke Tibet Bergkristal! Verspreid Shungiet én Tibetaans bergkristal door je leefwereld, dat klaart de boel energetisch op! In dit artikel de werking van beiden complementaire edelstenen én ontdek je de zeer scherpe prijzen die we voor je hebben afgesproken! Lees dus snel verder. …](https://www.wanttoknow.nl/aanbieding/eindelijk-weer-beschikbaar-elite-shungiet-tibetaans-bergkristal-balans-in-jezelf-balans-om-je-heen/)
 
 [Order now](https://www.wanttoknow.nl/aanbieding/eindelijk-weer-beschikbaar-elite-shungiet-tibetaans-bergkristal-balans-in-jezelf-balans-om-je-heen/#pt-field-text-5)
+
+[![Energetische atlasprofilax](https://www.wanttoknow.nl/wp-content/uploads/Atlas-banner2.jpg)](https://lucardie.eu/de-energetische-atlascorrectieeen-nieuwe-balans/)
+
+#### WantToKnow Aanbieding
+
+![](https://i0.wp.com/www.wanttoknow.nl/wp-content/uploads/carneool-op-arm.jpg?fit=440%2C440&ssl=1)
+
+### [Krachtige edelsteen voor krachtige mannen!](https://www.wanttoknow.nl/aanbieding/krachtige-edelsteen-voor-krachtige-mannen/)
+
+[– Let op! Aanbieding geldig t/m 26 september – Jammer dat zo weinig mannen sieraden dragen; van oudsher is het horloge of de manchetknoop de enige ‘propere’ manier waarop de man een ‘kunstwerkj’ op het lichaam kon dragen. Om schoonheid, het lichaam en het leven te vieren. Veel van de 2024-mannen zijn uit de drukkende matrix van ‘grijs machismo’ aan het breken. Heb je het deze zomer ook gezien? Een mannelijk sieraad is steeds populairder! Natuurlijk helemaal mooi als zo’n fraaie armband is gemaakt van energetisch-werkzame edelsteen! Dus een sieraad voor het oog, en stimulans voor de energiehuisbalans en de chakras! Wij vonden deze bijzondere, handgemaakte en stoer esthetische, prachtige edelsteen-armbanden, die we met een Nederlandse edelstenenexpert selecteerden. Neem eenvoudig de kracht van edelstenen op in je dagelijkse leven. Wees er snel bij, de sieradenreservering zal snel uitverkocht zijn, zo is de verwachting..! Speciaal geselecteerd & zolang de voorraad strekt! …](https://www.wanttoknow.nl/aanbieding/krachtige-edelsteen-voor-krachtige-mannen/)
+
+[Order now](https://www.wanttoknow.nl/aanbieding/krachtige-edelsteen-voor-krachtige-mannen/#pt-field-text-5)
 
 [![BRES #347](https://www.wanttoknow.nl/wp-content/uploads/BRES-347.jpg)](https://bresmagazine.nl/publicaties/)
 
@@ -128,9 +128,9 @@ by [GuidoJ.](https://www.wanttoknow.nl/author/guido/) Posted on [10 juni 2024](h
 
 Posted in [Boeken](https://www.wanttoknow.nl/dossiers/boeken/) Tagged [Corona](https://www.wanttoknow.nl/trefwoorden/corona/), [Duurzaam](https://www.wanttoknow.nl/trefwoorden/duurzaam/), [Farmacie](https://www.wanttoknow.nl/trefwoorden/farmacie/), [Gezondheid](https://www.wanttoknow.nl/trefwoorden/gezondheid/), [Machtselite](https://www.wanttoknow.nl/trefwoorden/machtselite/), [Media](https://www.wanttoknow.nl/trefwoorden/media/), [Vaccinaties](https://www.wanttoknow.nl/trefwoorden/vaccinaties/), [wereldorde](https://www.wanttoknow.nl/trefwoorden/wereldorde/), [Wetenschap](https://www.wanttoknow.nl/trefwoorden/wetenschap/) [Laat een reactie achter](https://www.wanttoknow.nl/boeken/einde-aan-de-omgekeerde-wereld-van-geneeskunde/#respond)
 
-![](https://i0.wp.com/www.wanttoknow.nl/wp-content/uploads/take-a-look-mirror-spiegelbeeld-bedelaar-beggar.jpg?fit=502%2C652&ssl=1)
+![](https://i0.wp.com/www.wanttoknow.nl/wp-content/uploads/celft-blauw-kritische-vraag.jpg?fit=396%2C396&ssl=1)
 
-### De bedelaars-confrontatie
+### Kritisch blijven in deze tijd
 
 #### Meelezen, meeleven
 
@@ -151,6 +151,14 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 * [Last 8](#first)
 * [9 - 16](#second)
 * [17 - 24](#third)
+
+![inhetmeer](https://secure.gravatar.com/avatar/e59606caac6119e46905799cf0c15cc3?s=50&d=identicon&r=g)
+
+##### **inhetmeer** reacts on:
+
+##### MH17 en de waarheidsvinding over deze aanslag…
+
+[Ik heb die foto's nog gezien met die reeksen kogelgaten in d…](https://www.wanttoknow.nl/politiek/valse-vlag-operaties/mh17-en-de-waarheidsvinding-over-deze-aanslag/comment-page-1/#comment-626327)
 
 ![robvdz](https://secure.gravatar.com/avatar/1a031a4277be07cef6901ec8e8af995b?s=50&d=identicon&r=g)
 
@@ -400,14 +408,6 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 
 [Dank voor je ondersteunende woorden!…](https://www.wanttoknow.nl/politiek/who-pandemie-verdrag-volledig-gammel/comment-page-1/#comment-626291)
 
-![ElIza](https://secure.gravatar.com/avatar/f0ed9aba6e2a1eac0dc392ca8087ca24?s=50&d=identicon&r=g)
-
-##### **ElIza** reacts on:
-
-##### Hoe Pia Dijkstra (D66) de TweedeKamer en NL-volk MINACHT..!!
-
-[Belangrijke update... Ervan uitgegaan dat ons duidelijk "NEE…](https://www.wanttoknow.nl/gezondheid/hoe-pia-dijkstra-d66-de-tweedekamer-en-nl-volk-minacht/comment-page-1/#comment-626290)
-
 [![VaccinVrij banner](https://www.wanttoknow.nl/wp-content/uploads/stichting-vaccin-vrij-banner.jpg)](https://stichtingvaccinvrij.nl/)
 
 Advertentie
@@ -418,10 +418,10 @@ Advertentie
 
 ### WantToKnow-poll
 
-#### Voor mijn gevoel is de chaos in Europa vooral het gevolg/de voorbereiding van het uitrollen van de WEF-agenda. 'Building back, better'..
+#### Ik zou op Donald Trump stemmen, als ik mocht stemmen in de VS-presidentsverkiezingen
 
-*  Eens
-*  Oneens
+*  JA
+*  NEE
 *  Geen idee/geen mening
 
  [Bekijk de resultaten](#ViewPollResults "View Results Of This Poll")
