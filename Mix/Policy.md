@@ -1,4 +1,4 @@
-[![Mix](/logo_white.svg)](https://mix.com/)
+[![Mix](/logo_black.svg)](https://mix.com/)
 
 Get the app
 
