@@ -1,7 +1,5 @@
 None
 
-3-Day SaleEnds 9/15. Limited quantities. No rainchecks.[Shop now](https://www.bestbuy.com/site/clp/sale-page/pcmcat185700050011.c?id=pcmcat185700050011)
-
 [Skip to content](#headerskip "Skip to content")
 
 [Yardbird](https://yardbird.com/)[Best Buy Outlet](https://www.bestbuy.com/site/electronics/outlet-refurbished-clearance/pcmcat142300050026.c?id=pcmcat142300050026)[Best Buy Business](https://www.bestbuy.com/site/electronics/bestbuy-business/pcmcat230900050001.c?id=pcmcat230900050001)[Shop with an Expert](https://www.bestbuy.com/services/triage/shopping)
@@ -16,8 +14,6 @@ Menu
 
 [Cart](https://www.bestbuy.com/cart "Cart")
 
-* Back to School
-    
 * [Top Deals](https://www.bestbuy.com/top-deals)
 * [Deal of the Day](https://www.bestbuy.com/site/misc/deal-of-the-day/pcmcat248000050016.c?id=pcmcat248000050016)
 * [Yes, Best Buy Sells That](https://www.bestbuy.com/site/misc/yes-best-buy-sells-that/pcmcat1621542998180.c?id=pcmcat1621542998180)
