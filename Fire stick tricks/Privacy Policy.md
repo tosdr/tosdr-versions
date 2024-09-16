@@ -204,11 +204,11 @@ Top VPNs
 
 #### Recent Posts
 
-* [How to Install GoGoAnime Kodi Addon (2024)](https://www.firesticktricks.com/gogoanime-kodi-addon.html)
-* [How to Install Base Kodi Addon on FireStick](https://www.firesticktricks.com/base-19-kodi-addon.html)
-* [How to Install Torque Lite Kodi Addon on FireStick](https://www.firesticktricks.com/torque-lite-kodi-addon.html)
-* [How to Install FapZone Kodi Addon on FireStick (2024)](https://www.firesticktricks.com/fapzone-kodi-addon.html)
-* [How to Install Diggz Chef Wizard Kodi Builds on Any Device](https://www.firesticktricks.com/diggz-chef-wizard-kodi-builds.html)
+* [How to Install Three Now Kodi Addon for New Zealand TV](https://www.firesticktricks.com/three-now-kodi-addon.html)
+* [How to Install Umbrella Kodi Addon (Unlimited Movies & Shows)](https://www.firesticktricks.com/umbrella-kodi-addon.html)
+* [How to Install Fluxus IPTV Kodi Addon on Any Device](https://www.firesticktricks.com/fluxus-iptv-kodi-addon.html)
+* [How to Install Curiosity Stream Kodi Addon in 2 Minutes](https://www.firesticktricks.com/curiosity-stream-kodi-addon.html)
+* [How to Install Daddylive Kodi Addon for Unlimited Sports](https://www.firesticktricks.com/daddylive-kodi-addon.html)
 
 [![Fire Stick Tricks](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%2059'%3E%3C/svg%3E)
 
