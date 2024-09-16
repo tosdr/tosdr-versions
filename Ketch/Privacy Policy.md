@@ -1,6 +1,6 @@
-[**\[New\] Data Permissioning for Media Companies is here**
+[**🆕 Are hidden website trackers putting your brand at risk? Find out now! 🔎**
 
-![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/6348baa4ea56f615eca27f50_arrow_right_steel.svg)](https://www.ketch.com/blog/posts/data-permissioning-media-companies)
+![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/6348baa4ea56f615eca27f50_arrow_right_steel.svg)](https://content.ketch.com/privacy-stress-test)
 
 [![Ketch logo](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/6644b89f975ccad87be46f40_Ketch_logo.svg)](https://www.ketch.com/)
 
