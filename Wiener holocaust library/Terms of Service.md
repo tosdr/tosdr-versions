@@ -2,8 +2,6 @@
 
 [Donate ![Donate](https://wienerholocaustlibrary.org/wp-content/themes/wienerholocaustlibrary/images/cash-donate.svg)](https://wienerholocaustlibrary.org/get-involved/donate/) 
 
- 42055
-
 * [Home](https://wienerholocaustlibrary.org/)
 * [Visit](https://wienerholocaustlibrary.org/visit/)
     
@@ -230,7 +228,7 @@ Site by [Thirty8 Digital](https://thirty8.co.uk/)
 * [News](https://wienerholocaustlibrary.org/news/)
 * [Shop](https://shop.wienerholocaustlibrary.org/)
 
-[Donate ![Donate](https://wienerholocaustlibrary.org/wp-content/themes/wienerholocaustlibrary/images/cash-donate.svg)](https://wienerholocaustlibrary.org/get-involved/donate/)  ![Cleantalk Pixel](https://moderate4-v4.cleantalk.org/pixel/b25dc62468c4da863848d731e812be41.gif "Cleantalk Pixel")
+[Donate ![Donate](https://wienerholocaustlibrary.org/wp-content/themes/wienerholocaustlibrary/images/cash-donate.svg)](https://wienerholocaustlibrary.org/get-involved/donate/) 
 
 We use cookies to ensure that we give you the best experience on our website. [Read More](https://wienerholocaustlibrary.org/legal/cookies/)
 
