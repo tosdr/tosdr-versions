@@ -277,13 +277,9 @@ Close
 
 [Personal](https://www.verizon.com/) [Business](https://www.verizon.com/business/)
 
-Get up to $540 when you [bring your own phone](https://www.verizon.com/bring-your-own-device/). Or get iPhone 15 on us. Online only. No trade-in req'd. [Buy](https://www.verizonwireless.com/smartphones/apple-iphone-15/)  |  [Details](javascript:void(0);)
+iPhone 16 Pro. Get it on us. [Pre-order](https://www.verizon.com/smartphones/apple-iphone-16-pro/) Or get up to $540 when you [bring your own phone](https://www.verizon.com/bring-your-own-device/).  |  [Details](javascript:void(0);)
 
-  
-  
-Bring your own device: Receive up to $540 promo credit ($360 on postpaid Unlimited Plus or $540 on Unlimited Ultimate) when you add a new smartphone line with your own 4G/5G smartphone. Promo credit applied over 36 months; promo credits end if eligibility requirements are no longer met. Offer may not be combined with other offers. Limited time offer.  
-  
-iPhone: $829.99 (128 GB only) device payment or full retail purchase w/new or upgrade smartphone line on Unlimited Ultimate plan (min. $90/mo w/Auto Pay (+taxes/fees) for 36 mos) req’d. Less $830 trade-in/promo credit applied over 36 mos.; promo credit ends if eligibility req’s are no longer met; 0% APR. For upgrades, phone must be active on account for 60 days prior to trade in. Trade-in terms apply.
+Details: Bring your own device: Receive up to $540 promo credit ($360 on postpaid Unlimited Plus or $540 on Unlimited Ultimate) when you add a new smartphone line with your own 4G/5G smartphone. Promo credit applied over 36 months; promo credits end if eligibility requirements are no longer met. Offer may not be combined with other offers. Limited time offer.
 
 end of navigation menu
 
@@ -665,7 +661,7 @@ Most Popular
 * [Samsung Galaxy S24 Ultra](https://www.verizon.com/smartphones/samsung-galaxy-s24-ultra/)
 * [Apple AirPods Max](https://www.verizon.com/products/apple-airpods-max-headphones/)
 * [Disney](https://www.verizon.com/solutions-and-services/disneyplus/)
-* [Apple Watch Series 9](https://www.verizon.com/connected-smartwatches/apple-watch-series-9/)
+* [Apple Watch Series 10](https://www.verizon.com/connected-smartwatches/apple-watch-series-10/)
 * [Fios](https://www.verizon.com/home/internet/)
 * [Verizon Visa® Card](https://www.verizon.com/solutions-and-services/verizon-visa-card/?origin=gnavFooter)
 
