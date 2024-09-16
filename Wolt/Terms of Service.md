@@ -330,6 +330,10 @@ Follow us
 
 FinlandEnglishAccessibility
 
-[Accessibility Statement](https://explore.wolt.com/en/fin/accessibility-statement)[User Terms of Service](https://explore.wolt.com/en/fin/terms)[Privacy Statement](https://explore.wolt.com/en/fin/privacy)
+[Accessibility Statement](https://explore.wolt.com/en/fin/accessibility-statement)
+
+[User Terms of Service](https://explore.wolt.com/en/fin/terms)
+
+[Privacy Statement](https://explore.wolt.com/en/fin/privacy)
 
 © Wolt 2014-2024
