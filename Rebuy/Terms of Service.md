@@ -151,11 +151,9 @@ Get it FREE 🚀](https://www.rebuyengine.com/tools/tactics-deck?website_utm_pag
         Demo Store
         
         Still not sold? Check out our demo store to see how it works](https://try.rebuyengine.com/)
-    * [![Newsletter Icon](https://www.rebuyengine.com/hubfs/Navigation/icon-newsletter.svg)
+    * [Events
         
-        Newsletter
-        
-        Get the latest news in ecommerce, AI personalization tips, and Rebuy updates](https://www.rebuyengine.com/touchpoint-newsletter-sign-up)
+        Catch up with Rebuy at upcoming virtual and in-person events](https://www.rebuyengine.com/events)
     
     #### Support
     
@@ -361,6 +359,7 @@ Create Intelligent Shopping Experiences.
 * [Media Kit](https://www.rebuyengine.com/media-kit)
 * [Merchant Success](https://www.rebuyengine.com/merchant-success)
 * [Events](https://www.rebuyengine.com/events)
+* [Newsletter](https://www.rebuyengine.com/touchpoint-newsletter-sign-up)
 
 ### PARTNERS
 
