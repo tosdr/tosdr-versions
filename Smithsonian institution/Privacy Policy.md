@@ -62,7 +62,6 @@ Site Navigation
     * [For Academics](https://www.si.edu/learn/academics)
     * [For Lifelong Learners](https://www.si.edu/learn/lifelong-learners)
 * [Support Us](https://www.si.edu/support)
-    * [Campaign for Our Shared Future](https://www.si.edu/support/campaign-our-shared-future-launch)
     * [Become a Member](https://support.si.edu/site/Donation2/?df_id=18123&18123.donation=form1&s_formType=j&s_src=Z0000AW&s_subsrc=0000--eg--oa-oef--web--si-edu--top-nav--app--acq------support-nav--ow--&utm_campaign=0000--eg--oa-oef--web--si-edu--top-nav--app--acq------support-)
     * [Renew Membership](https://support.si.edu/site/Donation2/?df_id=18123&18123.donation=form1&s_formType=r&s_src=Z0000RW&s_subsrc=0000--eg--oa-oef--web--si-edu--top-nav--app--rew------support-nav--ow--&utm_campaign=0000--eg--oa-oef--web--si-edu--top-nav--app--rew------support-)
     * [Make a Gift](https://support.si.edu/site/Donation2/?df_id=18162&18162.donation=form1&s_formType=c&s_pFreq=o&s_pMF=0&s_src=Z0000PW&s_subsrc=0000--eg--oa-oef--web--si-edu--top-nav--app--app------support-nav--ow--&utm_campaign=0000--eg--oa-oef--web--si-edu--top-nav--app-)
