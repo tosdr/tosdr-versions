@@ -1,26 +1,5 @@
  ![logo](https://www.dynseo.com/wp-content/uploads/2024/01/logo.jpg)
 
-* [Home](https://www.dynseo.com/en/)
-* [Coaches](https://www.dynseo.com/en/brain-games-apps/memory-games/)
-    * [COCO](https://www.dynseo.com/en/brain-games-apps/coco-educational-games/)
-    * [CLINT](https://www.dynseo.com/en/brain-games-apps/clint-brain-games-for-adults/)
-    * [SCARLETT](https://www.dynseo.com/en/brain-games-apps/scarlett-brain-games-for-seniors/)
-    * [SCIENTIFIC INTERESTS](https://www.dynseo.com/en/scientific-interest/)
-* [Our products](https://www.dynseo.com/en/our-products-brain-games-adapted-for-all/)
-    * [My CODI](https://www.dynseo.com/en/my-dico-communication-and-autonomy/)
-    * [The Rolling Ball app](https://www.dynseo.com/en/the-rolling-ball/)
-    * [BeBuzz TV](https://www.dynseo.com/en/bebuzz-tv/)
-    * [The Caregiver’s Toolbox](https://www.dynseo.com/en/the-caregivers-toolbox-3/)
-    * [The Special Needs Toolbox](https://www.dynseo.com/en/the-special-needs-toolbox/)
-    * [Top Culture for senior livings](https://www.dynseo.com/en/top-culture-the-international-competition-for-seniors/)
-    * [TOP KIDS, for schools](https://www.dynseo.com/en/top-kids-for-schools/)
-* [Blog](https://www.dynseo.com/en/the-coaches-blog-your-brain-coach/)
-* Pro space
-    * [Health professionals](https://www.dynseo.com/en/you-are/health-professionals/)
-    * [Nursing and Retirement Homes](https://www.dynseo.com/en/ehpad-retirement-homes/)
-    * [Primary schools](https://www.dynseo.com/en/coco-the-educational-program-for-primary-schools/)
-    * [Middle schools](https://www.dynseo.com/en/clint-learning-app-for-middle-school/)
-* [SHOP](https://www.dynseo.com/en/order/)
 * [![English](https://www.dynseo.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png)](https://www.dynseo.com/en/privacy-policy/)
     * [![French](https://www.dynseo.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.png)](https://www.dynseo.com/politique-de-confidentialite/)
     * [![Italian](https://www.dynseo.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/it.png)](https://www.dynseo.com/it/informativa-sulla-privacy-dynseo/)
@@ -117,10 +96,6 @@ Legislation
 We undertake to respect the legislative provisions set out in Law 78-17 “INFORMATION TECHNOLOGY, DATA FILES AND CIVIL LIBERTIES.”
 
 All Internet user dispose of the right of objection (Article 38 of the above-mentioned law), the right of access (Article 39, 41 and 42 of the above-mentioned law) and of rectification (Article 40 of the above-mentioned law) regarding their personal data.
-
-* [Legal Notice](https://www.dynseo.com/en/legal-notice-dynseo/)
-* [Terms of Use](https://www.dynseo.com/en/terms-of-use/)
-* [Privacy Policy – DYNSEO](https://www.dynseo.com/en/privacy-policy/)
 
 DYNSEO 2013 - 2022
 
