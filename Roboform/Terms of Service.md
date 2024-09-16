@@ -7,7 +7,7 @@
 * [Download](https://www.roboform.com/download)
 * [Support](https://www.roboform.com/support)
 * [Log In](https://online.roboform.com/#lang=en)
-* [Buy Now](https://online.roboform.com/login?authReturnUrl=pums_rf&lang=en)
+* [Buy Now](https://online.roboform.com/?lic=default#payment-page=buy&product-type=roboform-consumer&new-user&lang=en)
 
 * [Overview](https://www.roboform.com/support)
 * [Windows](https://www.roboform.com/manual)
