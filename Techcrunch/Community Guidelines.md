@@ -97,13 +97,13 @@ Legal
 Trending Tech Topics
 --------------------
 
-* [Apple iPhone 16 Event](https://techcrunch.com/2024/09/09/iphone-16-apple-intelligence-and-more-everything-revealed-at-apple-event-2024/)
-* [iPhone 16](https://techcrunch.com/2024/09/09/apple-iphone-16-announced/)
-* [AirPods 4](https://techcrunch.com/2024/09/09/apple-debuts-redesigned-airpods-4-with-active-noise-canceling-option/)
-* [Siri](https://techcrunch.com/2024/09/09/finally-a-better-siri/)
-* [WhatsApp](https://techcrunch.com/2024/09/09/bug-lets-anyone-bypass-whatsapps-view-once-privacy-feature/)
-* [Tech Layoffs](https://techcrunch.com/2024/09/05/tech-layoffs-2024-list/)
-* [ChatGPT](https://techcrunch.com/2024/09/06/chatgpt-everything-to-know-about-the-ai-chatbot/)
+* [ChatGPT o1](https://techcrunch.com/2024/09/13/first-impressions-of-chatgpt-o1-an-ai-designed-to-overthink-it/)
+* [Oprah AI](https://techcrunch.com/2024/09/12/ophah-just-had-an-ai-special-with-sam-altman-and-bill-gates-here-are-the-highlights/)
+* [Figure Robot](https://techcrunch.com/2024/09/12/face-to-face-with-figures-new-humanoid-robot/)
+* [TuSimple](https://techcrunch.com/2024/09/13/a-fight-is-brewing-as-tusimple-tries-to-move-450m-to-china-and-pivot-from-self-driving-trucks-to-ai-animation/)
+* [Waymo Uber](https://techcrunch.com/2024/09/13/waymo-robotaxis-will-be-on-the-uber-app-in-austin-atlanta-in-early-2025/)
+* [Tech Layoffs](https://techcrunch.com/2024/09/12/tech-layoffs-2024-list/)
+* [ChatGPT](https://techcrunch.com/2024/09/12/chatgpt-everything-to-know-about-the-ai-chatbot/)
 
 * [Facebook](https://www.facebook.com/techcrunch)
 * [X](https://twitter.com/techcrunch)
