@@ -1,6 +1,6 @@
 [![YTMP3](/img/logo.svg)](https://ytmp3.cc/)
 
-[Home](https://ytmp3.cc/)[Add-on](https://ytmp3.cc/add-on/)[FAQ](https://ytmp3.cc/faq/)[MP3 Juice](https://mp3-juices.nu/)
+[Home](https://ytmp3.cc/)[Add-on](https://ytmp3.cc/add-on/)[FAQ](https://ytmp3.cc/faq/)
 
 Privacy Policy
 ==============
