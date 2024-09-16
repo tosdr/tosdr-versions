@@ -16,10 +16,8 @@
     * [Symposium](https://www.uscki.nl/?pagina=Wicki/WPublic&subject=Symposium&menu=Studie)
 * [Sponsoren](https://www.uscki.nl/?pagina=Sponsors)
     * [Joust](https://www.uscki.nl/?pagina=Sponsors&action=detail&id=68)
-    * [Young Coders](https://www.uscki.nl/?pagina=Sponsors&action=detail&id=66)
     * [Voor bedrijven](https://www.uscki.nl/?pagina=Wicki/WPublic&subject=Samenwerking&menu=Sponsoren)
 * [Vacatures](https://www.uscki.nl/?pagina=Applications)
-    * [Young Coders](https://www.uscki.nl/?pagina=Applications&action=detail&id=38)
     * [Voor bedrijven](https://www.uscki.nl/?pagina=Wicki/WPublic&subject=Samenwerking&menu=Vacatures)
 * [Voor bedrijven](https://www.uscki.nl/?pagina=Wicki/WPublic&subject=Samenwerking)
 * [Meta](https://www.uscki.nl/?pagina=Wicki/WPublic&subject=Meta&menu=Meta)
@@ -292,8 +290,6 @@ Wijzigingen
 ---------](https://www.uscki.nl/?pagina=Sponsors)
 
 [![](?pagina=Media/FileView&id=105302&size=normal)](https://www.joust.nl/)
-
-[![](?pagina=Media/FileView&id=102783&size=normal)](https://youngcoders.nl/)
 
 © 2003-2024 - [Privacy Policy](https://www.uscki.nl/?pagina=Wicki/WPublic&subject=Privacy_Policy)  
 
