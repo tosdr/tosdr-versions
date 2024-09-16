@@ -239,8 +239,3 @@ For questions regarding this Policy, please contact us below.
 ©2024 ViewQwest Pte Ltd. All rights reserved.
 
 [Legal](https://viewqwest.com/sg/legal/) • [Data Privacy](https://viewqwest.com/sg/legal/) • [Terms of Use](https://viewqwest.com/sg/wp-content/uploads/sites/4/2024/01/VQ-Website-Terms-of-Use-v200625.pdf)
-
-                            
-
-Our website uses cookies to help enhance your browsing experience. Continue to browse our site if you agree to our use of cookies as described in our [Cookie Policy.](https://viewqwest.com/sg/wp-content/uploads/sites/4/2024/02/ViewQwest-Cookie-Policy.pdf)  
-You can also manage your cookie settings. For information on how we protect your privacy, please read our [Data Protection Policy](https://viewqwest.com/sg/wp-content/uploads/sites/4/2024/02/VQ-Data-Protection-Policy.pdf)[Ok](#)
