@@ -113,25 +113,25 @@ We welcome feedback from our viewers and readers. If readers/viewers have a conc
 Top of Today
 ------------
 
-1. [![Background: Major and Claudette Melvin (GoFundMe). Insets top to bottom: Jalisa Hill, Maurice Newson (Broward County Sheriff's Office).](https://lawandcrime.com/wp-content/uploads/2024/09/Jalisa-Hill-Maurice-Newson-432x243.jpg)](https://lawandcrime.com/crime/florida-woman-paid-ex-boyfriend-1000-to-help-murder-her-grandparents-cops/)
+1. [![Ashli Babbitt](https://am21.mediaite.com/lc/cnt/uploads/2021/01/Babbit-Portrait-432x243.jpg)](https://lawandcrime.com/u-s-capitol-breach/rather-leisurely-judge-wants-reps-for-ashli-babbitt-u-s-government-to-get-the-ball-rolling-toward-trial-in-30-million-wrongful-death-lawsuit/)
     
-    ### [Florida woman paid ex-boyfriend $1,000 to help murder her grandparents: Cops](https://lawandcrime.com/crime/florida-woman-paid-ex-boyfriend-1000-to-help-murder-her-grandparents-cops/)
+    ### ['Rather leisurely:' Judge wants reps for Ashli Babbitt, U.S. government to get the ball rolling toward trial in $30 million wrongful death lawsuit](https://lawandcrime.com/u-s-capitol-breach/rather-leisurely-judge-wants-reps-for-ashli-babbitt-u-s-government-to-get-the-ball-rolling-toward-trial-in-30-million-wrongful-death-lawsuit/)
     
-2. [![Corrina Woodhull, Robert Castillo](https://lawandcrime.com/wp-content/uploads/2024/09/Corinna-Woodhull-Robert-Castillo-432x243.jpg)](https://lawandcrime.com/crime/husband-whispered-in-his-wifes-ear-before-stabbing-her-to-death-during-family-bible-study-at-her-sisters-house/)
+2. [![Thomas Delgado, right inset, was arrested in the death of Joseph Canazaro, left inset. (Victim and suspect photos from the Bucks County District Attorney's Office; crime scene screenshot from Philadelphia FOX affiliate/YouTube)](https://am24.mediaite.com/lc/cnt/uploads/2024/01/phillymurder-432x243.jpeg)](https://lawandcrime.com/crime/serious-missing-pieces-charges-dismissed-against-man-who-allegedly-tied-up-a-family-and-stabbed-the-father-to-death/)
     
-    ### [Husband who whispered in wife's ear before murdering the mom of 5 during family Bible study at sister's home, as divorce papers sat in car, is locked up for decades](https://lawandcrime.com/crime/husband-whispered-in-his-wifes-ear-before-stabbing-her-to-death-during-family-bible-study-at-her-sisters-house/)
+    ### ['Serious missing pieces': Charges dismissed against man who allegedly tied up a family and stabbed the father to death](https://lawandcrime.com/crime/serious-missing-pieces-charges-dismissed-against-man-who-allegedly-tied-up-a-family-and-stabbed-the-father-to-death/)
     
-3. [![Backgroune: Flagler County Fire Rescue (Facebook). Inset: James Melady (Volusia County Corrections).](https://lawandcrime.com/wp-content/uploads/2024/09/James-Melady-432x243.jpg)](https://lawandcrime.com/crime/unfathomable-florida-first-responder-filmed-himself-sexually-assaulting-clearly-unconscious-woman-in-ambulance-police-say/)
+3. [![David Schonabaum](https://am23.mediaite.com/lc/cnt/uploads/2024/09/David--432x243.jpg)](https://lawandcrime.com/crime/permanently-disfigured-jury-convicts-father-after-infant-son-suffers-over-50-rat-bites-leading-to-near-fatal-event-in-infested-home/)
     
-    ### ['Unfathomable': Florida first responder filmed himself sexually assaulting 'clearly unconscious' woman in ambulance, police say](https://lawandcrime.com/crime/unfathomable-florida-first-responder-filmed-himself-sexually-assaulting-clearly-unconscious-woman-in-ambulance-police-say/)
+    ### ['Permanently disfigured': Jury convicts father after infant son suffers over 50 rat bites leading to 'near fatal event' in infested home](https://lawandcrime.com/crime/permanently-disfigured-jury-convicts-father-after-infant-son-suffers-over-50-rat-bites-leading-to-near-fatal-event-in-infested-home/)
     
-4. [![Briley Turner](https://lawandcrime.com/wp-content/uploads/2024/09/Briley-Turner-432x243.jpg)](https://lawandcrime.com/crime/woman-who-stabbed-man-expecting-a-shower-could-be-in-even-more-trouble-now-that-the-victim-has-died/)
+4. [![Christopher Leron Kilpatrick (Lake County Sheriff's Office).](https://am23.mediaite.com/lc/cnt/uploads/2024/09/Christopher-Leron-Kilpatrick-432x243.png)](https://lawandcrime.com/crime/300-400-women-including-juveniles-gas-station-employee-admitted-taking-prolific-number-of-upskirt-pictures-and-videos-deputies-say/)
     
-    ### [Woman who used 'tire plug tool with a metal spike' to stab a man instead of showering with him, claiming he put 'stuff down my throat,' could be in even bigger trouble now](https://lawandcrime.com/crime/woman-who-stabbed-man-expecting-a-shower-could-be-in-even-more-trouble-now-that-the-victim-has-died/)
+    ### ['300-400 women, including juveniles': Gas station employee admitted taking prolific number of upskirt pictures and videos, deputies say](https://lawandcrime.com/crime/300-400-women-including-juveniles-gas-station-employee-admitted-taking-prolific-number-of-upskirt-pictures-and-videos-deputies-say/)
     
-5. [![Steve Bannon](https://lawandcrime.com/wp-content/uploads/2024/09/AP24183599577317-432x243.jpg)](https://lawandcrime.com/high-profile/non-violent-steve-bannon-pleads-with-judge-to-let-him-take-advantage-of-law-trump-signed-to-get-out-of-prison-early/)
+5. [![Background: West Country Club Road in Aventura, Florida (Google Maps). Inset: Andrew Zelmanowitz (Miami-Dade Corrections & Rehabilitation/WPLG).](https://am22.mediaite.com/lc/cnt/uploads/2024/09/Andrew-Zelmanowitz-432x243.jpg)](https://lawandcrime.com/crime/i-will-kill-you-florida-lawyer-who-held-gun-to-wifes-head-allegedly-has-a-long-history-of-violence-police-say/)
     
-    ### ['Non-violent' Steve Bannon pleads with judge to let him 'take advantage' of law Trump signed to exit prison early for defying Jan. 6 Committee](https://lawandcrime.com/high-profile/non-violent-steve-bannon-pleads-with-judge-to-let-him-take-advantage-of-law-trump-signed-to-get-out-of-prison-early/)
+    ### ['I will kill you': Florida lawyer who held gun to wife's head allegedly has a long history of violence, police say](https://lawandcrime.com/crime/i-will-kill-you-florida-lawyer-who-held-gun-to-wifes-head-allegedly-has-a-long-history-of-violence-police-say/)
     
 
 [](http://eepurl.com/c89Jdb)
