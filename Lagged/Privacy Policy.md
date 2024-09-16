@@ -207,13 +207,13 @@ Lagged allows other websites to embed certain games, but to embed any of our gam
 Popular game categories
 -----------------------
 
-*  [![Animal Games](https://imgs2.dab3games.com/cat-ecapage-game-ft.png) Animal Games402 games](https://lagged.com/en/animal "Animal Games")
-*  [![Arcade Games](https://imgs2.dab3games.com/magic-piano-tiles-ft17.png) Arcade Games1,588 games](https://lagged.com/en/arcade "Arcade Games")
-*  [![Car Games](https://imgs2.dab3games.com/shapeshiftrace-ft34.png) Car Games393 games](https://lagged.com/en/car "Car Games")
-*  [![Football Games](https://imgs2.dab3games.com/super-bowl-test-ft1084.png) Football Games63 games](https://lagged.com/en/football "Football Games")
-*  [![Funny Games](https://imgs2.dab3games.com/blob-opera-game.png) Funny Games778 games](https://lagged.com/en/funny "Funny Games")
-*  [![Girl Games](https://imgs2.dab3games.com/bikiniforlove-ft50.png) Girl Games752 games](https://lagged.com/en/girl "Girl Games")
-*  [![Puzzle Games](https://imgs2.dab3games.com/draw-this-2-game-ft.png) Puzzle Games2,272 games](https://lagged.com/en/puzzle "Puzzle Games")
+*  [![Animal Games](https://imgs2.dab3games.com/cat-ecapage-game-ft.png) Animal Games405 games](https://lagged.com/en/animal "Animal Games")
+*  [![Arcade Games](https://imgs2.dab3games.com/magic-piano-tiles-ft17.png) Arcade Games1,597 games](https://lagged.com/en/arcade "Arcade Games")
+*  [![Car Games](https://imgs2.dab3games.com/shapeshiftrace-ft34.png) Car Games397 games](https://lagged.com/en/car "Car Games")
+*  [![Football Games](https://imgs2.dab3games.com/super-bowl-test-ft1084.png) Football Games64 games](https://lagged.com/en/football "Football Games")
+*  [![Funny Games](https://imgs2.dab3games.com/blob-opera-game.png) Funny Games781 games](https://lagged.com/en/funny "Funny Games")
+*  [![Girl Games](https://imgs2.dab3games.com/bikiniforlove-ft50.png) Girl Games755 games](https://lagged.com/en/girl "Girl Games")
+*  [![Puzzle Games](https://imgs2.dab3games.com/draw-this-2-game-ft.png) Puzzle Games2,280 games](https://lagged.com/en/puzzle "Puzzle Games")
 *  [![Solitaire Games](https://imgs2.dab3games.com/crazy-eights-game.png) Solitaire Games58 games](https://lagged.com/en/solitaire "Solitaire Games")
 *  [![Two Player Games](https://imgs2.dab3games.com/escape-zone-gm1-ft44.png) Two Player Games311 games](https://lagged.com/en/two-player "Two Player Games")
 *  [![Weird Games](https://imgs2.dab3games.com/screamers-2263.png) Weird Games61 games](https://lagged.com/en/weird "Weird Games")
@@ -227,31 +227,31 @@ Games you might like
 
 [Going Balls](https://lagged.com/en/g/going-balls19) ![Going Balls Game](https://imgs2.dab3games.com/going-ballz-game.png)
 
-[Lemon Opera](https://lagged.com/en/g/lemon-opera) ![Lemon Opera Game](https://imgs2.dab3games.com/lemon-opera-ft.png)
+[Bikini for Love](https://lagged.com/en/g/bikini-for-love) ![Bikini for Love Game](https://imgs2.dab3games.com/bikiniforlove-ft50.png)
 
 [Choir](https://lagged.com/en/g/choir) ![Choir Game](https://imgs2.dab3games.com/choir-big.png)
 
-[Draw This 2](https://lagged.com/en/g/drawthis2) ![Draw This 2 Game](https://imgs2.dab3games.com/draw-this-2-game-ft.png)
-
-[Bikini for Love](https://lagged.com/en/g/bikini-for-love) ![Bikini for Love Game](https://imgs2.dab3games.com/bikiniforlove-ft50.png)
-
-[Temple Adventure](https://lagged.com/en/g/temple-adventure) ![Temple Adventure Game](https://imgs2.dab3games.com/tomb-run-2.png) top rated
+[Lemon Opera](https://lagged.com/en/g/lemon-opera) ![Lemon Opera Game](https://imgs2.dab3games.com/lemon-opera-ft.png)
 
 [Magic Piano Tiles](https://lagged.com/en/g/magic-piano-tiles) ![Magic Piano Tiles Game](https://imgs2.dab3games.com/magic-piano-tiles-ft17.png)
+
+[Draw This 2](https://lagged.com/en/g/drawthis2) ![Draw This 2 Game](https://imgs2.dab3games.com/draw-this-2-game-ft.png)
+
+[Stretchy Snacks](https://lagged.com/en/g/stretchy-snacks) ![Stretchy Snacks Game](https://imgs2.dab3games.com/stretchy-snacks-big.png)
 
 [Ice Cream Stack Run](https://lagged.com/en/g/ice-cream-stack-run) ![Ice Cream Stack Run Game](https://imgs2.dab3games.com/ice-cream-stack-run29.png)
 
 [Toilet Race](https://lagged.com/en/g/toilet-race) ![Toilet Race Game](https://imgs2.dab3games.com/toilet-race-game-big.png)
 
+[Poppy Playtime Chapter 2](https://lagged.com/en/g/poppy-playtime-chapter-2) ![Poppy Playtime Chapter 2 Game](https://imgs2.dab3games.com/poppy-playtime-ch2-ft.png)
+
 [Thief Puzzle](https://lagged.com/en/g/thief-puzzle) ![Thief Puzzle Game](https://imgs2.dab3games.com/thief-puzzle-game-online-big.png) top rated
 
-[Poppy Playtime Chapter 2](https://lagged.com/en/g/poppy-playtime-chapter-2) ![Poppy Playtime Chapter 2 Game](https://imgs2.dab3games.com/poppy-playtime-ch2-ft.png)
+[Temple Adventure](https://lagged.com/en/g/temple-adventure) ![Temple Adventure Game](https://imgs2.dab3games.com/tomb-run-2.png) top rated
 
 [Minecraft Online](https://lagged.com/en/g/minecraft-online) ![Minecraft Online Game](https://imgs2.dab3games.com/minecraft-game-online-ft.png)
 
-[Stretchy Snacks](https://lagged.com/en/g/stretchy-snacks) ![Stretchy Snacks Game](https://imgs2.dab3games.com/stretchy-snacks-big.png)
-
-[Dino Dash](https://lagged.com/en/g/dino-dash) ![Dino Dash Game](https://imgs2.dab3games.com/dino-dash-game-ft37.png)
+[Stair Race 3D](https://lagged.com/en/g/stair-race-3d) ![Stair Race 3D Game](https://imgs2.dab3games.com/stair-race-3d-game-ft.png)
 
 [Lagged.com](https://lagged.com/ "Lagged.com")
 
