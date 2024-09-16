@@ -126,11 +126,11 @@ El programa Desafía San Francisco de Red.es e ICEX recibe en Ginebra el Premio 
 
 Noticia
 
-Infraestructuras de Telecomunicaciones
+Internacionalización
 
-Red.es lanza el Bono de Conectividad: 48 millones de euros para pymes y autónomos
+El programa Desafía aterriza por primera vez en Suiza con una edición orientada a startups relacionadas con la sostenibilidad
 
-[Red.es lanza el Bono de Conectividad: 48 millones de euros para pymes y autónomos](http://red.es/es/actualidad/noticias/redes-bono-de-conectividad-pymes-y-autonomos "Ir al contenido de: Red.es lanza el Bono de Conectividad: 48 millones de euros para pymes y autónomos")
+[El programa Desafía aterriza por primera vez en Suiza con una edición orientada a startups relacionadas con la sostenibilidad](http://red.es/es/actualidad/noticias/desafia-suiza-primera-edicion-startups-sostenibilidad "Ir al contenido de: El programa Desafía aterriza por primera vez en Suiza con una edición orientada a startups relacionadas con la sostenibilidad")
 
 ¿Conoces nuestras iniciativas?
 ------------------------------
