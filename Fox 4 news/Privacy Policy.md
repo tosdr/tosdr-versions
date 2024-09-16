@@ -401,35 +401,43 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Rangers All-Star Corey Seager to have sports hernia surgery, ending season](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/GettyImages-2167574739.jpg?ve=1&tl=1)
+ [![Trump subject of apparent assassination attempt, FBI says](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/snapshot-7-1.jpg?ve=1&tl=1)
 
- ![Rangers All-Star Corey Seager to have sports hernia surgery, ending season](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/GettyImages-2167574739.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/rangers-all-star-corey-seager-have-sports-hernia-surgery-ending-season)
+ ![Trump subject of apparent assassination attempt, FBI says](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/snapshot-7-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/shots-fired-trump-national-golf-club-trump-golfing)
 
-### [Rangers All-Star Corey Seager to have sports hernia surgery, ending season](https://www.fox4news.com/sports/rangers-all-star-corey-seager-have-sports-hernia-surgery-ending-season)
+### [Trump subject of apparent assassination attempt, FBI says](https://www.fox4news.com/news/shots-fired-trump-national-golf-club-trump-golfing)
 
- [![Shrimp ceviche with salsa verde fresca recipe from the Hispanic Heritage Celebration](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/091324-Meso-Maya-Hispanic-Heritage-KDFWEME001_09_5_00.05.28.26.jpg?ve=1&tl=1)
+ [![Donald Trump shooting suspect in custody; brought backpack, rifle, camera to Trump golf course: officials](https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/Martin-County-Sheriffs-Office.png?ve=1&tl=1)
 
- ![Shrimp ceviche with salsa verde fresca recipe from the Hispanic Heritage Celebration](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/091324-Meso-Maya-Hispanic-Heritage-KDFWEME001_09_5_00.05.28.26.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/shrimp-ceviche-salsa-verde-fresca-recipe-from-hispanic-heritage-celebration)
+ ![Donald Trump shooting suspect in custody; brought backpack, rifle, camera to Trump golf course: officials](https://images.foxtv.com/images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/592/333/Martin-County-Sheriffs-Office.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/donald-trump-shooting-suspect-detained-martin-county-sheriff-says)
 
-### [Shrimp ceviche with salsa verde fresca recipe from the Hispanic Heritage Celebration](https://www.fox4news.com/news/shrimp-ceviche-salsa-verde-fresca-recipe-from-hispanic-heritage-celebration)
+### [Donald Trump shooting suspect in custody; brought backpack, rifle, camera to Trump golf course: officials](https://www.fox4news.com/news/donald-trump-shooting-suspect-detained-martin-county-sheriff-says)
 
- [![McDonald's $5 value meal is sticking around longer at most US locations](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/McDonalds.jpg?ve=1&tl=1)
+ [![Murdered Cleburne 18-year-old remembered at candlelight vigil Sunday](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/kaylee-merchant-new.jpg?ve=1&tl=1)
 
- ![McDonald's $5 value meal is sticking around longer at most US locations](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/McDonalds.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mcdonalds-value-meal-sticking-around-longer)
+ ![Murdered Cleburne 18-year-old remembered at candlelight vigil Sunday](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/kaylee-merchant-new.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/kaylee-merchant-cleburne-murder-giovanni-jimenez-diaz)
 
-### [McDonald's $5 value meal is sticking around longer at most US locations](https://www.fox4news.com/news/mcdonalds-value-meal-sticking-around-longer)
+### [Murdered Cleburne 18-year-old remembered at candlelight vigil Sunday](https://www.fox4news.com/news/kaylee-merchant-cleburne-murder-giovanni-jimenez-diaz)
 
- [!['No eating dogs and cats,' Biden jokes as he wears Trump 2024 hat](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/Biden-Trump-hat-use-this-one.jpg?ve=1&tl=1)
+ [![Car crashes into Arlington home, police searching for driver](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/V-ARLINGTON-SHERRY-ST-CRASH-5P_00.00.00.00.jpg?ve=1&tl=1)
 
- !['No eating dogs and cats,' Biden jokes as he wears Trump 2024 hat](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/Biden-Trump-hat-use-this-one.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/biden-wears-trump-hat-warns-against-eating-cats-dogs)
+ ![Car crashes into Arlington home, police searching for driver](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/V-ARLINGTON-SHERRY-ST-CRASH-5P_00.00.00.00.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/car-crashes-arlington-home-police-searching-driver)
 
-### ['No eating dogs and cats,' Biden jokes as he wears Trump 2024 hat](https://www.fox4news.com/news/biden-wears-trump-hat-warns-against-eating-cats-dogs)
+### [Car crashes into Arlington home, police searching for driver](https://www.fox4news.com/news/car-crashes-arlington-home-police-searching-driver)
 
- [![Lowe plates winning run during 3-run 8th and Rangers rally to beat Mariners 5-4 in Rocker’s debut](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/GettyImages-2171643435.jpg?ve=1&tl=1)
+ [![Kamara scores 4 TDs, Saints end Cowboys’ 16-game home streak in regular season with 44-19 win](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/GettyImages-2172210307-scaled.jpg?ve=1&tl=1)
 
- ![Lowe plates winning run during 3-run 8th and Rangers rally to beat Mariners 5-4 in Rocker’s debut](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/GettyImages-2171643435.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/lowe-plates-winning-run-during-3-run-8th-rangers-rally-beat-mariners-5-4-rockers-debut)
+ ![Kamara scores 4 TDs, Saints end Cowboys’ 16-game home streak in regular season with 44-19 win](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/GettyImages-2172210307-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/dallas-cowboys-new-orleans-saints-week-2)
 
-### [Lowe plates winning run during 3-run 8th and Rangers rally to beat Mariners 5-4 in Rocker’s debut](https://www.fox4news.com/sports/lowe-plates-winning-run-during-3-run-8th-rangers-rally-beat-mariners-5-4-rockers-debut)
+### [Kamara scores 4 TDs, Saints end Cowboys’ 16-game home streak in regular season with 44-19 win](https://www.fox4news.com/sports/dallas-cowboys-new-orleans-saints-week-2)
+
+[![Trump subject of apparent assassination attempt, FBI says](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/149/84/snapshot-7-1.jpg?ve=1&tl=1)](https://www.fox4news.com/news/shots-fired-trump-national-golf-club-trump-golfing)
+
+BREAKING NEWS
+
+[Live updates: Trump subject of apparent assassination attempt, FBI says](https://www.fox4news.com/news/shots-fired-trump-national-golf-club-trump-golfing)
+
+[The FBI says it's investigating “what appears to be an attempted assassination" of Donald Trump at his golf club in West Palm Beach, Florida.](https://www.fox4news.com/news/shots-fired-trump-national-golf-club-trump-golfing)
 
 ###### [News](https://www.fox4news.com/news)
 
