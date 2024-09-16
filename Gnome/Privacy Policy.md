@@ -13,7 +13,7 @@
 * [Get Involved](https://welcome.gnome.org/)
 * [Events](https://events.gnome.org/)
     * [GUADEC](https://www.guadec.org/)
-    * [GNOME Asia](https://events.gnome.org/category/4/)
+    * [GNOME Asia](https://events.gnome.org/event/258/)
     * [GNOME Africa](https://events.gnome.org/category/7/)
 * [Shop](https://shop.gnome.org/)
 * [Donate](https://www.gnome.org/donate/)
