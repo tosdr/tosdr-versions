@@ -422,4 +422,10 @@ English中文EspañolPortuguês日本語Françaisاَلْعَرَبِيَّةُ
 
 [Privacy Policy](https://unstoppabledomains.com/privacy-policy)
 
+[Registrant Educational Information](https://www.icann.org/resources/pages/benefits-2013-09-16-en)
+
+[Registrants Benefits and Responsibilities](https://www.icann.org/resources/pages/approved-with-specs-2013-09-17-en#registrant)
+
+[Abuse](https://unstoppabledomains.com/abuse)
+
 [](https://twitter.com/unstoppableweb)[](https://www.youtube.com/c/UnstoppableDomains/featured)[](https://www.tiktok.com/@unstoppableweb)[](https://www.instagram.com/unstoppabledomains/)[](https://www.facebook.com/unstoppableweb/)[](https://www.linkedin.com/company/unstoppable-domains)
