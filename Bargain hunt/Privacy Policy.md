@@ -1,10 +1,5 @@
  [![BH Logo Full Color@4x](https://www.bargainhunt.com/hubfs/BH%20Logo%20Full%20Color@4x.png) ![BH Logo Full Color@4x](https://www.bargainhunt.com/hubfs/BH%20Logo%20Full%20Color@4x.png)](https://www.bargainhunt.com/)
 
-* [Online Auctions](https://www.bargainhunt.com/online-auctions)
-    
-    * [Live Auctions](https://www.bidfta.com/items?pageId=1&locations=598&locations=618&locations=578&locations=599&locations=584&locations=589&locations=534&locations=476&locations=566&locations=588&locations=590)
-    * [How Does It Work?](https://www.bargainhunt.com/online-auctions)
-    
 * [Bin Sales](https://www.bargainhunt.com/bin-sales)
 * [Store Locator](https://www.bargainhunt.com/store-locator)
 * [Grand Openings](https://www.bargainhunt.com/grand-openings)
@@ -13,12 +8,6 @@
 
 Menu
 
-* [Online Auctions](#)
-    
-    * [Online Auctions](https://www.bargainhunt.com/online-auctions)
-    * [Live Auctions](https://www.bidfta.com/items?pageId=1&locations=598&locations=618&locations=578&locations=599&locations=584&locations=589&locations=534&locations=476&locations=566&locations=588&locations=590)
-    * [How Does It Work?](https://www.bargainhunt.com/online-auctions)
-    
 * [Bin Sales](https://www.bargainhunt.com/bin-sales)
 * [Store Locator](https://www.bargainhunt.com/store-locator)
 * [Grand Openings](https://www.bargainhunt.com/grand-openings)
