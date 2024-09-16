@@ -77,7 +77,7 @@ CHANGE LANGUAGE
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 
-[Latest News](https://www.news18.com/news/)[Elections](https://www.news18.com/elections/)[US Elections](https://www.news18.com/topics/us-election-2024/)[Showsha](https://www.news18.com/entertainment/)[EPL 2024](https://www.news18.com/football/epl-english-premier-league/)[Movie Reviews](https://www.news18.com/entertainment/movie-reviews/)[Podcast](https://www.news18.com/podcast/)[Explainers](https://www.news18.com/explainers/)[Sports](https://www.news18.com/sports/)[Tech](https://www.news18.com/tech/)[Auto](https://www.news18.com/auto/)[Photos](https://www.news18.com/photogallery/)[She Shakti 2024](https://www.news18features.com/she-shakti-2024/)
+[Latest News](https://www.news18.com/news/)[Elections](https://www.news18.com/elections/)[US Elections](https://www.news18.com/topics/us-election-2024/)[Showsha](https://www.news18.com/entertainment/)[EPL 2024](https://www.news18.com/football/epl-english-premier-league/)[Movie Reviews](https://www.news18.com/entertainment/movie-reviews/)[Podcast](https://www.news18.com/podcast/)[Explainers](https://www.news18.com/explainers/)[Sports](https://www.news18.com/sports/)[Tech](https://www.news18.com/tech/)[Auto](https://www.news18.com/auto/)[Photos](https://www.news18.com/photogallery/)[She Shakti 2024](https://www.news18features.com/she-shakti-2024/)[Indian Super League](https://www.news18.com/football/indian-super-league/)
 
 * [Latest News](https://www.news18.com/news/)
 * [Elections](https://www.news18.com/elections/)
@@ -92,6 +92,7 @@ CHANGE LANGUAGE
 * [Auto](https://www.news18.com/auto/)
 * [Photos](https://www.news18.com/photogallery/)
 * [She Shakti 2024](https://www.news18features.com/she-shakti-2024/)
+* [Indian Super League](https://www.news18.com/football/indian-super-league/)
 
 News18 Website and App Privacy Policy
 =====================================
@@ -212,7 +213,7 @@ If you have questions or concerns about this Policy, please contact Network18 at
 
 ![](https://images.news18.com/ibnlive/uploads/2021/07/1627283897_news18_logo-1200x800.jpg)
 
-Sep 13, 2024
+Sep 16, 2024
 
 [View All](https://www.news18.com/short-news/)
 
