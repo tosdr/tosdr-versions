@@ -66,6 +66,12 @@ AllLive NowToday
     
     1st Test
     
+* Afghanistan vs South Africa, 2024
+    
+    [Afghanistan vs South Africa](https://www.cricbuzz.com/live-cricket-scores/103843/afg-vs-rsa-1st-odi-afghanistan-vs-south-africa-2024 "Afghanistan v South Africa, 1st ODI - Upcoming")
+    
+    1st ODI
+    
 * ICC CWC League Two 2023-27
     
     [Namibia vs United States](https://www.cricbuzz.com/live-cricket-scores/106355/nam-vs-usa-25th-match-icc-cwc-league-two-2023-27 "Namibia v United States, 25th Match - Toss")
@@ -146,25 +152,25 @@ AllLive NowToday
     
 * County Division 2
     
-    [Gloucestershire vs Sussex](https://www.cricbuzz.com/live-cricket-scores/85528/gloucs-vs-sus-51st-match-county-division-2 "Gloucestershire v Sussex, 51st Match - Upcoming")
-    
-    51st Match
-    
-* [Glamorgan vs Yorkshire](https://www.cricbuzz.com/live-cricket-scores/85524/glam-vs-yorks-50th-match-county-division-2 "Glamorgan v Yorkshire, 50th Match - Upcoming")
-    
-    50th Match
-    
-* [Derbyshire vs Middlesex](https://www.cricbuzz.com/live-cricket-scores/85517/derby-vs-mdx-49th-match-county-division-2 "Derbyshire v Middlesex, 49th Match - Upcoming")
-    
-    49th Match
-    
-* [Northamptonshire vs Leicestershire](https://www.cricbuzz.com/live-cricket-scores/85535/nhnts-vs-leic-52nd-match-county-division-2 "Northamptonshire v Leicestershire, 52nd Match - Upcoming")
+    [Northamptonshire vs Leicestershire](https://www.cricbuzz.com/live-cricket-scores/85535/nhnts-vs-leic-52nd-match-county-division-2 "Northamptonshire v Leicestershire, 52nd Match - Upcoming")
     
     52nd Match
     
+* [Gloucestershire vs Sussex](https://www.cricbuzz.com/live-cricket-scores/85528/gloucs-vs-sus-51st-match-county-division-2 "Gloucestershire v Sussex, 51st Match - Preview")
+    
+    51st Match
+    
+* [Glamorgan vs Yorkshire](https://www.cricbuzz.com/live-cricket-scores/85524/glam-vs-yorks-50th-match-county-division-2 "Glamorgan v Yorkshire, 50th Match - Preview")
+    
+    50th Match
+    
+* [Derbyshire vs Middlesex](https://www.cricbuzz.com/live-cricket-scores/85517/derby-vs-mdx-49th-match-county-division-2 "Derbyshire v Middlesex, 49th Match - Preview")
+    
+    49th Match
+    
 * South Africa v Sri Lanka
     
-    [South Africa A vs Sri Lanka A  LIVE](https://www.cricbuzz.com/live-cricket-scores/105988/rsaa-vs-sla-2nd-unofficial-test-south-africa-v-sri-lanka "South Africa A v Sri Lanka A, 2nd Unofficial Test - Live")
+    [South Africa A vs Sri Lanka A](https://www.cricbuzz.com/live-cricket-scores/105988/rsaa-vs-sla-2nd-unofficial-test-south-africa-v-sri-lanka "South Africa A v Sri Lanka A, 2nd Unofficial Test - Tea")
     
     2nd Unofficial Test
     
@@ -190,11 +196,7 @@ AllLive NowToday
     
 * Serbia Women v Cyprus Women, 2024
     
-    [Serbia Women vs Cyprus Women](https://www.cricbuzz.com/live-cricket-scores/106924/srbw-vs-cypw-1st-t20i-serbia-women-v-cyprus-women-2024 "Serbia Women v Cyprus Women, 1st T20I - CYPW Won")
-    
-    1st T20I
-    
-* [Cyprus Women vs Serbia Women](https://www.cricbuzz.com/live-cricket-scores/106932/cypw-vs-srbw-2nd-t20i-serbia-women-v-cyprus-women-2024 "Cyprus Women v Serbia Women, 2nd T20I - CYPW Won")
+    [Cyprus Women vs Serbia Women](https://www.cricbuzz.com/live-cricket-scores/106932/cypw-vs-srbw-2nd-t20i-serbia-women-v-cyprus-women-2024 "Cyprus Women v Serbia Women, 2nd T20I - CYPW Won")
     
     2nd T20I
     
@@ -208,15 +210,7 @@ AllLive NowToday
     
 * Womens T20I Quadrangular Series
     
-    [Denmark Women vs Norway Women](https://www.cricbuzz.com/live-cricket-scores/106876/denw-vs-noyw-1st-match-womens-t20i-quadrangular-series "Denmark Women v Norway Women, 1st Match - DENW Won")
-    
-    1st Match
-    
-* [Austria Women vs Luxembourg Women](https://www.cricbuzz.com/live-cricket-scores/106884/autw-vs-luxw-2nd-match-womens-t20i-quadrangular-series "Austria Women v Luxembourg Women, 2nd Match - AUTW Won")
-    
-    2nd Match
-    
-* [Norway Women vs Luxembourg Women](https://www.cricbuzz.com/live-cricket-scores/106892/noyw-vs-luxw-4th-match-womens-t20i-quadrangular-series "Norway Women v Luxembourg Women, 4th Match - NOYW Won")
+    [Norway Women vs Luxembourg Women](https://www.cricbuzz.com/live-cricket-scores/106892/noyw-vs-luxw-4th-match-womens-t20i-quadrangular-series "Norway Women v Luxembourg Women, 4th Match - NOYW Won")
     
     4th Match
     
@@ -561,37 +555,37 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 [Oshada Fernando returns for New Zealand Tests](https://www.cricbuzz.com/cricket-news/131638/oshada-fernando-returns-for-new-zealand-tests "Oshada Fernando returns for New Zealand Tests")
 
-1h ago
+4h ago
 
   [](https://www.cricbuzz.com/cricket-news/131637/green-all-round-efforts-in-vain-as-kings-secure-comfortable-win "Green all-round efforts in vain as Kings secure comfortable win")
 
 [Green all-round efforts in vain as Kings secure comfortable win](https://www.cricbuzz.com/cricket-news/131637/green-all-round-efforts-in-vain-as-kings-secure-comfortable-win "Green all-round efforts in vain as Kings secure comfortable win")
 
-4h ago
+8h ago
 
   [](https://www.cricbuzz.com/cricket-news/131636/can-kuldeep-be-the-ace-when-the-pack-shuffles "Can Kuldeep be the ace when the pack shuffles?")
 
 [Can Kuldeep be the ace when the pack shuffles?](https://www.cricbuzz.com/cricket-news/131636/can-kuldeep-be-the-ace-when-the-pack-shuffles "Can Kuldeep be the ace when the pack shuffles?")
 
-7h ago
+11h ago
 
   [](https://www.cricbuzz.com/cricket-news/131635/akhilesh-bodugum-spinning-his-own-theory-of-evolution "Akhilesh Bodugum spinning his own theory of evolution")
 
 [Akhilesh Bodugum spinning his own theory of evolution](https://www.cricbuzz.com/cricket-news/131635/akhilesh-bodugum-spinning-his-own-theory-of-evolution "Akhilesh Bodugum spinning his own theory of evolution")
 
-8h ago
+11h ago
 
   [](https://www.cricbuzz.com/cricket-news/131634/series-decider-abandoned-after-persistent-rain "Series decider abandoned after persistent rain")
 
 [Series decider abandoned after persistent rain](https://www.cricbuzz.com/cricket-news/131634/series-decider-abandoned-after-persistent-rain "Series decider abandoned after persistent rain")
 
-16h ago
+20h ago
 
   [](https://www.cricbuzz.com/cricket-news/131633/brook-to-captain-england-in-australia-odis "Harry Brook to captain England in Australia ODIs")
 
 [Harry Brook to captain England in Australia ODIs](https://www.cricbuzz.com/cricket-news/131633/brook-to-captain-england-in-australia-odis "Harry Brook to captain England in Australia ODIs")
 
-19h ago
+23h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
