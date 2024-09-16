@@ -94,12 +94,12 @@ Hide Main Navigation Menu
 
 ### Featured
 
-* [![](https://www.unc.edu/wp-content/uploads/2024/09/LambethWinners-250x141.jpg)
+* [![](https://www.unc.edu/wp-content/uploads/2024/09/ProvostAI-250x141.jpg)
     
-    5 faculty named Lambeth Distinguished Chairs in Public Policy](https://www.unc.edu/posts/2024/09/10/5-faculty-named-lambeth-distinguished-chairs-in-public-policy/)
-* [![](https://www.unc.edu/wp-content/uploads/2023/08/AlertCarolina-250x141.jpg)
+    Provost’s Office announces new AI initiatives](https://www.unc.edu/posts/2024/09/16/provosts-office-announces-new-ai-initiatives/)
+* [![](https://www.unc.edu/wp-content/uploads/2024/09/DAA_V3-250x141.png)
     
-    Alert Carolina sirens test to be held Sept. 12](https://www.unc.edu/posts/2024/09/10/alert-carolina-sirens-test-to-be-held-sept-12-2/)
+    4 selected for Distinguished Alumni Awards](https://www.unc.edu/posts/2024/09/16/4-selected-for-distinguished-alumni-awards/)
 
 About the University
 
@@ -477,7 +477,7 @@ Please contact [privacy@unc.edu](mailto:privacy@unc.edu) for more information on
 
  [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?mini=true&url=%url%&title=%title%)
 
- [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=2b79659cc7&text=%prefix%%text%%suffix%&post_id=61&type=%type%)
+ [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=9b5cfd0cac&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
 
 ### Share on Mastodon
 
