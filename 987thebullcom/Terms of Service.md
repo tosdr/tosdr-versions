@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| I Don'T Know About YouChris Lane<br><br>6:32am |
-| AlrightDarius Rucker<br><br>4:55am |
-| Next Thing You KnowJordan Davis<br><br>4:52am |
-| ParkTyler Hubbard<br><br>4:49am |
-| White HorseChris Stapleton<br><br>4:46am |
+| Thank GodKane Brown Ft Katelyn Brown<br><br>11:39am |
+| Love You, Miss You, Mean ItLuke Bryan<br><br>11:36am |
+| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>11:33am |
+| The Thunder RollsGarth Brooks<br><br>11:30am |
+| Where The Wild Things AreLuke Combs<br><br>11:26am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -358,21 +358,21 @@ State
 Featured Brands
 ---------------
 
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
-
-Top 40 • Pacific NW
-
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
-
-Top 40 • Eastern
-
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
-
-Country • Western
-
 [![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
 Spanish • Western
+
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+
+Sports • Midwest
+
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+
+Country • Western
+
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+
+News Talk • Eastern
 
 [](https://www.alphamediausa.com/)
 
