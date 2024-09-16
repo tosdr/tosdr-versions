@@ -39,9 +39,9 @@ editorial \_
 
 coverstory \_
 
-[![How This Google Maps Rival Helps Users Avoid Traffic Jams](https://s1.cdn.autoevolution.com/images/news/how-this-google-maps-rival-helps-users-avoid-traffic-jams-239858-5.jpg "How This Google Maps Rival Helps Users Avoid Traffic Jams")
+[![Chevy Corvair Corsa Turbo: The Most Atypical Performance Car From the Golden Age of Muscle](https://s1.cdn.autoevolution.com/images/news/chevy-corvair-corsa-turbo-the-most-atypical-performance-car-from-the-golden-age-of-muscle-239863-5.jpg "Chevy Corvair Corsa Turbo: The Most Atypical Performance Car From the Golden Age of Muscle")
 
-How This Google Maps Rival Helps Users Avoid Traffic Jams](https://www.autoevolution.com/news/how-this-google-maps-rival-helps-users-avoid-traffic-jams-239858.html)
+Chevy Corvair Corsa Turbo: The Most Atypical Performance Car From the Golden Age of Muscle](https://www.autoevolution.com/news/chevy-corvair-corsa-turbo-the-most-atypical-performance-car-from-the-golden-age-of-muscle-239863.html)
 
 how-to \_
 
