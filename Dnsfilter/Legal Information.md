@@ -337,26 +337,6 @@ Cross-Border Data Transfer. If we transfer your personal information to a countr
 
 If you have any questions or concerns about our Privacy Policy or any other privacy matters, please contact us at [privacy@dnsfilter.com](mailto:privacy@dnsfilter.com).
 
-[![Revving Up the Fun: DNSFilter's IndyCar Experience Recap — Milwaukee Edition](https://www.dnsfilter.com/hs-fs/hubfs/newsroom_revvingupthefundnsfiltersindycarexperiencerecap%E2%80%94milwaukeeedition1.webp?width=500&height=190&name=newsroom_revvingupthefundnsfiltersindycarexperiencerecap%E2%80%94milwaukeeedition1.webp)
-
-Posted on September 3, 2024 by Alina Gordilova
-
- **
-
-Revving Up the Fun: DNSFilter's IndyCar Experience Recap — Milwaukee Edition
-
-**](https://www.dnsfilter.com/blog/indycar-race-recap-milwaukee)
-
-[![Revving Up the Fun: DNSFilter's IndyCar Experience Recap — Portland Edition](https://www.dnsfilter.com/hs-fs/hubfs/newsroom_revvingupthefundnsfiltersindycarexperiencerecap%E2%80%94portlandedition1%20%281%29.webp?width=500&height=190&name=newsroom_revvingupthefundnsfiltersindycarexperiencerecap%E2%80%94portlandedition1%20%281%29.webp)
-
-Posted on August 26, 2024 by Alina Gordilova
-
- **
-
-Revving Up the Fun: DNSFilter's IndyCar Experience Recap — Portland Edition
-
-**](https://www.dnsfilter.com/blog/indycar-race-recap-portland)
-
 [![Creating an Over-the-Counter Cyber Defense Program](https://www.dnsfilter.com/hs-fs/hubfs/creatinganover_the_countercyberdefenseprogram1.webp?width=500&height=190&name=creatinganover_the_countercyberdefenseprogram1.webp)
 
 Posted on August 13, 2024 by TK Keanini
@@ -366,6 +346,26 @@ Posted on August 13, 2024 by TK Keanini
 Creating an Over-the-Counter Cyber Defense Program
 
 **](https://www.dnsfilter.com/blog/creating-an-over-the-counter-cyber-defense-program)
+
+[![Fool me once, shame on not using DNS protection](https://www.dnsfilter.com/hs-fs/hubfs/newsroom_lookalikecrowdstrikedomainsdiscoveredbydnsfiltertodate%281%291.webp?width=500&height=190&name=newsroom_lookalikecrowdstrikedomainsdiscoveredbydnsfiltertodate%281%291.webp)
+
+Posted on July 24, 2024 by TK Keanini
+
+ **
+
+Fool me once, shame on not using DNS protection
+
+**](https://www.dnsfilter.com/blog/shame-not-using-dns-protection)
+
+[![Revving Up the Fun: DNSFilter's IndyCar Experience Recap — Toronto Edition](https://www.dnsfilter.com/hs-fs/hubfs/revvingupthefundnsfiltersindycarexperiencerecaptorontoedition1.webp?width=500&height=190&name=revvingupthefundnsfiltersindycarexperiencerecaptorontoedition1.webp)
+
+Posted on July 22, 2024 by Alina Gordilova
+
+ **
+
+Revving Up the Fun: DNSFilter's IndyCar Experience Recap — Toronto Edition
+
+**](https://www.dnsfilter.com/blog/indycar-race-recap-toronto)
 
 ![dnsfilter logo dark dns protection](https://www.dnsfilter.com/hubfs/raw_assets/public/Dnsfilter_March2023/images/5fda16a63a8939e688d5cc59_Layer%201.svg "dnsfilter logo dark dns protection")
 
