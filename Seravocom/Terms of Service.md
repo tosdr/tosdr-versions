@@ -269,24 +269,24 @@ help@seravo.com
 
 * * *
 
-[![](https://seravo.com/wp-content/uploads/2024/09/koodikerho-logo-150.png)](https://koodikerho.fi/in-english/)
+[![Koodikerho](https://seravo.com/wp-content/uploads/2024/09/koodikerho-logo-150.png)](https://koodikerho.fi/in-english/)
 
-[![](https://seravo.com/wp-content/uploads/2024/09/logo-coss.png)](https://coss.fi/en/)
+[![COSS ry](https://seravo.com/wp-content/uploads/2024/09/logo-coss.png)](https://coss.fi/en/)
 
-[![](https://seravo.com/wp-content/uploads/2024/09/codefromfinland-logo.png)](https://seravo.com/en/opensource/)
+[![Code from Finland](https://seravo.com/wp-content/uploads/2024/09/codefromfinland-logo.png)](https://seravo.com/en/opensource/)
 
-[![](https://seravo.com/wp-content/uploads/2024/09/reliable-partner-logo.png)](https://www.vastuugroup.fi/fi-en)
+[![Reliable Partner](https://seravo.com/wp-content/uploads/2024/09/reliable-partner-logo.png)](https://www.vastuugroup.fi/fi-en)
 
-[![](https://seravo.com/wp-content/uploads/2024/09/climate-commitment-logo.png)](https://seravo.com/en/seravo-and-green-friday/#climate-commitment)
+[![Climate Commitment](https://seravo.com/wp-content/uploads/2024/09/climate-commitment-logo.png)](https://seravo.com/en/seravo-and-green-friday/#climate-commitment)
 
 * * *
 
-* [GitHub](https://github.com/Seravo)
-* [LinkedIn](https://github.com/Seravo)
-* [Facebook](https://www.facebook.com/seravo/)
-* [Instagram](https://www.instagram.com/seravo/?hl=en)
-* [X](https://twitter.com/Seravo)
-* [YouTube](https://www.youtube.com/seravo)
+* [Seravo on GitHub](https://github.com/Seravo)
+* [Seravo on LinkedIn](https://linkedin.com/company/seravo)
+* [Seravo on Facebook](https://www.facebook.com/seravo/)
+* [Seravo on Instagram](https://www.instagram.com/seravo/?hl=en)
+* [Seravo on X](https://twitter.com/Seravo)
+* [Seravo on YouTube](https://www.youtube.com/seravo)
 
 [Privacy Policy](https://seravo.com/en/privacy-policy/)
 
