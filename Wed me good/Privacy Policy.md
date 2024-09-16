@@ -168,17 +168,17 @@ By Theme
 
 Latest Real Weddings
 
-[![Tithi and Harsh](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
+[![Sheetal and Akhil](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
 
-![Tithi and Harsh](https://image.wedmegood.com/resized/250X/uploads/images/a17b382d6cbb4d388e15702842c0b2a6realwedding/_RHT9840.jpg?crop=190,749,1633,918)
+![Sheetal and Akhil](https://image.wedmegood.com/resized/250X/uploads/images/79a21d14edc1414081cd5c6a64b08913realwedding/A+S-515Large.jpeg?crop=151,151,1012,569)
 
-Tithi and Harsh (Goa)](https://www.wedmegood.com/real_wedding/detail/tithi-and-harsh-goa-wedding-4384)
+Sheetal and Akhil (Canada)](https://www.wedmegood.com/real_wedding/detail/sheetal-and-akhil-canada-gujarati-wedding-4387)
 
-[![Tanvi and Dheeraj](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
+[![Krithika and Akash](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
 
-![Tanvi and Dheeraj](https://image.wedmegood.com/resized/250X/uploads/images/34a16778bc8d4215bc8b2dc7b09be0e6realwedding/T&DWEDDINGCANDID-201Large.jpeg?crop=200,62,1013,569)
+![Krithika and Akash](https://image.wedmegood.com/resized/250X/uploads/images/a921a53c09ac45d8aecbb0be558fd670realwedding/88A3FFE0-DBF0-48CD-97F1-6AA22D910591.jpeg?crop=252,123,1450,815)
 
-Tanvi and Dheeraj (Bangalore)](https://www.wedmegood.com/real_wedding/detail/tanvi-and-dheeraj-bangalore-kannada-wedding-4383)
+Krithika and Akash (Hyderabad)](https://www.wedmegood.com/real_wedding/detail/krithika-and-akash-hyderabad-telugu-wedding-4386)
 
 Browse by Category
 
