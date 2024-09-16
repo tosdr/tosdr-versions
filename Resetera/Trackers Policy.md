@@ -106,9 +106,6 @@ Light/Dark
 * Light/Dark
     
 
-* [](https://www.resetera.com/account/dismiss-notice?notice_id=390 "Dismiss notice")Hey everyone! [sn00zer](https://www.resetera.com/members/sn00zer.40492/) has created a vote for your [Favorite Games of All Time](https://www.resetera.com/threads/reseteras-favorite-games-voting-thread.950550/)! Voting ends at 22 hours, 21 minutes, 56 seconds. Happy voting!
-    
-
 Cookie usage
 ============
 
