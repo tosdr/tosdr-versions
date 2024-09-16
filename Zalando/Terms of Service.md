@@ -589,12 +589,12 @@ _help_Hulp & ContactHulp & Contact
 ------------------------------------------------------------------------
 
 * [Alle veelgestelde vragen](https://www.zalando.nl/faq/)
-* [Terugbetaling](https://www.zalando.nl/faq/Returns-and-Refunds)
-* [Verzenden](https://www.zalando.nl/faq/Delivery)
-* [Retourneren](https://www.zalando.nl/faq/Returns-and-Refunds)
-* [Betalen op rekening](https://www.zalando.nl/faq/Payments/how-do-i-pay-by-invoice.html)
-* [Wachtwoord wijzigen](https://www.zalando.nl/faq/My-Account/how-do-i-reset-my-password.html)
-* [Aanmelden nieuwsbrief](https://www.zalando.nl/zalando-nieuwsbrief/)
+* [Terugbetaling](https://www.zalando.nl/faq/when-will-i-receive-my-refund.html)
+* [Verzenden](https://www.zalando.nl/faq/what-delivery-options-are-available.html)
+* [Retourneren](https://www.zalando.nl/faq/how-can-I-return-my-order.html)
+* [Betalen op rekening](https://www.zalando.nl/faq/how-do-i-pay-by-invoice.html)
+* [Wachtwoord wijzigen](https://www.zalando.nl/faq/how-do-i-reset-my-password.html)
+* [Aanmelden nieuwsbrief](https://www.zalando.nl/zalando-newsletter/)
 * [Kwetsbaarheid melden](https://corporate.zalando.com/en/about-us/report-vulnerability/)
 
 _gift\_card_Kortingscodes & CadeaubonnenKortingscodes & Cadeaubonnen
@@ -605,9 +605,9 @@ _gift\_card_Kortingscodes & CadeaubonnenKortingscodes & Cadeaubonnen
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 * [Cadeaubon kopen](https://www.zalando.nl/cadeaubonnen/)
-* [Cadeaubon inwisselen](https://www.zalando.nl/faq/Vouchers/how-to-redeem-a-gift-card.html)
-* [Kortingscode inwisselen](https://www.zalando.nl/faq/Vouchers/how-to-redeem-a-gift-card.html)
-* [Voorwaarden kortingscode](https://www.zalando.nl/faq/Vouchers/gift-cards-and-vouchers-general-info.html)
+* [Cadeaubon inwisselen](https://www.zalando.nl/faq/how-to-redeem-a-gift-card.html)
+* [Kortingscode inwisselen](https://www.zalando.nl/faq/how-to-redeem-a-gift-card.html)
+* [Voorwaarden kortingscode](https://www.zalando.nl/faq/gift-cards-and-vouchers-general-info.html)
 * [Cadeaubonnen voor bedrijven](https://www.zalando.nl/cadeaubonnen-voor-uw-medewerkers/)
 
 _zalando\_logo\_outlined_ZalandoZalando
@@ -631,8 +631,8 @@ _truck_Onze partnersOnze partners
 
 ----------------------------------------------------------------------
 
-* [](https://www.zalando.nl/faq/Verzending-and-Levering)
-* [](https://www.zalando.nl/faq/Verzending-and-Levering)
+* [](https://www.zalando.nl/faq/what-delivery-options-are-available.html)
+* [](https://www.zalando.nl/faq/what-delivery-options-are-available.html)
 
 _credit\_card_Onze betaalwijzenOnze betaalwijzen
 
@@ -641,12 +641,12 @@ _credit\_card_Onze betaalwijzenOnze betaalwijzen
 
 ----------------------------------------------------------------------------------------------------
 
-* [](https://www.zalando.nl/faq/Payments/how-do-i-pay-by-credit-card.html)
-* [](https://www.zalando.nl/faq/Payments/how-do-i-pay-by-credit-card.html)
-* [_paypal_](https://www.zalando.nl/faq/Payments/how-do-pay-by-paypal.html)
-* [](https://www.zalando.nl/faq/Payments/how-do-i-pay-by-ideal.html)
-* [_rekening_](https://www.zalando.nl/faq/Payments/how-do-i-pay-by-invoice.html)
-* [](https://www.zalando.nl/faq/Payments/how-do-i-pay-by-credit-card.html)
+* [](https://www.zalando.nl/faq/how-do-i-pay-by-credit-card.html)
+* [](https://www.zalando.nl/faq/how-do-i-pay-by-credit-card.html)
+* [_paypal_](https://www.zalando.nl/faq/how-do-pay-by-paypal.html)
+* [](https://www.zalando.nl/faq/how-do-i-pay-by-ideal.html)
+* [_rekening_](https://www.zalando.nl/faq/how-do-i-pay-by-invoice.html)
+* [](https://www.zalando.nl/faq/how-do-i-pay-by-credit-card.html)
 
 _shopping\_bag\_full_Makkelijk online shoppenMakkelijk online shoppen
 
@@ -656,9 +656,9 @@ _shopping\_bag\_full_Makkelijk online shoppenMakkelijk online shoppen
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
 * [Ontdek Zalando Plus](https://www.zalando.nl/zalandoplus/)
-* [Gratis standaard verzending vanaf €25,-](https://www.zalando.nl/faq/Delivery/what-does-standard-delivery-include.html)
-* [100 dagen retourrecht](https://www.zalando.nl/faq/Returns-and-Refunds/what-is-your-return-policy.html)
-* [Gratis retour](https://www.zalando.nl/faq/Returns-and-Refunds/what-is-your-return-policy.html)
+* [Gratis standaard verzending vanaf €25,-](https://www.zalando.nl/faq/what-delivery-options-are-available.html)
+* [100 dagen retourrecht](https://www.zalando.nl/faq/what-is-your-return-policy.html)
+* [Gratis retour](https://www.zalando.nl/faq/how-can-I-return-my-order.html)
 
 _zalando\_logo\_outlined_Veilig online shoppenVeilig online shoppen
 
