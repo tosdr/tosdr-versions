@@ -1,4 +1,4 @@
-🎫 Meet us at KubeCon + CloudNativeCon NA · Nov 12-15 · Salt Lake City [REGISTER TODAY](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/register/?utm_source=lf&utm_medium=homepage&utm_campaign=KubeCon%20NA%202024&utm_content=hello-bar)
+🎫 Meet us at Open Source in Finance Forum · Sep 30 - Oct 1 · New York City [REGISTER TODAY](https://events.linuxfoundation.org/open-source-finance-forum-new-york/)
 
 English Japan China Europe
 
@@ -90,7 +90,7 @@ Follow Us
 Privacy Policy
 ==============
 
-_Last updated: November 7, 2023_
+_Last updated: September 11, 2024_
 
 The Linux Foundation’s core purpose is to foster an ecosystem that supports the collaborative and public development of free and open source software projects (each, a “Project”).  This privacy policy (“Privacy Policy”) describes our policies and procedures about the collection, use, disclosure and sharing, or other processing of your personal information when you use our websites (e.g., linuxfoundation.org, linux.com), our LFX platform (e.g., lfx.linuxfoundation.org) (“LFX”) or participate in or use our Project sites (collectively, the “Sites”), as well as when you interact with or participate in our events, programs, trainings and our other services and offerings, including services accessible through LFX (collectively, the “Services”).  This Privacy Policy applies to activities by The Linux Foundation and its affiliates, subsidiaries and related entities (collectively “TLF,” “we” or “us”), including activities that we perform for other entities through management services agreements. The Privacy Policy does not apply to information collected about TLF employees or other TLF personnel.
 
@@ -208,7 +208,7 @@ You should take steps to protect against unauthorized access to your passwords, 
 
 **Marketing Choices**
 
-You may opt out of or withdraw your consent to receive direct marketing emails from us by using the unsubscribe or opt out mechanisms included in our marketing emails or by emailing [privacy@linuxfoundation.org](mailto:privacy@linuxfoundation.org). You may also unsubscribe from mailing lists via the applicable mailing list’s subscription website or, in some cases, by using the unsubscribe mechanisms included in such emails.
+You may opt out of or withdraw your consent to receive direct marketing emails from us by using the unsubscribe or opt out mechanisms included in our marketing emails or by submitting your request at [LF UNSUBSCRIBE](https://share.hsforms.com/1F3VuCtu5SOy8kkVqHvciMg4tvhy) [](mailto:privacy@linuxfoundation.org). You may also unsubscribe from mailing lists via the applicable mailing list’s subscription website or, in some cases, by using the unsubscribe mechanisms included in such emails.
 
 **Retention of Your Personal Information**
 
@@ -216,7 +216,7 @@ We generally keep personal information only for as long as required to fulfill t
 
 **International Transfers**
 
-If you are located within the European Economic Area, the United Kingdom or Switzerland, you should note that your personal information will be transferred to countries outside these jurisdictions, including the United States where TLF is located.  The U.S. is deemed by the European Union to provide inadequate data protection.  However, we have put in place European Commission approved Standard Contractual Clauses to provide for adequate safeguards to protect personal information transferred outside these jurisdictions, including between TLF entities.  In addition, if personal information is transferred to third party service providers located outside these jurisdictions, we will take steps to ensure that your personal information receives the same level of protection as if it remained within these jurisdictions, including by entering into data transfer agreements, using the European Commission approved Standard Contractual Clauses or other safeguards as approved by the European Commission. You have a right to obtain details of the mechanism under which your personal information is transferred outside of the EU by emailing [gdpr@linuxfoundation.org](mailto:gdpr@linuxfoundation.org).
+If you are located within the European Economic Area, the United Kingdom or Switzerland, you should note that your personal information will be transferred to countries outside these jurisdictions, including the United States where TLF is located.  The U.S. is deemed by the European Union to provide inadequate data protection.  However, we have put in place European Commission approved Standard Contractual Clauses to provide for adequate safeguards to protect personal information transferred outside these jurisdictions, including between TLF entities.  In addition, if personal information is transferred to third party service providers located outside these jurisdictions, we will take steps to ensure that your personal information receives the same level of protection as if it remained within these jurisdictions, including by entering into data transfer agreements, using the European Commission approved Standard Contractual Clauses or other safeguards as approved by the European Commission. You have a right to obtain details of the mechanism under which your personal information is transferred outside of the EU by emailing [privacyrights@linuxfoundation.org](mailto:privacyrights@linuxfoundation.org).
 
 **Children’s Privacy**
 
@@ -226,7 +226,7 @@ Except as specifically indicated within a Site, we do not knowingly collect or s
 
 The Sites may contain links to third party sites or online services. Please refer to the privacy policies of the relevant third party websites or services to find out more about how they process and handle personal information.
 
-[**Your Rights**](#yourrights)
+**Your Rights**
 
 **_Access and Amendment_**_._ If you have registered with us and created a Linux Foundation ID profile or an LFX Account wish to access or update certain personal information contained therein, you may do so online by visiting the “My Profile” or “My Account” settings in your respective account or by visiting [https://myprofile.linuxfoundation.org](https://myprofile.linuxfoundation.org/). You may also contact our privacy coordinator, as set forth below, to access or amend your personal information.
 
@@ -243,11 +243,11 @@ The Sites may contain links to third party sites or online services. Please refe
 
 **_Lodging a Complaint_**_._ You also have the right to lodge a complaint with your local supervisory authority for data protection, or privacy regulator. A list of data protection supervisory authorities is available [here](http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080).
 
-**_Submitting a Request_**_._ To exercise the above rights or contact us with questions or complaints regarding our treatment of your personal information, contact us at [gdpr@linuxfoundation.org](mailto:gdpr@linuxfoundation.org).Please note that we may request proof of identity, and we reserve the right to charge a fee where permitted by law, especially if your request is manifestly unfounded or excessive. We will respond to your request within the applicable timeframes set out by law.
+**_Submitting a Request_**_._ To exercise the above rights or contact us with questions or complaints regarding our treatment of your personal information, contact us at [privacyrights@linuxfoundation.org](mailto:privacyrights@linuxfoundation.org).Please note that we may request proof of identity, and we reserve the right to charge a fee where permitted by law, especially if your request is manifestly unfounded or excessive. We will respond to your request within the applicable timeframes set out by law.
 
 **California Privacy Rights**
 
-California law permits users who are California residents to request and obtain from us once a year, free of charge, a list of the third parties to whom we have disclosed their personal information (if any) for their direct marketing purposes in the prior calendar year, as well as the types of personal information disclosed to those parties. If you are a California resident and would like to request this information, please submit your request in an email to [privacy@linuxfoundation.org](mailto:privacy@linuxfoundation.org). We may ask you to verify your California residency.
+California law permits users who are California residents to request and obtain from us once a year, free of charge, a list of the third parties to whom we have disclosed their personal information (if any) for their direct marketing purposes in the prior calendar year, as well as the types of personal information disclosed to those parties. If you are a California resident and would like to request this information, please submit your request in an email to [privacyrights@linuxfoundation.org](mailto:privacyrights@linuxfoundation.org). We may ask you to verify your California residency.
 
 **Contact Us**
 
