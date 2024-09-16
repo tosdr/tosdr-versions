@@ -1,6 +1,6 @@
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
-[Read The Latest Digest](https://patriotpost.us/digests/110113-mid-day-digest-2024-09-10?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Latest Digest](https://patriotpost.us/digests/110280-mid-day-digest-2024-09-16?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 Subscriber/User Terms and Conditions of Service
 
@@ -185,33 +185,32 @@ These Terms and Conditions, together with the Privacy Policy, represent the enti
 
 All users and subscribers of Web site agree to abide by and comply with these "Subscriber/User Terms and Conditions of Service," as set forth by Publius Press, Inc., publisher of The Patriot Post, as a condition of subscription or use.
 
-[Read The Mid-Day Digest](https://patriotpost.us/digests/110113-mid-day-digest-2024-09-10?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Mid-Day Digest](https://patriotpost.us/digests/110280-mid-day-digest-2024-09-16?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 [Executive News Summary](https://patriotpost.us/categories/74-headlines)
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/110081-free-stuff-2024-09-10)
+     [](https://patriotpost.us/memes/110270-build-then-fix-2024-09-16)
 
 * [More Memes >](https://patriotpost.us/memes)
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34192)
+     [](https://patriotpost.us/cartoons/34222)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
-*      [Salena Zito Trump Vows to Hold Harris Accountable and Take Country to Better Place](https://patriotpost.us/opinion/110090-trump-vows-to-hold-harris-accountable-and-take-country-to-better-place-2024-09-10)
-*      [Cal Thomas The Harris-Trump Debate](https://patriotpost.us/opinion/110089-the-harris-trump-debate-2024-09-10)
-*      [Gary Bauer 2024 Voter Guides](https://patriotpost.us/opinion/110088-2024-voter-guides-2024-09-10)
-*      [Tony Perkins The Three Most Important Words for Election 2024](https://patriotpost.us/opinion/110087-the-three-most-important-words-for-election-2024-2024-09-10)
-*      [Christine Flowers Pride in Origins Matters, and a Person’s Name Reflects That](https://patriotpost.us/opinion/110092-pride-in-origins-matters-and-a-persons-name-reflects-that-2024-09-10)
-*      [Daniel McCarthy Kamala Harris Runs Like a Republican — and Misleads on Tariffs](https://patriotpost.us/opinion/110091-kamala-harris-runs-like-a-republican-and-misleads-on-tariffs-2024-09-10)
-*      [The Washington Stand How Should Christians Think About Jews?](https://patriotpost.us/opinion/110086-how-should-christians-think-about-jews-2024-09-10)
-*      [The Babylon Bee Kamala’s 7 Debate Demands Revealed](https://patriotpost.us/opinion/110085-kamalas-7-debate-demands-revealed-2024-09-10)
-*      [Guest Commentary Why the 2024 Race Is Such a Nail-Biter](https://patriotpost.us/opinion/110051-why-the-2024-race-is-such-a-nail-biter-2024-09-10)
+*      [Mark Alexander Another Trump Assassin Triggered by Hateful Political Rhetoric](https://patriotpost.us/alexander/110257-another-trump-assassin-triggered-by-hateful-political-rhetoric-2024-09-16)
+*      [Rich Lowry The Real Scandal in Springfield, Ohio](https://patriotpost.us/opinion/110249-the-real-scandal-in-springfield-ohio-2024-09-16)
+*      [Jeff Jacoby Why Don’t Unions Have to Stand for Reelection?](https://patriotpost.us/opinion/110246-why-dont-unions-have-to-stand-for-reelection-2024-09-16)
+*      [Gary Bauer Trump Tax Breaks Break the Mold, Again](https://patriotpost.us/opinion/110245-trump-tax-breaks-break-the-mold-again-2024-09-16)
+*      [Allen West An American Insurgency](https://patriotpost.us/opinion/110244-an-american-insurgency-2024-09-16)
+*      [The Washington Stand Media Censorship Money Trail Leads Back to U.S. State Department, House Committee Finds](https://patriotpost.us/opinion/110248-media-censorship-money-trail-leads-back-to-us-state-department-house-committee-finds-2024-09-16)
+*      [The Babylon Bee Media Assures Americans the Real Threat Is the Side That Keeps Getting Shot At](https://patriotpost.us/opinion/110247-media-assures-americans-the-real-threat-is-the-side-that-keeps-getting-shot-at-2024-09-16)
+*      [Guest Commentary Choosing](https://patriotpost.us/opinion/110256-choosing-2024-09-16)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -225,13 +224,11 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J6GDPPXKR0WE0EEY8HMPQRRM.jpeg)
-
-![](https://img.patriotpost.us/01J6GDRGGC1X1W7KK3YZVKFXK6.jpeg)](https://patriotpostshop.com/collections/featured-products)
+[![](https://img.patriotpost.us/01J7XJG09TMYZE4Q8SEV8JAEMY.jpeg)](https://patriotpostshop.com/collections/american-liberty-collection)
 
 ### The Foundation
 
-“Men must be ready, they must pride themselves and be happy to sacrifice their private pleasures, passions and interests, nay, their private friendships and dearest connections, when they stand in competition with the rights of society.” —John Adams (1776)
+“In the supposed state of nature, all men are equally bound by the laws of nature, or to speak more properly, the laws of the Creator.” —Samuel Adams (1794)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
