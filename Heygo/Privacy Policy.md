@@ -348,7 +348,7 @@ Featured travel offers
     
     Use code HOLIDAYSALE and save up to £200 on all-inclusive holidays on a minimum spend of £2000. Valid until 16th September, 2024.
     
-    From £225pp
+    From £224pp
     
     [View Holiday\*](https://redirects.restless.co.uk/redirect?url=https%3A%2F%2Feasyjet.prf.hn%2Fclick%2Fcamref%3A1101l3RwTL%2Fdestination%3Ahttps%253A%252F%252Fwww.easyjet.com%252Fen%252Fholidays%252Fturkey&item=traveldeal&item_id=531091d3-87dd-4ca9-91b6-d92dc4eb652e&utm_source=mainsite&utm_campaign=travel_deals)
     
@@ -507,6 +507,12 @@ Where to travel abroad by month...
 New in travel
 -------------
 
+[![14 spectacular countries to add to your travel wish list](https://media.restless.co.uk/uploads/2022/12/spectacular-countries-to-add-to-your-travel-wish-list-768x511.jpg)](https://restless.co.uk/travel/spectacular-countries-to-add-to-your-travel-wish-list/)
+
+### [14 spectacular countries to add to your travel wish list](https://restless.co.uk/travel/spectacular-countries-to-add-to-your-travel-wish-list/)
+
+[Read More »](https://restless.co.uk/travel/spectacular-countries-to-add-to-your-travel-wish-list/)
+
 [![7 of the cheapest Caribbean islands to visit on a budget](https://media.restless.co.uk/uploads/2023/08/the-cheapest-caribbean-islands-to-visit-on-a-budget-1-768x511.jpg)](https://restless.co.uk/travel/the-cheapest-caribbean-islands-to-visit-on-a-budget/)
 
 ### [7 of the cheapest Caribbean islands to visit on a budget](https://restless.co.uk/travel/the-cheapest-caribbean-islands-to-visit-on-a-budget/)
@@ -536,12 +542,6 @@ New in travel
 ### [10 of the most luxurious holiday destinations around the globe](https://restless.co.uk/travel/most-luxurious-holiday-destinations-around-the-globe/)
 
 [Read More »](https://restless.co.uk/travel/most-luxurious-holiday-destinations-around-the-globe/)
-
-[![10 popular destinations for an all-inclusive holiday in 2025](https://media.restless.co.uk/uploads/2024/09/popular-destinations-for-an-all-inclusive-holiday-in-2025-768x511.jpg)](https://restless.co.uk/travel/popular-destinations-for-an-all-inclusive-holiday-in-2025/)
-
-### [10 popular destinations for an all-inclusive holiday in 2025](https://restless.co.uk/travel/popular-destinations-for-an-all-inclusive-holiday-in-2025/)
-
-[Read More »](https://restless.co.uk/travel/popular-destinations-for-an-all-inclusive-holiday-in-2025/)
 
 Popular travel guides
 ---------------------
