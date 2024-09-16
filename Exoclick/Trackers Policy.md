@@ -141,16 +141,6 @@ Target double opt-in users with our high converting Email Clicks ad format.
     
     [Read More](https://www.exoclick.com/event/exoclick-at-tes-affiliate-conference-prague-2024/)
     
-* [![ExoClick is Attending AW Summit in Bucharest on the 12-15th 2024!](https://www.exoclick.com/wp-content/uploads/2024/08/Bucharest-1-320x179.png)](https://www.exoclick.com/event/exoclick-is-attending-aw-summit/)
-    
-    ### [ExoClick is Attending AW Summit](https://www.exoclick.com/event/exoclick-is-attending-aw-summit/)
-    
-    When: September 12, 2024 - September 15, 2024 Organiser: AW Summit
-    
-    ExoClick is Attending AW Summit in Bucharest on the 12-15th 2024! Book a meeting with Artem
-    
-    [Read More](https://www.exoclick.com/event/exoclick-is-attending-aw-summit/)
-    
 
 #### [Advertisers](https://www.exoclick.com/advertisers-2/)
 
