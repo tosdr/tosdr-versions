@@ -224,7 +224,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J7XJG09TMYZE4Q8SEV8JAEMY.jpeg)](https://patriotpostshop.com/collections/american-liberty-collection)
+No MSM Churn No Clickbait Junk No Advertising
 
 ### The Foundation
 
