@@ -82,7 +82,7 @@ We collect the following data related to your use of VPN Proxy Master:
 
 3)      Amount of data transferred: we collect the aggregate sum of data transferred to ensure individual users do not use too much data at the expense of other users.
 
-4)      Anonymous data for network diagnostics, study and analysis: We collect anonymised data to operate VPN Proxy Master, including diagnostic data VPN connection failures, speed test data, and crash reports.
+4)      Anonymous data for network diagnostics, study and analysis: We collect anonymized data to operate VPN Proxy Master, including diagnostic data VPN connection failures, speed test data, and crash reports.
 
 **2.**         **USE OF DATA**
 
@@ -96,7 +96,7 @@ We do not use other forms of your data to verify your identity.
 
 **2.2**               **System diagnostics**
 
-We use your data related to your VPN Proxy Master usage to perform internal operations necessary to maintain VPN Proxy Master. This includes troubleshooting operational problems, conducting data analysis, and analysing activity trends.
+We use your data related to your VPN Proxy Master usage to perform internal operations necessary to maintain VPN Proxy Master. This includes troubleshooting operational problems, conducting data analysis, and analyzing activity trends.
 
 **2.3**               **Customer support**
 
@@ -106,7 +106,7 @@ We may communicate with you to provide you with updates relating to VPN Proxy Ma
 
 **2.4  Research and development**
 
-We use your data to understand and analyse your use of VPN Proxy Master to develop new products, services, features, and functionality.
+We use your data to understand and analyze your use of VPN Proxy Master to develop new products, services, features, and functionality.
 
 **2.5  Service providers**
 
@@ -118,7 +118,7 @@ We share and transfer your data in various ways, including the following:
 
 **3.1  Aggregated anonymous data**
 
-We use and share your data with our partners in aggregated or anonymised form that cannot be used to identify individual users.
+We use and share your data with our partners in aggregated or anonymized form that cannot be used to identify individual users.
 
 **3.2  Referral**
 
@@ -126,7 +126,7 @@ If you sign up for VPN Proxy Master through a referral from a friend, we may let
 
 **3.3  Analytics**
 
-We share and transfer your anonymised statistics and analytics data for network diagnostics.
+We share and transfer your anonymized statistics and analytics data for network diagnostics.
 
 **3.4  Business transfers**
 
@@ -136,15 +136,15 @@ Your data may be disclosed and otherwise transferred to any potential acquirer, 
 
 With your consent and instruction, we may share your data.
 
-**3.6**               **International data transfers**
+**3.6**  **International data transfers**
 
-**3.7**   We may process your data to any countries in which we engage service providers. You acknowledge the transfer of your data outside of the country where you reside. We will ensure your data is protected before transferring the data.
+We may process your data to any countries in which we engage service providers. You acknowledge the transfer of your data outside of the country where you reside. We will ensure your data is protected before transferring the data.
 
 **4.**         **SECURITY MEASURES**
 
-We implement robust security measures to protect your data from unauthorised access, collection, use, disclosure, copying, modification, disposal, or similar risks. We ensure that our computer networks are secure. We adopt access control measures. Our staff’s access to your data is restricted to a need-to-know basis.
+We implement robust security measures to protect your data from unauthorized access, collection, use, disclosure, copying, modification, disposal, or similar risks. We ensure that our computer networks are secure. We adopt access control measures. Our staff’s access to your data is restricted to a need-to-know basis.
 
-We do not collect or store any traffic data or personal data in our data centres.
+We do not collect or store any traffic data or personal data in our data centers.
 
 **5.**         **DATA RETENTION**
 
@@ -202,7 +202,7 @@ l  use any other feature where users could appear under their real names
 
 With respect to such a user, we will prevent the collection and use of their precise geolocation data and display to them contextual advertising only (excluding any behavioral advertising).
 
-Children can be invited to take part in testing our apps with their parents' or guardians’ authorization and/or their parents' or guardians’ physical presence being required depending on the state where the playtest is conducted.
+Children can be invited to take part in testing our apps with their parents' or guardians’ authorization and/or their parents' or guardians’ physical presence being required depending on the state where the testing is conducted.
 
 Parents must exercise their privacy rights for their children provided in this Privacy Policy.
 
@@ -222,11 +222,11 @@ To protect your privacy and security, we may take reasonable steps to verify you
 
 You may make a request to correct an error or omission about your data that is in our possession or control, by emailing vpnproxymaster@lemonclove.net.
 
-We will consider whether the correction should be made. If such correction is to be made, we shall correct your data as soon as practicable and send the corrected data to every other organisation to which your data was disclosed by us within a year before the date the correction request was made, unless that other organisation does not need the corrected data for any legal or business purpose.
+We will consider whether the correction should be made. If such correction is to be made, we shall correct your data as soon as practicable and send the corrected data to every other organization to which your data was disclosed by us within a year before the date the correction request was made, unless that other organization does not need the corrected data for any legal or business purpose.
 
 To protect your privacy and security, we may take reasonable steps to verify your identity before correcting your data. Your data may be archived or stored periodically by us according to backup processes conducted in the ordinary course of business for disaster recovery purposes.
 
-**12.**     **GDPR**
+**13.**     **GDPR**
 
 If you are a resident of the EEA, we ask that you keep the information that you provide to us updated. You can correct any information you have provided by contacting us through this [form](https://www.gameloft.com/zz/privacy-notice/contact-form).
 
@@ -258,7 +258,7 @@ To preserve the confidentiality of your information, we must be able to correctl
 
 Our team will look into your request and answer you within one month, unless your request requires further investigation. You’ll be specifically informed if that is the case.
 
-**13.**     **CCPA**
+**14.**     **CCPA**
 
 The California Consumer Privacy Act of 2018 (CCPA) permits California residents to request from a business, with whom the California resident has an established business relationship, certain information about the types of personal information the business has collected, shared with, and/or sold to third parties for a business or commercial purpose during the immediately preceding calendar year.
 
@@ -266,22 +266,22 @@ As a Californian consumer, you also have the right, at any time, to opt out of a
 
 Please note that we do not sell your personal information to provide VPN Proxy Master or our services described in this Privacy Policy. Our partners and providers who work with us may have access to your personal information in order to provide you with the services within the limits and throughout the duration of our agreement, but they can’t reuse your personal information for any other purposes. Our contracts are strictly drafted to protect your personal information and your privacy rights.
 
-**13.  BREACH NOTIFICATION**
+**15.  BREACH NOTIFICATION**
 
 We will report serious breaches of your data to the relevant supervisory authority to ensure your data is protected.
 
-**14.  CHANGES TO THIS PRIVACY POLICY**
+**16.  CHANGES TO THIS PRIVACY POLICY**
 
 To ensure compliance with applicable laws, this Privacy Policy may be modified from time to time without prior notice to you. Your continued use of VPN Proxy Master constitutes your acceptance of our Privacy Policy. Changes to this Privacy Policy will be posted on our websites.
 
 If we materially change the ways in which we use or share your data previously collected through VPN Proxy Master, we will notify you through VPN Proxy Master, email, or other communication.
 
-**15.  GOVERNING LAW**
+**17.  GOVERNING LAW**
 
 This Privacy Policy is governed by and construed in accordance with the laws of the Republic of Singapore.
 
-**16.  DATA PROTECTION OFFICER**
+**18.  DATA PROTECTION OFFICER**
 
-HP Yeo is our Data Protection Officer ("**DPO**"). The DPO may be contacted at DataPrivacyOfficer@lemonclove.net.
+Cecilia Fung is our Data Protection Officer ("**DPO**"). The DPO may be contacted at dataprotectionofficer@lemonclove.net.
 
 If you have any questions or concerns about this Privacy Policy, please feel free to contact us at vpnproxymaster@lemonclove.net.
