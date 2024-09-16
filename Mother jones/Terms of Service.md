@@ -8,10 +8,10 @@
 
 *  
     
-* [Florida’s Abortion Ban](https://www.motherjones.com/politics/2024/09/floridas-6-week-ban-caused-abortions-to-plummet/)
-* [Gaza Protests](https://www.motherjones.com/politics/2024/09/new-university-rules-crack-down-on-gaza-protests/)
-* [Trump](https://www.motherjones.com/politics/2024/09/donald-trump-victory-november-climate-crisis/)
-* [Kamala Harris](https://www.motherjones.com/politics/2024/09/kamala-harris-unrealized-capital-gains-tax-plan/)
+* [Harris’ Climate Action](https://www.motherjones.com/environment/2024/09/kamala-harris-climate-patriotism/)
+* [Trump Assassination Attempt](https://www.motherjones.com/politics/2024/09/shots-fired-trump-assassination-attempt/)
+* [JD Vance](https://www.motherjones.com/politics/2024/09/jd-vance-keeps-doubling-down-on-racist-lies-about-springfield/)
+* [“Republicans for Harris”](https://www.motherjones.com/politics/2024/09/republicans-for-harris-reagan-staff/)
 
 * [Newsletters](https://www.motherjones.com/newsletters/?mj_oac=dropdown_nav)
 * [Politics](https://www.motherjones.com/politics/)
@@ -27,10 +27,10 @@
 
 *  
     
-* [Florida’s Abortion Ban](https://www.motherjones.com/politics/2024/09/floridas-6-week-ban-caused-abortions-to-plummet/)
-* [Gaza Protests](https://www.motherjones.com/politics/2024/09/new-university-rules-crack-down-on-gaza-protests/)
-* [Trump](https://www.motherjones.com/politics/2024/09/donald-trump-victory-november-climate-crisis/)
-* [Kamala Harris](https://www.motherjones.com/politics/2024/09/kamala-harris-unrealized-capital-gains-tax-plan/)
+* [Harris’ Climate Action](https://www.motherjones.com/environment/2024/09/kamala-harris-climate-patriotism/)
+* [Trump Assassination Attempt](https://www.motherjones.com/politics/2024/09/shots-fired-trump-assassination-attempt/)
+* [JD Vance](https://www.motherjones.com/politics/2024/09/jd-vance-keeps-doubling-down-on-racist-lies-about-springfield/)
+* [“Republicans for Harris”](https://www.motherjones.com/politics/2024/09/republicans-for-harris-reagan-staff/)
 
 [Subscribe to our magazine](https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGHOP&c=SEGHOC&d=SEGHOD&f=SEGHOF "Subscribe")
 
