@@ -4,7 +4,7 @@ Sections
 
 [WATCH](https://www.actionnewsjax.com/video/)
 
-[75°
+[79°
 
 ![Cloudy](/pf/resources/images/weather/status-icons/26.png?d=859)](https://www.actionnewsjax.com/weather/)
 
