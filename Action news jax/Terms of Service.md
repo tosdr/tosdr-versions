@@ -4,9 +4,9 @@ Sections
 
 [WATCH](https://www.actionnewsjax.com/video/)
 
-[83°
+[76°
 
-![Mostly Cloudy](/pf/resources/images/weather/status-icons/28.png?d=859)](https://www.actionnewsjax.com/weather/)
+![Cloudy](/pf/resources/images/weather/status-icons/26.png?d=859)](https://www.actionnewsjax.com/weather/)
 
 [WATCH](https://www.actionnewsjax.com/video/)
 
@@ -94,6 +94,7 @@ Sections
     * [Visitor Agreement](https://www.actionnewsjax.com/visitor-agreement/)
     * [Privacy Policy](https://www.actionnewsjax.com/privacy-policy/)
     
+* [About WJAX](https://www.actionnewsjax.com/wjax-cbs47/)
 * [More](https://www.actionnewsjax.com/more/)
     
     * [Jax Home Experts](https://www.actionnewsjax.com/jaxhomeexperts/)
