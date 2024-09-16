@@ -31,65 +31,17 @@ Privacy Policy
 
 [Skip to Content](#maincontent)
 
-#### Free Mini Bake & Set on US orders $45+
+[#### Free Mini Bake & Set on US orders $45+
 
-#### Free shipping on US orders $35+
+#### Free Mini Bake & Set on US orders $45+](https://www.morphe.com/products/bake-and-set-setting-powder-translucent)
 
-#### BUY 2, GET 1 FREE ON ALL SOULMATTE PRODUCTS
+[#### Free shipping on US orders $35+
 
-#### Free Mini Bake & Set on US orders $45+
+#### Free shipping on US orders $35+](https://www.morphe.com/collections/shop-all)
 
-#### Free shipping on US orders $35+
+[#### BUY 2, GET 1 FREE ON ALL SOULMATTE PRODUCTS
 
-#### BUY 2, GET 1 FREE ON ALL SOULMATTE PRODUCTS
-
-#### Free Mini Bake & Set on US orders $45+
-
-#### Free shipping on US orders $35+
-
-#### BUY 2, GET 1 FREE ON ALL SOULMATTE PRODUCTS
-
-#### Free Mini Bake & Set on US orders $45+
-
-#### Free shipping on US orders $35+
-
-#### BUY 2, GET 1 FREE ON ALL SOULMATTE PRODUCTS
-
-#### Free Mini Bake & Set on US orders $45+
-
-#### Free shipping on US orders $35+
-
-#### BUY 2, GET 1 FREE ON ALL SOULMATTE PRODUCTS
-
-#### Free Mini Bake & Set on US orders $45+
-
-#### Free shipping on US orders $35+
-
-#### BUY 2, GET 1 FREE ON ALL SOULMATTE PRODUCTS
-
-#### Free Mini Bake & Set on US orders $45+
-
-#### Free shipping on US orders $35+
-
-#### BUY 2, GET 1 FREE ON ALL SOULMATTE PRODUCTS
-
-#### Free Mini Bake & Set on US orders $45+
-
-#### Free shipping on US orders $35+
-
-#### BUY 2, GET 1 FREE ON ALL SOULMATTE PRODUCTS
-
-#### Free Mini Bake & Set on US orders $45+
-
-#### Free shipping on US orders $35+
-
-#### BUY 2, GET 1 FREE ON ALL SOULMATTE PRODUCTS
-
-#### Free Mini Bake & Set on US orders $45+
-
-#### Free shipping on US orders $35+
-
-#### BUY 2, GET 1 FREE ON ALL SOULMATTE PRODUCTS
+#### BUY 2, GET 1 FREE ON ALL SOULMATTE PRODUCTS](https://www.morphe.com/collections/soulmatte)[shop now](https://www.morphe.com/collections/soulmatte)
 
 * ![toggle mobile menu](//www.morphe.com/cdn/shop/t/892/assets/hamburger-icon-black.svg?v=37398962526372985731725897145)
 * ![Search](//www.morphe.com/cdn/shop/t/892/assets/search-icon-black.svg?v=109393770938569529511725897208)
