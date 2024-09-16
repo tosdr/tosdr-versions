@@ -32,12 +32,11 @@ Navigation
     
     *  [![](https://media.tegna-media.com/assets/WNEP/images/f47e35ac-6fbe-42b7-8fad-97c5eb5eb342/f47e35ac-6fbe-42b7-8fad-97c5eb5eb342_16x9.jpg) ![](https://media.tegna-media.com/assets/WNEP/images/f47e35ac-6fbe-42b7-8fad-97c5eb5eb342/f47e35ac-6fbe-42b7-8fad-97c5eb5eb342_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/power-outage-davenport-midamerican/526-35f2e47c-b69f-4370-8c79-e0b2db3ae0a6)
         
-        #### [Thousands of MidAmerican customers lose power in Davenport Monday morning](https://www.wqad.com/article/news/local/public-safety/power-outage-davenport-midamerican/526-35f2e47c-b69f-4370-8c79-e0b2db3ae0a6) [![](https://media.tegna-media.com/assets/WNEP/images/f47e35ac-6fbe-42b7-8fad-97c5eb5eb342/f47e35ac-6fbe-42b7-8fad-97c5eb5eb342_16x9.jpg) ![](https://media.tegna-media.com/assets/WNEP/images/f47e35ac-6fbe-42b7-8fad-97c5eb5eb342/f47e35ac-6fbe-42b7-8fad-97c5eb5eb342_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/power-outage-davenport-midamerican/526-35f2e47c-b69f-4370-8c79-e0b2db3ae0a6)
+        #### [Thousands of MidAmerican customers lose power in Davenport Monday morning](https://www.wqad.com/article/news/local/public-safety/power-outage-davenport-midamerican/526-35f2e47c-b69f-4370-8c79-e0b2db3ae0a6)
         
-        #### [Thousands of power outages reported in Davenport Monday morning](https://www.wqad.com/article/news/local/public-safety/power-outage-davenport-midamerican/526-35f2e47c-b69f-4370-8c79-e0b2db3ae0a6)
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/abae0728-cb54-414d-bb50-55aa2a5097a7/abae0728-cb54-414d-bb50-55aa2a5097a7_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/abae0728-cb54-414d-bb50-55aa2a5097a7/abae0728-cb54-414d-bb50-55aa2a5097a7_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/davenport-shooting-saturday-non-life-threatening-injuries/526-2d93fb4a-ff75-4450-90a0-d6ab6a1f010c)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
         
-        #### [Shooting in Davenport Saturday night injures 2 men](https://www.wqad.com/article/news/local/public-safety/davenport-shooting-saturday-non-life-threatening-injuries/526-2d93fb4a-ff75-4450-90a0-d6ab6a1f010c)
+        #### [Boil orders in the Quad Cities region](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -57,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.tegna-media.com/assets/CCT/images/e541080c-0fb0-4cd9-9e04-967d0df575fb/20240916T133310/e541080c-0fb0-4cd9-9e04-967d0df575fb_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/e541080c-0fb0-4cd9-9e04-967d0df575fb/20240916T133310/e541080c-0fb0-4cd9-9e04-967d0df575fb_360x203.jpg)](https://www.wqad.com/article/news/nation-world/tropical-storm-conditions-expected-parts-of-the-carolinas/507-e0c724a0-fbfd-437c-9cbf-f1ed0939a051)
+        
+        #### [Tropical storm conditions expected for parts of the Carolinas as disturbance approaches coast](https://www.wqad.com/article/news/nation-world/tropical-storm-conditions-expected-parts-of-the-carolinas/507-e0c724a0-fbfd-437c-9cbf-f1ed0939a051)
+        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/6ee99cbd-9a38-41e6-9b09-a1b6d837b14b/20240916T121310/6ee99cbd-9a38-41e6-9b09-a1b6d837b14b_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/6ee99cbd-9a38-41e6-9b09-a1b6d837b14b/20240916T121310/6ee99cbd-9a38-41e6-9b09-a1b6d837b14b_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
         #### [A few more 90s ahead this week](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
-        
-    *  [![](https://media.tegna-media.com/assets/CCT/images/b19ce186-e13f-4d38-8d95-fcacbd385ae3/20240818T162111/b19ce186-e13f-4d38-8d95-fcacbd385ae3_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/b19ce186-e13f-4d38-8d95-fcacbd385ae3/20240818T162111/b19ce186-e13f-4d38-8d95-fcacbd385ae3_360x203.jpg)](https://www.wqad.com/article/news/nation-world/full-moon-supermoon-lunar-eclipse-harvest-moon/507-27188f92-97c9-4f20-beea-2cd4b0c14fba)
-        
-        #### [The next full moon will also feature a lunar eclipse. Here's when to look up](https://www.wqad.com/article/news/nation-world/full-moon-supermoon-lunar-eclipse-harvest-moon/507-27188f92-97c9-4f20-beea-2cd4b0c14fba)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -87,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-85°
+84°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Fair](/assets/shared-images/weather-icons/mostly-sunny-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
