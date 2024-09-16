@@ -43,70 +43,58 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![jennifer lopez and ben affleck](https://www.women.com/img/gallery/jennifer-lopez-and-ben-afflecks-divorce-explained-with-astrology/intro-1726079301.jpg)](https://www.women.com/1662476/jennifer-lopez-ben-affleck-divorce-astrology/)
+*  [![Taylor Swift on the red carpet](https://www.women.com/img/gallery/6-love-lessons-weve-learned-from-taylor-swift/intro-1726249267.jpg)](https://www.women.com/1665299/love-lessons-learned-taylor-swift/)
     
-    [Living](https://www.women.com/category/living/)
+    [Relationships](https://www.women.com/category/relationships/)
     
-    [Living](https://www.women.com/category/living/) By Amanda Chatel
+    [Relationships](https://www.women.com/category/relationships/) By Emily Hutchinson
     
-    [Jennifer Lopez And Ben Affleck's Divorce, Explained With Astrology](https://www.women.com/1662476/jennifer-lopez-ben-affleck-divorce-astrology/)
-    =================================================================================================================================================
+    [6 Love Lessons We've Learned From Taylor Swift](https://www.women.com/1665299/love-lessons-learned-taylor-swift/)
+    ==================================================================================================================
     
-    Jennifer Lopez and Ben Affleck lasted another two years before announcing their impending divorce. How does astrology help explain the split?
+    Along with giving us music to relate to, Taylor Swift has taught fans around the world countless lessons about love and heartbreak.
     
-    By Amanda Chatel [Read More](https://www.women.com/1662476/jennifer-lopez-ben-affleck-divorce-astrology/)
+    By Emily Hutchinson [Read More](https://www.women.com/1665299/love-lessons-learned-taylor-swift/)
     
-* *  [![Selena Gomez](https://www.women.com/img/gallery/selena-gomezs-choice-to-avoid-high-risk-pregnancy-shows-us-another-way-of-prioritizing-motherhood/intro-1726081971.jpg)](https://www.women.com/1662558/celebs-honest-about-fertility-struggles/)
+* *  [![Halloween-inspired nails](https://www.women.com/img/gallery/5-halloween-inspired-manicures-for-short-nails/intro-1726494767.jpg)](https://www.women.com/1662530/halloween-inspired-manicures-short-nails/)
         
-        [Politics](https://www.women.com/category/politics/)
+        [Beauty](https://www.women.com/category/beauty/)
         
-        [Politics](https://www.women.com/category/politics/) By Amanda Chatel
+        [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
         
-        ### [Selena Gomez's Choice To Avoid High-Risk Pregnancy Shows Us Another Way Of Prioritizing Motherhood](https://www.women.com/1662558/celebs-honest-about-fertility-struggles/)
+        ### [5 Halloween-Inspired Manicures For Short Nails](https://www.women.com/1662530/halloween-inspired-manicures-short-nails/)
         
-        There are of millions of people pursuing alternative methods for having children, and Selena Gomez is proudly one of them.
+        You don't need witch-like claws to embrace the spooky vibes of Halloween. We've got all the inspo for a wickedly good manicure on short nails.
         
-        By Amanda Chatel [Read More](https://www.women.com/1662558/celebs-honest-about-fertility-struggles/)
+        By Amanda Chatel [Read More](https://www.women.com/1662530/halloween-inspired-manicures-short-nails/)
         
-    *  [![Taylor Swift on the red carpet](https://www.women.com/img/gallery/6-love-lessons-weve-learned-from-taylor-swift/intro-1726249267.jpg)](https://www.women.com/1665299/love-lessons-learned-taylor-swift/)
+    *  [![Katie Holmes on the red carpet](https://www.women.com/img/gallery/katie-holmes-style-transformation-from-dawsons-creek-to-nyc/intro-1725914096.jpg)](https://www.women.com/1662919/katie-holmes-style-transformation/)
         
-        [Relationships](https://www.women.com/category/relationships/)
+        [Fashion](https://www.women.com/category/fashion/)
         
-        [Relationships](https://www.women.com/category/relationships/) By Emily Hutchinson
+        [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
         
-        ### [6 Love Lessons We've Learned From Taylor Swift](https://www.women.com/1665299/love-lessons-learned-taylor-swift/)
+        ### [Katie Holmes' Style Transformation From Dawson's Creek To NYC](https://www.women.com/1662919/katie-holmes-style-transformation/)
         
-        Along with giving us music to relate to, Taylor Swift has taught fans around the world countless lessons about love and heartbreak.
+        Since the '90s, Katie Holmes has been known for her simple, classic style. Here is how her fashion has evolved through the years.
         
-        By Emily Hutchinson [Read More](https://www.women.com/1665299/love-lessons-learned-taylor-swift/)
+        By Emily Hutchinson [Read More](https://www.women.com/1662919/katie-holmes-style-transformation/)
         
 
 More Stories
 ------------
 
-*  [![Halloween-inspired nails](https://www.women.com/img/gallery/5-halloween-inspired-manicures-for-short-nails/intro-1726494767.jpg)](https://www.women.com/1662530/halloween-inspired-manicures-short-nails/)
+*  [![Selena Gomez](https://www.women.com/img/gallery/selena-gomezs-choice-to-avoid-high-risk-pregnancy-shows-us-another-way-of-prioritizing-motherhood/intro-1726081971.jpg)](https://www.women.com/1662558/celebs-honest-about-fertility-struggles/)
     
-    [Beauty](https://www.women.com/category/beauty/)
+    [Politics](https://www.women.com/category/politics/)
     
-    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
+    [Politics](https://www.women.com/category/politics/) By Amanda Chatel
     
-    ### [5 Halloween-Inspired Manicures For Short Nails](https://www.women.com/1662530/halloween-inspired-manicures-short-nails/)
+    ### [Selena Gomez's Choice To Avoid High-Risk Pregnancy Shows Us Another Way Of Prioritizing Motherhood](https://www.women.com/1662558/celebs-honest-about-fertility-struggles/)
     
-    You don't need witch-like claws to embrace the spooky vibes of Halloween. We've got all the inspo for a wickedly good manicure on short nails.
+    There are of millions of people pursuing alternative methods for having children, and Selena Gomez is proudly one of them.
     
-    By Amanda Chatel [Read More](https://www.women.com/1662530/halloween-inspired-manicures-short-nails/)
-    
-*  [![Katie Holmes on the red carpet](https://www.women.com/img/gallery/katie-holmes-style-transformation-from-dawsons-creek-to-nyc/intro-1725914096.jpg)](https://www.women.com/1662919/katie-holmes-style-transformation/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
-    
-    ### [Katie Holmes' Style Transformation From Dawson's Creek To NYC](https://www.women.com/1662919/katie-holmes-style-transformation/)
-    
-    Since the '90s, Katie Holmes has been known for her simple, classic style. Here is how her fashion has evolved through the years.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1662919/katie-holmes-style-transformation/)
+    By Amanda Chatel [Read More](https://www.women.com/1662558/celebs-honest-about-fertility-struggles/)
     
 *  [![The Bouqs on Shark Tank](https://www.women.com/img/gallery/heres-what-went-down-with-the-bouqs-company-after-shark-tank/intro-1726498446.jpg)](https://www.women.com/1664226/what-went-down-with-the-bouqs-company-after-shark-tan/)
     
@@ -119,6 +107,18 @@ More Stories
     Flower delivery may not seem like a groundbreaking business idea to bring to "Shark Tank," but The Bouqs was no ordinary floral service.
     
     By Bernadette Roe [Read More](https://www.women.com/1664226/what-went-down-with-the-bouqs-company-after-shark-tan/)
+    
+*  [![jennifer lopez and ben affleck](https://www.women.com/img/gallery/jennifer-lopez-and-ben-afflecks-divorce-explained-with-astrology/intro-1726079301.jpg)](https://www.women.com/1662476/jennifer-lopez-ben-affleck-divorce-astrology/)
+    
+    [Living](https://www.women.com/category/living/)
+    
+    [Living](https://www.women.com/category/living/) By Amanda Chatel
+    
+    ### [Jennifer Lopez And Ben Affleck's Divorce, Explained With Astrology](https://www.women.com/1662476/jennifer-lopez-ben-affleck-divorce-astrology/)
+    
+    Jennifer Lopez and Ben Affleck lasted another two years before announcing their impending divorce. How does astrology help explain the split?
+    
+    By Amanda Chatel [Read More](https://www.women.com/1662476/jennifer-lopez-ben-affleck-divorce-astrology/)
     
 *  [![Jennifer Aniston with a milky frenc manicure](https://www.women.com/img/gallery/whats-a-milky-french-manicure-how-do-you-get-the-chic-nail-look-loved-by-celebs/intro-1726169448.jpg)](https://www.women.com/1663642/milky-french-manicure-nail-look-explained/)
     
