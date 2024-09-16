@@ -1,6 +1,6 @@
 top of page
 
-[](https://www.boldcollective.co/)
+[![linkedin.png](https://static.wixstatic.com/media/303e63_3308dcf7058d48b9925641ee677af790~mv2.png/v1/crop/x_35,y_33,w_232,h_243/fill/w_78,h_82,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/linkedin.png)](https://www.boldcollective.co/)
 
 * [PUBLISHERS](https://www.boldcollective.co/publishers)
 * ADVERTISERS
