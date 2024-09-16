@@ -183,7 +183,7 @@
             
             webcast
             
-            ##### Evolve Your Endpoint Security Strategy to Stay in Step with New Regulations
+            ##### Evolve Your Endpoint Security Strategy to Stay in Step with New Regulations: October 9th, 2024
             
             [Learn more](https://cybersecurity.att.com/resource-center/webcasts/evolve-your-endpoint-security-strategy)
             
