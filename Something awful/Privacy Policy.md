@@ -205,23 +205,24 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [i started working on this car yesterday and im still working on it today](https://www.somethingawful.com/comedy-goldmine/still-working-car/)
-* [Emotinomicon: Emoticons of the Dead](https://www.somethingawful.com/news/emotinomicon-emoticons-dead/)
-* [Herein Lies the Promise of J. F. Swanton](https://www.somethingawful.com/news/fur-trapper-promise/)
-* [Indiana Jones and the Crossovers of Doom](https://www.somethingawful.com/photoshop-phriday/indiana-jones-crossovers/1/)
-* [E-mail Reaction to SA's Sarah Palin Apology](https://www.somethingawful.com/news/email-palin-apology/1/)
+* [Cultural Calamities](https://www.somethingawful.com/great-goon-database/great-goon-culture/1/)
+* [Leonard Crabs' Carnival of Savings!](https://www.somethingawful.com/feature-articles/leonard-crabs-carnival/1/)
+* [\*splap\*!](https://www.somethingawful.com/awfulvision/fat-caveman-sword/1/)
+* [Indiana Jones and the Vessel of Ra](https://www.somethingawful.com/awful-movie-database/amdb-indiana-jones/)
+* [We're Bringing Sexy Back](https://www.somethingawful.com/great-goon-database/great-goon-sexy/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/fyad-mystery.gif) [Can some sea goon ID this cool boat for me](http://forums.somethingawful.com/showthread.php?threadid=4070248 "Can some sea goon ID this cool boat for me")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/poll.png) [One's gotta go](http://forums.somethingawful.com/showthread.php?threadid=4070489 "One's gotta go")
+* ![](https://fi.somethingawful.com/forums/posticons/LF-article.gif) [How autistic are you? Take the RAADS test and find out.](http://forums.somethingawful.com/showthread.php?threadid=4070452 "How autistic are you? Take the RAADS test and find out.")
 
 ### Random Articles
 
-* [Whose Nokia Cellphone Keeps Ruining the Clash’s Rock the Casbah?](https://www.somethingawful.com/news/clash-casbah-cellphone/)
-* [X-files Shipper Fic by Livasnaps](https://www.somethingawful.com/awful-links/awful-link-768/)
-* [The Forgotten Permutations Of Green Day](https://www.somethingawful.com/music-article/green-day-permutations/)
-* [Variety Pack #26: Fishin' Politicians and The First Lady!](https://www.somethingawful.com/photoshop-phriday/politicians-fishin-michelleobama/1/)
-* [The Ultimate Gamer](https://www.somethingawful.com/awful-links/awful-link-3664/)
+* [THE PERFECT HUMAN FORM](https://www.somethingawful.com/news/perfect-human-form/)
+* [Jeff VanderMeer's Fyre Festival](https://www.somethingawful.com/news/fyre-festival-vandermeer/)
+* [Now biweekly!](https://www.somethingawful.com/second-life-safari/now-biweekly/)
+* [Grandpa didn't die flamethrowering the Vietcong so the wrong gender could gas up a helicopter](https://www.somethingawful.com/news/grandpa-warcrimes-good/)
+* [Valentines + Dinosaurs = Valendinos](https://www.somethingawful.com/comedy-goldmine/valentines-day-dinosaurs/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
