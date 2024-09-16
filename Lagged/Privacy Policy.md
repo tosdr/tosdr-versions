@@ -233,9 +233,9 @@ Games you might like
 
 [Lemon Opera](https://lagged.com/en/g/lemon-opera) ![Lemon Opera Game](https://imgs2.dab3games.com/lemon-opera-ft.png)
 
-[Magic Piano Tiles](https://lagged.com/en/g/magic-piano-tiles) ![Magic Piano Tiles Game](https://imgs2.dab3games.com/magic-piano-tiles-ft17.png)
-
 [Draw This 2](https://lagged.com/en/g/drawthis2) ![Draw This 2 Game](https://imgs2.dab3games.com/draw-this-2-game-ft.png)
+
+[Magic Piano Tiles](https://lagged.com/en/g/magic-piano-tiles) ![Magic Piano Tiles Game](https://imgs2.dab3games.com/magic-piano-tiles-ft17.png)
 
 [Ice Cream Stack Run](https://lagged.com/en/g/ice-cream-stack-run) ![Ice Cream Stack Run Game](https://imgs2.dab3games.com/ice-cream-stack-run29.png)
 
@@ -243,9 +243,9 @@ Games you might like
 
 [Toilet Race](https://lagged.com/en/g/toilet-race) ![Toilet Race Game](https://imgs2.dab3games.com/toilet-race-game-big.png)
 
-[Poppy Playtime Chapter 2](https://lagged.com/en/g/poppy-playtime-chapter-2) ![Poppy Playtime Chapter 2 Game](https://imgs2.dab3games.com/poppy-playtime-ch2-ft.png)
-
 [Thief Puzzle](https://lagged.com/en/g/thief-puzzle) ![Thief Puzzle Game](https://imgs2.dab3games.com/thief-puzzle-game-online-big.png) top rated
+
+[Poppy Playtime Chapter 2](https://lagged.com/en/g/poppy-playtime-chapter-2) ![Poppy Playtime Chapter 2 Game](https://imgs2.dab3games.com/poppy-playtime-ch2-ft.png)
 
 [Temple Adventure](https://lagged.com/en/g/temple-adventure) ![Temple Adventure Game](https://imgs2.dab3games.com/tomb-run-2.png) top rated
 
