@@ -141,6 +141,60 @@ HuntAndJump.com Rules
 
 ![](/images/coloricons/News-Alerts-2.png)News & Alerts
 
+9/15/2024 9:30 AM EST
+
+[SWITCH UP! It's the 15th and Random Gene Sale switch has activated. Until the 1st of the month you can now pick up:](https://hj2.huntandjump.com/upgrade.php#tabs-5)  
+**Sooty Plus**  
+![](https://www.huntandjump.com/images/grsExamples/sootyplus.png)  
+**Watercolor**  
+![](https://www.huntandjump.com/images/grsExamples/wtc.png)  
+**Plaid**  
+![](https://www.huntandjump.com/images/grsExamples/plaid.png)  
+**Kit Promoter**  
+![](https://www.huntandjump.com/images/grsExamples/kp.png)  
+**Axiom Nexus**  
+![](https://www.huntandjump.com/images/grsExamples/axN.png)  
+**Axiom Red**  
+![](https://www.huntandjump.com/images/grsExamples/axR.png)  
+**Axiom Blue**  
+![](https://www.huntandjump.com/images/grsExamples/axB.png)  
+**Axiom Green**  
+![](https://www.huntandjump.com/images/grsExamples/axG.png)  
+**Axiom Wrong Warp**  
+![](https://www.huntandjump.com/images/grsExamples/axW.png)  
+**Rainbow Riot Thunderstruck**  
+![](https://www.huntandjump.com/images/grsExamples/rrT.png)  
+**Rainbow Riot Nacre**  
+![](https://www.huntandjump.com/images/grsExamples/rrN.png)  
+**Kit Promoter 2**  
+![](https://www.huntandjump.com/images/grsExamples/kp2.png)  
+**Rainbow Riot Paintbrush Cool**  
+![](https://www.huntandjump.com/images/grsExamples/pbc.png)  
+**Rainbow Riot Paintbrush Warm**  
+![](https://www.huntandjump.com/images/grsExamples/pbw.png)  
+**Rainbow Riot Paintbrush Prism**  
+![](https://www.huntandjump.com/images/grsExamples/pbp.png)  
+**Phantom Apple Picking**  
+![](https://www.huntandjump.com/images/grsExamples/apple.png)  
+**Rainbow Riot 2 Toner**  
+![](https://www.huntandjump.com/images/grsExamples/toner.png)  
+**Rainbow Riot 2 Ink Spot**  
+![](https://www.huntandjump.com/images/grsExamples/inkspot.png)  
+**Ice 17**  
+![](https://www.huntandjump.com/images/grsExamples/ice17.png)  
+**Platinum**  
+![](https://www.huntandjump.com/images/grsExamples/platinum.png)  
+**Rainbow Riot 2 Void**  
+![](https://www.huntandjump.com/images/grsExamples/void.png)
+
+9/14/2024 1:12 PM EST
+
+Sorry for the downtime. Turns out the actual server datacenter lost internet for a few hours there. We had to wait for them to get back online.
+
+9/14/2024 11:07 AM EST
+
+We are aware that Bluegrass server is down (and causing errors on the other servers). Everything is fine and appears to be nothing more than a need for a reboot but we have to wait for the server hosting company to manually reboot it. Should be back online shortly.
+
 9/7/2024 4:05 AM EST
 
 Big Ol' Rainbow Sale
@@ -163,20 +217,6 @@ All Axiom and Rainbow Riot 1 & 2 genes are on sale through the end of the month.
 ![](https://www.huntandjump.com/images/grsExamples/apple.png)  
 **Snowdrop**  
 ![](https://www.huntandjump.com/images/grsExamples/sno.png)
-
-8/28/2024 10:09 PM EST
-
-### The Shaved Ice Festival is coming to an end!
-
-Saturday is your very last shot at RGS ice sales and the final ice herd helper.
-
-8/24/2024 11:00 PM EST
-
-### Don't forget to post your ice horses on the forum for a chance to win free 5% boost tokens
-
-8/23/2024 12:35 AM EST
-
-Don't forget the rare Lapis Lazuli herd helper coming out tomorrow! Plus this month is your only chance to purchase Ice genes in the RGS sale until December.
 
 ![](/images/coloricons/Gold-Star-2.png)Bonus Stall Progress
 
