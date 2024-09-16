@@ -33,10 +33,10 @@
         ![](/-/media/images/shared/navigation/icon-collab.svg)
         
         Collaboration](https://www.logmein.com/ucaas)
-        * [GoTo Meeting
+        * [GoTo Meeting SPECIAL SAVINGS
             
             Video conferencing software](https://www.logmein.com/meeting)
-        * [GoTo Webinar
+        * [GoTo Webinar SPECIAL SAVINGS
             
             Webinar & virtual event software](https://www.logmein.com/webinar)
         * [GoTo Training
