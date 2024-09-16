@@ -340,7 +340,7 @@ Browse
     * Accessories
         
         * [Accessories](https://www.maplin.co.uk/collections/imaging-accessories)
-        * [Instant Camera Film & Bundles](https://www.maplin.co.uk/collections/instant-camera-film-bundles)
+        * [Instant Camera Film](https://www.maplin.co.uk/collections/instant-camera-film-bundles)
         * [Photo Printers](https://www.maplin.co.uk/collections/photo-printers)
         * [Lenses](https://www.maplin.co.uk/collections/lenses)
         * [Bags & Cases](https://www.maplin.co.uk/collections/bags)
@@ -348,6 +348,7 @@ Browse
         * [Lighting](https://www.maplin.co.uk/collections/imaging-lighting)
         * [Tripods & Mounts](https://www.maplin.co.uk/collections/tripods-mounts)
         * [Digital Photo Frames](https://www.maplin.co.uk/collections/digital-photo-frames)
+        * [Video Microphones](https://www.maplin.co.uk/collections/video-microphones)
         
     * Shop by Use
         
@@ -1131,7 +1132,7 @@ Browse
     
     [Accessories](https://www.maplin.co.uk/collections/imaging-accessories)
     
-    * [Instant Camera Film & Bundles](https://www.maplin.co.uk/collections/instant-camera-film-bundles)
+    * [Instant Camera Film](https://www.maplin.co.uk/collections/instant-camera-film-bundles)
     * [Photo Printers](https://www.maplin.co.uk/collections/photo-printers)
     * [Lenses](https://www.maplin.co.uk/collections/lenses)
     * [Bags & Cases](https://www.maplin.co.uk/collections/bags)
@@ -1139,6 +1140,7 @@ Browse
     * [Lighting](https://www.maplin.co.uk/collections/imaging-lighting)
     * [Tripods & Mounts](https://www.maplin.co.uk/collections/tripods-mounts)
     * [Digital Photo Frames](https://www.maplin.co.uk/collections/digital-photo-frames)
+    * [Video Microphones](https://www.maplin.co.uk/collections/video-microphones)
     
     [Shop by Use](https://www.maplin.co.uk/pages/photo-video)
     
