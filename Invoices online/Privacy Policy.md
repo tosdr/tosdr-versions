@@ -118,59 +118,59 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Quick and efficient support
-> ---------------------------
+> Enjoying Invoices Online
+> ------------------------
 > 
-> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
+> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
 > 
-> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
+> I have upgraded to the Gold account in order to support you guys!
 
-Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
+Shaun Gartshore
 
-![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=ac5348405ac1d8da2e6f4a329fd7f53f36fd51871f7c5783bed5135146cbef00&c=108546012)  
-TurboFibre
+![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=166e3c5733758574840f91d663e216e452370725ee322c0ef50a4b670bf3d9f1&c=45229332)  
+OXYAIDER (PTY) LTD
 
-![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=ac5348405ac1d8da2e6f4a329fd7f53f36fd51871f7c5783bed5135146cbef00&c=59600717)  
-Prosper Park
+![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=166e3c5733758574840f91d663e216e452370725ee322c0ef50a4b670bf3d9f1&c=13703246)  
+Website Café (PTY) LTD
 
-![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=ac5348405ac1d8da2e6f4a329fd7f53f36fd51871f7c5783bed5135146cbef00&c=214054377)  
-Camp 4 Africa (Pty) Ltd
+![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=166e3c5733758574840f91d663e216e452370725ee322c0ef50a4b670bf3d9f1&c=137581660)  
+FRAMED BY ANTON (Pty) Ltd.
 
-![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=ac5348405ac1d8da2e6f4a329fd7f53f36fd51871f7c5783bed5135146cbef00&c=89248888)  
-Skinz Printing & Branding
+![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=166e3c5733758574840f91d663e216e452370725ee322c0ef50a4b670bf3d9f1&c=161938044)  
+Tagline Brands
 
-![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=ac5348405ac1d8da2e6f4a329fd7f53f36fd51871f7c5783bed5135146cbef00&c=96535909)  
-kidoscabbie
+![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=166e3c5733758574840f91d663e216e452370725ee322c0ef50a4b670bf3d9f1&c=92201313)  
+Goju-Ryu Pretoria East
 
-![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=ac5348405ac1d8da2e6f4a329fd7f53f36fd51871f7c5783bed5135146cbef00&c=56628420)  
-OPTIMUS ELECTRICAL PTY (LTD)
+![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=166e3c5733758574840f91d663e216e452370725ee322c0ef50a4b670bf3d9f1&c=84962768)  
+webb it services
 
-![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=ac5348405ac1d8da2e6f4a329fd7f53f36fd51871f7c5783bed5135146cbef00&c=114453984)  
-Qothiphango Mining
+![valued client CGHK Enterprises (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8288&file=logo_300_100&type=&fe=166e3c5733758574840f91d663e216e452370725ee322c0ef50a4b670bf3d9f1&c=10856936)  
+CGHK Enterprises (PTY) LTD
 
-![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=ac5348405ac1d8da2e6f4a329fd7f53f36fd51871f7c5783bed5135146cbef00&c=119703964)  
-Roamfree Boerdery (PTY) LTD
+![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=166e3c5733758574840f91d663e216e452370725ee322c0ef50a4b670bf3d9f1&c=4482322)  
+Depot Diesel (Pty) Ltd
 
-![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=ac5348405ac1d8da2e6f4a329fd7f53f36fd51871f7c5783bed5135146cbef00&c=29679139)  
-ELLIE'S CLEANING CHICKS
+![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=166e3c5733758574840f91d663e216e452370725ee322c0ef50a4b670bf3d9f1&c=7138567)  
+SLOANE STAR MEAT MARKET
 
-![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=ac5348405ac1d8da2e6f4a329fd7f53f36fd51871f7c5783bed5135146cbef00&c=164341012)  
-Echo Recording Studio cc
+![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=166e3c5733758574840f91d663e216e452370725ee322c0ef50a4b670bf3d9f1&c=172115318)  
+M's Frozen Delights
 
-![valued client Meyer Towing & Recovery ](https://www.invoicesonline.co.za/scripts/image.php?bid=7983&file=logo_300_100&type=&fe=ac5348405ac1d8da2e6f4a329fd7f53f36fd51871f7c5783bed5135146cbef00&c=177131004)  
-Meyer Towing & Recovery
+![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=166e3c5733758574840f91d663e216e452370725ee322c0ef50a4b670bf3d9f1&c=88980430)  
+SR Travel Services
 
-![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=ac5348405ac1d8da2e6f4a329fd7f53f36fd51871f7c5783bed5135146cbef00&c=206850968)  
-Laurinda Pretorius Spraak en Drama Ateljee
+![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=166e3c5733758574840f91d663e216e452370725ee322c0ef50a4b670bf3d9f1&c=72524173)  
+Sarabi
 
-![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=ac5348405ac1d8da2e6f4a329fd7f53f36fd51871f7c5783bed5135146cbef00&c=92499752)  
-FJW Security Cc
+![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=166e3c5733758574840f91d663e216e452370725ee322c0ef50a4b670bf3d9f1&c=21344547)  
+PROGRAPHIX PTY LTD
 
-![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=ac5348405ac1d8da2e6f4a329fd7f53f36fd51871f7c5783bed5135146cbef00&c=214624477)  
+![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=166e3c5733758574840f91d663e216e452370725ee322c0ef50a4b670bf3d9f1&c=42935704)  
 NIMAWELL
 
-![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=ac5348405ac1d8da2e6f4a329fd7f53f36fd51871f7c5783bed5135146cbef00&c=212060429)  
-NEW BEGINNINGS DESIGNS
+![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=166e3c5733758574840f91d663e216e452370725ee322c0ef50a4b670bf3d9f1&c=110956062)  
+Tiny Cuddles Photography
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
