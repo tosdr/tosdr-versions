@@ -197,63 +197,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Impossible to run our businesses without IO
-> -------------------------------------------
+> Instantaneous, Nicely Designed, Graphical Invoices
+> --------------------------------------------------
 > 
-> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
->   
-> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
->   
-> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
->   
-> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
+> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
 
-Kobus Venter
+Henry Venter
 
-![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=834508812d3ebf6adbddf36bfe42fee3a8931b7768d76b5a2ae7664347e144de&c=5369182)  
-PROGRAPHIX PTY LTD
+![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=f2d22a20f4f33c4e74a511ba5f9d9ddfb1fd6274f2b73e3f1dab3a40d9f79a57&c=162300559)  
+Digifax (Pty) Ltd trading as Digirent
 
-![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=834508812d3ebf6adbddf36bfe42fee3a8931b7768d76b5a2ae7664347e144de&c=171257927)  
-Wiselink Broadband Pty Ltd
+![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=f2d22a20f4f33c4e74a511ba5f9d9ddfb1fd6274f2b73e3f1dab3a40d9f79a57&c=132193788)  
+Adele Jordaan T/A Joyful Noise Music Room
 
-![valued client Glass and Allied Industries](https://www.invoicesonline.co.za/scripts/image.php?bid=1634&file=logo_300_100&type=&fe=834508812d3ebf6adbddf36bfe42fee3a8931b7768d76b5a2ae7664347e144de&c=112414331)  
-Glass and Allied Industries
+![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=f2d22a20f4f33c4e74a511ba5f9d9ddfb1fd6274f2b73e3f1dab3a40d9f79a57&c=174858379)  
+Goju-Ryu Pretoria East
 
-![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=834508812d3ebf6adbddf36bfe42fee3a8931b7768d76b5a2ae7664347e144de&c=97524541)  
-IYD
+![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=f2d22a20f4f33c4e74a511ba5f9d9ddfb1fd6274f2b73e3f1dab3a40d9f79a57&c=2608439)  
+Import Maaw
 
-![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=834508812d3ebf6adbddf36bfe42fee3a8931b7768d76b5a2ae7664347e144de&c=58937568)  
-Goju Ryu Karate Centre
+![valued client Van Der Merwe Olieverspreiders](https://www.invoicesonline.co.za/scripts/image.php?bid=8554&file=logo_300_100&type=&fe=f2d22a20f4f33c4e74a511ba5f9d9ddfb1fd6274f2b73e3f1dab3a40d9f79a57&c=150215139)  
+Van Der Merwe Olieverspreiders
 
-![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=834508812d3ebf6adbddf36bfe42fee3a8931b7768d76b5a2ae7664347e144de&c=39576804)  
-Roamfree Boerdery (PTY) LTD
+![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=f2d22a20f4f33c4e74a511ba5f9d9ddfb1fd6274f2b73e3f1dab3a40d9f79a57&c=26568358)  
+Wiselink Broadband Dundee
 
-![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=834508812d3ebf6adbddf36bfe42fee3a8931b7768d76b5a2ae7664347e144de&c=86825827)  
-TechnoDezi PTY(LTD)
+![valued client Stories4Kids (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=f2d22a20f4f33c4e74a511ba5f9d9ddfb1fd6274f2b73e3f1dab3a40d9f79a57&c=47072376)  
+Stories4Kids (Pty) Ltd t/a Storietyd
 
-![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=834508812d3ebf6adbddf36bfe42fee3a8931b7768d76b5a2ae7664347e144de&c=208468902)  
-M's Frozen Delights
+![valued client IEMS (PTY) ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7805&file=logo_300_100&type=&fe=f2d22a20f4f33c4e74a511ba5f9d9ddfb1fd6274f2b73e3f1dab3a40d9f79a57&c=9159857)  
+IEMS (PTY) ltd
 
-![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=834508812d3ebf6adbddf36bfe42fee3a8931b7768d76b5a2ae7664347e144de&c=80387627)  
-VS Auto Spares and Repairs (Pty) LTD
+![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=f2d22a20f4f33c4e74a511ba5f9d9ddfb1fd6274f2b73e3f1dab3a40d9f79a57&c=14103330)  
+Karino Merinos ( PTY ) LTD
 
-![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=834508812d3ebf6adbddf36bfe42fee3a8931b7768d76b5a2ae7664347e144de&c=64214644)  
-ELLIE'S CLEANING CHICKS
+![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=f2d22a20f4f33c4e74a511ba5f9d9ddfb1fd6274f2b73e3f1dab3a40d9f79a57&c=27289306)  
+Testpro Laboratory (Pty) Ltd
 
-![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=834508812d3ebf6adbddf36bfe42fee3a8931b7768d76b5a2ae7664347e144de&c=19070989)  
-Vplay Letsheng Mall
+![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=f2d22a20f4f33c4e74a511ba5f9d9ddfb1fd6274f2b73e3f1dab3a40d9f79a57&c=63520657)  
+TRACKFORCE (Pty) Ltd
 
-![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=834508812d3ebf6adbddf36bfe42fee3a8931b7768d76b5a2ae7664347e144de&c=46698227)  
-Lion Software Develepment
-
-![valued client Quad Biking Cape Town](https://www.invoicesonline.co.za/scripts/image.php?bid=7985&file=logo_300_100&type=&fe=834508812d3ebf6adbddf36bfe42fee3a8931b7768d76b5a2ae7664347e144de&c=135993371)  
-Quad Biking Cape Town
-
-![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=834508812d3ebf6adbddf36bfe42fee3a8931b7768d76b5a2ae7664347e144de&c=177573791)  
+![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=f2d22a20f4f33c4e74a511ba5f9d9ddfb1fd6274f2b73e3f1dab3a40d9f79a57&c=78882266)  
 United Paintball Federation
 
-![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=834508812d3ebf6adbddf36bfe42fee3a8931b7768d76b5a2ae7664347e144de&c=54379054)  
-Digifax (Pty) Ltd trading as Digirent
+![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=f2d22a20f4f33c4e74a511ba5f9d9ddfb1fd6274f2b73e3f1dab3a40d9f79a57&c=71530647)  
+Oukraal Merino's
+
+![valued client Tantra Sound and Lightz](https://www.invoicesonline.co.za/scripts/image.php?bid=1208&file=logo_300_100&type=&fe=f2d22a20f4f33c4e74a511ba5f9d9ddfb1fd6274f2b73e3f1dab3a40d9f79a57&c=139866294)  
+Tantra Sound and Lightz
+
+![valued client CGHK Enterprises (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8288&file=logo_300_100&type=&fe=f2d22a20f4f33c4e74a511ba5f9d9ddfb1fd6274f2b73e3f1dab3a40d9f79a57&c=55287148)  
+CGHK Enterprises (PTY) LTD
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
