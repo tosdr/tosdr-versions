@@ -1,16 +1,22 @@
 Privacy and Cookie Policy
 =========================
 
-3 July 2024 • 10:00am
+Save
 
-* [X Icon](https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.telegraph.co.uk%2Fabout-us%2Fprivacy-and-cookie-policy%2F&text=Privacy+and+Cookie+Policy)
-* [Facebook Icon](https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.telegraph.co.uk%2Fabout-us%2Fprivacy-and-cookie-policy%2F)
-* [WhatsApp Icon](https://wa.me/?text=https%3A%2F%2Fwww.telegraph.co.uk%2Fabout-us%2Fprivacy-and-cookie-policy%2F)
-* [Email Icon](mailto:?to=&subject=Privacy+and+Cookie+Policy&body=https%3A%2F%2Fwww.telegraph.co.uk%2Fabout-us%2Fprivacy-and-cookie-policy%2F)
+[Comment speech bubble icon](#comment)
+
+Share icon
+
+03 July 2024 10:00am
 
 Save
 
 [Comment speech bubble icon](#comment)
+
+* [X Icon](https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.telegraph.co.uk%2Fabout-us%2Fprivacy-and-cookie-policy%2F&text=Privacy+and+Cookie+Policy)
+* [Facebook Icon](https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.telegraph.co.uk%2Fabout-us%2Fprivacy-and-cookie-policy%2F)
+* [WhatsApp Icon](https://wa.me/?text=https%3A%2F%2Fwww.telegraph.co.uk%2Fabout-us%2Fprivacy-and-cookie-policy%2F)
+* [](mailto:?to=&subject=Privacy+and+Cookie+Policy&body=https%3A%2F%2Fwww.telegraph.co.uk%2Fabout-us%2Fprivacy-and-cookie-policy%2F)
 
 Your privacy is important to us. If you are visiting our Service from the United Kingdom, European Union, or other non-U.S. location, please review our [General Privacy Policy](#UK). If you are visiting our Service from the United States, please review our [U.S. Privacy Policy.](#US)
 
@@ -793,15 +799,6 @@ _©_ _**Telegraph Media Group** December 20, 2023.  All Rights Reserved._
 (4)  We also place third party cookies to enable the serving of our own advertisements, (for example, for our subscriptions offers), on our own website or other websites.  These advertisements will be based on your browsing behaviour on our website and will be tailored to your interests.  The information we gather from your visit is limited to page URLs.  For instance, if you are particularly interested in Food and Drink articles, the subscription offer advertisements served to you when you visit your Facebook account will feature our Food and Drink content.
 
 6.4 We are a shareholder in [The Ozone Project (“Ozone”)](https://www.ozoneproject.com/privacy-matters), which is an advertising and audience platform part-owned by Telegraph Media Group along with other publishers. Ozone and its data management providers set cookies to collect information to build audience segments so that Ozone can serve targeted advertisements on our websites and those of other publishers.
-
-* [X Icon](https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.telegraph.co.uk%2Fabout-us%2Fprivacy-and-cookie-policy%2F&text=Privacy+and+Cookie+Policy)
-* [Facebook Icon](https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.telegraph.co.uk%2Fabout-us%2Fprivacy-and-cookie-policy%2F)
-* [WhatsApp Icon](https://wa.me/?text=https%3A%2F%2Fwww.telegraph.co.uk%2Fabout-us%2Fprivacy-and-cookie-policy%2F)
-* [Email Icon](mailto:?to=&subject=Privacy+and+Cookie+Policy&body=https%3A%2F%2Fwww.telegraph.co.uk%2Fabout-us%2Fprivacy-and-cookie-policy%2F)
-
-[Comment speech bubble icon](#comment)
-
-[License this content](https://www.telegraph.co.uk/syndication/contact-us/)
 
 Advertisement
 
