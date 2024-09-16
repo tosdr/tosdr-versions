@@ -285,29 +285,29 @@ Past Week
 
 ### Most Read Articles
 
-[![Illustration of a gramophone with particles flying out of it.](https://www.quantamagazine.org/wp-content/uploads/2024/08/HiggsExplainer-crMicheleSclafani-Thumbnail.webp)](https://www.quantamagazine.org/how-the-higgs-field-actually-gives-mass-to-elementary-particles-20240903/)
-
-[#### How the Higgs Field (Actually) Gives Mass to Elementary Particles](https://www.quantamagazine.org/how-the-higgs-field-actually-gives-mass-to-elementary-particles-20240903/)
-
-_By_ [Matt Strassler](https://www.quantamagazine.org/authors/mattstrassler)
-
-[![](https://www.quantamagazine.org/wp-content/uploads/2024/09/WhatIsAGroup-crAdamNickel-Thumbnail.webp)](https://www.quantamagazine.org/groups-underpin-modern-math-heres-how-they-work-20240906/)
-
-[#### ‘Groups’ Underpin Modern Math. Here’s How They Work.](https://www.quantamagazine.org/groups-underpin-modern-math-heres-how-they-work-20240906/)
-
-_By_ [Leila Sloman](https://www.quantamagazine.org/authors/leila-sloman)
-
 [![Scientists looking at globe of interconnected lights](https://www.quantamagazine.org/wp-content/uploads/2024/09/YesWeKans-crNicoRoper-Thumbnail.webp)](https://www.quantamagazine.org/novel-architecture-makes-neural-networks-more-understandable-20240911/)
 
 [#### Novel Architecture Makes Neural Networks More Understandable](https://www.quantamagazine.org/novel-architecture-makes-neural-networks-more-understandable-20240911/)
 
 _By_ [Steve Nadis](https://www.quantamagazine.org/authors/nadis_steven)
 
-[![Illustration of a deconstructed clock where one metal layer is imprinted to look like a thorium atom.](https://www.quantamagazine.org/wp-content/uploads/2024/09/NuclearClock-crNashWeerasekera-Thumbnail.webp)](https://www.quantamagazine.org/the-first-nuclear-clock-will-test-if-fundamental-constants-change-20240904/)
+[![](https://www.quantamagazine.org/wp-content/uploads/2024/09/PlanetWideResonance-crTomm-Parker-Thumbnail.webp)](https://www.quantamagazine.org/how-did-a-landslide-shake-the-earth-for-nine-days-20240912/)
 
-[#### The First Nuclear Clock Will Test if Fundamental Constants Change](https://www.quantamagazine.org/the-first-nuclear-clock-will-test-if-fundamental-constants-change-20240904/)
+[#### The Search for What Shook the Earth for Nine Days Straight](https://www.quantamagazine.org/how-did-a-landslide-shake-the-earth-for-nine-days-20240912/)
 
-_By_ [Joseph Howlett](https://www.quantamagazine.org/authors/josephhowlett)
+_By_ [Robin George Andrews](https://www.quantamagazine.org/authors/andrews_robin)
+
+[![Illustration of a gramophone with particles flying out of it.](https://www.quantamagazine.org/wp-content/uploads/2024/08/HiggsExplainer-crMicheleSclafani-Thumbnail.webp)](https://www.quantamagazine.org/how-the-higgs-field-actually-gives-mass-to-elementary-particles-20240903/)
+
+[#### How the Higgs Field (Actually) Gives Mass to Elementary Particles](https://www.quantamagazine.org/how-the-higgs-field-actually-gives-mass-to-elementary-particles-20240903/)
+
+_By_ [Matt Strassler](https://www.quantamagazine.org/authors/mattstrassler)
+
+[![Shapes forming an atom](https://www.quantamagazine.org/wp-content/uploads/2024/09/JoW-E17-Quantum-Thermodynamics-Peter-Greenwood-Thumbnail.jpg)](https://www.quantamagazine.org/can-thermodynamics-go-quantum-20240912/)
+
+[#### Can Thermodynamics Go Quantum?](https://www.quantamagazine.org/can-thermodynamics-go-quantum-20240912/)
+
+_By_ [Steven Strogatz](https://www.quantamagazine.org/authors/stevenstrogatz)
 
 The Quanta Newsletter
 
