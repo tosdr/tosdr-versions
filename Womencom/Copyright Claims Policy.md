@@ -43,70 +43,94 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Katie Holmes on the red carpet](https://www.women.com/img/gallery/katie-holmes-style-transformation-from-dawsons-creek-to-nyc/intro-1725914096.jpg)](https://www.women.com/1662919/katie-holmes-style-transformation/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
-    
-    [Katie Holmes' Style Transformation From Dawson's Creek To NYC](https://www.women.com/1662919/katie-holmes-style-transformation/)
-    =================================================================================================================================
-    
-    Since the '90s, Katie Holmes has been known for her simple, classic style. Here is how her fashion has evolved through the years.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1662919/katie-holmes-style-transformation/)
-    
-* *  [![The Bouqs on Shark Tank](https://www.women.com/img/gallery/heres-what-went-down-with-the-bouqs-company-after-shark-tank/intro-1726244208.jpg)](https://www.women.com/1664226/what-went-down-with-the-bouqs-company-after-shark-tan/)
-        
-        [Living](https://www.women.com/category/living/)
-        
-        [Living](https://www.women.com/category/living/) By Bernadette Roe
-        
-        ### [Here's What Went Down With The Bouqs Company After Shark Tank](https://www.women.com/1664226/what-went-down-with-the-bouqs-company-after-shark-tan/)
-        
-        Who knew that a flower business would be one of the most successful companies to appear on Shark Tank?
-        
-        By Bernadette Roe [Read More](https://www.women.com/1664226/what-went-down-with-the-bouqs-company-after-shark-tan/)
-        
-    *  [![Jennifer Aniston with a milky frenc manicure](https://www.women.com/img/gallery/whats-a-milky-french-manicure-how-do-you-get-the-chic-nail-look-loved-by-celebs/intro-1726169448.jpg)](https://www.women.com/1663642/milky-french-manicure-nail-look-explained/)
-        
-        [Beauty](https://www.women.com/category/beauty/)
-        
-        [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
-        
-        ### [What's A Milky French Manicure & How Do You Get The Chic Nail Look Loved By Celebs?](https://www.women.com/1663642/milky-french-manicure-nail-look-explained/)
-        
-        Across TikTok, we're embracing the cleanest version of our favorite mani -- milky French nails. We asked a nail artist exactly how to get the diffuse look.
-        
-        By Emily Hutchinson [Read More](https://www.women.com/1663642/milky-french-manicure-nail-look-explained/)
-        
-
-More Stories
-------------
-
-*  [![Selena Gomez](https://www.women.com/img/gallery/selena-gomezs-choice-to-avoid-high-risk-pregnancy-shows-us-another-way-of-prioritizing-motherhood/intro-1726081971.jpg)](https://www.women.com/1662558/celebs-honest-about-fertility-struggles/)
-    
-    [Politics](https://www.women.com/category/politics/)
-    
-    [Politics](https://www.women.com/category/politics/) By Amanda Chatel
-    
-    ### [Selena Gomez's Choice To Avoid High-Risk Pregnancy Shows Us Another Way Of Prioritizing Motherhood](https://www.women.com/1662558/celebs-honest-about-fertility-struggles/)
-    
-    There are of millions of people pursuing alternative methods for having children, and Selena Gomez is proudly one of them.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1662558/celebs-honest-about-fertility-struggles/)
-    
 *  [![jennifer lopez and ben affleck](https://www.women.com/img/gallery/jennifer-lopez-and-ben-afflecks-divorce-explained-with-astrology/intro-1726079301.jpg)](https://www.women.com/1662476/jennifer-lopez-ben-affleck-divorce-astrology/)
     
     [Living](https://www.women.com/category/living/)
     
     [Living](https://www.women.com/category/living/) By Amanda Chatel
     
-    ### [Jennifer Lopez And Ben Affleck's Divorce, Explained With Astrology](https://www.women.com/1662476/jennifer-lopez-ben-affleck-divorce-astrology/)
+    [Jennifer Lopez And Ben Affleck's Divorce, Explained With Astrology](https://www.women.com/1662476/jennifer-lopez-ben-affleck-divorce-astrology/)
+    =================================================================================================================================================
     
     Jennifer Lopez and Ben Affleck lasted another two years before announcing their impending divorce. How does astrology help explain the split?
     
     By Amanda Chatel [Read More](https://www.women.com/1662476/jennifer-lopez-ben-affleck-divorce-astrology/)
+    
+* *  [![Selena Gomez](https://www.women.com/img/gallery/selena-gomezs-choice-to-avoid-high-risk-pregnancy-shows-us-another-way-of-prioritizing-motherhood/intro-1726081971.jpg)](https://www.women.com/1662558/celebs-honest-about-fertility-struggles/)
+        
+        [Politics](https://www.women.com/category/politics/)
+        
+        [Politics](https://www.women.com/category/politics/) By Amanda Chatel
+        
+        ### [Selena Gomez's Choice To Avoid High-Risk Pregnancy Shows Us Another Way Of Prioritizing Motherhood](https://www.women.com/1662558/celebs-honest-about-fertility-struggles/)
+        
+        There are of millions of people pursuing alternative methods for having children, and Selena Gomez is proudly one of them.
+        
+        By Amanda Chatel [Read More](https://www.women.com/1662558/celebs-honest-about-fertility-struggles/)
+        
+    *  [![Taylor Swift on the red carpet](https://www.women.com/img/gallery/6-love-lessons-weve-learned-from-taylor-swift/intro-1726249267.jpg)](https://www.women.com/1665299/love-lessons-learned-taylor-swift/)
+        
+        [Relationships](https://www.women.com/category/relationships/)
+        
+        [Relationships](https://www.women.com/category/relationships/) By Emily Hutchinson
+        
+        ### [6 Love Lessons We've Learned From Taylor Swift](https://www.women.com/1665299/love-lessons-learned-taylor-swift/)
+        
+        Along with giving us music to relate to, Taylor Swift has taught fans around the world countless lessons about love and heartbreak.
+        
+        By Emily Hutchinson [Read More](https://www.women.com/1665299/love-lessons-learned-taylor-swift/)
+        
+
+More Stories
+------------
+
+*  [![Halloween-inspired nails](https://www.women.com/img/gallery/5-halloween-inspired-manicures-for-short-nails/intro-1726494767.jpg)](https://www.women.com/1662530/halloween-inspired-manicures-short-nails/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
+    
+    ### [5 Halloween-Inspired Manicures For Short Nails](https://www.women.com/1662530/halloween-inspired-manicures-short-nails/)
+    
+    You don't need witch-like claws to embrace the spooky vibes of Halloween. We've got all the inspo for a wickedly good manicure on short nails.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1662530/halloween-inspired-manicures-short-nails/)
+    
+*  [![Katie Holmes on the red carpet](https://www.women.com/img/gallery/katie-holmes-style-transformation-from-dawsons-creek-to-nyc/intro-1725914096.jpg)](https://www.women.com/1662919/katie-holmes-style-transformation/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+    
+    ### [Katie Holmes' Style Transformation From Dawson's Creek To NYC](https://www.women.com/1662919/katie-holmes-style-transformation/)
+    
+    Since the '90s, Katie Holmes has been known for her simple, classic style. Here is how her fashion has evolved through the years.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1662919/katie-holmes-style-transformation/)
+    
+*  [![The Bouqs on Shark Tank](https://www.women.com/img/gallery/heres-what-went-down-with-the-bouqs-company-after-shark-tank/intro-1726498446.jpg)](https://www.women.com/1664226/what-went-down-with-the-bouqs-company-after-shark-tan/)
+    
+    [Living](https://www.women.com/category/living/)
+    
+    [Living](https://www.women.com/category/living/) By Bernadette Roe
+    
+    ### [Here's What Went Down With The Bouqs Company After Shark Tank](https://www.women.com/1664226/what-went-down-with-the-bouqs-company-after-shark-tan/)
+    
+    Flower delivery may not seem like a groundbreaking business idea to bring to "Shark Tank," but The Bouqs was no ordinary floral service.
+    
+    By Bernadette Roe [Read More](https://www.women.com/1664226/what-went-down-with-the-bouqs-company-after-shark-tan/)
+    
+*  [![Jennifer Aniston with a milky frenc manicure](https://www.women.com/img/gallery/whats-a-milky-french-manicure-how-do-you-get-the-chic-nail-look-loved-by-celebs/intro-1726169448.jpg)](https://www.women.com/1663642/milky-french-manicure-nail-look-explained/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+    
+    ### [What's A Milky French Manicure & How Do You Get The Chic Nail Look Loved By Celebs?](https://www.women.com/1663642/milky-french-manicure-nail-look-explained/)
+    
+    Across TikTok, we're embracing the cleanest version of our favorite mani -- milky French nails. We asked a nail artist exactly how to get the diffuse look.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1663642/milky-french-manicure-nail-look-explained/)
     
 *  [![Looking at phone](https://www.women.com/img/gallery/your-guide-to-the-toxic-submarining-dating-trend/intro-1725989793.jpg)](https://www.women.com/1661378/guide-toxic-submarining-dating-trend/)
     
@@ -383,30 +407,6 @@ More Stories
     Jennifer Lopez knows how to merge what's hot with her own style, repeatedly blending timelessness and trendiness. But how does she do it?
     
     By Emily Hutchinson [Read More](https://www.women.com/1654495/times-jennifer-lopez-nailed-trends-staying-true-sexy-style/)
-    
-*  [![Woman wearing orange jacket](https://www.women.com/img/gallery/hairstylist-tells-us-the-haircuts-that-will-help-you-transition-from-summer-to-fall/intro-1725051513.jpg)](https://www.women.com/1654629/haircuts-transition-summer-fall-hairstylist/)
-    
-    [Exclusives](https://www.women.com/category/exclusives/)
-    
-    [Exclusives](https://www.women.com/category/exclusives/) By Jessica Choi
-    
-    ### [Haircuts To Transition You From Summer Into Fall 2024](https://www.women.com/1654629/haircuts-transition-summer-fall-hairstylist/)
-    
-    As the seasons change, your hair should too. Women spoke exclusively with a hairstylist who revealed the best 'dos for the summer-fall transition.
-    
-    By Jessica Choi [Read More](https://www.women.com/1654629/haircuts-transition-summer-fall-hairstylist/)
-    
-*  [![Meghan Markle sitting smiling](https://www.women.com/img/gallery/meghan-markles-surprising-method-for-avoiding-outdated-trends-couldnt-be-more-simple/intro-1725040992.jpg)](https://www.women.com/1654425/meghan-markle-surprising-method-avoiding-outdated-trends-couldnt-be-more-simple/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
-    
-    ### [Meghan Markle's Surprising Method For Avoiding Outdated Trends Couldn't Be More Simple](https://www.women.com/1654425/meghan-markle-surprising-method-avoiding-outdated-trends-couldnt-be-more-simple/)
-    
-    Meghan Markle knows she can bring a lot of attention to companies that may not have gotten their big break yet. That's just one of the reasons we love her.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1654425/meghan-markle-surprising-method-avoiding-outdated-trends-couldnt-be-more-simple/)
     
 
 Back
