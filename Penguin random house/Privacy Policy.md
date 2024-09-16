@@ -22,11 +22,11 @@ Audio
 
 * * *
 
-* [![New Releases](https://assets.penguinrandomhouse.com/wp-content/uploads/2022/08/19184809/PRH_Site_1200x628_SEPT2024.jpg)
+* [![Books Bans Are on the Rise in America](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171820/Let-Kids-Read_600x314-nav.jpg)
     
-    New Releases
+    Books Bans Are on the Rise in America
     
-    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-september/)
+    Learn More >](https://www.penguinrandomhouse.com/banned-books/)
 
 * * *
 
