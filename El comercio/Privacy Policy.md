@@ -31,1015 +31,950 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Fiscalía responde a Anderson Boscán y su esposa
-===============================================
-
-Anderson Boscán y su esposa Mónica Velásquez solicitaron asilo a Canadá. Sus declaraciones fueron respondidas por la Policía Nacional y la Fiscalía General del Ecuador.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Anderson Boscán afirmó que dejó el país junto a su familia por varias amenazas.](https://www.elcomercio.com/wp-content/uploads/2024/09/Anderson-Boscan-y-Fiscsalia.jpg)
-
-La Fiscalía General del Ecuador emitió una respuesta este lunes 16 de septiembre de 2024 a las declaraciones de los periodistas **Anderson Boscán** y su esposa, **Mónica Velásquez**, quienes abandonaron el país el 10 de septiembre[.](https://es.wikipedia.org/wiki/La_Posta_(Ecuador) "https://es.wikipedia.org/wiki/La_Posta_(Ecuador)")
-
-Más noticias
-------------
-
-* [Policía de Ecuador rechaza persecución a Andersson Boscán y su esposa](https://www.elcomercio.com/actualidad/policia-de-ecuador-rechaza-persecucion-a-andersson-boscan-y-su-esposa.html "Policía de Ecuador rechaza persecución a Andersson Boscán y su esposa")
-* [Felipe Rodríguez desmiente a Andersson Boscán y renuncia a su defensa](https://www.elcomercio.com/actualidad/politica/felipe-rodriguez-desmiente-andersson-boscan-renuncia-a-su-defensa.html "Felipe Rodríguez desmiente a Andersson Boscán y renuncia a su defensa")
-* [Andersson Boscán pide asilo en Canadá, ¿bajo qué condiciones?](https://www.elcomercio.com/actualidad/politica/andersson-boscan-asilo-canada-bajo-condiciones.html "Andersson Boscán pide asilo en Canadá, ¿bajo qué condiciones?")
-
-Los periodistas afirmaron en un video que dejaron **Ecuador** debido a “muchas amenazas” recibidas tras denunciar actos de corrupción.
-
-Declaraciones de Anderson Boscán y su esposa y la respuesta de la Fiscalía
---------------------------------------------------------------------------
-
-En el video publicado en redes sociales, **Boscán** y **Velásquez** informaron que solicitaron asilo al **Gobierno** de **Canadá** y que ya se encuentran en ese país.
-
-Denunciaron que la dirección de Inteligencia de la **Policía Nacional** realizó seguimientos a su familia y sostuvieron que un documento de la **Fiscalía** respalda estas afirmaciones.
-
-Respuesta de la Fiscalía
-------------------------
-
-La **Fiscalía** explicó que, tras recibir la denuncia de los periodistas en octubre de 2021 por presuntas amenazas, los incluyó en el Sistema de Protección a Víctimas y Testigos (**Spavt**).
-
-La entidad aseguró que **Boscán** y **Velásquez** permanecieron en este programa de protección hasta el día que salieron de **Ecuador** y que recibieron escolta hasta el aeropuerto.
-
-En relación con esta denuncia, la **Fiscalía** señaló que realizó varias diligencias, aunque no contó con la colaboración de los periodistas.
-
-Respecto a una investigación iniciada de oficio en octubre de 2023, tras el hallazgo de un informe de seguimiento, la **Fiscalía** informó que notificó de inmediato a **Anderson Boscán**, quien rindió su versión en compañía de su abogado y accedió al expediente.
-
-Motivos del tiempo de respuesta de la Fiscalía
-----------------------------------------------
-
-La **Fiscalía** explicó que tardó algunos días en emitir una respuesta para ofrecer información clara y evitar interferir con los procesos en curso, los cuales se hicieron públicos por las declaraciones de **Anderson Boscán**.
-
-> [#COMUNICADO](https://twitter.com/hashtag/COMUNICADO?src=hash&ref_src=twsrc%5Etfw) | En torno a las declaraciones de los ciudadanos Anderson B. y Mónica V., [#FiscalíaEc](https://twitter.com/hashtag/Fiscal%C3%ADaEc?src=hash&ref_src=twsrc%5Etfw) aclara a la opinión pública que lo señalado responde a una investigación que se adelanta desde 2023, de la cual tenían pleno conocimiento, como se registra en el expediente.⬇️ [pic.twitter.com/Rd43817cJF](https://t.co/Rd43817cJF)
-> 
-> — Fiscalía Ecuador (@FiscaliaEcuador) [September 16, 2024](https://twitter.com/FiscaliaEcuador/status/1835642286589296964?ref_src=twsrc%5Etfw)
-
-Comunicado de la Policía sobre la supuesta persecución
-------------------------------------------------------
-
-La **Policía Nacional** emitió un comunicado reafirmando su disposición a colaborar con las investigaciones para esclarecer los hechos denunciados por **Anderson** **Boscán** y **Mónica Velásquez**.
-
-La entidad reconoció que no siempre resulta rápido ni fácil llevar a cabo estas investigaciones debido a la complejidad de los involucrados y sus posibles ramificaciones.
-
-El comunicado enfatizó que la institución no incurrirá en acciones que comprometan su labor, y destacó que ha sancionado errores, filtraciones o ilegalidades detectadas.
-
-Además, la Policía señaló que mantiene un proceso continuo de **depuración** **interna**, sin tolerancia hacia la corrupción.
-
-Abogado de los periodistas aclara detalles sobre el caso
---------------------------------------------------------
-
-**Felipe Rodríguez**, abogado de La Posta, confirmó la existencia del documento encontrado en el teléfono de **Rubén Cherres**, pero anunció su renuncia a seguir defendiendo al medio.
-
-Explicó que entregó la copia del archivo bajo el compromiso de no **hacerla pública** y utilizarla solo para la solicitud de asilo de **Boscán** y **Velásquez**.
-
-El abogado afirmó que no le consta que la **Fiscalía** haya emitido una instrucción interna para negar el acceso al documento, como sostienen los periodistas.
-
-El archivo incluye detalles sobre un seguimiento a las actividades diarias de la familia de **Boscán** y **Velásquez**, con fotos. También menciona que el vehículo de la **familia** no tiene blindaje y que los escoltas están armados.
-
-En el documento, se identifica a **Boscán** como “blanco”, y las conclusiones señalan que “la operación debe llevarse a cabo en la salida del edificio de residencia”, sin especificar el tipo de acción que se pretendía, aunque el medio sugiere que pudo haber sido un intento de asesinato.
-
-Liga de Quito perdió el invicto, pero se mantiene como líder
-============================================================
-
-La última fecha de la Liga Pro dejó un sabor agridulce para los aficionados de Liga de Quito.
----------------------------------------------------------------------------------------------
-
-![Alex Arce (i), jugador de Liga de Quito, en la derrota ante Imbabura por la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-16T093743.779.jpg)
-
-Contra todo pronóstico, el líder de la segunda etapa de la Liga Pro Serie A, **Liga de Quito,** sufrió una contundente goleada ante un rival que, en principio, parecía inferior tanto en papeles como en rendimiento a lo largo de la temporada.
-
-La ‘U’ llegó al Estadio Olímpico de Ibarra con la expectativa de sumar tres puntos más y afianzarse como líder de la etapa. Sin embargo, se encontraron con un **Imbabura** feroz que los sorprendió desde el inicio, dándoles un verdadero golpe de realidad.
-
-Más noticias:
-
-* [Liga de Quito y Aucas cayeron y así está la tabla de posiciones en Liga Pro](https://www.elcomercio.com/deportes/futbol/tabla-posiciones-liga-pro-fecha6-liga-quito.html "Liga de Quito y Aucas cayeron y así está la tabla de posiciones en Liga Pro")
-* [Barcelona SC gana al Macará y vuelve a la pelea por la etapa](https://www.elcomercio.com/deportes/futbol/barcelonasc-macara-resultado-ligapro-tabla-posiciones.html "Barcelona SC gana al Macará y vuelve a la pelea por la etapa")
-* [Escandalosa goleada del Imbabura a Liga de Quito en Ibarra](https://www.elcomercio.com/deportes/futbol/goleada-imbabura-liga-quito-ibarra.html "Escandalosa goleada del Imbabura a Liga de Quito en Ibarra")
-
-Liga de Quito sin invicto, pero aun líder
------------------------------------------
-
-El partido comenzó de manera inesperada para los albos. Apenas a los 6 minutos, **Luca Klimowicz** abrió el marcador para Imbabura.
-
-Lejos de reaccionar, el equipo dirigido por **Pablo ‘Vitamina’ Sánchez** cayó en la desesperación. La defensa tuvo una mala jornada, lo que convirtió el encuentro en un desafío interminable por evitar más goles en contra.
-
-Imbabura continuó su embestida y a los 22 minutos, **Federico Paz amplió la ventaja**. Justo antes del descanso, a los 44′, Klimowicz completó su doblete para sellar una contundente goleada sobre el conjunto capitalino.
-
-Por si fuera poco, en los minutos finales, L**eandro Pantoja convirtió un penal para cerrar el partido 4-0**, ante una versión desdibujada del ‘Rey de Copas’, que hasta ese momento había recibido solo un gol en cinco fechas y contaba con la mejor defensa del torneo.
-
-A pesar del duro revés, **Liga de Quito se mantiene como líder de la segunda etapa de la Liga Pro**, aunque perdió la oportunidad de ampliar su ventaja en la clasificación. Su liderato también se vio favorecido por el tropiezo de Orense, que empató en casa contra Universidad Católica.
-
-Liga de Quito **sigue en la cima con 15 puntos tras seis fechas**. Sus escoltas son Orense, en segundo lugar, con 13 puntos, seguido de Independiente del Valle y Barcelona SC, ambos con 10 unidades.
-
-Próximo partido de Liga de Quito
---------------------------------
-
-En la séptima jornada de la segunda etapa, **Liga de Quito** afrontará un duro reto al jugar uno de los clásicos más importantes de Quito y del país.
-
-La ‘U’ **recibirá en el Estadio Rodrigo Paz Delgado a El Nacional**, que aunque ha sumado puntos, atraviesa un declive en su nivel de juego. Actualmente, los militares se encuentran en la octava posición con 8 puntos.
-
-El partido se disputará el sábado 21 de septiembre a las 16:30.
-
-Deportivo Quito jugará el torneo de ascenso a la Serie B
-========================================================
-
-Los hinchas del Deportivo Quito tienen una razón para sonreír, ya que el sueño de volver a la Serie B vuelve a ser una realidad.
---------------------------------------------------------------------------------------------------------------------------------
-
-![Deportivo Quito jugará el torneo de Ascenso a la Serie B 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-16T090252.718.jpg)
-
-Lo que comenzó como un rumor en días anteriores se confirmó el domingo 15 de septiembre: **Deportivo** **Quito**, que milita en la Segunda Categoría de Pichincha, peleará por el ascenso a la Serie B.
-
-La ‘AKD’ **revive la ilusión de volver a un circuito profesional** luego de anunciar, a través de sus redes sociales, que estarán presentes en los playoffs del ascenso nacional.
-
-### Más noticias:
-
-* [Patrón Mejía confirma documentación y Deportivo Quito espera](https://www.elcomercio.com/deportes/futbol/deportivo-quito-ascenso-patron-mejia-documentacion.html "Patrón Mejía confirma documentación y Deportivo Quito espera")
-* [Deportivo Quito mantiene la esperanza de jugar el ascenso a la Serie B](https://www.elcomercio.com/deportes/futbol/deportivo-quito-ascenso-serieb-jose-pardo.html "Deportivo Quito mantiene la esperanza de jugar el ascenso a la Serie B")
-* [Deportivo Quito y la posibilidad de jugar el ascenso](https://www.elcomercio.com/deportes/futbol/deportivo-quito-y-la-posibilidad-de-jugar-el-ascenso.html "Deportivo Quito y la posibilidad de jugar el ascenso")
-
-Este anuncio llega después de una difícil temporada en la Segunda Categoría de Pichincha, en la que no lograron avanzar al hexagonal final y terminaron de manera anticipada su participación en el torneo provincial.
-
-El desencanto que ha acompañado al equipo y a su fiel hinchada durante años parece haber llegado a su fin con esta ‘**milagrosa**‘ clasificación a los playoffs.
-
-Ahora, **Deportivo Quito** tiene la oportunidad de regresar a la Serie B y seguir soñando con su retorno a la Serie A, donde jugó por última vez en 2015 y donde se coronó campeón en cinco ocasiones.
-
-Deportivo Quito luchará por el ascenso
---------------------------------------
-
-“La **‘AKD’ jugará los playoffs** del ascenso nacional. El Quito es el quinto representante de la provincia de Pichincha en el sueño de volver a la Serie B”, anunciaron oficialmente en las redes sociales del club.
-
-> ‼️Ya podemos contarles‼️  
->   
-> La AKD 💙❤️ jugará los playoffs del ascenso nacional. [#ElQuitoEs](https://twitter.com/hashtag/ElQuitoEs?src=hash&ref_src=twsrc%5Etfw) el quinto representante de la provincia de Pichincha en el sueño de la Serie B.  
->   
-> El los próximos días informaremos nuestro cuerpo técnico y plantel.  
->   
-> 🎶 Deeeelirando por volverte a ver [pic.twitter.com/Uv8qsFghRe](https://t.co/Uv8qsFghRe)
-> 
-> — SD Quito Oficial (@SDQuito\_Oficial) [September 16, 2024](https://twitter.com/SDQuito_Oficial/status/1835502039008268342?ref_src=twsrc%5Etfw)
-
-Su clasificación, sin embargo, no se dio por méritos deportivos. De haber sido así, el equipo habría permanecido un año más en la **Segunda Categoría**. Su cupo en los playoffs se debe a un ‘milagro de escritorio’, tras problemas de documentación de otros clubes.
-
-Inicialmente, solo los mejores cuatro equipos del hexagonal final de Pichincha tenían derecho a pelear por el ascenso. Sin embargo, se añadieron dos cupos más.
-
-Los clasificados oficialmente por Pichincha fueron Miguel Iturralde, Deportivo Meridiano, **Atlético** **Vinotinto** y Ampetra. Pero gracias a los nuevos cupos, clubes como Patrón Mejía e Independiente JFA también tenían la oportunidad de avanzar.
-
-No obstante, estos dos equipos no entregaron su documentación a tiempo, lo que benefició a Deportivo Quito y al **AV 25, equipo de Antonio Valencia**, quienes finalmente lograron clasificar a los playoffs.
-
-El torneo de ascenso a la Serie B
----------------------------------
-
-En los playoffs nacionales **participarán 64 clubes de 22 provincias.** Guayas, Manabí y Pichincha son las que más representantes tendrán, con ocho, siete y seis equipos, respectivamente.
-
-El sorteo para esta fase se llevará a cabo el lunes 16 de septiembre, desde las 17:00. Los partidos de ida de los 32 avos de final comenzarán el sábado 28 de septiembre.
-
-El Metro de Quito fue vandalizado otra vez
-==========================================
-
-Un tren del Metro de Quito fue vandalizado en el pasado. Y en este mes, se detuvo a una persona por rayar una estación del sistema de transporte público.
----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![La noticia del Metro de Quito vandalizado fue publicada en las redes sociales de la entidad.](https://www.elcomercio.com/wp-content/uploads/2024/09/Metro-de-Quito-vandalizado.jpg)
-
-El **Metro** de **Quito** fue vandalizado otra vez la noche del domingo 15 de septiembre de 2024, según informó la entidad la mañana del 16 de septiembre[.](https://es.wikipedia.org/wiki/Metro_de_Quito "https://es.wikipedia.org/wiki/Metro_de_Quito")
-
-Metro de Quito
---------------
-
-* [Ciudadano fue detenido por vandalizar una parada del Metro de Quito](https://www.elcomercio.com/actualidad/quito/ciudadano-parada-metro-quito-grafiti.html "Ciudadano fue detenido por vandalizar una parada del Metro de Quito")
-* [Metro de Quito superó los 40 millones de viajes](https://www.elcomercio.com/actualidad/quito/metro-de-quito-supero-40-millones-de-viajes.html "Metro de Quito superó los 40 millones de viajes")
-* [Metro de Quito anunció nueva forma de pago, ¿cómo funcionará?](https://www.elcomercio.com/actualidad/quito/metro-quito-forma-pago-nuevo-tarjeta-pasaje.html "Metro de Quito anunció nueva forma de pago, ¿cómo funcionará?")
-
-El Metro de Quito dio a conocer el incidente a través de sus redes sociales, donde emitió un comunicado que detalló lo siguiente:
-
-Detalles del vandalismo al Metro de Quito
------------------------------------------
-
-Tras conocer el incidente, la **Empresa Metro** de **Quito** solicitó informes a la operadora **Transdev** para aclarar lo sucedido.
-
-La entidad confirmó que un tren fue vandalizado durante la noche del 15 de septiembre. Ante esto, la gerencia de operaciones coordinó con criminalística de la **Policía Nacional** para recolectar **evidencias** que respalden las **acciones legales** correspondientes.
-
-Retiro del tren vandalizado
----------------------------
-
-El personal de operaciones retiró el **tren afectado** de circulación y lo trasladó a los **talleres** y **cocheras**. El equipo de mantenimiento lo limpiará después de que se completen las **pericias de seguridad**.
-
-> 📌[#Comunicado](https://twitter.com/hashtag/Comunicado?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/ILzjMZWp5L](https://t.co/ILzjMZWp5L)
-> 
-> — Metro de Quito (@MetrodeQuito) [September 16, 2024](https://twitter.com/MetrodeQuito/status/1835545032738083034?ref_src=twsrc%5Etfw)
-
-Detención de un ciudadano por vandalismo en el Metro de Quito
--------------------------------------------------------------
-
-El 12 de septiembre de 2024, las autoridades detuvieron a un ciudadano por **grafitear** una de las **estaciones** del **Metro** de **Quito**.
-
-El Cuerpo de **Agentes** de **Control Metropolitano** sorprendió al hombre mientras pintaba una pared en la estación **La Magdalena**, en el sur de **Quito**.
-
-La **Policía Nacional** lo trasladó a las dependencias correspondientes para continuar con el proceso de sanción.
-
-Sanciones por vandalismo en el Metro de Quito
----------------------------------------------
-
-**Rayar**, **pintar**, **grafitear**, escribir o manchar las instalaciones del **Metro**, así como despegar etiquetas de información, constituyen infracciones muy graves.
-
-Según la ordenanza vigente, estas acciones se sancionan con una multa equivalente a un **Salario Básico Unificado**, que en 2024 es de 460 dólares.
-
-La sanción también puede cubrirse mediante **trabajo comunitario**, valorado en 10 dólares por hora. Sin embargo, el **Municipio** de **Quito** puede escalar la sanción a una denuncia penal si se considera destrucción de bienes ajenos.
-
-Se acerca el cumpleaños de Batman  
-===================================
-
-Batman está por cumplir años y el mundo celebra al ‘Caballero Oscuro’ con eventos globales, lanzamientos exclusivos y más.
---------------------------------------------------------------------------------------------------------------------------
-
-![Batman fue creado por Bob Kane y Bill Finger en 1939. Foto: static1.cbrimages.com.](https://www.elcomercio.com/wp-content/uploads/2024/09/batmanday.jpg)
-
-El **21 de septiembre de 2024**, el mundo celebrará el 85 aniversario de **Batman**, uno de los superhéroes más icónicos de todos los tiempos. Desde su primera aparición en **Detective Comics #27** en 1939, Batman ha cautivado a generaciones con su lucha contra el crimen en **Gotham City**. Este año, **DC Comics** y diversas plataformas se unen para rendir homenaje al **‘Caballero Oscuro’** con una serie de eventos y lanzamientos exclusivos. 
-
-### Más noticias
-
-* [Portugal lanzará una moneda en honor a Cristiano Ronaldo](https://www.elcomercio.com/afull/cristiano-ronaldo-moneda-portugal.html "https://www.elcomercio.com/afull/cristiano-ronaldo-moneda-portugal.html") 
-* [Los detalles que no viste de la detención de Luisito Comunica en República Dominicana](https://www.elcomercio.com/tendencias/entretenimiento/los-detalles-que-no-viste-de-la-detencion-de-luisito-comunica-en-republica-dominicana.html "https://www.elcomercio.com/tendencias/entretenimiento/los-detalles-que-no-viste-de-la-detencion-de-luisito-comunica-en-republica-dominicana.html")
-
-**Historia de Batman** 
------------------------
-
-Batman, creado por **Bob Kane** y **Bill Finger**, debutó en 1939 y rápidamente se convirtió en un **fenómeno cultural.** A lo largo de los años, ha sido interpretado por numerosos actores en cine y televisión, incluyendo a **Adam West**, **Michael Keaton**, **Christian Bale** y más recientemente, **Robert Pattinson**. Su historia ha evolucionado, pero su esencia como un vigilante que lucha por la justicia ha permanecido constante. 
-
-**Celebraciones y eventos** 
-----------------------------
-
-**Warner Bros. Studio Tour Hollywood** celebrará el aniversario con un evento especial el 21 de septiembre de 2024. Los fanáticos podrán disfrutar de una noche única con exhibiciones exclusivas y la oportunidad de ver de cerca los **trajes y ‘gadgets’ utilizados en las películas de Batman**, según [Attraction Magazine](https://attractionsmagazine.com/celebrate-batmans-85th-anniversary-at-warner-bros-studio-tour-hollywood/ "https://attractionsmagazine.com/celebrate-batmans-85th-anniversary-at-warner-bros-studio-tour-hollywood/").  
-
-**DC Comics** ha anunciado una serie de **eventos globales** para conmemorar el aniversario. Entre ellos, el lanzamiento de la **Colección del 85 Aniversario de Batman**, que incluye 10 películas animadas en 4K UHD, de acuerdo con la página de [DC](https://www.dc.com/blog/2024/09/10/batman-day-arrives-saturday-september-21 "https://www.dc.com/blog/2024/09/10/batman-day-arrives-saturday-september-21"). Además, se realizarán actividades en tiendas de cómics y eventos en línea para que los fanáticos de todo el mundo puedan participar. 
-
-**Lanzamientos exclusivos** 
-----------------------------
-
-Para los coleccionistas, **Beast Kingdom** ha lanzado una serie de **figuras de acción de Batman**, cada una representando diferentes versiones del personaje a lo largo de los años. Estas figuras están disponibles para preordenar y son un tributo perfecto para cualquier fanático del ‘Caballero Oscuro’, según [Batman-News](https://batman-news.com/2024/09/05/beast-kingdom-85th-anniversary-batman-figures/#google_vignette "https://batman-news.com/2024/09/05/beast-kingdom-85th-anniversary-batman-figures/#google_vignette"). 
-
-**Impacto y legado** 
----------------------
-
-**El impacto de Batman en la cultura popular** es innegable. Ha inspirado a generaciones de fanáticos y ha sido un símbolo de justicia y perseverancia. Su influencia se extiende más allá de los cómics, **llegando a la televisión, el cine, los videojuegos y más**. Batman ha demostrado ser un personaje atemporal que sigue a la par del público de todas las edades. 
-
-El **85 aniversario de Batman** es una celebración de un legado que ha perdurado a lo largo de las décadas. Con **eventos globales, lanzamientos exclusivos y homenajes en diversas plataformas**, los fanáticos tienen muchas maneras de unirse a la celebración. Batman ha demostrado ser más que un simple personaje de cómic; es un **ícono cultural que seguirá inspirando a futuras generaciones**. 
-
-Así funciona el Pico y placa en Quito este lunes 16 de septiembre
+Leonardo Campana y Lionel Messi pueden jugar el Mundial de Clubes
 =================================================================
 
-Revisa los límites del Pico y placa y evita ser sancionado con multas. Recuerda que los estacionamientos de borde son gratuitos.
---------------------------------------------------------------------------------------------------------------------------------
+El Inter Miami de la MLS tiene una posibilidad real de jugar el Mundial de Clubes de 32 equipos en 2025.
+--------------------------------------------------------------------------------------------------------
 
-![Los agentes metropolitanos gestionan el flujo vehicular en las calles de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/09/pico-y-placa-1.jpg)
+![Leonardo Campana y Lionel Messi en un partido con el Inter de Miami.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-16T134842.532.jpg)
 
-El **Pico y placa continúa vigente en Quito** para autos y motos; esta medida fue implementada para mejorar el flujo vehicular en las horas de mayor tránsito.
+El nuevo **Mundial de Clubes**, que se disputará en 2025, marcará un hito al contar con la participación de 32 equipos por primera vez en la historia. Entre los clubes que podrían clasificar está el Inter Miami, equipo en el que militan **Lionel Messi y Leonardo Campana.**
 
-Además, se debe recordar que **durante los feriados y los fines de semana** la medida no aplica.
+Esto se debe a que, entre los 32 equipos que competirán, hay un cupo reservado para un club estadounidense, dado que Estados Unidos será el anfitrión del torneo. Esta es la vía por la cual el **Inter** **Miami** podría conseguir su clasificación a esta prestigiosa competencia.
+
+### Más noticias:
+
+* [Lionel Messi regresará con el Inter Miami antes de los playoffs de la MLS](https://www.elcomercio.com/deportes/futbol/lionel-messi-regresara-inter-miami-antes-de-los-playoffs-mls.html "Lionel Messi regresará con el Inter Miami antes de los playoffs de la MLS")
+* [Leonardo Campana se repuso rápido por no ir a Catar 2022](https://www.elcomercio.com/deportes/eliminatorias/leonardo-camapana-seleccion-ecuadorc-catar2022.html "Leonardo Campana se repuso rápido por no ir a Catar 2022")
+* [El nuevo formato de la Champions League debuta con unos partidazos](https://www.elcomercio.com/deportes/futbol/nuevo-formato-de-la-champions-league-debuta-con-partidazos.html "El nuevo formato de la Champions League debuta con unos partidazos")
+
+¿Messi y Campana con el Inter Miami al Mundial de Clubes?
+---------------------------------------------------------
+
+Según informó el periodista argentino Gastón Edul, quien sigue de cerca a **Lionel Messi** y la selección de Argentina, existe la posibilidad de que el Inter Miami clasifique al nuevo Mundial de Clubes.
+
+Estados Unidos tiene un **cupo garantizado por ser el país anfitrión**, pero aún no se ha determinado cómo se seleccionará al equipo que ocupará ese lugar. Existen dos opciones principales.
+
+La primera es entregarle ese boleto al **ganador del Supporters’ Shield**.
+
+Este trofeo se otorga al equipo que más puntos acumula durante la temporada regular de la Major League Soccer (MLS). Si esta opción es elegida, el Inter Miami necesitaría ganar al menos tres de los seis partidos restantes de la fase regular para tener posibilidades de clasificar.
+
+La segunda opción es al **ganador de la MLS**.
+
+La otra alternativa sería otorgar el cupo al campeón de la MLS, el principal torneo de fútbol en Estados Unidos. En este caso, el Inter Miami también tiene opciones, ya que se encuentra en una buena posición y depende de sus propios resultados para alcanzar la final y coronarse campeón.
+
+El nuevo Mundial de Clubes
+--------------------------
+
+La **Copa Mundial de Clubes de la FIFA 2025** será un torneo internacional en el que participarán 32 equipos de las seis confederaciones continentales, siendo esta la primera edición bajo su nuevo formato.
+
+Se jugará en **Estados Unidos** y será la primera vez que se dispute cada cuatro años, similar a la Copa Mundial de selecciones nacionales. El torneo tendrá lugar del 15 de junio al 13 de julio de 2025, consolidándose como uno de los eventos más esperados a nivel de clubes.
+
+Endrick, jugador del Real Madrid y Brasil, anuncia su matrimonio
+================================================================
+
+Endrick, futbolista del Real Madrid y estrella de la Selección de Brasil, anunció su matrimonio a los 18 años.
+--------------------------------------------------------------------------------------------------------------
+
+![Endrick, jugador del Real Madrid, junto a su novia tras anunciar su matrimonio.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-2024-09-16T130157.921.jpg)
+
+**Endrick**, delantero del **Real Madrid** y de la selección brasileña, anunció este lunes su matrimonio con la influenciadora Gabriely Miranda, en una serie de fotografías que publicó en Instagram y en la que aparecen vestidos de punta en blanco y luciendo alianzas.
+
+“**Finalmente casados**“, comentan ambos en una publicación conjunta en las fotografías, en la que la modelo y estudiante de nutrición de 21 años aparece usando un vestido de novia y el futbolista, de 18 años, un traje oscuro, aunque con calzado deportivo y sin corbata ni calcetines.
+
+### Más noticias:
+
+* [Los jugadores de fútbol con los nombres más extravagantes](https://www.elcomercio.com/deportes/futbol/los-jugadores-de-futbol-con-los-nombres-mas-extravagantes.html "Los jugadores de fútbol con los nombres más extravagantes")
+* [Real Madrid, con discutido penal, empató con Las Palmas](https://www.elcomercio.com/deportes/futbol/real-madrid-las-palmas-penal.html "Real Madrid, con discutido penal, empató con Las Palmas")
+* [Para Sebastián Beccacece, Ecuador mereció más ante Brasil](https://www.elcomercio.com/deportes/eliminatorias/sebastian-beccacece-debut-brasil-ecuador.html "Para Sebastián Beccacece, Ecuador mereció más ante Brasil")
+
+“**De esa forma, ellos ya no son dos, sino una sola carne. Por lo tanto, lo que Dios unió, nadie lo separa**“, según la cita bíblica también publicada por ambos en las fotografías.
+
+Pese a que ninguno da más detalles, versiones de prensa indican que ambos contrajeron matrimonio en una **ceremonia privada** y que no fue previamente divulgada[.](https://en.wikipedia.org/wiki/Endrick_(footballer,_born_2006) "https://en.wikipedia.org/wiki/Endrick_(footballer,_born_2006)")
+
+Endrick y una larga historia con su novia
+-----------------------------------------
+
+El jugador lanzado por el **Palmeiras** y considerado como una de las mayores promesas del fútbol brasileño había anunciado en octubre del año pasado, antes de presentarse al **Real Madrid** en julio de este año, su compromiso formal con la joven, que era su novia desde hacía varios meses.
+
+**Gabriely Miranda** ya se había establecido en la capital española al lado de su compañero por lo que el matrimonio era esperado en cualquier momento.
+
+Ambos, además, publicaron en abril un documento oficial registrado en notaría y titulado “**contrato de noviazgo**” en el que asumieron compromisos como pareja.
+
+¿Cómo le va a Endrick en el Real Madrid?
+----------------------------------------
+
+Endrick se unió al **Real Madrid** después de cumplir 18 años debido a normativas de la FIFA, pues antes ya había fichado por el equipo merengue. Su debut fue consagratorio y, tras ingresar desde el banco, marcó su primer gol.
+
+A nivel de la **Liga de España**, el equipo madrileño está en el tercer puesto con once unidades. Lo supera el Atlético de Madrid por gol diferencia y el FC Barcelona por cuatro puntos.
+
+Las exportaciones del Ecuador mejoraron en julio de 2024 ¿Cuál es el producto que más creció?
+=============================================================================================
+
+Las exportaciones no petroleras no mineras experimentaron un incremento interanual en el periodo enero-julio de 2024.
+---------------------------------------------------------------------------------------------------------------------
+
+![El camarón es el principal producto exportado de la oferta no petrolera no minera del Ecuador. Foto: Archivo](https://www.elcomercio.com/wp-content/uploads/2022/10/exportaciones-rusia.jpeg)
+
+Las **exportaciones no petroleras no mineras** continúan su ritmo de crecimiento en Ecuador. Entre enero y julio de 2024, las ventas al exterior en este grupo aumentaron 10% en comparación con el mismo período del año anterior, según datos del Banco Central del Ecuador (BCE), publicados por el Federación Ecuatoriana de Exportadores (Fedexpor), este 15 de septiembre de 2024[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
 
 ### Más noticias
 
-* [(Video) Incendio forestal en El Panecillo alarmó al centro de Quito](https://www.elcomercio.com/actualidad/quito/incendio-forestal-panecillo-alarma-quito-humo.html "(Video) Incendio forestal en El Panecillo alarmó al centro de Quito")
-* [(Mapa interactivo) Al menos 661 incendios forestales se registran desde el 23 de agosto](https://www.elcomercio.com/actualidad/ecuador/mapa-interactivo-661-incendios-forestales-se-registran-desde-23-de-agosto.html "(Mapa interactivo) Al menos 661 incendios forestales se registran desde el 23 de agosto")
-* [Ausencia de lluvias significativas favorece formación de incendios forestales](https://www.elcomercio.com/actualidad/ecuador/ausencia-de-lluvias-significativas-favorece-formacion-de-incendios-forestales.html "Ausencia de lluvias significativas favorece formación de incendios forestales")
+* [Exportaciones de oro sufren un fuerte cambio en su desempeño](https://www.elcomercio.com/actualidad/negocios/exportaciones-oro-ecuador-controles-mineria-ilegal.html "Exportaciones de oro sufren un fuerte cambio en su desempeño")
+* [El cacao sustentó el crecimiento de las exportaciones ecuatorianas](https://www.elcomercio.com/actualidad/negocios/el-cacao-sustento-el-crecimiento-de-las-exportaciones-ecuatorianas.html "El cacao sustentó el crecimiento de las exportaciones ecuatorianas")
+* [Ecuador se suma a la moda de las flores amarillas](https://www.elcomercio.com/actualidad/ecuador-suma-moda-flores-amarillas-septiembre.html "Ecuador se suma a la moda de las flores amarillas")
 
-Así como hay excepciones, **los vehículos que pertenecen a adultos mayores**, personas con discapacidad, vehículos eléctricos y los oficiales pueden circular con normalidad a cualquier hora.
+Así, en los primeros siete meses del año se exportaron 12 032 millones de dólares, 1 065 millones más de lo que se vendió en el mismo período del año pasado, cuando se alcanzó 10 967 millones de dólares.
 
-La restricción depende del **último dígito de la placa del vehículo**. Este lunes no circulan las placas terminadas en 1 y 2.
+Solo en julio de 2024 se registra un incremento en las exportaciones no petroleras no mineras de 17,5%. Este es el segundo crecimiento más importante del año en comparación con el mismo mes del año anterior. Y además, acumulan cuatro meses consecutivos con incrementos superiores a 12%.
 
-Horarios del Pico y placa
--------------------------
+Principales exportaciones del Ecuador
+-------------------------------------
 
-En la mañana la medida se aplica de **06:00 a 09:30 y en la tarde, de 16:00 a 20:00.**
+El **camarón** es el principal producto exportado de la oferta no petrolera no minera del Ecuador. Este producto bajó su valor vendido en 6% en el periodo de enero a julio de 2024. En los primeros siete meses del año se vendieron 4 113 millones de dólares. El monto representa 34% de ventas de este segmento.
 
-Las autoridades locales hacen un llamado a la **colaboración ciudadana** y al respeto de estas normativas, en aras de garantizar una mejor movilidad urbana.
+Asimismo, las exportaciones de **banano y plátano** disminuyeron en 3% su valor exportado. Se alcanzó ventas por 2 219 millones de dólares y constituye el segundo producto de mayor exportación del país.
 
-Multas por infringir la medida
-------------------------------
+Mientras que, las exportaciones de **enlatados de pescado, y atún y pescado** aumentaron su valor exportado en 23% cada uno. Juntos suman 1 147 millones de dólares en ventas durante los primeros siete meses del año.
 
-La multa por incumplirla es del 15% del **Salario Básico Unificado**, es decir 69 dólares la primera vez.
-
-Si la incumples una segunda vez, la sanción será del **25%, es decir, 115 dólares.**
-
-Y si infringes una tercera vez, **la multa asciende al 50%** de un salario básico, es decir, 230 dólares.
-
-Límites en Quito para Pico y placa
-----------------------------------
-
-Esta medida se aplica en el **Distrito Metropolitano.** En el norte la restricción está presente en la avenida de Los Narcisos y teniendo como puntos de referencia la **Escuela Superior de la Policía** y Puente Villorita.
-
-Desde los puntos anteriores esta medida se extiende hasta la avenida **Morán Valverde**. Es decir, todas las vías entre Los Narcisos y Morán Valverde tiene restricción de lunes a viernes.
-
-El otro límite vehicular es la **avenida Simón Bolívar**, donde se acaba la restricción vehicular y sus puntos de referencia son Intercambiador de La Granados e Intercambiador de Carapungo.
-
-Al oeste, la [av. Mariscal Sucre](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito") hasta la intersección de la av. **Manuel Córdova Galarza** (redondel El Condado).
-
-> ⚠️ ¡No caigas en multas! Conoce por dónde puedes circular en [#Quito](https://twitter.com/hashtag/Quito?src=hash&ref_src=twsrc%5Etfw) [https://t.co/VAySmVN9kd](https://t.co/VAySmVN9kd) [pic.twitter.com/Gyso7gkL1O](https://t.co/Gyso7gkL1O)
-> 
-> — El Comercio (@elcomerciocom) [June 9, 2024](https://twitter.com/elcomerciocom/status/1799837694727434657?ref_src=twsrc%5Etfw)
-
-Metástasis: la descomposición del sistema judicial
-==================================================
-
-La reciente acusación de la Fiscalía en el caso Metástasis pone de manifiesto el alcance de una red de corrupción que ha corrompido el sistema judicial.
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Imagen creada con inteligencia artificial con el prompt: imagen de un juez sin rostro que va a dictar sentencia.](https://www.elcomercio.com/wp-content/uploads/2024/09/Untitled-design-17.jpg)
-
-La reciente acusación de la Fiscalía en el **caso Metástasis**, que involucra a Leandro Norero, uno de los capos de la droga en Ecuador, pone de manifiesto el alcance de una red de corrupción que ha corrompido los cimientos del sistema judicial y penitenciario del país. El modus operandi revelado no solo es alarmante por la cantidad de **personas implicadas**, sino por la facilidad con la que esta estructura delictiva operaba dentro de instituciones clave del **Estado**[.](https://es.wikipedia.org/wiki/Caso_Met%C3%A1stasis "https://es.wikipedia.org/wiki/Caso_Met%C3%A1stasis")
-
-> Uno de los elementos más escalofriantes de este caso es la implicación de altos funcionarios del Estado, aquellos encargados de velar por el cumplimiento de la ley y la seguridad pública. 
-
-Es inevitable preguntarse cómo es posible que un entramado tan [complejo](https://www.elcomercio.com/actualidad/seguridad/fiscalia-expone-como-operaba-leandro-norero-caso-metastasis.html "https://www.elcomercio.com/actualidad/seguridad/fiscalia-expone-como-operaba-leandro-norero-caso-metastasis.html"), que involucra a abogados, jueces, fiscales, agentes penitenciarios y hasta **altos funcionarios**, se haya sostenido durante tanto tiempo sin ser detectado o enfrentado. La respuesta, aunque incómoda, parece clara: cuando el sistema que debe impartir justicia está infiltrado por la corrupción, aquellos con poder y dinero pueden comprar cualquier beneficio, sin importar el costo para la sociedad.
-
-Uno de los aspectos más preocupantes de este caso es la implicación directa de profesionales del derecho. Algunos abogados se presentan no como defensores de la ley, sino como facilitadores de un **sistema corrupto**, donde las sentencias y decisiones judiciales pueden ser compradas al mejor postor. La imagen del abogado como un garante de la justicia queda absolutamente mancillada.
-
-Estos profesionales habrían utilizado sus conocimientos y contactos para manipular procesos legales y garantizar que **Leandro Norero** y sus colaboradores gozaran de impunidad. La Fiscalía ha revelado que estos abogados, junto con algunos jueces, jugaron un rol determinante en la concesión de beneficios judiciales, como la modificación de **sentencias** o la emisión de **hábeas corpus** favorables a la organización.
-
-La penetración de esta red criminal no se detuvo en los juzgados. Las cárceles del país, que deberían ser lugares de rehabilitación y castigo, se han convertido en **refugios** donde el dinero puede comprar cualquier privilegio. Varios funcionarios penitenciarios habrían facilitado el ingreso de **artículos** **prohibidos** y brindado información a Leandro Norero sobre operativos de inteligencia, asegurando que sus días en prisión fueran lo más cómodos posible.
-
-Uno de los elementos más escalofriantes de este caso es la implicación de **altos funcionarios del Estado**, aquellos encargados de velar por el cumplimiento de la ley y la seguridad pública. 
-
-El caso Metástasis es un espejo de la realidad del país. Las instituciones encargadas de garantizar la justicia y la seguridad están gravemente comprometidas. El hecho de que abogados, jueces, fiscales, funcionarios penitenciarios y altos mandos de la Policía estén **implicados en esta red de corrupción** no solo revela un caso puntual de criminalidad organizada, sino un síntoma de la descomposición generalizada del sistema.
-
-Si no se toman medidas drásticas y profundas para reformar estas instituciones, es posible que casos como el de Leandro Norero sigan proliferando. El caso Metástasis debe servir como una **llamada de atención urgente** para reformar un sistema que, si sigue por este camino, estará condenado al colapso.
-
-Lecturas que reviven ideales
-============================
-
-Elijamos autoridades honestas y enfrentemos, con decisión y firmeza, a la corrupción.
--------------------------------------------------------------------------------------
-
-![Reinaldo Páez Z., columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Reinaldo-Paez-Z.jpg)
-
-Enorme regocijo origina la **lectura** de la **novela histórica**, “**El Fuego Interior**” fruto de la prolífica **escritora** **Águeda Pallares**; su lectura es tan cautivadora que atrapa al lector y lo abraza entre hermosas **metáforas**, bellas **descripciones** geográficas y situaciones cambiantes que exhalan amor, pasión, patriotismo, lealtad y ejemplar honestidad. El **relato poético** permite percibir el sudor de los valientes soldados que, bajo el mando del general Antonio José de Sucre, cumplían las órdenes del libertador Simón Bolívar, para transportar a caballo, cañones, lanzas, fusiles y otros **pertrechos bélicos**, a través de “largos caminos, bajo la **lluvia**, el **sol abrazador**, las noches heladas y la mala alimentación…” “Atravesaban estrechos valles de paisajes pristinos y hermosas vistas. Las **ciudades** por las que pasaban estaban perdidas en el tiempo” Las montañas y las **quebradas** profundas, no constituían **obstáculos** infranqueables en el desplazamiento de los ejércitos que, imbuidos de **patriotismo**, sorprendieron a las poderosas **fuerzas realistas**. Las elegantes y armoniosamente hilvanadas frases dedicadas al **héroe** y sin par personaje **Antonio José de Sucre**, nos transportan a los campos de **batalla** del Pichincha y de Ayacucho, nos contagian del olor, a pólvora, a dolor y a la **sangre** que derramaron los bravos **soldados** para legarnos la **libertad**.
-
-La **obra** narra que, una vez liberado el Perú, el **Mariscal Sucre** fue designado primer presidente de Bolivia; “el nuevo país florecía y el ejército se preparaba bajo la **supervisión** de su comandante” “los hombres, que antes gozaban de **poder ilimitado**, no soportaban a Sucre porque gobernaba de forma autoritaria, sin desviarse del camino de la **virtud** y la **honestidad**, no se podía lucrar de las arcas de la **república**, atrasarse o hacer mal el trabajo”
-
-Añadía el joven general “vamos a erradicar de una vez por todas esas malas mañas. Nunca construiremos una verdadera **democracia** mientras no logremos sembrar la **honestidad** y el cumplimiento del deber en la **conciencia** de los **ciudadanos**” …”si no se obedece mi **mandato** asegúrese de que se aplique la pena de muerte a los **corruptos**” “En la reunión con sus **ministros**, Sucre planteó la urgencia que tenía en conseguir recursos para cubrir **gastos** de **educación** y **salud**”.
-
-Han transcurrido dos siglos desde que el **Mariscal Sucre** y el Libertador **Simón Bolívar** anhelaban que, en los **países liberados** por ellos, se elimine la **corrupción** e inclusive planteaban la **pena capital** para los **corruptos** y ansiaban financiar la **salud** y la **educación**, como acciones fundamentales de gobierno. Qué positivo sería que, en el **momento actual**, se actualicen esos **programas** y que alguno de los 16 aspirantes a ocupar **Carondelet,** exponga **proyectos** de **gobiernos** similares y aboguen por dar fin a la **corrupción** que está destruyendo a **nuestro país**. La triste realidad es que ningún **candidato** presenta propósitos de gestión y la gran mayoría se mantiene inmersa en las **redes sociales** y en **programas faranduleros** que no garantizan un **futuro útil** para el país.
-
-Es inaudito que en lugar de que la **Asamblea** elabore leyes que cimienten las bases de un verdadero **sistema nacional de salud**, que modernicen y mejoren la **educación**, que detengan la **destrucción** del Instituto Ecuatoriano de Seguridad Social (IESS), que impidan la **degeneración judicial**, que den mal uso al tiempo de **trabajo** y lo desperdicien en la **planificación** de **juicios políticos**, orientados a desestabilizar a los gobiernos de turno y a beneficiar a **exfuncionarios** que delinquieron y fueron juzgados y **sentenciados**. Esa actitud, de **protección** a los condenados, divide al país entre los **honestos**, que defienden la **democracia** y la **justicia**, y los **corruptos**, que dan cabida a **personajes** que han saqueado las **arcas nacionales** y aspiran a seguir haciéndolo, sin ningún recato.
-
-Es un **enfrentamiento** entre el bien y el mal, en varias batallas; en la última triunfó la valiente representante de la lucha contra la **corrupción**, la **Fiscal General Diana Salazar**, cuya acción frontal ha permitido descubrir una enorme **podredumbre** del **sistema judicial** y sancionar a abogados, jueces, fiscales, militares y policías, en varios casos abiertos.
-
-Honremos la **memoria** de **Bolívar** y de **Sucre**, nos sumemos al **ejército** de **dignidad** y **corrección**, elijamos **autoridades** **honestas** y enfrentemos, con decisión y firmeza, a la **corrupción**.
-
-Cartas a Quito / 16 de septiembre de 2024
-=========================================
-
-Estas son las cartas a Quito de este lunes 16 de septiembre de 2024
--------------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
-La ignorancia de los politiqueros
----------------------------------
-
-En días anteriores, a raíz de la decisión del presidente Noboa para exonerar del pago del consumo eléctrico por dos o tres  meses a los ciudadanos que no consumieran sobre una cantidad determinada de kilovatios, varios representantes de movimientos políticos que se han inscrito para participar en las próximas elecciones, de los cuales, algunos lo hacen con el fin de volver al poder, han criticado esa decisión, argumentando que se está perjudicando al pueblo, por motivos electorales.
-
-A esos políticos que pugnan por regresar al poder, les digo que no tienen ningún derecho a hacer  esa crítica, ni ninguna otra que se refiera a la falta de agua en los ríos en general y peor en los que alimentan a las hidroeléctricas, pues durante sus respectivos períodos presidenciales no hicieron nada efectivo para hacer un manejo apropiado de la cobertura vegetal en las cuencas hidrográficas, lo que hubiera evitado que haya poco o ningún caudal en las épocas de sequía; o inundaciones de campos, pueblos y ciudades durante la época invernal. Esa falta de acción, si es perjudicar  tremendamente al pueblo
-
-Alguno de los críticos, va a argumentar que se dio apoyo a la Agencia de Control de Riesgos. A estos les aclaro que esta dependencia gubernamental, tiene la tarea de mitigar los efectos de sequías e inundaciones, entre otros desastres, más no el de prevenirlos. 
-
-El manejo de los recursos de suelo y vegetación en las cuencas hidrográficas, que además de ayudar a evitar inundaciones y agudización de los efectos de las sequías, también implica hacer planes de desarrollo del agro, que evitaría la migración interna y externa de ecuatorianos; exige tener una política y estrategias que involucran un trabajo interdisciplinario e interinstitucional, pues deben participar ministerios y prefecturas; todo lo cual debería dirigir y coordinar la Secretaría de Planificación Nacional; siempre y cuando posea la autoridad para hacerlo.
-
-Carlos Adolfo González Sánchez
-
-Plan de trabajo, señores candidatos
+Estabilización del precio del cacao
 -----------------------------------
 
-Toda organización social emplazada en un determinado  territorio (estado), tiene la obligación de: regular, ejecutar  y, controlar la vida de sus miembros, mediante la determinación de un objetivo y las herramientas necesarias para conseguirlo (planificación). El objetivo del Estado ecuatoriano es, asegurar el bienestar de sus habitantes y, las herramientas, los planes de trabajo de todos y cada uno de los  órganos superiores como: ejecutivo, legislativo, judicial, electoral y,  transparencia y control social. El primero ejecuta, cumple y hace cumplir las normas que regula y controla el segundo. La cabeza del poder ejecutivo y los miembros de la función legislativa son elegidos por el pueblo. En consecuencia, el elector tiene la obligación de exigir a los candidatos, el plan de trabajo como condición de empleo, mismo que será aprobado y apoyado (voto) por el ciudadano, cuando sea, claro, flexible y medible, es decir que indique matemáticamente: que va a hacer, cuando va hace, cuál es el valor y  como va a hacer y, se le pueda medir el avance en cualquier momento (plan técnico). Este plan se consigue utilizando la herramienta de gestión de proyectos “Método del camino crítico”. El plan de trabajo o de gobierno del poder ejecutivo), debe ser el resumen de los planes de  seguridad interna y de seguridad externa. El plan de trabajo de seguridad interna será el consolidado de los planes de: seguridad civil, seguridad en salud, seguridad en educación, seguridad alimenticia, seguridad habitacional y de infraestructura, seguridad de empleo, seguridad social, etc. El plan de trabajo de la seguridad externa será el compendio del plan de soberanía territorial y el plan que relaciona al Estado ecuatoriano con el mundo. Candidatos, basta de improvisar, basta de demagogia, basta de debates inútiles, si quieren ganarse al electorado, socialicen un Plan técnico. 
+Julio de 2024 se registró una disminución de los precios de cacao, después de nueve meses de incremento consecutivo. La reducción del precio de exportación de cacao en grano de junio a julio fue de 2%, lo cual muestra una señal en la estabilización del precio del cacao a nivel internacional, señaló Fedexpor. Las ventas de cacao y elaborado alcanzaron 1 515 millones de dólares, constituyéndose en el tercer rubro de exportación no petrolera no minera del Ecuador.
 
-Marco A. Zurita Ríos
+Asimismo, en los primeros siete meses de 2024, las exportaciones no petroleras no mineras se incrementaron hacia 86 destinos, pero disminuyeron en 78 destinos.
 
-Caso Sinohydro iniciará un nuevo proceso en la investigación
-============================================================
+Daniel Noboa presentará proyecto para reformar la Constitución sobre bases militares extranjeras
+================================================================================================
 
-La CNJ convoca audiencia para 25 acusados en caso Sinohydro, incluido Lenín Moreno, por presunto cohecho en Coca Codo Sinclair.
--------------------------------------------------------------------------------------------------------------------------------
+Daniel Noboa enviará a la Asamblea Nacional proyecto para reformar la Constitución.
+-----------------------------------------------------------------------------------
 
-![Audiencia del caso Sinohydro para revisión de medidas el pasado 1 de agosto de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/cnj.png)
+![Daniel Noboa hizo el anuncio este 16 de septiembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/Daniel-Noboa-bases.jpg)
 
-El conjuez **Manuel Cabrera**, de la **Corte Nacional de Justicia**, ha convocado a una nueva audiencia en el caso Sinohydro. Este proceso será el 16 de septiembre y está dirigida a **25 acusados**, entre ellos el expresidente **Lenín Moreno** y varios de sus familiares. La audiencia tiene como objetivo evaluar el caso y preparar el juicio por el delito de cohecho.
+El presidente **Daniel Noboa** informó sobre su propuesta para reformar la **Constitución de la República**. Hizo el anuncio a través de su cuenta de X[.](https://es.wikipedia.org/wiki/Daniel_Noboa)[](https://es.wikipedia.org/wiki/Daniel_Noboa)
+
+El Mandatario indicó que se trata de un proyecto de reforma parcial a la Carta Magna. El planteamiento irá a la **Asamblea Nacional**.
 
 ### Más noticias
 
-* [Fiscalía expone cómo operaba Leandro Norero en el caso Metástasis](https://www.elcomercio.com/actualidad/seguridad/fiscalia-expone-como-operaba-leandro-norero-caso-metastasis.html "Fiscalía expone cómo operaba Leandro Norero en el caso Metástasis")
-* [Caso Purga: CNJ resolvió pedido de sustitución de prisión preventiva para Pablo Muentes y otros](https://www.elcomercio.com/actualidad/seguridad/caso-purga-cnj-resuelve-pedido-sustitucion-prision-preventiva-pablo-muentes.html "Caso Purga: CNJ resolvió pedido de sustitución de prisión preventiva para Pablo Muentes y otros")
-* [Caso Plaga, testigo protegido mencionó a Iván Saquicela](https://www.elcomercio.com/actualidad/seguridad/caso-plaga-testimonio-anticipado-menciono-ivan-saquicela.html "Caso Plaga, testigo protegido mencionó a Iván Saquicela")
+* [Gobierno declara toque de queda por cortes de luz a escala nacional](https://www.elcomercio.com/actualidad/seguridad/gobierno-declara-toque-queda-por-cortes-luz-a-escala-nacional.html)
+* [Daniel Noboa dispone corte de luz nacional por mantenimientos](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-corte-de-luz-nacional-por-mantenimiento-apagon.html "Daniel Noboa dispone corte de luz nacional por mantenimientos")
+* [Gobierno plantea que ciudadanía ahorre energía para evitar cortes de luz](http://Gobierno plantea que ciudadanía ahorre energía para evitar cortes de luz)
+* [Cortes de luz se registran este 11 de septiembre en tres provincias](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-se-registran-este-11-de-septiembre-en-algunas-provincias.html "Cortes de luz se registran este 11 de septiembre en tres provincias")
 
-Sin embargo, este lunes 16 de septiembre se conoció a través del **calendario de audiencias de la Corte Nacional de Justicia** que este proceso quedó diferido.
-
-La investigación sobre este caso comenzó en marzo de 2019. Inicialmente, se procesó a **37 personas, pero luego se sumaron tres más**. Entre los involucrados figuran **Conto Patiño**, cercano a Moreno, y el **exembajador chino Cai Runguo**. Este caso está relacionado con la contratación de la empresa Sinohydro para la construcción de Coca Codo Sinclair, un proyecto financiado por más de 2 000 millones de dólares.
-
-Contexto del caso Sinohydro
----------------------------
-
-El 19 de febrero de 2019, los periodistas **Christian Zurita y Fernando Villavicencio** presentaron la investigación **El Laberinto Offshore** del círculo presidencial. En este reportaje, se vinculaba a la familia del entonces presidente Lenín Moreno con la empresa offshore Ina Investment Corporation, constituida en Belice en 2012 por Edwin Moreno, hermano del mandatario.
-
-Según el informe, la empresa fue usada para adquirir **bienes como muebles y propiedades** en el extranjero, lo que generó interés en la opinión pública.
-
-Poco después de la publicación, apareció un portal anónimo que aseguraba que “Ina” era un acrónimo formado por las últimas letras de los nombres de las hijas de Moreno: Karina, Cristina e Irina. El caso ganó notoriedad, y la **Asamblea Nacional** empezó a considerar una investigación sobre los supuestos vínculos del presidente con empresas offshore.
-
-Declaraciones y reacciones en la Asamblea Nacional
---------------------------------------------------
-
-El 26 de febrero de 2019, **Lenín Moreno** se pronunció en cadena nacional, negando poseer propiedades fuera de Ecuador y asegurando que **no tenía participación en empresas offshore**. No obstante, el 7 de marzo, el legislador **Ronny Aleaga** intentó sin éxito que el caso se debatiera en el pleno de la Asamblea Nacional. Durante la misma sesión, se filtró un audio que involucraba a la presidenta de la Asamblea, **Elizabeth Cabezas**, en conversaciones sobre el manejo de la votación.
-
-> Rafael Correa nunca me encargó nada relacionado con los sectores estratégicos y no he pedido asilo en Paraguay. Lenin Moreno sobre el caso Sinohydro [pic.twitter.com/bSpuXnS7DN](https://t.co/bSpuXnS7DN)
-> 
-> — Martin Pallares (@Martinminguchi) [March 9, 2023](https://twitter.com/Martinminguchi/status/1633850846663397378?ref_src=twsrc%5Etfw)
-
-Finalmente, el 26 de marzo de 2019, la Asamblea decidió que la **Comisión de Fiscalización** se encargara de investigar el caso. El proceso continuó su curso con la **creación de una comisión multipartidista** que, entre otras acciones, remitió el informe sobre el caso a la Fiscalía y a otras autoridades pertinentes.
-
-Avance de la investigación y formulación de cargos
---------------------------------------------------
-
-En 2021, la Fiscalía General del Estado anunció avances importantes en la investigación, luego de recibir información desde Panamá a través de asistencia penal internacional. La indagación se extendió más allá de lo inicialmente revelado en los _Ina Papers_, lo que llevó a que en febrero de 2023 se formularan cargos por presunto cohecho contra Lenín Moreno, su familia y otras 31 personas.
-
-La audiencia de formulación de cargos tuvo lugar el 3 de marzo de 2023, y la Fiscalía solicitó medidas cautelares, incluida la prisión preventiva para algunos de los involucrados. Sin embargo, el juez del caso dictó arresto domiciliario para aquellos mayores de 65 años, incluidos Moreno y su esposa, y ordenó la presentación periódica ante las autoridades.
-
-Desarrollo del proceso judicial y medidas cautelares
-----------------------------------------------------
-
-El 5 de marzo de 2023, el **juez Adrián Rojas** dictó **medidas alternativas a la prisión** preventiva para la mayoría de los procesados en el caso. **Lenín Moreno, Judith G. y Xavier M**. fueron obligados a presentarse cada quince días ante la Corte Nacional de Justicia del Ecuador. El resto de los procesados, un total de 37 personas, debían cumplir con la presentación cada ocho días.
-
-Además, se les impuso la prohibición de salir del país y el uso de dispositivos de vigilancia electrónica, con la excepción de Wu Y., para quien se ordenó prisión preventiva.
-
-Posteriormente, el 22 de marzo de 2023, en una audiencia de revisión de medidas cautelares solicitada por diez de los procesados, el **juez Mauricio Espinosa** negó la petición de ocho de ellos. Entre los que se encontraban Lenín Moreno, su esposa Rocío G. y su hija Irina M.
-
-El magistrado señaló que para que las medidas pudieran ser revisadas, debían cumplirse ciertos requisitos legales establecidos en el Código Orgánico Integral Penal (COIP).
-
-Nuevas decisiones judiciales y ampliación de la investigación
--------------------------------------------------------------
-
-El 6 de junio de 2023, el juez Espinosa rechazó la solicitud de la Fiscalía de dictar prisión preventiva contra varios procesados. En el caso de **Lenín Moreno y Rocío G., se dispuso que se presentaran dentro de los primeros diez días** de cada mes en la sede diplomática del Ecuador en Asunción, Paraguay. Además, debían acudir cada cuatro meses ante la Sala Penal de la Corte Nacional de Justicia en Quito.
-
-Más tarde, el 14 de junio de 2023, la **Fiscalía General del Estado** vinculó a tres personas más a la investigación. El juez Espinosa ordenó medidas cautelares adicionales, incluyendo la prohibición de enajenar bienes inmuebles y la inmovilización de valores para las nuevas involucradas.
-
-Solicitudes de revisión de medidas en 2024
+Daniel Noboa y bases militares extranjeras
 ------------------------------------------
 
-El 1 de agosto de 2024, los procesados **Conto P. y Guillermo M.** solicitaron la revisión de sus medidas cautelares en el marco del caso de presunto cohecho.
+> A Ecuador no le hacían falta oportunidades, sino honestidad y voluntad política.  
+>   
+> Por eso, hoy presentaremos un Proyecto de Reforma Parcial a la Constitución en la Asamblea Nacional que modifique el artículo 5, el cual prohíbe el establecimiento de bases militares extranjeras y… [pic.twitter.com/myn2IBjHa9](https://t.co/myn2IBjHa9)
+> 
+> — Daniel Noboa Azin (@DanielNoboaOk) [September 16, 2024](https://twitter.com/DanielNoboaOk/status/1835737547231969400?ref_src=twsrc%5Etfw)
 
-Posteriormente, el 15 de agosto de 2024, tras analizar los argumentos presentados durante la audiencia, el juez **Cabrera acogió la solicitud del fiscal general del Estado (s), Wilson Toainga**. Declaró improcedentes los recursos de revisión de medidas cautelares solicitados por los dos procesados. Las medidas cautelares se mantuvieron, y el **proceso judicial siguió avanzando con las mismas restricciones para los involucrados**.
+La intención de **Daniel Noboa** es modificar el artículo 5, el cual prohíbe el establecimiento de **bases militares extranjeras** y de instalaciones con fines militares en Ecuador.
 
-‘Shogun’, ‘The Bear’, ‘Hacks’ y ‘Bebé Reno’, las más ganadoras de los Premios Emmy
-==================================================================================
+La **Constitución de Ecuador** prohíbe expresamente la instalación de bases militares extranjeras en su territorio.
 
-'Shogun', serie protagonizada por Takehiro Hira, pasó a los récords de los llamados Oscar de la TV, en EE.UU.
--------------------------------------------------------------------------------------------------------------
+A lo largo de los años, **Ecuador** ha buscado evitar cualquier intervención que comprometa su autonomía política, y la prohibición de bases militares extranjeras es una manifestación clara de esta política.
 
-![Anna Sawai, ganadora del premio a la Mejor Actriz Principal en una Serie Dramática por 'Shogun', posa con su premio. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/09/d356363f07363fcb156089f082d5ef42a3b5dd44.jpg)
+La medida, reforzada durante la administración de **Rafael Correa**, culminó con la salida de la base estadounidense de **Manta en 2009**, que operaba bajo un acuerdo bilateral.
 
-La 76ª edición de los [Premios](https://www.instagram.com/televisionacad/p/C3LEQRTL8f-/?locale=fr_CA "https://www.instagram.com/televisionacad/p/C3LEQRTL8f-/?locale=fr_CA") Emmy se celebró la noche de este 15 de septiembre de 2024 en el Teatro Peacock de Los Ángeles. ‘Shogun’ se coronó como la mejor serie de drama, mientras que ‘Hacks’ dio la sorpresa al vencer a ‘The Bear’, como mejor serie de comedia y ‘Bebé Reno’ triunfó como mejor miniserie.
+Este hecho marcó un hito en la **postura ecuatoriana** frente a la influencia militar extranjera, alineándose con una tendencia de mayor independencia en la región.
+
+La prohibición ha sido vista como un rechazo al control o influencia de **potencias extranjeras** en asuntos de defensa, buscando evitar situaciones de dependencia o subordinación.
+
+Los argumentos del Presidente
+-----------------------------
+
+**Daniel Noboa** hizo el anuncio de la propuesta a través de un video grabado en lo que fue la **Base de Manta**. “Quisieron decir que así recuperaríamos la **soberanía del Ecuador** y lo que hicieron fue entregarlo al narcotráfico. Ese fue el primer pacto con el crimen transnacional. Ese pacto que tenemos que revertir”.
+
+El Presidente se refirió, justamente, al cierre de las instalaciones en las que operaban equipos de **Estados Unidos.**
+
+En el anuncio indicó que su **Gobierno** presentará el proyecto este 16 de septiembre de 2024. “En un conflicto transnacional necesitamos respuesta nacional e internacional”, agregó el **Mandatario**.
+
+Según él, acciones como el cierre de la **Base de Manta** debilitaron al país ante las amenazas que no conocen fronteras. “Es momento de la Asamblea Nacional, de una vez por todas, decidir de qué lado de la Historia está”.
+
+Hermano de Michael Jackson falleció a los 70 años
+=================================================
+
+El miembro original de los Jackson five y hermano de Michael Jackson, falleció a los 70 años. Su legado musical perdura.
+------------------------------------------------------------------------------------------------------------------------
+
+![Tito Jackson fue uno de los miembros fundadores de la recordada agrupación The Jackson 5. Pinterest.](https://www.elcomercio.com/wp-content/uploads/2024/09/muere-tito-jackson.jpg)
+
+**Tito Jackson**, cuyo nombre completo era **Toriano Adaryll Jackson**, nació el 15 de octubre de 1953 en Gary, Indiana. Fue el **tercer hijo de Katherine y Joe Jackson**, y uno de los **miembros fundadores de The Jackson 5**, grupo que revolucionó la música pop en los años 60 y 70. Tito, junto a sus hermanos Jackie, Jermaine, Marlon y Michael, alcanzó la fama mundial con éxitos como I Want You Back y ABC bajo el sello Motown. 
+
+### Más noticias
+
+* [(Video) Shakira enfrentó un incómodo momento en club de Miami](https://www.elcomercio.com/afull/shakira-baile-soltera-miami.html "https://www.elcomercio.com/afull/shakira-baile-soltera-miami.html") 
+* [Maná estalla contra Nicky Jam por causa de Donald Trump](https://www.elcomercio.com/afull/mana-nicky-jam-donald-trump.html "https://www.elcomercio.com/afull/mana-nicky-jam-donald-trump.html")
+
+**La tragedia de la muerte de Tito Jackson** 
+---------------------------------------------
+
+El 15 de septiembre de 2024, **Tito Jackson** falleció a los 70 años. **La noticia fue confirmada por sus hijos,** quienes expresaron su dolor a través de redes sociales. Aunque aún no se ha determinado la causa oficial, su partida ha dejado un vacío en el mundo de la música. Según [Entertainment Weekly](https://ew.com/tito-jackson-dead-the-jackson-5-musician-was-70-8713029 "https://ew.com/tito-jackson-dead-the-jackson-5-musician-was-70-8713029"), Tito fue un pilar fundamental en la familia Jackson, tanto en lo personal como en lo profesional. 
+
+**La familia Jackson** 
+-----------------------
+
+Tito Jackson se casó con **Delores ‘Dee Dee’ Martes** en 1972, con quien tuvo tres hijos: Taj, Taryll y TJ. **Sus hijos formaron el grupo musical 3T** en los años 90, siguiendo los pasos de su padre y sus tíos. **La familia Jackson es conocida por su talento musical** y su influencia en la industria del entretenimiento. Tito siempre fue un apoyo constante para sus hermanos, especialmente durante los momentos difíciles, como la muerte de Michael Jackson en 2009, a decir de [BBC](https://www.bbc.co.uk/news/articles/c2kddp5x5zno "https://www.bbc.co.uk/news/articles/c2kddp5x5zno"). 
+
+**Un legado duradero** 
+-----------------------
+
+A lo largo de su carrera, **Tito Jackson no solo fue un guitarrista talentoso**, sino también un cantante y compositor. Después de la disolución de **The Jackson 5**, Tito continuó su carrera en solitario, lanzó varios álbumes y colaboró con otros artistas. Su música y su legado continúan inspirando a nuevas generaciones de músicos y fanáticos alrededor del mundo. 
+
+**Tributos y recuerdos** 
+-------------------------
+
+Desde el anuncio de su muerte, numerosas figuras del mundo de la música y el entretenimiento han **rendido homenaje a Tito Jackson**. Su madre, **Katherine Jackson**, expresó su profundo dolor y agradecimiento por el apoyo recibido. “Tito fue un hijo, hermano y padre maravilloso. Su música y su espíritu vivirán para siempre en nuestros corazones”, dijo Katherine en un comunicado, citado por [Los Ángeles Times](https://www.latimes.com/entertainment-arts/music/story/2024-09-16/tito-jackson-dead-jackson-5 "https://www.latimes.com/entertainment-arts/music/story/2024-09-16/tito-jackson-dead-jackson-5"). 
+
+La **muerte de Tito Jackson** marca otro golpe para la **familia Jackson** y para la **música pop**. Su contribución al mundo del entretenimiento y su legado perdurará a través de sus canciones y de las generaciones que inspiró. Tito Jackson será recordado no solo como un miembro de **The Jackson 5**, sino como un artista que dejó una huella en la historia de la música. 
+
+Cuerpo desmembrado fue encontrado en Durán
+==========================================
+
+Policía y Medicina Legal realizaron el levantamiento de un cuerpo desmembrado en Durán.
+---------------------------------------------------------------------------------------
+
+![Un cuerpo desmembrado, embalado en una sábana, fue encontrado en un basurero en las faldas del cerro de Las Cabras, en Durán.](https://www.elcomercio.com/wp-content/uploads/2024/09/medicina-legal.png)
+
+El lunes 16 de septiembre, en las faldas del cerro de **Las Cabras**, cantón **Durán**, se encontró un **cuerpo desmembrado**. Los restos humanos estaban embalados en una **piscina plástica** y se hallaban en un área utilizada como basurero.
+
+### Más noticias
+
+* [Juez toma medidas contra el otro involucrado en la muerte del chofer de Cayambe](https://www.elcomercio.com/actualidad/seguridad/juez-toma-medidas-contra-el-otro-involucrado-en-la-muerte-del-chofer-de-cayambe.html "Juez toma medidas contra el otro involucrado en la muerte del chofer de Cayambe")
+* [Hallan cuerpo sin vida de menor desaparecida en Penipe](https://www.elcomercio.com/actualidad/ecuador/hallan-cuerpo-sin-vida-de-menor-desaparecida-en-penipe.html "Hallan cuerpo sin vida de menor desaparecida en Penipe")
+* [La Policía señala que cuerpos hallados serían de jóvenes desaparecidos en Puerto López](https://www.elcomercio.com/actualidad/seguridad/moradores-hallan-cuatro-cuerpos-en-santa-elena.html "La Policía señala que cuerpos hallados serían de jóvenes desaparecidos en Puerto López")
+
+Tras el hallazgo, personal de la **Policía Nacional** se trasladó al sitio, siguiendo la alerta emitida por los habitantes del sector. Posterior a esto se encontró el cuerpo de una persona que estaba embalado en un una especie de **piscina plástica** azul que cubría todo su cuerpo excepto su rostro.
+
+> [#Guayas](https://twitter.com/hashtag/Guayas?src=hash&ref_src=twsrc%5Etfw)  
+> Un cuerpo desmembrado fue encontrado en el sector del Cerro Las Cabras en el cantón de Durán [pic.twitter.com/FwhnS9ZkVe](https://t.co/FwhnS9ZkVe)
+> 
+> — Noticias Virales (@NotiViralesEc) [September 16, 2024](https://twitter.com/NotiViralesEc/status/1835709082604323029?ref_src=twsrc%5Etfw)
+
+El lugar donde encontraron el cuerpo fue acordonado con cinta de seguridad mientras la **Policía y Medicina Legal** proceden a realizar el levantamiento de los restos. Un vehículo de Medicina Legal se encontraba estacionado en la escena, junto con varios oficiales presentes para hacer las respectivas investigaciones en el hallazgo del cuerpo.
+
+Resguardo policial en las inmediaciones
+---------------------------------------
+
+Más de **15 agentes policiales** resguardaron el área delimitada, donde algunas moradores del lugar se acercaron, manteniéndose detrás de la **cinta de seguridad**. Varias patrullas de la **Policía Nacional** estacionadas en las inmediaciones mientras los **agentes vigilan la zona.**
+
+La investigación siguió en curso más cerca del área donde se **hallaron los restos** para tratar de tomar muestras que sirvan como evidencia. El sitio fue acordonado mientras los procedimientos se llevan a cabo. Para este proceso varios agentes de la policía se e**ncargaron de vigilar que las personas no se acerquen al área donde personal forense se encontrab**a.
+
+Hasta el momento, la **Policía** no ha emitido más información sobre el caso. Se espera que en las siguientes horas se teng**a mayor información del caso**.
+
+Tadej Pogacar sumó un nuevo título previo al Mundial de Ciclismo
+================================================================
+
+El Mundial de Ciclismo está a la vuelta de la esquina y uno de los favoritos, Tadej Pogacar, no se cansa de cosechar títulos.
+-----------------------------------------------------------------------------------------------------------------------------
+
+![Tadej Pogacar ganó un nuevo título a vísperas del Mundial de Ciclismo.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-16T123115.310.jpg)
+
+**Tadej** **Pogacar**, del UAE Team Emirates, alcanzó su vigésimo segundo triunfo de la temporada 2024 el domingo 15 de septiembre, al imponerse en solitario en el Gran Premio de Montreal, una carrera del **UCI** **World** **Tour**.
+
+Con esta victoria, el esloveno envió un claro mensaje a los países que competirán en el **Mundial de Ciclismo**, donde se perfila como el gran favorito. Ecuador, por su parte, será representado por Richard **Carapaz**, quien liderará la selección.
+
+### Más noticias:
+
+* [Richard Carapaz confirma su presencia en el Mundial de Ciclismo](https://www.elcomercio.com/deportes/ciclismo/richard-carapaz-confirma-mundial-ciclismo-zurich.html "Richard Carapaz confirma su presencia en el Mundial de Ciclismo")
+* [Marcela Peñafiel promete en el Mundial de Ciclismo con Ecuador](https://www.elcomercio.com/deportes/marcela-penafiel-mundial-ciclismo-ecuador.html "Marcela Peñafiel promete en el Mundial de Ciclismo con Ecuador")
+* [La selección femenina de ciclismo de Ecuador se prepara para el Mundial](https://www.elcomercio.com/deportes/ciclismo/ecuador-seleccion-femenina-ciclismo-mundial-suiza.html "La selección femenina de ciclismo de Ecuador se prepara para el Mundial")
+
+Tadej Pogacar sumó un nuevo título
+----------------------------------
+
+Pocagar, que **ya suma 85 victorias** como profesional, regresó el viernes a la competición tras conquistar el Tour de Francia, logrando una séptima plaza en el Gran Premio de Québec.
+
+Este domingo volvió a brillar, ganando en solitario el **Gran Premio de Montreal**, donde selló su segundo triunfo en esta carrera, después de su victoria en 2022.
+
+Pogacar se impuso con 24 segundos de ventaja sobre el español Pello Bilbao, quien fue segundo, y 40 segundos sobre el pelotón principal, liderado en el sprint por el francés Julian Alaphilippe (Soudal-Quick Step).
+
+El deportista de **25 años se convierte en el segundo ciclista en ganar dos veces en Montreal**, igualando al belga Greg van Avermaet, campeón en 2016 y 2019. Además, el UAE Team Emirates celebró su triunfo número 650 como equipo y el 73 de la temporada 2024.
+
+Ecuador en el Mundial de Ciclismo
+---------------------------------
+
+**Richard** **Carapaz** será el líder de la selección ecuatoriana en el Mundial de Ciclismo, donde se perfila como la principal carta del país tricolor en la búsqueda de una victoria histórica frente a los mejores ciclistas del mundo.
+
+Además de Carapaz, el equipo ecuatoriano contará con la presencia de **Jhonatan Narváez** (INEOS Grenadiers), Jonathan Caicedo (Petrolike), Alexander Cepeda (EF Education-EasyPost) y Jefferson Cepeda (Caja Rural-Seguros RGA).
+
+La participación de Harold Martín López (Astana Qazaqstan Team) aún está pendiente de confirmación debido a conflictos de agenda, pero es la primera opción para completar el equipo. En caso de que no pueda participar, se considerará a otro ciclista.
+
+El **Campeonato Mundial de Ciclismo de Ruta** se celebra anualmente desde 1927. La primera edición tuvo lugar en Nürburg, Alemania, y la más reciente en 2023 en Glasgow, Escocia.
+
+Richard Carapaz y el sexteto ecuatoriano estarán en la pista el **29 de septiembre**.
+
+Expresidente Alberto Fernández obligó a Yáñez a abortar, declara su excuñada en Fiscalía
+========================================================================================
+
+Tamara Yáñez se presentó este lunes en los tribunales de Comodoro Py, en Buenos Aires.
+--------------------------------------------------------------------------------------
+
+![Fotografía del 13 de agosto de 2024 de la exprimera dama de Argentina Fabiola Yáñez en el interior de un vehículo tras declarar desde Madrid, de forma telemática, ante la Justicia del país suramericano por la denuncia presentada el 6 de agosto contra su expareja, el expresidente Alberto Fernández. EFE/ Daniel González](https://www.elcomercio.com/wp-content/uploads/2024/09/rss-efea2d621bf469511bb7fdd36f86bbdad1a756e4e12w.jpg)
+
+La hermana de la exprimera dama argentina Fabiola Yáñez, **Tamara Yáñez**, corroboró este lunes la versión brindada por esta acerca de que el expresidente del país, [Alberto Fernández](https://www.elcomercio.com/actualidad/mundo/alberto-fernandez-denuncia-expareja-violacion-secretos.html "https://www.elcomercio.com/actualidad/mundo/alberto-fernandez-denuncia-expareja-violacion-secretos.html") (2019-2023), la obligó a abortar en 2016, según informaron fuentes judiciales.
+
+### Más noticias
+
+* [Alberto Fernández denuncia a su expareja por violación de secretos](https://www.elcomercio.com/actualidad/mundo/alberto-fernandez-denuncia-expareja-violacion-secretos.html "Alberto Fernández denuncia a su expareja por violación de secretos")
+* [Marcela Luchetti y su rol en la vida de Alberto Fernández, el expresidente de Argentina](https://www.elcomercio.com/afull/marcela-luchetti-y-su-rol-en-la-vida-de-alberto-fernandez-el-expresidente-de-argentina.html "Marcela Luchetti y su rol en la vida de Alberto Fernández, el expresidente de Argentina")
+* [4 claves para entender la denuncia por violencia machista contra Alberto Fernández](https://www.elcomercio.com/actualidad/mundo/4-claves-para-entender-la-denuncia-por-violencia-machista-contra-alberto-fernandez.html "4 claves para entender la denuncia por violencia machista contra Alberto Fernández")
+
+Tamara Yáñez se presentó este lunes en los tribunales de **Comodoro Py, en Buenos Aires,** para ofrecer su testimonio en la investigación abierta por la Fiscalía tras la denuncia de la expareja de Fernández por presunta **violencia machista**, presentada el 6 de agosto.
+
+La hermana de la ex primera dama llegó procedente de España, donde visitó a Yáñez, quien reside en Madrid junto a su madre y al hijo de dos años que tiene con Fernández.
+
+El abogado **Mauricio D’Alessandro**, que forma parte del equipo de la querella de Fabiola Yáñez, declaró a la prensa apostada en el edificio judicial que la hermana de esta ratificó lo dicho por la exprimera dama en su testimonio ante el fiscal: que Fernández la obligó a abortar en 2016.
+
+La declaración de Tamara Yáñez es la sexta presencial que toma el fiscal a cargo del caso, Ramiro González, después de que ofrecieran su testimonio la **periodista Alicia Barrios**, conocedora del día a día de la pareja presidencial; la exsecretaria de Fernández, María Cantero; la esteticista María Florencia Aguirre; el exadministrador de la Quinta de Olivos (residencia presidencial) Daniel Rodríguez y el exmédico presidencial Federico Saavedra.
+
+Además, la ex primera dama declaró de manera telemática desde el **Consulado de Argentina en Madrid**.
+
+Aún faltan por declarar una amiga de Fabiola Yáñez, Sofía Pacchi, quien tenía que presentarse la semana pasada, pero no pudo hacerlo alegando **problemas de salud**; y la madre de la ex primera dama, Miriam Yáñez Verdugo.
+
+Yáñez, de 43 años, decidió impulsar el 6 de agosto una **denuncia contra el expresidente**, de 65, después de que la Justicia argentina, en el marco de una investigación por presunto tráfico de influencias del exmandatario, hallara en el teléfono móvil de Cantero **conversaciones e imágenes** que indicarían la posible comisión del delito de “**lesiones leves en contexto de violencia de género”** contra la expareja del político peronista.
+
+Tras la denuncia de Yáñez, el fiscal imputó a Fernández por el **posible delito de lesiones graves** doblemente agravadas por el vínculo y por darse en un contexto de violencia de género y de amenazas coactivas en perjuicio de su expareja.
+
+En su dictamen, González afirmó que Yáñez “sufrió una **relación atravesada por hostigamiento,** acoso psicológico y agresiones físicas en un contexto de **violencia de género** e intrafamiliar”. Se dio “sobre una **relación asimétrica** y desigual de poder que se desarrolló a lo largo del tiempo, la cual se vio acrecentada exponencialmente por la **elección de Fernández** como presidente”, en 2019, y “el ejercicio del cargo”, hasta diciembre pasado.
+
+El juez federal Julián Ercolini prohibió a Fernández salir de Argentina y le ordenó no acercarse ni contactar por ninguna vía a expareja.
+
+Independiente JFA reclama inclusión de Deportivo Quito en ascenso nacional
+==========================================================================
+
+Deportivo Quito y AV25 irán a la fase nacional en Segunda Categoría tras la descalificación de dos clubes, entre ellos Independiente JFA
+----------------------------------------------------------------------------------------------------------------------------------------
+
+![Jugador del Deportivo Quito durante uno de sus partidos en Segunda Categoría.](https://www.elcomercio.com/wp-content/uploads/2024/09/1000125336.jpg)
+
+**Deportivo Quito y AV25** ingresaron a último minuto a la fase de ascenso nacional en la Segunda Categoría tras la salida de dos clasificados. **Independiente JFA**, uno de los equipos descalificados, señaló su malestar debido a la decisión.
+
+La mañana de este lunes 16 de septiembre del 2024, el equipo se pronunció por medio de un comunicado oficial en sus redes sociales. Antes se había dado a conocer, de manera oficial, que los otros dos clubes reemplazarían a la escuadra negriazul y a **Patrón Mejía.**
+
+### Más noticias:
+
+* [Deportivo Quito jugará el torneo de ascenso a la Serie B](https://www.elcomercio.com/deportes/futbol/deportivo-quito-jugara-el-torneo-de-ascenso-a-la-serie-b.html "Deportivo Quito jugará el torneo de ascenso a la Serie B")
+* [Patrón Mejía confirma documentación y Deportivo Quito espera](https://www.elcomercio.com/deportes/futbol/deportivo-quito-ascenso-patron-mejia-documentacion.html "Patrón Mejía confirma documentación y Deportivo Quito espera")
+* [Deportivo Quito mantiene la esperanza de jugar el ascenso a la Serie B](https://www.elcomercio.com/deportes/futbol/deportivo-quito-ascenso-serieb-jose-pardo.html "Deportivo Quito mantiene la esperanza de jugar el ascenso a la Serie B")
+
+Las razones por las cuales **Independiente JFA y Patrón Mejía** perdieron su cupo para disputar el ascenso hacia la Serie B fueron inconvenientes con su documentación. La Federación Ecuatoriana de Fútbol (FEF) y AFNA no recibieron los papeles necesarios en los tiempos establecidos[.](https://es.wikipedia.org/wiki/Segunda_Categor%C3%ADa_de_Pichincha_2024 "https://es.wikipedia.org/wiki/Segunda_Categor%C3%ADa_de_Pichincha_2024")
+
+Debido a tales inconvenientes, no solo quedaron fuera las dos escuadras mencionadas, sino que también se había ampliado el número de cupos para Pichincha, de cuatro a seis, por casos similares en otras provincias. En función de ello, **Deportivo Quito y AV25** tendrán una nueva oportunidad a pesar de no haber estado en el hexagonal final provincial, como sí lo hicieron Independiente y Patrón Mejía.
+
+¿Qué dijo Independiente JFA sobre Patrón Mejía y Deportivo Quito?
+-----------------------------------------------------------------
+
+En virtud de su salida de la fase nacional de Segunda Categoría**, Independiente JFA** señaló que sí cumplió con los pedidos dentro de los plazos necesarios. A su vez, sostuvo que los dos nuevos clubes que estarán incluidos -Deportivo Quito y Patrón Mejía no cumplieron con los méritos necesarios para estar.
+
+“Indignación es la primera palabra que tenemos con la decisión tomada con nuestro Club Profesional Independiente JFA al dejarnos fuera de los ‘play-offs’ (…) **De forma antideportiva ingresan dos equipos que en la cancha no pudieron sumar resultados para primeros estar en el sextangular y, por ende, en los ‘play-offs’ nacionales**“, expresó el elenco.
+
+La escuadra sostuvo que existe **inconformidad** en sus jugadores, cuerpo técnico y dirigentes. A su vez, señalaron que su primer año en el fútbol profesional no fue el pensado, pero retornarán.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/C_-2Yt2ODGH/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de CLUB INDEPENDIENTE JFA (@club\_independiente\_jfa)](https://www.instagram.com/p/C_-2Yt2ODGH/?utm_source=ig_embed&utm_campaign=loading)
+
+¿Qué pasó en el hexagonal de la Segunda Categoría de Pichincha?
+---------------------------------------------------------------
+
+En del hexagonal de la Segunda Categoría de Pichincha se presentaron seis clubes**: Deportivo Meridiano, Vinotinto, Miguel Iturralde, Aampetra, Patrón Mejía e Independiente JFA**. Estos dos últimos terminaron en las posiciones finales, pero tuvieron una nueva chance debido al cambio de cupos.
+
+Ante la imposibilidad de resolver las solicitudes de los organismos del fútbol nacional y provincial, los cupos correspondientes se les otorgaron a los mejores no clasificados de las fases previas. En la llave inicial se establecieron tres grupos y los dos mejores terceros fueron **Deportivo Quito y AV25**, por lo que siguen en competencia.
+
+Jefa de la campaña de Kamala Harris advierte sobre la retórica de Donald Trump 
+===============================================================================
+
+Chávez Rodríguez lamentó que las declaraciones de Trump estén causando estragos en Springfield.
+-----------------------------------------------------------------------------------------------
+
+![Julie Chávez Rodríguez, jefa de campaña de la vicepresidenta estadounidense y candidata demócrata.](https://www.elcomercio.com/wp-content/uploads/2024/09/julie-chavez-rodriguez.jpg)
+
+**Julie Chávez Rodríguez**, jefa de campaña de la vicepresidenta estadounidense y candidata demócrata, Kamala Harris, advierte que la “**retórica divisiva y peligrosa**” de Trump está teniendo “consecuencias reales” en Estados Unidos.
+
+### Más noticias
+
+* [Kamala Harris y Donald Trump son respaldados por varias celebridades](https://www.elcomercio.com/actualidad/mundo/kamala-harris-donald-trump-son-respaldados-varias-celebridades.html "Kamala Harris y Donald Trump son respaldados por varias celebridades")
+* [Kamala Harris aventaja a Donald Trump entre latinos](https://www.elcomercio.com/actualidad/mundo/kamala-harris-aventaja-a-donald-trump-entre-latinos.html "Kamala Harris aventaja a Donald Trump entre latinos")
+* [Campaña de Kamala Harris lanza un anuncio en español para atraer a latinos](https://www.elcomercio.com/actualidad/mundo/campana-kamala-harris-lanza-anuncio-espanol-para-atraer-latinos.html "Campaña de Kamala Harris lanza un anuncio en español para atraer a latinos")
+
+Ejemplo de ello es Springfield (Ohio), donde ocurrieron las amenazas de bomba con desalojo de escuelas y edificios gubernamentales. Esto después de que Trump dijera de manera falsa que los migrantes haitianos de esa localidad se estaban **comiendo a los “perros” y “gatos”** de los vecinos.
+
+“Este es el mismo tipo de **retórica divisiva y peligrosa** que escuchamos de Trump desde el primer día. Y no son solo palabras. Sabemos que esta retórica tiene consecuencias reales”, se lamentó Chávez Rodríguez, la primera latina en liderar una campaña presidencial en Estados Unidos.
+
+Para ella, el discurso de Trump tiene un **impacto profundamente personal.** Por sus venas corre la sangre de César Chávez (1927-1993), estadounidense de origen mexicano que hace seis décadas encabezó un movimiento para defender los derechos de los trabajadores del campo y se hizo popular con el grito de “¡Sí se puede!”.
+
+Declaraciones de Donald Trump
+-----------------------------
+
+Chávez Rodríguez lamentó que las **declaraciones de Trump** estén causando estragos en Springfield, que en los últimos años ha recibido a inmigrantes haitianos que “**trabajan duro** y contribuyen a revitalizar su economía”, pero ahora ven cómo sus **vidas se interrumpen** por amenazas de bomba.
+
+“Lo que dice no son solo palabras. Tiene **consecuencias reales** y es peligroso para nuestras comunidades y para nuestro país. Por eso, en la campaña vamos a seguir recordando a los votantes que esto no son solo cosas que él dice, sino que **tienen un impacto real**. Sirven para demonizar y crear violencia política en muchas de nuestras comunidades”, afirmó.
+
+La jefa de campaña, no obstante, engloba este último episodio en un patrón de comportamiento de Trump y señala que el expresidente usa este tipo de comentarios en el pasado para provocar división en Estados Unidos.
+
+Por ejemplo, recordó cómo Trump lanzó su campaña de 2016 asegurando que México estaba enviando a EE.UU. a **“violadores” y “asesinos”**. Hace unos meses dijo que los migrantes que llegan al país están “envenenando la sangre”, una frase que usó Adolf Hitler en ‘Mein Kampf’ (“Mi lucha”) para criticar la mezcla de razas.
+
+“Hemos visto esto de Trump una y otra vez. Ha demonizado y, realmente, despreciado a la comunidad inmigrante y latina”, afirmó.
+
+Una de las consecuencias de esa retórica, recordó Chávez Rodríguez, fue el tiroteo ocurrido en agosto de 2019. El atacante se dirigió a un **Walmart de El Paso (Texas)** frecuentado por la comunidad latina. Tras el ataque, publicó un manifiesto en el que mencionaba frases usadas por Trump, como “invasión” de migrantes.
+
+Ese ataque, en el que **murieron 23 personas y 22 resultaron heridas,** está considerado como el atentado más mortífero contra latinos en la historia moderna de Estados Unidos.
+
+El Southern Poverty Law Center, que monitorea grupos y lenguaje de odio en EE.UU., afirma que los **grupos antinmigrantes** son los más extremos de los cientos de grupos nacionalistas blancos que han proliferado desde finales de los años 90, cuando la xenofobia antinmigrante comenzó a alcanzar niveles no vistos desde la década de 1920.
+
+Solo en 2023, según sus datos, **la cifra de grupos contra los migrantes pasó de 1 a 18.** 
+
+Barcelona SC retoma el rumbo en Liga Pro, ¿cuándo será su próximo partido?
+==========================================================================
+
+Un tropezón no es caída, y así lo demostró Barcelona SC, que se levantó de su dura derrota ante Liga de Quito.
+--------------------------------------------------------------------------------------------------------------
+
+![Octavio Rivero celebrando un gol con Barcelona SC en la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-16T120103.936.jpg)
+
+**Barcelona SC** llegó muy golpeado a la sexta fecha de la Liga Pro, tras sufrir una contundente goleada contra Liga de Quito, que lo dejó mal parado en todos los aspectos del juego.
+
+Sin embargo, en la nueva jornada, el ‘Ídolo’ no se dejó vencer moralmente y **consiguió una victoria crucial** para retomar el rumbo en la **Liga** **Pro**, volviendo a meterse en la pelea por la segunda etapa.
+
+### Más noticias:
+
+* [Liga de Quito perdió el invicto, pero se mantiene como líder](https://www.elcomercio.com/deportes/futbol/liga-de-quito-perdio-el-invicto-pero-se-mantiene-como-lider.html "Liga de Quito perdió el invicto, pero se mantiene como líder")
+* [Barcelona SC gana al Macará y vuelve a la pelea por la etapa](https://www.elcomercio.com/deportes/futbol/barcelonasc-macara-resultado-ligapro-tabla-posiciones.html "Barcelona SC gana al Macará y vuelve a la pelea por la etapa")
+* [Damián Díaz felicitó y agradeció a la hinchada de Barcelona SC](https://www.elcomercio.com/deportes/futbol/damian-diaz-felicito-y-agradecio-a-la-hinchada-de-barcelona-sc.html "Damián Díaz felicitó y agradeció a la hinchada de Barcelona SC")
+
+Los canarios **derrotaron 2-1 a un aguerrido Macará** en el Estadio Monumental de Guayaquil, con Octavio Rivero como la gran figura del partido.
+
+Barcelona se recupera en la Liga Pro
+------------------------------------
+
+Después de la dolorosa derrota que sufrió el ‘Ídolo del Astillero’ ante Liga de Quito en el Estadio Rodrigo Paz Delgado, el conjunto dirigido por **Ariel Holan** estaba obligado a ganar, tanto para mantenerse en la lucha por los cupos a la Copa Libertadores como para presionar a los albos en la punta de la Liga Pro.
+
+Para fortuna de Holan y de los aficionados toreros, el equipo consiguió una importante victoria ante **Macará**, sumando tres puntos vitales.
+
+La gran figura del compromiso fue **Octavio Rivero**, delantero de Barcelona SC, quien anotó un doblete para sellar el triunfo 2-1. Con sus dos goles, el atacante uruguayo alcanzó su sexta anotación en seis partidos de la Liga Pro.
+
+Desde su llegada al ‘Ídolo’, **Rivero acumula seis goles** en poco más de 800 minutos, con un promedio de un gol cada 133 minutos.
+
+Con esta victoria, **Barcelona SC alcanzó los 12 puntos** y se ubicó en la cuarta posición de la tabla.
+
+Liga de Quito sigue liderando la clasificación con 15 puntos, seguido por Orense con 13, e Independiente del Valle también con 12.
+
+¿Cuándo juega Barcelona SC?
+---------------------------
+
+**Barcelona SC** visitará a Deportivo Cuenca en la séptima jornada de la segunda etapa de la Liga Pro Serie A.
+
+El encuentro se disputará el sábado 21 de septiembre, a las 19:00, en el **Estadio Alejandro Serrano Aguilar.**
+
+Este compromiso será una dura prueba para Barcelona SC, ya que los morlacos están urgidos de sumar puntos, con apenas una unidad en la segunda etapa, y corren peligro de **descender** en la tabla acumulada.
+
+Migrantes perciben un paso más ordenado en la frontera México-EEUU
+==================================================================
+
+Migrantes que buscan asilo en Estados Unidos perciben una forma de entrar más ordenada en la frontera norte de México tras las nuevas medidas de la Oficina de Aduanas y Protección Fronteriza y su aplicación ‘CBP One’, según se evidencia en el cruce de Ciudad Juárez a El Paso. Más noticias Los migrantes que llegan \[…\]
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Fotografía del 13 de septiembre de 2024 de migrantes haciendo fila en el Puente Internacional Paso del Norte, en Ciudad Juárez (México). EFE/ Luis Torres.](https://www.elcomercio.com/wp-content/uploads/2024/09/rss-efe24f26cc3d436494935bb804f3454dfee19485269w.jpg)
+
+**Migrantes** que buscan asilo en **Estados Unidos** perciben una forma de entrar más ordenada en la frontera norte de México tras las nuevas medidas de la Oficina de Aduanas y Protección Fronteriza y su aplicación ‘CBP One’, según se evidencia en el cruce de **Ciudad Juárez a El Paso**[.](https://es.wikipedia.org/wiki/Frontera_entre_Estados_Unidos_y_M%C3%A9xico "https://es.wikipedia.org/wiki/Frontera_entre_Estados_Unidos_y_M%C3%A9xico")
+
+### Más noticias
+
+* [Migrantes pueden tramitar en México su asilo para EE.UU.](https://www.elcomercio.com/actualidad/mundo/migrantes-pueden-tramitar-mexico-asilo-ee-uu.html "Migrantes pueden tramitar en México su asilo para EE.UU.")
+* [Plan de deportación de Trump comenzaría con un millón de inmigrantes, dice J.D. Vance](https://www.elcomercio.com/actualidad/mundo/plan-de-deportacion-de-trump-comenzaria-con-un-millon-de-inmigrantes-dice-j-d-vance.html "Plan de deportación de Trump comenzaría con un millón de inmigrantes, dice J.D. Vance")
+
+Los migrantes que llegan a la frontera de México y Estados Unidos
+-----------------------------------------------------------------
+
+El flujo migratorio, este lunes 16 de septiembre de 2024, que en semanas anteriores había provocado una **fuerte presencia de seguridad** y congestionamientos en la zona, ahora está guiado por agentes fronterizos para realizar los trámites correspondientes en el Puente Internacional Santa Fe.
+
+![Fotografía del 13 de septiembre de 2024 de migrantes haciendo fila en el Puente Internacional Paso del Norte, en Ciudad Juárez (México). EFE/ Luis Torres.
+](https://www.elcomercio.com/wp-content/uploads/2024/09/rss-efe1969af535e1090372918b53948af83b8c508efb8w-1200x800.jpg)
+
+Esto ha traído **esperanza a solicitantes** de asilo como el venezolano Juan Reyes, quien llevaba casi todo el año varado en Ciudad Juárez, el epicentro de la crisis migratoria en el límite norte de México.
+
+“Fue un **proceso bastante largo**, ya que nosotros estuvimos acá ocho meses esperando. La fe, la perseverancia, el sistema en el que nos salieron las citas, bueno, al fin Dios nos bendijo y nos salió nuestra cita y aquí estamos tan cerca y tan lejos de lo que soñamos”, comentó Reyes a EFE.
+
+La CBP dispuso el 23 de agosto que los **migrantes** ahora pueden gestionar su cita para solicitar asilo en Chiapas y Tabasco, estados de la frontera sur de México.
+
+Nueva regla
+-----------
+
+La nueva regla, anunciada unos meses antes de que sean las elecciones presidenciales en Estados Unidos, busca que los migrantes no saturen la **frontera común con México**, donde la detención diaria de indocumentados ha caído más del 70 % desde diciembre, según datos de la Cancillería mexicana.
+
+La venezolana Jofrany aseveró que **tuvo paciencia**, pero con la cita de la aplicación ‘CBP One’ puede entrar “un poco más seguro”.
+
+“No tenemos que exponernos **ni al tren, ni al desierto**, ni nada por el estilo, no necesitamos entregarnos y siempre con paciencia, porque si tienes paciencia, esperas tu cita, puedes lograrlo, así como estamos nosotros en mi **grupo**”, comentó desde el cruce fronterizo.
+
+![Fotografía del 13 de septiembre de 2024 de migrantes haciendo fila en el Puente Internacional Paso del Norte, en Ciudad Juárez (México). EFE/ Luis Torres.
+](https://www.elcomercio.com/wp-content/uploads/2024/09/rss-efe74d7860ddadbbc906c246d984139b93ad09d1db9w-1200x799.jpg)
+
+El **Puente Internacional Santa Fe** ha sido uno de los puntos clave en la frontera entre México y Estados Unidos para el cruce de personas en busca de mejores oportunidades, en medio de la creciente crisis migratoria que afecta a la región, por lo que el pastor Francisco González Palacios espera un alivio.
+
+“El Gobierno menciona que van a buscar la manera de cómo, en cuestiones laborales, pueda **haber un orden** y pueda haber una manera más segura de poder ellos moverse por el país de México para poder llegar con ellos a, en este caso, a Estados Unidos”, afirmó el religioso, quien representa a la red de albergues Somos Uno por Juárez y también dirige el albergue Vida.
+
+Operativos especiales
+---------------------
+
+Las autoridades de ambos países han desplegado **operativos especiales** para asegurar que el tránsito se realice de forma controlada, con la presencia de agentes de la Patrulla Fronteriza y del Instituto Nacional de Migración de México (INM).
+
+Los oficiales guían a los migrantes a través de los **diferentes puntos de control** para que completen los trámites migratorios requeridos.
+
+En su mayoría, los migrantes están presentando **solicitudes de asilo**, y se ha observado que entre ellos hay familias con niños pequeños.
+
+Migrantes y activistas piden atender la corrupción y violencia en frontera sur de México
+========================================================================================
+
+Las autoridades "están entreteniendo" a los migrantes "hasta que otra vez se desesperen y otra vez (queden) a la merced de la delincuencia y autoridades”.
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Migrantes caminan en espera de resolver su situación migratoria este lunes, en la ciudad de Tapachula, en el estado de Chiapas (México). EFE/Juan Manuel Blanco](https://www.elcomercio.com/wp-content/uploads/2024/09/rss-efeaad96f017c2b6d82eb2e0c718658a6ac9f014baew.jpg)
+
+**Activistas** y **migrantes** pidieron este lunes 16 de septiembre de 2024 atender la **corrupción** y la **violencia** del crimen organizado que, afirman, se agudizó en **meses recientes** en la frontera sur de México, donde acusan al Gobierno del presidente [Andrés Manuel López Obrador](https://www.elcomercio.com/actualidad/amlo-persiste-en-defender-jorge-glas-este-6-agosto.html "https://www.elcomercio.com/actualidad/amlo-persiste-en-defender-jorge-glas-este-6-agosto.html") de ignorar el problema.
+
+### Más noticias
+
+* [AMLO insiste en asilo a Jorge Glas, este 6 de agosto](https://www.elcomercio.com/actualidad/amlo-persiste-en-defender-jorge-glas-este-6-agosto.html "https://www.elcomercio.com/actualidad/amlo-persiste-en-defender-jorge-glas-este-6-agosto.html")
+* [Claudia Sheinbaum, primera presidenta de México](https://www.elcomercio.com/actualidad/mundo/con-el-238-del-voto-escrutado-sheinbaum-lidera-las-elecciones-de-mexico.html "https://www.elcomercio.com/actualidad/mundo/con-el-238-del-voto-escrutado-sheinbaum-lidera-las-elecciones-de-mexico.html")
+* [Cinco claves para entender qué está en juego en las elecciones de México](https://www.elcomercio.com/actualidad/politica/cinco-claves-para-entender-que-esta-en-juego-en-las-elecciones-de-mexico.html "https://www.elcomercio.com/actualidad/politica/cinco-claves-para-entender-que-esta-en-juego-en-las-elecciones-de-mexico.html")
+
+![Fotografía de personas esperando resolver su situación migratoria este lunes, en la ciudad de Tapachula, en el estado de Chiapas (México). EFE/Juan Manuel Blanco
+](https://www.elcomercio.com/wp-content/uploads/2024/09/rss-efee3922527cef3cbc5d2d24aa5f397deb7600575dbw-1200x800.jpg)
+
+José Gildardo Galdámez Peregrino, presidente del Colegio de Abogados de Migración y Derechos Humanos de México, expusoque las sospechas de corrupción se agudizaron desde el 23 de agosto, cuando **Estados Unidos** permitió a los migrantes gestionar su cita de asilo aunque estén en Chiapas y Tabasco, en el límite sur de México.
+
+![Fotografía de personas esperando resolver su situación migratoria este lunes, en la ciudad de Tapachula, estado de Chiapas (México). . EFE/Juan Manuel Blanco
+](https://www.elcomercio.com/wp-content/uploads/2024/09/rss-efeceef0179e07587e3fcae0ba498efdac3d5b83742w-1200x758.jpg)
+
+El analista aseveró que la medida de la **Oficina de Aduanas y Protección Fronteriza estadounidense** (CBP, en inglés) busca impedir que los migrantes avancen hacia la frontera de México con Estados Unidos y deja más vulnerables a los indocumentados a los fraudes de la delincuencia organizada.
+
+“Lo que hemos detectado que es una trampa, no van a salir las citas, antes tardaban 35 días en salir, desde el pasado 23 de agosto que se activó la (aplicación) ‘CBP One’ (…) pensamos que no (van a obtenerlas) es una trampa”, comentó.
+
+Aseveró que las autoridades “están entreteniendo” a los migrantes “hasta que otra vez se desesperen y otra vez (queden) a la merced de la delincuencia y de las autoridades”.
+
+Los migrantes también afrontan los **riesgos por las crecientes disputas** de los carteles del narcotráfico, que han dejado a 300 familias mexicanas desplazadas en Guatemala, según reconoció la semana pasada López Obrador.
+
+Carlos Manuel Sanabria, migrante de Honduras, contó que durante el **tránsito por México** pasan “cosas difíciles”, como **asaltos, secuestros y robos** y que el crimen organizado mantiene a los indocumentados encerrados tras cruzar el río Suchiate que divide a México de Guatemala.
+
+“Sufren (los migrantes), aguantan hambre, caminan horas todo el día, corrupción, pandillas, de todo pasa uno, son cosas horribles al llegar a México, al entrar de Guatemala al río, uno pasa situaciones, hambre”, lamentó.
+
+Por otro lado, el director de la organización Pueblos Sin Fronteras, Irineo Mujica, cuestionó el anuncio del Instituto Nacional de Migración (INM), que el 31 de agosto prometió trasladar a los migrantes con una cita de ‘CPB One’ a la frontera norte de México.
+
+Insistió en que el anuncio de Estados Unidos es una medida para contener la migración en la frontera sur de México mientras pasan las elecciones presidenciales.
+
+“Van a incentivar la migración, va a llegar mucha más migración, en sí está llegando más por la desestabilización en Venezuela, he tenido reportes de que en el Darién hay miles y miles de personas tratando de salir de Venezuela”, dijo.
+
+Aunque han caído las **detenciones en la frontera** con Estados Unidos, la migración irregular a través de México se elevó un 193 % interanual en la primera mitad del año hasta superar las 712 000, según la **Unidad de Política Migratoria del Gobierno.**
+
+Inscripción de candidatos a elecciones 2025 es en línea, ¿por qué van al CNE?
+=============================================================================
+
+El CNE dijo que la inscripción será únicamente en línea. Si los partidos y movimientos políticos piden acudir a la institución, no se les negará el acceso.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![El CNE avanza con las actividades del calendario para las elecciones 2025.](https://www.elcomercio.com/wp-content/uploads/2024/09/elecciones-inscripciones-en-linea.jpg)
+
+Luego de tres días del inicio de inscripciones de candidaturas para las **elecciones 2025** en Ecuador, el **[Consejo Nacional Electoral (CNE)](https://www.cne.gob.ec/)** dio un reporte del proceso, este lunes 16 de septiembre del 2024.
+
+La inscripción de los candidatos se extenderá hasta las **18:00 del miércoles 2 de octubre**. Hasta el momento, hay 16 binomios que aspiran a llegar a la Presidencia y Vicepresidencia.
+
+Las **elecciones 2025** se desarrollarán el 9 de febrero. Las candidaturas en firme, tras el proceso de impugnaciones, se sabrán el 30 de diciembre de 2024.
+
+### Más noticias
+
+* [La inscripción para elecciones 2025 empieza con incumplimientos](https://www.elcomercio.com/actualidad/politica/inscripcion-elecciones-2025-impedimentos-brechas.html)
+* [CNE aprobó la convocatoria para las elecciones 2025](https://www.elcomercio.com/actualidad/politica/cne-aprobo-convocatoria-elecciones-2025.html "CNE aprobó la convocatoria para las elecciones 2025")
+* [¿Cuándo estarán en firme las candidaturas para las elecciones de 2025?](https://www.elcomercio.com/actualidad/politica/cuando-estaran-en-firme-las-candidaturas-para-elecciones-2025.html "¿Cuándo estarán en firme las candidaturas para las elecciones de 2025?")
+* [CNE estableció las reglas para el exit poll en las elecciones generales 2025](https://www.elcomercio.com/actualidad/politica/cne-reglamento-exit-poll-elecciones-generales-2025.html "CNE estableció las reglas para el exit poll en las elecciones generales 2025")
+
+> IMPORTANTE 🇪🇨  
+>   
+> 📌 Las listas de candidaturas que participen en las [#Elecciones2025Ec](https://twitter.com/hashtag/Elecciones2025Ec?src=hash&ref_src=twsrc%5Etfw), deben provenir de procesos de democracia interna y cumplir con los principios de:  
+>   
+> ✅ paridad  
+> ✅ alternabilidad  
+> ✅ secuencialidad  
+> ✅ inclusión  
+>   
+> 💻 La [#InscripciónCandidaturasEc](https://twitter.com/hashtag/Inscripci%C3%B3nCandidaturasEc?src=hash&ref_src=twsrc%5Etfw) se realizará… [pic.twitter.com/tliCgLGPqf](https://t.co/tliCgLGPqf)
+> 
+> — cnegobec (@cnegobec) [September 16, 2024](https://twitter.com/cnegobec/status/1835677804081377332?ref_src=twsrc%5Etfw)
+
+Los candidatos que van al CNE no hacen ningún trámite
+-----------------------------------------------------
+
+El **CNE** reiteró que la inscripción será únicamente en línea. Aunque, si los partidos y movimientos políticos piden acudir a la institución, no se les negará el acceso.
+
+No obstante, quienes acuden a la sede del organismo electoral, en Quito, no realizan ningún trámite. Se trata, básicamente, de una inscripción simbólica o una forma de difusión de la candidatura.
+
+Ese fue el caso de Pedro Granja, postulante por el **Partido Socialista Ecuatoriano**, quien acudió al **CNE** este 16 de septiembre.
+
+Los candidatos solo deben notificar al **CNE** que van a acudir a las instalaciones y se permite el ingreso.
+
+**17 organizaciones** cuentan con el aval para presentar binomios presidenciales y asambleístas nacionales. Para las elecciones 2025, hay **13 736 314 electores habilitados** para ejercer el derecho al voto.
+
+Las candidaturas están en proceso, ni un solo inscrito
+------------------------------------------------------
+
+Hasta las 11:11, el **CNE** informó que no había ninguna candidatura registrada. Esto incluye binomios presidenciales, aspirantes a la **Asamblea Nacional y al Parlamento Andino**.
+
+Entre los elementos básicos que deben cumplir los partidos y movimientos políticos para inscribir las candidaturas están: **paridad, inclusión, alternancia y** secuencialidad.
+
+Los candidatos para la **Presidencia y Vicepresidencia** deben haber cumplido 35 años, al momento de inscribir la candidatura. A su vez, deben estar en goce de los **derechos políticos**.
+
+En el caso de asambleístas y parlamentarios andinos, la edad mínima es de 18 años.
+
+También debe cumplirse con la alternancia e inclusión del **25% de jóvenes** para la conformación de las listas de candidatos. Del mismo modo, se establece que **50% de listas deben encabezar mujeres**.
+
+¿Quiénes no pueden ser inscritos?
+---------------------------------
+
+El reglamento para la inscripción y calificación de candidaturas establece las **inhabilidades generales** para ser candidatos.
+
+En el grupo de quienes no pueden inscribirse están las personas que tengan contratos con el **Estado**, como personas naturales o como representantes o apoderados de personas jurídicas.
+
+Eso siempre que el proceso se haya celebrado para la ejecución de obra pública, prestación de servicio o explotación de **recursos naturales**.
+
+Del mismo, no pueden oficializar una candidatura quienes hayan recibido sentencia condenatoria ejecutoriada por delitos de peculado, enriquecimiento ilícito, concusión, cohecho, tráfico de influencias, oferta de realizar tráfico de **influencias y testaferrismo**.
+
+Se suman el lavado de activos, asociación ilícita y delincuencia organizada relacionados con actos de corrupción. Tampoco los deudores de **pensiones alimenticias**.
+
+(Video) Shakira enfrentó un incómodo momento en club de Miami 
+==============================================================
+
+Shakira tuvo que parar el baile de su nuevo sencillo Solteta debido a un seguidor que hizo que se molestara.
+------------------------------------------------------------------------------------------------------------
+
+![Shakira sorprendió en un club de Miami al bailar su nueva canción Soltera. Foto: esdeargentino.com.](https://www.elcomercio.com/wp-content/uploads/2024/09/shakira-molesta.jpg)
+
+**Shakira** vivió un **momento incómodo** en un club nocturno de Miami cuando un seguidor la grabó inapropiadamente **mientras bailaba su nuevo sencillo, Soltera**. La cantante colombiana, conocida por su energía y carisma en el escenario, se encontraba en medio de u**na noche de farra con amigas** cuando ocurrió el incidente. 
+
+### Más noticias
+
+* [Se acerca el cumpleaños de Batman](https://www.elcomercio.com/tendencias/cultura/batman-cumpleanos-85-batmanday.html "https://www.elcomercio.com/tendencias/cultura/batman-cumpleanos-85-batmanday.html")
+* [Día Mundial de la Arepa, historia, tipos y recetas](https://www.elcomercio.com/tendencias/gastronomia/dia-mundial-arepa-gastronomia-efemeride.html "https://www.elcomercio.com/tendencias/gastronomia/dia-mundial-arepa-gastronomia-efemeride.html") 
+
+**La noche en Miami** 
+----------------------
+
+El pasado sábado, 14 de septiembre de 2024, **Shakira apareció en un club de Miami** para grabar imágenes para su próximo videoclip. La cantante estaba acompañada de otras celebridades como **Anitta, Danna Paola y Lele Pons**. La barranquillera se subió a una tarima para **bailar al ritmo de su nueva canción, Soltera**, según recoge [El Tiempo](https://www.eltiempo.com/cultura/gente/shakira-se-bajo-de-tarima-en-miami-luego-de-que-un-hombre-intentara-grabar-bajo-su-vestido-en-la-presentacion-de-su-cancion-soltera-3381365 "https://www.eltiempo.com/cultura/gente/shakira-se-bajo-de-tarima-en-miami-luego-de-que-un-hombre-intentara-grabar-bajo-su-vestido-en-la-presentacion-de-su-cancion-soltera-3381365"). 
+
+**El incidente que molestó a Shakira** 
+---------------------------------------
+
+Mientras Shakira bailaba, **un seguidor intentó grabar bajo su vestido.** La cantante **fue alertada por Danna Paola**, quien notó la acción del hombre. Shakira, visiblemente molesta, **le pidió al hombre que dejara de grabar**. Sin embargo, el individuo continuó con su comportamiento inapropiado, lo que llevó a **Shakira a bajarse de la tarima**, escoltada por sus amigas, a decir de [La Voz](https://www.lavoz.com.ar/espectaculos/musica/el-incomodo-momento-que-vivio-shakira-con-un-fan-que-quiso-filmarla-debajo-del-vestido/ "https://www.lavoz.com.ar/espectaculos/musica/el-incomodo-momento-que-vivio-shakira-con-un-fan-que-quiso-filmarla-debajo-del-vestido/"). 
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/C__FdCWqMAx/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/C__FdCWqMAx/?utm_source=ig_embed&utm_campaign=loading)
+
+**La respuesta de Shakira** 
+----------------------------
+
+**El incidente se viralizó rápidamente en redes sociales.** Los seguidores de Shakira expresaron su apoyo y condenaron el comportamiento del hombre. **La situación generó un debate** sobre la seguridad y el respeto hacia las celebridades en eventos públicos. 
+
+**Shakira no ha emitido un comunicado oficial sobre el incidente**, pero fuentes cercanas a la cantante aseguran que está tomando **medidas para garantizar su seguridad en futuros eventos**. La artista, conocida por su **activismo en temas de derechos humanos**, podría utilizar esta experiencia para abogar por un mayor respeto y protección hacia las mujeres en espacios públicos, de acuerdo con [Infobae](https://www.infobae.com/colombia/2024/09/16/shakira-vivio-incomodo-momento-cuando-seguidor-trato-de-grabar-bajo-su-vestido/ "https://www.infobae.com/colombia/2024/09/16/shakira-vivio-incomodo-momento-cuando-seguidor-trato-de-grabar-bajo-su-vestido/"). 
+
+**La importancia de la seguridad** 
+-----------------------------------
+
+Este incidente **pone de manifiesto la importancia de la seguridad en eventos públicos**, especialmente para figuras como Shakira. La cantante, conocida por éxitos como las **sesiones con Bizarrap,** ha sido un ícono de la música y la cultura latina durante décadas, y **su seguridad debe ser una prioridad** para los organizadores de eventos y sus equipos de seguridad. 
+
+Kamala Harris y Donald Trump son respaldados por varias celebridades
+====================================================================
+
+Taylor Swift dijo que va a votar a Kamala Harris en las próximas elecciones presidenciales.
+-------------------------------------------------------------------------------------------
+
+![La cantante estadounidense Taylor Swift apoya a Kamala Harris.](https://www.elcomercio.com/wp-content/uploads/2024/09/taylor-swift-efe-harris.jpg)
+
+[Kamala Harris](https://www.elcomercio.com/actualidad/mundo/kamala-harris-aventaja-a-donald-trump-entre-latinos.html "https://www.elcomercio.com/actualidad/mundo/kamala-harris-aventaja-a-donald-trump-entre-latinos.html") y **Donald Trump** son respaldados por varias celebridades antes de las elecciones de noviembre de 2024.
 
 Más noticias
 ------------
 
-* [Los Premios Emmy 2024: Esta es la lista de nominados](https://www.elcomercio.com/tendencias/los-premios-emmy-2024-esta-es-la-lista-de-nominados.html "Los Premios Emmy 2024: Esta es la lista de nominados")
-* [Imagen-‘Shogun’, ‘Baby Reindeer’ y ‘The Bear’ empatan con 4 premios en la 76 edición de los Emmy](https://www.elcomercio.com/wp-content/uploads/2024/09/rss-efe823ba32adcd4af9427571bd71edf713852662b56w.jpg "Imagen-‘Shogun’, ‘Baby Reindeer’ y ‘The Bear’ empatan con 4 premios en la 76 edición de los Emmy")
+* [Donald Trump se salva de un segundo atentado en su contra](https://www.elcomercio.com/actualidad/mundo/donald-trump-se-salva-de-un-segundo-atentado-en-su-contra.html "Donald Trump se salva de un segundo atentado en su contra")
+* [Donald Trump asegura que su plan de deportación comenzará en Springfield](https://www.elcomercio.com/actualidad/donald-trump-asegura-plan-deportacion-comenzara-springfield.html "Donald Trump asegura que su plan de deportación comenzará en Springfield ")
+* [Kamala Harris y su estrategia para ganar el debate a Donald Trump](https://www.elcomercio.com/actualidad/mundo/kamala-harris-y-su-estrategia-para-ganar-el-debate-a-donald-trump.html "Kamala Harris y su estrategia para ganar el debate a Donald Trump")
 
-La ceremonia, conducida por Dan y Eugene Levy, padre e hijo, destacó lo mejor de la televisión estadounidense durante el último año.
+Las celebridades ocuparon un lugar destacado en las convenciones nacionales de ambos partidos durante este año, según el portal Axios.
 
-Los ganadores de los Emmy 2024 son:
+Famosos que apoyan a Kamala Harris
+----------------------------------
+
+Taylor Swift
+------------
+
+La famosa cantante [Taylor Swift](https://www.elcomercio.com/tendencias/taylor-swift-kamala-harris-donald-trump-elecciones.html "https://www.elcomercio.com/tendencias/taylor-swift-kamala-harris-donald-trump-elecciones.html") dijo que va a votar a Kamala Harris en las próximas elecciones presidenciales. “Votaré por Kamala Harris y Tim Walz en las elecciones presidenciales de 2024”, declaró en una publicación en Instagram solo minutos después de que finalizara el debate entre Harris y el exmandatario y candidato republicano, Donald Trump.
+
+En su cuenta de Instagram, donde tiene 283 millones de seguidores, Swift posó con una foto de su gato Benjamin y firmó su publicación como “señora soltera con gatos”, una referencia al compañero de fórmula de Trump, J.D. Vance, quien criticó a Harris y a las mujeres sin hijos llamándolas de esa manera, informa la agencia Efe.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/C_wtAOKOW1z/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de Taylor Swift (@taylorswift)](https://www.instagram.com/p/C_wtAOKOW1z/?utm_source=ig_embed&utm_campaign=loading)
+
+Spike Lee
+---------
+
+El director de cine Spike Lee apoya a la candidata presidencial Kamala Harris. Las razones se alinean con sus valores y objetivos en términos de justicia social y representación. Lee abordó temas de justicia social y racial en su trabajo, por lo que encontrar a alguien en una posición de poder que comparta estas preocupaciones es un factor importante para su apoyo.
+
+Charli XCX
+----------
+
+La cantante y compositora británica Charli XCX expresó su apoyo a Kamala Harris principalmente por razones relacionadas con la igualdad, el empoderamiento y el cambio progresista, así como con su enfoque en la representación y la igualdad en la industria del entretenimiento y en la sociedad en general.
+
+Mark Ruffalo
+------------
+
+Ruffalo valora el enfoque progresista de Kamala Harris en cuestiones como el cambio climático y la equidad económica. Además, Harris representa un avance en diversidad e inclusión, temas que Ruffalo apoya activamente.
+
+George Clooney
+--------------
+
+El actor George Clooney dio a conocer públicamente el apoyo a la vicepresidenta de Estados Unidos, Kamala Harris.  El también productor y guionista apoya a candidatos que promuevan políticas progresistas en áreas como el **cambio climático, la igualdad de género y la justicia económica**. Harris se alinea con estos valores.
+
+Jeff Bridges
+------------
+
+El músico y actor Jeff Bridges apoya a Harris porque la **candidata ha trabajado** en la reforma del sistema de justicia penal y en la promoción de la **equidad racial**. La elección de Harris como la primera mujer afroamericana y de ascendencia india en la vicepresidencia representa un avance importante en este sentido.
+
+Celebridades que respaldan a Donald Trump
+-----------------------------------------
+
+Elon Musk
+---------
+
+[Donald Trump](https://www.elcomercio.com/actualidad/donald-trump-asegura-plan-deportacion-comenzara-springfield.html "https://www.elcomercio.com/actualidad/donald-trump-asegura-plan-deportacion-comenzara-springfield.html") utilizó X para impulsar su campaña electoral con una conversación en directo con el magnate Elon Musk que le permitió ahondar en sus críticas a los demócratas y a la situación del país, según la agencia Efe.
+
+Musk manifestó públicamente el pasado julio que apoyaba a Trump en las elecciones y lo hizo pese a que, según apuntó él mismo este lunes, se considera a sí mismo históricamente un “demócrata moderado”. “Pero estamos realmente ante un punto de inflexión crítico para el país. (…) Tú eres el camino de la prosperidad para Estados Unidos y Kamala es lo contrario”, sostuvo.
+
+Kid Rock
+--------
+
+El cantante estadounidense Kid Rock no solo es conocido por su música, sino que también por ser **un fiel seguidor** del expresidente Donald Trump.
+
+De hecho, en febrero de 2024 aseguró en el podcast The Joe Rogan Experience que juega golf habitualmente con Trump. Mientras que en julio actuó en el marco de la **Convención Nacional Republicana**, antes de que Trump aceptara su **nominación a las elecciones** con las que buscará un segundo mandato.
+
+Hulk Hogan
+----------
+
+La superestrella de lucha libre **Hulk Hogan** anunció durante la **Convención Nacional Republicana de Milwaukee**, su respaldo a la campaña del **expresidente estadounidense** y candidato republicano Donald Trump.
+
+Lo hizo desde el escenario y ante una multitud enfervorecida, que vio cómo este se quitó la chaqueta y se desgarró una camiseta para quedarse con otra de tirantes con el apellido del expresidente y el de su compañero de fórmula, el senador por Ohio J.D. Vance, de acuerdo con la agencia Efe.
+
+“Va a ganar en noviembre y cuando lo haga **todos vamos a ser campeones de nuevo.** Ha sido el mayor patriota y lo sigue siendo. Siempre ha dicho exactamente lo que piensa, e independientemente de las posibilidades, siempre encuentra la manera de ganar”, señaló acerca de Trump, a quien dijo conocer desde hace 35 años.
+
+Amber Rose
+----------
+
+**Amber Rose**, la cantante y modelo, se decantó de una manera absoluta por el proyecto de país del candidato del Partido Republicano a la presidencia de Estados Unidos, Donald Trump.
+
+La también diseñadora de modas es una de las figuras que más activismo político hace en el mundo de la farándula por el magnate, empresario y exmandatario, de acuerdo con el portal Marca América.
+
+“Soy madre soltera de dos hijos. Soy estadounidense, nací en Filadelfia. Y para mí, Donald Trump es el epítome de un macho alfa (…) Él está ahí para proteger, brindar y asegurarse de que los ciudadanos de Estados Unidos tengan una buena economía, protegiéndonos. Me siento protegida por Donald Trump”, señaló la estrella de la plataforma OnlyFans.
+
+Dana White
+----------
+
+Es el actual presidente de la UFC. Según un reporte de The Wall Street Journal, el equipo de campaña del virtual candidato republicano a la Presidencia, será el propio Dana White.
+
+Trump y White son amigos cercanos desde hace décadas y White asegura siempre que le preguntan que Trump representa la restauración del sentido común en Estados Unidos, afirma el portal Marca América.
+
+Roseanne Cherrie Barr
+---------------------
+
+Roseanne Cherrie Barr es la actriz que también apoya a Donald Trump. La también productora de televisión dijo que el republicano estaba feliz por ella. “Lo **conozco desde hace muchos años** y ha hecho muchas cosas buenas por mí a lo largo de los años”.
+
+Barr es partidaria de Trump y su personaje en la actualizada serie ‘Roseanne’ también es seguidora del presidente.
+
+Maná estalla contra Nicky Jam por causa de Donald Trump
+=======================================================
+
+¿Qué pasó entre Maná y el reguetonero Nicky Jam? Te contamos todo.
+------------------------------------------------------------------
+
+![Fernando Olvera, vocalista del grupo Maná. Foto: Facebook de Maná](https://www.elcomercio.com/wp-content/uploads/2024/09/mana-El-comercio-1.jpg)
+
+**Maná y Nicky Jam** no van más. La legendaria banda mexicana Maná ha tomado una decisión que ha sorprendido tanto a sus seguidores como a la industria musical.
+
+El grupo anunció la **ruptura de su relación profesional con el reguetonero Nicky Jam**, tras un controvertido gesto que considera incompatible con sus valores.
+
+### Más noticias
+
+* **[Se acerca el cumpleaños de Batman](https://www.elcomercio.com/tendencias/cultura/batman-cumpleanos-85-batmanday.html "https://www.elcomercio.com/tendencias/cultura/batman-cumpleanos-85-batmanday.html")**
+* **[Los detalles que no viste de la detención de Luisito Comunica en República Dominicana](https://www.elcomercio.com/tendencias/entretenimiento/los-detalles-que-no-viste-de-la-detencion-de-luisito-comunica-en-republica-dominicana.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/los-detalles-que-no-viste-de-la-detencion-de-luisito-comunica-en-republica-dominicana.html?source=Internal&ref=Single+Content+Link")**
+
+La controversia surgió luego de que Nicky Jam expresara públicamente su apoyo al **expresidente de Estados Unidos, Donald Trump**, conocido por sus políticas y declaraciones racistas, especialmente contra la comunidad latina.
+
+El gesto que desató la controversia
 -----------------------------------
 
-* **Mejor serie de comedia**: ‘Hacks’
-* **Mejor serie de drama**: ‘Shogun’
-* **Mejor miniserie**: ‘Bebé Reno’
-* **Mejor actor en una serie de comedia**: Jeremy Allen White (‘The Bear’)
-* **Mejor actriz en una serie de comedia**: Jean Smart (‘Hacks’)
-* **Mejor actor en una serie de drama**: Hiroyuki Sanada (‘Shogun’)
-* **Mejor actriz en una serie de drama**: Anna Sawai (‘Shogun’)
-* **Mejor actor en una miniserie**: Richard Gadd (‘Baby Reno’)
-* **Mejor actriz en una miniserie**: Jodie Foster (‘True Detective: Night Country’). EFE
+![El expresidente de EE.UU., Donald Trump, junto al reguetonero Nicky Jam. Foto: X@carolinagky](https://www.elcomercio.com/wp-content/uploads/2024/09/trump-El-comercio-1024x683.jpg)
 
-‘Shogun’, serie protagonizada por Takehiro Hira, pasó a los récords de los llamados Oscar de la TV, en Estados Unidos. Se convirtió en la segunda producción de habla no inglesa que consigue una nominación en la categoría principal de los Premios Emmys 2024. Previamente, el logro lo ostentó la coreana ‘El juego del calamar’.
+El expresidente de EE.UU., Donald Trump, junto al **reguetonero Nicky Jam**. Foto: X@carolinagky
 
-‘Hacks’, la gran sorpresa
--------------------------
+El conflicto estalló cuando, durante un mitin política, **Nicky Jam subió al escenario para respaldar a Trump**. “Es un honor conocerle, señor presidente. Personas de donde yo vengo no suelen conocer presidentes, lo necesitamos de vuelta”, comentó el cantante.
 
-La mayor sorpresa de la noche fue que **el premio a la mejor serie de comedia fue para ‘Hacks’.**
+Esta participación provocó indignación entre **los seguidores de Maná**, quienes siempre han defendido los derechos de los latinos y luchado contra el racismo y la discriminación. La banda, en un acto coherente con su trayectoria, no tardó en reaccionar.
 
-El programa, protagonizado por Jean Smart como una diva comediante que repetidamente se enfrenta a su disfuncional asistente milenial, se defendió del ganador anterior y gran favorito ‘The Bear’.
+A través de sus redes sociales, Maná publicó un comunicado contundente. “Durante los últimos 30 años, Maná ha apoyado y defendido los derechos de los latinos en el mundo. No existe negocio o promoción que valga más que la dignidad de nuestra gente. Por eso, hoy decidimos bajar nuestra colaboración con Nicky Jam de todas las plataformas digitales”, expresó.
 
-Smart reclamó su tercer Emmy como actriz principal por su papel y bromeó: “Aprecio esto, porque simplemente no recibo suficiente atención”.
+La referencia es a la colaboración que ambos artistas realizaron en la versión de **De pies a cabeza**, una de las canciones más emblemáticas de la agrupación mexicana.
 
-El triunfo de ‘Bebé Reno’
--------------------------
+![Posteo del grupo Maná en su cuenta de Instagram. Foto: Screenshot](https://www.elcomercio.com/wp-content/uploads/2024/09/mana-El-comercio-1024x683.jpg)
 
-L**a actriz Jessica Gunning obtuvo su Emmy por interpretar a Martha**, la mujer que acosa al protagonista de ‘Bebé Reno’, la alabada y controversial miniserie de Netflix que monopolizó la conversación desde abril.
+Posteo del grupo Maná en su cuenta de Instagram. Foto: Screenshot
 
-Richard Gadd, el hombre que creó la ficción a partir de sus propias experiencias dijo: “Hace diez años estaba deprimido. Nunca pensé que lograría recomponer mi vida. Nunca pensé que sería capaz de enmendar lo que me había pasado y ahora aquí estoy, más de una década después, recibiendo uno de los premios más importantes de la televisión”.
+Fin de la relación profesional entre Maná y Nicky Jam
+-----------------------------------------------------
 
-El comediante escocés también fue galardonado por su actuación.
+**El gesto de Maná** no solo implica el retiro de la colaboración, sino también el fin de cualquier posible relación futura con el reguetonero. Los seguidores de ambos artistas se encuentran divididos.
 
-Una latina se llevó un galardón por ‘The Bear’
-----------------------------------------------
+Mientras algunos defienden la postura de Maná por mantenerse firme ante el discurso de odio, otros consideran que el conflicto es exagerado.
 
-Jeremy Allen White volvió a ganar el como mejor actor de comedia por la popular serie ‘The Bear’, de _FX_. El actor estadounidense de 33 años logró llevarse, en menos de un año y por segunda gala consecutiva, el reconocimiento otorgado a los mejores intérpretes de televisión en el género de comedia este 2024.
+Nicky Jam aún no ha dado declaraciones oficiales respecto a esta inesperada ruptura profesional, aunque bromeó en redes sociales sobre el incidente. Aunque la cuenta de Instagram de Snack Report señala que **Nicky Jam eliminó una foto con Donald Trump** que colgó en esa red social.
 
-Una sorpresa llegó cuando la estrella de ascendencia puertorriqueña Liza Colón-Zayas ganó el premio a mejor actriz de reparto en una categoría reñida por su papel de Tina Marrero en ‘The Bear’. El año anterior había ganado en esa misma categoría su compañera de reparto Ayo Edebiri.
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/C_yrZPRJale/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de Nicky jam (@nickyjam)](https://www.instagram.com/reel/C_yrZPRJale/?utm_source=ig_embed&utm_campaign=loading)
 
-“¿Cómo podría haber pensado que sería posible estar en presencia de Meryl Streep y Carol Burnett?”, dijo Colón-Zayas mientras las lágrimas brotaban de sus ojos al aceptar el premio en el escenario. Es la primera latina en ganar en la categoría.
+Plaga del moko ataca plantaciones bananeras del Ecuador; conozca las hectáreas afectadas
+========================================================================================
 
-Muertos y heridos en Monte Sinaí, Guayaquil
-===========================================
+La plaga del moko afecta a 3,000 hectáreas de banano a nivel nacional, siendo Los Ríos la provincia más impactada.
+------------------------------------------------------------------------------------------------------------------
 
-La Policía dio algunos datos de quiénes serían los muertos y heridos en este barrio de Guayaquil.
--------------------------------------------------------------------------------------------------
+![El productor destacó que "la prevención es clave para mantener la productividad y proteger la inversión El Foro Cómo prevenir la propagación del moko, se realizó este domingo 15 de septiembre de 2024. Foto: Cortesía](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-21.jpg)
 
-![Muertos y heridos en Monte Sinaí, Guayaquil.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-10.jpg)
+Productores del **sector bananero**, investigadores y autoridades del **Ministerio de Agricultura** discutieron soluciones y estrategias para enfrentar la **plaga del moko**, que afecta gravemente a la industria. La reunión se realizó en Machala, este 15 de septiembre de 2024[.](https://es.wikipedia.org/wiki/Musa_%C3%97_paradisiaca)
 
-La **Policía** reportó muertos y heridos en **Monte Sinaí**, al noroeste de **Guayaquil**, la noche de este domingo 15 de septiembre de 2024[.](https://es.wikipedia.org/wiki/Guayaquil)
+### Más noticias
 
-Decenas de uniformados acudieron a este barrio ubicado al noroeste de la urbe porteña.
+* [Exportaciones de oro sufren un fuerte cambio en su desempeño](https://www.elcomercio.com/actualidad/negocios/exportaciones-oro-ecuador-controles-mineria-ilegal.html "Exportaciones de oro sufren un fuerte cambio en su desempeño")
+* [El cacao sustentó el crecimiento de las exportaciones ecuatorianas](https://www.elcomercio.com/actualidad/negocios/el-cacao-sustento-el-crecimiento-de-las-exportaciones-ecuatorianas.html "El cacao sustentó el crecimiento de las exportaciones ecuatorianas")
+* [Estos son los impuestos que más ingresos le dan al Ecuador](https://www.elcomercio.com/actualidad/negocios/recaudacion-impuestos-sri-ingresos-ecuador-iva-renta.html "Estos son los impuestos que más ingresos le dan al Ecuador")
 
-### Más noticias:
+**Danilo Palacios**, ministro de Agricultura y Ganadería (MAG), alertó sobre las graves consecuencias de la plaga del moko, que actualmente afecta a unas 3 000 hectáreas a nivel nacional, siendo la provincia de **Los Ríos** la más afectada, a esta le siguen **Guayas y El Oro**.
 
-* [Salinas y Manta viven escenas de terror por ataques armados e incendio de un vehículo](https://www.elcomercio.com/actualidad/seguridad/salinas-y-manta-viven-escenas-de-terror-por-ataques-armados-e-incendio-de-un-vehiculo.html "Salinas y Manta viven escenas de terror por ataques armados e incendio de un vehículo")
-* [Un hombre fue linchado y colgado en el parque central de Cayambe](https://www.elcomercio.com/actualidad/un-hombre-fue-linchado-y-colgado-en-el-parque-central-de-cayambe.html "Un hombre fue linchado y colgado en el parque central de Cayambe")
+El **moko de plátano** es una enfermedad provocada por la bacteria **Ralstonia solanacearum raza 2,** que causa diferentes síntomas en la**s plantas de banano y plátano**. Estos varían según la edad de la planta, medio de transmisión y órgano afectado, según el MAG.
 
-Policía da detalles de los muertos y heridos
---------------------------------------------
+El **síntoma inicia en la hoja central o bandera** y avanza hacia las hojas de mayor edad. Las hojas infectadas se marchitan, se doblan y quedan adheridas a la planta.
 
-Aunque hasta las 20:35 no existía información oficial sobre las circunstancias en que se desarrollaron los hechos, la Policía dio a conocer algunos detalles sobre los muertos y heridos.
+Medidas de bioseguridad
+-----------------------
 
-La Policía Nacional avanzó hasta el sector de Monte Sinaí, en **Nueva Prosperina**, tras una alerta del Ecuador 911.
+**Byron Paredes Monteros**, productor de la provincia de Los Ríos, señaló que la plaga ya está en todas las plantaciones de estas provincias y que es necesaria la implementación de estrictas medidas de bioseguridad en las fincas para prevenir la propagación de las plantaciones con el moko. “Necesitamos ir a una agricultura de precisión para controlar y recuperar las áreas que han sido devastadas”, señaló.
 
-“En el lugar se lograron visualizar a **tres personas sin signos vitales** con varios impactos de proyectil de arma de fuego”, informó.
+Por su parte, **Jessica Hoyos**, pequeña productora de El Oro, enfatizó la necesidad de mayores esfuerzos y recursos para apoyar a los agricultores en su lucha contra el moko. En la actualidad, los productores invierten 25 centavos de dólar por caja de banano, para la aplicación de medidas de bioseguridad, dijo.
 
-Además, se encontró una persona herida.
+Lucha contra el moko
+--------------------
 
-Los muertos y el herido son parte de un **Grupo Armado Organizado (GAO)**, agregó la institución.
+El docente investigador de la Universidad Técnica de Machala, **José Quevedo**, señaló que “el uso de las **trichodermas** en el cultivo del banano ha demostrado ser una herramienta eficaz para combatir el moko”. Además, destacó los avances en investigación y el papel de la ciencia en la lucha contra esta enfermedad.
 
-La Policía aún realiza las investigaciones necesarias para aclarar los hechos ocurridos.
+Todos estos avances se resaltaron en el Foro: Cómo prevenir la propagación del moko, organizado por la Asociación de Bananeros Orenses.
+
+Gobierno declara toque de queda por cortes de luz a escala nacional
+===================================================================
+
+Gobierno anuncia toque de queda por apagón nacional de 8 horas; se desplegarán policías y militares para garantizar seguridad.
+------------------------------------------------------------------------------------------------------------------------------
+
+![Daniel Noboa y Mónica Palencia en la entrega de 100 camionetas nuevas a la Policía Nacional.](https://www.elcomercio.com/wp-content/uploads/2024/09/palencia.png)
+
+Este lunes 16 de septiembre, la ministra del Interior, **Mónica Palencia**, informó que se implementará un toque de queda este miércoles, debido al apagón anunciado por el **Gobierno**. La medida fue comunicada durante una rueda de prensa del Bloque de Seguridad en Manta, aunque Palencia no especificó el horario exacto del toque de queda.
+
+### Más noticias
+
+* [Daniel Noboa dispone corte de luz nacional por mantenimientos](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-corte-de-luz-nacional-por-mantenimiento-apagon.html "Daniel Noboa dispone corte de luz nacional por mantenimientos")
+* [Gobierno plantea que ciudadanía ahorre energía para evitar cortes de luz](https://www.elcomercio.com/actualidad/negocios/usuarios-ahorro-consumo-luz-ecuador-multa-planilla.html "Gobierno plantea que ciudadanía ahorre energía para evitar cortes de luz")
+* [Cortes de luz se registran este 11 de septiembre en tres provincias](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-se-registran-este-11-de-septiembre-en-algunas-provincias.html "Cortes de luz se registran este 11 de septiembre en tres provincias")
+
+El apagón, que afectará a todo el país, se llevará a cabo como parte de un mantenimiento programado en el sistema de transmisión y redes de distribución eléctrica, tal como lo detalló el comunicado emitido por el Gobierno el pasado domingo, 15 de septiembre.
+
+> 🎥 [#AHORA](https://twitter.com/hashtag/AHORA?src=hash&ref_src=twsrc%5Etfw) ||  
+>   
+> En [#RuedaDePrensa](https://twitter.com/hashtag/RuedaDePrensa?src=hash&ref_src=twsrc%5Etfw) informamos las operaciones realizadas por el [#BloqueDeSeguridad](https://twitter.com/hashtag/BloqueDeSeguridad?src=hash&ref_src=twsrc%5Etfw) a escala nacional.  
+>   
+> 👉Participan: Ministra del Interior [@Palencia3Monica](https://twitter.com/Palencia3Monica?ref_src=twsrc%5Etfw); [@CmdtPoliciaEc](https://twitter.com/CmdtPoliciaEc?ref_src=twsrc%5Etfw) [#GraDVíctorZárate](https://twitter.com/hashtag/GraDV%C3%ADctorZ%C3%A1rate?src=hash&ref_src=twsrc%5Etfw) y Jefe del Comando Conjunto de [#FFAA](https://twitter.com/hashtag/FFAA?src=hash&ref_src=twsrc%5Etfw), [#AlmJaimeVela](https://twitter.com/hashtag/AlmJaimeVela?src=hash&ref_src=twsrc%5Etfw).  
+>   
+> 🔴Sigue la transmisión… [pic.twitter.com/6bs2CTjkxJ](https://t.co/6bs2CTjkxJ)
+> 
+> — Policía Ecuador (@PoliciaEcuador) [September 16, 2024](https://twitter.com/PoliciaEcuador/status/1835697973432345087?ref_src=twsrc%5Etfw)
+
+El corte de luz comenzará el miércoles 18 de septiembre a las 22:00 y se extenderá hasta las 06:00 del jueves 19.
+
+Suspensión eléctrica y trabajos por cortes de luz
+-------------------------------------------------
+
+Durante este periodo de suspensión eléctrica, se realizarán trabajos preventivos en todas las instalaciones del Sistema Nacional de Transmisión y redes de distribución de energía eléctrica.
+
+La Secretaría de Comunicación explicó que estas acciones forman parte de los esfuerzos del presidente Daniel Noboa para abordar la crisis energética y asegurar la soberanía energética a mediano plazo.
+
+Por su parte, la ministra Palencia aseguró que tanto la Policía como las Fuerzas Armadas tomarán las medidas necesarias para resguardar la seguridad de la ciudadanía durante el apagón. El general Kléber Guatarilla, de las Fuerzas Armadas, también afirmó que ya se están planificando operaciones para prevenir cualquier intento de delincuencia durante el corte de luz.
+
+Daniel Noboa dispone corte de luz nacional por mantenimientos
+-------------------------------------------------------------
+
+La **Presidencia** de la **República** emitió un comunicado oficial en sus redes sociales este domingo 15 de septiembre. En anuncio es en torno al tema de la **crisis energética** que atraviesa el país.
+
+El documento señala que el presidente de la República, **Daniel** **Noboa**, toma decisiones preventivas para afrontar la crisis y mantener la soberanía energética a mediano plazo.
+
+Es por ello que, bajo criterios técnicos, ha decidido efectuar un **mantenimiento preventivo** en todas las instalaciones del Sistema Nacional de Transmisión y redes de distribución de energía eléctrica.
+
+¿En qué consisten los trabajos?
+-------------------------------
+
+En el área de transmisión, los trabajos consistirán en el mantenimiento de equipo primario y de transformación de cuatro subestaciones, operadas por Celec Transelectric.
+
+Los montos de estos trabajos ascienden a 1,19 millones de dólares. Mientras que, las actividades en las redes de distribución contemplan mantenimiento de las subestaciones, en alimentadoras, equipos, entre otras, por un monto superior a 1 millón de dólares.
+
+El Gobierno Nacional recalca que estas acciones son necesarias para el país y también ofrece disculpas por las molestias causadas. Agrega que espera que la comunicación oportuna de esta medida ayude a planificar a los hogares.
+
+Balacera durante partido de fútbol en El Coca queda grabada en video
+====================================================================
+
+La balacera quedó grabada en video y se viralizó en redes sociales, donde los internautas piden más seguridad.
+--------------------------------------------------------------------------------------------------------------
+
+![Imagen referencial. El video de la balacera de El Coca fue publicado en las redes sociales.](https://www.elcomercio.com/wp-content/uploads/2024/09/Balacera-El-Coca.jpg)
+
+Una **balacera** ocurrió durante un partido de **fútbol** en El Coca el domingo 15 de septiembre, y el incidente quedó grabado en video[.](https://es.wikipedia.org/wiki/Tiroteo_masivo "https://es.wikipedia.org/wiki/Tiroteo_masivo")
+
+Más noticias
+------------
+
+* [Regreso a clases incluye programas de seguridad en escuelas con riesgos](https://www.elcomercio.com/actualidad/ecuador/regreso-a-clases-programas-seguridad-escuelas-riesgos.html "Regreso a clases incluye programas de seguridad en escuelas con riesgos")
+* [Policía detiene a 4 hombres que descuartizaron un cadáver en Manabí](https://www.elcomercio.com/actualidad/seguridad/policia-detiene-a-4-hombres-que-descuartizaron-un-cadaver-en-manabi.html "Policía detiene a 4 hombres que descuartizaron un cadáver en Manabí")
+* [Lo que se sabe del hombre colgado en el parque de Cayambe](https://www.elcomercio.com/actualidad/seguridad/lo-que-se-sabe-hombre-colgado-parque-cayambe.html "Lo que se sabe del hombre colgado en el parque de Cayambe")
+
+El video se viralizó en **redes sociales**, donde los usuarios exigieron mayor **seguridad** en la zona.
+
+Balacera durante un partido de fútbol en El Coca
+------------------------------------------------
+
+En el video que circula en **redes**, se observa a un grupo de personas jugando **fútbol**. De repente, dos individuos llegan en una **motocicleta**, y el copiloto dispara contra los **jugadores**.
+
+Al escuchar los **disparos**, los jugadores entran en **pánico** y corren en diferentes direcciones. El atacante, con el casco puesto, baja de la moto y persigue a los **deportistas**.
+
+Por un momento, desaparece de la escena, pero luego regresa corriendo hacia la **motocicleta**, dispara al aire y huye junto a su cómplice.
+
+> Terrible!!  
+> En el coca se reportó un sicariato en pleno Partido de Fútbol [pic.twitter.com/hBiiHhCnRe](https://t.co/hBiiHhCnRe)
+> 
+> — Emergencias Ec (@EmergenciasEc) [September 16, 2024](https://twitter.com/EmergenciasEc/status/1835510866759884925?ref_src=twsrc%5Etfw)
 
 Más hechos violentos en otras partes del país este fin de semana
 ----------------------------------------------------------------
 
 La comunidad en **Cayambe** linchó, mató y colgó a un hombre sospechoso de ser autor de la desaparición involuntaria con resultado de muerte de un chofer de una cooperativa del cantón.
 
-El hombre apareció colgado a uno de los costados del parque central de Cayambe; mientras, el otro involucrado en el crimen es procesado y está en prisión preventiva, mientras dura la instrucción fiscal.
+El hombre apareció colgado a uno de los costados del parque central de **Cayambe**; mientras, el otro involucrado en el crimen es procesado y está en prisión preventiva, mientras dura la instrucción fiscal.
 
 En tanto, en **Salinas**, mientras niños, jóvenes y adultos disfrutaban de la playa, se escuchan disparos en contra de un joven, quien de inmediato cae a la arena. Las imágenes del hecho se transmitieron por la red social X.
-
-Gonzalo Plata brilla en Flamengo tras un debut auspicioso
-=========================================================
-
-Gonzalo Plata fue titular en Flamengo en un clásico ante Vasco da Gama. El ecuatoriano empezó con fuerza en Brasil.
--------------------------------------------------------------------------------------------------------------------
-
-![Gonzalo Plata fue titular en Flamengo ante Vasco Da Gama en el fútbol de Brasil.](https://www.elcomercio.com/wp-content/uploads/2024/09/plantillas-manana-5-3.jpg)
-
-**Gonzalo Plata**, el habilidoso extremo ecuatoriano de 23 años, hizo su esperado debut con la camiseta de Flamengo en el clásico ante Vasco da Gama el 15 de septiembre de 2024.
-
-Plata demostró su talento y habilidades en el empate 1-1, dejando una impresión positiva en su primer partido oficial.
-
-### Más noticias:
-
-* [Liga de Quito y Aucas cayeron y así está la tabla de posiciones en Liga Pro](https://www.elcomercio.com/deportes/futbol/tabla-posiciones-liga-pro-fecha6-liga-quito.html "Liga de Quito y Aucas cayeron y así está la tabla de posiciones en Liga Pro")
-* [El Chelsea de Moisés Caicedo sufrió para ganar al Bournemouth](https://www.elcomercio.com/deportes/futbol/chelsea-moises-caicedo-bournemouth-premier-league.html "El Chelsea de Moisés Caicedo sufrió para ganar al Bournemouth")
-* [Piero Hincapié se destacó en la goleada del Leverkusen al Hoffenheim](https://www.elcomercio.com/deportes/futbol/piero-hincapie-leverkusen-hoffenheim-bundesliga.html "Piero Hincapié se destacó en la goleada del Leverkusen al Hoffenheim")
-
-Plata fue titular y jugó todo el encuentro, destacándose con su velocidad y capacidad de generar peligro.
-
-El partido se disputó en el Estadio Maracaná, y el gol de Flamengo llegó a los 72 minutos gracias a Gerson Santos Da Silva.
-
-Vasco da Gama empató en el minuto 87 con un gol de Philippe Coutinho, asegurando el reparto de puntos.
-
-Gonzalo Plata
--------------
-
-Desde el inicio del partido, Gonzalo Plata mostró su potencial al generar dos oportunidades claras.
-
-A los 12 minutos, Plata realizó una jugada individual que terminó en un remate desviado.
-
-También tuvo un momento destacado a los 61 minutos, cuando asistió a Bruno Henrique con un cabezazo, pero el intento no se concretó en gol.
-
-A lo largo del partido, Plata exhibió habilidad en la cancha, con remates peligrosos y regate corto.
-
-“Gonzalo Plata no sintió el peso de llevar el manto sagrado. Un gran jugador, demostró mucha personalidad en este clásico, este chico será muy importante para Flamengo. Que gran contratación muchachos”, publicó el usuario de X @DGcorreiaPeres.
-
-La falta de ritmo se hizo evidente al final del partido, cuando el ecuatoriano terminó exhausto. Sin embargo, su desempeño ha dejado una impresión favorable en los aficionados y en el cuerpo técnico de Flamengo, quienes ven en él una valiosa adición al equipo.
-
-Con su primera actuación exitosa, Gonzalo Plata comienza a ganarse el cariño de la hinchada de Flamengo, y se espera que siga creciendo y aportando en futuros encuentros.
-
-> 🔥⚽️ UNA ASISTENCIA DE LA JOYA 💎 ECUATORIANA 🇪🇨 ⚽️🔥  
->   
-> Gonzalo Plata de cabeza asistió a Bruno Henrique que no logró marcar el gol para el [#Flamengo](https://twitter.com/hashtag/Flamengo?src=hash&ref_src=twsrc%5Etfw) ♥️🖤  
->   
-> [pic.twitter.com/r3ytvM0bha](https://t.co/r3ytvM0bha)
-> 
-> — KCH FM RADIO (@KCH\_FM) [September 16, 2024](https://twitter.com/KCH_FM/status/1835470360180871653?ref_src=twsrc%5Etfw)
-
-Barcelona SC gana al Macará y vuelve a la pelea por la etapa
-============================================================
-
-Barcelona SC sufrió pero logró una importante victoria en la fecha 6 de la Liga Pro. Los canarios se ilusionan con la etapa.
-----------------------------------------------------------------------------------------------------------------------------
-
-![Barcelona SC supo ganar al Macará en la fecha 6 de la Liga Pro en Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/09/bsc-3.jpg)
-
-**Barcelona SC** logró una victoria crucial al derrotar 2-1 a **Macará** el 15 de septiembre de 2024, y se reposicionó en la lucha por la etapa de la Liga Pro.
-
-Con goles de **Octavio Rivero** a los 16 y 62 minutos, el **‘Ídolo del Astillero’** subió al cuarto lugar de la tabla de clasificaciones, acercándose a solo tres puntos del líder, Liga de Quito.
-
-Los hinchas sufrieron más de la cuenta en este partido.
-
-### Más noticias:
-
-* [Liga de Quito y Aucas cayeron y así está la tabla de posiciones en Liga Pro](https://www.elcomercio.com/deportes/futbol/tabla-posiciones-liga-pro-fecha6-liga-quito.html "Liga de Quito y Aucas cayeron y así está la tabla de posiciones en Liga Pro")
-* [Escandalosa goleada del Imbabura a Liga de Quito en Ibarra](https://www.elcomercio.com/deportes/futbol/goleada-imbabura-liga-quito-ibarra.html "Escandalosa goleada del Imbabura a Liga de Quito en Ibarra")
-* [Orense empató con U. Católica y se aleja de la pelea por la Liga Pro](https://www.elcomercio.com/deportes/futbol/orense-universidad-catolica-ligapro-partido-resultado.html "Orense empató con U. Católica y se aleja de la pelea por la Liga Pro")
-
-El cotejo, disputado en el estadio Monumental de Guayaquil, evidenció el esfuerzo del equipo dirigido por **Ariel Holan**, pero también las falencias en defensa.
-
-Para muchos hinchas, el equipo no es contundente como local.
-
-Sin embargo, Rivero fue la figura destacada del encuentro y marcó dos veces para asegurar el triunfo. Darwin López descontó para Macará a los 39 minutos, pero no fue suficiente para evitar la derrota.
-
-Eso sí, los locales pasaron algunos sustos, sobre todo al final cuando Macará se fue con todo para intentar el empate que no llegó. Fue una victoria muy trabajada.
-
-**Víctor Mendoza**, arquero titular de Barcelona SC, jugó un papel importante en la defensa del arco. “Hemos trabajado durísimo para este partido, sabemos la calidad de los jugadores rivales, pero también hemos preparado estrategias para contrarrestarlos”, comentó Mendoza antes del inicio del partido. Su desempeño fue clave para mantener la ventaja y asegurar los tres puntos.
-
-Barcelona y la tabla de posiciones
-----------------------------------
-
-Con esta victoria, **Barcelona SC** alcanzó los 12 puntos y se ubicó en la cuarta posición.
-
-Liga de Quito sigue liderando la tabla con 15 puntos, seguido por Orense con 13 e Independiente del Valle con 12.
-
-El triunfo de Barcelona SC es aún más significativo considerando que Liga de Quito sufrió una dura derrota por 4-0 ante Imbabura, lo que abre la puerta a una posible remontada en la fase dos del torneo.
-
-En la próxima jornada, Barcelona SC visitará a **Deportivo Cuenca**, mientras que Macará recibirá a Imbabura.
-
-Con 10 puntos, Macará ocupa el séptimo lugar, pero la lucha por la clasificación sigue siendo intensa.
-
-> ¡Siempre OCTAGOL! 🇺🇾✊  
->   
-> [pic.twitter.com/PqoZz9S7Ti](https://t.co/PqoZz9S7Ti)
-> 
-> — BARCELONA S.C. (@BarcelonaSC) [September 15, 2024](https://twitter.com/BarcelonaSC/status/1835453086367719784?ref_src=twsrc%5Etfw)
-
-Así está la tabla de posiciones de la Liga Pro:
------------------------------------------------
-
-1. **Liga de Quito, 15 puntos**
-2. Orense, 13
-3. IDV, 12
-4. Barcelona SC, 12
-5. **Mushuc Runa, 11**
-6. Católica, 10
-7. Macará, 10
-8. El Nacional, 10
-9. Delfín, 8
-10. Imbabura, 7
-11. Técnico Universitario, 7
-12. **Libertad, 7**
-13. Emelec, 3
-14. Deportivo Cuenca, 1
-15. **Cumbayá, 1**
-16. Aucas, 1
-
-> GO LEA DOR 👏🏻😱  
->   
-> Una vez más, Octavio Rivero. [@BarcelonaSC](https://twitter.com/BarcelonaSC?ref_src=twsrc%5Etfw) lo gana 2-1 tras un cabezazo del atacante. [#ZappingSports](https://twitter.com/hashtag/ZappingSports?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/VjBhdhwdu3](https://t.co/VjBhdhwdu3)
-> 
-> — Zapping Ecuador (@zapping\_ecu) [September 16, 2024](https://twitter.com/zapping_ecu/status/1835469099175972899?ref_src=twsrc%5Etfw)
-
-Salinas y Manta viven escenas de terror por ataques armados e incendio de un vehículo
-=====================================================================================
-
-Un joven fue herido en Salinas. A otras tres personas les dispararon y un auto fue incendiado en Manta.
--------------------------------------------------------------------------------------------------------
-
-![A la izquierda, un auto en llamas rueda en una calle llena de gente, en Manta. A la derecha, un hombre cayó a la arena tras recibir un disparo, en la playa de Salinas. Fotos tomadas de X](https://www.elcomercio.com/wp-content/uploads/2024/09/foto_manta_salinas_720.jpg)
-
-Mientras niños, jóvenes y adultos disfrutaban de la playa de Salinas se escuchan disparos en contra de un joven, quien de inmediato cae a la arena. Las imágenes del hecho se transmitieron por la red social X.
-
-Más noticias
-------------
-
-* [Policía Nacional captura a nueve presuntos integrantes de Los Lobos](https://www.elcomercio.com/actualidad/seguridad/policia-nacional-captura-a-nueve-presuntos-integrantes-de-los-lobos.html "Policía Nacional captura a nueve presuntos integrantes de Los Lobos")
-* [En Quito, los siniestros de tránsito provocan más muertes que los crímenes violentos](https://www.elcomercio.com/actualidad/quito/en-quito-los-siniestros-de-transito-provocan-mas-muertes-que-los-crimenes-violentos.html "En Quito, los siniestros de tránsito provocan más muertes que los crímenes violentos")
-
-El hombre herido cayó de inmediato a la arena. Mujeres que se encontraban cerca se acercaron para ayudarlo. Luego se ve que es llevado en la parte trasera de una camioneta a un centro de salud.
-
-> Ahora, ataque armado en Salinas en pleno día y con la playa llena de familias. Ya no se puede vivir así ¿Y el plan Fénix? ¿Y el presidente? [pic.twitter.com/dduOKLtzjc](https://t.co/dduOKLtzjc)
-> 
-> — Daniel Salcan (@Danielsalcan\_) [September 15, 2024](https://twitter.com/Danielsalcan_/status/1835412872135848339?ref_src=twsrc%5Etfw)
-
-La [Policía](https://noticias.policia.gob.ec/ "https://noticias.policia.gob.ec/") aún no da detalles de la víctima de este ataque ni de qué se trata este nuevo intento de homicidio con arma de fuego.
-
-Las personas que se encontraban en el lugar mostraron su indignación a través de las redes sociales.
-
-En la mañana, un ataque armado también se registró en Manta, Manabí. En la **parroquia Los Esteros**, unos sujetos dispararon en contra de tres personas. Estaba una niña de 6 años.
-
-Las autoridades no dan información sobre las causas del ataque, tampoco se conoce el estado de salud de las víctimas.
-
-Un auto es incendiado en Manta
-------------------------------
-
-> 🇪🇨 | URGENTE  
->   
-> ¡Manta, puerto principal de Manabí en Ecuador, no aguanta más! La delincuencia descontrolada ha llevado a un nuevo nivel de terror en la ciudad.  
->   
-> Criminales utilizaron un vehículo para un atentado, y tras el ataque, lo incendiaron antes de que este se impactara… [pic.twitter.com/ZPVW7FYNVa](https://t.co/ZPVW7FYNVa)
-> 
-> — ISRAEL CON EMUNÁ (@NotICE\_724) [September 15, 2024](https://twitter.com/NotICE_724/status/1835463308306251857?ref_src=twsrc%5Etfw)
-
-Otro caso que alarmó a los moradores de un barrio de Manta se conoció, a través de videos subidos en la red social X. Las imágenes muestran que presuntos delincuentes prendieron fuego a un auto.
-
-Luego se observa al vehículo rodar hacia bajo de una estrecha calle llena de gente que gritaba. Al final, el auto se estrella contra una vivienda. Moradores del lugar corren hacia el inmueble para intentar apagar el fuego, mientras otros salen asustados.
-
-Según ciudadanos que postearon los videos, el hecho ocurrió en el barrio Las Vegas, en Manta. Hasta las 19:00 no había una explicación oficial, por parte de las autoridades policiales.
-
-Donald Trump se salva de un segundo atentado en su contra
-=========================================================
-
-El FBI investiga este segundo atentado como un intento de asesinato contra Donald Trump.
-----------------------------------------------------------------------------------------
-
-![Donald Trump candidato presidencial de Estados Unidos, sufrió un segundo atentado.](https://www.elcomercio.com/wp-content/uploads/2024/07/Donald-Trump-juicio-efe.jpg)
-
-**Donald Trump**, expresidente de **Estados Unidos** y actual candidato republicano, se salvó de un **segundo atentado** en su contra, este domingo 15 de septiembre de 2024.
-
-Trump afirmó que se encuentra bien, tras el incidente violento registrado junto a su **campo de golf**.
-
-### Más noticias:
-
-* [Kamala Harris aventaja a Donald Trump entre latinos](https://www.elcomercio.com/actualidad/mundo/kamala-harris-aventaja-a-donald-trump-entre-latinos.html "Kamala Harris aventaja a Donald Trump entre latinos")
-* [Donald Trump descarta participar en otro debate con Kamala Harris](https://www.elcomercio.com/actualidad/mundo/donald-trump-descarta-participar-debate-kamala-harris.html "Donald Trump descarta participar en otro debate con Kamala Harris")
-
-El candidato presidencial republicano ya sufrió un atentado el pasado **13 de julio**, durante un mitin político.
-
-Una bala rozó su oreja, mientras él hablaba a través de un micrófono a la multitud.
-
-Circunstancias del segundo atentado en contra de Donald Trump
--------------------------------------------------------------
-
-Según medios estadounidenses, una persona fue detenida en las inmediaciones del campo de golf.
-
-Esta persona portaba un arma larga, un rifle AK47, y tenía la intención de atacar al candidato republicano.
-
-La **Oficina Federal de Investigación (FBI, en inglés)** confirmó este domingo que el suceso junto al campo de golf donde estaba jugando el expresidente estadounidense Donald Trump está siendo investigado como un “intento de asesinato”.
-
-“El FBI ha respondido a West Palm Beach, Florida, y está investigando lo que parece ser un intento de asesinato del expresidente Trump”, apuntó en un comunicado.
-
-Según medios como CNN, el Servicio Secreto disparó contra el sospechoso y tras el suceso se recuperó un arma larga. Las autoridades creen que el individuo tenía la intención de atacar al exmandatario (2017-2021), quien se encuentra a salvo.
-
-Más tarde, Trump respondió que estaba a salvo, que nada le detendrá y nunca se rendirá.
-
-“Hubo disparos cerca de mí, pero antes de que los rumores comiencen a salirse de control, quiero que escuches esto primero: ¡Estoy a salvo y bien!”, señaló en un comunicado de prensa.
-
-En un comunicado, la **Casa Blanca** señaló que el presidente Joe Biden, y la vicepresidenta y candidata demócrata, Kamala Harris, fueron informados.
-
-La información fue “sobre el incidente de seguridad en el campo de golf Trump International, donde el expresidente Trump estaba jugando”.
-
-“Están aliviados de saber que está a salvo. Su equipo los mantendrá informados periódicamente”, dijo la Presidencia.
-
-Juez toma medidas contra el otro involucrado en la muerte del chofer de Cayambe
-===============================================================================
-
-La muerte del chofer de Cayambe tuvo dos involucrados, el uno apareció colgado en el parque central y el otro es procesado.
----------------------------------------------------------------------------------------------------------------------------
-
-![El involucrado en la muerte del chofer de Cayambe es procesado en la Unidad Judicial de ese cantón.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-9.jpg)
-
-Un juez de la Unidad Judicial de Cayambe tomó medidas en contra del otro involucrado en la muerte de Patricio Iguago, chofer de camioneta y socio de la cooperativa 11 de Agosto, la tarde de este domingo 15 de septiembre de 2024.
-
-El otro sujeto apareció colgado a un costado del parque central de Cayambe, la comunidad lo ajustició.
-
-### Más noticias:
-
-* [Lo que se sabe del hombre colgado en el parque de Cayambe](https://www.elcomercio.com/actualidad/seguridad/lo-que-se-sabe-hombre-colgado-parque-cayambe.html "Lo que se sabe del hombre colgado en el parque de Cayambe")
-
-Patricio Iguago desapareció el jueves 12 de septiembre.
-
-La noche del viernes 13, dos sospechosos de su desaparición fueron llevados a la comunidad de Santa Isabel en Juan Montalvo.
-
-Uno de ellos confesó la muerte de Iguago y, junto a autoridades indígenas y la Policía, se trasladó a una quebrada en Oyacoto, donde estaba el cuerpo de la víctima.
-
-La comunidad retuvo al otro sospechoso y, cuando se confirmó el deceso de Iguago, la comunidad, enardecida, lo ajustició y luego lo colgó en el parque central de Cayambe.
-
-Mientras, Fiscalía y Policía iniciaron los procedimientos judiciales en contra del sospechoso que confesó el crimen.
-
-Medidas tomadas por un juez contra el otro involucrado en la muerte del chofer de Cayambe
------------------------------------------------------------------------------------------
-
-La tarde de este domingo 15 de septiembre, se desarrolló la audiencia de formulación de cargos contra Luis V., en la Unidad Judicial de Cayambe.
-
-Luis V. es el presunto responsable de la **desaparición involuntaria con resultado de muerte** de Iguago.
-
-A las 16:10, Fiscalía informó que el juez acogió el pedido de la Fiscalía.
-
-Sobre la base de los elementos de convicción presentados, el juez ordenó prisión preventiva para Luis V.
-
-La instrucción fiscal durará 90 días.
-
-> [#AHORA](https://twitter.com/hashtag/AHORA?src=hash&ref_src=twsrc%5Etfw) | [#Pichincha](https://twitter.com/hashtag/Pichincha?src=hash&ref_src=twsrc%5Etfw): en la Unidad Judicial del cantón [#Cayambe](https://twitter.com/hashtag/Cayambe?src=hash&ref_src=twsrc%5Etfw), se desarrolla la audiencia de formulación de cargos contra Luis V., presunto responsable de la [#desaparicióninvoluntaria](https://twitter.com/hashtag/desaparici%C3%B3ninvoluntaria?src=hash&ref_src=twsrc%5Etfw) con resultado de muerte del ciudadano cuyo cuerpo fue encontrado en el sector de [#Oyacoto](https://twitter.com/hashtag/Oyacoto?src=hash&ref_src=twsrc%5Etfw). [pic.twitter.com/mLCp8eYBhT](https://t.co/mLCp8eYBhT)
-> 
-> — Fiscalía Ecuador (@FiscaliaEcuador) [September 15, 2024](https://twitter.com/FiscaliaEcuador/status/1835418339923140740?ref_src=twsrc%5Etfw)
-
-[](https://x.com/FiscaliaEcuador/status/1835418339923140740/photo/1)
-
-Devastadoras inundaciones causan seis muertes y miles de evacuados en Europa Central
-====================================================================================
-
-Austria, República Checa, Hungría, Rumanía y Eslovaquia son los más afectados por las lluvias torrenciales.
------------------------------------------------------------------------------------------------------------
-
-![Un hombre rumano (al fondo) limpia el agua de su casa con un cubo de plástico, en la aldea de Slobozia Conachi, afectada por las inundaciones, cerca de la ciudad de Galati. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-14.jpg)
-
-Mientras en Sudamérica, la sequía genera problemas de incendios y racionamientos de energía y agua, Austria, República Checa, Hungría, Rumanía y Eslovaquia afrontan devastadoras inundaciones. **Seis personas murieron y miles** fueron evacuados este fin de semana a causa de una tormenta de lluvias torrenciales que azota **Europa Central**.
-
-Más noticias
-------------
-
-* [Secretario general de la ONU declara emergencia climática global en el Pacífico](https://www.elcomercio.com/actualidad/mundo/secretario-general-onu-declara-pacifico-emergencia-climatica-global.html "Secretario general de la ONU declara emergencia climática global en el Pacífico")
-* [Científicos creen que la mayoría de los índices de ‘olas de calor’ no reflejan su gravedad](https://www.elcomercio.com/actualidad/mundo/cientificos-creen-mayoria-indices-olas-calor-reflejan-gravedad.html "Científicos creen que la mayoría de los índices de ‘olas de calor’ no reflejan su gravedad")
-
-En **Rumanía** se descubrieron ayer cuatro cadáveres en la región más afectada, Galati, en el sureste. Ahí cinco mil casas resultaron dañadas, según informaron los servicios de emergencia. Este sitio ha sido clasificado como zona de catástrofe natural a causa del temporal.
-
-Las autoridades enviaron **10 barcos para rescatar a los residentes** y ordenaron a la **Gendarmería rumana que ayudara en las evacuaciones**. Los residentes del condado también recibirán agua y alimentos suficientes para una semana y podrán alojarse en casas modulares provisionales.
-
-Hasta ahora se conoce que cinco personas murieron y dos están desaparecidas. Hay 5 800 hogares afectados y 25 mil personas se quedaron sin electricidad.
-
-Inundaciones amenazan con sumergir la ciudad checa de Krnov
------------------------------------------------------------
-
-Las inundaciones en la **República Checa** sumergieron casi por completo la ciudad de **Krnov**, situada en el este y cerca de la frontera polaca. El **80%** de su territorio está bajo el agua, mientras las autoridades advierten de que ya es imposible evacuar y dependen de la ayuda [regional.](https://european-union.europa.eu/index_es "https://european-union.europa.eu/index_es")
-
-Krnov, con 23 mil habitantes, está en la región de Moravia-Silesa, en la confluencia de los ríos Opava y Opavice. Los niveles de agua de estos ríos aumentaron tras las precipitaciones registradas desde el jueves.
-
-El teniente de alcalde de Krnov, Miroslav Binar, declaró a la agencia de noticias checa CTK que enfrenta una catástrofe más grave que la inundación de 1997, la cual dejó 49 muertos y provocó daños millonarios.
-
-Hasta 100 mil bomberos ayudan en casi tres mil incidentes registrados en este país de Europa Central.
-
-Un muerto y dos mil evacuados en el suroeste de Polonia
--------------------------------------------------------
-
-Una persona falleció y casi dos mil personas fueron evacuadas en el suroeste de Polonia debido a las fuertes inundaciones en Baja Silesia y Opole, informó el primer ministro polaco, Donald Tusk.
-
-En el distrito de Kłodzko (en Baja Silesia, cerca de Chequia) ocurrió la primera muerte por ahogamiento, dijo el político liberal durante una rueda de prensa.
-
-Se trata de un hombre en la localidad de Krosnowice, pero los servicios de emergencia no pueden acceder a la localidad porque ésta está inundada, según la Policía local.
-
-El mandatario, que se desplazó a Kłodzko, explicó que se han tenido que evacuar a 1 600 residentes, pero advirtió que habrá “muchas más evacuaciones”. Lo más dramático se encuentra en el valle de Kłodzko, es decir, Stronie Śląskie y Lądek, añadió.
-
-El primer ministro pidió a los habitantes que no subestimen la amenaza y no se nieguen a evacuar.
-
-Austria califica de ‘inundación del siglo’
-------------------------------------------
-
-Austria declaró este domingo zona catastrófica el estado federado de Baja Austria, el más grande y poblado del país. Las fuertes lluvias que provocaron inundaciones históricas, forzando la evacuación de miles de personas y causando la muerte de un bombero.
-
-“Insto a todos los habitantes de Baja Austria en las regiones afectadas a prepararse para más lluvias e inundaciones, que permanezcan alerta y sigan las instrucciones de los servicios de emergencia. Esperamos desafíos de dimensiones históricas, especialmente en Waldviertel”, advirtió la gobernadora de Baja Austria, Johanna Mikl-Leitner, tras una sesión informativa.
-
-En Waldviertel, a unos 120 kilómetros al noroeste de Viena, las autoridades esperan la “inundación del siglo”, pues prevén que el río Kamp, afluente del Danubio, supere los niveles registrados en los últimos cien años, causando el desbordamiento del embalse de Ottenstein.
-
-Las inundaciones también están impactando en **Hungría** y **Eslovaquia.**
-
-Cuatro funcionarios de cárceles asesinados en menos de 15 días
-==============================================================
-
-Ante de los cuatro funcionarios asesinados, guías penitenciarios señalaron que estaban en la indefensión, en junio pasado.
---------------------------------------------------------------------------------------------------------------------------
-
-![Dos guías penitenciarias fueron asesinadas. Foto: Cortesía.](https://www.elcomercio.com/wp-content/uploads/2024/09/Guia-asesinadas.jpg)
-
-Cuatro funcionarios de cárceles fueron asesinados en menos de un mes, en Ecuador.
-
-Los guías penitenciarios advirtieron que estaban en la indefensión, en junio pasado.
-
-### Más noticias:
-
-* [¿La Directora de la Penitenciaría del Litoral asesinada tenía custodia?](https://www.elcomercio.com/actualidad/seguridad/directora-penitenciaria-litoral-asesinada-custodia.html "¿La Directora de la Penitenciaría del Litoral asesinada tenía custodia?")
-* [Lo que se sabe del asesinato de guías penitenciarias en Daule](https://www.elcomercio.com/actualidad/seguridad/lo-que-se-sabe-del-asesinato-de-guias-penitenciarias-en-daule.html "Lo que se sabe del asesinato de guías penitenciarias en Daule")
-* [Director de una cárcel fue asesinado en Lago Agrio](https://www.elcomercio.com/actualidad/seguridad/director-carcel-lago-agrio-asesinato.html "Director de una cárcel fue asesinado en Lago Agrio")
-
-Cuatro funcionarios de cárceles asesinados en menos de 15 días
---------------------------------------------------------------
-
-El sábado **31 de agosto** fue un día catastrófico para **dos guías penitenciarias**, víctimas de un ataque armado en la vía a Daule.
-
-Sicarios, que se trasladaban en moto, dispararon a las funcionarias del SNAI, cerca de las 18:45.
-
-Los asesinos les dispararon a la altura de la cárcel Regional.
-
-Tres días después, el **3 de septiembre**, bajo la misma modalidad de sicariato, mataron a otro funcionario en Lago Agrio, Sucumbíos.
-
-Esta vez se trataba de **Álex Guevara, director del Centro de Rehabilitación Social** de la provincia.
-
-Sicarios atacaron, con más de 20 disparos, un vehículo en el redondel del puente del río Aguarico.
-
-El cuerpo de la víctima mortal quedó en el interior del vehículo.
-
-El atacante usó un arma tipo fusil 5,56 y que en el lugar hallaron varios indicios balísticos, confirmó la Policía.
-
-Nueve días después de este tercer asesinato a funcionarios de cárceles, el **12 de septiembre**, sicarios mataron a otra directora.
-
-Se trataba de María Icaza, directora de la Penitenciaría del Litoral encargada.
-
-**María Daniela Icaza,** viajaba en el asiento del copiloto y murió mientras los servicios de emergencia las trasladaban al hospital.
-
-El incidente ocurrió sobre las 18:00.
-
-La Fiscalía y la Policía confirmaron que la funcionaria no contaba con custodia.
-
-Mientras, el hermano de la víctima dijo que nunca le dieron protección, pese a los pedidos y la peligrosidad del cargo que ocupaba; la Policía señaló que Icaza nunca pidió esa protección.
-
-Funcionarios de cárceles señalaron que estaban en la indefensión
-----------------------------------------------------------------
-
-En junio pasado, la **Asociación de Agentes Penitenciarios del Ecuador** volvió a denunciar la falta de garantías para ejercer su trabajo.
-
-Dijeron que no cuentan con armas y sus chalecos están caducados.
-
-Las declaraciones las hicieron luego de que cuatro guías penitenciarios trasladaron a tres presos de la cárcel El Inca hasta el hospital **Pablo Arturo Suárez**.
-
-En el trayecto, desconocidos dispararon en contra de la ambulancia.
-
-Como resultado, una **guía penitenciaria y una funcionaria del SNAI quedaron heridas**.
-
-Liga de Quito y Aucas cayeron y así está la tabla de posiciones en Liga Pro
-===========================================================================
-
-Liga de Quito sigue al frente de la tabla de posiciones de la Liga Pro pese a perder por goleada; Aucas cayó y sigue último
----------------------------------------------------------------------------------------------------------------------------
-
-![Liga de Quito sigue al frente de la tabla de posiciones de la Liga Pro pese a perder por goleada contra Imbabura.](https://www.elcomercio.com/wp-content/uploads/2024/09/ldu.jpg)
-
-En una sorprendente fecha 6 de la **Liga Pro** de Ecuador, **Imbabura SC** dio un golpe de autoridad al vencer por 4-0 a **Liga de Quito**, en el estadio **Olímpico de Ibarra.**
-
-Con esta victoria, el equipo ‘Gardenio’ no solo celebró un triunfo contundente, sino que también puso fin al invicto de los albos en la fase dos del torneo.
-
-Pese a la aplastante derrota, **LDU** sigue de líder en la **tabla de posiciones** de la Liga Pro.
-
-### Más noticias:
-
-* [Los partidos de la fecha 6 de la Liga Pro para el 14 de septiembre de 2024](https://www.elcomercio.com/deportes/futbol/partidos-fecha6-liga-pro-ecuador.html "Los partidos de la fecha 6 de la Liga Pro para el 14 de septiembre de 2024")
-* [Escandalosa goleada del Imbabura a Liga de Quito en Ibarra](https://www.elcomercio.com/deportes/futbol/goleada-imbabura-liga-quito-ibarra.html "Escandalosa goleada del Imbabura a Liga de Quito en Ibarra")
-* [Los jugadores de fútbol con los nombres más extravagantes](https://www.elcomercio.com/deportes/futbol/los-jugadores-de-futbol-con-los-nombres-mas-extravagantes.html "Los jugadores de fútbol con los nombres más extravagantes")
-
-Desde el inicio del partido, **Imbabura** mostró su dominio el 14 de septiembre del 2024. El delantero argentino **Luca Klimowicz** abrió el marcador a los 6 minutos con un potente remate.
-
-**Federico Paz** amplió la ventaja a los 22 minutos, y **Klimowicz** volvió a marcar a los 44 minutos. Para cerrar una primera mitad de ensueño, Leandro Pantoja convirtió un penal en el minuto 45+2, dejando el marcador 4-0 antes del descanso.
-
-Aunque Imbabura se quedó con un jugador menos tras la expulsión de Erick Mendoza a los 70 minutos, Liga de Quito no logró descontar, evidenciando las dificultades defensivas del equipo dirigido por [Pablo ‘Vitamina’ Sánchez.](https://es.wikipedia.org/wiki/Pablo_S%C3%A1nchez)
-
-Liga y la tabla de posiciones
------------------------------
-
-Con esta derrota, **Liga de Quito** mantiene el primer lugar en la tabla con 15 puntos, pero ahora enfrenta una competencia más cercana.
-
-En la sexta etapa de la fase dos, **Orense** ocupa el segundo lugar con 13 puntos, seguido por Independiente del Valle y Barcelona SC con 12 puntos.
-
-Así está la tabla de posiciones de la Liga Pro:
-
-1. **Liga de Quito, 15 puntos**
-2. Orense, 13
-3. IDV, 12
-4. Barcelona SC, 12
-5. **Mushuc Runa, 11**
-6. Católica, 10
-7. Macará, 10
-8. El Nacional, 10
-9. Delfín, 8
-10. Imbabura, 7
-11. Técnico Universitario, 7
-12. **Libertad, 7**
-13. Emelec, 3
-14. Deportivo Cuenca, 1
-15. **Cumbayá, 1**
-16. Aucas, 1
-
-El Nacional ganó de local
--------------------------
-
-En otro partido de la jornada, El Nacional se impuso 2-1 sobre Cumbayá en el estadio Olímpico Atahualpa de Quito.
-
-Gabriel Cortez y Jorge Ordóñez anotaron para el equipo militar, mientras que Fernando Delgado descontó para Cumbayá.
-
-Con este triunfo, El Nacional se posiciona en el sexto lugar con 10 puntos, y se prepara para enfrentar a Liga de Quito en un clásico crucial en la próxima fecha.
-
-Aucas perdió de local
----------------------
-
-Por otro lado, Aucas fue superado por el Mushuc Runa en el Gonzalo Pozo y sigue en una mala racha en el último lugar de la tabla de posiciones.
-
-Mathías Acuña y Stiven Tapiero anotaron por el ‘Ponchito’, mientras Carlos Rolón descontó por el ‘Papá’ Aucas.
-
-La campaña del **Aucas** es pésima en la segunda etapa. Solo empató con El Nacional y ha perdido contra Orense, Liga de Quito, Técnico Universitario, IDV y ahora ante Mushuc Runa.
-
-Los hinchas orientales están afligidos por el mal momento del club.
-
-La lucha por mantenerse en la Serie A se intensifica a medida que avanza la segunda fase del torneo ecuatoriano.
