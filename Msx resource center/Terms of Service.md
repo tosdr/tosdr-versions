@@ -140,10 +140,10 @@ MSX Music player
 
 Latest reactions
 
+* [MSX UK fun day](https://www.msx.org/news/en/msx-uk-fun-day "MSX UK fun day")
+* [HD Menu 3.2](https://www.msx.org/downloads/utilities/msx-dos-2/hd-menu-32 "HD Menu 3.2")
 * [HIC board project](https://www.msx.org/news/en/hic-board-project-has-been-released "HIC board project")
 * [MSX Fair Nijmegen 2025](https://www.msx.org/news/en/march-8-2025-20th-msx-fair-nijmegen "MSX Fair Nijmegen 2025")
-* [HD Menu 3.2](https://www.msx.org/downloads/utilities/msx-dos-2/hd-menu-32 "HD Menu 3.2")
-* [MSX UK fun day](https://www.msx.org/news/en/msx-uk-fun-day "MSX UK fun day")
 * [Singular Stone for MSX2 released](https://www.msx.org/news/software/en/singular-stone-for-msx2-released "Singular Stone for MSX2 released")
 * [SofaRun 8.0 has been released](https://www.msx.org/news/en/sofarun-80-has-been-released "SofaRun 8.0 has been released")
 * [Málaga MSX meeting 2024](https://www.msx.org/news/events/en/m%C3%A1laga-msx-meeting-2024 "Málaga MSX meeting 2024")
@@ -154,23 +154,24 @@ Latest reactions
 Latest forum posts
 
 * [V9990 incomplete initialization on ASM Ghost'n'Goblins ?](https://www.msx.org/forum/msx-talk/software/v9990-incomplete-initialization-on-asm-ghostngoblins?page=4 "V9990 incomplete initialization on ASM Ghost'n'Goblins ?")
-* [The Big MegaFlashROM SCC+ SD Topic](https://www.msx.org/forum/msx-talk/hardware/big-megaflashrom-scc-sd-topic?page=99 "The Big MegaFlashROM SCC+ SD Topic")
+* [Cannot write .dsk files to real floppy on MSX](https://www.msx.org/forum/msx-talk/hardware/cannot-write-dsk-files-to-real-floppy-on-msx?page=2 "Cannot write .dsk files to real floppy on MSX")
+* [Cannot see symbols in the openMSX debugger](https://www.msx.org/forum/msx-talk/openmsx/cannot-see-symbols-in-the-openmsx-debugger "Cannot see symbols in the openMSX debugger")
 * [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=49 "WonderTANG! Who wants to juice up your MSX?")
+* [The Big MegaFlashROM SCC+ SD Topic](https://www.msx.org/forum/msx-talk/hardware/big-megaflashrom-scc-sd-topic?page=99 "The Big MegaFlashROM SCC+ SD Topic")
 * [Penguin Adventure Remake - pre Alpha](https://www.msx.org/forum/msx-talk/general-discussion/penguin-adventure-remake-pre-alpha "Penguin Adventure Remake - pre Alpha")
 * [MSX2 - RBG Video output not working](https://www.msx.org/forum/msx-talk/hardware/msx2-rbg-video-output-not-working?page=1 "MSX2 - RBG Video output not working")
 * [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=117 "Please help testing upcoming openMSX release!")
-* [Cannot write .dsk files to real floppy on MSX](https://www.msx.org/forum/msx-talk/hardware/cannot-write-dsk-files-to-real-floppy-on-msx?page=1 "Cannot write .dsk files to real floppy on MSX")
 * [Game development: MSX vs Amiga](https://www.msx.org/forum/msx-talk/general-discussion/game-development-msx-vs-amiga?page=3 "Game development: MSX vs Amiga")
 * [GORILLA.BAS for MSX](https://www.msx.org/forum/msx-talk/software/gorillabas-for-msx "GORILLA.BAS for MSX")
 * [RSS feed ids](https://www.msx.org/forum/msx-talk/msx-resource-center/rss-feed-ids "RSS feed ids")
 * [Gradius / Nemesis with SCC and smoothscroll without arcade graphics?](https://www.msx.org/forum/msx-talk/software/gradius-nemesis-with-scc-and-smoothscroll-without-arcade-graphics?page=1 "Gradius / Nemesis with SCC and smoothscroll without arcade graphics?")
 * [UK MSX FUN day!](https://www.msx.org/forum/msx-talk/general-discussion/uk-msx-fun-day "UK MSX FUN day! ")
-* [MSX0 Discussion](https://www.msx.org/forum/msx-talk/hardware/msx0-discussion "MSX0 Discussion")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
 News headlines
 
+* [MSX and Networking book crowdfunding](https://www.msx.org/news/en/new-book-about-msx-and-networking-crowdfunding-campaign "MSX and Networking book crowdfunding")
 * [MSX UK fun day](https://www.msx.org/news/en/msx-uk-fun-day "MSX UK fun day")
 * [Hype OPL3](https://www.msx.org/news/en/hypeopl3 "Hype OPL3")
 * [Fruit Mazes and Pallo](https://www.msx.org/news/en/pallo-a-new-game-for-your-msx2 "Fruit Mazes and Pallo")
@@ -183,7 +184,6 @@ News headlines
 * [MSXdev24 #09 Wizsoul](https://www.msx.org/news/challenges/en/msxdev24-09 "MSXdev24 #09 Wizsoul")
 * [Nestor80 1.3 released](https://www.msx.org/news/en/nestor80-13-released "Nestor80 1.3 released")
 * [MSXdev24 #08 Grazers](https://www.msx.org/news/challenges/en/msxdev24-08-grazers "MSXdev24 #08 Grazers")
-* [MSXdev24 #07 Sam.Pr](https://www.msx.org/news/challenges/en/msxdev24-07-sampr "MSXdev24 #07 Sam.Pr")
 
 [](https://www.msx.org/archive/)[More news articles](https://www.msx.org/archive/)
 
