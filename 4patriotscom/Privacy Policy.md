@@ -161,7 +161,7 @@ We Champion Freedom & Self-Reliance
         
         ###### Patriot Pure Ultimate Water Filtration System & Nanomesh Filter
         
-        221 reviews](https://4patriots.com/products/patriot-pure-ultimate-water-filtration-system)
+        222 reviews](https://4patriots.com/products/patriot-pure-ultimate-water-filtration-system)
         
         [![ 1 Patriot Pure Nanomesh Water Filter](//4patriots.com/cdn/shop/files/1-PS-ARRAY-SHOP-ARRAY-NAN-_24x1024_1_360x.png?v=1694450490)
         
@@ -186,7 +186,7 @@ We Champion Freedom & Self-Reliance
         
         ###### StarFire Portable Camp Stove
         
-        93 reviews](https://4patriots.com/products/starfire-camp-stove)
+        94 reviews](https://4patriots.com/products/starfire-camp-stove)
         
         [![ Freedom fridge](//4patriots.com/cdn/shop/products/FRIDGE-1_1_360x.jpg?v=1642003425)
         
