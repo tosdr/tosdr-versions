@@ -95,8 +95,8 @@
     
 * [Gift Cards](https://waxcenter.com/pages/gift-cards)
 * [Get $10](https://waxcenter.com/pages/refer-a-friend?traffic_source=mobile_menu)
-* [Book Now](https://reservations.waxcenter.com/webstoreNew/user/signIn)
-* ![](//waxcenter.com/cdn/shop/t/364/assets/Black.png?v=9767089384246187071725892490) First Wax Free
+* [Book Appointment](https://reservations.waxcenter.com/webstoreNew/user/signIn)
+* ![](//waxcenter.com/cdn/shop/t/365/assets/Black.png?v=9767089384246187071726493569) First Wax Free
 
 [Log in](https://waxcenter.com/account/login)
 
@@ -186,6 +186,8 @@
 Cart
 
 [Cart](https://waxcenter.com/cart)
+
+[BOOK APPOINTMENT 🠦](https://locations.waxcenter.com/)
 
 Refund policy
 =============
@@ -292,5 +294,3 @@ Sign-up now to reserve your birthday treat and to receive exclusive invitations,
 Do Not Sell My Personal Information
 
 * Choosing a selection results in a full page refresh.
-
-[Book Now](https://locations.waxcenter.com/)
