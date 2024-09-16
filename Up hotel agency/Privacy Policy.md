@@ -1,3 +1,5 @@
+GOT HERE Array ( \[strictly\_necessary\] => Array ( ) \[functional\] => Array ( ) \[performance\_analytics\] => Array ( \[0\] => Array ( \[0\] => legacy \[1\] => \[2\] => ) ) \[advertisement\_targeting\] => Array ( ) )   Privacy Policy | UP Hotel Agency                            
+
 ### This website uses cookies to improve your experience
 
 We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept”, you consent to the use of ALL the cookies.
@@ -15,13 +17,17 @@ This website uses cookies to improve your experience while you navigate through 
 
 [View MoreShow Less](#)
 
-[View our Cookie Policy](https://uphotel.agency/cookie-policy/)[Accept All](#)
+[View our Cookie Policy](https://uphotel.agency/cookie-policy/)
+
+Accept All
 
 [Strictly Necessary](#)
 
 Always Enabled
 
 We use necessary cookies to ensure our website works properly and provide essential functionalities and security features. These cookies do not collect any personal information and are always enabled. By continuing to use our website, you agree to our use of these cookies.
+
+V:3 \- 2024-09-13 07:49:58am
 
 [Performance and Analytics](#)
 
@@ -31,6 +37,155 @@ Enabled
 
 To enhance user experience, we use performance and analytical cookies to understand and analyze the key performance indexes of our website. Performance cookies help us deliver better user experiences by tracking metrics such as load times and response times. Analytical cookies help us understand how visitors interact with our website by providing information on metrics like the number of visitors, bounce rate, traffic source, and more.
 
+* Cookie
+    
+    \_\_hssc
+    
+* Duration
+    
+    30 minutes
+    
+* Description
+    
+    This cookie keeps track of sessions.
+    
+* Vendor
+    
+    Hubspot
+    
+* Privacy Policy
+    
+    [https://legal.hubspot.com/privacy-policy](https://legal.hubspot.com/privacy-policy)
+    
+
+* Cookie
+    
+    \_ga\_\*ID\*
+    
+* Duration
+    
+    2 years
+    
+* Description
+    
+    ID used to identify users
+    
+* Vendor
+    
+    Google Analytics
+    
+* Privacy Policy
+    
+    [https://policies.google.com/privacy](https://policies.google.com/privacy)
+    
+
+* Cookie
+    
+    \_\_hstc
+    
+* Duration
+    
+    13 months
+    
+* Description
+    
+    The main cookie for tracking visitors.
+    
+* Vendor
+    
+    Hubspot
+    
+* Privacy Policy
+    
+    [https://legal.hubspot.com/privacy-policy](https://legal.hubspot.com/privacy-policy)
+    
+
+* Cookie
+    
+    hubspotutk
+    
+* Duration
+    
+    13 months
+    
+* Description
+    
+    This cookie keeps track of a visitor's identity. It is passed to HubSpot on form submission and used when deduplicating contacts.
+    
+* Vendor
+    
+    Hubspot
+    
+* Privacy Policy
+    
+    [https://legal.hubspot.com/privacy-policy](https://legal.hubspot.com/privacy-policy)
+    
+
+* Cookie
+    
+    \_ga
+    
+* Duration
+    
+    2 years
+    
+* Description
+    
+    ID used to identify users
+    
+* Vendor
+    
+    Google Analytics
+    
+* Privacy Policy
+    
+    [https://policies.google.com/privacy](https://policies.google.com/privacy)
+    
+
+* Cookie
+    
+    \_\_hssrc
+    
+* Duration
+    
+    session
+    
+* Description
+    
+    Whenever HubSpot changes the session cookie, this cookie is also set to determine if the visitor has restarted their browser.
+    
+* Vendor
+    
+    Hubspot
+    
+* Privacy Policy
+    
+    [https://legal.hubspot.com/privacy-policy](https://legal.hubspot.com/privacy-policy)
+    
+
+* Cookie
+    
+    \_gcl\_au
+    
+* Duration
+    
+    3 months
+    
+* Description
+    
+    Used by Google AdSense for experimenting with advertisement efficiency across websites using their services.
+    
+* Vendor
+    
+    Google
+    
+* Privacy Policy
+    
+    [https://policies.google.com/privacy](https://policies.google.com/privacy)
+    
+
+V:3 \- 2024-09-13 07:49:58am
+
 [Advertisement and Targeting](#)
 
 Disabled
@@ -39,7 +194,13 @@ Enabled
 
 To personalize your online experience, we use advertisement cookies that track your activity across websites and gather information to display relevant ads and marketing campaigns. These cookies help us tailor our advertising to your interests and preferences.
 
+V:3 \- 2024-09-13 07:49:58am
+
 [Reject All](#) [Accept Selected](#)
+
+[Powered by
+
+UP Hotel Agency](https://uphotel.agency/)
 
 [Skip to content](#scroll-target)
 
