@@ -30,6 +30,8 @@ Menu
     
 * [Photography](https://apnews.com/photography)
     
+* [AP Investigations](https://apnews.com/hub/ap-investigations/)
+    
 * [Climate](https://apnews.com/climate-and-environment)
     
 * [Health](https://apnews.com/health)
@@ -81,7 +83,6 @@ Menu
     * [Sports](https://apnews.com/sports)
         
         * [MLB](https://apnews.com/hub/mlb)
-        * [Paralympic Games](https://apnews.com/hub/paralympic-games)
         * [NFL](https://apnews.com/hub/nfl)
         * [College football](https://apnews.com/hub/college-football)
         * [WNBA](https://apnews.com/hub/wnba-basketball)
@@ -117,6 +118,8 @@ Menu
     * [Newsletters](https://apnews.com/newsletters)
         
     * [Photography](https://apnews.com/photography)
+        
+    * [AP Investigations](https://apnews.com/hub/ap-investigations/)
         
     * [Climate](https://apnews.com/climate-and-environment)
         
@@ -176,7 +179,6 @@ Show Search
 * [Sports](https://apnews.com/sports)
     
     * [MLB](https://apnews.com/hub/mlb)
-    * [Paralympic Games](https://apnews.com/hub/paralympic-games)
     * [NFL](https://apnews.com/hub/nfl)
     * [College football](https://apnews.com/hub/college-football)
     * [WNBA](https://apnews.com/hub/wnba-basketball)
@@ -212,6 +214,8 @@ Show Search
 * [Newsletters](https://apnews.com/newsletters)
     
 * [Photography](https://apnews.com/photography)
+    
+* [AP Investigations](https://apnews.com/hub/ap-investigations/)
     
 * [Climate](https://apnews.com/climate-and-environment)
     
@@ -273,15 +277,15 @@ Show Search
 * Copyright 2024 The Associated Press. All Rights Reserved.
     
 
+[Live updates: Donald Trump](https://apnews.com/live/trump-shooting-west-palm-beach-updates)
+
+[Live updates: Emmy Awards](https://apnews.com/live/emmy-awards-2024-winners-red-carpet-updates)
+
+[List of Emmy winners](https://apnews.com/article/2024-emmy-awards-winners-list-f5c4451fae5cf7d702281aaa41f9177a)
+
+[European floods](https://apnews.com/article/floods-central-europe-289648d14b39da5883b9f48fffa2d817)
+
 [Israel-Hamas war](https://apnews.com/projects/west-bank-palestinian-teenagers-israel/)
-
-[Tua Tagovailoa concussion](https://apnews.com/article/tua-tagovailoa-injury-a8cc153d3ac902be42b710a187cea50e)
-
-[Chad McQueen dies](https://apnews.com/article/chad-mcqueen-dead-obit-46564c50b5cefee553273ad0e932318b)
-
-[Mortgage rates](https://apnews.com/article/mortgage-rates-housing-interest-financing-home-loan-8570c997a844845d08eb123ab7aac5c2)
-
-[F1 Azerbaijan](https://apnews.com/article/f1-azerbaijan-grand-prix-max-verstappen-a99d4e56e36e782933a32f2e797f295b)
 
 The Associated Press
 ====================
