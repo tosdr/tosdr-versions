@@ -315,6 +315,7 @@ About
 * [About Us](https://www.easybreathe.com/pages/about-us)
 * [Privacy Policy](https://www.easybreathe.com/policies/privacy-policy)
 * [Terms of Service](https://www.easybreathe.com/policies/terms-of-service)
+* [Consumer Health Data Privacy Notice](https://easybreathe.com/pages/consumer-health-data-privacy-notice)
 
 Contact Us
 
