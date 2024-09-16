@@ -85,11 +85,11 @@ service@carpetcleaningnyc.com
 
 #### Recent Posts
 
+* [The Clean Sweep: Unveiling the Most Maintenance-Friendly Carpet](https://carpetcleaningnyc.com/the-clean-sweep-unveiling-the-most-maintenance-friendly-carpet/)
 * [Outdoor Furniture Cleaning Service](https://carpetcleaningnyc.com/outdoor-furniture-cleaning-service/)
 * [Rug Shearing Service Brooklyn](https://carpetcleaningnyc.com/rug-shearing)
 * [Berber Rug Cleaning New York City](https://carpetcleaningnyc.com/berber-rug-cleaning/)
 * [Ruggable Rug Cleaning NYC](https://carpetcleaningnyc.com/ruggable-rug-cleaning-nyc/)
-* [Private Jet Cleaning Service](https://carpetcleaningnyc.com/private-jet-cleaning-service/)
 
 #### Our Locations
 
@@ -137,11 +137,11 @@ Phone:(212) 658-0618
 
 #### Recent Posts
 
+* [The Clean Sweep: Unveiling the Most Maintenance-Friendly Carpet](https://carpetcleaningnyc.com/the-clean-sweep-unveiling-the-most-maintenance-friendly-carpet/)
 * [Outdoor Furniture Cleaning Service](https://carpetcleaningnyc.com/outdoor-furniture-cleaning-service/)
 * [Rug Shearing Service Brooklyn](https://carpetcleaningnyc.com/rug-shearing)
 * [Berber Rug Cleaning New York City](https://carpetcleaningnyc.com/berber-rug-cleaning/)
 * [Ruggable Rug Cleaning NYC](https://carpetcleaningnyc.com/ruggable-rug-cleaning-nyc/)
-* [Private Jet Cleaning Service](https://carpetcleaningnyc.com/private-jet-cleaning-service/)
 
 #### BUSINESS HOURS
 
