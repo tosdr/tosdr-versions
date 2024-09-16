@@ -74,6 +74,7 @@
     * [Agency partners](https://www.appsflyer.com/solutions/agencies/)
     * [Partner Program](https://www.appsflyer.com/solutions/partner-program/)
     
+    * [Interactive product tours](https://www.appsflyer.com/interactive-product-tours/)
     * [Customer stories](https://www.appsflyer.com/customers/)
     * [The AppsFlyer difference](https://www.appsflyer.com/appsflyer-advantage/)
     
