@@ -20,7 +20,7 @@ privacy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[September 11, 2024](https://www.japantimes.co.jp/archive/2024/09/11/ "archive page")
+[September 17, 2024](https://www.japantimes.co.jp/archive/2024/09/17/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -463,45 +463,45 @@ Revised June 1, 2022
 
 * Editors' Picks
 
-[Small Hokkaido town ranked most comfortable place to live in Japan](https://www.japantimes.co.jp/news/2024/09/09/japan/society/comfortable-city-survey/ "Small Hokkaido town ranked most comfortable place to live in Japan")
+[Japan's elderly population grows to record 36.25 million](https://www.japantimes.co.jp/news/2024/09/15/japan/society/japans-elderly-population-grows/ "Japan's elderly population grows to record 36.25 million")
 
-  [![Asahidake in Daisetsuzan is located in the town of Higashikawa, Hokkaido, which ranked as the most comfortable municipality in 2024.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/09/420427.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Asahidake in Daisetsuzan is located in the town of Higashikawa, Hokkaido, which ranked as the most comfortable municipality in 2024.")](https://www.japantimes.co.jp/news/2024/09/09/japan/society/comfortable-city-survey/ "Small Hokkaido town ranked most comfortable place to live in Japan")
+  [![The proportion of people aged 65 and over has risen since the 1950s and is expected to hit 34.8% by 2040, when the second baby boomers (born 1971-1974) will join that group.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/15/421835.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The proportion of people aged 65 and over has risen since the 1950s and is expected to hit 34.8% by 2040, when the second baby boomers (born 1971-1974) will join that group.")](https://www.japantimes.co.jp/news/2024/09/15/japan/society/japans-elderly-population-grows/ "Japan's elderly population grows to record 36.25 million")
 
-[Nippon Ishin calls on Hyogo governor to resign over bullying claims](https://www.japantimes.co.jp/news/2024/09/09/japan/politics/nippon-ishin-hyogo-saito/ "Nippon Ishin calls on Hyogo governor to resign over bullying claims")
+['Shogun' becomes first non-English-language winner of best drama Emmy](https://www.japantimes.co.jp/culture/2024/09/16/tv-streaming/emmy-awards-shogun/ "'Shogun' becomes first non-English-language winner of best drama Emmy")
 
-  [![Hyogo Gov. Motohiko Saito, accused of workplace bullying, testifies to an investigative panel in Kobe on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/09/420473.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Hyogo Gov. Motohiko Saito, accused of workplace bullying, testifies to an investigative panel in Kobe on Friday.")](https://www.japantimes.co.jp/news/2024/09/09/japan/politics/nippon-ishin-hyogo-saito/ "Nippon Ishin calls on Hyogo governor to resign over bullying claims")
+  [![Japanese actress Anna Sawai, winner of the outstanding lead actress in a drama series award for "Shogun," and Japanese actor Hiroyuki Sanada, winner of the outstanding lead actor in a drama series award for the show, pose in the press room during the 76th Emmy Awards in Los Angeles on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/16/421939.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Japanese actress Anna Sawai, winner of the outstanding lead actress in a drama series award for "Shogun," and Japanese actor Hiroyuki Sanada, winner of the outstanding lead actor in a drama series award for the show, pose in the press room during the 76th Emmy Awards in Los Angeles on Sunday.")](https://www.japantimes.co.jp/culture/2024/09/16/tv-streaming/emmy-awards-shogun/ "'Shogun' becomes first non-English-language winner of best drama Emmy")
 
-[Updated Meiji Jingu Gaien redevelopment plan to keep more trees](https://www.japantimes.co.jp/news/2024/09/09/japan/society/jingu-gaien-redevelopment-plan-changes/ "Updated Meiji Jingu Gaien redevelopment plan to keep more trees")
+[Japan jumps to No. 2, from sixth place, in Best Countries index](https://www.japantimes.co.jp/business/2024/09/12/economy/japan-best-country/ "Japan jumps to No. 2, from sixth place, in Best Countries index")
 
-  [![Redevelopment of the Meiji Jingu Gaien district has trees in the area marked according to their status — trees marked in red were to be cut down in the original plan while those in blue were to be transplanted. In the updated plan, trees marked in red will no longer be felled, and those in blue will remain where they are. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/09/420536.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Redevelopment of the Meiji Jingu Gaien district has trees in the area marked according to their status — trees marked in red were to be cut down in the original plan while those in blue were to be transplanted. In the updated plan, trees marked in red will no longer be felled, and those in blue will remain where they are. ")](https://www.japantimes.co.jp/news/2024/09/09/japan/society/jingu-gaien-redevelopment-plan-changes/ "Updated Meiji Jingu Gaien redevelopment plan to keep more trees")
+  [![Pedestrians cross an intersection in the Shibuya district of Tokyo. Japan has experienced a postpandemic travel boom, with tourists pouring back in after restrictions closed the country’s borders to travelers.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/12/421307.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Pedestrians cross an intersection in the Shibuya district of Tokyo. Japan has experienced a postpandemic travel boom, with tourists pouring back in after restrictions closed the country’s borders to travelers.")](https://www.japantimes.co.jp/business/2024/09/12/economy/japan-best-country/ "Japan jumps to No. 2, from sixth place, in Best Countries index")
 
-[Djokovic shut out as young guns usher in new Grand Slam era](https://www.japantimes.co.jp/sports/2024/09/10/tennis/djokovic-new-era/ "Djokovic shut out as young guns usher in new Grand Slam era")
+[South Korea is facing deepfake porn crisis](https://www.japantimes.co.jp/commentary/2024/09/13/world/south-korea-deepfake-porn-crisis/ "South Korea is facing deepfake porn crisis")
 
-  [![Novak Djokovic reacts during his third-round match against Alexei Popyrin during the U.S. Open in New York on Aug. 30.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/10/420714.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Novak Djokovic reacts during his third-round match against Alexei Popyrin during the U.S. Open in New York on Aug. 30.")](https://www.japantimes.co.jp/sports/2024/09/10/tennis/djokovic-new-era/ "Djokovic shut out as young guns usher in new Grand Slam era")
+  [![Activists hold up symbolic eye masks during a protest against deepfake porn in Seoul on Aug. 30. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/13/420717.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Activists hold up symbolic eye masks during a protest against deepfake porn in Seoul on Aug. 30. ")](https://www.japantimes.co.jp/commentary/2024/09/13/world/south-korea-deepfake-porn-crisis/ "South Korea is facing deepfake porn crisis")
 
-[Japan’s Rapidus seeks another ¥100 billion in chipmaking push](https://www.japantimes.co.jp/business/2024/09/10/companies/rapidus-more-investment/ "Japan’s Rapidus seeks another ¥100 billion in chipmaking push")
+[Floods bring travel chaos and damage across central Europe](https://www.japantimes.co.jp/news/2024/09/16/world/travel-damage-european-floods/ "Floods bring travel chaos and damage across central Europe")
 
-  [![Rapidus' semiconductor foundry construction site in Chitose, Hokkaido](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/10/420687.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Rapidus' semiconductor foundry construction site in Chitose, Hokkaido")](https://www.japantimes.co.jp/business/2024/09/10/companies/rapidus-more-investment/ "Japan’s Rapidus seeks another ¥100 billion in chipmaking push")
+  [![A road is flooded after heavy rainfall in the municipality of Neulengbach, in northeast Austria, on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/16/421899.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A road is flooded after heavy rainfall in the municipality of Neulengbach, in northeast Austria, on Sunday.")](https://www.japantimes.co.jp/news/2024/09/16/world/travel-damage-european-floods/ "Floods bring travel chaos and damage across central Europe")
 
-[Unpacking Japan’s messy leadership election](https://www.japantimes.co.jp/commentary/2024/09/08/japan/ldp-presidential-election-longform/ "Unpacking Japan’s messy leadership election")
+[Chris Broad's new bar puts cocktails first, YouTube second](https://www.japantimes.co.jp/life/2024/09/15/food-drink/lost-bar-chris-broad-abroad-in-japan-shibuya/ "Chris Broad's new bar puts cocktails first, YouTube second")
 
-  [![The Liberal Democratic Party's presidential race is expected to have a record number of candidates.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/09/420103.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The Liberal Democratic Party's presidential race is expected to have a record number of candidates.")](https://www.japantimes.co.jp/commentary/2024/09/08/japan/ldp-presidential-election-longform/ "Unpacking Japan’s messy leadership election")
+  [![A self-proclaimed lover of great cocktails, YouTuber Chris Broad says his new Shibuya watering hole is more a place to get yourself a solid drink than it is anything related to his social media career.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/13/421419.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A self-proclaimed lover of great cocktails, YouTuber Chris Broad says his new Shibuya watering hole is more a place to get yourself a solid drink than it is anything related to his social media career.")](https://www.japantimes.co.jp/life/2024/09/15/food-drink/lost-bar-chris-broad-abroad-in-japan-shibuya/ "Chris Broad's new bar puts cocktails first, YouTube second")
 
-[iPhone 16 to land in Japan without Apple Intelligence](https://www.japantimes.co.jp/business/2024/09/10/companies/iphone-16-apple-intelligence-japan/ "iPhone 16 to land in Japan without Apple Intelligence ") 
+[LDP presidential hopefuls outline approach to U.S. and China concerns](https://www.japantimes.co.jp/news/2024/09/15/japan/politics/ldp-presidential-hopefuls-us-china/ "LDP presidential hopefuls outline approach to U.S. and China concerns")
 
-  [![Apple CEO Tim Cook unveils the iPhone 16 at the Steve Jobs Theater on the company's campus in Cupertino, California, on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/10/420815.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Apple CEO Tim Cook unveils the iPhone 16 at the Steve Jobs Theater on the company's campus in Cupertino, California, on Monday.")](https://www.japantimes.co.jp/business/2024/09/10/companies/iphone-16-apple-intelligence-japan/ "iPhone 16 to land in Japan without Apple Intelligence ")
+  [![Candidates for Japan's ruling Liberal Democratic Party presidential election stand together onstage at the Japan National Press Club in Tokyo on Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/14/421694.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Candidates for Japan's ruling Liberal Democratic Party presidential election stand together onstage at the Japan National Press Club in Tokyo on Saturday.")](https://www.japantimes.co.jp/news/2024/09/15/japan/politics/ldp-presidential-hopefuls-us-china/ "LDP presidential hopefuls outline approach to U.S. and China concerns")
 
-[Small Hokkaido town ranked most comfortable place to live in Japan](https://www.japantimes.co.jp/news/2024/09/09/japan/society/comfortable-city-survey/ "Small Hokkaido town ranked most comfortable place to live in Japan")
+[Tokyo’s top fashion showcase pushes rising stars to the world stage](https://www.japantimes.co.jp/life/2024/09/14/style-design/rakuten-fashion-week-tokyo-2024/ "Tokyo’s top fashion showcase pushes rising stars to the world stage")
 
-  [![Asahidake in Daisetsuzan is located in the town of Higashikawa, Hokkaido, which ranked as the most comfortable municipality in 2024.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/09/420427.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Asahidake in Daisetsuzan is located in the town of Higashikawa, Hokkaido, which ranked as the most comfortable municipality in 2024.")](https://www.japantimes.co.jp/news/2024/09/09/japan/society/comfortable-city-survey/ "Small Hokkaido town ranked most comfortable place to live in Japan")
+  [![A model displays a creation by Japanese designer Norio Surikabe during a runway show on Sept. 6 for the latest edition of Rakuten Fashion Week Tokyo.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/13/420996.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A model displays a creation by Japanese designer Norio Surikabe during a runway show on Sept. 6 for the latest edition of Rakuten Fashion Week Tokyo.")](https://www.japantimes.co.jp/life/2024/09/14/style-design/rakuten-fashion-week-tokyo-2024/ "Tokyo’s top fashion showcase pushes rising stars to the world stage")
 
-[Updated Meiji Jingu Gaien redevelopment plan to keep more trees](https://www.japantimes.co.jp/news/2024/09/09/japan/society/jingu-gaien-redevelopment-plan-changes/ "Updated Meiji Jingu Gaien redevelopment plan to keep more trees")
+[New mouse models can boost Japan's drug development: National Cancer Center](https://www.japantimes.co.jp/news/2024/09/13/japan/science-health/cancer-drug-development/ "New mouse models can boost Japan's drug development: National Cancer Center")
 
-  [![Redevelopment of the Meiji Jingu Gaien district has trees in the area marked according to their status — trees marked in red were to be cut down in the original plan while those in blue were to be transplanted. In the updated plan, trees marked in red will no longer be felled, and those in blue will remain where they are. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/09/420536.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Redevelopment of the Meiji Jingu Gaien district has trees in the area marked according to their status — trees marked in red were to be cut down in the original plan while those in blue were to be transplanted. In the updated plan, trees marked in red will no longer be felled, and those in blue will remain where they are. ")](https://www.japantimes.co.jp/news/2024/09/09/japan/society/jingu-gaien-redevelopment-plan-changes/ "Updated Meiji Jingu Gaien redevelopment plan to keep more trees")
+  [![Hiroyuki Mano, director of the National Cancer Center Japan's (NCC) research institute, explains  on Wednesday the use of mice bearing patients' cancer tissues to screen drug candidates for their efficacy.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/13/421474.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Hiroyuki Mano, director of the National Cancer Center Japan's (NCC) research institute, explains  on Wednesday the use of mice bearing patients' cancer tissues to screen drug candidates for their efficacy.")](https://www.japantimes.co.jp/news/2024/09/13/japan/science-health/cancer-drug-development/ "New mouse models can boost Japan's drug development: National Cancer Center")
 
-[U.K. envoy to Japan pushes back on Indo-Pacific disengagement concerns](https://www.japantimes.co.jp/news/2024/09/09/japan/politics/uk-japan-ambassador-longbottom-interview/ "U.K. envoy to Japan pushes back on Indo-Pacific disengagement concerns")
+[Scientists win Ig Nobel for discovering anal breathing in mammals](https://www.japantimes.co.jp/news/2024/09/13/japan/science-health/ig-nobel-prize-winner/ "Scientists win Ig Nobel for discovering anal breathing in mammals")
 
-  [![U.K. Ambassador to Japan Julia Longbottom says the Indo-Pacific region offers a unique opportunity to not only tackle shared security concerns but also to generate new sources of economic growth.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/09/420383.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "U.K. Ambassador to Japan Julia Longbottom says the Indo-Pacific region offers a unique opportunity to not only tackle shared security concerns but also to generate new sources of economic growth.")](https://www.japantimes.co.jp/news/2024/09/09/japan/politics/uk-japan-ambassador-longbottom-interview/ "U.K. envoy to Japan pushes back on Indo-Pacific disengagement concerns")
+  [![Takanori Takebe (behind the lectern) speaks after his team of researchers and he were awarded the Ig Nobel Prize in physiology at the Massachusetts Institute of Technology in Cambridge, Massachusetts, on Thursday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/13/421513.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Takanori Takebe (behind the lectern) speaks after his team of researchers and he were awarded the Ig Nobel Prize in physiology at the Massachusetts Institute of Technology in Cambridge, Massachusetts, on Thursday.")](https://www.japantimes.co.jp/news/2024/09/13/japan/science-health/ig-nobel-prize-winner/ "Scientists win Ig Nobel for discovering anal breathing in mammals")
 
 Podcast
 -------
@@ -522,9 +522,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[Sasakawa works for a sustainable blue economy](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
+[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
-[![Sasakawa works for a sustainable blue economy](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_01_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
+[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -564,17 +564,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Harris and Trump to clash in high-stakes presidential debate](https://www.japantimes.co.jp/news/2024/09/11/world/politics/us-presidential-debate-harris-trump/ "Harris and Trump to clash in high-stakes presidential debate")
+[Sri Lanka's leftist leader turns from bullets to ballots](https://www.japantimes.co.jp/news/2024/09/16/asia-pacific/politics/sri-lanka-leftist-candidate/ "Sri Lanka's leftist leader turns from bullets to ballots")
 
-1 hours ago
+6 hours ago
 
-[Mitsubishi Electric develops multilingual translation system for meetings](https://www.japantimes.co.jp/business/2024/09/10/companies/mitsubishi-electric-translation-system/ "Mitsubishi Electric develops multilingual translation system for meetings")
+[Surviving a climate disaster isn’t likely to change how you vote](https://www.japantimes.co.jp/news/2024/09/16/world/politics/climate-disasters-voting/ "Surviving a climate disaster isn’t likely to change how you vote")
 
-[Kato announces bid for LDP presidency, adding uncertainty to race](https://www.japantimes.co.jp/news/2024/09/10/japan/politics/kato-motegi-faction/ "Kato announces bid for LDP presidency, adding uncertainty to race")
+7 hours ago
 
-[Panasonic ends 37-year contract as top Olympics sponsor](https://www.japantimes.co.jp/business/2024/09/10/companies/panasonic-olympics-sponsor-end/ "Panasonic ends 37-year contract as top Olympics sponsor")
+[First person convicted under Hong Kong's new national security law](https://www.japantimes.co.jp/news/2024/09/16/asia-pacific/crime-legal/hong-kong-security-law-t-shirt/ "First person convicted under Hong Kong's new national security law")
 
-[iPhone 16 to land in Japan without Apple Intelligence](https://www.japantimes.co.jp/business/2024/09/10/companies/iphone-16-apple-intelligence-japan/ "iPhone 16 to land in Japan without Apple Intelligence ") 
+10 hours ago
+
+[Philippines vows continued presence after South China Sea reef pullout](https://www.japantimes.co.jp/news/2024/09/16/asia-pacific/philippine-ship-withdrawn-south-china-sea/ "Philippines vows continued presence after South China Sea reef pullout")
+
+10 hours ago
+
+[Mitsubishi Heavy cancels H2A rocket launch for the second time](https://www.japantimes.co.jp/news/2024/09/16/japan/rocket-launch-postponed/ "Mitsubishi Heavy cancels H2A rocket launch for the second time")
+
+10 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
