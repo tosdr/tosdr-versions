@@ -414,7 +414,9 @@ Webshare may, in its sole discretion, modify or update these Terms from time to 
 ![divider sharp bottom between sections
 ](https://cdn.prod.website-files.com/5e42f62100b3490abec730e4/5e42f62100b3492c83c731fa_divider-sharp-bottom.svg)
 
-![](https://cdn.prod.website-files.com/5e42f62100b3490abec730e4/64b7ff9d90cc5798c8d4be75_stars.svg)![](https://cdn.prod.website-files.com/5e42f62100b3490abec730e4/64b8000530843452c55ab426_stars_2.svg)
+![](https://cdn.prod.website-files.com/5e42f62100b3490abec730e4/66e2b5b8a0bda7b3f2cf2c39_planet.svg)![](https://cdn.prod.website-files.com/5e42f62100b3490abec730e4/64b7ff9d90cc5798c8d4be75_stars.svg)![](https://cdn.prod.website-files.com/5e42f62100b3490abec730e4/64b8000530843452c55ab426_stars_2.svg)![](https://cdn.prod.website-files.com/5e42f62100b3490abec730e4/66e2b5b8c2a326819ce88aea_Group-1.svg)![](https://cdn.prod.website-files.com/5e42f62100b3490abec730e4/66e2b5b83df998777b1c414f_Group.svg)
+
+![](https://cdn.prod.website-files.com/5e42f62100b3490abec730e4/66e2b5b8597f20b8b993ea05_human.svg)
 
 Get started today,
 ==================
