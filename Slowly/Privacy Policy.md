@@ -240,10 +240,7 @@ Updated as of September 13, 2019
 
 ![SLOWLY](https://slowly.app/wp-content/themes/slowly/assets/img/logo.svg)
 
-Find someone who reads you
-
-Find someone  
-who reads you
+#### Find someone who reads you
 
 4.7   8M+
 
