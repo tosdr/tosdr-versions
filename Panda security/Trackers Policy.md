@@ -11,6 +11,14 @@ If this is not what you’re looking for,
 
 [Visit our Welcome Page!](https://www.pandasecurity.com/)
 
+![image](/rfilescms/Teaser/pandasecuirty-teaser-tiny-girl-desktop.webp)
+
+Special offer: Renew and get **50% off\***
+
+: :
+
+**Renew**
+
 * Protection
 * [Panda Dome product range](https://www.pandasecurity.com/en/homeusers/)
 * [Panda Dome Essential](https://www.pandasecurity.com/en/dome/essential/)
@@ -73,7 +81,7 @@ If this is not what you’re looking for,
 * [Platforms](javascript:;)
 * [Blog](https://www.pandasecurity.com/en/mediacenter/)
 * [Security Info](https://www.pandasecurity.com/en/security-info/)
-* [Support](https://www.pandasecurity.com/en/support/#homeusers)
+* [Support](https://www.pandasecurity.com/en/support/)
 * [Compare our plans](https://www.pandasecurity.com/en/homeusers/)
 
 My Account
@@ -92,7 +100,7 @@ My Account
 
 [Security Info](https://www.pandasecurity.com/en/security-info/)
 
-[Support](https://www.pandasecurity.com/en/support/#homeusers)
+[Support](https://www.pandasecurity.com/en/support/)
 
 [Windows Antivirus](https://www.pandasecurity.com/en/homeusers/windows-antivirus/)
 
