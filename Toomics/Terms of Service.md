@@ -8,7 +8,7 @@
 * [Weekly](https://toomics.com/en/webtoon/ongoing_all)
 * [Upcoming](https://toomics.com/en/age_verification?alt=1&return_url=L2VuL3dlYnRvb24vbmV3X2NvbWljcw~~&cancel_return=L2VuL3dlYnRvb24vbmV3X2NvbWljcw~~)
 
-[Family Safe](https://toomics.com/en/help/access_terms)[Search](https://toomics.com/en/webtoon/search "Search") [_Gift Box_](javascript:;) [_My Library_](https://toomics.com/en/webtoon/recent "My Library")
+[Family Safe](https://toomics.com/en/help/access_terms)[Search](https://toomics.com/en/webtoon/search "Search") [_Gift Box_](javascript:; "Gift Box") [_My Library_](https://toomics.com/en/webtoon/recent "My Library")
 
 [Family Safe](https://toomics.com/en/help/access_terms)_Close_
 
