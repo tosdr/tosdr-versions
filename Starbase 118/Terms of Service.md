@@ -356,39 +356,39 @@ Community News
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2023/09/RoninBeauty-full-768x419.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/uss-ronin-and-uss-khitomer-lead-ill-fated-surprise-attack-leave-deep-space-33-vulnerable-to-assault/)
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2024/06/Departing_DS33-768x409.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/lattice-alliance-faces-overwhelming-odds/)
 
-### [USS Ronin and USS Khitomer lead ill fated surprise attack, leave Deep Space 33 vulnerable to assault](https://www.starbase118.net/2024/uss-ronin-and-uss-khitomer-lead-ill-fated-surprise-attack-leave-deep-space-33-vulnerable-to-assault/)
+### [Lattice Alliance faces overwhelming odds](https://www.starbase118.net/2024/lattice-alliance-faces-overwhelming-odds/)
 
-Federation News Service September 12, 2024
+Federation News Service September 16, 2024
 
-Alpha Isles – Unaware of the full extent of events on Sol, the USS Ronin and USS Khitomer team up to launch a surprise attack
+ALPHA ISLES — Combat roiled around and within Deep Space 33, as the crews of the USS Khitomer and USS Ronin faced increasingly tall odds
 
-[Read More »](https://www.starbase118.net/2024/uss-ronin-and-uss-khitomer-lead-ill-fated-surprise-attack-leave-deep-space-33-vulnerable-to-assault/)
+[Read More »](https://www.starbase118.net/2024/lattice-alliance-faces-overwhelming-odds/)
+
+[![You'll Always Be My Number One](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![You'll Always Be My Number One](https://b108297.smushcdn.com/108297/wp-content/uploads/2016/05/riker-instagram_4049ce46b3-768x768.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/first-officer-in-focus-lael-rosek-skyfire/)
+
+### [First Officer in Focus – Lael Rosek-Skyfire](https://www.starbase118.net/2024/first-officer-in-focus-lael-rosek-skyfire/)
+
+docaharford September 15, 2024
+
+Each month we interview a First Officer of the fleet as part of our “First Officer in Focus” column to get to know them better,
+
+[Read More »](https://www.starbase118.net/2024/first-officer-in-focus-lael-rosek-skyfire/)
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2022/02/Burnham_Awarded-768x384.jpeg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/award-winner-evan-ross-ops-blk-cross-intel/)
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2020/05/24th-century-Constitution-refit-768x434.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/crew-of-uss-constitution-faces-possible-sabotage/)
 
-### [Award winner – Evan Ross, OPs (Blk Cross- Intel.)](https://www.starbase118.net/2024/award-winner-evan-ross-ops-blk-cross-intel/)
+### [Crew of USS Constitution faces possible sabotage](https://www.starbase118.net/2024/crew-of-uss-constitution-faces-possible-sabotage/)
 
-srichardsciencenerd118 September 10, 2024
+Federation News Service September 13, 2024
 
-Join us for another in a series of interviews with winners of awards from our 2401 Awards Ceremony. Our goal is to give you insight
+MARCHLANDS –Damage discovered during repairs of Hermes Outpost reveal possible foul play.
 
-[Read More »](https://www.starbase118.net/2024/award-winner-evan-ross-ops-blk-cross-intel/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2024/05/OEB_Exterior_Shot_8-768x531.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/uss-octavia-e-butler-faces-haunting-mysteries-in-search-for-missing-unity-dow/)
-
-### [USS Octavia E. Butler Faces Haunting Mysteries in Search for Missing Unity Dow](https://www.starbase118.net/2024/uss-octavia-e-butler-faces-haunting-mysteries-in-search-for-missing-unity-dow/)
-
-Federation News Service September 9, 2024
-
-OVIV, EDGE OF FORMER DOMINION SPACE — The USS Octavia E. Butler uncovered psychological torment, derelict vessels, and mysterious hallucinations while investigating the disappearance of
-
-[Read More »](https://www.starbase118.net/2024/uss-octavia-e-butler-faces-haunting-mysteries-in-search-for-missing-unity-dow/)
+[Read More »](https://www.starbase118.net/2024/crew-of-uss-constitution-faces-possible-sabotage/)
 
 Ready to get started?
 ---------------------
