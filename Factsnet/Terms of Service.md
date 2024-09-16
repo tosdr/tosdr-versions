@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![50 Facts About Edna Cintron ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/people/50-facts-about-edna-cintron/)
+[![50 Facts About The Movie Civil War 2024 ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/movie/50-facts-about-the-movie-civil-war-2024/)
 
-People
+Movie
 
-14 Sep 2024
+16 Sep 2024
 
-[50 Facts About Edna Cintron](https://facts.net/history/people/50-facts-about-edna-cintron/)
+[50 Facts About The Movie Civil War 2024](https://facts.net/movie/50-facts-about-the-movie-civil-war-2024/)
 
-[![50 Facts About La Nina ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/earth-and-life-science/earth-sciences/50-facts-about-la-nina/)
+[![35 Facts About Interracial Couples ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/society-and-social-sciences/35-facts-about-interracial-couples/)
 
-Earth Sciences
+Society & Social Sciences
 
-14 Sep 2024
+16 Sep 2024
 
-[50 Facts About La Nina](https://facts.net/earth-and-life-science/earth-sciences/50-facts-about-la-nina/)
+[35 Facts About Interracial Couples](https://facts.net/society-and-social-sciences/35-facts-about-interracial-couples/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
