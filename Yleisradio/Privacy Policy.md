@@ -8,7 +8,8 @@
 
 Valikko
 
-[Hae Ylen sisältöjä](https://haku.yle.fi/)
+* [Hae Ylen sisältöjä](https://haku.yle.fi/)
+* [Lähetä uutiskuva tai -video](https://yle.fi/a/74-20031519)
 
 Pinnalla nyt
 
@@ -30,16 +31,17 @@ Pinnalla nyt
 * [Tiede](https://yle.fi/tiede)
 * [Luonto](https://yle.fi/luonto)
 * [Oppiminen](https://yle.fi/aihe/oppiminen)
+* [Abitreenit](https://yle.fi/aihe/abitreenit)
 * [Kolumnit](https://yle.fi/t/18-215844/fi)
 * [Uutiset viittomakielellä](https://areena.yle.fi/1-3253227)
 * [Selkouutiset](https://yle.fi/selkouutiset)
 * [Uutisluokka](https://yle.fi/uutisluokka)
 * [Elävä arkisto](https://yle.fi/aihe/elava-arkisto)
 * [Teksti-TV](https://yle.fi/aihe/tekstitv)
+* [Uutiskirjeet](https://tunnus.yle.fi/viestiasetukset)
 * [TV-opas](https://areena.yle.fi/tv/opas)
 * [Radio-opas](https://areena.yle.fi/podcastit/opas)
 * [RSS-syötteet](https://yle.fi/uutiset/rss)
-* [Uutiskirjeet](https://tunnus.yle.fi/viestiasetukset)
 
 [Yle Areena
 
