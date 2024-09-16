@@ -36,6 +36,9 @@
         
         FBI: Reported cryptocurrency losses reached $5.6 billion in 2023](https://www.bleepingcomputer.com/news/security/fbi-reported-cryptocurrency-losses-reached-56-billion-in-2023/)
     
+    * [![Get hands-on cybersecurity training in this $30 course bundle](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Get hands-on cybersecurity training in this $30 course bundle](https://www.bleepingcomputer.com/offer/deals/get-hands-on-cybersecurity-training-in-this-30-course-bundle/)
     * [![Windows vulnerability abused braille “spaces” in zero-day attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Windows vulnerability abused braille “spaces” in zero-day attacks](https://www.bleepingcomputer.com/news/security/windows-vulnerability-abused-braille-spaces-in-zero-day-attacks/)
@@ -45,9 +48,6 @@
     * [![FBI tells public to ignore false claims of hacked voter data](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         FBI tells public to ignore false claims of hacked voter data](https://www.bleepingcomputer.com/news/security/fbi-tells-public-to-ignore-false-claims-of-hacked-voter-data/)
-    * [![Malware locks browser in kiosk mode to steal Google credentials](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Malware locks browser in kiosk mode to steal Google credentials](https://www.bleepingcomputer.com/news/security/malware-locks-browser-in-kiosk-mode-to-steal-google-credentials/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -364,17 +364,17 @@ Popular Stories
 
 Latest forum topics
 
+* [Files encrypted with .AJYZZ38OG file ext (LockBit 3 Black)](https://www.bleepingcomputer.com/forums/t/801227/files-encrypted-with-ajyzz38og-file-ext-lockbit-3-black/)
+    
+    [Phillabs](https://www.bleepingcomputer.com/forums/u/1323092/phillabs/) in [Ransomware Help & Tech Support](https://www.bleepingcomputer.com/forums/f/239/ransomware-help-tech-support/)
+    
+* [Startup repair loop after malware removal](https://www.bleepingcomputer.com/forums/t/801226/startup-repair-loop-after-malware-removal/)
+    
+    [levana9393](https://www.bleepingcomputer.com/forums/u/1323088/levana9393/) in [Virus, Trojan, Spyware, and Malware Removal Help](https://www.bleepingcomputer.com/forums/f/22/virus-trojan-spyware-and-malware-removal-help/)
+    
 * [Browser Search Bar Went Dark](https://www.bleepingcomputer.com/forums/t/801225/browser-search-bar-went-dark/)
     
     [R2Beep2](https://www.bleepingcomputer.com/forums/u/1105437/r2beep2/) in [Web Browsing/Email and Other Internet Applications](https://www.bleepingcomputer.com/forums/f/14/web-browsingemail-and-other-internet-applications/)
-    
-* [I really need help on a self build I have had for years](https://www.bleepingcomputer.com/forums/t/801222/i-really-need-help-on-a-self-build-i-have-had-for-years/)
-    
-    [Keltictrigger](https://www.bleepingcomputer.com/forums/u/1323062/keltictrigger/) in [Internal Hardware](https://www.bleepingcomputer.com/forums/f/7/internal-hardware/)
-    
-* [New Version of SpinRite Released](https://www.bleepingcomputer.com/forums/t/801216/new-version-of-spinrite-released/)
-    
-    [garioch7](https://www.bleepingcomputer.com/forums/u/932607/garioch7/) in [All Other Applications](https://www.bleepingcomputer.com/forums/f/57/all-other-applications/)
     
 
 Latest virus removal guides
@@ -429,7 +429,7 @@ Latest Downloads
     
     Version: 1.33.075
     
-    **55,387 _Downloads_**
+    **55,389 _Downloads_**
     
 * ![PuTTY Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -437,7 +437,7 @@ Latest Downloads
     
     Version: 0.81
     
-    **43,304 _Downloads_**
+    **43,310 _Downloads_**
     
 * ![BitDefender Uninstall Tool Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -445,7 +445,7 @@ Latest Downloads
     
     Version: NA
     
-    **104,249 _Downloads_**
+    **104,251 _Downloads_**
     
 
 ##### Follow us:
