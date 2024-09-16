@@ -14,12 +14,12 @@
 #### Link trực tiếp xem  
 bóng đá 1
 
-[xem ngay](https://bit.ly/colatv01)
+[xem ngay](https://colatv.net/)
 
 #### Link trực tiếp xem  
 bóng đá 2
 
-[xem ngay](https://bit.ly/colatv01)
+[xem ngay](https://colatv.net/)
 
 #### Giới thiệu
 
