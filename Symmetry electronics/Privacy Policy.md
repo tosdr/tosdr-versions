@@ -1,4 +1,6 @@
-[](https://www.symmetryelectronics.com/)[](#mobileSearch)
+[](https://www.symmetryelectronics.com/)
+
+* Suggested term
 
 * Suggested term
 
@@ -137,7 +139,6 @@ Back
         * [Communication & Networking ICs](https://www.symmetryelectronics.com/products/semiconductors/communication-networking-ics/)
         * [Counter ICs](https://www.symmetryelectronics.com/products/semiconductors/counter-ics/)
         * [Data Converter ICs](https://www.symmetryelectronics.com/products/semiconductors/data-converter-ics/)
-        * [Digital Potentiometer ICs](https://www.symmetryelectronics.com/products/semiconductors/digital-potentiometer-ics/)
         * [Discrete Semiconductors](https://www.symmetryelectronics.com/products/semiconductors/discrete-semiconductors/)
         * [Driver ICs](https://www.symmetryelectronics.com/products/semiconductors/driver-ics/)
         * [Embedded Processors & Controllers](https://www.symmetryelectronics.com/products/semiconductors/embedded-processors-controllers/)
@@ -161,7 +162,6 @@ Back
         * [Audio Sensors](https://www.symmetryelectronics.com/products/sensors/audio-sensors/)
         * [Biometric Sensors](https://www.symmetryelectronics.com/products/sensors/biometric-sensors/)
         * [Capacitive Touch Sensors](https://www.symmetryelectronics.com/products/sensors/capacitive-touch-sensors/)
-        * [Current Sensors](https://www.symmetryelectronics.com/products/sensors/current-sensors/)
         * [Environmental Sensors](https://www.symmetryelectronics.com/products/sensors/environmental-sensors/)
         * [Flow Sensors](https://www.symmetryelectronics.com/products/sensors/flow-sensors/)
         * [Force Sensors & Load Cells](https://www.symmetryelectronics.com/products/sensors/force-sensors-load-cells/)
@@ -279,7 +279,6 @@ Back
     * [Mediatek](https://www.symmetryelectronics.com/manufacturers/mediatek/)
     * [Medium One](https://www.symmetryelectronics.com/manufacturers/medium-one/)
     * [Micronas](https://www.symmetryelectronics.com/manufacturers/micronas/)
-    * [Monolithic Power Systems](https://www.symmetryelectronics.com/manufacturers/monolithic-power-systems/)
     * [MSTronic Co., Ltd.](https://www.symmetryelectronics.com/manufacturers/mstronic-co-,-ltd/)
     * [MultiTech](https://www.symmetryelectronics.com/manufacturers/multitech/)
     * [Murata](https://www.symmetryelectronics.com/manufacturers/murata/)
@@ -357,12 +356,6 @@ Back
     * [Log In](https://www.symmetryelectronics.com/account/login/?returnUrl=/about/privacy-policy/)
 * [](https://www.symmetryelectronics.com/cart/)
 * [+1 (866) 506-8829](tel:+18665068829) [+1 (310)-536-6190](tel:+13105366190)[](https://www.symmetryelectronics.com/contact/)[](https://www.linkedin.com/company/symmetry-electronics/)[](https://www.facebook.com/symmetryelectronics/)[](https://www.youtube.com/c/Symmetryelectronics)
-
-Search Symmetry
-
-* Suggested term
-
-[Close](#)
 
 1. [Home](https://www.symmetryelectronics.com/) 
 2. [About](https://www.symmetryelectronics.com/about/) 
