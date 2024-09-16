@@ -292,8 +292,6 @@ Investors _Next Page Icon_
 
 [Shareholder services](https://www.bms.com/investors/shareholder-services.html)
 
-[Acquisition-related information for Celgene shareholders](https://www.bms.com/investors/celgene-acquisition-investor-resources.html)
-
 [Investor contacts](https://www.bms.com/investors/investor-contacts.html)
 
 Related links
