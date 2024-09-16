@@ -3,7 +3,7 @@ Welcome to Gaia! :: Terms of Service – Effective Date December 16, 2013
 
 [Gaia Home](https://www.gaiaonline.com/ "Return to the Gaia Homepage")
 
-  [![](//u1cdn.gaiaonline.com/mfs/index/adminupload/4b36efc4da3f.gif)](https://www.gaiaonline.com/forum/t.113992572 "Avatar Chat")
+  [![](//u1cdn.gaiaonline.com/mfs/index/adminupload/cef62247794c.gif)](https://www.gaiaonline.com/forum/t.114237174/ "A Little Stitious") [![](//u1cdn.gaiaonline.com/mfs/index/adminupload/4b36efc4da3f.gif)](https://www.gaiaonline.com/forum/t.113992572 "Avatar Chat")
 
 [Login](https://www.gaiaonline.com/auth/?_gaia_t_=4952 "Login to Gaia") [Register](https://www.gaiaonline.com/register/?v=c&_gaia_t_=4950 "Create a free account now")
 
@@ -13,7 +13,7 @@ Log In
 
 [Forgot your login?](https://www.gaiaonline.com/account/sendpass/ "Forgot your username/password?")
 
-1a52168339daa046fd572d6baac39ed41a52168339daa046fd572d6baac39ed4319aa0e8fdafcbeb759ccb705832b753
+c9ab127080d90045706f0c548294509a0062a42a85ec413498da43532645f0b0
 
 * [My Gaia](https://www.gaiaonline.com/register/?v=c&&redirect=https%3A%2F%2Fwww.gaiaonline.com%2Fmygaia%2F)
 
@@ -328,10 +328,6 @@ Get Items
     
     fabulous finds for the thrifty spender
     
-* [Seasonal Styles](https://www.gaiaonline.com/register/?v=c&&redirect=https%3A%2F%2Fwww.gaiaonline.com%2Fsale)
-    
-    Direct Sale
-    
 * [Gaia Merchandise](https://www.redbubble.com/people/Gaia-online/shop)
     
     real life Gaia merchandise
@@ -535,4 +531,4 @@ Play with Platinum
 
 [More](https://www.gaiaonline.com/world/)
 
-![](https://www.gaiaonline.com/internal/mkt_t.php?mid[]=354&tm=1726243975)
+![](https://www.gaiaonline.com/internal/mkt_t.php?mid[]=354&tm=1726480133)
