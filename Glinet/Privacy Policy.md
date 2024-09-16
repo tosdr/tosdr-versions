@@ -52,7 +52,7 @@
     
     [Router Support Docs](https://docs.gl-inet.com/router/en/) [IoT Support Docs](https://docs.gl-inet.com/iot/en/) [Firmware Download Center](https://dl.gl-inet.com/) [Firmware Status Updates](https://www.gl-inet.com/support/firmware-versions/) [Security Updates](https://www.gl-inet.com/security-updates/) [PSTI Statement](https://www.gl-inet.com/psti/) [Contact Our Support Team](https://www.gl-inet.com/contacts/)
     
-* [Store](https://store.gl-inet.com/)
+* [Store](https://store-us.gl-inet.com/)
 
 1. [Home](https://www.gl-inet.com/)
 2. Privacy Policy
