@@ -177,6 +177,8 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Bill of Rights To Grant Unrestricted Firearm Freedom Proposed in Alberta](https://www.thegunpage.com/bill-of-rights-to-grant-unrestricted-firearm-freedom-proposed-in-alberta/10610584)
+* [Ignorance With A Platform: Reading This Op-Ed Will Make You Dumber](https://www.thegunpage.com/ignorance-with-a-platform-reading-this-op-ed-will-make-you-dumber/10610581)
 * [Blue State Hunters Slam Environmental Initiative To Curtail ‘Trophy Hunting’](https://www.thegunpage.com/blue-state-hunters-slam-environmental-initiative-to-curtail-trophy-hunting/10610578)
 * [The Truth About Kamala Harris’s Gun Policy](https://www.thegunpage.com/the-truth-about-kamala-harriss-gun-policy/10610579)
 * [BREAKING – ASSASSINATION ATTEMPT 2.0: Trump Unharmed After Shots Fired in Another Assassination Attempt – UPDATED](https://www.thegunpage.com/breaking-assassination-attempt-2-0-trump-unharmed-after-shots-fired-in-another-assassination-attempt-updated/10610576)
@@ -185,8 +187,6 @@ Recent Posts
 * [Armed Robbers “Find Out” Texas Style](https://www.thegunpage.com/armed-robbers-find-out-texas-style/10610565) 
 * [Results: 2024 NRA National Precision Pistol Championships](https://www.thegunpage.com/results-2024-nra-national-precision-pistol-championships/10610563)
 * [Ghost Gunner 3-S and the Optics Cut Library 2.0, Part 2 Hands-On](https://www.thegunpage.com/ghost-gunner-3-s-and-the-optics-cut-library-2-0-part-2-hands-on/10610559)
-* [Silencer Saturday #346: SilencerCo’s Hunting Suppressor Evolution](https://www.thegunpage.com/silencer-saturday-346-silencercos-hunting-suppressor-evolution/10610561)
-* [Anti-Gun Site The Trace Tries To Scare Readers Into Voting For Kamala](https://www.thegunpage.com/anti-gun-site-the-trace-tries-to-scare-readers-into-voting-for-kamala/10610551)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
