@@ -56,13 +56,13 @@ Featured stories
 
 [![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
-![ ](https://images.everydayhealth.com/images/news/people-who-can't-burp-are-finally-finding-relief-1440x810.jpg)
+![ ](https://images.everydayhealth.com/images/news/obesity-drug-prevents-covid-deaths-wegovy-study-1440x810.jpg)
 
-Some People Who Can’t Burp Are Turning to the Internet for Help](https://www.everydayhealth.com/rare-diseases/people-who-cant-burp-are-turning-to-the-internet-for-help/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+Wegovy May Reduce the Risk of Death From COVID-19, Study Suggests](https://www.everydayhealth.com/coronavirus/wegovy-may-reduce-the-risk-of-dying-from-covid/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
-![ ](https://images.everydayhealth.com/images/news/tirzepatide-greater-weight-for-loss-women-1440x810.jpg)
+![ ](https://images.everydayhealth.com/images/news/high-levels-lead-found-cinnamon-powder-1440x810.jpg)
 
-Women Lose More Weight Than Men on Mounjaro and Zepbound](https://www.everydayhealth.com/weight/women-lose-more-weight-than-men-on-mounjaro-and-zepbound/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+Dangerous Levels of Lead Identified in Cinnamon](https://www.everydayhealth.com/food-safety/dangerous-levels-of-lead-identified-in-cinnamon/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
 ![ ](https://images.everydayhealth.com/images/news/fda-approves-updated-covid-vaccines-fall-2024-1440x810.jpg)
 
