@@ -47,73 +47,7 @@ Loading...
 
 Loading...
 
-Top Destinations
-
-Latest Places
-
-[Most Popular Places](https://www.atlasobscura.com/places?sort=likes_count) [Random Place](https://www.atlasobscura.com/random) [Lists](https://www.atlasobscura.com/lists) [Itineraries](https://www.atlasobscura.com/itineraries)[Add a Place](https://www.atlasobscura.com/places/new)[Download the App](https://app.atlasobscura.com/)
-
-Top Destinations
-
-[View All Destinations »](https://www.atlasobscura.com/destinations)
-
-### Countries
-
-* [Australia](https://www.atlasobscura.com/things-to-do/australia "Australia")
-* [Canada](https://www.atlasobscura.com/things-to-do/canada "Canada")
-* [China](https://www.atlasobscura.com/things-to-do/china "China")
-* [France](https://www.atlasobscura.com/things-to-do/france "France")
-* [Germany](https://www.atlasobscura.com/things-to-do/germany "Germany")
-* [India](https://www.atlasobscura.com/things-to-do/india "India")
-* [Italy](https://www.atlasobscura.com/things-to-do/italy "Italy")
-* [Japan](https://www.atlasobscura.com/things-to-do/japan "Japan")
-
-### Cities
-
-* [Amsterdam](https://www.atlasobscura.com/things-to-do/amsterdam-netherlands "Amsterdam")
-* [Barcelona](https://www.atlasobscura.com/things-to-do/barcelona-spain "Barcelona")
-* [Beijing](https://www.atlasobscura.com/things-to-do/beijing-china "Beijing")
-* [Berlin](https://www.atlasobscura.com/things-to-do/berlin-germany "Berlin")
-* [Boston](https://www.atlasobscura.com/things-to-do/boston-massachusetts "Boston")
-* [Budapest](https://www.atlasobscura.com/things-to-do/budapest-hungary "Budapest")
-* [Chicago](https://www.atlasobscura.com/things-to-do/chicago-illinois "Chicago")
-* [London](https://www.atlasobscura.com/things-to-do/london-england "London")
-* [Los Angeles](https://www.atlasobscura.com/things-to-do/los-angeles-california "Los Angeles")
-* [Mexico City](https://www.atlasobscura.com/things-to-do/mexico-city-mexico "Mexico City")
-* [Montreal](https://www.atlasobscura.com/things-to-do/montreal-quebec "Montreal")
-* [Moscow](https://www.atlasobscura.com/things-to-do/moscow-russia "Moscow")
-* [New Orleans](https://www.atlasobscura.com/things-to-do/new-orleans-louisiana "New Orleans")
-* [New York City](https://www.atlasobscura.com/things-to-do/new-york "New York City")
-* [Paris](https://www.atlasobscura.com/things-to-do/paris-france "Paris")
-* [Philadelphia](https://www.atlasobscura.com/things-to-do/philadelphia-pennsylvania "Philadelphia")
-* [Rome](https://www.atlasobscura.com/things-to-do/rome-italy "Rome")
-* [San Francisco](https://www.atlasobscura.com/things-to-do/san-francisco-california "San Francisco")
-* [Seattle](https://www.atlasobscura.com/things-to-do/seattle-washington "Seattle")
-* [Stockholm](https://www.atlasobscura.com/things-to-do/stockholm-sweden "Stockholm")
-* [Tokyo](https://www.atlasobscura.com/things-to-do/tokyo-japan "Tokyo")
-* [Toronto](https://www.atlasobscura.com/things-to-do/toronto-ontario "Toronto")
-* [Vienna](https://www.atlasobscura.com/things-to-do/vienna-austria "Vienna")
-* [Washington, D.C.](https://www.atlasobscura.com/things-to-do/washington-dc "Washington, D.C.")
-
-Latest Places
-
-[View All Places »](https://www.atlasobscura.com/places?sort=published_at)
-
-   [![The entrance is overgrown and largely hidden.](https://img.atlasobscura.com/lVi8WzHE9WB2USH3sgi2EnOQNuVR1kntL_09ucIuyTo/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9iYzhj/MjZhNS0wYzM1LTQ2/ZGEtOGZhZS1kYTY4/YWYwZmE0M2FlNTg5/NTE3YTNhMjU1NGMx/ZmNfRFNDXzAxNTcu/anBlZw.jpg)
-
-Yatozaka Kiridoshi Pass](https://www.atlasobscura.com/places/yatozaka-kiridoshi-pass)
-
-   [![UV Reactive Glass](https://img.atlasobscura.com/MkmH1jx0q6wxhhNcnDcYsAXjv2YgIuVZfyHPgEsNvqY/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy82MTU2/M2YyNC05OTE5LTQ5/NWItOGU3Zi0wMzQ4/OTRlNTZhNDQwY2Zi/NWE4MTIyYTJlYzli/NzdfSU1HXzY0NDYu/anBn.jpg)
-
-Historical Glass Museum](https://www.atlasobscura.com/places/historical-glass-museum)
-
-   [![Postbllok Memorial ](https://img.atlasobscura.com/UmjixJl2uMPCNDFcA9H0KoG-YYK5V66dVyjcD4gXOvs/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8xZTJk/YjY1Yy1iMzIzLTQy/YTktYTJkNC00YWZh/Y2E1YzQ4NWNlNGJh/OWNkMzA4MWMzZTgx/ZTlfMTAwMDA1MDM3/NS5qcGc.jpg)
-
-Postbllok Memorial](https://www.atlasobscura.com/places/postbllok-memorial)
-
-   [![A destination for Wonderland-loving pilgrims.](https://img.atlasobscura.com/kT0EuAN1_m1KPL1Q86afGe1cV1uAoMtyWOYsLXEdQOE/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9lM2Q0/MzVjYS04NWQwLTRm/ZjEtOTIxNi1mZjhi/MDM4NDJkYTJjOTZh/N2M2OWFhNWE1NjJi/NGZfRFNDXzA1MTMu/anBlZw.jpg)
-
-All Saints’ Church, Daresbury](https://www.atlasobscura.com/places/all-saints-church-daresbury)
+Loading...
 
 Loading...
 
