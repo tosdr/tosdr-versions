@@ -226,8 +226,7 @@ Company
 
 Support
 
-* [FAQ](https://sphero.com/support)
-* [Customer Support](https://sphero.com/pages/contact-us)
+* [Customer Support](https://sphero.com/support)
 * [International Sales](https://sphero.com/pages/contact-a-rep-intl)
 * [Privacy Policy](https://sphero.com/pages/privacy)
 * [Cookie Policy](https://sphero.com/pages/cookie-policy)
