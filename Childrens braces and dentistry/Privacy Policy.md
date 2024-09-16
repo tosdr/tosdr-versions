@@ -87,17 +87,17 @@ Schedule an appointment for a beautiful, healthy smile.
 Recent Blog Posts
 -----------------
 
+##### [Pulpectomy vs. Root Canal: A Parent’s Guide to Tooth Treatment for Kids](https://sandiegokidsdentist.com/pulpectomy-vs-root-canal-a-parents-guide-to-tooth-treatment-for-kids/)
+
+Sep 16, 2024 8 Comments Off on Pulpectomy vs. Root Canal: A Parent’s Guide to Tooth Treatment for Kids
+
 ##### [Common Bite Issues and Their Solutions](https://sandiegokidsdentist.com/common-bite-issues-and-their-solutions/)
 
-Jul 23, 2024 230 Comments Off on Common Bite Issues and Their Solutions
+Jul 23, 2024 240 Comments Off on Common Bite Issues and Their Solutions
 
 ##### [Understanding the Role of Pedodontists](https://sandiegokidsdentist.com/understanding-the-role-of-pedodontists/)
 
-Jun 4, 2024 401 Comments Off on Understanding the Role of Pedodontists
-
-##### [Should My Teen Get Braces or Invisalign?](https://sandiegokidsdentist.com/should-my-teen-get-braces-or-invisalign/)
-
-Mar 13, 2024 732 Comments Off on Should My Teen Get Braces or Invisalign?
+Jun 4, 2024 416 Comments Off on Understanding the Role of Pedodontists
 
 Quick Links
 -----------
@@ -132,6 +132,6 @@ CA 91942.
 * [Yelp](https://www.yelp.com/biz/childrens-braces-and-dentistry-la-mesa-2)
 * [Instagram](https://www.instagram.com/childrensbracesanddentistry/)
 
-© 2017. Children's Braces and Dentistry (San Diego Kids Dentist) | [Privacy Policy](https://sandiegokidsdentist.com/should-my-teen-get-braces-or-invisalign/)
+© 2017. Children's Braces and Dentistry (San Diego Kids Dentist) | [Privacy Policy](https://sandiegokidsdentist.com/understanding-the-role-of-pedodontists/)
 
 [Website Designed & Developed by: Houmanity](https://www.houmanity.com/)
