@@ -131,6 +131,8 @@ Menu Close
     
     [Acronis Cyber Protect](https://www.acronis.com/en-us/products/cyber-protect/)
     
+    \-10%
+    
     Complete cyber resilience for small business, including backup and DR, anti-malware and remote endpoint monitoring.
     
     * [Try it free](https://www.acronis.com/en-us/products/cyber-protect/trial/)
@@ -145,6 +147,9 @@ Menu Close
     
     * [Acronis DeviceLock DLP](https://www.acronis.com/en-us/products/devicelock/)
     * [Acronis Snap Deploy](https://www.acronis.com/en-us/products/snap-deploy/)
+        
+        \-10%
+        
     
     For everyone
     
@@ -154,7 +159,7 @@ Menu Close
     
     [Acronis True Image](https://www.acronis.com/en-us/products/true-image/)
     
-    NEW
+    \-40%
     
     Formerly Acronis Home Office, it's the only personal cyber protection solution that delivers easy-to-use, integrated backup and anti-malware in one.
     
