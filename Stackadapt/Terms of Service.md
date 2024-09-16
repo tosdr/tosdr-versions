@@ -1,4 +1,4 @@
-[![](https://d343x6qscsp61h.cloudfront.net/sites/2/20240315185316/StackAdapt_Logo_StackAdapt_LogoWordmark_250px.svg)](https://www.stackadapt.com/)
+[![StackAdapt Logo](https://d343x6qscsp61h.cloudfront.net/sites/2/20240315185316/StackAdapt_Logo_StackAdapt_LogoWordmark_250px.svg)](https://www.stackadapt.com/)
 
 * [Product](#)
     * [Plan Campaigns
@@ -31,7 +31,7 @@
     * [Political](https://www.stackadapt.com/industry-solutions/political)
     * [Travel](https://www.stackadapt.com/industry-solutions/travel)
     * [More Industries](https://www.stackadapt.com/industry-solutions)
-* [Why Stackadapt?](#)
+* [Why StackAdapt?](#)
     * [Best DSP
         
         G2 Ratings](https://www.stackadapt.com/best-demand-side-platform-dsp)
