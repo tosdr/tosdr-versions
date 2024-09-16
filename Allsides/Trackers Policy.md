@@ -7,7 +7,7 @@
 * [Misinformation](https://www.allsides.com/misinformation)
 * [Schools](https://www.allsides.com/schools)
 * [Services](https://www.allsides.com/services)
-* [About](https://www.allsides.com/about)
+* [Invest](https://wefunder.com/allsides)
 
 [](https://www.allsides.com/user/register "register")
 
