@@ -77,7 +77,7 @@ Latest commented posts
 
 [kat (guys will literally see this and type and etc) created by softkathrin](https://yiff-party.com/yiff/kat-guys-will-literally-see-this-and-type-and-etc-created-by-softkathrin/)
 
-0 798 1
+0 808 1
 
 August 20, 2024
 
@@ -85,7 +85,7 @@ August 20, 2024
 
 [roxanne wolf (five nights at freddy’s: security breach and etc) created by yokaiduck](https://yiff-party.com/yiff/roxanne-wolf-five-nights-at-freddys-security-breach-and-etc-created-by-yokaiduck/)
 
-0 884 1
+0 897 1
 
 August 24, 2024
 
@@ -93,15 +93,15 @@ August 24, 2024
 
 [elena and elin (mythology) created by psychorodent](https://yiff-party.com/yiff/elena-and-elin-mythology-created-by-psychorodent/)
 
-0 324 1
+0 332 1
 
 August 24, 2024
 
-[](https://yiff-party.com/yiff/created-by-bad-aizek/)
+[](https://yiff-party.com/yiff/created-by-avius/)
 
-[created by bad aizek](https://yiff-party.com/yiff/created-by-bad-aizek/)
+[created by avius](https://yiff-party.com/yiff/created-by-avius/)
 
-0 108 0
+0 86 0
 
 August 17, 2024
 
