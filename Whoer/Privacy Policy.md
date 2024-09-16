@@ -6,8 +6,9 @@
 * [Antidetect Browser](https://wade.is/?utm_source=whoer&utm_campaign=header_main)
 * [AML check](https://whoaml.is/?utm_source=whoer&utm_campaign=header_main)
 * Services
-    * [Web proxy](https://whoer.net/webproxy)
+    * [Anonymity](https://whoer.net/best-anonymity-tools?category=all)
     * [Proxy](https://proxyempire.io/?ref=whoer)
+    * [Virtual cards](https://e.pn/?ref=uLpxUESL)
     * [AML check](https://whoaml.is/?utm_source=whoer&utm_campaign=header_services)
     * [Speed test](https://whoer.net/speedtest)
     * [Ping](https://whoer.net/ping)
@@ -197,6 +198,7 @@ Services
 * [AML check](https://whoaml.is/?utm_source=whoer&utm_campaign=footer)
 * [Free VPN](https://whoer.net/vpn/trial)
 * [Proxy](https://proxyempire.io/?ref=whoer)
+* [Virtual cards](https://e.pn/?ref=uLpxUESL)
 * [Speed test](https://whoer.net/speedtest)
 * [Ping](https://whoer.net/ping)
 * [Whois](https://whoer.net/checkwhois)
