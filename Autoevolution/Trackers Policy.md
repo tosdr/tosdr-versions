@@ -39,9 +39,9 @@ editorial \_
 
 coverstory \_
 
-[![Chevy Corvair Corsa Turbo: The Most Atypical Performance Car From the Golden Age of Muscle](https://s1.cdn.autoevolution.com/images/news/chevy-corvair-corsa-turbo-the-most-atypical-performance-car-from-the-golden-age-of-muscle-239863-5.jpg "Chevy Corvair Corsa Turbo: The Most Atypical Performance Car From the Golden Age of Muscle")
+[![Desert-Inspired 'Agave' Camper Van Ticks All the Right Boxes for Full-Time Van Life](https://s1.cdn.autoevolution.com/images/news/desert-inspired-agave-camper-van-ticks-all-the-right-boxes-for-full-time-van-life-239870-5.jpg "Desert-Inspired 'Agave' Camper Van Ticks All the Right Boxes for Full-Time Van Life")
 
-Chevy Corvair Corsa Turbo: The Most Atypical Performance Car From the Golden Age of Muscle](https://www.autoevolution.com/news/chevy-corvair-corsa-turbo-the-most-atypical-performance-car-from-the-golden-age-of-muscle-239863.html)
+Desert-Inspired 'Agave' Camper Van Ticks All the Right Boxes for Full-Time Van Life](https://www.autoevolution.com/news/desert-inspired-agave-camper-van-ticks-all-the-right-boxes-for-full-time-van-life-239870.html)
 
 how-to \_
 
