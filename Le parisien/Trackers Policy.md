@@ -54,14 +54,6 @@ Rechercher sur Le Parisien
     * [Résultats par discipline](https://www.leparisien.fr/jo-paris-2024/resultats-par-discipline/)
     * [Équipe de France olympique](https://www.leparisien.fr/jo-paris-2024/equipe-de-france/)
     
-* [Jeux paralympiques 2024](https://www.leparisien.fr/jo-paralympiques-paris-2024/)
-    
-    * [Résultats par discipline](https://www.leparisien.fr/jo-paralympiques-paris-2024/resultats-par-discipline/)
-    * [Calendrier et Programme](https://www.leparisien.fr/jo-paralympiques-paris-2024/calendrier/)
-    * [Tableau des médailles](https://www.leparisien.fr/jo-paralympiques-paris-2024/tableau-des-medailles/)
-    * [Médailles françaises](https://www.leparisien.fr/jo-paralympiques-paris-2024/tableau-des-medailles/france/)
-    * [Résultats en direct](https://www.leparisien.fr/jo-paralympiques-paris-2024/resultats/)
-    
 * [Paris & Île-de-France](https://www.leparisien.fr/info-paris-ile-de-france-oise/)
     
     * [Paris](https://www.leparisien.fr/paris-75/)
