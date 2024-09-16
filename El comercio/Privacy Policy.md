@@ -31,6 +31,172 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Fiscalía responde a Anderson Boscán y su esposa
+===============================================
+
+Anderson Boscán y su esposa Mónica Velásquez solicitaron asilo a Canadá. Sus declaraciones fueron respondidas por la Policía Nacional y la Fiscalía General del Ecuador.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Anderson Boscán afirmó que dejó el país junto a su familia por varias amenazas.](https://www.elcomercio.com/wp-content/uploads/2024/09/Anderson-Boscan-y-Fiscsalia.jpg)
+
+La Fiscalía General del Ecuador emitió una respuesta este lunes 16 de septiembre de 2024 a las declaraciones de los periodistas **Anderson Boscán** y su esposa, **Mónica Velásquez**, quienes abandonaron el país el 10 de septiembre[.](https://es.wikipedia.org/wiki/La_Posta_(Ecuador) "https://es.wikipedia.org/wiki/La_Posta_(Ecuador)")
+
+Más noticias
+------------
+
+* [Policía de Ecuador rechaza persecución a Andersson Boscán y su esposa](https://www.elcomercio.com/actualidad/policia-de-ecuador-rechaza-persecucion-a-andersson-boscan-y-su-esposa.html "Policía de Ecuador rechaza persecución a Andersson Boscán y su esposa")
+* [Felipe Rodríguez desmiente a Andersson Boscán y renuncia a su defensa](https://www.elcomercio.com/actualidad/politica/felipe-rodriguez-desmiente-andersson-boscan-renuncia-a-su-defensa.html "Felipe Rodríguez desmiente a Andersson Boscán y renuncia a su defensa")
+* [Andersson Boscán pide asilo en Canadá, ¿bajo qué condiciones?](https://www.elcomercio.com/actualidad/politica/andersson-boscan-asilo-canada-bajo-condiciones.html "Andersson Boscán pide asilo en Canadá, ¿bajo qué condiciones?")
+
+Los periodistas afirmaron en un video que dejaron **Ecuador** debido a “muchas amenazas” recibidas tras denunciar actos de corrupción.
+
+Declaraciones de Anderson Boscán y su esposa y la respuesta de la Fiscalía
+--------------------------------------------------------------------------
+
+En el video publicado en redes sociales, **Boscán** y **Velásquez** informaron que solicitaron asilo al **Gobierno** de **Canadá** y que ya se encuentran en ese país.
+
+Denunciaron que la dirección de Inteligencia de la **Policía Nacional** realizó seguimientos a su familia y sostuvieron que un documento de la **Fiscalía** respalda estas afirmaciones.
+
+Respuesta de la Fiscalía
+------------------------
+
+La **Fiscalía** explicó que, tras recibir la denuncia de los periodistas en octubre de 2021 por presuntas amenazas, los incluyó en el Sistema de Protección a Víctimas y Testigos (**Spavt**).
+
+La entidad aseguró que **Boscán** y **Velásquez** permanecieron en este programa de protección hasta el día que salieron de **Ecuador** y que recibieron escolta hasta el aeropuerto.
+
+En relación con esta denuncia, la **Fiscalía** señaló que realizó varias diligencias, aunque no contó con la colaboración de los periodistas.
+
+Respecto a una investigación iniciada de oficio en octubre de 2023, tras el hallazgo de un informe de seguimiento, la **Fiscalía** informó que notificó de inmediato a **Anderson Boscán**, quien rindió su versión en compañía de su abogado y accedió al expediente.
+
+Motivos del tiempo de respuesta de la Fiscalía
+----------------------------------------------
+
+La **Fiscalía** explicó que tardó algunos días en emitir una respuesta para ofrecer información clara y evitar interferir con los procesos en curso, los cuales se hicieron públicos por las declaraciones de **Anderson Boscán**.
+
+> [#COMUNICADO](https://twitter.com/hashtag/COMUNICADO?src=hash&ref_src=twsrc%5Etfw) | En torno a las declaraciones de los ciudadanos Anderson B. y Mónica V., [#FiscalíaEc](https://twitter.com/hashtag/Fiscal%C3%ADaEc?src=hash&ref_src=twsrc%5Etfw) aclara a la opinión pública que lo señalado responde a una investigación que se adelanta desde 2023, de la cual tenían pleno conocimiento, como se registra en el expediente.⬇️ [pic.twitter.com/Rd43817cJF](https://t.co/Rd43817cJF)
+> 
+> — Fiscalía Ecuador (@FiscaliaEcuador) [September 16, 2024](https://twitter.com/FiscaliaEcuador/status/1835642286589296964?ref_src=twsrc%5Etfw)
+
+Comunicado de la Policía sobre la supuesta persecución
+------------------------------------------------------
+
+La **Policía Nacional** emitió un comunicado reafirmando su disposición a colaborar con las investigaciones para esclarecer los hechos denunciados por **Anderson** **Boscán** y **Mónica Velásquez**.
+
+La entidad reconoció que no siempre resulta rápido ni fácil llevar a cabo estas investigaciones debido a la complejidad de los involucrados y sus posibles ramificaciones.
+
+El comunicado enfatizó que la institución no incurrirá en acciones que comprometan su labor, y destacó que ha sancionado errores, filtraciones o ilegalidades detectadas.
+
+Además, la Policía señaló que mantiene un proceso continuo de **depuración** **interna**, sin tolerancia hacia la corrupción.
+
+Abogado de los periodistas aclara detalles sobre el caso
+--------------------------------------------------------
+
+**Felipe Rodríguez**, abogado de La Posta, confirmó la existencia del documento encontrado en el teléfono de **Rubén Cherres**, pero anunció su renuncia a seguir defendiendo al medio.
+
+Explicó que entregó la copia del archivo bajo el compromiso de no **hacerla pública** y utilizarla solo para la solicitud de asilo de **Boscán** y **Velásquez**.
+
+El abogado afirmó que no le consta que la **Fiscalía** haya emitido una instrucción interna para negar el acceso al documento, como sostienen los periodistas.
+
+El archivo incluye detalles sobre un seguimiento a las actividades diarias de la familia de **Boscán** y **Velásquez**, con fotos. También menciona que el vehículo de la **familia** no tiene blindaje y que los escoltas están armados.
+
+En el documento, se identifica a **Boscán** como “blanco”, y las conclusiones señalan que “la operación debe llevarse a cabo en la salida del edificio de residencia”, sin especificar el tipo de acción que se pretendía, aunque el medio sugiere que pudo haber sido un intento de asesinato.
+
+Liga de Quito perdió el invicto, pero se mantiene como líder
+============================================================
+
+La última fecha de la Liga Pro dejó un sabor agridulce para los aficionados de Liga de Quito.
+---------------------------------------------------------------------------------------------
+
+![Alex Arce (i), jugador de Liga de Quito, en la derrota ante Imbabura por la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-16T093743.779.jpg)
+
+Contra todo pronóstico, el líder de la segunda etapa de la Liga Pro Serie A, **Liga de Quito,** sufrió una contundente goleada ante un rival que, en principio, parecía inferior tanto en papeles como en rendimiento a lo largo de la temporada.
+
+La ‘U’ llegó al Estadio Olímpico de Ibarra con la expectativa de sumar tres puntos más y afianzarse como líder de la etapa. Sin embargo, se encontraron con un **Imbabura** feroz que los sorprendió desde el inicio, dándoles un verdadero golpe de realidad.
+
+Más noticias:
+
+* [Liga de Quito y Aucas cayeron y así está la tabla de posiciones en Liga Pro](https://www.elcomercio.com/deportes/futbol/tabla-posiciones-liga-pro-fecha6-liga-quito.html "Liga de Quito y Aucas cayeron y así está la tabla de posiciones en Liga Pro")
+* [Barcelona SC gana al Macará y vuelve a la pelea por la etapa](https://www.elcomercio.com/deportes/futbol/barcelonasc-macara-resultado-ligapro-tabla-posiciones.html "Barcelona SC gana al Macará y vuelve a la pelea por la etapa")
+* [Escandalosa goleada del Imbabura a Liga de Quito en Ibarra](https://www.elcomercio.com/deportes/futbol/goleada-imbabura-liga-quito-ibarra.html "Escandalosa goleada del Imbabura a Liga de Quito en Ibarra")
+
+Liga de Quito sin invicto, pero aun líder
+-----------------------------------------
+
+El partido comenzó de manera inesperada para los albos. Apenas a los 6 minutos, **Luca Klimowicz** abrió el marcador para Imbabura.
+
+Lejos de reaccionar, el equipo dirigido por **Pablo ‘Vitamina’ Sánchez** cayó en la desesperación. La defensa tuvo una mala jornada, lo que convirtió el encuentro en un desafío interminable por evitar más goles en contra.
+
+Imbabura continuó su embestida y a los 22 minutos, **Federico Paz amplió la ventaja**. Justo antes del descanso, a los 44′, Klimowicz completó su doblete para sellar una contundente goleada sobre el conjunto capitalino.
+
+Por si fuera poco, en los minutos finales, L**eandro Pantoja convirtió un penal para cerrar el partido 4-0**, ante una versión desdibujada del ‘Rey de Copas’, que hasta ese momento había recibido solo un gol en cinco fechas y contaba con la mejor defensa del torneo.
+
+A pesar del duro revés, **Liga de Quito se mantiene como líder de la segunda etapa de la Liga Pro**, aunque perdió la oportunidad de ampliar su ventaja en la clasificación. Su liderato también se vio favorecido por el tropiezo de Orense, que empató en casa contra Universidad Católica.
+
+Liga de Quito **sigue en la cima con 15 puntos tras seis fechas**. Sus escoltas son Orense, en segundo lugar, con 13 puntos, seguido de Independiente del Valle y Barcelona SC, ambos con 10 unidades.
+
+Próximo partido de Liga de Quito
+--------------------------------
+
+En la séptima jornada de la segunda etapa, **Liga de Quito** afrontará un duro reto al jugar uno de los clásicos más importantes de Quito y del país.
+
+La ‘U’ **recibirá en el Estadio Rodrigo Paz Delgado a El Nacional**, que aunque ha sumado puntos, atraviesa un declive en su nivel de juego. Actualmente, los militares se encuentran en la octava posición con 8 puntos.
+
+El partido se disputará el sábado 21 de septiembre a las 16:30.
+
+Deportivo Quito jugará el torneo de ascenso a la Serie B
+========================================================
+
+Los hinchas del Deportivo Quito tienen una razón para sonreír, ya que el sueño de volver a la Serie B vuelve a ser una realidad.
+--------------------------------------------------------------------------------------------------------------------------------
+
+![Deportivo Quito jugará el torneo de Ascenso a la Serie B 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-16T090252.718.jpg)
+
+Lo que comenzó como un rumor en días anteriores se confirmó el domingo 15 de septiembre: **Deportivo** **Quito**, que milita en la Segunda Categoría de Pichincha, peleará por el ascenso a la Serie B.
+
+La ‘AKD’ **revive la ilusión de volver a un circuito profesional** luego de anunciar, a través de sus redes sociales, que estarán presentes en los playoffs del ascenso nacional.
+
+### Más noticias:
+
+* [Patrón Mejía confirma documentación y Deportivo Quito espera](https://www.elcomercio.com/deportes/futbol/deportivo-quito-ascenso-patron-mejia-documentacion.html "Patrón Mejía confirma documentación y Deportivo Quito espera")
+* [Deportivo Quito mantiene la esperanza de jugar el ascenso a la Serie B](https://www.elcomercio.com/deportes/futbol/deportivo-quito-ascenso-serieb-jose-pardo.html "Deportivo Quito mantiene la esperanza de jugar el ascenso a la Serie B")
+* [Deportivo Quito y la posibilidad de jugar el ascenso](https://www.elcomercio.com/deportes/futbol/deportivo-quito-y-la-posibilidad-de-jugar-el-ascenso.html "Deportivo Quito y la posibilidad de jugar el ascenso")
+
+Este anuncio llega después de una difícil temporada en la Segunda Categoría de Pichincha, en la que no lograron avanzar al hexagonal final y terminaron de manera anticipada su participación en el torneo provincial.
+
+El desencanto que ha acompañado al equipo y a su fiel hinchada durante años parece haber llegado a su fin con esta ‘**milagrosa**‘ clasificación a los playoffs.
+
+Ahora, **Deportivo Quito** tiene la oportunidad de regresar a la Serie B y seguir soñando con su retorno a la Serie A, donde jugó por última vez en 2015 y donde se coronó campeón en cinco ocasiones.
+
+Deportivo Quito luchará por el ascenso
+--------------------------------------
+
+“La **‘AKD’ jugará los playoffs** del ascenso nacional. El Quito es el quinto representante de la provincia de Pichincha en el sueño de volver a la Serie B”, anunciaron oficialmente en las redes sociales del club.
+
+> ‼️Ya podemos contarles‼️  
+>   
+> La AKD 💙❤️ jugará los playoffs del ascenso nacional. [#ElQuitoEs](https://twitter.com/hashtag/ElQuitoEs?src=hash&ref_src=twsrc%5Etfw) el quinto representante de la provincia de Pichincha en el sueño de la Serie B.  
+>   
+> El los próximos días informaremos nuestro cuerpo técnico y plantel.  
+>   
+> 🎶 Deeeelirando por volverte a ver [pic.twitter.com/Uv8qsFghRe](https://t.co/Uv8qsFghRe)
+> 
+> — SD Quito Oficial (@SDQuito\_Oficial) [September 16, 2024](https://twitter.com/SDQuito_Oficial/status/1835502039008268342?ref_src=twsrc%5Etfw)
+
+Su clasificación, sin embargo, no se dio por méritos deportivos. De haber sido así, el equipo habría permanecido un año más en la **Segunda Categoría**. Su cupo en los playoffs se debe a un ‘milagro de escritorio’, tras problemas de documentación de otros clubes.
+
+Inicialmente, solo los mejores cuatro equipos del hexagonal final de Pichincha tenían derecho a pelear por el ascenso. Sin embargo, se añadieron dos cupos más.
+
+Los clasificados oficialmente por Pichincha fueron Miguel Iturralde, Deportivo Meridiano, **Atlético** **Vinotinto** y Ampetra. Pero gracias a los nuevos cupos, clubes como Patrón Mejía e Independiente JFA también tenían la oportunidad de avanzar.
+
+No obstante, estos dos equipos no entregaron su documentación a tiempo, lo que benefició a Deportivo Quito y al **AV 25, equipo de Antonio Valencia**, quienes finalmente lograron clasificar a los playoffs.
+
+El torneo de ascenso a la Serie B
+---------------------------------
+
+En los playoffs nacionales **participarán 64 clubes de 22 provincias.** Guayas, Manabí y Pichincha son las que más representantes tendrán, con ocho, siete y seis equipos, respectivamente.
+
+El sorteo para esta fase se llevará a cabo el lunes 16 de septiembre, desde las 17:00. Los partidos de ida de los 32 avos de final comenzarán el sábado 28 de septiembre.
+
 El Metro de Quito fue vandalizado otra vez
 ==========================================
 
@@ -202,6 +368,28 @@ El caso Metástasis es un espejo de la realidad del país. Las instituciones enc
 
 Si no se toman medidas drásticas y profundas para reformar estas instituciones, es posible que casos como el de Leandro Norero sigan proliferando. El caso Metástasis debe servir como una **llamada de atención urgente** para reformar un sistema que, si sigue por este camino, estará condenado al colapso.
 
+Lecturas que reviven ideales
+============================
+
+Elijamos autoridades honestas y enfrentemos, con decisión y firmeza, a la corrupción.
+-------------------------------------------------------------------------------------
+
+![Reinaldo Páez Z., columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Reinaldo-Paez-Z.jpg)
+
+Enorme regocijo origina la **lectura** de la **novela histórica**, “**El Fuego Interior**” fruto de la prolífica **escritora** **Águeda Pallares**; su lectura es tan cautivadora que atrapa al lector y lo abraza entre hermosas **metáforas**, bellas **descripciones** geográficas y situaciones cambiantes que exhalan amor, pasión, patriotismo, lealtad y ejemplar honestidad. El **relato poético** permite percibir el sudor de los valientes soldados que, bajo el mando del general Antonio José de Sucre, cumplían las órdenes del libertador Simón Bolívar, para transportar a caballo, cañones, lanzas, fusiles y otros **pertrechos bélicos**, a través de “largos caminos, bajo la **lluvia**, el **sol abrazador**, las noches heladas y la mala alimentación…” “Atravesaban estrechos valles de paisajes pristinos y hermosas vistas. Las **ciudades** por las que pasaban estaban perdidas en el tiempo” Las montañas y las **quebradas** profundas, no constituían **obstáculos** infranqueables en el desplazamiento de los ejércitos que, imbuidos de **patriotismo**, sorprendieron a las poderosas **fuerzas realistas**. Las elegantes y armoniosamente hilvanadas frases dedicadas al **héroe** y sin par personaje **Antonio José de Sucre**, nos transportan a los campos de **batalla** del Pichincha y de Ayacucho, nos contagian del olor, a pólvora, a dolor y a la **sangre** que derramaron los bravos **soldados** para legarnos la **libertad**.
+
+La **obra** narra que, una vez liberado el Perú, el **Mariscal Sucre** fue designado primer presidente de Bolivia; “el nuevo país florecía y el ejército se preparaba bajo la **supervisión** de su comandante” “los hombres, que antes gozaban de **poder ilimitado**, no soportaban a Sucre porque gobernaba de forma autoritaria, sin desviarse del camino de la **virtud** y la **honestidad**, no se podía lucrar de las arcas de la **república**, atrasarse o hacer mal el trabajo”
+
+Añadía el joven general “vamos a erradicar de una vez por todas esas malas mañas. Nunca construiremos una verdadera **democracia** mientras no logremos sembrar la **honestidad** y el cumplimiento del deber en la **conciencia** de los **ciudadanos**” …”si no se obedece mi **mandato** asegúrese de que se aplique la pena de muerte a los **corruptos**” “En la reunión con sus **ministros**, Sucre planteó la urgencia que tenía en conseguir recursos para cubrir **gastos** de **educación** y **salud**”.
+
+Han transcurrido dos siglos desde que el **Mariscal Sucre** y el Libertador **Simón Bolívar** anhelaban que, en los **países liberados** por ellos, se elimine la **corrupción** e inclusive planteaban la **pena capital** para los **corruptos** y ansiaban financiar la **salud** y la **educación**, como acciones fundamentales de gobierno. Qué positivo sería que, en el **momento actual**, se actualicen esos **programas** y que alguno de los 16 aspirantes a ocupar **Carondelet,** exponga **proyectos** de **gobiernos** similares y aboguen por dar fin a la **corrupción** que está destruyendo a **nuestro país**. La triste realidad es que ningún **candidato** presenta propósitos de gestión y la gran mayoría se mantiene inmersa en las **redes sociales** y en **programas faranduleros** que no garantizan un **futuro útil** para el país.
+
+Es inaudito que en lugar de que la **Asamblea** elabore leyes que cimienten las bases de un verdadero **sistema nacional de salud**, que modernicen y mejoren la **educación**, que detengan la **destrucción** del Instituto Ecuatoriano de Seguridad Social (IESS), que impidan la **degeneración judicial**, que den mal uso al tiempo de **trabajo** y lo desperdicien en la **planificación** de **juicios políticos**, orientados a desestabilizar a los gobiernos de turno y a beneficiar a **exfuncionarios** que delinquieron y fueron juzgados y **sentenciados**. Esa actitud, de **protección** a los condenados, divide al país entre los **honestos**, que defienden la **democracia** y la **justicia**, y los **corruptos**, que dan cabida a **personajes** que han saqueado las **arcas nacionales** y aspiran a seguir haciéndolo, sin ningún recato.
+
+Es un **enfrentamiento** entre el bien y el mal, en varias batallas; en la última triunfó la valiente representante de la lucha contra la **corrupción**, la **Fiscal General Diana Salazar**, cuya acción frontal ha permitido descubrir una enorme **podredumbre** del **sistema judicial** y sancionar a abogados, jueces, fiscales, militares y policías, en varios casos abiertos.
+
+Honremos la **memoria** de **Bolívar** y de **Sucre**, nos sumemos al **ejército** de **dignidad** y **corrección**, elijamos **autoridades** **honestas** y enfrentemos, con decisión y firmeza, a la **corrupción**.
+
 Cartas a Quito / 16 de septiembre de 2024
 =========================================
 
@@ -230,28 +418,6 @@ Toda organización social emplazada en un determinado  territorio (estado), tie
 
 Marco A. Zurita Ríos
 
-Lecturas que reviven ideales
-============================
-
-Elijamos autoridades honestas y enfrentemos, con decisión y firmeza, a la corrupción.
--------------------------------------------------------------------------------------
-
-![Reinaldo Páez Z., columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Reinaldo-Paez-Z.jpg)
-
-Enorme regocijo origina la **lectura** de la **novela histórica**, “**El Fuego Interior**” fruto de la prolífica **escritora** **Águeda Pallares**; su lectura es tan cautivadora que atrapa al lector y lo abraza entre hermosas **metáforas**, bellas **descripciones** geográficas y situaciones cambiantes que exhalan amor, pasión, patriotismo, lealtad y ejemplar honestidad. El **relato poético** permite percibir el sudor de los valientes soldados que, bajo el mando del general Antonio José de Sucre, cumplían las órdenes del libertador Simón Bolívar, para transportar a caballo, cañones, lanzas, fusiles y otros **pertrechos bélicos**, a través de “largos caminos, bajo la **lluvia**, el **sol abrazador**, las noches heladas y la mala alimentación…” “Atravesaban estrechos valles de paisajes pristinos y hermosas vistas. Las **ciudades** por las que pasaban estaban perdidas en el tiempo” Las montañas y las **quebradas** profundas, no constituían **obstáculos** infranqueables en el desplazamiento de los ejércitos que, imbuidos de **patriotismo**, sorprendieron a las poderosas **fuerzas realistas**. Las elegantes y armoniosamente hilvanadas frases dedicadas al **héroe** y sin par personaje **Antonio José de Sucre**, nos transportan a los campos de **batalla** del Pichincha y de Ayacucho, nos contagian del olor, a pólvora, a dolor y a la **sangre** que derramaron los bravos **soldados** para legarnos la **libertad**.
-
-La **obra** narra que, una vez liberado el Perú, el **Mariscal Sucre** fue designado primer presidente de Bolivia; “el nuevo país florecía y el ejército se preparaba bajo la **supervisión** de su comandante” “los hombres, que antes gozaban de **poder ilimitado**, no soportaban a Sucre porque gobernaba de forma autoritaria, sin desviarse del camino de la **virtud** y la **honestidad**, no se podía lucrar de las arcas de la **república**, atrasarse o hacer mal el trabajo”
-
-Añadía el joven general “vamos a erradicar de una vez por todas esas malas mañas. Nunca construiremos una verdadera **democracia** mientras no logremos sembrar la **honestidad** y el cumplimiento del deber en la **conciencia** de los **ciudadanos**” …”si no se obedece mi **mandato** asegúrese de que se aplique la pena de muerte a los **corruptos**” “En la reunión con sus **ministros**, Sucre planteó la urgencia que tenía en conseguir recursos para cubrir **gastos** de **educación** y **salud**”.
-
-Han transcurrido dos siglos desde que el **Mariscal Sucre** y el Libertador **Simón Bolívar** anhelaban que, en los **países liberados** por ellos, se elimine la **corrupción** e inclusive planteaban la **pena capital** para los **corruptos** y ansiaban financiar la **salud** y la **educación**, como acciones fundamentales de gobierno. Qué positivo sería que, en el **momento actual**, se actualicen esos **programas** y que alguno de los 16 aspirantes a ocupar **Carondelet,** exponga **proyectos** de **gobiernos** similares y aboguen por dar fin a la **corrupción** que está destruyendo a **nuestro país**. La triste realidad es que ningún **candidato** presenta propósitos de gestión y la gran mayoría se mantiene inmersa en las **redes sociales** y en **programas faranduleros** que no garantizan un **futuro útil** para el país.
-
-Es inaudito que en lugar de que la **Asamblea** elabore leyes que cimienten las bases de un verdadero **sistema nacional de salud**, que modernicen y mejoren la **educación**, que detengan la **destrucción** del Instituto Ecuatoriano de Seguridad Social (IESS), que impidan la **degeneración judicial**, que den mal uso al tiempo de **trabajo** y lo desperdicien en la **planificación** de **juicios políticos**, orientados a desestabilizar a los gobiernos de turno y a beneficiar a **exfuncionarios** que delinquieron y fueron juzgados y **sentenciados**. Esa actitud, de **protección** a los condenados, divide al país entre los **honestos**, que defienden la **democracia** y la **justicia**, y los **corruptos**, que dan cabida a **personajes** que han saqueado las **arcas nacionales** y aspiran a seguir haciéndolo, sin ningún recato.
-
-Es un **enfrentamiento** entre el bien y el mal, en varias batallas; en la última triunfó la valiente representante de la lucha contra la **corrupción**, la **Fiscal General Diana Salazar**, cuya acción frontal ha permitido descubrir una enorme **podredumbre** del **sistema judicial** y sancionar a abogados, jueces, fiscales, militares y policías, en varios casos abiertos.
-
-Honremos la **memoria** de **Bolívar** y de **Sucre**, nos sumemos al **ejército** de **dignidad** y **corrección**, elijamos **autoridades** **honestas** y enfrentemos, con decisión y firmeza, a la **corrupción**.
-
 Caso Sinohydro iniciará un nuevo proceso en la investigación
 ============================================================
 
@@ -266,6 +432,9 @@ El conjuez **Manuel Cabrera**, de la **Corte Nacional de Justicia**, ha convocad
 
 * [Fiscalía expone cómo operaba Leandro Norero en el caso Metástasis](https://www.elcomercio.com/actualidad/seguridad/fiscalia-expone-como-operaba-leandro-norero-caso-metastasis.html "Fiscalía expone cómo operaba Leandro Norero en el caso Metástasis")
 * [Caso Purga: CNJ resolvió pedido de sustitución de prisión preventiva para Pablo Muentes y otros](https://www.elcomercio.com/actualidad/seguridad/caso-purga-cnj-resuelve-pedido-sustitucion-prision-preventiva-pablo-muentes.html "Caso Purga: CNJ resolvió pedido de sustitución de prisión preventiva para Pablo Muentes y otros")
+* [Caso Plaga, testigo protegido mencionó a Iván Saquicela](https://www.elcomercio.com/actualidad/seguridad/caso-plaga-testimonio-anticipado-menciono-ivan-saquicela.html "Caso Plaga, testigo protegido mencionó a Iván Saquicela")
+
+Sin embargo, este lunes 16 de septiembre se conoció a través del **calendario de audiencias de la Corte Nacional de Justicia** que este proceso quedó diferido.
 
 La investigación sobre este caso comenzó en marzo de 2019. Inicialmente, se procesó a **37 personas, pero luego se sumaron tres más**. Entre los involucrados figuran **Conto Patiño**, cercano a Moreno, y el **exembajador chino Cai Runguo**. Este caso está relacionado con la contratación de la empresa Sinohydro para la construcción de Coca Codo Sinclair, un proyecto financiado por más de 2 000 millones de dólares.
 
@@ -874,197 +1043,3 @@ La campaña del **Aucas** es pésima en la segunda etapa. Solo empató con El Na
 Los hinchas orientales están afligidos por el mal momento del club.
 
 La lucha por mantenerse en la Serie A se intensifica a medida que avanza la segunda fase del torneo ecuatoriano.
-
-Nuevo incendio forestal en el sector La Toglla, en el cerro Ilaló de Quito
-==========================================================================
-
-Una nube de humo se esparció por los Valles y algunos sectores del distrito metropolitano.
-------------------------------------------------------------------------------------------
-
-![El humo provocado por este incendio se visualiza desde distintos puntos de Quito. Foto: tomada de X](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-13.jpg)
-
-El Cuerpo de Bomberos de Quito están trabajando en apagar un nuevo incendio forestal. Esta vez se trata del cerro Ilaló, en el sector La Toglla, en Quito.
-
-Más noticias
-------------
-
-* [¿Cuántas hectáreas fueron afectadas por los incendios forestales en Quito?](https://www.elcomercio.com/actualidad/quito/hectareas-afectadas-incendios-quito.html "¿Cuántas hectáreas fueron afectadas por los incendios forestales en Quito?")
-* [Incendio forestal en Colinas del Norte, Quito](https://www.elcomercio.com/actualidad/quito/incendio-forestal-colinas-norte-quito.html "Incendio forestal en Colinas del Norte, Quito")
-
-Desde las **cámaras** de videovigilancia del Servicio Integrado de Seguridad [ECU911](https://ecu911.gob.ec/SAEI/#login) se observa una **línea** de fuego que sube desde la vía principal, cerca del estadio de **La Toglla.**
-
-Debido a los fuertes vientos, el fuego se esparció rápidamente y una nube de humo se levantó y se visualiza desde varios puntos de la ciudad.
-
-Los Bomberos indicaron, a través de su cuenta de X, que debido a este incendio existe residuos de combustión y humo en algunos sectores de los Valles y del Distrito Metropolitano.
-
-> 👨‍🚒 [#IncendiosForestales](https://twitter.com/hashtag/IncendiosForestales?src=hash&ref_src=twsrc%5Etfw) | Debido al incendio forestal que se registra en el sector del cerro Ilaló, existe presencia de humo y residuos de combustión en algunos sectores de los valles y el Distrito Metropolitano de Quito.  
->   
-> ⬇️ Por favor, sigue estas recomendaciones para evitar… [pic.twitter.com/hVX4dc8pui](https://t.co/hVX4dc8pui)
-> 
-> — Bomberos Quito (@BomberosQuito) [September 15, 2024](https://twitter.com/BomberosQuito/status/1835427053891420314?ref_src=twsrc%5Etfw)
-
-Hasta las 18:00 de hoy, el incendio aún no era sofocado. Las Empresas de Agua y de Movilidad apoyan con tanqueros, mientras que por aire se realizaron tres descargas con bambi bucket (balde especializado suspendido de un cable transportado por un helicóptero para entregar agua)
-
-Los ciudadanos han subido imágenes y videos del humo que se visualiza, desde los distintos puntos de la urbe.
-
-> Incendio en las faldas del Ilaló, la foto es tomada desde Miravalle [@BomberosQuito](https://twitter.com/BomberosQuito?ref_src=twsrc%5Etfw) [@Riesgos\_Ec](https://twitter.com/Riesgos_Ec?ref_src=twsrc%5Etfw) [pic.twitter.com/PKEf3frPlt](https://t.co/PKEf3frPlt)
-> 
-> — Shirley Katze (@ShirleyKatze) [September 15, 2024](https://twitter.com/ShirleyKatze/status/1835408180509040744?ref_src=twsrc%5Etfw)
-
-Antes de este flagelo, los casacas rojas también estuvieron en la vía Chiriboga, al suroriente de la ciudad, en donde se presentó otro incidente.
-
-Hace cuatro días hubo otro incendio en el cerro Ilaló
------------------------------------------------------
-
-Hay que recordar que la tarde del pasado 11 de septiembre también se presentó otro incendio en el cerro Ilaló. En este caso se destruyeron seis hectáreas del bosque.
-
-Cerca de 30 familias estuvieron en riesgo por lo que colaboraron en apagar el flagelo. En este caso fue provocado por una vecina del lugar que empezó a quemar basura y de inmediato se extendió el fuego.
-
-Los vientos fuertes de esta última temporada permiten que el fuego se esparza rápidamente. La vegetación del lugar está bastante seca, debido a que no ha llovido en las últimas semanas.
-
-La multa por provocar incendios es de hasta 34 500 dólares, de acuerdo con la ordenanza Verde-azul referente al control y uso del fuego.
-
-Brasil se perfila como el gran abastecedor de carnes del mundo
-==============================================================
-
-Los productores de carne de pollo, cerdo y vacuna, y huevos de Brasil se muestran en la feria anual SIAV.
----------------------------------------------------------------------------------------------------------
-
-![Ricardo Santín (cen.) promociona la producción de carne de Brasil en el mundo en la feria SIAV. Él preside la Asociación Brasileña de Proteína Animal.](https://www.elcomercio.com/wp-content/uploads/2024/09/Ricardo-ABPA-1.jpg)
-
-**Brasil** tiene bien claro su papel de gran productor de carnes en el mundo. Con ese norte se expande comercialmente a todos los continentes, pero paralelamente avanza en una mejora de su competitividad.
-
-### Más noticias
-
-* [13 países de Sudamérica en llamas. 350 370 incendios forestales en casi nueve meses](https://www.elcomercio.com/tendencias/ambiente/13-paises-de-sudamerica-en-llamas-350-370-incendios-forestales-en-casi-nueve-meses.html "13 países de Sudamérica en llamas. 350 370 incendios forestales en casi nueve meses")
-
-Brasil exporta carnes a 150 países del mundo
---------------------------------------------
-
-Brasil produjo 14,8 millones de toneladas de carne de pollo en 2023 y la proyección para este 2024 es alcanzar los 15,1 millones. Si alcanza esa meta, se considera un incremento significativo para **el segundo productor mundial de este tipo de proteína animal.**
-
-**Ricardo Santín, presidente de la Asociación Brasileña de Proteína Animal (ABPA),** destaca la importancia de esta actividad económica. Produce alimentos para satisfacer el consumo interno de más de **200 millones de habitantes y exporta a más de 150 mercados.**
-
-Brasil es el principal exportador de **carne de pollo a China, uno de los mercados más importantes para el gigante latinoamericano.**
-
-Santín sostiene que Brasil tienen una potente p**roducción de pollo a los productores de carnes de cerdo, pavo, pescado y huevos. A esa cadena se unen la producción de carne de res.**
-
-El primer exportador mundial de carne de pollo
-----------------------------------------------
-
-**Brasil es el primer exportador mundial de carne de pollo**, con 5,1 millones de toneladas vendidas en 2023. Está por delante de Estados Unidos y la Unión Europea, que ocupan el segundo y tercer lugar en las ventas mundiales de esta proteína.
-
-Brasil aprovecha la caída de las exportaciones de Estados Unidos para posicionarse en el comercio mundial. Para este 2024, Brasil proyecta un crecimiento del 3%. Su competidor inmediato, Estados Unidos, no atraviesa una buena temporada de exportaciones y se diagnostica que tendrá una caída de -7,1%.
-
-Con ese panorama, **Brasil acapara el 36,9% del mercado mundial, frente al 23,7% de Estados Unidos.** En 2023, sus ganancias fueron de 9 700 millones de dólares.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/09/feria-1024x683.jpg)
-
-La industria avícola, porcina y bovina participó en la feria SIAV, a la cual asistieron más de 25 000 personas. Foto: SIAV
-
-El futuro de Brasil, con mejor competitividad
----------------------------------------------
-
-**La Asociación Brasileña de Proteína Animal**, que agrupa productores de pollos, pavo, cerdo, huevos y tilapia, hace planes para crecer en el mercado interno y expandir sus exportaciones.
-
-La industria y los avicultores diversifican los productos de valor agregado e innovan. Ricardo Santín comenta que Brasil consume productos de pollo de mayor valor añadido, como filetes de pechuga, piernas deshuesadas, pollo sin piel y sin hueso.
-
-Muchos productos premium se consumen en Brasil. Esta tendencia es fuerte, ya que el 65,35% de la producción nacional se destina al mercado local y el resto va a los **150 países importadores.**
-
-En general, la industria brasileña del pollo crea líneas enfocadas en la comodidad del consumidor y el consumo en casa. Por ejemplo, el mercado está abastecido con porciones individuales, más fáciles de preparar, listas para comer, líneas gourmet y productos orgánicos.
-
-El crecimiento poblacional mundial alienta a Brasil
----------------------------------------------------
-
-La **avicultura brasileña** crece cada año. Las guerras de **Rusia contra Ucrania y de Oriente Medio**, ni la crisis económica mundial han impedido su desarrollo.
-
-Pese a las adversidades mundiales, Brasil tiene más compradores de carne de pollo, porque no dejó de exportar. Adicionalmente, Brasil mira con perspectiva el aumento de la población mundial, pues se calcula que habrá más de 2 000 millones de personas adicionales en 2050.
-
-Asia concentrará a los nuevos consumidores, analiza Santin. Ahí están China, India e Indonesia, cuyos habitantes demandarán proteína de pollo. Por eso, Brasil apunta a esos mercados. Pero, ya en este año, la industria brasileña pronostica que 113 millones de personas ingresarán al consumo de carne de pollo.
-
-**Eduardo Giannetti da Fonseca, experto en agronegocios**, ve factores retadores, pero oportunidades para Brasil. **Primero**, el fin del milagro chino, ya que su crecimiento a dos dígitos terminó. Va a crecer de 4% a 5% por año y la migración del campo a la ciudad se agotó.
-
-**Segundo:** la población de India e Indonesia crece y la demanda de carne de pollo será importante.
-
-**Y tercero:** Brasil no atraviesa por una recesión económica, frente a otros países, como Estados Unidos.
-
-La conclusión es que el mundo depende de la producción y seguridad alimentaria de Brasil, asegura Giannetti da Fonseca, un PhD en Economía de la Universidad de Cambridge, Inglaterra.
-
-La relación de Brasil con Ecuador en la avicultura
---------------------------------------------------
-
-**Ecuador tiene su propia producción de carne de pollo**, por lo que no tiene importaciones de Brasil[.](https://es.wikipedia.org/wiki/Brasil "https://es.wikipedia.org/wiki/Brasil")
-
-Sin embargo, Ecuador sí compra genética del país del sur, comenta **Luis Rua, director de Mercado de la Asociación Brasileña de Proteína Animal.**
-
-**Brasil vende huevos fértiles y pollitos bebé para la industria avícola ecuatoriana.** En 2023 exportó  77 toneladas, que significaron 10,05 millones de toneladas. Entre enero y agosto de 2024 llegaron a Ecuador 39 toneladas en las dos partidas, según datos de la ABPA.
-
-Ecuador es un pequeño refugio de los delfines de la Amazonía
-============================================================
-
-Los delfines de la Amazonía de Ecuador habitan en los ríos de la frontera con Perú.
------------------------------------------------------------------------------------
-
-![Los guías certificados tocan y alimentan a los delfines amazónicos de Ecuador. Desde el covid-19, los turistas tienen prohibido acercarse.](https://www.elcomercio.com/wp-content/uploads/2024/09/SACHA-ALTA.jpg)
-
-**Ecuador** tiene un pequeño hábitat para los **delfines de la Amazonía.** Debido a su cordillera, ríos pequeños y fríos, la población de los delfines rosados y grises es baja frente a los otros países amazónicos.
-
-### Más noticias
-
-* [Delfines amazónicos de Ecuador están en la lista roja](https://www.elcomercio.com/actualidad/ecuador/delfines-amazonicos-ecuador-peligro-critico-extincion-amazonia-lista-roja.html "Delfines amazónicos de Ecuador están en la lista roja")
-* [Los rostros de los sobrevivientes del tráfico ilegal de fauna silvestre en Ecuador](https://www.elcomercio.com/tendencias/ambiente/sobrevivientes-trafico-ilegal-fauna-silvestre-ecuador.html "Los rostros de los sobrevivientes del tráfico ilegal de fauna silvestre en Ecuador")
-
-“No se cuentan más de 300 individuos”, indica **Víctor Utreras**, **un científico ecuatoriano**, quien lleva 30 años en la investigación de los delfines de río en la Amazonía de Ecuador.
-
-Sin embargo, la realidad pudiera ser más alarmante. **El Ministerio de Ambiente, Agua y Transición Ecológica (Maate)** calcula que existen **200 delfines rosados**, según un muestreo hecho en los últimos cinco años.
-
-Los delfines rosados están mejor adaptados a ríos y lagunas pequeños, por lo que viven en la mayoría de los cuerpos de agua de la Amazonía ecuatoriana, por debajo de los 360 metros de altitud. En cambio, los grises, que prefieren ríos más grandes, son menos comunes. Se calcula que solo hay **30 delfines grises**, concentrados en grandes **ríos como el Napo.**
-
-En distribución geográfica, los delfines rosados están **Orellana, Sucumbíos, Pastaza y Morona Santiago.** Para tener información actualizada, el **Fondo Mundial para la Naturaleza (WWF, sus siglas en inglés)** realiza estudios.
-
-En el primer semestre de 2024, la organización hizo una expedición en la Amazonía Norte, en la zona **Ramsar Cuyabeno, Lagartococha y Yasuní y Amazonía centro, en la cuenca del Pastaza.** Los primeros resultados se esperan al finalizar este año. 
-
-Las dos especies de delfines de la Amazonía ecuatoriana “están en peligro crítico de extinción”, según Utreras, quien se basa en un informe de la **Unión Internacional para la Conservación de la Naturaleza.** Esta categoría fue confirmada en la última evaluación de la Lista Roja de Ecuador en 2021.
-
-¿Cómo se protegen a los delfines de la Amazonía de Ecuador?
------------------------------------------------------------
-
-La **comunidad Martinica** “tiene un alto espíritu de conservación de los delfines” comenta **Robert Vaca**, gerente de la operadora turística **Amazon Wildlife.**
-
-La comunidad vive en 10 711 hectáreas, de las cuales 5 000 son de conservación para el programa **Socio Bosque del Maate.** Otras 3 500 dedican al turismo. La operadora concretó a inicios de 2024 un acuerdo con Martinica para el avistamiento de los delfines. Vaca destaca de Martinica el buen manejo y cuidado del delfín.
-
-Con ese espíritu, los guías de Martinica impiden que los turistas toquen a los delfines, que solo se acerquen a 1,50 metros y que no les den de comer.
-
-**Manuel Coquinche** dice que Martinica tiene 10 guías certificados para el turismo. En este aprendizaje tienen el apoyo de WWF que los capacita. **La Wildlife Conservation Society (WCS)** también trabaja con ellos para hacer un inventario de todo tipo de animales.
-
-Por ejemplo, Coquinche lleva un registro de todo lo que pasa con los delfines. Desde una especie de puesto de vigilancia, con piso de tierra y techo de hojas secas, Coquinche se sienta y controla la zona. Él es el guardaparque comunitario de septiembre. Cada mes los habitantes se van turnando. 
-
-Se expresa de los delfines con emoción. Desde niño, su padre y su abuelo le inculcaron el cuidado de esta especie. Esa pasión contagió a la comunidad. También aprende de los científicos y uno de ellos es Utreras, asegura Coquinche.
-
-Pero, confiesa que no tienen tantos recursos para los patrullajes. Por esa razón, dice que el “Maate debería hacer patrullajes”. El Ministerio indicó que desde el 2010 se implementó el monitoreo de esa especie, que incluye los patrullajes.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/09/delfines-wfw-1024x683.jpg)
-
-WWF desarrolla la Iniciativa de Delfines de Río de Suramérica (Sardi) en Ecuador para evitar la extinción de esta especie. Foto: Levitar/WWF Ecuador
-
-La comunidad cuidad a los delfines de la Amazonía
--------------------------------------------------
-
-En la **comunidad vecina, Alta Florencia**, el emprendimiento **comunitario Sacha Ñampi** no tiene delfines, pero están involucrados en un plan de conservación con **WCS y WWF.**
-
-**Yelsin Alvarado, gerente de Sacha Ñampi,** cuenta que antes de la WCS se unieron al proyecto Socio Bosque. Ellos dedican 2 000 hectáreas a la conservación. Alvarado dice que así “evitan la cacería del delfín”, ya que colindan con el **Parque Nacional Yasuní, por los ríos Salado y Tambococha.**
-
-Él cree que desde hace 10 años las leyes ambientales son más estrictas y ha generado “una mayor conciencia para conservar esta especie fronteriza. “Estos peces en Perú son asesinados y capturados para vender sus dientes y colmillos”. La WWF les enseña desde hace seis meses a monitorear y llevar un registro del control de los delfines y manatíes.
-
-Desde su cosmovisión kichwa, Alvarado cree que el **“delfín da prosperidad a la comunidad**. En lo turístico es el atractivo estrella y es único en el mundo”. Y agrega: “Nos da buena energía, nos cuida y nos protege. Estamos agradecidos, y como es una especie sagrada, la cuidamos. Es imposible sacrificarla”.
-
-En Martinica, el Yasuní y Cuyabeno se ven más delfines, no así en las provincias amazónicas del sur, como Pastaza o Zamora Chinchipe, señala Alvarado.
-
-La contaminación con petróleo y la minería ilegal empujan a los delfines hacia el refugio que queda en la provincia de Orellana[.](https://es.wikipedia.org/wiki/Inia_geoffrensis "https://es.wikipedia.org/wiki/Inia_geoffrensis")
-
-La conservación de los delfines de la Amazonía
-----------------------------------------------
-
-WWF comenzó con la protección de los delfines de río en Ecuador en 2018. Para ello, colabora con el Instituto Nacional de Biodiversidad y expertos de la **Iniciativa de Delfines de Río de Suramérica (Sardi).**
-
-Así se ejecuta el **programa de Vida Silvestre y Agua Dulce**, financiado por diversas iniciativas para la conservación y evitar su extinción. Con ese propósito se fomenta el turismo responsable y otras estrategias. Según WWF, con las comunidades indígenas se trabaja de manera inclusiva y el cuidado de las especies está vinculado a iniciativas de desarrollo sostenible para promover economías más verdes y sostenibles.
