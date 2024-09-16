@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-13 Sept 2024
+16 Sept 2024
 
 * [Home
     
@@ -259,89 +259,120 @@ Advertise with Us
 
 Most Popular
 
-[![Teenager dies following road traffic collision near Park village](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Teenager dies following road traffic collision near Park village")](https://www.derrynow.com/news/home/1603651/teenager-dies-following-road-traffic-collision-near-park-village.html)
+[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1605522/in-pictures-derry-city-fans-enjoy-a-memorable-night-at-the-brandywell.html)
 
-The teenager passed away following this morning's crash in County Derry.
+Derry City fans at the Brandywell. Pics by George Sweeney, nwpresspics
 
-[Home](https://www.derrynow.com/)
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
 
-[Teenager dies following road traffic collision near Park village](https://www.derrynow.com/news/home/1603651/teenager-dies-following-road-traffic-collision-near-park-village.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[IN PICTURES: Derry City fans enjoy a memorable night at the Brandywell](https://www.derrynow.com/news/derry-sport/1605522/in-pictures-derry-city-fans-enjoy-a-memorable-night-at-the-brandywell.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Milkman William Ferry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Milkman William Ferry")](https://www.derrynow.com/news/derry-news/1603018/derry-milkman-retires-after-54-years-of-serving-his-community.html)
+[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1605556/in-pictures-derry-city-fans-get-their-hands-on-the-fai-cup-at-sports-direct.html)
 
-Derry Milkman William Ferry
+Derry City fans with the FAI Cup at Sports Direct on Saturday. Pics by Ben McShane/ Sportsfile
 
-[Derry News](https://www.derrynow.com/section/999/derry-news)
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
 
-[Derry milkman retires after 54 years of serving his community](https://www.derrynow.com/news/derry-news/1603018/derry-milkman-retires-after-54-years-of-serving-his-community.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[IN PICTURES: Derry City fans get their hands on the FAI Cup at Sports Direct!](https://www.derrynow.com/news/derry-sport/1605556/in-pictures-derry-city-fans-get-their-hands-on-the-fai-cup-at-sports-direct.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Scunnered! Derry reacts to 'glorified smoking hut' partially covering beloved Derry Girls mural](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Scunnered! Derry reacts to 'glorified smoking hut' partially covering beloved Derry Girls mural")](https://www.derrynow.com/news/local-news/1603484/scunnered-derry-reacts-to-glorified-smoking-hut-partially-covering-beloved-derry-girls-mural.html)
-
-Photo via @ClaireAllan on X
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Scunnered! Derry reacts to 'glorified smoking hut' partially covering beloved Derry Girls mural](https://www.derrynow.com/news/local-news/1603484/scunnered-derry-reacts-to-glorified-smoking-hut-partially-covering-beloved-derry-girls-mural.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PICTURES: Mayor's Tea Dance in the Guildhall](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Mayor's Tea Dance in the Guildhall")](https://www.derrynow.com/news/pictures---videos/1603332/pictures-mayor-s-tea-dance-in-the-guildhall.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[PICTURES: Mayor's Tea Dance in the Guildhall](https://www.derrynow.com/news/pictures---videos/1603332/pictures-mayor-s-tea-dance-in-the-guildhall.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Tributes pour in for teenager that died in road traffic collision near County Derry village of Park](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Tributes pour in for teenager that died in road traffic collision near County Derry village of Park")](https://www.derrynow.com/news/county-derry-post/1603905/tributes-pour-in-for-teenager-that-died-in-road-traffic-collision-near-county-derry-village-of-park.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Tributes pour in for teenager that died in road traffic collision near County Derry village of Park](https://www.derrynow.com/news/county-derry-post/1603905/tributes-pour-in-for-teenager-that-died-in-road-traffic-collision-near-county-derry-village-of-park.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Three men returned for trial at Derry Crown Court on sex charges](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Three men returned for trial at Derry Crown Court on sex charges")](https://www.derrynow.com/news/local-news/1604001/three-men-returned-for-trial-at-derry-crown-court-on-sex-charges.html)
-
-Derry Crown Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Three men returned for trial at Derry Crown Court on sex charges](https://www.derrynow.com/news/local-news/1604001/three-men-returned-for-trial-at-derry-crown-court-on-sex-charges.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1603496/derry-death-notices-friday-13th-september-2024.html)
+[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1604422/derry-death-notices-monday-16th-september-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
 
-[Derry Death Notices - Friday, 13th September 2024](https://www.derrynow.com/news/deaths/1603496/derry-death-notices-friday-13th-september-2024.html)
+[Derry Death Notices - Monday, 16th September 2024](https://www.derrynow.com/news/deaths/1604422/derry-death-notices-monday-16th-september-2024.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Completion of NW Greenway Network linking Derry and Donegal officially opens](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Completion of NW Greenway Network linking Derry and Donegal officially opens")](https://www.derrynow.com/news/local-news/1603306/completion-of-nw-greenway-network-linking-derry-and-donegal-officially-opens.html)
+[![Steelstown Brian Ogs](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Steelstown Brian Ogs")](https://www.derrynow.com/news/derry-sport/1605525/newbridge-march-on-but-steelstown-hopes-fading.html)
+
+Action from Steelstown's defeat to Newbridge. Pic by Colm Heron.
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Newbridge march on, but Steelstown hopes fading](https://www.derrynow.com/news/derry-sport/1605525/newbridge-march-on-but-steelstown-hopes-fading.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Police investigating Ballykelly burglary](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police investigating Ballykelly burglary")](https://www.derrynow.com/news/local-news/1605580/police-investigating-ballykelly-burglary.html)
+
+PSNI
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Completion of NW Greenway Network linking Derry and Donegal officially opens](https://www.derrynow.com/news/local-news/1603306/completion-of-nw-greenway-network-linking-derry-and-donegal-officially-opens.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Police investigating Ballykelly burglary](https://www.derrynow.com/news/local-news/1605580/police-investigating-ballykelly-burglary.html)
+------------------------------------------------------------------------------------------------------------------------------------------
 
-[![PICTURES: Lumen Christi College Senior Prize Giving 2024](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Lumen Christi College Senior Prize Giving 2024")](https://www.derrynow.com/news/local-news/1604049/pictures-lumen-christi-college-senior-prize-giving-2024.html)
+[![Taoiseach Simon Harris to visit Derry today](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Taoiseach Simon Harris to visit Derry today")](https://www.derrynow.com/news/local-news/1605562/taoiseach-simon-harris-to-visit-derry-today.html)
 
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[PICTURES: Lumen Christi College Senior Prize Giving 2024](https://www.derrynow.com/news/local-news/1604049/pictures-lumen-christi-college-senior-prize-giving-2024.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man who exposed himself to 17-year-old female shop assistant handed suspended sentence](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man who exposed himself to 17-year-old female shop assistant handed suspended sentence")](https://www.derrynow.com/news/local-news/1604086/man-who-exposed-himself-to-17-year-old-female-shop-assistant-handed-suspended-sentence.html)
+Taoiseach Simon Harris will visit Derry today
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Man who exposed himself to 17-year-old female shop assistant handed suspended sentence](https://www.derrynow.com/news/local-news/1604086/man-who-exposed-himself-to-17-year-old-female-shop-assistant-handed-suspended-sentence.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Taoiseach Simon Harris to visit Derry today](https://www.derrynow.com/news/local-news/1605562/taoiseach-simon-harris-to-visit-derry-today.html)
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1605487/ruaidhri-higgins-televised-cup-tie-a-reminder-of-the-quality-of-the-league-of-ireland.html)
+
+Michael Duffy celebrates his goal against Shelbourne. Pic by Ben McShane/ Sportsfile
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Ruaidhri Higgins: 'Televised cup tie a reminder of the quality of the League of Ireland'](https://www.derrynow.com/news/derry-sport/1605487/ruaidhri-higgins-televised-cup-tie-a-reminder-of-the-quality-of-the-league-of-ireland.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Irish Government stands by 50m euro commitment to Casement Park – Harris](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Irish Government stands by 50m euro commitment to Casement Park – Harris")](https://www.derrynow.com/news/northern-ireland/1605526/irish-government-stands-by-50m-euro-commitment-to-casement-park-harris.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Irish Government stands by 50m euro commitment to Casement Park – Harris](https://www.derrynow.com/news/northern-ireland/1605526/irish-government-stands-by-50m-euro-commitment-to-casement-park-harris.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Daughters of judge murdered by IRA 50 years ago still seeking justice](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Daughters of judge murdered by IRA 50 years ago still seeking justice")](https://www.derrynow.com/news/northern-ireland/1605457/daughters-of-judge-murdered-by-ira-50-years-ago-still-seeking-justice.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Daughters of judge murdered by IRA 50 years ago still seeking justice](https://www.derrynow.com/news/northern-ireland/1605457/daughters-of-judge-murdered-by-ira-50-years-ago-still-seeking-justice.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Public meeting to held in Derry over future of rail in the North West](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Public meeting to held in Derry over future of rail in the North West")](https://www.derrynow.com/news/local-news/1605435/public-meeting-to-held-in-derry-over-future-of-rail-in-the-north-west.html)
+
+The public meeting on the future of rail usage in the north west will be this Saturday.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Public meeting to held in Derry over future of rail in the North West](https://www.derrynow.com/news/local-news/1605435/public-meeting-to-held-in-derry-over-future-of-rail-in-the-north-west.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1605556/in-pictures-derry-city-fans-get-their-hands-on-the-fai-cup-at-sports-direct.html)
+
+Derry City fans with the FAI Cup at Sports Direct on Saturday. Pics by Ben McShane/ Sportsfile
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[IN PICTURES: Derry City fans get their hands on the FAI Cup at Sports Direct!](https://www.derrynow.com/news/derry-sport/1605556/in-pictures-derry-city-fans-get-their-hands-on-the-fai-cup-at-sports-direct.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1605522/in-pictures-derry-city-fans-enjoy-a-memorable-night-at-the-brandywell.html)
+
+Derry City fans at the Brandywell. Pics by George Sweeney, nwpresspics
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[IN PICTURES: Derry City fans enjoy a memorable night at the Brandywell](https://www.derrynow.com/news/derry-sport/1605522/in-pictures-derry-city-fans-enjoy-a-memorable-night-at-the-brandywell.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![WATCH: Tourism Ireland ‘Home of Halloween’ campaign aims to attract more oversea visitors to Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "WATCH: Tourism Ireland ‘Home of Halloween’ campaign aims to attract more oversea visitors to Derry")](https://www.derrynow.com/news/pictures---videos/1604563/watch-tourism-ireland-home-of-halloween-campaign-aims-to-attract-more-oversea-visitors.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[WATCH: Tourism Ireland ‘Home of Halloween’ campaign aims to attract more oversea visitors](https://www.derrynow.com/news/pictures---videos/1604563/watch-tourism-ireland-home-of-halloween-campaign-aims-to-attract-more-oversea-visitors.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Writer James Simpson launches new novel 'True Colours' in Derry's Central Library](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Writer James Simpson launches new novel 'True Colours' in Derry's Central Library")](https://www.derrynow.com/story-telling/pictures---videos/1604423/in-pictures-writer-james-simpson-launches-new-novel-true-colours-in-derry-s-central-library.html)
 
@@ -391,29 +422,6 @@ Multimedia
 
 [Throwback Thursday: Partytime out and about in Derry (2008)](https://www.derrynow.com/story-telling/pictures---videos/1601270/throwback-thursday-partytime-out-and-about-in-derry-2008.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PICTURES: This stunning 3 bed property is the ultimate dream home](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: This stunning 3 bed property is the ultimate dream home")](https://www.derrynow.com/news/pictures---videos/1601820/pictures-this-stunning-3-bed-property-is-the-ultimate-dream-home.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[PICTURES: This stunning 3 bed Derry property is the ultimate dream home](https://www.derrynow.com/news/pictures---videos/1601820/pictures-this-stunning-3-bed-property-is-the-ultimate-dream-home.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: St. Columb's College Senior Prizegiving 2024](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: St. Columb's College Senior Prizegiving 2024")](https://www.derrynow.com/news/pictures---videos/1602077/in-pictures-st-columb-s-college-senior-prizegiving-2024.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: St. Columb's College Senior Prizegiving 2024](https://www.derrynow.com/news/pictures---videos/1602077/in-pictures-st-columb-s-college-senior-prizegiving-2024.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PICTURES: Cross-border job fair held in Derry's City Hotel](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Cross-border job fair held in Derry's City Hotel")](https://www.derrynow.com/story-telling/pictures---videos/1601141/pictures-cross-border-job-fair-held-in-derry-s-city-hotel.html)
-
-PICTURES: Cross-border job fair held in Derry's City Hotel
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Cross-border job fair held in Derry's City Hotel](https://www.derrynow.com/story-telling/pictures---videos/1601141/pictures-cross-border-job-fair-held-in-derry-s-city-hotel.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -515,57 +523,53 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![International Palestinian solidarity public meeting to be held in Derry later this month](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "International Palestinian solidarity public meeting to be held in Derry later this month")](https://www.derrynow.com/news/local-news/1604317/international-palestinian-solidarity-public-meeting-to-be-held-in-derry-later-this-month.html)
-
-Poster for the event
+[![25th anniversary of Loughs Agency celebrated at major international conference in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "25th anniversary of Loughs Agency celebrated at major international conference in Derry")](https://www.derrynow.com/news/local-news/1605946/25th-anniversary-of-loughs-agency-celebrated-at-major-international-conference-in-derry.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[International Palestinian solidarity public meeting to be held in Derry later this month](https://www.derrynow.com/news/local-news/1604317/international-palestinian-solidarity-public-meeting-to-be-held-in-derry-later-this-month.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[25th anniversary of Loughs Agency celebrated at major international conference in Derry](https://www.derrynow.com/news/local-news/1605946/25th-anniversary-of-loughs-agency-celebrated-at-major-international-conference-in-derry.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry's City Deal to be paused by British Government](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry's City Deal to be paused by British Government")](https://www.derrynow.com/news/local-news/1604406/derry-s-city-deal-to-be-paused-by-british-government.html)
-
-The signing of the Derry City and Strabane City deal was due to take place on Wednesday
+[![d](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "d")](https://www.derrynow.com/news/local-news/1602018/st-columb-s-choirs-bring-music-and-opportunity-to-culture-night-celebrations.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Derry's City Deal to be paused by British Government](https://www.derrynow.com/news/local-news/1604406/derry-s-city-deal-to-be-paused-by-british-government.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[d](https://www.derrynow.com/news/local-news/1602018/st-columb-s-choirs-bring-music-and-opportunity-to-culture-night-celebrations.html)
+---------------------------------------------------------------------------------------------------------------------------------------
 
-[![Winter fuel payments tied to council tax bands ‘not possible’, says minister](https://www.derrynow.com/resizer/165/93/true/pa/2024_09_13/1726205109716_0.jpg--.jpg?1726205109836 "Winter fuel payments tied to council tax bands ‘not possible’, says minister")](https://www.derrynow.com/news/local-news/1604245/winter-fuel-payments-tied-to-council-tax-bands-not-possible-says-minister.html)
+[![Public meeting to held in Derry over future of rail in the North West](https://www.derrynow.com/resizer/165/93/true/2024_09_15/IDNM_16-9-24_Derry_train-1726391282140.jpg--.jpg?1726391282159 "Public meeting to held in Derry over future of rail in the North West")](https://www.derrynow.com/news/local-news/1605435/public-meeting-to-held-in-derry-over-future-of-rail-in-the-north-west.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Winter fuel payments tied to council tax bands ‘not possible’, says minister](https://www.derrynow.com/news/local-news/1604245/winter-fuel-payments-tied-to-council-tax-bands-not-possible-says-minister.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![County Derry man charged with breaching restraining order twice](https://www.derrynow.com/resizer/165/93/true/2024_03_28/derrycourthouse2.jpg--man_remanded_at_derry_magistrate_s_court_on_series_of_driving_charges-1711633542377.jpg--.jpg?1711633542414 "County Derry man charged with breaching restraining order twice")](https://www.derrynow.com/news/local-news/1604116/county-derry-man-charged-with-breaching-restraining-order-twice.html)
-
-Derry Magistrate's Court
+The public meeting on the future of rail usage in the north west will be this Saturday.
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[County Derry man charged with breaching restraining order twice](https://www.derrynow.com/news/local-news/1604116/county-derry-man-charged-with-breaching-restraining-order-twice.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Public meeting to held in Derry over future of rail in the North West](https://www.derrynow.com/news/local-news/1605435/public-meeting-to-held-in-derry-over-future-of-rail-in-the-north-west.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![£20k invested in bringing northwest communities together](https://www.derrynow.com/resizer/165/93/true/2024_09_12/IDNT_12-9-24_WATERSIDE_SHARED_Scheme_29464183-1726149150844.jpg--.jpg?1726149150898 "£20k invested in bringing northwest communities together")](https://www.derrynow.com/news/local-news/1603308/20k-invested-in-bringing-northwest-communities-together.html)
+[![Derry Death Notices - Monday](https://www.derrynow.com/resizer/165/93/true/2023_09_21/Derry_Deaths_%281%29-1695307127889.jpg--.jpg?1695307127981 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1604422/derry-death-notices-monday-16th-september-2024.html)
 
-Pictured at Waterside Shared Village Summer Youth Programme are volunteers Molly McMorris and Carrie Bradley.
+[Deaths](https://www.derrynow.com/section/977/deaths)
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Derry Death Notices - Monday, 16th September 2024](https://www.derrynow.com/news/deaths/1604422/derry-death-notices-monday-16th-september-2024.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 
-[£20k invested in bringing northwest communities together](https://www.derrynow.com/news/local-news/1603308/20k-invested-in-bringing-northwest-communities-together.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![Taoiseach Simon Harris to visit Derry today](https://www.derrynow.com/resizer/165/93/true/2024_02_08/INDD_08-02-24_SImon_Harris_Cropped-1707380418542.jpg--.jpg?1707380418610 "Taoiseach Simon Harris to visit Derry today")](https://www.derrynow.com/news/local-news/1605562/taoiseach-simon-harris-to-visit-derry-today.html)
 
-[![Manchester United legends to visit Derry next year](https://www.derrynow.com/resizer/165/93/true/2024_09_13/31b63910-f4f6-11eb-8617-87bebb01a75e-1726228456791.jpg--.jpg?1726228456855 "Manchester United legends to visit Derry next year")](https://www.derrynow.com/news/local-news/1604094/manchester-united-legends-to-visit-derry-next-year.html)
-
-Manchester United legends, Ryan Giggs and Paul Schools will visit Derry for a special evening at the Millennium Forum in January
+Taoiseach Simon Harris will visit Derry today
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Manchester United legends to visit Derry next year](https://www.derrynow.com/news/local-news/1604094/manchester-united-legends-to-visit-derry-next-year.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Taoiseach Simon Harris to visit Derry today](https://www.derrynow.com/news/local-news/1605562/taoiseach-simon-harris-to-visit-derry-today.html)
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Police investigating Ballykelly burglary](https://www.derrynow.com/resizer/165/93/true/2024_02_26/75d09668-969e-11ed-a6c5-0210609a3fe2-1685351040715.jpg---1708952493894.jpg--.jpg?1708952493928 "Police investigating Ballykelly burglary")](https://www.derrynow.com/news/local-news/1605580/police-investigating-ballykelly-burglary.html)
+
+PSNI
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Police investigating Ballykelly burglary](https://www.derrynow.com/news/local-news/1605580/police-investigating-ballykelly-burglary.html)
+------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
