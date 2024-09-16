@@ -40,42 +40,50 @@ Middle EastArrow Down
 [Bahrain | العربية](#noloc_/ar-BH/weather/today/l/)[Iran | فارسى](#noloc_/fa-IR/weather/today/l/)[Iraq | العربية](#noloc_/ar-IQ/weather/today/l/)[Israel | עִבְרִית](#noloc_/he-IL/weather/today/l/)[Jordan | العربية](#noloc_/ar-JO/weather/today/l/)[Kuwait | العربية](#noloc_/ar-KW/weather/today/l/)[Lebanon | العربية](#noloc_/ar-LB/weather/today/l/)[Oman | العربية](#noloc_/ar-OM/weather/today/l/)[Pakistan | اردو](#noloc_/ur-PK/weather/today/l/)[Pakistan | English](#noloc_/en-PK/weather/today/l/)[Qatar | العربية](#noloc_/ar-QA/weather/today/l/)[Saudi Arabia | العربية](#noloc_/ar-SA/weather/today/l/)[Syria | العربية](#noloc_/ar-SY/weather/today/l/)[United Arab Emirates | العربية](#noloc_/ar-AE/weather/today/l/)
 
 Weather Forecasts
+-----------------
 
-TodayHourly10 DayWeekendMonthly & AlmanacYesterdayExternal Link
-
-News & Media
-
-Top Weather StoriesHurricane CentralScience & EnvironmentSpace & SkywatchingSafety & PrepVideos
-
-Health & Wellness
-
-HealthAllergy TrackerAir Quality IndexCold & Flu TrackerSkin Health
-
-Lifestyle
-
-Grilling SeasonHome & GardenTravel & OutdoorsPets & AnimalsGamesExternal Link
+[Today](#noloc_/weather/today/l/)[Hourly](#noloc_/weather/hourbyhour/l/)[10 Day](#noloc_/weather/tenday/l/)[Weekend](#noloc_/weather/weekend/l/)[Monthly & Almanac](#noloc_/weather/monthly/l/)[YesterdayExternal Link](https://www.wunderground.com/history/daily//yesterday)
 
 Radar & Maps
+------------
 
-Interactive Radar MapUS ForecastUS Satellite & RadarWorld SatelliteUS Severe AlertsUS Health
+[Interactive Radar Map](#noloc_/weather/radar/interactive/l/?animation=true)[US Forecast](https://weather.com/maps/currentusweather)[US Satellite & Radar](https://weather.com/maps/ussatellitemap)[World Satellite](https://weather.com/maps/satellite/caribbeanweathermap)[US Severe Alerts](https://weather.com/maps/severealerts)[US Health](https://weather.com/maps/health/allergies/treepollen)
+
+News & Media
+------------
+
+[Top Weather Stories](https://weather.com/news/weather/video/flower-shop-floats-away-poland-deadly-flood-europe)[Hurricane Central](https://weather.com/storms/hurricane-central)[Science & Environment](https://weather.com/science/environment)[Space & Skywatching](https://weather.com/science/space)[Safety & Prep](https://weather.com/safety/index)[Videos](https://weather.com/news/weather/video/flower-shop-floats-away-poland-deadly-flood-europe)
 
 Products
+--------
 
-Go PremiumAlexa SkillExternal LinkWeather UndergroundExternal LinkStorm RadarExternal Link
+[Go Premium](https://weather.com/subscribe)[Alexa SkillExternal Link](https://www.amazon.com/The-Weather-Company-Channel/dp/B07YPYHQ1Q)[Weather UndergroundExternal Link](https://www.wunderground.com/)[Storm RadarExternal Link](https://apps.apple.com/us/app/storm-radar-weather-tracker/id1216396545)
+
+Health & Wellness
+-----------------
+
+[Health](https://weather.com/health)[Eczema](https://weather.com/health/eczema)[Psoriasis](https://weather.com/health/psoriasis)[Diabetes](https://weather.com/health/diabetes)[Healthy Living](https://weather.com/health/healthy-living)[Allergy Tracker](#noloc_/forecast/allergy/l/)[Air Quality Index](#noloc_/forecast/air-quality/l/)[Cold & Flu Tracker](#noloc_/forecast/cold-flu/l/)[Skin Health](https://weather.com/health/skin-health)
 
 Account
+-------
 
-Create An AccountLog InMorning Brief Newsletter
+[Create An Account](https://weather.com/signup)[Log In](https://weather.com/login)[Morning Brief Newsletter](https://weather.com/newsletter?cm_ven=dnt_newsletter_hammenu)
+
+Lifestyle
+---------
+
+[Grilling Season](https://weather.com/home-garden/grilling)[Home & Garden](https://weather.com/home-garden)[Travel & Outdoors](https://weather.com/travel)[Pets & Animals](https://weather.com/pets)[GamesExternal Link](https://puzzmoinc.sjv.io/c/5131646/1928172/21275)
 
 Privacy
+-------
 
-Privacy SettingsData RightsPrivacy Policy
+[Privacy Settings](https://weather.com/privacy-settings)[Data Rights](https://weather.com/data-rights)[Privacy Policy](https://weather.com/en-US/twc/privacy-policy)
 
 Arrow Left
 
 Arrow Right
 
-[Today](#noloc_/weather/today/l/)[Hourly](#noloc_/weather/hourbyhour/l/)[10 Day](#noloc_/weather/tenday/l/)[Weekend](#noloc_/weather/weekend/l/)[Monthly](#noloc_/weather/monthly/l/)[Radar](#noloc_/weather/radar/interactive/l/)[Tropical StormTropics](https://weather.com/storms/hurricane/video/francine-hurricane-gulf-update?adRef=nav_trpcl)
+[Today](#noloc_/weather/today/l/)[Hourly](#noloc_/weather/hourbyhour/l/)[10 Day](#noloc_/weather/tenday/l/)[Weekend](#noloc_/weather/weekend/l/)[Monthly](#noloc_/weather/monthly/l/)[Radar](#noloc_/weather/radar/interactive/l/)[VideoVideo](https://weather.com/news/weather/video/flower-shop-floats-away-poland-deadly-flood-europe)
 
 More ForecastsMoreArrow down
 
