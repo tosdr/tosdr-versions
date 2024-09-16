@@ -307,6 +307,22 @@ Europe's leading entertainment brand
 
  
 
+* [![slide-Happy birthday, RTL United!](/.galleries/images/Happy-birthday-RTL_16-9.png?__scale=undefined&description=)
+    
+    Happy birthday, RTL United!
+    
+    16.09.2024
+    
+    A trip down memory lane: Milestones from the past three years of the RTL United journey, strengthening RTL as Europe’s leading entertainment brand.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/Happy-birthday-RTL-United/)
+    
+* [![slide-Stefan Raab signs deal with RTL Deutschland](/.galleries/images/Stefan-Raab_16-9.jpg?__scale=undefined&description=)
+    
+    Stefan Raab signs deal with RTL Deutschland
+    
+    16.09.2024
+    
+    RTL Deutschland attracts over seven million viewers with _Der Clark Final Fight_ and announces an exclusive five-year contract with TV legend Stefan Raab.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/Stefan-Raab-signs-deal-with-RTL-Deutschland/)
+    
 * [![slide-A new home for RTL Hungary](/.galleries/images/RTL-Hungary_New-offices_16-9.jpg?__scale=undefined&description=)
     
     A new home for RTL Hungary
@@ -338,22 +354,6 @@ Europe's leading entertainment brand
     04.09.2024
     
     In _RTL stories – The podcast_, Fremantle UK CEO Amelia Brown reflects on her journey from production runner to CEO and shares insights into the television industry.](https://www.rtlgroup.com/en/media/overview/rtl-stories-the-podcast/20-years-at-RTL-Amelia-Brown/)
-    
-* [![slide-Three awards at Venice Film Festival](/.galleries/images/Venice-awards_16-9.jpg?__scale=undefined&description=)
-    
-    Three awards at Venice Film Festival
-    
-    09.09.2024
-    
-    Fremantle-backed productions take home three awards at the 81st Venice Fim Festival, while _Maria_ and _Queer_ receive eight-minute and 12-minute standing ovations respectively.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/Three-awards-at-Venice-Film-Festival/)
-    
-* [![slide-20 nominations for the Deutscher Fernsehpreis](/.galleries/images/German-TV-Awards-2024_16-9.png?__scale=undefined&description=)
-    
-    20 nominations for the Deutscher Fernsehpreis
-    
-    09.09.2024
-    
-    RTL Deutschland and UFA have secured 20 nominations in total at the 2024 Deutscher Fernsehpreis (German Television Awards).](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/20-nominations-for-the-Deutscher-Fernsehpreis/)
     
 * [![slide-RTL Group interim results 2024](/.galleries/images/RTL-Group-interim-results-2024_16-9.jpg?__scale=undefined&description=)
     
