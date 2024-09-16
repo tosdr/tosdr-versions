@@ -42,6 +42,7 @@
         
         * [CLOVER](https://4-h.org/clover/)
         * [STEM Challenge](https://4-h.org/programs/stem-challenge/)
+        * [4-H Discover Box](https://4-h.org/programs/4-h-discover-box/)
         * [4-H Tech Changemakers](https://4-h.org/programs/tech-changemakers/)
         * [True Leaders in Equity](https://4-h.org/programs/true-leaders-in-equity/)
         * [Find Your Local 4-H](https://4-h.org/about/find/)
@@ -356,7 +357,7 @@ National 4-H Newsletter
 
  Receive news about 4-h
 
-Name
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
@@ -417,7 +418,7 @@ Terms and Conditions\*
 
  I have read and agree to National 4-H Council's [terms and conditions](https://4-h.org/terms-and-conditions) and [privacy policy](https://4-h.org/privacy-policy)\*
 
-Name
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
