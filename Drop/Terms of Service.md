@@ -3,16 +3,6 @@ Here are the [instructions on how to enable JavaScript in your web browser](http
 
 [Click to view our Accessibility Statement or contact us with accessibility-related questions](https://drop.com/accessibility)
 
-[Drop Signature Series Rocky Board
-
-For our biggest Rocky Bird fans.
-
-SHOP NOW
-
-_keyboard\_arrow\_right_](https://drop.com/buy/drop-signature-series-rocky-board)
-
-Free Standard Shipping in the US on orders over $99
-
 Free Standard Shipping in the US on orders over $99
 
 [Drop](https://drop.com/)
