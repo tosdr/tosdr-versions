@@ -263,7 +263,13 @@ article 4 days ago](https://www.nasa.gov/missions/station/nasas-spacex-crew-9-to
 
 ### Highlights
 
-[![NASA’s Artemis II Crew Uses Iceland Terrain for Lunar Training](https://science.nasa.gov/wp-content/uploads/2024/09/iceland-artemisiitraining-b.jpg)
+[![Two astronauts float inside a densely packed laboratory module on the International Space Station, surrounded by a complex array of scientific equipment, cables, and instruments.](https://www.nasa.gov/wp-content/uploads/2024/09/iss043e099306orig.jpg?w=1024)
+
+3 min read
+
+### Station Science Top News: September 13, 2024
+
+article 1 hour ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-september-13-2024/)[![NASA’s Artemis II Crew Uses Iceland Terrain for Lunar Training](https://science.nasa.gov/wp-content/uploads/2024/09/iceland-artemisiitraining-b.jpg)
 
 4 min read
 
@@ -275,35 +281,29 @@ article 3 days ago](https://science.nasa.gov/missions/artemis/nasas-artemis-ii-c
 
 ### NASA’s SpaceX Crew-9 to Conduct Space Station Research
 
-article 4 days ago](https://www.nasa.gov/missions/station/nasas-spacex-crew-9-to-conduct-space-station-research/)[![9 Phenomena NASA Astronauts Will Encounter at Moon’s South Pole](https://science.nasa.gov/wp-content/uploads/2024/08/sp-astronaut.jpg)
-
-5 min read
-
-### 9 Phenomena NASA Astronauts Will Encounter at Moon’s South Pole
-
-article 5 days ago](https://science.nasa.gov/solar-system/moon/phenomena-nasa-astronauts-will-encounter-at-moons-south-pole/)
+article 4 days ago](https://www.nasa.gov/missions/station/nasas-spacex-crew-9-to-conduct-space-station-research/)
 
 ### Highlights
 
-[![This map shows global temperature anomalies in 2024.](https://www.nasa.gov/wp-content/uploads/2024/09/gistemp-aug2024-map-no-text.png?w=1024)
+[![Screen capture of the My NASA Data homepage. Graphic has a blue background with an image of the Earth and rows across half of the picture representing water, sea ice, forests, clouds, and lava. Words at the top list the content categories.](https://www.nasa.gov/wp-content/uploads/2024/09/1-my-nasa-data-homepage.png?w=1024)
+
+4 min read
+
+### Going Back-to-School with NASA Data
+
+article 2 hours ago](https://www.nasa.gov/learning-resources/for-educators/going-back-to-school-with-nasa-data/)[![Amendment 48: A.5 Carbon Cycle Science Final Text and Due Dates.](https://science.nasa.gov/wp-content/uploads/2023/06/co2-gmao-202102-lrg.jpg)
+
+2 min read
+
+### Amendment 48: A.5 Carbon Cycle Science Final Text and Due Dates.
+
+article 3 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-48-a-5-carbon-cycle-science-final-text-and-due-dates/)[![This map shows global temperature anomalies in 2024.](https://www.nasa.gov/wp-content/uploads/2024/09/gistemp-aug2024-map-no-text.png?w=1024)
 
 5 min read
 
 ### NASA Finds Summer 2024 Hottest to Date
 
-article 5 days ago](https://www.nasa.gov/earth/nasa-finds-summer-2024-hottest-to-date/)[![](https://www.nasa.gov/wp-content/uploads/2024/09/glacier-a428b8-e1725991453839.jpg?w=1024)
-
-6 min read
-
-### Childhood Snow Days Transformed Linette Boisvert into a Sea Ice Scientist
-
-article 6 days ago](https://www.nasa.gov/people-of-nasa/goddard-people/childhood-snow-days-transformed-linette-boisvert-into-a-sea-ice-scientist/)[![NASA Summer Camp Inspires Future Climate Leaders](https://science.nasa.gov/wp-content/uploads/2024/09/2024-nasa-summer-camp-jill-gambill.jpeg)
-
-2 min read
-
-### NASA Summer Camp Inspires Future Climate Leaders
-
-article 1 week ago](https://science.nasa.gov/learning-resources/science-activation/nasa-summer-camp-inspires-future-climate-leaders/)
+article 5 days ago](https://www.nasa.gov/earth/nasa-finds-summer-2024-hottest-to-date/)
 
 ### Highlights
 
@@ -347,29 +347,29 @@ article 4 days ago](https://science.nasa.gov/missions/webb/nasas-webb-peers-into
 
 ### NASA’s Hubble, Chandra Find Supermassive Black Hole Duo
 
-article 7 days ago](https://science.nasa.gov/missions/hubble/nasas-hubble-chandra-find-supermassive-black-hole-duo/)
+article 1 week ago](https://science.nasa.gov/missions/hubble/nasas-hubble-chandra-find-supermassive-black-hole-duo/)
 
 ### Highlights
 
-[![Solar Storms and Flares](https://science.nasa.gov/wp-content/uploads/2024/06/x-flare-may-8-2024-131-171-red-crop2.jpg)
+[![Amendment 48: A.5 Carbon Cycle Science Final Text and Due Dates.](https://science.nasa.gov/wp-content/uploads/2023/06/co2-gmao-202102-lrg.jpg)
+
+2 min read
+
+### Amendment 48: A.5 Carbon Cycle Science Final Text and Due Dates.
+
+article 3 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-48-a-5-carbon-cycle-science-final-text-and-due-dates/)[![Aura at 20 Years](https://science.nasa.gov/wp-content/uploads/2024/09/figure-1.jpg)
+
+14 min read
+
+### Aura at 20 Years
+
+article 3 hours ago](https://science.nasa.gov/science-research/earth-science/aura-at-20-years/)[![Solar Storms and Flares](https://science.nasa.gov/wp-content/uploads/2024/06/x-flare-may-8-2024-131-171-red-crop2.jpg)
 
 2 min read
 
 ### Solar Storms and Flares
 
-article 3 days ago](https://science.nasa.gov/sun/solar-storms-and-flares/)[![Jason Williams](https://science.nasa.gov/wp-content/uploads/2024/09/williams-headshot.jpg)
-
-3 min read
-
-### Jason Williams
-
-article 3 days ago](https://science.nasa.gov/people/jason-williams/)[![Amendment 47: DRAFT F.12 Artemis IV Deployed Instruments Program Released for Community Comment.](https://science.nasa.gov/wp-content/uploads/2024/08/sp-astronaut.jpg)
-
-2 min read
-
-### Amendment 47: DRAFT F.12 Artemis IV Deployed Instruments Program Released for Community Comment.
-
-article 3 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-47-draft-f-12-artemis-iv-deployed-instruments-program-released-for-community-comment/)
+article 3 days ago](https://science.nasa.gov/sun/solar-storms-and-flares/)
 
 ### Highlights
 
@@ -417,25 +417,25 @@ article 4 days ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/print
 
 ### Featured
 
-[![This image — developed by a team of artists from the Advanced Concepts Lab at NASA’s Langley Research Center — features astronauts performing science on the surface of the Moon and Mars. The team developed the image with a blend of digital 2D illustration and 3D techniques to mimic a retro science fiction painting.](https://www.nasa.gov/wp-content/uploads/2024/09/7-sciencetechnology-lores.png?w=1024)
+[![Screen capture of the My NASA Data homepage. Graphic has a blue background with an image of the Earth and rows across half of the picture representing water, sea ice, forests, clouds, and lava. Words at the top list the content categories.](https://www.nasa.gov/wp-content/uploads/2024/09/1-my-nasa-data-homepage.png?w=1024)
+
+4 min read
+
+### Going Back-to-School with NASA Data
+
+article 2 hours ago](https://www.nasa.gov/learning-resources/for-educators/going-back-to-school-with-nasa-data/)[![](https://www.nasa.gov/wp-content/uploads/2024/09/52573356957-8ecef477bd-k.jpg?w=1024)
+
+3 min read
+
+### NASA Mobilizes Resource for HBCU Scholars, Highlighted at Conference
+
+article 6 hours ago](https://www.nasa.gov/learning-resources/nasa-mobilizes-resource-for-hbcu-scholars-highlighted-at-conference/)[![This image — developed by a team of artists from the Advanced Concepts Lab at NASA’s Langley Research Center — features astronauts performing science on the surface of the Moon and Mars. The team developed the image with a blend of digital 2D illustration and 3D techniques to mimic a retro science fiction painting.](https://www.nasa.gov/wp-content/uploads/2024/09/7-sciencetechnology-lores.png?w=1024)
 
 1 min read
 
 ### NASA Moon to Mars Architecture Art Challenge
 
-article 4 days ago](https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-moon-to-mars-architecture-art-challenge/)[![](https://www.nasa.gov/wp-content/uploads/2024/09/glacier-a428b8-e1725991453839.jpg?w=1024)
-
-6 min read
-
-### Childhood Snow Days Transformed Linette Boisvert into a Sea Ice Scientist
-
-article 6 days ago](https://www.nasa.gov/people-of-nasa/goddard-people/childhood-snow-days-transformed-linette-boisvert-into-a-sea-ice-scientist/)[![NASA MINDS competition: University of North Texas students](https://www.nasa.gov/wp-content/uploads/2023/05/minds_nt.jpg?w=985)
-
-2 min read
-
-### How to Apply to the NASA MINDS Challenge
-
-article 7 days ago](https://www.nasa.gov/learning-resources/minority-university-research-education-project/how-to-apply-to-the-nasa-minds-challenge/)
+article 4 days ago](https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-moon-to-mars-architecture-art-challenge/)
 
 ### Featured
 
