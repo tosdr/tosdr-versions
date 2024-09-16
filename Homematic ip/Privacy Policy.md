@@ -1,5 +1,9 @@
 [Direkt zum Inhalt](#main-content)
 
+**Wenn Heizung und Fenster mitdenken, ist Energiesparen einfach.**
+
+[▶ start smart](https://homematic-ip.com/de/start-smart)
+
  [![Home](/themes/custom/hip/logo.svg) ![Home](/themes/custom/hip/logo_color.svg)](https://homematic-ip.com/de)
 
 [![Logo](/themes/custom/hip/logo.svg)](https://homematic-ip.com/de)
@@ -316,6 +320,14 @@ Homematic IP Roadshow 2024: Die Tour geht weiter – Erleben Sie Smart Home live
 News
 
 Zahlreiche Produkthighlights im Herbst: Im Rahmen der IFA werden alle Neuheiten gezeigt.](https://homematic-ip.com/de/news/ifa-2024-produkthighlights-im-herbst)
+
+[Sept.
+
+19-21
+
+Event
+
+BAUHAUS Kiel: Faszination Smart-Home live erleben: im Roadshow-Truck in Ihrer Nähe.](https://homematic-ip.com/de/event/homematic-ip-roadshow-smart-home-live-erleben-2024-09-19-bauhaus-kiel)
 
 *  [![DE](/modules/contrib/languageicons/flags/de.png "DE") DE](https://homematic-ip.com/de/datenschutz-app)
 *  [![EN](/modules/contrib/languageicons/flags/en.png "EN") EN](https://homematic-ip.com/en/data-protection-app)
