@@ -401,11 +401,11 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Haltom City road rage shooting critically injures teen](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2019/08/32/18/af15bf6c-Haltom20City20Police20Car_1504405694347_4082922_ver1.0.jpg?ve=1&tl=1)
+ [![Trump assassination attempt suspect's son says dad hated Trump, 'not a violent person'](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/Trump-International-Golf-Club.jpg?ve=1&tl=1)
 
- ![Haltom City road rage shooting critically injures teen](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2019/08/32/18/592/333/af15bf6c-Haltom20City20Police20Car_1504405694347_4082922_ver1.0.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/haltom-city-road-rage-shooting-critically-injures-teen)
+ ![Trump assassination attempt suspect's son says dad hated Trump, 'not a violent person'](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/Trump-International-Golf-Club.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-assassination-attempt-suspect-son-dad-not-violent)
 
-### [Haltom City road rage shooting critically injures teen](https://www.fox4news.com/news/haltom-city-road-rage-shooting-critically-injures-teen)
+### [Trump assassination attempt suspect's son says dad hated Trump, 'not a violent person'](https://www.fox4news.com/news/trump-assassination-attempt-suspect-son-dad-not-violent)
 
  [![Trump's apparent assassination attempt at Florida golf course: What we know so far](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-2172255079.jpg?ve=1&tl=1)
 
@@ -413,23 +413,23 @@ Please note that, in some instances, we may decline to honor your request where,
 
 ### [Trump's apparent assassination attempt at Florida golf course: What we know so far](https://www.fox4news.com/news/trump-assassination-attempt-golf-course-what-we-know)
 
- [![Tito Jackson, member of the Jackson 5, dies at 70](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-1173571317.jpg?ve=1&tl=1)
+ [![Hawaiian ahi poke recipe from Pacific Table](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/091624-Chef-Graham-Elliot-Cam7-KDFWEME001_09_48_10_00.10.46.52.jpg?ve=1&tl=1)
 
- ![Tito Jackson, member of the Jackson 5, dies at 70](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-1173571317.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/tito-jackson-jackson-5-dies-70)
+ ![Hawaiian ahi poke recipe from Pacific Table](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/091624-Chef-Graham-Elliot-Cam7-KDFWEME001_09_48_10_00.10.46.52.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hawaiian-ahi-poke-recipe-from-pacific-table)
 
-### [Tito Jackson, member of the Jackson 5, dies at 70](https://www.fox4news.com/news/tito-jackson-jackson-5-dies-70)
+### [Hawaiian ahi poke recipe from Pacific Table](https://www.fox4news.com/news/hawaiian-ahi-poke-recipe-from-pacific-table)
 
- [![Kirby pitches 7 strong innings and Garver homers to lift Mariners over Rangers 7-0](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/GettyImages-2171582843.jpg?ve=1&tl=1)
+ [![Tropical Cyclone 8 moves towards Carolinas, may become Tropical Storm Helene](https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/09/32/18/download-32.png?ve=1&tl=1)
 
- ![Kirby pitches 7 strong innings and Garver homers to lift Mariners over Rangers 7-0](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/GettyImages-2171582843.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/kirby-pitches-7-strong-innings-garver-homers-lift-mariners-over-rangers-7-0)
+ ![Tropical Cyclone 8 moves towards Carolinas, may become Tropical Storm Helene](https://images.foxtv.com/images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/09/32/18/592/333/download-32.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/weather/tropical-cyclone-8-tropical-storm-helene-flooding)
 
-### [Kirby pitches 7 strong innings and Garver homers to lift Mariners over Rangers 7-0](https://www.fox4news.com/sports/kirby-pitches-7-strong-innings-garver-homers-lift-mariners-over-rangers-7-0)
+### [Tropical Cyclone 8 moves towards Carolinas, may become Tropical Storm Helene](https://www.fox4news.com/weather/tropical-cyclone-8-tropical-storm-helene-flooding)
 
- [![Ryan Routh: Who is the alleged suspect in the Trump assassination attempt in Florida?](https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/GettyImages-2171592164.jpg?ve=1&tl=1)
+ [![Titan submersible Coast Guard hearings begin this week](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-1258956250-scaled.jpg?ve=1&tl=1)
 
- ![Ryan Routh: Who is the alleged suspect in the Trump assassination attempt in Florida?](https://images.foxtv.com/images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/09/32/18/592/333/GettyImages-2171592164.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/ryan-routh-who-is-alleged-suspect-trump-assassination-attempt-florida)
+ ![Titan submersible Coast Guard hearings begin this week](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-1258956250-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/titan-submersible-implosion-hearing-live-coast-guard)
 
-### [Ryan Routh: Who is the alleged suspect in the Trump assassination attempt in Florida?](https://www.fox4news.com/news/ryan-routh-who-is-alleged-suspect-trump-assassination-attempt-florida)
+### [Coast Guard hearings begin on doomed Titan submersible](https://www.fox4news.com/news/titan-submersible-implosion-hearing-live-coast-guard)
 
 ###### [News](https://www.fox4news.com/news)
 
