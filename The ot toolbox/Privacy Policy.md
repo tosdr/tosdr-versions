@@ -72,11 +72,11 @@ MENUMENU
                 * [Activities to Improve Smooth Visual Pursuits](https://www.theottoolbox.com/activities-smooth-pursuits/)
                 * [What is Visual Scanning](https://www.theottoolbox.com/what-is-visual-scanning/)
                 * [Classroom Accommodations for Visual Impairments](https://www.theottoolbox.com/visual-impairment-accommodations/)
-        * * [![Image of a task tracker worksheet on blue background. Text reads "printable task tracker"](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        * * [![Picture of person reaching over their head. Words read: "Crossing midline treatment activities"](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
                 
-                ![Image of a task tracker worksheet on blue background. Text reads "printable task tracker"](https://www.theottoolbox.com/wp-content/uploads/2024/06/printable-task-tracker.png)](https://www.theottoolbox.com/task-tracker/)
+                ![Picture of person reaching over their head. Words read: "Crossing midline treatment activities"](https://www.theottoolbox.com/wp-content/uploads/2022/07/crossing-midline-occupational-therapy-treatment.png)](https://www.theottoolbox.com/crossing-midline-march-gross-motor/)
                 
-                #### [Task Tracker](https://www.theottoolbox.com/task-tracker/)
+                #### [Crossing Midline Activities](https://www.theottoolbox.com/crossing-midline-march-gross-motor/)
                 
 * [Free Resources](https://www.theottoolbox.com/category/free-resources/)
 * [The Shop](https://www.theottoolbox.com/shop/)
