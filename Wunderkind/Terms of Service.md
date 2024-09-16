@@ -178,7 +178,7 @@ These Terms of Use constitute the entire agreement between the user and Wunderki
 * [About Us](https://www.wunderkind.co/about-us)
 * [Culture & Careers](https://www.wunderkind.co/culture)
 * [Diversity & Inclusion](https://www.wunderkind.co/diversity-and-inclusion)
-* [Open Roles](https://www.wunderkind.co/open-roles)
+* [Partners](https://partners.wunderkind.co/)
 
 NYC
 ---
