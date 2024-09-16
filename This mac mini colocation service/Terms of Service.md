@@ -104,11 +104,11 @@ CyberLynk Network, Inc is very respectful about the privacy concerns of the visi
 
 #### Recent Posts
 
+* [macOS Sequoia](https://www.macminivault.com/macos-sequoia/)
 * [macOS Sonoma](https://www.macminivault.com/macos-sonoma/)
 * [Apple WWDC23 Mac Announcements](https://www.macminivault.com/apple-wwdc23-mac-announcements/)
 * [Updated Mac mini Comparison](https://www.macminivault.com/updated-mac-mini-comparison/)
 * [New external SSD storage options](https://www.macminivault.com/new-external-ssd-storage-options/)
-* [2023 M2 & M2 Pro Mac mini Pre-orders](https://www.macminivault.com/2023-m2-mac-mini-pre-orders/)
 
 * [Facebook](https://www.facebook.com/macminivault)
 * [X](https://twitter.com/macminivault)
