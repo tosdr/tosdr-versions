@@ -68,7 +68,7 @@ Verlagsangebote
 Anzeigen
 
 * [Reisepodcast: Überm Berg](https://www.zeit.de/angebote/zeit-magazin/ueberm-berg-reisepodcast/geschichte/index)
-* [Beliebteste Arbeitgeber 2024](https://www.zeit.de/angebote/most-wanted-employer-2024/index)
+* [Beliebteste Arbeitgeber 2024](https://www.zeit.de/arbeit/angebote/most-wanted-employer/index)
 * [Gemeinsam für Demokratie](https://cmk.zeit.de/cms/hub/13121/anzeige/dm-drogerie-markt-gmbh)
 * [congstar Fairnessheld\*innen](https://www.zeit.de/campus/angebote/congstar/fairnessheldinnen/index)
 * [How it works: Studium und Job](https://www.zeit.de/campus/angebote/howitworks/index)
