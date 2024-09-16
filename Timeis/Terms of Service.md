@@ -23,16 +23,16 @@ This site is affiliated with Freestar for the purposes of placing advertising on
 
 We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [https://www.networkadvertising.org](https://www.networkadvertising.org/).
 
-08:43:36PM
+01:27:21PM
 
 The clock will update automatically if you turn on JavaScript in your browser.
 ------------------------------------------------------------------------------
 
-Tuesday, September 10, 2024
+Monday, September 16, 2024
 
-[World Suicide Prevention Day](https://www.iasp.info/)
+[International Day for the Preservation of the Ozone Layer](https://en.wikipedia.org/wiki/International_Day_for_the_Preservation_of_the_Ozone_Layer)
 
-Sun: ↑ 06:31AM ↓ 07:14PM (12h 43m) - [More info](https://time.is/North_Bergen#time_zone) - [Make North Bergen time default](https://time.is/h/4dd937) - [Add to favorite locations](https://time.is/)
+Sun: ↑ 06:37AM ↓ 07:04PM (12h 27m) - [More info](https://time.is/North_Bergen#time_zone) - [Make North Bergen time default](https://time.is/h/4dd937) - [Add to favorite locations](https://time.is/)
 
 ×
 
