@@ -1,6 +1,6 @@
  
 
-Use promo code **PEACE** for **10% discount** during checkout.
+Pollen data and Weather Map overlay are coming soon.
 
 [![logo](//cdn.weatherapi.com/v4/images/weatherapi_logo.png)](https://www.weatherapi.com/)
 
