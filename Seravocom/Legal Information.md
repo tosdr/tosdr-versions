@@ -288,24 +288,24 @@ help@seravo.com
 
 * * *
 
-[![koodikerho.fi](https://seravo.com/wp-content/uploads/2024/09/koodikerho-logo-150.png)](https://seravo.com/fi/seravo-tukee-koodikerhoa/)
+[![Koodikerho](https://seravo.com/wp-content/uploads/2024/09/koodikerho-logo-150.png)](https://seravo.com/fi/seravo-tukee-koodikerhoa/)
 
-[![](https://seravo.com/wp-content/uploads/2024/09/logo-coss.png)](https://coss.fi/)
+[![COSS ry](https://seravo.com/wp-content/uploads/2024/09/logo-coss.png)](https://coss.fi/)
 
-[![koodiasuomesta.fi](https://seravo.com/wp-content/uploads/2024/09/koodiasuomesta-logo.png)](https://seravo.com/fi/koodiasuomesta/)
+[![Koodia Suomesta](https://seravo.com/wp-content/uploads/2024/09/koodiasuomesta-logo.png)](https://seravo.com/fi/koodiasuomesta/)
 
-[![vastuugroup.fi](https://seravo.com/wp-content/uploads/2024/09/logo-luotettava-kumppani-s.png)](https://www.vastuugroup.fi/fi-fi/blogi/mika-ihmeen-luotettava-kumppani)
+[![Luotettava Kumppani](https://seravo.com/wp-content/uploads/2024/09/logo-luotettava-kumppani-s.png)](https://www.vastuugroup.fi/fi-fi/blogi/mika-ihmeen-luotettava-kumppani)
 
-[![kauppakamari.fi](https://seravo.com/wp-content/uploads/2024/09/ilmastositoumus-logo.png)](https://seravo.com/fi/seravo-tehnyt-ilmastositoumuksen/)
+[![Ilmastositoumus](https://seravo.com/wp-content/uploads/2024/09/ilmastositoumus-logo.png)](https://seravo.com/fi/seravo-tehnyt-ilmastositoumuksen/)
 
 * * *
 
-* [GitHub](https://github.com/Seravo)
-* [LinkedIn](https://github.com/Seravo)
-* [Facebook](https://www.facebook.com/seravo/)
-* [Instagram](https://www.instagram.com/seravo/?hl=en)
-* [X](https://twitter.com/SeravoFi)
-* [YouTube](https://www.youtube.com/seravo)
+* [Seravo GitHubissa](https://github.com/Seravo)
+* [Seravo LinkedInissä](https://linkedin.com/company/seravo)
+* [Seravo Facebookissa](https://www.facebook.com/seravo/)
+* [Seravo Instagramissa](https://www.instagram.com/seravo/)
+* [Seravo X:ssä](https://twitter.com/SeravoFi)
+* [Seravo YouTubessa](https://www.youtube.com/seravo)
 
 [Tilaa uutiskirje](https://seravo.com/fi/tilaa-uutiskirje/)
 
