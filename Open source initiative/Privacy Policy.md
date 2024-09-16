@@ -170,6 +170,7 @@ About
 -----
 
 * [About](https://opensource.org/about)
+* [Vacancy: US Policy Analyst](https://opensource.org/about/team/vacancy-osi-policy-analyst-us)
 * [Our team](https://opensource.org/about/team)
 * [Associations](https://opensource.org/associations)
 * [Sponsors](https://opensource.org/sponsors)
