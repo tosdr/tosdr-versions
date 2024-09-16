@@ -150,8 +150,6 @@ Enter your email address to receive our monthly newsletter, the
 
 [Upcoming Events](https://www.fsf.org/events)
 
- [![Event C source code](https://www.fsf.org/static/fsforg/css/img/newsitem_icon.gif) Free Software Directory meeting on IRC: Friday, September 13, starting at 12:00 EDT (16:00 UTC)](https://www.fsf.org/events/fsd-2024-09-13-irc " Join the FSF and friends on Friday, September 13 from 12:00 to 15:00 EDT (16:00 to 19:00 UTC) to help improve the Free Software Directory. ") Sep 13, 2024 12:00 PM - 03:00 PM — #fsf on libera.chat
-
  [![Event](https://www.fsf.org/static/fsforg/css/img/newsitem_icon.gif) Pick up some Sourceware infrastructure tips and tricks with Ian Kelling at GNU Cauldron in Prague on September 16](https://www.fsf.org/events/ian-kelling-at-gnu-cauldron-2024) Sep 14, 2024 - Sep 16, 2024
 
 [Previous events…](https://www.fsf.org/events/aggregator/previous)
