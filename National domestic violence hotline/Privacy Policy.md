@@ -55,6 +55,7 @@
     * [Donate Your Old Electronics](https://www.thehotline.org/get-involved/donate-electronics/)
     * [Shop](https://www.thehotline.org/donate/other-ways-to-give/store-closed/)
     * [Speakers Bureau](https://www.thehotline.org/get-involved/speakers-bureau/)
+    * [The Hotline’s Member Community](https://www.thehotline.org/membership/)
 * [Donate](https://www.thehotline.org/donate/)
     * [Other Ways to Give](https://www.thehotline.org/donate/other-ways-to-give/)
 
