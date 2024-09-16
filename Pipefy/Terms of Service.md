@@ -325,7 +325,7 @@ BY ACCEPTING THESE TERMS, THE CUSTOMER REPRESENTS THAT THEY HAVE FULL POWER TO C
 
 IN WITNESS WHEREOF, the Parties have caused these Terms and Conditions for the use of the Pipefy Solution to be accepted by their legal representatives or duly authorized agents.
 
-Updated September 27, 2024.
+Updated on August 28, 2024.
 
 **ANNEX I - DATA PROTECTION AGREEMENT**
 
@@ -637,7 +637,7 @@ Additionally, the Customer: (h) will not use Pipefy AI and Content in violation 
 
 **12\. Term and Termination.** The Customer may access and use Pipefy AI while complying with the terms of this Annex. Pipefy may modify, discontinue, or cancel access to Pipefy AI, in whole or in part, under the provisions of the Agreement. In the event of termination, for any reason, the Customer must immediately cease using Pipefy AI and will no longer have access to Pipefy AI features.
 
-Updated September 27, 2024.
+Updated on August 28, 2024.
 
  [![Play Media Icon](https://assets-site.staticpipefy.com/production/wp-content/uploads/2024/08/iconPLayMedia.svg)Book a Demo](https://www.pipefy.com/book-a-demo/)
 
