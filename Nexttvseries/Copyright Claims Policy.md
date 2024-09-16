@@ -68,6 +68,13 @@ Please allow 1-3 business days for an email response. Note that emailing your co
 ###### ❄️**Winter 2023-2024 Premieres  
 **New (![](https://nexttvseries.com/wp-content/uploads/2023/03/new.gif)) shows, miniseries and specials (including streaming exclusives) are announced.
 
+[![Ridley Season 3 Release date on PBS – Cast, Story, Trailer](https://nexttvseries.com/wp-content/uploads/2023/06/Ridley-1024x627.jpg)](https://nexttvseries.com/ridley-cast-story-trailer-pbs/)
+
+[PBS](https://nexttvseries.com/category/pbs/)[What's Fresh](https://nexttvseries.com/category/whats-fresh/)[What’s New](https://nexttvseries.com/category/whats-new/)
+
+[Ridley Season 3 Release date on…](https://nexttvseries.com/ridley-cast-story-trailer-pbs/)
+-------------------------------------------------------------------------------------------
+
 [![LEGO Ninjago: Dragons Rising Season 3 Premiere Date on Netflix: Cast, Story, Trailer](https://nexttvseries.com/wp-content/uploads/2023/05/LEGO-Ninjago-Dragons-Rising-1024x576.jpg)](https://nexttvseries.com/lego-ninjago-dragons-rising-cast-story-trailer-netflix/)
 
 [Netflix](https://nexttvseries.com/category/netflix/)[What's Fresh](https://nexttvseries.com/category/whats-fresh/)[What’s New](https://nexttvseries.com/category/whats-new/)
@@ -96,21 +103,8 @@ Please allow 1-3 business days for an email response. Note that emailing your co
 [‘America’s Got Talent: Fantasy League’ Release…](https://nexttvseries.com/americas-got-talent-fantasy-league-release-date-cast-trailer/)
 -----------------------------------------------------------------------------------------------------------------------------------------
 
-[![‘Os Eleitos’ Release Date, Trailer, Cast, and Everything We Know](https://nexttvseries.com/wp-content/uploads/2023/12/Os-Eleitos-1024x674.jpg)](https://nexttvseries.com/os-eleitos-release-date-trailer-cast/)
-
-[What's Fresh](https://nexttvseries.com/category/whats-fresh/)[What’s New](https://nexttvseries.com/category/whats-new/)
-
-[‘Os Eleitos’ Release Date, Trailer, Cast,…](https://nexttvseries.com/os-eleitos-release-date-trailer-cast/)
-------------------------------------------------------------------------------------------------------------
-
-© 2024 Next TV Series • Built with [GeneratePress](https://generatepress.com/)
-
-[](# "Scroll back to top")[Next TV Series](https://nexttvseries.com/?blackhole=44b3a58f15 "Do NOT follow this link or you will be banned from the site!")
+[](# "Scroll back to top")[Next TV Series](https://nexttvseries.com/?blackhole=e666cb1135 "Do NOT follow this link or you will be banned from the site!")
 
 [About Us](https://nexttvseries.com/about-us/) | [Privacy Policy](https://nexttvseries.com/privacy-policy/) | [Contact Us](https://nexttvseries.com/contact-us/) | [DMCA](https://nexttvseries.com/dmca/) | [Advertise](https://nexttvseries.com/advertise-with-us/)
 
 Search for:
-
-                                          
-
-x
