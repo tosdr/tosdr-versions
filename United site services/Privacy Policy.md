@@ -1,6 +1,6 @@
 [Skip to content](#fl-main-content)
 
-For support in areas affected by wildfires, call 1.800.TOILETS and press 1.
+For support in areas affected by wildfires and hurricane Francine, call 1.800.TOILETS and press 1.
 
 * [Track Order](https://www.unitedsiteservices.com/order-info)
 * [Pick-Up Request](https://www.unitedsiteservices.com/porta-potty-pickup/)
