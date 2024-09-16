@@ -1,5 +1,3 @@
-[Breaking: LIVE: Fani Willis to skip GOP-led state Senate committee hearing into her Trump investigation](https://www.ajc.com/news/live-fani-willis-plans-to-skip-hearing-before-a-gop-led-state-senate-committee/NALTNMN7ZNBS7EIEXPYUULQDRY/)
-
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1677)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1677)](https://www.ajc.com/)
 
 Log In
@@ -16,8 +14,6 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
-* [A.M. ATL Newsletter](https://www.ajc.com/news/am-atl-about-that-training-center-referendum/7VWZKNEU4VGFLC4GEKUDG23VIM/)
-* [Weekend Things to Do](https://www.ajc.com/things-to-do/things-to-do-in-atlanta-this-weekend-sept-13-15/FYRL3Q4XNRD77NMXTDXDR5NWRM/)
 * [Georgia School Shooting](https://www.ajc.com/news/georgia-school-shooting/)
 * [Politically Georgia](https://www.ajc.com/politics/politics-blog/)
 * [High School Sports](https://www.ajc.com/sports/high-school/)
