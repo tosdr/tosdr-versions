@@ -76,6 +76,8 @@
 * [Sign In](https://accounts.theatlantic.com/login/) [My Account](https://accounts.theatlantic.com/accounts/details/)
 * [Subscribe](https://www.theatlantic.com/subscribe/navbar/)
 
+[The Atlantic Festival is back on September 19 and 20. Get an in-person pass and enjoy a complimentary digital subscription. Learn more:](https://www.theatlantic.com/live/atlantic-festival-2024/)
+
 Privacy Policy
 ==============
 
