@@ -48,6 +48,12 @@ Terms and Conditions of the 100€ Voucher Giveaway
 
 #### Das könnte dir auch gefallen
 
+[![Bücherempfehlungen für diesen Herbst und Regentage](https://faircado.de/wp-content/uploads/2023/09/111.png)](https://faircado.de/mag/10-wohlfuehlbuecher-herbst/)
+
+### [10 Wohlfühlbücher für den Herbst](https://faircado.de/mag/10-wohlfuehlbuecher-herbst/)
+
+[mehr lesen](https://faircado.de/mag/10-wohlfuehlbuecher-herbst/)
+
 ### [An Open Letter to Ursula von der Leyen To Ban Shein and Temu](https://faircado.de/mag/ursula-von-der-leyen/)
 
 [mehr lesen](https://faircado.de/mag/ursula-von-der-leyen/)
@@ -94,13 +100,13 @@ Terms and Conditions of the 100€ Voucher Giveaway
 
 [mehr lesen](https://faircado.de/mag/gute-nacht-geschichten/)
 
-[![](https://faircado.de/wp-content/uploads/2023/10/otfried-preussler-scaled.jpg)](https://faircado.de/mag/otfried-preussler/)
-
-### [Otfried Preußler und seine bekanntesten Kinderbücher](https://faircado.de/mag/otfried-preussler/)
-
-[mehr lesen](https://faircado.de/mag/otfried-preussler/)
-
 [Mehr Anzeigen](#)
+
+[![Bücherempfehlungen für diesen Herbst und Regentage](https://faircado.de/wp-content/uploads/2023/09/111.png)](https://faircado.de/mag/10-wohlfuehlbuecher-herbst/)
+
+### [10 Wohlfühlbücher für den Herbst](https://faircado.de/mag/10-wohlfuehlbuecher-herbst/)
+
+[mehr lesen](https://faircado.de/mag/10-wohlfuehlbuecher-herbst/)
 
 ### [An Open Letter to Ursula von der Leyen To Ban Shein and Temu](https://faircado.de/mag/ursula-von-der-leyen/)
 
@@ -111,12 +117,6 @@ Terms and Conditions of the 100€ Voucher Giveaway
 ### [Die besten deutschsprachigen Regionalkrimis](https://faircado.de/mag/regionalkrimis/)
 
 [mehr lesen](https://faircado.de/mag/regionalkrimis/)
-
-[![Alle Buchcover von Büchern, die in Berlin spielen](https://faircado.de/wp-content/uploads/2024/08/blog-headers-website-14-4.png)](https://faircado.de/mag/bucher-in-berlin/)
-
-### [Bücher, die in Berlin spielen, die man gelesen haben muss](https://faircado.de/mag/bucher-in-berlin/)
-
-[mehr lesen](https://faircado.de/mag/bucher-in-berlin/)
 
 [Mehr Anzeigen](#)
 
