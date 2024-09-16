@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Harris Meets With Teamsters Union, Seeking Endorsement](https://www.theepochtimes.com/us/harris-meets-with-teamsters-union-seeking-endorsement-5725092)
+    
+    NEW By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
+    
+    [![Harris Meets With Teamsters Union, Seeking Endorsement](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Harris Meets With Teamsters Union, Seeking Endorsement](https://img.theepochtimes.com/assets/uploads/2024/02/23/id5593521-GettyImages-1975627130-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-meets-with-teamsters-union-seeking-endorsement-5725092)
+* [India’s Security Adviser, China’s Foreign Minister Agree to Redouble Disengagement Effort Along Disputed Border](https://www.theepochtimes.com/world/indias-security-adviser-chinas-foreign-minister-agree-to-redouble-disengagement-effort-along-disputed-border-5723769)
+    
+    NEW By [Venus Upadhayaya](https://www.theepochtimes.com/author/venus-upadhayaya), Epoch Times
+    
+    [![India’s Security Adviser, China’s Foreign Minister Agree to Redouble Disengagement Effort Along Disputed Border](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![India’s Security Adviser, China’s Foreign Minister Agree to Redouble Disengagement Effort Along Disputed Border](https://img.theepochtimes.com/assets/uploads/2024/03/14/id5607321-India-border-soldiers-OP-205x123.jpg.webp)](https://www.theepochtimes.com/world/indias-security-adviser-chinas-foreign-minister-agree-to-redouble-disengagement-effort-along-disputed-border-5723769)
+* [Court Seems Skeptical of TikTok’s Challenge to Forced Divestment Law](https://www.theepochtimes.com/us/court-seems-skeptical-of-tiktoks-challenge-to-forced-divestment-law-5724927)
+    
+    NEW By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
+    
+    [![Court Seems Skeptical of TikTok’s Challenge to Forced Divestment Law](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Court Seems Skeptical of TikTok’s Challenge to Forced Divestment Law](https://img.theepochtimes.com/assets/uploads/2024/04/27/id5638906-2024-04-26T203301Z_3_LYNXNPEK3P0QV_RTROPTP_3_KENYA-TIKTOK-205x123.jpg.webp)](https://www.theepochtimes.com/us/court-seems-skeptical-of-tiktoks-challenge-to-forced-divestment-law-5724927)
+* [Walgreens Agrees to Pay $107 Million to Settle Allegations of Falsely Billing Medicare, Medicaid](https://www.theepochtimes.com/us/walgreens-agrees-to-pay-107-million-to-settle-allegations-of-falsely-billing-medicare-medicaid-5725068)
+    
+    2hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
+    
+    [![Walgreens Agrees to Pay $107 Million to Settle Allegations of Falsely Billing Medicare, Medicaid](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Walgreens Agrees to Pay $107 Million to Settle Allegations of Falsely Billing Medicare, Medicaid](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5725235-GettyImages-1767504444-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/walgreens-agrees-to-pay-107-million-to-settle-allegations-of-falsely-billing-medicare-medicaid-5725068)
+* [Boeing Freezes Hiring, Warns of Possible Layoffs Amid Machinist Strike](https://www.theepochtimes.com/business/boeing-freezes-hiring-warns-of-possible-layoffs-amid-machinist-strike-5725036)
+    
+    2hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![Boeing Freezes Hiring, Warns of Possible Layoffs Amid Machinist Strike](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Boeing Freezes Hiring, Warns of Possible Layoffs Amid Machinist Strike](https://img.theepochtimes.com/assets/uploads/2024/09/13/id5724004-GettyImages-2170940748-205x123.jpg.webp)](https://www.theepochtimes.com/business/boeing-freezes-hiring-warns-of-possible-layoffs-amid-machinist-strike-5725036)
+* [Man in Apparent 2nd Assassination Attempt on Trump Charged With Federal Gun Crimes](https://www.theepochtimes.com/us/man-in-apparent-2nd-assassination-attempt-on-trump-charged-with-federal-gun-crimes-5725045)
+    
+    3hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
+    
+    [![Man in Apparent 2nd Assassination Attempt on Trump Charged With Federal Gun Crimes](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Man in Apparent 2nd Assassination Attempt on Trump Charged With Federal Gun Crimes](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5725192-Ryan-Wesley-Routh-in-Ukraine-2022.jpeg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/man-in-apparent-2nd-assassination-attempt-on-trump-charged-with-federal-gun-crimes-5725045)
+* [Russian Army to Add 180,000 Soldiers, 1 Year Ahead of Schedule](https://www.theepochtimes.com/world/russian-army-to-add-180000-soldiers-1-year-ahead-of-schedule-5724955)
+    
+    4hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
+    
+    [![Russian Army to Add 180,000 Soldiers, 1 Year Ahead of Schedule](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Russian Army to Add 180,000 Soldiers, 1 Year Ahead of Schedule](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5725193-Russian-soldiers.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/russian-army-to-add-180000-soldiers-1-year-ahead-of-schedule-5724955)
 * [UK’s Starmer Visits Rome to Discuss Migration with Meloni](https://www.theepochtimes.com/world/uks-starmer-visits-rome-to-discuss-migration-with-meloni-5724901)
     
-    NEW By [Guy Birchall](https://www.theepochtimes.com/author/guy-birchall)
+    5hr By [Guy Birchall](https://www.theepochtimes.com/author/guy-birchall)
     
     [![UK’s Starmer Visits Rome to Discuss Migration with Meloni](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![UK’s Starmer Visits Rome to Discuss Migration with Meloni](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5724953-2024-09-16T105441Z_1_LYNXMPEK8F0B9_RTROPTP_4_ITALY-BRITAIN-205x123.jpg.webp)](https://www.theepochtimes.com/world/uks-starmer-visits-rome-to-discuss-migration-with-meloni-5724901)
+    ![UK’s Starmer Visits Rome to Discuss Migration with Meloni](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5725046-2024-09-16T105441Z_1_LYNXMPEK8F0B9_RTROPTP_4_ITALY-BRITAIN.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/uks-starmer-visits-rome-to-discuss-migration-with-meloni-5724901)
 * [23andMe Proposes $30 Million Payment for Data Breach](https://www.theepochtimes.com/business/23andme-proposes-30-million-payment-for-data-breach-5725008)
     
-    NEW By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    5hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
     [![23andMe Proposes $30 Million Payment for Data Breach](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![23andMe Proposes $30 Million Payment for Data Breach](https://img.theepochtimes.com/assets/uploads/2024/06/12/id5667398-GettyImages-1978236895-205x123.jpg.webp)](https://www.theepochtimes.com/business/23andme-proposes-30-million-payment-for-data-breach-5725008)
+    ![23andMe Proposes $30 Million Payment for Data Breach](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5725047-GettyImages-1978236895.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/23andme-proposes-30-million-payment-for-data-breach-5725008)
 * [Biden Says Secret Service Needs ‘More Help’ After 2nd Trump Assassination Attempt](https://www.theepochtimes.com/us/biden-says-secret-service-needs-more-help-after-2nd-trump-assassination-attempt-5724958)
     
-    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    7hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
     [![Biden Says Secret Service Needs ‘More Help’ After 2nd Trump Assassination Attempt](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Biden Says Secret Service Needs ‘More Help’ After 2nd Trump Assassination Attempt](https://img.theepochtimes.com/assets/uploads/2024/09/04/id5717881-GettyImages-2170083414-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-says-secret-service-needs-more-help-after-2nd-trump-assassination-attempt-5724958)
-* [Suspect of 2nd Trump Assassination Attempt Identified as Ryan Wesley Routh](https://www.theepochtimes.com/us/trump-assassination-suspect-identified-as-ryan-wesley-routh-5724730)
-    
-    3hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips), [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord), [Melanie Sun](https://www.theepochtimes.com/author/melanie-sun) and [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
-    
-    [![Suspect of 2nd Trump Assassination Attempt Identified as Ryan Wesley Routh](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Suspect of 2nd Trump Assassination Attempt Identified as Ryan Wesley Routh](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5725002-pspspspdasdada8ds8ad8ads8-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-assassination-suspect-identified-as-ryan-wesley-routh-5724730)
-* [Floods Across Central and Eastern Europe Cause 10 Deaths, Thousands to Be Evacuated](https://www.theepochtimes.com/world/floods-across-central-and-eastern-europe-cause-10-deaths-thousands-to-be-evacuated-5724839)
-    
-    6hr By [Owen Evans](https://www.theepochtimes.com/author/owen-evans)
-    
-    [![Floods Across Central and Eastern Europe Cause 10 Deaths, Thousands to Be Evacuated](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Floods Across Central and Eastern Europe Cause 10 Deaths, Thousands to Be Evacuated](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5724923-3.tagreuters.com2024binary_LYNXMPEK8F05U-FILEDIMAGE.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/floods-across-central-and-eastern-europe-cause-10-deaths-thousands-to-be-evacuated-5724839)
-* [Controversial Mexican Judicial Reforms Take Effect](https://www.theepochtimes.com/world/controversial-mexican-judicial-reforms-take-effect-5724838)
-    
-    7hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
-    
-    [![Controversial Mexican Judicial Reforms Take Effect](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Controversial Mexican Judicial Reforms Take Effect](https://img.theepochtimes.com/assets/uploads/2024/09/11/id5722232-2024-09-11T062335Z_1_LYNXMPEK8A075_RTROPTP_4_MEXICO-POLITICS-JUDICIAL-REFORM-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/controversial-mexican-judicial-reforms-take-effect-5724838)
-* [Reforming Maternal Care Could Avoid Postpartum Crisis](https://www.theepochtimes.com/health/beyond-birth-reforming-maternal-care-could-avoid-postpartum-crisis-5717867)
-    
-    7hr By [Amy Denney](https://www.theepochtimes.com/author/amy-denney)
-    
-    [![Reforming Maternal Care Could Avoid Postpartum Crisis](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Reforming Maternal Care Could Avoid Postpartum Crisis](https://img.theepochtimes.com/assets/uploads/2024/09/11/id5722487-Shutterstock_1050001460-205x123.jpg.webp)](https://www.theepochtimes.com/health/beyond-birth-reforming-maternal-care-could-avoid-postpartum-crisis-5717867)
-* [Lawmakers Condemn Political Violence After 2nd Apparent Assassination Attempt on Trump](https://www.theepochtimes.com/us/lawmakers-condemn-political-violence-after-2nd-apparent-assassination-attempt-on-trump-5724754)
-    
-    8hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
-    
-    [![Lawmakers Condemn Political Violence After 2nd Apparent Assassination Attempt on Trump](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Lawmakers Condemn Political Violence After 2nd Apparent Assassination Attempt on Trump](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5724921-Trump-assassination-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/lawmakers-condemn-political-violence-after-2nd-apparent-assassination-attempt-on-trump-5724754)
-* [How Will Trump, Harris Address the Housing Affordability Crisis?](https://www.theepochtimes.com/us/how-will-trump-harris-address-the-housing-affordability-crisis-5721579)
-    
-    8hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
-    
-    [![How Will Trump, Harris Address the Housing Affordability Crisis?](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![How Will Trump, Harris Address the Housing Affordability Crisis?](https://img.theepochtimes.com/assets/uploads/2024/09/14/id5724435-GettyImages-1387361630-205x123.jpg.webp)](https://www.theepochtimes.com/us/how-will-trump-harris-address-the-housing-affordability-crisis-5721579)
-* [Early Voting, Mail-in Voting, and Drop Boxes: The Rules in Each Battleground State](https://www.theepochtimes.com/article/if-you-live-in-a-battleground-state-everything-to-know-about-voting-by-mail-5723217)
-    
-    8hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
-    
-    [![Early Voting, Mail-in Voting, and Drop Boxes: The Rules in Each Battleground State](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Early Voting, Mail-in Voting, and Drop Boxes: The Rules in Each Battleground State](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5724935-VOTING3-205x123.jpg.webp)](https://www.theepochtimes.com/article/if-you-live-in-a-battleground-state-everything-to-know-about-voting-by-mail-5723217)
+    ![Biden Says Secret Service Needs ‘More Help’ After 2nd Trump Assassination Attempt](https://img.theepochtimes.com/assets/uploads/2024/09/16/id5725238-Biden-GettyImages-2171667315-205x123.jpg)](https://www.theepochtimes.com/us/biden-says-secret-service-needs-more-help-after-2nd-trump-assassination-attempt-5724958)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
