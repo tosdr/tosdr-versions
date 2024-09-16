@@ -97,11 +97,11 @@ Legal
 Trending Tech Topics
 --------------------
 
+* [iOS 18](https://techcrunch.com/2024/09/16/ios-18-is-now-available-to-download/)
 * [ChatGPT o1](https://techcrunch.com/2024/09/13/first-impressions-of-chatgpt-o1-an-ai-designed-to-overthink-it/)
-* [Oprah AI](https://techcrunch.com/2024/09/12/ophah-just-had-an-ai-special-with-sam-altman-and-bill-gates-here-are-the-highlights/)
-* [Figure Robot](https://techcrunch.com/2024/09/12/face-to-face-with-figures-new-humanoid-robot/)
-* [TuSimple](https://techcrunch.com/2024/09/13/a-fight-is-brewing-as-tusimple-tries-to-move-450m-to-china-and-pivot-from-self-driving-trucks-to-ai-animation/)
-* [Waymo Uber](https://techcrunch.com/2024/09/13/waymo-robotaxis-will-be-on-the-uber-app-in-austin-atlanta-in-early-2025/)
+* [TikTok Ban](https://techcrunch.com/2024/09/16/as-tiktok-ban-heads-to-court-bytedances-lemon8-surges/)
+* [Apple AirPods 4](https://techcrunch.com/2024/09/16/apple-airpods-4-with-active-noise-cancellation-review/)
+* [Flappy Bird](https://techcrunch.com/2024/09/15/flappy-birds-creator-disavows-official-new-version-of-the-game/)
 * [Tech Layoffs](https://techcrunch.com/2024/09/12/tech-layoffs-2024-list/)
 * [ChatGPT](https://techcrunch.com/2024/09/12/chatgpt-everything-to-know-about-the-ai-chatbot/)
 
