@@ -228,11 +228,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-Want to see behind the curtain? Try
+Want the rest of the Farking story? Try
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-It's how we feed the squirrel
+More threads. More community. More Farking.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -332,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Warning label: "Do not drive or operate heavy machinery when using this product." Florida Man: "I wish I could read"](https://www.fark.com/goto/13395058) ( [clickorlando.com](https://www.fark.com/goto/13395058) ) » [(7 comments)](https://www.fark.com/comments/13395058/Warning-label-Do-not-drive-operate-heavy-machinery-when-using-this-product-Florida-Man-I-wish-I-could-read) |
-| [Discussion](https://www.fark.com/discussion/) | ["My bank sent my £37,000 to the Duchy of Cornwall and they keep passing it on the left hand side"](https://www.fark.com/goto/13394958) ( [theguardian.com](https://www.fark.com/goto/13394958) ) » [(1 comment)](https://www.fark.com/comments/13394958/My-bank-sent-my-37000-to-Duchy-of-Cornwall-they-keep-passing-it-on-left-hand-side) |
-| [Sports](https://www.fark.com/sports/) | [Germany holds first hobby horsing championship. In related news: We have found a worthy replacement for the olympic breakdance competition](https://www.fark.com/goto/13394938) ( [sports.yahoo.com](https://www.fark.com/goto/13394938) ) » [(4 comments)](https://www.fark.com/comments/13394938/Germany-holds-first-hobby-horsing-championship-In-related-news-We-have-found-a-worthy-replacement-for-olympic-breakdance-competition) |
-| [Business](https://www.fark.com/business/) | [23andMeand$30Million](https://www.fark.com/goto/13394976) ( [theregister.com](https://www.fark.com/goto/13394976) ) » [(3 comments)](https://www.fark.com/comments/13394976/-23andMeand$30Million) |
-| [STEM](https://www.fark.com/stem/) | [Umm...subby would call 25 percent of the web pages published between 2013 and 2023 vanishing an "excellent start"](https://www.fark.com/goto/13395080) ( [bbc.com](https://www.fark.com/goto/13395080) ) » [(3 comments)](https://www.fark.com/comments/13395080/Ummsubby-would-call-25-percent-of-web-pages-published-between-2013-2023-vanishing-an-excellent-start) |
-| [Entertainment](https://www.fark.com/entertainment/) | [I got to talk to Gillian Anderson about sex and you didn't, says braggy Slate reporter](https://www.fark.com/goto/13394932) ( [slate.com](https://www.fark.com/goto/13394932) ) » [(1 comment)](https://www.fark.com/comments/13394932/I-got-to-talk-to-Gillian-Anderson-about-sex-you-didnt-says-braggy-Slate-reporter) |
-| [Fandom](https://www.fark.com/fandom/) | [Because it sucks compared to the original?](https://www.fark.com/goto/13395054) ( [screenrant.com](https://www.fark.com/goto/13395054) ) » [(5 comments)](https://www.fark.com/comments/13395054/Because-it-sucks-compared-to-original) |
-| [D'awww](https://www.fark.com/dawww/) | [Second set of ugly-ass cotton-top tamarin triplets born at Disney World's Animal Kingdom, making it the tamarinest place on earth](https://www.fark.com/goto/13394950) ( [upi.com](https://www.fark.com/goto/13394950) ) » [(1 comment)](https://www.fark.com/comments/13394950/Second-set-of-ugly-ass-cotton-top-tamarin-triplets-born-at-Disney-Worlds-Animal-Kingdom-making-it-tamarinest-place-on-earth) |
-| [Food](https://www.fark.com/food/) | [Latest outrage: British bread not fitting in foreign toasters](https://www.fark.com/goto/13394960) ( [dailyrecord.co.uk](https://www.fark.com/goto/13394960) ) » [(7 comments)](https://www.fark.com/comments/13394960/Latest-outrage-British-bread-not-fitting-in-foreign-toasters) |
-| [Politics](https://www.fark.com/politics/) | [For some reason the top legal advisor to NYC Mayor Adams suddenly resigned over the weekend](https://www.fark.com/goto/13395026) ( [npr.org](https://www.fark.com/goto/13395026) ) » [(4 comments)](https://www.fark.com/comments/13395026/For-some-reason-top-legal-advisor-to-NYC-Mayor-Adams-suddenly-resigned-over-weekend) |
+| [Main](https://www.fark.com/) | [Emotionally charged freedom in America isn't always about the 2024 election](https://www.fark.com/goto/13395204) ( [northcoastjournal.com](https://www.fark.com/goto/13395204) ) » [(4 comments)](https://www.fark.com/comments/13395204/Emotionally-charged-freedom-in-America-isnt-always-about-2024-election) |
+| [Discussion](https://www.fark.com/discussion/) | [It's your Fark Monday Movie/TV Rewind, a thread to discuss what you've been watching. LGT some guy's list of underrated movies about sea monsters. Add your creature feature suggestions on the right](https://www.fark.com/goto/13395362) ( [ranker.com](https://www.fark.com/goto/13395362) ) » [(8 comments)](https://www.fark.com/comments/13395362/Its-your-Fark-Monday-MovieTV-Rewind-a-thread-to-discuss-what-youve-been-watching-LGT-some-guys-list-of-underrated-movies-about-sea-monsters-Add-your-creature-feature-suggestions-on-right) |
+| [Sports](https://www.fark.com/sports/) | [A'ja Wilson became the first WNBA player in history to score 1,000 points in a single season](https://www.fark.com/goto/13395082) ( [espn.com](https://www.fark.com/goto/13395082) ) » [(1 comment)](https://www.fark.com/comments/13395082/Aja-Wilson-became-first-WNBA-player-in-history-to-score-1000-points-in-a-single-season) |
+| [Business](https://www.fark.com/business/) | [Titanic shipyard looks set to not go on](https://www.fark.com/goto/13395138) ( [bbc.com](https://www.fark.com/goto/13395138) ) » [(0 comments)](https://www.fark.com/comments/13395138/Titanic-shipyard-looks-set-to-not-go-on) |
+| [STEM](https://www.fark.com/stem/) | [First 'zeta-class' supercomputer will "revolutionize" science in just 6 years. Well, that's just super](https://www.fark.com/goto/13395162) ( [popularmechanics.com](https://www.fark.com/goto/13395162) ) » [(2 comments)](https://www.fark.com/comments/13395162/First-zeta-class-supercomputer-will-revolutionize-science-in-just-6-years-Well-thats-just-super) |
+| [Entertainment](https://www.fark.com/entertainment/) | [J.Lo spotted with wedding ring post-divorce filing. Guess old habits don't die hard](https://www.fark.com/goto/13395176) ( [atlantablackstar.com](https://www.fark.com/goto/13395176) ) » [(12 comments)](https://www.fark.com/comments/13395176/JLo-spotted-with-wedding-ring-post-divorce-filing-Guess-old-habits-dont-die-hard) |
+| [Fandom](https://www.fark.com/fandom/) | [Italian police seize $55M worth of counterfeit retro games. If those games made it to market, they'd still be less of a ripoff than the PS5 Pro](https://www.fark.com/goto/13395254) ( [bbc.com](https://www.fark.com/goto/13395254) ) » [(6 comments)](https://www.fark.com/comments/13395254/Italian-police-seize-$55M-worth-of-counterfeit-retro-games-If-those-games-made-it-to-market-theyd-still-be-less-of-a-ripoff-than-PS5-Pro) |
+| [D'awww](https://www.fark.com/dawww/) | [Ugly-ass cotton-top tamarin monkeys born at Chester Zoo](https://www.fark.com/goto/13395034) ( [bbc.com](https://www.fark.com/goto/13395034) ) » [(1 comment)](https://www.fark.com/comments/13395034/Ugly-ass-cotton-top-tamarin-monkeys-born-at-Chester-Zoo) |
+| [Food](https://www.fark.com/food/) | [Prepare yours spoons: Stouffer's Supreme is coming for boxed Kraft Mac & Cheese](https://www.fark.com/goto/13395396) ( [cnbc.com](https://www.fark.com/goto/13395396) ) » [(9 comments)](https://www.fark.com/comments/13395396/Prepare-yours-spoons-Stouffers-Supreme-is-coming-for-boxed-Kraft-Mac-Cheese) |
+| [Politics](https://www.fark.com/politics/) | [Peter Thiel, who picks the right candidates and always wins, thinks this election won't be close](https://www.fark.com/goto/13395416) ( [yahoo.com](https://www.fark.com/goto/13395416) ) » [(19 comments)](https://www.fark.com/comments/13395416/Peter-Thiel-who-picks-right-candidates-always-wins-thinks-this-election-wont-be-close) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -351,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Sep 16 2024 10:42:23  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Sep 16 2024 14:43:36  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
