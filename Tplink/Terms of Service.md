@@ -1,6 +1,6 @@
 Your browser does not support JavaScript. Please turn it on for the best experience.
 
-[](https://www.tp-link.com/us/promotion/omada-demo-kit/?from=topbanner&utm_source=topbanner&utm_medium=topbanner&utm_campaign=omadatopbanner)
+[](https://partner.tp-link.com/us/login.html?service=http%3A%2F%2Fpartner.tp-link.com%2Fus%2Fpartner%2Fpoints%2Freward%2Fpoints-reward-list.html)
 
 [Support](https://www.kasasmart.com/us/support/)
 
@@ -231,7 +231,7 @@ Where to Buy
     * [What is VIGI?](https://www.vigi.com/us/about-us/)
     * [Cameras](https://www.vigi.com/us/camera/)
     * [Video Recorders](https://www.vigi.com/us/video-recorder/)
-    * [Software Service](https://www.vigi.com/us/software-service/)
+    * [Software Service](https://www.kasasmart.com/us/business-networking/vigi-software-service/)
     * [All Products](https://www.vigi.com/us/all-vigi-surveillance/)
     
     [](https://www.kasasmart.com/us/business-networking/soho-switch-unmanaged/)
@@ -239,6 +239,9 @@ Where to Buy
     [Unmanaged Switches](https://www.kasasmart.com/us/business-networking/soho-switch-unmanaged/)
     
     Plug and play for instant connection without management
+    
+    * [PoE Switches](https://www.kasasmart.com/us/business-networking/soho-switch-poe/)
+    * [All Unmanaged Switches](https://www.kasasmart.com/us/business-networking/soho-switch-unmanaged/)
     
     More Products
     
@@ -460,12 +463,17 @@ Where to Buy
             
         * [Video Recorders](https://www.vigi.com/us/video-recorder/)
             
-        * [Software Service](https://www.vigi.com/us/software-service/)
+        * [Software Service](https://www.kasasmart.com/us/business-networking/vigi-software-service/)
             
         * [All Products](https://www.vigi.com/us/all-vigi-surveillance/)
             
         
-    * [Unmanaged Switches](https://www.kasasmart.com/us/business-networking/soho-switch-unmanaged/)
+    * Unmanaged Switches
+        
+        * [PoE Switches](https://www.kasasmart.com/us/business-networking/soho-switch-poe/)
+            
+        * [All Unmanaged Switches](https://www.kasasmart.com/us/business-networking/soho-switch-unmanaged/)
+            
         
     * More Products
         
@@ -720,10 +728,6 @@ test\_cookie, \_gcl\_au
 Meta Pixel
 
 \_fbp
-
-Crazy Egg
-
-cebsp\_, \_ce.s, \_ce.clock\_data, \_ce.clock\_event, cebs
 
 Hotjar
 
