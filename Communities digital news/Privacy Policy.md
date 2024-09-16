@@ -64,19 +64,23 @@ Search for:
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
-### [Critics pan ABC moderator’s excuse for fact-checking ONLY Trump; network denies feeding Harris questions](https://americanwirenews.com/critics-pan-abc-moderators-excuse-for-fact-checking-only-trump-network-denies-feeding-harris-questions/)
+### [U.S. military raid results in death of four ISIS leaders](https://americanwirenews.com/u-s-military-raid-results-in-death-of-four-isis-leaders/)
 
-### [Josh Hawley says lead SS agent at Trump rally was a woman who FAILED key exam, promoted anyway](https://americanwirenews.com/josh-hawley-says-lead-ss-agent-at-trump-rally-was-a-woman-who-failed-key-exam-promoted-anyway/)
+### [IRS whistleblowers sue Hunter Biden’s attorney for defamation](https://americanwirenews.com/irs-whistleblowers-sue-hunter-bidens-attorney-for-defamation/)
 
-### [Iraq veteran arrested after raging pro-Palestine protester reportedly attacks him, gets shot](https://americanwirenews.com/iraq-veteran-arrested-after-raging-pro-palestine-protester-reportedly-attacks-him-gets-shot/)
+### [Billionaire philanthropist urges conservatives to follow left’s blueprint: ‘We need to crush liberal dominance’](https://americanwirenews.com/billionaire-philanthropist-urges-conservatives-to-follow-lefts-blueprint-we-need-to-crush-liberal-dominance/)
 
-### [Kamala’s debate lies are catching up with her, even Gen Z sees through it, young influencer says](https://americanwirenews.com/kamalas-debate-lies-are-catching-up-with-her-even-gen-z-sees-through-it-young-influencer-says/)
+### [NYT fact-check of Trump admits Harris supports funding sex changes for migrants](https://americanwirenews.com/nyt-fact-check-of-trump-admits-harris-supports-funding-sex-changes-for-migrants/)
 
-### [Kennedy-connected ex-Dem explains why formerly lefty moms are leaving Dem Party in droves](https://americanwirenews.com/kennedy-connected-ex-dem-explains-why-formerly-lefty-moms-are-leaving-dem-party-in-droves/)
+### [Biden is big mad that pet eating stories hurt feelings of ‘proud Haitian American’ Karine Jean-Pierre](https://americanwirenews.com/biden-is-big-mad-that-pet-eating-stories-hurt-feelings-of-proud-haitian-american-karine-jean-pierre/)
 
-### [Free State of Florida advises against ANY use of mRNA COVID-19 vaccine](https://americanwirenews.com/free-state-of-florida-advises-against-any-use-of-mrna-covid-19-vaccine/)
+### [‘You’re supporting a war criminal!’ Harris rally interrupted by anti-Israel supporters](https://americanwirenews.com/youre-supporting-a-war-criminal-harris-rally-interrupted-by-anti-israel-supporters/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-routh-interviews-220x180.jpg)](https://americanwirenews.com/social-media-posts-of-2nd-trump-gunman-echo-dem-talking-points-draws-in-elon-musk/)
+
+[Social media posts of 2nd Trump gunman echo Dem talking points, draws in Elon Musk](https://americanwirenews.com/social-media-posts-of-2nd-trump-gunman-echo-dem-talking-points-draws-in-elon-musk/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/gi-epsteinmug-sg-routh-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/epsteined-trends-on-social-media-as-would-be-trump-assassin-jailed/)
 
@@ -173,10 +177,6 @@ Image via Dominican Republic National Police
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-joemaga-charlamagne-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/charlamagne-tha-god-says-donkey-of-the-day-biden-should-stay-in-the-basement-after-trump-hat-stunt/)
 
 [Charlamagne tha God says ‘donkey of the day’ Biden should stay ‘in the basement’ after Trump hat stunt](https://americanwirenews.com/charlamagne-tha-god-says-donkey-of-the-day-biden-should-stay-in-the-basement-after-trump-hat-stunt/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-tapper-220x180.jpg)](https://americanwirenews.com/cnn-financial-secrets-could-be-exposed-amid-defamation-lawsuit/)
-
-[CNN financial secrets could be exposed amid defamation lawsuit](https://americanwirenews.com/cnn-financial-secrets-could-be-exposed-amid-defamation-lawsuit/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
@@ -276,17 +276,17 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 [Melania issues ‘warning to all Americans’ when it comes to FBI, invasion of privacy](https://americanwirenews.com/melania-issues-warning-to-all-americans-when-it-comes-to-fbi-invasion-of-privacy/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-ariz-220x180.jpg)](https://americanwirenews.com/yes-trump-announces-three-big-promises-as-part-of-game-changing-plan/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-maga-people-220x180.jpg)](https://americanwirenews.com/who-really-are-the-maga-people-rfk-jr-vp-pick-drops-brilliant-satirical-ad-exploring-trump-supporters/)
 
-[Trump announces three big promises as part of game-changing plan](https://americanwirenews.com/yes-trump-announces-three-big-promises-as-part-of-game-changing-plan/)
+[‘Who really are the MAGA People?’ RFK Jr. VP pick drops ‘brilliant’ satirical ad exploring Trump supporters](https://americanwirenews.com/who-really-are-the-maga-people-rfk-jr-vp-pick-drops-brilliant-satirical-ad-exploring-trump-supporters/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-abortion-rant-220x180.jpg)](https://americanwirenews.com/yall-wonder-why-we-didnt-have-the-right-to-vote-woman-takes-abortion-obsessed-females-to-task-in-fact-filled-warning/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-kjp-220x180.jpg)](https://americanwirenews.com/kjp-snaps-at-reporter-trying-to-ask-question-not-everybody-wants-to-hear-the-sound-of-your-voice-sir/)
 
-[Woman takes abortion-obsessed leftists TO TASK with fact-filled warning: ‘Babygirl … Start using your brain!’](https://americanwirenews.com/yall-wonder-why-we-didnt-have-the-right-to-vote-woman-takes-abortion-obsessed-females-to-task-in-fact-filled-warning/)
+[KJP snaps at reporter trying to ask question: ‘Not everybody wants to hear the sound of your voice, sir’](https://americanwirenews.com/kjp-snaps-at-reporter-trying-to-ask-question-not-everybody-wants-to-hear-the-sound-of-your-voice-sir/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-scaramucci-220x180.png)](https://americanwirenews.com/scaramucci-guarantees-trump-will-do-a-third-debate-its-100/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trumptrace-1200-x-628-220x180.jpg)](https://americanwirenews.com/trump-blasts-abc-news-debate-moderator-for-not-fact-checking-kamalas-lies/)
 
-[Scaramucci guarantees Trump will do a third debate: ‘It’s 100%’](https://americanwirenews.com/scaramucci-guarantees-trump-will-do-a-third-debate-its-100/)
+[Trump blasts ABC News debate moderator for not fact-checking Kamala’s lies](https://americanwirenews.com/trump-blasts-abc-news-debate-moderator-for-not-fact-checking-kamalas-lies/)
 
 ### [HUMOR](https://www.commdiginews.com/category/featured-humor/)
 
@@ -324,6 +324,14 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 [Independent probe finds that yes, migrants ‘appear’ to be eating cats in Ohio](https://americanwirenews.com/independent-probe-finds-that-yes-migrants-appear-to-be-eating-cats-in-ohio/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-sg-sg-palistinian-supporer-boston-military-veteran-split-220x180.jpg)](https://americanwirenews.com/iraq-veteran-arrested-after-raging-pro-palestine-protester-reportedly-attacks-him-gets-shot/)
+
+[Iraq veteran arrested after raging pro-Palestine protester reportedly attacks him, gets shot](https://americanwirenews.com/iraq-veteran-arrested-after-raging-pro-palestine-protester-reportedly-attacks-him-gets-shot/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2021/12/sg-Dr.-Ladapo.-220x180.png)](https://americanwirenews.com/free-state-of-florida-advises-against-any-use-of-mrna-covid-19-vaccine/)
+
+[Free State of Florida advises against ANY use of mRNA COVID-19 vaccine](https://americanwirenews.com/free-state-of-florida-advises-against-any-use-of-mrna-covid-19-vaccine/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-james-earl-jones-220x180.jpg)](https://americanwirenews.com/james-earl-jones-decision-before-death-to-allow-darth-vader-to-live-on-sparks-concern-among-actors/)
 
 [James Earl Jones’ decision before death to allow Darth Vader to live on sparks concern among actors](https://americanwirenews.com/james-earl-jones-decision-before-death-to-allow-darth-vader-to-live-on-sparks-concern-among-actors/)
@@ -333,13 +341,5 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 [Springfield City Hall evacuated over bomb threat as small Ohio town blasts onto nation’s radar
 
 Getty Images](https://americanwirenews.com/springfield-city-hall-evacuated-over-bomb-threat-as-small-ohio-town-blasts-onto-nations-radar/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-sg-sg-woman-seeking-late-term-abortion-split-220x180.jpg)](https://americanwirenews.com/woman-calls-clinic-claiming-to-want-late-term-abortion-and-dear-god-please-forgive-humanity/)
-
-[Woman calls clinic claiming to want late-term abortion and … dear ‘God, please forgive humanity’](https://americanwirenews.com/woman-calls-clinic-claiming-to-want-late-term-abortion-and-dear-god-please-forgive-humanity/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-daniel-penny-220x180.jpg)](https://americanwirenews.com/key-witness-refuses-to-testify-as-marine-accused-of-ny-subway-chokehold-death-fights-for-freedom/)
-
-[Key witness refuses to testify as Marine accused of NY subway chokehold death, fights for freedom](https://americanwirenews.com/key-witness-refuses-to-testify-as-marine-accused-of-ny-subway-chokehold-death-fights-for-freedom/)
 
 © 2024. All Rights Reserved. American Wire News
