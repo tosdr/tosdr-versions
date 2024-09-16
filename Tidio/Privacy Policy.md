@@ -1,6 +1,6 @@
-[Get free ebook
+[Get holiday-ready
 
-Awe shoppers with stellar customer service during the holiday season](https://www.tidio.com/playbooks/customer-service-automation-guide/)
+Boost your results this holiday season with a free guide, expert advice, and proven strategies.](https://www.tidio.com/resources/holiday-season/)
 
 [Log in](https://www.tidio.com/panel/login)
 
