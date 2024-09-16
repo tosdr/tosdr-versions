@@ -79,6 +79,7 @@ Menu Close
     
     * [Events](https://www.unibocconi.eu/en/news-and-events-hub/events)
     
+* [Annual Report - University Evaluation Unit](https://www.unibocconi.eu/en/annual-report-university-evaluation-unit)
 * [Agreements and Discounts](https://www.unibocconi.eu/en/agreements-and-discounts)
 
 * * *
@@ -285,6 +286,7 @@ Breadcrumb
 * [Home](https://www.unibocconi.eu/en)
 * [About Us](https://www.unibocconi.eu/en/about-us)
 * [Organization](https://www.unibocconi.eu/en/about-us/organization)
+* [Statute, Regulations and Rules](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-documents)
 
 [Contacts](https://www.unibocconi.eu/en/contact-us)
 
@@ -342,7 +344,7 @@ Stay in touch
 * [Youtube ![Go to Youtube](/sites/default/files/styles/footer_icon/public/footer/icon-menu/youtube.png.webp?itok=8F3uxcIQ "Youtube")](https://www.youtube.com/user/UniBocconi) 
 * [Instagram ![Go to Instagram](/sites/default/files/styles/footer_icon/public/footer/icon-menu/instagram_0.png.webp?itok=T4tCicO3 "Instagram")](https://www.instagram.com/unibocconi/) 
 * [Tiktok ![Go to Tiktok](/sites/default/files/styles/footer_icon/public/footer/icon-menu/tiktok.png.webp?itok=d1yjTdEa "Tiktok")](https://www.tiktok.com/@unibocconi/) 
-* [Weechat ![Go to Weechat](/sites/default/files/styles/footer_icon/public/footer/icon-menu/wechat_0.png.webp?itok=C_uORqlC "Weechat")](https://weechat.org/) 
+* [Weechat ![Go to Weechat](/sites/default/files/styles/footer_icon/public/footer/icon-menu/wechat_0.png.webp?VersionId=IDR8phqUToLxsnsz2jym..L33wqj0f_G&itok=C_uORqlC "Weechat")](https://weechat.org/) 
 
 Listen to our podcast
 
@@ -363,7 +365,7 @@ Media center
 
 * [BTV ![Go to BTV](/sites/default/files/styles/footer_icon/public/footer/icon-menu/btv.png.webp?itok=euce4HxJ "BTV")](https://bocconitv.it/?key=footer) 
 * [TL ![Go to TL](/sites/default/files/styles/footer_icon/public/footer/icon-menu/on.png.webp?itok=gyXozZWU "TL")](https://traileoni.it/?key=footer) 
-* [ON ![Go to ON](/sites/default/files/styles/footer_icon/public/footer/icon-menu/tl.png.webp?VersionId=aSZpE_VBtk26vwm.VV.Ur.LL8FOytxpI&itok=wrHIPLtn "ON")](https://radiobocconi.it/?key=footer) 
+* [ON ![Go to ON](/sites/default/files/styles/footer_icon/public/footer/icon-menu/tl.png.webp?itok=wrHIPLtn "ON")](https://radiobocconi.it/?key=footer) 
 
 Mobile app
 
