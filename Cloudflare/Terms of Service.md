@@ -520,7 +520,6 @@ Community
 * [Athenian Project](https://www.cloudflare.com/athenian/)
 * [Cloudflare for Campaigns](https://www.cloudflare.com/campaigns/)
 * [Critical Infrastructure Defense Project](https://www.cloudflare.com/partners/technology-partners/cidp/)
-* [Connect 2024](https://www.cloudflare.com/connect2024/)
 
 Support
 
