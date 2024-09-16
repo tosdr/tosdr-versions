@@ -89,7 +89,7 @@ Pour découvrir l'école et t'aider à choisir la ou les disciplines qui te fero
 
 [](https://app.pole-emotion.ch/evjf)
 
-[![image pour Pensez aux Enterrements Vie de Jeunes Filles](/storage/highlights/newsflash/highlight.webp?v=091021)](https://app.pole-emotion.ch/evjf)
+[![image pour Pensez aux Enterrements Vie de Jeunes Filles](/storage/highlights/newsflash/highlight.webp?v=767974)](https://app.pole-emotion.ch/evjf)
 
 [##### Pensez aux Enterrements Vie de Jeunes Filles](https://app.pole-emotion.ch/evjf)
 
