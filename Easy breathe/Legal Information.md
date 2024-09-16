@@ -405,7 +405,8 @@ Who should I contact with questions or concerns?
 
 If you have any questions or comments relating to the Site or this Privacy Notice, send an email to info@easybreathe.com or call our customer service team at (866) 564-2252. You may also [submit a contact form](https://www.easybreathe.com/contact.html).
 
-[Back to Top](https://www.easybreathe.com/Privacy-Policy-2.html#top) 
+[Back to Top](https://www.easybreathe.com/Privacy-Policy-2.html#top) Accessability:    
+We are committed to ensuring that this policy is accessable to individuals with disabilities.  If you would like to access this policy in another format, please contact us using one of the ways outlined in the above section.  
 
 When was this notice last updated?
 
@@ -493,6 +494,7 @@ About
 * [About Us](https://www.easybreathe.com/pages/about-us)
 * [Privacy Policy](https://www.easybreathe.com/policies/privacy-policy)
 * [Terms of Service](https://www.easybreathe.com/policies/terms-of-service)
+* [Consumer Health Data Privacy Notice](https://easybreathe.com/pages/consumer-health-data-privacy-notice)
 
 Contact Us
 
