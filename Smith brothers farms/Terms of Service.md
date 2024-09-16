@@ -13,8 +13,6 @@
         
     * [On Sale](https://www.smithbrothersfarms.com/on-special)
         
-    * [Summer Essentials](https://www.smithbrothersfarms.com/summer-essentials)
-        
     * [Milk & Cream](https://www.smithbrothersfarms.com/milk-cream)
         
         * BACK
@@ -192,11 +190,9 @@ Hi
         
     * [New! (65)](https://www.smithbrothersfarms.com/featured-products)
         
-    * [On Sale (23)](https://www.smithbrothersfarms.com/on-special)
+    * [On Sale (22)](https://www.smithbrothersfarms.com/on-special)
         
-    * [Summer Essentials (27)](https://www.smithbrothersfarms.com/summer-essentials)
-        
-    * [Milk & Cream (57)](https://www.smithbrothersfarms.com/milk-cream)
+    * [Milk & Cream (56)](https://www.smithbrothersfarms.com/milk-cream)
         
         * BACK
         * [Whole Milk (5)](https://www.smithbrothersfarms.com/whole)
@@ -211,7 +207,7 @@ Hi
             
         * [Lactose Free Milk (2)](https://www.smithbrothersfarms.com/lactose-free-3)
             
-        * [Plant-Based Milk (17)](https://www.smithbrothersfarms.com/non-dairy-3)
+        * [Plant-Based Milk (16)](https://www.smithbrothersfarms.com/non-dairy-3)
             
         * [Half & Half, Creamers (15)](https://www.smithbrothersfarms.com/flavored-creamers)
             
@@ -310,12 +306,12 @@ Hi
         * [Sauces (6)](https://www.smithbrothersfarms.com/sauces-and-soups)
             
         
-    * [Coffee, Juice & Tea (42)](https://www.smithbrothersfarms.com/coffee-juice-tea)
+    * [Coffee, Juice & Tea (43)](https://www.smithbrothersfarms.com/coffee-juice-tea)
         
         * BACK
         * [Juice & Tea (19)](https://www.smithbrothersfarms.com/juice-3)
             
-        * [Coffee (23)](https://www.smithbrothersfarms.com/coffee-2)
+        * [Coffee (24)](https://www.smithbrothersfarms.com/coffee-2)
             
         
     * [Pantry (3)](https://www.smithbrothersfarms.com/pantry)
