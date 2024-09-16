@@ -187,7 +187,7 @@ Cart
 
 [Cart](https://waxcenter.com/cart)
 
-[BOOK APPOINTMENT 🠦](https://locations.waxcenter.com/)
+[BOOK APPOINTMENT ➞](https://locations.waxcenter.com/)
 
 Privacy policy
 ==============
