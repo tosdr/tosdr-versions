@@ -62,25 +62,25 @@ Solutions
 
 [Transcribe MS Teams](https://tactiq.io/solutions/transcribe-ms-teams)
 
-[Speech-to-text](https://tactiq.io/solutions/speech-to-text)
+[Speech-to-text](https://tactiq.io/speech-to-text)
 
 [Team Meetings](https://tactiq.io/solutions/team-meetings)
 
 [Customer Meetings](https://tactiq.io/solutions/customer-meetings)
 
-[Sales Calls](https://tactiq.io/use-cases/sales-calls)
-
-[Strategy Meetings](https://tactiq.io/use-cases/strategy-meetings)
-
-[Planning Meetings](https://tactiq.io/use-cases/planning-meetings)
-
-[Product Demos](https://tactiq.io/use-cases/product-demos)
-
-[Workshops](https://tactiq.io/use-cases/workshops)
+[Planning meetings](https://tactiq.io/use-cases/planning-meetings)
 
 [Brainstorming](https://tactiq.io/use-cases/brainstorming)
 
-[One-on-One Calls](https://tactiq.io/use-cases/one-on-one-meetings)
+[Workshops](https://tactiq.io/use-cases/workshops)
+
+[Strategy Meetings](https://tactiq.io/use-cases/strategy-meetings)
+
+[One on One Meetings](https://tactiq.io/use-cases/one-on-one-meetings)
+
+[Product Demos](https://tactiq.io/use-cases/product-demos)
+
+[Sales Calls](https://tactiq.io/use-cases/sales-calls)
 
 #### Roles
 
@@ -209,7 +209,7 @@ The use of the Services is done at your own discretion and risk and with the agr
 
 ###### Discover  
 
-[AI Tools](https://tactiq.io/ai-tools)[Translate](https://tactiq.io/translate)[Transcribe](https://tactiq.io/transcribe)[Audio To Text](https://tactiq.io/audio-to-text)[Video To Text](https://tactiq.io/video-to-text)
+[AI Tools](https://tactiq.io/ai-tools)[Translate](https://tactiq.io/translate)[Transcribe](https://tactiq.io/transcribe)[Audio To Text](https://tactiq.io/audio-to-text)[Video To Text](https://tactiq.io/video-to-text)[Speech To Text](https://tactiq.io/speech-to-text)
 
 ###### Useful  
 
