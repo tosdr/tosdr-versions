@@ -38,6 +38,8 @@ Product
 * [Enterprise OpenProject License](https://tab.digital/#!/tab/262339486-3)
 * [Enterprise Collabora License](https://tab.digital/#!/tab/262339486-3)
 * [Enterprise OnlyOffice License](https://tab.digital/#!/tab/262339486-3)
+* \-------------------
+* [Dedicated Synology Storage Server](https://tab.digital/synology-dedicated-storage-server)
 
 Service
 
