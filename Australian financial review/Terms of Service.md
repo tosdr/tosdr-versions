@@ -291,15 +291,15 @@ Advertise
 [The Australian Financial Review Magazine](https://www.afr.com/afr-magazine)
 ----------------------------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.2777%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_63%2C$y_694/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/db51423c3bd5ef5311273410407c52d55f6ae753)](https://www.afr.com/life-and-luxury/fashion-and-style/rodd-and-gunn-s-winning-formula-make-him-a-little-younger-still-rugged-20240729-p5jxgg)
+[![ ](https://static.ffx.io/images/$zoom_0.3569%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_800%2C$y_88/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/47e89b53ba91a4fa488a2ef23d191a241171f5a6)](https://www.afr.com/life-and-luxury/fashion-and-style/former-young-rich-lister-s-surprise-return-to-the-business-she-left-behind-20240913-p5kack)
 
-### [Rodd & Gunn’s winning formula: Make him a little younger, still rugged](https://www.afr.com/life-and-luxury/fashion-and-style/rodd-and-gunn-s-winning-formula-make-him-a-little-younger-still-rugged-20240729-p5jxgg)
+### [Former Young Rich Lister’s surprise return to the business she left behind](https://www.afr.com/life-and-luxury/fashion-and-style/former-young-rich-lister-s-surprise-return-to-the-business-she-left-behind-20240913-p5kack)
 
-* Brook Turner
+* Lauren Sams
 
-* ### [Up your negroni game with these essential new vermouths](https://www.afr.com/life-and-luxury/food-and-wine/up-your-negroni-game-with-these-essential-new-vermouths-20240702-p5jqix)
+* ### [Rodd & Gunn’s winning formula: Make him a little younger, still rugged](https://www.afr.com/life-and-luxury/fashion-and-style/rodd-and-gunn-s-winning-formula-make-him-a-little-younger-still-rugged-20240729-p5jxgg)
     
-* ### [This designer blends sweet with subversive. No wonder Gaga is a fan](https://www.afr.com/life-and-luxury/fashion-and-style/this-designer-blends-sweet-with-subversive-no-wonder-gaga-is-a-fan-20240717-p5judp)
+* ### [Up your negroni game with these essential new vermouths](https://www.afr.com/life-and-luxury/food-and-wine/up-your-negroni-game-with-these-essential-new-vermouths-20240702-p5jqix)
     
 
 [BOSS Financial Review](https://www.afr.com/boss)
@@ -319,29 +319,29 @@ Advertise
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.9819%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_229/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/b94fbc9ba61cae7e20b33a131d644b23121ae474)](https://www.afr.com/life-and-luxury/fashion-and-style/spring-to-it-with-a-beaded-butterfly-bag-and-other-fresh-treats-20240827-p5k5sf)
+[![ ](https://static.ffx.io/images/$zoom_0.3313%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_102/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/6571391075cdabc25b6680b79efbe2e7055c798a)](https://www.afr.com/life-and-luxury/fashion-and-style/do-these-1275-pants-live-up-to-the-hype-20240717-p5juh4)
 
-### [Spring to it with a beaded butterfly bag and other fresh treats](https://www.afr.com/life-and-luxury/fashion-and-style/spring-to-it-with-a-beaded-butterfly-bag-and-other-fresh-treats-20240827-p5k5sf)
+### [Do these $1275 pants live up to the hype?](https://www.afr.com/life-and-luxury/fashion-and-style/do-these-1275-pants-live-up-to-the-hype-20240717-p5juh4)
 
-* Eugenie Kelly
+* Lauren Sams
 
-* ### [Interior design maestro pays tribute to his famous colour muse](https://www.afr.com/life-and-luxury/design/interior-design-maestro-pays-tribute-to-his-famous-colour-muse-20240821-p5k48g)
+* ### [The sublime Greek island a ferry ride away from the madding crowds](https://www.afr.com/life-and-luxury/travel/the-sublime-greek-island-a-ferry-ride-away-from-the-madding-crowds-20240705-p5jrhg)
     
-* ### [Running is a surefire way to feel in control, says tech exec](https://www.afr.com/life-and-luxury/health-and-wellness/running-is-a-surefire-way-to-feel-in-control-says-tech-exec-20240827-p5k5sg)
+* ### [Spring to it with a beaded butterfly bag and other fresh treats](https://www.afr.com/life-and-luxury/fashion-and-style/spring-to-it-with-a-beaded-butterfly-bag-and-other-fresh-treats-20240827-p5k5sf)
     
 
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.5521%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/f62cf0b8c47890d91339ad059ce850ed180c0d2e)](https://www.afr.com/work-and-careers/leaders/family-trust-inside-the-pratts-legal-soap-opera-20240827-p5k5sh)
+[![Boneo Park hosts some of the country’s premier equestrian events.](https://static.ffx.io/images/$zoom_0.9977%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_514%2C$y_201/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/4572a68f4678a00c5b20e8d4ca67bb8e5b323424)](https://www.afr.com/property/commercial/rich-listers-snap-up-top-equestrian-centre-for-less-than-30m-20240916-p5kavu)
 
-### [Family trust: Inside the Pratts’ legal soap opera](https://www.afr.com/work-and-careers/leaders/family-trust-inside-the-pratts-legal-soap-opera-20240827-p5k5sh)
+### [Rich Listers snap up top equestrian centre for less than $30m](https://www.afr.com/property/commercial/rich-listers-snap-up-top-equestrian-centre-for-less-than-30m-20240916-p5kavu)
 
-* Max Mason and Patrick Durkin
+* Larry Schlesinger
 
-* ### [This ex-Macquarie banker toned up Brazil – and made a fortune](https://www.afr.com/wealth/people/this-ex-macquarie-banker-toned-up-brazil-and-made-a-fortune-20240731-p5jy4t)
+* ### [Family trust: Inside the Pratts’ legal soap opera](https://www.afr.com/work-and-careers/leaders/family-trust-inside-the-pratts-legal-soap-opera-20240827-p5k5sh)
     
-* ### [Robin Khuda is the ringleader of this year’s biggest M&A deal](https://www.afr.com/technology/robin-khuda-is-the-ringleader-of-this-year-s-biggest-m-and-a-deal-20240827-p5k5ms)
+* ### [This ex-Macquarie banker toned up Brazil – and made a fortune](https://www.afr.com/wealth/people/this-ex-macquarie-banker-toned-up-brazil-and-made-a-fortune-20240731-p5jy4t)
     
 
 [The Australian Financial Review](https://www.afr.com/)
