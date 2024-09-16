@@ -1,6 +1,6 @@
 [Skip to Main Content](#cc5f8c90dc-b4cb-431b-90ee-10648f8df655)
 
-         
+        
 
  [![Emergency Alert](/Common/Images/AlertCenter/alertBarBlink.svg) Fire Restrictions](https://www.jeffco.us/CivicAlerts.aspx?AID=225) [Stage 1 Fire Restrictions in Unincorporated Jefferson County Read On...](https://www.jeffco.us/AlertCenter.aspx?AID=Stage-1-Fire-Restrictions-in-Unincorpora-1562)
 
