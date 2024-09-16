@@ -7,7 +7,7 @@
 Privacy Policy
 ==============
 
-Last Revised: July 14, 2018
+Last Revised: September 13, 2024
 
 1\. Scope
 ---------
@@ -211,12 +211,40 @@ We reserve the right to modify this Privacy Policy at any time. We encourage you
 
 Any modifications to this Privacy Policy will be effective upon our posting of the new terms and/or upon implementation of the new changes on the Sites (or as otherwise indicated at the time of posting). In all cases, your continued use of the Sites after the posting of any modified Privacy Policy indicates your acceptance of the terms of the modified Privacy Policy.
 
-12\. Contact Us
+12\. Google User Data
+---------------------
+
+We take the privacy and security of Google user data seriously and adhere to Google's API Services User Data Policy. This section outlines how we handle data obtained through Google APIs:
+
+* **Limited Use** - We only use Google user data to provide and improve the core functionality of our application. We do not use this data for any other purposes.
+* ‍**Data Access** - Google user data is accessed solely to deliver the features prominently displayed in our app's user interface. We do not access or use this data for any hidden or undisclosed purposes.
+* ‍**Data Sharing** - We do not transfer or sell Google user data to third parties, including advertising platforms, data brokers, or information resellers. The only exceptions to this are:  
+        a) When necessary to provide or improve our app's core features, and only with explicit user consent  
+        b) For security purposes (e.g., investigating potential abuse)  
+        c) To comply with applicable laws  
+        d) In the event of a merger, acquisition, or sale of assets, after obtaining explicit prior consent from users
+* ‍**Data Processing** - Our employees, agents, and contractors are prohibited from reading Google user data, except in the following limited circumstances:  
+        a) When we have obtained the user's affirmative agreement to view specific data  
+        b) When necessary for security purposes  
+        c) When required to comply with applicable laws
+* ‍**Prohibited Uses** - We do not use Google user data for:  
+        a) Serving advertisements, including retargeting, personalized, or interest-based advertising  
+        b) Determining creditworthiness or for lending purposes  
+        c) Any purposes not explicitly disclosed in this privacy policy**‍**
+* **Data Retention** - We retain Google user data only for as long as necessary to provide our services. Users can request deletion of their Google data from our systems at any time.**‍**
+* **Security** - We employ industry-standard security measures to protect Google user data from unauthorized access, alteration, or destruction.**‍**
+* **User Control** - Users can revoke our access to their Google data at any time through their Google Account settings or by contacting us directly.**‍**
+* **Updates** - We will keep this section of our privacy policy up-to-date and notify users of any changes in how we handle Google user data.  
+    
+
+By using our application and granting access to your Google data, you consent to these practices.
+
+13\. Contact Us
 ---------------
 
 If you have any questions or concerns at all about our Privacy Policy, please feel free to email us at [support@gumroad.com](mailto:support@gumroad.com).
 
-13\. Additional Information for European Union Users
+14\. Additional Information for European Union Users
 ----------------------------------------------------
 
 ### Personal information
