@@ -193,6 +193,30 @@ Some of our posts may contain affiliate links to partner brands. We earn a small
 
 ### More articles
 
+![](https://inspgr.id/app/uploads/2024/09/adesign-call-24-feature.jpg)
+
+[Architecture](https://theinspirationgrid.com/category/architecture/)[Fashion & Beauty](https://theinspirationgrid.com/category/fashion-2/)
+
+[](https://theinspirationgrid.com/editorial/elevate-your-design-career-call-for-entries-to-the-a-design-award-competition/)
+
+### Elevate Your Design Career: Call for Entries to the A’ Design Award & Competition
+
+![](https://inspgr.id/app/uploads/2024/09/review-jsaux-modcase-ally-x-feature.jpg)
+
+[Gaming](https://theinspirationgrid.com/category/gaming/)[Industrial Design](https://theinspirationgrid.com/category/industrial-design/)
+
+[](https://theinspirationgrid.com/editorial/jsaux-rog-ally-x-modcase-review-killswitch-killer/)
+
+### JSAUX ROG Ally X ModCase Review: Killswitch Killer?
+
+![](https://inspgr.id/app/uploads/2024/09/interview-cj-hendry-feature.jpg)
+
+[Art](https://theinspirationgrid.com/category/art/)[Illustration](https://theinspirationgrid.com/category/illustration/)
+
+[](https://theinspirationgrid.com/editorial/in-full-bloom-cj-hendrys-immersive-flower-market-exhibition/)
+
+### In Full Bloom: Cj Hendry’s Immersive Flower Market Exhibition
+
 ![](https://inspgr.id/app/uploads/2024/09/ayaneo-retro-power-bank-feature-new.jpg)
 
 [Gaming](https://theinspirationgrid.com/category/gaming/)[Industrial Design](https://theinspirationgrid.com/category/industrial-design/)
@@ -200,30 +224,6 @@ Some of our posts may contain affiliate links to partner brands. We earn a small
 [](https://theinspirationgrid.com/editorial/ayaneos-retro-power-bank-blends-classic-console-vibes-with-modern-functionality/)
 
 ### AYANEO’s Retro Power Bank Blends Classic Console Vibes with Modern Functionality
-
-![](https://inspgr.id/app/uploads/2024/08/editorial-penmat-2-nano-texture-feature.jpg)
-
-[Art](https://theinspirationgrid.com/category/art/)[Graphic Design](https://theinspirationgrid.com/category/design/)
-
-[](https://theinspirationgrid.com/editorial/penmat-2-vs-ipad-nano-texture-glass-affordable-texture-maximum-flexibility/)
-
-### PenMat 2 vs. iPad Nano-Texture Glass: Affordable Texture, Maximum Flexibility
-
-![](https://inspgr.id/app/uploads/2024/08/rog-ally-x-accessories-cover.jpg)
-
-[Gaming](https://theinspirationgrid.com/category/gaming/)[Product Design](https://theinspirationgrid.com/category/product-design/)
-
-[](https://theinspirationgrid.com/editorial/the-best-asus-rog-ally-x-accessories-2024/)
-
-### The Best ASUS ROG Ally X Accessories 2024
-
-![](https://inspgr.id/app/uploads/2024/08/ada-winners-feature.jpg)
-
-[Architecture](https://theinspirationgrid.com/category/architecture/)[Fashion & Beauty](https://theinspirationgrid.com/category/fashion-2/)
-
-[](https://theinspirationgrid.com/editorial/design-pioneers-discover-20-outstanding-projects-from-a-design-award/)
-
-### Design Pioneers: Discover 20 Outstanding Projects from A’ Design Award
 
 #want
 -----
@@ -291,53 +291,53 @@ Latest
 inspiration
 -----------
 
-![](https://inspgr.id/app/uploads/2024/09/photography-alexandre-mounayer-feature.jpg)
+![](https://inspgr.id/app/uploads/2024/09/typography-gabriel-pang-feature.jpg)
 
-[](https://theinspirationgrid.com/candid-travel-photography-by-alexandre-mounayer/)
+[](https://theinspirationgrid.com/food-type-typographic-creations-by-gabriel-pang/)
 
-### Candid Travel Photography by Alexandre Mounayer
+### Food Type: Typographic Creations by Gabriel Pang
 
-![](https://inspgr.id/app/uploads/2024/09/architecture-yuputira-feature.jpg)
+![](https://inspgr.id/app/uploads/2024/09/design-rubioydelamo-feature.jpg)
 
-[](https://theinspirationgrid.com/yuputira-residence-by-mariko-mori-ring-architects/)
+[](https://theinspirationgrid.com/ax-awards-trophy-design-branding-by-rubio-del-amo/)
 
-### Yuputira Residence by Mariko Mori & Ring Architects
+### AX Awards Trophy Design & Branding by Rubio & del Amo
 
-![](https://inspgr.id/app/uploads/2024/09/design-ramp-vehicle-feature.jpg)
+![](https://inspgr.id/app/uploads/2024/09/illustration-pablo-broseta-feature.jpg)
 
-[](https://theinspirationgrid.com/the-ramp-vehicle-a-wild-concept-car-by-ehaha/)
+[](https://theinspirationgrid.com/character-design-illustrations-by-pablo-broseta/)
 
-### The Ramp Vehicle: A Wild Concept Car by Ehaha
+### Character Design & Illustrations by Pablo Broseta
 
-![](https://inspgr.id/app/uploads/2024/09/photography-gabor-nagy-feature.jpg)
+![](https://inspgr.id/app/uploads/2024/09/photography-rain-look-feature.jpg)
 
-[](https://theinspirationgrid.com/lava-flow-amazing-photos-by-gabor-nagy/)
+[](https://theinspirationgrid.com/west-of-tibet-striking-photos-by-rain-look/)
 
-### Lava Flow: Amazing Photos by Gabor Nagy
+### West of Tibet: Striking Photos by Rain Look
 
-![](https://inspgr.id/app/uploads/2024/09/design-ion-lucin-feature.jpg)
+![](https://inspgr.id/app/uploads/2024/09/illustration-antonio-caparo-feature.jpg)
 
-[](https://theinspirationgrid.com/vitrium-opus-typographic-posters-by-ion-lucin/)
+[](https://theinspirationgrid.com/gorgeous-illustrated-stories-by-antonio-caparo/)
 
-### Vitrium Opus: Typographic Posters by Ion Lucin
+### Gorgeous Illustrated Stories by Antonio Caparo
 
-![](https://inspgr.id/app/uploads/2024/09/3d-damon-xart-feature.jpg)
+![](https://inspgr.id/app/uploads/2024/09/art-stacey-grace-feature.jpg)
 
-[](https://theinspirationgrid.com/glass-metal-digital-art-by-damon-xart/)
+[](https://theinspirationgrid.com/handcrafted-metal-leather-engravings-by-stacey-grace/)
 
-### Glass & Metal: Digital Art by Damon Xart
+### Handcrafted Metal & Leather Engravings by Stacey Grace
 
-![](https://inspgr.id/app/uploads/2024/09/branding-alessandra-mejia-feature.jpg)
+![](https://inspgr.id/app/uploads/2024/09/illustration-marysia-june-feature.jpg)
 
-[](https://theinspirationgrid.com/chivo-taqueria-branding-by-alessandra-mejia/)
+[](https://theinspirationgrid.com/mystical-stories-illustrations-by-marysia-june/)
 
-### Chivo Taqueria Branding by Alessandra Mejia
+### Mystical Stories: Illustrations by Marysia June
 
-![](https://inspgr.id/app/uploads/2024/09/illustration-yun-yao-feature.jpg)
+![](https://inspgr.id/app/uploads/2024/09/art-dustin-yellin-feature.jpg)
 
-[](https://theinspirationgrid.com/whimsical-worlds-illustrations-by-yun-yao/)
+[](https://theinspirationgrid.com/pyschogeographies-sculptural-glass-collages-by-dustin-yellin/)
 
-### Whimsical Worlds: Illustrations by Yun Yao
+### Psychogeographies: Sculptural Glass Collages by Dustin Yellin
 
 Awesome products for creatives
 ------------------------------
