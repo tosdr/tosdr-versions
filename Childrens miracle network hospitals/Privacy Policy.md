@@ -125,7 +125,7 @@ USA - ENG
 * [](https://www.youtube.com/user/cmnhospitals "CMN Hospitals Youtube")
 * [](https://www.linkedin.com/company/cmnhospitals "CMN Hospitals Linkedin")
 
-* [CMN Hospitals National](https://childrensmiraclenetworkhospitals.org/home)
+* [CMN Hospitals National](https://childrensmiraclenetworkhospitals.org/)
 * [Privacy Policy](https://childrensmiraclenetworkhospitals.org/privacy-policy/)
 * [Community Standards](https://childrensmiraclenetworkhospitals.org/community-standards-en/)
 * [Financials](https://childrensmiraclenetworkhospitals.org/financials/)
