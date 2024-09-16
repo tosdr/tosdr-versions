@@ -31,11 +31,156 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+El Metro de Quito fue vandalizado otra vez
+==========================================
+
+Un tren del Metro de Quito fue vandalizado en el pasado. Y en este mes, se detuvo a una persona por rayar una estación del sistema de transporte público.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![La noticia del Metro de Quito vandalizado fue publicada en las redes sociales de la entidad.](https://www.elcomercio.com/wp-content/uploads/2024/09/Metro-de-Quito-vandalizado.jpg)
+
+El **Metro** de **Quito** fue vandalizado otra vez la noche del domingo 15 de septiembre de 2024, según informó la entidad la mañana del 16 de septiembre[.](https://es.wikipedia.org/wiki/Metro_de_Quito "https://es.wikipedia.org/wiki/Metro_de_Quito")
+
+Metro de Quito
+--------------
+
+* [Ciudadano fue detenido por vandalizar una parada del Metro de Quito](https://www.elcomercio.com/actualidad/quito/ciudadano-parada-metro-quito-grafiti.html "Ciudadano fue detenido por vandalizar una parada del Metro de Quito")
+* [Metro de Quito superó los 40 millones de viajes](https://www.elcomercio.com/actualidad/quito/metro-de-quito-supero-40-millones-de-viajes.html "Metro de Quito superó los 40 millones de viajes")
+* [Metro de Quito anunció nueva forma de pago, ¿cómo funcionará?](https://www.elcomercio.com/actualidad/quito/metro-quito-forma-pago-nuevo-tarjeta-pasaje.html "Metro de Quito anunció nueva forma de pago, ¿cómo funcionará?")
+
+El Metro de Quito dio a conocer el incidente a través de sus redes sociales, donde emitió un comunicado que detalló lo siguiente:
+
+Detalles del vandalismo al Metro de Quito
+-----------------------------------------
+
+Tras conocer el incidente, la **Empresa Metro** de **Quito** solicitó informes a la operadora **Transdev** para aclarar lo sucedido.
+
+La entidad confirmó que un tren fue vandalizado durante la noche del 15 de septiembre. Ante esto, la gerencia de operaciones coordinó con criminalística de la **Policía Nacional** para recolectar **evidencias** que respalden las **acciones legales** correspondientes.
+
+Retiro del tren vandalizado
+---------------------------
+
+El personal de operaciones retiró el **tren afectado** de circulación y lo trasladó a los **talleres** y **cocheras**. El equipo de mantenimiento lo limpiará después de que se completen las **pericias de seguridad**.
+
+> 📌[#Comunicado](https://twitter.com/hashtag/Comunicado?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/ILzjMZWp5L](https://t.co/ILzjMZWp5L)
+> 
+> — Metro de Quito (@MetrodeQuito) [September 16, 2024](https://twitter.com/MetrodeQuito/status/1835545032738083034?ref_src=twsrc%5Etfw)
+
+Detención de un ciudadano por vandalismo en el Metro de Quito
+-------------------------------------------------------------
+
+El 12 de septiembre de 2024, las autoridades detuvieron a un ciudadano por **grafitear** una de las **estaciones** del **Metro** de **Quito**.
+
+El Cuerpo de **Agentes** de **Control Metropolitano** sorprendió al hombre mientras pintaba una pared en la estación **La Magdalena**, en el sur de **Quito**.
+
+La **Policía Nacional** lo trasladó a las dependencias correspondientes para continuar con el proceso de sanción.
+
+Sanciones por vandalismo en el Metro de Quito
+---------------------------------------------
+
+**Rayar**, **pintar**, **grafitear**, escribir o manchar las instalaciones del **Metro**, así como despegar etiquetas de información, constituyen infracciones muy graves.
+
+Según la ordenanza vigente, estas acciones se sancionan con una multa equivalente a un **Salario Básico Unificado**, que en 2024 es de 460 dólares.
+
+La sanción también puede cubrirse mediante **trabajo comunitario**, valorado en 10 dólares por hora. Sin embargo, el **Municipio** de **Quito** puede escalar la sanción a una denuncia penal si se considera destrucción de bienes ajenos.
+
+Se acerca el cumpleaños de Batman  
+===================================
+
+Batman está por cumplir años y el mundo celebra al ‘Caballero Oscuro’ con eventos globales, lanzamientos exclusivos y más.
+--------------------------------------------------------------------------------------------------------------------------
+
+![Batman fue creado por Bob Kane y Bill Finger en 1939. Foto: static1.cbrimages.com.](https://www.elcomercio.com/wp-content/uploads/2024/09/batmanday.jpg)
+
+El **21 de septiembre de 2024**, el mundo celebrará el 85 aniversario de **Batman**, uno de los superhéroes más icónicos de todos los tiempos. Desde su primera aparición en **Detective Comics #27** en 1939, Batman ha cautivado a generaciones con su lucha contra el crimen en **Gotham City**. Este año, **DC Comics** y diversas plataformas se unen para rendir homenaje al **‘Caballero Oscuro’** con una serie de eventos y lanzamientos exclusivos. 
+
+### Más noticias
+
+* [Portugal lanzará una moneda en honor a Cristiano Ronaldo](https://www.elcomercio.com/afull/cristiano-ronaldo-moneda-portugal.html "https://www.elcomercio.com/afull/cristiano-ronaldo-moneda-portugal.html") 
+* [Los detalles que no viste de la detención de Luisito Comunica en República Dominicana](https://www.elcomercio.com/tendencias/entretenimiento/los-detalles-que-no-viste-de-la-detencion-de-luisito-comunica-en-republica-dominicana.html "https://www.elcomercio.com/tendencias/entretenimiento/los-detalles-que-no-viste-de-la-detencion-de-luisito-comunica-en-republica-dominicana.html")
+
+**Historia de Batman** 
+-----------------------
+
+Batman, creado por **Bob Kane** y **Bill Finger**, debutó en 1939 y rápidamente se convirtió en un **fenómeno cultural.** A lo largo de los años, ha sido interpretado por numerosos actores en cine y televisión, incluyendo a **Adam West**, **Michael Keaton**, **Christian Bale** y más recientemente, **Robert Pattinson**. Su historia ha evolucionado, pero su esencia como un vigilante que lucha por la justicia ha permanecido constante. 
+
+**Celebraciones y eventos** 
+----------------------------
+
+**Warner Bros. Studio Tour Hollywood** celebrará el aniversario con un evento especial el 21 de septiembre de 2024. Los fanáticos podrán disfrutar de una noche única con exhibiciones exclusivas y la oportunidad de ver de cerca los **trajes y ‘gadgets’ utilizados en las películas de Batman**, según [Attraction Magazine](https://attractionsmagazine.com/celebrate-batmans-85th-anniversary-at-warner-bros-studio-tour-hollywood/ "https://attractionsmagazine.com/celebrate-batmans-85th-anniversary-at-warner-bros-studio-tour-hollywood/").  
+
+**DC Comics** ha anunciado una serie de **eventos globales** para conmemorar el aniversario. Entre ellos, el lanzamiento de la **Colección del 85 Aniversario de Batman**, que incluye 10 películas animadas en 4K UHD, de acuerdo con la página de [DC](https://www.dc.com/blog/2024/09/10/batman-day-arrives-saturday-september-21 "https://www.dc.com/blog/2024/09/10/batman-day-arrives-saturday-september-21"). Además, se realizarán actividades en tiendas de cómics y eventos en línea para que los fanáticos de todo el mundo puedan participar. 
+
+**Lanzamientos exclusivos** 
+----------------------------
+
+Para los coleccionistas, **Beast Kingdom** ha lanzado una serie de **figuras de acción de Batman**, cada una representando diferentes versiones del personaje a lo largo de los años. Estas figuras están disponibles para preordenar y son un tributo perfecto para cualquier fanático del ‘Caballero Oscuro’, según [Batman-News](https://batman-news.com/2024/09/05/beast-kingdom-85th-anniversary-batman-figures/#google_vignette "https://batman-news.com/2024/09/05/beast-kingdom-85th-anniversary-batman-figures/#google_vignette"). 
+
+**Impacto y legado** 
+---------------------
+
+**El impacto de Batman en la cultura popular** es innegable. Ha inspirado a generaciones de fanáticos y ha sido un símbolo de justicia y perseverancia. Su influencia se extiende más allá de los cómics, **llegando a la televisión, el cine, los videojuegos y más**. Batman ha demostrado ser un personaje atemporal que sigue a la par del público de todas las edades. 
+
+El **85 aniversario de Batman** es una celebración de un legado que ha perdurado a lo largo de las décadas. Con **eventos globales, lanzamientos exclusivos y homenajes en diversas plataformas**, los fanáticos tienen muchas maneras de unirse a la celebración. Batman ha demostrado ser más que un simple personaje de cómic; es un **ícono cultural que seguirá inspirando a futuras generaciones**. 
+
+Así funciona el Pico y placa en Quito este lunes 16 de septiembre
+=================================================================
+
+Revisa los límites del Pico y placa y evita ser sancionado con multas. Recuerda que los estacionamientos de borde son gratuitos.
+--------------------------------------------------------------------------------------------------------------------------------
+
+![Los agentes metropolitanos gestionan el flujo vehicular en las calles de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/09/pico-y-placa-1.jpg)
+
+El **Pico y placa continúa vigente en Quito** para autos y motos; esta medida fue implementada para mejorar el flujo vehicular en las horas de mayor tránsito.
+
+Además, se debe recordar que **durante los feriados y los fines de semana** la medida no aplica.
+
+### Más noticias
+
+* [(Video) Incendio forestal en El Panecillo alarmó al centro de Quito](https://www.elcomercio.com/actualidad/quito/incendio-forestal-panecillo-alarma-quito-humo.html "(Video) Incendio forestal en El Panecillo alarmó al centro de Quito")
+* [(Mapa interactivo) Al menos 661 incendios forestales se registran desde el 23 de agosto](https://www.elcomercio.com/actualidad/ecuador/mapa-interactivo-661-incendios-forestales-se-registran-desde-23-de-agosto.html "(Mapa interactivo) Al menos 661 incendios forestales se registran desde el 23 de agosto")
+* [Ausencia de lluvias significativas favorece formación de incendios forestales](https://www.elcomercio.com/actualidad/ecuador/ausencia-de-lluvias-significativas-favorece-formacion-de-incendios-forestales.html "Ausencia de lluvias significativas favorece formación de incendios forestales")
+
+Así como hay excepciones, **los vehículos que pertenecen a adultos mayores**, personas con discapacidad, vehículos eléctricos y los oficiales pueden circular con normalidad a cualquier hora.
+
+La restricción depende del **último dígito de la placa del vehículo**. Este lunes no circulan las placas terminadas en 1 y 2.
+
+Horarios del Pico y placa
+-------------------------
+
+En la mañana la medida se aplica de **06:00 a 09:30 y en la tarde, de 16:00 a 20:00.**
+
+Las autoridades locales hacen un llamado a la **colaboración ciudadana** y al respeto de estas normativas, en aras de garantizar una mejor movilidad urbana.
+
+Multas por infringir la medida
+------------------------------
+
+La multa por incumplirla es del 15% del **Salario Básico Unificado**, es decir 69 dólares la primera vez.
+
+Si la incumples una segunda vez, la sanción será del **25%, es decir, 115 dólares.**
+
+Y si infringes una tercera vez, **la multa asciende al 50%** de un salario básico, es decir, 230 dólares.
+
+Límites en Quito para Pico y placa
+----------------------------------
+
+Esta medida se aplica en el **Distrito Metropolitano.** En el norte la restricción está presente en la avenida de Los Narcisos y teniendo como puntos de referencia la **Escuela Superior de la Policía** y Puente Villorita.
+
+Desde los puntos anteriores esta medida se extiende hasta la avenida **Morán Valverde**. Es decir, todas las vías entre Los Narcisos y Morán Valverde tiene restricción de lunes a viernes.
+
+El otro límite vehicular es la **avenida Simón Bolívar**, donde se acaba la restricción vehicular y sus puntos de referencia son Intercambiador de La Granados e Intercambiador de Carapungo.
+
+Al oeste, la [av. Mariscal Sucre](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito") hasta la intersección de la av. **Manuel Córdova Galarza** (redondel El Condado).
+
+> ⚠️ ¡No caigas en multas! Conoce por dónde puedes circular en [#Quito](https://twitter.com/hashtag/Quito?src=hash&ref_src=twsrc%5Etfw) [https://t.co/VAySmVN9kd](https://t.co/VAySmVN9kd) [pic.twitter.com/Gyso7gkL1O](https://t.co/Gyso7gkL1O)
+> 
+> — El Comercio (@elcomerciocom) [June 9, 2024](https://twitter.com/elcomerciocom/status/1799837694727434657?ref_src=twsrc%5Etfw)
+
 Metástasis: la descomposición del sistema judicial
 ==================================================
 
-La reciente acusación de la Fiscalía en el caso Metástasis, que involucra a Leandro Norero, uno de los capos de la droga en Ecuador, pone de manifiesto el alcance de una red de corrupción que ha corrompido los cimientos del sistema judicial y penitenciario del país. El modus operandi revelado no solo es alarmante por \[…\]
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+La reciente acusación de la Fiscalía en el caso Metástasis pone de manifiesto el alcance de una red de corrupción que ha corrompido el sistema judicial.
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Imagen creada con inteligencia artificial con el prompt: imagen de un juez sin rostro que va a dictar sentencia.](https://www.elcomercio.com/wp-content/uploads/2024/09/Untitled-design-17.jpg)
 
@@ -47,7 +192,7 @@ Es inevitable preguntarse cómo es posible que un entramado tan [complejo](https
 
 Uno de los aspectos más preocupantes de este caso es la implicación directa de profesionales del derecho. Algunos abogados se presentan no como defensores de la ley, sino como facilitadores de un **sistema corrupto**, donde las sentencias y decisiones judiciales pueden ser compradas al mejor postor. La imagen del abogado como un garante de la justicia queda absolutamente mancillada.
 
-Estos profesionales habrían utilizado sus conocimientos y contactos para manipular procesos legales y garantizar que **Leandro Norero** y sus colaboradores gozaran de impunidad. La Fiscalía ha revelado que estos abogados, junto con algunos jueces jugaron un rol determinante en la concesión de beneficios judiciales, como la modificación de **sentencias** o la emisión de **hábeas corpus** favorables a la organización.
+Estos profesionales habrían utilizado sus conocimientos y contactos para manipular procesos legales y garantizar que **Leandro Norero** y sus colaboradores gozaran de impunidad. La Fiscalía ha revelado que estos abogados, junto con algunos jueces, jugaron un rol determinante en la concesión de beneficios judiciales, como la modificación de **sentencias** o la emisión de **hábeas corpus** favorables a la organización.
 
 La penetración de esta red criminal no se detuvo en los juzgados. Las cárceles del país, que deberían ser lugares de rehabilitación y castigo, se han convertido en **refugios** donde el dinero puede comprar cualquier privilegio. Varios funcionarios penitenciarios habrían facilitado el ingreso de **artículos** **prohibidos** y brindado información a Leandro Norero sobre operativos de inteligencia, asegurando que sus días en prisión fueran lo más cómodos posible.
 
@@ -56,28 +201,6 @@ Uno de los elementos más escalofriantes de este caso es la implicación de **al
 El caso Metástasis es un espejo de la realidad del país. Las instituciones encargadas de garantizar la justicia y la seguridad están gravemente comprometidas. El hecho de que abogados, jueces, fiscales, funcionarios penitenciarios y altos mandos de la Policía estén **implicados en esta red de corrupción** no solo revela un caso puntual de criminalidad organizada, sino un síntoma de la descomposición generalizada del sistema.
 
 Si no se toman medidas drásticas y profundas para reformar estas instituciones, es posible que casos como el de Leandro Norero sigan proliferando. El caso Metástasis debe servir como una **llamada de atención urgente** para reformar un sistema que, si sigue por este camino, estará condenado al colapso.
-
-Lecturas que reviven ideales
-============================
-
-Elijamos autoridades honestas y enfrentemos, con decisión y firmeza, a la corrupción.
--------------------------------------------------------------------------------------
-
-![Reinaldo Páez Z., columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Reinaldo-Paez-Z.jpg)
-
-Enorme regocijo origina la **lectura** de la **novela histórica**, “**El Fuego Interior**” fruto de la prolífica **escritora** **Águeda Pallares**; su lectura es tan cautivadora que atrapa al lector y lo abraza entre hermosas **metáforas**, bellas **descripciones** geográficas y situaciones cambiantes que exhalan amor, pasión, patriotismo, lealtad y ejemplar honestidad. El **relato poético** permite percibir el sudor de los valientes soldados que, bajo el mando del general Antonio José de Sucre, cumplían las órdenes del libertador Simón Bolívar, para transportar a caballo, cañones, lanzas, fusiles y otros **pertrechos bélicos**, a través de “largos caminos, bajo la **lluvia**, el **sol abrazador**, las noches heladas y la mala alimentación…” “Atravesaban estrechos valles de paisajes pristinos y hermosas vistas. Las **ciudades** por las que pasaban estaban perdidas en el tiempo” Las montañas y las **quebradas** profundas, no constituían **obstáculos** infranqueables en el desplazamiento de los ejércitos que, imbuidos de **patriotismo**, sorprendieron a las poderosas **fuerzas realistas**. Las elegantes y armoniosamente hilvanadas frases dedicadas al **héroe** y sin par personaje **Antonio José de Sucre**, nos transportan a los campos de **batalla** del Pichincha y de Ayacucho, nos contagian del olor, a pólvora, a dolor y a la **sangre** que derramaron los bravos **soldados** para legarnos la **libertad**.
-
-La **obra** narra que, una vez liberado el Perú, el **Mariscal Sucre** fue designado primer presidente de Bolivia; “el nuevo país florecía y el ejército se preparaba bajo la **supervisión** de su comandante” “los hombres, que antes gozaban de **poder ilimitado**, no soportaban a Sucre porque gobernaba de forma autoritaria, sin desviarse del camino de la **virtud** y la **honestidad**, no se podía lucrar de las arcas de la **república**, atrasarse o hacer mal el trabajo”
-
-Añadía el joven general “vamos a erradicar de una vez por todas esas malas mañas. Nunca construiremos una verdadera **democracia** mientras no logremos sembrar la **honestidad** y el cumplimiento del deber en la **conciencia** de los **ciudadanos**” …”si no se obedece mi **mandato** asegúrese de que se aplique la pena de muerte a los **corruptos**” “En la reunión con sus **ministros**, Sucre planteó la urgencia que tenía en conseguir recursos para cubrir **gastos** de **educación** y **salud**”.
-
-Han transcurrido dos siglos desde que el **Mariscal Sucre** y el Libertador **Simón Bolívar** anhelaban que, en los **países liberados** por ellos, se elimine la **corrupción** e inclusive planteaban la **pena capital** para los **corruptos** y ansiaban financiar la **salud** y la **educación**, como acciones fundamentales de gobierno. Qué positivo sería que, en el **momento actual**, se actualicen esos **programas** y que alguno de los 16 aspirantes a ocupar **Carondelet,** exponga **proyectos** de **gobiernos** similares y aboguen por dar fin a la **corrupción** que está destruyendo a **nuestro país**. La triste realidad es que ningún **candidato** presenta propósitos de gestión y la gran mayoría se mantiene inmersa en las **redes sociales** y en **programas faranduleros** que no garantizan un **futuro útil** para el país.
-
-Es inaudito que en lugar de que la **Asamblea** elabore leyes que cimienten las bases de un verdadero **sistema nacional de salud**, que modernicen y mejoren la **educación**, que detengan la **destrucción** del Instituto Ecuatoriano de Seguridad Social (IESS), que impidan la **degeneración judicial**, que den mal uso al tiempo de **trabajo** y lo desperdicien en la **planificación** de **juicios políticos**, orientados a desestabilizar a los gobiernos de turno y a beneficiar a **exfuncionarios** que delinquieron y fueron juzgados y **sentenciados**. Esa actitud, de **protección** a los condenados, divide al país entre los **honestos**, que defienden la **democracia** y la **justicia**, y los **corruptos**, que dan cabida a **personajes** que han saqueado las **arcas nacionales** y aspiran a seguir haciéndolo, sin ningún recato.
-
-Es un **enfrentamiento** entre el bien y el mal, en varias batallas; en la última triunfó la valiente representante de la lucha contra la **corrupción**, la **Fiscal General Diana Salazar**, cuya acción frontal ha permitido descubrir una enorme **podredumbre** del **sistema judicial** y sancionar a abogados, jueces, fiscales, militares y policías, en varios casos abiertos.
-
-Honremos la **memoria** de **Bolívar** y de **Sucre**, nos sumemos al **ejército** de **dignidad** y **corrección**, elijamos **autoridades** **honestas** y enfrentemos, con decisión y firmeza, a la **corrupción**.
 
 Cartas a Quito / 16 de septiembre de 2024
 =========================================
@@ -106,6 +229,28 @@ Plan de trabajo, señores candidatos
 Toda organización social emplazada en un determinado  territorio (estado), tiene la obligación de: regular, ejecutar  y, controlar la vida de sus miembros, mediante la determinación de un objetivo y las herramientas necesarias para conseguirlo (planificación). El objetivo del Estado ecuatoriano es, asegurar el bienestar de sus habitantes y, las herramientas, los planes de trabajo de todos y cada uno de los  órganos superiores como: ejecutivo, legislativo, judicial, electoral y,  transparencia y control social. El primero ejecuta, cumple y hace cumplir las normas que regula y controla el segundo. La cabeza del poder ejecutivo y los miembros de la función legislativa son elegidos por el pueblo. En consecuencia, el elector tiene la obligación de exigir a los candidatos, el plan de trabajo como condición de empleo, mismo que será aprobado y apoyado (voto) por el ciudadano, cuando sea, claro, flexible y medible, es decir que indique matemáticamente: que va a hacer, cuando va hace, cuál es el valor y  como va a hacer y, se le pueda medir el avance en cualquier momento (plan técnico). Este plan se consigue utilizando la herramienta de gestión de proyectos “Método del camino crítico”. El plan de trabajo o de gobierno del poder ejecutivo), debe ser el resumen de los planes de  seguridad interna y de seguridad externa. El plan de trabajo de seguridad interna será el consolidado de los planes de: seguridad civil, seguridad en salud, seguridad en educación, seguridad alimenticia, seguridad habitacional y de infraestructura, seguridad de empleo, seguridad social, etc. El plan de trabajo de la seguridad externa será el compendio del plan de soberanía territorial y el plan que relaciona al Estado ecuatoriano con el mundo. Candidatos, basta de improvisar, basta de demagogia, basta de debates inútiles, si quieren ganarse al electorado, socialicen un Plan técnico. 
 
 Marco A. Zurita Ríos
+
+Lecturas que reviven ideales
+============================
+
+Elijamos autoridades honestas y enfrentemos, con decisión y firmeza, a la corrupción.
+-------------------------------------------------------------------------------------
+
+![Reinaldo Páez Z., columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Reinaldo-Paez-Z.jpg)
+
+Enorme regocijo origina la **lectura** de la **novela histórica**, “**El Fuego Interior**” fruto de la prolífica **escritora** **Águeda Pallares**; su lectura es tan cautivadora que atrapa al lector y lo abraza entre hermosas **metáforas**, bellas **descripciones** geográficas y situaciones cambiantes que exhalan amor, pasión, patriotismo, lealtad y ejemplar honestidad. El **relato poético** permite percibir el sudor de los valientes soldados que, bajo el mando del general Antonio José de Sucre, cumplían las órdenes del libertador Simón Bolívar, para transportar a caballo, cañones, lanzas, fusiles y otros **pertrechos bélicos**, a través de “largos caminos, bajo la **lluvia**, el **sol abrazador**, las noches heladas y la mala alimentación…” “Atravesaban estrechos valles de paisajes pristinos y hermosas vistas. Las **ciudades** por las que pasaban estaban perdidas en el tiempo” Las montañas y las **quebradas** profundas, no constituían **obstáculos** infranqueables en el desplazamiento de los ejércitos que, imbuidos de **patriotismo**, sorprendieron a las poderosas **fuerzas realistas**. Las elegantes y armoniosamente hilvanadas frases dedicadas al **héroe** y sin par personaje **Antonio José de Sucre**, nos transportan a los campos de **batalla** del Pichincha y de Ayacucho, nos contagian del olor, a pólvora, a dolor y a la **sangre** que derramaron los bravos **soldados** para legarnos la **libertad**.
+
+La **obra** narra que, una vez liberado el Perú, el **Mariscal Sucre** fue designado primer presidente de Bolivia; “el nuevo país florecía y el ejército se preparaba bajo la **supervisión** de su comandante” “los hombres, que antes gozaban de **poder ilimitado**, no soportaban a Sucre porque gobernaba de forma autoritaria, sin desviarse del camino de la **virtud** y la **honestidad**, no se podía lucrar de las arcas de la **república**, atrasarse o hacer mal el trabajo”
+
+Añadía el joven general “vamos a erradicar de una vez por todas esas malas mañas. Nunca construiremos una verdadera **democracia** mientras no logremos sembrar la **honestidad** y el cumplimiento del deber en la **conciencia** de los **ciudadanos**” …”si no se obedece mi **mandato** asegúrese de que se aplique la pena de muerte a los **corruptos**” “En la reunión con sus **ministros**, Sucre planteó la urgencia que tenía en conseguir recursos para cubrir **gastos** de **educación** y **salud**”.
+
+Han transcurrido dos siglos desde que el **Mariscal Sucre** y el Libertador **Simón Bolívar** anhelaban que, en los **países liberados** por ellos, se elimine la **corrupción** e inclusive planteaban la **pena capital** para los **corruptos** y ansiaban financiar la **salud** y la **educación**, como acciones fundamentales de gobierno. Qué positivo sería que, en el **momento actual**, se actualicen esos **programas** y que alguno de los 16 aspirantes a ocupar **Carondelet,** exponga **proyectos** de **gobiernos** similares y aboguen por dar fin a la **corrupción** que está destruyendo a **nuestro país**. La triste realidad es que ningún **candidato** presenta propósitos de gestión y la gran mayoría se mantiene inmersa en las **redes sociales** y en **programas faranduleros** que no garantizan un **futuro útil** para el país.
+
+Es inaudito que en lugar de que la **Asamblea** elabore leyes que cimienten las bases de un verdadero **sistema nacional de salud**, que modernicen y mejoren la **educación**, que detengan la **destrucción** del Instituto Ecuatoriano de Seguridad Social (IESS), que impidan la **degeneración judicial**, que den mal uso al tiempo de **trabajo** y lo desperdicien en la **planificación** de **juicios políticos**, orientados a desestabilizar a los gobiernos de turno y a beneficiar a **exfuncionarios** que delinquieron y fueron juzgados y **sentenciados**. Esa actitud, de **protección** a los condenados, divide al país entre los **honestos**, que defienden la **democracia** y la **justicia**, y los **corruptos**, que dan cabida a **personajes** que han saqueado las **arcas nacionales** y aspiran a seguir haciéndolo, sin ningún recato.
+
+Es un **enfrentamiento** entre el bien y el mal, en varias batallas; en la última triunfó la valiente representante de la lucha contra la **corrupción**, la **Fiscal General Diana Salazar**, cuya acción frontal ha permitido descubrir una enorme **podredumbre** del **sistema judicial** y sancionar a abogados, jueces, fiscales, militares y policías, en varios casos abiertos.
+
+Honremos la **memoria** de **Bolívar** y de **Sucre**, nos sumemos al **ejército** de **dignidad** y **corrección**, elijamos **autoridades** **honestas** y enfrentemos, con decisión y firmeza, a la **corrupción**.
 
 Caso Sinohydro iniciará un nuevo proceso en la investigación
 ============================================================
@@ -923,138 +1068,3 @@ La conservación de los delfines de la Amazonía
 WWF comenzó con la protección de los delfines de río en Ecuador en 2018. Para ello, colabora con el Instituto Nacional de Biodiversidad y expertos de la **Iniciativa de Delfines de Río de Suramérica (Sardi).**
 
 Así se ejecuta el **programa de Vida Silvestre y Agua Dulce**, financiado por diversas iniciativas para la conservación y evitar su extinción. Con ese propósito se fomenta el turismo responsable y otras estrategias. Según WWF, con las comunidades indígenas se trabaja de manera inclusiva y el cuidado de las especies está vinculado a iniciativas de desarrollo sostenible para promover economías más verdes y sostenibles.
-
-Shakira habría mostrado un adelanto de su nueva canción en una fiesta en Miami
-==============================================================================
-
-En esa misma fiesta, un hombre habría grabado por debajo del vestido de la cantante.
-------------------------------------------------------------------------------------
-
-![La cantante colombiana Shakira se prepara para su gira. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/08/Diseno-sin-titulo-2024-08-16T114439.994.jpg)
-
-Desde el lanzamiento del álbum ‘Las mujeres ya no lloran’, Shakira es una de las artistas latinas más relevantes de 2024, junto a Karol G. La barranquillera no solo continúa con su apabullante carrera, sino que ya se prepara para su próximo gran proyecto.
-
-Más noticias
-------------
-
-* [Shakira ordena tirar todo lo que tocó Clara Chía](https://www.elcomercio.com/afull/shakira-clara-chia-gerard-pique.html "Shakira ordena tirar todo lo que tocó Clara Chía ")
-* [Los Premios Emmy 2024: Esta es la lista de nominados](https://www.elcomercio.com/tendencias/los-premios-emmy-2024-esta-es-la-lista-de-nominados.html "Los Premios Emmy 2024: Esta es la lista de nominados")
-
-Este 14 de septiembre de 2024, Shakira asistió a una fiesta en Miami. Durante el evento, la cantante aprovechó para adelantar lo que parece su siguiente lanzamiento.
-
-En medio de la fiesta, Shakira interpretó una nueva canción frente al público del bar, lo que rápidamente se convirtió en tendencia en X. Los asistentes grabaron videos en los que se escuchaba una canción inédita con un ritmo urbano, similar al estilo que ha popularizado en los últimos años.
-
-La presencia de Shakira en la fiesta no pasó desapercibida, especialmente por su compañía, reseña el portal Infobae. En el evento estuvo junto a la cantante brasilera Anitta y la mexicana Danna Paola.
-
-La aparición conjunta de estas tres artistas generó especulaciones sobre un posible video musical grabado en el lugar. Aunque los videos mostraban a las tres en acción, algunos insiders sugieren que la colaboración se dará solo entre Shakira y Anitta, con la canción titulada _Soltera_. Esta información aún no ha sido confirmada oficialmente por las artistas.
-
-Además, en otro video grabado en la fiesta, Shakira fue vista bailando al ritmo de la nueva canción, mientras recibía apoyo de la creadora de contenido Lele Pons.
-
-> Shakira y anitta perreando 🥵 [pic.twitter.com/29yqE94CF3](https://t.co/29yqE94CF3)
-> 
-> — 𝑨𝒏𝒕𝒉𝒐 𝒔𝒉𝒂𝒌𝒊𝒇𝒂𝒏 🐺 (@shakiraxspain) [September 15, 2024](https://twitter.com/shakiraxspain/status/1835258507806822817?ref_src=twsrc%5Etfw)
-
-Las reacciones en redes sociales no se hicieron esperar. Los fanáticos se mostraron entusiastas: “No puedo dormir de la emoción”; “Shakira está increíble bailando su nuevo tema” y “La canción promete ser un éxito para bailar” fueron algunos de los comentarios.
-
-Aunque aún no se ha anunciado oficialmente el lanzamiento, cuentas especializadas como **Pop Stuff** y **Top Music Universe** han confirmado que la canción ‘Soltera’ se publicará próximamente.
-
-Los fanáticos también descifraron fragmentos de la letra, que sugieren una celebración de la libertad y la soltería. La colaboración promete ser un éxito, y los seguidores esperan ansiosos la confirmación oficial y la fecha de lanzamiento.
-
-Un hombre habría grabado por debajo del vestido de Shakira
-----------------------------------------------------------
-
-Durante un momento de la noche, Shakira se subió a una tarima de la discoteca para bailar mientras sonaba la que parece ser su nueva canción. Justo entonces, la artista vivió un momento incómodo por culpa de uno de los asistentes.
-
-En el vídeo, Shakira aparece bailando y dando vueltas con una sonrisa y con un vestido corto. En un momento, la cantante se para y comienza a hablar con un miembro del público mientras se estira el vestido hacia abajo.
-
-Shakira hace señas de negación con los dedos. Según el mismo usuario de X, un hombre estaba grabando a la artista por debajo del vestido y ella lo descubrió.
-
-Shakira siguió bailando al ritmo de su canción, hasta que volvió a mirar al hombre y decidió parar de bailar, volver a estirarse el vestido y bajar de la tarima.
-
-> Shakira leaves the stage after people were filming under her dress whilst she was dancing to her new single. People are GROSS. [pic.twitter.com/AxlBw6yFZL](https://t.co/AxlBw6yFZL)
-> 
-> — FEIM (@FeimM\_) [September 15, 2024](https://twitter.com/FeimM_/status/1835218897332486212?ref_src=twsrc%5Etfw)
-
-Producción de petróleo no se recupera en Ecuador
-================================================
-
-La producción de petróleo en Ecuador tiene una pérdida acumulada desde agosto.
-------------------------------------------------------------------------------
-
-![La caída de la producción petrolera significa pérdida de millones de dólares para Ecuador. Foto: Petroecuador](https://www.elcomercio.com/wp-content/uploads/2024/09/produccion-petroleo.jpg)
-
-La **producción nacional de petróleo** está a la baja. Este 12 de septiembre del 2024, **Ecuador** produjo 463 404 barriles de petróleo, la cifra representa una caída de **13 327 barriles** en comparación con el día anterior, cuando se produjeron 476 731. La reducción es del 3%, según los datos fiscalizados de la Agencia de Regulación y Control de Hidrocarburos.
-
-### Más noticias
-
-* [Petroecuador explicó caída de producción petrolera en Sucumbíos, Napo y Orellana](https://www.elcomercio.com/actualidad/negocios/petroecuador-explico-caida-produccion-petrolera-sucumbios-napo-orellana.html "Petroecuador explicó caída de producción petrolera en Sucumbíos, Napo y Orellana")
-* [Producción petrolera sigue cayendo en Ecuador; conozca las razones](https://www.elcomercio.com/actualidad/negocios/produccion-petrolera-sigue-cayendo-en-ecuador-conozca-las-razones.html "Producción petrolera sigue cayendo en Ecuador; conozca las razones")
-* [La gasolina cambia de precio; la nueva tarifa se aplica desde este 12 de septiembre](https://www.elcomercio.com/actualidad/negocios/gasolina-cambia-precio-tarifa-aplica-12-septiembre.html "La gasolina cambia de precio; la nueva tarifa se aplica desde este 12 de septiembre")
-
-Desde el 1 de agosto hasta la segunda semana de septiembre, la pérdida acumulada se acerca a 163 000 barriles de petróleo, según se **Petroecuador**.
-
-Razones para la caída de la producción petrolera
-------------------------------------------------
-
-La petrolera estatal explicó, al menos, cinco razones para la caída en la producción. La primera causa está relacionada con las **fallas de equipos**, generadas por **suspensiones eléctricas**, que han perjudicado a la producción de 11 bloques petroleros.
-
-La producción de estas zonas se ha reducido en alrededor de 83 284 barriles de petróleo, acumulados, desde el 1 de agosto hasta los primeros días de septiembre.
-
-El segundo factor es los daños en **tuberías**, que ya han cumplido su vida útil o, en otros casos, por las perforaciones clandestinas. Este segundo motivo ha causado pérdidas estimadas en 26 799 barriles, durante el último mes.
-
-La tercera causa son los **robos de cable** que han provocado el **apagado de pozos y problemas** para **extraer crudo**, mientras se reparan y reemplazan, en varios campos de la empresa. Las pérdidas estimadas por esto suman 16 907 barriles de petróleo.
-
-La cuarta razón es la sequía en el país, que redujo la navegabilidad del río Napo las últimas semanas. Esto ha impedido que se pueda transportar el combustible para la generación eléctrica y poder mantener los pozos operativos. La pérdida acumulada es de 30 372 barriles.
-
-Finalmente, el domingo 8 de septiembre, se produjo una **falla eléctrica** en el transformador principal del Bloque 12 (Edén Yuturi). Esto provocó el apagado de pozos y una baja en la producción de 5 600 barriles adicionales.
-
-Cierre del Bloque 43 – ITT
---------------------------
-
-A esto hay que sumarle que desde el 28 de agosto de 2024 se inició el **apagado y desmontaje del Bloque** 43 – ITT, en cumplimiento de la consulta popular de 2023. Ese día se apagó un pozo y los restantes 246 se cerrarán en aproximadamente cinco años.
-
-Pero la **producción nacional petrolera,** que incluye la producción Petroecuador y la de las compañías privadas, ha venido cayendo desde enero de este año. Según datos del Banco Central del Ecuador (BCE), en enero de este año el promedio de producción diaria superaba los 490 470 barriles.
-
-Mientras que, en el segundo trimestre de 2024, alcanzó un promedio diario de 471 330 de barriles. Esta producción total diaria presentó una reducción de 15 050 de barriles en relación con lo registrado en el primer trimestre de 2024, lo que refleja una contracción del 3,1%; y, registró una disminución de 1,75 miles de barriles en comparación con el segundo trimestre de 2023, equivalente a una reducción del 0,4%.
-
-La producción petrolera es muy importante para el **Ecuador**. Este sector, junto con la **recaudación de impuestos,** constituye los únicos ingresos que tiene el país. Así se puede cumplir con todas las obligaciones que tiene el Estado, como el pago de salarios, salud, educación y más.
-
-Los incendios avanzan en una veintena de municipios de São Paulo
-================================================================
-
-Las autoridades brasileñas sospechan que la gran mayoría de los incendios son intencionales.
---------------------------------------------------------------------------------------------
-
-![Fotografía de archivo en donde se ve a un bombero mientras trabaja en la extinción de un incendio forestal en Brasil.](https://www.elcomercio.com/wp-content/uploads/2024/09/incendios-brasil.jpg)
-
-Una veintena de municipios del estado de [São Paulo](https://www.elcomercio.com/tendencias/ambiente/sao-paulo-oscuridad-incendio-amazonia.html "https://www.elcomercio.com/tendencias/ambiente/sao-paulo-oscuridad-incendio-amazonia.html"), el más poblado e industrializado de Brasil, combaten incendios forestales en sus territorios, en medio de la peor sequía de las últimas décadas en todo el país.
-
-### Más noticias
-
-* [Quito en llamas y la urgencia de prevenir incendios forestales](https://www.elcomercio.com/opinion/editorial/prevenir-incencidos-quito-apoyo.html "Quito en llamas y la urgencia de prevenir incendios forestales")
-* [Incendios forestales arrasan sin control el sur de California](https://www.elcomercio.com/actualidad/mundo/incendios-forestales-arrasan-control-sur-california.html "Incendios forestales arrasan sin control el sur de California")
-
-La Defensa Civil identificó **23 municipios paulistas** con focos activos de incendio, cuatro más que la noche del jueves.
-
-Las llamas llegaron incluso a **barrios periféricos** de la ciudad de São Paulo, la capital regional, donde los bomberos tuvieron que actuar para apagar un incendio desatado cerca de una gasolinera.
-
-El Gobierno de São Paulo creó un **gabinete de crisis** para hacer frente a la ola de incendios, que comenzó el mes pasado y ha obligado a movilizar a unos 1**5 000 efectivos, entre bomberos, policías, agentes** de la Defensa Civil y voluntarios.
-
-Como medida de prevención, también cerró **81 unidades de conservación** e intensificó la limpieza de los márgenes de las carreteras.
-
-Ayudas económicas para agricultores
------------------------------------
-
-En paralelo, lanzó un paquete de ayudas económicas a los agricultores afectados, pues las llamas han arrasado áreas de cultivo de caña de azúcar y café.
-
-Las autoridades brasileñas sospechan que la gran mayoría de los **incendios son intencionales** y, en este sentido, han detenido hasta el momento a 20 personas acusadas de prender fuego en zonas de vegetación.
-
-En agosto pasado, el estado de São Paulo registró 3.612 focos de incendio, frente a los 352 reportados en el mismo mes de 2023, y en lo que va de septiembre ya se han contabilizado unos 1.500, según datos oficiales.
-
-Río de Janeiro y Minas Gerais, también en la región sureste, también lidian estos días con incendios forestales difíciles de combatir por la baja humedad y las altas temperaturas.
-
-Aunque la sequía, la peor desde 1950, está castigando con especial virulencia la Amazonía y el Pantanal.
-
-En el mayo**r bosque tropical del planeta**, la crisis hídrica dejó a varios ríos en sus niveles más bajos de la historia y ha aislado a decenas de **comunidades rurales,** dificultando la llegada de alimentos y medicamentos, además de favorecer la **propagación de incendios.**
-
-El Pantanal, el vasto humedal que Brasil comparte con **Bolivia y Paraguay** y que depende directamente de la humedad que llega de la Amazonía. También vive una ola de incendios que amenazan los santuarios ecológicos que alberga la región.
