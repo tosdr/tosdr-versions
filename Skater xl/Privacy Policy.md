@@ -168,11 +168,11 @@ Experience unparalleled board control and responsiveness while you skate iconic 
 
 Recent Reviews:
 
-Very Positive (37) \- 89% of the 37 user reviews in the last 30 days are positive.
+Very Positive (46) \- 89% of the 46 user reviews in the last 30 days are positive.
 
 All Reviews:
 
-Very Positive (18,087) \- 86% of the 18,087 user reviews for this game are positive.    
+Very Positive (18,098) \- 86% of the 18,098 user reviews for this game are positive.    
 
 Release Date:
 
@@ -198,11 +198,11 @@ Reviews
 
 All Reviews:
 
-Very Positive (86% of 18,087) All Time
+Very Positive (86% of 18,098) All Time
 
 Recent Reviews:
 
-Very Positive (89% of 37) Recent
+Very Positive (89% of 46) Recent
 
 ![](https://store.akamai.steamstatic.com/public/images/game/game_highlight_image_spacer.gif)
 
@@ -353,13 +353,7 @@ Awards
 Buy Skater XL
 =============
 
-SPECIAL PROMOTION! Offer ends September 16
-
-\-25%
-
 $39.99
-
-$29.99
 
 [Add to Cart](javascript:addToCart(314961);)
 
@@ -447,7 +441,7 @@ System Requirements
 What Curators Say
 -----------------
 
-99 Curators have reviewed this product. Click [here](https://store.steampowered.com/curators/curatorsreviewing/?appid=962730&snr=1_5_9__top-curators) to see them.
+103 Curators have reviewed this product. Click [here](https://store.steampowered.com/curators/curatorsreviewing/?appid=962730&snr=1_5_9__top-curators) to see them.
 
 Customer reviews for Skater XL - The Ultimate Skateboarding Game
 ----------------------------------------------------------------
@@ -456,28 +450,28 @@ Customer reviews for Skater XL - The Ultimate Skateboarding Game
 
 Overall Reviews:
 
-Very Positive (18,087 reviews) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark.png)
+Very Positive (18,098 reviews) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark.png)
 
 Recent Reviews:
 
-Very Positive (37 reviews) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark.png)
+Very Positive (46 reviews) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark.png)
 
 Review Type
 
- All (19,217)  
- Positive (16,536)  
- Negative (2,681)
+ All (19,229)  
+ Positive (16,547)  
+ Negative (2,682)
 
 Purchase Type
 
- All (19,217)  
- Steam Purchasers (18,087) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
- Other (1,130) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png) 
+ All (19,229)  
+ Steam Purchasers (18,098) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
+ Other (1,131) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png) 
 
 Language
 
- All Languages (19,217)  
- Your Languages (13,292) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
+ All Languages (19,229)  
+ Your Languages (13,296) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
 
 [Customize](https://store.steampowered.com//account/languagepreferences)
 
