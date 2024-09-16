@@ -11,11 +11,14 @@ On Demand Webinar: Getting IoT Security Right [Watch it now](https://info.aeris.
 * [News & Press](https://www.aeris.com/news-press/ "News & Press")
 * [Resources](https://www.aeris.com/resource-library/ "Resources")
 * [Support](https://www.aeris.com/services-and-support/ "Support")
+* [Partners](https://www.aeris.com/partners/ "Partners")
 *  [Log In](https://aerport.aeris.com/ "Log In")
 
 Search
 
-[![Aeris](https://www.aeris.com/wp-content/uploads/2022/01/aeris-logo.svg)](https://www.aeris.com/)
+[![Aeris](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%2050'%3E%3C/svg%3E)
+
+![Aeris](https://www.aeris.com/wp-content/uploads/2022/01/aeris-logo.svg)](https://www.aeris.com/)
 
 * [Secure IoT Platforms](https://www.aeris.com/iot/)
     * * * [Secure IoT Platforms](https://www.aeris.com/iot/)
@@ -160,7 +163,7 @@ Sign up to receive weekly roundups of the latest news and trends with IoT Connec
 
 Email Address(Required)
 
-Comments
+Name
 
 This field is for validation purposes and should be left unchanged.
 
