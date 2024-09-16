@@ -1,4 +1,4 @@
-[![](/images/logo.svg?v=f5b911)](https://namegenerator.com/)
+[![](/images/logo.svg?v=b3735e)](https://namegenerator.com/)
 
 Saved
 
@@ -12,29 +12,29 @@ Menu
 
 41 tools](https://namegenerator.com/fiction)[Business Branding
 
-8 tools](https://namegenerator.com/business)[Media Names & Titles
+8 tools](https://namegenerator.com/business)[Place Names
 
-4 tools](https://namegenerator.com/media)[Place Names
+9 tools](https://namegenerator.com/place)[Media Names & Titles
 
-9 tools](https://namegenerator.com/place)[Animal Names
+4 tools](https://namegenerator.com/media)[Animal Names
 
 11 tools](https://namegenerator.com/animal)
 
 Popular tools
 
-[Ship Names](https://namegenerator.com/people/ship)[Full Names](https://namegenerator.com/people/full)[First Names](https://namegenerator.com/people/first)[Usernames
+[Full Names](https://namegenerator.com/people/full)[Ship Names](https://namegenerator.com/people/ship)[First Names](https://namegenerator.com/people/first)[City Names
 
-AI](https://namegenerator.com/people/username)[City Names
+AI](https://namegenerator.com/place/city)[Usernames
 
-AI](https://namegenerator.com/place/city)[Last Names](https://namegenerator.com/people/last)[Clan Names
+AI](https://namegenerator.com/people/username)[Last Names](https://namegenerator.com/people/last)[Brand Names
 
-AI](https://namegenerator.com/people/clan)[Brand Names
+AI](https://namegenerator.com/business/brand)[Clan Names
 
-AI](https://namegenerator.com/business/brand)[God Names
+AI](https://namegenerator.com/people/clan)[God Names
 
-AI](https://namegenerator.com/fiction/god)[Generative Names](https://namegenerator.com/people/generative)[Demon Names
+AI](https://namegenerator.com/fiction/god)[Demon Names
 
-AI](https://namegenerator.com/fiction/demon)[Baby Names](https://namegenerator.com/people/baby)
+AI](https://namegenerator.com/fiction/demon)[Generative Names](https://namegenerator.com/people/generative)[Baby Names](https://namegenerator.com/people/baby)
 
 Terms and Privacy Policy
 ========================
