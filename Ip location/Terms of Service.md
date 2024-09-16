@@ -156,7 +156,7 @@ This agreement shall be governed by and interpreted and enforced in accordance w
 
 ### Blog Categories
 
-* [Artificial Intelligence (79)](https://www.iplocation.net/blog/category/artificial-intelligence)
+* [Artificial Intelligence (80)](https://www.iplocation.net/blog/category/artificial-intelligence)
 * [Automotive (19)](https://www.iplocation.net/blog/category/automotive)
 * [Business (154)](https://www.iplocation.net/blog/category/business)
 * [Ecommerce (65)](https://www.iplocation.net/blog/category/ecommerce)
@@ -172,7 +172,7 @@ This agreement shall be governed by and interpreted and enforced in accordance w
 * [Data & Database (17)](https://www.iplocation.net/blog/category/data)
 * [Digital Marketing (104)](https://www.iplocation.net/blog/category/digital-marketing)
 * [Education (34)](https://www.iplocation.net/blog/category/education)
-* [Email (56)](https://www.iplocation.net/blog/category/email)
+* [Email (57)](https://www.iplocation.net/blog/category/email)
 * [Entertainment (9)](https://www.iplocation.net/blog/category/entertainment)
 * [Fashion (2)](https://www.iplocation.net/blog/category/fashion)
 * [Finance (58)](https://www.iplocation.net/blog/category/finance)
