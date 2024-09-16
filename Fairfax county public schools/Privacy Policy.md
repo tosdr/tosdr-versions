@@ -300,11 +300,11 @@ View the signed MOU](https://www.fcps.edu/about-fcps/safety-security/school-reso
 
 ### Digital Privacy in FCPS
 
-Fairfax County Public Schools is committed to providing access to digital resources in a manner that respects and protects student privacy while maximizing learning opportunities for our students.](https://www.fcps.edu/family-resources/technology/digital-citizenship-internet-safety/digital-privacy-fcps)  [![Picture of raised hands, representing opting into external research study.](/sites/default/files/styles/card_1x/public/media/hero/071004-1040_3%5B1%5D.jpg?h=50844e28&itok=RaI0UGcL)
+Fairfax County Public Schools is committed to providing access to digital resources in a manner that respects and protects student privacy while maximizing learning opportunities for our students.](https://www.fcps.edu/family-resources/technology/digital-citizenship-internet-safety/digital-privacy-fcps)  [![American Flag](/sites/default/files/styles/card_1x/public/media/hero/021611-1110_86.jpg?h=371fb43d&itok=Fu2vyAIA)
 
-### Research Application Questions
+### 2019 General Assembly Passed Bill Report
 
-Answers to your questions regarding the research application process.](https://www.fcps.edu/about-fcps/leadership/policies-regulations-notices/external-research-approval-process/application)
+2019 General Assembly Passed Bill Report](https://www.fcps.edu/node/38076)
 
 Footer
 ------
