@@ -90,16 +90,16 @@ Follow Us
 Trending Posts
 --------------
 
-* [Is anyone in power responsible for anything?](https://therealnews.com/is-anyone-in-power-responsible-for-anything)
-* [Canada is ending Jewish National Fund’s charitable status](https://therealnews.com/canada-is-ending-jewish-national-funds-charitable-status)
-* ['Big L for Macron': The Paris Olympics were a political catastrophe](https://therealnews.com/big-l-for-macron-the-paris-olympics-were-a-political-catastrophe)
-* [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
-* [Panama. US Invasion. | Under the Shadow, Episode 13](https://therealnews.com/panama-us-invasion-under-the-shadow-episode-13)
-* [First a violent arrest, then threats of the psych ward: A Utah woman's police horror story](https://therealnews.com/first-a-violent-arrest-then-threats-of-the-psych-ward-a-utah-womans-police-horror-story)
-* [As Democrats fold to GOP on border policy, immigrants pay the price](https://therealnews.com/as-democrats-fold-to-the-gop-immigrants-pay-the-price)
-* [Invest in housing, not prisons: California's war on the homeless](https://therealnews.com/invest-in-housing-not-prisons-californias-war-on-the-homeless)
+* [The Harris-Trump debate was a slap in the face to us all](https://therealnews.com/the-harris-trump-debate-was-a-slap-in-the-face-to-us-all)
 * [Black, conservative, and unapologetic: A deep dive with the Black women fighting to get Trump reelected](https://therealnews.com/black-conservative-and-unapologetic-a-deep-dive-with-the-black-women-fighting-to-get-trump-reelected)
-* ['A great day': workers at second southern auto industry plant join UAW](https://therealnews.com/a-great-day-workers-at-second-southern-auto-industry-plant-join-uaw)
+* [Defending Trump may seem absurd—I spoke to a Black woman who does it every day](https://therealnews.com/defending-trump-may-seem-absurd-i-spoke-to-a-black-woman-who-does-it-every-day)
+* [Harris clobbered Trump in the debate—but does it matter?](https://therealnews.com/harris-clobbered-trump-in-the-debate-but-does-it-matter)
+* [Truth and reckoning](https://therealnews.com/truth-and-reckoning)
+* [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
+* [Rooted as the olive trees: Palestinian farmers' fight against land theft in the West Bank](https://therealnews.com/rooted-as-the-olive-trees-palestinian-farmers-fight-against-land-theft-in-the-west-bank)
+* [Unmarked Sacramento gang unit cops stop, arrest father and child at gunpoint](https://therealnews.com/unmarked-sacramento-gang-unit-cops-stop-arrest-father-and-child-at-gunpoint)
+* [Is anyone in power responsible for anything?](https://therealnews.com/is-anyone-in-power-responsible-for-anything)
+* [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
 
 Close
 
@@ -154,16 +154,16 @@ Follow Us
 Trending Posts
 --------------
 
-* [Is anyone in power responsible for anything?](https://therealnews.com/is-anyone-in-power-responsible-for-anything)
-* [Canada is ending Jewish National Fund’s charitable status](https://therealnews.com/canada-is-ending-jewish-national-funds-charitable-status)
-* ['Big L for Macron': The Paris Olympics were a political catastrophe](https://therealnews.com/big-l-for-macron-the-paris-olympics-were-a-political-catastrophe)
-* [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
-* [Panama. US Invasion. | Under the Shadow, Episode 13](https://therealnews.com/panama-us-invasion-under-the-shadow-episode-13)
-* [First a violent arrest, then threats of the psych ward: A Utah woman's police horror story](https://therealnews.com/first-a-violent-arrest-then-threats-of-the-psych-ward-a-utah-womans-police-horror-story)
-* [As Democrats fold to GOP on border policy, immigrants pay the price](https://therealnews.com/as-democrats-fold-to-the-gop-immigrants-pay-the-price)
-* [Invest in housing, not prisons: California's war on the homeless](https://therealnews.com/invest-in-housing-not-prisons-californias-war-on-the-homeless)
+* [The Harris-Trump debate was a slap in the face to us all](https://therealnews.com/the-harris-trump-debate-was-a-slap-in-the-face-to-us-all)
 * [Black, conservative, and unapologetic: A deep dive with the Black women fighting to get Trump reelected](https://therealnews.com/black-conservative-and-unapologetic-a-deep-dive-with-the-black-women-fighting-to-get-trump-reelected)
-* ['A great day': workers at second southern auto industry plant join UAW](https://therealnews.com/a-great-day-workers-at-second-southern-auto-industry-plant-join-uaw)
+* [Defending Trump may seem absurd—I spoke to a Black woman who does it every day](https://therealnews.com/defending-trump-may-seem-absurd-i-spoke-to-a-black-woman-who-does-it-every-day)
+* [Harris clobbered Trump in the debate—but does it matter?](https://therealnews.com/harris-clobbered-trump-in-the-debate-but-does-it-matter)
+* [Truth and reckoning](https://therealnews.com/truth-and-reckoning)
+* [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
+* [Rooted as the olive trees: Palestinian farmers' fight against land theft in the West Bank](https://therealnews.com/rooted-as-the-olive-trees-palestinian-farmers-fight-against-land-theft-in-the-west-bank)
+* [Unmarked Sacramento gang unit cops stop, arrest father and child at gunpoint](https://therealnews.com/unmarked-sacramento-gang-unit-cops-stop-arrest-father-and-child-at-gunpoint)
+* [Is anyone in power responsible for anything?](https://therealnews.com/is-anyone-in-power-responsible-for-anything)
+* [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
 
 [Skip to content](#main)
 
@@ -215,7 +215,7 @@ Terms of use and privacy policy
 * [Click to share on Reddit (Opens in new window)](https://therealnews.com/termsandconditions?share=reddit "Click to share on Reddit")
 * [Click to email a link to a friend (Opens in new window)](mailto:?subject=%5BShared%20Post%5D%20Terms%20of%20use%20and%20privacy%20policy&body=https%3A%2F%2Ftherealnews.com%2Ftermsandconditions&share=email "Click to email a link to a friend")
 
-> Reporting from the frontlines is the **heart of our mission**. As a TRNN viewer, you know the difference our coverage makes. Will you **[contribute today to help us continue providing in-depth, on-the-ground reporting](https://support.therealnews.com/-/XQCPXMQT)**?
+> Reporting from the front lines is at the **heart of our mission**. As a TRNN viewer, you know the difference our coverage makes. Will you **[contribute today to help us continue providing in-depth, on-the-ground reporting](https://support.therealnews.com/-/XQCPXMQT)**?
 > 
 > [**YES! SIGN ME UP**](https://support.therealnews.com/-/XUCQHDZJ)
 
@@ -353,16 +353,16 @@ Tagged: [video](https://therealnews.com/tag/video)
 Trending Posts
 --------------
 
-* [Is anyone in power responsible for anything?](https://therealnews.com/is-anyone-in-power-responsible-for-anything)
-* [Canada is ending Jewish National Fund’s charitable status](https://therealnews.com/canada-is-ending-jewish-national-funds-charitable-status)
-* ['Big L for Macron': The Paris Olympics were a political catastrophe](https://therealnews.com/big-l-for-macron-the-paris-olympics-were-a-political-catastrophe)
-* [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
-* [Panama. US Invasion. | Under the Shadow, Episode 13](https://therealnews.com/panama-us-invasion-under-the-shadow-episode-13)
-* [First a violent arrest, then threats of the psych ward: A Utah woman's police horror story](https://therealnews.com/first-a-violent-arrest-then-threats-of-the-psych-ward-a-utah-womans-police-horror-story)
-* [As Democrats fold to GOP on border policy, immigrants pay the price](https://therealnews.com/as-democrats-fold-to-the-gop-immigrants-pay-the-price)
-* [Invest in housing, not prisons: California's war on the homeless](https://therealnews.com/invest-in-housing-not-prisons-californias-war-on-the-homeless)
+* [The Harris-Trump debate was a slap in the face to us all](https://therealnews.com/the-harris-trump-debate-was-a-slap-in-the-face-to-us-all)
 * [Black, conservative, and unapologetic: A deep dive with the Black women fighting to get Trump reelected](https://therealnews.com/black-conservative-and-unapologetic-a-deep-dive-with-the-black-women-fighting-to-get-trump-reelected)
-* ['A great day': workers at second southern auto industry plant join UAW](https://therealnews.com/a-great-day-workers-at-second-southern-auto-industry-plant-join-uaw)
+* [Defending Trump may seem absurd—I spoke to a Black woman who does it every day](https://therealnews.com/defending-trump-may-seem-absurd-i-spoke-to-a-black-woman-who-does-it-every-day)
+* [Harris clobbered Trump in the debate—but does it matter?](https://therealnews.com/harris-clobbered-trump-in-the-debate-but-does-it-matter)
+* [Truth and reckoning](https://therealnews.com/truth-and-reckoning)
+* [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
+* [Rooted as the olive trees: Palestinian farmers' fight against land theft in the West Bank](https://therealnews.com/rooted-as-the-olive-trees-palestinian-farmers-fight-against-land-theft-in-the-west-bank)
+* [Unmarked Sacramento gang unit cops stop, arrest father and child at gunpoint](https://therealnews.com/unmarked-sacramento-gang-unit-cops-stop-arrest-father-and-child-at-gunpoint)
+* [Is anyone in power responsible for anything?](https://therealnews.com/is-anyone-in-power-responsible-for-anything)
+* [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
 
 [![The Real News Network](https://i0.wp.com/therealnews.com/wp-content/uploads/2022/08/lockup-duochrome-bright-1.png?fit=3000%2C595&ssl=1)](https://therealnews.com/)
 
