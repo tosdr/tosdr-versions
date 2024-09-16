@@ -1,4 +1,4 @@
-Wir schenken dir 35 % auf jede Aufladung bis zum 15.09.2024!
+Wir schenken dir 25 % auf jede Aufladung bis zum 20.09.2024!
 
 [Anmelden](#)
 
