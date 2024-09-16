@@ -11,7 +11,7 @@ top of page
 [SIGN UP NOW](https://www.indie.io/signup)
 
 Indie.io - Terms of Service  
-Last modified September 3, 2024
+Last modified September 10, 2024
 
 ​  
  
@@ -163,7 +163,7 @@ If any provision of this Agreement is held to be invalid or unenforceable for an
 
 Contacting us  
   
-We tried our best not to sound legalese, but if you have questions about the Terms, please contact us at [https://support.freedom.gg/hc/en-us/requests/new.](https://support.freedom.gg/hc/en-us/requests/new.) All communications shall be treated as confidential and will be addressed promptly.
+We tried our best not to sound legalese, but if you have questions about the Terms, please contact us at [https://support.indie.io/hc/en-us/requests/new?ticket\_form\_id=15482174733709](https://support.indie.io/hc/en-us/requests/new?ticket_form_id=15482174733709).
 
 Updates and Revisions  
   
