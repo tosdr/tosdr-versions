@@ -39,9 +39,9 @@ editorial \_
 
 coverstory \_
 
-[![Formula 1: Winners and Losers From the 2024 Azerbaijan Grand Prix](https://s1.cdn.autoevolution.com/images/news/formula-1-winners-and-losers-from-the-2024-azerbaijan-grand-prix-239830-5.jpeg "Formula 1: Winners and Losers From the 2024 Azerbaijan Grand Prix")
+[![How This Google Maps Rival Helps Users Avoid Traffic Jams](https://s1.cdn.autoevolution.com/images/news/how-this-google-maps-rival-helps-users-avoid-traffic-jams-239858-5.jpg "How This Google Maps Rival Helps Users Avoid Traffic Jams")
 
-Formula 1: Winners and Losers From the 2024 Azerbaijan Grand Prix](https://www.autoevolution.com/news/formula-1-winners-and-losers-from-the-2024-azerbaijan-grand-prix-239830.html)
+How This Google Maps Rival Helps Users Avoid Traffic Jams](https://www.autoevolution.com/news/how-this-google-maps-rival-helps-users-avoid-traffic-jams-239858.html)
 
 how-to \_
 
