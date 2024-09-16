@@ -1,12 +1,12 @@
-     
+      
 
 [![Yodo1 Logo - Simplifying Mobile Game Growth](https://www.yodo1.com/wp-content/uploads/2022/11/Yodo1_logo_web.png "Yodo1 Logo - Simplifying Mobile Game Growth | Yodo1")](https://www.yodo1.com/)
 
-* [Licensing](https://www.yodo1.com/?page_id=28250)
+* [Licensing](https://www.yodo1.com/ip-licensing/)
 * [Game Growth](#)
     * [Monetization](https://www.yodo1.com/mobile-game-monetization/)
     * [Growth Program](https://www.yodo1.com/mobile-game-growth/)
-    * [Publishing](https://www.yodo1.com/?page_id=15250)
+    * [Publishing](https://www.yodo1.com/mobile-game-publishers/)
     * [FanCraft](https://fancraft.yodo1.com/)
 * [Life at Yodo1](#)
     * [About Us](https://www.yodo1.com/about-us/)
@@ -17,11 +17,11 @@
 
 Menu
 
-* [Licensing](https://www.yodo1.com/?page_id=28250)
+* [Licensing](https://www.yodo1.com/ip-licensing/)
 * [Game Growth](#)
     * [Monetization](https://www.yodo1.com/mobile-game-monetization/)
     * [Growth Program](https://www.yodo1.com/mobile-game-growth/)
-    * [Publishing](https://www.yodo1.com/?page_id=15250)
+    * [Publishing](https://www.yodo1.com/mobile-game-publishers/)
     * [FanCraft](https://fancraft.yodo1.com/)
 * [Life at Yodo1](#)
     * [About Us](https://www.yodo1.com/about-us/)
@@ -40,11 +40,11 @@ Menu
 
 [LOG IN](https://mas.yodo1.com/)
 
-* [Licensing](https://www.yodo1.com/?page_id=28250)
+* [Licensing](https://www.yodo1.com/ip-licensing/)
 * [Game Growth](#)
     * [Monetization](https://www.yodo1.com/mobile-game-monetization/)
     * [Growth Program](https://www.yodo1.com/mobile-game-growth/)
-    * [Publishing](https://www.yodo1.com/?page_id=15250)
+    * [Publishing](https://www.yodo1.com/mobile-game-publishers/)
     * [FanCraft](https://fancraft.yodo1.com/)
 * [Life at Yodo1](#)
     * [About Us](https://www.yodo1.com/about-us/)
@@ -55,11 +55,11 @@ Menu
 
 Menu
 
-* [Licensing](https://www.yodo1.com/?page_id=28250)
+* [Licensing](https://www.yodo1.com/ip-licensing/)
 * [Game Growth](#)
     * [Monetization](https://www.yodo1.com/mobile-game-monetization/)
     * [Growth Program](https://www.yodo1.com/mobile-game-growth/)
-    * [Publishing](https://www.yodo1.com/?page_id=15250)
+    * [Publishing](https://www.yodo1.com/mobile-game-publishers/)
     * [FanCraft](https://fancraft.yodo1.com/)
 * [Life at Yodo1](#)
     * [About Us](https://www.yodo1.com/about-us/)
@@ -242,14 +242,14 @@ Simplifying mobile game growth.
 [LinkedIn](https://www.linkedin.com/company/yodo1/) [Instagram](https://www.instagram.com/yodo1games/) [Facebook Icon](https://www.facebook.com/Yodo1Games/) [Twitter](https://twitter.com/yodo1games)
 
 * [Monetization](https://www.yodo1.com/mobile-game-monetization/)
-* [Licensing](https://www.yodo1.com/?page_id=28250)
+* [Licensing](https://www.yodo1.com/ip-licensing/)
 * [Growth Program](https://www.yodo1.com/mobile-game-growth/)
-* [Publishing](https://www.yodo1.com/?page_id=15250)
+* [Publishing](https://www.yodo1.com/mobile-game-publishers/)
 
 * [Monetization](https://www.yodo1.com/mobile-game-monetization/)
-* [Licensing](https://www.yodo1.com/?page_id=28250)
+* [Licensing](https://www.yodo1.com/ip-licensing/)
 * [Growth Program](https://www.yodo1.com/mobile-game-growth/)
-* [Publishing](https://www.yodo1.com/?page_id=15250)
+* [Publishing](https://www.yodo1.com/mobile-game-publishers/)
 
 * [About Us](https://www.yodo1.com/about-us/)
 * [Careers](https://www.yodo1.com/careers/)
