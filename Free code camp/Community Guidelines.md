@@ -9,10 +9,6 @@ October 14, 2019 / [#freeCodeCamp.org](https://www.freecodecamp.org/news/tag/fre
 The freeCodeCamp Code of Conduct
 ================================
 
-![freeCodeCamp](https://cdn.hashnode.com/res/hashnode/image/upload/v1712072540742/C7c8AOPN6.png)
-
-[freeCodeCamp](https://www.freecodecamp.org/news/author/freeCodeCamp/)
-
   ![The freeCodeCamp Code of Conduct](https://cdn-media-2.freecodecamp.org/w1280/5f9c9ff6740569d1a4ca45c8.jpg)
 
 freeCodeCamp is a friendly place to learn to code. We’re committed to keeping it that way.
@@ -32,14 +28,6 @@ Also, no bots are allowed in the freeCodeCamp community without prior written pe
 ADVERTISEMENT
 
 ADVERTISEMENT
-
-* * *
-
-![freeCodeCamp](https://cdn.hashnode.com/res/hashnode/image/upload/v1712072540742/C7c8AOPN6.png)
-
-[freeCodeCamp](https://www.freecodecamp.org/news/author/freeCodeCamp/)
-
-Learn to code. Build projects. Earn certifications—All for free.
 
 * * *
 
