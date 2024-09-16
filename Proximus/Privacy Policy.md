@@ -65,18 +65,20 @@ Vous n’avez plus d’internet ? Le wi-fi est très lent ? Vous avez des probl�
 
 Top smartphones
 
-[Samsung](https://www.proximus.be/fr/id_cr_samsung-galaxy-s24-128gb-violet/personal/equipment/shop/samsung-galaxy-s24-128gb-violet.html?ot=JO)
+[Apple](https://www.proximus.be/fr/id_cr_apple-iphone-16-128gb-black/particuliers/equipement/boutique/apple-iphone-16-128gb-black.html?rid=tb_p_jo_iPhone16_preorder&ot=JO)
 
-### [Galaxy S24](https://www.proximus.be/fr/id_cr_samsung-galaxy-s24-128gb-violet/personal/equipment/shop/samsung-galaxy-s24-128gb-violet.html?ot=JO)
+### [iPhone 16](https://www.proximus.be/fr/id_cr_apple-iphone-16-128gb-black/particuliers/equipement/boutique/apple-iphone-16-128gb-black.html?rid=tb_p_jo_iPhone16_preorder&ot=JO)
 
-[](https://www.proximus.be/fr/id_cr_samsung-galaxy-s24-128gb-violet/personal/equipment/shop/samsung-galaxy-s24-128gb-violet.html?ot=JO)
+[](https://www.proximus.be/fr/id_cr_apple-iphone-16-128gb-black/particuliers/equipement/boutique/apple-iphone-16-128gb-black.html?rid=tb_p_jo_iPhone16_preorder&ot=JO)
 
-[128 GB](https://www.proximus.be/fr/id_cr_samsung-galaxy-s24-128gb-violet/personal/equipment/shop/samsung-galaxy-s24-128gb-violet.html?ot=JO)
+[128 GB](https://www.proximus.be/fr/id_cr_apple-iphone-16-128gb-black/particuliers/equipement/boutique/apple-iphone-16-128gb-black.html?rid=tb_p_jo_iPhone16_preorder&ot=JO)
 
-[~instead of €899.99~  
-€ 9 avec abonnement](https://www.proximus.be/fr/id_cr_samsung-galaxy-s24-128gb-violet/personal/equipment/shop/samsung-galaxy-s24-128gb-violet.html?ot=JO)
+[~au lieu de €969.99~  
+€ 49](https://www.proximus.be/fr/id_cr_apple-iphone-16-128gb-black/particuliers/equipement/boutique/apple-iphone-16-128gb-black.html?rid=tb_p_jo_iPhone16_preorder&ot=JO) avec abonnement
 
-[Voir tous les smartphones](https://www.proximus.be/fr/id_cr_device_finder/particuliers/equipement/boutique.html#/?offerType=jointoffer)
+* [Apple iPhone 16](https://www.proximus.be/fr/id_cr_apple-iphone-16-128gb-black/particuliers/equipement/boutique/apple-iphone-16-128gb-black.html?rid=tb_p_jo_iPhone16_preorder&ot=JO)
+
+[View all smartphones](https://www.proximus.be/fr/id_cr_device_finder/particuliers/equipement/boutique.html#/?offerType=jointoffer)
 
 Informations légales et contractuelles
 ======================================
@@ -567,7 +569,7 @@ Les prix des produits et services Proximus peuvent être consultés sur les page
 
 [Tarifs des communications](#)
 
-* [_​_Autres réseaux fixes nationaux(PDF, 99Kb)](https://www.proximus.be/dam/jcr:f9bba4cc-816d-45c1-b835-6caf3de02e39/cdn/sites/iportal/documents/pdfs/res/other_fixed_networks_fr~2022-03-21-13-22-43~cache.pdf)
+* [_​_Autres réseaux fixes nationaux(PDF, 99Kb)](https://www.proximus.be/dam/jcr:f9bba4cc-816d-45c1-b835-6caf3de02e39/cdn/sites/iportal/documents/pdfs/res/other_fixed_networks_fr~2022-03-21-13-22-44~cache.pdf)
 * [_​_Appels & SMS surtaxés(PDF, 60Kb)](https://www.proximus.be/dam/jcr:bb48b14f-c918-4f6a-afd6-e0002b653f34/cdn/sites/iportal/documents/pdfs/common/num-ros-payants-et-sms-payants~2023-07-27-08-03-45~cache.pdf)
 
 #### A. Privé
