@@ -249,6 +249,7 @@ Copyright © 2024 Ubiquiti Inc. All rights reserved.
 * [Careers](https://careers.ui.com/ "Careers")
 * [Contact Us](https://www.ui.com/contact/ "Contact Us")
 * [Investors](http://ir.ui.com/ "Investors")
+* [Compliance](https://www.ui.com/compliance/ "Compliance")
 
 #### Training
 
