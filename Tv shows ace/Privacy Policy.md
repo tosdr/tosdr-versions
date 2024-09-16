@@ -49,7 +49,7 @@ Pick a Show Select Category 1000-Lb. Best Friends 1000-Lb. Sisters 7 Little John
 
 ![Cartoon of a little red television with playing cards in it - all aces](https://tvshowsace.com/wp-content/uploads/2023/05/tvsmol-150x150.png)](https://tvshowsace.com/)
 
-[Facebook Facebook](https://www.facebook.com/TVShowsAce/)[Twitter Twitter](https://twitter.com/tvshowsace)[Instagram Instagram](https://www.instagram.com/tvshowsace)
+[Facebook Facebook](https://www.facebook.com/TVShowsAce/)[Twitter Twitter](https://twitter.com/tvshowsace)[Instagram Instagram](https://www.instagram.com/tvshowsace)[TikTok TikTok](https://www.tiktok.com/@tvshowsace92)
 
 ©2024 TV Shows Ace All rights reserved.
 
