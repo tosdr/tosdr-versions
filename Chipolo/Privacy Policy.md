@@ -1,6 +1,6 @@
-Point finders for Google's Find My Device app Order now
+Celebrating Friendship month - Friendship Point BUNDLE 15% OFF Buy now
 
-Celebrating Friendship month - Friendship Point BUNDLE 15% OFF Order now
+Point finders for Google's Find My Device app Order now
 
 Chipolo Fruit LIMITED edition - 4x Chipolo ONE key finder More
 
