@@ -92,17 +92,17 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
-[Community
+[Equality
 
-### Jewish extremists harm Israel, official warns. Are Israelis listening?](https://www.csmonitor.com/World/Middle-East/2024/0910/israeli-settlers-jewish-terror-warnings-ignored "Jewish extremists harm Israel, official warns. Are Israelis listening?")
+### The new kids in the huddle](https://www.csmonitor.com/Commentary/the-monitors-view/2024/0913/The-new-kids-in-the-huddle "The new kids in the huddle")
 
-[Respect
+[Safety
 
-### Where civil debates yield civic results](https://www.csmonitor.com/Commentary/the-monitors-view/2024/0910/Where-civil-debates-yield-civic-results "Where civil debates yield civic results")
+### ‘I have nowhere to go’: With Russia at their door, Ukrainians flee Pokrovsk](https://www.csmonitor.com/World/Europe/2024/0913/ukraine-war-pokrovsk-russia-evacuation-putin "‘I have nowhere to go’: With Russia at their door, Ukrainians flee Pokrovsk")
 
-[Joy
+[Justice
 
-### As summer wanes, I'm chasing flickers of nostalgia by the campfire](https://www.csmonitor.com/The-Culture/The-Home-Forum/2024/0910/summer-camping-hiking-fire-campfire-s-mores-stars-RV "As summer wanes, I'm chasing flickers of nostalgia by the campfire")
+### In a gun-friendly state, parental liability looms following school shooting](https://www.csmonitor.com/USA/Military/2024/0912/georgia-school-shooting-parental-liability "In a gun-friendly state, parental liability looms following school shooting")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -140,11 +140,11 @@ More
 
 Monitor Daily
 
-September 10, 2024
+September 13, 2024
 
-Finding recruits
+A different lens on today’s problems
 
-The U.S. armed forces struggle periodically to fill their ranks. But the details in Anna Mulrine Grobe’s report today offer arresting detail on just how big the challenge is at the moment. There’s the chief Army recruiter characterizing 2024 as one of the toughest environments he’s seen in 33 years. The three-quarters of 17-to-24-year-olds who can’t meet fitness standards. Americans’ wavering support for the military across the political spectrum.The Fort Jackson Future Soldier Preparatory Course in South Carolina is one effort to get candidates ready for basic training not by lowering standards but by lifting up skills. Everything is up for discussion, from gauging a candidate to transforming the role of drill sergeant. Join Anna as she explores the work that one brigadier general says is sparking cautious optimism for the future.
+Former Monitor Editor Marshall Ingwerson had a radical idea. Inside the newsroom and out, he would often ask: What works? The idea is that looking at successful solutions circumvents so much needless politics and rhetoric. He’s since gone on to found The What Works Initiative. Today, Troy Aidan Sambajon does Marshall proud. Education is full of challenges. But Troy finds that new efforts to make community colleges affordable, even free, are making a difference. It’s a reminder of Marshall’s main point: There is a different way to look at today’s problems. 
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
-[### Jewish extremists harm Israel, official warns. Are Israelis listening?](https://www.csmonitor.com/World/Middle-East/2024/0910/israeli-settlers-jewish-terror-warnings-ignored "Jewish extremists harm Israel, official warns. Are Israelis listening?")
+[### Texas to follow Florida law that has patients report immigration status](https://www.csmonitor.com/USA/2024/0916/florida-texas-illegal-immigration-hospitals "Texas to follow Florida law that has patients report immigration status")
 
-[### Put the screen away, Sweden says. Could new policy spell the end of iPad kids?](https://www.csmonitor.com/World/Europe/2024/0910/Sweden-bans-screen-time-social-media "Put the screen away, Sweden says. Could new policy spell the end of iPad kids?")
+[### Two American friends went to the Congo on vacation. Then they got swept up in a coup.](https://www.csmonitor.com/World/Africa/2024/0916/Americans-Congo-coup-death-penalty "Two American friends went to the Congo on vacation. Then they got swept up in a coup.")
 
-[### Israel strikes Gaza humanitarian area as Palestinians struggle to find true safe zone](https://www.csmonitor.com/World/Middle-East/2024/0910/Israel-strike-gaza-safe-zone "Israel strikes Gaza humanitarian area as Palestinians struggle to find true safe zone")
+[### Illegal immigration spikes fuel European politics. New data tells a different story.](https://www.csmonitor.com/World/Europe/2024/0913/Europe-immigration-numbers-drop-far-right "Illegal immigration spikes fuel European politics. New data tells a different story.")
 
 * * *
 
