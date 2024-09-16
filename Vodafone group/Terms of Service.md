@@ -90,6 +90,8 @@ No thanks, I want to stay on Vodafone.com
         * [M-PESA](https://www.vodafone.com/about-vodafone/what-we-do/m-pesa)
         * [Vodafone TV](https://www.vodafone.com/about-vodafone/what-we-do/vodafone-tv)
         * [Business products and services](https://www.vodafone.com/business/products-and-solutions?utm_medium=website%3Futm_source%3Ddotcom%3Futm_content%3Dnav)
+        * [Consumer products and services](https://www.vodafone.com/about-vodafone/what-we-do/consumer-products-and-services)
+        * [Devices – technical documentation](https://www.vodafone.com/about-vodafone/what-we-do/devices-technical-documentation)
         
     * [Where we operate](https://www.vodafone.com/about-vodafone/where-we-operate)
         
@@ -124,10 +126,6 @@ No thanks, I want to stay on Vodafone.com
             * [Vodafone Business](https://www.vodafone.com/about-vodafone/how-we-operate/our-strategy/vodafone-business)
             
         * [Public Policy](https://www.vodafone.com/about-vodafone/how-we-operate/public-policy)
-            
-            * [Go to **Public Policy**](https://www.vodafone.com/about-vodafone/how-we-operate/public-policy)
-            * [Shaping the future of connectivity](https://www.vodafone.com/about-vodafone/how-we-operate/public-policy/future-of-connectivity)
-            
         * [Suppliers](https://www.vodafone.com/about-vodafone/how-we-operate/suppliers)
             
             * [Go to **Suppliers**](https://www.vodafone.com/about-vodafone/how-we-operate/suppliers)
