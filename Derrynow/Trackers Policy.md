@@ -259,15 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1605522/in-pictures-derry-city-fans-enjoy-a-memorable-night-at-the-brandywell.html)
-
-Derry City fans at the Brandywell. Pics by George Sweeney, nwpresspics
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[IN PICTURES: Derry City fans enjoy a memorable night at the Brandywell](https://www.derrynow.com/news/derry-sport/1605522/in-pictures-derry-city-fans-enjoy-a-memorable-night-at-the-brandywell.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1605556/in-pictures-derry-city-fans-get-their-hands-on-the-fai-cup-at-sports-direct.html)
 
 Derry City fans with the FAI Cup at Sports Direct on Saturday. Pics by Ben McShane/ Sportsfile
@@ -284,14 +275,14 @@ Derry City fans with the FAI Cup at Sports Direct on Saturday. Pics by Ben McSha
 [Derry Death Notices - Monday, 16th September 2024](https://www.derrynow.com/news/deaths/1604422/derry-death-notices-monday-16th-september-2024.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Steelstown Brian Ogs](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Steelstown Brian Ogs")](https://www.derrynow.com/news/derry-sport/1605525/newbridge-march-on-but-steelstown-hopes-fading.html)
+[![Derry man (30) pleas guilty to 12 charges of possessing indecent images of children](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man (30) pleas guilty to 12 charges of possessing indecent images of children")](https://www.derrynow.com/news/local-news/1606159/derry-man-30-pleas-guilty-to-12-charges-ofpossessing-indecent-images-of-children.html)
 
-Action from Steelstown's defeat to Newbridge. Pic by Colm Heron.
+Derry Court
 
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+[Local News](https://www.derrynow.com/section/975/news)
 
-[Newbridge march on, but Steelstown hopes fading](https://www.derrynow.com/news/derry-sport/1605525/newbridge-march-on-but-steelstown-hopes-fading.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry man (30) pleas guilty to 12 charges of possessing indecent images of children](https://www.derrynow.com/news/local-news/1606159/derry-man-30-pleas-guilty-to-12-charges-ofpossessing-indecent-images-of-children.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Police investigating Ballykelly burglary](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police investigating Ballykelly burglary")](https://www.derrynow.com/news/local-news/1605580/police-investigating-ballykelly-burglary.html)
 
@@ -302,6 +293,29 @@ PSNI
 [Police investigating Ballykelly burglary](https://www.derrynow.com/news/local-news/1605580/police-investigating-ballykelly-burglary.html)
 ------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Suspended sentence for Belfast man who assaulted his son outside Derry PSNI station](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for Belfast man who assaulted his son outside Derry PSNI station")](https://www.derrynow.com/news/local-news/1606103/suspended-sentence-for-belfast-man-who-assaulted-his-son-outside-derry-psni-station.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Suspended sentence for Belfast man who assaulted his son outside Derry PSNI station](https://www.derrynow.com/news/local-news/1606103/suspended-sentence-for-belfast-man-who-assaulted-his-son-outside-derry-psni-station.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Bail refused for Derry man charged with possession of Romanian AKM assault rifle](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Bail refused for Derry man charged with possession of Romanian AKM assault rifle")](https://www.derrynow.com/news/local-news/1606181/bail-refused-for-derry-man-charged-with-possession-of-romanian-akm-assault-rifle.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Bail refused for Derry man charged with possession of Romanian AKM assault rifle](https://www.derrynow.com/news/local-news/1606181/bail-refused-for-derry-man-charged-with-possession-of-romanian-akm-assault-rifle.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Taoiseach to announce €7.6 million initiative to link Wild Atlantic Way to Northern Ireland Causeway Coastal Route](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Taoiseach to announce €7.6 million initiative to link Wild Atlantic Way to Northern Ireland Causeway Coastal Route")](https://www.derrynow.com/news/local-news/1606007/taoiseach-to-announce-7-6-million-initiative-to-link-wild-atlantic-way-to-northern-ireland-causeway-coastal-route.html)
+
+Taoiseach to announce €7.6 million initiative to link Wild Atlantic Way to Northern Ireland Causeway Coastal Route
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Taoiseach to announce €7.6 million initiative to link Wild Atlantic Way to Northern Ireland Causeway Coastal Route](https://www.derrynow.com/news/local-news/1606007/taoiseach-to-announce-7-6-million-initiative-to-link-wild-atlantic-way-to-northern-ireland-causeway-coastal-route.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Taoiseach Simon Harris to visit Derry today](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Taoiseach Simon Harris to visit Derry today")](https://www.derrynow.com/news/local-news/1605562/taoiseach-simon-harris-to-visit-derry-today.html)
 
 Taoiseach Simon Harris will visit Derry today
@@ -310,29 +324,6 @@ Taoiseach Simon Harris will visit Derry today
 
 [Taoiseach Simon Harris to visit Derry today](https://www.derrynow.com/news/local-news/1605562/taoiseach-simon-harris-to-visit-derry-today.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1605487/ruaidhri-higgins-televised-cup-tie-a-reminder-of-the-quality-of-the-league-of-ireland.html)
-
-Michael Duffy celebrates his goal against Shelbourne. Pic by Ben McShane/ Sportsfile
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Ruaidhri Higgins: 'Televised cup tie a reminder of the quality of the League of Ireland'](https://www.derrynow.com/news/derry-sport/1605487/ruaidhri-higgins-televised-cup-tie-a-reminder-of-the-quality-of-the-league-of-ireland.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Irish Government stands by 50m euro commitment to Casement Park – Harris](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Irish Government stands by 50m euro commitment to Casement Park – Harris")](https://www.derrynow.com/news/northern-ireland/1605526/irish-government-stands-by-50m-euro-commitment-to-casement-park-harris.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[Irish Government stands by 50m euro commitment to Casement Park – Harris](https://www.derrynow.com/news/northern-ireland/1605526/irish-government-stands-by-50m-euro-commitment-to-casement-park-harris.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Daughters of judge murdered by IRA 50 years ago still seeking justice](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Daughters of judge murdered by IRA 50 years ago still seeking justice")](https://www.derrynow.com/news/northern-ireland/1605457/daughters-of-judge-murdered-by-ira-50-years-ago-still-seeking-justice.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[Daughters of judge murdered by IRA 50 years ago still seeking justice](https://www.derrynow.com/news/northern-ireland/1605457/daughters-of-judge-murdered-by-ira-50-years-ago-still-seeking-justice.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Public meeting to held in Derry over future of rail in the North West](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Public meeting to held in Derry over future of rail in the North West")](https://www.derrynow.com/news/local-news/1605435/public-meeting-to-held-in-derry-over-future-of-rail-in-the-north-west.html)
 
@@ -343,11 +334,25 @@ The public meeting on the future of rail usage in the north west will be this Sa
 [Public meeting to held in Derry over future of rail in the North West](https://www.derrynow.com/news/local-news/1605435/public-meeting-to-held-in-derry-over-future-of-rail-in-the-north-west.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Harris ‘looking forward’ to first official visit to Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Harris ‘looking forward’ to first official visit to Derry")](https://www.derrynow.com/news/northern-ireland/1605799/harris-looking-forward-to-first-official-visit-to-derry.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Harris ‘looking forward’ to first official visit to Derry](https://www.derrynow.com/news/northern-ireland/1605799/harris-looking-forward-to-first-official-visit-to-derry.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![IN PICTURES: Don Boscos FC pay tribute after youth player Kían Dawson-Kirk's death](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Don Boscos FC pay tribute after youth player Kían Dawson-Kirk's death")](https://www.derrynow.com/story-telling/pictures---videos/1606237/in-pictures-don-boscos-fc-pay-tribute-after-youth-player-kian-dawson-kirk-s-death.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Don Boscos FC pay tribute after youth player Kían Dawson-Kirk's death](https://www.derrynow.com/story-telling/pictures---videos/1606237/in-pictures-don-boscos-fc-pay-tribute-after-youth-player-kian-dawson-kirk-s-death.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1605556/in-pictures-derry-city-fans-get-their-hands-on-the-fai-cup-at-sports-direct.html)
 
@@ -415,13 +420,6 @@ Derry City fans at the Brandywell. Pics by George Sweeney, nwpresspics
 
 [PICTURES: Beep beep! This vintage 1959 Isetta Bubble Car in Derry could be yours for just €13,000](https://www.derrynow.com/news/pictures---videos/1603028/pictures-beep-beep-this-vintage-1959-isetta-bubble-car-in-derry-could-be-yours-for-just-13-000.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Throwback Thursday: Partytime out and about in Derry (2008)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Thursday: Partytime out and about in Derry (2008)")](https://www.derrynow.com/story-telling/pictures---videos/1601270/throwback-thursday-partytime-out-and-about-in-derry-2008.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[Throwback Thursday: Partytime out and about in Derry (2008)](https://www.derrynow.com/story-telling/pictures---videos/1601270/throwback-thursday-partytime-out-and-about-in-derry-2008.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -523,53 +521,51 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![25th anniversary of Loughs Agency celebrated at major international conference in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "25th anniversary of Loughs Agency celebrated at major international conference in Derry")](https://www.derrynow.com/news/local-news/1605946/25th-anniversary-of-loughs-agency-celebrated-at-major-international-conference-in-derry.html)
+[![Northern Lights may be visible on Monday night over the UK – Met Office](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Northern Lights may be visible on Monday night over the UK – Met Office")](https://www.derrynow.com/news/local-news/1606197/northern-lights-may-be-visible-on-monday-night-over-the-uk-met-office.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[25th anniversary of Loughs Agency celebrated at major international conference in Derry](https://www.derrynow.com/news/local-news/1605946/25th-anniversary-of-loughs-agency-celebrated-at-major-international-conference-in-derry.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Northern Lights may be visible on Monday night over the UK – Met Office](https://www.derrynow.com/news/local-news/1606197/northern-lights-may-be-visible-on-monday-night-over-the-uk-met-office.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![d](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "d")](https://www.derrynow.com/news/local-news/1602018/st-columb-s-choirs-bring-music-and-opportunity-to-culture-night-celebrations.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[d](https://www.derrynow.com/news/local-news/1602018/st-columb-s-choirs-bring-music-and-opportunity-to-culture-night-celebrations.html)
----------------------------------------------------------------------------------------------------------------------------------------
-
-[![Public meeting to held in Derry over future of rail in the North West](https://www.derrynow.com/resizer/165/93/true/2024_09_15/IDNM_16-9-24_Derry_train-1726391282140.jpg--.jpg?1726391282159 "Public meeting to held in Derry over future of rail in the North West")](https://www.derrynow.com/news/local-news/1605435/public-meeting-to-held-in-derry-over-future-of-rail-in-the-north-west.html)
-
-The public meeting on the future of rail usage in the north west will be this Saturday.
+[![Bail refused for Derry man charged with possession of Romanian AKM assault rifle](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Bail refused for Derry man charged with possession of Romanian AKM assault rifle")](https://www.derrynow.com/news/local-news/1606181/bail-refused-for-derry-man-charged-with-possession-of-romanian-akm-assault-rifle.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Public meeting to held in Derry over future of rail in the North West](https://www.derrynow.com/news/local-news/1605435/public-meeting-to-held-in-derry-over-future-of-rail-in-the-north-west.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Bail refused for Derry man charged with possession of Romanian AKM assault rifle](https://www.derrynow.com/news/local-news/1606181/bail-refused-for-derry-man-charged-with-possession-of-romanian-akm-assault-rifle.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Monday](https://www.derrynow.com/resizer/165/93/true/2023_09_21/Derry_Deaths_%281%29-1695307127889.jpg--.jpg?1695307127981 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1604422/derry-death-notices-monday-16th-september-2024.html)
+[![Derry man (30) pleas guilty to 12 charges of possessing indecent images of children](https://www.derrynow.com/resizer/165/93/true/2024_04_04/Derry-courthouse.jpg--derry_courthouse-1712223605087.jpg--.jpg?1712223605116 "Derry man (30) pleas guilty to 12 charges of possessing indecent images of children")](https://www.derrynow.com/news/local-news/1606159/derry-man-30-pleas-guilty-to-12-charges-ofpossessing-indecent-images-of-children.html)
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Monday, 16th September 2024](https://www.derrynow.com/news/deaths/1604422/derry-death-notices-monday-16th-september-2024.html)
------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Taoiseach Simon Harris to visit Derry today](https://www.derrynow.com/resizer/165/93/true/2024_02_08/INDD_08-02-24_SImon_Harris_Cropped-1707380418542.jpg--.jpg?1707380418610 "Taoiseach Simon Harris to visit Derry today")](https://www.derrynow.com/news/local-news/1605562/taoiseach-simon-harris-to-visit-derry-today.html)
-
-Taoiseach Simon Harris will visit Derry today
+Derry Court
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Taoiseach Simon Harris to visit Derry today](https://www.derrynow.com/news/local-news/1605562/taoiseach-simon-harris-to-visit-derry-today.html)
-------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry man (30) pleas guilty to 12 charges of possessing indecent images of children](https://www.derrynow.com/news/local-news/1606159/derry-man-30-pleas-guilty-to-12-charges-ofpossessing-indecent-images-of-children.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Police investigating Ballykelly burglary](https://www.derrynow.com/resizer/165/93/true/2024_02_26/75d09668-969e-11ed-a6c5-0210609a3fe2-1685351040715.jpg---1708952493894.jpg--.jpg?1708952493928 "Police investigating Ballykelly burglary")](https://www.derrynow.com/news/local-news/1605580/police-investigating-ballykelly-burglary.html)
+[![Derry Junior Football Championship weekend roundup: Quarter Finals confirmed](https://www.derrynow.com/resizer/165/93/true/2024_07_29/GAA_-_Glack_v_Drum__3-1722266934984.jpg--.jpg?1722266935171 "Derry Junior Football Championship weekend roundup: Quarter Finals confirmed")](https://www.derrynow.com/news/derry-sport/1606123/derry-junior-football-championship-weekend-roundup-quarter-finals-confirmed.html)
 
-PSNI
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Derry Junior Football Championship weekend roundup: Quarter Finals confirmed](https://www.derrynow.com/news/derry-sport/1606123/derry-junior-football-championship-weekend-roundup-quarter-finals-confirmed.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Suspended sentence for Belfast man who assaulted his son outside Derry PSNI station](https://www.derrynow.com/resizer/165/93/true/1580370016067.JPG--.JPG?1580370017604 "Suspended sentence for Belfast man who assaulted his son outside Derry PSNI station")](https://www.derrynow.com/news/local-news/1606103/suspended-sentence-for-belfast-man-who-assaulted-his-son-outside-derry-psni-station.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Police investigating Ballykelly burglary](https://www.derrynow.com/news/local-news/1605580/police-investigating-ballykelly-burglary.html)
-------------------------------------------------------------------------------------------------------------------------------------------
+[Suspended sentence for Belfast man who assaulted his son outside Derry PSNI station](https://www.derrynow.com/news/local-news/1606103/suspended-sentence-for-belfast-man-who-assaulted-his-son-outside-derry-psni-station.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Taoiseach to announce €7.6 million initiative to link Wild Atlantic Way to Northern Ireland Causeway Coastal Route](https://www.derrynow.com/resizer/165/93/true/2024_03_21/simon_harris-1711046324013.jpeg--.jpeg?1711046324102 "Taoiseach to announce €7.6 million initiative to link Wild Atlantic Way to Northern Ireland Causeway Coastal Route")](https://www.derrynow.com/news/local-news/1606007/taoiseach-to-announce-7-6-million-initiative-to-link-wild-atlantic-way-to-northern-ireland-causeway-coastal-route.html)
+
+Taoiseach to announce €7.6 million initiative to link Wild Atlantic Way to Northern Ireland Causeway Coastal Route
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Taoiseach to announce €7.6 million initiative to link Wild Atlantic Way to Northern Ireland Causeway Coastal Route](https://www.derrynow.com/news/local-news/1606007/taoiseach-to-announce-7-6-million-initiative-to-link-wild-atlantic-way-to-northern-ireland-causeway-coastal-route.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
