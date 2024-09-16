@@ -176,13 +176,13 @@ Yandex Terms of Service
 
 English
 
-Eesti keel
+Lietuvių
 
 Latviešu valoda
 
-Lietuvių
-
 English
+
+Eesti keel
 
 Polski
 
@@ -321,13 +321,13 @@ Yandex.Maps](https://yandex.com/legal/maps_termsofuse/index.html)
 
 English
 
-Eesti keel
+Lietuvių
 
 Latviešu valoda
 
-Lietuvių
-
 English
+
+Eesti keel
 
 Polski
 
@@ -337,13 +337,13 @@ Yandex.Maps](https://yandex.com/legal/maps_termsofuse/index.html)
 
 English
 
-Eesti keel
+Lietuvių
 
 Latviešu valoda
 
-Lietuvių
-
 English
+
+Eesti keel
 
 Polski
 
