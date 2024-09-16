@@ -139,6 +139,7 @@ Menu
     * [Mounjaro](https://www.sokolovelaw.com/dangerous-drugs/ozempic/mounjaro/)
     * [Ozempic](https://www.sokolovelaw.com/dangerous-drugs/ozempic/)
     * [Rybelsus](https://www.sokolovelaw.com/dangerous-drugs/ozempic/rybelsus/)
+    * [Suboxone](https://www.sokolovelaw.com/dangerous-drugs/suboxone/)
     * [Tepezza](https://www.sokolovelaw.com/dangerous-drugs/tepezza/)
     * [Tylenol](https://www.sokolovelaw.com/dangerous-drugs/tylenol/)
     * [Wegovy](https://www.sokolovelaw.com/dangerous-drugs/ozempic/wegovy/)
