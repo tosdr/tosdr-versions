@@ -247,13 +247,14 @@ Thank you!
 * [English](https://defenders.org/)
 * [•](#)
 * [Español](https://defenders.org/es)
-* [](#searchForm)
 
 [Donate](https://support.defenders.org/page/65016/donate/1?ea.tracking.id=web_menu_donate-button)
 
 [One-Time Donation](https://support.defenders.org/page/65016/donate/1?ea.tracking.id=web_menu_donate-button)
 
 [Monthly Donation](https://defenders.org/be-a-guardian)
+
+[](#searchForm)
 
 Defenders of Wildlife Privacy Policy
 ====================================
