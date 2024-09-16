@@ -378,15 +378,15 @@ Fool me once, shame on not using DNS protection
 
 **](https://www.dnsfilter.com/blog/shame-not-using-dns-protection)
 
-[![Revving Up the Fun: DNSFilter's IndyCar Experience Recap — Toronto Edition](https://www.dnsfilter.com/hs-fs/hubfs/revvingupthefundnsfiltersindycarexperiencerecaptorontoedition1.webp?width=500&height=190&name=revvingupthefundnsfiltersindycarexperiencerecaptorontoedition1.webp)
+[![Lookalike Crowdstrike Domains Discovered by DNSFilter to Date](https://www.dnsfilter.com/hs-fs/hubfs/newsroom_lookalikecrowdstrikedomainsdiscoveredbydnsfiltertodate1.webp?width=500&height=190&name=newsroom_lookalikecrowdstrikedomainsdiscoveredbydnsfiltertodate1.webp)
 
-Posted on July 22, 2024 by Alina Gordilova
+Posted on July 22, 2024 by Will Strafach
 
  **
 
-Revving Up the Fun: DNSFilter's IndyCar Experience Recap — Toronto Edition
+Lookalike Crowdstrike Domains Discovered by DNSFilter to Date
 
-**](https://www.dnsfilter.com/blog/indycar-race-recap-toronto)
+**](https://www.dnsfilter.com/blog/crowdstrike-lookalike-domains)
 
 ![dnsfilter logo dark dns protection](https://www.dnsfilter.com/hubfs/raw_assets/public/Dnsfilter_March2023/images/5fda16a63a8939e688d5cc59_Layer%201.svg "dnsfilter logo dark dns protection")
 
