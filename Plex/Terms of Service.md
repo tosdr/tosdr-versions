@@ -4,6 +4,12 @@ Changing the site language for you. Please wait ...
 
 Our website is available in your language, would you like to switch to that? Yes No
 
+#### Get in nerds, we’re going to Pro Week.
+
+[Get 20% off a Lifetime Plex Pass, this week only. Redeem Offer](https://www.plex.tv/plex-pass/purchase/?plan=lifetime&code=FOREVERPRO&utm_internal=pro_week_sitewide_banner_24)
+
+[5 days. 11 pros. 13 tutorials. Check It Out](https://www.plex.tv/pro-week/?utm_internal=pro_week_sitewide_banner_pp_24)
+
 [![Plex](https://www.plex.tv/wp-content/themes/plex/assets/img/plex-logo.svg)](https://www.plex.tv/)
 
 {{navBar.searchScope}} 
