@@ -228,11 +228,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-Can't get enough Fark in your life? Try
+If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-More threads. More community. More Farking.
+Come for the Total, stay for the Farking.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -332,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [The New Hampshire National Guard would like to apologize for allowing its commanders to treat their female subordinates like sexual playthings for the past few years, promises to do a much better job of covering things up next time](https://www.fark.com/goto/13392066) ( [cnn.com](https://www.fark.com/goto/13392066) ) » [(9 comments)](https://www.fark.com/comments/13392066/The-New-Hampshire-National-Guard-would-like-to-apologize-for-allowing-its-commanders-to-treat-their-female-subordinates-like-sexual-playthings-for-past-few-years-promises-to-do-a-much-better-job-of-covering-things-up-next-time) |
-| [Discussion](https://www.fark.com/discussion/) | [Dear Annie: I'm criticized for taking trips to get a break from alcoholic husband, son. What do?](https://www.fark.com/goto/13392024) ( [mlive.com](https://www.fark.com/goto/13392024) ) » [(3 comments)](https://www.fark.com/comments/13392024/Dear-Annie-Im-criticized-for-taking-trips-to-get-a-break-from-alcoholic-husband-son-What-do) |
-| [Sports](https://www.fark.com/sports/) | [After third concussion in three seasons, Dolphins now left to ponder if they can get anything of value if they hock Tua](https://www.fark.com/goto/13391952) ( [espn.com](https://www.fark.com/goto/13391952) ) » [(21 comments)](https://www.fark.com/comments/13391952/After-third-concussion-in-three-seasons-Dolphins-now-left-to-ponder-if-they-can-get-anything-of-value-if-they-hock-Tua) |
-| [Business](https://www.fark.com/business/) | [Oregon's largest natural gas company claimed it was "going green", then didn't. Maybe they meant they wear green on casual Fridays](https://www.fark.com/goto/13391948) ( [propublica.org](https://www.fark.com/goto/13391948) ) » [(0 comments)](https://www.fark.com/comments/13391948/Oregons-largest-natural-gas-company-claimed-it-was-going-green-then-didnt-Maybe-they-meant-they-wear-green-on-casual-Fridays) |
-| [STEM](https://www.fark.com/stem/) | [Bacteria now officially smarter than humans](https://www.fark.com/goto/13392254) ( [eurekalert.org](https://www.fark.com/goto/13392254) ) » [(1 comment)](https://www.fark.com/comments/13392254/Bacteria-now-officially-smarter-than-humans) |
-| [Entertainment](https://www.fark.com/entertainment/) | [We're in our Kamala era. Are you ready for it?](https://www.fark.com/goto/13392348) ( [variety.com](https://www.fark.com/goto/13392348) ) » [(8 comments)](https://www.fark.com/comments/13392348/Were-in-our-Kamala-era-Are-you-ready-for-it) |
-| [Fandom](https://www.fark.com/fandom/) | [Not saying they nailed all the landings but at least the takeoffs had promise](https://www.fark.com/goto/13392324) ( [lifehacker.com](https://www.fark.com/goto/13392324) ) » [(2 comments)](https://www.fark.com/comments/13392324/Not-saying-they-nailed-all-landings-but-at-least-takeoffs-had-promise) |
-| [D'awww](https://www.fark.com/dawww/) | [Ugly-ass Javan rhino calf spotted spotted in an Indonesian national park](https://www.fark.com/goto/13392240) ( [phys.org](https://www.fark.com/goto/13392240) ) » [(0 comments)](https://www.fark.com/comments/13392240/Ugly-ass-Javan-rhino-calf-spotted-spotted-in-an-Indonesian-national-park) |
-| [Food](https://www.fark.com/food/) | [Kegs come in different sizes, as do beers, as do parties, as do Farkers. You need another one. More ice and cups too](https://www.fark.com/goto/13392304) ( [thetakeout.com](https://www.fark.com/goto/13392304) ) » [(2 comments)](https://www.fark.com/comments/13392304/Kegs-come-in-different-sizes-as-do-beers-as-do-parties-as-do-Farkers-You-need-another-one-More-ice-cups-too) |
-| [Politics](https://www.fark.com/politics/) | [We're in our Kamala era. Are you ready for it?](https://www.fark.com/goto/13392348) ( [variety.com](https://www.fark.com/goto/13392348) ) » [(8 comments)](https://www.fark.com/comments/13392348/Were-in-our-Kamala-era-Are-you-ready-for-it) |
+| [Main](https://www.fark.com/) | [Another day, another military vehicle, another train. Is this going to be the new thing?](https://www.fark.com/goto/13394804) ( [whdh.com](https://www.fark.com/goto/13394804) ) » [(0 comments)](https://www.fark.com/comments/13394804/Another-day-another-military-vehicle-another-train-Is-this-going-to-be-new-thing) |
+| [Discussion](https://www.fark.com/discussion/) | [We go to Houston for Sunday Night Football for Da Bears and the Texans. Will Chicago triumph on the road? Or will Houston win this one with ease? Kickoff is at 8:20 PM ET on NBC/Peacock](https://www.fark.com/goto/13393930) ( [espn.com](https://www.fark.com/goto/13393930) ) » [(820 comments)](https://www.fark.com/comments/13393930/We-go-to-Houston-for-Sunday-Night-Football-for-Da-Bears-the-Texans-Will-Chicago-triumph-on-road-Or-will-Houston-win-this-one-with-ease-Kickoff-is-at-820-PM-ET-on-NBCPeacock) |
+| [Sports](https://www.fark.com/sports/) | [It's either never happened before, or it's happened 1,086 times before. It's Shrodinger's Stupidity](https://www.fark.com/goto/13394778) ( [msn.com](https://www.fark.com/goto/13394778) ) » [(6 comments)](https://www.fark.com/comments/13394778/Its-either-never-happened-before-its-happened-1086-times-before-Its-Shrodingers-Stupidity) |
+| [Business](https://www.fark.com/business/) | [Delta Airlines would like to remind you that prospective flight attendants are required to wear underwear to the interview. Thank you](https://www.fark.com/goto/13394546) ( [paddleyourownkanoo.com](https://www.fark.com/goto/13394546) ) » [(26 comments)](https://www.fark.com/comments/13394546/Delta-Airlines-would-like-to-remind-you-that-prospective-flight-attendants-are-required-to-wear-underwear-to-interview-Thank-you) |
+| [STEM](https://www.fark.com/stem/) | [The biggest biohazard on the ISS is when somebody opens a can of gravy](https://www.fark.com/goto/13394862) ( [yahoo.com](https://www.fark.com/goto/13394862) ) » [(1 comment)](https://www.fark.com/comments/13394862/The-biggest-biohazard-on-ISS-is-when-somebody-opens-a-can-of-gravy) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Tito dead. Jacksons, Yugoslavia mourn](https://www.fark.com/goto/13394876) ( [people.com](https://www.fark.com/goto/13394876) ) » [(2 comments)](https://www.fark.com/comments/13394876/Tito-dead-Jacksons-Yugoslavia-mourn) |
+| [Fandom](https://www.fark.com/fandom/) | [Richard Hammond roasts YouTuber cars. "Your claim is its a $50,000 Civic. It isn't. It's a pile of crap with $50,000 worth of parts that were worth money until you attached them to that. It's the world's most polished and gilded turd"](https://www.fark.com/goto/13394454) ( [youtube.com](https://www.fark.com/goto/13394454) ) » [(16 comments)](https://www.fark.com/comments/13394454/Richard-Hammond-roasts-YouTuber-cars-Your-claim-is-its-a-$50000-Civic-It-isnt-Its-a-pile-of-crap-with-$50000-worth-of-parts-that-were-worth-money-until-you-attached-them-to-that-Its-worlds-most-polished-gilded-turd) |
+| [D'awww](https://www.fark.com/dawww/) | [Shy kids take the best photos](https://www.fark.com/goto/13394516) ( [newsweek.com](https://www.fark.com/goto/13394516) ) » [(6 comments)](https://www.fark.com/comments/13394516/Shy-kids-take-best-photos) |
+| [Food](https://www.fark.com/food/) | [Restaurants that care more about instagrammable decor than knockout meals](https://www.fark.com/goto/13394448) ( [independent.co.uk](https://www.fark.com/goto/13394448) ) » [(6 comments)](https://www.fark.com/comments/13394448/Restaurants-that-care-more-about-instagrammable-decor-than-knockout-meals) |
+| [Politics](https://www.fark.com/politics/) | [You've been given free passes to give homeless children the trip of a lifetime, what will you do? AH'LL TAKE MY OWN DAMN KIDS - Bonus: Those weren't the only destinations for these kids](https://www.fark.com/goto/13394856) ( [dailymail.co.uk](https://www.fark.com/goto/13394856) ) » [(14 comments)](https://www.fark.com/comments/13394856/Youve-been-given-free-passes-to-give-homeless-children-trip-of-a-lifetime-what-will-you-do-AHLL-TAKE-MY-OWN-DAMN-KIDS-Bonus-Those-werent-only-destinations-for-these-kids) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -351,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Sep 13 2024 11:42:21  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Sep 16 2024 04:42:15  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
