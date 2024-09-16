@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/c3d5bb6b-c3a8-43d9-b7d0-25a454f8c9cb/20240813T025100/c3d5bb6b-c3a8-43d9-b7d0-25a454f8c9cb_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c3d5bb6b-c3a8-43d9-b7d0-25a454f8c9cb/20240813T025100/c3d5bb6b-c3a8-43d9-b7d0-25a454f8c9cb_360x203.jpg)](https://www.wqad.com/article/news/local/davenport-school-board-approves-high-school-enhanced-block-schedule/526-d9a2e548-9a2f-4e44-9533-3098053f5a6f)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
         
-        #### [Davenport School Board votes to approve new high school schedule for next year](https://www.wqad.com/article/news/local/davenport-school-board-approves-high-school-enhanced-block-schedule/526-d9a2e548-9a2f-4e44-9533-3098053f5a6f)
+        #### [Boil orders in the Quad Cities region](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/bcefe841-4898-4881-a15b-048fd8c83e43/20240910T201104/bcefe841-4898-4881-a15b-048fd8c83e43_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/bcefe841-4898-4881-a15b-048fd8c83e43/20240910T201104/bcefe841-4898-4881-a15b-048fd8c83e43_360x203.jpg)](https://www.wqad.com/article/news/local/continental-cement-expands-recycling-capabilities/526-1cab4994-e147-4256-bf5f-788af5f77165)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/2f5ebf5e-e1a6-4dbc-b8bc-e6c7df896fd5/20240913T222621/2f5ebf5e-e1a6-4dbc-b8bc-e6c7df896fd5_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/2f5ebf5e-e1a6-4dbc-b8bc-e6c7df896fd5/20240913T222621/2f5ebf5e-e1a6-4dbc-b8bc-e6c7df896fd5_360x203.jpg)](https://www.wqad.com/article/life/heartwarming/augustana-college-immigrant-naturalization-ceremony-us-citizens/526-6e2f38f9-6303-400c-8cda-40fc87680ca8)
         
-        #### [Continental Cement expanding recycling capabilities](https://www.wqad.com/article/news/local/continental-cement-expands-recycling-capabilities/526-1cab4994-e147-4256-bf5f-788af5f77165)
+        #### [93 immigrants become citizens at Augustana College ceremony](https://www.wqad.com/article/life/heartwarming/augustana-college-immigrant-naturalization-ceremony-us-citizens/526-6e2f38f9-6303-400c-8cda-40fc87680ca8)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/cbd222a0-cb81-4559-9464-8ea1c0521263/20240910T223444/cbd222a0-cb81-4559-9464-8ea1c0521263_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/cbd222a0-cb81-4559-9464-8ea1c0521263/20240910T223444/cbd222a0-cb81-4559-9464-8ea1c0521263_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/6ee99cbd-9a38-41e6-9b09-a1b6d837b14b/20240916T121310/6ee99cbd-9a38-41e6-9b09-a1b6d837b14b_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/6ee99cbd-9a38-41e6-9b09-a1b6d837b14b/20240916T121310/6ee99cbd-9a38-41e6-9b09-a1b6d837b14b_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Summery starting tomorrow](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [A few more 90s ahead this week](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/4af9bdc8-416c-42bc-801d-36e6a90069a8/4af9bdc8-416c-42bc-801d-36e6a90069a8_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/4af9bdc8-416c-42bc-801d-36e6a90069a8/4af9bdc8-416c-42bc-801d-36e6a90069a8_360x203.jpg)](https://www.wqad.com/article/weather/weather-local/2023-fall-color-guide/526-4f522676-16c2-4f18-ae28-e9eca0549d10)
+    *  [![](https://media.tegna-media.com/assets/CCT/images/b19ce186-e13f-4d38-8d95-fcacbd385ae3/20240818T162111/b19ce186-e13f-4d38-8d95-fcacbd385ae3_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/b19ce186-e13f-4d38-8d95-fcacbd385ae3/20240818T162111/b19ce186-e13f-4d38-8d95-fcacbd385ae3_360x203.jpg)](https://www.wqad.com/article/news/nation-world/full-moon-supermoon-lunar-eclipse-harvest-moon/507-27188f92-97c9-4f20-beea-2cd4b0c14fba)
         
-        #### [Fall Color Guide | Where and when to do some leaf peeping in the Quad Cities](https://www.wqad.com/article/weather/weather-local/2023-fall-color-guide/526-4f522676-16c2-4f18-ae28-e9eca0549d10)
+        #### [The next full moon will also feature a lunar eclipse. Here's when to look up](https://www.wqad.com/article/news/nation-world/full-moon-supermoon-lunar-eclipse-harvest-moon/507-27188f92-97c9-4f20-beea-2cd4b0c14fba)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,15 +86,16 @@ Navigation
 
 Davenport, IA »
 
-66°
+63°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
 [Weather](https://www.wqad.com/weather/alerts) [Closings](https://www.wqad.com/closings)
 
 * [Sports](https://www.wqad.com/sports)
+* [Ask Andrew](https://www.wqad.com/article/weather/ask-andrew/ask-andrew/526-62a556b9-8c63-4d25-9bb1-d4f62ce24546)
 * [As Seen On TV](https://www.wqad.com/as-seen-on-tv)
 * [Contact Us](https://www.wqad.com/contact-us)
 * [TV Listings](https://www.wqad.com/tv-listings)
