@@ -95,13 +95,13 @@ New & Coming soon
 * [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234515/BTLBTL_VERT_MAIN_2764x4096_DOM_REV.jpg)
     
     Beetlejuice Beetlejuice (2024)](https://www.fandango.com/beetlejuice-beetlejuice-2024-234515/movie-overview)
-* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234524/FND_poster_TransformersOne-Presale.jpg)
+* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234524/TF1_DOM_Online_Payoff_1-Sheet_05_FIN5_1.jpg)
     
     Transformers One (2024)](https://www.fandango.com/transformers-one-2024-234524/movie-overview)
 * [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234516/DeapoolAndWolverine_2024.jpg)
     
     Deadpool & Wolverine (2024)](https://www.fandango.com/deadpool-and-wolverine-2024-234516/movie-overview)
-* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/237450/FND_poster_JunkKookIAmStill-Presale.jpg)
+* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/237450/JUNG-KOOK_ONE-SHEET-ARTWORK-ENGLISH.jpg)
     
     JUNG KOOK: I AM STILL (2024)](https://www.fandango.com/jung-kook-i-am-still-2024-237450/movie-overview)
 * [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/235040/BlinkTwice_Poster_Press_2765x4096.jpg)
