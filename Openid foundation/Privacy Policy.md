@@ -209,6 +209,10 @@ This page contains all OpenID Foundation organizational documents, policies and 
 
 [OpenID Foundation Bylaws](https://openid.net/wp-content/uploads/2023/11/OIDF-Org-Doc-Bylaws-Final-11-16-2023.pdf)
 
+#### Antitrust Policy
+
+The OpenID Foundation (OIDF) [Antitrust Policy](https://openid.net/wp-content/uploads/2024/09/OIDF-Antitrust-Policy_Final_2024-09-12.docx), and any applicable U.S. and international antitrust and competition law, governs the conduct of all attendees and participants in all OIDF-sponsored activities, including meetings or events. Each attendee is responsible for knowing the contents of the OIDF Antitrust Policy and for complying with it. Attendees must not use meetings or events as a forum for anticompetitive conduct, or otherwise engage in any discussions which might give rise to an allegation of violation of antitrust laws.
+
 #### Certification Conformance Testing Disclosure and Reporting Policy
 
 [Certification Conformance Testing Disclosure and Reporting Policy](https://openid.net/certification/certification-conformance-testing-disclosure-and-reporting-policy/) **(“****Policy****“)** sets forth the rules and requirements that govern the disclosure and reporting by the OpenID Foundation (“OIDF”) of the identity of, and the results achieved by, individuals and entities that use OIDF conformance testing software and related services **(“****Testing Services****”).**
