@@ -1241,11 +1241,11 @@ Marken der Woche
 
 [Specials](https://de.iherb.com/specials)[Neu](https://de.iherb.com/new-products)[Ausprobieren](https://de.iherb.com/trial-pricing)[Bestseller](https://de.iherb.com/catalog/topsellers)
 
-[\-28% auf Körperpflege
+[\-28% auf Sportnahrung
 
  
 
-‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/body-care?pcode=28BODY)
+‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/sports?pcode=28SPORTS)
 
       
 
