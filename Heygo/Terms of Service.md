@@ -346,8 +346,6 @@ Featured travel offers
     
     Turkey | 3 nights | Book with easyJet holidays
     
-    Use code HOLIDAYSALE and save up to £200 on all-inclusive holidays on a minimum spend of £2000. Valid until 16th September, 2024.
-    
     From £224pp
     
     [View Holiday\*](https://redirects.restless.co.uk/redirect?url=https%3A%2F%2Feasyjet.prf.hn%2Fclick%2Fcamref%3A1101l3RwTL%2Fdestination%3Ahttps%253A%252F%252Fwww.easyjet.com%252Fen%252Fholidays%252Fturkey&item=traveldeal&item_id=531091d3-87dd-4ca9-91b6-d92dc4eb652e&utm_source=mainsite&utm_campaign=travel_deals)
@@ -450,6 +448,12 @@ Holiday destinations
 Where to travel abroad by month...
 ----------------------------------
 
+[![10 of the best travel destinations to visit in November](https://media.restless.co.uk/uploads/2024/01/the-best-travel-destinations-to-visit-in-november-768x512.jpg)](https://restless.co.uk/travel/the-best-travel-destinations-to-visit-in-november/)
+
+### [10 of the best travel destinations to visit in November](https://restless.co.uk/travel/the-best-travel-destinations-to-visit-in-november/)
+
+[Read More »](https://restless.co.uk/travel/the-best-travel-destinations-to-visit-in-november/)
+
 [![10 of the best travel destinations to visit in October](https://media.restless.co.uk/uploads/2024/01/the-best-travel-destinations-to-visit-in-october-1-e1721224373532-768x317.jpg)](https://restless.co.uk/travel/the-best-travel-destinations-to-visit-in-october/)
 
 ### [9 of the best travel destinations to visit in October](https://restless.co.uk/travel/the-best-travel-destinations-to-visit-in-october/) 
@@ -491,12 +495,6 @@ Where to travel abroad by month...
 ### [14 of the best travel destinations to visit in April](https://restless.co.uk/travel/the-best-travel-destinations-to-visit-in-april/)
 
 [Read More »](https://restless.co.uk/travel/the-best-travel-destinations-to-visit-in-april/)
-
-[![10 of the best travel destinations to visit in November](https://media.restless.co.uk/uploads/2024/01/the-best-travel-destinations-to-visit-in-november-768x512.jpg)](https://restless.co.uk/travel/the-best-travel-destinations-to-visit-in-november/)
-
-### [10 of the best travel destinations to visit in November](https://restless.co.uk/travel/the-best-travel-destinations-to-visit-in-november/)
-
-[Read More »](https://restless.co.uk/travel/the-best-travel-destinations-to-visit-in-november/)
 
 [![12 of the best travel destinations for March](https://media.restless.co.uk/uploads/2023/11/the-best-travel-destinations-for-march-768x512.jpg)](https://restless.co.uk/travel/the-best-travel-destinations-to-visit-in-march/)
 
