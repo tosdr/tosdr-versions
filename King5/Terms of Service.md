@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/f46f39c9-cbf1-4169-9e33-b0200b924547/20240912T235952/f46f39c9-cbf1-4169-9e33-b0200b924547_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f46f39c9-cbf1-4169-9e33-b0200b924547/20240912T235952/f46f39c9-cbf1-4169-9e33-b0200b924547_360x203.jpg)](https://www.king5.com/article/news/local/otter-attacks-child-drags-them-under-water-bremerton-marina/281-5eae4466-ff87-4c55-84c9-ffed8d863ec9)
+    *  [![](https://media.king5.com/assets/KING/images/f0a0f3ae-acf3-40b6-808f-bd07a7146c24/20240915T211150/f0a0f3ae-acf3-40b6-808f-bd07a7146c24_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f0a0f3ae-acf3-40b6-808f-bd07a7146c24/20240915T211150/f0a0f3ae-acf3-40b6-808f-bd07a7146c24_360x203.jpg)](https://www.king5.com/article/news/crime/two-dead-stolen-trailer-bonney-lake/281-c4501446-63b8-4acc-9bb6-d165594479c2)
         
-        #### [Otter attacks child, drags them underwater at Bremerton Marina](https://www.king5.com/article/news/local/otter-attacks-child-drags-them-under-water-bremerton-marina/281-5eae4466-ff87-4c55-84c9-ffed8d863ec9)
+        #### [Deadly confrontation over stolen trailer ends in Bonney Lake](https://www.king5.com/article/news/crime/two-dead-stolen-trailer-bonney-lake/281-c4501446-63b8-4acc-9bb6-d165594479c2)
         
-    *  [![](https://media.king5.com/assets/KING/images/aa07b338-a1ba-44be-9b4b-f4944a73684f/20240907T003319/aa07b338-a1ba-44be-9b4b-f4944a73684f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/aa07b338-a1ba-44be-9b4b-f4944a73684f/20240907T003319/aa07b338-a1ba-44be-9b4b-f4944a73684f_360x203.jpg)](https://www.king5.com/article/news/crime/uw-police-majority-championship-rings-recovered/281-227f1f4f-0f87-4501-be18-1bccc82963e7)
+    *  [![](https://media.king5.com/assets/KING/images/04c4d898-f43e-40ba-8654-4588dec344d7/04c4d898-f43e-40ba-8654-4588dec344d7_16x9.jpg) ![](https://media.king5.com/assets/KING/images/04c4d898-f43e-40ba-8654-4588dec344d7/04c4d898-f43e-40ba-8654-4588dec344d7_360x203.jpg)](https://www.king5.com/article/news/crime/2-year-old-accidentally-shot-by-3-year-old-sibling-des-moines/281-6774c0ce-5ca0-40cd-b5ac-dabdaebd8d24)
         
-        #### [UW police say majority of championship rings stolen from football staffer recovered](https://www.king5.com/article/news/crime/uw-police-majority-championship-rings-recovered/281-227f1f4f-0f87-4501-be18-1bccc82963e7)
+        #### [2-year-old girl hospitalized after 3-year-old sibling accidentally shoots her, police say](https://www.king5.com/article/news/crime/2-year-old-accidentally-shot-by-3-year-old-sibling-des-moines/281-6774c0ce-5ca0-40cd-b5ac-dabdaebd8d24)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/fea5be71-49ad-4793-b17e-81de739413c8/20240913T003609/fea5be71-49ad-4793-b17e-81de739413c8_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fea5be71-49ad-4793-b17e-81de739413c8/20240913T003609/fea5be71-49ad-4793-b17e-81de739413c8_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/f05ff363-9f64-4f19-979e-9e923cca790f/20240916T052233/f05ff363-9f64-4f19-979e-9e923cca790f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f05ff363-9f64-4f19-979e-9e923cca790f/20240916T052233/f05ff363-9f64-4f19-979e-9e923cca790f_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
-    *  [![](https://media.king5.com/assets/CCT/images/a7762b9b-f674-41df-b6e6-12f57481bd89/20240912T031957/a7762b9b-f674-41df-b6e6-12f57481bd89_16x9.jpg) ![](https://media.king5.com/assets/CCT/images/a7762b9b-f674-41df-b6e6-12f57481bd89/20240912T031957/a7762b9b-f674-41df-b6e6-12f57481bd89_360x203.jpg)](https://www.king5.com/article/news/nation-world/california-wildfires/507-b7fa1da4-8cd1-4e3f-b209-72deaa1aabb6)
+    *  [![](https://media.king5.com/assets/CCT/images/b19ce186-e13f-4d38-8d95-fcacbd385ae3/20240818T162111/b19ce186-e13f-4d38-8d95-fcacbd385ae3_16x9.jpg) ![](https://media.king5.com/assets/CCT/images/b19ce186-e13f-4d38-8d95-fcacbd385ae3/20240818T162111/b19ce186-e13f-4d38-8d95-fcacbd385ae3_360x203.jpg)](https://www.king5.com/article/news/nation-world/full-moon-supermoon-lunar-eclipse-harvest-moon/507-27188f92-97c9-4f20-beea-2cd4b0c14fba)
         
-        #### [Wildfires in Southern California torch dozens of homes and force thousands to evacuate](https://www.king5.com/article/news/nation-world/california-wildfires/507-b7fa1da4-8cd1-4e3f-b209-72deaa1aabb6)
+        #### [The next full moon will also feature a lunar eclipse. Here's when to look up](https://www.king5.com/article/news/nation-world/full-moon-supermoon-lunar-eclipse-harvest-moon/507-27188f92-97c9-4f20-beea-2cd4b0c14fba)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -95,9 +95,9 @@ Navigation
 
 Seattle, WA »
 
-58°
+54°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
