@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![16 Facts About National Zoo  Aquarium ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/world/landmarks/16-facts-about-national-zoo-aquarium/)
+[![40 Facts About Astros Vs Angels ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/lifestyle/sports/40-facts-about-astros-vs-angels/)
 
-Landmarks
+Sports
 
-12 Sep 2024
+15 Sep 2024
 
-[16 Facts About National Zoo Aquarium](https://facts.net/world/landmarks/16-facts-about-national-zoo-aquarium/)
+[40 Facts About Astros Vs Angels](https://facts.net/lifestyle/sports/40-facts-about-astros-vs-angels/)
 
-[![35 Facts About German New Medicine ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/medicine/35-facts-about-german-new-medicine/)
+[![35 Facts About Jacob Wetterling ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22113%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/society-and-social-sciences/35-facts-about-jacob-wetterling/)
 
-Medicine
+Society & Social Sciences
 
-12 Sep 2024
+15 Sep 2024
 
-[35 Facts About German New Medicine](https://facts.net/fitness-and-wellbeing/medicine/35-facts-about-german-new-medicine/)
+[35 Facts About Jacob Wetterling](https://facts.net/society-and-social-sciences/35-facts-about-jacob-wetterling/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
