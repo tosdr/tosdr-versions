@@ -226,7 +226,7 @@ Business size
 
 [See all solutions](https://www.bitrix24.com/solutions/)
 
-Integrations
+[Integrations](https://www.bitrix24.com/apps/)
 
 Import & Export
 
