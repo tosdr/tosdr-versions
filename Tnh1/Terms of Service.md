@@ -18,31 +18,31 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Vinte bairros de Maceió devem ter fornecimento d'água afetado nesta terça-feira, 17](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/6/csm_sistema_pratagy_ascom_87765be2cc.jpg)
+   [![Dois homens são presos após serem flagrados furtando tapetes de grama na orla de Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/0/csm_Central_de_Flagrantes__Maceio_-_foto_SSPAL_9459ad0c4c.jpg)
+
+Na Praia do Pontal
+
+Dois homens são presos após serem flagrados furtando tapetes de grama na orla de Maceió](https://www.tnh1.com.br/noticia/nid/dois-homens-sao-presos-apos-serem-flagrados-furtando-tapetes-de-grama-na-orla-de-maceio/ "Dois homens são presos após serem flagrados furtando tapetes de grama na orla de Maceió")   [![Vinte bairros de Maceió devem ter fornecimento d'água afetado nesta terça-feira, 17](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/6/csm_sistema_pratagy_ascom_87765be2cc.jpg)
 
 Maceió
 
-Vinte bairros de Maceió devem ter fornecimento d'água afetado nesta terça-feira, 17](https://www.tnh1.com.br/noticia/nid/vinte-bairros-de-maceio-devem-ter-fornecimento-dagua-afetado-nesta-terca-feira-17/ "Vinte bairros de Maceió devem ter fornecimento d'água afetado nesta terça-feira, 17")   [![Banhista salta de emissário submarino, não consegue voltar e é resgatado por bombeiros](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/6/csm_emissario-casal_-_foto_Divulgacao_49ae7f080d.jpg)
+Vinte bairros de Maceió devem ter fornecimento d'água afetado nesta terça-feira, 17](https://www.tnh1.com.br/noticia/nid/vinte-bairros-de-maceio-devem-ter-fornecimento-dagua-afetado-nesta-terca-feira-17/ "Vinte bairros de Maceió devem ter fornecimento d'água afetado nesta terça-feira, 17")   [![Banhista salta de emissário submarino, não consegue voltar e é resgatado por bombeiros](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/6/csm_emissario-casal_-_foto_Divulgacao_49ae7f080d.jpg)
 
 Praia da Avenida
 
-Banhista salta de emissário submarino, não consegue voltar e é resgatado por bombeiros](https://www.tnh1.com.br/noticia/nid/banhista-salta-de-emissario-submarino-nao-consegue-voltar-e-e-resgatado-por-bombeiros/ "Banhista salta de emissário submarino, não consegue voltar e é resgatado por bombeiros")   [![Vídeo: motociclista fica ferido após bater em poste na Avenida Juca Sampaio](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/a/csm_acidente_moto_barro_duro_f0c963ed48.jpg)
+Banhista salta de emissário submarino, não consegue voltar e é resgatado por bombeiros](https://www.tnh1.com.br/noticia/nid/banhista-salta-de-emissario-submarino-nao-consegue-voltar-e-e-resgatado-por-bombeiros/ "Banhista salta de emissário submarino, não consegue voltar e é resgatado por bombeiros")   [![Vídeo: motociclista fica ferido após bater em poste na Avenida Juca Sampaio](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/a/csm_acidente_moto_barro_duro_f0c963ed48.jpg)
 
 vítima socorrida
 
-Vídeo: motociclista fica ferido após bater em poste na Avenida Juca Sampaio](https://www.tnh1.com.br/noticia/nid/video-motociclista-fica-ferido-apos-bater-em-poste-na-avenida-juca-sampaio/ "Vídeo: motociclista fica ferido após bater em poste na Avenida Juca Sampaio")   [![Mulher encontra marido morto a tiros dentro de casa em residencial no Benedito Bentes](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/2/csm_csm_csm_IML_IC_-_Assessoria_788299d465_a0c9ce6a3a_6960fae54a.jpeg)
+Vídeo: motociclista fica ferido após bater em poste na Avenida Juca Sampaio](https://www.tnh1.com.br/noticia/nid/video-motociclista-fica-ferido-apos-bater-em-poste-na-avenida-juca-sampaio/ "Vídeo: motociclista fica ferido após bater em poste na Avenida Juca Sampaio")   [![Mulher encontra marido morto a tiros dentro de casa em residencial no Benedito Bentes](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/2/csm_csm_csm_IML_IC_-_Assessoria_788299d465_a0c9ce6a3a_6960fae54a.jpeg)
 
 na madrugada
 
-Mulher encontra marido morto a tiros dentro de casa em residencial no Benedito Bentes](https://www.tnh1.com.br/noticia/nid/mulher-encontra-marido-morto-a-tiros-dentro-de-casa-em-residencial-no-benedito-bentes/ "Mulher encontra marido morto a tiros dentro de casa em residencial no Benedito Bentes")   [![Educação de Maceió convoca mais 125 aprovados no Processo Seletivo Simplificado](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/4/csm_convocados-educacao-maceio-foto-assessoria_0af81b24ea.jpeg)
+Mulher encontra marido morto a tiros dentro de casa em residencial no Benedito Bentes](https://www.tnh1.com.br/noticia/nid/mulher-encontra-marido-morto-a-tiros-dentro-de-casa-em-residencial-no-benedito-bentes/ "Mulher encontra marido morto a tiros dentro de casa em residencial no Benedito Bentes")   [![Educação de Maceió convoca mais 125 aprovados no Processo Seletivo Simplificado](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/4/csm_convocados-educacao-maceio-foto-assessoria_0af81b24ea.jpeg)
 
 Veja lista
 
-Educação de Maceió convoca mais 125 aprovados no Processo Seletivo Simplificado](https://www.tnh1.com.br/noticia/nid/educacao-de-maceio-convoca-mais-125-aprovados-no-processo-seletivo-simplificado/ "Educação de Maceió convoca mais 125 aprovados no Processo Seletivo Simplificado")   [![Vídeo: agente do DMTT usa spray de pimenta para afastar manifestantes ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/3/csm_agente_dmtt_spray_de_pimenta_fdc12cc6fd.jpg)
-
-EM MACEIÓ
-
-Vídeo: agente do DMTT usa spray de pimenta para afastar manifestantes](https://www.tnh1.com.br/noticia/nid/video-agente-do-dmtt-usa-spray-de-pimenta-para-afastar-manifestantes/ "Vídeo: agente do DMTT usa spray de pimenta para afastar manifestantes ")
+Educação de Maceió convoca mais 125 aprovados no Processo Seletivo Simplificado](https://www.tnh1.com.br/noticia/nid/educacao-de-maceio-convoca-mais-125-aprovados-no-processo-seletivo-simplificado/ "Educação de Maceió convoca mais 125 aprovados no Processo Seletivo Simplificado")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -50,31 +50,31 @@ Vídeo: agente do DMTT usa spray de pimenta para afastar manifestantes](https://
 
 [Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
 
-   [![Menino de 6 anos morre atropelado por carro ao andar de bicicleta em São Miguel dos Milagres](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/9/csm_atropelamento-crianca-sao-miguel-milagres-reproducao_9cad01f552.jpeg)
+   [![Desfile estudantil celebra os 207 anos de Emancipação Política de Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/2/csm_desfile-emancipacao-divulgacao_56c71a5e74.jpeg)
+
+Solenidade
+
+Desfile estudantil celebra os 207 anos de Emancipação Política de Alagoas](https://www.tnh1.com.br/noticia/nid/desfile-estudantil-celebra-os-207-anos-de-emancipacao-politica-de-alagoas/ "Desfile estudantil celebra os 207 anos de Emancipação Política de Alagoas")   [![Duplicação de trechos remanescentes da BR-101 é retomada 20 anos depois](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/b/csm_obra-duplicacao-rodovia-alagoas-reproducao-agencia-alagoas_940d661dec.jpeg)
+
+segurança viária
+
+Duplicação de trechos remanescentes da BR-101 é retomada 20 anos depois](https://www.tnh1.com.br/noticia/nid/duplicacao-de-trechos-remanescentes-da-br-101-e-retomada-20-anos-depois/ "Duplicação de trechos remanescentes da BR-101 é retomada 20 anos depois")   [![Vídeo: centenas de peixes são encontrados mortos em praia no Litoral Norte de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/1/csm_centenas-peixes-econtrados-mortos-reproducao_3829d7ee9e.jpeg)
+
+Segundo registro
+
+Vídeo: centenas de peixes são encontrados mortos em praia no Litoral Norte de Alagoas](https://www.tnh1.com.br/noticia/nid/video-centenas-de-peixes-sao-encontrados-mortos-em-praia-no-litoral-norte-de-alagoas/ "Vídeo: centenas de peixes são encontrados mortos em praia no Litoral Norte de Alagoas")   [![Corpo de homem é encontrado boiando por pescadores em lago, em Arapiraca](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/7/0/csm_CORPO-LAGO-ARAPIRACA-REPRODUCAO_81a53d0880.jpeg)
+
+sem identificação
+
+Corpo de homem é encontrado boiando por pescadores em lago, em Arapiraca](https://www.tnh1.com.br/noticia/nid/corpo-de-homem-e-encontrado-boiando-por-pescadores-em-lago-em-arapiraca/ "Corpo de homem é encontrado boiando por pescadores em lago, em Arapiraca")   [![Menino de 6 anos morre atropelado por carro ao andar de bicicleta em São Miguel dos Milagres](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/9/csm_atropelamento-crianca-sao-miguel-milagres-reproducao_9cad01f552.jpeg)
 
 Trânsito
 
-Menino de 6 anos morre atropelado por carro ao andar de bicicleta em São Miguel dos Milagres](https://www.tnh1.com.br/noticia/nid/menino-de-6-anos-morre-atropelado-por-carro-ao-andar-de-bicicleta-em-sao-miguel-dos-milagres/ "Menino de 6 anos morre atropelado por carro ao andar de bicicleta em São Miguel dos Milagres")   [![Confira os resultados do Alagoas dá Sorte deste domingo (15)](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/a/csm_csm_csm_ALAGOAS_DA_SORTE_0070ad69ae__3__f98bd4eda6_10c94654c6.jpg)
+Menino de 6 anos morre atropelado por carro ao andar de bicicleta em São Miguel dos Milagres](https://www.tnh1.com.br/noticia/nid/menino-de-6-anos-morre-atropelado-por-carro-ao-andar-de-bicicleta-em-sao-miguel-dos-milagres/ "Menino de 6 anos morre atropelado por carro ao andar de bicicleta em São Miguel dos Milagres")   [![Confira os resultados do Alagoas dá Sorte deste domingo (15)](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/a/csm_csm_csm_ALAGOAS_DA_SORTE_0070ad69ae__3__f98bd4eda6_10c94654c6.jpg)
 
 premiados
 
-Confira os resultados do Alagoas dá Sorte deste domingo (15)](https://www.tnh1.com.br/noticia/nid/confira-os-resultados-do-alagoas-da-sorte-deste-domingo-15-1/ "Confira os resultados do Alagoas dá Sorte deste domingo (15)")   [![TNH1 e TV Pajuçara levam 1º lugar no Prêmio Sebrae de Jornalismo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/e/csm_premio_sebrae_de_jornalsimo_2024_d14dbd3b6e.jpeg)
-
-Alagoas
-
-TNH1 e TV Pajuçara levam 1º lugar no Prêmio Sebrae de Jornalismo](https://www.tnh1.com.br/noticia/nid/tnh1-e-tv-pajucara-levam-1o-lugar-no-premio-sebrae-de-jornalismo/ "TNH1 e TV Pajuçara levam 1º lugar no Prêmio Sebrae de Jornalismo")   [![Caminhonete fica destruída após colisão com carreta no interior de Alagoas; motorista foi socorrido ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/3/csm_acidente-transito-interior-alagoas_f54232160a.jpeg)
-
-NA BR-101
-
-Caminhonete fica destruída após colisão com carreta no interior de Alagoas; motorista foi socorrido](https://www.tnh1.com.br/noticia/nid/caminhonete-fica-destruida-apos-colisao-com-carreta-no-interior-de-alagoas-motorista-foi-socorrido/ "Caminhonete fica destruída após colisão com carreta no interior de Alagoas; motorista foi socorrido ")   [![Revolução Silenciosa, por Paulo Dantas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/f/csm_paulo_dantas_foto_edvan_ferreira_secom_alagoas_43dd9ec93f.jpg)
-
-16 de setembro
-
-Revolução Silenciosa, por Paulo Dantas](https://www.tnh1.com.br/noticia/nid/revolucao-silenciosa-por-paulo-dantas/ "Revolução Silenciosa, por Paulo Dantas")   [![Comissão do meio ambiente discute impacto das queimadas em Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/b/csm_comissao-do-meio-ambiente-discute-impacto-das-queimadas-em-alagoas__1__bbc9fe3521.jpeg)
-
-combate e fiscalização
-
-Comissão do meio ambiente discute impacto das queimadas em Alagoas](https://www.tnh1.com.br/noticia/nid/comissao-do-meio-ambiente-discute-impacto-das-queimadas-em-alagoas/ "Comissão do meio ambiente discute impacto das queimadas em Alagoas")
+Confira os resultados do Alagoas dá Sorte deste domingo (15)](https://www.tnh1.com.br/noticia/nid/confira-os-resultados-do-alagoas-da-sorte-deste-domingo-15-1/ "Confira os resultados do Alagoas dá Sorte deste domingo (15)")
 
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
 
@@ -82,31 +82,31 @@ Comissão do meio ambiente discute impacto das queimadas em Alagoas](https://www
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Homem tenta furtar bicicleta e termina preso no Centro de Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/7/csm_Ronda_no_Bairro_-_furto_Centro_-_608800ec72.jpeg)
+   [![Dois homens são presos após serem flagrados furtando tapetes de grama na orla de Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/0/csm_Central_de_Flagrantes__Maceio_-_foto_SSPAL_9459ad0c4c.jpg)
+
+Na Praia do Pontal
+
+Dois homens são presos após serem flagrados furtando tapetes de grama na orla de Maceió](https://www.tnh1.com.br/noticia/nid/dois-homens-sao-presos-apos-serem-flagrados-furtando-tapetes-de-grama-na-orla-de-maceio/ "Dois homens são presos após serem flagrados furtando tapetes de grama na orla de Maceió")   [![Homem tenta furtar bicicleta e termina preso no Centro de Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/7/csm_Ronda_no_Bairro_-_furto_Centro_-_608800ec72.jpeg)
 
 ronda no bairro
 
-Homem tenta furtar bicicleta e termina preso no Centro de Maceió](https://www.tnh1.com.br/noticia/nid/homem-tenta-furtar-bicicleta-e-termina-preso-no-centro-de-maceio/ "Homem tenta furtar bicicleta e termina preso no Centro de Maceió")   [![Homem é ferido com dois tiros nas nádegas dentro de bar no Cleto Marques](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/1/csm_csm_UPA_Benedito_Bentes_-_foto_Secom_Alagoas__reproducao_34132c8016_d2288c86be.jpeg)
+Homem tenta furtar bicicleta e termina preso no Centro de Maceió](https://www.tnh1.com.br/noticia/nid/homem-tenta-furtar-bicicleta-e-termina-preso-no-centro-de-maceio/ "Homem tenta furtar bicicleta e termina preso no Centro de Maceió")   [![Homem é ferido com dois tiros nas nádegas dentro de bar no Cleto Marques](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/1/csm_csm_UPA_Benedito_Bentes_-_foto_Secom_Alagoas__reproducao_34132c8016_d2288c86be.jpeg)
 
 Polícia
 
-Homem é ferido com dois tiros nas nádegas dentro de bar no Cleto Marques](https://www.tnh1.com.br/noticia/nid/homem-e-ferido-com-dois-tiros-nas-nadegas-dentro-de-bar-no-cleto-marques/ "Homem é ferido com dois tiros nas nádegas dentro de bar no Cleto Marques")   [![Embriaguez: motorista bate em outro carro e é preso ao tentar subornar policiais em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/b/csm_Central_de_Flagrantes__Maceio_-_foto_SSPAL_a09a66da25.jpg)
+Homem é ferido com dois tiros nas nádegas dentro de bar no Cleto Marques](https://www.tnh1.com.br/noticia/nid/homem-e-ferido-com-dois-tiros-nas-nadegas-dentro-de-bar-no-cleto-marques/ "Homem é ferido com dois tiros nas nádegas dentro de bar no Cleto Marques")   [![Embriaguez: motorista bate em outro carro e é preso ao tentar subornar policiais em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/b/csm_Central_de_Flagrantes__Maceio_-_foto_SSPAL_a09a66da25.jpg)
 
 no trapiche
 
-Embriaguez: motorista bate em outro carro e é preso ao tentar subornar policiais em Maceió](https://www.tnh1.com.br/noticia/nid/embriaguez-motorista-bate-em-outro-carro-e-e-preso-ao-tentar-subornar-policiais-em-maceio/ "Embriaguez: motorista bate em outro carro e é preso ao tentar subornar policiais em Maceió")   [![Polícia apreende 23 armas de fogo e mais de 11 kg de drogas em uma semana](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/c/csm_policia-militar-apreende-23-armas-de-fogo-e-mais-de-11-kg-de-drogas-em-uma-semana_04acf29076.jpg)
+Embriaguez: motorista bate em outro carro e é preso ao tentar subornar policiais em Maceió](https://www.tnh1.com.br/noticia/nid/embriaguez-motorista-bate-em-outro-carro-e-e-preso-ao-tentar-subornar-policiais-em-maceio/ "Embriaguez: motorista bate em outro carro e é preso ao tentar subornar policiais em Maceió")   [![Polícia apreende 23 armas de fogo e mais de 11 kg de drogas em uma semana](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/c/csm_policia-militar-apreende-23-armas-de-fogo-e-mais-de-11-kg-de-drogas-em-uma-semana_04acf29076.jpg)
 
 EM ALAGOAS
 
-Polícia apreende 23 armas de fogo e mais de 11 kg de drogas em uma semana](https://www.tnh1.com.br/noticia/nid/policia-apreende-23-armas-de-fogo-e-mais-de-11-kg-de-drogas-em-uma-semana/ "Polícia apreende 23 armas de fogo e mais de 11 kg de drogas em uma semana")   [![Homem é agredido com arma branca ao tentar impedir esposa de bater em filha de 2 anos](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/b/csm_Hospital-Emergencia-Agreste_65ce0a2e9f.png)
+Polícia apreende 23 armas de fogo e mais de 11 kg de drogas em uma semana](https://www.tnh1.com.br/noticia/nid/policia-apreende-23-armas-de-fogo-e-mais-de-11-kg-de-drogas-em-uma-semana/ "Polícia apreende 23 armas de fogo e mais de 11 kg de drogas em uma semana")   [![Homem é agredido com arma branca ao tentar impedir esposa de bater em filha de 2 anos](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/b/csm_Hospital-Emergencia-Agreste_65ce0a2e9f.png)
 
 em arapiraca
 
-Homem é agredido com arma branca ao tentar impedir esposa de bater em filha de 2 anos](https://www.tnh1.com.br/noticia/nid/homem-e-agredido-com-arma-branca-ao-tentar-impedir-esposa-de-bater-em-filha-de-2-anos/ "Homem é agredido com arma branca ao tentar impedir esposa de bater em filha de 2 anos")   [![PM apreende mais de R$8 mil guardados em sacolas debaixo de guarda-roupa, em Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/a/csm_Central_de_Policia_de_Arapiraca_fb9d405eee.jpg)
-
-e um celular
-
-PM apreende mais de R$8 mil guardados em sacolas debaixo de guarda-roupa, em Alagoas](https://www.tnh1.com.br/noticia/nid/pm-apreende-mais-de-r8-mil-guardados-em-sacolas-debaixo-de-guarda-roupa-em-alagoas/ "PM apreende mais de R$8 mil guardados em sacolas debaixo de guarda-roupa, em Alagoas")
+Homem é agredido com arma branca ao tentar impedir esposa de bater em filha de 2 anos](https://www.tnh1.com.br/noticia/nid/homem-e-agredido-com-arma-branca-ao-tentar-impedir-esposa-de-bater-em-filha-de-2-anos/ "Homem é agredido com arma branca ao tentar impedir esposa de bater em filha de 2 anos")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -232,39 +232,39 @@ Empresária que ‘descobriu’ cobras em foto na cachoeira diz que foi alertada
 
 Empresária que ‘descobriu’ cobras em foto na cachoeira diz que foi alertada por seguidor](https://www.tnh1.com.br/noticia/nid/empresaria-que-descobriu-cobras-em-foto-na-cachoeira-diz-que-foi-alertada-por-seguidor/ "Empresária que ‘descobriu’ cobras em foto na cachoeira diz que foi alertada por seguidor")
 
-[![Menino de 6 anos morre atropelado por carro ao andar de bicicleta em São Miguel dos Milagres](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/9/csm_atropelamento-crianca-sao-miguel-milagres-reproducao_d94f511141.jpeg)
+[![Desfile estudantil celebra os 207 anos de Emancipação Política de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/2/csm_desfile-emancipacao-divulgacao_cff1990cd1.jpeg)
 
-Trânsito
+Solenidade
 
-Trânsito
+Solenidade
 
-Menino de 6 anos morre atropelado por carro ao andar de bicicleta em São Miguel dos Milagres
+Desfile estudantil celebra os 207 anos de Emancipação Política de Alagoas
 
-Menino de 6 anos morre atropelado por carro ao andar de bicicleta em São Miguel dos Milagres](https://www.tnh1.com.br/noticia/nid/menino-de-6-anos-morre-atropelado-por-carro-ao-andar-de-bicicleta-em-sao-miguel-dos-milagres/ "Menino de 6 anos morre atropelado por carro ao andar de bicicleta em São Miguel dos Milagres")[![Ator Mário Gomes é despejado da casa onde mora com a família, no RJ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/b/csm_mario-gomes-despejado-residEncia-familia-reporducao-sandro-cardozo-extra_6a15080d97.jpg)
+Desfile estudantil celebra os 207 anos de Emancipação Política de Alagoas](https://www.tnh1.com.br/noticia/nid/desfile-estudantil-celebra-os-207-anos-de-emancipacao-politica-de-alagoas/ "Desfile estudantil celebra os 207 anos de Emancipação Política de Alagoas")[![Brasileiro postou vídeos no carro antes de acidente na França; 4 morreram](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/0/csm_carro-aparece-destruido-em-imagens-1726486862812_v2_750x421.png_53fa4a34d7.jpg)
 
-foi para leilão
+bateu em árvore
 
-foi para leilão
+bateu em árvore
 
-Ator Mário Gomes é despejado da casa onde mora com a família, no RJ
+Brasileiro postou vídeos no carro antes de acidente na França; 4 morreram
 
-Ator Mário Gomes é despejado da casa onde mora com a família, no RJ](https://www.tnh1.com.br/noticia/nid/ator-mario-gomes-e-despejado-da-casa-onde-mora-com-a-familia-no-rj/ "Ator Mário Gomes é despejado da casa onde mora com a família, no RJ")[![Mundo ultrapassa 100 mil casos de Mpox desde 2022, diz OMS](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/8/csm_Mpox_variola_dos_macacos_-_foto_Arquivo_pessoal_73a15ff5a5.jpg)
+Brasileiro postou vídeos no carro antes de acidente na França; 4 morreram](https://www.tnh1.com.br/noticia/nid/brasileiro-postou-videos-no-carro-antes-de-acidente-na-franca-4-morreram/ "Brasileiro postou vídeos no carro antes de acidente na França; 4 morreram")[![Quem é a única filha mulher de Datena que está sendo atacada na web após polêmica envolvendo o pai](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/6/csm_filha-datena-atacada-redes-sociais-reproducao_50bc50fc28.jpg)
 
-Saúde
+35 anos
 
-Saúde
+35 anos
 
-Mundo ultrapassa 100 mil casos de Mpox desde 2022, diz OMS
+Quem é a única filha mulher de Datena que está sendo atacada na web após polêmica envolvendo o pai
 
-Mundo ultrapassa 100 mil casos de Mpox desde 2022, diz OMS](https://www.tnh1.com.br/noticia/nid/mundo-ultrapassa-100-mil-casos-de-mpox-desde-2022-diz-oms/ "Mundo ultrapassa 100 mil casos de Mpox desde 2022, diz OMS")[![Campeão da Champions com Real critica comemoração de Vinicius Jr.](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/c/csm_Vini_Jr_-_foto_Divulgacao_Real_Madrid_13018f4c96.jpg)
+Quem é a única filha mulher de Datena que está sendo atacada na web após polêmica envolvendo o pai](https://www.tnh1.com.br/noticia/nid/quem-e-a-unica-filha-mulher-de-datena-que-esta-sendo-atacada-na-web-apos-polemica-envolvendo-o-pai/ "Quem é a única filha mulher de Datena que está sendo atacada na web após polêmica envolvendo o pai")[![Tripulantes estão desaparecidos após naufrágio de navio de carga em PE](https://tnh1-cdn3.cworks.cloud/fileadmin/user_upload/tnh1/2024/09/16/1_navio_concordia-tripulacao-desparecidos-reproducao-arquivo-pessoal.jpg)
 
-Pedja Mijatovic
+cinco desaparecidos
 
-Pedja Mijatovic
+cinco desaparecidos
 
-Campeão da Champions com Real critica comemoração de Vinicius Jr.
+Tripulantes estão desaparecidos após naufrágio de navio de carga em PE
 
-Campeão da Champions com Real critica comemoração de Vinicius Jr.](https://www.tnh1.com.br/noticia/nid/campeao-da-champions-com-real-critica-comemoracao-de-vinicius-jr/ "Campeão da Champions com Real critica comemoração de Vinicius Jr.")
+Tripulantes estão desaparecidos após naufrágio de navio de carga em PE](https://www.tnh1.com.br/noticia/nid/tripulantes-estao-desaparecidos-apos-naufragio-de-navio-de-carga-em-pe/ "Tripulantes estão desaparecidos após naufrágio de navio de carga em PE")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
