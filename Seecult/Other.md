@@ -322,11 +322,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zampa-di-leone/zampa-di-leone-u-ub-quotsvetozar-markovicquot-47-192008/zampa-ub-sm3.jpg?itok=bUgAjakI)](http://seecult.org/galerija/galerija-umetnika/zampa-di-leone/zampa-di-leone-u-ub-svetozar-markovic-47-192008)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-ilic/dragan-ilic-retribution-odmazda/retribution/odmazda-london/hyde-park-003.jpg?itok=r6tXZIfL)](http://seecult.org/galerija/galerija-umetnika/dragan-ilic/dragan-ilic-retribution-odmazda/retributionodmazda-london)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/okrugli-sto-subversive.jpg?itok=EyKo0_wj)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/pixies.jpg?itok=AgRvUcVc)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -342,6 +342,7 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Pomereni redosled Iljovskog u Legatu Čolaković](http://seecult.org/vest/pomereni-redosled-iljovskog-u-legatu-colakovic)
 * [Kuznjecova gošća EUPL festa](http://seecult.org/vest/kuznjecova-gosca-eupl-festa)
 * [Pripreme za 32. Memorijal Nadežde Petrović](http://seecult.org/vest/pripreme-za-32-memorijal-nadezde-petrovic)
 * [Sećanje na Jagoša Markovića](http://seecult.org/vest/secanje-na-jagosa-markovica)
@@ -351,7 +352,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Očuvanje prirode - spoj etike i estetike na 58. Bitefu](http://seecult.org/vest/ocuvanje-prirode-spoj-etike-i-estetike-na-58-bitefu)
 * [Ostvarenje veličanstvenog sna](http://seecult.org/vest/ostvarenje-velicanstvenog-sna)
 * [Ilija Bosilj u Švajcarskoj](http://seecult.org/vest/ilija-bosilj-u-svajcarskoj)
-* [Slem nije mrtav, samo tako smrdi!](http://seecult.org/vest/slem-nije-mrtav-samo-tako-smrdi)
 
 * [Konkursi](#tab1_1)
 
