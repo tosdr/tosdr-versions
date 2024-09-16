@@ -460,6 +460,33 @@
      Reset Search Search
     
 
+* [Trends & Insights](#)
+    
+    Close
+    
+    Trends & Insights
+    -----------------
+    
+    ![](//assets.equifax.com/marketing/US/images/trends_insights_nav_423x235.jpg)
+    
+    Get the latest trends, understand shifts in the economy, and be ready for what’s next. We combine vast industry knowledge with our differentiated data to bring you insights that power your next move.
+    
+    [Explore Trends & Insights](https://www.equifax.com/business/trends-insights/)
+    
+    ![](//assets.equifax.com/marketing/US/images/trends_insights_nav_423x235.jpg)
+    
+    [Market Pulse](https://www.equifax.com/business/trends-insights/marketpulse/)
+    
+    Market Pulse — your go-to source for everything happening in today's financial landscape. In-depth, relevant, timely market analysis built around differentiated insights you can't get anywhere else.
+    
+    [Market Pulse Credit Trends](https://www.equifax.com/business/trends-insights/market-pulse-credit-trends/)
+    
+    Take a monthly deep dive into the world of consumer, business, and auto credit — from behavioral and performance data to national trends, market conditions, business risk, and more.
+    
+    [Market Pulse Podcast](https://www.equifax.com/business/trends-insights/podcast/)
+    
+    Market Pulse — your go-to source for everything happening in today's financial landscape. In-depth, relevant, timely market analysis built around differentiated insights you can't get anywhere else.
+    
 * [Credit Report Help](#)
     
     Close
