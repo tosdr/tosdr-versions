@@ -26,41 +26,41 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-garvey-1200x630.jpg)](https://americanwirenews.com/trump-delivers-maga-mistake-warning-to-schiffs-gop-senate-opponent-steve-garvey/)
+[![](https://americanwirenews.com/wp-content/uploads/2023/11/SG-Alexander-Vindman-1200x630.jpeg)](https://americanwirenews.com/alexander-vindmans-wife-has-stunningly-evil-response-to-2nd-attempt-on-trumps-life/)
 
-[Trump delivers MAGA ‘mistake’ warning to Schiff’s GOP Senate opponent Steve Garvey](https://americanwirenews.com/trump-delivers-maga-mistake-warning-to-schiffs-gop-senate-opponent-steve-garvey/)
+[Alexander Vindman’s wife has stunningly evil response to 2nd attempt on Trump’s life](https://americanwirenews.com/alexander-vindmans-wife-has-stunningly-evil-response-to-2nd-attempt-on-trumps-life/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-joe-biden-1-1200x630.png)](https://americanwirenews.com/you-dont-talk-to-a-dog-that-way-angry-biden-snaps-at-reporter-who-asks-him-a-question/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-msnbcalex-1200-x-628-1200x630.jpg)](https://americanwirenews.com/msnbc-other-libs-blame-trump-for-second-assassination-attempt/)
 
-[‘You don’t talk to a dog that way’: Angry Biden snaps at reporter who asks him a question](https://americanwirenews.com/you-dont-talk-to-a-dog-that-way-angry-biden-snaps-at-reporter-who-asks-him-a-question/)
+[MSNBC, other libs blame Trump for second assassination attempt](https://americanwirenews.com/msnbc-other-libs-blame-trump-for-second-assassination-attempt/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-janes-addiction-1200x630.jpg)](https://americanwirenews.com/reason-behind-wild-janes-addiction-concert-brawl-revealed/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-donaldjtrump-1200-x-628-1200x630.jpg)](https://americanwirenews.com/i-will-never-surrender-trumps-defiant-message-to-voters-after-second-assassination-attempt/)
 
-[Reason behind WILD Jane’s Addiction concert brawl revealed](https://americanwirenews.com/reason-behind-wild-janes-addiction-concert-brawl-revealed/)
+[‘I will NEVER SURRENDER’: Trump’s defiant message to voters after second assassination attempt](https://americanwirenews.com/i-will-never-surrender-trumps-defiant-message-to-voters-after-second-assassination-attempt/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-harris-1-1200x630.jpg)](https://americanwirenews.com/unprepared-for-office-kamala-harris-comes-off-as-empty-vessel-in-first-solo-interview/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-shooter-djt-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/son-of-attempted-assassin-says-dad-hates-trump-like-all-reasonable-people/)
 
-[‘Unprepared for office’: Kamala Harris comes off as empty vessel in first solo interview](https://americanwirenews.com/unprepared-for-office-kamala-harris-comes-off-as-empty-vessel-in-first-solo-interview/)
+[Son of attempted assassin says dad’s not ‘batsh\*t,’ he hates Trump ‘like every reasonable’ person does](https://americanwirenews.com/son-of-attempted-assassin-says-dad-hates-trump-like-all-reasonable-people/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-hart-house-1200x630.jpg)](https://americanwirenews.com/comedian-kevin-hart-shutters-vegan-fast-food-chain-in-ca-on-heels-of-minimum-wage-hike/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-routh-1200x630.jpg)](https://americanwirenews.com/video-shows-trumps-alleged-would-be-assassin-in-ukraine-playing-a-shocking-roll-in-the-war/)
 
-[Comedian Kevin Hart shutters vegan fast-food chain in CA on heels of minimum wage hike](https://americanwirenews.com/comedian-kevin-hart-shutters-vegan-fast-food-chain-in-ca-on-heels-of-minimum-wage-hike/)
+[Video shows Trump’s alleged would-be assassin in Ukraine playing a shocking role in the war](https://americanwirenews.com/video-shows-trumps-alleged-would-be-assassin-in-ukraine-playing-a-shocking-roll-in-the-war/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-luna-1200x630.jpg)](https://americanwirenews.com/i-know-where-she-lives-anna-paulina-luna-points-to-dem-opponent-over-doxxing-other-threats/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/01/SG-DeSantis-3-1200x630.jpg)](https://americanwirenews.com/the-people-deserve-the-truth-desantis-vows-florida-will-do-own-investigation-of-2nd-trump-assassination-attempt/)
 
-[‘I know where she lives’: Anna Paulina Luna points to Dem opponent over doxxing, other threats](https://americanwirenews.com/i-know-where-she-lives-anna-paulina-luna-points-to-dem-opponent-over-doxxing-other-threats/)
+[‘The people deserve the truth’: DeSantis vows Florida will do own investigation of 2nd Trump assassination attempt](https://americanwirenews.com/the-people-deserve-the-truth-desantis-vows-florida-will-do-own-investigation-of-2nd-trump-assassination-attempt/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-rick-wilson-1200x630.png)](https://americanwirenews.com/trump-wants-someone-to-be-killed-rick-wilson-ups-dangerous-rhetoric-in-backing-haitian-migrants/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-roberts-1200x630.jpg)](https://americanwirenews.com/another-supreme-court-leak-this-time-about-trump-cases/)
 
-[‘Trump wants someone to be killed’: Rick Wilson ups dangerous rhetoric in backing Haitian migrants](https://americanwirenews.com/trump-wants-someone-to-be-killed-rick-wilson-ups-dangerous-rhetoric-in-backing-haitian-migrants/)
+[Another Supreme Court leak, this time about Trump cases](https://americanwirenews.com/another-supreme-court-leak-this-time-about-trump-cases/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-kamala-nytimes-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/ny-times-says-election-results-may-take-days-warns-against-false-impression-of-winner/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-harris-degeneres-1200x630.jpg)](https://americanwirenews.com/clip-of-kamala-joking-about-killing-trump-trends-after-second-assassination-attempt/)
 
-[NY Times says election results may take days, warns against ‘false impression’ of winner](https://americanwirenews.com/ny-times-says-election-results-may-take-days-warns-against-false-impression-of-winner/)
+[Clip of Kamala joking about killing Trump trends after second assassination attempt](https://americanwirenews.com/clip-of-kamala-joking-about-killing-trump-trends-after-second-assassination-attempt/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-danajdvance-1200-x-628-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-harris-2-1200x630.jpg)
 
-### JD Vance humiliates Dana Bash over Haitian migrant story, likens her to ‘Democratic propagandist’](https://americanwirenews.com/jd-vance-humiliates-dana-bash-over-haitian-migrant-story-likens-her-to-democratic-propagandist/)
+### Kamala’s reaction to potential Trump assassination attempt savaged by X users](https://americanwirenews.com/kamalas-reaction-to-potential-trump-assassination-attempt-savaged-by-x-users/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -77,6 +77,56 @@ Search for:
 ### [Free State of Florida advises against ANY use of mRNA COVID-19 vaccine](https://americanwirenews.com/free-state-of-florida-advises-against-any-use-of-mrna-covid-19-vaccine/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/gi-epsteinmug-sg-routh-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/epsteined-trends-on-social-media-as-would-be-trump-assassin-jailed/)
+
+[‘Epsteined’ trends on social media as would-be Trump assassin jailed](https://americanwirenews.com/epsteined-trends-on-social-media-as-would-be-trump-assassin-jailed/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/gettyimages-839998532-220x180.jpg)](https://americanwirenews.com/family-of-inspiration-for-iconic-washington-redskins-logo-wants-his-image-back/)
+
+[Family of inspiration for iconic Washington Redskins logo wants his image back](https://americanwirenews.com/family-of-inspiration-for-iconic-washington-redskins-logo-wants-his-image-back/)
+
+(Getty Images)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-burchett-220x180.jpg)](https://americanwirenews.com/secret-service-is-compromised-says-lawmaker-after-second-trump-assassination-attempt/)
+
+[Secret Service ‘is compromised,’ says lawmaker after second Trump assassination attempt](https://americanwirenews.com/secret-service-is-compromised-says-lawmaker-after-second-trump-assassination-attempt/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-hart-house-220x180.jpg)](https://americanwirenews.com/comedian-kevin-hart-shutters-vegan-fast-food-chain-in-ca-on-heels-of-minimum-wage-hike/)
+
+[Comedian Kevin Hart shutters vegan fast-food chain in CA on heels of minimum wage hike](https://americanwirenews.com/comedian-kevin-hart-shutters-vegan-fast-food-chain-in-ca-on-heels-of-minimum-wage-hike/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-danajdvance-1200-x-628-220x180.jpg)](https://americanwirenews.com/jd-vance-humiliates-dana-bash-over-haitian-migrant-story-likens-her-to-democratic-propagandist/)
+
+[JD Vance humiliates Dana Bash over Haitian migrant story, likens her to ‘Democratic propagandist’](https://americanwirenews.com/jd-vance-humiliates-dana-bash-over-haitian-migrant-story-likens-her-to-democratic-propagandist/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-janes-addiction-220x180.jpg)](https://americanwirenews.com/reason-behind-wild-janes-addiction-concert-brawl-revealed/)
+
+[Reason behind WILD Jane’s Addiction concert brawl revealed](https://americanwirenews.com/reason-behind-wild-janes-addiction-concert-brawl-revealed/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-garvey-220x180.jpg)](https://americanwirenews.com/trump-delivers-maga-mistake-warning-to-schiffs-gop-senate-opponent-steve-garvey/)
+
+[Trump delivers MAGA ‘mistake’ warning to Schiff’s GOP Senate opponent Steve Garvey](https://americanwirenews.com/trump-delivers-maga-mistake-warning-to-schiffs-gop-senate-opponent-steve-garvey/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-joe-biden-1-220x180.png)](https://americanwirenews.com/you-dont-talk-to-a-dog-that-way-angry-biden-snaps-at-reporter-who-asks-him-a-question/)
+
+[‘You don’t talk to a dog that way’: Angry Biden snaps at reporter who asks him a question](https://americanwirenews.com/you-dont-talk-to-a-dog-that-way-angry-biden-snaps-at-reporter-who-asks-him-a-question/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-kamala-nytimes-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/ny-times-says-election-results-may-take-days-warns-against-false-impression-of-winner/)
+
+[NY Times says election results may take days, warns against ‘false impression’ of winner](https://americanwirenews.com/ny-times-says-election-results-may-take-days-warns-against-false-impression-of-winner/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-luna-220x180.jpg)](https://americanwirenews.com/i-know-where-she-lives-anna-paulina-luna-points-to-dem-opponent-over-doxxing-other-threats/)
+
+[‘I know where she lives’: Anna Paulina Luna points to Dem opponent over doxxing, other threats](https://americanwirenews.com/i-know-where-she-lives-anna-paulina-luna-points-to-dem-opponent-over-doxxing-other-threats/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-rick-wilson-220x180.png)](https://americanwirenews.com/trump-wants-someone-to-be-killed-rick-wilson-ups-dangerous-rhetoric-in-backing-haitian-migrants/)
+
+[‘Trump wants someone to be killed’: Rick Wilson ups dangerous rhetoric in backing Haitian migrants](https://americanwirenews.com/trump-wants-someone-to-be-killed-rick-wilson-ups-dangerous-rhetoric-in-backing-haitian-migrants/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-harris-1-220x180.jpg)](https://americanwirenews.com/unprepared-for-office-kamala-harris-comes-off-as-empty-vessel-in-first-solo-interview/)
+
+[‘Unprepared for office’: Kamala Harris comes off as empty vessel in first solo interview](https://americanwirenews.com/unprepared-for-office-kamala-harris-comes-off-as-empty-vessel-in-first-solo-interview/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-beck-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/glenn-beck-says-arena-show-with-energetic-trump-likely-he-is-so-different-since-he-was-shot/)
 
@@ -127,54 +177,6 @@ Image via Dominican Republic National Police
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-tapper-220x180.jpg)](https://americanwirenews.com/cnn-financial-secrets-could-be-exposed-amid-defamation-lawsuit/)
 
 [CNN financial secrets could be exposed amid defamation lawsuit](https://americanwirenews.com/cnn-financial-secrets-could-be-exposed-amid-defamation-lawsuit/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-isis-220x180.jpg)](https://americanwirenews.com/u-s-military-raid-results-in-death-of-four-isis-leaders/)
-
-[U.S. military raid results in death of four ISIS leaders](https://americanwirenews.com/u-s-military-raid-results-in-death-of-four-isis-leaders/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/hunterheadsg-1200-x-628-220x180.jpg)](https://americanwirenews.com/irs-whistleblowers-sue-hunter-bidens-attorney-for-defamation/)
-
-[IRS whistleblowers sue Hunter Biden’s attorney for defamation](https://americanwirenews.com/irs-whistleblowers-sue-hunter-bidens-attorney-for-defamation/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-leonard-leo-220x180.jpg)](https://americanwirenews.com/billionaire-philanthropist-urges-conservatives-to-follow-lefts-blueprint-we-need-to-crush-liberal-dominance/)
-
-[Billionaire philanthropist urges conservatives to follow left’s blueprint: ‘We need to crush liberal dominance’](https://americanwirenews.com/billionaire-philanthropist-urges-conservatives-to-follow-lefts-blueprint-we-need-to-crush-liberal-dominance/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2023/10/SG-NYT-220x180.jpg)](https://americanwirenews.com/nyt-fact-check-of-trump-admits-harris-supports-funding-sex-changes-for-migrants/)
-
-[NYT fact-check of Trump admits Harris supports funding sex changes for migrants](https://americanwirenews.com/nyt-fact-check-of-trump-admits-harris-supports-funding-sex-changes-for-migrants/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-joeblackexcellence-1200-x-628-220x180.jpg)](https://americanwirenews.com/biden-is-big-mad-that-pet-eating-stories-hurt-feelings-of-proud-haitian-american-karine-jean-pierre/)
-
-[Biden is big mad that pet eating stories hurt feelings of ‘proud Haitian American’ Karine Jean-Pierre](https://americanwirenews.com/biden-is-big-mad-that-pet-eating-stories-hurt-feelings-of-proud-haitian-american-karine-jean-pierre/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-kamala-harris-14-220x180.jpg)](https://americanwirenews.com/youre-supporting-a-war-criminal-harris-rally-interrupted-by-anti-israel-supporters/)
-
-[‘You’re supporting a war criminal!’ Harris rally interrupted by anti-Israel supporters](https://americanwirenews.com/youre-supporting-a-war-criminal-harris-rally-interrupted-by-anti-israel-supporters/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-maga-people-220x180.jpg)](https://americanwirenews.com/who-really-are-the-maga-people-rfk-jr-vp-pick-drops-brilliant-satirical-ad-exploring-trump-supporters/)
-
-[‘Who really are the MAGA People?’ RFK Jr. VP pick drops ‘brilliant’ satirical ad exploring Trump supporters](https://americanwirenews.com/who-really-are-the-maga-people-rfk-jr-vp-pick-drops-brilliant-satirical-ad-exploring-trump-supporters/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-kjp-220x180.jpg)](https://americanwirenews.com/kjp-snaps-at-reporter-trying-to-ask-question-not-everybody-wants-to-hear-the-sound-of-your-voice-sir/)
-
-[KJP snaps at reporter trying to ask question: ‘Not everybody wants to hear the sound of your voice, sir’](https://americanwirenews.com/kjp-snaps-at-reporter-trying-to-ask-question-not-everybody-wants-to-hear-the-sound-of-your-voice-sir/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trumptrace-1200-x-628-220x180.jpg)](https://americanwirenews.com/trump-blasts-abc-news-debate-moderator-for-not-fact-checking-kamalas-lies/)
-
-[Trump blasts ABC News debate moderator for not fact-checking Kamala’s lies](https://americanwirenews.com/trump-blasts-abc-news-debate-moderator-for-not-fact-checking-kamalas-lies/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-cnndeniro-1200-x-628-220x180.jpg)](https://americanwirenews.com/pretend-mob-tough-guy-de-niro-whines-that-trumps-a-gangster/)
-
-[Pretend mob tough guy De Niro whines that Trump’s a ‘gangster’](https://americanwirenews.com/pretend-mob-tough-guy-de-niro-whines-that-trumps-a-gangster/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-tulsi-gabbard-220x180.png)](https://americanwirenews.com/tulsi-gabbard-puts-ag-garland-on-the-spot-for-saying-doj-criticism-dangerous-and-outrageous/)
-
-[Tulsi Gabbard puts AG Garland on the spot for saying DOJ criticism ‘dangerous and outrageous’](https://americanwirenews.com/tulsi-gabbard-puts-ag-garland-on-the-spot-for-saying-doj-criticism-dangerous-and-outrageous/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-investor-trump-220x180.jpg)](https://americanwirenews.com/investor-says-trumps-tax-cuts-wouldve-paid-for-themselves-by-2022-gives-last-chance-warning/)
-
-[Investor says Trump’s tax cuts ‘would’ve paid for themselves by 2022’, gives ‘last chance’ warning](https://americanwirenews.com/investor-says-trumps-tax-cuts-wouldve-paid-for-themselves-by-2022-gives-last-chance-warning/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
