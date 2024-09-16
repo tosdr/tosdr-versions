@@ -299,53 +299,53 @@
 
 [Все новости](https://er.ru/activity/news)
 
-[![«Единая Россия» организовала в Тюмени сессию «Женской политшколы» для 2 тысяч активисток](https://cdn.er.ru/media/news/September2024/34e7wXyg9gja3Rw77IPa-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-organizovala-v-tyumeni-sessiyu-zhenskoj-politshkoly-dlya-2-tysyach-aktivistok)
+[![«Единая Россия» и МГЕР помогают пострадавшим от пожаров жителям ЛНР](https://cdn.er.ru/media/news/September2024/QCpwjmOp3Uh7dfU1HdyM-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-i-mger-pomogayut-postradavshim-ot-pozharov-zhitelyam-lnr)
 
-[«Единая Россия» организовала в Тюмени сессию «Женской политшколы» для 2 тысяч активисток](https://er.ru/activity/news/edinaya-rossiya-organizovala-v-tyumeni-sessiyu-zhenskoj-politshkoly-dlya-2-tysyach-aktivistok)
+[«Единая Россия» и МГЕР помогают пострадавшим от пожаров жителям ЛНР](https://er.ru/activity/news/edinaya-rossiya-i-mger-pomogayut-postradavshim-ot-pozharov-zhitelyam-lnr)
 
-[#Тюменская область](https://er.ru/activity/news?tags%5B0%5D=784) [#партпроект](https://er.ru/activity/news?tags%5B0%5D=632) [#ЖенскоеДвижениеЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1093396) [#женскаяполитшкола](https://er.ru/activity/news?tags%5B0%5D=1095004) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Лантратова](https://er.ru/activity/news?tags%5B0%5D=1607) [#Полуянова](https://er.ru/activity/news?tags%5B0%5D=11309) [#Моор](https://er.ru/activity/news?tags%5B0%5D=19355) [#Минченко](https://er.ru/activity/news?tags%5B0%5D=10209) [#Стулова](https://er.ru/activity/news?tags%5B0%5D=1094161) [#Потуремский](https://er.ru/activity/news?tags%5B0%5D=118710)
+[#Луганская Народная Республика](https://er.ru/activity/news?tags%5B0%5D=126130) [#пожары](https://er.ru/activity/news?tags%5B0%5D=165) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=38581) [#МолодаяГвардияЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1094676) [#МолодаяГвардия](https://er.ru/activity/news?tags%5B0%5D=106617) [#поддержка](https://er.ru/activity/news?tags%5B0%5D=519) [#Голубович](https://er.ru/activity/news?tags%5B0%5D=1093502) [#Водолацкий](https://er.ru/activity/news?tags%5B0%5D=8468)
 
-10.09.24
+Сегодня 19:30
 
-[![Алексей Чеснаков: «Единая Россия» создаёт монополию в повестке](https://cdn.er.ru/media/news/September2024/FDxHutnyw8YTQrlYC4rc-small.jfif)](https://er.ru/activity/news/aleksej-chesnakov-edinaya-rossiya-sozdayot-monopoliyu-v-povestke)
+[![МГЕР и «Волонтёрская Рота» продолжают гуманитарную миссию в Рыльском районе Курской области](https://cdn.er.ru/media/news/September2024/x2A9RZ47Yaw7KdUHYTDG-small.jpg)](https://er.ru/activity/news/mger-i-volontyorskaya-rota-prodolzhayut-gumanitarnuyu-missiyu-v-rylskom-rajone-kurskoj-oblasti)
 
-[Алексей Чеснаков: «Единая Россия» создаёт монополию в повестке](https://er.ru/activity/news/aleksej-chesnakov-edinaya-rossiya-sozdayot-monopoliyu-v-povestke)
+[МГЕР и «Волонтёрская Рота» продолжают гуманитарную миссию в Рыльском районе Курской области](https://er.ru/activity/news/mger-i-volontyorskaya-rota-prodolzhayut-gumanitarnuyu-missiyu-v-rylskom-rajone-kurskoj-oblasti)
 
-[#Чеснаков](https://er.ru/activity/news?tags%5B0%5D=3656) [#выборы2024](https://er.ru/activity/news?tags%5B0%5D=1095001) [#ЕДГ2024](https://er.ru/activity/news?tags%5B0%5D=1095607) [#избирательнаякампания](https://er.ru/activity/news?tags%5B0%5D=109648) [#кандидатыЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=108739) [#голосование](https://er.ru/activity/news?tags%5B0%5D=188)
+[#Курская область](https://er.ru/activity/news?tags%5B0%5D=579) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#МолодаяГвардия](https://er.ru/activity/news?tags%5B0%5D=106617) [#ВолонтерскаяРота](https://er.ru/activity/news?tags%5B0%5D=131631) [#помощьвоеннослужащим](https://er.ru/activity/news?tags%5B0%5D=1093164) [#сборгумпомощи](https://er.ru/activity/news?tags%5B0%5D=1093180) [#гумпомощь](https://er.ru/activity/news?tags%5B0%5D=8562) [#гуманитарнаямиссия](https://er.ru/activity/news?tags%5B0%5D=1092899) [#Потапов](https://er.ru/activity/news?tags%5B0%5D=19123)
 
-10.09.24
+Сегодня 18:13
 
-[![На портале «Единой России» и Минцифры «Я в России» появилась инструкция о подключении газа](https://cdn.er.ru/media/news/September2024/7kT2fnb0P7tvb0GG04lZ-small.jpg)](https://er.ru/activity/news/na-portale-edinoj-rossii-i-mincifry-ya-v-rossii-poyavilas-instrukciya-o-podklyuchenii-gaza)
+[![Более 4,5 тысяч волонтёров МГЕР и «Волонтёрской Роты» прошли через гуманитарную миссию в новых регионах](https://cdn.er.ru/media/news/September2024/QsvOArL5p1ZhRiymlzHS-small.jpg)](https://er.ru/activity/news/bolee-4-5-tysyach-volontyorov-mger-i-volontyorskoj-roty-proshli-cherez-gumanitarnuyu-missiyu-v-novyh-regionah)
 
-[На портале «Единой России» и Минцифры «Я в России» появилась инструкция о подключении газа](https://er.ru/activity/news/na-portale-edinoj-rossii-i-mincifry-ya-v-rossii-poyavilas-instrukciya-o-podklyuchenii-gaza)
+[Более 4,5 тысяч волонтёров МГЕР и «Волонтёрской Роты» прошли через гуманитарную миссию в новых регионах](https://er.ru/activity/news/bolee-4-5-tysyach-volontyorov-mger-i-volontyorskoj-roty-proshli-cherez-gumanitarnuyu-missiyu-v-novyh-regionah)
 
-[#Минцифра](https://er.ru/activity/news?tags%5B0%5D=145375) [#Луганская Народная Республика](https://er.ru/activity/news?tags%5B0%5D=126130) [#Херсонская область](https://er.ru/activity/news?tags%5B0%5D=1093586) [#Запорожская область](https://er.ru/activity/news?tags%5B0%5D=1093589) [#Донецкая Народная Республика](https://er.ru/activity/news?tags%5B0%5D=60937) [#газификация](https://er.ru/activity/news?tags%5B0%5D=2145) [#догазификация](https://er.ru/activity/news?tags%5B0%5D=1094666) [#порталы](https://er.ru/activity/news?tags%5B0%5D=49541)
+[#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#волонтерскаярота](https://er.ru/activity/news?tags%5B0%5D=1090569) [#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#волонтерство](https://er.ru/activity/news?tags%5B0%5D=19443) [#гуманитарнаямиссия](https://er.ru/activity/news?tags%5B0%5D=1092899)
 
-10.09.24
+Сегодня 16:28
 
-[![Константин Костин: Успехи «Единой России» на этих региональных выборах дают серьёзное основание говорить, что меняется политический ландшафт](https://cdn.er.ru/media/news/September2024/fONVKDj1FyMCkBraaHII-small.jpg)](https://er.ru/activity/news/konstantin-kostin-uspehi-edinoj-rossii-na-etih-regionalnyh-vyborah-dayut-seryoznoe-osnovanie-govorit-chto-menyaetsya-politicheskij-landshaft)
+[![Анна Кузнецова: За неделю приёмов граждан по вопросам правовой поддержки в «Единую Россию» обратились более 10 тысяч человек](https://cdn.er.ru/media/news/September2024/BEtvvuqDiBymQ7ak4r4C-small.jfif)](https://er.ru/activity/news/anna-kuznecova-za-nedelyu-priyomov-grazhdan-po-voprosam-pravovoj-podderzhki-v-edinuyu-rossiyu-obratilis-bolee-10-tysyach-chelovek)
 
-[Константин Костин: Успехи «Единой России» на этих региональных выборах дают серьёзное основание говорить, что меняется политический ландшафт](https://er.ru/activity/news/konstantin-kostin-uspehi-edinoj-rossii-na-etih-regionalnyh-vyborah-dayut-seryoznoe-osnovanie-govorit-chto-menyaetsya-politicheskij-landshaft)
+[Анна Кузнецова: За неделю приёмов граждан по вопросам правовой поддержки в «Единую Россию» обратились более 10 тысяч человек](https://er.ru/activity/news/anna-kuznecova-za-nedelyu-priyomov-grazhdan-po-voprosam-pravovoj-podderzhki-v-edinuyu-rossiyu-obratilis-bolee-10-tysyach-chelovek)
 
-[#Костин](https://er.ru/activity/news?tags%5B0%5D=4508) [#ФоРГО](https://er.ru/activity/news?tags%5B0%5D=1095744) [#выборы2024](https://er.ru/activity/news?tags%5B0%5D=1095001) [#ЕДГ2024](https://er.ru/activity/news?tags%5B0%5D=1095607) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#ДальнийВосток](https://er.ru/activity/news?tags%5B0%5D=97564) [#Москва](https://er.ru/activity/news?tags%5B0%5D=255) [#избиратели](https://er.ru/activity/news?tags%5B0%5D=122173)
+[#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#неделяприемов](https://er.ru/activity/news?tags%5B0%5D=113281) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#правоваяподдержка](https://er.ru/activity/news?tags%5B0%5D=1092958) [#Воронежская область](https://er.ru/activity/news?tags%5B0%5D=1166) [#Чеченская Республика](https://er.ru/activity/news?tags%5B0%5D=1090169)
 
-10.09.24
+Сегодня 16:00
 
-[![Александр Асафов: «Единая Россия» уделила особое внимание наблюдению за ДЭГ в Москве](https://cdn.er.ru/media/news/September2024/lzAC90daMGSyFv6UqZpI-small.jfif)](https://er.ru/activity/news/aleksandr-asafov-edinaya-rossiya-udelila-osoboe-vnimanie-nablyudeniyu-za-deg-v-moskve)
+[![Владимир Якушев: Ключевая задача «Единой России» в осеннюю сессию – работа над бюджетом и отражением в нём положений народной программы партии](https://cdn.er.ru/media/news/September2024/STJhaqu39gBMb53mj95a-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-klyuchevaya-zadacha-edinoj-rossii-v-osennyuyu-sessiyu-rabota-nad-byudzhetom-i-otrazheniem-v-nyom-polozhenij-narodnoj-programmy-partii)
 
-[Александр Асафов: «Единая Россия» уделила особое внимание наблюдению за ДЭГ в Москве](https://er.ru/activity/news/aleksandr-asafov-edinaya-rossiya-udelila-osoboe-vnimanie-nablyudeniyu-za-deg-v-moskve)
+[Владимир Якушев: Ключевая задача «Единой России» в осеннюю сессию – работа над бюджетом и отражением в нём положений народной программы партии](https://er.ru/activity/news/vladimir-yakushev-klyuchevaya-zadacha-edinoj-rossii-v-osennyuyu-sessiyu-rabota-nad-byudzhetom-i-otrazheniem-v-nyom-polozhenij-narodnoj-programmy-partii)
 
-[#ЕДГ2024](https://er.ru/activity/news?tags%5B0%5D=1095607) [#Асафов](https://er.ru/activity/news?tags%5B0%5D=150628) [#выборы2024](https://er.ru/activity/news?tags%5B0%5D=1095001) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#политолог](https://er.ru/activity/news?tags%5B0%5D=178)
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#осенняясессия](https://er.ru/activity/news?tags%5B0%5D=121119) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#социальныеинициативы](https://er.ru/activity/news?tags%5B0%5D=140070)
 
-10.09.24
+Сегодня 14:10
 
-[![Сергей Перминов: Результаты «Единой России» на выборах-2024 накладывают на неё серьёзный груз ответственности](https://cdn.er.ru/media/news/September2024/iwR5DOvfZYgE2PcccygI-small.jpg)](https://er.ru/activity/news/sergej-perminov-rezultaty-edinoj-rossii-na-vyborah-2024-nakladyvayut-na-neyo-seryoznyj-gruz-otvetstvennosti)
+[![Владимир Васильев: Фракция «Единой России» единогласно поддержала включение в состав фракции Виктории Абрамченко, Олега Матыцина и Николая Шульгинова](https://cdn.er.ru/media/news/September2024/3Nv9xCwW1I0FU8r3NiEw-small.jpg)](https://er.ru/activity/news/vladimir-vasilev-frakciya-edinoj-rossii-edinoglasno-podderzhala-vklyuchenie-v-sostav-frakcii-viktorii-abramchenko-olega-matycina-i-nikolaya-shulginova)
 
-[Сергей Перминов: Результаты «Единой России» на выборах-2024 накладывают на неё серьёзный груз ответственности](https://er.ru/activity/news/sergej-perminov-rezultaty-edinoj-rossii-na-vyborah-2024-nakladyvayut-na-neyo-seryoznyj-gruz-otvetstvennosti)
+[Владимир Васильев: Фракция «Единой России» единогласно поддержала включение в состав фракции Виктории Абрамченко, Олега Матыцина и Николая Шульгинова](https://er.ru/activity/news/vladimir-vasilev-frakciya-edinoj-rossii-edinoglasno-podderzhala-vklyuchenie-v-sostav-frakcii-viktorii-abramchenko-olega-matycina-i-nikolaya-shulginova)
 
-[#Перминов](https://er.ru/activity/news?tags%5B0%5D=79338) [#круглыйстол](https://er.ru/activity/news?tags%5B0%5D=108586) [#ФоРГО](https://er.ru/activity/news?tags%5B0%5D=1095744) [#выборы2024](https://er.ru/activity/news?tags%5B0%5D=1095001) [#ЕДГ2024](https://er.ru/activity/news?tags%5B0%5D=1095607)
+[#Васильев](https://er.ru/activity/news?tags%5B0%5D=947) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#ФракцияЕР](https://er.ru/activity/news?tags%5B0%5D=1090016)
 
-10.09.24
+Сегодня 14:05
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
