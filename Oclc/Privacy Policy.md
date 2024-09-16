@@ -254,9 +254,7 @@ Our Hosted Services include: Integrated Library Systems, such as the WorldShare 
 
 [![OCLC logo](/content/legal/en_us/_jcr_content/footer/footer_262d/par/parsyscolumncontrol_/col0/image.img.png/1707940274451.png "footer-logo")](https://policies.oclc.org/en/home.html)
 
-[© 2024 OCLC](https://policies.oclc.org/en/copyright.html "Read the OCLC copyright policy")
-
-[Domestic and international trademarks and/or service marks of OCLC, Inc. and its affiliates](https://policies.oclc.org/en/copyright/trademarks.html "View the OCLC and Affiliate Trademarks and Service Marks")
+[© 2024 OCLC](https://policies.oclc.org/en/copyright.html "Read the OCLC copyright policy")  [Domestic and international trademarks and/or service marks of OCLC, Inc. and its affiliates](https://policies.oclc.org/en/copyright/trademarks.html "View the OCLC and Affiliate Trademarks and Service Marks")
 
 * [Privacy statement](https://policies.oclc.org/en/privacy/privacy-statement.html)
 * [Cookie notice](https://policies.oclc.org/en/privacy/cookie-statement.html)
