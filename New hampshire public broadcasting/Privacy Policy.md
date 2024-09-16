@@ -184,15 +184,15 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 ###### LATEST VIDEO
 
+* [**September 15, 2024 - PBS News Weekend full episode** | PBS News Hour](https://video.nhpbs.org/video/september-15-2024-pbs-news-weekend-full-episode-1726415221?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**"South Korea's Adoption Reckoning" - Preview** | FRONTLINE](https://video.nhpbs.org/video/south-koreas-adoption-reckoning-preview?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Silence in Sikeston Witnesses to a Lynching** | Local, USA](https://video.nhpbs.org/video/local-usa-silence-in-sikeston-witnesses-to-a-lynching-cleo-wright?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Extended Trailer** | Citizen Nation](https://video.nhpbs.org/video/extended-trailer-pmmrpz?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**September 12, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/september-12-2024-pbs-news-hour-full-episode-1726113601?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**GOP Sen. Rand Paul On Why He Hasn't Endorsed Trump** | Amanpour and Company](https://video.nhpbs.org/video/gop-sen-rand-paul-on-why-he-hasnt-endorsed-trump-jnbfo8?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**What Happened to the Hole in the Ozone Layer?** | NOVA](https://video.nhpbs.org/video/what-happened-to-the-hole-in-the-ozone-layer-eby3nw?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**The Truth about Black Banks and the Racial Wealth Gap** | In the Margins](https://video.nhpbs.org/video/the-truth-about-black-banks-and-the-racial-wealth-gap-via3fm?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**His Three Daughters** | Flicks](https://video.nhpbs.org/video/his-three-daughters-m6bxtp?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**NATURE - Season 43** | Nature](https://video.nhpbs.org/video/nature-season-43-preview?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Asmik Grigorian performs "Un bel di"** | Great Performances](https://video.nhpbs.org/video/asmik-grigorian-performs-un-bel-di-7q7ciy?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Episode 1: Safe in Amsterdam: Part 1** | Van der Valk](https://video.nhpbs.org/video/episode-1-safe-in-amsterdam-part-1-octqxm?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Vetting Candidates** | The State We're In](https://video.nhpbs.org/video/vetting-candidates-laf8jc?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Kevin Hassett** | Firing Line](https://video.nhpbs.org/video/kevin-hassett-u7vonu?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**full episode, 9/13/24** | Washington Week with The Atlantic](https://video.nhpbs.org/video/washington-week-with-the-atlantic-full-episode-91324-3cnurw?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**TTC Extra: Who Will Win - Trump or Harris?** | To The Contrary](https://video.nhpbs.org/video/ttc-extra-who-will-win-trump-or-harris-z9tj3p?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**September 13, 2024** | Amanpour and Company](https://video.nhpbs.org/video/september-13-2024-lmepnj?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
