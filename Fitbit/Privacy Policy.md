@@ -32,7 +32,7 @@ Next
 Fitbit Privacy Policy
 =====================
 
-Last update: August 2, 2024
+Last update: September 16, 2024
 
 **Note**: If you use your Fitbit devices and services with a Google Account, then your data will be handled as described in the [Google Privacy Policy](https://policies.google.com/privacy), and as explained in more detail in these [FAQs on Privacy](https://support.google.com/product-documentation/answer/13532616).
 
@@ -170,11 +170,7 @@ We keep your account information, like your name, email address, and password, f
 
 ### ANALYTICS AND ADVERTISING SERVICES PROVIDED BY OTHERS
 
-We appreciate the importance of taking additional measures to protect children’s privacy.
-
-Fitbit allows parents to set up accounts for their children to use with select Fitbit devices (“Children’s Account”). Children’s Accounts are subject to a separate Privacy Policy for Children’s Accounts which explains what information we collect to set up these accounts, what information we collect from a child’s use of our Services, and how we use and share that information. Parents or guardians must consent to the use of their child’s data in accordance with the Privacy Policy for Children’s Accounts in order to create such an account.
-
-Persons under the age of 13, or any higher minimum age in the jurisdiction where that person resides, are not permitted to create accounts unless their parent has consented in accordance with applicable law. If we learn that we have collected the personal information of a child under the relevant minimum age without parental consent, we will take steps to delete the information as soon as possible. Parents who believe that their child has submitted personal information to us and would like to have it deleted may contact us at privacy@fitbit.com.
+We work with partners who provide us with analytics and advertising services. This includes helping us understand how users interact with the Services, serving advertisements on our behalf across the internet, and measuring the performance of those advertisements. These companies may use cookies and similar technologies to collect information about your interactions with the Services and other websites and applications. To learn more and about your privacy choices, please read our Cookie Use statement.
 
 ### OUR POLICIES FOR CHILDREN
 
@@ -198,7 +194,7 @@ We rely on multiple legal bases to lawfully transfer personal data to third coun
 
 [European Commission’s](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en), the [United Kingdom’s](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/international-transfers/international-transfers-a-guide/#adequacy) and [Switzerland’s](https://www.edoeb.admin.ch/edoeb/en/home/datenschutz/arbeit_wirtschaft/datenuebermittlung_ausland.html) Adequacy Decisions.
 
-2\. EU-U.S. Data Privacy Framework  
+2\. EU-U.S. and Swiss-U.S. Data Privacy Frameworks, and the UK Extension to the EU-U.S. DPF.  
 As described in this [Data Privacy Framework certification](https://www.dataprivacyframework.gov/s/participant-search/participant-detail?id=a2zt000000001L5AAI&status=Active0000001L5AAI&status=Active&hl=en_US), Fitbit LLC complies with the EU-U.S. and Swiss-U.S. Data Privacy Frameworks (DPF) and the UK Extension to the EU-U.S. DPF as set forth by the US Department of Commerce regarding the collection, use and retention of personal information from the EEA, Switzerland and the UK, respectively. Fitbit LLC has certified that it adheres to the DPF Principles through Google LLC and remains responsible for any of your personal information that is shared under the Onward Transfer Principle with third parties for external processing on Fitbit’s behalf, as described in the “How Information is Shared” section of our Privacy Policy. To learn more about the DPF, and to view the certification, please visit the [DPF website](https://www.dataprivacyframework.gov/s/?hl=en_US).
 
 If you have an inquiry regarding our privacy practices in relation to Fitbit’s DPF certification, we encourage you to contact us. Fitbit is subject to the investigatory and enforcement powers of the US Federal Trade Commission. You may also refer a complaint to your local data protection authority and we will work with them to resolve your concern. In certain circumstances, the DPF provides the right to invoke binding arbitration to resolve complaints not resolved by other means, as described in [Annex I to the DPF Principles](https://www.dataprivacyframework.gov/s/article/ANNEX-I-introduction-dpf?tabset-35584=2&hl=en_US).
@@ -432,7 +428,7 @@ Google apps
 
 Main menu
 
-4666458327242680060
+15327827762290599281
 
 true
 
