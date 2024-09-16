@@ -113,7 +113,7 @@ Regras do Clube do Hardware
 **Por [Gabriel Torres](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/ "Ir ao perfil de Gabriel Torres")**  
 10 de novembro de 2021 em [Avisos da administração](https://www.clubedohardware.com.br/forums/forum/9-avisos-da-administra%C3%A7%C3%A3o/)
 
- [Compartilhar](#elShareItem_1127789338_menu)
+ [Compartilhar](#elShareItem_168431759_menu)
 
 * [](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")[](https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no Facebook")
@@ -324,7 +324,7 @@ Mais opções...
 
 Este tópico está impedido de receber novas respostas.
 
- [Compartilhar](#elShareItem_353857746_menu)
+ [Compartilhar](#elShareItem_1494503116_menu)
 
 * [](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")[](https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no Facebook")
@@ -365,105 +365,105 @@ Mais opções...
 
 * ### Últimos tópicos
     
-    * [![Potsu](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1221723.thumb.jpeg.01675a94cf6ac49d36b30fe918dfe358.jpeg)](https://www.clubedohardware.com.br/profile/1221723-potsu/ "Ir ao perfil de Potsu")
+    * [![Pincipi](https://www.clubedohardware.com.br/uploads/members/monthly_2018_08/fotomenor.thumb.jpg.9b1050f4d485ee4e568147530b248874.jpg)](https://www.clubedohardware.com.br/profile/437891-pincipi/ "Ir ao perfil de Pincipi")
+        
+        1
+        
+        [HL1202 imprimindo folha em branco e comprada como sucata com defeito](https://www.clubedohardware.com.br/forums/topic/1697563-hl1202-imprimindo-folha-em-branco-e-comprada-como-sucata-com-defeito/?do=getNewComment "HL1202 imprimindo folha em branco e comprada como sucata com defeito")
+        
+        [Impressoras, scanners e multifuncionais](https://www.clubedohardware.com.br/forums/forum/27-impressoras-scanners-e-multifuncionais/ "Impressoras, scanners e multifuncionais")  
+        Por [Pincipi](https://www.clubedohardware.com.br/profile/437891-pincipi/ "Ir ao perfil de Pincipi")  
+        31 minutos atrás
+        
+    * [![Andreas Karl](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c46862%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EAK%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/971065-andreas-karl/ "Ir ao perfil de Andreas Karl")
         
         0
+        
+        [Adaptador para carregamento wireless](https://www.clubedohardware.com.br/forums/topic/1697562-adaptador-para-carregamento-wireless/?do=getNewComment "Adaptador para carregamento wireless")
+        
+        [Eletrônica](https://www.clubedohardware.com.br/forums/forum/30-eletr%C3%B4nica/ "Eletrônica")  
+        Por [Andreas Karl](https://www.clubedohardware.com.br/profile/971065-andreas-karl/ "Ir ao perfil de Andreas Karl")  
+        42 minutos atrás
+        
+    * [![Sandersvayu](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253112.thumb.jpeg.8b4c6fa2ac3ae7e3286fdcbecf9e2356.jpeg)](https://www.clubedohardware.com.br/profile/1253112-sandersvayu/ "Ir ao perfil de Sandersvayu")
+        
+        1
+        
+        [Adaptador VGA para Displayport.](https://www.clubedohardware.com.br/forums/topic/1697561-adaptador-vga-para-displayport/?do=getNewComment "Adaptador VGA para Displayport.")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Sandersvayu](https://www.clubedohardware.com.br/profile/1253112-sandersvayu/ "Ir ao perfil de Sandersvayu")  
+        46 minutos atrás
+        
+    * [![Gabriel_Viana](https://www.clubedohardware.com.br/uploads/members/monthly_2017_01/kakashi-image-kakashi-36593778-900-506.thumb.jpg.53b1e4d7165663c9877aaf94f49ff5bb.jpg)](https://www.clubedohardware.com.br/profile/799119-gabriel_viana/ "Ir ao perfil de Gabriel_Viana")
+        
+        0
+        
+        [Recomendação de Soundbar pra TV até 1.400 Reais](https://www.clubedohardware.com.br/forums/topic/1697560-recomenda%C3%A7%C3%A3o-de-soundbar-pra-tv-at%C3%A9-1400-reais/?do=getNewComment "Recomendação de Soundbar pra TV até 1.400 Reais")
+        
+        [Caixas de som, fones, microfones e headsets](https://www.clubedohardware.com.br/forums/forum/144-caixas-de-som-fones-microfones-e-headsets/ "Caixas de som, fones, microfones e headsets")  
+        Por [Gabriel\_Viana](https://www.clubedohardware.com.br/profile/799119-gabriel_viana/ "Ir ao perfil de Gabriel_Viana")  
+        1 hora atrás
+        
+    * [![leomitasz](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1252673.thumb.png.64125dfd825d411aeca8bf994a91a4d2.png)](https://www.clubedohardware.com.br/profile/1252673-leomitasz/ "Ir ao perfil de leomitasz")
+        
+        2
+        
+        [Gabinete Gamer Corsair iCUE 4000X é bom?](https://www.clubedohardware.com.br/forums/topic/1697559-gabinete-gamer-corsair-icue-4000x-%C3%A9-bom/?do=getNewComment "Gabinete Gamer Corsair iCUE 4000X é bom?")
+        
+        [Gabinetes e casemod](https://www.clubedohardware.com.br/forums/forum/81-gabinetes-e-casemod/ "Gabinetes e casemod")  
+        Por [leomitasz](https://www.clubedohardware.com.br/profile/1252673-leomitasz/ "Ir ao perfil de leomitasz")  
+        2 horas atrás
+        
+    * [![Éric Nilson](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1237762.thumb.jpeg.445e0ee11169ed1882b0d252f2889129.jpeg)](https://www.clubedohardware.com.br/profile/1237762-%C3%A9ric-nilson/ "Ir ao perfil de Éric Nilson")
+        
+        3
+        
+        [windows 10 notebook asus x451ca-bral-vx155h](https://www.clubedohardware.com.br/forums/topic/1697558-windows-10-notebook-asus-x451ca-bral-vx155h/?do=getNewComment "windows 10 notebook asus x451ca-bral-vx155h")
+        
+        [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
+        Por [Éric Nilson](https://www.clubedohardware.com.br/profile/1237762-%C3%A9ric-nilson/ "Ir ao perfil de Éric Nilson")  
+        2 horas atrás
+        
+    * [![Viggs](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253147.thumb.png.8ffcaa1c51c204fcdba31966c7457b7e.png)](https://www.clubedohardware.com.br/profile/1253147-viggs/ "Ir ao perfil de Viggs")
+        
+        3
+        
+        [Será que vale a pena esperar essa BLACK FRIDAY para comprar GPU?](https://www.clubedohardware.com.br/forums/topic/1697557-ser%C3%A1-que-vale-a-pena-esperar-essa-black-friday-para-comprar-gpu/?do=getNewComment "Será que vale a pena esperar essa BLACK FRIDAY para comprar GPU?")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Viggs](https://www.clubedohardware.com.br/profile/1253147-viggs/ "Ir ao perfil de Viggs")  
+        2 horas atrás
+        
+    * [![ofcgab](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253188.thumb.png.8d786e8c9155bc5bbec3a98cc1fc018d.png)](https://www.clubedohardware.com.br/profile/1253188-ofcgab/ "Ir ao perfil de ofcgab")
+        
+        1
+        
+        [notebook liga e desliga infinitamente](https://www.clubedohardware.com.br/forums/topic/1697556-notebook-liga-e-desliga-infinitamente/?do=getNewComment "notebook liga e desliga infinitamente")
+        
+        [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
+        Por [ofcgab](https://www.clubedohardware.com.br/profile/1253188-ofcgab/ "Ir ao perfil de ofcgab")  
+        3 horas atrás
+        
+    * [![Joao Vitor Coveiro](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1248916.thumb.jpeg.9353e2d009e430402282d30afc563e65.jpeg)](https://www.clubedohardware.com.br/profile/1248916-joao-vitor-coveiro/ "Ir ao perfil de Joao Vitor Coveiro")
+        
+        5
+        
+        [Uma fonte de 450w de boa qualidade aguenta essas config?](https://www.clubedohardware.com.br/forums/topic/1697555-uma-fonte-de-450w-de-boa-qualidade-aguenta-essas-config/?do=getNewComment "Uma fonte de 450w de boa qualidade aguenta essas config?")
+        
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [Joao Vitor Coveiro](https://www.clubedohardware.com.br/profile/1248916-joao-vitor-coveiro/ "Ir ao perfil de Joao Vitor Coveiro")  
+        3 horas atrás
+        
+    * [![Potsu](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1221723.thumb.jpeg.01675a94cf6ac49d36b30fe918dfe358.jpeg)](https://www.clubedohardware.com.br/profile/1221723-potsu/ "Ir ao perfil de Potsu")
+        
+        3
         
         [É saudável um processador ficar ficar entre 70-100% de uso em jogos pesados?](https://www.clubedohardware.com.br/forums/topic/1697554-%C3%A9-saud%C3%A1vel-um-processador-ficar-ficar-entre-70-100-de-uso-em-jogos-pesados/?do=getNewComment "É saudável um processador ficar ficar entre 70-100% de uso em jogos pesados?")
         
         [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
         Por [Potsu](https://www.clubedohardware.com.br/profile/1221723-potsu/ "Ir ao perfil de Potsu")  
-        7 minutos atrás
-        
-    * [![ratodeskate144p](https://www.clubedohardware.com.br/uploads/members/monthly_2021_10/126501781_ndice.thumb.jpg.ee5f7461dbd4a400dda05518b954c4db.jpg)](https://www.clubedohardware.com.br/profile/1113801-ratodeskate144p/ "Ir ao perfil de ratodeskate144p")
-        
-        0
-        
-        [Avaliem minha ideia de upgrade](https://www.clubedohardware.com.br/forums/topic/1697553-avaliem-minha-ideia-de-upgrade/?do=getNewComment "Avaliem minha ideia de upgrade")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [ratodeskate144p](https://www.clubedohardware.com.br/profile/1113801-ratodeskate144p/ "Ir ao perfil de ratodeskate144p")  
-        13 minutos atrás
-        
-    * [![Pedroou](https://www.clubedohardware.com.br/uploads/members/monthly_2024_05/20240524_161658.thumb.jpg.0468877279d50da901b3c6541da65102.jpg)](https://www.clubedohardware.com.br/profile/1200385-pedroou/ "Ir ao perfil de Pedroou")
-        
-        0
-        
-        [Recomendação de TV Full HD ou QHD em torno de R$ 1.000](https://www.clubedohardware.com.br/forums/topic/1697552-recomenda%C3%A7%C3%A3o-de-tv-full-hd-ou-qhd-em-torno-de-r-1000/?do=getNewComment "Recomendação de TV Full HD ou QHD em torno de R$ 1.000")
-        
-        [Televisores e projetores](https://www.clubedohardware.com.br/forums/forum/193-televisores-e-projetores/ "Televisores e projetores")  
-        Por [Pedroou](https://www.clubedohardware.com.br/profile/1200385-pedroou/ "Ir ao perfil de Pedroou")  
-        25 minutos atrás
-        
-    * [![dmnk](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1236053.thumb.jpeg.b10edeb3692d03b7c7c96be3636d72f7.jpeg)](https://www.clubedohardware.com.br/profile/1236053-dmnk/ "Ir ao perfil de dmnk")
-        
-        1
-        
-        [LG UltraGear 144hz é o melhor na faixa de preço para jogos competitivos?](https://www.clubedohardware.com.br/forums/topic/1697551-lg-ultragear-144hz-%C3%A9-o-melhor-na-faixa-de-pre%C3%A7o-para-jogos-competitivos/?do=getNewComment "LG UltraGear 144hz é o melhor na faixa de preço para jogos competitivos?")
-        
-        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
-        Por [dmnk](https://www.clubedohardware.com.br/profile/1236053-dmnk/ "Ir ao perfil de dmnk")  
-        1 hora atrás
-        
-    * [![CloudZ](https://www.clubedohardware.com.br/uploads/members/monthly_2020_01/nuvem.thumb.jpg.32636c106e3f348d435e64213dd6ae23.jpg)](https://www.clubedohardware.com.br/profile/859044-cloudz/ "Ir ao perfil de CloudZ")
-        
-        1
-        
-        [Core i7 12700k com uma GeForce RTX 4070 TI Super vai dar gargalo?](https://www.clubedohardware.com.br/forums/topic/1697550-core-i7-12700k-com-uma-geforce-rtx-4070-ti-super-vai-dar-gargalo/?do=getNewComment "Core i7 12700k com uma GeForce RTX 4070 TI Super vai dar gargalo?")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [CloudZ](https://www.clubedohardware.com.br/profile/859044-cloudz/ "Ir ao perfil de CloudZ")  
-        1 hora atrás
-        
-    * [![jonas joao](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253182.thumb.png.55a97f6648270ade8ad8e79c9656684d.png)](https://www.clubedohardware.com.br/profile/1253182-jonas-joao/ "Ir ao perfil de jonas joao")
-        
-        0
-        
-        [que computador eu consigo montar até R$3000,00?](https://www.clubedohardware.com.br/forums/topic/1697549-que-computador-eu-consigo-montar-at%C3%A9-r300000/?do=getNewComment "que computador eu consigo montar até R$3000,00?")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [jonas joao](https://www.clubedohardware.com.br/profile/1253182-jonas-joao/ "Ir ao perfil de jonas joao")  
-        1 hora atrás
-        
-    * [![Pincipi](https://www.clubedohardware.com.br/uploads/members/monthly_2018_08/fotomenor.thumb.jpg.9b1050f4d485ee4e568147530b248874.jpg)](https://www.clubedohardware.com.br/profile/437891-pincipi/ "Ir ao perfil de Pincipi")
-        
-        0
-        
-        [Recuperando mais uma sucata de LH1202, não liga, não testada, no estado.](https://www.clubedohardware.com.br/forums/topic/1697548-recuperando-mais-uma-sucata-de-lh1202-n%C3%A3o-liga-n%C3%A3o-testada-no-estado/?do=getNewComment "Recuperando mais uma sucata de LH1202, não liga, não testada, no estado.")
-        
-        [Impressoras, scanners e multifuncionais](https://www.clubedohardware.com.br/forums/forum/27-impressoras-scanners-e-multifuncionais/ "Impressoras, scanners e multifuncionais")  
-        Por [Pincipi](https://www.clubedohardware.com.br/profile/437891-pincipi/ "Ir ao perfil de Pincipi")  
-        1 hora atrás
-        
-    * [![SpeedTi](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1251817.thumb.png.3e05c121ab92fea4b491e502a9b6ecc5.png)](https://www.clubedohardware.com.br/profile/1251817-speedti/ "Ir ao perfil de SpeedTi")
-        
-        4
-        
-        [Indicação de water cooler para um Ryzen 5 5500](https://www.clubedohardware.com.br/forums/topic/1697547-indica%C3%A7%C3%A3o-de-water-cooler-para-um-ryzen-5-5500/?do=getNewComment "Indicação de water cooler para um Ryzen 5 5500")
-        
-        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [SpeedTi](https://www.clubedohardware.com.br/profile/1251817-speedti/ "Ir ao perfil de SpeedTi")  
-        1 hora atrás
-        
-    * [![Cristian_SSP](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253180.thumb.png.776fd4c3aafdfe0907b6122af0f41f9d.png)](https://www.clubedohardware.com.br/profile/1253180-cristian_ssp/ "Ir ao perfil de Cristian_SSP")
-        
-        0
-        
-        [Como desbloquear Xbox 360 slin RGA](https://www.clubedohardware.com.br/forums/topic/1697546-como-desbloquear-xbox-360-slin-rga/?do=getNewComment "Como desbloquear Xbox 360 slin RGA")
-        
-        [Consoles (videogames)](https://www.clubedohardware.com.br/forums/forum/84-consoles-videogames/ "Consoles (videogames)")  
-        Por [Cristian\_SSP](https://www.clubedohardware.com.br/profile/1253180-cristian_ssp/ "Ir ao perfil de Cristian_SSP")  
-        2 horas atrás
-        
-    * [![Yan Tolentino](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c48f%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EYT%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/783707-yan-tolentino/ "Ir ao perfil de Yan Tolentino")
-        
-        2
-        
-        [Recomendações de Water Cooler custo/benefício para Intel Core i7-13700KF e i7-14](https://www.clubedohardware.com.br/forums/topic/1697544-recomenda%C3%A7%C3%B5es-de-water-cooler-custobenef%C3%ADcio-para-intel-core-i7-13700kf-e-i7-14/?do=getNewComment "Recomendações de Water Cooler custo/benefício para Intel Core i7-13700KF e i7-14")
-        
-        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [Yan Tolentino](https://www.clubedohardware.com.br/profile/783707-yan-tolentino/ "Ir ao perfil de Yan Tolentino")  
-        2 horas atrás
+        4 horas atrás
         
     
 
@@ -624,10 +624,10 @@ Clube do Hardware [Powered by Invision Community](https://www.invisioncommunity.
 
 * Criar novo...
 
-[![Ebook grátis: Aprenda a ler resistores e capacitores!](https://www.clubedohardware.com.br/uploads/attachments/monthly_2021_01/Aprenda_a_Ler_Resistores_e_Capacitores-capa-3d-newsletter.thumb.jpg.8e89ae55e5231cd11f4fddb26b4d3aeb.jpg)](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
+[![GRÁTIS: ebook Redes Wi-Fi – 2ª Edição](https://www.clubedohardware.com.br/uploads/attachments/monthly_2023_04/redes-wifi2-capa-popup.jpg.808b72677a2bc3ea7b77c0c66fe6308b.jpg)](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
 
 **EBOOK GRÁTIS!**
 
-[**CLIQUE AQUI E BAIXE AGORA MESMO!**](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
+[**CLIQUE AQUI E BAIXE AGORA MESMO!**](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
 
 ![](https://www.facebook.com/tr?id=1945334499261173&ev=PageView&cd%5Bitem_id%5D=690576&cd%5Bitem_name%5D=Regras+do+Clube+do+Hardware&cd%5Bitem_type%5D=topic&cd%5Bcategory_name%5D=Avisos da administração)
