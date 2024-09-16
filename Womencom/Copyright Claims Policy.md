@@ -43,47 +43,143 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Taylor Swift looking shocked](https://www.women.com/img/gallery/5-taylor-swift-award-show-outfits-that-totally-missed-the-mark/intro-1725634973.jpg)](https://www.women.com/1658902/taylor-swift-outfits-totally-missed-the-mark/)
+*  [![Katie Holmes on the red carpet](https://www.women.com/img/gallery/katie-holmes-style-transformation-from-dawsons-creek-to-nyc/intro-1725914096.jpg)](https://www.women.com/1662919/katie-holmes-style-transformation/)
     
     [Fashion](https://www.women.com/category/fashion/)
     
     [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
     
-    [5 Taylor Swift Award Show Outfits That Totally Missed The Mark](https://www.women.com/1658902/taylor-swift-outfits-totally-missed-the-mark/)
-    =============================================================================================================================================
+    [Katie Holmes' Style Transformation From Dawson's Creek To NYC](https://www.women.com/1662919/katie-holmes-style-transformation/)
+    =================================================================================================================================
     
-    Taylor Swift has rocked some stunning looks on the red carpet, but not all her outfits have been on-point. These award show styles missed the mark.
+    Since the '90s, Katie Holmes has been known for her simple, classic style. Here is how her fashion has evolved through the years.
     
-    By Emily Hutchinson [Read More](https://www.women.com/1658902/taylor-swift-outfits-totally-missed-the-mark/)
+    By Emily Hutchinson [Read More](https://www.women.com/1662919/katie-holmes-style-transformation/)
     
-* *  [![four moms standing](https://www.women.com/img/gallery/momcozy-brings-comfort-and-community-to-new-mothers/intro-1725665058.jpg)](https://www.women.com/1659435/momcozy-ultimate-motherhood-community/)
+* *  [![The Bouqs on Shark Tank](https://www.women.com/img/gallery/heres-what-went-down-with-the-bouqs-company-after-shark-tank/intro-1726244208.jpg)](https://www.women.com/1664226/what-went-down-with-the-bouqs-company-after-shark-tan/)
         
         [Living](https://www.women.com/category/living/)
         
-        [Living](https://www.women.com/category/living/) By Savanna Swain-Wilson
+        [Living](https://www.women.com/category/living/) By Bernadette Roe
         
-        ### [Momcozy Is Bringing You The Ultimate Motherhood Community](https://www.women.com/1659435/momcozy-ultimate-motherhood-community/)
+        ### [Here's What Went Down With The Bouqs Company After Shark Tank](https://www.women.com/1664226/what-went-down-with-the-bouqs-company-after-shark-tan/)
         
-        Whether you're a first time mom or on baby number three, motherhood comes with challenges. Thankfully, MomCozy is here to help every step of the way.
+        Who knew that a flower business would be one of the most successful companies to appear on Shark Tank?
         
-        By Savanna Swain-Wilson [Read More](https://www.women.com/1659435/momcozy-ultimate-motherhood-community/)
+        By Bernadette Roe [Read More](https://www.women.com/1664226/what-went-down-with-the-bouqs-company-after-shark-tan/)
         
-    *  [![Kate Middleton with Meghan Markle](https://www.women.com/img/gallery/royal-family-outfits-that-were-beyond-controversial/intro-1725492073.jpg)](https://www.women.com/1658112/royal-family-outfits-beyond-controversial/)
+    *  [![Jennifer Aniston with a milky frenc manicure](https://www.women.com/img/gallery/whats-a-milky-french-manicure-how-do-you-get-the-chic-nail-look-loved-by-celebs/intro-1726169448.jpg)](https://www.women.com/1663642/milky-french-manicure-nail-look-explained/)
         
-        [Fashion](https://www.women.com/category/fashion/)
+        [Beauty](https://www.women.com/category/beauty/)
         
-        [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+        [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
         
-        ### [Royal Family Outfits That Were Beyond Controversial](https://www.women.com/1658112/royal-family-outfits-beyond-controversial/)
+        ### [What's A Milky French Manicure & How Do You Get The Chic Nail Look Loved By Celebs?](https://www.women.com/1663642/milky-french-manicure-nail-look-explained/)
         
-        The royal family is known for keeping up a polished and demure appearance, but that doesn't mean they haven't occasionally gone off-script with their outfits.
+        Across TikTok, we're embracing the cleanest version of our favorite mani -- milky French nails. We asked a nail artist exactly how to get the diffuse look.
         
-        By Emily Hutchinson [Read More](https://www.women.com/1658112/royal-family-outfits-beyond-controversial/)
+        By Emily Hutchinson [Read More](https://www.women.com/1663642/milky-french-manicure-nail-look-explained/)
         
 
 More Stories
 ------------
 
+*  [![Selena Gomez](https://www.women.com/img/gallery/selena-gomezs-choice-to-avoid-high-risk-pregnancy-shows-us-another-way-of-prioritizing-motherhood/intro-1726081971.jpg)](https://www.women.com/1662558/celebs-honest-about-fertility-struggles/)
+    
+    [Politics](https://www.women.com/category/politics/)
+    
+    [Politics](https://www.women.com/category/politics/) By Amanda Chatel
+    
+    ### [Selena Gomez's Choice To Avoid High-Risk Pregnancy Shows Us Another Way Of Prioritizing Motherhood](https://www.women.com/1662558/celebs-honest-about-fertility-struggles/)
+    
+    There are of millions of people pursuing alternative methods for having children, and Selena Gomez is proudly one of them.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1662558/celebs-honest-about-fertility-struggles/)
+    
+*  [![jennifer lopez and ben affleck](https://www.women.com/img/gallery/jennifer-lopez-and-ben-afflecks-divorce-explained-with-astrology/intro-1726079301.jpg)](https://www.women.com/1662476/jennifer-lopez-ben-affleck-divorce-astrology/)
+    
+    [Living](https://www.women.com/category/living/)
+    
+    [Living](https://www.women.com/category/living/) By Amanda Chatel
+    
+    ### [Jennifer Lopez And Ben Affleck's Divorce, Explained With Astrology](https://www.women.com/1662476/jennifer-lopez-ben-affleck-divorce-astrology/)
+    
+    Jennifer Lopez and Ben Affleck lasted another two years before announcing their impending divorce. How does astrology help explain the split?
+    
+    By Amanda Chatel [Read More](https://www.women.com/1662476/jennifer-lopez-ben-affleck-divorce-astrology/)
+    
+*  [![Looking at phone](https://www.women.com/img/gallery/your-guide-to-the-toxic-submarining-dating-trend/intro-1725989793.jpg)](https://www.women.com/1661378/guide-toxic-submarining-dating-trend/)
+    
+    [Exclusives](https://www.women.com/category/exclusives/)
+    
+    [Exclusives](https://www.women.com/category/exclusives/) By Amanda Chatel
+    
+    ### [Your Guide To The Toxic Submarining Dating Trend](https://www.women.com/1661378/guide-toxic-submarining-dating-trend/)
+    
+    One might think that we as a society have evolved past all the problematic dating trends. But we haven't. Enter: submarining.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1661378/guide-toxic-submarining-dating-trend/)
+    
+*  [![kamala harris](https://www.women.com/img/gallery/the-bold-messaging-behind-kamala-harris-most-talked-about-outfits-revealed/intro-1726156394.jpg)](https://www.women.com/1663437/chic-kamala-harris-presidential-looks/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
+    
+    ### [The Bold Messaging Behind Kamala Harris' Most-Talked About Outfits Revealed](https://www.women.com/1663437/chic-kamala-harris-presidential-looks/)
+    
+    Throughout her 2024 presidential campaign, Kamala Harris has been seen wearing pantsuits of many different colors. Here's what they could mean.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1663437/chic-kamala-harris-presidential-looks/)
+    
+*  [![Katy Perry smiling](https://www.women.com/img/gallery/5-katy-perry-outfits-that-completely-missed-the-mark/intro-1725983199.jpg)](https://www.women.com/1661177/katy-perry-outfits-didnt-work/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+    
+    ### [5 Katy Perry Outfits That Completely Missed The Mark](https://www.women.com/1661177/katy-perry-outfits-didnt-work/)
+    
+    Katy Perry isn't one to shy away from a fashion risk. But while those risks often pay off, sometimes, she really misses the mark.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1661177/katy-perry-outfits-didnt-work/)
+    
+*  [![Person smiling on roof](https://www.women.com/img/gallery/boy-sober-what-it-means-and-why-you-should-try-the-trend/intro-1725916117.jpg)](https://www.women.com/1660708/boy-sober-explained-try-trend/)
+    
+    [Relationships](https://www.women.com/category/relationships/)
+    
+    [Relationships](https://www.women.com/category/relationships/) By Amanda Chatel
+    
+    ### ['Boy Sober': What It Means And Why You Should Try The Trend](https://www.women.com/1660708/boy-sober-explained-try-trend/)
+    
+    As dating app fatigue has begun to skyrocket and men continue to disappoint, some women are turning to a new mindset: boy sobriety.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1660708/boy-sober-explained-try-trend/)
+    
+*  [![Taylor Swift with Travis Kelce](https://www.women.com/img/gallery/taylor-swifts-style-transformation-since-she-began-dating-travis-kelce/intro-1725988785.jpg)](https://www.women.com/1661410/taylor-swift-style-transformation-since-dating-travis-kelce/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+    
+    ### [Taylor Swift's Style Transformation Since She Began Dating Travis Kelce](https://www.women.com/1661410/taylor-swift-style-transformation-since-dating-travis-kelce/)
+    
+    Taylor Swift's style has undergone significant shifts since she started dating Kansas City Chiefs player Travis Kelce, with more sporty and sophisticated looks.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1661410/taylor-swift-style-transformation-since-dating-travis-kelce/)
+    
+*  [![Zendaya at an event](https://www.women.com/img/gallery/5-times-zendaya-went-makeup-free-and-looked-absolutely-stunning/intro-1725896054.jpg)](https://www.women.com/1660205/zendaya-makeup-free-stunning/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Bernadette Roe
+    
+    ### [5 Times Zendaya Went Makeup Free And Looked Absolutely Stunning](https://www.women.com/1660205/zendaya-makeup-free-stunning/)
+    
+    Our girl Zendaya can pull out all the stops when it comes to getting glam, but she can also rock a no makeup look like nobody else.
+    
+    By Bernadette Roe [Read More](https://www.women.com/1660205/zendaya-makeup-free-stunning/)
+    
 *  [![Sydney Sweeney on the red carpet](https://www.women.com/img/gallery/sydney-sweeneys-style-transformation-over-the-years/intro-1725561569.jpg)](https://www.women.com/1658266/sydney-sweeney-style-transformation/)
     
     [Fashion](https://www.women.com/category/fashion/)
@@ -96,6 +192,18 @@ More Stories
     
     By Emily Hutchinson [Read More](https://www.women.com/1658266/sydney-sweeney-style-transformation/)
     
+*  [![Taylor Swift looking shocked](https://www.women.com/img/gallery/5-taylor-swift-award-show-outfits-that-totally-missed-the-mark/intro-1725634973.jpg)](https://www.women.com/1658902/taylor-swift-outfits-totally-missed-the-mark/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+    
+    ### [5 Taylor Swift Award Show Outfits That Totally Missed The Mark](https://www.women.com/1658902/taylor-swift-outfits-totally-missed-the-mark/)
+    
+    Taylor Swift has rocked some stunning looks on the red carpet, but not all her outfits have been on-point. These award show styles missed the mark.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1658902/taylor-swift-outfits-totally-missed-the-mark/)
+    
 *  [![Blake Lively and Ryan Reynolds on the red carpet](https://www.women.com/img/gallery/the-red-flags-in-blake-lively-ryan-reynolds-relationship-we-just-cant-ignore/intro-1725638968.jpg)](https://www.women.com/1658984/red-flags-blake-lively-ryan-reynolds-relationship-just-cant-ignore/)
     
     [Relationships](https://www.women.com/category/relationships/)
@@ -107,6 +215,18 @@ More Stories
     Blake Lively and Ryan Reynolds are the Hollywood it couple, but their relationship may not be as perfect it seems. We can't ignore these red flags.
     
     By Emily Hutchinson [Read More](https://www.women.com/1658984/red-flags-blake-lively-ryan-reynolds-relationship-just-cant-ignore/)
+    
+*  [![four moms standing](https://www.women.com/img/gallery/momcozy-brings-comfort-and-community-to-new-mothers/intro-1725665058.jpg)](https://www.women.com/1659435/momcozy-ultimate-motherhood-community/)
+    
+    [Living](https://www.women.com/category/living/)
+    
+    [Living](https://www.women.com/category/living/) By Savanna Swain-Wilson
+    
+    ### [Momcozy Is Bringing You The Ultimate Motherhood Community](https://www.women.com/1659435/momcozy-ultimate-motherhood-community/)
+    
+    Whether you're a first time mom or on baby number three, motherhood comes with challenges. Thankfully, MomCozy is here to help every step of the way.
+    
+    By Savanna Swain-Wilson [Read More](https://www.women.com/1659435/momcozy-ultimate-motherhood-community/)
     
 *  [![Princess Diana at event](https://www.women.com/img/gallery/the-royal-fashion-rules-princess-diana-never-followed/intro-1725571493.jpg)](https://www.women.com/1658470/royal-fashion-rules-princess-diana-didnt-follow/)
     
@@ -131,6 +251,18 @@ More Stories
     Even if your brain is rife with dirty kinks and desires you want to explore, trying to find the words and typing them out is a whole other story.
     
     By Amanda Chatel [Read More](https://www.women.com/1658423/how-to-sext-awkward-sex/)
+    
+*  [![Kate Middleton with Meghan Markle](https://www.women.com/img/gallery/royal-family-outfits-that-were-beyond-controversial/intro-1725492073.jpg)](https://www.women.com/1658112/royal-family-outfits-beyond-controversial/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+    
+    ### [Royal Family Outfits That Were Beyond Controversial](https://www.women.com/1658112/royal-family-outfits-beyond-controversial/)
+    
+    The royal family is known for keeping up a polished and demure appearance, but that doesn't mean they haven't occasionally gone off-script with their outfits.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1658112/royal-family-outfits-beyond-controversial/)
     
 *  [![Zoe Kravitz blonde pixie](https://www.women.com/img/gallery/5-celebrity-pixie-cuts-to-inspire-your-next-super-short-haircut/intro-1725472100.jpg)](https://www.women.com/1657110/celebrity-pixie-cuts-inspire-super-short-haircut/)
     
@@ -275,138 +407,6 @@ More Stories
     Meghan Markle knows she can bring a lot of attention to companies that may not have gotten their big break yet. That's just one of the reasons we love her.
     
     By Emily Hutchinson [Read More](https://www.women.com/1654425/meghan-markle-surprising-method-avoiding-outdated-trends-couldnt-be-more-simple/)
-    
-*  [![Hailey Bieber at an event](https://www.women.com/img/gallery/5-short-hair-trends-hailey-bieber-has-rocked/intro-1724990887.jpg)](https://www.women.com/1653905/short-hair-trends-hailey-bieber-rocked/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Bernadette Roe
-    
-    ### [6 Short Hair Trends Hailey Bieber Has Rocked](https://www.women.com/1653905/short-hair-trends-hailey-bieber-rocked/)
-    
-    Hailey Bieber has put short hair on the map. From French bobs to mini waves, here are the short hair trends the socialite has slayed.
-    
-    By Bernadette Roe [Read More](https://www.women.com/1653905/short-hair-trends-hailey-bieber-rocked/)
-    
-*  [![Looking at phone](https://www.women.com/img/gallery/the-burned-haystack-online-dating-method-explained/intro-1725034777.jpg)](https://www.women.com/1654248/burned-haystack-dating-method-explained/)
-    
-    [Relationships](https://www.women.com/category/relationships/)
-    
-    [Relationships](https://www.women.com/category/relationships/) By Amanda Chatel
-    
-    ### [The Burned Haystack Online Dating Method, Explained](https://www.women.com/1654248/burned-haystack-dating-method-explained/)
-    
-    What's the quickest way to find a needle in a haystack? Well, you burn the whole haystack down. Now apply that to online dating.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1654248/burned-haystack-dating-method-explained/)
-    
-*  [![Chappell Roan performing](https://www.women.com/img/gallery/chappell-roan-is-stunning-without-her-dramatic-stage-makeup/intro-1724947455.jpg)](https://www.women.com/1653310/chappell-roan-stunning-without-stage-makeup/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
-    
-    ### [Chappell Roan Is Stunning Without Her Dramatic Stage Makeup](https://www.women.com/1653310/chappell-roan-stunning-without-stage-makeup/)
-    
-    Chappell Roan may be the queen of theatrical makeup, but the Midwest Princess is even more radiant when she keeps things "Casual."
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1653310/chappell-roan-stunning-without-stage-makeup/)
-    
-*  [![Simone Biles doing makeup](https://www.women.com/img/gallery/simone-biles-is-ushering-in-a-new-era-for-pressed-powders-heres-how-to-use-them-best/intro-1724873705.jpg)](https://www.women.com/1652668/simone-biles-new-era-pressed-powders-how-use-best/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
-    
-    ### [Simone Biles Is Ushering In A New Era For Pressed Powders — Here's How To Use Them Best](https://www.women.com/1652668/simone-biles-new-era-pressed-powders-how-use-best/)
-    
-    It's a new era for pressed powders, and icons like Simone Biles and Selena Gomez are highlighting just how essential these staples can be.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1652668/simone-biles-new-era-pressed-powders-how-use-best/)
-    
-*  [![Raygun breakdancing](https://www.women.com/img/gallery/2024-celeb-inspired-halloween-costumes-every-pop-culture-lover-will-recognize/intro-1724862652.jpg)](https://www.women.com/1652390/pop-culture-celeb-inspired-halloween-costumes-specific-to-2024/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
-    
-    ### [2024 Celeb-Inspired Halloween Costumes Every Pop Culture Lover Will Recognize](https://www.women.com/1652390/pop-culture-celeb-inspired-halloween-costumes-specific-to-2024/)
-    
-    It's been an interesting year for pop culture, and when people in the public eye behave bizarrely, badly, or wonderfully, it gives us major Halloween fodder.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1652390/pop-culture-celeb-inspired-halloween-costumes-specific-to-2024/)
-    
-*  [![Taylor Swift and Brittany Mahomes at football game](https://www.women.com/img/gallery/swift-vs-mahomes/intro-1724951543.jpg)](https://www.women.com/1653462/taylor-swift-brittany-mahomes-trump-scandal-exposes-painfuly-reality-friendship/)
-    
-    [News](https://www.women.com/category/news/)
-    
-    [News](https://www.women.com/category/news/) By Savanna Swain-Wilson
-    
-    ### [Taylor Swift And Brittany Mahomes' Trump Scandal Exposes A Painful Truth About Friendship](https://www.women.com/1653462/taylor-swift-brittany-mahomes-trump-scandal-exposes-painfuly-reality-friendship/)
-    
-    After Brittany Mahomes doubled down on her political posts, many fans are wondering if her friendship with Taylor Swift is all that it seems.
-    
-    By Savanna Swain-Wilson [Read More](https://www.women.com/1653462/taylor-swift-brittany-mahomes-trump-scandal-exposes-painfuly-reality-friendship/)
-    
-*  [![Mikki Bey speaking](https://www.women.com/img/gallery/heres-what-went-down-with-mikki-bey-eyelash-extensions-after-shark-tank/intro-1724942357.jpg)](https://www.women.com/1653165/what-went-down-mikki-bey-eyelash-extensions-after-shark-tank/)
-    
-    [Living](https://www.women.com/category/living/)
-    
-    [Living](https://www.women.com/category/living/) By Emily Hutchinson
-    
-    ### [Here's What Went Down With Mikki Bey Eyelash Extensions After Shark Tank](https://www.women.com/1653165/what-went-down-mikki-bey-eyelash-extensions-after-shark-tank/)
-    
-    Although the pitch for Mikki Bey Eyelash Extensions didn't go according to plan, it didn't stop the founder from pursuing her dreams.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1653165/what-went-down-mikki-bey-eyelash-extensions-after-shark-tank/)
-    
-*  [![sabrina carpenter at loewe show](https://www.women.com/img/gallery/heres-exactly-how-to-nail-sabrina-carpenters-signature-baby-doll-blush-look/intro-1724783905.jpg)](https://www.women.com/1652631/how-nail-sabrina-carpenter-baby-doll-blush-look/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
-    
-    ### [Here's Exactly How To Nail Sabrina Carpenter's Signature Baby Doll Blush Look](https://www.women.com/1652631/how-nail-sabrina-carpenter-baby-doll-blush-look/)
-    
-    The queen of coquette Sabrina Carpenter has captivated the world with her porcelain doll blush. We asked a makeup artist how to achieve the youthful look.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1652631/how-nail-sabrina-carpenter-baby-doll-blush-look/)
-    
-*  [![Zendaya's garden nails](https://www.women.com/img/gallery/how-to-take-zendaya-and-kylie-jenners-garden-inspired-manicures-into-fall/intro-1724866448.jpg)](https://www.women.com/1651817/how-nail-zendaya-kylie-jenner-garden-inspired-manicures/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Savanna Swain-Wilson
-    
-    ### [How To Take Zendaya And Kylie Jenner's Garden-Inspired Manicures Into Fall](https://www.women.com/1651817/how-nail-zendaya-kylie-jenner-garden-inspired-manicures/)
-    
-    From vegetable press-ons to harvest colored polish, summer's garden manicure trend is getting a much-needed seasonal twist for fall 2024.
-    
-    By Savanna Swain-Wilson [Read More](https://www.women.com/1651817/how-nail-zendaya-kylie-jenner-garden-inspired-manicures/)
-    
-*  [![Couple getting intimate](https://www.women.com/img/gallery/the-latest-sex-toy-trend-promises-more-inclusive-intimacy/intro-1724709774.jpg)](https://www.women.com/1650937/latest-sex-toy-trend-more-inclusive-intimacy/)
-    
-    [Sex](https://www.women.com/category/sex-life/)
-    
-    [Sex](https://www.women.com/category/sex-life/) By Rebecca Potters
-    
-    ### [The Latest Sex Toy Trend Promises More Inclusive Intimacy](https://www.women.com/1650937/latest-sex-toy-trend-more-inclusive-intimacy/)
-    
-    Whether you're dealing with mobility issues, pain, or have a mental proclivity toward soft sensations, squishy sex toys suit a variety of needs.
-    
-    By Rebecca Potters [Read More](https://www.women.com/1650937/latest-sex-toy-trend-more-inclusive-intimacy/)
-    
-*  [![sabrina carpenter](https://www.women.com/img/gallery/sabrina-carpenter-is-stunning-with-no-makeup-her-natural-wavy-hair/intro-1724687291.jpg)](https://www.women.com/1650498/sabrina-carpenter-stunning-no-makeup-natural-wavy-hair/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
-    
-    ### [Sabrina Carpenter Is Stunning With No Makeup & Her Natural Wavy Hair](https://www.women.com/1650498/sabrina-carpenter-stunning-no-makeup-natural-wavy-hair/)
-    
-    Sabrina Carpenter is known for doll-like beauty, but that doesn't mean the star is always full glam. Here are times she stunned with her natural hair and face.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1650498/sabrina-carpenter-stunning-no-makeup-natural-wavy-hair/)
     
 
 Back
