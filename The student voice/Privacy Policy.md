@@ -21,7 +21,6 @@ Search for:
     * [News](https://www.thestudentvoice.co.uk/news/)
     * [Press](https://www.thestudentvoice.co.uk/in-the-press/)
     * [Webinar](https://www.thestudentvoice.co.uk/cs-webinar/)
-    * [Tutorials](https://www.thestudentvoice.co.uk/resources-for-schools/)
     * [FAQs](https://www.thestudentvoice.co.uk/faq/)
     * [Pricing](https://www.thestudentvoice.co.uk/pricing/)
     * [Contact](https://www.thestudentvoice.co.uk/contact/)
@@ -43,7 +42,6 @@ Search for:
     * [News](https://www.thestudentvoice.co.uk/news/)
     * [Press](https://www.thestudentvoice.co.uk/in-the-press/)
     * [Webinar](https://www.thestudentvoice.co.uk/cs-webinar/)
-    * [Tutorials](https://www.thestudentvoice.co.uk/resources-for-schools/)
     * [FAQs](https://www.thestudentvoice.co.uk/faq/)
     * [Pricing](https://www.thestudentvoice.co.uk/pricing/)
     * [Contact](https://www.thestudentvoice.co.uk/contact/)
@@ -424,6 +422,6 @@ We try to respond to all legitimate requests within one month. Occasionally it m
 
 [Page load link](#)
 
-![Cleantalk Pixel](https://moderate4-v4.cleantalk.org/pixel/2113d9a048fc9b6b83632b57dc1f5bb9.gif)                                                                        
+![Cleantalk Pixel](https://moderate4-v4.cleantalk.org/pixel/ad1078c8117b3422932cb2fa4fafc241.gif)                                                                        
 
 [Go to Top](#)
