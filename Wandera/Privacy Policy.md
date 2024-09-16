@@ -127,7 +127,7 @@ Toggle Navigation
     
     [Login to Jamf Partner Hub](https://partners.jamf.com/prm/auth/70d5b4b5-6690-4547-85ab-29a39707497d/oauth2/login)
     
-    [Explore more](https://www.wandera.com/partners/for-partners-new/)
+    [Explore more](https://www.wandera.com/partners/for-partners/)
     
     **Become a partner**
     
@@ -445,7 +445,7 @@ Jamf’s purpose is to simplify work by helping organizations manage and secure 
 
 ### [Partners](https://www.wandera.com/partners/)
 
-* [For partners](https://www.wandera.com/partners/for-partners-new/)
+* [For partners](https://www.wandera.com/partners/for-partners/)
 * [Become a partner](https://www.wandera.com/partners/become-a-partner/)
 * [Buy from a partner](https://www.wandera.com/partners/directory/)
 * [Marketplace](https://marketplace.jamf.com/)
