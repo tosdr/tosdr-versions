@@ -25,6 +25,7 @@ Search SPLC
 * [Hate Map](https://www.splcenter.org/hate-map)
     * [Hate Group Flyering Map](https://splcenter.org/flyering)
 * [Donate](https://secure.splcenter.org/page/64745/donate/1)
+* [Seen Us on TV?](https://secure.splcenter.org/page/73006/donate/1)
 * [Search](https://www.splcenter.org/resources)
 
 * [Instagram](https://www.instagram.com/splcenter)
@@ -217,15 +218,6 @@ The Websites are controlled and operated from its facilities in the United State
 **Assignment**
 
 These Terms, and any rights and licenses granted hereunder, may not be transferred or assigned by you, but may be assigned by SPLC without restriction. Any attempted transfer or assignment in violation hereof shall be null and void.
-
-![2023 Year in Hate and Extremism - Pop-up Image](https://www.splcenter.org/sites/default/files/2023_yihe_lightbox.jpg)
-
-Close donation prompt
-
-The Year in Hate & Extremism 2023
----------------------------------
-
-We tracked 1,430 hate and extremist groups in 2023. Hate has no place in our country. [Add your name to help us fight hate.](https://secure.splcenter.org/page/68072/subscribe/1)
 
 ![](https://d21y75miwcfqoq.cloudfront.net/718da443)
 
