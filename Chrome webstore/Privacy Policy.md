@@ -75,7 +75,7 @@ Looking to change your privacy settings?
 
 [Take the Privacy Check-Up](https://myaccount.google.com/privacycheckup?utm_source=pp&utm_medium=Promo-in-product&utm_campaign=pp_intro&hl=en_GB)
 
-Effective 28 March 2024 | [Archived versions](https://policies.google.com/privacy/archive?hl=en-GB) | [Download PDF](https://www.gstatic.com/policies/privacy/pdf/20240328/kqt85t47/google_privacy_policy_en-GB_us.pdf)
+Effective 16 September 2024 | [Archived versions](https://policies.google.com/privacy/archive?hl=en-GB) | [Download PDF](https://www.gstatic.com/policies/privacy/pdf/20240916/pe84lsmf/google_privacy_policy_en-GB_us.pdf)
 
 Contents
 --------
@@ -604,6 +604,7 @@ The following privacy notices provide additional information about some Google s
 
 * [Payments](https://payments.google.com/legaldocument?family=0.privacynotice&hl=en-GB)
 * [Fiber](https://fiber.google.com/legal/privacy.html)
+* [Gemini Apps](https://support.google.com/gemini/answer/13594961?hl=en_GB#privacy_notice)
 * [Google Fi](https://fi.google.com/about/tos/#project-fi-privacy-notice)
 * [Google Workspace for Education](https://workspace.google.com/terms/education_privacy.html)
 * [Read Along](https://ssl.gstatic.com/seekh/intl/en/privacy)
@@ -899,6 +900,10 @@ These laws include:
 * Utah Consumer Privacy Act (UCPA)
 * Washington My Health My Data Act (MHDM)
 * Nevada Senate Bill 370
+* Florida Digital Bill of Rights (FDBR)
+* Texas Data Privacy and Security Act (TDPSA)
+* Oregon Consumer Privacy Act (OCPA)
+* Montana Consumer Data Privacy Act (MTCDPA)
 
 ### use the information that we collect across our services
 
