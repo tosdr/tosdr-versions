@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| SpeechlessDan Shay<br><br>7:28am |
-| Dont YaBrett Eldredge<br><br>6:32am |
-| Shes In Love With The BoyTrisha Yearwood<br><br>4:57am |
-| 23Chayce Beckham<br><br>4:53am |
-| This Town'S Been Too Good To UsDylan Scott<br><br>4:50am |
+| Good On YouPriscilla Block<br><br>1:38am |
+| ReligiouslyBailey Zimmerman<br><br>1:35am |
+| Just Like JohnnyRedferrin<br><br>1:32am |
+| BonesRussell Dickerson<br><br>1:29am |
+| LosersPost Malone Ft Jelly Roll<br><br>1:26am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -495,21 +495,21 @@ State
 Featured Brands
 ---------------
 
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
-Top 40 • Eastern
-
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
-
-Sports • Midwest
-
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
-
-Spanish • Western
+Top 40 • Pacific NW
 
 [![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
 News Talk • Eastern
+
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+
+Country • Western
+
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+
+Sports • Midwest
 
 [](https://www.alphamediausa.com/)
 
