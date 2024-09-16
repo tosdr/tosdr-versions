@@ -117,7 +117,7 @@ Products[Overview](https://threema.ch/en "Overview")[Threema](https://threema.ch
 
 Threema[Features](https://threema.ch/en/features "Features")[Security](https://threema.ch/en/security "Security")[What’s New](https://threema.ch/en/whats-new "What’s New")[Download](https://threema.ch/en/download "Download")
 
-Resources[FAQs](https://threema.ch/en/support "FAQs")[Messenger Comparison](https://threema.ch/en/messenger-comparison "Messenger Comparison")[WhatsApp Alternative](https://threema.ch/en/why-threema "WhatsApp Alternative")[Cryptography Whitepaper](https://threema.ch/press-files/2_documentation/cryptography_whitepaper.pdf "Cryptography Whitepaper")[Open Source](https://threema.ch/en/open-source "Open Source")[Blog](https://threema.ch/en/blog "Blog")
+Resources[FAQs](https://threema.ch/en/support "FAQs")[Messenger Comparison](https://threema.ch/en/messenger-comparison "Messenger Comparison")[WhatsApp Alternative](https://threema.ch/en/why-threema "WhatsApp Alternative")[Forrester Wave™: Secure Communications Solutions 2024](https://threema.ch/en/work/forrester-2024 "Forrester Wave™: Secure Communications Solutions 2024")[Cryptography Whitepaper](https://threema.ch/press-files/2_documentation/cryptography_whitepaper.pdf "Cryptography Whitepaper")[Open Source](https://threema.ch/en/open-source "Open Source")[Blog](https://threema.ch/en/blog "Blog")
 
 The Company[About](https://threema.ch/en/about "About")[Jobs](https://threema.ch/en/jobs "Jobs")[Transparency Report](https://threema.ch/en/transparencyreport "Transparency Report")[System Status](https://status.threema.ch/ "System Status")[Merch](https://threema.ch/en/fan-shop "Merch")
 
