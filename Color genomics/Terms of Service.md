@@ -29,11 +29,11 @@ It's time to shatter the "too young to get screened for cancer" myth. [Read](htt
     * [Library](https://www.color.com/library)
     * [Patient Resources](https://www.color.com/patient-resources)
 
-* [Activate Kit](https://home.color.com/activate)
+* [Activate Kit](https://home.color.com/test/activate/start)
 * [Contact Us](https://www.color.com/contact-us)
 * [Sign In](https://home.color.com/sign-in)
 
-* [Activate Kit](https://home.color.com/activate)
+* [Activate Kit](https://home.color.com/test/activate/start)
 * [Contact Us](https://www.color.com/contact-us)
 * [Sign In](https://home.color.com/sign-in)
 
