@@ -293,25 +293,25 @@ Sponsor may conduct a background check to confirm any potential winner’s eligi
 Top of Today
 ------------
 
-1. [![Emonte Morgan shot and killed Police Officer Ella French during a traffic stop in August 2021 officers said. (Image of French and a 2019 booking photo of Morgan: Chicago Police Department)](https://lawandcrime.com/wp-content/uploads/2024/03/Emonte-Morgan-and-Chicago-Police-Officer-Ella-French-432x243.png)](https://lawandcrime.com/crime/im-not-going-to-get-closure-officer-forced-into-retirement-after-cop-killer-leaves-bullet-fragments-in-his-neck-and-murders-his-partner/)
+1. [![Background: Major and Claudette Melvin (GoFundMe). Insets top to bottom: Jalisa Hill, Maurice Newson (Broward County Sheriff's Office).](https://am23.mediaite.com/lc/cnt/uploads/2024/09/Jalisa-Hill-Maurice-Newson-432x243.jpg)](https://lawandcrime.com/crime/florida-woman-paid-ex-boyfriend-1000-to-help-murder-her-grandparents-cops/)
     
-    ### ['I'm not going to get closure': Officer forced into retirement after cop killer leaves bullet fragments in his neck and murders his partner](https://lawandcrime.com/crime/im-not-going-to-get-closure-officer-forced-into-retirement-after-cop-killer-leaves-bullet-fragments-in-his-neck-and-murders-his-partner/)
+    ### [Florida woman paid ex-boyfriend $1,000 to help murder her grandparents: Cops](https://lawandcrime.com/crime/florida-woman-paid-ex-boyfriend-1000-to-help-murder-her-grandparents-cops/)
     
-2. [![Left: Manhattan District Attorney Alvin Bragg walks in the hallway outside a courtroom where former President Donald Trump is attending a hearing in his criminal case on charges stemming from hush money paid to a porn star in New York, Monday, March 25, 2024. (Brendan McDermid/Pool Photo via AP)/Right: Former President Donald Trump speaks during news conference Monday, March 25, 2024, in New York. (AP Photo/Frank Franklin II)](https://lawandcrime.com/wp-content/uploads/2024/03/bragg-trump-gag-432x243.jpg)](https://lawandcrime.com/high-profile/denied-trump-strikes-out-as-federal-judges-say-hush-money-case-must-stay-in-new-york-state-court/)
+2. [![Corrina Woodhull, Robert Castillo](https://am24.mediaite.com/lc/cnt/uploads/2024/09/Corinna-Woodhull-Robert-Castillo-432x243.jpg)](https://lawandcrime.com/crime/husband-whispered-in-his-wifes-ear-before-stabbing-her-to-death-during-family-bible-study-at-her-sisters-house/)
     
-    ### ['DENIED': Trump strikes out as federal judges say hush-money case must stay in New York state court](https://lawandcrime.com/high-profile/denied-trump-strikes-out-as-federal-judges-say-hush-money-case-must-stay-in-new-york-state-court/)
+    ### [Husband who whispered in wife's ear before murdering the mom of 5 during family Bible study at sister's home, as divorce papers sat in car, is locked up for decades](https://lawandcrime.com/crime/husband-whispered-in-his-wifes-ear-before-stabbing-her-to-death-during-family-bible-study-at-her-sisters-house/)
     
-3. [![Maecee Lathers](https://lawandcrime.com/wp-content/uploads/2024/09/Lathers1-1-432x243.jpg)](https://lawandcrime.com/crime/maecee-lathers-bodycam-revealed-showing-instagram-model-allegedly-high-on-pink-cocaine-and-telling-cops-shes-from-the-future/)
+3. [![Backgroune: Flagler County Fire Rescue (Facebook). Inset: James Melady (Volusia County Corrections).](https://am21.mediaite.com/lc/cnt/uploads/2024/09/James-Melady-432x243.jpg)](https://lawandcrime.com/crime/unfathomable-florida-first-responder-filmed-himself-sexually-assaulting-clearly-unconscious-woman-in-ambulance-police-say/)
     
-    ### ['My name is Mercedes!': Bodycam shows Instagram model allegedly high on 'pink cocaine' screaming and telling cops she's 'from the future' minutes after deadly Miami crash](https://lawandcrime.com/crime/maecee-lathers-bodycam-revealed-showing-instagram-model-allegedly-high-on-pink-cocaine-and-telling-cops-shes-from-the-future/)
+    ### ['Unfathomable': Florida first responder filmed himself sexually assaulting 'clearly unconscious' woman in ambulance, police say](https://lawandcrime.com/crime/unfathomable-florida-first-responder-filmed-himself-sexually-assaulting-clearly-unconscious-woman-in-ambulance-police-say/)
     
-4. [![(KSDK/YouTube)](https://lawandcrime.com/wp-content/uploads/2024/09/Florissant-Mo.-Police-Department-432x243.jpg)](https://lawandcrime.com/lawsuit/voyeur-and-predator-of-the-worst-kind-missouri-mom-sues-cop-for-allegedly-stealing-nude-selfies-meant-for-husband-during-traffic-stop/)
+4. [![Briley Turner](https://am22.mediaite.com/lc/cnt/uploads/2024/09/Briley-Turner-432x243.jpg)](https://lawandcrime.com/crime/woman-who-stabbed-man-expecting-a-shower-could-be-in-even-more-trouble-now-that-the-victim-has-died/)
     
-    ### ['Voyeur and predator of the worst kind': Missouri mom sues cop for allegedly stealing nude selfies meant for husband during traffic stop](https://lawandcrime.com/lawsuit/voyeur-and-predator-of-the-worst-kind-missouri-mom-sues-cop-for-allegedly-stealing-nude-selfies-meant-for-husband-during-traffic-stop/)
+    ### [Woman who used 'tire plug tool with a metal spike' to stab a man instead of showering with him, claiming he put 'stuff down my throat,' could be in even bigger trouble now](https://lawandcrime.com/crime/woman-who-stabbed-man-expecting-a-shower-could-be-in-even-more-trouble-now-that-the-victim-has-died/)
     
-5. [![Donald Trump, Juan Merchan](https://lawandcrime.com/wp-content/uploads/2024/04/Donald-Trump-Juan-Merchan-432x243.jpg)](https://lawandcrime.com/high-profile/lacking-substantial-constitutional-question-new-yorks-top-court-again-tosses-trump-challenge-of-gag-order-barring-him-from-criticizing-hush-money-sentencing-judges-daughter/)
+5. [![Steve Bannon](https://am24.mediaite.com/lc/cnt/uploads/2024/09/AP24183599577317-432x243.jpg)](https://lawandcrime.com/high-profile/non-violent-steve-bannon-pleads-with-judge-to-let-him-take-advantage-of-law-trump-signed-to-get-out-of-prison-early/)
     
-    ### [Lacking 'substantial constitutional question,' New York's top court again tosses Trump challenge of gag order barring him from criticizing hush-money sentencing judge's daughter](https://lawandcrime.com/high-profile/lacking-substantial-constitutional-question-new-yorks-top-court-again-tosses-trump-challenge-of-gag-order-barring-him-from-criticizing-hush-money-sentencing-judges-daughter/)
+    ### ['Non-violent' Steve Bannon pleads with judge to let him 'take advantage' of law Trump signed to exit prison early for defying Jan. 6 Committee](https://lawandcrime.com/high-profile/non-violent-steve-bannon-pleads-with-judge-to-let-him-take-advantage-of-law-trump-signed-to-get-out-of-prison-early/)
     
 
 [](http://eepurl.com/c89Jdb)
