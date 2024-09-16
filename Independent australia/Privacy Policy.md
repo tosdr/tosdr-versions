@@ -90,11 +90,11 @@ MENU SEARCH FIND [SUBSCRIBE](https://independentaustralia.net/about-ia/subscribe
 
 [More time to write and win in IA Writing Comp!](https://independentaustralia.net/article-display/ia-writing-competition-more-time-to-win-prizes,18918)
 
-[Colombia enters top five asylum source nations](https://independentaustralia.net/article-display/politics-display/colombia-enters-top-five-asylum-source-nations,18969)
+[Barnaby Joyce — nuclear energy not as cheap as he thinks it is](https://independentaustralia.net/article-display/politics-display/barnaby-joyce--nuclear-energy-not-as-cheap-as-he-thinks-it-is,18977)
 
-[NSW Government criminal policies ensuring koala extinction](https://independentaustralia.net/article-display/nsw-government-criminal-policies-ensuring-koala-extinction,18968)
+[Fight or flight: Adapting to the climate crisis](https://independentaustralia.net/article-display/fight-or-flight-adapting-to-the-climate-crisis,18975)
 
-[Norway a world leader in broadband access](https://independentaustralia.net/article-display/norway-a-world-leader-in-broadband-access,18966)
+[International law being abandoned for self-defence](https://independentaustralia.net/article-display/international-law-being-abandoned-for-self-defence,18967)
 
 Privacy Policy
 
@@ -179,13 +179,13 @@ Join the **I_A_** newsletter for regular updates on our latest news stories.
 Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
-* [ABC trails Coalition on its Road to Nowhere](https://independentaustralia.net/article-display/abc-trails-coalition-on-its-road-to-nowhere,18972 "Permanent Link : ABC trails Coalition on its Road to Nowhere")
-* [Fight or flight: Adapting to the climate crisis](https://independentaustralia.net/article-display/fight-or-flight-adapting-to-the-climate-crisis,18975 "Permanent Link : Fight or flight: Adapting to the climate crisis")
-* [International law being abandoned for self-defence](https://independentaustralia.net/article-display/international-law-being-abandoned-for-self-defence,18967 "Permanent Link : International law being abandoned for self-defence")
-* [CARTOONS: Donald Trump — aliens are eating dogs](https://independentaustralia.net/article-display/cartoons-donald-trump-aliens-are-eating-dogs,18976 "Permanent Link : CARTOONS: Donald Trump — aliens are eating dogs")
-* [Soldier of courage: An open letter to David McBride](https://independentaustralia.net/article-display/soldier-of-courage-an-open-letter-to-david-mcbride,18974 "Permanent Link : Soldier of courage: An open letter to David McBride")
-* [UK arms curb exposes Australia's role in Israeli war crimes](https://independentaustralia.net/article-display/uk-arms-curb-exposes-australias-role-in-israeli-war-crimes,18973 "Permanent Link : UK arms curb exposes Australia's role in Israeli war crimes")
-* [Census gender inclusion ruffles Right-wing feathers](https://independentaustralia.net/article-display/census-gender-inclusion-ruffles-right-wing-feathers,18970 "Permanent Link : Census gender inclusion ruffles Right-wing feathers")
+* [Business is booming — defying newsroom doom and gloom](https://independentaustralia.net/article-display/business-is-booming-defying-newsroom-doom-and-gloom,18981 "Permanent Link : Business is booming — defying newsroom doom and gloom")
+* [Police protect merchants of death as Land Forces protest turns ugly](https://independentaustralia.net/article-display/police-protect-merchants-of-death-as-land-forces-protest-turns-ugly,18983 "Permanent Link : Police protect merchants of death as Land Forces protest turns ugly")
+* [Labor, listen up: Refugees are not okay](https://independentaustralia.net/article-display/labor-listen-up-refugees-are-not-okay,18982 "Permanent Link : Labor, listen up: Refugees are not okay")
+* [POEM: Sonnet on Australia's media hacks](https://independentaustralia.net/article-display/poem-sonnet-on-australias-media-hacks,18979 "Permanent Link : POEM: Sonnet on Australia's media hacks")
+* [Big policy ideas that improve lives — Tim Walz nails it](https://independentaustralia.net/article-display/big-policy-ideas-that-improve-lives-tim-walz-nails-it,18980 "Permanent Link : Big policy ideas that improve lives — Tim Walz nails it")
+* [Funny dunny-man, Shane Jacobson](https://independentaustralia.net/article-display/funny-dunny-man-shane-jacobson,18931 "Permanent Link : Funny dunny-man, Shane Jacobson")
+* [Barnaby Joyce — nuclear energy not as cheap as he thinks it is](https://independentaustralia.net/article-display/barnaby-joyce-nuclear-energy-not-as-cheap-as-he-thinks-it-is,18977 "Permanent Link : Barnaby Joyce — nuclear energy not as cheap as he thinks it is")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
