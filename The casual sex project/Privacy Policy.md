@@ -75,7 +75,7 @@ New York, NY 10017
 * [](https://instagram.com/manhattaninstitute/)
 * [](https://casualsexproject.com/rss.xml)
 
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/august-op2-edit-1-scaled.jpg)
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/Sep-05.jpg)
 
 ### The Manhattan Institute works to keep America and its great cities prosperous, safe, and free.
 
@@ -90,59 +90,59 @@ New York, NY 10017
 Spotlight
 ---------
 
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/americas-surprisingly-effective-welfare-state.jpg)[](https://admin.mi52siterestore.com/article/americas-surprisingly-effective-welfare-state/ "Read More")
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/school-based-mental-health-initiatives-challenges-and-considerations-for-policymakers.jpg)[](https://admin.mi52siterestore.com/article/school-based-mental-health-initiatives-challenges-and-considerations-for-policymakers/ "Read More")
 
-Report Governance
+Report Education, Governance
 
-Sep 05 2024
+Sep 12 2024
 
-Report Governance
+Report Education, Governance
 
-Sep 05 2024
+Sep 12 2024
 
-### [America’s Surprisingly Effective Welfare State](https://admin.mi52siterestore.com/article/americas-surprisingly-effective-welfare-state/) Smaller Government, Better Targeted Redistribution
+### [School-Based Mental Health Initiatives](https://admin.mi52siterestore.com/article/school-based-mental-health-initiatives-challenges-and-considerations-for-policymakers/) Challenges and Considerations for Policymakers
 
-By **[Chris Pope](https://admin.mi52siterestore.com/person/chris-pope/)** Read time **40 mins** [Read More](https://admin.mi52siterestore.com/article/americas-surprisingly-effective-welfare-state/)
+By **[Carolyn D. Gorman](https://admin.mi52siterestore.com/person/carolyn-d-gorman/)** Read time **39 mins** [Read More](https://admin.mi52siterestore.com/article/school-based-mental-health-initiatives-challenges-and-considerations-for-policymakers/)
 
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/nyc-mayor-adams-laxity-on-city-hall-corruption-could-wreck-his-public-safety-agenda.jpg)[](https://admin.mi52siterestore.com/article/adams-laxity-on-city-hall-corruption-could-wreck-his-public-safety-agenda/ "Read More")
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/blame-the-biden-admin-for-venezuelan-gangs-migrants-taking-over-aurora-colorado.jpg)[](https://admin.mi52siterestore.com/article/blame-the-biden-admin-for-venezuelan-gangs-migrants-taking-over-aurora-colorado/ "Read More")
 
-Commentary Cities, Public Safety, Governance New York, New York City, Crime Control
+Commentary Governance, Public Safety Immigration, Crime Control
 
-Sep 08 2024
+Sep 12 2024
 
-[Adams’ Laxity on City Hall Corruption Could Wreck His Public-Safety Agenda](https://admin.mi52siterestore.com/article/adams-laxity-on-city-hall-corruption-could-wreck-his-public-safety-agenda/)
+[Blame the Biden Admin for Venezuelan Gangs, Migrants Taking Over Aurora, Colorado](https://admin.mi52siterestore.com/article/blame-the-biden-admin-for-venezuelan-gangs-migrants-taking-over-aurora-colorado/)
 
-By **[Nicole Gelinas](https://admin.mi52siterestore.com/person/nicole-gelinas/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/adams-laxity-on-city-hall-corruption-could-wreck-his-public-safety-agenda/)
+By **[Christopher F. Rufo](https://admin.mi52siterestore.com/person/christopher-f-rufo/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/blame-the-biden-admin-for-venezuelan-gangs-migrants-taking-over-aurora-colorado/)
 
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/nyc-crime-is-down-because-police-enforcement-is-up.jpg)[](https://admin.mi52siterestore.com/article/face-it-progressives-nyc-crime-is-down-because-police-enforcement-is-up/ "Read More")
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/a-reformation-in-public-education-school-choice-in-theory-and-practice-1.jpg)[](https://admin.mi52siterestore.com/article/the-school-choice-battle-will-happen-at-the-statehouse/ "Read More")
 
-Commentary Cities, Public Safety New York, New York City, Crime Control, Policing
+Commentary Education School Choice
 
-Sep 07 2024
+Sep 12 2024
 
-[Face It Progressives: NYC Crime Is Down Because Police Enforcement Is Up](https://admin.mi52siterestore.com/article/face-it-progressives-nyc-crime-is-down-because-police-enforcement-is-up/)
+[The School Choice Battle Will Happen at the Statehouse](https://admin.mi52siterestore.com/article/the-school-choice-battle-will-happen-at-the-statehouse/)
 
-By **[Rafael A. Mangual](https://admin.mi52siterestore.com/person/rafael-a-mangual/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/face-it-progressives-nyc-crime-is-down-because-police-enforcement-is-up/)
+By **[Ray Domanico](https://admin.mi52siterestore.com/person/ray-domanico/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/the-school-choice-battle-will-happen-at-the-statehouse/)
 
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/what-would-new-york-citys-housing-moonshot-look-like.jpg)[](https://admin.mi52siterestore.com/article/what-would-new-york-citys-housing-moonshot-look-like/ "Read More")
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/nyc-needs-to-stop-worrying-about-optics-of-nypd-and-just-pick-the-overall-best-cop.jpg)[](https://admin.mi52siterestore.com/article/nyc-needs-to-stop-worrying-about-nypd-optics-and-just-pick-the-overall-best-cop/ "Read More")
 
-Issue Brief Economics, Cities, Governance Housing, New York City
+Commentary Public Safety, Cities New York, New York City, Policing, Crime Control
 
-Sep 03 2024
+Sep 12 2024
 
-[What Would New York City’s Housing “Moonshot” Look Like?](https://admin.mi52siterestore.com/article/what-would-new-york-citys-housing-moonshot-look-like/)
+[NYC Needs to Stop Worrying about NYPD Optics and Just Pick the Overall Best Cop](https://admin.mi52siterestore.com/article/nyc-needs-to-stop-worrying-about-nypd-optics-and-just-pick-the-overall-best-cop/)
 
-By **[Eric Kober](https://admin.mi52siterestore.com/person/eric-kober/)** Read time **27 mins** [Read More](https://admin.mi52siterestore.com/article/what-would-new-york-citys-housing-moonshot-look-like/)
+By **[Hannah E. Meyers](https://admin.mi52siterestore.com/person/hannah-e-meyers/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/nyc-needs-to-stop-worrying-about-nypd-optics-and-just-pick-the-overall-best-cop/)
 
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/mta-can-defeat-the-bus-fare-deadbeats-heres-how.jpg)[](https://admin.mi52siterestore.com/article/how-the-mta-can-defeat-the-bus-fare-deadbeats-and-reward-the-rest-of-us/ "Read More")
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/at-some-elite-universities-affirmative-action-ruling-leaves-little-impact-on-racial-makeup-prompting-scrutiny.jpg)[](https://admin.mi52siterestore.com/article/at-some-elite-universities-affirmative-action-ruling-leaves-little-impact-on-racial-makeup-prompting-scrutiny/ "Read More")
 
-Commentary Cities, Economics New York, New York City
+Commentary Education Higher Ed, Supreme Court
 
-Sep 03 2024
+Sep 12 2024
 
-[How the MTA Can Defeat the Bus-Fare Deadbeats — and Reward the Rest of Us](https://admin.mi52siterestore.com/article/how-the-mta-can-defeat-the-bus-fare-deadbeats-and-reward-the-rest-of-us/)
+[At Some Elite Universities, Affirmative Action Ruling Leaves Little Impact on Racial Makeup, Prompting Scrutiny](https://admin.mi52siterestore.com/article/at-some-elite-universities-affirmative-action-ruling-leaves-little-impact-on-racial-makeup-prompting-scrutiny/)
 
-By **[Nicole Gelinas](https://admin.mi52siterestore.com/person/nicole-gelinas/)** Read time **1 min** [Read More](https://admin.mi52siterestore.com/article/how-the-mta-can-defeat-the-bus-fare-deadbeats-and-reward-the-rest-of-us/)
+By **[Lexi Boccuzzi](https://admin.mi52siterestore.com/person/lexi-boccuzzi/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/at-some-elite-universities-affirmative-action-ruling-leaves-little-impact-on-racial-makeup-prompting-scrutiny/)
 
 Our Policy Areas
 ----------------
