@@ -342,24 +342,29 @@ You can find more information about the individual cookies we use and the purpos
 | **Cookie Name** | **Purpose** | **Cookie Type** | **Source** |
 | --- | --- | --- | --- |
 | \_\_hssc | To store anonymized statistics. | Functional | Hubspot |
-| \_\_hssrc | to store a unique session ID. | Statics | Hubspot |
-| \_\_hstc | to store time of visit. | Marketing/Tracking | Hubspot |
-| \_fbp | to store and track visits across websites. | Marketing/Tracking | Facebook |
-| \_ga | to store and count pageviews. | Statics | Google Analytics |
+| \_\_hssrc | To store a unique session ID. | Statics | Hubspot |
+| \_\_hstc | To store time of visit. | Marketing/Tracking | Hubspot |
+| messagesUtk | To recognize visitors who chat via the chatflows tool. | Functional | HubSpot |
+| hs-messages-is-open | To determine and save whether the chat widget is open for future visits. | Functional | HubSpot |
+| theme | To save user's preference on SpiderLabs Blogs theme. | Functional | HubSpot |
+| \_\_hs\_cookie\_cat\_pref | To record the categories a visitor consented to. | Functional | HubSpot |
+| \_fbp | To store and track visits across websites. | Marketing/Tracking | Facebook |
+| \_ga | To store and count pageviews. | Statics | Google Analytics |
 | \_ga\_\*ID\* | Used to persist session state. | Statics | Google Analytics |
 | \_gat\_%5Bobject%20Object%5D | Used to throttle request rate. | Statics | Google Analytics |
-| \_gcl\_au | to store and track conversions. | Marketing/Tracking | Google Adsense |
-| \_gid | to store and count pageviews. | Statics | Google Analytics |
-| \_mkto\_trk | to Store and Track interaction | Marketing/Tracking | Marketo |
-| hubspotutk | to store and track a visitor's identity. | Marketing/Tracking | HubSpot |
-| mf\_96dff353-a928-44b4-b1d0-6432c69133ba | to store anonymous information about session. | Marketing/Tracking | Mouse Flow |
-| \_\_cf\_bm | to read and filter requests from bots. | Functional | CloudFlare |
-| \_\_cfruid | to read and filter requests from bots. | Functional | CloudFlare |
-| ai\_session | to collect statistical usage and telemetry information. | Statics | Microsoft |
-| ai\_user | to collect statistical usage and telemetry information. | Statics | Microsoft |
+| \_gcl\_au | To store and track conversions. | Marketing/Tracking | Google Adsense |
+| \_gid | To store and count pageviews. | Statics | Google Analytics |
+| \_mkto\_trk | To Store and Track interaction. | Marketing/Tracking | Marketo |
+| hubspotutk | To store and track a visitor's identity. | Marketing/Tracking | HubSpot |
+| mf\_96dff353-a928-44b4-b1d0-6432c69133ba | To store anonymous information about session. | Marketing/Tracking | Mouse Flow |
+| \_\_cf\_bm | To read and filter requests from bots. | Functional | CloudFlare |
+| \_\_cfruid | To read and filter requests from bots. | Functional | CloudFlare |
+| ai\_session | To collect statistical usage and telemetry information. | Statics | Microsoft |
+| ai\_user | To collect statistical usage and telemetry information. | Statics | Microsoft |
 | d-a8e6 | Anonymous device ID cookie. | Functional | Terminus |
 | ln\_or | Used to determine if Oribi analytics can be carried out on a specific domain | Marketing/Statics | LinkedIn |
 | s-9da4 | Anonymous device ID cookie. | Functional | Terminus |
+| \_zitok | First-party cookie set by ZoomInfo to identify unique visitors. | Marketing | Zoominfo |
 
 One of the third-party services that we use to track your activity on our website is Google Analytics. You can find more information on how Google uses data at [www.google.com/policies/privacy/partners](http://www.google.com/policies/privacy/partners)[](http://www.google.com/policies/privacy/partners). If you do not want Google Analytics to collect and use information about your use of our website, then you can install an opt-out in your web browser ([https://tools.google.com/dlpage/gaoptout/](https://tools.google.com/dlpage/gaoptout/)). You also may opt-out from Google Analytics for Display Advertising or the Google Display Network by using Google’s Ads Settings located at [www.google.com/settings/ads](http://www.google.com/settings/ads).
 
