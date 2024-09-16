@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I love your service and support.
+We have been with you continuously with you for around four years and really do love the service.
 
-William Rolson
+Jenn and Tref
