@@ -31,9 +31,9 @@ Terms of Use
 
 [Skip to Content](#maincontent)
 
-[#### Free Mini Bake & Set on US orders $45+
+[#### Free Microfiber Beauty Sponge on US orders $45+
 
-#### Free Mini Bake & Set on US orders $45+](https://www.morphe.com/products/bake-and-set-setting-powder-translucent)
+#### Free Microfiber Beauty Sponge on US orders $45+](https://www.morphe.com/products/bake-and-set-setting-powder-translucent)
 
 [#### Free shipping on US orders $35+
 
