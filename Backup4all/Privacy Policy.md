@@ -301,15 +301,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to use the backup list](https://www.backup4all.com/how-to-use-the-backup-list-kb.html)  
+* [How to install Google Drive application](https://www.backup4all.com/how-to-install-google-drive-application-kb.html)  
     
-* [How to upgrade from FBackup to Backup4all](https://www.backup4all.com/how-to-upgrade-from-fbackup-to-backup4all-kb.html)  
+* [How to restore data files to Minio using Back ...](https://www.backup4all.com/how-to-restore-data-files-to-minio-using-backup4all-kb.html)  
     
-* [How to fix "there is not enough space on the ...](https://www.backup4all.com/how-to-fix-there-is-not-enough-space-on-the-disk-error-kb.html)  
+* [How to back up files from Cloudflare R2 using ...](https://www.backup4all.com/how-to-back-up-files-from-cloudflare-r2-using-backup4all-kb.html)  
     
-* [Why some of the source files are not backed u ...](https://www.backup4all.com/why-some-of-the-source-files-are-not-backed-up-kb.html)  
+* [Backup images with Backup4all](https://www.backup4all.com/backup-images-with-backup4all-kb.html)  
     
-* [How to back up data files from Aruba](https://www.backup4all.com/how-to-back-up-data-files-from-aruba-kb.html)  
+* [Using Backup4all - FAQ 7](https://www.backup4all.com/using-backup4all-faq-7-kb.html)  
     
 
 Choose language:
