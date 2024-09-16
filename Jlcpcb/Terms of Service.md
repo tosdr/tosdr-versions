@@ -31,7 +31,7 @@ JLCPCB Help Center
 
 Terms & Conditions
 
-Effective Date: April 23rd, 2024
+Effective Date: September 14, 2024
 
   
 
@@ -237,7 +237,7 @@ JLCPCB has the right to judge whether your behavior complies with the terms of t
 
   
 
-You will indemnify, release and hold harmless JLCPCB, its parent, subsidiaries and affiliates, and all officers, directors, agents and employees thereof, and any party acting on JLCPCB’s behalf, from and against any and all third party claims, actions, liabilities, losses, damages, judgments, costs and expenses, including reasonable attorneys’ fees (collectively, "Claims") arising out of (i) any use of the JLCPCB Services or products appearing on the JLCPCB Services by you or by any person that you allow is not in accordance with the terms of this Agreement; (ii) any breach of this Agreement by you or by any person that you allow to use the JLCPCB Services; or (iii) any violation of any laws, regulations or the rights of any third party by you or by any person that you allow to use the JLCPCB Services or products appearing on the JLCPCB Services.
+You will indemnify, release and hold harmless JLCPCB, its parent, subsidiaries and affiliates, and all officers, directors, agents and employees thereof, and any party acting on JLCPCB’s behalf, from and against any and all third party claims, actions, liabilities, losses, damages, judgments, costs and expenses, including reasonable attorneys’ fees (collectively, "Claims") arising out of (i) any use of the JLCPCB Services or products appearing on the JLCPCB Services by you or by any person that you allow is not in accordance with the terms of this Agreement; (ii) any breach of this Agreement by you or by any person that you allow to use the JLCPCB Services; or (iii) any violation of any laws, regulations or the rights of any third party by you or by any person that you allow to use the JLCPCB Services or products appearing on the JLCPCB Services.
 
   
 
@@ -249,11 +249,17 @@ You will indemnify, release and hold harmless JLCPCB, its parent, subsidiaries a
 
   
 
-**The PCB design documents used for manufacturing were provided by customers and the responsibility of JLCPCB was to manufacture the PCB board according to design of customers.**
+**The PCB design documents used for manufacturing were provided by customers and the responsibility of JLCPCB was to manufacture the PCB board according to design of customers. Customers agree and acknowledge that by placing an order with JLCPCB, you grant JLCPCB the right to use any trademarks, logos, or other intellectual property provided by the Customers solely within the context and for the purposes specified in the order contract, specifically for the production and fulfillment of the order.**
+
+  
 
 **Customers shall guarantee its ownership and the related intellectual property rights of the design document provided, which should not infringe anyone else's intellectual property rights and any other legal right, such as patent right, copyright, trademark right and so on.**
 
+  
+
 **Any infringement or illegal problem arise by the documents provided by customers, which causes influence or loss to us, customers will bear all related responsibilities, JLCPCB will keep the rights to claim compensation to customers.**
+
+  
 
 **To the maximum extent permitted by law, the services are provided “as is” and “as available” without any warranties or guarantees of any kind or nature, either express, implied or statutory, including, but not limited to, any (if any) implied warranties, duties or conditions of merchantability, of fitness for a particular purpose, of accuracy or completeness of responses, of results, of workmanlike effort, of lack of viruses, and of lack of negligence, all with regard to the Services.**
 
@@ -315,7 +321,7 @@ If you have any questions or comments about this Agreement, please contact us at
 
 Unit 21 on 28th Floor, Metropole Square, No.2 On Yiu Street, Shatin, New Territories, HONG KONG, China
 
-Last updated on July 18, 2024
+Last updated on Sept 14, 2024
 
 * Company
 * [About JLCPCB](https://jlcpcb.com/aboutUs)
