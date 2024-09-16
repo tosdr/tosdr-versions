@@ -32,10 +32,6 @@ Resources
 
 Sign up](https://www.waveapps.com/register)[Your account](https://my.waveapps.com/)
 
-[Sign up
-
-Sign up](https://my.waveapps.com/register/)[Your account](https://my.waveapps.com/)
-
 [![Wave logo](https://cdn.prod.website-files.com/62446230dcb514b828a6e237/624dedebca225a69a155c7b6_wave-logo-black.svg)](https://www.waveapps.com/)
 
 Features
@@ -51,10 +47,6 @@ Resources
 [Sign in](https://www.waveapps.com/login)[Sign up
 
 Sign up](https://www.waveapps.com/register)[Your account](https://my.waveapps.com/)
-
-[Sign up
-
-Sign up](https://my.waveapps.com/register/)[Your account](https://my.waveapps.com/)
 
 [Sign up
 
