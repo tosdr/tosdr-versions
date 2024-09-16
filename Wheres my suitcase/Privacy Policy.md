@@ -2,6 +2,8 @@
 
 [![header](/images/Icon/Others/WMS_Logo_WordmarkOnly-01.png)](https://wheresmysuitcase.com/)
 
+EN 🌐 English (EN) French (FR) 
+
 [Help](https://wheresmysuitcase.com/Home/FAQ)
 
 SP Plus Corporation Privacy Policy
@@ -143,14 +145,14 @@ Chicago, IL 60601
 
 [For our California Consumer Privacy Act - Applicant & Employee Privacy Policy please click here.](https://www.spplus.com/ccpa-employee-privacy-policy/)
 
-Copyright © 2024 Where’s My Suitcase. 4.2.11.0 - [Privacy Policy](https://wheresmysuitcase.com/Home/PrivacyPolicy) - [Terms of Service](https://wheresmysuitcase.com/Home/TermsOfService)  
+Copyright © 2024 Where’s My Suitcase. 4.3.1.7 - [Privacy Policy](https://wheresmysuitcase.com/Home/PrivacyPolicy) - [Terms of Service](https://wheresmysuitcase.com/Home/TermsOfService)  
 [California Consumer Privacy Requests](https://ccpa.spplus.com/)
 
 [About](https://wheresmysuitcase.com/Home/About)
 
 [Help](https://wheresmysuitcase.com/Home/FAQ)
 
-Copyright © 2024 Where’s My Suitcase. 4.2.11.0 - [Privacy Policy](https://wheresmysuitcase.com/Home/PrivacyPolicy) - [Terms of Service](https://wheresmysuitcase.com/Home/TermsOfService)  
+Copyright © 2024 Where’s My Suitcase. 4.3.1.7 - [Privacy Policy](https://wheresmysuitcase.com/Home/PrivacyPolicy) - [Terms of Service](https://wheresmysuitcase.com/Home/TermsOfService)  
 [California Consumer Privacy Requests](https://ccpa.spplus.com/)
 
 [About](https://wheresmysuitcase.com/Home/About)
