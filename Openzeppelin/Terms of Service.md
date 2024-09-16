@@ -52,6 +52,8 @@
     
     Interactive transaction builder](https://www.openzeppelin.com/defender#secure-operations)
     
+    [Defender Pricing ->](https://www.openzeppelin.com/pricing)
+    
 * [Services](#)
     
     Services
@@ -347,7 +349,7 @@ You agree to indemnify and hold harmless OpenZeppelin and its officers, director
 
 [](https://github.com/openzeppelin)[](https://twitter.com/OpenZeppelin)
 
-[Privacy Policy](https://www.openzeppelin.com/privacy) ©
+[Privacy Policy](https://www.openzeppelin.com/privacy) © © Zeppelin Group Ltd [Service Level Agreement](https://www.openzeppelin.com/service-level-agreement)
 
 Products
 
