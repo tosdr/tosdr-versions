@@ -1,8 +1,6 @@
 [Skip to Main Content](#cccc423d86-1693-46ca-b5e3-ae7adbe76be8)
 
-         
-
- [![Emergency Alert](/Common/Images/AlertCenter/alertBarBlink.svg) EMERGENCY ALERT](https://www.maricopa.gov/AlertCenter.aspx) [Evacuate/GO! - Evacuate Canyon Lake/Tortilla Flat area: Siphon Fire Read On...](https://www.maricopa.gov/AlertCenter.aspx?AID=EvacuateGO-Evacuate-Canyon-LakeTortilla--124)
+        
 
 [![Home page](/ImageRepository/Document?documentID=80697)](https://www.maricopa.gov/)
 
