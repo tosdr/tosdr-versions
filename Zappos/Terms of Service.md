@@ -1,12 +1,8 @@
 [Skip to main content](#main)
 
-VIPs: Buy Brooks or Birkenstock Get 1500 Points [Shop Now](https://www.zappos.com/filters/null/WgPCARriAgEL.zso?s=isNew%2Fdesc%2FgoLiveDate%2Fdesc%2FrecentSalesStyle%2Fdesc%2F&si=6225354%2C207881%2C6424002%2C6355942%2C6355740%2C6423785%2C6444753%2C6344521%2C6443906%2C6468421%2C6443895%2C6443926%2C6423996%2C6443887%2C6444746%2C6446625&sy=1&pf_rd_r=SBK50SBHBHRJWRFKYWN5&pf_rd_p=00290bc7-c0da-44af-90d6-e6621ad200fc)
-
-Up to 50% Off! [Shop Sale Lilly Pulitzer](https://www.zappos.com/null/4AEB4gICMByCAwP47wE.zso?s=isNew%2Fdesc%2FgoLiveDate%2Fdesc%2FrecentSalesStyle%2Fdesc%2F&si=6483462&sy=1)
-
 Birkenstock for fall and beyond. [Shop Birkenstock](https://www.zappos.com/c/birkenstock-fashion)
 
-Best Merrell Hiking Boots for Fall. [Shop the List](https://www.zappos.com/c/merrell-hiking-boots-for-fall)
+Red Hot for Fall [Shop the Red Trend](https://www.zappos.com/null/4gIBMIIDA_DvAQ.zso?si=6508441%2C6459458%2C6508413%2C6408717%2C6399372%2C6406380%2C6474581%2C6177010%2C6412024%2C6514495%2C6346266%2C6468971%2C6447485%2C6496611%2C6508173%2C6401422%2C6412027%2C6510695%2C6436743%2C6502601%2C6168566%2C6363231%2C6396166%2C6340977%2C6512081%2C6492543%2C6465610%2C6396141%2C6500665%2C6339588%2C6275091%2C6378092%2C6352884%2C6396709%2C6405561%2C6488966%2C6512869%2C6500760%2C6504672%2C6519078%2C6314387%2C6311876%2C6500901%2C6496252%2C6440415%2C6483688%2C6443899%2C6493069&sy=1)
 
 [![Welcome! Go to the Zappos homepage!](https://m.media-amazon.com/images/G/01/Zappos/25th-birthday-logo/Zappos-25-Years-Logo-Site.svg)](https://www.zappos.com/)
 
