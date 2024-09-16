@@ -566,23 +566,17 @@ Latest News
 
 [Sri Lanka's leftist leader turns from bullets to ballots](https://www.japantimes.co.jp/news/2024/09/16/asia-pacific/politics/sri-lanka-leftist-candidate/ "Sri Lanka's leftist leader turns from bullets to ballots")
 
-6 hours ago
+10 hours ago
 
 [Surviving a climate disaster isn’t likely to change how you vote](https://www.japantimes.co.jp/news/2024/09/16/world/politics/climate-disasters-voting/ "Surviving a climate disaster isn’t likely to change how you vote")
 
-7 hours ago
+11 hours ago
 
 [First person convicted under Hong Kong's new national security law](https://www.japantimes.co.jp/news/2024/09/16/asia-pacific/crime-legal/hong-kong-security-law-t-shirt/ "First person convicted under Hong Kong's new national security law")
 
-10 hours ago
-
 [Philippines vows continued presence after South China Sea reef pullout](https://www.japantimes.co.jp/news/2024/09/16/asia-pacific/philippine-ship-withdrawn-south-china-sea/ "Philippines vows continued presence after South China Sea reef pullout")
 
-10 hours ago
-
 [Mitsubishi Heavy cancels H2A rocket launch for the second time](https://www.japantimes.co.jp/news/2024/09/16/japan/rocket-launch-postponed/ "Mitsubishi Heavy cancels H2A rocket launch for the second time")
-
-10 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
