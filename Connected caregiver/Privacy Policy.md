@@ -304,5 +304,3 @@ If we make any changes to how we treat our registered users’ personal informat
 * [Follow](https://www.youtube.com/channel/UCFF6oOATLyxqLJt-gOJ-DVw "Follow on Youtube")
 
 [About Us](https://myconnectedcaregiver.com/about-us)     [Contact](https://myconnectedcaregiver.com/contact-us)     [Help Center](https://connected-caregiver.helpscoutdocs.com/)     Resources     [For Professional Caregivers](https://myconnectedcaregiver.com/professional-caregivers/)     Open Source Acknowledgements     [Terms & Conditions](https://myconnectedcaregiver.com/terms/)     [Privacy Policy](https://myconnectedcaregiver.com/privacy)     [FAQs](https://myconnectedcaregiver.com/faqs)
-
-![](https://www.facebook.com/tr?id=7037245686379372&ev=PageView&noscript=1&eid=70372456863793725d9d7478-d504-4bdc-927d-34156a754a1a&cd%5Bpage_title%5D=Privacy&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=7938&cd%5Bplugin%5D=PixelYourSite&cd%5Bevent_url%5D=myconnectedcaregiver.com%2Fprivacy%2F&cd%5Buser_role%5D=guest)
