@@ -1,9 +1,5 @@
 [Skip to content](#MainContent)
 
-### Save up to $400 || [Shop Now](https://www.xchair.com/collections/sale "Sale")
-
-### 844-492-4247
-
 [](https://www.xchair.com/)
 
 X-Chair
