@@ -160,7 +160,7 @@ Vad söker du?
                     
                 * [Soita Palvelevaan puhelimeen](https://www.svenskakyrkan.se/soita-palvelevaan-puhelimeen)
                     
-        * [Samtalsjour för döva](https://www.svenskakyrkan.se/samtalsstod/samtalsstodsamtalsjour-for-dova-via-bildtelefon)
+        * [Samtalsjour för döva](https://www.svenskakyrkan.se/samtalsstod/samtalsstod/samtalsstodsamtalsjour-for-dova-via-bildtelefon)
             
         * [Sjukhuskyrkan](https://www.svenskakyrkan.se/samtalsstod/samtalsstod/sjukhuskyrka)
             
@@ -450,6 +450,8 @@ Vad söker du?
             
         * [Äktenskap](https://www.svenskakyrkan.se/kristentro/aktenskap)
             
+    * [Rikskollekt](https://www.svenskakyrkan.se/gudstjanst/rikskollekt)
+        
     * [Sök din tro](https://www.svenskakyrkan.se/sokdintro)
         
         * [Bön](https://www.svenskakyrkan.se/bon)
@@ -502,19 +504,27 @@ Vad söker du?
                     
                 * [Nämnder och råd](https://www.svenskakyrkan.se/namnder-och-kommitteer)
                     
-                    * [Ansvarsnämnden för biskopar](https://www.svenskakyrkan.se/ansvarsnamnden)
+                    * [Ansvarsnämnden](https://www.svenskakyrkan.se/ansvarsnamnden)
                         
                     * [Arvodesnämnden](https://www.svenskakyrkan.se/arvodesnamnden)
                         
-                    * [Kyrkorättsnämnden](https://www.svenskakyrkan.se/kyrkorattsnamnden)
+                    * [Dispens- och överprövningskommittén](https://www.svenskakyrkan.se/kyrkostyrelsens-dispens--och-overprovningskommitte)
                         
-                    * [Kyrkostyrelsens råd för Svenska kyrkan i utlandet](https://www.svenskakyrkan.se/radet_for_svenska_kyrkan_i_utlandet)
+                    * [Kyrkorättsnämnden](https://www.svenskakyrkan.se/kyrkorattsnamnden)
                         
                     * [Läronämnden](https://www.svenskakyrkan.se/laronamnden)
                         
-                    * [Kyrkostyrelsens musikråd](https://www.svenskakyrkan.se/musikradet-i-svenska-kyrkan)
+                    * [Musikrådet](https://www.svenskakyrkan.se/musikradet-i-svenska-kyrkan)
                         
-                    * [Svenska kyrkans teologiska kommitté](https://www.svenskakyrkan.se/svenska-kyrkans-teologiska-kommitte)
+                    * [Musikrådets särskilda kommitté](https://www.svenskakyrkan.se/musikradets-musikkommitte)
+                        
+                    * [Redovisningsrådet](https://www.svenskakyrkan.se/kyrkostyrelsens-redovisningsrad-for-svenska-kyrkan)
+                        
+                    * [Rådet för samverkan och digitalisering](https://www.svenskakyrkan.se/kyrkostyrelsens-rad-for-samverkan-och-digitalisering)
+                        
+                    * [Rådet för Svenska kyrkan i utlandet](https://www.svenskakyrkan.se/radet_for_svenska_kyrkan_i_utlandet)
+                        
+                    * [Teologiska kommittén](https://www.svenskakyrkan.se/svenska-kyrkans-teologiska-kommitte)
                         
                     * [Valprövningsnämnden](https://www.svenskakyrkan.se/valprovningsnamnden)
                         
@@ -634,7 +644,7 @@ Vad söker du?
             
         * [Material på webbplatsen](https://www.svenskakyrkan.se/om-oss/material-pa-webbplatsen)
             
-        * [Tillgänglighet på svenskakyrkan.se](https://www.svenskakyrkan.se/tillganglighet-pa-svenskakyrkanse)
+        * [Tillgänglighet](https://www.svenskakyrkan.se/tillganglighet-pa-svenskakyrkanse)
             
         * [Appar](https://www.svenskakyrkan.se/om-oss/appar)
             
@@ -912,7 +922,7 @@ Vad söker du?
                             
             * [Samiska kyrkodagar](https://www.svenskakyrkan.se/samiska-kyrkodagar)
                 
-            * [Samiska rådet i Svenska kyrkan](https://www.svenskakyrkan.se/samiska/samiska-radet)
+            * [Samiska rådet](https://www.svenskakyrkan.se/samiska/samiska-radet)
                 
                 * [Samiska rådets kulturpris](https://www.svenskakyrkan.se/samiska-radets-kulturpris)
                     
