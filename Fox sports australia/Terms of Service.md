@@ -18,108 +18,67 @@ FOX SCORES
     
 * [NRL
     
-    Complete
+    20/9 19:50 AEST
     
     |     |     |
     | --- | --- |
-    | PEN | 30  |
-    | SYD | 10  |
-    
-    Match Centre](https://www.foxsports.com.au/nrl/nrl-premiership/match-centre/NRL20242801/match-report)
-* [NRL
-    
-    14/9 16:05 AEST
-    
-    |     |     |
-    | --- | --- |
-    | MEL | –   |
     | CRO | –   |
-    
-    Match Centre](https://www.foxsports.com.au/nrl/nrl-premiership/match-centre/NRL20242802)
-* [NRL
-    
-    14/9 19:50 AEST
-    
-    |     |     |
-    | --- | --- |
     | NQL | –   |
-    | NEW | –   |
     
-    Match Centre](https://www.foxsports.com.au/nrl/nrl-premiership/match-centre/NRL20242803)
-* [NRL Women's
+    Match Centre](https://www.foxsports.com.au/nrl/nrl-premiership/match-centre/NRL20242901)
+* [NRL
     
-    14/9 12:00 AEST
-    
-    |     |     |
-    | --- | --- |
-    | BRI | –   |
-    | CRO | –   |
-    
-    Match Centre](https://www.foxsports.com.au/nrl/nrlw/match-centre/NRLW20240802)
-* [NRL Women's
-    
-    14/9 13:45 AEST
-    
-    |     |     |
-    | --- | --- |
-    | GLD | –   |
-    | NEW | –   |
-    
-    Match Centre](https://www.foxsports.com.au/nrl/nrlw/match-centre/NRLW20240803)
-* AFL
-    
-* [AFL
-    
-    Complete
-    
-    |     |     |
-    | --- | --- |
-    | POR | 11.9.75 |
-    | HAW | 11.6.72 |
-    
-    Match Centre](https://www.foxsports.com.au/afl/match-centre/AFL20242601)
-* [AFL
-    
-    14/9 19:30 AEST
-    
-    |     |     |
-    | --- | --- |
-    | GWS | –   |
-    | BRI | –   |
-    
-    Match Centre](https://www.foxsports.com.au/afl/match-centre/AFL20242602)
-* [AFL Women's
-    
-    Complete
-    
-    |     |     |
-    | --- | --- |
-    | BRI | 10.12.72 |
-    | COL | 3.2.20 |
-    
-    Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240302)
-* [AFL Women's
-    
-    14/9 12:35 AEST
+    21/9 19:50 AEST
     
     |     |     |
     | --- | --- |
     | SYD | –   |
-    | RIC | –   |
+    | MAN | –   |
     
-    Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240303)
-* Cricket
+    Match Centre](https://www.foxsports.com.au/nrl/nrl-premiership/match-centre/NRL20242902)
+* [NRL Women's
     
-* [Men's T20I
-    
-    14/9 3:30 AEST
+    19/9 19:45 AEST
     
     |     |     |
     | --- | --- |
-    | ENG | –   |
-    | AUS | –   |
+    | CRO | –   |
+    | WST | –   |
     
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/T20I20241702)
+    Match Centre](https://www.foxsports.com.au/nrl/nrlw/match-centre/NRLW20240901)
+* AFL
+    
+* [AFL
+    
+    20/9 19:40 AEST
+    
+    |     |     |
+    | --- | --- |
+    | SYD | –   |
+    | POR | –   |
+    
+    Match Centre](https://www.foxsports.com.au/afl/match-centre/AFL20242701)
+* [AFL
+    
+    21/9 17:15 AEST
+    
+    |     |     |
+    | --- | --- |
+    | GEE | –   |
+    | BRI | –   |
+    
+    Match Centre](https://www.foxsports.com.au/afl/match-centre/AFL20242702)
+* Netball
+    
+* Women's Tests
+    
+    19/9 19:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | AUS | –   |
+    | ENG | –   |
+    
 * NFL
     
 * [NFL
@@ -128,15 +87,145 @@ FOX SCORES
     
     |     |     |
     | --- | --- |
-    | MIA | 10  |
-    | BUF | 31  |
+    | CAR | 3   |
+    | LAC | 26  |
     
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250201)
+    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250210)
+* [NFL
+    
+    Full Time
+    
+    |     |     |
+    | --- | --- |
+    | GB  | 16  |
+    | IND | 10  |
+    
+    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250205)
+* [NFL
+    
+    Full Time
+    
+    |     |     |
+    | --- | --- |
+    | MIN | 23  |
+    | SF  | 17  |
+    
+    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250207)
+* [NFL
+    
+    Full Time
+    
+    |     |     |
+    | --- | --- |
+    | DAL | 19  |
+    | NO  | 44  |
+    
+    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250203)
+* [NFL
+    
+    Full Time
+    
+    |     |     |
+    | --- | --- |
+    | DET | 16  |
+    | TB  | 20  |
+    
+    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250204)
+* [NFL
+    
+    Full Time
+    
+    |     |     |
+    | --- | --- |
+    | TEN | 17  |
+    | NYJ | 24  |
+    
+    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250206)
+* [NFL
+    
+    Full Time
+    
+    |     |     |
+    | --- | --- |
+    | WAS | 21  |
+    | NYG | 18  |
+    
+    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250209)
+* [NFL
+    
+    Full Time
+    
+    |     |     |
+    | --- | --- |
+    | NE  | 20  |
+    | SEA | 23  |
+    
+    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250208)
+* [NFL
+    
+    Full Time
+    
+    |     |     |
+    | --- | --- |
+    | JAX | 13  |
+    | CLE | 18  |
+    
+    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250211)
+* [NFL
+    
+    Full Time
+    
+    |     |     |
+    | --- | --- |
+    | BAL | 23  |
+    | LV  | 26  |
+    
+    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250212)
+* [NFL
+    
+    Full Time
+    
+    |     |     |
+    | --- | --- |
+    | ARI | 41  |
+    | LAR | 10  |
+    
+    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250213)
+* [NFL
+    
+    Full Time
+    
+    |     |     |
+    | --- | --- |
+    | DEN | 6   |
+    | PIT | 13  |
+    
+    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250214)
+* [NFL
+    
+    Full Time
+    
+    |     |     |
+    | --- | --- |
+    | KC  | 26  |
+    | CIN | 25  |
+    
+    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250202)
+* [NFL
+    
+    Full Time
+    
+    |     |     |
+    | --- | --- |
+    | HOU | 19  |
+    | CHI | 13  |
+    
+    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250215)
 * Motorsport
     
 * [Supercars
     
-    12/9 0:00 AEST
+    Complete
     
     |     |
     | --- |
@@ -146,7 +235,7 @@ FOX SCORES
     Race Centre](https://www.foxsports.com.au/motorsport/supercars/race-centre?meetingid=742)
 * [Formula 1
     
-    13/9 19:30 AEST
+    Complete
     
     |     |
     | --- |
@@ -154,6 +243,28 @@ FOX SCORES
     |     |
     
     Race Centre](https://www.foxsports.com.au/motorsport/formula-one/race-centre?meetingid=591)
+* [MotoGP
+    
+    20/9 18:45 AEST
+    
+    |     |
+    | --- |
+    | San Marino GP |
+    |     |
+    
+    Race Centre](https://www.foxsports.com.au/motorsport/moto-gp/race-centre?meetingid=709)
+* Rugby
+    
+* [Rugby Champs
+    
+    21/9 15:45 AEST
+    
+    |     |     |
+    | --- | --- |
+    | AUS | –   |
+    | NZL | –   |
+    
+    Match Centre](https://www.foxsports.com.au/rugby/the-rugby-championship/match-centre/RTN20240501)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
@@ -793,7 +904,6 @@ FOX SCORES
 * [Women's World Cup](https://www.foxsports.com.au/video/football/womens-world-cup)
 * [Asian Cup](https://www.foxsports.com.au/video/football/asian-cup)
 * [Matildas](https://www.foxsports.com.au/video/football/matildas)
-* [UCL and Europa League](https://www.foxsports.com.au/video/football/ucl-and-europa-league)
 * [Socceroos](https://www.foxsports.com.au/video/football/socceroos)
 * [Football](https://www.foxsports.com.au/video/football/football)
 * [Asian Champions League](https://www.foxsports.com.au/video/football/asian-champions-league)
@@ -858,7 +968,6 @@ FOX SCORES
 [UFC](https://www.foxsports.com.au/video/ufc)
 
 * [UFC](https://www.foxsports.com.au/video/ufc/ufc)
-* [Fight Week](https://www.foxsports.com.au/video/ufc/fight-week)
 * [Press Conferences](https://www.foxsports.com.au/video/ufc/press-conferences)
 
 [Sponsored](https://www.foxsports.com.au/video/sponsored)
