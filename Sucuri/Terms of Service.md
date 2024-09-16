@@ -337,7 +337,7 @@ Let’s Connect
 
 [Solutions](https://sucuri.net/ddos-protection/)
 
-[DDoS Protection](https://sucuri.net/ddos-protection/) [Malware Detection](https://sucuri.net/malware-detection-scanning/) [Malware Removal](https://sucuri.net/website-malware-removal/) [Malware Prevention](https://sucuri.net/intrusion-detection-system/) [Blacklist Removal](https://sucuri.net/website-security-platform/blocklist-removal-and-repair/) [SEO Spam Removal](https://sucuri.net/seo-spam-removal/)
+[DDoS Protection](https://sucuri.net/ddos-protection/) [Malware Detection](https://sucuri.net/malware-detection-scanning/) [Malware Removal](https://sucuri.net/website-malware-removal/) [Malware Prevention](https://sucuri.net/intrusion-detection-system/) [Blacklist Removal](https://sucuri.net/website-security-platform/blocklist-removal-and-repair/) [SEO Spam Removal](https://sucuri.net/seo-spam-removal/) [Wordpress Security Plugin](https://sucuri.net/wordpress-security-plugin/)
 
 [USE CASES](#)
 
