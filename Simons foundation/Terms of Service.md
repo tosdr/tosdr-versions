@@ -867,3 +867,5 @@ Continue
 [](#)
 
 [](#)
+
+We care about your data, and we'd like to use cookies to give you a smooth browsing experience. Please agree and read more about our [privacy policy.](https://www.simonsfoundation.org/privacy-policy)[AGREE](#)[DISMISS](#)
