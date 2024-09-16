@@ -393,14 +393,6 @@ Nothing contained in this Agreement limits Fox’s right to comply with governme
 
 Please contact the Site Administrator with any questions regarding this Agreement by sending an email to: [**Terms-KDFW@fox.com**](mailto:Terms-KDFW@fox.com)
 
-[![Trump subject of apparent assassination attempt, FBI says](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/149/84/snapshot-7-1.jpg?ve=1&tl=1)](https://www.fox4news.com/news/shots-fired-trump-national-golf-club-trump-golfing)
-
-BREAKING NEWS
-
-[Live updates: Trump subject of apparent assassination attempt, FBI says](https://www.fox4news.com/news/shots-fired-trump-national-golf-club-trump-golfing)
-
-[The FBI says it's investigating “what appears to be an attempted assassination" of Donald Trump at his golf club in West Palm Beach, Florida.](https://www.fox4news.com/news/shots-fired-trump-national-golf-club-trump-golfing)
-
 ###### [News](https://www.fox4news.com/news)
 
 * [Local News](https://www.fox4news.com/local-news)
