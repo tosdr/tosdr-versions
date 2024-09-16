@@ -13,7 +13,7 @@ FastKeys Documentation
 
 1. Introduction
 
-[](https://fastkeysautomation.com/documentation5/Introduction.html "Introduction")[](https://fastkeysautomation.com/documentation5/Installation.html "Installation")[](https://fastkeysautomation.com/documentation5/FAQ.html "FAQ")
+[](https://fastkeysautomation.com/documentation5/Installation.html "Installation")[](https://fastkeysautomation.com/documentation5/FAQ.html "FAQ")
 
 Privacy Policy
 --------------
@@ -208,11 +208,7 @@ Fast Technologies
 
   
 
-  
-
-===
-
-Copyright © 2023 by Fast Technologies. All Rights Reserved.
+Copyright © 2024 by Fast Technologies. All Rights Reserved.
 
 ×
 
