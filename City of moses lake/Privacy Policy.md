@@ -1,6 +1,6 @@
 [Skip to Main Content](#cc46f5544b-9691-4c1d-9b7f-6aa976431ff4)
 
-          ![Moses Lake, WA](/ImageRepository/Document?documentID=10272)
+         ![Moses Lake, WA](/ImageRepository/Document?documentID=10272)
 
 [![Home page](/ImageRepository/Document?documentID=10271)](https://www.cityofml.com/)
 
