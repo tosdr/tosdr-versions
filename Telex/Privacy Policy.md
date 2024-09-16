@@ -1,10 +1,10 @@
-Teodóra
+Edit
 
 [belföld](https://telex.hu/rovat/belfold) [külföld](https://telex.hu/rovat/kulfold) [gazdaság](https://telex.hu/rovat/gazdasag) [videó](https://telex.hu/rovat/video) [élet](https://telex.hu/rovat/eletmod) [techtud](https://telex.hu/rovat/techtud) [after](https://telex.hu/after) [english](https://telex.hu/english)
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNgYAAAAAMAASsJTYQAAAAASUVORK5CYII= "gyengén felhős")
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNgYAAAAAMAASsJTYQAAAAASUVORK5CYII= "erősen felhős")
 
-15°25°
+13°16°
 
 Menü
 
@@ -13,6 +13,8 @@ Kereső
 [](https://telex.hu/)
 
 [Belépés](https://tamogatas.telex.hu/profil)
+
+[Támogatás](https://telex.hu/tamogatas)
 
 Adatkezelési tájékoztató
 ========================
