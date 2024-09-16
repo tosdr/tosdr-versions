@@ -88,7 +88,7 @@ Jun **14**
 * [Jun 14, 2024](https://papermc.io/threads/1-21.1221/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 7,690
+* 7,812
 * 2
 
 ### The 1.21 Update​
@@ -204,7 +204,7 @@ May **28**
 * [May 28, 2024](https://papermc.io/threads/paper-velocity-1-20-6.1152/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 7,521
+* 7,585
 * 6
 
 ### The 1.20.5/6 Update​
@@ -302,7 +302,7 @@ Mar **26**
 * [Mar 26, 2024](https://papermc.io/threads/announcing-the-end-of-life-of-waterfall.1088/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 16,326
+* 16,411
 * 10
 
 Announcing the end of life of Waterfall​
@@ -340,7 +340,7 @@ Mar **22**
 * [Mar 22, 2024](https://papermc.io/threads/important-dev-psa-future-removal-of-cb-package-relocation.1106/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 13,669
+* 13,747
 * 12
 
 ### Future removal of CB package relocation + moving away from obfuscation at runtime​
@@ -438,7 +438,7 @@ Dec **31**
 * [Dec 31, 2023](https://papermc.io/threads/new-years-post.1009/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 21,561
+* 21,911
 * 6
 
 Happy New Year from PaperMC!​
@@ -582,7 +582,7 @@ Dec **25**
 * [Dec 25, 2023](https://papermc.io/threads/paper-velocity-1-20-4.998/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 7,976
+* 8,041
 * 1
 
 ### The 1.20.4 Update​
@@ -641,7 +641,7 @@ Oct **10**
 * [Oct 10, 2023](https://papermc.io/threads/paper-velocity-1-20-2.920/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 14,651
+* 14,676
 * 1
 
 ### The 1.20.2 Update​
@@ -761,7 +761,7 @@ Jun **11**
 * [Jun 11, 2023](https://papermc.io/threads/paper-velocity-1-20-1.783/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 13,021
+* 13,081
 * 9
 
 ### The 1.20(.1) Update​
@@ -834,7 +834,7 @@ Apr **20**
 * [Apr 20, 2023](https://papermc.io/threads/hangar-papermcs-plugin-repository.691/)
 * [MiniDigger](https://papermc.io/home/authors/minidigger.15/)
 
-* 6,263
+* 6,290
 * 1
 
 Once again, we have another exciting announcement for you, this time about PaperMC's own site for uploading and downloading Paper, Velocity, and Waterfall plugins, called [**Hangar**](https://hangar.papermc.io/)! The main reason we started working on this is to finally provide a centralized place for Paper and Velocity plugins. Compared to the Spigot forums, Hangar allows you much more control over your resource in terms of:  
@@ -882,7 +882,7 @@ Mar **15**
 * [Mar 15, 2023](https://papermc.io/threads/paper-velocity-1-19-4.680/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 7,954
+* 7,975
 * 3
 
 ### The 1.19.4 Update​
@@ -954,7 +954,7 @@ Dec **11**
 * [Dec 11, 2022](https://papermc.io/threads/paper-velocity-1-19-3.592/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 13,428
+* 13,448
 * 1
 
 ### The 1.19.3 Update​
@@ -1002,7 +1002,7 @@ Sep **29**
 * [Sep 29, 2022](https://papermc.io/threads/malware-announcement.529/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 34,682
+* 34,709
 * 22
 
 We've seen a lot of reports of a new malware going around Minecraft servers. It seems to be spread by compromised Spigot plugin-author accounts, and is somewhat difficult to detect. We do know that the following exception is caused by it:  
@@ -1051,7 +1051,7 @@ Jul **30**
 * [Jul 30, 2022](https://papermc.io/threads/paper-1-19-1.394/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 14,747
+* 14,769
 * 1
 
 ### The 1.19.1 Update​
@@ -1094,7 +1094,7 @@ Jun **12**
 * [Jun 12, 2022](https://papermc.io/threads/paper-1-19.344/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 36,892
+* 36,927
 * 18
 
 ### The 1.19 Update​
@@ -1166,7 +1166,7 @@ Mar **04**
 * [Mar 4, 2022](https://papermc.io/threads/paper-1-18-2.185/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 23,265
+* 23,302
 * 12
 
 ### The 1.18.2 Update​
@@ -1217,7 +1217,7 @@ Jan **04**
 * [Jan 4, 2022](https://papermc.io/threads/paper-1-18-and-more.6/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 23,731
+* 23,759
 * 17
 
 ### The 1.18 update​
@@ -1295,7 +1295,7 @@ Dec **14**
 * [Dec 14, 2021](https://papermc.io/threads/welcome-to-papermc.1/)
 * [kashike](https://papermc.io/home/authors/kashike.1/)
 
-* 8,574
+* 8,590
 * 2
 
 [![kashike](https://secure.gravatar.com/avatar/c50766d24721f3cdd0ff9e8ead43134b?s=48)](https://papermc.io/members/kashike.1/)
@@ -1318,41 +1318,19 @@ Overall, PaperMC is a community that's excited about Minecraft software and maki
 
 No members online now.
 
-Total: 34 (members: 0, guests: 34)
+Total: 39 (members: 0, guests: 39)
 
 ### [Latest posts](https://papermc.io/whats-new/posts/?skip=1)
 
-[C](https://papermc.io/members/catslicer41.10964/)
-
-Question [Making an entity lie down](https://papermc.io/threads/making-an-entity-lie-down.1341/)
-
-* [catslicer41](https://papermc.io/members/catslicer41.10964/)
-* [Today at 3:17 AM](https://papermc.io/threads/making-an-entity-lie-down.1341/)
-* [Plugin Development](https://papermc.io/forums/paper-plugin-development/)
-
-Replies
-
-0
-
-Views
-
-39
-
-[Plugin Development](https://papermc.io/forums/paper-plugin-development/) [Today at 3:17 AM](https://papermc.io/threads/making-an-entity-lie-down.1341/latest)
-
-[catslicer41](https://papermc.io/members/catslicer41.10964/)
-
-[C](https://papermc.io/members/catslicer41.10964/)
-
-[B](https://papermc.io/members/brightyellow.11081/)
+[T](https://papermc.io/members/tryevct56752.11141/)
 
 * Question
 
-Question [Stuck on joining world](https://papermc.io/threads/stuck-on-joining-world.1340/)
+Question [麦克马斯特大学学历认证原版McMaster文凭Q/微993398773办理加拿大大学毕业证成绩单留信认证回国证 明假学历制作文凭制作McMaster University](https://papermc.io/threads/%E9%BA%A6%E5%85%8B%E9%A9%AC%E6%96%AF%E7%89%B9%E5%A4%A7%E5%AD%A6%E5%AD%A6%E5%8E%86%E8%AE%A4%E8%AF%81%E5%8E%9F%E7%89%88mcmaster%E6%96%87%E5%87%ADq-%E5%BE%AE993398773%E5%8A%9E%E7%90%86%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%A4%A7%E5%AD%A6%E6%AF%95%E4%B8%9A%E8%AF%81%E6%88%90%E7%BB%A9%E5%8D%95%E7%95%99%E4%BF%A1%E8%AE%A4%E8%AF%81%E5%9B%9E%E5%9B%BD%E8%AF%81-%E6%98%8E%E5%81%87%E5%AD%A6%E5%8E%86%E5%88%B6%E4%BD%9C%E6%96%87%E5%87%AD%E5%88%B6%E4%BD%9Cmcmaster-university.1347/)
 
-* [BrightYellow](https://papermc.io/members/brightyellow.11081/)
-* [Yesterday at 5:09 AM](https://papermc.io/threads/stuck-on-joining-world.1340/)
-* [Help](https://papermc.io/forums/velocity-help/)
+* [tryevct56752](https://papermc.io/members/tryevct56752.11141/)
+* [Today at 8:53 AM](https://papermc.io/threads/%E9%BA%A6%E5%85%8B%E9%A9%AC%E6%96%AF%E7%89%B9%E5%A4%A7%E5%AD%A6%E5%AD%A6%E5%8E%86%E8%AE%A4%E8%AF%81%E5%8E%9F%E7%89%88mcmaster%E6%96%87%E5%87%ADq-%E5%BE%AE993398773%E5%8A%9E%E7%90%86%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%A4%A7%E5%AD%A6%E6%AF%95%E4%B8%9A%E8%AF%81%E6%88%90%E7%BB%A9%E5%8D%95%E7%95%99%E4%BF%A1%E8%AE%A4%E8%AF%81%E5%9B%9E%E5%9B%BD%E8%AF%81-%E6%98%8E%E5%81%87%E5%AD%A6%E5%8E%86%E5%88%B6%E4%BD%9C%E6%96%87%E5%87%AD%E5%88%B6%E4%BD%9Cmcmaster-university.1347/)
+* [Help](https://papermc.io/forums/paper-help/)
 
 Replies
 
@@ -1360,20 +1338,116 @@ Replies
 
 Views
 
-49
+12
 
-[Help](https://papermc.io/forums/velocity-help/) [Yesterday at 5:09 AM](https://papermc.io/threads/stuck-on-joining-world.1340/latest)
+[Help](https://papermc.io/forums/paper-help/) [Today at 8:53 AM](https://papermc.io/threads/%E9%BA%A6%E5%85%8B%E9%A9%AC%E6%96%AF%E7%89%B9%E5%A4%A7%E5%AD%A6%E5%AD%A6%E5%8E%86%E8%AE%A4%E8%AF%81%E5%8E%9F%E7%89%88mcmaster%E6%96%87%E5%87%ADq-%E5%BE%AE993398773%E5%8A%9E%E7%90%86%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%A4%A7%E5%AD%A6%E6%AF%95%E4%B8%9A%E8%AF%81%E6%88%90%E7%BB%A9%E5%8D%95%E7%95%99%E4%BF%A1%E8%AE%A4%E8%AF%81%E5%9B%9E%E5%9B%BD%E8%AF%81-%E6%98%8E%E5%81%87%E5%AD%A6%E5%8E%86%E5%88%B6%E4%BD%9C%E6%96%87%E5%87%AD%E5%88%B6%E4%BD%9Cmcmaster-university.1347/latest)
 
-[BrightYellow](https://papermc.io/members/brightyellow.11081/)
+[tryevct56752](https://papermc.io/members/tryevct56752.11141/)
 
-[B](https://papermc.io/members/brightyellow.11081/)
+[T](https://papermc.io/members/tryevct56752.11141/)
 
-[U](https://papermc.io/members/unguru.11073/)
+[T](https://papermc.io/members/tryevct56752.11141/)
 
-[talk about why update Folia to 1.21 is not yet?](https://papermc.io/threads/talk-about-why-update-folia-to-1-21-is-not-yet.1339/)
+* Question
 
-* [unguru](https://papermc.io/members/unguru.11073/)
-* [Wednesday at 6:55 PM](https://papermc.io/threads/talk-about-why-update-folia-to-1-21-is-not-yet.1339/)
+Question [澳洲麦考瑞大学毕业证制作澳洲证书加微信993398773购买麦考瑞大学文凭认证,澳洲MQU毕业证成绩单 Quarie University](https://papermc.io/threads/%E6%BE%B3%E6%B4%B2%E9%BA%A6%E8%80%83%E7%91%9E%E5%A4%A7%E5%AD%A6%E6%AF%95%E4%B8%9A%E8%AF%81%E5%88%B6%E4%BD%9C%E6%BE%B3%E6%B4%B2%E8%AF%81%E4%B9%A6%E5%8A%A0%E5%BE%AE%E4%BF%A1993398773%E8%B4%AD%E4%B9%B0%E9%BA%A6%E8%80%83%E7%91%9E%E5%A4%A7%E5%AD%A6%E6%96%87%E5%87%AD%E8%AE%A4%E8%AF%81-%E6%BE%B3%E6%B4%B2mqu%E6%AF%95%E4%B8%9A%E8%AF%81%E6%88%90%E7%BB%A9%E5%8D%95-quarie-university.1346/)
+
+* [tryevct56752](https://papermc.io/members/tryevct56752.11141/)
+* [Today at 8:50 AM](https://papermc.io/threads/%E6%BE%B3%E6%B4%B2%E9%BA%A6%E8%80%83%E7%91%9E%E5%A4%A7%E5%AD%A6%E6%AF%95%E4%B8%9A%E8%AF%81%E5%88%B6%E4%BD%9C%E6%BE%B3%E6%B4%B2%E8%AF%81%E4%B9%A6%E5%8A%A0%E5%BE%AE%E4%BF%A1993398773%E8%B4%AD%E4%B9%B0%E9%BA%A6%E8%80%83%E7%91%9E%E5%A4%A7%E5%AD%A6%E6%96%87%E5%87%AD%E8%AE%A4%E8%AF%81-%E6%BE%B3%E6%B4%B2mqu%E6%AF%95%E4%B8%9A%E8%AF%81%E6%88%90%E7%BB%A9%E5%8D%95-quarie-university.1346/)
+* [Help](https://papermc.io/forums/paper-help/)
+
+Replies
+
+0
+
+Views
+
+17
+
+[Help](https://papermc.io/forums/paper-help/) [Today at 8:50 AM](https://papermc.io/threads/%E6%BE%B3%E6%B4%B2%E9%BA%A6%E8%80%83%E7%91%9E%E5%A4%A7%E5%AD%A6%E6%AF%95%E4%B8%9A%E8%AF%81%E5%88%B6%E4%BD%9C%E6%BE%B3%E6%B4%B2%E8%AF%81%E4%B9%A6%E5%8A%A0%E5%BE%AE%E4%BF%A1993398773%E8%B4%AD%E4%B9%B0%E9%BA%A6%E8%80%83%E7%91%9E%E5%A4%A7%E5%AD%A6%E6%96%87%E5%87%AD%E8%AE%A4%E8%AF%81-%E6%BE%B3%E6%B4%B2mqu%E6%AF%95%E4%B8%9A%E8%AF%81%E6%88%90%E7%BB%A9%E5%8D%95-quarie-university.1346/latest)
+
+[tryevct56752](https://papermc.io/members/tryevct56752.11141/)
+
+[T](https://papermc.io/members/tryevct56752.11141/)
+
+[T](https://papermc.io/members/tryevct56752.11141/)
+
+* Question
+
+Question [补办UMN学历文凭毕业证成绩单Q/微993398773明尼苏达大学双城分校毕业证学位证文凭学历认证留学认证教育部认证1:1制作电子图修改GPA成绩 University of Minnesota Twin Cities](https://papermc.io/threads/%E8%A1%A5%E5%8A%9Eumn%E5%AD%A6%E5%8E%86%E6%96%87%E5%87%AD%E6%AF%95%E4%B8%9A%E8%AF%81%E6%88%90%E7%BB%A9%E5%8D%95q-%E5%BE%AE993398773%E6%98%8E%E5%B0%BC%E8%8B%8F%E8%BE%BE%E5%A4%A7%E5%AD%A6%E5%8F%8C%E5%9F%8E%E5%88%86%E6%A0%A1%E6%AF%95%E4%B8%9A%E8%AF%81%E5%AD%A6%E4%BD%8D%E8%AF%81%E6%96%87%E5%87%AD%E5%AD%A6%E5%8E%86%E8%AE%A4%E8%AF%81%E7%95%99%E5%AD%A6%E8%AE%A4%E8%AF%81%E6%95%99%E8%82%B2%E9%83%A8%E8%AE%A4%E8%AF%811-1%E5%88%B6%E4%BD%9C%E7%94%B5%E5%AD%90%E5%9B%BE%E4%BF%AE%E6%94%B9gpa%E6%88%90%E7%BB%A9-university-of-minnesota-twin-cities.1345/)
+
+* [tryevct56752](https://papermc.io/members/tryevct56752.11141/)
+* [Today at 8:47 AM](https://papermc.io/threads/%E8%A1%A5%E5%8A%9Eumn%E5%AD%A6%E5%8E%86%E6%96%87%E5%87%AD%E6%AF%95%E4%B8%9A%E8%AF%81%E6%88%90%E7%BB%A9%E5%8D%95q-%E5%BE%AE993398773%E6%98%8E%E5%B0%BC%E8%8B%8F%E8%BE%BE%E5%A4%A7%E5%AD%A6%E5%8F%8C%E5%9F%8E%E5%88%86%E6%A0%A1%E6%AF%95%E4%B8%9A%E8%AF%81%E5%AD%A6%E4%BD%8D%E8%AF%81%E6%96%87%E5%87%AD%E5%AD%A6%E5%8E%86%E8%AE%A4%E8%AF%81%E7%95%99%E5%AD%A6%E8%AE%A4%E8%AF%81%E6%95%99%E8%82%B2%E9%83%A8%E8%AE%A4%E8%AF%811-1%E5%88%B6%E4%BD%9C%E7%94%B5%E5%AD%90%E5%9B%BE%E4%BF%AE%E6%94%B9gpa%E6%88%90%E7%BB%A9-university-of-minnesota-twin-cities.1345/)
+* [Help](https://papermc.io/forums/paper-help/)
+
+Replies
+
+0
+
+Views
+
+20
+
+[Help](https://papermc.io/forums/paper-help/) [Today at 8:47 AM](https://papermc.io/threads/%E8%A1%A5%E5%8A%9Eumn%E5%AD%A6%E5%8E%86%E6%96%87%E5%87%AD%E6%AF%95%E4%B8%9A%E8%AF%81%E6%88%90%E7%BB%A9%E5%8D%95q-%E5%BE%AE993398773%E6%98%8E%E5%B0%BC%E8%8B%8F%E8%BE%BE%E5%A4%A7%E5%AD%A6%E5%8F%8C%E5%9F%8E%E5%88%86%E6%A0%A1%E6%AF%95%E4%B8%9A%E8%AF%81%E5%AD%A6%E4%BD%8D%E8%AF%81%E6%96%87%E5%87%AD%E5%AD%A6%E5%8E%86%E8%AE%A4%E8%AF%81%E7%95%99%E5%AD%A6%E8%AE%A4%E8%AF%81%E6%95%99%E8%82%B2%E9%83%A8%E8%AE%A4%E8%AF%811-1%E5%88%B6%E4%BD%9C%E7%94%B5%E5%AD%90%E5%9B%BE%E4%BF%AE%E6%94%B9gpa%E6%88%90%E7%BB%A9-university-of-minnesota-twin-cities.1345/latest)
+
+[tryevct56752](https://papermc.io/members/tryevct56752.11141/)
+
+[T](https://papermc.io/members/tryevct56752.11141/)
+
+[T](https://papermc.io/members/tryevct56752.11141/)
+
+* Question
+
+Question [卡尔顿大学学历认证原版Carleton文凭Q/微993398773办理加拿大大学毕业证成绩单留信认证回国证明假 学历制作文凭制作Carleton University](https://papermc.io/threads/%E5%8D%A1%E5%B0%94%E9%A1%BF%E5%A4%A7%E5%AD%A6%E5%AD%A6%E5%8E%86%E8%AE%A4%E8%AF%81%E5%8E%9F%E7%89%88carleton%E6%96%87%E5%87%ADq-%E5%BE%AE993398773%E5%8A%9E%E7%90%86%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%A4%A7%E5%AD%A6%E6%AF%95%E4%B8%9A%E8%AF%81%E6%88%90%E7%BB%A9%E5%8D%95%E7%95%99%E4%BF%A1%E8%AE%A4%E8%AF%81%E5%9B%9E%E5%9B%BD%E8%AF%81%E6%98%8E%E5%81%87-%E5%AD%A6%E5%8E%86%E5%88%B6%E4%BD%9C%E6%96%87%E5%87%AD%E5%88%B6%E4%BD%9Ccarleton-university.1344/)
+
+* [tryevct56752](https://papermc.io/members/tryevct56752.11141/)
+* [Today at 8:43 AM](https://papermc.io/threads/%E5%8D%A1%E5%B0%94%E9%A1%BF%E5%A4%A7%E5%AD%A6%E5%AD%A6%E5%8E%86%E8%AE%A4%E8%AF%81%E5%8E%9F%E7%89%88carleton%E6%96%87%E5%87%ADq-%E5%BE%AE993398773%E5%8A%9E%E7%90%86%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%A4%A7%E5%AD%A6%E6%AF%95%E4%B8%9A%E8%AF%81%E6%88%90%E7%BB%A9%E5%8D%95%E7%95%99%E4%BF%A1%E8%AE%A4%E8%AF%81%E5%9B%9E%E5%9B%BD%E8%AF%81%E6%98%8E%E5%81%87-%E5%AD%A6%E5%8E%86%E5%88%B6%E4%BD%9C%E6%96%87%E5%87%AD%E5%88%B6%E4%BD%9Ccarleton-university.1344/)
+* [Help](https://papermc.io/forums/paper-help/)
+
+Replies
+
+0
+
+Views
+
+18
+
+[Help](https://papermc.io/forums/paper-help/) [Today at 8:43 AM](https://papermc.io/threads/%E5%8D%A1%E5%B0%94%E9%A1%BF%E5%A4%A7%E5%AD%A6%E5%AD%A6%E5%8E%86%E8%AE%A4%E8%AF%81%E5%8E%9F%E7%89%88carleton%E6%96%87%E5%87%ADq-%E5%BE%AE993398773%E5%8A%9E%E7%90%86%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%A4%A7%E5%AD%A6%E6%AF%95%E4%B8%9A%E8%AF%81%E6%88%90%E7%BB%A9%E5%8D%95%E7%95%99%E4%BF%A1%E8%AE%A4%E8%AF%81%E5%9B%9E%E5%9B%BD%E8%AF%81%E6%98%8E%E5%81%87-%E5%AD%A6%E5%8E%86%E5%88%B6%E4%BD%9C%E6%96%87%E5%87%AD%E5%88%B6%E4%BD%9Ccarleton-university.1344/latest)
+
+[tryevct56752](https://papermc.io/members/tryevct56752.11141/)
+
+[T](https://papermc.io/members/tryevct56752.11141/)
+
+[T](https://papermc.io/members/tryevct56752.11141/)
+
+* Question
+
+Question [澳洲昆士兰大学毕业证制作澳洲证书加微信993398773购买昆士兰大学文凭认证,澳洲UQ毕业证成绩单 University of Queensland](https://papermc.io/threads/%E6%BE%B3%E6%B4%B2%E6%98%86%E5%A3%AB%E5%85%B0%E5%A4%A7%E5%AD%A6%E6%AF%95%E4%B8%9A%E8%AF%81%E5%88%B6%E4%BD%9C%E6%BE%B3%E6%B4%B2%E8%AF%81%E4%B9%A6%E5%8A%A0%E5%BE%AE%E4%BF%A1993398773%E8%B4%AD%E4%B9%B0%E6%98%86%E5%A3%AB%E5%85%B0%E5%A4%A7%E5%AD%A6%E6%96%87%E5%87%AD%E8%AE%A4%E8%AF%81-%E6%BE%B3%E6%B4%B2uq%E6%AF%95%E4%B8%9A%E8%AF%81%E6%88%90%E7%BB%A9%E5%8D%95-university-of-queensland.1343/)
+
+* [tryevct56752](https://papermc.io/members/tryevct56752.11141/)
+* [Today at 8:40 AM](https://papermc.io/threads/%E6%BE%B3%E6%B4%B2%E6%98%86%E5%A3%AB%E5%85%B0%E5%A4%A7%E5%AD%A6%E6%AF%95%E4%B8%9A%E8%AF%81%E5%88%B6%E4%BD%9C%E6%BE%B3%E6%B4%B2%E8%AF%81%E4%B9%A6%E5%8A%A0%E5%BE%AE%E4%BF%A1993398773%E8%B4%AD%E4%B9%B0%E6%98%86%E5%A3%AB%E5%85%B0%E5%A4%A7%E5%AD%A6%E6%96%87%E5%87%AD%E8%AE%A4%E8%AF%81-%E6%BE%B3%E6%B4%B2uq%E6%AF%95%E4%B8%9A%E8%AF%81%E6%88%90%E7%BB%A9%E5%8D%95-university-of-queensland.1343/)
+* [Help](https://papermc.io/forums/paper-help/)
+
+Replies
+
+0
+
+Views
+
+21
+
+[Help](https://papermc.io/forums/paper-help/) [Today at 8:40 AM](https://papermc.io/threads/%E6%BE%B3%E6%B4%B2%E6%98%86%E5%A3%AB%E5%85%B0%E5%A4%A7%E5%AD%A6%E6%AF%95%E4%B8%9A%E8%AF%81%E5%88%B6%E4%BD%9C%E6%BE%B3%E6%B4%B2%E8%AF%81%E4%B9%A6%E5%8A%A0%E5%BE%AE%E4%BF%A1993398773%E8%B4%AD%E4%B9%B0%E6%98%86%E5%A3%AB%E5%85%B0%E5%A4%A7%E5%AD%A6%E6%96%87%E5%87%AD%E8%AE%A4%E8%AF%81-%E6%BE%B3%E6%B4%B2uq%E6%AF%95%E4%B8%9A%E8%AF%81%E6%88%90%E7%BB%A9%E5%8D%95-university-of-queensland.1343/latest)
+
+[tryevct56752](https://papermc.io/members/tryevct56752.11141/)
+
+[T](https://papermc.io/members/tryevct56752.11141/)
+
+[B](https://papermc.io/members/bingy.8925/)
+
+[Chunkloader Plugin](https://papermc.io/threads/chunkloader-plugin.1200/)
+
+* [bingy](https://papermc.io/members/bingy.8925/)
+* [Jun 2, 2024](https://papermc.io/threads/chunkloader-plugin.1200/)
 * [Discussion](https://papermc.io/forums/paper-discussion/)
 
 Replies
@@ -1382,163 +1456,91 @@ Replies
 
 Views
 
-73
+241
 
-[Discussion](https://papermc.io/forums/paper-discussion/) [Wednesday at 8:36 PM](https://papermc.io/threads/talk-about-why-update-folia-to-1-21-is-not-yet.1339/latest)
+[Discussion](https://papermc.io/forums/paper-discussion/) [Today at 8:00 AM](https://papermc.io/threads/chunkloader-plugin.1200/latest)
 
-[Tamion](https://papermc.io/members/tamion.5431/)
+[Dxza32](https://papermc.io/members/dxza32.11140/)
 
-[![Tamion](/data/avatars/s/5/5431.jpg?1694174759)](https://papermc.io/members/tamion.5431/)
+[D](https://papermc.io/members/dxza32.11140/)
 
-[M](https://papermc.io/members/mateusgcoelho.11068/)
+[![ardacarofficial](https://secure.gravatar.com/avatar/d169d051df38e3b36472fbc9bd5738f6?s=48)](https://papermc.io/members/ardacarofficial.9645/)
 
-Question [Change Nickname for all in server](https://papermc.io/threads/change-nickname-for-all-in-server.1338/)
+[/timings analyse the server with](https://papermc.io/threads/timings-analyse-the-server-with.1246/)
 
-* [mateusgcoelho](https://papermc.io/members/mateusgcoelho.11068/)
-* [Wednesday at 2:04 PM](https://papermc.io/threads/change-nickname-for-all-in-server.1338/)
-* [Plugin Development](https://papermc.io/forums/paper-plugin-development/)
+* [ardacarofficial](https://papermc.io/members/ardacarofficial.9645/)
+* [Jun 27, 2024](https://papermc.io/threads/timings-analyse-the-server-with.1246/)
+* [Discussion](https://papermc.io/forums/paper-discussion/)
 
 Replies
 
-0
+2
 
 Views
 
-69
+239
 
-[Plugin Development](https://papermc.io/forums/paper-plugin-development/) [Wednesday at 2:04 PM](https://papermc.io/threads/change-nickname-for-all-in-server.1338/latest)
+[Discussion](https://papermc.io/forums/paper-discussion/) [Today at 7:54 AM](https://papermc.io/threads/timings-analyse-the-server-with.1246/latest)
 
-[mateusgcoelho](https://papermc.io/members/mateusgcoelho.11068/)
+[Dxza32](https://papermc.io/members/dxza32.11140/)
 
-[M](https://papermc.io/members/mateusgcoelho.11068/)
+[D](https://papermc.io/members/dxza32.11140/)
 
-[R](https://papermc.io/members/reizi.9279/)
+[![Jesse](https://secure.gravatar.com/avatar/a3ccfe55fdc6ac34c04b5e1ffcaab59d?s=48)](https://papermc.io/members/jesse.11125/)
 
 * Question
 
-Question [How to teleport from a lobby server to another server?](https://papermc.io/threads/how-to-teleport-from-a-lobby-server-to-another-server.1331/)
+Question [Getting Error: java.lang.IllegalStateException: Backend server is online-mode! no matter what I do](https://papermc.io/threads/getting-error-java-lang-illegalstateexception-backend-server-is-online-mode-no-matter-what-i-do.1342/)
 
-* [Reizi](https://papermc.io/members/reizi.9279/)
-* [Sep 2, 2024](https://papermc.io/threads/how-to-teleport-from-a-lobby-server-to-another-server.1331/)
+* [Jesse](https://papermc.io/members/jesse.11125/)
+* [Yesterday at 5:08 AM](https://papermc.io/threads/getting-error-java-lang-illegalstateexception-backend-server-is-online-mode-no-matter-what-i-do.1342/)
 * [Help](https://papermc.io/forums/velocity-help/)
 
 Replies
 
-1
+5
 
 Views
 
-222
+61
 
-[Help](https://papermc.io/forums/velocity-help/) [Monday at 6:58 PM](https://papermc.io/threads/how-to-teleport-from-a-lobby-server-to-another-server.1331/latest)
+[Help](https://papermc.io/forums/velocity-help/) [Yesterday at 6:09 PM](https://papermc.io/threads/getting-error-java-lang-illegalstateexception-backend-server-is-online-mode-no-matter-what-i-do.1342/latest)
 
-[bedrock3359](https://papermc.io/members/bedrock3359.11038/)
+[mbaxter](https://papermc.io/members/mbaxter.18/)
 
-[B](https://papermc.io/members/bedrock3359.11038/)
-
-[B](https://papermc.io/members/braveocean64.10842/)
-
-* Question
-
-Question [Paper issue with WorldEdit](https://papermc.io/threads/paper-issue-with-worldedit.1323/)
-
-* [BraveOcean64](https://papermc.io/members/braveocean64.10842/)
-* [Aug 30, 2024](https://papermc.io/threads/paper-issue-with-worldedit.1323/)
-* [Help](https://papermc.io/forums/paper-help/)
-
-Replies
-
-1
-
-Views
-
-121
-
-[Help](https://papermc.io/forums/paper-help/) [Monday at 6:55 PM](https://papermc.io/threads/paper-issue-with-worldedit.1323/latest)
-
-[bedrock3359](https://papermc.io/members/bedrock3359.11038/)
-
-[B](https://papermc.io/members/bedrock3359.11038/)
-
-[C](https://papermc.io/members/cliffordbigreddog.10946/)
-
-* Question
-
-[Help](https://papermc.io/threads/help.1332/)
-
-* [Cliffordbigreddog](https://papermc.io/members/cliffordbigreddog.10946/)
-* [Sep 3, 2024](https://papermc.io/threads/help.1332/)
-* [Help](https://papermc.io/forums/paper-help/)
-
-Replies
-
-1
-
-Views
-
-101
-
-[Help](https://papermc.io/forums/paper-help/) [Monday at 6:53 PM](https://papermc.io/threads/help.1332/latest)
-
-[bedrock3359](https://papermc.io/members/bedrock3359.11038/)
-
-[B](https://papermc.io/members/bedrock3359.11038/)
-
-[G](https://papermc.io/members/goldenleaves.11033/)
-
-* Question
-
-Question [Raid stops when I try to kill the pillagers](https://papermc.io/threads/raid-stops-when-i-try-to-kill-the-pillagers.1337/)
-
-* [GoldenLeaves](https://papermc.io/members/goldenleaves.11033/)
-* [Monday at 4:56 PM](https://papermc.io/threads/raid-stops-when-i-try-to-kill-the-pillagers.1337/)
-* [Help](https://papermc.io/forums/paper-help/)
-
-Replies
-
-0
-
-Views
-
-65
-
-[Help](https://papermc.io/forums/paper-help/) [Monday at 4:56 PM](https://papermc.io/threads/raid-stops-when-i-try-to-kill-the-pillagers.1337/latest)
-
-[GoldenLeaves](https://papermc.io/members/goldenleaves.11033/)
-
-[G](https://papermc.io/members/goldenleaves.11033/)
+[![mbaxter](/data/avatars/s/0/18.jpg?1641064117)](https://papermc.io/members/mbaxter.18/)
 
 [C](https://papermc.io/members/catslicer41.10964/)
 
-Solved [Storing a custom Java object](https://papermc.io/threads/storing-a-custom-java-object.1333/)
+Question [Making an entity lie down](https://papermc.io/threads/making-an-entity-lie-down.1341/)
 
 * [catslicer41](https://papermc.io/members/catslicer41.10964/)
-* [Sep 4, 2024](https://papermc.io/threads/storing-a-custom-java-object.1333/)
+* [Friday at 3:17 AM](https://papermc.io/threads/making-an-entity-lie-down.1341/)
 * [Plugin Development](https://papermc.io/forums/paper-plugin-development/)
 
 Replies
 
-6
+1
 
 Views
 
-180
+79
 
-[Plugin Development](https://papermc.io/forums/paper-plugin-development/) [Monday at 1:20 PM](https://papermc.io/threads/storing-a-custom-java-object.1333/latest)
+[Plugin Development](https://papermc.io/forums/paper-plugin-development/) [Saturday at 5:46 PM](https://papermc.io/threads/making-an-entity-lie-down.1341/latest)
 
-[catslicer41](https://papermc.io/members/catslicer41.10964/)
+[Noah](https://papermc.io/members/noah.81/)
 
-[C](https://papermc.io/members/catslicer41.10964/)
+[![Noah](/data/avatars/s/0/81.jpg?1705429041)](https://papermc.io/members/noah.81/)
 
-[R](https://papermc.io/members/rooyal.11006/)
+[B](https://papermc.io/members/brightyellow.11081/)
 
-* Article
+* Question
 
-Plugin Release [Celerity: Geo-Based Server Redirection \[Alpha\]](https://papermc.io/threads/celerity-geo-based-server-redirection-alpha.1336/)
+Question [Stuck on joining world](https://papermc.io/threads/stuck-on-joining-world.1340/)
 
-* [Rooyal](https://papermc.io/members/rooyal.11006/)
-* [Saturday at 3:05 AM](https://papermc.io/threads/celerity-geo-based-server-redirection-alpha.1336/)
-* [Plugin Releases](https://papermc.io/forums/velocity-plugin-releases/)
+* [BrightYellow](https://papermc.io/members/brightyellow.11081/)
+* [Thursday at 5:09 AM](https://papermc.io/threads/stuck-on-joining-world.1340/)
+* [Help](https://papermc.io/forums/velocity-help/)
 
 Replies
 
@@ -1546,13 +1548,13 @@ Replies
 
 Views
 
-123
+77
 
-[Plugin Releases](https://papermc.io/forums/velocity-plugin-releases/) [Saturday at 3:05 AM](https://papermc.io/threads/celerity-geo-based-server-redirection-alpha.1336/latest)
+[Help](https://papermc.io/forums/velocity-help/) [Thursday at 5:09 AM](https://papermc.io/threads/stuck-on-joining-world.1340/latest)
 
-[Rooyal](https://papermc.io/members/rooyal.11006/)
+[BrightYellow](https://papermc.io/members/brightyellow.11081/)
 
-[R](https://papermc.io/members/rooyal.11006/)
+[B](https://papermc.io/members/brightyellow.11081/)
 
 [View more…](https://papermc.io/whats-new/posts/?skip=1)
 
