@@ -277,15 +277,15 @@ Show Search
 * Copyright 2024 The Associated Press. All Rights Reserved.
     
 
-[Live updates: Donald Trump](https://apnews.com/live/trump-shooting-west-palm-beach-updates)
+[Donald Trump](https://apnews.com/live/trump-shooting-west-palm-beach-updates)
 
-[Live updates: Emmy Awards](https://apnews.com/live/emmy-awards-2024-winners-red-carpet-updates)
+[Emmy winners: Full list](https://apnews.com/article/2024-emmy-awards-winners-list-f5c4451fae5cf7d702281aaa41f9177a)
 
-[List of Emmy winners](https://apnews.com/article/2024-emmy-awards-winners-list-f5c4451fae5cf7d702281aaa41f9177a)
+[Tito Jackson dies](https://apnews.com/article/tito-jackson-dead-jackson-5-03d6bfb14b84b27d99f9c26411d83a8a)
 
-[European floods](https://apnews.com/article/floods-central-europe-289648d14b39da5883b9f48fffa2d817)
+[Europe floods](https://apnews.com/article/central-europe-floods-poland-czech-e9501517da041fda946454f875dc890c)
 
-[Israel-Hamas war](https://apnews.com/projects/west-bank-palestinian-teenagers-israel/)
+[AP Top 25](https://apnews.com/article/ap-top-25-50179e2ca80290fc81919aadbab2a593)
 
 The Associated Press
 ====================
