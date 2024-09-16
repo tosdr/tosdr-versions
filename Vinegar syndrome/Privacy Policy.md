@@ -130,7 +130,7 @@
         * [Toronto, ON](https://www.instagram.com/vinegarsyndrometoronto)
     * [Careers](https://support.vinegarsyndrome.com/en-US/careers-291136)
     * [Help Center](https://support.vinegarsyndrome.com/en-US)
-    * [Totally Rad! Labor Day Sale - FAQ](https://support.vinegarsyndrome.com/en-US/totally-rad-labor-day-sale---faq-732762)
+    * [Black Friday Pre-Order - FAQ](https://support.vinegarsyndrome.com/en-US/black-friday-pre-order-faq-787412)
 *    [Log In/Create Account](https://vinegarsyndrome.com/account/login)
 
 [Cart 0](https://vinegarsyndrome.com/cart)
@@ -547,7 +547,7 @@
         * [Toronto, ON](https://www.instagram.com/vinegarsyndrometoronto)
     * [Careers](https://support.vinegarsyndrome.com/en-US/careers-291136)
     * [Help Center](https://support.vinegarsyndrome.com/en-US)
-    * [Totally Rad! Labor Day Sale - FAQ](https://support.vinegarsyndrome.com/en-US/totally-rad-labor-day-sale---faq-732762)
+    * [Black Friday Pre-Order - FAQ](https://support.vinegarsyndrome.com/en-US/black-friday-pre-order-faq-787412)
 
 Privacy Policy
 ==============
@@ -676,10 +676,6 @@ contact@vinsyn.com
 
   
 **Last Edited on 2017-08-25**
-
-Access Denied
-
-**IMPORTANT!** If you’re a store owner, please make sure you have [Customer accounts enabled in your Store Admin](https://admin.shopify.com/store//settings/checkout), as you have customer based locks set up with EasyLockdown app. [Enable Customer Accounts](https://admin.shopify.com/store//settings/checkout)
 
 ### Info
 
