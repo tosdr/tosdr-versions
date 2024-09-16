@@ -284,14 +284,21 @@ Derry Court
 [Derry man (30) pleas guilty to 12 charges of possessing indecent images of children](https://www.derrynow.com/news/local-news/1606159/derry-man-30-pleas-guilty-to-12-charges-ofpossessing-indecent-images-of-children.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Police investigating Ballykelly burglary](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police investigating Ballykelly burglary")](https://www.derrynow.com/news/local-news/1605580/police-investigating-ballykelly-burglary.html)
+[![IN PICTURES: Martin McGuinness Peace Foundation Chieftain's Walk in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Martin McGuinness Peace Foundation Chieftain's Walk in Derry")](https://www.derrynow.com/story-telling/pictures---videos/1606244/in-pictures-martin-mcguinness-peace-foundation-chieftain-s-walk-in-derry.html)
 
-PSNI
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Martin McGuinness Peace Foundation Chieftain's Walk in Derry](https://www.derrynow.com/story-telling/pictures---videos/1606244/in-pictures-martin-mcguinness-peace-foundation-chieftain-s-walk-in-derry.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Taoiseach to announce €7.6 million initiative to link Wild Atlantic Way to Northern Ireland Causeway Coastal Route](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Taoiseach to announce €7.6 million initiative to link Wild Atlantic Way to Northern Ireland Causeway Coastal Route")](https://www.derrynow.com/news/local-news/1606007/taoiseach-to-announce-7-6-million-initiative-to-link-wild-atlantic-way-to-northern-ireland-causeway-coastal-route.html)
+
+Taoiseach to announce €7.6 million initiative to link Wild Atlantic Way to Northern Ireland Causeway Coastal Route
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Police investigating Ballykelly burglary](https://www.derrynow.com/news/local-news/1605580/police-investigating-ballykelly-burglary.html)
-------------------------------------------------------------------------------------------------------------------------------------------
+[Taoiseach to announce €7.6 million initiative to link Wild Atlantic Way to Northern Ireland Causeway Coastal Route](https://www.derrynow.com/news/local-news/1606007/taoiseach-to-announce-7-6-million-initiative-to-link-wild-atlantic-way-to-northern-ireland-causeway-coastal-route.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Suspended sentence for Belfast man who assaulted his son outside Derry PSNI station](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for Belfast man who assaulted his son outside Derry PSNI station")](https://www.derrynow.com/news/local-news/1606103/suspended-sentence-for-belfast-man-who-assaulted-his-son-outside-derry-psni-station.html)
 
@@ -307,15 +314,6 @@ PSNI
 [Bail refused for Derry man charged with possession of Romanian AKM assault rifle](https://www.derrynow.com/news/local-news/1606181/bail-refused-for-derry-man-charged-with-possession-of-romanian-akm-assault-rifle.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Taoiseach to announce €7.6 million initiative to link Wild Atlantic Way to Northern Ireland Causeway Coastal Route](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Taoiseach to announce €7.6 million initiative to link Wild Atlantic Way to Northern Ireland Causeway Coastal Route")](https://www.derrynow.com/news/local-news/1606007/taoiseach-to-announce-7-6-million-initiative-to-link-wild-atlantic-way-to-northern-ireland-causeway-coastal-route.html)
-
-Taoiseach to announce €7.6 million initiative to link Wild Atlantic Way to Northern Ireland Causeway Coastal Route
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Taoiseach to announce €7.6 million initiative to link Wild Atlantic Way to Northern Ireland Causeway Coastal Route](https://www.derrynow.com/news/local-news/1606007/taoiseach-to-announce-7-6-million-initiative-to-link-wild-atlantic-way-to-northern-ireland-causeway-coastal-route.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Taoiseach Simon Harris to visit Derry today](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Taoiseach Simon Harris to visit Derry today")](https://www.derrynow.com/news/local-news/1605562/taoiseach-simon-harris-to-visit-derry-today.html)
 
 Taoiseach Simon Harris will visit Derry today
@@ -324,6 +322,15 @@ Taoiseach Simon Harris will visit Derry today
 
 [Taoiseach Simon Harris to visit Derry today](https://www.derrynow.com/news/local-news/1605562/taoiseach-simon-harris-to-visit-derry-today.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Coffin of Noah Karran at the teenagers funeral (Credit: Thomas Heaney)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Coffin of Noah Karran at the teenagers funeral (Credit: Thomas Heaney)")](https://www.derrynow.com/news/derry-news/1606372/derry-teenager-noah-karran-has-left-a-legacy-of-goodness-mourners-told-at-funeral.html)
+
+Coffin of Noah Karran at the teenagers funeral (Credit: Thomas Heaney)
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[Derry teenager Noah Karran has 'left a legacy of goodness' mourners told at funeral](https://www.derrynow.com/news/derry-news/1606372/derry-teenager-noah-karran-has-left-a-legacy-of-goodness-mourners-told-at-funeral.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Public meeting to held in Derry over future of rail in the North West](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Public meeting to held in Derry over future of rail in the North West")](https://www.derrynow.com/news/local-news/1605435/public-meeting-to-held-in-derry-over-future-of-rail-in-the-north-west.html)
 
@@ -334,18 +341,43 @@ The public meeting on the future of rail usage in the north west will be this Sa
 [Public meeting to held in Derry over future of rail in the North West](https://www.derrynow.com/news/local-news/1605435/public-meeting-to-held-in-derry-over-future-of-rail-in-the-north-west.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Harris ‘looking forward’ to first official visit to Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Harris ‘looking forward’ to first official visit to Derry")](https://www.derrynow.com/news/northern-ireland/1605799/harris-looking-forward-to-first-official-visit-to-derry.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[Harris ‘looking forward’ to first official visit to Derry](https://www.derrynow.com/news/northern-ireland/1605799/harris-looking-forward-to-first-official-visit-to-derry.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![IN PICTURES: Annual Roaring Meg Custom Bike Show a huge success](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Annual Roaring Meg Custom Bike Show a huge success")](https://www.derrynow.com/story-telling/pictures---videos/1606243/in-pictures-annual-roaring-meg-custom-bike-show-a-huge-success.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Annual Roaring Meg Custom Bike Show a huge success](https://www.derrynow.com/story-telling/pictures---videos/1606243/in-pictures-annual-roaring-meg-custom-bike-show-a-huge-success.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Great day out at Quirky Corner Sustainable Fashion Fest](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Great day out at Quirky Corner Sustainable Fashion Fest")](https://www.derrynow.com/story-telling/pictures---videos/1606217/in-pictures-great-day-out-at-quirky-corner-sustainable-fashion-fest.html)
+
+IN PICTURES: Great day out at Quirky Corner Sustainable Fashion Fest
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Great day out at Quirky Corner Sustainable Fashion Fest](https://www.derrynow.com/story-telling/pictures---videos/1606217/in-pictures-great-day-out-at-quirky-corner-sustainable-fashion-fest.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Fantastic day for community in Derry with One World Festival](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Fantastic day for community in Derry with One World Festival")](https://www.derrynow.com/story-telling/pictures---videos/1606239/in-pictures-fantastic-day-for-community-in-derry-with-one-world-festival.html)
+
+IN PICTURES: Fantastic day for community in Derry with One World Festival
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Fantastic day for community in Derry with One World Festival](https://www.derrynow.com/story-telling/pictures---videos/1606239/in-pictures-fantastic-day-for-community-in-derry-with-one-world-festival.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Martin McGuinness Peace Foundation Chieftain's Walk in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Martin McGuinness Peace Foundation Chieftain's Walk in Derry")](https://www.derrynow.com/story-telling/pictures---videos/1606244/in-pictures-martin-mcguinness-peace-foundation-chieftain-s-walk-in-derry.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Martin McGuinness Peace Foundation Chieftain's Walk in Derry](https://www.derrynow.com/story-telling/pictures---videos/1606244/in-pictures-martin-mcguinness-peace-foundation-chieftain-s-walk-in-derry.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Don Boscos FC pay tribute after youth player Kían Dawson-Kirk's death](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Don Boscos FC pay tribute after youth player Kían Dawson-Kirk's death")](https://www.derrynow.com/story-telling/pictures---videos/1606237/in-pictures-don-boscos-fc-pay-tribute-after-youth-player-kian-dawson-kirk-s-death.html)
 
@@ -392,34 +424,6 @@ Derry City fans at the Brandywell. Pics by George Sweeney, nwpresspics
 
 [PICTURES: St. Cecilia's College annual prizegiving](https://www.derrynow.com/news/local-news/1604233/pictures-st-cecilia-s-college-annual-prizegiving.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PICTURES: Lumen Christi College Senior Prize Giving 2024](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Lumen Christi College Senior Prize Giving 2024")](https://www.derrynow.com/news/local-news/1604049/pictures-lumen-christi-college-senior-prize-giving-2024.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[PICTURES: Lumen Christi College Senior Prize Giving 2024](https://www.derrynow.com/news/local-news/1604049/pictures-lumen-christi-college-senior-prize-giving-2024.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PICTURES: Mayor's Tea Dance in the Guildhall](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Mayor's Tea Dance in the Guildhall")](https://www.derrynow.com/news/pictures---videos/1603332/pictures-mayor-s-tea-dance-in-the-guildhall.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[PICTURES: Mayor's Tea Dance in the Guildhall](https://www.derrynow.com/news/pictures---videos/1603332/pictures-mayor-s-tea-dance-in-the-guildhall.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PICTURES: Charming home in much sought after area in Derry hits the market for under £250k](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Charming home in much sought after area in Derry hits the market for under £250k")](https://www.derrynow.com/news/pictures---videos/1603094/pictures-charming-home-in-much-sought-after-area-in-derry-hits-the-market-for-under-250k.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[PICTURES: Charming home in much sought after area in Derry hits the market for under £250k](https://www.derrynow.com/news/pictures---videos/1603094/pictures-charming-home-in-much-sought-after-area-in-derry-hits-the-market-for-under-250k.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PICTURES: Beep beep! This vintage 1959 Isetta Bubble Car could be yours for just €13,000](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Beep beep! This vintage 1959 Isetta Bubble Car could be yours for just €13,000")](https://www.derrynow.com/news/pictures---videos/1603028/pictures-beep-beep-this-vintage-1959-isetta-bubble-car-in-derry-could-be-yours-for-just-13-000.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[PICTURES: Beep beep! This vintage 1959 Isetta Bubble Car in Derry could be yours for just €13,000](https://www.derrynow.com/news/pictures---videos/1603028/pictures-beep-beep-this-vintage-1959-isetta-bubble-car-in-derry-could-be-yours-for-just-13-000.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -521,51 +525,55 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Northern Lights may be visible on Monday night over the UK – Met Office](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Northern Lights may be visible on Monday night over the UK – Met Office")](https://www.derrynow.com/news/local-news/1606197/northern-lights-may-be-visible-on-monday-night-over-the-uk-met-office.html)
+[![Derry's Foyle Woman's Aid publishes new report on paramilitary coercive control](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry's Foyle Woman's Aid publishes new report on paramilitary coercive control")](https://www.derrynow.com/news/local-news/1606397/derry-s-foyle-woman-s-aid-publishes-new-report-on-paramilitary-coercive-control.html)
+
+Justice Minister Naomi Long is pictured with Marie Brown, CEO at Foyle Women's Aid and Foyle Family Justice Centre, attending the launch of the research report
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry's Foyle Woman's Aid publishes new report on paramilitary coercive control](https://www.derrynow.com/news/local-news/1606397/derry-s-foyle-woman-s-aid-publishes-new-report-on-paramilitary-coercive-control.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Coffin of Noah Karran at the teenagers funeral (Credit: Thomas Heaney)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Coffin of Noah Karran at the teenagers funeral (Credit: Thomas Heaney)")](https://www.derrynow.com/news/derry-news/1606372/derry-teenager-noah-karran-has-left-a-legacy-of-goodness-mourners-told-at-funeral.html)
+
+Coffin of Noah Karran at the teenagers funeral (Credit: Thomas Heaney)
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[Derry teenager Noah Karran has 'left a legacy of goodness' mourners told at funeral](https://www.derrynow.com/news/derry-news/1606372/derry-teenager-noah-karran-has-left-a-legacy-of-goodness-mourners-told-at-funeral.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![End of pay dispute by school support workers welcomed](https://www.derrynow.com/resizer/165/93/true/2024_09_16/Sinn_Fein_MLA_Padraig_Delargy-1726491839414.jpg--.jpg?1726491839450 "End of pay dispute by school support workers welcomed")](https://www.derrynow.com/news/local-news/1606257/end-of-pay-dispute-by-school-support-workers-welcomed.html)
+
+Sinn Féin Foyle MLA Pádraig Delargy
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[End of pay dispute by school support workers welcomed](https://www.derrynow.com/news/local-news/1606257/end-of-pay-dispute-by-school-support-workers-welcomed.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![‘Many opportunities’ for cross-border co-operation, says Harris on Derry visit](https://www.derrynow.com/resizer/165/93/true/pa/2024_09_16/1726493110994_0.jpg--.jpg?1726493111119 "‘Many opportunities’ for cross-border co-operation, says Harris on Derry visit")](https://www.derrynow.com/news/local-news/1606305/many-opportunities-for-cross-border-co-operation-says-harris-on-derry-visit.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[‘Many opportunities’ for cross-border co-operation, says Harris on Derry visit](https://www.derrynow.com/news/local-news/1606305/many-opportunities-for-cross-border-co-operation-says-harris-on-derry-visit.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Simon Harris visits Derry for first time as Taoiseach](https://www.derrynow.com/resizer/165/93/true/2024_09_16/458402268_926470846176117_1662751496534005570_n-1726489460462.jpg--.jpg?1726489460559 "Simon Harris visits Derry for first time as Taoiseach")](https://www.derrynow.com/news/local-news/1606214/simon-harris-visits-derry-for-first-time-as-taoiseach.html)
+
+Taoiseach Simon Harris with Mayor of Derry, Cllr Lillian Seenoi-Barr
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Simon Harris visits Derry for first time as Taoiseach](https://www.derrynow.com/news/local-news/1606214/simon-harris-visits-derry-for-first-time-as-taoiseach.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Northern Lights may be visible on Monday night over the UK – Met Office](https://www.derrynow.com/resizer/165/93/true/pa/2024_09_16/1726487708159_0.jpg--.jpg?1726487708266 "Northern Lights may be visible on Monday night over the UK – Met Office")](https://www.derrynow.com/news/local-news/1606197/northern-lights-may-be-visible-on-monday-night-over-the-uk-met-office.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
 [Northern Lights may be visible on Monday night over the UK – Met Office](https://www.derrynow.com/news/local-news/1606197/northern-lights-may-be-visible-on-monday-night-over-the-uk-met-office.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Bail refused for Derry man charged with possession of Romanian AKM assault rifle](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Bail refused for Derry man charged with possession of Romanian AKM assault rifle")](https://www.derrynow.com/news/local-news/1606181/bail-refused-for-derry-man-charged-with-possession-of-romanian-akm-assault-rifle.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Bail refused for Derry man charged with possession of Romanian AKM assault rifle](https://www.derrynow.com/news/local-news/1606181/bail-refused-for-derry-man-charged-with-possession-of-romanian-akm-assault-rifle.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man (30) pleas guilty to 12 charges of possessing indecent images of children](https://www.derrynow.com/resizer/165/93/true/2024_04_04/Derry-courthouse.jpg--derry_courthouse-1712223605087.jpg--.jpg?1712223605116 "Derry man (30) pleas guilty to 12 charges of possessing indecent images of children")](https://www.derrynow.com/news/local-news/1606159/derry-man-30-pleas-guilty-to-12-charges-ofpossessing-indecent-images-of-children.html)
-
-Derry Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man (30) pleas guilty to 12 charges of possessing indecent images of children](https://www.derrynow.com/news/local-news/1606159/derry-man-30-pleas-guilty-to-12-charges-ofpossessing-indecent-images-of-children.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Junior Football Championship weekend roundup: Quarter Finals confirmed](https://www.derrynow.com/resizer/165/93/true/2024_07_29/GAA_-_Glack_v_Drum__3-1722266934984.jpg--.jpg?1722266935171 "Derry Junior Football Championship weekend roundup: Quarter Finals confirmed")](https://www.derrynow.com/news/derry-sport/1606123/derry-junior-football-championship-weekend-roundup-quarter-finals-confirmed.html)
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Derry Junior Football Championship weekend roundup: Quarter Finals confirmed](https://www.derrynow.com/news/derry-sport/1606123/derry-junior-football-championship-weekend-roundup-quarter-finals-confirmed.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Suspended sentence for Belfast man who assaulted his son outside Derry PSNI station](https://www.derrynow.com/resizer/165/93/true/1580370016067.JPG--.JPG?1580370017604 "Suspended sentence for Belfast man who assaulted his son outside Derry PSNI station")](https://www.derrynow.com/news/local-news/1606103/suspended-sentence-for-belfast-man-who-assaulted-his-son-outside-derry-psni-station.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Suspended sentence for Belfast man who assaulted his son outside Derry PSNI station](https://www.derrynow.com/news/local-news/1606103/suspended-sentence-for-belfast-man-who-assaulted-his-son-outside-derry-psni-station.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Taoiseach to announce €7.6 million initiative to link Wild Atlantic Way to Northern Ireland Causeway Coastal Route](https://www.derrynow.com/resizer/165/93/true/2024_03_21/simon_harris-1711046324013.jpeg--.jpeg?1711046324102 "Taoiseach to announce €7.6 million initiative to link Wild Atlantic Way to Northern Ireland Causeway Coastal Route")](https://www.derrynow.com/news/local-news/1606007/taoiseach-to-announce-7-6-million-initiative-to-link-wild-atlantic-way-to-northern-ireland-causeway-coastal-route.html)
-
-Taoiseach to announce €7.6 million initiative to link Wild Atlantic Way to Northern Ireland Causeway Coastal Route
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Taoiseach to announce €7.6 million initiative to link Wild Atlantic Way to Northern Ireland Causeway Coastal Route](https://www.derrynow.com/news/local-news/1606007/taoiseach-to-announce-7-6-million-initiative-to-link-wild-atlantic-way-to-northern-ireland-causeway-coastal-route.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
