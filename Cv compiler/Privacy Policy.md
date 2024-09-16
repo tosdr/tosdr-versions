@@ -1713,6 +1713,28 @@ What do top resumes look like? Check out these expertly-written samples:
 
 [Sports Analyst](https://cvcompiler.com/sports-analyst-resume-examples)
 
+[Digital Marketing Intern](https://cvcompiler.com/digital-marketing-intern-resume-examples)
+
+[IT Engineering](https://cvcompiler.com/it-engineering-resume-examples)
+
+[Dermatology Medical Assistant](https://cvcompiler.com/dermatology-medical-assistant-resume-examples)
+
+[Entry-Level Office Clerk](https://cvcompiler.com/entry-level-office-clerk-resume-examples)
+
+[SaaS Account Executive](https://cvcompiler.com/saas-account-executive-resume-examples)
+
+[Junior Cloud Engineer](https://cvcompiler.com/junior-cloud-engineer-resume-examples)
+
+[Behavior Technician](https://cvcompiler.com/behavior-technician-resume-examples)
+
+[Product Development](https://cvcompiler.com/product-development-resume-examples)
+
+[Financial Analyst Intern](https://cvcompiler.com/financial-analyst-intern-resume-examples)
+
+[Junior Interior Designer](https://cvcompiler.com/junior-interior-designer-resume-examples)
+
+[Entry-Level Brand Ambassador](https://cvcompiler.com/entry-level-brand-ambassador-resume-examples)
+
 ![Upload resume illustration](uploads-pre-acq/img/upload-illustration.svg)
 
 ### Upload  
