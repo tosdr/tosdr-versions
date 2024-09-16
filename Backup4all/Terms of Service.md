@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [What is an Incremental Backup?](https://www.backup4all.com/incremental-backup-kb.html)  
+* [How to back up data files from Zettagrid usin ...](https://www.backup4all.com/how-to-back-up-data-files-from-zettagrid-using-backup4all-kb.html)  
     
-* [Activation - Frequently Asked Questions](https://www.backup4all.com/activation-faq-kb.html)  
+* [How to back up data files from Hitachi using ...](https://www.backup4all.com/how-to-back-up-data-files-from-hitachi-using-backup4all-kb.html)  
     
-* [What is a Public-Private Key Pair](https://www.backup4all.com/what-is-a-public-private-key-pair-kb.html)  
+* [How to configure logs and history](https://www.backup4all.com/how-to-configure-logs-and-history-kb.html)  
     
-* [How to back up data files from HostEurope usi ...](https://www.backup4all.com/how-to-back-up-data-files-from-hosteurope-using-backup4all-kb.html)  
+* [Backup to CD](https://www.backup4all.com/backup-to-cd-kb.html)  
     
-* [How to back up files from Cloudflare R2 using ...](https://www.backup4all.com/how-to-back-up-files-from-cloudflare-r2-using-backup4all-kb.html)  
+* [How to fix "there is not enough space on the ...](https://www.backup4all.com/how-to-fix-there-is-not-enough-space-on-the-disk-error-kb.html)  
     
 
 Choose language:
