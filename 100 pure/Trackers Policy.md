@@ -408,7 +408,7 @@ or 4 interest-free payments of **$0.00** with ![Klarna Logo](https://www.100perc
 
  
 
-[BUY MORE SAVE MORE! 3 PRODUCTS: 20%OFF 4 PRODUCTS: 25%OFF 5 PRODUCTS: 30%OFF](https://www.100percentpure.com/products/chocolate-day-sgwp "BUY MORE SAVE MORE! 3 PRODUCTS: 20%OFF 4 PRODUCTS: 25%OFF 5 PRODUCTS: 30%OFF")
+[BUY MORE SAVE MORE! 3 PRODUCTS: 20%OFF 4 PRODUCTS: 25%OFF 5 PRODUCTS: 30%OFF](https://www.100percentpure.com/collections/shop-all "https://www.100percentpure.com/collections/shop-all")
 
 icon-account icon-account icon-arrow-right icon-arrow-down icon-arrow-next icon-arrow-prev icon-slideshow-next icon-slideshow-previous icon-comment icon-heart icon-cart icon-bag icon-close icon-glasses icon-menu icon-minus icon-play icon-plus social-seach social-facebook social-fancy social-instagram social-pinterest social-rss social-twitter
 
