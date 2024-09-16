@@ -32,7 +32,7 @@ Your privacy is important to us. Please read and familiarize yourself with our c
 
 **Effective Date: August 1, 2020** 
 
-Yapi Inc. and Yapiapp.com
+Yapi Inc. and yapiapp.com
 -------------------------
 
 Yapi Inc., and yapiapp.com (“Yapi,” “we,” “us”) are committed to protecting your privacy.
