@@ -159,8 +159,8 @@ You signed in with another tab or window. Reload to refresh your session. You si
 [webcompat](https://github.com/webcompat) / **[webcompat.com](https://github.com/webcompat/webcompat.com)** Public
 
 * [Notifications](https://github.com/login?return_to=%2Fwebcompat%2Fwebcompat.com) You must be signed in to change notification settings
-* [Fork 190](https://github.com/login?return_to=%2Fwebcompat%2Fwebcompat.com)
-* [Star 356](https://github.com/login?return_to=%2Fwebcompat%2Fwebcompat.com)
+* [Fork 191](https://github.com/login?return_to=%2Fwebcompat%2Fwebcompat.com)
+* [Star 357](https://github.com/login?return_to=%2Fwebcompat%2Fwebcompat.com)
     
 
 * [Code](https://github.com/webcompat/webcompat.com)
