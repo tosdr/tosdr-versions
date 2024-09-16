@@ -1165,7 +1165,7 @@ computer, or your favorite mobile device.
 
 Connect With Us Choose your favorite way to follow us to get our latest deals, news, and information.
 
- [![facebook](//secureimages.teach12.com/tgc/images/m2/wondrium/header-footer/facebook.svg)](https://www.facebook.com/thegreatcourses)[![twitter](https://secureimages.teach12.com/tgc/images/m2/wondrium/header-footer/twitter.svg)](https://twitter.com/thegreatcourses)[![instagram](https://secureimages.teach12.com/tgc/images/m2/wondrium/header-footer/instagram.svg)](https://www.instagram.com/thegreatcourses)[![you tube](//secureimages.teach12.com/tgc/images/m2/wondrium/header-footer/youtube.svg)](https://www.youtube.com/thegreatcourses)
+ [![facebook](//secureimages.teach12.com/tgc/images/m2/wondrium/header-footer/facebook.svg)](https://www.facebook.com/thegreatcourses)[![twitter](https://secureimages.teach12.com/tgc/images/m2/wondrium/header-footer/twitterx.png)](https://twitter.com/thegreatcourses)[![instagram](https://secureimages.teach12.com/tgc/images/m2/wondrium/header-footer/instagram.svg)](https://www.instagram.com/thegreatcourses)[![you tube](//secureimages.teach12.com/tgc/images/m2/wondrium/header-footer/youtube.svg)](https://www.youtube.com/thegreatcourses)
 
 © The Teaching Company Sales, LLC. All rights reserved.
 
@@ -1182,7 +1182,7 @@ computer, or your favorite mobile device.
 
 Connect With Us Choose your favorite way to follow us to get our latest deals, news, and information.
 
- [![facebook](//secureimages.teach12.com/tgc/images/m2/wondrium/header-footer/facebook.svg)](https://www.facebook.com/thegreatcourses)[![twitter](https://secureimages.teach12.com/tgc/images/m2/wondrium/header-footer/twitter.svg)](https://twitter.com/thegreatcourses)[![instagram](https://secureimages.teach12.com/tgc/images/m2/wondrium/header-footer/instagram.svg)](https://www.instagram.com/thegreatcourses)[![you tube](//secureimages.teach12.com/tgc/images/m2/wondrium/header-footer/youtube.svg)](https://www.youtube.com/thegreatcourses)
+ [![facebook](//secureimages.teach12.com/tgc/images/m2/wondrium/header-footer/facebook.svg)](https://www.facebook.com/thegreatcourses)[![x](https://secureimages.teach12.com/tgc/images/m2/wondrium/header-footer/twitterx.png)](https://twitter.com/thegreatcourses)[![instagram](https://secureimages.teach12.com/tgc/images/m2/wondrium/header-footer/instagram.svg)](https://www.instagram.com/thegreatcourses)[![you tube](//secureimages.teach12.com/tgc/images/m2/wondrium/header-footer/youtube.svg)](https://www.youtube.com/thegreatcourses)
 
 Gifting Options
 
@@ -1190,7 +1190,7 @@ Gifting Options
 
 © The Teaching Company Sales, LLC. All rights reserved.
 
-![The Great Courses Plus](https://www.thegreatcoursesplus.com/static/version1724937661/frontend/Wondrium/default/en_US/images/logo.svg)
+![The Great Courses Plus](https://www.thegreatcoursesplus.com/static/version1726147072/frontend/Wondrium/default/en_US/images/logo.svg)
 
 New Password Required
 
