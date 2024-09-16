@@ -130,6 +130,17 @@ Speedify is the only app that combines all of your Internet connections to keep 
 
 [Download Speedify](https://speedify.com/download/) 
 
+Upcoming Events
+---------------
+
+Sep 18
+
+10:00 am - 11:00 am EDT
+
+### [9/18 @ 10am EDT – Do you need a new router for WiFi 7? | Ask the CEO your tech questions](https://speedify.com/event/9-18-10am-edt-do-you-need-a-new-router-for-wifi-7-ask-the-ceo-your-tech-questions/ "9/18 @ 10am EDT – Do you need a new router for WiFi 7? | Ask the CEO your tech questions")
+
+[View Calendar](https://speedify.com/calendar/ "View more events.")
+
 #### Popular Posts
 
 * [\[SOLVED\] Mobile Hotspot Connected but No Internet](https://speedify.com/blog/fix-slow-internet/mobile-hotspot-connected-but-no-internet-fix/)
@@ -192,7 +203,3 @@ Follow us!
 * [Help](https://speedify.com/help/)
 * [Sign In](https://my.speedify.com/)
 * [Download](https://speedify.com/download/)
-
-                        
-
-This website uses cookies. To learn more, visit our [Cookie Policy](https://speedify.com/cookie-policy)[Ok](#)
