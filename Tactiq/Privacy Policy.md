@@ -284,7 +284,7 @@ Summary of updates:
 
 ###### Resources  
 
-[Learn](https://tactiq.io/learn)[Help Center](https://help.tactiq.io/)[System Status](https://status.tactiq.io/)[Changelog](https://tactiq.io/changelog)[Book a demo](https://tactiq.typeform.com/to/qK3e5WMK)[Partner with us](https://tactiq.typeform.com/to/c8dthmnl)[Contact Us](https://tactiq.typeform.com/to/i3D77b)[Careers (Hiring)](https://tactiq.io/careers-unsolicited-application)[Trust Center](https://trust.tactiq.io/)[Privacy Center](https://tactiq.io/privacy/privacy-center)[Privacy Policy](https://tactiq.io/privacy/privacy)[Terms of use](https://tactiq.io/privacy/terms)
+[Learn](https://tactiq.io/learn)[Help Center](https://help.tactiq.io/)[System Status](https://status.tactiq.io/)[Changelog](https://tactiq.io/changelog)[Book a demo](https://tactiq.typeform.com/to/qK3e5WMK)[Partner with us](https://tactiq.typeform.com/to/c8dthmnl)[Contact Us](https://tactiq.typeform.com/to/i3D77b)[Careers (Hiring)](https://tactiq.io/careers)[Trust Center](https://trust.tactiq.io/)[Privacy Center](https://tactiq.io/privacy/privacy-center)[Privacy Policy](https://tactiq.io/privacy/privacy)[Terms of use](https://tactiq.io/privacy/terms)
 
 ###### Downloads  
 
