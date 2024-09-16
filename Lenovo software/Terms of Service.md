@@ -456,7 +456,7 @@ Hamburger Menu
         Gaming By Brand
         
         [Lenovo Legion](https://www.lenovo.com/us/en/legion/) [Lenovo LOQ](https://www.lenovo.com/us/en/c/lenovo-loq/)
-    * [Best Sellers](https://www.lenovo.com/us/en/gaming/store/) [Legion Pro 5i 16"](https://www.lenovo.com/us/en/p/laptops/legion-laptops/legion-5-series/legion-pro-5i-gen-9-(16-inch-intel)/len101g0033) [Legion Tower 7i](https://www.lenovo.com/us/en/p/desktops/legion-desktops/legion-t-series-towers/legion-tower-7i-gen-8-intel/len102g0007) [Legion Go](https://www.lenovo.com/us/en/p/handheld/legion-go/len106g0001)
+    * [Best Selling Laptops](https://www.lenovo.com/us/en/gaming/store/) [ThinkPad X1 Carbon Gen 12](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadx1/thinkpad-x1-carbon-gen-12-14-inch-intel/len101t0083) [Legion Pro 5i Gaming](https://www.lenovo.com/us/en/p/laptops/legion-laptops/legion-5-series/legion-pro-5i-gen-9-(16-inch-intel)/len101g0033) [Yoga 7 2-in-1](https://www.lenovo.com/us/en/p/laptops/yoga/yoga-2-in-1-series/lenovo-yoga-7-2-in-1-gen-9-(14-inch-amd)/len101y0046) [Lenovo LOQ Intel](https://www.lenovo.com/us/en/p/laptops/loq-laptops/lenovo-loq-16irh8/82xw000yus) [IdeaPad Pro 5i](https://www.lenovo.com/us/en/p/laptops/ideapad/ideapad-2-in-1-series/lenovo-ideapad-5i-2-in-1-gen-9-(14-inch-intel)/len101i0102) [ThinkBook 16 Gen 7](https://www.lenovo.com/us/en/p/laptops/thinkbook/thinkbook-series/lenovo-thinkbook-16-gen-7-16-inch-intel/len101b0045)
         
         Quick Links
         
@@ -841,7 +841,7 @@ skip to main content
     * [Explore Smartphones](https://www.lenovo.com/us/en/d/motorola-smartphones/) [ThinkPhone by Motorola](https://www.lenovo.com/us/en/p/phones/motorola-smartphones/thinkphone/thinkphone-by-motorola/paxm0000us) [Moto G Series](https://www.lenovo.com/us/en/d/motorola-smartphones/moto-g/) [Moto Edge Series](https://www.lenovo.com/us/en/d/motorola-smartphones/motorola-edge) [Moto Care](https://www.lenovo.com/us/en/moto-care/) [Phone Accessories](https://www.lenovo.com/us/en/d/accessories-and-software/phone-accessories/) [Smartphone Deals](https://www.lenovo.com/us/en/d/deals/phones)
     * Best Selling Tablets
         
-        [Lenovo Tab M11](https://www.lenovo.com/us/en/p/tablets/android-tablets/lenovo-tab-series/lenovo-tab-m11-(11-inch-mtk)/len103l0022) [Lenovo Tab M8](https://www.lenovo.com/us/en/p/tablets/android-tablets/lenovo-tab-series/lenovo-tab-m8-gen-4-(8-inch-mtk)/len103l0013) [Lenovo Tab M9](https://www.lenovo.com/us/en/p/tablets/android-tablets/lenovo-tab-series/lenovo-tab-m9-(9-inch-mtk)/len103l0016) [Lenovo Tab M10 Plus](https://www.lenovo.com/us/en/p/tablets/android-tablets/lenovo-tab-series/tab-m10-plus-gen-3/len103l0010) [Lenovo Tab P12](https://www.lenovo.com/us/en/p/tablets/android-tablets/lenovo-tab-series/lenovo-tab-p12/len103l0018)
+        [Lenovo Tab Plus](https://www.lenovo.com/us/en/p/tablets/android-tablets/lenovo-tab-series/lenovo-tab-plus/len103l0024) [Lenovo Tab M11](https://www.lenovo.com/us/en/p/tablets/android-tablets/lenovo-tab-series/lenovo-tab-m11-(11-inch-mtk)/len103l0022) [Lenovo Tab M8](https://www.lenovo.com/us/en/p/tablets/android-tablets/lenovo-tab-series/lenovo-tab-m8-gen-4-(8-inch-mtk)/len103l0013) [Lenovo Tab M9](https://www.lenovo.com/us/en/p/tablets/android-tablets/lenovo-tab-series/lenovo-tab-m9-(9-inch-mtk)/len103l0016) [Lenovo Tab P12](https://www.lenovo.com/us/en/p/tablets/android-tablets/lenovo-tab-series/lenovo-tab-p12/len103l0018)
     
 * [Servers & Storage](https://www.lenovo.com/us/en/servers-storage/)
     
@@ -866,7 +866,7 @@ skip to main content
     
     * Explore AI PCs
         
-        [Aura Edition](https://www.lenovo.com/us/en/lenovoauraedition/) [Lenovo AI PCs](https://www.lenovo.com/us/en/laptops/results/?visibleDatas=13084%3AAI%2520PC) [Business AI PCs](https://www.lenovo.com/us/en/laptops/results/?visibleDatas=13084%3AAI%2520PC) [Copilot+ PCs](https://www.lenovo.com/us/en/copilot-plus-pc/index.html)
+        [Aura Edition](https://www.lenovo.com/us/en/lenovoauraedition/) [Lenovo AI PCs](https://www.lenovo.com/us/en/laptops/results/?visibleDatas=13084%3AAI%2520PC) [Business AI PCs](https://www.lenovo.com/us/en/laptops/results/?visibleDatas=13084%3AAI%2520PC) [Copilot+ PCs](https://www.lenovo.com/us/en/copilot-plus-pc/index.html) [Inclusive AI](https://www.lenovo.com/us/en/solutions/inclusive-ai/)
     * AI PCs
         
         [Copilot+ PC](https://www.lenovo.com/us/en/d/deals/laptops/?sortBy=Recommended&visibleDatas=13084%3ACopilot%252B%2520PC) [AI PC](https://www.lenovo.com/us/en/laptops/results/?visibleDatas=13084%3AAI%2520PC) [AI-Powered Gaming PCs](https://www.lenovo.com/us/en/d/deals/laptops/?sortBy=Recommended&visibleDatas=13084%3AAI-Powered%2520Gaming%2520PCs) [AI-Ready Workstations](https://www.lenovo.com/us/en/d/deals/laptops/?sortBy=Recommended&visibleDatas=13084%3AAI-Ready%2520Workstations) [View All AI PCs](https://www.lenovo.com/us/en/d/deals/laptops/?sortBy=Recommended&visibleDatas=13084%3ACopilot%252B%2520PC%2CAI%2520PC%2CAI-Powered%2520Gaming%2520PCs%2CAI-Ready%2520Workstations)
