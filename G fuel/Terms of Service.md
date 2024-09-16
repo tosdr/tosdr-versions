@@ -1,5 +1,5 @@
   
-G FUEL REWARDS PROGRAM TERMS AND CONDITIONS                                                                                                
+G FUEL REWARDS PROGRAM TERMS AND CONDITIONS                                                                                                      
 
 [Skip to content](#MainContent) 
 
@@ -107,7 +107,7 @@ Close menu
 
   [![G FUEL](//gfuel.com/cdn/shop/files/GFL-FearFest-HEADER-logo_150x.png?v=1726160870) ![G FUEL](//gfuel.com/cdn/shop/files/GFL-FearFest-HEADER-logo_130x.png?v=1726160870)](https://gfuel.com/)[![G FUEL](//gfuel.com/cdn/shop/files/GFL-FearFest-HEADER-logo_150x.png?v=1726160870) ![G FUEL](//gfuel.com/cdn/shop/files/GFL-FearFest-HEADER-logo_130x.png?v=1726160870)](https://gfuel.com/)
 
-  Search  "Close (esc)"
+  ![Search Icon Black](//gfuel.com/cdn/shop/t/559/assets/fearfest-search-icon-black.png?v=145646052917047999211726496581)  Search  "Close (esc)"
 
 [](https://gfuel.com/products/hack-n-slash)
 
@@ -200,7 +200,7 @@ View more
 * [Rewards](https://gfuel.com/pages/rewards)
 * [Flavor Quiz](https://gfuel.com/pages/flavor-quiz)
 
- [![Account Icon](//gfuel.com/cdn/shop/t/559/assets/fearfest-account-icon.png?v=76113951967063794631726241544) Log in](https://gfuel.com/account)[![Search Icon](//gfuel.com/cdn/shop/t/559/assets/fearfest-search-icon.png?v=128343480261873985371726241544) Search](https://gfuel.com/search) Site navigation [![Cart Icon](//gfuel.com/cdn/shop/t/559/assets/fearfest-cart-icon.png?v=118199243717223592911726241544) Cart](https://gfuel.com/cart)
+ [![Account Icon](//gfuel.com/cdn/shop/t/559/assets/fearfest-account-icon.png?v=76113951967063794631726241544) Log in](https://gfuel.com/account)[![Ouija Planchette Search Icon](//gfuel.com/cdn/shop/t/559/assets/fearfest-search-icon-black.png?v=145646052917047999211726496581) Search](https://gfuel.com/search) Site navigation [![Cart Icon](//gfuel.com/cdn/shop/t/559/assets/fearfest-cart-icon.png?v=118199243717223592911726241544) Cart](https://gfuel.com/cart)
 
   Search 
 
