@@ -1,6 +1,7 @@
  [![](https://www.voodoodoughnut.com/wp-content/uploads/2022/05/Logo_Tiny.jpg) Voodoo Doughnut](https://voodoodoughnut.com/)
 
-* [Doughnuts](https://www.voodoodoughnut.com/doughnuts/)
+* Doughnuts
+    * [Our Doughnuts](https://www.voodoodoughnut.com/doughnuts/)
     * [Custom Orders](https://www.voodoodoughnut.com/shop/special-occasions/)
 * [Shop](https://voodoodoughnut.com/shop/)
     * [Voodoo Doughnut Merchandise](https://voodoodoughnutshop.com/)
