@@ -94,6 +94,8 @@ Events
 
 [Webinars](https://www.sailpoint.com/identity-library?type=webinar)
 
+[Community Events](https://community.sailpoint.com/t5/Events/ct-p/Event)
+
 Training
 
 [Identity University](https://www.sailpoint.com/university)
@@ -236,7 +238,7 @@ Read & follow the latest in identity news](https://www.sailpoint.com/blog)
 
 Events
 
-[Navigate 2024](https://www.sailpoint.com/navigate)[Browse all events](https://www.sailpoint.com/events)[Webinars](https://www.sailpoint.com/identity-library?type=webinar)
+[Navigate 2024](https://www.sailpoint.com/navigate)[Browse all events](https://www.sailpoint.com/events)[Webinars](https://www.sailpoint.com/identity-library?type=webinar)[Community Events](https://community.sailpoint.com/t5/Events/ct-p/Event)
 
 Training
 
