@@ -137,6 +137,7 @@ Wisconsin Lutheran College is committed to protecting the privacy and security o
 Milwaukee, WI 53226 · USA](https://goo.gl/maps/NXMKZGV4dcxu58AD8 "Wisconsin Lutheran location details opens in a new window.")  
 [414.443.8800](tel:4144438800)
 
+* [Accreditation](https://www.wlc.edu/about-wlc/accreditation-reaffirmation.html)
 * [Campus Alerts](https://www.wlc.edu/safety/campus-alerts.html)
 * [Careers](https://www.wlc.edu/about-wlc/offices-resources/human-resources/index.html)
 * [Connect With Us](https://www.wlc.edu/about-wlc/offices-resources/index.html)
