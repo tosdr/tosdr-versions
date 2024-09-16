@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What are the types of lung cancer?](https://www.pintas.com/wp-content/uploads/2020/06/lung-cancer-what-are-the-types-of-lung-cancer.jpg "What Are the Types of Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/types-of-lung-cancer "What Are the Types of Lung Cancer?")
+[![Can a lung transplant cure lung cancer?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-can-a-lung-transplant-cure-lung-cancer.jpg "Can a Lung Transplant Cure Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/can-a-lung-transplant-cure-lung-cancer/ "Can a Lung Transplant Cure Lung Cancer?")
 
-[#### What Are the Types of Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/types-of-lung-cancer)
+[#### Can a Lung Transplant Cure Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/can-a-lung-transplant-cure-lung-cancer/)
 
-[![Is asbestos harmful to skin?](https://www.pintas.com/wp-content/uploads/2020/11/lung-cancer-lawyer-is-asbestos-harmful-to-skin.jpg "Is Asbestos Harmful to Skin?")](https://www.pintas.com/practice-areas/lung-cancer/is-asbestos-harmful-to-skin/ "Is Asbestos Harmful to Skin?")
+[![Do you always lose weight with lung cancer?](https://www.pintas.com/wp-content/uploads/2020/06/lung-cancer-do-you-always-lose-weight-with-lung-cancer.jpg "Do You Always Lose Weight with Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/do-you-always-lose-weight-with-lung-cancer/ "Do You Always Lose Weight with Lung Cancer?")
 
-[#### Is Asbestos Harmful to Skin?](https://www.pintas.com/practice-areas/lung-cancer/is-asbestos-harmful-to-skin/)
+[#### Do You Always Lose Weight with Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/do-you-always-lose-weight-with-lung-cancer/)
 
-[![Can asbestos cause pancreatic cancer?](https://www.pintas.com/wp-content/uploads/2020/02/lung-cancer-can-asbestos-cause-pancreatic-cancer.jpg "Can Asbestos Cause Pancreatic Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/can-asbestos-cause-pancreatic-cancer/ "Can Asbestos Cause Pancreatic Cancer?")
+[![Are falls a sign of assisted living neglect?](https://www.pintas.com/wp-content/uploads/2021/03/elderly-lady-sitting-on-floor-300x200.jpg "Are Falls a Sign of Assisted Living Neglect?")](https://www.pintas.com/faq/are-falls-a-sign-of-assisted-living-neglect/ "Are Falls a Sign of Assisted Living Neglect?")
 
-[#### Can Asbestos Cause Pancreatic Cancer?](https://www.pintas.com/practice-areas/lung-cancer/can-asbestos-cause-pancreatic-cancer/)
+[#### Are Falls a Sign of Assisted Living Neglect?](https://www.pintas.com/faq/are-falls-a-sign-of-assisted-living-neglect/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -306,7 +306,7 @@ message
 
 Yes. Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/) and [online Terms](https://www.pintas.com/website-terms-of-use/), including its mandatory arbitration provision.
 
-Email
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
