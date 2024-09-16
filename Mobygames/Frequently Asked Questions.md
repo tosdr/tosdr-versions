@@ -37,7 +37,7 @@
         * [Login](https://www.mobygames.com/user/login/)
         * [Register](https://www.mobygames.com/user/register/)
 
-🏆 Congrats to [August's top contributors](https://www.mobygames.com/leaderboard/last-month/)! Top 3: [Tim Janssen](https://www.mobygames.com/user/65110/tim-janssen/), [Koterminus](https://www.mobygames.com/user/760723/koterminus/) and [Plok](https://www.mobygames.com/user/180419/plok/)
+🐳 14,014 items were approved and added to [the database](https://www.mobygames.com/stats/) in the past week!
 
 [![Atari 7800+](https://www.mobygames.com/static/img/7800__1180x90.03241eff.jpg)](https://atari.com/products/atari-7800?utm_source=mobygames&utm_medium=referral&utm_campaign=launch)
 
@@ -90,4 +90,4 @@ The [standards page](https://www.mobygames.com/info/standards) is the first thin
 
 © 1999–2024 MobyGames ™
 
-v2024.09.12a
+v2024.09.13a
