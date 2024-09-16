@@ -127,7 +127,7 @@ Javascript must be enabled for the correct page display
         eBOOK The Trust Center Advantage: For Privacy, Security & Legal Leaders](https://trustarc.com/resource/trust-center-advantage-for-privacy-security-and-legal-leaders/)
     * [![](https://trustarc.com/wp-content/uploads/2024/02/res-square-plus-pink.png)
         
-        eBOOK Advancing Accountable AI: A Readiness Guide For Privacy](https://trustarc.com/resource/advancing-accountable-ai-a-readiness-guide-for-privacy/)
+        GUIDE Step-by-Step Guide to AI Compliance](https://trustarc.com/resource/step-by-step-guide-to-ai-compliance/)
     
 * [Contact us](https://trustarc.com/contact/)
 
