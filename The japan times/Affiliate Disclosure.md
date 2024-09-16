@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[September 11, 2024](https://www.japantimes.co.jp/archive/2024/09/11/ "archive page")
+[September 17, 2024](https://www.japantimes.co.jp/archive/2024/09/17/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -130,68 +130,66 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
-[Small Hokkaido town ranked most comfortable place to live in Japan](https://www.japantimes.co.jp/news/2024/09/09/japan/society/comfortable-city-survey/ "Small Hokkaido town ranked most comfortable place to live in Japan")
+[Japan's elderly population grows to record 36.25 million](https://www.japantimes.co.jp/news/2024/09/15/japan/society/japans-elderly-population-grows/ "Japan's elderly population grows to record 36.25 million")
 
-  [![Asahidake in Daisetsuzan is located in the town of Higashikawa, Hokkaido, which ranked as the most comfortable municipality in 2024.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/09/420427.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Asahidake in Daisetsuzan is located in the town of Higashikawa, Hokkaido, which ranked as the most comfortable municipality in 2024.")](https://www.japantimes.co.jp/news/2024/09/09/japan/society/comfortable-city-survey/ "Small Hokkaido town ranked most comfortable place to live in Japan")
+  [![The proportion of people aged 65 and over has risen since the 1950s and is expected to hit 34.8% by 2040, when the second baby boomers (born 1971-1974) will join that group.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/15/421835.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The proportion of people aged 65 and over has risen since the 1950s and is expected to hit 34.8% by 2040, when the second baby boomers (born 1971-1974) will join that group.")](https://www.japantimes.co.jp/news/2024/09/15/japan/society/japans-elderly-population-grows/ "Japan's elderly population grows to record 36.25 million")
 
-[Nippon Ishin calls on Hyogo governor to resign over bullying claims](https://www.japantimes.co.jp/news/2024/09/09/japan/politics/nippon-ishin-hyogo-saito/ "Nippon Ishin calls on Hyogo governor to resign over bullying claims")
+['Shogun' becomes first non-English-language winner of best drama Emmy](https://www.japantimes.co.jp/culture/2024/09/16/tv-streaming/emmy-awards-shogun/ "'Shogun' becomes first non-English-language winner of best drama Emmy")
 
-  [![Hyogo Gov. Motohiko Saito, accused of workplace bullying, testifies to an investigative panel in Kobe on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/09/420473.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Hyogo Gov. Motohiko Saito, accused of workplace bullying, testifies to an investigative panel in Kobe on Friday.")](https://www.japantimes.co.jp/news/2024/09/09/japan/politics/nippon-ishin-hyogo-saito/ "Nippon Ishin calls on Hyogo governor to resign over bullying claims")
+  [![Japanese actress Anna Sawai, winner of the outstanding lead actress in a drama series award for "Shogun," and Japanese actor Hiroyuki Sanada, winner of the outstanding lead actor in a drama series award for the show, pose in the press room during the 76th Emmy Awards in Los Angeles on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/16/421939.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Japanese actress Anna Sawai, winner of the outstanding lead actress in a drama series award for "Shogun," and Japanese actor Hiroyuki Sanada, winner of the outstanding lead actor in a drama series award for the show, pose in the press room during the 76th Emmy Awards in Los Angeles on Sunday.")](https://www.japantimes.co.jp/culture/2024/09/16/tv-streaming/emmy-awards-shogun/ "'Shogun' becomes first non-English-language winner of best drama Emmy")
 
-[Updated Meiji Jingu Gaien redevelopment plan to keep more trees](https://www.japantimes.co.jp/news/2024/09/09/japan/society/jingu-gaien-redevelopment-plan-changes/ "Updated Meiji Jingu Gaien redevelopment plan to keep more trees")
+[Japan jumps to No. 2, from sixth place, in Best Countries index](https://www.japantimes.co.jp/business/2024/09/12/economy/japan-best-country/ "Japan jumps to No. 2, from sixth place, in Best Countries index")
 
-  [![Redevelopment of the Meiji Jingu Gaien district has trees in the area marked according to their status — trees marked in red were to be cut down in the original plan while those in blue were to be transplanted. In the updated plan, trees marked in red will no longer be felled, and those in blue will remain where they are. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/09/420536.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Redevelopment of the Meiji Jingu Gaien district has trees in the area marked according to their status — trees marked in red were to be cut down in the original plan while those in blue were to be transplanted. In the updated plan, trees marked in red will no longer be felled, and those in blue will remain where they are. ")](https://www.japantimes.co.jp/news/2024/09/09/japan/society/jingu-gaien-redevelopment-plan-changes/ "Updated Meiji Jingu Gaien redevelopment plan to keep more trees")
+  [![Pedestrians cross an intersection in the Shibuya district of Tokyo. Japan has experienced a postpandemic travel boom, with tourists pouring back in after restrictions closed the country’s borders to travelers.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/12/421307.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Pedestrians cross an intersection in the Shibuya district of Tokyo. Japan has experienced a postpandemic travel boom, with tourists pouring back in after restrictions closed the country’s borders to travelers.")](https://www.japantimes.co.jp/business/2024/09/12/economy/japan-best-country/ "Japan jumps to No. 2, from sixth place, in Best Countries index")
 
-[Djokovic shut out as young guns usher in new Grand Slam era](https://www.japantimes.co.jp/sports/2024/09/10/tennis/djokovic-new-era/ "Djokovic shut out as young guns usher in new Grand Slam era")
+[South Korea is facing deepfake porn crisis](https://www.japantimes.co.jp/commentary/2024/09/13/world/south-korea-deepfake-porn-crisis/ "South Korea is facing deepfake porn crisis")
 
-  [![Novak Djokovic reacts during his third-round match against Alexei Popyrin during the U.S. Open in New York on Aug. 30.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/10/420714.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Novak Djokovic reacts during his third-round match against Alexei Popyrin during the U.S. Open in New York on Aug. 30.")](https://www.japantimes.co.jp/sports/2024/09/10/tennis/djokovic-new-era/ "Djokovic shut out as young guns usher in new Grand Slam era")
+  [![Activists hold up symbolic eye masks during a protest against deepfake porn in Seoul on Aug. 30. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/13/420717.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Activists hold up symbolic eye masks during a protest against deepfake porn in Seoul on Aug. 30. ")](https://www.japantimes.co.jp/commentary/2024/09/13/world/south-korea-deepfake-porn-crisis/ "South Korea is facing deepfake porn crisis")
 
-[Japan’s Rapidus seeks another ¥100 billion in chipmaking push](https://www.japantimes.co.jp/business/2024/09/10/companies/rapidus-more-investment/ "Japan’s Rapidus seeks another ¥100 billion in chipmaking push")
+[Floods bring travel chaos and damage across central Europe](https://www.japantimes.co.jp/news/2024/09/16/world/travel-damage-european-floods/ "Floods bring travel chaos and damage across central Europe")
 
-  [![Rapidus' semiconductor foundry construction site in Chitose, Hokkaido](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/10/420687.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Rapidus' semiconductor foundry construction site in Chitose, Hokkaido")](https://www.japantimes.co.jp/business/2024/09/10/companies/rapidus-more-investment/ "Japan’s Rapidus seeks another ¥100 billion in chipmaking push")
+  [![A road is flooded after heavy rainfall in the municipality of Neulengbach, in northeast Austria, on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/16/421899.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A road is flooded after heavy rainfall in the municipality of Neulengbach, in northeast Austria, on Sunday.")](https://www.japantimes.co.jp/news/2024/09/16/world/travel-damage-european-floods/ "Floods bring travel chaos and damage across central Europe")
 
 Editors' Picks
 --------------
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Small Hokkaido town ranked most comfortable place to live in Japan](https://www.japantimes.co.jp/news/2024/09/09/japan/society/comfortable-city-survey/ "Small Hokkaido town ranked most comfortable place to live in Japan")
+[Japan's elderly population grows to record 36.25 million](https://www.japantimes.co.jp/news/2024/09/15/japan/society/japans-elderly-population-grows/ "Japan's elderly population grows to record 36.25 million")
 
-By [Jessica Speed](https://www.japantimes.co.jp/author/5338/jessica-speed/ "Jessica Speed")  
+  [![The proportion of people aged 65 and over has risen since the 1950s and is expected to hit 34.8% by 2040, when the second baby boomers (born 1971-1974) will join that group.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/15/421835.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The proportion of people aged 65 and over has risen since the 1950s and is expected to hit 34.8% by 2040, when the second baby boomers (born 1971-1974) will join that group.")](https://www.japantimes.co.jp/news/2024/09/15/japan/society/japans-elderly-population-grows/ "Japan's elderly population grows to record 36.25 million")
 
-  [![Asahidake in Daisetsuzan is located in the town of Higashikawa, Hokkaido, which ranked as the most comfortable municipality in 2024.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/09/420427.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Asahidake in Daisetsuzan is located in the town of Higashikawa, Hokkaido, which ranked as the most comfortable municipality in 2024.")](https://www.japantimes.co.jp/news/2024/09/09/japan/society/comfortable-city-survey/ "Small Hokkaido town ranked most comfortable place to live in Japan")
+[CULTURE](https://www.japantimes.co.jp/culture/ "CULTURE")
 
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+['Shogun' becomes first non-English-language winner of best drama Emmy](https://www.japantimes.co.jp/culture/2024/09/16/tv-streaming/emmy-awards-shogun/ "'Shogun' becomes first non-English-language winner of best drama Emmy")
 
-[Nippon Ishin calls on Hyogo governor to resign over bullying claims](https://www.japantimes.co.jp/news/2024/09/09/japan/politics/nippon-ishin-hyogo-saito/ "Nippon Ishin calls on Hyogo governor to resign over bullying claims")
+By [Alyssa I. Smith](https://www.japantimes.co.jp/author/2576/alyssa-i-smith/ "Alyssa I. Smith")  
 
-By [Francis Tang](https://www.japantimes.co.jp/author/5450/francis-tang/ "Francis Tang") and [Himari Semans](https://www.japantimes.co.jp/author/4668/himari-semans/ "Himari Semans")  
-
-  [![Hyogo Gov. Motohiko Saito, accused of workplace bullying, testifies to an investigative panel in Kobe on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/09/420473.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Hyogo Gov. Motohiko Saito, accused of workplace bullying, testifies to an investigative panel in Kobe on Friday.")](https://www.japantimes.co.jp/news/2024/09/09/japan/politics/nippon-ishin-hyogo-saito/ "Nippon Ishin calls on Hyogo governor to resign over bullying claims")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Updated Meiji Jingu Gaien redevelopment plan to keep more trees](https://www.japantimes.co.jp/news/2024/09/09/japan/society/jingu-gaien-redevelopment-plan-changes/ "Updated Meiji Jingu Gaien redevelopment plan to keep more trees")
-
-By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
-
-  [![Redevelopment of the Meiji Jingu Gaien district has trees in the area marked according to their status — trees marked in red were to be cut down in the original plan while those in blue were to be transplanted. In the updated plan, trees marked in red will no longer be felled, and those in blue will remain where they are. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/09/420536.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Redevelopment of the Meiji Jingu Gaien district has trees in the area marked according to their status — trees marked in red were to be cut down in the original plan while those in blue were to be transplanted. In the updated plan, trees marked in red will no longer be felled, and those in blue will remain where they are. ")](https://www.japantimes.co.jp/news/2024/09/09/japan/society/jingu-gaien-redevelopment-plan-changes/ "Updated Meiji Jingu Gaien redevelopment plan to keep more trees")
-
-[TENNIS](https://www.japantimes.co.jp/sports/tennis/ "TENNIS")
-
-[Djokovic shut out as young guns usher in new Grand Slam era](https://www.japantimes.co.jp/sports/2024/09/10/tennis/djokovic-new-era/ "Djokovic shut out as young guns usher in new Grand Slam era")
-
-By [Shrivathsa Sridhar](https://www.japantimes.co.jp/author/5288/shrivathsa-sridhar/ "Shrivathsa Sridhar")  
-
-  [![Novak Djokovic reacts during his third-round match against Alexei Popyrin during the U.S. Open in New York on Aug. 30.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/10/420714.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Novak Djokovic reacts during his third-round match against Alexei Popyrin during the U.S. Open in New York on Aug. 30.")](https://www.japantimes.co.jp/sports/2024/09/10/tennis/djokovic-new-era/ "Djokovic shut out as young guns usher in new Grand Slam era")
+  [![Japanese actress Anna Sawai, winner of the outstanding lead actress in a drama series award for "Shogun," and Japanese actor Hiroyuki Sanada, winner of the outstanding lead actor in a drama series award for the show, pose in the press room during the 76th Emmy Awards in Los Angeles on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/16/421939.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Japanese actress Anna Sawai, winner of the outstanding lead actress in a drama series award for "Shogun," and Japanese actor Hiroyuki Sanada, winner of the outstanding lead actor in a drama series award for the show, pose in the press room during the 76th Emmy Awards in Los Angeles on Sunday.")](https://www.japantimes.co.jp/culture/2024/09/16/tv-streaming/emmy-awards-shogun/ "'Shogun' becomes first non-English-language winner of best drama Emmy")
 
 [BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
 
-[Japan’s Rapidus seeks another ¥100 billion in chipmaking push](https://www.japantimes.co.jp/business/2024/09/10/companies/rapidus-more-investment/ "Japan’s Rapidus seeks another ¥100 billion in chipmaking push")
+[Japan jumps to No. 2, from sixth place, in Best Countries index](https://www.japantimes.co.jp/business/2024/09/12/economy/japan-best-country/ "Japan jumps to No. 2, from sixth place, in Best Countries index")
 
-By [Taro Fuse](https://www.japantimes.co.jp/author/1408/taro-fuse/ "Taro Fuse")  
+By [Elizabeth Beattie](https://www.japantimes.co.jp/author/3993/elizabeth-beattie/ "Elizabeth Beattie")  
 
-  [![Rapidus' semiconductor foundry construction site in Chitose, Hokkaido](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/10/420687.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Rapidus' semiconductor foundry construction site in Chitose, Hokkaido")](https://www.japantimes.co.jp/business/2024/09/10/companies/rapidus-more-investment/ "Japan’s Rapidus seeks another ¥100 billion in chipmaking push")
+  [![Pedestrians cross an intersection in the Shibuya district of Tokyo. Japan has experienced a postpandemic travel boom, with tourists pouring back in after restrictions closed the country’s borders to travelers.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/12/421307.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Pedestrians cross an intersection in the Shibuya district of Tokyo. Japan has experienced a postpandemic travel boom, with tourists pouring back in after restrictions closed the country’s borders to travelers.")](https://www.japantimes.co.jp/business/2024/09/12/economy/japan-best-country/ "Japan jumps to No. 2, from sixth place, in Best Countries index")
+
+[COMMENTARY](https://www.japantimes.co.jp/opinion/commentary/ "COMMENTARY")
+
+[South Korea is facing deepfake porn crisis](https://www.japantimes.co.jp/commentary/2024/09/13/world/south-korea-deepfake-porn-crisis/ "South Korea is facing deepfake porn crisis")
+
+By [Catherine Thorbecke](https://www.japantimes.co.jp/author/5823/catherine-thorbecke/ "Catherine Thorbecke")  
+
+  [![Activists hold up symbolic eye masks during a protest against deepfake porn in Seoul on Aug. 30. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/13/420717.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Activists hold up symbolic eye masks during a protest against deepfake porn in Seoul on Aug. 30. ")](https://www.japantimes.co.jp/commentary/2024/09/13/world/south-korea-deepfake-porn-crisis/ "South Korea is facing deepfake porn crisis")
+
+[WORLD](https://www.japantimes.co.jp/news/world/ "WORLD")
+
+[Floods bring travel chaos and damage across central Europe](https://www.japantimes.co.jp/news/2024/09/16/world/travel-damage-european-floods/ "Floods bring travel chaos and damage across central Europe")
+
+By [Marton Eder](https://www.japantimes.co.jp/author/2585/marton-eder/ "Marton Eder") and [Agnieszka Barteczko](https://www.japantimes.co.jp/author/6026/agnieszka-barteczko/ "Agnieszka Barteczko")  
+
+  [![A road is flooded after heavy rainfall in the municipality of Neulengbach, in northeast Austria, on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/16/421899.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A road is flooded after heavy rainfall in the municipality of Neulengbach, in northeast Austria, on Sunday.")](https://www.japantimes.co.jp/news/2024/09/16/world/travel-damage-european-floods/ "Floods bring travel chaos and damage across central Europe")
 
 Podcast
 -------
@@ -212,9 +210,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -254,17 +252,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Harris and Trump to clash in high-stakes presidential debate](https://www.japantimes.co.jp/news/2024/09/11/world/politics/us-presidential-debate-harris-trump/ "Harris and Trump to clash in high-stakes presidential debate")
+[Sri Lanka's leftist leader turns from bullets to ballots](https://www.japantimes.co.jp/news/2024/09/16/asia-pacific/politics/sri-lanka-leftist-candidate/ "Sri Lanka's leftist leader turns from bullets to ballots")
 
-1 hours ago
+6 hours ago
 
-[Mitsubishi Electric develops multilingual translation system for meetings](https://www.japantimes.co.jp/business/2024/09/10/companies/mitsubishi-electric-translation-system/ "Mitsubishi Electric develops multilingual translation system for meetings")
+[Surviving a climate disaster isn’t likely to change how you vote](https://www.japantimes.co.jp/news/2024/09/16/world/politics/climate-disasters-voting/ "Surviving a climate disaster isn’t likely to change how you vote")
 
-[Kato announces bid for LDP presidency, adding uncertainty to race](https://www.japantimes.co.jp/news/2024/09/10/japan/politics/kato-motegi-faction/ "Kato announces bid for LDP presidency, adding uncertainty to race")
+7 hours ago
 
-[Panasonic ends 37-year contract as top Olympics sponsor](https://www.japantimes.co.jp/business/2024/09/10/companies/panasonic-olympics-sponsor-end/ "Panasonic ends 37-year contract as top Olympics sponsor")
+[First person convicted under Hong Kong's new national security law](https://www.japantimes.co.jp/news/2024/09/16/asia-pacific/crime-legal/hong-kong-security-law-t-shirt/ "First person convicted under Hong Kong's new national security law")
 
-[iPhone 16 to land in Japan without Apple Intelligence](https://www.japantimes.co.jp/business/2024/09/10/companies/iphone-16-apple-intelligence-japan/ "iPhone 16 to land in Japan without Apple Intelligence ") 
+10 hours ago
+
+[Philippines vows continued presence after South China Sea reef pullout](https://www.japantimes.co.jp/news/2024/09/16/asia-pacific/philippine-ship-withdrawn-south-china-sea/ "Philippines vows continued presence after South China Sea reef pullout")
+
+10 hours ago
+
+[Mitsubishi Heavy cancels H2A rocket launch for the second time](https://www.japantimes.co.jp/news/2024/09/16/japan/rocket-launch-postponed/ "Mitsubishi Heavy cancels H2A rocket launch for the second time")
+
+10 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
