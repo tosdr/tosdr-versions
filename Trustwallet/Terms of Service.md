@@ -349,10 +349,6 @@ Questions or Comments
 
 If you have any questions relating to these Terms, your rights and obligations arising from these Terms and/or your use of Trust Wallet and our Services or any other matter please send us a message on our contact page at [\[email protected\]](https://trustwallet.com/cdn-cgi/l/email-protection).
 
-#### Simple and convenient to use, seamless to explore
-
-[Download Trust Wallet](https://trustwallet.com/download)
-
 ##### Stay Connected:
 
 [](https://facebook.com/trustwalletapp)[](https://github.com/trustwallet)[](https://instagram.com/trustwallet)[](https://twitter.com/trustwallet)[](https://discord.gg/trustwallet)[](https://reddit.com/r/trustapp)[](https://t.me/trustwallet)[](https://www.tiktok.com/@trustwalletweb3)
