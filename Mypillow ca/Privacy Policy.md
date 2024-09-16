@@ -105,11 +105,11 @@ Apply
 
    [](https://www.mypillow.com/mypillows)
 
+   [](https://www.mypillow.com/bedding)
+
    [](https://www.mypillow.com/bath/bath-towels)
 
    [](https://www.mypillow.com/toppers)
-
-   [](https://www.mypillow.com/bedding)
 
    [](https://www.mypillow.com/slipper-specials)
 
