@@ -29,7 +29,12 @@ Terms of Services
 PRIVACY STATEMENT
 -----------------
 
-Updated September 2021
+Updated September 2024 Archived versions
+
+PRIVACY STATEMENT
+=================
+
+_This translation is machine-generated and for informational purposes only. Only the [English version](https://www.synology.com/en-global/company/legal/privacy) is legally binding._
 
 Introduction
 ------------
@@ -47,12 +52,11 @@ Personal data refers to identifying information that relates to, describe, is ca
 
 In general, Synology collects personal data from you through your use of our Services. Synology also uses cookies and other technologies to gather information regarding a visitor's browsing preferences. The data we collect and store from you, including in the preceding 12 months, may consist of the following data categories:
 
-* Your e-mail address, which is used as identification for our services and as the primary communication method.
-* Your name, address, phone number, and additional contact information are used to provide registration, device shipping, and billing verification services.
-* Your commercial information including payment method and financial data (credit card, bank account number, etc.), which is used for payment transactions for a service or product, logistics, and billing data (such as customs ID and tracking number).
-* Your IP address, unique device identifiers, referral URL, computer and connection data such as the type of operating system you use, device and software information, browser type, browser language and version, ad data, access times, Internet or other network activity such as weblog information used for fraud prevention, security purposes, for warranty registration, support services, and for transactions.
-* Your account name, Internet, or other network activity information such as account login, account activity, transaction data, and any information you provide during a transaction, or other transaction-based content that you generate or connected to your account as a result of your transaction.
-* Your chat and service history with us, and any other information you may provide us when you interact with us.
+* Contact Information: Your e-mail address (used as identification for our services and as the primary communication method), name, address, phone number, and additional contact detail that are used to provide registration, device shipping, and billing verification services.
+* Commercial information: Your payment method and financial data (credit card, bank account number, etc.), which is used for payment transactions for a service or product, logistics, and billing data (such as customs ID and tracking number).
+* Technical Information: Your IP address, device's location (latitude and longitude), unique device identifiers, referral URL, computer and connection data (such as the type of operating system you use, device and software information, browser type, browser language and version, ad data, access times, Internet or other network activity such as weblog information) used for fraud prevention, security purposes, warranty registration, customer support services, providing desired functionality, and for transactions.
+* Account Information: Your account name, Internet, or other network activity information such as account login, account activity, transaction data, and any information you provide during a transaction, or other transaction-based content that you generate or connected to your account as a result of your transaction.
+* Communication History: Your chat and service history with us, and any other information you may provide us when you interact with us.
 
 Other information that you provide to us through digital or physical means may be stored on a case-by-case basis depending on the reason it was provided.
 
@@ -133,7 +137,7 @@ Synology removes data that is no longer required to provide services based on ea
 Changes to Statement
 --------------------
 
-Synology may make amendments to this document when needed to reflect statement updates, customer feedback, as well as new products or services. We will provide a brief overview of the changes, and if the terms modify the way we process or handle your data or affect your rights, we will notify you through direct message or by posting notices if we are unable to directly reach you. We encourage that you regularly review this Privacy Statement to understand how your data is handled.
+Synology may make amendments to this document when needed to reflect statement updates, customer feedback, as well as new products or services. If the terms modify the way we process or handle your data or affect your rights, we will notify you through direct message or by posting notices if we are unable to directly reach you. We encourage that you regularly review this Privacy Statement to understand how your data is handled.
 
 Data from Children
 ------------------
@@ -154,25 +158,25 @@ If you are a California resident, you may also contact Synology to this toll-fre
 
 You may also contact Synology through the following addresses.
 
-#### For users residing in the Designated Areas:
+##### For users residing in the Designated Areas:
 
-**Synology GmbH**  
-Attn: Data Protection
-
-Grafenberger Allee 295  
-40237 Düsseldorf  
-DEUTSCHLAND
+    Synology GmbH
+    Attn: Data Protection
+    Grafenberger Allee 295  
+    40237 Düsseldorf  
+    DEUTSCHLAND
+    
 
 Tel: +49 211 9666 9666
 
-#### For users residing outside the Designated Areas:
+##### For users residing outside the Designated Areas:
 
-**Synology Inc.**  
-Attn: Data Protection
-
-9F, No. 1, Yuan Dong Rd.,  
-Banqiao, New Taipei 220632  
-TAIWAN
+    Synology Inc.
+    Attn: Data Protection
+    9F, No. 1, Yuan Dong Rd.,  
+    Banqiao, New Taipei 220632  
+    TAIWAN
+    
 
 Tel: +886 2 2955 1814
 
