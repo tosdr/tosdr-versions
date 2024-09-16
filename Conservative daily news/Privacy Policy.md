@@ -2,14 +2,14 @@ Monday, September 16 2024
 
 Breaking News
 
+* [MSNBC Anchor Says Trump Should Tone Down Rhetoric After Potential Second Assassination Attempt](https://www.conservativedailynews.com/2024/09/msnbc-anchor-says-trump-should-tone-down-rhetoric-after-potential-second-assassination-attempt/)
+* [Medal of Honor Monday: Navy Cmdr. Arthur M. Preston](https://www.conservativedailynews.com/2024/09/medal-of-honor-monday-navy-cmdr-arthur-m-preston/)
+* [President Joe Biden’s Schedule for Monday, September 16, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-monday-september-16-2024/)
 * [Trump’s Legal Battles Have Slowed To A Crawl As Election Becomes ‘Largest Jury Verdict In History’](https://www.conservativedailynews.com/2024/09/trumps-legal-battles-have-slowed-to-a-crawl-as-election-becomes-largest-jury-verdict-in-history/)
 * [Harris Doesn’t Want To Talk About EVs – It’s Easy To Understand Why](https://www.conservativedailynews.com/2024/09/harris-doesnt-want-to-talk-about-evs-its-easy-to-understand-why/)
 * [Companies Are Getting Back To Business And Backing Away From DEI](https://www.conservativedailynews.com/2024/09/companies-are-getting-back-to-business-and-backing-away-from-dei/)
 * [The Truth About Kamala Harris’s Gun Policy](https://www.conservativedailynews.com/2024/09/the-truth-about-kamala-harriss-gun-policy/)
 * [IBM Vice Chairman Says Consumers Are ‘Under Enormous Pressure,’ Warns Of Economic ‘Softness’](https://www.conservativedailynews.com/2024/09/ibm-vice-chairman-says-consumers-are-under-enormous-pressure-warns-of-economic-softness/)
-* [Secret Service, Local Officials Speak On Apparent Second Trump Assassination Attempt](https://www.conservativedailynews.com/2024/09/secret-service-local-officials-speak-on-apparent-second-trump-assassination-attempt/)
-* [Harris Flatlines In Post-Debate Polls Despite Claims Of Victory](https://www.conservativedailynews.com/2024/09/harris-flatlines-in-post-debate-polls-despite-claims-of-victory/)
-* [Springfield Residents Know Exactly Who To Blame For Migrant Crisis Hitting Their Town](https://www.conservativedailynews.com/2024/09/springfield-residents-know-exactly-who-to-blame-for-migrant-crisis-hitting-their-town/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -126,6 +126,30 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/09/MSDNC-MSNBC-Media-Bias-220x150.png)](https://www.conservativedailynews.com/2024/09/msnbc-anchor-says-trump-should-tone-down-rhetoric-after-potential-second-assassination-attempt/)
+    
+    [MSNBC Anchor Says Trump Should Tone Down Rhetoric After Potential Second Assassination Attempt](https://www.conservativedailynews.com/2024/09/msnbc-anchor-says-trump-should-tone-down-rhetoric-after-potential-second-assassination-attempt/)
+    
+    September 16, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/04/Donald-Trump-Fox-interview-1-220x150.png)](https://www.conservativedailynews.com/2024/09/trump-is-very-specific-about-his-economic-plans/)
+    
+    [Trump Is Very Specific About His Economic Plans](https://www.conservativedailynews.com/2024/09/trump-is-very-specific-about-his-economic-plans/)
+    
+    September 16, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/471219-N-D0439-039M-220x150.jpg)](https://www.conservativedailynews.com/2024/09/medal-of-honor-monday-navy-cmdr-arthur-m-preston/)
+    
+    [Medal of Honor Monday: Navy Cmdr. Arthur M. Preston](https://www.conservativedailynews.com/2024/09/medal-of-honor-monday-navy-cmdr-arthur-m-preston/)
+    
+    September 16, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/03/JOe-Biden-speech-14-220x150.png)](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-monday-september-16-2024/)
+    
+    [President Joe Biden’s Schedule for Monday, September 16, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-monday-september-16-2024/)
+    
+    September 16, 2024
+    
 * [![Joe Biden economy inflation](https://www.conservativedailynews.com/wp-content/uploads/2022/11/gv112722dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/groceries-got-you-groaning-heres-how-to-save-without-starving/)
     
     [Groceries Got You Groaning? Here’s How to Save Without Starving](https://www.conservativedailynews.com/2024/09/groceries-got-you-groaning-heres-how-to-save-without-starving/)
@@ -150,43 +174,19 @@ Recent Posts
     
     September 15, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/03/Depositphotos_243585218_S-220x150.jpg)](https://www.conservativedailynews.com/2024/09/blue-state-hunters-slam-environmental-initiative-to-curtail-trophy-hunting/)
-    
-    [Blue State Hunters Slam Environmental Initiative To Curtail ‘Trophy Hunting’](https://www.conservativedailynews.com/2024/09/blue-state-hunters-slam-environmental-initiative-to-curtail-trophy-hunting/)
-    
-    September 15, 2024
-    
-* [![Fox News Bud Light Woke garbage](https://www.conservativedailynews.com/wp-content/uploads/2023/04/gv042823dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/companies-are-getting-back-to-business-and-backing-away-from-dei/)
-    
-    [Companies Are Getting Back To Business And Backing Away From DEI](https://www.conservativedailynews.com/2024/09/companies-are-getting-back-to-business-and-backing-away-from-dei/)
-    
-    September 15, 2024
-    
-* [![Kamala Harris 2024 election empty pantsuit](https://www.conservativedailynews.com/wp-content/uploads/2024/08/stg082624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/the-truth-about-kamala-harriss-gun-policy/)
-    
-    [The Truth About Kamala Harris’s Gun Policy](https://www.conservativedailynews.com/2024/09/the-truth-about-kamala-harriss-gun-policy/)
-    
-    September 15, 2024
-    
-* [![Bills unpaid past due broke](https://www.conservativedailynews.com/wp-content/uploads/2023/09/past-due-unpaid-bills-220x150.jpg)](https://www.conservativedailynews.com/2024/09/ibm-vice-chairman-says-consumers-are-under-enormous-pressure-warns-of-economic-softness/)
-    
-    [IBM Vice Chairman Says Consumers Are ‘Under Enormous Pressure,’ Warns Of Economic ‘Softness’](https://www.conservativedailynews.com/2024/09/ibm-vice-chairman-says-consumers-are-under-enormous-pressure-warns-of-economic-softness/)
-    
-    September 15, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [New Jersey Cop Accidentally Shoots Himself During Training](https://www.thegunpage.com/new-jersey-cop-accidentally-shoots-himself-during-training/10610593)
+* [Geissele Announces 12.5” and 13.9” Super Duty Variants](https://www.thegunpage.com/geissele-announces-12-5-and-13-9-super-duty-variants/10610589)
 * [Bill of Rights To Grant Unrestricted Firearm Freedom Proposed in Alberta](https://www.thegunpage.com/bill-of-rights-to-grant-unrestricted-firearm-freedom-proposed-in-alberta/10610584)
+* [TFB Weekly Web Deals 106: Deals for September 16th, 2024](https://www.thegunpage.com/tfb-weekly-web-deals-106-deals-for-september-16th-2024/10610590)
 * [Ignorance With A Platform: Reading This Op-Ed Will Make You Dumber](https://www.thegunpage.com/ignorance-with-a-platform-reading-this-op-ed-will-make-you-dumber/10610581)
+* [All About The Inaugural Simulator Matches At 2024 CMP National Air Gun Events](https://www.thegunpage.com/all-about-the-inaugural-simulator-matches-at-2024-cmp-national-air-gun-events/10610591)
+* [Springfield Armory Donates SA-16A2 Rifles To Hillsdale College For Modern American Riflery Class](https://www.thegunpage.com/springfield-armory-donates-sa-16a2-rifles-to-hillsdale-college-for-modern-american-riflery-class/10610592)
+* [Review: Mecanik MO3 Red-Dot Optic](https://www.thegunpage.com/review-mecanik-mo3-red-dot-optic/10610588)
 * [Blue State Hunters Slam Environmental Initiative To Curtail ‘Trophy Hunting’](https://www.thegunpage.com/blue-state-hunters-slam-environmental-initiative-to-curtail-trophy-hunting/10610578)
 * [The Truth About Kamala Harris’s Gun Policy](https://www.thegunpage.com/the-truth-about-kamala-harriss-gun-policy/10610579)
-* [BREAKING – ASSASSINATION ATTEMPT 2.0: Trump Unharmed After Shots Fired in Another Assassination Attempt – UPDATED](https://www.thegunpage.com/breaking-assassination-attempt-2-0-trump-unharmed-after-shots-fired-in-another-assassination-attempt-updated/10610576)
-* [Ruger Announces the LC Carbine Now in 10mm Auto](https://www.thegunpage.com/ruger-announces-the-lc-carbine-now-in-10mm-auto/10610573)
-* [Olympus Arms Vulcan "Zero Recoil AR-10" Review](https://www.thegunpage.com/olympus-arms-vulcan-zero-recoil-ar-10-review/10610568)
-* [Armed Robbers “Find Out” Texas Style](https://www.thegunpage.com/armed-robbers-find-out-texas-style/10610565) 
-* [Results: 2024 NRA National Precision Pistol Championships](https://www.thegunpage.com/results-2024-nra-national-precision-pistol-championships/10610563)
-* [Ghost Gunner 3-S and the Optics Cut Library 2.0, Part 2 Hands-On](https://www.thegunpage.com/ghost-gunner-3-s-and-the-optics-cut-library-2-0-part-2-hands-on/10610559)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
