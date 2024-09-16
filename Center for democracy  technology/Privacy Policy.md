@@ -239,5 +239,3 @@ CDT Europe
 * [](https://www.linkedin.com/showcase/cdteu/)
 * [](https://eupolicy.social/@cdteurope)
 * [](https://bsky.app/profile/did:plc:vfnqtxkda7362pbuzuzenzsi)
-
-![](https://queue.simpleanalyticscdn.com/noscript.gif)
