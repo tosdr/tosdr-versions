@@ -1187,6 +1187,7 @@
                     * [ ]  [Disaster Recovery Architecture](https://handbook.gitlab.com/handbook/engineering/infrastructure/production/architecture/disaster-recovery/)
                     * [ ]  [Supporting Architecture](https://handbook.gitlab.com/handbook/engineering/infrastructure/production/architecture/supporting-architecture/)
                 * [ ]  [Production Readiness Review](https://handbook.gitlab.com/handbook/engineering/infrastructure/production/readiness/)
+            * [ ]  [Rate limiting at GitLab](https://handbook.gitlab.com/handbook/engineering/infrastructure/rate-limiting/)
             * [ ]  [Release Tools](https://handbook.gitlab.com/handbook/engineering/infrastructure/release-tools/)
             * [ ]  [Service Maturity Model](https://handbook.gitlab.com/handbook/engineering/infrastructure/service-maturity-model/)
             * [ ]  [Team](https://handbook.gitlab.com/handbook/engineering/infrastructure/team/)
