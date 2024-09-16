@@ -1,7 +1,5 @@
 [Skip to content](#MainContent)
 
-[SIGN UP OFFER: Unlock 45% OFF your entire order today! Prices start at just $16.50](#)
-
      
 
 * Video
