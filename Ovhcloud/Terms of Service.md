@@ -215,13 +215,17 @@ Log in to order, manage your products and services, and track your orders.
             
             * Identity and Access Management (IAM) Secure your access management and enhance your productivity
             * [Key Management Service (KMS) Beta](https://www.ovhcloud.com/en-ie/identity-security/key-management-service/) Secure your data across all your OVHcloud services from one central place
-    * [SecNumCloud](https://www.ovhcloud.com/en-ie/solutions/uc-secnumcloud-environment/)
+    * [Bare Metal Pod](https://www.ovhcloud.com/en-ie/solutions/uc-secnumcloud-environment/)
         * Back to menu
-        * [SecNumCloud](https://www.ovhcloud.com/en-ie/solutions/uc-secnumcloud-environment/)
+        * [Bare Metal Pod](https://www.ovhcloud.com/en-ie/solutions/uc-secnumcloud-environment/)
             
-        * SecNumCloud
+        * Bare Metal Pod
             
-            * [SecNumCloud-qualified Baremetal Pod](https://www.ovhcloud.com/en-ie/enterprise/products/secnumcloud/bare-metal/) The power of Bare Metal, combined with the flexibility of OpenStack cloud and the security of SecNumCloud-qualified sovereign cloud.
+            * [Process underway to obtain SecNumCloud qualification for Bare Metal Pod](https://www.ovhcloud.com/en-ie/enterprise/products/secnumcloud/bare-metal/) Bare Metal performance in a SecNumCloud compliant sovereign environment.
+        * Use Cases
+            
+            * [Data sovereignty](https://www.ovhcloud.com/en-ie/about-us/data-sovereignty/)
+            * [SecNumCloud Qualified Offers](https://www.ovhcloud.com/en-ie/solutions/uc-secnumcloud-environment/)
 * [Web Hosting & Domain](https://www.ovhcloud.com/en-ie/web-cloud/)
     * Back to menu
     * [Web Hosting & Domain](https://www.ovhcloud.com/en-ie/web-cloud/)
