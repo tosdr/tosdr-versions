@@ -77,7 +77,7 @@ Latest commented posts
 
 [kat (guys will literally see this and type and etc) created by softkathrin](https://yiff-party.com/yiff/kat-guys-will-literally-see-this-and-type-and-etc-created-by-softkathrin/)
 
-0 808 1
+0 816 1
 
 August 20, 2024
 
@@ -85,7 +85,7 @@ August 20, 2024
 
 [roxanne wolf (five nights at freddy’s: security breach and etc) created by yokaiduck](https://yiff-party.com/yiff/roxanne-wolf-five-nights-at-freddys-security-breach-and-etc-created-by-yokaiduck/)
 
-0 897 1
+0 906 1
 
 August 24, 2024
 
@@ -93,17 +93,17 @@ August 24, 2024
 
 [elena and elin (mythology) created by psychorodent](https://yiff-party.com/yiff/elena-and-elin-mythology-created-by-psychorodent/)
 
-0 332 1
+0 341 1
 
 August 24, 2024
 
-[](https://yiff-party.com/yiff/created-by-avius/)
+[](https://yiff-party.com/yiff/cynder-and-malefor-spyro-the-dragon-and-etc-created-by-drakawa/)
 
-[created by avius](https://yiff-party.com/yiff/created-by-avius/)
+[cynder and malefor (spyro the dragon and etc) created by drakawa](https://yiff-party.com/yiff/cynder-and-malefor-spyro-the-dragon-and-etc-created-by-drakawa/)
 
-0 86 0
+0 85 0
 
-August 17, 2024
+August 18, 2024
 
 [Hub](https://yiff-hub.com/) / [Affiliation](https://yiff-party.com/yiff-party-affiliation/) / [Partner](https://yiff-party.com/website-yiff-partner/) / [DMCA](https://yiff-party.com/dmca-yiff-party-com/) / [Terms](https://yiff-party.com/terms-and-conditions/) / [Sitemap](https://yiff-party.com/sitemap/) / [Contact](https://yiff-party.com/Contact/)
 
