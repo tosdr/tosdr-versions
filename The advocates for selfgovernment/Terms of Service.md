@@ -537,6 +537,10 @@ Articles
 
 [](#)[](#)
 
+* [![](https://www.theadvocates.org/wp-content/uploads/2024/09/Screenshot-2024-09-09-at-11.09.05 AM-300x200.png)](https://www.theadvocates.org/blinking-lights-heroes-of-underthrow/)
+    
+    #### [Blinking Lights: Heroes of Underthrow](https://www.theadvocates.org/blinking-lights-heroes-of-underthrow/)
+    
 * [![](https://www.theadvocates.org/wp-content/uploads/2024/09/Screenshot-2024-09-04-at-8.16.45 AM-300x200.png)](https://www.theadvocates.org/anything-peaceful/)
     
     #### [Anything Peaceful](https://www.theadvocates.org/anything-peaceful/)
@@ -564,10 +568,6 @@ Articles
 * [![](https://www.theadvocates.org/wp-content/uploads/2024/07/Screenshot-2024-07-23-at-6.24.36 PM-300x200.png)](https://www.theadvocates.org/a-hackneyed-meme-for-a-hackneyed-idea/)
     
     #### [A Hackneyed Meme for a Hackneyed Idea](https://www.theadvocates.org/a-hackneyed-meme-for-a-hackneyed-idea/)
-    
-* [![](https://www.theadvocates.org/wp-content/uploads/2024/07/Screenshot-2024-07-17-at-11.07.43 AM-300x200.png)](https://www.theadvocates.org/single-bullet-theory/)
-    
-    #### [Single Bullet Theory](https://www.theadvocates.org/single-bullet-theory/)
     
 * [#### All Articles](https://www.theadvocates.org/articles/)
     
