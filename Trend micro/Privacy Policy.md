@@ -884,9 +884,9 @@ Unread
 
 All
 
-* [Imagine with AI. Secure with Trend.](https://www.trendmicro.com/en_us/business/artificial-intelligence.html)close
+* [Imagine with AI. Secure with Trend.](https://www.trendmicro.com/en_us/business/ai.html)close
     
-    [Get expert insight >](https://www.trendmicro.com/en_us/business/artificial-intelligence.html)
+    [Get expert insight >](https://www.trendmicro.com/en_us/business/ai.html)
 * [Confidence in GenAI: The Zero Trust Approach](https://www.trendmicro.com/en_us/research/24/h/secure-genai.html)close
     
     [Read blog >](https://www.trendmicro.com/en_us/research/24/h/secure-genai.html)
@@ -906,14 +906,11 @@ Support
 
 Resources
 
-* [AI Hub](https://www.trendmicro.com/en_us/business/artificial-intelligence.html)
+* [AI Security](https://www.trendmicro.com/en_us/business/ai.html)
 * [Trend Micro vs. Competition](https://www.trendmicro.com/en_us/about/compare.html)
 * [Cyber Risk Index/Assessment](https://www.trendmicro.com/en_us/security-intelligence/breaking-news/cyber-risk-index.html)
-* [CISO Resource Center](https://www.trendmicro.com/en_us/ciso.html)
-* [DevOps Resource Center](https://www.trendmicro.com/en_us/devops.html)
 * [What Is?](https://www.trendmicro.com/en_us/what-is.html)
 * [Threat Encyclopedia](https://www.trendmicro.com/vinfo/us/threat-encyclopedia/)
-* [Cloud Health Assessment](https://trendmicro.com/public-cloud-risk-assessment)
 * [Cyber Insurance](https://www.trendmicro.com/en_us/business/capabilities/solutions-for/cyber-insurance.html)
 * [Glossary of Terms](https://www.trendmicro.com/vinfo/us/security/definition/a)
 * [Webinars](https://www.trendmicro.com/en_us/about/webinars.html)
@@ -1282,9 +1279,9 @@ Experience our unified platform for free
 * [Blog](https://www.trendmicro.com/en_us/research.html)
 * [Newsroom](https://trendmicro.com/newsroom)
 * [Threat Reports](https://www.trendmicro.com/vinfo/us/security/research-and-analysis/threat-reports)
-* [DevOps Resource Center](https://www.trendmicro.com/en_us/devops.html)
-* [CISO Resource Center](https://www.trendmicro.com/en_us/ciso.html)
 * [Find a Partner](https://trendmicro.my.site.com/Gpartner/s/partner-locator?language=en_US)
+* 
+* 
 
 ### Support
 
