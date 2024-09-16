@@ -12,8 +12,6 @@ Safe & Secure 100% secure and 24h support
 
 Super Fast instant digital download
 
-[Friday The 13th Slash Sale! 🎮 Shop Now](https://www.cdkeys.com/flash-sale)
-
 Toggle Nav[](https://www.cdkeys.com/)
 
 ![Super Fast](https://cdn.omn-it.net/media/icons/fast_2x.png)
@@ -460,11 +458,11 @@ To view games that are valid in your region ‘%1’, click here
     
      Buy Now
     
-2.    [![Dying Light 2 Stay Human: Reloaded Edition PC](https://cdn.cdkeys.com/245x340/media/catalog/product/r/e/reloaded_edition.jpg)   No 2. \-70%](https://www.cdkeys.com/pc/dying-light-2-stay-human-reloaded-edition-pc-steam)
+2.    [![Dying Light 2 Stay Human: Reloaded Edition PC](https://cdn.cdkeys.com/245x340/media/catalog/product/r/e/reloaded_edition.jpg)   No 2. \-68%](https://www.cdkeys.com/pc/dying-light-2-stay-human-reloaded-edition-pc-steam)
     
     **[Dying Light 2 Stay Human: Reloaded Edition PC](https://www.cdkeys.com/pc/dying-light-2-stay-human-reloaded-edition-pc-steam "Dying Light 2 Stay Human: Reloaded Edition PC")**
     
-    Special Price $17.99 RRP $59.19
+    Special Price $19.09 RRP $59.19
     
     [Add to Wish List](# "Add to Wish List")
     
@@ -484,7 +482,7 @@ To view games that are valid in your region ‘%1’, click here
     
     **[Squad PC](https://www.cdkeys.com/pc/squad-pc-steam "Squad PC ")**
     
-    Special Price $26.29 RRP $52.59
+    Special Price $24.99 RRP $52.59
     
     [Add to Wish List](# "Add to Wish List")
     
@@ -512,11 +510,11 @@ To view games that are valid in your region ‘%1’, click here
     
      Buy Now
     
-7.    [![Test Drive Unlimited Solar Crown PC](https://cdn.cdkeys.com/245x340/media/catalog/product/t/e/test_drive_unlimited_solar_crown.jpg)   No 7. \-44%](https://www.cdkeys.com/pc/test-drive-unlimited-solar-crown-pc-steam)
+7.    [![Test Drive Unlimited Solar Crown PC](https://cdn.cdkeys.com/245x340/media/catalog/product/t/e/test_drive_unlimited_solar_crown.jpg)   No 7. \-13%](https://www.cdkeys.com/pc/test-drive-unlimited-solar-crown-pc-steam)
     
     **[Test Drive Unlimited Solar Crown PC](https://www.cdkeys.com/pc/test-drive-unlimited-solar-crown-pc-steam "Test Drive Unlimited Solar Crown PC")**
     
-    Special Price $29.59 RRP $52.59
+    Special Price $45.99 RRP $52.59
     
     [Add to Wish List](# "Add to Wish List")
     
