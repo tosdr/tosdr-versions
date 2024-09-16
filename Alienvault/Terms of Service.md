@@ -1,4 +1,4 @@
-be\_ixf;ym\_202409 d\_13; ct\_50
+be\_ixf;ym\_202409 d\_16; ct\_50
 
 * be\_ixf; php\_sdk; php\_sdk\_1.4.26
 * https://cybersecurity.att.com/terms/website
@@ -189,7 +189,7 @@ be\_ixf;ym\_202409 d\_13; ct\_50
             
             webcast
             
-            ##### Evolve Your Endpoint Security Strategy to Stay in Step with New Regulations
+            ##### Evolve Your Endpoint Security Strategy to Stay in Step with New Regulations: October 9th, 2024
             
             [Learn more](https://cybersecurity.att.com/resource-center/webcasts/evolve-your-endpoint-security-strategy)
             
