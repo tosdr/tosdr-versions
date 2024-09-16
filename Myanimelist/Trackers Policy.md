@@ -1,4 +1,4 @@
-[![MAL x JAPAN](/c/img/images/event/20210527_MALxJAPAN_MiniBanner/500x72_miniBanner_B.png "MAL x JAPAN")](https://mxj.myanimelist.net/)
+[![FAL_Fall_2024](/c/img/images/event/Mini_Banner_20240916_FAL_Fall_2024/mini-banner.png "FAL_Fall_2024")](https://fal.myanimelist.net/fall_2024?utm_source=MAL&utm_medium=TMB&utm_campaign=falfall2024&utm_content=announce)
 
 [Hide Ads](https://myanimelist.net/membership?_location=mal_h_u)[Login](https://myanimelist.net/login.php)[Sign Up](https://myanimelist.net/register.php)
 
