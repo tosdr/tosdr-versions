@@ -1,4 +1,4 @@
- ![Cookies Notice](https://www.philips-hue.com/en-us/support/legal/cookie-notice/_jcr_content/root/responsivegrid/section_component/responsivegrid/story_banner_compone.signifyimg.82.300.jpeg/1610009555360.jpeg)
+ ![](https://www.philips-hue.com/en-us/support/legal/cookie-notice/_jcr_content/root/responsivegrid/section_component/responsivegrid/story_banner_compone.signifyimg.82.300.jpeg/1610009555360.jpeg)
 
 Cookies Notice
 ==============
