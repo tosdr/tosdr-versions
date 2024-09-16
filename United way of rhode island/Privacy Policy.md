@@ -203,6 +203,24 @@ UPCOMING EVENTS
 
 [See all events](https://www.unitedwayri.org/get-involved/join-an-event/)
 
+[![DSC_8255](https://www.unitedwayri.org/wp-content/uploads/bb-plugin/cache/DSC_8255-scaled-1024x682-landscape-8de31f79ee2d3b401c0257ccfdeb1fe7-.jpeg "DSC_8255")](https://www.unitedwayri.org/event/women-united-summer-social-2/)
+
+01 Oct
+
+#### [Women United Networking Social](https://www.unitedwayri.org/event/women-united-summer-social-2/ "Women United Networking Social")
+
+United Way of Rhode Island’s Women United is partnering up with Northern RI Chamber of Commerce’s Women Business Council for a night of networking and socializing.
+
+Tuesday October 1, 2024
+
+5:00PM-8:00PM
+
+Notes Coffee Co.
+
+508 Armistice Blvd, Pawtucket RI 02861
+
+[Register](https://uwriweb.org/comm/SinglePageRegEvent.jsp?EventKeyHex=3134383435)
+
 [![DAP_United_FarmF-113_web](https://www.unitedwayri.org/wp-content/uploads/bb-plugin/cache/DAP_United_FarmF-113_web-landscape-beefc4873dc6a4fdbf9e9c414b900306-.jpg "DAP_United_FarmF-113_web")](https://www.unitedwayri.org/event/annual-celebration-2024/)
 
 10 Oct
