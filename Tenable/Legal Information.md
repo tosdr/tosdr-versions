@@ -543,7 +543,7 @@ Discover the solution that's right for you.
 [Legal](https://www.tenable.com/legal)  
 [508 Compliance](https://www.tenable.com/section-508-voluntary-product-accessibility)
 
-[![](https://static.tenable.com/press/logos/TenableLogo_White_RGB.svg)](https://www.tenable.com/)
+[![Tenable Home](https://static.tenable.com/press/logos/TenableLogo_White_RGB.svg)](https://www.tenable.com/)
 
 * * *
 
