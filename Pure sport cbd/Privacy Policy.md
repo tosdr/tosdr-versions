@@ -40,7 +40,7 @@ Check out
     
     ---------
     
-    [SOCKS](https://puresportcbd.com/en-us/collections/socks) [TOPS AND T-SHIRTS](https://puresportcbd.com/en-us/collections/running-tops) [HOODIES AND SWEATSHIRTS](https://puresportcbd.com/en-us/collections/hoodies-sweatshirts) [CAPS](https://puresportcbd.com/en-us/collections/caps) [SHOP ALL](https://puresportcbd.com/en-us/collections/shop-all-apparel) [PERFORMANCE WEAR](https://puresport.co/collections/performance-wear) [TONAL COLLECTION](https://puresportcbd.com/en-us/collections/tonal-collection)
+    [SOCKS](https://puresportcbd.com/en-us/collections/socks) [TOPS AND T-SHIRTS](https://puresportcbd.com/en-us/collections/running-tops) [HOODIES AND SWEATSHIRTS](https://puresportcbd.com/en-us/collections/hoodies-sweatshirts) [CAPS](https://puresportcbd.com/en-us/collections/caps) [WATER BOTTLES](https://puresportcbd.com/en-us/collections/water-bottles) [SHOP ALL](https://puresportcbd.com/en-us/collections/shop-all-apparel) [PERFORMANCE WEAR](https://puresport.co/collections/performance-wear)
     
 * SHOP BY GOAL
     
@@ -71,15 +71,15 @@ Check out
 
 * [ ]  [Apparel](https://puresportcbd.com/en-us/collections/shop-all-apparel)
     
-    [![](//puresport.co/cdn/shop/files/Square_Extra_Socks2_1.jpg?v=1720541194&width=900)](https://puresportcbd.com/en-us/collections/socks)[![](//puresport.co/cdn/shop/files/C2_Collection.jpg?v=1722330970&width=900)](https://puresportcbd.com/en-us/collections/running-tops)[![](//puresport.co/cdn/shop/files/Puresport_EccomResizes25.jpg?v=1724922250&width=900)](https://puresportcbd.com/en-us/collections/hoodies-sweatshirts)[![](//puresport.co/cdn/shop/files/Black_Cap.jpg?v=1721924588&width=900)](https://puresportcbd.com/en-us/collections/caps)[![](//puresport.co/cdn/shop/files/V2_Mobile_Banner.jpg?v=1721205064&width=900)](https://puresportcbd.com/en-us/collections/shop-all-apparel)
+    [![](//puresport.co/cdn/shop/files/Square_Extra_Socks2_1.jpg?v=1720541194&width=900)](https://puresportcbd.com/en-us/collections/socks)[![](//puresport.co/cdn/shop/files/C2_Collection.jpg?v=1722330970&width=900)](https://puresportcbd.com/en-us/collections/running-tops)[![](//puresport.co/cdn/shop/files/Puresport_EccomResizes25.jpg?v=1724922250&width=900)](https://puresportcbd.com/en-us/collections/hoodies-sweatshirts)[![](//puresport.co/cdn/shop/files/Raspberry_Puresport_Ultra_Electrolytes3_1.jpg?v=1717017351&width=900)](https://puresportcbd.com/en-us/collections/water-bottles)[![](//puresport.co/cdn/shop/files/Black_Cap.jpg?v=1721924588&width=900)](https://puresportcbd.com/en-us/collections/caps)[![](//puresport.co/cdn/shop/files/V2_Mobile_Banner.jpg?v=1721205064&width=900)](https://puresportcbd.com/en-us/collections/shop-all-apparel)
     
     SHOP BY CATEGORY
     
-    [Socks](https://puresportcbd.com/en-us/collections/socks) [Tops and T-Shirts](https://puresportcbd.com/en-us/collections/running-tops) [Hoodies and Sweatshirts](https://puresportcbd.com/en-us/collections/hoodies-sweatshirts) [Caps](https://puresportcbd.com/en-us/collections/caps) [Shop All](https://puresportcbd.com/en-us/collections/shop-all-apparel)
+    [Socks](https://puresportcbd.com/en-us/collections/socks) [Tops and T-Shirts](https://puresportcbd.com/en-us/collections/running-tops) [Hoodies and Sweatshirts](https://puresportcbd.com/en-us/collections/hoodies-sweatshirts) [Water Bottles](https://puresportcbd.com/en-us/collections/water-bottles) [Caps](https://puresportcbd.com/en-us/collections/caps) [Shop All](https://puresportcbd.com/en-us/collections/shop-all-apparel)
     
     SHOP BY COLLECTION
     
-    [Shop All](https://puresportcbd.com/en-us/collections/shop-all-apparel) [Performance Wear](https://puresportcbd.com/en-us/collections/performance-wear) [Tonal Collection](https://puresportcbd.com/en-us/collections/tonal-collection)
+    [Shop All](https://puresportcbd.com/en-us/collections/shop-all-apparel) [Performance Wear](https://puresportcbd.com/en-us/collections/performance-wear)
     
 * [Our Story](https://puresportcbd.com/en-us/pages/our-story)
 * [Community](https://puresportcbd.com/en-us/pages/community)
