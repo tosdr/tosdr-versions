@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**September 13, 2024**
+**September 16, 2024**
 
 * * *
 
@@ -208,16 +208,16 @@ this hour
 
 * * *
 
+* [Huge Gamma-Ray Burst Collection](https://www.sciencedaily.com/releases/2024/09/240913003326.htm)
+* [Unprecedented Control of SIV Replication](https://www.sciencedaily.com/releases/2024/09/240912161720.htm)
+* [Carbon Sequestration in the Deep Ocean](https://www.sciencedaily.com/releases/2024/09/240912142350.htm)
+* [Plant-Plant Interactions](https://www.sciencedaily.com/releases/2024/09/240913105324.htm)
+* [Folded or Cut, This Li-S Battery Keeps Going](https://www.sciencedaily.com/releases/2024/09/240913105258.htm)
+* [Bacteria Work Together in Difficult Conditions](https://www.sciencedaily.com/releases/2024/09/240913105250.htm)
 * [Could Invisibility Cloaks Become a Reality?](https://www.sciencedaily.com/releases/2024/09/240912135948.htm)
 * [Antifungal Resistance Is Growing](https://www.sciencedaily.com/releases/2024/09/240913003332.htm)
 * [Easter Island: Popular Theory Disproven](https://www.sciencedaily.com/releases/2024/09/240911112147.htm)
 * ['Wobble' Made in Nucleus of Single Atom](https://www.sciencedaily.com/releases/2024/09/240912135652.htm)
-* [200 Meter Landslide: Earth Vibrated for 9 Days](https://www.sciencedaily.com/releases/2024/09/240912142355.htm)
-* [El Nino, Warming, Caused Huge Mass Extinction](https://www.sciencedaily.com/releases/2024/09/240912142358.htm)
-* [Hair-Thin Wire for Cosmic Simulations](https://www.sciencedaily.com/releases/2024/09/240912135814.htm)
-* [Path to Prosperity for Planet Shrinking Rapidly](https://www.sciencedaily.com/releases/2024/09/240912135718.htm)
-* [Impact of Climate Change On Agriculture](https://www.sciencedaily.com/releases/2024/09/240912135716.htm)
-* [Microbes Turn CO2 Into Protein and Vitamins](https://www.sciencedaily.com/releases/2024/09/240912135704.htm)
 
 Trending Topics
 ---------------
@@ -228,27 +228,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Elder Care](https://www.sciencedaily.com/news/health_medicine/caregiving/)
+[Obesity](https://www.sciencedaily.com/news/health_medicine/obesity/)
 
-[Child Psychology](https://www.sciencedaily.com/news/mind_brain/child_psychology/)
+[Heart Disease](https://www.sciencedaily.com/news/health_medicine/heart_disease/)
 
-[Skin Cancer](https://www.sciencedaily.com/news/health_medicine/skin_cancer/)
+[Diabetes](https://www.sciencedaily.com/news/health_medicine/diabetes/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Materials Science](https://www.sciencedaily.com/news/matter_energy/materials_science/)
-
 [Biochemistry](https://www.sciencedaily.com/news/matter_energy/biochemistry/)
 
-[Spintronics](https://www.sciencedaily.com/news/matter_energy/spintronics/)
+[Materials Science](https://www.sciencedaily.com/news/matter_energy/materials_science/)
+
+[Spintronics Research](https://www.sciencedaily.com/news/computers_math/spintronics/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
+[Botany](https://www.sciencedaily.com/news/plants_animals/botany/)
+
 [Water](https://www.sciencedaily.com/news/earth_climate/water/)
 
-[Marine Biology](https://www.sciencedaily.com/news/plants_animals/marine_biology/)
-
-[Energy and the Environment](https://www.sciencedaily.com/news/earth_climate/energy/)
+[Molecular Biology](https://www.sciencedaily.com/news/plants_animals/molecular_biology/)
 
   
 
