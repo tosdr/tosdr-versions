@@ -91,7 +91,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Can taking ashwagandha supplements improve health?](https://www.sciencenews.org/article/does-ashwagandha-improve-health)
             
-            By [Sean Cummings](https://www.sciencenews.org/author/sean-cummings "Posts by Sean Cummings")2 hours ago
+            By [Sean Cummings](https://www.sciencenews.org/author/sean-cummings "Posts by Sean Cummings")September 13, 2024
             
         * [Anthropology](https://www.sciencenews.org/topic/anthropology)
             
@@ -118,7 +118,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Mega El Niños kicked off the world’s worst mass extinction](https://www.sciencenews.org/article/mega-el-ninos-mass-extinction)
             
-            By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")23 hours ago
+            By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")September 12, 2024
             
         * [Anthropology](https://www.sciencenews.org/topic/anthropology)
             
@@ -142,19 +142,19 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Can solar farms and crop farms coexist?](https://www.sciencenews.org/article/solar-agriculture-farming-argivoltaic)
             
-            By [Luke Groskin](https://www.sciencenews.org/author/luke-groskin "Posts by Luke Groskin")26 mins ago
+            By [Luke Groskin](https://www.sciencenews.org/author/luke-groskin "Posts by Luke Groskin")September 13, 2024
             
         * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
             
             ### [Scientists find a long-sought electric field in Earth’s atmosphere](https://www.sciencenews.org/article/electric-field-in-earths-atmosphere)
             
-            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")4 hours ago
+            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")September 13, 2024
             
         * [Life](https://www.sciencenews.org/topic/life)
             
             ### [Mega El Niños kicked off the world’s worst mass extinction](https://www.sciencenews.org/article/mega-el-ninos-mass-extinction)
             
-            By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")23 hours ago
+            By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")September 12, 2024
             
 * [Physics](https://www.sciencenews.org/topic/physics)
     * [Physics](https://www.sciencenews.org/topic/physics)
@@ -184,23 +184,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Astronomy](https://www.sciencenews.org/topic/astronomy)
         * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
         * [Cosmology](https://www.sciencenews.org/topic/cosmology)
-    * * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
+    * * [Space](https://www.sciencenews.org/topic/space)
+            
+            ### [How a dying star is similar to a lava lamp](https://www.sciencenews.org/article/dying-star-lava-lamp-convection)
+            
+            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")59 mins ago
+            
+        * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
             
             ### [Scientists find a long-sought electric field in Earth’s atmosphere](https://www.sciencenews.org/article/electric-field-in-earths-atmosphere)
             
-            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")4 hours ago
+            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")September 13, 2024
             
         * [Cosmology](https://www.sciencenews.org/topic/cosmology)
             
             ### [In an epic cosmology clash, rival scientists begin to find common ground](https://www.sciencenews.org/article/cosmology-expansion-universe) 
             
             By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")September 4, 2024
-            
-        * [Space](https://www.sciencenews.org/topic/space)
-            
-            ### [2 spacecraft caught the waves that might heat and accelerate the solar wind](https://www.sciencenews.org/article/waves-heat-accelerate-solar-wind)
-            
-            By [Adam Mann](https://www.sciencenews.org/author/adam-mann "Posts by Adam Mann")August 29, 2024
             
 
 Terms of Service
