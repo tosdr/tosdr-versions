@@ -21,7 +21,7 @@ Support NowMenu
     * [UK](https://www.independent.co.uk/news/uk)
     * [Europe](https://www.independent.co.uk/news/world/europe)
     * [World](https://www.independent.co.uk/news/world)
-    * [US Politics](https://www.the-independent.com/news/world/americas/us-politics)
+    * [US Politics](https://www.independent.co.uk/news/world/americas/us-politics)
     * [UK Politics](https://www.independent.co.uk/news/uk/politics)
     * [Health](https://www.independent.co.uk/news/health)
     * [Business](https://www.independent.co.uk/news/business)
@@ -168,7 +168,7 @@ Before using the Website please read our User Commitment, Privacy policy, Cookie
 
 [Code of Conduct](https://www.independent.co.uk/service/code-of-conduct-a6184241.html)
 
-[Complaint Form](https://clicks.trx-hub.com/xid/esimedia_t58ukgmjkf95_theindependent?q=http%3A%2F%2Fgo.redirectingat.com%2F%3Fid%3D44681X1458326%26url%3Dhttps%253A%252F%252Findependentnews.zendesk.com%252Fhc%252Fen-us%252Frequests%252Fnew%26sref%3Dhttps%3A%2F%2Fwww.independent.co.uk%2Fservice%2Fuser-policies-a6184151.html&p=https%3A%2F%2Fwww.independent.co.uk%2Fservice%2Fuser-policies-a6184151.html&article_id=6184151&author=&tag=user+policies&section=&category=&sub_category=&updated_time=2024-07-11T12%3A59%3A01.000Z&utm_campaign=&utm_term=&utm_content=&utm_medium=&ref=&utm_source=direct&fbclid=&gclid=)
+[Complaint Form](https://clicks.trx-hub.com/xid/esimedia_t58ukgmjkf95_theindependent?q=http%3A%2F%2Fgo.redirectingat.com%2F%3Fid%3D44681X1458326%26url%3Dhttps%253A%252F%252Findependentnews.zendesk.com%252Fhc%252Fen-us%252Frequests%252Fnew%26sref%3D%2Fservice%2Fuser-policies-a6184151.html&p=https%3A%2F%2Fwww.independent.co.uk%2Fservice%2Fuser-policies-a6184151.html&article_id=6184151&author=&tag=user+policies&section=&category=&sub_category=&updated_time=2024-07-11T12%3A59%3A01.000Z&utm_campaign=&utm_term=&utm_content=&utm_medium=&ref=&utm_source=direct&fbclid=&gclid=)
 
 [Contact Us](https://www.independent.co.uk/service/contact-us-759589.html)
 
@@ -222,7 +222,7 @@ You will be able to access your registered details with your email address and p
 
 You will be able to keep your information up to date by logging in and updating your profile.
 
-If you want to terminate your account, please contact our [customer service portal](https://clicks.trx-hub.com/xid/esimedia_t58ukgmjkf95_theindependent?q=http%3A%2F%2Fgo.redirectingat.com%2F%3Fid%3D44681X1458326%26url%3Dhttps%253A%252F%252Findependentnews.zendesk.com%252Fhc%252Fen-us%252Frequests%252Fnew%26sref%3Dhttps%3A%2F%2Fwww.independent.co.uk%2Fservice%2Fuser-policies-a6184151.html&p=https%3A%2F%2Fwww.independent.co.uk%2Fservice%2Fuser-policies-a6184151.html&article_id=6184151&author=&tag=user+policies&section=&category=&sub_category=&updated_time=2024-07-11T12%3A59%3A01.000Z&utm_campaign=&utm_term=&utm_content=&utm_medium=&ref=&utm_source=direct&fbclid=&gclid=).
+If you want to terminate your account, please contact our [customer service portal](https://clicks.trx-hub.com/xid/esimedia_t58ukgmjkf95_theindependent?q=http%3A%2F%2Fgo.redirectingat.com%2F%3Fid%3D44681X1458326%26url%3Dhttps%253A%252F%252Findependentnews.zendesk.com%252Fhc%252Fen-us%252Frequests%252Fnew%26sref%3D%2Fservice%2Fuser-policies-a6184151.html&p=https%3A%2F%2Fwww.independent.co.uk%2Fservice%2Fuser-policies-a6184151.html&article_id=6184151&author=&tag=user+policies&section=&category=&sub_category=&updated_time=2024-07-11T12%3A59%3A01.000Z&utm_campaign=&utm_term=&utm_content=&utm_medium=&ref=&utm_source=direct&fbclid=&gclid=).
 
 We may suspend terminate or prevent your registration at our sole discretion. This may be because, for example, we consider that you have breached or will breach these Terms or our community guidelines or someone has reported abuse.
 
@@ -349,7 +349,7 @@ Already subscribed? Log in
     * [Privacy policy](https://www.independent.co.uk/service/privacy-notice-a6184181.html)
     * 
     * [User policies](https://www.independent.co.uk/service/user-policies-a6184151.html)
-    * [Modern Slavery Statement](https://static.independent.co.uk/static-assets/IND-Modern-Slavery-Statement-22-23.pdf)
+    * [Modern Slavery Statement](https://www.independent.co.uk/static-assets/IND-Modern-Slavery-Statement-22-23.pdf)
 
 ### Thank you for registering
 
