@@ -137,69 +137,67 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![Kevin Rainbow](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1454922-1651518411.jpg)](https://lyricstranslate.com/en/translator/kevin-rainbow "Kevin Rainbow")
-
-New song
-
-[Sariel Orenda - Събуди се](https://lyricstranslate.com/en/sariel-orenda-sbudi-se-lyrics)
-
-Bulgarian
-
-[![Leonburger](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1489681-1648133115.jpg)](https://lyricstranslate.com/en/translator/leonburger "Leonburger")
-
-New song
-
-[Morat - Por si no te vuelvo a ver](https://lyricstranslate.com/en/morat-por-si-no-te-vuelvo-ver-lyrics)
-
-Spanish
-
-[![Teapot29](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/teapot29 "Teapot29")
+[![robinofsherwood17021981](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1199762-1607435630.jpg)](https://lyricstranslate.com/en/translator/robinofsherwood17021981 "robinofsherwood17021981")
 
 New translation
 
-[Posduif - Stellenbosch Somersaand](https://lyricstranslate.com/en/posduif-stellenbosch-somersaand-english)
+[Hasse Andersson - Änglahund](https://lyricstranslate.com/en/hasse-andersson-anglahund-german)
 
-Afrikaans → English
+Swedish → German
 
-[![Mrs. Beagle](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1559144-1673390316.jpg)](https://lyricstranslate.com/en/translator/mrs-beagle "Mrs. Beagle")
+[![PyrotechnicMutt](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1548990-1664577677.png)](https://lyricstranslate.com/en/translator/pyrotechnicmutt "PyrotechnicMutt")
 
-Transcription request fulfilled
+New translation
 
-[트위니스 (Tweenies Intro)](https://lyricstranslate.com/en/tweenies-ost-teuwiniseu-lyrics)
+[The Kira Justice - Camisa De Força (O Monstro Em Mim)](https://lyricstranslate.com/en/kira-justice-camisa-de-forca-o-monstr-english)
 
-Korean
+Portuguese → English
 
-[![Mrs. Beagle](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1559144-1673390316.jpg)](https://lyricstranslate.com/en/translator/mrs-beagle "Mrs. Beagle")
+[![PyrotechnicMutt](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1548990-1664577677.png)](https://lyricstranslate.com/en/translator/pyrotechnicmutt "PyrotechnicMutt")
+
+New translation
+
+[The Kira Justice - Combustível Do Meu Ódio](https://lyricstranslate.com/en/kira-justice-combustivel-do-meu-odio-english)
+
+Portuguese → English
+
+[![Lukas Skully](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1388200-1554974371.jpg)](https://lyricstranslate.com/en/translator/lukas-skully "Lukas Skully")
+
+New translation
+
+[Megadeth - 1000 Times Goodbye](https://lyricstranslate.com/en/megadeth-1000-times-goodbye-slovak)
+
+English → Slovak
+
+[![PyrotechnicMutt](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1548990-1664577677.png)](https://lyricstranslate.com/en/translator/pyrotechnicmutt "PyrotechnicMutt")
+
+New translation
+
+[The Kira Justice - Portões de Hades](https://lyricstranslate.com/en/kira-justice-portoes-de-hades-english)
+
+Portuguese → English
+
+[![blazestarr](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1607043-1716103007.png)](https://lyricstranslate.com/en/translator/blazestarr "blazestarr")
+
+New comment
+
+https://tr.wikipedia.org/wiki/Ayşe\_karşılaması ...  [more](https://lyricstranslate.com/en/comment/1165389#comment-1165389)
+
+[![владелец](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1447202-1680603655.jpg)](https://lyricstranslate.com/en/translator/%D0%B2%D0%BB%D0%B0%D0%B4%D0%B5%D0%BB%D0%B5%D1%86 "владелец")
 
 New song
 
-[Tweenies (ost) - 트위니스 (Tweenies Intro)](https://lyricstranslate.com/en/tweenies-ost-teuwiniseu-lyrics)
+[The McGuire Sisters - Sincerely](https://lyricstranslate.com/en/mcguire-sisters-sincerely-lyrics)
 
-Korean
+English
 
-[![Mrs. Beagle](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1559144-1673390316.jpg)](https://lyricstranslate.com/en/translator/mrs-beagle "Mrs. Beagle")
+[![Elian E.](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/elian-e "Elian E.")
 
-New song
+New request
 
-[Tweenies (ost) - Tweenies Intro (Indonesian)](https://lyricstranslate.com/en/tweenies-ost-tweenies-intro-indonesia-lyrics)
+[Eddy Mitchell - M'man](https://lyricstranslate.com/en/request/mman-0)
 
-Indonesian
-
-[![BlackRyder](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1429942-1641186576.png)](https://lyricstranslate.com/en/translator/blackryder "BlackRyder")
-
-New song
-
-[Pinguini Tattici Nucleari - Romantico ma muori](https://lyricstranslate.com/en/pinguini-tattici-nucleari-romantico-ma-muori-lyrics)
-
-Italian
-
-[![Yerassyl Kuanysh](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1494613-1702305620.png)](https://lyricstranslate.com/en/translator/yerassyl-kuanysh "Yerassyl Kuanysh")
-
-New song
-
-[Meyrambek Bespayev - Сағынышым](https://lyricstranslate.com/en/meyrambek-bespayev-saghynyshym-lyrics)
-
-Kazakh
+French → German
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
