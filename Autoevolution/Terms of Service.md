@@ -33,15 +33,15 @@
 
 editorial \_
 
-[![If Reducing Carbon Emissions Includes Killing Automakers, We're Doing It Wrong](https://s1.cdn.autoevolution.com/images/news/if-reducing-carbon-emissions-includes-killing-automakers-we-re-doing-it-wrong-239596-5.jpg "If Reducing Carbon Emissions Includes Killing Automakers, We're Doing It Wrong")
+[![One Little Crossover, a Bonkers Manual Supercar, Plus an Art Deco Limousine, We Had All](https://s1.cdn.autoevolution.com/images/news/one-little-crossover-a-bonkers-manual-supercar-plus-an-art-deco-limousine-we-had-all-239754-5.jpg "One Little Crossover, a Bonkers Manual Supercar, Plus an Art Deco Limousine, We Had All")
 
-#### If Reducing Carbon Emissions Includes Killing Automakers, We're Doing It Wrong](https://www.autoevolution.com/news/if-reducing-carbon-emissions-includes-killing-automakers-we-re-doing-it-wrong-239596.html "If Reducing Carbon Emissions Includes Killing Automakers, We're Doing It Wrong")
+#### One Little Crossover, a Bonkers Manual Supercar, Plus an Art Deco Limousine, We Had All](https://www.autoevolution.com/news/one-little-crossover-a-bonkers-manual-supercar-plus-an-art-deco-limousine-we-had-all-239754.html "One Little Crossover, a Bonkers Manual Supercar, Plus an Art Deco Limousine, We Had All")
 
 coverstory \_
 
-[![The 24-Ft. Crossover Is This Fall’s Perfect Mansion on Wheels](https://s1.cdn.autoevolution.com/images/news/the-24-ft-crossover-is-this-falls-perfect-mansion-on-wheels-239755-5.jpg "The 24-Ft. Crossover Is This Fall’s Perfect Mansion on Wheels")
+[![Formula 1: Winners and Losers From the 2024 Azerbaijan Grand Prix](https://s1.cdn.autoevolution.com/images/news/formula-1-winners-and-losers-from-the-2024-azerbaijan-grand-prix-239830-5.jpeg "Formula 1: Winners and Losers From the 2024 Azerbaijan Grand Prix")
 
-The 24-Ft. Crossover Is This Fall’s Perfect Mansion on Wheels](https://www.autoevolution.com/news/the-24-ft-crossover-is-this-falls-perfect-mansion-on-wheels-239755.html)
+Formula 1: Winners and Losers From the 2024 Azerbaijan Grand Prix](https://www.autoevolution.com/news/formula-1-winners-and-losers-from-the-2024-azerbaijan-grand-prix-239830.html)
 
 how-to \_
 
