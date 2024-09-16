@@ -1970,8 +1970,8 @@ Betätigen Sie den Button "Zustimmung widerrufen" oder löschen Ihre Cookies im 
 
 Kontakt
 
-Mail: [email@zeit.de](mailto:email@zeit.de)  
-Telefon: 040 / 32 80-0
+[kontakt@zeit.de](mailto:kontakt@zeit.de)  
++49 (0) 40 3280 0
 
 ZEIT Online GmbH  
 Buceriusstraße - Speersort 1  
