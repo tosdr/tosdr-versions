@@ -112,7 +112,7 @@
     [Open a support case](https://support.ultimaker.com/s/contactsupport) [Register your device](https://support.ultimaker.com/s/contactsupport?tabset-c788a=3) [Software](https://www.makerbot.com/3d-printers/apps/makerbot-print/download/)
     
 
-[Request a quote](https://www.makerbot.com/quote-request) [Store](https://store.ultimaker.com/)
+[Request a quote](https://www.makerbot.com/quote-request)
 
 [](#) 
 
@@ -122,9 +122,9 @@
 * [Sketch Classroom](https://www.makerbot.com/3d-printers/classroom-solution)
 * [MakerBot CloudPrint](https://www.makerbot.com/cloudprint)
 
-[](https://store.makerbot.com/checkout/cart)
+[](https://store.ultimaker.com/checkout/cart)
 
-[Request a quote](https://www.makerbot.com/quote-request) [Store](https://store.ultimaker.com/)
+[Request a quote](https://www.makerbot.com/quote-request)
 
 MAKERBOT TERMS OF USE
 =====================
@@ -297,10 +297,11 @@ All other brand names, product names or trademarks belong to their respective ho
 * [Thingiverse Education Community](https://www.makerbot.com/thingiverse-education/)
 * [All resources](https://www.makerbot.com/resources/)
 
-###### [Store](https://store.makerbot.com/3d-printers-for-education)
+###### [Store](https://store.ultimaker.com/)
 
-* [Sketch Standard](https://store.makerbot.com/3d-printers/sketch/makerbot-sketch-kit-single-printer-setup)
-* [Sketch Large](https://store.makerbot.com/3d-printers/sketch/sketch-large-single-printer-setup)
+* [Sketch series](https://store.ultimaker.com/3d-printers/sketch-series)
+* [Sketch Large](https://store.ultimaker.com/3d-printers/sketch-series/sketch-large/sketch-large)
+* [Sketch standard](https://store.ultimaker.com/3d-printers/sketch-series/makerbot-sketch-single-printer-setup)
 
 ###### [MakerBot](#)
 
