@@ -74,17 +74,21 @@ AllLive NowToday
     
 * ICC CWC League Two 2023-27
     
-    [Namibia vs United States](https://www.cricbuzz.com/live-cricket-scores/106355/nam-vs-usa-25th-match-icc-cwc-league-two-2023-27 "Namibia v United States, 25th Match - Toss")
+    [Namibia vs United States  LIVE](https://www.cricbuzz.com/live-cricket-scores/106355/nam-vs-usa-25th-match-icc-cwc-league-two-2023-27 "Namibia v United States, 25th Match - Live")
     
     25th Match
     
-* [Canada vs Nepal](https://www.cricbuzz.com/live-cricket-scores/106953/can-vs-nep-26th-match-icc-cwc-league-two-2023-27 "Canada v Nepal, 26th Match - Preview")
+* [Canada vs Nepal](https://www.cricbuzz.com/live-cricket-scores/106953/can-vs-nep-26th-match-icc-cwc-league-two-2023-27 "Canada v Nepal, 26th Match - Toss")
     
     26th Match
     
 * [United Arab Emirates vs United States](https://www.cricbuzz.com/live-cricket-scores/106961/uae-vs-usa-27th-match-icc-cwc-league-two-2023-27 "United Arab Emirates v United States, 27th Match - Upcoming")
     
     27th Match
+    
+* [Nepal vs Oman](https://www.cricbuzz.com/live-cricket-scores/106964/nep-vs-oman-28th-match-icc-cwc-league-two-2023-27 "Nepal v Oman, 28th Match - Upcoming")
+    
+    28th Match
     
 * T20 LEAGUE
     
@@ -104,11 +108,7 @@ AllLive NowToday
     
 * T20 Blast
     
-    [Surrey vs Somerset](https://www.cricbuzz.com/live-cricket-scores/85239/sur-vs-som-semi-final-1-t20-blast "Surrey v Somerset, Semi Final 1 - SOM Won")
-    
-    Semi Final 1
-    
-* [Sussex vs Gloucestershire](https://www.cricbuzz.com/live-cricket-scores/85246/sus-vs-gloucs-semi-final-2-t20-blast "Sussex v Gloucestershire, Semi Final 2 - GLOUCS Won")
+    [Sussex vs Gloucestershire](https://www.cricbuzz.com/live-cricket-scores/85246/sus-vs-gloucs-semi-final-2-t20-blast "Sussex v Gloucestershire, Semi Final 2 - GLOUCS Won")
     
     Semi Final 2
     
@@ -152,15 +152,7 @@ AllLive NowToday
     
 * County Division 2
     
-    [Northamptonshire vs Leicestershire](https://www.cricbuzz.com/live-cricket-scores/85535/nhnts-vs-leic-52nd-match-county-division-2 "Northamptonshire v Leicestershire, 52nd Match - Upcoming")
-    
-    52nd Match
-    
-* [Gloucestershire vs Sussex](https://www.cricbuzz.com/live-cricket-scores/85528/gloucs-vs-sus-51st-match-county-division-2 "Gloucestershire v Sussex, 51st Match - Preview")
-    
-    51st Match
-    
-* [Glamorgan vs Yorkshire](https://www.cricbuzz.com/live-cricket-scores/85524/glam-vs-yorks-50th-match-county-division-2 "Glamorgan v Yorkshire, 50th Match - Preview")
+    [Glamorgan vs Yorkshire](https://www.cricbuzz.com/live-cricket-scores/85524/glam-vs-yorks-50th-match-county-division-2 "Glamorgan v Yorkshire, 50th Match - Preview")
     
     50th Match
     
@@ -168,9 +160,17 @@ AllLive NowToday
     
     49th Match
     
+* [Northamptonshire vs Leicestershire](https://www.cricbuzz.com/live-cricket-scores/85535/nhnts-vs-leic-52nd-match-county-division-2 "Northamptonshire v Leicestershire, 52nd Match - Upcoming")
+    
+    52nd Match
+    
+* [Gloucestershire vs Sussex](https://www.cricbuzz.com/live-cricket-scores/85528/gloucs-vs-sus-51st-match-county-division-2 "Gloucestershire v Sussex, 51st Match - Preview")
+    
+    51st Match
+    
 * South Africa v Sri Lanka
     
-    [South Africa A vs Sri Lanka A](https://www.cricbuzz.com/live-cricket-scores/105988/rsaa-vs-sla-2nd-unofficial-test-south-africa-v-sri-lanka "South Africa A v Sri Lanka A, 2nd Unofficial Test - Tea")
+    [South Africa A vs Sri Lanka A](https://www.cricbuzz.com/live-cricket-scores/105988/rsaa-vs-sla-2nd-unofficial-test-south-africa-v-sri-lanka "South Africa A v Sri Lanka A, 2nd Unofficial Test - Stumps")
     
     2nd Unofficial Test
     
@@ -178,9 +178,13 @@ AllLive NowToday
     
     South Africa Women tour of Pakistan
     
-    [Pakistan Women vs South Africa Women](https://www.cricbuzz.com/live-cricket-scores/106409/pakw-vs-rsaw-1st-t20i-south-africa-women-tour-of-pakistan "Pakistan Women v South Africa Women, 1st T20I - Preview")
+    [South Africa Women vs Pakistan Women  LIVE](https://www.cricbuzz.com/live-cricket-scores/106409/rsaw-vs-pakw-1st-t20i-south-africa-women-tour-of-pakistan "South Africa Women v Pakistan Women, 1st T20I - Live")
     
     1st T20I
+    
+* [Pakistan Women vs South Africa Women](https://www.cricbuzz.com/live-cricket-scores/106417/pakw-vs-rsaw-2nd-t20i-south-africa-women-tour-of-pakistan "Pakistan Women v South Africa Women, 2nd T20I - Upcoming")
+    
+    2nd T20I
     
 * Kenya Women v Rwanda Women, 2024
     
@@ -551,41 +555,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
+  [](https://www.cricbuzz.com/cricket-news/131639/bangladesh-rely-on-shadman-to-keep-his-head-steady "Bangladesh rely on Shadman to keep his 'head' steady ")
+
+[Bangladesh rely on Shadman to keep his 'head' steady](https://www.cricbuzz.com/cricket-news/131639/bangladesh-rely-on-shadman-to-keep-his-head-steady "Bangladesh rely on Shadman to keep his 'head' steady ")
+
+30m ago
+
   [](https://www.cricbuzz.com/cricket-news/131638/oshada-fernando-returns-for-new-zealand-tests "Oshada Fernando returns for New Zealand Tests")
 
 [Oshada Fernando returns for New Zealand Tests](https://www.cricbuzz.com/cricket-news/131638/oshada-fernando-returns-for-new-zealand-tests "Oshada Fernando returns for New Zealand Tests")
 
-4h ago
+6h ago
 
   [](https://www.cricbuzz.com/cricket-news/131637/green-all-round-efforts-in-vain-as-kings-secure-comfortable-win "Green all-round efforts in vain as Kings secure comfortable win")
 
 [Green all-round efforts in vain as Kings secure comfortable win](https://www.cricbuzz.com/cricket-news/131637/green-all-round-efforts-in-vain-as-kings-secure-comfortable-win "Green all-round efforts in vain as Kings secure comfortable win")
 
-8h ago
+10h ago
 
   [](https://www.cricbuzz.com/cricket-news/131636/can-kuldeep-be-the-ace-when-the-pack-shuffles "Can Kuldeep be the ace when the pack shuffles?")
 
 [Can Kuldeep be the ace when the pack shuffles?](https://www.cricbuzz.com/cricket-news/131636/can-kuldeep-be-the-ace-when-the-pack-shuffles "Can Kuldeep be the ace when the pack shuffles?")
 
-11h ago
+13h ago
 
   [](https://www.cricbuzz.com/cricket-news/131635/akhilesh-bodugum-spinning-his-own-theory-of-evolution "Akhilesh Bodugum spinning his own theory of evolution")
 
 [Akhilesh Bodugum spinning his own theory of evolution](https://www.cricbuzz.com/cricket-news/131635/akhilesh-bodugum-spinning-his-own-theory-of-evolution "Akhilesh Bodugum spinning his own theory of evolution")
 
-11h ago
+13h ago
 
   [](https://www.cricbuzz.com/cricket-news/131634/series-decider-abandoned-after-persistent-rain "Series decider abandoned after persistent rain")
 
 [Series decider abandoned after persistent rain](https://www.cricbuzz.com/cricket-news/131634/series-decider-abandoned-after-persistent-rain "Series decider abandoned after persistent rain")
 
-20h ago
-
-  [](https://www.cricbuzz.com/cricket-news/131633/brook-to-captain-england-in-australia-odis "Harry Brook to captain England in Australia ODIs")
-
-[Harry Brook to captain England in Australia ODIs](https://www.cricbuzz.com/cricket-news/131633/brook-to-captain-england-in-australia-odis "Harry Brook to captain England in Australia ODIs")
-
-23h ago
+22h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
