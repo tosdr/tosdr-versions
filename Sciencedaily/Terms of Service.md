@@ -229,6 +229,7 @@ this hour
 
 * * *
 
+* [Cosmology's Two Biggest Puzzles](https://www.sciencedaily.com/releases/2024/09/240913183504.htm)
 * [Huge Gamma-Ray Burst Collection](https://www.sciencedaily.com/releases/2024/09/240913003326.htm)
 * [Unprecedented Control of SIV Replication](https://www.sciencedaily.com/releases/2024/09/240912161720.htm)
 * [Carbon Sequestration in the Deep Ocean](https://www.sciencedaily.com/releases/2024/09/240912142350.htm)
@@ -238,7 +239,6 @@ this hour
 * [Could Invisibility Cloaks Become a Reality?](https://www.sciencedaily.com/releases/2024/09/240912135948.htm)
 * [Antifungal Resistance Is Growing](https://www.sciencedaily.com/releases/2024/09/240913003332.htm)
 * [Easter Island: Popular Theory Disproven](https://www.sciencedaily.com/releases/2024/09/240911112147.htm)
-* ['Wobble' Made in Nucleus of Single Atom](https://www.sciencedaily.com/releases/2024/09/240912135652.htm)
 
 Trending Topics
 ---------------
@@ -251,25 +251,25 @@ this week
 
 [Obesity](https://www.sciencedaily.com/news/health_medicine/obesity/)
 
-[Heart Disease](https://www.sciencedaily.com/news/health_medicine/heart_disease/)
-
 [Diabetes](https://www.sciencedaily.com/news/health_medicine/diabetes/)
+
+[Heart Disease](https://www.sciencedaily.com/news/health_medicine/heart_disease/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Biochemistry](https://www.sciencedaily.com/news/matter_energy/biochemistry/)
-
 [Materials Science](https://www.sciencedaily.com/news/matter_energy/materials_science/)
 
-[Spintronics Research](https://www.sciencedaily.com/news/computers_math/spintronics/)
+[Construction](https://www.sciencedaily.com/news/matter_energy/construction/)
+
+[Engineering and Construction](https://www.sciencedaily.com/news/matter_energy/engineering_and_construction/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
 [Botany](https://www.sciencedaily.com/news/plants_animals/botany/)
 
-[Water](https://www.sciencedaily.com/news/earth_climate/water/)
+[Developmental Biology](https://www.sciencedaily.com/news/plants_animals/developmental_biology/)
 
-[Molecular Biology](https://www.sciencedaily.com/news/plants_animals/molecular_biology/)
+[Genetics](https://www.sciencedaily.com/news/plants_animals/genetics/)
 
   
 
