@@ -36,6 +36,9 @@
         
         FBI: Reported cryptocurrency losses reached $5.6 billion in 2023](https://www.bleepingcomputer.com/news/security/fbi-reported-cryptocurrency-losses-reached-56-billion-in-2023/)
     
+    * [![Get hands-on cybersecurity training in this $30 course bundle](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Get hands-on cybersecurity training in this $30 course bundle](https://www.bleepingcomputer.com/offer/deals/get-hands-on-cybersecurity-training-in-this-30-course-bundle/)
     * [![Windows vulnerability abused braille “spaces” in zero-day attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Windows vulnerability abused braille “spaces” in zero-day attacks](https://www.bleepingcomputer.com/news/security/windows-vulnerability-abused-braille-spaces-in-zero-day-attacks/)
@@ -45,9 +48,6 @@
     * [![FBI tells public to ignore false claims of hacked voter data](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         FBI tells public to ignore false claims of hacked voter data](https://www.bleepingcomputer.com/news/security/fbi-tells-public-to-ignore-false-claims-of-hacked-voter-data/)
-    * [![Malware locks browser in kiosk mode to steal Google credentials](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Malware locks browser in kiosk mode to steal Google credentials](https://www.bleepingcomputer.com/news/security/malware-locks-browser-in-kiosk-mode-to-steal-google-credentials/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -302,7 +302,7 @@ BleepingComputer.com has partnered with [StackCommerce](https://stackcommerce.co
 
 If you have any questions or concerns regarding these policies, please free to contact us here: [https://www.bleepingcomputer.com/contact/](https://www.bleepingcomputer.com/contact/)
 
-[![Mandiant mWise Conference 2024](https://www.bleepstatic.com/c/m/mandiant/registration-general_nobody-miss.jpg)](https://www.bleepingcomputer.com/mgo/63/)
+[![Mandiant mWise Conference 2024](https://www.bleepstatic.com/c/m/mandiant/registration-general_last-chance-go-time.jpg)](https://www.bleepingcomputer.com/mgo/61/)
 
 Popular Stories
 
@@ -340,7 +340,7 @@ Latest Downloads
     
     Version: 1.33.075
     
-    **55,387 _Downloads_**
+    **55,389 _Downloads_**
     
 * ![PuTTY Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -348,7 +348,7 @@ Latest Downloads
     
     Version: 0.81
     
-    **43,304 _Downloads_**
+    **43,310 _Downloads_**
     
 * ![BitDefender Uninstall Tool Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -356,7 +356,7 @@ Latest Downloads
     
     Version: NA
     
-    **104,249 _Downloads_**
+    **104,251 _Downloads_**
     
 
 ##### Follow us:
