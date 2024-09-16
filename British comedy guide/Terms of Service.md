@@ -176,6 +176,14 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 
 ### See also
 
+[![Emma Doran](https://cdn.comedy.co.uk/images/library/people/300x200/e/emma_doran.jpg "Emma Doran")](https://www.comedy.co.uk/live/fgwg/emma-doran/) Live
+
+[First Gig, Worst Gig: Emma Doran](https://www.comedy.co.uk/live/fgwg/emma-doran/)
+
+[![Chris McCausland](https://cdn.comedy.co.uk/images/library/people/300x200/c/chris_mccausland_strictly_b.jpg "Chris McCausland")](https://www.comedy.co.uk/people/features/chris-mccausland-sarah-hadland-strictly-interview/) People
+
+[Chris McCausland and Sarah Hadland on Strictly Come Dancing](https://www.comedy.co.uk/people/features/chris-mccausland-sarah-hadland-strictly-interview/)
+
 [![Potted Panto. Image shows left to right: Daniel Clarkson, Jefferson Turner. Credit: Geraint Lewis](https://cdn.comedy.co.uk/images/library/misc/300x200/p/potted_panto.jpg "Potted Panto. Image shows left to right: Daniel Clarkson, Jefferson Turner. Credit: Geraint Lewis")](https://www.comedy.co.uk/live/features/potted-panto-interview/) Live
 
 [Preparing a perfect Potted Panto: Interview with Daniel Clarkson and Jefferson Turner](https://www.comedy.co.uk/live/features/potted-panto-interview/)
@@ -183,14 +191,6 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 [![Lady Clementine. Rosalie Minnitt. Credit: Ben Meadows](https://cdn.comedy.co.uk/images/library/people/300x200/r/rosalie_minnitt_clementine_b.jpg "Lady Clementine. Rosalie Minnitt. Credit: Ben Meadows")](https://www.comedy.co.uk/live/features/miss-clementine-spotify-playlist/) Live
 
 [Miss Clementine's Spotify Wrapped](https://www.comedy.co.uk/live/features/miss-clementine-spotify-playlist/)
-
-[![Monty Python And The Holy Grail](https://cdn.comedy.co.uk/images/library/comedies/300x200/m/monty_python_and_the_holy_grail_rabbit.jpg "Monty Python And The Holy Grail")](https://www.comedy.co.uk/quiz/323/) Quiz
-
-[British Comedy Quiz #323](https://www.comedy.co.uk/quiz/323/)
-
-[![Count Binface. Jon Harvey](https://cdn.comedy.co.uk/images/library/misc/300x200/c/count_binface_2024.jpg "Count Binface. Jon Harvey")](https://www.comedy.co.uk/live/random8/count-binface/) Live
-
-[Random 8: Count Binface](https://www.comedy.co.uk/live/random8/count-binface/)
 
 #### Subscribe to our newsletters
 
