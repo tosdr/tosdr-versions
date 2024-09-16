@@ -212,8 +212,6 @@ If you have any questions about our privacy policy or practices, please contact 
 
 [](#)
 
-Attention: TheIHS.org will be down briefly for scheduled maintenance between 5:00 and 6:00 PM ET on Friday, September 13, 2024. We apologize for any inconvenience. Thank you!
-
 Here is the timeline for our application process:
 
 1. Apply for a position 
