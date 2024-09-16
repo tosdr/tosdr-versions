@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| Good On YouPriscilla Block<br><br>1:38am |
-| ReligiouslyBailey Zimmerman<br><br>1:35am |
-| Just Like JohnnyRedferrin<br><br>1:32am |
-| BonesRussell Dickerson<br><br>1:29am |
-| LosersPost Malone Ft Jelly Roll<br><br>1:26am |
+| AlrightDarius Rucker<br><br>4:55am |
+| Next Thing You KnowJordan Davis<br><br>4:52am |
+| ParkTyler Hubbard<br><br>4:49am |
+| White HorseChris Stapleton<br><br>4:46am |
+| Friday Night HeartbreakerJon Pardi<br><br>4:42am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -358,21 +358,21 @@ State
 Featured Brands
 ---------------
 
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
-Top 40 • Pacific NW
+Sports • Midwest
 
 [![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
 Spanish • Western
 
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
-Country • Western
+Top 40 • Eastern
 
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
-Sports • Midwest
+News Talk • Eastern
 
 [](https://www.alphamediausa.com/)
 
