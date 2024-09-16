@@ -45,7 +45,7 @@ Mezo - Spam Blocker, SMS Block
 
 Contains adsIn-app purchases
 
-3.9_star_
+3.8_star_
 
 75.8K reviews
 
@@ -240,7 +240,7 @@ July 4, 2024
 
 Super great app! Does everything you need: blocks those annoying group messages from random spammers, blocks unknown messages, filters spam, very easy to setup and make it work the way you need. Got 1-time premium purchase after doing some testing. Totally worth it! No regrets, also it finally copies my codes just fine - that's a really cool feature!
 
-3 people found this review helpful
+4 people found this review helpful
 
 Did you find this helpful?
 
@@ -303,13 +303,50 @@ Address
 
 Privacy Policy](https://www.mezo.ai/privacypolicy)
 
+Similar apps
+------------
+
+_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmlqGGlIL2Y2d3M5VkJ4VHdTcVZyWklLK1E9PcICTAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5NZXpvIC0gU3BhbSBCbG9ja2VyLCBTTVMgQmxvY2sgACgAMABQAFgBYAA%3D:S:ANO1ljK3Xnc)
+
+[![Thumbnail image](https://play-lh.googleusercontent.com/uU38cxbeMKLKDXQYopB9r1ybCFO-2vdfTKtV-mXp-zZ7Mcv_AW6MzSSCWkR_ybvgRA=s64)
+
+Hushed: US Second Phone Number
+
+AffinityClick Inc.
+
+3.8_star_](https://play.google.com/store/apps/details?id=com.hushed.release)
+
+[![Thumbnail image](https://play-lh.googleusercontent.com/Z2ypCEz60SmQu-qBLS-vsV4lnCTKkU93YQHP5n73smITdU4AhoIZRrOS3ZtMHYHs-D4=s64)
+
+Wize SMS: Message & Messenger
+
+Browser by Fulldive Co.
+
+4.4_star_](https://play.google.com/store/apps/details?id=com.fulldive.extension.divesms)
+
+[![Thumbnail image](https://play-lh.googleusercontent.com/H-gvp6FzVPkEjwqnh2z6ks6PiKoC2AjsPMnZeHlOdDTB58jJn7kxDbh7VLsHdndfB2s=s64)
+
+Handcent Next SMS messenger
+
+Handcent
+
+4.6_star_](https://play.google.com/store/apps/details?id=com.handcent.app.nextsms)
+
+[![Thumbnail image](https://play-lh.googleusercontent.com/DSMBLC-yGuWCdMYzqpNio-brFDS4Th6ERZcmilckYtU9tXqEqMEetwC9JCQoJSLVGF4=s64)
+
+FairEmail, privacy aware email
+
+Marcel Bokhorst, FairCode BV
+
+4.7_star_](https://play.google.com/store/apps/details?id=eu.faircode.email)
+
 [_flag_Flag as inappropriate](https://support.google.com/googleplay/?p=report_content)
 
 Google Play[Play Pass](https://play.google.com/store/pass/getstarted)[Play Points](https://play.google.com/store/points/enroll)[Gift cards](https://play.google.com/about/giftcards)[Redeem](https://play.google.com/redeem)[Refund policy](https://support.google.com/googleplay/answer/134336)
 
 Kids & family[Parent Guide](https://support.google.com/googleplay?p=pff_parentguide)[Family sharing](https://support.google.com/googleplay/answer/7007852)
 
-[Terms of Service](https://play.google.com/intl/en_us/about/play-terms.html)
+[Terms of Service](https://play.google.com/intl/en-US_us/about/play-terms.html)
 
 [Privacy](https://policies.google.com/privacy)
 
@@ -321,4 +358,4 @@ Kids & family[Parent Guide](https://support.google.com/googleplay?p=pff_parentgu
 
 ![](https://ssl.gstatic.com/store/images/regionflags/us.png)
 
-United States (English)
+United States (English (United States))
