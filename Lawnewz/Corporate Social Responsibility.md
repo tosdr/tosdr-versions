@@ -113,25 +113,25 @@ We welcome feedback from our viewers and readers. If readers/viewers have a conc
 Top of Today
 ------------
 
-1. [![Ashli Babbitt](https://am21.mediaite.com/lc/cnt/uploads/2021/01/Babbit-Portrait-432x243.jpg)](https://lawandcrime.com/u-s-capitol-breach/rather-leisurely-judge-wants-reps-for-ashli-babbitt-u-s-government-to-get-the-ball-rolling-toward-trial-in-30-million-wrongful-death-lawsuit/)
+1. [![Robert Dickson](https://am23.mediaite.com/lc/cnt/uploads/2024/09/Robert-Dickson-432x243.jpg)](https://lawandcrime.com/crime/he-shot-at-me-first-son-blew-away-his-own-father-in-a-bedroom-closet-with-a-shotgun-on-a-sunday-afternoon-without-legal-justification-and-called-911-cops-say/)
     
-    ### ['Rather leisurely:' Judge wants reps for Ashli Babbitt, U.S. government to get the ball rolling toward trial in $30 million wrongful death lawsuit](https://lawandcrime.com/u-s-capitol-breach/rather-leisurely-judge-wants-reps-for-ashli-babbitt-u-s-government-to-get-the-ball-rolling-toward-trial-in-30-million-wrongful-death-lawsuit/)
+    ### ['He shot at me first': Son blew away his own father in a bedroom closet with a shotgun on a Sunday afternoon 'without legal justification' and called 911, cops say](https://lawandcrime.com/crime/he-shot-at-me-first-son-blew-away-his-own-father-in-a-bedroom-closet-with-a-shotgun-on-a-sunday-afternoon-without-legal-justification-and-called-911-cops-say/)
     
-2. [![Thomas Delgado, right inset, was arrested in the death of Joseph Canazaro, left inset. (Victim and suspect photos from the Bucks County District Attorney's Office; crime scene screenshot from Philadelphia FOX affiliate/YouTube)](https://am24.mediaite.com/lc/cnt/uploads/2024/01/phillymurder-432x243.jpeg)](https://lawandcrime.com/crime/serious-missing-pieces-charges-dismissed-against-man-who-allegedly-tied-up-a-family-and-stabbed-the-father-to-death/)
+2. [![Shrimp theft](https://am24.mediaite.com/lc/cnt/uploads/2024/09/Shrimp-truck-432x243.jpg)](https://lawandcrime.com/crime/wheres-my-truck-half-a-million-frozen-shrimp-worth-over-300k-was-headed-to-costco-before-unusual-theft-police-say/)
     
-    ### ['Serious missing pieces': Charges dismissed against man who allegedly tied up a family and stabbed the father to death](https://lawandcrime.com/crime/serious-missing-pieces-charges-dismissed-against-man-who-allegedly-tied-up-a-family-and-stabbed-the-father-to-death/)
+    ### ['Where's my truck?:' Half a million frozen shrimp worth over $300K was headed to Costco before 'unusual' theft, police say](https://lawandcrime.com/crime/wheres-my-truck-half-a-million-frozen-shrimp-worth-over-300k-was-headed-to-costco-before-unusual-theft-police-say/)
     
-3. [![David Schonabaum](https://am23.mediaite.com/lc/cnt/uploads/2024/09/David--432x243.jpg)](https://lawandcrime.com/crime/permanently-disfigured-jury-convicts-father-after-infant-son-suffers-over-50-rat-bites-leading-to-near-fatal-event-in-infested-home/)
+3. [![Jonathan Davon Freeman](https://am22.mediaite.com/lc/cnt/uploads/2024/09/Jonathan-Freeman-432x243.jpg)](https://lawandcrime.com/crime/man-sends-friend-a-picture-of-her-dead-husband-after-killing-him-and-his-own-wife-at-the-friends-home-police/)
     
-    ### ['Permanently disfigured': Jury convicts father after infant son suffers over 50 rat bites leading to 'near fatal event' in infested home](https://lawandcrime.com/crime/permanently-disfigured-jury-convicts-father-after-infant-son-suffers-over-50-rat-bites-leading-to-near-fatal-event-in-infested-home/)
+    ### [Man sends friend a picture of her dead husband after killing him and his own wife at the friend's home: Police](https://lawandcrime.com/crime/man-sends-friend-a-picture-of-her-dead-husband-after-killing-him-and-his-own-wife-at-the-friends-home-police/)
     
-4. [![Christopher Leron Kilpatrick (Lake County Sheriff's Office).](https://am23.mediaite.com/lc/cnt/uploads/2024/09/Christopher-Leron-Kilpatrick-432x243.png)](https://lawandcrime.com/crime/300-400-women-including-juveniles-gas-station-employee-admitted-taking-prolific-number-of-upskirt-pictures-and-videos-deputies-say/)
+4. [![Rudy Giuliani, Joe Biden](https://am21.mediaite.com/lc/cnt/uploads/2023/10/Rudy-Giuliani-Joe-Biden-432x243.jpg)](https://lawandcrime.com/high-profile/rudy-giuliani-defamation-lawsuit-against-joe-biden-dismissed/)
     
-    ### ['300-400 women, including juveniles': Gas station employee admitted taking prolific number of upskirt pictures and videos, deputies say](https://lawandcrime.com/crime/300-400-women-including-juveniles-gas-station-employee-admitted-taking-prolific-number-of-upskirt-pictures-and-videos-deputies-say/)
+    ### ['Utterly failed': Federal judge throws out Rudy Giuliani's defamation suit against Joe Biden for calling him a 'Russian pawn' during Trump debate](https://lawandcrime.com/high-profile/rudy-giuliani-defamation-lawsuit-against-joe-biden-dismissed/)
     
-5. [![Background: West Country Club Road in Aventura, Florida (Google Maps). Inset: Andrew Zelmanowitz (Miami-Dade Corrections & Rehabilitation/WPLG).](https://am22.mediaite.com/lc/cnt/uploads/2024/09/Andrew-Zelmanowitz-432x243.jpg)](https://lawandcrime.com/crime/i-will-kill-you-florida-lawyer-who-held-gun-to-wifes-head-allegedly-has-a-long-history-of-violence-police-say/)
+5. [![Troy Lamar Fox and Briana Soto (Long Beach Police Department).](https://am21.mediaite.com/lc/cnt/uploads/2024/09/Troy-Lamar-Fox-and-Briana-Soto-432x243.png)](https://lawandcrime.com/crime/reprehensible-and-brazen-man-charged-with-killing-17-year-old-girl-who-had-just-gotten-off-phone-with-her-mom/)
     
-    ### ['I will kill you': Florida lawyer who held gun to wife's head allegedly has a long history of violence, police say](https://lawandcrime.com/crime/i-will-kill-you-florida-lawyer-who-held-gun-to-wifes-head-allegedly-has-a-long-history-of-violence-police-say/)
+    ### ['Reprehensible and brazen': Man charged with killing 17-year-old girl who had just gotten off phone with her mom](https://lawandcrime.com/crime/reprehensible-and-brazen-man-charged-with-killing-17-year-old-girl-who-had-just-gotten-off-phone-with-her-mom/)
     
 
 [](http://eepurl.com/c89Jdb)
