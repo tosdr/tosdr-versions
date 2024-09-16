@@ -51,6 +51,9 @@ View all results for ${ keyword }
     * [Staff](https://myanimelist.net/staff?_location=mal_h_m)
     * [MAL Supporter](https://myanimelist.net/membership?_location=mal_h_m)
 
+[](#)[**Can you predict the anime of the season?**  
+Register your team before Sep 29.](https://myanimelist.net/forum/?topicid=2178879)
+
 MyAnimeList Cookie Policy
 =========================
 
