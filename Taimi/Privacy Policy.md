@@ -1,5 +1,3 @@
-![](https://www.facebook.com/tr?id=434188952727028&ev=PageView&noscript=1)     
-
 [![Modal icon](https://taimi.com/themes/taimi2/assets/images/banner-en.jpeg)](https://app.adjust.com/goc7ths?campaign=https://taimi.com/privacy-policy_page(id%20129))
 
 [![Logo](https://taimi.com/themes/taimi2/assets/images/logo.svg)](https://taimi.com/)[Get Taimi App for Free](https://app.adjust.com/goc7ths?campaign=https://taimi.com/privacy-policy_page(id%20129))
