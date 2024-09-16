@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[INDA vs INDD - Stumps](https://www.cricbuzz.com/live-cricket-scores/104212/inda-vs-indd-3rd-match-duleep-trophy-2024 "India A v India D, 3rd Match - Stumps")[SNP vs SLK - SLK Won](https://www.cricbuzz.com/live-cricket-scores/92829/snp-vs-slk-14th-match-caribbean-premier-league-2024 "St Kitts and Nevis Patriots v Saint Lucia Kings, 14th Match - SLK Won")[AFG vs NZ - Abandon](https://www.cricbuzz.com/live-cricket-scores/103285/afg-vs-nz-only-test-afghanistan-v-new-zealand-in-india-2024 "Afghanistan v New Zealand, Only Test - Abandon")[ENG vs AUS - Preview](https://www.cricbuzz.com/live-cricket-scores/76535/eng-vs-aus-2nd-t20i-australia-tour-of-england-2024 "England v Australia, 2nd T20I - Preview")[INDC vs INDB - Live](https://www.cricbuzz.com/live-cricket-scores/104218/indc-vs-indb-4th-match-duleep-trophy-2024 "India C v India B, 4th Match - Live")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[SLK vs ABF - SLK Won](https://www.cricbuzz.com/live-cricket-scores/92849/slk-vs-abf-17th-match-caribbean-premier-league-2024 "Saint Lucia Kings v Antigua and Barbuda Falcons, 17th Match - SLK Won")[ENG vs AUS - Abandon](https://www.cricbuzz.com/live-cricket-scores/76542/eng-vs-aus-3rd-t20i-australia-tour-of-england-2024 "England v Australia, 3rd T20I - Abandon")[INDA vs INDD - INDA Won](https://www.cricbuzz.com/live-cricket-scores/104212/inda-vs-indd-3rd-match-duleep-trophy-2024 "India A v India D, 3rd Match - INDA Won")[ENGW vs IREW - IREW Won](https://www.cricbuzz.com/live-cricket-scores/93963/engw-vs-irew-2nd-t20i-england-women-tour-of-ireland-2024 "England Women v Ireland Women, 2nd T20I - IREW Won")[INDC vs INDB - Match drawn](https://www.cricbuzz.com/live-cricket-scores/104218/indc-vs-indb-4th-match-duleep-trophy-2024 "India C v India B, 4th Match - Match drawn")
 
 AllLive NowToday
 
@@ -56,55 +56,57 @@ AllLive NowToday
     
     England v Australia, 2024
     
-    [Australia vs England](https://www.cricbuzz.com/live-cricket-scores/76528/aus-vs-eng-1st-t20i-england-v-australia-2024 "Australia v England, 1st T20I - AUS Won")
-    
-    1st T20I
-    
-* [England vs Australia](https://www.cricbuzz.com/live-cricket-scores/76535/eng-vs-aus-2nd-t20i-england-v-australia-2024 "England v Australia, 2nd T20I - Preview")
-    
-    2nd T20I
-    
-* [England vs Australia](https://www.cricbuzz.com/live-cricket-scores/76542/eng-vs-aus-3rd-t20i-england-v-australia-2024 "England v Australia, 3rd T20I - Upcoming")
+    [England vs Australia](https://www.cricbuzz.com/live-cricket-scores/76542/eng-vs-aus-3rd-t20i-england-v-australia-2024 "England v Australia, 3rd T20I - Abandon")
     
     3rd T20I
     
-* Afghanistan v New Zealand
+* NZ tour of SL
     
-    [Afghanistan vs New Zealand](https://www.cricbuzz.com/live-cricket-scores/103285/afg-vs-nz-only-test-afghanistan-v-new-zealand "Afghanistan v New Zealand, Only Test - Abandon")
+    [Sri Lanka vs New Zealand](https://www.cricbuzz.com/live-cricket-scores/105962/sl-vs-nz-1st-test-nz-tour-of-sl "Sri Lanka v New Zealand, 1st Test - Upcoming")
     
-    Only Test
+    1st Test
+    
+* ICC CWC League Two 2023-27
+    
+    [Namibia vs United States](https://www.cricbuzz.com/live-cricket-scores/106355/nam-vs-usa-25th-match-icc-cwc-league-two-2023-27 "Namibia v United States, 25th Match - Toss")
+    
+    25th Match
+    
+* [Canada vs Nepal](https://www.cricbuzz.com/live-cricket-scores/106953/can-vs-nep-26th-match-icc-cwc-league-two-2023-27 "Canada v Nepal, 26th Match - Preview")
+    
+    26th Match
+    
+* [United Arab Emirates vs United States](https://www.cricbuzz.com/live-cricket-scores/106961/uae-vs-usa-27th-match-icc-cwc-league-two-2023-27 "United Arab Emirates v United States, 27th Match - Upcoming")
+    
+    27th Match
     
 * T20 LEAGUE
     
     CPL 2024
     
-    [Antigua and Barbuda Falcons vs Barbados Royals](https://www.cricbuzz.com/live-cricket-scores/92820/abf-vs-br-13th-match-cpl-2024 "Antigua and Barbuda Falcons v Barbados Royals, 13th Match - BR Won")
-    
-    13th Match
-    
-* [St Kitts and Nevis Patriots vs Saint Lucia Kings](https://www.cricbuzz.com/live-cricket-scores/92829/snp-vs-slk-14th-match-cpl-2024 "St Kitts and Nevis Patriots v Saint Lucia Kings, 14th Match - SLK Won")
-    
-    14th Match
-    
-* [Barbados Royals vs Trinbago Knight Riders](https://www.cricbuzz.com/live-cricket-scores/92838/br-vs-tkr-15th-match-cpl-2024 "Barbados Royals v Trinbago Knight Riders, 15th Match - Preview")
-    
-    15th Match
-    
-* [Barbados Royals vs Guyana Amazon Warriors](https://www.cricbuzz.com/live-cricket-scores/92840/br-vs-gaw-16th-match-cpl-2024 "Barbados Royals v Guyana Amazon Warriors, 16th Match - Upcoming")
+    [Barbados Royals vs Guyana Amazon Warriors](https://www.cricbuzz.com/live-cricket-scores/92840/br-vs-gaw-16th-match-cpl-2024 "Barbados Royals v Guyana Amazon Warriors, 16th Match - BR Won")
     
     16th Match
     
+* [Saint Lucia Kings vs Antigua and Barbuda Falcons](https://www.cricbuzz.com/live-cricket-scores/92849/slk-vs-abf-17th-match-cpl-2024 "Saint Lucia Kings v Antigua and Barbuda Falcons, 17th Match - SLK Won")
+    
+    17th Match
+    
+* [Barbados Royals vs St Kitts and Nevis Patriots](https://www.cricbuzz.com/live-cricket-scores/92851/br-vs-snp-18th-match-cpl-2024 "Barbados Royals v St Kitts and Nevis Patriots, 18th Match - Upcoming")
+    
+    18th Match
+    
 * T20 Blast
     
-    [Surrey vs Somerset](https://www.cricbuzz.com/live-cricket-scores/85239/sur-vs-som-semi-final-1-t20-blast "Surrey v Somerset, Semi Final 1 - Upcoming")
+    [Surrey vs Somerset](https://www.cricbuzz.com/live-cricket-scores/85239/sur-vs-som-semi-final-1-t20-blast "Surrey v Somerset, Semi Final 1 - SOM Won")
     
     Semi Final 1
     
-* [Gloucestershire vs Sussex](https://www.cricbuzz.com/live-cricket-scores/85246/gloucs-vs-sus-semi-final-2-t20-blast "Gloucestershire v Sussex, Semi Final 2 - Upcoming")
+* [Sussex vs Gloucestershire](https://www.cricbuzz.com/live-cricket-scores/85246/sus-vs-gloucs-semi-final-2-t20-blast "Sussex v Gloucestershire, Semi Final 2 - GLOUCS Won")
     
     Semi Final 2
     
-* [TBC vs TBC](https://www.cricbuzz.com/live-cricket-scores/85260/tbc-vs-tbc-final-t20-blast "TBC v TBC, Final - Upcoming")
+* [Somerset vs Gloucestershire](https://www.cricbuzz.com/live-cricket-scores/85260/som-vs-gloucs-final-t20-blast "Somerset v Gloucestershire, Final - GLOUCS Won")
     
     Final
     
@@ -112,153 +114,139 @@ AllLive NowToday
     
     Duleep Trophy
     
-    [India C vs India B  LIVE](https://www.cricbuzz.com/live-cricket-scores/104218/indc-vs-indb-4th-match-duleep-trophy "India C v India B, 4th Match - Live")
+    [India C vs India B](https://www.cricbuzz.com/live-cricket-scores/104218/indc-vs-indb-4th-match-duleep-trophy "India C v India B, 4th Match - Match drawn")
     
     4th Match
     
-* [India A vs India D](https://www.cricbuzz.com/live-cricket-scores/104212/inda-vs-indd-3rd-match-duleep-trophy "India A v India D, 3rd Match - Stumps")
+* [India A vs India D](https://www.cricbuzz.com/live-cricket-scores/104212/inda-vs-indd-3rd-match-duleep-trophy "India A v India D, 3rd Match - INDA Won")
     
     3rd Match
     
 * County Division 1
     
-    [Worcestershire vs Warwickshire](https://www.cricbuzz.com/live-cricket-scores/84481/worcs-vs-warks-60th-match-county-division-1 "Worcestershire v Warwickshire, 60th Match - Match drawn")
+    [Warwickshire vs Essex](https://www.cricbuzz.com/live-cricket-scores/84509/warks-vs-ess-65th-match-county-division-1 "Warwickshire v Essex, 65th Match - Upcoming")
     
-    60th Match
+    65th Match
     
-* [Somerset vs Surrey](https://www.cricbuzz.com/live-cricket-scores/84478/som-vs-sur-59th-match-county-division-1 "Somerset v Surrey, 59th Match - SOM Won")
+* [Surrey vs Durham](https://www.cricbuzz.com/live-cricket-scores/84502/sur-vs-dur-64th-match-county-division-1 "Surrey v Durham, 64th Match - Upcoming")
     
-    59th Match
+    64th Match
     
-* [Hampshire vs Kent](https://www.cricbuzz.com/live-cricket-scores/84471/ham-vs-kent-58th-match-county-division-1 "Hampshire v Kent, 58th Match - Match drawn")
+* [Lancashire vs Somerset](https://www.cricbuzz.com/live-cricket-scores/84499/lancs-vs-som-63rd-match-county-division-1 "Lancashire v Somerset, 63rd Match - Upcoming")
     
-    58th Match
+    63rd Match
     
-* [Essex vs Nottinghamshire](https://www.cricbuzz.com/live-cricket-scores/84464/ess-vs-notts-57th-match-county-division-1 "Essex v Nottinghamshire, 57th Match - ESS Won")
+* [Kent vs Nottinghamshire](https://www.cricbuzz.com/live-cricket-scores/84492/kent-vs-notts-62nd-match-county-division-1 "Kent v Nottinghamshire, 62nd Match - Upcoming")
     
-    57th Match
+    62nd Match
     
-* [Lancashire vs Durham](https://www.cricbuzz.com/live-cricket-scores/84457/lancs-vs-dur-56th-match-county-division-1 "Lancashire v Durham, 56th Match - DUR Won")
+* [Hampshire vs Worcestershire](https://www.cricbuzz.com/live-cricket-scores/84485/ham-vs-worcs-61st-match-county-division-1 "Hampshire v Worcestershire, 61st Match - Upcoming")
     
-    56th Match
+    61st Match
     
 * County Division 2
     
-    [Leicestershire vs Yorkshire](https://www.cricbuzz.com/live-cricket-scores/85500/leic-vs-yorks-45th-match-county-division-2 "Leicestershire v Yorkshire, 45th Match - YORKS Won")
+    [Gloucestershire vs Sussex](https://www.cricbuzz.com/live-cricket-scores/85528/gloucs-vs-sus-51st-match-county-division-2 "Gloucestershire v Sussex, 51st Match - Upcoming")
     
-    45th Match
+    51st Match
     
-* [Glamorgan vs Sussex](https://www.cricbuzz.com/live-cricket-scores/85514/glam-vs-sus-48th-match-county-division-2 "Glamorgan v Sussex, 48th Match - SUS Won")
+* [Glamorgan vs Yorkshire](https://www.cricbuzz.com/live-cricket-scores/85524/glam-vs-yorks-50th-match-county-division-2 "Glamorgan v Yorkshire, 50th Match - Upcoming")
     
-    48th Match
+    50th Match
     
-* [Northamptonshire vs Derbyshire](https://www.cricbuzz.com/live-cricket-scores/85510/nhnts-vs-derby-47th-match-county-division-2 "Northamptonshire v Derbyshire, 47th Match - NHNTS Won")
+* [Derbyshire vs Middlesex](https://www.cricbuzz.com/live-cricket-scores/85517/derby-vs-mdx-49th-match-county-division-2 "Derbyshire v Middlesex, 49th Match - Upcoming")
     
-    47th Match
+    49th Match
     
-* [Middlesex vs Gloucestershire](https://www.cricbuzz.com/live-cricket-scores/85507/mdx-vs-gloucs-46th-match-county-division-2 "Middlesex v Gloucestershire, 46th Match - GLOUCS Won")
+* [Northamptonshire vs Leicestershire](https://www.cricbuzz.com/live-cricket-scores/85535/nhnts-vs-leic-52nd-match-county-division-2 "Northamptonshire v Leicestershire, 52nd Match - Upcoming")
     
-    46th Match
+    52nd Match
     
 * South Africa v Sri Lanka
     
-    [South Africa A vs Sri Lanka A](https://www.cricbuzz.com/live-cricket-scores/105988/rsaa-vs-sla-2nd-unofficial-test-south-africa-v-sri-lanka "South Africa A v Sri Lanka A, 2nd Unofficial Test - Upcoming")
+    [South Africa A vs Sri Lanka A  LIVE](https://www.cricbuzz.com/live-cricket-scores/105988/rsaa-vs-sla-2nd-unofficial-test-south-africa-v-sri-lanka "South Africa A v Sri Lanka A, 2nd Unofficial Test - Live")
     
     2nd Unofficial Test
     
 * WOMEN
     
-    Kenya Women v Rwanda Women, 2024
+    South Africa Women tour of Pakistan
     
-    [Kenya Women vs Rwanda Women](https://www.cricbuzz.com/live-cricket-scores/106700/kenw-vs-rwaw-4th-t20i-kenya-women-v-rwanda-women-2024 "Kenya Women v Rwanda Women, 4th T20I - RWAW Won")
+    [Pakistan Women vs South Africa Women](https://www.cricbuzz.com/live-cricket-scores/106409/pakw-vs-rsaw-1st-t20i-south-africa-women-tour-of-pakistan "Pakistan Women v South Africa Women, 1st T20I - Preview")
     
-    4th T20I
+    1st T20I
     
-* [Kenya Women vs Rwanda Women](https://www.cricbuzz.com/live-cricket-scores/106705/kenw-vs-rwaw-5th-t20i-kenya-women-v-rwanda-women-2024 "Kenya Women v Rwanda Women, 5th T20I - Preview")
+* Kenya Women v Rwanda Women, 2024
+    
+    [Rwanda Women vs Kenya Women](https://www.cricbuzz.com/live-cricket-scores/106705/rwaw-vs-kenw-5th-t20i-kenya-women-v-rwanda-women-2024 "Rwanda Women v Kenya Women, 5th T20I - RWAW Won")
     
     5th T20I
     
 * Womens Tri-Series in Namibia
     
-    [Namibia Women vs United Arab Emirates Women](https://www.cricbuzz.com/live-cricket-scores/106073/namw-vs-uaew-7th-match-womens-tri-series-in-namibia "Namibia Women v United Arab Emirates Women, 7th Match - UAEW Won")
-    
-    7th Match
-    
-* [Zimbabwe Women vs United Arab Emirates Women](https://www.cricbuzz.com/live-cricket-scores/106081/zimw-vs-uaew-8th-match-womens-tri-series-in-namibia "Zimbabwe Women v United Arab Emirates Women, 8th Match - Complete")
-    
-    8th Match
-    
-* [Namibia Women vs Zimbabwe Women](https://www.cricbuzz.com/live-cricket-scores/106089/namw-vs-zimw-9th-match-womens-tri-series-in-namibia "Namibia Women v Zimbabwe Women, 9th Match - Preview")
+    [Namibia Women vs Zimbabwe Women](https://www.cricbuzz.com/live-cricket-scores/106089/namw-vs-zimw-9th-match-womens-tri-series-in-namibia "Namibia Women v Zimbabwe Women, 9th Match - NAMW Won")
     
     9th Match
     
-* [TBC vs TBC](https://www.cricbuzz.com/live-cricket-scores/106091/tbc-vs-tbc-final-womens-tri-series-in-namibia "TBC v TBC, Final - Upcoming")
-    
-    Final
-    
 * Serbia Women v Cyprus Women, 2024
     
-    [Serbia Women vs Cyprus Women](https://www.cricbuzz.com/live-cricket-scores/106924/srbw-vs-cypw-1st-t20i-serbia-women-v-cyprus-women-2024 "Serbia Women v Cyprus Women, 1st T20I - Upcoming")
+    [Serbia Women vs Cyprus Women](https://www.cricbuzz.com/live-cricket-scores/106924/srbw-vs-cypw-1st-t20i-serbia-women-v-cyprus-women-2024 "Serbia Women v Cyprus Women, 1st T20I - CYPW Won")
     
     1st T20I
     
-* [Serbia Women vs Cyprus Women](https://www.cricbuzz.com/live-cricket-scores/106932/srbw-vs-cypw-2nd-t20i-serbia-women-v-cyprus-women-2024 "Serbia Women v Cyprus Women, 2nd T20I - Upcoming")
+* [Cyprus Women vs Serbia Women](https://www.cricbuzz.com/live-cricket-scores/106932/cypw-vs-srbw-2nd-t20i-serbia-women-v-cyprus-women-2024 "Cyprus Women v Serbia Women, 2nd T20I - CYPW Won")
     
     2nd T20I
     
-* [Serbia Women vs Cyprus Women](https://www.cricbuzz.com/live-cricket-scores/106940/srbw-vs-cypw-3rd-t20i-serbia-women-v-cyprus-women-2024 "Serbia Women v Cyprus Women, 3rd T20I - Upcoming")
+* [Serbia Women vs Cyprus Women](https://www.cricbuzz.com/live-cricket-scores/106940/srbw-vs-cypw-3rd-t20i-serbia-women-v-cyprus-women-2024 "Serbia Women v Cyprus Women, 3rd T20I - Abandon")
     
     3rd T20I
     
-* [Serbia Women vs Cyprus Women](https://www.cricbuzz.com/live-cricket-scores/106948/srbw-vs-cypw-4th-t20i-serbia-women-v-cyprus-women-2024 "Serbia Women v Cyprus Women, 4th T20I - Upcoming")
+* [Serbia Women vs Cyprus Women](https://www.cricbuzz.com/live-cricket-scores/106948/srbw-vs-cypw-4th-t20i-serbia-women-v-cyprus-women-2024 "Serbia Women v Cyprus Women, 4th T20I - Abandon")
     
     4th T20I
     
 * Womens T20I Quadrangular Series
     
-    [Austria Women vs Luxembourg Women](https://www.cricbuzz.com/live-cricket-scores/106884/autw-vs-luxw-2nd-match-womens-t20i-quadrangular-series "Austria Women v Luxembourg Women, 2nd Match - Upcoming")
-    
-    2nd Match
-    
-* [Denmark Women vs Norway Women](https://www.cricbuzz.com/live-cricket-scores/106876/denw-vs-noyw-1st-match-womens-t20i-quadrangular-series "Denmark Women v Norway Women , 1st Match - Upcoming")
+    [Denmark Women vs Norway Women](https://www.cricbuzz.com/live-cricket-scores/106876/denw-vs-noyw-1st-match-womens-t20i-quadrangular-series "Denmark Women v Norway Women, 1st Match - DENW Won")
     
     1st Match
     
-* [Luxembourg Women vs Norway Women](https://www.cricbuzz.com/live-cricket-scores/106892/luxw-vs-noyw-4th-match-womens-t20i-quadrangular-series "Luxembourg Women v Norway Women , 4th Match - Upcoming")
+* [Austria Women vs Luxembourg Women](https://www.cricbuzz.com/live-cricket-scores/106884/autw-vs-luxw-2nd-match-womens-t20i-quadrangular-series "Austria Women v Luxembourg Women, 2nd Match - AUTW Won")
+    
+    2nd Match
+    
+* [Norway Women vs Luxembourg Women](https://www.cricbuzz.com/live-cricket-scores/106892/noyw-vs-luxw-4th-match-womens-t20i-quadrangular-series "Norway Women v Luxembourg Women, 4th Match - NOYW Won")
     
     4th Match
     
-* [Denmark Women vs Austria Women](https://www.cricbuzz.com/live-cricket-scores/106889/denw-vs-autw-3rd-match-womens-t20i-quadrangular-series "Denmark Women v Austria Women, 3rd Match - Upcoming")
+* [Austria Women vs Denmark Women](https://www.cricbuzz.com/live-cricket-scores/106889/autw-vs-denw-3rd-match-womens-t20i-quadrangular-series "Austria Women v Denmark Women, 3rd Match - DENW Won")
     
     3rd Match
     
-* [Austria Women vs Norway Women](https://www.cricbuzz.com/live-cricket-scores/106905/autw-vs-noyw-6th-match-womens-t20i-quadrangular-series "Austria Women v Norway Women , 6th Match - Upcoming")
+* [Austria Women vs Norway Women](https://www.cricbuzz.com/live-cricket-scores/106905/autw-vs-noyw-6th-match-womens-t20i-quadrangular-series "Austria Women v Norway Women, 6th Match - AUTW Won")
     
     6th Match
     
-* [Denmark Women vs Luxembourg Women](https://www.cricbuzz.com/live-cricket-scores/106900/denw-vs-luxw-5th-match-womens-t20i-quadrangular-series "Denmark Women v Luxembourg Women, 5th Match - Upcoming")
+* [Denmark Women vs Luxembourg Women](https://www.cricbuzz.com/live-cricket-scores/106900/denw-vs-luxw-5th-match-womens-t20i-quadrangular-series "Denmark Women v Luxembourg Women, 5th Match - DENW Won")
     
     5th Match
     
-* [TBC vs TBC](https://www.cricbuzz.com/live-cricket-scores/106921/tbc-vs-tbc-final-womens-t20i-quadrangular-series "TBC v TBC, Final - Upcoming")
+* [Austria Women vs Denmark Women](https://www.cricbuzz.com/live-cricket-scores/106921/autw-vs-denw-final-womens-t20i-quadrangular-series "Austria Women v Denmark Women, Final - DENW Won")
     
     Final
     
-* [TBC vs TBC](https://www.cricbuzz.com/live-cricket-scores/106913/tbc-vs-tbc-3rd-place-play-off-womens-t20i-quadrangular-series "TBC v TBC, 3rd Place Play-off - Upcoming")
+* [Norway Women vs Luxembourg Women](https://www.cricbuzz.com/live-cricket-scores/106913/noyw-vs-luxw-3rd-place-play-off-womens-t20i-quadrangular-series "Norway Women v Luxembourg Women, 3rd Place Play-off - NOYW Won")
     
     3rd Place Play-off
     
 * Ireland Women v England Women 2024
     
-    [England Women vs Ireland Women](https://www.cricbuzz.com/live-cricket-scores/93949/engw-vs-irew-3rd-odi-icc-championship-match-ireland-women-v-england-women-2024 "England Women v Ireland Women, 3rd ODI (ICC Championship Match) - IREW Won")
-    
-    3rd ODI (ICC Championship Match)
-    
-* [Ireland Women vs England Women](https://www.cricbuzz.com/live-cricket-scores/93956/irew-vs-engw-1st-t20i-ireland-women-v-england-women-2024 "Ireland Women v England Women, 1st T20I - Preview")
+    [England Women vs Ireland Women](https://www.cricbuzz.com/live-cricket-scores/93956/engw-vs-irew-1st-t20i-ireland-women-v-england-women-2024 "England Women v Ireland Women, 1st T20I - ENGW Won")
     
     1st T20I
     
-* [Ireland Women vs England Women](https://www.cricbuzz.com/live-cricket-scores/93963/irew-vs-engw-2nd-t20i-ireland-women-v-england-women-2024 "Ireland Women v England Women, 2nd T20I - Upcoming")
+* [England Women vs Ireland Women](https://www.cricbuzz.com/live-cricket-scores/93963/engw-vs-irew-2nd-t20i-ireland-women-v-england-women-2024 "England Women v Ireland Women, 2nd T20I - IREW Won")
     
     2nd T20I
     
@@ -569,41 +557,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
-  [](https://www.cricbuzz.com/cricket-news/131621/bavuma-goes-where-kolisi-doesnt-have-to-tread "Bavuma goes where Kolisi doesn't have to tread")
+  [](https://www.cricbuzz.com/cricket-news/131638/oshada-fernando-returns-for-new-zealand-tests "Oshada Fernando returns for New Zealand Tests")
 
-[Bavuma goes where Kolisi doesn't have to tread](https://www.cricbuzz.com/cricket-news/131621/bavuma-goes-where-kolisi-doesnt-have-to-tread "Bavuma goes where Kolisi doesn't have to tread")
-
-1h ago
-
-  [](https://www.cricbuzz.com/cricket-news/131620/bangladesh-set-to-host-south-africa-for-two-tests-in-october "Bangladesh to potentially host South Africa for two Tests in October")
-
-[Bangladesh to potentially host South Africa for two Tests in October](https://www.cricbuzz.com/cricket-news/131620/bangladesh-set-to-host-south-africa-for-two-tests-in-october "Bangladesh to potentially host South Africa for two Tests in October")
+[Oshada Fernando returns for New Zealand Tests](https://www.cricbuzz.com/cricket-news/131638/oshada-fernando-returns-for-new-zealand-tests "Oshada Fernando returns for New Zealand Tests")
 
 1h ago
 
-  [](https://www.cricbuzz.com/cricket-news/131619/azams-confidence-was-dented-by-the-way-he-was-treated-alleges-moin-khan "Azam's confidence was dented by the way he was treated, alleges Moin Khan")
+  [](https://www.cricbuzz.com/cricket-news/131637/green-all-round-efforts-in-vain-as-kings-secure-comfortable-win "Green all-round efforts in vain as Kings secure comfortable win")
 
-[Azam's confidence was dented by the way he was treated, alleges Moin Khan](https://www.cricbuzz.com/cricket-news/131619/azams-confidence-was-dented-by-the-way-he-was-treated-alleges-moin-khan "Azam's confidence was dented by the way he was treated, alleges Moin Khan")
+[Green all-round efforts in vain as Kings secure comfortable win](https://www.cricbuzz.com/cricket-news/131637/green-all-round-efforts-in-vain-as-kings-secure-comfortable-win "Green all-round efforts in vain as Kings secure comfortable win")
 
-3h ago
+4h ago
 
-  [](https://www.cricbuzz.com/cricket-news/131618/bowlers-openers-extend-india-as-lead "Bowlers, openers extend India A's lead")
+  [](https://www.cricbuzz.com/cricket-news/131636/can-kuldeep-be-the-ace-when-the-pack-shuffles "Can Kuldeep be the ace when the pack shuffles?")
 
-[Bowlers, openers extend India A's lead](https://www.cricbuzz.com/cricket-news/131618/bowlers-openers-extend-india-as-lead "Bowlers, openers extend India A's lead")
+[Can Kuldeep be the ace when the pack shuffles?](https://www.cricbuzz.com/cricket-news/131636/can-kuldeep-be-the-ace-when-the-pack-shuffles "Can Kuldeep be the ace when the pack shuffles?")
 
-3h ago
+7h ago
 
-  [](https://www.cricbuzz.com/cricket-news/131617/easwaran-jagadeesan-fightback-for-india-b-after-suthar-takes-india-c-to-525 " Easwaran, Jagadeesan fightback for India B after Suthar takes India C to 525")
+  [](https://www.cricbuzz.com/cricket-news/131635/akhilesh-bodugum-spinning-his-own-theory-of-evolution "Akhilesh Bodugum spinning his own theory of evolution")
 
-[Easwaran, Jagadeesan fightback for India B after Suthar takes India C to 525](https://www.cricbuzz.com/cricket-news/131617/easwaran-jagadeesan-fightback-for-india-b-after-suthar-takes-india-c-to-525 " Easwaran, Jagadeesan fightback for India B after Suthar takes India C to 525")
+[Akhilesh Bodugum spinning his own theory of evolution](https://www.cricbuzz.com/cricket-news/131635/akhilesh-bodugum-spinning-his-own-theory-of-evolution "Akhilesh Bodugum spinning his own theory of evolution")
 
-3h ago
+8h ago
 
-  [](https://www.cricbuzz.com/cricket-news/131616/he-is-just-one-innings-away-david-hemp-on-najmul "Najmul is just one innings away: David Hemp ")
+  [](https://www.cricbuzz.com/cricket-news/131634/series-decider-abandoned-after-persistent-rain "Series decider abandoned after persistent rain")
 
-[Najmul is just one innings away: David Hemp](https://www.cricbuzz.com/cricket-news/131616/he-is-just-one-innings-away-david-hemp-on-najmul "Najmul is just one innings away: David Hemp ")
+[Series decider abandoned after persistent rain](https://www.cricbuzz.com/cricket-news/131634/series-decider-abandoned-after-persistent-rain "Series decider abandoned after persistent rain")
 
-5h ago
+16h ago
+
+  [](https://www.cricbuzz.com/cricket-news/131633/brook-to-captain-england-in-australia-odis "Harry Brook to captain England in Australia ODIs")
+
+[Harry Brook to captain England in Australia ODIs](https://www.cricbuzz.com/cricket-news/131633/brook-to-captain-england-in-australia-odis "Harry Brook to captain England in Australia ODIs")
+
+19h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
