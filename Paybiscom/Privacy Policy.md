@@ -51,6 +51,7 @@ Tools
 
 * [Crypto Prices](https://paybis.com/price/)
 * [Crypto Calculator](https://paybis.com/bitcoin-calculator/)
+* [Crypto Glossary](https://paybis.com/blog/glossary/)
 
 [Sign In](https://paybis.com/user/login/)
 
@@ -115,6 +116,7 @@ Tools
 
 * [Crypto Prices](https://paybis.com/price/)
 * [Crypto Calculator](https://paybis.com/bitcoin-calculator/)
+* [Crypto Glossary](https://paybis.com/blog/glossary/)
 
 [Home](https://paybis.com/)
 
