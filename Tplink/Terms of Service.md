@@ -1,6 +1,6 @@
 Your browser does not support JavaScript. Please turn it on for the best experience.
 
-[](https://partner.tp-link.com/us/login.html?service=http%3A%2F%2Fpartner.tp-link.com%2Fus%2Fpartner%2Fpoints%2Freward%2Fpoints-reward-list.html)
+[](https://partner.tp-link.com/us/)
 
 [Support](https://www.kasasmart.com/us/support/)
 
@@ -121,6 +121,8 @@ Where to Buy
     * [Tapo Smart](https://www.tapo.com/us/)
     
     * [Best Solar-Powered Security Cameras 2024](https://www.tapo.com/us/news/429/)
+    
+    * [Apple HomeKit](https://www.kasasmart.com/us/promotion/apple-homekit/)
     
     [](https://www.kasasmart.com/us/home-networking/cloud-camera/)
     
@@ -404,6 +406,8 @@ Where to Buy
     * [Tapo Smart](https://www.tapo.com/us/)
         
     * [Best Solar-Powered Security Cameras 2024](https://www.tapo.com/us/news/429/)
+        
+    * [Apple HomeKit](https://www.kasasmart.com/us/promotion/apple-homekit/)
         
     
 * Business
