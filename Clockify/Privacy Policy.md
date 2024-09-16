@@ -309,7 +309,7 @@ For our users in the EEA, the United Kingdom, or Switzerland, you may also conta
 * [Press](https://clockify.me/press)
 * [Customers](https://clockify.me/customers)
 * [Affiliate](https://clockify.me/affiliate)
-* [Partnerships](https://clockify.me/partnership)
+* [Partnership](https://clockify.me/partnership)
 
 ##### Resources
 
