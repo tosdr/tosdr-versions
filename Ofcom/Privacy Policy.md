@@ -133,6 +133,12 @@
 
 #### Latest news
 
+[![Broadband-engineers laying fibre optic cable (1336 × 520px)](/siteassets/resources/images/-news-centre/thumbnail-images/pricing-and-billing/broadband-engineers-laying-fibre-optic-cable-1336--520px.jpg?width=1920&height=1085&quality=80)
+
+### Customers to get clearer broadband information
+
+16 September 2024](https://www.ofcom.org.uk/phones-and-broadband/bills-and-charges/customers-to-get-clearer-broadband-information/)
+
 [![woman holding tv remote and mug with pet on her lap.](/siteassets/resources/images/-news-centre/thumbnail-images/tv-and-on-demand/woman-holding-tv-remote-and-mug-with-pet-on-her-lap-web.jpg?width=1920&height=1085&quality=80)
 
 ### New ten-year public service broadcast licences for Channel 3 and Channel 5
@@ -150,12 +156,6 @@
 ### Speech: Innovation and imagination: helping our industries lead the world
 
 11 September 2024](https://www.ofcom.org.uk/phones-and-broadband/telecoms-infrastructure/speech-innovation-and-imagination-helping-our-industries-lead-the-world/)
-
-[![Openreach](/siteassets/resources/images/-news-centre/body-images/openreach-web.jpg?width=1920&height=1085&quality=80)
-
-### Monitoring Openreach’s independence
-
-11 September 2024](https://www.ofcom.org.uk/phones-and-broadband/telecoms-infrastructure/monitoring-openreachs-independence/)
 
  [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/corporate-policies/general-privacy-statement/?language=cy "Switch to Welsh")
 
