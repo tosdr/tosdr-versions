@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I have already renewed for a year. I love FoxyProxy. Thanks for FoxyProxy, keep on going.
+Thank you once again for your prompt and excellent service! You guys have the best customer service I have ever seen…by a LOT! ;-)
 
-Victoria Pickett
+Chelsea Madison
