@@ -284,8 +284,3 @@ The ASPCA is a 501(c)(3) non-for-profit organization. [Privacy Policy](https://w
 * [ASPCA Pet Health Insurance](https://www.aspca.org/about-us/strategic-cause-partnerships/aspca-pet-health-insurance)
     
     Underwritten by Independence American Insurance Company
-    
-
-**_BREAKING NEWS:_** 100+ Animals Rescued in PA and SC [DONATE NOW](https://secure.aspca.org/donate/2024-web-multi-bre1-NL-P1?ms=wb_con_butter-bre1-multi-20240906&initialms=wb_con_butter-bre1-multi-20240906&pcode=WEBMEMBER)
-
-**_[BREAKING NEWS:](https://secure.aspca.org/donate/2024-web-multi-bre1-NL-P1?ms=wb_con_butter-bre1-multi-20240906&initialms=wb_con_butter-bre1-multi-20240906&pcode=WEBMEMBER)_** 100+ Animals Rescued in PA and SC [DONATE NOW](https://secure.aspca.org/donate/2024-web-multi-bre1-NL-P1?ms=wb_con_butter-bre1-multi-20240906&initialms=wb_con_butter-bre1-multi-20240906&pcode=WEBMEMBER)
