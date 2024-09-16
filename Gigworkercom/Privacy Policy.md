@@ -5,15 +5,15 @@
     
     
     
-    [![](https://cdn.prod.website-files.com/664d278fd3a96036810fd32d/664dedf92f47ed6ce4e37a13_icon-brix-template-Users.svg)
-    
-    Freelancer Directory
-    
-    Find top-rated freelancers to outsource work to](https://gigworker.com/freelancers)[![](https://cdn.prod.website-files.com/664d278fd3a96036810fd32d/664dedf92f47ed6ce4e37a05_icon-brix-template-Mobile.svg)
+    [![](https://cdn.prod.website-files.com/664d278fd3a96036810fd32d/664dedf92f47ed6ce4e37a05_icon-brix-template-Mobile.svg)
     
     Outsourcing Companies
     
-    A collection of top-rated outsourcing companies](https://gigworker.com/outsourcing-companies)
+    A collection of top-rated outsourcing companies](https://gigworker.com/outsourcing-companies)[![](https://cdn.prod.website-files.com/664d278fd3a96036810fd32d/664dedf92f47ed6ce4e37a13_icon-brix-template-Users.svg)
+    
+    Freelancer Directory
+    
+    Find top-rated freelancers to outsource work to](https://gigworker.com/freelancers)
     
     [Recruitment Services
     
@@ -61,15 +61,19 @@
     
     
     
-    [![](https://cdn.prod.website-files.com/664d278fd3a96036810fd32d/664dedf92f47ed6ce4e37a13_icon-brix-template-Users.svg)
-    
-    Enhancements
-    
-    Products, services & training to help you earn more](https://gigworker.com/enhancements)[![](https://cdn.prod.website-files.com/664d278fd3a96036810fd32d/664dedf92f47ed6ce4e379fe_icon-brix-template-Desktop.svg)
+    [![](https://cdn.prod.website-files.com/664d278fd3a96036810fd32d/664dedf92f47ed6ce4e379fe_icon-brix-template-Desktop.svg)
     
     Gig Headquarters
     
-    Information about working with specific gig platforms](https://gigworker.com/gig-headquarters)[![](https://cdn.prod.website-files.com/664d278fd3a96036810fd32d/664dedf92f47ed6ce4e37a05_icon-brix-template-Mobile.svg)
+    Information about working with specific gig platforms](https://gigworker.com/gig-headquarters)[![](https://cdn.prod.website-files.com/664d278fd3a96036810fd32d/664dedf92f47ed6ce4e379fe_icon-brix-template-Desktop.svg)
+    
+    Upskilling Guides
+    
+    How to do popular side hustles and gigs](https://gigworker.com/upskilling)[![](https://cdn.prod.website-files.com/664d278fd3a96036810fd32d/664dedf92f47ed6ce4e37a05_icon-brix-template-Mobile.svg)
+    
+    Enhancements
+    
+    Products, services & training to help you earn more](https://gigworker.com/enhancements)[![](https://cdn.prod.website-files.com/664d278fd3a96036810fd32d/664dedf92f47ed6ce4e37a13_icon-brix-template-Users.svg)
     
     Community
     
