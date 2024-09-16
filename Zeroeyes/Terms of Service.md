@@ -64,6 +64,8 @@ a
 * [Video Gallery](https://zeroeyes.com/video-gallery/)
     * [Watch ZeroEyes overviews, media coverage, client testimonials, and more about our AI-powered, human-verified gun detection solution.](https://zeroeyes.com/video-gallery/)
 * [No Bell Podcast](https://zeroeyes.com/no-bell-podcast/)
+* [Events](https://zeroeyes.com/events/)
+    * [See ZeroEyes near you, upcoming webinars, and Lunch & Learn opportunities.](https://zeroeyes.com/events/)
 
 [REQUEST A DEMO](http://about/)
 
@@ -131,6 +133,8 @@ a
 * [Video Gallery](https://zeroeyes.com/video-gallery/)
     * [Watch ZeroEyes overviews, media coverage, client testimonials, and more about our AI-powered, human-verified gun detection solution.](https://zeroeyes.com/video-gallery/)
 * [No Bell Podcast](https://zeroeyes.com/no-bell-podcast/)
+* [Events](https://zeroeyes.com/events/)
+    * [See ZeroEyes near you, upcoming webinars, and Lunch & Learn opportunities.](https://zeroeyes.com/events/)
 
 [REQUEST A DEMO](http://about/)
 
