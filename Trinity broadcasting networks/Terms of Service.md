@@ -41,7 +41,7 @@ Main navigation
         * [Faith Topics](https://www.tbn.org/watch/faith-topics "Check out some of the Faith Topics videos in TBN's Video On Demand collection...")
 * [Giving](https://www.tbn.org/give "Find out the many ways you can give to TBN today!")
     * [Donor Opportunities](https://www.tbn.org/give "Ways to Give to TBN")
-        * [Legacy Giving](https://livinglegacy.tbn.org/ "Set up a Living Legacy for TBN by giving estate, annuity and more!")
+        * [Living Legacy](https://www.tbn.org/legacy/livinglegacy "Set up a Living Legacy for TBN by giving estate, annuity and more!")
         * [TBN Ambassadors](https://www.tbn.org/ambassador "Join us in taking the love of Jesus to every nation and people.")
         * [Ways To Give](https://www.tbn.org/give "Ways to Give to TBN")
         * [Request Info](https://www.tbn.org/giving/request-info "Request Info on Legacy Giving to TBN")
