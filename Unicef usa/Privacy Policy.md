@@ -546,14 +546,12 @@ Footer
 
 [UNICEF USA](https://www.unicefusa.org/)
 
-(800) 367-5437  |  125 Maiden Lane, New York, NY 10038.  
+[Send Email](mailto:webmaster@unicefusa.org) | (800) 367-5437  |  125 Maiden Lane, New York, NY 10038  
 ©2023 U.S. Fund for UNICEF d/b/a UNICEF USA. All Rights Reserved.  
 U.S. Fund for UNICEF d/b/a UNICEF USA is a 501(c)(3) organization.  
 Gifts are deductible to the full extent allowable under IRS regulations.
 
 ![Charity Navigator Four-Star Award](/sites/default/files/2024-08/charity-navigator.svg)
-
-![Platinum Transparency 2023 Candid](/sites/default/files/2024-08/platinum-transparency.svg)
 
 Subfoot Menu
 ------------
