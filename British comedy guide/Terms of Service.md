@@ -176,6 +176,10 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 
 ### See also
 
+[![Clockwise. Brian Stimpson (John Cleese)](https://cdn.comedy.co.uk/images/library/comedies/300x200/c/clockwise_watch.jpg "Clockwise. Brian Stimpson (John Cleese)")](https://www.comedy.co.uk/features/comedy-rewind/clockwise/) Features
+
+[Comedy Rewind: Keeping time with Clockwise](https://www.comedy.co.uk/features/comedy-rewind/clockwise/)
+
 [![Emma Doran](https://cdn.comedy.co.uk/images/library/people/300x200/e/emma_doran.jpg "Emma Doran")](https://www.comedy.co.uk/live/fgwg/emma-doran/) Live
 
 [First Gig, Worst Gig: Emma Doran](https://www.comedy.co.uk/live/fgwg/emma-doran/)
@@ -187,10 +191,6 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 [![Potted Panto. Image shows left to right: Daniel Clarkson, Jefferson Turner. Credit: Geraint Lewis](https://cdn.comedy.co.uk/images/library/misc/300x200/p/potted_panto.jpg "Potted Panto. Image shows left to right: Daniel Clarkson, Jefferson Turner. Credit: Geraint Lewis")](https://www.comedy.co.uk/live/features/potted-panto-interview/) Live
 
 [Preparing a perfect Potted Panto: Interview with Daniel Clarkson and Jefferson Turner](https://www.comedy.co.uk/live/features/potted-panto-interview/)
-
-[![Lady Clementine. Rosalie Minnitt. Credit: Ben Meadows](https://cdn.comedy.co.uk/images/library/people/300x200/r/rosalie_minnitt_clementine_b.jpg "Lady Clementine. Rosalie Minnitt. Credit: Ben Meadows")](https://www.comedy.co.uk/live/features/miss-clementine-spotify-playlist/) Live
-
-[Miss Clementine's Spotify Wrapped](https://www.comedy.co.uk/live/features/miss-clementine-spotify-playlist/)
 
 #### Subscribe to our newsletters
 
