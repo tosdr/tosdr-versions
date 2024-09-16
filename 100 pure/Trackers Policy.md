@@ -24,7 +24,7 @@ My Tote
 
 ### [Coffee Bean Caffeine Eye Cream](https://www.100percentpure.com/products/coffee-bean-caffeine-eye-cream)
 
-5740 reviews (5740)
+5742 reviews (5743)
 
 $16.00 $29.00
 
@@ -37,22 +37,6 @@ $16.00 $29.00
 ADD TO TOTE
 
 CHOOSE Size
-
-[![Featured](https://www.100percentpure.com/cdn/shop/files/VBA_SEAL_HQ_-_transparent_background_1.png?crop=center&height=85&v=1717163115&width=85)](https://www.100percentpure.com/products/vitamin-c-serum)
-
-[![vitamin-c-serum](https://www.100percentpure.com/cdn/shop/files/1FMVCS_Vitamin_C_Serum_Primary_239x254.jpg?v=1695399627)](https://www.100percentpure.com/products/vitamin-c-serum)
-
-![ 1FMVCS_Primary](//www.100percentpure.com/cdn/shop/files/1FMVCS_Vitamin_C_Serum_Primary_220x.jpg?v=1695399627)
-
-### [Vitamin C Serum](https://www.100percentpure.com/products/vitamin-c-serum)
-
-1419 reviews (1419)
-
-$58.00
-
-Default Title - $58
-
-ADD TO TOTE
 
 [![Featured](https://www.100percentpure.com/cdn/shop/files/2021-pm-routine_99ae3a5d-78d1-4989-a433-13d68e71ddd9.png?crop=center&height=85&v=1697822466&width=85)](https://www.100percentpure.com/products/multi-vitamin-antioxidants-ultra-riche-pm-treatment)
 
@@ -98,7 +82,7 @@ ADD TO TOTE
 
 ### [Maracuja Mascara](https://www.100percentpure.com/products/maracuja-mascara)
 
-2381 reviews (2381)
+2382 reviews (2382)
 
 $28.00 $28.00
 
@@ -174,7 +158,7 @@ ADD TO TOTE
 
 ### [Creamy Long Last Liner](https://www.100percentpure.com/products/creamy-long-last-liner)
 
-2017 reviews (2017)
+2018 reviews (2018)
 
 $27.00 $27.00
 
@@ -251,20 +235,6 @@ ADD TO TOTE
 $58.00
 
 Default Title - $58
-
-ADD TO TOTE
-
-[![organic-mint-lip-balm](https://www.100percentpure.com/cdn/shop/products/1LBM_Organic_Mint_Lip_Balm_Primary_239x254.jpg?v=1627032871)](https://www.100percentpure.com/products/organic-mint-lip-balm)
-
-![ Organic Mint Lip Balm](//www.100percentpure.com/cdn/shop/products/1LBM_Organic_Mint_Lip_Balm_Primary_220x.jpg?v=1627032871)
-
-### [Organic Mint Lip Balm](https://www.100percentpure.com/products/organic-mint-lip-balm)
-
-512 reviews (512)
-
-$8.00
-
-Default Title - $8
 
 ADD TO TOTE
 
@@ -438,7 +408,7 @@ or 4 interest-free payments of **$0.00** with ![Klarna Logo](https://www.100perc
 
  
 
-[HAPPY CHOCOLATE DAY! CHOCOLATE SGWP FREE W/ $49+ USE CODE: CHOCOLATEDAY](https://www.100percentpure.com/products/chocolate-day-sgwp "HAPPY CHOCOLATE DAY! CHOCOLATE SGWP FREE W/ $49+ USE CODE: CHOCOLATEDAY")
+[TODAY FREE SHIPPING FOR US CUSTOMERS!](https://www.100percentpure.com/products/chocolate-day-sgwp "TODAY FREE SHIPPING FOR US CUSTOMERS!")
 
 icon-account icon-account icon-arrow-right icon-arrow-down icon-arrow-next icon-arrow-prev icon-slideshow-next icon-slideshow-previous icon-comment icon-heart icon-cart icon-bag icon-close icon-glasses icon-menu icon-minus icon-play icon-plus social-seach social-facebook social-fancy social-instagram social-pinterest social-rss social-twitter
 
