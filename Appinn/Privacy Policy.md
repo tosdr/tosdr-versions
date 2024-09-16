@@ -159,17 +159,17 @@
     
     9 月 7, 2024 6
     
-* [![YasoCut - 极简，只做一件事：为当前窗口截图[Windows] 7](https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-27T164807.146-115x115.jpg "YasoCut - 极简，只做一件事：为当前窗口截图[Windows] 7")](https://www.appinn.com/yasocut/ "YasoCut – 极简，只做一件事：为当前窗口截图[Windows]")
-    
-    [YasoCut – 极简，只做一件事：为当前窗口截图\[Windows\]](https://www.appinn.com/yasocut/ "YasoCut – 极简，只做一件事：为当前窗口截图[Windows]")
-    
-    8 月 27, 2024 4
-    
-* [![LM Studio - 有电脑就能用，傻瓜、一站式部署本地大语言模型｜然后，像 ChatGPT 那样提问 8](https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-25T221457.341-115x115.jpg "LM Studio - 有电脑就能用，傻瓜、一站式部署本地大语言模型｜然后，像 ChatGPT 那样提问 8")](https://www.appinn.com/lm-studio/ "LM Studio – 有电脑就能用，傻瓜、一站式部署本地大语言模型｜然后，像 ChatGPT 那样提问")
+* [![LM Studio - 有电脑就能用，傻瓜、一站式部署本地大语言模型｜然后，像 ChatGPT 那样提问 7](https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-25T221457.341-115x115.jpg "LM Studio - 有电脑就能用，傻瓜、一站式部署本地大语言模型｜然后，像 ChatGPT 那样提问 7")](https://www.appinn.com/lm-studio/ "LM Studio – 有电脑就能用，傻瓜、一站式部署本地大语言模型｜然后，像 ChatGPT 那样提问")
     
     [LM Studio – 有电脑就能用，傻瓜、一站式部署本地大语言模型｜然后，像 ChatGPT 那样提问](https://www.appinn.com/lm-studio/ "LM Studio – 有电脑就能用，傻瓜、一站式部署本地大语言模型｜然后，像 ChatGPT 那样提问")
     
     8 月 25, 2024 4
+    
+* [![YasoCut - 极简，只做一件事：为当前窗口截图[Windows] 8](https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-27T164807.146-115x115.jpg "YasoCut - 极简，只做一件事：为当前窗口截图[Windows] 8")](https://www.appinn.com/yasocut/ "YasoCut – 极简，只做一件事：为当前窗口截图[Windows]")
+    
+    [YasoCut – 极简，只做一件事：为当前窗口截图\[Windows\]](https://www.appinn.com/yasocut/ "YasoCut – 极简，只做一件事：为当前窗口截图[Windows]")
+    
+    8 月 27, 2024 4
     
 * [![Magpie - 开源窗口全屏工具：提升画质，让不支持全屏化的游戏也能全屏显示[Windows] 9](https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-18T211923.038-115x115.jpg "Magpie - 开源窗口全屏工具：提升画质，让不支持全屏化的游戏也能全屏显示[Windows] 9")](https://www.appinn.com/blinue-magpie/ "Magpie – 开源窗口全屏工具：提升画质，让不支持全屏化的游戏也能全屏显示[Windows]")
     
@@ -177,11 +177,11 @@
     
     8 月 18, 2024 2
     
-* [![告别残留！专业卸载清理工具 Total Uninstall 让软件卸载更彻底 10](https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-15T130035.396-115x115.jpg "告别残留！专业卸载清理工具 Total Uninstall 让软件卸载更彻底 10")](https://www.appinn.com/total-uninstall-3/ "告别残留！专业卸载清理工具 Total Uninstall 让软件卸载更彻底")
+* [![在 Docker 中安装 Firefox 浏览器｜网页版 Firefox 10](https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-22T212431.953-115x115.jpg "在 Docker 中安装 Firefox 浏览器｜网页版 Firefox 10")](https://www.appinn.com/docker-firefox/ "在 Docker 中安装 Firefox 浏览器｜网页版 Firefox")
     
-    [告别残留！专业卸载清理工具 Total Uninstall 让软件卸载更彻底](https://www.appinn.com/total-uninstall-3/ "告别残留！专业卸载清理工具 Total Uninstall 让软件卸载更彻底")
+    [在 Docker 中安装 Firefox 浏览器｜网页版 Firefox](https://www.appinn.com/docker-firefox/ "在 Docker 中安装 Firefox 浏览器｜网页版 Firefox")
     
-    8 月 15, 2024 2
+    8 月 22, 2024 1
     
 
 ### 分类
