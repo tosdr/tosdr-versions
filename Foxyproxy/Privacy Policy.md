@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-We have been with you continuously with you for around four years and really do love the service.
+I only had 2 hours downtime for the entire 90 days of my subscription. I'm going to signup again. Thanks FoxyProxy!
 
-Jenn and Tref
+Alblarion155
