@@ -348,7 +348,7 @@ Depending on your location, you may also seek the help of a consumer ombudsman o
 
 [Careers](https://toogoodtogo.com/en-us/careers "Careers")[Press](https://toogoodtogo.com/en-us/press "Press")[Support](https://toogoodtogo.com/en-us/support "Support")[Mystore](https://store.toogoodtogo.com/login?cookie_consent=false&locale=en-us "Mystore")
 
-[](https://www.linkedin.com/company/too-good-to-go)[](https://www.instagram.com/toogoodtogo.usa/)[](https://www.facebook.com/toogoodtogoUSA/)[](https://www.tiktok.com/@toogoodtogo)[](https://www.youtube.com/channel/UCBonm_44z7UL0OvhHksBCAw)[](https://www.tiktok.com/@toogoodtogo)
+[](https://www.linkedin.com/company/too-good-to-go)[](https://www.instagram.com/toogoodtogo.usa/)[](https://www.facebook.com/toogoodtogoUSA/)[](https://www.tiktok.com/@toogoodtogo)[](https://www.youtube.com/channel/UCBonm_44z7UL0OvhHksBCAw)[](https://www.twitter.com/toogoodtogo)
 
 [![Download on the Apple App Store](https://cdn.sanity.io/images/nqimd3nr/production/ceed6a2b4247d22d0e6f9425cad1d5c39af762fe-480x160.png)](https://tgtg.onelink.me/OGjG/afd50hls)[![Get it on Google Play](https://cdn.sanity.io/images/nqimd3nr/production/68072d9f747a9e089548846cecc588ef52bb624e-540x160.png)](https://tgtg.onelink.me/OGjG/afd50hls)[![Explore it on AppGallery](https://cdn.sanity.io/images/nqimd3nr/production/5e81682e0d82a00b084b11d122334ddeba002ea0-540x160.png)](https://tgtg.onelink.me/OGjG/afd50hls)
 
