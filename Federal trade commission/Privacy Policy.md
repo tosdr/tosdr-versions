@@ -233,11 +233,11 @@ Main Menu Mega
     Upcoming Event
     --------------
     
-    Sep13
+    Sep19
     
-    ### [Fordham Antitrust Law and Policy Conference](https://www.ftc.gov/news-events/events/2024/09/fordham-antitrust-law-policy-conference)
+    ### [Open Commission Meeting - September 19, 2024](https://www.ftc.gov/news-events/events/2024/09/open-commission-meeting-september-19-2024)
     
-    Friday, September 13, 2024 | 9:50AM - 10:30AM
+    Thursday, September 19, 2024 | 11:00AM - 1:00PM
     
     [View more Events](https://www.ftc.gov/news-events/events)
     
