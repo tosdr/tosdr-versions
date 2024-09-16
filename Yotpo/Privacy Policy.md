@@ -88,8 +88,6 @@
             Accelerating incredible Black and Indigenous-owned brands.](https://www.yotpo.com/yotpo_rx/)
 * [Log in](https://yap.yotpo.com/)
 
-[![btn-bg](data:image/svg+xml;nitro-empty-id=MTQzMzoxMzk=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzUzIDE2NSIgd2lkdGg9Ijc1MyIgaGVpZ2h0PSIxNjUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://events.yotpo.com/retention-uncensored?utm_source=yotpoweb&utm_medium=web&utm_campaign=RetentionUncensored2024)
-
 [Log in](https://login.yotpo.com/#/login?signup_utm_source=yotpo_website)
 
 Get a demo
@@ -345,9 +343,9 @@ Support
 * [API Changelog](https://www.yotpo.com/api-changelog/)
 * [Yotpo Status](https://status.yotpo.com/)
 
- [![Yotpo logo](data:image/svg+xml;nitro-empty-id=MTczNjoxMzA=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTg0IDUxIiB3aWR0aD0iMTg0IiBoZWlnaHQ9IjUxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://www.yotpo.com/ "Yotpo")Be the marketer you can be
+ [![Yotpo logo](data:image/svg+xml;nitro-empty-id=MTczMToxMzA=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTg0IDUxIiB3aWR0aD0iMTg0IiBoZWlnaHQ9IjUxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://www.yotpo.com/ "Yotpo")Be the marketer you can be
 
- [![Facebook](data:image/svg+xml;nitro-empty-id=MTc0MzoxNDc=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjUgMjUiIHdpZHRoPSIyNSIgaGVpZ2h0PSIyNSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://www.facebook.com/yotpo)[![Linkedin](data:image/svg+xml;nitro-empty-id=MTc0NjoxNDY=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjUgMjUiIHdpZHRoPSIyNSIgaGVpZ2h0PSIyNSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://www.linkedin.com/company/yotpo)[![Twitter](data:image/svg+xml;nitro-empty-id=MTc0OToxMzk=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjUgMjUiIHdpZHRoPSIyNSIgaGVpZ2h0PSIyNSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://www.twitter.com/yotpo)[![Instagram](data:image/svg+xml;nitro-empty-id=MTc1MjoxNDk=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjUgMjUiIHdpZHRoPSIyNSIgaGVpZ2h0PSIyNSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://www.instagram.com/yotpo/)
+ [![Facebook](data:image/svg+xml;nitro-empty-id=MTczODoxNDc=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjUgMjUiIHdpZHRoPSIyNSIgaGVpZ2h0PSIyNSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://www.facebook.com/yotpo)[![Linkedin](data:image/svg+xml;nitro-empty-id=MTc0MToxNDY=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjUgMjUiIHdpZHRoPSIyNSIgaGVpZ2h0PSIyNSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://www.linkedin.com/company/yotpo)[![Twitter](data:image/svg+xml;nitro-empty-id=MTc0NDoxMzk=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjUgMjUiIHdpZHRoPSIyNSIgaGVpZ2h0PSIyNSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://www.twitter.com/yotpo)[![Instagram](data:image/svg+xml;nitro-empty-id=MTc0NzoxNDk=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjUgMjUiIHdpZHRoPSIyNSIgaGVpZ2h0PSIyNSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://www.instagram.com/yotpo/)
 
 ###### Sign up for
 
@@ -355,7 +353,7 @@ Sign up for weekly email & SMS inspiration by marketers, for marketers.
 
 [Terms of Service](https://www.yotpo.com/terms-of-service/) [Privacy Policy](https://www.yotpo.com/privacy-policy/) [Security](https://www.yotpo.com/security/) [Website Terms of Use](https://www.yotpo.com/terms-of-use/) [Cookie Settings](javascript:void(0)) [Accessibility](javascript:void(0))
 
- [![Facebook](data:image/svg+xml;nitro-empty-id=MTg2NToxMzk=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjUgMjUiIHdpZHRoPSIyNSIgaGVpZ2h0PSIyNSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://www.facebook.com/yotpo)[![Linkedin](data:image/svg+xml;nitro-empty-id=MTg2ODoxMzg=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjUgMjUiIHdpZHRoPSIyNSIgaGVpZ2h0PSIyNSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://www.linkedin.com/company/yotpo)[![Twitter](data:image/svg+xml;nitro-empty-id=MTg3MToxMzE=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjUgMjUiIHdpZHRoPSIyNSIgaGVpZ2h0PSIyNSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://www.twitter.com/yotpo)[![Instagram](data:image/svg+xml;nitro-empty-id=MTg3NDoxNDE=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjUgMjUiIHdpZHRoPSIyNSIgaGVpZ2h0PSIyNSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://www.instagram.com/yotpo/)
+ [![Facebook](data:image/svg+xml;nitro-empty-id=MTg2MDoxMzk=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjUgMjUiIHdpZHRoPSIyNSIgaGVpZ2h0PSIyNSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://www.facebook.com/yotpo)[![Linkedin](data:image/svg+xml;nitro-empty-id=MTg2MzoxMzg=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjUgMjUiIHdpZHRoPSIyNSIgaGVpZ2h0PSIyNSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://www.linkedin.com/company/yotpo)[![Twitter](data:image/svg+xml;nitro-empty-id=MTg2NjoxMzE=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjUgMjUiIHdpZHRoPSIyNSIgaGVpZ2h0PSIyNSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://www.twitter.com/yotpo)[![Instagram](data:image/svg+xml;nitro-empty-id=MTg2OToxNDE=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjUgMjUiIHdpZHRoPSIyNSIgaGVpZ2h0PSIyNSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://www.instagram.com/yotpo/)
 
 [](https://www.yotpo.com/)
 
@@ -389,12 +387,12 @@ and they'll reach out in no time!
 
 [See all customer stories](https://www.yotpo.com/case-studies/)
 
-![Yotpo customers logos](data:image/svg+xml;nitro-empty-id=MjY4NzozNDk=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTEyIDc2OSIgd2lkdGg9IjUxMiIgaGVpZ2h0PSI3NjkiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)![Yotpo customers logos](data:image/svg+xml;nitro-empty-id=MjY4Nzo2OTU=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzMwIDkwMyIgd2lkdGg9IjczMCIgaGVpZ2h0PSI5MDMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)![Yotpo customers logos](data:image/svg+xml;nitro-empty-id=MjY4NzoxMDMx-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAzMyAxMTg4IiB3aWR0aD0iMTAzMyIgaGVpZ2h0PSIxMTg4IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)
+![Yotpo customers logos](data:image/svg+xml;nitro-empty-id=MjY4MjozNDk=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTEyIDc2OSIgd2lkdGg9IjUxMiIgaGVpZ2h0PSI3NjkiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)![Yotpo customers logos](data:image/svg+xml;nitro-empty-id=MjY4Mjo2OTU=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzMwIDkwMyIgd2lkdGg9IjczMCIgaGVpZ2h0PSI5MDMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)![Yotpo customers logos](data:image/svg+xml;nitro-empty-id=MjY4MjoxMDMx-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAzMyAxMTg4IiB3aWR0aD0iMTAzMyIgaGVpZ2h0PSIxMTg4IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)
 
-![Laura Doonin, Commercial Director recommendation on yotpo](data:image/svg+xml;nitro-empty-id=MjY4OTozNTc=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTU3IDUwMiIgd2lkdGg9IjU1NyIgaGVpZ2h0PSI1MDIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
+![Laura Doonin, Commercial Director recommendation on yotpo](data:image/svg+xml;nitro-empty-id=MjY4NDozNTc=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTU3IDUwMiIgd2lkdGg9IjU1NyIgaGVpZ2h0PSI1MDIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
 “Yotpo is a fundamental part of our recommended tech stack.”
 
-![Shopify plus logo](data:image/gif;nitro-empty-id=MjY5MToxMTg=-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==) Laura Doonin, Commercial Director
+![Shopify plus logo](data:image/gif;nitro-empty-id=MjY4NjoxMTg=-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==) Laura Doonin, Commercial Director
 
-![Yotpo customers logos](data:image/svg+xml;nitro-empty-id=MjY5NjozNjQ=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTEyIDc2OSIgd2lkdGg9IjUxMiIgaGVpZ2h0PSI3NjkiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)![Yotpo customers logos](data:image/svg+xml;nitro-empty-id=MjY5Njo3MjU=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzMxIDkwMCIgd2lkdGg9IjczMSIgaGVpZ2h0PSI5MDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)![Yotpo customers logos](data:image/svg+xml;nitro-empty-id=MjY5NjoxMDc2-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgOTI4IDEwODAiIHdpZHRoPSI5MjgiIGhlaWdodD0iMTA4MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
+![Yotpo customers logos](data:image/svg+xml;nitro-empty-id=MjY5MTozNjQ=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTEyIDc2OSIgd2lkdGg9IjUxMiIgaGVpZ2h0PSI3NjkiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)![Yotpo customers logos](data:image/svg+xml;nitro-empty-id=MjY5MTo3MjU=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzMxIDkwMCIgd2lkdGg9IjczMSIgaGVpZ2h0PSI5MDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)![Yotpo customers logos](data:image/svg+xml;nitro-empty-id=MjY5MToxMDc2-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgOTI4IDEwODAiIHdpZHRoPSI5MjgiIGhlaWdodD0iMTA4MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
