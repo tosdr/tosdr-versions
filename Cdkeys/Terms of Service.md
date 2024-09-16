@@ -448,37 +448,27 @@ You are seeing games that are valid in your region which is ‘%1’. If you wan
 
 To view games that are valid in your region ‘%1’, click here
 
-1.    [![ARMORED CORE VI FIRES OF RUBICON PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_21__3.jpg)   No 1. \-54%](https://www.cdkeys.com/pc/armored-core-vi-fires-of-rubicon-pc-steam)
+1.    [![EA Sports FC 24 PC (EN) - EA App](https://cdn.cdkeys.com/245x340/media/catalog/product/m/i/microsoftteams-image_25__2.png)   No 1. \-80%](https://www.cdkeys.com/pc/ea-sports-fc-24-pc-en-ea-play)
     
-    **[ARMORED CORE VI FIRES OF RUBICON PC](https://www.cdkeys.com/pc/armored-core-vi-fires-of-rubicon-pc-steam "ARMORED CORE VI FIRES OF RUBICON PC")**
+    **[EA Sports FC 24 PC (EN) - EA App](https://www.cdkeys.com/pc/ea-sports-fc-24-pc-en-ea-play "EA Sports FC 24 PC (EN) - EA App")**
     
-    Special Price $29.99 RRP $65.69
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-2.    [![Dying Light 2 Stay Human: Reloaded Edition PC](https://cdn.cdkeys.com/245x340/media/catalog/product/r/e/reloaded_edition.jpg)   No 2. \-68%](https://www.cdkeys.com/pc/dying-light-2-stay-human-reloaded-edition-pc-steam)
-    
-    **[Dying Light 2 Stay Human: Reloaded Edition PC](https://www.cdkeys.com/pc/dying-light-2-stay-human-reloaded-edition-pc-steam "Dying Light 2 Stay Human: Reloaded Edition PC")**
-    
-    Special Price $19.09 RRP $59.19
+    Special Price $15.79 RRP $78.89
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-3.    [![REKA PC](https://cdn.cdkeys.com/245x340/media/catalog/product/r/e/reka.png)   No 3. \-51%](https://www.cdkeys.com/pc/reka-pc-steam)
+2.    [![Warhammer 40,000: Space Marine 2 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/6/9/69654.jpg)   No 2. \-28%](https://www.cdkeys.com/pc/warhammer-40-000-space-marine-2-pc-steam)
     
-    **[REKA PC](https://www.cdkeys.com/pc/reka-pc-steam "REKA PC")**
+    **[Warhammer 40,000: Space Marine 2 PC](https://www.cdkeys.com/pc/warhammer-40-000-space-marine-2-pc-steam "Warhammer 40,000: Space Marine 2 PC")**
     
-    Special Price $12.89 RRP $26.29
+    Special Price $51.99 RRP $72.29
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-4.    [![Squad PC ](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_21_.jpg)   No 4. \-52%](https://www.cdkeys.com/pc/squad-pc-steam)
+3.    [![Squad PC ](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_21_.jpg)   No 3. \-51%](https://www.cdkeys.com/pc/squad-pc-steam)
     
     **[Squad PC](https://www.cdkeys.com/pc/squad-pc-steam "Squad PC ")**
     
@@ -488,53 +478,45 @@ To view games that are valid in your region ‘%1’, click here
     
      Buy Now
     
-5.    [![Kingdom Come: Deliverance Royal Edition PC](https://cdn.cdkeys.com/245x340/media/catalog/product/m/o/mordhau-button-01-1558657551015_4_.jpg)   No 5. \-90%](https://www.cdkeys.com/pc/kingdom-come-deliverance-royal-edition-steam-pc)
-    
-    **[Kingdom Come: Deliverance Royal Edition PC](https://www.cdkeys.com/pc/kingdom-come-deliverance-royal-edition-steam-pc "Kingdom Come: Deliverance Royal Edition PC")**
-    
-    Special Price $3.89 RRP $39.39
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-6.    [![FINAL FANTASY XVI COMPLETE EDITION PC](https://cdn.cdkeys.com/245x340/media/catalog/product/f/i/final_fantasy_xvi_complete_edition.png)   No 6. \-28%
+4.    [![FINAL FANTASY XVI COMPLETE EDITION PC](https://cdn.cdkeys.com/245x340/media/catalog/product/f/i/final_fantasy_xvi_complete_edition.png)   No 4. \-29%
     
     Pre-order](https://www.cdkeys.com/pc/final-fantasy-xvi-complete-edition-pc-steam)
     
     **[FINAL FANTASY XVI COMPLETE EDITION PC](https://www.cdkeys.com/pc/final-fantasy-xvi-complete-edition-pc-steam "FINAL FANTASY XVI COMPLETE EDITION PC")**
     
-    Special Price $61.49 RRP $85.49
+    Special Price $61.09 RRP $85.49
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-7.    [![Test Drive Unlimited Solar Crown PC](https://cdn.cdkeys.com/245x340/media/catalog/product/t/e/test_drive_unlimited_solar_crown.jpg)   No 7. \-13%](https://www.cdkeys.com/pc/test-drive-unlimited-solar-crown-pc-steam)
+5.    [![Frostpunk 2 - Deluxe Edition PC](https://cdn.cdkeys.com/245x340/media/catalog/product/f/r/frostpunk_2_-_deluxe_edition_.jpg)   No 5. \-41%
     
-    **[Test Drive Unlimited Solar Crown PC](https://www.cdkeys.com/pc/test-drive-unlimited-solar-crown-pc-steam "Test Drive Unlimited Solar Crown PC")**
+    Pre-order](https://www.cdkeys.com/pc/frostpunk-2-deluxe-edition-pc-steam)
     
-    Special Price $45.99 RRP $52.59
+    **[Frostpunk 2 - Deluxe Edition PC](https://www.cdkeys.com/pc/frostpunk-2-deluxe-edition-pc-steam "Frostpunk 2 - Deluxe Edition PC")**
     
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-8.    [![HELLDIVERS 2 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-09-18t175517.723.jpg)   No 8. \-31%](https://www.cdkeys.com/pc/helldivers-2-pc-steam)
-    
-    **[HELLDIVERS 2 PC](https://www.cdkeys.com/pc/helldivers-2-pc-steam "HELLDIVERS 2 PC")**
-    
-    Special Price $27.59 RRP $39.99
+    Special Price $48.59 RRP $82.79
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-9.    [![Warhammer 40,000: Space Marine 2 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/6/9/69654.jpg)   No 9. \-28%](https://www.cdkeys.com/pc/warhammer-40-000-space-marine-2-pc-steam)
+6.    [![EA Sports FC 24 - 5900 FC Points PC](https://cdn.cdkeys.com/245x340/media/catalog/product/5/9/5900_points_pc.jpg)   No 6. \-38%](https://www.cdkeys.com/pc/ea-sports-fc-24-5900-fc-points-pc-ea-app)
     
-    **[Warhammer 40,000: Space Marine 2 PC](https://www.cdkeys.com/pc/warhammer-40-000-space-marine-2-pc-steam "Warhammer 40,000: Space Marine 2 PC")**
+    **[EA Sports FC 24 - 5900 FC Points PC](https://www.cdkeys.com/pc/ea-sports-fc-24-5900-fc-points-pc-ea-app "EA Sports FC 24 - 5900 FC Points PC")**
     
-    Special Price $51.99 RRP $72.29
+    Special Price $36.79 RRP $59.79
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+7.    [![EA Sports FC 24 - 12000 FC Points PC](https://cdn.cdkeys.com/245x340/media/catalog/product/1/2/12k_points.jpg)   No 7. \-34%](https://www.cdkeys.com/pc/ea-sports-fc-24-12000-fc-points-pc-ea-app)
+    
+    **[EA Sports FC 24 - 12000 FC Points PC](https://www.cdkeys.com/pc/ea-sports-fc-24-12000-fc-points-pc-ea-app "EA Sports FC 24 - 12000 FC Points PC")**
+    
+    Special Price $76.29 RRP $115.69
     
     [Add to Wish List](# "Add to Wish List")
     
