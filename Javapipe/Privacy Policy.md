@@ -309,7 +309,7 @@ Newark, Delaware, 19713
 
 World Host Group is the world's best hosting group. With clients in over 180 countries, every brand we run is dedicated to offering excellent reliable hosting backed by friendly expert technical support.
 
-Privacy Manager | [Terms & Conditions](https://javapipe.com/terms-of-service) | [Privacy Policy](https://javapipe.com/privacy-policy) | [Company Details](https://javapipe.com/company-details) | [Accessibility Statement](https://javapipe.com/accessibility-statement) | [Registrants Rights & Responsibilities](https://www.icann.org/en/registrars/registrant-rights-responsibilities-en.htm)
+Privacy Manager | [Terms & Conditions](https://javapipe.com/terms-of-service) | [Privacy Policy](https://javapipe.com/privacy-policy) | [Company Details](https://javapipe.com/company-details) | [Accessibility Statement](https://javapipe.com/accessibility-statement) | [Registrants Rights & Responsibilities](https://www.icann.org/en/registrars/registrant-rights-responsibilities-en.htm) | [Acceptable Usage Policy](https://javapipe.com/acceptable-usage-policy)
 
 © 2024 Mochahost. All rights reserved.
 
