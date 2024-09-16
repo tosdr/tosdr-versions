@@ -390,23 +390,22 @@ This Agreement was last modified on 4, December 2012.
 
 ### Featured Articles
 
-[![Sell Your Hair](https://www.wikihow.com/images/thumb/f/f8/Sell-Your-Hair-Step-14.jpg/-crop-126-120-126px-Sell-Your-Hair-Step-14.jpg)
+[![Broski Meaning](https://www.wikihow.com/images/thumb/8/8e/Broski-Meaning-Step-8.jpg/-crop-126-120-126px-Broski-Meaning-Step-8.jpg)
+
+Who Uses The Term “Broski” & What Does it Mean?](https://www.wikihow.com/Broski-Meaning)
+
+[![Icks for Girls](https://www.wikihow.com/images/thumb/1/1a/Icks-for-Girls-Step-31.jpg/-crop-126-120-126px-Icks-for-Girls-Step-31.jpg)
+
+31 Things Girls Do That Give People the Ick (Plus, How to Stop Doing Them)](https://www.wikihow.com/Icks-for-Girls)
+
+[![Develop Good Study Habits for College](https://www.wikihow.com/images/thumb/3/36/Develop-Good-Study-Habits-for-College-Step-17-Version-4.jpg/-crop-126-120-126px-Develop-Good-Study-Habits-for-College-Step-17-Version-4.jpg)
 
 How to  
-Sell Your Hair](https://www.wikihow.com/Sell-Your-Hair)
+Develop Good Study Habits for College](https://www.wikihow.com/Develop-Good-Study-Habits-for-College)
 
-[![Start Exercising when You're Out of Shape](https://www.wikihow.com/images/thumb/b/bd/Start-Exercising-when-You%27re-Out-of-Shape-Step-17.jpg/-crop-126-120-126px-Start-Exercising-when-You%27re-Out-of-Shape-Step-17.jpg)
+[![Open a Beer Bottle with a Key](https://www.wikihow.com/images/thumb/5/56/Open-a-Beer-Bottle-with-a-Key-Step-14.jpg/-crop-126-120-126px-Open-a-Beer-Bottle-with-a-Key-Step-14.jpg)
 
-How to Start Working Out if You're Out of Shape: Tips & Beginner Exercises](https://www.wikihow.com/Start-Exercising-when-You%27re-Out-of-Shape)
-
-[![Know when to Kiss on a Date](https://www.wikihow.com/images/thumb/3/3b/Know-when-to-Kiss-on-a-Date-Step-1-Version-3.jpg/-crop-126-120-126px-Know-when-to-Kiss-on-a-Date-Step-1-Version-3.jpg)
-
-When Is It OK to Kiss on a Date? (And How Will You Know?)](https://www.wikihow.com/Know-when-to-Kiss-on-a-Date)
-
-[![Be Single and Happy in Your 30s](https://www.wikihow.com/images/thumb/e/ec/Be-Single-and-Happy-in-Your-30s-Step-10.jpg/-crop-126-120-126px-Be-Single-and-Happy-in-Your-30s-Step-10.jpg)
-
-How to  
-Be Single and Happy in Your 30s](https://www.wikihow.com/Be-Single-and-Happy-in-Your-30s)
+How to Remove a Bottlecap with a Key](https://www.wikihow.com/Open-a-Beer-Bottle-with-a-Key)
 
   
 
@@ -449,4 +448,4 @@ Follow Us
 
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=8003466&cv=3.9.1&cj=1)
 
-230
+190
