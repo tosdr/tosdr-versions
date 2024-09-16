@@ -348,7 +348,7 @@ Popular articles
 Company
 -------
 
-[About us](https://preglife.com/about-us)[Our experts](https://preglife.com/authors)[FAQ](https://preglife.com/faq)[Careers](https://preglife.com/#)[Contact](https://preglife.com/contact)
+[About us](https://preglife.com/about-us)[Our experts](https://preglife.com/authors)[FAQ](https://preglife.com/faq)[Careers](https://preglife.comhttps//www.linkedin.com/company/preglife/)[Contact](https://preglife.com/contact)
 
 Follow us
 ---------
