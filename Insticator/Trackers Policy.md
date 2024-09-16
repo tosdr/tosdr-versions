@@ -83,19 +83,19 @@ Effective as of March 2021
 
 ©2021 Insticator, Inc.
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20570'%3E%3C/svg%3E)
+![brand logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20570'%3E%3C/svg%3E)
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20977'%3E%3C/svg%3E)
+![brand logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20977'%3E%3C/svg%3E)
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20457'%3E%3C/svg%3E)
+![brand logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20457'%3E%3C/svg%3E)
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%201000'%3E%3C/svg%3E)
+![brand logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%201000'%3E%3C/svg%3E)
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20366'%3E%3C/svg%3E)
+![brand logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20366'%3E%3C/svg%3E)
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20605'%3E%3C/svg%3E)
+![brand logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20605'%3E%3C/svg%3E)
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20698'%3E%3C/svg%3E)
+![brand logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20698'%3E%3C/svg%3E)
 
 [![Insticator](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20138%2030'%3E%3C/svg%3E)](https://www.insticator.com/)
 
@@ -140,13 +140,13 @@ About
 
 Notice to California Consumers. Insticator may collect “Identifiers,” “Characteristics of protected classifications,” “Commercial information,” “Internet or other electronic network activity,” “Geolocation data,” “Professional or employment-related information,” and/or “Education information” when you visit this website, and may use such information to draw inferences and for other operational and commercial purposes (including the sale of such information). For more information, please see our [Privacy Policy…](https://www.insticator.com/privacy/)
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20102%2058'%3E%3C/svg%3E)
+![logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20102%2058'%3E%3C/svg%3E)
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2062%2060'%3E%3C/svg%3E)
+![logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2062%2060'%3E%3C/svg%3E)
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20102%2044'%3E%3C/svg%3E)
+![logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20102%2044'%3E%3C/svg%3E)
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%201000'%3E%3C/svg%3E)
+![logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%201000'%3E%3C/svg%3E)
 
 This website uses cookies to improve your experience. You can opt-out if you wish.  
   
