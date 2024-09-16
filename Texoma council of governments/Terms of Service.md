@@ -143,27 +143,11 @@ Sherman, TX 75090
 Upcoming Events
 ---------------
 
-Sep 12
-
-4:00 pm - 5:30 pm [Event Series](https://tcog.com/series/audit-and-finance-committee/ "Event Series")
-
-### [Audit and Finance Committee](https://tcog.com/event/audit-and-finance-committee-2/2024-09-12/ "Audit and Finance Committee")
-
-Sherman
-
-Sep 12
-
-5:30 pm - 6:00 pm [Event Series](https://tcog.com/series/executive-officers-committee/ "Event Series")
-
-### [Executive Officers Committee](https://tcog.com/event/executive-officers-committee-2/2024-09-12/ "Executive Officers Committee")
-
-Sherman
-
 Sep 19
 
 5:30 pm - 7:00 pm [Event Series](https://tcog.com/series/governing-board-meeting-2/ "Event Series")
 
-### [Governing Board Meeting](https://tcog.com/event/governing-board-meeting/2024-09-19/ "Governing Board Meeting")
+### [Governing Board Meeting](https://tcog.com/event/governing-board-meeting-11/ "Governing Board Meeting")
 
 Sherman
 
@@ -174,6 +158,22 @@ Oct 5
 ### [Household Hazardous Waste Collection Event](https://tcog.com/event/household-hazardous-waste-collection-event-4/ "Household Hazardous Waste Collection Event")
 
 Bonham
+
+Oct 10
+
+4:00 pm - 5:30 pm [Event Series](https://tcog.com/series/audit-and-finance-committee/ "Event Series")
+
+### [Audit and Finance Committee](https://tcog.com/event/audit-and-finance-committee-2/2024-10-10/ "Audit and Finance Committee")
+
+Sherman
+
+Oct 10
+
+5:30 pm - 6:00 pm [Event Series](https://tcog.com/series/executive-officers-committee/ "Event Series")
+
+### [Executive Officers Committee](https://tcog.com/event/executive-officers-committee-2/2024-10-10/ "Executive Officers Committee")
+
+Sherman
 
 [View Calendar](https://tcog.com/calendar/ "View more events.")
 
