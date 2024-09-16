@@ -128,39 +128,39 @@ Advertisement
     The Beginning and the End of the Universe
     
     Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
-* [![The War On Drugs: The Prison Industrial Complex](/wp-content/thumbnails/958-100x70.gif?x53432)
+* [![The Guantanamo Guidebook](/wp-content/thumbnails/4319-100x70.jpg?x53432)
     
-    The War On Drugs: The Prison Industrial Complex
+    The Guantanamo Guidebook
     
-    The war on drugs has been going on for more than three decades. Today, nearly 500,000 Americans are imprisoned on drug charges. In 1980 the number was 50,000. Last year $40 billion in taxpayer dollars...](https://documentaryheaven.com/the-war-on-drugs-the-prison-industrial-complex/ "The War On Drugs: The Prison Industrial Complex")
+    British Channel 4 engaged the Team Delta Cadre to recreate the Guantanamo Bay interrogation experience.At the production company’s request, along with Team Delta’s normal approach to interrogation...](https://documentaryheaven.com/the-guantanamo-guidebook/ "The Guantanamo Guidebook")
 
 ###### Throwback Documentaries
 
-* [![Iceman Reborn](/wp-content/thumbnails/12579-100x70.jpg?x53432)
+* [![How Weed Won The West](/wp-content/thumbnails/6290-100x70.jpg?x53432)
     
-    Iceman Reborn
+    How Weed Won The West
     
-    The story of the Iceman is an ancient murder mystery, it involves Europe's oldest natural mummy, known to us today as Otzi. He was a man who was stalked, attacked and left to die alone more than](https://documentaryheaven.com/iceman-reborn/ "Iceman Reborn")
-* [![The Cost of a Coke: 2nd Edition](/wp-content/thumbnails/418-100x70.png?x53432)
+    In the follow-up to his ground-breaking documentary 'American Drug War,' filmmaker Kevin Booth traces the fight against Federal drug regulation in the State of California. A public majority has spoken](https://documentaryheaven.com/how-weed-won-the-west/ "How Weed Won The West")
+* [![The Breakthrough In Renewable Energy](/wp-content/thumbnails/12562-100x70.jpg?x53432)
     
-    The Cost of a Coke: 2nd Edition
+    The Breakthrough In Renewable Energy
     
-    Matt Beard’s film exposes the lies, moral bankruptcy and corruption that pervades Coca-Cola in Colombia and highlights conflicts of interest of Federal Judge Jose Martinez in presiding over the Coca-C](https://documentaryheaven.com/the-cost-of-a-coke-2nd-edition/ "The Cost of a Coke: 2nd Edition")
-* [![Evacuate Earth](/wp-content/thumbnails/7343-100x70.jpg?x53432)
+    In December of 2015 many of the world leaders had finally come to an agreement to stop climate change, it was an occasion to be celebrated because the deals lengthy negotiations had finally resulted i](https://documentaryheaven.com/breakthrough-in-renewable-energy/ "The Breakthrough In Renewable Energy")
+* [![DOOM Resurrected: To Hell & Back](/wp-content/thumbnails/12787-100x70.jpg?x53432)
     
-    Evacuate Earth
+    DOOM Resurrected: To Hell & Back
     
-    Evacuate Earth is a National Geographic Channel documentary that tells the what-if story of the evacuation of the planet Earth which is due to be destroyed by a rogue Neutron Star.](https://documentaryheaven.com/evacuate-earth/ "Evacuate Earth")
-* [![The Life of Birds: To Fly or Not to Fly](/wp-content/thumbnails/5945-100x70.jpg?x53432)
+    DOOM, to many it's timeless and to imagine a world without DOOM is to imagine a world without first person shooters. It is one of the most beloved series in the history of video games and the studio t](https://documentaryheaven.com/doom-resurrected-hell-back/ "DOOM Resurrected: To Hell & Back")
+* [![The Big Freeze](/wp-content/thumbnails/250-100x70.png?x53432)
     
-    The Life of Birds: To Fly or Not to Fly
+    The Big Freeze
     
-    David Attenborough presents a ten-part insight into the evolution and behaviours of birds. In this first programme, computer graphics recreate the period 150 million years ago when small, fast-running](https://documentaryheaven.com/the-life-of-birds-to-fly-or-not-to-fly/ "The Life of Birds: To Fly or Not to Fly")
-* [![American Nomads](/wp-content/thumbnails/13837-100x70.jpg?x53432)
+    Imagine our world in the not-too-distant future? In parts of the northern hemisphere, the temperature plummets to -90 F. At 130 below, public transportation fails. Those caught outside freeze to death](https://documentaryheaven.com/the-big-freeze/ "The Big Freeze")
+* [![Dark Days](/wp-content/thumbnails/1115-100x70.jpg?x53432)
     
-    American Nomads
+    Dark Days
     
-    Wanderlust, restlessness, the urge to get out onto the road and ride off into the sunset it is something which is deep and elemental in the American spirit. This is a journey in search of America](https://documentaryheaven.com/american-nomads/ "American Nomads")
+    Dark Days is a documentary made by Marc Singer, a British filmmaker. The film follows a group of people living in an abandoned section of the New York City underground railway system, more precisely t](https://documentaryheaven.com/dark-days/ "Dark Days")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
