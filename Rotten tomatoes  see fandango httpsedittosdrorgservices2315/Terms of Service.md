@@ -17,10 +17,8 @@ Offers
 
 Go to previous offer
 
-*  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **FREE Advanced Marvel Screening** RSVP to see Marvel Television's Agatha All Along
-*  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Gift, Give or Receive a ticket to The Forge** With The Kingdom Builders Gifted Ticket Program
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Save over 50% on Transformers Double Feature!** When you buy a ticket to Transformers One
-*  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Buy a ticket to Usher: Rendezvous in Paris** Chance to win an Usher concert experience for 2!
+*  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Gift, Give or Receive a ticket to The Forge** With The Kingdom Builders Gifted Ticket Program
 *  [![offer icon](https://images.fandango.com/cms/assets/64a40e40-5e81-11ef-a07e-5b03d6159fe4--rt-icon.svg) **New Audience Score Badge Unveiled: Verified Hot** Check out the first Verified Hot movies!](https://editorial.rottentomatoes.com/article/verified-hot-celebrating-the-best-verified-rated-films-by-fans/?cmp=TARS~FANDANGO~Verified%20Hot_GlobalNav)
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Get Deadpool's Premium Package** Including the Official Best Friends Necklaces!
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Ryan's World the Movie: Hero Bundle** Get two tickets, a mystery toy, and more!
@@ -58,13 +56,13 @@ Offers
 
 [SEE ALL OFFERS](https://www.fandango.com/offers)
 
-* [FREE Advanced Marvel Screening image link ![FREE Advanced Marvel Screening](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/f0001f90-7071-11ef-a588-3b078e6b3d8a--fan-globalofferunit-homepage-agatha-292x118.png)](https://fandango.az1.qualtrics.com/jfe/form/SV_eeosLS0c9xQxOSO?cmp=TARS~FANDANGO~AgathaAllAlong_Footer) 
+* [APPLE PAY WEDNESDAY image link ![APPLE PAY WEDNESDAY](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/e8f5f0d0-7210-11ef-8321-2b978811c524--fan-globalofferunit-homepage-applepay-week11-tickets-292x118.png)](https://www.fandangomovietickets.com/applepaywednesday?cmp=TARS~FANDANGO~Fandango_footer~applepaywednesday~unbounce) 
     
-    ### FREE Advanced Marvel Screening
+    ### APPLE PAY WEDNESDAY
     
-    RSVP to Marvel Television's Agatha All Along Advanced Fandango Screening
+    Get $5 off ticket orders made on Wednesday, 9/18 using Apple Pay, for any movie playing on any day! Limited quantity. Terms Apply.
     
-    [RSVP NOW](https://fandango.az1.qualtrics.com/jfe/form/SV_eeosLS0c9xQxOSO?cmp=TARS~FANDANGO~AgathaAllAlong_Footer)
+    [LEARN MORE](https://www.fandangomovietickets.com/applepaywednesday?cmp=TARS~FANDANGO~Fandango_footer~applepaywednesday~unbounce)
     
 * [SAVE OVER 50% OFF ON TRANSFORMERS DOUBLE FEATURE image link ![SAVE OVER 50% OFF ON TRANSFORMERS DOUBLE FEATURE](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/ef8909b0-619d-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-transformersonegwp-292x118.png)](https://www.fandangomovietickets.com/TransformersOneGWPOffer?cmp=TARS~FANDANGO~TransformersOneTicketingOffer_Footer) 
     
@@ -74,6 +72,14 @@ Offers
     
     [BUY TICKETS](https://www.fandangomovietickets.com/TransformersOneGWPOffer?cmp=TARS~FANDANGO~TransformersOneTicketingOffer_Footer)
     
+* [GIFT, GIVE OR RECEIVE A TICKET TO THE FORGE image link ![GIFT, GIVE OR RECEIVE A TICKET TO THE FORGE](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/e954b030-4b90-11ef-8321-2b978811c524--fan-globalofferunit-homepage-forge-292x118.png)](https://theforge.egifter.com/?cmp=TARS~FANDANGO~TheForgeGiftedTicket_footer) 
+    
+    ### GIFT, GIVE OR RECEIVE A TICKET TO THE FORGE
+    
+    Buy a ticket for yourself and everyone else you want to share The Forge with through The Kingdom Builders Gifted Ticket Program.
+    
+    [LEARN MORE](https://theforge.egifter.com/?cmp=TARS~FANDANGO~TheForgeGiftedTicket_footer)
+    
 * [GET DEADPOOL'S PREMIUM PACKAGE image link ![GET DEADPOOL'S PREMIUM PACKAGE](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/da59af90-13af-11ef-a14e-3f3f55d13640--fan-globalofferunit-homepage-deadpoolpackage-292x118.png)](https://deadpoolandwolverine.fandango.egifter.com/?cmp=TARS~FANDANGO~DeadpoolMicrosite_Footer) 
     
     ### GET DEADPOOL'S PREMIUM PACKAGE
@@ -81,14 +87,6 @@ Offers
     Includes 2 tickets to Deadpool & Wolverine, the Official Best Friends Necklaces, and more
     
     [BUY NOW](https://deadpoolandwolverine.fandango.egifter.com/?cmp=TARS~FANDANGO~DeadpoolMicrosite_Footer)
-    
-* [CHANCE TO WIN AN USHER CONCERT EXPERIENCE FOR 2 image link ![CHANCE TO WIN AN USHER CONCERT EXPERIENCE FOR 2](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/41d5ef40-5360-11ef-ab6e-6bc4e16d49df--fan-homepageofferunit-usher-292x118.png)](https://www.fandangomovietickets.com/fandangosusherinparisconcertexperiencesweepstakes?cmp=TARS~FANDANGO~UsherInParisSweeps_Footer) 
-    
-    ### CHANCE TO WIN AN USHER CONCERT EXPERIENCE FOR 2
-    
-    Buy a ticket to Usher: Rendezvous in Paris for a chance to win an Usher concert experience for 2!
-    
-    [BUY TICKETS](https://www.fandangomovietickets.com/fandangosusherinparisconcertexperiencesweepstakes?cmp=TARS~FANDANGO~UsherInParisSweeps_Footer)
     
 
 New & Coming soon
@@ -188,26 +186,6 @@ New & Coming soon
 
 © 2024 Fandango
 
-### FREE Advanced Screening of Marvel Television's Agatha All Along!y
-
-Close
-
-![FREE Advanced Marvel Screening](https://images.fandango.com/cms/assets/dc64bda0-707c-11ef-8321-2b978811c524--fan-globalnavbar-agatha-343x362.jpg)
-
-#### RSVP to see the first two episodes in theaters ahead of the Disney+ premiere, along with complimentary refreshments, photo ops, and a mini poster giveaway.
-
-The showing is a first come, first serve event and admission is not guaranteed. This show is TV-14. By submitting this form you agree to the Terms & Policies, Privacy Policy, and to receive marketing emails from Fandango media brands. [RSVP NOW](https://fandango.az1.qualtrics.com/jfe/form/SV_eeosLS0c9xQxOSO?cmp=TARS~FANDANGO~AgathaAllAlong_promomodule)
-
-### Fandango offer: Gift, Give or Receive a ticket to The Forge
-
-Close
-
-![Gift, Give or Receive a ticket to The Forge](https://images.fandango.com/cms/assets/00731a20-22d0-11ef-a07e-5b03d6159fe4--fan-globalnavbar-forge-343x362.jpg)
-
-#### Buy a ticket for yourself and everyone else you want to share the movie with through The Kingdom Builders Gifted Ticket Program.
-
-See Terms at https://theforge.egifter.com/offer-terms. [Give and Get Tickets](https://theforge.egifter.com/?cmp=TARS~FANDANGO~TheForgeGiftedTicket_globalnav)
-
 ### Special Offer
 
 Close
@@ -218,15 +196,15 @@ Close
 
 \*Limited time offer. Log into your account on Fandango.com or the Fandango app and purchase at least one movie ticket to ‘Transformers One’ between 9:00am PT on 8/27/24 and 11:59pm PT on 9/23/24 (the “Offer Period”). Purchaser will receive a post purchase email containing 1 Fandango at Home Promotional Code (“Code”) that is good for over 50% off the purchase (and not the rental) of Transformers: Rise of the Beasts + Bumblebee: 2-Movie Collection (Bundle) in My Offers in your account on http://fandangoathome.com and via participating Fandango at Home apps. You must have, and be logged into, your Fandango account to receive a Code. Fandango is free to join; you must be 18 years of age or older to create a Fandango account. Code expires on (and must be used by) 9/27/24 at 11:59pm PT. Limit one per transaction. You may have to pay taxes additionally. One-time use only. Void where prohibited. Offer is non-transferable and cannot be combined with any other offer or discount. If lost or stolen, cannot be replaced. No cash value, except as required by law. Not for resale; void if sold or exchanged. Offer valid in the U.S. only. You must have a Fandango at Home account to redeem your Code on Fandango at Home. Fandango at Home is free to join; you must be 18 years of age or older to open a Fandango at Home account. Credit card may be required for transactions on fandangoathome.com. Fandango at Home reserves the right to modify or cancel this offer at any time and without notice. This offer and redemption of the Code are subject to Fandango at Home’s Terms and Policies and Privacy Policy at http://www.fandango.com/terms-and-policies. [Buy Tickets](https://www.fandangomovietickets.com/TransformersOneGWPOffer?cmp=TARS~FANDANGO~TransformersOneTicketingOffer_promomodule)
 
-### Special Offer
+### Fandango offer: Gift, Give or Receive a ticket to The Forge
 
 Close
 
-![Buy a ticket to Usher: Rendezvous in Paris](https://images.fandango.com/cms/assets/f21fe1c0-5366-11ef-a588-3b078e6b3d8a--fan-globalnavbar-usher-343x362.png)
+![Gift, Give or Receive a ticket to The Forge](https://images.fandango.com/cms/assets/00731a20-22d0-11ef-a07e-5b03d6159fe4--fan-globalnavbar-forge-343x362.jpg)
 
-#### Buy a ticket to Usher: Rendezvous in Paris for a chance to win an Usher concert experience for 2!
+#### Buy a ticket for yourself and everyone else you want to share the movie with through The Kingdom Builders Gifted Ticket Program.
 
-NO PURCHASE OR APP NECESSARY. Open to legal residents of the 50 United States and D.C., 18 years of age and older. Void where prohibited. Ends September 15, 2024. For Official Rules/Odds/Free Entry visit https://www.fandangomovietickets.com/fandangosusherinparisconcertexperiencesweepstakes. Sponsor: Fandango Media, LLC, 12180 Millennium Dr., Ste. 200, Playa Vista, CA, 90094 [Learn More](https://www.fandangomovietickets.com/fandangosusherinparisconcertexperiencesweepstakes?cmp=TARS~FANDANGO~UsherInParisSweeps_promomodule)
+See Terms at https://theforge.egifter.com/offer-terms. [Give and Get Tickets](https://theforge.egifter.com/?cmp=TARS~FANDANGO~TheForgeGiftedTicket_globalnav)
 
 ### Apple Pay Wednesday
 
