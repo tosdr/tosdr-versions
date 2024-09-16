@@ -416,7 +416,7 @@ We may collect information about you from third parties and commercially-availab
       
     **10\. OUR SITES AND CHILDREN**  
       
-    Our Sites are meant for adults, and are not directed at children under the age of 16. We do not knowingly collect Personal Information from children under 16. If you are a parent or legal guardian and think your child under 18 has given us information, you can contact us at privacyquestion@naturesway.com, or write to us at Customer Service at 825 Challenger Drive, Green Bay, WI 54311. Please mark your inquiries "COPPA Information Request."  
+    Our Sites are meant for adults, and are not directed at children under the age of 16. We do not knowingly collect Personal Information from children under 16. If you are a parent or legal guardian and think your child under 18 has given us information, you can contact us at privacyquestion@naturesway.com, or write to us at Customer Care at 825 Challenger Drive, Green Bay, WI 54311. Please mark your inquiries "COPPA Information Request."  
       
     **YOUR PRIVACY RIGHTS**  
       
@@ -644,7 +644,7 @@ Schwabe North America reserves the right to amend these Terms of Use at any time
 
 16. **Updating Your Information**
 
-If you need to update any of your online and/or off-line contact information, please send an email to Schwabe North America Customer Service at info@naturesway.com  or a letter to Schwabe North America, Attn: Customer Service, Schwabe North America, Inc., 825 Challenger Drive, Green Bay, WI 54311.
+If you need to update any of your online and/or off-line contact information, please send an email to Schwabe North America Customer Care at info@naturesway.com  or a letter to Schwabe North America, Attn: Customer Care, Schwabe North America, Inc., 825 Challenger Drive, Green Bay, WI 54311.
 
 17. **Disclaimer of Warranties**
 
@@ -716,7 +716,7 @@ We reserve the right to request the product be shipped back to us in its origina
 To obtain a refund for product purchased directly on Naturesway.com, or if you are unable to obtain a refund from the authorized seller from which you purchased your product, please call one of our customer service representatives at 1-800-962-8873. Please have information available regarding where and when you purchased your product. Upon approval of your request, you will then need to mail your Nature’s Way product, a proof of purchase (such as your receipt), and your Guarantee approval confirmation number to:
 
 Nature’s Way Brands  
-Attn: Customer Service  
+Attn: Customer Care  
 825 Challenger Dr.  
 Green Bay, WI 54311
 
@@ -984,7 +984,7 @@ We may collect information about you from third parties and commercially-availab
       
     **10\. OUR SITES AND CHILDREN**  
       
-    Our Sites are meant for adults, and are not directed at children under the age of 16. We do not knowingly collect Personal Information from children under 16. If you are a parent or legal guardian and think your child under 18 has given us information, you can contact us at privacyquestion@naturesway.com, or write to us at Customer Service at 825 Challenger Drive, Green Bay, WI 54311. Please mark your inquiries "COPPA Information Request."  
+    Our Sites are meant for adults, and are not directed at children under the age of 16. We do not knowingly collect Personal Information from children under 16. If you are a parent or legal guardian and think your child under 18 has given us information, you can contact us at privacyquestion@naturesway.com, or write to us at Customer Care at 825 Challenger Drive, Green Bay, WI 54311. Please mark your inquiries "COPPA Information Request."  
       
     **YOUR PRIVACY RIGHTS**  
       
@@ -1210,7 +1210,7 @@ Schwabe North America reserves the right to amend these Terms of Use at any time
 
 16. **Updating Your Information**
 
-If you need to update any of your online and/or off-line contact information, please send an email to Schwabe North America Customer Service at info@naturesway.com  or a letter to Schwabe North America, Attn: Customer Service, Schwabe North America, Inc., 825 Challenger Drive, Green Bay, WI 54311.
+If you need to update any of your online and/or off-line contact information, please send an email to Schwabe North America Customer Care at info@naturesway.com  or a letter to Schwabe North America, Attn: Customer Care, Schwabe North America, Inc., 825 Challenger Drive, Green Bay, WI 54311.
 
 17. **Disclaimer of Warranties**
 
@@ -1280,7 +1280,7 @@ We reserve the right to request the product be shipped back to us in its origina
 To obtain a refund for product purchased directly on Naturesway.com, or if you are unable to obtain a refund from the authorized seller from which you purchased your product, please call one of our customer service representatives at 1-800-962-8873. Please have information available regarding where and when you purchased your product. Upon approval of your request, you will then need to mail your Nature’s Way product, a proof of purchase (such as your receipt), and your Guarantee approval confirmation number to:
 
 Nature’s Way Brands  
-Attn: Customer Service  
+Attn: Customer Care  
 825 Challenger Dr.  
 Green Bay, WI 54311
 
@@ -1498,8 +1498,6 @@ Nature's Way Brands | 2024 All Rights Reserved
 * Choosing a selection results in a full page refresh.
 
        
-
-Chat not available
 
 #### Hello there, looks like you're located in Canada.
 
