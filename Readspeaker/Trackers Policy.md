@@ -212,837 +212,807 @@ Solutions
 
 Select a voice
 
-language All Languages Arabic Catalan Chinese Czech Danish Dutch English Finnish French German Greek Hebrew Hindi Hungarian Icelandic Indonesian Italian Japanese Korean Latvian Norwegian Polish Portuguese Romanian Russian Slovak Spanish Swedish Thai Turkish Ukrainian Vietnamese Welsh
+language All Languages Arabic Bengali Catalan Chinese Czech Danish Dutch English Finnish French German Greek Hebrew Hindi Hungarian Icelandic Indonesian Italian Japanese Korean Latvian Norwegian Polish Portuguese Romanian Russian Slovak Spanish Swedish Tamil Thai Turkish Ukrainian Vietnamese Welsh
 
-![male](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![ar](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/ae.svg)![Amir](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/amir.png)
+![male](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![ar](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/ae.svg)![Amir](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/amir.png)
 
 Amir  
 Arabic  
 Male
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![ar](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/ae.svg)![Yasmin](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/yasmin.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![ar](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/ae.svg)![Yasmin](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/yasmin.png)
 
 Yasmin  
 Arabic  
 Female
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![ca](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/es.svg)![Roser](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/roser.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![ca](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/es.svg)![Roser](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/roser.png)
 
 Roser  
 Catalan  
 Female
 
-![male](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![zh](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/hk.svg)![Kaho](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/kaho.png)
+![male](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![zh](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/hk.svg)![Kaho](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/kaho.png)
 
 Kaho  
 Chinese (Cantonese)  
 Male
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![zh](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/hk.svg)![Kayan](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/kayan.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![zh](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/hk.svg)![Kayan](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/kayan.png)
 
 Kayan  
 Chinese (Cantonese)  
 Female
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![zh](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/cn.svg)![Hong](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/hong.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![zh](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/cn.svg)![Hong](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/hong.png)
 
 Hong  
 Chinese (Mandarin)  
 Female
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![zh](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/cn.svg)![Hui](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/hui.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![zh](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/cn.svg)![Hui](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/hui.png)
 
 Hui  
 Chinese (Mandarin)  
 Female
 
-![male](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![zh](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/cn.svg)![Liang](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/liang.png)
+![male](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![zh](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/cn.svg)![Liang](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/liang.png)
 
 Liang  
 Chinese (Mandarin)  
 Male
 
-![male](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![zh](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/cn.svg)![Qiang](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/qiang.png)
+![male](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![zh](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/cn.svg)![Qiang](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/qiang.png)
 
 Qiang  
 Chinese (Mandarin)  
 Male
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![zh](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/tw.svg)![Yafang](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/yafang.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![zh](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/tw.svg)![Yafang](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/yafang.png)
 
 Yafang  
 Chinese (Taiwanese)  
 Female
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![cs](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/cz.svg)![Katka](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/katka.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![cs](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/cz.svg)![Katka](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/katka.png)
 
 Katka  
 Czech  
 Female
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![da](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/dk.svg)![Lene](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/lene.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![da](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/dk.svg)![Lene](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/lene.png)
 
 Lene  
 Danish  
 Female
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![nl](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/nl.svg)![Ilse](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/ilse.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![nl](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/nl.svg)![Ilse](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/ilse.png)
 
 Ilse  
 Dutch  
 Female
 
-![male](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![nl](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/nl.svg)![Sem](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/sem.png)
+![male](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![nl](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/nl.svg)![Sem](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/sem.png)
 
 Sem  
 Dutch  
 Male
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![nl](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/nl.svg)![Tess](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/tess.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![nl](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/nl.svg)![Tess](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/tess.png)
 
 Tess  
 Dutch  
 Female
 
-![male](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![nl](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/nl.svg)![Alex](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/alex.png)
+![male](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![nl](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/be.svg)![Luc](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/luc.png)
+
+Luc  
+Dutch (Belgium)  
+Male
+
+![male](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![nl](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/nl.svg)![Alex](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/alex.png)
 
 Alex  
 Dutch  
 Male
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![nl](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/nl.svg)![Anne](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/anne.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![nl](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/nl.svg)![Anne](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/anne.png)
 
 Anne  
 Dutch  
 Female
 
-![male](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![nl](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/nl.svg)![Guus](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/guus.png)
+![male](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![nl](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/nl.svg)![Guus](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/guus.png)
 
 Guus  
 Dutch  
 Male
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![nl](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/be.svg)![Veerle](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/veerle.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![nl](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/be.svg)![Veerle](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/veerle.png)
 
 Veerle  
 Dutch (Belgium)  
 Female
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![en](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/us.svg)![AWARE](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/aware.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![en](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/us.svg)![AWARE](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/aware.png)
 
 AWARE  
 English (US)  
 Female
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![en](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/us.svg)![Lizzy](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/lizzy.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![en](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/us.svg)![Lizzy](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/lizzy.png)
 
 Lizzy  
 English (US)  
 Female
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![Alice](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/alice.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![en](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/gb.svg)![Alice](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/alice.png)
 
 Alice  
 English (UK)  
 Female
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![en](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/us.svg)![Molly](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/molly.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![en](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/us.svg)![Molly](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/molly.png)
 
 Molly  
 English (US)  
 Female
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![en](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/us.svg)![Kayla](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/kayla.png)
-
-Kayla  
-English (US)  
-Female
-
-![male](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![en](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/us.svg)![Roy](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/roy.png)
-
-Roy  
-English (US)  
-Male
-
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![en](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/us.svg)![Sophie](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/sophie.png)
-
-Sophie  
-English (US)  
-Female
-
-![male](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![en](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/au.svg)![Jack](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/jack.png)
-
-Jack  
-English (AU)  
-Male
-
-![male](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![en](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/au.svg)![Mason](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/mason.png)
-
-Mason  
-English (AU)  
-Male
-
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![en](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/au.svg)![Mia](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/mia.png)
-
-Mia  
-English (AU)  
-Female
-
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![en](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/in.svg)![Priya](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/priya.png)
-
-Priya  
-English (India)  
-Female
-
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![en](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/ie.svg)![Shannon](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/shannon.png)
-
-Shannon  
-English (Ireland)  
-Female
-
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![en](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/nz.svg)![Olivia](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/olivia.png)
-
-Olivia  
-English (New Zealand)  
-Female
-
-![male](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![en](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/sc.svg)![Aidan](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/aidan.png)
-
-Aidan  
-English (Scotland)  
-Male
-
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![en](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/sc.svg)![Iona](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/iona.png)
-
-Iona  
-English (Scotland)  
-Female
-
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![en](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/za.svg)![Alyssa](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/alyssa.png)
-
-Alyssa  
-English (South Africa)  
-Female
-
-![male](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![en](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/gb.svg)![Adam](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/adam.png)
-
-Adam  
-English (UK)  
-Male
-
-![male](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![en](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/gb.svg)![Barwyn](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/barwyn.png)
-
-Barwyn  
-English (UK)  
-Male
-
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![en](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/gb.svg)![Branwen](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/branwen.png)
-
-Branwen  
-English (UK)  
-Female
-
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![en](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/gb.svg)![Bridget](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/bridget.png)
-
-Bridget  
-English (UK)  
-Female
-
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![en](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/gb.svg)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![en](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/gb.svg)![Gemma](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/gemma.png)
 
 Gemma  
 English (UK)  
 Female
 
-![male](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![en](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/gb.svg)![Hugh](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/hugh.png)
+![male](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![en](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/us.svg)![Roy](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/roy.png)
 
-Hugh  
-English (UK)  
+Roy  
+English (US)  
 Male
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![en](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/us.svg)![Ashley](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/ashley.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![en](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/us.svg)![Kayla](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/kayla.png)
 
-Ashley  
+Kayla  
 English (US)  
 Female
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![en](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/us.svg)![Beth](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/beth.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![en](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/us.svg)![Sophie](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/sophie.png)
+
+Sophie  
+English (US)  
+Female
+
+![male](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![en](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/au.svg)![Jack](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/jack.png)
+
+Jack  
+English (AU)  
+Male
+
+![male](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![en](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/au.svg)![Mason](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/mason.png)
+
+Mason  
+English (AU)  
+Male
+
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![en](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/au.svg)![Mia](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/mia.png)
+
+Mia  
+English (AU)  
+Female
+
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![en](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/in.svg)![Priya](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/priya.png)
+
+Priya  
+English (India)  
+Female
+
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![en](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/ie.svg)![Shannon](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/shannon.png)
+
+Shannon  
+English (Ireland)  
+Female
+
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![en](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/nz.svg)![Olivia](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/olivia.png)
+
+Olivia  
+English (New Zealand)  
+Female
+
+![male](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![en](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/gb.svg)![Aidan](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/aidan.png)
+
+Aidan  
+English (Scotland)  
+Male
+
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![en](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/gb.svg)![Iona](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/iona.png)
+
+Iona  
+English (Scotland)  
+Female
+
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![en](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/za.svg)![Alyssa](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/alyssa.png)
+
+Alyssa  
+English (South Africa)  
+Female
+
+![male](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![en](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/gb.svg)![Adam](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/adam.png)
+
+Adam  
+English (UK)  
+Male
+
+![male](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![en](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/gb.svg)![Barwyn](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/barwyn.png)
+
+Barwyn  
+English (UK)  
+Male
+
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![en](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/gb.svg)![Branwen](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/branwen.png)
+
+Branwen  
+English (UK)  
+Female
+
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![en](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/gb.svg)![Bridget](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/bridget.png)
+
+Bridget  
+English (UK)  
+Female
+
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![en](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/us.svg)![Beth](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/beth.png)
 
 Beth  
 English (US)  
 Female
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![en](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/us.svg)![Erin](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/erin.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![en](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/us.svg)![Erin](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/erin.png)
 
 Erin  
 English (US)  
 Female
 
-![male](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![en](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/us.svg)![James](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/james.png)
-
-James  
-English (US)  
-Male
-
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![en](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/us.svg)![Julie](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/julie.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![en](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/us.svg)![Julie](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/julie.png)
 
 Julie  
 English (US)  
 Female
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![en](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/us.svg)![Kate](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/kate.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![en](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/us.svg)![Kate](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/kate.png)
 
 Kate  
 English (US)  
 Female
 
-![male](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![en](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/us.svg)![Mark](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/mark.png)
+![male](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![en](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/us.svg)![Mark](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/mark.png)
 
 Mark  
 English (US)  
 Male
 
-![male](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![en](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/us.svg)![Paul](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/paul.png)
+![male](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![en](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/us.svg)![Paul](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/paul.png)
 
 Paul  
 English (US)  
 Male
 
-![male](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![en](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/us.svg)![Samuel](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/samuel.png)
+![male](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![en](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/us.svg)![Samuel](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/samuel.png)
 
 Samuel  
 English (US)  
 Male
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![fi](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/fi.svg)![Elina](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/elina.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![fi](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/fi.svg)![Elina](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/elina.png)
 
 Elina  
 Finnish  
 Female
 
-![male](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![nl](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/be.svg)![Luc](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/luc.png)
-
-Luc  
-Flemish  
-Male
-
-![male](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![fr](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/fr.svg)![Benoit](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/benoit.png)
+![male](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![fr](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/fr.svg)![Benoit](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/benoit.png)
 
 Benoit  
 French  
 Male
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![fr](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/fr.svg)![Roxane](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/roxane.png)
-
-Roxane  
-French  
-Female
-
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![fr](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/fr.svg)![Elise](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/elise.png)
-
-Elise  
-French  
-Female
-
-![male](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![fr](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/fr.svg)![Louis](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/louis.png)
+![male](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![fr](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/fr.svg)![Louis](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/louis.png)
 
 Louis  
 French  
 Male
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![fr](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/ca.svg)![Chloe](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/chloe.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![fr](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/fr.svg)![Roxane](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/roxane.png)
+
+Roxane  
+French  
+Female
+
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![fr](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/fr.svg)![Elise](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/elise.png)
+
+Elise  
+French  
+Female
+
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![fr](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/ca.svg)![Chloe](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/chloe.png)
 
 Chloe  
 French (Canada)  
 Female
 
-![male](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![fr](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/ca.svg)![Leo](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/leo.png)
+![male](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![de](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/de.svg)![Emil](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/emil.png)
 
-Leo  
-French (Canada)  
+Emil  
+German  
 Male
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![de](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/de.svg)![Klara](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/klara.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![de](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/de.svg)![Klara](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/klara.png)
 
 Klara  
 German  
 Female
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![de](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/de.svg)![Lena](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/lena.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![de](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/de.svg)![Lena](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/lena.png)
 
 Lena  
 German  
 Female
 
-![male](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![de](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/de.svg)![Max](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/max.png)
+![male](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![de](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/de.svg)![Max](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/max.png)
 
 Max  
 German  
 Male
 
-![male](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![de](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/de.svg)![Tim](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/tim.png)
+![male](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![de](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/de.svg)![Tim](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/tim.png)
 
 Tim  
 German  
 Male
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![el](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/gr.svg)![Irini](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/irini.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![el](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/gr.svg)![Irini](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/irini.png)
 
 Irini  
 Greek  
 Female
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![he](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/il.svg)![Yael](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/yael.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![he](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/il.svg)![Yael](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/yael.png)
 
 Yael  
 Hebrew  
 Female
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![hi](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/in.svg)![Diya](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/diya.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![hi](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/in.svg)![Diya](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/diya.png)
 
 Diya  
 Hindi  
 Female
 
-![male](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![hu](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/hu.svg)![Attila](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/attila.png)
+![male](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![hu](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/hu.svg)![Attila](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/attila.png)
 
 Attila  
 Hungarian  
 Male
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![hu](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/hu.svg)![Kinga](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/kinga.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![hu](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/hu.svg)![Kinga](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/kinga.png)
 
 Kinga  
 Hungarian  
 Female
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![is](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/is.svg)![Hildur](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/hildur.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![is](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/is.svg)![Hildur](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/hildur.png)
 
 Hildur  
 Icelandic  
 Female
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![id](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/id.svg)![Annisa](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/annisa.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![id](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/id.svg)![Annisa](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/annisa.png)
 
 Annisa  
 Indonesian  
 Female
 
-![male](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![id](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/id.svg)![Bayu](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/bayu.png)
+![male](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![id](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/id.svg)![Bayu](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/bayu.png)
 
 Bayu  
 Indonesian  
 Male
 
-![male](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![it](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/it.svg)![Matteo](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/matteo.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![it](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/it.svg)![Gaia](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/gaia.png)
+
+Gaia  
+Italian  
+Female
+
+![male](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![it](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/it.svg)![Matteo](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/matteo.png)
 
 Matteo  
 Italian  
 Male
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![it](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/it.svg)![Elisa](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/elisa.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![it](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/it.svg)![Elisa](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/elisa.png)
 
 Elisa  
 Italian  
 Female
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![it](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/it.svg)![Gina](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/gina.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![it](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/it.svg)![Gina](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/gina.png)
 
 Gina  
 Italian  
 Female
 
-![male](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![it](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/it.svg)![Roberto](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/roberto.png)
+![male](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![it](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/it.svg)![Roberto](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/roberto.png)
 
 Roberto  
 Italian  
 Male
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![ja](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/jp.svg)![Hina](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/hina.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![ja](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/jp.svg)![Hina](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/hina.png)
 
 Hina  
 Japanese  
 Female
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![ja](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/jp.svg)![Kanna](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/kanna.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![ja](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/jp.svg)![Kanna](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/kanna.png)
 
 Kanna  
 Japanese  
 Female
 
-![male](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![ja](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/jp.svg)![Kota](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/kota.png)
+![male](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![ja](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/jp.svg)![Kota](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/kota.png)
 
 Kota  
 Japanese  
 Male
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![ja](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/jp.svg)![Nao](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/nao.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![ja](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/jp.svg)![Nao](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/nao.png)
 
 Nao  
 Japanese  
 Female
 
-![male](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![ja](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/jp.svg)![Robota](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/robota.png)
+![male](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![ja](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/jp.svg)![Robota](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/robota.png)
 
 Robota  
 Japanese  
 Male
 
-![male](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![ja](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/jp.svg)![Tsuna](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/tsuna.png)
+![male](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![ja](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/jp.svg)![Tsuna](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/tsuna.png)
 
 Tsuna  
 Japanese  
 Male
 
-![male](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![ja](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/jp.svg)![Akira](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/akira.png)
+![male](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![ja](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/jp.svg)![Akira](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/akira.png)
 
 Akira  
 Japanese  
 Male
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![ja](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/jp.svg)![Erica](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/erica.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![ja](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/jp.svg)![Erica](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/erica.png)
 
 Erica  
 Japanese  
 Female
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![ja](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/jp.svg)![Haruka](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/haruka.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![ja](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/jp.svg)![Haruka](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/haruka.png)
 
 Haruka  
 Japanese  
 Female
 
-![male](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![ja](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/jp.svg)![Hayato](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/hayato.png)
+![male](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![ja](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/jp.svg)![Hayato](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/hayato.png)
 
 Hayato  
 Japanese  
 Male
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![ja](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/jp.svg)![Hikari](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/hikari.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![ja](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/jp.svg)![Hikari](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/hikari.png)
 
 Hikari  
 Japanese  
 Female
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![ja](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/jp.svg)![Mayu](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/mayu.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![ja](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/jp.svg)![Mayu](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/mayu.png)
 
 Mayu  
 Japanese  
 Female
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![ja](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/jp.svg)![Misaki](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/misaki.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![ja](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/jp.svg)![Misaki](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/misaki.png)
 
 Misaki  
 Japanese  
 Female
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![ja](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/jp.svg)![Risa](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/risa.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![ja](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/jp.svg)![Risa](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/risa.png)
 
 Risa  
 Japanese  
 Female
 
-![male](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![ja](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/jp.svg)![Ryo](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/ryo.png)
+![male](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![ja](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/jp.svg)![Ryo](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/ryo.png)
 
 Ryo  
 Japanese  
 Male
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![ja](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/jp.svg)![Sayaka](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/sayaka.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![ja](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/jp.svg)![Sayaka](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/sayaka.png)
 
 Sayaka  
 Japanese  
 Female
 
-![male](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![ja](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/jp.svg)![Show](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/show.png)
+![male](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![ja](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/jp.svg)![Show](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/show.png)
 
 Show  
 Japanese  
 Male
 
-![male](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![ja](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/jp.svg)![Takeru](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/takeru.png)
+![male](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![ja](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/jp.svg)![Takeru](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/takeru.png)
 
 Takeru  
 Japanese  
 Male
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![ja](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/jp.svg)![Yuina](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/yuina.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![ja](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/jp.svg)![Yuina](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/yuina.png)
 
 Yuina  
 Japanese  
 Female
 
-![male](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![ja](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/jp.svg)![Yuuji](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/yuuji.png)
+![male](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![ja](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/jp.svg)![Yuuji](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/yuuji.png)
 
 Yuuji  
 Japanese  
 Male
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![ja](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/jp.svg)![Yuuka](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/yuuka.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![ja](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/jp.svg)![Yuuka](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/yuuka.png)
 
 Yuuka  
 Japanese  
 Female
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![ko](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/kr.svg)![Hyeryun](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/hyeryun.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![ko](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/kr.svg)![Hyeryun](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/hyeryun.png)
 
 Hyeryun  
 Korean  
 Female
 
-![male](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![ko](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/kr.svg)![Jihun](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/jihun.png)
+![male](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![ko](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/kr.svg)![Jihun](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/jihun.png)
 
 Jihun  
 Korean  
 Male
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![ko](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/kr.svg)![Dayoung](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/dayoung.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![ko](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/kr.svg)![Dayoung](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/dayoung.png)
 
 Dayoung  
 Korean  
 Female
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![ko](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/kr.svg)![Harin](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/harin.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![ko](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/kr.svg)![Harin](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/harin.png)
 
 Harin  
 Korean  
 Female
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![ko](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/kr.svg)![Hyuna](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/hyuna.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![ko](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/kr.svg)![Hyuna](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/hyuna.png)
 
 Hyuna  
 Korean  
 Female
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![ko](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/kr.svg)![Jimin](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/jimin.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![ko](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/kr.svg)![Jimin](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/jimin.png)
 
 Jimin  
 Korean  
 Female
 
-![male](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![ko](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/kr.svg)![Junwoo](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/junwoo.png)
+![male](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![ko](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/kr.svg)![Junwoo](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/junwoo.png)
 
 Junwoo  
 Korean  
 Male
 
-![male](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![ko](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/kr.svg)![Maru](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/maru.png)
+![male](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![ko](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/kr.svg)![Maru](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/maru.png)
 
 Maru  
 Korean  
 Male
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![ko](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/kr.svg)![Sena](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/sena.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![ko](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/kr.svg)![Sena](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/sena.png)
 
 Sena  
 Korean  
 Female
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![ko](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/kr.svg)![Yumi](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/yumi.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![ko](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/kr.svg)![Yumi](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/yumi.png)
 
 Yumi  
 Korean  
 Female
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![ko](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/kr.svg)![Yura](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/yura.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![ko](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/kr.svg)![Yura](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/yura.png)
 
 Yura  
 Korean  
 Female
 
-![male](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![lv](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/lv.svg)![Oskars](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/oskars.png)
+![male](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![lv](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/lv.svg)![Oskars](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/oskars.png)
 
 Oskars  
 Latvian  
 Male
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![nb](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/no.svg)![Lykke](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/lykke.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![nb](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/no.svg)![Lykke](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/lykke.png)
 
 Lykke  
 Norwegian (Bokmål)  
 Female
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![pl](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/pl.svg)![Aneta](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/aneta.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![pl](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/pl.svg)![Aneta](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/aneta.png)
 
 Aneta  
 Polish  
 Female
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![pt](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/pt.svg)![Carolina](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/carolina.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![pt](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/pt.svg)![Carolina](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/carolina.png)
 
 Carolina  
 Portuguese  
 Female
 
-![male](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![pt](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/pt.svg)![Tiago](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/tiago.png)
+![male](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![pt](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/pt.svg)![Tiago](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/tiago.png)
 
 Tiago  
 Portuguese  
 Male
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![pt](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/br.svg)![Helena](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/helena.png)
-
-Helena  
-Portuguese (Brazil)  
-Female
-
-![male](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![pt](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/br.svg)![Rafael](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/rafael.png)
-
-Rafael  
-Portuguese (Brazil)  
-Male
-
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![ro](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/ro.svg)![Adina](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/adina.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![ro](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/ro.svg)![Adina](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/adina.png)
 
 Adina  
 Romanian  
 Female
 
-![male](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![ro](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/ro.svg)![Teodor](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/teodor.png)
+![male](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![ro](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/ro.svg)![Teodor](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/teodor.png)
 
 Teodor  
 Romanian  
 Male
 
-![male](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![ru](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/ru.svg)![Aleksei](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/aleksei.png)
+![male](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![ru](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/ru.svg)![Aleksei](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/aleksei.png)
 
 Aleksei  
 Russian  
 Male
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![ru](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/ru.svg)![Vera](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/vera.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![ru](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/ru.svg)![Vera](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/vera.png)
 
 Vera  
 Russian  
 Female
 
-![male](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![sk](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/sk.svg)![Jakub](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/jakub.png)
+![male](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![sk](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/sk.svg)![Jakub](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/jakub.png)
 
 Jakub  
 Slovak  
 Male
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![sk](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/sk.svg)![Simona](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/simona.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![sk](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/sk.svg)![Simona](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/simona.png)
 
 Simona  
 Slovak  
 Female
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![es](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/es.svg)![Pilar](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/pilar.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![es](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/es.svg)![Isabel](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/isabel.png)
+
+Isabel  
+Spanish (Castilian)  
+Female
+
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![es](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/es.svg)![Pilar](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/pilar.png)
 
 Pilar  
 Spanish (Castilian)  
 Female
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![es](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/ar.svg)![Alba](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/alba.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![es](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/ar.svg)![Alba](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/alba.png)
 
 Alba  
 Spanish (Argentina)  
 Female
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![es](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/es.svg)![Lola](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/lola.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![es](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/es.svg)![Lola](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/lola.png)
 
 Lola  
 Spanish (Castilian)  
 Female
 
-![male](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![es](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/es.svg)![Manuel](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/manuel.png)
+![male](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![es](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/es.svg)![Manuel](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/manuel.png)
 
 Manuel  
 Spanish (Castilian)  
 Male
 
-![male](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![es](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/mx.svg)![Francisco](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/francisco.png)
-
-Francisco  
-Spanish (Mexico)  
-Male
-
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![es](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/mx.svg)![Gloria](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/gloria.png)
-
-Gloria  
-Spanish (Mexico)  
-Female
-
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![es](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/mx.svg)![Violeta](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/violeta.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![es](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/mx.svg)![Violeta](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/violeta.png)
 
 Violeta  
 Spanish (Mexico)  
 Female
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![sv](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/se.svg)![Majsan](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/majsan.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![sv](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/se.svg)![Majsan](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/majsan.png)
 
 Majsan  
 Swedish  
 Female
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![sv](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/se.svg)![Maja](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/maja.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![sv](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/se.svg)![Maja](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/maja.png)
 
 Maja  
 Swedish  
 Female
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![sv](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/se.svg)![Karin](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/karin.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![sv](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/se.svg)![Karin](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/karin.png)
 
 Karin  
 Swedish  
 Female
 
-![male](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![sv](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/se.svg)![Sven](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/sven.png)
+![male](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![sv](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/se.svg)![Sven](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/sven.png)
 
 Sven  
 Swedish  
 Male
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![sv](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/fi.svg)![Saga](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/saga.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![sv](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/fi.svg)![Saga](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/saga.png)
 
 Saga  
 Swedish (Finland)  
 Female
 
-![male](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![th](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/th.svg)![Sarawut](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/sarawut.png)
+![male](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![th](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/th.svg)![Sarawut](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/sarawut.png)
 
 Sarawut  
 Thai  
 Male
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![th](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/th.svg)![Somsi](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/somsi.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![th](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/th.svg)![Somsi](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/somsi.png)
 
 Somsi  
 Thai  
 Female
 
-![male](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![tr](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/tr.svg)![Ozan](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/ozan.png)
+![male](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![tr](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/tr.svg)![Ozan](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/ozan.png)
 
 Ozan  
 Turkish  
 Male
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![tr](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/tr.svg)![Seda](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/seda.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![tr](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/tr.svg)![Seda](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/seda.png)
 
 Seda  
 Turkish  
 Female
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![uk](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/ua.svg)![Mila](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/mila.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![uk](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/ua.svg)![Mila](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/mila.png)
 
 Mila  
 Ukrainian  
 Female
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![vi](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/vn.svg)![Mai](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/mai.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![vi](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/vn.svg)![Mai](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/mai.png)
 
 Mai  
 Vietnamese  
 Female
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![cy](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/gb.svg)![Anwen](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/anwen.png)
+![female](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![cy](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/gb.svg)![Anwen](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/anwen.png)
 
 Anwen  
 Welsh  
 Female
 
-![male](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![cy](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/gb.svg)![Arwyn](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/arwyn.png)
+![male](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![cy](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/gb.svg)![Arwyn](https://readspeaker.test/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/arwyn.png)
 
 Arwyn  
 Welsh  
