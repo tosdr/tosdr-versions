@@ -12,6 +12,45 @@ Open menu
 
 Menu
 
+* Open NEW! The Entertainer dropdown[![NEW! The Entertainer](https://static.web-explore.prod.moonpig.net/_next/static/images/gift-d3ad42021d858e2f931dda63c7cd66cd.svg)
+    
+    NEW! The Entertainer](https://www.moonpig.com/uk/gifts/the-entertainer/)
+    
+    ### Toys By Age
+    
+    * [0-2 Years](https://www.moonpig.com/uk/gifts/early-learning-centre/all/)
+    * [3-5 Years](https://www.moonpig.com/uk/gifts/the-entertainer/3-5-years/)
+    * [6-8 Years](https://www.moonpig.com/uk/gifts/the-entertainer/6-8-years/)
+    * [9+ Years](https://www.moonpig.com/uk/gifts/the-entertainer/9-years/)
+    
+    ### Toys By Brand
+    
+    * [Hot Wheels](https://www.moonpig.com/uk/gifts/the-entertainer/hot-wheels/)
+    * [Paw Patrol](https://www.moonpig.com/uk/gifts/the-entertainer/paw-patrol/)
+    * [Barbie](https://www.moonpig.com/uk/gifts/the-entertainer/barbie/)
+    * [Bluey](https://www.moonpig.com/uk/gifts/the-entertainer/bluey/)
+    * [Disney](https://www.moonpig.com/uk/gifts/the-entertainer/disney/)
+    * [All Brands](https://www.moonpig.com/uk/gifts/the-entertainer/top-brands/)
+    
+    ### Toys By Type
+    
+    * [Soft Toys](https://www.moonpig.com/uk/gifts/the-entertainer/soft-toys/)
+    * [Action Toys](https://www.moonpig.com/uk/gifts/the-entertainer/action-toys/)
+    * [Educational Toys](https://www.moonpig.com/uk/gifts/the-entertainer/educational/)
+    * [Arts & Crafts](https://www.moonpig.com/uk/gifts/the-entertainer/arts-and-crafts/)
+    * [Bestsellers](https://www.moonpig.com/uk/gifts/the-entertainer/bestsellers/)
+    
+    ### Add The Perfect Card
+    
+    * [Birthday Cards For Boys](https://www.moonpig.com/uk/personalised-cards/birthday/for-kids/for-him/)
+    * [Birthday Cards For Girls](https://www.moonpig.com/uk/personalised-cards/birthday/for-kids/for-her/)
+    * [Hot Wheels](https://www.moonpig.com/uk/personalised-cards/hot-wheels/)
+    * [Paw Patrol](https://www.moonpig.com/uk/personalised-cards/paw-patrol/)
+    * [Barbie](https://www.moonpig.com/uk/personalised-cards/barbie/)
+    * [Disney](https://www.moonpig.com/uk/personalised-cards/disney/for-kids/)
+    * [Bluey](https://www.moonpig.com/uk/personalised-cards/bluey/)
+    * [All Kids Cards](https://www.moonpig.com/uk/personalised-cards/for-kids/all/)
+    
 * Open Birthday dropdown[![Birthday](https://static.web-explore.prod.moonpig.net/_next/static/images/birthday-f0b12328b3bd6540e96cf61a50bbbf53.svg)
     
     Birthday](https://www.moonpig.com/uk/birthday/)
