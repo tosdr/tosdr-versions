@@ -66,9 +66,7 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Duke Energy giving](/assets/Images/teasers/small/DukeEnergy2000-2014.png)](http://www.followthemoney.org/research/institute-reports/names-in-the-news-duke-energy/)
-
-Duke Energy giving to sitting governors, 2000-14
+[![Private Prison Industry  State-Level Contributions, 2016-2017](/assets/Images/teasers/small/Private-prison.JPG)](https://www.followthemoney.org/research/institute-reports/private-prisons-principally-profit-oriented-and-politically-pliable)
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
