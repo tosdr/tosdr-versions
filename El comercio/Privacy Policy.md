@@ -31,991 +31,1030 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Servicios consulares para ecuatorianos en Venezuela tendrán cambios
-===================================================================
+Metástasis: la descomposición del sistema judicial
+==================================================
 
-Ecuatorianos en Venezuela tienen opciones para servicios consulares.
---------------------------------------------------------------------
+La reciente acusación de la Fiscalía en el caso Metástasis, que involucra a Leandro Norero, uno de los capos de la droga en Ecuador, pone de manifiesto el alcance de una red de corrupción que ha corrompido los cimientos del sistema judicial y penitenciario del país. El modus operandi revelado no solo es alarmante por \[…\]
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![Imagen referencial de servicios consulares para pasaportes.](https://www.elcomercio.com/wp-content/uploads/2024/09/servicios-consulares.jpg)
+![Imagen creada con inteligencia artificial con el prompt: imagen de un juez sin rostro que va a dictar sentencia.](https://www.elcomercio.com/wp-content/uploads/2024/09/Untitled-design-17.jpg)
 
-Los **servicios consulares en Venezuela** continuarán prestándose. Hay una variación que empieza este sábado, 14 de septiembre de 2024.
+La reciente acusación de la Fiscalía en el **caso Metástasis**, que involucra a Leandro Norero, uno de los capos de la droga en Ecuador, pone de manifiesto el alcance de una red de corrupción que ha corrompido los cimientos del sistema judicial y penitenciario del país. El modus operandi revelado no solo es alarmante por la cantidad de **personas implicadas**, sino por la facilidad con la que esta estructura delictiva operaba dentro de instituciones clave del **Estado**[.](https://es.wikipedia.org/wiki/Caso_Met%C3%A1stasis "https://es.wikipedia.org/wiki/Caso_Met%C3%A1stasis")
 
-La **Cancillería de Ecuador** informó que habrá servicios en línea y atención en consulados en dos países de la región.
+> Uno de los elementos más escalofriantes de este caso es la implicación de altos funcionarios del Estado, aquellos encargados de velar por el cumplimiento de la ley y la seguridad pública. 
 
-### Más noticias
+Es inevitable preguntarse cómo es posible que un entramado tan [complejo](https://www.elcomercio.com/actualidad/seguridad/fiscalia-expone-como-operaba-leandro-norero-caso-metastasis.html "https://www.elcomercio.com/actualidad/seguridad/fiscalia-expone-como-operaba-leandro-norero-caso-metastasis.html"), que involucra a abogados, jueces, fiscales, agentes penitenciarios y hasta **altos funcionarios**, se haya sostenido durante tanto tiempo sin ser detectado o enfrentado. La respuesta, aunque incómoda, parece clara: cuando el sistema que debe impartir justicia está infiltrado por la corrupción, aquellos con poder y dinero pueden comprar cualquier beneficio, sin importar el costo para la sociedad.
 
-* [Ley de Armas con veto parcial ¿Qué cambios propone Daniel Noboa?](https://www.elcomercio.com/actualidad/politica/ley-de-armas-con-veto-parcial-que-cambios-propone-daniel-noboa.html)
-* [Donald Trump descarta participar en otro debate con Kamala Harris](https://www.elcomercio.com/actualidad/mundo/donald-trump-descarta-participar-debate-kamala-harris.html)
+Uno de los aspectos más preocupantes de este caso es la implicación directa de profesionales del derecho. Algunos abogados se presentan no como defensores de la ley, sino como facilitadores de un **sistema corrupto**, donde las sentencias y decisiones judiciales pueden ser compradas al mejor postor. La imagen del abogado como un garante de la justicia queda absolutamente mancillada.
 
-Servicios consulares en Venezuela y los cambios
------------------------------------------------
+Estos profesionales habrían utilizado sus conocimientos y contactos para manipular procesos legales y garantizar que **Leandro Norero** y sus colaboradores gozaran de impunidad. La Fiscalía ha revelado que estos abogados, junto con algunos jueces jugaron un rol determinante en la concesión de beneficios judiciales, como la modificación de **sentencias** o la emisión de **hábeas corpus** favorables a la organización.
 
-La **Cancillería** informó que los servicios consulares para los ciudadanos ecuatorianos que se encuentran en Venezuela seguirán. No tendrán que, indispensablemente, trasladarse a otro país.
+La penetración de esta red criminal no se detuvo en los juzgados. Las cárceles del país, que deberían ser lugares de rehabilitación y castigo, se han convertido en **refugios** donde el dinero puede comprar cualquier privilegio. Varios funcionarios penitenciarios habrían facilitado el ingreso de **artículos** **prohibidos** y brindado información a Leandro Norero sobre operativos de inteligencia, asegurando que sus días en prisión fueran lo más cómodos posible.
 
-Las variaciones se dan como parte del plan de acción tras el cierre del **consulado ecuatoriano** en ese país. Estos empezarán desde el 14 de septiembre de 2024.
+Uno de los elementos más escalofriantes de este caso es la implicación de **altos funcionarios del Estado**, aquellos encargados de velar por el cumplimiento de la ley y la seguridad pública. 
 
-Los trámites de **pasaportes** de emergencia, apostillas y legalizaciones se atenderán en los consulados de Ecuador en **Bogotá y Panamá**, vía telemática.
+El caso Metástasis es un espejo de la realidad del país. Las instituciones encargadas de garantizar la justicia y la seguridad están gravemente comprometidas. El hecho de que abogados, jueces, fiscales, funcionarios penitenciarios y altos mandos de la Policía estén **implicados en esta red de corrupción** no solo revela un caso puntual de criminalidad organizada, sino un síntoma de la descomposición generalizada del sistema.
 
-Los requisitos para los trámites
---------------------------------
+Si no se toman medidas drásticas y profundas para reformar estas instituciones, es posible que casos como el de Leandro Norero sigan proliferando. El caso Metástasis debe servir como una **llamada de atención urgente** para reformar un sistema que, si sigue por este camino, estará condenado al colapso.
 
-Para el p**asaporte de emergencia,** las personas deben solicitar el documento a través de correo electrónico a una de las oficinas consulares en Bogotá o Ciudad de Panamá. Este se emitirá de forma electrónica.
+Lecturas que reviven ideales
+============================
 
-En el caso de **apostillas y legalizaciones** de apostillas y legalizaciones de documentos emitidos por autoridades ecuatorianas **con firma electrónica** y generados en línea, la gestión también es en [línea](https://serviciosdigitales.cancilleria.gob.ec/authentication).
+Elijamos autoridades honestas y enfrentemos, con decisión y firmeza, a la corrupción.
+-------------------------------------------------------------------------------------
 
-Los contactos en los consulados
--------------------------------
+![Reinaldo Páez Z., columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Reinaldo-Paez-Z.jpg)
 
-* **Consulado General de Ecuador en Bogotá:**  cecubog@cancilleria.gob.ec y (57) 12126512, a las extensiones 101-108.
-* **Sección Consular del Ecuador en Panamá:** cecupanama@cancilleria.gob.ec y (507) 2642654/ (507) 2647820.
+Enorme regocijo origina la **lectura** de la **novela histórica**, “**El Fuego Interior**” fruto de la prolífica **escritora** **Águeda Pallares**; su lectura es tan cautivadora que atrapa al lector y lo abraza entre hermosas **metáforas**, bellas **descripciones** geográficas y situaciones cambiantes que exhalan amor, pasión, patriotismo, lealtad y ejemplar honestidad. El **relato poético** permite percibir el sudor de los valientes soldados que, bajo el mando del general Antonio José de Sucre, cumplían las órdenes del libertador Simón Bolívar, para transportar a caballo, cañones, lanzas, fusiles y otros **pertrechos bélicos**, a través de “largos caminos, bajo la **lluvia**, el **sol abrazador**, las noches heladas y la mala alimentación…” “Atravesaban estrechos valles de paisajes pristinos y hermosas vistas. Las **ciudades** por las que pasaban estaban perdidas en el tiempo” Las montañas y las **quebradas** profundas, no constituían **obstáculos** infranqueables en el desplazamiento de los ejércitos que, imbuidos de **patriotismo**, sorprendieron a las poderosas **fuerzas realistas**. Las elegantes y armoniosamente hilvanadas frases dedicadas al **héroe** y sin par personaje **Antonio José de Sucre**, nos transportan a los campos de **batalla** del Pichincha y de Ayacucho, nos contagian del olor, a pólvora, a dolor y a la **sangre** que derramaron los bravos **soldados** para legarnos la **libertad**.
 
-El cambio de domicilio electoral también es en línea, a través de la página del **Consejo Nacional Electoral (CNE)**, por medio de este [link](https://www.cne.gob.ec/servicios-en-linea/).
+La **obra** narra que, una vez liberado el Perú, el **Mariscal Sucre** fue designado primer presidente de Bolivia; “el nuevo país florecía y el ejército se preparaba bajo la **supervisión** de su comandante” “los hombres, que antes gozaban de **poder ilimitado**, no soportaban a Sucre porque gobernaba de forma autoritaria, sin desviarse del camino de la **virtud** y la **honestidad**, no se podía lucrar de las arcas de la **república**, atrasarse o hacer mal el trabajo”
 
-Para quienes tengan que enviar paquetes a familiares, sin aranceles, la Cancillería apuntó que deben registrarse mediante un enlace [definido](https://serviciopaqueteria.cancilleria.gob.ec/).
+Añadía el joven general “vamos a erradicar de una vez por todas esas malas mañas. Nunca construiremos una verdadera **democracia** mientras no logremos sembrar la **honestidad** y el cumplimiento del deber en la **conciencia** de los **ciudadanos**” …”si no se obedece mi **mandato** asegúrese de que se aplique la pena de muerte a los **corruptos**” “En la reunión con sus **ministros**, Sucre planteó la urgencia que tenía en conseguir recursos para cubrir **gastos** de **educación** y **salud**”.
 
-Entre los servicios del [Registro Civil](https://apps.registrocivil.gob.ec/portalCiudadano/index.jsf) que se pueden gestionar en línea están la emisión de copia de actas de nacimiento, defunción, matrimonio, unión de hecho, así como certificados de datos de identidad y estado civil.
+Han transcurrido dos siglos desde que el **Mariscal Sucre** y el Libertador **Simón Bolívar** anhelaban que, en los **países liberados** por ellos, se elimine la **corrupción** e inclusive planteaban la **pena capital** para los **corruptos** y ansiaban financiar la **salud** y la **educación**, como acciones fundamentales de gobierno. Qué positivo sería que, en el **momento actual**, se actualicen esos **programas** y que alguno de los 16 aspirantes a ocupar **Carondelet,** exponga **proyectos** de **gobiernos** similares y aboguen por dar fin a la **corrupción** que está destruyendo a **nuestro país**. La triste realidad es que ningún **candidato** presenta propósitos de gestión y la gran mayoría se mantiene inmersa en las **redes sociales** y en **programas faranduleros** que no garantizan un **futuro útil** para el país.
 
-**Trámites notariales**
------------------------
+Es inaudito que en lugar de que la **Asamblea** elabore leyes que cimienten las bases de un verdadero **sistema nacional de salud**, que modernicen y mejoren la **educación**, que detengan la **destrucción** del Instituto Ecuatoriano de Seguridad Social (IESS), que impidan la **degeneración judicial**, que den mal uso al tiempo de **trabajo** y lo desperdicien en la **planificación** de **juicios políticos**, orientados a desestabilizar a los gobiernos de turno y a beneficiar a **exfuncionarios** que delinquieron y fueron juzgados y **sentenciados**. Esa actitud, de **protección** a los condenados, divide al país entre los **honestos**, que defienden la **democracia** y la **justicia**, y los **corruptos**, que dan cabida a **personajes** que han saqueado las **arcas nacionales** y aspiran a seguir haciéndolo, sin ningún recato.
 
-Los ecuatorianos que requieran un acto notarial tienen la opción de acudir a cualquier notaria venezolana y **apostillarlos ante la autoridad competente.** La Cancillería recordó que tienen plena validez en Ecuador, debido a que los dos países son parte de la **Convención de la Apostilla de La Haya de 1961**.
+Es un **enfrentamiento** entre el bien y el mal, en varias batallas; en la última triunfó la valiente representante de la lucha contra la **corrupción**, la **Fiscal General Diana Salazar**, cuya acción frontal ha permitido descubrir una enorme **podredumbre** del **sistema judicial** y sancionar a abogados, jueces, fiscales, militares y policías, en varios casos abiertos.
 
-La gestión de visas
--------------------
+Honremos la **memoria** de **Bolívar** y de **Sucre**, nos sumemos al **ejército** de **dignidad** y **corrección**, elijamos **autoridades** **honestas** y enfrentemos, con decisión y firmeza, a la **corrupción**.
 
-Para las gestiones relacionadas con las visas, el **Ministerio de Relaciones Exteriores y Movilidad Humana** implementó el sistema **eVisas**. Este ya está en operación desde el 1 de julio de 2024. A través de la siguiente página [web](https://serviciosdigitales.cancilleria.gob.ec/authentication).
-
-No obstante, las entrevistas de los **menores de edad** y la revisión de documentación en casos necesarios deben desarrollarse presencialmente en los Consulados del Ecuador más cercanos.
-
-En casos de vulnerabilidad
---------------------------
-
-Las personas en situación de vulnerabilidad que se encuentran en **Venezuela** deberán dirigirse al correo electrónico del **Consulado de Ecuador en Bogotá**: cecubogota@cancillería.gob.ec o al teléfono de emergencia (57) 313 841 4045.
-
-Entre los casos que pueden atender en el **Consulado en Bogotá** están:
-
-* **Repatriación de cadáveres**, restitución de menores de edad, retornos asistidos, en coordinación con las direcciones zonales.
-* La OIM puede apoyar en coordinación con el **Consulado de Ecuador** en Bogotá para el tema de retornos asistidos.
-
-En cambio, la Cancillería alertó que los casos de **extrema vulnerabilidad** que no puedan ser atendidos desde Bogotá, serán gestionados desde las Direcciones Zonales de la institución ecuatoriana, junto a la Dirección de Protección a Ecuatorianos en el Exterior.
-
-Muere Chad McQueen, recordado actor de ‘Karate Kid’
-===================================================
-
-El artista murió a los 63 años en Palm Springs. Su muerte fue confirmada por su familia, aunque aún no se han dado detalles.
-----------------------------------------------------------------------------------------------------------------------------
-
-![El actor ganó notoriedad con su papel en la primera entrega de ‘Karate Kid’ en 1984 y repitió su personaje en la secuela de 1986.](https://www.elcomercio.com/wp-content/uploads/2024/09/Chad-McQueen.jpg)
-
-**Chad McQueen**, conocido por su papel como ‘Dutch’ en las películas de **‘Karate Kid’** e hijo del icónico Steve McQueen, **falleció a los 63 años**. El actor murió en su residencia de Palm Springs, California, y dejó un legado en el mundo del cine y las carreras automovilísticas.
-
-### Más noticias
-
-* [Fallece James Earl Jones, la voz icónica de Darth Vader y Mufasa](https://www.elcomercio.com/tendencias/entretenimiento/james-earl-jones-deceso-actor.html "Fallece James Earl Jones, la voz icónica de Darth Vader y Mufasa")
-* [Postergan el juicio por la muerte Diego Maradona](https://www.elcomercio.com/deportes/postergan-el-juicio-por-la-muerte-diego-maradona.html "Postergan el juicio por la muerte Diego Maradona")
-* [Muere presunto femicida de Rebecca Cheptegei por quemaduras](https://www.elcomercio.com/actualidad/mundo/muere-presunto-femicida-de-rebecca-cheptegei-por-quemaduras.html "Muere presunto femicida de Rebecca Cheptegei por quemaduras")
-
-Un adiós inesperado
--------------------
-
-Aunque no se han **revelado detalles** sobre las causas de su muerte, se confirmó que su **fallecimiento** ocurrió este miércoles. La noticia fue compartida por su familia, quienes expresaron su dolor a través de un comunicado difundido por ‘Variety’. 
-
-En el mensaje, su esposa Jeanie y sus hijos Chase, Steven y Madison señalaron: “Con gran pesar anunciamos el fallecimiento de nuestro padre, **Chad McQueen**. Su notable tarea como padre amoroso para nosotros, junto **con su compromiso inquebrantable** con nuestra madre, verdaderamente ejemplificaron una vida llena de amor y dedicación”.
-
-También añadieron: “Su pasión **por las carreras** no solo destacó su talento excepcional, sino que también sirvió como una forma de honrar el legado de su padre, un testimonio de los valores inculcados en él”.
-
-El comunicado continuaba diciendo: “Él nos transmitió su pasión, conocimiento y dedicación, y continuaremos **no solo su legado,** sino también el de nuestro abuelo. Como familia, debemos atravesar este momento difícil y pedimos amablemente privacidad mientras recordamos y celebramos su extraordinaria vida”. 
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/CgKJizRLN9J/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de Chad McQueen™ (@officialchadmcqueen)](https://www.instagram.com/p/CgKJizRLN9J/?utm_source=ig_embed&utm_campaign=loading)
-
-Un legado cinematográfico y automovilístico
--------------------------------------------
-
-**Chad McQueen n**o solo era conocido por ser el hijo de una estrella de Hollywood, sino que también se forjó su propio camino en la industria del entretenimiento. **Ganó notoriedad** con su papel en la primera entrega de ‘Karate Kid’ en 1984 y repitió su personaje en la secuela de 1986. Además, apareció en la serie ‘V, Invasión Extraterrestre’, **donde interpretó a ‘Dean’,** un joven que se unía a la resistencia contra los invasores alienígenas.
-
-El personaje de ‘Dutch’ en ‘Karate Kid’ se destacó por su apariencia y su carácter. Con su cabello rubio platinado y su actitud agresiva, **se convirtió en uno** de los villanos más memorables de la saga, alentando a Johnny Lawrence a atacar brutalmente a **Daniel LaRusso** en una de las escenas más emblemáticas. A pesar de los rumores sobre su regreso en la serie **‘Cobra Kai’,** su personaje no apareció en la serie, aunque se mencionó que ‘Dutch’ estaba en prisión.
-
-Más allá del cine, McQueen compartía una profunda pasión con su padre: la velocidad. **Fue piloto de carreras profesional y participó en competencias prestigiosas como las 24 Horas de Le Mans y las 12 Horas de Sebring.** También fundó McQueen Racing, una compañía dedicada al desarrollo de autos y motos de alto rendimiento.
-
-Un accidente que cambió su vida
--------------------------------
-
-A pesar de sus logros en el automovilismo, la carrera de Chad McQueen como piloto terminó abruptamente en 2006, cuando **sufrió un grave accidente mientras entrenaba para el Rolex 24 en el Daytona International Speedway.** El incidente casi le cuesta la vida y, aunque se recuperó, decidió retirarse del automovilismo profesional.
-
-Su hijo Chase, tras enterarse de la noticia, le dedicó u**n emotivo tributo en redes sociales**. En su cuenta de Instagram, compartió imágenes de su padre y escribió: “Fuiste un verdadero líder, el hombre más duro que he conocido. Fuiste amado por muchos y tenías una forma única de tocar la vida de todos los que conociste”.
-
-“Me impulsaste más fuerte de lo que ningún otro jamás podría, y por eso te estaré eternamente agradecido. Protegiste a nuestra familia con todo lo que tenías, y prometo continuar con ese legado. Saber que ahora **te has reunido con tu padre y hermana**, me trae algo de consuelo. Hasta que volvamos a correr juntos. [Te amo](https://es.wikipedia.org/wiki/The_Karate_Kid_(pel%C3%ADcula_de_1984) "https://es.wikipedia.org/wiki/The_Karate_Kid_(pel%C3%ADcula_de_1984)")”.
-
-Un renovado equipo de Ecuador inicia la Copa Davis ante Hong Kong
-=================================================================
-
-Con juventud y experiencia, Ecuador buscará volver al Grupo Mundial 1 de la Copa Davis. Para ello, deberá derrotar a Hong Kong.
--------------------------------------------------------------------------------------------------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/09/CopaDavis.jpg)
-
-El tenis ecuatoriano se alista para un desafío crucial en la **Copa Davis**, con la serie del Grupo Mundial II frente a **Hong Kong** desde este viernes 13 de septiembre de 2024.
-
-El ecuatoriano **Andrés Andrade,** de 25 años y situado en el puesto 250 del ranking **ATP**, abrirá la competencia enfrentando al joven talento hongkonés **Jack Cheng**, de 15 años y clasificado en el puesto 1.600 ATP.
-
-El encuentro dará inicio a las 23:00, hora de **Ecuador,** en el Victoria Park Tennis Stadium.
-
-### Más noticias:
-
-* [Andy Murray se retira del tenis en los Juegos Olímpicos](https://www.elcomercio.com/deportes/juegos-olimpicos/andy-murray-se-retira-del-tenis-juegos-olimpicos.html "Andy Murray se retira del tenis en los Juegos Olímpicos")
-* [Juan Martín Del Potro jugará contra Novak Djokovic en partido de despedida](https://www.elcomercio.com/deportes/tenis/juan-martin-del-potro-jugara-contra-novak-djokovic-en-partido-de-despedida.html "Juan Martín Del Potro jugará contra Novak Djokovic en partido de despedida")
-* [Machac se retira ante Alcaraz y España supera a la República Checa (2-0)](https://www.elcomercio.com/deportes/tenis/machac-retira-ante-alcaraz-espana-supera-republica-checa.html "Machac se retira ante Alcaraz y España supera a la República Checa (2-0)")
-
-Ecuador Copa Davis
-------------------
-
-El 12 de septiembre del 2024 se llevó a cabo el sorteo que definió la estructura de los partidos para la primera jornada.
-
-A continuación del duelo Andrade-Cheng, el local **Coleman Wong,** de 20 años y ubicado en el puesto 137 del ranking ATP, se medirá contra el ecuatoriano **Marcos Chan**, de 18 años y clasificado en el puesto 1.320 ATP.
-
-La segunda jornada, programada para el sábado 14 de septiembre a las 23:00 (hora de Ecuador), incluirá el partido de dobles.
-
-En esta instancia, los hongkoneses Chun Hun Wong, de 28 años y clasificado 2.112 ATP en dobles, y Coleman Wong se enfrentarán a los ecuatorianos **Gonzalo Escoba**r, de 35 años y número 54 ATP en dobles, y **Diego Hidalgo**, de 31 años y número 78 ATP en dobles.
-
-Los partidos de singles que definirán la serie seguirán al enfrentamiento de dobles, con los duelos **Andrés Andrade** contra Coleman Wong y **Marcos Chan** contra Jack Cheng.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/09/CopaDavisEcuador-1024x683.jpg)
-
-El equipo de Ecuador de Copa Davis con Raúl Viver (izq.), Andrés Andrade, Emilio Gómez, Marcos Chan, Gonzalo Escobar y Diego Hidalgo.
-
-Ecuador rumbo al Grupo Mundial 1 de Copa Davis
-----------------------------------------------
-
-El equipo que logre la victoria en esta serie avanzará a los playoffs del **Grupo Mundial I en 2025**, mientras que el equipo perdedor enfrentará un repechaje para mantenerse en el [Grupo Mundial II](https://es.wikipedia.org/wiki/Anexo:Play-offs_Grupo_Mundial_II_de_la_Copa_Davis_2024) el próximo año.
-
-La emoción está en el aire y el tenis ecuatoriano espera un desempeño destacable en esta crucial serie.
-
-Campaña de Kamala Harris lanza un anuncio en español para atraer a latinos
-==========================================================================
-
-Periodistas latinas destacan la capacidad de Kamala Harris para escuchar a las personas.
-----------------------------------------------------------------------------------------
-
-![La vicepresidenta y candidata presidencial demócrata, Kamala Harris, habla durante un mitin de campaña en el Bojangles Arena en Charlotte, Carolina del Norte, EE.UU.](https://www.elcomercio.com/wp-content/uploads/2024/09/Kamala-harris-efe-ok.jpg)
-
-La campaña de la vicepresidenta de Estados Unidos, [Kamala Harris](https://www.elcomercio.com/actualidad/mundo/kamala-harris-y-su-estrategia-para-ganar-el-debate-a-donald-trump.html "https://www.elcomercio.com/actualidad/mundo/kamala-harris-y-su-estrategia-para-ganar-el-debate-a-donald-trump.html"), anunció este viernes 13 de septiembre de 2024, un nuevo anuncio dirigido a los **votantes latinos de Pensilvania**, un estado crucial para las elecciones de noviembre y que la candidata visitará hoy.
-
-### Más noticias
-
-* [Donald Trump descarta participar en otro debate con Kamala Harris](https://www.elcomercio.com/actualidad/mundo/donald-trump-descarta-participar-debate-kamala-harris.html "Donald Trump descarta participar en otro debate con Kamala Harris")
-* [Kamala Harris y su estrategia para ganar el debate a Donald Trump](https://www.elcomercio.com/actualidad/mundo/kamala-harris-y-su-estrategia-para-ganar-el-debate-a-donald-trump.html "Kamala Harris y su estrategia para ganar el debate a Donald Trump")
-* [Medios de EE.UU. resaltan que Kamala Harris supo provocar en el debate](https://www.elcomercio.com/actualidad/mundo/medios-ee-uu-resaltan-kamala-harris-supo-provocar-debate.html "Medios de EE.UU. resaltan que Kamala Harris supo provocar en el debate")
-
-El anuncio, titulado ‘Mi voz’, cuenta con la participación de **Víctor Martínez,** presentador de La Mega Radio en Allentown. Se trata deuna figura respetada en esa localidad del este de Pensilvania, donde más del 54 % de los vecinos son latinos.
-
-En el anuncio, Martínez anuncia que votará por Harris por su capacidad para **escuchar y entender** las necesidades de las familias trabajadoras.
-
-Kamala Harris escucha
----------------------
-
-“Me llamo Víctor Martínez, quizás reconozcas mi voz. Entrevisté a muchos candidatos. Todos hablan, pero la diferencia es que **Kamala Harris escucha**“, afirma en el spot.
-
-Además, destaca el historial de Harris en su lucha “contra las **corporaciones codiciosas** que dificultan la compra de alimentos y el pago del alquiler”, con el objetivo de reducir costes para las familias trabajadoras latinas.
-
-Martínez es un líder reconocido de la comunidad latina en Pensilvania. En su programa matutino en español, ‘El Relajo de la Mañana”, dedica 30 minutos de las cuatro horas de emisión a informar a sus oyentes sobre cómo registrarse para votar. Además promociona a **candidatos latinos locales** y estatales, y animar a los latinos a involucrarse y presentarse a cargos públicos.
-
-Julie Chávez Rodríguez, jefa de campaña de Harris, explica en un comunicado que la elección de Martínez no es casual. Destaca su papel como “mensajero de confianza conocido por los votantes latinos en todo el estado clave de Pensilvania”, lo que resulta vital para que la campaña pueda establecer conexiones con la comunidad en ese estado.
-
-Harris visitará este jueves Johnstown y Wilkes-Barre, en Pensilvania, dos condados que el expresidente republicano Donald Trump ganó en las elecciones de 2016 y 2020.
-
-La elección de estos lugares responde al deseo de la campaña de aprovechar el **impulso del debate** del martes en Filadelfia. En este lugar Harris se mostró más hábil que Trump para atraer a votantes indecisos de cara a los comicios de noviembre.
-
-Metro de Quito superó los 40 millones de viajes
-===============================================
-
-La estación Quitumbe es la que concentra mayor afluencia de viajeros. Además, el sistema de accesos entre sistemas es un éxito
-------------------------------------------------------------------------------------------------------------------------------
-
-![El Metro de Quito funciona de lunes a viernes de 05:30 a 23:00.](https://www.elcomercio.com/wp-content/uploads/2024/09/Metro-de-Quito.jpg)
-
-El **Metro de Quito** informó que el domingo 8 de septiembre se superaron los 40 millones de viajes, durante los 10 meses de operación. **Las operaciones se iniciaron en diciembre** de 2023.
-
-### Más noticias
-
-* [Incendio en El Panecillo sería parte del ‘ataque que sufre Quito’](https://www.elcomercio.com/actualidad/quito/incendio-el-panecillo-parte-ataque-que-sufre-quito.html "Incendio en El Panecillo sería parte del ‘ataque que sufre Quito’")
-* [(Video) Incendio forestal en El Panecillo alarmó al centro de Quito](https://www.elcomercio.com/actualidad/quito/incendio-forestal-panecillo-alarma-quito-humo.html "(Video) Incendio forestal en El Panecillo alarmó al centro de Quito")
-* [Aeropuerto Mariscal Sucre de Quito reprograma vuelos de salida y llegada](https://www.elcomercio.com/actualidad/ecuador/aeropuerto-mariscal-sucre-de-quito-reprograma-vuelos-de-salida-y-llegada.html "Aeropuerto Mariscal Sucre de Quito reprograma vuelos de salida y llegada")
-
-Este número se alcanzó en **283 días ininterrumpidos** de operación del sistema de transporte subterráneo de la capital.
-
-Número de viajes promedio
--------------------------
-
-Durante estos 10 meses de operaciones, **el Metro** ha alcanzado estos viajes:
-
-* 994 000 viajes por semana
-* Más de 141 000 diarios
-
-Las **cinco estaciones** de mayor afluencia son:
-
-* Quitumbe, con 5,1 millones de viajes
-* Labrador, con 4,1 millones
-* Iñaquito, con 3,9 millones
-* San Francisco, con 3,8 millones
-* Recreo, con 3,2 millones de viajes
-
-Esto equivale al **49,12% del total** de los 40 millones de viajes acumulados.
-
-Ocasiones en que se superó los 200 000 viajes diarios
------------------------------------------------------
-
-El Metro tuvo dos ocasiones en que superó los **200 000 viajes realizados en un día.** Estas fueron en dos eventos que realizó el Municipio de Quito.
-
-* El jueves 8 de agosto por el Festival Quito Luz de América
-* Viernes 21 de junio por el concierto en el Parque Bicentenario
-
-Accesos directos entre sistemas de superficie y subterráneos
-------------------------------------------------------------
-
-Del 1 al 8 de septiembre de 2024, se cumplieron **casi 25 000 validaciones** en los accesos directos que conectan desde el Metro a los subsistemas de transporte de superficie. Estos son el Trolebús, la Ecovía y los alimentadores.
-
-Para la conexión entre el Metro y los de superficie, la Tarjeta Ciudad fue el método preferido, con el 76% de uso.
-
-Esto muestra el éxito de la conexión entre los sistemas de transporte y la interconexión asociados a la Cuenta Ciudad.
-
-Inicio de clases en Quito
--------------------------
-
-El lunes 2 de septiembre arrancó el **año lectivo en Quito** y el Metro de Quito registró un aumento en la afluencia promedio de pasajeros.
-
-Durante la jornada matutina, desde las 05:30 a las 10:00 se registraron 2 067 viajes adicionales al promedio registrado en lunes anteriores en ese horario.
-
-Esto significó un aumento de 4,5% en promedio.
-
-> 📌[#MetroInforma](https://twitter.com/hashtag/MetroInforma?src=hash&ref_src=twsrc%5Etfw) | 🚇 El Metro de Quito en diez meses de operación superó los 40 millones de viajes que se han convertido en 40 millones de historias. Enterarte de esta y más noticias que se dieron durante la última semana en el Metro de Quito.[#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/1NzDqZ63vp](https://t.co/1NzDqZ63vp)
-> 
-> — Metro de Quito (@MetrodeQuito) [September 13, 2024](https://twitter.com/MetrodeQuito/status/1834583286275846629?ref_src=twsrc%5Etfw)
-
-Incendio en El Panecillo sería parte del ‘ataque que sufre Quito’
-=================================================================
-
-La Policía informó que aprehendió al presunto causante del incendio forestal provocado en El Panecillo. El sujeto fue puesto a órdenes de la autoridad
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Alrededor de 20 bomberos se mantienen en la zona afectada de El Panecillo.](https://www.elcomercio.com/wp-content/uploads/2024/09/El-PAnecillo.jpg)
-
-El alcalde de Quito, **Pabel Muñoz,** difundió un video en sus redes sociales destacando que las autoridades y **ciudadanía defenderán a la ciudad de quienes quieren destruirla.**
-
-### Más noticias
-
-* [(Video) Incendio forestal en El Panecillo alarmó al centro de Quito](https://www.elcomercio.com/actualidad/quito/incendio-forestal-panecillo-alarma-quito-humo.html "(Video) Incendio forestal en El Panecillo alarmó al centro de Quito")
-* [Policía captura a presunto responsable de incendio en El Panecillo](https://www.elcomercio.com/actualidad/quito/policia-captura-a-presunto-responsable-de-incendio-en-el-panecillo.html "Policía captura a presunto responsable de incendio en El Panecillo")
-* [Incendio forestal consumió una quebrada, en el norte de Quito](https://www.elcomercio.com/actualidad/quito/incendio-forestal-norte-quito-carcelen.html "Incendio forestal consumió una quebrada, en el norte de Quito")
-
-‘Quito está bajo ataque’, señala el Alcalde de Quito
-----------------------------------------------------
-
-Muñoz reiteró que la ciudad “está bajo ataque” y que e**l ataque al Panecillo es un acto vil.** Agregó que se atacó en los dos extremos de El Panecillo, lo que afecta la naturaleza y sectores productivos del sector.
-
-Agrega que fue un acto vil el **atentar contra un sitio con viviendas**. El Alcalde espera que las investigaciones pueden revelar no solo los autores materiales, sino los intelectuales.
-
-Pidió a la Policía realizar un proceso de **investigación transparente** para dar con los responsables, quienes afectan a la capital de la República.
-
-El Municipio de Quito y el **Cuerpo de Bomberos** han presentado en total 10 denuncias a la Fiscalía en busca de sanciones penales.
-
-El incendio en El Panecillo sigue activo
-----------------------------------------
-
-El **incendio forestal en El Panecillo** se activó pasado el mediodía del jueves 12 de septiembre. El Cuerpo de Bomberos desplegó su contingente para la atención de esta emergencia, con el apoyo de las demás instituciones municipales.
-
-Luego de horas de lucha **contra el fuego y de precautelar la vida** y la seguridad de los moradores de la zona, los bomberos lograron controlar el fuego.
-
-Sin embargo, e**l incendio aún no ha sido liquidado.** Los bomberos se mantienen este viernes 13 de septiembre en El Panecillo realizando labores de enfriamiento y liquidación.
-
-Alrededor de 20 efectivos se encuentran en el sitio. Según Bomberos, **al menos 5 hectáreas de vegetación** fueron consumidas.
-
-> ✅🌳 [#Actualización](https://twitter.com/hashtag/Actualizaci%C3%B3n?src=hash&ref_src=twsrc%5Etfw) | El incendio forestal en el sector de El Panecillo está controlado.  
->   
-> 🧑‍🚒 Al momento, se realiza labores de enfriamiento y liquidación.  
->   
-> 🙏 Si ves una columna de humo en la vegetación llama al 9-1-1. [#BomberosQuito](https://twitter.com/hashtag/BomberosQuito?src=hash&ref_src=twsrc%5Etfw) [https://t.co/jdVD6NKfns](https://t.co/jdVD6NKfns) [pic.twitter.com/yWJaaLEIkF](https://t.co/yWJaaLEIkF)
-> 
-> — Bomberos Quito (@BomberosQuito) [September 12, 2024](https://twitter.com/BomberosQuito/status/1834360292349743453?ref_src=twsrc%5Etfw)
-
-Policía capturó a presunto responsable del incendio
----------------------------------------------------
-
-La Policía informó que **aprehendió al presunto causante del incendio forestal** provocado en El Panecillo.
-
-El aprehendido será puesto a **órdenes de la autoridad competente.**
-
-Además, la P**olicía Nacional** informó que apoya la labor de los **Bomberos** en la zona del incendio.
-
-Sus efectivos **forman cadenas humanas** junto con los moradores para apagar algunos puntos de fuego.
-
-Los efectivos policiales se concentran en la **evacuación de los moradores y de sus animales.**
-
-El helicóptero de la Policía está **realizando descargas de agua en el incendio**. Además, se mantiene el monitoreo de la zona a través de las cámaras del ECU911.
-
-> ⚠️ [#ATENCIÓN](https://twitter.com/hashtag/ATENCI%C3%93N?src=hash&ref_src=twsrc%5Etfw) | Policía captura al presunto responsable del [#IncendioForestal](https://twitter.com/hashtag/IncendioForestal?src=hash&ref_src=twsrc%5Etfw) en El Panecillo [https://t.co/PeqxvMlpdu](https://t.co/PeqxvMlpdu) [pic.twitter.com/0wiOMdv3XW](https://t.co/0wiOMdv3XW)
-> 
-> — El Comercio (@elcomerciocom) [September 12, 2024](https://twitter.com/elcomerciocom/status/1834339854626218434?ref_src=twsrc%5Etfw)
-
-¿Cuándo y dónde ver el partido de Liga de Quito?
-================================================
-
-El campeonato ecuatoriano vuelve a la acción con uno de sus protagonistas, Liga de Quito.
------------------------------------------------------------------------------------------
-
-![Jose Quintero celebrando un gol con Liga de Quito en la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-13T000749.658.jpg)
-
-El actual líder de la segunda etapa de la Liga Pro, **Liga de Quito**, intentará mantener su buena racha en el torneo, donde ha logrado cinco victorias en cinco partidos.
-
-Con 15 puntos, la ‘U’ es **líder en solitario** en este segundo semestre del campeonato ecuatoriano. Su perseguidor más cercano es Orense, con 12 unidades.
-
-### Más noticias:
-
-* [Pablo ‘Vitamina’ Sánchez no le teme a la presión con Liga de Quito](https://www.elcomercio.com/deportes/futbol/pablo-vitamina-sanchez-no-le-teme-a-la-presion-con-liga-de-quito.html "Pablo ‘Vitamina’ Sánchez no le teme a la presión con Liga de Quito")
-* [Alexander Domínguez renovó con Liga de Quito](https://www.elcomercio.com/deportes/futbol/alexander-dominguez-renovo-con-liga-de-quito.html "Alexander Domínguez renovó con Liga de Quito")
-* [Liga de Quito buscará su sexta victoria consecutiva en Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-quito-imbabura-liga-pro-sanchez.html "Liga de Quito buscará su sexta victoria consecutiva en Liga Pro")
-
-El equipo de **Pablo ‘Vitamina’ Sánchez**, que no tuvo su mejor rendimiento en la primera parte de la temporada en la Liga Pro, ha mostrado una mejora significativa, sobre todo en defensa, que se ha vuelto tan sólida como en la temporada 2023.
-
-La ‘U’ también presume el **mejor ataque del torneo**, con 13 goles a favor, y la mejor defensa, habiendo recibido solo una anotación, que fue lograda por Cumbayá.
-
-¿Cuándo juega Liga de Quito?
-----------------------------
-
-Liga de Quito visitará a **Imbabura** el sábado 14 de septiembre por la sexta fecha de la Segunda Etapa de la Liga Pro Serie A 2024.
-
-El compromiso está **programado para las 16:30** y se disputará en el Estadio Olímpico de Ibarra.
-
-Mientras que la ‘U’ lidera la tabla, el equipo ibarreño está luchando por evitar el descenso, ubicándose en el puesto 12 de esta segunda etapa, con solo cuatro puntos.
-
-Otros partidos de la jornada
-----------------------------
-
-La Liga Pro de Ecuador se reanuda este viernes 13 de septiembre, tras los compromisos internacionales de selecciones, con el partido entre **Orense y Universidad Católica**.
-
-* Sábado 14 de septiembre: Delfín-Deportivo Cuenca; Independiente del Valle-Emelec.
-* Domingo 15 de septiembre: El Nacional-Cumbayá; Aucas-Mushuc Runa; Barcelona-Macará.
-* Lunes 16 de septiembre: Técnico Universitario-Libertad.
-
-¿Dónde ver el partido de Liga de Quito?
----------------------------------------
-
-El partido de **Liga de Quito** será transmitido por streaming, a través de la nueva plataforma que adquirió los derechos de la Liga Pro, Zapping Sports.
-
-También podrá verse por televisión abierta.
-
-Una efeméride inspirada en ‘Charlie y la fábrica de chocolate’ 
-===============================================================
-
-El Día Internacional del Chocolate se celebra el 13 de septiembre en honor a Roald Dahl y Milton S. Hershey.
-------------------------------------------------------------------------------------------------------------
-
-![El cacao, base del chocolate es originario de la Amazonía ecuatoriana, fue utilizado hace más de 5 500 años. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/09/dia-internacional-chocolate.jpg)
-
-El **Día Internacional del Chocolate** se celebra cada 13 de septiembre, una fecha que rinde homenaje a dos figuras icónicas: **Roald Dahl**, autor de **‘Charlie y la Fábrica de Chocolate’**, y **Milton S. Hershey**, fundador de la **compañía Hershey’s**. Esta efeméride no solo celebra el delicioso producto final, sino también la **rica historia del cacao** y sus **múltiples beneficios para la salud**. 
-
-### Más noticias
-
-* [Ecuatoriano finalista en competencia mundial de chefs](https://www.elcomercio.com/tendencias/gastronomia/luis-estrella-gastronomia-san-pellegrino-young-chef-academy.html "https://www.elcomercio.com/tendencias/gastronomia/luis-estrella-gastronomia-san-pellegrino-young-chef-academy.html")
-* [‘Los Goonies’ regresan con secuela y elenco original](https://www.elcomercio.com/tendencias/cine/goonies-cine-peliculas-secuela.html "https://www.elcomercio.com/tendencias/cine/goonies-cine-peliculas-secuela.html") 
-
-**Origen del Día Internacional del Chocolate** 
------------------------------------------------
-
-La **celebración del Día Internacional del Chocolate** comenzó en 1995 en Francia y Estados Unidos. La elección del 13 de septiembre no es casual; coincide con el **nacimiento de Roald Dahl**, cuya obra ha inspirado a generaciones de **amantes del chocolate**. Además, se reconoce a **Milton S. Hershey**, un pionero en la **industria del chocolate** en Estados Unidos, de acuerdo con [Día Internacional](https://diainternacional.net/dia-internacional-del-chocolate/ "https://diainternacional.net/dia-internacional-del-chocolate/"). 
-
-**Historia del cacao** 
------------------------
-
-El cacao, el **ingrediente principal del chocolate**, tiene una **historia milenaria**. Originario de la **región amazónica de Ecuador**, el cacao fue cultivado y utilizado por las c**ivilizaciones precolombinas**. Estudios recientes de la **Universidad de Calgary** indican que el cacao se usaba en la Alta Amazonía de Ecuador hace más de 5 500 años, según el [Ministerio de Cultura y Patrimonio](https://www.culturaypatrimonio.gob.ec/una-muestra-fotografica-narrara-graficamente-la-historia-del-cacao/ "https://www.culturaypatrimonio.gob.ec/una-muestra-fotografica-narrara-graficamente-la-historia-del-cacao/"). 
-
-**Los mayas y aztecas consideraban el cacao como un regalo divino**. Lo utilizaban no solo como alimento, sino también como moneda y en rituales religiosos. Los españoles llevaron el cacao a Europa en el siglo XVI, donde se transformó en el chocolate que conocemos hoy, a decir de la página [Arqueología Mexicana](https://arqueologiamexicana.mx/mexico-antiguo/origen-domesticacion-y-uso-del-cacao "https://arqueologiamexicana.mx/mexico-antiguo/origen-domesticacion-y-uso-del-cacao"). 
-
-**El cacao en Ecuador** 
-------------------------
-
-**Ecuador es reconocido mundialmente por su cacao fino de aroma**, una variedad de alta calidad que se cultiva en la **región amazónica y costera del país**. Este tipo de cacao es apreciado por su sabor y aroma únicos, y es un orgullo nacional para los ecuatorianos, según [Proamazonía](https://www.proamazonia.org/origenes-del-cacao-ecuatoriano/ "https://www.proamazonia.org/origenes-del-cacao-ecuatoriano/"). 
-
-De acuerdo con el **chef Gabriel Díaz**, docente de la Universidad Internacional del Ecuador, el cacao ha tenido un **crecimiento significativo en Ecuador**, convirtiéndolo en uno de los **principales productores de cacao de fino aroma**.
-
-Las **provincias de la Costa y Amazonía** ecuatoriana, como Guayas, Los Ríos y Sucumbíos, tienen las **condiciones ideales para su cultivo**. Este tipo de cacao es apreciado por la industria del chocolate y utilizado en productos de alta calidad. Además, **Ecuador produce el 60% del cacao fino de aroma a nivel mundial**, siguiendo con Díaz.
-
-**El país también cultiva cacao CCN 51**, conocido por su alta productividad, aunque con **menor calidad de sabor y aroma** en comparación con el cacao fino. Este se utiliza principalmente en la **industria cosmética** y en chocolates de menor calidad.
-
-Ecuador organiza anualmente el **Salón del Chocolate**, un evento que **promueve el cacao nacional** y fomenta el crecimiento de la **industria chocolatera** a través de degustaciones, exposiciones y talleres. Esto fortalece el vínculo entre productores, distribuidores y consumidores, lo que impulsa la economía local y la **cultura cacaotera**.
-
-**Beneficios del chocolate para la salud** 
--------------------------------------------
-
-El chocolate, especialmente el **chocolate negro con alto contenido de cacao**, ofrece numerosos **beneficios para la salud**. Entre ellos, según [Bupa Salud](https://www.bupasalud.com/en/salud/benefits-of-the-chocolate "https://www.bupasalud.com/en/salud/benefits-of-the-chocolate"), se incluyen: 
-
-* **Antioxidantes:** El chocolate negro es **rico en flavonoides**, que ayudan a combatir los radicales libres y reducir el riesgo de **enfermedades cardiovasculares**. 
-
-* **Mejora del estado de ánimo:** El consumo de chocolate **estimula la producción de endorfinas**, las hormonas del bienestar, y puede ayudar a reducir el estrés y la ansiedad. 
-
-* **Salud cerebral:** Los flavonoides presentes en el chocolate pueden **mejorar la memoria y la función cognitiva**. 
-
-* **Regulación del colesterol:** El consumo moderado de chocolate negro puede ayudar a **aumentar los niveles de colesterol HDL (bueno)** y reducir el LDL (malo). 
-
-Así funciona el Pico y placa este viernes 13 de septiembre
-==========================================================
-
-Recuerda que el Pico y placa aplica de lunes a viernes. Fines de semana y feriados no rige esta medida de tránsito
-------------------------------------------------------------------------------------------------------------------
-
-![Los agentes metropolitanos vigilan el tránsito en la ciudad.](https://www.elcomercio.com/wp-content/uploads/2024/09/agente-metropolitano.jpg)
-
-El **Pico y placa** es una restricción vehicular que rige en **Quito** como medida para gestionar el tránsito de la ciudad en las **horas pico.**
-
-Esta medida excluye a los **autos conducidos por personas de la tercera edad** o personas con discapacidad.
-
-### Más noticias
-
-* [(Video) Incendio forestal en El Panecillo alarma al centro de Quito](https://www.elcomercio.com/actualidad/quito/incendio-forestal-panecillo-alarma-quito-humo.html "(Video) Incendio forestal en El Panecillo alarma al centro de Quito")
-* [Quito, una ciudad difícil para combatir los incendios forestales](https://www.elcomercio.com/actualidad/quito/incendio-forestal-quito-apagar-dificil.html "Quito, una ciudad difícil para combatir los incendios forestales")
-* [Aeropuerto Mariscal Sucre de Quito reprograma vuelos de salida y llegada](https://www.elcomercio.com/actualidad/ecuador/aeropuerto-mariscal-sucre-de-quito-reprograma-vuelos-de-salida-y-llegada.html "Aeropuerto Mariscal Sucre de Quito reprograma vuelos de salida y llegada")
-
-Horarios de Pico y placa
-------------------------
-
-Esta medida se aplica en dos horarios de lunes a viernes. Los feriados, sábados y domingo no aplica la restricción.
-
-Estos son los horarios de aplicación:
--------------------------------------
-
-En la mañana: de 06:00 a 09:30  
-En la tarde: de 16:00 a 20:00
-
-El Pico y placa es una medida que **ha sido implementada e**n diversas ciudades alrededor del mundo como respuesta a los desafíos de la urbanización y el aumento del tránsito vehicular.
-
-Este **viernes**, no pueden circular las **placas terminadas en 9 y 0.**
-
-Multas por infringir el Pico y placa
-------------------------------------
-
-La multa por incumplir el **Pico y placa** es del 15% del Salario Básico Unificado, es decir 69 dólares la primera vez; la segunda vez será el 25%, es decir, 115 dólares.
-
-Si incumples por tercera vez, **la multa asciende al 50%** de un salario básico, es decir, 230 dólares.
-
-El Pico y placa podría modificarse
-----------------------------------
-
-El **Concejo Metropolitano de Quito** debatió cambiar las **medidas sancionatorias** por Pico y placa el martes 27 de agosto de 2024.
-
-El Municipio de Quito quiere **aumentar las sanciones económicas** y eliminar la retención del vehículo de las personas que incumplan la medida del Pico y placa.
-
-Esto, con la intención de reducir los trámites burocráticos que realizan los infractores y eliminar el uso de winchas, **que provocan más gastos**, según dijo la vicepresidenta de la Comisión de Movilidad, María Cristina López.
-
-De este modo, los ciudadanos que **infrinjan por primera vez** la medida del Pico y placa deberán pagar una multa equivalente al 25% del salario básico unificado y ya no el 15%, como está estipulado en la actualidad.
-
-Los que incurran por segunda vez en l**a infracción deberán pagar una multa** del 35% del salario básico unificado. La sanción por tercera vez se mantiene en el **50% del salario básico [unificado](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")**.
-
-> 🚨[#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | ¡Ponte pilas!  
->   
-> 💁Recuerda, hoy la medida “Pico y Placa” se mantiene con normalidad.  
->   
-> Respeta las normas de tránsito y evita sanciones.  
->   
-> 🚘 Con cultura vial [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/MHkD90czuF](https://t.co/MHkD90czuF)
-> 
-> — AMTQuito (@AMT\_Quito) [September 6, 2024](https://twitter.com/AMT_Quito/status/1831995616592855243?ref_src=twsrc%5Etfw)
-
-El poder de la ventanilla  
-===========================
-
-La burocracia se inventó para servicio a la comunidad, pero hoy esto se ha transformado en un poder paralelo al del Estado.
----------------------------------------------------------------------------------------------------------------------------
-
-![Kurt Freund Ruf, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Kurt-Freund-Ruf.jpg)
-
-La **burocracia** es el poder que se ejerce desde las ventanillas, frente a las cuales tanto la **ley** como los **reglamentos** se diluyen, se tergiversan y con o sin razón se desatienden y desobedecen. No solamente lo he visto yo, creo que lo hemos sufrido todos en carne propia en uno o múltiples momentos donde la **burocracia** impone sus interpretaciones, impone sus propias reglas y pautas contenidas en memorandos, informes o circulares ahora ya no en papel solamente, sino **digitales** muchas veces y ahí queda entrampado el **ciudadano** en el absurdo, el desconcierto y sobre todo en la decepción.
-
-La **oficina,** el despacho o como se lo quiera llamar, constituye el santuario que conserva todos los secretos. Los **archivos**, actualmente digitales, recogen esta magia del poder que radica en la capacidad de controlar la suerte de miles de personas, cuyos vecinos con frecuencia están amparados en lo de expedientes. En los vestíbulos o **salas de espera** de las **dependencias** y **ministerios** quedan las horas de aburrimiento y **frustración** de ciudadanos cansados de la espera y angustiados con la preocupación de “vuelva mañana”.
-
-Los **formularios** son la ley suprema de la burocracia y su **constitución política**. Ahí está en blanco y negro lo que debe cumplirse; no en los **códigos**, tampoco en las ofertas de **campañas presidenciales** y a los otros estamentos de **elección pública**; tampoco en la lógica y peor aún tener fe en la ingenua creencia de que la **ley** rige para todos, incluyendo a los funcionarios.
-
-La **burocracia** se inventó para servicio a la **comunidad**, pero hoy esto se ha transformado en un poder paralelo al del **Estado**, con sus propios propósitos de autodefenderse, diluir responsabilidades y continuar creciendo hasta el infinito a costa de los contribuyentes y de un **presupuesto** permanentemente deficitario. Muchos de los buenos propósitos e incluso **ofertas de campaña** se ven entorpecidos por estos **servicios públicos** deficientes y descalabrados, pero qué constantemente defienden sus **conquistas laborales** bajo las cláusulas de la **contratación colectiva pública**, de **licencias sindicales**, derechos adquiridos, en muchos casos acompañados de un **bono de eficiencia**.
-
-Dolorosamente, frente a este poder de las ventanillas, el **régimen de derecho** retrocede y queda reducido a literatura y papel. La ley pierde paulatinamente sentido, donde las **reglas** se reemplazan por las **políticas** y la **aplicación en ejercicio** pleno de **facultades discrecionales**.
-
-Se vive así bajo el reinado de la **incertidumbre** y la **arbitrariedad,** porque las únicas normas que se aplican de verdad son aquellas inventadas por el **burócrata**; por aquellas que han sido sometidas previamente a una **interpretación** adecuada a los intereses y estilos del despacho público donde impera la habilidad heredada de una **tradición colonial** de acatar pero no cumplir con la ley. Por ello, mucha de la posible **inversión** no llega al país que tanto la necesita.
-
-Este poder de las **ventanillas** y los **pasillos** con su bautismo de pseudo legitimidad con el **reforzamiento** de las **aficiones intervencionistas** de nuestra **política** y **políticos** y sobre todo con el hábil cambio aparentemente inocuo de términos dónde en la famosa **ley de competitividad energética** (las minúsculas son mías) prohíbe todo tipo de delegación al **sector privado** para financiar el mantenimiento de la **infraestructura del Estado** que se encuentra en **aprietos fiscales** y bloquea encontrar **soluciones viables** que nos eviten tener apagones, fallas en el **sistema de transmisión**, limitación de capacidades de desarrollo de las **redes de distribución**, etc. como un ejemplo de lo que se viene hablando actualmente.
-
-Ciertamente, continuamos con la **legislación arcaica** que persiste en mantener el **motor de la inversión** privada apagado y así el país no puede despegar. Como se mencionó anteriormente, el único **sector estratégico** es aquel donde hay la carencia. Pero la **burocracia** sigue convencida de que el Estado debe entrometerse en todo y por ello hay miles de **permisos ambientales** retenidos que se traduce en carencias y **falta de inversión** que afecta directamente a la **sociedad ecuatoriana**.
-
-Con el ejemplo de las **carreteras concesionadas** en distintos partes del **país** se ha visto y se ha pagado con gusto los **peajes** de un viaje seguro. ¿Por qué creen que no va a funcionar en el resto de actividades?
-
-Cartas a Quito / 13 de septiembre de 2024
+Cartas a Quito / 16 de septiembre de 2024
 =========================================
 
-Estas son las cartas a Quito de este viernes 13 de septiembre de 2024
----------------------------------------------------------------------
+Estas son las cartas a Quito de este lunes 16 de septiembre de 2024
+-------------------------------------------------------------------
 
 ![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
 
-La ansiedad tras subirse al vagón del Metro de Quito
-----------------------------------------------------
-
-No recicle, tras pasar por el lector del código QR, la factura de pago que le entregan al cancelar cuarenta y cinco centavos para ingresar al Metro de Quito, porque podría terminar con una orden de pago por una absurda -y de seguro próximamente declarada inconstitucional- multa de $460 que ha dispuesto cobrar, por usuario, la Operadora del Metro y el Municipio de Quito a quienes no la tengan en su poder. Quienes idearon y aprobaron esta absurda y desproporcionada medida seguramente vieron que Cuenca tiene el sistema de fiscalización posterior y aleatorio para los usuarios del Tranvía que pueden libremente ingresar al vagón -se entiende que habiendo cancelado su boleto en los dispensadores automáticos que hay en las aceras. Pero es que es diferente: en Quito la persona no puede bajar al andén para acceder al vagón si no pasa por los varios lectores del código QR que están instalados a pocos metros de las boleterías bajo la estricta mirada de varios supervisores que se entiende deben ayudar a agilizar su lectura -más de uno no lo hace. ¿Se imaginan el descontento y afectación a la salud de los empleados de boletería repitiendo a los miles de usuarios que cuiden esa valiosísima garantía, o la contaminación visual por publicitar esa absurda disposición? ¿Se imaginan la ansiedad -y hasta el irracional deseo de bajarse en la más próxima estación- que sentirá el padre o madre de una numerosa familia, o un extranjero que por primera vez visita el Metro y trata de entender el tétrico aviso -locutado en español cuando ya está adentro del vagón- porque no tiene idea de dónde guardó la pequeña facturita de pago? ¿Cuánto tiempo pasará, luego de que se deje sin efecto esta desproporcionada e ilógica medida, para que se destierre del imaginario colectivo que hay que “guardar el ticket para que no le multen con un salario básico unificado en el Metro a cada persona que pierda su factura de pago”? ¿Pensó la empresa Operadora del Metro de Quito en cuánta gente va a ahuyentar porque con la Alcaldía se pusieron de acuerdo en este absurdo que nos hace aparecer como un país con procesos subdesarrollados? ¿Por último, si temen que algún desadaptado ‘salte’ por los lectores de códigos -un casi imposible que rápidamente sería neutralizado por los supervisores y agentes de seguridad, por qué no pensaron que aun siendo posible revisar las cámaras para ver si una determinada persona hizo o no el pago, esta pudiera demandar y seguro ganar -entiéndase a la ciudad, que la financiamos todos con nuestros impuestos- por daños y perjuicios porque le hicieron llegar tarde a tal parte? Con esa absurda, innecesaria y nueva medida confiscatoria, están creando un imaginario de hostilidad, falta de transparencia, discrecionalidad y abuso de poder en el Metro de Quito.
-
-Diego Fabián Valdivieso Anda
-
-Populismo y trivialidad
-=======================
-
-Los apagones están cerca y con ellos la serie de efectos en la economía, en la provisión de servicios, en el trabajo.
----------------------------------------------------------------------------------------------------------------------
-
-![Rodrigo Albuja Chaves, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/05/Rodrigo-Albuja-Chaves.jpg)
-
-Durante 3 meses, los **ecuatorianos** que consuman **energía eléctrica** hasta 180 kilovatios mensuales, no pagarán ni un centavo por el uso de ese servicio. Así lo ha decretado el **Presidente de la República**, argumentando que el país ha logrado el **saneamiento** de sus **finanzas** y está en capacidad para contribuir a mitigar los **graves problemas** de subsistencia que sufre una buena parte de la **población**. En principio, es innegable el alivio que la medida causará al estrato de **población** de bajos recursos, incluidos en la oprobiosa categoría de la **pobreza**. Pero hay más de qué hablar.
-
-El país atraviesa una seria **crisis energética** que tiene posibilidades de agravarse, vista la baja de la generación a causa de la falta de **acciones efectivas** para superarla. Los **apagones** están cerca y con ellos la serie de **efectos** en la **economía**, en la **provisión** de servicios, en el **trabajo**. En ese contexto, se impone una tarea coordinada de **adopción de medidas estructurales** y de corto plazo que hagan posible una solución que enlace con un proyecto de más largo aliento, encaminado a un nuevo **modelo energético**.
-
-El **ahorro de energía** es una medida que debe adoptarse con la colaboración de la población, a fin de diferir el **racionamiento forzado**. Sin embargo, la medida adoptada no contribuye a ello, pues, siendo gratuito el servicio, este será utilizado hasta llegar al tope del **límite fijado** para la vigencia de la tarifa cero. La **necesidad** de **ahorro** se verá contrastada por la laxitud en el **consumo** de la **energía.**
-
-La medida tendrá un costo y la **utilización** de **recursos públicos** no previstos en el presupuesto deberá ser controlada por los respectivos **organismos responsables**. Y se deberá informar y explicar al país sobre la **fuente** de **financiamiento** a la que se recurrirá para suplir la merma de **ingresos** debido a tarifas no pagadas.
-
-Una de las **funciones** de la **economía**, mencionadas en una corriente de **pensamiento** aún dominante, es la eficiente asignación de los recursos en una sociedad. Ella da lugar a la **política económica**, que define objetivos adaptándolos a los **recursos disponibles**. Una **estrategia** coherente para conducir a la sociedad hacia mejores estados de bienestar es **responsabilidad** de los **gobernantes**, como principales **agentes** **económicos**. Esto exige determinar claramente los objetivos hacia donde se pretende llegar en todos los ámbitos del **desenvolvimiento** social y asignar, con criterios muy bien sustentados, los recursos necesarios para su cumplimiento.
-
-El **otorgamiento** de **ayudas** **económicas** para aliviar las carencias de una parte de la población debe ser parte de una **estrategia** de **desarrollo.** En ella, los **subsidios** deben tener **legitimidad** por su capacidad para cumplir objetivos de **equidad** y **justicia social.** Y deben estar sustentados en la evaluación rigurosa de su **consistencia** en el **conjunto** del **plan de gobierno** o de la **estrategia** de desarrollo.
-
-Asignar, súbitamente, **recursos** de la manera como se pretende, trivializa la naturaleza de las políticas públicas. Establece un bienestar ficticio y volátil en el imaginario de los beneficiarios. Y contribuye a perennizar las ilusiones de recibir solución para sus problemas mediante las **actitudes mesiánicas** o populistas de los gobernantes. Si esto sucede en una **época electoral**, cabe presumir que se trata de encantar al pueblo para ganar sus votos.
-
-Quito en llamas y la urgencia de prevenir incendios forestales
-==============================================================
-
-Los incendios forestales en Quito, el 99% provocados, han alcanzado 355 casos este año. La ciudadanía debe actuar para evitar más desastres.
---------------------------------------------------------------------------------------------------------------------------------------------
-
-![Bomberos combaten un incendio forestal en las El Panecillo de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/09/image-8.png)
-
-En las últimas semanas, **Quito** ha sido testigo de una alarmante serie de incendios forestales que han devastado vastas áreas de vegetación y han puesto en riesgo la vida de sus habitantes. Según las autoridades, el 99 % de estos incendios son provocados, una cifra que debería encender las alarmas de todos los ciudadanos. Hasta la última semana, se han registrado más de 355 incendios forestales en la capital ecuatoriana, una situación que no solo afecta al medioambiente, sino también a la salud y seguridad de la población.
-
-> La **Secretaría Nacional de Gestión de Riesgos** ha informado que desde el 1 de enero de 2024, 19 provincias, 122 cantones y 451 parroquias se han visto afectadas por un total de 1 994 incendios forestales en todo el país. En Quito, la situación es particularmente grave, con emergencias registradas en áreas como Pifo y Nayón, donde el **Cuerpo de Bomberos** ha tenido que desplegar todos sus recursos para controlar las llamas.
-
-Es imperativo que los ciudadanos de Quito y de todo Ecuador tomen conciencia de la gravedad de esta situación. La mayoría de estos incendios son provocados por actividades humanas, ya sea de manera intencional o por negligencia. La quema agrícola y la incineración de desechos son las principales causas, representando el 62 % y el 25 % de los incendios respectivamente.
-
-La indolencia y la falta de responsabilidad de algunos ciudadanos están llevando a la destrucción de ecosistemas enteros, afectando la biodiversidad y contribuyendo al cambio climático. Además, los incendios forestales han generado ya una espesa capa de humo que cubre la ciudad, afectando la calidad del aire y la salud de sus habitantes.
-
-La situación en Quito es crítica, pero no es irreversible. Con la colaboración de todos los ciudadanos y el apoyo de las autoridades, es posible prevenir futuros incendios y proteger nuestro medioambiente. No se puede permitir que la indolencia y la irresponsabilidad sigan destruyendo bosques y poniendo en riesgo vidas.
-
-El problema es que la misma ciudadanía sea indolente ante la situación y no exija a las autoridades campañas de **educación y concienciación**, endurecimiento de sanciones y una actualización de la legislación. Asimismo, por el otro lado, comunidades como las de **Nayón** ya han dado muestras del involucramiento activo en emergencias. Ese mismo ejemplo debe darse en la prevención de incendios. Esto incluye la creación de brigadas comunitarias de vigilancia y la promoción de prácticas agrícolas sostenibles que no impliquen la quema de vegetación.
-
-Además, se necesitan recursos para utilizar tecnología avanzada para la detección temprana de incendios y el monitoreo de áreas de alto riesgo. Drones y satélites pueden ser herramientas valiosas en esta lucha. Y, finalmente, después de un incendio, es crucial llevar a cabo programas de reforestación y recuperación de las áreas afectadas. Esto no solo ayuda a restaurar el ecosistema, sino que también previene futuros incendios al mantener el suelo cubierto y húmedo.
-
-La inscripción para elecciones 2025 empieza con incumplimientos
-===============================================================
-
-Este 12 de septiembre se abren las inscripciones para candidatos de las elecciones 2025.
-----------------------------------------------------------------------------------------
-
-![La consulta popular del 21 de abril de 2024 fue el último proceso electoral en Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/09/elecciones-inscripciones.jpg)
-
-La carrera hacia las **elecciones 2025** en Ecuador comenzó oficialmente. El **[Consejo Nacional Electoral (CNE)](https://www.cne.gob.ec/)** lanzó la convocatoria y este viernes, 13 de septiembre de 2024, se abrió el proceso de inscripción de las candidaturas[.](https://es.wikipedia.org/wiki/Ecuador)
-
-En principio, en la ruta están **16 binomios** para la Presidencia y Vicepresidencia. Este fue el resultado de procesos de primarias y el plazo definido para alianzas.
-
-Aunque, en el último, solo se registró una de carácter nacional, entre el **Movimiento Revolución Ciudadana y Reto**.
-
-### Más noticias
-
-* [CNE aprobó la convocatoria para las elecciones 2025](https://www.elcomercio.com/actualidad/politica/cne-aprobo-convocatoria-elecciones-2025.html)
-* [¿Cuándo estarán en firme las candidaturas para las elecciones de 2025?](https://www.elcomercio.com/actualidad/politica/cuando-estaran-en-firme-las-candidaturas-para-elecciones-2025.html "¿Cuándo estarán en firme las candidaturas para las elecciones de 2025?")
-* [CNE estableció las reglas para el exit poll en las elecciones generales 2025](https://www.elcomercio.com/actualidad/politica/cne-reglamento-exit-poll-elecciones-generales-2025.html "CNE estableció las reglas para el exit poll en las elecciones generales 2025")
-* [CNE ya registra alianzas provinciales, ¿qué pasa con las presidenciales?](https://www.elcomercio.com/actualidad/politica/cne-registra-alianzas-provinciales-que-pasa-presidenciales.html "CNE ya registra alianzas provinciales, ¿qué pasa con las presidenciales?")
-
-> IMPORTANTE 📢  
->   
-> La [#InscripciónCandidaturasEc](https://twitter.com/hashtag/Inscripci%C3%B3nCandidaturasEc?src=hash&ref_src=twsrc%5Etfw) se realizará únicamente en línea. Esta etapa del cronograma electoral inicia a las 00h00 del viernes 13 de septiembre.  
->   
-> Los detalles ➡️📃 [https://t.co/8hzoVaBzvd](https://t.co/8hzoVaBzvd) [pic.twitter.com/7kscWGh9ie](https://t.co/7kscWGh9ie)
-> 
-> — cnegobec (@cnegobec) [September 12, 2024](https://twitter.com/cnegobec/status/1834308269675844096?ref_src=twsrc%5Etfw)
-
-Elecciones 2025 y las candidaturas
-----------------------------------
-
-El **calendario electoral** establece un plazo para la inscripción de las candidaturas. Este se extenderá hasta las 18:00 del miércoles 2 de octubre.
-
-El **CNE** indicó que la inscripción será en línea. Este trámite es a través del sistema informático de la institución. El acceso es exclusivo para las **organizaciones políticas** habilitadas para las **elecciones 2025**.
-
-**17 organizaciones** cuentan con el aval para presentar binomios presidenciales y asambleístas nacionales. Además, están aquellas de ámbito local.
-
-Para los **comicios 2025**, hay **13 736 314 electores** habilitados para ejercer su derecho al voto.
-
-> ¡La [#InscripciónCandidaturasEc](https://twitter.com/hashtag/Inscripci%C3%B3nCandidaturasEc?src=hash&ref_src=twsrc%5Etfw) se realizará únicamente en línea! 🖥️🖱️  
->   
-> ⌚️ | A partir de las 00h00 del 1⃣3⃣ de septiembre hasta 18h00 del 2⃣ de octubre, las organizaciones políticas podrán inscribir sus listas de candidaturas para las [#Elecciones2025Ec](https://twitter.com/hashtag/Elecciones2025Ec?src=hash&ref_src=twsrc%5Etfw). 🗳️  
->   
-> Revisa los detalles en… [pic.twitter.com/Q5VyjBSUQ8](https://t.co/Q5VyjBSUQ8)
-> 
-> — cnegobec (@cnegobec) [September 12, 2024](https://twitter.com/cnegobec/status/1834336078565966033?ref_src=twsrc%5Etfw)
-
-Requisitos para las inscripciones
+La ignorancia de los politiqueros
 ---------------------------------
 
-Los candidatos para la **Presidencia** y **Vicepresidencia** deben haber cumplido 35 años, al momento de inscribir la candidatura. Además, estar en goce de los derechos políticos.
+En días anteriores, a raíz de la decisión del presidente Noboa para exonerar del pago del consumo eléctrico por dos o tres  meses a los ciudadanos que no consumieran sobre una cantidad determinada de kilovatios, varios representantes de movimientos políticos que se han inscrito para participar en las próximas elecciones, de los cuales, algunos lo hacen con el fin de volver al poder, han criticado esa decisión, argumentando que se está perjudicando al pueblo, por motivos electorales.
 
-En el caso de asambleístas y parlamentarios andinos, la edad mínima es de **18 años**.
+A esos políticos que pugnan por regresar al poder, les digo que no tienen ningún derecho a hacer  esa crítica, ni ninguna otra que se refiera a la falta de agua en los ríos en general y peor en los que alimentan a las hidroeléctricas, pues durante sus respectivos períodos presidenciales no hicieron nada efectivo para hacer un manejo apropiado de la cobertura vegetal en las cuencas hidrográficas, lo que hubiera evitado que haya poco o ningún caudal en las épocas de sequía; o inundaciones de campos, pueblos y ciudades durante la época invernal. Esa falta de acción, si es perjudicar  tremendamente al pueblo
 
-El **CNE** desarrolló **26 capacitaciones a los partidos y movimientos políticos**, a escala nacional. Estas incluyeron temas como la paridad, así como alternabilidad e inclusión del **25%** de jóvenes para la conformación de las listas de candidatos.
+Alguno de los críticos, va a argumentar que se dio apoyo a la Agencia de Control de Riesgos. A estos les aclaro que esta dependencia gubernamental, tiene la tarea de mitigar los efectos de sequías e inundaciones, entre otros desastres, más no el de prevenirlos. 
 
-En el proceso también se considera que el **50%** de listas deben estar encabezadas por **mujeres**.
+El manejo de los recursos de suelo y vegetación en las cuencas hidrográficas, que además de ayudar a evitar inundaciones y agudización de los efectos de las sequías, también implica hacer planes de desarrollo del agro, que evitaría la migración interna y externa de ecuatorianos; exige tener una política y estrategias que involucran un trabajo interdisciplinario e interinstitucional, pues deben participar ministerios y prefecturas; todo lo cual debería dirigir y coordinar la Secretaría de Planificación Nacional; siempre y cuando posea la autoridad para hacerlo.
 
-¿Quiénes no pueden ser inscritos?
----------------------------------
+Carlos Adolfo González Sánchez
 
-El reglamento para la **inscripción y calificación de candidaturas** establece las inhabilidades generales para ser candidatos.
+Plan de trabajo, señores candidatos
+-----------------------------------
 
-De cajón, no podrán legalizar el registro quienes tengan contratos con el **Estado**, como personas naturales o como representantes o apoderados de personas jurídicas.
+Toda organización social emplazada en un determinado  territorio (estado), tiene la obligación de: regular, ejecutar  y, controlar la vida de sus miembros, mediante la determinación de un objetivo y las herramientas necesarias para conseguirlo (planificación). El objetivo del Estado ecuatoriano es, asegurar el bienestar de sus habitantes y, las herramientas, los planes de trabajo de todos y cada uno de los  órganos superiores como: ejecutivo, legislativo, judicial, electoral y,  transparencia y control social. El primero ejecuta, cumple y hace cumplir las normas que regula y controla el segundo. La cabeza del poder ejecutivo y los miembros de la función legislativa son elegidos por el pueblo. En consecuencia, el elector tiene la obligación de exigir a los candidatos, el plan de trabajo como condición de empleo, mismo que será aprobado y apoyado (voto) por el ciudadano, cuando sea, claro, flexible y medible, es decir que indique matemáticamente: que va a hacer, cuando va hace, cuál es el valor y  como va a hacer y, se le pueda medir el avance en cualquier momento (plan técnico). Este plan se consigue utilizando la herramienta de gestión de proyectos “Método del camino crítico”. El plan de trabajo o de gobierno del poder ejecutivo), debe ser el resumen de los planes de  seguridad interna y de seguridad externa. El plan de trabajo de seguridad interna será el consolidado de los planes de: seguridad civil, seguridad en salud, seguridad en educación, seguridad alimenticia, seguridad habitacional y de infraestructura, seguridad de empleo, seguridad social, etc. El plan de trabajo de la seguridad externa será el compendio del plan de soberanía territorial y el plan que relaciona al Estado ecuatoriano con el mundo. Candidatos, basta de improvisar, basta de demagogia, basta de debates inútiles, si quieren ganarse al electorado, socialicen un Plan técnico. 
 
-Eso siempre que el proceso se haya celebrado para la ejecución de **obra pública**, prestación de servicio o explotación de recursos naturales.
+Marco A. Zurita Ríos
 
-Tampoco pueden oficializar una candidatura quienes hayan recibido sentencia condenatoria ejecutoriada por delitos de **peculado, enriquecimiento ilícito, concusión, cohecho, tráfico de influencias, oferta de realizar tráfico de influencias y testaferrismo**.
+Caso Sinohydro iniciará un nuevo proceso en la investigación
+============================================================
 
-A esos delitos se suman el lavado de activos, asociación ilícita y delincuencia organizada relacionados con actos de corrupción. Tampoco los deudores de **pensiones alimenticias**.
-
-Integrantes de la función judicial y otras instancias
------------------------------------------------------
-
-A su vez, no podrán inscribirse jueces de la función judicial, del **Tribunal Contencioso Electoral** y los miembros de la **Corte Constitucional** y del **CNE**, salvo que hayan renunciado a sus funciones seis meses antes de la fecha señalada para la elección.
-
-Están fuera, además, quienes sean **servidores públicos** de libre nombramiento y remoción, así como de período fijo. Esto, salvo que hayan desistido del puesto hasta un día antes a la fecha de **inscripción**.
-
-El resto de **servidores públicos** y los docentes podrá candidatizarse y gozarán de licencia sin sueldo desde la fecha de inscripción de sus candidaturas hasta el día siguiente de las **elecciones**.
-
-Los dignatarios que opten por la **reelección inmediata** al mismo cargo deberán hacer uso de licencia sin remuneración desde el inicio de la campaña electoral.
-
-Ese es el caso del presidente **Daniel Noboa**, que deberá encargar el mandato para competir por un nuevo período.
-
-No podrán registrar la candidatura quienes tengan **sentencia ejecutoriada** que condene a pena privativa de libertad mientras esta subsista.
-
-En la línea política
---------------------
-
-Del mismo modo, quedan excluidos quienes se encuentren afiliados a partidos o adherentes permanentes a movimientos políticos diferentes al que auspician su **candidatura**.
-
-Eso a menos que hubiesen renunciado con **90 días** de anticipación a la fecha de cierre de inscripción de candidaturas. Una opción es que cuenten con la autorización expresa de la organización.
-
-El listado oficial de candidaturas, que incluirá a todos los candidatos que han superado todas las etapas del proceso, será publicado el 30 de diciembre de 2024.
-
-La paridad en las candidaturas
-------------------------------
-
-No cumplir con el porcentaje de **participación de mujeres** es otra limitante. El reglamento define que los partidos y movimientos políticos que no cumplan, tendrán dos días, contados a partir de la notificación, para subsanar este punto.
-
-**Verónica Morales**, abogada y antropóloga, dio cuenta de que la participación política de las mujeres en Ecuador sigue siendo insuficiente, y su representación en los espacios de toma de decisiones es limitada.
-
-A pesar de avances legislativos en cuanto a la paridad de género, el país no ha tenido una presidenta, con la excepción del breve período de **Rosalía Arteaga,** como sucesora de **Abdalá Bucaram**. En los 16 binomios, apenas dos cuentan con mujeres para correr por la Presidencia.
-
-Los faltantes en el proceso
----------------------------
-
-La **Catedrática** remarcó que, aunque las mujeres han logrado pequeñas conquistas, aún hay una brecha en cuanto a su acceso a roles políticos de alto nivel, lo que impide un desarrollo equitativo en la construcción de **políticas públicas**. 
-
-“Es fundamental que la sociedad se comprometa con el fortalecimiento de las capacidades y el liderazgo de las **mujeres**, tanto dentro de los partidos políticos como en los espacios públicos, creando estructuras más **incluyentes**“.
-
-No obstante, Morales recalcó que no se logrará únicamente con **cuotas de género**, sino con una transformación profunda en la cultura política.
-
-Las organizaciones en Ecuador, muchas veces constituidas como partidos de alquiler o activadas solo en época electoral, deben abrirse a una **renovación generacional**.
-
-Taxista que provocó incendio forestal en Quito explicó por qué lo hizo
-======================================================================
-
-El ciudadano fue captado comenzando el fuego, en el sector de La Gasca.
------------------------------------------------------------------------
-
-![El 99% de los incendios forestales son provocados por la incidencia humana](https://www.elcomercio.com/wp-content/uploads/2024/09/incendio-.jpg)
-
-Una de las personas que provocó un **incendio forestal** en Quito, y fue captada en video, habló del hecho.
-
-En las imágenes grabadas por las **cámaras de seguridad** se observa a un ciudadano detener el taxi que conducía y bajarse de él.
-
-### Más noticias
-
-* [Incendio forestal consumió una quebrada, en el norte de Quito](https://www.elcomercio.com/actualidad/quito/incendio-forestal-norte-quito-carcelen.html "Incendio forestal consumió una quebrada, en el norte de Quito")
-* [Policía captura a presunto responsable de incendio en El Panecillo](https://www.elcomercio.com/actualidad/quito/policia-captura-a-presunto-responsable-de-incendio-en-el-panecillo.html "Policía captura a presunto responsable de incendio en El Panecillo")
-* [(Video) Incendio forestal en El Panecillo alarmó al centro de Quito](https://www.elcomercio.com/actualidad/quito/incendio-forestal-panecillo-alarma-quito-humo.html "(Video) Incendio forestal en El Panecillo alarmó al centro de Quito")
-
-Luego de comprobar que ninguna persona o vehículo se encuentra cerca, el hombre saca un pedazo de papel, lo **quema** y lo deja sobre la vegetación cercana.
-
-Tras evidenciar que las llamas se expanden, el taxista **se retira del lugar**.
-
-El hecho ocurrió junto a un puente subterráneo ubicado en el sector de **La Gasca**, en el centro norte de Quito, el sábado 7 de septiembre de 2024.
-
-Los videos difundidos en redes sociales causaron la **indignación** de la
-
-La ciudadanía y las autoridades se mostraron indignadas por el video difundido.
-
-> Recibimos esta denuncia ciudadana: Miren este video por favor, un pirómano prendió fuego y se fue. Un acto irresponsable que pone en riesgo la seguridad de todas y todos. Pedimos a los entes correspondientes investigar el hecho. No podemos permitir este tipo de actos delictivos.… [pic.twitter.com/5RMqZAkRYm](https://t.co/5RMqZAkRYm)
-> 
-> — Diana Cruz M (@DianaCruzRC5) [September 11, 2024](https://twitter.com/DianaCruzRC5/status/1833940123802607980?ref_src=twsrc%5Etfw)
-
-Taxista aceptó su culpabilidad
-------------------------------
-
-El taxista que provocó el incendio forestal habló para un reportaje realizado por TC Televisión.
-
-El ciudadano **se excusó** diciendo que comenzó el fuego porque se encontraba bajo los efectos del **alcohol**.
-
-“La persona que provocó eso (el incendio) fui yo, hay que ser franco; estaba un poco tomado, **con alcohol en la cabeza** y eso fue lo que pasó”, manifestó.
-
-El hombre **ofreció disculpas** a la ciudadanía por lo cometido.
-
-“Les pido que me disculpen, yo soy una persona muy recta, tengo mi carro y mi trabajo, revisen mi historial, soy una persona recta”, añadió.
-
-Sus disculpas tampoco fueron tomadas de buena manera por la ciudadanía.
-
-Usuarios en **redes sociales** condenan que el taxista haya confirmado que provocó el incendio con “tanta tranquilidad”, y que, además, haya conducido en **estado etílico**.
-
-Denuncias y sanciones por provocar incendios forestales
--------------------------------------------------------
-
-Videos similares de ciudadanos provocando incendios forestales han sido registrados en La **Argelia Baja** y **Chillogallo**.
-
-Este jueves 12 de septiembre, se conoció del **primer detenido** por este tipo de acciones.
-
-La Policía aprehendió a un ciudadano en las cercanías a **El Panecillo**, luego que el individuo presuntamente comenzara el fuego en este sector del centro de Quito.
-
-**Christian Rivera**, experto en riesgos, afirmó que el 99% de estos incendios es causado por la actividad humana, mientras que el 1% tiene un origen natural.
-
-Por ello, el alcalde de Quito, **Pabel Muñoz**, advirtió con sancionar drásticamente a quienes provoquen daño a la vegetación de la ciudad.
-
-### Denuncias ante Fiscalía
-
-Las multas contemplan sanciones leves que oscilan entre los 450 y 1 150 dólares; y sanciones graves, con infracciones que varían entre 1 380 y **34 500 dólares**.
-
-Hasta la noche del miércoles 11 de septiembre, la Alcaldía de Quito afirmó que se presentó al menos **10 denuncias** ante la Fiscalía General del Estado respecto a los incendios provocados.  
-
-CNE convocó oficialmente a las elecciones 2025
-==============================================
-
-En la convocatoria a elecciones 2025, el CNE recuerda las dignidades a elegir y el calendario electoral.
---------------------------------------------------------------------------------------------------------
-
-![El CNE oficializó la convocatoria a elecciones generales 2025 a través de una cadena nacional.](https://www.elcomercio.com/wp-content/uploads/2024/08/miembros-cne.jpg)
-
-El **Consejo Nacional Electoral (CNE)** convocó oficialmente a las **elecciones 2025**, este jueves 12 de septiembre de 2024.
-
-El organismo electoral lo hizo a través de una cadena nacional esta noche, luego de que el Pleno aprobara el texto el 11 de septiembre.
-
-### Más noticias:
-
-* [CNE aprobó la convocatoria para las elecciones 2025](https://www.elcomercio.com/actualidad/politica/cne-aprobo-convocatoria-elecciones-2025.html "CNE aprobó la convocatoria para las elecciones 2025")
-* [CNE estableció las reglas para el exit poll en las elecciones generales 2025](https://www.elcomercio.com/actualidad/politica/cne-reglamento-exit-poll-elecciones-generales-2025.html "CNE estableció las reglas para el exit poll en las elecciones generales 2025")
-
-Las elecciones 2025 en Ecuador se desarrollarán el 9 de febrero.
-
-El calendario electoral también prevé una **segunda vuelta presidencial**, que se realizaría el domingo 13 de abril de 2025.
-
-**13 736 314 electores** están habilitados para ejercer su derecho al voto, en 2025.
-
-La convocatoria a las elecciones 2025: dignidades a elegir y calendario
------------------------------------------------------------------------
-
-La convocatoria a las elecciones 2025 también especifica qué **dignidades eligen los ecuatorianos**.
-
-Aquí están: Presidenta o Presidente y Vicepresidenta o Vicepresidente de la República del Ecuador; cinco representantes al Parlamento Andino; 151 representantes a la Asamblea Nacional.
-
-Los 151 representantes a la Asamblea entre nacionales, provinciales y de las circunscripciones del exterior.
-
-El calendario electoral definido por el CNE establece que las solicitudes para la **inscripción de candidaturas** de todas las dignidades se registrarán únicamente en línea, a través del Sistema de Inscripción de Candidaturas.
-
-Ese proceso empezará el viernes, 13 de septiembre de 2024 hasta las 18:00 del miércoles 2 de octubre.
-
-> [#EcuadorDecide2025](https://twitter.com/hashtag/EcuadorDecide2025?src=hash&ref_src=twsrc%5Etfw) 🇪🇨  
->   
-> En cadena nacional de radio 📻 y televisión📺, informamos sobre la convocatoria a las [#Elecciones2025Ec](https://twitter.com/hashtag/Elecciones2025Ec?src=hash&ref_src=twsrc%5Etfw), cuya fecha de sufragio será el domingo, 9⃣ de febrero. 🗳️  
->   
-> Sigue la transmisión en vivo. 💻⤵️[https://t.co/iKe5pjML38](https://t.co/iKe5pjML38)
-> 
-> — cnegobec (@cnegobec) [September 13, 2024](https://twitter.com/cnegobec/status/1834411774428295630?ref_src=twsrc%5Etfw)
-
-La **campaña electoral** se extenderá del 5 de enero al 6 de febrero de 2025. El 19 de enero, se llevará a cabo el primer simulacro electoral y el debate presidencial.  
-
-El **26 de enero** será el segundo **simulacro** de las elecciones 2025.
-
-El 6 de febrero, las votaciones serán para las **personas privadas de la libertad** sin sentencia ejecutoriada. El 7 de ese mismo mes será el **voto en casa**.  
-
-El 9 de febrero de 2025, las **votaciones generales 2025** se desarrollarán en el territorio nacional y el exterior, en la primera vuelta.  
-  
-
-Escalofriante asesinato de modelo conmociona a Suiza
-====================================================
-
-Kristina Joksimovic fue asesinada a manos de su esposo. Él confesó los espantosos detalles del crimen.
-------------------------------------------------------------------------------------------------------
-
-![Kristina Joksimovic era modelo y exreina de belleza](https://www.elcomercio.com/wp-content/uploads/2024/09/modelo-asesinato.jpg)
-
-Los detalles de la **escalofriante** manera en la que fue asesinada una **modelo en Suiza**, han causado la conmoción internacional.
-
-La modelo **Kristina Joksimovic**, de 38 años, fue reportada como **desaparecida** en febrero de 2024.
-
-### Más noticias
-
-* [Dos años del femicidio de María Belén Bernal se recuerdan con caravana y sin sentencia en firme](https://www.elcomercio.com/actualidad/seguridad/dos-anos-femicidio-maria-belen-bernal-caravana-sin-sentencia-firme.html "Dos años del femicidio de María Belén Bernal se recuerdan con caravana y sin sentencia en firme")
-* [Autor de atroz femicidio fue sentenciado en Ambato](https://www.elcomercio.com/actualidad/seguridad/femicida-ambato-crimen-pareja-fiscalia.html "Autor de atroz femicidio fue sentenciado en Ambato")
-* [Atleta Rebecca Cheptegei falleció luego de que su novio le prendiera fuego](https://www.elcomercio.com/actualidad/mundo/atleta-rebecca-cheptegei-fallecio-luego-de-que-su-novio-le-prendiera-fuego.html "Atleta Rebecca Cheptegei falleció luego de que su novio le prendiera fuego")
-
-Luego de realizar las investigaciones pertinentes, la Policía involucró a su esposo **Thomas** como el principal sospechoso del caso.
-
-Las autoridades no se equivocaron. Las pericias y su confesión demostraron que él fue quien acabó con la vida de la madre de sus **dos hijas**.
-
-Kristina vivía con su familia en Binningen, un poblado cercano a la ciudad de **Basilea**.
-
-Ella tenía cierto reconocimiento en su país por ser finalista del concurso de belleza **Miss Suiza 2008**.
-
-Tras desaparecer, familiares y amigos de la modelo contaron que Thomas la maltrataba físicamente, por lo que la Policía se centró en él.
-
-Luego de unos días, los gendarmes allanaron su casa y descubrieron una **terrible escena**.
-
-Atroz crimen
-------------
-
-Thomas no solo había asesinado a **Kristina Joksimovic**, sino que también la desmembró.
-
-Los medios suizos señalaron que el **femicida** confesó el asesinato; él dijo que mató a Kristina “en **defensa propia**” en marzo.
-
-Esta versión no coincidió con la investigación del crimen, que reveló toda una **planificación** detrás.
-
-En la vivienda se descubrió los **materiales** con los que Thomas asesinó a Kristina: una sierra, un cuchillo y unas tijeras de jardín.
-
-Luego, el hombre utilizó una **licuadora** para triturar el cuerpo de su esposa.
-
-Al ver que todavía quedaban rezagos, el también modelo **disolvió** lo que quedaba de ella con químicos.
-
-Exámenes psicológicos demuestran falta de empatía
--------------------------------------------------
-
-El Tribunal Federal rechazó un pedido de Thomas para ser liberado por **enfermedad mental**.
-
-Por lo pronto, los primeros resultados psicológicos de la investigación arrojaron un “alto nivel de energía criminal y **falta de empatía**“.
-
-Su **sangre fría** al contar los hechos fueron el principal rasgo que llamó la atención de los psicólogos.
-
-Postergan el juicio por la muerte Diego Maradona
-================================================
-
-Diego Armando Maradona es considerado por muchos como uno de los mejores jugadores de fútbol de todos los tiempos.
-------------------------------------------------------------------------------------------------------------------
-
-![Diego Armando Maradona en un partido con la Selección de Argentina.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-12T211746.686.jpg)
-
-El juicio por la muerte del exfutbolista **Diego** **Maradona**, que se programó para el 4 de junio y luego **se aplazó** al 1 de octubre, se postergó nuevamente. Según fuentes judiciales, ahora está previsto que comience el 11 de marzo de 2025.
-
-Así lo decidió hoy el Tribunal Oral en lo Criminal N.º 3 de San Isidro (provincia de Buenos Aires), donde se sigue la causa que investiga las presuntas negligencias médicas en la muerte de uno de los mayores í**dolos del fútbol mundial.**
-
-### Más noticias:
-
-* [La lluvia negra podría afectar a Argentina](https://www.elcomercio.com/actualidad/mundo/lluvia-negra-podria-afectar-argentina.html "La lluvia negra podría afectar a Argentina")
-* [Colombia derrotó a Argentina en Barranquilla](https://www.elcomercio.com/deportes/futbol/colombia-vs-argentina-barranquilla-eliminatorias.html "Colombia derrotó a Argentina en Barranquilla")
-* [¿Lionel Messi seguirá en la Selección de Argentina?](https://www.elcomercio.com/deportes/seleccion-argentina-lionel-messi-colombia.html "¿Lionel Messi seguirá en la Selección de Argentina?")
-
-Por el caso están **imputadas ocho persona**s, todas ellas vinculadas a los cuidados brindados al exinternacional y exseleccionador argentino en sus últimos días en su casa en las afueras de la capital argentina.
-
-Según la resolución del tribunal, difundida en medios locales, se hizo lugar “sin oposición de las demás partes de este proceso” a la solicitud de las defensas del neurocirujano Leopoldo Luque, la psiquiatra Agustina Cosachov y el psicólogo Carlos Díaz, acusados de homicidio simple por dolo eventual, quienes pidieron aplazar el inicio del juicio hasta marzo próximo.
-
-Los otros cinco imputados en la causa, también vinculados a los cuidados sanitarios que Maradona debía recibir, son la médica que coordinaba los cuidados domiciliarios del exfutbolista, Nancy Forlini; el coordinador de los **enfermeros**, Mariano Perroni; el enfermero Ricardo Omar Almirón; la enfermera Dahiana Gisela Madrid; y el médico clínico Pedro Di Spagna.
-
-Diego Armando Maradona y su muerte
-----------------------------------
-
-El ‘**Pelusa’ falleció el 25 de noviembre de 2020**, 25 días después de cumplir 60 años, como consecuencia de un “edema agudo de pulmón secundario a una insuficiencia cardíaca crónica reagudizada”, según la autopsia.
-
-También se descubrió en su corazón una “miocardiopatía dilatada”.
-
-A la luz de la investigación, la **causa final de la muerte** sería “paro cardiorrespiratorio, secundario a edema agudo de pulmón, que se produjo por insuficiencia ventricular izquierda aguda, (insuficiencia cardíaca aguda), en un cuadro agónico de corta duración”.
-
-El campeón del mundo en México 1986 padecía problemas de adicción al alcohol, fue ingresado en una clínica de La Plata el 2 de noviembre de 2020 por un cuadro de anemia y deshidratación.
-
-Un día después, se lo trasladó a un sanatorio de la localidad bonaerense de Olivos, donde lo operaron de un hematoma subdural.
-
-El 11 de noviembre de 2020 recibió el alta hospitalaria y sé lo trasladó a una casa de las afueras de **Buenos Aires, donde falleció.**
-
-Juicio por la muerte
---------------------
-
-El **juicio del caso**, que se llevará a cabo con gran expectación internacional, enfrentó numerosas complicaciones, como la recopilación de pruebas periciales y la solicitud de algunos imputados para que los juzguen de manera diferente al resto, como Madrid, quien pidió una vista con jurado.
-
-Inicialmente, programaron el juicio para el 4 de junio, pero lo aplazaron por primera vez hasta el 1 de octubre. Sin embargo, en ese momento la Justicia ya había dejado claro que esa fecha era poco realista y anticipó que, casi con seguridad, habría una nueva postergación, como se confirmó este jueves.
-
-Daniel Noboa oficializó la gratuidad de las planillas de luz a través de decreto
-================================================================================
-
-La gratuidad de las planillas de luz será por tres meses y con un tope de consumo, según el Decreto Ejecutivo 384 de Daniel Noboa.
-----------------------------------------------------------------------------------------------------------------------------------
-
-![La gratuidad de las planillas de luz en un Decreto Ejecutivo de Daniel Noba.](https://www.elcomercio.com/wp-content/uploads/2024/07/Planilla-de-luz.png)
-
-El presidente **Daniel Noboa** reguló la **gratuidad** de las **planillas de luz** a través del **Decreto Ejecutivo 384**, este jueves 12 de septiembre de 2024[.](https://es.wikipedia.org/wiki/Daniel_Noboa)
-
-La gratuidad de las planillas de luz será en **diciembre de 2024, enero y febrero de 2025**, hasta 180 kw/h.
-
-* [¿Quiénes no pagarán las planillas de luz por tres meses en Ecuador?](https://www.elcomercio.com/actualidad/negocios/quienes-no-pagaran-planillas-luz-tres-meses-ecuador.html "¿Quiénes no pagarán las planillas de luz por tres meses en Ecuador?")
-* [Daniel Noboa anuncia que Gobierno pagará las planillas de luz](https://www.elcomercio.com/actualidad/politica/daniel-noboa-gobierno-pagara-planillas-de-luz.html "Daniel Noboa anuncia que Gobierno pagará las planillas de luz")
-
-El decreto de Daniel Noboa sobre la gratuidad de las planillas eléctricas establece el pago del excedente por parte del usuario
+La CNJ convoca audiencia para 25 acusados en caso Sinohydro, incluido Lenín Moreno, por presunto cohecho en Coca Codo Sinclair.
 -------------------------------------------------------------------------------------------------------------------------------
 
-Noboa decretó analizar y ejecutar las acciones pertinentes para que el Estado otorgue una compensación del valor equivalente a **180 kW/h** al mes.
+![Audiencia del caso Sinohydro para revisión de medidas el pasado 1 de agosto de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/09/cnj.png)
 
-La compensación regirá para la planilla de los usuarios residenciales del servicio público de energía eléctrica en todo el país
+El conjuez **Manuel Cabrera**, de la **Corte Nacional de Justicia**, ha convocado a una nueva audiencia en el caso Sinohydro. Este proceso será el 16 de septiembre y está dirigida a **25 acusados**, entre ellos el expresidente **Lenín Moreno** y varios de sus familiares. La audiencia tiene como objetivo evaluar el caso y preparar el juicio por el delito de cohecho.
 
-El **excedente del consumo será asumido por el usuario**.
+### Más noticias
 
-**Así, si el consumo mensual fluctúa entre 0 y 180 kW/h, el valor a pagar será de cero dólares.**
+* [Fiscalía expone cómo operaba Leandro Norero en el caso Metástasis](https://www.elcomercio.com/actualidad/seguridad/fiscalia-expone-como-operaba-leandro-norero-caso-metastasis.html "Fiscalía expone cómo operaba Leandro Norero en el caso Metástasis")
+* [Caso Purga: CNJ resolvió pedido de sustitución de prisión preventiva para Pablo Muentes y otros](https://www.elcomercio.com/actualidad/seguridad/caso-purga-cnj-resuelve-pedido-sustitucion-prision-preventiva-pablo-muentes.html "Caso Purga: CNJ resolvió pedido de sustitución de prisión preventiva para Pablo Muentes y otros")
 
-Si el consumo supera los 180 kW/h de uso, el Estado asumirá el valor de los 180 y usuario deberá cancelar solamente el excedente.
+La investigación sobre este caso comenzó en marzo de 2019. Inicialmente, se procesó a **37 personas, pero luego se sumaron tres más**. Entre los involucrados figuran **Conto Patiño**, cercano a Moreno, y el **exembajador chino Cai Runguo**. Este caso está relacionado con la contratación de la empresa Sinohydro para la construcción de Coca Codo Sinclair, un proyecto financiado por más de 2 000 millones de dólares.
 
-El Gobierno señala que esta medida es parte de las acciones de **“alivio económico para las familias ecuatorianas que ha anunciado el Primer Mandatario en las últimas semanas”.**
+Contexto del caso Sinohydro
+---------------------------
 
-“Después de haber ordenado las finanzas públicas, podemos encargarnos de las planillas de luz de los hogares de diciembre, enero y febrero hasta de 180 KW de consumo”, dijo Daniel Noboa, cuando hizo el anuncio.
+El 19 de febrero de 2019, los periodistas **Christian Zurita y Fernando Villavicencio** presentaron la investigación **El Laberinto Offshore** del círculo presidencial. En este reportaje, se vinculaba a la familia del entonces presidente Lenín Moreno con la empresa offshore Ina Investment Corporation, constituida en Belice en 2012 por Edwin Moreno, hermano del mandatario.
 
-Pablo ‘Vitamina’ Sánchez no le teme a la presión con Liga de Quito
-==================================================================
+Según el informe, la empresa fue usada para adquirir **bienes como muebles y propiedades** en el extranjero, lo que generó interés en la opinión pública.
 
-La Liga Pro se reanuda tras el parón de las eliminatorias sudamericanas.
-------------------------------------------------------------------------
+Poco después de la publicación, apareció un portal anónimo que aseguraba que “Ina” era un acrónimo formado por las últimas letras de los nombres de las hijas de Moreno: Karina, Cristina e Irina. El caso ganó notoriedad, y la **Asamblea Nacional** empezó a considerar una investigación sobre los supuestos vínculos del presidente con empresas offshore.
 
-![Pablo 'Vitamina' Sánchez en un entrenamiento con Liga de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-12T194205.140.jpg)
+Declaraciones y reacciones en la Asamblea Nacional
+--------------------------------------------------
 
-**Liga** **de** **Quito** es el líder de la segunda etapa de la Liga Pro Serie A 2024. Bajo las órdenes de Pablo ‘Vitamina’ Sánchez, el equipo universitario ha tenido un arranque perfecto en las primeras cinco fechas del torneo.
+El 26 de febrero de 2019, **Lenín Moreno** se pronunció en cadena nacional, negando poseer propiedades fuera de Ecuador y asegurando que **no tenía participación en empresas offshore**. No obstante, el 7 de marzo, el legislador **Ronny Aleaga** intentó sin éxito que el caso se debatiera en el pleno de la Asamblea Nacional. Durante la misma sesión, se filtró un audio que involucraba a la presidenta de la Asamblea, **Elizabeth Cabezas**, en conversaciones sobre el manejo de la votación.
 
-Con cinco victorias y puntaje ideal, el ‘Rey de Copas’ domina la segunda etapa, siendo su más cercano perseguidor Orense, que acumula 12 puntos. Además, como si fuera poco, **la ‘U’ tiene tanto la mejor delantera como la mejor defensa del campeonato.**
+> Rafael Correa nunca me encargó nada relacionado con los sectores estratégicos y no he pedido asilo en Paraguay. Lenin Moreno sobre el caso Sinohydro [pic.twitter.com/bSpuXnS7DN](https://t.co/bSpuXnS7DN)
+> 
+> — Martin Pallares (@Martinminguchi) [March 9, 2023](https://twitter.com/Martinminguchi/status/1633850846663397378?ref_src=twsrc%5Etfw)
+
+Finalmente, el 26 de marzo de 2019, la Asamblea decidió que la **Comisión de Fiscalización** se encargara de investigar el caso. El proceso continuó su curso con la **creación de una comisión multipartidista** que, entre otras acciones, remitió el informe sobre el caso a la Fiscalía y a otras autoridades pertinentes.
+
+Avance de la investigación y formulación de cargos
+--------------------------------------------------
+
+En 2021, la Fiscalía General del Estado anunció avances importantes en la investigación, luego de recibir información desde Panamá a través de asistencia penal internacional. La indagación se extendió más allá de lo inicialmente revelado en los _Ina Papers_, lo que llevó a que en febrero de 2023 se formularan cargos por presunto cohecho contra Lenín Moreno, su familia y otras 31 personas.
+
+La audiencia de formulación de cargos tuvo lugar el 3 de marzo de 2023, y la Fiscalía solicitó medidas cautelares, incluida la prisión preventiva para algunos de los involucrados. Sin embargo, el juez del caso dictó arresto domiciliario para aquellos mayores de 65 años, incluidos Moreno y su esposa, y ordenó la presentación periódica ante las autoridades.
+
+Desarrollo del proceso judicial y medidas cautelares
+----------------------------------------------------
+
+El 5 de marzo de 2023, el **juez Adrián Rojas** dictó **medidas alternativas a la prisión** preventiva para la mayoría de los procesados en el caso. **Lenín Moreno, Judith G. y Xavier M**. fueron obligados a presentarse cada quince días ante la Corte Nacional de Justicia del Ecuador. El resto de los procesados, un total de 37 personas, debían cumplir con la presentación cada ocho días.
+
+Además, se les impuso la prohibición de salir del país y el uso de dispositivos de vigilancia electrónica, con la excepción de Wu Y., para quien se ordenó prisión preventiva.
+
+Posteriormente, el 22 de marzo de 2023, en una audiencia de revisión de medidas cautelares solicitada por diez de los procesados, el **juez Mauricio Espinosa** negó la petición de ocho de ellos. Entre los que se encontraban Lenín Moreno, su esposa Rocío G. y su hija Irina M.
+
+El magistrado señaló que para que las medidas pudieran ser revisadas, debían cumplirse ciertos requisitos legales establecidos en el Código Orgánico Integral Penal (COIP).
+
+Nuevas decisiones judiciales y ampliación de la investigación
+-------------------------------------------------------------
+
+El 6 de junio de 2023, el juez Espinosa rechazó la solicitud de la Fiscalía de dictar prisión preventiva contra varios procesados. En el caso de **Lenín Moreno y Rocío G., se dispuso que se presentaran dentro de los primeros diez días** de cada mes en la sede diplomática del Ecuador en Asunción, Paraguay. Además, debían acudir cada cuatro meses ante la Sala Penal de la Corte Nacional de Justicia en Quito.
+
+Más tarde, el 14 de junio de 2023, la **Fiscalía General del Estado** vinculó a tres personas más a la investigación. El juez Espinosa ordenó medidas cautelares adicionales, incluyendo la prohibición de enajenar bienes inmuebles y la inmovilización de valores para las nuevas involucradas.
+
+Solicitudes de revisión de medidas en 2024
+------------------------------------------
+
+El 1 de agosto de 2024, los procesados **Conto P. y Guillermo M.** solicitaron la revisión de sus medidas cautelares en el marco del caso de presunto cohecho.
+
+Posteriormente, el 15 de agosto de 2024, tras analizar los argumentos presentados durante la audiencia, el juez **Cabrera acogió la solicitud del fiscal general del Estado (s), Wilson Toainga**. Declaró improcedentes los recursos de revisión de medidas cautelares solicitados por los dos procesados. Las medidas cautelares se mantuvieron, y el **proceso judicial siguió avanzando con las mismas restricciones para los involucrados**.
+
+‘Shogun’, ‘The Bear’, ‘Hacks’ y ‘Bebé Reno’, las más ganadoras de los Premios Emmy
+==================================================================================
+
+'Shogun', serie protagonizada por Takehiro Hira, pasó a los récords de los llamados Oscar de la TV, en EE.UU.
+-------------------------------------------------------------------------------------------------------------
+
+![Anna Sawai, ganadora del premio a la Mejor Actriz Principal en una Serie Dramática por 'Shogun', posa con su premio. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/09/d356363f07363fcb156089f082d5ef42a3b5dd44.jpg)
+
+La 76ª edición de los [Premios](https://www.instagram.com/televisionacad/p/C3LEQRTL8f-/?locale=fr_CA "https://www.instagram.com/televisionacad/p/C3LEQRTL8f-/?locale=fr_CA") Emmy se celebró la noche de este 15 de septiembre de 2024 en el Teatro Peacock de Los Ángeles. ‘Shogun’ se coronó como la mejor serie de drama, mientras que ‘Hacks’ dio la sorpresa al vencer a ‘The Bear’, como mejor serie de comedia y ‘Bebé Reno’ triunfó como mejor miniserie.
+
+Más noticias
+------------
+
+* [Los Premios Emmy 2024: Esta es la lista de nominados](https://www.elcomercio.com/tendencias/los-premios-emmy-2024-esta-es-la-lista-de-nominados.html "Los Premios Emmy 2024: Esta es la lista de nominados")
+* [Imagen-‘Shogun’, ‘Baby Reindeer’ y ‘The Bear’ empatan con 4 premios en la 76 edición de los Emmy](https://www.elcomercio.com/wp-content/uploads/2024/09/rss-efe823ba32adcd4af9427571bd71edf713852662b56w.jpg "Imagen-‘Shogun’, ‘Baby Reindeer’ y ‘The Bear’ empatan con 4 premios en la 76 edición de los Emmy")
+
+La ceremonia, conducida por Dan y Eugene Levy, padre e hijo, destacó lo mejor de la televisión estadounidense durante el último año.
+
+Los ganadores de los Emmy 2024 son:
+-----------------------------------
+
+* **Mejor serie de comedia**: ‘Hacks’
+* **Mejor serie de drama**: ‘Shogun’
+* **Mejor miniserie**: ‘Bebé Reno’
+* **Mejor actor en una serie de comedia**: Jeremy Allen White (‘The Bear’)
+* **Mejor actriz en una serie de comedia**: Jean Smart (‘Hacks’)
+* **Mejor actor en una serie de drama**: Hiroyuki Sanada (‘Shogun’)
+* **Mejor actriz en una serie de drama**: Anna Sawai (‘Shogun’)
+* **Mejor actor en una miniserie**: Richard Gadd (‘Baby Reno’)
+* **Mejor actriz en una miniserie**: Jodie Foster (‘True Detective: Night Country’). EFE
+
+‘Shogun’, serie protagonizada por Takehiro Hira, pasó a los récords de los llamados Oscar de la TV, en Estados Unidos. Se convirtió en la segunda producción de habla no inglesa que consigue una nominación en la categoría principal de los Premios Emmys 2024. Previamente, el logro lo ostentó la coreana ‘El juego del calamar’.
+
+‘Hacks’, la gran sorpresa
+-------------------------
+
+La mayor sorpresa de la noche fue que **el premio a la mejor serie de comedia fue para ‘Hacks’.**
+
+El programa, protagonizado por Jean Smart como una diva comediante que repetidamente se enfrenta a su disfuncional asistente milenial, se defendió del ganador anterior y gran favorito ‘The Bear’.
+
+Smart reclamó su tercer Emmy como actriz principal por su papel y bromeó: “Aprecio esto, porque simplemente no recibo suficiente atención”.
+
+El triunfo de ‘Bebé Reno’
+-------------------------
+
+L**a actriz Jessica Gunning obtuvo su Emmy por interpretar a Martha**, la mujer que acosa al protagonista de ‘Bebé Reno’, la alabada y controversial miniserie de Netflix que monopolizó la conversación desde abril.
+
+Richard Gadd, el hombre que creó la ficción a partir de sus propias experiencias dijo: “Hace diez años estaba deprimido. Nunca pensé que lograría recomponer mi vida. Nunca pensé que sería capaz de enmendar lo que me había pasado y ahora aquí estoy, más de una década después, recibiendo uno de los premios más importantes de la televisión”.
+
+El comediante escocés también fue galardonado por su actuación.
+
+Una latina se llevó un galardón por ‘The Bear’
+----------------------------------------------
+
+Jeremy Allen White volvió a ganar el como mejor actor de comedia por la popular serie ‘The Bear’, de _FX_. El actor estadounidense de 33 años logró llevarse, en menos de un año y por segunda gala consecutiva, el reconocimiento otorgado a los mejores intérpretes de televisión en el género de comedia este 2024.
+
+Una sorpresa llegó cuando la estrella de ascendencia puertorriqueña Liza Colón-Zayas ganó el premio a mejor actriz de reparto en una categoría reñida por su papel de Tina Marrero en ‘The Bear’. El año anterior había ganado en esa misma categoría su compañera de reparto Ayo Edebiri.
+
+“¿Cómo podría haber pensado que sería posible estar en presencia de Meryl Streep y Carol Burnett?”, dijo Colón-Zayas mientras las lágrimas brotaban de sus ojos al aceptar el premio en el escenario. Es la primera latina en ganar en la categoría.
+
+Muertos y heridos en Monte Sinaí, Guayaquil
+===========================================
+
+La Policía dio algunos datos de quiénes serían los muertos y heridos en este barrio de Guayaquil.
+-------------------------------------------------------------------------------------------------
+
+![Muertos y heridos en Monte Sinaí, Guayaquil.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-10.jpg)
+
+La **Policía** reportó muertos y heridos en **Monte Sinaí**, al noroeste de **Guayaquil**, la noche de este domingo 15 de septiembre de 2024[.](https://es.wikipedia.org/wiki/Guayaquil)
+
+Decenas de uniformados acudieron a este barrio ubicado al noroeste de la urbe porteña.
 
 ### Más noticias:
 
-* [Alexander Domínguez renovó con Liga de Quito](https://www.elcomercio.com/deportes/futbol/alexander-dominguez-renovo-con-liga-de-quito.html "Alexander Domínguez renovó con Liga de Quito")
-* [Liga de Quito buscará su sexta victoria consecutiva en Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-quito-imbabura-liga-pro-sanchez.html "Liga de Quito buscará su sexta victoria consecutiva en Liga Pro")
-* [Ricardo Adé será baja en Liga de Quito tras las eliminatorias](https://www.elcomercio.com/deportes/futbol/ricardo-ade-lesion-liga-haiti.html "Ricardo Adé será baja en Liga de Quito tras las eliminatorias")
+* [Salinas y Manta viven escenas de terror por ataques armados e incendio de un vehículo](https://www.elcomercio.com/actualidad/seguridad/salinas-y-manta-viven-escenas-de-terror-por-ataques-armados-e-incendio-de-un-vehiculo.html "Salinas y Manta viven escenas de terror por ataques armados e incendio de un vehículo")
+* [Un hombre fue linchado y colgado en el parque central de Cayambe](https://www.elcomercio.com/actualidad/un-hombre-fue-linchado-y-colgado-en-el-parque-central-de-cayambe.html "Un hombre fue linchado y colgado en el parque central de Cayambe")
 
-Debido a su invicto y su destacado rendimiento en este inicio del segundo semestre, Liga de Quito se ha convertido en el principal objetivo de los demás equipos. **Pablo ‘Vitamina’ Sánchez** habló sobre cómo manejar esa presión con sus jugadores y utilizarla como motivación para seguir avanzando firmemente en busca de la final de la Liga Pro.
+Policía da detalles de los muertos y heridos
+--------------------------------------------
 
-Liga de Quito, el objetivo de los demás equipos de la Liga Pro
+Aunque hasta las 20:35 no existía información oficial sobre las circunstancias en que se desarrollaron los hechos, la Policía dio a conocer algunos detalles sobre los muertos y heridos.
+
+La Policía Nacional avanzó hasta el sector de Monte Sinaí, en **Nueva Prosperina**, tras una alerta del Ecuador 911.
+
+“En el lugar se lograron visualizar a **tres personas sin signos vitales** con varios impactos de proyectil de arma de fuego”, informó.
+
+Además, se encontró una persona herida.
+
+Los muertos y el herido son parte de un **Grupo Armado Organizado (GAO)**, agregó la institución.
+
+La Policía aún realiza las investigaciones necesarias para aclarar los hechos ocurridos.
+
+Más hechos violentos en otras partes del país este fin de semana
+----------------------------------------------------------------
+
+La comunidad en **Cayambe** linchó, mató y colgó a un hombre sospechoso de ser autor de la desaparición involuntaria con resultado de muerte de un chofer de una cooperativa del cantón.
+
+El hombre apareció colgado a uno de los costados del parque central de Cayambe; mientras, el otro involucrado en el crimen es procesado y está en prisión preventiva, mientras dura la instrucción fiscal.
+
+En tanto, en **Salinas**, mientras niños, jóvenes y adultos disfrutaban de la playa, se escuchan disparos en contra de un joven, quien de inmediato cae a la arena. Las imágenes del hecho se transmitieron por la red social X.
+
+Gonzalo Plata brilla en Flamengo tras un debut auspicioso
+=========================================================
+
+Gonzalo Plata fue titular en Flamengo en un clásico ante Vasco da Gama. El ecuatoriano empezó con fuerza en Brasil.
+-------------------------------------------------------------------------------------------------------------------
+
+![Gonzalo Plata fue titular en Flamengo ante Vasco Da Gama en el fútbol de Brasil.](https://www.elcomercio.com/wp-content/uploads/2024/09/plantillas-manana-5-3.jpg)
+
+**Gonzalo Plata**, el habilidoso extremo ecuatoriano de 23 años, hizo su esperado debut con la camiseta de Flamengo en el clásico ante Vasco da Gama el 15 de septiembre de 2024.
+
+Plata demostró su talento y habilidades en el empate 1-1, dejando una impresión positiva en su primer partido oficial.
+
+### Más noticias:
+
+* [Liga de Quito y Aucas cayeron y así está la tabla de posiciones en Liga Pro](https://www.elcomercio.com/deportes/futbol/tabla-posiciones-liga-pro-fecha6-liga-quito.html "Liga de Quito y Aucas cayeron y así está la tabla de posiciones en Liga Pro")
+* [El Chelsea de Moisés Caicedo sufrió para ganar al Bournemouth](https://www.elcomercio.com/deportes/futbol/chelsea-moises-caicedo-bournemouth-premier-league.html "El Chelsea de Moisés Caicedo sufrió para ganar al Bournemouth")
+* [Piero Hincapié se destacó en la goleada del Leverkusen al Hoffenheim](https://www.elcomercio.com/deportes/futbol/piero-hincapie-leverkusen-hoffenheim-bundesliga.html "Piero Hincapié se destacó en la goleada del Leverkusen al Hoffenheim")
+
+Plata fue titular y jugó todo el encuentro, destacándose con su velocidad y capacidad de generar peligro.
+
+El partido se disputó en el Estadio Maracaná, y el gol de Flamengo llegó a los 72 minutos gracias a Gerson Santos Da Silva.
+
+Vasco da Gama empató en el minuto 87 con un gol de Philippe Coutinho, asegurando el reparto de puntos.
+
+Gonzalo Plata
+-------------
+
+Desde el inicio del partido, Gonzalo Plata mostró su potencial al generar dos oportunidades claras.
+
+A los 12 minutos, Plata realizó una jugada individual que terminó en un remate desviado.
+
+También tuvo un momento destacado a los 61 minutos, cuando asistió a Bruno Henrique con un cabezazo, pero el intento no se concretó en gol.
+
+A lo largo del partido, Plata exhibió habilidad en la cancha, con remates peligrosos y regate corto.
+
+“Gonzalo Plata no sintió el peso de llevar el manto sagrado. Un gran jugador, demostró mucha personalidad en este clásico, este chico será muy importante para Flamengo. Que gran contratación muchachos”, publicó el usuario de X @DGcorreiaPeres.
+
+La falta de ritmo se hizo evidente al final del partido, cuando el ecuatoriano terminó exhausto. Sin embargo, su desempeño ha dejado una impresión favorable en los aficionados y en el cuerpo técnico de Flamengo, quienes ven en él una valiosa adición al equipo.
+
+Con su primera actuación exitosa, Gonzalo Plata comienza a ganarse el cariño de la hinchada de Flamengo, y se espera que siga creciendo y aportando en futuros encuentros.
+
+> 🔥⚽️ UNA ASISTENCIA DE LA JOYA 💎 ECUATORIANA 🇪🇨 ⚽️🔥  
+>   
+> Gonzalo Plata de cabeza asistió a Bruno Henrique que no logró marcar el gol para el [#Flamengo](https://twitter.com/hashtag/Flamengo?src=hash&ref_src=twsrc%5Etfw) ♥️🖤  
+>   
+> [pic.twitter.com/r3ytvM0bha](https://t.co/r3ytvM0bha)
+> 
+> — KCH FM RADIO (@KCH\_FM) [September 16, 2024](https://twitter.com/KCH_FM/status/1835470360180871653?ref_src=twsrc%5Etfw)
+
+Barcelona SC gana al Macará y vuelve a la pelea por la etapa
+============================================================
+
+Barcelona SC sufrió pero logró una importante victoria en la fecha 6 de la Liga Pro. Los canarios se ilusionan con la etapa.
+----------------------------------------------------------------------------------------------------------------------------
+
+![Barcelona SC supo ganar al Macará en la fecha 6 de la Liga Pro en Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/09/bsc-3.jpg)
+
+**Barcelona SC** logró una victoria crucial al derrotar 2-1 a **Macará** el 15 de septiembre de 2024, y se reposicionó en la lucha por la etapa de la Liga Pro.
+
+Con goles de **Octavio Rivero** a los 16 y 62 minutos, el **‘Ídolo del Astillero’** subió al cuarto lugar de la tabla de clasificaciones, acercándose a solo tres puntos del líder, Liga de Quito.
+
+Los hinchas sufrieron más de la cuenta en este partido.
+
+### Más noticias:
+
+* [Liga de Quito y Aucas cayeron y así está la tabla de posiciones en Liga Pro](https://www.elcomercio.com/deportes/futbol/tabla-posiciones-liga-pro-fecha6-liga-quito.html "Liga de Quito y Aucas cayeron y así está la tabla de posiciones en Liga Pro")
+* [Escandalosa goleada del Imbabura a Liga de Quito en Ibarra](https://www.elcomercio.com/deportes/futbol/goleada-imbabura-liga-quito-ibarra.html "Escandalosa goleada del Imbabura a Liga de Quito en Ibarra")
+* [Orense empató con U. Católica y se aleja de la pelea por la Liga Pro](https://www.elcomercio.com/deportes/futbol/orense-universidad-catolica-ligapro-partido-resultado.html "Orense empató con U. Católica y se aleja de la pelea por la Liga Pro")
+
+El cotejo, disputado en el estadio Monumental de Guayaquil, evidenció el esfuerzo del equipo dirigido por **Ariel Holan**, pero también las falencias en defensa.
+
+Para muchos hinchas, el equipo no es contundente como local.
+
+Sin embargo, Rivero fue la figura destacada del encuentro y marcó dos veces para asegurar el triunfo. Darwin López descontó para Macará a los 39 minutos, pero no fue suficiente para evitar la derrota.
+
+Eso sí, los locales pasaron algunos sustos, sobre todo al final cuando Macará se fue con todo para intentar el empate que no llegó. Fue una victoria muy trabajada.
+
+**Víctor Mendoza**, arquero titular de Barcelona SC, jugó un papel importante en la defensa del arco. “Hemos trabajado durísimo para este partido, sabemos la calidad de los jugadores rivales, pero también hemos preparado estrategias para contrarrestarlos”, comentó Mendoza antes del inicio del partido. Su desempeño fue clave para mantener la ventaja y asegurar los tres puntos.
+
+Barcelona y la tabla de posiciones
+----------------------------------
+
+Con esta victoria, **Barcelona SC** alcanzó los 12 puntos y se ubicó en la cuarta posición.
+
+Liga de Quito sigue liderando la tabla con 15 puntos, seguido por Orense con 13 e Independiente del Valle con 12.
+
+El triunfo de Barcelona SC es aún más significativo considerando que Liga de Quito sufrió una dura derrota por 4-0 ante Imbabura, lo que abre la puerta a una posible remontada en la fase dos del torneo.
+
+En la próxima jornada, Barcelona SC visitará a **Deportivo Cuenca**, mientras que Macará recibirá a Imbabura.
+
+Con 10 puntos, Macará ocupa el séptimo lugar, pero la lucha por la clasificación sigue siendo intensa.
+
+> ¡Siempre OCTAGOL! 🇺🇾✊  
+>   
+> [pic.twitter.com/PqoZz9S7Ti](https://t.co/PqoZz9S7Ti)
+> 
+> — BARCELONA S.C. (@BarcelonaSC) [September 15, 2024](https://twitter.com/BarcelonaSC/status/1835453086367719784?ref_src=twsrc%5Etfw)
+
+Así está la tabla de posiciones de la Liga Pro:
+-----------------------------------------------
+
+1. **Liga de Quito, 15 puntos**
+2. Orense, 13
+3. IDV, 12
+4. Barcelona SC, 12
+5. **Mushuc Runa, 11**
+6. Católica, 10
+7. Macará, 10
+8. El Nacional, 10
+9. Delfín, 8
+10. Imbabura, 7
+11. Técnico Universitario, 7
+12. **Libertad, 7**
+13. Emelec, 3
+14. Deportivo Cuenca, 1
+15. **Cumbayá, 1**
+16. Aucas, 1
+
+> GO LEA DOR 👏🏻😱  
+>   
+> Una vez más, Octavio Rivero. [@BarcelonaSC](https://twitter.com/BarcelonaSC?ref_src=twsrc%5Etfw) lo gana 2-1 tras un cabezazo del atacante. [#ZappingSports](https://twitter.com/hashtag/ZappingSports?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/VjBhdhwdu3](https://t.co/VjBhdhwdu3)
+> 
+> — Zapping Ecuador (@zapping\_ecu) [September 16, 2024](https://twitter.com/zapping_ecu/status/1835469099175972899?ref_src=twsrc%5Etfw)
+
+Salinas y Manta viven escenas de terror por ataques armados e incendio de un vehículo
+=====================================================================================
+
+Un joven fue herido en Salinas. A otras tres personas les dispararon y un auto fue incendiado en Manta.
+-------------------------------------------------------------------------------------------------------
+
+![A la izquierda, un auto en llamas rueda en una calle llena de gente, en Manta. A la derecha, un hombre cayó a la arena tras recibir un disparo, en la playa de Salinas. Fotos tomadas de X](https://www.elcomercio.com/wp-content/uploads/2024/09/foto_manta_salinas_720.jpg)
+
+Mientras niños, jóvenes y adultos disfrutaban de la playa de Salinas se escuchan disparos en contra de un joven, quien de inmediato cae a la arena. Las imágenes del hecho se transmitieron por la red social X.
+
+Más noticias
+------------
+
+* [Policía Nacional captura a nueve presuntos integrantes de Los Lobos](https://www.elcomercio.com/actualidad/seguridad/policia-nacional-captura-a-nueve-presuntos-integrantes-de-los-lobos.html "Policía Nacional captura a nueve presuntos integrantes de Los Lobos")
+* [En Quito, los siniestros de tránsito provocan más muertes que los crímenes violentos](https://www.elcomercio.com/actualidad/quito/en-quito-los-siniestros-de-transito-provocan-mas-muertes-que-los-crimenes-violentos.html "En Quito, los siniestros de tránsito provocan más muertes que los crímenes violentos")
+
+El hombre herido cayó de inmediato a la arena. Mujeres que se encontraban cerca se acercaron para ayudarlo. Luego se ve que es llevado en la parte trasera de una camioneta a un centro de salud.
+
+> Ahora, ataque armado en Salinas en pleno día y con la playa llena de familias. Ya no se puede vivir así ¿Y el plan Fénix? ¿Y el presidente? [pic.twitter.com/dduOKLtzjc](https://t.co/dduOKLtzjc)
+> 
+> — Daniel Salcan (@Danielsalcan\_) [September 15, 2024](https://twitter.com/Danielsalcan_/status/1835412872135848339?ref_src=twsrc%5Etfw)
+
+La [Policía](https://noticias.policia.gob.ec/ "https://noticias.policia.gob.ec/") aún no da detalles de la víctima de este ataque ni de qué se trata este nuevo intento de homicidio con arma de fuego.
+
+Las personas que se encontraban en el lugar mostraron su indignación a través de las redes sociales.
+
+En la mañana, un ataque armado también se registró en Manta, Manabí. En la **parroquia Los Esteros**, unos sujetos dispararon en contra de tres personas. Estaba una niña de 6 años.
+
+Las autoridades no dan información sobre las causas del ataque, tampoco se conoce el estado de salud de las víctimas.
+
+Un auto es incendiado en Manta
+------------------------------
+
+> 🇪🇨 | URGENTE  
+>   
+> ¡Manta, puerto principal de Manabí en Ecuador, no aguanta más! La delincuencia descontrolada ha llevado a un nuevo nivel de terror en la ciudad.  
+>   
+> Criminales utilizaron un vehículo para un atentado, y tras el ataque, lo incendiaron antes de que este se impactara… [pic.twitter.com/ZPVW7FYNVa](https://t.co/ZPVW7FYNVa)
+> 
+> — ISRAEL CON EMUNÁ (@NotICE\_724) [September 15, 2024](https://twitter.com/NotICE_724/status/1835463308306251857?ref_src=twsrc%5Etfw)
+
+Otro caso que alarmó a los moradores de un barrio de Manta se conoció, a través de videos subidos en la red social X. Las imágenes muestran que presuntos delincuentes prendieron fuego a un auto.
+
+Luego se observa al vehículo rodar hacia bajo de una estrecha calle llena de gente que gritaba. Al final, el auto se estrella contra una vivienda. Moradores del lugar corren hacia el inmueble para intentar apagar el fuego, mientras otros salen asustados.
+
+Según ciudadanos que postearon los videos, el hecho ocurrió en el barrio Las Vegas, en Manta. Hasta las 19:00 no había una explicación oficial, por parte de las autoridades policiales.
+
+Donald Trump se salva de un segundo atentado en su contra
+=========================================================
+
+El FBI investiga este segundo atentado como un intento de asesinato contra Donald Trump.
+----------------------------------------------------------------------------------------
+
+![Donald Trump candidato presidencial de Estados Unidos, sufrió un segundo atentado.](https://www.elcomercio.com/wp-content/uploads/2024/07/Donald-Trump-juicio-efe.jpg)
+
+**Donald Trump**, expresidente de **Estados Unidos** y actual candidato republicano, se salvó de un **segundo atentado** en su contra, este domingo 15 de septiembre de 2024.
+
+Trump afirmó que se encuentra bien, tras el incidente violento registrado junto a su **campo de golf**.
+
+### Más noticias:
+
+* [Kamala Harris aventaja a Donald Trump entre latinos](https://www.elcomercio.com/actualidad/mundo/kamala-harris-aventaja-a-donald-trump-entre-latinos.html "Kamala Harris aventaja a Donald Trump entre latinos")
+* [Donald Trump descarta participar en otro debate con Kamala Harris](https://www.elcomercio.com/actualidad/mundo/donald-trump-descarta-participar-debate-kamala-harris.html "Donald Trump descarta participar en otro debate con Kamala Harris")
+
+El candidato presidencial republicano ya sufrió un atentado el pasado **13 de julio**, durante un mitin político.
+
+Una bala rozó su oreja, mientras él hablaba a través de un micrófono a la multitud.
+
+Circunstancias del segundo atentado en contra de Donald Trump
+-------------------------------------------------------------
+
+Según medios estadounidenses, una persona fue detenida en las inmediaciones del campo de golf.
+
+Esta persona portaba un arma larga, un rifle AK47, y tenía la intención de atacar al candidato republicano.
+
+La **Oficina Federal de Investigación (FBI, en inglés)** confirmó este domingo que el suceso junto al campo de golf donde estaba jugando el expresidente estadounidense Donald Trump está siendo investigado como un “intento de asesinato”.
+
+“El FBI ha respondido a West Palm Beach, Florida, y está investigando lo que parece ser un intento de asesinato del expresidente Trump”, apuntó en un comunicado.
+
+Según medios como CNN, el Servicio Secreto disparó contra el sospechoso y tras el suceso se recuperó un arma larga. Las autoridades creen que el individuo tenía la intención de atacar al exmandatario (2017-2021), quien se encuentra a salvo.
+
+Más tarde, Trump respondió que estaba a salvo, que nada le detendrá y nunca se rendirá.
+
+“Hubo disparos cerca de mí, pero antes de que los rumores comiencen a salirse de control, quiero que escuches esto primero: ¡Estoy a salvo y bien!”, señaló en un comunicado de prensa.
+
+En un comunicado, la **Casa Blanca** señaló que el presidente Joe Biden, y la vicepresidenta y candidata demócrata, Kamala Harris, fueron informados.
+
+La información fue “sobre el incidente de seguridad en el campo de golf Trump International, donde el expresidente Trump estaba jugando”.
+
+“Están aliviados de saber que está a salvo. Su equipo los mantendrá informados periódicamente”, dijo la Presidencia.
+
+Juez toma medidas contra el otro involucrado en la muerte del chofer de Cayambe
+===============================================================================
+
+La muerte del chofer de Cayambe tuvo dos involucrados, el uno apareció colgado en el parque central y el otro es procesado.
+---------------------------------------------------------------------------------------------------------------------------
+
+![El involucrado en la muerte del chofer de Cayambe es procesado en la Unidad Judicial de ese cantón.](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-9.jpg)
+
+Un juez de la Unidad Judicial de Cayambe tomó medidas en contra del otro involucrado en la muerte de Patricio Iguago, chofer de camioneta y socio de la cooperativa 11 de Agosto, la tarde de este domingo 15 de septiembre de 2024.
+
+El otro sujeto apareció colgado a un costado del parque central de Cayambe, la comunidad lo ajustició.
+
+### Más noticias:
+
+* [Lo que se sabe del hombre colgado en el parque de Cayambe](https://www.elcomercio.com/actualidad/seguridad/lo-que-se-sabe-hombre-colgado-parque-cayambe.html "Lo que se sabe del hombre colgado en el parque de Cayambe")
+
+Patricio Iguago desapareció el jueves 12 de septiembre.
+
+La noche del viernes 13, dos sospechosos de su desaparición fueron llevados a la comunidad de Santa Isabel en Juan Montalvo.
+
+Uno de ellos confesó la muerte de Iguago y, junto a autoridades indígenas y la Policía, se trasladó a una quebrada en Oyacoto, donde estaba el cuerpo de la víctima.
+
+La comunidad retuvo al otro sospechoso y, cuando se confirmó el deceso de Iguago, la comunidad, enardecida, lo ajustició y luego lo colgó en el parque central de Cayambe.
+
+Mientras, Fiscalía y Policía iniciaron los procedimientos judiciales en contra del sospechoso que confesó el crimen.
+
+Medidas tomadas por un juez contra el otro involucrado en la muerte del chofer de Cayambe
+-----------------------------------------------------------------------------------------
+
+La tarde de este domingo 15 de septiembre, se desarrolló la audiencia de formulación de cargos contra Luis V., en la Unidad Judicial de Cayambe.
+
+Luis V. es el presunto responsable de la **desaparición involuntaria con resultado de muerte** de Iguago.
+
+A las 16:10, Fiscalía informó que el juez acogió el pedido de la Fiscalía.
+
+Sobre la base de los elementos de convicción presentados, el juez ordenó prisión preventiva para Luis V.
+
+La instrucción fiscal durará 90 días.
+
+> [#AHORA](https://twitter.com/hashtag/AHORA?src=hash&ref_src=twsrc%5Etfw) | [#Pichincha](https://twitter.com/hashtag/Pichincha?src=hash&ref_src=twsrc%5Etfw): en la Unidad Judicial del cantón [#Cayambe](https://twitter.com/hashtag/Cayambe?src=hash&ref_src=twsrc%5Etfw), se desarrolla la audiencia de formulación de cargos contra Luis V., presunto responsable de la [#desaparicióninvoluntaria](https://twitter.com/hashtag/desaparici%C3%B3ninvoluntaria?src=hash&ref_src=twsrc%5Etfw) con resultado de muerte del ciudadano cuyo cuerpo fue encontrado en el sector de [#Oyacoto](https://twitter.com/hashtag/Oyacoto?src=hash&ref_src=twsrc%5Etfw). [pic.twitter.com/mLCp8eYBhT](https://t.co/mLCp8eYBhT)
+> 
+> — Fiscalía Ecuador (@FiscaliaEcuador) [September 15, 2024](https://twitter.com/FiscaliaEcuador/status/1835418339923140740?ref_src=twsrc%5Etfw)
+
+[](https://x.com/FiscaliaEcuador/status/1835418339923140740/photo/1)
+
+Devastadoras inundaciones causan seis muertes y miles de evacuados en Europa Central
+====================================================================================
+
+Austria, República Checa, Hungría, Rumanía y Eslovaquia son los más afectados por las lluvias torrenciales.
+-----------------------------------------------------------------------------------------------------------
+
+![Un hombre rumano (al fondo) limpia el agua de su casa con un cubo de plástico, en la aldea de Slobozia Conachi, afectada por las inundaciones, cerca de la ciudad de Galati. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-14.jpg)
+
+Mientras en Sudamérica, la sequía genera problemas de incendios y racionamientos de energía y agua, Austria, República Checa, Hungría, Rumanía y Eslovaquia afrontan devastadoras inundaciones. **Seis personas murieron y miles** fueron evacuados este fin de semana a causa de una tormenta de lluvias torrenciales que azota **Europa Central**.
+
+Más noticias
+------------
+
+* [Secretario general de la ONU declara emergencia climática global en el Pacífico](https://www.elcomercio.com/actualidad/mundo/secretario-general-onu-declara-pacifico-emergencia-climatica-global.html "Secretario general de la ONU declara emergencia climática global en el Pacífico")
+* [Científicos creen que la mayoría de los índices de ‘olas de calor’ no reflejan su gravedad](https://www.elcomercio.com/actualidad/mundo/cientificos-creen-mayoria-indices-olas-calor-reflejan-gravedad.html "Científicos creen que la mayoría de los índices de ‘olas de calor’ no reflejan su gravedad")
+
+En **Rumanía** se descubrieron ayer cuatro cadáveres en la región más afectada, Galati, en el sureste. Ahí cinco mil casas resultaron dañadas, según informaron los servicios de emergencia. Este sitio ha sido clasificado como zona de catástrofe natural a causa del temporal.
+
+Las autoridades enviaron **10 barcos para rescatar a los residentes** y ordenaron a la **Gendarmería rumana que ayudara en las evacuaciones**. Los residentes del condado también recibirán agua y alimentos suficientes para una semana y podrán alojarse en casas modulares provisionales.
+
+Hasta ahora se conoce que cinco personas murieron y dos están desaparecidas. Hay 5 800 hogares afectados y 25 mil personas se quedaron sin electricidad.
+
+Inundaciones amenazan con sumergir la ciudad checa de Krnov
+-----------------------------------------------------------
+
+Las inundaciones en la **República Checa** sumergieron casi por completo la ciudad de **Krnov**, situada en el este y cerca de la frontera polaca. El **80%** de su territorio está bajo el agua, mientras las autoridades advierten de que ya es imposible evacuar y dependen de la ayuda [regional.](https://european-union.europa.eu/index_es "https://european-union.europa.eu/index_es")
+
+Krnov, con 23 mil habitantes, está en la región de Moravia-Silesa, en la confluencia de los ríos Opava y Opavice. Los niveles de agua de estos ríos aumentaron tras las precipitaciones registradas desde el jueves.
+
+El teniente de alcalde de Krnov, Miroslav Binar, declaró a la agencia de noticias checa CTK que enfrenta una catástrofe más grave que la inundación de 1997, la cual dejó 49 muertos y provocó daños millonarios.
+
+Hasta 100 mil bomberos ayudan en casi tres mil incidentes registrados en este país de Europa Central.
+
+Un muerto y dos mil evacuados en el suroeste de Polonia
+-------------------------------------------------------
+
+Una persona falleció y casi dos mil personas fueron evacuadas en el suroeste de Polonia debido a las fuertes inundaciones en Baja Silesia y Opole, informó el primer ministro polaco, Donald Tusk.
+
+En el distrito de Kłodzko (en Baja Silesia, cerca de Chequia) ocurrió la primera muerte por ahogamiento, dijo el político liberal durante una rueda de prensa.
+
+Se trata de un hombre en la localidad de Krosnowice, pero los servicios de emergencia no pueden acceder a la localidad porque ésta está inundada, según la Policía local.
+
+El mandatario, que se desplazó a Kłodzko, explicó que se han tenido que evacuar a 1 600 residentes, pero advirtió que habrá “muchas más evacuaciones”. Lo más dramático se encuentra en el valle de Kłodzko, es decir, Stronie Śląskie y Lądek, añadió.
+
+El primer ministro pidió a los habitantes que no subestimen la amenaza y no se nieguen a evacuar.
+
+Austria califica de ‘inundación del siglo’
+------------------------------------------
+
+Austria declaró este domingo zona catastrófica el estado federado de Baja Austria, el más grande y poblado del país. Las fuertes lluvias que provocaron inundaciones históricas, forzando la evacuación de miles de personas y causando la muerte de un bombero.
+
+“Insto a todos los habitantes de Baja Austria en las regiones afectadas a prepararse para más lluvias e inundaciones, que permanezcan alerta y sigan las instrucciones de los servicios de emergencia. Esperamos desafíos de dimensiones históricas, especialmente en Waldviertel”, advirtió la gobernadora de Baja Austria, Johanna Mikl-Leitner, tras una sesión informativa.
+
+En Waldviertel, a unos 120 kilómetros al noroeste de Viena, las autoridades esperan la “inundación del siglo”, pues prevén que el río Kamp, afluente del Danubio, supere los niveles registrados en los últimos cien años, causando el desbordamiento del embalse de Ottenstein.
+
+Las inundaciones también están impactando en **Hungría** y **Eslovaquia.**
+
+Cuatro funcionarios de cárceles asesinados en menos de 15 días
+==============================================================
+
+Ante de los cuatro funcionarios asesinados, guías penitenciarios señalaron que estaban en la indefensión, en junio pasado.
+--------------------------------------------------------------------------------------------------------------------------
+
+![Dos guías penitenciarias fueron asesinadas. Foto: Cortesía.](https://www.elcomercio.com/wp-content/uploads/2024/09/Guia-asesinadas.jpg)
+
+Cuatro funcionarios de cárceles fueron asesinados en menos de un mes, en Ecuador.
+
+Los guías penitenciarios advirtieron que estaban en la indefensión, en junio pasado.
+
+### Más noticias:
+
+* [¿La Directora de la Penitenciaría del Litoral asesinada tenía custodia?](https://www.elcomercio.com/actualidad/seguridad/directora-penitenciaria-litoral-asesinada-custodia.html "¿La Directora de la Penitenciaría del Litoral asesinada tenía custodia?")
+* [Lo que se sabe del asesinato de guías penitenciarias en Daule](https://www.elcomercio.com/actualidad/seguridad/lo-que-se-sabe-del-asesinato-de-guias-penitenciarias-en-daule.html "Lo que se sabe del asesinato de guías penitenciarias en Daule")
+* [Director de una cárcel fue asesinado en Lago Agrio](https://www.elcomercio.com/actualidad/seguridad/director-carcel-lago-agrio-asesinato.html "Director de una cárcel fue asesinado en Lago Agrio")
+
+Cuatro funcionarios de cárceles asesinados en menos de 15 días
 --------------------------------------------------------------
 
-Completado un tercio del segundo semestre de la Liga Pro, **Liga de Quito es el equipo más sólido** y en mejor forma en el campeonato ecuatoriano.
+El sábado **31 de agosto** fue un día catastrófico para **dos guías penitenciarias**, víctimas de un ataque armado en la vía a Daule.
 
-“Es **habitual que todos quieran ganarle al puntero**, te miran como líder. Ese es el valor agregado a la dificultad que vamos a tener desde ahora”, comentó Pablo Sánchez en rueda de prensa, previo al partido que disputará contra Imbabura.
+Sicarios, que se trasladaban en moto, dispararon a las funcionarias del SNAI, cerca de las 18:45.
 
-Asimismo, ‘Vitamina’ destacó la importancia de seguir sumando puntos como visitante, algo que ha sido una constante para el cuadro universitario, con **dos victorias fuera de casa** en las primeras cinco jornadas.
+Los asesinos les dispararon a la altura de la cárcel Regional.
 
-“De visita tenemos que seguir intentando traernos todos los puntos posibles. Si nos va bien, nos va a dejar muy bien posicionados”, argumentó.
+Tres días después, el **3 de septiembre**, bajo la misma modalidad de sicariato, mataron a otro funcionario en Lago Agrio, Sucumbíos.
 
-> Rueda de prensa previa a [#ImbaburaLIGA](https://twitter.com/hashtag/ImbaburaLIGA?src=hash&ref_src=twsrc%5Etfw) | 🗣️ DT. Pablo "Vitamina" Sánchez [pic.twitter.com/RzDakyCYsb](https://t.co/RzDakyCYsb)
+Esta vez se trataba de **Álex Guevara, director del Centro de Rehabilitación Social** de la provincia.
+
+Sicarios atacaron, con más de 20 disparos, un vehículo en el redondel del puente del río Aguarico.
+
+El cuerpo de la víctima mortal quedó en el interior del vehículo.
+
+El atacante usó un arma tipo fusil 5,56 y que en el lugar hallaron varios indicios balísticos, confirmó la Policía.
+
+Nueve días después de este tercer asesinato a funcionarios de cárceles, el **12 de septiembre**, sicarios mataron a otra directora.
+
+Se trataba de María Icaza, directora de la Penitenciaría del Litoral encargada.
+
+**María Daniela Icaza,** viajaba en el asiento del copiloto y murió mientras los servicios de emergencia las trasladaban al hospital.
+
+El incidente ocurrió sobre las 18:00.
+
+La Fiscalía y la Policía confirmaron que la funcionaria no contaba con custodia.
+
+Mientras, el hermano de la víctima dijo que nunca le dieron protección, pese a los pedidos y la peligrosidad del cargo que ocupaba; la Policía señaló que Icaza nunca pidió esa protección.
+
+Funcionarios de cárceles señalaron que estaban en la indefensión
+----------------------------------------------------------------
+
+En junio pasado, la **Asociación de Agentes Penitenciarios del Ecuador** volvió a denunciar la falta de garantías para ejercer su trabajo.
+
+Dijeron que no cuentan con armas y sus chalecos están caducados.
+
+Las declaraciones las hicieron luego de que cuatro guías penitenciarios trasladaron a tres presos de la cárcel El Inca hasta el hospital **Pablo Arturo Suárez**.
+
+En el trayecto, desconocidos dispararon en contra de la ambulancia.
+
+Como resultado, una **guía penitenciaria y una funcionaria del SNAI quedaron heridas**.
+
+Liga de Quito y Aucas cayeron y así está la tabla de posiciones en Liga Pro
+===========================================================================
+
+Liga de Quito sigue al frente de la tabla de posiciones de la Liga Pro pese a perder por goleada; Aucas cayó y sigue último
+---------------------------------------------------------------------------------------------------------------------------
+
+![Liga de Quito sigue al frente de la tabla de posiciones de la Liga Pro pese a perder por goleada contra Imbabura.](https://www.elcomercio.com/wp-content/uploads/2024/09/ldu.jpg)
+
+En una sorprendente fecha 6 de la **Liga Pro** de Ecuador, **Imbabura SC** dio un golpe de autoridad al vencer por 4-0 a **Liga de Quito**, en el estadio **Olímpico de Ibarra.**
+
+Con esta victoria, el equipo ‘Gardenio’ no solo celebró un triunfo contundente, sino que también puso fin al invicto de los albos en la fase dos del torneo.
+
+Pese a la aplastante derrota, **LDU** sigue de líder en la **tabla de posiciones** de la Liga Pro.
+
+### Más noticias:
+
+* [Los partidos de la fecha 6 de la Liga Pro para el 14 de septiembre de 2024](https://www.elcomercio.com/deportes/futbol/partidos-fecha6-liga-pro-ecuador.html "Los partidos de la fecha 6 de la Liga Pro para el 14 de septiembre de 2024")
+* [Escandalosa goleada del Imbabura a Liga de Quito en Ibarra](https://www.elcomercio.com/deportes/futbol/goleada-imbabura-liga-quito-ibarra.html "Escandalosa goleada del Imbabura a Liga de Quito en Ibarra")
+* [Los jugadores de fútbol con los nombres más extravagantes](https://www.elcomercio.com/deportes/futbol/los-jugadores-de-futbol-con-los-nombres-mas-extravagantes.html "Los jugadores de fútbol con los nombres más extravagantes")
+
+Desde el inicio del partido, **Imbabura** mostró su dominio el 14 de septiembre del 2024. El delantero argentino **Luca Klimowicz** abrió el marcador a los 6 minutos con un potente remate.
+
+**Federico Paz** amplió la ventaja a los 22 minutos, y **Klimowicz** volvió a marcar a los 44 minutos. Para cerrar una primera mitad de ensueño, Leandro Pantoja convirtió un penal en el minuto 45+2, dejando el marcador 4-0 antes del descanso.
+
+Aunque Imbabura se quedó con un jugador menos tras la expulsión de Erick Mendoza a los 70 minutos, Liga de Quito no logró descontar, evidenciando las dificultades defensivas del equipo dirigido por [Pablo ‘Vitamina’ Sánchez.](https://es.wikipedia.org/wiki/Pablo_S%C3%A1nchez)
+
+Liga y la tabla de posiciones
+-----------------------------
+
+Con esta derrota, **Liga de Quito** mantiene el primer lugar en la tabla con 15 puntos, pero ahora enfrenta una competencia más cercana.
+
+En la sexta etapa de la fase dos, **Orense** ocupa el segundo lugar con 13 puntos, seguido por Independiente del Valle y Barcelona SC con 12 puntos.
+
+Así está la tabla de posiciones de la Liga Pro:
+
+1. **Liga de Quito, 15 puntos**
+2. Orense, 13
+3. IDV, 12
+4. Barcelona SC, 12
+5. **Mushuc Runa, 11**
+6. Católica, 10
+7. Macará, 10
+8. El Nacional, 10
+9. Delfín, 8
+10. Imbabura, 7
+11. Técnico Universitario, 7
+12. **Libertad, 7**
+13. Emelec, 3
+14. Deportivo Cuenca, 1
+15. **Cumbayá, 1**
+16. Aucas, 1
+
+El Nacional ganó de local
+-------------------------
+
+En otro partido de la jornada, El Nacional se impuso 2-1 sobre Cumbayá en el estadio Olímpico Atahualpa de Quito.
+
+Gabriel Cortez y Jorge Ordóñez anotaron para el equipo militar, mientras que Fernando Delgado descontó para Cumbayá.
+
+Con este triunfo, El Nacional se posiciona en el sexto lugar con 10 puntos, y se prepara para enfrentar a Liga de Quito en un clásico crucial en la próxima fecha.
+
+Aucas perdió de local
+---------------------
+
+Por otro lado, Aucas fue superado por el Mushuc Runa en el Gonzalo Pozo y sigue en una mala racha en el último lugar de la tabla de posiciones.
+
+Mathías Acuña y Stiven Tapiero anotaron por el ‘Ponchito’, mientras Carlos Rolón descontó por el ‘Papá’ Aucas.
+
+La campaña del **Aucas** es pésima en la segunda etapa. Solo empató con El Nacional y ha perdido contra Orense, Liga de Quito, Técnico Universitario, IDV y ahora ante Mushuc Runa.
+
+Los hinchas orientales están afligidos por el mal momento del club.
+
+La lucha por mantenerse en la Serie A se intensifica a medida que avanza la segunda fase del torneo ecuatoriano.
+
+Nuevo incendio forestal en el sector La Toglla, en el cerro Ilaló de Quito
+==========================================================================
+
+Una nube de humo se esparció por los Valles y algunos sectores del distrito metropolitano.
+------------------------------------------------------------------------------------------
+
+![El humo provocado por este incendio se visualiza desde distintos puntos de Quito. Foto: tomada de X](https://www.elcomercio.com/wp-content/uploads/2024/09/Diseno-sin-titulo-13.jpg)
+
+El Cuerpo de Bomberos de Quito están trabajando en apagar un nuevo incendio forestal. Esta vez se trata del cerro Ilaló, en el sector La Toglla, en Quito.
+
+Más noticias
+------------
+
+* [¿Cuántas hectáreas fueron afectadas por los incendios forestales en Quito?](https://www.elcomercio.com/actualidad/quito/hectareas-afectadas-incendios-quito.html "¿Cuántas hectáreas fueron afectadas por los incendios forestales en Quito?")
+* [Incendio forestal en Colinas del Norte, Quito](https://www.elcomercio.com/actualidad/quito/incendio-forestal-colinas-norte-quito.html "Incendio forestal en Colinas del Norte, Quito")
+
+Desde las **cámaras** de videovigilancia del Servicio Integrado de Seguridad [ECU911](https://ecu911.gob.ec/SAEI/#login) se observa una **línea** de fuego que sube desde la vía principal, cerca del estadio de **La Toglla.**
+
+Debido a los fuertes vientos, el fuego se esparció rápidamente y una nube de humo se levantó y se visualiza desde varios puntos de la ciudad.
+
+Los Bomberos indicaron, a través de su cuenta de X, que debido a este incendio existe residuos de combustión y humo en algunos sectores de los Valles y del Distrito Metropolitano.
+
+> 👨‍🚒 [#IncendiosForestales](https://twitter.com/hashtag/IncendiosForestales?src=hash&ref_src=twsrc%5Etfw) | Debido al incendio forestal que se registra en el sector del cerro Ilaló, existe presencia de humo y residuos de combustión en algunos sectores de los valles y el Distrito Metropolitano de Quito.  
+>   
+> ⬇️ Por favor, sigue estas recomendaciones para evitar… [pic.twitter.com/hVX4dc8pui](https://t.co/hVX4dc8pui)
 > 
-> — LDU Oficial (@LDU\_Oficial) [September 12, 2024](https://twitter.com/LDU_Oficial/status/1834338004237730125?ref_src=twsrc%5Etfw)
+> — Bomberos Quito (@BomberosQuito) [September 15, 2024](https://twitter.com/BomberosQuito/status/1835427053891420314?ref_src=twsrc%5Etfw)
 
-¿Cuándo juega Liga de Quito?
-----------------------------
+Hasta las 18:00 de hoy, el incendio aún no era sofocado. Las Empresas de Agua y de Movilidad apoyan con tanqueros, mientras que por aire se realizaron tres descargas con bambi bucket (balde especializado suspendido de un cable transportado por un helicóptero para entregar agua)
 
-Liga de Quito **visitará a Imbabura** el sábado 14 de septiembre por la sexta fecha de la Segunda Etapa de la Liga Pro Serie A 2024.
+Los ciudadanos han subido imágenes y videos del humo que se visualiza, desde los distintos puntos de la urbe.
 
-El compromiso está pactado para las 16:30 y se disputará en el **Estadio Olímpico de Ibarra**.
+> Incendio en las faldas del Ilaló, la foto es tomada desde Miravalle [@BomberosQuito](https://twitter.com/BomberosQuito?ref_src=twsrc%5Etfw) [@Riesgos\_Ec](https://twitter.com/Riesgos_Ec?ref_src=twsrc%5Etfw) [pic.twitter.com/PKEf3frPlt](https://t.co/PKEf3frPlt)
+> 
+> — Shirley Katze (@ShirleyKatze) [September 15, 2024](https://twitter.com/ShirleyKatze/status/1835408180509040744?ref_src=twsrc%5Etfw)
 
-Mientras la ‘U’ es líder, el conjunto ibarreño está **coqueteando con el descenso**, ubicándose en el puesto 12 de la segunda etapa, con apenas cuatro unidades.
+Antes de este flagelo, los casacas rojas también estuvieron en la vía Chiriboga, al suroriente de la ciudad, en donde se presentó otro incidente.
+
+Hace cuatro días hubo otro incendio en el cerro Ilaló
+-----------------------------------------------------
+
+Hay que recordar que la tarde del pasado 11 de septiembre también se presentó otro incendio en el cerro Ilaló. En este caso se destruyeron seis hectáreas del bosque.
+
+Cerca de 30 familias estuvieron en riesgo por lo que colaboraron en apagar el flagelo. En este caso fue provocado por una vecina del lugar que empezó a quemar basura y de inmediato se extendió el fuego.
+
+Los vientos fuertes de esta última temporada permiten que el fuego se esparza rápidamente. La vegetación del lugar está bastante seca, debido a que no ha llovido en las últimas semanas.
+
+La multa por provocar incendios es de hasta 34 500 dólares, de acuerdo con la ordenanza Verde-azul referente al control y uso del fuego.
+
+Brasil se perfila como el gran abastecedor de carnes del mundo
+==============================================================
+
+Los productores de carne de pollo, cerdo y vacuna, y huevos de Brasil se muestran en la feria anual SIAV.
+---------------------------------------------------------------------------------------------------------
+
+![Ricardo Santín (cen.) promociona la producción de carne de Brasil en el mundo en la feria SIAV. Él preside la Asociación Brasileña de Proteína Animal.](https://www.elcomercio.com/wp-content/uploads/2024/09/Ricardo-ABPA-1.jpg)
+
+**Brasil** tiene bien claro su papel de gran productor de carnes en el mundo. Con ese norte se expande comercialmente a todos los continentes, pero paralelamente avanza en una mejora de su competitividad.
+
+### Más noticias
+
+* [13 países de Sudamérica en llamas. 350 370 incendios forestales en casi nueve meses](https://www.elcomercio.com/tendencias/ambiente/13-paises-de-sudamerica-en-llamas-350-370-incendios-forestales-en-casi-nueve-meses.html "13 países de Sudamérica en llamas. 350 370 incendios forestales en casi nueve meses")
+
+Brasil exporta carnes a 150 países del mundo
+--------------------------------------------
+
+Brasil produjo 14,8 millones de toneladas de carne de pollo en 2023 y la proyección para este 2024 es alcanzar los 15,1 millones. Si alcanza esa meta, se considera un incremento significativo para **el segundo productor mundial de este tipo de proteína animal.**
+
+**Ricardo Santín, presidente de la Asociación Brasileña de Proteína Animal (ABPA),** destaca la importancia de esta actividad económica. Produce alimentos para satisfacer el consumo interno de más de **200 millones de habitantes y exporta a más de 150 mercados.**
+
+Brasil es el principal exportador de **carne de pollo a China, uno de los mercados más importantes para el gigante latinoamericano.**
+
+Santín sostiene que Brasil tienen una potente p**roducción de pollo a los productores de carnes de cerdo, pavo, pescado y huevos. A esa cadena se unen la producción de carne de res.**
+
+El primer exportador mundial de carne de pollo
+----------------------------------------------
+
+**Brasil es el primer exportador mundial de carne de pollo**, con 5,1 millones de toneladas vendidas en 2023. Está por delante de Estados Unidos y la Unión Europea, que ocupan el segundo y tercer lugar en las ventas mundiales de esta proteína.
+
+Brasil aprovecha la caída de las exportaciones de Estados Unidos para posicionarse en el comercio mundial. Para este 2024, Brasil proyecta un crecimiento del 3%. Su competidor inmediato, Estados Unidos, no atraviesa una buena temporada de exportaciones y se diagnostica que tendrá una caída de -7,1%.
+
+Con ese panorama, **Brasil acapara el 36,9% del mercado mundial, frente al 23,7% de Estados Unidos.** En 2023, sus ganancias fueron de 9 700 millones de dólares.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/09/feria-1024x683.jpg)
+
+La industria avícola, porcina y bovina participó en la feria SIAV, a la cual asistieron más de 25 000 personas. Foto: SIAV
+
+El futuro de Brasil, con mejor competitividad
+---------------------------------------------
+
+**La Asociación Brasileña de Proteína Animal**, que agrupa productores de pollos, pavo, cerdo, huevos y tilapia, hace planes para crecer en el mercado interno y expandir sus exportaciones.
+
+La industria y los avicultores diversifican los productos de valor agregado e innovan. Ricardo Santín comenta que Brasil consume productos de pollo de mayor valor añadido, como filetes de pechuga, piernas deshuesadas, pollo sin piel y sin hueso.
+
+Muchos productos premium se consumen en Brasil. Esta tendencia es fuerte, ya que el 65,35% de la producción nacional se destina al mercado local y el resto va a los **150 países importadores.**
+
+En general, la industria brasileña del pollo crea líneas enfocadas en la comodidad del consumidor y el consumo en casa. Por ejemplo, el mercado está abastecido con porciones individuales, más fáciles de preparar, listas para comer, líneas gourmet y productos orgánicos.
+
+El crecimiento poblacional mundial alienta a Brasil
+---------------------------------------------------
+
+La **avicultura brasileña** crece cada año. Las guerras de **Rusia contra Ucrania y de Oriente Medio**, ni la crisis económica mundial han impedido su desarrollo.
+
+Pese a las adversidades mundiales, Brasil tiene más compradores de carne de pollo, porque no dejó de exportar. Adicionalmente, Brasil mira con perspectiva el aumento de la población mundial, pues se calcula que habrá más de 2 000 millones de personas adicionales en 2050.
+
+Asia concentrará a los nuevos consumidores, analiza Santin. Ahí están China, India e Indonesia, cuyos habitantes demandarán proteína de pollo. Por eso, Brasil apunta a esos mercados. Pero, ya en este año, la industria brasileña pronostica que 113 millones de personas ingresarán al consumo de carne de pollo.
+
+**Eduardo Giannetti da Fonseca, experto en agronegocios**, ve factores retadores, pero oportunidades para Brasil. **Primero**, el fin del milagro chino, ya que su crecimiento a dos dígitos terminó. Va a crecer de 4% a 5% por año y la migración del campo a la ciudad se agotó.
+
+**Segundo:** la población de India e Indonesia crece y la demanda de carne de pollo será importante.
+
+**Y tercero:** Brasil no atraviesa por una recesión económica, frente a otros países, como Estados Unidos.
+
+La conclusión es que el mundo depende de la producción y seguridad alimentaria de Brasil, asegura Giannetti da Fonseca, un PhD en Economía de la Universidad de Cambridge, Inglaterra.
+
+La relación de Brasil con Ecuador en la avicultura
+--------------------------------------------------
+
+**Ecuador tiene su propia producción de carne de pollo**, por lo que no tiene importaciones de Brasil[.](https://es.wikipedia.org/wiki/Brasil "https://es.wikipedia.org/wiki/Brasil")
+
+Sin embargo, Ecuador sí compra genética del país del sur, comenta **Luis Rua, director de Mercado de la Asociación Brasileña de Proteína Animal.**
+
+**Brasil vende huevos fértiles y pollitos bebé para la industria avícola ecuatoriana.** En 2023 exportó  77 toneladas, que significaron 10,05 millones de toneladas. Entre enero y agosto de 2024 llegaron a Ecuador 39 toneladas en las dos partidas, según datos de la ABPA.
+
+Ecuador es un pequeño refugio de los delfines de la Amazonía
+============================================================
+
+Los delfines de la Amazonía de Ecuador habitan en los ríos de la frontera con Perú.
+-----------------------------------------------------------------------------------
+
+![Los guías certificados tocan y alimentan a los delfines amazónicos de Ecuador. Desde el covid-19, los turistas tienen prohibido acercarse.](https://www.elcomercio.com/wp-content/uploads/2024/09/SACHA-ALTA.jpg)
+
+**Ecuador** tiene un pequeño hábitat para los **delfines de la Amazonía.** Debido a su cordillera, ríos pequeños y fríos, la población de los delfines rosados y grises es baja frente a los otros países amazónicos.
+
+### Más noticias
+
+* [Delfines amazónicos de Ecuador están en la lista roja](https://www.elcomercio.com/actualidad/ecuador/delfines-amazonicos-ecuador-peligro-critico-extincion-amazonia-lista-roja.html "Delfines amazónicos de Ecuador están en la lista roja")
+* [Los rostros de los sobrevivientes del tráfico ilegal de fauna silvestre en Ecuador](https://www.elcomercio.com/tendencias/ambiente/sobrevivientes-trafico-ilegal-fauna-silvestre-ecuador.html "Los rostros de los sobrevivientes del tráfico ilegal de fauna silvestre en Ecuador")
+
+“No se cuentan más de 300 individuos”, indica **Víctor Utreras**, **un científico ecuatoriano**, quien lleva 30 años en la investigación de los delfines de río en la Amazonía de Ecuador.
+
+Sin embargo, la realidad pudiera ser más alarmante. **El Ministerio de Ambiente, Agua y Transición Ecológica (Maate)** calcula que existen **200 delfines rosados**, según un muestreo hecho en los últimos cinco años.
+
+Los delfines rosados están mejor adaptados a ríos y lagunas pequeños, por lo que viven en la mayoría de los cuerpos de agua de la Amazonía ecuatoriana, por debajo de los 360 metros de altitud. En cambio, los grises, que prefieren ríos más grandes, son menos comunes. Se calcula que solo hay **30 delfines grises**, concentrados en grandes **ríos como el Napo.**
+
+En distribución geográfica, los delfines rosados están **Orellana, Sucumbíos, Pastaza y Morona Santiago.** Para tener información actualizada, el **Fondo Mundial para la Naturaleza (WWF, sus siglas en inglés)** realiza estudios.
+
+En el primer semestre de 2024, la organización hizo una expedición en la Amazonía Norte, en la zona **Ramsar Cuyabeno, Lagartococha y Yasuní y Amazonía centro, en la cuenca del Pastaza.** Los primeros resultados se esperan al finalizar este año. 
+
+Las dos especies de delfines de la Amazonía ecuatoriana “están en peligro crítico de extinción”, según Utreras, quien se basa en un informe de la **Unión Internacional para la Conservación de la Naturaleza.** Esta categoría fue confirmada en la última evaluación de la Lista Roja de Ecuador en 2021.
+
+¿Cómo se protegen a los delfines de la Amazonía de Ecuador?
+-----------------------------------------------------------
+
+La **comunidad Martinica** “tiene un alto espíritu de conservación de los delfines” comenta **Robert Vaca**, gerente de la operadora turística **Amazon Wildlife.**
+
+La comunidad vive en 10 711 hectáreas, de las cuales 5 000 son de conservación para el programa **Socio Bosque del Maate.** Otras 3 500 dedican al turismo. La operadora concretó a inicios de 2024 un acuerdo con Martinica para el avistamiento de los delfines. Vaca destaca de Martinica el buen manejo y cuidado del delfín.
+
+Con ese espíritu, los guías de Martinica impiden que los turistas toquen a los delfines, que solo se acerquen a 1,50 metros y que no les den de comer.
+
+**Manuel Coquinche** dice que Martinica tiene 10 guías certificados para el turismo. En este aprendizaje tienen el apoyo de WWF que los capacita. **La Wildlife Conservation Society (WCS)** también trabaja con ellos para hacer un inventario de todo tipo de animales.
+
+Por ejemplo, Coquinche lleva un registro de todo lo que pasa con los delfines. Desde una especie de puesto de vigilancia, con piso de tierra y techo de hojas secas, Coquinche se sienta y controla la zona. Él es el guardaparque comunitario de septiembre. Cada mes los habitantes se van turnando. 
+
+Se expresa de los delfines con emoción. Desde niño, su padre y su abuelo le inculcaron el cuidado de esta especie. Esa pasión contagió a la comunidad. También aprende de los científicos y uno de ellos es Utreras, asegura Coquinche.
+
+Pero, confiesa que no tienen tantos recursos para los patrullajes. Por esa razón, dice que el “Maate debería hacer patrullajes”. El Ministerio indicó que desde el 2010 se implementó el monitoreo de esa especie, que incluye los patrullajes.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/09/delfines-wfw-1024x683.jpg)
+
+WWF desarrolla la Iniciativa de Delfines de Río de Suramérica (Sardi) en Ecuador para evitar la extinción de esta especie. Foto: Levitar/WWF Ecuador
+
+La comunidad cuidad a los delfines de la Amazonía
+-------------------------------------------------
+
+En la **comunidad vecina, Alta Florencia**, el emprendimiento **comunitario Sacha Ñampi** no tiene delfines, pero están involucrados en un plan de conservación con **WCS y WWF.**
+
+**Yelsin Alvarado, gerente de Sacha Ñampi,** cuenta que antes de la WCS se unieron al proyecto Socio Bosque. Ellos dedican 2 000 hectáreas a la conservación. Alvarado dice que así “evitan la cacería del delfín”, ya que colindan con el **Parque Nacional Yasuní, por los ríos Salado y Tambococha.**
+
+Él cree que desde hace 10 años las leyes ambientales son más estrictas y ha generado “una mayor conciencia para conservar esta especie fronteriza. “Estos peces en Perú son asesinados y capturados para vender sus dientes y colmillos”. La WWF les enseña desde hace seis meses a monitorear y llevar un registro del control de los delfines y manatíes.
+
+Desde su cosmovisión kichwa, Alvarado cree que el **“delfín da prosperidad a la comunidad**. En lo turístico es el atractivo estrella y es único en el mundo”. Y agrega: “Nos da buena energía, nos cuida y nos protege. Estamos agradecidos, y como es una especie sagrada, la cuidamos. Es imposible sacrificarla”.
+
+En Martinica, el Yasuní y Cuyabeno se ven más delfines, no así en las provincias amazónicas del sur, como Pastaza o Zamora Chinchipe, señala Alvarado.
+
+La contaminación con petróleo y la minería ilegal empujan a los delfines hacia el refugio que queda en la provincia de Orellana[.](https://es.wikipedia.org/wiki/Inia_geoffrensis "https://es.wikipedia.org/wiki/Inia_geoffrensis")
+
+La conservación de los delfines de la Amazonía
+----------------------------------------------
+
+WWF comenzó con la protección de los delfines de río en Ecuador en 2018. Para ello, colabora con el Instituto Nacional de Biodiversidad y expertos de la **Iniciativa de Delfines de Río de Suramérica (Sardi).**
+
+Así se ejecuta el **programa de Vida Silvestre y Agua Dulce**, financiado por diversas iniciativas para la conservación y evitar su extinción. Con ese propósito se fomenta el turismo responsable y otras estrategias. Según WWF, con las comunidades indígenas se trabaja de manera inclusiva y el cuidado de las especies está vinculado a iniciativas de desarrollo sostenible para promover economías más verdes y sostenibles.
+
+Shakira habría mostrado un adelanto de su nueva canción en una fiesta en Miami
+==============================================================================
+
+En esa misma fiesta, un hombre habría grabado por debajo del vestido de la cantante.
+------------------------------------------------------------------------------------
+
+![La cantante colombiana Shakira se prepara para su gira. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/08/Diseno-sin-titulo-2024-08-16T114439.994.jpg)
+
+Desde el lanzamiento del álbum ‘Las mujeres ya no lloran’, Shakira es una de las artistas latinas más relevantes de 2024, junto a Karol G. La barranquillera no solo continúa con su apabullante carrera, sino que ya se prepara para su próximo gran proyecto.
+
+Más noticias
+------------
+
+* [Shakira ordena tirar todo lo que tocó Clara Chía](https://www.elcomercio.com/afull/shakira-clara-chia-gerard-pique.html "Shakira ordena tirar todo lo que tocó Clara Chía ")
+* [Los Premios Emmy 2024: Esta es la lista de nominados](https://www.elcomercio.com/tendencias/los-premios-emmy-2024-esta-es-la-lista-de-nominados.html "Los Premios Emmy 2024: Esta es la lista de nominados")
+
+Este 14 de septiembre de 2024, Shakira asistió a una fiesta en Miami. Durante el evento, la cantante aprovechó para adelantar lo que parece su siguiente lanzamiento.
+
+En medio de la fiesta, Shakira interpretó una nueva canción frente al público del bar, lo que rápidamente se convirtió en tendencia en X. Los asistentes grabaron videos en los que se escuchaba una canción inédita con un ritmo urbano, similar al estilo que ha popularizado en los últimos años.
+
+La presencia de Shakira en la fiesta no pasó desapercibida, especialmente por su compañía, reseña el portal Infobae. En el evento estuvo junto a la cantante brasilera Anitta y la mexicana Danna Paola.
+
+La aparición conjunta de estas tres artistas generó especulaciones sobre un posible video musical grabado en el lugar. Aunque los videos mostraban a las tres en acción, algunos insiders sugieren que la colaboración se dará solo entre Shakira y Anitta, con la canción titulada _Soltera_. Esta información aún no ha sido confirmada oficialmente por las artistas.
+
+Además, en otro video grabado en la fiesta, Shakira fue vista bailando al ritmo de la nueva canción, mientras recibía apoyo de la creadora de contenido Lele Pons.
+
+> Shakira y anitta perreando 🥵 [pic.twitter.com/29yqE94CF3](https://t.co/29yqE94CF3)
+> 
+> — 𝑨𝒏𝒕𝒉𝒐 𝒔𝒉𝒂𝒌𝒊𝒇𝒂𝒏 🐺 (@shakiraxspain) [September 15, 2024](https://twitter.com/shakiraxspain/status/1835258507806822817?ref_src=twsrc%5Etfw)
+
+Las reacciones en redes sociales no se hicieron esperar. Los fanáticos se mostraron entusiastas: “No puedo dormir de la emoción”; “Shakira está increíble bailando su nuevo tema” y “La canción promete ser un éxito para bailar” fueron algunos de los comentarios.
+
+Aunque aún no se ha anunciado oficialmente el lanzamiento, cuentas especializadas como **Pop Stuff** y **Top Music Universe** han confirmado que la canción ‘Soltera’ se publicará próximamente.
+
+Los fanáticos también descifraron fragmentos de la letra, que sugieren una celebración de la libertad y la soltería. La colaboración promete ser un éxito, y los seguidores esperan ansiosos la confirmación oficial y la fecha de lanzamiento.
+
+Un hombre habría grabado por debajo del vestido de Shakira
+----------------------------------------------------------
+
+Durante un momento de la noche, Shakira se subió a una tarima de la discoteca para bailar mientras sonaba la que parece ser su nueva canción. Justo entonces, la artista vivió un momento incómodo por culpa de uno de los asistentes.
+
+En el vídeo, Shakira aparece bailando y dando vueltas con una sonrisa y con un vestido corto. En un momento, la cantante se para y comienza a hablar con un miembro del público mientras se estira el vestido hacia abajo.
+
+Shakira hace señas de negación con los dedos. Según el mismo usuario de X, un hombre estaba grabando a la artista por debajo del vestido y ella lo descubrió.
+
+Shakira siguió bailando al ritmo de su canción, hasta que volvió a mirar al hombre y decidió parar de bailar, volver a estirarse el vestido y bajar de la tarima.
+
+> Shakira leaves the stage after people were filming under her dress whilst she was dancing to her new single. People are GROSS. [pic.twitter.com/AxlBw6yFZL](https://t.co/AxlBw6yFZL)
+> 
+> — FEIM (@FeimM\_) [September 15, 2024](https://twitter.com/FeimM_/status/1835218897332486212?ref_src=twsrc%5Etfw)
+
+Producción de petróleo no se recupera en Ecuador
+================================================
+
+La producción de petróleo en Ecuador tiene una pérdida acumulada desde agosto.
+------------------------------------------------------------------------------
+
+![La caída de la producción petrolera significa pérdida de millones de dólares para Ecuador. Foto: Petroecuador](https://www.elcomercio.com/wp-content/uploads/2024/09/produccion-petroleo.jpg)
+
+La **producción nacional de petróleo** está a la baja. Este 12 de septiembre del 2024, **Ecuador** produjo 463 404 barriles de petróleo, la cifra representa una caída de **13 327 barriles** en comparación con el día anterior, cuando se produjeron 476 731. La reducción es del 3%, según los datos fiscalizados de la Agencia de Regulación y Control de Hidrocarburos.
+
+### Más noticias
+
+* [Petroecuador explicó caída de producción petrolera en Sucumbíos, Napo y Orellana](https://www.elcomercio.com/actualidad/negocios/petroecuador-explico-caida-produccion-petrolera-sucumbios-napo-orellana.html "Petroecuador explicó caída de producción petrolera en Sucumbíos, Napo y Orellana")
+* [Producción petrolera sigue cayendo en Ecuador; conozca las razones](https://www.elcomercio.com/actualidad/negocios/produccion-petrolera-sigue-cayendo-en-ecuador-conozca-las-razones.html "Producción petrolera sigue cayendo en Ecuador; conozca las razones")
+* [La gasolina cambia de precio; la nueva tarifa se aplica desde este 12 de septiembre](https://www.elcomercio.com/actualidad/negocios/gasolina-cambia-precio-tarifa-aplica-12-septiembre.html "La gasolina cambia de precio; la nueva tarifa se aplica desde este 12 de septiembre")
+
+Desde el 1 de agosto hasta la segunda semana de septiembre, la pérdida acumulada se acerca a 163 000 barriles de petróleo, según se **Petroecuador**.
+
+Razones para la caída de la producción petrolera
+------------------------------------------------
+
+La petrolera estatal explicó, al menos, cinco razones para la caída en la producción. La primera causa está relacionada con las **fallas de equipos**, generadas por **suspensiones eléctricas**, que han perjudicado a la producción de 11 bloques petroleros.
+
+La producción de estas zonas se ha reducido en alrededor de 83 284 barriles de petróleo, acumulados, desde el 1 de agosto hasta los primeros días de septiembre.
+
+El segundo factor es los daños en **tuberías**, que ya han cumplido su vida útil o, en otros casos, por las perforaciones clandestinas. Este segundo motivo ha causado pérdidas estimadas en 26 799 barriles, durante el último mes.
+
+La tercera causa son los **robos de cable** que han provocado el **apagado de pozos y problemas** para **extraer crudo**, mientras se reparan y reemplazan, en varios campos de la empresa. Las pérdidas estimadas por esto suman 16 907 barriles de petróleo.
+
+La cuarta razón es la sequía en el país, que redujo la navegabilidad del río Napo las últimas semanas. Esto ha impedido que se pueda transportar el combustible para la generación eléctrica y poder mantener los pozos operativos. La pérdida acumulada es de 30 372 barriles.
+
+Finalmente, el domingo 8 de septiembre, se produjo una **falla eléctrica** en el transformador principal del Bloque 12 (Edén Yuturi). Esto provocó el apagado de pozos y una baja en la producción de 5 600 barriles adicionales.
+
+Cierre del Bloque 43 – ITT
+--------------------------
+
+A esto hay que sumarle que desde el 28 de agosto de 2024 se inició el **apagado y desmontaje del Bloque** 43 – ITT, en cumplimiento de la consulta popular de 2023. Ese día se apagó un pozo y los restantes 246 se cerrarán en aproximadamente cinco años.
+
+Pero la **producción nacional petrolera,** que incluye la producción Petroecuador y la de las compañías privadas, ha venido cayendo desde enero de este año. Según datos del Banco Central del Ecuador (BCE), en enero de este año el promedio de producción diaria superaba los 490 470 barriles.
+
+Mientras que, en el segundo trimestre de 2024, alcanzó un promedio diario de 471 330 de barriles. Esta producción total diaria presentó una reducción de 15 050 de barriles en relación con lo registrado en el primer trimestre de 2024, lo que refleja una contracción del 3,1%; y, registró una disminución de 1,75 miles de barriles en comparación con el segundo trimestre de 2023, equivalente a una reducción del 0,4%.
+
+La producción petrolera es muy importante para el **Ecuador**. Este sector, junto con la **recaudación de impuestos,** constituye los únicos ingresos que tiene el país. Así se puede cumplir con todas las obligaciones que tiene el Estado, como el pago de salarios, salud, educación y más.
+
+Los incendios avanzan en una veintena de municipios de São Paulo
+================================================================
+
+Las autoridades brasileñas sospechan que la gran mayoría de los incendios son intencionales.
+--------------------------------------------------------------------------------------------
+
+![Fotografía de archivo en donde se ve a un bombero mientras trabaja en la extinción de un incendio forestal en Brasil.](https://www.elcomercio.com/wp-content/uploads/2024/09/incendios-brasil.jpg)
+
+Una veintena de municipios del estado de [São Paulo](https://www.elcomercio.com/tendencias/ambiente/sao-paulo-oscuridad-incendio-amazonia.html "https://www.elcomercio.com/tendencias/ambiente/sao-paulo-oscuridad-incendio-amazonia.html"), el más poblado e industrializado de Brasil, combaten incendios forestales en sus territorios, en medio de la peor sequía de las últimas décadas en todo el país.
+
+### Más noticias
+
+* [Quito en llamas y la urgencia de prevenir incendios forestales](https://www.elcomercio.com/opinion/editorial/prevenir-incencidos-quito-apoyo.html "Quito en llamas y la urgencia de prevenir incendios forestales")
+* [Incendios forestales arrasan sin control el sur de California](https://www.elcomercio.com/actualidad/mundo/incendios-forestales-arrasan-control-sur-california.html "Incendios forestales arrasan sin control el sur de California")
+
+La Defensa Civil identificó **23 municipios paulistas** con focos activos de incendio, cuatro más que la noche del jueves.
+
+Las llamas llegaron incluso a **barrios periféricos** de la ciudad de São Paulo, la capital regional, donde los bomberos tuvieron que actuar para apagar un incendio desatado cerca de una gasolinera.
+
+El Gobierno de São Paulo creó un **gabinete de crisis** para hacer frente a la ola de incendios, que comenzó el mes pasado y ha obligado a movilizar a unos 1**5 000 efectivos, entre bomberos, policías, agentes** de la Defensa Civil y voluntarios.
+
+Como medida de prevención, también cerró **81 unidades de conservación** e intensificó la limpieza de los márgenes de las carreteras.
+
+Ayudas económicas para agricultores
+-----------------------------------
+
+En paralelo, lanzó un paquete de ayudas económicas a los agricultores afectados, pues las llamas han arrasado áreas de cultivo de caña de azúcar y café.
+
+Las autoridades brasileñas sospechan que la gran mayoría de los **incendios son intencionales** y, en este sentido, han detenido hasta el momento a 20 personas acusadas de prender fuego en zonas de vegetación.
+
+En agosto pasado, el estado de São Paulo registró 3.612 focos de incendio, frente a los 352 reportados en el mismo mes de 2023, y en lo que va de septiembre ya se han contabilizado unos 1.500, según datos oficiales.
+
+Río de Janeiro y Minas Gerais, también en la región sureste, también lidian estos días con incendios forestales difíciles de combatir por la baja humedad y las altas temperaturas.
+
+Aunque la sequía, la peor desde 1950, está castigando con especial virulencia la Amazonía y el Pantanal.
+
+En el mayo**r bosque tropical del planeta**, la crisis hídrica dejó a varios ríos en sus niveles más bajos de la historia y ha aislado a decenas de **comunidades rurales,** dificultando la llegada de alimentos y medicamentos, además de favorecer la **propagación de incendios.**
+
+El Pantanal, el vasto humedal que Brasil comparte con **Bolivia y Paraguay** y que depende directamente de la humedad que llega de la Amazonía. También vive una ola de incendios que amenazan los santuarios ecológicos que alberga la región.
