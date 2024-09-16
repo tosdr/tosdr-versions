@@ -120,17 +120,17 @@ Noticia
 
 Internacionalización
 
-El programa Desafía San Francisco de Red.es e ICEX recibe en Ginebra el Premio Internacional para la Igualdad de Género en el Comercio de la OMC
-
-[El programa Desafía San Francisco de Red.es e ICEX recibe en Ginebra el Premio Internacional para la Igualdad de Género en el Comercio de la OMC](http://red.es/es/actualidad/noticias/desafia-sanfrancisco-recibe-premio-internacional-igualdad-genero "Ir al contenido de: El programa Desafía San Francisco de Red.es e ICEX recibe en Ginebra el Premio Internacional para la Igualdad de Género en el Comercio de la OMC")
-
-Noticia
-
-Internacionalización
-
 El programa Desafía aterriza por primera vez en Suiza con una edición orientada a startups relacionadas con la sostenibilidad
 
 [El programa Desafía aterriza por primera vez en Suiza con una edición orientada a startups relacionadas con la sostenibilidad](http://red.es/es/actualidad/noticias/desafia-suiza-primera-edicion-startups-sostenibilidad "Ir al contenido de: El programa Desafía aterriza por primera vez en Suiza con una edición orientada a startups relacionadas con la sostenibilidad")
+
+Noticia
+
+Infraestructuras de Telecomunicaciones
+
+Red.es lanza el Bono de Conectividad: 48 millones de euros para pymes y autónomos
+
+[Red.es lanza el Bono de Conectividad: 48 millones de euros para pymes y autónomos](http://red.es/es/actualidad/noticias/redes-bono-de-conectividad-pymes-y-autonomos "Ir al contenido de: Red.es lanza el Bono de Conectividad: 48 millones de euros para pymes y autónomos")
 
 ¿Conoces nuestras iniciativas?
 ------------------------------
