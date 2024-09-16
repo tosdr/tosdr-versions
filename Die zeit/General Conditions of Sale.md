@@ -49,14 +49,22 @@ ZEIT Shop
 * [Bucheditionen](https://shop.zeit.de/bucheditionen-zon)
 * [Geschenke](https://shop.zeit.de/geschenke-zon)
 
-Studium und Karriere
+Studium
 
 * [HeyStudium](https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.zeitde.topnav.suma.link.x.x&utm_medium=fix&utm_source=zeitde_zonpmr_int&utm_campaign=topnav&utm_content=suma_link_x_x)
 * [Studium-Interessentest](https://studiengaenge.zeit.de/sit?wt_zmc=fix.int.zonpmr.zeitde.topnav.sit.link.x.x&utm_medium=fix&utm_source=zeitde_zonpmr_int&utm_campaign=topnav&utm_content=sit_link_x_x)
 * [Suchmaschine für Studiengänge](https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.zeitde.topnav.suma.link.x.x&utm_medium=fix&utm_source=zeitde_zonpmr_int&utm_campaign=topnav&utm_content=suma_link_x_x)
 * [Hochschulranking](https://studiengaenge.zeit.de/ranking?wt_zmc=fix.int.zonpmr.zeitde.topnav.che.link.x.x&utm_medium=fix&utm_source=zeitde_zonpmr_int&utm_campaign=topnav&utm_content=che_link_x_x)
 * [BOA Berufstest](https://berufstest.zeit.de/?wt_zmc=fix.int.zonpmr.zeitde.topnav.bot.link.x.x&utm_medium=fix&utm_source=zeitde_zonpmr_int&utm_campaign=topnav&utm_content=bot_link_x_x)
-* [academics](https://www.academics.de/)
+
+Karriere
+
+* [Jobs im ZEIT ONLINE Stellenmarkt](https://jobs.zeit.de/?wt_zmc=fix.int.zonpmr.zeitde.topnav.suma.link.x.x&utm_medium=fix&utm_source=zeitde_zonpmr_int&utm_campaign=topnav&utm_content=job_link_x_x)
+* [BOA Berufstest](https://boa.zeit.de/?wt_zmc=fix.int.zonpmr.zeitde.topnav.sit.link.x.x&utm_medium=fix&utm_source=zeitde_zonpmr_int&utm_campaign=topnav&utm_content=boa_link_x_x)
+* [Academics](https://academics.de/?wt_zmc=fix.int.zonpmr.zeitde.topnav.suma.link.x.x&utm_medium=fix&utm_source=zeitde_zonpmr_int&utm_campaign=topnav&utm_content=academics_link_x_x)
+* [academics.com](https://academics.com/?wt_zmc=fix.int.zonpmr.zeitde.topnav.che.link.x.x&utm_medium=fix&utm_source=zeitde_zonpmr_int&utm_campaign=topnav&utm_content=academicscom_link_x_x)
+* [GoodJobs](https://goodjobs.eu/?wt_zmc=fix.int.zonpmr.zeitde.topnav.bot.link.x.x&utm_medium=fix&utm_source=zeitde_zonpmr_int&utm_campaign=topnav&utm_content=good_jobs_x_x)
+* [e-fellows.net](https://e-fellows.net/)
 
 Verlagsangebote
 
