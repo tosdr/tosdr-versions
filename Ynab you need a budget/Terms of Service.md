@@ -25,14 +25,6 @@ Start with our 34-day free trial and you'll both get an **additional free month*
 
 [Start Your Free Trial](https://www.youneedabudget.com/sign-up)
 
-Take your time and get to know us! Your free month is waiting for you.
-
-![Information icon](https://cdn.prod.website-files.com/640f69143ec11b21d42015c6/66cc856a639ffc62d18c4e6e_info_icon%20(1).svg "You’ll start with our 34-day free trial, and earn an additional free month when you subscribe!")
-
-[**Accept Your Invitation!**
-
-![Right arrow](https://cdn.prod.website-files.com/640f69143ec11b21d42015c6/66cc86a07188261065878076_right_arrow_icon%20(1).svg)](https://www.youneedabudget.com/sign-up)
-
 [![It's pronounced Why-NAB](https://cdn.prod.website-files.com/640f69143ec11b21d42015c6/64870a06e2f95839889cc1a5_Logo-Buttermilk.png)
 
 It's pronounced ”why-nab”](https://www.youneedabudget.com/)
@@ -53,7 +45,7 @@ It's pronounced ”why-nab”](https://www.youneedabudget.com/)
 * [For Employers](https://www.youneedabudget.com/wellness)
 
 * [Log In](https://app.ynab.com/users/sign_in)
-* [Start Your Free Trial](https://www.youneedabudget.com/sign-up)
+* [Start Your Free Trial](https://www.youneedabudget.com/sign-up)[Accept Your Invite](https://www.youneedabudget.com/sign-up)
 * [![](https://cdn.prod.website-files.com/640f69143ec11b21d42015c6/64a5b641ee316f67487d9500_icon_mobilenav_method.svg)
     
     The Method](https://www.youneedabudget.com/the-four-rules)[![](https://cdn.prod.website-files.com/640f69143ec11b21d42015c6/64a5b6400eaa7440ca98bdc9_icon_mobilenav_app.svg)
@@ -80,6 +72,8 @@ It's pronounced ”why-nab”](https://www.youneedabudget.com/)
     
 
 [Start Your Free Trial](https://www.youneedabudget.com/sign-up)
+
+[Accept Your Invite](https://www.youneedabudget.com/sign-up)
 
 Terms of Service
 ================
