@@ -10,21 +10,25 @@ SurveyMonkey is built to handle every use case and need. Explore our product to 
 
 Get data-driven insights from a global leader in online surveys.
 
-##### [Integrations](https://www.surveymonkey.com/product/integrations/)
+##### [Features](https://www.surveymonkey.com/product/features/)
 
-Integrate with 100+ apps and plug-ins to get more done.
+Explore core features and advanced tools in one powerful platform.
 
 ##### [SurveyMonkey Forms](https://www.surveymonkey.com/product/forms/)
 
 Build and customize online forms to collect info and payments.
 
-##### [SurveyMonkey Genius](https://www.surveymonkey.com/product/features/surveymonkey-genius/)
+##### [Integrations](https://www.surveymonkey.com/product/integrations/)
 
-Create better surveys and spot insights quickly with built-in AI.
+Integrate with 100+ apps and plug-ins to get more done.
 
 ##### [Market Research Solutions](https://www.surveymonkey.com/product/market-research/)
 
 Purpose-built solutions for all of your market research needs.
+
+##### [SurveyMonkey Genius](https://www.surveymonkey.com/product/features/surveymonkey-genius/)
+
+Create better surveys and spot insights quickly with built-in AI.
 
 ##### INDUSTRIES
 
@@ -203,21 +207,25 @@ How top brands drive growth with SurveyMonkey.
     
     Get data-driven insights from a global leader in online surveys.
     
-    ##### [Integrations](https://www.surveymonkey.com/product/integrations/)
+    ##### [Features](https://www.surveymonkey.com/product/features/)
     
-    Integrate with 100+ apps and plug-ins to get more done.
+    Explore core features and advanced tools in one powerful platform.
     
     ##### [SurveyMonkey Forms](https://www.surveymonkey.com/product/forms/)
     
     Build and customize online forms to collect info and payments.
     
-    ##### [SurveyMonkey Genius](https://www.surveymonkey.com/product/features/surveymonkey-genius/)
+    ##### [Integrations](https://www.surveymonkey.com/product/integrations/)
     
-    Create better surveys and spot insights quickly with built-in AI.
+    Integrate with 100+ apps and plug-ins to get more done.
     
     ##### [Market Research Solutions](https://www.surveymonkey.com/product/market-research/)
     
     Purpose-built solutions for all of your market research needs.
+    
+    ##### [SurveyMonkey Genius](https://www.surveymonkey.com/product/features/surveymonkey-genius/)
+    
+    Create better surveys and spot insights quickly with built-in AI.
     
     ##### INDUSTRIES
     
@@ -383,11 +391,11 @@ How top brands drive growth with SurveyMonkey.
 
 [Sign up free](https://www.surveymonkey.com/sign-up/?ut_ctatext=Sign+up+free&ut_source=legal&ut_source2=terms-of-use&ut_source3=desktop-header-cta)
 
-![SurveyMonkey-logo](https://prod.smassets.net/assets/website/2.278.0/images/legal_sidebar__badge.png)
+![SurveyMonkey-logo](https://prod.smassets.net/assets/website/2.279.0/images/legal_sidebar__badge.png)
 
-* [Overzicht](https://www.surveymonkey.com/mp/legal/)
+* [Oversigt](https://www.surveymonkey.com/mp/legal/)
     
-* [Gebruiksvoorwaarden](https://www.surveymonkey.com/mp/legal/terms-of-use/)
+* [Brugsbetingelser](https://www.surveymonkey.com/mp/legal/terms-of-use/)
     
     [1\. Fees and Payments](#fees-and-payments)
     
@@ -425,32 +433,32 @@ How top brands drive growth with SurveyMonkey.
     
     [18\. Terms for SurveyMonkey Contribute](#terms-for-surveymonkey-contribute)
     
-* [Toepasselijke serviceovereenkomst](https://www.surveymonkey.com/mp/legal/gsa/)
+* [Gældende serviceaftale](https://www.surveymonkey.com/mp/legal/gsa/)
     
-* [Servicegebonden voorwaarden](https://www.surveymonkey.com/mp/legal/which-terms-apply/)
+* [Servicespecifikke betingelser](https://www.surveymonkey.com/mp/legal/which-terms-apply/)
     
-* [Basisprincipes van privacy](https://www.surveymonkey.com/mp/legal/privacy-basics/)
+* [Grundlæggende principper for databeskyttelse](https://www.surveymonkey.com/mp/legal/privacy-basics/)
     
-* [Privacymelding](https://www.surveymonkey.com/mp/legal/privacy/)
+* [Meddelelse om beskyttelse af personlige oplysninger](https://www.surveymonkey.com/mp/legal/privacy/)
     
 * [Cookies](https://www.surveymonkey.com/mp/legal/cookies/)
     
-* [Cookies die op enquêtepagina's worden gebruikt](https://www.surveymonkey.com/mp/legal/survey-page-cookies/)
+* [Brug af cookies på spørgeundersøgelsessider](https://www.surveymonkey.com/mp/legal/survey-page-cookies/)
     
-* [Beleid inzake aanvaardbaar gebruik](https://www.surveymonkey.com/mp/legal/acceptable-uses-policy/)
+* [Politik om acceptabel brug](https://www.surveymonkey.com/mp/legal/acceptable-uses-policy/)
     
-* [Beveiliging](https://www.surveymonkey.com/mp/legal/security/)
+* [Sikkerhed](https://www.surveymonkey.com/mp/legal/security/)
     
-* [Algemeen](https://www.surveymonkey.com/mp/legal/general/)
+* [Generelt](https://www.surveymonkey.com/mp/legal/general/)
     
 
 ### 
 
-Wist u dit?
+Vidste du?
 
-63% van de mensen houdt rekening met de geschiedenis van het bedrijf ten aanzien van privacy en beveiliging voordat ze producten of services van dat bedrijf gebruiken.
+63 % overvejer, hvordan en virksomhed håndterer personlige oplysninger og sikkerhed, inden de vælger at benytte virksomhedens produkter eller tjenester.
 
-![Statistieken zijbalk juridische informatie](https://prod.smassets.net/assets/website/2.278.0/images/legal_sidebar__stats-image.png)
+![Billede af statistik på juridisk sidepanel](https://prod.smassets.net/assets/website/2.279.0/images/legal_sidebar__stats-image.png)
 
 Print this Page
 
