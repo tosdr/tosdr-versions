@@ -42,9 +42,9 @@ Explore wellness and self-care topics for your physical and mental well-being.
 
 [See All](https://www.everydayhealth.com/wellness/)
 
-[Acupuncture](https://www.everydayhealth.com/alternative-health/what-is-acupuncture-a-beginners-guide-to-how-it-works-and-how-it-may-improve-your-health/)[Bug Bites](https://www.everydayhealth.com/skin-and-beauty-photos/how-to-identify-common-bug-bites.aspx)[Ceramides](https://www.everydayhealth.com/healthy-skin/ceramides/guide/)[Dehydration](https://www.everydayhealth.com/dehydration/)[Fitness and Exercise](https://www.everydayhealth.com/fitness/all-articles/)[Food & Diet](https://www.everydayhealth.com/lifestyle/food/)[Healthy Recipes](https://www.everydayhealth.com/healthy-recipes/)
+[Acupuncture](https://www.everydayhealth.com/acupuncture/)[Bug Bites](https://www.everydayhealth.com/skin-and-beauty-photos/how-to-identify-common-bug-bites.aspx)[Ceramides](https://www.everydayhealth.com/healthy-skin/ceramides/guide/)[Dehydration](https://www.everydayhealth.com/dehydration/)[Fitness and Exercise](https://www.everydayhealth.com/fitness/all-articles/)[Food & Diet](https://www.everydayhealth.com/lifestyle/food/)[Healthy Recipes](https://www.everydayhealth.com/healthy-recipes/)
 
-[Ketogenic Diet](https://www.everydayhealth.com/ketogenic-diet/)[Meditation](https://www.everydayhealth.com/meditation/all-articles/)[Mediterranean Diet](https://www.everydayhealth.com/mediterranean-diet/)[Self-Care](https://www.everydayhealth.com/self-care/)[Stress](https://www.everydayhealth.com/stress/)[Weight Loss](https://www.everydayhealth.com/weight-loss/)[Yoga](https://www.everydayhealth.com/yoga/)
+[Ketogenic Diet](https://www.everydayhealth.com/ketogenic-diet/)[Meditation](https://www.everydayhealth.com/meditation/all-articles/)[Mediterranean Diet](https://www.everydayhealth.com/mediterranean-diet/)[Self-Care](https://www.everydayhealth.com/self-care/)[Stress](https://www.everydayhealth.com/stress/)[Weight Loss](https://www.everydayhealth.com/weight-loss/)[Yoga](https://www.everydayhealth.com/yoga/guide/)
 
 News
 
@@ -56,13 +56,13 @@ Featured stories
 
 [![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
+![ ](https://images.everydayhealth.com/images/news/vyvanse-supply-increase-adhd-med-shortage-1440x810.jpg)
+
+U.S. Permits Increase in Vyvanse Production Amid ADHD Drug Shortage](https://www.everydayhealth.com/mental-health-conditions/us-permits-increased-vyvanse-production-amid-adhd-drug-shortage/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+
 ![ ](https://images.everydayhealth.com/images/news/obesity-drug-prevents-covid-deaths-wegovy-study-1440x810.jpg)
 
 Wegovy May Reduce the Risk of Death From COVID-19, Study Suggests](https://www.everydayhealth.com/coronavirus/wegovy-may-reduce-the-risk-of-dying-from-covid/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
-
-![ ](https://images.everydayhealth.com/images/news/high-levels-lead-found-cinnamon-powder-1440x810.jpg)
-
-Dangerous Levels of Lead Identified in Cinnamon](https://www.everydayhealth.com/food-safety/dangerous-levels-of-lead-identified-in-cinnamon/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
 ![ ](https://images.everydayhealth.com/images/news/fda-approves-updated-covid-vaccines-fall-2024-1440x810.jpg)
 
