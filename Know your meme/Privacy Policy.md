@@ -120,7 +120,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[Trump Shooting Staged Conspiracy Theory](https://knowyourmeme.com/memes/donald-trump-shooting-was-staged-conspiracy-theory " Trump Shooting Staged Conspiracy Theory") [Donald Trump Julius Caesar Assassination](https://knowyourmeme.com/memes/events/donald-trump-julius-caesar-assassination "Donald Trump Julius Caesar Assassination") [Haitian Immigrants Eating Pets Rumor](https://knowyourmeme.com/memes/events/haitian-immigrants-eating-pets-and-geese-rumor "Haitian Immigrants Eating Pets Rumor") [Donald Trump Raised Fist Photograph](https://knowyourmeme.com/memes/donald-trump-raised-fist-photograph "Donald Trump Raised Fist Photograph")
+[September 2024 Trump Assassination Attempt](https://knowyourmeme.com/memes/events/september-2024-attempted-assassination-of-donald-trump "September 2024 Trump Assassination Attempt") [Trump July 2024 Shooting Staged Conspiracy Theory](https://knowyourmeme.com/memes/donald-trump-july-2024-shooting-was-staged-conspiracy-theory " Trump July 2024 Shooting Staged Conspiracy Theory") [Haitian Immigrants Eating Pets Hoax](https://knowyourmeme.com/memes/events/haitian-immigrants-eating-pets-and-geese-hoax "Haitian Immigrants Eating Pets Hoax") [NES Princess Peach Sprite Redraws](https://knowyourmeme.com/memes/nes-princess-peach-sprite-redraws "NES Princess Peach Sprite Redraws") [Brazilian Miku](https://knowyourmeme.com/memes/brazilian-miku "Brazilian Miku") [Donald Trump Julius Caesar Assassination](https://knowyourmeme.com/memes/events/donald-trump-julius-caesar-assassination "Donald Trump Julius Caesar Assassination")
 
 Privacy Policy
 ==============
@@ -316,7 +316,7 @@ Please be sure to include your information in any correspondence to us so that w
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Namaste! You must login or signup first!
+### Sup! You must login or signup first!
 
 |     |     |
 | --- | --- |
