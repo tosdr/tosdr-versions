@@ -385,7 +385,7 @@ Free standard shipping on any $35 purchase
             
         * [Hair Goals](https://www.ulta.com/discover/hair/aging-hair-care)
             
-        * [Hair Style Try-On](https://www.ulta.com/discover/hairstyle-try-on)
+        * [Hair Style Try-On](https://www.ulta.com/innovation/experiences/hair/)
             
         * [Curly Textured Hair](https://www.ulta.com/discover/curly-textured-hair-products)
             
@@ -394,13 +394,13 @@ Free standard shipping on any $35 purchase
         * [Black-Owned & Founded](https://www.ulta.com/featured/blackownedbrands?category=hair)
             
         
-        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/discover/hair/aging-hair-care)
+        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/discover/best-hair-care-styling-products)
         
         Hair Goals | Revive your hair
         
         Restorative hair care for a healthy, age-defying look.
         
-        [Shop now](https://www.ulta.com/discover/hair/aging-hair-care)
+        [Shop now](https://www.ulta.com/discover/best-hair-care-styling-products)
         
     * Fragrance
         
@@ -756,7 +756,7 @@ Free standard shipping on any $35 purchase
             
         * [### Relax & Renew](https://www.ulta.com/shop/wellness-shop/relax-renew)
             
-            * [Aromatherapy](https://www.ulta.com/shop/wellness-shop/relax-renew)
+            * [Aromatherapy](https://www.ulta.com/shop/wellness-shop/relax-renew/aromatherapy)
                 
             * [Sleep Essentials](https://www.ulta.com/shop/wellness-shop/relax-renew/sleep-essentials)
                 
@@ -1027,11 +1027,11 @@ Free standard shipping on any $35 purchase
         
         * [### Foundation Shade Finder](https://www.ulta.com/discover/shade-finder)
             
-        * [### Makeup Obsession](https://www.ulta.com/discover/best-cosmetic-makeup-products)
+        * [### Makeup Obsession](https://www.ulta.com/discover/makeup/best-lip-products-guide)
             
-        * [### Skinfatuation](https://www.ulta.com/discover/skin-care-trends)
+        * [### Skinfatuation](https://www.ulta.com/discover/skin/dermatologist-recommended-skin-care-products)
             
-        * [### Fragrance Finder](https://www.ulta.com/fragrancefinder/)
+        * [### Fragrance Finder](https://www.ulta.com/discover/fragrance-finder)
             
         * [### Fragrance Crush](https://www.ulta.com/discover/fragrance-perfume-crush)
             
@@ -1057,7 +1057,7 @@ Free standard shipping on any $35 purchase
         
         * [### Makeup Try-On](https://www.ulta.com/discover/glamlab)
             
-        * [### Hair Color & Style Try-On](https://www.ulta.com/discover/vto/hair?origin=menu)
+        * [### Hair Color & Style Try-On](https://www.ulta.com/innovation/experiences/hair/)
             
         
     * Conscious Beauty
@@ -1072,7 +1072,7 @@ Free standard shipping on any $35 purchase
             
         * [### Sustainable Packaging](https://www.ulta.com/discover/conscious-beauty/sustainable-packaging)
             
-        * [### Positive Impact](https://www.ulta.com/discover/conscious-beauty/positive-impact)
+        * [### Positive Impact](https://www.ulta.com/discover/conscious-beauty/give-back)
             
         
     * [Black-Owned & Founded](https://www.ulta.com/discover/black-owned-founded-beauty-brands)
