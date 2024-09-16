@@ -1241,11 +1241,11 @@ Marken der Woche
 
 [Specials](https://de.iherb.com/specials)[Neu](https://de.iherb.com/new-products)[Ausprobieren](https://de.iherb.com/trial-pricing)[Bestseller](https://de.iherb.com/catalog/topsellers)
 
-[\-28% auf Sportnahrung
+[\-28% auf Haustierbedarf
 
  
 
-‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/sports?pcode=28SPORTS)
+‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/pets?pcode=28PETS)
 
       
 
