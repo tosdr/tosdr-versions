@@ -16,13 +16,13 @@
 Datenschutzhinweise
 ===================
 
-21.08.2024
+12.09.2024
 
 Wenn Sie ein Angebot der Süddeutschen Zeitung als SZ Plus-Abonnent:in nutzen, verarbeitet die Süddeutsche Zeitung GmbH Ihre personenbezogenen Daten. Mit diesen Datenschutzhinweisen informieren wir Sie, wie und warum wir Ihre Daten verarbeiten und wie wir gewährleisten, dass sie vertraulich bleiben und geschützt sind. Wenn Sie Abonnent:in der gedruckten SZ sind, finden Sie die entsprechenden Datenschutzhinweise der dann einschlägigen Datenverarbeitungen unter den Punkten [Vertragsabwicklung](#Bestellen), [Kommunikation](#Kommunikation) und [Werbung für unsere Produkte](#Direktwerbung)
 
 Wenn Sie SZ.de nutzen, indem Sie nach dem Aufrufen der Webseite einen Vertrag mit Werbung abschließen bzw. abgeschlossen haben, finden Sie die in diesem Fall geltenden Datenschutzhinweise [hier](https://www.swmh-datenschutz.de/sz_vertragmitwerbung).
 
-[als PDF speichern](https://datenschutz.sueddeutsche.de/sz/9.20/sz.pdf)
+[als PDF speichern](https://datenschutz.sueddeutsche.de/sz/9.21/sz.pdf)
 
 Die wichtigsten Themen auf einen Blick
 
@@ -41,7 +41,7 @@ Wir nehmen Datenschutz ernst: Wir verarbeiten personenbezogene Daten grundsätzl
 Falls Sie sich bei uns beworben haben, finden Sie [hier](https://jobs.swmh.de/Vacancies/3535/DataProtection/1) die erforderlichen Datenschutzhinweise.
 
 Datenschutz im Überblick
-========================
+------------------------
 
 ### Welche Daten erfassen wir von Ihnen?
 
@@ -239,6 +239,10 @@ Die Daten werden maximal 13 Monate gespeichert.
 | \_sp\_non\_keyed\_local\_state | Informationen über die Metadaten und die UniqueUserID des Nutzers | unbegrenzt | local storage |
 
 Wir verwenden das Cookie authId, um den Consent-Status nicht zu verlieren und eine erneute Consent-Abfrage zu verhindern. Um für eingeloggte Nutzer die Consent-Einstellungen domain- und produktübergreifend weitergeben zu können, ist dieses Cookie unbedingt erforderlich.
+
+#### Podcasts auf Spotify
+
+Für Podcasts, die wir für SZ Plus-Abonnenten auf Spotify anbieten, ist es unbedingt erforderlich, die Kommunikation mit Spotify bei Abwicklung des Logins zu sichern, wofür wir für einen Tag das Cookie spotify-oauth-state setzen.
 
 #### Datawrapper
 
