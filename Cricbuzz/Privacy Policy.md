@@ -74,11 +74,11 @@ AllLive NowToday
     
 * ICC CWC League Two 2023-27
     
-    [Namibia vs United States  LIVE](https://www.cricbuzz.com/live-cricket-scores/106355/nam-vs-usa-25th-match-icc-cwc-league-two-2023-27 "Namibia v United States, 25th Match - Live")
+    [Namibia vs United States](https://www.cricbuzz.com/live-cricket-scores/106355/nam-vs-usa-25th-match-icc-cwc-league-two-2023-27 "Namibia v United States, 25th Match - USA Won")
     
     25th Match
     
-* [Canada vs Nepal](https://www.cricbuzz.com/live-cricket-scores/106953/can-vs-nep-26th-match-icc-cwc-league-two-2023-27 "Canada v Nepal, 26th Match - Toss")
+* [Canada vs Nepal  LIVE](https://www.cricbuzz.com/live-cricket-scores/106953/can-vs-nep-26th-match-icc-cwc-league-two-2023-27 "Canada v Nepal, 26th Match - Live")
     
     26th Match
     
@@ -108,11 +108,7 @@ AllLive NowToday
     
 * T20 Blast
     
-    [Sussex vs Gloucestershire](https://www.cricbuzz.com/live-cricket-scores/85246/sus-vs-gloucs-semi-final-2-t20-blast "Sussex v Gloucestershire, Semi Final 2 - GLOUCS Won")
-    
-    Semi Final 2
-    
-* [Somerset vs Gloucestershire](https://www.cricbuzz.com/live-cricket-scores/85260/som-vs-gloucs-final-t20-blast "Somerset v Gloucestershire, Final - GLOUCS Won")
+    [Somerset vs Gloucestershire](https://www.cricbuzz.com/live-cricket-scores/85260/som-vs-gloucs-final-t20-blast "Somerset v Gloucestershire, Final - GLOUCS Won")
     
     Final
     
@@ -130,29 +126,33 @@ AllLive NowToday
     
 * County Division 1
     
-    [Warwickshire vs Essex](https://www.cricbuzz.com/live-cricket-scores/84509/warks-vs-ess-65th-match-county-division-1 "Warwickshire v Essex, 65th Match - Upcoming")
+    [Warwickshire vs Essex](https://www.cricbuzz.com/live-cricket-scores/84509/warks-vs-ess-65th-match-county-division-1 "Warwickshire v Essex, 65th Match - Preview")
     
     65th Match
     
-* [Surrey vs Durham](https://www.cricbuzz.com/live-cricket-scores/84502/sur-vs-dur-64th-match-county-division-1 "Surrey v Durham, 64th Match - Upcoming")
+* [Surrey vs Durham](https://www.cricbuzz.com/live-cricket-scores/84502/sur-vs-dur-64th-match-county-division-1 "Surrey v Durham, 64th Match - Preview")
     
     64th Match
     
-* [Lancashire vs Somerset](https://www.cricbuzz.com/live-cricket-scores/84499/lancs-vs-som-63rd-match-county-division-1 "Lancashire v Somerset, 63rd Match - Upcoming")
+* [Lancashire vs Somerset](https://www.cricbuzz.com/live-cricket-scores/84499/lancs-vs-som-63rd-match-county-division-1 "Lancashire v Somerset, 63rd Match - Preview")
     
     63rd Match
     
-* [Kent vs Nottinghamshire](https://www.cricbuzz.com/live-cricket-scores/84492/kent-vs-notts-62nd-match-county-division-1 "Kent v Nottinghamshire, 62nd Match - Upcoming")
+* [Kent vs Nottinghamshire](https://www.cricbuzz.com/live-cricket-scores/84492/kent-vs-notts-62nd-match-county-division-1 "Kent v Nottinghamshire, 62nd Match - Preview")
     
     62nd Match
     
-* [Hampshire vs Worcestershire](https://www.cricbuzz.com/live-cricket-scores/84485/ham-vs-worcs-61st-match-county-division-1 "Hampshire v Worcestershire, 61st Match - Upcoming")
+* [Hampshire vs Worcestershire](https://www.cricbuzz.com/live-cricket-scores/84485/ham-vs-worcs-61st-match-county-division-1 "Hampshire v Worcestershire, 61st Match - Preview")
     
     61st Match
     
 * County Division 2
     
-    [Glamorgan vs Yorkshire](https://www.cricbuzz.com/live-cricket-scores/85524/glam-vs-yorks-50th-match-county-division-2 "Glamorgan v Yorkshire, 50th Match - Preview")
+    [Gloucestershire vs Sussex](https://www.cricbuzz.com/live-cricket-scores/85528/gloucs-vs-sus-51st-match-county-division-2 "Gloucestershire v Sussex, 51st Match - Preview")
+    
+    51st Match
+    
+* [Glamorgan vs Yorkshire](https://www.cricbuzz.com/live-cricket-scores/85524/glam-vs-yorks-50th-match-county-division-2 "Glamorgan v Yorkshire, 50th Match - Preview")
     
     50th Match
     
@@ -160,13 +160,9 @@ AllLive NowToday
     
     49th Match
     
-* [Northamptonshire vs Leicestershire](https://www.cricbuzz.com/live-cricket-scores/85535/nhnts-vs-leic-52nd-match-county-division-2 "Northamptonshire v Leicestershire, 52nd Match - Upcoming")
+* [Northamptonshire vs Leicestershire](https://www.cricbuzz.com/live-cricket-scores/85535/nhnts-vs-leic-52nd-match-county-division-2 "Northamptonshire v Leicestershire, 52nd Match - Preview")
     
     52nd Match
-    
-* [Gloucestershire vs Sussex](https://www.cricbuzz.com/live-cricket-scores/85528/gloucs-vs-sus-51st-match-county-division-2 "Gloucestershire v Sussex, 51st Match - Preview")
-    
-    51st Match
     
 * South Africa v Sri Lanka
     
@@ -178,7 +174,7 @@ AllLive NowToday
     
     South Africa Women tour of Pakistan
     
-    [South Africa Women vs Pakistan Women  LIVE](https://www.cricbuzz.com/live-cricket-scores/106409/rsaw-vs-pakw-1st-t20i-south-africa-women-tour-of-pakistan "South Africa Women v Pakistan Women, 1st T20I - Live")
+    [South Africa Women vs Pakistan Women](https://www.cricbuzz.com/live-cricket-scores/106409/rsaw-vs-pakw-1st-t20i-south-africa-women-tour-of-pakistan "South Africa Women v Pakistan Women, 1st T20I - RSAW Won")
     
     1st T20I
     
@@ -186,25 +182,9 @@ AllLive NowToday
     
     2nd T20I
     
-* Kenya Women v Rwanda Women, 2024
-    
-    [Rwanda Women vs Kenya Women](https://www.cricbuzz.com/live-cricket-scores/106705/rwaw-vs-kenw-5th-t20i-kenya-women-v-rwanda-women-2024 "Rwanda Women v Kenya Women, 5th T20I - RWAW Won")
-    
-    5th T20I
-    
-* Womens Tri-Series in Namibia
-    
-    [Namibia Women vs Zimbabwe Women](https://www.cricbuzz.com/live-cricket-scores/106089/namw-vs-zimw-9th-match-womens-tri-series-in-namibia "Namibia Women v Zimbabwe Women, 9th Match - NAMW Won")
-    
-    9th Match
-    
 * Serbia Women v Cyprus Women, 2024
     
-    [Cyprus Women vs Serbia Women](https://www.cricbuzz.com/live-cricket-scores/106932/cypw-vs-srbw-2nd-t20i-serbia-women-v-cyprus-women-2024 "Cyprus Women v Serbia Women, 2nd T20I - CYPW Won")
-    
-    2nd T20I
-    
-* [Serbia Women vs Cyprus Women](https://www.cricbuzz.com/live-cricket-scores/106940/srbw-vs-cypw-3rd-t20i-serbia-women-v-cyprus-women-2024 "Serbia Women v Cyprus Women, 3rd T20I - Abandon")
+    [Serbia Women vs Cyprus Women](https://www.cricbuzz.com/live-cricket-scores/106940/srbw-vs-cypw-3rd-t20i-serbia-women-v-cyprus-women-2024 "Serbia Women v Cyprus Women, 3rd T20I - Abandon")
     
     3rd T20I
     
@@ -214,15 +194,7 @@ AllLive NowToday
     
 * Womens T20I Quadrangular Series
     
-    [Norway Women vs Luxembourg Women](https://www.cricbuzz.com/live-cricket-scores/106892/noyw-vs-luxw-4th-match-womens-t20i-quadrangular-series "Norway Women v Luxembourg Women, 4th Match - NOYW Won")
-    
-    4th Match
-    
-* [Austria Women vs Denmark Women](https://www.cricbuzz.com/live-cricket-scores/106889/autw-vs-denw-3rd-match-womens-t20i-quadrangular-series "Austria Women v Denmark Women, 3rd Match - DENW Won")
-    
-    3rd Match
-    
-* [Austria Women vs Norway Women](https://www.cricbuzz.com/live-cricket-scores/106905/autw-vs-noyw-6th-match-womens-t20i-quadrangular-series "Austria Women v Norway Women, 6th Match - AUTW Won")
+    [Austria Women vs Norway Women](https://www.cricbuzz.com/live-cricket-scores/106905/autw-vs-noyw-6th-match-womens-t20i-quadrangular-series "Austria Women v Norway Women, 6th Match - AUTW Won")
     
     6th Match
     
@@ -240,11 +212,7 @@ AllLive NowToday
     
 * Ireland Women v England Women 2024
     
-    [England Women vs Ireland Women](https://www.cricbuzz.com/live-cricket-scores/93956/engw-vs-irew-1st-t20i-ireland-women-v-england-women-2024 "England Women v Ireland Women, 1st T20I - ENGW Won")
-    
-    1st T20I
-    
-* [England Women vs Ireland Women](https://www.cricbuzz.com/live-cricket-scores/93963/engw-vs-irew-2nd-t20i-ireland-women-v-england-women-2024 "England Women v Ireland Women, 2nd T20I - IREW Won")
+    [England Women vs Ireland Women](https://www.cricbuzz.com/live-cricket-scores/93963/engw-vs-irew-2nd-t20i-ireland-women-v-england-women-2024 "England Women v Ireland Women, 2nd T20I - IREW Won")
     
     2nd T20I
     
@@ -559,37 +527,37 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 [Bangladesh rely on Shadman to keep his 'head' steady](https://www.cricbuzz.com/cricket-news/131639/bangladesh-rely-on-shadman-to-keep-his-head-steady "Bangladesh rely on Shadman to keep his 'head' steady ")
 
-30m ago
+4h ago
 
   [](https://www.cricbuzz.com/cricket-news/131638/oshada-fernando-returns-for-new-zealand-tests "Oshada Fernando returns for New Zealand Tests")
 
 [Oshada Fernando returns for New Zealand Tests](https://www.cricbuzz.com/cricket-news/131638/oshada-fernando-returns-for-new-zealand-tests "Oshada Fernando returns for New Zealand Tests")
 
-6h ago
+11h ago
 
   [](https://www.cricbuzz.com/cricket-news/131637/green-all-round-efforts-in-vain-as-kings-secure-comfortable-win "Green all-round efforts in vain as Kings secure comfortable win")
 
 [Green all-round efforts in vain as Kings secure comfortable win](https://www.cricbuzz.com/cricket-news/131637/green-all-round-efforts-in-vain-as-kings-secure-comfortable-win "Green all-round efforts in vain as Kings secure comfortable win")
 
-10h ago
+14h ago
 
   [](https://www.cricbuzz.com/cricket-news/131636/can-kuldeep-be-the-ace-when-the-pack-shuffles "Can Kuldeep be the ace when the pack shuffles?")
 
 [Can Kuldeep be the ace when the pack shuffles?](https://www.cricbuzz.com/cricket-news/131636/can-kuldeep-be-the-ace-when-the-pack-shuffles "Can Kuldeep be the ace when the pack shuffles?")
 
-13h ago
+17h ago
 
   [](https://www.cricbuzz.com/cricket-news/131635/akhilesh-bodugum-spinning-his-own-theory-of-evolution "Akhilesh Bodugum spinning his own theory of evolution")
 
 [Akhilesh Bodugum spinning his own theory of evolution](https://www.cricbuzz.com/cricket-news/131635/akhilesh-bodugum-spinning-his-own-theory-of-evolution "Akhilesh Bodugum spinning his own theory of evolution")
 
-13h ago
+18h ago
 
   [](https://www.cricbuzz.com/cricket-news/131634/series-decider-abandoned-after-persistent-rain "Series decider abandoned after persistent rain")
 
 [Series decider abandoned after persistent rain](https://www.cricbuzz.com/cricket-news/131634/series-decider-abandoned-after-persistent-rain "Series decider abandoned after persistent rain")
 
-22h ago
+1d ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
