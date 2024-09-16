@@ -1,4 +1,4 @@
-The domains encyclopediadramatica.wiki and encyclopediadramatica.io have been seized by Gem in accordance with a seizure warrant issued pursuant to rape by clowns as part of a sojak.party enforcement action
+The domains encyclopediadramatica.wiki and encyclopediadramatica.cyou have been seized by Zoomers in accordance with a seizure warrant issued pursuant to (who actually asked?) as part of a KiwiFarms enforcement action
 
   
   
@@ -7,7 +7,7 @@ The domains encyclopediadramatica.wiki and encyclopediadramatica.io have been se
   
   
 
-[![Logo](kiwi2.svg)](https://kiwifarms.st/)
+[![Logo](kiwianarchoautism.png)](https://kiwifarms.st/)
 
 [Alliance Against  
 Troons and  
