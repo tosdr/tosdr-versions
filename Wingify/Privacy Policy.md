@@ -186,6 +186,10 @@
     
     Latest Blogs
     
+    [![](https://static.wingify.com/gcp/uploads/sites/3/2024/09/Feature-image-25-Customer-Data-Platform-Statistics-You-Need-to-Know-2024.jpg?tr=w-60,h-50)
+    
+    25 Customer Data Platform Statistics You Need to Know](https://vwo.com/blog/customer-data-platform-statistics/)
+    
     [![](https://static.wingify.com/gcp/uploads/sites/3/2024/09/Feature-image-Women-in-CRO_-Expert-Insights-from-Abi-Hough-Director-at-UU3-Limited@2x.jpg?tr=w-60,h-50)
     
     Women in CRO: Expert Insights from Abi Hough, Director at UU3 Limited](https://vwo.com/blog/women-in-cro-insights-from-abi-hough/)
@@ -201,10 +205,6 @@
     [![](https://static.wingify.com/gcp/uploads/sites/3/2024/08/Feature-image-Customer-Satisfaction-Survey-Examples-Covering-Top-Questions.jpg?tr=w-60,h-50)
     
     Customer Satisfaction Survey Examples Covering Top Questions](https://vwo.com/blog/customer-satisfaction-survey-examples/)
-    
-    [![](https://static.wingify.com/gcp/uploads/sites/3/2024/07/Feature-image-CRO-Perspectives-Gladwin-Ngo-1.jpg?tr=w-60,h-50)
-    
-    Allocate resources to experiments to proactively adapt to changes: Insights from Gladwin Ngo](https://vwo.com/blog/insights-from-gladwin-ngo/)
     
     Featured Blogs
     
@@ -442,7 +442,7 @@
     
     Website optimization is the process of implementing knowledge, strategies, and tools for improving various...](https://vwo.com/glossary/website-optimization/)
     
-    [View all Glossaries](https://vwo.com/glossary)
+    [View All Glossary Terms](https://vwo.com/glossary)
     
     [VWO Knowledge Base](https://help.vwo.com/) [Product Updates](https://vwo.com/product-updates)
     
