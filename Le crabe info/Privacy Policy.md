@@ -121,7 +121,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 709 utilisateurs actifs
+##### 660 utilisateurs actifs
 
 Chargement en cours
 
@@ -131,9 +131,9 @@ Chargement en cours
 
 ### À la une
 
+* [Le Microsoft Store se modernise avec une nouvelle page de téléchargement et quelques autres nouveautés](https://lecrabeinfo.net/le-microsoft-store-se-modernise-avec-une-nouvelle-page-de-telechargement-et-quelques-autres-nouveautes.html)
 * [Assistance rapide de Windows : guide pour dépanner un proche à distance](https://lecrabeinfo.net/assistance-rapide-de-windows-guide-pour-depanner-un-proche.html)
 * [Windows 11 24H2 : comment la nouvelle fonctionnalité réduit votre consommation d'électricité ?](https://lecrabeinfo.net/windows-11-24h2-comment-la-nouvelle-fonctionnalite-reduit-votre-consommation-delectricite.html)
-* [Le menu Démarrer de Windows 11 fait encore des siennes ?](https://lecrabeinfo.net/le-menu-demarrer-de-windows-11-fait-encore-des-siennes.html)
 
 ### Tendance
 
@@ -152,9 +152,9 @@ Chargement en cours
 
 ### Statistiques
 
-* 68 492 membres
-* 894 articles
-* 26 550 commentaires
+* 68 498 membres
+* 895 articles
+* 26 560 commentaires
 
 * [BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr "CC BY-NC-SA")
 * 2013-2024
