@@ -205,24 +205,23 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Cultural Calamities](https://www.somethingawful.com/great-goon-database/great-goon-culture/1/)
-* [Leonard Crabs' Carnival of Savings!](https://www.somethingawful.com/feature-articles/leonard-crabs-carnival/1/)
-* [\*splap\*!](https://www.somethingawful.com/awfulvision/fat-caveman-sword/1/)
-* [Indiana Jones and the Vessel of Ra](https://www.somethingawful.com/awful-movie-database/amdb-indiana-jones/)
-* [We're Bringing Sexy Back](https://www.somethingawful.com/great-goon-database/great-goon-sexy/1/)
+* [Lost Word of Jenny: Gamer Girls in the Making](https://www.somethingawful.com/rom-pit/lost-word-jenny/)
+* [Exteel - Stupid Anime Robots](https://www.somethingawful.com/mmo-roulette/exteel/1/)
+* [Clash at Demonhead](https://www.somethingawful.com/rom-pit/clash-demonhead/1/)
+* [Swamp Thing](https://www.somethingawful.com/rom-pit/nes-swamp-thing/)
+* [Godzilla - Monster of Monsters!](https://www.somethingawful.com/rom-pit/godzilla-monster/)
 
 ### Popular Threads
 
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/poll.png) [One's gotta go](http://forums.somethingawful.com/showthread.php?threadid=4070489 "One's gotta go")
-* ![](https://fi.somethingawful.com/forums/posticons/LF-article.gif) [How autistic are you? Take the RAADS test and find out.](http://forums.somethingawful.com/showthread.php?threadid=4070452 "How autistic are you? Take the RAADS test and find out.")
 
 ### Random Articles
 
-* [THE PERFECT HUMAN FORM](https://www.somethingawful.com/news/perfect-human-form/)
-* [Jeff VanderMeer's Fyre Festival](https://www.somethingawful.com/news/fyre-festival-vandermeer/)
-* [Now biweekly!](https://www.somethingawful.com/second-life-safari/now-biweekly/)
-* [Grandpa didn't die flamethrowering the Vietcong so the wrong gender could gas up a helicopter](https://www.somethingawful.com/news/grandpa-warcrimes-good/)
-* [Valentines + Dinosaurs = Valendinos](https://www.somethingawful.com/comedy-goldmine/valentines-day-dinosaurs/1/)
+* [Old Games On New TVs: The Sega Dreamcast](https://www.somethingawful.com/video-game-article/dreamcast-gdemu-ossc/)
+* [The Reificant: Collapse](https://www.somethingawful.com/news/reificant-liminal-states/1/)
+* [T.A. Hamilton (Thanks again, wit!)](https://www.somethingawful.com/awful-links/ta-hamilton-magic/)
+* [The Official Ricky Martin Website](https://www.somethingawful.com/awful-links/awful-link-3284/)
+* [Hey, Corporations! Get your Covid19 and BLM Ads out of the Cool Zone!](https://www.somethingawful.com/news/coolzone/)
 
 [Random!](https://www.somethingawful.com/random/)
 
