@@ -5,7 +5,7 @@
 
 [Sign in](https://greasyfork.org/en/users/sign_in?return_to=%2Fen%2Fhelp%2Fprivacy)
 
-العَرَبِيةُ (ar) Български (bg) کوردیی ناوەندی (ckb) Čeština (cs) Dansk (da) Deutsch (de) Ελληνικά (el) English (en) Esperanto (eo) Español (es) Suomi (fi) Français (fr) Français canadien (fr-CA) עברית (he) Hrvatski (hr) Magyar (hu) Bahasa Indonesia (id) Italiano (it) 日本語 (ja) ქართული ენა (ka) 한국어 (ko) Bokmål (nb) Nederlands (nl) Polski (pl) Português do Brasil (pt-BR) Română (ro) Русский (ru) Slovenčina (sk) srpski (sr) Svenska (sv) ภาษาไทย (th) Türkçe (tr) Українська (uk) ئۇيغۇرچە (ug) Tiếng Việt (vi) 简体中文 (zh-CN) 繁體中文 (zh-TW) Help us translate!  
+العَرَبِيةُ (ar) Български (bg) کوردیی ناوەندی (ckb) Čeština (cs) Dansk (da) Deutsch (de) Ελληνικά (el) English (en) Esperanto (eo) Español (es) Español latinoaméricano (es-419) Suomi (fi) Français (fr) Français canadien (fr-CA) עברית (he) Hrvatski (hr) Magyar (hu) Bahasa Indonesia (id) Italiano (it) 日本語 (ja) ქართული ენა (ka) 한국어 (ko) Bokmål (nb) Nederlands (nl) Polski (pl) Português do Brasil (pt-BR) Română (ro) Русский (ru) Slovenčina (sk) srpski (sr) Svenska (sv) ภาษาไทย (th) Türkçe (tr) Українська (uk) ئۇيغۇرچە (ug) Tiếng Việt (vi) 简体中文 (zh-CN) 繁體中文 (zh-TW) Help us translate!  
 
 * [Scripts](https://greasyfork.org/en/scripts)
 * [Forum](https://greasyfork.org/en/discussions)
