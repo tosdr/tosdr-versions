@@ -96,23 +96,17 @@ To
     Now until Fri 15 Nov 10:00 pm](https://www.baybus.co.nz/latest-updates/service-updates/arataki-bus-hub-upgrade-farm-street-one-way-temporary-bus-stops-routes-ct-2-5-20-21-143a-143b/)
 * [##### Detour Route 135 - Road Closure SH 34 Kawerau Road (SH34/30 intersection) to Charterisi Lane
     
-    Mon 16 Sept 08:00 am - Fri 25 Oct 04:00 pm](https://www.baybus.co.nz/latest-updates/service-updates/detour-route-135-road-closure-sh-34-kawerau-road-sh3430-intersection-to-charterisi-lane/)
+    Now until Fri 25 Oct 04:00 pm](https://www.baybus.co.nz/latest-updates/service-updates/detour-route-135-road-closure-sh-34-kawerau-road-sh3430-intersection-to-charterisi-lane/)
 * [##### Detour Route 1 - Night Closure of Devonport Road
     
     Now until Sun 03 Nov 06:00 am](https://www.baybus.co.nz/latest-updates/service-updates/detour-route-1-night-closure-of-devonport-road/)
 * [##### Bus Stop Closures Routes 1, 102 & 105
     
     Now until Fri 25 Oct 06:00 pm](https://www.baybus.co.nz/latest-updates/service-updates/bus-stop-closures-routes-1-102-105/)
-* [##### Bus Stop Closure Route 5 - Maunganui Road/Tui Street
-    
-    Now until Mon 16 Sept 08:00 pm](https://www.baybus.co.nz/latest-updates/service-updates/bus-stop-closure-route-5-maunganui-roadtui-street/)
 * [##### Delays Routes 101, 143a & 143B - State Highway 2 Works
     
     Now until Sat 12 Oct 06:00 pm](https://www.baybus.co.nz/latest-updates/service-updates/delays-routes-101-143a-143b-state-highway-2-works/)
 * [##### Permanent Bus Stop Closure for Routes 2, 20, 21: Girven Rd - Baywave](https://www.baybus.co.nz/latest-updates/service-updates/permanent-bus-stop-closure-for-routes-2-20-21-girven-rd-baywave/)
-* [##### Temporary Bus Stop Closures, Routes 1 & 105 - Fraser Street
-    
-    Now until Sun 15 Sept 11:00 pm](https://www.baybus.co.nz/latest-updates/service-updates/temporary-bus-stop-closures-routes-1-105-fraser-street/)
 * [##### Detour Routes 122 & 135 - Kakahoroa Drive, Whakatāne - Project Future Proof
     
     Now until Thu 31 Oct 08:00 pm](https://www.baybus.co.nz/latest-updates/service-updates/detour-routes-122-135-kakahoroa-drive-whakatane-project-future-proof/)
