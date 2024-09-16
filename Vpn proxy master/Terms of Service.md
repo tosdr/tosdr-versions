@@ -63,7 +63,7 @@ Tools
 Terms of Service
 ================
 
-This is an agreement between you and VPN Proxy Master for Virtual Private Network (VPN) communications services, related services and features. It is NOT a service for the commission of criminal acts. It is an anonymity and privacy service. Please note that the terms constitute a binding legal agreement between you and VPN Proxy Master. By visiting the website, registering, installing and/or using the VPN Proxy Master Services on any platform or device you agree to be bound by these terms. It is only under these terms that VPN Proxy Master allows visitors / users (the “users”) to use VPN Proxy Master Services. If you do not agree to these terms or any provisions hereof, please do not install and do not use our software, our mobile application and/or any of our products or services.
+This is an agreement between you and VPN Proxy Master for Virtual Private Network (VPN) communications services, related services and features.The Services are provided by Lemon Clove Pte. Limited (“we,” “us,” “our,” or “VPN Proxy Master”), whose address is 18 Robinson Road, #15-01, Singapore 048547. Please note that the Terms constitute a binding legal agreement between you ("User" or "You") and VPN Proxy Master. It is NOT a service for the commission of criminal acts. It is an anonymity and privacy service. Please note that the terms constitute a binding legal agreement between you and VPN Proxy Master. By visiting the website, registering, installing and/or using the VPN Proxy Master Services on any platform or device you agree to be bound by these terms. It is only under these terms that VPN Proxy Master allows visitors / users (the “users”) to use VPN Proxy Master Services. If you do not agree to these terms or any provisions hereof, please do not install and do not use our software, our mobile application and/or any of our products or services.
 
 You agree to protect your user id/password and our system from unauthorized use. You are responsible for all actions that occur on our servers where the login uses your user id/password.
 
@@ -91,9 +91,9 @@ Your subscription service will automatically be renewed and your chosen payment 
 
 If you wish to claim a refund, you can do so within 30 days following your purchase of VPN Proxy Master Premium Service. We seek your full satisfaction with our services. However, we would like to troubleshoot an issue you experience first. There are common VPN service configuration issues that may hinder VPN Proxy Master service for you and we resolve most of user issues encountered.
 
-Subscriptions purchased via the iTunes/App Store are subject to iTunes/App Store refund policies. This means we reserve the rights do not grant refunds if you purchased an app through iTunes/App Store – you will have to contact store support for that. Payments made using prepaid cards or gift cards will not be refunded. For payments made in cryptocurrency, the equivalent amount in US Dollars will be refunded in the same cryptocurrency (based on the rate of exchange at the moment of refund).
+Subscriptions purchased through third-party stores are subject to the store's refund policy. This means that if you purchased an app through a third-party store, we reserve the right not to refund you - you must contact store support. Payments made with prepaid or gift cards will not be refunded. For payments made in cryptocurrency, the USD equivalent will be refunded in the same cryptocurrency (based on the exchange rate at the time of the refund).
 
-You have the right to cancel your account at any time. You can cancel a recurring subscription from your website profile, iTunes/App Store or Google Play Store. Cancelled accounts will not be refunded for the unused part of the ongoing service period.
+You have the right to cancel your account at any time. You can cancel a recurring subscription from your website profile, iTunes/App Store, Google Play, Huawei Store, etc. Cancelled accounts will not be refunded for the unused part of the ongoing service period.
 
 VPN Proxy Master reserves the right to suspend or refuse service to anyone at any time for any reason. No refunds will be considered for accounts terminated for violation of these terms.
 
@@ -130,8 +130,6 @@ We reserve the right to modify and update these Terms at Our sole discretion, at
 We also reserve the right to modify, update, or suspend the operation of the VPN Proxy Master Services at our sole discretion, at any time, for any or no reason, and without notice or liability.
 
 All users of VPN Proxy Master Services are obliged to ensure that they are familiar with the most current wording of the Terms. The change of the Terms may be communicated to you by publishing the updated Terms on VPN Proxy Master website, where the date of the most current wording of the Terms is indicated at the top of the web page. Since you agree to be bound by these Terms each time you use the VPN Proxy Master services, please consider reviewing the terms each time when you use the VPN Proxy Master services. Each update of the terms comes into force as of the moment when it is published on this web page. You understand and agree that any continued use and access to the VPN Proxy Master Services after any updates to these terms are published, means that you voluntarily agree to be bound by the updated Terms.
-
-The terms constitute an agreement between you and us regarding the use of the VPN Proxy Master Services. The parties acknowledge that no reliance is placed on any representation made but not expressly contained in these terms.
 
 The terms constitute an agreement between you and us regarding the use of the VPN Proxy Master Services. The parties acknowledge that no reliance is placed on any representation made but not expressly contained in these terms.
 
