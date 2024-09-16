@@ -5,8 +5,8 @@
 * [Home](https://apkvision.com/)
 * [Games](https://apkvision.org/games/)
 * [Apps](https://apkvision.org/app/)
-* [News](https://apkvision.org/news/)
-* [TOP 100](https://apkvision.org/top-100-games/)
+* [MOD APK](https://apkvision.org/mod/)
+* [Request](https://apkvision.org/request/)
 
 Dark mode
 
@@ -37,7 +37,7 @@ In case of disagreement with these terms, do not use this Website.
 14. The website ApkVision has the right to unilaterally modify the list of information presented in this resource.
 15. The website ApkVision has the right to unilaterally revoke permission to use the materials without explanation.
 
-© 2024 APKVISION.ORG | [Send Request](https://apkvision.org/request/)
+© 2015 - 2024 APKVISION.ORG
 
 * [TERMS](https://apkvision.org/terms-of-service/)
 * [PRIVACY POLICY](https://apkvision.org/privacy-policy/)
