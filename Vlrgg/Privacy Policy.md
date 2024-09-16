@@ -33,6 +33,8 @@ Spoilers: ON HIDDEN
 Privacy Policy
 ==============
 
+_Last updated November 2021_
+
 This document is our privacy policy which describes what information we collect and what it's used for. Your use of the site constitutes your agreement to our policy.
 
 The Information We Collect
@@ -69,13 +71,15 @@ How To Contact Us
 
 Should you have other questions or concerns about this policy, please send us an email via the "Contact" link at the footer of the page.
 
-Last updated: November 2021
-
 [Contact](mailto:community@VLR.gg)
 
 •
 
 [Privacy](https://www.vlr.gg/privacy)
+
+•
+
+[Terms](https://www.vlr.gg/terms)
 
 •
 
