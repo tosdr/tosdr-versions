@@ -1,5 +1,5 @@
   
-Terms of service – G FUEL                                                                                                            
+Terms of service – G FUEL                                                                                                             
 
 [Skip to content](#MainContent) 
 
@@ -107,7 +107,7 @@ Close menu
 
   [![G FUEL](//gfuel.com/cdn/shop/files/GFL-FearFest-HEADER-logo_150x.png?v=1726160870) ![G FUEL](//gfuel.com/cdn/shop/files/GFL-FearFest-HEADER-logo_130x.png?v=1726160870)](https://gfuel.com/)[![G FUEL](//gfuel.com/cdn/shop/files/GFL-FearFest-HEADER-logo_150x.png?v=1726160870) ![G FUEL](//gfuel.com/cdn/shop/files/GFL-FearFest-HEADER-logo_130x.png?v=1726160870)](https://gfuel.com/)
 
-  ![Search Icon Black](//gfuel.com/cdn/shop/t/559/assets/fearfest-search-icon-black.png?v=145646052917047999211726496581)  Search  "Close (esc)"
+  ![Search Icon Black](//gfuel.com/cdn/shop/t/562/assets/fearfest-search-icon-black.png?v=145646052917047999211726499997)  Search  "Close (esc)"
 
 [](https://gfuel.com/products/hack-n-slash)
 
@@ -200,7 +200,7 @@ View more
 * [Rewards](https://gfuel.com/pages/rewards)
 * [Flavor Quiz](https://gfuel.com/pages/flavor-quiz)
 
- [![Account Icon](//gfuel.com/cdn/shop/t/559/assets/fearfest-account-icon.png?v=76113951967063794631726241544) Log in](https://gfuel.com/account)[![Ouija Planchette Search Icon](//gfuel.com/cdn/shop/t/559/assets/fearfest-search-icon-black.png?v=145646052917047999211726496581) Search](https://gfuel.com/search) Site navigation [![Cart Icon](//gfuel.com/cdn/shop/t/559/assets/fearfest-cart-icon.png?v=118199243717223592911726241544) Cart](https://gfuel.com/cart)
+ [![Account Icon](//gfuel.com/cdn/shop/t/562/assets/fearfest-account-icon.png?v=76113951967063794631726499997) Log in](https://gfuel.com/account)[![Search Icon](//gfuel.com/cdn/shop/t/562/assets/fearfest-search-icon-black.png?v=145646052917047999211726499997) Search](https://gfuel.com/search) Site navigation [![Cart Icon](//gfuel.com/cdn/shop/t/562/assets/fearfest-cart-icon.png?v=118199243717223592911726499997) Cart](https://gfuel.com/cart)
 
   Search 
 
@@ -210,7 +210,7 @@ View more
 
 Pause slideshow Play slideshow
 
-[Fuel Up and Get 50% off! Use Code: levelup50 d h m s](https://gfuel.com/collections/video-game)
+[countdown to Halloween 🔪 d h m s](https://gfuel.com/collections/fear-fest)
 
 ![](https://cdn.shopify.com/s/files/1/0223/3113/files/check-cart.svg?v=1689600224) ITEM ADDED TO YOUR CART! [View Cart](https://gfuel.com/cart)
 
@@ -576,7 +576,7 @@ DOWNLOAD THE APP
 
 EASY NAVIGATION - EXCLUSIVE DROPS - COOL ASF
 
- [![](//gfuel.com/cdn/shop/t/559/assets/app-store-badge.svg?v=123926581890561309811726241544)](https://apps.apple.com/app/g-fuel/id1205219305 "Download on the App Store")[![](//gfuel.com/cdn/shop/t/559/assets/google-play-badge.png?v=132395384020293405351726241544)](https://play.google.com/store/apps/details?id=com.aeron.shopifycore.gfuel "Get it on Google Play")
+ [![](//gfuel.com/cdn/shop/t/562/assets/app-store-badge.svg?v=123926581890561309811726499997)](https://apps.apple.com/app/g-fuel/id1205219305 "Download on the App Store")[![](//gfuel.com/cdn/shop/t/562/assets/google-play-badge.png?v=132395384020293405351726499997)](https://play.google.com/store/apps/details?id=com.aeron.shopifycore.gfuel "Get it on Google Play")
 
 The statements contained in this website have not been evaluated by the Food and Drug Administration (FDA). No statements shall be construed as a claim or representation of a diagnosis, treatment, cure, or prevention of any disease. No product listed in this website is intended to diagnose, treat, cure, or prevent any disease. Products are not intended for those with a medical condition, pregnant or nursing.
 
