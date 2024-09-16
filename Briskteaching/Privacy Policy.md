@@ -18,6 +18,30 @@ About
 
 [Add to Chrome For Free](https://www.briskteaching.com/chrome-extension)
 
+[![](https://cdn.prod.website-files.com/64d233e71a07f45ec32b6736/66e20c2fff171b422b77b155_Full%20Logo%20(1).svg)](https://www.briskteaching.com/?r=0)
+
+Brisk's Tools
+
+[All 30+ Tools](https://www.briskteaching.com/ai-tools-for-teachers)[Give Feedback](https://www.briskteaching.com/feedback)[Create Curriculum](https://www.briskteaching.com/curriculum)[Change Reading Levels](https://www.briskteaching.com/reading-level-conversion)[Inspect Writing](https://www.briskteaching.com/inspect-writing)[Brisk Boost for Students](https://www.briskteaching.com/briskboost)
+
+[Plans](https://www.briskteaching.com/plans)
+
+Resources
+
+Get Started
+
+[About Brisk](https://www.briskteaching.com/about)[Getting Started](https://www.briskteaching.com/getting-started-with-brisk-teaching)[FAQs](https://www.briskteaching.com/faq)
+
+Learn
+
+[Professional Development](https://www.briskteaching.com/brisk-professional-development-resources)[Printables and PDFs](https://www.briskteaching.com/printables-for-teachers)[Blog](https://www.briskteaching.com/blog)[Success Stories](https://www.briskteaching.com/success-stories)[What's New](https://www.briskteaching.com/whats-new)[Privacy Center](https://www.briskteaching.com/privacy-center)
+
+Connect
+
+[Community](https://www.briskteaching.com/community)[Wall of Love](https://www.briskteaching.com/testimonials)
+
+[Add to Chrome for free](https://chromewebstore.google.com/detail/brisk-teaching/pcblbflgdkdfdjpjifeppkljdnaekohj?pli=1)[Demo for your District](https://calendly.com/d/28c-gny-zrx)
+
 Privacy Notice
 ==============
 
