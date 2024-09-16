@@ -68,20 +68,20 @@ travel • live • work • interact • share • repeat • 
 [fun from day one!](#)
 ----------------------
 
-* [fun from day one!](#tab_66e0f3e23f211)
+* [fun from day one!](#tab_66e86d302f9c5)
     ---------------------------------------
     
-    [We are here to offer more than just accommodation. We are committed to provide you a home away from home, where you can instantly feel like a part of a community of likeminded people. We have events running at the hostel every day of the week, so that you can meet other travellers and have fun from day one!](#tab_66e0f3e23f211)
+    [We are here to offer more than just accommodation. We are committed to provide you a home away from home, where you can instantly feel like a part of a community of likeminded people. We have events running at the hostel every day of the week, so that you can meet other travellers and have fun from day one!](#tab_66e86d302f9c5)
     
-* [fomo no more!](#tab_66e0f3e23f224)
+* [fomo no more!](#tab_66e86d302f9d5)
     -----------------------------------
     
-    [We want you to experience Amsterdam in the best way possible, with no room for fomo. We’re here to give you the coolest tips and recommendations for your visit, from our many local perspectives. Our staff is an amazing mix of true Amsterdammers and international locals who are there for you 24/7.](#tab_66e0f3e23f224)
+    [We want you to experience Amsterdam in the best way possible, with no room for fomo. We’re here to give you the coolest tips and recommendations for your visit, from our many local perspectives. Our staff is an amazing mix of true Amsterdammers and international locals who are there for you 24/7.](#tab_66e86d302f9d5)
     
-* [we’ve got you covered, dude](#tab_66e0f3e23f232)
+* [we’ve got you covered, dude](#tab_66e86d302f9e1)
     -------------------------------------------------
     
-    [You are part of the international and unique Via family as you check in. Our spaces just boost creativity and they are designed for all kinds of needs; make connections, have fun, eat & drink, join activities, sleep, connect online and offline, make memories, take cool photos… We come from all around the world just like our guests, so we really get you, dude.](#tab_66e0f3e23f232)
+    [You are part of the international and unique Via family as you check in. Our spaces just boost creativity and they are designed for all kinds of needs; make connections, have fun, eat & drink, join activities, sleep, connect online and offline, make memories, take cool photos… We come from all around the world just like our guests, so we really get you, dude.](#tab_66e86d302f9e1)
     
 
 ##### [view facilities](https://www.viahostels.com/facilities/)
@@ -117,6 +117,11 @@ follow us on social
 
 [](https://www.instagram.com/viaamsterdam/)
 
+[Summery weather is finally making a comeback this ![Summery weather is finally making a comeback this week! ☀️ Come soak up the sun with us🏖🍹🙏](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C_-HWz3i2Je/) 
+
+[What we wished happen when our guests order a tast ![What we wished happen when our guests order a tasty meal🍴🍜🤤 
+#viaamsterdam #hostellife #youtoo #travellife](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C_1AlupufzV/) 
+
 [Why chase the sunset when you can sip on the sunri ![Why chase the sunset when you can sip on the sunrise in the dude bar!🤩💛🍹](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C_nJ6zKtBAZ/) 
 
 [![Via’s guide to a perfect day in Amsterdam! What’s your favourite spot?🤩🙌🏼💛
@@ -146,12 +151,6 @@ It's free to use for all our guests, just ask the receptionists to turn on your 
 #viaamsterdam #movietime #cinemaroom #relaxing #hostellife😍](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C_FrmSgMlzj/) 
 
 [Some of the faces behind the magic—our incredibl ![Some of the faces behind the magic—our incredible staff! 🌟💓🫶](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C_DNrHqooIe/) 
-
-[Sunny skies and warm temperatures are in today's f ![Sunny skies and warm temperatures are in today's forecast! 😎🥰
-Our tip: visit Marineterrein for the perfect spot to spend a sunlit day and take a refreshing dip!!](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C--R0vKNDH_/) 
-
-[![Free staff coffee: our secret motivation! 😜☕️
-#viaamsterdam #hostelfriends #travellife #bartenderlife #coffeetime](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C-2qVcNh8a0/)
 
 current & upcoming events
 -------------------------
