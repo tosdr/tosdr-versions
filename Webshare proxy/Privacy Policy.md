@@ -458,7 +458,9 @@ How to change preferences
 
 To manage cookies, an individual may change their browser settings to: (i) notify them when they receive a cookie, so the individual can choose whether or not to accept it; (ii) disable existing cookies; or (iii) set their browser to automatically reject cookies.  Please note that doing so may negatively impact an individual’s experience using our websites, as some features and services on our websites may not work properly.  Depending on an individual’s device and operating system, they may not be able to delete or block all cookies.  In addition, if an individual wants to reject cookies across all their browsers and devices, they will need to do so on each browser on each device they actively use.  An individual may also set their email options to prevent the automatic downloading of images that may contain technologies that would allow us to know whether they have accessed our email and performed certain functions with it.
 
-![](https://cdn.prod.website-files.com/5e42f62100b3490abec730e4/64b7ff9d90cc5798c8d4be75_stars.svg)![](https://cdn.prod.website-files.com/5e42f62100b3490abec730e4/64b8000530843452c55ab426_stars_2.svg)
+![](https://cdn.prod.website-files.com/5e42f62100b3490abec730e4/66e2b5b8a0bda7b3f2cf2c39_planet.svg)![](https://cdn.prod.website-files.com/5e42f62100b3490abec730e4/64b7ff9d90cc5798c8d4be75_stars.svg)![](https://cdn.prod.website-files.com/5e42f62100b3490abec730e4/64b8000530843452c55ab426_stars_2.svg)![](https://cdn.prod.website-files.com/5e42f62100b3490abec730e4/66e2b5b8c2a326819ce88aea_Group-1.svg)![](https://cdn.prod.website-files.com/5e42f62100b3490abec730e4/66e2b5b83df998777b1c414f_Group.svg)
+
+![](https://cdn.prod.website-files.com/5e42f62100b3490abec730e4/66e2b5b8597f20b8b993ea05_human.svg)
 
 Get started today,
 ==================
