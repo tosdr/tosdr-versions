@@ -91,46 +91,46 @@ Authors of the website:
 
 *  [![](/img/collective-logo.svg) The “Neutral Language Council” collective](https://en.pronouns.page/team)  
     We are a queer collective dedicated to assembling, researching, shaping and promoting gender neutral and nonbinary language. We also support actions towards equality and social justice.
-* Jacob [@Fishmael](https://en.pronouns.page/@Fishmael)  
-    English, Russian, moderation
 * Laker T. [@laker](https://en.pronouns.page/@laker)  
     Moderation, Sources
-* Claudio Nicoli Pannacci [@kappanneo](https://en.pronouns.page/@kappanneo)  
-    English, Swedish, Italian (work in progress), Upcoming language versions
-* Diego M. [@GreenWithin](https://en.pronouns.page/@GreenWithin)  
-    English, Spanish (Español), Design, Translation, Moderation
-* tecc [@tecc](https://en.pronouns.page/@tecc)  
-    programming, sysadmin, nitpicking
-* Avery (They/Them) [@realAvery](https://en.pronouns.page/@realAvery)  
-    Moderation, Technical
-* Andrea Vos [@andrea](https://en.pronouns.page/@andrea)  
-    code, language, blog, project coordination, user support
-* アンディ [@and.y](https://en.pronouns.page/@and.y)  
-    Moderation, Sources, Reports
-* Benjamin [@therealbenpai](https://en.pronouns.page/@therealbenpai)  
-    Moderation, Development, Community Programs, Support Services
-* lucjan [@kaslucji](https://en.pronouns.page/@kaslucji)  
-    moderation, terminology
-* Kevin [@kevinn](https://en.pronouns.page/@kevinn)  
-    moderation, technical
-* \- Juniper [@botanicalyhuman](https://en.pronouns.page/@botanicalyhuman)  
-    Moderation, Bans, Terminology
-* Asher [@jerryv](https://en.pronouns.page/@jerryv)  
-    moderation
 * faera ☆ [@celestialflowers](https://en.pronouns.page/@celestialflowers)  
     moderation, english
-* Paweł Dembowski [@ausir](https://en.pronouns.page/@ausir)  
-    language, sources
-* Kory [@kory\_warning](https://en.pronouns.page/@kory_warning)  
-    translation, moderation, administration
-* Szymon Misiek [@szymon](https://en.pronouns.page/@szymon)  
-    language, sources
-* Torryn June 🌟 [@torrynjune](https://en.pronouns.page/@torrynjune)  
-    German (Deutsch), administration, moderation, terminology, language, support
-* Wren [@wrac4242](https://en.pronouns.page/@wrac4242)  
-    Moderation, Technical
 * Thomas Vos [@T\_Vos](https://en.pronouns.page/@T_Vos)  
     Project manager, User support, social media, English, Polish
+* Torryn June 🌟 [@torrynjune](https://en.pronouns.page/@torrynjune)  
+    German (Deutsch), administration, moderation, terminology, language, support
+* Jacob [@Fishmael](https://en.pronouns.page/@Fishmael)  
+    English, Russian, moderation
+* Paweł Dembowski [@ausir](https://en.pronouns.page/@ausir)  
+    language, sources
+* Szymon Misiek [@szymon](https://en.pronouns.page/@szymon)  
+    language, sources
+* Avery (They/Them) [@realAvery](https://en.pronouns.page/@realAvery)  
+    Moderation, Technical
+* Kevin [@kevinn](https://en.pronouns.page/@kevinn)  
+    moderation, technical
+* Asher [@jerryv](https://en.pronouns.page/@jerryv)  
+    moderation
+* tecc [@tecc](https://en.pronouns.page/@tecc)  
+    programming, sysadmin, nitpicking
+* Diego M. [@GreenWithin](https://en.pronouns.page/@GreenWithin)  
+    English, Spanish (Español), Design, Translation, Moderation
+* アンディ [@and.y](https://en.pronouns.page/@and.y)  
+    Moderation, Sources, Reports
+* Wren [@wrac4242](https://en.pronouns.page/@wrac4242)  
+    Moderation, Technical
+* Kory [@kory\_warning](https://en.pronouns.page/@kory_warning)  
+    translation, moderation, administration
+* Andrea Vos [@andrea](https://en.pronouns.page/@andrea)  
+    code, language, blog, project coordination, user support
+* lucjan [@kaslucji](https://en.pronouns.page/@kaslucji)  
+    moderation, terminology
+* Claudio Nicoli Pannacci [@kappanneo](https://en.pronouns.page/@kappanneo)  
+    English, Swedish, Italian (work in progress), Upcoming language versions
+* Benjamin [@therealbenpai](https://en.pronouns.page/@therealbenpai)  
+    Moderation, Development, Community Programs, Support Services
+* \- Juniper [@botanicalyhuman](https://en.pronouns.page/@botanicalyhuman)  
+    Moderation, Bans, Terminology
 
 Contact & social media:
 
@@ -157,7 +157,7 @@ Contribute:
 
 Light mode Automatic Dark mode
 
-Version: [acca2831](https://gitlab.com/PronounsPage/PronounsPage/-/commit/acca2831209b47c2e2434fb824e86d60acf01f8e) /
+Version: [db8a6d21](https://gitlab.com/PronounsPage/PronounsPage/-/commit/db8a6d21cf63dc8d0c002887442e0f0adcc9c3ed) /
 
 Legal:
 
@@ -186,10 +186,10 @@ Stats:
 **all language versions** | [only this version](#)
 
 * Cards: **1M**
-* Unique visitors: **852.6k** / month
+* Unique visitors: **842.1k** / month
 * Page views: **3.1M** / month
-* Currently online: **129**
-* Registered users: **988.7k**
+* Currently online: **83**
+* Registered users: **989.5k**
 * [heartbeat](https://en.pronouns.page/undefined)
 
 **We condemn war crimes.**  
