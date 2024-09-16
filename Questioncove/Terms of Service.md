@@ -25,7 +25,6 @@ Show respect for people on the site, don't be rude. Make sure to help others lea
 * Do not share account information with other users. You will be held liable for all actions done on your account.
 * Do not promote your product or any product on QuestionCove without written permission from QuestionCove.
 * Do not discuss mature topics including but not limited to drugs, alcohol, or explicit sexual activity.
-* Do not post links to social media sites unaffiliated with QuestionCove or video chatting sites.
 
 ### When Asking a Question:
 
