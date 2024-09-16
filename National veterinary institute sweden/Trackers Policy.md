@@ -1278,7 +1278,6 @@ Gå direkt till :
         * [Hantering av personuppgifter](https://www.sva.se/om-oss/kontakta-oss/hantering-av-personuppgifter/)
     * [Arbeta hos oss](https://www.sva.se/om-oss/arbeta-hos-oss/)[](#)
         * [Lediga jobb](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/)[](#)
-            * [Lagersamordnare](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/lagersamordnare/)
             * [It-tekniker](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/it-tekniker/)
             * [Projektledare och redaktör för årsredovisning](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/projektledare-och-redaktor-for-arsredovisning/)
             * [Informationssäkerhetsspecialist](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/informationssakerhetsspecialist/)
