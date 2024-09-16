@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![How Weed Won The West](/wp-content/thumbnails/6290-100x70.jpg?x53432)
+* [![Secrets Of The Mind](/wp-content/thumbnails/2722-100x70.jpg?x53432)
     
-    How Weed Won The West
+    Secrets Of The Mind
     
-    In the follow-up to his ground-breaking documentary 'American Drug War,' filmmaker Kevin Booth traces the fight against Federal drug regulation in the State of California. A public majority has spoken](https://documentaryheaven.com/how-weed-won-the-west/ "How Weed Won The West")
-* [![The Breakthrough In Renewable Energy](/wp-content/thumbnails/12562-100x70.jpg?x53432)
+    They're not common, but there are people in this world who have profoundly different experiences of reality than you and I have. People who are technically blind but who can see anyway, who can feel p](https://documentaryheaven.com/secrets-of-the-mind/ "Secrets Of The Mind")
+* [![Dark Future of the Sun](/wp-content/thumbnails/5844-100x70.jpg?x53432)
     
-    The Breakthrough In Renewable Energy
+    Dark Future of the Sun
     
-    In December of 2015 many of the world leaders had finally come to an agreement to stop climate change, it was an occasion to be celebrated because the deals lengthy negotiations had finally resulted i](https://documentaryheaven.com/breakthrough-in-renewable-energy/ "The Breakthrough In Renewable Energy")
-* [![DOOM Resurrected: To Hell & Back](/wp-content/thumbnails/12787-100x70.jpg?x53432)
+    Our Sun has served Earth well for almost five billion years. It has bathed us with heat and energy and sustained life on our planet. But like people, our home star is mortal.In five billion years, i](https://documentaryheaven.com/dark-future-of-the-sun/ "Dark Future of the Sun")
+* [![Living on Bitcoin for a Week](/wp-content/thumbnails/13482-100x70.jpg?x53432)
     
-    DOOM Resurrected: To Hell & Back
+    Living on Bitcoin for a Week
     
-    DOOM, to many it's timeless and to imagine a world without DOOM is to imagine a world without first person shooters. It is one of the most beloved series in the history of video games and the studio t](https://documentaryheaven.com/doom-resurrected-hell-back/ "DOOM Resurrected: To Hell & Back")
-* [![The Big Freeze](/wp-content/thumbnails/250-100x70.png?x53432)
+    From the producer of the documentary Super Size Me, Morgan Spurlock now sets out to take on the strange new world of bitcoin and attempt to survive on nothing but the digital currency for a week.W](https://documentaryheaven.com/living-on-bitcoin-for-week/ "Living on Bitcoin for a Week")
+* [![Digging for the Truth: Machu Picchu: Lost City of the Inca](/wp-content/thumbnails/2355-100x70.jpg?x53432)
     
-    The Big Freeze
+    Digging for the Truth: Machu Picchu: Lost City of the Inca
     
-    Imagine our world in the not-too-distant future? In parts of the northern hemisphere, the temperature plummets to -90 F. At 130 below, public transportation fails. Those caught outside freeze to death](https://documentaryheaven.com/the-big-freeze/ "The Big Freeze")
-* [![Dark Days](/wp-content/thumbnails/1115-100x70.jpg?x53432)
+    In 1911, Hiram Bingham, famed American explorer, stumbled across a remote Inca city atop a high peak in the Andes. The site was called Machu Picchu – perhaps the most famous ruin in the world. What wa](https://documentaryheaven.com/digging-for-the-truth-machu-picchu-lost-city-of-the-inca/ "Digging for the Truth: Machu Picchu: Lost City of the Inca")
+* [![WikiLeaks: The Secret Life of a Superpower](/wp-content/thumbnails/7763-100x70.jpg?x53432)
     
-    Dark Days
+    WikiLeaks: The Secret Life of a Superpower
     
-    Dark Days is a documentary made by Marc Singer, a British filmmaker. The film follows a group of people living in an abandoned section of the New York City underground railway system, more precisely t](https://documentaryheaven.com/dark-days/ "Dark Days")
+    It was the biggest information leak in US diplomatic history – over 250,000 US diplomatic messages or “cables” between the US State Department and US embassies all over the world – turned into a globa](https://documentaryheaven.com/wikileaks-secret-life-superpower/ "WikiLeaks: The Secret Life of a Superpower")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
