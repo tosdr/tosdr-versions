@@ -1,5 +1,3 @@
-![](https://ct.pinterest.com/v3/?tid=2614420348827&noscript=1)
-
 * [My account](https://www.bdgame.uk/my-account/)
 
 [0 Items](https://www.bdgame.uk/basket/)
