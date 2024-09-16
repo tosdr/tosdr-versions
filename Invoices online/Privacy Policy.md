@@ -118,59 +118,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Enjoying Invoices Online
-> ------------------------
+> Saving time, saving money
+> -------------------------
 > 
-> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
-> 
-> I have upgraded to the Gold account in order to support you guys!
+> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
 
-Shaun Gartshore
+Cornel Erasmus - TELA Loss Adjusters & Assessors
 
-![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=166e3c5733758574840f91d663e216e452370725ee322c0ef50a4b670bf3d9f1&c=45229332)  
-OXYAIDER (PTY) LTD
+![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=5f98dbc696c0e2ff15bcf754bb1629106bd0899550a320b04e4ebe7328fd91a5&c=104996187)  
+IYD
 
-![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=166e3c5733758574840f91d663e216e452370725ee322c0ef50a4b670bf3d9f1&c=13703246)  
+![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=5f98dbc696c0e2ff15bcf754bb1629106bd0899550a320b04e4ebe7328fd91a5&c=151826682)  
+Salt & Pepper Guest Accommodation (Pty) Ltd.
+
+![valued client Meyer Towing & Recovery ](https://www.invoicesonline.co.za/scripts/image.php?bid=7983&file=logo_300_100&type=&fe=5f98dbc696c0e2ff15bcf754bb1629106bd0899550a320b04e4ebe7328fd91a5&c=49171586)  
+Meyer Towing & Recovery
+
+![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=5f98dbc696c0e2ff15bcf754bb1629106bd0899550a320b04e4ebe7328fd91a5&c=189148948)  
 Website Café (PTY) LTD
 
-![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=166e3c5733758574840f91d663e216e452370725ee322c0ef50a4b670bf3d9f1&c=137581660)  
+![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=5f98dbc696c0e2ff15bcf754bb1629106bd0899550a320b04e4ebe7328fd91a5&c=188997982)  
+Fox Alarms & Security
+
+![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=5f98dbc696c0e2ff15bcf754bb1629106bd0899550a320b04e4ebe7328fd91a5&c=200445772)  
+LEO DEVELOPMENT GROUP
+
+![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=5f98dbc696c0e2ff15bcf754bb1629106bd0899550a320b04e4ebe7328fd91a5&c=95560965)  
+KTEN PARTS
+
+![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=5f98dbc696c0e2ff15bcf754bb1629106bd0899550a320b04e4ebe7328fd91a5&c=37318865)  
 FRAMED BY ANTON (Pty) Ltd.
 
-![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=166e3c5733758574840f91d663e216e452370725ee322c0ef50a4b670bf3d9f1&c=161938044)  
-Tagline Brands
+![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=5f98dbc696c0e2ff15bcf754bb1629106bd0899550a320b04e4ebe7328fd91a5&c=177415171)  
+Oukraal Merino's
 
-![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=166e3c5733758574840f91d663e216e452370725ee322c0ef50a4b670bf3d9f1&c=92201313)  
-Goju-Ryu Pretoria East
+![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=5f98dbc696c0e2ff15bcf754bb1629106bd0899550a320b04e4ebe7328fd91a5&c=79759774)  
+FJW Security Cc
 
-![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=166e3c5733758574840f91d663e216e452370725ee322c0ef50a4b670bf3d9f1&c=84962768)  
-webb it services
+![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=5f98dbc696c0e2ff15bcf754bb1629106bd0899550a320b04e4ebe7328fd91a5&c=75967458)  
+Highlands Auto Engineering
 
-![valued client CGHK Enterprises (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8288&file=logo_300_100&type=&fe=166e3c5733758574840f91d663e216e452370725ee322c0ef50a4b670bf3d9f1&c=10856936)  
-CGHK Enterprises (PTY) LTD
+![valued client Stories4Kids (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=5f98dbc696c0e2ff15bcf754bb1629106bd0899550a320b04e4ebe7328fd91a5&c=180208905)  
+Stories4Kids (Pty) Ltd t/a Storietyd
 
-![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=166e3c5733758574840f91d663e216e452370725ee322c0ef50a4b670bf3d9f1&c=4482322)  
-Depot Diesel (Pty) Ltd
+![valued client NILBET (PTY) LTD - Once Off's](https://www.invoicesonline.co.za/scripts/image.php?bid=7439&file=logo_300_100&type=&fe=5f98dbc696c0e2ff15bcf754bb1629106bd0899550a320b04e4ebe7328fd91a5&c=214673450)  
+NILBET (PTY) LTD - Once Off's
 
-![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=166e3c5733758574840f91d663e216e452370725ee322c0ef50a4b670bf3d9f1&c=7138567)  
-SLOANE STAR MEAT MARKET
+![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=5f98dbc696c0e2ff15bcf754bb1629106bd0899550a320b04e4ebe7328fd91a5&c=142728996)  
+Druce Digital
 
-![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=166e3c5733758574840f91d663e216e452370725ee322c0ef50a4b670bf3d9f1&c=172115318)  
-M's Frozen Delights
-
-![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=166e3c5733758574840f91d663e216e452370725ee322c0ef50a4b670bf3d9f1&c=88980430)  
-SR Travel Services
-
-![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=166e3c5733758574840f91d663e216e452370725ee322c0ef50a4b670bf3d9f1&c=72524173)  
-Sarabi
-
-![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=166e3c5733758574840f91d663e216e452370725ee322c0ef50a4b670bf3d9f1&c=21344547)  
-PROGRAPHIX PTY LTD
-
-![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=166e3c5733758574840f91d663e216e452370725ee322c0ef50a4b670bf3d9f1&c=42935704)  
-NIMAWELL
-
-![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=166e3c5733758574840f91d663e216e452370725ee322c0ef50a4b670bf3d9f1&c=110956062)  
-Tiny Cuddles Photography
+![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=5f98dbc696c0e2ff15bcf754bb1629106bd0899550a320b04e4ebe7328fd91a5&c=50585076)  
+Imhoff Equestrian Centre
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
