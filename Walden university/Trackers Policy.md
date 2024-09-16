@@ -878,7 +878,7 @@ Walden University, LLC (“Walden”, “we”, or “us”), as well as third p
 
 Should you have other questions or concerns about this Cookie Policy, contact us at: [\[email protected\]](https://www.waldenu.edu/cdn-cgi/l/email-protection).
 
-![""](/sites/g/files/krcnkv446/files/styles/atge_default_md/public/2024-08/climbing-books-feathered.png?itok=Kb0Wuejt)
+![""](/sites/g/files/krcnkv446/files/styles/atge_default_md/public/2024-02/programs-graphic-for-redesign.png?itok=R8SlOXwx)
 
 Whatever your question is, we’ve got you covered.
 -------------------------------------------------
@@ -889,6 +889,7 @@ Walden’s Enrollment Specialists are trained to help you research, plan, and ge
 * Explore scholarships and financial aid.
 * Identify prior credits that may transfer.
 * Explain the application process
+* And more!
 
 Please use our [International Form if you live outside of the U.S.](https://www.waldenu.edu/international-students#rfi-form)
 
