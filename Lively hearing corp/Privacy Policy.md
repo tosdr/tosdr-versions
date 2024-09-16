@@ -187,21 +187,6 @@ Next
 
 [Shop now](https://www.listenlively.com/product/enhanceselect500)
 
-Get personalized care with our Premium Package
-----------------------------------------------
-
-### Programmed for you
-
-Hearing aids custom-programmed to your unique hearing needs based on your online test results or audiogram.
-
-### Care from your couch
-
-Video chat with a licensed hearing specialist about your hearing and hearing aids, as often as needed.
-
-### Adjustments made by experts
-
-If you're having an issue, our Audiology Team will tweak your hearing aids via the app, from anywhere.
-
 The reviews are in
 ------------------
 
