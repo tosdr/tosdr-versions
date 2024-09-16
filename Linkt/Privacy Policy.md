@@ -114,7 +114,7 @@ Legal
 
 [Legal](https://www.linkt.com.au/legal/brisbane.html)
 
-* [Policies and agreements See 14 articles](#childnavitem-0)
+* [Policies and agreements See 15 articles](#childnavitem-0)
     
     * [Transurban Statement of Notifiable Matters](https://www.linkt.com.au/legal/policies/transurban-statement-of-notifiable-matters/brisbane.html)
     * [Linkt Europcar Offer Privacy Collection Statement](https://www.linkt.com.au/legal/policies/europcar-offer-privacy-statement/brisbane.html)
@@ -130,6 +130,7 @@ Legal
     * [Linkt Booking.com Privacy Collection Statement](https://www.linkt.com.au/legal/policies/bookingcom-offer-privacy-statement/brisbane.html)
     * [mycar tyre & auto Offer Privacy Collection Statement](https://www.linkt.com.au/legal/policies/mycar-offer-privacy-policy/brisbane.html)
     * [Global Escapes Offer Privacy Collection Statement](https://www.linkt.com.au/legal/policies/global-escapes-privacy-policy/brisbane.html)
+    * [Supercheap Auto Offer Privacy Collection Statement](https://www.linkt.com.au/legal/policies/supercheapauto-offer-privacy-policy/brisbane.html)
     
 * [Customer service agreements See 17 articles](#childnavitem-1)
     
@@ -152,7 +153,7 @@ Legal
     * [Charge up your savings Terms and Conditions](https://www.linkt.com.au/legal/promotions/charge-up-your-savings/brisbane.html)
     * [Fuel Up Your Savings Terms and Conditions](https://www.linkt.com.au/legal/promotions/fuel-up-your-savings/brisbane.html)
     
-* [Rewards See 9 articles](#childnavitem-4)
+* [Rewards See 10 articles](#childnavitem-4)
     
     * [Booking.com Offer Terms and Conditions](https://www.linkt.com.au/legal/rewards/bookingcom/brisbane.html)
     * [Europcar Discount Terms and Conditions](https://www.linkt.com.au/legal/rewards/europcar/brisbane.html)
@@ -163,6 +164,7 @@ Legal
     * [Fuel Up Your Savings Terms and Conditions](https://www.linkt.com.au/legal/rewards/fuel-up-your-savings/brisbane.html)
     * [Charge up your savings Terms and Conditions](https://www.linkt.com.au/legal/rewards/charge-up-your-savings/brisbane.html)
     * [Global Escapes Terms and Conditions](https://www.linkt.com.au/legal/rewards/global-escapes/brisbane.html)
+    * [Supercheap Auto Terms and Conditions](https://www.linkt.com.au/legal/rewards/supercheapauto/brisbane.html)
     
 
 [Legal](https://www.linkt.com.au/legal/brisbane.html)
@@ -172,13 +174,13 @@ Linkt Europcar Offer Privacy Collection Statement
 
 _Last updated: 7 September 2023_
 
-Your personal information will be collected by the entity within Transurban (as described in our Privacy Policy referred to below) that trades as Linkt in the State that you are located in (**_Linkt_**, **_we_**, **_us_** or **_our_**). The relevant Transurban entity is Queensland Motorways Management Pty Ltd (ABN 86 010 630 921). We collect and hold personal information about you in order to provide you with Linkt Rewards offers from CLA Trading Pty Limited trading as Europcar (**_Europcar_**) and for the purposes otherwise set out in our Privacy Policy at [**www.linkt.com.au/legal/policies/transurban-privacy-policy**](https://www.linkt.com.au/legal/policies/transurban-privacy-policy/melbourne.html).
+Your personal information will be collected by the entity within Transurban (as described in our Privacy Policy referred to below) that trades as Linkt in the State that you are located in (**_Linkt_**, **_we_**, **_us_** or **_our_**). The relevant Transurban entity is Queensland Motorways Management Pty Ltd (ABN 86 010 630 921). We collect and hold personal information about you in order to provide you with Linkt Rewards offers from CLA Trading Pty Limited trading as Europcar (**_Europcar_**) and for the purposes otherwise set out in our Privacy Policy at [www.linkt.com.au/legal/policies/transurban-privacy-policy](https://www.linkt.com.au/legal/policies/transurban-privacy-policy).
 
-We may also use your personal information for the purpose of direct marketing and personalising messages to you (receiving exclusive offers, updates about Linkt Customer Rewards Program and promotions e.g. entry to competitions from Linkt and offers we think might be of interest to you). You can opt out of receiving direct marketing from us at any time by clicking on the unsubscribe link in a communication or [**contacting us**](https://www.linkt.com.au/contact-us/) or updating your account preferences through the Linkt website.
+We may also use your personal information for the purpose of direct marketing and personalising messages to you (receiving exclusive offers, updates about Linkt Customer Rewards Program and promotions e.g. entry to competitions from Linkt and offers we think might be of interest to you). You can opt out of receiving direct marketing from us at any time by clicking on the unsubscribe link in a communication or [contacting us](https://www.linkt.com.au/contact-us/)or updating your account preferences through the Linkt website.
 
 When you redeem a rental car offer through your use of the link provided through the Linkt app or LinktGO app, we will enable you access to a dedicated Europcar webpage where you will receive discounted pricing on rental car bookings from Europcar. We will not disclose your personal information to Europcar. Europcar will collect information about you directly from you to enable Europcar to offer you (as a Linkt customer) the relevant rental car offer.
 
-When you click through to the Europcar website, Europcar’s privacy practices will apply. We will collect additional information about you from Europcar in connection with your redemption of the discount offer, which may include the date and time of your booking; date, time and location of your redemption; details of your booking including the amount paid and discount provided to you for the purpose of improving and enhancing this offer, expanding discount offers from Europcar, development of additional partnerships and communicating the value of this and other discount offers to you . If we cannot collect this information from Europcar, we may not be able to provide you with future discount offers. Europcar will otherwise handle your personal information in accordance with its own privacy policy at [**www.europcar.com.au/privacy-policy-new**](http://www.europcar.com.au/privacy-policy-new). We will collect, hold, use and disclose your personal information in accordance with our Privacy Policy at [**www.linkt.com.au/legal/policies/transurban-privacy-policy**](https://www.linkt.com.au/legal/policies/transurban-privacy-policy/melbourne.html). Our Privacy Policy also explains:
+When you click through to the Europcar website, Europcar’s privacy practices will apply. We will collect additional information about you from Europcar in connection with your redemption of the discount offer, which may include the date and time of your booking; date, time and location of your redemption; details of your booking including the amount paid and discount provided to you for the purpose of improving and enhancing this offer, expanding discount offers from Europcar, development of additional partnerships and communicating the value of this and other discount offers to you . If we cannot collect this information from Europcar, we may not be able to provide you with future discount offers. Europcar will otherwise handle your personal information in accordance with its own privacy policy at [www.europcar.com.au/privacy-policy-new](http://www.europcar.com.au/privacy-policy-new). We will collect, hold, use and disclose your personal information in accordance with our Privacy Policy at [www.linkt.com.au/legal/policies/transurban-privacy-policy](https://www.linkt.com.au/legal/policies/transurban-privacy-policy). Our Privacy Policy also explains:
 
 1. how we store and use, and how you may access and correct your personal information;
 2. how you can lodge a complaint regarding the handling of your personal information; and
