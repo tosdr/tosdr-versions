@@ -191,11 +191,6 @@ Back to subjects Politics & Society Topics
 
 [View all Politics & Society Courses](https://www.futurelearn.com/subjects/politics-and-society-courses)
 
-Featured
-
-*  [![Why Do People Migrate? Facts](https://ugc.futurelearn.com/uploads/images/4c/1b/regular_4c1be4bd-a779-469c-9a11-7539334f8267.jpg)Short Course Why Do People Migrate? Facts](https://www.futurelearn.com/courses/migration-facts?utm_campaign=Courses+feed&utm_medium=courses-feed&utm_source=courses-feed)
-*  [![Cultural Diplomacy](https://ugc.futurelearn.com/uploads/images/7a/70/regular_7a7029db-ed6d-421d-b5af-43489aca87fa.jpg)Short Course Cultural Diplomacy](https://www.futurelearn.com/courses/cultural-diplomacy?utm_campaign=Courses+feed&utm_medium=courses-feed&utm_source=courses-feed)
-
 Back to subjects Psychology & Mental Health Topics
 
 * [Anxiety & Depression](https://www.futurelearn.com/subjects/psychology-and-mental-health-courses/anxiety-and-depression)
