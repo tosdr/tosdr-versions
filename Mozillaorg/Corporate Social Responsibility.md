@@ -263,11 +263,11 @@ Search this site  Search
 
 ### Recent Posts
 
+* [Communities Program Manager Konstantina Papadea on building strong communities through genuine engagement](https://blog.mozilla.org/careers/communities-program-manager-konstantina-papadea-on-building-strong-communities-through-genuine-engagement/)
 * [Mozilla global interns share their experiences and perspectives to working for a mission-driven company](https://blog.mozilla.org/careers/mozilla-global-interns-share-their-experiences-and-perspectives-to-working-for-a-mission-driven-company/)
 * [Technical Program Manager Jaspreet Monga on keeping teams on task and moving forward](https://blog.mozilla.org/careers/technical-program-manager-jaspreet-monga-on-keeping-teams-on-task-and-moving-forward/) 
 * [Meet Mozilla’s Environmental Champions: Employees building sustainability during Earth Day and beyond](https://blog.mozilla.org/careers/meet-mozillas-environmental-champions-employees-building-sustainability-during-earth-day-and-beyond/)
 * [Diversity Program Manager Evan Washington on employee resource groups at Mozilla](https://blog.mozilla.org/careers/diversity-program-manager-evan-washington-on-employee-resource-groups-at-mozilla/)
-* [Celebrating Asian and Pacific Islander Heritage Month with Moz API](https://blog.mozilla.org/careers/celebrating-api-heritage-month/)
 
 [Mozilla](https://www.mozilla.org/?utm_source=blog.mozilla.org&utm_campaign=footer&utm_medium=referral)
 
