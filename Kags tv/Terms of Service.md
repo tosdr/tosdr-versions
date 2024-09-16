@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.kagstv.com/assets/KENS/images/dfd221e9-346c-45fe-b049-de11c376de4f/20240916T023752/dfd221e9-346c-45fe-b049-de11c376de4f_16x9.jpg) ![](https://media.kagstv.com/assets/KENS/images/dfd221e9-346c-45fe-b049-de11c376de4f/20240916T023752/dfd221e9-346c-45fe-b049-de11c376de4f_360x203.jpg)](https://www.kagstv.com/article/news/local/san-antonio-teen-dog-homeless-job-family-shelter-bee-pawsitive-husky-rescue-community/273-bd362dc5-e325-4f1e-893c-9a2366eff9f4)
+        
+        #### ['He's my son' | Homeless teen chooses to be with his dog on the streets, after shelter says he can't bring dog along](https://www.kagstv.com/article/news/local/san-antonio-teen-dog-homeless-job-family-shelter-bee-pawsitive-husky-rescue-community/273-bd362dc5-e325-4f1e-893c-9a2366eff9f4)
+        
     *  [![](https://media.kagstv.com/assets/KAGS/images/d4418ebe-b34d-490c-b9b2-29d231419b62/d4418ebe-b34d-490c-b9b2-29d231419b62_16x9.jpg) ![](https://media.kagstv.com/assets/KAGS/images/d4418ebe-b34d-490c-b9b2-29d231419b62/d4418ebe-b34d-490c-b9b2-29d231419b62_360x203.jpg)](https://www.kagstv.com/article/news/local/csfd-receives-over-3-million-in-grants-to-staff-fire-station-no-7/499-acce8439-718e-4b93-b85c-166d8dd7b070)
         
         #### [College Station Fire Department receives $3.8 million grant to staff new fire station](https://www.kagstv.com/article/news/local/csfd-receives-over-3-million-in-grants-to-staff-fire-station-no-7/499-acce8439-718e-4b93-b85c-166d8dd7b070)
-        
-    *  [![](https://media.kagstv.com/assets/WNEP/images/e71ad2e4-4637-4d17-bc2a-e34512415aac/e71ad2e4-4637-4d17-bc2a-e34512415aac_16x9.jpg) ![](https://media.kagstv.com/assets/WNEP/images/e71ad2e4-4637-4d17-bc2a-e34512415aac/e71ad2e4-4637-4d17-bc2a-e34512415aac_360x203.jpg)](https://www.kagstv.com/article/news/crime/sept-12-2024-college-station-stabbing/499-6ce4a866-fb1c-46c8-b657-93ec65d6b716)
-        
-        #### [Bryan man in custody after stabbing investigation in College Station](https://www.kagstv.com/article/news/crime/sept-12-2024-college-station-stabbing/499-6ce4a866-fb1c-46c8-b657-93ec65d6b716)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -50,13 +50,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.kagstv.com/assets/CCT/images/e541080c-0fb0-4cd9-9e04-967d0df575fb/20240916T133310/e541080c-0fb0-4cd9-9e04-967d0df575fb_16x9.jpg) ![](https://media.kagstv.com/assets/CCT/images/e541080c-0fb0-4cd9-9e04-967d0df575fb/20240916T133310/e541080c-0fb0-4cd9-9e04-967d0df575fb_360x203.jpg)](https://www.kagstv.com/article/news/nation-world/tropical-storm-conditions-expected-parts-of-the-carolinas/507-e0c724a0-fbfd-437c-9cbf-f1ed0939a051)
+        
+        #### [Tropical storm conditions expected for parts of the Carolinas as disturbance approaches coast](https://www.kagstv.com/article/news/nation-world/tropical-storm-conditions-expected-parts-of-the-carolinas/507-e0c724a0-fbfd-437c-9cbf-f1ed0939a051)
+        
     *  [![](https://media.kagstv.com/assets/CCT/images/b19ce186-e13f-4d38-8d95-fcacbd385ae3/20240818T162111/b19ce186-e13f-4d38-8d95-fcacbd385ae3_16x9.jpg) ![](https://media.kagstv.com/assets/CCT/images/b19ce186-e13f-4d38-8d95-fcacbd385ae3/20240818T162111/b19ce186-e13f-4d38-8d95-fcacbd385ae3_360x203.jpg)](https://www.kagstv.com/article/news/nation-world/full-moon-supermoon-lunar-eclipse-harvest-moon/507-27188f92-97c9-4f20-beea-2cd4b0c14fba)
         
         #### [The next full moon will also feature a lunar eclipse. Here's when to look up](https://www.kagstv.com/article/news/nation-world/full-moon-supermoon-lunar-eclipse-harvest-moon/507-27188f92-97c9-4f20-beea-2cd4b0c14fba)
-        
-    *  [![](https://media.kagstv.com/assets/KVUE/images/eb7c410b-58cb-4246-855c-15e66eff03c7/20240913T034116/eb7c410b-58cb-4246-855c-15e66eff03c7_16x9.jpg) ![](https://media.kagstv.com/assets/KVUE/images/eb7c410b-58cb-4246-855c-15e66eff03c7/20240913T034116/eb7c410b-58cb-4246-855c-15e66eff03c7_360x203.jpg)](https://www.kagstv.com/article/news/history/snakes-during-hurricane-carla-injured-more-texas-residents-than-storm/269-2d40695e-8e41-4525-8e43-8cb6001fa968)
-        
-        #### [The massive hurricane that washed thousands of venomous snakes into Texas coastal towns](https://www.kagstv.com/article/news/history/snakes-during-hurricane-carla-injured-more-texas-residents-than-storm/269-2d40695e-8e41-4525-8e43-8cb6001fa968)
         
     
 * [Sports](https://www.kagstv.com/sports)
@@ -86,9 +86,9 @@ Navigation
 
 Bryan, TX »
 
-72°
+85°
 
-![Fair](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
