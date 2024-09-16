@@ -981,7 +981,6 @@ Subscribe
 * [Return Policy](https://ritual.com/return-policy)
 * [Contact Us](https://help.ritual.com/contact/contact-HJBmfYlaL)
 * [Careers](https://start.ritual.com/careers)
-* [Press](https://ritual.com/press)
 
 ### More
 
