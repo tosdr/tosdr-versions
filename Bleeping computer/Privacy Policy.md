@@ -36,18 +36,18 @@
         
         FBI: Reported cryptocurrency losses reached $5.6 billion in 2023](https://www.bleepingcomputer.com/news/security/fbi-reported-cryptocurrency-losses-reached-56-billion-in-2023/)
     
-    * [![New Vo1d malware infects 1.3 million Android streaming boxes](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Windows vulnerability abused braille “spaces” in zero-day attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        New Vo1d malware infects 1.3 million Android streaming boxes](https://www.bleepingcomputer.com/news/security/new-vo1d-malware-infects-13-million-android-streaming-boxes/)
-    * [![FBI: Reported cryptocurrency losses reached $5.6 billion in 2023](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Windows vulnerability abused braille “spaces” in zero-day attacks](https://www.bleepingcomputer.com/news/security/windows-vulnerability-abused-braille-spaces-in-zero-day-attacks/)
+    * [![Get unbeatable value with a Sam’s Club membership for just $15](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        FBI: Reported cryptocurrency losses reached $5.6 billion in 2023](https://www.bleepingcomputer.com/news/security/fbi-reported-cryptocurrency-losses-reached-56-billion-in-2023/)
-    * [![Fortinet confirms data breach after hacker claims to steal 440GB of files](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Get unbeatable value with a Sam’s Club membership for just $15](https://www.bleepingcomputer.com/offer/deals/get-unbeatable-value-with-a-sams-club-membership-for-just-15/)
+    * [![FBI tells public to ignore false claims of hacked voter data](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Fortinet confirms data breach after hacker claims to steal 440GB of files](https://www.bleepingcomputer.com/news/security/fortinet-confirms-data-breach-after-hacker-claims-to-steal-440gb-of-files/)
-    * [![UK arrests teen linked to Transport for London cyber attack](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        FBI tells public to ignore false claims of hacked voter data](https://www.bleepingcomputer.com/news/security/fbi-tells-public-to-ignore-false-claims-of-hacked-voter-data/)
+    * [![Malware locks browser in kiosk mode to steal Google credentials](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        UK arrests teen linked to Transport for London cyber attack](https://www.bleepingcomputer.com/news/security/uk-arrests-teen-linked-to-transport-for-london-cyber-attack/)
+        Malware locks browser in kiosk mode to steal Google credentials](https://www.bleepingcomputer.com/news/security/malware-locks-browser-in-kiosk-mode-to-steal-google-credentials/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -439,32 +439,29 @@ Tel: +1-646-980-4190
 
 Popular Stories
 
-* [![Fortinet](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![Kiosk](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Fortinet confirms data breach after hacker claims to steal 440GB of files](https://www.bleepingcomputer.com/news/security/fortinet-confirms-data-breach-after-hacker-claims-to-steal-440gb-of-files/)
-* [![Software Developer](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    Malware locks browser in kiosk mode to steal Google credentials](https://www.bleepingcomputer.com/news/security/malware-locks-browser-in-kiosk-mode-to-steal-google-credentials/)
+* [![Windows red](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Fake password manager coding test used to hack Python developers](https://www.bleepingcomputer.com/news/security/fake-password-manager-coding-test-used-to-hack-python-developers/)
-* [![Adobe](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    Windows vulnerability abused braille “spaces” in zero-day attacks](https://www.bleepingcomputer.com/news/security/windows-vulnerability-abused-braille-spaces-in-zero-day-attacks/)
+* [![CISA](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Adobe fixes Acrobat Reader zero-day with public PoC exploit](https://www.bleepingcomputer.com/news/security/adobe-fixes-acrobat-reader-zero-day-with-public-poc-exploit/)
-* [![Android TV](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    New Vo1d malware infects 1.3 million Android streaming boxes](https://www.bleepingcomputer.com/news/security/new-vo1d-malware-infects-13-million-android-streaming-boxes/)
+    FBI tells public to ignore false claims of hacked voter data](https://www.bleepingcomputer.com/news/security/fbi-tells-public-to-ignore-false-claims-of-hacked-voter-data/)
 
 Latest forum topics
 
-* [SYNACK HACKERS-THE ELITE IN CYBERSECURITY AND CRYPTO RECOVERY](https://www.bleepingcomputer.com/forums/t/801139/synack-hackers-the-elite-in-cybersecurity-and-crypto-recovery/)
+* [Browser Search Bar Went Dark](https://www.bleepingcomputer.com/forums/t/801225/browser-search-bar-went-dark/)
     
-    [JEFFRHERON](https://www.bleepingcomputer.com/forums/u/1322917/jeffrheron/) in [Windows Crashes and Blue Screen of Death (BSOD) Help and Support](https://www.bleepingcomputer.com/forums/f/233/windows-crashes-and-blue-screen-of-death-bsod-help-and-support/)
+    [R2Beep2](https://www.bleepingcomputer.com/forums/u/1105437/r2beep2/) in [Web Browsing/Email and Other Internet Applications](https://www.bleepingcomputer.com/forums/f/14/web-browsingemail-and-other-internet-applications/)
     
-* [Windows 10 - cannot perform clean install](https://www.bleepingcomputer.com/forums/t/801138/windows-10-cannot-perform-clean-install/)
+* [I really need help on a self build I have had for years](https://www.bleepingcomputer.com/forums/t/801222/i-really-need-help-on-a-self-build-i-have-had-for-years/)
     
-    [super saint](https://www.bleepingcomputer.com/forums/u/171146/super-saint/) in [Windows 10 Support](https://www.bleepingcomputer.com/forums/f/229/windows-10-support/)
+    [Keltictrigger](https://www.bleepingcomputer.com/forums/u/1323062/keltictrigger/) in [Internal Hardware](https://www.bleepingcomputer.com/forums/f/7/internal-hardware/)
     
-* [hello world](https://www.bleepingcomputer.com/forums/t/801136/hello-world/)
+* [New Version of SpinRite Released](https://www.bleepingcomputer.com/forums/t/801216/new-version-of-spinrite-released/)
     
-    [DK-Darklord](https://www.bleepingcomputer.com/forums/u/1322910/dk-darklord/) in [Introductions](https://www.bleepingcomputer.com/forums/f/64/introductions/)
+    [garioch7](https://www.bleepingcomputer.com/forums/u/932607/garioch7/) in [All Other Applications](https://www.bleepingcomputer.com/forums/f/57/all-other-applications/)
     
 
 Latest virus removal guides
@@ -519,7 +516,7 @@ Latest Downloads
     
     Version: 1.33.075
     
-    **55,347 _Downloads_**
+    **55,387 _Downloads_**
     
 * ![PuTTY Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -527,7 +524,7 @@ Latest Downloads
     
     Version: 0.81
     
-    **43,255 _Downloads_**
+    **43,304 _Downloads_**
     
 * ![BitDefender Uninstall Tool Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -535,7 +532,7 @@ Latest Downloads
     
     Version: NA
     
-    **104,223 _Downloads_**
+    **104,249 _Downloads_**
     
 
 ##### Follow us:
