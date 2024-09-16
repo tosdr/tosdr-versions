@@ -63,7 +63,10 @@ Home
 * [Place An Ad](https://www.thesheridanpress.com/place_an_ad/)
 * Categories
 
-[Public Notices](https://www.wyopublicnotices.com/)
+Public Notices
+
+* [View Notices](https://thesheridanpress.column.us/search)
+* [Place a Notice](https://www.thesheridanpress.com/notices/)
 
 [Booking](https://www.thesheridanpress.com/booking/)
 
@@ -104,8 +107,8 @@ Home
 
 [![site-logo](https://bloximages.newyork1.vip.townnews.com/thesheridanpress.com/content/tncms/custom/image/95cd45de-f056-11ee-9067-1fb0199d8361.png?resize=200%2C34)](https://www.thesheridanpress.com/)
 
-[**Take Our Community Survey Today!**](https://thesheridanpress.secondstreetapp.com/The-Sheridan-Press-Community-Survey-2024/)
-------------------------------------------------------------------------------------------------------------------------------
+[👉 Take Our Community Survey Today!](https://thesheridanpress.secondstreetapp.com/The-Sheridan-Press-Community-Survey-2024/)
+-----------------------------------------------------------------------------------------------------------------------------
 
 [Contact Us!](https://www.thesheridanpress.com/site/forms/)
 
@@ -172,7 +175,9 @@ Toggle navigation
         * [Services](https://www.thesheridanpress.com/classifieds/service)
         * [Community](https://www.thesheridanpress.com/classifieds/community)
         * [Personals](https://www.thesheridanpress.com/classifieds/personals)
-* [Public Notices](https://www.wyopublicnotices.com/)
+* Public Notices
+    * [View Notices](https://thesheridanpress.column.us/search)
+    * [Place a Notice](https://www.thesheridanpress.com/notices/)
 * [Booking](https://www.thesheridanpress.com/booking/)
 
 Privacy Policy
