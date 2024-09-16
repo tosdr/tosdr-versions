@@ -419,9 +419,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ There is a single light of science, and to brighten it anywhere is to brighten it everywhere”
+“ The miracle is this: The more we share, the more we have”
 
-[Isaac Asimov](http://en.wikipedia.org/wiki/Isaac_Asimov)
+[Leonard Nimoy](http://en.wikipedia.org/wiki/Leonard_Nimoy)
 
 [](https://www.adafruit.com/about)
 
