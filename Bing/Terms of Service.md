@@ -751,7 +751,7 @@ Business
 * [Microsoft 365](https://www.microsoft.com/en-us/microsoft-365/business)
 * [Microsoft Power Platform](https://www.microsoft.com/en-us/power-platform)
 * [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software)
-* [Copilot for Microsoft 365](https://www.microsoft.com/en-us/microsoft-365/business/copilot-for-microsoft-365)
+* [Microsoft 365 Copilot](https://www.microsoft.com/en-us/microsoft-365/copilot/copilot-for-work)
 * [Small Business](https://www.microsoft.com/en-us/store/b/business?icid=CNavBusinessStore)
 
 Developer & IT
