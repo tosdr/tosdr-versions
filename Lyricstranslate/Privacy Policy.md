@@ -109,67 +109,65 @@ Site activity
 
 [![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
 
-New song
+New request
 
-[Wonderful Pretty Cure! (OST) - わんだフル・わんデイ～Remix for Chihaya Yoshitake Ver.～](https://lyricstranslate.com/en/wonderful-pretty-cure-o-wandahuruwandeiremix-lyrics-1)
+[The Beatles - Can't Buy Me Love](https://lyricstranslate.com/en/request/cant-buy-me-love-0)
 
-Japanese
+English → Bulgarian
 
-[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
-
-New song
-
-[Luciano Pavarotti - Maria, Marì](https://lyricstranslate.com/en/luciano-pavarotti-maria-mari-lyrics)
-
-Neapolitan
-
-[![NightSky88](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1626941-1724948538.png)](https://lyricstranslate.com/en/translator/nightsky88 "NightSky88")
+[![Eddie Gund 1](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/eddie-gund-1 "Eddie Gund 1")
 
 New song
 
-[Torii Wolf - Shadows Crawl](https://lyricstranslate.com/en/torii-wolf-shadows-crawl-lyrics)
+[Liv Moon - Free Your Soul](https://lyricstranslate.com/en/liv-moon-free-your-soul-lyrics)
 
 English
 
-[![akastanci](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1553472-1725719595.png)](https://lyricstranslate.com/en/translator/akastanci "akastanci")
+[![Eddie Gund 1](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/eddie-gund-1 "Eddie Gund 1")
 
-New translation
+New request
 
-[London Grammar - You And I](https://lyricstranslate.com/en/london-grammar-you-and-i-turkish)
+[Liv Moon - Free Your Soul](https://lyricstranslate.com/en/request/free-your-soul)
 
-English → Turkish
-
-[![NightSky88](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1626941-1724948538.png)](https://lyricstranslate.com/en/translator/nightsky88 "NightSky88")
-
-New song
-
-[Torii Wolf - Colours](https://lyricstranslate.com/en/torii-wolf-colours-lyrics)
-
-English
-
-[![Enoo](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1145429-1427889571.jpg)](https://lyricstranslate.com/en/translator/enoo "Enoo")
-
-New translation
-
-[T-killah - Мира мало (Mira malo)](https://lyricstranslate.com/en/t-killah-mira-malo-french)
-
-Russian → French
-
-[![Anastasya Milutina](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1594339-1696153472.jpg)](https://lyricstranslate.com/en/translator/anastasya-milutina "Anastasya Milutina")
-
-New translation
-
-[Tzila Dagan - על הדרך עץ עומד (שיר על עץ) (Al Haderech Etz Omed \[Shir Al Etz\])](https://lyricstranslate.com/en/tzila-dagan-al-haderech-etz-omed-shi-ukrainian)
-
-Hebrew → Ukrainian
+English → English
 
 [![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
 
-New translation
+New song
 
-[Wonderful Pretty Cure! (OST) - わんだフル・わんデイ～Remix for Moeha Nochimoto Ver.～](https://lyricstranslate.com/en/wonderful-pretty-cur-wandahuruwandeiremix-english-0)
+[Kidz Bop Kids - Can’t Buy Me Love](https://lyricstranslate.com/en/kidz-bop-kids-cant-buy-me-love-lyrics)
 
-Japanese → English
+English
+
+[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
+
+New comment
+
+https://lyricstranslate.com/en/...  [more](https://lyricstranslate.com/en/comment/1165207#comment-1165207)
+
+[![tn1gm](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1539455-1653774677.png)](https://lyricstranslate.com/en/translator/tn1gm "tn1gm")
+
+New song
+
+[My Little Pony: Friendship Is Magic (OST) - Sagan om Kirinen \[A Kirin Tale\]](https://lyricstranslate.com/en/my-little-pony-friendshi-sagan-om-kirinen-kirin-lyrics)
+
+Swedish
+
+[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
+
+New song
+
+[Kidz Bop Kids - Blackbird](https://lyricstranslate.com/en/kidz-bop-kids-blackbird-lyrics)
+
+English
+
+[![ftetranslator](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/ftetranslator "ftetranslator")
+
+New request
+
+[Police Dog Carl (OST) - 走れ風のように (Hashire kaze no youni)](https://lyricstranslate.com/en/request/%E8%B5%B0%E3%82%8C%E9%A2%A8%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB)
+
+Japanese → Italian
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
