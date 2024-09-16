@@ -1,3 +1,5 @@
+[Login](https://command.thryv.com/)
+
 [![Logo for Thryv small business software](/media/thryv-main-logo-color.png)](https://www.thryv.com/)
 
 * * [Products](https://www.thryv.com/)
@@ -33,7 +35,6 @@
                 
             * [Signatures](https://www.thryv.com/features/electronic-signatures/)
             * [Marketplace](https://www.thryv.com/marketplace/)
-            * [Integrations](https://www.thryv.com/marketplace/#integrations)
         
         * [See all of Thryv's Solutions](https://www.thryv.com/features/)
             
@@ -62,15 +63,6 @@
             * [Cleaning Services](https://www.thryv.com/industries/cleaning-services-software/)
             * [Legal](https://www.thryv.com/industries/law-software/)
             * [Insurance Services](https://www.thryv.com/industries/insurance-services/)
-        * * ![Map showing three pinned locations.](/media/map-franchise.png)
-                
-                Franchise &  
-                Multi-Location
-                
-                Have multiple locations? Let’s chat about how Thryv can help you, today!
-                
-                [Learn More](https://www.thryv.com/features/franchises/)
-                
         
         * [See all Thryv's Industries](https://www.thryv.com/industries)
             
@@ -80,7 +72,6 @@
         * * RESOURCES
                 
             * [Free Tools](https://www.thryv.com/free-tools)
-            * [Reviews & Testimonials](https://www.thryv.com/reviews/)
             * [Help Center](https://learn.thryv.com/hc)
             * [Events](https://www.thryv.com/webinars-and-events/#events)
             * [Webinars](https://www.thryv.com/webinars-and-events/#webinars)
@@ -90,8 +81,29 @@
             * [Small Business Guides](https://www.thryv.com/guides-resources)
             * [Podcasts](https://www.thryv.com/podcast-resources/)
             * [How to Videos](https://www.thryv.com/webinars-and-events/#how-to-thryv)
+        * * ![](/media/map-franchise.png)
+                
+                Franchise &  
+                Multi-Location
+                
+                Have multiple locations? Let’s chat about how Thryv can help you, today!
+                
+                [Learn More](https://www.thryv.com/features/franchises/)
+                
         
         * [Thryv FAQs](https://www.thryv.com/faqs/)
+            
+        
+    * [Why Thryv](#)
+        
+        * * [WHY THRYV](https://www.thryv.com/why-thryv/)
+                
+            * [Unlimited Onboarding & Support](https://www.thryv.com/service-and-support/)
+            * [Competitor Comparison](https://www.thryv.com/compare/)
+            * [Reviews & Testimonials](https://www.thryv.com/reviews/)
+            * [Integrations](https://www.thryv.com/marketplace/#integrations)
+        
+        * [Talk to an Expert](#)
             
         
     
@@ -101,7 +113,7 @@
     
     Sales: [1 (888) 733-9482](tel:18887339482)
     
-    [LOGIN](https://command.thryv.com/) [GET A DEMO](https://www.thryv.com/schedule-demo/)
+    [GET A DEMO](https://www.thryv.com/schedule-demo/)
 
 [![Logo for Thryv small business software](/media/thryv-main-logo-color.png)](https://www.thryv.com/)
 
