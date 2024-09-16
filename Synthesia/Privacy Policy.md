@@ -305,13 +305,13 @@ If you need assistance with Synthesia or have a question about our products or s
 Ready to try our AI video platform?
 -----------------------------------
 
-Join over 1M+ users today and start making AI videos with 160+ avatars in 130+ languages.
+Join over 1M+ users today and start making AI videos with 230+ avatars in 140+ languages.
 
 [Get started](https://www.synthesia.io/pricing)[Book demo](https://www.synthesia.io/book-a-demo)
 
-![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/664dcf723e2c852cb78fdee4_pre-footer-poster.webp)![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/664dcf723e2c852cb78fdee4_pre-footer-poster.webp "Your browser does not support the <video> tag")
+![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/66e29871dd292f4642e087fd_Prefooter-poster.webp)![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/66e29871dd292f4642e087fd_Prefooter-poster.webp "Your browser does not support the <video> tag")
 
-![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/664dcc411a2d0ca4bc35929b_prefooter-UI.webp)
+![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/66e2aaafbb07871299aa26c1_Pre-footer-img-230.webp)
 
 ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/6616a999987b13e0a37360a4_pre-footer-dark.webp)
 
