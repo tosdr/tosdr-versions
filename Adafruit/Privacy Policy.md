@@ -419,9 +419,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ The only way to do great work is to love what you do. If you haven’t found it yet, keep looking. Don’t settle”
+“ There is a single light of science, and to brighten it anywhere is to brighten it everywhere”
 
-[Steve Jobs](http://www.youtube.com/watch?v=UF8uR6Z6KLc)
+[Isaac Asimov](http://en.wikipedia.org/wiki/Isaac_Asimov)
 
 [](https://www.adafruit.com/about)
 
