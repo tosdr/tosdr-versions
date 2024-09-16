@@ -128,39 +128,39 @@ Advertisement
     The Beginning and the End of the Universe
     
     Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
-* [![The Guantanamo Guidebook](/wp-content/thumbnails/4319-100x70.jpg?x53432)
+* [![These Streets Are Watching](/wp-content/thumbnails/1269-100x70.jpg?x53432)
     
-    The Guantanamo Guidebook
+    These Streets Are Watching
     
-    British Channel 4 engaged the Team Delta Cadre to recreate the Guantanamo Bay interrogation experience.At the production company’s request, along with Team Delta’s normal approach to interrogation...](https://documentaryheaven.com/the-guantanamo-guidebook/ "The Guantanamo Guidebook")
+    However, if nothing else, cop watch can and will and does inform citizens of their lefts as citizens. Informs citizens of what is proper police conduct and what is improper police conduct. Informs cit...](https://documentaryheaven.com/these-streets-are-watching/ "These Streets Are Watching")
 
 ###### Throwback Documentaries
 
-* [![Secrets Of The Mind](/wp-content/thumbnails/2722-100x70.jpg?x53432)
+* [![American Philosopher](/wp-content/thumbnails/5607-100x70.png?x53432)
     
-    Secrets Of The Mind
+    American Philosopher
     
-    They're not common, but there are people in this world who have profoundly different experiences of reality than you and I have. People who are technically blind but who can see anyway, who can feel p](https://documentaryheaven.com/secrets-of-the-mind/ "Secrets Of The Mind")
-* [![Dark Future of the Sun](/wp-content/thumbnails/5844-100x70.jpg?x53432)
+    Who dares think a nation? What is the status of philosophy in a nation founded by philosophers? What are the risks of practicing philosophy in America? Does America have a "native" philosophy? Eight s](https://documentaryheaven.com/american-philosopher/ "American Philosopher")
+* [![Muhammad Ali: Through the Eyes of the World](/wp-content/thumbnails/11992-100x70.jpg?x53432)
     
-    Dark Future of the Sun
+    Muhammad Ali: Through the Eyes of the World
     
-    Our Sun has served Earth well for almost five billion years. It has bathed us with heat and energy and sustained life on our planet. But like people, our home star is mortal.In five billion years, i](https://documentaryheaven.com/dark-future-of-the-sun/ "Dark Future of the Sun")
-* [![Living on Bitcoin for a Week](/wp-content/thumbnails/13482-100x70.jpg?x53432)
+    One of the greatest sporting figures of all time has sadly passed away at the age of 74 (June 3 2016), he had been suffering from a respiratory illness, a condition that was complicated by Parkinson's](https://documentaryheaven.com/muhammad-ali-through-eyes-world/ "Muhammad Ali: Through the Eyes of the World")
+* [![TikTok’s Dark Side](/wp-content/thumbnails/16588-100x70.jpg?x53432)
     
-    Living on Bitcoin for a Week
+    TikTok’s Dark Side
     
-    From the producer of the documentary Super Size Me, Morgan Spurlock now sets out to take on the strange new world of bitcoin and attempt to survive on nothing but the digital currency for a week.W](https://documentaryheaven.com/living-on-bitcoin-for-week/ "Living on Bitcoin for a Week")
-* [![Digging for the Truth: Machu Picchu: Lost City of the Inca](/wp-content/thumbnails/2355-100x70.jpg?x53432)
+    The Chinese social media platform known as TikTok has changed the way we interact with the internet. It has become the most popular app in the world, filled with fishing videos, cooking, skits, singi](https://documentaryheaven.com/tiktoks-dark-side/ "TikTok’s Dark Side")
+* [![Life: Reptiles and Amphibians](/wp-content/thumbnails/5953-100x70.jpg?x53432)
     
-    Digging for the Truth: Machu Picchu: Lost City of the Inca
+    Life: Reptiles and Amphibians
     
-    In 1911, Hiram Bingham, famed American explorer, stumbled across a remote Inca city atop a high peak in the Andes. The site was called Machu Picchu – perhaps the most famous ruin in the world. What wa](https://documentaryheaven.com/digging-for-the-truth-machu-picchu-lost-city-of-the-inca/ "Digging for the Truth: Machu Picchu: Lost City of the Inca")
-* [![WikiLeaks: The Secret Life of a Superpower](/wp-content/thumbnails/7763-100x70.jpg?x53432)
+    Reptilians survive from the age of the Saurians, but if many look Ancient that's because their early and sometimes relatively recent adaptations to widely varied conditions worldwide still work admira](https://documentaryheaven.com/life-reptiles-and-amphibians/ "Life: Reptiles and Amphibians")
+* [![Dawn of Humanity](/wp-content/thumbnails/11926-100x70.jpg?x53432)
     
-    WikiLeaks: The Secret Life of a Superpower
+    Dawn of Humanity
     
-    It was the biggest information leak in US diplomatic history – over 250,000 US diplomatic messages or “cables” between the US State Department and US embassies all over the world – turned into a globa](https://documentaryheaven.com/wikileaks-secret-life-superpower/ "WikiLeaks: The Secret Life of a Superpower")
+    What is it that makes us human and where do we come from? Ever since Charles Darwin put forward the idea that we evolved from apes scientists have wondered about those first creatures that left the ap](https://documentaryheaven.com/dawn-of-humanity/ "Dawn of Humanity")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
