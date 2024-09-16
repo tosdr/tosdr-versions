@@ -500,7 +500,7 @@ OPM SORN CENTRAL-19: External Review Records for Multi-State Plan (MSP) Program 
 
 OPM SORN Central-22 Federal Competency Assessment System ([85 FR 51498](https://www.federalregister.gov/documents/2020/08/20/2020-18258/privacy-act-of-1974-system-of-records "OPM SORN Central-22 Federal Competency Assessment System (85 FR 51498)"))
 
-OPM SORN Central-23 FEHB Program Enrollment ([86 FR 6377](https://www.federalregister.gov/documents/2021/01/21/2021-01259/privacy-act-of-1974-system-of-records "OPM SORN Central-23 FEHB Program Enrollment (86 FR 6377)"))
+OPM SORN Central-23 FEHB Program Enrollment ([89 FR 72902](https://www.federalregister.gov/documents/2024/09/06/2024-20061/privacy-act-of-1974-system-of-records))
 
 OPM SORN Central-26 FEDVIP FLTCIP FSAFEDS Records ([87 FR 36889](https://www.federalregister.gov/documents/2022/06/21/2022-13216/privacy-act-of-1974-system-of-records "OPM SORN Central-26 FEDVIP FLTCIP FSAFEDS Records (87 FR 36889)"))
 
