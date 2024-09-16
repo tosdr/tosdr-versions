@@ -126,6 +126,12 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 
 Recent Posts
 
+* [![Joe Biden economy inflation](https://www.conservativedailynews.com/wp-content/uploads/2022/11/gv112722dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/groceries-got-you-groaning-heres-how-to-save-without-starving/)
+    
+    [Groceries Got You Groaning? Here’s How to Save Without Starving](https://www.conservativedailynews.com/2024/09/groceries-got-you-groaning-heres-how-to-save-without-starving/)
+    
+    September 16, 2024
+    
 * [![Kamala Harris Karl Marx Marxism Communism economic policy](https://www.conservativedailynews.com/wp-content/uploads/2024/08/gv082124dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/one-of-kamala-harris-tax-proposals-could-be-an-economic-doomsday-device-experts-say/)
     
     [One Of Kamala Harris’ Tax Proposals Could Be ‘An Economic Doomsday Device,’ Experts Say](https://www.conservativedailynews.com/2024/09/one-of-kamala-harris-tax-proposals-could-be-an-economic-doomsday-device-experts-say/)
@@ -165,12 +171,6 @@ Recent Posts
 * [![Bills unpaid past due broke](https://www.conservativedailynews.com/wp-content/uploads/2023/09/past-due-unpaid-bills-220x150.jpg)](https://www.conservativedailynews.com/2024/09/ibm-vice-chairman-says-consumers-are-under-enormous-pressure-warns-of-economic-softness/)
     
     [IBM Vice Chairman Says Consumers Are ‘Under Enormous Pressure,’ Warns Of Economic ‘Softness’](https://www.conservativedailynews.com/2024/09/ibm-vice-chairman-says-consumers-are-under-enormous-pressure-warns-of-economic-softness/)
-    
-    September 15, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/Second-Trump-assassination-attempt-220x150.jpg)](https://www.conservativedailynews.com/2024/09/secret-service-local-officials-speak-on-apparent-second-trump-assassination-attempt/)
-    
-    [Secret Service, Local Officials Speak On Apparent Second Trump Assassination Attempt](https://www.conservativedailynews.com/2024/09/secret-service-local-officials-speak-on-apparent-second-trump-assassination-attempt/)
     
     September 15, 2024
     
@@ -228,6 +228,7 @@ Contact Us
 
 Recent Comments
 
+* charles wilkins on [Definition of Insanity](https://www.conservativedailynews.com/2024/09/definition-of-insanity/#comment-782133)
 * charles wilkins on [Harris Asked How She Will Make Life Affordable, Immediately Pivots To Word Salad About Middle Class Upbringing, Lawns](https://www.conservativedailynews.com/2024/09/harris-asked-how-she-will-make-life-affordable-immediately-pivots-to-word-salad-about-middle-class-upbringing-lawns/#comment-782116)
 * charles wilkins on [Victor Davis Hanson Suggests Harris Seeking Second Debate Signals She’s Shaken By ‘Internal Polls’](https://www.conservativedailynews.com/2024/09/victor-davis-hanson-suggests-harris-seeking-second-debate-signals-shes-shaken-by-internal-polls/#comment-782115)
 * Dr. Ramon Argila deTorres y Sandoval on [The Independents Won The Debate](https://www.conservativedailynews.com/2024/09/the-independents-won-the-debate/#comment-782083)
@@ -236,7 +237,6 @@ Recent Comments
 * Michael Busler on [Trump Should Propose a 15% Single Tax Rate for All](https://www.conservativedailynews.com/2024/09/trump-should-propose-a-15-single-tax-rate-for-all/#comment-782007)
 * kaycee on [What Do Nancy Pelosi And The Vatican Have In Common?](https://www.conservativedailynews.com/2024/09/what-do-nancy-pelosi-and-the-vatican-have-in-common/#comment-782003)
 * KayCee on [What Do Nancy Pelosi And The Vatican Have In Common?](https://www.conservativedailynews.com/2024/09/what-do-nancy-pelosi-and-the-vatican-have-in-common/#comment-782002)
-* Mr. Nathan Z. Solomon on [Trump Should Propose a 15% Single Tax Rate for All](https://www.conservativedailynews.com/2024/09/trump-should-propose-a-15-single-tax-rate-for-all/#comment-782001)
 
 [Close](#)
 
