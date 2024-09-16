@@ -9,10 +9,6 @@ May 25, 2018 / [#freeCodeCamp.org](https://privacy-policy.freecodecamp.org/news/
 freeCodeCamp.org Privacy Policy: Questions and Answers
 ======================================================
 
-![freeCodeCamp](https://cdn.hashnode.com/res/hashnode/image/upload/v1712072540742/C7c8AOPN6.png)
-
-[freeCodeCamp](https://privacy-policy.freecodecamp.org/news/author/freeCodeCamp/)
-
   ![freeCodeCamp.org Privacy Policy: Questions and Answers](https://cdn-media-2.freecodecamp.org/w1280/5f9cad5a740569d1a4ca9edf.jpg)
 
 We take your privacy seriously. And we give you full control over your data.
@@ -129,14 +125,6 @@ ADVERTISEMENT
 ADVERTISEMENT
 
 ADVERTISEMENT
-
-* * *
-
-![freeCodeCamp](https://cdn.hashnode.com/res/hashnode/image/upload/v1712072540742/C7c8AOPN6.png)
-
-[freeCodeCamp](https://privacy-policy.freecodecamp.org/news/author/freeCodeCamp/)
-
-Learn to code. Build projects. Earn certifications—All for free.
 
 * * *
 
