@@ -142,7 +142,7 @@ Close this search box.
     
     [Read More](https://myrepublic.net/sg/broadband-promotions)
     
-* Promotions
+* What’s New
     
     Promotions
     ----------
