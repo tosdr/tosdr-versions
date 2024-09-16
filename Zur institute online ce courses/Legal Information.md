@@ -15,7 +15,7 @@ Explore
 
 Open menu
 
-[Demystifying ACT / A Live 6 CE credit hours webinarMore Info](https://www.zurinstitute.com/webinars/demystifying-act-blending-acceptance-commitment-therapy-into-your-practice/)
+[Virtual EMDR Certificate Training / 30 CE credit hours trainingMore Info](https://www.zurinstitute.com/webinars/virtual-emdr-certificate-training/)
 
 [Course Catalog](https://www.zurinstitute.com/privacy-disclaimer-terms-of-use-dmca/# "Course Catalog")
 
