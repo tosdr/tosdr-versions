@@ -164,11 +164,11 @@ Top VPNs
 
 #### Recent Posts
 
-* [27 Best Downloader Codes \[Ultimate List for Aug 2024\]](https://www.firesticktricks.com/best-downloader-codes.html)
-* [Why Is My FireStick So Slow? Here’s How to Speed Up (2024)](https://www.firesticktricks.com/speed-up-slow-firestick.html)
-* [How to Restart / Reboot FireStick in 30 Seconds](https://www.firesticktricks.com/restart-firestick.html)
-* [How to Install and Use VLC Player on FireStick](https://www.firesticktricks.com/vlc-on-firestick.html)
-* [How to Install STBEmu Pro on FireStick the Best MAG Emulator](https://www.firesticktricks.com/stbemu-pro-on-firestick.html)
+* [How to Install Three Now Kodi Addon for New Zealand TV](https://www.firesticktricks.com/three-now-kodi-addon.html)
+* [How to Install Umbrella Kodi Addon (Unlimited Movies & Shows)](https://www.firesticktricks.com/umbrella-kodi-addon.html)
+* [How to Install Fluxus IPTV Kodi Addon on Any Device](https://www.firesticktricks.com/fluxus-iptv-kodi-addon.html)
+* [How to Install Curiosity Stream Kodi Addon in 2 Minutes](https://www.firesticktricks.com/curiosity-stream-kodi-addon.html)
+* [How to Install Daddylive Kodi Addon for Unlimited Sports](https://www.firesticktricks.com/daddylive-kodi-addon.html)
 
 [![Fire Stick Tricks](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%2059'%3E%3C/svg%3E)
 
