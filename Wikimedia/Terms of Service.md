@@ -60,6 +60,8 @@ Search
 
 * [English](#)
 
+ Appearance
+
 * [Log in](https://foundation.wikimedia.org/w/index.php?title=Special:UserLogin&returnto=Policy%3ATerms+of+Use%2Fen "You are encouraged to log in; however, it is not mandatory [o]")
 
  Personal tools
@@ -161,6 +163,10 @@ Print/export
 * [Printable version](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use/en&printable=yes "Printable version of this page [p]")
 
 In other projects
+
+Appearance
+
+move to sidebar hide
 
 From Wikimedia Foundation Governance Wiki
 
@@ -632,5 +638,3 @@ Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Terms
 
 * [![Wikimedia Foundation](/static/images/footer/wikimedia-button.svg)](https://wikimediafoundation.org/)
 * [![Powered by MediaWiki](/w/resources/assets/poweredby_mediawiki.svg)](https://www.mediawiki.org/)
-
-* Toggle limited content width
