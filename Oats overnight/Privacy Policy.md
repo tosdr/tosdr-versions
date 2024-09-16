@@ -237,8 +237,6 @@ The chart below provides a high-level snapshot of our privacy practices. You nee
 | Advertising partners | Yes |
 | Sensitive personal information (as defined in CA Civil Code 1798.140 (ae)) | Yes | When you apply for a job with us | To process your job application | Service providers | No  |
 
-![Join the Rumor Mill](//www.oatsovernight.com/cdn/shop/t/415/assets/static.mill_logo.png?v=173123316556213718451725915537)
-
 Special Offers, Flavor Releases, and More.
 ------------------------------------------
 
