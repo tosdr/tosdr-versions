@@ -81,6 +81,22 @@ This site uses the following services
     [https://app.involve.asia/publisher/privacypolicy](https://app.involve.asia/publisher/privacypolicy)
 * ChineseAN  
     [https://www.chinesean.com/pb/privacyPolicy](https://www.chinesean.com/pb/privacyPolicy)
+* OneSignal  
+    [https://onesignal.com/privacy\_policy](https://onesignal.com/privacy_policy)
+* Amazon Japan  
+    [https://www.amazon.co.jp/gp/help/customer/display.html?nodeId=201909010](https://www.amazon.co.jp/gp/help/customer/display.html?nodeId=201909010)
+* LinkShare  
+    [https://jp.linkshare.com/privacy/](https://jp.linkshare.com/privacy/)
+* ValueCommerce  
+    [https://www.valuecommerce.co.jp/privacy\_policy/](https://www.valuecommerce.co.jp/privacy_policy/)
+* JANet  
+    [https://www.adways.net/privacy.html](https://www.adways.net/privacy.html)
+* adstir  
+    [https://united.jp/privacy/](https://united.jp/privacy/)
+* i-mobile  
+    [https://www.i-mobile.co.jp/privacy.html](https://www.i-mobile.co.jp/privacy.html)
+* ID5  
+    [https://id5.io/jp/platform-privacy-policy/](https://id5.io/jp/platform-privacy-policy/)
 
 To review the privacy policy of a third-party company's service, please refer to the URL of the privacy policy of each service.
 
@@ -112,21 +128,21 @@ All the issues and problems will be resolved pursuant to our Japanese Privacy Po
 
 [![Razer](https://i0.wp.com/saiganak.com/wp-content/uploads/2021/10/banner_razer_336x280bpx.jpg)](https://click.accesstra.de/go/YQnNS9EB)
 
+* [![Final Fantasy 35th Anniversary UNIQLO T-Shirts coming back in Late June!](https://i0.wp.com/saiganak.com/wp-content/uploads/2022/05/ff35th-anniversary-ut-additional-production-00-150x150.jpg "Final Fantasy 35th Anniversary UNIQLO T-Shirts coming back in Late June!")
+    
+    Final Fantasy 35th Anniversary UNIQLO T-Shirts coming back in Late June!](https://saiganak.com/product/ff35th-anniversary-ut-additional-production/ "Final Fantasy 35th Anniversary UNIQLO T-Shirts coming back in Late June!")
 * [![](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/06/tactical-assault-commander-f14-finalfantasy-xiv-edition-preorder-00-150x150.jpg)
     
     "TACTICAL ASSAULT COMMANDER F14 FINAL FANTASY XIV EDITION"](https://saiganak.com/product/tactical-assault-commander-f14-finalfantasy-xiv-edition-preorder/)
-* [![【Sad News】 NEOGEO mini discontinued...](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/07/neogeo-mini-eol-00-150x150.jpg "【Sad News】 NEOGEO mini discontinued...")
+* [![SNK's ](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/09/neogeo-arcade-stick-pro-4th-info-00-150x150.jpg "SNK's ")
     
-    【Sad News】 NEOGEO mini discontinued...](https://saiganak.com/product/neogeo-mini-eol/ "【Sad News】 NEOGEO mini discontinued...")
+    SNK's "NEOGEO Arcade Stick Pro"Release date and Price announced!](https://saiganak.com/product/neogeo-arcade-stick-pro-4th-info/ "SNK's ")
 * [![Chainsaw Man × ZONe！Collaboration New ](https://i0.wp.com/saiganak.com/wp-content/uploads/2022/09/chainsaw-man-collabo-zone-blood-release-00-150x150.jpg "Chainsaw Man × ZONe！Collaboration New ")
     
     Chainsaw Man × ZONe！Collaboration New "ZONe BLOOD" On Sale!](https://saiganak.com/product/chainsawman-collabo-zone-blood-release/ "Chainsaw Man × ZONe！Collaboration New ")
-* [![](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/05/neogeo-mini-samuraispirits-limited-edition-preorder00-150x150.jpg)
+* [![SNK sells charity T-shirts for rebuilding Shuri-Jo Castle!](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/12/snk-okinawa-charity-tshirt-00-150x150.jpg "SNK sells charity T-shirts for rebuilding Shuri-Jo Castle!")
     
-    "NEOGEO mini Samurai Spirits Limited Set" is here!](https://saiganak.com/product/neogeo-mini-samuraispirits-limited-edition-preorder/)
-* [![Coca-Cola energy drinks are here! How is the taste?](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/07/cocacola-energy-0-150x150.jpg "Coca-Cola energy drinks are here! How is the taste?")
-    
-    Coca-Cola energy drinks are here! How is the taste?](https://saiganak.com/review/cocacola-energy-review/ "Coca-Cola energy drinks are here! How is the taste?")
+    SNK sells charity T-shirts for rebuilding Shuri-Jo Castle!](https://saiganak.com/product/snk-okinawa-charity-tshirt/ "SNK sells charity T-shirts for rebuilding Shuri-Jo Castle!")
 
 [](#top)
 
