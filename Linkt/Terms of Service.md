@@ -114,7 +114,7 @@ Legal
 
 [Legal](https://www.linkt.com.au/legal/brisbane.html)
 
-* [Policies and agreements See 14 articles](#childnavitem-0)
+* [Policies and agreements See 15 articles](#childnavitem-0)
     
     * [Transurban Statement of Notifiable Matters](https://www.linkt.com.au/legal/policies/transurban-statement-of-notifiable-matters/brisbane.html)
     * [Linkt Europcar Offer Privacy Collection Statement](https://www.linkt.com.au/legal/policies/europcar-offer-privacy-statement/brisbane.html)
@@ -130,6 +130,7 @@ Legal
     * [Linkt Booking.com Privacy Collection Statement](https://www.linkt.com.au/legal/policies/bookingcom-offer-privacy-statement/brisbane.html)
     * [mycar tyre & auto Offer Privacy Collection Statement](https://www.linkt.com.au/legal/policies/mycar-offer-privacy-policy/brisbane.html)
     * [Global Escapes Offer Privacy Collection Statement](https://www.linkt.com.au/legal/policies/global-escapes-privacy-policy/brisbane.html)
+    * [Supercheap Auto Offer Privacy Collection Statement](https://www.linkt.com.au/legal/policies/supercheapauto-offer-privacy-policy/brisbane.html)
     
 * [Customer service agreements See 17 articles](#childnavitem-1)
     
@@ -152,7 +153,7 @@ Legal
     * [Charge up your savings Terms and Conditions](https://www.linkt.com.au/legal/promotions/charge-up-your-savings/brisbane.html)
     * [Fuel Up Your Savings Terms and Conditions](https://www.linkt.com.au/legal/promotions/fuel-up-your-savings/brisbane.html)
     
-* [Rewards See 9 articles](#childnavitem-4)
+* [Rewards See 10 articles](#childnavitem-4)
     
     * [Booking.com Offer Terms and Conditions](https://www.linkt.com.au/legal/rewards/bookingcom/brisbane.html)
     * [Europcar Discount Terms and Conditions](https://www.linkt.com.au/legal/rewards/europcar/brisbane.html)
@@ -163,6 +164,7 @@ Legal
     * [Fuel Up Your Savings Terms and Conditions](https://www.linkt.com.au/legal/rewards/fuel-up-your-savings/brisbane.html)
     * [Charge up your savings Terms and Conditions](https://www.linkt.com.au/legal/rewards/charge-up-your-savings/brisbane.html)
     * [Global Escapes Terms and Conditions](https://www.linkt.com.au/legal/rewards/global-escapes/brisbane.html)
+    * [Supercheap Auto Terms and Conditions](https://www.linkt.com.au/legal/rewards/supercheapauto/brisbane.html)
     
 
 [Legal](https://www.linkt.com.au/legal/brisbane.html)
