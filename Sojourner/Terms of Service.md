@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-8c066d01914a702b660340d58e75d170
+5f26257bdaa5057986aefc2c1531174f
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![8 mm oval peacock pearls](https://sojourner.biz/images/cache/pearls/PE0228.200.jpg)](https://sojourner.biz/beads/pearls/8-mm-oval-peacock-pearls.html "8 mm oval peacock pearls")
+[![8 mm round vintage German glass beads](https://sojourner.biz/images/cache/glass/GL0152.200.jpg)](https://sojourner.biz/beads/glass/8-mm-round-vintage-german-glass-beads.html "8 mm round vintage German glass beads")
 
-#### [8 mm oval peacock pearls](https://sojourner.biz/beads/pearls/8-mm-oval-peacock-pearls.html "8 mm oval peacock pearls")
+#### [8 mm round vintage German glass beads](https://sojourner.biz/beads/glass/8-mm-round-vintage-german-glass-beads.html "8 mm round vintage German glass beads")
 
-$51.00
+$7.00
 
 ### Best Sellers
 
@@ -158,10 +158,10 @@ $51.00
     $16.00
 4. [Swarovski crystal AB clasp](https://sojourner.biz/clasps/swarovski/swarovski-crystal-ab-clasp.html "Swarovski crystal AB clasp")  
     $28.00
-5. [White pearl toggle clasp](https://sojourner.biz/clasps/toggles/white-pearl-toggle-clasp.html "White pearl toggle clasp")  
-    $28.00
-6. [Square pearl clasp](https://sojourner.biz/clasps/pearl/square-pearl-clasp.html "Square pearl clasp")  
+5. [Square pearl clasp](https://sojourner.biz/clasps/pearl/square-pearl-clasp.html "Square pearl clasp")  
     $16.00
+6. [White pearl toggle clasp](https://sojourner.biz/clasps/toggles/white-pearl-toggle-clasp.html "White pearl toggle clasp")  
+    $28.00
 7. [Neon blue Swarovski polka dot clasp](https://sojourner.biz/clasps/swarovski/neon-blue-swarovski-polka-dot-clasp.html "Neon blue Swarovski polka dot clasp")  
     $15.00
 8. [Red bar clasp](https://sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
