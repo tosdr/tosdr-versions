@@ -326,6 +326,8 @@ Related links
 
 [Download business development brochure](https://www.bms.com/assets/bms/us/en-us/pdf/bms-business-development-brochure.pdf)
 
+[Doing business with us as a supplier](https://www.bms.com/about-us/our-company/doing-business-with-us-as-a-supplier.html)
+
 News _Next Page Icon_
 
 [News](https://www.bms.com/media.html)
