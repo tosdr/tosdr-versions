@@ -1,7 +1,3 @@
-[🏎️ Buy 3+ Famous Car sets, and get 25% off!](https://www.playmobil.com/en-us/web-shop/cars/?page=2&pmin=30)
-
-[🏎️ Buy 3+ Famous Car sets, and get 25% off!](https://www.playmobil.com/en-us/web-shop/cars/?page=2&pmin=30)
-
 [](https://www.playmobil.us/en-us/)
 
 [Sign in](https://www.playmobil.us/en-us/login/)
