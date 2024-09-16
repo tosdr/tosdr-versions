@@ -66,7 +66,7 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Private Prison Industry  State-Level Contributions, 2016-2017](/assets/Images/teasers/small/Private-prison.JPG)](https://www.followthemoney.org/research/institute-reports/private-prisons-principally-profit-oriented-and-politically-pliable)
+[![Contributions From Nursing Home and Long-Term Care Industry, by State, 2001–2016](/assets/Images/teasers/small/nursing-homes.JPG)](https://www.followthemoney.org/research/institute-reports/nursing-a-long-term-political-strategy)
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
