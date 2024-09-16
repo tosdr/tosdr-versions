@@ -698,7 +698,7 @@ Negoci
 * [Dynamics 365](https://dynamics.microsoft.com/)
 * [Microsoft 365](https://www.microsoft.com/microsoft-365/business/)
 * [Microsoft Advertising](https://about.ads.microsoft.com/)
-* [Copilot for Microsoft 365](https://www.microsoft.com/en-us/microsoft-365/business/copilot-for-microsoft-365)
+* [Microsoft 365 Copilot](https://www.microsoft.com/en-us/microsoft-365/copilot/copilot-for-work)
 * [Microsoft Teams](https://www.microsoft.com/microsoft-teams/group-chat-software)
 
 Desenvolupador i professional de TI
