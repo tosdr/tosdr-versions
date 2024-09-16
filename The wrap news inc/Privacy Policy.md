@@ -14,7 +14,7 @@ Main Navigation
 * [TIFF](https://www.thewrap.com/category/report-toronto/)
 * [TheWrapBook](https://www.thewrap.com/the-wrapbook-tv-issue/)
     * [TheWrapBook: The Art of Television](https://www.thewrap.com/the-wrapbook-tv-issue/)
-    * [The WrapBook: Cinema](https://www.thewrap.com/the-wrapbook-the-art-of-cinema-2023/)
+    * [The WrapBook: The Art of Cinema](https://www.thewrap.com/the-wrapbook-the-art-of-cinema-2023/)
     * [WrapStyle](https://www.thewrap.com/wrapstyle/)
 * [TV](https://www.thewrap.com/category/tv/)
     * [TV](https://www.thewrap.com/category/tv/)
@@ -81,6 +81,7 @@ Follow Us
 Trending Topics:
 ----------------
 
+* [TheGrill 2024](https://thegrill2024.splashthat.com/)
 * [Holding On in Hollywood](https://www.thewrap.com/tag/holding-on-in-hollywood/)
 
 Privacy Policy
