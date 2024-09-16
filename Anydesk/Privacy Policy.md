@@ -18,7 +18,7 @@
     
     [Access & Control](https://anydesk.com/en/features#access-control) [Administration & Customization](https://anydesk.com/en/features#administration-customization) [Security & Privacy](https://anydesk.com/en/features#security-privacy) [Collaboration](https://anydesk.com/en/features#collaboration)
     
-* [Solutions![](/_static/icons/white/bold/arrow-down-1-fe318e.svg) ![](/_static/icons/black/medium/arrow-down-1-38c71c.svg)](#) 
+* [Solutions![](/_static/icons/white/bold/arrow-down-1-ec7f5c.svg) ![](/_static/icons/black/medium/arrow-down-1-38c71c.svg)](#) 
     
     By Need
     
