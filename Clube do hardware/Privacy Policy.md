@@ -134,6 +134,86 @@ Política de privacidade
 
 * ### Últimos tópicos
     
+    * [![Potsu](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1221723.thumb.jpeg.01675a94cf6ac49d36b30fe918dfe358.jpeg)](https://www.clubedohardware.com.br/profile/1221723-potsu/ "Ir ao perfil de Potsu")
+        
+        0
+        
+        [É saudável um processador ficar ficar entre 70-100% de uso em jogos pesados?](https://www.clubedohardware.com.br/forums/topic/1697554-%C3%A9-saud%C3%A1vel-um-processador-ficar-ficar-entre-70-100-de-uso-em-jogos-pesados/?do=getNewComment "É saudável um processador ficar ficar entre 70-100% de uso em jogos pesados?")
+        
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [Potsu](https://www.clubedohardware.com.br/profile/1221723-potsu/ "Ir ao perfil de Potsu")  
+        7 minutos atrás
+        
+    * [![ratodeskate144p](https://www.clubedohardware.com.br/uploads/members/monthly_2021_10/126501781_ndice.thumb.jpg.ee5f7461dbd4a400dda05518b954c4db.jpg)](https://www.clubedohardware.com.br/profile/1113801-ratodeskate144p/ "Ir ao perfil de ratodeskate144p")
+        
+        0
+        
+        [Avaliem minha ideia de upgrade](https://www.clubedohardware.com.br/forums/topic/1697553-avaliem-minha-ideia-de-upgrade/?do=getNewComment "Avaliem minha ideia de upgrade")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [ratodeskate144p](https://www.clubedohardware.com.br/profile/1113801-ratodeskate144p/ "Ir ao perfil de ratodeskate144p")  
+        13 minutos atrás
+        
+    * [![Pedroou](https://www.clubedohardware.com.br/uploads/members/monthly_2024_05/20240524_161658.thumb.jpg.0468877279d50da901b3c6541da65102.jpg)](https://www.clubedohardware.com.br/profile/1200385-pedroou/ "Ir ao perfil de Pedroou")
+        
+        0
+        
+        [Recomendação de TV Full HD ou QHD em torno de R$ 1.000](https://www.clubedohardware.com.br/forums/topic/1697552-recomenda%C3%A7%C3%A3o-de-tv-full-hd-ou-qhd-em-torno-de-r-1000/?do=getNewComment "Recomendação de TV Full HD ou QHD em torno de R$ 1.000")
+        
+        [Televisores e projetores](https://www.clubedohardware.com.br/forums/forum/193-televisores-e-projetores/ "Televisores e projetores")  
+        Por [Pedroou](https://www.clubedohardware.com.br/profile/1200385-pedroou/ "Ir ao perfil de Pedroou")  
+        25 minutos atrás
+        
+    * [![dmnk](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1236053.thumb.jpeg.b10edeb3692d03b7c7c96be3636d72f7.jpeg)](https://www.clubedohardware.com.br/profile/1236053-dmnk/ "Ir ao perfil de dmnk")
+        
+        1
+        
+        [LG UltraGear 144hz é o melhor na faixa de preço para jogos competitivos?](https://www.clubedohardware.com.br/forums/topic/1697551-lg-ultragear-144hz-%C3%A9-o-melhor-na-faixa-de-pre%C3%A7o-para-jogos-competitivos/?do=getNewComment "LG UltraGear 144hz é o melhor na faixa de preço para jogos competitivos?")
+        
+        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
+        Por [dmnk](https://www.clubedohardware.com.br/profile/1236053-dmnk/ "Ir ao perfil de dmnk")  
+        1 hora atrás
+        
+    * [![CloudZ](https://www.clubedohardware.com.br/uploads/members/monthly_2020_01/nuvem.thumb.jpg.32636c106e3f348d435e64213dd6ae23.jpg)](https://www.clubedohardware.com.br/profile/859044-cloudz/ "Ir ao perfil de CloudZ")
+        
+        1
+        
+        [Core i7 12700k com uma GeForce RTX 4070 TI Super vai dar gargalo?](https://www.clubedohardware.com.br/forums/topic/1697550-core-i7-12700k-com-uma-geforce-rtx-4070-ti-super-vai-dar-gargalo/?do=getNewComment "Core i7 12700k com uma GeForce RTX 4070 TI Super vai dar gargalo?")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [CloudZ](https://www.clubedohardware.com.br/profile/859044-cloudz/ "Ir ao perfil de CloudZ")  
+        1 hora atrás
+        
+    * [![jonas joao](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253182.thumb.png.55a97f6648270ade8ad8e79c9656684d.png)](https://www.clubedohardware.com.br/profile/1253182-jonas-joao/ "Ir ao perfil de jonas joao")
+        
+        0
+        
+        [que computador eu consigo montar até R$3000,00?](https://www.clubedohardware.com.br/forums/topic/1697549-que-computador-eu-consigo-montar-at%C3%A9-r300000/?do=getNewComment "que computador eu consigo montar até R$3000,00?")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [jonas joao](https://www.clubedohardware.com.br/profile/1253182-jonas-joao/ "Ir ao perfil de jonas joao")  
+        1 hora atrás
+        
+    * [![Pincipi](https://www.clubedohardware.com.br/uploads/members/monthly_2018_08/fotomenor.thumb.jpg.9b1050f4d485ee4e568147530b248874.jpg)](https://www.clubedohardware.com.br/profile/437891-pincipi/ "Ir ao perfil de Pincipi")
+        
+        0
+        
+        [Recuperando mais uma sucata de LH1202, não liga, não testada, no estado.](https://www.clubedohardware.com.br/forums/topic/1697548-recuperando-mais-uma-sucata-de-lh1202-n%C3%A3o-liga-n%C3%A3o-testada-no-estado/?do=getNewComment "Recuperando mais uma sucata de LH1202, não liga, não testada, no estado.")
+        
+        [Impressoras, scanners e multifuncionais](https://www.clubedohardware.com.br/forums/forum/27-impressoras-scanners-e-multifuncionais/ "Impressoras, scanners e multifuncionais")  
+        Por [Pincipi](https://www.clubedohardware.com.br/profile/437891-pincipi/ "Ir ao perfil de Pincipi")  
+        1 hora atrás
+        
+    * [![SpeedTi](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1251817.thumb.png.3e05c121ab92fea4b491e502a9b6ecc5.png)](https://www.clubedohardware.com.br/profile/1251817-speedti/ "Ir ao perfil de SpeedTi")
+        
+        4
+        
+        [Indicação de water cooler para um Ryzen 5 5500](https://www.clubedohardware.com.br/forums/topic/1697547-indica%C3%A7%C3%A3o-de-water-cooler-para-um-ryzen-5-5500/?do=getNewComment "Indicação de water cooler para um Ryzen 5 5500")
+        
+        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
+        Por [SpeedTi](https://www.clubedohardware.com.br/profile/1251817-speedti/ "Ir ao perfil de SpeedTi")  
+        1 hora atrás
+        
     * [![Cristian_SSP](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253180.thumb.png.776fd4c3aafdfe0907b6122af0f41f9d.png)](https://www.clubedohardware.com.br/profile/1253180-cristian_ssp/ "Ir ao perfil de Cristian_SSP")
         
         0
@@ -142,97 +222,17 @@ Política de privacidade
         
         [Consoles (videogames)](https://www.clubedohardware.com.br/forums/forum/84-consoles-videogames/ "Consoles (videogames)")  
         Por [Cristian\_SSP](https://www.clubedohardware.com.br/profile/1253180-cristian_ssp/ "Ir ao perfil de Cristian_SSP")  
-        35 minutos atrás
+        2 horas atrás
         
     * [![Yan Tolentino](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c48f%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EYT%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/783707-yan-tolentino/ "Ir ao perfil de Yan Tolentino")
         
-        1
+        2
         
         [Recomendações de Water Cooler custo/benefício para Intel Core i7-13700KF e i7-14](https://www.clubedohardware.com.br/forums/topic/1697544-recomenda%C3%A7%C3%B5es-de-water-cooler-custobenef%C3%ADcio-para-intel-core-i7-13700kf-e-i7-14/?do=getNewComment "Recomendações de Water Cooler custo/benefício para Intel Core i7-13700KF e i7-14")
         
         [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
         Por [Yan Tolentino](https://www.clubedohardware.com.br/profile/783707-yan-tolentino/ "Ir ao perfil de Yan Tolentino")  
-        47 minutos atrás
-        
-    * [![Traumacore](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1251549.thumb.jpeg.74fcd49ed8227018a453fa1066d7ab2a.jpeg)](https://www.clubedohardware.com.br/profile/1251549-traumacore/ "Ir ao perfil de Traumacore")
-        
-        2
-        
-        [placa de Vídeo usa so 70% .](https://www.clubedohardware.com.br/forums/topic/1697543-placa-de-v%C3%ADdeo-usa-so-70/?do=getNewComment "placa de Vídeo usa so 70% .")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Traumacore](https://www.clubedohardware.com.br/profile/1251549-traumacore/ "Ir ao perfil de Traumacore")  
-        56 minutos atrás
-        
-    * [![Chriss318](https://www.clubedohardware.com.br/uploads/members/monthly_2022_02/imported-photo-1188773.thumb.jpeg.daabb083519d9588e5fdc34715305893.jpeg)](https://www.clubedohardware.com.br/profile/1188773-chriss318/ "Ir ao perfil de Chriss318")
-        
-        1
-        
-        [Placa-mãe IPMH510G tem suporte para NVMe?](https://www.clubedohardware.com.br/forums/topic/1697541-placa-m%C3%A3e-ipmh510g-tem-suporte-para-nvme/?do=getNewComment "Placa-mãe IPMH510G tem suporte para NVMe?")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [Chriss318](https://www.clubedohardware.com.br/profile/1188773-chriss318/ "Ir ao perfil de Chriss318")  
-        1 hora atrás
-        
-    * [![thiago312](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253047.thumb.png.7020bd08be78b18b5d9a9357892a29fd.png)](https://www.clubedohardware.com.br/profile/1253047-thiago312/ "Ir ao perfil de thiago312")
-        
-        1
-        
-        [Qual receptor é adequado como presente de inauguração de casa?](https://www.clubedohardware.com.br/forums/topic/1697540-qual-receptor-%C3%A9-adequado-como-presente-de-inaugura%C3%A7%C3%A3o-de-casa/?do=getNewComment "Qual receptor é adequado como presente de inauguração de casa?")
-        
-        [TV box e similares](https://www.clubedohardware.com.br/forums/forum/143-tv-box-e-similares/ "TV box e similares")  
-        Por [thiago312](https://www.clubedohardware.com.br/profile/1253047-thiago312/ "Ir ao perfil de thiago312")  
         2 horas atrás
-        
-    * [![Arthur Barreto](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253176.thumb.png.feea5dbcfc65b1ec682f1c1b12785c0d.png)](https://www.clubedohardware.com.br/profile/1253176-arthur-barreto/ "Ir ao perfil de Arthur Barreto")
-        
-        1
-        
-        [Meu computador liga, porém não da Vídeo e não acende as luzes dos perifericos](https://www.clubedohardware.com.br/forums/topic/1697539-meu-computador-liga-por%C3%A9m-n%C3%A3o-da-v%C3%ADdeo-e-n%C3%A3o-acende-as-luzes-dos-perifericos/?do=getNewComment "Meu computador liga, porém não da Vídeo e não acende as luzes dos perifericos")
-        
-        [Computador não liga ou não dá vídeo](https://www.clubedohardware.com.br/forums/forum/122-computador-n%C3%A3o-liga-ou-n%C3%A3o-d%C3%A1-v%C3%ADdeo/ "Computador não liga ou não dá vídeo")  
-        Por [Arthur Barreto](https://www.clubedohardware.com.br/profile/1253176-arthur-barreto/ "Ir ao perfil de Arthur Barreto")  
-        6 horas atrás
-        
-    * [![Jeancp33](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253175.thumb.png.2bbbfe5286a7993c5c52d7b258c6de46.png)](https://www.clubedohardware.com.br/profile/1253175-jeancp33/ "Ir ao perfil de Jeancp33")
-        
-        2
-        
-        [Core I5 9400F e Radeon RX 6600 com desempenho abaixo do normal em jogos](https://www.clubedohardware.com.br/forums/topic/1697538-core-i5-9400f-e-radeon-rx-6600-com-desempenho-abaixo-do-normal-em-jogos/?do=getNewComment "Core I5 9400F e Radeon RX 6600 com desempenho abaixo do normal em jogos")
-        
-        [Problemas de desempenho](https://www.clubedohardware.com.br/forums/forum/256-problemas-de-desempenho/ "Problemas de desempenho")  
-        Por [Jeancp33](https://www.clubedohardware.com.br/profile/1253175-jeancp33/ "Ir ao perfil de Jeancp33")  
-        7 horas atrás
-        
-    * [![udanznh](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1233457.thumb.jpeg.a8a5720a41a31cdd2724e6dcc105dea3.jpeg)](https://www.clubedohardware.com.br/profile/1233457-udanznh/ "Ir ao perfil de udanznh")
-        
-        2
-        
-        [jogar com menos de 30fps](https://www.clubedohardware.com.br/forums/topic/1697537-jogar-com-menos-de-30fps/?do=getNewComment "jogar com menos de 30fps")
-        
-        [Jogo não roda ou dá erro](https://www.clubedohardware.com.br/forums/forum/278-jogo-n%C3%A3o-roda-ou-d%C3%A1-erro/ "Jogo não roda ou dá erro")  
-        Por [udanznh](https://www.clubedohardware.com.br/profile/1233457-udanznh/ "Ir ao perfil de udanznh")  
-        8 horas atrás
-        
-    * [![PedroK](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253172.thumb.jpeg.7742f1a79aef16a848d44d083a20b266.jpeg)](https://www.clubedohardware.com.br/profile/1253172-pedrok/ "Ir ao perfil de PedroK")
-        
-        2
-        
-        [placa-mãe Pichau Alphard A520M-P, aceita Ryzen 7 5700x3d???](https://www.clubedohardware.com.br/forums/topic/1697536-placa-m%C3%A3e-pichau-alphard-a520m-p-aceita-ryzen-7-5700x3d/?do=getNewComment "placa-mãe Pichau Alphard A520M-P, aceita Ryzen 7 5700x3d???")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [PedroK](https://www.clubedohardware.com.br/profile/1253172-pedrok/ "Ir ao perfil de PedroK")  
-        9 horas atrás
-        
-    * [![sandrofabres](https://www.clubedohardware.com.br/uploads/members/monthly_2019_09/sandrofa.thumb.jpg.069be2cb7716a9595f675c52528e8493.jpg)](https://www.clubedohardware.com.br/profile/1004875-sandrofabres/ "Ir ao perfil de sandrofabres")
-        
-        2
-        
-        [Qual seria um notebook que não tem carcaça quebradiça e parafuso que não empena?](https://www.clubedohardware.com.br/forums/topic/1697535-qual-seria-um-notebook-que-n%C3%A3o-tem-carca%C3%A7a-quebradi%C3%A7a-e-parafuso-que-n%C3%A3o-empena/?do=getNewComment "Qual seria um notebook que não tem carcaça quebradiça e parafuso que não empena?")
-        
-        [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
-        Por [sandrofabres](https://www.clubedohardware.com.br/profile/1004875-sandrofabres/ "Ir ao perfil de sandrofabres")  
-        9 horas atrás
         
     
 
