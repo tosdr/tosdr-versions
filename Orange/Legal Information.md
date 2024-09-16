@@ -233,7 +233,7 @@ This Privacy Notice is subject to change. 
 * [Legal matters](https://www.orange.com/en/legal-matters)
 * [Cookie management](https://www.orange.com/en/privacy-notice-protecting-your-personal-data?didomi=)
 * [Personal data](https://www.orange.com/en/privacy-notice-protecting-your-personal-data)
-* [Accessibility : non-compliant](https://www.orange.com/en/accessibility-statement-wwworangecom)
+* [Accessibility : non-compliant](https://www.orange.com/sirius/accessibilite/declaration_fr_v8/)
 * [CERT](https://www.orange.com/en/cert-orange)
 * [Contacts](https://www.orange.com/en/were-listening-you)
 * [File a report](https://orange.integrityline.org/)
