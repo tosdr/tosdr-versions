@@ -11,7 +11,7 @@ Close menu
 
 * Why Siteimprove Why Siteimprove
     
-    [Why Siteimprove](https://siteimprove.com/link/7287a26b67ce4c90b526db98dc9d7eb6.aspx)
+    [Why Siteimprove](https://siteimprove.com/why-siteimprove/)
     
     * [![How It Works](/globalassets/media/redesign2024/icons/outlined_icon_nav_how_it_works-22.png)
         
@@ -34,7 +34,7 @@ Close menu
         
         Cross-Channel Campaign Management](https://siteimprove.com/platform/cross-channel-ad-management/)
     
-    [Platform Overview](https://siteimprove.com/link/77bfbf08bd754f21ba0959a506d7eea5.aspx)
+    [Platform Overview](https://siteimprove.com/platform/)
     
     * [![AI at Siteimprove](/globalassets/media/redesign2024/icons/outlined_icon_nav_ai2.png)
         
@@ -153,7 +153,7 @@ Close menu
         
         Press](https://siteimprove.com/press/)
     
-    [Digital Insights Report](https://siteimprove.com/link/28773694da1e41338e0b1026ec5307fc.aspx)
+    [Digital Insights Report](https://siteimprove.com/digital-insights-report/)
     
     * Curious where your site performance stands today? Get a comprehensive, fully customized report detailing both strengths and actionable opportunities to improve.
         
@@ -332,7 +332,7 @@ Support
 *  [![](/globalassets/media/shared/social/facebook.svg) Facebook](https://www.facebook.com/Siteimprove)
 *  [![](/globalassets/media/shared/social/youtube.svg) Youtube](https://www.youtube.com/channel/UCVost3tZNte0o4V2motH2IA)
 
-![Leadership 2024](/globalassets/media/redesign2024/leader_2024.png)
+![Leadership 2024](/globalassets/media/redesign2024/leader_2024_new.png)
 
 Siteimprove is a leader in Digital Governance, Digital Analytics, and SEO Tools.
 
