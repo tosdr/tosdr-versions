@@ -207,13 +207,13 @@ Contact us: [HealthsToday.com@gmail.com](mailto:HealthsToday.com@gmail.com)
 #### POPULAR CATEGORY
 
 * [Diet77](https://healthstoday.com/category/diet/)
-* [Exercise60](https://healthstoday.com/category/exercise/)
+* [Exercise61](https://healthstoday.com/category/exercise/)
 * [General Health50](https://healthstoday.com/category/general-health/)
 * [Family42](https://healthstoday.com/category/family/)
 * [Weight Loss34](https://healthstoday.com/category/diet/weightloss/)
 * [Spiritual Health29](https://healthstoday.com/category/spiritual-health/)
 * [Human Body28](https://healthstoday.com/category/human-body/)
-* [Tips for Healthy Living24](https://healthstoday.com/category/tips-for-healthy-living/)
+* [Tips for Healthy Living22](https://healthstoday.com/category/tips-for-healthy-living/)
 
 * [About us](https://healthstoday.com/about-us/)
 * [Cookie Policy](https://healthstoday.com/cookie-policy/)
