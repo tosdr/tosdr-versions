@@ -87,52 +87,12 @@ FOX SCORES
     
     |     |     |
     | --- | --- |
-    | ARI | 41  |
-    | LAR | 10  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250213)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | DEN | 6   |
-    | PIT | 13  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250214)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | KC  | 26  |
-    | CIN | 25  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250202)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
     | HOU | 19  |
     | CHI | 13  |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250215)
 * Motorsport
     
-* [Supercars
-    
-    Complete
-    
-    |     |
-    | --- |
-    | Sandown 500 |
-    |     |
-    
-    Race Centre](https://www.foxsports.com.au/motorsport/supercars/race-centre?meetingid=742)
 * [Formula 1
     
     Complete
