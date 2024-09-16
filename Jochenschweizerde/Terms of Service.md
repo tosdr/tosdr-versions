@@ -219,14 +219,13 @@ Benutzerkonto
     * [ab 600 €](https://www.jochen-schweizer.de/wertgutscheine/ab_600_Euro/l/qrces)
     * [Für Kunden & Partner](https://www.jochen-schweizer.de/geschenke/wertgutschein-kunde-35euro/p/vtbau)
     
-* [Magazin](https://magazin.jochen-schweizer.de/)
-* Firmenkunden
+* B2B
     
     * [Geschenke für Mitarbeiter](https://www.jochen-schweizer.de/geschenkidee/geschenke-fuer-mitarbeiter/l/23q5d)
     * [Markenkooperationen](https://b2b.jochen-schweizer.de/markenkooperation/)
     * [Firmenveranstaltungen](https://b2b.jochen-schweizer.de/firmenevents/)
     
-* [Angebote](https://www.jochen-schweizer.de/angebote/l/4dycr)
+* [Neuheiten](https://www.jochen-schweizer.de/neuheiten/l/n5smg)
 
 1. [Home](https://www.jochen-schweizer.de/)/
 2. Nutzungsbedingungen
