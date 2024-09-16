@@ -81,9 +81,7 @@ Find us on:
 
 [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2729%27%20height=%2728%27/%3e)![SAP Facebook](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "SAP Facebook")
 
-![SAP Facebook](/_next/image?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt4e79a2501da5d16b%2Fblt3f1d4b2504d88a61%2F61a8d1039ca4302c0786c30b%2Ffacebook.svg&w=64&q=75 "SAP Facebook")](https://www.facebook.com/SAP)[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2729%27%20height=%2728%27/%3e)![SAP Twitter](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "SAP Twitter")
-
-![SAP Twitter](/_next/image?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt4e79a2501da5d16b%2Fblt76718a048459bc3a%2F61a8d0fdb3a30f3debfbe3d1%2Ftwitter.svg&w=64&q=75 "SAP Twitter")](https://twitter.com/saplearning)[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2729%27%20height=%2728%27/%3e)![SAP Youtube](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "SAP Youtube")
+![SAP Facebook](/_next/image?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt4e79a2501da5d16b%2Fblt3f1d4b2504d88a61%2F61a8d1039ca4302c0786c30b%2Ffacebook.svg&w=64&q=75 "SAP Facebook")](https://www.facebook.com/SAP)[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2729%27%20height=%2728%27/%3e)![SAP Youtube](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "SAP Youtube")
 
 ![SAP Youtube](/_next/image?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt4e79a2501da5d16b%2Fblt5c20f5a0005e7f8c%2F61a8d0fdf8a9443d676910ac%2Fyoutube.svg&w=64&q=75 "SAP Youtube")](https://www.youtube.com/SAPCommunities)[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2729%27%20height=%2728%27/%3e)![SAP LinkedIn](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "SAP LinkedIn")
 
