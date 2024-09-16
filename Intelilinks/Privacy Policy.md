@@ -36,6 +36,8 @@ Reader contributions keep LyrArc open for everyone
 
 #### Top Stories
 
+[The Harris Trump Debate September 2024](https://www.lyrarc.com/all-topics?search_text=Harris+Trump+debate&top_story=The+Harris+Trump+Debate+September+2024)
+
 [Kamala Harris Campaign for President](https://www.lyrarc.com/all-topics?search_text=Harris+Campaign+for+US+President%2C++Harris-Walz+campaign+2024%2C+Harris+campaign+2024&top_story=Kamala+Harris+Campaign+for+President)
 
 [NFP Front Populaire France wins](https://www.lyrarc.com/all-topics?search_text=NFP+Front+Populaire%2C+Jean+Luc+Melenchon%2C++Socialist+parties+France%2C++Oliver+Faure&top_story=NFP+Front+Populaire+France+wins)
@@ -53,8 +55,6 @@ Reader contributions keep LyrArc open for everyone
 [China's economy and debt super burden](https://www.lyrarc.com/all-topics?search_text=China+economy+2023%2C+China+economic+growth+2023%2C+China+debt%2C+China+Evergrande%2C+China+Country+Garden&top_story=China%27s+economy+and+debt+super+burden)
 
 [Trump series of Indictments](https://www.lyrarc.com/all-topics?search_text=Trump+classified+document+indictment%2C+Trump+indictment%2C++Trump+Georgia+indictment&top_story=Trump+series+of+Indictments)
-
-[Biden reelection effort 2024](https://www.lyrarc.com/all-topics?search_text=biden+reelection+2024%2C+Biden+bid+2024%2C+Biden+investing+in+America%2C+Battle+for+the+soul+of+a+nation%2C++Biden+State+of+the+Union+2023%2C++Biden+Build+Back+Better%2C+Biden+infrastructure+spending&top_story=Biden+reelection+effort+2024)
 
 #### MRA
 
@@ -605,6 +605,8 @@ Reader contributions keep LyrArc open for everyone
 
 #### Top Stories
 
+[The Harris Trump Debate September 2024](https://www.lyrarc.com/all-topics?search_text=Harris+Trump+debate&top_story=The+Harris+Trump+Debate+September+2024)
+
 [Kamala Harris Campaign for President](https://www.lyrarc.com/all-topics?search_text=Harris+Campaign+for+US+President%2C++Harris-Walz+campaign+2024%2C+Harris+campaign+2024&top_story=Kamala+Harris+Campaign+for+President)
 
 [NFP Front Populaire France wins](https://www.lyrarc.com/all-topics?search_text=NFP+Front+Populaire%2C+Jean+Luc+Melenchon%2C++Socialist+parties+France%2C++Oliver+Faure&top_story=NFP+Front+Populaire+France+wins)
@@ -622,8 +624,6 @@ Reader contributions keep LyrArc open for everyone
 [China's economy and debt super burden](https://www.lyrarc.com/all-topics?search_text=China+economy+2023%2C+China+economic+growth+2023%2C+China+debt%2C+China+Evergrande%2C+China+Country+Garden&top_story=China%27s+economy+and+debt+super+burden)
 
 [Trump series of Indictments](https://www.lyrarc.com/all-topics?search_text=Trump+classified+document+indictment%2C+Trump+indictment%2C++Trump+Georgia+indictment&top_story=Trump+series+of+Indictments)
-
-[Biden reelection effort 2024](https://www.lyrarc.com/all-topics?search_text=biden+reelection+2024%2C+Biden+bid+2024%2C+Biden+investing+in+America%2C+Battle+for+the+soul+of+a+nation%2C++Biden+State+of+the+Union+2023%2C++Biden+Build+Back+Better%2C+Biden+infrastructure+spending&top_story=Biden+reelection+effort+2024)
 
 * * *
 
