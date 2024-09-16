@@ -2,7 +2,7 @@
 
 [![TeamViewer](https://s7g10.scene7.com/is/content/teamviewergmbh/logo-teamviewer-2?dpr=off)](https://www.teamviewer.com/)
 
-[+1 239 999 4122](tel:+1-239-999-4122)
+[](#)
 
 * [For Enterprise](https://www.teamviewer.com/en/global/enterprise/)
 * [Support](#)
@@ -29,7 +29,7 @@
     * [Ticket](https://freshworks-help175.freshworks.com/login/auth/contactsso?client_id=78368727158800390&redirect_uri=https%3A%2F%2Fsupport.teamviewer.com%2Ffreshid%2Fcustomer_authorize_callback)
     * [Customer Portal](https://service.teamviewer.com/)
 
-[+1 239 999 4122](tel:+1-239-999-4122)
+[](#)
 
 [![TeamViewer](https://s7g10.scene7.com/is/content/teamviewergmbh/logo-teamviewer-2?dpr=off)](https://www.teamviewer.com/)
 
@@ -83,7 +83,7 @@
         * [Large businesses](https://www.teamviewer.com/en/solutions/roles/large-businesses/)
         * [Managed service providers](https://www.teamviewer.com/en/solutions/roles/managed-service-providers/)
         * [Freelancers and digital nomads](https://www.teamviewer.com/en/solutions/roles/freelancer-digital-nomad/)
-        * [Freelancers and digital nomads](https://www.teamviewer.com/en/solutions/roles/oems/)
+        * [OEMs](https://www.teamviewer.com/en/solutions/roles/oems/)
 * [Resources](#)
     * [News and Insights](https://www.teamviewer.com/en/resources/news-insights/)
     * [Success Stories](https://www.teamviewer.com/en/resources/success-stories/)
