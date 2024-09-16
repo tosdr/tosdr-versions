@@ -163,9 +163,9 @@
             
             Blog: Security Essentials
             
-            ##### Cybersecurity in a Cycle: Balancing Repair and Replacement for Optimal Security
+            ##### Tackling the Unique Cybersecurity Challenges of Online Learning Platforms
             
-            [Learn more](https://cybersecurity.att.com/blogs/security-essentials/cybersecurity-in-a-cycle-balancing-repair-and-replacement-for-optimal-security)
+            [Learn more](https://cybersecurity.att.com/blogs/security-essentials/tackling-the-unique-cybersecurity-challenges-of-online-learning-platforms)
             
             [View all Blog posts](https://www.alienvault.com/blogs)
             
@@ -398,13 +398,13 @@ If you wish to view a current list of all Data Processors, click here: [https://
 
 From the Blog
 
-![Devin Morrissey](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
+![Devin Partida](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
 
-#### Devin Morrissey
+#### Devin Partida
 
-Sep 4, 2024
+Sep 16, 2024
 
-### [Cybersecurity in a Cycle: Balancing Repair and Replacement for Optimal Security](https://cybersecurity.att.com/blogs/security-essentials/cybersecurity-in-a-cycle-balancing-repair-and-replacement-for-optimal-security)
+### [Tackling the Unique Cybersecurity Challenges of Online Learning Platforms](https://cybersecurity.att.com/blogs/security-essentials/tackling-the-unique-cybersecurity-challenges-of-online-learning-platforms)
 
 [Explore All Blog Posts ›](https://www.alienvault.com/blogs)
 
