@@ -118,57 +118,63 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Saving time, saving money
-> -------------------------
+> Impossible to run our businesses without IO
+> -------------------------------------------
 > 
-> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
+> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
+>   
+> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
+>   
+> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
+>   
+> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
 
-Cornel Erasmus - TELA Loss Adjusters & Assessors
+Kobus Venter
 
-![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=5f98dbc696c0e2ff15bcf754bb1629106bd0899550a320b04e4ebe7328fd91a5&c=104996187)  
-IYD
+![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=0101da66e1f80f9ab135a642cb875c1c5409c04cdc10fb2b953cc670f81b315f&c=144763047)  
+BD Maintenance
 
-![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=5f98dbc696c0e2ff15bcf754bb1629106bd0899550a320b04e4ebe7328fd91a5&c=151826682)  
-Salt & Pepper Guest Accommodation (Pty) Ltd.
+![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=0101da66e1f80f9ab135a642cb875c1c5409c04cdc10fb2b953cc670f81b315f&c=35807750)  
+J.M. HUMAN RESOURCES
 
-![valued client Meyer Towing & Recovery ](https://www.invoicesonline.co.za/scripts/image.php?bid=7983&file=logo_300_100&type=&fe=5f98dbc696c0e2ff15bcf754bb1629106bd0899550a320b04e4ebe7328fd91a5&c=49171586)  
-Meyer Towing & Recovery
-
-![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=5f98dbc696c0e2ff15bcf754bb1629106bd0899550a320b04e4ebe7328fd91a5&c=189148948)  
-Website Café (PTY) LTD
-
-![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=5f98dbc696c0e2ff15bcf754bb1629106bd0899550a320b04e4ebe7328fd91a5&c=188997982)  
-Fox Alarms & Security
-
-![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=5f98dbc696c0e2ff15bcf754bb1629106bd0899550a320b04e4ebe7328fd91a5&c=200445772)  
-LEO DEVELOPMENT GROUP
-
-![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=5f98dbc696c0e2ff15bcf754bb1629106bd0899550a320b04e4ebe7328fd91a5&c=95560965)  
-KTEN PARTS
-
-![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=5f98dbc696c0e2ff15bcf754bb1629106bd0899550a320b04e4ebe7328fd91a5&c=37318865)  
-FRAMED BY ANTON (Pty) Ltd.
-
-![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=5f98dbc696c0e2ff15bcf754bb1629106bd0899550a320b04e4ebe7328fd91a5&c=177415171)  
-Oukraal Merino's
-
-![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=5f98dbc696c0e2ff15bcf754bb1629106bd0899550a320b04e4ebe7328fd91a5&c=79759774)  
-FJW Security Cc
-
-![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=5f98dbc696c0e2ff15bcf754bb1629106bd0899550a320b04e4ebe7328fd91a5&c=75967458)  
+![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=0101da66e1f80f9ab135a642cb875c1c5409c04cdc10fb2b953cc670f81b315f&c=94525042)  
 Highlands Auto Engineering
 
-![valued client Stories4Kids (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=5f98dbc696c0e2ff15bcf754bb1629106bd0899550a320b04e4ebe7328fd91a5&c=180208905)  
-Stories4Kids (Pty) Ltd t/a Storietyd
+![valued client CGHK Enterprises (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8288&file=logo_300_100&type=&fe=0101da66e1f80f9ab135a642cb875c1c5409c04cdc10fb2b953cc670f81b315f&c=194552652)  
+CGHK Enterprises (PTY) LTD
 
-![valued client NILBET (PTY) LTD - Once Off's](https://www.invoicesonline.co.za/scripts/image.php?bid=7439&file=logo_300_100&type=&fe=5f98dbc696c0e2ff15bcf754bb1629106bd0899550a320b04e4ebe7328fd91a5&c=214673450)  
-NILBET (PTY) LTD - Once Off's
+![valued client VIV'S TRUCKS (Pty) Ltd. (117)](https://www.invoicesonline.co.za/scripts/image.php?bid=6320&file=logo_300_100&type=&fe=0101da66e1f80f9ab135a642cb875c1c5409c04cdc10fb2b953cc670f81b315f&c=3562392)  
+VIV'S TRUCKS (Pty) Ltd. (117)
 
-![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=5f98dbc696c0e2ff15bcf754bb1629106bd0899550a320b04e4ebe7328fd91a5&c=142728996)  
-Druce Digital
+![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=0101da66e1f80f9ab135a642cb875c1c5409c04cdc10fb2b953cc670f81b315f&c=78931418)  
+Desygn
 
-![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=5f98dbc696c0e2ff15bcf754bb1629106bd0899550a320b04e4ebe7328fd91a5&c=50585076)  
+![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=0101da66e1f80f9ab135a642cb875c1c5409c04cdc10fb2b953cc670f81b315f&c=196327534)  
+Bloem Rugby Academy PTY (Ltd)
+
+![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=0101da66e1f80f9ab135a642cb875c1c5409c04cdc10fb2b953cc670f81b315f&c=98997890)  
+SR Travel Services
+
+![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=0101da66e1f80f9ab135a642cb875c1c5409c04cdc10fb2b953cc670f81b315f&c=193791260)  
+Cape Adventure Zone
+
+![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=0101da66e1f80f9ab135a642cb875c1c5409c04cdc10fb2b953cc670f81b315f&c=74145134)  
+MOSELA GROUP Pty(ltd)
+
+![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=0101da66e1f80f9ab135a642cb875c1c5409c04cdc10fb2b953cc670f81b315f&c=41513304)  
+Forgotten Goods (Pty) Ltd
+
+![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=0101da66e1f80f9ab135a642cb875c1c5409c04cdc10fb2b953cc670f81b315f&c=10155448)  
+M's Frozen Delights
+
+![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=0101da66e1f80f9ab135a642cb875c1c5409c04cdc10fb2b953cc670f81b315f&c=35221280)  
+Wiselink Broadband Dundee
+
+![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=0101da66e1f80f9ab135a642cb875c1c5409c04cdc10fb2b953cc670f81b315f&c=161521823)  
 Imhoff Equestrian Centre
+
+![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=0101da66e1f80f9ab135a642cb875c1c5409c04cdc10fb2b953cc670f81b315f&c=44952117)  
+Iurus Inc
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
