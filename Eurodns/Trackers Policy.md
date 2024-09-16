@@ -116,7 +116,7 @@ You can set most modern browsers to prevent cookies from being placed on your de
 
 #### Latest blog articles
 
-* 13.09.2024[DNS Records Explained: A Beginner’s Guide to Website Owners](https://www.eurodns.com/blog/dns-records-explained)
+* 13.09.2024[DNS Records Explained: A Beginner’s Guide](https://www.eurodns.com/blog/dns-records-explained)
 * 05.09.2024[Plesk Hosting: The Ultimate Solution for Educational Websites](https://www.eurodns.com/blog/plesk-hosting-for-education)
 * 29.08.2024[5 Email Marketing Tips to Boost Your Ecommerce Sales](https://www.eurodns.com/blog/email-marketing-tips-boost-ecommerce-sales)
 * 27.08.2024[Price change for multiple domain extensions as of 1st September](https://www.eurodns.com/blog/price-change-for-com-xyz)
