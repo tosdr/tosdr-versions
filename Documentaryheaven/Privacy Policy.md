@@ -118,11 +118,6 @@ Advertisement
     Canada’s woke nightmare: A warning to the West
     
     Canada, under the leadership of Justin Trudeau, has positioned itself as a global advocate for progressive policies. In my latest documentary featured in The Telegraph, I embarked on a journey to the...](https://documentaryheaven.com/canadas-woke-nightmare-a-warning-to-the-west/ "Canada’s woke nightmare: A warning to the West")
-* [![Louis Theroux: Drinking To Oblivion](/wp-content/thumbnails/16353-100x70.jpg?x53432)
-    
-    Louis Theroux: Drinking To Oblivion
-    
-    Drinking To Oblivion sees Louis Theroux set about spending some time in the world of extreme drinkers, getting to know people who consume alcohol not just to excess but to the point of total oblivio...](https://documentaryheaven.com/louis-theroux-drinking-to-oblivion/ "Louis Theroux: Drinking To Oblivion")
 * [![Horizon: The Secret You](/wp-content/thumbnails/4506-100x70.jpg?x53432)
     
     Horizon: The Secret You
@@ -133,34 +128,39 @@ Advertisement
     The Beginning and the End of the Universe
     
     Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
+* [![The War On Drugs: The Prison Industrial Complex](/wp-content/thumbnails/958-100x70.gif?x53432)
+    
+    The War On Drugs: The Prison Industrial Complex
+    
+    The war on drugs has been going on for more than three decades. Today, nearly 500,000 Americans are imprisoned on drug charges. In 1980 the number was 50,000. Last year $40 billion in taxpayer dollars...](https://documentaryheaven.com/the-war-on-drugs-the-prison-industrial-complex/ "The War On Drugs: The Prison Industrial Complex")
 
 ###### Throwback Documentaries
 
-* [![Paris Is Burning](/wp-content/thumbnails/6532-100x70.jpg?x53432)
+* [![Iceman Reborn](/wp-content/thumbnails/12579-100x70.jpg?x53432)
     
-    Paris Is Burning
+    Iceman Reborn
     
-    Paris Is Burning is a 1990 documentary film directed by Jennie Livingston. Filmed in the mid-to-late 1980s, it chronicles the ball culture of New York City and the African American, Latino,](https://documentaryheaven.com/paris-is-burning/ "Paris Is Burning")
-* [![An Inconvenient Border](/wp-content/thumbnails/13551-100x70.jpg?x53432)
+    The story of the Iceman is an ancient murder mystery, it involves Europe's oldest natural mummy, known to us today as Otzi. He was a man who was stalked, attacked and left to die alone more than](https://documentaryheaven.com/iceman-reborn/ "Iceman Reborn")
+* [![The Cost of a Coke: 2nd Edition](/wp-content/thumbnails/418-100x70.png?x53432)
     
-    An Inconvenient Border
+    The Cost of a Coke: 2nd Edition
     
-    The relationship between China and North Korea has always been complicated, China's Mao Zedong famously said that the two countries were as close as lips and teeth. A relationship forged in blood and](https://documentaryheaven.com/an-inconvenient-border/ "An Inconvenient Border")
-* [![Paul Sykes: At Large](/wp-content/thumbnails/13059-100x70.jpg?x53432)
+    Matt Beard’s film exposes the lies, moral bankruptcy and corruption that pervades Coca-Cola in Colombia and highlights conflicts of interest of Federal Judge Jose Martinez in presiding over the Coca-C](https://documentaryheaven.com/the-cost-of-a-coke-2nd-edition/ "The Cost of a Coke: 2nd Edition")
+* [![Evacuate Earth](/wp-content/thumbnails/7343-100x70.jpg?x53432)
     
-    Paul Sykes: At Large
+    Evacuate Earth
     
-    Paul Sykes was a heavyweight boxer and weightlifter from Wakefield in England, he had ten professional fights but his entire adult life was marred by alcohol abuse and both petty and violent crimes. A](https://documentaryheaven.com/paul-sykes-large/ "Paul Sykes: At Large")
-* [![Bompton with Kendrick Lamar](/wp-content/thumbnails/11523-100x70.jpg?x53432)
+    Evacuate Earth is a National Geographic Channel documentary that tells the what-if story of the evacuation of the planet Earth which is due to be destroyed by a rogue Neutron Star.](https://documentaryheaven.com/evacuate-earth/ "Evacuate Earth")
+* [![The Life of Birds: To Fly or Not to Fly](/wp-content/thumbnails/5945-100x70.jpg?x53432)
     
-    Bompton with Kendrick Lamar
+    The Life of Birds: To Fly or Not to Fly
     
-    On August 9, 1988 the hardcore rap group known as N.W.A. released their debut album entitled Straight Outta Compton, this release saw the birth of gangsta rap as a music genre and definitive](https://documentaryheaven.com/bompton-with-kendrick-lamar/ "Bompton with Kendrick Lamar")
-* [![The Great Human Odyssey](/wp-content/thumbnails/12865-100x70.jpg?x53432)
+    David Attenborough presents a ten-part insight into the evolution and behaviours of birds. In this first programme, computer graphics recreate the period 150 million years ago when small, fast-running](https://documentaryheaven.com/the-life-of-birds-to-fly-or-not-to-fly/ "The Life of Birds: To Fly or Not to Fly")
+* [![American Nomads](/wp-content/thumbnails/13837-100x70.jpg?x53432)
     
-    The Great Human Odyssey
+    American Nomads
     
-    It shouldn't have happened that Homo sapiens, our species, managed to survive and overcome the odd which have been against us for over 200,000 years. We are not indestructible and there are many evolu](https://documentaryheaven.com/great-human-odyssey/ "The Great Human Odyssey")
+    Wanderlust, restlessness, the urge to get out onto the road and ride off into the sunset it is something which is deep and elemental in the American spirit. This is a journey in search of America](https://documentaryheaven.com/american-nomads/ "American Nomads")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
