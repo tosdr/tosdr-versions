@@ -126,7 +126,8 @@
         
         [Security Services](https://www.bitdefender.com/business/services/managed-services.html)
         
-        * [Managed Detection and Response](https://www.bitdefender.com/business/services/managed-services.html)
+        * [Managed Detection and Response PLUS](https://www.bitdefender.com/business/products/managed-detection-response-plus.html)
+        * [Managed Detection and Response](https://www.bitdefender.com/business/products/managed-detection-response-service.html)
         * [Managed Detection and Response for MSPs](https://www.bitdefender.com/business/products/mdr-for-msp.html)
         * [Offensive Security Services](https://www.bitdefender.com/business/products/offensive-services.html) _New_
         
