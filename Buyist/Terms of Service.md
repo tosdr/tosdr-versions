@@ -1,5 +1,3 @@
-[Chat with us](https://www.livechat.com/chat-with/17817894/), powered by [LiveChat](https://www.livechat.com/?welcome)
-
 [](https://buyist.com/Home)
 
 [Log In](https://buyist.app/login)
