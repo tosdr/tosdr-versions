@@ -62,7 +62,7 @@ Guardio
 
 Product
 
-[Reviews](https://guard.io/reviews)[Technology](https://guard.io/tech)[Plans](https://guard.io/plans)[Business](https://guard.io/team)[FAQs](https://guard.io/faq)
+[Reviews](https://guard.io/reviews)[Why Guardio](https://guard.io/tech)[Plans](https://guard.io/plans)[Business](https://guard.io/team)[FAQs](https://guard.io/faq)
 
 Company
 
@@ -70,7 +70,7 @@ Company
 
 Support
 
-[Help Center](https://help.guard.io/)[Dictionary](https://guard.io/dictionary)[Licenses](https://guard.io/licenses)[Terms of Use](https://guard.io/terms)[Privacy Policy](https://guard.io/privacy)
+[Help Center](https://help.guard.io/)[Dictionary](https://guard.io/dictionary)[Terms of Use](https://guard.io/terms)[Privacy Policy](https://guard.io/privacy)
 
 Follow Us
 
