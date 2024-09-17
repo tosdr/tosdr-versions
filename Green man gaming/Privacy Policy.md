@@ -29,7 +29,7 @@ Trustpilot
     [{{user.username}}](https://www.greenmangaming.com/profile/)
     
     * [Account Settings](https://www.greenmangaming.com/my-account/profile/ "Account Settings")
-    * [My Profile](https://www.greenmangaming.com/profile/ "My Profile")
+    * [Your Purchases](https://www.greenmangaming.com/my-account/games/ "Your Purchases")
     * [Wallet](https://www.greenmangaming.com/my-account/wallet/ "Wallet")
     * [Wishlist](https://www.greenmangaming.com/want-list/)
     * [Gift Redemption](https://www.greenmangaming.com/gift-redemption/ "Gift Redemption")
