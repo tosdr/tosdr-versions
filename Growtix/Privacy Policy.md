@@ -1,47 +1,37 @@
-Toggle navigation [![](/img/Leap_Event_Technology_White.png)](https://leapevent.tech/)
+Toggle navigation [![](/img/Leap_Conventions_Logo_White.png)](https://leapevent.tech/)
 
-* [Sign Up](https://purchase.growtix.com/signup)
 * [Login](https://purchase.growtix.com/login)
+* [Sign Up](https://purchase.growtix.com/signup)
 
-Privacy Policy
-==============
+Leap Conventions - Privacy Policy
+=================================
 
   
   
+  
+  
 
-#### Last Updated July 14, 2023
+#### Last Updated: July 19, 2024
 
-Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate, disclose, and make use of personal information. The following outlines our privacy policy.
+This Privacy Policy describes the information collected through this website (the “**Site**”) and the related products and services we provide, whether online or offline, and how that information is collected, used, and disclosed. The Site, our products and services (including any mobile apps, online platforms, and other software (our “**Software**”)), and all related content, technology, and tools are, together, referred to as the “**Services**.” Leap Conventions, a brand of Nortap Technology Inc. dba Leap Event Technology (“**Company**,” “**we**,” “**us**,” or “**our**”) and its suppliers may collect or receive the types of information described below as a result of your access to and use of the Services (together, “**Collected Information**”). This Privacy Policy applies to all visitors to and users of the Services.
 
-Before or at the time of collecting personal information, we will identify the purposes for which information is being collected. These purposes include but are not limited to event registration, event experience, event logistics, safety and security, payment processing, event related communications, to improve our products and services, fraud prevention, customer and market analysis, and to deliver more personalized services such as marketing and local event recommendations.
+This Privacy Policy also explains your rights and choices regarding your personal information (if applicable), how we communicate changes to this Privacy Policy, and how you may contact us regarding questions or issues with respect to any matter addressed by this Privacy Policy.
 
-We will collect and use personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law.
+This Privacy Policy is incorporated into and made a part of our [terms and conditions](https://purchase.growtix.com/terms), any applicable mobile app end user license agreement, and any other agreement that references this Privacy Policy or governs access to or use of the Services (together, our “**Terms**”).
 
-We will only retain personal information as long as necessary for the fulfillment of those purposes.
+**By accessing, browsing, or otherwise using the Services, by accepting or entering into our Terms, you agree on behalf of yourself and any organization or company that you represent (together, “you”) that you have read and understand this Privacy Policy and that you consent to our collection, use, and disclosure of your personal information and other Collected Information pursuant to the terms of this Privacy Policy. If you do not agree with this Privacy Policy, do not access or use the Services.**
 
-We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned.
+### The Leap Event Technology/Client Relationship
 
-Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.
+Leap Event Technology acts as a data processor for and on behalf of partners and clients in event management related services included but not limited to registration and ticketing, credit card processing, event data management, etc. Personal data processed by Leap Event Technology on behalf of clients are not used by Leap Event Technology for any purpose other than the fulfillment of contracted services with said clients, or any other purpose outlined in this privacy policy.
 
-Leap Conventions has strong data protection controls including encryption of data when being transmitted to sub-processors, in order to protect personal information from unintended disclosure or misuse. We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
-
-In case of a data breach, appropriate authorities and affected individuals will be notified by Leap Conventions via the appointed Data Protection Officer within 72 hours of the breach.
-
-We will make readily available to customers information about our policies and practices relating to the management of personal information.
-
-Camera: Certain Leap Conventions apps may use camera on an iOS or Android device. Any data from camera and other sensors is neither collected nor distributed by Leap Conventions and is used solely for the purposes of ticketing and registration services. Any personal data collected is saved only to the user's device with user consent and action.
-
-### The Leap Conventions /Client Relationship
-
-Leap Conventions acts as a data processor for and on behalf of partners and clients in event management related services included but not limited to registration and ticketing, credit card processing, event data management, etc. Personal data processed by Leap Conventions on behalf of clients are not used by Leap Conventions for any purpose other than the fulfillment of contracted services with said clients, or any other purpose outlined in this privacy policy.
-
-Being that Leap Conventions is an event management and ticketing service provider, customers are permitted to create accounts with Leap Conventions that allow them access to their personal data that has been processed by GrowTix. Access to personal data stored by our clients within the Leap Conventions system can be achieved by creating an account with GrowTix.
+Being that Leap Event Technology is an event management and ticketing service provider, customers are permitted to create accounts with Leap Event Technology that allow them access to their personal data that has been processed by Leap Event Technology. Access to personal data stored by our clients within the Leap Event Technology system can be achieved by creating an account with Leap Event Technology.
 
 ### Tracking Technologies
 
 As is true of most web sites, we gather certain information automatically and store it in log files. This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We do link this automatically collected data to other information we collect about you.
 
-GrowTix and its partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service.
+Leap Event Technology and its partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service.
 
 We partner with a third party to either display advertising on our web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests.
 
@@ -53,21 +43,21 @@ To opt-out of interest-based advertising by participating companies in the follo
 
 ### Data Deletion Policy
 
-Data stored within the Leap Conventions systems is collected and processed with an end to service Leap Conventions clients and their customers in event related services. This personal data is defined as necessary data in providing contracted services for Leap Conventions clients and their customers.
+Data stored within the Leap Event Technology systems is collected and processed with an end to service Leap Event Technology clients and their customers in event related services. This personal data is defined as necessary data in providing contracted services for Leap Event Technology clients and their customers.
 
-GrowTix is a data controller in regard to your user account created within GrowTix. Only an email address and name are required to create an account within Leap Conventions and said account is used to access data that has been processed on behalf of our clients. Leap Conventions accounts will remain active within the system with the purpose of accessing data processed by our clients. You can request for your user account to be removed from the Leap Conventions system by submitting a request to [\[email protected\]](https://purchase.growtix.com/cdn-cgi/l/email-protection).
+Leap Event Technology is a data controller in regard to your user account created within Leap Event Technology. Only an email address and name are required to create an account within Leap Event Technology and said account is used to access data that has been processed on behalf of our clients. Leap Event Technology accounts will remain active within the system with the purpose of accessing data processed by our clients. You can request for your user account to be removed from the Leap Event Technology system by submitting a request to [\[email protected\]](https://purchase.growtix.com/cdn-cgi/l/email-protection).
 
 ### Sub-Processors
 
-GrowTix engages with sub-processors, subcontractors and content delivery networks to assist it in providing Leap Conventions Services. In this instance, sub-processors are defined as any entity that processes personal data for and on behalf of Leap Conventions and its clients. It is the responsibility of Leap Conventions to determine that your data is securely processed by our sub-processors.
+Leap Event Technology engages with sub-processors, subcontractors and content delivery networks to assist it in providing Leap Event Technology Services. In this instance, sub-processors are defined as any entity that processes personal data for and on behalf of Leap Event Technology and its clients. It is the responsibility of Leap Event Technology to determine that your data is securely processed by our sub-processors.
 
-GrowTix sub-processors and their uses are indicated below:
+Leap Event Technology sub-processors and their uses are indicated below:
 
 Google: Analytics data, geocoding.  
 AWS: Data hosting services.  
 SmartyStreets: Address verification.  
-Sendgrid: Email communications with client customers and others as deemed necessary functions within GrowTix.  
-Twilio: SMS communications with client customers, 2FA, and others as deemed necessary functions within GrowTix.  
+Sendgrid: Email communications with client customers and others as deemed necessary functions within Leap Event Technology.  
+Twilio: SMS communications with client customers, 2FA, and others as deemed necessary functions within Leap Event Technology.  
 Stripe.com: Merchant Services  
 Leap Event Technology: Streaming service and meet and greet service.  
 Logrocket: Admin session replay and tracking.  
@@ -152,12 +142,14 @@ If we deny your request, you can appeal such denial by [\[email protected\]](ht
 
 ### Questions
 
-For questions or comments on this policy email [\[email protected\]](https://purchase.growtix.com/cdn-cgi/l/email-protection) or write Privacy Manager, GrowTix, 10675 Perry Hwy, #1316, Wexford, PA 15090
+For questions or comments on this policy email [\[email protected\]](https://purchase.growtix.com/cdn-cgi/l/email-protection) or write Privacy Manager, Leap Event Technology, 10675 Perry Hwy, #1316, Wexford, PA 15090
 
   
   
-[Do Not Sell or Share My Personal Information](https://purchase.growtix.com/privacy_policy_optout)
+[Do Not Sell or Share My Personal Information](https://purchase.growtix.com/privacy_optout)  
+  
+  
 
-[![](/img/Leap_Event_Technology.png)](https://leapevent.tech/)
+[![](/img/Leap_Conventions_Logo.png)](https://leapevent.tech/)
 
-[About Leap Event Technology](https://leapevent.tech/) | [Terms and Conditions](https://purchase.growtix.com/terms_and_conditions) | [Privacy Policy](https://purchase.growtix.com/privacy_policy)
+[About Leap Event Technology](https://leapevent.tech/) | [Terms and Conditions](https://purchase.growtix.com/terms) | [Privacy Policy](https://purchase.growtix.com/privacy)
