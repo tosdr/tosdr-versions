@@ -1,6 +1,6 @@
 5.38.4
 
-1726583878466
+1726604564245
 
                                              
 
@@ -12,7 +12,7 @@ en
 
 3.15.0
 
-1726583427597
+1726604885803
 
      Next Terms & Conditions | T&C's | Next Official Site                                  
 
@@ -22,7 +22,7 @@ en
 
 cutaway22
 
-1726583728306
+1726605083053
 
 You need to enable JavaScript to run this app.
 
@@ -614,13 +614,6 @@ Offer applies while stocks last.
 * Item will be added to basket at discounted price
 * Offer available while stocks last
 
-### 20% off on Selected Living Proof Promotion
-
-* Up to 20% off on selected Living Proof products.
-* Discounted price visible on product listing page and product already includes saving
-* Item will be added to basket at discounted price
-* Offer available while stocks last
-
 ### Prada Promotion
 
 The Prada Gift will be automatically added to bag when you buy one selected Prada product. The Prada Gift contains: Prada Paradoxe Virtual Flower Eau de Parfum 7ml
@@ -665,13 +658,6 @@ This offer is not available to staff.
   
 Offer applies while stocks last.  
   
-
-### Save up to £100 on Selected Dyson Promotion
-
-* Up to £100 off on selected Dyson products.
-* Discounted price visible on product listing page and product already includes saving
-* Item will be added to basket at discounted price
-* Offer available while stocks last
 
 ### Jean Paul Gaultier Promotion
 
@@ -1815,7 +1801,7 @@ Next reserves the right to amend these terms and conditions and/or discontinue t
 6. The VIP Online Sale is very popular and you have been sent an invitation before other Next customers. In the interests of fairness, if you book a VIP shopping slot and do not use it, this may also affect your eligibility for any priority VIP Online Sale invitations in the future.
 7. All Sale items are subject to availability.
 8. Next day delivery is not available for VIP Sale orders.
-9. Delivery of in stock items can take up to 21 days. You will be advised of the estimated delivery date at the time of order.
+9. Delivery of in stock items can take up to 28 days. You will be advised of the estimated delivery date at the time of order.
 10. Send to a friend delivery service will not be available during the Next Sale.
 11. Delivery to Next stores is available (selected stores only) and Evri Parcel Shops are available for sale orders
 12. The following items are not included in the sale unless otherwise stated: flowers, gift cards, personalised items or items made to your order, photos, domestic appliances, gift experiences, wall stickers, garden and plants, Hammonds bedrooms, Beaverbrooks products & Laura Ashley.
@@ -1835,7 +1821,7 @@ If you do not book a slot, you will be invited to shop the sale later on subsequ
 
 * All sale items are subject to availability.
 * Next day delivery is not available for Sale orders.
-* Delivery of in stock items can take up to 21 days. You will be advised of the estimated delivery date at the time of order.
+* Delivery of in stock items can take up to 28 days. You will be advised of the estimated delivery date at the time of order.
 * Delivery to Next stores and Evri Parcel shops is available for sale orders.
 * The following items are not included in the sale unless otherwise stated: flowers, gift cards, personalised items or items made to your order, photos, domestic appliances, gift experiences, wall stickers, garden and plants, Hammonds bedrooms, Beaverbrooks products and Laura Ashley.
 * Our Sale events are really popular therefore in the interests of fairness, we will turn our Save Bag and Save for Later features off so that everyone gets a fair chance to purchase their items of choice.
@@ -2480,7 +2466,7 @@ You need to enable JavaScript to run this app.
 
 3.15.0
 
-1726584018035
+1726605421452
 
 ### Our Social Networks
 
