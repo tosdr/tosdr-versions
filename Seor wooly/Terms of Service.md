@@ -1,4 +1,4 @@
-* [![Senor Wooly logo](https://assets.senorwooly.com/static/images/marketing/logo.svg)](https://www.senorwooly.com/)
+* [![Señor Wooly logo](https://assets.senorwooly.com/static/images/marketing/logo.svg)](https://www.senorwooly.com/)
 * Menu
 * [Store](https://www.senorwooly.com/store)
 
@@ -54,7 +54,7 @@
 * [The Wooly Team](https://www.senorwooly.com/team)
 * [FAQ](https://www.senorwooly.com/faq)
 
-![sale store item](https://assets.senorwooly.com/uploads/a2f98060-a143-41b1-92ca-b78309ea8a35.png)
+![Sr. Wooly Songbook Volume 1](https://assets.senorwooly.com/uploads/a2f98060-a143-41b1-92ca-b78309ea8a35.png)
 
 On Sale
 =======
@@ -63,7 +63,7 @@ On Sale
 
 Sr. Wooly Songbook Volume 1 ~$20.00~ $17.00 [Go to store](https://www.senorwooly.com/store/product/sr-wooly-songbook)
 
-![doctor](https://assets.senorwooly.com/static/images/marketing/doctor.png)
+![](https://assets.senorwooly.com/static/images/marketing/doctor.png)
 
 Are you ready?
 ==============
@@ -190,7 +190,7 @@ Sign up for our newsletter:
 
   Sign up
 
-[![Spotify artist link](https://assets.senorwooly.com/static/images/marketing/spotify.png)](https://open.spotify.com/artist/3R9WmARn3QhN0alYtom325?si=fWnNN1a8TICMqk-DIovpiQ)[](https://www.facebook.com/senorwooly)
+[![Listen to Señor Wooly on Spotify](https://assets.senorwooly.com/static/images/marketing/spotify.png)](https://open.spotify.com/artist/3R9WmARn3QhN0alYtom325?si=fWnNN1a8TICMqk-DIovpiQ)[](https://www.facebook.com/senorwooly)
 
 ![doctor for help](https://assets.senorwooly.com/static/images/marketing/doctor.png)
 
