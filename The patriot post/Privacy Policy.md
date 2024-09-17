@@ -1,6 +1,6 @@
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
-[Read The Latest Digest](https://patriotpost.us/digests/110280-mid-day-digest-2024-09-16?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Latest Digest](https://patriotpost.us/digests/110317-mid-day-digest-2024-09-17?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 Privacy Policy for _The Patriot Post_
 
@@ -104,7 +104,7 @@ Our website provides a Contact Us section to facilitate feedback from site visit
 
 Last Updated: November 15, 2011.
 
-[Read The Mid-Day Digest](https://patriotpost.us/digests/110280-mid-day-digest-2024-09-16?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Mid-Day Digest](https://patriotpost.us/digests/110317-mid-day-digest-2024-09-17?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 [Executive News Summary](https://patriotpost.us/categories/74-headlines)
 
@@ -116,20 +116,22 @@ Last Updated: November 15, 2011.
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34222)
+     [](https://patriotpost.us/cartoons/34229)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
-*      [Mark Alexander Another Trump Assassin Triggered by Hateful Political Rhetoric](https://patriotpost.us/alexander/110257-another-trump-assassin-triggered-by-hateful-political-rhetoric-2024-09-16)
-*      [Rich Lowry The Real Scandal in Springfield, Ohio](https://patriotpost.us/opinion/110249-the-real-scandal-in-springfield-ohio-2024-09-16)
-*      [Jeff Jacoby Why Don’t Unions Have to Stand for Reelection?](https://patriotpost.us/opinion/110246-why-dont-unions-have-to-stand-for-reelection-2024-09-16)
-*      [Gary Bauer Trump Tax Breaks Break the Mold, Again](https://patriotpost.us/opinion/110245-trump-tax-breaks-break-the-mold-again-2024-09-16)
-*      [Allen West An American Insurgency](https://patriotpost.us/opinion/110244-an-american-insurgency-2024-09-16)
-*      [The Washington Stand Media Censorship Money Trail Leads Back to U.S. State Department, House Committee Finds](https://patriotpost.us/opinion/110248-media-censorship-money-trail-leads-back-to-us-state-department-house-committee-finds-2024-09-16)
-*      [The Babylon Bee Media Assures Americans the Real Threat Is the Side That Keeps Getting Shot At](https://patriotpost.us/opinion/110247-media-assures-americans-the-real-threat-is-the-side-that-keeps-getting-shot-at-2024-09-16)
-*      [Guest Commentary Choosing](https://patriotpost.us/opinion/110256-choosing-2024-09-16)
+*      [Christine Flowers We Need to Return to the World of Sept. 12, 2001](https://patriotpost.us/opinion/110304-we-need-to-return-to-the-world-of-sept-12-2001-2024-09-17)
+*      [Cal Thomas Socialized Medicine: The Consequences](https://patriotpost.us/opinion/110300-socialized-medicine-the-consequences-2024-09-17)
+*      [Gary Bauer Hatred of Trump Inspires Assassins!](https://patriotpost.us/opinion/110299-hatred-of-trump-inspires-assassins-2024-09-17)
+*      [Salena Zito Newly Registered Pennsylvania Voter Motivated by Economic Circumstances](https://patriotpost.us/opinion/110297-newly-registered-pennsylvania-voter-motivated-by-economic-circumstances-2024-09-17)
+*      [Victor Joecks The Left’s Best Defense of Harris Is Denial](https://patriotpost.us/opinion/110296-the-lefts-best-defense-of-harris-is-denial-2024-09-17)
+*      [Daniel McCarthy When Character Assassination Becomes the Real Thing](https://patriotpost.us/opinion/110294-when-character-assassination-becomes-the-real-thing-2024-09-17)
+*      [Dennis Prager The Reasons Young Women Embrace the Left Do Not Reflect Well on These Women](https://patriotpost.us/opinion/110293-the-reasons-young-women-embrace-the-left-do-not-reflect-well-on-these-women-2024-09-17)
+*      [Guest Commentary The Demos’ ‘Ranked Choice Vote’ Subversion Scheme](https://patriotpost.us/opinion/110305-the-demos-ranked-choice-vote-subversion-scheme-2024-09-17)
+*      [The Washington Stand Deceptive and Trustworthy Responses to Current Political Divisiveness](https://patriotpost.us/opinion/110303-deceptive-and-trustworthy-responses-to-current-political-divisiveness-2024-09-17)
+*      [The Babylon Bee Kamala Safe and in Stable Condition After Attempted Interview](https://patriotpost.us/opinion/110302-kamala-safe-and-in-stable-condition-after-attempted-interview-2024-09-17)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -143,11 +145,13 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J7K6RDZ8X6NRRKWH4N6BV0AY.jpeg)](https://patriotpostshop.com/collections/featured-products)
+[![](https://img.patriotpost.us/01J5RS2YKRTNS1580CS7YVV0SF.jpeg)
+
+![](https://img.patriotpost.us/01J5RSAEYEKZ8DRMMYMBSNCWNH.jpeg)](https://patriotpostshop.com/collections/featured-products)
 
 ### The Foundation
 
-“In the supposed state of nature, all men are equally bound by the laws of nature, or to speak more properly, the laws of the Creator.” —Samuel Adams (1794)
+“Citizens by birth or choice of a common country, that country has a right to concentrate your affections. The name of American, which belongs to you, in your national capacity, must always exalt the just pride of Patriotism, more than any appellation derived from local discriminations.” —George Washington (1796)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
