@@ -117,7 +117,7 @@ Categories
 Heap Privacy Policy
 -------------------
 
-### Last Updated: April, 2024
+### Last Updated: September, 2024
 
 1. [Global Privacy Policy](https://heap.io/privacy#global-policy)
     
@@ -289,7 +289,7 @@ For your convenience, our Service may provide links to third-party websites or s
 
 ### **6\. CHILDREN’S PRIVACY**
 
-Our services are not intended for children under the age of 16. We do not knowingly solicit or collect personal information from children under the age of 16. If we learn that any personal information has been collected inadvertently from a child under 16, we will delete the information as soon as possible. If you believe that we might have collected information from a child under 16, please contact us at [legal@heap.io](mailto:legal@heap.io). 
+Our services are not intended for children under the age of 16. We do not knowingly solicit or collect personal information from children under the age of 16. If we learn that any personal information has been collected inadvertently from a child under 16, we will delete the information as soon as possible. If you believe that we might have collected information from a child under 16, please contact us via our Data Subject Request Form [here](mailto:legal@heap.io).
 
 ### **7\. CHANGES TO PRIVACY POLICY**
 
@@ -301,13 +301,13 @@ For additional inquiries about this Privacy Policy, please send us an email at [
 
 Heap, Inc.
 
-225 Bush St. 2nd Floor, 
+53 Beach St, 6th Floor, 
 
-San Francisco, CA 94104
+New York, NY 10013
 
 _Data Protection Officer:_ 
 
-Judicaël Phan
+Nicole Mazanitis
 
 [privacy@contentsquare.com](mailto:privacy@contentsquare.com)
 
@@ -323,7 +323,7 @@ In the event of a conflict between the Global Privacy Policy and this European P
 
 ### **1\. OUR RELATIONSHIP TO YOU**
 
-Heap, Inc., a member of the Contentsquare Group of companies, who are listed [at this link](https://contentsquare.com/contentsquare-group-list/), (“**_Heap_**”, “**_we_**”, “**our**” or “**_us_**”), is a company duly incorporated and organized under the laws of United States of America, having its registered address at 225 Bush St. 2nd Floor, San Francisco, CA 94104. Heap’s Data Protection Office (“**_DPO_**”) may be contacted at [privacy@contentsquare.com](mailto:privacy@contentsquare.com). 
+Heap, Inc., a member of the Contentsquare Group of companies, who are listed [at this link](https://contentsquare.com/contentsquare-group-list/), (“**_Heap_**”, “**_we_**”, “**our**” or “**_us_**”), is a company duly incorporated and organized under the laws of United States of America, having its registered address at 53 Beach St, 6th Floor, New York, NY 10013. Heap’s Data Protection Office (“**_DPO_**”) may be contacted at [privacy@contentsquare.com](mailto:privacy@contentsquare.com). 
 
 In order for you to understand Heap’s obligations and your rights to your personal data under this Policy, it is important to identify the relationship you have with Heap: 
 
@@ -596,11 +596,12 @@ Below is a list of each type of request we have received during the previous cal
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 | **Type of request** | **Number received** | **Number complied with** | **Number denied\*** | **Mean number of days to comply** |
-| Request to delete | 7   | 7   | 0   | Not reported |
-| Request to correct | 2   | 2   | 0   | Not reported |
-| Request to know | 1   | 1   | 0   | Not reported |
-| Request to opt-out of sale/sharing | 0   | This feature is not included | This feature is not included | This feature is not included |
+| Request to delete | 0   | 0   | 0   | This feature is not included |
+| Request to correct | 0   | 0   | 0   | This feature is not included |
+| Request to know | 1   | 1   | 0   | 44  |
+| Request to opt out of sale/sharing | 0   | This feature is not included | This feature is not included | This feature is not included |
 | Request to limit | 0   | This feature is not included | This feature is not included | This feature is not included |
+| Request to opt out of marketing communications | 1   | 1   | 0   | 27  |
 
 \*Requests may be denied due to various factors including where the request was not verifiable or made multiple times.
 
