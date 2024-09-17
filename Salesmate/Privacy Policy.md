@@ -67,7 +67,7 @@
     
     **What’s New**
     
-    ![August 2024 Release Notes ](https://www.salesmate.io/wp-content/uploads/2024/08/August_update_2024.jpg)
+    ![August 2024 Release Notes](https://res.cloudinary.com/drkqomsgx/images/w_242px,h_141px,c_scale/f_auto,q_auto:best/v1726462227/August_update_2024/August_update_2024.jpg?_i=AA)
     
     August 2024 Release Notes
     
