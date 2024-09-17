@@ -259,6 +259,15 @@ Advertise with Us
 
 Most Popular
 
+[![IN PICTURES: Great day out at Quirky Corner Sustainable Fashion Fest](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Great day out at Quirky Corner Sustainable Fashion Fest")](https://www.derrynow.com/story-telling/pictures---videos/1606217/in-pictures-great-day-out-at-quirky-corner-sustainable-fashion-fest.html)
+
+IN PICTURES: Great day out at Quirky Corner Sustainable Fashion Fest
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Great day out at Quirky Corner Sustainable Fashion Fest](https://www.derrynow.com/story-telling/pictures---videos/1606217/in-pictures-great-day-out-at-quirky-corner-sustainable-fashion-fest.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Coffin of Noah Karran at the teenagers funeral (Credit: Thomas Heaney)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Coffin of Noah Karran at the teenagers funeral (Credit: Thomas Heaney)")](https://www.derrynow.com/news/derry-news/1606372/derry-teenager-noah-karran-has-left-a-legacy-of-goodness-mourners-told-at-funeral.html)
 
 Coffin of Noah Karran at the teenagers funeral (Credit: Thomas Heaney)
@@ -268,39 +277,12 @@ Coffin of Noah Karran at the teenagers funeral (Credit: Thomas Heaney)
 [Derry teenager Noah Karran has 'left a legacy of goodness' mourners told at funeral](https://www.derrynow.com/news/derry-news/1606372/derry-teenager-noah-karran-has-left-a-legacy-of-goodness-mourners-told-at-funeral.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Taoiseach to announce €7.6 million initiative to link Wild Atlantic Way to Northern Ireland Causeway Coastal Route](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Taoiseach to announce €7.6 million initiative to link Wild Atlantic Way to Northern Ireland Causeway Coastal Route")](https://www.derrynow.com/news/local-news/1606007/taoiseach-to-announce-7-6-million-initiative-to-link-wild-atlantic-way-to-northern-ireland-causeway-coastal-route.html)
-
-Taoiseach to announce €7.6 million initiative to link Wild Atlantic Way to Northern Ireland Causeway Coastal Route
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Taoiseach to announce €7.6 million initiative to link Wild Atlantic Way to Northern Ireland Causeway Coastal Route](https://www.derrynow.com/news/local-news/1606007/taoiseach-to-announce-7-6-million-initiative-to-link-wild-atlantic-way-to-northern-ireland-causeway-coastal-route.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man (30) pleas guilty to 12 charges of possessing indecent images of children](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man (30) pleas guilty to 12 charges of possessing indecent images of children")](https://www.derrynow.com/news/local-news/1606159/derry-man-30-pleas-guilty-to-12-charges-ofpossessing-indecent-images-of-children.html)
-
-Derry Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man (30) pleas guilty to 12 charges of possessing indecent images of children](https://www.derrynow.com/news/local-news/1606159/derry-man-30-pleas-guilty-to-12-charges-ofpossessing-indecent-images-of-children.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Martin McGuinness Peace Foundation Chieftain's Walk in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Martin McGuinness Peace Foundation Chieftain's Walk in Derry")](https://www.derrynow.com/story-telling/pictures---videos/1606244/in-pictures-martin-mcguinness-peace-foundation-chieftain-s-walk-in-derry.html)
+[![Throwback Tuesday: Out and About @ charity quiz in Rafters (2012)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: Out and About @ charity quiz in Rafters (2012)")](https://www.derrynow.com/story-telling/pictures---videos/1606561/throwback-tuesday-out-and-about-charity-quiz-in-rafters-2012.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-[IN PICTURES: Martin McGuinness Peace Foundation Chieftain's Walk in Derry](https://www.derrynow.com/story-telling/pictures---videos/1606244/in-pictures-martin-mcguinness-peace-foundation-chieftain-s-walk-in-derry.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Great day out at Quirky Corner Sustainable Fashion Fest](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Great day out at Quirky Corner Sustainable Fashion Fest")](https://www.derrynow.com/story-telling/pictures---videos/1606217/in-pictures-great-day-out-at-quirky-corner-sustainable-fashion-fest.html)
-
-IN PICTURES: Great day out at Quirky Corner Sustainable Fashion Fest
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Great day out at Quirky Corner Sustainable Fashion Fest](https://www.derrynow.com/story-telling/pictures---videos/1606217/in-pictures-great-day-out-at-quirky-corner-sustainable-fashion-fest.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Throwback Tuesday: Out and About @ charity quiz in Rafters (2012)](https://www.derrynow.com/story-telling/pictures---videos/1606561/throwback-tuesday-out-and-about-charity-quiz-in-rafters-2012.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Fantastic day for community in Derry with One World Festival](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Fantastic day for community in Derry with One World Festival")](https://www.derrynow.com/story-telling/pictures---videos/1606239/in-pictures-fantastic-day-for-community-in-derry-with-one-world-festival.html)
 
@@ -311,26 +293,19 @@ IN PICTURES: Fantastic day for community in Derry with One World Festival
 [IN PICTURES: Fantastic day for community in Derry with One World Festival](https://www.derrynow.com/story-telling/pictures---videos/1606239/in-pictures-fantastic-day-for-community-in-derry-with-one-world-festival.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Bail refused for Derry man charged with possession of Romanian AKM assault rifle](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Bail refused for Derry man charged with possession of Romanian AKM assault rifle")](https://www.derrynow.com/news/local-news/1606181/bail-refused-for-derry-man-charged-with-possession-of-romanian-akm-assault-rifle.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Bail refused for Derry man charged with possession of Romanian AKM assault rifle](https://www.derrynow.com/news/local-news/1606181/bail-refused-for-derry-man-charged-with-possession-of-romanian-akm-assault-rifle.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Suspended sentence for Belfast man who assaulted his son outside Derry PSNI station](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for Belfast man who assaulted his son outside Derry PSNI station")](https://www.derrynow.com/news/local-news/1606103/suspended-sentence-for-belfast-man-who-assaulted-his-son-outside-derry-psni-station.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Suspended sentence for Belfast man who assaulted his son outside Derry PSNI station](https://www.derrynow.com/news/local-news/1606103/suspended-sentence-for-belfast-man-who-assaulted-his-son-outside-derry-psni-station.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Brother of murdered Co Derry farmer puts up £100,000 reward for information that leads to arrest and conviction of killer](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Brother of murdered Co Derry farmer puts up £100,000 reward for information that leads to arrest and conviction of killer")](https://www.derrynow.com/news/home/1606526/brother-of-murdered-co-derry-farmer-puts-up-100-000-reward-for-information-that-leads-to-arrest-and-conviction-of-killer.html)
 
 [Home](https://www.derrynow.com/)
 
 [Brother of murdered Co Derry farmer puts up £100,000 reward for information that leads to arrest and conviction of killer](https://www.derrynow.com/news/home/1606526/brother-of-murdered-co-derry-farmer-puts-up-100-000-reward-for-information-that-leads-to-arrest-and-conviction-of-killer.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1606560/derry-death-notices-tuesday-17th-september-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Tuesday, 17th September 2024](https://www.derrynow.com/news/deaths/1606560/derry-death-notices-tuesday-17th-september-2024.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Causeway Coast and Glens City Deal pause a 'kick in teeth' - East Derry MLA says](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Causeway Coast and Glens City Deal pause a 'kick in teeth' - East Derry MLA says")](https://www.derrynow.com/news/local-news/1606368/causeway-coast-and-glens-city-deal-pause-a-kick-in-teeth-east-derry-mla-says.html)
 
@@ -341,11 +316,41 @@ East Derry MLA Cara Hunter
 [Causeway Coast and Glens City Deal pause a 'kick in teeth' - East Derry MLA says](https://www.derrynow.com/news/local-news/1606368/causeway-coast-and-glens-city-deal-pause-a-kick-in-teeth-east-derry-mla-says.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Man charged with threatening to kill his uncle and dog](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man charged with threatening to kill his uncle and dog")](https://www.derrynow.com/news/local-news/1607117/man-charged-with-threatening-to-kill-his-uncle-and-dog.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man charged with threatening to kill his uncle and dog](https://www.derrynow.com/news/local-news/1607117/man-charged-with-threatening-to-kill-his-uncle-and-dog.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![PSNI appeal for information following early morning attack on house in Dungiven](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PSNI appeal for information following early morning attack on house in Dungiven")](https://www.derrynow.com/news/home/1606786/psni-appeal-for-information-following-early-morning-attack-on-house-in-dungiven.html)
+
+The PSNI are investigating the attack.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[PSNI appeal for information following early morning attack on house in Dungiven](https://www.derrynow.com/news/home/1606786/psni-appeal-for-information-following-early-morning-attack-on-house-in-dungiven.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Foul smelling and tasting water is safe to drink – O’Dowd](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Foul smelling and tasting water is safe to drink – O’Dowd")](https://www.derrynow.com/news/local-news/1606534/foul-smelling-and-tasting-water-is-safe-to-drink-odowd.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Foul smelling and tasting water is safe to drink – O’Dowd](https://www.derrynow.com/news/local-news/1606534/foul-smelling-and-tasting-water-is-safe-to-drink-odowd.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![Throwback Tuesday: Out and About @ charity quiz in Rafters (2012)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: Out and About @ charity quiz in Rafters (2012)")](https://www.derrynow.com/story-telling/pictures---videos/1606561/throwback-tuesday-out-and-about-charity-quiz-in-rafters-2012.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[Throwback Tuesday: Out and About @ charity quiz in Rafters (2012)](https://www.derrynow.com/story-telling/pictures---videos/1606561/throwback-tuesday-out-and-about-charity-quiz-in-rafters-2012.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Annual Roaring Meg Custom Bike Show a huge success](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Annual Roaring Meg Custom Bike Show a huge success")](https://www.derrynow.com/story-telling/pictures---videos/1606243/in-pictures-annual-roaring-meg-custom-bike-show-a-huge-success.html)
 
@@ -417,13 +422,6 @@ Derry City fans at the Brandywell. Pics by George Sweeney, nwpresspics
 
 [IN PICTURES: Writer James Simpson launches new novel 'True Colours' in Derry's Central Library](https://www.derrynow.com/story-telling/pictures---videos/1604423/in-pictures-writer-james-simpson-launches-new-novel-true-colours-in-derry-s-central-library.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PICTURES: St. Cecilia's College annual prizegiving](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: St. Cecilia's College annual prizegiving")](https://www.derrynow.com/news/local-news/1604233/pictures-st-cecilia-s-college-annual-prizegiving.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[PICTURES: St. Cecilia's College annual prizegiving](https://www.derrynow.com/news/local-news/1604233/pictures-st-cecilia-s-college-annual-prizegiving.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -525,49 +523,51 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![PSNI appeal for information following early morning attack on house in Dungiven](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PSNI appeal for information following early morning attack on house in Dungiven")](https://www.derrynow.com/news/home/1606786/psni-appeal-for-information-following-early-morning-attack-on-house-in-dungiven.html)
-
-The PSNI are investigating the attack.
-
-[Home](https://www.derrynow.com/)
-
-[PSNI appeal for information following early morning attack on house in Dungiven](https://www.derrynow.com/news/home/1606786/psni-appeal-for-information-following-early-morning-attack-on-house-in-dungiven.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1606560/derry-death-notices-tuesday-17th-september-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Tuesday, 17th September 2024](https://www.derrynow.com/news/deaths/1606560/derry-death-notices-tuesday-17th-september-2024.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Finance minister blasts Government’s ‘deplorable’ handling of city deals funding](https://www.derrynow.com/resizer/165/93/true/pa/2024_09_16/1726503909807_0.jpg--.jpg?1726503909981 "Finance minister blasts Government’s ‘deplorable’ handling of city deals funding")](https://www.derrynow.com/news/local-news/1606536/finance-minister-blasts-governments-deplorable-handling-of-city-deals-funding.html)
+[![Registered sex offender jailed at Derry court for failing to register address change with police](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Registered sex offender jailed at Derry court for failing to register address change with police")](https://www.derrynow.com/news/local-news/1607116/registered-sex-offender-jailed-at-derry-court-for-failing-to-register-address-change-with-police.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Finance minister blasts Government’s ‘deplorable’ handling of city deals funding](https://www.derrynow.com/news/local-news/1606536/finance-minister-blasts-governments-deplorable-handling-of-city-deals-funding.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Registered sex offender jailed at Derry court for failing to register address change with police](https://www.derrynow.com/news/local-news/1607116/registered-sex-offender-jailed-at-derry-court-for-failing-to-register-address-change-with-police.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Foul smelling and tasting water is safe to drink – O’Dowd](https://www.derrynow.com/resizer/165/93/true/pa/2024_09_16/1726502716170_0_1726504061.jpg--.jpg?1726504062029 "Foul smelling and tasting water is safe to drink – O’Dowd")](https://www.derrynow.com/news/local-news/1606534/foul-smelling-and-tasting-water-is-safe-to-drink-odowd.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Foul smelling and tasting water is safe to drink – O’Dowd](https://www.derrynow.com/news/local-news/1606534/foul-smelling-and-tasting-water-is-safe-to-drink-odowd.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Brother of murdered Co Derry farmer puts up £100,000 reward for information that leads to arrest and conviction of killer](https://www.derrynow.com/resizer/165/93/true/2024_09_16/CDP_-_17-09-24_-_Page_2_overspill_pic-1726502998244_1726503015.png--.png?1726503015491 "Brother of murdered Co Derry farmer puts up £100,000 reward for information that leads to arrest and conviction of killer")](https://www.derrynow.com/news/home/1606526/brother-of-murdered-co-derry-farmer-puts-up-100-000-reward-for-information-that-leads-to-arrest-and-conviction-of-killer.html)
-
-[Home](https://www.derrynow.com/)
-
-[Brother of murdered Co Derry farmer puts up £100,000 reward for information that leads to arrest and conviction of killer](https://www.derrynow.com/news/home/1606526/brother-of-murdered-co-derry-farmer-puts-up-100-000-reward-for-information-that-leads-to-arrest-and-conviction-of-killer.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Legacy Act court ruling ‘could have implications for protection of human rights’](https://www.derrynow.com/resizer/165/93/true/pa/2024_09_15/1726406702243_0.jpg--.jpg?1726406702602 "Legacy Act court ruling ‘could have implications for protection of human rights’")](https://www.derrynow.com/news/local-news/1606369/legacy-act-court-ruling-could-have-implications-for-protection-of-human-rights.html)
+[![Suspended sentence for man who 'lashed out' at police in Derry city centre](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for man who 'lashed out' at police in Derry city centre")](https://www.derrynow.com/news/local-news/1607109/suspended-sentence-for-man-who-lashed-out-at-police-in-derry-city-centre.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Legacy Act court ruling ‘could have implications for protection of human rights’](https://www.derrynow.com/news/local-news/1606369/legacy-act-court-ruling-could-have-implications-for-protection-of-human-rights.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Suspended sentence for man who 'lashed out' at police in Derry city centre](https://www.derrynow.com/news/local-news/1607109/suspended-sentence-for-man-who-lashed-out-at-police-in-derry-city-centre.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![County Derry prison received over 1400 complaints from prisoners last year](https://www.derrynow.com/resizer/165/93/true/pa/2024_02_08/1707350711377_0.jpg--.jpg?1707350711725 "County Derry prison received over 1400 complaints from prisoners last year")](https://www.derrynow.com/news/county-derry-post/1606885/county-derry-prison-received-over-1400-complaints-from-prisoners-last-year.html)
+
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+
+[County Derry prison received over 1400 complaints from prisoners last year](https://www.derrynow.com/news/county-derry-post/1606885/county-derry-prison-received-over-1400-complaints-from-prisoners-last-year.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man charged with threatening to kill his uncle and dog](https://www.derrynow.com/resizer/165/93/true/2024_04_04/Derry-courthouse.jpg--derry_courthouse-1712223605087.jpg--.jpg?1712223605116 "Man charged with threatening to kill his uncle and dog")](https://www.derrynow.com/news/local-news/1607117/man-charged-with-threatening-to-kill-his-uncle-and-dog.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man charged with threatening to kill his uncle and dog](https://www.derrynow.com/news/local-news/1607117/man-charged-with-threatening-to-kill-his-uncle-and-dog.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Relief for Lavey as Bellaghy rue wides](https://www.derrynow.com/resizer/165/93/true/2024_09_17/Lavey_s_A.McPeak_Bellaghy_s_Laoise_Mc_Erlean-1726571135718.jpg--.jpg?1726571137584 "Relief for Lavey as Bellaghy rue wides")](https://www.derrynow.com/news/derry-sport/1607082/relief-for-lavey-as-bellaghy-rue-wides.html)
+
+Lavey's A McPeak breaks away from Bellaghy's Laoise Mc Erlean. Pic by Sideline Photography.
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Relief for Lavey as Bellaghy rue wides](https://www.derrynow.com/news/derry-sport/1607082/relief-for-lavey-as-bellaghy-rue-wides.html)
+---------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Masters turn back the years to retain All Ireland Intermediate Shield](https://www.derrynow.com/resizer/165/93/true/2024_09_17/Masters_2-1726570492068_1726570627.jpg--.jpg?1726570627029 "Derry Masters turn back the years to retain All Ireland Intermediate Shield")](https://www.derrynow.com/news/derry-sport/1607063/derry-masters-turn-back-the-years-to-retain-all-ireland-intermediate-shield.html)
+
+Derry captain Kevin McGuckian receives the All-Ireland Shield.
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Derry Masters turn back the years to retain All Ireland Intermediate Shield](https://www.derrynow.com/news/derry-sport/1607063/derry-masters-turn-back-the-years-to-retain-all-ireland-intermediate-shield.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
