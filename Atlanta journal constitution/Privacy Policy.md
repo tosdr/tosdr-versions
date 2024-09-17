@@ -1,4 +1,4 @@
-[![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1677)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1677)](https://www.ajc.com/)
+[![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1688)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1688)](https://www.ajc.com/)
 
 Log In
 
@@ -14,14 +14,13 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
-* [A.M. ATL Newsletter](https://www.ajc.com/news/am-atl-is-false-fall-a-real-thing/HIB5SD7O65BIFJA6IWXJGACLD4/)
 * [Georgia School Shooting](https://www.ajc.com/news/georgia-school-shooting/)
 * [Politically Georgia](https://www.ajc.com/politics/politics-blog/)
 * [High School Sports](https://www.ajc.com/sports/high-school/)
 * [Falcons](https://www.ajc.com/sports/atlanta-falcons/)
 * [Braves](https://www.ajc.com/sports/atlanta-braves/)
 
-![Search icon](/pf/resources/icons/search-burger.svg?d=1677)
+![Search icon](/pf/resources/icons/search-burger.svg?d=1688)
 
 * Quick Links
     
@@ -145,7 +144,7 @@ Log In
     * [Videos](https://www.ajc.com/news/video/)
     
 
-[![ajc logo in background](/pf/resources/logos/AJC/logo-white.svg?d=1677)](https://www.ajc.com/)
+[![ajc logo in background](/pf/resources/logos/AJC/logo-white.svg?d=1688)](https://www.ajc.com/)
 
 * [About](https://www.ajc.com/about-AJC/)
     * [Help Center](https://ajc.zendesk.com/hc/en-us)
